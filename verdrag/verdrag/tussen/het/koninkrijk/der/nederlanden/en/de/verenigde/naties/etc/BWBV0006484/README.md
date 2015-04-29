@@ -819,3 +819,808 @@ Treedt in werking op een nader te bepalen tijdstip
 UNITED NATIONS HEADQUARTERS New York, 23 February 2015 Excellency, I have the honour to acknowledge receipt of your letter of 23 February 2015, in which you set out your Government’s understandings regarding the interpretation of certain provisions of the Agreement between the United Nations and the Kingdom of the Netherlands concerning the Headquarters of the International Residual Mechanism for Criminal Tribunals. In accordance with your request, I wish to confirm, on behalf of the United Nations, that the understandings reflected in your letter conform with those of the United Nations. Please accept, Excellency, the assurances of my highest consideration.   
 *Yours sincerely,* MIGUEL DE SERPA SOARES Under-Secretary-General for Legal Affairs and United Nations Legal Counsel *His Excellency* *Mr. Karel Jan Gustaaf van Oosterom* *Permanent Representative of the Kingdom of the Netherlands to the United Nations* *New York* 
 
+####Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de zetel van het Internationaal Restmechanisme voor Straftribunalen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Overwegend dat de Veiligheidsraad van de Verenigde Naties handelend krachtens Hoofdstuk VII van het Handvest van de Verenigde Naties bij zijn resolutie 1966 (2010), aangenomen op 22 december 2010, heeft besloten tot de instelling van een Internationaal Restmechanisme voor straftribunalen met twee takken, een voor het Internationaal Straftribunaal voor Rwanda (ICTR) en een voor het Internationaal Joegoslavië Tribunaal (ICTY); Overwegend dat het Internationaal Restmechanisme voor straftribunalen is ingesteld als subsidiair orgaan in de zin van artikel 29 van het Handvest van de Verenigde Naties; Overwegend dat in artikel 3 van het Statuut van het Internationaal Restmechanisme voor straftribunalen, Bijlage 1 bij resolutie 1966 (2010) van de Veiligheidsraad, bepaald wordt dat de tak voor het ICTR haar zetel in Arusha en de tak voor het ICTY haar zetel in Den Haag heeft; Overwegend dat de Veiligheidsraad bij resolutie 1966 (2010) heeft besloten dat de vaststelling van de zetels van de takken van het Mechanisme onderworpen is aan het sluiten van passende regelingen tussen de Verenigde Naties en de gastheerstaten van de takken van het Mechanisme die voor de Veiligheidsraad aanvaardbaar zijn; Overwegend dat het Koninkrijk der Nederlanden en de Verenigde Naties een verdrag wensen te sluiten om het soepel en doeltreffend functioneren van het Internationaal Restmechanisme voor straftribunalen in het Koninkrijk der Nederlanden te vergemakkelijken;   Zijn het Koninkrijk der Nederlanden en de Verenigde Naties het volgende overeengekomen:    
+
+### DEEL  I  
+
+####ALGEMENE BEPALINGEN
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  1  
+
+####Begripsomschrijvingen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Voor de toepassing van dit Verdrag wordt verstaan onder: 
+
+a. „verdachte” een persoon die als zodanig in het Statuut wordt aangeduid;  
+
+b. „bevoegde autoriteiten” de nationale, provinciale, gemeentelijke en overige bevoegde autoriteiten uit hoofde van de wet- en regelgeving en gebruiken van het gastland;  
+
+c. „raadslieden” personen die als raadsman door het Mechanisme zijn toegelaten;  
+
+d. „deskundigen die opdrachten voor het Mechanisme uitvoeren” de personen, anders dan functionarissen van het Mechanisme, die opdrachten voor het Mechanisme uitvoeren;  
+
+e. „Algemeen Verdrag” het Verdrag nopens de voorrechten en immuniteiten van de Verenigde Naties, aangenomen door de Algemene Vergadering van de Verenigde Naties op 13 februari 1946, waartoe het Koninkrijk der Nederlanden op 19 april 1948 is toegetreden;  
+
+f. „gastland” het Koninkrijk der Nederlanden;  
+
+g. „ICTR” het Internationaal Straftribunaal voor Rwanda, ingesteld door de Veiligheidsraad ingevolge zijn resolutie 955 (1994);  
+
+h. „ICTY” het Internationaal Joegoslavië Tribunaal, ingesteld door de Veiligheidsraad ingevolge zijn resoluties 808 (1993) en 827 (1993);  
+
+i. „stagiairs” afgestudeerden of postdoctorale studenten of jonge professionals die niet tot het personeel van het Mechanisme behoren, maar door het Mechanisme zijn toegelaten tot het stage- of fellowshipprogramma van het Mechanisme om bepaalde taken voor het Mechanisme uit te voeren zonder daarvoor een salaris van het Mechanisme te ontvangen;  
+
+j. „rechters” de rechters van het Mechanisme die in overeenstemming met artikel 10 van het Statuut zijn gekozen of benoemd;  
+
+k. „Mechanisme” het Internationaal Restmechanisme voor straftribunalen, ingesteld door de Veiligheidsraad ingevolge zijn resolutie 1966 (2010);  
+
+l. „ministerie van Buitenlandse Zaken” het ministerie van Buitenlandse Zaken van het gastland;  
+
+m. „functionarissen van het Mechanisme” de president, de rechters, de aanklager, de griffier en het personeel van het Mechanisme;  
+
+n. „partijen” de Verenigde Naties en het gastland;  
+
+o. „terrein” de gebouwen, delen van gebouwen en gebieden, met inbegrip van installaties en faciliteiten die het Mechanisme in overleg met het gastland ter beschikking worden gesteld of door het Mechanisme worden onderhouden, betrokken of gebruikt in het gastland in verband met zijn taken en doelstellingen, waaronder de detentie van een persoon;  
+
+p. „president” de president van het Mechanisme die door de Secretaris-Generaal in overeenstemming met artikel 11, eerste lid, van het Statuut is benoemd;  
+
+q. „aanklager” de aanklager van het Mechanisme die door de Veiligheidsraad in overeenstemming met artikel 14, vierde lid, van het Statuut is benoemd;  
+
+r. „griffier” de griffier van het Mechanisme die door de Secretaris-Generaal in overeenstemming met artikel 15, derde lid, van het Statuut is benoemd;  
+
+s. „resolutie 1966” resolutie 1966 (2010) van de Veiligheidsraad, aangenomen op 22 december 2010, waarbij het Mechanisme werd ingesteld;  
+
+t. „reglement van proces- en bewijsvoering” het in overeenstemming met artikel 13 van het Statuut aangenomen Reglement van proces- en bewijsvoering van het Mechanisme;  
+
+u. „Secretaris-Generaal” de Secretaris-Generaal van de Verenigde Naties;  
+
+v. „personeel van het Mechanisme” het personeel van de griffie zoals bedoeld in artikel 15, vierde lid, van het Statuut en het personeel van het parket van de aanklager, zoals bedoeld in artikel 14, vijfde lid, van het Statuut;  
+
+w. „Statuut” het Statuut van het Internationaal Restmechanisme voor straftribunalen dat als bijlage bij resolutie 1966 (2010) van de Veiligheidsraad is gevoegd;  
+
+x. „Verdrag van Wenen” het Verdrag van Wenen inzake diplomatiek verkeer gedaan te Wenen op 18 april 1961, waartoe het Koninkrijk der Nederlanden op 7 september 1984 is toegetreden; en  
+
+y. „getuigen” personen die als zodanig door het Mechanisme zijn aangewezen.   
+
+### Artikel  2  
+
+####Doelstellingen en reikwijdte van dit Verdrag
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Dit Verdrag regelt alle zaken die verband houden met of voortvloeien uit de instelling en het naar behoren functioneren van het Mechanisme in het gastland. Het Verdrag voorziet onder meer in het scheppen van omstandigheden die bijdragen aan de stabiliteit en onafhankelijkheid van het Mechanisme en vergemakkelijkt het soepel en doeltreffend functioneren ervan, met inbegrip van met name de behoeften met betrekking tot alle personen wier aanwezigheid op de zetel van het Mechanisme vereist is en met betrekking tot het overbrengen van informatie, mogelijk bewijs en bewijs van en naar het gastland en het in stand houden van en de toegang tot zijn archieven. 
+
+### DEEL  II  
+
+####STATUS VAN HET MECHANISME
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  3  
+
+####Rechtspersoonlijkheid
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het Mechanisme bezit volledige rechtspersoonlijkheid in het gastland. Het heeft, met name, de bevoegdheid: 
+
+a. overeenkomsten te sluiten;  
+
+b. roerende en onroerende zaken te verwerven en te vervreemden; en  
+
+c. rechtsgedingen in te stellen.     
+2.  Voor de toepassing van dit artikel wordt het Mechanisme vertegenwoordigd door de griffier.  
+
+### Artikel  4  
+
+####Voorrechten, immuniteiten en faciliteiten
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het Mechanisme geniet op het grondgebied van het gastland de voorrechten, immuniteiten en faciliteiten die noodzakelijk zijn voor de verwezenlijking van zijn doelstellingen.   
+2.  Het Algemeen Verdrag is van toepassing op het Mechanisme en de archieven van het Mechanisme, het ICTY en het ICTR.  
+
+### Artikel  5  
+
+####Onschendbaarheid van het terrein
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het terrein is onschendbaar. De bevoegde autoriteiten waarborgen dat het terrein niet geheel of gedeeltelijk wordt onteigend of aan het Mechanisme wordt ontzegd zonder zijn uitdrukkelijke toestemming.   
+2.  De bevoegde autoriteiten betreden het terrein niet voor het vervullen van een officiële taak tenzij dit geschiedt met de uitdrukkelijke instemming of op verzoek van de griffier of een door hem of haar aangewezen functionaris. Op het terrein vinden geen gerechtelijke acties en geen betekening of tenuitvoerlegging ter zake van rechtsvervolging plaats, met inbegrip van de inbeslagneming van privé-eigendommen, behoudens met instemming van de griffier of een door hem of haar aangewezen functionaris en in overeenstemming met de door hem of haar goedgekeurde voorwaarden.   
+3.  In het geval van brand of andere noodgevallen die onmiddellijk beschermend optreden vereisen, of indien de bevoegde autoriteiten in redelijkheid kunnen aannemen dat een dergelijk noodgeval zich heeft voorgedaan of op het punt staat zich voor te doen op het terrein, wordt de instemming van de griffier of een door hem of haar aangewezen functionaris voor de noodzakelijke toegang tot het terrein geacht te zijn gegeven indien geen van beiden op tijd kan worden bereikt.   
+4.  Onverminderd het bepaalde in het eerste, tweede en derde lid van dit artikel, nemen de bevoegde autoriteiten de nodige stappen om het terrein tegen brand of ander onheil te beveiligen.   
+5.  Het Mechanisme voorkomt dat zijn terrein gebruikt wordt als toevluchtsoord voor personen die arrestatie of berechting op grond van enige wet van het gastland willen ontlopen.  
+
+### Artikel  6  
+
+####Bescherming van het terrein en de omgeving daarvan
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De bevoegde autoriteiten nemen alle doeltreffende en adequate maatregelen om de beveiliging en bescherming van het Mechanisme te waarborgen en ervoor te zorgen dat de rust van het Mechanisme niet wordt verstoord door personen of groepen die het terrein betreden of door ordeverstoring in de onmiddellijke omgeving van het terrein, en voorzien het terrein van de eventueel benodigde bescherming.   
+2.  Indien de griffier of een door hem of haar aangewezen functionaris daarom verzoekt, voorzien de bevoegde autoriteiten, in overleg met de griffier of een door hem of haar aangewezen functionaris en voor zover de bevoegde autoriteiten dit noodzakelijk achten, in voldoende bescherming, met inbegrip van politiebescherming, voor de handhaving van de openbare orde op het terrein of in de onmiddellijke omgeving daarvan, en voor het verwijderen van personen van deze locatie.   
+3.  De bevoegde autoriteiten treffen alle redelijke maatregelen om te waarborgen dat het ongestoord gebruik van het terrein niet nadelig wordt beïnvloed en dat het terrein kan worden gebruikt voor de doeleinden waarvoor het is bestemd zonder te worden belemmerd door de wijze van gebruik van de percelen of gebouwen in de omgeving van het terrein.   
+4.  Het Mechanisme treft alle redelijke maatregelen om te waarborgen dat het ongestoord gebruik van de percelen in de omgeving van het terrein niet nadelig wordt beïnvloed door de wijze van gebruik van de percelen of gebouwen van het terrein.   
+5.  Het Mechanisme voorziet de bevoegde autoriteiten van alle informatie die relevant is voor de veiligheid en bescherming van het terrein.  
+
+### Artikel  7  
+
+####Recht en gezag op het terrein
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het terrein staat onder het beheer en gezag van het Mechanisme, zoals bepaald in dit Verdrag.   
+2.  Tenzij anders bepaald in dit Verdrag of het Algemeen Verdrag, is de wet- en regelgeving van het gastland van toepassing op het terrein.   
+3.  Het Mechanisme is bevoegd tot het uitvaardigen van op zijn terrein geldende eigen regels en voorschriften en tot het toepassen van alle andere regels en voorschriften van de Verenigde Naties die noodzakelijk zijn voor het uitoefenen van zijn taken. Het Mechanisme brengt dergelijke voorschriften na de aanneming ervan terstond ter kennis van de bevoegde autoriteiten. Op het terrein van het Mechanisme zijn geen wetten of voorschriften van het gastland van toepassing voor zover deze onverenigbaar zijn met de regels en voorschriften van de Verenigde Naties of die van het Mechanisme uit hoofde van dit lid.   
+4.  Het Mechanisme kan personen vanwege schending van de van toepassing zijnde regels en voorschriften van het terrein verwijderen of de toegang ertoe ontzeggen en stelt de bevoegde autoriteiten onverwijld van dergelijke maatregelen in kennis.   
+5.  Met inachtneming van de in het derde lid van dit artikel bedoelde regels en voorschriften en in overeenstemming met de wet- en regelgeving van het gastland, is het uitsluitend leden van het personeel van het Mechanisme die daartoe door de griffier of een door hem of haar aangewezen functionaris gemachtigd zijn, toegestaan wapens te dragen op het terrein.   
+6.  De griffier of een door hem of haar aangewezen functionaris stelt het gastland in kennis van de naam en identiteit van elk lid van het personeel van het Mechanisme dat door de griffier of een door hem of haar aangewezen functionaris, gemachtigd is een wapen te dragen op het terrein, alsmede van de naam, het type, kaliber en serienummer van het wapen of de wapens die hem of haar ter beschikking staan.   
+7.  Ieder geschil tussen het Mechanisme en het gastland over de vraag of een regel of voorschrift van het Mechanisme of van de Verenigde Naties onder dit artikel valt of over de vraag of een wet of voorschrift van het gastland onverenigbaar is met een regel of voorschrift van de Verenigde Naties of het Mechanisme uit hoofde van dit artikel, wordt onverwijld beslecht volgens de in artikel 44 van dit Verdrag vervatte procedure. Zolang het geschil nog niet is beslecht, is de regel die of het voorschrift dat het onderwerp van het geschil is van toepassing en is de wet of het voorschrift van het gastland op het terrein niet van toepassing voor zover het Mechanisme deze wet of dit voorschrift onverenigbaar met de regel of het voorschrift in kwestie acht.  
+
+### Artikel  8  
+
+####Openbare voorzieningen ten behoeve van het terrein
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De bevoegde autoriteiten zorgen er, op verzoek van de griffier of een door hem of haar aangewezen functionaris, voor dat het Mechanisme tegen redelijke voorwaarden de beschikking krijgt over de door het Mechanisme benodigde openbare voorzieningen waaronder, maar niet beperkt tot, post-, telefoon- en telegraafdiensten, alle communicatiemiddelen, elektriciteit, water, gas, riolering, ophalen van afval, brandbestrijding, lokaal vervoer en reiniging van de openbare weg met inbegrip van het ruimen van sneeuw.   
+2.  Wanneer de openbare voorzieningen bedoeld in het eerste lid van dit artikel door de bevoegde autoriteiten aan het Mechanisme worden geleverd of de prijzen daarvan worden bepaald door deze autoriteiten, zijn de tarieven voor deze voorzieningen niet hoger dan de laagste vergelijkbare tarieven voor instellingen en organen van wezenlijk belang voor het gastland.   
+3.  In het geval van onderbreking of dreiging van onderbreking van dergelijke voorzieningen zal aan het Mechanisme de voorrang worden gegeven die ook aan instellingen en organen van wezenlijk belang voor het gastland wordt gegeven en het gastland treft de daartoe benodigde maatregelen om te waarborgen dat de werkzaamheden van het Mechanisme niet nadelig worden beïnvloed.   
+4.  De griffier, of een door hem of haar aangewezen functionaris, treft op verzoek van de bevoegde autoriteiten passende maatregelen om naar behoren gemachtigde vertegenwoordigers van de desbetreffende nutsbedrijven in staat te stellen op het terrein van het Mechanisme voorzieningen, leidingen, buizen en rioleringen te inspecteren, repareren, onderhouden, reconstrueren of te verplaatsen zonder de uitoefening van de taken van het Mechanisme onnodig te verstoren.   
+5.  Ondergrondse werkzaamheden op het terrein kunnen door de bevoegde autoriteiten uitsluitend worden uitgevoerd na overleg met de griffier of een door hem of haar aangewezen functionaris en zonder de uitoefening van de taken van het Mechanisme te verstoren.  
+
+### Artikel  9  
+
+####Vlaggen, emblemen en onderscheidingstekens
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Het Mechanisme is bevoegd zijn vlaggen, emblemen en onderscheidingstekens alsmede die van de Verenigde Naties te tonen op zijn terrein en op voertuigen en andere vervoermiddelen die voor officiële doeleinden worden gebruikt. 
+
+### Artikel  10  
+
+####Fondsen, activa en overige eigendommen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het Mechanisme en zijn fondsen, activa en overige eigendommen, ongeacht waar deze zich bevinden of wie deze onder zich heeft, genieten immuniteit van elke vorm van rechtsvervolging, behoudens voor zover de Secretaris-Generaal in een bijzonder geval uitdrukkelijk deze immuniteit heeft opgeheven, evenwel met dien verstande dat het opheffen van immuniteit zich nooit uitstrekt tot executoriale maatregelen.   
+2.  Fondsen, activa en overige eigendommen van het Mechanisme, ongeacht waar deze zich bevinden of wie deze onder zich heeft, worden gevrijwaard van onderzoek, beslaglegging, vordering, inbeslagneming, onteigening en iedere andere vorm van inmenging, ongeacht of het optreden van uitvoerende, bestuursrechtelijke, rechterlijke of wetgevende aard is.   
+3.  Voor zover benodigd voor de uitoefening van de taken van het Mechanisme zijn de fondsen, activa en overige eigendommen van het Mechanisme, ongeacht waar deze zich bevinden of wie deze onder zich heeft, vrijgesteld van beperkingen, voorschriften, controles of moratoria van welke aard dan ook.  
+
+### Artikel  11  
+
+####Onschendbaarheid van archieven, documenten en materiaal
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De archieven van het Mechanisme, het ICTY en het ICTR en alle stukken en documenten in welke vorm dan ook alsmede naar of door het Mechanisme verzonden materiaal in het bezit van of toebehorend aan het Mechanisme ongeacht waar deze zich bevinden of wie deze onder zich heeft, zijn onschendbaar.   
+2.  De beëindiging of afwezigheid van deze onschendbaarheid doet geen afbreuk aan de beschermende maatregelen waartoe het Mechanisme, het ICTY of het ICTR kan bevelen ten aanzien van aan het Mechanisme beschikbaar gestelde of door het Mechanisme gebruikte materialen en documenten.  
+
+### Artikel  12  
+
+####Faciliteiten met betrekking tot communicatie
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Ten behoeve van zijn officiële communicatie en correspondentie geniet het Mechanisme op het grondgebied van het gastland een behandeling die niet minder gunstig is dan die welke door het gastland wordt toegekend aan een internationale organisatie of diplomatieke missie ter zake van prioriteiten, tarieven en belastingen die van toepassing zijn op post en de uiteenlopende vormen van communicatie en correspondentie.   
+2.  De officiële communicatie en correspondentie van het Mechanisme worden niet gecensureerd. Deze immuniteit ten aanzien van censuur strekt zich uit tot drukwerk, fotografische en elektronische datacommunicatie en andere vormen van communicatie die het Mechanisme kan gebruiken.   
+3.  Het Mechanisme heeft het recht alle passende communicatiemiddelen te gebruiken, met inbegrip van elektronische communicatiemiddelen, en heeft het recht ten behoeve van zijn officiële communicatie en correspondentie codes of versleutelde gegevens te gebruiken. De officiële communicatie en correspondentie van het Mechanisme zijn onschendbaar.   
+4.  Het Mechanisme heeft het recht correspondentie en andere materialen of berichten te verzenden en te ontvangen per koerier of in verzegelde tassen, ten aanzien waarvan dezelfde voorrechten, immuniteiten en faciliteiten gelden als voor diplomatieke koeriers en tassen.   
+5.  Het Mechanisme heeft het recht radioapparatuur en andere telecommunicatieapparatuur te gebruiken op de frequenties die door de Verenigde Naties zijn geregistreerd of die aan het Mechanisme zijn toegewezen door het gastland in overeenstemming met zijn nationale procedures. Het gastland streeft ernaar de door het Mechanisme aangevraagde frequenties zoveel mogelijk toe te wijzen.   
+6.  Teneinde zijn doelstellingen te verwezenlijken in overeenstemming met dit Verdrag heeft het Mechanisme het recht vrijelijk en zonder beperkingen berichten te publiceren in het gastland.  
+
+### Artikel  13  
+
+####Vrijheid van beperkingen ten aanzien van financiële activa
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het Mechanisme wordt niet beperkt door financiële controles, voorschriften, kennisgevingsvereisten met betrekking tot financiële transacties, of moratoria van enigerlei aard, en kan: 
+
+a. fondsen, goud en verhandelbare waardepapieren van elke aard bezitten en gebruiken en rekeningen aanhouden en exploiteren in welke valuta ook en elke door hem aangehouden valuta converteren in elke andere valuta;  
+
+b. vrijelijk zijn fondsen, goud of valuta van het ene land naar het andere land, of binnen het gastland overbrengen; en  
+
+c. fondsen werven op elke door hem wenselijk geachte wijze, met dien verstande dat het Mechanisme met betrekking tot de werving van fondsen binnen het gastland toestemming van de bevoegde autoriteiten dient te verkrijgen.     
+2.  Het Mechanisme geniet een behandeling die niet minder gunstig is dan die welke door het gastland wordt toegekend aan een internationale organisatie of diplomatieke missie ter zake van wisselkoersen voor zijn financiële transacties.  
+
+### Artikel  14  
+
+####Vrijstelling van het Mechanisme en zijn eigendommen van belastingen en heffingen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Binnen het kader van zijn officiële taken worden het Mechanisme, zijn activa, inkomsten en andere eigendommen vrijgesteld van: 
+
+a. alle directe belastingen, ongeacht of deze door nationale, provinciale of lokale autoriteiten worden geheven, met inbegrip van onder andere inkomstenbelasting en vennootschapsbelasting;  
+
+b. belastingen bij invoer en uitvoer;  
+
+c. motorrijtuigenbelasting;  
+
+d. belasting van personenauto’s en motorrijwielen;  
+
+e. omzetbelasting betaald over alle zaken en diensten die herhaaldelijk worden geleverd of verleend of aanzienlijke uitgaven met zich meebrengen;  
+
+f. accijnzen als inbegrepen in de prijs van alcoholhoudende dranken, tabaksproducten en koolwaterstoffen zoals brandstofolie en motorbrandstoffen;  
+
+g. overdrachtsbelasting;  
+
+h. assurantiebelasting;  
+
+i. regulerende energiebelasting;  
+
+j. belasting op leidingwater; en  
+
+k. andere belastingen en heffingen van een in hoofdzaak vergelijkbare aard als de in dit lid genoemde belastingen, die na de datum van inwerkingtreding van dit Verdrag door het gastland worden ingesteld.     
+2.  De in het eerste lid, onderdelen e tot en met k, van dit artikel genoemde vrijstellingen kunnen worden toegekend in de vorm van een teruggave. Deze vrijstellingen worden toegepast overeenkomstig de formele vereisten van het gastland. Deze vereisten doen evenwel geen afbreuk aan de in het eerste lid van dit artikel vervatte algemene beginselen.   
+3.  Goederen verworven of ingevoerd onder de in het eerste lid van dit artikel omschreven voorwaarden worden niet verkocht, verhuurd, geschonken of op andere wijze vervreemd in het gastland, behalve overeenkomstig de met het gastland overeengekomen voorwaarden.   
+4.  Het Mechanisme maakt evenwel geen aanspraak op vrijstelling van belastingen die in feite niets anders zijn dan heffingen voor openbare diensten die worden geleverd tegen een vast bedrag overeenkomstig het aantal geleverde diensten en die nauwkeurig kunnen worden geïdentificeerd, omschreven en gespecificeerd.  
+
+### Artikel  15  
+
+####Vrijstelling van invoer- en uitvoerbeperkingen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Het Mechanisme is vrijgesteld van alle invoer- en uitvoerbeperkingen met betrekking tot door het Mechanisme voor officieel gebruik ingevoerde of uitgevoerde artikelen en met betrekking tot zijn publicaties. 
+
+### DEEL  III  
+
+####VOORRECHTEN, IMMUNITEITEN EN FACILITEITEN TOEGEKEND AAN PERSONEN UIT HOOFDE VAN DIT VERDRAG
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  16  
+
+####Voorrechten, immuniteiten en faciliteiten van de president, de rechters, de aanklager en de griffier
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De president, de aanklager en de griffier, tezamen met de gezinsleden die deel uitmaken van hun huishouding die geen onderdanen of permanent ingezetenen van het gastland zijn, genieten de voorrechten, immuniteiten, vrijstellingen en faciliteiten die in overeenstemming met het internationale recht aan diplomatieke gezanten worden toegekend, met inbegrip van het Algemeen Verdrag en de bepalingen van het Verdrag van Wenen. Rechters van het Mechanisme, anders dan de president, tezamen met de gezinsleden die deel uitmaken van hun huishouding die geen onderdanen of permanent ingezetenen van het gastland zijn, genieten in de uitoefening van hun functie voor het Mechanisme dezelfde voorrechten, immuniteiten, vrijstellingen en faciliteiten. Dergelijke voorrechten, immuniteiten, vrijstellingen en faciliteiten omvatten onder andere: 
+
+a. persoonlijke onschendbaarheid, met inbegrip van immuniteit van arrestatie of detentie of enige andere vrijheidsbeperking en van inbeslagname van hun persoonlijke bagage;  
+
+b. immuniteit ten aanzien van strafrechtelijke, civielrechtelijke en bestuursrechtelijke rechtsmacht;  
+
+c. onschendbaarheid van alle stukken en documenten in welke vorm en van welk materiaal ook;  
+
+d. vrijstelling van verplichtingen met betrekking tot militaire dienst;  
+
+e. vrijstelling van inreisbeperkingen en vreemdelingenregistratie;  
+
+f. vrijstelling van belasting op de salarissen, emolumenten en vergoedingen die ter zake van hun dienstverband bij het Mechanisme aan hen worden betaald;  
+
+g. dezelfde voorrechten met betrekking tot valuta- en wisselfaciliteiten als die welke worden toegekend aan diplomatieke gezanten;  
+
+h. dezelfde immuniteiten en faciliteiten met betrekking tot hun persoonlijke bagage als die welke worden toegekend aan diplomatieke gezanten;  
+
+i. het recht vrij van rechten en belastingen, behoudens betalingen voor verleende diensten, hun meubels en bezittingen in te voeren wanneer zij voor de eerste maal hun functie in het gastland aanvaarden, en deze meubels en bezittingen vrij van rechten en belastingen weer uit te voeren naar het land van bestemming na hun vertrek bij het Mechanisme;  
+
+j. het recht ten behoeve van de communicatie met het Mechanisme in welke vorm dan ook stukken te ontvangen en te verzenden; en  
+
+k. dezelfde repatriëringsfaciliteiten als die welke overeenkomstig het Verdrag van Wenen bij internationale crises gelden voor diplomatieke gezanten.     
+2.  De president, de rechters, de aanklager en de griffier blijven immuniteit genieten van enigerlei rechtsvervolging met betrekking tot alle door hen in hun officiële hoedanigheid gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na beëindiging van de uitoefening van hun functie bij het Mechanisme.   
+3.  Voor zover het vaststellen van enige vorm van belasting wordt gebaseerd op het ingezetenschap worden tijdvakken gedurende welke de president, de rechters, de aanklager en de griffier voor de uitoefening van hun functies aanwezig zijn in het gastland, niet aangemerkt als tijdvakken van ingezetenschap.   
+4.  Het gastland is niet verplicht uitkeringen of annuïteiten betaald aan voormalige presidenten, rechters, aanklagers of griffiers alsmede aan de gezinsleden die deel uitmaken van hun huishouding vrij te stellen van inkomstenbelasting.   
+5.  Onverminderd het derde lid van dit artikel genieten de in dit artikel bedoelde personen die onderdaan of permanent ingezetene van het gastland zijn, uitsluitend de voorrechten, immuniteiten en faciliteiten uit hoofde van de artikelen V, sectie 18, en VII van het Algemeen Verdrag, tezamen met de volgende wijzigingen en aanvullende bepalingen: 
+
+a. persoonlijke onschendbaarheid, met inbegrip van immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking;  
+
+b. immuniteit van enigerlei rechtsvervolging met betrekking tot alle in hun officiële hoedanigheid gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na beëindiging van de uitoefening van hun functie bij het Mechanisme;  
+
+c. onschendbaarheid van alle officiële stukken en documenten in welke vorm en van welk materiaal dan ook;  
+
+d. vrijstelling van belasting op de salarissen, emolumenten en vergoedingen die ter zake van hun dienstverband bij het Mechanisme aan hen worden betaald;  
+
+e. het recht ten behoeve van de communicatie met het Mechanisme in welke vorm dan ook stukken te ontvangen en te verzenden; en  
+
+f. het recht vrij van rechten en belastingen, behoudens betalingen voor verleende diensten, hun meubels en bezittingen in te voeren wanneer zij voor de eerste maal hun functie in het gastland aanvaarden.     
+6.  De in het vijfde lid van dit artikel bedoelde personen worden door het gastland niet aan enige maatregel onderworpen die de vrije en onafhankelijke uitoefening van hun functie bij het Mechanisme kan belemmeren.  
+
+### Artikel  17  
+
+####Voorrechten, immuniteiten en faciliteiten van het personeel van het Mechanisme
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De leden van het personeel van het Mechanisme genieten de voorrechten, immuniteiten en faciliteiten die nodig zijn voor de onafhankelijke uitoefening van hun functie. Zij genieten de voorrechten en immuniteiten die uit hoofde van de artikelen V en VII van het Algemeen Verdrag aan functionarissen van de Verenigde Naties worden toegekend, met inbegrip van de onderstaande wijzigingen en aanvullingen: 
+
+a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking en van inbeslagname van hun persoonlijke bagage;  
+
+b. immuniteit van enigerlei rechtsvervolging met betrekking tot alle in hun officiële hoedanigheid gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na beëindiging van de uitoefening van hun functie bij het Mechanisme;  
+
+c. onschendbaarheid van alle officiële stukken en documenten in welke vorm en van welk materiaal dan ook;  
+
+d. vrijstelling van verplichtingen met betrekking tot militaire dienst;  
+
+e. tezamen met de gezinsleden die deel uitmaken van hun huishouding, vrijstelling van inreisbeperkingen en vreemdelingenregistratie;  
+
+f. vrijstelling van belasting op de salarissen, emolumenten en vergoedingen die ter zake van hun dienstverband bij het Mechanisme aan hen worden betaald;  
+
+g. dezelfde voorrechten met betrekking tot valuta- en wisselfaciliteiten als welke worden toegekend aan functionarissen met vergelijkbare rang van diplomatieke missies die in het gastland zijn gevestigd;  
+
+h. vrijstelling van inspectie van persoonlijke bagage, tenzij gegronde redenen bestaan om aan te nemen dat de bagage artikelen bevat waarvan de invoer of uitvoer bij wet verboden is of waarop de quarantainevoorschriften van het gastland van toepassing zijn; in een dergelijk geval wordt een inspectie uitgevoerd in aanwezigheid van het betrokken lid van het personeel;  
+
+i. tezamen met de gezinsleden die deel uitmaken van hun huishouding, dezelfde repatriëringsfaciliteiten als die welke overeenkomstig het Verdrag van Wenen bij internationale crises gelden voor diplomatieke gezanten; en  
+
+j. het recht vrij van rechten en belastingen, behoudens betalingen voor verleende diensten, hun meubels en bezittingen in te voeren wanneer zij voor de eerste maal hun functie in het gastland aanvaarden, en deze meubels en bezittingen vrij van rechten en belastingen weer uit te voeren naar het land van bestemming na hun vertrek bij het Mechanisme.     
+2.  Daarnaast worden aan leden van het personeel van het Mechanisme van niveau P-5 en hoger alsmede eventueel nader te bepalen bijkomende categorieën personeel van het Mechanisme die in overleg met het gastland door de griffier of een door hem of haar aangewezen functionaris, worden aangewezen, tezamen met de gezinsleden die deel uitmaken van hun huishouding en die geen onderdaan of permanent ingezetene zijn van het gastland, dezelfde voorrechten, immuniteiten en faciliteiten toegekend als die welke overeenkomstig het Verdrag van Wenen door het gastland worden toegekend aan diplomatieke gezanten met vergelijkbare rang van diplomatieke missies die in het gastland zijn gevestigd.   
+3.  Daarnaast worden aan de leden van het personeel van het Mechanisme van niveau P-4 en lager, met inbegrip van algemeen dienstverlenend personeel, tezamen met de gezinsleden die deel uitmaken van hun huishouding en die geen onderdaan of permanent ingezetene zijn van het gastland, dezelfde voorrechten, immuniteiten en faciliteiten toegekend als die welke overeenkomstig het Verdrag van Wenen door het gastland worden toegekend aan leden van het administratief en technisch personeel van diplomatieke missies die in het gastland zijn gevestigd, met dien verstande dat de immuniteit ten aanzien van de rechtsmacht in strafzaken en de persoonlijke onschendbaarheid zich niet uitstrekken tot handelingen verricht buiten hun officiële taken.   
+4.  Voor zover het vaststellen van enige vorm van belasting wordt gebaseerd op het ingezetenschap worden tijdvakken gedurende welke de leden van het personeel van het Mechanisme voor de uitoefening van hun functies aanwezig zijn in het gastland, niet aangemerkt als tijdvakken van ingezetenschap.   
+5.  Het gastland is niet verplicht uitkeringen of annuïteiten betaald aan voormalige leden van het personeel van het Mechanisme alsmede aan de gezinsleden die deel uitmaken van hun huishouding vrij te stellen van inkomstenbelasting.   
+6.  Onverminderd het vierde lid van dit artikel genieten de in dit artikel bedoelde personen die onderdaan of permanent ingezetene van het gastland zijn, uitsluitend de voorrechten, immuniteiten en faciliteiten uit hoofde van de artikelen V, paragraaf 18, en VII van het Algemeen Verdrag, tezamen met de volgende wijzigingen en aanvullende bepalingen: 
+
+a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking;  
+
+b. immuniteit van enigerlei rechtsvervolging met betrekking tot alle in hun officiële hoedanigheid gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na beëindiging van de uitoefening van hun functie bij het Mechanisme;  
+
+c. onschendbaarheid van alle officiële stukken en documenten in welke vorm en van welk materiaal dan ook;  
+
+d. vrijstelling van belasting op de salarissen, emolumenten en vergoedingen die ter zake van hun dienstverband bij het Mechanisme aan hen worden betaald; en  
+
+e. het recht vrij van rechten en belastingen, behoudens betalingen voor verleende diensten, hun meubels en bezittingen in te voeren wanneer zij voor de eerste maal hun functie in het gastland aanvaarden.     
+7.  De in het zesde lid van dit artikel bedoelde personen worden door het gastland niet aan enige maatregel onderworpen die de vrije en onafhankelijke uitoefening van hun functie bij het Mechanisme kan belemmeren.  
+
+### Artikel  18  
+
+####Deskundigen die opdrachten voor het Mechanisme uitvoeren
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Deskundigen die opdrachten voor het Mechanisme uitvoeren genieten de voorrechten, immuniteiten, vrijstellingen en faciliteiten die nodig zijn voor de onafhankelijke uitoefening van hun functie voor het Mechanisme en genieten in het bijzonder de voorrechten, immuniteiten, vrijstellingen en faciliteiten uit hoofde van de artikelen VI en VII van het Algemeen Verdrag.   
+2.  Aan deskundigen die opdrachten voor het Mechanisme uitvoeren wordt door de griffier een certificaat uitgereikt waaruit blijkt dat zij functies voor het Mechanisme uitoefenen en waarin de duur van hun functie wordt vermeld. Dit certificaat wordt voor het verstrijken van de geldigheidsduur ervan ingetrokken indien de deskundige die een opdracht voor het Mechanisme uitvoert niet langer een functie voor het Mechanisme uitoefent, of indien de aanwezigheid van de deskundige die een opdracht uitvoert op de zetel van het Mechanisme niet langer vereist is.  
+
+### Artikel  19  
+
+####Personeel dat door het Mechanisme lokaal wordt geworven en ten aanzien waarvan in dit Verdrag niets anders is geregeld, met inbegrip van personeel dat op uurbasis wordt aangesteld
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Aan de leden van door het Mechanisme lokaal geworven personeel ten aanzien van wie in dit Verdrag niets anders is geregeld, met inbegrip van personeel dat op uurbasis wordt aangesteld, wordt immuniteit van rechtsvervolging toegekend met betrekking tot alle door hen in hun officiële hoedanigheid voor het Mechanisme gesproken of geschreven woorden of verrichte handelingen. Deze immuniteit blijft ook gelden na beëindiging van de uitoefening van hun functie bij het Mechanisme. Gedurende hun dienstverband worden aan hen tevens de faciliteiten toegekend die benodigd zijn voor de onafhankelijke uitoefening van hun functie bij het Mechanisme.   
+2.  De arbeidsvoorwaarden van door het Mechanisme lokaal geworven personeel dat op uurbasis wordt aangesteld, dienen in overeenstemming te zijn met de relevante resoluties, besluiten, voorschriften, regels en het beleid van de Verenigde Naties.  
+
+### Artikel  20  
+
+####Tewerkstelling van gezinsleden van functionarissen van het Mechanisme
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het wordt gezinsleden die deel uitmaken van de huishouding van functionarissen van het Mechanisme toegestaan in het gastland betaalde werkzaamheden te verrichten gedurende de ambtstermijn van de betrokken functionaris van het Mechanisme.   
+2.  Gezinsleden die deel uitmaken van de huishouding van functionarissen van het Mechanisme die betaalde werkzaamheden verrichten genieten geen immuniteit ten aanzien van de strafrechtelijke, civielrechtelijke of bestuursrechtelijke rechtsmacht wat betreft aangelegenheden die ontstaan in de loop van of verband houden met deze werkzaamheden, met dien verstande dat executoriale maatregelen worden genomen zonder inbreuk te maken op de onschendbaarheid van hun persoon of hun woning, indien zij recht hebben op een dergelijke onschendbaarheid.   
+3.  Bij insolventie van een persoon jonger dan 18 jaar in verband met een vordering die voortvloeit uit betaalde werkzaamheden van die persoon, streeft het Mechanisme ernaar te waarborgen dat de functionaris van het Mechanisme van wiens gezin de betrokkene lid is, zijn eigen wettelijke verplichtingen die in dit verband zijn ontstaan nakomt en de Secretaris-Generaal besteedt, wanneer nodig, onverwijld aandacht aan een verzoek om opheffing ter zake.   
+4.  De in het eerste lid van dit artikel bedoelde werkzaamheden dienen in overeenstemming te zijn met de wetgeving van het gastland, met inbegrip van de wetgeving inzake belastingen en sociale zekerheid.  
+
+### Artikel  21  
+
+####Stagiairs
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Binnen acht (8) dagen na het begin van een stage in het gastland verzoekt het Mechanisme het ministerie van Buitenlandse Zaken een stagiair te registreren in overeenstemming met het tweede lid van dit artikel.   
+2.  Het ministerie van Buitenlandse Zaken registreert de stagiairs voor een tijdvak van ten hoogste een (1) jaar, mits het Mechanisme het ministerie van Buitenlandse Zaken een door hen ondertekende verklaring doet toekomen, vergezeld van voldoende bewijs, waaruit blijkt dat: 
+
+a. de stagiair het gastland is binnengekomen in overeenstemming met de van toepassing zijnde immigratieprocedures;  
+
+b. de stagiair over voldoende financiële middelen beschikt om in zijn of haar levensonderhoud te voorzien alsmede voor zijn of haar terugkeer, voldoende verzekerd is tegen ziektekosten (met inbegrip van een dekking voor kosten van ziekenhuisopname voor ten minste de duur van de stage plus een maand), beschikt over een wettelijke aansprakelijkheidsverzekering en niet ten laste zal komen van de openbare middelen van het gastland;  
+
+c. de stagiair in het gastland geen betaalde werkzaamheden zal verrichten anders dan als stagiair bij het Mechanisme, tenzij hij of zij op andere gronden gerechtigd is werk te verrichten in het gastland;  
+
+d. de stagiair geen familieleden meebrengt die bij hem of haar in het gastland zullen wonen, tenzij in overeenstemming met de desbetreffende immigratieprocedures; en  
+
+e. de stagiair het gastland verlaat binnen 15 dagen na het einde van de stage, tenzij hij of zij op andere gronden gerechtigd is in het gastland te verblijven.     
+3.  Na registratie van de stagiair in overeenstemming met het tweede lid van dit artikel geeft het ministerie van Buitenlandse Zaken aan de stagiair een identiteitskaart af.   
+4.  Het Mechanisme is niet aansprakelijk voor schade voortvloeiend uit niet-naleving door in overeenstemming met het tweede lid van dit artikel geregistreerde stagiairs van de voorwaarden van de in dat lid bedoelde verklaring.   
+5.  Stagiairs genieten geen voorrechten, immuniteiten en faciliteiten, uitgezonderd: 
+
+a. immuniteit van enigerlei rechtsvervolging met betrekking tot alle door hen in hun officiële hoedanigheid voor het Mechanisme gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na beëindiging van de stage bij het Mechanisme voor namens het Mechanisme uitgevoerde activiteiten; en  
+
+b. onschendbaarheid van alle officiële stukken en documenten in welke vorm en van welk materiaal dan ook.     
+6.  Het Mechanisme stelt het ministerie van Buitenlandse Zaken binnen acht (8) dagen na het definitieve vertrek van de stagiair uit het gastland daarvan in kennis en retourneert daarbij de identiteitskaart van de stagiair.   
+7.  In uitzonderlijke omstandigheden kan het maximumtijdvak van een (1) jaar genoemd in het tweede lid van dit artikel eenmaal worden verlengd met ten hoogste een (1) jaar.  
+
+### Artikel  22  
+
+####Raadslieden en personen die de verdediging bijstaan
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Raadslieden die in het bezit zijn van een certificaat dat zij door het Mechanisme zijn toegelaten als raadsman en die hun officiële functies uitoefenen genieten, na voorafgaande kennisgeving door het Mechanisme aan het gastland van hun opdracht, aankomst en definitieve vertrek, dezelfde voorrechten, immuniteiten en faciliteiten als die welke worden toegekend aan deskundigen die opdrachten voor de Verenigde Naties uitvoeren uit hoofde van artikel VI, paragraaf 22, onderdelen a - c, van het Algemeen Verdrag, met inbegrip van onderstaande wijzigingen en aanvullingen: 
+
+a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking en van inbeslagname van hun persoonlijke bagage;  
+
+b. immuniteit van enigerlei rechtsvervolging met betrekking tot alle in hun officiële hoedanigheid gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na beëindiging van de uitoefening van hun functie bij het Mechanisme;  
+
+c. onschendbaarheid van alle officiële stukken en documenten in welke vorm en van welk materiaal dan ook;  
+
+d. tezamen met de gezinsleden die deel uitmaken van hun huishouding, vrijstelling van inreisbeperkingen en vreemdelingenregistratie;  
+
+e. ten behoeve van hun communicatie uit hoofde van hun functie als raadslieden, het recht stukken en documenten in welke vorm dan ook te ontvangen en te verzenden;  
+
+f. vrijstelling van inspectie van persoonlijke bagage, tenzij gegronde redenen bestaan om aan te nemen dat de bagage artikelen bevat waarvan de invoer of uitvoer bij wet verboden is of waarop de quarantainevoorschriften van het gastland van toepassing zijn; in een dergelijk geval wordt een inspectie uitgevoerd in aanwezigheid van de betrokken raadsman;  
+
+g. dezelfde voorrechten met betrekking tot valuta- en wisselfaciliteiten als die welke worden toegekend aan vertegenwoordigers van buitenlandse regeringen van tijdelijke officiële missies; en  
+
+h. tezamen met de gezinsleden die deel uitmaken van hun huishouding, dezelfde repatriëringsfaciliteiten als die welke overeenkomstig het Verdrag van Wenen bij internationale crises gelden voor diplomatieke gezanten.     
+2.  Wanneer zij zijn benoemd overeenkomstig het Statuut en het Reglement van proces- en bewijsvoering, wordt aan de raadslieden door de griffier een certificaat uitgereikt voor het tijdvak benodigd voor de uitoefening van hun functie. Indien de volmacht of het mandaat wordt beëindigd voor het verstrijken van de geldigheidsduur van het certificaat, wordt het certificaat ingetrokken.   
+3.  Na ontvangst van het certificaat overeenkomstig het tweede lid van dit artikel, geeft het ministerie van Buitenlandse Zaken aan de raadslieden een identiteitskaart af indien zij langer dan 90 dagen in het gastland dienen te verblijven en zij een nationaliteit bezitten van buiten de Europese Unie.   
+4.  Voor zover het vaststellen van enige vorm van belasting wordt gebaseerd op het ingezetenschap worden tijdvakken gedurende welke de raadslieden voor de uitoefening van hun functie aanwezig zijn in het gastland, niet aangemerkt als tijdvakken van ingezetenschap.   
+5.  Raadslieden die onderdaan of permanent ingezetene van het gastland zijn, genieten uitsluitend de volgende voorrechten, immuniteiten en faciliteiten voor zover benodigd voor de onafhankelijke uitoefening van hun functie bij het Mechanisme: 
+
+a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking;  
+
+b. immuniteit van enigerlei rechtsvervolging met betrekking tot alle in hun officiële hoedanigheid gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na beëindiging van de uitoefening van hun functie bij het Mechanisme;  
+
+c. onschendbaarheid van alle officiële stukken en documenten in welke vorm en van welk materiaal dan ook; en  
+
+d. ten behoeve van de communicatie uit hoofde van hun functie als raadslieden, het recht stukken en documenten in welke vorm dan ook te ontvangen en te verzenden.     
+6.  Raadslieden worden door het gastland niet aan enige maatregel onderworpen die de vrije en onafhankelijke uitoefening van hun functie bij het Mechanisme kan beïnvloeden.   
+7.  Dit artikel doet geen afbreuk aan mogelijke disciplinaire regels die op de raadslieden van toepassing zijn.   
+8.  Bij het definitieve vertrek van de raadslieden of wanneer de raadslieden niet langer hun functie bij het Mechanisme uitoefenen, wordt de in het derde lid van dit artikel bedoelde identiteitskaart onverwijld door het Mechanisme aan het ministerie van Buitenlandse Zaken geretourneerd.   
+9.  De bepalingen van dit artikel zijn van overeenkomstige toepassing op personen die de verdediging bijstaan en als zodanig door de griffier zijn erkend, overeenkomstig de relevante regels en procedures.  
+
+### Artikel  23  
+
+####Getuigen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Onverminderd de verplichting van het gastland te voldoen aan verzoeken om bijstand van of bevelen uitgevaardigd door het Mechanisme uit hoofde van artikel 28 van het Statuut, worden aan getuigen de volgende voorrechten, immuniteiten en faciliteiten toegekend die nodig zijn voor het naar behoren functioneren van het Mechanisme, mits het in het tweede lid van artikel genoemde document wordt overgelegd: 
+
+a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking met betrekking tot handelingen of veroordelingen voorafgaand aan hun binnenkomst op het grondgebied van het gastland;  
+
+b. immuniteit van inbeslagname van hun persoonlijke bagage, tenzij gegronde redenen bestaan om aan te nemen dat de bagage artikelen bevat waarvan de invoer of uitvoer bij wet verboden is of waarop de quarantainevoorschriften van het gastland van toepassing zijn;  
+
+c. immuniteit van enigerlei rechtsvervolging met betrekking tot alle door hen gedurende hun verschijning of getuigenverklaring gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na hun verschijning of getuigenverklaring voor het Mechanisme;  
+
+d. onschendbaarheid van alle stukken en documenten in welke vorm dan ook en van materiaal met betrekking tot hun verschijning of getuigenverklaring;  
+
+e. vrijstelling van inreisbeperkingen en vreemdelingenregistratie wanneer zij reizen ten behoeve van hun verschijning of getuigenverklaring;  
+
+f. ten behoeve van de communicatie met het Mechanisme en met de raadslieden in verband met hun verschijning of getuigenverklaring, het recht stukken in welke vorm dan ook te ontvangen en te verzenden; en  
+
+g. dezelfde repatriëringsfaciliteiten als die welke overeenkomstig het Verdrag van Wenen bij internationale crises gelden voor diplomatieke gezanten.     
+2.  Aan getuigen wordt door het Mechanisme een document uitgereikt waaruit blijkt dat hun verschijning door het Mechanisme vereist is en waarin het tijdvak wordt vermeld waarin hun aanwezigheid nodig is. Dit certificaat wordt voor het verstrijken van de geldigheidsduur ervan ingetrokken indien de verschijning van de getuige voor het Mechanisme, of zijn of haar aanwezigheid op de zetel van het Mechanisme niet langer vereist is.   
+3.  De in het eerste lid van dit artikel bedoelde voorrechten, immuniteiten en faciliteiten, uitgezonderd die bedoeld in het eerste lid, onderdeel c, van dit artikel houden op van toepassing te zijn na een tijdvak van vijftien (15) aaneengesloten dagen na de datum waarop de aanwezigheid van de betrokken getuige niet langer door het Mechanisme vereist is, op voorwaarde dat een dergelijke getuige de gelegenheid heeft gehad het gastland in dat tijdvak te verlaten.   
+4.  Getuigen die onderdaan of permanent ingezetene van het gastland zijn, genieten uitsluitend de volgende voorrechten, immuniteiten en faciliteiten voor zover benodigd voor hun verschijning of getuigenverklaring voor het Mechanisme: 
+
+a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking;  
+
+b. immuniteit van enigerlei rechtsvervolging met betrekking tot alle door hen gedurende hun verschijning of getuigenverklaring gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na hun verschijning of getuigenverklaring voor het Mechanisme;  
+
+c. onschendbaarheid van alle officiële stukken en documenten in welke vorm en van welk materiaal dan ook;  
+
+d. ten behoeve van de communicatie met het Mechanisme en met hun raadslieden in verband met hun verschijning of getuigenverklaring, het recht stukken in welke vorm dan ook te ontvangen en te verzenden.     
+5.  Getuigen worden door het gastland niet aan enige maatregel onderworpen die hun verschijning of getuigenverklaring voor het Mechanisme kan beïnvloeden.   
+6.  De griffier neemt alle maatregelen die noodzakelijk zijn om de onverwijlde verplaatsing naar een derde staat te regelen van getuigen die na het verschijnen of afleggen van een getuigenverklaring voor het Mechanisme om veiligheidsredenen niet kunnen terugkeren naar hun vaderland of naar het land waar zij hun vaste verblijfplaats hebben.  
+
+### Artikel  24  
+
+####Overige personen wier aanwezigheid op de zetel van het Mechanisme vereist is
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Aan de overige personen wier aanwezigheid op de zetel van het Mechanisme vereist is worden, voor zover nodig voor het naar behoren functioneren van het Mechanisme, de volgende voorrechten, immuniteiten en faciliteiten toegekend, mits het in het tweede lid van dit artikel bedoelde document wordt overgelegd: 
+
+a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking met betrekking tot handelingen of veroordelingen voorafgaand aan hun binnenkomst op het grondgebied van het gastland;  
+
+b. immuniteit van inbeslagname van hun persoonlijke bagage, tenzij gegronde redenen bestaan om aan te nemen dat de bagage artikelen bevat waarvan de invoer of uitvoer bij wet verboden is of waarop de quarantainevoorschriften van het gastland van toepassing zijn;  
+
+c. immuniteit van enigerlei rechtsvervolging met betrekking tot alle door hen tijdens hun verblijf bij het Mechanisme gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden wanneer zij niet meer op de zetel van het Mechanisme aanwezig zijn;  
+
+d. onschendbaarheid van alle officiële stukken en documenten in welke vorm en van welk materiaal dan ook; en  
+
+e. vrijstelling van inreisbeperkingen en vreemdelingenregistratie wanneer zij ten behoeve van hun aanwezigheid op de zetel van het Mechanisme van en naar het Mechanisme reizen.     
+2.  Aan de in dit artikel bedoelde personen wordt door de griffier een document uitgereikt waaruit blijkt dat hun aanwezigheid op de zetel van het Mechanisme vereist is en waarin het tijdvak wordt vermeld waarin hun aanwezigheid nodig is. Een dergelijk document wordt voor het verstrijken van de geldigheidsduur ervan ingetrokken indien hun aanwezigheid op de zetel van het Mechanisme niet langer vereist is.   
+3.  De in het eerste lid van dit artikel bedoelde voorrechten, immuniteiten en faciliteiten houden op van toepassing te zijn na een tijdvak van vijftien (15) aaneengesloten dagen na de datum waarop de aanwezigheid van de persoon niet langer door het Mechanisme vereist is, op voorwaarde dat de persoon de gelegenheid heeft gehad het gastland in dat tijdvak te verlaten.   
+4.  In dit artikel bedoelde personen die onderdaan of permanent ingezetene van het gastland zijn, genieten geen voorrechten, immuniteiten en faciliteiten, uitgezonderd voor zover benodigd voor het naar behoren functioneren van het Mechanisme, immuniteit van enigerlei rechtsvervolging met betrekking tot alle door hen tijdens hun aanwezigheid op de zetel van het Mechanisme gesproken of geschreven woorden en verrichte handelingen. Deze immuniteit blijft ook gelden nadat hun aanwezigheid op de zetel van het Mechanisme niet langer vereist is.   
+5.  In dit artikel bedoelde personen worden door het gastland niet aan enige maatregel onderworpen die hun aanwezigheid voor het Mechanisme kan beïnvloeden.  
+
+### DEEL  IV  
+
+####AFSTAND VAN VOORRECHTEN, IMMUNITEITEN EN FACILITEITEN
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  25  
+
+####Afstand van voorrechten, immuniteiten en faciliteiten
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De in de artikelen 16, 17, 18, 19, 21, 22, 23 en 24 van dit Verdrag voorziene voorrechten, immuniteiten en faciliteiten worden toegekend in het belang van het Mechanisme en niet voor het persoonlijk nut van de betrokkenen zelf.   
+2.  De Secretaris-Generaal heeft het recht en de plicht de immuniteit die uit hoofde van dit Verdrag is toegekend aan een persoon op te heffen in elk geval waarin, naar zijn mening, de immuniteit de rechtsgang zou belemmeren en deze kan worden opgeheven zonder afbreuk te doen aan de belangen van het Mechanisme.  
+
+### DEEL  V  
+
+####SAMENWERKING TUSSEN HET MECHANISME EN HET GASTLAND
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### AFDELING  1  
+
+####: ALGEMEEN
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  26  
+
+####Algemene samenwerking tussen het Mechanisme en het gastland
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Waar dit Verdrag verplichtingen oplegt aan de bevoegde autoriteiten, ligt de uiteindelijke verantwoordelijkheid voor de vervulling van deze verplichtingen bij de regering van het gastland.   
+2.  Het gastland stelt het Mechanisme onverwijld in kennis van de keuze van de instantie die wordt aangewezen als officieel en primair verantwoordelijk aanspreekpunt ten aanzien van alle aangelegenheden met betrekking tot dit Verdrag en van alle eventuele latere wijzigingen ter zake.   
+3.  De griffier, of een door hem of haar aangewezen functionaris, fungeert als officieel aanspreekpunt voor het gastland en is primair verantwoordelijk ten aanzien van alle aangelegenheden met betrekking tot dit Verdrag. Het gastland wordt onverwijld van deze aanwijzing in kennis gesteld alsmede van alle eventuele wijzigingen ter zake.  
+
+### Artikel  27  
+
+####Samenwerking met de bevoegde autoriteiten
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het Mechanisme werkt te allen tijde samen met de bevoegde autoriteiten teneinde een goede rechtsbedeling en de handhaving van de wetten van het gastland te faciliteren, de naleving van politievoorschriften te waarborgen en gevallen van misbruik in verband met de in dit Verdrag verleende voorrechten, immuniteiten en faciliteiten te voorkomen.   
+2.  Het Mechanisme en het gastland werken samen op het gebied van veiligheid, daarbij rekening houdend met de openbare orde en nationale veiligheid van het gastland.   
+3.  Onverminderd hun voorrechten, immuniteiten en faciliteiten is het de plicht van alle personen die uit hoofde van dit Verdrag dergelijke voorrechten, immuniteiten en faciliteiten genieten, de wet- en regelgeving na te leven van de gastheerstaat. Zij zijn tevens gehouden zich niet te mengen in de interne aangelegenheden van het gastland.   
+4.  Het Mechanisme werkt samen met de bevoegde autoriteiten die verantwoordelijk zijn voor gezondheid, arbeidsveiligheid, elektronische communicatie en brandpreventie.   
+5.  Het Mechanisme leeft de met het gastland overeengekomen veiligheidsrichtlijnen na, alsook de richtlijnen van de bevoegde autoriteiten die verantwoordelijk zijn voor de voorschriften inzake brandpreventie.  
+
+### Artikel  28  
+
+####Kennisgeving en identiteitskaarten
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De griffier, of een door hem of haar aangewezen functionaris, stelt het gastland onverwijld in kennis van: 
+
+a. de benoeming van functionarissen van het Mechanisme, de datum van hun aankomst of de aanvang van hun functie en de datum van hun definitieve vertrek of de beëindiging van hun functie bij het Mechanisme.  
+
+b. de datum van aankomst en van het definitieve vertrek van gezinsleden die deel uitmaken van de huishouding van de in onderdeel a van dit lid bedoelde personen en, waar van toepassing, van het feit dat een persoon niet langer deel uitmaakt van de huishouding; en  
+
+c. de datum van aankomst en van het definitieve vertrek van personen in persoonlijke dienst of huishoudelijk personeel van de in onderdeel a van dit lid bedoelde personen en, waar van toepassing, het feit dat zij uit dienst treden van dergelijke personen.     
+2.  Het gastland verstrekt aan de functionarissen van het Mechanisme en aan de gezinsleden die deel uitmaken van hun huishouding alsmede aan personen in persoonlijke dienst of huishoudelijk personeel een identiteitskaart voorzien van de foto van de houder. Deze kaart dient ter identificatie van de houder ten overstaan van de bevoegde autoriteiten.   
+3.  Bij het definitieve vertrek van de in het tweede lid van dit artikel bedoelde personen of wanneer deze personen niet langer hun functie bij het Mechanisme uitoefenen, dient de in het tweede lid van dit artikel bedoelde identiteitskaart onverwijld door het Mechanisme te worden geretourneerd aan het ministerie van Buitenlandse Zaken.  
+
+### Artikel  29  
+
+####Socialezekerheidsstelsel
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Het socialezekerheidsstelsel van het Mechanisme biedt een dekking die vergelijkbaar is met de dekking krachtens de wetgeving van het gastland. Dienovereenkomstig zijn functionarissen op wie het bovenbedoelde stelsel van toepassing is vrijgesteld van de bepalingen op het gebied van sociale zekerheid in het gastland. Zij zijn dientengevolge niet gedekt tegen de risico’s vervat in de bepalingen op het gebied van sociale zekerheid in het gastland. Deze vrijstelling is op hen van toepassing tenzij zij betaalde werkzaamheden gaan verrichten in het gastland. 
+
+### AFDELING  2  
+
+####: VISA, VERGUNNINGEN EN OVERIGE DOCUMENTEN
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  30  
+
+####Visa voor functionarissen van het Mechanisme, raadslieden en personen die de verdediging bijstaan en deskundigen die opdrachten voor het Mechanisme uitvoeren
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Functionarissen van het Mechanisme, raadslieden en personen die de verdediging bijstaan en deskundigen die opdrachten voor het Mechanisme uitvoeren, die door de griffier of een door hem of haar aangewezen functionaris als zodanig aan het gastland zijn bekendgemaakt, hebben recht op onbelemmerde binnenkomst in, vertrek uit en verplaatsing binnen het gastland, met inbegrip van onbelemmerde toegang tot het terrein van het Mechanisme.   
+2.  Visa, waar deze vereist zijn, worden kosteloos en zo spoedig mogelijk afgegeven.   
+3.  Aanvragen voor visa, waar deze vereist zijn, van gezinsleden die deel uitmaken van de huishouding van de in het eerste lid van dit artikel bedoelde personen, worden door het gastland zo spoedig mogelijk behandeld en kosteloos verstrekt.  
+
+### Artikel  31  
+
+####Visa voor getuigen, stagiairs en overige personen wier aanwezigheid op de zetel van het Mechanisme vereist is
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Alle in de artikelen 21, 23 en 24 van dit Verdrag bedoelde personen, die door de griffier of een door hem of haar aangewezen functionaris als zodanig aan het gastland zijn bekendgemaakt, hebben recht op onbelemmerde binnenkomst in, vertrek uit en, met inachtneming van het derde lid van dit artikel, verplaatsing binnen het gastland, wanneer van toepassing en ten behoeve van het Mechanisme.   
+2.  Visa, waar deze vereist zijn, worden kosteloos en zo spoedig mogelijk afgegeven. Dezelfde faciliteiten worden toegekend aan personen die getuigen begeleiden en die door de griffier of een door hem of haar aangewezen functionaris als zodanig zijn bekendgemaakt aan het gastland.   
+3.  Het gastland kan aan de visa de voorwaarden of beperkingen verbinden die noodzakelijk zijn om schendingen van zijn openbare orde te voorkomen of de veiligheid van de betrokken persoon te beschermen. Alvorens het derde lid van dit artikel toe te passen vraagt het gastland het Mechanisme om zijn zienswijze.   
+4.  Het gastland faciliteert, voor zover nodig, de binnenkomst in, het vertrek uit en verplaatsing binnen het gastland voor personen die worden verdacht of beschuldigd van minachting van het hof en tegen wie geen bevel tot aanhouding is uitgevaardigd op het moment waarop de persoon het gastland binnenkomt, mits rekening wordt gehouden met de belangen van de openbare orde en veiligheid in het gastland.  
+
+### Artikel  32  
+
+####Visa voor bezoekers van personen die door het Mechanisme in hechtenis worden gehouden
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het gastland treft passende voorzieningen om visa voor bezoekers van personen die door het Mechanisme in hechtenis worden gehouden snel te behandelen. Visa voor bezoekers die familieleden zijn van een persoon die door het Mechanisme in hechtenis wordt gehouden worden snel behandeld en kunnen, waar van toepassing, kosteloos of tegen een gereduceerd tarief worden verstrekt.   
+2.  Op de visa voor de in het eerste lid van dit artikel bedoelde bezoekers kunnen territoriale beperkingen van toepassing zijn. Visa kunnen worden geweigerd in het geval dat: 
+
+a. de in het eerste lid van dit artikel bedoelde bezoekers geen documenten kunnen overleggen ter staving van het doel van het voorgenomen verblijf en de verblijfsomstandigheden en waaruit blijkt dat zij over voldoende middelen van bestaan beschikken, zowel voor de duur van het voorgenomen verblijf als voor de terugreis naar hun land van herkomst of voor de doorreis naar een derde staat, waar zij met zekerheid zullen worden toegelaten, dan wel in staat zijn deze middelen rechtmatig te verwerven;  
+
+b. zij ter fine van weigering van toegang gesignaleerd staan; of  
+
+c. zij dienen te worden beschouwd als een gevaar voor de openbare orde, de nationale veiligheid of de internationale betrekkingen van een van de overeenkomstsluitende partijen bij de Overeenkomst ter uitvoering van het tussen de Regeringen van de Staten van de Benelux Economische Unie, de Bondsrepubliek Duitsland en de Franse Republiek op 14 juni 1985 te Schengen gesloten Akkoord betreffende de geleidelijke afschaffing van de controles aan de gemeenschappelijke grenzen.     
+3.  Het gastland kan aan de visa de voorwaarden of beperkingen verbinden die noodzakelijk zijn om schendingen van zijn openbare orde te voorkomen of de veiligheid van de betrokken persoon te beschermen.   
+4.  Alvorens het tweede of derde lid van dit artikel toe te passen vraagt het gastland het Mechanisme om zijn zienswijze.  
+
+### Artikel  33  
+
+####Laissez-passer en certificaat van de Verenigde Naties
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het gastland erkent en accepteert het laissez-passer van de Verenigde Naties als geldig reisdocument. Wanneer van toepassing stemt het gastland ermee in de benodigde visa af te geven voor de laissez-passer van de Verenigde Naties.   
+2.  Overeenkomstig paragraaf 26 van het Algemeen Verdrag erkent en aanvaardt het gastland het certificaat van de Verenigde Naties dat is afgegeven aan personen die reizen ten behoeve van het Mechanisme.   
+3.  Aan houders van een laissez-passer of van een certificaat waaruit blijkt dat zij reizen ten behoeve van het Mechanisme worden faciliteiten voor snel reizen verleend.  
+
+### Artikel  34  
+
+####Rijbewijs
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Voor de duur van hun tewerkstelling bij het Mechanisme is het functionarissen van het Mechanisme, gezinsleden die deel uitmaken van hun huishouding en personen in persoonlijke dienst toegestaan van het gastland een rijbewijs te verkrijgen op vertoon van hun geldige buitenlandse rijbewijs dan wel hun eigen geldige buitenlandse rijbewijs te blijven gebruiken, mits zij in het bezit zijn van een door het gastland in overeenstemming met artikel 28 van dit Verdrag afgegeven identiteitskaart.   
+2.  Elke persoon aan wie het gastland een identiteitsbewijs heeft afgegeven mag voor de duur van zijn opdracht zijn eigen geldige buitenlandse rijbewijs blijven gebruiken.  
+
+### AFDELING  3  
+
+####: BEVEILIGING, OPERATIONELE BIJSTAND
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  35  
+
+####Beveiliging, veiligheid en bescherming van de in dit Verdrag bedoelde personen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Onverminderd de voorrechten, immuniteiten en faciliteiten die uit hoofde van dit Verdrag worden toegekend, nemen de bevoegde autoriteiten de doeltreffende en adequate maatregelen die vereist kunnen zijn om de beveiliging, veiligheid en bescherming van de in dit Verdrag bedoelde personen te waarborgen, en die noodzakelijk zijn voor het naar behoren functioneren van het Mechanisme, zonder inmenging van welke aard dan ook.   
+2.  Het Mechanisme werkt samen met de bevoegde autoriteiten teneinde ervoor te zorgen dat alle in dit Verdrag bedoelde personen zich kunnen houden aan de instructies die hun door de bevoegde autoriteiten worden gegeven met het oog op hun beveiliging en veiligheid.   
+3.  Onverminderd hun voorrechten, immuniteiten en faciliteiten is het de plicht van alle in dit Verdrag bedoelde personen zich te houden aan de instructies die hun door de bevoegde autoriteiten worden gegeven met het oog op hun beveiliging en veiligheid.  
+
+### Artikel  36  
+
+####Vervoer van personen die door het Mechanisme in hechtenis worden gehouden
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het vervoer van het punt van aankomst in het gastland naar het terrein van het Mechanisme van personen die door het Mechanisme in hechtenis worden gehouden ingevolge het Statuut en het Reglement van proces- en bewijsvoering, wordt, op verzoek van het Mechanisme, in overleg met het Mechanisme uitgevoerd door de bevoegde autoriteiten van het gastland.   
+2.  Het vervoer van het terrein van het Mechanisme naar het punt van vertrek uit het gastland van personen die door het Mechanisme in hechtenis worden gehouden ingevolge het Statuut en het Reglement van proces- en bewijsvoering wordt, op verzoek van het Mechanisme, in overleg met het Mechanisme uitgevoerd door de bevoegde autoriteiten van het gastland.   
+3.  Het vervoer buiten het terrein van het Mechanisme van personen die door het Mechanisme in hechtenis worden gehouden ingevolge het Statuut en het Reglement van proces- en bewijsvoering, wordt, op verzoek van het Mechanisme, in overleg met het Mechanisme uitgevoerd door de bevoegde autoriteiten van het gastland.   
+4.  Het Mechanisme stelt de bevoegde autoriteiten van het gastland binnen een redelijke termijn in kennis van een verzoek om vervoer van de in dit artikel bedoelde personen. Wanneer mogelijk wordt deze kennisgeving 72 uur van te voren gedaan.   
+5.  Wanneer het gastland ingevolge dit artikel een verzoek ontvangt en ter zake van de uitvoering van het verzoek een probleem vaststelt, wordt onverwijld overleg gepleegd met het Mechanisme teneinde de kwestie op te lossen. Dergelijke problemen kunnen onder andere betreffen: 
+
+a. onvoldoende tijd en/of informatie om het verzoek uit te voeren;  
+
+b. de onmogelijkheid, ondanks alle mogelijke inspanningen, adequate veiligheidsmaatregelen te treffen voor het vervoer van de persoon; of  
+
+c. het bestaan van een gevaar voor de openbare orde en veiligheid in het gastland.     
+6.  Een persoon die door het Mechanisme in hechtenis wordt gehouden ingevolge het Statuut en het Reglement van proces- en bewijsvoering, wordt rechtstreeks en zonder belemmering naar de in het eerste en tweede lid van dit artikel genoemde bestemming vervoerd of naar een andere bestemming waarom het Mechanisme ingevolge het derde lid van dit artikel kan verzoeken.   
+7.  Het Mechanisme en het gastland treffen, naargelang van toepassing, praktische regelingen voor het vervoer van personen die door het Mechanisme in hechtenis worden gehouden ingevolge het Statuut en het Reglement van proces- en bewijsvoering in overeenstemming met dit artikel.  
+
+### Artikel  37  
+
+####Samenwerking bij detentie
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het gastland werkt met het Mechanisme samen om de detentie van personen te faciliteren en het Mechanisme in staat te stellen zijn taken uit te oefenen in zijn detentiecentrum.   
+2.  Wanneer de aanwezigheid van een persoon die zich in hechtenis bevindt, vereist is voor het afleggen van een verklaring of andere medewerking aan het Mechanisme en wanneer, om veiligheidsredenen, een dergelijke persoon niet kan worden vastgehouden in het detentiecentrum van het Mechanisme, plegen het Mechanisme en het gastland overleg en treffen, wanneer noodzakelijk, regelingen om de persoon te vervoeren naar een penitentiaire inrichting of andere door het gastland ter beschikking gestelde locatie.  
+
+### Artikel  38  
+
+####Voorlopige invrijheidstelling
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het gastland faciliteert de overbrenging van personen die voorlopig in vrijheid zijn gesteld naar een staat niet zijnde het gastland.   
+2.  Het gastland faciliteert de terugkeer naar het gastland van personen die voorlopig in vrijheid zijn gesteld alsmede hun kortdurende verblijf in het gastland voor elk doel dat verband houdt met de procedures van het Mechanisme.   
+3.  Het Mechanisme en het gastland treffen praktische voorzieningen voor de uitvoering van dit artikel.  
+
+### Artikel  39  
+
+####Invrijheidstelling
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Wanneer een persoon door het Mechanisme in vrijheid wordt gesteld omdat de persoon tijdens het proces of in beroep, of om een andere reden is vrijgesproken, treft het Mechanisme zo spoedig mogelijk voorzieningen die het passend acht voor de overbrenging van de persoon, rekening houdend met de opvattingen van de persoon, naar een staat die verplicht is hem of haar te ontvangen, een andere staat die ermee instemt hem of haar te ontvangen, of een staat die om zijn of haar uitlevering heeft verzocht met instemming van de staat die hem of haar oorspronkelijk had overgeleverd.   
+2.  De bepalingen van artikel 36 van dit Verdrag zijn van overeenkomstige toepassing op het vervoer van de in dit artikel bedoelde personen binnen het gastland.   
+3.  Een in dit artikel bedoelde persoon verblijft niet op het grondgebied van het gastland tenzij laatstgenoemde staat hiervoor toestemming geeft.  
+
+### Artikel  40  
+
+####Tenuitvoerlegging van vonnissen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De gevangenisstraf wordt ondergaan in een staat die door het Mechanisme wordt aangewezen uit de staten waarmee de Verenigde Naties hiertoe een overeenkomst heeft overeenkomstig artikel 25 van het Statuut. Het Mechanisme begint zo spoedig mogelijk met de procedure voor het aanwijzen van een staat van tenuitvoerlegging. 
+
+### Artikel  41  
+
+####Beperking van de uitoefening van rechtsmacht door het gastland
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het gastland oefent geen rechtsmacht uit en neemt geen verzoek om uitlevering in behandeling van een andere staat met betrekking tot personen die voor het Mechanisme verschijnen en door het Mechanisme vervolgd worden, ten aanzien van handelen, nalaten te handelen of veroordelingen voorafgaand aan hun binnenkomst op het grondgebied van het gastland, zoals vervat in het Reglement van proces- en bewijsvoering.   
+2.  Aan de in dit artikel voorziene immuniteit komt een einde wanneer de persoon die is vrijgesproken, in vrijheid is gesteld of wiens aanwezigheid anderszins niet langer door het Mechanisme wordt verlangd en die vanaf die datum gedurende vijftien (15) achtereenvolgende dagen de gelegenheid heeft gehad te vertrekken, niettemin is gebleven op het grondgebied van het gastland of, na te zijn vertrokken, weer is teruggekeerd.  
+
+### DEEL  VI  
+
+####SLOTBEPALINGEN
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  42  
+
+####Aanvullende regelingen en overeenkomsten
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De bepalingen van dit Verdrag worden bij de ondertekening aangevuld door een notawisseling waarin de gezamenlijke afspraken van het Verdrag door de partijen wordt bevestigd.   
+2.  Het Mechanisme en het gastland kunnen, voor de toepassing van dit Verdrag of teneinde in dit Verdrag niet voorziene kwesties te regelen, in voorkomende gevallen aanvullende regelingen treffen en overeenkomsten sluiten.  
+
+### Artikel  43  
+
+####Beslechting van geschillen met derden
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Het Mechanisme stelt bepalingen vast ten behoeve van een passende wijze van beslechting van: 
+
+a. geschillen die voortvloeien uit contracten en andere geschillen van privaatrechtelijke aard waarbij het Mechanisme partij is; en  
+
+b. geschillen waarbij in dit Verdrag bedoelde personen betrokken zijn die uit hoofde van hun officiële positie of functie in verband met het Mechanisme immuniteit genieten, indien deze immuniteit door de Secretaris-Generaal niet is opgeheven.   
+
+### Artikel  44  
+
+####Beslechting van geschillen betreffende de interpretatie of toepassing van dit Verdrag of van aanvullende regelingen of overeenkomsten
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Alle geschillen die voortvloeien uit de interpretatie of toepassing van dit Verdrag of van aanvullende regelingen of overeenkomsten tussen de partijen, worden beslecht door middel van overleg, onderhandeling of een andere overeengekomen wijze van beslechting.   
+2.  Indien het geschil niet in overeenstemming met het eerste lid van dit artikel binnen drie maanden na een schriftelijk verzoek daartoe door een van de partijen bij het geschil is beslecht, wordt het geschil op verzoek van een van beide partijen voorgelegd aan een scheidsgerecht bestaande uit drie scheidslieden. Elke partij benoemt één scheidsman en de twee aldus benoemde scheidslieden benoemen de derde die voorzitter zal zijn van het scheidsgerecht. Indien binnen dertig dagen na het verzoek om arbitrage een van de partijen geen scheidsman heeft benoemd, of indien binnen vijftien (15) dagen na de benoeming van de twee scheidslieden geen derde is benoemd, kan elk van beide partijen de Presidentvan het Internationaal Gerechtshof verzoeken de bedoelde scheidsman te benoemen. Het scheidsgerecht stelt zijn eigen procedures vast, mits twee scheidslieden een quorum voor alle doeleinden vormen, en alle besluiten dienen te worden genomen met de instemming van tenminste twee scheidslieden. De kosten van het scheidsgerecht begroot door het scheidsgerecht worden door de partijen gedragen. De uitspraak van het scheidsgerecht gaat vergezeld van een uiteenzetting van de gronden ervan en is onherroepelijk en bindend voor de partijen.  
+
+### Artikel  45  
+
+####Toepassing
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Dit Verdrag is uitsluitend van toepassing op het deel van het Koninkrijk der Nederlanden in Europa. 
+
+### Artikel  46  
+
+####Wijzigingen en beëindiging
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Dit Verdrag kan met wederzijdse instemming van de partijen worden gewijzigd.   
+2.  Dit Verdrag wordt op verzoek van een van de partijen getoetst om wijzigingen te overwegen in het licht van voorrechten, immuniteiten, faciliteiten en behandeling die door het gastland worden toegekend aan een vergelijkbare internationale organisatie of een scheidsgerecht die gunstiger zijn dan de vergelijkbare voorrechten, immuniteiten, faciliteiten en behandeling in dit Verdrag.   
+3.  Dit Verdrag houdt met wederzijdse instemming van de partijen op van kracht te zijn indien de zetel van het Mechanisme wordt verplaatst uit het grondgebied van het gastland of indien het Mechanisme wordt ontbonden, met uitzondering van de bepalingen die van toepassing kunnen zijn in verband met de ordentelijke beëindiging van de werkzaamheden van het Mechanisme op zijn zetel in het gastland en de vervreemding van zijn bezittingen aldaar, alsmede van de bepalingen inzake immuniteit ten aanzien van elke juridische procedure met betrekking tot alle in een officiële hoedanigheid uit hoofde van dit Verdrag gesproken of geschreven woorden en verrichte handelingen.  
+
+### Artikel  47  
+
+####Uitlegging van verdragen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De bepalingen van dit Verdrag vullen de bepalingen van het Algemeen Verdrag en het Verdrag van Wenen aan, het laatstgenoemde verdrag echter uitsluitend wat betreft de relevantie ervan voor de diplomatieke voorrechten, immuniteiten en faciliteiten die aan de in dit Verdrag bedoelde categorieën personen worden toegekend. Voor zover een bepaling in dit Verdrag en bepalingen van het Algemeen Verdrag en het Verdrag van Wenen op hetzelfde onderwerp betrekking hebben, is elk van deze bepalingen van toepassing en wordt de werking van geen van de bepalingen door een andere bepaling beperkt. 
+
+### Artikel  48  
+
+####Inwerkingtreding
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat beide partijen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de wettelijke vereisten voor de inwerkingtreding is voldaan.   
+2.  Op het moment van inwerkingtreding van dit Verdrag worden het Verdrag betreffende de zetel van het Internationaal Tribunaal voor de vervolging van personen verantwoordelijk voor ernstige schendingen van het internationaal humanitair recht op het grondgebied van het voormalig Joegoslavië sedert 1991, ondertekend op 29 juli 1994, en het Verdrag inzake de toepasselijkheid van het zetelverdrag met het Internationaal Joegoslavië Tribunaal op de activiteiten en procedures van het Internationaal Straftribunaal voor Rwanda op het grondgebied van het Koninkrijk der Nederlanden, 22 en 24 april 1996, en de respectieve aanvullende overeenkomsten daarbij waarvan de inhoud in dit Verdrag aan de orde komt, beëindigd en is dit Verdrag van overeenkomstige toepassing op het ICTY en ICTR.  
+
+TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend. GEDAAN te New York op 23 februari van het jaar 2015, in tweevoud, in de Engelse taal. *Voor het Koninkrijk der Nederlanden,* KAREL JAN GUSTAAF VAN OOSTEROM *Voor de Verenigde Naties,* MIGUEL DE SERPA SOARES  
+
+### Nr.  I  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De tekst van de vertaling is niet beschikbaar.    
+
+### Nr.  II  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De tekst van de vertaling is niet beschikbaar.    

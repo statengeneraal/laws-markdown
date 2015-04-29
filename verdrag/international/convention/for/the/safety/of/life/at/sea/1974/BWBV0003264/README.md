@@ -5077,7 +5077,7 @@ Notwithstanding the provisions of regulation 9.2.2, in passenger ships carrying 
 
 .2 in cargo ships, the drainage and pumping arrangements shall be such as to prevent the build-up of free surfaces. In such case, the drainage system shall be sized to remove no less than 125% of the combined capacity of both the water-spraying system pumps and the required number of fire hose nozzles, taking into account the guidelines developed by the Organization. The drainage system valves shall be operable from outside the protected space at a position in the vicinity of the extinguishing system controls. Bilge wells shall be of sufficient holding capacity and shall be arranged at the side shell of the ship at a distance from each other of not more than 40 m in each watertight compartment. If this is not possible, the adverse effect upon stability of the added weight and free surface of water shall be taken into account to the extent deemed necessary by the Administration in its approval of the stability information . Such information shall be included in the stability information supplied to the master as required by regulation II-1/5-1.  
 
-6.1.5 On all ships, for closed vehicles and ro-ro spaces and special category spaces, where fixed pressure water-spraying systems are fitted, means shall be provided to prevent the blockage of drainage arrangements, taking into account the guidelines developed by the Organization<sup> 5) Refer to the Guidelines for drainage systems in closed vehicle and ro-ro spaces and special category spaces, to be developed by the Organization. </sup>. Ships constructed before 1 January 2010 shall comply with the requirements of this paragraph by the first survey after 1 January 2010.
+6.1.5 On all ships, for closed vehicles and ro-ro spaces and special category spaces, where fixed pressure water-spraying systems are fitted, means shall be provided to prevent the blockage of drainage arrangements, taking into account the guidelines developed by the Organization. Ships constructed before 1 January 2010 shall comply with the requirements of this paragraph by the first survey after 1 January 2010.
 
 6.2 Portable fire-extinguishers
 
@@ -6225,7 +6225,7 @@ Instructions for on-board maintenance of life-saving appliances shall be easily 
 2.1. Life-saving appliances and arrangements may deviate from the requirements set out in part B, provided that the alternative design and arrangements meet the intent of the requirements concerned and provide an equivalent level of safety to this chapter.  
 
 2.2. When alternative design or arrangements deviate from the prescriptive requirements of part B, an engineering analysis, evaluation and approval of the design and arrangements shall be carried out in accordance with this regulation.     
-3.  Engineering analysis The engineering analysis shall be prepared and submitted to the Administration, based on the guidelines developed by the Organization<sup> 6) Refer to the Guidelines on alternative design and arrangements for SOLAS chapters II-1 and III (MSC.1/Circ.1212). </sup> and shall include, as a minimum, the following elements: 
+3.  Engineering analysis The engineering analysis shall be prepared and submitted to the Administration, based on the guidelines developed by the Organization and shall include, as a minimum, the following elements: 
 
 .1. determination of the ship type and the life-saving appliance and arrangements concerned;  
 
@@ -7244,7 +7244,7 @@ All decisions which are made for the purpose of applying the requirements of Reg
 
 1.2. Equipment and arrangements for pilot transfer which are installedon or after 1 July 2012 shall comply with the requirements of this regulation, and due regard shall be paid to the standards adopted by the Organization.  
 
-1.3. Except as provided otherwise, equipment and arrangements for pilot transfer which are provided on ships before 1 July 2012 shall at least comply with the requirements of regulation 17<sup> 3) Refer to resolution MSC.99(73), renumbering previous regulation 17 as regulation 23, which entered into force on 1 July 2002. </sup>or 23, as applicable, of the International Convention for the Safety of Life at Sea, 1974, in force prior to that date, and due regard shall be paid to the standards adopted by the Organization prior to that date.  
+1.3. Except as provided otherwise, equipment and arrangements for pilot transfer which are provided on ships before 1 July 2012 shall at least comply with the requirements of regulation 17 or 23, as applicable, of the International Convention for the Safety of Life at Sea, 1974, in force prior to that date, and due regard shall be paid to the standards adopted by the Organization prior to that date.  
 
 1.4. Equipment and arrangements installed on or after 1 July 2012, which are a replacement of equipment and arrangements provided on ships before 1 July 2012, shall, in so far as is reasonable and practicable, comply with the requirements of this regulation.  
 
@@ -11398,7 +11398,7 @@ waarbij:  *v<sub>m</sub> * = de in overeenstemming met paragraaf 6.1 berekende *
 
 ####Detectiesystemen tegen vollopen voor passagiersschepen, gebouwd op of na 1 juli 2010 die 36 personen of meer vervoeren
 
-In waterdichte ruimten onder het schottendek moet een detectiesysteem tegen vollopen worden aangebracht op basis van de door de Organisatie opgestelderichtsnoeren.<sup> 13) Zie de door de Organisatie op te stellen richtsnoeren. </sup>  
+In waterdichte ruimten onder het schottendek moet een detectiesysteem tegen vollopen worden aangebracht op basis van de door de Organisatie opgestelderichtsnoeren.  
 
 ### Voorschrift  23  
 
@@ -11493,7 +11493,7 @@ In waterdichte ruimten onder het schottendek moet een detectiesysteem tegen voll
 ####Middelen voor achteruit varen
 
 1.  Er dient voldoende vermogen om achteruit te kunnen varen aanwezig te zijn, ten einde een goede besturing van het schip onder normale bedrijfsomstandigheden te verzekeren.   
-2.  Er moet worden aangetoond en geregistreerd dat de machineinstallatie in staat is de richting van de stuwdruk van de schroef binnen aanvaardbare tijd om te keren en hiermede het schip binnen een redelijke afstand vanuit de maximale dienstsnelheid vooruit tot stilstand te brengen.   
+2.  Er moet worden aangetoond en geregistreerd dat de machineinstallatie in staat is de richting van de stuwdruk van de schroef binnen aanvaardbare tijd om te keren en hiermede het schip binnen een redelijke afstand vanuit de maximale dienstsnelheid vooruit tot stilstand te brengen.<sup>*)Verwezen wordt naar de „Aanbeveling inzake informatie die moet zijn opgenomen in het manoeuvreerboekje zoals aangenomen in IMCO-ResolutieA. 209(VII)”.</sup>   
 3.  Een overzicht van de stoptijden, en daarmede verband houdende koersen en afstanden van het schip zoals tijdens proefvaarten vastgesteld, te zamen met de resultaten van de proefnemingen om bij schepen met meerdere schroeven de manoeuvreer- en stuureigenschappen bij het uitvallen van één of meer schroeven vast te stellen, dient aan boord aanwezig te zijn ten behoeve van de kapitein of ander aangewezen personeel.<sup>*)Verwezen wordt naar de „Aanbeveling inzake informatie die moet zijn opgenomen in het manoeuvreerboekje zoals aangenomen in IMCO-ResolutieA. 209(VII)”.</sup>   
 4.  Indien een schip is uitgerust met aanvullende voorzieningen om te manoeuvreren of te stoppen, dient de doeltreffendheid hiervan te zijn aangetoond en vastgesteld als bedoeld in de paragrafen 2 en 3.  
 
@@ -13968,7 +13968,7 @@ Noten: Van toepassing op de tabellen 9.7 tot en met 9.8, waar deze staan aangege
 
 .1 overeenkomstig paragraaf 7.1.1.2 de kanalen moeten zijn vervaardigd van elk materiaal met een laag vlamverspreidend vermogen;  
 
-.2 op schepen gebouwd op of na 1 juli 2010 dienen de kanalen te zijn vervaardigd van hittebestendig onbrandbaar materiaal dat aan de binnen- en buitenzijde voorzien kan zijn van membranen met een laag vlamverspreidend vermogen en waarvan het oppervlak bij de gebruikte dikte in alle gevallen een calorische waarde<sup>1)Zie de door de Internationale Organisatie voor Normalisatie gepubliceerde aanbevelingen, in het bijzonder de publicatie ISO 1716: 2002 – *Bepaling van het calorisch potentieel.*</sup> mag hebben van ten hoogste 45 MJ/m<sup>2</sup>;
+.2 op schepen gebouwd op of na 1 juli 2010 dienen de kanalen te zijn vervaardigd van hittebestendig onbrandbaar materiaal dat aan de binnen- en buitenzijde voorzien kan zijn van membranen met een laag vlamverspreidend vermogen en waarvan het oppervlak bij de gebruikte dikte in alle gevallen een calorische waarde mag hebben van ten hoogste 45 MJ/m<sup>2</sup>;
 
 .3 de kanalen mogen alleen worden gebruikt aan het eind van het ventilatiesysteem; en  
 
@@ -15152,7 +15152,7 @@ Noten: Van toepassing op de tabellen 9.7 tot en met 9.8, waar deze staan aangege
 
 3.6 Persoonlijke bescherming
 
-3.6.1 Er moeten, naast de krachtens voorschrift 10.10 vereiste brandweeruitrusting, vier stellen volledig beschermende, chemicaliënbestendige kleding aanwezig zijn en wordt gekozen rekening houdend met de gevaren die verband houden met de te vervoeren chemische stoffen en met de door de Organisatie ontwikkelde normen in overeenstemming met de klasse en fysieke staat<sup>*Voor vaste lading in bulk moet de beschermende kleding voldoen aan de uitrustingvereisten vermeld in de desbetreffende overzichten in de IMSBC-Code voor de afzonderlijke stoffen. Voor verpakte goederen moet de beschermende kleding voldoen aan de uitrustingsvereisten vermeld in de noodmaatregelen en -procedures (EmS) uit de bijlage bij de IMDG-Code voor de afzonderlijke stoffen.</sup>. De beschermende kleding moet de gehele huid bedekken, zodat geen enkel deel van het lichaam onbeschermd is. 
+3.6.1 Er moeten, naast de krachtens voorschrift 10.10 vereiste brandweeruitrusting, vier stellen volledig beschermende, chemicaliënbestendige kleding aanwezig zijn en wordt gekozen rekening houdend met de gevaren die verband houden met de te vervoeren chemische stoffen en met de door de Organisatie ontwikkelde normen in overeenstemming met de klasse en fysieke staat. De beschermende kleding moet de gehele huid bedekken, zodat geen enkel deel van het lichaam onbeschermd is. 
 
 3.6.2 Afgezien van de krachtens voorschrift 10 vereiste persluchttoestellen, moeten er nog twee van zulke toestellen aanwezig zijn. Voor elk vereist ademhalingstoestel moeten twee reservevullingen aanwezig zijn die geschikt zijn om met het ademhalingstoestel te worden gebruikt. Op passagiersschepen die niet meer dan 36 passagiers vervoeren en op vrachtschepen die zijn voorzien van op geschikte plaatsen aangebrachte inrichtingen voor het zonder besmetting volledig opnieuw vullen van de luchtcilinders, behoeft slechts één reservevulling voor elk vereist ademhalingstoestel aanwezig te zijn.
 
@@ -15391,7 +15391,7 @@ De Administratie kan een groter aantal luchtwisselingen eisen wanneer de voertui
 
 .1 de veilige zone(s) zal (zullen) doorgaans een of meerdere inwendige ruimten zijn; het gebruik van een uitwendige ruimte als veilige zone kan door de Administratie evenwel worden toegestaan, mits rekening wordt gehouden met beperkingen van het vaargebied en de verwachte relevante omgevingsfactoren;  
 
-.2 (de) veilige zone(s) moet(en) alle gebruikers de volgende elementaire voorzieningen<sup> 3) Zie de Prestatienormen voor de systemen en diensten die op passagiersschepen bedrijfszeker moeten blijven voor de veilige terugkeer naar de haven en het ordentelijk evacueren en verlaten na een ongeval (MSC.1/Circ.1214). </sup> bieden om de gezondheid van de passagiers en bemanning te waarborgen: 
+.2 (de) veilige zone(s) moet(en) alle gebruikers de volgende elementaire voorzieningen bieden om de gezondheid van de passagiers en bemanning te waarborgen: 
 
 .1 sanitaire voorzieningen;  
 
@@ -16021,7 +16021,7 @@ Een lijnwerptoestel dat voldoet aan de vereisten van deel 7.1 van de Code moet a
 
 .4bediening en gebruik van brandblusmiddelen; en  
 
-.5 risico’s die verband houden met besloten ruimten en procedures aan boord voor het veilig betreden van deze ruimten, waarbij rekening moet worden gehouden, naargelang van toepassing, met de richtsnoeren in de door de Organisatie opgestelde aanbevelingen.  
+.5 risico’s die verband houden met besloten ruimten, en procedures aan boord voor het veilig betreden van deze ruimten, waarbij rekening moet worden gehouden, naargelang van toepassing, met de richtsnoeren in de door de Organisatie opgestelde aanbevelingen.  
 
 4.3Oefeningen aan boord in het gebruik van strijkbare reddingsvlotten op schepen die met dergelijke middelen zijn uitgerust, moeten met tussenpozen van niet meer dan 4 maanden plaatsvinden. Wanneer uitvoerbaar moeten deze het opblazen en het afvieren van een reddingsvlot omvatten. Het reddingsvlot kan een speciaal reddingsvlot zijn dat uitsluitend bestemd wordt voor oefeningen en dat geen deel uitmaakt van de reddingsmiddelen van het schip; een dergelijk speciaal reddingsvlot moet duidelijk als zodanig gemerkt zijn. 
 
@@ -16043,7 +16043,7 @@ Een lijnwerptoestel dat voldoet aan de vereisten van deel 7.1 van de Code moet a
 
 3.3 Ten behoeve van de naleving van de in paragraaf 3.2 voorgeschreven vereisten kan de Administratie een voor het schip opgesteld onderhoudsprogramma aanvaarden, waarin de vereisten van voorschrift 36 zijn opgenomen.   
 
-4Onderhoud van de lopers Lopers die bij het afvieren worden gebruikt moeten periodiek<sup> 2) Zie de Maatregelen ter voorkoming van ongevallen met reddingsboten (MSC.1/Circ.1206). </sup> worden geïnspecteerd, met bijzondere aandacht voor delen die door katrollen lopen, en worden vernieuwd wanneer de lopers gebreken vertonen of met tussenpozen van ten hoogste 5 jaar, naar gelang van welke van beide termijnen het kortst is. 
+4Onderhoud van de lopers Lopers die bij het afvieren worden gebruikt moeten periodiek worden geïnspecteerd, met bijzondere aandacht voor delen die door katrollen lopen, en worden vernieuwd wanneer de lopers gebreken vertonen of met tussenpozen van ten hoogste 5 jaar, naar gelang van welke van beide termijnen het kortst is. 
 
 5Reserveonderdelen en reparatiegereedschap Er moeten reserveonderdelen en reparatiegereedschap zijn voor de reddingsmiddelen en hun bestanddelen die onderhevig zijn aan uitzonderlijke slijtage of vertering en regelmatig moeten worden vervangen.
 
@@ -16635,7 +16635,7 @@ Instructies voor het onderhoud van reddingsmiddelen aan boord moeten gemakkelijk
 
 ### Voorschrift  2  
 
-####Uitdrukkingen en omschrijvingen
+####Termen en begripsomschrijvingen
 
 1. Voor de toepassing van dit Hoofdstuk worden aan de volgende uitdrukkingen de hieronder omschreven betekenissen toegekend.
 
@@ -16663,7 +16663,7 @@ Instructies voor het onderhoud van reddingsmiddelen aan boord moeten gemakkelijk
 
 .12„Zeegebied Al”: een gebied binnen het radiotelefoniebereik van ten minste een VHF-radiokuststation, dat beschikt over een permanente mogelijkheid voor DSC-oproepen, welk gebied nader kan worden omschreven door een Verdragsluitende Regering.<sup>*Verwezen wordt naar de aanbeveling inzake de verlening van diensten voor radiocommunicatie ten behoeve van het Wereldomvattend maritiem satelliet-communicatiesysteem, te ontwikkelen door de Organisatie (zie MSC55/25, bijlage 3).</sup>
 
-.13„Zeegebied A2”: een gebied, met uitzondering van het zeegebied Al, binnen het radiotelefoniebereik van ten minste een MF-radiokuststation, dat beschikt over een permanente mogelijkheid voor DSC-oproepen, welk gebied nader kan worden omschreven door een Verdragsluitende Regering.
+.13„Zeegebied A2”: een gebied, met uitzondering van het zeegebied Al, binnen het radiotelefoniebereik van ten minste een MF-radiokuststation, dat beschikt over een permanente mogelijkheid voor DSC-oproepen, welk gebied nader kan worden omschreven door een Verdragsluitende Regering.<sup>*Verwezen wordt naar de aanbeveling inzake de verlening van diensten voor radiocommunicatie ten behoeve van het Wereldomvattend maritiem satelliet-communicatiesysteem, te ontwikkelen door de Organisatie (zie MSC55/25, bijlage 3).</sup>
 
 .14„Zeegebied A3”: een gebied, met uitzondering van de zeegebieden Al en A2, binnen het bereik van een geostationaire INMARSAT-satelliet, die beschikt over een permanente mogelijkheid voor oproepen.
 

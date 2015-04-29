@@ -4,15 +4,11 @@
 
 ####Agreement between the Kingdom of the Netherlands and the United States of America to improve international tax compliance and to implement FATCA
 
-Treedt in werking op een nader te bepalen tijdstip 
-
-Whereas, the Kingdom of the Netherlands and the United States of America, (each, a “Party,” and together, the “Parties”) have a longstanding and close relationship with respect to mutual assistance in tax matters in respect of the United States and the Netherlands and desire to conclude an agreement to improve international tax compliance by further building on that relationship; Whereas, [Article 30 of the Convention between the United States of America and the Kingdom of the Netherlands for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income](../../../../../../../../../../../../../../../verdrag/overeenkomst/tussen/het/koninkrijk/der/nederlanden/en/de/verenigde/staten/etc/BWBV0001109/README.md), signed at Washington on 18 December 1992, as amended in 1993 and 2004 (“the Double Tax Convention”) and the [Convention on Mutual Administrative Assistance in Tax Matters](../../../../../../../../../../../../../../../verdrag/convention/on/mutual/administrative/assistance/in/tax/matters/BWBV0005131/README.md), done at Strasbourg on 25 January 1988 (the “Mutual Assistance Convention”) authorize exchange of information for tax purposes, including on an automatic basis (hereinafter the “Conventions” refers to the Double Tax Convention and the Mutual Assistance Convention and any amendments to those conventions that are in force for both Parties); Whereas, the United States of America enacted provisions commonly known as the Foreign Account Tax Compliance Act (“FATCA”), which introduce a reporting regime for financial institutions with respect to certain accounts; Whereas, the Government of the Netherlands is supportive of the underlying policy goal of FATCA to improve tax compliance; Whereas, FATCA has raised a number of issues, including that Netherlands financial institutions may not be able to comply with certain aspects of FATCA due to domestic legal impediments; Whereas, the Government of the United States of America collects information regarding certain accounts maintained by U.S. financial institutions held by residents of the Netherlands and is committed to exchanging such information with the Government of the Netherlands and pursuing equivalent levels of exchange; Whereas, the Governments of the United States and the Netherlands are committed to working together over the longer term towards achieving common reporting and due diligence standards for financial institutions; Whereas, the Government of the United States of America acknowledges the need to coordinate the reporting obligations under FATCA with other U.S. tax reporting obligations of Netherlands financial institutions to avoid duplicative reporting; Whereas, an intergovernmental approach to FATCA implementation would address legal impediments and reduce burdens for Netherlands financial institutions; Whereas, the Governments of the Parties desire to conclude an agreement to improve international tax compliance and provide for the implementation of FATCA based on domestic reporting and reciprocal automatic exchange pursuant to the Conventions and subject to the confidentiality and other protections provided for therein, including the provisions limiting the use of the information exchanged under the Conventions;   Now, therefore, the Parties have agreed as follows:    
+Whereas, the Kingdom of the Netherlands and the United States of America, (each, a “Party,” and together, the “Parties”) have a longstanding and close relationship with respect to mutual assistance in tax matters in respect of the United States and the Netherlands and desire to conclude an agreement to improve international tax compliance by further building on that relationship; Whereas, Article 30 of the Convention between the United States of America and the Kingdom of the Netherlands for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income, signed at Washington on 18 December 1992, as amended in 1993 and 2004 (“the Double Tax Convention”) and the Convention on Mutual Administrative Assistance in Tax Matters, done at Strasbourg on 25 January 1988 (the “Mutual Assistance Convention”) authorize exchange of information for tax purposes, including on an automatic basis (hereinafter the “Conventions” refers to the Double Tax Convention and the Mutual Assistance Convention and any amendments to those conventions that are in force for both Parties); Whereas, the United States of America enacted provisions commonly known as the Foreign Account Tax Compliance Act (“FATCA”), which introduce a reporting regime for financial institutions with respect to certain accounts; Whereas, the Government of the Netherlands is supportive of the underlying policy goal of FATCA to improve tax compliance; Whereas, FATCA has raised a number of issues, including that Netherlands financial institutions may not be able to comply with certain aspects of FATCA due to domestic legal impediments; Whereas, the Government of the United States of America collects information regarding certain accounts maintained by U.S. financial institutions held by residents of the Netherlands and is committed to exchanging such information with the Government of the Netherlands and pursuing equivalent levels of exchange; Whereas, the Governments of the United States and the Netherlands are committed to working together over the longer term towards achieving common reporting and due diligence standards for financial institutions; Whereas, the Government of the United States of America acknowledges the need to coordinate the reporting obligations under FATCA with other U.S. tax reporting obligations of Netherlands financial institutions to avoid duplicative reporting; Whereas, an intergovernmental approach to FATCA implementation would address legal impediments and reduce burdens for Netherlands financial institutions; Whereas, the Governments of the Parties desire to conclude an agreement to improve international tax compliance and provide for the implementation of FATCA based on domestic reporting and reciprocal automatic exchange pursuant to the Conventions and subject to the confidentiality and other protections provided for therein, including the provisions limiting the use of the information exchanged under the Conventions;   Now, therefore, the Parties have agreed as follows:    
 
 ### Article  1  
 
 ####Definitions
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  For purposes of this agreement and any annexes thereto (“Agreement”), the following terms shall have the meanings set forth below: 
 
@@ -121,8 +117,6 @@ mm) The term “Controlling Persons” means the natural persons who exercise co
 
 ####Obligations to Obtain and Exchange Information with Respect to Reportable Accounts
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Subject to the provisions of Article 3 of this Agreement, each Party shall obtain the information specified in paragraph 2 of this Article with respect to all Reportable Accounts and shall annually exchange this information with the other Party on an automatic basis pursuant to either or both of the Conventions, as appropriate.   
 2.  The information to be obtained and exchanged is: 
 
@@ -164,8 +158,6 @@ b) In the case of the United States, with respect to each Netherlands Reportable
 
 ####Time and Manner of Exchange of Information
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  For purposes of the exchange obligation in Article 2 of this Agreement, the amount and characterization of payments made with respect to a U.S. Reportable Account may be determined in accordance with the principles of the tax laws of the Netherlands, and the amount and characterization of payments made with respect to a Netherlands Reportable Account may be determined in accordance with principles of U.S. federal income tax law.   
 2.  For purposes of the exchange obligation in Article 2 of this Agreement, the information exchanged shall identify the currency in which each relevant amount is denominated.   
 3.  With respect to paragraph 2 of Article 2 of this Agreement, information is to be obtained and exchanged with respect to 2014 and all subsequent years, except that: 
@@ -181,7 +173,7 @@ a) In the case of the Netherlands:
 b) In the case of the United States, the information to be obtained and exchanged with respect to 2014 and subsequent years is all of the information identified in subparagraph 2(b) of Article 2 of this Agreement.     
 4.  Notwithstanding paragraph 3 of this Article, with respect to each Reportable Account that is maintained by a Reporting Financial Institution as of June 30, 2014, and subject to paragraph 4 of Article 6 of this Agreement, the Parties are not required to obtain and include in the exchanged information the Netherlands TIN or the U.S. TIN, as applicable, of any relevant person if such taxpayer identifying number is not in the records of the Reporting Financial Institution. In such a case, the Parties shall obtain and include in the exchanged information the date of birth of the relevant person, if the Reporting Financial Institution has such date of birth in its records.   
 5.  Subject to paragraphs 3 and 4 of this Article, the information described in Article 2 of this Agreement shall be exchanged within nine months after the end of the calendar year to which the information relates.   
-6.  The Competent Authorities of the Netherlands and the United States shall enter into an arrangement under the mutual agreement procedures provided for in [Article 29 of the Double Tax Convention](../../../../../../../../../../../../../../../verdrag/overeenkomst/tussen/het/koninkrijk/der/nederlanden/en/de/verenigde/staten/etc/BWBV0001109/README.md) and [Article 24 of the Mutual Assistance Convention](../../../../../../../../../../../../../../../verdrag/convention/on/mutual/administrative/assistance/in/tax/matters/BWBV0005131/README.md), which shall: 
+6.  The Competent Authorities of the Netherlands and the United States shall enter into an arrangement under the mutual agreement procedures provided for in Article 29 of the Double Tax Convention and Article 24 of the Mutual Assistance Convention, which shall: 
 
 a) establish the procedures for the automatic exchange obligations described in Article 2 of this Agreement;  
 
@@ -195,8 +187,6 @@ d) for cases where both Conventions may be applicable, indicating under which on
 ### Article  4  
 
 ####Application of FATCA to Netherlands Financial Institutions
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   *Treatment of Reporting Netherlands Financial Institutions*. Each Reporting Netherlands Financial Institution shall be treated as complying with, and not subject to withholding under, section 1471 of the U.S. Internal Revenue Code if the Netherlands complies with its obligations under Articles 2 and 3 of this Agreement with respect to such Reporting Netherlands Financial Institution, and the Reporting Netherlands Financial Institution: 
 
@@ -234,8 +224,6 @@ d) the United States shall not be obligated to begin exchanging information prio
 
 ####Collaboration on Compliance and Enforcement
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.   *Minor and Administrative Errors*. A Competent Authority shall notify the Competent Authority of the other Party when the first-mentioned Competent Authority has reason to believe that administrative errors or other minor errors may have led to incorrect or incomplete information reporting or resulted in other infringements of this Agreement. The Competent Authority of such other Party shall apply its domestic law (including applicable penalties) to obtain corrected and/or complete information or to resolve other infringements of this Agreement.   
 2.   *Significant Non-Compliance*. 
 
@@ -248,8 +236,6 @@ b) If, in the case of a Reporting Netherlands Financial Institution, such enforc
 ### Article  6  
 
 ####Mutual Commitment to Continue to Enhance the Effectiveness of Information Exchange and Transparency
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   *Reciprocity*. The Government of the United States acknowledges the need to achieve equivalent levels of reciprocal automatic information exchange with the Netherlands. The Government of the United States is committed to further improve transparency and enhance the exchange relationship with the Netherlands by pursuing the adoption of regulations and advocating and supporting relevant legislation to achieve such equivalent levels of reciprocal automatic information exchange.   
 2.   *Treatment of Passthru Payments and Gross Proceeds*. The Parties are committed to work together, along with Partner Jurisdictions, to develop a practical and effective alternative approach to achieve the policy objectives of foreign passthru payment and gross proceeds withholding that minimizes burden.   
@@ -264,16 +250,12 @@ b) The Netherlands commits to establish, by January 1, 2017, for reporting with 
 
 ####Consistency in the Application of FATCA to Partner Jurisdictions
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  The Netherlands shall be granted the benefit of any more favorable terms under Article 4 or Annex I of this Agreement relating to the application of FATCA to Netherlands Financial Institutions afforded to another Partner Jurisdiction under a signed bilateral agreement pursuant to which the other Partner Jurisdiction commits to undertake the same obligations as the Netherlands described in Articles 2 and 3 of this Agreement, and subject to the same terms and conditions as described therein and in Articles 5 through 9 of this Agreement.   
 2.   The United States shall notify the Netherlands of any such more favorable terms, and such more favorable terms shall apply automatically under this Agreement as if such terms were specified in this Agreement and effective as of the date of signing of the agreement incorporating the more favorable terms, unless the Netherlands declines in writing the application thereof.  
 
 ### Article  8  
 
 ####Consultations and Amendments
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  In case any difficulties in the implementation of this Agreement arise, either Party may request consultations to develop appropriate measures to ensure the fulfillment of this Agreement.   
 2.  This Agreement may be amended by written mutual agreement of the Parties. Unless otherwise agreed upon, such an amendment shall enter into force through the same procedures as set forth in paragraph 1 of Article 10 of this Agreement.  
@@ -282,15 +264,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Annexes
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 The Annexes form an integral part of this Agreement. 
 
 ### Article  10  
 
 ####Term of Agreement
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  This Agreement shall enter into force on the date of the Netherlands’ written notification to the United States that the Netherlands has completed its necessary internal procedures for entry into force of this Agreement and shall continue in force until terminated.   
 2.  Either Party may terminate this Agreement by giving notice of termination in writing to the other Party. Such termination shall become effective on the first day of the month following the expiration of a period of 12 months after the date of the notice of termination.   
@@ -302,13 +280,9 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their resp
 
 ####Due diligence obligations for identifying and reporting on U.S. reportable accounts and on payments to certain nonparticipating Financial Institutions
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### I  
 
 ####General.
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 A. The Netherlands shall require that Reporting Netherlands Financial Institutions apply the due diligence procedures contained in this Annex I to identify U.S. Reportable Accounts and accounts held by Nonparticipating Financial Institutions.  
 
@@ -329,8 +303,6 @@ C. As an alternative to the procedures described in each section of this Annex I
 ### II  
 
 ####Preexisting Individual Accounts.
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 The following rules and procedures apply for purposes of identifying U.S. Reportable Accounts among Preexisting Accounts held by individuals (“Preexisting Individual Accounts”). 
 
@@ -464,8 +436,6 @@ F. *Preexisting Individual Accounts That Have Been Documented for Certain Other 
 
 ####New Individual Accounts.
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 The following rules and procedures apply for purposes of identifying U.S. Reportable Accounts among Financial Accounts held by individuals and opened on or after July 1, 2014 (“New Individual Accounts”). 
 
 A. *Accounts Not Required to Be Reviewed, Identified, or Reported*. Unless the Reporting Netherlands Financial Institution elects otherwise, either with respect to all New Individual Accounts or, separately, with respect to any clearly identified group of such accounts, where the implementing rules in the Netherlands provide for such an election, the following New Individual Accounts are not required to be reviewed, identified, or reported as U.S. Reportable Accounts: 
@@ -483,8 +453,6 @@ B. *Other New Individual Accounts*. With respect to New Individual Accounts not 
 ### IV  
 
 ####Preexisting Entity Accounts.
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 The following rules and procedures apply for purposes of identifying U.S. Reportable Accounts and accounts held by Nonparticipating Financial Institutions among Preexisting Accounts held by Entities (“Preexisting Entity Accounts”). 
 
@@ -546,8 +514,6 @@ E. *Timing of Review and Additional Procedures Applicable to Preexisting Entity 
 
 ####New Entity Accounts.
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 The following rules and procedures apply for purposes of identifying U.S. Reportable Accounts and accounts held by Nonparticipating Financial Institutions among Financial Accounts held by Entities and opened on or after July 1, 2014 (“New Entity Accounts”). 
 
 A. *Entity Accounts Not Required to Be Reviewed, Identified or Reported*. Unless the Reporting Netherlands Financial Institution elects otherwise, either with respect to all New Entity Accounts or, separately, with respect to any clearly identified group of such accounts, where the implementing rules in the Netherlands provide for such election, a credit card account or a revolving credit facility treated as a New Entity Account is not required to be reviewed, identified, or reported, provided that the Reporting Netherlands Financial Institution maintaining such account implements policies and procedures to prevent an account balance owed to the Account Holder that exceeds $50,000.  
@@ -571,8 +537,6 @@ d) If the Account Holder is a Nonparticipating Financial Institution (including 
 ### VI  
 
 ####Special Rules and Definitions.
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 The following additional rules and definitions apply in implementing the due diligence procedures described above: 
 
@@ -650,15 +614,11 @@ F. *Reliance on Third Parties*. Regardless of whether an election is made under 
 
 ####Non-reporting Netherlands Financial Institutions and Products
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 This Annex II may be modified by a mutual written decision entered into between the Competent Authorities of the Netherlands and the United States: (1) to include additional Entities, accounts and products that present a low risk of being used by U.S. Persons to evade U.S. tax and that have similar characteristics to the Entities, accounts, and products described in this Annex II as of the date of entry into force of the Agreement; or (2) to remove Entities, accounts and products that, due to changes in circumstances, no longer present a low risk of being used by U.S. Persons to evade U.S. tax. Any such addition or removal shall be effective on the date of signature of the mutual decision, unless otherwise provided therein. Procedures for reaching such a mutual decision may be included in the mutual arrangement described in paragraph 6 of Article 3 of the Agreement.    
 
 ### I  
 
 ####Exempt Beneficial Owners.
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 The following Entities are treated as Non-Reporting Netherlands Financial Institutions and as exempt beneficial owners for purposes of sections 1471 and 1472 of the U.S. Internal Revenue Code: 
 
@@ -696,7 +656,7 @@ International Organizations and any wholly owned agency or instrumentality there
 
 ####Retirement Funds
 
-1. Any entity that qualifies for benefits under [Article 35 (Exempt Pension Trusts) of the Double Tax Convention](../../../../../../../../../../../../../../../verdrag/overeenkomst/tussen/het/koninkrijk/der/nederlanden/en/de/verenigde/staten/etc/BWBV0001109/README.md);  
+1. Any entity that qualifies for benefits under Article 35 (Exempt Pension Trusts) of the Double Tax Convention;  
 
 2. A pension fund regulated under the Pension Act (*Pensioenwet*);  
 
@@ -719,8 +679,6 @@ An Entity that is a Netherlands Financial Institution solely because it is an In
 ### II  
 
 ####Deemed-Compliant Financial Institutions.
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 A. *Deemed-Compliant Financial Institutions* The following Financial Institutions are treated as Non-Reporting Netherlands Financial Institutions and as deemed-compliant FFIs for purposes of section 1471 of the U.S. Internal Revenue Code: 
 
@@ -786,8 +744,6 @@ b. An Investment Entity that is a qualified collective investment vehicle under 
 
 ####Exempt Products.
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 The following categories of accounts and products established in the Netherlands and maintained by a Netherlands Financial Institution shall not be treated as Financial Accounts, and therefore shall not be U.S. Reportable Accounts or accounts held by a Nonparticipating Financial Institution, under the Agreement: 
 
 ### A  
@@ -822,15 +778,11 @@ The following categories of accounts and products established in the Netherlands
 
 ####Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot verbetering van de internationale naleving van de belastingplicht en tenuitvoerlegging van de FATCA
 
-Treedt in werking op een nader te bepalen tijdstip 
-
-Overwegende dathet Koninkrijk der Nederlanden en de Verenigde Staten van Amerika, (hierna elk afzonderlijk te noemen „partij” en tezamen „partijen”) reeds lang nauwe betrekkingen onderhouden ten behoeve van de wederzijdse bijstand in belastingzaken van de Verenigde Staten en Nederland en een verdrag wensen te sluiten ter verbetering van de internationale naleving van de belastingplicht door voort te bouwen op deze betrekkingen; Overwegende dat [artikel 30 van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen](../../../../../../../../../../../../../../../verdrag/overeenkomst/tussen/het/koninkrijk/der/nederlanden/en/de/verenigde/staten/etc/BWBV0001109/README.md), gesloten te Washington op 18 december 1992, zoals gewijzigd in 1993 en 2004 (het „Verdrag ter voorkoming van dubbele belasting”) en het [Verdrag inzake wederzijdse administratieve bijstand in belastingzaken](../../../../../../../../../../../../../../../verdrag/convention/on/mutual/administrative/assistance/in/tax/matters/BWBV0005131/README.md), gedaan te Straatsburg op 25 januari 1988 (het „WABB-verdrag”) machtigen tot het uitwisselen van informatie voor belastingdoeleinden, daaronder begrepen op automatische basis (hierna wordt met de „Verdragen” verwezen naar het Verdrag ter voorkoming van dubbele belasting en het WABB-verdrag en eventuele wijzigingen daarvan die voor beide partijen van kracht zijn); Overwegende dat de Verenigde Staten van Amerika bepalingen hebben vastgesteld die algemeen bekend staan als de Foreign Account Tax Compliance Act (de „FATCA”), waarmee een rapportageregeling voor financiële instellingen ter zake van bepaalde rekeningen wordt ingevoerd; Overwegende dat de regering van Nederland voorstander is van de onderliggende beleidsdoelstelling van de FATCA: verbetering van de naleving van de belastingplicht; Overwegende dat de FATCA diverse discussiepunten heeft opgeroepen, waaronder de vraag of de Nederlandse financiële instellingen vanwege nationale juridische belemmeringen kunnen voldoen aan bepaalde aspecten van de FATCA; Overwegende dat de regering van de Verenigde Staten van Amerika informatie verzamelt over bepaalde rekeningen van inwoners van Nederland die worden beheerd door Amerikaanse financiële instellingen en zich verbindt deze informatie met de regering van Nederland uit te wisselen en streeft naar uitwisseling op gelijkwaardig niveau; Overwegende dat de regering van de Verenigde Staten en de regering van Nederland streven naar samenwerking op de langere termijn teneinde te komen tot gezamenlijke rapportage- en due diligence-normen voor financiële instellingen; Overwegende dat de regering van de Verenigde Staten van Amerika onderkent dat de rapportageverplichtingen uit hoofde van de FATCA dienen te worden afgestemd op andere fiscale rapportageverplichtingen van Nederlandse financiële instellingen jegens de Verenigde Staten teneinde dubbele rapportage te voorkomen; Overwegende dat een intergouvernementele aanpak van de implementatie van de FATCA juridische belemmeringen zou kunnen wegnemen en de administratieve lasten voor de Nederlandse financiële instellingen zou kunnen verminderen; Overwegende dat de regeringen van de partijen een verdrag wensen te sluiten ter verbetering van de internationale naleving van de belastingplicht en voorzieningen te treffen voor de implementatie van de FATCA op basis van nationale rapportage en wederzijdse automatische uitwisseling uit hoofde van de Verdragen en met inachtneming van de vertrouwelijkheid en andere daarin voorziene beschermingsmechanismen, met inbegrip van bepalingen ter beperking van het gebruik van de uit hoofde van de Verdragen uitgewisselde informatie;   Zijn de partijen thans het volgende overeengekomen:    
+Overwegende dathet Koninkrijk der Nederlanden en de Verenigde Staten van Amerika, (hierna elk afzonderlijk te noemen „partij” en tezamen „partijen”) reeds lang nauwe betrekkingen onderhouden ten behoeve van de wederzijdse bijstand in belastingzaken van de Verenigde Staten en Nederland en een verdrag wensen te sluiten ter verbetering van de internationale naleving van de belastingplicht door voort te bouwen op deze betrekkingen; Overwegende dat artikel 30 van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, gesloten te Washington op 18 december 1992, zoals gewijzigd in 1993 en 2004 (het „Verdrag ter voorkoming van dubbele belasting”) en het Verdrag inzake wederzijdse administratieve bijstand in belastingzaken, gedaan te Straatsburg op 25 januari 1988 (het „WABB-verdrag”) machtigen tot het uitwisselen van informatie voor belastingdoeleinden, daaronder begrepen op automatische basis (hierna wordt met de „Verdragen” verwezen naar het Verdrag ter voorkoming van dubbele belasting en het WABB-verdrag en eventuele wijzigingen daarvan die voor beide partijen van kracht zijn); Overwegende dat de Verenigde Staten van Amerika bepalingen hebben vastgesteld die algemeen bekend staan als de Foreign Account Tax Compliance Act (de „FATCA”), waarmee een rapportageregeling voor financiële instellingen ter zake van bepaalde rekeningen wordt ingevoerd; Overwegende dat de regering van Nederland voorstander is van de onderliggende beleidsdoelstelling van de FATCA: verbetering van de naleving van de belastingplicht; Overwegende dat de FATCA diverse discussiepunten heeft opgeroepen, waaronder de vraag of de Nederlandse financiële instellingen vanwege nationale juridische belemmeringen kunnen voldoen aan bepaalde aspecten van de FATCA; Overwegende dat de regering van de Verenigde Staten van Amerika informatie verzamelt over bepaalde rekeningen van inwoners van Nederland die worden beheerd door Amerikaanse financiële instellingen en zich verbindt deze informatie met de regering van Nederland uit te wisselen en streeft naar uitwisseling op gelijkwaardig niveau; Overwegende dat de regering van de Verenigde Staten en de regering van Nederland streven naar samenwerking op de langere termijn teneinde te komen tot gezamenlijke rapportage- en due diligence-normen voor financiële instellingen; Overwegende dat de regering van de Verenigde Staten van Amerika onderkent dat de rapportageverplichtingen uit hoofde van de FATCA dienen te worden afgestemd op andere fiscale rapportageverplichtingen van Nederlandse financiële instellingen jegens de Verenigde Staten teneinde dubbele rapportage te voorkomen; Overwegende dat een intergouvernementele aanpak van de implementatie van de FATCA juridische belemmeringen zou kunnen wegnemen en de administratieve lasten voor de Nederlandse financiële instellingen zou kunnen verminderen; Overwegende dat de regeringen van de partijen een verdrag wensen te sluiten ter verbetering van de internationale naleving van de belastingplicht en voorzieningen te treffen voor de implementatie van de FATCA op basis van nationale rapportage en wederzijdse automatische uitwisseling uit hoofde van de Verdragen en met inachtneming van de vertrouwelijkheid en andere daarin voorziene beschermingsmechanismen, met inbegrip van bepalingen ter beperking van het gebruik van de uit hoofde van de Verdragen uitgewisselde informatie;   Zijn de partijen thans het volgende overeengekomen:    
 
 ### Artikel  1  
 
 ####Begripsomschrijvingen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1. Voor de toepassing van dit Verdrag en de bijlagen daarbij („Verdrag”), hebben de onderstaande uitdrukkingen de volgende betekenis:
 
@@ -939,8 +891,6 @@ mm.Onder de uitdrukking „uiteindelijk belanghebbenden” worden de natuurlijke
 
 ####Verplichtingen tot het verkrijgen en uitwisselen van informatie ten aanzien van te rapporteren rekeningen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Onverminderd de bepalingen van artikel 3 van dit Verdrag verkrijgt elke partij de informatie omschreven in het tweede lid van dit artikel ter zake van alle te rapporteren rekeningen en wisselt zij deze informatie overeenkomstig beide of één van beide Verdragen jaarlijks automatisch uit met de andere partij. 
 2. De volgende informatie dient te worden verkregen en uitgewisseld: 
 
@@ -982,8 +932,6 @@ b.In het geval van de Verenigde Staten ter zake van elke Nederlandse te rapporte
 
 ####Tijdstip en wijze van informatie-uitwisseling
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1. Ten behoeve van de verplichting tot informatie-uitwisseling in artikel 2 van dit Verdrag kunnen het bedrag en de aard van betalingen verricht ter zake van een Amerikaanse te rapporteren rekening worden vastgesteld in overeenstemming met de beginselen van de Nederlandse belastingwetgeving, en kunnen het bedrag en de aard van betalingen verricht ter zake van een Nederlandse te rapporteren rekening worden vastgesteld in overeenstemming met de beginselen van de Amerikaanse federale inkomstenbelastingwetgeving.
 2. Ten behoeve van de verplichting tot informatie-uitwisseling in artikel 2 van dit Verdrag dient in de uitgewisselde informatie de valuta te worden vermeld van elk relevant bedrag.
 3. In het kader van artikel 2, tweede lid, van dit Verdrag dient informatie te worden verkregen en uitgewisseld ter zake van 2014 en alle volgende jaren, met dien verstande dat:
@@ -999,7 +947,7 @@ a.in het geval van Nederland:
 b.in het geval van de Verenigde Staten is de informatie die ter zake van 2014 en volgende jaren dient te worden verkregen en uitgewisseld alle informatie omschreven in artikel 2, tweede lid, onderdeel b, van dit Verdrag.
 4. Onverminderd het derde lid van dit artikel zijn de partijen ter zake van elke te rapporteren rekening die op 30 juni 2014 wordt beheerd door een rapporterende financiële instelling en met inachtneming van artikel 6, vierde lid, van dit Verdrag niet verplicht de Nederlandse dan wel de U.S. TIN, naargelang hetgeen van toepassing is, van een relevante persoon te verkrijgen en op te nemen in de uit te wisselen informatie, indien het identificatienummer van de desbetreffende belastingplichtige zich niet in het dossier van de rapporterende financiële instelling bevindt. In dat geval verkrijgen de partijen de geboortedatum van de desbetreffende persoon en nemen die op in de uit te wisselen informatie, indien deze zich in het dossier van de rapporterende financiële instelling bevindt.
 5. Onverminderd het derde en vierde lid van dit artikel dient de informatie omschreven in artikel 2 van dit Verdrag te worden uitgewisseld binnen negen maanden na het eind van het kalenderjaar waarop de informatie betrekking heeft.
-6. De bevoegde autoriteiten van Nederland en de Verenigde Staten treffen een regeling uit hoofde van de procedures voor onderling overleg voorzien in [artikel 29 van het verdrag ter voorkoming van dubbele belasting](../../../../../../../../../../../../../../../verdrag/overeenkomst/tussen/het/koninkrijk/der/nederlanden/en/de/verenigde/staten/etc/BWBV0001109/README.md) en [artikel 24 van het WABB-verdrag](../../../../../../../../../../../../../../../verdrag/convention/on/mutual/administrative/assistance/in/tax/matters/BWBV0005131/README.md) waarin:
+6. De bevoegde autoriteiten van Nederland en de Verenigde Staten treffen een regeling uit hoofde van de procedures voor onderling overleg voorzien in artikel 29 van het verdrag ter voorkoming van dubbele belasting en artikel 24 van het WABB-verdrag waarin:
 
 a.de procedures ten behoeve van de verplichtingen omtrent de automatische uitwisseling omschreven in artikel 2 van dit Verdrag zijn vastgelegd;
 
@@ -1013,8 +961,6 @@ d.voor gevallen waarop mogelijk beide Verdragen van toepassing zijn, aangegeven 
 ### Artikel  4  
 
 ####Toepassing van de FATCA op Nederlandse financiële instellingen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1. *Behandeling van rapporterende Nederlandse financiële instellingen.* Elke rapporterende Nederlandse financiële instelling wordt behandeld als een instelling die voldoet aan en niet onderworpen is aan de inhoudingsplicht van artikel 1471 van de U.S. Internal Revenue Code, mits Nederland ter zake van deze rapporterende Nederlandse financiële instelling voldoet aan zijn verplichtingen uit hoofde van de artikelen 2 en 3 van dit Verdrag en de rapporterende Nederlandse financiële instelling: 
 
@@ -1052,8 +998,6 @@ d.zijn de Verenigde Staten niet verplicht te beginnen met de informatie-uitwisse
 
 ####Samenwerking ten behoeve van naleving en handhaving
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1. *Kleine en administratieve fouten.* Een bevoegde autoriteit stelt de bevoegde autoriteit van de andere partij in kennis indien de eerstgenoemde bevoegde autoriteit redenen heeft om aan te nemen dat administratieve of andere kleine fouten mogelijk hebben geleid tot onjuiste of incomplete rapportage of tot andere inbreuken op dit Verdrag. De bevoegde autoriteit van de andere partij past haar nationale recht (met inbegrip van de van toepassing zijnde sancties) toe teneinde de gecorrigeerde en/of volledige informatie te verkrijgen of andere inbreuken op dit Verdrag te verhelpen.
 2. *Significante niet-nakoming.*
 
@@ -1066,8 +1010,6 @@ b.Indien deze maatregelen, in het geval van een rapporterende Nederlandse financ
 ### Artikel  6  
 
 ####Wederzijdse verplichting tot voortdurende verbetering van de effectiviteit van informatie-uitwisseling en transparantie
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1. *Wederkerigheid.* De regering van de Verenigde Staten onderkent de noodzaak te bewerkstelligen dat op gelijk niveau wederzijds automatisch informatie kan worden uitgewisseld met Nederland. De regering van de Verenigde Staten heeft zich verplicht de transparantie verder te verbeteren en de betrekkingen met Nederland voor de uitwisseling te bevorderen door te streven naar het aannemen van regelgeving en het bevorderen en ondersteunen van relevante wetgeving teneinde wederzijdse automatische uitwisseling van informatie op gelijk niveau te bewerkstelligen.
 2. *Behandeling van *passthru*-betalingen en bruto-opbrengsten.* De partijen verplichten zich met elkaar en met partnerstaten samen te werken teneinde een praktische en effectieve alternatieve aanpak te ontwikkelen om de beleidsdoelstellingen omtrent inhoudingen over buitenlandse *passthru*-betalingen en bruto-opbrengsten te verwezenlijken waardoor de administratieve last tot een minimum wordt beperkt.
@@ -1082,16 +1024,12 @@ b.verplicht Nederland zich vóór 1 januari 2017 regels vast te stellen voor de
 
 ####Consistente toepassing van de FATCA op partnerstaten
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Nederland verkrijgt het voordeel van enigerlei gunstiger voorwaarden onder artikel 4 of Bijlage I van dit Verdrag bij de toepassing van de FATCA op Nederlandse financiële instellingen die zijn toegekend aan een andere partnerstaat op grond van een ondertekend bilateraal verdrag uit hoofde waarvan de andere partnerstaat dezelfde verplichtingen heeft aanvaard als Nederland zoals omschreven in de artikelen 2 en 3 van dit Verdrag en onder dezelfde voorwaarden als omschreven in deze artikelen en de artikelen 5 tot en met 9 van dit Verdrag. 
 2. De Verenigde Staten stellen Nederland in kennis van deze gunstiger voorwaarden en deze zullen automatisch uit hoofde van dit Verdrag van toepassing zijn alsof zij waren omschreven in dit Verdrag en van kracht zijn met ingang van de datum van ondertekening van het verdrag dat de gunstiger voorwaarden omvat, tenzij Nederland de toepassing ervan schriftelijk afwijst. 
 
 ### Artikel  8  
 
 ####Overleg en wijzigingen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Bij problemen bij de implementatie van dit Verdrag kan elke partij verzoeken om overleg teneinde passende maatregelen uit te werken om de uitvoering van dit Verdrag te waarborgen.   
 2.  Dit Verdrag kan met wederzijdse schriftelijke instemming van beide partijen worden gewijzigd. Tenzij anderszins overeengekomen, wordt een wijziging van kracht via de procedures vervat in artikel 10, eerste lid, van dit Verdrag.  
@@ -1100,15 +1038,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Bijlagen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De Bijlagen vormen een integrerend onderdeel van dit Verdrag. 
 
 ### Artikel  10  
 
 ####Looptijd van het Verdrag
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Dit Verdrag treedt in werking op de datum waarop Nederland de Verenigde Staten er schriftelijk van in kennis stelt dat Nederland de vereiste interne procedures heeft afgerond voor de inwerkingtreding van dit Verdrag en het blijft van kracht tot het wordt beëindigd. 
 2. Elk van de partijen kan dit Verdrag beëindigen door middel van een schriftelijke kennisgeving van beëindiging aan de andere partij. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van twaalf maanden na de datum van de kennisgeving van beëindiging.
@@ -1120,13 +1054,9 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 
 ####Verplichtingen in het kader van due diligence voor de identificatie van en rapportage over Amerikaanse te rapporteren rekeningen en betalingen aan bepaalde niet-participerende financiële instellingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### I  
 
 ####Algemeen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 A. Nederland verlangt dat rapporterende Nederlandse financiële instellingen de due diligence-procedures vervat in deze Bijlage I toepassen teneinde Amerikaanse te rapporteren rekeningen en rekeningen aangehouden door niet-participerende financiële instellingen te identificeren.  
 
@@ -1147,8 +1077,6 @@ C. Bij wijze van alternatief voor de in de onderdelen van deze Bijlage I beschre
 ### II  
 
 ####Bestaande rekeningen van natuurlijke personen.
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De volgende regels en procedures gelden voor het identificeren van Amerikaanse te rapporteren rekeningen onder bestaande rekeningen aangehouden door natuurlijke personen („bestaande rekeningen van natuurlijke personen”). 
 
@@ -1282,8 +1210,6 @@ F. *Bestaande rekeningen van natuurlijke personen waarvoor reeds voor andere doe
 
 ####Nieuwe rekeningen van natuurlijke personen.
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De volgende regels en procedures gelden voor het identificeren van Amerikaanse te rapporteren rekeningen onder financiële rekeningen aangehouden door natuurlijke personen geopend op of na 1 juli 2014 („nieuwe rekeningen van natuurlijke personen”). 
 
 A. *Rekeningen die niet behoeven te worden gecontroleerd, geïdentificeerd of gerapporteerd.* Tenzij de rapporterende Nederlandse financiële instelling anders besluit, hetzij voor alle nieuwe rekeningen van een natuurlijk persoon, hetzij voor elke duidelijk geïdentificeerde groep van dergelijke rekeningen afzonderlijk, indien de uitvoeringsregels in Nederland voorzien in een dergelijke keuze, behoeven de volgende nieuwe rekeningen van natuurlijke personen niet te worden gecontroleerd, geïdentificeerd of gerapporteerd als Amerikaanse te rapporteren rekeningen: 
@@ -1301,8 +1227,6 @@ B. *Andere nieuwe rekeningen van natuurlijke personen.* Ten aanzien van nieuwe r
 ### IV  
 
 ####Bestaande rekeningen van entiteiten.
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De volgende regels en procedures gelden voor het identificeren van Amerikaanse te rapporteren rekeningen en rekeningen aangehouden door niet-participerende financiële instellingen onder bestaande rekeningen aangehouden door entiteiten („bestaande rekeningen van entiteiten”). 
 
@@ -1364,8 +1288,6 @@ E. *Tijdstippen voor controles en aanvullende procedures die van toepassing zijn
 
 ####Nieuwe rekeningen van entiteiten.
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De volgende regels en procedures gelden voor het identificeren van Amerikaanse te rapporteren rekeningen en rekeningen aangehouden door niet-participerende financiële instellingen onder financiële rekeningen aangehouden door entiteiten en geopend op of na 1 juli 2014 („nieuwe rekeningen van entiteiten”). 
 
 A. *Rekeningen van entiteiten die niet behoeven te worden gecontroleerd, geïdentificeerd of gerapporteerd.* Tenzij de rapporterende Nederlandse financiële instelling anders besluit, hetzij ten aanzien van alle nieuwe rekeningen van entiteiten tezamen, hetzij voor elke duidelijk omschreven groep van deze rekeningen afzonderlijk, indien de uitvoeringsregels in Nederland voorzien in een dergelijke keuze, behoeft een creditcardrekening of een doorlopend-kredietfaciliteit die wordt behandeld als een nieuwe rekening van een entiteit niet te worden gecontroleerd, geïdentificeerd of gerapporteerd, mits de rapporterende Nederlandse financiële instelling die een dergelijke rekening beheert, beleid en procedures implementeert teneinde te voorkomen dat het saldo verschuldigd aan de rekeninghouder hoger wordt dan $ 50.000.  
@@ -1389,8 +1311,6 @@ d. Indien de rekeninghouder een niet-participerende financiële instelling is (m
 ### VI  
 
 ####Bijzondere regels en begripsomschrijvingen.
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De volgende aanvullende regels en begripsomschrijvingen zijn van toepassing bij de implementatie van de boven omschreven due diligence-procedures: 
 
@@ -1420,7 +1340,7 @@ f. de NFFE oefent nog geen bedrijfsactiviteiten uit en heeft dat ook in het verl
 
 g. de NFFE was gedurende de voorgaande vijf jaar geen financiële instelling en is bezig met de liquidatie van haar vermogen of een reorganisatie teneinde de activiteiten voort te zetten of te hervatten, niet zijnde die van een financiële instelling;  
 
-h. de NFFE is primair betrokken bij financierings- en hedging transacties met of voor gelieerde entiteiten die geen financiële instellingen zijn en verschaft geen financiering of hedgingdiensten aan een entiteit die geen gelieerde entiteit is, mits de groep van dergelijke gelieerde entiteiten primair betrokken is bij bedrijfsactiveiten anders dan die van een financiële instelling;  
+h. de NFFE is primair betrokken bij financierings- en hedging transacties met of voor gelieerde entiteiten die geen financiële instellingen zijn en verschaft geen financiering of hedgingdiensten aan een entiteit die geen gelieerde entiteit is, mits de groep van dergelijke gelieerde entiteiten primair betrokken is bij bedrijfsactiviteiten anders dan die van een financiële instelling;  
 
 i. de NFFE is een „uitgezonderde NFFE” zoals omschreven in de desbetreffende voorschriften van het Amerikaanse ministerie van Financiën; *of*  
 
@@ -1468,15 +1388,11 @@ F. *Informatie van derden.* Ongeacht of een keuze is gemaakt uit hoofde van onde
 
 ####Niet-rapporterende Nederlandse financiële instellingen en producten
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Deze Bijlage II kan worden gewijzigd met een wederzijds schriftelijk besluit van de bevoegde autoriteiten van Nederland en de Verenigde Staten: 1. teneinde aanvullende entiteiten, rekeningen en producten op te nemen die een laag risico vormen te worden gebruikt door Amerikaanse personen teneinde Amerikaanse belastingen te ontwijken en die op de datum van inwerkingtreding van het Verdrag kenmerken hebben die vergelijkbaar zijn met die van de entiteiten, rekeningen en producten beschreven in deze Bijlage II; of 2. teneinde entiteiten, rekeningen en producten te schrappen die vanwege veranderde omstandigheden niet langer een laag risico vormen te worden gebruikt door Amerikaanse personen teneinde Amerikaanse belastingen te ontwijken. Deze wijzigingen worden van kracht op de datum van ondertekening van het wederzijdse schriftelijke besluit, tenzij daarin anders wordt voorzien. De procedures voor het bereiken van een dergelijk wederzijds besluit kunnen worden opgenomen in de wederzijdse regeling omschreven in artikel 3, zesde lid, van het Verdrag. 
 
 ### I  
 
 ####Vrijgestelde begunstigden.
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De volgende entiteiten worden behandeld als niet-rapporterende Nederlandse financiële instellingen en als vrijgestelde begunstigden voor de toepassing van de artikelen 1471 en 1472 van de U.S. Internal Revenue Code: 
 
@@ -1514,7 +1430,7 @@ Internationale organisaties en hun volledige agentschappen of instanties zoals b
 
 ####Pensioenfondsen
 
-1. Elke entiteit die in aanmerking komt voor de voordelen ingevolge [artikel 35 (vrijgestelde pensioenfondsen) van het Verdrag ter voorkoming van dubbele belasting](../../../../../../../../../../../../../../../verdrag/overeenkomst/tussen/het/koninkrijk/der/nederlanden/en/de/verenigde/staten/etc/BWBV0001109/README.md);  
+1. Elke entiteit die in aanmerking komt voor de voordelen ingevolge artikel 35 (vrijgestelde pensioenfondsen) van het Verdrag ter voorkoming van dubbele belasting;  
 
 2. Pensioenfondsen waarop de *Pensioenwet* van toepassing is;  
 
@@ -1537,8 +1453,6 @@ Een entiteit die uitsluitend kwalificeert als een Nederlandse financiële instel
 ### II  
 
 ####FATCA-conform geachte financiële instellingen.
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 A. *FATCA-conform geachte financiële instellingen* De volgende financiële instellingen worden voor de toepassing van artikel 1471 van de U.S. Internal Revenue Code behandeld als niet-rapporterende Nederlandse financiële instellingen en als FATCA-conform geachte buitenlandse financiële instellingen: 
 
@@ -1603,8 +1517,6 @@ b. een beleggingsentiteit die ingevolge de desbetreffende voorschriften van het 
 ### III  
 
 ####Vrijgestelde producten.
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De volgende categorieën rekeningen en producten geopend in Nederland en beheerd door een Nederlandse financiële instelling worden niet behandeld als financiële rekeningen en zijn bijgevolg geen Amerikaanse te rapporteren rekeningen noch rekeningen aangehouden door een niet-participerende financiële instelling overeenkomstig het Verdrag: 
 

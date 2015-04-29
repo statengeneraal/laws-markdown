@@ -976,6 +976,11 @@ b. ter zake van die eerdere toelating aan de overige toepasselijke wettelijke ve
 
 c. die eerdere toelating voor 1 juli 2005 is voltooid.    
 
+### Artikel  54b  
+Treedt in werking per 01-07-2015 
+
+Van artikel 5:2 van de wet is vrijgesteld iedere doorverkoop of definitieve plaatsing van effecten aan het publiek via financiële intermediairs, voorzover er een geldig prospectus als bedoeld in artikel 5:22 van de wet algemeen verkrijgbaar is gesteld en de uitgevende instelling of de voor het opstellen van een dergelijk prospectus verantwoordelijke persoon bij schriftelijke overeenkomst instemt met het gebruik hiervan. 
+
 ### Artikel  55  
 
 Van artikel 5:2 van de wet zijn vrijgesteld degenen die effecten aanbieden aan het publiek, voorzover de effecten worden aangeboden aan personen, niet zijnde gekwalificeerde beleggers, die een schriftelijke overeenkomst van lastgeving hebben afgesloten met een vermogensbeheerder die op grond van de wet in Nederland beleggingsdiensten mag verlenen en die op grond van die overeenkomst zonder last of ruggespraak met de volmachtgever naar eigen inzicht transacties kan verrichten of bewerkstelligen. 

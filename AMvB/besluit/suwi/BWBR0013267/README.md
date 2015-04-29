@@ -216,6 +216,66 @@ a. onherroepelijk op de aanvraag, het bezwaar of het beroep is beslist, of
 
 b. de uitzetting van de vreemdeling is gelast, tenzij die uitzetting ingevolge de Vreemdelingenwet 2000 of op grond van een rechterlijke beslissing achterwege dient te blijven.    
 
+### Hoofdstuk  3a  
+
+####Regels over registratie van arbeidsbeperkten en beoordeling verdienmogelijkheid wettelijk minimumloon
+
+Treedt in werking per 01-05-2015 
+
+### Artikel  3.2  
+
+####Gegevenskenmerken doelgroepregistratie en geldigheidstermijn registratie
+
+Treedt in werking per 01-05-2015 
+
+1.  Ten aanzien van de arbeidsbeperkte die wordt opgenomen in de registratie van arbeidsbeperkten, bedoeld in artikel 38d van de Wfsv, worden de volgende gegevens vastgelegd: 
+
+a. het burgerservicenummer;  
+
+b. de aanduiding of hij een arbeidsbeperkte is als bedoeld in artikel 38b, eerste lid, onderdeel a, onderdeel b, onderscheidenlijk onderdeel c, van de Wfsv, of de aanduiding dat hij een arbeidsbeperkte is op grond van artikel 38f, vijfde lid, van de Wfsv;  
+
+c. de datum van registratie;  
+
+d. voor zover van toepassing de datum waarop de registratie eindigt.     
+2.  De registratie van een arbeidsbeperkte is geldig zolang wordt voldaan aan de voorwaarden, bedoeld in artikel 38b, eerste lid, van de Wfsv, of zolang sprake is van een gelijkgestelde arbeidsbeperkte als bedoeld in artikel 38f, vijfde lid, van de Wfsv, met dien verstande dat de registratie eindigt ten aanzien van: 
+
+a. de arbeidsbeperkte, bedoeld in artikel 38b, eerste lid, onderdeel a, en onderdeel b, van de Wfsv, en de gelijkgestelde arbeidsbeperkte op grond van artikel 38f, vijfde lid, van de Wfsv die niet meer aan de voorwaarden voldoet, op 31 december van het tweede kalenderjaar volgend op de datum waarop niet meer aan de voorwaarden wordt voldaan;  
+
+b. de arbeidsbeperkte, bedoeld in artikel 38b, eerste lid, onderdeel c, van de Wfsv, die niet meer aan de voorwaarden voldoet, op 31 december van het tweede kalenderjaar volgend op de datum waarop niet meer aan de voorwaarden wordt voldaan, tenzij hij voor die datum wederom recht heeft op arbeidsondersteuning of een arbeidsongeschiktheidsuitkering op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.    
+
+### Artikel  3.3  
+
+####Ambtshalve verstrekking gegevens door UWV
+
+Treedt in werking per 01-05-2015 
+
+Bij ministeriële regeling kan worden bepaald dat het UWV opgave doet aan de werkgever wie van zijn werknemers, of arbeidskrachten die aan de werkgever ter beschikking zijn gesteld om onder zijn leiding en toezicht arbeid te verrichten, zijn opgenomen in de registratie arbeidsbeperkten, bedoeld in artikel 38d van de Wfsv, op basis van het burgerservicenummer op de momenten die bij die regeling zijn bepaald. Bij deze regeling kan worden bepaald dat bij de opgave van het UWV de datum waarop de registratie eindigt, wordt vermeld. 
+
+### Artikel  3.4  
+
+####Gegevensverwerking ten behoeve van uitvoering Wet banenafspraak en quotum arbeidsbeperkten
+
+Treedt in werking per 01-05-2015 
+
+1.  De gegevens die de colleges van burgemeester en wethouders op grond van de artikelen 77 van de Wet SUWI, 78 van de Participatiewet, 55 van de IOAW en 55 van de IOAZ aan Onze Minister verstrekken en worden verwerkt in verband met informatie over voorzieningen gericht op arbeidsinschakeling als bedoeld in artikel 7, eerste lid, onderdeel a, van de Participatiewet, worden tevens verstrekt ten behoeve van de uitvoering van de Wet banenafspraak en quotum arbeidsbeperkten.   
+2.  Onze Minister is bevoegd de gegevens, bedoeld in het eerste lid, ook indien deze gegevens worden verkregen door tussenkomst van het Centraal Bureau voor de Statistiek, te verstrekken aan het UWV ten behoeve van de verwerking in de registratie, bedoeld in artikel 38d van de Wfsv, voor zover deze noodzakelijk zijn voor de bevordering van arbeidsdeelname van arbeidsbeperkten en voor de vaststelling van de quotumheffing, bedoeld in artikel 38h van de Wfsv.   
+3.  Het UWV verstrekt de gegevens, die het UWV verwerkt in de registratie arbeidsbeperkten, bedoeld in artikel 38d van de Wfsv, op verzoek van Onze Minister aan een door Onze Minister aan te wijzen derde ten behoeve van onderzoek en statistiek in verband met de Wet banenafspraak en quotum arbeidsbeperkten.   
+4.  Bij ministeriële regeling worden de gegevens, bedoeld in het eerste lid, nader bepaald en kan het Centraal Bureau voor de Statistiek worden gemachtigd deze gegevens rechtstreeks aan het UWV te verstrekken.  
+
+### Artikel  3.5  
+
+####Beoordeling verdienmogelijkheid wettelijk minimumloon
+
+Treedt in werking per 01-05-2015 
+
+1.  Het UWV verricht op verzoek van het college van burgemeester en wethouders een beoordeling of een persoon, bedoeld in artikel 38b, eerste lid, onderdeel a, van de Wfsv in staat is het wettelijk minimumloon, bedoeld in artikel 2, onderdeel c, van de Participatiewet te verdienen.   
+2.  Bij ministeriële regeling kunnen regels worden gesteld voor de vergoeding van de kosten van de beoordeling, bedoeld in het eerste lid, door het college van burgemeester en wethouders aan het UWV.   
+3.  In het kader van de beoordeling, bedoeld in het eerste lid, wordt door het UWV het arbeidsvermogen van de betrokken persoon beoordeeld.   
+4.  Het arbeidsvermogen, bedoeld in het derde lid, wordt getoetst aan de methodiek van drempelfuncties die het UWV hanteert bij de beoordeling van arbeidsongeschiktheid.   
+5.  Onder een drempelfunctie als bedoeld in het vierde lid wordt verstaan een bestaande functie op de Nederlandse arbeidsmarkt die de ondergrens van de verdiencapaciteit markeert, met een minimale belasting waardoor deze geschikt is voor mensen met beperkingen.   
+6.  Indien uit de analyse, bedoeld in het derde lid en vierde lid, blijkt dat een persoon geen drempelfunctie of voor een deel één drempelfunctie kan uitvoeren wordt de persoon niet geacht in staat te zijn het minimumloon te verdienen met dien verstande dat de beperkingen of belemmeringen die een persoon ondervindt naar verwachting nog ten minste voor 6 maanden na de beoordeling zullen bestaan.   
+7.  Indien uit de analyse, bedoeld in het derde lid en vierde lid, blijkt dat een persoon één drempelfunctie kan uitvoeren of één drempelfunctie kan uitvoeren met behulp van aanpassingen of begeleiding wordt de persoon geacht in staat te zijn het minimumloon te verdienen.  
+
 ### Hoofdstuk  4  
 
 ####Re-integratie.

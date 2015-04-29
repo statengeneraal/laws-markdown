@@ -464,6 +464,173 @@ c. de percentages die op grond van dit artikel ten hoogste voor categorieën van
 3.  Het eerste lid wordt eveneens niet toegepast ingeval een eigenrisicodrager de uitkering, bedoeld in artikel 63a Ziektewet, betaalt of de uitkering, bedoeld in artikel 82 juncto 84 van de Wet werk en inkomen naar arbeidsvermogen, betaalt, onafhankelijk van het voortbestaan van de dienstbetrekking met die eigenrisicodrager.  
 4.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de wijze waarop de vervangende premie, bedoeld in het eerste lid, wordt vastgesteld. 
 
+### §  4a  
+
+####Quotumheffing
+
+Treedt in werking per 01-05-2015 
+
+### Artikel  38b  
+
+####Definities
+
+Treedt in werking per 01-05-2015 
+
+In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder: 
+
+1. een arbeidsbeperkte: 
+
+a. een persoon die met ondersteuning bij de arbeidsinschakeling van het college van burgemeester en wethouders op grond van artikel 7, eerste lid, onderdeel a, van de Participatiewet naar een dienstbetrekking is of wordt toegeleid, en van wie uitsluitend op verzoek van het college van burgemeester en wethouders door het UWV is vastgesteld dat hij niet in staat is tot het verdienen van het wettelijk minimumloon, bedoeld in artikel 2, onderdeel c, van de Participatiewet, met uitzondering van de persoon die arbeid verricht in een dienstbetrekking als bedoeld in artikel 10b, eerste lid, van de Participatiewet,  
+
+b. een persoon die geïndiceerd is als bedoeld in de Wet sociale werkvoorziening of een nog geldende indicatiebeschikking heeft op grond van artikel 11 van die wet, zoals dat artikel luidde voor de datum van inwerkingtreding van artikel II van de Invoeringswet Participatiewet,  
+
+c. een persoon die recht op arbeidsondersteuning of een arbeidsongeschiktheidsuitkering op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten heeft, tenzij deze persoon duurzaam geen mogelijkheden tot arbeidsparticipatie heeft als bedoeld in artikel 1a:1 van die wet, of  
+
+d. een persoon die voldoet aan een bij of krachtens algemene maatregel van bestuur vastgestelde indicatie.    
+
+2. Voor de toepassing van deze afdeling wordt onder een arbeidsbeperkte mede verstaan een persoon die naar het oordeel van het UWV wegens ziekte of gebrek ontstaan voordat de leeftijd van 18 jaren is bereikt of in de tijd dat hij studerende was als bedoeld in artikel 1:4 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten een belemmering ondervindt in het verrichten van arbeid in dienstbetrekking, op grond van artikel 10 van de Participatiewet of artikel 35 van de Wet werk en inkomen naar arbeidsvermogen een voorziening ontvangt en zonder die voorziening niet in staat is tot het verdienen van het wettelijk minimumloon, bedoeld in artikel 2, onderdeel c, van de Participatiewet.  
+
+3. Met betrekking tot de beoordeling door het UWV of een persoon een arbeidsbeperkte is als bedoeld in het tweede lid worden bij of krachtens algemene maatregel van bestuur regels gesteld.  
+
+4. verloonde uren: de uren waarover loon is betaald en die zijn opgenomen in de loonaangifte op grond van artikel 28, eerste lid, van de Wet op de loonbelasting 1964 en die tevens zijn opgenomen in de polisadministratie op grond van artikel 33, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen.  
+
+5. de beschikking: de in artikel 38h, eerste lid, bedoelde beschikking alsmede de op grond van artikel 38h, vijfde lid, herziene beschikking.   
+
+### Artikel  38c  
+
+####Indeling sectoren
+
+Treedt in werking per 01-05-2015 
+
+Bij regeling van Onze Minister worden werkgevers voor de toepassing van deze paragraaf en artikel 122n ingedeeld bij de sector overheid of de sector niet-overheid. 
+
+### Artikel  38d  
+
+####Registratie arbeidsbeperkten
+
+Treedt in werking per 01-05-2015 
+
+1.  Het UWV draagt zorg voor de inrichting en de adequate werking van de registratie van arbeidsbeperkten en is de verantwoordelijke in de zin van de Wet bescherming persoonsgegevens met betrekking tot de verwerking van gegevens, waaronder persoonsgegevens als bedoeld in de Wet bescherming persoonsgegevens, ten behoeve van deze registratie.   
+2.  Het UWV verwerkt in de registratie, bedoeld in het eerste lid, de gegevens over arbeidsbeperkten met het oog op het bevorderen van de arbeidsdeelname van deze personen en ten behoeve van de vaststelling van de quotumheffing, bedoeld in artikel 38h.   
+3.  Het college van burgemeester en wethouders verstrekt het UWV uit eigen beweging en verplicht op verzoek kosteloos de gegevens over de arbeidsbeperkten, bedoeld in artikel 38b, eerste lid, onderdelen a en b, die noodzakelijk zijn voor de gegevensverwerking, bedoeld in het eerste lid.   
+4.  Het UWV verstrekt het college van burgemeester en wethouders en de belastingdienst uit eigen beweging en verplicht op verzoek kosteloos gegevens uit de registratie, bedoeld in het eerste lid, die noodzakelijk zijn voor de uitvoering van hun taken.   
+5.  Het UWV is bevoegd gegevens die het verwerkt voor de uitvoering van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en voor de uitvoering van de taak, bedoeld in artikel 30d van de Wet structuur uitvoeringsorganisatie werk en inkomen, te verwerken ten behoeve van de registratie, bedoeld in het eerste lid.   
+6.  Het UWV en de belastingdienst zijn bevoegd de gegevens, die zij verwerken in de polisadministratie op grond van artikel 33 van de Wet structuur uitvoeringsorganisatie werk en inkomen tevens te verwerken voor zover deze noodzakelijk zijn voor de bevordering van arbeidsdeelname van arbeidsbeperkten en voor de vaststelling van de quotumheffing, bedoeld in artikel 38h.   
+7.  Het UWV is bevoegd op verzoek van de werkgever aan deze mee te delen of de door de werkgever aangeduide werknemer of de persoon die in zijn dienst arbeid zou kunnen gaan verrichten, op basis van het burgerservicenummer, is opgenomen in de registratie, bedoeld in het eerste lid.   
+8.  Het college van burgemeester en wethouders en het UWV informeren de persoon op wie de gegevens betrekking hebben over de verwerking van zijn gegevens op grond van dit artikel voordat de gegevens worden vastgelegd in de registratie, bedoeld in het eerste lid, of worden verstrekt met het oog op die vastlegging, tenzij deze persoon redelijkerwijs hiervan kennis draagt.   
+9.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld, in ieder geval met betrekking tot: 
+
+a. de inrichting, de gegevensset en de wijze van verkrijging van de gegevens ten behoeve van de registratie, bedoeld in het eerste lid,  
+
+b. de geldigheidsduur van de registratie van de persoon en het vervallen van de registratie van de persoon, en  
+
+c. de vaststelling, bedoeld in artikel 38b, eerste lid, onderdeel a, ten eerste, ten behoeve van de opname van personen in de registratie, bedoeld in het eerste lid.     
+10.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot ambtshalve verstrekking door het UWV van gegevens uit de registratie, bedoeld in het eerste lid, aan werkgevers.  
+
+### Artikel  38e  
+
+####Wijze van heffing en tijdvak
+
+Treedt in werking per 01-05-2015 
+
+1.  De met betrekking tot het quotumtekort, bedoeld in artikel 38g, verschuldigde heffing wordt geheven indien deze op grond van artikel 122n, eerste lid, voor de werkgever in de desbetreffende sector is geactiveerd.   
+2.  De quotumheffing wordt geheven over het kalenderjaar waarover het quotumtekort wordt vastgesteld, waarbij het quotumtekort wordt bepaald door het aantal arbeidsplaatsen ingevuld door arbeidsbeperkten, uitgedrukt in verloonde uren, ten opzichte van het totaal aantal arbeidsplaatsen, uitgedrukt in verloonde uren, in dat jaar overeenkomstig de berekeningsformule, bedoeld in artikel 38g, derde lid.   
+3.  De voor de toepassing van het tweede lid in aanmerking te nemen verloonde uren worden vastgesteld op grond van de loonaangiften die uiterlijk op 1 mei van het jaar volgend op het in het tweede lid bedoelde kalenderjaar zijn ingediend alsmede de correcties daarop die uiterlijk op die datum zijn ingediend. Hierbij worden uitsluitend loonaangiften en correcties in aanmerking genomen met betrekking tot het kalenderjaar waarover het quotumtekort wordt vastgesteld.  
+
+### Artikel  38f  
+
+####Vaststelling quotumpercentages
+
+Treedt in werking per 01-05-2015 
+
+1.  Bij regeling van Onze Minister wordt in het kalenderjaar voorafgaand aan het kalenderjaar waarover het quotumtekort, bedoeld in artikel 38g, wordt bepaald, ten behoeve van de bepaling van het quotumtekort, bedoeld in artikel 38g, voor het desbetreffende kalenderjaar een quotumpercentage voor de sector overheid onderscheidenlijk de sector niet-overheid vastgesteld overeenkomstig de berekeningsformule, bedoeld in het tweede lid. Bij deze regeling worden de berekeningen op grond van het tweede lid die tot dit percentage hebben geleid, gepubliceerd. Het percentage wordt naar beneden afgerond op twee cijfers achter de komma.   
+2.  De quotumpercentages worden berekend overeenkomstig de volgende formule: ![255294](http://wetten.overheid.nl/Illustration/255294)
+waarbij: 
+
+A = totaal aantal banen bij werkgevers die op grond van artikel 34, derde en vierde lid, quotumheffing zijn verschuldigd, die worden vervuld door arbeidsbeperkten op grond van de nulmeting op 1 januari 2013 in de sector overheid onderscheidenlijk de sector niet-overheid  
+
+B = het aantal extra banen voor arbeidsbeperkten bij werkgevers dat dient te worden gerealiseerd vanaf het kalenderjaar 2015 overeenkomstig het sociaal akkoord voor de sector overheid onderscheidenlijk de sector niet-overheid  
+
+C = het gemiddeld aantal verloonde uren van arbeidsbeperkten in de sector overheid en de sector niet-overheid tezamen  
+
+D = het totaal aantal banen bij werkgevers in de sector overheid onderscheidenlijk de sector niet-overheid die op grond van artikel 34, derde en vierde lid, quotumheffing zijn verschuldigd  
+
+E = het gemiddeld aantal verloonde uren van een werknemer bij werkgevers in de sector overheid en de sector niet-overheid tezamen die op grond van artikel 34, derde en vierde lid, quotumheffing zijn verschuldigd  
+
+F = het aantal arbeidsbeperkten, bedoeld in artikel 38b, tweede lid, in de sector overheid onderscheidenlijk de sector niet-overheid  
+
+G = het gemiddeld aantal verloonde uren van arbeidsbeperkten als bedoeld in artikel 38b, tweede lid, in de sector overheid onderscheidenlijk de sector niet-overheid.     
+3.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de variabelen A tot en met E van de formule, bedoeld in het tweede lid. Hierbij kunnen categorieën werknemers worden aangewezen waarvan de banen in mindering worden gebracht op het totaal aantal banen, bedoeld in het tweede lid met betrekking tot variabele D.   
+4.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de variabelen F en G van de formule, bedoeld in het tweede lid. De voordracht voor een krachtens de vorige volzin vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
+5.  Bij regeling van Onze Minister kunnen werknemers in bepaalde soorten dienstbetrekkingen voor de toepassing van het eerste en tweede lid en artikel 122n, eerste lid, worden gelijkgesteld met arbeidsbeperkten.   
+6.  Ten aanzien van de werknemers, bedoeld in het vijfde lid, is deze afdeling van overeenkomstige toepassing.  
+
+### Artikel  38g  
+
+####Bepaling van het quotumtekort
+
+Treedt in werking per 01-05-2015 
+
+1.  Ten behoeve van de vaststelling van de quotumheffing, bedoeld in artikel 38h, wordt het quotumtekort per werkgever bepaald overeenkomstig de berekeningsformule, bedoeld in het derde lid.   
+2.  Voor de toepassing van dit artikel wordt niet als werknemer en niet als arbeidsbeperkte beschouwd de persoon die arbeid verricht in een dienstbetrekking in de zin van artikel 2 van de Wet sociale werkvoorziening, tenzij deze persoon op grond van het vierde lid is aangewezen en aan de werkgever ter beschikking is gesteld.   
+3.  Het quotumtekort wordt berekend overeenkomstig de volgende formule: ![255295](http://wetten.overheid.nl/Illustration/255295)
+waarbij: 
+
+A = totaal verloonde uren van werknemers bij de werkgever in het kalenderjaar waarover het quotumtekort wordt vastgesteld  
+
+B = het quotumpercentage dat op grond van artikel 38f, eerste lid, is vastgesteld voor het kalenderjaar in de sector overheid onderscheidenlijk de sector niet-overheid waartoe de werkgever behoort  
+
+C = aantal verloonde uren bij de werkgever van arbeidsbeperkten in het kalenderjaar waarover het quotumtekort wordt vastgesteld  
+
+D = het gemiddeld aantal verloonde uren van arbeidsbeperkten op jaarbasis in de sector overheid en de sector niet-overheid tezamen.     
+4.  Bij algemene maatregel van bestuur worden categorieën arbeidsbeperkten die aan de werkgever ter beschikking zijn gesteld om voor hem onder zijn toezicht en leiding arbeid te verrichten aangewezen, die overeenkomstig bij of krachtens die maatregel te stellen regels worden beschouwd als werknemers en arbeidsbeperkten waarop het derde lid van toepassing is. Deze categorieën arbeidsbeperkten worden voor de toepassing van het derde lid niet geacht in dienstbetrekking te staan tot de werkgever die deze arbeidsbeperkten ter beschikking heeft gesteld. Bij of krachtens deze maatregel worden in verband met dit lid nadere regels gesteld voor de toepassing van het derde lid.   
+5.  Bij of krachtens algemene maatregel van bestuur kunnen categorieën werknemers worden aangewezen ten aanzien waarvan de verloonde uren in mindering worden gebracht op het totaal aantal verloonde uren, bedoeld in het derde lid, met betrekking tot variabele A.   
+6.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de wijze waarop een quotumtekort wordt bepaald.  
+
+### Artikel  38h  
+
+####Vaststelling quotumheffing
+
+Treedt in werking per 01-05-2015 
+
+1.  De inspecteur stelt bij voor bezwaar vatbare beschikking de quotumheffing vast voor de werkgever, ten aanzien van wie een quotumtekort als bedoeld in artikel 38g is bepaald.   
+2.  De beschikking bevat in ieder geval: 
+
+a. de vaststelling dat de werkgever quotumheffing is verschuldigd op grond van artikel 34, derde en vierde lid;  
+
+b. het kalenderjaar waarover het quotumtekort is vastgesteld waarop de beschikking betrekking heeft;  
+
+c. het totale aantal verloonde uren bij de werkgever in het kalenderjaar waarover het quotumtekort is vastgesteld;  
+
+d. het aantal van die verloonde uren dat wordt ingevuld door arbeidsbeperkten;  
+
+e. de berekening van het quotumtekort, bedoeld in artikel 38g, derde lid;  
+
+f. het bedrag van de quotumheffing.     
+3.  De vaststelling van de quotumheffing vindt plaats vóór 1 augustus volgend op het kalenderjaar waarover het quotumtekort wordt vastgesteld.   
+4.  De quotumheffing bedraagt het quotumtekort vermenigvuldigd met € 5.000.   
+5.  De inspecteur is bevoegd tot herziening van een beschikking op grond van dit artikel indien enig feit grond oplevert voor het vermoeden dat de beschikking is gegeven op grond van onjuiste of onvolledige gegevens. Een herziening ten nadele van de werkgever is uitsluitend mogelijk indien deze tekortkoming een gevolg is van een feit dat aan de werkgever of de gewezen werkgever kan worden toegerekend of redelijkerwijs kenbaar had kunnen zijn. De inspecteur stelt de herziening vast bij voor bezwaar vatbare beschikking. De bevoegdheid tot herziening vervalt door verloop van 5 jaren na het einde van het kalenderjaar waarop de beschikking betrekking heeft.   
+6.  Beschikkingen van de inspecteur op grond van dit artikel worden genomen gehoord het UWV en in overeenstemming met het UWV.   
+7.  Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake de beschikking is hoofdstuk V van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing. Het bezwaar, beroep, hoger beroep en beroep in cassatie inzake de beschikking kan niet zijn gegrond op de grief dat een werknemer niet is opgenomen in de registratie, bedoeld in artikel 38d.   
+8.  Paragraaf 4.1.3.2 van de Algemene wet bestuursrecht is niet van toepassing ten aanzien van de beslissing van de inspecteur naar aanleiding van het bezwaar tegen de beschikking, bedoeld in het eerste en vijfde lid.  
+
+### Artikel  38i  
+
+####Inning quotumheffing
+
+Treedt in werking per 01-05-2015 
+
+1.  De inspecteur stelt de beschikking ter invordering van de daaruit blijkende quotumheffing aan de ontvanger ter hand. Onverminderd het overigens in deze paragraaf bepaalde geschiedt de invordering van de quotumheffing met toepassing van de Invorderingswet 1990 en de Kostenwet invordering rijksbelastingen als ware die heffing een rijksbelasting.   
+2.  De beschikking is invorderbaar zes weken na de dagtekening van de beschikking.  
+
+### Artikel  38j  
+
+####Belastingdienst
+
+Treedt in werking per 01-05-2015 
+
+De belastingdienst is belast met de heffing van de quotumheffing en de invordering van deze heffing. 
+
 ###§ 5 
 
 ####Rijksbijdrage
@@ -1731,6 +1898,32 @@ Artikel 47, eerste lid, aanhef en onderdeel b, zoals dat artikel luidde op de da
 
 Indien het bij koninklijke boodschap van 24 januari 2014 ingediende voorstel van wet tot wijziging van de Algemene nabestaandenwet en de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 in verband met een technische aanpassing van de berekening van de nabestaandenuitkering voor alleenstaande ouders en een verduidelijking van de Werkloosheidswet (Kamerstukken 33 855) tot wet wordt verheven en artikel IVa, onderdeel C, onderdeel 3, van die wet in werking treedt en uiterlijk op de dag voorafgaande aan de datum van inwerkingtreding beroep is ingesteld tegen de uitspraak op bezwaar van de inspecteur op grond van artikel 40, blijft het recht van toepassing zoals dat gold op die dag. 
 
+### Artikel  122n  
+
+####Geleidelijke invoering quotumheffing
+
+Treedt in werking per 01-05-2015 
+
+1.  De quotumheffing, bedoeld in hoofdstuk 3, afdeling 4, paragraaf 4a, wordt niet uitgevoerd dan nadat bij regeling van Onze Minister, in overeenstemming met het gevoelen van de ministerraad, tot invoering is besloten indien is gebleken dat het aantal banen voor arbeidsbeperkten als bedoeld in artikel 38b, eerste lid, en het vierde lid, in onvoldoende mate is toegenomen ten opzichte van het aantal van deze banen op 1 januari 2013, waarbij dit apart wordt beoordeeld voor de sector overheid onderscheidenlijk de sector niet-overheid.   
+2.  Bij regeling van Onze Minister wordt ten behoeve van de vaststelling van de toename, bedoeld in het eerste lid, het aantal banen bepaald voor arbeidsbeperkten, bedoeld in het eerste lid, uitgedrukt in verloonde uren op 1 januari 2013 voor de sector overheid onderscheidenlijk de sector niet-overheid en wordt voor de desbetreffende sector voor het desbetreffende kalenderjaar, bepaald: 
+
+a. het cumulatief aantal extra te realiseren banen voor deze arbeidsbeperkten uitgedrukt in verloonde uren;  
+
+b. het cumulatief aantal gerealiseerde banen voor deze arbeidsbeperkten uitgedrukt in verloonde uren, en  
+
+c. de uitkomst van de vergelijking tussen het cumulatief aantal banen, bedoeld in de onderdelen a en b, uitgedrukt in verloonde uren.     
+3.  Voor de toepassing van het tweede lid wordt niet als arbeidsbeperkte beschouwd de persoon die arbeid verricht in een dienstbetrekking in de zin van artikel 2 van de Wet sociale werkvoorziening, tenzij deze persoon op grond van het vierde lid is aangewezen en aan de werkgever in de sector overheid onderscheidenlijk de sector niet-overheid ter beschikking is gesteld.   
+4.  Bij regeling van Onze Minister worden categorieën arbeidsbeperkten die aan de werkgever in de sector overheid onderscheidenlijk de sector niet-overheid ter beschikking zijn gesteld om voor hem onder zijn toezicht en leiding arbeid te verrichten, aangewezen die overeenkomstig die regeling te stellen regels worden beschouwd als arbeidsbeperkten waarop het tweede lid van toepassing is. Deze categorieën arbeidsbeperkten worden voor de toepassing van het tweede lid niet geacht in dienstbetrekking te staan tot de werkgever in de sector overheid onderscheidenlijk de sector niet-overheid die deze arbeidsbeperkten ter beschikking heeft gesteld.   
+5.  Een krachtens het eerste lid vastgestelde ministeriële regeling wordt gelijktijdig aan de beide kamers der Staten-Generaal overgelegd. De ministeriële regeling treedt niet eerder in werking dan vier weken na de overlegging.  
+
+### Artikel  122o  
+
+####Beëindiging uitsluiting dwangsomregeling
+
+Treedt in werking per 01-05-2015 
+
+Artikel 38h, achtste lid, vervalt met ingang van 1 januari van het vierde kalenderjaar na het kalenderjaar waarin de quotumheffing op grond van artikel 122n, eerste lid, is geactiveerd, tenzij voor die datum een voorstel van wet bij de Tweede Kamer der Staten-Generaal is ingediend, dat een vergelijkbare regeling bevat voor de uitsluiting van de dwangsomregeling, bedoeld in artikel 38h, achtste lid. 
+
 ### Hoofdstuk  8  
 
 ####Slot- en strafbepalingen
@@ -1752,6 +1945,14 @@ De SVB, het UWV, het Zorginstituut, de zorgautoriteit, de organen die betrokken 
 ####Doorlevering aan derden van gegevens afkomstig van de rijksbelastingdienst
 
 Het UWV is bevoegd de van de rijksbelastingdienst afkomstige gegevens, genoemd in de krachtens artikel 73a, eerste lid, artikel 73, vierde lid, of artikel 73, zevende lid, in verbinding met het eerste en tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen uitgevaardigde algemene maatregel van bestuur, te verstrekken aan de in de krachtens artikel 73a, eerste lid, of artikel 73, vierde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen uitgevaardigde algemene maatregel van bestuur, onderscheidenlijk de in artikel 73, eerste en tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen genoemde derden.
+
+### Artikel  124b  
+
+####Evaluatie registratie arbeidsbeperkten
+
+Treedt in werking per 01-05-2015 
+
+De Minister van Sociale Zaken en Werkgelegenheid zendt binnen vijf jaar na de inwerkingtreding van artikel 38d aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit artikel in de praktijk. 
 
 ### Artikel  125  
 

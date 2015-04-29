@@ -5337,7 +5337,7 @@ International Air Pollution Prevention Certificate
 
 1.  If the emissions of VOCs from a tanker are to be regulated in a port or ports or a terminal or terminals under the jurisdiction of a Party, they shall be regulated in accordance with the provisions of this regulation.   
 2.  A Party regulating tankers for VOC emissions shall submit a notification to the Organization. This notification shall include information on the size of tankers to be controlled, the cargoes requiring vapour emission control systems, and the effective date of such control. The notification shall be submitted at least six months before the effective date.   
-3.  A Party which designates ports or terminals at which VOCs emissions from tankers are to be regulated shall ensure that vapour emission control systems, approved by that Party taking into account the safety standards for such systems developed by the Organization<sup> 5) MSC/Circ.585, Standards for vapour emission control systems. </sup> , are provided in any designated port and terminal and are operated safely and in a manner so as to avoid undue delay to a ship.   
+3.  A Party which designates ports or terminals at which VOCs emissions from tankers are to be regulated shall ensure that vapour emission control systems, approved by that Party taking into account the safety standards for such systems developed by the Organization, are provided in any designated port and terminal and are operated safely and in a manner so as to avoid undue delay to a ship.   
 4.  The Organization shall circulate a list of the ports and terminals designated by Parties to other Parties and Member States of the Organization for their information.   
 5.  A tanker to which paragraph 1 of this regulation applies shall be provided with a vapour emission collection system approved by the Administration taking into account the safety standards for such systems developed by the Organization, and shall use this system during the loading of relevant cargoes. A port or terminal which has installed vapour emission control systems in accordance with this regulation may accept tankers which are not fitted with vapour collection systems for a period of three years after the effective date identified in paragraph 2 of this regulation.   
 6.  A tanker carrying crude oil shall have on board and implement a VOC Management Plan approved by the Administration. Such a plan shall be prepared taking into account the guidelines developed by the Organization. The plan shall be specific to each ship and shall at least: 
@@ -6448,9 +6448,9 @@ The following procedure shall be used to determine whether the fuel oil delivere
 | 25  | 18º 22’ 25” N.  | 64º 42’ 58” W.  |
 | 26  | 18º 22’ 26” N.  | 64º 42’ 28” W.  |
 | 27  | 18º 22’ 15” N.  | 64º 42’ 3” W.  |
-| 28  | 18º 22’ 22” N.  | 64º 38’ 23” W.  |
-| 29  | 18º 21’ 57” N.  | 64º 40’ 60” W.  |
-| 30  | 18º 21’ 51” N.  | 64º 40’ 15” W.  |
+| 28  | 18º 22’ 22” N.  | 64°40’60”W.  |
+| 29  | 18º 21’ 57” N.  | 64°40’15”W.  |
+| 30  | 18º 21’ 51” N.  | 64°38’23”W.  |
 | 31  | 18º 21’ 22” N.  | 64º 38’ 16” W.  |
 | 32  | 18º 20’ 39” N.  | 64º 38’ 33” W.  |
 | 33  | 18º 19’ 15” N.  | 64º 38’ 14” W.  |
@@ -12186,7 +12186,7 @@ CFK-115 chloorpentafluorethaan
 .4.Vóór 1 januari 2020 is het zwavelgehalte van brandstofolie zoals bedoeld in paragraaf 4 van dit voorschrift niet van toepassing op schepen die varen in het Noord-Amerikaanse gebied of in het Caribische Zeegebied van de Verenigde Staten zoals omschreven in paragraaf 3, die gebouwd zijn op of vóór 1 augustus 2011 en die aangedreven worden door ketels voor de voortstuwing die oorspronkelijk niet ontworpen zijn om op destillaat-scheepsbrandstof of aardgas te blijven doorvaren.   
 5.  Het zwavelgehalte van brandstofolie bedoeld in het eerste en vierde lid van dit voorschrift wordt aangetoond door de leverancier ervan zoals vereist in voorschrift 18 van deze Bijlage.   
 6.  Schepen waarop afzonderlijke brandstofolie wordt gebruikt teneinde te voldoen aan het vierde lid van dit voorschrift die een gebied voor emissiebeheersing zoals voorzien in het derde lid van dit voorschrift binnenvaren of verlaten, hebben een schriftelijke procedure aan boord waaruit blijkt hoe de overschakeling tussen de soorten olie dient te verlopen, waarbij voldoende tijd is gereserveerd om de olie met een hoger zwavelgehalte dan toegestaan volgens het vierde lid van dit voorschrift volledig uit het brandstofolieservicesysteem te laten verdwijnen voordat het gebied voor emissiebeheersing wordt binnengevaren. De hoeveelheid brandstofolie met een laag zwavelgehalte in elke tank alsmede de datum en de positie van het schip op het tijdstip waarop de overschakeling naar de andere brandstofolie is voltooid alvorens een gebied voor emissiebeheersing binnen te varen of wordt begonnen na het verlaten van een dergelijk gebied worden vastgelegd in een door de Administratie voorgeschreven logboek.   
-7.  Gedurende de eerste twaalf maanden onmiddellijk na de inwerkingtreding van een wijziging waarbij een specifiek gebied voor emissiebeheersing ingevolge paragraaf 3 van dit voorschrift wordt aangewezen, zijn schepen die in dat gebied voor emissiebeheersing varen vrijgesteld van de vereisten van de paragrafen 4 en 6 van dit voorschrift alsmede van de vereisten van paragraaf 5 van dit voorschrift voor zover zij betrekking hebben op paragraaf 4 van dit voorschrift.<sup> 1) De in paragraaf 7 voorziene vrijstellingstermijn van 12 maanden is tot 1 augustus 2012 van toepassing op het Noord-Amerikaanse gebied voor emissiebeheersing. De in paragraaf 7 voorziene vrijstellingstermijn van 12 maanden is tot 1 januari 2014 van toepassing op het Caribische Zeegebied van de Verenigde Staten voor emissiebeheersing. </sup>  
+7.  Gedurende de eerste twaalf maanden onmiddellijk na de inwerkingtreding van een wijziging waarbij een specifiek gebied voor emissiebeheersing ingevolge paragraaf 3 van dit voorschrift wordt aangewezen, zijn schepen die in dat gebied voor emissiebeheersing varen vrijgesteld van de vereisten van de paragrafen 4 en 6 van dit voorschrift alsmede van de vereisten van paragraaf 5 van dit voorschrift voor zover zij betrekking hebben op paragraaf 4 van dit voorschrift.  
 ###Toetsing
 
 8.  In 2018 dient de toetsing van de norm vervat in lid 1.3 van dit voorschrift te zijn afgerond om de beschikbaarheid van brandstofolie vast te stellen waarmee voldaan wordt aan de in dat lid vervatte brandstofolienormen; hierbij dienen de volgende elementen in aanmerking te worden genomen: 
@@ -12205,7 +12205,7 @@ CFK-115 chloorpentafluorethaan
 
 1.  Indien de emissie van VOS door tankschepen binnen een haven of havens of laad- of losplaatsen onder de rechtsmacht van een Partij dient te worden gereguleerd, geschiedt dat in overeenstemming met de bepalingen van dit voorschrift.   
 2.  Een partij die de emissie van VOS door tankschepen reguleert dient een kennisgeving in bij de Organisatie. Deze kennisgeving bevat informatie inzake de afmetingen van de te reguleren tankschepen, inzake vrachten waarvoor dampemissiebeheersingssystemen vereist zijn, en de datum waarop dit vereiste in werking treedt. De kennisgeving wordt ten minste zes maanden voor de datum van inwerkingtreding ingediend.   
-3.  Een partij die havens of laad- en losplaatsen aanwijst waarin VOS-emissies van tankschepen dienen te worden gereguleerd waarborgt dat door die Partij goedgekeurde dampemissiebeheersingssystemen, overeenkomstig de door de Organisatie opgestelde veiligheidsnormen<sup> 5) MSC/Circ.585, normen voor dampemissiebeheersingssystemen. </sup> , beschikbaar worden gesteld in de aangewezen havens en laad- en losplaatsen, en veilig worden gebruikt en op een wijze waardoor onnodig oponthoud van schepen wordt voorkomen.   
+3.  Een partij die havens of laad- en losplaatsen aanwijst waarin VOS-emissies van tankschepen dienen te worden gereguleerd waarborgt dat door die Partij goedgekeurde dampemissiebeheersingssystemen, overeenkomstig de door de Organisatie opgestelde veiligheidsnormen, beschikbaar worden gesteld in de aangewezen havens en laad- en losplaatsen, en veilig worden gebruikt en op een wijze waardoor onnodig oponthoud van schepen wordt voorkomen.   
 4.  De Organisatie doet ter kennisgeving een lijst van door Partijen aangewezen havens en laad- en losplaatsen toekomen aan andere Partijen en lidstaten van de Organisatie.   
 5.  Een tankschip waarop het eerste lid van dit voorschrift van toepassing is wordt aangesloten op een door de Administratie overeenkomstig de door de Organisatie opgestelde veiligheidsnormen voor dergelijke systemen goedgekeurd dampemissiebeheersingsysteem en gebruikt dit systeem tijdens het laden van daarvoor in aanmerking komende ladingen. Een haven of laad- of losplaatsen waar dampemissiebeheersingssystemen zijn geïnstalleerd in overeenstemming met dit voorschrift kunnen gedurende een tijdvak van drie jaar na de in het tweede lid van dit voorschrift genoemde datum van inwerkingtreding bestaande tankschepen toelaten die niet zijn voorzien van dampopvangsystemen.   
 6.  Aan boord van tankschepen die ruwe olie vervoeren dient een door de Administratie goedgekeurd VOS-managementplan aanwezig te zijn en geïmplementeerd te worden. Deze plannen worden opgesteld aan de hand van de door de Organisatie opgestelde richtlijnen. Het plan dient toegesneden te zijn op het schip en ten minste: 
@@ -13314,9 +13314,9 @@ De volgende procedure wordt gebruikt om vast te stellen of de aan boord van sche
 | 25  | 18º 22’ 25” Noorderbreedte  | 64º 42’ 58” Westerlengte  |
 | 26  | 18º 22’ 26” Noorderbreedte  | 64º 42’ 28” Westerlengte  |
 | 27  | 18º 22’ 15” Noorderbreedte  | 64º 42’ 3” Westerlengte  |
-| 28  | 18º 22’ 22” Noorderbreedte  | 64º 38’ 23” Westerlengte  |
-| 29  | 18º 21’ 57” Noorderbreedte  | 64º 40’ 60” Westerlengte  |
-| 30  | 18º 21’ 51” Noorderbreedte  | 64º 40’ 15” Westerlengte  |
+| 28  | 18º 22’ 22” Noorderbreedte  | 64°40’60”W.  |
+| 29  | 18º 21’ 57” Noorderbreedte  | 64°40’15”W.  |
+| 30  | 18º 21’ 51” Noorderbreedte  | 64°38’23”W.  |
 | 31  | 18º 21’ 22” Noorderbreedte  | 64º 38’ 16” Westerlengte  |
 | 32  | 18º 20’ 39” Noorderbreedte  | 64º 38’ 33” Westerlengte  |
 | 33  | 18º 19’ 15” Noorderbreedte  | 64º 38’ 14” Westerlengte  |

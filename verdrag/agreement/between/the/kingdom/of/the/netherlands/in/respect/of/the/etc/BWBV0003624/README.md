@@ -4,15 +4,11 @@
 
 ####Agreement between the Kingdom of the Netherlands, in respect of the Netherlands Antilles, and Bermuda (as authorised by the Government of the United Kingdom of Great Britain and Northern Ireland) for the Exchange of Information with respect to Taxes
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 The Government of the Kingdom of the Netherlands, in respect of the Netherlands Antilles, and the Government of Bermuda (as authorised by the Government of the United Kingdom of Great Britain and Northern Ireland), Desiring to facilitate the exchange of information with respect to taxes,   Have agreed as follows:    
 
 ### Article  1  
 
 ####Object and scope of the Agreement
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  The competent authorities of the Contracting Parties shall provide assistance through exchange of information that is relevant to the administration and enforcement of the domestic laws of the Contracting Parties concerning taxes covered by this Agreement. Such information shall include information that is relevant to the determination, assessment and collection of such taxes, the recovery and enforcement of tax claims, or the investigation or prosecution of tax matters. Information shall be exchanged in accordance with the provisions of this Agreement and shall be treated as confidential in the manner provided in Article 8. The rights and safeguards secured to persons by the laws or administrative practices of the requested Party remain applicable. The rights and safeguards shall not be applied by the requested Party in a manner that unduly prevents or delays effective exchange of information.   
 2.  As regards the Kingdom of the Netherlands, this Agreement shall apply only to the Netherlands Antilles.  
@@ -21,15 +17,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Jurisdiction
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 A requested Party is not obligated to provide information which is neither held by its authorities nor in the possession or control of persons who are within its territorial jurisdiction. 
 
 ### Article  3  
 
 ####Taxes covered
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  This Agreement shall apply to the following taxes imposed by the Contracting Parties: 
 
@@ -49,8 +41,6 @@ b) in the case of Bermuda: The existing taxes which are the subject of this Agre
 ### Article  4  
 
 ####Definitions
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  For the purposes of this Agreement, unless otherwise defined: 
 
@@ -105,8 +95,6 @@ r) the term “tax” means any tax to which the Agreement applies.
 
 ####Exchange of information upon request
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  The competent authority of the requested Party shall provide upon request information for the purposes referred to in Article 1. Such information shall be exchanged without regard to whether the conduct being investigated would constitute a crime under the laws of the requested Party if such conduct occurred in the requested Party.   
 2.  If the information in the possession of the competent authority of the requested Party is not sufficient to enable it to comply with the request for information, the requested Party shall use all relevant information gathering measures to provide the applicant Party with the information requested, notwithstanding that the requested Party may not need such information for its own tax purposes.   
 3.  If specifically requested by the competent authority of the applicant Party, the competent authority of the requested Party shall provide information under this Article, to the extent allowable under its domestic laws, in the form of depositions of witnesses and authenticated copies of original records.   
@@ -152,8 +140,6 @@ b) if the competent authority of the requested Party has been unable to obtain a
 
 ####Tax examinations abroad
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  The requested Party may allow, to the extent permitted under its domestic law, representatives of the competent authority of the applicant Party to enter the territory of the requested Party to interview individuals and examine records with the written consent of the persons concerned. The competent authority of the applicant Party shall notify the competent authority of the requested Party of the time and place of the meeting with the individuals concerned.   
 2.  At the request of the competent authority of the applicant Party, the competent authority of the requested Party may allow representatives of the competent authority of the applicant Party to be present at the appropriate part of a tax examination in the requested Party.   
 3.  If the request referred to in paragraph 2 is acceded to, the competent authority of the requested Party conducting the examination shall, as soon as possible, notify the competent authority of the applicant Party about the time and place of the examination, the authority or official designated to carry out the examination and the procedures and conditions required by the requested Party for the conduct of the examination. All decisions with respect to the conduct of the tax examination shall be made by the requested Party conducting the examination.  
@@ -161,8 +147,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Article  7  
 
 ####Possibility of declining a request
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  The competent authority of the requested Party may decline to assist where: 
 
@@ -183,15 +167,11 @@ b) the applicant Party would not be able to obtain the information
 
 ####Confidentiality
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Any information received by a Contracting Party under this Agreement shall be treated as confidential and may be disclosed only to persons or authorities (including courts and administrative bodies) in the jurisdiction of the Contracting Party concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by this Agreement. Such persons or authorities shall use such information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. The information may not be disclosed to any other person or entity or authority or any other jurisdiction without the express written consent of the competent authority of the requested Party.  
 
 ### Article  9  
 
 ####Costs
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Incidence of costs incurred in providing assistance (including reasonable costs of third Parties and external advisors in connection with litigation or otherwise) shall be agreed by the competent authorities of the Contracting Parties. 
 
@@ -199,23 +179,17 @@ Incidence of costs incurred in providing assistance (including reasonable costs 
 
 ####Implementation legislation
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 The Contracting Parties shall enact any legislation necessary to comply with, and give effect to, the terms of the Agreement. 
 
 ### Article  11  
 
 ####Language
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Requests for assistance and answers thereto shall be drawn up in English. 
 
 ### Article  12  
 
 ####Mutual agreement procedure
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Where difficulties or doubts arise between the Contracting Parties regarding the implementation or interpretation of the Convention, the competent authorities shall endeavour to resolve the matter by mutual agreement.   
 2.  In addition to the agreements referred to in paragraph 1, the competent authorities of the Contracting Parties may mutually agree on the procedures to be used under Articles 5 and 6.   
@@ -224,8 +198,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Article  13  
 
 ####Entry into force
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 This Agreement shall enter into force on the later of the dates on which each of the Contracting Parties has notified the other in writing that the formalities constitutionally or otherwise required in their respective Party have been complied with. Upon the date of entry into force, it shall have effect: 
 
@@ -237,8 +209,6 @@ b) for all other matters covered in Article 1 on that date; however, no earlier 
 
 ####Termination
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  This Agreement shall remain in force until terminated by one of the Contracting Parties. Either Contracting Party may, after the expiration of three years from the date of its entry into force, terminate the Agreement, through diplomatic channels, by giving notice of termination to the other Contracting Party.   
 2.  Such termination shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of notice of termination by the other Contracting Party. Nevertheless, all requests received before the effective date of termination shall be dealt with in accordance with this Agreement.   
 3.  In the event of termination, both Contracting Parties shall remain bound by the provisions of Article 8 with respect to any information obtained under the Agreement.  
@@ -247,23 +217,17 @@ IN WITNESS WHEREOF the undersigned, being duly authorised thereto by their respe
 
 ####Protocol between the Kingdom of the Netherlands, in respect of the Netherlands Antilles, and Bermuda (as authorised by the Government of the United Kingdom of Great Britain and Northern Ireland) concerning the interpretation and application of the Agreement between the Kingdom of the Netherlands, in respect of the Netherlands Antilles, and Bermuda (as authorised by the United Kingdom of Great Britain and Northern Ireland) for the Exchange of Information with respect to Taxes
 
-Treedt in werking op een nader te bepalen tijdstip 
-
-The Government of the Kingdom of the Netherlands, in respect of the Netherlands Antilles, and the Government of the Bermuda (as authorised by the Government of the United Kindom of Great Britain and Northern Ireland) (hereinafter referred to as “the Contracting Parties”),   Desiring to facilitate the exchange of information with respect to taxes, have further agreed as follows:    
+The Government of the Kingdom of the Netherlands, in respect of the Netherlands Antilles, and the Government of the Bermuda (as authorised by the Government of the United Kingdom of Great Britain and Northern Ireland) (hereinafter referred to as “the Contracting Parties”),   Desiring to facilitate the exchange of information with respect to taxes, have further agreed as follows:    
 
 ### Article  1  
 
 ####(Article 5(7)(e) )
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 With respect to subparagraph e) of paragraph 7 of Article 5 it is understood that the term “pursued all means available in its own territory” includes the requesting Contracting Party using exchange of information mechanisms it has in force with any third country in which the information is located.  
 
 ### Article  2  
 
 ####(Article 5 )
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 If personal data is exchanged under the Agreement, the following additional provisions shall apply:  
 
@@ -289,8 +253,6 @@ i) The supplying and the receiving authority shall be obliged to take effective 
 
 ####(Article 12 )
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 In the event that a Contracting Party applies prejudicial or restrictive measures based on harmful tax practices to residents or nationals of the other Contracting Party, either Contracting Party may immediately initiate Competent Authority proceedings to resolve the matter. A prejudicial or restrictive measure based on harmful tax practices is a measure applied by one Contracting Party to residents or nationals of either Contracting Party on the basis that any one or more of the following applies: 
 
 a) the other Contracting Party does not engage in effective exchange of information;  
@@ -300,7 +262,6 @@ b) because it lacks transparency in the operation of its laws, regulations or ad
 c) on the basis of no or nominal taxes.   Without limiting the generality of the term, “prejudicial or restrictive measure” is not limited solely to taxation matters and includes the denial of a deduction, credit or exemption, the imposition of a tax, charge or levy, or special reporting requirements, but does not include any generally applicable measure, applied by either Contracting Party against, amongst others, members of the OECD generally. 
 
 ### Article  4  
-Treedt in werking op een nader te bepalen tijdstip 
 
 In the light of the experience of operating the Agreement, or to reflect changing circumstances, either Contracting Party may wish to propose a variation in the terms of this Agreement. If so, it is understood the other Contracting Party will agree to hold timely discussions with a view to revising the terms of the Agreement. 
 
@@ -315,12 +276,10 @@ a) The competent authorities may initiate discussions in case:
 b) If the Kingdom of the Netherlands, in respect of the Netherlands Antilles, enters into arrangements with another jurisdiction comparable to Bermuda for the provision of information with respect to taxes that are less burdensome in any material respect than the provisions of the Agreement, Bermuda may initiate discussions with the Kingdom of the Netherlands, in respect of the Netherlands Antilles, with a view to modifying the Agreement to have similar effect.   
 
 ### Article  5  
-Treedt in werking op een nader te bepalen tijdstip 
 
 This Protocol shall form an integral part of the Agreement between the Kingdom of the Netherlands, in respect of the Netherlands Antilles, and Bermuda (as authorised by the Government of the United Kingdom of Great Britain and Northern Ireland) on the Exchange of Information with Respect to Taxes, and shall enter into force on the same date as the Agreement.  
 
 ### Article  6  
-Treedt in werking op een nader te bepalen tijdstip 
 
 The Contracting Parties may, by mutual arrangement, amend this Protocol at any time in writing. Such amendment shall enter into force on the first day of the second month after the Contracting Parties have notified each other in writing through diplomatic channels that the constitutional or internal requirements for the entry into force of this amendment have been complied with. 
 
@@ -328,15 +287,11 @@ IN WITNESS WHEREOF the undersigned, being duly authorised in that behalf by thei
 
 ####Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en Bermuda (zoals gemachtigd door de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland) inzake de uitwisseling van informatie betreffende belastingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De Regering van het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en de Regering van Bermuda (zoals gemachtigd door de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland), Geleid door de wens de uitwisseling van informatie betreffende belastingen te vergemakkelijken,   Zijn het volgende overeengekomen:    
 
 ### Artikel  1  
 
 ####Doelstelling en reikwijdte van het Verdrag
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De bevoegde autoriteiten van de verdragsluitende partijen verlenen elkaar bijstand door middel van de uitwisseling van informatie die van belang is voor de toepassing en handhaving van de nationale wetten van de verdragsluitende partijen die betrekking hebben op de belastingen waarop dit Verdrag van toepassing is. Deze informatie omvat informatie die van belang is voor de bepaling, vaststelling en inning van deze belastingen, de invordering en tenuitvoerlegging van belastingvorderingen of het onderzoek naar of de vervolging van belastingzaken. Informatie wordt uitgewisseld in overeenstemming met de bepalingen van dit Verdrag en wordt vertrouwelijk behandeld op de wijze voorzien in artikel 8. De uit hoofde van de wetten of de bestuursrechtelijke praktijk van de aangezochte partij aan personen toegekende rechten en waarborgen blijven van toepassing. De aangezochte partij past de rechten en waarborgen zodanig toe dat de doeltreffende uitwisseling van informatie niet onnodig wordt verhinderd of vertraagd.   
 2.  Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag uitsluitend van toepassing op de Nederlandse Antillen.  
@@ -345,15 +300,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Rechtsmacht
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Een aangezochte partij is niet verplicht informatie te verstrekken die noch in het bezit is van haar autoriteiten, noch in het bezit of in de macht van personen die onder haar territoriale rechtsmacht vallen. 
 
 ### Artikel  3  
 
 ####Belastingen waarop het Verdrag van toepassing is
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Dit Verdrag is van toepassing op de volgende belastingen die door de verdragsluitende partijen worden geheven: 
 
@@ -373,8 +324,6 @@ b. wat Bermuda betreft: De bestaande belastingen waarop dit Verdrag van toepassi
 ### Artikel  4  
 
 ####Begripsomschrijvingen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Voor de toepassing van dit Verdrag, tenzij anders is bepaald: 
 
@@ -429,8 +378,6 @@ r. wordt verstaan onder „belasting” elke belasting waarop het Verdrag van to
 
 ####Uitwisseling van informatie op verzoek
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De bevoegde autoriteit van de aangezochte partij verstrekt op verzoek informatie ten behoeve van de in artikel 1 bedoelde doeleinden. Dergelijke informatie wordt uitgewisseld ongeacht of de onderzochte gedragingen, indien deze in de aangezochte partij zouden plaatsvinden, uit hoofde van de wetgeving van de aangezochte partij als strafbaar feit zouden worden aangemerkt.   
 2.  Indien de informatie in het bezit van de bevoegde autoriteit van de aangezochte partij niet toereikend is om aan het verzoek om informatie te voldoen, treft die partij alle toepasselijke maatregelen ten behoeve van het verzamelen van informatie teneinde de verzoekende partij de verzochte informatie te verstrekken, ongeacht het feit dat de aangezochte partij ten behoeve van haar eigen belastingheffing niet over dergelijke informatie hoeft te beschikken.   
 3.  Indien de bevoegde autoriteit van een verzoekende partij daar specifiek om verzoekt, is de bevoegde autoriteit van de aangezochte partij gehouden uit hoofde van dit artikel informatie te verstrekken, voor zover zulks is toegestaan in overeenstemming met haar nationale wetgeving, in de vorm van getuigenverklaringen en gewaarmerkte afschriften van originele stukken.   
@@ -476,8 +423,6 @@ b. indien de bevoegde autoriteit van de aangezochte partij niet in staat is de i
 
 ####Belastingcontrole in het buitenland
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Voor zover toegestaan ingevolge haar nationale recht kan de aangezochte partij vertegenwoordigers van de bevoegde autoriteit van de verzoekende partij toestaan het grondgebied van de aangezochte partij binnen te komen teneinde natuurlijke personen te ondervragen en met schriftelijke toestemming van de betrokken personen stukken te onderzoeken. De bevoegde autoriteit van de verzoekende partij stelt de bevoegde autoriteit van de aangezochte partij in kennis van het tijdstip en de locatie van de bijeenkomst met de betrokken natuurlijke personen.   
 2.  Op verzoek van de bevoegde autoriteit van de verzoekende partij kan de bevoegde autoriteit van de aangezochte partij vertegenwoordigers van de bevoegde autoriteit van de verzoekende partij toestaan aanwezig te zijn bij het daarvoor in aanmerking komende deel van een belastingcontrole in de aangezochte partij.   
 3.  Indien het in het tweede lid bedoelde verzoek wordt ingewilligd, stelt de bevoegde autoriteit van de aangezochte partij die de controle uitvoert, de bevoegde autoriteit van de verzoekende partij zo spoedig mogelijk in kennis van het tijdstip en de locatie van de controle, de autoriteit of functionaris die de controle zal uitvoeren en van de procedures en voorwaarden die bij de aangezochte partij vereist zijn voor de uitvoering van de controle. Alle beslissingen met betrekking tot het uitvoeren van de belastingcontrole worden genomen door de aangezochte partij die de controle uitvoert.  
@@ -485,8 +430,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  7  
 
 ####Mogelijkheid een verzoek af te wijzen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De bevoegde autoriteit van de aangezochte partij kan weigeren bijstand te verlenen: 
 
@@ -507,15 +450,11 @@ ii. naar aanleiding van een geldig verzoek van de aangezochte partij uit hoofde 
 
 ####Vertrouwelijkheid
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Alle uit hoofde van dit Verdrag door een verdragsluitende partij ontvangen informatie wordt vertrouwelijk behandeld en wordt uitsluitend ter kennis gebracht van personen of autoriteiten (met inbegrip van rechterlijke en bestuursrechtelijke instanties) die onder de rechtsmacht van de desbetreffende verdragsluitende partij vallen en betrokken zijn bij de vaststelling of inning van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de belastingen waarop dit Verdrag van toepassing is. Deze personen of autoriteiten mogen uitsluitend voor deze doeleinden van deze informatie gebruikmaken. Zij mogen de informatie bekendmaken in openbare rechtszittingen of in gerechtelijke beslissingen. De informatie mag niet ter kennis worden gebracht van enige andere persoon, instelling, autoriteit of rechterlijke instantie zonder de uitdrukkelijke schriftelijke toestemming van de bevoegde autoriteit van de aangezochte partij. 
 
 ### Artikel  9  
 
 ####Kosten
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De bevoegde autoriteiten van de verdragsluitende partijen bereiken overeenstemming over kosten die voortvloeien uit het verlenen van bijstand (met inbegrip van redelijke kosten van derden en externe adviseurs in verband met gerechtelijke procedures of andere kosten). 
 
@@ -523,23 +462,17 @@ De bevoegde autoriteiten van de verdragsluitende partijen bereiken overeenstemmi
 
 ####Uitvoeringswetgeving
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De verdragsluitende partijen stellen alle wetgeving vast die noodzakelijk is om te voldoen aan en ter uitvoering van de bepalingen van het Verdrag. 
 
 ### Artikel  11  
 
 ####Taal
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Verzoeken om bijstand en antwoorden daarop worden in het Engels gesteld. 
 
 ### Artikel  12  
 
 ####Procedure voor onderling overleg
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De bevoegde autoriteiten trachten moeilijkheden of twijfelpunten die mochten rijzen tussen de verdragsluitende partijen met betrekking tot de uitvoering of de uitlegging van dit Verdrag in onderling overleg op te lossen.   
 2.  Naast de in het eerste lid bedoelde afspraken, kunnen de bevoegde autoriteiten van de verdragsluitende partijen in onderling overleg overeenstemming bereiken over de krachtens de artikelen 5 en 6 te hanteren procedures.   
@@ -548,8 +481,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  13  
 
 ####Inwerkingtreding
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Dit Verdrag treedt in werking op de laatste van de data waarop beide verdragsluitende partijen elkaar schriftelijk hebben medegedeeld dat aan de daartoe in hun onderscheiden partijen grondwettelijk of anderszins vereiste formaliteiten is voldaan. Vanaf de datum van inwerkingtreding is het van toepassing op: 
 
@@ -561,8 +492,6 @@ b. alle overige aangelegenheden vanaf die datum waarop artikel 1 van toepassing 
 
 ####Beëindiging
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Dit Verdrag blijft van kracht totdat het door een van de verdragsluitende partijen wordt beëindigd. Elke verdragsluitende partij kan het Verdrag na het verstrijken van drie jaar na de datum van inwerkingtreding langs diplomatieke weg beëindigen door middel van een kennisgeving van beëindiging aan de andere verdragsluitende partij.   
 2.  Deze beëindiging wordt van kracht op de eerste dag van de maand na het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving van beëindiging door de andere verdragsluitende partij. Alle verzoeken ontvangen vóór de feitelijke datum van beëindiging worden in overeenstemming met dit Verdrag afgehandeld.   
 3.  Bij beëindiging van dit Verdrag blijven de verdragsluitende partijen gebonden door de voorwaarden van artikel 8 ten aanzien van alle uit hoofde van dit Verdrag verkregen informatie.  
@@ -571,23 +500,17 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 
 ####Protocol tussen het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en Bermuda (zoals gemachtigd door de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland) betreffende de uitlegging en toepassing van het Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en Bermuda (zoals gemachtigd door het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland) inzake de uitwisseling van informatie betreffende belastingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De Regering van het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en de Regering van Bermuda (zoals gemachtigd door de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland), (hierna te noemen „de verdragsluitende partijen”),   Geleid door de wens de uitwisseling van informatie betreffende belastingen te vergemakkelijken, zijn voorts het volgende overeengekomen:    
 
 ### Artikel  1  
 
 ####(Artikel 5, zevende lid, onderdeel e )
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Wat artikel 5, zevende lid, onderdeel e, betreft is het wel te verstaan dat onder de uitdrukking „op haar eigen grondgebied alles in het werk heeft gesteld” mede wordt begrepen dat de verzoekende verdragsluitende partij gebruikmaakt van de mechanismen voor de uitwisseling van informatie die van kracht zijn met derde landen waar de informatie zich bevindt. 
 
 ### Artikel  2  
 
 ####(Artikel 5 )
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Indien uit hoofde van het Verdrag persoonsgegevens worden uitgewisseld zijn de volgende aanvullende bepalingen van toepassing: 
 
@@ -613,8 +536,6 @@ i. De verstrekkende en de ontvangende autoriteit zijn verplicht doeltreffende ma
 
 ####(Artikel 12 )
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Indien een verdragsluitende partij, gebaseerd op schadelijke fiscale praktijken, nadelige of beperkende maatregelen toepast op inwoners of onderdanen van de andere verdragsluitende partij, kan de andere verdragsluitende partij onverwijld een procedure voor onderling overleg starten ten behoeve van een oplossing. Een nadelige of beperkende maatregel gebaseerd op schadelijke fiscale praktijken is een maatregel die de ene verdragsluitende partij toepast op inwoners of onderdanen van de andere verdragsluitende partij waarbij het volgende geldt: 
 
 a. de andere verdragsluitende partij neemt geen deel aan de doeltreffende uitwisseling van informatie;  
@@ -624,7 +545,6 @@ b. er is sprake van een gebrek aan transparantie bij de toepassing van haar wet-
 c. de maatregel wordt zonder belastinggrondslag of op grond van minieme belastingen genomen.   Zonder het algemene karakter van de uitdrukking te beperken is de uitdrukking „nadelige of beperkende maatregel” niet alleen beperkt tot fiscale aangelegenheden en omvat zij mede het weigeren van aftrek, verrekening of vrijstelling, het opleggen van een belasting of heffing, of bijzondere rapportagevereisten; zij omvat niet de algemeen toepasselijke maatregelen die door een van de verdragsluitende partijen in het algemeen worden opgelegd aan onder meer leden van de OESO. 
 
 ### Artikel  4  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Op grond van ervaringen met de werking van het Verdrag of van veranderende omstandigheden kan elk van de verdragsluitende partijen een aanpassing van de bepalingen van dit Verdrag voorstellen. Indien zulks het geval is, is het wel te verstaan dat de andere verdragsluitende partij instemt met tijdig overleg teneinde de bepalingen van het Verdrag te herzien. 
 
@@ -639,12 +559,10 @@ iii. Bermuda nieuwe wetgeving invoert die andere vormen van uitwisseling van inf
 b. Indien het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, met een andere met Bermuda vergelijkbare mogendheid regelingen treft voor het verstrekken van informatie ter zake van belastingen die in materieel opzicht minder belastend zijn dan de bepalingen van het Verdrag, kan Bermuda met het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, in overleg treden teneinde het Verdrag dienovereenkomstig aan te passen.   
 
 ### Artikel  5  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Dit Protocol vormt een integrerend onderdeel van het Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en Bermuda (zoals gemachtigd door de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland) inzake de uitwisseling van informatie betreffende belastingen en treedt in werking op dezelfde datum als het Verdrag. 
 
 ### Artikel  6  
-Treedt in werking op een nader te bepalen tijdstip 
 
 De verdragsluitende partijen kunnen dit Protocol te allen tijde in onderling overleg schriftelijk wijzigen. Een dergelijke wijziging treedt in werking op de eerste dag van de tweede maand nadat de verdragsluitende partijen elkaar langs diplomatieke weg schriftelijk ervan in kennis hebben gesteld dat aan de grondwettelijke of interne vereisten voor de inwerkingtreding van de wijziging is voldaan. 
 

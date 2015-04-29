@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Briefwisseling houdende een overeenkomst tussen het Koninkrijk der Nederlanden ten behoeve van Aruba, en de Republiek Slovenië betreffende automatische gegevensuitwisseling inzake inkomsten uit spaargelden in de vorm van rentebetaling
+##Briefwisseling houdende een overeenkomst tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Republiek Slovenië betreffende automatische gegevensuitwisseling inzake inkomsten uit spaargelden in de vorm van rentebetaling
 
 ####Overeenkomst in de vorm van een briefwisseling betreffende belastingheffing op inkomsten uit spaargelden en de voorlopige toepassing ervan 
 

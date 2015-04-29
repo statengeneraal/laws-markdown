@@ -190,7 +190,7 @@ h) other persons invited to the Host Country Office or to meetings of IDLO upon 
 
 ####Privileges, immunities, and facilities of members of the Assembly of Parties and other organs of IDLO
 
-1.  Representatives of Parties who are members of the IDLO Assembly of Parties shall enjoy, while exercising their functions within the Host Country, the privileges (except for the financial and fiscal privileges), immunities and facilities accorded to heads of diplomatic missions accredited to the Kingdom of The Netherlands in accordance with the [Vienna Convention on Diplomatic Relations of 18 April 1961](../../../../../../../../../../../../verdrag/vienna/convention/on/diplomatic/relations/BWBV0004345/README.md).   
+1.  Representatives of Parties who are members of the IDLO Assembly of Parties shall enjoy, while exercising their functions within the Host Country, the privileges (except for the financial and fiscal privileges), immunities and facilities accorded to heads of diplomatic missions accredited to the Kingdom of The Netherlands in accordance with the Vienna Convention on Diplomatic Relations of 18 April 1961.   
 2.  Members of other Organs of IDLO shall enjoy, while exercising their functions within the Host Country, the following privileges, immunities, and facilities: 
 
 a) immunity from legal process of any kind in respect of words spoken or written, and all acts performed by them in the exercise of their official functions;  
@@ -238,7 +238,7 @@ e) the same privileges with respect to currency and exchange restrictions as are
 f) exemption from immigration restrictions.     
 5.  Where the incidence of any form of taxation depends upon residence, periods during which the Officials and Experts are present in the Host Country for the discharge of their functions shall not be considered as periods of residence.   
 6.  The Host Country shall not be obliged to exempt from income tax pensions or annuities paid to former Officials and Experts and members of their family forming part of the household.   
-7.  Persons referred to in this Article who are nationals or permanent residents of the Host Country shall enjoy within the Host Country only the following privileges, immunities, and facilities to the extent necessary for the independent performance of their functions: 
+7.  Officials of IDLO who are nationals or permanent residents of the Host Country shall only enjoy within the Host Country the following privileges, immunities, and facilities to the extent necessary for the independent performance of their functions: 
 
 a) exemption from taxation on salaries, emoluments, and allowances paid to them in respect of their employment with IDLO;  
 
@@ -247,6 +247,11 @@ b) the right to import free of duties and taxes, except payments for services, t
 c) immunity from legal process in respect of words spoken or written and all acts performed by them in their official capacity for IDLO; and  
 
 d) inviolability of all papers, documents, in whatever form, and materials relating to the performance of their functions for IDLO.    
+8. Experts of IDLO who are nationals or permanent residents of the Host Country shall only enjoy within the Host Country the following privileges, immunities, and facilities to the extent necessary for the independent performance of their functions:
+
+a) immunity from legal process in respect of words spoken or written and all acts performed by them in their official capacity for IDLO; and  
+
+b) inviolability of all papers, documents, in whatever form, and materials relating to the performance of their functions for IDLO. 
 
 ### Article  16  
 

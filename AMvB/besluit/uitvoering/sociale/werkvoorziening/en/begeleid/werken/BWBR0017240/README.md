@@ -24,17 +24,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 a. de wet: de Wet sociale werkvoorziening;  
 
-b. aanvrager: de persoon die een aanvraag voor indicatie heeft ingediend of namens wie een aanvraag voor indicatie is ingediend;  
+b. herindicatiebeschikking: de beschikking, bedoeld in artikel 11, eerste lid, van de wet;  
 
-c. indicatiebeschikking: de beschikking, bedoeld in artikel 11, eerste lid, van de wet;  
+c. sociale werkvoorziening: de arbeidsomgeving waar gewerkt wordt in een dienstbetrekking als bedoeld in artikel 2, eerste lid, van de wet;  
 
-d. sociale werkvoorziening: de arbeidsomgeving waar gewerkt wordt in een dienstbetrekking als bedoeld in artikel 2, eerste lid, van de wet;  
+d. begeleid werken: de arbeid, bedoeld in hoofdstuk 3 van de wet;  
 
-e. begeleid werken: de arbeid, bedoeld in hoofdstuk 3 van de wet;  
+e. beperkingen van lichamelijke, verstandelijke of psychische aard: alle beperkingen die samenhangen met stoornissen van functies of anatomische eigenschappen zoals gekwalificeerd in de Nederlandse vertaling van de International Classification of Functioning, Disability and Health (ICF) van de Wereld Gezondheidsorganisatie en gespecificeerd in de hoofdstukken 1 tot en met 8 van de classificaties van Functies en Anatomische eigenschappen van de ICF, zoals deze luiden op 1 januari 2008;  
 
-f. beperkingen van lichamelijke, verstandelijke of psychische aard: alle beperkingen die samenhangen met stoornissen van functies of anatomische eigenschappen zoals gekwalificeerd in de Nederlandse vertaling van de International Classification of Functioning, Disability and Health (ICF) van de Wereld Gezondheidsorganisatie en gespecificeerd in de hoofdstukken 1 tot en met 8 van de classificaties van Functies en Anatomische eigenschappen van de ICF, zoals deze luiden op 1 januari 2008;  
-
-g. aanpassingen: aanpassingen met behulp waarvan door de geïndiceerde arbeid kan worden verricht, die betrekking hebben op: 
+f. aanpassingen: aanpassingen met behulp waarvan door de geïndiceerde arbeid kan worden verricht, die betrekking hebben op: 
 
 1°. technische aanpassingen in de werkplek en werkomgeving;  
 
@@ -46,116 +44,72 @@ g. aanpassingen: aanpassingen met behulp waarvan door de geïndiceerde arbeid ka
 
 5°. aanpassing van het werktempo;    
 
-h. begeleidingsorganisatie: een organisatie die de arbeidsinpassing van de geïndiceerde, met inbegrip van de begeleiding op zijn werkplek gedurende het begeleid werken, verzorgt.   
+g. begeleidingsorganisatie: een organisatie die de arbeidsinpassing van de geïndiceerde, met inbegrip van de begeleiding op zijn werkplek gedurende het begeleid werken, verzorgt.   
 
 ### Artikel  2  
 
 ####De aanvraag
 
-1.  Een aanvraag tot indicatie wordt ingediend door of namens de aanvrager bij het Uitvoeringsinstituut werknemersverzekeringen. Ondertekent de aanvrager de aanvraag tot indicatie niet zelf, dan wordt de reden daarvan vermeld.   
-2.  In de aanvraag wordt aangegeven of de aanvrager toestemming geeft tot het zo nodig raadplegen van behandelend artsen of psychologen en het gebruik maken van bij dezen aanwezige medische of psychologische gegevens.   
-3.  Na ontvangst van de aanvraag toetst het Uitvoeringsinstituut werknemersverzekeringen de woonplaats van de aanvrager en draagt er zonodig zorg voor dat de aanvrager als werkzoekende ingeschreven staat bij haar organisatie.   
-4.  Het Uitvoeringsinstituut werknemersverzekeringen tekent onverwijld de datum van ontvangst van de aanvraag aan, en zendt de aanvrager, of, indien namens hem een aanvraag is ingediend, degene die namens hem de aanvraag heeft ingediend, een bewijs van ontvangst.   
+1.  Telkens uiterlijk 16 weken voor het verstrijken van de geldigheidsduur van een indicatie vraagt het college van de gemeente waar de geïndiceerde woont namens de geïndiceerde een herindicatie aan bij het Uitvoeringsinstituut werknemersverzekeringen.   
+2.  Bij de aanvraag voor een herindicatie verstrekt het college aan het Uitvoeringsinstituut werknemersverzekeringen in ieder geval recente gegevens betreffende: 
+
+a. de wijze van functioneren van de geïndiceerde in de sociale werkvoorziening of het begeleid werken, en  
+
+b. de uitvoering van de door het Uitvoeringsinstituut werknemersverzekeringen afgegeven adviezen.     
+3.  Bij de aanvraag voor een herindicatie op grond van artikel 11, tweede lid, van de wet verstrekt het college in ieder geval tevens een re-integratieverslag als bedoeld in artikel 25, derde lid, van de Wet werk en inkomen naar arbeidsvermogen.   
+4.  Onverminderd het eerste lid vraagt het college van de gemeente waar de geïndiceerde woont op verzoek van of namens de geïndiceerde een herindicatie aan bij het Uitvoeringsinstituut werknemersverzekeringen op een eerder tijdstip dan bedoeld in het eerste lid. Het tweede lid is van toepassing.   
+5.  In de aanvraag wordt aangegeven of de geïndiceerde toestemming geeft tot het zo nodig raadplegen van behandelend artsen of psychologen en het gebruik maken van bij dezen aanwezige medische of psychologische gegevens.   
+6.  Het Uitvoeringsinstituut werknemersverzekeringen betrekt bij een besluit over de herindicatie de op grond van het tweede lid van het college verkregen gegevens.  
 
 ### Artikel  3  
 
 ####Het onderzoek
 
-1.  In het kader van de aanvraag tot indicatie verricht het Uitvoeringsinstituut werknemersverzekeringen, met inachtneming van de bijlage behorend bij dit besluit, onderzoek naar: 
+1.  In het kader van de aanvraag tot herindicatie verricht het Uitvoeringsinstituut werknemersverzekeringen, met inachtneming van de bijlage behorend bij dit besluit, onderzoek naar: 
 
-a. de beperkingen van de aanvrager van lichamelijke, verstandelijke en psychische aard;  
+a. de beperkingen van de geïndiceerde van lichamelijke, verstandelijke en psychische aard;  
 
-b. de mogelijkheid, dat de aanvrager in staat is passende arbeid te verrichten onder normale omstandigheden, zonder dat er sprake is van aanpassingen;  
+b. de mogelijkheid, dat de geïndiceerde in staat is passende arbeid te verrichten onder normale omstandigheden, zonder dat er sprake is van aanpassingen;  
 
-c. de aanpassingen die voor de aanvrager noodzakelijk zijn en de vraag of deze binnen redelijke grenzen in een normale arbeidsomgeving kunnen worden gerealiseerd;  
+c. de aanpassingen die voor de geïndiceerde noodzakelijk zijn en de vraag of deze binnen redelijke grenzen in een normale arbeidsomgeving kunnen worden gerealiseerd;  
 
-d. de mogelijkheid, dat de aanvrager met de aanpassingen in staat is regelmatig arbeid in de sociale werkvoorziening of begeleid werken te verrichten;  
+d. de mogelijkheid, dat de geïndiceerde met de aanpassingen in staat is regelmatig arbeid in de sociale werkvoorziening of begeleid werken te verrichten;  
 
 e. de indeling in een arbeidshandicapcategorie als bedoeld in artikel 4, eerste lid;  
 
-f. de mogelijkheid, dat de aanvrager een advies voor begeleid werken kan worden gegeven.     
+f. de mogelijkheid, dat de geïndiceerde een advies voor begeleid werken kan worden gegeven.     
 2.  Het onderzoek wordt op adequate wijze verricht door personen die over voldoende deskundigheid beschikken.   
 3.  Bij ministeriële regeling wordt bepaald wanneer bij het onderzoek een arbeidsdeskundige, een arts en een psycholoog wordt betrokken. Daarbij worden ook regels gesteld met betrekking tot de onverenigbaarheid van andere functies met die van deskundige als bedoeld in dit lid.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de wijze waarop het Uitvoeringsinstituut werknemersverzekeringen het onderzoek uitvoert.  
 
 ### Artikel  4  
 
-####De indicatie
+####De herindicatie
 
 1.  Het Uitvoeringsinstituut werknemersverzekeringen deelt de geïndiceerde in de arbeidshandicapcategorie matig of ernstig in, op grond van de noodzakelijke aanpassingen en van het prestatieniveau volgens de bijlage behorend bij dit besluit.   
 2.  Het Uitvoeringsinstituut werknemersverzekeringen stelt van de geïndiceerde de geldigheidsduur van de indicatie vast. Deze bedraagt minimaal een en maximaal 50 jaar.   
-3. De indicatiebeschikking bevat bij een geïndiceerde tevens:
+3. De herindicatiebeschikking bevat bij een geïndiceerde tevens:
 
 a.een advies over de eventuele aanpassingen die in eerste aanleg noodzakelijk worden bevonden bij het verrichten van arbeid,
 
 b.een advies of hij in staat is tot begeleid werken.  
-4.  Indien de aanvrager niet wordt geïndiceerd, omdat hij ook onder normale omstandigheden tot regelmatige arbeid in staat wordt geacht, bevat de indicatie tevens het advies, bedoeld in artikel 30d, eerste lid, onderdeel c, van de Wet structuur uitvoeringsorganisatie werk en inkomen.   
-5.  Indien de aanvrager niet wordt geïndiceerd, omdat hij ook onder aangepaste omstandigheden niet tot regelmatige arbeid is staat wordt geacht, bevat de indicatie tevens een gericht advies betreffende de doorgeleiding naar een indicatie voor een voorziening voor ondersteunende en activerende begeleiding in het kader van de Algemene Wet Bijzondere Ziektekosten.   
-6.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de geldigheidsduur van de indicatie.  
+4.  Indien de geïndiceerde niet meer tot de doelgroep behoort, omdat hij ook onder normale omstandigheden tot regelmatige arbeid in staat wordt geacht, bevat de indicatie tevens het advies, bedoeld in artikel 30d, eerste lid, onderdeel c, van de Wet structuur uitvoeringsorganisatie werk en inkomen.   
+5.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de geldigheidsduur van de indicatie.  
 
 ### Artikel  5  
 
-####Mededeling indicatie en intrekking beschikking
+####Mededeling herindicatie en intrekking beschikking
 
-1.  De indicatiebeschikking wordt door het Uitvoeringsinstituut werknemersverzekeringen zo spoedig mogelijk na vaststelling toegezonden aan de geïndiceerde, of, indien namens hem een aanvraag is ingediend, degene die namens hem de aanvraag heeft ingediend, aan het college van de gemeente waar de geïndiceerde woonachtig is en, voor zover van toepassing, aan de in artikel 2, tweede lid, van de wet bedoelde rechtspersoon.   
-2.  Indien de aanvrager niet wordt geïndiceerd wordt dat besluit door het Uitvoeringsinstituut werknemersverzekeringen zo spoedig mogelijk na vaststelling toegezonden aan hem, het college van de gemeente waar de aanvrager woonachtig is.   
-3. Indien de indicatiebeschikking of herindicatiebeschikking is ingetrokken of vervallen op grond van artikel 12, derde lid, of vierde lid, onderdeel a of b, van de wet bericht het college van de gemeente waar de voormalig geïndiceerde woont in afschrift het Uitvoeringsinstituut werknemersverzekeringen.  
+1.  De herindicatiebeschikking wordt door het Uitvoeringsinstituut werknemersverzekeringen zo spoedig mogelijk na vaststelling toegezonden aan de geïndiceerde aan het college van de gemeente waar de geïndiceerde woonachtig is en, voor zover van toepassing, aan de in artikel 2, tweede lid, van de wet bedoelde rechtspersoon.   
+2.  Indien de geïndiceerde niet meer tot de doelgroep behoort wordt dat besluit door het Uitvoeringsinstituut werknemersverzekeringen zo spoedig mogelijk na vaststelling toegezonden aan hem, het college van de gemeente waar de aanvrager woonachtig is.   
+3. Indien de indicatiebeschikking of herindicatiebeschikking is ingetrokken of vervallen op grond van artikel 12, eerste lid, of tweede lid, onderdeel a, van de wet bericht het college van de gemeente waar de voormalig geïndiceerde woont in afschrift het Uitvoeringsinstituut werknemersverzekeringen.  
 4. Bij de toepassing van het derde lid wordt de werknemer die buiten Nederland woont als inwoner aangemerkt van de gemeente waarin hij laatstelijk in Nederland woonde.
-
-### Artikel  6  
-
-####Herindicatie
-
-1. Telkens uiterlijk 16 weken voor het verstrijken van de geldigheidsduur van een indicatie vraagt het college van de gemeente waar de geïndiceerde woont namens de geïndiceerde een herindicatie aan bij het Uitvoeringsinstituut werknemersverzekeringen.  
-2.  Bij de aanvraag voor een herindicatie verstrekt het college aan het Uitvoeringsinstituut werknemersverzekeringen in ieder geval recente gegevens betreffende: 
-
-a. de wijze van functioneren van de geïndiceerde in de sociale werkvoorziening of het begeleid werken, en  
-
-b. de uitvoering van de door het Uitvoeringsinstituut werknemersverzekeringen afgegeven adviezen.     
-3. Bij de aanvraag voor een herindicatie op grond van artikel 11, derde lid, van de wet verstrekt het college in ieder geval tevens een re-integratieverslag als bedoeld in artikel 25, derde lid, van de Wet werk en inkomen naar arbeidsvermogen.
-4. Onverminderd het eerste lid vraagt het college van de gemeente waar de geïndiceerde woont op verzoek van of namens de geïndiceerde een herindicatie aan bij het Uitvoeringsinstituut werknemersverzekeringen op een eerder tijdstip dan bedoeld in het eerste lid. Het tweede lid is van toepassing.
-5. De artikelen 2, tweede lid, 3, 4 en 5, eerste, tweede en vierde lid, zijn op een aanvraag tot herindicatie van overeenkomstige toepassing.  
-6.  Het Uitvoeringsinstituut werknemersverzekeringen betrekt bij een besluit over de herindicatie de op grond van het tweede lid van het college verkregen gegevens.  
-
-### Artikel  7  
-
-####Advies bij voorgenomen opzegging van de dienstbetrekking
-
-Bij zijn advies, bedoeld in artikel 6, derde lid, van de wet, betrekt het Uitvoeringsinstituut werknemersverzekeringen de krachtens artikel 6 van het Buitengewoon Besluit Arbeidsverhoudingen 1945 gestelde regels met betrekking tot de toestemming. 
-
-### Artikel  8  
-
-####Wachtlijst
-
-1. Plaatsing op de wachtlijst geschiedt op volgorde van de datum van de indicatiebeschikking. 
-2. De plaatsing op de wachtlijst wordt beëindigd met ingang van de dag dat betrokkene:
-
-a.een dienstbetrekking als bedoeld in artikel 2, eerste lid, of artikel 7 van de wet aanvaardt;
-
-b.zich blijvend in een andere gemeente vestigt;
-
-c.na een herindicatie als bedoeld artikel 11 van de wet niet langer tot de doelgroep behoort;
-
-d.met toepassing van artikel 12 van de wet zijn indicatiebeschikking of herindicatiebeschikking verliest; of
-
-e.niet beschikbaar is om een dienstbetrekking als bedoeld in artikel 2, eerste lid, of artikel 7 van de wet te aanvaarden.De in de aanhef bedoelde dag wordt onverwijld geregistreerd. 
-3. Met betrekking tot degenen die op 31 december 2007 op de wachtlijst staan geldt voor de toepassing van het eerste lid de datum van aanvraag tot indicatie als datum van de indicatiebeschikking. 
-4. Indien de geïndiceerde zich blijvend in een andere gemeente vestigt, worden zijn gegevens door de gemeente waar hij gevestigd was overgedragen aan de gemeente waar hij zich gevestigd heeft. De gemeente waar de geïndiceerde zich gevestigd heeft plaatst hem op de wachtlijst overeenkomstig het eerste en derde lid. 
-5. Het college verleent aan de geïndiceerde die op de wachtlijst is geplaatst op diens verzoek zodanige inzage in de geregistreerde gegevens, dat deze kan controleren of ten aanzien van hem de volgorde van plaatsing, bedoeld in het eerste juncto derde en vierde lid, is toegepast. 
-6. Bij ministeriële regeling worden regels gesteld wanneer geïndiceerden beschikbaar zijn om een dienstbetrekking als bedoeld in artikel 2, eerste lid, of artikel 7 van de wet te aanvaarden. 
-
-### Artikel  9  
-
-####Voorrangsgarantie
-
-1. Een geïndiceerde die arbeid gaat verrichten buiten het kader van de wet en vervolgens binnen drie jaar onvrijwillig werkloos wordt, wordt op zijn verzoek en indien hij blijkens een nieuwe indicatiebeschikking tot de doelgroep behoort, door het college op de oorspronkelijke datum van de indicatiebeschikking op de wachtlijst geplaatst. 
-2. Een werknemer die werkloos wordt, wordt indien hij nog geïndiceerd is op zijn verzoek door het college op de oorspronkelijke datum van de indicatiebeschikking op de wachtlijst geplaatst. 
 
 ###Hoofdstuk 2 
 
 ####Begeleid werken
 
-### Artikel  11  
+### Artikel  8  
 
 ####Arbeidsinpassing door de gemeente
 
@@ -163,7 +117,7 @@ e.niet beschikbaar is om een dienstbetrekking als bedoeld in artikel 2, eerste l
 2. Het college kan bij de taak op grond van het eerste lid een begeleidingsorganisatie inschakelen en deelt dit, indien hij daartoe wil overgaan, mee aan de geïndiceerde. Het college biedt daarbij de geïndiceerde de keuze uit ten minste twee begeleidingsorganisaties.  
 3. Indien het college niet binnen zes maanden na de mededeling, bedoeld in het tweede lid, voor de geïndiceerde begeleid werken tot stand heeft gebracht, kan de geïndiceerde verzoeken een door hem aangewezen begeleidingsorganisatie in te schakelen ten behoeve van de totstandkoming van een dienstbetrekking. Het college willigt het verzoek van de geïndiceerde in, tenzij het verzoek kennelijk onredelijk is. 
 
-### Artikel  14  
+### Artikel  9  
 
 ####Wijziging begeleidingsorganisatie
 
@@ -172,116 +126,52 @@ e.niet beschikbaar is om een dienstbetrekking als bedoeld in artikel 2, eerste l
 
 ### Hoofdstuk  3  
 
-####FINANCIERING
-
-### Artikel  15  
-
-####Arbeidsjaren
-
-Bij de bepaling van het aantal gerealiseerde arbeidsjaren, bedoeld in de artikelen 9 en 10 van de wet en artikel 18, wordt:
-
-a.onder het vervullen van een dienstbetrekking niet verstaan de situatie dat de werknemer niet werkt tenzij hij loon geniet op grond van artikel 628, 629 of 639 van Boek 7 van het Burgerlijk Wetboek;
-
-b.onder geïndiceerde mede verstaan de persoon die op 31 december 1997 een dienstbetrekking heeft op grond van de Wet Sociale Werkvoorziening zolang de dienstbetrekking voortduurt alsmede de niet langer geïndiceerde persoon wiens indicatiebeschikking of herindicatiebeschikking tijdens de duur van de dienstbetrekking is ingetrokken of vervallen of van wie de geldigheidsduur van de indicatie tijdens de duur van de dienstbetrekking is verlopen;
-
-c.een gerealiseerd arbeidsjaar met 1,25 vermenigvuldigd voor een geïndiceerde ingezetene ingedeeld in de arbeidshandicapcategorie ernstig alsmede voor degene, bedoeld in onderdeel b, die laatstelijk was ingedeeld in die arbeidshandicapcategorie;
-
-d.het totaal van de door het college gerealiseerde arbeidsjaren berekend op honderdsten nauwkeurig waarbij vijfduizendste of meer naar boven wordt afgerond op een honderdste. 
-
-### Artikel  16  
-
-####Berekening taakstelling
-
-1. Het op grond van artikel 8, tweede lid, van de wet vastgestelde aantal bij de uitkering, bedoeld in artikel 8, eerste lid, van de wet behorende minimumaantal arbeidsjaren wordt voor het jaar T als volgt vastgesteld: (A/B) x (C – D) waarbij:A staat voor het aantal geïndiceerde inwoners van de gemeente dat een dienstbetrekking heeft of op de wachtlijst staat op 31 december van het jaar T-2 volgens de bijlage, bedoeld in artikel 13, vierde lid, van de wet, en volgens de verantwoordingsinformatie, bedoeld in artikel 1, tweede lid, onderdeel a, van de wet, zoals die bijlage en verantwoordingsinformatie luiden op 15 augustus van het jaar T-1;B staat voor het aantal geïndiceerde inwoners van alle gemeenten samen dat een dienstbetrekking heeft of op de wachtlijst staat op 31 december van het jaar T-2 volgens het totaal van de bijlagen, bedoeld in artikel 13, vierde lid, van de wet en van de verantwoordingsinformatie, bedoeld in artikel 1, tweede lid, onderdeel a, van de wet, zoals die bijlagen en verantwoordingsinformatie luiden op 15 augustus van het jaar T-1;C staat voor het bij wet vast te stellen minimumaantal arbeidsjaren voor alle gemeenten samen voor het jaar T;D staat voor het bij ministeriële regeling vastgestelde totaal aantal arbeidsjaren nodig voor de toepassing van het zesde lid. 
-2. Bij de berekening van de factoren A en B in het eerste lid wordt het aantal geïndiceerden dat is ingedeeld in de arbeidshandicapcategorie ernstig, vermenigvuldigd met 1,25. 
-3. Bij de berekening van de factoren A en B wordt de werknemer die buiten Nederland woont als inwoner aangemerkt van de gemeente waarin hij laatstelijk in Nederland woonde, zolang de dienstbetrekking als bedoeld in artikel 1, derde lid, van de wet voortduurt. 
-4. Bij de berekening van de factoren A en B wordt de persoon die op 31 december 1997 een dienstbetrekking heeft op grond van de Wet Sociale Werkvoorziening als geïndiceerde aangemerkt zolang de dienstbetrekking voortduurt, tenzij bij herindicatie is vastgesteld dat hij niet tot de doelgroep behoort. 
-5. Indien de bijlage, bedoeld in artikel 13, vierde lid, van de wet niet is ontvangen voor 15 augustus van het jaar T-1 wordt, bij de berekening van de factoren A en B in het eerste lid, het aantal geïndiceerde inwoners van de desbetreffende gemeente dat een dienstbetrekking heeft of op de wachtlijst staat op 31 december van het jaar T-2 op nihil gesteld. 
-6. Het minimumaantal arbeidsjaren voor het jaar T wordt vastgesteld op honderdsten nauwkeurig waarbij vijfduizendste of meer naar boven wordt afgerond op een honderdste en bedraagt een bij ministeriële regeling bepaald percentage van het voor de desbetreffende gemeente vastgestelde minimumaantal arbeidsjaren voor het jaar T-1. 
-7. Onze Minister kan, op een gezamenlijk schriftelijk verzoek van twee colleges ingediend voor 1 september van het jaar T, het voor dat jaar op grond van het eerste tot en met zesde lid voor het ene college vastgesteld minimumaantal arbeidsjaren verlagen en het op grond van die leden voor het andere college vastgesteld minimumaantal arbeidsjaren met een gelijk aantal arbeidsjaren verhogen. 
-8. Indien in het jaar T-1 een herindelingsregeling als bedoeld in artikel 1 onderdeel f, van de Wet algemene regels herindeling in werking is getreden en ten gevolge van deze regeling twee of meer gemeenten worden samengevoegd tot één gemeente op 1 januari volgend op de dag van inwerkingtreding van de regeling, wordt het minimumaantal arbeidsjaren voor laatstbedoelde gemeente vastgesteld op het totaal van de op grond van het eerste tot en met zesde lid vastgesteld minimumaantal arbeidsjaren voor de samengevoegde gemeenten. 
-9. Indien in het jaar T-1 een herindelingsregeling als bedoeld in artikel 1 onderdeel f, van de Wet algemene regels herindeling in werking is getreden en ten gevolge van deze regeling een gemeente is opgeheven waardoor het inwonertal van ten minste twee gemeenten toeneemt op 1 januari volgend op de dag van inwerkingtreding van de regeling, kan Onze Minister, op een gezamenlijk schriftelijk verzoek van de betrokken colleges ingediend voor 1 december van het jaar T-1, het voor het jaar T op grond van het eerste tot en met zesde lid voor de gemeente die wordt opgeheven vastgesteld minimumaantal arbeidsjaren verlagen en het op grond van die leden voor de andere gemeenten vastgesteld minimumaantal arbeidsjaren met een in totaal gelijk aantal arbeidsjaren verhogen. 
-
-### Artikel  17  
-
-####Berekening uitkering
-
-1. De uitkering aan het college, bedoeld in artikel 8 van de wet, wordt voor het jaar T als volgt vastgesteld: (E/F) x (G – H) waarbij:E staat voor het op grond van artikel 16 berekende minimumaantal arbeidsjaren voor de gemeente voor het jaar T;F staat voor het na toepassing van artikel 16 vastgestelde minimumaantal arbeidsjaren voor alle gemeenten samen voor het jaar T;G staat voor het voor het jaar T bij wet vast te stellen totale bedrag dat beschikbaar is voor de uitkeringen, bedoeld in artikel 8, eerste lid van de wet;H staat voor de voor het jaar T bij wet vast te stellen middelen voor de Stimuleringsuitkering begeleid werken. 
-2. De uitkering wordt in hele euro’s vastgesteld waarbij een halve euro of meer naar boven wordt afgerond. 
-
-### Artikel  18  
-
-####Stimuleringsuitkering begeleid werken
-
-1. De Stimuleringsuitkering begeleid werken aan het college wordt voor het jaar T als volgt vastgesteld: I x H/J waarbij:I staat voor het aantal gerealiseerde arbeidsjaren in begeleid werken van geïndiceerde inwoners van de gemeente in het jaar T;H staat voor de voor het jaar T bij wet vast te stellen middelen voor de Stimuleringsuitkering begeleid werken;J staat voor het aantal gerealiseerde arbeidsjaren in begeleid werken van geïndiceerde inwoners van alle gemeenten samen in het jaar T;H/J niet meer bedraagt dan € 3000. 
-2. Onder begeleid werken als bedoeld in het eerste lid wordt verstaan een dienstbetrekking als bedoeld in artikel 7 van de wet:
-
-a.waarop niet de collectieve arbeidsovereenkomst voor de sociale werkvoorziening van toepassing is;
-
-b.waarbij de werkgever niet een rechtspersoon is als bedoeld in artikel 2, tweede lid, van de wet noch een dergelijke rechtspersoon houder is van aandelen die ten minste de helft van de stemmen in de algemene vergadering van de werkgever vertegenwoordigen dan wel anderszins op directe of indirecte wijze de bestuurlijke zeggenschap heeft binnen de werkgever; en
-
-c.die voldoet aan nader bij ministeriële regeling te stellen voorwaarden. 
-3. De Stimuleringsuitkering begeleid werken wordt in hele euro’s vastgesteld waarbij een halve euro of meer naar boven wordt afgerond. 
-
-###Hoofdstuk 4 
-
-####Subsidievaststelling
-
-Vervallen per 01-01-2008 
-
-### Hoofdstuk  5  
-
 ####Slot- en overgangsbepalingen
 
-### Artikel  28  
-
-####Overgangsrecht voorrangsgarantie
-
-1.  In afwijking van artikel 9, tweede lid, wordt een persoon die op 31 december 1997 werkzaam was met toepassing van de artikelen 11 en 12 van de Regeling samenloop arbeidsongeschikheidsuitkering met inkomsten uit arbeid en de Regeling vergoeding persoonlijke ondersteuning gehandicapte werknemers, zoals deze regelingen luidde tot die datum en die na die datum deze arbeidsovereenkomst in het kader van de wet heeft voortgezet, op zijn verzoek, door het college op de wachtlijst geplaatst op de volgorde van de datum waarop hij tot genoemde regelingen was toegelaten en krijgt hij bij voorrang begeleid werken aangeboden, indien hij onvrijwillig werkloos wordt.   
-2.  In afwijking van artikel 9, eerste lid, wordt een persoon die op 31 december 1997 een dienstbetrekking heeft krachtens de Wet Sociale Werkvoorziening (Stb. 1967, 687) zoals die luidde tot die datum en die na die datum deze dienstbetrekking heeft voortgezet, op zijn verzoek, door het college wederom op de wachtlijst geplaatst op de volgorde van de datum waarop hij tot de personenkring van de Wet Sociale Werkvoorziening (Stb. 1967, 687) was toegelaten en krijgt hij bij voorrang een dienstbetrekking aangeboden, indien hij in aansluiting op zijn dienstbetrekking arbeid gaat verrichten buiten het kader van de wet en vervolgens binnen drie jaar onvrijwillig werkloos wordt. Daarbij wordt zijn nieuwe dienstbetrekking aangemerkt als een voortzetting van zijn eerdere dienstbetrekking in de zin van de wet.  
-
-###Artikel 29 
+###Artikel 10 
 
 ####Overgangsrecht financiële indeling oude populatie
 
-1. Personen die op 31 december 1997 al in de sociale werkvoorziening werkzaam waren, worden, zolang die dienstbetrekking voortduurt, ingedeeld in de arbeidshandicapcategorie matig.
-2. Personen met beperkingen ten gevolge van stoornissen, zoals gekwalificeerd in de internationale classificatie van stoornissen, beperkingen en handicaps onder punt 50.0 tot en met 50.5, 51 en 52 en die op de dag voorafgaand aan de inwerkingtreding van de wet werkzaam zijn bij de blindenwerkplaats Blizo, behorend tot de bestuurlijke eenheid WSD te Boxtel, en de Blindenwerkplaats Proson, behorende tot de bestuurlijke eenheid DSW, te Nunspeet, worden, zolang die dienstbetrekking voortduurt, ingedeeld in de arbeidshandicapcategorie ernstig.
+1.  Personen die op 31 december 1997 al in de sociale werkvoorziening werkzaam waren, worden, zolang die dienstbetrekking voortduurt, ingedeeld in de arbeidshandicapcategorie matig.   
+2.  Personen met beperkingen ten gevolge van stoornissen, zoals gekwalificeerd in de internationale classificatie van stoornissen, beperkingen en handicaps onder punt 50.0 tot en met 50.5, 51 en 52 en die op de dag voorafgaand aan de inwerkingtreding van de wet werkzaam zijn bij de blindenwerkplaats Blizo, behorend tot de bestuurlijke eenheid WSD te Boxtel, en de Blindenwerkplaats Proson, behorende tot de bestuurlijke eenheid DSW, te Nunspeet, worden, zolang die dienstbetrekking voortduurt, ingedeeld in de arbeidshandicapcategorie ernstig.  
 
-###Artikel 30 
+###Artikel 11 
 
 ####Intrekking besluiten
 
-1. Het Besluit indicatie sociale werkvoorziening, het Besluit arbeidsinpassing en begeleiding sociale werkvoorziening, het Besluit financieel verdeelmodel sociale werkvoorziening en het Besluit vaststelling subsidie Wet sociale werkvoorziening worden ingetrokken.
-2. De in het eerste lid genoemde besluiten, zoals deze luidden op 31 december 2004, blijven van toepassing op de subsidievaststelling over perioden die gelegen zijn vóór 1 januari 2005, met dien verstande dat artikel 11 van het Besluit vaststelling subsidie Wet sociale werkvoorziening bij de subsidievaststelling over de subsidiejaren 2003 en 2004 niet wordt toegepast.
+1.  Het Besluit indicatie sociale werkvoorziening, het Besluit arbeidsinpassing en begeleiding sociale werkvoorziening, het Besluit financieel verdeelmodel sociale werkvoorziening en het Besluit vaststelling subsidie Wet sociale werkvoorziening worden ingetrokken.   
+2.  De in het eerste lid genoemde besluiten, zoals deze luidden op 31 december 2004, blijven van toepassing op de subsidievaststelling over perioden die gelegen zijn vóór 1 januari 2005, met dien verstande dat artikel 11 van het Besluit vaststelling subsidie Wet sociale werkvoorziening bij de subsidievaststelling over de subsidiejaren 2003 en 2004 niet wordt toegepast.  
 
-###Artikel 30a 
-
-####Overgangsartikel voor het jaar 2008
-
-1. Voor de toepassing van artikel 16, eerste lid, voor het jaar 2008 staat bij de berekening van de factoren A en B:A voor het aantal geïndiceerde inwoners van de gemeente dat een dienstbetrekking dan wel een arbeidsovereenkomst heeft of op de wachtlijst staat op 31 december 2006 volgens de op verzoek van Onze Minister verstrekte inlichtingen dienaangaande zoals deze luiden op 10 december 2007;B voor het aantal geïndiceerde inwoners van alle gemeenten samen dat een dienstbetrekking dan wel een arbeidsovereenkomst heeft of op de wachtlijst staat op 31 december 2006 volgens het totaal van de op verzoek van Onze Minister verstrekte inlichtingen dienaangaande zoals deze luiden op 10 december 2007. 
-2. Indien de inlichtingen, bedoeld in het eerste lid, niet uiterlijk op 10 december 2007 in het bezit zijn gesteld van Onze Minister of niet zijn voorzien van een goedkeurende verklaring van de accountant, wordt bij de toepassing van het eerste lid voor de desbetreffende gemeente voor «31 december 2006» gelezen: 31 december 2005. 
-3. Voor de toepassing van artikel 16, zesde lid, voor het jaar 2008 wordt voor «een bij ministeriële regeling bepaald percentage van het voor de desbetreffende gemeente vastgestelde minimumaantal arbeidsjaren voor het jaar T-1» gelezen: 97,5 procent van het aantal voor de inwoners van de desbetreffende gemeente op 30 juni 2007 gerealiseerde dienstbetrekkingen en arbeidsovereenkomsten als bedoeld in de hoofdstukken 2 en 3 van de wet, zoals die luidde op die datum, uitgedrukt in standaardeenheden, volgens de op verzoek van Onze Minister verstrekte inlichtingen dienaangaande, zoals deze luiden op 10 december 2007. 
-4. Indien de inlichtingen, bedoeld in het derde lid, niet uiterlijk op 10 december 2007 in het bezit zijn gesteld van Onze Minister of niet zijn voorzien van een goedkeurende verklaring van de accountant, zijn het derde lid en artikel 16, zesde lid, voor de desbetreffende gemeente niet van toepassing. 
-5. Indien het op grond van artikel 16 in samenhang met de eerste vier leden van dit artikel vastgestelde minimumaantal arbeidsjaren voor een gemeente voor het jaar 2008 minder bedraagt dan hetgeen het geval zou zijn indien factor D, bedoeld in artikel 16, zesde lid, nihil zou bedragen en het derde lid en artikel 16, zesde lid, niet van toepassing zouden zijn, wordt het minimumaantal arbeidsjaren van de desbetreffende gemeente opgehoogd met: (K-L) / M x 986,71 waarbij:K staat voor het voor de desbetreffende gemeente voor het jaar 2008 vast te stellen aantal arbeidsjaren indien factor D, bedoeld in het eerste lid, nihil zou bedragen en het derde lid en artikel 16, zesde lid, niet van toepassing zouden zijn;L staat voor het op grond van artikel 16 in samenhang met de eerste vier leden van dit artikel vastgestelde minimumaantal arbeidsjaren voor de desbetreffende gemeente voor het jaar 2008;M staat voor (K-L) voor alle desbetreffende gemeenten samen. 
-6. Indien het vijfde lid van toepassing is wordt de uitkering aan het college, bedoeld in artikel 17, eerste lid, verhoogd met: (K-L) / M x € 25 miljoen.
-
-### Artikel 30b 
-
-####Overgangsartikel voor het jaar 2009
-
-Voor de toepassing van artikel 16, eerste lid, voor het jaar 2009 staat bij de berekening van de factoren A en B: A voor het aantal geïndiceerde inwoners van de gemeente dat een dienstbetrekking dan wel een arbeidsovereenkomst heeft of op de wachtlijst staat en beschikbaar is om een dienstbetrekking als bedoeld in artikel 2, eerste lid, of artikel 7 van de wet te aanvaarden op 31 december 2007 volgens de bijlage, bedoeld in artikel 13, vierde lid, van de wet zoals die bijlage luidt op 1 september 2008; B voor het aantal geïndiceerde inwoners van alle gemeenten samen dat een dienstbetrekking dan wel een arbeidsovereenkomst heeft of op de wachtlijst staat en beschikbaar is om een dienstbetrekking als bedoeld in artikel 2, eerste lid, of artikel 7 van de wet te aanvaarden op 31 december 2007 volgens het totaal van de bijlagen, bedoeld in artikel 13, vierde lid, van de wet zoals die bijlagen luiden op 1 september 2008.
-
-###Artikel 31 
+###Artikel 12 
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 januari 2005.
+Dit besluit treedt in werking met ingang van 1 januari 2005. 
 
-###Artikel 32 
+###Artikel 13 
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit uitvoering sociale werkvoorziening en begeleid werken.
+Dit besluit wordt aangehaald als: Besluit uitvoering sociale werkvoorziening en begeleid werken. 
+
+### Artikel  14  
+
+Door vernummering vervallen.
+
+### Hoofdstuk  4  
+
+####Informatieverstrekking
+
+Treedt in werking per 01-05-2015 
+
+### Artikel  19  
+
+####Gegevens ten behoeve van de uitvoering van de Wet banenafspraak en quotum arbeidsbeperkten
+
+Treedt in werking per 01-05-2015 
+
+1.  Het college verstrekt gegevens uit de administratie aangelegd voor uitvoering van de Wet banenafspraak en quotum arbeidsbeperkten aan het Uitvoeringsinstituut werknemersverzekeringen, voor zover deze noodzakelijk zijn voor de uitvoering van de Wet banenafspraak en quotum arbeidsbeperkten.   
+2.  Bij ministeriële regeling worden de gegevens, bedoeld in het eerste lid, nader bepaald en kan een daartoe aangewezen bewerker worden gemachtigd deze gegevens aan het Uitvoeringsinstituut werknemersverzekeringen te verstrekken.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlage in het Staatsblad zal worden geplaatst.
 
@@ -329,7 +219,7 @@ Wanneer de aanvrager niet in staat kan worden geacht om zonder aanpassingen arbe
 
 ####ad 4
 
-Beperkingen hoeven niet per definitie een normale arbeidsparticipatie in de weg te staan. Zo kan bij een relatief geringe beperking en een recent arbeidsverleden de nadruk sterker liggen op de vraag in hoeverre het mogelijk is te werken onder normale omstandigheden, al dan niet met gebruikmaking van aanpassingen van de arbeidsplaats ter compensatie van een substantieel verminderde arbeidsprestatie. Redelijkerwijs geldt hierbij wat gebruikelijk is bij toepassing van voorzieningen op basis van de arbeidsongeschikheidswetten of de Wet werk en bijstand. Het kan zijn dat het niet mogelijk is op deze manier de noodzakelijke specifieke aanpassingen te realiseren. Het zal dan gaan om een breed scala van aanpassingen, die praktisch alleen binnen de sociale werkvoorziening kunnen worden gerealiseerd. Hieronder kunnen worden verstaan technische aanpassingen aan de werkplek en werkomgeving die niet door de uitvoeringsinstelling worden vergoed, omdat ze in de gegeven omstandigheid te kostbaar zijn. Ook kan het gaan om aanpassingen die, ongeacht de kosten, alleen al op technische gronden binnen het gewone bedrijf niet goed te realiseren zijn. Andere aanpassingen kunnen op een meer organisatorisch vlak liggen. Hiervoor geldt eveneens dat sommige aanpassingen op dit gebied niet in het gewone bedrijf kunnen worden gerealiseerd, omdat het productieproces een dergelijke aanpassing eenvoudig niet toelaat. Te denken valt hierbij aan een noodzakelijke specifieke vergaande taakdeling in het uitvoerende productiewerk, gelet op de lichamelijke, verstandelijke of psychische beperking van de aanvrager. Dergelijke taakdelingen zijn in beginsel wel mogelijk in de sociale werkvoorziening. Verder zijn er aanpassingen op het organisatorische gebied denkbaar die in het geheel niet van het gewone bedrijf kunnen worden vereist of gerealiseerd, zoals een permanente specifiek deskundige werkbegeleiding. Diegenen, die tot arbeid in staat zijn en voor wie de noodzakelijke aanpassingen over het algemeen gerealiseerd kunnen worden in een overigens normale arbeidsomgeving, worden geacht tot de reïntegratiedoelgroep van gemeente of UWV te behoren. Deze groep komt in aanmerking voor een door UWV op te stellen reïntegratieadvies.
+Beperkingen hoeven niet per definitie een normale arbeidsparticipatie in de weg te staan. Zo kan bij een relatief geringe beperking en een recent arbeidsverleden de nadruk sterker liggen op de vraag in hoeverre het mogelijk is te werken onder normale omstandigheden, al dan niet met gebruikmaking van aanpassingen van de arbeidsplaats ter compensatie van een substantieel verminderde arbeidsprestatie. Redelijkerwijs geldt hierbij wat gebruikelijk is bij toepassing van voorzieningen op basis van de arbeidsongeschikheidswetten of de Participatiewet. Het kan zijn dat het niet mogelijk is op deze manier de noodzakelijke specifieke aanpassingen te realiseren. Het zal dan gaan om een breed scala van aanpassingen, die praktisch alleen binnen de sociale werkvoorziening kunnen worden gerealiseerd. Hieronder kunnen worden verstaan technische aanpassingen aan de werkplek en werkomgeving die niet door de uitvoeringsinstelling worden vergoed, omdat ze in de gegeven omstandigheid te kostbaar zijn. Ook kan het gaan om aanpassingen die, ongeacht de kosten, alleen al op technische gronden binnen het gewone bedrijf niet goed te realiseren zijn. Andere aanpassingen kunnen op een meer organisatorisch vlak liggen. Hiervoor geldt eveneens dat sommige aanpassingen op dit gebied niet in het gewone bedrijf kunnen worden gerealiseerd, omdat het productieproces een dergelijke aanpassing eenvoudig niet toelaat. Te denken valt hierbij aan een noodzakelijke specifieke vergaande taakdeling in het uitvoerende productiewerk, gelet op de lichamelijke, verstandelijke of psychische beperking van de aanvrager. Dergelijke taakdelingen zijn in beginsel wel mogelijk in de sociale werkvoorziening. Verder zijn er aanpassingen op het organisatorische gebied denkbaar die in het geheel niet van het gewone bedrijf kunnen worden vereist of gerealiseerd, zoals een permanente specifiek deskundige werkbegeleiding. Diegenen, die tot arbeid in staat zijn en voor wie de noodzakelijke aanpassingen over het algemeen gerealiseerd kunnen worden in een overigens normale arbeidsomgeving, worden geacht tot de reïntegratiedoelgroep van gemeente of UWV te behoren. Deze groep komt in aanmerking voor een door UWV op te stellen reïntegratieadvies.
 
 ####ad 5
 

@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-## Notawisseling tussen de Nederlandse Regering en de Duitse Bondsregering betreffende de wedertoepassing van het op 11 mei 1920 te 's-Gravenhage tussen de Nederlandse en de Duitse Regering gesloten Verdrag nopens crediet en steenkolen
+## Notawisseling tussen de Nederlandse Regering en de Duitse Bondsregering betreffende de wedertoepassing van het op 11 mei 1920 te 's-Gravenhage tussen de Nederlandse en de Duitse Regering gesloten Verdrag nopens krediet en steenkolen
 
 ### I  
 

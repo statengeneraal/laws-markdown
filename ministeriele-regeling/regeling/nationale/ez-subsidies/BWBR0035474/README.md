@@ -630,7 +630,7 @@ c. in installaties voor de productie van hernieuwbare energie die bedoeld zijn v
 
 2°. de geproduceerde biobrandstof op de markt wordt verkocht;    
 
-d. in installaties voor de productie van hernieuwbare energie met het oog op de productie, op het glastuinbouwbedrijf, van thermische energie of elektriciteit uit hernieuwbare bronnen, indien: 
+d. in installaties voor de productie van hernieuwbare energie met het oog op de productie, op het landbouwbedrijf, van thermische energie of elektriciteit uit hernieuwbare bronnen, indien: 
 
 1°. het niet de bedoeling is in de eigen energiebehoeften te voorzien;  
 
@@ -789,7 +789,7 @@ f. kosten voor activiteiten die de landbouwonderneming ook onder marktvoorwaarde
 
 g. kosten voor de aankoop van bouwgrond;  
 
-h. andere dan de in artikel 2.5.10, onderdeel b, genoemde kosten in verband met een huurkoopcontract, waaronder belastingen, marge voor de verhuurder, kosten voor de herfinanciering van rente, overheadkosten en verzekeringspremies;  
+h. andere dan de in punt 144, onderdeel b, van het Landbouwsteunkader, genoemde kosten in verband met een huurkoopcontract, waaronder belastingen, marge voor de verhuurder, kosten voor de herfinanciering van rente, overheadkosten en verzekeringspremies;  
 
 i. kosten voor investeringen in verband met de naleving van bestaande nationale maatregelen of EG-maatregelen.   
 
@@ -3964,8 +3964,8 @@ d. voor een energiedemonstratieproject:
 
 2°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening.     
 2. De subsidiabele kosten van een energiedemonstratieproject worden berekend in overeenstemming met artikel 41 van de algemene groepsvrijstellingsverordening.
-3. De in het eerste lid, onderdelen a en b, genoemde percentages worden met 20 procentpunten verhoogd, indien de aanvrager een kleine onderneming is en de subsidiabele kosten worden gemaakt en betaald door de kleine onderneming.
-4. De in het eerste lid, onderdelen a en b, genoemde percentages worden met 10 procentpunten verhoogd, indien de aanvrager een middelgrote onderneming is en de subsidiabele kosten worden gemaakt en betaald door de middelgrote ondernemer.
+3. De in het eerste lid, onderdelen a, b en d, genoemde percentages worden met 20 procentpunten verhoogd, indien de aanvrager een kleine onderneming is en de subsidiabele kosten worden gemaakt en betaald door de kleine onderneming.
+4. De in het eerste lid, onderdelen a, b en d, genoemde percentages worden met 10 procentpunten verhoogd, indien de aanvrager een middelgrote onderneming is en de subsidiabele kosten worden gemaakt en betaald door de middelgrote ondernemer.
 5. De in het eerste lid, onderdelen a en b, genoemde percentages worden voor ondernemingen met 10 procentpunten verhoogd, indien het project samenwerking met een onderzoeksorganisatie betreft, de onderzoeksorganisatie minstens 10% van de subsidiabele projectkosten draagt en de onderzoeksorganisatie het recht heeft de resultaten van het project te publiceren voor zover deze afkomstig zijn van het door die organisatie uitgevoerde onderzoek.
 6. De subsidie bedraagt maximaal € 6.000.000 per hernieuwbare-energieproject. 
 
@@ -4284,8 +4284,8 @@ d. voor een energiedemonstratieproject:
 
 3°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening.       
 2.  De subsidiabele kosten van een energiedemonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening.   
-3.  De in het eerste lid, onderdelen a en b, genoemde percentages worden met 20 procentpunten verhoogd, indien de aanvrager een kleine onderneming is en de subsidiabele kosten worden gemaakt en betaald door de kleine ondernemer.   
-4.  De in het eerste lid, onderdelen a en b, genoemde percentages worden met 10 procentpunten verhoogd, indien de aanvrager een middelgrote onderneming is en de subsidiabele kosten worden gemaakt en betaald door de middelgrote ondernemer.   
+3.  De in het eerste lid, onderdelen a, b en d, genoemde percentages worden met 20 procentpunten verhoogd, indien de aanvrager een kleine onderneming is en de subsidiabele kosten worden gemaakt en betaald door de kleine ondernemer.   
+4.  De in het eerste lid, onderdelen a, b en d, genoemde percentages worden met 10 procentpunten verhoogd, indien de aanvrager een middelgrote onderneming is en de subsidiabele kosten worden gemaakt en betaald door de middelgrote ondernemer.   
 5.  De in het eerste lid, onderdelen a en b, genoemde percentages worden voor ondernemingen met 10 procentpunten verhoogd, indien het project samenwerking met een onderzoeksorganisatie betreft, de onderzoeksorganisatie minstens 10% van de subsidiabele projectkosten draagt en de onderzoeksorganisatie het recht heeft de resultaten van het project te publiceren voor zover deze afkomstig zijn van het door die organisatie uitgevoerde onderzoek.   
 6.  De subsidie bedraagt maximaal € 200.000 per iDEEGO-project.  
 
@@ -5431,7 +5431,7 @@ Steunintensiteit
 
 ####, behorende bij artikel 1.5  van de Regeling nationale EZ-subsidies
 
-####Controleprotocol controleverklaring Regeling nationale EZ-subsidies
+####Controleprotocol Regeling nationale EZ-subsidies
 
 ### 1  
 
@@ -5542,15 +5542,15 @@ De accountant legt de uitkomsten van de controle vast in een controleverklaring.
 ####Reviewbeleid
 
 De Auditdienst Rijk (ADR) kan een review uitvoeren op de uitgevoerde accountantscontrole inzake deze subsidie. De accountant, die de controle uitvoert, verstrekt de ADR desgevraagd alle inlichtingen en bescheiden<sup> 2 Krachtens de Comptabiliteitswet 2001 (artikelen 43, 43a) heeft EZ bij rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen die een beroep of bedrijf uitoefenen aan wie door de Staat of een derde voor rekening of risico van de Staat rechtstreeks of middellijk een subsidie, een lening of garantie wordt verstrekt het recht kennis te nemen van jaarrekeningen, jaarverslagen en daaraan toegevoegde overige gegevens, verantwoordingen, gegevens en documenten nodig voor vaststelling van subsidies, leningen en garanties en verslagen van onderzoeken van accountants hiernaar en naar aanleiding hiervan nadere inlichtingen in te winnen en is EZ bevoegd inzage te vorderen in de controledossiers van de accountant die de betreffende bescheiden heeft gecontroleerd om te bepalen of bij de vaststelling kan worden gesteund op de door deze accountant uitgevoerde controle. Met betrekking tot het verlenen van inzage in het controledossier kan de accountant zich niet beroepen op de omstandigheid dat hij op grond van andere bij of krachtens de wet opgelegde verplichtingen tot geheimhouding is verplicht van in dit dossier opgenomen vertrouwelijke gegevens. EZ is bevoegd van stukken inzake de betreffende controle uit de controledossiers kopieën te maken. </sup>. De eventuele extra kosten van deze accountant in verband met de review zijn niet voor rekening van EZ. 
-### *Voorbeeldtekst controleverklaring incidentele subsidies (met goedkeurende strekking)* 
+### *Voorbeeldtekst controleprotocol Regeling nationale EZ-subsidies (met goedkeurende strekking)* 
 
-Afgegeven ten behoeve van ... (naam subsidiegever) Aan: ... (naam subsidieontvanger) Wij hebben bijgaande verzoek om subsidievaststelling ingevolge de beschikking tot subsidieverlening en eventuele wijzigingen ... (omschrijving, kenmerk en dataum) van ... (naam subsidieontvanger(s)) te ... (statutaire vestigingsplaats) over 20XX (of voor een gebroken boekjaar: voor het jaar geëindigd op (datum) 20XX) gecontroleerd. 
+Afgegeven ten behoeve van ... (naam subsidiegever) Aan: ... (naam subsidieontvanger) Wij hebben bijgaande verzoek om subsidievaststelling ingevolge de beschikking tot subsidieverlening en eventuele wijzigingen ... (omschrijving, kenmerk en datum) van ... (naam subsidieontvanger(s)) te ... (statutaire vestigingsplaats) over 20XX (of voor een gebroken boekjaar: voor het jaar geëindigd op (datum) 20XX) gecontroleerd. 
 ### *Verantwoordelijkheid van het bestuur* 
 
 Het bestuur van ... (naam subsidieontvanger) is verantwoordelijk voor het opstellen van het verzoek om subsidievaststelling in overeenstemming met de beschikking tot subsidieverlening. Het bestuur is tevens verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht om het opstellen van het verzoek om subsidievaststelling mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten. 
 ### *Verantwoordelijkheid van de accountant* 
 
-Het bestuur van ... (naam subsidieontvanger) is verantwoordelijk voor het opstellen van het verzoek om subsidievaststelling in overeenstemming met de beschikking tot subsidieverlening <kenmerk> d.d. <datum>. Het bestuur is tevens verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht om het opstellen van het verzoek om subsidievaststelling mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten. Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in het verzoek om subsidievaststelling. De geselecteerde werkzaamheden zijn afhankelijk van de door de accountant toegepaste oordeelsvorming, met inbegrip van het inschatten van de risico’s dat het verzoek om subsidievaststelling een afwijking van materieel belang bevat als gevolg van fraude of fouten. Bij het maken van deze risico-inschattingen neemt de accountant de interne beheersing in aanmerking die relevant is voor het opstellen van het verzoek om subsidievaststelling door de subsidieontvanger, gericht op het opzetten van controlewerkzaamheden die passend zijn in de omstandigheden. Deze risico-inschattingen hebben echter niet tot doel een oordeel tot uitdrukking te brengen over de effectiviteit van de interne beheersing van de subsidieontvanger. Een controle omvat tevens het evalueren van de geschiktheid van de gebruikte grondslagen voor het opstellen van het verzoek om subsidievaststelling, alsmede een evaluatie van het algehele beeld van het verzoek om subsidievaststelling. Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is om een onderbouwing voor ons oordeel te bieden. 
+Onze verantwoordelijkheid is het geven van een oordeel over het verzoek om subsidievaststelling op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse controlestandaarden, en het Controleprotocol Regeling nationale EZ-subsidies. Dit vereist dat wij voldoen aan de voor ons geldende ethische voorschriften en dat wij onze controle zodanig plannen en uitvoeren dat een redelijke mate van zekerheid wordt verkregen dat het verzoek om subsidievaststelling geen afwijkingen van materieel belang bevat. 
 ### *Oordeel* 
 
 Naar ons oordeel is de eindafrekening van <naam instelling/persoon> over de periode <datum> tot <datum> in alle van materieel belang zijnde aspecten opgesteld in overeenstemming met de beschikking tot subsidieverlening <kenmerk> d.d. <datum>. 

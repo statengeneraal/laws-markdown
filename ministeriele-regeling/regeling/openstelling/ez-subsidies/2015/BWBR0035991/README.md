@@ -17,6 +17,7 @@ Besluit:
 | 1  | 2  | 3  | 4  | 5  | 6  | Instrument  | Artikel  | Groep  | Thema/programmalijn  | Openstelling  | Plafond €  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | Titel 2.5: Garantstelling landbouw  | 2.5.2  | --- | --- | Tijdstip waarop de regeling van de Staatssecretaris van Economische Zaken van 27 januari 2015 houdende wijziging van de Regeling nationale EZ-subsidies en de Regeling openstelling EZ-subsidies 2015 in verband met aanpassingen van de Garantstelling landbouw aan de nieuwe staatsteunkaders en de openstelling ervan in werking is getreden tot en met 31-12-2015  | 42.500.000  |
+|Titel 2.6: Garantstelling landbouwondernemingen werkkapitaal |2.6.2 | --- | --- |18-12-2014 t/m 31-12-2015 |75.000.000 |
 | Titel 3.2: TKI-toeslag  | 3.2.2, onderdeel a  | --- | --- | 06-01-2015 t/m 15-09-2015  | --- |
 | Titel 3.2: TKI-toeslag  | 3.2.2, onderdeel b  | --- | --- | 06-01-2015 t/m 15-10-2015  | --- |
 | Titel 3.3:  TKI MKB-versterking  | 3.3.4 en 3.3.6  | --- | HTSM/ICT  | 19-5-2015 t/m  15-9-2015  | € 400.000, waarvan ten hoogste  € 200.000 voor netwerkactiviteiten  |
@@ -41,11 +42,11 @@ Besluit:
 | Titel 3.12: Groeifaciliteit  | 3.12.2  | --- | --- | 01-01-2015 t/m 31-12-2015  | 50.000.000  |
 | Titel 3.13: Garantie ondernemingsfinanciering  | 3.13.2 en 3.14.2  | --- | --- | 01-01-2015 t/m 31-12-2015  | 200.000.000  |
 | Titel 3.16: Vroege fase financiering  | 3.16.2  | MKB-ondernemer  | --- | 01-01- 2015 t/m 01-07-2015  | 1.000.000  |
-| Titel 3.16: Vroege fase financiering  | 3.16.7  | Innovatieve starter  | --- | 01-01- 2015 t/m 01-07-2015  | 2.800.000  |
+| Titel 3.16: Vroege fase financiering  | 3.16.7  | Innovatieve starter  | --- | 01-01- 2015 t/m 01-07-2015  | 5.100.000  |
 | Titel 3.16: Vroege fase financiering  | 3.16.12  | Academische innovatieve starter  | --- | 15-01-2015 t/m 02-03-2015  | 1.900.000  |
 | Titel 4.2: Topsector energie-projecten  | 4.2.9  | BBE Innovatieproject  | --- | 01-04-2015 t/m 15-09-2015  | 2.700.000  |
 | 4.2.16  | Hernieuwbare-energieproject  | --- | 01-04-2015 t/m 15-12-2015  | 50.000.000  |
-| 4.2.23  | STEM-project  | --- | 01-04-2015 t/m 18-07-2015  | 1.500.000  |
+| 4.2.23  | STEM-project  | --- | 01-04-2015 t/m 21-07-2015  | 1.500.000  |
 | 4.2.44  | LNG-project  | --- | 01-04-2015 t/m 16-06-2015  | 1.600.000  |
 | 4.2.58  | iDEEGO-project  | 1. Zonnestroom (PV) systemen  | 01-04-2015 t/m 02-06-2015  | 1.200.000  |
 | --- | --- | 2. Compacte conversie en opslag van thermische energie  | 01-04-2015 t/m 02-06-2015  | 500.000  |

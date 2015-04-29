@@ -28,7 +28,7 @@ Dr. KREUTER, Geheim Regeeringsraad;
 
 Baron VON REISWITZ UND KADERZIN, Gezantschapsraad;  
 
-Direktor WALLLMICHRATH, als gevolmachtigd vertegenwoordiger van den Reichskohlen-Kommissar;     die na overlegging hunner in goeden en behoorlijken vorm bevonden volmachten, omtrent het navolgende zijn overeengekomen:     Nederland opent ten behoeve van Duitschland een crediet van f 200 000 000 voor 10 jaar tegen 6 pct. interest, (bijlage A, leening aan Duitschland). Daartegenover verbindt de Duitsche Regeering zich: 
+Direktor WALLMICHRATH, als gevolmachtigd vertegenwoordiger van den Reichskohlen-Kommissar;     die na overlegging hunner in goeden en behoorlijken vorm bevonden volmachten, omtrent het navolgende zijn overeengekomen:     Nederland opent ten behoeve van Duitschland een crediet van f 200 000 000 voor 10 jaar tegen 6 pct. interest, (bijlage A, leening aan Duitschland). Daartegenover verbindt de Duitsche Regeering zich: 
 
 1. De levering van 90 000 ton steenkool, steenkool-briketten en cokes maandelijks, behoudens overmacht van 1 Januari 1920 tot 31 December 1923 te waarborgen (bijlage B, verstrekking van kolen aan Nederland.)  
 
@@ -102,7 +102,7 @@ c. voor mogelijke leveringen boven deze hoeveelheid dezelfde voorwaarden te zull
 
 ####Regeling van de positie van de kolenvelden gelegen aan de Duitsch-Nederlandsche grens en toebehoorende aan de „Nederlandsche Maatschappij tot ontginning van steenkolenvelden”.
 
-1. De Duitsche Regeering is bereid een speciale regeling tot stand te doen komen ten aanzien van de positie der mijnvelden, aangeduid op de hierbij behoorende kaart en toebehoorende aan de „Nederlandse Maatschappij tot ontginning van steenkolenvelden” welke mijnvelden zijn gelegen bij de grens van Limburg. Deze regeling heeft plaats met het oog op den specialen toestand van de grenzen bij de Duitsch-Nederlandsche kolenbedding waartoe de velden behooren, welke bedding zich uitstrekt over de grenzen tot over de Maas. Daaruit vloeit, naar het gevoelen van Nederland de noodzakelijkheid voort speciaal rekening te houden met dezen toestand om redenen van economisch-aardrijkskundigen, geologischen en technischen aard.  
+1. De Duitsche Regeering is bereid een speciale regeling tot stand te doen komen ten aanzien van de positie der mijnvelden, aangeduid op de hierbij behoorende kaart en toebehoorende aan de „Nederlandsche Maatschappij tot ontginning van steenkolenvelden” welke mijnvelden zijn gelegen bij de grens van Limburg. Deze regeling heeft plaats met het oog op den specialen toestand van de grenzen bij de Duitsch-Nederlandsche kolenbedding waartoe de velden behooren, welke bedding zich uitstrekt over de grenzen tot over de Maas. Daaruit vloeit, naar het gevoelen van Nederland de noodzakelijkheid voort speciaal rekening te houden met dezen toestand om redenen van economisch-aardrijkskundigen, geologischen en technischen aard.  
 
 2. De Duitsche Regeering verklaart zich bereid toe te staan, dat deze velden worden ontgonnen door het delven van mijnschachten, die zoowel op Nederlandsch als op Duitsch grondgebied kunnen liggen. Bovendien zullen zooveel mogelijk faciliteiten worden verleend zoowel ten aanzien van het grensverkeer als ook om de exploitatie mogelijk te maken van de inrichtingen, gelegen op Duitsch territoir, b.v. met betrekking tot afwatering, verstrekking van electrischen stroom uit Nederland over de grens enz.  
 
@@ -154,7 +154,7 @@ Het scheidsgerecht stelt alle verdere voorschriften vast nopens de procedure, in
 
 ### Artikel  10  
 
-De einduitspraak volgt bij scheidsrechterlijk vonnis, waardoor partijen gebonden zijn. Dit vonnis wordt beide partijen schrifteljk medegedeeld.  Het vonnis houdt in:  
+De einduitspraak volgt bij scheidsrechterlijk vonnis, waardoor partijen gebonden zijn. Dit vonnis wordt beide partijen schriftelijk medegedeeld.  Het vonnis houdt in:  
 
 de vermelding der partijen,  
 
