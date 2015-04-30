@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een vast college van advies van het Rijk in te stellen op het terrein van het onderwijs en dat het in verband met [artikel 79 van de Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md) noodzakelijk is daartoe wettelijke bepalingen vast te stellen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is een vast college van advies van het Rijk in te stellen op het terrein van het onderwijs en dat het in verband met artikel 79 van de Grondwet noodzakelijk is daartoe wettelijke bepalingen vast te stellen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### HOOFDSTUK  I  
 
@@ -17,7 +17,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 ####Instelling en omvang
 
 1.  Er is een Onderwijsraad, hierna te noemen de raad.   
-2.  De raad bestaat uit ten minste acht en, in afwijking van [artikel 10 van de Kaderwet adviescolleges](../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md), ten hoogste negentien leden.  
+2.  De raad bestaat uit ten minste acht en, in afwijking van artikel 10 van de Kaderwet adviescolleges, ten hoogste negentien leden.  
 
 ### Artikel  2  
 
@@ -37,31 +37,31 @@ b. Onze Minister van Onderwijs, Cultuur en Wetenschap en Onze Minister van Econo
 
 ### Artikel  3  
 
-####Wijziging van de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) 
+####Wijziging van de Wet op het voortgezet onderwijs 
 
 Wijzigt de Wet op het voortgezet onderwijs.  
 
 ### Artikel  4  
 
-####Wijziging van de [Experimentenwet onderwijs](../../../../../../wet/experimentenwet/onderwijs/BWBR0002718/README.md) 
+####Wijziging van de Experimentenwet onderwijs 
 
 Wijzigt de Experimentenwet onderwijs.  
 
 ### Artikel  5  
 
-####Wijziging van de [Wet op de erkende onderwijsinstellingen](../../../../../../wet/wet/op/de/erkende/onderwijsinstellingen/BWBR0003821/README.md) 
+####Wijziging van de Wet op de erkende onderwijsinstellingen 
 
 Wijzigt de Wet op de erkende onderwijsinstellingen.  
 
 ### Artikel  6  
 
-####Wijziging van de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) 
+####Wijziging van de Wet op het primair onderwijs 
 
 Wijzigt de Wet op het primair onderwijs.  
 
 ### Artikel  7  
 
-####Wijziging van de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) 
+####Wijziging van de Wet op de expertisecentra 
 
 Wijzigt de Wet op de expertisecentra.  
 
@@ -73,7 +73,7 @@ Wijzigt de Overgangswet ISOVSO.
 
 ### Artikel  9  
 
-####Wijziging van de [Wet beheersing huisvestingsvoorzieningen k.o.-l.o.](../../../../../../wet/wet/beheersing/huisvestingsvoorzieningen/k.o.-l.o./BWBR0003412/README.md) 
+####Wijziging van de Wet beheersing huisvestingsvoorzieningen k.o.-l.o. 
 
 Wijzigt de Wet beheersing huisvestingsvoorzieningen k.o.-l.o.  
 
@@ -85,25 +85,25 @@ Wijzigt de Wet op de onderwijsverzorging.
 
 ### Artikel  11  
 
-####Wijziging van de [Wet medezeggenschap onderwijs 1992](../../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md) 
+####Wijziging van de Wet medezeggenschap onderwijs 1992 
 
 Wijzigt de Wet medezeggenschap onderwijs 1992.  
 
 ### Artikel  12  
 
-####Wijziging van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) 
+####Wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek 
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  
 
 ### Artikel  13  
 
-####Wijziging van de [Invoeringswet W.H.B.O.](../../../../../../wet/invoeringswet/w.h.b.o./BWBR0003966/README.md) 
+####Wijziging van de Invoeringswet W.H.B.O. 
 
 Wijzigt de Invoeringswet W.H.B.O.  
 
 ### Artikel  14  
 
-####Wijziging van de [Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) 
+####Wijziging van de Wet educatie en beroepsonderwijs 
 
 Wijzigt de Wet educatie en beroepsonderwijs.  
 

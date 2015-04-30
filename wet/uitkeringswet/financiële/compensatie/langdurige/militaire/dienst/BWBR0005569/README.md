@@ -13,9 +13,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder:  
 
-a. militair: de reservist of dienstplichtige in de zin van de bij of krachtens de [Kaderwet militaire pensioenen](../../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) daarover vastgestelde bepalingen;  
+a. militair: de reservist of dienstplichtige in de zin van de bij of krachtens de Kaderwet militaire pensioenen daarover vastgestelde bepalingen;  
 
-b. werkelijke dienst: de door de militair doorgebrachte, in de periode van 1 januari 1936 tot en met 31 december 1962 liggende werkelijke dienst in de zin van artikel A 1, eerste lid, onder *i* van de Algemene militaire pensioenwet, voor zover die feitelijk is doorgebracht of geacht moet worden onder de wapenen te zijn doorgebracht krachtens de [Wet verbetering rechtspositie verzetsmilitairen](../../../../../../../../wet/wet/verbetering/rechtspositie/verzetsmilitairen/BWBR0003015/README.md) (*Stb.* 1976, 19) en voor zover die ingevolge de vroegere militaire pensioenwetten in de zin van de Algemene militaire pensioenwet voor pensioen geldig zou zijn;  
+b. werkelijke dienst: de door de militair doorgebrachte, in de periode van 1 januari 1936 tot en met 31 december 1962 liggende werkelijke dienst in de zin van artikel A 1, eerste lid, onder *i* van de Algemene militaire pensioenwet, voor zover die feitelijk is doorgebracht of geacht moet worden onder de wapenen te zijn doorgebracht krachtens de Wet verbetering rechtspositie verzetsmilitairen (*Stb.* 1976, 19) en voor zover die ingevolge de vroegere militaire pensioenwetten in de zin van de Algemene militaire pensioenwet voor pensioen geldig zou zijn;  
 
 c. weduwe: degene die in het tijdvak van de werkelijke dienst met de militair was gehuwd.   
 
@@ -29,11 +29,11 @@ Indien de in artikel 2 genoemde aanspraak in verband met het overlijden van de m
 
 ###Artikel 4 
 
-De over de uitkering verschuldigde belasting ingevolge de [Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en de [Wet op de loonbelasting 1964](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) alsmede de premie voor de volksverzekeringen ingevolge de [Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) komen ten laste van het Rijk.
+De over de uitkering verschuldigde belasting ingevolge de Wet inkomstenbelasting 2001 en de Wet op de loonbelasting 1964 alsmede de premie voor de volksverzekeringen ingevolge de Wet financiering sociale verzekeringen komen ten laste van het Rijk.
 
 ### Artikel  5  
 
-De uitkering blijft buiten beschouwing bij de verlening van bijstand ingevolge de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en andere, op het inkomen van de rechthebbende afgestemde publiekrechtelijke uitkeringen of verstrekkingen. 
+De uitkering blijft buiten beschouwing bij de verlening van bijstand ingevolge de Participatiewet en andere, op het inkomen van de rechthebbende afgestemde publiekrechtelijke uitkeringen of verstrekkingen. 
 
 ### Artikel  6  
 

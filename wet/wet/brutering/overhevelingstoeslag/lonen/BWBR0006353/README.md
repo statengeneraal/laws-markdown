@@ -23,7 +23,7 @@ c. vervaljaar: het krachtens artikel 9 vastgestelde jaar met ingang waarvan de v
 
 1.  De voor de berekening van de overhevelingstoeslag voor het jaar 1995 geldende premiepercentages worden in afwijking van artikel 2 van de Wet aanpassing uitkeringsregelingen overheveling opslagpremies afgeleid van en tegelijkertijd vastgesteld met de voor het jaar 1994 geldende premiepercentages.   
 2.   Het voor de berekening van de overhevelingstoeslag geldende percentage wordt, in afwijking van artikel 1, tweede lid, van de Wet overhevelingstoeslag opslagpremies en van artikel 2 van de Wet aanpassing uitkeringsregelingen overheveling opslagpremies, voor de jaren 1996 en volgend vastgesteld bij algemene maatregel van bestuur, overeenkomstig de navolgende leden. Daarbij kan dit percentage voor verschillende categorieën inhoudingsplichtigen of personen verschillend worden vastgesteld.   
-3.   Uitgaande van de voorafgaande vaststelling van het percentage van de overhevelingstoeslag, worden in dat percentage wijzigingen aangebracht overeenkomstig de lastenontwikkeling uit hoofde van de algemene verzekering bijzondere ziektekosten en de algemene arbeidsongeschiktheidsverzekering in het jaar 1995 en de daaropvolgende jaren.   
+3.   Uitgaande van de voorafgaande vaststelling van het percentage van de overhevelingstoeslag, worden in dat percentage wijzigingen aangebracht overeenkomstig de lastenontwikkeling uit hoofde van de verzekering langdurige zorg en de algemene arbeidsongeschiktheidsverzekering in het jaar 1995 en de daaropvolgende jaren.   
 4.   Voorts kunnen in dat percentage wijzigingen worden aangebracht:  
 
 a. teneinde te voorkomen dat andere wettelijke maatregelen leiden tot een verschuiving van financiële lasten tussen werkgevers en werknemers;  
@@ -41,7 +41,7 @@ c. ter beperking van de financiële lasten voor werkgevers, te financieren uit d
 3.   Bij de berekening van het bedrag van de verhoging worden bestanddelen van het loon, waarvan de hoogte afhankelijk is gesteld van het per betalingstermijn uit te betalen loon, buiten beschouwing gelaten.   
 4.   Het recht, bedoeld in het eerste lid, geldt niet met betrekking tot loon in de vorm van uitkeringen en verstrekkingen:  
 
-a. uit hoofde van de Algemene Ouderdomswet, de Algemene nabestaandenwet, de Algemene Arbeidsongeschiktheidswet, de Ziektewet, de Wet arbeid en zorg, de Wet op de arbeidsongeschiktheidsverzekering, de Werkloosheidswet, de Toeslagenwet, de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;  
+a. uit hoofde van de Algemene Ouderdomswet, de Algemene nabestaandenwet, de Algemene Arbeidsongeschiktheidswet, de Ziektewet, de Wet arbeid en zorg, de Wet op de arbeidsongeschiktheidsverzekering, de Werkloosheidswet, de Toeslagenwet, de Participatiewet, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;  
 
 b. uit hoofde van de krachtens artikel 1, eerste lid, tweede volzin, onderdeel *b*, van de Wet overhevelingstoeslag opslagpremies aangewezen regelingen;  
 

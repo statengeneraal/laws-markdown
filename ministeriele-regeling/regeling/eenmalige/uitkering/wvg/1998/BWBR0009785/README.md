@@ -5,12 +5,12 @@
 De Minister van Sociale Zaken en Werkgelegenheid,  
 Handelende na overleg met de Staatssecretaris van Binnenlandse Zaken, mw. A.G.M. van de Vondervoort, en de Staatssecretaris van Financiën;
 
-Gelet op de [artikelen 3, eerste lid](../../../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md), en [9 van de Kaderwet SZW-subsidies](../../../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md);
+Gelet op de artikelen 3, eerste lid, en 9 van de Kaderwet SZW-subsidies;
 Besluit:    
 
 ### Artikel 1  
 
-In deze regeling wordt verstaan onder:   a.  Wvg:   de [Wet voorzieningen gehandicapten](../../../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md);    b.  minister:   de Minister van Sociale Zaken en Werkgelegenheid.    
+In deze regeling wordt verstaan onder:   a.  Wvg:   de Wet voorzieningen gehandicapten;    b.  minister:   de Minister van Sociale Zaken en Werkgelegenheid.    
 
 ### Artikel 2  
 
@@ -38,7 +38,7 @@ A.P.W. Melkert
 
 ####behorende bij artikel 2, tweede lid 
 
-####Eenmalige uitkering [Wvg](../../../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md) gemeenten in 1998
+####Eenmalige uitkering Wvg gemeenten in 1998
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|

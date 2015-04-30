@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 On de voordracht van Onze Minister van Buitenlandse Zaken van 23 mei 1969, DBD-88804;
 
-Gelet op de [artikelen 58](../../../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) en [72 der Grondwet](../../../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md);
+Gelet op de artikelen 58 en 72 der Grondwet;
 
 De Raad van State gehoord (advies van 18 juni 1969, nr. 30);
 

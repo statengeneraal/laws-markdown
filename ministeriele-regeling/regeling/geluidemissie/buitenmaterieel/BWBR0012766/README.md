@@ -3,7 +3,7 @@
 ##Regeling geluidemissie buitenmaterieel
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, handelende in overeenstemming met de Minister van Economische Zaken;  
-Gelet op richtlijn 2000/14/EG van het Europees Parlement en de Raad van de Europese Unie van 8 mei 2000 betreffende de geluidsemissie in het milieu door materieel voor gebruik buitenshuis (PbEG L 162) en op [artikel 2, eerste lid, tweede lid, onder d, en derde lid, van de Wet geluidhinder](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) en [artikel 15.31, onder b, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op richtlijn 2000/14/EG van het Europees Parlement en de Raad van de Europese Unie van 8 mei 2000 betreffende de geluidsemissie in het milieu door materieel voor gebruik buitenshuis (PbEG L 162) en op artikel 2, eerste lid, tweede lid, onder d, en derde lid, van de Wet geluidhinder en artikel 15.31, onder b, van de Wet milieubeheer;
 Besluit:     
 
 ### Artikel 1  

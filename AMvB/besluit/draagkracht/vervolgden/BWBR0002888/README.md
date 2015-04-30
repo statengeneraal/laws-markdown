@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Cultuur, Recreatie en Maatschappelijk Werk van 19 april 1973, Directie Bijstandszaken, nr. 964-Bu;
 
-Gelet op [artikel 21, vierde lid, van de Wet uitkeringen vervolgingsslachtoffers 1940-1945](../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) (*Stb.* 1972, 669);
+Gelet op artikel 21, vierde lid, van de Wet uitkeringen vervolgingsslachtoffers 1940-1945 (*Stb.* 1972, 669);
 
 Gezien de adviezen van de Uitkeringsraad, alsmede van de Stichting Joods Maatschappelijk Werk, de Stichting Pelita en de Stichting 1940-1945;
 
@@ -17,31 +17,31 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder de wet: de [Wet uitkeringen vervolgingsslachtoffers 1940-1945](../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md). 
+In dit besluit wordt verstaan onder de wet: de Wet uitkeringen vervolgingsslachtoffers 1940-1945. 
 
 ### Artikel  2  
 
-1.  Bij het bepalen van de financiële draagkracht van de vervolgde ter zake van de toekenning van een tegemoetkoming in kosten van voorzieningen als bedoeld in [artikel 21, eerste lid, van de wet](../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) wordt als zijn inkomen aangemerkt: 
+1.  Bij het bepalen van de financiële draagkracht van de vervolgde ter zake van de toekenning van een tegemoetkoming in kosten van voorzieningen als bedoeld in artikel 21, eerste lid, van de wet wordt als zijn inkomen aangemerkt: 
 
-a. de uitkering berekend op grond van [hoofdstuk II, paragraaf 3, van de wet](../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) met uitzondering van de toeslagen, bedoeld in de [artikelen 10, derde lid](../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), [15](../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) en [16](../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md);  
+a. de uitkering berekend op grond van hoofdstuk II, paragraaf 3, van de wet met uitzondering van de toeslagen, bedoeld in de artikelen 10, derde lid, 15 en 16;  
 
-b. de inkomensbestanddelen welke op grond van [artikel 19 van de wet](../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) op de uitkering in mindering worden gebracht indien een uitkering wordt genoten, dan wel in mindering zouden worden gebracht indien een uitkering zou worden genoten met dien verstande dat:
+b. de inkomensbestanddelen welke op grond van artikel 19 van de wet op de uitkering in mindering worden gebracht indien een uitkering wordt genoten, dan wel in mindering zouden worden gebracht indien een uitkering zou worden genoten met dien verstande dat:
 
-1. in afwijking van [artikel 19, eerste lid, onder a, van de wet](../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) voor de vaststelling van de bruto-inkomsten uit tegenwoordige arbeid in beroep of bedrijf, na aftrek van verwervingskosten, geen rekening wordt gehouden met een vrijlating van 20% van de uitkeringsgrondslag;  
+1. in afwijking van artikel 19, eerste lid, onder a, van de wet voor de vaststelling van de bruto-inkomsten uit tegenwoordige arbeid in beroep of bedrijf, na aftrek van verwervingskosten, geen rekening wordt gehouden met een vrijlating van 20% van de uitkeringsgrondslag;  
 
-2. in afwijking van [artikel 19, eerste lid, onder b, van de wet](../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) voor de vaststelling van de inkomsten uit ouderdomspensioen op grond van de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) van een gehuwde gerechtigde rekening wordt gehouden met 50% van het aan de gerechtigde en de echtgenoot toegekende ouderdomspensioen krachtens deze wet;  
+2. in afwijking van artikel 19, eerste lid, onder b, van de wet voor de vaststelling van de inkomsten uit ouderdomspensioen op grond van de Algemene Ouderdomswet van een gehuwde gerechtigde rekening wordt gehouden met 50% van het aan de gerechtigde en de echtgenoot toegekende ouderdomspensioen krachtens deze wet;  
 
-3. geen rekening wordt gehouden met inkomsten uit vermogen als bedoeld in [artikel 19, eerste lid, onder c, van de wet](../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md).     
-2.  Bij de vaststelling van het inkomen volgens het eerste lid, wordt uitgegaan van het inkomen zoals dit bij de vaststelling van de uitkering, bedoeld in [artikel 59a van de wet](../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), is of zou worden berekend over de maand met ingang waarvan de tegemoetkoming wordt toegekend.   
-3.  Wanneer toepassing is gegeven aan de [artikelen 14](../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) of [20, derde lid, van de wet](../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) wordt als inkomen aangemerkt het percentage van de grondslag, genoemd in [artikel 14, eerste lid, onder a, b of c, van de wet](../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md).  
+3. geen rekening wordt gehouden met inkomsten uit vermogen als bedoeld in artikel 19, eerste lid, onder c, van de wet.     
+2.  Bij de vaststelling van het inkomen volgens het eerste lid, wordt uitgegaan van het inkomen zoals dit bij de vaststelling van de uitkering, bedoeld in artikel 59a van de wet, is of zou worden berekend over de maand met ingang waarvan de tegemoetkoming wordt toegekend.   
+3.  Wanneer toepassing is gegeven aan de artikelen 14 of 20, derde lid, van de wet wordt als inkomen aangemerkt het percentage van de grondslag, genoemd in artikel 14, eerste lid, onder a, b of c, van de wet.  
 
 ### Artikel  3  
 
 De financiële draagkracht wordt eenmalig berekend en bepaald op:  
 
-a. 10 procent van dat deel van het ingevolge artikel 2 vastgestelde inkomen dat de grondslag, genoemd in [artikel 8, zevende lid, onder *b,* van de wet](../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) niet overschrijdt, met dien verstande dat van dat deel 80 procent van de grondslag, genoemd in [artikel 8, zevende lid, onder *a,* van de wet](../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) wordt vrijgelaten;  
+a. 10 procent van dat deel van het ingevolge artikel 2 vastgestelde inkomen dat de grondslag, genoemd in artikel 8, zevende lid, onder *b,* van de wet niet overschrijdt, met dien verstande dat van dat deel 80 procent van de grondslag, genoemd in artikel 8, zevende lid, onder *a,* van de wet wordt vrijgelaten;  
 
-b. 50 procent van het ingevolge artikel 2 vastgestelde inkomen dat de grondslag, genoemd in [artikel 8, zevende lid, onder *b,* van de wet](../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) overschrijdt.   
+b. 50 procent van het ingevolge artikel 2 vastgestelde inkomen dat de grondslag, genoemd in artikel 8, zevende lid, onder *b,* van de wet overschrijdt.   
 
 ### Artikel  3a  
 
@@ -49,8 +49,8 @@ b. 50 procent van het ingevolge artikel 2 vastgestelde inkomen dat de grondslag,
 
 a. op schriftelijk verzoek van de gerechtigde, indien de bepaalde draagkracht meer dan 30% in zijn nadeel afwijkt van de volgens artikel 3 bepaalde draagkracht, of  
 
-b. bij het door de gerechtigde bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md).    
-2.  Indien toepassing is gegeven aan het eerste lid, onder a, vindt de herziening plaats met ingang van de maand waarin het verzoek is gedaan. Indien toepassing is gegeven aan het eerste lid, onder b, vindt de herziening plaats met ingang van de dag waarop de gerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), bereikt.  
+b. bij het door de gerechtigde bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet.    
+2.  Indien toepassing is gegeven aan het eerste lid, onder a, vindt de herziening plaats met ingang van de maand waarin het verzoek is gedaan. Indien toepassing is gegeven aan het eerste lid, onder b, vindt de herziening plaats met ingang van de dag waarop de gerechtigde de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, bereikt.  
 
 ### Artikel  4  
 

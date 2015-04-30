@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Defensie van 22 oktober 2007, nr. P/2007036737;
 
-Gelet op [artikel 125, eerste lid, van de Ambtenarenwet](../../../../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) alsmede op de [artikelen 12](../../../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md), [12quinquies](../../../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) en [12k van de Militaire Ambtenarenwet 1931](../../../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md);
+Gelet op artikel 125, eerste lid, van de Ambtenarenwet alsmede op de artikelen 12, 12quinquies en 12k van de Militaire Ambtenarenwet 1931;
 
 De Raad van State gehoord (advies van 22 november 2007, nr. W07.07.0387/II);
 
@@ -26,21 +26,21 @@ b. de militair aangesteld bij het reservepersoneel die in het jaar 2007 met aans
 
 c. de ambtenaar aangesteld in burgerlijke openbare dienst die op 1 december 2007 in dienst was van het Ministerie van Defensie;  
 
-d. de gewezen militair met een lagere rang dan vice-admiraal of luitenant-generaal en de gewezen ambtenaar, die op 1 december 2007 in het genot waren van wachtgeld ingevolge [artikel 18, zesde lid, van het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie](../../../../../../../../../../../AMvB/besluit/bovenwettelijke/uitkeringen/bij/werkloosheid/voor/de/sector/etc/BWBR0010510/README.md);  
+d. de gewezen militair met een lagere rang dan vice-admiraal of luitenant-generaal en de gewezen ambtenaar, die op 1 december 2007 in het genot waren van wachtgeld ingevolge artikel 18, zesde lid, van het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie;  
 
-e. de gewezen militair die op 1 december 2007 een uitkering genoot op grond van de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) alsmede de gewezen ambtenaar die op 1 december 2007 een uitkering genoot op grond van het [Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie](../../../../../../../../../../../AMvB/besluit/uitkering/wegens/functioneel/leeftijdsontslag/burgerlijke/etc/BWBR0006041/README.md).     
+e. de gewezen militair die op 1 december 2007 een uitkering genoot op grond van de Uitkeringswet gewezen militairen alsmede de gewezen ambtenaar die op 1 december 2007 een uitkering genoot op grond van het Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie.     
 2.  De berekeningsbasis, bedoeld in het eerste lid, bedraagt: 
 
-a. voor de betrokkenen bedoeld in het eerste lid, onder a, de over de maand december van het jaar 2007 genoten bezoldiging volgens hetgeen daaronder wordt verstaan in het [Inkomstenbesluit militairen](../../../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md);  
+a. voor de betrokkenen bedoeld in het eerste lid, onder a, de over de maand december van het jaar 2007 genoten bezoldiging volgens hetgeen daaronder wordt verstaan in het Inkomstenbesluit militairen;  
 
-b. voor de betrokkenen bedoeld in het eerste lid, onder b, één-twaalfde gedeelte van de in het jaar 2007 genoten bezoldiging volgens hetgeen daaronder wordt verstaan in het [Inkomstenbesluit militairen](../../../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md);  
+b. voor de betrokkenen bedoeld in het eerste lid, onder b, één-twaalfde gedeelte van de in het jaar 2007 genoten bezoldiging volgens hetgeen daaronder wordt verstaan in het Inkomstenbesluit militairen;  
 
-c. voor de betrokkenen bedoeld in het eerste lid, onder c, het over de maand december van het jaar 2007 genoten salaris volgens hetgeen daaronder wordt verstaan in het [Inkomstenbesluit burgerlijke ambtenaren defensie](../../../../../../../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md);  
+c. voor de betrokkenen bedoeld in het eerste lid, onder c, het over de maand december van het jaar 2007 genoten salaris volgens hetgeen daaronder wordt verstaan in het Inkomstenbesluit burgerlijke ambtenaren defensie;  
 
-d. voor de betrokkenen bedoeld in het eerste lid, onder d, het over de maand december 2007 genoten wachtgeld, na toepassing van de krachtens [het genoemde artikel 18, zesde lid](../../../../../../../../../../../AMvB/besluit/bovenwettelijke/uitkeringen/bij/werkloosheid/voor/de/sector/etc/BWBR0010510/README.md), geldende vermindering wegens inkomsten uit of in verband met arbeid of bedrijf;  
+d. voor de betrokkenen bedoeld in het eerste lid, onder d, het over de maand december 2007 genoten wachtgeld, na toepassing van de krachtens het genoemde artikel 18, zesde lid, geldende vermindering wegens inkomsten uit of in verband met arbeid of bedrijf;  
 
-e. voor de betrokkenen bedoeld in het eerste lid, onder e, de over de maand december 2007 genoten uitkering, na toepassing van de krachtens de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md), respectievelijk het [Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie](../../../../../../../../../../../AMvB/besluit/uitkering/wegens/functioneel/leeftijdsontslag/burgerlijke/etc/BWBR0006041/README.md), geldende vermindering wegens inkomsten uit of in verband met arbeid of bedrijf.     
-3.  De eenmalige uitkering 2007 heeft geen algemeen karakter en wordt niet gerekend tot de bezoldiging in de zin van het [Inkomstenbesluit militairen](../../../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) noch maakt zij deel uit van de pensioengrondslag of het inkomen in de zin van de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) dan wel de [Kaderwet militaire pensioenen](../../../../../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md).   
+e. voor de betrokkenen bedoeld in het eerste lid, onder e, de over de maand december 2007 genoten uitkering, na toepassing van de krachtens de Uitkeringswet gewezen militairen, respectievelijk het Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie, geldende vermindering wegens inkomsten uit of in verband met arbeid of bedrijf.     
+3.  De eenmalige uitkering 2007 heeft geen algemeen karakter en wordt niet gerekend tot de bezoldiging in de zin van het Inkomstenbesluit militairen noch maakt zij deel uit van de pensioengrondslag of het inkomen in de zin van de Uitkeringswet gewezen militairen dan wel de Kaderwet militaire pensioenen.   
 4.  De eenmalige uitkering 2007 maakt voor de ambtenaar aangesteld in burgerlijke openbare dienst, alsmede voor de gewezen ambtenaar, die aanspraak heeft op deze uitkering, deel uit van de pensioengrondslag.  
 
 ### Hoofdstuk  2  
@@ -57,21 +57,21 @@ b. de militair aangesteld bij het reservepersoneel die in het jaar 2008 met aans
 
 c. de ambtenaar aangesteld in burgerlijke openbare dienst die op 1 december 2008 in dienst is van het Ministerie van Defensie;  
 
-d. de gewezen militair met een lagere rang dan vice-admiraal of luitenant-generaal en de gewezen ambtenaar, die op 1 december 2008 in het genot zijn van wachtgeld ingevolge [artikel 18, zesde lid, van het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie](../../../../../../../../../../../AMvB/besluit/bovenwettelijke/uitkeringen/bij/werkloosheid/voor/de/sector/etc/BWBR0010510/README.md);  
+d. de gewezen militair met een lagere rang dan vice-admiraal of luitenant-generaal en de gewezen ambtenaar, die op 1 december 2008 in het genot zijn van wachtgeld ingevolge artikel 18, zesde lid, van het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie;  
 
-e. de gewezen militair die op 1 december 2008 een uitkering geniet op grond van de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) alsmede de gewezen ambtenaar die op 1 december 2008 een uitkering geniet op grond van het [Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie](../../../../../../../../../../../AMvB/besluit/uitkering/wegens/functioneel/leeftijdsontslag/burgerlijke/etc/BWBR0006041/README.md);     
+e. de gewezen militair die op 1 december 2008 een uitkering geniet op grond van de Uitkeringswet gewezen militairen alsmede de gewezen ambtenaar die op 1 december 2008 een uitkering geniet op grond van het Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie;     
 2.  De berekeningsbasis, bedoeld in het eerste lid, bedraagt: 
 
-a. voor de betrokkenen bedoeld in het eerste lid, onder a, de over de maand december van het jaar 2008 genoten bezoldiging volgens hetgeen daaronder wordt verstaan in het [Inkomstenbesluit militairen](../../../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md);  
+a. voor de betrokkenen bedoeld in het eerste lid, onder a, de over de maand december van het jaar 2008 genoten bezoldiging volgens hetgeen daaronder wordt verstaan in het Inkomstenbesluit militairen;  
 
-b. voor de betrokkenen bedoeld in het eerste lid, onder b, één-twaalfde gedeelte van de in het jaar 2008 genoten bezoldiging volgens hetgeen daaronder wordt verstaan in het [Inkomstenbesluit militairen](../../../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md);  
+b. voor de betrokkenen bedoeld in het eerste lid, onder b, één-twaalfde gedeelte van de in het jaar 2008 genoten bezoldiging volgens hetgeen daaronder wordt verstaan in het Inkomstenbesluit militairen;  
 
-c. voor de betrokkenen bedoeld in het eerste lid, onder c, het over de maand december van het jaar 2008 genoten salaris volgens hetgeen daaronder wordt verstaan in het [Inkomstenbesluit burgerlijke ambtenaren defensie](../../../../../../../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md);  
+c. voor de betrokkenen bedoeld in het eerste lid, onder c, het over de maand december van het jaar 2008 genoten salaris volgens hetgeen daaronder wordt verstaan in het Inkomstenbesluit burgerlijke ambtenaren defensie;  
 
-d. voor de betrokkenen bedoeld in het eerste lid, onder d, het over de maand december 2008 genoten wachtgeld, na toepassing van de krachtens [het genoemde artikel 18, zesde lid](../../../../../../../../../../../AMvB/besluit/bovenwettelijke/uitkeringen/bij/werkloosheid/voor/de/sector/etc/BWBR0010510/README.md), geldende vermindering wegens inkomsten uit of in verband met arbeid of bedrijf;  
+d. voor de betrokkenen bedoeld in het eerste lid, onder d, het over de maand december 2008 genoten wachtgeld, na toepassing van de krachtens het genoemde artikel 18, zesde lid, geldende vermindering wegens inkomsten uit of in verband met arbeid of bedrijf;  
 
-e. voor de betrokkenen bedoeld in het eerste lid, onder e, de over de maand december 2008 genoten uitkering, na toepassing van de krachtens de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md), respectievelijk het [Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie](../../../../../../../../../../../AMvB/besluit/uitkering/wegens/functioneel/leeftijdsontslag/burgerlijke/etc/BWBR0006041/README.md), geldende vermindering wegens inkomsten uit of in verband met arbeid of bedrijf.     
-3.  De eenmalige uitkering 2008 heeft geen algemeen karakter en wordt niet gerekend tot de bezoldiging in de zin van het [Inkomstenbesluit militairen](../../../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) noch maakt zij deel uit van de pensioengrondslag of het inkomen in de zin van de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) dan wel de [Kaderwet militaire pensioenen](../../../../../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md).   
+e. voor de betrokkenen bedoeld in het eerste lid, onder e, de over de maand december 2008 genoten uitkering, na toepassing van de krachtens de Uitkeringswet gewezen militairen, respectievelijk het Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie, geldende vermindering wegens inkomsten uit of in verband met arbeid of bedrijf.     
+3.  De eenmalige uitkering 2008 heeft geen algemeen karakter en wordt niet gerekend tot de bezoldiging in de zin van het Inkomstenbesluit militairen noch maakt zij deel uit van de pensioengrondslag of het inkomen in de zin van de Uitkeringswet gewezen militairen dan wel de Kaderwet militaire pensioenen.   
 4.  De eenmalige uitkering 2008 maakt voor de ambtenaar aangesteld in burgerlijke openbare dienst, alsmede voor de gewezen ambtenaar, die aanspraak heeft op deze uitkering, deel uit van de pensioengrondslag.  
 
 ### Hoofdstuk  3  
@@ -80,11 +80,11 @@ e. voor de betrokkenen bedoeld in het eerste lid, onder e, de over de maand dece
 
 ### Artikel  3  
 
-1.  De gewezen militair, alsmede de gewezen ambtenaar die was aangesteld in burgerlijke openbare dienst om bij de krijgsmacht als geestelijk verzorger doorlopend werkzaam te zijn, die op 31 december 2005 aanspraak had op een uitkering op grond van de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) en voor zijn ziektekosten was verzekerd bij de Stichting Ziektekostenverzekering Krijgsmacht, heeft voor zolang hij aanspraak heeft op de uitkering krachtens de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) vanaf 2008 aanspraak op een jaarlijkse nominale bruto uitkering ter grootte van € 300.   
-2.  De gewezen militair die op 31 december 2005 aanspraak had op een wachtgelduitkering in afwachting van aanspraak op een uitkering op grond van de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) en voor zijn ziektekosten was verzekerd bij de Stichting Ziektekostenverzekering Krijgsmacht heeft voor zolang hij aanspraak heeft op een wachtgelduitkering in afwachting van aanspraak op een uitkering op grond van de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) vanaf 2006 aanspraak op een jaarlijkse nominale bruto uitkering ter grootte van € 300.   
-3.  De gewezen militair bedoeld in het tweede lid heeft aanspraak op de in het eerste lid bedoelde jaarlijkse nominale uitkering gedurende de periode dat hij aanspraak heeft op een uitkering op grond van de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md). De gewezen militair heeft in enig jaar hetzij aanspraak op de in het eerste lid bedoelde jaarlijkse nominale uitkering hetzij op de in het tweede lid bedoelde jaarlijkse nominale uitkering.   
+1.  De gewezen militair, alsmede de gewezen ambtenaar die was aangesteld in burgerlijke openbare dienst om bij de krijgsmacht als geestelijk verzorger doorlopend werkzaam te zijn, die op 31 december 2005 aanspraak had op een uitkering op grond van de Uitkeringswet gewezen militairen en voor zijn ziektekosten was verzekerd bij de Stichting Ziektekostenverzekering Krijgsmacht, heeft voor zolang hij aanspraak heeft op de uitkering krachtens de Uitkeringswet gewezen militairen vanaf 2008 aanspraak op een jaarlijkse nominale bruto uitkering ter grootte van € 300.   
+2.  De gewezen militair die op 31 december 2005 aanspraak had op een wachtgelduitkering in afwachting van aanspraak op een uitkering op grond van de Uitkeringswet gewezen militairen en voor zijn ziektekosten was verzekerd bij de Stichting Ziektekostenverzekering Krijgsmacht heeft voor zolang hij aanspraak heeft op een wachtgelduitkering in afwachting van aanspraak op een uitkering op grond van de Uitkeringswet gewezen militairen vanaf 2006 aanspraak op een jaarlijkse nominale bruto uitkering ter grootte van € 300.   
+3.  De gewezen militair bedoeld in het tweede lid heeft aanspraak op de in het eerste lid bedoelde jaarlijkse nominale uitkering gedurende de periode dat hij aanspraak heeft op een uitkering op grond van de Uitkeringswet gewezen militairen. De gewezen militair heeft in enig jaar hetzij aanspraak op de in het eerste lid bedoelde jaarlijkse nominale uitkering hetzij op de in het tweede lid bedoelde jaarlijkse nominale uitkering.   
 4.  De militair die op 31 december 2005 één of meer gezinsleden had als bedoeld in artikel 4, eerste lid, onder c en e, van de Regeling ziektekostenverzekering militairen zoals die regeling luidde op 31 december 2005, welke gezinsleden op die datum voor ziektekosten waren verzekerd bij de Stichting Ziektekostenverzekering Krijgsmacht, heeft per desbetreffend gezinslid aanspraak op een jaarlijkse nominale bruto uitkering ter grootte van € 300. De aanspraak op deze uitkering vervalt op het moment dat het gezinslid niet meer voldoet aan de op 31 december 2005 geldende voorwaarden voor het voor ziektekosten verzekerd zijn bij de Stichting Ziektekostenverzekering Krijgsmacht. De aanspraak op de uitkering wordt per gezinslid vastgesteld aan de hand van de situatie per 1 januari van enig jaar.   
-5.  De in dit artikel bedoelde uitkeringen hebben geen algemeen karakter en maken geen deel uit van de pensioengrondslag of het inkomen in de zin van de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) dan wel de [Kaderwet militaire pensioenen](../../../../../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md).   
+5.  De in dit artikel bedoelde uitkeringen hebben geen algemeen karakter en maken geen deel uit van de pensioengrondslag of het inkomen in de zin van de Uitkeringswet gewezen militairen dan wel de Kaderwet militaire pensioenen.   
 6.  De in dit artikel genoemde uitkeringen worden uitbetaald in de maand december van enig jaar.  
 
 ### Hoofdstuk  4  
@@ -193,8 +193,8 @@ Wijzigt het Inkomstenbesluit militairen.
 
 ### Artikel  23  
 
-1.  Voor de toepassing van dit artikel verstaan onder gewezen ambtenaar: degene die bij het Ministerie van Defensie in burgerlijke openbare dienst was aangesteld en op die op 28 februari 2007 in het genot was van een uitkering op grond van het Wachtgeldbesluit burgerlijke ambtenaren defensie of het [Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie](../../../../../../../../../../../AMvB/besluit/uitkering/wegens/functioneel/leeftijdsontslag/burgerlijke/etc/BWBR0006041/README.md).   
-2.  Ten aanzien van de gewezen ambtenaar wordt bij het bepalen van de bezoldiging als bedoeld in het [Inkomstenbesluit burgerlijke ambtenaren defensie](../../../../../../../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md) uitgegaan van het salaris zoals dat gold op 28 februari 2007 vermeerderd met:  
+1.  Voor de toepassing van dit artikel verstaan onder gewezen ambtenaar: degene die bij het Ministerie van Defensie in burgerlijke openbare dienst was aangesteld en op die op 28 februari 2007 in het genot was van een uitkering op grond van het Wachtgeldbesluit burgerlijke ambtenaren defensie of het Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie.   
+2.  Ten aanzien van de gewezen ambtenaar wordt bij het bepalen van de bezoldiging als bedoeld in het Inkomstenbesluit burgerlijke ambtenaren defensie uitgegaan van het salaris zoals dat gold op 28 februari 2007 vermeerderd met:  
 
 a. 2,05% per 1 maart 2007  
 
@@ -212,9 +212,9 @@ c. toekomstige aanpassingen van het salaris.
 
 Ingetrokken worden: 
 
-a.de [Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht](../../../../../../../../../../../AMvB/premieregeling/en/aanvullende/voorzieningen/beroepsmilitairen/van/de/etc/BWBR0003538/README.md).
+a.de Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht.
 
-b.het [koninklijk besluit van 17 januari 1967 houdende bepalingen betreffende het ontslag van de geestelijke verzorgers in de krijgsmacht](../../../../../../../../../../../AMvB/besluit/bepalingen/ontslag/geestelijke/verzorgers/krijgsmacht/BWBR0002550/README.md).
+b.het koninklijk besluit van 17 januari 1967 houdende bepalingen betreffende het ontslag van de geestelijke verzorgers in de krijgsmacht.
 
 ### Artikel  25  
 

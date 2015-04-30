@@ -3,7 +3,7 @@
 ##Regeling uitvoering antecedentenonderzoek door de politie
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op [artikel 8c van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en [artikel 4c van het Besluit rechtspositie vrijwillige politie](../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md);
+Gelet op artikel 8c van het Besluit algemene rechtspositie politie en artikel 4c van het Besluit rechtspositie vrijwillige politie;
 Besluit:      
 ### Paragraaf 1  
 
@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: a. bevoegd gezag:   het bevoegd gezag, bedoeld in [artikel 1, eerste lid, onderdeel k, van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en [artikel 1, eerste lid onderdeel e, van het Besluit rechtspositie vrijwillige politie](../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md);  b. onderzoek:   het onderzoek naar de betrouwbaarheid en geschiktheid, bedoeld in de [artikelen 8a](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en [8b van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en de [artikelen 4a](../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md) en [4b van het Besluit rechtspositie vrijwillige politie](../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md), voor zover ten behoeve van dat onderzoek wordt gevraagd om verstrekking van justitiële gegevens als bedoeld in [artikel 23 van het Besluit justitiële gegevens](../../../../../AMvB/besluit/justitiële/gegevens/BWBR0016544/README.md) en om verstrekking van gegevens als bedoeld in [artikel 14 van het Besluit politieregisters](../../../../../AMvB/besluit/politieregisters/BWBR0004996/README.md);  c. betrokkene:   degene ten aanzien van wie een onderzoek wordt uitgevoerd.    
+In deze regeling wordt verstaan onder: a. bevoegd gezag:   het bevoegd gezag, bedoeld in artikel 1, eerste lid, onderdeel k, van het Besluit algemene rechtspositie politie en artikel 1, eerste lid onderdeel e, van het Besluit rechtspositie vrijwillige politie;  b. onderzoek:   het onderzoek naar de betrouwbaarheid en geschiktheid, bedoeld in de artikelen 8a en 8b van het Besluit algemene rechtspositie politie en de artikelen 4a en 4b van het Besluit rechtspositie vrijwillige politie, voor zover ten behoeve van dat onderzoek wordt gevraagd om verstrekking van justitiële gegevens als bedoeld in artikel 23 van het Besluit justitiële gegevens en om verstrekking van gegevens als bedoeld in artikel 14 van het Besluit politieregisters;  c. betrokkene:   degene ten aanzien van wie een onderzoek wordt uitgevoerd.    
 
 ### Paragraaf 2  
 
@@ -25,13 +25,13 @@ In deze regeling wordt verstaan onder: a. bevoegd gezag:   het bevoegd gezag, be
 ### Artikel  3  
 
 1.  De betrokkene wordt vooraf geïnformeerd over de aard en de duur van het onderzoek.   
-2.  Het bepaalde in het eerste lid is niet van toepassing in het geval het onderzoek plaatsvindt op basis van [artikel 8b, eerste lid, onder d, van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) of [artikel 4b, eerste lid, onder d, van het Besluit rechtspositie vrijwillige politie](../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md).   
+2.  Het bepaalde in het eerste lid is niet van toepassing in het geval het onderzoek plaatsvindt op basis van artikel 8b, eerste lid, onder d, van het Besluit algemene rechtspositie politie of artikel 4b, eerste lid, onder d, van het Besluit rechtspositie vrijwillige politie.   
 
 ### Artikel  4  
 
 Het onderzoek omvat het inwinnen van gegevens over betrokkene uit: 
 
-a. de justitiële documentatie, bedoeld in [artikel 2 van de Wet justitiële gegevens](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), en  
+a. de justitiële documentatie, bedoeld in artikel 2 van de Wet justitiële gegevens, en  
 
 b. de politieregisters.   
 
@@ -54,7 +54,7 @@ b. de politieregisters.
 
 ### Artikel  7  
 
-1.  De gegevens van het onderzoek worden opgeslagen in een apart register waarvoor een reglement overeenkomstig de eisen van de [Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) wordt opgesteld.   
+1.  De gegevens van het onderzoek worden opgeslagen in een apart register waarvoor een reglement overeenkomstig de eisen van de Wet bescherming persoonsgegevens wordt opgesteld.   
 2.  In het reglement wordt in ieder geval bepaald: 
 
 a.  wie toegang heeft tot het register, 

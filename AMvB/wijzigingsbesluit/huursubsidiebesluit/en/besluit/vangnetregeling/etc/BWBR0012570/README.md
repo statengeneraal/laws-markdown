@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 1 maart 2001, nr. MJZ2001023255, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
 
-Gelet op de [artikelen 11, tweede lid](../../../../../../../../wet/huursubsidiewet/BWBR0008659/README.md), [26a, derde lid](../../../../../../../../wet/huursubsidiewet/BWBR0008659/README.md), [26b, vijfde lid](../../../../../../../../wet/huursubsidiewet/BWBR0008659/README.md), en [26f, zesde lid, van de Huursubsidiewet](../../../../../../../../wet/huursubsidiewet/BWBR0008659/README.md);
+Gelet op de artikelen 11, tweede lid, 26a, derde lid, 26b, vijfde lid, en 26f, zesde lid, van de Huursubsidiewet;
 
 De Raad van State gehoord (advies van 3 mei 2001, nr. W08.01.0123/V);
 
@@ -27,7 +27,7 @@ Wijzigt het Besluit vangnetregeling huursubsidie.
 
 ### Artikel  lV  
 
-Voorzover de aanvraag om toekenning van huursubsidie betrekking heeft op een subsidiejaar dat eindigt voor 1 juli 2002, wordt voor de toepassing van [artikel 3, derde lid, van het Besluit vangnetregeling huursubsidie](../../../../../../../../AMvB/besluit/vangnetregeling/huursubsidie/BWBR0009632/README.md) onder het in dat lid bedoelde tijdstip verstaan het tijdstip, bedoeld in artikel 33 van de Wet op de inkomstenbelasting 1964. 
+Voorzover de aanvraag om toekenning van huursubsidie betrekking heeft op een subsidiejaar dat eindigt voor 1 juli 2002, wordt voor de toepassing van artikel 3, derde lid, van het Besluit vangnetregeling huursubsidie onder het in dat lid bedoelde tijdstip verstaan het tijdstip, bedoeld in artikel 33 van de Wet op de inkomstenbelasting 1964. 
 
 ### Artikel  V  
 

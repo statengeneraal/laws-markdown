@@ -3,7 +3,7 @@
 ##Uitvoeringsregeling afdrachtvermindering
 
 De Staatssecretaris van Financiën,  
-Gelet op de [artikelen 5](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), [6](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), [12](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), 14, [16](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), [18](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), [20](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), [22](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), [23](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) en [32 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md);
+Gelet op de artikelen 5, 6, 12, 14, 16, 18, 20, 22, 23 en 32 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen;
 
 Voor zoveel nodig in overeenstemming of na overleg met de Minister van Sociale Zaken en Werkgelegenheid, de Minister van Onderwijs, Cultuur en Wetenschappen, de Minister van Verkeer en Waterstaat en de Minister van Economische Zaken,
 Besluit:     
@@ -13,12 +13,12 @@ Besluit:
 
 ### Artikel  1  
 
-1.   Deze regeling geeft uitvoering aan de [artikelen 18](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), [20](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) en [32 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md).   
-2. Deze regeling verstaat onder de wet: [de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md). 
+1.   Deze regeling geeft uitvoering aan de artikelen 18, 20 en 32 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.   
+2. Deze regeling verstaat onder de wet: de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen. 
 
 ###Artikel 1a 
 
-De inhoudingsplichtige rekent tot het loon voor de door hem betaalde aanvullingen op uitkeringen ingevolge de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md) het gezamenlijke bedrag van de uitkeringen en de aanvullingen. 
+De inhoudingsplichtige rekent tot het loon voor de door hem betaalde aanvullingen op uitkeringen ingevolge de Ziektewet het gezamenlijke bedrag van de uitkeringen en de aanvullingen. 
 
 ### Hoofdstuk  II  
 
@@ -76,9 +76,9 @@ b. de naam en de roepnaam van het zeeschip of de zeeschepen waarop de met betrek
 c. per zeevarende met betrekking tot wie de afdrachtvermindering zeevaart is toegepast: de periode of perioden waarin de zeevarende aan boord van een zeeschip aangemonsterd is geweest.     
 3.   De inhoudingsplichtige bewaart en registreert op chronologische volgorde: 
 
-a. de afschriften, bedoeld in [artikel 18, tweede lid, van de wet](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md);  
+a. de afschriften, bedoeld in artikel 18, tweede lid, van de wet;  
 
-b. per zeevarende met betrekking tot wie de afdrachtvermindering zeevaart is toegepast: de wijzigingen op de monsterrollen, bedoeld in [artikel 33 van de Zeevaartbemanningwet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md).    
+b. per zeevarende met betrekking tot wie de afdrachtvermindering zeevaart is toegepast: de wijzigingen op de monsterrollen, bedoeld in artikel 33 van de Zeevaartbemanningwet.    
 
 ###Artikel 20 
 

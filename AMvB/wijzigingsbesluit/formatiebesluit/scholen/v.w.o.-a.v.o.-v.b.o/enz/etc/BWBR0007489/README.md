@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, T. Netelenbos, van 20 april 1995, nr. 95009693/3663, directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij;
 
-Gelet op de [artikelen 39](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), tweede lid, [77](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), vierde lid, [84](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), eerste lid, [85](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), eerste lid, [96*r* ](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [98*a* ](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [102*b* ](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), achtste lid, en [106, eerste en derde lid, van de Wet op het voortgezet onderwijs](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en de [artikelen 5 en 6 van de Les- en cursusgeldwet](../../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md);
+Gelet op de artikelen 39, tweede lid, 77, vierde lid, 84, eerste lid, 85, eerste lid, 96*r* , 98*a* , 102*b* , achtste lid, en 106, eerste en derde lid, van de Wet op het voortgezet onderwijs, en de artikelen 5 en 6 van de Les- en cursusgeldwet;
 
 Gezien het advies van de Onderwijsraad (advies van 16 februari 1995, nr. OR 94000674/S);
 
@@ -17,13 +17,13 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-#### [Formatiebesluit W.V.O.](../../../../../../../../AMvB/formatiebesluit/wvo/BWBR0005446/README.md) 
+#### Formatiebesluit W.V.O. 
 
 Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-####Wijziging [bekostigingsbesluit W.V.O.](../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md) 
+####Wijziging bekostigingsbesluit W.V.O. 
 
 Bevat wijzigingen in andere regelgeving.  
 
@@ -35,7 +35,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  IV  
 
-####Wijziging [uitvoeringsbesluit W.C.B.O.](../../../../../../../..//BWBR0006064/README.md) 
+####Wijziging uitvoeringsbesluit W.C.B.O. 
 
 Bevat wijzigingen in andere regelgeving.  
 
@@ -47,27 +47,27 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  VI  
 
-####Wijziging [rechtspositiebesluit onderwijspersoneel](../../../../../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md) 
+####Wijziging rechtspositiebesluit onderwijspersoneel 
 
 Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VII  
 
-####Overgangsbepaling [artikel 8 Formatiebesluit W.V.O.](../../../../../../../../AMvB/formatiebesluit/wvo/BWBR0005446/README.md) in relatie tot school-GPL
+####Overgangsbepaling artikel 8 Formatiebesluit W.V.O. in relatie tot school-GPL
 
-In afwijking van [artikel 8 van het Formatiebesluit W.V.O.](../../../../../../../../AMvB/formatiebesluit/wvo/BWBR0005446/README.md) wordt wat de schooljaren 1996-1997 en 1997-1998 betreft de som van de in dat artikel bedoelde aantallen formatieplaatsen van de afzonderlijke personeelscategorieën vermenigvuldigd met de gemiddelde personeelslast van de school. 
+In afwijking van artikel 8 van het Formatiebesluit W.V.O. wordt wat de schooljaren 1996-1997 en 1997-1998 betreft de som van de in dat artikel bedoelde aantallen formatieplaatsen van de afzonderlijke personeelscategorieën vermenigvuldigd met de gemiddelde personeelslast van de school. 
 
 ### Artikel  VIII  
 
 ####Overgangsbepaling formatieve fricties schooljaren 1996-1997 en 1997-1998
 
-In afwijking van [artikel 4, tweede lid, van het Formatiebesluit W.V.O.](../../../../../../../../AMvB/formatiebesluit/wvo/BWBR0005446/README.md) bedraagt de opslag wegens formatieve fricties voor de schooljaren 1996-1997 en 1997-1998 1,20%. 
+In afwijking van artikel 4, tweede lid, van het Formatiebesluit W.V.O. bedraagt de opslag wegens formatieve fricties voor de schooljaren 1996-1997 en 1997-1998 1,20%. 
 
 ### Artikel  IX  
 
 ####Verhoging personele vergoeding i.v.m. overgangsrecht bij lineariseringsbesluit 1993
 
-De op grond van het [Formatiebesluit W.V.O.](../../../../../../../../AMvB/formatiebesluit/wvo/BWBR0005446/README.md) vastgestelde aantallen formatieplaatsen worden voor het schooljaar 1996-1997 door Onze Minister van Onderwijs, Cultuur en Wetenschappen verhoogd voor scholen en scholengemeenschappen waarop wat dat schooljaar betreft artikel II, eerste lid, of artikel IV, eerste lid juncto tweede lid, onder *b*, van het Besluit van 6 april 1993 (*Stb.* 209), zoals luidend op 31 juli 1996, toepassing zou hebben gevonden indien het Formatiebesluit scholen v.w.o.-a.v.o.-v.b.o. op 1 augustus 1996 nog van kracht zou zijn geweest, met overeenkomstige toepassing van die artikelen. Bij ministeriële regeling worden nadere voorschriften gegeven voor de toepassing van de eerste volzin. 
+De op grond van het Formatiebesluit W.V.O. vastgestelde aantallen formatieplaatsen worden voor het schooljaar 1996-1997 door Onze Minister van Onderwijs, Cultuur en Wetenschappen verhoogd voor scholen en scholengemeenschappen waarop wat dat schooljaar betreft artikel II, eerste lid, of artikel IV, eerste lid juncto tweede lid, onder *b*, van het Besluit van 6 april 1993 (*Stb.* 209), zoals luidend op 31 juli 1996, toepassing zou hebben gevonden indien het Formatiebesluit scholen v.w.o.-a.v.o.-v.b.o. op 1 augustus 1996 nog van kracht zou zijn geweest, met overeenkomstige toepassing van die artikelen. Bij ministeriële regeling worden nadere voorschriften gegeven voor de toepassing van de eerste volzin. 
 
 ### Artikel  X  
 
@@ -77,26 +77,26 @@ Voor zover op grond van artikel 26, onderdeel *b*, van het Formatiebesluit schol
 
 ### Artikel  XI  
 
-####Overgangsbepaling gewijzigde teldatum [Formatiebesluit W.V.O.](../../../../../../../../AMvB/formatiebesluit/wvo/BWBR0005446/README.md) 
+####Overgangsbepaling gewijzigde teldatum Formatiebesluit W.V.O. 
 
-1.  In afwijking van [artikel 6, eerste lid, van het Formatiebesluit W.V.O.](../../../../../../../../AMvB/formatiebesluit/wvo/BWBR0005446/README.md) wordt bij de toepassing van dat artikellid voor het schooljaar 1996-1997 in aanmerking genomen het aantal leerlingen dat op 15 september 1995 als werkelijk schoolgaand is ingeschreven.   
-2.   In afwijking van [artikel 6, derde lid, van het Formatiebesluit W.V.O.](../../../../../../../../AMvB/formatiebesluit/wvo/BWBR0005446/README.md) wordt bij de toepassing van dat artikellid voor het schooljaar 1996-1997 bij de onderdelen Lt-1 onderscheidenlijk Lt-2 van de in het tweede lid van dat artikel genoemde formule in aanmerking genomen het aantal leerlingen dat op 15 september 1995 onderscheidenlijk 15 september 1994 als werkelijk schoolgaand is ingeschreven.   
-3.   In afwijking van [artikel 6, derde lid, van het Formatiebesluit W.V.O.](../../../../../../../../AMvB/formatiebesluit/wvo/BWBR0005446/README.md) wordt bij de toepassing van dat artikellid voor het schooljaar 1997-1998 bij onderdeel Lt-2 van de in het tweede lid van dat artikel genoemde formule in aanmerking genomen het aantal leerlingen dat op 15 september 1995 als werkelijk schoolgaand is ingeschreven.  
+1.  In afwijking van artikel 6, eerste lid, van het Formatiebesluit W.V.O. wordt bij de toepassing van dat artikellid voor het schooljaar 1996-1997 in aanmerking genomen het aantal leerlingen dat op 15 september 1995 als werkelijk schoolgaand is ingeschreven.   
+2.   In afwijking van artikel 6, derde lid, van het Formatiebesluit W.V.O. wordt bij de toepassing van dat artikellid voor het schooljaar 1996-1997 bij de onderdelen Lt-1 onderscheidenlijk Lt-2 van de in het tweede lid van dat artikel genoemde formule in aanmerking genomen het aantal leerlingen dat op 15 september 1995 onderscheidenlijk 15 september 1994 als werkelijk schoolgaand is ingeschreven.   
+3.   In afwijking van artikel 6, derde lid, van het Formatiebesluit W.V.O. wordt bij de toepassing van dat artikellid voor het schooljaar 1997-1998 bij onderdeel Lt-2 van de in het tweede lid van dat artikel genoemde formule in aanmerking genomen het aantal leerlingen dat op 15 september 1995 als werkelijk schoolgaand is ingeschreven.  
 
 ### Artikel  XII  
 
-####Overgangsbepaling gewijzigde teldatum [bekostigingsbesluit W.V.O.](../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md) 
+####Overgangsbepaling gewijzigde teldatum bekostigingsbesluit W.V.O. 
 
-1.  In afwijking van [artikel 17 van het Bekostigingsbesluit W.V.O.](../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md) worden bij de toepassing van dat artikel voor het jaar 1996 de kenmerken van het gebouw op 15 september 1995 in aanmerking genomen.   
-2.   In afwijking van [artikel 39 van het Bekostigingsbesluit W.V.O.](../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md) worden voor de periode van 1 januari 1996 tot en met 31 juli 1996 en het schooljaar 1996-1997 in aanmerking genomen het aantal leerlingen dat op 15 september 1995 als werkelijk schoolgaand is ingeschreven en de kenmerken van het gebouw op dat tijdstip.   
-3.   In afwijking van [artikel 53, eerste lid, van het Bekostigingsbesluit W.V.O.](../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md) worden voor de periode van 1 januari 1996 tot en met 31 juli 1996 en het schooljaar 1996-1997 in aanmerking genomen het aantal leerlingen dat op 15 september 1995 als werkelijk schoolgaand ls ingeschreven en de kenmerken van het gebouw op dat tijdstip.  
+1.  In afwijking van artikel 17 van het Bekostigingsbesluit W.V.O. worden bij de toepassing van dat artikel voor het jaar 1996 de kenmerken van het gebouw op 15 september 1995 in aanmerking genomen.   
+2.   In afwijking van artikel 39 van het Bekostigingsbesluit W.V.O. worden voor de periode van 1 januari 1996 tot en met 31 juli 1996 en het schooljaar 1996-1997 in aanmerking genomen het aantal leerlingen dat op 15 september 1995 als werkelijk schoolgaand is ingeschreven en de kenmerken van het gebouw op dat tijdstip.   
+3.   In afwijking van artikel 53, eerste lid, van het Bekostigingsbesluit W.V.O. worden voor de periode van 1 januari 1996 tot en met 31 juli 1996 en het schooljaar 1996-1997 in aanmerking genomen het aantal leerlingen dat op 15 september 1995 als werkelijk schoolgaand ls ingeschreven en de kenmerken van het gebouw op dat tijdstip.  
 
 ### Artikel  XIII  
 
-####Overgangsbepaling gewijzigde teldatum [Rechtspositiebesluit onderwijspersoneel](../../../../../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md) 
+####Overgangsbepaling gewijzigde teldatum Rechtspositiebesluit onderwijspersoneel 
 
-1.  In afwijking van artikel I-Q401, onderdeel *i*, van het [Rechtspositiebesluit onderwijspersoneel](../../../../../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md) wordt voor het schooljaar 1996-1997 bij de begripsomschrijving van *y* uitgegaan van het berekende aantal leerlingen op 15 september 1995.   
-2.   In afwijking van artikel I-S401, onderdeel *c*, van het [Rechtspositiebesluit onderwijspersoneel](../../../../../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md) wordt voor het schooljaar 1996-1997 bij de begripsomschrijving van *y* uitgegaan van het berekende aantal leerlingen op 15 september 1995.  
+1.  In afwijking van artikel I-Q401, onderdeel *i*, van het Rechtspositiebesluit onderwijspersoneel wordt voor het schooljaar 1996-1997 bij de begripsomschrijving van *y* uitgegaan van het berekende aantal leerlingen op 15 september 1995.   
+2.   In afwijking van artikel I-S401, onderdeel *c*, van het Rechtspositiebesluit onderwijspersoneel wordt voor het schooljaar 1996-1997 bij de begripsomschrijving van *y* uitgegaan van het berekende aantal leerlingen op 15 september 1995.  
 
 ### Artikel  XIV  
 

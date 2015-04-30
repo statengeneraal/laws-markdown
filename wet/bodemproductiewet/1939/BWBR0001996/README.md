@@ -22,21 +22,21 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.De maatregelen, krachtens deze wet genomen, blijven zonder gevolg, voorzover zij onverenigbaar zijn met maatregelen, ten behoeve van de landsverdediging genomen krachtens: 
 
-a. de [Spoorwegwet](../../../../wet/spoorwegwet/BWBR0001848/README.md);  
+a. de Spoorwegwet;  
 
-b. de [Wet Militaire Inundatiën](../../../../wet/wet/militaire/inundatiën/BWBR0001863/README.md);  
+b. de Wet Militaire Inundatiën;  
 
-c. de [Onteigeningswet](../../../../wet/onteigeningswet/BWBR0001842/README.md);  
+c. de Onteigeningswet;  
 
-d. de [Oorlogswet voor Nederland](../../../../wet/oorlogswet/voor/nederland/BWBR0007983/README.md);  
+d. de Oorlogswet voor Nederland;  
 
-e. de [Inkwartieringswet](../../../../wet/inkwartieringswet/BWBR0002111/README.md);  
+e. de Inkwartieringswet;  
 
-f. de [Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md);  
+f. de Luchtvaartwet;  
 
-g. de [Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+g. de Telecommunicatiewet;  
 
-h. de [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).   
+h. de Wegenverkeerswet 1994.   
 
 ### Artikel  3  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -76,7 +76,7 @@ Deze wet kan worden aangehaald onder den titel "Bodemproductiewet 1939".
 ### Artikel  17  
 
 1.  Deze wet treedt in werking, voor wat betreft de artikelen 1, 5, 6 en 7, met ingang van den dag na dien harer afkondiging.    
-2.  Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de overige artikelen in werking worden gesteld.   
+2.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de overige artikelen in werking worden gesteld.   
 3.  Wanneer het in het tweede lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.   
 4.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge het tweede lid in werking zijn gesteld, onverwijld buiten werking gesteld.   
 5.  Bij koninklijk besluit, op voordracht van Onze Minister-President, worden bepalingen die ingevolge het tweede lid in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.   

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 9 september 1997, nummer AD97/U801, directoraat-generaal Management en Personeelsbeleid, directie Personeelsmanagement Rijksdienst, afdeling Arbeidsvoorwaarden en Sociaal Beleid, gedaan mede namens Onze Minister van Buitenlandse Zaken; 
 
-Gelet op [artikel 125 van de Ambtenarenwet](../../../../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md); 
+Gelet op artikel 125 van de Ambtenarenwet; 
 
 De Raad van State gehoord (advies van 11 november 1997, nr. W04.97.0596); 
 
@@ -57,7 +57,7 @@ Wijzigt de Regeling ziektekostenvoorziening overheidspersoneel.
 
 ####Overgangsrecht 
 
-Indien de ambtenaar of de gewezen ambtenaar een uitkering ontvangt krachtens de Algemene Arbeidsongeschiktheidswet, wordt deze uitkering voor de toepassing van het [Rijkswachtgeldbesluit 1959](../../../../../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md), de [Uitkeringsregeling 1966](../../../../../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md) en de Regeling uitkering wegens functioneel leeftijdsontslag aangemerkt als inkomsten in verband met arbeid.  
+Indien de ambtenaar of de gewezen ambtenaar een uitkering ontvangt krachtens de Algemene Arbeidsongeschiktheidswet, wordt deze uitkering voor de toepassing van het Rijkswachtgeldbesluit 1959, de Uitkeringsregeling 1966 en de Regeling uitkering wegens functioneel leeftijdsontslag aangemerkt als inkomsten in verband met arbeid.  
 
 ### Artikel  XII  
 

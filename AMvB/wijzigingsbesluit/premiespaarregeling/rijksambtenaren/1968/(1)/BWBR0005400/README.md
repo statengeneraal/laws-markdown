@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 29 november 1991, nr. AB91/U818, directoraat-generaal Management en Personeelsbeleid, directie Arbeidsvoorwaarden, afdeling Arbeidsvoorwaarden Rijkspersoneel;
 
-Gelet op de [artikelen 125](../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md), eerste lid, en [134, eerste lid, van de Ambtenarenwet](../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md);
+Gelet op de artikelen 125, eerste lid, en 134, eerste lid, van de Ambtenarenwet;
 
 De Raad van State gehoord (advies van 19 december 1991, nr. WO4.91.0681);
 

@@ -3,7 +3,7 @@
 ##Regeling structurele aanlevering gegevens Zorgverzekeringswet
 
 Het College voor zorgverzekeringen,  
-Gelet op [artikel 90 van de Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);
+Gelet op artikel 90 van de Zorgverzekeringswet;
 Heeft in zijn vergadering van 1 augustus 2011 besloten:    
 
 ### Artikel  1  
@@ -12,25 +12,25 @@ Heeft in zijn vergadering van 1 augustus 2011 besloten:
 
 In deze regeling wordt verstaan onder: 
 
-a.  *Zorgverzekeraar:* zorgverzekeraar als bedoeld in [artikel 1 sub b van de Zvw](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+a.  *Zorgverzekeraar:* zorgverzekeraar als bedoeld in artikel 1 sub b van de Zvw;  
 
-b.  *Zvw;* [Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+b.  *Zvw;* Zorgverzekeringswet;  
 
-c.  *CVZ:* het College zorgverzekeringen zoals genoemd in [artikel 58, lid 1 van de Zvw](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+c.  *CVZ:* het College zorgverzekeringen zoals genoemd in artikel 58, lid 1 van de Zvw;  
 
-d.  *NZa:* de Nederlandse Zorgautoriteit zoals genoemd in [artikel 3, eerste lid van de Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+d.  *NZa:* de Nederlandse Zorgautoriteit zoals genoemd in artikel 3, eerste lid van de Wet marktordening gezondheidszorg;  
 
-e.  *DBC:* diagnose behandeling combinatie als bedoeld in [artikel 1, eerste lid, sub m van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
+e.  *DBC:* diagnose behandeling combinatie als bedoeld in artikel 1, eerste lid, sub m van de Regeling zorgverzekering;  
 
-f.  *HKC:* hoge kosten compensatie als bedoeld in [artikel 1, sub x van het Besluit zorgverzekering](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md);  
+f.  *HKC:* hoge kosten compensatie als bedoeld in artikel 1, sub x van het Besluit zorgverzekering;  
 
-g.  *Accountantsproduct:* een product, afgegeven door een accountant als bedoeld in [artikel 2:393, eerste lid, Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) dat voldoet aan de voorschriften gegeven in het Protocol Vereveningsonderzoek Zvw en onderzoek uitvoeringsverslag Zvw;  
+g.  *Accountantsproduct:* een product, afgegeven door een accountant als bedoeld in artikel 2:393, eerste lid, Burgerlijk Wetboek dat voldoet aan de voorschriften gegeven in het Protocol Vereveningsonderzoek Zvw en onderzoek uitvoeringsverslag Zvw;  
 
 h.  *Handboek CVZ:* het door het CVZ uitgebrachte jaarlijks te actualiseren ‘Handboek zorgverzekeraars informatie Zorgverzekeringswet’. Hierin geeft het CVZ een specificatie van de door de zorgverzekeraars aan te leveren gegevens, de indieningstermijnen en de eisen waaraan de aangeleverde gegevens moeten voldoen;  
 
 i.  *Protocol NZa:* door de NZa jaarlijks uit te brengen Protocol Vereveningsonderzoek Zvw en onderzoek uitvoeringsverslag Zvw, een document met voorschriften voor de zorgverzekeraars en de werkzaamheden van de externe accountants van de zorgverzekeraars over de verantwoording Zvw;  
 
-j.  *Samenvattend rapport :* het door de NZa op grond van artikel 24 Wmg aan de Minister en aan het CVZ uitgebrachte rapport over de rechtmatigheid van de uitvoering van de [Zvw](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de daarop gebaseerde regelgeving door de zorgverzekeraars in het voorafgaande kalenderjaar;  
+j.  *Samenvattend rapport :* het door de NZa op grond van artikel 24 Wmg aan de Minister en aan het CVZ uitgebrachte rapport over de rechtmatigheid van de uitvoering van de Zvw en de daarop gebaseerde regelgeving door de zorgverzekeraars in het voorafgaande kalenderjaar;  
 
 k.  *Jaar t, t+1, t-1, t-2:* het kalenderjaar waarop de gegevens betrekking hebben;  
 
@@ -72,7 +72,7 @@ l.  *Jaar t+1:* het kalenderjaar waarin de zorgverzekeraar de gegevens indient.
 ####Aanlevering gegevens aan het CVZ
 
 1.  De zorgverzekeraar dient ieder jaar de in het tweede lid genoemde gegevens uiterlijk op de genoemde indieningsdatum in jaar t+1 juist en volledig in bij het CVZ.   
-2.  De zorgverzekeraar levert de hieronder genoemde gegevens zonder accountantsproduct aan. De NZa toetst deze opgaven niet. Het CVZ kan op grond van [artikel 26 Wmg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) aan de NZa vragen om nader onderzoek naar deze opgaven te doen.  
+2.  De zorgverzekeraar levert de hieronder genoemde gegevens zonder accountantsproduct aan. De NZa toetst deze opgaven niet. Het CVZ kan op grond van artikel 26 Wmg aan de NZa vragen om nader onderzoek naar deze opgaven te doen.  
 
 | Wat?  | Wanneer?  | Aan wie?  |
 |:---|:---|:---|

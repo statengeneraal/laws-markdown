@@ -13,7 +13,7 @@ Besluit het volgende reglement vast te stellen:
 
 ####Begripsbepalingen
 
-a. de registratie:   financiële administratie betreffende jeugdigen ten aanzien van wie de hulpverlening door de minister van Justitie wordt gesubsidieerd;    b. houder van de registratie:   de minister van Justitie;    c. beheerder van de registratie:  het Hoofd van de Hoofdafdeling Financieel Economische zaken van de Directie Jeugdbescherming en Reclassering;    d. jeugdige:   een persoon als bedoeld in [artikel 1, eerste lid, onder b, van de Wet op de jeugdhulpverlening](../../../../../wet/wet/op/de/jeugdhulpverlening/BWBR0004608/README.md) (Stb. 1989, 360).    
+a. de registratie:   financiële administratie betreffende jeugdigen ten aanzien van wie de hulpverlening door de minister van Justitie wordt gesubsidieerd;    b. houder van de registratie:   de minister van Justitie;    c. beheerder van de registratie:  het Hoofd van de Hoofdafdeling Financieel Economische zaken van de Directie Jeugdbescherming en Reclassering;    d. jeugdige:   een persoon als bedoeld in artikel 1, eerste lid, onder b, van de Wet op de jeugdhulpverlening (Stb. 1989, 360).    
 
 ### Artikel  2  
 

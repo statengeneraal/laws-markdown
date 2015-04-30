@@ -3,7 +3,7 @@
 ##Regeling houdende regels met betrekking tot onderhoudserkenningen en erkenningen van geluidmeetorganisaties (Regeling erkenningen luchtwaardigheid 2008)
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 3.25 van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en de [artikelen 18, tweede lid](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), [19, tweede lid, onderdelen c en g](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), en [20, van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md);
+Gelet op artikel 3.25 van de Wet luchtvaart en de artikelen 18, tweede lid, 19, tweede lid, onderdelen c en g, en 20, van het Besluit luchtvaartuigen 2008;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -15,9 +15,9 @@ Besluit:
 
 *autoriseringspersoneel:* personeel dat door de houder van een erkenning volgens een door de Minister aanvaarde procedure is gemachtigd geluidsmeetrapporten af te geven nadat geluidsmetingen zijn verricht; 
 
-*BvL-acceptatiekeuring:* inspectie zoals gedefinieerd in [artikel 1 van de Regeling bewijzen van luchtwaardigheid](../../../../../../ministeriele-regeling/regeling/bewijzen/van/luchtwaardigheid/BWBR0030372/README.md); 
+*BvL-acceptatiekeuring:* inspectie zoals gedefinieerd in artikel 1 van de Regeling bewijzen van luchtwaardigheid; 
 
-*BvL-verlengingsinspectie:* inspectie zoals gedefinieerd in [artikel 1 van de Regeling bewijzen van luchtwaardigheid](../../../../../../ministeriele-regeling/regeling/bewijzen/van/luchtwaardigheid/BWBR0030372/README.md); 
+*BvL-verlengingsinspectie:* inspectie zoals gedefinieerd in artikel 1 van de Regeling bewijzen van luchtwaardigheid; 
 
 *CAMO-erkenning:* erkenning voor het beheren van de blijvende luchtwaardigheid van luchtvaartuigen en de onderdelen daarvan, als bedoeld in verordening (EG) nr. 2042/2003, Part M, section A, subpart G;
 
@@ -41,12 +41,12 @@ Besluit:
 
 *MOA-F:* erkenning voor het onderhoud van vliegtuigen, helikopters en ballonnen of onderdelen daarvan, als bedoeld in verordening (EG) nr. 2042/2003, Part M, section A, subpart F (Maintenance Organisation Approval-F);
 
-*orphan aircraft:* luchtvaartuig als bedoeld in [artikel 1 van de Regeling bewijzen van luchtwaardigheid](../../../../../../ministeriele-regeling/regeling/bewijzen/van/luchtwaardigheid/BWBR0030372/README.md).    
+*orphan aircraft:* luchtvaartuig als bedoeld in artikel 1 van de Regeling bewijzen van luchtwaardigheid.    
 2.  In deze regeling wordt onder productie mede verstaan: het verrichten van diensten.  
 
 ### Artikel  1a  
 
-Deze regeling is gebaseerd op de [artikelen 1.5](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [3.25 van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en de [artikelen 18, tweede lid](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), [19, tweede lid, onderdelen c en g](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), en [20 van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md). 
+Deze regeling is gebaseerd op de artikelen 1.5 en 3.25 van de Wet luchtvaart en de artikelen 18, tweede lid, 19, tweede lid, onderdelen c en g, en 20 van het Besluit luchtvaartuigen 2008. 
 
 ### Hoofdstuk  2  
 
@@ -420,7 +420,7 @@ c. omschrijving van de werkzaamheden, waarvoor de houder van een erkenning is er
 
 ### Artikel  55  
 
-De [Regeling erkenningen luchtwaardigheid](../../../../../../ministeriele-regeling/regeling/erkenningen/luchtwaardigheid/BWBR0012877/README.md) en de [Regeling JAR-147 opleidingsinstellingen](../../../../../../ministeriele-regeling/regeling/jar-147/erkende/opleidingsinstellingen/BWBR0012920/README.md) worden ingetrokken. 
+De Regeling erkenningen luchtwaardigheid en de Regeling JAR-147 opleidingsinstellingen worden ingetrokken. 
 
 ### Artikel  56  
 
@@ -793,7 +793,7 @@ c. het volgnummer van het certificaat van vrijgave dan wel certificaat van vrijg
 
 d. het eindproduct waar het certificaat van vrijgave voor gebruik voor wordt geautoriseerd;  
 
-e. een verklaring dat het eindproduct voldoet aan de eisen, bedoeld in de [Regeling onderhoud luchtvaartuigen](../../../../../../ministeriele-regeling/regeling/onderhoud/luchtvaartuigen/BWBR0012882/README.md);  
+e. een verklaring dat het eindproduct voldoet aan de eisen, bedoeld in de Regeling onderhoud luchtvaartuigen;  
 
 f. het administratienummer waaronder nadere informatie over het eindproduct is te vinden;  
 

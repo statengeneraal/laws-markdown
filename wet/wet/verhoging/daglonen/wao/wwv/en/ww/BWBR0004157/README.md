@@ -6,18 +6,18 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het in verband met de verlaging van de uitkeringspercentages ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Werkloosheidswet](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en de [Wet Werkloosheidsvoorziening](../../../../../../../../../wet/wet/werkloosheidsvoorziening/BWBR0002470/README.md) en het vervallen van de dagloonkortingen per 1 januari 1985 wenselijk is om voor bepaalde categorieën werknemers de daglonen ingevolge die wetten te verhogen;
+Alzo Wij in overweging genomen hebben, dat het in verband met de verlaging van de uitkeringspercentages ingevolge de Wet op de arbeidsongeschiktheidsverzekering, de Werkloosheidswet en de Wet Werkloosheidsvoorziening en het vervallen van de dagloonkortingen per 1 januari 1985 wenselijk is om voor bepaalde categorieën werknemers de daglonen ingevolge die wetten te verhogen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  
 
 In deze wet wordt verstaan onder:  
 
-a. WAO: [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) (*Stb.* 1977, 492);  
+a. WAO: Wet op de arbeidsongeschiktheidsverzekering (*Stb.* 1977, 492);  
 
-b. WWV: [Wet Werkloosheidsvoorziening](../../../../../../../../../wet/wet/werkloosheidsvoorziening/BWBR0002470/README.md) (*Stb.* 1964, 485);  
+b. WWV: Wet Werkloosheidsvoorziening (*Stb.* 1964, 485);  
 
-c. WW: [Werkloosheidswet](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) (*Stb.* 1967, 421).   
+c. WW: Werkloosheidswet (*Stb.* 1967, 421).   
 
 ### Artikel  2  
 
@@ -33,7 +33,7 @@ c. bij een werkgever voor wie op de dag waarop het recht op uitkering ontstond e
 
 ### Artikel  3  
 
-Indien toepassing van artikel 2 leidt tot een dagloon dat meer bedraagt dan het in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) bedoelde bedrag, met betrekking tot een loontijdvak van een dag wordt dat meerdere niet in aanmerking genomen. 
+Indien toepassing van artikel 2 leidt tot een dagloon dat meer bedraagt dan het in artikel 17, eerste lid, van de Wet financiering sociale verzekeringen bedoelde bedrag, met betrekking tot een loontijdvak van een dag wordt dat meerdere niet in aanmerking genomen. 
 
 ### Artikel  4  
 

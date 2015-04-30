@@ -29,11 +29,11 @@ Wijzigt de Ziekenfondswet.
 
 ####OVERGANGSBEPALING 
 
-Onze Minister van Financiën, Onze Minister van Sociale Zaken en Werkgelegenheid en Onze Minister van Volksgezondheid, Welzijn en Sport kunnen, in overeenstemming met de Sociale Verzekeringsbank, het Landelijk instituut sociale verzekeringen en het College voor zorgverzekeringen, genoemd in [artikel 1a van de Ziekenfondswet](../../../../../../../../../wet/ziekenfondswet/BWBR0002460/README.md) afzonderlijk, financiële middelen, leningsarrangementen of beleggingen met betrekking tot de hen toebehorende fondsen aanwijzen waarop deze wet gedurende een door hen te bepalen periode niet van toepassing is, indien toepassing van deze wet naar hun oordeel ondoelmatig zou zijn.  
+Onze Minister van Financiën, Onze Minister van Sociale Zaken en Werkgelegenheid en Onze Minister van Volksgezondheid, Welzijn en Sport kunnen, in overeenstemming met de Sociale Verzekeringsbank, het Landelijk instituut sociale verzekeringen en het College voor zorgverzekeringen, genoemd in artikel 1a van de Ziekenfondswet afzonderlijk, financiële middelen, leningsarrangementen of beleggingen met betrekking tot de hen toebehorende fondsen aanwijzen waarop deze wet gedurende een door hen te bepalen periode niet van toepassing is, indien toepassing van deze wet naar hun oordeel ondoelmatig zou zijn.  
 
 ### ARTIKEL  VI  
 
-Na de inwerkingtreding van deze wet berust het Besluit premievaststelling en reservevorming wachtgeldfondsen op [artikel 79 van de Werkloosheidswet](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md).  
+Na de inwerkingtreding van deze wet berust het Besluit premievaststelling en reservevorming wachtgeldfondsen op artikel 79 van de Werkloosheidswet.  
 
 ### ARTIKEL  VII  
 

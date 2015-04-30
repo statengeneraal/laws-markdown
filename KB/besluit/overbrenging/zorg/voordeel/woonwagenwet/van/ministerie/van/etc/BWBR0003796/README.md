@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en Onze Minister van Binnenlandse Zaken van 14 mei 1985, nr. MJZO755054;
 
-Gelet op [artikel 44, eerste lid, van de Grondwet](../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md);
+Gelet op artikel 44, eerste lid, van de Grondwet;
 Hebben goedgevonden en verstaan:    
 
 ### Enig  artikel 

@@ -16,7 +16,7 @@ aantal aanpassingen ten opzichte van publicatie AB/A&A/2000/38079, gepubliceerd 
 
 In bijlage IV worden de salarisbedragen vermeld voor een leraar in opleiding (LIO) per 1 januari 2001 en1 maart 2001
 
-De inpassing van de in- en doorstroombanen in het [Rechtspositiebesluit onderwijspersoneel](../../../../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md) (Rpbo).
+De inpassing van de in- en doorstroombanen in het Rechtspositiebesluit onderwijspersoneel (Rpbo).
 ###1 
 
 ####Aanpassing premies en franchise
@@ -28,9 +28,9 @@ Met ingang van 1 januari 2001 zijn de diverse premies gewijzigd die van invloed 
 |Ouderdoms- en nabestaandenpensioen |(OP/NP); |
 |Flexibel pensioen en uittreden |(FPU); |
 |Bovenwettelijk invaliditeitspensioen |(IPbw); |
-|Pseudo-werkloosheidspremie |([WW](../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md)); |
-|Arbeidsongeschiktheidsverzekering |([WAO](../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md)); |
-|Uitvoeringsfonds voor de Overheid |(UFO) *nieuw per 1 januari 2001*. De lasten en de uitvoeringskosten van de [Ziektewet](../../../../../../../wet/ziektewet/BWBR0001888/README.md) worden gefinancierd uit het Uitvoeringsfonds. Iedere overheidswerkgever betaalt aan dit fonds premie voor alle werknemers die bij hem in dienst zijn. |
+|Pseudo-werkloosheidspremie |(WW); |
+|Arbeidsongeschiktheidsverzekering |(WAO); |
+|Uitvoeringsfonds voor de Overheid |(UFO) *nieuw per 1 januari 2001*. De lasten en de uitvoeringskosten van de Ziektewet worden gefinancierd uit het Uitvoeringsfonds. Iedere overheidswerkgever betaalt aan dit fonds premie voor alle werknemers die bij hem in dienst zijn. |
 
 ###2 
 
@@ -63,9 +63,9 @@ In Tabel (bijlage bij circulaire DI/AB 89-21) (pag. 30) dient in kolom 10 vanaf 
 In bijlage 4 (pag. 37), conversietabel, dienen onder: “wordt Schaal C”, de nummers 12.9 en 12.10 met de daarbij behorende salarisbedragen 8929 en 9055 ver-plaatst te worden naar: “was Schaal 12”, onder nummer 12.8 en het daarbij behoorde salarisbedrag 8673. Onder: “was Schaal 12”, dient nummer 22 met het daarbij beho-rende salarisbedrag 9304, verplaatst te worden naar: “wordt Schaal D”, onder nummer 21 en het daarbij behoorende salarisbedrag 9175.
 ###5 
 
-####Inpassing van het [Besluit in-en doorstroombanen](../../../../../../../AMvB/besluit/in-/en/doorstroombanen/BWBR0010994/README.md) in het [Rpbo](../../../../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md)
+####Inpassing van het Besluit in-en doorstroombanen in het Rpbo
 
-Per 1 januari 2000 is het [Besluit in- en doorstroombanen](../../../../../../../AMvB/besluit/in-/en/doorstroombanen/BWBR0010994/README.md) (Stscrt.1999, nr. 591) in werking getreden (kortweg: het Besluit I/D-banen). Dit [Besluit](../../../../../../../AMvB/besluit/in-/en/doorstroombanen/BWBR0010994/README.md) verving daarmee de Regeling in- en doorstroombanen voor langdurig werklozen 1999, welke regeling op haar beurt de regeling ‘Extra werkgelegenheid voor langdurig werklozen 1995’ verving (beter bekend als ‘de Melkert-regeling’).Bij de CAO sector onderwijs 1999- 2000 is onderkend dat in- en doorstroombanen (kortweg: ID-banen) een belangrijke bijdrage kunnen leveren aan het verlichten van de werkdruk van schoolmanagement en leerkrachten. Afgesproken is daarom om binnen de rechtspositionele kaders in het onderwijs een optimaal gebruik te maken van de mogelijkheden van ID-banen.Dit leidde onder meer tot een nieuwe brochure, de brochure ‘ID-banen in het onderwijs’, welke u omstreeks septem-ber 2000 is toegezonden. In deze brochure vindt u, behalve de condities en (financiële) faciliteiten bij het in dienst nemen van werknemers in ID-banen, voorts een aantal voorbeeldfuncties voor deze banen, alsmede een concreet stappenplan om een ID-baan te creëren. Mocht u niet (meer) in het bezit zijn van deze brochure, dan kunt u nog gratis exemplaren bestellen bij:Sdu ServicecentrumPostbus 200142500 EA Den HaagTelefoon 070 – 378 9830Telefax 070 – 378 9783 onder vermelding van ‘AOCenW-nummer 1679’De brochure is tevens te vinden op internet onder www.minocw.nl/rechtspositie/ID-banen.Hoewel de ID-banen door het Ministerie van Sociale Zaken en Werkgelegenheid (SZW) worden gefinancierd, waardoor deze banen dus niet van invloed zijn op de formatieruimte en de gelden – via de gemeenten – toevallen aan de eigen middelen, zijn de werknemers in ID-banen wel in dienst van het bevoegd gezag en vallen zij uit dien hoofde onder de rechtspositieregelingen in het onderwijs. Voor wat betreft de inpassing in het [Rpbo](../../../../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md) houdt dit in dat derhalve ook rekening moet worden gehouden met de belonings-grenzen die het [Besluit ID-banen](../../../../../../../AMvB/besluit/in-/en/doorstroombanen/BWBR0010994/README.md) ten aanzien van ID-banen stelt. Zo mogen instroombanen tot maximaal 130% van het wettelijk minimumloon (WML) worden beloond en door-stroombanen tot maximaal 150% van het WML. Gelet op deze beloningsgrenzen, bij overschrijding waarvan in het geheel geen financiering en subsidiëring van deze banen plaatsvindt, zal onder meer [artikel I-S102a van het Rpbo](../../../../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md) zodanig worden aangepast dat bij een functie in een instroombaan maximumschaal 1 behoort en bij een functie in een doorstroombaan maximumschaal 2, dan wel maximumschaal 3, zij het begrensd tot en met salarisnummer 3.7 (dit in verband met de beloningsgrens van150% van het WML).De sectoren VO en BVE zullen bij de beloning van ID-banen eveneens rekening moeten houden met genoemde beloningsgrenzen die het [Besluit I/D-banen](../../../../../../../AMvB/besluit/in-/en/doorstroombanen/BWBR0010994/README.md) stelt.Ik verzoek u het personeel in dienst van uw instelling van deze publicatie op de hoogte te stellen. 
+Per 1 januari 2000 is het Besluit in- en doorstroombanen (Stscrt.1999, nr. 591) in werking getreden (kortweg: het Besluit I/D-banen). Dit Besluit verving daarmee de Regeling in- en doorstroombanen voor langdurig werklozen 1999, welke regeling op haar beurt de regeling ‘Extra werkgelegenheid voor langdurig werklozen 1995’ verving (beter bekend als ‘de Melkert-regeling’).Bij de CAO sector onderwijs 1999- 2000 is onderkend dat in- en doorstroombanen (kortweg: ID-banen) een belangrijke bijdrage kunnen leveren aan het verlichten van de werkdruk van schoolmanagement en leerkrachten. Afgesproken is daarom om binnen de rechtspositionele kaders in het onderwijs een optimaal gebruik te maken van de mogelijkheden van ID-banen.Dit leidde onder meer tot een nieuwe brochure, de brochure ‘ID-banen in het onderwijs’, welke u omstreeks septem-ber 2000 is toegezonden. In deze brochure vindt u, behalve de condities en (financiële) faciliteiten bij het in dienst nemen van werknemers in ID-banen, voorts een aantal voorbeeldfuncties voor deze banen, alsmede een concreet stappenplan om een ID-baan te creëren. Mocht u niet (meer) in het bezit zijn van deze brochure, dan kunt u nog gratis exemplaren bestellen bij:Sdu ServicecentrumPostbus 200142500 EA Den HaagTelefoon 070 – 378 9830Telefax 070 – 378 9783 onder vermelding van ‘AOCenW-nummer 1679’De brochure is tevens te vinden op internet onder www.minocw.nl/rechtspositie/ID-banen.Hoewel de ID-banen door het Ministerie van Sociale Zaken en Werkgelegenheid (SZW) worden gefinancierd, waardoor deze banen dus niet van invloed zijn op de formatieruimte en de gelden – via de gemeenten – toevallen aan de eigen middelen, zijn de werknemers in ID-banen wel in dienst van het bevoegd gezag en vallen zij uit dien hoofde onder de rechtspositieregelingen in het onderwijs. Voor wat betreft de inpassing in het Rpbo houdt dit in dat derhalve ook rekening moet worden gehouden met de belonings-grenzen die het Besluit ID-banen ten aanzien van ID-banen stelt. Zo mogen instroombanen tot maximaal 130% van het wettelijk minimumloon (WML) worden beloond en door-stroombanen tot maximaal 150% van het WML. Gelet op deze beloningsgrenzen, bij overschrijding waarvan in het geheel geen financiering en subsidiëring van deze banen plaatsvindt, zal onder meer artikel I-S102a van het Rpbo zodanig worden aangepast dat bij een functie in een instroombaan maximumschaal 1 behoort en bij een functie in een doorstroombaan maximumschaal 2, dan wel maximumschaal 3, zij het begrensd tot en met salarisnummer 3.7 (dit in verband met de beloningsgrens van150% van het WML).De sectoren VO en BVE zullen bij de beloning van ID-banen eveneens rekening moeten houden met genoemde beloningsgrenzen die het Besluit I/D-banen stelt.Ik verzoek u het personeel in dienst van uw instelling van deze publicatie op de hoogte te stellen. 
 
 De 
 minister van onderwijs, cultuur en wetenschappen, 
@@ -96,11 +96,11 @@ Tabel franchisebedragen en percentages voor de werkgevers werknemers
 
 per maand in guldens bij een normbetrekking zoals opgenomen in:
 
-[bijlage 2, onderdeel 1 bij het Rechtspositiebesluit onderwijspersoneel](../../../../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md)
+bijlage 2, onderdeel 1 bij het Rechtspositiebesluit onderwijspersoneel
 
-[bijlage 2 bij het Kaderbesluit rechtspositie VO](../../../../../../../AMvB/kaderbesluit/rechtspositie/vo/BWBR0007495/README.md)
+bijlage 2 bij het Kaderbesluit rechtspositie VO
 
-[bijlage 2 bij het Kaderbesluit rechtspositie BVE](../../../../../../../KB/kaderbesluit/rechtspositie/bve/BWBR0008190/README.md)per 1 januari 2001
+bijlage 2 bij het Kaderbesluit rechtspositie BVEper 1 januari 2001
 
 |bij de leeftijd van |bedrag |
 |:---|:---|
@@ -120,11 +120,11 @@ per maand in guldens bij een normbetrekking zoals opgenomen in:
 
 behorende bij:
 
-[bijlage 1F bij het Rechtspositiebesluit onderwijspersoneel](../../../../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md)
+bijlage 1F bij het Rechtspositiebesluit onderwijspersoneel
 
-[bijlage 1D bij het Kaderbesluit rechtspositie VO](../../../../../../../AMvB/kaderbesluit/rechtspositie/vo/BWBR0007495/README.md)
+bijlage 1D bij het Kaderbesluit rechtspositie VO
 
-[bijlage 1D bij het Kaderbesluit rechtspositie BVE](../../../../../../../KB/kaderbesluit/rechtspositie/bve/BWBR0008190/README.md)bevattende aanlooptraject voor functies in het kader van het [Besluit in- en doorstroombanen](../../../../../../../AMvB/besluit/in-/en/doorstroombanen/BWBR0010994/README.md).Per 1 januari 2001
+bijlage 1D bij het Kaderbesluit rechtspositie BVEbevattende aanlooptraject voor functies in het kader van het Besluit in- en doorstroombanen.Per 1 januari 2001
 
 |Nummer |Bedrag |
 |:---|:---|
@@ -135,7 +135,7 @@ behorende bij:
 
 ####Maandsalaris (LIO)
 
-behorende bij [bijlage 1G van het RPBO](../../../../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md) bevattende het salaris voor de salarisvaststelling van de functie leraar in opleiding (LIO) per *1 januari 2001.*Het salaris van de leraar in opleiding die is benoemd of aangesteld aan een basisschool bedraagt bij een normbetrekking ƒ 2151,-- .Het salaris van de leraar in opleiding die is benoemd of aangesteld aan een speciale school voor basisonderwijs, aan een school voor speciaal onderwijs, voor voortgezet speciaal onderwijs dan wel aan een school of instelling voor speciaal en voortgezet onderwijs, bedraagt bij een normbetrekking ƒ 2232,--Met ingang van *1 maart 2001*bedraagt het salaris van de leraar in opleiding die is benoemd of aangesteld aan een basisschool een normbetrekking ƒ 2211,-- en voor de leraar in opleiding die is benoemd of aangesteld aan een speciale school voor basisonderwijs, aan een school voor speciaal onderwijs, voor voortgezet speciaal onderwijs dan wel aan een school of instelling voor speciaal en voortgezet onderwijs, bij een normbetrekking ƒ 2294,--
+behorende bij bijlage 1G van het RPBO bevattende het salaris voor de salarisvaststelling van de functie leraar in opleiding (LIO) per *1 januari 2001.*Het salaris van de leraar in opleiding die is benoemd of aangesteld aan een basisschool bedraagt bij een normbetrekking ƒ 2151,-- .Het salaris van de leraar in opleiding die is benoemd of aangesteld aan een speciale school voor basisonderwijs, aan een school voor speciaal onderwijs, voor voortgezet speciaal onderwijs dan wel aan een school of instelling voor speciaal en voortgezet onderwijs, bedraagt bij een normbetrekking ƒ 2232,--Met ingang van *1 maart 2001*bedraagt het salaris van de leraar in opleiding die is benoemd of aangesteld aan een basisschool een normbetrekking ƒ 2211,-- en voor de leraar in opleiding die is benoemd of aangesteld aan een speciale school voor basisonderwijs, aan een school voor speciaal onderwijs, voor voortgezet speciaal onderwijs dan wel aan een school of instelling voor speciaal en voortgezet onderwijs, bij een normbetrekking ƒ 2294,--
 
 ###Bijlage V 
 

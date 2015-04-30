@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 6 juli 2000, kenmerk GZB/GZ 2.084.060;
 
-Gelet op [artikel 10 van de Drank- en Horecawet](../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md);
+Gelet op artikel 10 van de Drank- en Horecawet;
 
 De Raad van State gehoord (advies van 11 augustus 2000, no. W13.00.0278);
 
@@ -24,7 +24,7 @@ a. loopafstand: de afstand, gemeten langs een denkbeeldige, kortst realiseerbare
 
 b. neringruimte: ruimte binnen een gebouw, welke ruimte in gebruik is voor het uitoefenen van de kleinhandel of de zelfbedieningsgroothandel of een van de hierna te noemen activiteiten: 
 
-1°. het bedrijfsmatig aan particulieren verkopen van goederen in het kader van een openbare verkoping, als bedoeld in [artikel 1 van de Wet ambtelijk toezicht bij openbare verkopingen](../../../../../../../../wet/wet/ambtelijk/toezicht/bij/openbare/verkopingen/BWBR0002798/README.md);  
+1°. het bedrijfsmatig aan particulieren verkopen van goederen in het kader van een openbare verkoping, als bedoeld in artikel 1 van de Wet ambtelijk toezicht bij openbare verkopingen;  
 
 2°. het bedrijfsmatig aanbieden van diensten;  
 
@@ -41,7 +41,7 @@ c. verbindingslokaliteit: een tot een inrichting waarin het slijtersbedrijf word
 
 ### Artikel  2  
 
-Onverminderd het [Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), voldoet een inrichting waarin het horecabedrijf wordt uitgeoefend, aan de in artikelen 3 tot en met 7 van het onderhavige besluit vervatte bepalingen. 
+Onverminderd het Bouwbesluit 2012, voldoet een inrichting waarin het horecabedrijf wordt uitgeoefend, aan de in artikelen 3 tot en met 7 van het onderhavige besluit vervatte bepalingen. 
 
 ### Artikel  3  
 
@@ -53,12 +53,12 @@ Een horecalokaliteit heeft een hoogte van ten minste 2,40 m van de vloer af geme
 
 ### Artikel  4a  
 
-De burgemeester kan besluiten af te wijken van artikel 3 en 4, indien er sprake is van een lokaliteit die is gevestigd in een beschermd monument als bedoeld in [artikel 1, onder d, van de Monumentenwet 1988](../../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md). 
+De burgemeester kan besluiten af te wijken van artikel 3 en 4, indien er sprake is van een lokaliteit die is gevestigd in een beschermd monument als bedoeld in artikel 1, onder d, van de Monumentenwet 1988. 
 
 ### Artikel  5  
 
 1. Een horecalokaliteit is voorzien van een rechtstreeks met de buitenlucht in verbinding staande goed werkende mechanische ventilatie-inrichting met een luchtverversingscapaciteit van 3,8•10<sup>-3</sup> m<sup>3</sup>/s per m<sup>2</sup> vloeroppervlakte.  
-2.  Indien er sprake is van een horecalokaliteit die gevestigd is in een beschermd monument als bedoeld in [artikel 1, onder d, van de Monumentenwet 1988](../../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), kan de burgemeester in afwijking van het bepaalde in [artikel 27 van de Drank- en Horecawet](../../../../../../../../wet/faillissementswet/BWBR0001860/README.md) een vergunning verlenen indien niet wordt voldaan aan het eerste lid, mits de luchtverversing op een andere wijze dan voorzien in het eerste lid wordt gerealiseerd en dit leidt tot een luchtkwaliteit in de horecalokaliteit die vergelijkbaar is met de luchtkwaliteit die zou worden gerealiseerd door middel van de in het eerste lid bedoelde mechanische ventilatie-inrichting. 
+2.  Indien er sprake is van een horecalokaliteit die gevestigd is in een beschermd monument als bedoeld in artikel 1, onder d, van de Monumentenwet 1988, kan de burgemeester in afwijking van het bepaalde in artikel 27 van de Drank- en Horecawet een vergunning verlenen indien niet wordt voldaan aan het eerste lid, mits de luchtverversing op een andere wijze dan voorzien in het eerste lid wordt gerealiseerd en dit leidt tot een luchtkwaliteit in de horecalokaliteit die vergelijkbaar is met de luchtkwaliteit die zou worden gerealiseerd door middel van de in het eerste lid bedoelde mechanische ventilatie-inrichting. 
 
 ### Artikel  6  
 
@@ -82,7 +82,7 @@ b. een of meer behoorlijke voorzieningen om de handen met stromend deugdelijk dr
 
 ### Artikel  8  
 
-Onverminderd het [Bouwbesluit](../../../../../../../../AMvB/bouwbesluit/BWBR0005321/README.md), voldoet een inrichting waarin het slijtersbedrijf wordt uitgeoefend, aan de in artikelen 9 tot en met 11 van het onderhavige besluit vervatte bepalingen. 
+Onverminderd het Bouwbesluit, voldoet een inrichting waarin het slijtersbedrijf wordt uitgeoefend, aan de in artikelen 9 tot en met 11 van het onderhavige besluit vervatte bepalingen. 
 
 ### Artikel  9  
 
@@ -113,7 +113,7 @@ Dit besluit wordt aangehaald als: Besluit eisen inrichtingen Drank- en Horecawet
 
 ### Artikel  14  
 
-Dit besluit treedt in werking op het tijdstip waarop de onderdelen I en N van ARTIKEL I van de [Wet van 13 april 2000, Stb. 184, tot wijziging van de Drank- en Horecawet](../../../../../../../../wet/wijzigingswet/drank-/en/horecawet/BWBR0011300/README.md) in werking treden.  
+Dit besluit treedt in werking op het tijdstip waarop de onderdelen I en N van ARTIKEL I van de Wet van 13 april 2000, Stb. 184, tot wijziging van de Drank- en Horecawet in werking treden.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

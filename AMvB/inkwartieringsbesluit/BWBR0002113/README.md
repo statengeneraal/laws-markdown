@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Oorlog en van Marine van 30 Juni 1953, No. 3963;
 
-Gelet op de [Inkwartieringswet](../../../wet/inkwartieringswet/BWBR0002111/README.md);
+Gelet op de Inkwartieringswet;
 
 De Raad van State gehoord (advies van 7 Juli 1953, La. No. 17);
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:  
 
-a. de wet: de [Inkwartieringswet](../../../wet/inkwartieringswet/BWBR0002111/README.md);  
+a. de wet: de Inkwartieringswet;  
 
 b. Onze Minister: Onze Minister van Defensie.   
 
@@ -28,9 +28,9 @@ b. Onze Minister: Onze Minister van Defensie.
 
 In dit besluit wordt mede verstaan onder: 
 
-a.vordering in eigendom: de in eigendomneming krachtens [artikel 28 der wet](../../../wet/inkwartieringswet/BWBR0002111/README.md), alsmede de beschikbaarstelling in eigendom vanwege de gemeente krachtens [artikel 6 der wet](../../../wet/inkwartieringswet/BWBR0002111/README.md);
+a.vordering in eigendom: de in eigendomneming krachtens artikel 28 der wet, alsmede de beschikbaarstelling in eigendom vanwege de gemeente krachtens artikel 6 der wet;
 
-b.vordering in gebruik: de ingebruikneming krachtens [artikel 28 der wet](../../../wet/inkwartieringswet/BWBR0002111/README.md), alsmede de beschikbaarstelling in gebruik vanwege de gemeente krachtens [artikel 6 der wet](../../../wet/inkwartieringswet/BWBR0002111/README.md).
+b.vordering in gebruik: de ingebruikneming krachtens artikel 28 der wet, alsmede de beschikbaarstelling in gebruik vanwege de gemeente krachtens artikel 6 der wet.
 
 ### Artikel  3  
 
@@ -46,7 +46,7 @@ a.van onroerende zaken, vermeld in de Voorlopige Lijst der Nederlandse Monumente
 b.van onroerende zaken, opgenomen in een door Onze Minister in overeenstemming met Onze Minister, wie het mede aangaat, samengestelde lijst, vermeldende gebouwen welke naar hun inhoud of naar het doel, waarvoor zij gebruikt worden, van wetenschappelijke of culturele betekenis zijn, alsmede gebouwen welke uitsluitend gebruikt worden voor de uitoefening van de openbare eredienst;
 
 c.van terreinen, welke naar het oordeel van de Houtvester van het Staatsbosbeheer uit een oogpunt van natuur- of landschapsschoon of wegens hun betekenis voor de natuurwetenschappen van bijzonder belang zijn.
-2.  Onze in het voorgaande lid genoemde Ministers bepalen in hoeverre in geval van buitengewone omstandigheden, welke gevaar opleveren voor de uit- of inwendige veiligheid van de Staat, van het gestelde in het eerste lid kan worden afgeweken. Daaromtrent worden bij de instructie, bedoeld in het derde lid van [artikel 28 der wet](../../../wet/inkwartieringswet/BWBR0002111/README.md), nadere voorschriften gegeven.
+2.  Onze in het voorgaande lid genoemde Ministers bepalen in hoeverre in geval van buitengewone omstandigheden, welke gevaar opleveren voor de uit- of inwendige veiligheid van de Staat, van het gestelde in het eerste lid kan worden afgeweken. Daaromtrent worden bij de instructie, bedoeld in het derde lid van artikel 28 der wet, nadere voorschriften gegeven.
 
 ### Artikel  5  
 
@@ -69,7 +69,7 @@ Zo min mogelijk worden verstrekkingen gevorderd, waardoor de uitoefening van de 
 
 In dit hoofdstuk wordt verstaan onder: 
 
-a.de commandant: de officieren van de zee-, land- en luchtstrijdkrachten, bedoeld in het [eerste en vierde lid van artikel 28 der wet](../../../wet/inkwartieringswet/BWBR0002111/README.md), alsmede voor wat betreft de eerste afdeling en de tweede paragraaf van de derde afdeling van dit hoofdstuk, degenen die krachtens [artikel 6 der wet](../../../wet/inkwartieringswet/BWBR0002111/README.md) bevoegd zijn een aanvraag te richten tot de burgemeester;
+a.de commandant: de officieren van de zee-, land- en luchtstrijdkrachten, bedoeld in het eerste en vierde lid van artikel 28 der wet, alsmede voor wat betreft de eerste afdeling en de tweede paragraaf van de derde afdeling van dit hoofdstuk, degenen die krachtens artikel 6 der wet bevoegd zijn een aanvraag te richten tot de burgemeester;
 
 b.zomer: het tijdvak van 1 Mei-1 October;
 
@@ -99,12 +99,12 @@ b. verstrekking van collectieve inkwartiering.
 
 ###Artikel 12 
 
-1. Officieren en afzonderlijk reizende militairen worden, met inachtneming van [artikel 14 der wet](../../../wet/inkwartieringswet/BWBR0002111/README.md), zoveel mogelijk individueel ingekwartierd.
+1. Officieren en afzonderlijk reizende militairen worden, met inachtneming van artikel 14 der wet, zoveel mogelijk individueel ingekwartierd.
 2.  Indien de toestand ter plaatse geen voldoende individuele inkwartiering toelaat, kunnen officieren tot de troep behorende ook collectief worden ingekwartierd, met dien verstande dat zij steeds gezamenlijk in een of meer afzonderlijke ruimten moeten kunnen worden ingekwartierd.
 
 ###Artikel 13 
 
-1. Als besmettelijke ziekten in de zin van het [tweede lid van artikel 19 der wet](../../../wet/inkwartieringswet/BWBR0002111/README.md) worden aangemerkt:PestCholeraGele koortsVlektyphus en andere RickettsiosenFebris RecurrensPokken (Variola major en minor)Febris TyphoideaSalmonellosenBacillaire DysenterieAmoeben DysenterieRoodvonkDiphterieMeningitis Cerebrospinalis (Epidemica)Poliomyelitis Anterior AcutaEncephalitis LethargicaLeptospirosenOrnithosisHepatitis InfectiosaOpen longtuberculose.
+1. Als besmettelijke ziekten in de zin van het tweede lid van artikel 19 der wet worden aangemerkt:PestCholeraGele koortsVlektyphus en andere RickettsiosenFebris RecurrensPokken (Variola major en minor)Febris TyphoideaSalmonellosenBacillaire DysenterieAmoeben DysenterieRoodvonkDiphterieMeningitis Cerebrospinalis (Epidemica)Poliomyelitis Anterior AcutaEncephalitis LethargicaLeptospirosenOrnithosisHepatitis InfectiosaOpen longtuberculose.
 2.  Onder gebouwen, waarin een besmettelijke ziekte heerst, worden mede begrepen gebouwen waarin een kiemdrager verblijft van:Febris TyphoideaSalmonellosenBacillaire DysenterieAmoeben Dysenterie.
 
 ### Afdeling  2  
@@ -226,7 +226,7 @@ e. lokalen geschikt tot het onderbrengen van arrestanten.
 
 ###Artikel 27 
 
-De commandant kan boven de verstrekkingen omschreven in dit hoofdstuk, doch binnen de grenzen bij [artikel 3 der wet](../../../wet/inkwartieringswet/BWBR0002111/README.md) bepaald, nog meer verstrekkingen vorderen of aanvragen, welke hij nodig oordeelt ter voorziening in de behoeften aan inkwartiering en onderhoud.
+De commandant kan boven de verstrekkingen omschreven in dit hoofdstuk, doch binnen de grenzen bij artikel 3 der wet bepaald, nog meer verstrekkingen vorderen of aanvragen, welke hij nodig oordeelt ter voorziening in de behoeften aan inkwartiering en onderhoud.
 
 ### Afdeling  4  
 
@@ -294,7 +294,7 @@ Zonodig worden terreinen tot het plaatsen van veldkeukens beschikbaar gesteld, a
 
 ###Artikel 36 
 
-Degene, die in opdracht van Onze Minister de maatregelen, bedoeld [onder b van artikel 30 der wet](../../../wet/inkwartieringswet/BWBR0002111/README.md), treft, pleegt terzake daarvan zoveel mogelijk overleg met de eigenaar of de gebruiker van het gebouw of het terrein, alsmede met de burgemeester van de gemeente, binnen welker grenzen het gebouw of het terrein is gelegen.
+Degene, die in opdracht van Onze Minister de maatregelen, bedoeld onder b van artikel 30 der wet, treft, pleegt terzake daarvan zoveel mogelijk overleg met de eigenaar of de gebruiker van het gebouw of het terrein, alsmede met de burgemeester van de gemeente, binnen welker grenzen het gebouw of het terrein is gelegen.
 
 ### Hoofdstuk  IV  
 
@@ -306,8 +306,8 @@ Degene, die in opdracht van Onze Minister de maatregelen, bedoeld [onder b van a
 
 ###Artikel 37 
 
-1. Indien aan een algemene vordering van motorrijtuigen - niet zijnde die voor mechanisch grondverzet - een voorbereiding, overeenkomstig de [artikelen 36 tot en met 40 van de wet](../../../wet/inkwartieringswet/BWBR0002111/README.md), voorafgaat, geschieden die voorbereiding en de algemene vordering met inachtneming van de bepalingen van de afdelingen 2 tot en met 9 van dit hoofdstuk.
-2.  Indien aan een algemene vordering van motorrijtuigen - niet zijnde die voor mechanisch grondverzet - geen voorbereiding, overeenkomstig de [artikelen 36 tot en met 40 van de wet](../../../wet/inkwartieringswet/BWBR0002111/README.md), is voorafgegaan, geschiedt die algemene vordering met inachtneming van de bepalingen van de afdeling 10 van dit hoofdstuk.
+1. Indien aan een algemene vordering van motorrijtuigen - niet zijnde die voor mechanisch grondverzet - een voorbereiding, overeenkomstig de artikelen 36 tot en met 40 van de wet, voorafgaat, geschieden die voorbereiding en de algemene vordering met inachtneming van de bepalingen van de afdelingen 2 tot en met 9 van dit hoofdstuk.
+2.  Indien aan een algemene vordering van motorrijtuigen - niet zijnde die voor mechanisch grondverzet - geen voorbereiding, overeenkomstig de artikelen 36 tot en met 40 van de wet, is voorafgegaan, geschiedt die algemene vordering met inachtneming van de bepalingen van de afdeling 10 van dit hoofdstuk.
 
 ### Artikel  38  
 
@@ -533,7 +533,7 @@ De keuringscommissaris stelt de burgemeester in kennis van de voorzieningen, wel
 ###Artikel 72 
 
 1. De houder van een motorrijtuig, hetwelk ingevolge het bepaalde bij het eerste lid van artikel 70 op de verzamelplaats in de gemeente aanwezig moet zijn, draagt zorg dat het motorrijtuig in bedrijfsvaardige toestand verkeert, voorzien van behoorlijk gevulde benzinetanks en bij het motorrijtuig behorende reservewiel(en) met binnen- en buitenband(en).
-2.  De lastgeving en het kentekenbewijs, bedoeld in [artikel 36 van de Wegenverkeerswet 1994](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), dienen eveneens medegebracht te worden.
+2.  De lastgeving en het kentekenbewijs, bedoeld in artikel 36 van de Wegenverkeerswet 1994, dienen eveneens medegebracht te worden.
 
 ### Artikel  73  
 
@@ -592,7 +592,7 @@ Indien te voorzien is, dat geen openbare middelen van vervoer aanwezig zullen zi
 
 ###Artikel 82 
 
-1. Indien een algemene vordering van motorrijtuigen in de zin van [artikel 61 der wet](../../../wet/inkwartieringswet/BWBR0002111/README.md) plaats heeft, wordt het motorrijtuig in afwijking van artikel 76 na de aanbieding niet in eigendom overgenomen.
+1. Indien een algemene vordering van motorrijtuigen in de zin van artikel 61 der wet plaats heeft, wordt het motorrijtuig in afwijking van artikel 76 na de aanbieding niet in eigendom overgenomen.
 2.  De commandant van het onderdeel, waaraan het motorrijtuig is aangeboden, stelt op de desbetreffende lastgeving een verklaring, dat het motorrijtuig op de plaats van bestemming is verschenen.
 3.  Ter verkrijging van de schadeloosstelling dient de houder binnen veertien dagen na de dag, waarop de proefvordering plaats vond, een declaratie bij de burgemeester in te dienen onder overlegging van de lastgeving, voorzien van de in het voorgaande lid bedoelde verklaring.
 4.  De burgemeester zendt de declaratie, na deze voor gezien en accoord te hebben getekend, binnen vier weken na de dag, waarop de proefvordering plaats vond, aan de vorderingscommissaris-motorrijtuigen.
@@ -623,8 +623,8 @@ Onder roerende zaken in de zin van dit hoofdstuk zijn niet begrepen motorrijtuig
 
 ###Artikel 82c 
 
-1. Indien aan een algemene vordering van roerende zaken een voorbereiding, overeenkomstig de [artikelen 36 tot en met 40 van de wet](../../../wet/inkwartieringswet/BWBR0002111/README.md), voorafgaat, geschieden die voorbereiding en de algemene vordering met inachtneming van de bepalingen van de afdelingen 2 tot en met 7 van dit hoofdstuk.
-2.  Indien aan een algemene vordering van roerende zaken geen voorbereiding, overeenkomstig de [artikelen 36 tot en met 40 van de wet](../../../wet/inkwartieringswet/BWBR0002111/README.md) is voorafgegaan, geschiedt die vordering met inachtneming van de bepalingen van de afdeling 8 van dit hoofdstuk.
+1. Indien aan een algemene vordering van roerende zaken een voorbereiding, overeenkomstig de artikelen 36 tot en met 40 van de wet, voorafgaat, geschieden die voorbereiding en de algemene vordering met inachtneming van de bepalingen van de afdelingen 2 tot en met 7 van dit hoofdstuk.
+2.  Indien aan een algemene vordering van roerende zaken geen voorbereiding, overeenkomstig de artikelen 36 tot en met 40 van de wet is voorafgegaan, geschiedt die vordering met inachtneming van de bepalingen van de afdeling 8 van dit hoofdstuk.
 
 ### Artikel  82d  
 
@@ -838,7 +838,7 @@ De schadeloosstelling voor het voldoen aan een vordering in gebruik van een roer
 
 ###Artikel 89 
 
-De vergoeding voor het voldoen aan een vordering tot het verrichten van enkele diensten, bedoeld in [artikel 3 der wet](../../../wet/inkwartieringswet/BWBR0002111/README.md), wordt vastgesteld op het daarvoor algemeen geldende tarief.
+De vergoeding voor het voldoen aan een vordering tot het verrichten van enkele diensten, bedoeld in artikel 3 der wet, wordt vastgesteld op het daarvoor algemeen geldende tarief.
 
 ### Artikel  90  
 
@@ -870,7 +870,7 @@ Onze Minister is bevoegd van de bepalingen van dit hoofdstuk, behoudens het voor
 
 ###Artikel 95 
 
-1. Aan de tarieven, welke Onze Minister ingevolge het derde lid van [artikel 11](../../../wet/inkwartieringswet/BWBR0002111/README.md) en het [eerste lid van artikel 44 der wet](../../../wet/inkwartieringswet/BWBR0002111/README.md) vaststelt, dienen de bepalingen van de eerste afdeling van dit hoofdstuk ten grondslag te liggen, met dien verstande dat bij de vaststelling wordt uitgegaan van krachtens de wet gedane verstrekkingen van deugdelijke hoedanigheid en normale aard.
+1. Aan de tarieven, welke Onze Minister ingevolge het derde lid van artikel 11 en het eerste lid van artikel 44 der wet vaststelt, dienen de bepalingen van de eerste afdeling van dit hoofdstuk ten grondslag te liggen, met dien verstande dat bij de vaststelling wordt uitgegaan van krachtens de wet gedane verstrekkingen van deugdelijke hoedanigheid en normale aard.
 2.  In de tarieven is niet begrepen een schadeloosstelling voor bedrijfsschade en buitengewone waardevermindering, noch een vergoeding van de kosten, bedoeld in artikel 91, tenzij het tegendeel is vermeld.
 
 ### Afdeling  3  
@@ -884,11 +884,11 @@ Onze Minister is bevoegd van de bepalingen van dit hoofdstuk, behoudens het voor
 
 ###Artikel 97 
 
-De schadeloosstelling, bedoeld in [artikel 48 der wet](../../../wet/inkwartieringswet/BWBR0002111/README.md), wordt, voorzover deze betrekking heeft op motorrijtuigen, aan de hand van de gegevens van het rapport, bedoeld in artikel 53 dan wel artikel 82a, vierde lid, met overeenkomstige toepassing van artikel 84 vastgesteld op de vervangingswaarde op het tijdstip van de taxatie.
+De schadeloosstelling, bedoeld in artikel 48 der wet, wordt, voorzover deze betrekking heeft op motorrijtuigen, aan de hand van de gegevens van het rapport, bedoeld in artikel 53 dan wel artikel 82a, vierde lid, met overeenkomstige toepassing van artikel 84 vastgesteld op de vervangingswaarde op het tijdstip van de taxatie.
 
 ###Artikel 98 
 
-1. Indien de houder van een motorrijtuig tengevolge van de maatregelen, bedoeld in de derde en zevende afdeling van het vierde hoofdstuk van dit besluit, dan wel ten gevolge van een algemene vordering van motorrijtuigen in de zin van [artikel 61 der wet](../../../wet/inkwartieringswet/BWBR0002111/README.md), schade heeft geleden, wordt hem een schadeloosstelling verleend overeenkomstig een daarvoor door Onze Minister vastgesteld tarief.
+1. Indien de houder van een motorrijtuig tengevolge van de maatregelen, bedoeld in de derde en zevende afdeling van het vierde hoofdstuk van dit besluit, dan wel ten gevolge van een algemene vordering van motorrijtuigen in de zin van artikel 61 der wet, schade heeft geleden, wordt hem een schadeloosstelling verleend overeenkomstig een daarvoor door Onze Minister vastgesteld tarief.
 2.  Dit tarief omvat een vergoeding voor het aantal verreden kilometers en een vergoeding gebaseerd op het loon van een bestuurder van een motorrijtuig.
 
 ### Artikel  98a  
@@ -897,7 +897,7 @@ Indien tengevolge van een keuring ter plaatse waar de zaken zich bevinden, als b
 
 ###Artikel 99 
 
-De als rechtstreeks en onvermijdelijk gevolg van de maatregelen, bedoeld in [artikel 30 onder a en b van de wet](../../../wet/inkwartieringswet/BWBR0002111/README.md), geleden schade en gemaakte kosten worden vergoed.
+De als rechtstreeks en onvermijdelijk gevolg van de maatregelen, bedoeld in artikel 30 onder a en b van de wet, geleden schade en gemaakte kosten worden vergoed.
 
 ### Artikel  100  
 
@@ -917,15 +917,15 @@ De kosten, welke de gemeente ingevolge artikel 25 heeft gemaakt, worden vergoed.
 
 ###Artikel 103 
 
-De vaststelling van de schadeloosstelling ingevolge het [vierde lid van artikel 11 der wet](../../../wet/inkwartieringswet/BWBR0002111/README.md) geschiedt door de burgemeester met inachtneming van de bepalingen van dit hoofdstuk, met dien verstande dat schadeloosstellingen terzake van bedrijfsschade, welke meer bedragen dan een bedrag naar reden van € 2 270 per jaar, voorafgaande goedkeuring van Onze Minister behoeven.
+De vaststelling van de schadeloosstelling ingevolge het vierde lid van artikel 11 der wet geschiedt door de burgemeester met inachtneming van de bepalingen van dit hoofdstuk, met dien verstande dat schadeloosstellingen terzake van bedrijfsschade, welke meer bedragen dan een bedrag naar reden van € 2 270 per jaar, voorafgaande goedkeuring van Onze Minister behoeven.
 
 ###Artikel 104 
 
-De vaststelling en uitkering van de schadeloosstelling ingevolge het [derde lid van artikel 44 der wet](../../../wet/inkwartieringswet/BWBR0002111/README.md) geschiedt, voorzover zij niet strekt tot vergoeding van geleden bedrijfsschade, door daartoe door Onze Minister aangewezen officieren.
+De vaststelling en uitkering van de schadeloosstelling ingevolge het derde lid van artikel 44 der wet geschiedt, voorzover zij niet strekt tot vergoeding van geleden bedrijfsschade, door daartoe door Onze Minister aangewezen officieren.
 
 ###Artikel 105 
 
-1. De vaststelling en uitkering van de schadeloosstelling ingevolge het [derde lid van artikel 44 der wet](../../../wet/inkwartieringswet/BWBR0002111/README.md) geschiedt, voorzover zij strekt tot vergoeding van geleden bedrijfsschade, door Onze Minister.
+1. De vaststelling en uitkering van de schadeloosstelling ingevolge het derde lid van artikel 44 der wet geschiedt, voorzover zij strekt tot vergoeding van geleden bedrijfsschade, door Onze Minister.
 2. Vervallen.
 3.  Onze Minister is bevoegd de vaststelling en uitkering van de schadeloosstelling, bedoeld in het eerste lid, op te dragen aan de in het voorgaande artikel bedoelde officieren, tenzij de schadeloosstelling meer bedraagt dan een bedrag naar reden van € 2 270 per jaar.
 
@@ -1021,7 +1021,7 @@ e. zich schuldig maakt aan gedragingen waardoor zijn genezing wordt belemmerd.
 
 ###Artikel 117 
 
-1. Ten laste van het Rijk komen de kosten van noodzakelijke genees- en heelkundige behandeling van de getroffene terzake van tijdelijke of blijvende vermindering van arbeidsgeschiktheid als gevolg van het voldoen aan een vordering krachtens [de wet](../../../wet/inkwartieringswet/BWBR0002111/README.md) of de medewerking aan het voldoen, alsmede de redelijke kosten van lijkbezorging van de overledene, welke ten laste van de nabestaanden zouden komen.
+1. Ten laste van het Rijk komen de kosten van noodzakelijke genees- en heelkundige behandeling van de getroffene terzake van tijdelijke of blijvende vermindering van arbeidsgeschiktheid als gevolg van het voldoen aan een vordering krachtens de wet of de medewerking aan het voldoen, alsmede de redelijke kosten van lijkbezorging van de overledene, welke ten laste van de nabestaanden zouden komen.
 2.  Onder geneeskundige behandeling worden mede begrepen: tandheelkundige behandeling, verpleging in een ziekeninrichting, ziekenvervoer, alsmede verstrekking van genees- en verbandmiddelen en medische kunst- of hulpmiddelen.
 3.  De kosten, bedoeld in het eerste lid, komen niet ten laste van het Rijk, indien en voor zover uit hoofde van een wettelijke of andere algemene regeling aanspraken op genees- en heelkundige behandeling of op vergoeding van de daaraan verbonden kosten geldend gemaakt kunnen worden.
 4.  Het in artikel 112 ten aanzien van de uitkering bepaalde is eveneens van toepassing op de kosten, bedoeld in het eerste lid van dit artikel.
@@ -1045,7 +1045,7 @@ De verplichtingen, welke op grond van de artikelen 43 M-71 M van het Koninklijk 
 
 ###Artikel 121 
 
-Indien na de inwerkingtreding van dit besluit de maatregelen, bedoeld in de afdelingen 3-7 van het vierde hoofdstuk, nog niet zijn getroffen, kan niettemin een algemene vordering van motorrijtuigen in de zin van [artikel 61 der wet](../../../wet/inkwartieringswet/BWBR0002111/README.md) plaats vinden, met dien verstande dat een lastgeving als bedoeld in artikel 62 aan de houders dient te zijn uitgereikt.
+Indien na de inwerkingtreding van dit besluit de maatregelen, bedoeld in de afdelingen 3-7 van het vierde hoofdstuk, nog niet zijn getroffen, kan niettemin een algemene vordering van motorrijtuigen in de zin van artikel 61 der wet plaats vinden, met dien verstande dat een lastgeving als bedoeld in artikel 62 aan de houders dient te zijn uitgereikt.
 
 ### Artikel  122  
 
@@ -1057,7 +1057,7 @@ Dit besluit treedt in werking met ingang van 1 Augustus 1953.
 
 ### Artikel  124  
 
-Gelijktijdig met dit besluit treedt de [Inkwartieringswet](../../../wet/inkwartieringswet/BWBR0002111/README.md) in werking. 
+Gelijktijdig met dit besluit treedt de Inkwartieringswet in werking. 
 
 Onze Ministers van Oorlog, van Marine, van Binnenlandse Zaken en van Financiën zijn, ieder voor zoveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.   
 

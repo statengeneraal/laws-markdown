@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om de scholing van werknemers en kinderopvang mede langs fiscale weg verder te bevorderen, de afdrachtvermindering en de doorstroomafdrachtvermindering lage lonen te verhogen in het kader van de compensatie van bedrijven voor de lastenverzwaring die voortvloeit uit de verhoging van de regulerende energiebelasting, alsmede om het van toepassing zijnde voltijdscriterium voor de verschillende afdrachtverminderingen met elkaar in overeenstemming te brengen en daartoe de [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../../../../../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) en de Wet op de inkomstenbelasting 1964 te wijzigen; 
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om de scholing van werknemers en kinderopvang mede langs fiscale weg verder te bevorderen, de afdrachtvermindering en de doorstroomafdrachtvermindering lage lonen te verhogen in het kader van de compensatie van bedrijven voor de lastenverzwaring die voortvloeit uit de verhoging van de regulerende energiebelasting, alsmede om het van toepassing zijnde voltijdscriterium voor de verschillende afdrachtverminderingen met elkaar in overeenstemming te brengen en daartoe de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen en de Wet op de inkomstenbelasting 1964 te wijzigen; 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### ARTIKEL  I  
@@ -23,7 +23,7 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ### ARTIKEL  IV  
 
-In afwijking van [artikel 6, tweede lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../../../../../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) wordt met betrekking tot de werknemer voor wie de inhoudingsplichtige op 31 december 1998 in aanmerking kwam voor de afdrachtvermindering langdurig werklozen voor de toepassing van [artikel 6, eerste lid, van die wet](../../../../../../../../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) de volledige arbeidsduur voor een kalenderweek gesteld op 32 uren. De eerste volzin is niet van toepassing ingeval de werknemer nadien opnieuw een dienstbetrekking met de inhoudingsplichtige aangaat.  
+In afwijking van artikel 6, tweede lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen wordt met betrekking tot de werknemer voor wie de inhoudingsplichtige op 31 december 1998 in aanmerking kwam voor de afdrachtvermindering langdurig werklozen voor de toepassing van artikel 6, eerste lid, van die wet de volledige arbeidsduur voor een kalenderweek gesteld op 32 uren. De eerste volzin is niet van toepassing ingeval de werknemer nadien opnieuw een dienstbetrekking met de inhoudingsplichtige aangaat.  
 
 ### ARTIKEL  V  
 

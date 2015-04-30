@@ -282,33 +282,33 @@ Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.
 
 ### ARTIKEL  LVIII  
 
-[Artikel 12, tweede lid, van de Wet op de rechterlijke organisatie](../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), zoals luidende voor de inwerkingtreding van de onderhavige wet, blijft van toepassing onderscheidenlijk is van overeenkomstige toepassing op de voor het leven benoemde rechterlijk ambtenaar aan wie op grond van arbeidsongeschiktheid wegens ziekte of gebreken voor die inwerkingtreding ontslag is verleend of te wiens aanzien voor die inwerkingtreding de aan zodanig ontslag voorafgaande procedure in gang is gezet. 
+Artikel 12, tweede lid, van de Wet op de rechterlijke organisatie, zoals luidende voor de inwerkingtreding van de onderhavige wet, blijft van toepassing onderscheidenlijk is van overeenkomstige toepassing op de voor het leven benoemde rechterlijk ambtenaar aan wie op grond van arbeidsongeschiktheid wegens ziekte of gebreken voor die inwerkingtreding ontslag is verleend of te wiens aanzien voor die inwerkingtreding de aan zodanig ontslag voorafgaande procedure in gang is gezet. 
 
 ### ARTIKEL  LIX  
 
-In afwijking van artikel XIII, onderdeel B, blijft artikel 3, tiende lid, van de [Toeslagwet Indonesische pensioenen 1956](../../../../../wet/toeslagwet/indonesische/pensioenen/1956/BWBR0002251/README.md), zoals die luidde op 31 december 1994, gelden ten aanzien van uitbetaling betreffende een periode voor 1 januari 1995 van pensioenen of uitkeringen als bedoeld in artikel 2, eerste lid, onderdelen *c* en *d*, en tweede lid, van die wet. 
+In afwijking van artikel XIII, onderdeel B, blijft artikel 3, tiende lid, van de Toeslagwet Indonesische pensioenen 1956, zoals die luidde op 31 december 1994, gelden ten aanzien van uitbetaling betreffende een periode voor 1 januari 1995 van pensioenen of uitkeringen als bedoeld in artikel 2, eerste lid, onderdelen *c* en *d*, en tweede lid, van die wet. 
 
 ### ARTIKEL  LX  
 
-In afwijking van artikel XIV, onderdeel A, blijft [artikel 4 van de Samenloopregeling Indonesische pensioenen 1960](../../../../../wet/samenloopregeling/indonesische/pensioenen/1960/BWBR0002414/README.md), zoals die luidde op 31 december 1995, gelden ten aanzien van uitbetaling betreffende een periode voor 1 januari 1996 van pensioenen als bedoeld in artikel 1, onder 2, van die wet. 
+In afwijking van artikel XIV, onderdeel A, blijft artikel 4 van de Samenloopregeling Indonesische pensioenen 1960, zoals die luidde op 31 december 1995, gelden ten aanzien van uitbetaling betreffende een periode voor 1 januari 1996 van pensioenen als bedoeld in artikel 1, onder 2, van die wet. 
 
 ### ARTIKEL  LXI  
 
-1.  In afwijking van artikel XV, onderdeel E, blijft [artikel 12 van de Wet aanpassing pensioenvoorzieningen Bijstandkorps](../../../../../wet/wet/aanpassing/pensioenvoorzieningen/bijstandkorps/BWBR0002507/README.md), zoals die luidde op 31 december 1995, gelden ten aanzien van uitbetaling betreffende een periode voor 1 januari 1996 van pensioenen als bedoeld in artikel 1, onderdeel *a*, van die wet.   
-2.  In afwijking van artikel XV, onderdeel F, blijft [artikel 30, tweede tot en met vierde lid, van de Wet aanpassing pensioenvoorzieningen Bijstandkorps](../../../../../wet/wet/aanpassing/pensioenvoorzieningen/bijstandkorps/BWBR0002507/README.md), zoals die luidde op 31 december 1994, gelden ten aanzien van uitbetaling betreffende een periode voor 1 januari 1995 van pensioenen als bedoeld in artikel 1, onderdeel *a*, van die wet.   
+1.  In afwijking van artikel XV, onderdeel E, blijft artikel 12 van de Wet aanpassing pensioenvoorzieningen Bijstandkorps, zoals die luidde op 31 december 1995, gelden ten aanzien van uitbetaling betreffende een periode voor 1 januari 1996 van pensioenen als bedoeld in artikel 1, onderdeel *a*, van die wet.   
+2.  In afwijking van artikel XV, onderdeel F, blijft artikel 30, tweede tot en met vierde lid, van de Wet aanpassing pensioenvoorzieningen Bijstandkorps, zoals die luidde op 31 december 1994, gelden ten aanzien van uitbetaling betreffende een periode voor 1 januari 1995 van pensioenen als bedoeld in artikel 1, onderdeel *a*, van die wet.   
 
 ### ARTIKEL  LXII  
 
-1.  De Stichting Pensioenfonds ABP kent aan overheidswerkgevers in de zin van [artikel 1, onder *m*, van de Wet privatisering ABP](../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) een reductie van de door hen verschuldigde pensioenbijdrage toe, die niet van invloed is op het verhaal van een deel van die pensioenbijdrage op de overheidswerknemers in de zin van die wet.   
-2.  De in het eerste lid bedoelde reductie wordt door Onze Minister van Binnenlandse Zaken vastgesteld overeenkomstig [artikel 43, tweede lid, van de Wet financiële voorzieningen privatisering ABP](../../../../../wet/wet/financiële/voorzieningen/privatisering/abp/BWBR0007211/README.md), zoals die wet luidde de dag voorafgaand aan de inwerkingtreding van deze wet.  
+1.  De Stichting Pensioenfonds ABP kent aan overheidswerkgevers in de zin van artikel 1, onder *m*, van de Wet privatisering ABP een reductie van de door hen verschuldigde pensioenbijdrage toe, die niet van invloed is op het verhaal van een deel van die pensioenbijdrage op de overheidswerknemers in de zin van die wet.   
+2.  De in het eerste lid bedoelde reductie wordt door Onze Minister van Binnenlandse Zaken vastgesteld overeenkomstig artikel 43, tweede lid, van de Wet financiële voorzieningen privatisering ABP, zoals die wet luidde de dag voorafgaand aan de inwerkingtreding van deze wet.  
 
 ### ARTIKEL  LXIII  
 
-Bij de toepassing van [artikel 55 van de Wet privatisering ABP](../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) wordt ten aanzien van de militaire nabestaandenpensioenen uitvoering gegeven aan de Algemene militaire pensioenwet, zoals die luidde op 31 december 1995, met dien verstande dat ten aanzien van de artikelen J 2 en L 1 van de laatstgenoemde wet wordt uitgegaan van die wet zoals deze luidt na de inwerkingtreding van deze wet. 
+Bij de toepassing van artikel 55 van de Wet privatisering ABP wordt ten aanzien van de militaire nabestaandenpensioenen uitvoering gegeven aan de Algemene militaire pensioenwet, zoals die luidde op 31 december 1995, met dien verstande dat ten aanzien van de artikelen J 2 en L 1 van de laatstgenoemde wet wordt uitgegaan van die wet zoals deze luidt na de inwerkingtreding van deze wet. 
 
 ### ARTIKEL  LXIV  
 
-[Artikel 62, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van deze wet, blijft van toepassing ten aanzien van de persoon die voor 1 januari 1996 is bemiddeld door het Algemeen burgerlijk pensioenfonds. 
+Artikel 62, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van deze wet, blijft van toepassing ten aanzien van de persoon die voor 1 januari 1996 is bemiddeld door het Algemeen burgerlijk pensioenfonds. 
 
 ### ARTIKEL  LXV  
 

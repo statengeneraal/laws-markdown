@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 20 oktober 1993, Stafafdeling Wetgeving Puliekrecht nr. 401654/93/6, gedaan mede namens de Staatssecretaris van Justitie;
 
-Gelet op de [artikelen 12](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) en [28 van de Wet op de rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md);
+Gelet op de artikelen 12 en 28 van de Wet op de rechtsbijstand;
 
 De Raad van State gehoord (advies van 24 december 1993, no. W03.93.0705);
 
@@ -17,13 +17,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:  
 
-a. de wet: de [Wet op de rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md);  
+a. de wet: de Wet op de rechtsbijstand;  
 
 b. belang: het belang voor de behartiging waarvan de rechtzoekende rechtsbijstand verzoekt voorzover dat belang hem rechtstreeks en individueel aangaat.   
 
 ###Artikel 2 
 
-Rechtsbijstand kan worden verleend indien de aanvraag daartoe voldoet aan de in de [wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) gestelde criteria en rechtsbijstand op grond van dit besluit niet is uitgesloten.
+Rechtsbijstand kan worden verleend indien de aanvraag daartoe voldoet aan de in de wet gestelde criteria en rechtsbijstand op grond van dit besluit niet is uitgesloten.
 
 ###Artikel 3 
 
@@ -46,8 +46,8 @@ f.dat betrekking heeft op een tweede of volgende aanvraag tot verlening van een 
 1.  Rechtsbijstand bestaande uit het geven van eenvoudig rechtskundig advies wordt, als zijnde van onvoldoende belang, niet verleend indien het op geld waardeerbare belang blijft beneden een bedrag van € 250,–.   
 2.   Rechtsbijstand op basis van een toevoeging anders dan ten behoeve van eenvoudig rechtskundig advies wordt, als zijnde van onvoldoende belang, niet verleend indien het op geld waardeerbare belang blijft beneden een bedrag van € 500,–.   
 3.   Indien de rechtsbijstand betrekking heeft op een beroep in cassatie wordt de toevoeging geweigerd indien het op geld waardeerbare belang blijft beneden een bedrag van € 1.000,–.   
-4.  Indien de rechtsbijstand betrekking heeft op een beroep in cassatie in een strafzaak uitsluitend betreffende een of meer overtredingen wordt jegens de verdachte de toevoeging geweigerd, indien met toepassing van [artikel 9a van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) geen straf of maatregel werd opgelegd of geen andere straf of maatregel werd opgelegd dan een geldboete tot een maximum – of, wanneer bij het vonnis twee of meer geldboetes zijn opgelegd, tot een gezamenlijke maximum – van € 250,–.   
-5.  In afwijking van het vierde lid wordt in de gevallen, bedoeld in de [artikelen 404, derde lid](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [427, derde lid, van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), een toevoeging verleend ongeacht de hoogte van het op geld waardeerbare belang.    
+4.  Indien de rechtsbijstand betrekking heeft op een beroep in cassatie in een strafzaak uitsluitend betreffende een of meer overtredingen wordt jegens de verdachte de toevoeging geweigerd, indien met toepassing van artikel 9a van het Wetboek van Strafrecht geen straf of maatregel werd opgelegd of geen andere straf of maatregel werd opgelegd dan een geldboete tot een maximum – of, wanneer bij het vonnis twee of meer geldboetes zijn opgelegd, tot een gezamenlijke maximum – van € 250,–.   
+5.  In afwijking van het vierde lid wordt in de gevallen, bedoeld in de artikelen 404, derde lid, en 427, derde lid, van het Wetboek van Strafvordering, een toevoeging verleend ongeacht de hoogte van het op geld waardeerbare belang.    
 6.   Indien het belang bestaat uit een periodiek te betalen of te ontvangen waarde, wordt het belang gesteld op de waarde van de betaling of ontvangst, vermenigvuldigd met het aantal malen dat deze waarde moet worden betaald dan wel ontvangen in een periode van ten hoogste twee jaar.   
 7.  In afwijking van het eerste tot en met vierde lid kan rechtsbijstand of een toevoeging worden verleend indien zwaarwegende belangen van de rechtzoekende dit rechtvaardigen, of indien zwaarwegende persoonlijke omstandigheden van de rechtzoekende dit rechtvaardigen in het belang van een effectieve toegang tot het recht.  
 
@@ -58,7 +58,7 @@ f.dat betrekking heeft op een tweede of volgende aanvraag tot verlening van een 
 
 ### Artikel  6  
 
-1.  Voor rechtsbijstand in zaken betreffende [Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) wordt geen toevoeging verleend:  
+1.  Voor rechtsbijstand in zaken betreffende Boek 1 van het Burgerlijk Wetboek wordt geen toevoeging verleend:  
 
 a. indien de kantonrechter bevoegd is van het verzoek, de vordering of het verweer kennis te nemen,  
 
@@ -67,7 +67,7 @@ b. indien de aanvraag betrekking heeft op wijziging van de geslachtsnaam of wijz
 
 a. indien de bijzondere feitelijke of juridische ingewikkeldheid van het geval dat vereist of,  
 
-b. indien de rechtzoekende verweerder is in een procedure als bedoeld in de [artikelen 378](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [431 van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).    
+b. indien de rechtzoekende verweerder is in een procedure als bedoeld in de artikelen 378 en 431 van Boek 1 van het Burgerlijk Wetboek.    
 
 ###Artikel 7 
 
@@ -77,7 +77,7 @@ Voor rechtsbijstand terzake van het treffen van een afbetalingsregeling, het aan
 
 1.  Geen toevoeging wordt verleend indien de rechtsbijstand uitsluitend is verzocht voor:  
 
-a. het indienen van aanvragen om toelating tot Nederland op grond van [afdeling 3 van hoofdstuk 3 van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), tenzij de rechtzoekende met onmiddellijke uitzetting of inbewaringstelling wordt bedreigd;  
+a. het indienen van aanvragen om toelating tot Nederland op grond van afdeling 3 van hoofdstuk 3 van de Vreemdelingenwet 2000, tenzij de rechtzoekende met onmiddellijke uitzetting of inbewaringstelling wordt bedreigd;  
 
 b. het aanvragen van een uitkering;  
 

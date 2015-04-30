@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de inwerkingtreding van de [Douanewet](../../../../wet/douanewet/BWBR0007632/README.md) te regelen en in verband daarmee de bestaande wetten inzake de douane in te trekken alsmede de [Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de [Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en andere wetten aan te passen; 
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de inwerkingtreding van de Douanewet te regelen en in verband daarmee de bestaande wetten inzake de douane in te trekken alsmede de Algemene wet inzake rijksbelastingen, de Invorderingswet 1990 en andere wetten aan te passen; 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 
 ### Artikel  I  
@@ -236,20 +236,20 @@ b. bezwaar- of beroepsprocedures met betrekking tot beschikkingen van bestuursor
 c. strafbare feiten en feiten die aanleiding kunnen zijn tot het opleggen van een administratieve boete welke zich hebben voorgedaan vóór de dag van de inwerkingtreding van deze wet;   
 
 d. de invordering van betalingen die verschuldigd zijn geworden vóór de dag van de inwerkingtreding van deze wet.      
-2.   Zekerheid die vóór de inwerkingtreding van deze wet is gesteld voor de nakoming van verplichtingen voortvloeiende uit de bij artikel LIV ingetrokken wetten, de bij deze wet gewijzigde wetten alsmede de daarop berustende bepalingen, wordt, voor zover die zekerheid niet wordt gewijzigd of opgeheven, geacht mede te zijn gesteld voor de nakoming van overeenkomstige verplichtingen die voortvloeien uit wettelijke bepalingen in de zin van [artikel 2, tweede lid, onderdeel *a*, van de Douanewet](../../../../wet/douanewet/BWBR0007632/README.md) en de bij deze wet gewijzigde wetten.   
+2.   Zekerheid die vóór de inwerkingtreding van deze wet is gesteld voor de nakoming van verplichtingen voortvloeiende uit de bij artikel LIV ingetrokken wetten, de bij deze wet gewijzigde wetten alsmede de daarop berustende bepalingen, wordt, voor zover die zekerheid niet wordt gewijzigd of opgeheven, geacht mede te zijn gesteld voor de nakoming van overeenkomstige verplichtingen die voortvloeien uit wettelijke bepalingen in de zin van artikel 2, tweede lid, onderdeel *a*, van de Douanewet en de bij deze wet gewijzigde wetten.   
 
 ### Artikel  LVI  
 
-1.  Vergunningen die zijn afgegeven krachtens de Wet inzake de douane of krachtens de bij artikel XXXVII van deze wet vervallen bepalingen van de [In- en uitvoerwet](../../../../wet/in-/en/uitvoerwet/BWBR0002376/README.md) worden tot wederopzegging, doch uiterlijk tot en met de laatste dag van het tijdvak van twaalf maanden dat ingaat op de dag van de inwerkingtreding van deze wet, aangemerkt als te zijn verleend op grond van wettelijke bepalingen in de zin van [artikel 2, tweede lid, onderdeel *a*, van de Douanewet](../../../../wet/douanewet/BWBR0007632/README.md).    
-2.   Bij ministeriële regeling kunnen nadere overgangsbepalingen worden vastgesteld in verband met de inwerkingtreding van de [Douanewet](../../../../wet/douanewet/BWBR0007632/README.md).   
+1.  Vergunningen die zijn afgegeven krachtens de Wet inzake de douane of krachtens de bij artikel XXXVII van deze wet vervallen bepalingen van de In- en uitvoerwet worden tot wederopzegging, doch uiterlijk tot en met de laatste dag van het tijdvak van twaalf maanden dat ingaat op de dag van de inwerkingtreding van deze wet, aangemerkt als te zijn verleend op grond van wettelijke bepalingen in de zin van artikel 2, tweede lid, onderdeel *a*, van de Douanewet.    
+2.   Bij ministeriële regeling kunnen nadere overgangsbepalingen worden vastgesteld in verband met de inwerkingtreding van de Douanewet.   
 
 ### Artikel  LVII  
 
-De [Douanewet](../../../../wet/douanewet/BWBR0007632/README.md) en deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip.  
+De Douanewet en deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip.  
 
 ### Artikel  LVIII  
 
-Deze wet wordt aangehaald als: Invoeringswet [Douanewet](../../../../wet/douanewet/BWBR0007632/README.md).  
+Deze wet wordt aangehaald als: Invoeringswet Douanewet.  
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    
 

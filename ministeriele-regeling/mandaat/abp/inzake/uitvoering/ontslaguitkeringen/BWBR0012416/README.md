@@ -3,7 +3,7 @@
 ##Mandaat ABP inzake uitvoering ontslaguitkeringen
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties  
-Gelet op [artikel 10:3 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 10:3 van de Algemene wet bestuursrecht;
 
 Gezien de overeenkomst inzake uitvoering uitkeringen bij functioneel leeftijdsontslag en ontslag uit substantieel bezwarende functies;
 Besluit:     
@@ -12,15 +12,15 @@ Besluit:
 
 De Stichting Pensioenfonds ABP, hierna te noemen ABP, is bevoegd om namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties al die besluiten te nemen die de Minister van Binnenlandse Zaken en Koninkrijksrelaties bij of krachtens de hieronder genoemde regelingen bevoegd is te nemen:
 
-1. het [Besluit ontslaguitkering substantieel bezwarende functies](../../../../../../../ministeriele-regeling/besluit/ontslaguitkering/substantieel/bezwarende/functies/BWBR0011088/README.md),
+1. het Besluit ontslaguitkering substantieel bezwarende functies,
 
-2. het [Besluit overgangsrecht FLO-functies](../../../../../../../AMvB/besluit/overgangsrecht/flo-functies/BWBR0010859/README.md) en
+2. het Besluit overgangsrecht FLO-functies en
 
 3. de Regeling uitkering wegens functioneel leeftijdsontslag. 
 
 ###Artikel  2  
 
-ABP is bevoegd om verzoeken in het kader van de [Wet Openbaarheid van Bestuur](../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), dan wel in het kader van de [Wet Nationale Ombudsman](../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md), voorzover die verband houden met de uitvoering van de in artikel 1 genoemde regelingen, namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties af te handelen.  
+ABP is bevoegd om verzoeken in het kader van de Wet Openbaarheid van Bestuur, dan wel in het kader van de Wet Nationale Ombudsman, voorzover die verband houden met de uitvoering van de in artikel 1 genoemde regelingen, namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties af te handelen.  
 
 ###Artikel  3  
 

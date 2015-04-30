@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het, gelet op de uit de [Wet brutering overhevelingstoeslag lonen](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md) voortvloeiende brutering van lonen en uitkeringen per 1 januari 1998, wenselijk is om de gevolgen van de brutering voor de uitkeringen op grond van een aantal sociale zekerheidswetten nader te regelen;
+Alzo Wij in overweging genomen hebben, dat het, gelet op de uit de Wet brutering overhevelingstoeslag lonen voortvloeiende brutering van lonen en uitkeringen per 1 januari 1998, wenselijk is om de gevolgen van de brutering voor de uitkeringen op grond van een aantal sociale zekerheidswetten nader te regelen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### HOOFDSTUK  1  
 
@@ -20,27 +20,27 @@ a. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;
 
 b. de WOTOP: de Wet overhevelingstoeslag opslagpremies zoals die luidde op de dag voorafgaande aan de inwerkingtreding van deze wet;  
 
-c. de Wet BOL: de [Wet brutering overhevelingstoeslag lonen](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md);  
+c. de Wet BOL: de Wet brutering overhevelingstoeslag lonen;  
 
-d. de WML: de [Wet minimumloon en minimumvakantiebijslag](../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md);  
+d. de WML: de Wet minimumloon en minimumvakantiebijslag;  
 
-e. de WW: de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+e. de WW: de Werkloosheidswet;  
 
-f. de ZW: de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+f. de ZW: de Ziektewet;  
 
-g. de WAO: de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+g. de WAO: de Wet op de arbeidsongeschiktheidsverzekering;  
 
 h. de AAW: de Algemene Arbeidsongeschiktheidswet;  
 
-i. de IWS: de [Invoeringswet stelselherziening sociale zekerheid](../../../../../../wet/invoeringswet/stelselherziening/sociale/zekerheid/BWBR0004046/README.md);  
+i. de IWS: de Invoeringswet stelselherziening sociale zekerheid;  
 
-j. de TW: de [Toeslagenwet](../../../../../../wet/toeslagenwet/BWBR0004043/README.md);  
+j. de TW: de Toeslagenwet;  
 
-k. de WAMil: de [Wet Arbeidsongeschiktheidsvoorziening Militairen](../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md);  
+k. de WAMil: de Wet Arbeidsongeschiktheidsvoorziening Militairen;  
 
-l. dienstbetrekking: de dienstbetrekking en de arbeidsverhouding die als zodanig wordt beschouwd ingevolge het bepaalde bij of krachtens de [WW](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md) en de [WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);   
+l. dienstbetrekking: de dienstbetrekking en de arbeidsverhouding die als zodanig wordt beschouwd ingevolge het bepaalde bij of krachtens de WW, de ZW en de WAO;   
 
-m. vervaljaar: het krachtens [artikel 9 van de Wet BOL](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md) vastgestelde jaar met ingang waarvan de verplichting tot betaling van een overhevelingstoeslag komt te vervallen.    
+m. vervaljaar: het krachtens artikel 9 van de Wet BOL vastgestelde jaar met ingang waarvan de verplichting tot betaling van een overhevelingstoeslag komt te vervallen.    
 
 ### HOOFDSTUK  2  
 
@@ -54,12 +54,12 @@ m. vervaljaar: het krachtens [artikel 9 van de Wet BOL](../../../../../../wet/we
 
 1.  Het loon dat betrekking heeft op een periode gelegen vóór het vervaljaar en dat wordt gehanteerd bij de berekening van: 
 
-a. het dagloon dat op grond van [artikel 34 IWS](../../../../../../wet/invoeringswet/stelselherziening/sociale/zekerheid/BWBR0004046/README.md) ten grondslag ligt aan uitkeringen op grond van de [WW](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md),  
+a. het dagloon dat op grond van artikel 34 IWS ten grondslag ligt aan uitkeringen op grond van de WW,  
 
-b. het dagloon dat op grond van [artikel 15 ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md) ten grondslag ligt aan uitkeringen op grond van de [ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md),  
+b. het dagloon dat op grond van artikel 15 ZW ten grondslag ligt aan uitkeringen op grond van de ZW,  
 
-c. het dagloon dat op grond van [artikel 14 WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) ten grondslag ligt aan uitkeringen op grond van de [WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md),   wordt verhoogd met het percentage, vastgesteld op grond van [artikel 3 van de Wet BOL](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md) dan wel, indien dit loon is vastgesteld met inachtneming van het minimumloon, bedoeld in de [WML](../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), met het percentage, vastgesteld op grond van [artikel 5 van de Wet BOL](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md).  
-2.  Bij de in het eerste lid bedoelde verhoging wordt rekening gehouden met het op grond van [artikel 3, tweede lid, van de Wet BOL](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md) vastgestelde maximum.    
+c. het dagloon dat op grond van artikel 14 WAO ten grondslag ligt aan uitkeringen op grond van de WAO,   wordt verhoogd met het percentage, vastgesteld op grond van artikel 3 van de Wet BOL dan wel, indien dit loon is vastgesteld met inachtneming van het minimumloon, bedoeld in de WML, met het percentage, vastgesteld op grond van artikel 5 van de Wet BOL.  
+2.  Bij de in het eerste lid bedoelde verhoging wordt rekening gehouden met het op grond van artikel 3, tweede lid, van de Wet BOL vastgestelde maximum.    
 3.  Ter voorkoming van dubbele brutering kan bij ministeriële regeling van het eerste lid worden afgeweken.  
 
 ### §  2  
@@ -68,7 +68,7 @@ c. het dagloon dat op grond van [artikel 14 WAO](../../../../../../wet/wet/op/de
 
 ### Artikel  3  
 
-1.  Het inkomen dat betrekking heeft op een periode gelegen vóór het vervaljaar en dat wordt gehanteerd bij de berekening van de grondslag, bedoeld in artikel 10, vierde lid, AAW, voor zover dat inkomen in een dienstbetrekking is verdiend, wordt verhoogd met het percentage, vastgesteld op grond van [artikel 3 van de Wet BOL](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md) dan wel, indien dit loon is vastgesteld met inachtneming van het minimumloon, bedoeld in de [WML](../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), met het percentage, vastgesteld op grond van [artikel 5 van de Wet BOL](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md).   
+1.  Het inkomen dat betrekking heeft op een periode gelegen vóór het vervaljaar en dat wordt gehanteerd bij de berekening van de grondslag, bedoeld in artikel 10, vierde lid, AAW, voor zover dat inkomen in een dienstbetrekking is verdiend, wordt verhoogd met het percentage, vastgesteld op grond van artikel 3 van de Wet BOL dan wel, indien dit loon is vastgesteld met inachtneming van het minimumloon, bedoeld in de WML, met het percentage, vastgesteld op grond van artikel 5 van de Wet BOL.   
 2.  Ter voorkoming van dubbele brutering kan bij ministeriële regeling van het eerste lid worden afgeweken.  
 
 ### §  3  
@@ -77,8 +77,8 @@ c. het dagloon dat op grond van [artikel 14 WAO](../../../../../../wet/wet/op/de
 
 ### Artikel  4  
 
-1.  Een uitkering op grond van de [WW](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md), de [WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of de AAW, al dan niet vermeerderd met een toeslag op grond van de [TW](../../../../../../wet/toeslagenwet/BWBR0004043/README.md), die betrekking heeft op een periode gelegen vóór het vervaljaar en die in of na het vervaljaar wordt betaald, wordt verhoogd met het percentage, vastgesteld op grond van [artikel 5 van de Wet BOL](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md).   
-2.  Bij de in het eerste lid bedoelde verhoging wordt rekening gehouden met het op grond van [artikel 3, tweede lid, van de Wet BOL](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md) vastgestelde maximum.   
+1.  Een uitkering op grond van de WW, de ZW, de WAO of de AAW, al dan niet vermeerderd met een toeslag op grond van de TW, die betrekking heeft op een periode gelegen vóór het vervaljaar en die in of na het vervaljaar wordt betaald, wordt verhoogd met het percentage, vastgesteld op grond van artikel 5 van de Wet BOL.   
+2.  Bij de in het eerste lid bedoelde verhoging wordt rekening gehouden met het op grond van artikel 3, tweede lid, van de Wet BOL vastgestelde maximum.   
 
 ### HOOFDSTUK  3  
 
@@ -90,28 +90,28 @@ c. het dagloon dat op grond van [artikel 14 WAO](../../../../../../wet/wet/op/de
 
 ### Artikel  5  
 
-Voor de toepassing van [artikel 36 WW](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) wordt onder de in dat artikel bedoelde uitkeringen, voor zover die zijn betaald in het tijdvak van 1 januari 1990 tot en met 31 december van het jaar dat voorafgaat aan het vervaljaar, mede verstaan de overhevelingstoeslag op die uitkeringen, bedoeld in artikel 1 van de WOTOP. 
+Voor de toepassing van artikel 36 WW wordt onder de in dat artikel bedoelde uitkeringen, voor zover die zijn betaald in het tijdvak van 1 januari 1990 tot en met 31 december van het jaar dat voorafgaat aan het vervaljaar, mede verstaan de overhevelingstoeslag op die uitkeringen, bedoeld in artikel 1 van de WOTOP. 
 
 ### Artikel  6  
 
-Voor de toepassing van de bepalingen inzake de vrijwillige verzekering ingevolge [hoofdstuk III WW](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) worden onder «de overige artikelen van deze wet», bedoeld in [artikel 60 WW](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), voor zover van toepassing, mede verstaan de bepalingen van artikel 2, eerste lid, onderdeel *a* , en artikel 4 van hoofdstuk II en de bepalingen van paragraaf 1 van hoofdstuk III. 
+Voor de toepassing van de bepalingen inzake de vrijwillige verzekering ingevolge hoofdstuk III WW worden onder «de overige artikelen van deze wet», bedoeld in artikel 60 WW, voor zover van toepassing, mede verstaan de bepalingen van artikel 2, eerste lid, onderdeel *a* , en artikel 4 van hoofdstuk II en de bepalingen van paragraaf 1 van hoofdstuk III. 
 
 ### Artikel  7  
 
-1.  In afwijking van [artikel 67, onderdeel *a*, WW](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) wordt onder loon dat betrekking heeft op een periode gelegen vóór het vervaljaar en dat in of na het vervaljaar op grond van [artikel 64 WW](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) wordt betaald, verstaan het loon, verhoogd met het percentage, vastgesteld op grond van [artikel 3 van de Wet BOL](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md) dan wel, indien dat loon was vastgesteld met inachtneming van het minimumloon, bedoeld in de [WML](../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), met het percentage, vastgesteld op grond van [artikel 5 van de Wet BOL](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md).   
-2.  Bij de in het eerste lid bedoelde verhoging wordt rekening gehouden met het op grond van [artikel 3, tweede lid, van de Wet BOL](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md) vastgestelde maximum.   
+1.  In afwijking van artikel 67, onderdeel *a*, WW wordt onder loon dat betrekking heeft op een periode gelegen vóór het vervaljaar en dat in of na het vervaljaar op grond van artikel 64 WW wordt betaald, verstaan het loon, verhoogd met het percentage, vastgesteld op grond van artikel 3 van de Wet BOL dan wel, indien dat loon was vastgesteld met inachtneming van het minimumloon, bedoeld in de WML, met het percentage, vastgesteld op grond van artikel 5 van de Wet BOL.   
+2.  Bij de in het eerste lid bedoelde verhoging wordt rekening gehouden met het op grond van artikel 3, tweede lid, van de Wet BOL vastgestelde maximum.   
 
 ### Artikel  8  
 
-1.  In afwijking van [artikel 67, onderdeel *b*, WW ](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md)wordt onder vakantiegeld en vakantiebijslag die betrekking hebben op een periode gelegen vóór het vervaljaar en die op grond van [artikel 64 WW](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) in of na het vervaljaar worden betaald, verstaan het vakantiegeld en de vakantiebijslag, berekend op basis van het overeenkomstig artikel 7 verhoogde loon.  
+1.  In afwijking van artikel 67, onderdeel *b*, WW wordt onder vakantiegeld en vakantiebijslag die betrekking hebben op een periode gelegen vóór het vervaljaar en die op grond van artikel 64 WW in of na het vervaljaar worden betaald, verstaan het vakantiegeld en de vakantiebijslag, berekend op basis van het overeenkomstig artikel 7 verhoogde loon.  
 
 ### Artikel  9  
 
-De artikelen 7 en 8 worden niet toegepast op loon dat betrekking heeft op de periode die aanvangt met de eerste dag van de maand waarin de werknemer de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt. 
+De artikelen 7 en 8 worden niet toegepast op loon dat betrekking heeft op de periode die aanvangt met de eerste dag van de maand waarin de werknemer de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt. 
 
 ###Artikel 10 
 
-Voor de toepassing van de [artikelen 100](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en [104 van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) wordt onder de in die artikelen genoemde uitkeringen, voor zover die zijn betaald in het tijdvak van 1 januari 1990 tot en met 31 december van het jaar dat voorafgaat aan het vervaljaar, mede verstaan de overhevelingstoeslag op die uitkeringen, bedoeld in artikel 1 van de WOTOP. 
+Voor de toepassing van de artikelen 100 en 104 van de Wet financiering sociale verzekeringen wordt onder de in die artikelen genoemde uitkeringen, voor zover die zijn betaald in het tijdvak van 1 januari 1990 tot en met 31 december van het jaar dat voorafgaat aan het vervaljaar, mede verstaan de overhevelingstoeslag op die uitkeringen, bedoeld in artikel 1 van de WOTOP. 
 
 ### §  2  
 
@@ -119,19 +119,19 @@ Voor de toepassing van de [artikelen 100](../../../../../../wet/wet/financiering
 
 ### Artikel  11  
 
-Voor de toepassing van de [artikelen 33](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [34 ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md) wordt onder de in die artikelen bedoelde uitkeringen, voor zover die zijn betaald in het tijdvak van 1 januari 1990 tot en met 31 december van het jaar dat voorafgaat aan het vervaljaar, mede verstaan de overhevelingstoeslag op die uitkeringen, bedoeld in artikel 1 van de WOTOP. 
+Voor de toepassing van de artikelen 33 en 34 ZW wordt onder de in die artikelen bedoelde uitkeringen, voor zover die zijn betaald in het tijdvak van 1 januari 1990 tot en met 31 december van het jaar dat voorafgaat aan het vervaljaar, mede verstaan de overhevelingstoeslag op die uitkeringen, bedoeld in artikel 1 van de WOTOP. 
 
 ### Artikel  12  
 
-Voor de toepassing van de [artikelen 52](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [52*a* ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md) wordt onder de in die artikelen bedoelde aanspraken onderscheidenlijk kosten, voor zover die betrekking hebben op het tijdvak van 1 januari 1990 tot en met 31 december van het jaar dat voorafgaat aan het vervaljaar, mede verstaan de overhevelingstoeslag op die aanspraken en kosten, bedoeld in artikel 1 van de WOTOP. 
+Voor de toepassing van de artikelen 52 en 52*a* ZW wordt onder de in die artikelen bedoelde aanspraken onderscheidenlijk kosten, voor zover die betrekking hebben op het tijdvak van 1 januari 1990 tot en met 31 december van het jaar dat voorafgaat aan het vervaljaar, mede verstaan de overhevelingstoeslag op die aanspraken en kosten, bedoeld in artikel 1 van de WOTOP. 
 
 ### Artikel  13  
 
-Voor de toepassing van de bepalingen inzake de vrijwillige verzekering ingevolge [hoofdstuk IV ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md) worden onder «de overige artikelen van deze wet», bedoeld in [artikel 72 ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md), voor zover van toepassing, mede verstaan de bepalingen van artikel 2, eerste lid, onderdeel *b* , en artikel 4 en de bepalingen van deze paragraaf. 
+Voor de toepassing van de bepalingen inzake de vrijwillige verzekering ingevolge hoofdstuk IV ZW worden onder «de overige artikelen van deze wet», bedoeld in artikel 72 ZW, voor zover van toepassing, mede verstaan de bepalingen van artikel 2, eerste lid, onderdeel *b* , en artikel 4 en de bepalingen van deze paragraaf. 
 
 ### Artikel  14  
 
-Ingeval een werkgever op herhaald schriftelijk verzoek van de bedrijfsvereniging niet vóór 15 december van het jaar dat voorafgaat aan het vervaljaar heeft meegedeeld welke ontwikkeling het loonpeil in het beroep van de uitkeringsgerechtigde op grond van de [ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md) per 1 januari van het vervaljaar zal doormaken in verband met onder meer de toepassing van de [Wet BOL](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md), is de bedrijfsvereniging bevoegd die uitkering per 1 januari van het vervaljaar te verhogen met het percentage, vastgesteld op grond van [artikel 3 van de Wet BOL](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md). 
+Ingeval een werkgever op herhaald schriftelijk verzoek van de bedrijfsvereniging niet vóór 15 december van het jaar dat voorafgaat aan het vervaljaar heeft meegedeeld welke ontwikkeling het loonpeil in het beroep van de uitkeringsgerechtigde op grond van de ZW per 1 januari van het vervaljaar zal doormaken in verband met onder meer de toepassing van de Wet BOL, is de bedrijfsvereniging bevoegd die uitkering per 1 januari van het vervaljaar te verhogen met het percentage, vastgesteld op grond van artikel 3 van de Wet BOL. 
 
 ### §  3  
 
@@ -139,15 +139,15 @@ Ingeval een werkgever op herhaald schriftelijk verzoek van de bedrijfsvereniging
 
 ### Artikel  15  
 
-Voor de toepassing van [artikel 57 WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) wordt onder de in dat artikel bedoelde uitkeringen, voor zover die zijn betaald in het tijdvak van 1 januari 1990 tot en met 31 december van het jaar dat voorafgaat aan het vervaljaar, mede verstaan de overhevelingstoeslag op die uitkeringen, bedoeld in artikel 1 van de WOTOP. 
+Voor de toepassing van artikel 57 WAO wordt onder de in dat artikel bedoelde uitkeringen, voor zover die zijn betaald in het tijdvak van 1 januari 1990 tot en met 31 december van het jaar dat voorafgaat aan het vervaljaar, mede verstaan de overhevelingstoeslag op die uitkeringen, bedoeld in artikel 1 van de WOTOP. 
 
 ### Artikel  16  
 
-Voor de toepassing van de bepalingen inzake de vrijwillige verzekering ingevolge [hoofdstuk VI WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) worden onder «de bepalingen van de overige hoofdstukken», bedoeld in [artikel 86 WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), voor zover van toepassing, mede verstaan de bepalingen van artikel 2, eerste lid, onderdeel c, en artikel 4 en de bepalingen van deze paragraaf. 
+Voor de toepassing van de bepalingen inzake de vrijwillige verzekering ingevolge hoofdstuk VI WAO worden onder «de bepalingen van de overige hoofdstukken», bedoeld in artikel 86 WAO, voor zover van toepassing, mede verstaan de bepalingen van artikel 2, eerste lid, onderdeel c, en artikel 4 en de bepalingen van deze paragraaf. 
 
 ### Artikel  17  
 
-Voor de toepassing van de [artikelen 89](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) en [90 WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) wordt onder de in die artikelen bedoelde aanspraken onderscheidenlijk kosten, voor zover die betrekking hebben op het tijdvak van 1 januari 1990 tot en met 31 december van het jaar dat voorafgaat aan het vervaljaar, mede verstaan de overhevelingstoeslag op die aanspraken en kosten, bedoeld in artikel 1 van de WOTOP.  
+Voor de toepassing van de artikelen 89 en 90 WAO wordt onder de in die artikelen bedoelde aanspraken onderscheidenlijk kosten, voor zover die betrekking hebben op het tijdvak van 1 januari 1990 tot en met 31 december van het jaar dat voorafgaat aan het vervaljaar, mede verstaan de overhevelingstoeslag op die aanspraken en kosten, bedoeld in artikel 1 van de WOTOP.  
 
 ### §  4  
 
@@ -155,7 +155,7 @@ Voor de toepassing van de [artikelen 89](../../../../../../wet/wet/op/de/arbeids
 
 ### Artikel  18  
 
-Het inkomen dat betrekking heeft op een periode gelegen vóór het vervaljaar en dat wordt gehanteerd bij de toepassing van artikel 6, eerste lid, onderdeel a, AAW, voor zover dat inkomen in een dienstbetrekking is verdiend, wordt verhoogd met het percentage, vastgesteld op grond van [artikel 3 van de Wet BOL](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md) dan wel, indien dit loon is vastgesteld met inachtneming van het minimumloon, bedoeld in de [WML](../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), met het percentage, vastgesteld op grond van [artikel 5 van de Wet BOL](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md). 
+Het inkomen dat betrekking heeft op een periode gelegen vóór het vervaljaar en dat wordt gehanteerd bij de toepassing van artikel 6, eerste lid, onderdeel a, AAW, voor zover dat inkomen in een dienstbetrekking is verdiend, wordt verhoogd met het percentage, vastgesteld op grond van artikel 3 van de Wet BOL dan wel, indien dit loon is vastgesteld met inachtneming van het minimumloon, bedoeld in de WML, met het percentage, vastgesteld op grond van artikel 5 van de Wet BOL. 
 
 ### Artikel  19  
 
@@ -167,7 +167,7 @@ Voor de toepassing van artikel 48 AAW wordt onder de in dat artikel bedoelde uit
 
 ### Artikel  20  
 
-Voor de toepassing van [artikel 20 TW](../../../../../../wet/toeslagenwet/BWBR0004043/README.md) wordt onder de in dat artikel bedoelde toeslagen, voor zover die zijn betaald in het tijdvak van 1 januari 1990 tot en met 31 december van het jaar dat voorafgaat aan het vervaljaar, mede verstaan de overhevelingstoeslag op die toeslagen, bedoeld in artikel 1 van de WOTOP. 
+Voor de toepassing van artikel 20 TW wordt onder de in dat artikel bedoelde toeslagen, voor zover die zijn betaald in het tijdvak van 1 januari 1990 tot en met 31 december van het jaar dat voorafgaat aan het vervaljaar, mede verstaan de overhevelingstoeslag op die toeslagen, bedoeld in artikel 1 van de WOTOP. 
 
 ### §  6  
 
@@ -175,8 +175,8 @@ Voor de toepassing van [artikel 20 TW](../../../../../../wet/toeslagenwet/BWBR00
 
 ### Artikel  21  
 
-1.  In afwijking van hetgeen daaromtrent is bepaald in de [WAMil](../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md) worden de uitkeringen op grond van [Hoofdstuk II van die wet](../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md) per 1 januari van het vervaljaar verhoogd met het percentage, vastgesteld op grond van [artikel 3 van de Wet BOL](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md).   
-2.  Bij de in het eerste lid bedoelde verhoging wordt rekening gehouden met het op grond van [artikel 3, tweede lid, van de Wet BOL](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md) vastgestelde maximum.   
+1.  In afwijking van hetgeen daaromtrent is bepaald in de WAMil worden de uitkeringen op grond van Hoofdstuk II van die wet per 1 januari van het vervaljaar verhoogd met het percentage, vastgesteld op grond van artikel 3 van de Wet BOL.   
+2.  Bij de in het eerste lid bedoelde verhoging wordt rekening gehouden met het op grond van artikel 3, tweede lid, van de Wet BOL vastgestelde maximum.   
 
 ### HOOFDSTUK  4  
 
@@ -200,15 +200,15 @@ Wijzigt de Beroepswet.
 
 ### Artikel  24  
 
-De [artikelen 2*a* ](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [129 van de WW](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) zijn met betrekking tot beschikkingen ingevolge artikel 2, eerste lid, onderdeel *a* , en artikel 4 van hoofdstuk 2 en ingevolge paragraaf 1 van hoofdstuk 3 van overeenkomstige toepassing. 
+De artikelen 2*a*  en 129 van de WW zijn met betrekking tot beschikkingen ingevolge artikel 2, eerste lid, onderdeel *a* , en artikel 4 van hoofdstuk 2 en ingevolge paragraaf 1 van hoofdstuk 3 van overeenkomstige toepassing. 
 
 ### Artikel  25  
 
-De [artikelen 2b](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [73*a* ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md) zijn met betrekking tot beschikkingen ingevolge artikel 2, eerste lid, onderdeel *b* , en artikel 4 van hoofdstuk 2 en ingevolge paragraaf 2 van hoofdstuk 3 van overeenkomstige toepassing. 
+De artikelen 2b en 73*a* ZW zijn met betrekking tot beschikkingen ingevolge artikel 2, eerste lid, onderdeel *b* , en artikel 4 van hoofdstuk 2 en ingevolge paragraaf 2 van hoofdstuk 3 van overeenkomstige toepassing. 
 
 ### Artikel  26  
 
-De [artikelen 2b](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md)en 88 WAO zijn met betrekking tot beschikkingen ingevolge artikel 2, eerste lid, onderdeel c, en artikel 4 van hoofdstuk 2 en ingevolge paragraaf 3 van hoofdstuk 3 van overeenkomstige toepassing. 
+De artikelen 2ben 88 WAO zijn met betrekking tot beschikkingen ingevolge artikel 2, eerste lid, onderdeel c, en artikel 4 van hoofdstuk 2 en ingevolge paragraaf 3 van hoofdstuk 3 van overeenkomstige toepassing. 
 
 ### Artikel  27  
 
@@ -216,11 +216,11 @@ De artikelen 4b en 79 AAW zijn met betrekking tot beschikkingen ingevolge de art
 
 ### Artikel  28  
 
-[Artikel 38 TW](../../../../../../wet/toeslagenwet/BWBR0004043/README.md) is met betrekking tot beschikkingen ingevolge artikel 4 van hoofdstuk 2 en ingevolge paragraaf 5 van hoofdstuk 3 van overeenkomstige toepassing. 
+Artikel 38 TW is met betrekking tot beschikkingen ingevolge artikel 4 van hoofdstuk 2 en ingevolge paragraaf 5 van hoofdstuk 3 van overeenkomstige toepassing. 
 
 ### Artikel  29  
 
-Deze wet treedt in werking met ingang van 1 januari van het krachtens [artikel 9, tweede lid, van de Wet BOL](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md) bepaalde jaar.  
+Deze wet treedt in werking met ingang van 1 januari van het krachtens artikel 9, tweede lid, van de Wet BOL bepaalde jaar.  
 
 ### Artikel  30  
 

@@ -49,7 +49,7 @@ c. zendinrichtingen klasse III: andere zendinrichtingen dan bedoeld onder a en b
 ####Slotbepaling
 
 1.  Het ‘Ondernemersbesluit zendinrichtingen’ van 22 augustus 1985, nr. 850821/1607 wordt ingetrokken.   
-2.  Deze regeling treedt in werking met ingang van de datum van inwerkingtreding van de Wet op de telecommunicatievoorzieningen en kan worden aangehaald als: [Ondernemersregeling zendinrichtingen](../../../../ministeriele-regeling/ondernemersregeling/zendinrichtingen/BWBR0004455/README.md).  
+2.  Deze regeling treedt in werking met ingang van de datum van inwerkingtreding van de Wet op de telecommunicatievoorzieningen en kan worden aangehaald als: Ondernemersregeling zendinrichtingen.  
 
 's-Gravenhage 
 19 december 1988    

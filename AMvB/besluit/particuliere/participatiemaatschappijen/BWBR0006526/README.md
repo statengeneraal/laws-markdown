@@ -22,7 +22,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 a. bank: de Nederlandsche Bank N.V.;  
 
-b. accountant: een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+b. accountant: een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek;  
 
 c. groep: een economische eenheid, waarin organisatorisch zijn verbonden,  
 
@@ -185,7 +185,7 @@ b. de som van de verkrijgingsprijzen van de uit aandelen bestaande participaties
 
 1.  Binnen zes maanden na afsluiting van ieder boekjaar zendt de betrokkene aan de bank:  
 
-a. de op dat boekjaar betrekking hebbende, door de algemene vergadering van aandeelhouders of de vennoten goedgekeurde of vastgestelde jaarrekening, die is opgemaakt met inachtneming van [titel 9 van Boek 2 Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+a. de op dat boekjaar betrekking hebbende, door de algemene vergadering van aandeelhouders of de vennoten goedgekeurde of vastgestelde jaarrekening, die is opgemaakt met inachtneming van titel 9 van Boek 2 Burgerlijk Wetboek;  
 
 b. het verslag en de verklaring van een accountant, die op de jaarrekening betrekking hebben.     
 2.   Met de in het eerste lid bedoelde bescheiden zendt de betrokkene door een accountant gecontroleerde en goedgekeurde, overeenkomstig het bij regeling van Onze Minister vastgestelde model opgestelde overzicht mee van alle aandelen in het kapitaal van enige rechtspersonen en van alle overige door de particuliere participatiemaatschappij aan natuurlijke of rechtspersonen verstrekte financieringen, die de particuliere participatiemaatschappij aan het einde van het laatstverlopen boekjaar had.  

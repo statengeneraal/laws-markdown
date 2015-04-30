@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de wetgeving betreffende de motorrijtuigenbelasting aan te passen aan de [Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en voorts op enkele punten te wijzigen; 
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de wetgeving betreffende de motorrijtuigenbelasting aan te passen aan de Algemene wet inzake rijksbelastingen en voorts op enkele punten te wijzigen; 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:      
 ### Hoofdstuk  I  
 
@@ -18,7 +18,7 @@ Onder de naam "motorrijtuigenbelasting" wordt een belasting geheven ter zake van
 
 a. met een motorrijtuig op twee wielen;   
 
-b. met een motorrijtuig dat op de voet van [artikel 3 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) wordt aangemerkt als een personenauto;   
+b. met een motorrijtuig dat op de voet van artikel 3 van de Wet op de belasting van personenauto’s en motorrijwielen 1992 wordt aangemerkt als een personenauto;   
 
 c. met een ander motorrijtuig dan is bedoeld onder letter *a* of *b*, door daarmede op de weg te rijden.    
 
@@ -37,7 +37,7 @@ c. met een ander motorrijtuig dan is bedoeld onder letter *a* of *b*, door daarm
 ### Artikel  4  
 
 1.  De belasting wordt geheven van de houder van het motorrijtuig.    
-2.   Met betrekking tot een motorrijtuig dat is ingeschreven in het krachtens de [Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aangehouden register van opgegeven kentekens, wordt, tenzij anders blijkt, als houder beschouwd degene op wiens naam het voor het motorrijtuig opgegeven kenteken in dat register is ingeschreven.   
+2.   Met betrekking tot een motorrijtuig dat is ingeschreven in het krachtens de Wegenverkeerswet 1994 aangehouden register van opgegeven kentekens, wordt, tenzij anders blijkt, als houder beschouwd degene op wiens naam het voor het motorrijtuig opgegeven kenteken in dat register is ingeschreven.   
 
 ### Hoofdstuk  II  
 
@@ -92,10 +92,10 @@ c. met een ander motorrijtuig dan is bedoeld onder letter *a* of *b*, door daarm
 
 1.  Voor een in artikel 5, eerste lid, letter *b* , bedoeld motorrijtuig dat wordt voortbewogen of is bestemd om te worden voortbewogen door:  
 
-a. een kracht welke wordt ontleend aan minerale oliën als zijn bedoeld in [artikel 27, eerste lid, onderdeel *b*, van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) (*Stb.* 1991, 561) wordt de op de voet van artikel 5, eerste lid, berekende belasting vermeerderd met f 350, alsmede met f 69 per 100 kilogram eigen gewicht boven 500 kilogram. De vermeerdering van belasting, bedoeld in artikel 5, tweede lid, wordt vermeerderd met f 39 per 100 kilogram eigen gewicht tot en met 1000 kilogram en met f 44 per 100 kilogram eigen gewicht boven 1000 kilogram.   
+a. een kracht welke wordt ontleend aan minerale oliën als zijn bedoeld in artikel 27, eerste lid, onderdeel *b*, van de Wet op de accijns (*Stb.* 1991, 561) wordt de op de voet van artikel 5, eerste lid, berekende belasting vermeerderd met f 350, alsmede met f 69 per 100 kilogram eigen gewicht boven 500 kilogram. De vermeerdering van belasting, bedoeld in artikel 5, tweede lid, wordt vermeerderd met f 39 per 100 kilogram eigen gewicht tot en met 1000 kilogram en met f 44 per 100 kilogram eigen gewicht boven 1000 kilogram.   
 
-b. een kracht welke niet uitsluitend wordt ontleend aan minerale oliën als zijn bedoeld in [artikel 27, eerste lid, onderdelen *a* of *b*, van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), wordt op de voet van artikel 5, eerste lid, berekende belasting vermeerderd met f 538, alsmede met f 91 per 100 kilogram eigen gewicht boven 500 kilogram. De vermeerdering van belasting bedoeld in artikel 5, tweede lid, wordt vermeerderd met f 46 per 100 kilogram eigen gewicht tot en met 1000 kilogram en met f 52 per 100 kilogram eigen gewicht boven 1000 kilogram.      
-2.   Voor een in artikel 5, eerste lid, onder *d* , bedoeld motorrijtuig dat wordt voortbewogen of is bestemd om te worden voortbewogen door een kracht welke niet uitsluitend wordt ontleend aan minerale oliën als zijn bedoeld in [artikel 27, eerste lid, onderdelen *a* of *b*, van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), wordt de op de voet van artikel 5, eerste lid, berekende belasting vermeerderd met f 155, alsmede met f 31 per 100 kilogram eigen gewicht boven 500 kilogram tot en met 1000 kilogram en met f 34 per 100 kilogram eigen gewicht boven 1000 kilogram. De vermeerdering van belasting bedoeld in artikel 5, tweede lid, wordt vermeerderd met f 31 per 100 kilogram eigen gewicht tot en met 1000 kilogram en met f 34 per 100 kilogram eigen gewicht boven 1000 kilogram.    
+b. een kracht welke niet uitsluitend wordt ontleend aan minerale oliën als zijn bedoeld in artikel 27, eerste lid, onderdelen *a* of *b*, van de Wet op de accijns, wordt op de voet van artikel 5, eerste lid, berekende belasting vermeerderd met f 538, alsmede met f 91 per 100 kilogram eigen gewicht boven 500 kilogram. De vermeerdering van belasting bedoeld in artikel 5, tweede lid, wordt vermeerderd met f 46 per 100 kilogram eigen gewicht tot en met 1000 kilogram en met f 52 per 100 kilogram eigen gewicht boven 1000 kilogram.      
+2.   Voor een in artikel 5, eerste lid, onder *d* , bedoeld motorrijtuig dat wordt voortbewogen of is bestemd om te worden voortbewogen door een kracht welke niet uitsluitend wordt ontleend aan minerale oliën als zijn bedoeld in artikel 27, eerste lid, onderdelen *a* of *b*, van de Wet op de accijns, wordt de op de voet van artikel 5, eerste lid, berekende belasting vermeerderd met f 155, alsmede met f 31 per 100 kilogram eigen gewicht boven 500 kilogram tot en met 1000 kilogram en met f 34 per 100 kilogram eigen gewicht boven 1000 kilogram. De vermeerdering van belasting bedoeld in artikel 5, tweede lid, wordt vermeerderd met f 31 per 100 kilogram eigen gewicht tot en met 1000 kilogram en met f 34 per 100 kilogram eigen gewicht boven 1000 kilogram.    
 3.   Onder de in het eerste en tweede lid bedoelde minerale oliën worden begrepen mengsels van de minerale oliën met hiertoe door Onze Minister, al dan niet voorwaardelijk, aangewezen stoffen.   
 
 ### Artikel  7  
@@ -162,7 +162,7 @@ j. motorrijtuigen die zijn verbonden met een rij- of voertuig, niet zijnde een m
 
 ### Artikel  11  
 
-Onze Minister kan omtrent de aangifte regelen geven welke afwijken van [Hoofdstuk II van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (*Stb.* 1959, 301).  
+Onze Minister kan omtrent de aangifte regelen geven welke afwijken van Hoofdstuk II van de Algemene wet inzake rijksbelastingen (*Stb.* 1959, 301).  
 
 ### Artikel  12  
 
@@ -185,25 +185,25 @@ b. voor motorrijtuigen als zijn bedoeld in artikel 5, eerste lid, letters *d* en
 
 ### Artikel  15  
 
-1.  Op eerste vordering van ambtenaren van de rijksbelastingdienst of van opsporingsambtenaren als zijn bedoeld in [artikel 141 van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), is de bestuurder van een motorrijtuig verplicht het rijtuig te doen stilhouden. Degene die ingevolge het bepaalde in artikel 12 in het bezit moet zijn van een bewijsstuk, is verplicht op eerste vordering van de ambtenaren dat bewijsstuk ter inzage te verstrekken.    
+1.  Op eerste vordering van ambtenaren van de rijksbelastingdienst of van opsporingsambtenaren als zijn bedoeld in artikel 141 van het Wetboek van Strafvordering, is de bestuurder van een motorrijtuig verplicht het rijtuig te doen stilhouden. Degene die ingevolge het bepaalde in artikel 12 in het bezit moet zijn van een bewijsstuk, is verplicht op eerste vordering van de ambtenaren dat bewijsstuk ter inzage te verstrekken.    
 2.   De in het eerste lid bedoelde ambtenaren zijn bevoegd een motorrijtuig of een daarmede verbonden rij- of voertuig aan een onderzoek te onderwerpen en het voertuig daartoe naar een nabij gelegen plaats te voeren of te doen voeren. De bestuurder, bij afwezigheid de houder, of degene die ingevolge het bepaalde in artikel 12 in het bezit moet zijn van een bewijsstuk, is verplicht desgevorderd zijn tot het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.   
 
 ### Artikel  16  
 
-1.  Indien met een motorrijtuig de weg is gebruikt zonder dat vooraf de belasting is betaald, kan deze worden nageheven op de voet van [Hoofdstuk IV van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met dien verstande dat:  
+1.  Indien met een motorrijtuig de weg is gebruikt zonder dat vooraf de belasting is betaald, kan deze worden nageheven op de voet van Hoofdstuk IV van de Algemene wet inzake rijksbelastingen, met dien verstande dat:  
 
-a. de in de naheffingsaanslag begrepen belasting wordt verhoogd met honderd percent, doch ten minste met f 50, een en ander behoudens overeenkomstige toepassing van [artikel 21, tweede lid, van die wet](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);   
+a. de in de naheffingsaanslag begrepen belasting wordt verhoogd met honderd percent, doch ten minste met f 50, een en ander behoudens overeenkomstige toepassing van artikel 21, tweede lid, van die wet;   
 
 b. ingeval de houder van het motorrijtuig aannemelijk maakt dat daarvan tegen zijn wil is gebruik gemaakt en dat hij dit gebruik redelijkerwijs niet heeft kunnen voorkomen, de naheffingsaanslag wordt opgelegd aan de bestuurder;   
 
 c. belasting waarvan op grond van artikel 14 teruggaaf is verzocht, geacht wordt niet te zijn betaald.      
 2.   De na te heffen belasting wordt berekend over de twaalf maanden die voorafgaan aan het einde van de maand waarin de in de aanhef van dit artikel bedoelde gebeurtenis heeft plaatsgehad, zulks onder aftrek van de belasting welke voor het motorrijtuig over die tijd reeds was betaald.    
-3.   Voor een motorrijtuig dat in het krachtens de [Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aangehouden register van opgegeven kentekens is ingeschreven, wordt voor de vraag of en hoeveel te weinig belasting is geheven, afgegaan op de in dat register voorkomende gegevens, zulks met inachtneming van de verschillen welke bij ambtelijk onderzoek zijn bevonden.   
+3.   Voor een motorrijtuig dat in het krachtens de Wegenverkeerswet 1994 aangehouden register van opgegeven kentekens is ingeschreven, wordt voor de vraag of en hoeveel te weinig belasting is geheven, afgegaan op de in dat register voorkomende gegevens, zulks met inachtneming van de verschillen welke bij ambtelijk onderzoek zijn bevonden.   
 
 ### Artikel  17  
 
 1.  Hij die niet voldoet aan de hem bij artikel 15 opgelegde verplichting het aldaar bedoelde bewijsstuk ter inzage te verstrekken, beloopt een administratieve boete van vijfentwintig gulden.    
-2.   Op de administratieve boete zijn de bepalingen die gelden voor de naheffing, [artikel 21, tweede lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) daaronder niet begrepen, van overeenkomstige toepassing, met dien verstande dat de naheffingsaanslag wordt opgelegd aan degene die de boete heeft belopen.   
+2.   Op de administratieve boete zijn de bepalingen die gelden voor de naheffing, artikel 21, tweede lid, van de Algemene wet inzake rijksbelastingen daaronder niet begrepen, van overeenkomstige toepassing, met dien verstande dat de naheffingsaanslag wordt opgelegd aan degene die de boete heeft belopen.   
 
 ### Hoofdstuk  IV  
 
@@ -211,7 +211,7 @@ c. belasting waarvan op grond van artikel 14 teruggaaf is verzocht, geacht wordt
 
 ### Artikel  20  
 
-Behoudens wettige bevoegdheid tot heffing van tol, de bevoegdheid van de provincies ingevolge de [Provinciewet](../../../../../../../wet/provinciewet/BWBR0005645/README.md) tot het heffen van opcenten op de motorrijtuigenbelasting en de bevoegdheid van de gemeenten ingevolge de [Gemeentewet](../../../../../../../wet/gemeentewet/BWBR0005416/README.md) (*Stb.* 1992, 96) tot het heffen van parkeerbelastingen, wordt terzake van het gebruik van de weg met motorrijtuigen geen belasting geheven door andere publiekrechtelijke lichamen dan het Rijk.  
+Behoudens wettige bevoegdheid tot heffing van tol, de bevoegdheid van de provincies ingevolge de Provinciewet tot het heffen van opcenten op de motorrijtuigenbelasting en de bevoegdheid van de gemeenten ingevolge de Gemeentewet (*Stb.* 1992, 96) tot het heffen van parkeerbelastingen, wordt terzake van het gebruik van de weg met motorrijtuigen geen belasting geheven door andere publiekrechtelijke lichamen dan het Rijk.  
 
 ### Artikel  20a  
 
@@ -237,7 +237,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  25  
 
-Zolang [artikel 4 van het Reglement verkeersregels en verkeerstekens](../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) (*Stb.* 1966, 181) niet in werking is getreden, wordt in artikel 2, tweede lid, voor "bromfiets" gelezen: rijwiel met hulpmotor.  
+Zolang artikel 4 van het Reglement verkeersregels en verkeerstekens (*Stb.* 1966, 181) niet in werking is getreden, wordt in artikel 2, tweede lid, voor "bromfiets" gelezen: rijwiel met hulpmotor.  
 
 ### Artikel  26  
 

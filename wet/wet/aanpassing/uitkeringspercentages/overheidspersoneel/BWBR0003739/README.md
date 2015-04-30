@@ -18,9 +18,9 @@ In deze wet wordt verstaan onder:
 
 a. Ontslaguitkeringsregelingen:  
 
-- het [Rijkswachtgeldbesluit 1959](../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md)   
+- het Rijkswachtgeldbesluit 1959   
 
-- de [Uitkeringsregeling 1966](../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md)   
+- de Uitkeringsregeling 1966   
 
 - hoofdstuk I-H van het Rechtspositiebesluit WVO  
 
@@ -30,9 +30,9 @@ a. Ontslaguitkeringsregelingen:
 
 - de Militaire wachtgeldregeling 1961   
 
-- de [Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht](../../../../../../AMvB/premieregeling/en/aanvullende/voorzieningen/beroepsmilitairen/van/de/etc/BWBR0003538/README.md) 1982  
+- de Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht 1982  
 
-- het [Besluit aanvulling arbeidsongeschiktheidsuitkering](../../../../../../AMvB/besluit/aanvulling/arbeidsongeschiktheidsuitkering/BWBR0002931/README.md)   
+- het Besluit aanvulling arbeidsongeschiktheidsuitkering   
 
 - het Besluit aanvulling arbeidsongeschiktheidsuitkering militairen   
 
@@ -42,7 +42,7 @@ a. Ontslaguitkeringsregelingen:
 
 - een regeling, overeenkomende met de hiervoor genoemde regelingen, getroffen door een publiekrechtelijk lichaam anders dan het Rijk, ten behoeve van het personeel in dienst van dat lichaam  
 
-- een regeling, betreffende aanspraken op uitkering bij onvrijwillige werkloosheid, die is getroffen door een B 3-lichaam als bedoeld in [artikel 1, onderdeel *g*, van de Wet privatisering ABP](../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md), dan wel door een privaatrechtelijk lichaam als bedoeld in [artikel 2, derde lid, onderdeel *b*, van die wet](../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md), voor zover deze geen mindere aanspraken te dier zake verleent dan de regeling overeenkomstig de voorschriften, neergelegd in de artikelen 4 tot en met 19 van het koninklijk besluit van 4 december 1979 ( *Stb.* 769);    
+- een regeling, betreffende aanspraken op uitkering bij onvrijwillige werkloosheid, die is getroffen door een B 3-lichaam als bedoeld in artikel 1, onderdeel *g*, van de Wet privatisering ABP, dan wel door een privaatrechtelijk lichaam als bedoeld in artikel 2, derde lid, onderdeel *b*, van die wet, voor zover deze geen mindere aanspraken te dier zake verleent dan de regeling overeenkomstig de voorschriften, neergelegd in de artikelen 4 tot en met 19 van het koninklijk besluit van 4 december 1979 ( *Stb.* 769);    
 
 b. wachtgeld: hetgeen in de onder *a* genoemde regelingen wordt verstaan onder wachtgeld of uitkering.   
 
@@ -90,7 +90,7 @@ Bevat wijzigingen in andere regelgeving.
 
 1.  Op de wachtgelden, toegekend of toe te kennen krachtens de in hoofdstuk II bedoelde ontslaguitkeringsregelingen, waarvan de hoogte afhankelijk is van de gewijzigde uitkeringspercentages als bedoeld in dat hoofdstuk, wordt met ingang van 1 januari 1985 of het latere tijdstip waarop de wachtgeld is ingegaan, een toeslag verleend van 3% van de in artikel 3 bedoelde wedde, bezoldiging, salaris of soortgelijke beloning. De toeslag vervalt met ingang van het tijdstip waarop het wachtgeld ook zonder de in artikel 2 bedoelde verlaging van percentages zou worden vastgesteld aan de hand van een uitkeringspercentage van 70 of minder.   
 2.   De toeslag van 3%, genoemd in het eerste lid, wordt niet verleend op de uitkering die wordt toegekend bij of krachtens het Besluit Werkloosheid onderwijs- en onderzoekspersoneel.   
-3.   Het eerste lid is van overeenkomstige toepassing op een uitkering overeenkomstig de normen van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), toegekend op grond van een ontslag[uitkeringsregeling](../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md).  
+3.   Het eerste lid is van overeenkomstige toepassing op een uitkering overeenkomstig de normen van de Wet op de arbeidsongeschiktheidsverzekering, toegekend op grond van een ontslaguitkeringsregeling.  
 
 ### Hoofdstuk  V  
 

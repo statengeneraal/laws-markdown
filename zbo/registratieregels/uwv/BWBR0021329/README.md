@@ -3,15 +3,15 @@
 ##Registratieregels UWV
 
 De Raad van Bestuur van de Centrale organisatie werk en inkomen, 
-Gelet op [artikelen 21 onder a en b](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) en [25 Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);
+Gelet op artikelen 21 onder a en b en 25 Wet SUWI;
 Besluit:    
 
 ###Artikel 1 
 
 ####Registratie van werkzoekenden
 
-1. Een werkzoekende die dit recht op grond van [artikel 30b Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) toekomt, laat zich registreren als werkzoekende door zich in persoon te melden bij de vestiging, die binnen het werkgebied van diens (toekomstig) woonadres is gelegen.
-2. De werkzoekende ontvangt, nadat zijn identiteit is vastgesteld aan de hand van een geldig document als bedoeld in de [Wet op de identificatieplicht](../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md), een bewijs van registratie als bedoeld in [artikel 30b, tweede lid, Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).
+1. Een werkzoekende die dit recht op grond van artikel 30b Wet SUWI toekomt, laat zich registreren als werkzoekende door zich in persoon te melden bij de vestiging, die binnen het werkgebied van diens (toekomstig) woonadres is gelegen.
+2. De werkzoekende ontvangt, nadat zijn identiteit is vastgesteld aan de hand van een geldig document als bedoeld in de Wet op de identificatieplicht, een bewijs van registratie als bedoeld in artikel 30b, tweede lid, Wet SUWI.
 3. De ingangsdatum van registratie is:
 
 a.de datum waarop betrokkene tijdens het bezoek als bedoeld in het eerste lid als werkzoekende is opgenomen in de registraties van UWV;

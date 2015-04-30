@@ -8,11 +8,11 @@ Besluit:
 
 ### Artikel  1  
 
-Als controledocument dat in de auto aanwezig moet zijn voor het verrichten van internationaal taxivervoer als bedoeld in [artikel 117, onderdeel b, van het Besluit personenvervoer 2000](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), wordt vastgesteld het controledocument dat als bijlage bij deze regeling is gevoegd. 
+Als controledocument dat in de auto aanwezig moet zijn voor het verrichten van internationaal taxivervoer als bedoeld in artikel 117, onderdeel b, van het Besluit personenvervoer 2000, wordt vastgesteld het controledocument dat als bijlage bij deze regeling is gevoegd. 
 
 ### Artikel  2  
 
-Ten behoeve van het toezicht op de naleving op [artikel 75, tweede lid, van het Besluit personenvervoer 2000](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), zijn in de auto waarmee een beperkte taxidienst als bedoeld in de [Regeling taxibestuurders 2005](../../../../../ministeriele-regeling/regeling/taxibestuurders/2005/BWBR0018667/README.md) wordt uitgevoerd, documenten aanwezig waarmee wordt aangetoond dat met die auto vervoer als bedoeld in [artikel 1, onder b, van de Regeling taxibestuurders 2005](../../../../../ministeriele-regeling/regeling/taxibestuurders/2005/BWBR0018667/README.md) wordt verricht. 
+Ten behoeve van het toezicht op de naleving op artikel 75, tweede lid, van het Besluit personenvervoer 2000, zijn in de auto waarmee een beperkte taxidienst als bedoeld in de Regeling taxibestuurders 2005 wordt uitgevoerd, documenten aanwezig waarmee wordt aangetoond dat met die auto vervoer als bedoeld in artikel 1, onder b, van de Regeling taxibestuurders 2005 wordt verricht. 
 
 ### Artikel  3  
 

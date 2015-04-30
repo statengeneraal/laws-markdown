@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Defensie van 9 januari 1996, nr. PAV2210/96000199;
 
-Gelet op de [artikelen 12 van de Militaire Ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md), 125, eerste lid, van de [Ambtenarenwet](../../../../../wet/ambtenarenwet/BWBR0001947/README.md) en 2 van de Wet rechtstoestand dienstplichtigen;
+Gelet op de artikelen 12 van de Militaire Ambtenarenwet 1931, 125, eerste lid, van de Ambtenarenwet en 2 van de Wet rechtstoestand dienstplichtigen;
 
 De Raad van State gehoord (advies van 12 maart 1996, nr. W07.96.0014);
 
@@ -28,9 +28,9 @@ b. commandant: de bij ministeriële regeling aan te wijzen functionarissen;
 
 c. de dienstreiziger: 
 
-1° de militair, bedoeld in [artikel 1, eerste lid, onderdeel c, van het Algemeen militair ambtenarenreglement](../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md), of  
+1° de militair, bedoeld in artikel 1, eerste lid, onderdeel c, van het Algemeen militair ambtenarenreglement, of  
 
-2° de ambtenaar, bedoeld in [artikel 1, van het Burgerlijk ambtenarenreglement Defensie](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md),   voor zover de onder 1° of 2° genoemde een dienstreis maakt;  
+2° de ambtenaar, bedoeld in artikel 1, van het Burgerlijk ambtenarenreglement Defensie,   voor zover de onder 1° of 2° genoemde een dienstreis maakt;  
 
 d. de dienstreis: de door de commandant aan de dienstreiziger in verband met dienstverrichting opgedragen noodzakelijke reis en het daarmee samenhangende verblijf;  
 
@@ -147,7 +147,7 @@ a. van korter dan vier uren;
 
 b. met het vliegtuig voor wat betreft de vliegduur, voor zover geen betaling wordt gevraagd voor gebruikelijk te serveren maaltijden, dranken en versnaperingen;  
 
-c. in verband met het verrichten van diensten als bedoeld in [artikel 54a, onderdeel b, van het Algemeen militair ambtenarenreglement](../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md);  
+c. in verband met het verrichten van diensten als bedoeld in artikel 54a, onderdeel b, van het Algemeen militair ambtenarenreglement;  
 
 d. waarbij andere dan de normaal aan de functie verbonden activiteiten worden verricht, voor zover deze bij ministeriële regeling zijn aangewezen.     
 2.   Geen aanspraak op vergoeding van kosten voor het gebruik van maaltijden of logies bestaat indien de dienstreiziger in de gelegenheid is om op de plaats van bestemming van de dienstreis gebruik te maken van maaltijden of logies van overheidswege of vanwege een buitenlandse mogendheid, een buitenlandse krijgsmacht of een internationale organisatie en daar geen gebruik van maakt.  

@@ -198,7 +198,7 @@ c. omdat in een bestaande woning achterstallig onderhoud wordt verricht.
 
 1. Voor een primaire toekenning is vereist dat:
 
-a.de koopsom van de woning niet hoger is dan € 174.925, en
+a.de koopsom van de woning niet hoger is dan € 177.975, en
 
 b.het bedrag van de hypothecaire lening niet hoger is dan het bedrag, genoemd onder a, vermeerderd met 8 procent. 
 2. Het in het eerste lid, onder a, genoemde bedrag wordt met ingang van 1 januari van elk jaar gewijzigd overeenkomstig artikel 41. 
@@ -290,9 +290,9 @@ d.voor eenpersoonsouderenhuishoudens en tweepersoonsouderenhuishoudens, indien h
 1. De financieringslastnorm wordt bij ministeriële regeling vastgesteld.
 2. Bij ministeriële regeling wordt een opslagpercentage vastgesteld. Dat percentage wordt:
 
-a.bij toetsinkomens van € 33.350 of meer zodanig vastgesteld dat met gebruikmaking daarvan een hypothecaire lening in de vorm van een annuïteitenhypotheek kan worden afgesloten ter hoogte van het bedrag, bedoeld in artikel 15, eerste lid, onder b, dan wel
+a.bij toetsinkomens van € 34.175 of meer zodanig vastgesteld dat met gebruikmaking daarvan een hypothecaire lening in de vorm van een annuïteitenhypotheek kan worden afgesloten ter hoogte van het bedrag, bedoeld in artikel 15, eerste lid, onder b, dan wel
 
-b.bij toetsinkomens van minder dan € 33.350 zodanig vastgesteld dat dit percentage overeenkomt met het ingevolge onderdeel a vastgestelde percentage dat geldt bij een toetsinkomen van € 33.350. 
+b.bij toetsinkomens van minder dan € 34.175 zodanig vastgesteld dat dit percentage overeenkomt met het ingevolge onderdeel a vastgestelde percentage dat geldt bij een toetsinkomen van € 34.175. 
 3. De in het eerste en tweede lid bedoelde percentages kunnen bij ministeriële regeling worden gewijzigd als daartoe aanleiding bestaat als gevolg van de ontwikkeling van het rentetarief, bedoeld in artikel 26, eerste lid. 
 4. Het in het tweede lid genoemde bedrag wordt met ingang van 1 januari van elk jaar gewijzigd overeenkomstig artikel 41. 
 5. Met het oog op de uitvoering van het eerste en tweede lid worden bij ministeriële regeling de toetsinkomens in inkomensklassen verdeeld, waarbij de toetsrente, de maximale hypothecaire lening, de daarbij behorende financieringslastnorm en het daarbij behorende percentage, bedoeld in het tweede lid, worden vermeld. 

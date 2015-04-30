@@ -9,7 +9,7 @@ Overwegende dat de Veiligheidsraad van de Verenigde Naties op 22 september 1994 
 
 Gelet op verordening 2472/94 van de Raad van de Europese Gemeenschap van 10 oktober 1994;
 
-Gelet op [artikel 7 van de Sanctiewet 1977](../../../../../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md) (Stb. 1980, 93);
+Gelet op artikel 7 van de Sanctiewet 1977 (Stb. 1980, 93);
 Besluiten:    
 
 ### Artikel  1  

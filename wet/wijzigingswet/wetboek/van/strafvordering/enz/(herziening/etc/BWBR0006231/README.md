@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is enkele bepalingen van het [Wetboek van Strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), de Wegenverkeerswet en de [Wet op de economische delicten](../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) te wijzigen met betrekking tot de raadkamerprocedure, in het bijzonder betreffende de openbaarheid van deze procedure.
+Alzo Wij in overweging genomen hebben, dat het wenselijk is enkele bepalingen van het Wetboek van Strafvordering, de Wegenverkeerswet en de Wet op de economische delicten te wijzigen met betrekking tot de raadkamerprocedure, in het bijzonder betreffende de openbaarheid van deze procedure.
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I-III  

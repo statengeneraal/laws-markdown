@@ -3,7 +3,7 @@
 ##Regeling tot het verstrekken van subsidie ter stimulering van samenwerkingsverbanden werk en inkomen
 
 De Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Sociale Zaken en Werkgelegenheid,  
-Gelet op [artikel 3 van de Kaderwet SZW-subsidies](../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md),
+Gelet op artikel 3 van de Kaderwet SZW-subsidies,
 Besluit:     
 
 ### Artikel  1  
@@ -16,7 +16,7 @@ In deze regeling wordt verstaan onder: a. samenwerkingsovereenkomst:   een samen
 2.  De subsidie wordt aangevraagd door een daartoe door de samenwerkende partijen aangewezen rechtspersoon.   
 3.  De subsidie wordt verstrekt aan de subsidie-aanvrager.   
 4.  Voorafgaand aan de subsidievaststelling wordt geen beschikking tot subsidieverlening gegeven.   
-5.  De [Algemene Regeling SZW-subsidies](../../../../ministeriele-regeling/algemene/regeling/szw-subsidies/BWBR0009211/README.md) is niet van toepassing.   
+5.  De Algemene Regeling SZW-subsidies is niet van toepassing.   
 
 ### Artikel  3  
 

@@ -3,8 +3,8 @@
 ##Financiële verordening Loodswezen 
 
 De algemene raad van de Nederlandse loodsencorporatie;
-Gelet op [artikel 26, derde lid, van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md);
-Besluit:De verordening als bedoeld in [artikel 26, eerste lid, van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md) wordt vastgesteld als volgt:   
+Gelet op artikel 26, derde lid, van de Loodsenwet;
+Besluit:De verordening als bedoeld in artikel 26, eerste lid, van de Loodsenwet wordt vastgesteld als volgt:   
 ###Hoofdstuk I 
 
 ####Algemene bepalingen
@@ -13,33 +13,33 @@ Besluit:De verordening als bedoeld in [artikel 26, eerste lid, van de Loodsenwet
 
 In deze verordening wordt verstaan onder: 
 
-a. algemene raad: algemene raad van de Nederlandse Loodsencorporatie, bedoeld in [artikel 6, tweede lid, van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md);  
+a. algemene raad: algemene raad van de Nederlandse Loodsencorporatie, bedoeld in artikel 6, tweede lid, van de Loodsenwet;  
 
-b. adspirant-registerloods: adspirant-registerloods, bedoeld in [artikel 19, eerste lid, van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md);  
+b. adspirant-registerloods: adspirant-registerloods, bedoeld in artikel 19, eerste lid, van de Loodsenwet;  
 
 c. afbestelling: situatie waarin het voor een aangevraagde registerloods door een aan het schip, gezagvoerder of agent toe te rekenen omstandigheid binnen de ETA/ETD termijn niet mogelijk is zijn diensten ten aanzien van het schip daadwerkelijk te verlenen;  
 
-d. Ankerwacht: de aanvullende loodsdienst, als bedoeld in [artikel 4.5 onder e van het Besluit marktwerking registerloodsen](../../../../../AMvB/besluit/markttoezicht/registerloodsen/BWBR0023123/README.md), waarbij de loods aan boord blijft om wacht te houden tijdens het anker liggen of in het geval dat, zonder dat het anker is geworpen, stil wordt gelegen; 
+d. Ankerwacht: de aanvullende loodsdienst, als bedoeld in artikel 4.5 onder e van het Besluit marktwerking registerloodsen, waarbij de loods aan boord blijft om wacht te houden tijdens het anker liggen of in het geval dat, zonder dat het anker is geworpen, stil wordt gelegen; 
 
 e. loodsgebied: ieder in de tot deze verordening behorende bijlage I, onderdeel a, als zodanig omschreven gebied;  
 
 f. verrichting: beroepsuitoefening door iedere registerloods aan boord van een schip dan wel vanaf een ander schip in een loodsgebied;  
 
-g. loodsen vanaf de wal: het vanaf de wal adviseren door een registerloods als bedoeld in [artikel 2, tweede lid, van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md), juncto [artikel 2.7, eerste lid, onderdeel a, van het Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren](../../../../../AMvB/besluit/opleidingen/en/bevoegheden/nautische/beroepsbeoefenaren/BWBR0034471/README.md);  
+g. loodsen vanaf de wal: het vanaf de wal adviseren door een registerloods als bedoeld in artikel 2, tweede lid, van de Loodsenwet, juncto artikel 2.7, eerste lid, onderdeel a, van het Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren;  
 
 h. direct productieve loodstaak: verrichting aan boord inclusief de daarop betrekking hebbende reistijd, wachttijd en beschikbaarheidsuren, loodsen vanaf de wal of afbestelling;  
 
-i. indirecte productieve loodstaak: iedere taak, niet zijnde een direct productieve loodstaak, ter uitvoering van een bij of krachtens de [wet](../../../../../wet/loodsenwet/BWBR0004365/README.md) aan een registerloods opgedragen taak, alsmede het volgen van opleidingen;  
+i. indirecte productieve loodstaak: iedere taak, niet zijnde een direct productieve loodstaak, ter uitvoering van een bij of krachtens de wet aan een registerloods opgedragen taak, alsmede het volgen van opleidingen;  
 
-j. loodscertificaat: certificaat, bedoeld in [artikel 9, eerste lid, van het Voorschriftenbesluit registerloodsen](../../../../../AMvB/voorschriftenbesluit/registerloodsen/BWBR0004394/README.md);  
+j. loodscertificaat: certificaat, bedoeld in artikel 9, eerste lid, van het Voorschriftenbesluit registerloodsen;  
 
-k. loodsgeld: de krachtens wettelijk voorschrift verschuldigde bedragen in verband met het gebruik maken van de diensten van een registerloods met uitzondering van de vergoedingen als bedoeld in [artikel 10, tweede lid, van het Loodsgeldbesluit 1995](../../../../../AMvB/loodsgeldbesluit/1995/BWBR0007342/README.md);  
+k. loodsgeld: de krachtens wettelijk voorschrift verschuldigde bedragen in verband met het gebruik maken van de diensten van een registerloods met uitzondering van de vergoedingen als bedoeld in artikel 10, tweede lid, van het Loodsgeldbesluit 1995;  
 
-l. organisatie: organisatie aangewezen krachtens [artikel 15a, tweede lid, van de Scheepvaartverkeerswet](../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md);  
+l. organisatie: organisatie aangewezen krachtens artikel 15a, tweede lid, van de Scheepvaartverkeerswet;  
 
 m. personeel: werknemers in dienst van de organisatie;  
 
-n. samenwerkingsverband: samenwerkingsverband als bedoeld in [artikel 2 van de Dienstverleningsverordening registerloodsen](../../../../../ministeriele-regeling/dienstverleningsverordening/registerloodsen/BWBR0004385/README.md);   
+n. samenwerkingsverband: samenwerkingsverband als bedoeld in artikel 2 van de Dienstverleningsverordening registerloodsen;   
 
 ### Hoofdstuk  II  
 
@@ -56,7 +56,7 @@ n. samenwerkingsverband: samenwerkingsverband als bedoeld in [artikel 2 van de D
 
 ###Artikel  3 
 
-Een samenwerkingsverband is verplicht de krachtens [artikel 3, zesde lid, van het Financieel besluit Loodswezen](../../../../../pbo/financieel/besluit/loodswezen/BWBR0007549/README.md) ontvangen bedragen als volgt te vergoeden: 
+Een samenwerkingsverband is verplicht de krachtens artikel 3, zesde lid, van het Financieel besluit Loodswezen ontvangen bedragen als volgt te vergoeden: 
 
 a. aan een aangesloten registerloods volgens de regels van het samenwerkingsverband;  
 
@@ -71,13 +71,13 @@ De vergoedingen als bedoeld in artikel 2, eerste lid, worden aangepast overeenko
 1.  De vergoedingen als bedoeld in artikel 2, eerste lid, worden jaarlijks door de algemene raad nader vastgesteld aan de hand van de daarvoor relevante en door de door de ledenvergadering van de Nederlandse Loodsencorporatie aangewezen accountant gevalideerde gegevens in de administraties en jaarrekeningen van de samenwerkingsverbanden alsmede van de gemeenschappelijke exploitatie van de samenwerkingsverbanden. Deze jaarlijkse nadere vaststelling bestaat uit een voorlopige vaststelling en een definitieve vaststelling.   
 2.  Iedere voorlopige vaststelling vindt plaats op basis van de vergoedingen van het jaar voorafgaande aan het jaar van deze vaststelling. Deze vergoedingen worden aangepast: 
 
-a. door de factor gemiddelde duur in uren van de betreffende verrichting, bedoeld in het model zoals vermeld als ‘Ugem_ver’ in de tot deze verordening behorende bijlage III, te herberekenen, door de begrote uren, zoals deze zijn vastgesteld door de algemene raad in het tariefvoorstel als bedoeld in [artikel 27c van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md) voor het desbetreffende jaar, in het voornoemde model te verwerken;  
+a. door de factor gemiddelde duur in uren van de betreffende verrichting, bedoeld in het model zoals vermeld als ‘Ugem_ver’ in de tot deze verordening behorende bijlage III, te herberekenen, door de begrote uren, zoals deze zijn vastgesteld door de algemene raad in het tariefvoorstel als bedoeld in artikel 27c van de Loodsenwet voor het desbetreffende jaar, in het voornoemde model te verwerken;  
 
 b. door de uitkomsten van de herberekening als bedoeld onder a te indexeren als bedoeld in artikel 4; en  
 
-c. de hieruit voortvloeiende hoogte van de vergoedingen te vermenigvuldigen met de factor bestaande uit de verwachte landelijke som van arbeidsvergoedingen voor het desbetreffende jaar zoals opgenomen in het tariefvoorstel als bedoeld in [artikel 27c van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md) te delen door de uit de onderdelen a en b berekende voortvloeiende landelijke som van de arbeidsvergoedingen.    
+c. de hieruit voortvloeiende hoogte van de vergoedingen te vermenigvuldigen met de factor bestaande uit de verwachte landelijke som van arbeidsvergoedingen voor het desbetreffende jaar zoals opgenomen in het tariefvoorstel als bedoeld in artikel 27c van de Loodsenwet te delen door de uit de onderdelen a en b berekende voortvloeiende landelijke som van de arbeidsvergoedingen.    
 3.  De voorlopige vaststellingen vinden plaats in het boekjaar voorafgaande aan het boekjaar waarin deze vaststellingen gelden. De aldus voorlopig vastgestelde vergoedingen gelden met ingang van het boekjaar volgend op het jaar waarin deze voorlopige vaststelling heeft plaatsgevonden.  
-4. De definitieve vaststelling vindt plaats binnen vier maanden na afloop van het betreffende boekjaar, behoudens verlenging van deze termijn met ten hoogste zeven maanden op grond van bijzondere omstandigheden. De definitieve vaststelling vindt plaats op basis van de werkelijke uren en de som van de arbeidsvergoedingen, als bedoeld in de door de algemene raad opgenomen financiële verantwoording als bedoeld in [artikel 27j, eerste lid van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md) over het betreffende jaar. De aldus definitief vastgestelde vergoedingen vervangen de voorlopige vastgestelde vergoedingen voor het betreffende jaar.
+4. De definitieve vaststelling vindt plaats binnen vier maanden na afloop van het betreffende boekjaar, behoudens verlenging van deze termijn met ten hoogste zeven maanden op grond van bijzondere omstandigheden. De definitieve vaststelling vindt plaats op basis van de werkelijke uren en de som van de arbeidsvergoedingen, als bedoeld in de door de algemene raad opgenomen financiële verantwoording als bedoeld in artikel 27j, eerste lid van de Loodsenwet over het betreffende jaar. De aldus definitief vastgestelde vergoedingen vervangen de voorlopige vastgestelde vergoedingen voor het betreffende jaar.
 
 ###Paragraaf 2 
 
@@ -90,7 +90,7 @@ c. de hieruit voortvloeiende hoogte van de vergoedingen te vermenigvuldigen met 
 
 ### Artikel  6a  
 
-1.  Als vaststelling voor de tijdsduur van het loodsen vanaf de wal geldt het door de registerloods ingevulde en ondertekende loodsjournaal, zoals dit is vastgesteld krachtens [artikel 2.5, eerste lid, van het Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren](../../../../../AMvB/besluit/opleidingen/en/bevoegheden/nautische/beroepsbeoefenaren/BWBR0034471/README.md).   
+1.  Als vaststelling voor de tijdsduur van het loodsen vanaf de wal geldt het door de registerloods ingevulde en ondertekende loodsjournaal, zoals dit is vastgesteld krachtens artikel 2.5, eerste lid, van het Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren.   
 2.  Voor het loodsen vanaf de wal geldt de uurvergoeding als bedoeld in de tot deze verordening behorende bijlage II maal de werkelijke tijdsduur van het loodsen vanaf de wal.   
 3.  De krachtens het tweede lid verkregen vergoeding wordt vermeerderd met een forfaitair bedrag ter hoogte van driemaal het uurvergoeding.  
 
@@ -101,7 +101,7 @@ c. de hieruit voortvloeiende hoogte van de vergoedingen te vermenigvuldigen met 
 
 ### Artikel  6c  
 
-De vergoeding voor een in [artikel 4.13 van het Besluit Markttoezicht registerloodsen](../../../../../AMvB/besluit/markttoezicht/registerloodsen/BWBR0023123/README.md) genoemde bijzondere loodsreis is gelijk aan het voor de betreffende bijzondere loodsreis vastgestelde tarief. 
+De vergoeding voor een in artikel 4.13 van het Besluit Markttoezicht registerloodsen genoemde bijzondere loodsreis is gelijk aan het voor de betreffende bijzondere loodsreis vastgestelde tarief. 
 
 ### Paragraaf 2a 
 
@@ -129,7 +129,7 @@ De vergoeding voor een in [artikel 4.13 van het Besluit Markttoezicht registerlo
 ### Artikel  6g  
 
 1.  De kosten met betrekking tot de adspirant-registerloodsen in een kalenderjaar worden door de algemene raad vastgesteld volgens de werkelijke kosten verbonden aan de uitvoering van de leerovereenkomsten.   
-2.  De vergoedingen voor de kosten, bedoeld in [artikel 3, tweede lid, onderdeel b, 2°, van het Financieel besluit Loodswezen](../../../../../pbo/financieel/besluit/loodswezen/BWBR0007549/README.md), geschieden door tussenkomst van de organisatie op grond van een door de algemene raad vastgestelde begroting, met uitzondering van de kosten met betrekking tot de verzorgen taak, zoals bedoeld in [artikel 13, eerste lid, onderdeel b, van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md).  
+2.  De vergoedingen voor de kosten, bedoeld in artikel 3, tweede lid, onderdeel b, 2°, van het Financieel besluit Loodswezen, geschieden door tussenkomst van de organisatie op grond van een door de algemene raad vastgestelde begroting, met uitzondering van de kosten met betrekking tot de verzorgen taak, zoals bedoeld in artikel 13, eerste lid, onderdeel b, van de Loodsenwet.  
 
 ###Paragraaf 3 
 
@@ -138,7 +138,7 @@ De vergoeding voor een in [artikel 4.13 van het Besluit Markttoezicht registerlo
 ###Artikel  7 
 
 1. De bruto-vergoeding uit hoofde van functioneel leeftijdspensioen van een registerloods bedraagt voor de eerste zestig maanden € 58.544,91 op jaarbasis en daarna € 52.103,04 op jaarbasis. 
-2.  De vergoeding wordt toegekend aan de registerloodsen die vóór 1 april 2004 in het register zijn ingeschreven en waarvan de inschrijving uiterlijk op 1 juli 2008 is doorgehaald krachtens de [Inschrijvingsverordening registerloodsen](../../../../../ministeriele-regeling/inschrijvingsverordening/registerloodsen/BWBR0004383/README.md). De toekenning vindt plaats met ingang van de datum van doorhaling in het register krachtens de Inschrijvingsverordening registerloodsen en wordt beëindigd per de eerste van de maand volgend op die waarin de betreffende registerloods de leeftijd van vijfenzestig jaar heeft bereikt. Op de vergoeding wordt in mindering gebracht de uitkering die aan betrokkene is toegekend krachtens de Algemene Arbeidsongeschiktheidswet of de [Wet Arbeidsongeschiktheidsverzekering Zelfstandigen](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) en het tijdelijk ouderdomspensioen als bedoeld in artikel 41 van het Pensioenstatuut 2004 van de Stichting Beroepspensioenfonds Loodsen, alsmede in het laatste geval tevens het bedrag gelijk aan de pensioenpremie die degenen, aan wie vóór 1 april 2004 de vergoeding is toegekend, verschuldigd zijn aan de Stichting Beroepspensioenfonds Loodsen. 
+2.  De vergoeding wordt toegekend aan de registerloodsen die vóór 1 april 2004 in het register zijn ingeschreven en waarvan de inschrijving uiterlijk op 1 juli 2008 is doorgehaald krachtens de Inschrijvingsverordening registerloodsen. De toekenning vindt plaats met ingang van de datum van doorhaling in het register krachtens de Inschrijvingsverordening registerloodsen en wordt beëindigd per de eerste van de maand volgend op die waarin de betreffende registerloods de leeftijd van vijfenzestig jaar heeft bereikt. Op de vergoeding wordt in mindering gebracht de uitkering die aan betrokkene is toegekend krachtens de Algemene Arbeidsongeschiktheidswet of de Wet Arbeidsongeschiktheidsverzekering Zelfstandigen en het tijdelijk ouderdomspensioen als bedoeld in artikel 41 van het Pensioenstatuut 2004 van de Stichting Beroepspensioenfonds Loodsen, alsmede in het laatste geval tevens het bedrag gelijk aan de pensioenpremie die degenen, aan wie vóór 1 april 2004 de vergoeding is toegekend, verschuldigd zijn aan de Stichting Beroepspensioenfonds Loodsen. 
 3. De rechtspersoon die is belast met de uitkering van het functioneel leeftijdspensioen aan registerloodsen is verplicht de vergoeding, met inachtneming van de vorige leden, volledig uit te keren aan degene die recht heeft op functioneel leeftijdspensioen.
 4. Met betrekking tot de vergoeding uit hoofde van functioneel leeftijdspensioen is artikel 4, van overeenkomstige toepassing.
 5. Indien in het eerste of tweede lid een wijziging wordt aangebracht die inhoudt of tot gevolg heeft een vermindering van de daarin genoemde of bedoelde vergoedingen, een vermindering van de genoemde termijn van zestig maanden dan wel een wijziging wordt aangebracht in de strekking van het vierde of dit lid, geldt deze wijziging voor degenen die op de datum van die wijziging reeds een functioneel leeftijdspensioen hebben, eerst met ingang van de eerste dag van de maand die volgt na honderdtwintig aaneengesloten maanden, te rekenen vanaf de eerste dag van de maand die aansluit op de maand waarin die wijziging is aangebracht. 

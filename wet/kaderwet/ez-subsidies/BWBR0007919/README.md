@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo wij in overweging genomen hebben, dat de totstandkoming van de derde tranche van de [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) het wenselijk maakt de Kaderwet verstrekking financiële middelen EZ en de Kaderwet specifieke uitkeringen EZ te vervangen door nieuwe regels die een wettelijk kader scheppen voor de verstrekking van subsidies door de Minister van Economische Zaken;
+Alzo wij in overweging genomen hebben, dat de totstandkoming van de derde tranche van de Algemene wet bestuursrecht het wenselijk maakt de Kaderwet verstrekking financiële middelen EZ en de Kaderwet specifieke uitkeringen EZ te vervangen door nieuwe regels die een wettelijk kader scheppen voor de verstrekking van subsidies door de Minister van Economische Zaken;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  
@@ -49,7 +49,7 @@ n. voedselveiligheid.
 
 ### Artikel  3  
 
-1.  Onverminderd [hoofdstuk 3 van de Financiële-verhoudingswet](../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) kunnen bij of krachtens algemene maatregel van bestuur of bij regeling van Onze Minister de activiteiten waarvoor subsidie kan worden verstrekt, nader worden bepaald alsmede andere criteria voor die verstrekking worden vastgesteld.   
+1.  Onverminderd hoofdstuk 3 van de Financiële-verhoudingswet kunnen bij of krachtens algemene maatregel van bestuur of bij regeling van Onze Minister de activiteiten waarvoor subsidie kan worden verstrekt, nader worden bepaald alsmede andere criteria voor die verstrekking worden vastgesteld.   
 2.   Bij of krachtens algemene maatregel van bestuur of bij regeling van Onze Minister kunnen voorts regels worden vastgesteld met betrekking tot:  
 
 a. het bedrag van de subsidie dan wel de wijze waarop dit bedrag wordt bepaald;  
@@ -66,16 +66,16 @@ f. intrekking en wijziging van de subsidieverlening of -vaststelling;
 
 g. de betaling van de subsidie en het verlenen van voorschotten;  
 
-h. het verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk, bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+h. het verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk, bedoeld in artikel 4:24 van de Algemene wet bestuursrecht.    
 3.   Bij een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in het eerste lid wordt voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling ervan, tenzij Onze Minister van Financiën heeft ingestemd met het achterwege laten daarvan.   
-4.  In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is titel 4.2 van die wet van toepassing op subsidies die worden verstrekt op grond van een algemene maatregel van bestuur of ministeriële regeling als bedoeld in het eerste lid, die uitsluitend voorziet in verstrekking aan rechtspersonen die krachtens publiekrecht zijn ingesteld.    
+4.  In afwijking van artikel 4:21, derde lid, van de Algemene wet bestuursrecht is titel 4.2 van die wet van toepassing op subsidies die worden verstrekt op grond van een algemene maatregel van bestuur of ministeriële regeling als bedoeld in het eerste lid, die uitsluitend voorziet in verstrekking aan rechtspersonen die krachtens publiekrecht zijn ingesteld.    
 5.  Onze Minister kan de uitvoering van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in het eerste lid, met inbegrip van het nemen van besluiten op grond van deze regels, delegeren aan andere bestuursorganen.   
 
 ### Artikel  4  
 
 Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in artikel 3, tenzij het een subsidie betreft:  
 
-a. als bedoeld in [artikel 4:23, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of  
+a. als bedoeld in artikel 4:23, derde lid, van de Algemene wet bestuursrecht of  
 
 b. waarvan de voorgenomen verstrekking tevoren schriftelijk is medegedeeld aan de beide Kamers der Staten-Generaal.   
 
@@ -85,7 +85,7 @@ Indien de in artikel 3, eerste lid, bedoelde regels bepalen dat de subsidie kan 
 
 ### Artikel  6  
 
-1.  Onze Minister kan met betrekking tot een subsidie, die niet op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in artikel 3 wordt verstrekt, bij de subsidieverlening of, indien geen beschikking tot subsidieverlening is gegeven, bij de subsidievaststelling bepalen, dat een subsidie-ontvanger een vergoeding voor vermogensvorming verschuldigd is overeenkomstig [artikel 4:41 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  Onze Minister kan met betrekking tot een subsidie, die niet op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in artikel 3 wordt verstrekt, bij de subsidieverlening of, indien geen beschikking tot subsidieverlening is gegeven, bij de subsidievaststelling bepalen, dat een subsidie-ontvanger een vergoeding voor vermogensvorming verschuldigd is overeenkomstig artikel 4:41 van de Algemene wet bestuursrecht.   
 2.   De wijze waarop de hoogte van de vergoeding wordt bepaald wordt vermeld in de beschikking tot subsidieverlening of subsidievaststelling, bedoeld in het eerste lid.  
 
 ### Artikel  7  
@@ -99,7 +99,7 @@ b. een subsidie lager vaststellen dan overeenkomstig de subsidieverlening;
 c. een subsidieverlening of subsidievaststelling intrekken of ten nadele van de ontvanger wijzigen.     
 2.  Bij de vaststelling, intrekking of wijziging kan worden bepaald, dat over onverschuldigd betaalde subsidiebedragen een rentevergoeding verschuldigd is.    
 3.  De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is verstrekt, tenzij bij de intrekking of wijziging anders is bepaald.    
-4.  De [artikelen 4:49, derde lid](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [4:57, vierde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing op de vaststelling, intrekking en wijziging, bedoeld in het eerste lid.   
+4.  De artikelen 4:49, derde lid, en 4:57, vierde lid, van de Algemene wet bestuursrecht zijn niet van toepassing op de vaststelling, intrekking en wijziging, bedoeld in het eerste lid.   
 
 ### Artikel  8  
 
@@ -114,8 +114,8 @@ c. een subsidieverlening of subsidievaststelling intrekken of ten nadele van de 
 
 ### Artikel  11  
 
-1.  Na de inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482) berusten de op grond van [artikel 4 van de Kaderwet LNV-subsidies](../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md) vastgestelde ministeriële regelingen op artikel 3 van deze wet.   
-2.  Het bij of krachtens de [Kaderwet LNV-subsidies](../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md) bepaalde blijft van toepassing op subsidies die voor de inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482) zijn verstrekt.  
+1.  Na de inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482) berusten de op grond van artikel 4 van de Kaderwet LNV-subsidies vastgestelde ministeriële regelingen op artikel 3 van deze wet.   
+2.  Het bij of krachtens de Kaderwet LNV-subsidies bepaalde blijft van toepassing op subsidies die voor de inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482) zijn verstrekt.  
 
 ### Artikel  12  
 

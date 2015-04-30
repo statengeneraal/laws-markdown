@@ -220,13 +220,9 @@ b. de uitzetting van de vreemdeling is gelast, tenzij die uitzetting ingevolge d
 
 ####Regels over registratie van arbeidsbeperkten en beoordeling verdienmogelijkheid wettelijk minimumloon
 
-Treedt in werking per 01-05-2015 
-
 ### Artikel  3.2  
 
 ####Gegevenskenmerken doelgroepregistratie en geldigheidstermijn registratie
-
-Treedt in werking per 01-05-2015 
 
 1.  Ten aanzien van de arbeidsbeperkte die wordt opgenomen in de registratie van arbeidsbeperkten, bedoeld in artikel 38d van de Wfsv, worden de volgende gegevens vastgelegd: 
 
@@ -247,15 +243,11 @@ b. de arbeidsbeperkte, bedoeld in artikel 38b, eerste lid, onderdeel c, van de W
 
 ####Ambtshalve verstrekking gegevens door UWV
 
-Treedt in werking per 01-05-2015 
-
 Bij ministeriële regeling kan worden bepaald dat het UWV opgave doet aan de werkgever wie van zijn werknemers, of arbeidskrachten die aan de werkgever ter beschikking zijn gesteld om onder zijn leiding en toezicht arbeid te verrichten, zijn opgenomen in de registratie arbeidsbeperkten, bedoeld in artikel 38d van de Wfsv, op basis van het burgerservicenummer op de momenten die bij die regeling zijn bepaald. Bij deze regeling kan worden bepaald dat bij de opgave van het UWV de datum waarop de registratie eindigt, wordt vermeld. 
 
 ### Artikel  3.4  
 
 ####Gegevensverwerking ten behoeve van uitvoering Wet banenafspraak en quotum arbeidsbeperkten
-
-Treedt in werking per 01-05-2015 
 
 1.  De gegevens die de colleges van burgemeester en wethouders op grond van de artikelen 77 van de Wet SUWI, 78 van de Participatiewet, 55 van de IOAW en 55 van de IOAZ aan Onze Minister verstrekken en worden verwerkt in verband met informatie over voorzieningen gericht op arbeidsinschakeling als bedoeld in artikel 7, eerste lid, onderdeel a, van de Participatiewet, worden tevens verstrekt ten behoeve van de uitvoering van de Wet banenafspraak en quotum arbeidsbeperkten.   
 2.  Onze Minister is bevoegd de gegevens, bedoeld in het eerste lid, ook indien deze gegevens worden verkregen door tussenkomst van het Centraal Bureau voor de Statistiek, te verstrekken aan het UWV ten behoeve van de verwerking in de registratie, bedoeld in artikel 38d van de Wfsv, voor zover deze noodzakelijk zijn voor de bevordering van arbeidsdeelname van arbeidsbeperkten en voor de vaststelling van de quotumheffing, bedoeld in artikel 38h van de Wfsv.   
@@ -265,8 +257,6 @@ Treedt in werking per 01-05-2015
 ### Artikel  3.5  
 
 ####Beoordeling verdienmogelijkheid wettelijk minimumloon
-
-Treedt in werking per 01-05-2015 
 
 1.  Het UWV verricht op verzoek van het college van burgemeester en wethouders een beoordeling of een persoon, bedoeld in artikel 38b, eerste lid, onderdeel a, van de Wfsv in staat is het wettelijk minimumloon, bedoeld in artikel 2, onderdeel c, van de Participatiewet te verdienen.   
 2.  Bij ministeriële regeling kunnen regels worden gesteld voor de vergoeding van de kosten van de beoordeling, bedoeld in het eerste lid, door het college van burgemeester en wethouders aan het UWV.   

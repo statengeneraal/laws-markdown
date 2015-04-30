@@ -3,7 +3,7 @@
 ##Vaststelling modelakte van beëdiging, model-proces-verbaal van beëdiging en modelverklaring voor buitengewoon opsporingsambtenaren
 
 De Minister van Justitie,  
-Gelet op de [artikelen 19](../../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) en [20 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) en op artikel 3a, derde lid, van de Wet wapens en munitie en artikel 4 van de Regeling wapens en munitie;
+Gelet op de artikelen 19 en 20 van het Besluit buitengewoon opsporingsambtenaar en op artikel 3a, derde lid, van de Wet wapens en munitie en artikel 4 van de Regeling wapens en munitie;
 Besluit:     
 
 ### Artikel  1  
@@ -20,7 +20,7 @@ De buitengewoon opsporingsambtenaar dient, indien hem een voorschrift tot het ge
 
 ### Artikel  4  
 
-De besluiten van de Minister van Justitie van 9 december 1994, nr. [471418/594/NE](../../../../../../../../../../../ministeriele-regeling/vaststelling/modellen/van/akten/van/beëdiging/BWBR0007069/README.md) en van 12 september 1995, nr. 514937/595/NE, worden ingetrokken.  
+De besluiten van de Minister van Justitie van 9 december 1994, nr. 471418/594/NE en van 12 september 1995, nr. 514937/595/NE, worden ingetrokken.  
 
 ### Artikel  5  
 

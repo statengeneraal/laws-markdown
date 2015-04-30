@@ -39,7 +39,7 @@ Onder vliegongeval in de zin van deze regeling wordt verstaan een tijdens de vlu
 
 ### Artikel  8  
 
-1.  Met inachtneming van [artikel 1, derde en vierde lid van het Algemeen militair ambtenarenreglement](../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) wordt in dit besluit onder nagelaten betrekking in de zin van artikel 1 mede verstaan:  
+1.  Met inachtneming van artikel 1, derde en vierde lid van het Algemeen militair ambtenarenreglement wordt in dit besluit onder nagelaten betrekking in de zin van artikel 1 mede verstaan:  
 
 1°. de achtergebleven geregistreerde partner;   
 
@@ -50,7 +50,7 @@ Onder vliegongeval in de zin van deze regeling wordt verstaan een tijdens de vlu
 
 De uitkering ineens, bedoeld in artikel 1, bedraagt indien de overledene:  
 
-1e. in het genot was van een vliegtoelage bedoeld in de artikelen 2 en 3 van de Regeling vliegtoelagen zeemacht 1986 dan wel de artikelen 47 of 48 van de Regeling inkomsten militairen land- en luchtmacht 1969, dan wel de ministeriële regeling ter uitvoering van [artikel 16, eerste lid, onder *a*, van het Inkomstenbesluit militairen](../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) voor zover die regeling de (garantie)vliegtoelage betreft  
+1e. in het genot was van een vliegtoelage bedoeld in de artikelen 2 en 3 van de Regeling vliegtoelagen zeemacht 1986 dan wel de artikelen 47 of 48 van de Regeling inkomsten militairen land- en luchtmacht 1969, dan wel de ministeriële regeling ter uitvoering van artikel 16, eerste lid, onder *a*, van het Inkomstenbesluit militairen voor zover die regeling de (garantie)vliegtoelage betreft  
 
 2e. gehuwd was, dan wel ongehuwd was en minderjarige kinderen en pleegkinderen heeft nagelaten;  
 
@@ -66,7 +66,7 @@ c. van luitenant ter zee der 1e klasse dan wel van majoor of hoger, € 20 000.
 
 De uitkering ineens, bedoeld in artikel 1, bedraagt indien de overledene:  
 
-1e. niet in het genot was van een vliegtoelage bedoeld in de artikelen 2 en 3 van de Regeling vliegtoelagen zeemacht 1986 dan wel de artikelen 47 of 48 van de Regeling inkomsten militairen land- en luchtmacht 1969, dan wel de ministeriële regeling ter uitvoering van [artikel 16, eerste lid, onder *a*, van het Inkomstenbesluit militairen](../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) voor zover die regeling de (garantie)vliegtoelage betreft.  
+1e. niet in het genot was van een vliegtoelage bedoeld in de artikelen 2 en 3 van de Regeling vliegtoelagen zeemacht 1986 dan wel de artikelen 47 of 48 van de Regeling inkomsten militairen land- en luchtmacht 1969, dan wel de ministeriële regeling ter uitvoering van artikel 16, eerste lid, onder *a*, van het Inkomstenbesluit militairen voor zover die regeling de (garantie)vliegtoelage betreft.  
 
 2e. gehuwd was, dan wel ongehuwd was en minderjarige kinderen en pleegkinderen heeft nagelaten;  
 

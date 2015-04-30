@@ -11,7 +11,7 @@ Aanleiding voor wijziging van de regelingen Kinderopvang (Gele katern 2000, nr. 
 
 ####Aanvulling op paragraaf 2.6. van de regelingen KO en BSO
 
-Aan paragraaf 2.6 van de regelingen KO en BSO wordt na [BWOO](../../../../../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) toegevoegd: of het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair en voortgezet onderwijs en beroeps- en volwasseneneducatie (BBWO). Deze wijziging geldt met ingang van 1 januari 2001.
+Aan paragraaf 2.6 van de regelingen KO en BSO wordt na BWOO toegevoegd: of het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair en voortgezet onderwijs en beroeps- en volwasseneneducatie (BBWO). Deze wijziging geldt met ingang van 1 januari 2001.
 ###3 
 
 ####Gewijzigd maximum inkoopbedrag volledige kindplaats regeling KO in paragraaf 2.7

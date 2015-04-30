@@ -487,7 +487,7 @@ c. de viaducten over de Oostranddreef, genaamd IJsbaanbrug, Oostrandbrug en Geld
 ### Artikel  3  
 
 1.  De verharding van het tussen de Praamweg en de Oostvaardersdijk gelegen gedeelte van de weg op de Knardijk en van de afritten vanaf de Knardijk, behorende tot de Buizerdweg en de Torenvalkweg, gaat in beheer en onderhoud op de gemeente over met ingang van de dag, volgende op die van de dagtekening van dit besluit.   
-2.   De bermen, grenzend aan de in het vorige lid genoemde verhardingen, gaan in beheer - in de zin van de [Wegenwet](../../../../../../../../../../../../wet/wegenwet/BWBR0001948/README.md) - op de gemeente over met ingang van de dag, volgende op die van de dagtekening van dit besluit.   
+2.   De bermen, grenzend aan de in het vorige lid genoemde verhardingen, gaan in beheer - in de zin van de Wegenwet - op de gemeente over met ingang van de dag, volgende op die van de dagtekening van dit besluit.   
 3.   Het is de gemeente bekend dat op het in de vorige leden bedoelde gedeelte van de Knardijk het Rijkszeeweringenreglement van toepassing is.  
 
 ### Artikel  4  

@@ -29,20 +29,20 @@ In overeenstemming met Onze Minister van Economische Zaken kan Onze Minister sub
 
 ### Artikel  3  
 
-1.  In overeenstemming met Onze Minister van Economische Zaken kan Onze Minister verzekeringen afsluiten met of garanties afgeven aan ondernemers ter dekking van aan het handels- en dienstenverkeer van die ondernemers met landen buiten Nederland verbonden risico’s.   
-2.  In overeenstemming met Onze Minister van Economische Zaken kan Onze Minister verzekeringen afsluiten met ondernemers ter dekking van niet-commerciële risico’s verbonden aan investeringen van die ondernemers in een land buiten Nederland.   
-3.  In overeenstemming met Onze Minister van Economische Zaken kan Onze Minister verzekeringen in herverzekering nemen indien deze verzekeringen zijn afgesloten door de Multilateral Investment Guarantee Agency van de Wereldbank.   
-4.  Onze Minister draagt, in overeenstemming met Onze Minister van Economische Zaken, zorg voor een optimaal beheer en goede spreiding van de financiële risico’s die voor de Staat voortvloeien uit het in verzekering nemen of garanderen van risico’s als bedoeld in het eerste lid. Onze Minister zal daarbij slechts instrumenten inzetten op een wijze die de financiële risico’s voor de Staat beoogt te beperken. Onze Minister rapporteert de Tweede Kamer der Staten-Generaal in het Financieel Jaarverslag over de ingezette instrumenten.   
+1.  In overeenstemming met Onze Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking kan Onze Minister verzekeringen afsluiten en garanties afgeven ter dekking van risico’s verbonden aan het handels- en dienstenverkeer van ondernemers met landen buiten Nederland.   
+2.  In overeenstemming met Onze Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking kan Onze Minister verzekeringen afsluiten met ondernemers ter dekking van niet-commerciële risico’s verbonden aan investeringen van die ondernemers in een land buiten Nederland.   
+3.  In overeenstemming met Onze Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking kan Onze Minister verzekeringen en garanties zowel geheel als gedeeltelijk in herverzekering nemen voor zover deze verzekeringen en garanties zijn afgesloten ter dekking van risico’s verbonden aan het handels- en dienstenverkeer van ondernemers met landen buiten Nederland, mits die verzekeringen en garanties zijn afgesloten door: 
+
+a. de Multilateral Investment Guarantee Agency van de Wereldbank;  
+
+b. een buitenlandse staat of een instantie, door of vanwege een buitenlandse staat belast met het afsluiten van verzekeringen of het afgeven van garanties ter dekking van risico’s die verbonden zijn aan het handels- en dienstenverkeer met andere landen dan die buitenlandse staat.     
+4.  Onze Minister draagt, in overeenstemming met Onze Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, zorg voor een optimaal beheer en goede spreiding van de financiële risico’s die voor de Staat voortvloeien uit het in verzekering nemen of garanderen van risico’s als bedoeld in het eerste lid. Onze Minister zal daarbij slechts instrumenten inzetten op een wijze die de financiële risico’s voor de Staat beoogt te beperken. Onze Minister rapporteert de Tweede Kamer der Staten-Generaal in het Financieel Jaarverslag over de ingezette instrumenten.   
 5.  Ter uitvoering van dit artikel kunnen bij regeling van Onze Minister van Financiën nadere regels gesteld worden.   
 6.  Ter uitvoering van dit artikel kan Onze Minister van Financiën bijzondere volmacht verlenen aan één of meer rechtspersonen.  
 
 ### Artikel  4  
 
 Onze Minister kan aan een naamloze of besloten vennootschap waarvan de Staat in het aandelenkapitaal deelneemt, een subsidie in de vorm van een garantie verlenen, mits de begroting van zijn ministerie, dan wel de daarbij behorende toelichting de naam van de betrokken vennootschap vermeldt.  
-
-### Artikel  6  
-
-Onze Minister stelt jaarlijks in overeenstemming met Onze Minister van Economische Zaken de bedragen vast tot welke ten hoogste verplichtingen kunnen worden aangegaan op grond van het bepaalde in de artikelen 2 en 3 en maakt deze bedragen bekend in de *Nederlandsche Staatscourant*.  
 
 ### Artikel  7  
 

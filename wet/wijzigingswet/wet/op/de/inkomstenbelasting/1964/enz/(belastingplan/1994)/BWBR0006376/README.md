@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in het kader van het belastingplan 1994 een aantal belastingwetten en de [Wet Infrastructuurfonds](../../../../../../../../../../../wet/wet/infrastructuurfonds/BWBR0006001/README.md) te wijzigen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is in het kader van het belastingplan 1994 een aantal belastingwetten en de Wet Infrastructuurfonds te wijzigen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -47,12 +47,12 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  X  
 
-Indien bij of krachtens een op 31 december 1993 bestaande arbeidsovereenkomst dan wel publiekrechtelijke regeling is vastgelegd dat ter gelegenheid van een dienstjubileum van de werknemer uitkeringen en verstrekkingen ineens worden gedaan, blijven, in afwijking in zoverre van artikel 11, eerste lid, onderdeel *p*, van de [Wet op de loonbelasting 1964](../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en artikel 6, eerste lid, onderdeel *s*, van de [Coördinatiewet Sociale Verzekering](../../../../../../../../../../../wet/coördinatiewet/sociale/verzekering/BWBR0002126/README.md), tot 1 mei 1994 met betrekking tot die uitkeringen en verstrekkingen ineens de op 31 december 1993 bij of krachtens die wetten geldende bepalingen terzake van kracht. 
+Indien bij of krachtens een op 31 december 1993 bestaande arbeidsovereenkomst dan wel publiekrechtelijke regeling is vastgelegd dat ter gelegenheid van een dienstjubileum van de werknemer uitkeringen en verstrekkingen ineens worden gedaan, blijven, in afwijking in zoverre van artikel 11, eerste lid, onderdeel *p*, van de Wet op de loonbelasting 1964 en artikel 6, eerste lid, onderdeel *s*, van de Coördinatiewet Sociale Verzekering, tot 1 mei 1994 met betrekking tot die uitkeringen en verstrekkingen ineens de op 31 december 1993 bij of krachtens die wetten geldende bepalingen terzake van kracht. 
 
 ### Artikel  XI  
 
-1.  Lichte olie als bedoeld in artikel 27, eerste lid, onderdeel *a*, van de [Wet op de accijns](../../../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), die bij de aanvang van 1 januari 1994 aanwezig is in of in vervoer is naar een opslagplaats, is onderworpen aan een heffing van f 110 per 1000 liter bij een temperatuur van 15°C.   
-2.   Halfzware olie en gasolie als bedoeld in artikel 27, eerste lid, onderdeel *b*, van de [Wet op de accijns](../../../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), die bij de aanvang van 1 januari 1994 aanwezig zijn in of in vervoer zijn naar een opslagplaats, zijn onderworpen aan een heffing van f 80 per 1000 liter bij een temperatuur van 15° C.   
+1.  Lichte olie als bedoeld in artikel 27, eerste lid, onderdeel *a*, van de Wet op de accijns, die bij de aanvang van 1 januari 1994 aanwezig is in of in vervoer is naar een opslagplaats, is onderworpen aan een heffing van f 110 per 1000 liter bij een temperatuur van 15°C.   
+2.   Halfzware olie en gasolie als bedoeld in artikel 27, eerste lid, onderdeel *b*, van de Wet op de accijns, die bij de aanvang van 1 januari 1994 aanwezig zijn in of in vervoer zijn naar een opslagplaats, zijn onderworpen aan een heffing van f 80 per 1000 liter bij een temperatuur van 15° C.   
 3.   Aan de heffing bedoeld in het eerste lid en het tweede lid zijn niet onderworpen lichte olie als bedoeld in het eerste lid onderscheidenlijk halfzware olie en gasolie als bedoeld in het tweede lid:  
 
 a. die aanwezig zijn in een entrepot, een plaats voor tijdelijke opslag of in een accijnsgoederenplaats, dan wel in vervoer zijn daarnaar toe of in vervoer zijn naar een geregistreerd bedrijf, een niet-geregistreerd bedrijf of een belastingentrepot in een andere Lid-Staat;  
@@ -66,12 +66,12 @@ b. waarvoor een vrijstelling geldt.
 
 ### Artikel  XII  
 
-1.  Vloeibaar gemaakt petroleumgas als bedoeld in artikel 27, eerste lid, onderdeel *d*, van de [Wet op de accijns](../../../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), dat bij de aanvang van 16 februari 1994 aanwezig is in of in vervoer is naar een opslagplaats, is onderworpen aan een heffing van f 78,72 per 1000 kg.   
+1.  Vloeibaar gemaakt petroleumgas als bedoeld in artikel 27, eerste lid, onderdeel *d*, van de Wet op de accijns, dat bij de aanvang van 16 februari 1994 aanwezig is in of in vervoer is naar een opslagplaats, is onderworpen aan een heffing van f 78,72 per 1000 kg.   
 2.   Artikel XI, derde tot en met achtste lid, is van overeenkomstige toepassing.  
 
 ### Artikel  XIII  
 
-Bij ministeriële regeling worden overgangsbepalingen vastgesteld die regelen in welke gevallen en op welke wijze belasting wordt nageheven of teruggegeven in die gevallen dat deze wet leidt tot wijzigingen van de tarieven van de [Wet op de motorrijtuigenbelasting 1966](../../../../../../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1966/BWBR0002534/README.md) en de [Wet Infrastructuurfonds](../../../../../../../../../../../wet/wet/infrastructuurfonds/BWBR0006001/README.md). 
+Bij ministeriële regeling worden overgangsbepalingen vastgesteld die regelen in welke gevallen en op welke wijze belasting wordt nageheven of teruggegeven in die gevallen dat deze wet leidt tot wijzigingen van de tarieven van de Wet op de motorrijtuigenbelasting 1966 en de Wet Infrastructuurfonds. 
 
 ### Artikel  XIV  
 
@@ -87,8 +87,8 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  XVII  
 
-1.  Gedurende het kalenderjaar 1994 blijft de toepassing van [artikel 13, tweede lid, van de Algemene Kinderbijslagwet](../../../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) achterwege.   
-2.   In afwijking van artikel I, tweede lid, van de wet van 24 juni 1993 (*Stb.* 329) wordt voor de eerstvolgende toepassing van [artikel 13, tweede lid, van de Algemene Kinderbijslagwet](../../../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) met ingang van een na 1 juli 1994 gelegen datum, onder "het prijsindexcijfer, waarop de laatste herziening is gebaseerd" verstaan: het prijsindexcijfer over de maand april 1994.  
+1.  Gedurende het kalenderjaar 1994 blijft de toepassing van artikel 13, tweede lid, van de Algemene Kinderbijslagwet achterwege.   
+2.   In afwijking van artikel I, tweede lid, van de wet van 24 juni 1993 (*Stb.* 329) wordt voor de eerstvolgende toepassing van artikel 13, tweede lid, van de Algemene Kinderbijslagwet met ingang van een na 1 juli 1994 gelegen datum, onder "het prijsindexcijfer, waarop de laatste herziening is gebaseerd" verstaan: het prijsindexcijfer over de maand april 1994.  
 
 ### Artikel  XVIII  
 

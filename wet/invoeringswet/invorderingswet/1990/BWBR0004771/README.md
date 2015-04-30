@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de inwerkingtreding van de [Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) te regelen alsmede de wet van 22 mei 1845 (Stb. 1926, 334) op de invordering van 's Rijks directe belastingen in te trekken en voorts de wetten waarin naar laatstbedoelde wet wordt verwezen of waarin invorderingsbepalingen dan wel aansprakelijkheidsbepalingen voorkomen die zijn ontleend aan fiscale invorderings- en aansprakelijkheidsbepalingen, aan te passen aan de bepalingen van de [Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md);
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de inwerkingtreding van de Invorderingswet 1990 te regelen alsmede de wet van 22 mei 1845 (Stb. 1926, 334) op de invordering van 's Rijks directe belastingen in te trekken en voorts de wetten waarin naar laatstbedoelde wet wordt verwezen of waarin invorderingsbepalingen dan wel aansprakelijkheidsbepalingen voorkomen die zijn ontleend aan fiscale invorderings- en aansprakelijkheidsbepalingen, aan te passen aan de bepalingen van de Invorderingswet 1990;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -239,33 +239,33 @@ b. een verzetsprocedure die is aangespannen op de voet van artikel 15 van die we
 
 ### Artikel  LVII  
 
-1.  De [Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en deze wet treden in werking met ingang van 1 juni 1990, met uitzondering van artikel LXII van deze wet dat in werking treedt met ingang van de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.   
+1.  De Invorderingswet 1990 en deze wet treden in werking met ingang van 1 juni 1990, met uitzondering van artikel LXII van deze wet dat in werking treedt met ingang van de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.   
 2.  Met betrekking tot belastingaanslagen die zijn gedagtekend vóór 1 juni 1990, geldt dat:  
 
-a. in afwijking van [artikel 9 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) de betalingstermijnen vermeld op de aanslagbiljetten waaruit van die belastingaanslagen blijkt, ook na 31 mei 1990 blijven gelden;  
+a. in afwijking van artikel 9 van de Invorderingswet 1990 de betalingstermijnen vermeld op de aanslagbiljetten waaruit van die belastingaanslagen blijkt, ook na 31 mei 1990 blijven gelden;  
 
 b. belastingaanslagen die vóór 1 juni 1990 dadelijk en ineens invorderbaar zijn geworden op grond van artikel 9 van de wet van 22 mei 1845 op de invordering van 's Rijks directe belastingen na 31 mei 1990 terstond en tot het volle bedrag invorderbaar zijn;  
 
-c. dwangbevelen die vóór 1 juni 1990 zijn betekend, geacht worden te zijn betekend op de voet van [artikel 13 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md);  
+c. dwangbevelen die vóór 1 juni 1990 zijn betekend, geacht worden te zijn betekend op de voet van artikel 13 van de Invorderingswet 1990;  
 
-d. beslagen die vóór 1 juni 1990 ter zake van die belastingaanslagen rechtsgeldig zijn gelegd, geacht worden ook voor de toepassing van de [Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) rechtsgeldig te zijn gelegd;  
+d. beslagen die vóór 1 juni 1990 ter zake van die belastingaanslagen rechtsgeldig zijn gelegd, geacht worden ook voor de toepassing van de Invorderingswet 1990 rechtsgeldig te zijn gelegd;  
 
-e. in afwijking van [artikel 27 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) een verjaringstermijn van drie jaren blijft gelden tenzij na 31 mei 1990 doch voordat de verjaringstermijn van drie jaren is verstreken, een akte van vervolging wordt betekend.     
-3.  Vóór 1 juni 1990 aan de ontvanger betekende rechtsgeldige overdrachten onder bijzondere titel van vorderingen ter zake van op belastingaanslagen uit te betalen bedragen, die betrekking hebben op tijdvakken welke zijn geëindigd vóór dat tijdstip, worden geacht de in [artikel 24, vierde lid, van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) bedoelde instemming van de ontvanger te hebben verkregen, tenzij met betrekking tot die vorderingen schuldvergelijking op de voet van artikel 1467, tweede lid, van het Burgerlijk Wetboek ook na 31 mei 1990 mogelijk zou zijn, indien het [genoemde artikel 24](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) niet van toepassing zou zijn.   
-4.   [Artikel 40 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) vindt geen toepassing in de gevallen waarin de vervreemding, bedoeld in [dat artikel](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), heeft plaatsgevonden vóór 1 juni 1990.   
-5.  Met betrekking tot aansprakelijkstellingen ter zake van belastingaanslagen die krachtens enige wettelijke bepaling hebben plaatsgevonden vóór 1 juni 1990, vindt [hoofdstuk VI van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) geen toepassing, doch blijven de ten aanzien van die aansprakelijkstellingen op 31 mei 1990 geldende regelingen van toepassing.   
+e. in afwijking van artikel 27 van de Invorderingswet 1990 een verjaringstermijn van drie jaren blijft gelden tenzij na 31 mei 1990 doch voordat de verjaringstermijn van drie jaren is verstreken, een akte van vervolging wordt betekend.     
+3.  Vóór 1 juni 1990 aan de ontvanger betekende rechtsgeldige overdrachten onder bijzondere titel van vorderingen ter zake van op belastingaanslagen uit te betalen bedragen, die betrekking hebben op tijdvakken welke zijn geëindigd vóór dat tijdstip, worden geacht de in artikel 24, vierde lid, van de Invorderingswet 1990 bedoelde instemming van de ontvanger te hebben verkregen, tenzij met betrekking tot die vorderingen schuldvergelijking op de voet van artikel 1467, tweede lid, van het Burgerlijk Wetboek ook na 31 mei 1990 mogelijk zou zijn, indien het genoemde artikel 24 niet van toepassing zou zijn.   
+4.   Artikel 40 van de Invorderingswet 1990 vindt geen toepassing in de gevallen waarin de vervreemding, bedoeld in dat artikel, heeft plaatsgevonden vóór 1 juni 1990.   
+5.  Met betrekking tot aansprakelijkstellingen ter zake van belastingaanslagen die krachtens enige wettelijke bepaling hebben plaatsgevonden vóór 1 juni 1990, vindt hoofdstuk VI van de Invorderingswet 1990 geen toepassing, doch blijven de ten aanzien van die aansprakelijkstellingen op 31 mei 1990 geldende regelingen van toepassing.   
 6.  Met betrekking tot een aanslag in de inkomstenbelasting waarmee een teruggaaf voetoverheveling is verrekend, geldt voor de invordering als aanslag de aanslag omschreven in artikel 62b, vierde lid, van de Wet op de inkomstenbelasting 1964 (Stb. 521) zoals dat luidde op 31 december 1989.  
 
 ### Artikel  LVIII  
 
-1.  Met betrekking tot de door de rijksbelastingdienst ingevorderde belastingaanslagen die zijn vastgesteld vóór de dag van de inwerkingtreding van de Wet van 26 maart 1987 (Stb. 120) tot berekening van rente inzake belastingen en premies volksverzekeringen blijft artikel 17, tweede lid, van de wet van 22 mei 1845 (Stb. 1926, 334) op de invordering van 's Rijks directe belastingen, zoals dat lid luidde vóór de inwerkingtreding van de eerstgenoemde wet, van toepassing en blijft [hoofdstuk V van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) buiten toepassing.   
-2.  Met betrekking tot de niet door de rijksbelastingdienst ingevorderde belastingen en heffingen, andere dan gemeentelijke belastingen en waterschapsbelastingen, ten aanzien waarvan artikel XII, derde lid, van de Wet van 26 maart 1987 (Stb. 120) toepassing heeft gevonden en nog toepassing vindt bij de inwerkingtreding van de [Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md):  
+1.  Met betrekking tot de door de rijksbelastingdienst ingevorderde belastingaanslagen die zijn vastgesteld vóór de dag van de inwerkingtreding van de Wet van 26 maart 1987 (Stb. 120) tot berekening van rente inzake belastingen en premies volksverzekeringen blijft artikel 17, tweede lid, van de wet van 22 mei 1845 (Stb. 1926, 334) op de invordering van 's Rijks directe belastingen, zoals dat lid luidde vóór de inwerkingtreding van de eerstgenoemde wet, van toepassing en blijft hoofdstuk V van de Invorderingswet 1990 buiten toepassing.   
+2.  Met betrekking tot de niet door de rijksbelastingdienst ingevorderde belastingen en heffingen, andere dan gemeentelijke belastingen en waterschapsbelastingen, ten aanzien waarvan artikel XII, derde lid, van de Wet van 26 maart 1987 (Stb. 120) toepassing heeft gevonden en nog toepassing vindt bij de inwerkingtreding van de Invorderingswet 1990:  
 
-a. blijft artikel 17, tweede lid, van de wet van 22 mei 1845 (Stb. 1926, 334), zoals dat lid luidde vóór de inwerkingtreding van de eerstgenoemde wet, van toepassing en blijven de [artikelen 28](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [30](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [31 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) buiten toepassing tot 1 juni 1991, tenzij de regelen, bedoeld in dat derde lid, eerder zijn ingetrokken;  
+a. blijft artikel 17, tweede lid, van de wet van 22 mei 1845 (Stb. 1926, 334), zoals dat lid luidde vóór de inwerkingtreding van de eerstgenoemde wet, van toepassing en blijven de artikelen 28, 30 en 31 van de Invorderingswet 1990 buiten toepassing tot 1 juni 1991, tenzij de regelen, bedoeld in dat derde lid, eerder zijn ingetrokken;  
 
-b. kan de functionaris of het orgaan, bedoeld in dat derde lid, bepalen dat ook na 31 mei 1991 uitsluitend invorderingsrente in rekening wordt gebracht wegens het verlenen van uitstel van betaling en dat de [artikelen 28](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [30](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [31](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) buiten toepassing blijven.     
+b. kan de functionaris of het orgaan, bedoeld in dat derde lid, bepalen dat ook na 31 mei 1991 uitsluitend invorderingsrente in rekening wordt gebracht wegens het verlenen van uitstel van betaling en dat de artikelen 28, 30 en 31 buiten toepassing blijven.     
 3.  De op grond van het tweede lid, onderdeel b, gestelde regelen vervallen op 1 januari 1997, tenzij zij eerder zijn ingetrokken.   
-4.  Met betrekking tot gemeentelijke belastingen en waterschapsbelastingen vindt [hoofdstuk V van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) inzake de berekening van invorderingsrente eerst toepassing met ingang van 1 januari 1997, met dien verstande dat wel invorderingsrente in rekening wordt gebracht in de gevallen waarin op de voet van [artikel 25 van die wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) uitstel van betaling is verleend. De invorderingsrente wordt berekend vanaf de dag na de vervaldag van de voor de belastingaanslag geldende enige of laatste betalingstermijn tot aan de dag van de betaling. Het percentage van de invorderingsrente is gelijk aan dat van de wettelijke rente. In de belastingverordening kan worden bepaald dat [hoofdstuk V van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) op een eerder tijdstip dan 1 januari 1997 toepassing vindt.  
+4.  Met betrekking tot gemeentelijke belastingen en waterschapsbelastingen vindt hoofdstuk V van de Invorderingswet 1990 inzake de berekening van invorderingsrente eerst toepassing met ingang van 1 januari 1997, met dien verstande dat wel invorderingsrente in rekening wordt gebracht in de gevallen waarin op de voet van artikel 25 van die wet uitstel van betaling is verleend. De invorderingsrente wordt berekend vanaf de dag na de vervaldag van de voor de belastingaanslag geldende enige of laatste betalingstermijn tot aan de dag van de betaling. Het percentage van de invorderingsrente is gelijk aan dat van de wettelijke rente. In de belastingverordening kan worden bepaald dat hoofdstuk V van de Invorderingswet 1990 op een eerder tijdstip dan 1 januari 1997 toepassing vindt.  
 
 ### Artikel  LIX  
 
@@ -288,15 +288,15 @@ d. beslagen die vóór 1 juni 1990 ter zake van die belasting rechtsgeldig zijn 
 
 ### Artikel  LX  
 
-Ingeval vóór 1 juni 1990 een verzetsprocedure is aangespannen op de voet van [artikel 15a van de Coördinatiewet Sociale Verzekering](../../../../../wet/coördinatiewet/sociale/verzekering/BWBR0002126/README.md), blijven met betrekking tot die verzetsprocedure de bepalingen van toepassing zoals die luidden op 31 mei 1990. 
+Ingeval vóór 1 juni 1990 een verzetsprocedure is aangespannen op de voet van artikel 15a van de Coördinatiewet Sociale Verzekering, blijven met betrekking tot die verzetsprocedure de bepalingen van toepassing zoals die luidden op 31 mei 1990. 
 
 ### Artikel  LXI  
 
-Bij ministeriële regeling kunnen ter zake van belastingaanslagen en andere schuldvorderingen die zijn ontstaan vóór 1 juni 1990 nadere regels worden gesteld met betrekking tot de uitvoering van de [Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de regelingen ingevolge deze wet. 
+Bij ministeriële regeling kunnen ter zake van belastingaanslagen en andere schuldvorderingen die zijn ontstaan vóór 1 juni 1990 nadere regels worden gesteld met betrekking tot de uitvoering van de Invorderingswet 1990 en de regelingen ingevolge deze wet. 
 
 ### Artikel  LXII  
 
-Waar in deze wet de [Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) is aangehaald als Invorderingswet 1990 met vermelding van het Staatsblad waarin die wet is geplaatst, wordt bij plaatsing van deze wet in het Staatsblad na "Stb. ..." ingevoegd het nummer van het Staatsblad waarin de [Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) wordt geplaatst. 
+Waar in deze wet de Invorderingswet 1990 is aangehaald als Invorderingswet 1990 met vermelding van het Staatsblad waarin die wet is geplaatst, wordt bij plaatsing van deze wet in het Staatsblad na "Stb. ..." ingevoegd het nummer van het Staatsblad waarin de Invorderingswet 1990 wordt geplaatst. 
 
 ### Artikel  LXIII  
 

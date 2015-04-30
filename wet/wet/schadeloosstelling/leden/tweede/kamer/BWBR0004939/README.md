@@ -69,11 +69,11 @@ c. belastbaar resultaat uit overige werkzaamheden, behoudens voorzover het een w
 ### Artikel  4  
 
 1.  Telkenjare voor 1 april of binnen twee maanden na zijn beëdiging verstrekt het kamerlid aan de voorzitter van het managementteam van de Belastingdienst/Haaglanden een opgave van de neveninkomsten welke het kamerlid verwacht over het desbetreffende kalenderjaar of gedeelte daarvan te zullen genieten, dan wel een verklaring, dat hij verwacht niet meer dan 14% van de schadeloosstelling op jaarbasis aan neveninkomsten over dat jaar of een evenredig deel daarvan over het desbetreffende gedeelte van dat jaar te zullen genieten.   
-2.  De voorzitter van het managementteam van de Belastingdienst/Haaglanden deelt aan Onze Minister het bedrag van de voorlopige aftrek op de schadeloosstelling mede en verstrekt een afschrift daarvan aan het kamerlid.   
+2.  De voorzitter van het managementteam van de Belastingdienst/Haaglanden deelt aan de griffier van de Tweede Kamer der Staten-Generaal het bedrag van de voorlopige aftrek op de schadeloosstelling mede en verstrekt een afschrift daarvan aan het kamerlid.   
 3.   Het kamerlid kan een verklaring inzenden dat een opgave van neveninkomsten achterwege zal blijven. In dit geval, alsmede indien binnen de in het eerste lid bedoelde termijn geen opgave of verklaring is ingezonden, bedraagt de schadeloosstelling 65% van de schadeloosstelling op jaarbasis per jaar.   
 4.   Zo spoedig mogelijk na afloop van het kalenderjaar, zendt het kamerlid of zenden zijn nabestaanden aan de voorzitter van het managementteam van de Belastingdienst/Haaglanden een opgave van de neveninkomsten welke over dat kalenderjaar zijn genoten, dan wel een verklaring dat over dat jaar niet meer dan 14% van de schadeloosstelling op jaarbasis of, indien het kamerlid een gedeelte van het kalenderjaar lid van de Kamer is geweest, een evenredig deel van dit bedrag, is genoten.   
-5.  De voorzitter van het managementteam van de Belastingdienst/Haaglanden deelt zo spoedig mogelijk na ontvangst van de in het vierde lid bedoelde opgave of verklaring aan Onze Minister het bedrag van de definitieve aftrek op de schadeloosstelling mede en verstrekt een afschrift daarvan aan het kamerlid.   
-6.   Indien een opgave of verklaring als in het vierde lid bedoeld, niet binnen zes maanden na afloop van het kalenderjaar is ontvangen, geeft de voorzitter van het managementteam van de Belastingdienst/Haaglanden daarvan kennis aan Onze Minister. In dit geval bedraagt de schadeloosstelling 65% van de schadeloosstelling op jaarbasis per jaar.   
+5.  De voorzitter van het managementteam van de Belastingdienst/Haaglanden deelt zo spoedig mogelijk na ontvangst van de in het vierde lid bedoelde opgave of verklaring aan de griffier van de Tweede Kamer der Staten-Generaal het bedrag van de definitieve aftrek op de schadeloosstelling mede en verstrekt een afschrift daarvan aan het kamerlid.   
+6.   Indien een opgave of verklaring als in het vierde lid bedoeld, niet binnen zes maanden na afloop van het kalenderjaar is ontvangen, geeft de voorzitter van het managementteam van de Belastingdienst/Haaglanden daarvan kennis aan de griffier van de Tweede Kamer der Staten-Generaal. In dit geval bedraagt de schadeloosstelling 65% van de schadeloosstelling op jaarbasis per jaar.   
 7.   Het bedrag van de uitbetaalde schadeloosstelling kan, al dan niet op verzoek van het kamerlid, worden herzien, indien op grond van de onherroepelijk geworden aanslag in de inkomstenbelasting daartoe aanleiding blijkt te bestaan.   
 8.   Bij de toepassing van het zevende lid vindt zo nodig terugbetaling of verrekening plaats.  
 
@@ -115,7 +115,7 @@ c. belastbaar resultaat uit overige werkzaamheden, behoudens voorzover het een w
 
 ### Artikel  9  
 
-1. De kamerleden ontvangen een vergoeding voor aan de uitoefening van het kamerlidmaatschap verbonden kosten die € 2.628,59 per jaar bedraagt.  
+1. De kamerleden ontvangen een vergoeding voor aan de uitoefening van het kamerlidmaatschap verbonden kosten die € 2.652,25 per jaar bedraagt.  
 2. Het kamerlid aan wie ingevolge artikel X 10 van de Kieswet tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte ontvangt een onkostenvergoeding ter hoogte van de helft van het in het eerste lid genoemde bedrag. 
 3.  Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex, geldend voor de maand september van het voorafgaande jaar.  
 
@@ -194,14 +194,6 @@ De Wet van 28 december 1989, houdende voorzieningen ten behoeve van de leden van
 ### Artikel  19a  
 
 Onder neveninkomsten als bedoeld in artikel 3, tweede lid, wordt met betrekking tot aan het kalenderjaar 2001 voorafgaande kalenderjaren verstaan winst uit onderneming en zuivere inkomsten uit tegenwoordige arbeid. Met betrekking tot die jaren wordt in artikel 3, derde lid, onder Wet inkomstenbelasting 2001 verstaan Wet op de inkomstenbelasting 1964. 
-
-### Artikel  20  
-
-Bij toepassing van artikel 39c van de Wet op de loonbelasting 1964: 
-
-a. worden de bedragen, bedoeld in artikel 7, tweede lid, artikel 8, eerste lid, en artikel 9, eerste lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van artikel 2.10 van de Wet inkomstenbelasting 2001;  
-
-b. blijft artikel 10 buiten toepassing.  
 
 ### Artikel  21  
 

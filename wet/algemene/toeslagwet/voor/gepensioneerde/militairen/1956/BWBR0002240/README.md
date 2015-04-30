@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat de beperking van overheidspensioenen bij gelijktijdige aanspraak op een pensioenwet krachtens de [Algemene Ouderdomswet](../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) (*Stb.* 1956, 281) het wenselijk maakt de militaire pensioenen verder aan te passen aan het geldend bezoldigingspeil; 
+Alzo Wij in overweging genomen hebben, dat de beperking van overheidspensioenen bij gelijktijdige aanspraak op een pensioenwet krachtens de Algemene Ouderdomswet (*Stb.* 1956, 281) het wenselijk maakt de militaire pensioenen verder aan te passen aan het geldend bezoldigingspeil; 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  

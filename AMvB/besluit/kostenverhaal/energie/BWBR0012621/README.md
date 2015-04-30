@@ -21,21 +21,10 @@ Hebben goedgevonden en verstaan:
 4.  Onze Minister brengt de bedragen, bedoeld in het eerste lid, in rekening en verzendt een beschikking daartoe tegelijk met de bekendmaking van de betreffende in artikel 85, eerste lid, van de Elektriciteitswet 1998 of artikel 64, eerste lid, van de Gaswet bedoelde beschikking.   
 5.  In afwijking van het vierde lid brengt de Autoriteit Consument en Markt de bedragen in rekening, voor zover zij namens Onze Minister beschikkingen neemt als bedoeld in artikel 85, eerste lid, van de Elektriciteitswet 1998 of artikel 64, eerste lid, van de Gaswet. 
 
-### Artikel  3  
-
-1.  De bedragen die netbeheerders, LNG-bedrijven en gasopslagbedrijven verschuldigd zijn op grond van de artikelen 85, tweede lid, van de Elektriciteitswet 1998 en 64, tweede lid, van de Gaswet, worden zodanig berekend dat daarmee de kosten die voor de Autoriteit Consument en Markt zijn verbonden aan de uitvoering van de desbetreffende taken en de uitoefening van de desbetreffende bevoegdheden worden gedekt.   
-2.  De bedragen die netbeheerders, LNG-bedrijven en gasopslagbedrijven verschuldigd zijn op grond van de artikelen 85, tweede lid, van de Elektriciteitswet 1998 en 64, tweede lid, van de Gaswet, betreffen een vast bedrag. Het door netbeheerders verschuldigde vaste bedrag wordt vermeerderd met een bedrag dat jaarlijks wordt vastgesteld naar rato van het aantal aanwezige aansluitingen op het door een netbeheerder beheerde net.  
-3.  Het vaste bedrag, bedoeld in het tweede lid, kan verschillen voor de verschillende netbeheerders, LNG-bedrijven en gasopslagbedrijven.  
-
-### Artikel  4  
-
-1.  Onze Minister stelt vóór 15 april van ieder jaar de bedragen, bedoeld in artikel 3, vast op basis van de werkelijk gemaakte kosten in het voorgaande jaar.   
-2.  De Autoriteit Consument en Markt brengt de bedragen, bedoeld in artikel 3, in rekening en verzendt de beschikkingen daartoe binnen zeven weken na inwerkingtreding van het besluit tot vaststelling van de bedragen.  
-
 ### Artikel  5  
 
-1.  De bedragen, bedoeld in de artikelen 2 en 3, die worden gefactureerd door Onze Minister, worden door Onze Minister geïnd en aan Onze Minister betaald.   
-2.  De bedragen, bedoeld in de artikelen 2 en 3, die worden gefactureerd door de Autoriteit Consument en Markt, worden door de Autoriteit geïnd en aan de Autoriteit betaald. De Autoriteit draagt deze bedragen af aan Onze Minister.  
+1.  De bedragen, bedoeld in artikel 2, die worden gefactureerd door Onze Minister, worden door Onze Minister geïnd en aan Onze Minister betaald.   
+2.  De bedragen, bedoeld in artikel 2, die worden gefactureerd door de Autoriteit Consument en Markt, worden door de Autoriteit geïnd en aan de Autoriteit betaald. De Autoriteit draagt deze bedragen af aan Onze Minister.  
 
 ### Artikel  9  
 

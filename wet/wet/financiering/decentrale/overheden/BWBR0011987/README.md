@@ -21,7 +21,7 @@ a. openbare lichamen:
 
 3°. waterschappen;  
 
-4°. lichamen met rechtspersoonlijkheid, ingesteld met toepassing van de [Wet gemeenschappelijke regelingen](../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md);  
+4°. lichamen met rechtspersoonlijkheid, ingesteld met toepassing van de Wet gemeenschappelijke regelingen;  
 
 5°. door Onze Ministers aan te wijzen andere bij wet ingestelde lichamen en organen;    
 

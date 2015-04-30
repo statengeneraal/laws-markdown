@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze minister van Defensie van 1 februari 1993, nr. PAV2210/93002671; 
 
-Gelet op [artikel 12, onder *p*, van de Militaire Ambtenarenwet 1931](../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md), [artikel 125, eerste lid, onder *m* van de Ambtenarenwet](../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) 1929 en artikel 2, onder *m*, van de Wet rechtstoestand dienstplichtigen; 
+Gelet op artikel 12, onder *p*, van de Militaire Ambtenarenwet 1931, artikel 125, eerste lid, onder *m* van de Ambtenarenwet 1929 en artikel 2, onder *m*, van de Wet rechtstoestand dienstplichtigen; 
 
 De Raad van State gehoord (advies van 29 maart 1993, nr. W07.93.0060); 
 
@@ -22,9 +22,9 @@ In dit besluit wordt verstaan onder:
 
 a. Onze Minister:  Onze Minister van Defensie;   
 
-b. militaire ambtenaar:  de militaire ambtenaar, genoemd in [artikel 1, eerste en tweede lid van de Militaire Ambtenarenwet 1931](../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md);   
+b. militaire ambtenaar:  de militaire ambtenaar, genoemd in artikel 1, eerste en tweede lid van de Militaire Ambtenarenwet 1931;   
 
-c. ambtenaar:  de ambtenaar, genoemd in [artikel 1 van het Burgerlijk ambtenarenreglement defensie](../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md);   
+c. ambtenaar:  de ambtenaar, genoemd in artikel 1 van het Burgerlijk ambtenarenreglement defensie;   
 
 d. centrale:  een centrale van verenigingen, welke zich mede ten doel stellen het behartigen van de belangen van de militaire ambtenaren of de ambtenaren op het terrein van de rechtstoestand;   
 
@@ -51,9 +51,9 @@ a. het invoeren of wijzigen van een regeling bij of krachtens de wet, voor zover
 
 b. het invoeren of wijzigen van een wettelijke regeling die betrekking heeft op alle burgers of alle werknemers, waaronder begrepen militaire ambtenaren en ambtenaren;   
 
-c. het invoeren of wijzigen van een wettelijke regeling voor militaire ambtenaren of voor ambtenaren met een overeenkomstige inhoud als een voorstel tot het invoeren of wijzigen van een wettelijke regeling die betrekking heeft op werknemers die krachtens arbeidsovereenkomst als bedoeld in [artikel 7:610, eerste lid, van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) werkzaam zijn;   
+c. het invoeren of wijzigen van een wettelijke regeling voor militaire ambtenaren of voor ambtenaren met een overeenkomstige inhoud als een voorstel tot het invoeren of wijzigen van een wettelijke regeling die betrekking heeft op werknemers die krachtens arbeidsovereenkomst als bedoeld in artikel 7:610, eerste lid, van het Burgerlijk Wetboek werkzaam zijn;   
 
-d. het van toepassing verklaren op militaire ambtenaren of ambtenaren van een wettelijke regeling die betrekking heeft op werknemers die krachtens arbeidsovereenkomst als bedoeld in [artikel 7:610, eerste lid, van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) werkzaam zijn en tot met die van toepassing verklaring samenhangende wijzigingen in voor militaire ambtenaren of ambtenaren geldende regelingen, een en ander mits het totaal van rechten en verplichtingen van de militaire ambtenaren of de ambtenaren over het geheel beoordeeld niet ongunstiger wordt;   
+d. het van toepassing verklaren op militaire ambtenaren of ambtenaren van een wettelijke regeling die betrekking heeft op werknemers die krachtens arbeidsovereenkomst als bedoeld in artikel 7:610, eerste lid, van het Burgerlijk Wetboek werkzaam zijn en tot met die van toepassing verklaring samenhangende wijzigingen in voor militaire ambtenaren of ambtenaren geldende regelingen, een en ander mits het totaal van rechten en verplichtingen van de militaire ambtenaren of de ambtenaren over het geheel beoordeeld niet ongunstiger wordt;   
 
 e. de implementatie van verplichtingen voortvloeiend uit een verdrag of uit een besluit van een volkenrechtelijke organisatie;      
 5.  Indien in het overleg een geschil ontstaat over de vraag of bij een voorstel als bedoeld in het vierde lid onder d, voldaan wordt aan de voorwaarde dat het totaal van rechten en verplichtingen van militaire ambtenaren of ambtenaren over het geheel beoordeeld niet ongunstiger wordt, wordt dat geschil onderworpen aan arbitrage door de advies- en arbitragecommissie, bedoeld in artikel 18.   
@@ -150,18 +150,18 @@ b. de standpunten van alle deelnemers aan het overleg omtrent het onderwerp en d
 
 ### Artikel  18  
 
-1.  Er is een advies- en arbitragecommissie die tot taak heeft te adviseren of een bindende uitspraak te doen, in de geschillen die haar ingevolge de voorgaande artikelen worden voorgelegd. Als zodanig treedt op de Advies- en Arbitragecommissie, genoemd in [artikel 110*g*, eerste lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).    
-2.   Uitgesloten van het lidmaatschap en plaatsvervangend lidmaatschap zijn naast de personen, genoemd in [artikel 110*g*, vierde lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md):  
+1.  Er is een advies- en arbitragecommissie die tot taak heeft te adviseren of een bindende uitspraak te doen, in de geschillen die haar ingevolge de voorgaande artikelen worden voorgelegd. Als zodanig treedt op de Advies- en Arbitragecommissie, genoemd in artikel 110*g*, eerste lid, van het Algemeen Rijksambtenarenreglement.    
+2.   Uitgesloten van het lidmaatschap en plaatsvervangend lidmaatschap zijn naast de personen, genoemd in artikel 110*g*, vierde lid, van het Algemeen Rijksambtenarenreglement:  
 
 a. personen die lid of plaatsvervangend lid zijn van de sectorcommissie;   
 
 b. personen die bestuurslid zijn, of werkzaam zijn bij een centrale.      
-3.   Als secretaris, die de advies- en arbitragecommissie bijstaat, treedt op de secretaris, genoemd in [artikel 110*g*, vijfde lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).    
+3.   Als secretaris, die de advies- en arbitragecommissie bijstaat, treedt op de secretaris, genoemd in artikel 110*g*, vijfde lid, van het Algemeen Rijksambtenarenreglement.    
 4.   Aan de leden en plaatsvervangende leden wordt vergoeding voor reis- en verblijfkosten verleend op grond van het Besluit dienstreizen defensie.   
 
 ### Artikel  19  
 
-1.  De advies- en arbitragecommissie treedt in geval van advies op in een samenstelling van drie leden, onder wie de voorzitter, één van de twee leden, genoemd in [artikel 110*g*, derde lid, onder *a*, van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en één van de twee leden, genoemd in het derde lid, onder *b*, van dat artikel. De overige twee leden treden te zamen met de voorzitter op in geval van arbitrage. Bij verhindering van één van de leden treedt diens plaatsvervanger op.    
+1.  De advies- en arbitragecommissie treedt in geval van advies op in een samenstelling van drie leden, onder wie de voorzitter, één van de twee leden, genoemd in artikel 110*g*, derde lid, onder *a*, van het Algemeen Rijksambtenarenreglement en één van de twee leden, genoemd in het derde lid, onder *b*, van dat artikel. De overige twee leden treden te zamen met de voorzitter op in geval van arbitrage. Bij verhindering van één van de leden treedt diens plaatsvervanger op.    
 2.   Indien het verzoek om arbitrage naar het oordeel van de voorzitter eenzelfde geschil betreft als waarover door de advies- en arbitragecommissie reeds advies is uitgebracht, treedt voor een lid dat bij het uitbrengen van dat advies betrokken was, diens plaatsvervanger op.    
 3.   De voorzitter van de advies- en arbitragecommissie draagt er zorg voor dat het advies of de uitspraak binnen vier weken nadat de kennisgeving, genoemd in artikel 17, is ontvangen, aan de deelnemers aan het overleg ter kennis wordt gebracht.    
 4.   De advies- en arbitragecommissie stelt nadere regels vast met betrekking tot haar werkwijze.   

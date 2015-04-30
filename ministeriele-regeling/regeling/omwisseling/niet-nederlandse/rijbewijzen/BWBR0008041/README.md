@@ -3,7 +3,7 @@
 ##Regeling omwisseling niet-Nederlandse rijbewijzen
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 46, derde lid, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md);
+Gelet op artikel 46, derde lid, van het Reglement rijbewijzen;
 Besluit:     
 
 ### Artikel  1  
@@ -32,7 +32,7 @@ Singapore: Class 2 (motorfiets met meer dan 400 cc) Class 3 (personenauto)
 
 ### Artikel  2  
 
-1.   Om redenen van algemeen belang komen voor omwisseling tegen een Nederlands rijbewijs in aanmerking door het daartoe bevoegde gezag buiten Nederland afgegeven rijbewijzen die niet op andere wijze voor omwisseling in aanmerking komen en waarvan de houder ten genoegen van de Dienst Wegverkeer kan aantonen dat hij dan wel een van de personen van het gezin waartoe hij behoort en waarmee hij in Nederland samenwoont, dient te worden aangemerkt als een ingekomen werknemer in de zin van [artikel 8, tweede lid, onderdeel b, van het Uitvoeringsbesluit loonbelasting 1965](../../../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md) ten aanzien van wie op grond van zijn specifieke deskundigheid die op de Nederlandse arbeidsmarkt niet of schaars aanwezig is, de in artikel 9, eerste lid, van dat besluit bedoelde bewijsregel van toepassing is.   
+1.   Om redenen van algemeen belang komen voor omwisseling tegen een Nederlands rijbewijs in aanmerking door het daartoe bevoegde gezag buiten Nederland afgegeven rijbewijzen die niet op andere wijze voor omwisseling in aanmerking komen en waarvan de houder ten genoegen van de Dienst Wegverkeer kan aantonen dat hij dan wel een van de personen van het gezin waartoe hij behoort en waarmee hij in Nederland samenwoont, dient te worden aangemerkt als een ingekomen werknemer in de zin van artikel 8, tweede lid, onderdeel b, van het Uitvoeringsbesluit loonbelasting 1965 ten aanzien van wie op grond van zijn specifieke deskundigheid die op de Nederlandse arbeidsmarkt niet of schaars aanwezig is, de in artikel 9, eerste lid, van dat besluit bedoelde bewijsregel van toepassing is.   
 2.   Buiten de gevallen, bedoeld in het eerste lid, kan de Algemeen Directeur van de Dienst Wegverkeer, na overleg met de Minister van Verkeer en Waterstaat, om redenen, aan het algemeen belang ontleend, een door het daartoe bevoegde gezag buiten Nederland afgegeven rijbewijs dat niet op andere wijze voor omwisseling tegen een Nederlands rijbewijs in aanmerking komt, omwisselen tegen een Nederlands rijbewijs.   
 
 ### Artikel  3  

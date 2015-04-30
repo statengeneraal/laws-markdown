@@ -21,9 +21,9 @@ c.het COA: het Centraal Orgaan opvang asielzoekers;
 
 d.de Minister: de Minister van Justitie;
 
-e.kind: ten laste komend kind als bedoeld in de Wet werk en bijstand;
+e.kind: ten laste komend kind als bedoeld in de Participatiewet;
 
-f.echtgenoot: echtgenoot als bedoeld in de Wet werk en bijstand;
+f.echtgenoot: echtgenoot als bedoeld in de Participatiewet;
 
 g. minderjarige vreemdeling: een persoon die de leeftijd van 18 jaar nog niet heeft bereikt, die niet over de Nederlandse nationaliteit beschikt en niet op grond van enig wettelijk voorschrift als Nederlander moet worden behandeld;  
 
@@ -51,7 +51,7 @@ d.  een hier te lande verblijvende vreemdeling, niet zijnde een vreemdeling als 
 
 3º  die voorafgaand aan de onder 2° van dit onderdeel bedoelde aanvraag een aanvraag om toelating als vluchteling en een aanvraag voor een vergunning tot verblijf als bedoeld in artikel 15a, eerste lid respectievelijk artikel 9 van de Vreemdelingenwet heeft ingediend;  
 
-4º  aan wie niet met toepassing van de Regeling opvang asielzoekers of de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005, opvang wordt geboden, en wiens recht op bijstand op grond van de Wet werk en bijstand als gevolg van de Koppelingswet is beëindigd, vanaf het moment waarop het recht op bijstand op grond van de Wet werk en bijstand als gevolg van de Koppelingswet is beëindigd, gedurende de termijn waarin blijkens de schriftelijke verklaring van de korpschef of de Immigratie- en Naturalisatiedienst aan het COA, niet onherroepelijk op de onder 2° van dit onderdeel bedoelde aanvraag is beslist.    
+4º  aan wie niet met toepassing van de Regeling opvang asielzoekers of de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005, opvang wordt geboden, en wiens recht op bijstand op grond van de Participatiewet als gevolg van de Koppelingswet is beëindigd, vanaf het moment waarop het recht op bijstand op grond van de Participatiewet als gevolg van de Koppelingswet is beëindigd, gedurende de termijn waarin blijkens de schriftelijke verklaring van de korpschef of de Immigratie- en Naturalisatiedienst aan het COA, niet onherroepelijk op de onder 2° van dit onderdeel bedoelde aanvraag is beslist.    
 
 e.een samen met tenminste één ouder of verzorger hier te lande verblijvende minderjarige vreemdeling, niet zijnde een vreemdeling als bedoeld in onderdeel c, die geen aanspraak heeft op verstrekkingen op grond van enig ander wettelijk voorschrift en die blijkens een schriftelijke verklaring van de Immigratie- en Naturalisatiedienst aan het COA rechtmatig verblijf heeft als bedoeld in artikel 8, onder f, g, of h, van de Vreemdelingenwet 2000, vanaf het moment dat het rechtmatig verblijf, bedoeld in artikel 8, onder f, g, of h, van de Vreemdelingenwet 2000, is verkregen tot het moment waarop dit rechtmatig verblijf is geëindigd;
 
@@ -112,7 +112,7 @@ b.  de vreemdeling rechtens zijn vrijheid is ontnomen.
 
 ### Artikel  6  
 
-1.  De berekeningsbasis is het bedrag, bedoeld in artikel 21, onder c, van de Wet werk en bijstand.   
+1.  De berekeningsbasis is het bedrag, bedoeld in artikel 21, onder c, van de Participatiewet.   
 2.  De financiële toelage bedraagt: 
 
 a.  voor de vreemdeling, bedoeld in artikel 4, onder a of j: 70 procent van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen;  
@@ -131,7 +131,7 @@ g.  voor de vreemdeling bedoeld in artikel 4, onder h: 17,5 procent van de berek
 
 h.  voor de vreemdeling, bedoeld in artikel 4, onder i: 50 procent van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen;  
 
-i. voor de vreemdeling, bedoeld in artikel 2, eerste lid, onder e: het bedrag, bedoeld in artikel 20, eerste lid, onder a, van de Wet werk en bijstand, verminderd met het in aanmerking te nemen inkomen.  
+i. voor de vreemdeling, bedoeld in artikel 2, eerste lid, onder e: het bedrag, bedoeld in artikel 20, eerste lid, onder a, van de Participatiewet, verminderd met het in aanmerking te nemen inkomen.  
 
 ### Artikel  7  
 
@@ -140,9 +140,9 @@ i. voor de vreemdeling, bedoeld in artikel 2, eerste lid, onder e: het bedrag, b
 
 ### Artikel  8  
 
-1.  Op het in aanmerking te nemen inkomen en vermogen zijn de artikelen 3 en 4, in verbinding met de artikelen 31 tot en met 34 van de Wet werk en bijstand van overeenkomstige toepassing.   
-2.  Tot het in aanmerking te nemen inkomen wordt tevens gerekend het recht op algemene bijstand op grond van de Wet werk en bijstand.   
-3.  Niet tot het in aanmerking te nemen inkomen wordt gerekend de bijzondere bijstand op grond van de Wet werk en bijstand.   
+1.  Op het in aanmerking te nemen inkomen en vermogen zijn de artikelen 3 en 4, in verbinding met de artikelen 31 tot en met 34 van de Participatiewet van overeenkomstige toepassing.   
+2.  Tot het in aanmerking te nemen inkomen wordt tevens gerekend het recht op algemene bijstand op grond van de Participatiewet.   
+3.  Niet tot het in aanmerking te nemen inkomen wordt gerekend de bijzondere bijstand op grond van de Participatiewet.   
 
 ### Artikel  9  
 

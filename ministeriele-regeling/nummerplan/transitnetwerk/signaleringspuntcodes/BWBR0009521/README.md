@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel 1  
 
-In dit besluit wordt verstaan onder college: college, genoemd in [artikel 2, eerste lid, van de Wet Onafhankelijke post- en telecommunicatieautoriteit](../../../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md).  
+In dit besluit wordt verstaan onder college: college, genoemd in artikel 2, eerste lid, van de Wet Onafhankelijke post- en telecommunicatieautoriteit.  
 
 ### Artikel 2  
 

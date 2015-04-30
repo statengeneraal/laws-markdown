@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Defensie van 1 maart 1993, nr. PAV 5065/93005823;
 
-Gelet op [artikel 12 van de Militaire Ambtenarenwet 1931](../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) en artikel 2 van de Wet rechtstoestand dienstplichtigen;
+Gelet op artikel 12 van de Militaire Ambtenarenwet 1931 en artikel 2 van de Wet rechtstoestand dienstplichtigen;
 
 De Raad van State gehoord (advies van 2 juni 1993, nr. W07.93.0146);
 

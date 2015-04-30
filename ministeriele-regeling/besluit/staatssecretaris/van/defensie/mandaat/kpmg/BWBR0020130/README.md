@@ -20,13 +20,13 @@ c. Uitkeringsregelingen:
 
 – Uitkeringsbesluit burgerlijke ambtenaren defensie (SBK-Standaard);  
 
-– [Tijdelijk besluit uitstroombevorderende maatregel Defensie](../../../../../../../../AMvB/tijdelijk/besluit/uitstroombevorderende/maatregel/defensie/BWBR0006828/README.md) (SBK-WG-UBM, burger en militair);  
+– Tijdelijk besluit uitstroombevorderende maatregel Defensie (SBK-WG-UBM, burger en militair);  
 
 – Wachtgeld- en uitkeringsbesluit burgerlijke ambtenaren defensie bij privatisering;  
 
-– Het [Werkloosheidsbesluit defensiepersoneel](../../../../../../../../AMvB/werkloosheidsbesluit/defensiepersoneel/BWBR0008113/README.md);  
+– Het Werkloosheidsbesluit defensiepersoneel;  
 
-– Het [Werkloosheidsbesluit beroepsmilitairen bepaalde tijd](../../../../../../../../AMvB/werkloosheidsbesluit/beroepsmilitairen/bepaalde/tijd/BWBR0007212/README.md).     
+– Het Werkloosheidsbesluit beroepsmilitairen bepaalde tijd.     
 
 ### Artikel  2  
 

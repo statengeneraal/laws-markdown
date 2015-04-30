@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het met het oog op de herziening van het adviesstelsel wenselijk is dat de Raad voor cultuur zijn beleidsadviestaak behoudt waartoe in verband met [artikel 79 van de Grondwet](../../../../../../../../wet/grondwet/BWBR0001840/README.md) de [Wet op het specifiek cultuurbeleid](../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) moet worden aangepast, dat die wet wordt aangepast aan de [Kaderwet adviescolleges](../../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md), dat in verband met de [Kaderwet adviescolleges](../../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) een voorziening wordt getroffen voor de Tijdelijke commissie informatiebeleid en dat het voorts wenselijk is enige redactionele verbeteringen aan te brengen in de [Wet tot behoud van cultuurbezit](../../../../../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md);
+Alzo Wij in overweging genomen hebben, dat het met het oog op de herziening van het adviesstelsel wenselijk is dat de Raad voor cultuur zijn beleidsadviestaak behoudt waartoe in verband met artikel 79 van de Grondwet de Wet op het specifiek cultuurbeleid moet worden aangepast, dat die wet wordt aangepast aan de Kaderwet adviescolleges, dat in verband met de Kaderwet adviescolleges een voorziening wordt getroffen voor de Tijdelijke commissie informatiebeleid en dat het voorts wenselijk is enige redactionele verbeteringen aan te brengen in de Wet tot behoud van cultuurbezit;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### ARTIKEL  I  
@@ -19,7 +19,7 @@ Wijzigt de Wet tot behoud van cultuurbezit.
 
 ### ARTIKEL  III  
 
-De Tijdelijke commissie informatiebeleid, bedoeld in artikel 2 van het Besluit Tijdelijke commissie informatiebeleid, wordt in afwijking van [artikel 34, tweede lid, van de Kaderwet adviescolleges](../../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) met ingang van 1 januari 1997 aangemerkt als een college als bedoeld in artikel 5, eerste lid, van die wet. 
+De Tijdelijke commissie informatiebeleid, bedoeld in artikel 2 van het Besluit Tijdelijke commissie informatiebeleid, wordt in afwijking van artikel 34, tweede lid, van de Kaderwet adviescolleges met ingang van 1 januari 1997 aangemerkt als een college als bedoeld in artikel 5, eerste lid, van die wet. 
 
 ### ARTIKEL  IV  
 

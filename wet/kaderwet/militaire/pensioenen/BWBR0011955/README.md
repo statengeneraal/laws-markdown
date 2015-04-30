@@ -17,11 +17,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Defensie;  
 
-b. beroepsmilitair: militair ambtenaar als bedoeld in [artikel 1 van de Militaire ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md), voor zover hij behoort tot degenen die zijn aangesteld bij het beroepspersoneel of daarmee gelijk zijn gesteld;  
+b. beroepsmilitair: militair ambtenaar als bedoeld in artikel 1 van de Militaire ambtenarenwet 1931, voor zover hij behoort tot degenen die zijn aangesteld bij het beroepspersoneel of daarmee gelijk zijn gesteld;  
 
-c. dienstplichtige: dienstplichtige in de zin van de [Kaderwet dienstplicht](../../../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md);  
+c. dienstplichtige: dienstplichtige in de zin van de Kaderwet dienstplicht;  
 
-d. reservist: militair ambtenaar als bedoeld in [artikel 1 van de Militaire ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md), voor zover behorende tot het reserve-personeel;  
+d. reservist: militair ambtenaar als bedoeld in artikel 1 van de Militaire ambtenarenwet 1931, voor zover behorende tot het reserve-personeel;  
 
 e. fonds: Stichting Pensioenfonds ABP;  
 
@@ -33,7 +33,7 @@ g. pensioenreglement: pensioenreglement van het fonds.
 
 ####Het stelsel
 
-1.  De aanspraken op ouderdoms- en nabestaandenpensioen en de daarmee samenhangende verplichtingen van de beroepsmilitair, de gewezen beroepsmilitair en hun nagelaten betrekkingen worden, met inachtneming van de bij of op grond van deze wet vastgestelde afwijkingen en aanvullingen, neergelegd in de overeenkomst naar burgerlijk recht, bedoeld in [artikel 4, eerste lid, van de Wet privatisering ABP](../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md).   
+1.  De aanspraken op ouderdoms- en nabestaandenpensioen en de daarmee samenhangende verplichtingen van de beroepsmilitair, de gewezen beroepsmilitair en hun nagelaten betrekkingen worden, met inachtneming van de bij of op grond van deze wet vastgestelde afwijkingen en aanvullingen, neergelegd in de overeenkomst naar burgerlijk recht, bedoeld in artikel 4, eerste lid, van de Wet privatisering ABP.   
 2.  De in het eerste lid bedoelde nadere overeenkomst strekt zich mede uit tot de aanspraken op militair ouderdoms- en nabestaandenpensioen die voor het sluiten daarvan zijn opgebouwd.   
 3.  De door het eerste en tweede lid beheerste pensioenaanspraken worden vastgelegd in het pensioenreglement. Aanspraken op militair pensioen worden rechtstreeks aan dat reglement ontleend.    
 4.  Prepensioneringsaanspraken vanaf 60 jaar zullen worden neergelegd in een overeenkomst naar burgerlijk recht.   
@@ -73,8 +73,8 @@ De eigen bijdrage van de beroepsmilitair aan de op deze wet steunende pensioenvo
 
 ####Pensioenwet
 
-1. De [Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md) is van toepassing op de nadere overeenkomst, bedoeld in artikel 2, eerste lid. 
-2. Behoudens de [artikelen 93](../../../../../wet/pensioenwet/BWBR0020809/README.md) en [216 van de Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md) is het eerste lid niet van toepassing op de pensioenvoorzieningen van:
+1. De Pensioenwet is van toepassing op de nadere overeenkomst, bedoeld in artikel 2, eerste lid. 
+2. Behoudens de artikelen 93 en 216 van de Pensioenwet is het eerste lid niet van toepassing op de pensioenvoorzieningen van:
 
 a.de militair, voor zover die zijn bepaald door pensioengeldige tijd die voorafgaat aan de in artikel 3, eerste lid, bedoelde datum, en voor zover deze op grond van deze wet en binnen het raam van de overeenkomst, bedoeld in artikel 4, tweede lid, op declaratiebasis worden gefinancierd;
 
@@ -107,7 +107,7 @@ b.de nagelaten betrekkingen van de militair, die zijn afgeleid van de aanspraak 
 10°.  Pensioenwet bijzondere groepen reserve-personeel 1956;  
 
 11°.  Wet van 22 december 1938, tot regeling van de pensioenen voor officieren der Koninklijke marine-reserve, die zich – ter aanvulling van een bij de Koninklijke Marine bestaand tekort aan beroepsofficieren – krachtens een daartoe door hen gesloten vrijwillige verbintenis voor onbepaalden tijd in actieven dienst bevinden, alsmede voor hunne weduwen en weezen (Stb. 1938, 504).     
-2.  De [artikelen 2, tweede lid, onderdeel f](../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md), [9](../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md), [16](../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) en [28 tot en met 31 van de Wet privatisering ABP](../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) vervallen met dien verstande, dat voor het buiten werking stellen of intrekken van het op [artikel 28 van die wet](../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) steunende Nabestaandenreglement militairen en het op artikel 31 daarvan steunende Besluit bijzondere voorzieningen militair nabestaandenpensioen dezelfde procedure zal gelden als voor de in het eerste lid genoemde wetten.  
+2.  De artikelen 2, tweede lid, onderdeel f, 9, 16 en 28 tot en met 31 van de Wet privatisering ABP vervallen met dien verstande, dat voor het buiten werking stellen of intrekken van het op artikel 28 van die wet steunende Nabestaandenreglement militairen en het op artikel 31 daarvan steunende Besluit bijzondere voorzieningen militair nabestaandenpensioen dezelfde procedure zal gelden als voor de in het eerste lid genoemde wetten.  
 
 ### Artikel  8  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat ingevolge additioneel [artikel IV van de Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) naar de tekst van 1983 (additioneel [artikel X van de Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) naar de tekst van 1972) de daarin vervatte regeling van kracht blijft, totdat bij wettelijke regeling een voorziening zal zijn getroffen; dat op 18 mei 1981 tussen de Staat en een aantal kerkgenootschappen een overeenkomst is gesloten, strekkende tot beëindiging van de in voornoemd Grondwetsartikel vastgelegde financiële verhouding tussen Staat en Kerk; dat Wij thans kunnen overgaan tot vaststelling van de hiervoor bedoelde wettelijke regeling, welke met name inhoudt de goedkeuring van genoemde overeenkomst;
+Alzo Wij in overweging genomen hebben, dat ingevolge additioneel artikel IV van de Grondwet naar de tekst van 1983 (additioneel artikel X van de Grondwet naar de tekst van 1972) de daarin vervatte regeling van kracht blijft, totdat bij wettelijke regeling een voorziening zal zijn getroffen; dat op 18 mei 1981 tussen de Staat en een aantal kerkgenootschappen een overeenkomst is gesloten, strekkende tot beëindiging van de in voornoemd Grondwetsartikel vastgelegde financiële verhouding tussen Staat en Kerk; dat Wij thans kunnen overgaan tot vaststelling van de hiervoor bedoelde wettelijke regeling, welke met name inhoudt de goedkeuring van genoemde overeenkomst;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  
@@ -15,7 +15,7 @@ De als bijlage bij deze wet gevoegde overeenkomst van 18 mei 1981, gesloten tuss
 
 ### Artikel  2  
 
-De aanspraken ingevolge additioneel [artikel IV van de Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) naar de tekst van 1983 (additioneel [artikel X van de Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) naar de tekst van 1972) van godsdienstige gezindheden en hun leraren vervallen. 
+De aanspraken ingevolge additioneel artikel IV van de Grondwet naar de tekst van 1983 (additioneel artikel X van de Grondwet naar de tekst van 1972) van godsdienstige gezindheden en hun leraren vervallen. 
 
 ### Artikel  3  
 
@@ -83,9 +83,9 @@ d. dat het kabinet van oordeel was dat de voorstellen niet dienden te worden ove
 
 e. dat daartoe bij beschikking van 7 juli 1970 de Adviescommissie Afkoopregeling Aanspraken ex artikel 185 Grondwet, de z.g. Commissie-Verdam, werd ingesteld, die in augustus 1971 een interimnota uitbracht, welke op 11 november 1971 door de Staatssecretaris van Financiën werd aangeboden aan de voorzitter van de Tweede Kamer (zitting 1971-1972, Tweede Kamer, stuk 11 608, nrs. 1-2);  
 
-f. dat na een uitvoerige parlementaire behandeling in 1972 tot stand kwam de Wet van 10 februari 1972, *Stb.* 108, houdende verandering in de [Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md), strekkende tot het doen vervallen van artikel 185 van de Grondwet onder opneming van het Additioneel Artikel X, dat luidt:   "1. Totdat ter zake bij een wettelijke regeling een voorziening zal zijn getroffen, blijft de volgende regeling van kracht: 2. De traktementen, pensioenen en andere inkomsten, van welke aard ook, thans door de onderscheidene godsdienstige gezindheden of derzelver leraars genoten wordende, blijven aan dezelve gezindheden verzekerd; 3. Aan de leraars, welke tot nog toe uit 's lands kas geen, of een niet toereikend traktement genieten, kan een traktement toegelegd, of het bestaande vermeerderd worden.";  
+f. dat na een uitvoerige parlementaire behandeling in 1972 tot stand kwam de Wet van 10 februari 1972, *Stb.* 108, houdende verandering in de Grondwet, strekkende tot het doen vervallen van artikel 185 van de Grondwet onder opneming van het Additioneel Artikel X, dat luidt:   "1. Totdat ter zake bij een wettelijke regeling een voorziening zal zijn getroffen, blijft de volgende regeling van kracht: 2. De traktementen, pensioenen en andere inkomsten, van welke aard ook, thans door de onderscheidene godsdienstige gezindheden of derzelver leraars genoten wordende, blijven aan dezelve gezindheden verzekerd; 3. Aan de leraars, welke tot nog toe uit 's lands kas geen, of een niet toereikend traktement genieten, kan een traktement toegelegd, of het bestaande vermeerderd worden.";  
 
-g. dat de kerken, die rechten hebben in de zin van Additioneel [Artikel X van de Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md), de uitgangspunten en voorstellen van de Commissie-Verdam niet konden aanvaarden en in 1974 in kerkelijke kring een aanvang hebben gemaakt met een onderzoek naar een alternatieve afkoopregeling, welke gerealiseerd zou kunnen worden middels bijdragen in de pensioensfeer;  
+g. dat de kerken, die rechten hebben in de zin van Additioneel Artikel X van de Grondwet, de uitgangspunten en voorstellen van de Commissie-Verdam niet konden aanvaarden en in 1974 in kerkelijke kring een aanvang hebben gemaakt met een onderzoek naar een alternatieve afkoopregeling, welke gerealiseerd zou kunnen worden middels bijdragen in de pensioensfeer;  
 
 h. dat dit heeft geleid tot een nota, inzake een afkoopregeling in de pensioensfeer, die door de kerkgenootschappen, die deelnemen aan het Interkerkelijk Contact in Overheidszaken, werd goedgekeurd en aangeboden bij een schrijven d.d. 18 februari 1977 aan de toenmalige Minister van Financiën;  
 
@@ -103,21 +103,21 @@ In deze overeenkomst wordt verstaan onder:
 
 a. "kerkgenootschap": 
 
-1. een ex Additioneel [Artikel X van de Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) rechthebbend kerkgenootschap;  
+1. een ex Additioneel Artikel X van de Grondwet rechthebbend kerkgenootschap;  
 
 2. een kerkgenootschap, dat geacht kan worden door afsplitsing of afscheiding onmiddellijk, dan wel middellijk te zijn voortgekomen uit een onder *a*.1 bedoeld kerkgenootschap;    
 
 b. "ambtsdrager": 
 
-1. degene, die als leraar van een kerkgenootschap in de zin van Additioneel [Artikel X van de Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) een openbare bediening bekleedt of heeft bekleed en als zodanig is aangemeld en ingeschreven bij het Ministerie van Financiën;  
+1. degene, die als leraar van een kerkgenootschap in de zin van Additioneel Artikel X van de Grondwet een openbare bediening bekleedt of heeft bekleed en als zodanig is aangemeld en ingeschreven bij het Ministerie van Financiën;  
 
-2. degene, die zou kunnen zijn aangemeld en ingeschreven bij het Ministerie van Financiën, indien het kerkgenootschap, waarin hij die bediening bekleedt of heeft bekleed, rechthebbende zou zijn geweest op grond van Additioneel [Artikel X van de Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md);     in beide gevallen, mits het desbetreffende kerkgenootschap aan hem een honorering, inclusief oudedagsvoorziening, verstrekt of laat verstrekken;  
+2. degene, die zou kunnen zijn aangemeld en ingeschreven bij het Ministerie van Financiën, indien het kerkgenootschap, waarin hij die bediening bekleedt of heeft bekleed, rechthebbende zou zijn geweest op grond van Additioneel Artikel X van de Grondwet;     in beide gevallen, mits het desbetreffende kerkgenootschap aan hem een honorering, inclusief oudedagsvoorziening, verstrekt of laat verstrekken;  
 
-c. "kerkelijk dienstjaar":   een jaar, dat door een ambtsdrager in een openbare bediening is doorgebracht, voor zover aan het bekleden daarvan uitzicht op pensioen als bedoeld in Additioneel [Artikel X van de Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) was verbonden of zou zijn verbonden geweest, indien het een ambtsdrager betreft als bedoeld onder *b*.2 van dit artikel. 
+c. "kerkelijk dienstjaar":   een jaar, dat door een ambtsdrager in een openbare bediening is doorgebracht, voor zover aan het bekleden daarvan uitzicht op pensioen als bedoeld in Additioneel Artikel X van de Grondwet was verbonden of zou zijn verbonden geweest, indien het een ambtsdrager betreft als bedoeld onder *b*.2 van dit artikel. 
 
 ### Artikel 2  
 
-1. De staat stelt aan de gezamenlijke kerkgenootschappen een bedrag van f 250 000 000 ter beschikking, te betalen ineens bij het van kracht worden van deze overeenkomst dan wel naar keuze van de staat te betalen in twintig jaarlijkse bedragen vast te stellen op annuïteitsbasis, waarvan de eerste vervalt bij het van kracht worden van deze overeenkomst, berekend naar een rentevoet, welke voor de staat bij het van kracht worden van deze overeenkomst geldt of zou hebben gegolden voor het opnemen van gelden op de onderhandse kapitaalmarkt, zulks door de staat en de hierna bedoelde stichting in onderling overleg vast te stellen. 2. De kerkgenootschappen, die bij deze overeenkomst partij zijn, aanvaarden dat aanspraken die op grond van Additioneel [Artikel X van de Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) zouden kunnen worden geldend gemaakt bij de in artikel 6 bedoelde wet zullen vervallen. 3.De terbeschikkingstelling van in het eerste lid bedoelde bedragen zal geschieden door overmaking op een rekening bij een in onderling overleg van de Minister van Financiën en de hierna bedoelde stichting aan te wijzen Nederlandse bankinstelling ten name van die stichting. 
+1. De staat stelt aan de gezamenlijke kerkgenootschappen een bedrag van f 250 000 000 ter beschikking, te betalen ineens bij het van kracht worden van deze overeenkomst dan wel naar keuze van de staat te betalen in twintig jaarlijkse bedragen vast te stellen op annuïteitsbasis, waarvan de eerste vervalt bij het van kracht worden van deze overeenkomst, berekend naar een rentevoet, welke voor de staat bij het van kracht worden van deze overeenkomst geldt of zou hebben gegolden voor het opnemen van gelden op de onderhandse kapitaalmarkt, zulks door de staat en de hierna bedoelde stichting in onderling overleg vast te stellen. 2. De kerkgenootschappen, die bij deze overeenkomst partij zijn, aanvaarden dat aanspraken die op grond van Additioneel Artikel X van de Grondwet zouden kunnen worden geldend gemaakt bij de in artikel 6 bedoelde wet zullen vervallen. 3.De terbeschikkingstelling van in het eerste lid bedoelde bedragen zal geschieden door overmaking op een rekening bij een in onderling overleg van de Minister van Financiën en de hierna bedoelde stichting aan te wijzen Nederlandse bankinstelling ten name van die stichting. 
 
 ### Artikel 3  
 
@@ -141,7 +141,7 @@ De staat zal het nodige verrichten om te bevorderen dat in de in artikel 6 bedoe
 
 ### Artikel 5  
 
-De kerkgenootschappen, die partij zijn bij deze overeenkomst en die rechthebbenden zijn in de zin van Additioneel [Artikel X van de Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md), stemmen ermee in dat de op grond van artikel 29, eerste lid, laatste volzin van het Postbesluit 1955 (*Stb.* 457) verleende portvrijdommen zullen vervallen 10 jaren na de datum van het van kracht worden van deze overeenkomst. 
+De kerkgenootschappen, die partij zijn bij deze overeenkomst en die rechthebbenden zijn in de zin van Additioneel Artikel X van de Grondwet, stemmen ermee in dat de op grond van artikel 29, eerste lid, laatste volzin van het Postbesluit 1955 (*Stb.* 457) verleende portvrijdommen zullen vervallen 10 jaren na de datum van het van kracht worden van deze overeenkomst. 
 
 ### Artikel 6  
 

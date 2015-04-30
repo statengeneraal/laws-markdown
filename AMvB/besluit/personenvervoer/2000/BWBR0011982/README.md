@@ -473,7 +473,7 @@ b. de aanleg en onderhoud van infrastructuur ten behoeve van het openbaar vervoe
 
 ### Artikel  35  
 
-De plicht te gedogen, bedoeld in artikel 35 van de wet, geldt ten aanzien van het gebruik door de concessiehouder van in de bijlage opgenomen categorieën of onderdelen van infrastructuur. 
+De plicht te gedogen, bedoeld in artikel 35 van de wet, geldt ten aanzien van het gebruik door de concessiehouder van in bijlage I opgenomen categorieën of onderdelen van infrastructuur. 
 
 ###Artikel 35a 
 
@@ -493,7 +493,7 @@ De concessieverlener verbindt uiterlijk drie maanden na inwerkingtreding van het
 
 ###Artikel 36a 
 
-1. Een concessie voor openbaar vervoer per trein als bedoeld in artikel 20, derde lid, van de wet kan bij wijze van overgangsmaatregel worden verleend zonder dat een aanbesteding is gehouden:
+1. Een concessie voor openbaar vervoer per trein als bedoeld in artikel 20, vierde lid, van de wet kan bij wijze van overgangsmaatregel worden verleend zonder dat een aanbesteding is gehouden:
 
 a.in afwachting van tot stand te brengen infrastructuur;
 
@@ -502,6 +502,15 @@ b. in afwachting van de vorming van nieuwe concessiegebieden, of
 c.gedurende een periode waarin aanbesteding wordt voorbereid.
 2. De duur van een concessie die wordt verleend conform het eerste lid bedraagt ten hoogste drie jaar. Na afloop van die concessie vindt voor het openbaar vervoer in het gebied waarop de desbetreffende concessie betrekking had, niet opnieuw concessieverlening plaats conform het eerste lid, behoudens goedkeuring van Onze Minister.
 3.  Een opdracht voor het openbaar vervoer per regionale treindienst die voor de inwerkingtreding van dit besluit is aanbesteed of onderhands verleend op grond van artikel 5, eerste lid, van de Regeling experimenten regionale treindiensten, kan na inwerkingtreding van dit besluit worden omgezet in een concessie voor openbaar vervoer per trein zonder dat daartoe een aanbesteding is gehouden.
+
+### Artikel  36b  
+
+1.  Bevoegd tot het verlenen, wijzigen, of intrekken van concessies als bedoeld in artikel 20, tweede lid, van de wet, is: 
+
+a. in het in bijlage II weergegeven gebied het dagelijks bestuur van het openbaar lichaam Stadsregio Amsterdam;  
+
+b. in het in bijlage III weergegeven gebied het dagelijks bestuur van het openbaar lichaam, dat is ingesteld bij gemeenschappelijke regeling van de 24 gemeenten gelegen binnen dat gebied.     
+2.  Zodra in het in bijlage II weergegeven gebied, onderscheidenlijk het in bijlage III weergegeven gebied, een openbaar lichaam is ingesteld met als enig belang de behartiging van taken op het terrein van verkeer en vervoer, gaat de bevoegdheid van het dagelijks bestuur van het in het eerste lid, onder a, genoemde openbaar lichaam over naar het dagelijks bestuur van het nieuw ingestelde openbaar lichaam indien daaraan in ieder geval de gemeente Amsterdam deelneemt, en van het dagelijks bestuur van de in het eerste lid onder b genoemde openbare lichaam naar het dagelijks bestuur van het nieuw ingestelde openbaar lichaam, indien daaraan in ieder geval de gemeenten Rotterdam en Den Haag deelnemen. De overgang vindt plaats met ingang van de datum waarop de gemeenschappelijke regeling waarin het desbetreffende openbaar lichaam wordt ingesteld, in werking treedt.  
 
 ### §  2  
 
@@ -1259,9 +1268,9 @@ de *achtentwintigste* december 2000
 De Minister van Justitie, 
 A. H. Korthals     
 
-### Bijlage  
+### Bijlage  I 
 
-####behorende bij artikel 35 van het Besluit personenvervoer 2000
+####behorende bij artikel 35  van het Besluit personenvervoer 2000
 
 ### 1  
 

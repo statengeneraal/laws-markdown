@@ -76,7 +76,9 @@ t.  *verordening (EG) 124/2009:* verordening (EG) nr. 124/2009 van de Commissie 
 
 u.  *verordening (EG) 1333/2008:* verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 inzake levensmiddelenadditieven (PbEU L 354); 
 
-v.  *lokaal vervoer:* rechtstreekse aflevering van bestellingen aan consumenten, filialen, horecagelegenheden, instellingen en marktplaatsen voor zover deze aflevering plaatsvindt binnen een straal van twintig kilometer van de plaats van waaruit het vervoer plaatsvindt gedurende ten hoogste twee uren.  
+v.  *lokaal vervoer:* rechtstreekse aflevering van bestellingen aan consumenten, filialen, horecagelegenheden, instellingen en marktplaatsen voor zover deze aflevering plaatsvindt binnen een straal van twintig kilometer van de plaats van waaruit het vervoer plaatsvindt gedurende ten hoogste twee uren; 
+
+w.  *verordening (EU) 1169/2011:* Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van Verordeningen (EG) nr. 1924/2006 en (EG) nr. 1925/2006 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 87/250/EEG van de Commissie, Richtlijn 90/496/EEG van de Raad, Richtlijn 1999/10/EG van de Commissie, Richtlijn 2000/13/EG van het Europees Parlement en de Raad, Richtlijnen 2002/67/EG en 2008/5/EG van de Commissie, en Verordening (EG) nr. 608/2004 van de Commissie (PbEU 2011, L 304).  
 
 ### Artikel  2  
 
@@ -90,7 +92,7 @@ v.  *lokaal vervoer:* rechtstreekse aflevering van bestellingen aan consumenten,
 8.  Het is verboden pluimveevlees te verhandelen anders dan met inachtneming van artikel 4a inzake de verpakking van de waar.   
 9.  Het is verboden te handelen in strijd met de artikelen 1, eerste lid, 3, en 5, van verordening (EG) 1881/2006.  
 10. Het is verboden ten aanzien van eet- en drinkwaren te handelen in strijd met de bij artikel 14, eerste lid, artikel 18, eerste tot en met vierde lid, artikel 19, en de krachtens artikel 18, vijfde lid, van verordening (EG) 178/2002 vastgestelde bepalingen.
-11. Het is verboden eet- of drinkwaren te verhandelen na de uiterste consumptiedatum, bedoeld in artikel 5, eerste lid, onder d, van het Warenwetbesluit Etikettering van levensmiddelen.
+11. Het is verboden eet- of drinkwaren te verhandelen na de uiterste consumptiedatum, bedoeld in artikel 24, eerste lid, van verordening (EU) 1169/2011.
 12. Het is verboden te handelen in strijd met artikel 2 van verordening (EG) 37/2005.
 13. Het is verboden ten aanzien van eet- en drinkwaren te handelen in strijd met de artikelen 18, eerste lid, 19 en 20, eerste lid, van verordening (EG) 396/2005.
 14. Het is verboden te handelen in strijd met artikel 3. 
@@ -222,7 +224,6 @@ c.40 mg/l kinine, indien de waar vruchtensap bevat.
 3. De vermelding «cafeïnevrij» mag bij een als *koffie* of *thee* aangeduide waar die bestemd is voor aflevering aan de eindverbruiker of een instelling, uitsluitend worden gebezigd voor zover het cafeïnegehalte van die waar ten hoogste 0,1% bedraagt, berekend op de droge stof.
 
 ### Artikel  11b  
-Treedt in werking per 01-01-2015 
 
 Het tappen onder overdruk van bier als bedoeld in artikel 7b van het Warenwetbesluit Gereserveerde aanduidingen vindt uitsluitend plaats met koolzuur of stikstof of een mengsel daarvan. 
 
@@ -278,10 +279,10 @@ b. voor zover door de bereider geen bijzondere bewaartemperatuur op de voorverpa
 
 a. in een bewaarvoorschrift is vermeld dat de waar bewaard dient te worden tussen de 0°C en 6°C; of   
 
-b. een houdbaarheidstermijn is vermeld die korter is dan 5 dagen;    is artikel 17 van het Warenwetbesluit Etikettering van levensmiddelen (*Stb.* 1992, 14) van toepassing.    
+b. een houdbaarheidstermijn is vermeld die korter is dan 5 dagen;    is artikel 24, eerste lid, van verordening (EU) 1169/2011 inzake de uiterste consumptiedatum van toepassing.    
 3.   Onverminderd de ter zake geldende eisen ten aanzien van de etikettering van levensmiddelen moet op de verpakking van de in het tweede lid, onder *a*, bedoelde eet- of drinkwaar een bewaarvoorschrift worden gebezigd waaruit onder andere blijkt dat de waar binnen een bepaald aantal dagen na aankoop dient te worden geconsumeerd, echter nooit later dan de reeds vermelde datum.    
 4.   In afwijking van het eerste lid mogen de daar bedoelde bederfelijke eet- of drinkwaren, die zodanig verhit zijn dat zij geschikt zijn voor onmiddellijke consumptie door de eindverbruiker, tevens ter rechtstreekse aflevering aan de eindverbruiker voorhanden worden gehouden indien de temperatuur van de waar ten minste 60°C bedraagt.    
-5.  Onze Minister kan nadere regels stellen met betrekking tot het eerste tot en met vierde lid.   
+5.  Onze Minister kan nadere regels stellen met betrekking tot het eerste tot en met vierde lid.  
 6.  In afwijking van het eerste lid, onderdeel b, bedraagt de temperatuur van de waar ten hoogste 10°C gedurende het lokaal vervoer van gekoelde bakkerswaren.   
 7.  Het eerste lid, onder b, is niet van toepassing op het vervoer of het in voorraad houden van niet-voorverpakte eet- of drinkwaren of grondstoffen gedurende een nader te bepalen periode van ten hoogste 24 uur na de bereiding daarvan, voor zover de ter zake in een krachtens het Warenwetbesluit hygiëne van levensmiddelen door Onze Minister goedgekeurde hygiënecode vastgestelde voorschriften in acht worden genomen. De desbetreffende hygiënecode zal slechts worden goedgekeurd indien voldaan is aan de volgende voorschriften: 
 

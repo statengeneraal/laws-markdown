@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, dr. F. van der Ploeg, van 26 februari 2002, nr. WJZ/2002/7072 (8126), directie Wetgeving en Juridische Zaken;
 
-Gelet op [artikel 34, van de Monumentenwet 1988](../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md);
+Gelet op artikel 34, van de Monumentenwet 1988;
 
 De Raad van State gehoord (advies van 1 mei 2002, no. W05.02.0099/III);
 
@@ -30,7 +30,7 @@ c. subsidiabele restauratiekosten: kosten als bedoeld in artikel 16 van het Besl
 a. meer bedragen dan € 1 361 340; dan wel  
 
 b. minder bedragen dan € 1 361 340, maar meer bedragen dan € 453 780 en bovendien meer bedragen dan zes maal het budget, bedoeld in artikel 5, eerste of tweede lid, van het Besluit rijkssubsidiëring restauratie monumenten 1997, zoals dat in 1999 ten behoeve van de categorie monumenten waartoe het monument in dat jaar behoorde, voor het jaar 2005 door Onze minister is vastgesteld.     
-2.  Bij de toepassing van het eerste lid worden subsidies die zijn verleend ingevolge het [Besluit rijkssubsidiëring grootschalige restauraties](../../../../../../../AMvB/besluit/rijkssubsidiëring/grootschalige/restauraties/BWBR0011525/README.md) buiten beschouwing gelaten.  
+2.  Bij de toepassing van het eerste lid worden subsidies die zijn verleend ingevolge het Besluit rijkssubsidiëring grootschalige restauraties buiten beschouwing gelaten.  
 
 ### Artikel  3  
 

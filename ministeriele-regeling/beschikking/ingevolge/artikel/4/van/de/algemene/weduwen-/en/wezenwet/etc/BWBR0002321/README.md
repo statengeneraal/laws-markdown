@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Voor de toepassing van de [Algemene nabestaandenwet](../../../../../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) wordt iemand vermoed te zijn overleden, wanneer hij gedurende één jaar afwezig is, zonder dat er bericht is ingekomen, waaruit blijkt, dat hij in leven is, of wanneer er één jaar verlopen is na de dag, waarop hij volgens de laatste tijding nog in leven was, een en ander mits de omstandigheden zijn dood waarschijnlijk maken.   
+1.  Voor de toepassing van de Algemene nabestaandenwet wordt iemand vermoed te zijn overleden, wanneer hij gedurende één jaar afwezig is, zonder dat er bericht is ingekomen, waaruit blijkt, dat hij in leven is, of wanneer er één jaar verlopen is na de dag, waarop hij volgens de laatste tijding nog in leven was, een en ander mits de omstandigheden zijn dood waarschijnlijk maken.   
 2.  Ingeval iemand zich aan boord van een vaartuig bevond en hij vermist is ter gelegenheid van een noodlottige gebeurtenis aan dat vaartuig, aan een deel van de bemanning of passagiers overkomen, wordt hij, in afwijking van het bepaalde in het eerste lid, vermoed te zijn overleden, wanneer gedurende drie maanden na het tijdstip, waarop die gebeurtenis heeft plaatsgevonden of geacht moet worden te hebben plaatsgevonden, geen bericht is ingekomen, waaruit blijkt, dat hij in leven is. Onder vaartuig is mede begrepen een luchtvaartuig.   
 3.  Ingeval iemand wegens omstandigheden in verband met de tweede wereldoorlog is vermist en het bepaalde in het vorige lid niet op hem van toepassing is, wordt hij, ook zonder dat overigens omstandigheden aanwezig zijn, welke zijn dood waarschijnlijk maken, in afwijking van het bepaalde in het eerste lid, vermoed te zijn overleden.  
 

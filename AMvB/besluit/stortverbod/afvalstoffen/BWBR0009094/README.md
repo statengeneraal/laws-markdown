@@ -5,7 +5,7 @@
 Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.  
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 4 november 1997, nr. MJZ97566861, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
 
-Gelet op de [artikelen 8.44, eerste, vierde en zesde lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op de artikelen 8.44, eerste, vierde en zesde lid, van de Wet milieubeheer;
 
 De Raad van State gehoord (advies van 26 november 1997, nr. W08.97.0711);
 
@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Het is verboden in inrichtingen die behoren tot een van de categorieën die zijn aangewezen in onderdeel C van [bijlage I bij het Besluit omgevingsrecht](../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), afvalstoffen te storten, die behoren tot een of meer van de navolgende categorieën:  
+1.  Het is verboden in inrichtingen die behoren tot een van de categorieën die zijn aangewezen in onderdeel C van bijlage I bij het Besluit omgevingsrecht, afvalstoffen te storten, die behoren tot een of meer van de navolgende categorieën:  
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -34,14 +34,14 @@ dit onderdeel is nog niet in werking getreden;  |
 | 10.  | PCB-houdende voorwerpen en preparaten met een gehalte van 0,5 mg/kg per polychloorbifenyl-congeneer 28, 52, 101, 118, 138, 153, 180;  |
 | 11.  | vast fotografisch afval;  |
 | 12.  | gasflessen, drukhouders en brandblussers, met uitzondering van bluspoeder;  |
-| 13.  | autowrakken, zijnde motorrijtuigen op meer dan twee wielen die een afvalstof zijn als bedoeld in [artikel 1.1 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), of onderdelen van zodanige autowrakken;  |
-| 14.  | banden, afkomstig van motorrijtuigen en aanhangwagens als bedoeld in [artikel 1 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  |
+| 13.  | autowrakken, zijnde motorrijtuigen op meer dan twee wielen die een afvalstof zijn als bedoeld in artikel 1.1 van de Wet milieubeheer, of onderdelen van zodanige autowrakken;  |
+| 14.  | banden, afkomstig van motorrijtuigen en aanhangwagens als bedoeld in artikel 1 van de Wegenverkeerswet 1994;  |
 | 15.  | a.  | huishoudelijk restafval en daarmee vergelijkbaar restafval van bedrijven;  |
 | --- | b.  | deelstromen of residuen, afkomstig van de handmatige en mechanische verwerking van stromen restafval als bedoeld onder a;  |
 | 16.  | a.  | grof huishoudelijk restafval;  |
 | --- | b.  | deelstromen of residuen van de handmatige en mechanische verwerking van grof huishoudelijk afval;  |
-| 17.  | a.  | slib van riolen, kolken of gemalen, met uitzondering van riool-, kolken- of gemalenslib dat als grond, bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), kan worden gekwalificeerd en bij de stortplaats wordt aangeboden onder overlegging van een verklaring van Onze Minister als bedoeld in de ministeriële regeling op grond van [artikel 28a Wet bodembescherming](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), waaruit blijkt dat de grond niet reinigbaar en niet koud-immobiliseerbaar is;  |
-| --- | b.  | veegvuil, met uitzondering van veegvuil dat als grond, bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), kan worden gekwalificeerd en bij de stortplaats wordt aangeboden onder overlegging van een verklaring van Onze Minister als bedoeld in de ministeriële regeling op grond van [artikel 28a Wet bodembescherming](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), waaruit blijkt dat de grond niet reinigbaar en niet koud-immobiliseerbaar is;  |
+| 17.  | a.  | slib van riolen, kolken of gemalen, met uitzondering van riool-, kolken- of gemalenslib dat als grond, bedoeld in artikel 1 van het Besluit bodemkwaliteit, kan worden gekwalificeerd en bij de stortplaats wordt aangeboden onder overlegging van een verklaring van Onze Minister als bedoeld in de ministeriële regeling op grond van artikel 28a Wet bodembescherming, waaruit blijkt dat de grond niet reinigbaar en niet koud-immobiliseerbaar is;  |
+| --- | b.  | veegvuil, met uitzondering van veegvuil dat als grond, bedoeld in artikel 1 van het Besluit bodemkwaliteit, kan worden gekwalificeerd en bij de stortplaats wordt aangeboden onder overlegging van een verklaring van Onze Minister als bedoeld in de ministeriële regeling op grond van artikel 28a Wet bodembescherming, waaruit blijkt dat de grond niet reinigbaar en niet koud-immobiliseerbaar is;  |
 | --- | c.  | marktafval;  |
 | --- | d.  | drijfafval;  |
 | 18.  | a.  | groente-, fruit- en tuinafval;  |
@@ -63,16 +63,16 @@ dit onderdeel is nog niet in werking getreden;  |
 | 28.  | oxykalkslik;  |
 | 29.  | a.  | gemengd bouw- en sloopafval, met uitzondering van partijen waarvan de concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, meer bedraagt dan 100 mg/ kg droge stof;  |
 | --- | b.  | deelstromen of residuen van de handmatige en mechanische verwerking van de stromen van afval, bedoeld onder a, met uitzondering van partijen waarvan de concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, meer bedraagt dan 100 mg/kg droge stof;  |
-| 30.  | zeefzand, met uitzondering van zeefzand dat als grond, bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), kan worden gekwalificeerd en bij de stortplaats wordt aangeboden onder overlegging van een verklaring als bedoeld in de ministeriële regeling op grond van [artikel 28a Wet bodembescherming](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), waaruit blijkt dat de grond niet reinigbaar en niet koud-immobiliseerbaar is;  |
-| 31.  | grond, met uitzondering van grond, bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), die bij de stortplaats wordt aangeboden onder overlegging van een verklaring als bedoeld in de ministeriële regeling op grond van [artikel 28a Wet bodembescherming](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), waaruit blijkt dat de grond niet reinigbaar en niet koud-immobiliseerbaar is;  |
+| 30.  | zeefzand, met uitzondering van zeefzand dat als grond, bedoeld in artikel 1 van het Besluit bodemkwaliteit, kan worden gekwalificeerd en bij de stortplaats wordt aangeboden onder overlegging van een verklaring als bedoeld in de ministeriële regeling op grond van artikel 28a Wet bodembescherming, waaruit blijkt dat de grond niet reinigbaar en niet koud-immobiliseerbaar is;  |
+| 31.  | grond, met uitzondering van grond, bedoeld in artikel 1 van het Besluit bodemkwaliteit, die bij de stortplaats wordt aangeboden onder overlegging van een verklaring als bedoeld in de ministeriële regeling op grond van artikel 28a Wet bodembescherming, waaruit blijkt dat de grond niet reinigbaar en niet koud-immobiliseerbaar is;  |
 | 32.  | straalgrit, met uitzondering van straalgrit dat krachtens artikel 9  is aangewezen als niet reinigbaar;  |
 | 33.  | 
 dit onderdeel is nog niet in werking getreden;  |
 | 34.  | a.  | steenachtige materialen, met uitzondering van cellenbeton;  |
-| --- | b.  | asfalt dat als teerhoudend wordt aangemerkt vanwege het bevatten van een hoger gehalte PAK’s dan de maximale samenstellingswaarde voor PAK’s in bouwstoffen, bedoeld in [bijlage A, tabel 2, van de Regeling bodemkwaliteit](../../../../../ministeriele-regeling/regeling/bodemkwaliteit/BWBR0023085/README.md);  |
+| --- | b.  | asfalt dat als teerhoudend wordt aangemerkt vanwege het bevatten van een hoger gehalte PAK’s dan de maximale samenstellingswaarde voor PAK’s in bouwstoffen, bedoeld in bijlage A, tabel 2, van de Regeling bodemkwaliteit;  |
 | 35.  | gips;  |
 | 36.  | a.  | bitumineus dakafval;  |
-| --- | b.  | dakafval dat als teerhoudend wordt aangemerkt vanwege het bevatten van een hoger gehalte PAK’s dan de maximale samenstellingswaarde voor PAK’s in bouwstoffen, bedoeld in [bijlage A, tabel 2, van de Regeling bodemkwaliteit](../../../../../ministeriele-regeling/regeling/bodemkwaliteit/BWBR0023085/README.md);  |
+| --- | b.  | dakafval dat als teerhoudend wordt aangemerkt vanwege het bevatten van een hoger gehalte PAK’s dan de maximale samenstellingswaarde voor PAK’s in bouwstoffen, bedoeld in bijlage A, tabel 2, van de Regeling bodemkwaliteit;  |
 | --- | c.  | composieten van dakafval bestaande uit mengsels van bitumineus of teerhoudend dakafval en mengsels van bitumineus of teerhoudend dakafval dat verkleefd of vermengd is met andere materialen;  |
 | --- | d.  | met teer of bitumen verkleefd dakgrind;  |
 | 37.  | a.  | A-hout, zijnde ongeverfd, onbehandeld hout;  |
@@ -94,12 +94,12 @@ dit onderdeel is nog niet in werking getreden;  |
 
 ### Artikel  2  
 
-In dit besluit en de daarop berustende regels wordt verstaan onder stortplaats hetgeen daaronder wordt verstaan in [artikel 8.47, eerste lid, onder a, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md). 
+In dit besluit en de daarop berustende regels wordt verstaan onder stortplaats hetgeen daaronder wordt verstaan in artikel 8.47, eerste lid, onder a, van de Wet milieubeheer. 
 
 ### Artikel  3  
 
-1.  Het is verboden afvalstoffen als bedoeld in artikel 1, eerste lid, anders dan voor het opslaan, op of in de bodem te brengen in inrichtingen als bedoeld in categorie 28.1, onder d, van [bijlage I, onderdeel C, bij het Besluit omgevingsrecht](../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md).   
-2.  Het eerste lid is niet van toepassing op afvalstoffen die worden toegepast overeenkomstig het [Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md).  
+1.  Het is verboden afvalstoffen als bedoeld in artikel 1, eerste lid, anders dan voor het opslaan, op of in de bodem te brengen in inrichtingen als bedoeld in categorie 28.1, onder d, van bijlage I, onderdeel C, bij het Besluit omgevingsrecht.   
+2.  Het eerste lid is niet van toepassing op afvalstoffen die worden toegepast overeenkomstig het Besluit bodemkwaliteit.  
 
 ### Artikel  4  
 
@@ -115,7 +115,7 @@ Bij regeling van Onze Minister kunnen categorieën van afvalstoffen, genoemd in 
 
 1.  Op verzoek van degene die een stortplaats drijft, kunnen gedeputeerde staten verklaren dat er naar hun oordeel in Nederland geen andere wijze van afvalbeheer mogelijk is dan storten voor in artikel 1, eerste lid, categorie 15 en volgende, genoemde afvalstoffen of voor een deel van een zodanige categorie.   
 2.  In de verklaring nemen gedeputeerde staten op dat de verklaring geldt zolang de omstandigheden voor toepassing van het eerste lid aanwezig zijn, nog gevolgd door een overgangsperiode van tien werkdagen.   
-3.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een verzoek om een verklaring als bedoeld in het eerste lid.   
+3.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht niet van toepassing op een verzoek om een verklaring als bedoeld in het eerste lid.   
 4.  Van een verklaring als bedoeld in het eerste lid, doen gedeputeerde staten zo spoedig mogelijk mededeling aan Onze Minister.  
 
 ### Artikel  7  
@@ -156,7 +156,7 @@ In het bepaalde bij of krachtens deze paragraaf wordt verstaan onder:
 
 *monolithische afvalstoffen:* afvalstoffen die door menging met toeslagstoffen of andersoortige bewerkingen zijn omgevormd tot afvalstoffen met een beperkte uitloging en een duurzame vaste vorm;  
 
-*omschrijving:* omschrijving als bedoeld in [artikel 10.39, eerste lid, onder a, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+*omschrijving:* omschrijving als bedoeld in artikel 10.39, eerste lid, onder a, van de Wet milieubeheer;  
 
 *ondergrondse stortplaats:* stortplaats waar afvalstoffen in de diepe ondergrond worden gebracht;  
 
@@ -214,7 +214,7 @@ Het bevoegd gezag kan bij het verlenen of wijzigen van een vergunning afwijken v
 
 1.  Het bevoegd gezag verbindt aan een vergunning voor een inrichting voor de opslag van afvalstoffen het voorschrift dat opslag van afvalstoffen is toegestaan voor een termijn van ten hoogste één jaar.   
 2.  Indien de vergunninghouder ten genoegen van het bevoegd gezag aantoont dat de opslag van afvalstoffen gevolgd wordt door nuttige toepassing van afvalstoffen, kan het bevoegd gezag, in afwijking van het eerste lid, aan een zodanige vergunning het voorschrift verbinden dat de opslag van afvalstoffen is toegestaan voor een termijn van ten hoogste drie jaar.  
-3. Het bevoegd gezag kan, in afwijking van het eerste en tweede lid, aan een vergunning voor een inrichting voor de opslag in oppervlaktewater van baggerspecie niet zijnde een gevaarlijke afvalstof als bedoeld in de [Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) het voorschrift verbinden dat de opslag is toegestaan voor een termijn van ten hoogste tien jaar. 
+3. Het bevoegd gezag kan, in afwijking van het eerste en tweede lid, aan een vergunning voor een inrichting voor de opslag in oppervlaktewater van baggerspecie niet zijnde een gevaarlijke afvalstof als bedoeld in de Wet milieubeheer het voorschrift verbinden dat de opslag is toegestaan voor een termijn van ten hoogste tien jaar. 
 4.  In afwijking van het eerste en tweede lid gelden met betrekking tot de bij voorschrift aan een vergunning, voor de opslag van metallisch kwik, te verbinden termijnen de daarover bij of krachtens verordening (EG) nr. 1102/2008 van het Europees Parlement en de Raad van 22 oktober 2008 inzake het verbod op de uitvoer van metallisch kwik en andere kwikverbindingen en -mengsels en de veilige opslag van metallisch kwik (PbEU L 304/75) gestelde regels. 
 
 ### Artikel  11f  
@@ -223,7 +223,7 @@ Het bevoegd gezag kan bij het verlenen of wijzigen van een vergunning afwijken v
 
 a. die geen behandeling hebben ondergaan,  
 
-b. indien aan degene die de stortplaats drijft, met betrekking tot de afvalstoffen geen omschrijving is verstrekt die voldoet aan [artikel 10 van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](../../../../../AMvB/besluit/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017294/README.md), of  
+b. indien aan degene die de stortplaats drijft, met betrekking tot de afvalstoffen geen omschrijving is verstrekt die voldoet aan artikel 10 van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen, of  
 
 c. die blijkens de omschrijving die aan degene die de stortplaats drijft is verstrekt, in geval van: 
 
@@ -269,9 +269,9 @@ a. in overeenstemming zijn met de omschrijving, bedoeld in artikel 11f, eerste l
 
 b. voldoen aan de ingevolge dat onderdeel van toepassing zijnde voorschriften.     
 2.  Hij draagt er tevens zorg voor dat met betrekking tot de monsterneming en analyse van monsters gegevens worden geregistreerd.   
-3.  De analyse van de monsters wordt uitgevoerd door een persoon of instelling die beschikt over een bewijs waarmee de Raad voor Accreditatie of een daaraan gelijkwaardig instituut in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, kenbaar heeft gemaakt dat gedurende de periode waarin deze worden uitgevoerd, een gerechtvaardigd vertrouwen bestaat dat de betrokken persoon of instelling competent is voor het uitvoeren van de analyse overeenkomstig de krachtens het vierde lid gestelde regels. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om accreditatie als bedoeld in de eerste volzin.   
+3.  De analyse van de monsters wordt uitgevoerd door een persoon of instelling die beschikt over een bewijs waarmee de Raad voor Accreditatie of een daaraan gelijkwaardig instituut in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, kenbaar heeft gemaakt dat gedurende de periode waarin deze worden uitgevoerd, een gerechtvaardigd vertrouwen bestaat dat de betrokken persoon of instelling competent is voor het uitvoeren van de analyse overeenkomstig de krachtens het vierde lid gestelde regels. Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op de aanvraag om accreditatie als bedoeld in de eerste volzin.   
 4.  Bij regeling van Onze Minister worden nadere regels gesteld omtrent de monsterneming, de analyse van monsters en de registratie.   
-5.  Het eerste lid is niet van toepassing op afvalstoffen waarvoor ingevolge [artikel 10a, tweede lid, onder a, b, c, d, f of g, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](../../../../../AMvB/besluit/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017294/README.md) de in het [eerste lid van dat artikel](../../../../../AMvB/besluit/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017294/README.md) gestelde verplichting niet geldt.   
+5.  Het eerste lid is niet van toepassing op afvalstoffen waarvoor ingevolge artikel 10a, tweede lid, onder a, b, c, d, f of g, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen de in het eerste lid van dat artikel gestelde verplichting niet geldt.   
 6.  Degene die een stortplaats drijft, bewaart de resultaten van de analyse van een monster gedurende vijf jaar nadat de analyse is uitgevoerd.   
 7.  Het is verboden te doen handelen in strijd met het derde lid.   
 8.  Dit artikel is niet van toepassing op monolithische afvalstoffen.  
@@ -287,13 +287,13 @@ b. voldoen aan de ingevolge dat onderdeel van toepassing zijnde voorschriften.
 
 ###Artikel 11k 
 
-1. Voor de toepassing van dit artikel wordt onder radioactieve afvalstof, natuurlijke bron, activiteit en activiteitsconcentratie verstaan hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, van het Besluit stralingsbescherming](../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md). 
+1. Voor de toepassing van dit artikel wordt onder radioactieve afvalstof, natuurlijke bron, activiteit en activiteitsconcentratie verstaan hetgeen daaronder wordt verstaan in artikel 1, eerste lid, van het Besluit stralingsbescherming. 
 2. Dit besluit is met uitzondering van paragraaf 1 van overeenkomstige toepassing op radioactieve afvalstoffen van natuurlijke bronnen van ioniserende straling, waarin:
 
-a.de activiteit van de betrokken natuurlijke bronnen op enig moment gelijk is aan of hoger is dan de in [bijlage 1, tabel 1, bij het Besluit stralingsbescherming](../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) vermelde waarde, en
+a.de activiteit van de betrokken natuurlijke bronnen op enig moment gelijk is aan of hoger is dan de in bijlage 1, tabel 1, bij het Besluit stralingsbescherming vermelde waarde, en
 
-b.de activiteitsconcentratie van de betrokken natuurlijke bronnen gelijk is aan of hoger is dan de in [bijlage 1, tabel 1, bij het Besluit stralingsbescherming](../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) vermelde waarde en lager is dan tien maal deze waarde. 
-3. Voor zover ingevolge het tweede lid dit besluit van overeenkomstige toepassing is op de in dat lid bedoelde afvalstoffen, worden die afvalstoffen, in afwijking van [artikel 1.1, eerste lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), voor de toepassing van dit besluit en de daarop berustende bepalingen mede aangemerkt als afvalstoffen in de zin van [die wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md). 
+b.de activiteitsconcentratie van de betrokken natuurlijke bronnen gelijk is aan of hoger is dan de in bijlage 1, tabel 1, bij het Besluit stralingsbescherming vermelde waarde en lager is dan tien maal deze waarde. 
+3. Voor zover ingevolge het tweede lid dit besluit van overeenkomstige toepassing is op de in dat lid bedoelde afvalstoffen, worden die afvalstoffen, in afwijking van artikel 1.1, eerste lid, van de Wet milieubeheer, voor de toepassing van dit besluit en de daarop berustende bepalingen mede aangemerkt als afvalstoffen in de zin van die wet. 
 4. Het is verboden afvalstoffen als bedoeld in het tweede lid te vermengen met of te voegen bij een afvalstof waarvoor ingevolge paragraaf 1 een stortverbod geldt, teneinde die afvalstof te storten.
 
 ### Paragraaf  4  
@@ -310,7 +310,7 @@ b.worden de met toepassing van het Besluit stortverbod afvalstoffen (Stb. 1995, 
 
 ###Artikel 12a 
 
-Dit besluit berust mede op [artikel 32, eerste lid, van de Kernenergiewet](../../../../../wet/kernenergiewet/BWBR0002402/README.md).
+Dit besluit berust mede op artikel 32, eerste lid, van de Kernenergiewet.
 
 ###Artikel 14 
 
@@ -530,7 +530,7 @@ c. gevaarlijke afvalstoffen waarvan de waarden van de parameters, genoemd in de 
 
 a. deze niet behoren tot een in onderdeel 2.1 van bijlage A bij beschikking nr. 2003/33/EG van de Raad van de Europese Unie van 19 december 2002 tot vaststelling van criteria en procedures voor het aanvaarden van afvalstoffen op stortplaatsen overeenkomstig artikel 16 en bijlage II van Richtlijn 1999/31/EG betreffende het storten van afvalstoffen (Pb EG L 11) aangewezen categorie,  
 
-b. deze in overeenstemming zijn met de veiligheidsbeoordeling, bedoeld in [artikel 5a, onder c, van het Stortbesluit bodembescherming](../../../../../AMvB/stortbesluit/bodembescherming/BWBR0005858/README.md) van die stortplaats,  
+b. deze in overeenstemming zijn met de veiligheidsbeoordeling, bedoeld in artikel 5a, onder c, van het Stortbesluit bodembescherming van die stortplaats,  
 
 c. voor zover het een ondergrondse stortplaats voor inerte afvalstoffen betreft, de afvalstoffen ingevolge voorschrift 1.1 mogen worden geaccepteerd op een stortplaats voor inerte afvalstoffen, en  
 

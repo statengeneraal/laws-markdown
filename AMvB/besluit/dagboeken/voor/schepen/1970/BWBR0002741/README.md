@@ -8,7 +8,7 @@ Op de voordracht van Onze Minister van Verkeer en Waterstaat van 20 november 197
 
 Overwegende dat het Besluit van 4 november 1926, *Stb.* 369, zoals dat sedert is gewijzigd, aanpassing behoeft aan de huidige terzake bestaande omstandigheden;
 
-Gelet op artikel 349, laatste lid, van het [Wetboek van Koophandel](../../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md);
+Gelet op artikel 349, laatste lid, van het Wetboek van Koophandel;
 
 De Raad van State gehoord (advies van 9 december 1970 nr. 12);
 

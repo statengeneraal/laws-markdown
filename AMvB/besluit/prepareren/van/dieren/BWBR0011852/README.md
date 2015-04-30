@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij van 18 februari 2000, nr. TrcJZ/2000/1842, Directie Juridische Zaken;
 
-Gelet op de [artikelen 62, tweede en vierde lid](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [63, eerste lid](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [64, eerste lid](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), en [76, eerste lid, van de Flora- en faunawet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);
+Gelet op de artikelen 62, tweede en vierde lid, 63, eerste lid, 64, eerste lid, en 76, eerste lid, van de Flora- en faunawet;
 
 De Raad van State gehoord (advies van 23 maart 2000, no. W11.00.0066);
 
@@ -17,13 +17,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. wet: [Flora- en faunawet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  
+a. wet: Flora- en faunawet;  
 
-b. korpschef: korpschef als bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md).   
+b. korpschef: korpschef als bedoeld in artikel 27 van de Politiewet 2012.   
 
 ### Artikel  2  
 
-Om te kunnen worden erkend, voldoet een preparateursexamen als bedoeld in [artikel 62, tweede lid, van de wet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) aan het bepaalde bij of krachtens de artikelen 3 en 4. 
+Om te kunnen worden erkend, voldoet een preparateursexamen als bedoeld in artikel 62, tweede lid, van de wet aan het bepaalde bij of krachtens de artikelen 3 en 4. 
 
 ### Artikel  3  
 
@@ -44,17 +44,17 @@ b. regels omtrent de taken en bevoegdheden van de personen die namens Onze Minis
 
 ### Artikel  5  
 
-Als diersoort ten aanzien waarvan het verbod, bedoeld in [artikel 62, eerste lid, van de wet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) niet geldt, worden aangewezen: 
+Als diersoort ten aanzien waarvan het verbod, bedoeld in artikel 62, eerste lid, van de wet niet geldt, worden aangewezen: 
 
 a. de diersoorten die niet worden aangemerkt of niet zijn aangewezen als beschermde inheemse of uitheemse diersoort;  
 
-b. de diersoorten waarvoor, met inachtneming van de daarbij gestelde voorschriften, een vrijstelling of ontheffing geldt van het in [artikel 13, eerste lid, van de wet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) bedoelde verbod op het onder zich hebben van producten van dieren van die soorten: 
+b. de diersoorten waarvoor, met inachtneming van de daarbij gestelde voorschriften, een vrijstelling of ontheffing geldt van het in artikel 13, eerste lid, van de wet bedoelde verbod op het onder zich hebben van producten van dieren van die soorten: 
 
-1°. ingevolge [artikel 13, vierde lid](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), of [artikel 75, derde lid, van de wet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  
+1°. ingevolge artikel 13, vierde lid, of artikel 75, derde lid, van de wet;  
 
-2°. ingevolge het [Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) of  
+2°. ingevolge het Besluit vrijstelling beschermde dier- en plantensoorten of  
 
-3°. krachtens een ministeriële regeling als bedoeld in [artikel 75, tweede lid, van de wet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);     met uitzondering van de diersoorten, bedoeld in artikel 8. 
+3°. krachtens een ministeriële regeling als bedoeld in artikel 75, tweede lid, van de wet;     met uitzondering van de diersoorten, bedoeld in artikel 8. 
 
 ### Artikel  6  
 
@@ -99,11 +99,11 @@ e. het nummer van het merkteken.
 
 ### Artikel  8  
 
-Als diersoorten als bedoeld in [artikel 64, eerste lid, van de wet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) die uit het oogpunt van natuurbehoud niet mogen worden geprepareerd, zijn aangewezen de volgende beschermde inheemse diersoorten: 
+Als diersoorten als bedoeld in artikel 64, eerste lid, van de wet die uit het oogpunt van natuurbehoud niet mogen worden geprepareerd, zijn aangewezen de volgende beschermde inheemse diersoorten: 
 
-a. de diersoorten, bedoeld in [artikel 4, eerste lid, onderdeel c, van de wet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), met uitzondering van de groene kikker (Rana esculenta) en de bruine kikker (Rana temporaria), en  
+a. de diersoorten, bedoeld in artikel 4, eerste lid, onderdeel c, van de wet, met uitzondering van de groene kikker (Rana esculenta) en de bruine kikker (Rana temporaria), en  
 
-b. de krachtens [artikel 4, tweede en derde lid, van de wet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) aangewezen diersoorten;  
+b. de krachtens artikel 4, tweede en derde lid, van de wet aangewezen diersoorten;  
 
 c. alle van nature in Nederland voorkomende vleermuizen (Chiroptera);  
 

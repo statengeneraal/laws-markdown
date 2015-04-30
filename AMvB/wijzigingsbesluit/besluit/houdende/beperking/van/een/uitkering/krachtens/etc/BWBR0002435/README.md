@@ -8,7 +8,7 @@ Op de voordracht van Onze Minister van Defensie van 5 november 1963, afd. pensio
 
 Overwegende:
 
-dat het wenselijk is nadere regelen te stellen ten aanzien van uitkeringen krachtens de [Regeling uitkeringen niet-pensioengerechtigden van land- en zeemacht](../../../../../../../../../../../AMvB/regeling/uitkeringen/niet-pensioengerechtigden/van/land-/en/zeemacht/1948/etc/BWBR0002044/README.md) (*Stb.* 148, I 543) in verband met samenloop met een pensioen krachtens de [Algemene Ouderdomswet](../../../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) of een pensioen dan wel uitkering krachtens de Algemene Weduwen- en Wezenwet en in verband met de huurverhogingen per 1 augustus 1957, per 1 april 1960 en per 1 september 1962;
+dat het wenselijk is nadere regelen te stellen ten aanzien van uitkeringen krachtens de Regeling uitkeringen niet-pensioengerechtigden van land- en zeemacht (*Stb.* 148, I 543) in verband met samenloop met een pensioen krachtens de Algemene Ouderdomswet of een pensioen dan wel uitkering krachtens de Algemene Weduwen- en Wezenwet en in verband met de huurverhogingen per 1 augustus 1957, per 1 april 1960 en per 1 september 1962;
 
 De Raad van State gehoord (advies van 4 december 1963, nr. 79);
 
@@ -21,7 +21,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  II  
 
-Op een uitkering, waarop krachtens [artikel 4 van de Regeling uitkeringen niet-pensioengerechtigden van land- en zeemacht](../../../../../../../../../../../AMvB/regeling/uitkeringen/niet-pensioengerechtigden/van/land-/en/zeemacht/1948/etc/BWBR0002044/README.md) (*Stb.* 1948, I 543) aanspraak bestaat, is mede van toepassing de wet van 23 september 1959 (*Stb.* 340), houdende beperking van de uitbetaling van een overheidsweduwenpensioen of een overheidswezenpensioen bij gelijktijdige aanspraak op een pensioen of uitkering krachtens de Algemene Weduwen- en Wezenwet (Tijdelijke regeling samenloop overheidsweduwen- en overheidswezenpensioenen met algemeen weduwen- en wezenpensioen), met dien verstande, dat daarbij de uitkering wordt gelijkgesteld met een overheidsweduwenpensioen in de zin van laatstgenoemde wet. 
+Op een uitkering, waarop krachtens artikel 4 van de Regeling uitkeringen niet-pensioengerechtigden van land- en zeemacht (*Stb.* 1948, I 543) aanspraak bestaat, is mede van toepassing de wet van 23 september 1959 (*Stb.* 340), houdende beperking van de uitbetaling van een overheidsweduwenpensioen of een overheidswezenpensioen bij gelijktijdige aanspraak op een pensioen of uitkering krachtens de Algemene Weduwen- en Wezenwet (Tijdelijke regeling samenloop overheidsweduwen- en overheidswezenpensioenen met algemeen weduwen- en wezenpensioen), met dien verstande, dat daarbij de uitkering wordt gelijkgesteld met een overheidsweduwenpensioen in de zin van laatstgenoemde wet. 
 
 ### Artikel  III  
 

@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Financiën van 4 december 1964, nr. B 4/16765, Directie Wetgeving directe belastingen;
 
-Gelet op de [artikelen 61](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [70 van de Algemene wet inzake rijksbelastingen](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (*Stb*. 1959, 301);
+Gelet op de artikelen 61 en 70 van de Algemene wet inzake rijksbelastingen (*Stb*. 1959, 301);
 
 De Raad van State gehoord (advies van 9 december 1964, nr. 37);
 
@@ -35,7 +35,7 @@ b. hij niet in Nederland woont en niet als binnenschipper in Nederland een diens
 
 ### Artikel  3  
 
-Degene die verplicht is woonplaats te kiezen, is desgevraagd gehouden de in de [artikelen 47](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [53 van de Algemene wet inzake rijksbelastingen](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) bedoelde boeken, bescheiden en andere gegevensdragers of de inhoud daarvan, voor raadpleging aan de inspecteur ter beschikking te stellen op de gekozen woonplaats. 
+Degene die verplicht is woonplaats te kiezen, is desgevraagd gehouden de in de artikelen 47 en 53 van de Algemene wet inzake rijksbelastingen bedoelde boeken, bescheiden en andere gegevensdragers of de inhoud daarvan, voor raadpleging aan de inspecteur ter beschikking te stellen op de gekozen woonplaats. 
 
 ### Artikel  4  
 
@@ -47,7 +47,7 @@ Hij die bij de inwerkingtreding van dit besluit ingevolge artikel 1, eerste lid,
 
 ### Artikel  5a  
 
-Als authentiek gegeven uit andere basisregistraties als bedoeld in [artikel 21a, tweede lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) wordt aangewezen het burgerservicenummer van de ingeschrevene, bedoeld in [bijlage 1 bij het Besluit basisregistratie personen](../../../../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md). 
+Als authentiek gegeven uit andere basisregistraties als bedoeld in artikel 21a, tweede lid, van de Algemene wet inzake rijksbelastingen wordt aangewezen het burgerservicenummer van de ingeschrevene, bedoeld in bijlage 1 bij het Besluit basisregistratie personen. 
 
 ### Artikel  6  
 

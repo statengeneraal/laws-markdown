@@ -3,7 +3,7 @@
 ##Regeling bescherming persoonlijke levenssfeer geautomatiseerde bezoldigingsadministratie militair personeel 1986
 
 De minister van Defensie,  
-Gelet op de [Aanwijzingen van de minister-president van 7 maart 1975 (Stcrt. 50) inzake de bescherming van de persoonlijke levenssfeer in verband met de geautomatiseerde systemen, waarin personeelsgegevens zijn opgenomen, bij de rijksoverheid](../../../../../../../../ministeriele-regeling/aanwijzingen/inzake/de/bescherming/van/de/persoonlijke/levenssfeer/in/etc/BWBR0002958/README.md);
+Gelet op de Aanwijzingen van de minister-president van 7 maart 1975 (Stcrt. 50) inzake de bescherming van de persoonlijke levenssfeer in verband met de geautomatiseerde systemen, waarin personeelsgegevens zijn opgenomen, bij de rijksoverheid;
 Besluit:    
 
 ### Artikel  1  

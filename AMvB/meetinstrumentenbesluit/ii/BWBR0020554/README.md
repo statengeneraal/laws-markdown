@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken van 14 juli 2006, nr. WJZ 6049929;
 
-Gelet op richtlijn nr. 71/316/EEG van de Raad van de Europese Gemeenschappen van 26 juli 1971 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten betreffende voor meetmiddelen en metrologische controlemethoden geldende algemene bepalingen (PbEG L 202) en de bijzondere richtlijnen inzake meetmiddelen 75/107/EEG (PbEG 1975 L 42), 71/349/EEG (PbEG 1971 L 239), 71/317/EEG (PbEG 1971 L 202), 74/148/EEG (PbEG 1974 L 84), 86/217/EEG (PbEG 1986 L 152), 71/347/EEG (PbEG 1971 L 239), 76/765/EEG (PbEG 1976 L 262), en 75/33/EEG (PbEG 1975 L 14) en de [artikelen 5](../../../../wet/metrologiewet/BWBR0019517/README.md), [9](../../../../wet/metrologiewet/BWBR0019517/README.md), [26](../../../../wet/metrologiewet/BWBR0019517/README.md), [36](../../../../wet/metrologiewet/BWBR0019517/README.md) en [51 van de Metrologiewet](../../../../wet/metrologiewet/BWBR0019517/README.md), [artikel 26, onder a en f, van de Wet op de geneesmiddelenvoorziening](../../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md), [artikel 3, eerste lid, van de Wet op de medische hulpmiddelen](../../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md) en de [artikelen 8, eerste lid, onder c](../../../../wet/warenwet/BWBR0001969/README.md), en [13, onder a, van de Warenwet](../../../../wet/warenwet/BWBR0001969/README.md);
+Gelet op richtlijn nr. 71/316/EEG van de Raad van de Europese Gemeenschappen van 26 juli 1971 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten betreffende voor meetmiddelen en metrologische controlemethoden geldende algemene bepalingen (PbEG L 202) en de bijzondere richtlijnen inzake meetmiddelen 75/107/EEG (PbEG 1975 L 42), 71/349/EEG (PbEG 1971 L 239), 71/317/EEG (PbEG 1971 L 202), 74/148/EEG (PbEG 1974 L 84), 86/217/EEG (PbEG 1986 L 152), 71/347/EEG (PbEG 1971 L 239), 76/765/EEG (PbEG 1976 L 262), en 75/33/EEG (PbEG 1975 L 14) en de artikelen 5, 9, 26, 36 en 51 van de Metrologiewet, artikel 26, onder a en f, van de Wet op de geneesmiddelenvoorziening, artikel 3, eerste lid, van de Wet op de medische hulpmiddelen en de artikelen 8, eerste lid, onder c, en 13, onder a, van de Warenwet;
 
 De Raad van State gehoord (advies van 7 september 2006, nr. W10.06.0329/II);
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. wet: [Metrologiewet](../../../../wet/metrologiewet/BWBR0019517/README.md);  
+a. wet: Metrologiewet;  
 
 b. richtlijn meetinstrumenten: richtlijn nr. 2004/22/EG van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 betreffende meetinstrumenten (PbEU L 135);  
 
@@ -56,7 +56,7 @@ o. Nederlandse metrologische markering: markering als bedoeld in artikel 18.
 
 ### Artikel  2  
 
-Een meettaak ten behoeve van een specifieke toepassing als bedoeld in [artikel 5, eerste lid, van de wet](../../../../wet/metrologiewet/BWBR0019517/README.md) is het 
+Een meettaak ten behoeve van een specifieke toepassing als bedoeld in artikel 5, eerste lid, van de wet is het 
 
 a. bij of in verband met het drijven van handel tussen in verschillende lidstaten van de Europese Unie of in andere Staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte dan wel in Staten waarmee de Europese Unie een overeenkomst inzake wederzijdse erkenning van de overeenstemmingsbeoordeling heeft gesloten, gevestigde kopers en verkopers bepalen van het EEG-natuurgewicht van granen, zoals omschreven in artikel 2, tweede lid, van de richtlijn inzake de meting van het natuurgewicht van granen;  
 
@@ -64,7 +64,7 @@ b. bij het drijven van handel en bij levering uit hoofde van beroep of bedrijf b
 
 ### Artikel  3  
 
-Een meettaak ten behoeve van een specifieke toepassing als bedoeld in [artikel 5, eerste lid, van de wet](../../../../wet/metrologiewet/BWBR0019517/README.md) is het bij het drijven van handel, bij levering uit hoofde van beroep of bedrijf en bij het vaststellen van belastingen of van andere heffingen 
+Een meettaak ten behoeve van een specifieke toepassing als bedoeld in artikel 5, eerste lid, van de wet is het bij het drijven van handel, bij levering uit hoofde van beroep of bedrijf en bij het vaststellen van belastingen of van andere heffingen 
 
 a. meten van een hoeveelheid vloeistof in een meetreservoir, anders dan een scheepstank;  
 
@@ -171,7 +171,7 @@ c. bij de toepassing van de bijlage van de richtlijn inzake koudwatermeters, aan
 
 ### Artikel  16  
 
-De keuring, bedoeld in artikel 11, wordt verricht door een aangewezen instantie of door een persoon die beschikt over een erkenning als bedoeld in [artikel 11 van de wet](../../../../wet/metrologiewet/BWBR0019517/README.md). 
+De keuring, bedoeld in artikel 11, wordt verricht door een aangewezen instantie of door een persoon die beschikt over een erkenning als bedoeld in artikel 11 van de wet. 
 
 ### §  3  
 
@@ -184,15 +184,15 @@ De keuring, bedoeld in artikel 11, wordt verricht door een aangewezen instantie 
 
 ### Artikel  18  
 
-1.  De overeenstemming van een in de handel te brengen of in gebruik te nemen meetinstrument als bedoeld in artikel 5 met de bij of krachtens de [wet](../../../../wet/metrologiewet/BWBR0019517/README.md) gestelde eisen blijkt uit de bij ministeriële regeling vast te stellen Nederlandse metrologische markering.   
+1.  De overeenstemming van een in de handel te brengen of in gebruik te nemen meetinstrument als bedoeld in artikel 5 met de bij of krachtens de wet gestelde eisen blijkt uit de bij ministeriële regeling vast te stellen Nederlandse metrologische markering.   
 2.  De in het eerste lid bedoelde markering wordt duidelijk zichtbaar, gemakkelijk leesbaar en onuitwisbaar op het meetinstrument aangebracht. Wanneer een meetinstrument te klein of te gevoelig is om de markering daar op aan te brengen, wordt de markering aangebracht op de eventuele verpakking en op de documenten die bij het meetinstrument worden gevoegd.   
 3.  Op de meetinstrumenten mogen andere markeringen worden aangebracht mits de zichtbaarheid en leesbaarheid van de Nederlandse metrologische markering niet wordt verminderd.   
 4.  De in het eerste lid bedoelde markering wordt aangebracht door de fabrikant of onder zijn verantwoordelijkheid.  
 
 ### Artikel  19  
 
-1.  De overeenstemming van een in gebruik genomen geregeld meetinstrument dat ingevolge [artikel 7 van de wet](../../../../wet/metrologiewet/BWBR0019517/README.md) een overeenstemmingsbeoordeling heeft ondergaan, blijkt uit een merkteken waarvan het model bij ministeriële regeling wordt vastgesteld. Bij ministeriële regeling kunnen tevens regels worden gesteld omtrent de plaats en de wijze van aanbrengen van het merkteken.   
-2.  Het in het eerste lid bedoelde merkteken wordt aangebracht door een aangewezen instantie of een persoon die beschikt over een erkenning als bedoeld in [artikel 11 van de wet](../../../../wet/metrologiewet/BWBR0019517/README.md).  
+1.  De overeenstemming van een in gebruik genomen geregeld meetinstrument dat ingevolge artikel 7 van de wet een overeenstemmingsbeoordeling heeft ondergaan, blijkt uit een merkteken waarvan het model bij ministeriële regeling wordt vastgesteld. Bij ministeriële regeling kunnen tevens regels worden gesteld omtrent de plaats en de wijze van aanbrengen van het merkteken.   
+2.  Het in het eerste lid bedoelde merkteken wordt aangebracht door een aangewezen instantie of een persoon die beschikt over een erkenning als bedoeld in artikel 11 van de wet.  
 
 ### Hoofdstuk  4  
 
@@ -225,7 +225,7 @@ Een wijziging van de kaderrichtlijn of van een bijzondere richtlijn gaat voor de
 
 ### Artikel  23  
 
-Indien [artikel 44 van de wet](../../../../wet/metrologiewet/BWBR0019517/README.md) nog niet in werking is getreden op het tijdstip waarop [artikel 5 van de wet](../../../../wet/metrologiewet/BWBR0019517/README.md) en een of meer artikelen van dit besluit of van het [Meetinstrumentenbesluit I](../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md) in werking treden, kunnen bij ministeriële regeling nadere regels worden gesteld ten behoeve van de afstemming van de taken, rechten en verplichtingen die uit de bij of krachtens de [wet](../../../../wet/metrologiewet/BWBR0019517/README.md) en de IJkwet gestelde regels voortvloeien. 
+Indien artikel 44 van de wet nog niet in werking is getreden op het tijdstip waarop artikel 5 van de wet en een of meer artikelen van dit besluit of van het Meetinstrumentenbesluit I in werking treden, kunnen bij ministeriële regeling nadere regels worden gesteld ten behoeve van de afstemming van de taken, rechten en verplichtingen die uit de bij of krachtens de wet en de IJkwet gestelde regels voortvloeien. 
 
 ### §  3  
 

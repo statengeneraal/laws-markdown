@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 15 juni 1993, nr. RV 151906, Hoofddirectie van de Waterstaat, Hoofdafdeling Bestuurlijke en Juridische Zaken; 
 
-Gelet op de [Wegenverkeerswet 1994](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md); 
+Gelet op de Wegenverkeerswet 1994; 
 
 De Raad van State gehoord (advies van 18 oktober 1993, nr. W09.93.0363); 
 
@@ -28,15 +28,15 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 *bedrijfsvoorraadpas:* pas als bedoeld in artikel 48, eerste lid;  
 
-*betrokkene:* betrokkene als bedoeld in [artikel 1, onderdeel f, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
+*betrokkene:* betrokkene als bedoeld in artikel 1, onderdeel f, van de Wet bescherming persoonsgegevens;  
 
-*bijzonder kenteken:* kenteken als bedoeld in [artikel 38 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+*bijzonder kenteken:* kenteken als bedoeld in artikel 38 van de wet;  
 
-*erkend bedrijf bedrijfsvoorraad:* natuurlijk persoon of rechtspersoon aan wie een erkenning overeenkomstig [artikel 62 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is verleend;  
+*erkend bedrijf bedrijfsvoorraad:* natuurlijk persoon of rechtspersoon aan wie een erkenning overeenkomstig artikel 62 van de wet is verleend;  
 
-*erkend bedrijf exportdienstverlening:* natuurlijk persoon of rechtspersoon aan wie een erkenning overeenkomstig [artikel 66a van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is verleend;  
+*erkend bedrijf exportdienstverlening:* natuurlijk persoon of rechtspersoon aan wie een erkenning overeenkomstig artikel 66a van de wet is verleend;  
 
-*erkend bedrijf tenaamstelling:* natuurlijk persoon of rechtspersoon aan wie een erkenning overeenkomstig [artikel 61a van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is verleend;  
+*erkend bedrijf tenaamstelling:* natuurlijk persoon of rechtspersoon aan wie een erkenning overeenkomstig artikel 61a van de wet is verleend;  
 
 *handelaarskenteken:* kenteken als bedoeld in artikel 3;  
 
@@ -48,11 +48,11 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 *tenaamstellingsverslag:* uittreksel uit het kentekenregister waaruit blijkt dat een voertuig is tenaamgesteld;  
 
-*voertuig:* motorrijtuig of aanhangwagen als bedoeld in [artikel 1, eerste lid, onderdelen c en d, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+*voertuig:* motorrijtuig of aanhangwagen als bedoeld in artikel 1, eerste lid, onderdelen c en d, van de wet;  
 
 *vrijwaringsbewijs:* bewijs van beëindiging van tenaamstelling in het kentekenregister;  
 
-*wet:* [Wegenverkeerswet 1994](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);   
+*wet:* Wegenverkeerswet 1994;   
 
 ### Hoofdstuk  2  
 
@@ -62,9 +62,9 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 ####Uitzondering kentekenplicht
 
-Als categorieën bromfietsen, bedoeld in [artikel 37, eerste lid, onderdeel a, onder 1°, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) waarop [artikel 36 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) niet van toepassing is, worden, voor zover deze voertuigen voldoen aan de begripsomschrijving van bromfiets in [artikel 1, eerste lid, onder e, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), vastgesteld:
+Als categorieën bromfietsen, bedoeld in artikel 37, eerste lid, onderdeel a, onder 1°, van de wet waarop artikel 36 van de wet niet van toepassing is, worden, voor zover deze voertuigen voldoen aan de begripsomschrijving van bromfiets in artikel 1, eerste lid, onder e, van de wet, vastgesteld:
 
-a. bromfietsen als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md); 
+a. bromfietsen als bedoeld in artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet; 
 
 b.motorrijtuigen met een door de constructie bepaalde maximumsnelheid van ten hoogste 6 km/h;
 
@@ -83,7 +83,7 @@ d.motorrijtuigen met drie symmetrisch geplaatste wielen, waarvan een wiel aan de
 
 ####Handelaarskentekens 
 
-Aan een erkend bedrijf of aan een natuurlijke persoon of rechtspersoon als bedoeld in artikel 42, eerste lid, onderdeel b, kan, mits wordt voldaan aan hoofdstuk 5, voor de in [artikel 37, derde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde voertuigen een kenteken worden opgegeven bevattende:
+Aan een erkend bedrijf of aan een natuurlijke persoon of rechtspersoon als bedoeld in artikel 42, eerste lid, onderdeel b, kan, mits wordt voldaan aan hoofdstuk 5, voor de in artikel 37, derde lid, van de wet bedoelde voertuigen een kenteken worden opgegeven bevattende:
 
 a.voor wat betreft motorrijtuigen, met uitzondering van bromfietsen, de lettergroep HA, HF of FH en twee groepen van twee cijfers;
 
@@ -139,13 +139,13 @@ f. gegevens omtrent bij de aanvraag van een inschrijving of tenaamstelling alsme
 
 g. gegevens omtrent de inschrijving en tenaamstelling en het verval van de tenaamstelling, alsmede de afgifte, uitreiking en ongeldigverklaring van het kentekenbewijs;  
 
-h. gegevens omtrent de erkenning bedrijfsvoorraad, de erkenning exportdienstverlening en de erkenning tenaamstelling, bedoeld in respectievelijk de [artikelen 61a](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [62](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [66a van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+h. gegevens omtrent de erkenning bedrijfsvoorraad, de erkenning exportdienstverlening en de erkenning tenaamstelling, bedoeld in respectievelijk de artikelen 61a, 62 en 66a van de wet;  
 
-i. gegevens omtrent de schorsing, bedoeld in [hoofdstuk IV, paragraaf 6 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+i. gegevens omtrent de schorsing, bedoeld in hoofdstuk IV, paragraaf 6 van de wet;  
 
-j. gegevens omtrent de verplichting tot periodieke keuring, bedoeld in [hoofdstuk V van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+j. gegevens omtrent de verplichting tot periodieke keuring, bedoeld in hoofdstuk V van de wet;  
 
-k. gegevens ten behoeve van de heffing van de motorrijtuigenbelasting, bedoeld in de [Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) en de belasting, bedoeld in de [Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md);  
+k. gegevens ten behoeve van de heffing van de motorrijtuigenbelasting, bedoeld in de Wet op de motorrijtuigenbelasting 1994 en de belasting, bedoeld in de Wet op de belasting van personenauto’s en motorrijwielen 1992;  
 
 l. gegevens omtrent voertuigen die zijn of waren te naam gesteld alsmede voertuigen die op Nederlands grondgebied zijn gebracht of in Nederland zijn vervaardigd, die nog niet zijn ingeschreven of te naam gesteld;  
 
@@ -161,22 +161,22 @@ q. gegevens van administratieve aard, verband houdende met de tenaamstelling van
 
 r. gegevens omtrent de vermissing van voertuigen en de aangifte van diefstal of verduistering van voertuigen;  
 
-s. het burgerservicenummer, het administratienummer, bedoeld in [artikel 4.9 van de Wet basisregistratie personen](../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), en het door de Dienst Wegverkeer in het kader van het kentekenregister toegekende persoonsidentificatienummer;  
+s. het burgerservicenummer, het administratienummer, bedoeld in artikel 4.9 van de Wet basisregistratie personen, en het door de Dienst Wegverkeer in het kader van het kentekenregister toegekende persoonsidentificatienummer;  
 
 t. het gegeven dat degene op wiens naam een voertuig is geregistreerd is overleden, en  
 
-u. het gegeven dat ten aanzien van een te naam gesteld voertuig niet is voldaan aan de verplichting tot het betalen van motorrijtuigenbelasting als bedoeld in de [Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), of de verplichtingen inzake opgelegde administratieve sancties als bedoeld in de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../wet/wet/mulder/BWBR0004581/README.md).     
+u. het gegeven dat ten aanzien van een te naam gesteld voertuig niet is voldaan aan de verplichting tot het betalen van motorrijtuigenbelasting als bedoeld in de Wet op de motorrijtuigenbelasting 1994, of de verplichtingen inzake opgelegde administratieve sancties als bedoeld in de Wet administratiefrechtelijke handhaving verkeersvoorschriften.     
 2.   De in het eerste lid bedoelde gegevens worden, voor zover zij verband houden met een tenaamstelling, maximaal negen jaar na het verval van de tenaamstelling in het kentekenregister bewaard. De overige gegevens worden gedurende een door de Dienst Wegverkeer vastgestelde periode bewaard.   
 
 ###Artikel 7 
 
 ####Authentieke en gevoelige gegevens
 
-1. Als authentieke gegevens of categorieën daarvan als bedoeld in [artikel 42a, derde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) worden aangewezen gegevens omtrent:
+1. Als authentieke gegevens of categorieën daarvan als bedoeld in artikel 42a, derde lid, van de wet worden aangewezen gegevens omtrent:
 
 a. inschrijving en tenaamstelling van een voertuig in het kentekenregister bedoeld in artikel 6, eerste lid, onderdelen f en u;  
 
-b. een natuurlijk persoon of rechtspersoon aan wie een erkenning bedrijfsvoorraad, een erkenning exportdienstverlening of een erkenning tenaamstelling, bedoeld in respectievelijk de [artikelen 61a](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [62](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [66a van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), is verleend; 
+b. een natuurlijk persoon of rechtspersoon aan wie een erkenning bedrijfsvoorraad, een erkenning exportdienstverlening of een erkenning tenaamstelling, bedoeld in respectievelijk de artikelen 61a, 62 en 66a van de wet, is verleend; 
 
 c.voertuigstatus;
 
@@ -189,7 +189,7 @@ f.milieuaspecten van een voertuig; of
 g.gebruik van een voertuig. 
 2. Als gevoelige gegevens worden aangewezen gegevens of combinaties van gegevens die zijn aan te merken als:
 
-a.persoonsgegevens als bedoeld in [artikel 1, onderdeel a, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);
+a.persoonsgegevens als bedoeld in artikel 1, onderdeel a, van de Wet bescherming persoonsgegevens;
 
 b.gegevens waarvan de verstrekking een nadelig effect kan hebben op de concurrentiepositie van een onderneming, waaronder in elk geval worden verstaan voertuigidentificerende gegevens in combinatie met gegevens ten aanzien van een rechtspersoon omtrent:
 
@@ -220,9 +220,9 @@ c.gegevens waarvan de verstrekking het risico van handelen in strijd met een wet
 
 De Dienst Wegverkeer bepaalt de wijze waarop:
 
-a.overheidsorganen als bedoeld in [artikel 41a, eerste lid, onderdeel a, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) een melding als bedoeld in [artikel 43c, eerste lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) doen;
+a.overheidsorganen als bedoeld in artikel 41a, eerste lid, onderdeel a, van de wet een melding als bedoeld in artikel 43c, eerste lid, van de wet doen;
 
-b.een authentiek gegeven als bedoeld in [artikel 41a, eerste lid, onderdeel c, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) «in onderzoek» wordt geplaatst als bedoeld in [artikel 43c, derde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md). 
+b.een authentiek gegeven als bedoeld in artikel 41a, eerste lid, onderdeel c, van de wet «in onderzoek» wordt geplaatst als bedoeld in artikel 43c, derde lid, van de wet. 
 
 ###Artikel 8a 
 
@@ -237,7 +237,7 @@ b.autoriteiten buiten Nederland die zijn belast met de handhaving van verkeersre
 c.met de toelating van voertuigen belaste autoriteiten buiten Nederland, omtrent typen voertuigen, voertuigsystemen, voertuigonderdelen of technische eenheden en omtrent de uitstoot van verontreinigde gassen en deeltjes;
 
 d.autoriteiten buiten Nederland en instellingen van volkenrechtelijke organisaties voor zover dit ter uitvoering van een verdrag of een bindend besluit van een volkenrechtelijke organisaties vereist is. 
-2. Gevoelige gegevens als bedoeld in het eerste lid worden slechts verstrekt aan autoriteiten uit landen die geen deel uitmaken van de Europese Unie, de Europese Vrijhandelsassociatie of de Europese Economische Ruimte en aan instellingen van volkenrechtelijke organisaties welke niet door een lidstaat van de Europese Unie, de Europese Vrijhandelsassociatie of de Europese Economische Ruimte als zodanig zijn aangewezen, indien dat land of die instelling naar het oordeel van de Dienst Wegverkeer een passend beschermingsniveau waarborgt. De beoordeling of sprake is van een passend beschermingsniveau geschiedt overeenkomstig [artikel 76, tweede lid, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).
+2. Gevoelige gegevens als bedoeld in het eerste lid worden slechts verstrekt aan autoriteiten uit landen die geen deel uitmaken van de Europese Unie, de Europese Vrijhandelsassociatie of de Europese Economische Ruimte en aan instellingen van volkenrechtelijke organisaties welke niet door een lidstaat van de Europese Unie, de Europese Vrijhandelsassociatie of de Europese Economische Ruimte als zodanig zijn aangewezen, indien dat land of die instelling naar het oordeel van de Dienst Wegverkeer een passend beschermingsniveau waarborgt. De beoordeling of sprake is van een passend beschermingsniveau geschiedt overeenkomstig artikel 76, tweede lid, van de Wet bescherming persoonsgegevens.
 
 ### Artikel  9  
 
@@ -322,7 +322,7 @@ Op verzoek van betrokkene wordt in het kentekenregister geregistreerd dat hij zi
 
 ####Tarief voor toezicht
 
-Het tarief, bedoeld in [artikel 45a, derde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) wordt in rekening gebracht in bij ministeriële regeling te bepalen gevallen aan in die ministeriële regeling aangewezen personen en instanties of categorieën daarvan.
+Het tarief, bedoeld in artikel 45a, derde lid, van de wet wordt in rekening gebracht in bij ministeriële regeling te bepalen gevallen aan in die ministeriële regeling aangewezen personen en instanties of categorieën daarvan.
 
 ### Hoofdstuk  4  
 
@@ -357,8 +357,8 @@ Voor voertuigen waarvoor een van de in artikel 17, derde lid, bedoelde kentekens
 
 ####Uitzonderingen aanvraageisen
 
-1.  Het in [artikel 48, eerste lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde vereiste dat een natuurlijk persoon of een rechtspersoon die inschrijving en tenaamstelling verzoekt, in Nederland woonachtig, respectievelijk gevestigd moet zijn, is niet van toepassing op aanvragen gericht op opgave van een kenteken als bedoeld in artikel 4, eerste tot en met derde en vijfde tot en met zevende lid.   
-2.  Het in [artikel 50, eerste lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde vereiste, dat de aanvrager van een tenaamstelling persoonlijk dient te verschijnen bij een erkend bedrijf tenaamstelling of bij de Dienst Wegverkeer, is niet van toepassing op de aanvraag gericht op de opgave van een kenteken als bedoeld in artikel 4, eerste tot en met derde, vijfde tot en met zevende lid.  
+1.  Het in artikel 48, eerste lid, van de wet bedoelde vereiste dat een natuurlijk persoon of een rechtspersoon die inschrijving en tenaamstelling verzoekt, in Nederland woonachtig, respectievelijk gevestigd moet zijn, is niet van toepassing op aanvragen gericht op opgave van een kenteken als bedoeld in artikel 4, eerste tot en met derde en vijfde tot en met zevende lid.   
+2.  Het in artikel 50, eerste lid, van de wet bedoelde vereiste, dat de aanvrager van een tenaamstelling persoonlijk dient te verschijnen bij een erkend bedrijf tenaamstelling of bij de Dienst Wegverkeer, is niet van toepassing op de aanvraag gericht op de opgave van een kenteken als bedoeld in artikel 4, eerste tot en met derde, vijfde tot en met zevende lid.  
 
 ### Artikel  20  
 
@@ -366,32 +366,32 @@ Voor voertuigen waarvoor een van de in artikel 17, derde lid, bedoelde kentekens
 
 1.  De tenaamstelling van een voertuig wordt geweigerd indien uit het kentekenregister blijkt dat de aanvrager ten aanzien van een of meer voertuigen die op zijn naam in het kentekenregister zijn of waren ingeschreven, niet voldoet aan: 
 
-a. de verplichting tot het betalen van motorrijtuigenbelasting als bedoeld in de [Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), of  
+a. de verplichting tot het betalen van motorrijtuigenbelasting als bedoeld in de Wet op de motorrijtuigenbelasting 1994, of  
 
-b. de verplichtingen inzake opgelegde administratieve sancties als bedoeld in de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../wet/wet/mulder/BWBR0004581/README.md).     
+b. de verplichtingen inzake opgelegde administratieve sancties als bedoeld in de Wet administratiefrechtelijke handhaving verkeersvoorschriften.     
 2.  De in het eerste lid bedoelde weigering vindt slechts plaats indien onherroepelijk vaststaat dat de aanvrager tenminste vijf maal niet aan een of meer van de in dat lid bedoelde verplichtingen heeft voldaan.  
 
 ### Artikel  21  
 
 ####Inschrijving zonder tenaamstelling
 
-Overeenkomstig [artikel 48, zesde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) kan een voertuig worden ingeschreven zonder tenaamstelling, indien met betrekking tot het voertuig bij een in [artikel 22](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of [26 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde keuring niet kan worden vastgesteld, dan wel slechts op termijn kan worden vastgesteld of dat voertuig al dan niet voldoet aan de voor toelating tot het verkeer op de weg vastgestelde eisen en inschrijving naar het oordeel van de Dienst Wegverkeer verantwoord is. 
+Overeenkomstig artikel 48, zesde lid, van de wet kan een voertuig worden ingeschreven zonder tenaamstelling, indien met betrekking tot het voertuig bij een in artikel 22 of 26 van de wet bedoelde keuring niet kan worden vastgesteld, dan wel slechts op termijn kan worden vastgesteld of dat voertuig al dan niet voldoet aan de voor toelating tot het verkeer op de weg vastgestelde eisen en inschrijving naar het oordeel van de Dienst Wegverkeer verantwoord is. 
 
 ### Artikel  22  
 
 ####Vordering afgifte kentekenbewijs ter inzage
 
-1.  De verplichting tot het ter inzage afgeven van het kentekenbewijs als bedoeld in [artikel 160 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), heeft betrekking op de voor het voertuig afgegeven kentekencard en op het kentekenbewijs deel II voor zover dit door de Dienst Wegverkeer is afgegeven.   
-2.  De verplichting tot het ter inzage geven van het kentekenbewijs als bedoeld in [artikel 160 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) geldt vanaf het moment waarop het door de Dienst Wegverkeer is uitgereikt. Voor de kentekencard geldt de verplichting tot het ter inzage geven in ieder geval vanaf 14 dagen na de tenaamstelling van het voertuig.   
-3.  Indien de in [artikel 160 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde vordering betrekking heeft op een kentekenbewijs dat is afgegeven voor een aanhangwagen die overeenkomstig [artikel 3.2](../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) of [3.7 van de Regeling voertuigen](../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) is voorzien van een constructieplaat, kan aan de vordering worden voldaan binnen een termijn van een week.  
+1.  De verplichting tot het ter inzage afgeven van het kentekenbewijs als bedoeld in artikel 160 van de wet, heeft betrekking op de voor het voertuig afgegeven kentekencard en op het kentekenbewijs deel II voor zover dit door de Dienst Wegverkeer is afgegeven.   
+2.  De verplichting tot het ter inzage geven van het kentekenbewijs als bedoeld in artikel 160 van de wet geldt vanaf het moment waarop het door de Dienst Wegverkeer is uitgereikt. Voor de kentekencard geldt de verplichting tot het ter inzage geven in ieder geval vanaf 14 dagen na de tenaamstelling van het voertuig.   
+3.  Indien de in artikel 160 van de wet bedoelde vordering betrekking heeft op een kentekenbewijs dat is afgegeven voor een aanhangwagen die overeenkomstig artikel 3.2 of 3.7 van de Regeling voertuigen is voorzien van een constructieplaat, kan aan de vordering worden voldaan binnen een termijn van een week.  
 
 ### Artikel  23  
 
 ####Rijden met geschorste tenaamstelling en met niet tenaamgesteld voertuig
 
-1.  Gedurende de tijd dat de tenaamstelling van een voertuig is geschorst ingevolge [artikel 67 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), mag: 
+1.  Gedurende de tijd dat de tenaamstelling van een voertuig is geschorst ingevolge artikel 67 van de wet, mag: 
 
-a. op de dag waarop het voertuig, naar aanleiding van de aanvraag van een keuringsrapport als bedoeld in [artikel 75 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) dan wel naar aanleiding van de aanvraag van een keuring als bedoeld in [artikel 99](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of [artikel 106 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aan een zodanige keuring wordt onderworpen, met dat voertuig via de kortste route naar en van de plaats van keuring worden gereden;  
+a. op de dag waarop het voertuig, naar aanleiding van de aanvraag van een keuringsrapport als bedoeld in artikel 75 van de wet dan wel naar aanleiding van de aanvraag van een keuring als bedoeld in artikel 99 of artikel 106 van de wet aan een zodanige keuring wordt onderworpen, met dat voertuig via de kortste route naar en van de plaats van keuring worden gereden;  
 
 b. met een voertuig van 15 jaar of ouder op de weg worden gereden indien er naar het oordeel van Onze Minister van Financiën sprake is van een bijzondere gelegenheid en wordt voldaan aan de in het kader daarvan door die minister gestelde voorschriften en beperkingen.     
 2.  Met een voertuig zonder tenaamstelling als bedoeld in artikel 21 mag worden gereden gedurende een periode van drie maanden na de dag waarop het voertuig is ingeschreven.  
@@ -437,7 +437,7 @@ b. een ondertekende machtiging welke vermeldt:
 
 1°. naam en adres van de aanvrager;  
 
-2°. een opgave van zijn unieke nummer, bedoeld in [artikel 9, onder a, van de Handelsregisterwet 2007](../../../wet/handelsregisterwet/2007/BWBR0021777/README.md);  
+2°. een opgave van zijn unieke nummer, bedoeld in artikel 9, onder a, van de Handelsregisterwet 2007;  
 
 3°. naam en geboortedatum van degene die de rechtspersoon vertegenwoordigt;  
 
@@ -511,14 +511,14 @@ b. een ondertekende machtiging welke vermeldt:
 
 1°. naam en adres van de aanvrager;  
 
-2°. een opgave van zijn unieke nummer, bedoeld in [artikel 9, onder a, van de Handelsregisterwet 2007](../../../wet/handelsregisterwet/2007/BWBR0021777/README.md);  
+2°. een opgave van zijn unieke nummer, bedoeld in artikel 9, onder a, van de Handelsregisterwet 2007;  
 
 3°. naam en geboortedatum van degene die de rechtspersoon vertegenwoordigt;  
 
 4°. naam en adres van het erkende bedrijf waar de aanvraag wordt ingediend, en  
 
 5°. het kenteken van het voertuig waarop de aanvraag betrekking heeft.       
-4.  Het erkende bedrijf bedrijfsvoorraad meldt de bij ministeriële regeling als bedoeld in [artikel 62, vierde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), voorgeschreven gegevens. In geval van een aanvraag als bedoeld in het derde lid meldt het bedrijf ook de vestigingsdatum en de gegevens vermeld in de machtiging.   
+4.  Het erkende bedrijf bedrijfsvoorraad meldt de bij ministeriële regeling als bedoeld in artikel 62, vierde lid, van de wet, voorgeschreven gegevens. In geval van een aanvraag als bedoeld in het derde lid meldt het bedrijf ook de vestigingsdatum en de gegevens vermeld in de machtiging.   
 5.  De Dienst Wegverkeer geeft, indien aan de verplichtingen in het tweede tot en met vierde lid is voldaan, een nieuwe kentekencard, een tenaamstellingsverslag en een vrijwaringsbewijs af aan de aanvrager en verstrekt een nieuwe tenaamstellingscode.  
 
 ### Artikel  29  
@@ -574,13 +574,13 @@ c. een vrijwaringsbewijs aan te maken en onder zich te houden.
 
 1.  Indien een voertuig niet meer overeenstemt met de gegevens in het kentekenregister, is degene op wiens naam het voertuig is geregistreerd of degene die na diens overlijden eigenaar of houder van het voertuig is geworden, verplicht onverwijld bij de Dienst Wegverkeer de gewijzigde gegevens te melden.   
 2.  Indien de melding leidt tot wijziging van een gegeven in het kentekenregister en dit gegeven op de kentekencard staat, geeft de Dienst Wegverkeer aan degene die aan de in het eerste lid bedoelde verplichting heeft voldaan een kentekencard af en verstrekt een tenaamstellingscode.   
-3.  De Dienst Wegverkeer geeft in geval van wijziging in de constructie als bedoeld in [artikel 98 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) een nieuwe kentekencard af nadat de wijziging is goedgekeurd ingevolge artikel 98 van de wet.  
+3.  De Dienst Wegverkeer geeft in geval van wijziging in de constructie als bedoeld in artikel 98 van de wet een nieuwe kentekencard af nadat de wijziging is goedgekeurd ingevolge artikel 98 van de wet.  
 
 ### Artikel  35  
 
 ####Uitzondering aanwijzing kentekenbewijzen in verband met tarieven
 
-Bij ministeriële regeling kunnen kentekenbewijzen worden aangewezen waarvoor geen bedrag ter dekking van de in [artikel 4q, tweede lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), bedoelde kosten wordt vastgesteld. 
+Bij ministeriële regeling kunnen kentekenbewijzen worden aangewezen waarvoor geen bedrag ter dekking van de in artikel 4q, tweede lid, van de wet, bedoelde kosten wordt vastgesteld. 
 
 ### Artikel  36  
 
@@ -598,28 +598,28 @@ Bij ministeriële regeling kunnen kentekenbewijzen worden aangewezen waarvoor ge
 
 1.  De Dienst Wegverkeer kan bepalen dat met een te naam gesteld voertuig niet op de weg mag worden gereden indien naar het oordeel van deze dienst: 
 
-a. het voertuig niet ter beschikking wordt gesteld ten behoeve van de in [artikel 45a, tweede lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde inspectie, of  
+a. het voertuig niet ter beschikking wordt gesteld ten behoeve van de in artikel 45a, tweede lid, van de wet bedoelde inspectie, of  
 
-b. het voertuig niet voldoet aan een of meer van de in [artikel 51a, derde lid, onderdelen b, c, of d, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde eisen     
-2.  Het verbod om met een voertuig op de weg te rijden als bedoeld in [artikel 48, zevende lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) geldt vanaf het tijdstip waarop dit door een van de in [artikel 159 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde personen is aangezegd.   
+b. het voertuig niet voldoet aan een of meer van de in artikel 51a, derde lid, onderdelen b, c, of d, van de wet bedoelde eisen     
+2.  Het verbod om met een voertuig op de weg te rijden als bedoeld in artikel 48, zevende lid, van de wet geldt vanaf het tijdstip waarop dit door een van de in artikel 159 van de wet bedoelde personen is aangezegd.   
 3.  Indien een situatie als bedoeld in het eerste lid zich voordoet dan wordt daarvan een aantekening in het kentekenregister geplaatst.   
-4.  In afwijking van het tweede lid mag op de dag waarop het voertuig waarvoor de kentekencard is afgegeven naar aanleiding van een aanvraag van een keuring als bedoeld in [artikel 99](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of [artikel 106 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aan een zodanige keuring wordt onderworpen, met dat voertuig via de kortste route naar en van de plaats van keuring worden gereden.   
+4.  In afwijking van het tweede lid mag op de dag waarop het voertuig waarvoor de kentekencard is afgegeven naar aanleiding van een aanvraag van een keuring als bedoeld in artikel 99 of artikel 106 van de wet aan een zodanige keuring wordt onderworpen, met dat voertuig via de kortste route naar en van de plaats van keuring worden gereden.   
 5.  Onverminderd het in het eerste lid bepaalde mag een voertuig waarmee niet mag worden gereden op de weg staan.  
 
 ### Artikel  39  
 
 ####Vordering tot overgifte van de kentekencard
 
-1.  Tot het vorderen tot overgifte als bedoeld in [artikel 60, eerste lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) van de kentekencard zijn bevoegd: 
+1.  Tot het vorderen tot overgifte als bedoeld in artikel 60, eerste lid, van de wet van de kentekencard zijn bevoegd: 
 
-a. de Directie van de Dienst Wegverkeer en de door de Directie daartoe aangewezen tot die dienst behorende ambtenaren, indien naar hun oordeel [artikel 60, eerste lid, onderdelen b of c, of tweede lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), van toepassing is;  
+a. de Directie van de Dienst Wegverkeer en de door de Directie daartoe aangewezen tot die dienst behorende ambtenaren, indien naar hun oordeel artikel 60, eerste lid, onderdelen b of c, of tweede lid, van de wet, van toepassing is;  
 
-b. de door Onze Minister in overeenstemming met Onze Minister van Financiën aangewezen ambtenaren der Rijksbelastingdienst, indien naar hun oordeel [artikel 60, eerste lid, onderdeel a, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), van toepassing is;  
+b. de door Onze Minister in overeenstemming met Onze Minister van Financiën aangewezen ambtenaren der Rijksbelastingdienst, indien naar hun oordeel artikel 60, eerste lid, onderdeel a, van de wet, van toepassing is;  
 
-c. de ambtenaren, bedoeld in [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), indien naar hun oordeel [artikel 60, eerste lid, onderdeel a, b of c, of tweede lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) van toepassing is.     
-2.  De verplichting tot overgifte, bedoeld in [artikel 60, eerste lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), heeft betrekking op de kentekencard en op het kentekenbewijs deel II indien dit is uitgereikt.   
+c. de ambtenaren, bedoeld in artikel 141 van het Wetboek van Strafvordering, indien naar hun oordeel artikel 60, eerste lid, onderdeel a, b of c, of tweede lid, van de wet van toepassing is.     
+2.  De verplichting tot overgifte, bedoeld in artikel 60, eerste lid, van de wet, heeft betrekking op de kentekencard en op het kentekenbewijs deel II indien dit is uitgereikt.   
 3.  Indien dit bij de vordering van de eigenaar of houder dan wel de bezitter wordt geëist, is deze verplicht tot het op een daarbij te bepalen tijd en plaats ter beschikking houden van het voertuig, waarop de vordering betrekking heeft.   
-4.  Indien de in het eerste lid bedoelde vordering betrekking heeft op een aanhangwagen die overeenkomstig [artikel 3.2](../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) of [3.7 van de Regeling voertuigen](../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) is voorzien van een constructieplaat, kan aan de vordering worden voldaan binnen een termijn van een week.  
+4.  Indien de in het eerste lid bedoelde vordering betrekking heeft op een aanhangwagen die overeenkomstig artikel 3.2 of 3.7 van de Regeling voertuigen is voorzien van een constructieplaat, kan aan de vordering worden voldaan binnen een termijn van een week.  
 
 ### Artikel  40  
 
@@ -653,7 +653,7 @@ g. de Dienst Wegverkeer de tenaamstelling vervallen heeft verklaard op grond van
 
 ####Vervallenverklaring van de tenaamstelling
 
-1.  De Dienst Wegverkeer verklaart een tenaamstelling vervallen indien deze dienst van oordeel is, dat de omstandigheden bedoeld in [artikel 51a, tweede lid, onderdelen a of b, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) zich voordoen.   
+1.  De Dienst Wegverkeer verklaart een tenaamstelling vervallen indien deze dienst van oordeel is, dat de omstandigheden bedoeld in artikel 51a, tweede lid, onderdelen a of b, van de wet zich voordoen.   
 2.  De Dienst Wegverkeer kan een tenaamstelling vervallen verklaren indien voor het voertuig, waarvoor de tenaamstelling gold een nieuw kenteken is opgegeven.   
 3.  De Dienst Wegverkeer kan een tenaamstelling vervallen verklaren indien naar het oordeel van deze dienst blijkt dat het voertuig waarvoor de tenaamstelling geldt: 
 
@@ -663,7 +663,7 @@ b. voorgoed buiten Nederland is gebracht;
 
 c. definitief is bestemd voor gebruik buiten de weg, of  
 
-d. is gaan behoren tot een der ingevolge [artikel 37 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) van de kentekenplicht uitgezonderde categorieën van voertuigen.     
+d. is gaan behoren tot een der ingevolge artikel 37 van de wet van de kentekenplicht uitgezonderde categorieën van voertuigen.     
 4.  De Dienst Wegverkeer kan een tenaamstelling vervallen verklaren indien naar oordeel van deze dienst blijkt dat: 
 
 a. degene op wiens naam het voertuig is ingeschreven opgehouden is eigenaar, bezitter of houder van het voertuig te zijn;  
@@ -673,7 +673,7 @@ b. de reden waarom voor het voertuig een kenteken bevattende de lettergroep BN, 
 c. de eigenaar of houder van het voertuig onvrijwillig het bezit of het houderschap van het voertuig heeft verloren  
 
 d. degene die als tenaamgestelde in het kentekenregister is ingeschreven niet langer in Nederland woonachtig of gevestigd is.     
-5.  In het geval, bedoeld in het derde lid, onderdeel a, verklaart de Dienst Wegverkeer de tenaamstelling vervallen indien het voorgoed buiten gebruik stellen van het voertuig overeenkomstig het bepaalde krachtens [artikel 62, derde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) wordt gemeld door een erkend bedrijf bedrijfsvoorraad dat gebruik maakt van de bevoegdheid, bedoeld in artikel 46, tweede lid, onderdeel c.   
+5.  In het geval, bedoeld in het derde lid, onderdeel a, verklaart de Dienst Wegverkeer de tenaamstelling vervallen indien het voorgoed buiten gebruik stellen van het voertuig overeenkomstig het bepaalde krachtens artikel 62, derde lid, van de wet wordt gemeld door een erkend bedrijf bedrijfsvoorraad dat gebruik maakt van de bevoegdheid, bedoeld in artikel 46, tweede lid, onderdeel c.   
 6.  In afwijking van het vijfde lid verklaart de Dienst Wegverkeer een tenaamstelling vervallen indien: 
 
 a. de melding geschiedt door een ander dan een erkend bedrijf bedrijfsvoorraad dat de bevoegdheid, bedoeld in artikel 46, tweede lid, onderdeel c, heeft verkregen;  
@@ -682,7 +682,7 @@ b. de melding betrekking heeft op een voertuig dat behoort tot een bij ministeri
 
 c. wordt voldaan aan nadere bij ministeriële regeling vastgestelde voorwaarden.     
 7.  In het geval, bedoeld in het derde lid, onderdeel c, verklaart de Dienst Wegverkeer de tenaamstelling vervallen indien ten aanzien van de bestemming van het voertuig wordt voldaan aan nadere bij ministeriële regeling vastgestelde voorwaarden.   
-8.  In het geval, bedoeld in het vierde lid, onderdeel c, verklaart de Dienst Wegverkeer de tenaamstelling vervallen indien het verlies van het bezit of het houderschap van het voertuig het gevolg is van diefstal of verduistering en hiervan aangifte is gedaan bij een van de in de [artikelen 141](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [142 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde personen.   
+8.  In het geval, bedoeld in het vierde lid, onderdeel c, verklaart de Dienst Wegverkeer de tenaamstelling vervallen indien het verlies van het bezit of het houderschap van het voertuig het gevolg is van diefstal of verduistering en hiervan aangifte is gedaan bij een van de in de artikelen 141 en 142 van het Wetboek van Strafvordering bedoelde personen.   
 9.  De op grond van het achtste lid vervallen verklaarde tenaamstelling herleeft: 
 
 a. op verzoek van de eigenaar of houder van het voertuig, of  
@@ -717,7 +717,7 @@ Een wijziging van richtlijn nr. 2000/53/EG van het Europees Parlement en de Raad
 
 ####Basis handelaarskentekenbewijzen 
 
-Voor voertuigen als bedoeld in [artikel 37, derde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), geldt het vereiste dat een kenteken voor een bepaald voertuig dient te zijn opgegeven niet, mits dat voertuig een kenteken voert als bedoeld in artikel 3, dat behoort bij een ingevolge artikel 42 afgegeven handelaarskentekenbewijs waarvan gebruik wordt gemaakt overeenkomstig de in dit hoofdstuk bedoelde voorschriften.  
+Voor voertuigen als bedoeld in artikel 37, derde lid, van de wet, geldt het vereiste dat een kenteken voor een bepaald voertuig dient te zijn opgegeven niet, mits dat voertuig een kenteken voert als bedoeld in artikel 3, dat behoort bij een ingevolge artikel 42 afgegeven handelaarskentekenbewijs waarvan gebruik wordt gemaakt overeenkomstig de in dit hoofdstuk bedoelde voorschriften.  
 
 ### Artikel  42  
 
@@ -761,9 +761,9 @@ c. niet langer voldoet aan artikel 42, dan wel
 
 d. handelt in strijd met het bepaalde:  
 
-1°. bij of krachtens [artikel 37, derde of vierde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), dan wel   
+1°. bij of krachtens artikel 37, derde of vierde lid, van de wet, dan wel   
 
-2°. krachtens [artikel 37, zevende lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), voor zover het betreft nadere regels ter uitvoering van het derde lid van dat artikel.        
+2°. krachtens artikel 37, zevende lid, van de wet, voor zover het betreft nadere regels ter uitvoering van het derde lid van dat artikel.        
 2.   Degene die een ongeldig verklaard handelaarskentekenbewijs onder zich heeft, levert dit onverwijld in bij de Dienst Wegverkeer.    
 3.   Indien degene die een ongeldig verklaard handelaarskentekenbewijs onder zich heeft niet voldoet aan de verplichting van het tweede lid, kan het handelaarskentekenbewijs worden ingenomen door de daartoe bevoegde ambtenaren.   
 
@@ -775,7 +775,7 @@ d. handelt in strijd met het bepaalde:
 
 ####Termijn erkenning na verzoek om intrekking
 
-Na indiening van het verzoek om intrekking, als bedoeld in [artikel 61d, eerste lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), kan de Dienst Wegverkeer bepalen dat de erkenning gedurende twee jaar van kracht blijft. 
+Na indiening van het verzoek om intrekking, als bedoeld in artikel 61d, eerste lid, van de wet, kan de Dienst Wegverkeer bepalen dat de erkenning gedurende twee jaar van kracht blijft. 
 
 ### Hoofdstuk  6  
 
@@ -785,7 +785,7 @@ Na indiening van het verzoek om intrekking, als bedoeld in [artikel 61d, eerste 
 
 ####Onderwerp erkenning 
 
-1.  Een erkenning als bedoeld in [artikel 62, eerste lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), wordt verleend teneinde voertuigen met behulp van een bedrijfsvoorraadpas in bedrijfsvoorraad op te nemen.    
+1.  Een erkenning als bedoeld in artikel 62, eerste lid, van de wet, wordt verleend teneinde voertuigen met behulp van een bedrijfsvoorraadpas in bedrijfsvoorraad op te nemen.    
 2.  Aan de erkenning kan worden verbonden: 
 
 a. de bevoegdheid tot het versneld aanvragen van de inschrijving van voertuigen;  
@@ -794,13 +794,13 @@ b. de bevoegdheid tot het versneld melden dat tot de bedrijfsvoorraad behorende 
 
 c. de bevoegdheid tot het melden dat tot de bedrijfsvoorraad behorende voertuigen voorgoed buiten gebruik worden gesteld, alsmede het verstrekken van een certificaat van vernietiging, als bedoeld in artikel 5, derde lid, van richtlijn nr. 2000/53/EG van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende autowrakken (PbEG L 269), met dien verstande dat voor voertuigen waar die richtlijn op van toepassing isde melding alleen wordt gedaan nadat het certificaat van vernietiging is verstrekt; en  
 
-d. de bevoegdheid om in geval van verkoop van een voertuig uit eigen bedrijfsvoorraad namens de aanvrager middels een voor datacommunicatie geschikte voorziening bij de Dienst Wegverkeer, overeenkomstig [artikel 50, eerste lid, aanhef en onderdeel b, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) een aanvraag van een tenaamstelling in te dienen.    
+d. de bevoegdheid om in geval van verkoop van een voertuig uit eigen bedrijfsvoorraad namens de aanvrager middels een voor datacommunicatie geschikte voorziening bij de Dienst Wegverkeer, overeenkomstig artikel 50, eerste lid, aanhef en onderdeel b, van de wet een aanvraag van een tenaamstelling in te dienen.    
 
 ### Artikel  47  
 
 ####Aanvraag 
 
-1.  Een erkenning als bedoeld in [artikel 62, eerste lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), kan worden aangevraagd door en worden verleend aan:  
+1.  Een erkenning als bedoeld in artikel 62, eerste lid, van de wet, kan worden aangevraagd door en worden verleend aan:  
 
 a. een natuurlijke persoon of rechtspersoon die exploitant is van een of meer ondernemingen waar voertuigen bedrijfsmatig worden ingekocht of gefabriceerd met het doel deze te verkopen,   
 
@@ -823,7 +823,7 @@ c. bij ministeriële regeling aan te wijzen personen of instanties die voertuige
 
 ####Intrekking erkenning 
 
-1.  Indien dit bij de intrekking, wijziging of schorsing van de erkenning als bedoeld in [artikel 65 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), is bepaald, levert degene aan wie de erkenning is dan wel was verleend alle aan hem verstrekte bedrijfsvoorraadpassen onverwijld in bij de Dienst Wegverkeer.    
+1.  Indien dit bij de intrekking, wijziging of schorsing van de erkenning als bedoeld in artikel 65 van de wet, is bepaald, levert degene aan wie de erkenning is dan wel was verleend alle aan hem verstrekte bedrijfsvoorraadpassen onverwijld in bij de Dienst Wegverkeer.    
 2.   Indien degene aan wie de erkenning is dan wel was verleend niet voldoet aan het eerste lid, kunnen de bedrijfsvoorraadpassen worden ingenomen door de daartoe bevoegde ambtenaren.   
 
 ### Hoofdstuk  6a  
@@ -834,13 +834,13 @@ c. bij ministeriële regeling aan te wijzen personen of instanties die voertuige
 
 ####Onderwerp erkenning
 
-Een erkenning als bedoeld in [artikel 66a, eerste lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), wordt verleend teneinde ten behoeve van derden de tenaamstelling van voertuigen in het kentekenregister langs geautomatiseerde weg te beëindigen in verband met het voorgoed buiten Nederland brengen van een voertuig. 
+Een erkenning als bedoeld in artikel 66a, eerste lid, van de wet, wordt verleend teneinde ten behoeve van derden de tenaamstelling van voertuigen in het kentekenregister langs geautomatiseerde weg te beëindigen in verband met het voorgoed buiten Nederland brengen van een voertuig. 
 
 ### Artikel  49b  
 
 ####Aanvraag
 
-1.  Een erkenning als bedoeld in [artikel 66a, eerste lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), kan worden aangevraagd door en worden verleend aan een natuurlijk persoon of rechtspersoon die exploitant is van een of meer ondernemingen waarin aan derden bedrijfsmatig diensten worden verleend in verband met de export van in het kentekenregister tenaamgestelde voertuigen.   
+1.  Een erkenning als bedoeld in artikel 66a, eerste lid, van de wet, kan worden aangevraagd door en worden verleend aan een natuurlijk persoon of rechtspersoon die exploitant is van een of meer ondernemingen waarin aan derden bedrijfsmatig diensten worden verleend in verband met de export van in het kentekenregister tenaamgestelde voertuigen.   
 2.  De aanvraag wordt ingediend bij de Dienst Wegverkeer.   
 3.  De aanvrager stelt de Dienst Wegverkeer in de gelegenheid te onderzoeken of te zijnen aanzien aan het eerste lid wordt voldaan.   
 
@@ -852,7 +852,7 @@ Een erkenning als bedoeld in [artikel 66a, eerste lid, van de wet](../../../wet/
 
 ####Aanvraag schorsing
 
-1.  De aanvraag bij de Dienst Wegverkeer van een schorsing als bedoeld in [artikel 67 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) vindt plaats op één van de volgende wijzen: 
+1.  De aanvraag bij de Dienst Wegverkeer van een schorsing als bedoeld in artikel 67 van de wet vindt plaats op één van de volgende wijzen: 
 
 a. door de kentekencard, een bij ministeriële regeling aangewezen legitimatiebewijs alsmede de tenaamstellingscode over te leggen.  
 
@@ -863,7 +863,7 @@ b. langs elektronische weg door gebruikmaking van een door de Dienst Wegverkeer 
 
 ####Verzoek beëindiging schorsing
 
-1.  Een verzoek tot beëindiging van een schorsing ingevolge [artikel 69 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) vindt plaats op één van de volgende wijzen: 
+1.  Een verzoek tot beëindiging van een schorsing ingevolge artikel 69 van de wet vindt plaats op één van de volgende wijzen: 
 
 a. door de kentekencard, een bij ministeriële regeling aangewezen legitimatiebewijs en de tenaamstellingscode bij de Dienst Wegverkeer over te leggen;  
 
@@ -969,17 +969,17 @@ Overtreding van de artikelen
 
 ###Artikel 55 
 
-1. De [artikelen 5](../../../AMvB/reglement/kentekenregistratie/BWBR0002938/README.md), [7, eerste en tweede lid](../../../AMvB/reglement/kentekenregistratie/BWBR0002938/README.md), [14](../../../AMvB/reglement/kentekenregistratie/BWBR0002938/README.md), eerste lid, [15](../../../AMvB/reglement/kentekenregistratie/BWBR0002938/README.md), eerste lid en [16 van het Reglement kentekenregistratie](../../../AMvB/reglement/kentekenregistratie/BWBR0002938/README.md), zoals deze bepalingen luidden vóór het tijdstip waarop zij op grond van artikel 59 zijn ingetrokken, blijven voor wat betreft het in die bepalingen bepaalde ten aanzien van registratiebewijzen en aanvullingsbladen van kracht tot een bij ministeriële regeling vastgesteld tijdstip. Tot dat tijdstip kan de Dienst Wegverkeer tevens een voorlopig registratiebewijs afgeven van een bij ministeriële regeling vastgesteld model.
-2.  Voor de toepassing van [artikel 5 van het Reglement kentekenregistratie](../../../AMvB/reglement/kentekenregistratie/BWBR0002938/README.md) wordt met een kentekenbewijs gelijkgesteld een kentekenbewijs, afgegeven op basis van de wet. 
+1. De artikelen 5, 7, eerste en tweede lid, 14, eerste lid, 15, eerste lid en 16 van het Reglement kentekenregistratie, zoals deze bepalingen luidden vóór het tijdstip waarop zij op grond van artikel 59 zijn ingetrokken, blijven voor wat betreft het in die bepalingen bepaalde ten aanzien van registratiebewijzen en aanvullingsbladen van kracht tot een bij ministeriële regeling vastgesteld tijdstip. Tot dat tijdstip kan de Dienst Wegverkeer tevens een voorlopig registratiebewijs afgeven van een bij ministeriële regeling vastgesteld model.
+2.  Voor de toepassing van artikel 5 van het Reglement kentekenregistratie wordt met een kentekenbewijs gelijkgesteld een kentekenbewijs, afgegeven op basis van de wet. 
 
 ### Artikel  57  
 
-1.  De [artikelen 17](../../../AMvB/reglement/kentekenregistratie/BWBR0002938/README.md) en [23 van het Reglement kentekenregistratie](../../../AMvB/reglement/kentekenregistratie/BWBR0002938/README.md), zoals deze artikelen luidden vóór het tijdstip waarop zij op grond van artikel 59 zijn ingetrokken, blijven van kracht ten aanzien van op basis van de Wegenverkeerswet afgegeven kentekenbewijzen die vóór bedoeld tijdstip met toepassing van genoemde artikelen 17 en 23 ongeldig zijn verklaard en moeten worden ingeleverd, indien op eerderbedoeld tijdstip die inlevering nog niet heeft plaatsgevonden.    
+1.  De artikelen 17 en 23 van het Reglement kentekenregistratie, zoals deze artikelen luidden vóór het tijdstip waarop zij op grond van artikel 59 zijn ingetrokken, blijven van kracht ten aanzien van op basis van de Wegenverkeerswet afgegeven kentekenbewijzen die vóór bedoeld tijdstip met toepassing van genoemde artikelen 17 en 23 ongeldig zijn verklaard en moeten worden ingeleverd, indien op eerderbedoeld tijdstip die inlevering nog niet heeft plaatsgevonden.    
 2.   Op basis van de Wegenverkeerswet afgegeven kentekenbewijzen die nog niet op grond van artikel 54, eerste lid, zijn vervangen, worden voor de toepassing van de artikelen 37 en 45 gelijkgesteld met kentekenbewijzen, afgegeven op basis van de wet.   
 
 ### Artikel  58  
 
-Voor de toepassing van dit besluit wordt een op basis van het [Reglement kentekenregistratie](../../../AMvB/reglement/kentekenregistratie/BWBR0002938/README.md) afgegeven kopie deel III gelijkgesteld met een overschrijvingsbewijs tot het tijdstip dat het kopie deel III is vervangen door een zodanig bewijs.  
+Voor de toepassing van dit besluit wordt een op basis van het Reglement kentekenregistratie afgegeven kopie deel III gelijkgesteld met een overschrijvingsbewijs tot het tijdstip dat het kopie deel III is vervangen door een zodanig bewijs.  
 
 ### Hoofdstuk  9A  
 
@@ -1042,7 +1042,7 @@ c. bij het erkende bedrijf de bij ministeriële regeling aangewezen documenten o
 ####Wijziging van de tenaamstelling: overdracht van een voertuig uit bedrijfsvoorraad
 
 1.  In geval van overdracht van een voertuig dat ophoudt te behoren tot de bedrijfsvoorraad van een erkende bedrijf bedrijfsvoorraad dat gebruik maakt van de bevoegdheid, bedoeld in artikel 46, tweede lid, onderdeel d, kan, in afwijking van artikel 58d, een aanvraag om tenaamstelling, gericht aan de Dienst Wegverkeer, bij dat bedrijf worden ingediend. In afwijking van artikel 58d is dit artikel van toepassing.   
-2.  Indien de aanvraag wordt gedaan door een natuurlijk persoon overlegt deze in persoon aan het erkende bedrijf bedrijfsvoorraad een bij ministeriële regeling aangewezen legitimatiebewijs, alsmede een verklaring waaruit duidelijk het verzoek tot tenaamstelling blijkt en het kenteken van het voertuig dat wordt overgedragen, en welke overigens voldoet aan bij ministeriële regeling als bedoeld in [artikel 50, vijfde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), gestelde voorschriften.   
+2.  Indien de aanvraag wordt gedaan door een natuurlijk persoon overlegt deze in persoon aan het erkende bedrijf bedrijfsvoorraad een bij ministeriële regeling aangewezen legitimatiebewijs, alsmede een verklaring waaruit duidelijk het verzoek tot tenaamstelling blijkt en het kenteken van het voertuig dat wordt overgedragen, en welke overigens voldoet aan bij ministeriële regeling als bedoeld in artikel 50, vijfde lid, van de wet, gestelde voorschriften.   
 3.  Indien de aanvraag wordt gedaan door een in Nederland gevestigde rechtspersoon, die is ingeschreven in het handelsregister, machtigt deze het erkende bedrijf bedrijfsvoorraad de aanvraag bij de Dienst Wegverkeer in te dienen. Degene die blijkens het handelsregister bevoegd is de rechtspersoon te vertegenwoordigen verstrekt aan het erkende bedrijf: 
 
 a. een kopie van een bij ministeriële regeling aangewezen legitimatiebewijs;  
@@ -1051,14 +1051,14 @@ b. een ondertekende machtiging welke vermeldt:
 
 1°. naam en adres van de aanvrager;  
 
-2°. een opgave van zijn unieke nummer, bedoeld in [artikel 9, onder a, van de Handelsregisterwet 2007](../../../wet/handelsregisterwet/2007/BWBR0021777/README.md);  
+2°. een opgave van zijn unieke nummer, bedoeld in artikel 9, onder a, van de Handelsregisterwet 2007;  
 
 3°. naam en geboortedatum van degene die de rechtspersoon vertegenwoordigt;  
 
 4°. naam en adres van het erkende bedrijf waar de aanvraag wordt ingediend, en  
 
 5°. het kenteken van het voertuig waarop de aanvraag betrekking heeft.       
-4.  Het erkende bedrijf bedrijfsvoorraad meldt de bij ministeriële regeling als bedoeld in [artikel 62, vierde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), voorgeschreven gegevens vermeld op het overschrijvingsbewijs, op het bedrijfsvoorraad deel II of I B en het burgerservicenummer dan wel het rijbewijsnummer. In geval van een aanvraag als bedoeld in het tweede lid meldt het bedrijf ook de geboortedatum van de aanvrager. In geval van een aanvraag als bedoeld in het derde lid meldt het bedrijf ook de vestigingsdatum en de gegevens, vermeld in de machtiging.   
+4.  Het erkende bedrijf bedrijfsvoorraad meldt de bij ministeriële regeling als bedoeld in artikel 62, vierde lid, van de wet, voorgeschreven gegevens vermeld op het overschrijvingsbewijs, op het bedrijfsvoorraad deel II of I B en het burgerservicenummer dan wel het rijbewijsnummer. In geval van een aanvraag als bedoeld in het tweede lid meldt het bedrijf ook de geboortedatum van de aanvrager. In geval van een aanvraag als bedoeld in het derde lid meldt het bedrijf ook de vestigingsdatum en de gegevens, vermeld in de machtiging.   
 5.  De Dienst Wegverkeer geeft, indien aan de verplichtingen in het tweede tot en met vierde lid is voldaan, aan de aanvrager een nieuwe kentekencard, een tenaamstellingsverslag en een vrijwaringsbewijs af en verstrekt een tenaamstellingscode.  
 
 ### Artikel  58f  
@@ -1081,7 +1081,7 @@ b. een ondertekende machtiging welke vermeldt:
 
 1.  Indien het voertuig waarvoor een kentekenbewijs als bedoeld in artikel 58a is afgegeven niet meer overeenstemt met de gegevens op het deel I, is degene aan wie het kentekenbewijs is afgegeven of degene die na diens overlijden eigenaar of houder van het voertuig is geworden, verplicht onverwijld bij de Dienst Wegverkeer de gewijzigde gegevens te melden.   
 2.  De Dienst Wegverkeer geeft aan degene die aan de in het eerste lid bedoelde verplichting heeft voldaan een nieuwe kentekencard af en verstrekt een tenaamstellingscode.   
-3.  De Dienst Wegverkeer geeft in geval van wijziging in de constructie als bedoeld in [artikel 98 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) een nieuwe kentekencard af nadat de wijziging is goedgekeurd ingevolge artikel 98 van de wet.  
+3.  De Dienst Wegverkeer geeft in geval van wijziging in de constructie als bedoeld in artikel 98 van de wet een nieuwe kentekencard af nadat de wijziging is goedgekeurd ingevolge artikel 98 van de wet.  
 
 ### Artikel  58i  
 
@@ -1095,7 +1095,7 @@ b. in afwijking van de artikelen 50, tweede lid, dat de aanvrager, na ontvangst 
 
 ### Hoofdstuk  9b  
 
-####Overgangsbepalingen in verband met de wijziging van de [Wegenverkeerswet 1994](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) in verband met de modernisering van de wijze van tenaamstelling van kentekenbewijzen en enkele andere wijzigingen van uiteenlopende aard
+####Overgangsbepalingen in verband met de wijziging van de Wegenverkeerswet 1994 in verband met de modernisering van de wijze van tenaamstelling van kentekenbewijzen en enkele andere wijzigingen van uiteenlopende aard
 
 ### Artikel  58j  
 
@@ -1106,7 +1106,7 @@ In afwijking van de artikelen 22, 26 tot en met 31, 34, 36, 39, 50 en 51 zijn op
 ####Vordering afgifte kentekenbewijs ter inzage
 
 1.  De verplichting tot het ter inzage afgeven van het kentekenbewijs als bedoeld in artikel 160 van de wet, heeft betrekking op het voor het voertuig afgegeven kentekenbewijs deel I, indien sprake is van een kentekenbewijs als bedoeld in artikel 58j.   
-2.  Indien de in [artikel 160 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde vordering betrekking heeft op een kentekenbewijs dat is afgegeven voor een aanhangwagen die overeenkomstig [artikel 3.2](../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) of [3.7 van de Regeling voertuigen](../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) is voorzien van een constructieplaat, kan aan de vordering worden voldaan binnen een termijn van een week.  
+2.  Indien de in artikel 160 van de wet bedoelde vordering betrekking heeft op een kentekenbewijs dat is afgegeven voor een aanhangwagen die overeenkomstig artikel 3.2 of 3.7 van de Regeling voertuigen is voorzien van een constructieplaat, kan aan de vordering worden voldaan binnen een termijn van een week.  
 
 ### Artikel  58l  
 
@@ -1172,14 +1172,14 @@ b. een ondertekende machtiging welke vermeldt:
 
 1°. naam en adres van de aanvrager;  
 
-2°. een opgave van zijn unieke nummer, bedoeld in [artikel 9, onder a, van de Handelsregisterwet 2007](../../../wet/handelsregisterwet/2007/BWBR0021777/README.md);  
+2°. een opgave van zijn unieke nummer, bedoeld in artikel 9, onder a, van de Handelsregisterwet 2007;  
 
 3°. naam en geboortedatum van degene die de rechtspersoon vertegenwoordigt;  
 
 4°. naam en adres van het erkende bedrijf waar de aanvraag wordt ingediend, en  
 
 5°. het kenteken van het voertuig waarop de aanvraag betrekking heeft.       
-4.  Het erkende bedrijf bedrijfsvoorraad meldt de bij ministeriële regeling, als bedoeld in [artikel 62, vierde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), voorgeschreven gegevens vermeld op het overschrijvingsbewijs, op het bedrijfsvoorraad deel I B en indien van toepassing het burgerservicenummer dan wel het rijbewijsnummer. In geval van een aanvraag als bedoeld in het tweede lid meldt het bedrijf ook de geboortedatum van de aanvrager. In geval van een aanvraag als bedoeld in het derde lid meldt het bedrijf ook de vestigingsdatum en de gegevens, vermeld in de machtiging.   
+4.  Het erkende bedrijf bedrijfsvoorraad meldt de bij ministeriële regeling, als bedoeld in artikel 62, vierde lid, van de wet, voorgeschreven gegevens vermeld op het overschrijvingsbewijs, op het bedrijfsvoorraad deel I B en indien van toepassing het burgerservicenummer dan wel het rijbewijsnummer. In geval van een aanvraag als bedoeld in het tweede lid meldt het bedrijf ook de geboortedatum van de aanvrager. In geval van een aanvraag als bedoeld in het derde lid meldt het bedrijf ook de vestigingsdatum en de gegevens, vermeld in de machtiging.   
 5.  De Dienst Wegverkeer geeft, indien aan de verplichtingen in het tweede tot en met vierde lid is voldaan aan de aanvrager een kentekencard, een tenaamstellingsverslag en een vrijwaringsbewijs af en verstrekt een tenaamstellingscode.  
 
 ### Artikel  58p  
@@ -1217,7 +1217,7 @@ b. het deel I A van het kentekenbewijs onder zich te houden,
 
 1.  Indien het voertuig waarvoor een kentekenbewijs als bedoeld in artikel 58j is afgegeven niet meer overeenstemt met de gegevens op het deel I, is degene aan wie het kentekenbewijs is afgegeven of degene die na diens overlijden eigenaar of houder van het voertuig is geworden, verplicht onverwijld bij de Dienst Wegverkeer de gewijzigde gegevens te melden.   
 2.  De Dienst Wegverkeer geeft aan degene die aan de in het eerste lid bedoelde verplichting heeft voldaan een kentekencard af en verstrekt een tenaamstellingscode.   
-3.  De Dienst Wegverkeer geeft in geval van wijziging in de constructie als bedoeld in [artikel 98 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) een nieuwe kentekencard af en verstrekt een tenaamstellingscode nadat de wijziging is goedgekeurd ingevolge artikel 98 van de wet.  
+3.  De Dienst Wegverkeer geeft in geval van wijziging in de constructie als bedoeld in artikel 98 van de wet een nieuwe kentekencard af en verstrekt een tenaamstellingscode nadat de wijziging is goedgekeurd ingevolge artikel 98 van de wet.  
 
 ### Artikel  58t  
 
@@ -1233,21 +1233,21 @@ b. het deel I A van het kentekenbewijs onder zich te houden,
 
 1.  Tot het vorderen tot overgifte van een kentekenbewijs als bedoeld in artikel 58j zijn bevoegd: 
 
-a. de Directie van de Dienst Wegverkeer en de door de Directie daartoe aangewezen tot die dienst behorende ambtenaren, indien naar hun oordeel [artikel 60, eerste lid, onderdelen b of c, of tweede lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), van toepassing is;  
+a. de Directie van de Dienst Wegverkeer en de door de Directie daartoe aangewezen tot die dienst behorende ambtenaren, indien naar hun oordeel artikel 60, eerste lid, onderdelen b of c, of tweede lid, van de wet, van toepassing is;  
 
-b. de door Onze Minister in overeenstemming met Onze Minister van Financiën aangewezen ambtenaren der Rijksbelastingdienst, indien naar hun oordeel [artikel 60, eerste lid, onderdeel a, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), van toepassing is;  
+b. de door Onze Minister in overeenstemming met Onze Minister van Financiën aangewezen ambtenaren der Rijksbelastingdienst, indien naar hun oordeel artikel 60, eerste lid, onderdeel a, van de wet, van toepassing is;  
 
-c. de ambtenaren, bedoeld in [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), indien naar hun oordeel [artikel 60, eerste lid, onderdeel a, b of c](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), dan wel artikel 60, tweede lid, van de wet van toepassing is.     
-2.  De verplichting tot overgifte, bedoeld in [artikel 60, eerste lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), heeft betrekking op deel IA en op deel IB van het kentekenbewijs.   
+c. de ambtenaren, bedoeld in artikel 141 van het Wetboek van Strafvordering, indien naar hun oordeel artikel 60, eerste lid, onderdeel a, b of c, dan wel artikel 60, tweede lid, van de wet van toepassing is.     
+2.  De verplichting tot overgifte, bedoeld in artikel 60, eerste lid, van de wet, heeft betrekking op deel IA en op deel IB van het kentekenbewijs.   
 3.  De in het eerste lid bedoelde ambtenaren geven de ter inzage overgegeven delen van het kentekenbewijs, na inzage terug aan degene van wie het is ingevorderd.   
 4.  Indien dit bij de vordering van de houder van een kentekenbewijs wordt geëist, is deze verplicht tot het op een daarbij te bepalen tijd en plaats ter beschikking houden van het voertuig, waarvoor het bewijs is afgegeven.   
-5.  Indien de vordering betrekking heeft op een kentekenbewijs dat is afgegeven voor een aanhangwagen die overeenkomstig [artikel 3.2](../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) of [3.7 van de Regeling voertuigen](../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) is voorzien van een constructieplaat, kan aan de vordering worden voldaan binnen een termijn van een week.  
+5.  Indien de vordering betrekking heeft op een kentekenbewijs dat is afgegeven voor een aanhangwagen die overeenkomstig artikel 3.2 of 3.7 van de Regeling voertuigen is voorzien van een constructieplaat, kan aan de vordering worden voldaan binnen een termijn van een week.  
 
 ### Artikel  58v  
 
 ####Aanvraag schorsing
 
-1.  De aanvraag bij de Dienst Wegverkeer tot een schorsing als bedoeld in [artikel 67 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) van een tenaamstelling van een voertuig waarvoor een kentekenbewijs als bedoeld in artikel 58j is afgegeven vindt plaats op één van de volgende wijzen: 
+1.  De aanvraag bij de Dienst Wegverkeer tot een schorsing als bedoeld in artikel 67 van de wet van een tenaamstelling van een voertuig waarvoor een kentekenbewijs als bedoeld in artikel 58j is afgegeven vindt plaats op één van de volgende wijzen: 
 
 a. door het deel I B van het kentekenbewijs, het deel II alsmede een bij ministeriële regeling aangewezen legitimatiebewijs over te leggen.  
 
@@ -1258,7 +1258,7 @@ b. langs elektronische weg door gebruikmaking van een door de Dienst Wegverkeer 
 
 ####Verzoek beëindiging schorsing
 
-1.  Een aanvraag tot opheffing van een schorsing ingevolge [artikel 69 van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) van een voertuig waarvoor een kentekenbewijs als bedoeld in artikel 58j is afgegeven, vindt plaats op één van de volgende wijzen: 
+1.  Een aanvraag tot opheffing van een schorsing ingevolge artikel 69 van de wet van een voertuig waarvoor een kentekenbewijs als bedoeld in artikel 58j is afgegeven, vindt plaats op één van de volgende wijzen: 
 
 a. door het deel I B van het kentekenbewijs, het deel II alsmede een bij ministeriële regeling aangewezen legitimatiebewijs over te leggen;  
 
@@ -1273,7 +1273,7 @@ b. langs elektronische weg door gebruikmaking van een door de Dienst Wegverkeer 
 
 ####Intrekking RKR 
 
-Het [Reglement kentekenregistratie](../../../AMvB/reglement/kentekenregistratie/BWBR0002938/README.md) wordt ingetrokken met ingang van een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Het Reglement kentekenregistratie wordt ingetrokken met ingang van een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
 
 ### Artikel  60  
 

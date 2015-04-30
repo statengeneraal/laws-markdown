@@ -5,7 +5,7 @@
 De Minister van Verkeer en Waterstaat,  
 Overwegende, dat door de inwerkingtreding van de regeling van de Minister van Verkeer en Waterstaat van 23 december 1994, (Stcrt. 252), nr. G5/V426433, houdende voorschriften betreffende het vervoer over de spoorweg van gevaarlijke stoffen (VSG), een regeling van de Minister van Verkeer en Waterstaat kan worden ingetrokken;
 
-Gelet op artikel 8 van de Wet Gevaarlijke Stoffen, artikel 2, eerste lid van het Reglement Gevaarlijke Stoffen en artikel 47, paragraaf 2, onderdeel b 1° en 48, paragraaf 2, onderdeel b 1°2, van het [Algemeen Reglement Vervoer](../../../../../../../../../AMvB/algemeen/reglement/vervoer/BWBR0002548/README.md);
+Gelet op artikel 8 van de Wet Gevaarlijke Stoffen, artikel 2, eerste lid van het Reglement Gevaarlijke Stoffen en artikel 47, paragraaf 2, onderdeel b 1° en 48, paragraaf 2, onderdeel b 1°2, van het Algemeen Reglement Vervoer;
 Besluit:     
 
 ###Artikel  1  

@@ -13,22 +13,27 @@ Overwegende de door de stuurgroep directoraat-generaal Jeugdbescherming & Delinq
 Besluit:  
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-09-2014 
 
 In dit besluit wordt verstaan onder: ‘directeuren’: de secretarissen/directeuren van de instellingen, ressorterend onder het directoraat-generaal Jeugdbescherming & Delinquentenzorg, voor zover deze zijn opgenomen in de bij dit besluit behorende bijlage I. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-09-2014 
 
 De directeuren worden gemachtigd tot het namens de minister van Justitie uitoefenen van de bevoegdheden tot personeelsbeheer bij de instellingen van het DGJD, zoals is aangegeven in de bij dit besluit behorende bijlage II en toelichting. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-09-2014 
 
 De directeuren oefenen de in het vorige artikel genoemde bevoegdheden uit met inachtneming van door of vanwege de minister van Justitie gegeven regels of aanwijzingen. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-09-2014 
 
 De directeuren worden voor het uitoefenen van de in artikel 2 genoemde bevoegdheden aangewezen als hoofd van dienst in de zin van het Algemeen Rijksambtenarenreglement en het Arbeidsovereenkomstenbesluit. 
 
 ### Artikel  5  
+Materieel uitgewerkt per 01-09-2014 
 
 1.  Dit besluit kan worden aangehaald als; ‘Mandaatbesluit bevoegdheden personeelsbeheer pilot-project Directie J&R’.   
 2.  Het treedt in werking met ingang van 1 september 1989 en zal worden gepubliceerd in de Staatscourant.  
@@ -42,6 +47,7 @@ Het hoofd van de Directie Jeugdbescherming en Reclassering,
 M. J. M.  Brand-Koolen     
 
 ### Bijlage  I  
+Materieel uitgewerkt per 01-09-2014 
 
 De instellingen als bedoeld in artikel 1 van het ‘Mandaatbesluit bevoegdheden personeelsbeheer voor het pilot-project Directie J&R’ zijn: 
 
@@ -58,6 +64,7 @@ Raad voor de Kinderbescherming Groningen
 Raad voor de Kinderbescherming Rotterdam   
 
 ### Bijlage  II  
+Materieel uitgewerkt per 01-09-2014 
 
 ####Het Algemeen Rijksambtenarenreglement (Stb. 1931, nr. 248)
 

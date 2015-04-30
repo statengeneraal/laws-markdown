@@ -3,7 +3,7 @@
 ##Regeling radarinstallaties en bochtaanwijzers 1995
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op artikel 4A.02 van het [Binnenvaartpolitiereglement](../../../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md), alsmede gelet op de [artikelen 6](../../../../../../../AMvB/scheepvaartreglement/voor/het/kanaal/van/gent/naar/terneuzen/BWBR0005315/README.md) en [19 van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](../../../../../../../AMvB/scheepvaartreglement/voor/het/kanaal/van/gent/naar/terneuzen/BWBR0005315/README.md).
+Gelet op artikel 4A.02 van het Binnenvaartpolitiereglement, alsmede gelet op de artikelen 6 en 19 van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen.
 Besluit:     
 
 ### Artikel  1  
@@ -12,7 +12,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *radarinstallatie:* een radiozendapparaat als bedoeld in [artikel 1.1, onderdeel kk, van de Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) voor gebruik als hulpmiddel bij de navigatie; 
+a. *radarinstallatie:* een radiozendapparaat als bedoeld in artikel 1.1, onderdeel kk, van de Telecommunicatiewet voor gebruik als hulpmiddel bij de navigatie; 
 
 b. *bochtaanwijzer:* een aanwijzer van de snelheid van draaiing van een schip.   
 
@@ -21,14 +21,14 @@ b. *bochtaanwijzer:* een aanwijzer van de snelheid van draaiing van een schip.
 ####Goedkeuring
 
 1.  De Minister van Infrastructuur en Milieu verleent typegoedkeuring van een radarinstallatie dan wel van een bochtaanwijzer.   
-2.  Een radarinstallatie als bedoeld in [artikel 4.06, eerste lid, onderdeel a, van het Binnenvaartpolitiereglement](../../../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) of als bedoeld in de [artikelen 6, eerste lid, onderdeel b](../../../../../../../AMvB/scheepvaartreglement/voor/het/kanaal/van/gent/naar/terneuzen/BWBR0005315/README.md), en [19, zesde lid, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](../../../../../../../AMvB/scheepvaartreglement/voor/het/kanaal/van/gent/naar/terneuzen/BWBR0005315/README.md), is een radarinstallatie van een type dat door de Minister van Infrastructuur en Milieu is goedgekeurd volgens [bijlage M van het Reglement onderzoek schepen op de Rijn 1995](../../../../../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md).   
-3.  Een bochtaanwijzer als bedoeld in [artikel 4.06, eerste lid, onderdeel a, van het Binnenvaartpolitiereglement](../../../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md), of als bedoeld in [artikel 19, zesde lid, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](../../../../../../../AMvB/scheepvaartreglement/voor/het/kanaal/van/gent/naar/terneuzen/BWBR0005315/README.md), is een bochtaanwijzer van een type dat door de Minister van Infrastructuur en Milieu is goedgekeurd volgens [bijlage M van het Reglement onderzoek schepen op de Rijn 1995](../../../../../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md).   
+2.  Een radarinstallatie als bedoeld in artikel 4.06, eerste lid, onderdeel a, van het Binnenvaartpolitiereglement of als bedoeld in de artikelen 6, eerste lid, onderdeel b, en 19, zesde lid, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen, is een radarinstallatie van een type dat door de Minister van Infrastructuur en Milieu is goedgekeurd volgens bijlage M van het Reglement onderzoek schepen op de Rijn 1995.   
+3.  Een bochtaanwijzer als bedoeld in artikel 4.06, eerste lid, onderdeel a, van het Binnenvaartpolitiereglement, of als bedoeld in artikel 19, zesde lid, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen, is een bochtaanwijzer van een type dat door de Minister van Infrastructuur en Milieu is goedgekeurd volgens bijlage M van het Reglement onderzoek schepen op de Rijn 1995.   
 
 ### Artikel  3  
 
 ####Bijzondere bepalingen voor aangewezen vaarwegen
 
-1.  De vaarwegen, bedoeld in [artikel 4.06, derde en vierde lid, van het Binnenvaartpolitiereglement](../../../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md), zijn: 
+1.  De vaarwegen, bedoeld in artikel 4.06, derde en vierde lid, van het Binnenvaartpolitiereglement, zijn: 
 
 a.  de Waddenzee; 
 
@@ -48,13 +48,13 @@ h.  het Kanaal door Zuid-Beveland;
 
 i.  de havens die met de Westerschelde in open verbinding staan.    
 2.  Onder de bij het eerste lid vermelde vaarwegen zijn begrepen de daaraan gelegen havens met de tot die havens toegang gevende vaarwegen.   
-3.  Op de bij het eerste lid vermelde vaarwegen, respectievelijk op het Kanaal van Gent naar Terneuzen, met inbegrip van de buitenvoorhavens te Terneuzen, is de in dat lid, respectievelijk in [artikel 19, zesde lid, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](../../../../../../../AMvB/scheepvaartreglement/voor/het/kanaal/van/gent/naar/terneuzen/BWBR0005315/README.md), bedoelde radarinstallatie: 
+3.  Op de bij het eerste lid vermelde vaarwegen, respectievelijk op het Kanaal van Gent naar Terneuzen, met inbegrip van de buitenvoorhavens te Terneuzen, is de in dat lid, respectievelijk in artikel 19, zesde lid, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen, bedoelde radarinstallatie: 
 
 a.  voor elk schip: een radarinstallatie van een type als bedoeld in artikel 2, tweede lid, of 
 
 b.  voor een zeeschip: een radarinstallatie van een type, dat door de Minister van Infrastructuur en Milieu is goedgekeurd: 
 
-1e. volgens de keuringseisen voor radarinstallaties voor de zeevaart gesteld ingevolge [artikel 95a van het Schepenbesluit 1965](../../../../../../../rijksKB/schepenbesluit/1965/BWBR0002501/README.md);
+1e. volgens de keuringseisen voor radarinstallaties voor de zeevaart gesteld ingevolge artikel 95a van het Schepenbesluit 1965;
 
 2e. volgens de keuringseisen voor radarinstallaties, zoals vermeld in de door de Internationale Maritieme Organisatie aangenomen resoluties A.222 (VII) van 12 oktober 1971, A.278 (VIII) van 20 november 1973, A.422 (XI) van 14 januari 1980, A.477 (XII) van 19 november 1981 en A.574 (XIV) van 20 januari 1986.   
 4.  Op de in het eerste lid vermelde vaarwegen en op het Kanaal van Gent naar Terneuzen, met inbegrip van de buitenvoorhavens te Terneuzen, mogen zeeschepen in plaats van met een bochtaanwijzer zoals bedoeld in artikel 2, derde lid, zijn uitgerust met een ander daartoe bruikbaar middel.   

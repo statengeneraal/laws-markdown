@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 18 september 1997, nr. GZB/VVB/975283, gedaan in overeenstemming met Onze Ministers van Economische Zaken en van Landbouw, Natuurbeheer en Visserij; 
 
-Gelet op artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet, alsmede op [artikel 4, eerste lid, onder a](../../../../../../wet/warenwet/BWBR0001969/README.md), [artikel 8, onder b en c](../../../../../../wet/warenwet/BWBR0001969/README.md), [artikel 12](../../../../../../wet/warenwet/BWBR0001969/README.md), en [artikel 14, van de Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md); 
+Gelet op artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet, alsmede op artikel 4, eerste lid, onder a, artikel 8, onder b en c, artikel 12, en artikel 14, van de Warenwet; 
 
 De Raad van State gehoord (advies van 18 november 1997, no. W13.97.0624); 
 
@@ -167,7 +167,7 @@ Het woord *volkoren* mag onderdeel uitmaken van de aanduiding van een in dit bes
 
 ### Artikel  18  
 
-In afwijking van[ artikel 5, eerste lid, onder c, en derde lid](../../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md), en [artikel 25, eerste lid, van het Warenwetbesluit Etikettering van levensmiddelen](../../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) hoeft geen vermelding van de netto-hoeveelheid te worden gebezigd bij de verhandeling van brood dat is aangeduid op de voet van artikel 14 of artikel 15.  
+In afwijking van artikel 9, eerste lid, onder e, van Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304) hoeft geen vermelding van de netto-hoeveelheid te worden gebezigd bij de verhandeling van brood dat is aangeduid op de voet van artikel 14 of artikel 15.  
 
 ### §  5:  
 

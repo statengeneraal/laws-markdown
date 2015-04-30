@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Defensie van 15 juli 1994, nr. PAV6001/94017696;
 
-Gelet op [artikel 12 van de Militaire ambtenarenwet 1931](../../../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md), artikel 2 van de Wet rechtstoestand dienstplichtigen en [artikel 125 van de Ambtenarenwet](../../../../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md);
+Gelet op artikel 12 van de Militaire ambtenarenwet 1931, artikel 2 van de Wet rechtstoestand dienstplichtigen en artikel 125 van de Ambtenarenwet;
 
 De Raad van State gehoord (advies van 20 september 1994, nr. W07.94.0453);
 
@@ -22,7 +22,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 a. "de betrokkene"  
 
-1°. de militair met een lagere rang dan vice-admiraal of luitenant-generaal die in de maand november 1993 in werkelijke dienst is, dan wel burgerlijk defensiepersoneel dat aanspraak heeft op salaris volgens [bijlage B van het Bezoldigingsbesluit burgerlijke ambtenaren defensie](../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/ambtenaren/defensie/BWBR0006038/README.md) en dat in de maand november 1993 in dienst is van het Ministerie van Defensie;  
+1°. de militair met een lagere rang dan vice-admiraal of luitenant-generaal die in de maand november 1993 in werkelijke dienst is, dan wel burgerlijk defensiepersoneel dat aanspraak heeft op salaris volgens bijlage B van het Bezoldigingsbesluit burgerlijke ambtenaren defensie en dat in de maand november 1993 in dienst is van het Ministerie van Defensie;  
 
 2°. de militair met de rang van vice-admiraal of luitenant-generaal of met een hogere rang die in de maand november 1993 in werkelijke dienst is;    
 
@@ -35,7 +35,7 @@ b. "de berekeningsbasis"   de over de maand november 1993 genoten bezoldiging vo
 
 ### Artikel  3  
 
-In afwijking van artikel 1, onderdeel *b* , geldt voor de betrokkene die deelnemer is aan de Regeling partiële arbeidsparticipatie senioren (PAS) als berekeningsbasis niet het over de maand november 1993 genoten salaris bedoeld in het [Bezoldigingsbesluit burgerlijke ambtenaren defensie](../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/ambtenaren/defensie/BWBR0006038/README.md), maar het salaris dat hij over die maand zou hebben genoten, indien geen gebruik was gemaakt van de PAS-regeling. 
+In afwijking van artikel 1, onderdeel *b* , geldt voor de betrokkene die deelnemer is aan de Regeling partiële arbeidsparticipatie senioren (PAS) als berekeningsbasis niet het over de maand november 1993 genoten salaris bedoeld in het Bezoldigingsbesluit burgerlijke ambtenaren defensie, maar het salaris dat hij over die maand zou hebben genoten, indien geen gebruik was gemaakt van de PAS-regeling. 
 
 ### Artikel  4  
 
@@ -51,7 +51,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 a. "burgerlijk defensiepersoneel" het burgerlijk defensiepersoneel dat op 1 december 1993 in dienst is van het Ministerie van Defensie;  
 
-b. "salaris" hetgeen daaronder wordt verstaan in het [Bezoldigingsbesluit burgerlijke ambtenaren defensie](../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/ambtenaren/defensie/BWBR0006038/README.md).   
+b. "salaris" hetgeen daaronder wordt verstaan in het Bezoldigingsbesluit burgerlijke ambtenaren defensie.   
 
 ### Artikel  6  
 

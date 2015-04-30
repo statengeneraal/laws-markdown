@@ -5,7 +5,7 @@
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
 Handelende in overeenstemming met de Minister van Landbouw, Natuurbeheer en Visserij;
 
-Gelet op [artikel 64 van de Wet bodembescherming](../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);
+Gelet op artikel 64 van de Wet bodembescherming;
 
 Gezien het advies van de Technische commissie bodembescherming;
 Besluit:     
@@ -68,7 +68,7 @@ Aan de in de artikelen 2 en 3 bedoelde vrijstellingen zijn voorts, voor zover va
 1.  De producent van waterigefracties laat uiterlijk zes maanden voorafgaand aan het gebruik van de waterigefracties uit de in artikel 7, tweede lid, bedoelde opslag een representatief monster nemen en analyseren door een onderzoekslaboratorium dat blijkens accreditatie aantoonbaar voldoet aan NEN-EN-ISO/IEC 17025.   
 2.  De producent van reinigingswater laat uiterlijk zes maanden voorafgaand aan het gebruik van het reinigingswater uit de opslag van het reinigingswater een monster nemen door een onderzoekslaboratorium, als bedoeld in het eerste lid, en laat dit monster analyseren door dit onderzoekslaboratorium.   
 3.  De in het eerste en tweede lid bedoelde bemonstering en de analyse van de monsters vindt plaats volgens de voorschriften en methoden opgenomen in de bij deze regeling behorende bijlage.    
-4.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om accreditatie als bedoeld in het eerste lid. 
+4.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht niet van toepassing op de aanvraag om accreditatie als bedoeld in het eerste lid. 
 
 ### Artikel  9  
 

@@ -23,7 +23,7 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepalingen
 
-In dit besluit wordt verstaan onder:  *wet*: [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md);  *school*: een basisschool als bedoeld in de titels B en C van dit besluit, tenzij het tegendeel blijkt;  *schooljaar*: het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend voor zover in dit besluit niet anders is bepaald. *leerling met een niet-Nederlandse culturele achtergrond*: leerling: 
+In dit besluit wordt verstaan onder:  *wet*: Wet op het primair onderwijs;  *school*: een basisschool als bedoeld in de titels B en C van dit besluit, tenzij het tegendeel blijkt;  *schooljaar*: het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend voor zover in dit besluit niet anders is bepaald. *leerling met een niet-Nederlandse culturele achtergrond*: leerling: 
 
 a. die behoort tot de Molukse bevolkingsgroep,   
 
@@ -31,7 +31,7 @@ b. van wie ten minste een van de ouders of voogden afkomstig is uit Griekenland,
 
 c. van wie ten minste een van de ouders of voogden afkomstig is uit Suriname, de voormalige Nederlandse Antillen of Aruba,   
 
-d. van wie ten minste een van de ouders of voogden als vreemdeling rechtmatig verblijf heeft als bedoeld in [artikel 8, onder c of d, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md),   
+d. van wie ten minste een van de ouders of voogden als vreemdeling rechtmatig verblijf heeft als bedoeld in artikel 8, onder c of d, van de Vreemdelingenwet 2000,   
 
 e. van wie ten minste een van de ouders of voogden afkomstig is uit een ander niet-Engelstalig land buiten Europa, echter met uitzondering van Indonesië;   
 
@@ -39,14 +39,14 @@ e. van wie ten minste een van de ouders of voogden afkomstig is uit een ander ni
 
 ####Afwijking van bepalingen en van overeenkomstige toepassing zijnde bepalingen van de WPO
 
-1.   [Artikel 4 van de wet](../../../../../../wet/wbo/BWBR0003420/README.md) is niet van toepassing op een school als bedoeld in dit besluit. [Artikel 2 van de wet](../../../../../../wet/wbo/BWBR0003420/README.md) is niet van toepassing op de school, bedoeld in titel C van dit besluit.   
-2.  De [artikelen 8](../../../../../../wet/wbo/BWBR0003420/README.md), [10 tot en met 16](../../../../../../wet/wbo/BWBR0003420/README.md), behoudens de in [artikel 13](../../../../../../wet/wbo/BWBR0003420/README.md) bedoelde algemene maatregel van bestuur, [29 tot en met 37](../../../../../../wet/wbo/BWBR0003420/README.md), [38a](../../../../../../wet/wbo/BWBR0003420/README.md), [40 tot en met 46](../../../../../../wet/wbo/BWBR0003420/README.md), [50 tot en met 64](../../../../../../wet/wbo/BWBR0003420/README.md), [66](../../../../../../wet/wbo/BWBR0003420/README.md), [67](../../../../../../wet/wbo/BWBR0003420/README.md), [123, tweede lid](../../../../../../wet/wbo/BWBR0003420/README.md), [126 tot en met 131](../../../../../../wet/wbo/BWBR0003420/README.md), [138](../../../../../../wet/wbo/BWBR0003420/README.md), [163a](../../../../../../wet/wbo/BWBR0003420/README.md), [164](../../../../../../wet/wbo/BWBR0003420/README.md), [171 tot en met 176j](../../../../../../wet/wbo/BWBR0003420/README.md), [177](../../../../../../wet/wbo/BWBR0003420/README.md), [178](../../../../../../wet/wbo/BWBR0003420/README.md), [178a tot en met 178e](../../../../../../wet/wbo/BWBR0003420/README.md) [182 tot en met 184a](../../../../../../wet/wbo/BWBR0003420/README.md), [186](../../../../../../wet/wbo/BWBR0003420/README.md) en [187 van de wet](../../../../../../wet/wbo/BWBR0003420/README.md) zijn van overeenkomstige toepassing. Voorts zijn het [Kaderbesluit rechtspositie PO](../../../../../../KB/kaderbesluit/rechtspositie/po/BWBR0020315/README.md) en het [Besluit vernieuwde kerndoelen WPO](../../../../../../AMvB/besluit/vernieuwde/kerndoelen/wpo/BWBR0018844/README.md) van overeenkomstige toepassing.  
+1.   Artikel 4 van de wet is niet van toepassing op een school als bedoeld in dit besluit. Artikel 2 van de wet is niet van toepassing op de school, bedoeld in titel C van dit besluit.   
+2.  De artikelen 8, 10 tot en met 16, behoudens de in artikel 13 bedoelde algemene maatregel van bestuur, 29 tot en met 37, 38a, 40, eerste, tweede en negende tot en met elfde lid, 44b, 41, 42, 44, 45a, 50 tot en met 64, 66, 67, 123, tweede lid, 126 tot en met 131, 138, 163a, 164, 171 tot en met 176j, 177, 178, 178a tot en met 178e 182 tot en met 184a, 186 en 187 van de wet zijn van overeenkomstige toepassing. Voorts zijn het Kaderbesluit rechtspositie PO en het Besluit vernieuwde kerndoelen WPO van overeenkomstige toepassing.  
 
 ### Artikel  A 3  
 
-####Van overeenkomstige toepassing zijnde bepaling van het [Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) 
+####Van overeenkomstige toepassing zijnde bepaling van het Besluit bekostiging WPO 
 
-[Artikel 3a, zesde lid, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) is van overeenkomstige toepassing. 
+Artikel 3a, zesde lid, van het Besluit bekostiging WPO is van overeenkomstige toepassing. 
 
 ### Titel  B  
 
@@ -124,9 +124,9 @@ Vervallen.
 
 ### Artikel  B 12  
 
-#### [Bekostigingsbesluit WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) 
+#### Bekostigingsbesluit WPO 
 
-De [artikelen 1](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [2](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [3](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [4](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [6](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [7](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [8](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [9](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [34a](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [34b](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) en [34c van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) zijn van overeenkomstige toepassing, met dien verstande dat ten aanzien van [artikel 7, eerste lid, onder b](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), de bepaling inzake de termijn van 6 maanden buiten toepassing blijft. 
+De artikelen 1, 2, 3, 4, 6, 7, 8, 9, 34a, 34b en 34c van het Besluit bekostiging WPO zijn van overeenkomstige toepassing, met dien verstande dat ten aanzien van artikel 7, eerste lid, onder b, de bepaling inzake de termijn van 6 maanden buiten toepassing blijft. 
 
 ### §  2  
 
@@ -243,7 +243,7 @@ Het Rijk vergoedt aan het bevoegd gezag van een bijzondere school de kosten van 
 ####Bekostiging voor de materiële voorzieningen ten behoeve van de instandhouding
 
 1. Bij ministeriële regeling wordt per school een bedrag per formatieplaats, zoals bedoeld in artikel B 16b, vastgesteld voor de bekostiging van materiële voorzieningen ten behoeve van de instandhouding.
-2. [Artikel 113, vierde tot en met zesde lid van de wet](../../../../../../wet/wbo/BWBR0003420/README.md) zijn van overeenkomstige toepassing. 
+2. Artikel 113, vierde tot en met zesde lid van de wet zijn van overeenkomstige toepassing. 
 
 ### Artikel  B 20  
 
@@ -301,13 +301,13 @@ De betaling van de bekostigingsbedragen voor personeelskosten vindt maandelijks 
 
 1.  Het onderwijs aan varende kinderen is het onderwijs bestemd voor kinderen van 3,5 tot omstreeks 7 jaar die aan boord wonen bij hun ouders, die het schippersbedrijf uitoefenen.   
 2.  De inspecteur kan toestemming verlenen dat andere kinderen dan bedoeld in het eerste lid, van wie de ouders een trekkend bestaan leiden, tot het onderwijs aan varende kinderen worden toegelaten.   
-3.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op het verzoek om toestemming, bedoeld in het tweede lid. 
+3.  Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht is van toepassing op het verzoek om toestemming, bedoeld in het tweede lid. 
 
 ###Artikel C 3 
 
 ####Inhoud onderwijs
 
-1. [Artikel 9 van de wet](../../../../../../wet/wbo/BWBR0003420/README.md) is van overeenkomstige toepassing, met dien verstande dat de verplichting tot het geven van onderwijs in de Engelse en Friese taal niet bestaat. Het onderwijs aan varende kinderen legt mede de grondslag voor het volgen van aansluitend basisonderwijs.
+1. Artikel 9 van de wet is van overeenkomstige toepassing, met dien verstande dat de verplichting tot het geven van onderwijs in de Engelse en Friese taal niet bestaat. Het onderwijs aan varende kinderen legt mede de grondslag voor het volgen van aansluitend basisonderwijs.
 2. Het onderwijs aan varende kinderen wordt verzorgd:
 
 a.in onderwijsruimten op plaatsen waar de school voor varende kinderen of een vestiging van deze school in stand wordt gehouden;
@@ -342,9 +342,9 @@ b.aan boord, door middel van:
 
 ###Artikel C 10 
 
-####[Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md)
+####Besluit bekostiging WPO
 
-De [artikelen 6](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [7](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [8](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [9](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) en [10, vierde lid, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) zijn van overeenkomstige toepassing.
+De artikelen 6, 7, 8, 9 en 10, vierde lid, van het Besluit bekostiging WPO zijn van overeenkomstige toepassing.
 
 ###Paragraaf 2 
 
@@ -374,7 +374,7 @@ De [artikelen 6](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README
 
 ####Maandelijkse bekostiging
 
-[Artikel 13, eerste en derde lid, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) is van overeenkomstige toepassing op de bekostiging van voorzieningen in de huisvesting en voor de materiële instandhouding. 
+Artikel 13, eerste en derde lid, van het Besluit bekostiging WPO is van overeenkomstige toepassing op de bekostiging van voorzieningen in de huisvesting en voor de materiële instandhouding. 
 
 ###Artikel C 16 
 
@@ -393,13 +393,13 @@ De betaling van de bekostigingsbedragen voor personeelskosten vindt maandelijks 
 
 ####Overschrijdingsregeling
 
-De [artikelen 140 tot en met 147 van de wet](../../../../../../wet/wbo/BWBR0003420/README.md) zijn van overeenkomstige toepassing, met dien verstande dat:
+De artikelen 140 tot en met 147 van de wet zijn van overeenkomstige toepassing, met dien verstande dat:
 
-a.in [artikel 142, tweede en derde lid](../../../../../../wet/wbo/BWBR0003420/README.md), «nevenvestiging» wordt gelezen als: vestiging, bedoeld in artikel C 1, tweede lid, van het Besluit trekkende bevolking WPO;
+a.in artikel 142, tweede en derde lid, «nevenvestiging» wordt gelezen als: vestiging, bedoeld in artikel C 1, tweede lid, van het Besluit trekkende bevolking WPO;
 
-b.in [artikel 144, eerste lid onder d1e](../../../../../../wet/wbo/BWBR0003420/README.md), «[artikel 137, derde lid](../../../../../../wet/wbo/BWBR0003420/README.md)» wordt gelezen als: artikel C 16, eerste lid onder a, van het Besluit trekkende bevolking WPO, en
+b.in artikel 144, eerste lid onder d1e, «artikel 137, derde lid» wordt gelezen als: artikel C 16, eerste lid onder a, van het Besluit trekkende bevolking WPO, en
 
-c.in [artikel 144, eerste lid onder d2e](../../../../../../wet/wbo/BWBR0003420/README.md), «[artikel 137, eerste lid onder b](../../../../../../wet/wbo/BWBR0003420/README.md)» wordt gelezen als: artikel C 16, eerste lid onder b, van het Besluit trekkende bevolking WPO.
+c.in artikel 144, eerste lid onder d2e, «artikel 137, eerste lid onder b» wordt gelezen als: artikel C 16, eerste lid onder b, van het Besluit trekkende bevolking WPO.
 
 ###Artikel C 19 
 
@@ -601,7 +601,7 @@ b. indien de som van de aantallen formatieplaatsen op de school berekend op gron
 
 ####Inwerkingtreding
 
-Met inachtneming van het bepaalde in [artikel 185, derde lid, van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) treedt dit besluit in werking op een bij koninklijk besluit te bepalen datum. Het koninklijk besluit kan er in voorzien dat het besluit terugwerkende kracht heeft tot en met 1 augustus 1985. 
+Met inachtneming van het bepaalde in artikel 185, derde lid, van de Wet op het primair onderwijs treedt dit besluit in werking op een bij koninklijk besluit te bepalen datum. Het koninklijk besluit kan er in voorzien dat het besluit terugwerkende kracht heeft tot en met 1 augustus 1985. 
 
 ### Artikel  G 3  
 

@@ -28,9 +28,9 @@ c. rechten bij invoer: rechten bij invoer als bedoeld in artikel 7:3 van de Alge
 
 Bij wijziging van de tenaamstelling van de bestelauto blijft artikel 13a, derde lid, van de wet buiten toepassing indien:
 
-a.het kenteken van een bestelauto waarvoor ingevolge artikel 13a van de wet vrijstelling van belasting is verleend, binnen vijf jaren na het tijdstip waarop de bestelauto is ingeschreven in het register, bedoeld in artikel 1, tweede lid, van de wet, op naam wordt gesteld van een ondernemer die voldoet aan de voorwaarden genoemd in artikel 13a, eerste en tweede lid, van de wet, en
+a.de bestelauto waarvoor ingevolge artikel 13a van de wet vrijstelling van belasting is verleend, binnen vijf jaren na het tijdstip waarop de bestelauto is ingeschreven en te naam gesteld in het kentekenregister, op naam wordt gesteld van een ondernemer die voldoet aan de voorwaarden genoemd in artikel 13a, eerste en tweede lid, van de wet, en
 
-b.in de administratie van de ondernemer op wiens naam het kenteken daarvoor was gesteld een verklaring is opgenomen waarin deze ondernemer en de in onderdeel a bedoelde ondernemer ten aanzien van de bestelauto verklaren, dat de in onderdeel a bedoelde ondernemer voor de toepassing van artikel 13a in de plaats treedt van de ondernemer op wiens naam het kenteken daarvoor was gesteld.
+b.in de administratie van de ondernemer op wiens naam de bestelauto daarvoor in het kentekenregister te naam was gesteld een verklaring is opgenomen waarin deze ondernemer en de in onderdeel a bedoelde ondernemer ten aanzien van de bestelauto verklaren, dat de in onderdeel a bedoelde ondernemer voor de toepassing van artikel 13a in de plaats treedt van de ondernemer op wiens naam de bestelauto daarvoor in het kentekenregister te naam was gesteld.
 
 ### Artikel  2  
 
@@ -87,11 +87,11 @@ b.een beroep op de vrijstelling wordt gedaan vóór aanvang van het gebruik van 
 
 1. De in artikel 14a, eerste lid, van de wet bedoelde teruggaaf wordt slechts verleend indien:
 
-a.het motorrijtuig buiten Nederland wordt gebracht en op het moment van de beëindiging van de tenaamstelling van het kenteken in het register, bedoeld in artikel 1, tweede lid, blijkens dit register niet wordt aangemerkt als motorrijtuig bestemd voor sloop of motorrijtuig dat wacht op keuring;
+a.het motorrijtuig buiten Nederland wordt gebracht en op het moment van het vervallen van de tenaamstelling in het kentekenregister blijkens dit register niet wordt aangemerkt als motorrijtuig bestemd voor sloop of motorrijtuig dat wacht op keuring;
 
-b. het motorrijtuig op het moment, bedoeld in onderdeel a, niet voldoet aan de definitie van schadevoertuig in de zin van de Regeling voertuigen en degene op wiens naam het kenteken was gesteld direct voorafgaand aan de beëindiging van de tenaamstelling in het register dit bij het verzoek, bedoeld in onderdeel c, verklaart; 
+b. het motorrijtuig op het moment, bedoeld in onderdeel a, niet voldoet aan de definitie van schadevoertuig in de zin van de Regeling voertuigen en degene op wiens naam het motorrijtuig te naam was gesteld direct voorafgaand aan het vervallen van die tenaamstelling in het kentekenregister dit bij het verzoek, bedoeld in onderdeel c, verklaart; 
 
-c.het verzoek om teruggaaf wordt gedaan binnen dertien weken na beëindiging van de tenaamstelling van het kenteken in het register, bedoeld in artikel 1, tweede lid, van de wet; en
+c.het verzoek om teruggaaf wordt gedaan binnen dertien weken na het vervallen van de tenaamstelling in het kentekenregister; en
 
 d.bij het verzoek bescheiden worden overgelegd waaruit blijkt dat het motorrijtuig is geregistreerd in een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte. 
 2. De teruggaaf wordt door de inspecteur bij voor bezwaar vatbare beschikking verleend.
@@ -249,24 +249,24 @@ f. de personenauto of de bestelauto uitsluitend wordt gebruikt voor het bedrijfs
 
 a. bij het verzoek worden overgelegd:
 
-– bescheiden waaruit blijkt dat de gehandicapte beschikt over een rolstoel als bedoeld in artikel 15a, eerste lid, van de wet die is verstrekt in het kader van een beschikking ingevolge de Wet maatschappelijke ondersteuning of een beschikking van het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in artikel 2, eerste lid, van de Wet structuur uitvoeringsorganisaties werk en inkomen, dan wel waarvoor hij beschikt over een verklaring van een arts die is afgegeven ten hoogste zes weken voorafgaand aan de datum van indiening van het verzoek, dat hij voor zijn vervoer is aangewezen op het gebruik van een dergelijke rolstoel;
+– bescheiden waaruit blijkt dat de gehandicapte beschikt over een rolstoel als bedoeld in artikel 15a, eerste lid, van de wet die is verstrekt in het kader van een beschikking ingevolge de Wet maatschappelijke ondersteuning 2015 of een beschikking van het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in artikel 2, eerste lid, van de Wet structuur uitvoeringsorganisaties werk en inkomen, dan wel waarvoor hij beschikt over een verklaring van een arts die is afgegeven ten hoogste zes weken voorafgaand aan de datum van indiening van het verzoek, dat hij voor zijn vervoer is aangewezen op het gebruik van een dergelijke rolstoel;
 
-– een afschrift van de delen I en II, de delen I en I B of deel I A en B van het bewijs dat ingevolge artikel 36, tweede lid, van de Wegenverkeerswet 1994 is afgegeven voor de bestelauto; en
+– een afschrift van de kentekencard of van de delen I en II, de delen I en I B of deel I A en B van het kentekenbewijs dat ingevolge artikel 36, tweede lid, van de Wegenverkeerswet 1994 is afgegeven voor de bestelauto; en
 
 – een verklaring van een ambtenaar van de rijksbelastingdienst, bevoegd inzake de douane, dat de bestelauto is ingericht voor het in artikel 15a van de wet bedoelde vervoer; en
 
-b. de bestelauto uitsluitend wordt gebruikt voor het in artikel 15a, eerste lid, van de wet bedoelde vervoer, alsmede voor het persoonlijk gebruik, gebruik door inwonende gezinsleden daaronder begrepen, van de gehandicapte en, ingeval dit een ander is, van degene op wiens naam het kenteken is gesteld. 
+b. de bestelauto uitsluitend wordt gebruikt voor het in artikel 15a, eerste lid, van de wet bedoelde vervoer, alsmede voor het persoonlijk gebruik, gebruik door inwonende gezinsleden daaronder begrepen, van de gehandicapte en, ingeval dit een ander is, van degene op wiens naam de bestelauto te naam is gesteld in het kentekenregister. 
 3. Indien eerder voor een andere bestelauto ten behoeve van de gehandicapte teruggaaf werd verleend op de voet van artikel 15a van de wet, wordt in het verzoek vermeld vanaf welke datum die andere bestelauto niet langer wordt gebruikt voor het in artikel 15a, eerste lid, van de wet bedoelde vervoer.
 
 ### Artikel  14  
 
-De in artikel 16, eerste lid, van de wet bedoelde teruggaaf wordt slechts verleend indien degene op wiens naam het kenteken is gesteld daartoe verzoekt binnen dertien weken nadat het recht op teruggaaf is ontstaan en bij het verzoek worden overgelegd:
+De in artikel 16, eerste lid, van de wet bedoelde teruggaaf wordt slechts verleend indien degene op wiens naam de personenauto te naam is gesteld in het kentekenregister daartoe verzoekt binnen dertien weken nadat het recht op teruggaaf is ontstaan en bij het verzoek worden overgelegd:
 
 a.een afschrift van de vergunning ingevolge de Wet personenvervoer 2000 voor het verrichten van openbaar vervoer of taxivervoer als bedoeld in artikel 16, eerste lid, van de wet;
 
-b.een afschrift van de delen I en II, de delen I en I B of deel I A en B van het bewijs dat ingevolge artikel 36, tweede lid, van de Wegenverkeerswet 1994 is afgegeven voor de personenauto; en
+b.een afschrift van de kentekencard of van de delen I en II, de delen I en I B of deel I A en B van het kentekenbewijs dat ingevolge artikel 36, tweede lid, van de Wegenverkeerswet 1994 is afgegeven voor de personenauto; en
 
-c.een afschrift van het kentekenbewijs, bedoeld in artikel 3.15 van de Regeling voertuigen, dat is afgegeven voor de personenauto; alsmede, indien degene op wiens naam het kenteken is gesteld en de houder van de in onderdeel a bedoelde vergunning niet dezelfde persoon zijn,
+c.een afschrift van het kentekenbewijs, bedoeld in artikel 3.15 van de Regeling voertuigen, dat is afgegeven voor de personenauto; alsmede, indien degene op wiens naam de personenauto te naam is gesteld in het kentekenregister en de houder van de in onderdeel a bedoelde vergunning niet dezelfde persoon zijn,
 
 d.een gezamenlijke verklaring waaruit blijkt dat het voertuig wordt gebruikt in het kader van de onderneming van degene op wiens naam de vergunning, bedoeld in onderdeel a, is afgegeven. 
 

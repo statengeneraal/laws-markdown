@@ -15,7 +15,7 @@ Wijzigt de Interimwet ammoniak en veehouderij.
 
 ### ARTIKEL  II  
 
-Indien voor 1 maart 1999 een aanvraag is ingediend om een vergunning als bedoeld in [artikel 8.1, eerste lid, van de Wet milieubeheer](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voor een veehouderij als bedoeld in artikel 6 van de Interimwet ammoniak en veehouderij, zoals dat artikel luidde voor 26 augustus 1999, blijft het voor 26 augustus 1999 geldende recht van toepassing tot het tijdstip waarop de beschikking op de aanvraag onherroepelijk is geworden. 
+Indien voor 1 maart 1999 een aanvraag is ingediend om een vergunning als bedoeld in artikel 8.1, eerste lid, van de Wet milieubeheer voor een veehouderij als bedoeld in artikel 6 van de Interimwet ammoniak en veehouderij, zoals dat artikel luidde voor 26 augustus 1999, blijft het voor 26 augustus 1999 geldende recht van toepassing tot het tijdstip waarop de beschikking op de aanvraag onherroepelijk is geworden. 
 
 ### ARTIKEL  III  
 

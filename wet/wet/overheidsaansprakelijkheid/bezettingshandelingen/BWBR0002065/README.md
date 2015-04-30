@@ -83,7 +83,7 @@ De Staat en de overige publiekrechtelijke lichamen zijn niet aansprakelijk voor 
 
 1°. de belanghebbende onvoorwaardelijk buiten vervolging is gesteld op grond, dat de gerezen verdenking ongegrond is gebleken;  
 
-2°. de zaak van de belanghebbende overeenkomstig het [Tribunaalbesluit](../../../../../KB/tribunaalbesluit/BWBR0002009/README.md) is behandeld, doch de beschuldiging is vervallen verklaard;  
+2°. de zaak van de belanghebbende overeenkomstig het Tribunaalbesluit is behandeld, doch de beschuldiging is vervallen verklaard;  
 
 3°. de zaak van de belanghebbende aan de kennisneming van de strafrechter is onderworpen, doch zonder oplegging van straf of maatregel is geëindigd.    
 

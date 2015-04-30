@@ -28,12 +28,12 @@ Artikel 8, derde lid, tweede volzin (oud), artikel 9*g*, derde lid, derde volzin
 Materieel uitgewerkt per 21-03-2012 
 
 1.  Voor bij het in werking treden van deze wet bestaande mededingingsregelingen die ingevolge de in deze wet neergelegde wijziging van artikel 1 van de Wet economische mededinging onder de werking van laatstgenoemde wet komen te vallen, treedt voor de in artikel 2, tweede lid, van de Wet economische mededinging genoemde termijn in de plaats de termijn van één maand na dat in werking treden.   
-2.   Ten aanzien van mededingingsregelingen als in het eerste lid bedoeld gelden de artikelen 9*b*  en 9*e*, eerste lid, van de Wet economische mededinging niet gedurende twee maanden na het in werking treden van deze wijzigingswet.   
+2.   Ten aanzien van mededingingsregelingen als in het eerste lid bedoeld gelden de artikelen 9*b* en 9*e*, eerste lid, van de Wet economische mededinging niet gedurende twee maanden na het in werking treden van deze wijzigingswet.   
 3.   Indien met betrekking tot een mededingingsregeling als in het eerste lid bedoeld binnen de in het tweede lid genoemde termijn een verzoek is gedaan als bedoeld in artikel 9*g*, eerste lid, van de Wet economische mededinging, geldt ten aanzien van die mededingingsregeling artikel 9*d*, eerste lid, onder *a*, van die wet niet zolang op het verzoek niet is beslist. Ingeval het verzoek is afgewezen, geldt artikel 9*e*, eerste lid, onder *a*, van de Wet economische mededinging voorts niet, zolang niet twee maanden zijn verlopen na de dagtekening van de *Staatscourant*, waarin de desbetreffende beschikking is bekend gemaakt.   
 4.   Van de indiening van een verzoek als bedoeld in de eerste volzin van het derde lid doen Onze Ministers onverwijld mededeling in de *Staatscourant*.   
 5.   De in artikel 15, eerste en tweede lid, van de Wet economische mededinging bedoelde verboden gelden niet voor zover het betreft bepalingen in mededingingsregelingen als in het eerste lid van dit artikel bedoeld, zolang ten aanzien daarvan:  
 
-a. ingevolge het tweede lid artikel 9*b*  of 9*e*, eerste lid, van de Wet economische mededinging niet geldt of  
+a. ingevolge het tweede lid artikel 9*b* of 9*e*, eerste lid, van de Wet economische mededinging niet geldt of  
 
 b. ingevolge het derde lid artikel 9*e*, eerste lid, onder *a* , niet geldt.    
 

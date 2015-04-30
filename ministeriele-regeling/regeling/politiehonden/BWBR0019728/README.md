@@ -5,7 +5,7 @@
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 Handelende in overeenstemming met de Minister van Justitie;
 
-Gelet op [artikel 49 van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md);
+Gelet op artikel 49 van de Politiewet 1993;
 Besluit:     
 ### Paragraaf  1  
 
@@ -17,11 +17,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. aanhoudings- en ondersteuningseenheid: eenheid als bedoeld in [artikel 18 van de Regeling beheer politie](../../../../ministeriele-regeling/regeling/beheer/politie/BWBR0032673/README.md);  
+a. aanhoudings- en ondersteuningseenheid: eenheid als bedoeld in artikel 18 van de Regeling beheer politie;  
 
-b. ambtenaar van politie: ambtenaar als bedoeld in [artikel 24, eerste en tweede lid, van het Besluit bewapening en uitrusting politie](../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md);  
+b. ambtenaar van politie: ambtenaar als bedoeld in artikel 24, eerste en tweede lid, van het Besluit bewapening en uitrusting politie;  
 
-c. AOE-hond: hond als bedoeld in [artikel 23, onder b, van het Besluit bewapening en uitrusting politie](../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md);  
+c. AOE-hond: hond als bedoeld in artikel 23, onder b, van het Besluit bewapening en uitrusting politie;  
 
 d. explosieven: door de minister aangewezen springstoffen;  
 
@@ -31,11 +31,11 @@ f. keuringsreglement: als bijlage opgenomen reglement op grond waarvan keuringen
 
 g. minister: Minister van Veiligheid en Justitie;  
 
-h. politiespeurhond: hond als bedoeld in [artikel 23, onder c, van het Besluit bewapening en uitrusting politie](../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md);  
+h. politiespeurhond: hond als bedoeld in artikel 23, onder c, van het Besluit bewapening en uitrusting politie;  
 
-i. politiesurveillancehond: hond als bedoeld in [artikel 23, onder a, van het Besluit bewapening en uitrusting politie](../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md);  
+i. politiesurveillancehond: hond als bedoeld in artikel 23, onder a, van het Besluit bewapening en uitrusting politie;  
 
-j. verdovende middelen: producten vermeld op de bij de [Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) behorende [lijsten I](../../../../wet/opiumwet/BWBR0001941/README.md) en [II](../../../../wet/opiumwet/BWBR0001941/README.md).   
+j. verdovende middelen: producten vermeld op de bij de Opiumwet behorende lijsten I en II.   
 
 ### Paragraaf  2  
 
@@ -74,8 +74,8 @@ Bewapening met een AOE-hond geschiedt uitsluitend bij het optreden van een aanho
 1.  Er is een keuringscommissie voor de politiespeurhond, waarvan de leden worden aangewezen door de rijksgecommitteerden voor de politiespeurhond. De rijksgecommitteerden bepalen voor welke keuring van geleider en politiespeurhond de verschillende leden van de keuringscommissie worden ingezet.   
 2.  Er is een keuringscommissie voor de politiesurveillancehond waarvan de leden worden aangewezen door de rijksgecommitteerden voor de politiesurveillancehond, bedoeld in artikel 7. De aanwijzing vindt plaats nadat het aan te wijzen lid is aangemeld bij een door de korpschef getroffen voorziening voor de organisatie en administratie van keuringen. Aanwijzing vindt niet plaats dan nadat het aan te wijzen lid het examen, bedoeld in het keuringsreglement voor de politiesurveillancehond, met goed gevolg heeft afgelegd.   
 3.  Er is een keuringscommissie voor de AOE-hond waarvan de leden, uit de kring van leden van de keuringscommissie voor de politiesurveillancehond, worden aangewezen door de rijksgecommitteerden voor de AOE-hond, bedoeld in artikel 7.   
-4.  De leden van de keuringscommissie voor de politiespeurhond, van de keuringscommissie voor de politiesurveillancehond en van de keuringscommissie voor de AOE-hond zijn ambtenaar van politie. Van de keuringscommissie voor de politiespeurhond kunnen tevens lid zijn buitengewoon opsporingsambtenaren als bedoeld in [artikel 142 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
-5.  De leden van de keuringscommissie voor de politiespeurhonden, respectievelijk de keuringscommissie voor de politiesurveillancehond, respectievelijk de keuringscommissie voor de AOE-hond beschikken over een ruime dressuur-technische ervaring en praktische politie-ervaring op het gebied van de inzet en het gebruik van de politiespeurhond, respectievelijk de politiesurveillancehond, respectievelijk de AOE-hond. De leden van de keuringscommissie voor de politiespeurhond beschikken tevens over kennis van de toepasselijke bepalingen van het [Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).  
+4.  De leden van de keuringscommissie voor de politiespeurhond, van de keuringscommissie voor de politiesurveillancehond en van de keuringscommissie voor de AOE-hond zijn ambtenaar van politie. Van de keuringscommissie voor de politiespeurhond kunnen tevens lid zijn buitengewoon opsporingsambtenaren als bedoeld in artikel 142 van het Wetboek van Strafvordering.   
+5.  De leden van de keuringscommissie voor de politiespeurhonden, respectievelijk de keuringscommissie voor de politiesurveillancehond, respectievelijk de keuringscommissie voor de AOE-hond beschikken over een ruime dressuur-technische ervaring en praktische politie-ervaring op het gebied van de inzet en het gebruik van de politiespeurhond, respectievelijk de politiesurveillancehond, respectievelijk de AOE-hond. De leden van de keuringscommissie voor de politiespeurhond beschikken tevens over kennis van de toepasselijke bepalingen van het Wetboek van Strafvordering.  
 
 ### Artikel  7  
 
@@ -162,16 +162,16 @@ a. zijn kennis met betrekking tot de veiligstelling van goederen en het afnemen 
 
 b. de factoren die van invloed zijn op het functioneren van de politiespeurhond menselijke geur; en  
 
-c. de toepasselijke bepalingen van het [Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).     
+c. de toepasselijke bepalingen van het Wetboek van Strafvordering.     
 2.  De geleider politiespeurhond verdovende middelen wordt door de keuringscommissie voor de politiespeurhond geëxamineerd met betrekking tot: 
 
 a. de bekende methoden van verbergen en verpakken van verdovende middelen;  
 
 b. de factoren die van invloed zijn op het functioneren van de politiespeurhond verdovende middelen;  
 
-c. de inhoud van de [Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md); en  
+c. de inhoud van de Opiumwet; en  
 
-d. de toepasselijke bepalingen van het [Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).     
+d. de toepasselijke bepalingen van het Wetboek van Strafvordering.     
 3.  De geleider politiespeurhond explosieven wordt door de keuringscommissie voor de politiespeurhond geëxamineerd met betrekking tot: 
 
 a. de bekende methoden van plaatsen, verbergen en verpakken van explosieven, wapens en munitie;  
@@ -180,16 +180,16 @@ b. de opslag en het vervoer van explosieven;
 
 c. de factoren die van invloed zijn op het functioneren van de politiespeurhond explosieven;  
 
-d. de inhoud van de Wet wapens en munitie en de [Wet gevaarlijke stoffen](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md); en  
+d. de inhoud van de Wet wapens en munitie en de Wet gevaarlijke stoffen; en  
 
-e. de toepasselijke bepalingen van het [Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).     
+e. de toepasselijke bepalingen van het Wetboek van Strafvordering.     
 4.  De geleider politiespeurhond stoffelijke resten wordt door de keuringscommissie voor de politiespeurhond geëxamineerd met betrekking tot: 
 
 a. de theorie inzake het werken met een speurhond stoffelijke resten;  
 
 b. factoren die van invloed zijn op het functioneren van de politiespeurhond stoffelijke resten; en  
 
-c. toepasselijke bepalingen van het [Wetboek van strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en van de [Wet op de lijkbezorging](../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md).    
+c. toepasselijke bepalingen van het Wetboek van strafvordering en van de Wet op de lijkbezorging.    
 5.  De geleider van de politiespeurhond geld wordt door de keuringscommissie voor de politiespeurhond geëxamineerd over kennis van: 
 
 a. bankbiljetten;  
@@ -200,7 +200,7 @@ c. het africhten van de politiespeurhond geld;
 
 d. de inzetbaarheid van de politiespeurhond geld bij opsporingsonderzoeken;  
 
-e. de toepasselijke bepalingen van het [Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).    
+e. de toepasselijke bepalingen van het Wetboek van Strafvordering.    
 6.  De examenvragen en de examenstof worden door de keuringscommissie voor de politiespeurhond in overeenstemming met de rijksgecommitteerden voor de politiespeurhond vastgesteld.   
 7.  Indien het examen niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen.  
 
@@ -290,11 +290,11 @@ Na inwerkingtreding van deze regeling berust het besluit van de Minister van Bin
 
 ### Artikel  16  
 
-Na inwerkingtreding van deze regeling berusten de op grond van de Regeling politiespeurhonden 1997 en de [Regeling politiesurveillancehonden 1999](../../../../ministeriele-regeling/regeling/politiesurveillancehonden/1999/BWBR0010333/README.md) afgegeven certificaten op artikel 13 van deze regeling. 
+Na inwerkingtreding van deze regeling berusten de op grond van de Regeling politiespeurhonden 1997 en de Regeling politiesurveillancehonden 1999 afgegeven certificaten op artikel 13 van deze regeling. 
 
 ### Artikel  17  
 
-Na inwerkingtreding van deze regeling berust het certificaat voor de combinatie van een geleider en een AOE-hond, dat op grond van de [Regeling pilot AOE-hond](../../../../ministeriele-regeling/regeling/pilot/aoe-hond/BWBR0016003/README.md) is afgegeven en nadien is verlengd, op artikel 13 van deze regeling. 
+Na inwerkingtreding van deze regeling berust het certificaat voor de combinatie van een geleider en een AOE-hond, dat op grond van de Regeling pilot AOE-hond is afgegeven en nadien is verlengd, op artikel 13 van deze regeling. 
 
 ### Paragraaf  6  
 
@@ -302,7 +302,7 @@ Na inwerkingtreding van deze regeling berust het certificaat voor de combinatie 
 
 ### Artikel  18  
 
-De [Regeling politiesurveillancehonden 1999](../../../../ministeriele-regeling/regeling/politiesurveillancehonden/1999/BWBR0010333/README.md) wordt ingetrokken.
+De Regeling politiesurveillancehonden 1999 wordt ingetrokken.
 
 ### Artikel  19  
 
@@ -310,7 +310,7 @@ De Regeling politiespeurhonden 1997 wordt ingetrokken.
 
 ### Artikel  19a  
 
-Deze regeling berust op [artikel 24, derde lid, van het Besluit bewapening en uitrusting politie](../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md).  
+Deze regeling berust op artikel 24, derde lid, van het Besluit bewapening en uitrusting politie.  
 
 ### Artikel  20  
 

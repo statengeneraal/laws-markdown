@@ -8,7 +8,7 @@ Op de voordracht van de Onze Minister van Verkeer en Waterstaat van 10 november 
 
 Gelet op Richtlijn 91/440/EEG van de Raad van de Europese Gemeenschappen van 29 juli 1991 betreffende de ontwikkeling van de spoorwegen in de Gemeenschap (*PbEG* van 24 augustus 1991, nr. L 230);
 
-Gelet op [artikel 27 van de Spoorwegwet](../../../../../../../wet/spoorwegwet/BWBR0001848/README.md) (*Stb.* 1875, 67) en de artikelen 2, tweede lid, 34 en 49 van de Wet personenvervoer (*Stb.* 1987, 175);
+Gelet op artikel 27 van de Spoorwegwet (*Stb.* 1875, 67) en de artikelen 2, tweede lid, 34 en 49 van de Wet personenvervoer (*Stb.* 1987, 175);
 
 Raad van State gehoord (advies van 24 december 1992, nr. W09.92.0541);
 

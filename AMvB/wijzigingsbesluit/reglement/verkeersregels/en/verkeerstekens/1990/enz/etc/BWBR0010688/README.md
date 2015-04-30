@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 15 januari 1999, nr. CDJZ/WJZ/98–1316, Centrale Directie Juridische Zaken;
 
-Gelet op de [artikelen 12](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [13 van de Wegenverkeerswet 1994](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
+Gelet op de artikelen 12 en 13 van de Wegenverkeerswet 1994;
 
 De Raad van State gehoord (advies van 30 maart 1999, nr. W09 0022/V.);
 
@@ -24,7 +24,7 @@ Wijzigt het Besluit administratieve bepalingen inzake het wegverkeer.
 ### Artikel  III  
 
 1.  Het Besluit tijdelijke aanwijzing verkeersassistent Den Haag wordt ingetrokken.   
-2.  Na inwerkingtreding van dit besluit berusten de krachtens het Besluit tijdelijke aanwijzing verkeersassistent Den Haag vastgestelde besluiten tot aanstelling als verkeersassistent op [artikel 56, eerste lid, onderdeel b, van het Besluit administratieve bepalingen inzake het wegverkeer](../../../../../../../../../../AMvB/besluit/administratieve/bepalingen/inzake/het/wegverkeer/(babw)/BWBR0004826/README.md).  
+2.  Na inwerkingtreding van dit besluit berusten de krachtens het Besluit tijdelijke aanwijzing verkeersassistent Den Haag vastgestelde besluiten tot aanstelling als verkeersassistent op artikel 56, eerste lid, onderdeel b, van het Besluit administratieve bepalingen inzake het wegverkeer.  
 
 ### Artikel  IV  
 

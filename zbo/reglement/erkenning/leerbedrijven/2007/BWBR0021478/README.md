@@ -17,9 +17,9 @@ In dit reglement wordt verstaan onder:
 | 5.  | Reglement  | Reglement Erkenning Leerbedrijven 2007.  |
 | 6.  | Onderwijsdeelnemer  | Vmbo of mbo deelnemer.  |
 | 7.  | Onderwijsinstelling  | School voor vmbo of mbo.  |
-| 8.  | Beroepspraktijkvormingsovereenkomst  | De overeenkomst als bedoeld in [artikel 7.2.8. van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) (WEB) (Stbl.1995, 501).  |
+| 8.  | Beroepspraktijkvormingsovereenkomst  | De overeenkomst als bedoeld in artikel 7.2.8. van de Wet educatie en beroepsonderwijs (WEB) (Stbl.1995, 501).  |
 | 9.  | BPV (Praktijkleren)  | Beroepspraktijkvorming (het onder bedrijfsomstandigheden leren van praktische vaardigheden).  |
-| 10.  | Kenniscentrum  | Het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven zoals bedoeld in [artikel 1.5.1 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) (WEB).  |
+| 10.  | Kenniscentrum  | Het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven zoals bedoeld in artikel 1.5.1 van de Wet educatie en beroepsonderwijs (WEB).  |
 | 11.  | Kwaliteitszorg BPV (Praktijkleren)  | Het regelmatig in kaart brengen van de kwaliteit van de leeromgeving en deze waar nodig verbeteren. Minimaal éénmaal per vier jaar wordt de kwaliteitszorg BPV geëvalueerd. Dit maakt onderdeel uit van de voortzetting van de erkenning.  |
 | 12.  | SH&M (Stichting Hout & Meubel)  | Kenniscentrum beroepsonderwijs bedrijfsleven voor de houthandel, meubel- en timmerindustrie en aanverwante branches.  |
 | 13.  | Opleidingsadviseur SH&M  | De adviseur van SH&M die het leerbedrijf ondersteunt om structureel te werken aan een goede kwaliteit van leren. Tevens bewaakt SH&M de kwaliteit van het leren in de praktijk.  |
@@ -83,13 +83,13 @@ Voor het opleidingsproces is het belangrijk dat het leerbedrijf beschikt over me
 
 ####Ad. 8
 
-In het kader van de [Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) is het kenniscentrum belast met het toezicht houden op de kwaliteit van de beroepspraktijkvorming. In dat kader worden leerbedrijven erkend als leerbedrijf en wordt d.m.v. kwaliteitszorg BPV nagegaan of deze leerbedrijven de BPV op de juiste wijze en vorm en inhoud geven. Het kenniscentrum begeleidt het leerbedrijf bij dit kwaliteitsbevorderend proces. Indien er in onvoldoende mate inhoud wordt gegeven aan het proces, kan de erkenning worden ingetrokken. Dit gebeurt indien essentiële onderdelen binnen de BPV onder de norm worden ingevuld.    
+In het kader van de Wet educatie en beroepsonderwijs is het kenniscentrum belast met het toezicht houden op de kwaliteit van de beroepspraktijkvorming. In dat kader worden leerbedrijven erkend als leerbedrijf en wordt d.m.v. kwaliteitszorg BPV nagegaan of deze leerbedrijven de BPV op de juiste wijze en vorm en inhoud geven. Het kenniscentrum begeleidt het leerbedrijf bij dit kwaliteitsbevorderend proces. Indien er in onvoldoende mate inhoud wordt gegeven aan het proces, kan de erkenning worden ingetrokken. Dit gebeurt indien essentiële onderdelen binnen de BPV onder de norm worden ingevuld.    
 
 ####Aanvullende artikelen voor samenwerkingsverbanden en detacheringsorganisaties
 
 ####Aanvulling ad.1 en 2
 
-Hier wordt met het leerbedrijf bedoeld het uitlenende leerbedrijf. Het samenwerkingsverband of de detacheringsorganisatie verplicht zich tot het plaatsen van de deelnemer bij bedrijven die in het register van erkende leerbedrijven van SH&M zijn opgenomen. Bij een samenwerkingsverband is er in beginsel sprake van dat dit samenwerkingsverband valt onder de werkingssfeer van de CAO voor de houthandel, meubelindustrie- of timmerindustrie. Bij een detacheringsorganisatie voldoet de organisatie aan de wettelijke bepalingen die zijn vastgelegd in de wet van 14 mei 1998, houdende regels voor de niet-openbare arbeidsbemiddeling en het ter beschikking stellen van arbeidskrachten [Wet allocatie arbeidskrachten door intermediairs](../../../../../../wet/wet/allocatie/arbeidskrachten/door/intermediairs/BWBR0009616/README.md), zoals gepubliceerd in het staatsblad (Staatsblad 1998-306). Het plaatsen van deelnemers vanuit een detacheringsorganisatie bij erkende leerbedrijven bedraagt ten minste een periode van zes maanden. Het samenwerkingsverband of de detacheringsorganisatie houdt de opleidingsadviseur van SH&M op de hoogte van de locatie waar de BPV van de deelnemer plaatsvindt.      
+Hier wordt met het leerbedrijf bedoeld het uitlenende leerbedrijf. Het samenwerkingsverband of de detacheringsorganisatie verplicht zich tot het plaatsen van de deelnemer bij bedrijven die in het register van erkende leerbedrijven van SH&M zijn opgenomen. Bij een samenwerkingsverband is er in beginsel sprake van dat dit samenwerkingsverband valt onder de werkingssfeer van de CAO voor de houthandel, meubelindustrie- of timmerindustrie. Bij een detacheringsorganisatie voldoet de organisatie aan de wettelijke bepalingen die zijn vastgelegd in de wet van 14 mei 1998, houdende regels voor de niet-openbare arbeidsbemiddeling en het ter beschikking stellen van arbeidskrachten Wet allocatie arbeidskrachten door intermediairs, zoals gepubliceerd in het staatsblad (Staatsblad 1998-306). Het plaatsen van deelnemers vanuit een detacheringsorganisatie bij erkende leerbedrijven bedraagt ten minste een periode van zes maanden. Het samenwerkingsverband of de detacheringsorganisatie houdt de opleidingsadviseur van SH&M op de hoogte van de locatie waar de BPV van de deelnemer plaatsvindt.      
 ### Artikel  6  
 
 ####Verlenen van de erkenning
@@ -131,7 +131,7 @@ Hier wordt met het leerbedrijf bedoeld het uitlenende leerbedrijf. Het samenwerk
 
 1. Indien de erkenning geweigerd, ingetrokken of niet verlengd wordt, kan het bedrijf of de organisatie tegen de beslissing als bedoeld in de artikelen 6 lid 1, 7 lid 2 en 8 lid 1 bezwaar maken bij het kenniscentrum.  
 
-2. Op de bezwaarprocedure is de [Algemene Wet Bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.  
+2. Op de bezwaarprocedure is de Algemene Wet Bestuursrecht van toepassing.  
 
 3. Het bezwaar dient schriftelijk en voorzien van een handtekening en dagtekening binnen 6 weken na dagtekening van de genoemde beslissing te worden ingediend.  
 

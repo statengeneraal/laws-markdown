@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Onderwijs en Wetenschappen, drs. G. van Leijenhorst, mede namens Onze Minister van Landbouw en Visserij van 1 mei 1984, nr. 5171/1156, centrale directie Wetgeving en Juridische Zaken;
 
-Gelet op [artikel 17, tweede lid, van de Wet medezeggenschap onderwijs](../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md) (*Stb.* 1981, 778);
+Gelet op artikel 17, tweede lid, van de Wet medezeggenschap onderwijs (*Stb.* 1981, 778);
 
 De Onderwijsraad gehoord (advies van 15 juli 1983, O.R. 544 Alg.);
 
@@ -24,13 +24,13 @@ In dit besluit wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor wat betreft het onderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, Onze Minister van Economische Zaken;  
 
-b. de wet: de [Wet medezeggenschap onderwijs](../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md) (*Stb.* 1981, 778);  
+b. de wet: de Wet medezeggenschap onderwijs (*Stb.* 1981, 778);  
 
-c. de medezeggenschapsraad: de raad, bedoeld in [artikel 4, eerste lid, van de wet](../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md);  
+c. de medezeggenschapsraad: de raad, bedoeld in artikel 4, eerste lid, van de wet;  
 
-d. de voorlopige medezeggenschapsraad: de raad, bedoeld in [artikel 24 van de wet](../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md);  
+d. de voorlopige medezeggenschapsraad: de raad, bedoeld in artikel 24 van de wet;  
 
-e. het medezeggenschapsreglement: het reglement, bedoeld in [artikel 3, eerste lid, van de wet](../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md);  
+e. het medezeggenschapsreglement: het reglement, bedoeld in artikel 3, eerste lid, van de wet;  
 
 f. het bevoegd gezag: voor wat betreft  
 
@@ -74,7 +74,7 @@ Indien op het moment van inwerkingtreding van dit besluit aan een school als bed
 
 ### Artikel  C-1  
 
-In afwijking van de wet voor wat betreft artikel 4, eerste en zevende lid, gelden de bepalingen van deze paragraaf in die gevallen, waarin een of meer scholen voor kleuteronderwijs en een of meer scholen voor gewoon lager onderwijs door hetzelfde bevoegd gezag in stand worden gehouden en samenwerken, of zullen gaan samenwerken met het oog op de vorming van een school voor basisonderwijs als bedoeld in de [Wet op het basisonderwijs](../../../../../wet/wbo/BWBR0003420/README.md)  (*Stb.* 1984, 2). 
+In afwijking van de wet voor wat betreft artikel 4, eerste en zevende lid, gelden de bepalingen van deze paragraaf in die gevallen, waarin een of meer scholen voor kleuteronderwijs en een of meer scholen voor gewoon lager onderwijs door hetzelfde bevoegd gezag in stand worden gehouden en samenwerken, of zullen gaan samenwerken met het oog op de vorming van een school voor basisonderwijs als bedoeld in de Wet op het basisonderwijs  (*Stb.* 1984, 2). 
 
 ###Artikel C-2 
 
@@ -139,7 +139,7 @@ a.opheffing van twee of meer gelijksoortige scholen en de gelijktijdige oprichti
 
 b.opheffing van een of meer scholen waarbij deze school of scholen feitelijk opgaan in een andere, gelijksoortige school;
 
-c.vereniging van twee of meer scholen in een scholengemeenschap als bedoeld in [artikel 19 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);
+c.vereniging van twee of meer scholen in een scholengemeenschap als bedoeld in artikel 19 van de Wet op het voortgezet onderwijs;
 
 d.samenbrenging van scholen in een onderwijsgemeenschap als bedoeld in artikel 25, vierde lid, van het Besluit proefprojecten nieuw vervolg/beroepsonderwijs (*Stb.* 1980, 283) en artikel 23, vierde lid, van het Besluit proefprojecten deeltijd vervolg/beroepsonderwijs (*Stb.* 1983, 128);
 
@@ -225,8 +225,8 @@ In afwijking van de wet voor wat betreft de artikelen 4, tweede, zevende en tien
 ### Artikel  J-4  
 
 1.   Een deelraad wordt in ieder geval ingesteld indien de medezeggenschapsraad dit wenst.   
-2.   [Artikel 4, tweede tot en met zesde, negende en twaalfde lid van de wet](../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md), zijn van overeenkomstige toepassing op een deelraad.   
-3.   Volgens regels, vastgesteld in het medezeggenschapsreglement, kan de medezeggenschapsraad een bevoegdheid als bedoeld in [artikel 6, eerste lid, onder a, b, c en j, van de wet](../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md) overdragen aan een deelraad, voor zover het betreft een aangelegenheid die het desbetreffende deel van de school in het bijzonder aangaat.  
+2.   Artikel 4, tweede tot en met zesde, negende en twaalfde lid van de wet, zijn van overeenkomstige toepassing op een deelraad.   
+3.   Volgens regels, vastgesteld in het medezeggenschapsreglement, kan de medezeggenschapsraad een bevoegdheid als bedoeld in artikel 6, eerste lid, onder a, b, c en j, van de wet overdragen aan een deelraad, voor zover het betreft een aangelegenheid die het desbetreffende deel van de school in het bijzonder aangaat.  
 
 ### §  K  
 
@@ -252,7 +252,7 @@ Het bepaalde in artikel K-2 is van overeenkomstige toepassing op de voorlopige m
 
 ###Artikel M-1 
 
-In afwijking van de wet voor wat betreft artikel 3, vijfde lid onder *b*, gelden de bepalingen van deze paragraaf voor scholen voor voortgezet speciaal onderwijs en scholen of instellingen voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 8, eerste lid, van de Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md).
+In afwijking van de wet voor wat betreft artikel 3, vijfde lid onder *b*, gelden de bepalingen van deze paragraaf voor scholen voor voortgezet speciaal onderwijs en scholen of instellingen voor speciaal en voortgezet speciaal onderwijs als bedoeld in artikel 8, eerste lid, van de Wet op de expertisecentra.
 
 ### Artikel  M-2  
 

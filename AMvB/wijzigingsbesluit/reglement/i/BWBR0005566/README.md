@@ -6,9 +6,9 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 29 april 1992, Stafafdeling Wetgeving Publiekrecht, nr. 205659/92/6;
 
-Overwegende, dat het noodzakelijk is in verband met de Wet van 3 juni 1992 (*Stb.* 278) tot wijziging van de [Wet op de rechterlijke organisatie](../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), de [Ambtenarenwet](../../../../../wet/ambtenarenwet/BWBR0001947/README.md) 1929, de [Beroepswet](../../../../../wet/beroepswet/BWBR0002170/README.md) en enkele andere wetten (integratie raden van beroep/Ambtenarengerechten en arrondissementsrechtbanken; vereenvoudiging regelingen vorming en bezetting kamers het Reglement I, het [Beroepsreglement](../../../../../AMvB/beroepsreglement/BWBR0002228/README.md), het Besluit van 3 oktober 1956 (*Stb.* 497), betreffende rechtspraak in ambtenarenzaken en enkele andere besluiten aan te passen, alsmede enkele besluiten in te trekken;
+Overwegende, dat het noodzakelijk is in verband met de Wet van 3 juni 1992 (*Stb.* 278) tot wijziging van de Wet op de rechterlijke organisatie, de Ambtenarenwet 1929, de Beroepswet en enkele andere wetten (integratie raden van beroep/Ambtenarengerechten en arrondissementsrechtbanken; vereenvoudiging regelingen vorming en bezetting kamers het Reglement I, het Beroepsreglement, het Besluit van 3 oktober 1956 (*Stb.* 497), betreffende rechtspraak in ambtenarenzaken en enkele andere besluiten aan te passen, alsmede enkele besluiten in te trekken;
 
-Gelet op de [artikelen 19](../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [72](../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), zevende lid, en [73, zevende lid, van de Wet op de rechterlijke organisatie](../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), de [artikelen 1](../../../../../wet/beroepswet/BWBR0002170/README.md), tweede lid, 30*a*  en 40*d* van de Beroepswet, de [artikelen 4](../../../../../wet/ambtenarenwet/BWBR0001947/README.md), tweede lid, [22*b* ](../../../../../wet/ambtenarenwet/BWBR0001947/README.md) en [23*c* van de Ambtenarenwet](../../../../../wet/ambtenarenwet/BWBR0001947/README.md) 1929 en [artikel 117*a* van de Wet op de studiefinanciering](../../../../../wet/wet/op/de/studiefinanciering/BWBR0003955/README.md);
+Gelet op de artikelen 19, 72, zevende lid, en 73, zevende lid, van de Wet op de rechterlijke organisatie, de artikelen 1, tweede lid, 30*a*  en 40*d* van de Beroepswet, de artikelen 4, tweede lid, 22*b*  en 23*c* van de Ambtenarenwet 1929 en artikel 117*a* van de Wet op de studiefinanciering;
 
 De Raad van State gehoord (advies van 11 juni 1992, nr. W03.92.0197);
 
@@ -115,7 +115,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  XXI  
 
-Voor het behandelen en beslissen van zaken als bedoeld in artikel XXV van de Wet van 3 juni 1992 (*Stb.* 278), tot wijziging van de [Wet op de rechterlijke organisatie](../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), de [Ambtenarenwet](../../../../../wet/ambtenarenwet/BWBR0001947/README.md) 1929, de [Beroepswet](../../../../../wet/beroepswet/BWBR0002170/README.md) en enkele andere wetten (integratie raden van beroep/Ambtenarengerechten en arrondissementsrechtbanken; vereenvoudiging regelingen vorming en bezetting kamers) kunnen de arrondissementsrechtbanken terechtzittingen houden in de volgende nevenzittingsplaatsen:  
+Voor het behandelen en beslissen van zaken als bedoeld in artikel XXV van de Wet van 3 juni 1992 (*Stb.* 278), tot wijziging van de Wet op de rechterlijke organisatie, de Ambtenarenwet 1929, de Beroepswet en enkele andere wetten (integratie raden van beroep/Ambtenarengerechten en arrondissementsrechtbanken; vereenvoudiging regelingen vorming en bezetting kamers) kunnen de arrondissementsrechtbanken terechtzittingen houden in de volgende nevenzittingsplaatsen:  
 
 - de arrondissementsrechtbank te 's-Hertogenbosch: te Breda en Eindhoven;  
 

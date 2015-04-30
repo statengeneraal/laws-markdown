@@ -96,7 +96,7 @@ c. de slaapaccommodatie, bedoeld in onderdeel b, derde aandachtsstreepje, voldoe
 4. De toepassing van artikel 23a van de wet vindt plaats op verzoek. 
 5. Het verzoek wordt bij de inspecteur ingediend voor de aanvang van het tijdvak. 
 6. Bij het verzoek worden bescheiden overgelegd waaruit blijkt dat wordt voldaan aan de in het eerste lid gestelde voorwaarden, alsmede een opgave van het kenteken van de personenauto. 
-7.  Indien een motorrijtuig waarvoor artikel 23a van de wet reeds van toepassing is van houder wisselt, wordt de aanvraag om wijziging van de tenaamstelling van het kentekenbewijs aangemerkt als een verzoek om toepassing van artikel 23a, eerste lid, van de wet. Het vijfde en zesde lid zijn alsdan niet van toepassing.  
+7.  Indien een motorrijtuig waarvoor artikel 23a van de wet reeds van toepassing is van houder wisselt, wordt de aanvraag om wijziging van de tenaamstelling aangemerkt als een verzoek om toepassing van artikel 23a, eerste lid, van de wet. Het vijfde en zesde lid zijn alsdan niet van toepassing.  
 8. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Tenzij in de beschikking anders is bepaald, werkt deze terug tot op het tijdstip waarop het verzoek is ingediend. 
 9.  Indien niet of niet langer wordt voldaan aan de voorwaarden voor toepassing van artikel 23a, eerste of tweede lid, van de wet, stelt degene aan wie de beschikking is verleend de inspecteur daarvan onverwijld in kennis.  
 10.  Indien niet of niet langer wordt voldaan aan de voorwaarden voor de toepassing van artikel 23a, eerste of tweede lid, van de wet, trekt de inspecteur de beschikking in bij voor bezwaar vatbare beschikking.  
@@ -111,7 +111,7 @@ a.bij het verzoek worden overgelegd:
 
 –bescheiden waaruit blijkt dat de gehandicapte beschikt over een rolstoel als bedoeld in artikel 24a, eerste lid, van de wet die is verstrekt in het kader van een beschikking ingevolge de Wet maatschappelijke ondersteuning of een beschikking van het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in artikel 2, eerste lid, van de Wet structuur uitvoeringsorganisaties werk en inkomen, dan wel waarvoor hij beschikt over een verklaring van een arts die is afgegeven ten hoogste zes weken voorafgaand aan de datum van indiening van het verzoek, dat hij voor zijn vervoer is aangewezen op het gebruik van een dergelijke rolstoel;
 
-–een afschrift van de delen I en II, de delen I en I B of deel I A en B van het bewijs dat ingevolge artikel 36, tweede lid, van de Wegenverkeerswet 1994 is afgegeven voor de bestelauto; en
+–een afschrift van de kentekencard of van de delen I en II, de delen I en I B of deel I A en B van het kentekenbewijs dat ingevolge artikel 36, tweede lid, van de Wegenverkeerswet 1994 is afgegeven voor de bestelauto; en
 
 b.de bestelauto uitsluitend wordt gebruikt voor het in artikel 24a, eerste lid, van de wet bedoelde vervoer, alsmede voor het persoonlijk gebruik, gebruik door inwonende gezinsleden daaronder begrepen, van de gehandicapte en, in geval dit een ander is, van de houder van de bestelauto. 
 3. Indien artikel 24a van de wet reeds wordt toegepast voor een andere bestelauto ten behoeve van de gehandicapte, wordt in het verzoek vermeld vanaf welke datum de bestelauto waarop het verzoek betrekking heeft die andere bestelauto vervangt voor het in artikel 24a, eerste lid, van de wet bedoelde vervoer.
@@ -220,7 +220,7 @@ d. voorzieningen voor vervoer en verzorging van zieke of gewonde dieren.
 
 ### Artikel  12  
 
-1.  De vrijstelling van belasting, bedoeld in artikel 72, eerste lid, onderdeel b, van de wet wordt verleend, respectievelijk het overgangsrecht oudere motorrijtuigen, bedoeld in hoofdstuk XA van de wet, wordt toegepast, indien de ingevolge die bepaling respectievelijk dat hoofdstuk vereiste ouderdom, respectievelijk het tijdstip van eerste ingebruikneming, blijkt uit het krachtens de Wegenverkeerswet 1994 aangehouden register van opgegeven kentekens, dan wel deze ouderdom of dit tijdstip aan de hand van bescheiden wordt aangetoond.   
+1.  De vrijstelling van belasting, bedoeld in artikel 72, eerste lid, onderdeel b, van de wet wordt verleend, respectievelijk het overgangsrecht oudere motorrijtuigen, bedoeld in hoofdstuk XA van de wet, wordt toegepast, indien de ingevolge die bepaling respectievelijk dat hoofdstuk vereiste ouderdom, respectievelijk het tijdstip van eerste ingebruikneming, blijkt uit het kentekenregister, dan wel deze ouderdom of dit tijdstip aan de hand van bescheiden wordt aangetoond.   
 2.  De vrijstelling, bedoeld in het eerste lid, wordt voor zover het vrachtauto’s en autobussen betreft slechts verleend, indien de houder van het motorrijtuig een verklaring overlegt dat het motorrijtuig uitsluitend niet-bedrijfsmatig wordt gebruikt.  
 
 ### Artikel  13  
@@ -253,7 +253,7 @@ c. het motorrijtuig uitsluitend wordt gebruikt door brandweerlieden voor de uito
 
 Vrijstelling van belasting voor motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt als vuilniswagen, kolkenzuiger of straatveegwagen wordt verleend indien:  
 
-a. het kenteken van het motorrijtuig op naam van een openbaar lichaam of van een bedrijf dat zich bezighoudt met werkzaamheden waarbij deze motorrijtuigen worden ingezet, is ingeschreven in het krachtens de Wegenverkeerswet 1994 aangehouden register van opgegeven kentekens; en  
+a. het motorrijtuig te naam is gesteld in het kentekenregister op naam van een openbaar lichaam of van een bedrijf dat zich bezighoudt met werkzaamheden waarbij deze motorrijtuigen worden ingezet; en  
 
 b. de houder van het motorrijtuig een verklaring overlegt dat het motorrijtuig is ingericht en uitsluitend wordt gebruikt als een in de aanhef genoemd motorrijtuig.   
 
@@ -279,13 +279,13 @@ Vrijstelling van belasting voor motorrijtuigen waarmee met het oog op een ingevo
 
 ### Artikel  23  
 
-1.  Vrijstelling van belasting voor motorrijtuigen die blijkens een ingevolge de Wet personenvervoer of de Wet personenvervoer 2000 afgegeven vergunning, dan wel voor zover afgegeven een vergunningbewijs, zijn bestemd om daarmee als personenauto openbaar vervoer of taxivervoer te verrichten en daarvoor geheel of nagenoeg geheel worden gebruikt, wordt verleend indien:  
+1.  Vrijstelling van belasting voor motorrijtuigen die blijkens een ingevolge de Wet personenvervoer of de Wet personenvervoer 2000 afgegeven vergunning, dan wel voor zover afgegeven een vergunningbewijs, zijn bestemd om daarmee als personenauto openbaar vervoer of taxivervoer te verrichten en daarvoor geheel of nagenoeg geheel worden gebruikt, wordt verleend indien worden overgelegd:  
 
-a. een afschrift van de vergunning of van het vergunningbewijs wordt overgelegd;  
+a. een afschrift van de vergunning of van het vergunningbewijs;  
 
-b. een afschrift van de delen I en II, de delen I en I B of deel I A en B van het kentekenbewijs dat is afgegeven voor het motorrijtuig wordt overgelegd; en  
+b. een afschrift van de kentekencard of van de delen I en II, de delen I en I B of deel I A en B van het kentekenbewijs dat ingevolge artikel 36, tweede lid, van de Wegenverkeerswet 1994 is afgegeven voor het motorrijtuig; en  
 
-c. een verklaring wordt overgelegd van de exploitant van het motorrijtuig dat het motorrijtuig geheel of nagenoeg geheel wordt gebruikt voor het verrichten van openbaar vervoer of taxivervoer in de zin van de Wet personenvervoer 2000.     
+c. een verklaring van de exploitant van het motorrijtuig dat het motorrijtuig geheel of nagenoeg geheel wordt gebruikt voor het verrichten van openbaar vervoer of taxivervoer in de zin van de Wet personenvervoer 2000.     
 2.   Op een met de inspecteur afgesproken tijdstip worden jaarlijks een afschrift als bedoeld in het eerste lid, onderdeel a, en een verklaring als bedoeld in het eerste lid, onderdeel c, overgelegd.  
 
 ### Artikel  25  

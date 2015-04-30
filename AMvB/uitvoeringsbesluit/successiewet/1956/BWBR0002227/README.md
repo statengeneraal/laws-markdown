@@ -96,7 +96,7 @@ De waarde van een erfpachtcanon als bedoeld in artikel 21, negende lid, van de S
 
 ### Hoofdstuk  1a  
 
-####Informatieverplichting
+####Informatieverplichtingen
 
 ### Artikel  10c  
 
@@ -105,7 +105,6 @@ De waarde van een erfpachtcanon als bedoeld in artikel 21, negende lid, van de S
 3.  Het niet of niet tijdig dan wel onjuist of onvolledig doen van de mededeling, bedoeld in het eerste lid, wordt aangemerkt als een overtreding.  
 
 ### Artikel  10d  
-Treedt in werking per 01-01-2015 
 
 1.  Als administratieplichtigen als bedoeld in artikel 75, eerste lid, van de Successiewet 1956 worden voor de verstrekking van de gegevens en inlichtingen, bedoeld in het tweede lid, aangewezen: banken, beleggingsinstellingen, financiële instellingen, levensverzekeraars en schadeverzekeraars als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.   
 2.  Als gegevens en inlichtingen als bedoeld in artikel 75, eerste lid, van de Successiewet 1956 worden aangewezen: 
@@ -247,7 +246,6 @@ b. de gegevens of inlichtingen door de inspecteur zijn aangewezen als van verstr
 4°. het bedrag van de uitkering of van de verandering in de uitkering.    
 
 ### Artikel  10e  
-Treedt in werking per 01-01-2015 
 
 1.  Als administratieplichtigen als bedoeld in artikel 75, eerste lid, van de Successiewet 1956 worden voor de verstrekking van de gegevens en inlichtingen, bedoeld in het tweede lid, aangewezen: in Nederland gevestigde instellingen die ingevolge artikel 5b, zevende of achtste lid, van de Algemene wet inzake rijksbelastingen niet meer als algemeen nut beogende instelling zijn aangemerkt.   
 2.  Als gegevens en inlichtingen als bedoeld in artikel 75, eerste lid, van de Successiewet 1956 worden aangewezen: 
@@ -329,7 +327,13 @@ c. op grond van één of meer van de volgende criteria van groot nationaal cultu
 
 ### Hoofdstuk  3  
 
-####Slotbepaling
+####Overgangs- en slotbepalingen
+
+### Artikel  15a  
+
+1.  Artikel 10e is niet van toepassing op instellingen die met ingang van een vóór 1 januari 2013 gelegen datum ingevolge artikel 5b, zevende of achtste lid, van de Algemene wet inzake rijksbelastingen niet meer als algemeen nut beogende instelling zijn aangemerkt.   
+2.  Artikel 10e is voor het eerst van toepassing met betrekking tot kalenderjaren na 31 december 2012.   
+3.  De gegevens en inlichtingen over het kalenderjaar 2013 worden, in afwijking in zoverre van artikel 10e, zesde lid, tussen 1 februari 2015 en 1 mei 2015 verstrekt.  
 
 ### Artikel  16  
 

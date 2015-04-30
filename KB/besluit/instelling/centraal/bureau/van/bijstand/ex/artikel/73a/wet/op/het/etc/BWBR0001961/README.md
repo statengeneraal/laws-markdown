@@ -16,7 +16,7 @@ Hebben goedgevonden en verstaan:
 ### Artikel  1  
 
 1.  Door Ons wordt ingesteld een Centraal Bureau van Bijstand, hetwelk de Kamers van Toezicht over de notarissen en candidaat-notarissen zal bijstaan bij het toezicht op de nakoming van de in artikel 73*a* der Wet op het Notarisambt neergelegde verplichting der notarissen tot boekhouding.   
-2.  Op verzoek van het bestuur van het Notarieel Pensioenfonds, bedoeld in [artikel 4 der Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds](../../../../../../../../../../../../../../../wet/wet/tot/invoering/van/een/leeftijdsgrens/voor/het/notarisambt/en/etc/BWBR0002143/README.md), kan Onze Minister van Justitie bepalen, dat het Centraal Bureau ten behoeve en op kosten van dat fonds de werkzaamheden verricht, die het bestuur van het fonds aan het bureau mocht opdragen ter inwinning van gegevens als bedoeld in de artikelen 11 en 12 dier wet.   
+2.  Op verzoek van het bestuur van het Notarieel Pensioenfonds, bedoeld in artikel 4 der Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds, kan Onze Minister van Justitie bepalen, dat het Centraal Bureau ten behoeve en op kosten van dat fonds de werkzaamheden verricht, die het bestuur van het fonds aan het bureau mocht opdragen ter inwinning van gegevens als bedoeld in de artikelen 11 en 12 dier wet.   
 3.  Op verzoek van het bestuur van het Bedrijfspensioenfonds voor de Notarisklerken kan Onze Minister van Justitie bepalen, dat het Centraal Bureau ten behoeve van dat fonds de werkzaamheden verricht, die het bestuur van het fonds aan het bureau mocht opdragen ter inwinning van gegevens welke de bij het fonds aangesloten werkgevers ingevolge artikel 3 der Wet betreffende verplichte deelneming in een bedrijfspensioenfonds verplicht zijn aan het bestuur van het fonds te verstrekken.  
 
 ### Artikel  2  
@@ -108,7 +108,7 @@ Telken jare vóór 1 Mei brengt het Centraal Bureau aan Onzen Minister van Justi
 3.  Onder het bedoelde inkomen worden verstaan alle inkomsten, welke direct of indirect uit de uitoefening van het notariaat voortvloeien. Onder indirecte inkomsten worden o.a. verstaan administratieloon, executeurs- en bewindvoerdersloon, inkomsten uit penningmeesterschappen van polders of waterschappen of uit andere functiën, indien deze geacht moeten worden te zijn verkregen in verband met het notariaat.   
 4.   De omslag geschiedt over hen, die behoren tot klasse *a, b, c, d, e, f, g, h, i,* of *j* in de verhouding 1, 3, 5, 7, 9, 11, 13, 15, 17 en 19.   
 5.  Over het jaar, waarin een notaris zijne bediening aanvaardt of ophoudt notaris te zijn, draagt hij of dragen zijne erven of rechtverkrijgenden niet bij.   
-6.  De omslag behoeft de instemming van Onzen Minister van Justitie. De [artikelen 10:28](../../../../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) tot en met [10:31 van de Algemene wet bestuursrecht](../../../../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+6.  De omslag behoeft de instemming van Onzen Minister van Justitie. De artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
 
 ### Artikel  19  
 

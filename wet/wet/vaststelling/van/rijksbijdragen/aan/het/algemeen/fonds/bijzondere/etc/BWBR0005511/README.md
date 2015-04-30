@@ -12,7 +12,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 ### Artikel  1  
 Materieel uitgewerkt per 21-03-2012 
 
-De rijksbijdrage, bedoeld in [artikel 17 van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) (*Stb.* 1967, 655), zoals dat luidde voorafgaand aan de inwerkingtreding van de Wet aanpassing uitkeringsregelingen overheveling opslagpremies (*Stb.* 1989, 127), bedraagt:  
+De rijksbijdrage, bedoeld in artikel 17 van de Algemene Wet Bijzondere Ziektekosten (*Stb.* 1967, 655), zoals dat luidde voorafgaand aan de inwerkingtreding van de Wet aanpassing uitkeringsregelingen overheveling opslagpremies (*Stb.* 1989, 127), bedraagt:  
 
 | --- | --- | --- |
 |:---|:---|:---|

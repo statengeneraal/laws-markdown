@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Defensie van 31 januari 1991, afdeling arbeidsvoorwaardenbeleid, nr. D 90/096/2197;
 
-Gelet op [artikel 2, vijfde lid, van de Militaire Ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) (*Stb.* 519) en artikel 4 vijfde lid van de Wet rechtstoestand dienstplichtigen (*Stb.* 1971, 231);
+Gelet op artikel 2, vijfde lid, van de Militaire Ambtenarenwet 1931 (*Stb.* 519) en artikel 4 vijfde lid van de Wet rechtstoestand dienstplichtigen (*Stb.* 1971, 231);
 
 De Raad van State gehoord (advies van 15 mei 1991, nr. W07.91.0060);
 
@@ -21,26 +21,26 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 a. de minister: Onze minister van Defensie;  
 
-b. militair ambtenaar: de militair ambtenaar in de zin van [artikel 1 van de Militaire ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md);  
+b. militair ambtenaar: de militair ambtenaar in de zin van artikel 1 van de Militaire ambtenarenwet 1931;  
 
 c. dienstplichtige: de dienstplichtige in de zin van artikel 1, onder *b*, ten 1° en 2° van de Wet rechtstoestand dienstplichtigen;  
 
-d. klager: de militair ambtenaar bedoeld in [artikel 9, eerste lid van de Militaire ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) dan wel de dienstplichtige als bedoeld in artikel 4*b*, eerste lid van de Wet rechtstoestand dienstplichtigen;  
+d. klager: de militair ambtenaar bedoeld in artikel 9, eerste lid van de Militaire ambtenarenwet 1931 dan wel de dienstplichtige als bedoeld in artikel 4*b*, eerste lid van de Wet rechtstoestand dienstplichtigen;  
 
-e. beklag: het schriftelijk beklag bedoeld in [artikel 9, eerste lid van de Militaire ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) dan wel artikel 4*b*, eerste lid van de Wet rechtstoestand dienstplichtigen;  
+e. beklag: het schriftelijk beklag bedoeld in artikel 9, eerste lid van de Militaire ambtenarenwet 1931 dan wel artikel 4*b*, eerste lid van de Wet rechtstoestand dienstplichtigen;  
 
-f. klaagschrift: het klaagschrift als bedoeld in [artikel 9, derde lid van de Militaire ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) dan wel artikel 4*b*, derde lid van de Wet rechtstoestand dienstplichtigen;  
+f. klaagschrift: het klaagschrift als bedoeld in artikel 9, derde lid van de Militaire ambtenarenwet 1931 dan wel artikel 4*b*, derde lid van de Wet rechtstoestand dienstplichtigen;  
 
-g. beklagmeerdere: de tot straffen bevoegde militaire meerdere, als bedoeld in [artikel 49 van de Wet militair tuchtrecht](../../../../../rijkswet/wet/militair/tuchtrecht/BWBR0004788/README.md), onder wiens rechtstreeks bevel degene, tegen wie het klaagschrift is gericht, is gesteld dan wel een door de minister aangewezen functionaris;  
+g. beklagmeerdere: de tot straffen bevoegde militaire meerdere, als bedoeld in artikel 49 van de Wet militair tuchtrecht, onder wiens rechtstreeks bevel degene, tegen wie het klaagschrift is gericht, is gesteld dan wel een door de minister aangewezen functionaris;  
 
-h. vertrouwensman: de vertrouwensman als bedoeld in [artikel 57 van de Wet militair tuchtrecht](../../../../../rijkswet/wet/militair/tuchtrecht/BWBR0004788/README.md).   
+h. vertrouwensman: de vertrouwensman als bedoeld in artikel 57 van de Wet militair tuchtrecht.   
 
 ### Artikel  2  
 
 ####Indiening
 
 1.  Het instellen van beklag geschiedt door middel van het indienen van een met redenen omkleed klaagschrift bij de beklagmeerdere.   
-2.   Het klaagschrift moet langs de hiërarchieke weg worden ingediend binnen zes weken na de dag waarop het bevel bedoeld in [artikel 9, eerste lid van de Militaire Ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md), is gegeven dan wel heeft plaatsgevonden.   
+2.   Het klaagschrift moet langs de hiërarchieke weg worden ingediend binnen zes weken na de dag waarop het bevel bedoeld in artikel 9, eerste lid van de Militaire Ambtenarenwet 1931, is gegeven dan wel heeft plaatsgevonden.   
 3.   Een na afloop van de in het tweede lid genoemde termijn ingediend klaagschrift wordt geacht tijdig te zijn ingediend indien de klager aantoont dat hij het klaagschrift heeft ingediend zo spoedig als redelijkerwijs verlangd kon worden.  
 
 ### Artikel  3  
@@ -52,7 +52,7 @@ h. vertrouwensman: de vertrouwensman als bedoeld in [artikel 57 van de Wet milit
 3.   Tijdens het onderzoek worden de klager, de militaire meerdere tegen wie het beklag is gericht en - voor zover hiervoor termen aanwezig zijn - anderen gehoord.   
 4.   Indien de beklagmeerdere niet zelf het onderzoek naar het klaagschrift verricht, wordt de klager de gelegenheid geboden bij de beklagmeerdere zijn standpunt mondeling nader toe te lichten.   
 5.   Indien het horen door de beklagmeerdere dan wel door de rapporteur niet mogelijk is dan wel op enige bezwaren stuit, kan de beklagmeerdere de tot straffen bevoegde militaire meerdere van degene die moet worden gehoord met het horen belasten.   
-6.   De klager kan zich door een vertrouwensman laten bijstaan. [Artikel 59](../../../../../rijkswet/wet/militair/tuchtrecht/BWBR0004788/README.md), eerste lid, en [artikel 60 van de Wet militair tuchtrecht](../../../../../rijkswet/wet/militair/tuchtrecht/BWBR0004788/README.md) zijn van overeenkomstige toepassing.   
+6.   De klager kan zich door een vertrouwensman laten bijstaan. Artikel 59, eerste lid, en artikel 60 van de Wet militair tuchtrecht zijn van overeenkomstige toepassing.   
 7.   Van het onderzoek wordt een verslag gemaakt.   
 8.   De klager en zijn vertrouwensman hebben het recht op inzage van alle stukken die op de zaak betrekking hebben.  
 
@@ -74,13 +74,13 @@ Beklag is niet mogelijk tegen een op beklag genomen beslissing.
 
 ####Inwerkingtreding
 
-Dit besluit treedt tegelijkertijd in werking met de Wet van 29 augustus 1991 (*Stb.* 478), houdende wijziging van de [Militaire Ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) (*Stb.* 519) en van de Wet rechtstoestand dienstplichtigen (*Stb.* 1971, 231) in verband met Herziening van het militair tuchtrecht ([Wet militair tuchtrecht](../../../../../rijkswet/wet/militair/tuchtrecht/BWBR0004788/README.md)). 
+Dit besluit treedt tegelijkertijd in werking met de Wet van 29 augustus 1991 (*Stb.* 478), houdende wijziging van de Militaire Ambtenarenwet 1931 (*Stb.* 519) en van de Wet rechtstoestand dienstplichtigen (*Stb.* 1971, 231) in verband met Herziening van het militair tuchtrecht (Wet militair tuchtrecht). 
 
 ###Artikel 6a 
 
 ####Grondslag
 
-Dit besluit berust op [artikel 9, vierde lid, van de Militaire ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md).
+Dit besluit berust op artikel 9, vierde lid, van de Militaire ambtenarenwet 1931.
 
 ### Artikel  7  
 

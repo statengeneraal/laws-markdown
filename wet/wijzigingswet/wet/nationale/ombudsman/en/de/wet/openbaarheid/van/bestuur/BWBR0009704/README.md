@@ -17,11 +17,11 @@ Wijzigt de Wet Nationale ombudsman.
 
 1.  Vervallen.    
 2.  Het eerste lid is niet van toepassing indien een aanwijzing als bedoeld in het eerste lid is beëindigd op een datum gelegen voor 1 januari 1998.    
-3.  Het eerste lid vervalt met ingang van de dag, waarop een besluit als bedoeld in [artikel 1b, eerste lid, van de Wet Nationale ombudsman](../../../../../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md) in werking treedt.   
+3.  Het eerste lid vervalt met ingang van de dag, waarop een besluit als bedoeld in artikel 1b, eerste lid, van de Wet Nationale ombudsman in werking treedt.   
 
 ### ARTIKEL  III  
 
-Tot een jaar na de beëindiging van een aanwijzing van bestuursorganen van een provincie, gemeente of waterschap op grond van de [Wet Nationale ombudsman](../../../../../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md), zoals deze wet luidde voor inwerkingtreding van deze wet, kan met betrekking tot een gedraging van het desbetreffende bestuursorgaan die heeft plaatsgevonden voordat de aanwijzing werd beëindigd, een verzoekschrift als bedoeld in [artikel 12 bij de Nationale ombudsman](../../../../../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md) worden ingediend.  
+Tot een jaar na de beëindiging van een aanwijzing van bestuursorganen van een provincie, gemeente of waterschap op grond van de Wet Nationale ombudsman, zoals deze wet luidde voor inwerkingtreding van deze wet, kan met betrekking tot een gedraging van het desbetreffende bestuursorgaan die heeft plaatsgevonden voordat de aanwijzing werd beëindigd, een verzoekschrift als bedoeld in artikel 12 bij de Nationale ombudsman worden ingediend.  
 
 ### ARTIKEL  IV  
 

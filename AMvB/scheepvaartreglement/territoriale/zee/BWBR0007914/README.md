@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 12 juli 1995, nr. S/J 13.399/95, Directoraat-Generaal Scheepvaart en Maritieme Zaken; 
 
-Gelet op de [artikelen 4, eerste, en derde lid](../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), [12](../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), [18](../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), [31, tiende lid](../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), en [36 van de Scheepvaartverkeerswet](../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md); 
+Gelet op de artikelen 4, eerste, en derde lid, 12, 18, 31, tiende lid, en 36 van de Scheepvaartverkeerswet; 
 
 De Raad van State gehoord (advies van 11 september 1995, nr. W09.95.0353); 
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 ###Artikel 1 
 
-1. Onverminderd de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972 (*Trb.* 1974, 51), zoals gewijzigd, is dit besluit van toepassing in het gedeelte van de territoriale zee dat zeewaarts is gelegen van de lijn, zoals beschreven in [artikel 4, eerste lid, van het besluit van 7 november 1989, houdende het van toepassing verklaren van de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972 (*Stb.* 502)](../../../../../AMvB/besluit/toepassingverklaring/internationale/bepalingen/ter/voorkoming/van/etc/BWBR0004644/README.md), behoudens dat gedeelte van de territoriale zee dat gemeentelijk is ingedeeld. 
+1. Onverminderd de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972 (*Trb.* 1974, 51), zoals gewijzigd, is dit besluit van toepassing in het gedeelte van de territoriale zee dat zeewaarts is gelegen van de lijn, zoals beschreven in artikel 4, eerste lid, van het besluit van 7 november 1989, houdende het van toepassing verklaren van de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972 (*Stb.* 502), behoudens dat gedeelte van de territoriale zee dat gemeentelijk is ingedeeld. 
 2. Het eerste lid is, voor wat de uitzondering van de toepasselijkheid in het gemeentelijk ingedeelde deel van de territoriale zee betreft, niet van toepassing ten aanzien van: 
 
 a.de verkeerstekens die zijn opgenomen in de bij dit besluit behorende bijlage 2; 
@@ -91,7 +91,7 @@ c. de veiligheid of het vlotte verloop van de scheepvaart in gevaar wordt gebrac
 
 ####Uitluister- en communicatieplicht
 
-1.  De kapitein van een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert of een zeeschip met een bruto-tonnage als bedoeld in de [Meetbrievenwet 1981](../../../../../wet/meetbrievenwet/1981/BWBR0003378/README.md) van 300 of meer, meldt zich voordat hij de Nederlandse territoriale zee binnenvaart op het bij ministeriële regeling aangewezen marifoonkanaal aan de bevoegde autoriteit.   
+1.  De kapitein van een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert of een zeeschip met een bruto-tonnage als bedoeld in de Meetbrievenwet 1981 van 300 of meer, meldt zich voordat hij de Nederlandse territoriale zee binnenvaart op het bij ministeriële regeling aangewezen marifoonkanaal aan de bevoegde autoriteit.   
 2.  De kapitein van een schip, bedoeld in het eerste lid, en van ieder ander schip dat is uitgerust met een marifoon, luistert in een aanloopgebied uit en neemt, indien nodig, op het eerste lid bedoelde marifoonkanaal aan ter plaatse gevoerde communicatie deel. 
 
 ###Artikel 5a 
@@ -246,19 +246,19 @@ Overtreding van de bij of krachtens dit besluit vastgestelde regels, alsmede ove
 
 ####Wijzigingen in andere besluiten
 
-####Wijzigingen [Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](../../../../../AMvB/scheepvaartreglement/voor/het/kanaal/van/gent/naar/terneuzen/BWBR0005315/README.md) 
+####Wijzigingen Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen 
 
 ### Artikel  21  
 
 Wijzigt het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen.  
 
-####Wijzigingen [Scheepvaartreglement Westerschelde 1990](../../../../../AMvB/scheepvaartreglement/westerschelde/1990/BWBR0005393/README.md) 
+####Wijzigingen Scheepvaartreglement Westerschelde 1990 
 
 ### Artikel  22  
 
 Wijzigt het Scheepvaartreglement Westerschelde 1990.  
 
-####Wijzigingen [Besluit administratieve bepalingen scheepvaartverkeer](../../../../../AMvB/besluit/administratieve/bepalingen/scheepvaartverkeer/BWBR0006309/README.md) 
+####Wijzigingen Besluit administratieve bepalingen scheepvaartverkeer 
 
 ### Artikel  23  
 
@@ -270,7 +270,7 @@ Wijzigt het Besluit administratieve bepalingen scheepvaartverkeer.
 
 Wijzigt het Besluit houdende regelen met betrekking tot de bevoegdheid tot het geven van verkeersinformatie dan wel verkeersaanwijzingen en de daartoe aan de bevoegde personen te stellen eisen.  
 
-####Wijziging [Vaststellingsbesluit Binnenvaartpolitiereglement](../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) 
+####Wijziging Vaststellingsbesluit Binnenvaartpolitiereglement 
 
 ### Artikel  25  
 
@@ -308,7 +308,7 @@ Het Besluit informatieverstrekking schepen met bepaalde stoffen wordt ingetrokke
 
 ###Artikel 30 
 
-Na inwerkingtreding van artikel 22, onderdeel D, van dit besluit, berust de bekendmaking aan de Scheepvaart Scheldemond «Marifoonblokindeling» van de Rijkshavenmeester Westerschelde van 4 november 1994, nr. Bass 134/94 (*Stcrt.* 216) op [artikel 51, eerste, en tweede lid, van het Scheepvaartreglement Westerschelde 1990](../../../../../AMvB/scheepvaartreglement/westerschelde/1990/BWBR0005393/README.md). 
+Na inwerkingtreding van artikel 22, onderdeel D, van dit besluit, berust de bekendmaking aan de Scheepvaart Scheldemond «Marifoonblokindeling» van de Rijkshavenmeester Westerschelde van 4 november 1994, nr. Bass 134/94 (*Stcrt.* 216) op artikel 51, eerste, en tweede lid, van het Scheepvaartreglement Westerschelde 1990. 
 
 ####Inwerkingtreding
 

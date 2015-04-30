@@ -6,9 +6,9 @@ Wij Juliana, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Defensie, C. L. J. van Lent, van 27 februari 1979, afdeling pensioenen en wachtgelden, nr. P.130087/11-T;
 
-Overwegende dat het wenselijk is het geneeskundig onderzoek, waaraan de verzetsmilitair en de ondergedoken militair in de zin van de [Wet verbetering rechtspositie verzetsmilitairen](../../../../../../../../../../wet/wet/verbetering/rechtspositie/verzetsmilitairen/BWBR0003015/README.md) (*Stb.* 1976, 19) onderworpen dienen te worden in geval van ziekten of gebreken, te doen plaatsvinden op een wijze die nauw aansluit bij de wijze waarop het geneeskundig onderzoek bij de uitvoering van de [Wet buitengewoon pensioen 1940-1945](../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md) (*Stb.* 1977, 493) geschiedt;
+Overwegende dat het wenselijk is het geneeskundig onderzoek, waaraan de verzetsmilitair en de ondergedoken militair in de zin van de Wet verbetering rechtspositie verzetsmilitairen (*Stb.* 1976, 19) onderworpen dienen te worden in geval van ziekten of gebreken, te doen plaatsvinden op een wijze die nauw aansluit bij de wijze waarop het geneeskundig onderzoek bij de uitvoering van de Wet buitengewoon pensioen 1940-1945 (*Stb.* 1977, 493) geschiedt;
 
-Gelet op de [artikelen 3 en 8 van de Wet verbetering rechtspositie verzetsmilitairen](../../../../../../../../../../wet/wet/verbetering/rechtspositie/verzetsmilitairen/BWBR0003015/README.md), alsmede op artikel T 1 van de Algemene militaire pensioenwet;
+Gelet op de artikelen 3 en 8 van de Wet verbetering rechtspositie verzetsmilitairen, alsmede op artikel T 1 van de Algemene militaire pensioenwet;
 
 De Raad van State gehoord (advies van 28 maart 1979 nr. 9);
 
@@ -19,13 +19,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:  
 
-a. "de wet": de [Wet verbetering rechtspositie verzetsmilitairen](../../../../../../../../../../wet/wet/verbetering/rechtspositie/verzetsmilitairen/BWBR0003015/README.md);  
+a. "de wet": de Wet verbetering rechtspositie verzetsmilitairen;  
 
 b. "pensioenwet": de Algemene militaire pensioenwet;  
 
 c. "Onze Minister": Onze Minister van Defensie;  
 
-d. "betrokkene": de verzetsmilitair dan wel de ondergedoken militair, zoals bedoeld in de [Wet verbetering rechtspositie verzetsmilitairen](../../../../../../../../../../wet/wet/verbetering/rechtspositie/verzetsmilitairen/BWBR0003015/README.md);  
+d. "betrokkene": de verzetsmilitair dan wel de ondergedoken militair, zoals bedoeld in de Wet verbetering rechtspositie verzetsmilitairen;  
 
 e. "geneeskundige autoriteit": de Directeur Militair Geneeskundige Diensten;  
 

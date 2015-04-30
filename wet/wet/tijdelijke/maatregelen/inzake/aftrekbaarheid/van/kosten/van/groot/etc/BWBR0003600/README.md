@@ -35,7 +35,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  Voor de toepassing van artikel 42*a,* eerste lid, aanhef en letter *b,* van de Wet op de inkomstenbelasting 1964 worden, in afwijking in zoverre van het in letter *b* van dat lid bepaalde, kosten ter zake van het grote onderhoud van een eigen woning die de belastingplichtige reeds ten minste een jaar als hoofdverblijf ter beschikking staat in aanmerking genomen voor zover:  
 
-a. het grote onderhoud door een ondernemer als is bedoeld in [artikel 7 van de Wet op de omzetbelasting 1968](../../../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) (*Stb.* 329) wordt uitgevoerd voor 1 januari 1986 ingevolge een op of na 1 januari 1983 verstrekte opdracht;  
+a. het grote onderhoud door een ondernemer als is bedoeld in artikel 7 van de Wet op de omzetbelasting 1968 (*Stb.* 329) wordt uitgevoerd voor 1 januari 1986 ingevolge een op of na 1 januari 1983 verstrekte opdracht;  
 
 b. de kosten blijken uit facturen welke voldoen aan de in het vierde lid vermelde vereisten; en  
 
@@ -62,7 +62,7 @@ d. het tijdvak waarin en de woning waaraan de werkzaamheden zijn uitgevoerd; en
 
 e. een specificatie van de in dat tijdvak verrichte diensten en daarvoor geleverde goederen en van de voor die diensten en goederen verschuldigde vergoeding.     
 5.   Kosten ter zake van het grote onderhoud die als aftrekbare kosten in aanmerking komen ingevolge zowel dit artikel als artikel 42*a,* vijfde lid, van de Wet op de inkomstenbelasting 1964 worden slechts eenmaal in aanmerking genomen en wel op de voet van de bepaling die voor de belastingplichtige tot de gunstigste uitkomst leidt.   
-6.   Met betrekking tot een eigen woning die is ingeschreven in het register als is bedoeld in [artikel 10 van de Monumentenwet](../../../../../../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) (*Stb.* 1961, 200) vindt het eerste lid, eerste volzin, uitsluitend toepassing op de ingevolge het tweede lid als aftrekbare kosten aan te merken kosten van thermische isolatie, met dien verstande dat voor het in aanmerking nemen van deze kosten, in afwijking in zoverre van het bepaalde in het derde lid, niet de beperking geldt dat zij alleen aftrekbaar zijn voor zover de kosten te zamen het in dat lid, letter *a,* voor de woning gestelde minimumbedrag overschrijden.   
+6.   Met betrekking tot een eigen woning die is ingeschreven in het register als is bedoeld in artikel 10 van de Monumentenwet (*Stb.* 1961, 200) vindt het eerste lid, eerste volzin, uitsluitend toepassing op de ingevolge het tweede lid als aftrekbare kosten aan te merken kosten van thermische isolatie, met dien verstande dat voor het in aanmerking nemen van deze kosten, in afwijking in zoverre van het bepaalde in het derde lid, niet de beperking geldt dat zij alleen aftrekbaar zijn voor zover de kosten te zamen het in dat lid, letter *a,* voor de woning gestelde minimumbedrag overschrijden.   
 7.   Kosten van schilderwerk die als aftrekbare kosten in aanmerking komen ingevolge zowel dit artikel als artikel 42*a,* zesde lid, van de Wet op de inkomstenbelasting 1964 worden slechts eenmaal in aanmerking genomen en wel op de voet van de bepaling die voor de belastingplichtige tot de gunstigste uitkomst leidt.  
 
 ### Artikel  3  

@@ -745,7 +745,7 @@ De gedetineerde ontvangt bij invrijheidstelling reisgeld voor een reis of reisge
 
 ### Artikel  47  
 
-Onverminderd het bepaalde bij of krachtens de Algemene Wet Bijzondere Ziektekosten komen ten laste van de Staat de kosten van geneeskundige verzorging van de gedetineerde die in een inrichting gevangenisstraf of hechtenis ondergaat.  
+Onverminderd het bepaalde bij of krachtens de Wet langdurige zorg komen ten laste van de Staat de kosten van geneeskundige verzorging van de gedetineerde die in een inrichting gevangenisstraf of hechtenis ondergaat.  
 
 ### Artikel  48  
 

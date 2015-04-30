@@ -252,7 +252,7 @@ Op basis van de Wegenverkeerswet afgegeven rijbewijzen die op het tijdstip van i
 
 ### Artikel  51  
 
-De artikelen 18, 18*a*  en 18*b* van de Wegenverkeerswet blijven van kracht ten aanzien van de gevallen waarin op het tijdstip van inwerkingtreding van de artikelen 130 tot en met 134 van de Wegenverkeerswet 1994 op de voet van artikel 18 van de Wegenverkeerswet van de houder van een geldig rijbewijs is gevorderd dat hij zich onderwerpt aan een onderzoek naar zijn rijvaardigheid dan wel naar zijn geschiktheid.  
+De artikelen 18, 18*a* en 18*b* van de Wegenverkeerswet blijven van kracht ten aanzien van de gevallen waarin op het tijdstip van inwerkingtreding van de artikelen 130 tot en met 134 van de Wegenverkeerswet 1994 op de voet van artikel 18 van de Wegenverkeerswet van de houder van een geldig rijbewijs is gevorderd dat hij zich onderwerpt aan een onderzoek naar zijn rijvaardigheid dan wel naar zijn geschiktheid.  
 
 ### Artikel  52  
 
@@ -260,7 +260,7 @@ Ten aanzien van rijbewijzen die ingevolge artikel 19 van de Wegenverkeerswet die
 
 ### Artikel  53  
 
-Op basis van de Wegenverkeerswet afgegeven rijbewijzen die vóór het tijdstip van inwerkingtreding van de artikelen 107 tot en met 134 van de Wegenverkeerswet 1994, met toepassing van artikel 10*a*  of artikel 18*b*, vierde, vijfde of zevende lid, van de Wegenverkeerswet, voor één of meer categorieën van motorrijtuigen dan wel voor een gedeelte van de geldigheidsduur ongeldig zijn verklaard, worden voor de toepassing van artikel 9, tweede lid, van de Wegenverkeerswet 1994 aangemerkt als rijbewijzen die met toepassing van artikel 124, artikel 132, tweede lid, of artikel 134, derde lid, van de Wegenverkeerswet 1994 ongeldig zijn verklaard.  
+Op basis van de Wegenverkeerswet afgegeven rijbewijzen die vóór het tijdstip van inwerkingtreding van de artikelen 107 tot en met 134 van de Wegenverkeerswet 1994, met toepassing van artikel 10*a* of artikel 18*b*, vierde, vijfde of zevende lid, van de Wegenverkeerswet, voor één of meer categorieën van motorrijtuigen dan wel voor een gedeelte van de geldigheidsduur ongeldig zijn verklaard, worden voor de toepassing van artikel 9, tweede lid, van de Wegenverkeerswet 1994 aangemerkt als rijbewijzen die met toepassing van artikel 124, artikel 132, tweede lid, of artikel 134, derde lid, van de Wegenverkeerswet 1994 ongeldig zijn verklaard.  
 
 ### Artikel  54  
 

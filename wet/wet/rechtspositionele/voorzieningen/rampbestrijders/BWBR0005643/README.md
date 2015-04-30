@@ -20,7 +20,7 @@ a. Onze Minister: Onze Minister van Binnenlandse Zaken;
 
 b. rampbestrijdingsdienst: het deelnemen aan  
 
-1°. het bestrijden van een ramp of een zwaar ongeval nadat de [artikelen 53](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) en [54 van de Wet veiligheidsregio’s](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) in werking zijn gesteld;   
+1°. het bestrijden van een ramp of een zwaar ongeval nadat de artikelen 53 en 54 van de Wet veiligheidsregio’s in werking zijn gesteld;   
 
 2°. een oefening ter voorbereiding op de bestrijding van rampen en zware ongevallen in geval van buitengewone omstandigheden, aan het houden waarvan Onze Minister zijn goedkeuring heeft gehecht;   
 
@@ -32,7 +32,7 @@ c. rampbestrijder: degene die
 
 1°. bij wijze van beroep   
 
-2°. als vrijwilliger    de rampbestrijdingsdienst vervult of heeft vervuld bij een gemeentelijke of regionale brandweer, bij een basisgezondheidsdienst, bij een Regionale Ambulancevoorziening, bij een gemeenschappelijke meldkamer, bij het Nederlandse Rode Kruis of bij een instelling, zorgaanbieder, of gezondheidsdienst als bedoeld in [artikel 33, eerste lid, van de Wet veiligheidsregio’s](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md);   
+2°. als vrijwilliger    de rampbestrijdingsdienst vervult of heeft vervuld bij een gemeentelijke of regionale brandweer, bij een basisgezondheidsdienst, bij een Regionale Ambulancevoorziening, bij een gemeenschappelijke meldkamer, bij het Nederlandse Rode Kruis of bij een instelling, zorgaanbieder, of gezondheidsdienst als bedoeld in artikel 33, eerste lid, van de Wet veiligheidsregio’s;   
 
 d. zijn gewone werk: de werkzaamheden die de rampbestrijder voorafgaande aan de rampbestrijdingsdienst gewoonlijk in de uitoefening van zijn bedrijf of beroep heeft verricht;   
 
@@ -61,12 +61,12 @@ Aanspraken aan deze wet, met uitzondering van artikel 28, kunnen slechts worden 
 
 ### Artikel  5  
 
-1.  Een uitkering als bedoeld in de hoofdstukken II, III, IV en artikel 29 bedraagt per maand niet meer dan een twaalfde deel van 260 maal het in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) bedoelde bedrag, met betrekking tot een loontijdvak van een dag.    
+1.  Een uitkering als bedoeld in de hoofdstukken II, III, IV en artikel 29 bedraagt per maand niet meer dan een twaalfde deel van 260 maal het in artikel 17, eerste lid, van de Wet financiering sociale verzekeringen bedoelde bedrag, met betrekking tot een loontijdvak van een dag.    
 2.   Voor de toepassing van het eerste lid blijft de aanvullende uitkering, bedoeld in artikel 16, buiten beschouwing.   
 
 ### Artikel  6  
 
-Een uitkering als bedoeld in de hoofdstukken II, III en IV bedraagt per maand niet minder dan de som van de desbetreffende uitkering en de toeslag die in aanvulling daarop zou worden verleend, indien die uitkering zou zijn aangemerkt als een loondervingsuitkering in de zin van de [Toeslagenwet](../../../../../../wet/toeslagenwet/BWBR0004043/README.md) (*Stb.* 1987, 91).  
+Een uitkering als bedoeld in de hoofdstukken II, III en IV bedraagt per maand niet minder dan de som van de desbetreffende uitkering en de toeslag die in aanvulling daarop zou worden verleend, indien die uitkering zou zijn aangemerkt als een loondervingsuitkering in de zin van de Toeslagenwet (*Stb.* 1987, 91).  
 
 ### Hoofdstuk  II  
 
@@ -80,7 +80,7 @@ a. door ziekten of gebreken ontstaan tijdens de rampbestrijdingsdienst, verhinde
 
 b. door ziekten of gebreken die ontstaan zijn binnen 6 maanden na beëindiging van de rampbestrijdingsdienst en die in overwegende mate hun oorzaak vinden in de rampbestrijdingsdienst, verhinderd wordt zijn gewone werk te verrichten.      
 2.   De ziekengelduitkering, bedoeld in het eerste lid, bedraagt gedurende 12 maanden 100% van de grondslag en daarna gedurende 6 maanden 80% van de grondslag.    
-3.   In afwijking van het tweede lid eindigt de ziekengelduitkering met ingang van de eerste dag van de maand volgende op die waarin de rampbestrijder de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt.   
+3.   In afwijking van het tweede lid eindigt de ziekengelduitkering met ingang van de eerste dag van de maand volgende op die waarin de rampbestrijder de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt.   
 
 ### Artikel  8  
 
@@ -155,7 +155,7 @@ Onze Minister wijzigt de invaliditeitsuitkering overeenkomstig de wijziging van 
 
 ### Artikel  18  
 
-De invaliditeitsuitkering eindigt met ingang van de eerste dag van de maand volgende op die waarin de rampbestrijder de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt.  
+De invaliditeitsuitkering eindigt met ingang van de eerste dag van de maand volgende op die waarin de rampbestrijder de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt.  
 
 ### Artikel  19  
 
@@ -170,7 +170,7 @@ De invaliditeitsuitkering eindigt met ingang van de eerste dag van de maand volg
 
 1.  De weduwe van de rampbestrijder die tijdens de rampbestrijdingsdienst is komen te overlijden, heeft recht op een weduwenuitkering.    
 2.   Indien het overlijden binnen twee jaar na beëindiging van de rampbestrijdingsdienst plaatsvindt, bestaat eveneens recht op een weduwenuitkering indien het overlijden in overwegende mate zijn oorzaak vindt in de rampbestrijdingsdienst.    
-3.   Het recht op een weduwenuitkering eindigt met ingang van de eerste dag van de maand volgende op die waarin de weduwe de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt.   
+3.   Het recht op een weduwenuitkering eindigt met ingang van de eerste dag van de maand volgende op die waarin de weduwe de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt.   
 
 ### Artikel  21  
 
@@ -215,8 +215,8 @@ b. voor elk ander kind 20% van de grondslag.
 
 1. Onder grondslag worden in deze wet en de daarop berustende bepalingen verstaan de inkomsten uit of in verband met zijn gewone werk, die de rampbestrijder in het jaar onmiddellijk voorafgaande aan het tijdstip waarop het recht op een uitkering krachtens deze wet is ontstaan, heeft genoten. 
 2.  Indien de rampbestrijder in het jaar, bedoeld in het eerste lid, geen inkomsten uit of in verband met zijn gewone werk heeft genoten, wordt onder grondslag verstaan twaalf maal het bedrag waarop hij op grond van artikel 28, eerste lid, recht heeft. Ten aanzien van de rampbestrijder die minder dan tien uren rampbestrijdingsdienst heeft vervuld, wordt voor de berekening van het bedrag, bedoeld in de eerste volzin, het aantal uren gesteld op 10. 
-3.  Indien de inkomsten, bedoeld in het eerste lid, voortkomen uit of verband houden met de uitoefening van een vrij beroep of eigen bedrijf, worden onder inkomsten verstaan de winst uit een of meer ondernemingen, bedoeld in [artikel 3.8 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). 
-4.  Indien de rampbestrijder in het jaar, bedoeld in het eerste lid, zijn gewone werk verrichtte in een publiekrechtelijke of privaatrechtelijke rechtsbetrekking, is [artikel 16 van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) van overeenkomstige toepassing. 
+3.  Indien de inkomsten, bedoeld in het eerste lid, voortkomen uit of verband houden met de uitoefening van een vrij beroep of eigen bedrijf, worden onder inkomsten verstaan de winst uit een of meer ondernemingen, bedoeld in artikel 3.8 van de Wet inkomstenbelasting 2001. 
+4.  Indien de rampbestrijder in het jaar, bedoeld in het eerste lid, zijn gewone werk verrichtte in een publiekrechtelijke of privaatrechtelijke rechtsbetrekking, is artikel 16 van de Wet financiering sociale verzekeringen van overeenkomstige toepassing. 
 5.  Indien in de bezoldiging van het rijkspersoneel een wijziging wordt aangebracht en wordt bepaald in hoeverre deze wijziging een algemeen karakter draagt, wordt de grondslag in overeenkomstige mate aangepast aan de bezoldigingswijziging voor zover deze dat algemeen karakter heeft. 
 
 ### Hoofdstuk  VI  
@@ -232,7 +232,7 @@ b. voor elk ander kind 20% van de grondslag.
 
 1. De rampbestrijder, bedoeld in artikel 1, onder *c*, ten tweede, die tijdens de rampbestrijdingsdienst, bedoeld in artikel 1, onder *b*, ten eerste, ten derde en ten vierde, en artikel 3, loon of inkomsten uit zijn gewone werk derft, alsmede de rampbestrijder, bedoeld in artikel 2, die tijdens de rampbestrijdingsdienst, bedoeld in artikel 1, onder *b*, ten eerste, en artikel 3, loon of inkomsten uit zijn gewone werk derft, hebben onverminderd artikel 5 recht op een uitkering met betrekking tot hetgeen zij ter zake derven die gelijk is aan: 
 
-a.het bedrag van het werkelijk gederfde loon in de zin van [hoofdstuk 3 van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), al naar gelang zij hun gewone werk in loondienst uitoefenen of tot deze categorie gerekend kunnen worden; 
+a.het bedrag van het werkelijk gederfde loon in de zin van hoofdstuk 3 van de Wet financiering sociale verzekeringen, al naar gelang zij hun gewone werk in loondienst uitoefenen of tot deze categorie gerekend kunnen worden; 
 
 b.het bedrag van de werkelijk gederfde inkomsten, al naar gelang zij hun gewone werk door zelfstandige beroepsuitoefening of door het voeren van een eigen bedrijf verrichten; 
 
@@ -333,13 +333,13 @@ Bij algemene maatregel van bestuur worden regels gegeven betreffende de wijze wa
 
 ### Artikel  46a  
 
-Voorzover de grondslag, bedoeld in artikel 27, moet worden bepaald over een aan het kalenderjaar 2001 voorafgaand kalenderjaar, wordt voor de toepassing van het derde lid van dat artikel onder winst uit een of meer ondernemingen, bedoeld in [artikel 3.8 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) verstaan winst uit onderneming als bedoeld in de Wet op de inkomstenbelasting 1964. 
+Voorzover de grondslag, bedoeld in artikel 27, moet worden bepaald over een aan het kalenderjaar 2001 voorafgaand kalenderjaar, wordt voor de toepassing van het derde lid van dat artikel onder winst uit een of meer ondernemingen, bedoeld in artikel 3.8 van de Wet inkomstenbelasting 2001 verstaan winst uit onderneming als bedoeld in de Wet op de inkomstenbelasting 1964. 
 
 ### Artikel  47  
 
 1.  De Wet op de noodwachten (*Stb.* 1971, 61) wordt ingetrokken.    
 2.   De noodwachter, genoemd in artikel 7 van de Wet op de noodwachten, diens nagelaten betrekking of diens rechtsverkrijgende, en de groepen van personen die op grond van artikel 171 van die wet bij of krachtens algemene maatregel van bestuur zijn aangewezen, die de dag voorafgaande aan de datum van inwerkingtreding van deze wet aanspraak hebben op een uitkering of voorziening krachtens die genoemde wet, of binnen een jaar na de datum van inwerkingtreding van deze wet een verzoek om toekenning van een in de Wet op de noodwachten genoemde uitkering of voorziening hebben ingediend, hebben aanspraak op een met bedoelde uitkering of voorziening overeenkomende, in deze wet geregelde uitkering of voorziening. Deze wet is hierbij zoveel mogelijk van overeenkomstige toepassing.    
-3.   Degene die op de dag voorafgaand aan de datum van inwerkingtreding van de [Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md) ingevolge een opdracht van een daartoe aangewezen gezag als reserve werkzaamheden heeft verricht bij de rijks- of gemeentepolitie en op die dag aanspraak had op een in deze wet geregelde uitkering of voorziening dan wel binnen een jaar na die datum een verzoek om toekenning van een zodanige uitkering of voorziening heeft ingediend, heeft aanspraak op een met bedoelde uitkering of voorziening overeenkomende, in deze wet geregelde uitkering of voorziening. Deze wet is hierbij zoveel mogelijk van overeenkomstige toepassing.    
+3.   Degene die op de dag voorafgaand aan de datum van inwerkingtreding van de Politiewet 1993 ingevolge een opdracht van een daartoe aangewezen gezag als reserve werkzaamheden heeft verricht bij de rijks- of gemeentepolitie en op die dag aanspraak had op een in deze wet geregelde uitkering of voorziening dan wel binnen een jaar na die datum een verzoek om toekenning van een zodanige uitkering of voorziening heeft ingediend, heeft aanspraak op een met bedoelde uitkering of voorziening overeenkomende, in deze wet geregelde uitkering of voorziening. Deze wet is hierbij zoveel mogelijk van overeenkomstige toepassing.    
 4.   Degene die krachtens het tweede lid dan wel het derde lid aanspraak heeft op een in deze wet geregelde uitkering of voorziening, heeft, in voorkomend geval, recht op het verschil tussen de even bedoelde uitkering of voorziening en de uitkering of voorziening waarop hij aanspraak gehad zou hebben indien de in het eerste lid bedoelde wet niet zou zijn ingetrokken.   
 
 ### Artikel  48  

@@ -21,15 +21,15 @@ de beroepsgerichte programma’s in de kaderberoepsgerichte en gemengde leerweg.
 
 Het Centraal schriftelijk en praktisch examen (cspe) in de basisberoepsgerichte leerweg (BB) is een examenvorm voor de beroepsgerichte programma’s (afdelingsvakken en intrasectorale programma’s), waarbij de vaktheorie en praktijk geïntegreerd worden getoetst. Cspe is een samentrekking van cse (centraal schriftelijk examen) en cpe (centraal praktisch examen). Omdat de praktijkopdrachten centraal staan, vergt het cspe een vergelijkbare organisatie als het cpe.De minister heeft besloten dat het cspe in 2005 de enige vorm is van het centraal examen beroepsgericht BB. U zie hiervoor de eerder genoemde brief aan de Tweede Kamer.In 2004 is de keuze aan de scholen: óf cpe BB/cse BB óf cspe BB. Deze keuze kan per beroepsgericht programma verschillen. Wat niet kan is dat binnen één beroepsgericht vak een gedeelte van de BB-leerlingen het cspe aflegt, terwijl de overige leerlingen cpe en cse doen.Iedere vmbo-school maakt per beroepsgericht programma de keuze bekend via het inschrijfformulier van de IB-groep waarmee de centrale examens besteld worden. Dit inschrijfformulier moet uiterlijk 1 november 2003 bij de IB-groep ingeleverd zijn.De regelingen die de scholen de mogelijkheid bieden om in 2004 te kiezen voor het cspe zijn gepubliceerd in Uitleg Gele katern nr. 19 van 10 september 2003:
 
-de regeling [’Kaders cspe 2004 vmbo’](../../../../../../../../../../../../../../ministeriele-regeling/kaders/cspe/2004/vmbo/BWBR0015465/README.md),
+de regeling ’Kaders cspe 2004 vmbo’,
 
-de [regeling ’Examencondities cspe 2004’](../../../../../../../../../../../../../../ministeriele-regeling/regeling/examencondities/cspe/2004/BWBR0015518/README.md).Het bulletin vmbo-speciaal dat op 17 september 2003 tegelijkertijd met Uitleg is verschenen, is geheel gewijd aan het cspe. In het bijzonder wordt ingegaan op de wijze waarop de vmbo-scholen zich voor kunnen bereiden op de keuze voor cspe BB dan wel cpe BB/cse BB.
+de regeling ’Examencondities cspe 2004’.Het bulletin vmbo-speciaal dat op 17 september 2003 tegelijkertijd met Uitleg is verschenen, is geheel gewijd aan het cspe. In het bijzonder wordt ingegaan op de wijze waarop de vmbo-scholen zich voor kunnen bereiden op de keuze voor cspe BB dan wel cpe BB/cse BB.
 ###Mavo en vbo
 
 In 2004 worden nog slechts in zeer uitzonderlijke gevallen mavo en vbo-examens afgenomen. Zie de toelichting bij de formulieren voor het bestellen van examenopgaven.
 ###Havo/vwo
 
-Voor het havo/vwo gaat in 2003/2004 de [Regeling profielen 2003](../../../../../../../../../../../../../../ministeriele-regeling/regeling/profielen/2003/BWBR0015081/README.md) gelden.
+Voor het havo/vwo gaat in 2003/2004 de Regeling profielen 2003 gelden.
 ###I.2 
 
 ####Het Examenblad
@@ -61,13 +61,13 @@ In 2004 is het Wekenfeest op 26 en 27 mei. Een Joodse kandidaat die op deze dage
 
 ####Wetten en Algemene maatregelen van Bestuur
 
-1[Wet op het voortgezet onderwijs](../../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), zoals gewijzigd door de wet van 2 oktober 2002, Stbl. 2002, 288.
+1Wet op het voortgezet onderwijs, zoals gewijzigd door de wet van 2 oktober 2002, Stbl. 2002, 288.
 
-2[Inrichtingsbesluit W.V.O.](../../../../../../../../../../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md), 28 juli 2001, Stbl. 358, incl. wijziging toelating 4 havo, Stbl. 2003, 106.
+2Inrichtingsbesluit W.V.O., 28 juli 2001, Stbl. 358, incl. wijziging toelating 4 havo, Stbl. 2003, 106.
 
-3[Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. 1989](../../../../../../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), Stbl. 327, inclusief wijziging vmbo, Stbl. 2003, 106.
+3Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. 1989, Stbl. 327, inclusief wijziging vmbo, Stbl. 2003, 106.
 
-4[Besluit staatsexamens v.w.o.-h.a.v.o.-m.a.v.o. 2000](../../../../../../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md), Stbl. 623, inclusief wijziging vmbo, Stbl. 2003, 106.Wijziging op korte termijn
+4Besluit staatsexamens v.w.o.-h.a.v.o.-m.a.v.o. 2000, Stbl. 623, inclusief wijziging vmbo, Stbl. 2003, 106.Wijziging op korte termijn
 
 5Wijziging Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o., i.v.m. eindexamen leerwerktrajecten vmbo.
 ###II.2 
@@ -85,27 +85,27 @@ In 2004 is het Wekenfeest op 26 en 27 mei. Een Joodse kandidaat die op deze dage
 
 Voor examenprogramma’s wordt verwezen naar: www.eindexamen.nl
 
-9[Gedifferentieerde afsluiting en doubleren in de tweede fase vwo/havo](../../../../../../../../../../../../../../beleidsregel/gedifferentieerde/afsluiting/en/doubleren/in/de/tweede/fase/vwohavo/BWBR0010072/README.md). VO/BOB 98/52308, Gele katern nr. 30C van 16 december 1998.
+9Gedifferentieerde afsluiting en doubleren in de tweede fase vwo/havo. VO/BOB 98/52308, Gele katern nr. 30C van 16 december 1998.
 
 10Regeling tijdelijke maatregelen profielen vwo/havo (leerlingen 1999, 2000 en 2001). VO/BOB-2000/10201, Gele katern nr. 9 van 29 maart 2000.
 
 11Aanpassing verlichtingsmaatregelen profielen havo/vwo, VO/BOB/2001/28277, Gele katern nr.18a van 25 juli 2001.
 
-12[Profielen havo/vwo: vakken en deelvakken](../../../../../../../../../../../../../../beleidsregel/profielen/havovwo/vakken/en/deelvakken/BWBR0012310/README.md), VO/BOB/2001/9806 van 9 maart 2001, Gele katern nr. 8 van 21 maart 2001.
+12Profielen havo/vwo: vakken en deelvakken, VO/BOB/2001/9806 van 9 maart 2001, Gele katern nr. 8 van 21 maart 2001.
 
-13[Regeling modellen diploma’s v.w.o.-h.a.v.o. profiel](../../../../../../../../../../../../../../ministeriele-regeling/regeling/modellen/diploma's/v.w.o.-/h.a.v.o./profiel/BWBR0012308/README.md) VO/BOB/2001/10037 van 9 maart 2001, Gele katern nr. 8 van 21 maart 2001.
+13Regeling modellen diploma’s v.w.o.-h.a.v.o. profiel VO/BOB/2001/10037 van 9 maart 2001, Gele katern nr. 8 van 21 maart 2001.
 
-14[Vaknamen en vakcodes voor vwo/havo](../../../../../../../../../../../../../../beleidsregel/vaknamen/en/vakcodes/voor/havovwo/BWBR0010620/README.md), VO/BOB 99331304, Gele katern 18c van 28 juli 1999.
+14Vaknamen en vakcodes voor vwo/havo, VO/BOB 99331304, Gele katern 18c van 28 juli 1999.
 
 15Regeling deeltalen 2002, VO/BOB-2002/16895, Gele Katern nr. 13 van 29 mei 2002.
 
-16.[Toelating centraal examen vwo en havo](../../../../../../../../../../../../../../ministeriele-regeling/toelating/centraal/examen/vwo/en/havo/BWBR0013576/README.md), VO/BOB/2002/12851, Gele katern nr. 10 van 17 april 2002.
+16.Toelating centraal examen vwo en havo, VO/BOB/2002/12851, Gele katern nr. 10 van 17 april 2002.
 
-17[Vrijstellingsregeling havo/vwo profiel](../../../../../../../../../../../../../../ministeriele-regeling/vrijstellingsregeling/havovwo/profiel/BWBR0013635/README.md), VO/BOB/2002/13867, Gele Katern nr. 12 van 22 mei 2002.
+17Vrijstellingsregeling havo/vwo profiel, VO/BOB/2002/13867, Gele Katern nr. 12 van 22 mei 2002.
 
-18[Vrijstellingsregeling examen oud vwo/havo naar nieuw](../../../../../../../../../../../../../../ministeriele-regeling/vrijstellingsregeling/examen/oud/vwohavo/naar/nieuw/BWBR0011831/README.md), VO/BOB/00/48114, Gele katern nr. 30 van 13 december 2000.
+18Vrijstellingsregeling examen oud vwo/havo naar nieuw, VO/BOB/00/48114, Gele katern nr. 30 van 13 december 2000.
 
-19[Regeling profielen 2003](../../../../../../../../../../../../../../ministeriele-regeling/regeling/profielen/2003/BWBR0015081/README.md), VO/BOB/2003/16475 van 15 mei 2003, Gele katern nr. 14 van 28 mei 2003.
+19Regeling profielen 2003, VO/BOB/2003/16475 van 15 mei 2003, Gele katern nr. 14 van 28 mei 2003.
 ###II.4 
 
 ####Ministeriële regelingen, examens vmbo
@@ -136,7 +136,7 @@ Voor de oude regelingen wordt verwezen naar de septembermededeling van 2000, Uit
 
 27Aanwijzing exameneenheden centrale examens beroepsgerichte programma’s vmbo 2005 (en 2004 en 2003). (Uitleg Gele katern nr. 20a, 11 september 2002). De regeling omvat tevens de eerdere examenjaren en is daardoor een volledige weergave van examenstof voor alle centrale examens beroepsgericht.
 
-28[Aanwijzing exameneenheden centrale examens algemene vakken voorbereidend middelbaar beroepsonderwijs (vmbo) 2006 en 2007](../../../../../../../../../../../../../../ministeriele-regeling/aanwijzing/exameneenheden/centrale/examens/algemene/vakken/vmbo/2006/en/etc/BWBR0015487/README.md), CEVO-03/449 van 19 augustus 2003, Gele katern nr. 19 van 10 september 2003 (bevat ook de exameneenheden van 2004 en 2005, zoals vastgesteld en gepubliceerd in september 2000).
+28Aanwijzing exameneenheden centrale examens algemene vakken voorbereidend middelbaar beroepsonderwijs (vmbo) 2006 en 2007, CEVO-03/449 van 19 augustus 2003, Gele katern nr. 19 van 10 september 2003 (bevat ook de exameneenheden van 2004 en 2005, zoals vastgesteld en gepubliceerd in september 2000).
 
 29Regeling aanwijzing niet centraal examenstof profielen vwo en havo in 2004 en 2005, CEVO-2002/409, Gele katern nr. 11 van 24 april 2002.
 
@@ -179,7 +179,7 @@ Als voor het centraal examen 2004 geen specifieke bijzonderheden te melden zijn,
 
 Voor 2004 zijn de volgende regelingen van bijzonder belang:
 
-[Regeling profielen 2003](../../../../../../../../../../../../../../ministeriele-regeling/regeling/profielen/2003/BWBR0015081/README.md), VO/BOB/2003/16475 van 15 mei 2003, Gele katern nr. 14 van 28 mei 2003.
+Regeling profielen 2003, VO/BOB/2003/16475 van 15 mei 2003, Gele katern nr. 14 van 28 mei 2003.
 
 Regeling aanwijzing niet centraal examenstof profielen vwo en havo in 2004 en 2005, CEVO-2002/409, Gele katern nr. 11 van 24 april 2002.
 ###III.1.2 
@@ -249,7 +249,7 @@ d.Bij de eindtermen van de domeinen in het c.e. heeft de CEVO een toelichting va
 
 a.Regeling onderwerpen van het centraal examen culturele en kunstzinnige vorming 2, VO/BOB-1999/25465, Gele katern 18a van 7 juli 1999.
 
-b.[Verplichting CKV2,3 en examen CKV2 in 2001 en volgende jaren](../../../../../../../../../../../../../../beleidsregel/verplichting/ckv23/en/examen/ckv2/in/2001/en/volgende/jaren/BWBR0011614/README.md), VO/BOB/2000/24871 van 7 september 2000, Gele katern nr. 21 van 20 september 2000.
+b.Verplichting CKV2,3 en examen CKV2 in 2001 en volgende jaren, VO/BOB/2000/24871 van 7 september 2000, Gele katern nr. 21 van 20 september 2000.
 
 c.Ontvangstdata toetsen:24 maart 2004, toetsen 1e afnametijdstip7 april 2004, toetsen 2e afnametijdstip
 
@@ -300,7 +300,7 @@ Bij de vakken economie 1, economie 1.2 en management en organisatie mag met inga
 
 Voor 2004 zijn de volgende regelingen van bijzonder belang:
 
-[Regeling profielen 2003](../../../../../../../../../../../../../../ministeriele-regeling/regeling/profielen/2003/BWBR0015081/README.md), VO/BOB/2003/16475 van 15 mei 2003, Gele katern nr. 14 van 28 mei 2003.
+Regeling profielen 2003, VO/BOB/2003/16475 van 15 mei 2003, Gele katern nr. 14 van 28 mei 2003.
 
 Regeling aanwijzing niet centraal examenstof profielen vwo en havo in 2004 en 2005, CEVO-2002/409, Gele katern nr. 11 van 24 april 2002.
 ###III.2.2 
@@ -317,7 +317,7 @@ zie bij vwo.
 
 ####Aardrijkskunde
 
-a.[Aanwijzing domein centraal examen aardrijkskunde vwo en havo, 2002-2007/8](../../../../../../../../../../../../../../ministeriele-regeling/centraal/examen/aardrijkskunde/vwo/en/havo/2002/tot/en/met/20072008/BWBR0013496/README.md) , VO/BOB-2002-6495 van 6 maart 2002, Uitleg Gele katern nr 9 van 10 april 2002.
+a.Aanwijzing domein centraal examen aardrijkskunde vwo en havo, 2002-2007/8 , VO/BOB-2002-6495 van 6 maart 2002, Uitleg Gele katern nr 9 van 10 april 2002.
 
 b.Domeinen in 2004:
 
@@ -355,7 +355,7 @@ c.Zie vwo. De nieuwe publicatie voor havo heet ’Toelichtingen bij de eindterme
 
 ####Filosofie
 
-a.[Onderwerpen en eindtermen filosofie centraal examen havo 2004 en 2005](../../../../../../../../../../../../../../ministeriele-regeling/eindtermen/centraal/examen/filosofie/havovwo/2004/en/2005/BWBR0014320/README.md), VO/BOB/2002/56626, Gele katern, nr 6 van 22 januari 2003. Het onderwerp is ’Mens en Machine’.
+a.Onderwerpen en eindtermen filosofie centraal examen havo 2004 en 2005, VO/BOB/2002/56626, Gele katern, nr 6 van 22 januari 2003. Het onderwerp is ’Mens en Machine’.
 
 b.In plaats van een reader is er een examencahier: Mens-Machine, M. Lievers, uitgeverij Boon, ISBN 9053528806.
 ###III.2.9 
@@ -385,7 +385,7 @@ zie bij vwo
 
 ####Algemene opmerkingen
 
-De BB-examens hebben geen overlap met de examens in de andere leerwegen. De KB-examens overlappen voor ongeveer de helft met de GL/TL examens.De BB-examens worden gemaakt hetzij in het opgavenboekje, hetzij in een bij het examen gevoegde uitwerkbijlage.De exameneenheden waarover het centraal examen zich uitstrekt in de periode tot en met 2007 staan in de regeling [Aanwijzing exameneenheden centrale examens algemene vakken voorbereidend middelbaar beroepsonderwijs (vmbo) 2006 en 2007](../../../../../../../../../../../../../../ministeriele-regeling/aanwijzing/exameneenheden/centrale/examens/algemene/vakken/vmbo/2006/en/etc/BWBR0015487/README.md), CEVO-03/449 van 19 augustus 2003, Gele katern nr. 19 van 10 september 2003. Deze regeling vermeldt ook de exameneenheden van 2004 en 2005, zoals vastgesteld en gepubliceerd in september 2000.
+De BB-examens hebben geen overlap met de examens in de andere leerwegen. De KB-examens overlappen voor ongeveer de helft met de GL/TL examens.De BB-examens worden gemaakt hetzij in het opgavenboekje, hetzij in een bij het examen gevoegde uitwerkbijlage.De exameneenheden waarover het centraal examen zich uitstrekt in de periode tot en met 2007 staan in de regeling Aanwijzing exameneenheden centrale examens algemene vakken voorbereidend middelbaar beroepsonderwijs (vmbo) 2006 en 2007, CEVO-03/449 van 19 augustus 2003, Gele katern nr. 19 van 10 september 2003. Deze regeling vermeldt ook de exameneenheden van 2004 en 2005, zoals vastgesteld en gepubliceerd in september 2000.
 ###III.3.2 
 
 ####Nederlands

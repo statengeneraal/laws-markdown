@@ -18,42 +18,45 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder:  
+1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Verkeer en Waterstaat;   
+* binnenwateren:* de wateren die in Nederland zijn gelegen binnen een langs de Nederlandse kust gaande, krachtens artikel 1, eerste lid, onderdeel a van de Schepenwet aangewezen lijn;  
 
-b. gevaarlijke stoffen: 
+*gevaarlijke stoffen:*
 
-1°. ontplofbare stoffen en voorwerpen,   
+a. ontplofbare stoffen en voorwerpen,  
 
-2°. samengeperste, vloeibaar gemaakte of onder druk opgeloste gassen,   
+b. samengeperste, vloeibaar gemaakte of onder druk opgeloste gassen,  
 
-3°. brandbare vloeistoffen,   
+c. brandbare vloeistoffen,  
 
-4°. brandbare vaste stoffen,   
+d. brandbare vaste stoffen,  
 
-5°. voor zelfontbranding vatbare stoffen,   
+e. voor zelfontbranding vatbare stoffen,  
 
-6°. stoffen die bij aanraking met water brandbare gassen ontwikkelen,   
+f. stoffen die bij aanraking met water brandbare gassen ontwikkelen,  
 
-7°. stoffen die de verbranding bevorderen,   
+g. stoffen die de verbranding bevorderen,  
 
-8°. organische peroxiden,   
+h. organische peroxiden,  
 
-9°. giftige stoffen,   
+i. giftige stoffen,  
 
-10°. infectueuze stoffen,   
+j. infectueuze stoffen,  
 
-11°. bijtende stoffen,   
+k. bijtende stoffen, of  
 
-12°. andere stoffen die voor de mens of het milieu gevaarlijk kunnen zijn,    indien zij krachtens artikel 3 zijn aangewezen;   
+l. andere stoffen die voor de mens of het milieu gevaarlijk kunnen zijn, indien de stof krachtens artikel 3 is aangewezen;  
 
-c. vervoermiddel: voertuig of vaartuig;   
+* hoofdspoorweg:* een krachtens artikel 2 van de Spoorwegwet aangewezen hoofdspoorweg;  
 
-d. binnenwateren: de wateren die in Nederland zijn gelegen binnen een langs de Nederlandse kust gaande, krachtens artikel 1, eerste lid, onderdeel *a* van de Schepenwet aangewezen lijn;   
+* internationaal vervoer:* vervoer waarbij de Nederlandse grens wordt gepasseerd;  
 
-e. internationaal vervoer: vervoer waarbij de Nederlandse grens wordt gepasseerd.      
-2.   In deze wet en de daarop berustende bepalingen worden onder gevaarlijke stoffen mede verstaan: voorwerpen die zodanige stoffen met behoud van de gevaarlijke eigenschappen bevatten.   
+* Onze Minister:* Onze Minister van Infrastructuur en Milieu;  
+
+* vervoermiddel:* voertuig, vaartuig of wagen als bedoeld in richtlijn 2008/68/EG van het Europees Parlement en de Raad van 24 september 2008 betreffende het vervoer van gevaarlijke goederen over land.     
+2.   In deze wet en de daarop berustende bepalingen worden onder gevaarlijke stoffen mede verstaan: voorwerpen die zodanige stoffen met behoud van de gevaarlijke eigenschappen bevatten.    
+3.  In deze wet en de daarop berustende bepalingen wordt onder weg, binnenwater en hoofdspoorweg mede verstaan: een deel van die weg, dat binnenwater of die hoofdspoorweg. 
 
 ### §  2  
 
@@ -183,151 +186,199 @@ Het is verboden te handelen in strijd met een beperking waaronder een ontheffing
 
 ### Hoofdstuk  III  
 
-####Routering 
+####Het basisnet
 
-### §  1  
+### Paragraaf  1  
 
-####Algemeen 
+####Algemene bepalingen
 
 ### Artikel  11  
 
-1.  Degene die met een voertuig langs de weg gevaarlijke stoffen vervoert is verplicht de krachtens de Wegenverkeerswet 1994 als zodanig aangeduide bebouwde kommen van gemeenten te vermijden.    
-2.   Het eerste lid is niet van toepassing voor zover het vervoer binnen de bebouwde kom noodzakelijk is:  
+In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. ten behoeve van het laden of lossen, of   
+* basisnet:* de krachtens artikel 13, eerste lid, aangewezen wegen, binnenwateren en hoofdspoorwegen;  
 
-b. omdat er redelijkerwijs geen route buiten de bebouwde kom beschikbaar is.     
+* groepsrisico:* cumulatieve kansen per jaar per kilometer basisnet dat tien of meer personen overlijden als rechtstreeks gevolg van een ongewoon voorval op het basisnet waarbij één of meer gevaarlijke stoffen zijn betrokken;  
 
-### §  2  
+* plaatsgebonden risico:* risico op een plaats op of langs het basisnet, uitgedrukt in een waarde voor de kans per jaar dat een persoon die onafgebroken en onbeschermd op die plaats zou verblijven, overlijdt als rechtstreeks gevolg van een ongewoon voorval op het basisnet waarbij één of meer gevaarlijke stoffen zijn betrokken;  
 
-####Aanwijzing van stoffen 
+* risicoplafond:* het maximaal toegestane plaatsgebonden risico op de krachtens artikel 14, eerste of tweede lid, aangewezen plaatsen;  
+
+* vervoer van gevaarlijke stoffen:* handeling als bedoeld in artikel 2, eerste lid, onder a;  
+
+* wegen:* voor het openbaar verkeer openstaande wegen in de zin van de Wegenverkeerswet 1994.   
 
 ### Artikel  12  
 
-1.  Bij of krachtens algemene maatregel van bestuur worden in het belang van de openbare veiligheid gevaarlijke stoffen aangewezen die uitsluitend over de op grond van artikel 18 aangewezen wegen mogen worden vervoerd.    
-2.   Bij of krachtens algemene maatregel van bestuur kunnen in het belang van de openbare veiligheid gevaarlijke stoffen worden aangewezen die over de op grond van de artikelen 26 of 30 aangewezen vaarwegen onderscheidenlijk spoorwegen niet mogen worden vervoerd.    
-3.   Bij een aanwijzing als bedoeld in het eerste of tweede lid kan worden bepaald in welke gevallen de aangewezen wegen moeten worden gevolgd of de aangewezen vaarwegen of spoorwegen niet mogen worden gevolgd.   
+De toepassing van de bevoegdheden genoemd in dit hoofdstuk is gericht op het tot stand brengen en in stand houden van een duurzaam evenwicht tussen de belangen van: 
 
-### §  3  
+a. het vervoer van gevaarlijke stoffen over het basisnet;  
 
-####Aanwijzing van wegen 
+b. het gebruik van de ruimte langs dat basisnet; en  
+
+c. een maatschappelijk aanvaardbaar veiligheidsniveau in de nabijheid van dat basisnet.   
 
 ### Artikel  13  
 
-Voor de toepassing van deze paragraaf worden onder wegen verstaan de voor het openbaar verkeer openstaande wegen in de zin van de Wegenverkeerswet 1994.  
+1.  Bij regeling van Onze Minister worden de wegen, hoofdspoorwegen en binnenwateren aangewezen die van belang worden geacht voor het vervoer van gevaarlijke stoffen.   
+2.  Dit hoofdstuk is van toepassing op het binnenwatervervoer van gevaarlijke stoffen in tankschepen, op het weg- en spoorvervoer van gevaarlijke stoffen in transporttanks, reservoirwagens, tankwagens, afneembare tanks, tankcontainers en druk- of vacuümtanks en op daarmee vergelijkbare manieren van vervoer, voor zover dat vervoer plaatsvindt op het basisnet.   
+3.  In afwijking van het tweede lid, is dit hoofdstuk niet van toepassing op het vervoer in ongereinigde lege tanks.  
+
+### Paragraaf  2  
+
+####Normen voor het basisnet
 
 ### Artikel  14  
 
-1. Onze Minister wijst ten behoeve van het vervoer van krachtens artikel 12, eerste lid, aangewezen gevaarlijke stoffen een landelijk net van wegen aan dat bestaat uit bij het Rijk in beheer zijnde wegen of weggedeelten.  
-2.   Van het besluit, bedoeld in het eerste lid, wordt mededeling gedaan door plaatsing in de *Staatscourant*.   
+1.  Bij regeling van Onze Minister worden voor het gehele basisnet de plaatsen aangewezen waar het plaatsgebonden risico niet hoger is dan 10<sup>-6</sup>.   
+2.  Bij ministeriële regeling kan Onze Minister, indien dit in aanvulling op de krachtens het eerste lid vastgestelde risicoplafonds naar zijn oordeel noodzakelijk is ter beheersing van het aandeel van het vervoer van gevaarlijke stoffen in het groepsrisico: 
+
+a. op of langs wegen en hoofdspoorwegen de plaats of plaatsen aanwijzen, waar het plaatsgebonden risico niet hoger is dan 10<sup>-7</sup>; of,  
+
+b. op of langs een hoofdspoorweg de plaats of plaatsen aanwijzen waar het plaatsgebonden risico niet hoger is dan 10<sup>-8</sup>.     
+3.  Bij ministeriële regeling kan Onze Minister één of meer krachtens het eerste of tweede lid vastgestelde risicoplafonds verlagen, indien dit naar zijn oordeel noodzakelijk is om structurele aanvullende maatregelen die ter reductie van het risico vanwege het vervoer van gevaarlijke stoffen worden genomen ten goede te laten komen aan de belangen, bedoeld in artikel 12, onder b en c. Een deel van de veiligheidswinst voortvloeiend uit de maatregelen genoemd in de vorige volzin dient daarbij ook ten goede te komen aan het belang, bedoeld in artikel 12, onder a. Tot een verlaging van een risicoplafond als bedoeld in de eerste volzin, wordt niet overgegaan indien blijkens het onderzoek, bedoeld in artikel 15, eerste of tweede lid, het betrokken risicoplafond wordt of dreigt te worden overschreden.   
+4.  Bij de vaststelling van de plaatsen, bedoeld in het eerste en tweede lid, worden de bij ministeriële regeling vast te stellen referentiepunten als uitgangspunt gehanteerd. Deze referentiepunten zijn op de middenberm van de weg, het hart van de spoorbundel of het midden van het binnenwater gelegen, tenzij een andere locatie op het basisnet ten behoeve van de risicobeheersing meer aangewezen is.   
+5.  De krachtens het eerste en tweede lid voor hoofdspoorwegen vastgestelde risicoplafonds hebben geen betrekking op het risico vanwege het vervoer van gevaarlijke stoffen dat op een spoorwegemplacement plaatsvindt, voor zover artikel 2.1 van de Wet algemene bepalingen omgevingsrecht op dat risico van toepassing is.   
+6.  De vaststelling van een ministeriële regeling krachtens het eerste lid, vindt niet eerder plaats dan nadat het ontwerp in de Staatscourant bekend is gemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen.  
+
+### Paragraaf  3  
+
+####Beheersing van het risico
 
 ### Artikel  15  
 
-1.  Onze Minister pleegt bij de voorbereiding van een besluit als bedoeld in artikel 14 overleg met de besturen van de betrokken openbare lichamen.    
-2.   Op de voorbereiding van het besluit is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
+1.  Binnen twee jaar na de inwerkingtreding van dit artikel heeft Onze Minister onderzocht in hoeverre vanwege het vervoer van gevaarlijke stoffen één of meer risicoplafonds worden overschreden of binnen tien jaar na het jaar dat het onderzoek plaatsvindt, dreigen te worden overschreden.   
+2.  Na afronding van het onderzoek, bedoeld in het eerste lid, draagt Onze Minister er zorg voor dat zo vaak als nodig is, doch ten minste elke vijf jaar, onderzocht is in hoeverre vanwege het vervoer van gevaarlijke stoffen één of meer risicoplafonds worden overschreden of binnen tien jaar na het jaar dat het onderzoek plaatsvindt, dreigen te worden overschreden.   
+3.  In geval van een geconstateerde of dreigende overschrijding als bedoeld in het eerste en tweede lid, onderzoekt Onze Minister de maatregelen om die overschrijding teniet te doen of te voorkomen.   
+4.  Op verzoek van Onze Minister verstrekt de beheerder van een krachtens artikel 13, eerste lid, aangewezen weg, binnenwater of hoofdspoorweg de hem beschikbare gegevens over het vervoer van gevaarlijke stoffen of verleent medewerking aan het verkrijgen van die gegevens, voor zover deze gegevens naar het oordeel van Onze Minister nodig zijn voor de onderzoeken.  
 
 ### Artikel  16  
 
-1.  Provinciale staten wijzen ten behoeve van het vervoer van krachtens artikel 12 aangewezen gevaarlijke stoffen een provinciaal net van wegen aan, dat bestaat uit bij de provincie of bij de waterschappen in beheer zijnde wegen of weggedeelten. Voorzover de aanwijzing van het landelijk net van wegen, bedoeld in artikel 14, eerste lid, gevolgen heeft voor het provinciale net van wegen, gebeurt de aanwijzing van het provinciale net van wegen binnen een jaar na een aanwijzing van het landelijk net van wegen.   
-2.   Provinciale staten dragen er zorg voor dat het wegennet, bedoeld in het eerste lid, aansluit op het landelijke wegennet, bedoeld in artikel 14, eerste lid, en op de krachtens het eerste lid aangewezen wegennetten van de aangrenzende provincies.    
-3.  Met het oog op de afstemming met het crisisplan als bedoeld in artikel 16 van de Wet veiligheidsregio’s, zenden provinciale staten een ontwerp van hun besluit aan de besturen van veiligheidsregio’s.  
-4.   De artikelen 14, tweede lid, en 15, tweede lid, zijn van overeenkomstige toepassing.   
+1.  Bij regeling van Onze Minister worden regels gesteld met betrekking tot de wijze waarop de onderzoeken, bedoeld in artikel 15, worden verricht.   
+2.  De regels, bedoeld in het eerste lid, hebben in elk geval betrekking op de gegevens die naar het oordeel van Onze Minister noodzakelijk zijn voor die onderzoeken en op het rekenmodel waarmee wordt berekend in hoeverre de risicoplafonds worden of dreigen te worden overschreden.  
+
+### Artikel  17  
+
+1.  Onze Minister brengt telkens na de onderzoeken, bedoeld in artikel 15 verslag uit aan de Tweede Kamer der Staten-Generaal over de resultaten daarvan.   
+2.  In geval van een overschrijding of dreigende overschrijding van één of meer krachtens artikel 14, eerste lid, vastgestelde risicoplafonds vermeldt Onze Minister in het verslag de maatregel of de maatregelen die hij reeds heeft getroffen of naar zijn oordeel getroffen dienen te worden om een overschrijding teniet te doen of te voorkomen.   
+3.  In geval van een overschrijding of dreigende overschrijding van één of meer krachtens artikel 14, tweede lid, vastgestelde risicoplafonds vermeldt Onze Minister in het verslag: 
+
+a. de maatregelen die hij reeds heeft getroffen of naar zijn oordeel getroffen dienen te worden om de overschrijding van die risicoplafonds teniet te doen of te voorkomen;  
+
+b. in hoeverre en voor welke periode hij de overschrijding accepteert na afweging van de belangen, bedoeld in artikel 12, of,  
+
+c. in hoeverre hij, na afweging van de belangen, bedoeld in artikel 12, dat risicoplafond of die risicoplafonds heeft aangepast of voornemens is aan te passen.     
+4.  Onze Minister vermeldt tevens in het verslag in hoeverre hij gebruik heeft gemaakt of gaat maken van zijn bevoegdheid, bedoeld in artikel 20, eerste lid.  
 
 ### Artikel  18  
 
-1.  De gemeenteraad kan op het grondgebied van zijn gemeente wegen of weggedeelten aanwijzen, waarover de krachtens artikel 12 aangewezen gevaarlijke stoffen bij uitsluiting mogen worden vervoerd.    
-2.   Wegen of weggedeelten die bij het Rijk, de provincie of het waterschap in beheer zijn, kunnen slechts worden aangewezen, voor zover deze deel uitmaken van de wegennetten, bedoeld in artikel 14, eerste lid, of artikel 16, eerste lid.    
-3.   De gemeenteraad draagt er zorg voor dat de aan te wijzen wegen of weggedeelten aansluiten op:  
+1.  Een verschuiving van een plaats als bedoeld in artikel 14, eerste lid, vindt niet eerder plaats dan vier weken nadat het voornemen daartoe is gemeld aan de Tweede Kamer der Staten-Generaal.   
+2.  Het eerste lid is niet van toepassing in geval de verschuiving van de plaats niet leidt tot een verhoging of verlaging van het risicoplafond, bedoeld in artikel 14, eerste lid.  
 
-a. het landelijke wegennet, bedoeld in artikel 14, eerste lid,   
+### Hoofdstuk  IIIa  
 
-b. het provinciale wegennet, bedoeld in artikel 16, eerste lid,   
+####Routering
 
-c. de wegen of weggedeelten in de aangrenzende gemeente voor zover ten aanzien daarvan toepassing is gegeven aan het eerste lid.      
-4.  Met het oog op de afstemming met het crisisplan, bedoeld in artikel 16 van de Wet veiligheidsregio’s, zendt de gemeenteraad een ontwerp van zijn besluit aan het bestuur van de veiligheidsregio.  
-5.   De artikelen 14, tweede lid, en 15, tweede lid, zijn van overeenkomstige toepassing.   
-6. Binnen een jaar nadat het provinciale wegennet, bedoeld in artikel 16, eerste lid, is aangewezen wordt een reeds van kracht zijnde gemeentelijke aanwijzing als bedoeld in het eerste lid, zo nodig in overeenstemming gebracht met het derde lid, aanhef en onderdelen a en b. 
+### Artikel  19  
+
+1.  Degene die met een voertuig over de weg gevaarlijke stoffen vervoert, is verplicht de krachtens de Wegenverkeerswet 1994 als zodanig aangeduide bebouwde kommen van gemeenten te vermijden.   
+2.  Het eerste lid is niet van toepassing voor zover het vervoer binnen de bebouwde kom noodzakelijk is: 
+
+a. ten behoeve van het laden of lossen, of  
+
+b. omdat er redelijkerwijs geen route buiten de bebouwde kom beschikbaar is.    
 
 ### Artikel  20  
 
-De wegen of weggedeelten, bedoeld in artikel 18, eerste lid, worden aangeduid door borden overeenkomstig het daartoe krachtens de Wegenverkeerswet 1994 aangewezen model.  
+1.  Onze Minister kan besluiten in het belang van de openbare veiligheid een weg, binnenwater of hoofdspoorweg aan te wijzen waarover het wegvervoer, het binnenwatervervoer onderscheidenlijk het spoorvervoer van bij dat besluit te bepalen gevaarlijke stoffen niet is toegestaan.   
+2.  Bij een besluit als bedoeld in het eerste lid kan Onze Minister bepalen dat het verbod uitsluitend geldt voor een bij dat besluit te bepalen periode van het jaar of van de dag.   
+3.  Onze Minister maakt in elk geval gebruik van zijn bevoegdheid, bedoeld in het eerste lid, indien de risicoplafonds blijkens het onderzoek, bedoeld in artikel 15, eerste of tweede lid, worden of dreigen te worden overschreden en andere maatregelen naar zijn oordeel niet of niet tijdig kunnen worden getroffen.  
 
 ### Artikel  21  
 
-Het is verboden in gemeenten, waar krachtens de artikelen 18, eerste lid, en 20 wegen of weggedeelten zijn aangewezen en aangeduid, de krachtens artikel 12 aangewezen gevaarlijke stoffen te vervoeren over andere dan de aangewezen en aangeduide wegen of weggedeelten.  
+1.  Onze Minister maakt ten aanzien van het spoorvervoer van chloor en ammoniak gebruik van de bevoegdheid, bedoeld in artikel 20, eerste lid, voor zover dat vervoer plaatsvindt in een ketelwagen, tank of tankcontainer.   
+2.  Het besluit, bedoeld in het eerste lid, is niet van toepassing op spoorvervoer van chloor en ammoniak van rechtspersonen ten aanzien waarvan mede door Onze Minister met die rechtspersonen voor inwerkingtreding van dit artikel afspraken zijn gemaakt en voor zover dat vervoer gelet op die afspraken resteert of kan resteren.  
 
 ### Artikel  22  
 
-1.  Burgemeester en wethouders kunnen indien dat noodzakelijk is voor het laden en lossen, ontheffing verlenen van het bepaalde in artikel 21.    
-2.   Het in artikel 9, tweede tot en met vierde lid, ten aanzien van ontheffingen bepaalde is van overeenkomstige toepassing.   
+1.  Bij de voorbereiding van een besluit als bedoeld in artikel 20, voor zover dat betrekking heeft op wegen of binnenwateren, betrekt Onze Minister de beheerder van de wegen respectievelijk binnenwateren, die in de nabijheid zijn gelegen van de bij dat besluit aan te wijzen wegen onderscheidenlijk binnenwateren.   
+2.  Op de voorbereiding van een besluit als bedoeld in artikel 20 is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.  
 
 ### Artikel  23  
 
-1.  Op verzoek van Onze Minister van Defensie verlenen burgemeester en wethouders ontheffing van het bepaalde in artikel 21 voor het vervoer met vervoermiddelen die in eigendom toebehoren aan of zich bevinden onder de verantwoordelijkheid van de krijgsmacht of van de krijgsmacht van een andere mogendheid:  
-
-a. ten behoeve van het laden en lossen op militaire locaties;   
-
-b. ten behoeve van het ruimen van ontploffingsgevaarlijke stoffen door onder Onze Minister van Defensie ressorterende opruimingsdiensten van explosieven.      
-2.   De ontheffing kan onder beperkingen worden verleend en daaraan kunnen voorschriften worden verbonden.    
-3.   Burgemeester en wethouders kunnen op verzoek van Onze Minister van Defensie ontheffing verlenen van het bepaalde in artikel 21, indien dat noodzakelijk is ten behoeve van militaire oefeningen. Artikel 9, tweede tot en met vierde lid, is van overeenkomstige toepassing.   
+1.  Provinciale staten wijzen ten behoeve van het doorgaande vervoer van gevaarlijke stoffen een netwerk aan dat bestaat uit bij de provincie of bij waterschappen in beheer zijnde wegen of weggedeelten, niet zijnde de krachtens artikel 13, eerste lid, vastgestelde wegen.   
+2.  Provinciale staten dragen er zorg voor dat het provinciaal netwerk, bedoeld in het eerste lid, aansluit op de krachtens artikel 13, eerste lid, aangewezen wegen.   
+3.  Met het oog op de afstemming met het crisisplan, bedoeld in artikel 16 van de Wet veiligheidsregio’s, zenden provinciale staten een ontwerp van hun besluit aan de besturen van veiligheidsregio’s.   
+4.  Artikel 22 is van overeenkomstige toepassing op de voorbereiding van een besluit als bedoeld in het eerste lid.   
+5.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
 ### Artikel  24  
 
-Het is verboden te handelen in strijd met een beperking, waaronder een ontheffing als bedoeld in artikel 22, eerste lid, en 23, eerste lid, is verleend of met een voorschrift dat aan een zodanige ontheffing is verbonden.  
+1.  Bij regeling van Onze Minister worden de gevaarlijke stoffen aangewezen, voor zover de gevaarzetting daartoe aanleiding geeft, waar een besluit als bedoeld in het tweede lid op van toepassing is. De aanwijzing van de gevaarlijke stoffen kan in nader te bepalen hoeveelheden geschieden.   
+2.  De gemeenteraad kan met betrekking tot het vervoer van gevaarlijke stoffen op zijn grondgebied gelegen wegen aanwijzen waarover de krachtens het eerste lid aangewezen gevaarlijke stoffen uitsluitend mogen worden vervoerd.   
+3.  Wegen die in het beheer zijn bij de provincies of het waterschap kunnen slechts worden aangewezen, voor zover deze deel uit maken van het provinciaal netwerk, bedoeld in artikel 23, eerste lid.   
+4.  Bij een besluit als bedoeld in het tweede lid, draagt de gemeenteraad er zorg voor dat de aangewezen wegen aansluiten op: 
 
-### §  4  
+a. de krachtens artikel 13, eerste lid, aangewezen wegen, voor zover gelegen op het grondgebied van de gemeente of op dat grondgebied aansluiten;  
 
-####Aanwijzing van vaarwegen 
+b. het provinciaal netwerk, bedoeld in artikel 23, voor zover gelegen op het grondgebied van de gemeente of op dat grondgebied aansluiten;  
+
+c. wegen of weggedeelten in de aangrenzende gemeente voor zover ten aanzien daarvan toepassing is gegeven aan het tweede lid.     
+5.  Een besluit als bedoeld in het tweede lid is niet van toepassing op het vervoer van gevaarlijke stoffen over de krachtens artikel 13, eerste lid, aangewezen wegen.   
+6.  Met het oog op de afstemming met het crisisplan, bedoeld in artikel 16 van de Wet veiligheidsregio’s, zendt de gemeenteraad een ontwerp van zijn besluit aan de besturen van veiligheidsregio’s.   
+7.  Artikel 22 is van overeenkomstige toepassing op de voorbereiding van een besluit als bedoeld in het tweede lid.   
+8.  Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
+9.  Binnen een jaar nadat het provinciaal netwerk, bedoeld in artikel 23, is aangewezen of is gewijzigd wordt een reeds van kracht zijnde gemeentelijke aanwijzing als bedoeld in het tweede lid, zo nodig in overeenstemming gebracht met het derde en vierde lid.   
+10.  Het negende lid is van overeenkomstige toepassing met betrekking tot de krachtens artikel 13, eerste lid, aangewezen wegen.  
 
 ### Artikel  25  
 
-Voor de toepassing van deze paragraaf worden onder vaarwegen verstaan de voor het openbaar scheepvaartverkeer openstaande binnenwateren.  
+De door de gemeenteraad op grond van artikel 24 onderscheidenlijk door Onze Minister op grond van artikel 20 aangewezen wegen of weggedeelten worden aangeduid door borden overeenkomstig de daarvoor op grond van de Wegenverkeerswet 1994 aangewezen modellen. 
 
 ### Artikel  26  
 
-1.  Onze Minister kan vaarwegen of gedeelten daarvan aanwijzen, waarover de krachtens artikel 12, tweede lid, daartoe aangewezen gevaarlijke stoffen niet mogen worden vervoerd.    
-2.   De artikelen 14, tweede lid, en 15 zijn van overeenkomstige toepassing.   
+1.  Het is verboden de bij een op grond van artikel 20, eerste lid, genomen besluit aangewezen stoffen te vervoeren over de bij dat besluit aangewezen wegen, binnenwateren, of hoofdspoorwegen. Voor zover van de in artikel 20, tweede lid bedoelde bevoegdheid gebruik is gemaakt, is het verbod, bedoeld in de eerste volzin, uitsluitend in de bij dat besluit bepaalde periode van toepassing.   
+2.  Het eerste lid is niet van toepassing indien redelijkerwijs geen alternatieve route beschikbaar is voor het vervoer van de bij het besluit aangewezen stoffen, vanwege incidenten of onvoorziene omstandigheden op of nabij die alternatieve route of routes.  
 
 ### Artikel  27  
 
-Het is verboden de krachtens artikel 12, tweede lid, aangewezen gevaarlijke stoffen te vervoeren over de krachtens artikel 26 aangewezen vaarwegen of gedeelten daarvan.  
+1.  Onze Minister kan vrijstelling of ontheffing verlenen van het verbod, bedoeld in artikel 26: 
+
+a. indien dit noodzakelijk is voor het laden en lossen;  
+
+b. ten behoeve van vervoer waarvoor aanvullende maatregelen zijn getroffen, waarvan naar het oordeel van Onze Minister redelijkerwijs een beperking van de kans op of de effecten van een ongeval gedurende dat vervoer is te verwachten.     
+2.  Voor zover het verbod, bedoeld in artikel 26, betrekking heeft op het spoorvervoer van chloor en ammoniak, kan Onze Minister, in afwijking van het eerste lid, daarvan uitsluitend ontheffing verlenen indien redelijkerwijs geen andere wijze van vervoer van die stoffen beschikbaar is en het vervoer naar het oordeel van Onze Minister vanwege maatschappelijk belang noodzakelijk is.   
+3.  Onze Minister kan op verzoek van Onze Minister van Defensie ontheffing verlenen van artikel 26, indien dat noodzakelijk is ten behoeve van militaire oefeningen.   
+4.  Onze Minister kan een ontheffing weigeren op gronden aan de openbare veiligheid ontleend.   
+5.  Op verzoek van Onze Minister van Defensie verleent Onze Minister ontheffing van artikel 26 voor het vervoer met vervoermiddelen die in eigendom toebehoren aan of zich bevinden onder de verantwoordelijkheid van de krijgsmacht of van de krijgsmacht van een andere mogendheid: 
+
+a. ten behoeve van het laden en lossen op militaire locaties;  
+
+b. ten behoeve van het ruimen van ontploffingsgevaarlijke stoffen door onder Onze Minister van Defensie ressorterende opruimingsdiensten van explosieven.     
+6.  Artikel 9, derde en vierde lid en artikel 10 zijn van overeenkomstige toepassing op krachtens het eerste, tweede, derde en vijfde lid verleende ontheffingen.   
+7.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld: 
+
+a. ter nadere invulling van de gronden aan de openbare veiligheid ontleend, bedoeld in het vierde lid;  
+
+b. met betrekking tot de gegevens die bij een aanvraag om een ontheffing worden verstrekt, en  
+
+c. ten aanzien van de beperkingen die aan een ontheffing kunnen worden verbonden.     
+8.  Bij het stellen van de regels, bedoeld in het zevende lid, kan Onze Minister onderscheid maken in het wegvervoer, het binnenwatervervoer en het spoorvervoer.  
 
 ### Artikel  28  
 
-1.  Van het bepaalde in artikel 27 kan indien dat noodzakelijk is voor het laden en lossen, ontheffing worden verleend door:  
-
-a. Onze Minister indien de ontheffing betrekking heeft op het vervoeren over bij het Rijk of bij anderen dan publiekrechtelijke rechtspersonen in beheer zijnde vaarwegen of gedeelten daarvan;   
-
-b. gedeputeerde staten indien de ontheffing betrekking heeft op het vervoeren over bij de provincie of de waterschappen in beheer zijnde vaarwegen of gedeelten daarvan;   
-
-c. burgemeester en wethouders indien de ontheffing betrekking heeft op het vervoeren over bij de gemeente in beheer zijnde vaarwegen of gedeelten daarvan.     
-2.   Het in artikel 9, tweede tot en met vierde lid, ten aanzien van ontheffingen bepaalde is van overeenkomstige toepassing.   
+Onverminderd artikel 24, vijfde lid, is het verboden de gevaarlijke stoffen, bedoeld in artikel 24, eerste lid, te vervoeren over andere wegen dan de bij een besluit als bedoeld in artikel 24, tweede lid, aangewezen wegen. 
 
 ### Artikel  29  
 
-Het is verboden te handelen in strijd met een beperking, waaronder een ontheffing als bedoeld in artikel 28, eerste lid, is verleend of met een voorschrift dat aan een zodanige ontheffing is verbonden.  
+1.  Van artikel 28 kunnen burgemeester en wethouders ontheffing verlenen, indien dit noodzakelijk is voor het laden en lossen.   
+2.  Op verzoek van Onze Minister van Defensie verlenen burgemeester en wethouders ontheffing van artikel 28 voor het vervoer met vervoermiddelen die in eigendom toebehoren aan of zich bevinden onder de verantwoordelijkheid van de krijgsmacht of van de krijgsmacht van een andere mogendheid: 
 
-### §  5  
+a. ten behoeve van het laden en lossen op militaire locaties;  
 
-####Aanwijzing van spoorwegen 
-
-### Artikel  30  
-
-1.  Onze Minister kan spoorwegen of gedeelten daarvan aanwijzen, waarover de krachtens artikel 12, tweede lid, aangewezen gevaarlijke stoffen niet mogen worden vervoerd.    
-2.   De artikelen 14, tweede lid, en 15 zijn van overeenkomstige toepassing.   
-
-### Artikel  31  
-
-Het is verboden de krachtens artikel 12, tweede lid, aangewezen gevaarlijke stoffen te vervoeren over de krachtens artikel 30 aangewezen spoorwegen of gedeelten daarvan.  
-
-### Artikel  32  
-
-1.  Onze Minister kan indien dat noodzakelijk is voor het laden en lossen, ontheffing verlenen van het bepaalde in artikel 31.    
-2.   Het in artikel 9, tweede tot en met vierde lid, ten aanzien van ontheffingen bepaalde is van overeenkomstige toepassing.   
-
-### Artikel  33  
-
-Het is verboden te handelen in strijd met een beperking, waaronder een ontheffing als bedoeld in artikel 32, eerste lid, is verleend of met een voorschrift dat aan een zodanige ontheffing is verbonden.  
+b. ten behoeve van het ruimen van ontploffingsgevaarlijke stoffen door onder Onze Minister van Defensie ressorterende opruimingsdiensten van explosieven.     
+3.  Burgemeester en wethouders kunnen op verzoek van Onze Minister van Defensie ontheffing verlenen van artikel 28, indien dat noodzakelijk is ten behoeve van militaire oefeningen.   
+4.  Artikel 9, tweede tot en met vierde lid, en artikel 10 zijn van overeenkomstige toepassing.  
 
 ### Hoofdstuk  IV  
 
@@ -413,7 +464,9 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 ### Artikel  47  
 
-Degene die een handeling als bedoeld in artikel 2, eerste lid, verricht, is verplicht indien zich daarbij voorvallen, waardoor gevaar voor de openbare veiligheid is ontstaan of is te duchten, of ongevallen voordoen daarvan onverwijld mededeling te doen aan Onze Minister.  
+1.  Degene die een handeling als bedoeld in artikel 2, eerste lid, verricht, is verplicht Onze Minister daarvan onverwijld in kennis te stellen indien zich daarbij ongevallen voordoen of voorvallen, waardoor gevaar voor de openbare veiligheid is of kan ontstaan.   
+2.  Degene, bedoeld in het eerste lid, stelt Onze Minister in de gelegenheid de situatie van het ongeval of het voorval te beoordelen en laat handelingen met betrekking tot de betrokken gevaarlijke stoffen in elk geval achterwege totdat Onze Minister van deze gelegenheid gebruik heeft gemaakt of heeft laten weten van die gelegenheid geen gebruik te maken.   
+3.  In afwijking van het tweede lid zijn handelingen toegestaan die redelijkerwijs noodzakelijk zijn om verdere gevaarzetting of schade te voorkomen.  
 
 ### Artikel  48  
 
@@ -440,7 +493,7 @@ c. wordt bepaald aan wie de vergoedingen, bedoeld in het eerste lid, verschuldig
 
 ### Artikel  50  
 
-Tegen een besluit als bedoeld in de artikelen 14, eerste lid, 16, eerste lid, 18, eerste lid, 26, eerste lid, en 30, eerste lid, staat beroep open als bedoeld in Hoofdstuk 8 van de Algemene wet bestuursrecht.  
+Tegen een besluit als bedoeld in de artikelen 20, eerste lid, 23, eerste lid en 24, tweede lid, staat beroep open als bedoeld in Hoofdstuk 8 van de Algemene wet bestuursrecht. 
 
 ### Hoofdstuk  VI  
 

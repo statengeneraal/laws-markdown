@@ -3,13 +3,13 @@
 ##Aanwijzing opsporingsambtenaren
 
 De Minister van Justitie,  
-Gelet op de [artikelen 1, onder 4., en 17, eerste lid onder 2., van de Wet op de economische delicten](../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) (Stb. 1950, K258);
+Gelet op de artikelen 1, onder 4., en 17, eerste lid onder 2., van de Wet op de economische delicten (Stb. 1950, K258);
 Besluit:    
 
 ### Artikel  1  
 Materieel uitgewerkt per 07-03-2013 
 
-Als ambtenaren, belast met de opsporing van overtredingen van de voorschriften gesteld bij of krachtens de artikelen 2, 3 en 4, vijfde lid, van de Wet van 27 juni 1963 tot uitvoering van de verordening nr. 11 van de Raad van de Europese Economische Gemeenschap (Stb. 1963, 344), bij of krachtens de [artikelen 2](../../../../wet/wet/vrachtprijzen/vervoer/van/kolen/en/staal/BWBR0002418/README.md), [4](../../../../wet/wet/vrachtprijzen/vervoer/van/kolen/en/staal/BWBR0002418/README.md) en [5, derde lid, van de Wet vrachtprijzen vervoer van kolen en staal](../../../../wet/wet/vrachtprijzen/vervoer/van/kolen/en/staal/BWBR0002418/README.md) (Stb. 1963, 343) en bij of krachtens de Wet Personenvervoer (Stb. 1987, 175), voor zover deze overtredingen economische delicten zijn in de zin van [artikel 1 van de Wet op de economische delicten](../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) worden aangewezen: 
+Als ambtenaren, belast met de opsporing van overtredingen van de voorschriften gesteld bij of krachtens de artikelen 2, 3 en 4, vijfde lid, van de Wet van 27 juni 1963 tot uitvoering van de verordening nr. 11 van de Raad van de Europese Economische Gemeenschap (Stb. 1963, 344), bij of krachtens de artikelen 2, 4 en 5, derde lid, van de Wet vrachtprijzen vervoer van kolen en staal (Stb. 1963, 343) en bij of krachtens de Wet Personenvervoer (Stb. 1987, 175), voor zover deze overtredingen economische delicten zijn in de zin van artikel 1 van de Wet op de economische delicten worden aangewezen: 
 
 a). de Directeur-Generaal voor het Vervoer;  
 
@@ -34,7 +34,7 @@ De volgende beschikkingen worden ingetrokken:
 
 a).  de beschikking betreffende aanwijzing opsporingsambtenaren Wet uitvoering verordening nr. 11 van de Raad van de E.E.G. (Stcrt. 1964, 32);  
 
-b).  de beschikking betreffende [aanwijzing opsporingsambtenaren](../../../../wet/wet/vrachtprijzen/vervoer/van/kolen/en/staal/BWBR0002418/README.md) [Wet vrachtprijzen vervoer van kolen en staal](../../../../wet/wet/vrachtprijzen/vervoer/van/kolen/en/staal/BWBR0002418/README.md) (Stcrt. 1965, 123);  
+b).  de beschikking betreffende aanwijzing opsporingsambtenaren Wet vrachtprijzen vervoer van kolen en staal (Stcrt. 1965, 123);  
 
 c).  de beschikking betreffende aanwijzing opsporingsambtenaren Wet Personenvervoer (Stcrt. 1975, 229).   
 

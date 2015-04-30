@@ -20,7 +20,7 @@ Het op 5 juni 2001 te Luxemburg tot stand gekomen Verdrag tussen het Koninkrijk 
 
 ### Artikel  2  
 
-1.  In afwijking van de [Wet inkomstenbelasting 2001](../../../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en de Wet op de loonbelasting 1964 zijn inkomstenbestanddelen als bedoeld in het tweede lid die worden genoten door een natuurlijke persoon die sinds 5 juni 2001 onafgebroken inwoner van België is, gedurende de twee kalenderjaren na de inwerkingtreding van het verdrag, bedoeld in artikel 1, vrijgesteld van inkomstenbelasting en loonbelasting.    
+1.  In afwijking van de Wet inkomstenbelasting 2001 en de Wet op de loonbelasting 1964 zijn inkomstenbestanddelen als bedoeld in het tweede lid die worden genoten door een natuurlijke persoon die sinds 5 juni 2001 onafgebroken inwoner van België is, gedurende de twee kalenderjaren na de inwerkingtreding van het verdrag, bedoeld in artikel 1, vrijgesteld van inkomstenbelasting en loonbelasting.    
 2.  De in het eerste lid bedoelde inkomstenbestanddelen zijn inkomstenbestanddelen 
 
 a. waarop artikel 18, paragraaf 2, van het verdrag, bedoeld in artikel 1, van toepassing is;  
@@ -31,7 +31,7 @@ c. waarop op 5 juni 2001 reeds aanspraak bestond.
 
 ### Artikel  3  
 
-1.  In afwijking van de Wet op de loonbelasting 1964 en de [Wet inkomstenbelasting 2001](../../../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bedraagt de in Nederland verschuldigde loonbelasting en inkomstenbelasting over inkomstenbestanddelen als bedoeld in het tweede lid, die worden genoten door een natuurlijke persoon die sinds 5 juni 2001 onafgebroken inwoner van België is, vanaf het derde kalenderjaar tot en met het zevende kalenderjaar na de inwerkingtreding van het verdrag, bedoeld in artikel 1, ten hoogste 25% van het bedrag van die inkomstenbestanddelen.   
+1.  In afwijking van de Wet op de loonbelasting 1964 en de Wet inkomstenbelasting 2001 bedraagt de in Nederland verschuldigde loonbelasting en inkomstenbelasting over inkomstenbestanddelen als bedoeld in het tweede lid, die worden genoten door een natuurlijke persoon die sinds 5 juni 2001 onafgebroken inwoner van België is, vanaf het derde kalenderjaar tot en met het zevende kalenderjaar na de inwerkingtreding van het verdrag, bedoeld in artikel 1, ten hoogste 25% van het bedrag van die inkomstenbestanddelen.   
 2.  Het eerste lid is slechts van toepassing op inkomstenbestanddelen: 
 
 a. die een periodiek karakter dragen;  
@@ -43,7 +43,7 @@ c. waarop artikel 18, paragraaf 2, van het verdrag, bedoeld in artikel 1, van t
 
 ### Artikel  4  
 
-Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](../../../../../../../../../../../../../wet/tijdelijke/referendumwet/BWBR0012701/README.md) treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
+Onder toepassing van artikel 16 van de Tijdelijke referendumwet treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

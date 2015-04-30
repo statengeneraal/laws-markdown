@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Financiën van 22 november 1996, nr. IFZ96/1530M, Directoraat-Generaal voor Fiscale Zaken, Directie Internationale Fiscale Zaken:
 
-Gelet op [artikel 38, eerste lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);
+Gelet op artikel 38, eerste lid, van de Algemene wet inzake rijksbelastingen;
 
 De Raad van State gehoord (advies van 3 maart 1997, nr. W06.96.0564);
 

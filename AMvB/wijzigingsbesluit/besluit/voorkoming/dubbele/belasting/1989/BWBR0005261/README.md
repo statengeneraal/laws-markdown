@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Financiën van 11 december 1990, nr IFZ90/2066, Directoraat-Generaal voor Fiscale Zaken, Directie Internationale Fiscale Zaken;
 
-Gelet op [artikel 38, eerste lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (*Stb.* 1959, 301);
+Gelet op artikel 38, eerste lid, van de Algemene wet inzake rijksbelastingen (*Stb.* 1959, 301);
 
 De Raad van State gehoord (advies van 13 augustus 1991, nr. W06.91.0026);
 

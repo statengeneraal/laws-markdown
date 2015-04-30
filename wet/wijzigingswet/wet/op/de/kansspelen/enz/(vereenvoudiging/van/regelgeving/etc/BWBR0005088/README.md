@@ -107,8 +107,8 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  XXV  
 
-1.  Ter zake van voorzieningen die in gebruik zijn genomen dan wel zijn voltooid voordat een jaar na inwerkingtreding van deze wet is verstreken, behoeft geen besluit als bedoeld in het vierde lid van artikel 273*a*  of [274 van de gemeentewet](../../../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) te worden genomen. Voor de heffing van de baatbelasting en de bouwgrondbelasting blijven ter zake van die voorzieningen de artikelen 273*a*  en [274 van de gemeentewet](../../../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md), zoals deze luidden voor de inwerkingtreding van deze wet, van toepassing.   
-2.   Ter zake van voorzieningen waarvan de totstandbrenging is aangevangen voordat een jaar na inwerkingtreding van deze wet is verstreken en welke niet voor het verstrijken van die termijn in gebruik zijn genomen dan wel zijn voltooid, en waarvoor geen besluit als bedoeld in het vierde lid van artikel 273*a*  of [274 van de gemeentewet](../../../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) is genomen neemt de raad binnen één maand na afloop van deze termijn alsnog een zodanig besluit.  
+1.  Ter zake van voorzieningen die in gebruik zijn genomen dan wel zijn voltooid voordat een jaar na inwerkingtreding van deze wet is verstreken, behoeft geen besluit als bedoeld in het vierde lid van artikel 273*a*  of 274 van de gemeentewet te worden genomen. Voor de heffing van de baatbelasting en de bouwgrondbelasting blijven ter zake van die voorzieningen de artikelen 273*a*  en 274 van de gemeentewet, zoals deze luidden voor de inwerkingtreding van deze wet, van toepassing.   
+2.   Ter zake van voorzieningen waarvan de totstandbrenging is aangevangen voordat een jaar na inwerkingtreding van deze wet is verstreken en welke niet voor het verstrijken van die termijn in gebruik zijn genomen dan wel zijn voltooid, en waarvoor geen besluit als bedoeld in het vierde lid van artikel 273*a*  of 274 van de gemeentewet is genomen neemt de raad binnen één maand na afloop van deze termijn alsnog een zodanig besluit.  
 
 ### Artikel  XXVI  
 
@@ -116,13 +116,13 @@ In gevallen waarin voor de datum van inwerkingtreding van deze wet een beschikki
 
 ### Artikel  XXVII  
 
-A. Artikel XVI, is niet van toepassing op verordeningen die zijn vastgesteld vóór de dag waarop deze wet in werking treedt. Ten aanzien van die verordeningen blijven de [artikelen 5](../../../../../../../../../../../../wet/wet/verontreiniging/oppervlaktewateren/BWBR0002682/README.md), eerste en derde lid, en [22, tweede, vierde en vijfde lid, van de Wet verontreiniging oppervlaktewateren](../../../../../../../../../../../../wet/wet/verontreiniging/oppervlaktewateren/BWBR0002682/README.md), zoals die luidden op de dag voor die van de inwerkingtreding van deze wet van kracht.  
+A. Artikel XVI, is niet van toepassing op verordeningen die zijn vastgesteld vóór de dag waarop deze wet in werking treedt. Ten aanzien van die verordeningen blijven de artikelen 5, eerste en derde lid, en 22, tweede, vierde en vijfde lid, van de Wet verontreiniging oppervlaktewateren, zoals die luidden op de dag voor die van de inwerkingtreding van deze wet van kracht.  
 
-B. Artikel XVI, onderdeel B, onder 2, vervalt op het tijdstip waarop artikel 4.14 van het bij koninklijke boodschap van 11 juni 1987 ingediende voostel voor een [Waterschapswet](../../../../../../../../../../../../wet/waterschapswet/BWBR0005108/README.md) (Kamerstukken II, 1986/87, 19 995) in werking treedt.   
+B. Artikel XVI, onderdeel B, onder 2, vervalt op het tijdstip waarop artikel 4.14 van het bij koninklijke boodschap van 11 juni 1987 ingediende voostel voor een Waterschapswet (Kamerstukken II, 1986/87, 19 995) in werking treedt.   
 
 ### Artikel  XXVIII  
 
-Een verordening, uitgevaardigd ingevolge [artikel 8, eerste lid, van de Drank- en Horecawet](../../../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), zoals dat artikellid voor de inwerkingtreding van deze wet luidde, behoudt gedurende ten hoogste een jaar na de inwerkingtreding van deze wet haar geldigheid. 
+Een verordening, uitgevaardigd ingevolge artikel 8, eerste lid, van de Drank- en Horecawet, zoals dat artikellid voor de inwerkingtreding van deze wet luidde, behoudt gedurende ten hoogste een jaar na de inwerkingtreding van deze wet haar geldigheid. 
 
 ### Artikel  XXIX  
 

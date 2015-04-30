@@ -6,7 +6,7 @@ WIJ JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Sociale Zaken en Volksgezondheid van 13 juni 1967 nr. 57776 Directoraat-Generaal voor Sociale Voorzieningen, Directie Sociale Verzekering, Afdeling Algemene Zaken;
 
-Gelet op [artikel 28, eerste en tweede lid, van de Liquidatiewet ongevallenwetten](../../../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md);
+Gelet op artikel 28, eerste en tweede lid, van de Liquidatiewet ongevallenwetten;
 
 De Raad van State gehoord (advies van 21 juni 1967 nr. 66.
 
@@ -20,9 +20,9 @@ Hebben goedgevonden en verstaan:
 
 Voor de toepassing van dit besluit wordt verstaan onder:  
 
-a. de risicodragers ingevolge de ongevallenwetten: de risicodragers, opgesomd in [artikel 1, onder *e* t/m g, van de Liquidatiewet ongevallenwetten](../../../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md);  
+a. de risicodragers ingevolge de ongevallenwetten: de risicodragers, opgesomd in artikel 1, onder *e* t/m g, van de Liquidatiewet ongevallenwetten;  
 
-b. de liquidatiedatum: de datum, waarop [artikel 19 van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) in werking treedt;  
+b. de liquidatiedatum: de datum, waarop artikel 19 van de Wet op de arbeidsongeschiktheidsverzekering in werking treedt;  
 
 c. de datum van overdracht: de liquidatiedatum onderscheidenlijk de data waarop de overdrachten plaatsvinden overeenkomstig het bepaalde in artikel 14.   
 
@@ -66,7 +66,7 @@ De rekenrente voor de berekening der contante waarden, bedoeld in de voorgaande 
 
 ### Artikel  8  
 
-1.  De verplichtingen wegens renten als bedoeld in artikel 16 der Ongevallenwet 1921, artikel 37 der Land- en Tuinbouwongevallenwet 1922 en artikel 2, eerste lid, der Zeeongevallenwet 1919, ter zake van ongevallen, plaatsgehad hebbend minder dan een jaar vóór de liquidatiedatum, worden door of namens de risicodragers, te wier laste deze verplichtingen werden vastgesteld, per de datum, waarop een jaar na de dag van het ongeval is verstreken, omgerekend tot hun contante waarde. Ten aanzien van de renten als bedoeld in de vorige volzin, ter zake waarvan [artikel 5, tweede lid](../../../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md), onderscheidenlijk [artikel 11, eerste lid, van de Liquidatiewet ongevallenwetten](../../../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md) toepassing vindt, wordt als de datum, waarop een jaar na de dag van het ongeval is verstreken, aangemerkt de liquidatiedatum, onderscheidenlijk de datum, met ingang waarvan genoemd artikel 11, eerste lid, toepassing vindt.   
+1.  De verplichtingen wegens renten als bedoeld in artikel 16 der Ongevallenwet 1921, artikel 37 der Land- en Tuinbouwongevallenwet 1922 en artikel 2, eerste lid, der Zeeongevallenwet 1919, ter zake van ongevallen, plaatsgehad hebbend minder dan een jaar vóór de liquidatiedatum, worden door of namens de risicodragers, te wier laste deze verplichtingen werden vastgesteld, per de datum, waarop een jaar na de dag van het ongeval is verstreken, omgerekend tot hun contante waarde. Ten aanzien van de renten als bedoeld in de vorige volzin, ter zake waarvan artikel 5, tweede lid, onderscheidenlijk artikel 11, eerste lid, van de Liquidatiewet ongevallenwetten toepassing vindt, wordt als de datum, waarop een jaar na de dag van het ongeval is verstreken, aangemerkt de liquidatiedatum, onderscheidenlijk de datum, met ingang waarvan genoemd artikel 11, eerste lid, toepassing vindt.   
 2.   Ten aanzien van de in het eerste lid bedoelde omrekening is artikel 5 van overeenkomstige toepassing.   
 3.   De contante waarden, bedoeld in het eerste lid, worden verhoogd met interest tot aan de in artikel 14, onder *a*, onderscheidenlijk *b* , bedoelde datum van overdracht.   
 4.   De rekenrente voor de berekening der contante waarden, evenals die voor de vaststelling van de interest, bedoeld in het derde lid, wordt vastgesteld op het percentage, dat een half jaar, onderscheidenlijk een jaar, na de liquidatiedatum gemiddeld geldt voor obligatieleningen aan overheidsinstanties en openbare nutsbedrijven met een looptijd van gemiddeld circa 12 jaar zonder de mogelijkheid van vervroegde aflossing met dien verstande dat het percentage naar boven wordt afgerond op een veelvoud van 1/8 %.  

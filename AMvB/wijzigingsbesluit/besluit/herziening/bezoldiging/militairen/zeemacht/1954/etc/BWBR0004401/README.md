@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Defensie a.i. van 26 juli 1988, Afdeling arbeidsvoorwaarden militair personeel, nr. D88/091/23352;
 
-Gelet op [artikel 12 van de Militaire Ambtenarenwet 1931](../../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) (*Stb.* 519);
+Gelet op artikel 12 van de Militaire Ambtenarenwet 1931 (*Stb.* 519);
 
 De Raad van State gehoord (advies van 26 augustus 1988, nr. W07.88.0433);
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat het in het kader van het veteranenbeleid wenselijk is regels te stellen inzake een tegemoetkoming in de vorm van een eenmalige uitkering door het Rijk aan militairen die meer dan twee doch minder dan vijf jaar als dienst- of reserveplichtige, als oorlogsvrijwilliger dan wel als schutterplichtige bij de krijgsmacht van het Koninkrijk hetzij tijdens de Tweede Wereldoorlog, dan wel in het voormalig Nederlands-Indië, in Korea of in het voormalig Nederlands Nieuw-Guinea in werkelijke dienst zijn geweest en daarvoor in de overheidspensioenwetgeving, dan wel krachtens een pensioenvervangende of in een pensioengerelateerde [uitkeringsregeling](../../../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md), geen financiële compensatie hebben ontvangen;
+Alzo Wij in overweging genomen hebben, dat het in het kader van het veteranenbeleid wenselijk is regels te stellen inzake een tegemoetkoming in de vorm van een eenmalige uitkering door het Rijk aan militairen die meer dan twee doch minder dan vijf jaar als dienst- of reserveplichtige, als oorlogsvrijwilliger dan wel als schutterplichtige bij de krijgsmacht van het Koninkrijk hetzij tijdens de Tweede Wereldoorlog, dan wel in het voormalig Nederlands-Indië, in Korea of in het voormalig Nederlands Nieuw-Guinea in werkelijke dienst zijn geweest en daarvoor in de overheidspensioenwetgeving, dan wel krachtens een pensioenvervangende of in een pensioengerelateerde uitkeringsregeling, geen financiële compensatie hebben ontvangen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goed gevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  
@@ -21,7 +21,7 @@ a. militair:
 
 3°. degene die krachtens de Surinaamse Schutterijverordening 1941, dan wel krachtens de Antilliaanse Schutterij-landsverordening 1940 werkelijke dienst heeft verricht; of   
 
-4°. degene die onder de vlag van het Koninkrijk der Nederlanden als dienst- of reserveplichtige bij het Koninklijk Nederlands-Indisch Leger/Koninklijk Nederlands-Indonesisch Leger (KNIL), dan wel krachtens het Dienstplichtbesluit voor Nederlands-Indië werkelijke dienst heeft verricht, tijdens die vervulling Nederlander was of in die periode geen Nederlander was maar thans op grond van de [Wet betreffende de positie van Molukkers](../../../../../../../../../wet/wet/betreffende/de/positie/van/molukkers/BWBR0003052/README.md) bij de toepassing van de Nederlandse wetgeving als Nederlander wordt behandeld, en die na afloop van zijn werkelijke dienst naar Nederland is vertrokken of teruggekeerd dan wel door de zorg van de Nederlandse regering is overgebracht naar Nederland.     
+4°. degene die onder de vlag van het Koninkrijk der Nederlanden als dienst- of reserveplichtige bij het Koninklijk Nederlands-Indisch Leger/Koninklijk Nederlands-Indonesisch Leger (KNIL), dan wel krachtens het Dienstplichtbesluit voor Nederlands-Indië werkelijke dienst heeft verricht, tijdens die vervulling Nederlander was of in die periode geen Nederlander was maar thans op grond van de Wet betreffende de positie van Molukkers bij de toepassing van de Nederlandse wetgeving als Nederlander wordt behandeld, en die na afloop van zijn werkelijke dienst naar Nederland is vertrokken of teruggekeerd dan wel door de zorg van de Nederlandse regering is overgebracht naar Nederland.     
 
 b. werkelijke dienst:  
 
@@ -44,7 +44,7 @@ c. weduwe: degene die
 ### Artikel  2  
 
 1.  De militair, bedoeld in artikel 1, onderdeel a, onder 1°, 2° of 3°, die een werkelijke dienst van meer dan twee doch minder dan vijf jaar, hetzij tijdens de Tweede Wereldoorlog, dan wel in het voormalig Nederlands-Indië, in Korea of in het voormalig Nederlands Nieuw-Guinea doorgebracht, kan aanwijzen, alsmede de militair, bedoeld in artikel 1, onderdeel a, onder 4°, die daarenboven in de periode voor de inwerkingtreding van deze wet tenminste één jaar onafgebroken in Nederland gevestigd is geweest, heeft aanspraak op een eenmalige uitkering ten bedrage van € 453,78.    
-2.  Eveneens aanspraak op een eenmalige uitkering ten bedrage van € 453,78 heeft degene die als militair ten minste vijf jaar werkelijke dienst kan aanwijzen, hetzij tijdens de Tweede Wereldoorlog, dan wel in het voormalig Nederlands-Indië, in Korea of in het voormalig Nederlands Nieuw-Guinea doorgebracht en niet of minder dan vijf jaar als militair in de zin van de [Uitkeringswet financiële compensatie langdurige militaire dienst](../../../../../../../../../wet/uitkeringswet/financiële/compensatie/langdurige/militaire/dienst/BWBR0005569/README.md) onderscheidenlijk de [Uitkeringswet KNIL-dienstplichttijd](../../../../../../../../../wet/uitkeringswet/knil-dienstplichttijd/BWBR0006349/README.md) in werkelijke dienst is geweest.    
+2.  Eveneens aanspraak op een eenmalige uitkering ten bedrage van € 453,78 heeft degene die als militair ten minste vijf jaar werkelijke dienst kan aanwijzen, hetzij tijdens de Tweede Wereldoorlog, dan wel in het voormalig Nederlands-Indië, in Korea of in het voormalig Nederlands Nieuw-Guinea doorgebracht en niet of minder dan vijf jaar als militair in de zin van de Uitkeringswet financiële compensatie langdurige militaire dienst onderscheidenlijk de Uitkeringswet KNIL-dienstplichttijd in werkelijke dienst is geweest.    
 3.  Het eerste en tweede lid zijn niet van toepassing op de militair die zich schuldig heeft gemaakt aan desertie of dienstweigering.  
 
 ### Artikel  3  
@@ -65,7 +65,7 @@ De gemeentebesturen en ambtenaren van de burgerlijke stand zijn verplicht op een
 
 ###Artikel 6 
 
-De over de uitkering verschuldigde belasting ingevolge de [Wet inkomstenbelasting 2001](../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), de [Wet op de loonbelasting 1964](../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en premie voor de volksverzekeringen ingevolge de [Wet financiering sociale verzekeringen](../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) komen ten laste van het Rijk. 
+De over de uitkering verschuldigde belasting ingevolge de Wet inkomstenbelasting 2001, de Wet op de loonbelasting 1964 en premie voor de volksverzekeringen ingevolge de Wet financiering sociale verzekeringen komen ten laste van het Rijk. 
 
 ### Artikel  7  
 

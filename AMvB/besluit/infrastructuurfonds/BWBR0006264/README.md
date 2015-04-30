@@ -16,31 +16,31 @@ Hebben goedgevonden en verstaan:
 
 ####Algemene bepalingen 
 
-###Artikel 1 
+### Artikel  1  
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  
 
-a.wet: de Wet Infrastructuurfonds; 
+a. wet: de Wet Infrastructuurfonds;   
 
-b.dagelijks bestuur: dagelijks bestuur van een regionaal openbaar lichaam; 
+b. dagelijks bestuur: dagelijks bestuur van een regionaal openbaar lichaam;   
 
-c.samenwerkingsgebied: samenwerkingsgebied als bedoeld in artikel 2 van de Kaderwet bestuur in verandering; 
+c.  samenwerkingsgebied: gebied aangewezen op grond van artikel 20, derde lid, van de Wet personenvervoer 2000;  
 
-d.project: een ondeelbaar geheel aan werkzaamheden met als doel de aanleg van infrastructuur en met als kenmerken, dat tot de uitvoering van de werkzaamheden in beginsel alleen in zijn geheel kan worden besloten en dat een gefaseerde uitvoering van onderdelen, waarbij ieder onderdeel na voltooiing in gebruik kan worden genomen en effectief is, niet zonder aanzienlijke meerkosten mogelijk is;
+d. project: een ondeelbaar geheel aan werkzaamheden met als doel de aanleg van infrastructuur en met als kenmerken, dat tot de uitvoering van de werkzaamheden in beginsel alleen in zijn geheel kan worden besloten en dat een gefaseerde uitvoering van onderdelen, waarbij ieder onderdeel na voltooiing in gebruik kan worden genomen en effectief is, niet zonder aanzienlijke meerkosten mogelijk is;  
 
-e.groot project: een project waarvan de geraamde op grond van artikel 5 voor subsidie in aanmerking komende kosten ten minste € 225 000 000,– bedragen of ten minste € 112 500 000,– bedragen indien het een project voor regionale of lokale infrastructuur betreft dat geheel wordt gerealiseerd buiten de samenwerkingsgebieden waarin de gemeente Amsterdam, de gemeente Rotterdam of de gemeente 's-Gravenhage is gelegen;
+e. groot project: een project waarvan de geraamde op grond van artikel 5 voor subsidie in aanmerking komende kosten ten minste € 225 000 000,– bedragen of ten minste € 112 500 000,– bedragen indien het een project voor regionale of lokale infrastructuur betreft dat geheel wordt gerealiseerd buiten de samenwerkingsgebieden waarin de gemeente Amsterdam, de gemeente Rotterdam of de gemeente 's-Gravenhage is gelegen; 
 
-f.overig project: een project waarvan de geraamde op grond van artikel 5 voor subsidie in aanmerking komende kosten minder dan € 225 000 000,– bedragen of minder dan € 112 500 000,– bedragen indien het een project betreft voor regionale of lokale infrastructuur dat geheel wordt gerealiseerd buiten samenwerkingsgebieden waarin de gemeente Amsterdam, de gemeente Rotterdam of de gemeente 's-Gravenhage is gelegen;
+f.overig project: een project waarvan de geraamde op grond van artikel 5 voor subsidie in aanmerking komende kosten minder dan € 225 000 000,– bedragen of minder dan € 112 500 000,– bedragen indien het een project betreft voor regionale of lokale infrastructuur dat geheel wordt gerealiseerd buiten samenwerkingsgebieden waarin de gemeente Amsterdam, de gemeente Rotterdam of de gemeente 's-Gravenhage is gelegen; 
 
-g.vaste subsidiebedrag: subsidie, waarop geen nacalculatie plaatsvindt en welke alleen kan worden bijgesteld op grond van wijzigingen van het algemene loon- en prijspeil; 
+g. vaste subsidiebedrag: subsidie, waarop geen nacalculatie plaatsvindt en welke alleen kan worden bijgesteld op grond van wijzigingen van het algemene loon- en prijspeil;   
 
-h.landelijke infrastructuur: het hoofdwegennet, het landelijk spoorwegnet en het hoofdvaarwegennet, als bedoeld in artikel 1, eerste lid, van de Tracéwet; 
+h. landelijke infrastructuur: het hoofdwegennet, het landelijk spoorwegnet en het hoofdvaarwegennet, als bedoeld in artikel 1, eerste lid, van de Tracéwet;   
 
-i.lokale infrastructuur: infrastructuur, gelegen binnen één gemeente en in beheer bij die gemeente en met een lokale functie; 
+i. lokale infrastructuur: infrastructuur, gelegen binnen één gemeente en in beheer bij die gemeente en met een lokale functie;   
 
-j.regionale infrastructuur: infrastructuur gelegen binnen een provincie of samenwerkingsgebied, in beheer bij een provincie, gemeente of waterschap en met een regionale functie;
+j. regionale infrastructuur: infrastructuur gelegen binnen een provincie of samenwerkingsgebied, in beheer bij een provincie, gemeente of waterschap en met een regionale functie;  
 
-k.Besluit personenvervoer: Besluit personenvervoer, zoals dat gold voor de inwerkingtreding van het Besluit personenvervoer 2000. 
+k. Besluit personenvervoer: Besluit personenvervoer, zoals dat gold voor de inwerkingtreding van het Besluit personenvervoer 2000.    
 
 ### Artikel  2  
 
@@ -204,7 +204,7 @@ e. aanleg van een terminal ten behoeve van intermodaal vervoer vijfentwintig pro
 3.   In afwijking van het eerste lid, onderdeel *a*, kan Onze Minister voor de subsidie voor een investering ten behoeve van spoorweginfrastructuur uitsluitend bestemd voor vervoer van goederen een lager percentage vaststellen.    
 4.  In afwijking van het eerste lid, aanhef en onderdeel b, kan Onze Minister een lager bedrag dan € 225 000 000,– onderscheidenlijk € 112 500 000,– aftrekken in geval: 
 
-a.de financiële draagkracht van de aanvrager hiertoe aanleiding geeft;hiervan is ieder geval sprake indien de hoogte van de brede doeluitkering als bedoeld in artikel 2, eerste lid, dan wel artikel 3, eerste lid, van de Wet BDU verkeer en vervoer, in het jaar waarin de aanvraag is ingediend, vermenigvuldigd met twee, gelijk is aan of lager is dan EUR 225.000.000,– dan wel gelijk is of lager is dan EUR 112.500.000,–; of
+a. de financiële draagkracht van de aanvrager hiertoe aanleiding geeft; hiervan is in ieder geval sprake indien de hoogte van de brede doeluitkering als bedoeld in artikel 3, eerste lid, van de Wet BDU verkeer en vervoer, in het jaar waarin de aanvraag is ingediend, vermenigvuldigd met twee, gelijk is aan of lager dan € 225.000.000,–: of 
 
 b.het project een functie heeft die naar het oordeel van Onze Minister het regionale of lokale belang aanmerkelijk te boven gaat.   
 5.  Indien reeds subsidie is verleend voor de kosten, bedoeld in artikel 5, eerste lid, onderdeel a, wordt deze bij de verlening van een subsidie voor de overige kosten, genoemd in artikel 5, eerste lid, in mindering gebracht. 

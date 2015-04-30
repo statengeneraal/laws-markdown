@@ -492,9 +492,9 @@ b. tabaksrolletjes bestaande uit een gebroken melange, met een dekblad van gerec
 
 a. sigaren 5;  
 
-b. sigaretten 0,95 benevens per 1000 stuks € 173,97, met dien verstande dat het totale bedrag van de accijns per 1000 stuks ten minste € 181,49 bedraagt;  
+b. sigaretten 1,09 benevens per 1000 stuks € 178,28, met dien verstande dat het totale bedrag van de accijns per 1000 stuks ten minste € 181,53 bedraagt;  
 
-c. rooktabak 5,03 benevens per kilogram € 75,77, met dien verstande dat het totale bedrag van de accijns per kilogram ten minste € 85,32 bedraagt.     
+c. rooktabak 4,60 benevens per kilogram € 78,68, met dien verstande dat het totale bedrag van de accijns per kilogram ten minste € 85,74 bedraagt.     
 2.   Onder de kleinhandelsprijs van een tabaksprodukt wordt verstaan de prijs waarvoor dat produkt aan anderen dan wederverkopers wordt verkocht, met inbegrip van alle belastingen en de kosten van de verpakking.    
 3.   Voor de berekening van de accijns wordt voor tabaksprodukten die worden verbruikt binnen een accijnsgoederenplaats voor tabaksprodukten de kleinhandelsprijs gesteld op die van gelijke dan wel soortgelijke produkten die worden verbruikt buiten de accijnsgoederenplaats.    
 4.  Voor de berekening van de accijns wordt een tabaksrolletje als bedoeld in artikel 31 aangemerkt als twee sigaretten wanneer het, zonder filter of mondstuk, meer dan 8 cm doch niet meer dan 11 cm lang is, en als drie sigaretten wanneer het, zonder filter of mondstuk, meer dan 11 cm doch niet meer dan 14 cm lang is, enzovoort.  

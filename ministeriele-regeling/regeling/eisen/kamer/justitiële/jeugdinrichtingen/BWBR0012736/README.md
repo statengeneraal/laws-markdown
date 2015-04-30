@@ -3,7 +3,7 @@
 ##Regeling eisen kamer justitiële jeugdinrichtingen 
 
 De Minister van Justitie,  
-Gelet op [artikel 17, vijfde lid, van Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);
+Gelet op artikel 17, vijfde lid, van Beginselenwet justitiële jeugdinrichtingen;
 
 Gezien het advies van het College van advies voor de justitiële kinderbescherming van 12 oktober 2000, kenmerk: 5056746/00/TH/rb;
 Besluit:      
@@ -13,7 +13,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   wet:   de [Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);      raam:   een voorziening waardoor de cyclus van dag en nacht kan worden waargenomen.     
+In deze regeling wordt verstaan onder:   wet:   de Beginselenwet justitiële jeugdinrichtingen;      raam:   een voorziening waardoor de cyclus van dag en nacht kan worden waargenomen.     
 
 ### Artikel  2  
 
@@ -82,7 +82,7 @@ g.  twee contactdozen.
 
 ### Artikel  11  
 
-Deze regeling is niet van toepassing op een ruimte bedoeld in [artikel 25, tweede lid](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), of [artikel 55, eerste lid, onder a, van de wet](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), of op een ruimte waarin een jeugdige tijdelijk wordt ondergebracht of op ruimten die worden gebruikt voor onderzoek van jeugdigen.  
+Deze regeling is niet van toepassing op een ruimte bedoeld in artikel 25, tweede lid, of artikel 55, eerste lid, onder a, van de wet, of op een ruimte waarin een jeugdige tijdelijk wordt ondergebracht of op ruimten die worden gebruikt voor onderzoek van jeugdigen.  
 
 ### Artikel  12  
 

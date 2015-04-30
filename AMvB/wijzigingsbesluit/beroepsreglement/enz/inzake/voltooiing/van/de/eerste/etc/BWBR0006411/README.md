@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 22 oktober 1993, Stafafdeling Wetgeving Publiekrecht, nr. 401909/93/6;
 
-Gelet op de [artikelen 11, derde lid, van de Beroepswet](../../../../../../../../../../../wet/beroepswet/BWBR0002170/README.md), 34, tweede lid, en 50, tweede lid, van de [Wet op de rechterlijke organisatie](../../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) en 16, vierde lid, van de Tariefcommissiewet;
+Gelet op de artikelen 11, derde lid, van de Beroepswet, 34, tweede lid, en 50, tweede lid, van de Wet op de rechterlijke organisatie en 16, vierde lid, van de Tariefcommissiewet;
 
 De Raad van State gehoord (advies van 22 december 1993, nr. W03.93.0700);
 

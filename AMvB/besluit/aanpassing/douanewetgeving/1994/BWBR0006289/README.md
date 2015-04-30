@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Financiën van 26 oktober 1993, nr. WD.93/641, Directoraat-Generaal voor Fiscale Zaken, directie Wetgeving Douane;
 
-Gelet op de artikelen 2 en 3 van de wet van 23 juni 1960, houdende voorzieningen op het terrein van de invoerrechten en accijnzen ter uitvoering van het Benelux-Unieverdrag en andere internationale overeenkomsten (*Stb.* 262), [artikel 85 van de Wet op de accijns](../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en de artikelen 45 en 220*a* van de Wet inzake de douane;
+Gelet op de artikelen 2 en 3 van de wet van 23 juni 1960, houdende voorzieningen op het terrein van de invoerrechten en accijnzen ter uitvoering van het Benelux-Unieverdrag en andere internationale overeenkomsten (*Stb.* 262), artikel 85 van de Wet op de accijns en de artikelen 45 en 220*a* van de Wet inzake de douane;
 
 De Raad van State gehoord (advies van 22 november 1993, nr. W06.93.0711);
 

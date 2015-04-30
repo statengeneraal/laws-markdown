@@ -6,7 +6,7 @@ Wij WILHELMINA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje
 
 Op de voordracht van Onze Ministers van Defensie en van Binnenlandsche Zaken van 4 April 1935, VIIIe Afdeeling, n°. 129, en van 12 April 1935, n°. 489II, Afdeeling Pensioenen en Wachtgelden;
 
-Gelet op [artikel 12 van de Militaire Ambtenarenwet 1931](../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md);
+Gelet op artikel 12 van de Militaire Ambtenarenwet 1931;
 
 Overwegende, dat het wenschelijk is Ons Besluit van den 30 Maart 1927 (*Staatsblad* n°. 64) tot vaststelling van een wachtgeldregeling voor het militair personeel der zeemacht, zooals dat Besluit is gewijzigd en aangevuld bij Ons Besluit van 4 Februari 1931 (*Staatsblad* n°. 46), in te trekken en opnieuw vast te stellen;
 

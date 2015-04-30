@@ -43,7 +43,7 @@ De onderstaande onroerende rijkseigendommen gaan in eigendom, beheer en onderhou
 ### Artikel  2  
 
 1.  De verharding van de wegen en fietspaden, gelegen op de Harderdijk tussen het gemaal Lovink en de kavel, administratief bekend sectie Y, nummer 80, kadastraal bekend gemeente Dronten, sectie F, nummers 132 en 148, alsmede van een gedeelte van de Strandweg (afrit tot aan kavelsloot) gaat in beheer en onderhoud over op de gemeente met ingang van de dag, volgende op die van de dagtekening van dit besluit.   
-2.   De bermen, grenzend aan de in het vorige lid genoemde verhardingen, gaan in beheer - in de zin van de [Wegenwet](../../../../../../../../../../../../wet/wegenwet/BWBR0001948/README.md) - op de gemeente over met ingang van de dag, volgende op die van de dagtekening van dit besluit.   
+2.   De bermen, grenzend aan de in het vorige lid genoemde verhardingen, gaan in beheer - in de zin van de Wegenwet - op de gemeente over met ingang van de dag, volgende op die van de dagtekening van dit besluit.   
 3.   Het is de gemeente bekend dat op het in de vorige leden bedoelde gedeelte van de Harderdijk het Rijkszeeweringenreglement van toepassing is.  
 
 ### Artikel  3  

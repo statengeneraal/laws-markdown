@@ -3,7 +3,7 @@
 ##Besluit als bedoeld in artikel 120, eerste lid van de Wet personenvervoer 2000, houdende intrekking van de Aanwijzing ingevolge artikel 39 van de Wet personenvervoer (oud)
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 120, eerste lid, van de Wet personenvervoer 2000](../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);
+Gelet op artikel 120, eerste lid, van de Wet personenvervoer 2000;
 Besluit:    
 
 ### Artikel  1  

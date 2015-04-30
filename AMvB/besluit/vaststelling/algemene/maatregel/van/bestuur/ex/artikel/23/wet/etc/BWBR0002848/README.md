@@ -53,7 +53,7 @@ e. in een aangehouden betrekking.
 ### Artikel  2a  
 
 1.  Dit besluit verstaat onder dienstbetrekking iedere publiekrechtelijke of privaatrechtelijke arbeidsverhouding waarbij in dienst van een natuurlijke persoon of een lichaam werkzaamheden tegen bezoldiging of loon worden verricht.   
-2.   Het bepaalde bij of krachtens de [artikelen 4, 5 en 6 van de Werkloosheidswet](../../../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) (*Stb*. 1987, 93) is van overeenkomstige toepassing.  
+2.   Het bepaalde bij of krachtens de artikelen 4, 5 en 6 van de Werkloosheidswet (*Stb*. 1987, 93) is van overeenkomstige toepassing.  
 
 ### Artikel  3  
 
@@ -95,23 +95,23 @@ b. voor de toepassing van artikel 5a als ingangsdatum uitgegaan van de datum op 
 1.  De duur van het wachtgeld is 6 maanden, met ingang van de dag waarop het ontslag ingaat.   
 2.   Indien de betrokkene:  
 
-a. in de periode van 5 jaar onmiddellijk voorafgaande aan het ontslag ten minste gedurende 3 jaar als werknemer als bedoeld in [artikel 3 van de Werkloosheidswet](../../../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en in dienstbetrekking van 8 of meer uren per week werkzaam is geweest;  
+a. in de periode van 5 jaar onmiddellijk voorafgaande aan het ontslag ten minste gedurende 3 jaar als werknemer als bedoeld in artikel 3 van de Werkloosheidswet en in dienstbetrekking van 8 of meer uren per week werkzaam is geweest;  
 
 b. onmiddellijk voorafgaande aan het ontslag recht heeft op een uitkering op grond van de Algemene Arbeidsongeschiktheidswet (*Stb*. 1980, 28);   wordt de duur van het wachtgeld verlengd met: 3 maanden bij een arbeidsverleden van ten minste 5 jaar; 0,5 jaar bij een arbeidsverleden van ten minste 10 jaar; 1 jaar bij een arbeidsverleden van ten minste 15 jaar; 1,5 jaar bij een arbeidsverleden van ten minste 20 jaar; 2 jaar bij een arbeidsverleden van ten minste 25 jaar; 2,5 jaar bij een arbeidsverleden van ten minste 30 jaar; 3,5 jaar bij een arbeidsverleden van ten minste 35 jaar, en 4,5 jaar bij een arbeidsverleden van ten minste 40 jaar.   
 3.   Het arbeidsverleden, bedoeld in het tweede lid, wordt vastgesteld door samentelling van:  
 
-a. perioden, gelegen in de 5 jaar onmiddellijk voorafgaande aan het ontslag, waarover de betrokkene aantoont als werknemer als bedoeld in [artikel 3 van de Werkloosheidswet](../../../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en in dienstbetrekking van 8 of meer uren per week werkzaam te zijn geweest, en  
+a. perioden, gelegen in de 5 jaar onmiddellijk voorafgaande aan het ontslag, waarover de betrokkene aantoont als werknemer als bedoeld in artikel 3 van de Werkloosheidswet en in dienstbetrekking van 8 of meer uren per week werkzaam te zijn geweest, en  
 
 b. de periode gelegen tussen de 18e verjaardag van de betrokkene en de dag, gelegen 5 jaar voor het ontslag.     
 4.   Perioden, waarin een betrokkene:  
 
-a. recht heeft op een arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) (*Stb*. 1987, 89), berekend naar een arbeidsongeschiktheid van ten minste 80%, of een toelage ontvangt op grond van artikel 58, eerste of derde lid, van de Algemene Arbeidsongeschiktheidswet, die al dan niet vermeerderd met een arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) 70% of meer bedraagt van het dagloon, waarnaar de arbeidsongeschiktheidsuitkering is of zou zijn berekend;  
+a. recht heeft op een arbeidsongeschiktheidsuitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering (*Stb*. 1987, 89), berekend naar een arbeidsongeschiktheid van ten minste 80%, of een toelage ontvangt op grond van artikel 58, eerste of derde lid, van de Algemene Arbeidsongeschiktheidswet, die al dan niet vermeerderd met een arbeidsongeschiktheidsuitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering 70% of meer bedraagt van het dagloon, waarnaar de arbeidsongeschiktheidsuitkering is of zou zijn berekend;  
 
 b. ter zake van een dienstbetrekking op grond waarvan hem door het Rijk invaliditeitspensioen was verzekerd, recht heeft op een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van ten minste 80%, of een toelage ontvangt die naar aard en strekking overeenkomt met een toelage als bedoeld onder *a*, die al dan niet vermeerderd met de arbeidsongeschiktheidsuitkering 73% of meer bedraagt van de middelsom, waarnaar de arbeidsongeschiktheidsuitkering is of zou zijn berekend;  
 
-c. een uitkering ontvangt op grond van [hoofdstuk III van de Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../../../../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md) (*Stb*. 1972, 313), berekend naar een arbeidsongeschiktheid van ten minste 80% of een toelage op grond van dat hoofdstuk, die al dan niet vermeerderd met de arbeidsongeschiktheidsuitkering 70% of meer bedraagt van het dagloon, waarnaar de arbeidsongeschiktheidsuitkering is of zou zijn berekend;  
+c. een uitkering ontvangt op grond van hoofdstuk III van de Wet arbeidsongeschiktheidsvoorziening militairen (*Stb*. 1972, 313), berekend naar een arbeidsongeschiktheid van ten minste 80% of een toelage op grond van dat hoofdstuk, die al dan niet vermeerderd met de arbeidsongeschiktheidsuitkering 70% of meer bedraagt van het dagloon, waarnaar de arbeidsongeschiktheidsuitkering is of zou zijn berekend;  
 
-d. na beëindiging van zijn dienstbetrekking een uitkering ontvangt op grond van de [Ziektewet](../../../../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) (*Stb*. 1987, 88) over de maximale duur bedoeld in artikel 29, tweede lid, van die wet;  
+d. na beëindiging van zijn dienstbetrekking een uitkering ontvangt op grond van de Ziektewet (*Stb*. 1987, 88) over de maximale duur bedoeld in artikel 29, tweede lid, van die wet;  
 
 e. een uitkering ontvangt, die naar aard en strekking overeenkomt met een uitkering bedoeld onder *a* of *d*;   worden, indien deze uitkeringen worden ontvangen in verband met een gewezen dienstbetrekking van 8 of meer uren per week, in aanmerking genomen voor de periode van drie jaar bedoeld in het tweede lid, en voor de perioden gelegen in de vijf jaar, onmiddellijk voorafgaande aan het ontslag bedoeld in het derde lid.   
 5.   Voor de periode van drie jaar bedoeld in het tweede lid, en voor de perioden gelegen in de vijf jaar, onmiddellijk voorafgaande aan het ontslag bedoeld in het derde lid, worden perioden waarin een persoon een tot zijn huishouden behorend kind:  
@@ -130,7 +130,7 @@ b. de verzorging buiten Nederland plaatsvindt anders dan tijdens vakantie.
 a. een kind verstaan een eigen, aangehuwd of pleegkind;  
 
 b. een pleegkind verstaan een kind dat als eigen kind wordt onderhouden en opgevoed.     
-9.   De regels die gesteld zijn krachtens artikel 42, negende lid, van de [Werkloosheidswet](../../../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), zijn van overeenkomstige toepassing.   
+9.   De regels die gesteld zijn krachtens artikel 42, negende lid, van de Werkloosheidswet, zijn van overeenkomstige toepassing.   
 10.   In bijzondere gevallen kan Onze Minister na afloop van de in het eerste en tweede lid bedoelde termijnen de duur van het wachtgeld verlengen.  
 
 ### Artikel  5a  
@@ -176,7 +176,7 @@ b. voldoet aan de voorwaarde bedoeld in artikel 5, tweede lid, onderdeel a of b,
 ####Bedrag van het vervolgwachtgeld
 
 1.  Het bedrag van het vervolgwachtgeld is gelijk aan het minimumloon, met dien verstande dat dit bedrag nooit meer kan bedragen dan 70% van de bezoldiging.   
-2.   Voor de toepassing van dit artikel wordt onder minimumloon verstaan het maandbedrag van het minimumloon bedoeld in [artikel 8, eerste lid, onder *a*, van de Wet minimumloon en minimumvakantiebijslag](../../../../../../../../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) (*Stb*. 1968, 657), of, indien het een betrokkene jonger dan 23 jaar betreft, het voor zijn leeftijd geldende minimumloon, bedoeld in artikel 7, derde lid, en artikel 8, derde lid, van genoemde wet, beide vermeerderd met de daarover berekende vakantiebijslag, bedoeld in artikel 15 van die wet.  
+2.   Voor de toepassing van dit artikel wordt onder minimumloon verstaan het maandbedrag van het minimumloon bedoeld in artikel 8, eerste lid, onder *a*, van de Wet minimumloon en minimumvakantiebijslag (*Stb*. 1968, 657), of, indien het een betrokkene jonger dan 23 jaar betreft, het voor zijn leeftijd geldende minimumloon, bedoeld in artikel 7, derde lid, en artikel 8, derde lid, van genoemde wet, beide vermeerderd met de daarover berekende vakantiebijslag, bedoeld in artikel 15 van die wet.  
 
 ### Artikel  7  
 
@@ -193,7 +193,7 @@ c. bij gelijktijdig genot van inkomsten, als bedoeld onder *a* en *b*, wordt het
 3.   Het vorige lid vindt overeenkomstige toepassing ten aanzien van inkomsten uit of in verband met arbeid of bedrijf ter hand genomen gedurende vakantie of verlof onmiddellijk voorafgaande aan het ontslag, ter zake waarvan het wachtgeld is toegekend.   
 4.   Wanneer de betrokkene arbeid of bedrijf ter hand heeft genomen vóór de dag van het ontslag, anders dan bedoeld in het eerste en derde lid, en na die dag uit die arbeid of dat bedrijf inkomsten of meer inkomsten gaat genieten, is het eerste lid van toepassing, tenzij de betrokkene aannemelijk maakt, dat die inkomsten of vermeerdering van inkomsten of een gedeelte daarvan noch het gevolg zijn van een verhoogde werkzaamheid noch verband houden met het ontslag, in welk geval die inkomsten, die meerdere inkomsten of dat gedeelte daarvan niet in aanmerking worden genomen voor de toepassing van het eerste lid.   
 5.   Met inkomsten, die genoten worden uit enige overheidskas, worden andere inkomsten gelijkgesteld, indien zij verbonden zijn aan een betrekking waarin de betrokkene ambtenaar is in de zin van de pensioenwet of afgezien van het bepaalde bij de artikelen B7 en B9 van die wet ambtenaar in de zin van die wet zou zijn.   
-6.   Voor de toepassing van dit artikel wordt een uitkering krachtens de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) of de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) aangemerkt als inkomsten in verband met arbeid.   
+6.   Voor de toepassing van dit artikel wordt een uitkering krachtens de Wet arbeidsongeschiktheidsverzekering zelfstandigen of de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten aangemerkt als inkomsten in verband met arbeid.   
 7.   In bijzondere gevallen kan Onze Minister van het hiervoren bepaalde ten gunste van de betrokkene afwijken.  
 
 ### Artikel  8  
@@ -272,15 +272,15 @@ Op aanvraag van de betrokkene kan het recht op wachtgeld geheel of ten dele word
 ####Opschorting
 
 1.  Ten aanzien van de betrokkene aan wie wachtgeld is toegekend en die uit hoofde van ziekte aanspraak heeft of krijgt op doorbetaling van zijn laatstelijk genoten bezoldiging, wordt de verdere uitvoering van dit besluit opgeschort tot het einde van het tijdvak waarover die aanspraak bestaat.   
-2.   Het vorige lid vindt overeenkomstige toepassing in het geval aanspraak bestaat op een uitkering overeenkomstig de normen van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), mits deze uitkering niet minder bedraagt dan 70% van de laatstelijk genoten bezoldiging.   
+2.   Het vorige lid vindt overeenkomstige toepassing in het geval aanspraak bestaat op een uitkering overeenkomstig de normen van de Wet op de arbeidsongeschiktheidsverzekering, mits deze uitkering niet minder bedraagt dan 70% van de laatstelijk genoten bezoldiging.   
 3.   Ten aanzien van de betrokkene aan wie wachtgeld is toegekend en die zich ingevolge wettelijke verplichting als militair of als noodwachter in werkelijke dienst bevindt of moet begeven, wordt op een daartoe strekkende aanvraag de verdere uitvoering van dit besluit voor de duur van die dienst opgeschort.   
-4.   Het vorige lid is van overeenkomstige toepassing ingeval de betrokkene is tewerkgesteld als gewetensbezwaarde in de zin van [artikel 9 van de Wet Gewetensbezwaren militaire dienst](../../../../../../../../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md).  
+4.   Het vorige lid is van overeenkomstige toepassing ingeval de betrokkene is tewerkgesteld als gewetensbezwaarde in de zin van artikel 9 van de Wet Gewetensbezwaren militaire dienst.  
 
 ### Artikel  16  
 
 ####Samenloop van wachtgeld en invaliditeitspensioen dan wel uitkering wegens arbeidsongeschiktheid
 
-1.  Indien de betrokkene ter zake van een ontslag dat verleend is wegens blijvende ongeschiktheid, uit hoofde van ziekten of gebreken, aanspraak heeft op een pensioen op grond van de pensioenwet berekend naar een algemene invaliditeit van minder dan 80%, dan wel een uitkering overeenkomstig de normen van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) berekend naar een mate van arbeidsongeschiktheid van minder dan 80%, wordt het geldende bedrag van het wachtgeld, toegekend ter zake van hetzelfde ontslag, met het hierna genoemde percentage verminderd. Deze vermindering bedraagt bij een invaliditeitsgraad van   
+1.  Indien de betrokkene ter zake van een ontslag dat verleend is wegens blijvende ongeschiktheid, uit hoofde van ziekten of gebreken, aanspraak heeft op een pensioen op grond van de pensioenwet berekend naar een algemene invaliditeit van minder dan 80%, dan wel een uitkering overeenkomstig de normen van de Wet op de arbeidsongeschiktheidsverzekering berekend naar een mate van arbeidsongeschiktheid van minder dan 80%, wordt het geldende bedrag van het wachtgeld, toegekend ter zake van hetzelfde ontslag, met het hierna genoemde percentage verminderd. Deze vermindering bedraagt bij een invaliditeitsgraad van   
 
 | --- | --- |
 |---|---|
@@ -298,7 +298,7 @@ Op aanvraag van de betrokkene kan het recht op wachtgeld geheel of ten dele word
 
 ####Tegemoetkoming verhuiskosten
 
-Aan de betrokkene aan wie wachtgeld is toegekend, die elders arbeid of bedrijf ter hand gaat nemen, kan ter zake van de kosten, die voor hem aan een daartoe nodige verhuizing zijn verbonden, een tegemoetkoming worden toegekend tot ten hoogste het bedrag van een vergoeding volgens de normen van het [Verplaatsingskostenbesluit 1989](../../../../../../../../../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md). 
+Aan de betrokkene aan wie wachtgeld is toegekend, die elders arbeid of bedrijf ter hand gaat nemen, kan ter zake van de kosten, die voor hem aan een daartoe nodige verhuizing zijn verbonden, een tegemoetkoming worden toegekend tot ten hoogste het bedrag van een vergoeding volgens de normen van het Verplaatsingskostenbesluit 1989. 
 
 ### Artikel  18  
 
@@ -319,7 +319,7 @@ b. krachtens een gemeentelijke verordening, indien op de dag van overlijden arti
 
 ####Slotbepalingen
 
-De [Algemene Termijnenwet](../../../../../../../../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) (*Stb.* 1964, 314) is niet van toepassing op de termijnen gesteld in artikel 5, eerste en tweede lid, artikel 5*a*, tweede lid, artikel 5*b*, derde tot en met zesde lid, artikel 6, eerste lid, en artikel 18, tweede lid. 
+De Algemene Termijnenwet (*Stb.* 1964, 314) is niet van toepassing op de termijnen gesteld in artikel 5, eerste en tweede lid, artikel 5*a*, tweede lid, artikel 5*b*, derde tot en met zesde lid, artikel 6, eerste lid, en artikel 18, tweede lid. 
 
 ### Artikel  21  
 

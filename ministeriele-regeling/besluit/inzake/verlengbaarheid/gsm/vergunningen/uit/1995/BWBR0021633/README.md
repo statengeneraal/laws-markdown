@@ -3,7 +3,7 @@
 ##Besluit van de Staatssecretaris van Economische Zaken van 29 maart 2007, nr. DGET 7041858, met betrekking tot de verlengbaarheid van GSM vergunningen die in 1995 zijn verleend
 
 De Staatssecretaris van Economische Zaken,  
-Gelet op artikel 13k, zesde lid, van de Wet op de telecommunicatievoorzieningen, [artikel 11, derde lid, van het Besluit vergunningen mobiele communicatie](../../../../../../../../../AMvB/besluit/vergunningen/mobiele/telecommunicatie/BWBR0006857/README.md) en de [artikelen 2](../../../../../../../../../ministeriele-regeling/regeling/vaststelling/eenmalig/bedrag/gsm-vergunningen/BWBR0021563/README.md) en [3 van de Regeling vaststelling eenmalig bedrag GSM-vergunningen](../../../../../../../../../ministeriele-regeling/regeling/vaststelling/eenmalig/bedrag/gsm-vergunningen/BWBR0021563/README.md);
+Gelet op artikel 13k, zesde lid, van de Wet op de telecommunicatievoorzieningen, artikel 11, derde lid, van het Besluit vergunningen mobiele communicatie en de artikelen 2 en 3 van de Regeling vaststelling eenmalig bedrag GSM-vergunningen;
 Besluit:    
 
 ### Artikel  1  

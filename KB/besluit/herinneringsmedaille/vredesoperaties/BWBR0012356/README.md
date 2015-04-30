@@ -13,7 +13,7 @@ Hebben goedgevonden en verstaan:
 
 a. Onze Minister: Onze Minister van Defensie;  
 
-b. vredesoperatie: inzet of ter beschikking stellen van de krijgsmacht als bedoeld in [artikel 100, eerste lid, van de Grondwet](../../../../../wet/grondwet/BWBR0001840/README.md), ter handhaving of bevordering van de vrede;  
+b. vredesoperatie: inzet of ter beschikking stellen van de krijgsmacht als bedoeld in artikel 100, eerste lid, van de Grondwet, ter handhaving of bevordering van de vrede;  
 
 c. herinneringsmedaille: medaille, bedoeld in artikel 2;  
 

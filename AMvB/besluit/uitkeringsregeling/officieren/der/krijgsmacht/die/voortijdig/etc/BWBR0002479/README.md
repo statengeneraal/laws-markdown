@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Defensie van 23 november 1964, nr. P. 126.529/D;
 
-Gelet op [artikel 12 van de Militaire Ambtenarenwet 1931](../../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md);
+Gelet op artikel 12 van de Militaire Ambtenarenwet 1931;
 
 De Raad van State gehoord (advies van 6 januari 1965, nr. 37);
 
@@ -19,7 +19,7 @@ Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan 
 
 a.  *Onze Minister:* Onze Minister van Defensie;  
 
-b.  *rang:* de werkelijk beklede rang, als bedoeld in het eerste lid onder *j,* van de artikelen 1, 40 en 82 van de Wet bevordering en ontslag beroepsofficieren (*Stb.* 1954, 575) onderscheidenlijk het eerste lid onder *j,* van de [artikelen 9](../../../../../../../../../../wet/wet/voor/het/reservepersoneel/der/krijgsmacht/BWBR0003883/README.md), [34](../../../../../../../../../../wet/wet/voor/het/reservepersoneel/der/krijgsmacht/BWBR0003883/README.md) en 61 van de Wet voor het reserve-personeel der krijgsmacht (*Stb.* 1954, 576);  
+b.  *rang:* de werkelijk beklede rang, als bedoeld in het eerste lid onder *j,* van de artikelen 1, 40 en 82 van de Wet bevordering en ontslag beroepsofficieren (*Stb.* 1954, 575) onderscheidenlijk het eerste lid onder *j,* van de artikelen 9, 34 en 61 van de Wet voor het reserve-personeel der krijgsmacht (*Stb.* 1954, 576);  
 
 c.  *officier:* de officier, als bedoeld in het eerste lid onder *d*, van de artikelen 1, 40 en 82 van de Wet bevordering en ontslag beroepsofficieren, met een hogere rang dan die van luitenant ter zee der 2e klasse oudste categorie en van kapitein, die tot het tijdstip liggende drie jaren nadat het voortijdig ontslag als bedoeld onder *e* heeft plaats gevonden, niet in aanmerking had kunnen worden gebracht voor een eervol ontslag uit de militaire dienst ter zake van:  
 
@@ -35,13 +35,13 @@ bbb. oud-KNIL-militair zijnde, de leeftijd van 55 ja-jaren heeft bereikt en een 
 
 dd. het bereiken of overschrijden van de leeftijd van zestig jaren, indien hij nog geen langdurige dienst, nader omschreven in de Pensioenwet voor de landmacht 1922 kan doen gelden;    
 
-d.  *reserve-officier:* de officier, als bedoeld in het eerste lid onder *b*, van de [artikelen 9](../../../../../../../../../../wet/wet/voor/het/reservepersoneel/der/krijgsmacht/BWBR0003883/README.md), [34](../../../../../../../../../../wet/wet/voor/het/reservepersoneel/der/krijgsmacht/BWBR0003883/README.md) en 61 van de Wet voor het reserve-personeel der krijgsmacht, wiens vrijwillig dienstverband bij de krijgsmacht hem tot doorlopende werkelijke dienst verplicht, die een hogere rang bekleedt dan die van luitenant ter zee der 1ste klasse en van majoor en die tot het tijdstip liggende drie jaren nadat het voortijdig ontslag als bedoeld onder *e* heeft plaats gevonden, niet in aanmerking had kunnen worden gebracht voor een eervol ontslag uit de militaire dienst terzake van het eindigen of overschrijden van de tijd waarvoor hij als zodanig te Onzer beschikking is;  
+d.  *reserve-officier:* de officier, als bedoeld in het eerste lid onder *b*, van de artikelen 9, 34 en 61 van de Wet voor het reserve-personeel der krijgsmacht, wiens vrijwillig dienstverband bij de krijgsmacht hem tot doorlopende werkelijke dienst verplicht, die een hogere rang bekleedt dan die van luitenant ter zee der 1ste klasse en van majoor en die tot het tijdstip liggende drie jaren nadat het voortijdig ontslag als bedoeld onder *e* heeft plaats gevonden, niet in aanmerking had kunnen worden gebracht voor een eervol ontslag uit de militaire dienst terzake van het eindigen of overschrijden van de tijd waarvoor hij als zodanig te Onzer beschikking is;  
 
-e.  *voortijdig ontslag:* het ontslag met toepassing van het bepaalde in de aanhef en onder 1°, dan wel 2°, dan wel 8°, dan wel 12° van de artikelen 15, 57 en 98 van de Wet bevordering en ontslag beroepsofficieren en het ontslag met toepassing van het bepaalde in de aanhef en onder 1°, dan wel 8°, dan wel 12° van de [artikelen 22](../../../../../../../../../../wet/wet/voor/het/reservepersoneel/der/krijgsmacht/BWBR0003883/README.md), 49 en 76 van de Wet voor het reserve-personeel der krijgsmacht, te weten  
+e.  *voortijdig ontslag:* het ontslag met toepassing van het bepaalde in de aanhef en onder 1°, dan wel 2°, dan wel 8°, dan wel 12° van de artikelen 15, 57 en 98 van de Wet bevordering en ontslag beroepsofficieren en het ontslag met toepassing van het bepaalde in de aanhef en onder 1°, dan wel 8°, dan wel 12° van de artikelen 22, 49 en 76 van de Wet voor het reserve-personeel der krijgsmacht, te weten  
 
 aa. ontslag op verzoek;  
 
-bb. ontslag op verzoek, met de aanvaarding van de verplichting om na het verleende ontslag, op de voet van de [Wet voor het reserve-personeel der krijgsmacht](../../../../../../../../../../wet/wet/voor/het/reservepersoneel/der/krijgsmacht/BWBR0003883/README.md) te Onzer beschikking te blijven tot hij de leeftijd van zestig jaren zal hebben bereikt;  
+bb. ontslag op verzoek, met de aanvaarding van de verplichting om na het verleende ontslag, op de voet van de Wet voor het reserve-personeel der krijgsmacht te Onzer beschikking te blijven tot hij de leeftijd van zestig jaren zal hebben bereikt;  
 
 cc. ontslag terzake van langdurige dienst, nader omschreven in de Pensioenwet voor de zeemacht 1922 en in de Pensioenwet voor de landmacht 1922, voor zover de officier aan Onze Minister te kennen heeft gegeven een zodanig ontslag op prijs te stellen;  
 
@@ -51,9 +51,9 @@ ee. ontslag op verzoek, terzake van het feit, dat de officier dan wel de reserve
 
 f. militaire inkomsten:  
 
-aa. indien het een officier der zeemacht betreft: de bezoldiging volgens de schaal behorende bij het Besluit herziening bezoldiging militairen zeemacht 1954 (*Stb.* 50), vermeerderd met de tijdelijke verhoging ingevolge het Besluit compensatie huurverhoging 1960 militairen zeemacht (*Stb.* 257), de kindertoelage ingevolge de Kindertoelageregeling overheidspersoneel (*Stb.* 1963, nr. 219), alsmede de kinderbijslag ingevolge de [Algemene kinderbijslagwet](../../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) (*Stb.* 1962, nr. 160);  
+aa. indien het een officier der zeemacht betreft: de bezoldiging volgens de schaal behorende bij het Besluit herziening bezoldiging militairen zeemacht 1954 (*Stb.* 50), vermeerderd met de tijdelijke verhoging ingevolge het Besluit compensatie huurverhoging 1960 militairen zeemacht (*Stb.* 257), de kindertoelage ingevolge de Kindertoelageregeling overheidspersoneel (*Stb.* 1963, nr. 219), alsmede de kinderbijslag ingevolge de Algemene kinderbijslagwet (*Stb.* 1962, nr. 160);  
 
-bb. indien het een officier der landmacht of een officier der luchtmacht betreft: de bezoldiging in de zin van het Besluit herziening bezoldiging militairen land- en luchtmacht 1954 (*Stb.* 51), vermeerderd met de tijdelijke weddebijslag in verband met huurverhogingen ingevolge Ons besluit van 12 mei 1964 (*Stb.* 201), de kindertoelage ingevolge de Kindertoelageregeling overheidspersoneel en de kinderbijslag ingevolge de [Algemene kinderbijslagwet](../../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md).     
+bb. indien het een officier der landmacht of een officier der luchtmacht betreft: de bezoldiging in de zin van het Besluit herziening bezoldiging militairen land- en luchtmacht 1954 (*Stb.* 51), vermeerderd met de tijdelijke weddebijslag in verband met huurverhogingen ingevolge Ons besluit van 12 mei 1964 (*Stb.* 201), de kindertoelage ingevolge de Kindertoelageregeling overheidspersoneel en de kinderbijslag ingevolge de Algemene kinderbijslagwet.     
 
 ### Artikel  2  
 

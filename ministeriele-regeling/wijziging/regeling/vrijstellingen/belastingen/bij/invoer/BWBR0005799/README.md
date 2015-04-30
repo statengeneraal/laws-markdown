@@ -3,7 +3,7 @@
 ##Wijziging Regeling vrijstellingen belastingen bij invoer
 
 De Staatssecretaris van Financiën,  
-Gelet op artikel 23 van de bijlage bij het Protocol van 15 juni 1970 tot vaststelling van een Benelux-tarief van invoerrechten (laatstelijk Trb. 1985, 15), artikel 4 van de Wet tarief van invoerrechten (Stb. 1985, 313), [artikel 69 van de Wet op de accijns](../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) (Stb. 1991, 561), [artikel 31 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](../../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) (Stb. 1992, 683), [artikel 21 van de Wet op de omzetbelasting 1968](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) (Stb. 329);
+Gelet op artikel 23 van de bijlage bij het Protocol van 15 juni 1970 tot vaststelling van een Benelux-tarief van invoerrechten (laatstelijk Trb. 1985, 15), artikel 4 van de Wet tarief van invoerrechten (Stb. 1985, 313), artikel 69 van de Wet op de accijns (Stb. 1991, 561), artikel 31 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten (Stb. 1992, 683), artikel 21 van de Wet op de omzetbelasting 1968 (Stb. 329);
 Besluit:    
 
 ### Artikel  I  

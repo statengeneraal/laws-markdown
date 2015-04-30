@@ -58,7 +58,7 @@ bewijs van aankoop van stopgrids of keerwanden;
 
 bewijs dat de visser gerechtigd is in het in artikel 2 omschreven gebied te vissen;
 
-een afschrift van de grote visakte, bedoeld in [artikel 10, tweede lid, onderdeel b, van de Visserijwet 1963](../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md);
+een afschrift van de grote visakte, bedoeld in artikel 10, tweede lid, onderdeel b, van de Visserijwet 1963;
 
 een kopie van een legitimatiebewijs van de aanvrager.   
 2.  Indien een schadevergoeding wordt gevraagd voor de kosten, bedoeld in artikel 4, eerste lid, onderdeel c, levert de beroepsvisser op een nader door de minister te bepalen tijdstip de bedoelde netten in bij directie Oost.   
@@ -75,7 +75,7 @@ bewijs van aankoop van stopgrids of keerwanden:
 
 bewijs dat de visser gerechtigd is in het in artikel 2 omschreven gebied te vissen;
 
-een afschrift van de grote visakte, bedoeld in [artikel 10, tweede lid, onderdeel b, van de Visserijwet 1963](../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md).   
+een afschrift van de grote visakte, bedoeld in artikel 10, tweede lid, onderdeel b, van de Visserijwet 1963.   
 2.  De aanvraag wordt door middel van een daartoe bestemd formulier tussen 1 september en 1 oktober 2002 ingediend bij directie Oost.  
 
 ### Artikel  8  
@@ -92,13 +92,13 @@ Indien een beroepsvisser gedurende de looptijd van het project geen rechthebbend
 
 a.  indien de beslissing onjuist was en degene die een aanvraag heeft ingediend dit wist of behoorde te weten; 
 
-b.  indien een beroepsvisser of visser niet heeft voldaan aan de in de artikelen 2, 9 of de in [artikel 5:20 Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) genoemde verplichtingen; 
+b.  indien een beroepsvisser of visser niet heeft voldaan aan de in de artikelen 2, 9 of de in artikel 5:20 Algemene wet bestuursrecht genoemde verplichtingen; 
 
 c.  indien het project voortijdig wordt beëindigd; 
 
 d.  indien een beroepsvisser gedurende de looptijd van het project geen rechthebbende meer is op een visrecht van een water dat is gelegen in het in artikel 2 omschreven gebied of niet meer is voorzien van een schriftelijke vergunning van een rechthebbende op een visrecht in het in artikel 2 omschreven gebied of niet meer in het bezit is van een geldige grote visakte.    
 2.  In het geval, bedoeld in het eerste lid, onderdelen c en d, wordt de schadevergoeding naar evenredigheid bepaald aan de hand van de duur van het project of de duur van de deelname en het in artikel 4, tweede lid, onderdeel b, genoemde bedrag.   
-3.  De [artikelen 4:52](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:56](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:57 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing op de verstrekking van een schadevergoeding op basis van deze regeling.   
+3.  De artikelen 4:52, 4:56 en 4:57 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing op de verstrekking van een schadevergoeding op basis van deze regeling.   
 4.  Bij terugvordering worden onverschuldigd betaalde bedragen ter zake van de schadevergoeding vermeerderd met de wettelijke rente over het teveel betaalde te rekenen vanaf de datum van de eerste betaling.  
 
 ### Artikel  11  

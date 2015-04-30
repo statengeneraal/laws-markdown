@@ -647,7 +647,7 @@ b. een inwonend kind tot wie de ambtenaar als ouder in een familierechtelijke be
 
 c. een inwonend kind van de echtgenote of echtgenoot;  
 
-d. een pleegkind dat blijkens de basisregistratie personen op hetzelfde adres woont als de ambtenaar en door hem duurzaam wordt verzorgd en opgevoed op basis van een pleegcontract als bedoeld in artikel 22, eerste lid, van de Wet op de jeugdzorg.     
+d. een pleegkind dat blijkens de basisregistratie personen op hetzelfde adres woont als de ambtenaar en dat hij als pleegouder als bedoeld in artikel 1.1 van de Jeugdwet verzorgt.     
 2.  Tenzij een zwaarwegend dienstbelang zich daartegen verzet wordt aan de ambtenaar verlof met behoud van volledige bezoldiging verleend voor de noodzakelijke verzorging in verband met ernstige ziekte van: 
 
 a. ouders;  
@@ -1527,7 +1527,7 @@ c. één maand, indien de ambtenaar ten tijde van de opzegging direct daaraan vo
 2. De ontslagverlening op grond van het eerste lid kan betrekking hebben op een gedeelte van de tijd waarvoor de ambtenaar is aangesteld. 
 3. Bij herplaatsing in een passende functie bij een andere werkgever wordt de ambtenaar eervol ontslag verleend. 
 4. De ambtenaar die heeft geweigerd te voldoen aan een hem op grond van hoofdstuk VII.B opgelegde verplichting, kan in verband daarmee ontslag worden verleend. 
-5. De ontslagverlening op grond van het eerste lid vindt niet eerder plaats dan vijf jaar nadat de ambtenaar is aangewezen als herplaatsingkandidaat, als bedoeld in hoofdstuk VII.B. Afhankelijk van het aantal dienstjaren van de ambtenaar wordt de termijn van vijf jaar verlengd overeenkomstig de hierna volgende tabel: 
+5. De ontslagverlening op grond van het eerste lid vindt niet eerder plaats dan drie jaar nadat de ambtenaar is aangewezen als herplaatsingkandidaat, als bedoeld in hoofdstuk VII.B. Afhankelijk van het aantal dienstjaren van de ambtenaar wordt de termijn van drie jaar verlengd overeenkomstig de hierna volgende tabel: 
 
 |dienstjaren: |verlenging: |
 |:---|:---|
@@ -1536,6 +1536,7 @@ c. één maand, indien de ambtenaar ten tijde van de opzegging direct daaraan vo
 |35 of meer dienstjaren |drie jaren |
 |40 of meer dienstjaren |vier jaren |
 
+In afwijking van de eerste en tweede zin bedraagt de aldaar genoemde termijn van drie jaar voor de ambtenaar die voor 1 januari 2015 is aangewezen als herplaatsingskandidaat, vijf jaar.
 6. Bij een ontslag op grond van het vierde lid wordt een opzeggingstermijn van één maand in acht genomen. 
 
 ### Artikel  92  

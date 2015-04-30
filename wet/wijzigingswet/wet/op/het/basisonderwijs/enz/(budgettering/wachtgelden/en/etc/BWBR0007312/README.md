@@ -10,24 +10,24 @@ Alzo Wij in overweging genomen hebben, dat het, in verband met het terugdringen 
 
 dat het daartoe tevens gewenst is het bevoegd gezag van een school voor basisonderwijs, voor speciaal onderwijs, voor voortgezet speciaal onderwijs, voor speciaal en voortgezet speciaal onderwijs, voor voortgezet onderwijs en voor beroepsonderwijs of volwasseneneducatie, alsmede het bestuur van een landelijk orgaan en van een onderwijsverzorgingsinstelling te doen deelnemen aan een participatiefonds;
 
-dat het in verband met die verantwoordelijkheid voor de kosten van de werkloosheidsuitkeringen en herplaatsingswachtgelden en de instelling van dat participatiefonds wenselijk is de Wet op het basisonderwijs, de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs, de [Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de Wet op het cursorisch beroepsonderwijs, de Kaderwet Volwasseneneducatie 1991 en de Wet op de onderwijsverzorging te wijzigen;
+dat het in verband met die verantwoordelijkheid voor de kosten van de werkloosheidsuitkeringen en herplaatsingswachtgelden en de instelling van dat participatiefonds wenselijk is de Wet op het basisonderwijs, de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs, de Wet op het voortgezet onderwijs, de Wet op het cursorisch beroepsonderwijs, de Kaderwet Volwasseneneducatie 1991 en de Wet op de onderwijsverzorging te wijzigen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
 
-####Wijziging [Wet op het primair onderwijs](../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) 
+####Wijziging Wet op het primair onderwijs 
 
 Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-####Wijziging [Wet op de expertisecentra](../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) 
+####Wijziging Wet op de expertisecentra 
 
 Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-####Wijziging [Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) 
+####Wijziging Wet op het voortgezet onderwijs 
 
 Bevat wijzigingen in andere regelgeving.  
 

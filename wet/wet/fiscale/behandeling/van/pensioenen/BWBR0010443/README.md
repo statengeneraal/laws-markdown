@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), de Wet op de inkomstenbelasting 1964, de [Coördinatiewet Sociale Verzekering](../../../../../../../wet/coördinatiewet/sociale/verzekering/BWBR0002126/README.md) en in samenhang daarmee enige andere wetten aan te passen naar aanleiding van het rapport van de werkgroep Fiscale behandeling pensioenen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de Wet op de loonbelasting 1964, de Wet op de inkomstenbelasting 1964, de Coördinatiewet Sociale Verzekering en in samenhang daarmee enige andere wetten aan te passen naar aanleiding van het rapport van de werkgroep Fiscale behandeling pensioenen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### ARTIKEL  I  
@@ -31,12 +31,12 @@ Wijzigt de Coördinatiewet Sociale Verzekering.
 
 ### ARTIKEL  VI  
 
-Verwijzingen naar [artikel 11, derde lid, van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) in pensioenregelingen die dateren van op of voor de datum van inwerkingtreding van deze wet of van ten hoogste drie maanden daarna, worden geacht verwijzingen naar [artikel 18 van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) te zijn. 
+Verwijzingen naar artikel 11, derde lid, van de Wet op de loonbelasting 1964 in pensioenregelingen die dateren van op of voor de datum van inwerkingtreding van deze wet of van ten hoogste drie maanden daarna, worden geacht verwijzingen naar artikel 18 van de Wet op de loonbelasting 1964 te zijn. 
 
 ### ARTIKEL  VII  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Op voordracht van Onze Minister van Financiën, in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, kunnen ter zake van pensioenregelingen bij algemene maatregel van bestuur nadere, van [hoofdstuk IIA](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [artikel 38a van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) afwijkende regels worden gesteld. Hierbij kan het maximum van het te bereiken ouderdomspensioen niet lager worden gesteld dan per dienstjaar 2 percent van het pensioengevend loon in een middelloonstelsel.   
+1.  Op voordracht van Onze Minister van Financiën, in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, kunnen ter zake van pensioenregelingen bij algemene maatregel van bestuur nadere, van hoofdstuk IIA en artikel 38a van de Wet op de loonbelasting 1964 afwijkende regels worden gesteld. Hierbij kan het maximum van het te bereiken ouderdomspensioen niet lager worden gesteld dan per dienstjaar 2 percent van het pensioengevend loon in een middelloonstelsel.   
 2.  Uiterlijk binnen zes maanden na het tijdstip waarop de krachtens het eerste lid vastgestelde algemene maatregel van bestuur in werking treedt, wordt een voorstel van wet tot goedkeuring van dat besluit aan de Tweede Kamer der Staten-Generaal gezonden. Indien het voorstel wordt ingetrokken of indien een van de kamers der Staten-Generaal tot het niet aannemen van het voorstel besluit, worden onverwijld de afwijkende regels ingetrokken met ingang van het tijdstip waarop de krachtens het eerste lid vastgestelde algemene maatregel van bestuur in werking treedt dan wel in werking is getreden.  
 
 ### ARTIKEL  VIII  

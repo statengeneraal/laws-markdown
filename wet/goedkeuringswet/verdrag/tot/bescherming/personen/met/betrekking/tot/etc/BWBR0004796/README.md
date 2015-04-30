@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het op 28 januari 1981 te Straatsburg tot stand gekomen Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens (*Trb.* 1988, 7) ingevolge [artikel 91, eerste lid, van de Grondwet](../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) de goedkeuring van de Staten-Generaal behoeft alvorens het Koninkrijk daaraan kan worden gebonden;
+Alzo Wij in overweging genomen hebben, dat het op 28 januari 1981 te Straatsburg tot stand gekomen Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens (*Trb.* 1988, 7) ingevolge artikel 91, eerste lid, van de Grondwet de goedkeuring van de Staten-Generaal behoeft alvorens het Koninkrijk daaraan kan worden gebonden;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  

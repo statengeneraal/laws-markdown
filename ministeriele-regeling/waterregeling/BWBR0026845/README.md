@@ -352,6 +352,32 @@ f. de waterdoorlatendheid van het werk in verband met wateropstuwende effecten.
 2.  De overeenkomstig het eerste lid te stellen maatwerkvoorschriften leiden er niet toe dat de activiteit of het werk grotendeels of in het geheel geen doorgang kan vinden, tenzij die activiteit naar het oordeel van de beheerder ontoelaatbaar nadelige gevolgen heeft voor het betrokken waterstaatswerk.   
 3.  Het eerste lid is niet van toepassing op het uitvoeren van onderhoud dan wel de aanleg of wijziging of overig gebruik, anders dan in overeenstemming met de functie, van waterstaatswerken voor zover deze activiteiten door of vanwege de beheerder worden verricht.  
 
+### §  4a  
+
+####Windparken op zee
+
+Treedt in werking per 01-07-2015 
+
+### Artikel  6.15a  
+Treedt in werking per 01-07-2015 
+
+1.  Bij de toepassing van de artikelen 6.16h, tweede en vierde lid, en 6.16i, tweede lid, van het besluit worden ten aanzien dan de in die artikelen opgenomen niet-publiekrechtelijke regelingen de volgende teksten in acht genomen: 
+
+a. IALA-aanbeveling O-139 (markering van kunstmatige offshore constructies): uitgave 2 van december 2013;  
+
+b. door de Britse luchtvaartautoriteit uitgegeven richtlijn CAP 764 (beleid en richtlijnen voor windturbines): uitgave 5 van juni 2013;  
+
+c. NEN 1010: uitgave NEN 1010:2007+C1:2008 – Veiligheidsbepalingen voor laagspanningsinstallaties van oktober 2008, inclusief correctie- en wijzigingsblad A1:2011+C1:2011 en wijzigingsblad A2:2014;  
+
+d. NEN-EN-IEC 61936-1: uitgave NEN-EN-IEC 61936-1:2010 – Sterkstroominstallaties met meer dan 1 kV wisselspanning – Deel 1: Algemene bepalingen van mei 2014, inclusief correctiebladen C1:2011, C11:2011, C12:2012 en C13:2013 en wijzigingsblad A1:2014;  
+
+e. NEN-EN 50522: uitgave NEN-EN 50522:2010 – Aarding van hoogspanningsinstallaties van meer dan 1 kV wisselspanning van november 2010;  
+
+f. NEN 3840: uitgave NEN 3840:2011 – Bedrijfsvoering van elektrische installaties – Hoogspanning van mei 2011; en  
+
+g. NEN 3140: uitgave NEN 3140:2011 – Bedrijfsvoering van elektrische installaties – Laagspanning van maart 2011.     
+2.  In afwijking van het eerste lid gelden voor windparken waarvoor voor 1 juli 2015 een vergunning op grond van de Wet beheer rijkswaterstaatswerken of op grond van artikel 6.13 van het besluit is verleend de teksten van de niet-publiekrechtelijke regelingen zoals die in acht zijn genomen bij het verlenen van de vergunning.  
+
 ### §  5  
 
 ####Het brengen en onttrekken van water aan oppervlaktewaterlichamen

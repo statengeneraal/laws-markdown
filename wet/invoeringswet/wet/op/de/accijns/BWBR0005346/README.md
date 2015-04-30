@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de inwerkingtreding van de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) te regelen, de wetten inzake de heffing van de accijnzen in te trekken en voorts de wetten waarin naar laatstbedoelde wetten wordt verwezen alsmede de Algemene wet inzake de douane en de accijnzen en de [Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) aan te passen aan de bepalingen van de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md);
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de inwerkingtreding van de Wet op de accijns te regelen, de wetten inzake de heffing van de accijnzen in te trekken en voorts de wetten waarin naar laatstbedoelde wetten wordt verwezen alsmede de Algemene wet inzake de douane en de accijnzen en de Algemene wet inzake rijksbelastingen aan te passen aan de bepalingen van de Wet op de accijns;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -57,39 +57,39 @@ Bevat wijzigingen in andere regelgeving.
 
 De navolgende wetten worden ingetrokken:  
 
-1°. De [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van alcoholhoudende stoffen (*Stb.* 1963, 240);  
+1°. De Wet op de accijns van alcoholhoudende stoffen (*Stb.* 1963, 240);  
 
-2°. De [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van bier (*Stb.* 1963, 241);  
+2°. De Wet op de accijns van bier (*Stb.* 1963, 241);  
 
-3°. De [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van suiker (*Stb.* 1964, 206);  
+3°. De Wet op de accijns van suiker (*Stb.* 1964, 206);  
 
-4°. De [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van minerale oliën (*Stb.* 1964, 207);  
+4°. De Wet op de accijns van minerale oliën (*Stb.* 1964, 207);  
 
-5°. De [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van tabaksfabrikaten (*Stb.* 1964, 208);  
+5°. De Wet op de accijns van tabaksfabrikaten (*Stb.* 1964, 208);  
 
-6°. De [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van alcoholvrije dranken (*Stb.* 1971, 731).   
+6°. De Wet op de accijns van alcoholvrije dranken (*Stb.* 1971, 731).   
 
 ### Artikel  XIII  
 
 1.  De bepalingen van de bij artikel XII ingetrokken wetten blijven van toepassing met betrekking tot feiten die leiden tot de verschuldigdheid van accijns of de verplichting tot voldoening van accijns die hebben plaatsgevonden vóór 1 januari 1992 en met betrekking tot strafbare feiten die hebben plaatsgevonden vóór die datum.   
 2.   De artikelen 108, 109 en 110 van de Algemene wet inzake de douane en de accijnzen blijven van toepassing met betrekking tot bezwaren inzake accijnzen als bedoeld in artikel 108, eerste lid, van die wet voor zover de dag waarop de toepassing van het tarief van de accijnzen bekend is geworden of de dagtekening van de uitnodiging, de mededeling of de beschikking is gelegen vóór 1 januari 1992.   
 3.   Hoofdstuk VIII van de Algemene wet inzake de douane en de accijnzen blijft van toepassing met betrekking tot beroepschriften inzake administratieve boete voor zover de dag waarop degene die de boete heeft belopen schriftelijk daarvan in kennis is gesteld, is gelegen vóór 1 januari 1992.   
-4.   Hoofdstuk IX van de Algemene wet inzake de douane en de accijnzen alsmede artikel LIX van de Invoeringswet [Invorderingswet 1990](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) blijven van toepassing met betrekking tot de invordering van betalingen die verschuldigd zijn geworden vóór 1 januari 1992.  
+4.   Hoofdstuk IX van de Algemene wet inzake de douane en de accijnzen alsmede artikel LIX van de Invoeringswet Invorderingswet 1990 blijven van toepassing met betrekking tot de invordering van betalingen die verschuldigd zijn geworden vóór 1 januari 1992.  
 
 ### Artikel  XIV  
 
-1.  Op grond van de in artikel XII bedoelde wetten verleende vergunningen of goedkeuringen voor het vervaardigen van accijnsgoederen, voor het opslaan van accijnsgoederen onder krediet voor de accijns of voor het opslaan van accijnsgoederen zonder verschuldigdheid van de accijns, alsmede op grond van de Algemene wet inzake de douane en de accijnzen verleende vergunningen voor een accijnsentrepot, worden tot wederopzegging aangemerkt als krachtens de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) verleende vergunningen voor een accijnsgoederenplaats.   
-2.   Op grond van de in artikel XII bedoelde wetten en op grond van de Algemene wet inzake de douane en de accijnzen gestelde zekerheden inzake de vervaardiging of de opslag van accijnsgoederen, worden aangemerkt als op grond van de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) gestelde zekerheden.   
-3.   De inspecteur onderzoekt vóór 1 januari 1993 of de plaatsen waarvan de in het eerste lid bedoelde vergunning of goedkeuring ingevolge dat lid wordt aangemerkt als een vergunning voor een accijnsgoederenplaats, voldoen aan de bij of krachtens de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) gestelde voorwaarden voor het verkrijgen van een vergunning voor een accijnsgoederenplaats.  
+1.  Op grond van de in artikel XII bedoelde wetten verleende vergunningen of goedkeuringen voor het vervaardigen van accijnsgoederen, voor het opslaan van accijnsgoederen onder krediet voor de accijns of voor het opslaan van accijnsgoederen zonder verschuldigdheid van de accijns, alsmede op grond van de Algemene wet inzake de douane en de accijnzen verleende vergunningen voor een accijnsentrepot, worden tot wederopzegging aangemerkt als krachtens de Wet op de accijns verleende vergunningen voor een accijnsgoederenplaats.   
+2.   Op grond van de in artikel XII bedoelde wetten en op grond van de Algemene wet inzake de douane en de accijnzen gestelde zekerheden inzake de vervaardiging of de opslag van accijnsgoederen, worden aangemerkt als op grond van de Wet op de accijns gestelde zekerheden.   
+3.   De inspecteur onderzoekt vóór 1 januari 1993 of de plaatsen waarvan de in het eerste lid bedoelde vergunning of goedkeuring ingevolge dat lid wordt aangemerkt als een vergunning voor een accijnsgoederenplaats, voldoen aan de bij of krachtens de Wet op de accijns gestelde voorwaarden voor het verkrijgen van een vergunning voor een accijnsgoederenplaats.  
 
 ### Artikel  XV  
 
-1.  Op grond van de in artikel XII bedoelde wetten verleende vergunningen voor het betrekken of afleveren van goederen met vrijstelling van accijns, worden tot wederopzegging aangemerkt als bij of krachtens [hoofdstuk V van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) verleende vergunningen.   
-2.   De inspecteur onderzoekt vóór 1 januari 1993 of degenen van wie de in het eerste lid bedoelde vergunning ingevolge dat lid wordt aangemerkt als een bij of krachtens [hoofdstuk V van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) verleende vergunning, voldoen aan de bij of krachtens de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) gestelde voorwaarden voor de afgifte van de laatstbedoelde vergunning.  
+1.  Op grond van de in artikel XII bedoelde wetten verleende vergunningen voor het betrekken of afleveren van goederen met vrijstelling van accijns, worden tot wederopzegging aangemerkt als bij of krachtens hoofdstuk V van de Wet op de accijns verleende vergunningen.   
+2.   De inspecteur onderzoekt vóór 1 januari 1993 of degenen van wie de in het eerste lid bedoelde vergunning ingevolge dat lid wordt aangemerkt als een bij of krachtens hoofdstuk V van de Wet op de accijns verleende vergunning, voldoen aan de bij of krachtens de Wet op de accijns gestelde voorwaarden voor de afgifte van de laatstbedoelde vergunning.  
 
 ### Artikel  XVI  
 
-In afwijking in zoverre van [artikel 1](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [artikel 7](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en de [artikelen 52](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) tot en met [55 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), wordt de accijns van bier met ingang van 1 januari 1992 tot en met 31 december 1992 geheven met toepassing van de artikelen XVII tot en met XXI. 
+In afwijking in zoverre van artikel 1, artikel 7 en de artikelen 52 tot en met 55 van de Wet op de accijns, wordt de accijns van bier met ingang van 1 januari 1992 tot en met 31 december 1992 geheven met toepassing van de artikelen XVII tot en met XXI. 
 
 ### Artikel  XVII  
 
@@ -129,9 +129,9 @@ b. voor bier anders dan op fles f 9,14 per hectolitergraad bier.
 ### Artikel  XX  
 
 1.  De accijns van bier dat hier te lande wordt vervaardigd, wordt verschuldigd op het tijdstip gelegen direct na het koken van het wort.   
-2.   De vergunninghouder van de accijnsgoederenplaats voor bier doet, in afwijking van [artikel 19 van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), voor het einde van de maand aangifte van het in de voorafgaande maand vervaardigde aantal hectolitergraden wort en van het aantal hectolitergraden wort dat is gebezigd voor de bereiding van het bier dat in die maand is afgeleverd met vrijstelling van accijns, is uitgevoerd en is teloorgegaan.   
+2.   De vergunninghouder van de accijnsgoederenplaats voor bier doet, in afwijking van artikel 19 van de Algemene wet inzake rijksbelastingen, voor het einde van de maand aangifte van het in de voorafgaande maand vervaardigde aantal hectolitergraden wort en van het aantal hectolitergraden wort dat is gebezigd voor de bereiding van het bier dat in die maand is afgeleverd met vrijstelling van accijns, is uitgevoerd en is teloorgegaan.   
 3.   Op de over een maand verschuldigde accijns wordt in mindering gebracht de accijns over het bier dat in dezelfde maand met vrijstelling van accijns is afgeleverd, is uitgevoerd en is teloorgegaan.   
-4.   Het op grond van het derde lid verkregen bedrag wordt, in afwijking van [artikel 19 van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), voldaan uiterlijk de twintigste dag van de derde maand volgende op de maand waarop de aangifte betrekking heeft.   
+4.   Het op grond van het derde lid verkregen bedrag wordt, in afwijking van artikel 19 van de Algemene wet inzake rijksbelastingen, voldaan uiterlijk de twintigste dag van de derde maand volgende op de maand waarop de aangifte betrekking heeft.   
 5.   Bij ministeriële regeling worden regels gesteld voor de berekening van het aantal hectolitergraden wort dat is gebezigd voor de bereiding van het bier dat is afgeleverd met vrijstelling van accijns, is uitgevoerd en is teloorgegaan.  
 
 ### Artikel  XXI  
@@ -152,20 +152,20 @@ Tot 1 januari 1993 wordt een vergunning voor een accijnsgoederenplaats voor bier
 ### Artikel  XXIV  
 
 1.  Houders van accijnsgoederenplaatsen voor wijn doen uiterlijk 7 januari 1992 aangifte van de bij de aanvang van 1 januari 1992 in hun accijnsgoederenplaats aanwezige hoeveelheden wijn onderscheiden naar wijn met een alcoholgehalte van niet meer dan 12%vol, meer dan 12 doch niet meer dan 15%vol, en meer dan 15%vol.   
-2.   Ter zake van de uitslag van wijn vanaf 1 januari 1992 blijft tot de ingevolge het eerste lid aangegeven hoeveelheden de heffing van accijns per 0,1%vol als bedoeld in de [artikelen 10](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en [11 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) achterwege.  
+2.   Ter zake van de uitslag van wijn vanaf 1 januari 1992 blijft tot de ingevolge het eerste lid aangegeven hoeveelheden de heffing van accijns per 0,1%vol als bedoeld in de artikelen 10 en 11 van de Wet op de accijns achterwege.  
 
 ### Artikel  XXV  
 
-1.  Branders, distillateurs van de eerste klasse en houders van kredietbergplaatsen als bedoeld in [hoofdstuk I](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), afdeling 2, van de Wet op de accijns van alcoholhoudende stoffen doen uiterlijk 7 januari 1992 aangifte van de bij de aanvang van 1 januari 1992 in hun kredietpanden aanwezige hoeveelheid alcoholhoudende stoffen.   
+1.  Branders, distillateurs van de eerste klasse en houders van kredietbergplaatsen als bedoeld in hoofdstuk I, afdeling 2, van de Wet op de accijns van alcoholhoudende stoffen doen uiterlijk 7 januari 1992 aangifte van de bij de aanvang van 1 januari 1992 in hun kredietpanden aanwezige hoeveelheid alcoholhoudende stoffen.   
 2.   De aangifte wordt gedaan in liters absolute alcohol bij een temperatuur van 20°C.   
-3.   De inspecteur sluit de rekening die hij houdt met de brander, distillateur van de eerste klasse of houder van de kredietbergplaats af overeenkomstig de bepalingen van [Hoofdstuk I](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), afdeling 5, van de Wet op de accijns van alcoholhoudende stoffen. De in het eerste lid bedoelde aangifte wordt aangemerkt als een peilbewijs in de zin van de vorenbedoelde afdeling 5.   
-4.   Van een bevonden ondermaat wordt de accijns voldaan overeenkomstig [artikel 44 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van alcoholhoudende stoffen.   
+3.   De inspecteur sluit de rekening die hij houdt met de brander, distillateur van de eerste klasse of houder van de kredietbergplaats af overeenkomstig de bepalingen van Hoofdstuk I, afdeling 5, van de Wet op de accijns van alcoholhoudende stoffen. De in het eerste lid bedoelde aangifte wordt aangemerkt als een peilbewijs in de zin van de vorenbedoelde afdeling 5.   
+4.   Van een bevonden ondermaat wordt de accijns voldaan overeenkomstig artikel 44 van de Wet op de accijns van alcoholhoudende stoffen.   
 5.   De aan het eind van 31 december 1991 volgens de afsluiting van de rekening aanwezige hoeveelheid alcoholhoudende stoffen, met inbegrip van de eventueel bevonden overmaat, wordt aangemerkt als te zijn uitgeslagen uit het kredietpand van de brander, distillateur van de eerste klasse, of houder van een kredietbergplaats en te zijn ingeslagen in zijn accijnsgoederenplaats. Ter zake van deze uitslag wordt de rekening gezuiverd.  
 
 ### Artikel  XXVI  
 
-1.  Op grond van hoofdstuk I, afdeling 2, onderafdeling 2, en [hoofdstuk IV van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van alcoholhoudende stoffen verleende bewijzen van goedkeuring tot het voorhanden hebben van een distilleertoestel in een distilleerderij van de tweede klasse onderscheidenlijk verleende vergunningen tot het voorhanden hebben en vervaardigen van een distilleertoestel, worden tot wederopzegging aangemerkt als op grond van [artikel 90 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) verleende vergunningen.   
-2.   De inspecteur onderzoekt vóór 1 januari 1993 of degenen van wie de in het eerste lid bedoelde vergunning of goedkeuring ingevolge dat lid wordt aangemerkt als een op grond van [artikel 90 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) verleende vergunning, voldoen aan de krachtens [artikel 90 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) voor de afgifte van de laatstbedoelde vergunning gestelde voorwaarden.  
+1.  Op grond van hoofdstuk I, afdeling 2, onderafdeling 2, en hoofdstuk IV van de Wet op de accijns van alcoholhoudende stoffen verleende bewijzen van goedkeuring tot het voorhanden hebben van een distilleertoestel in een distilleerderij van de tweede klasse onderscheidenlijk verleende vergunningen tot het voorhanden hebben en vervaardigen van een distilleertoestel, worden tot wederopzegging aangemerkt als op grond van artikel 90 van de Wet op de accijns verleende vergunningen.   
+2.   De inspecteur onderzoekt vóór 1 januari 1993 of degenen van wie de in het eerste lid bedoelde vergunning of goedkeuring ingevolge dat lid wordt aangemerkt als een op grond van artikel 90 van de Wet op de accijns verleende vergunning, voldoen aan de krachtens artikel 90 van de Wet op de accijns voor de afgifte van de laatstbedoelde vergunning gestelde voorwaarden.  
 
 ### Artikel  XXVII  
 
@@ -207,24 +207,24 @@ b. het krediet nog geldt.
 
 ### Artikel  XXX  
 
-De [artikelen 77](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en [79 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) zijn van toepassing met betrekking tot accijnszegels die zijn aangevraagd op de voet van de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van tabaksfabrikaten. 
+De artikelen 77 en 79 van de Wet op de accijns zijn van toepassing met betrekking tot accijnszegels die zijn aangevraagd op de voet van de Wet op de accijns van tabaksfabrikaten. 
 
 ### Artikel  XXXI  
 
-1.  Op grond van [artikel 32 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van tabaksfabrikaten verleende vergunningen aan handelaren in ruwe tabak worden tot wederopzegging aangemerkt als op grond van [artikel 82 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) verleende vergunningen.   
-2.   De inspecteur onderzoekt vóór 1 januari 1993 of degenen van wie de in het eerste lid bedoelde vergunning ingevolge dat lid wordt aangemerkt als een op grond van [artikel 82 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) verleende vergunning, voldoen aan de krachtens [artikel 82 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) voor de afgifte van de laatstbedoelde vergunning gestelde voorwaarden.  
+1.  Op grond van artikel 32 van de Wet op de accijns van tabaksfabrikaten verleende vergunningen aan handelaren in ruwe tabak worden tot wederopzegging aangemerkt als op grond van artikel 82 van de Wet op de accijns verleende vergunningen.   
+2.   De inspecteur onderzoekt vóór 1 januari 1993 of degenen van wie de in het eerste lid bedoelde vergunning ingevolge dat lid wordt aangemerkt als een op grond van artikel 82 van de Wet op de accijns verleende vergunning, voldoen aan de krachtens artikel 82 van de Wet op de accijns voor de afgifte van de laatstbedoelde vergunning gestelde voorwaarden.  
 
 ### Artikel  XXXII  
 
-De [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en deze wet treden in werking met ingang van 1 januari 1992 met uitzondering van artikel XXXIV dat in werking treedt met ingang van de datum van uitgifte van het *Staatsblad* waarin deze wet wordt geplaatst. 
+De Wet op de accijns en deze wet treden in werking met ingang van 1 januari 1992 met uitzondering van artikel XXXIV dat in werking treedt met ingang van de datum van uitgifte van het *Staatsblad* waarin deze wet wordt geplaatst. 
 
 ### Artikel  XXXIII  
 
-Bij ministeriële regeling kunnen nadere regels worden gegeven met betrekking tot de uitvoering van de overgang van de heffing van de accijns naar de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md). 
+Bij ministeriële regeling kunnen nadere regels worden gegeven met betrekking tot de uitvoering van de overgang van de heffing van de accijns naar de Wet op de accijns. 
 
 ### Artikel  XXXIV  
 
-Waar in deze wet de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) is aangehaald als [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) met vermelding van het *Staatsblad* waarin die wet is geplaatst, wordt bij plaatsing van deze wet in het *Staatsblad* na "*Stb.* 1991," ingevoegd het nummer van het *Staatsblad* waarin de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) is geplaatst. 
+Waar in deze wet de Wet op de accijns is aangehaald als Wet op de accijns met vermelding van het *Staatsblad* waarin die wet is geplaatst, wordt bij plaatsing van deze wet in het *Staatsblad* na "*Stb.* 1991," ingevoegd het nummer van het *Staatsblad* waarin de Wet op de accijns is geplaatst. 
 
 ### Artikel  XXXV  
 

@@ -6,24 +6,24 @@ Wij WILHELMINA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje
 
 Op de voordracht van Onzen Minister van Waterstaat, van 12 Juli 1919, L<sup>a</sup>. G., afdeeling Spoorwegen; 
 
-Gelet op [artikel 5, vijfde lid, der Locaalspoor- en Tramwegwet](../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) *(Staatsblad* n°. 99 van 1918); 
+Gelet op artikel 5, vijfde lid, der Locaalspoor- en Tramwegwet *(Staatsblad* n°. 99 van 1918); 
 
 Den Raad van State gehoord (advies van 5 Augustus 1919, n°. 25); 
 
 Gelet op het nader rapport van Onzen voornoemden Minister van 20 Februari 1920, n°. 302, afdeeling Spoorwegen; 
-Hebben goedgevonden en verstaan:  met ingang van den dag, op welken de [Locaalspoor- en Tramwegwet](../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) in werking zal treden:  
+Hebben goedgevonden en verstaan:  met ingang van den dag, op welken de Locaalspoor- en Tramwegwet in werking zal treden:  
 
 1°. in te trekken:  
 
-a. het algemeen reglement voor de spoorwegen, bedoeld in [artikel 2 der wet van 9 Juli 1900](../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) (*Staatsblad* n°. 118), onder den titel Tramwegreglement 1902 vastgesteld bij Koninklijk besluit van 31 Juli 1902 ( *Staatsblad* n°. 162), het laatst gewijzigd bij Koninklijk besluit van 22 Augustus 1916 (*Staatsblad* n°. 421);   
+a. het algemeen reglement voor de spoorwegen, bedoeld in artikel 2 der wet van 9 Juli 1900 (*Staatsblad* n°. 118), onder den titel Tramwegreglement 1902 vastgesteld bij Koninklijk besluit van 31 Juli 1902 ( *Staatsblad* n°. 162), het laatst gewijzigd bij Koninklijk besluit van 22 Augustus 1916 (*Staatsblad* n°. 421);   
 
-b. het reglement, houdende vereenvoudigde bepalingen voor spoorwegen, als bedoeld in [artikel 1 der wet van 9 Juli 1900](../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) (*Staatsblad* n°. 118), op welke geen vervoer plaats heeft dan met eene snelheid van ten hoogste vijf en dertig (35) kilometer per uur, onder den titel Vereenvoudigd Locaalspoorwegreglement 1902 vastgesteld bij Koninklijk besluit van 18 Augustus 1902 (*Staatsblad* n°. 170), het laatst gewijzigd bij Koninklijk besluit van 15 September 1913 (*Staatsblad* n°. 366);     
+b. het reglement, houdende vereenvoudigde bepalingen voor spoorwegen, als bedoeld in artikel 1 der wet van 9 Juli 1900 (*Staatsblad* n°. 118), op welke geen vervoer plaats heeft dan met eene snelheid van ten hoogste vijf en dertig (35) kilometer per uur, onder den titel Vereenvoudigd Locaalspoorwegreglement 1902 vastgesteld bij Koninklijk besluit van 18 Augustus 1902 (*Staatsblad* n°. 170), het laatst gewijzigd bij Koninklijk besluit van 15 September 1913 (*Staatsblad* n°. 366);     
 
 2°. vast te stellen:  
 
-a. het bij dit besluit gevoegde reglement voor de tramwegen, genoemd in [artikel 1, eerste lid, letter *b* der Locaalspoor- en Tramwegwet](../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md), en getiteld Tramwegreglement;   
+a. het bij dit besluit gevoegde reglement voor de tramwegen, genoemd in artikel 1, eerste lid, letter *b* der Locaalspoor- en Tramwegwet, en getiteld Tramwegreglement;   
 
-b. het bij dit besluit gevoegde reglement ter uitvoering van het [vijfde lid, onder *b*, van artikel 5 der Locaalspoor- en Tramwegwet](../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md), en getiteld Bijzonder Reglement Vervoer Tramwegen of B. R. V. T.          
+b. het bij dit besluit gevoegde reglement ter uitvoering van het vijfde lid, onder *b*, van artikel 5 der Locaalspoor- en Tramwegwet, en getiteld Bijzonder Reglement Vervoer Tramwegen of B. R. V. T.          
 ### Afdeeling  I  
 
 ####Van den weg en de seinen 
@@ -96,8 +96,8 @@ b. binnen deze profielen en in de strooken langs deze profielen, ter breedte van
 
 ####Overwegen 
 
-1.  Bestuurders kunnen, met toestemming van de Minister, bij overwegen Andreaskruisen volgens model J12 of J13 van [bijlage 1, behorende bij het RVV 1990](../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), of hekken plaatsen. De Minister kan aan de toestemming het voorschrift verbinden dat de overweg wordt beveiligd.    
-2.   Op overwegen waar op grond van het bepaalde in het eerste lid Andreaskruisen of hekken zijn geplaatst, is het bepaalde in de [artikelen 20](../../../AMvB/reglement/dienst/hoofd-/en/lokaalspoorwegen/BWBR0003083/README.md), [21](../../../AMvB/reglement/dienst/hoofd-/en/lokaalspoorwegen/BWBR0003083/README.md), [22](../../../AMvB/reglement/dienst/hoofd-/en/lokaalspoorwegen/BWBR0003083/README.md) en [23, tweede tot en met vierde lid, van het Reglement Dienst Hoofd- en Lokaalspoorwegen](../../../AMvB/reglement/dienst/hoofd-/en/lokaalspoorwegen/BWBR0003083/README.md) van overeenkomstige toepassing.   
+1.  Bestuurders kunnen, met toestemming van de Minister, bij overwegen Andreaskruisen volgens model J12 of J13 van bijlage 1, behorende bij het RVV 1990, of hekken plaatsen. De Minister kan aan de toestemming het voorschrift verbinden dat de overweg wordt beveiligd.    
+2.   Op overwegen waar op grond van het bepaalde in het eerste lid Andreaskruisen of hekken zijn geplaatst, is het bepaalde in de artikelen 20, 21, 22 en 23, tweede tot en met vierde lid, van het Reglement Dienst Hoofd- en Lokaalspoorwegen van overeenkomstige toepassing.   
 
 ### Artikel  8  
 
@@ -142,14 +142,14 @@ b. binnen deze profielen en in de strooken langs deze profielen, ter breedte van
 
 ### Artikel  13  
 
-####Brandstrooken. Gewijzigde toepasselijkverklaring van [artikel 33a der wet van 9 April 1875](../../../wet/spoorwegwet/BWBR0001848/README.md) (Staatsblad n°. 67) 
+####Brandstrooken. Gewijzigde toepasselijkverklaring van artikel 33a der wet van 9 April 1875 (Staatsblad n°. 67) 
 
 1.  De Minister kan voor de niet op openbare wegen aangelegde gedeelten van tramwegen, die door of langs bosch-, veen-, of heidegronden of gronden met andere licht brandbare gewassen begroeid, aangelegd zijn, bepalen, dat en op welke van die gedeelten maatregelen genomen moeten worden, om bij het ontstaan van brand op het terrein van den tramweg het overslaan van den brand op de aangrenzende eigendommen te belemmeren.    
 2.   Op die baangedeelten zorgen bestuurders, dat het terrein van den tramweg door het graven van slooten, door het omspitten of bedekken met onbrandbare stoffen van een doorgaande strook grond, of door eenig ander middel van de aangrenzende eigendommen zoodanig wordt afgescheiden, dat het bovengenoemde gevaar voor het overslaan van brand naar het oordeel van de Minister voldoende beperkt wordt.   
 
 ### Artikel  14  
 
-####Verbod van bebouwing, enz. langs den tramweg. Gewijzigde toepasselijkverklaring van de [artikelen 36-41](../../../wet/spoorwegwet/BWBR0001848/README.md) en [68 der wet van 9 April 1875](../../../wet/spoorwegwet/BWBR0001848/README.md) (Staatsblad n°. 67) 
+####Verbod van bebouwing, enz. langs den tramweg. Gewijzigde toepasselijkverklaring van de artikelen 36-41 en 68 der wet van 9 April 1875 (Staatsblad n°. 67) 
 
 1.  Het is verboden langs de niet op openbare wegen aangelegde gedeelten van tramwegen een gebouw, muur, schutting, aarden wal of ander verheven voorwerp op te richten of boomen of houtgewas te planten:  
 
@@ -806,9 +806,9 @@ b. van 1 November tot 1 April behoorlijk verwarmd.
 
 ### Artikel  66  
 
-####Voorschriften betreffende treinen, geheel bestaande uit materieel van spoorwegen, voor welke geldt de [wet van 9 April 1875](../../../wet/spoorwegwet/BWBR0001848/README.md) (Staatsblad n°. 67) 
+####Voorschriften betreffende treinen, geheel bestaande uit materieel van spoorwegen, voor welke geldt de wet van 9 April 1875 (Staatsblad n°. 67) 
 
-1.  Treinen, geheel bestaande uit materiëel van spoorwegen, voor welke de [spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) geldt, daaronder begrepen de locaalspoorwegen blijven enz.    
+1.  Treinen, geheel bestaande uit materiëel van spoorwegen, voor welke de spoorwegwet geldt, daaronder begrepen de locaalspoorwegen blijven enz.    
 2.   De Minister kan van het bepaalde in het eerste lid ontheffing verleenen.   
 
 ### Afdeeling  IV  
@@ -1056,7 +1056,7 @@ c. de dienstregeling van de treinen voor het reizigersvervoer, waarin alle plaat
 
 ####Verklaring van in dit reglement gebezigde uitdrukkingen 
 
-In dit reglement wordt verstaan onder:  *Minister:* de Minister, belast met de uitvoering van de [wet van 9 April 1875](../../../wet/spoorwegwet/BWBR0001848/README.md) (*Staatsblad* n°. 67) en van de [Locaalspoor- en Tramwegwet](../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md);   *bestuurders:* bestuurders van den tramwegdienst;   *grootste toegelaten snelheid:* de door den Minister ingevolge artikel 56 van dit reglement voor elken tramweg bepaalde grootste snelheid van vervoer;   *trekvoertuig:* het voertuig, waarvan de bewegende kracht uitgaat, al of niet tevens voor het vervoer van reizigers of (en) goederen ingericht;   *machinist:* de beambte, belast met de bediening van een door stoomkracht bewogen trekvoertuig;   *wagenvoerder:* de beambte, belast met de bediening van een door andere dan stoomkracht bewogen trekvoertuig;   *trein:* elk trekvoertuig in dienstvaardigen staat met of zonder andere voertuigen;   *rijtuig:* elk voertuig, geheel of gedeeltelijk ingericht voor het vervoer van reizigers;   *wagen:* elk voertuig, ingericht voor het vervoer van bagage, goederen of levende dieren of ingericht als postkantoor;   *overweg:* een gelijkvloerse kruising van een tramweg en een weg;   *nacht:* de tijd tussen vijftien minuten na zonsondergang en vijftien minuten vóór zonsopgang.  
+In dit reglement wordt verstaan onder:  *Minister:* de Minister, belast met de uitvoering van de wet van 9 April 1875 (*Staatsblad* n°. 67) en van de Locaalspoor- en Tramwegwet;   *bestuurders:* bestuurders van den tramwegdienst;   *grootste toegelaten snelheid:* de door den Minister ingevolge artikel 56 van dit reglement voor elken tramweg bepaalde grootste snelheid van vervoer;   *trekvoertuig:* het voertuig, waarvan de bewegende kracht uitgaat, al of niet tevens voor het vervoer van reizigers of (en) goederen ingericht;   *machinist:* de beambte, belast met de bediening van een door stoomkracht bewogen trekvoertuig;   *wagenvoerder:* de beambte, belast met de bediening van een door andere dan stoomkracht bewogen trekvoertuig;   *trein:* elk trekvoertuig in dienstvaardigen staat met of zonder andere voertuigen;   *rijtuig:* elk voertuig, geheel of gedeeltelijk ingericht voor het vervoer van reizigers;   *wagen:* elk voertuig, ingericht voor het vervoer van bagage, goederen of levende dieren of ingericht als postkantoor;   *overweg:* een gelijkvloerse kruising van een tramweg en een weg;   *nacht:* de tijd tussen vijftien minuten na zonsondergang en vijftien minuten vóór zonsopgang.  
 
 ### Artikel  95  
 

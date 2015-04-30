@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 25 juli 2002, nr. 517161/02/6;
 
-Gelet op [artikel 54 van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md);
+Gelet op artikel 54 van de Wet rechtspositie rechterlijke ambtenaren;
 
 De Raad van State gehoord (advies van 20 september 2002, nr. W03.02.0342/I);
 
@@ -27,39 +27,39 @@ Wijzigt het Besluit rechtspositie rechterlijke ambtenaren.
 
 ### Artikel  IV  
 
-De algemene onkostenvergoeding, bedoeld in het [Besluit onkostenvergoeding rechterlijke ambtenaren](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md), bedraagt gedurende de periode van 1 januari 2000 tot en met 31 december 2000, in afwijking van de [artikelen 1, derde lid, onderdelen a tot en met e](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md), [2, tweede lid, onderdelen a tot en met g](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md), [3](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md), [4, eerste lid](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md), [5, eerste lid](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md), en [6 van genoemd besluit](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md), zoals deze artikelen op 31 december 2000 luidden: 
+De algemene onkostenvergoeding, bedoeld in het Besluit onkostenvergoeding rechterlijke ambtenaren, bedraagt gedurende de periode van 1 januari 2000 tot en met 31 december 2000, in afwijking van de artikelen 1, derde lid, onderdelen a tot en met e, 2, tweede lid, onderdelen a tot en met g, 3, 4, eerste lid, 5, eerste lid, en 6 van genoemd besluit, zoals deze artikelen op 31 december 2000 luidden: 
 
-a. voor de in [artikel 1, derde lid, onderdelen a tot en met e, van genoemd besluit](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) bedoelde rechterlijke ambtenaren: f 8628, f 4818, f 2946 onderscheidenlijk f 2412;  
+a. voor de in artikel 1, derde lid, onderdelen a tot en met e, van genoemd besluit bedoelde rechterlijke ambtenaren: f 8628, f 4818, f 2946 onderscheidenlijk f 2412;  
 
-b. voor de in [artikel 2, tweede lid, onderdelen a tot en met g, van genoemd besluit](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) bedoelde rechterlijke ambtenaren: f 8628, f 8358, f 4818, f 4548, f 3480, f 2946 onderscheidenlijk f 2676;  
+b. voor de in artikel 2, tweede lid, onderdelen a tot en met g, van genoemd besluit bedoelde rechterlijke ambtenaren: f 8628, f 8358, f 4818, f 4548, f 3480, f 2946 onderscheidenlijk f 2676;  
 
-c. voor de in [artikel 3 van genoemd besluit](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) bedoelde rechterlijke ambtenaren: f 2412;  
+c. voor de in artikel 3 van genoemd besluit bedoelde rechterlijke ambtenaren: f 2412;  
 
-d. voor de in [artikel 4, eerste lid, van genoemd besluit](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) bedoelde rechterlijke ambtenaren: f 966;  
+d. voor de in artikel 4, eerste lid, van genoemd besluit bedoelde rechterlijke ambtenaren: f 966;  
 
-e. voor de in [artikel 5, eerste lid, van genoemd besluit](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) bedoelde rechterlijke ambtenaren: f 1338;  
+e. voor de in artikel 5, eerste lid, van genoemd besluit bedoelde rechterlijke ambtenaren: f 1338;  
 
-f. voor de in [artikel 6 van genoemd besluit](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) bedoelde rechterlijke ambtenaren in opleiding: f 966.   
+f. voor de in artikel 6 van genoemd besluit bedoelde rechterlijke ambtenaren in opleiding: f 966.   
 
 ### Artikel  V  
 
-De algemene onkostenvergoeding, bedoeld in het [Besluit onkostenvergoeding rechterlijke ambtenaren](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md), bedraagt gedurende de periode van 1 januari 2001 tot en met 31 december 2001, in afwijking van de [artikelen 1, derde lid, onderdelen a tot en met e](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md), [2, tweede lid, onderdelen a tot en met g](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md), [3](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md), [4, eerste lid](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md), [5, eerste lid](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md), en [6 van genoemd besluit](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md), zoals deze artikelen op 31 december 2001 luidden: 
+De algemene onkostenvergoeding, bedoeld in het Besluit onkostenvergoeding rechterlijke ambtenaren, bedraagt gedurende de periode van 1 januari 2001 tot en met 31 december 2001, in afwijking van de artikelen 1, derde lid, onderdelen a tot en met e, 2, tweede lid, onderdelen a tot en met g, 3, 4, eerste lid, 5, eerste lid, en 6 van genoemd besluit, zoals deze artikelen op 31 december 2001 luidden: 
 
-a. voor de in [artikel 1, derde lid, onderdelen a tot en met e, van genoemd besluit](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) bedoelde rechterlijke ambtenaren: f 8887, f 4963, f 3307, f 3035 en f 2485;  
+a. voor de in artikel 1, derde lid, onderdelen a tot en met e, van genoemd besluit bedoelde rechterlijke ambtenaren: f 8887, f 4963, f 3307, f 3035 en f 2485;  
 
-b. voor de in [artikel 2, tweede lid, onderdelen a tot en met g van genoemd besluit](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) bedoelde rechterlijke ambtenaren: f 8887, f 8609, f 4963, f 4685, f 3585, f 3035 en f 2757;  
+b. voor de in artikel 2, tweede lid, onderdelen a tot en met g van genoemd besluit bedoelde rechterlijke ambtenaren: f 8887, f 8609, f 4963, f 4685, f 3585, f 3035 en f 2757;  
 
-c. voor de in [artikel 3 van genoemd besluit](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) bedoelde rechterlijke ambtenaren: f 2485;  
+c. voor de in artikel 3 van genoemd besluit bedoelde rechterlijke ambtenaren: f 2485;  
 
-d. voor de in [artikel 4, eerste lid, van genoemd besluit](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) bedoelde rechterlijke ambtenaren: f 995;  
+d. voor de in artikel 4, eerste lid, van genoemd besluit bedoelde rechterlijke ambtenaren: f 995;  
 
-e. voor de in [artikel 5, eerste lid, van genoemd besluit](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) bedoelde rechterlijke ambtenaren: f 1379;  
+e. voor de in artikel 5, eerste lid, van genoemd besluit bedoelde rechterlijke ambtenaren: f 1379;  
 
-f. voor de in [artikel 6 van genoemd besluit](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) bedoelde rechterlijke ambtenaren in opleiding: f 995.    
+f. voor de in artikel 6 van genoemd besluit bedoelde rechterlijke ambtenaren in opleiding: f 995.    
 
 ### Artikel  VI  
 
-1.  In afwijking van [artikel 7, eerste lid, van het Besluit onkostenvergoeding rechterlijke ambtenaren](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) wordt aan de rechterlijke ambtenaren die voor de inwerkingtreding van dit besluit zijn aangesteld voor het vervullen van minder dan de helft van een volledige taak, de onkostenvergoeding toegekend die zij zouden hebben ontvangen indien zij in hetzelfde ambt zouden zijn aangesteld voor het vervullen van een volledige taak.   
+1.  In afwijking van artikel 7, eerste lid, van het Besluit onkostenvergoeding rechterlijke ambtenaren wordt aan de rechterlijke ambtenaren die voor de inwerkingtreding van dit besluit zijn aangesteld voor het vervullen van minder dan de helft van een volledige taak, de onkostenvergoeding toegekend die zij zouden hebben ontvangen indien zij in hetzelfde ambt zouden zijn aangesteld voor het vervullen van een volledige taak.   
 2.  Het eerste lid is niet van toepassing op de rechterlijke ambtenaren die voor de inwerkingtreding van dit besluit zijn aangesteld voor het vervullen van minder dan de helft van een volledige taak en die op of na het tijdstip van inwerkingtreding van dit besluit een nieuwe aanstelling krijgen voor het vervullen van minder dan de helft van een volledige taak.  
 
 ### Artikel  VII  
@@ -72,8 +72,8 @@ In afwijking van artikel 9a van het Besluit rechtspositie leden gerechtsbesturen
 
 ### Artikel  IX  
 
-1.  In afwijking van artikel 38da, eerste en tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren, blijft op de rechterlijk ambtenaar die voor de inwerkingtreding van dit besluit gebruik maakte van de mogelijkheid, bedoeld in [artikel 38a, eerste lid, van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), om een minder belastende functie te vervullen, onderscheidenlijk de mogelijkheid, bedoeld in [artikel 38d, eerste of tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), om de gemiddelde wekelijkse werktijd terug te brengen, het recht van toepassing zoals dat gold voor de inwerkingtreding van dit besluit.   
-2.  In afwijking van het eerste lid kan de rechterlijk ambtenaar die voor de inwerkingtreding van dit besluit gebruik maakte van een van de in het eerste lid genoemde mogelijkheden, eenmalig de keuze maken om gebruik te maken van zowel de mogelijkheid, bedoeld in [artikel 38a, eerste lid](../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), als de mogelijkheid, bedoeld in [artikel 38d, eerste of tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md).   
+1.  In afwijking van artikel 38da, eerste en tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren, blijft op de rechterlijk ambtenaar die voor de inwerkingtreding van dit besluit gebruik maakte van de mogelijkheid, bedoeld in artikel 38a, eerste lid, van het Besluit rechtspositie rechterlijke ambtenaren, om een minder belastende functie te vervullen, onderscheidenlijk de mogelijkheid, bedoeld in artikel 38d, eerste of tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren, om de gemiddelde wekelijkse werktijd terug te brengen, het recht van toepassing zoals dat gold voor de inwerkingtreding van dit besluit.   
+2.  In afwijking van het eerste lid kan de rechterlijk ambtenaar die voor de inwerkingtreding van dit besluit gebruik maakte van een van de in het eerste lid genoemde mogelijkheden, eenmalig de keuze maken om gebruik te maken van zowel de mogelijkheid, bedoeld in artikel 38a, eerste lid, als de mogelijkheid, bedoeld in artikel 38d, eerste of tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren.   
 
 ### Artikel  X  
 
@@ -109,7 +109,7 @@ In afwijking van artikel 9a van het Besluit rechtspositie leden gerechtsbesturen
 
 ### Artikel  XV  
 
-De [Regeling ziektekostenvoorziening rechterlijke ambtenaren](../../../../../../../../../../AMvB/regeling/ziektekostenvoorziening/rechterlijke/ambtenaren/BWBR0008815/README.md) wordt ingetrokken. 
+De Regeling ziektekostenvoorziening rechterlijke ambtenaren wordt ingetrokken. 
 
 ### Artikel  XVI  
 

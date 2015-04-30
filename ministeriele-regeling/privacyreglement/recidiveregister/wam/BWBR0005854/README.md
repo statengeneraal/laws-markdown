@@ -3,7 +3,7 @@
 ##Privacyreglement Recidiveregister WAM
 
 De Minister van Justitie en de Minister van Verkeer en Waterstaat;  
-Overwegende dat ingevolge artikel 19 van de Wet Persoonsregistraties dient te worden voorziern in de vaststelling van een privacyreglement voor de geautomatiseerde gegevensverzameling ten dienste van de afhandeling door de Rijksdienst voor het Wegverkeer van overtredingen van [artikel 30 van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md),
+Overwegende dat ingevolge artikel 19 van de Wet Persoonsregistraties dient te worden voorziern in de vaststelling van een privacyreglement voor de geautomatiseerde gegevensverzameling ten dienste van de afhandeling door de Rijksdienst voor het Wegverkeer van overtredingen van artikel 30 van de Wet aansprakelijkheidsverzekering motorrijtuigen,
 Besluiten:    
 
 ### Artikel  1  

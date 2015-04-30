@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Defensie, drs. W. K. Hoekzema van 29 juni 1984, Afdeling Arbeidsvoorwaarden Militair Personeel, nr. D 81/780/41743;
 
-Gelet op [artikel 12 van de Militaire Ambtenarenwet 1931](../../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) (*Stb.* 519) en artikel 2 van de Wet rechtstoestand dienstplichtigen (*Stb.* 1971, 231);
+Gelet op artikel 12 van de Militaire Ambtenarenwet 1931 (*Stb.* 519) en artikel 2 van de Wet rechtstoestand dienstplichtigen (*Stb.* 1971, 231);
 
 De Raad van State gehoord (advies van 27 juli 1984, nr. W 07.84.0339/16.4.30);
 

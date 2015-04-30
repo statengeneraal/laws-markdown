@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 20 mei 1998, nr. HDTP/98/1541/MO, Hoofddirectie Telecommunicatie en Post; 
 
-Gelet op de [artikelen 20.1, vierde lid](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), [20.3, vierde lid](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), en [20.18 van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md); 
+Gelet op de artikelen 20.1, vierde lid, 20.3, vierde lid, en 20.18 van de Telecommunicatiewet; 
 
 De Raad van State gehoord (advies van 13 augustus 1998, nr. W09.98.0220); 
 
@@ -18,15 +18,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder wet: [Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).  
+In dit besluit wordt verstaan onder wet: Telecommunicatiewet.  
 
 ### §  2  
 
-####Criteria als bedoeld in [artikel 20.1, vierde lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) 
+####Criteria als bedoeld in artikel 20.1, vierde lid, van de wet 
 
 ### Artikel  2  
 
-1.  Criteria als bedoeld in [artikel 20.1, vierde lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) zijn:  
+1.  Criteria als bedoeld in artikel 20.1, vierde lid, van de wet zijn:  
 
 a. het hanteren van dezelfde tarieven in het gehele land voor gelijke vormen van dienstverlening,   
 
@@ -47,15 +47,15 @@ f. contractduur.
 
 ### Artikel  3  
 
-Deze paragraaf is van toepassing op vergunningen als bedoeld in [artikel 20.3, eerste of tweede lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) die krachtens de Wet op de telecommunicatievoorzieningen met een in de tijd onbeperkte werking zijn verleend.  
+Deze paragraaf is van toepassing op vergunningen als bedoeld in artikel 20.3, eerste of tweede lid, van de wet die krachtens de Wet op de telecommunicatievoorzieningen met een in de tijd onbeperkte werking zijn verleend.  
 
 ### Artikel  4  
 
-Een vergunning als bedoeld in [artikel 20.3, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) geldt voor een termijn van vijf jaar na de inwerkingtreding van dit besluit, voorzover deze betrekking heeft op de toepassing maritiem (grote handelsvaart).  
+Een vergunning als bedoeld in artikel 20.3, eerste lid, van de wet geldt voor een termijn van vijf jaar na de inwerkingtreding van dit besluit, voorzover deze betrekking heeft op de toepassing maritiem (grote handelsvaart).  
 
 ### Artikel  5  
 
-Een vergunning als bedoeld in [artikel 20.3, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) geldt voor een termijn van vijf jaar na de inwerkingtreding van dit besluit, voorzover deze betrekking heeft op de toepassing:  
+Een vergunning als bedoeld in artikel 20.3, eerste lid, van de wet geldt voor een termijn van vijf jaar na de inwerkingtreding van dit besluit, voorzover deze betrekking heeft op de toepassing:  
 
 a. radiozendamateurs,   
 
@@ -95,7 +95,7 @@ r. trunking (TR20).
 
 ### Artikel  6  
 
-Een vergunning als bedoeld in [artikel 20.3, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) geldt voor een termijn van tien jaar na de inwerkingtreding van dit besluit, voorzover deze betrekking heeft op de toepassing:  
+Een vergunning als bedoeld in artikel 20.3, eerste lid, van de wet geldt voor een termijn van tien jaar na de inwerkingtreding van dit besluit, voorzover deze betrekking heeft op de toepassing:  
 
 a. radar anders dan voor snelheidscontrole,   
 
@@ -103,7 +103,7 @@ b. trunking (TR10).
 
 ### Artikel  7  
 
-Een vergunning als bedoeld in [artikel 20.3, tweede lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) geldt voor een periode van vijftien jaar na de inwerkingtreding van dit besluit.  
+Een vergunning als bedoeld in artikel 20.3, tweede lid, van de wet geldt voor een periode van vijftien jaar na de inwerkingtreding van dit besluit.  
 
 ### §  4  
 
@@ -111,7 +111,7 @@ Een vergunning als bedoeld in [artikel 20.3, tweede lid, van de wet](../../../..
 
 ### Artikel  8  
 
-Deze paragraaf is van toepassing op vergunningen als bedoeld in [artikel 20.3, eerste, tweede of derde lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) die krachtens de Wet op de telecommunicatievoorzieningen met een in de tijd beperkte werking zijn verleend.  
+Deze paragraaf is van toepassing op vergunningen als bedoeld in artikel 20.3, eerste, tweede of derde lid, van de wet die krachtens de Wet op de telecommunicatievoorzieningen met een in de tijd beperkte werking zijn verleend.  
 
 ### Artikel  9  
 
@@ -119,12 +119,12 @@ Vergunningen behouden hun werkingsduur, zoals deze krachtens de Wet op de teleco
 
 ### §  5  
 
-####Regels als bedoeld in [artikel 20.18 van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) 
+####Regels als bedoeld in artikel 20.18 van de wet 
 
 ### Artikel  10  
 
-1.  Een toekenning van radiofrequenties als bedoeld in [artikel 21 van de Vergunningenwet kabelgebonden telecommunicatie-infrastructuur](../../../../../wet/vergunningenwet/kabelgebonden/telecommunicatie-infrastructuur/BWBR0007973/README.md) wordt gelijkgesteld met een vergunning, verleend krachtens [artikel 3.13, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).    
-2.  Een toekenning van radiofrequenties als bedoeld in het eerste lid behoudt haar werkingsduur, zoals deze krachtens [artikel 21 van de Vergunningenwet kabelgebonden telecommunicatie-infrastructuur](../../../../../wet/vergunningenwet/kabelgebonden/telecommunicatie-infrastructuur/BWBR0007973/README.md) is bepaald.   
+1.  Een toekenning van radiofrequenties als bedoeld in artikel 21 van de Vergunningenwet kabelgebonden telecommunicatie-infrastructuur wordt gelijkgesteld met een vergunning, verleend krachtens artikel 3.13, eerste lid, van de wet.    
+2.  Een toekenning van radiofrequenties als bedoeld in het eerste lid behoudt haar werkingsduur, zoals deze krachtens artikel 21 van de Vergunningenwet kabelgebonden telecommunicatie-infrastructuur is bepaald.   
 
 ### §  6  
 

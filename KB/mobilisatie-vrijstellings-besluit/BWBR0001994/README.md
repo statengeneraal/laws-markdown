@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Wanneer in geval van buitengewone omstandigheden krachtens [artikel 19 van de Kaderwet dienstplicht](../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md) dienstplichtigen in werkelijke dienst worden opgeroepen, komen niet of voorlopig niet krachtens die oproeping in werkelijke dienst de personen behorend tot de groepen, onderscheidenlijk vermeld in de bij dit besluit behorende lijsten A en B.   
+1.  Wanneer in geval van buitengewone omstandigheden krachtens artikel 19 van de Kaderwet dienstplicht dienstplichtigen in werkelijke dienst worden opgeroepen, komen niet of voorlopig niet krachtens die oproeping in werkelijke dienst de personen behorend tot de groepen, onderscheidenlijk vermeld in de bij dit besluit behorende lijsten A en B.   
 2.   Ten aanzien van elken persoon, die behoort tot een der groepen, welke in geval van buitengewone omstandigheden niet of voorloopig niet in werkelijken dienst komen, gaat de vrijstelling van opkomst in met ingang van een door Onze Minister van Defensie te bepalen datum.  
 
 ### Artikel  2  

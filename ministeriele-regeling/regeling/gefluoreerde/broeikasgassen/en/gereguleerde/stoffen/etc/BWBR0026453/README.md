@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 17 september 2009, nr. DGM/K&L 2009054964, houdende vaststelling van regels inzake de examinering en diplomering van personen en de certificering van bedrijven die werkzaamheden verrichten aan koelinstallaties waarbij gefluoreerde broeikasgassen of gereguleerde stoffen vrij kunnen komen (Regeling gefluoreerde broeikasgassen en gereguleerde stoffen koelinstallaties)
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op de artikelen 5, tweede lid, en 6, vierde lid, van verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad van de Europese Unie van 17 mei 2006 inzake bepaalde gefluoreerde broeikasgassen (PbEU L 161), de artikelen 6, eerste en tweede lid, 9, eerste en tweede lid, 10, eerste lid, en 11, eerste lid, van verordening (EG) nr. 303/2008 van de Europese Commissie van 2 april 2008 tot instelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad van de Europese Unie, van minimumeisen en de voorwaarden voor wederzijdse erkenning voor de certificering van bedrijven en personeel betreffende stationaire koel-, klimaatregelings- en warmtepompapparatuur die bepaalde gefluoreerde broeikasgassen bevat (PbEU L 92), de artikelen 2, derde lid, en 3, eerste lid, van verordening (EG) nr. 307/2008 van de Europese Commissie van 2 april 2008 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad van de Europese Unie, van minimumeisen voor opleidingsprogramma’s en de voorwaarden voor wederzijdse erkenning van opleidingsvoorschriften voor personeel op het gebied van bepaalde gefluoreerde broeikasgassen bevattende klimaatregelingssystemen in bepaalde motorvoertuigen (PbEU L 92), de artikelen 16, vijfde lid, en 17, eerste lid, van verordening (EG) nr. 2037/2000 van het Europees Parlement en de Raad van de Europese Unie van 29 juni 2000 betreffende de ozonlaag afbrekende stoffen (PbEG L 244), [artikel 4, eerste tot en met derde lid, van het Besluit gefluoreerde broeikasgassen milieubeheer](../../../../../../../../../AMvB/besluit/gefluoreerde/broeikasgassen/wms/2007/BWBR0022857/README.md) en de [artikelen 4](../../../../../../../../../AMvB/besluit/ozonlaagafbrekende/stoffen/wms/2003/BWBR0015507/README.md) en [6 van het Besluit ozonlaagafbrekende stoffen milieubeheer](../../../../../../../../../AMvB/besluit/ozonlaagafbrekende/stoffen/wms/2003/BWBR0015507/README.md);
+Gelet op de artikelen 5, tweede lid, en 6, vierde lid, van verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad van de Europese Unie van 17 mei 2006 inzake bepaalde gefluoreerde broeikasgassen (PbEU L 161), de artikelen 6, eerste en tweede lid, 9, eerste en tweede lid, 10, eerste lid, en 11, eerste lid, van verordening (EG) nr. 303/2008 van de Europese Commissie van 2 april 2008 tot instelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad van de Europese Unie, van minimumeisen en de voorwaarden voor wederzijdse erkenning voor de certificering van bedrijven en personeel betreffende stationaire koel-, klimaatregelings- en warmtepompapparatuur die bepaalde gefluoreerde broeikasgassen bevat (PbEU L 92), de artikelen 2, derde lid, en 3, eerste lid, van verordening (EG) nr. 307/2008 van de Europese Commissie van 2 april 2008 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad van de Europese Unie, van minimumeisen voor opleidingsprogramma’s en de voorwaarden voor wederzijdse erkenning van opleidingsvoorschriften voor personeel op het gebied van bepaalde gefluoreerde broeikasgassen bevattende klimaatregelingssystemen in bepaalde motorvoertuigen (PbEU L 92), de artikelen 16, vijfde lid, en 17, eerste lid, van verordening (EG) nr. 2037/2000 van het Europees Parlement en de Raad van de Europese Unie van 29 juni 2000 betreffende de ozonlaag afbrekende stoffen (PbEG L 244), artikel 4, eerste tot en met derde lid, van het Besluit gefluoreerde broeikasgassen milieubeheer en de artikelen 4 en 6 van het Besluit ozonlaagafbrekende stoffen milieubeheer;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -23,7 +23,7 @@ In deze regeling wordt verstaan onder:
 
 – niet hermetisch gesloten is en minder dan drie kilogram gefluoreerde broeikasgassen of gereguleerde stoffen bevat, of  
 
-– hermetisch gesloten is en minder dan zes kilogram gefluoreerde broeikasgassen of gereguleerde stoffen bevat,   en hoofdzakelijk bestemd is om de luchttemperatuur en de vochtigheid in de bestuurdersruimte of de passagiersruimte van een voertuig als bedoeld in [artikel 1, eerste lid, onder c en d, van de Wegenverkeerswet 1994](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) te doen dalen;  
+– hermetisch gesloten is en minder dan zes kilogram gefluoreerde broeikasgassen of gereguleerde stoffen bevat,   en hoofdzakelijk bestemd is om de luchttemperatuur en de vochtigheid in de bestuurdersruimte of de passagiersruimte van een voertuig als bedoeld in artikel 1, eerste lid, onder c en d, van de Wegenverkeerswet 1994 te doen dalen;  
 
 *deelnemer:* deelnemer aan het examen, bedoeld in artikel 3, eerste lid;  
 
@@ -33,7 +33,7 @@ In deze regeling wordt verstaan onder:
 
 *keuringsinstantie:* door de minister aangewezen instantie als bedoeld in artikel 25, eerste lid;  
 
-*koelinstallatie:* drukapparatuur of drukapparaat als bedoeld in [artikel 1, onder e, van het Warenwetbesluit drukapparatuur](../../../../../../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), waarin zich gefluoreerde broeikasgassen of gereguleerde stoffen bevinden;  
+*koelinstallatie:* drukapparatuur of drukapparaat als bedoeld in artikel 1, onder e, van het Warenwetbesluit drukapparatuur, waarin zich gefluoreerde broeikasgassen of gereguleerde stoffen bevinden;  
 
 *koudemiddelenregistratie:* registratie waarbij wordt bijgehouden de hoeveelheid gefluoreerde broeikasgassen en gereguleerde stoffen die wordt gevuld of bijgevuld in koelinstallaties en de teruggewonnen hoeveelheid gefluoreerde broeikasgassen en gereguleerde stoffen uit koelinstallaties evenals de bestemming hiervan;  
 
@@ -47,7 +47,7 @@ In deze regeling wordt verstaan onder:
 
 – niet hermetisch gesloten is en drie kilogram of meer gefluoreerde broeikasgassen of gereguleerde stoffen bevat of  
 
-– hermetisch gesloten is en zes kilogram of meer gefluoreerde broeikasgassen of gereguleerde stoffen bevat,   en zich bevindt in of op een spoorvoertuig als bedoeld in [artikel 1, onder e, van de Spoorwegwet](../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) of een voertuig als bedoeld in [artikel 1, eerste lid, onder c of d, van de Wegenverkeerswet 1994](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+– hermetisch gesloten is en zes kilogram of meer gefluoreerde broeikasgassen of gereguleerde stoffen bevat,   en zich bevindt in of op een spoorvoertuig als bedoeld in artikel 1, onder e, van de Spoorwegwet of een voertuig als bedoeld in artikel 1, eerste lid, onder c of d, van de Wegenverkeerswet 1994;  
 
 *onderhouden:* alle werkzaamheden, met uitzondering van het terugwinnen en het uitvoeren van lekcontroles, waarbij de circuits die gefluoreerde broeikasgassen of gereguleerde stoffen bevatten of daartoe bestemd zijn, worden geopend, waaronder het vullen van het systeem met gefluoreerde broeikasgassen of gereguleerde stoffen, het wegnemen van een of meer circuit- of apparatuuronderdelen, het hermonteren van een of meer circuit- of apparatuuronderdelen en het herstellen van lekken;  
 
@@ -307,7 +307,7 @@ d. de datum van afgifte en de ondertekening door de minister.
 
 ### Artikel  16  
 
-Indien de houder van een diploma bij voortduring in strijd handelt met deze regeling, [artikel 3 van het Besluit gefluoreerde broeikasgassen milieubeheer](../../../../../../../../../AMvB/besluit/gefluoreerde/broeikasgassen/wms/2007/BWBR0022857/README.md), artikel 3 van het Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen of artikel 29a kan de minister tot intrekking van het diploma besluiten. In dat geval levert de betrokkene zijn diploma in bij de minister. 
+Indien de houder van een diploma bij voortduring in strijd handelt met deze regeling, artikel 3 van het Besluit gefluoreerde broeikasgassen milieubeheer, artikel 3 van het Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen of artikel 29a kan de minister tot intrekking van het diploma besluiten. In dat geval levert de betrokkene zijn diploma in bij de minister. 
 
 ### Paragraaf  2.6  
 
@@ -505,7 +505,7 @@ b.  *lekdetectiesysteem:* geijkt mechanisch, elektrisch of elektronisch apparaat
 
 ###Artikel 33 
 
-De [Aanwijzingsregeling Stichting Erkenningsregeling voor de uitoefening van het Koeltechnisch Installatiebedrijf](../../../../../../../../../ministeriele-regeling/aanwijzingsregeling/stichting/erkenningsregeling/voor/de/uitoefening/van/etc/BWBR0005786/README.md) wordt met ingang van 1 juli 2011 ingetrokken.
+De Aanwijzingsregeling Stichting Erkenningsregeling voor de uitoefening van het Koeltechnisch Installatiebedrijf wordt met ingang van 1 juli 2011 ingetrokken.
 
 ###Artikel  34 
 
@@ -591,8 +591,8 @@ b. een praktijkgedeelte waarbij een deelnemer de bijbehorende opdrachten verrich
 | 2.01  | Basiskennis van klimaatverandering en het Kyoto-protocol.<sup>1</sup>   | T  | T  | T  | T  |
 | 2.02  | Basiskennis van het concept aardopwarmingsvermogen (GWP), het gebruik van gefluoreerde broeikasgassen en andere stoffen als koudemiddelen, het effect van de emissies van gefluoreerde broeikasgassen op het klimaat (grootteorde van hun GWP), relevante bepalingen van de f-gassenverordening, verordening 1516/2007<sup>2</sup> en verordening 1494/2007<sup>3</sup> en het Besluit gefluoreerde broeikasgassen milieubeheer.  | T  | T  | T  | T  |
 | 2.03  | Basiskennis van ozonlaagaantasting en het Montreal-protocol.<sup>4</sup>  | T  | T  | T  | T  |
-| 2.04  | Basiskennis van het concept ozon afbrekend vermogen (ODP), het gebruik van gereguleerde stoffen en andere stoffen als koudemiddelen, het effect van de emissies van gereguleerde stoffen op de ozonlaag (grootteorde van hun ODP) en het klimaat (grootteorde van hun GWP) en relevante bepalingen van de EG-verordening ozonlaagafbrekende stoffen, het [Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen](../../../../../../../../../AMvB/uitvoeringsbesluit/eg-verordening/ozonlaagafbrekende/stoffen/BWBR0030095/README.md) en de Regeling gefluoreerde broeikasgassen en gereguleerde stoffen koelinstallaties.  | T  | T  | T  | T  |
-| 2.05  | Basiskennis van het [Warenwetbesluit drukapparatuur](../../../../../../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md).  | T  | T  | –  | –  |
+| 2.04  | Basiskennis van het concept ozon afbrekend vermogen (ODP), het gebruik van gereguleerde stoffen en andere stoffen als koudemiddelen, het effect van de emissies van gereguleerde stoffen op de ozonlaag (grootteorde van hun ODP) en het klimaat (grootteorde van hun GWP) en relevante bepalingen van de EG-verordening ozonlaagafbrekende stoffen, het Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen en de Regeling gefluoreerde broeikasgassen en gereguleerde stoffen koelinstallaties.  | T  | T  | T  | T  |
+| 2.05  | Basiskennis van het Warenwetbesluit drukapparatuur.  | T  | T  | –  | –  |
 |  *3*   |  *Controles vóór de inwerkingstelling na een lange periode van niet-gebruik, na onderhoud of reparatie, of tijdens de werking.*   |
 | 3.01  | Uitvoeren van een druktest om de sterkte van de stationaire/mobiele koelinstallatie te controleren.  | P  | P  | –  | –  |
 | 3.02  | Uitvoeren van een druktest om de ondoordringbaarheid van de stationaire/mobiele koelinstallatie te controleren.  |
@@ -678,7 +678,7 @@ b. een praktijkgedeelte waarbij een deelnemer de bijbehorende opdracht verricht 
 | 1. Kennis van de werking van mobiele airco’s, van de milieueffecten van als koudemiddel gebruikte gefluoreerde broeikasgassen of gereguleerde stoffenen de desbetreffende milieuregelgeving  |
 | 1.1  | Basiskennis hebben van de werking van mobiele airco’s.  | T  |
 | 1.2  | Basiskennis hebben van het gebruik en de eigenschappen van gefluoreerde broeikasgassen en gereguleerde stoffen gebruikt als koudemiddel in mobiele airco’s en over de effecten van de emissies van die gassen op het milieu (orde van grootte van hun aardopwarmingsvermogen in verband met klimaatverandering en orde van grootte van ozonafbrekend vermogen in verband met de aantasting van de ozonlaag).  | T  |
-| 1.3  | Basiskennis hebben van de betrokken bepalingen van de f-gassenverordening, richtlijn 2006/40/EG<sup>1</sup> en de ter uitvoering van die richtlijn relevante bepalingen in de Wegenverkeerswet en [Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), de EG-verordening ozonlaagafbrekende stoffen, het [Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen](../../../../../../../../../AMvB/uitvoeringsbesluit/eg-verordening/ozonlaagafbrekende/stoffen/BWBR0030095/README.md), het [Besluit gefluoreerde broeikasgassen milieubeheer](../../../../../../../../../AMvB/besluit/gefluoreerde/broeikasgassen/wms/2007/BWBR0022857/README.md) en de Regeling gefluoreerde broeikasgassen en gereguleerde stoffen koelinstallaties.  | T  |
+| 1.3  | Basiskennis hebben van de betrokken bepalingen van de f-gassenverordening, richtlijn 2006/40/EG<sup>1</sup> en de ter uitvoering van die richtlijn relevante bepalingen in de Wegenverkeerswet en Regeling voertuigen, de EG-verordening ozonlaagafbrekende stoffen, het Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen, het Besluit gefluoreerde broeikasgassen milieubeheer en de Regeling gefluoreerde broeikasgassen en gereguleerde stoffen koelinstallaties.  | T  |
 | --- | --- | --- |
 | 2. Kennis over de milieuvriendelijke terugwinning van gefluoreerde broeikasgassen en gereguleerde stoffen  |
 | 2.1  | Kennis hebben van de gebruikelijke procedures voor de terugwinning van gefluoreerde broeikasgassen en gereguleerde stoffen.  | T  |

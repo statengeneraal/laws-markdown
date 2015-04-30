@@ -3,7 +3,7 @@
 ##Tijdelijke Stimuleringsregeling CWI
 
 De Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J.F. Hoogervorst;  
-Gelet op [artikel 3, eerste lid, van de Kaderwet SZW-subsidies](../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md),
+Gelet op artikel 3, eerste lid, van de Kaderwet SZW-subsidies,
 Besluiten:     
 
 ### Artikel  1  
@@ -19,7 +19,7 @@ In deze regeling wordt verstaan onder: a.  CWI:   een Centrum voor werk en inkom
 1. De minister kan op aanvraag subsidie verstrekken ter stimulering van de totstandkoming en instandhouding in 2001 van een CWI op een plaats van vestiging, als bedoeld in artikel 3, tweede lid, van het Tijdelijk besluit samenwerking CWI.
 2. De subsidie wordt per afzonderlijk CWI aangevraagd door een daartoe door de samenwerkende partijen aangewezen rechtspersoon.
 3. De subsidie wordt verstrekt aan de subsidieaanvrager.
-4. De [Algemene Regeling SZW-subsidies](../../../../../ministeriele-regeling/algemene/regeling/szw-subsidies/BWBR0009211/README.md) is van toepassing. 
+4. De Algemene Regeling SZW-subsidies is van toepassing. 
 
 ### Artikel  3  
 
@@ -31,7 +31,7 @@ a.  een door de samenwerkende partijen ondertekend document, waaruit blijkt dat 
 
 b.  een activiteitenplan en een daarbij behorende postgewijze begroting van de CWI-kosten; 
 
-c.  het verslag, bedoeld in [artikel 5 van de Stimuleringsregeling SWI](../../../../../ministeriele-regeling/stimuleringsregeling/swi/BWBR0009210/README.md), betrekking hebbend op het SWI-centrum in de betrokken regio.    
+c.  het verslag, bedoeld in artikel 5 van de Stimuleringsregeling SWI, betrekking hebbend op het SWI-centrum in de betrokken regio.    
 2.  De aanvraag wordt ingediend uiterlijk op 30 juni 2001.   
 
 ### Artikel  4  
@@ -52,15 +52,15 @@ De subsidie bedraagt 100% van de werkelijk gemaakte kosten, voortvloeiend uit de
 
 ####Subsidie SWI-centrum
 
-1. De minister kan op aanvraag subsidie verstrekken ter vergoeding van de kosten, gemaakt in het kader van het tot stand brengen en in stand houden van een SWI-centrum als bedoeld in [artikel 1, onder c, van de Stimuleringsregeling SWI](../../../../../ministeriele-regeling/stimuleringsregeling/swi/BWBR0009210/README.md), in een gemeente die niet is een plaats van vestiging van een CWI, als bedoeld in artikel 3, tweede lid, van het Tijdelijk besluit samenwerking CWI.
-2. De subsidie wordt aangevraagd door en verstrekt aan de rechtspersoon, die met betrekking tot dat SWI-centrum subsidie krachtens de [Stimuleringsregeling SWI](../../../../../ministeriele-regeling/stimuleringsregeling/swi/BWBR0009210/README.md) heeft aangevraagd, tenzij de betrokken samenwerkende partijen daartoe een andere rechtspersoon hebben aangewezen.
+1. De minister kan op aanvraag subsidie verstrekken ter vergoeding van de kosten, gemaakt in het kader van het tot stand brengen en in stand houden van een SWI-centrum als bedoeld in artikel 1, onder c, van de Stimuleringsregeling SWI, in een gemeente die niet is een plaats van vestiging van een CWI, als bedoeld in artikel 3, tweede lid, van het Tijdelijk besluit samenwerking CWI.
+2. De subsidie wordt aangevraagd door en verstrekt aan de rechtspersoon, die met betrekking tot dat SWI-centrum subsidie krachtens de Stimuleringsregeling SWI heeft aangevraagd, tenzij de betrokken samenwerkende partijen daartoe een andere rechtspersoon hebben aangewezen.
 3. De aanvraag wordt ingediend uiterlijk op 30 juni 2001.
-4. Bij de subsidieaanvraag wordt overgelegd een door de samenwerkende partijen ondertekend document, waaruit een aanwijzing als bedoeld in het tweede lid blijkt, alsmede het verslag, bedoeld in [artikel 5 van de Stimuleringsregeling SWI](../../../../../ministeriele-regeling/stimuleringsregeling/swi/BWBR0009210/README.md).
-5. Voorafgaand aan de subsidievaststelling wordt geen beschikking tot subsidieverlening gegeven. De [Algemene Regeling SZW-subsidies](../../../../../ministeriele-regeling/algemene/regeling/szw-subsidies/BWBR0009211/README.md) is op subsidiëring krachtens dit artikel niet van toepassing.
+4. Bij de subsidieaanvraag wordt overgelegd een door de samenwerkende partijen ondertekend document, waaruit een aanwijzing als bedoeld in het tweede lid blijkt, alsmede het verslag, bedoeld in artikel 5 van de Stimuleringsregeling SWI.
+5. Voorafgaand aan de subsidievaststelling wordt geen beschikking tot subsidieverlening gegeven. De Algemene Regeling SZW-subsidies is op subsidiëring krachtens dit artikel niet van toepassing.
 6. Artikel 4, tweede lid, is van overeenkomstige toepassing.
 7. De subsidie bedraagt 100% van de kosten als bedoeld in het eerste lid, na aftrek van
 
-a. de subsidie, verstrekt ingevolge de [Stimuleringsregeling SWI](../../../../../ministeriele-regeling/stimuleringsregeling/swi/BWBR0009210/README.md),
+a. de subsidie, verstrekt ingevolge de Stimuleringsregeling SWI,
 
 b. gemaakte kosten, die in redelijkheid niet noodzakelijk waren voor de vorming van het SWI-centrum en
 

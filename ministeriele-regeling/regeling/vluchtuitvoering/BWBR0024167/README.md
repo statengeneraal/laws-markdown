@@ -7,11 +7,11 @@ Gelet op:
 
 Bijlage 6 bij het Verdrag inzake de internationale burgerluchtvaart;
 
-De [artikelen 2.10, eerste lid](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en [4.8 van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md);
+De artikelen 2.10, eerste lid, en 4.8 van de Wet luchtvaart;
 
-De [artikelen 5](../../../../AMvB/besluit/vluchtuitvoering/BWBR0020111/README.md), [6, tweede lid](../../../../AMvB/besluit/vluchtuitvoering/BWBR0020111/README.md), en [7, eerste lid, van het Besluit vluchtuitvoering](../../../../AMvB/besluit/vluchtuitvoering/BWBR0020111/README.md);
+De artikelen 5, 6, tweede lid, en 7, eerste lid, van het Besluit vluchtuitvoering;
 
-[Artikel 159, eerste lid, van de Regeling Toezicht Luchtvaart](../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md);
+Artikel 159, eerste lid, van de Regeling Toezicht Luchtvaart;
 Besluit:     
 ### §  1  
 
@@ -58,25 +58,25 @@ f. ongevallen, bijzondere voorvallen en overschrijding van de gestelde gebruiksg
 
 ### Artikel  5  
 
-De door de gezagvoerder mee te voeren documenten, bedoeld in [artikel 4.8 van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), zijn: 
+De door de gezagvoerder mee te voeren documenten, bedoeld in artikel 4.8 van de wet, zijn: 
 
-a. het bewijs van inschrijving, bedoeld in [artikel 3.5 van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
+a. het bewijs van inschrijving, bedoeld in artikel 3.5 van de wet;  
 
-b. het bewijs van luchtwaardigheid, bedoeld in [artikel 3.8 van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), behoudens in gevallen als bedoeld in [artikel 3.21 van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
+b. het bewijs van luchtwaardigheid, bedoeld in artikel 3.8 van de wet, behoudens in gevallen als bedoeld in artikel 3.21 van de wet;  
 
 c. het vlieghandboek;  
 
-d. het bewijs van bevoegdheid of bewijs van gelijkstelling, bedoeld in [artikel 2.1 van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
+d. het bewijs van bevoegdheid of bewijs van gelijkstelling, bedoeld in artikel 2.1 van de wet;  
 
 e. het journaal, bedoeld in artikel 4;  
 
-f. indien van toepassing: het geluidscertificaat of de geluidsverklaring, bedoeld in [artikel 3.19a van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
+f. indien van toepassing: het geluidscertificaat of de geluidsverklaring, bedoeld in artikel 3.19a van de wet;  
 
-g.indien het luchtvaartuig is uitgerust met vast ingebouwde radioapparatuur: de vergunning voor gebruik van frequentieruimte, bedoeld in [artikel 3.13 van de Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md); 
+g.indien het luchtvaartuig is uitgerust met vast ingebouwde radioapparatuur: de vergunning voor gebruik van frequentieruimte, bedoeld in artikel 3.13 van de Telecommunicatiewet; 
 
 h. bij een internationale vlucht: 
 
-1°. een exemplaar van het laatste voor het betrokken luchtvaartuig opgestelde certificaat, bedoeld in [artikel 9 van de Regeling onderhoud luchtvaartuigen](../../../../ministeriele-regeling/regeling/onderhoud/luchtvaartuigen/BWBR0012882/README.md);  
+1°. een exemplaar van het laatste voor het betrokken luchtvaartuig opgestelde certificaat, bedoeld in artikel 9 van de Regeling onderhoud luchtvaartuigen;  
 
 2°. indien het luchtvaartuig lading vervoert: een manifest en een gespecificeerde verklaring omtrent de lading als bedoeld in artikel 29 van het verdrag;  
 
@@ -142,13 +142,13 @@ Wijzigt de Regeling tarieven luchtvaart 2008.
 
 De volgende regelingen worden ingetrokken: 
 
-a. [Regeling boorddocumenten luchtvaart](../../../../ministeriele-regeling/regeling/boorddocumenten/luchtvaart/BWBR0018245/README.md);  
+a. Regeling boorddocumenten luchtvaart;  
 
-b. [Tarievenregeling](../../../../ministeriele-regeling/tarievenregeling/BWBR0005818/README.md).  
+b. Tarievenregeling.  
 
 ### Artikel  13  
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit vluchtuitvoering](../../../../AMvB/besluit/vluchtuitvoering/BWBR0020111/README.md) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop het Besluit vluchtuitvoering in werking treedt.  
 
 ### Artikel  14  
 

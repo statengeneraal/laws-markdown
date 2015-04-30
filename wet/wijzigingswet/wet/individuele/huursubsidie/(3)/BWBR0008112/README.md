@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om wijzigingen aan te brengen in het mechanisme voor de jaarlijkse aanpassingen van de individuele huursubsidie en om een wijziging aan te brengen in het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) in verband met een eerdere wijziging van de Wet individuele huursubsidie;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om wijzigingen aan te brengen in het mechanisme voor de jaarlijkse aanpassingen van de individuele huursubsidie en om een wijziging aan te brengen in het Wetboek van Burgerlijke Rechtsvordering in verband met een eerdere wijziging van de Wet individuele huursubsidie;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### ARTIKEL  I  

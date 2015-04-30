@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een overgangsregeling te treffen voor de heffing van motorrijtuigenbelasting inzake motorrijtuigen met een tenaamstelling van het kentekenbewijs van voor het kalenderjaar 1988 die als gevolg van wijziging van de belastingwet met ingang van 1 januari 1994 onder het begrip personenauto zijn gebracht, alsmede de [Wet op de accijns](../../../../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en de Wet op de belasting van personenauto's en motorrijwielen 1992 aan te passen in verband met het vervallen van het wisseldisconto van De Nederlandsche Bank N.V.;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is een overgangsregeling te treffen voor de heffing van motorrijtuigenbelasting inzake motorrijtuigen met een tenaamstelling van het kentekenbewijs van voor het kalenderjaar 1988 die als gevolg van wijziging van de belastingwet met ingang van 1 januari 1994 onder het begrip personenauto zijn gebracht, alsmede de Wet op de accijns en de Wet op de belasting van personenauto's en motorrijwielen 1992 aan te passen in verband met het vervallen van het wisseldisconto van De Nederlandsche Bank N.V.;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -23,7 +23,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  IV  
 
-Voor de toepassing van de [Wet op de motorrijtuigenbelasting 1994](../../../../../../../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) worden motorrijtuigen als bedoeld in artikel I, aangemerkt als een bestelauto als bedoeld in artikel 2, onderdeel *c*, van die wet. 
+Voor de toepassing van de Wet op de motorrijtuigenbelasting 1994 worden motorrijtuigen als bedoeld in artikel I, aangemerkt als een bestelauto als bedoeld in artikel 2, onderdeel *c*, van die wet. 
 
 ### Artikel  V  
 

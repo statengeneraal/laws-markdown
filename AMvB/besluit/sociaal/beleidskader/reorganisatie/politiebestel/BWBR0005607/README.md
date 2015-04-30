@@ -28,7 +28,7 @@ b. ambtenaar:
 
 2°. degene die als ambtenaar is genoemd in artikel 1 van het Ambtenarenreglement voor de gemeentepolitie 1958 (*Stb.* 1957, 547);  
 
-3°. degene die als ambtenaar is genoemd in [artikel 1 van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) (*Stb.* 1931, 248) en die werkzaam is binnen het Korps Rijkspolitie;  
+3°. degene die als ambtenaar is genoemd in artikel 1 van het Algemeen Rijksambtenarenreglement (*Stb.* 1931, 248) en die werkzaam is binnen het Korps Rijkspolitie;  
 
 4°. degene die door of vanwege een gemeente als ambtenaar is aangesteld om binnen een gemeentelijk politiekorps werkzaam te zijn en wiens loonkosten worden bestreden uit de op basis van het Besluit Vergoeding politiekosten 1986 (*Stb.* 610) verstrekte doeluitkering;  
 
@@ -44,9 +44,9 @@ b. ambtenaar:
 
 c. reorganisatie: de reorganisatie van het politiebestel, bedoeld in de Wet tijdelijke voorzieningen reorganisatie politiebestel (*Stb.* 1991, 674);  
 
-d.  [Rijkswachtgeldbesluit](../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md): het [Rijkswachtgeldbesluit](../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md) 1958 (*Stb.* 1986, 489);  
+d.  Rijkswachtgeldbesluit: het Rijkswachtgeldbesluit 1958 (*Stb.* 1986, 489);  
 
-e.  [Uitkeringsregeling](../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md): de [Uitkeringsregeling 1966](../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md) (*Stb.* 1986, 490);  
+e.  Uitkeringsregeling: de Uitkeringsregeling 1966 (*Stb.* 1986, 490);  
 
 f. personeelsplan: het plan als bedoeld in artikel 2, eerste lid;  
 
@@ -81,7 +81,7 @@ m. Commissie Korps landelijke politiediensten: de Commissie Korps landelijke die
 
 1.  De ambtenaar wordt als gevolg van de reorganisatie, behoudens de uitzondering bedoeld in het derde lid, geen ontslag verleend of de met hem bestaande arbeidsovereenkomst wordt niet beëindigd, anders dan met zijn instemming.   
 2.   Op de ambtenaar rust de plicht mee te werken aan het vinden van een passende functie.   
-3.   Ten aanzien van de ambtenaar die niet in een van hem redelijkerwijs te vergen mate heeft voldaan aan de in het tweede lid genoemde verplichting, kan, indien hem in verband daarmee ontslag wordt verleend of de met hem bestaande arbeidsovereenkomst wordt beëindigd, het recht op wachtgeld ingevolge of op de voet van het [Rijkswachtgeldbesluit](../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md) dan wel uitkering ingevolge of op de voet van de [Uitkeringsregeling](../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md) vervallen worden verklaard.   
+3.   Ten aanzien van de ambtenaar die niet in een van hem redelijkerwijs te vergen mate heeft voldaan aan de in het tweede lid genoemde verplichting, kan, indien hem in verband daarmee ontslag wordt verleend of de met hem bestaande arbeidsovereenkomst wordt beëindigd, het recht op wachtgeld ingevolge of op de voet van het Rijkswachtgeldbesluit dan wel uitkering ingevolge of op de voet van de Uitkeringsregeling vervallen worden verklaard.   
 4.   De bevoegdheid, bedoeld in het derde lid, komt toe aan het gezag dat bevoegd is tot ontslag.  
 
 ### Artikel  5  
@@ -101,19 +101,19 @@ De gelden voor om-, her- en bijscholing ten behoeve van individuele ambtenaren w
 
 1.  De ambtenaar die blijkens het personeelsplan in een tijdelijke functie is geplaatst binnen de politieregio of het Korps landelijke politiediensten en die slechts in een voor hem passend te achten vaste functie kan worden geplaatst na om-, her- en bijscholing, kan worden verplicht zich om-, her- en bij te scholen mits dit hem in verband met zijn persoonlijkheid en zijn omstandigheden redelijkerwijs kan worden opgedragen.   
 2.   De aan de om-, her- of bijscholing verbonden kosten komen ten laste van de politieregio of het Korps landelijke politiediensten waartoe de ambtenaar behoort.   
-3.   Ten aanzien van de in het eerste lid bedoelde ambtenaar die heeft geweigerd aan een hem met toepassing van het eerste lid opgelegde verplichting te voldoen in een van hem redelijkerwijs te vergen mate, kan, indien hem in verband daarmee ontslag wordt verleend of de met hem bestaande overeenkomst wordt beëindigd, het recht op wachtgeld ingevolge of op de voet van het [Rijkswachtgeldbesluit](../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md) dan wel uitkering ingevolge of op de voet van de [Uitkeringsregeling](../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md) vervallen worden verklaard.   
+3.   Ten aanzien van de in het eerste lid bedoelde ambtenaar die heeft geweigerd aan een hem met toepassing van het eerste lid opgelegde verplichting te voldoen in een van hem redelijkerwijs te vergen mate, kan, indien hem in verband daarmee ontslag wordt verleend of de met hem bestaande overeenkomst wordt beëindigd, het recht op wachtgeld ingevolge of op de voet van het Rijkswachtgeldbesluit dan wel uitkering ingevolge of op de voet van de Uitkeringsregeling vervallen worden verklaard.   
 4.   De bevoegdheid, bedoeld in het derde lid, komt toe aan het gezag dat bevoegd is tot ontslag.  
 
 ### Artikel  9  
 
 1.  Eervol ontslag kan worden verleend aan de ambtenaar die zulks wenst, indien in diens functie een ambtenaar wordt geplaatst die blijkens het personeelsplan in een tijdelijke functie is geplaatst.   
 2.   Onder ontslag als bedoeld in het eerste lid wordt mede verstaan de beëindiging van de arbeidsovereenkomst.   
-3.   De op de voet van het eerste lid ontslagen ambtenaar, heeft recht op wachtgeld op de voet van het [Rijkswachtgeldbesluit](../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md), dan wel op een uitkering op de voet van de [Uitkeringsregeling](../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md) indien overigens is voldaan aan de in genoemde regelingen gestelde voorwaarden.  
+3.   De op de voet van het eerste lid ontslagen ambtenaar, heeft recht op wachtgeld op de voet van het Rijkswachtgeldbesluit, dan wel op een uitkering op de voet van de Uitkeringsregeling indien overigens is voldaan aan de in genoemde regelingen gestelde voorwaarden.  
 
 ### Artikel  10  
 
-1.  De ambtenaar aan wie in verband met de reorganisatie ontslag is verleend met recht op wachtgeld, heeft recht op wachtgeld ingevolge dan wel op de voet van het [Rijkswachtgeldbesluit](../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md) zoals dat luidde op 1 januari 1991.   
-2.   De ambtenaar wiens arbeidsovereenkomst in verband met de reorganisatie is beëindigd met recht op een uitkering, heeft recht op een uitkering ingevolge dan wel op de voet van de [Uitkeringsregeling](../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md) zoals die luidde op 1 januari 1991.   
+1.  De ambtenaar aan wie in verband met de reorganisatie ontslag is verleend met recht op wachtgeld, heeft recht op wachtgeld ingevolge dan wel op de voet van het Rijkswachtgeldbesluit zoals dat luidde op 1 januari 1991.   
+2.   De ambtenaar wiens arbeidsovereenkomst in verband met de reorganisatie is beëindigd met recht op een uitkering, heeft recht op een uitkering ingevolge dan wel op de voet van de Uitkeringsregeling zoals die luidde op 1 januari 1991.   
 3.   Terstond na ontslagverlening als bedoeld in het eerste lid, dan wel na beëindiging als bedoeld in het tweede lid doet de burgemeester of Onze Minister van Justitie hiervan mededeling aan Onze Minister van Binnenlandse Zaken.  
 
 ### Artikel  11  
@@ -134,8 +134,8 @@ De gelden voor om-, her- en bijscholing ten behoeve van individuele ambtenaren w
 
 ### Artikel  14  
 
-1.  Ten aanzien van de ambtenaar, bedoeld in artikel 10, eerste lid, die op het tijdstip van ingang van zijn ontslag de leeftijd van 55 jaar heeft bereikt, wordt in [artikel 5, vierde lid](../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md), en [artikel 9, vijfde lid, van het Rijkswachtgeldbesluit](../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md) in plaats van "60 jaar" gelezen: 55 jaar.   
-2.   Ten aanzien van de ambtenaar, bedoeld in artikel 10, tweede lid, die op het tijdstip van ingang van beëindiging van zijn arbeidsovereenkomst de leeftijd van 55 jaar heeft bereikt, wordt in [artikel 6, eerste lid](../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md), en [artikel 17, vijfde lid, van de Uitkeringsregeling](../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md) in plaats van "60 jaar" gelezen: 55 jaar.  
+1.  Ten aanzien van de ambtenaar, bedoeld in artikel 10, eerste lid, die op het tijdstip van ingang van zijn ontslag de leeftijd van 55 jaar heeft bereikt, wordt in artikel 5, vierde lid, en artikel 9, vijfde lid, van het Rijkswachtgeldbesluit in plaats van "60 jaar" gelezen: 55 jaar.   
+2.   Ten aanzien van de ambtenaar, bedoeld in artikel 10, tweede lid, die op het tijdstip van ingang van beëindiging van zijn arbeidsovereenkomst de leeftijd van 55 jaar heeft bereikt, wordt in artikel 6, eerste lid, en artikel 17, vijfde lid, van de Uitkeringsregeling in plaats van "60 jaar" gelezen: 55 jaar.  
 
 ### Artikel  15  
 

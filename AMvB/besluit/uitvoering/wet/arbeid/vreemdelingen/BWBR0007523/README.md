@@ -97,11 +97,11 @@ Het verbod, bedoeld in artikel 2, eerste lid, van de Wet arbeid vreemdelingen, i
 
 1. Het verbod, bedoeld in artikel 2, eerste lid, van de Wet arbeid vreemdelingen, is niet van toepassing met betrekking tot een vreemdeling die rechtmatig in Nederland verblijft op grond van artikel 8, onderdelen a, b, c, d, e, k of l, van de Vreemdelingenwet 2000 of een vreemdeling die in het bezit is van een machtiging tot voorlopig verblijf die overeenkomt met het verblijfsdoel «kennismigrant» waarvoor een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 van de Vreemdelingenwet 2000 is aangevraagd en die:
 
-a.als kennismigrant als bedoeld in artikel 3.4, eerste lid, onder d, van het Vreemdelingenbesluit 2000 in Nederland wordt tewerkgesteld op basis van een arbeidsovereenkomst of een ambtelijke aanstelling en:
+a. als kennismigrant als bedoeld in artikel 3.4, eerste lid, onder d, van het Vreemdelingenbesluit 2000 in Nederland wordt tewerkgesteld op basis van een arbeidsovereenkomst of een ambtelijke aanstelling en: 
 
-1°.van wie het overeengekomen vaste, naar tijdruimte en in geld vastgestelde loon als vergoeding voor zijn arbeid dat hij van de werkgever ontvangt, indien hij de leeftijd van dertig jaar niet heeft bereikt, ten minste € 3071,- per maand bedraagt bedraagt, dan wel indien hij dertig jaar of ouder is, ten minste € 4189,- per maand bedraagt,
+1°. van wie het overeengekomen vaste, naar tijdruimte en in geld vastgestelde loon als vergoeding voor zijn arbeid dat hij van de werkgever ontvangt, indien hij de leeftijd van dertig jaar niet heeft bereikt, ten minste € 3.071,– per maand bedraagt, waartoe niet wordt gerekend de door de werkgever te betalen vakantiebijslag, dan wel indien hij dertig jaar of ouder is, ten minste € 4.189,– per maand bedraagt, waartoe niet wordt gerekend de door de werkgever te betalen vakantiebijslag, of  
 
-2°.die binnen een jaar voorafgaand aan de tewerkstelling een geaccrediteerde opleiding aan een hoger onderwijsinstelling in Nederland heeft afgerond en van wie het overeengekomen vaste, naar tijdruimte en in geld vastgestelde loon als vergoeding voor zijn arbeid dat hij van de werkgever ontvangt, ten minste € 2201,- per maand bedraagt,
+2°. die binnen een jaar voorafgaand aan de tewerkstelling een geaccrediteerde opleiding aan een hoger onderwijsinstelling in Nederland heeft afgerond en van wie het overeengekomen vaste, naar tijdruimte en in geld vastgestelde loon als vergoeding voor zijn arbeid dat hij van de werkgever ontvangt, ten minste € 2.201,– per maand bedraagt, waartoe niet wordt gerekend de door de werkgever te betalen vakantiebijslag,   
 
 b.in Nederland wordt tewerkgesteld in het kader van het doen van wetenschappelijk onderzoek bij een bekostigde of aangewezen onderwijsinstelling of een van overheidswege direct of indirect, geheel of gedeeltelijke bekostigde of gesubsidieerde onderzoeksinstelling,
 
@@ -115,7 +115,7 @@ a.werkzaam is als beroepssporter in het betaald voetbal;
 b.werkzaam is als geestelijke, of
 
 c.werkzaamheden als bedoeld in artikel 3 verricht. 
-3.  De in het eerste lid, onder a, genoemde bedragen worden bij ministeriële regeling jaarlijks met ingang van 1 januari gewijzigd met het percentage waarmee het indexcijfer van de CAO-lonen over de maand oktober daaraan voorafgaand, gepubliceerd door het Centraal Bureau voor de Statistiek, afwijkt van het indexcijfer waarop de laatste vaststelling van de bedragen is gebaseerd.  
+3.  De in het eerste lid, onder a, genoemde bedragen worden jaarlijks met ingang van 1 januari gewijzigd met het percentage waarmee het indexcijfer van de CAO-lonen over de maand oktober daaraan voorafgaand, gepubliceerd door het Centraal Bureau voor de Statistiek, afwijkt van het indexcijfer waarop de laatste vaststelling van de bedragen is gebaseerd. De gewijzigde bedragen worden door of namens Onze Minister bekendgemaakt in de Staatscourant.  
 4.  Het loon, bedoeld in het eerste lid, aanhef en onder a, is ten minste marktconform als bedoeld in artikel 3.30a van het Vreemdelingenbesluit 2000 en wordt door de werkgever over een periode van ten hoogste een maand, bijgeschreven op een bankrekening, bestemd voor girale betaling, op naam van de vreemdeling. 
 
 ###Artikel 1e 
@@ -162,8 +162,8 @@ Het verbod, bedoeld in artikel 2, eerste lid, van de Wet arbeid vreemdelingen is
 
 a. een opleiding aan een geaccrediteerde opleiding aan een instelling voor hoger onderwijs in Nederland of een vergelijkbare opleiding aan een buitenlandse hogeronderwijsinstelling met goed gevolg heeft afgerond, en  
 
-b. van de werkgever een vast bruto-loon voor de arbeid ontvangt van ten minste € 4908 per maand.     
-2.  Het in het eerste lid, onder b, genoemde bedrag wordt bij ministeriële regeling jaarlijks met ingang van 1 januari gewijzigd met het percentage waarmee het indexcijfer van de CAO-lonen over de maand oktober daaraan voorafgaand, gepubliceerd door het Centraal Bureau voor de Statistiek, afwijkt van het indexcijfer waarop de laatste vaststelling van de bedragen is gebaseerd.  
+b. van de werkgever een vast brutoloon voor de arbeid ontvangt van ten minste € 4.908,– per maand, waartoe niet wordt gerekend de door de werkgever te betalen vakantiebijslag.     
+2.  Het in het eerste lid, onder b, genoemde bedrag wordt jaarlijks met ingang van 1 januari gewijzigd met het percentage waarmee het indexcijfer van de CAO-lonen over de maand oktober daaraan voorafgaand, gepubliceerd door het Centraal Bureau voor de Statistiek, afwijkt van het indexcijfer waarop de laatste vaststelling van de bedragen is gebaseerd. De gewijzigde bedragen worden door of namens Onze Minister bekendgemaakt in de Staatscourant.  
 
 ### Artikel  1j  
 

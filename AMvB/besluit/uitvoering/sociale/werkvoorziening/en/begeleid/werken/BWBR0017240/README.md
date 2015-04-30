@@ -162,13 +162,9 @@ Door vernummering vervallen.
 
 ####Informatieverstrekking
 
-Treedt in werking per 01-05-2015 
-
 ### Artikel  19  
 
 ####Gegevens ten behoeve van de uitvoering van de Wet banenafspraak en quotum arbeidsbeperkten
-
-Treedt in werking per 01-05-2015 
 
 1.  Het college verstrekt gegevens uit de administratie aangelegd voor uitvoering van de Wet banenafspraak en quotum arbeidsbeperkten aan het Uitvoeringsinstituut werknemersverzekeringen, voor zover deze noodzakelijk zijn voor de uitvoering van de Wet banenafspraak en quotum arbeidsbeperkten.   
 2.  Bij ministeriële regeling worden de gegevens, bedoeld in het eerste lid, nader bepaald en kan een daartoe aangewezen bewerker worden gemachtigd deze gegevens aan het Uitvoeringsinstituut werknemersverzekeringen te verstrekken.  

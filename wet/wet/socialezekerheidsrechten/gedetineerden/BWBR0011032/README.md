@@ -14,67 +14,67 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-#### [Ziektewet](../../../../../wet/ziekenfondswet/BWBR0002460/README.md) 
+#### Ziektewet 
 
 Wijzigt de Ziektewet.  
 
 ### Artikel  II  
 
-#### [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) 
+#### Wet op de arbeidsongeschiktheidsverzekering 
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.  
 
 ### Artikel  III  
 
-#### [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) 
+#### Wet arbeidsongeschiktheidsverzekering zelfstandigen 
 
 Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.  
 
 ### Artikel  IV  
 
-#### [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) 
+#### Wet arbeidsongeschiktheidsvoorziening jonggehandicapten 
 
 Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.  
 
 ### Artikel  V  
 
-#### [Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md) 
+#### Werkloosheidswet 
 
 Wijzigt de Werkloosheidswet.  
 
 ### Artikel  VI  
 
-#### [Toeslagenwet](../../../../../wet/toeslagenwet/BWBR0004043/README.md) 
+#### Toeslagenwet 
 
 Wijzigt de Toeslagenwet.  
 
 ### Artikel  VII  
 
-#### [Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) 
+#### Algemene nabestaandenwet 
 
 Wijzigt de Algemene nabestaandenwet.  
 
 ### Artikel  VIII  
 
-#### [Algemene bijstandswet](../../../../../wet/algemene/bijstandswet/BWBR0007333/README.md) 
+#### Algemene bijstandswet 
 
 Wijzigt de Algemene bijstandswet.  
 
 ### Artikel  IX  
 
-#### [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) 
+#### Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers 
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.  
 
 ### Artikel  X  
 
-#### [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) 
+#### Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen 
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.  
 
 ### Artikel  XI  
 
-#### [Wet inkomensvoorziening kunstenaars](../../../../../wet/wet/inkomensvoorziening/kunstenaars/BWBR0009344/README.md) 
+#### Wet inkomensvoorziening kunstenaars 
 
 Wijzigt de Wet inkomensvoorziening kunstenaars.  
 
@@ -96,15 +96,15 @@ Wijzigt deze wet.
 
 ### Artikel  XIV  
 
-####Overgangsbepaling inzake [artikel 42, tweede lid, van de Ziektewet](../../../../../wet/ziekenfondswet/BWBR0002460/README.md) 
+####Overgangsbepaling inzake artikel 42, tweede lid, van de Ziektewet 
 
-Ten aanzien van een persoon wiens vrijheid op de dag voorafgaande aan de inwerkingtreding van artikel I van deze wet reeds rechtens was ontnomen, wordt voor de toepassing van het in artikel I, onderdeel B, opgenomen artikel 19b, eerste en vierde lid, van de Ziektewet, als eerste dag waarop de vrijheidsontneming plaatsvindt aangemerkt de dag van inwerkingtreding van artikel I van deze wet en blijft het Landelijk instituut sociale verzekeringen tot de dag dat deze vrijheidsontneming één maand heeft geduurd, bevoegd het ziekengeld, geheel of gedeeltelijk uit te keren aan de personen, wier kostwinner hij is, overeenkomstig [artikel 42, tweede lid, van de Ziektewet](../../../../../wet/ziekenfondswet/BWBR0002460/README.md), zoals dit artikellid luidde op de dag voorafgaand aan de inwerkingtreding van artikel I van deze wet. 
+Ten aanzien van een persoon wiens vrijheid op de dag voorafgaande aan de inwerkingtreding van artikel I van deze wet reeds rechtens was ontnomen, wordt voor de toepassing van het in artikel I, onderdeel B, opgenomen artikel 19b, eerste en vierde lid, van de Ziektewet, als eerste dag waarop de vrijheidsontneming plaatsvindt aangemerkt de dag van inwerkingtreding van artikel I van deze wet en blijft het Landelijk instituut sociale verzekeringen tot de dag dat deze vrijheidsontneming één maand heeft geduurd, bevoegd het ziekengeld, geheel of gedeeltelijk uit te keren aan de personen, wier kostwinner hij is, overeenkomstig artikel 42, tweede lid, van de Ziektewet, zoals dit artikellid luidde op de dag voorafgaand aan de inwerkingtreding van artikel I van deze wet. 
 
 ### Artikel  XV  
 
 ####Overgangsbepaling overige wetten
 
-Ten aanzien van een persoon wiens vrijheid op de dag voorafgaande aan de inwerkingtreding van de artikelen in deze wet reeds rechtens was ontnomen, wordt voor de toepassing van het in artikel II, onderdeel D, opgenomen [artikel 43, vijfde lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de in artikel III, onderdelen D en F, opgenomen [artikelen 19, vierde lid](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), en [22, zesde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), het in artikel IV, onderdeel C, opgenomen [artikel 17, vijfde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), het in artikel VI opgenomen [artikel 2, vijfde lid, van de Toeslagenwet](../../../../../wet/toeslagenwet/BWBR0004043/README.md) respectievelijk het in artikel VII, onderdeel B, opgenomen [artikel 32d, eerste lid, van de Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), als eerste dag waarop de vrijheidsontneming plaatsvindt, aangemerkt de dag van inwerkingtreding van artikel II, onderdeel D, III, onderdelen D en F, IV, onderdeel C, VI respectievelijk VII, onderdeel B, van deze wet. 
+Ten aanzien van een persoon wiens vrijheid op de dag voorafgaande aan de inwerkingtreding van de artikelen in deze wet reeds rechtens was ontnomen, wordt voor de toepassing van het in artikel II, onderdeel D, opgenomen artikel 43, vijfde lid, van de Wet op de arbeidsongeschiktheidsverzekering, de in artikel III, onderdelen D en F, opgenomen artikelen 19, vierde lid, en 22, zesde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, het in artikel IV, onderdeel C, opgenomen artikel 17, vijfde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, het in artikel VI opgenomen artikel 2, vijfde lid, van de Toeslagenwet respectievelijk het in artikel VII, onderdeel B, opgenomen artikel 32d, eerste lid, van de Algemene nabestaandenwet, als eerste dag waarop de vrijheidsontneming plaatsvindt, aangemerkt de dag van inwerkingtreding van artikel II, onderdeel D, III, onderdelen D en F, IV, onderdeel C, VI respectievelijk VII, onderdeel B, van deze wet. 
 
 ### Artikel  XVI  
 
@@ -112,17 +112,17 @@ Ten aanzien van een persoon wiens vrijheid op de dag voorafgaande aan de inwerki
 
 Onze Minister van Justitie verstrekt onverwijld na het tijdstip van inwerkingtreding van respectievelijk de  artikelen I, II, III, IV, VI of VII ten aanzien van de persoon wiens vrijheid op de dag voorafgaande aan de inwerkingtreding van het desbetreffende artikel reeds rechtens was ontnomen en op de dag van die inwerkingtreding nog steeds is ontnomen, kosteloos de beschikbare informatie en alle overige opgaven en inlichtingen die van invloed kunnen zijn op respectievelijk: 
 
-a. het recht op ziekengeld op grond van de [Ziektewet](../../../../../wet/ziekenfondswet/BWBR0002460/README.md);  
+a. het recht op ziekengeld op grond van de Ziektewet;  
 
-b. het recht op toekenning van arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+b. het recht op toekenning van arbeidsongeschiktheidsuitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering;  
 
-c. het recht op arbeidsongeschiktheidsuitkering dan wel het recht op een uitkering in verband met bevalling op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  
+c. het recht op arbeidsongeschiktheidsuitkering dan wel het recht op een uitkering in verband met bevalling op grond van de Wet arbeidsongeschiktheidsverzekering zelfstandigen;  
 
-d. het recht op arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
+d. het recht op arbeidsongeschiktheidsuitkering op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;  
 
-e. het recht op toeslag op grond van de [Toeslagenwet](../../../../../wet/toeslagenwet/BWBR0004043/README.md); of  
+e. het recht op toeslag op grond van de Toeslagenwet; of  
 
-f. het recht op nabestaandenuitkering, het recht op halfwezenuitkering dan wel het recht op wezenuitkering op grond van de [Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), aan de Sociale Verzekeringsbank en het Landelijk instituut sociale verzekeringen, waarbij hij gebruik kan maken van het burgerservicenummer.   
+f. het recht op nabestaandenuitkering, het recht op halfwezenuitkering dan wel het recht op wezenuitkering op grond van de Algemene nabestaandenwet, aan de Sociale Verzekeringsbank en het Landelijk instituut sociale verzekeringen, waarbij hij gebruik kan maken van het burgerservicenummer.   
 
 ### Artikel  XVII  
 

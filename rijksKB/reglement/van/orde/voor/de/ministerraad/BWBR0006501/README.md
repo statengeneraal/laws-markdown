@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van onze Minister-President, Minister van Algemene Zaken, d.d. 25 februari 1994, nr. 94M001478, handelende in overeenstemming met het gevoelen van de ministerraad van het Koninkrijk;
 
-Gelet op [artikel 10 van het Statuut voor het Koninkrijk](../../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md) en [artikel 45 van de Grondwet](../../../../../../../../wet/grondwet/BWBR0001840/README.md);
+Gelet op artikel 10 van het Statuut voor het Koninkrijk en artikel 45 van de Grondwet;
 Hebben goedgevonden en verstaan:     
 ### §  1  
 
@@ -38,7 +38,7 @@ c. de gevolmachtigde minister: de door de regering van Aruba, Curaçao ondersche
 
 1.  Aan de vergaderingen van de raad, de onderraden en de andere commissies uit de raad kunnen deelnemen met raadgevende stem:  
 
-a. de door de regering van Aruba, Curaçao onderscheidenlijk Sint Maarten overeenkomstig [artikel 10, tweede lid van het Statuut](../../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md) aangewezen minister;  
+a. de door de regering van Aruba, Curaçao onderscheidenlijk Sint Maarten overeenkomstig artikel 10, tweede lid van het Statuut aangewezen minister;  
 
 b. De staatssecretarissen, voorzover het zaken betreft waarbij zij uit hoofde van hun taak rechtstreeks zijn betrokken, bij afwezigheid van de minister, of voorzover de raad uit andere hoofde hun aanwezigheid wenselijk acht.      
 2.   De directeur-generaal van de Rijksvoorlichtingsdienst of diens plaatsvervanger kan de vergaderingen als toehoorder bijwonen, tenzij de minister-president anders bepaalt.  
@@ -58,15 +58,15 @@ a.4°. de bekrachtiging van door de Staten-Generaal aangenomen initiatiefvoorste
 
 b. verdragen alvorens deze ter stilzwijgende goedkeuring aan de beide Kamers der Staten-Generaal worden toegezonden;  
 
-c. nota’s aan de Staten-Generaal alsmede die adviesaanvragen aan adviescolleges in de zin van de [Kaderwet adviescolleges](../../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) en de colleges in de zin van [artikel 2, onder b, van de Kaderwet adviescolleges](../../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) die kunnen leiden tot belangrijke politieke en financiële consequenties;  
+c. nota’s aan de Staten-Generaal alsmede die adviesaanvragen aan adviescolleges in de zin van de Kaderwet adviescolleges en de colleges in de zin van artikel 2, onder b, van de Kaderwet adviescolleges die kunnen leiden tot belangrijke politieke en financiële consequenties;  
 
 d. het bekendheid geven aan beleidsvoornemens in welke vorm dan ook, die van invloed kunnen zijn op de positie van het kabinet, of die belangrijke financiële consequenties kunnen hebben, benevens over beleidsvoornemens van een minister die het beleid van andere ministers kunnen raken en waarover het bereiken van overeenstemming niet mogelijk is gebleken;  
 
-e. de instelling, taak en samenstelling van adviescolleges in de zin van de [Kaderwet adviescolleges](../../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) en de colleges in de zin van [artikel 2, onder b, van de Kaderwet adviescolleges](../../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md);  
+e. de instelling, taak en samenstelling van adviescolleges in de zin van de Kaderwet adviescolleges en de colleges in de zin van artikel 2, onder b, van de Kaderwet adviescolleges;  
 
 f. de instelling, taak en samenstelling van interdepartementale commissies, indien deze een permanent karakter hebben of indien de werkzaamheden kunnen leiden tot belangrijke politieke en financiële consequenties;  
 
-g. publikatie van de rapporten van colleges in de zin van [artikel 2, onder b, van de Kaderwet adviescolleges](../../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) en van interdepartementale commissies indien de werkzaamheden kunnen leiden tot belangrijke politieke en financiële consequenties;  
+g. publikatie van de rapporten van colleges in de zin van artikel 2, onder b, van de Kaderwet adviescolleges en van interdepartementale commissies indien de werkzaamheden kunnen leiden tot belangrijke politieke en financiële consequenties;  
 
 h. belangrijke onderwerpen het buitenlands beleid betreffende, daaronder begrepen het in internationaal verband doen van of instemmen met voorstellen die van aanmerkelijke invloed kunnen zijn op de geldende rechtsorde, verplichtingen van blijvende aard ten gevolge kunnen hebben, dan wel Aruba, Curaçao of Sint Maarten raken;  
 

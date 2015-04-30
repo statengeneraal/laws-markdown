@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 13 maart 2002, FO2002/U60515, gedaan mede namens de Staatssecretaris van Financiën;
 
-Gelet op [artikel 13 van de Financiële verhoudingswet](../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md);
+Gelet op artikel 13 van de Financiële verhoudingswet;
 
 De Raad van State gehoord (advies van 18 april 2002, nr. W04.02.0123/I);
 
@@ -23,11 +23,11 @@ De uitkering is gebaseerd op de uitkering, die in het uitkeringsjaar 2001 aan de
 
 ### Artikel  3  
 
-In aanvulling op de uitkering genoemd in artikel 2 wordt de algemene uitkering van de gemeenten Amsterdam en Den Haag in ieder van de uitkeringsjaren 2005 tot en met 2007 verhoogd door een toevoeging aan het vaste bedrag van deze gemeenten, die overeenkomt met € 10 473 005,27 respectievelijk € 431 301,10 gedeeld door de uitkeringsfactor, bedoeld in het [Besluit Financiële Verhouding 2001, artikel 1 onder c](../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md), die voor dat uitkeringsjaar geldt. 
+In aanvulling op de uitkering genoemd in artikel 2 wordt de algemene uitkering van de gemeenten Amsterdam en Den Haag in ieder van de uitkeringsjaren 2005 tot en met 2007 verhoogd door een toevoeging aan het vaste bedrag van deze gemeenten, die overeenkomt met € 10 473 005,27 respectievelijk € 431 301,10 gedeeld door de uitkeringsfactor, bedoeld in het Besluit Financiële Verhouding 2001, artikel 1 onder c, die voor dat uitkeringsjaar geldt. 
 
 ### Artikel  4  
 
-De uitkering genoemd in artikel 2 wordt herberekend naar rato van de mutatie in het aantal inwoners, indien in de periode 2002 tot en met 2007 bij in de bijlage van dit besluit genoemde gemeenten een wijziging plaatsvindt van de gemeentelijke indeling, als bedoeld in [artikel 1 onderdeel b van de Wet algemene regels herindeling](../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md). 
+De uitkering genoemd in artikel 2 wordt herberekend naar rato van de mutatie in het aantal inwoners, indien in de periode 2002 tot en met 2007 bij in de bijlage van dit besluit genoemde gemeenten een wijziging plaatsvindt van de gemeentelijke indeling, als bedoeld in artikel 1 onderdeel b van de Wet algemene regels herindeling. 
 
 ### Artikel  5  
 

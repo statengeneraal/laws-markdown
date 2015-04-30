@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Defensie van 19 oktober 1990, Afdeling arbeidsvoorwaarden militair personeel, nr. D 90/091/24855;
 
-Gelet op [artikel 12 van de Militaire ambtenarenwet 1931](../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) (*Stb.* 519) en artikel 2 van de Wet rechtstoestand dienstplichtigen (*Stb.* 1971, 231);
+Gelet op artikel 12 van de Militaire ambtenarenwet 1931 (*Stb.* 519) en artikel 2 van de Wet rechtstoestand dienstplichtigen (*Stb.* 1971, 231);
 
 De Raad van State gehoord (advies van 27 december 1990, nr. W07.90.0513);
 

@@ -31,7 +31,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  VI  
 
-Deze wet treedt in werking met ingang van de dag waarop het bij koninklijke boodschap van 24 mei 1995 ingediende voorstel van wet tot wijziging van de [Wet op de omzetbelasting 1968](../../../../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), de [Wet op belastingen van rechtsverkeer](../../../../../../../../../../../../../wet/wet/op/belastingen/van/rechtsverkeer/BWBR0002740/README.md) en enkele andere belastingwetten in verband met de bestrijding van constructies met betrekking tot onroerende zaken (Kamerstukken II, 1994/95, 24 172, nr. 2) tot wet wordt verheven en in werking treedt, dan wel zo dit tijdstip voor 1 januari 1996 zou liggen met ingang van 1 januari 1996. 
+Deze wet treedt in werking met ingang van de dag waarop het bij koninklijke boodschap van 24 mei 1995 ingediende voorstel van wet tot wijziging van de Wet op de omzetbelasting 1968, de Wet op belastingen van rechtsverkeer en enkele andere belastingwetten in verband met de bestrijding van constructies met betrekking tot onroerende zaken (Kamerstukken II, 1994/95, 24 172, nr. 2) tot wet wordt verheven en in werking treedt, dan wel zo dit tijdstip voor 1 januari 1996 zou liggen met ingang van 1 januari 1996. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

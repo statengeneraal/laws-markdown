@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 10 december 1999, gedaan mede namens Onze Minister van Verkeer en Waterstaat;
 
-Gelet op [artikel 613 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md);
+Gelet op artikel 613 van Boek 8 van het Burgerlijk Wetboek;
 
 De Raad van State gehoord (advies van 21 januari 2000, nr. W03.99.0619/I.);
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### ARTIKEL  I  
 
-Onder de «York-Antwerp Rules», bedoeld in [artikel 613 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), worden verstaan de York-Antwerp Rules, 1994, zoals vastgesteld door het Comité Maritime International en zulks in de Engelstalige tekst daarvan, welke is opgenomen als bijlage bij dit besluit. 
+Onder de «York-Antwerp Rules», bedoeld in artikel 613 van Boek 8 van het Burgerlijk Wetboek, worden verstaan de York-Antwerp Rules, 1994, zoals vastgesteld door het Comité Maritime International en zulks in de Engelstalige tekst daarvan, welke is opgenomen als bijlage bij dit besluit. 
 
 ### ARTIKEL  II  
 

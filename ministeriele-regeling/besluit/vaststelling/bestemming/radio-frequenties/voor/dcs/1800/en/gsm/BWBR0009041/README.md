@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder: a.GSM: het systeem, bedoeld in [artikel 1, onder e, van het Besluit vergunningen mobiele telecommunicatie](../../../../../../../../../../../AMvB/besluit/vergunningen/mobiele/telecommunicatie/BWBR0006857/README.md);b.DCS 1800: het systeem, bedoeld in [artikel 1, onder g, van het Besluit vergunningen mobiele telecommunicatie](../../../../../../../../../../../AMvB/besluit/vergunningen/mobiele/telecommunicatie/BWBR0006857/README.md). 
+In dit besluit wordt verstaan onder: a.GSM: het systeem, bedoeld in artikel 1, onder e, van het Besluit vergunningen mobiele telecommunicatie;b.DCS 1800: het systeem, bedoeld in artikel 1, onder g, van het Besluit vergunningen mobiele telecommunicatie. 
 
 ### Artikel  2  
 

@@ -3,7 +3,7 @@
 ##Controlevoorschriften toeslagenwet
 
 Het Landelijk instituut sociale verzekeringen;  
-Gelet op [artikel 30 van de Toeslagenwet](../../../../wet/toeslagenwet/BWBR0004043/README.md),
+Gelet op artikel 30 van de Toeslagenwet,
 Besluit de navolgende controlevoorschriften vast te stellen:     
 ### I  
 
@@ -13,7 +13,7 @@ Besluit de navolgende controlevoorschriften vast te stellen:
 
 1.  Degene die aanspraak maakt op een toeslag dient een schriftelijke aanvraag om een toeslag in op het door het Landelijk instituut sociale verzekeringen daartoe aangewezen adres, door middel van een door het Landelijk instituut sociale verzekeringen ter beschikking gesteld formulier, waarop de voor het beoordelen van de aanvraag gewenste gegevens zijn vermeld en dat door degene die aanspraak maakt op een toeslag volledig is ingevuld en ondertekend.   
 2.  Indien degene die aanspraak maakt op een toeslag gehuwd is, wordt de aanvraag ook door de echtgenoot ondertekend.   
-3.  De aanvraag wordt gedaan binnen zes weken na het ontstaan van het recht op toeslag. Indien het recht op loondervingsuitkering als bedoeld in de [Toeslagenwet](../../../../wet/toeslagenwet/BWBR0004043/README.md) nog niet is vastgesteld, dient de aanvraag om toeslag gedaan te worden uiterlijk zes weken na afgifte van de definitieve toekenningsbeslissing van de loondervingsuitkering.  
+3.  De aanvraag wordt gedaan binnen zes weken na het ontstaan van het recht op toeslag. Indien het recht op loondervingsuitkering als bedoeld in de Toeslagenwet nog niet is vastgesteld, dient de aanvraag om toeslag gedaan te worden uiterlijk zes weken na afgifte van de definitieve toekenningsbeslissing van de loondervingsuitkering.  
 
 ### Artikel  2  
 
@@ -35,7 +35,7 @@ d. nemen, indien zij niet bereikbaar zijn op hun woon- of verblijfplaats, de med
 e. geven van een wijziging in hun woon- of verblijfplaats onverwijld kennis aan het Landelijk instituut sociale verzekeringen;  
 
 f. verlenen inzage en verstrekken tegen kostprijs kopieën, op verzoek van het landelijk instituut sociale verzekeringen, van boeken, bescheiden stukken en andere gegevens dragers, voor zover deze betekenis kunnen hebben voor het recht op toeslag, de hoogte van de toeslag, het geldend maken van het recht op toeslag of op het bedrag van de toeslag dat wordt betaald.     
-2.  Ten behoeve van de uitvoering van de [wet](../../../../wet/toeslagenwet/BWBR0004043/README.md) blijven de verplichtingen als bedoeld in het eerste lid, onderdelen a en f, ook na het verstrekken van een toeslag van toepassing.   
+2.  Ten behoeve van de uitvoering van de wet blijven de verplichtingen als bedoeld in het eerste lid, onderdelen a en f, ook na het verstrekken van een toeslag van toepassing.   
 3.  Met een inspecteur als genoemd in het eerste lid, wordt bedoeld een door of namens het Landelijk instituut sociale verzekeringen aangewezen en schriftelijk gemachtigd persoon  
 
 ### Artikel  4  
@@ -49,7 +49,7 @@ f. verlenen inzage en verstrekken tegen kostprijs kopieën, op verzoek van het l
 
 ### Artikel   5  
 
-Indien de toeslag ingevolge [artikel 22 Toeslagenwet](../../../../wet/toeslagenwet/BWBR0004043/README.md) niet wordt uitbetaald aan degene die aanspraak maakt op een toeslag doch aan de raad, de instelling of de gemeente als bedoeld in [artikel 22 Toeslagenwet](../../../../wet/toeslagenwet/BWBR0004043/README.md), zijn de verplichtingen die voortvloeien uit de bepalingen van deze controlevoorschriften van overeenkomstige toepassing op die raad, die instelling of die gemeente. 
+Indien de toeslag ingevolge artikel 22 Toeslagenwet niet wordt uitbetaald aan degene die aanspraak maakt op een toeslag doch aan de raad, de instelling of de gemeente als bedoeld in artikel 22 Toeslagenwet, zijn de verplichtingen die voortvloeien uit de bepalingen van deze controlevoorschriften van overeenkomstige toepassing op die raad, die instelling of die gemeente. 
 
 ### III  
 

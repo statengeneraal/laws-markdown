@@ -279,11 +279,29 @@ a. de omstandigheden als bedoeld in artikel 34 zich niet of niet langer voordoen
 
 b. deze omstandigheden de plaatsing of de maatregel niet kunnen rechtvaardigen.   
 
-### §  9  
+### Hoofdstuk  IIA  
 
-####Beroep 
+####Bewegwijzering
 
-Vervallen per 01-01-1994 
+### Artikel  42  
+
+1.  Als verkeerstekens als bedoeld in artikel 16, derde lid, van de wet worden aangewezen de verkeerstekens die zijn opgenomen in bijlage I, hoofdstuk K, van het Reglement verkeersregels en verkeerstekens 1990, met uitzondering van bord K14.   
+2.  In afwijking van het eerste lid worden onder de categorie bewegwijzering niet begrepen verkeerstekens die geplaatst of verwijderd worden in verband met omstandigheden die niet van langere duur zijn dan vier maanden.  
+
+### Artikel  43  
+
+1.  Een ontheffingverlening met toepassing van artikel 149c van de wet voor plaatsing of verwijdering van de verkeerstekens als bedoeld in artikel 42 kan zowel ambtshalve plaatsvinden als op verzoek van degene die bevoegd is tot het plaatsen van deze verkeerstekens.   
+2.  Onze Minister kan de in het eerste lid bedoelde ontheffing slechts verlenen indien: 
+
+a. voldoende bijzondere belangen aanwezig zijn voor de verkrijger van de ontheffing om geen uitvoering te geven aan artikel 16, vierde lid, van de wet;  
+
+b. de verkrijger van een ontheffing naar het oordeel van Onze Minister in staat is de bewegwijzering vast te stellen op een kwaliteitsniveau dat niet onderdoet voor het kwaliteitsniveau van de bewegwijzering dat zou worden bereikt bij het weigeren van de ontheffing;  
+
+c. verzekerd is dat ontheffingverlening niet tot gevolg heeft dat er onvoldoende gelijkvormigheid is met en aansluiting is op de bewegwijzering buiten het geografische gebied waarvoor de ontheffing zal gelden, en  
+
+d. de doelmatigheid van het tot stand brengen en vaststellen van ontwerpen voor bewegwijzering niet vermindert door het verlenen van de ontheffing.     
+3.  Een verzoek tot ontheffingverlening bevat de feitelijke gronden voor de overwegingen die ingevolge het tweede lid ten grondslag moeten liggen aan een besluit tot verlening van de ontheffing.   
+4.  Onze Minister stelt een elektronisch formulier vast waarmee het verzoek om ontheffing wordt ingediend, op de wijze als aangegeven op dat formulier.  
 
 ### Hoofdstuk  III  
 
@@ -300,7 +318,7 @@ Bij de vaststelling van de grenzen van de bebouwde kom of kommen als bedoeld in 
 ### Artikel  49  
 
 1.  Aan een gehandicapte kan, overeenkomstig de bij ministeriële regeling gestelde criteria, door het college van burgemeester en wethouders van de gemeente waar hij als ingezetene met een adres is ingeschreven in de basisregistratie personen, een gehandicaptenparkeerkaart worden verstrekt.   
-2.  Aan het bestuur van een instelling die is toegelaten op grond van artikel 5, eerste lid, van de Wet toelating zorginstellingen en die zorg verleent als bedoeld in artikel 6 van de Algemene Wet Bijzondere Ziektekosten kan, overeenkomstig de bij ministeriële regeling gestelde criteria, door het college van burgemeester en wethouders van de gemeente waar de instelling is gevestigd, een gehandicaptenparkeerkaart worden verstrekt ten behoeve van het vervoer van gehandicapten die in de betrokken instelling verblijven.   
+2.  Aan het bestuur van een instelling die is toegelaten op grond van artikel 5, eerste lid, van de Wet toelating zorginstellingen en die zorg verleent als bedoeld in artikel 3.1.1 van de Wet langdurige zorg kan, overeenkomstig de bij ministeriële regeling gestelde criteria, door het college van burgemeester en wethouders van de gemeente waar de instelling is gevestigd, een gehandicaptenparkeerkaart worden verstrekt ten behoeve van het vervoer van gehandicapten die in de betrokken instelling verblijven.   
 3.  Aan een gehandicapte die niet als ingezetene is ingeschreven in de basisregistratie personen kan, overeenkomstig de bij ministeriële regeling gestelde criteria, door Onze Minister een gehandicaptenparkeerkaart worden verstrekt.  
 
 ### Artikel  50  

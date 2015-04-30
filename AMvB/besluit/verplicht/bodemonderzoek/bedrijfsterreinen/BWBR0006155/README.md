@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 1 juni 1992, nr. MJZ 01692030, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
 
-Gelet op de [artikelen 70](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) en [72 van de Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);
+Gelet op de artikelen 70 en 72 van de Wet bodembescherming;
 
 Gezien de adviezen van de Centrale raad voor de milieuhygiëne (adviezen van 27 mei 1991, B-91/566 en van 27 juni 1991, B-91/721) en van de Technische commissie bodembescherming (advies van 3 mei 1991, TCB 91/108/S);
 
@@ -19,7 +19,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a.inrichting: inrichting die behoort tot een categorie, aangewezen krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+a.inrichting: inrichting die behoort tot een categorie, aangewezen krachtens artikel 1.1, derde lid, van de Wet milieubeheer;
 
 b.BSB-aktie: aktie, gericht op systematische ondersteuning van de vrijwillige sanering van de bodem van in gebruik zijnde bedrijfsterreinen, als bedoeld in artikel 4a;
 
@@ -40,15 +40,15 @@ e.werkprogramma tankstations: Werkprogramma milieumaatregelen bij tankstations (
 
 a.die blijkens het register van de Kamer van Koophandel op dat tijdstip wat betreft de hoofd- of nevenactiviteit behoorde tot een in bijlage 1 bij dit besluit bedoelde bedrijfsgroep, en
 
-b.waarvoor sinds dat tijdstip niet een krachtens [artikel 8.40](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of [8.44 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) vastgestelde algemene maatregel van bestuur van toepassing was, verricht op aanwijzing van het bevoegd gezag in de inrichting een vooronderzoek en een verkennend onderzoek en legt de onderzoeksresultaten binnen zes maanden na ontvangst van de aanwijzing aan het bevoegde gezag over. 
-2. Voor zover nodig in afwijking van het eerste lid, onder b, geldt de in het eerste lid bedoelde verplichting in ieder geval ten aanzien van een inrichting waarop het Besluit herstelinrichtingen voor motorvoertuigen milieubeheer, het [Besluit inrichtingen voor motorvoertuigen milieubeheer](../../../../../../AMvB/besluit/inrichtingen/voor/motorvoertuigen/milieubeheer/BWBR0011409/README.md) of het Besluit chemische wasserijen milieubeheer van toepassing was. 
+b.waarvoor sinds dat tijdstip niet een krachtens artikel 8.40 of 8.44 van de Wet milieubeheer vastgestelde algemene maatregel van bestuur van toepassing was, verricht op aanwijzing van het bevoegd gezag in de inrichting een vooronderzoek en een verkennend onderzoek en legt de onderzoeksresultaten binnen zes maanden na ontvangst van de aanwijzing aan het bevoegde gezag over. 
+2. Voor zover nodig in afwijking van het eerste lid, onder b, geldt de in het eerste lid bedoelde verplichting in ieder geval ten aanzien van een inrichting waarop het Besluit herstelinrichtingen voor motorvoertuigen milieubeheer, het Besluit inrichtingen voor motorvoertuigen milieubeheer of het Besluit chemische wasserijen milieubeheer van toepassing was. 
 3. Het bevoegd gezag doet de in het eerste lid genoemde aanwijzing slechts, indien binnen een jaar na verzending van een uitnodiging als bedoeld in artikel 4a, derde lid, onder b, geen resultaten van het in dat artikel bedoelde onderzoek zijn ontvangen. 
 4. Gedeputeerde staten informeren burgemeester en wethouders van de gemeente waar de inrichting geheel of grotendeels is gelegen, over de in het eerste lid genoemde aanwijzing en over de resultaten van het verrichte onderzoek. 
 5. Het eerste lid is niet van toepassing indien:
 
 a.in het kader van een BSB-aktie een verkennend onderzoek, oriënterend onderzoek of nader onderzoek is verricht en de resultaten daarvan zijn overgelegd aan de in artikel 4a bedoelde instantie of aan het bevoegd gezag indien geen aanwijzing als bedoeld in artikel 4a, eerste lid, is gedaan;
 
-b.in het kader van de Interimwet bodemsanering of van [§ 3 van hoofdstuk IV van de Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) bodemonderzoek is verricht, of
+b.in het kader van de Interimwet bodemsanering of van § 3 van hoofdstuk IV van de Wet bodembescherming bodemonderzoek is verricht, of
 
 c.in het kader van het werkprogramma tankstations een bodemonderzoek als omschreven in de handleiding bodemsanering tankstations (bijlage VI van dat werkprogramma) is verricht. 
 
@@ -71,7 +71,7 @@ Onze Minister kan regels stellen met betrekking tot de wijze van monstername en 
 
 ###Artikel 6 
 
-1. Op verzoek van degene die op of in een gedeelte van de bodem ten aanzien waarvan hem de nodige bevoegdheid ontbreekt, een verkennend onderzoek dient te verrichten ingevolge artikel 4, kan het bevoegd gezag de rechthebbende ten aanzien van dat gedeelte van de bodem een verplichting opleggen als bedoeld in [artikel 70 van de Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md).
+1. Op verzoek van degene die op of in een gedeelte van de bodem ten aanzien waarvan hem de nodige bevoegdheid ontbreekt, een verkennend onderzoek dient te verrichten ingevolge artikel 4, kan het bevoegd gezag de rechthebbende ten aanzien van dat gedeelte van de bodem een verplichting opleggen als bedoeld in artikel 70 van de Wet bodembescherming.
 2.  Degene die een verzoek doet als bedoeld in het eerste lid, dient bij het verzoek de volgende gegevens te verstrekken: 
 
 a.de naam en het adres van de verzoeker en van de rechthebbende;
@@ -86,12 +86,12 @@ e.een omschrijving van de handelingen die de rechthebbende in het belang van het
 
 ### Artikel  7  
 
-De categorieën bedrijfsterreinen waarvan aannemelijk is dat een geval van ernstige verontreiniging is ontstaan en spoedige sanering noodzakelijk zal zijn, bedoeld in [artikel 55ab van de Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), zijn de in bijlage 2 bij dit besluit aangewezen categorieën. 
+De categorieën bedrijfsterreinen waarvan aannemelijk is dat een geval van ernstige verontreiniging is ontstaan en spoedige sanering noodzakelijk zal zijn, bedoeld in artikel 55ab van de Wet bodembescherming, zijn de in bijlage 2 bij dit besluit aangewezen categorieën. 
 
 ###Artikel 8 
 
 1. Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.
-2.  Indien op de in het eerste lid bedoelde dag het bij koninklijke boodschap van 18 mei 1990 ingediende voorstel van wet tot uitbreiding van de [Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een regeling inzake de sanering van de bodem (Kamerstukken II 1989/90, 21 556, nrs. 1-2) nog niet tot wet is verheven en in werking is getreden, treedt dit besluit in afwijking van het eerste lid eerst in werking met ingang van de dag waarop dat voorstel van wet, na tot wet te zijn verheven, in werking treedt.
+2.  Indien op de in het eerste lid bedoelde dag het bij koninklijke boodschap van 18 mei 1990 ingediende voorstel van wet tot uitbreiding van de Wet bodembescherming met een regeling inzake de sanering van de bodem (Kamerstukken II 1989/90, 21 556, nrs. 1-2) nog niet tot wet is verheven en in werking is getreden, treedt dit besluit in afwijking van het eerste lid eerst in werking met ingang van de dag waarop dat voorstel van wet, na tot wet te zijn verheven, in werking treedt.
 
 ###Artikel 9 
 

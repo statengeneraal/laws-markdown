@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, dr. F. van der Ploeg, van 9 mei 2000, WJZ/2000/16966 (8101), directie Wetgeving en Juridische Zaken;
 
-Gelet op [artikel 34 van de Monumentenwet 1988](../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md);
+Gelet op artikel 34 van de Monumentenwet 1988;
 
 De Raad van State gehoord (advies van 8 juni 2000, no. W05.00.0190/III);
 
@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. de wet: de [Monumentenwet 1988](../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md);  
+a. de wet: de Monumentenwet 1988;  
 
 b. eigenaar: een natuurlijke persoon of rechtspersoon die het recht van eigendom of een ander zakelijk recht heeft op een beschermd monument;  
 

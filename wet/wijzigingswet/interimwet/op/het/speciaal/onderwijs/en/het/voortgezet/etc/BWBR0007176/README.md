@@ -10,7 +10,7 @@ Alzo Wij in overweging genomen hebben, dat het met het oog op de voorgenomen ont
 
 dat het met het oog op die toerusting noodzakelijk is het aantal leerlingen in het LOM, MLK en IOBK ten minste te stabiliseren en dat samenwerking tussen basisscholen en scholen voor speciaal onderwijs het instrument is om de toerusting van het basisonderwijs gestalte te geven;
 
-dat het daarom wenselijk is voorschriften van de [Wet op de expertisecentra](../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en de [Wet op het primair onderwijs](../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) aan te passen teneinde die samenwerking tussen het basisonderwijs en het speciaal onderwijs te ondersteunen;
+dat het daarom wenselijk is voorschriften van de Wet op de expertisecentra en de Wet op het primair onderwijs aan te passen teneinde die samenwerking tussen het basisonderwijs en het speciaal onderwijs te ondersteunen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  

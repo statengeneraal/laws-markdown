@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is het fiscale procesrecht in overeenstemming te brengen met het bestuursprocesrecht zoals neergelegd in [hoofdstuk 8 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en dat het in verband daarmee wenselijk is de Wet administratieve rechtspraak belastingzaken te vervangen door een regeling in de [Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de Tariefcommissiewet opnieuw vast te stellen en wijzigingen aan te brengen in een aantal andere wetten;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is het fiscale procesrecht in overeenstemming te brengen met het bestuursprocesrecht zoals neergelegd in hoofdstuk 8 van de Algemene wet bestuursrecht, en dat het in verband daarmee wenselijk is de Wet administratieve rechtspraak belastingzaken te vervangen door een regeling in de Algemene wet inzake rijksbelastingen, de Tariefcommissiewet opnieuw vast te stellen en wijzigingen aan te brengen in een aantal andere wetten;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### ARTIKEL  I  

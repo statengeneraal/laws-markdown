@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is ingevolge [artikel 98, derde lid, eerste volzin](../../../../wet/grondwet/BWBR0001840/README.md), en het additionele artikel XXX van de Grondwet regels te stellen met betrekking tot de bevoegdheid tot opschorting van de oproeping van dienstplichtigen in werkelijke dienst en de oproeping van dienstplichtigen in buitengewone omstandigheden; dat het voorts gewenst is de afzonderlijke regelingen op het gebied van de dienstplicht samen te voegen tot een Kaderwet dienstplicht;
+Alzo Wij in overweging genomen hebben, dat het noodzakelijk is ingevolge artikel 98, derde lid, eerste volzin, en het additionele artikel XXX van de Grondwet regels te stellen met betrekking tot de bevoegdheid tot opschorting van de oproeping van dienstplichtigen in werkelijke dienst en de oproeping van dienstplichtigen in buitengewone omstandigheden; dat het voorts gewenst is de afzonderlijke regelingen op het gebied van de dienstplicht samen te voegen tot een Kaderwet dienstplicht;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### HOOFDSTUK  1  
 
@@ -74,7 +74,7 @@ Onze Minister zendt zo spoedig mogelijk nadat de inschrijving heeft plaatsgevond
 
 1. Voor zover Onze Minister het nodig acht, is iedere ingeschrevene verplicht zich te onderwerpen aan een onderzoek ter beoordeling van zijn lichamelijke en geestelijke geschiktheid voor het vervullen van werkelijke dienst in het algemeen en ter verkrijging van gegevens voor zijn bestemming in de krijgsmacht, in deze wet aangeduid als keuring.
 2. Ten behoeve van de keuring stelt Onze Minister keuringscommissies in.
-3. De ingeschrevene is verplicht bij de aanmelding voor het ondergaan van de keuring de aan hem toegezonden oproep te tonen en een document te overleggen als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md).
+3. De ingeschrevene is verplicht bij de aanmelding voor het ondergaan van de keuring de aan hem toegezonden oproep te tonen en een document te overleggen als bedoeld in artikel 1 van de Wet op de identificatieplicht.
 4. De keuringsuitslag wordt binnen twee weken na de keuring door een keuringscommissie vastgesteld. Bij geschiktverklaring vermeldt de bekendmaking dat de betrokkene als dienstplichtige wordt aangemerkt.
 
 ###Artikel 7 
@@ -134,7 +134,7 @@ Bestaat er naar het oordeel van Onze Minister gegrond vermoeden, dat iemand voor
 a. hij die bij rechterlijke uitspraak is veroordeeld tot een of meer straffen, zwaarder of tezamen zwaarder dan een gevangenisstraf van zes maanden; of  
 
 b. hij die bij rechterlijke uitspraak is ontzet uit het recht om bij de gewapende macht te dienen.     
-2.  Onverminderd het eerste lid kan van de dienst worden uitgesloten hij die bij rechterlijke uitspraak is veroordeeld ter zake van een van de misdrijven omschreven in artikel 36, tweede lid, van deze wet en in de [artikelen 109](../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md) en [139 van het Wetboek van Militair Strafrecht](../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md).   
+2.  Onverminderd het eerste lid kan van de dienst worden uitgesloten hij die bij rechterlijke uitspraak is veroordeeld ter zake van een van de misdrijven omschreven in artikel 36, tweede lid, van deze wet en in de artikelen 109 en 139 van het Wetboek van Militair Strafrecht.   
 3.  Voor de toepassing van het eerste lid wordt hij, die gratie heeft gekregen, geacht slechts te zijn veroordeeld tot de straf, welke krachtens de gratie op hem blijft rusten of komt te rusten.   
 4.  De uitsluiting geschiedt door Onze Minister.   
 5.  In bijzondere gevallen kan de uitsluiting, bedoeld in het eerste lid, achterwege worden gelaten.   
@@ -214,7 +214,7 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met
 
 ####Procedure oproeping in buitengewone omstandigheden
 
-1. Onverminderd de [artikelen 7, eerste lid](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, artikel 19, eerste lid, in werking worden gesteld.
+1. Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, artikel 19, eerste lid, in werking worden gesteld.
 2. Wanneer het besluit, bedoeld in het eerste lid, is genomen wordt onverwijld een voorstel van wet aan de Tweede Kamer der Staten-Generaal gezonden omtrent het voortduren van de werking van artikel 19, eerste lid.
 3. Wordt het voorstel van wet door de Staten-Generaal verworpen, dan wordt bij koninklijk besluit, op voordracht van Onze Minister-President, artikel 19, eerste lid, onverwijld buiten werking gesteld.
 4. Bij koninklijk besluit, op voordracht van Onze Minister-President, kan artikel 19, eerste lid, buiten werking worden gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.
@@ -286,15 +286,15 @@ m.de wijze, waarop met de daarvoor in aanmerking komende vakorganisaties van ove
 
 ###Artikel 24 
 
-####Toepassing [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)
+####Toepassing Algemene wet bestuursrecht
 
-[Artikel 4:8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op beschikkingen inzake functietoewijzing, bevordering en aanwijzing voor het volgen van een opleiding.
+Artikel 4:8 van de Algemene wet bestuursrecht is niet van toepassing op beschikkingen inzake functietoewijzing, bevordering en aanwijzing voor het volgen van een opleiding.
 
 ###Artikel 25 
 
-####Toepassing [Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md)
+####Toepassing Ambtenarenwet
 
-[Titel II van de Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md) vindt op dienstplichtigen in werkelijke dienst en op gewezen dienstplichtigen overeenkomstige toepassing.
+Titel II van de Ambtenarenwet vindt op dienstplichtigen in werkelijke dienst en op gewezen dienstplichtigen overeenkomstige toepassing.
 
 ###Artikel 26 
 
@@ -308,7 +308,7 @@ a.voor zover de dienstplichtige in werkelijke dienst
 
 2°.van de dienst wordt uitgesloten;
 
-3°.door herhaald wangedrag blijkt ongevoelig te zijn voor bestraffing ingevolge de [Wet militair tuchtrecht](../../../../rijkswet/wet/militair/tuchtrecht/BWBR0004788/README.md) en deswege niet in de dienst kan worden gehandhaafd; of
+3°.door herhaald wangedrag blijkt ongevoelig te zijn voor bestraffing ingevolge de Wet militair tuchtrecht en deswege niet in de dienst kan worden gehandhaafd; of
 
 4°.blijkens een verdrag niet tot dienstplicht is verplicht;
 
@@ -374,13 +374,13 @@ b.een land of een landsdeel waar feitelijk een gewapend conflict bestaat.
 
 ####Rechtsmacht
 
-Ten aanzien van hetgeen bij of krachtens hoofdstuk 2 is bepaald zijn de [artikelen 3 tot en met 8 van de Militaire Ambtenarenwet 1931](../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) van overeenkomstige toepassing.
+Ten aanzien van hetgeen bij of krachtens hoofdstuk 2 is bepaald zijn de artikelen 3 tot en met 8 van de Militaire Ambtenarenwet 1931 van overeenkomstige toepassing.
 
 ###Artikel 34 
 
-1. De dienstplichtige in werkelijke dienst die zich bezwaard voelt over een van een militaire meerdere als bedoeld in [artikel 67 van het Wetboek van Militair Strafrecht](../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md) ontvangen bevel, dan wel meent van een zodanige meerdere een krenkende of onbillijke behandeling te hebben ondervonden, kan daarover in afwijking van [artikel 9:8, eerste lid, onder b, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) binnen zes weken schriftelijk een met redenen omklede klacht indienen bij de tot straffen bevoegde militaire meerdere, bedoeld in [artikel 49 van de Wet militair tuchtrecht](../../../../rijkswet/wet/militair/tuchtrecht/BWBR0004788/README.md) onder wiens rechtstreeks bevel degene, tegen wie de klacht is gericht, is gesteld dan wel bij een door Onze Minister aangewezen functionaris.
-2. Geen klacht kan worden ingediend over besluiten of handelingen ter uitvoering van de [Wet militair tuchtrecht](../../../../rijkswet/wet/militair/tuchtrecht/BWBR0004788/README.md).
-3. Op de behandeling van de klacht zijn de [afdelingen 9.1.2](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [9.1.3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing, met dien verstande dat in afwijking van [artikel 9:11, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de klacht binnen twaalf weken wordt afgehandeld indien de klager dan wel de militaire meerdere tegen wie het klaagschrift is gericht dan wel getuigen zich om redenen van dienst buiten Nederland bevinden.
+1. De dienstplichtige in werkelijke dienst die zich bezwaard voelt over een van een militaire meerdere als bedoeld in artikel 67 van het Wetboek van Militair Strafrecht ontvangen bevel, dan wel meent van een zodanige meerdere een krenkende of onbillijke behandeling te hebben ondervonden, kan daarover in afwijking van artikel 9:8, eerste lid, onder b, van de Algemene wet bestuursrecht binnen zes weken schriftelijk een met redenen omklede klacht indienen bij de tot straffen bevoegde militaire meerdere, bedoeld in artikel 49 van de Wet militair tuchtrecht onder wiens rechtstreeks bevel degene, tegen wie de klacht is gericht, is gesteld dan wel bij een door Onze Minister aangewezen functionaris.
+2. Geen klacht kan worden ingediend over besluiten of handelingen ter uitvoering van de Wet militair tuchtrecht.
+3. Op de behandeling van de klacht zijn de afdelingen 9.1.2 en 9.1.3 van de Algemene wet bestuursrecht van overeenkomstige toepassing, met dien verstande dat in afwijking van artikel 9:11, eerste lid, van de Algemene wet bestuursrecht de klacht binnen twaalf weken wordt afgehandeld indien de klager dan wel de militaire meerdere tegen wie het klaagschrift is gericht dan wel getuigen zich om redenen van dienst buiten Nederland bevinden.
 4. Bij algemene maatregel van bestuur worden nadere regels gesteld ter uitvoering van dit artikel.
 
 ### HOOFDSTUK  3  
@@ -403,7 +403,7 @@ Ten aanzien van hetgeen bij of krachtens hoofdstuk 2 is bepaald zijn de [artikel
 a.hij die niet voldoet aan de ingevolge artikel 6 op hem rustende verplichtingen;
 
 b.hij die ingevolge deze wet voor de werkelijke dienst is opgeroepen en niet verschijnt op tijd en plaats bij dat deel van de krijgsmacht, waarbij hij is ingedeeld, tenzij hem zulks niet valt toe te rekenen.
-2. Opzettelijke overtreding van het bepaalde bij het eerste lid wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie. Overtreding in buitengewone omstandigheden van het bepaalde bij het eerste lid wordt gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie. [Artikel 71*a* van het Wetboek van Militair Strafrecht](../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md) is van overeenkomstige toepassing.
+2. Opzettelijke overtreding van het bepaalde bij het eerste lid wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie. Overtreding in buitengewone omstandigheden van het bepaalde bij het eerste lid wordt gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie. Artikel 71*a* van het Wetboek van Militair Strafrecht is van overeenkomstige toepassing.
 
 ###Artikel 37 
 
@@ -416,7 +416,7 @@ b.hij die ingevolge deze wet voor de werkelijke dienst is opgeroepen en niet ver
 
 ####Opsporingsambtenaren
 
-Met de opsporing van de in deze wet strafbare gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de militairen van de Koninklijke marechaussee. Zij hebben toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
+Met de opsporing van de in deze wet strafbare gestelde feiten zijn, onverminderd artikel 141 van het Wetboek van Strafvordering, belast de militairen van de Koninklijke marechaussee. Zij hebben toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
 
 ### HOOFDSTUK  4  
 
@@ -459,7 +459,7 @@ Met de opsporing van de in deze wet strafbare gestelde feiten zijn, onverminderd
 
 ###Artikel 42 
 
-####[Wet arbeidsongeschiktheidsvoorziening militairen](../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md)
+####Wet arbeidsongeschiktheidsvoorziening militairen
 
 Wijzigt de Wet arbeidsongeschiktheidsvoorziening militairen.
 
@@ -471,37 +471,37 @@ Wijzigt de Algemene militaire pensioenwet.
 
 ### Artikel  44  
 
-#### [Wet betreffende de positie van Molukkers](../../../../wet/wet/betreffende/de/positie/van/molukkers/BWBR0003052/README.md) 
+#### Wet betreffende de positie van Molukkers 
 
 Wijzigt de Wet betreffende de positie van Molukkers.  
 
 ### Artikel  45  
 
-#### [Militaire Ambtenarenwet 1931](../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) 
+#### Militaire Ambtenarenwet 1931 
 
 Wijzigt de Militaire Ambtenarenwet 1931.  
 
 ### Artikel  46  
 
-#### [Wet gewetensbezwaren militaire dienst](../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) 
+#### Wet gewetensbezwaren militaire dienst 
 
 Wijzigt de Wet gewetensbezwaren militaire dienst.  
 
 ### Artikel  47  
 
-#### [Wetboek van Militair Strafrecht](../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md) 
+#### Wetboek van Militair Strafrecht 
 
 Wijzigt het Wetboek van Militair Strafrecht.  
 
 ### Artikel  48  
 
-#### [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) 
+#### Algemene wet bestuursrecht 
 
 Wijzigt de Algemene wet bestuursrecht.  
 
 ### Artikel  49  
 
-#### [Beroepswet](../../../../wet/beroepswet/BWBR0002170/README.md) 
+#### Beroepswet 
 
 Wijzigt de Beroepswet.  
 
@@ -513,31 +513,31 @@ Wijzigt Boek 7A van het Burgerlijk Wetboek.
 
 ### Artikel  51  
 
-####Aanpassing artikel 20, eerste lid , in verband met Invoeringswet [Coördinatiewet uitzonderingstoestanden](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) 
+####Aanpassing artikel 20, eerste lid , in verband met Invoeringswet Coördinatiewet uitzonderingstoestanden 
 
 Wijzigt de Invoeringswet Coördinatiewet uitzonderingstoestanden.  
 
 ### Artikel  52  
 
-####Wijziging [Coördinatiewet uitzonderingstoestanden](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) 
+####Wijziging Coördinatiewet uitzonderingstoestanden 
 
 Wijzigt de Coördinatiewet uitzonderingstoestanden.  
 
 ### Artikel  53  
 
-####Wijziging [Arbeidstijdenwet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) 
+####Wijziging Arbeidstijdenwet 
 
 Wijzigt de Arbeidstijdenwet.  
 
 ### Artikel  54  
 
-####Wijziging [Wet veiligheidsonderzoeken](../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) 
+####Wijziging Wet veiligheidsonderzoeken 
 
 Wijzigt de Wet veiligheidsonderzoeken.  
 
 ### Artikel  55  
 
-####Wijziging [titel 7.10 van het nieuw Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md)
+####Wijziging titel 7.10 van het nieuw Burgerlijk Wetboek
 
 Wijzigt Boek 7 van het Burgerlijk Wetboek.  
 
@@ -563,7 +563,7 @@ Zij die op grond van de Dienstplichtwet zoals luidend voor inwerkingtreding van 
 
 1. Zij die op grond van de Dienstplichtwet voorgoed ongeschikt voor de dienst zijn of worden verklaard, worden aangemerkt als voorgoed ongeschikt voor de dienst in de zin van deze wet.
 2. Zij die op het tijdstip van inwerkingtreding van deze wet op grond van de Dienstplichtwet tijdelijk ongeschikt voor de dienst zijn verklaard, worden aangemerkt als ingeschrevenen in de zin van deze wet.
-3. Zij die op het tijdstip van inwerkingtreding van deze wet op grond van de Dienstplichtwet geschikt voor de dienst zijn verklaard doch nog niet zijn ingelijfd, worden aangemerkt als ingeschrevenen in de zin van deze wet. De eerste volzin is niet van toepassing op hen die op grond van [artikel 9, eerste lid, van de Wet gewetensbezwaren militaire dienst](../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) zijn vrijgesteld van de militaire verplichtingen.
+3. Zij die op het tijdstip van inwerkingtreding van deze wet op grond van de Dienstplichtwet geschikt voor de dienst zijn verklaard doch nog niet zijn ingelijfd, worden aangemerkt als ingeschrevenen in de zin van deze wet. De eerste volzin is niet van toepassing op hen die op grond van artikel 9, eerste lid, van de Wet gewetensbezwaren militaire dienst zijn vrijgesteld van de militaire verplichtingen.
 
 ###Artikel 59 
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is door een vergroting van de financiële betrokkenheid van werkgevers en werknemers in de marktsector en bij de overheid het ziekteverzuim terug te dringen en daartoe de [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md), het Burgerlijk Wetboek en enkele andere wetten te wijzigen en een regeling te treffen voor het overheidspersoneel;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is door een vergroting van de financiële betrokkenheid van werkgevers en werknemers in de marktsector en bij de overheid het ziekteverzuim terug te dringen en daartoe de Ziektewet, het Burgerlijk Wetboek en enkele andere wetten te wijzigen en een regeling te treffen voor het overheidspersoneel;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -91,13 +91,13 @@ b. wiens ongeschiktheid tot het werken wegens ziekte intreedt op of na de datum 
 
 ### Artikel  XVII  
 
-1.   [Artikel 57 van de Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) blijft voor door de bedrijfsvereniging op grond van dat artikel getroffen en door de Minister van Sociale Zaken en Werkgelegenheid goedgekeurde besluiten van kracht tot 1 juli 1994.   
-2.   De op grond van [artikel 54 van de Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) getroffen regelingen en overeenkomsten inzake hogere, langere of andere uitkeringen blijven van kracht tot 1 juli 1994.   
-3.   In de gevallen waarin het eerste lid toepassing vindt blijven de [artikelen 1](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), 7*a* en [57 van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de artikelen 1 en 48 van de Algemene Arbeidsongeschiktheidswet, [artikel 3*a*, tweede lid van de Coördinatiewet Sociale Verzekering](../../../../../wet/coördinatiewet/sociale/verzekering/BWBR0002126/README.md) en [artikel 3 van de Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md), zoals deze luidden vóór het tijdstip van inwerkingtreding van deze wet, van kracht.  
+1.   Artikel 57 van de Ziektewet blijft voor door de bedrijfsvereniging op grond van dat artikel getroffen en door de Minister van Sociale Zaken en Werkgelegenheid goedgekeurde besluiten van kracht tot 1 juli 1994.   
+2.   De op grond van artikel 54 van de Ziektewet getroffen regelingen en overeenkomsten inzake hogere, langere of andere uitkeringen blijven van kracht tot 1 juli 1994.   
+3.   In de gevallen waarin het eerste lid toepassing vindt blijven de artikelen 1, 7*a* en 57 van de Wet op de arbeidsongeschiktheidsverzekering, de artikelen 1 en 48 van de Algemene Arbeidsongeschiktheidswet, artikel 3*a*, tweede lid van de Coördinatiewet Sociale Verzekering en artikel 3 van de Wet arbeidsongeschiktheidsvoorziening militairen, zoals deze luidden vóór het tijdstip van inwerkingtreding van deze wet, van kracht.  
 
 ### Artikel  XVIII  
 
-1.  Degene die op grond van artikel XVII aanspraken heeft verkregen die voortvloeien uit [artikel 57](../../../../../wet/ziektewet/BWBR0001888/README.md) of [artikel 54 van de Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) behoudt deze aanspraken, indien:  
+1.  Degene die op grond van artikel XVII aanspraken heeft verkregen die voortvloeien uit artikel 57 of artikel 54 van de Ziektewet behoudt deze aanspraken, indien:  
 
 a. hij op 30 juni 1994 ongeschikt is tot werken wegens ziekte, zolang die ongeschiktheid duurt; of  
 
@@ -115,7 +115,7 @@ b. van wie de ongeschiktheid tot het verrichten van hun arbeid wegens ziekte int
 
 ### Artikel  XXI  
 
-De tekst van de [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) wordt door de Minister van Justitie in het *Staatsblad* geplaatst. 
+De tekst van de Ziektewet wordt door de Minister van Justitie in het *Staatsblad* geplaatst. 
 
 ### Artikel  XXII  
 

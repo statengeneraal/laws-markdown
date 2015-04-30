@@ -5,7 +5,7 @@
 De minister van Justitie,  
 In overeenstemming met de minister van Landbouw en Visserij;
 
-Gelet op de [artikelen 1 onder 4°, en 17, eerste lid onder 2°, van de Wet op de economische delicten](../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md);
+Gelet op de artikelen 1 onder 4°, en 17, eerste lid onder 2°, van de Wet op de economische delicten;
 Besluit:    
 
 ### Artikel  1  

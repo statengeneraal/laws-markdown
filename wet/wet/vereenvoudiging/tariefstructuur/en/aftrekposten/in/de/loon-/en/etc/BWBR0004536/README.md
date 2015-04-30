@@ -43,7 +43,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  IX  
 
-1.  In afwijking van artikel 45, eerste lid, van de Wet op de inkomstenbelasting 1964 zijn tevens persoonlijke verplichtingen over kalenderjaren of gedeelten van kalenderjaren die eindigen vóór 1 januari 1990 verschuldigde premies en premievervangende belasting ingevolge de [Algemene Ouderdomswet](../../../../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) (*Stb.* 1985, 181) en de Algemene Weduwen- en Wezenwet (*Stb.* 1965, 429) alsmede bij wege van aanslag geheven dan wel verhaalde premies en premievervangende belasting ingevolge de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) (*Stb.* 1967, 655), de Algemene Arbeidsongeschiktheidswet (*Stb.* 1987, 90) en de [Algemene Kinderbijslagwet](../../../../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) (*Stb.* 1980, 1). De in de vorige volzin bedoelde premies en premievervangende belasting, alsmede de negatieve persoonlijke verplichtingen ter zake daarvan, worden voor de toepassing van  
+1.  In afwijking van artikel 45, eerste lid, van de Wet op de inkomstenbelasting 1964 zijn tevens persoonlijke verplichtingen over kalenderjaren of gedeelten van kalenderjaren die eindigen vóór 1 januari 1990 verschuldigde premies en premievervangende belasting ingevolge de Algemene Ouderdomswet (*Stb.* 1985, 181) en de Algemene Weduwen- en Wezenwet (*Stb.* 1965, 429) alsmede bij wege van aanslag geheven dan wel verhaalde premies en premievervangende belasting ingevolge de Algemene Wet Bijzondere Ziektekosten (*Stb.* 1967, 655), de Algemene Arbeidsongeschiktheidswet (*Stb.* 1987, 90) en de Algemene Kinderbijslagwet (*Stb.* 1980, 1). De in de vorige volzin bedoelde premies en premievervangende belasting, alsmede de negatieve persoonlijke verplichtingen ter zake daarvan, worden voor de toepassing van  
 
 a.  artikel 5, derde lid, van de Wet op de inkomstenbelasting 1964 aangemerkt als persoonlijke verminderingen en vermeerderingen van het onzuivere inkomen;  
 
@@ -57,7 +57,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  X  
 
-Ter bevordering van een goede uitvoering van artikel 62, tweede lid, van de Wet op de inkomstenbelasting 1964 en [artikel 27, tweede lid, van de Wet op de loonbelasting 1964](../../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) kunnen voor de eerste vijf jaren waarin die bepalingen toepassing vinden, bij ministeriële regeling nadere, zo nodig afwijkende, regels worden gesteld. 
+Ter bevordering van een goede uitvoering van artikel 62, tweede lid, van de Wet op de inkomstenbelasting 1964 en artikel 27, tweede lid, van de Wet op de loonbelasting 1964 kunnen voor de eerste vijf jaren waarin die bepalingen toepassing vinden, bij ministeriële regeling nadere, zo nodig afwijkende, regels worden gesteld. 
 
 ### Artikel  XI  
 

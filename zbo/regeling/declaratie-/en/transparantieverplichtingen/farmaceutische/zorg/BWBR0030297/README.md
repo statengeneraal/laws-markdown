@@ -3,14 +3,14 @@
 ##Regeling declaratie- en transparantieverplichtingen farmaceutische zorg
 
 De Nederlandse Zorgautoriteit,  
-Gelet op [artikel 37](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [38, derde lid, van de Wet marktordening gezondheidszorg](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg);
+Gelet op artikel 37 en 38, derde lid, van de Wet marktordening gezondheidszorg (Wmg);
 Heeft vastgesteld: Regeling ‘farmaceutische zorg’:    
 
 ### Artikel  1  
 
 ####Reikwijdte
 
-Deze regeling is van toepassing op zorgaanbieders die farmaceutische zorg leveren die omvat advies of begeleiding ten behoeve van medicatiebeoordeling en verantwoord gebruik van UR-geneesmiddelen als bedoeld in [artikel 1, eerste lid, onder s, van de Geneesmiddelenwet](../../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) of de terhandstelling van die geneesmiddelen, of waarop de Wet inzake bloedtransfusie van toepassing is. 
+Deze regeling is van toepassing op zorgaanbieders die farmaceutische zorg leveren die omvat advies of begeleiding ten behoeve van medicatiebeoordeling en verantwoord gebruik van UR-geneesmiddelen als bedoeld in artikel 1, eerste lid, onder s, van de Geneesmiddelenwet of de terhandstelling van die geneesmiddelen, of waarop de Wet inzake bloedtransfusie van toepassing is. 
 
 ### Artikel  2  
 
@@ -29,11 +29,11 @@ Deze regeling heeft tot doel het stellen van de navolgende voorschriften met bet
 3.1.   *Farmaceutische zorg*  Zorg zoals omschreven in artikel 1 van deze regeling.   
 3.2.   *Zorgaanbieder*  De natuurlijke persoon of rechtspersoon die beroeps- of bedrijfsmatig farmaceutische zorg verleent.   
 3.3.   *Voorschrift*  De hoeveelheid, respectievelijk het aantal van elke afzonderlijke toedieningsvorm van één al dan niet samengesteld UR-geneesmiddel, voorgeschreven op één receptbriefje ten behoeve van één patiënt. Onder een equivalent voorschrift wordt verstaan elke aflevering conform het voorschrift, maar dan zonder receptbriefje. Eén receptbriefje kan meerdere voorschriften bevatten.   
-3.4.   *UR-geneesmiddel*  Een geneesmiddel zoals is bedoeld in [artikel 1, eerste lid, onder s van de Geneesmiddelenwet](../../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md).   
+3.4.   *UR-geneesmiddel*  Een geneesmiddel zoals is bedoeld in artikel 1, eerste lid, onder s van de Geneesmiddelenwet.   
 3.5.   *Prestatie*  Een prestatie omvat het leveren van farmaceutische zorg aan een consument.   
 3.6.   *Declaratie*  Het tarief of de tarieven die in rekening zijn gebracht voor een geleverde prestatie en een eventuele deelprestatie aan de ziektekostenverzekeraar van de betreffende consument of aan de consument zelf.   
 3.7.   *Consument*  Een patiënt, een potentiële patiënt of degene die namens een patiënt informeert en zorg ontvangt.   
-3.8.   *Behandelingsovereenkomst*  Een overeenkomst inzake geneeskundige behandeling, zoals bedoeld is in [artikel 7:446 Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).   
+3.8.   *Behandelingsovereenkomst*  Een overeenkomst inzake geneeskundige behandeling, zoals bedoeld is in artikel 7:446 Burgerlijk Wetboek.   
 3.9.   *Tarief*  Prijs voor een prestatie, een deel van een prestatie of geheel van prestaties van een zorgaanbieder.   
 3.10.   *Ziektekostenverzekeraar*  
 
@@ -41,7 +41,7 @@ Deze regeling heeft tot doel het stellen van de navolgende voorschriften met bet
 
 – een AWBZ-verzekeraar;  
 
-– een particuliere ziektekostenverzekeraar, zijnde een financiële onderneming die ingevolge de [Wet op het financieel toezicht](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van verzekeraar mag uitoefenen.    
+– een particuliere ziektekostenverzekeraar, zijnde een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van verzekeraar mag uitoefenen.    
 
 ### Artikel  4  
 
@@ -106,13 +106,13 @@ Zorgaanbieders dienen consument tijdig en zorgvuldig te informeren over de tarie
 
 ####Intrekking
 
-Gelijktijdig met de inwerkingtreding van deze regeling worden de [Regeling administratie- en declaratievoorschrift prestatiebekostiging farmaceutische zorg](../../../../../../../../zbo/regeling/administratie-/en/declaratievoorschrift/prestatiebekostiging/etc/BWBR0025705/README.md), met nummer CV/NR-100.097, ingetrokken. 
+Gelijktijdig met de inwerkingtreding van deze regeling worden de Regeling administratie- en declaratievoorschrift prestatiebekostiging farmaceutische zorg, met nummer CV/NR-100.097, ingetrokken. 
 
 ### Artikel  8  
 
 ####Inwerkingtreding en citeertitel
 
-Deze beleidsregel treedt in werking op 1 januari 2012. Indien de Staatscourant waarin de mededeling als bedoeld in [artikel 20, tweede lid, sub b, van de Wmg](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) wordt geplaatst, wordt uitgegeven na 31 december 2011, treedt de beleidsregel in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin de mededeling wordt geplaatst en werkt terug tot en met 1 januari 2012. Deze regeling kan worden aangehaald als: ‘Regeling declaratie- en transparantieverplichtingen farmaceutische zorg’. 
+Deze beleidsregel treedt in werking op 1 januari 2012. Indien de Staatscourant waarin de mededeling als bedoeld in artikel 20, tweede lid, sub b, van de Wmg wordt geplaatst, wordt uitgegeven na 31 december 2011, treedt de beleidsregel in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin de mededeling wordt geplaatst en werkt terug tot en met 1 januari 2012. Deze regeling kan worden aangehaald als: ‘Regeling declaratie- en transparantieverplichtingen farmaceutische zorg’. 
 
 Nederlandse Zorgautoriteit, 
 T.W. Langejan,  

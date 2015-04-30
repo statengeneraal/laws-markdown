@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-Personen, die met goed gevolg het doctoraal examen, genoemd in [artikel 4](../../../../../../AMvB/academisch/statuut/BWBR0004353/README.md), paragraaf [58, van het academisch statuut](../../../../../../AMvB/academisch/statuut/BWBR0004353/README.md), of een daaraan gelijkwaardig examen aan de Rechtshogeschool of de Universiteit van Indonesië hebben afgelegd en die een verklaring van Onze Minister voor Uniezaken en Overzeese Rijksdelen kunnen overleggen, dat zij nadien tussen 1 Januari 1939 en 1 Januari 1950 in Indonesië zijn werkzaam geweest, kunnen, indien het op grond van hun loopbaan in Indonesië waarschijnlijk is, dat zij de geschiktheid tot het vervullen van hierna bedoelde ambten of beroepen bezitten, voor zover betreft het vereiste van een academische graad of hoedanigheid:  
+Personen, die met goed gevolg het doctoraal examen, genoemd in artikel 4, paragraaf 58, van het academisch statuut, of een daaraan gelijkwaardig examen aan de Rechtshogeschool of de Universiteit van Indonesië hebben afgelegd en die een verklaring van Onze Minister voor Uniezaken en Overzeese Rijksdelen kunnen overleggen, dat zij nadien tussen 1 Januari 1939 en 1 Januari 1950 in Indonesië zijn werkzaam geweest, kunnen, indien het op grond van hun loopbaan in Indonesië waarschijnlijk is, dat zij de geschiktheid tot het vervullen van hierna bedoelde ambten of beroepen bezitten, voor zover betreft het vereiste van een academische graad of hoedanigheid:  
 
-a. voor zoveel nodig in afwijking van het bepaalde in de [artikelen 3, eerste lid](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [35](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [37](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [48](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) en [64 van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) en het beleid der justitie worden benoemd tot de in die artikelen vermelde ambten;  
+a. voor zoveel nodig in afwijking van het bepaalde in de artikelen 3, eerste lid, 35, 37, 48 en 64 van de Wet op de rechterlijke organisatie en het beleid der justitie worden benoemd tot de in die artikelen vermelde ambten;  
 
 b. in afwijking van het bepaalde bij of krachtens artikel 34 van de Beroepswet worden benoemd tot de in dat artikel vermelde ambten;  
 
 c. in afwijking van het bepaalde in artikel 119 van het Besluit Herstel Rechtsverkeer worden benoemd tot de in dat artikel vermelde ambten;  
 
-d. in afwijking van het bepaalde in de [artikelen 75](../../../../../../wet/pachtwet/BWBR0002269/README.md) en [83, derde lid, van de Pachtwet](../../../../../../wet/pachtwet/BWBR0002269/README.md) worden benoemd tot secretaris of plaatsvervangend secretaris van een grondkamer dan wel tot griffier van de Centrale Grondkamer.  
+d. in afwijking van het bepaalde in de artikelen 75 en 83, derde lid, van de Pachtwet worden benoemd tot secretaris of plaatsvervangend secretaris van een grondkamer dan wel tot griffier van de Centrale Grondkamer.  
 
 e. van Onze Minister van Justitie schriftelijke toestemming verkrijgen om in afwijking van de op dit stuk bestaande bepalingen inschrijving en beëdiging als advocaat te verzoeken.   
 

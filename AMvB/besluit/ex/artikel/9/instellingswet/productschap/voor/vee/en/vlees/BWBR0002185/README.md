@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Ministers voor Publiekrechtelijke Bedrijfsorganisatie van 24 Maart 1955, no. B. 2496, Dir. W.J.A., van Landbouw, Visserij en Voedselvoorziening van 24 Maart 1955, no. J. 1085, Afd. W.J.Z. en van Economische Zaken van 24 Maart 1955, no. 23479, Dir. W.J.A.;
 
-Overwegende, dat het wenselijk is te bepalen in welke gevallen Onze Minister van Economische Zaken voor de toepassing van de Instellingswet Productschap voor Vee en Vlees (*Stb.* 1954, 445) en van de [artikelen 94](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), derde lid, en [104, tweede lid, van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K 22) ten aanzien van het Productschap voor Vee en Vlees mede als betrokken Minister wordt aangemerkt;
+Overwegende, dat het wenselijk is te bepalen in welke gevallen Onze Minister van Economische Zaken voor de toepassing van de Instellingswet Productschap voor Vee en Vlees (*Stb.* 1954, 445) en van de artikelen 94, 100, derde lid, en 104, tweede lid, van de Wet op de Bedrijfsorganisatie (*Stb.* 1950, K 22) ten aanzien van het Productschap voor Vee en Vlees mede als betrokken Minister wordt aangemerkt;
 
 Gelet op artikel 9 van eerstgenoemde wet;
 
@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Voor de toepassing van de Instellingswet Productschap voor Vee en Vlees (*Stb.* 1954, 445) en van de [artikelen 94](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), derde lid, en [104, tweede lid, van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K 22) ten aanzien van het Productschap voor Vee en Vlees wordt Onze Minister van Economische Zaken mede als betrokken Minister aangemerkt, voor zoveel betreft:  
+Voor de toepassing van de Instellingswet Productschap voor Vee en Vlees (*Stb.* 1954, 445) en van de artikelen 94, 100, derde lid, en 104, tweede lid, van de Wet op de Bedrijfsorganisatie (*Stb.* 1950, K 22) ten aanzien van het Productschap voor Vee en Vlees wordt Onze Minister van Economische Zaken mede als betrokken Minister aangemerkt, voor zoveel betreft:  
 
 a. verordeningen, die bindende regelen inhouden voor het slagersbedrijf of de detailhandel in vleeswaren en vleesconserven;  
 

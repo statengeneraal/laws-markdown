@@ -8,13 +8,13 @@ Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties
 
 Gelet op:
 
-– [artikel 125, eerste lid, van de Ambtenarenwet](../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md),
+– artikel 125, eerste lid, van de Ambtenarenwet,
 
-– [artikel 1, tweede lid, van de Wet rechtspositie ministers en staatssecretarissen](../../../../../../../../wet/wet/rechtspositie/ministers/en/staatssecretarissen/BWBR0006286/README.md),
+– artikel 1, tweede lid, van de Wet rechtspositie ministers en staatssecretarissen,
 
-– [artikel 6 van de Wet van 11 september 1964, houdende vaststelling van een nieuwe regeling van de bezoldiging van de vice-president van de Raad van State en de staatsraden, alsmede van de president en de overige leden van de Algemene Rekenkamer](../../../../../../../../wet/wet/bezoldiging/raad/van/state/en/algemene/rekenkamer/BWBR0002456/README.md) (Stb. 1993, 218) en
+– artikel 6 van de Wet van 11 september 1964, houdende vaststelling van een nieuwe regeling van de bezoldiging van de vice-president van de Raad van State en de staatsraden, alsmede van de president en de overige leden van de Algemene Rekenkamer (Stb. 1993, 218) en
 
-– [artikel 1, derde lid, van de Wet bezoldiging Nationale ombudsman](../../../../../../../../wet/wet/bezoldiging/nationale/ombudsman/BWBR0003429/README.md);
+– artikel 1, derde lid, van de Wet bezoldiging Nationale ombudsman;
 
 De Raad van State gehoord (advies van 1 oktober 1999, no. W04.99.0424/I);
 
@@ -75,15 +75,15 @@ Wijzigt het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector 
 
 ### Artikel  XIV  
 
-[Artikel 6 van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [artikel 6 van het Ambtenarenreglement Staten-Generaal](../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md), zoals deze artikelen luidden voor de inwerkingtreding van dit besluit, blijven van toepassing op een aanstelling in tijdelijke dienst, die op het moment van inwerkingtreding van het onderhavig besluit niet is beëindigd. 
+Artikel 6 van het Algemeen Rijksambtenarenreglement en artikel 6 van het Ambtenarenreglement Staten-Generaal, zoals deze artikelen luidden voor de inwerkingtreding van dit besluit, blijven van toepassing op een aanstelling in tijdelijke dienst, die op het moment van inwerkingtreding van het onderhavig besluit niet is beëindigd. 
 
 ### Artikel  XV  
 
-In afwijking van de [artikelen 6](../../../../../../../../AMvB/regeling/ziektekostenvoorziening/rijkspersoneel/BWBR0008818/README.md), [7](../../../../../../../../AMvB/regeling/ziektekostenvoorziening/rijkspersoneel/BWBR0008818/README.md), [8](../../../../../../../../AMvB/regeling/ziektekostenvoorziening/rijkspersoneel/BWBR0008818/README.md) en [10 van de Regeling ziektekostenvoorziening rijkspersoneel](../../../../../../../../AMvB/regeling/ziektekostenvoorziening/rijkspersoneel/BWBR0008818/README.md) is, indien het tijdvak, bedoeld in [artikel 7, eerste lid, van de Regeling ziektekostenvoorziening rijkspersoneel](../../../../../../../../AMvB/regeling/ziektekostenvoorziening/rijkspersoneel/BWBR0008818/README.md) is aangevangen voor de datum van inwerkingtreding van dit besluit, met betrekking tot de periode van dat tijdvak liggende voor deze datum, de [Regeling ziektekostenvoorziening rijkspersoneel](../../../../../../../../AMvB/regeling/ziektekostenvoorziening/rijkspersoneel/BWBR0008818/README.md), zoals deze luidde voor de datum van inwerkingtreding van dit besluit, van toepassing. 
+In afwijking van de artikelen 6, 7, 8 en 10 van de Regeling ziektekostenvoorziening rijkspersoneel is, indien het tijdvak, bedoeld in artikel 7, eerste lid, van de Regeling ziektekostenvoorziening rijkspersoneel is aangevangen voor de datum van inwerkingtreding van dit besluit, met betrekking tot de periode van dat tijdvak liggende voor deze datum, de Regeling ziektekostenvoorziening rijkspersoneel, zoals deze luidde voor de datum van inwerkingtreding van dit besluit, van toepassing. 
 
 ### Artikel  XVI  
 
-A.1. Voor zover de onderdelen B, F en G van artikel IV aanleiding geven tot het wijzigen van de bedragen van toelagen, toegekend met toepassing van artikel 19 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1948, die ingevolge [artikel 13 van de Overgangsregeling Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/overgangsregeling/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003631/README.md) nog worden gehandhaafd, geschiedt dit door Onze Minister, hoofd van het desbetreffende departement van algemeen bestuur, met inachtneming van de daarvoor door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties te stellen regels. 2. Voor zover de onderdelen B, F en G van artikel IV aanleiding geven tot het wijzigen van bijzondere regelingen getroffen met toepassing van [artikel 26 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), geschiedt dit bij regeling van Onze Minister, hoofd van het desbetreffende departement van algemeen bestuur, in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.  B. In afwijking van [artikel 20a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) 1984 bedraagt de eindejaarsuitkering in 1999 0,8% van het door de ambtenaar in 1999 genoten salaris. 
+A.1. Voor zover de onderdelen B, F en G van artikel IV aanleiding geven tot het wijzigen van de bedragen van toelagen, toegekend met toepassing van artikel 19 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1948, die ingevolge artikel 13 van de Overgangsregeling Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 nog worden gehandhaafd, geschiedt dit door Onze Minister, hoofd van het desbetreffende departement van algemeen bestuur, met inachtneming van de daarvoor door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties te stellen regels. 2. Voor zover de onderdelen B, F en G van artikel IV aanleiding geven tot het wijzigen van bijzondere regelingen getroffen met toepassing van artikel 26 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984, geschiedt dit bij regeling van Onze Minister, hoofd van het desbetreffende departement van algemeen bestuur, in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.  B. In afwijking van artikel 20a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 bedraagt de eindejaarsuitkering in 1999 0,8% van het door de ambtenaar in 1999 genoten salaris. 
 
 ### Artikel  XVII  
 

@@ -8,7 +8,7 @@ Op de voordracht van Onze Minister van Verkeer en Waterstaat van 30 oktober 200
 
 Overwegende, dat de herziening op 7 juli 1995 van het Internationale Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978, het noodzakelijk maakt de bepalingen ten aanzien van de opleiding en diplomering van zeevarenden die dienst doen op Nederlands-Antilliaanse en Arubaanse schepen opnieuw vast te stellen, daarbij tevens uitvoering gevend aan de bepalingen inzake de bemanning van zeeschepen van het Internationale Verdrag tot beveiliging van mensenlevens op zee, 1974, een en ander met inachtneming van de desbetreffende bepalingen van het Wetboek van Koophandel van de Nederlandse Antillen, onderscheidenlijk Aruba;
 
-Gelet op [artikel 4, tweede lid, van de Schepenwet](../../../../../../../rijkswet/schepenwet/BWBR0001876/README.md), op het op 7 juli 1978 te Londen tot stand gekomen Internationale Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978 (Trb. 1981, 144), op Hoofdstuk III, voorschrift 10, en voorschrift 24–1.3, Hoofdstuk IV, voorschrift 16, Hoofdstuk V, voorschrift 13, en Hoofdstuk X, voorschriften 1, 2 en 3, van het op 1 november 1974 te Londen tot stand gekomen Internationale Verdrag tot beveiliging van mensenlevens op zee, 1974 (Trb. 1976, 157), en op het op 27 juni 1946 te Seattle tot stand gekomen Verdrag No. 74 van de Internationale Arbeidsorganisatie inzake de diplomering van volmatrozen (Stb. I 330);
+Gelet op artikel 4, tweede lid, van de Schepenwet, op het op 7 juli 1978 te Londen tot stand gekomen Internationale Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978 (Trb. 1981, 144), op Hoofdstuk III, voorschrift 10, en voorschrift 24–1.3, Hoofdstuk IV, voorschrift 16, Hoofdstuk V, voorschrift 13, en Hoofdstuk X, voorschriften 1, 2 en 3, van het op 1 november 1974 te Londen tot stand gekomen Internationale Verdrag tot beveiliging van mensenlevens op zee, 1974 (Trb. 1976, 157), en op het op 27 juni 1946 te Seattle tot stand gekomen Verdrag No. 74 van de Internationale Arbeidsorganisatie inzake de diplomering van volmatrozen (Stb. I 330);
 
 De Raad van State van het Koninkrijk gehoord (advies van 5 december 2001, No. W09.01 0561/V/K);
 
@@ -32,7 +32,7 @@ c. bemanning: de kapitein, de scheepsofficieren en de scheepsgezellen, alsmede d
 
 d. opvarende: eenieder die zich aan boord bevindt;  
 
-e. scheepsbeheerder: de eigenaar of vertegenwoordiger, bedoeld in artikel 3, vierde lid, van het Curaçaosch Zeebrievenbesluit 1933, de eigenaar of vertegenwoordiger, bedoeld in [artikel 2 van het Zeebrievenbesluit van Curaçao en Sint Maarten](../../../../../../../rijksKB/nederlands-antilliaans/zeebrievenbesluit/BWBR0005943/README.md) of de rompbevrachter of diens vertegenwoordiger, bedoeld in [artikel 6 van het Zeebrievenbesluit van Curaçao en Sint Maarten](../../../../../../../rijksKB/nederlands-antilliaans/zeebrievenbesluit/BWBR0005943/README.md);  
+e. scheepsbeheerder: de eigenaar of vertegenwoordiger, bedoeld in artikel 3, vierde lid, van het Curaçaosch Zeebrievenbesluit 1933, de eigenaar of vertegenwoordiger, bedoeld in artikel 2 van het Zeebrievenbesluit van Curaçao en Sint Maarten of de rompbevrachter of diens vertegenwoordiger, bedoeld in artikel 6 van het Zeebrievenbesluit van Curaçao en Sint Maarten;  
 
 f. vaarbevoegdheid: de bevoegdheid om in een of meer functies aan boord van een schip dienst te doen;  
 
@@ -187,13 +187,13 @@ f. de brand- en waterdichte deuren, met uitzondering van die ter afsluiting van 
 
 ### Artikel  14  
 
-1.  De kapitein van een schip zorgt er voor dat vóór het ondernemen van een reis en gedurende de reis voldoende sloepsgasten, in het bezit van het kennisbewijs, bedoeld in artikel 66, aan boord zijn overeenkomstig [artikel 10, derde lid, van Bijlage XIA van het Schepenbesluit 1965](../../../../../../../rijksKB/schepenbesluit/1965/BWBR0002501/README.md).   
+1.  De kapitein van een schip zorgt er voor dat vóór het ondernemen van een reis en gedurende de reis voldoende sloepsgasten, in het bezit van het kennisbewijs, bedoeld in artikel 66, aan boord zijn overeenkomstig artikel 10, derde lid, van Bijlage XIA van het Schepenbesluit 1965.   
 2.  Voor de toepassing van het eerste lid worden kapiteins, stuurlieden en maritieme officieren gelijkgesteld met degenen aan wie het kennisbewijs «sloepsgast», bedoeld in artikel 66, is afgegeven.   
 3.  De kapitein van een schip dat is uitgerust met snelle hulpverleningsboten zorgt er voor dat voor het ondernemen van een reis en gedurende de reis voor elke snelle hulpverleningsboot tenminste twee bemanningsleden beschikbaar zijn die het kennisbewijs «bekwaamheid in het gebruik van snelle hulpverleningsboten», als bedoeld in artikel 67, bezitten.  
 
 ### Artikel  15  
 
-1.  De kapitein en het bemanningslid aan wie door de kapitein, onder diens verantwoordelijkheid, de zorg voor het gebruik en het beheer van de medische uitrusting is opgedragen, zijn in het bezit van het kennisbewijs «scheepsgezondheidszorg-O (onbeperkt)», bedoeld in artikel 69, tweede lid. Indien aan het schip een certificaat van deugdelijkheid voor beperkt vaargebied is afgegeven in die zin dat het schip uitsluitend reizen onderneemt in zeegebied A2, zoals omschreven in [artikel 2 van Bijlage V van het Schepenbesluit 1965](../../../../../../../rijksKB/schepenbesluit/1965/BWBR0002501/README.md), kan worden volstaan met het bezit van het kennisbewijs «scheepsgezondheidszorg-B (beperkt)», bedoeld in artikel 69, eerste lid.   
+1.  De kapitein en het bemanningslid aan wie door de kapitein, onder diens verantwoordelijkheid, de zorg voor het gebruik en het beheer van de medische uitrusting is opgedragen, zijn in het bezit van het kennisbewijs «scheepsgezondheidszorg-O (onbeperkt)», bedoeld in artikel 69, tweede lid. Indien aan het schip een certificaat van deugdelijkheid voor beperkt vaargebied is afgegeven in die zin dat het schip uitsluitend reizen onderneemt in zeegebied A2, zoals omschreven in artikel 2 van Bijlage V van het Schepenbesluit 1965, kan worden volstaan met het bezit van het kennisbewijs «scheepsgezondheidszorg-B (beperkt)», bedoeld in artikel 69, eerste lid.   
 2.  Voor de toepassing van het eerste lid worden bezitters van de kennisbewijzen «maritiem officier», «middelbaar maritiem officier», «stuurman werktuigkundige kleine schepen», «baggeraar-stuurman», «wachtstuurman», en «stuurman grote zeilvaart» en het diploma als derde stuurman voor de grote handelsvaart gelijkgesteld met degenen aan wie het kennisbewijs «scheepsgezondheidszorg-B», bedoeld in artikel 69, eerste lid, is afgegeven.   
 3.  De in het eerste lid bedoelde personen volgen ten minste eenmaal in de vijf jaar een bijscholingscursus als bedoeld in artikel 69, derde lid, die voor personen aan boord van schip met een certificaat van deugdelijkheid voor onbeperkt vaargebied mede een herhalingsstage, bedoeld in artikel 69, vierde lid, omvat.   
 4.  Bij landsbesluit, houdende algemene maatregelen, kunnen nadere regels worden gesteld ter uitvoering van dit artikel.  
@@ -1082,7 +1082,7 @@ De documenten, houdende de minimum voorgeschreven bemanningssamenstelling met de
 
 ### Artikel  99  
 
-1.  De verklaringen van geschiktheid en bekwaamheid, die op grond van [Hoofdstuk VII van het Schepenbesluit 1965](../../../../../../../rijksKB/schepenbesluit/1965/BWBR0002501/README.md) zijn afgegeven vóór de datum van inwerkingtreding van dit besluit, behouden hun geldigheidsduur overeenkomstig de daarop aangegeven datum van het verstrijken van de geldigheid.   
+1.  De verklaringen van geschiktheid en bekwaamheid, die op grond van Hoofdstuk VII van het Schepenbesluit 1965 zijn afgegeven vóór de datum van inwerkingtreding van dit besluit, behouden hun geldigheidsduur overeenkomstig de daarop aangegeven datum van het verstrijken van de geldigheid.   
 2.  Verklaringen van geschiktheid en bekwaamheid, waarop geen datum van het verstrijken van de geldigheidsduur is vermeld, zijn geldig tot de eerste dag van de maand, volgend op die van het bereiken van het 65ste jaar van de houder.  
 
 ### Artikel  100  
@@ -1095,7 +1095,7 @@ Op aanvragen voor bemanningsdocumenten, verklaringen van geschiktheid en bekwaam
 
 ### Artikel  102  
 
-1.  De houders van een verklaring van geschiktheid en bekwaamheid als vermeld in kolom I, afgegeven op grond van [artikel 119 van het Schepenbesluit 1965](../../../../../../../rijksKB/schepenbesluit/1965/BWBR0002501/README.md), zoals dit luidde vóór de inwerkingtreding van dit besluit, hebben aanspraak op de bevoegdheid met de beperkingen als, vermeld in kolom II van onderstaande tabel:  
+1.  De houders van een verklaring van geschiktheid en bekwaamheid als vermeld in kolom I, afgegeven op grond van artikel 119 van het Schepenbesluit 1965, zoals dit luidde vóór de inwerkingtreding van dit besluit, hebben aanspraak op de bevoegdheid met de beperkingen als, vermeld in kolom II van onderstaande tabel:  
 
 |  Kolom I  | Kolom II  |
 |:---|:---|

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Defensie van 18 maart 1991, Directoraat-Generaal Personeel, Directie Arbeidsvoorwaardenbeleid, Afdeling Beleid en Management Postaktieven, nr. D 91/100/5753;
 
-Gelet op [artikel 12 van de Militaire Ambtenarenwet 1931](../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) *Stb.* 519);
+Gelet op artikel 12 van de Militaire Ambtenarenwet 1931 *Stb.* 519);
 
 De Raad van State gehoord (advies van 13 augustus 1991, nr. WO7.91.0152);
 
@@ -27,7 +27,7 @@ De op 1 april 1991 lopende militaire wachtgelden worden te rekenen van die datum
 
 ### Artikel  IV  
 
-De [artikelen 8 en 9 van de Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht](../../../../../../AMvB/premieregeling/en/aanvullende/voorzieningen/beroepsmilitairen/van/de/etc/BWBR0003538/README.md) 1982 (*Stb.* 648), zoals die artikelen voor de bij dit besluit aangebrachte wijzigingen luidden, blijven van kracht voor de daarin bedoelde voor 1 april 1991 ontslagen militair. 
+De artikelen 8 en 9 van de Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht 1982 (*Stb.* 648), zoals die artikelen voor de bij dit besluit aangebrachte wijzigingen luidden, blijven van kracht voor de daarin bedoelde voor 1 april 1991 ontslagen militair. 
 
 ### Artikel  V  
 

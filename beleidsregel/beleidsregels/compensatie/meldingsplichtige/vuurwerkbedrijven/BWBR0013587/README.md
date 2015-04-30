@@ -11,19 +11,19 @@ De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  Besluit
 
 ####Begripsomschrijvingen
 
-In deze beleidsregels wordt verstaan onder: a.*de minister:* de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;b.*verzoeker:* degene die een inrichting drijft, waar ten hoogste 1000 kilogram consumentenvuurwerk wordt opgeslagen en als zodanig een melding heeft gedaan aan het bevoegd gezag als bedoeld in artikel 4 van het Besluit opslag vuurwerk milieubeheer;c.*inkomensschade:* verlies van het inkomen uit opslag en verkoop van consumentenvuurwerk door het niet meer kunnen opslaan en verkopen van vuurwerk;d.*desinvesteringsschade:* de resterende fiscale boekwaarde van de onderdelen van het verkooppunt en de opslag die uitsluitend worden benut dan wel zijn aangeschaft met het oog op de verkoop van vuurwerk en welke door inwerkingtreding van het [Vuurwerkbesluit](../../../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md) overbodig of waardeloos zijn geworden.  
+In deze beleidsregels wordt verstaan onder: a.*de minister:* de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;b.*verzoeker:* degene die een inrichting drijft, waar ten hoogste 1000 kilogram consumentenvuurwerk wordt opgeslagen en als zodanig een melding heeft gedaan aan het bevoegd gezag als bedoeld in artikel 4 van het Besluit opslag vuurwerk milieubeheer;c.*inkomensschade:* verlies van het inkomen uit opslag en verkoop van consumentenvuurwerk door het niet meer kunnen opslaan en verkopen van vuurwerk;d.*desinvesteringsschade:* de resterende fiscale boekwaarde van de onderdelen van het verkooppunt en de opslag die uitsluitend worden benut dan wel zijn aangeschaft met het oog op de verkoop van vuurwerk en welke door inwerkingtreding van het Vuurwerkbesluit overbodig of waardeloos zijn geworden.  
 
 ### Artikel  2  
 
 ####Schade
 
-Er wordt slechts schade vergoed aan een verzoeker, die direct schade lijdt ten gevolge van het niet kunnen voldoen aan [artikel 2.2.1 van het Vuurwerkbesluit](../../../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md). De vergoeding kan uitsluitend omvatten inkomensschade en desinvesteringsschade, die ontstaat door het noodgedwongen moeten beëindigen van de opslag en verkoop van consumentenvuurwerk op de huidige locatie. 
+Er wordt slechts schade vergoed aan een verzoeker, die direct schade lijdt ten gevolge van het niet kunnen voldoen aan artikel 2.2.1 van het Vuurwerkbesluit. De vergoeding kan uitsluitend omvatten inkomensschade en desinvesteringsschade, die ontstaat door het noodgedwongen moeten beëindigen van de opslag en verkoop van consumentenvuurwerk op de huidige locatie. 
 
 ### Artikel  3  
 
 ####Niet in aanmerking komende schade
 
-Geen vergoeding wordt toegekend voor binnen het normale maatschappelijke risico of het ondernemersrisico vallende schade en schade die niet rechtstreeks voortvloeit uit de eisen van het [Vuurwerkbesluit](../../../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md). 
+Geen vergoeding wordt toegekend voor binnen het normale maatschappelijke risico of het ondernemersrisico vallende schade en schade die niet rechtstreeks voortvloeit uit de eisen van het Vuurwerkbesluit. 
 
 ### Hoofdstuk 2 
 
@@ -36,7 +36,7 @@ Geen vergoeding wordt toegekend voor binnen het normale maatschappelijke risico 
 1.  Het verzoek om schadevergoeding wordt gedaan door het indienen van een correct en volledig ingevuld en ondertekend exemplaar van het door de minister vastgestelde formulier. De verzoeker omkleedt zijn verzoek om schadevergoeding met redenen.   
 2.  Het formulier, bedoeld in het eerste lid, kan worden verkregen bij het bevoegd gezag, bij de uitvoeringsinstantie Senter en via internet (www.senter.nl).   
 3.  Het verzoek om schadevergoeding wordt gericht aan de minister en wordt zo spoedig mogelijk doch uiterlijk op 31 december 2004 door middel van het formulier zoals genoemd in het eerste lid ingediend bij Senter, postbus 10073, 8000 GB te Zwolle.   
-4.  Bij het formulier dienen in ieder geval gevoegd te zijn: een accountantsverklaring en een verklaring van het bevoegd gezag dat de betreffende locatie niet voldoet aan de ingevolge het [Vuurwerkbesluit](../../../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md) gestelde eisen en niet zodanig is aan te passen dat wel aan voornoemde eisen wordt voldaan.  
+4.  Bij het formulier dienen in ieder geval gevoegd te zijn: een accountantsverklaring en een verklaring van het bevoegd gezag dat de betreffende locatie niet voldoet aan de ingevolge het Vuurwerkbesluit gestelde eisen en niet zodanig is aan te passen dat wel aan voornoemde eisen wordt voldaan.  
 
 ### Artikel  5  
 

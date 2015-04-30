@@ -7,7 +7,7 @@ Gelet op Resolutie 1022 (1995) van de Veiligheidsraad van de Verenigde Naties;
 
 Gelet op verordening (EG) nr. 462/96 van de Raad van de Europese Unie van 11 maart 1996 tot opschorting van verordening (EEG) nr. 990/93 en verordening (EG) nr. 2471/94 van de Raad van de Europese Unie;
 
-Gelet op [artikel 7 van de Sanctiewet 1977](../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md);
+Gelet op artikel 7 van de Sanctiewet 1977;
 Besluiten:     
 
 ###Artikel  1  

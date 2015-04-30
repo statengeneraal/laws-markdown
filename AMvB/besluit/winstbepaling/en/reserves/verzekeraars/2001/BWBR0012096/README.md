@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Financiën van 20 november 2000, nr. WDB2000/873 M, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Directe Belastingen;
 
-Gelet op [artikel 29, onderdeel a, van de Wet op de vennootschapsbelasting 1969](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md);
+Gelet op artikel 29, onderdeel a, van de Wet op de vennootschapsbelasting 1969;
 
 De Raad van State gehoord (advies van 13 december 2000, nr. W06.00.0539/IV);
 
@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 ####Reikwijdte en definities
 
-1.  Dit besluit geeft uitvoering aan [artikel 29, onderdeel a, van de Wet op de vennootschapsbelasting 1969](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).   
+1.  Dit besluit geeft uitvoering aan artikel 29, onderdeel a, van de Wet op de vennootschapsbelasting 1969.   
 2.  In dit besluit wordt verstaan onder: 
 
 a. levensverzekeraar: een belastingplichtige die het levensverzekeringsbedrijf uitoefent;  
@@ -202,7 +202,7 @@ Voorzover het negatieve technische resultaat van atoomverzekeringen de calamitei
 
 ####Belastingpercentage
 
-Voor de berekening van de voor opneming in de egalisatiereserve en in de calamiteitenreserve beschikbare over het jaar genoten winst wordt de belasting gesteld op H percent van het belastbare bedrag of het belastbare binnenlandse bedrag. Daarbij staat H voor het percentage van het hoogste tarief, bedoeld in [artikel 22 van de wet](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), geldend voor het jaar waarin de winst is genoten. 
+Voor de berekening van de voor opneming in de egalisatiereserve en in de calamiteitenreserve beschikbare over het jaar genoten winst wordt de belasting gesteld op H percent van het belastbare bedrag of het belastbare binnenlandse bedrag. Daarbij staat H voor het percentage van het hoogste tarief, bedoeld in artikel 22 van de wet, geldend voor het jaar waarin de winst is genoten. 
 
 ### Artikel  18  
 
@@ -217,7 +217,7 @@ b. artikel 9, eerste lid, onderdeel a, onder 2°, het aldaar bedoelde maximum va
 c. artikel 9, eerste lid, onderdeel b, het aldaar bedoelde maximum van de jaarlijkse toevoeging aan de egalisatiereserve, behoudens voor de toepassing van artikel 10, eerste lid, onderdeel a, onder 2°, gesteld op 45 percent van de voor opneming in de reserve beschikbare over het jaar genoten winst, berekend zonder toepassing van artikel 10.     
 2.  Ingeval een schadeverzekeraar uitsluitend of nagenoeg uitsluitend kredietschade verzekert, wordt in afwijking in zoverre van: 
 
-a. artikel 8, tweede lid, het maximum van de egalisatiereserve gesteld op 134 percent van het gemiddelde van de tijdens de vijf voorgaande boekjaren jaarlijks geboekte premies, verminderd met de voorziening voor te betalen schaden of voor te betalen uitkeringen bedoeld in [artikel 4, eerste lid, van het Besluit technische voorzieningen verzekeringsbedrijf 1994](../../../../../../../../AMvB/besluit/technische/voorzieningen/verzekeringsbedrijf/1994/BWBR0006732/README.md);  
+a. artikel 8, tweede lid, het maximum van de egalisatiereserve gesteld op 134 percent van het gemiddelde van de tijdens de vijf voorgaande boekjaren jaarlijks geboekte premies, verminderd met de voorziening voor te betalen schaden of voor te betalen uitkeringen bedoeld in artikel 4, eerste lid, van het Besluit technische voorzieningen verzekeringsbedrijf 1994;  
 
 b. artikel 9, eerste lid, onderdeel a, onder 2°, het aldaar bedoelde maximum van de jaarlijkse toevoeging aan de egalisatiereserve gesteld op 25 percent van het in onderdeel a aan de reserve gestelde maximum;   
 
@@ -232,7 +232,7 @@ b. artikel 11, eerste lid, onderdeel a, onder 2°, de aldaar bedoelde toevoeging
 
 ####Fiscale eenheid
 
-Ingeval [artikel 15 van de Wet op de vennootschapsbelasting 1969](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) toepassing vindt ten aanzien van twee of meer vennootschappen die niet allen hetzij levensverzekeraar, hetzij natura-uitvaartverzekeraar, hetzij schadeverzekeraar zijn, vinden de in dit besluit – met uitzondering van artikel 9, tweede lid, artikel 10, tweede lid, en artikel 18 – gegeven voorschriften, voorzover zij niet reeds van toepassing zijn, overeenkomstige toepassing met dien verstande dat, in afwijking in zoverre van: 
+Ingeval artikel 15 van de Wet op de vennootschapsbelasting 1969 toepassing vindt ten aanzien van twee of meer vennootschappen die niet allen hetzij levensverzekeraar, hetzij natura-uitvaartverzekeraar, hetzij schadeverzekeraar zijn, vinden de in dit besluit – met uitzondering van artikel 9, tweede lid, artikel 10, tweede lid, en artikel 18 – gegeven voorschriften, voorzover zij niet reeds van toepassing zijn, overeenkomstige toepassing met dien verstande dat, in afwijking in zoverre van: 
 
 a. artikel 8, het maximum van de egalisatiereserve wordt gesteld op de som van de in dat artikel gestelde maxima voor onderscheidenlijk een levensverzekeraar, een natura-uitvaartverzekeraar en een schadeverzekeraar;  
 

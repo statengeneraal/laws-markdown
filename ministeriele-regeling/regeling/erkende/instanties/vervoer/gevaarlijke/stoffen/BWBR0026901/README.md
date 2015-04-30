@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Verkeer en Waterstaat, houdende regels omtrent erkenning en toezicht op erkende instanties inzake het vervoer van gevaarlijke stoffen (Regeling erkende instanties vervoer gevaarlijke stoffen)
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 10a](../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) en [34 van de Wet vervoer gevaarlijke stoffen](../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md);
+Gelet op de artikelen 10a en 34 van de Wet vervoer gevaarlijke stoffen;
 Besluit:     
 ### §  1  
 
@@ -15,9 +15,9 @@ In deze regeling wordt verstaan onder:
 
 *onderneming:* onderneming als bedoeld in artikel 5 van de Handelsregisterwet, met privaatrechtelijke rechtspersoonlijkheid;  
 
-*wet:* [Wet vervoer gevaarlijke stoffen](../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md);  
+*wet:* Wet vervoer gevaarlijke stoffen;  
 
-*erkenning:* erkenning als bedoeld in [artikel 10a van de wet](../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md);  
+*erkenning:* erkenning als bedoeld in artikel 10a van de wet;  
 
 *erkende instantie:* onderneming die beschikt over een geldige erkenning;  
 
@@ -92,7 +92,7 @@ De erkende instantie beschikt over een geschikt kwaliteitsborgingsysteem, schrif
 
 ### Artikel  11  
 
-De erkende instantie draagt zorg voor uitvoering van handelingen als bedoeld in artikel 2, tweede lid, in overeenstemming met de geldende voorschriften, waaronder in elk geval die in de [Regeling vervoer over de binnenwateren van gevaarlijke stoffen](../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/binnenwateren/van/gevaarlijke/stoffen/BWBR0010115/README.md), de [Regeling vervoer over land van gevaarlijke stoffen](../../../../../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md), de [Regeling vervoer over de spoorweg van gevaarlijke stoffen](../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md) of de IMSBC-Code. 
+De erkende instantie draagt zorg voor uitvoering van handelingen als bedoeld in artikel 2, tweede lid, in overeenstemming met de geldende voorschriften, waaronder in elk geval die in de Regeling vervoer over de binnenwateren van gevaarlijke stoffen, de Regeling vervoer over land van gevaarlijke stoffen, de Regeling vervoer over de spoorweg van gevaarlijke stoffen of de IMSBC-Code. 
 
 ### Artikel  12  
 
@@ -143,11 +143,11 @@ e. de erkende instantie waarborgt dat geen verdere onderaanbesteding dan de onde
 
 1.  Bij het eerste verlenen van een erkenning met toepassing van deze regeling vervalt een erkenning voor die onderneming, genoemd in: 
 
-a. artikel 1 van [bijlage 4 bij de Regeling vervoer over de binnenwateren van gevaarlijke stoffen](../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/binnenwateren/van/gevaarlijke/stoffen/BWBR0010115/README.md);  
+a. artikel 1 van bijlage 4 bij de Regeling vervoer over de binnenwateren van gevaarlijke stoffen;  
 
-b. artikel 1 van [bijlage 3 bij de Regeling vervoer over land van gevaarlijke stoffen](../../../../../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md), of  
+b. artikel 1 van bijlage 3 bij de Regeling vervoer over land van gevaarlijke stoffen, of  
 
-c. artikel 1 van [bijlage 3 bij de Regeling vervoer over de spoorweg van gevaarlijke stoffen](../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md),   zoals die luidden tot het moment van inwerkingtreding van deze regeling.   
+c. artikel 1 van bijlage 3 bij de Regeling vervoer over de spoorweg van gevaarlijke stoffen,   zoals die luidden tot het moment van inwerkingtreding van deze regeling.   
 2.  Een erkenning als bedoeld in de in het eerste lid, onder a tot en met c, genoemde regelingen, vervalt in elk geval met ingang van twee jaar na de datum waarop deze regeling in werking is getreden.  
 
 ### Artikel  19a  

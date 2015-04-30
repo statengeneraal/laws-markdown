@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Defensie van 28 juni 1960, Directie Militair Personeel, nr. P. 118.307/B;
 
-Gelet op [artikel 12 van de Militaire Ambtenarenwet 1931](../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md);
+Gelet op artikel 12 van de Militaire Ambtenarenwet 1931;
 
 Gezien het verslag van de Commissie B voor georganiseerd overleg in zaken van belang voor de rechtstoestand van militairen;
 

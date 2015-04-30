@@ -20,9 +20,9 @@ c.  het Uitkeringsbesluit burgerlijke ambtenaren defensie;
 
 d.  het Wachtgeld- en Uitkeringsbesluit burgerlijke ambtenaren defensie bij privatisering; 
 
-e.  het [Werkloosheidsbesluit defensiepersoneel](../../../../../../AMvB/werkloosheidsbesluit/defensiepersoneel/BWBR0008113/README.md) (vanaf 1 juli 1996); 
+e.  het Werkloosheidsbesluit defensiepersoneel (vanaf 1 juli 1996); 
 
-f.  het [Besluit aanvulling arbeidsongeschiktheidsuitkering burgerlijke ambtenaren defensie](../../../../../../AMvB/besluit/aanvulling/arbeidsongeschiktheidsuitkering/burgerlijke/ambtenaren/etc/BWBR0006043/README.md); 
+f.  het Besluit aanvulling arbeidsongeschiktheidsuitkering burgerlijke ambtenaren defensie; 
 
 g.  de Uitstroom bevorderende maatregel; 
 
@@ -34,21 +34,21 @@ j.  het Besluit aanvulling arbeidsongeschiktheidsuitkering militairen;
 
 k.  de Militaire wachtgeldregeling 1961; 
 
-l.  het [Werkloosheidsbesluit beroepsmilitairen bepaalde tijd](../../../../../../AMvB/werkloosheidsbesluit/beroepsmilitairen/bepaalde/tijd/BWBR0007212/README.md); 
+l.  het Werkloosheidsbesluit beroepsmilitairen bepaalde tijd; 
 
-m.  de [Uitkeringswet gewezen militairen](../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md); 
+m.  de Uitkeringswet gewezen militairen; 
 
-n.  [artikel 124 van het Burgerlijk ambtenarenreglement Defensie](../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md); 
+n.  artikel 124 van het Burgerlijk ambtenarenreglement Defensie; 
 
-o.  de Regeling gezondheidszorg, de Regeling dienstverbandaanspraken geneeskundige verzorging, [artikel 90, negende lid, van het Algemeen militair ambtenarenreglement](../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) en de [Algemene wet bijzondere Ziektekosten](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md); 
+o.  de Regeling gezondheidszorg, de Regeling dienstverbandaanspraken geneeskundige verzorging, artikel 90, negende lid, van het Algemeen militair ambtenarenreglement en de Algemene wet bijzondere Ziektekosten; 
 
 p.  de Regeling dienstverbandaanspraken geneeskundige verzorging; 
 
 q.  de artikelen 83 tot en met 85 van het Reglement rechtstoestand dienstplichtigen; 
 
-r.  de [artikelen 120 tot en met 125 Algemeen militair ambtenarenreglement](../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md); 
+r.  de artikelen 120 tot en met 125 Algemeen militair ambtenarenreglement; 
 
-s.  [artikel 147 van het Algemeen militair ambtenarenreglement](../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) (Regeling processen-verbaal inzake aan militairen overkomen ongevallen), artikel 103 van het Reglement rechtstoestand dienstplichtigen; 
+s.  artikel 147 van het Algemeen militair ambtenarenreglement (Regeling processen-verbaal inzake aan militairen overkomen ongevallen), artikel 103 van het Reglement rechtstoestand dienstplichtigen; 
 
 t.  het Besluit van 20 juni 1984, houdende vaststelling van een Algemene maatregel van bestuur, regelende de vergoeding motorrijtuigenbelasting voor oorlogsgetroffenen 1940-1945; 
 

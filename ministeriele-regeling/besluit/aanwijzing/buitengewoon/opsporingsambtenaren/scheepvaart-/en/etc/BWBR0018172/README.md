@@ -5,20 +5,20 @@
 De Minister van Justitie,
 Handelende in overeenstemming met de Minister van Sociale Zaken en Werkgelegenheid en de Minister van Verkeer en Waterstaat;
 
-Gelet op de [artikelen 1, onder ten vierde](../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md), en [17, eerste lid, onder ten tweede, van de Wet op de economische delicten](../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md);
+Gelet op de artikelen 1, onder ten vierde, en 17, eerste lid, onder ten tweede, van de Wet op de economische delicten;
 Besluit:
 
 ###Artikel 1 
 
-De ambtenaren van de divisie Scheepvaart van Inspectie Verkeer en Waterstaat, bedoeld in [artikel 10 van de Schepenwet](../../../../../../../../../rijkswet/schepenwet/BWBR0001876/README.md), worden aangewezen als ambtenaren belast met de opsporing van overtredingen van voorschriften, gesteld bij of krachtens de Arbeidsomstandighedenwet, voor zover deze overtredingen economische delicten zijn in de zin van [artikel 1 van de Wet op de economische delicten](../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).
+De ambtenaren van de divisie Scheepvaart van Inspectie Verkeer en Waterstaat, bedoeld in artikel 10 van de Schepenwet, worden aangewezen als ambtenaren belast met de opsporing van overtredingen van voorschriften, gesteld bij of krachtens de Arbeidsomstandighedenwet, voor zover deze overtredingen economische delicten zijn in de zin van artikel 1 van de Wet op de economische delicten.
 
 ###Artikel 2 
 
-De ambtenaren van de divisie Luchtvaart van de Inspectie Verkeer en Waterstaat, aangewezen op grond van [artikel 71 van de Luchtvaartwet](../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) en bedoeld in [artikel 102 van de Regeling Toezicht Luchtvaart](../../../../../../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md), worden aangewezen als ambtenaren belast met de opsporing van overtredingen van voorschriften, gesteld bij of krachtens de Arbeidsomstandighedenwet, voor zover deze overtredingen economische delicten zijn in de zin van [artikel 1 van de Wet op de economische delicten](../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).
+De ambtenaren van de divisie Luchtvaart van de Inspectie Verkeer en Waterstaat, aangewezen op grond van artikel 71 van de Luchtvaartwet en bedoeld in artikel 102 van de Regeling Toezicht Luchtvaart, worden aangewezen als ambtenaren belast met de opsporing van overtredingen van voorschriften, gesteld bij of krachtens de Arbeidsomstandighedenwet, voor zover deze overtredingen economische delicten zijn in de zin van artikel 1 van de Wet op de economische delicten.
 
 ###Artikel 3 
 
-Het [besluit van de Minister van Justitie van 20 december 1991, nr. 175864/91/Pol houdende de aanwijzing van bijzonder opsporingsambtenaren Scheepvaart- en Luchtvaartinspectie](../../../../../../../../../ministeriele-regeling/aanwijzingsbeschikking/bijzonder/opsporingsambtenaar/scheepvaart-/en/etc/BWBR0005351/README.md) wordt ingetrokken.
+Het besluit van de Minister van Justitie van 20 december 1991, nr. 175864/91/Pol houdende de aanwijzing van bijzonder opsporingsambtenaren Scheepvaart- en Luchtvaartinspectie wordt ingetrokken.
 
 ###Artikel 4 
 

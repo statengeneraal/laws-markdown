@@ -20,7 +20,8 @@ Besluit:
 
 a.  eet- of drinkwaren die worden aangeboden als vervanging van de dagelijkse voeding; 
 
-b.  eet- of drinkwaren die worden aangeboden als vervanging van één of meer maaltijden van de dagelijkse voeding.   
+b.  eet- of drinkwaren die worden aangeboden als vervanging van één of meer maaltijden van de dagelijkse voeding.    
+3.   In deze regeling wordt verstaan onder verordening (EU) 1169/2011: Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van Verordeningen (EG) nr. 1924/2006 en (EG) nr. 1925/2006 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 87/250/EEG van de Commissie, Richtlijn 90/496/EEG van de Raad, Richtlijn 1999/10/EG van de Commissie, Richtlijn 2000/13/EG van het Europees Parlement en de Raad, Richtlijnen 2002/67/EG en 2008/5/EG van de Commissie, en Verordening (EG) nr. 608/2004 van de Commissie (PbEU 2011, L 304).  
 
 ### §  2 
 
@@ -58,19 +59,19 @@ b.  voor de in artikel 1, tweede lid, onder b, bedoelde eet- of drinkwaren: maal
 
 Bij de in deze regeling bedoelde eet- of drinkwaren wordt geen vermelding gebezigd inzake de snelheid of de mate van gewichtsverlies als gevolg van het nuttigen van deze eet- of drinkwaren. 
 
-###Artikel 6 
+### Artikel  6  
 
-Onverminderd het Warenwetbesluit Etikettering van levensmiddelen worden bij de verhandeling van de in deze regeling bedoelde eet- of drinkwaren de volgende vermeldingen gebezigd:
+Onverminderd verordening (EU) 1169/2011 worden bij de verhandeling van de in deze regeling bedoelde eet- of drinkwaren de volgende vermeldingen gebezigd: 
 
-a. de in kJ en kcal uitgedrukte energie-inhoud en het in numerieke vorm uitgedrukte gehalte aan eiwitten, koolhydraten en vetten per aangegeven hoeveelheid van de voor consumptie gerede waar;
+a.  de in kJ en kcal uitgedrukte energie-inhoud en het in numerieke vorm uitgedrukte gehalte aan eiwitten, koolhydraten en vetten per aangegeven hoeveelheid van de voor consumptie gerede waar; 
 
-b. de in numerieke vorm uitgedrukte gemiddelde hoeveelheid van ieder mineraal en vitamine genoemd in bijlage I, punt 5, per aangegeven hoeveelheid van de voor consumptie gerede waar;
+b.  de in numerieke vorm uitgedrukte gemiddelde hoeveelheid van ieder mineraal en vitamine genoemd in bijlage I, punt 5, per aangegeven hoeveelheid van de voor consumptie gerede waar; 
 
-c. indien nodig, aanwijzingen voor de juiste bereiding en een verklaring dat het belangrijk is deze aanwijzingen op te volgen;
+c.  indien nodig, aanwijzingen voor de juiste bereiding en een verklaring dat het belangrijk is deze aanwijzingen op te volgen; 
 
-d. indien gebruik volgens de aanwijzingen van de fabrikant leidt tot inname van een dagelijkse hoeveelheid polyolen van meer dan 20 g, de vermelding dat de waar een laxerende werking kan hebben; en
+d.  indien gebruik volgens de aanwijzingen van de fabrikant leidt tot inname van een dagelijkse hoeveelheid polyolen van meer dan 20 g, de vermelding dat de waar een laxerende werking kan hebben; en 
 
-e. een vermelding dat het belangrijk is dat de gebruiker dagelijks een voldoende hoeveelheid vocht binnenkrijgt.
+e.  een vermelding dat het belangrijk is dat de gebruiker dagelijks een voldoende hoeveelheid vocht binnenkrijgt.  
 
 ### Artikel  7  
 

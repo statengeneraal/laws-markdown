@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 4 november 1997, nr. SV/WV/97/4413; 
 
-Gelet op artikel 8, elfde lid, van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md); 
+Gelet op artikel 8, elfde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen; 
 
 De Raad van State gehoord (advies van 5 december 1997, no. W12.97.0713); 
 
@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 ####Algemeen 
 
-In dit besluit wordt verstaan onder de Wet: de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md). 
+In dit besluit wordt verstaan onder de Wet: de Wet arbeidsongeschiktheidsverzekering zelfstandigen. 
 
 ###Artikel 2 
 
@@ -25,20 +25,20 @@ In dit besluit wordt verstaan onder de Wet: de [Wet arbeidsongeschiktheidsverzek
 
 1. Voor de toepassing van artikel 8, tweede lid, van de Wet worden onder winst mede verstaan: 
 
-a.algemene bijstand als bedoeld in [artikel 2, eerste lid, van het Besluit bijstandverlening zelfstandigen 2004](../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md); 
+a.algemene bijstand als bedoeld in artikel 2, eerste lid, van het Besluit bijstandverlening zelfstandigen 2004; 
 
-b.bijstand om niet als bedoeld in [artikelen 3](../../../../AMvB/besluit/bijstandverlening/zelfstandigen/BWBR0007335/README.md) en [21 van het Besluit bijstandverlening zelfstandigen](../../../../AMvB/besluit/bijstandverlening/zelfstandigen/BWBR0007335/README.md). 
-2. Onder winst worden niet verstaan de bestanddelen van de winst, bedoeld in [artikel 3.78, derde lid, onderdelen a, b en c, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).
+b.bijstand om niet als bedoeld in artikelen 3 en 21 van het Besluit bijstandverlening zelfstandigen. 
+2. Onder winst worden niet verstaan de bestanddelen van de winst, bedoeld in artikel 3.78, derde lid, onderdelen a, b en c, van de Wet inkomstenbelasting 2001.
 
 ###Artikel 3 
 
-Voor de toepassing van [artikel 8, derde lid, van de Wet](../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) wordt voor de vaststelling van de grondslag waarnaar de arbeidsongeschiktheidsuitkering wordt berekend, onder inkomsten verstaan al hetgeen anders dan uit dienstbetrekking wordt genoten als belastbaar loon uit tegenwoordige arbeid of belastbaar resultaat uit overige werkzaamheden, bedoeld in [hoofdstuk 3](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [7 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), behoudens voorzover het een werkzaamheid betreft als bedoeld in de [artikelen 3.91, eerste lid, onderdelen a en b](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en [3.92 van die wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).
+Voor de toepassing van artikel 8, derde lid, van de Wet wordt voor de vaststelling van de grondslag waarnaar de arbeidsongeschiktheidsuitkering wordt berekend, onder inkomsten verstaan al hetgeen anders dan uit dienstbetrekking wordt genoten als belastbaar loon uit tegenwoordige arbeid of belastbaar resultaat uit overige werkzaamheden, bedoeld in hoofdstuk 3 en 7 van de Wet inkomstenbelasting 2001, behoudens voorzover het een werkzaamheid betreft als bedoeld in de artikelen 3.91, eerste lid, onderdelen a en b, en 3.92 van die wet.
 
 ###Artikel 4 
 
-####Grondslag bij toepassing [artikel 12a van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)
+####Grondslag bij toepassing artikel 12a van de Wet op de loonbelasting 1964
 
-Zonodig in afwijking van artikel 3 wordt voor de verzekerde, ten aanzien van wie [artikel 12a van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) toepassing heeft gevonden in het kalenderjaar onmiddellijk voorafgaande aan het intreden van zijn arbeidsongeschiktheid, de grondslag waarnaar de arbeidsongeschiktheidsuitkering wordt berekend gesteld op het bedrag van het in dat kalenderjaar genoten loon, vastgesteld op grond van dit [artikel 12a](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), onverminderd [artikel 8, zevende lid, van de Wet](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).
+Zonodig in afwijking van artikel 3 wordt voor de verzekerde, ten aanzien van wie artikel 12a van de Wet op de loonbelasting 1964 toepassing heeft gevonden in het kalenderjaar onmiddellijk voorafgaande aan het intreden van zijn arbeidsongeschiktheid, de grondslag waarnaar de arbeidsongeschiktheidsuitkering wordt berekend gesteld op het bedrag van het in dat kalenderjaar genoten loon, vastgesteld op grond van dit artikel 12a, onverminderd artikel 8, zevende lid, van de Wet.
 
 ### Artikel  5  
 
@@ -87,14 +87,14 @@ Indien de totaalsom van de door een verzekerde als zodanig verworven winst en in
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen kan afwijken van artikel 8 van de Wet of dit besluit voor zover de toepassing daarvan, gelet op het tijdstip van verwerving van een bestanddeel van de winst of de inkomsten, zal leiden tot een onbillijkheid van overwegende aard. Alsdan bepaalt het Uitvoeringsinstituut werknemersverzekeringen op welke periode dat bestanddeel betrekking heeft en hoe dit bestanddeel is verdeeld over die periode. 
 2. Het Uitvoeringsinstituut werknemersverzekeringen kan afwijken van artikel 7 van dit besluit voor zover toepassing daarvan, gelet op de berekening van de gemiddeld per dag genoten winst of inkomsten, zal leiden tot een onbillijkheid van overwegende aard. Alsdan bepaalt het Uitvoeringsinstituut werknemersverzekeringen een ander getal dan het getal, genoemd in artikel 7, eerste of tweede lid. 
-3. Het Uitvoeringsinstituut werknemersverzekeringen kan afwijken van [artikel 8, tweede lid, onderdeel a, of derde lid, onderdeel a, van de Wet](../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) of dit besluit voor zover de toepassing daarvan, gelet op het tijdstip waarop de arbeidsongeschiktheid is ingetreden, zal leiden tot een onbillijkheid van overwegende aard. Alsdan bepaalt het Uitvoeringsinstituut werknemersverzekeringen in plaats van het boekjaar of kalenderjaar een andere aaneengesloten periode van 12 maanden waarover de grondslag van de uitkering wordt berekend, welke periode evenwel ingaat na de dag van ingang van bedoeld boekjaar of kalenderjaar. 
+3. Het Uitvoeringsinstituut werknemersverzekeringen kan afwijken van artikel 8, tweede lid, onderdeel a, of derde lid, onderdeel a, van de Wet of dit besluit voor zover de toepassing daarvan, gelet op het tijdstip waarop de arbeidsongeschiktheid is ingetreden, zal leiden tot een onbillijkheid van overwegende aard. Alsdan bepaalt het Uitvoeringsinstituut werknemersverzekeringen in plaats van het boekjaar of kalenderjaar een andere aaneengesloten periode van 12 maanden waarover de grondslag van de uitkering wordt berekend, welke periode evenwel ingaat na de dag van ingang van bedoeld boekjaar of kalenderjaar. 
 4. In het derde lid, tweede zin, wordt in het geval van recht op uitkering in verband met bevalling voor «welke periode evenwel ingaat na de dag van ingang van bedoeld boekjaar of kalenderjaar» gelezen: welke periode evenwel ingaat uiterlijk 12 maanden voor de maand waarin de zwangerschap een aanvang nam. 
 
 ###Artikel 11 
 
 ####Grondslagwijziging amvb in verband met Aanpassingswet 
 
-Indien het bij koninklijke boodschap van 21 juni 1997 ingediende voorstel van wet tot aanpassing van een aantal wetten in verband met de invoering van de [Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen](../../../../wet/wet/premiedifferentiatie/en/marktwerking/bij/etc/BWBR0008655/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en de Organisatiewet sociale verzekeringen 1997 (Aanpassingswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen: kamerstuk nr. 25 415) tot wet wordt verheven en in werking treedt, berust dit besluit op artikel 8, achttiende lid, van de Wet. 
+Indien het bij koninklijke boodschap van 21 juni 1997 ingediende voorstel van wet tot aanpassing van een aantal wetten in verband met de invoering van de Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en de Organisatiewet sociale verzekeringen 1997 (Aanpassingswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen: kamerstuk nr. 25 415) tot wet wordt verheven en in werking treedt, berust dit besluit op artikel 8, achttiende lid, van de Wet. 
 
 ###Artikel 12 
 

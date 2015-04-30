@@ -316,7 +316,7 @@ Indien een lopend invaliditeits- of nabestaandenpensioen krachtens een vroegere 
 
 ####Voorzieningen en verstrekkingen
 
-In aanvulling op de bij of krachtens de Wet maatschappelijke ondersteuning en de Algemene Wet Bijzondere Ziektekosten gestelde regels, kan Onze Minister ten behoeve van de krachtens dit besluit gepensioneerde militair, die lijdt aan een ziekte of gebrek waarvoor in de zin van artikel 2, derde lid, van het Besluit AO/IV, verband met de uitoefening van de militaire dienst is aangenomen, nadere en zonodig afwijkende regels stellen op grond waarvan genoemde gepensioneerde militairen in aanmerking kunnen worden gebracht voor, naar het oordeel van Onze Minister, noodzakelijke voorzieningen ter verbetering van de levensomstandigheden en geneeskundige verstrekkingen. De door Onze Minister krachtens dit artikel te stellen regels mogen niet afwijken ten nadele van de belanghebbenden. 
+In aanvulling op de bij of krachtens de Wet maatschappelijke ondersteuning 2015 en de Wet langdurige zorg gestelde regels, kan Onze Minister ten behoeve van de krachtens dit besluit gepensioneerde militair, die lijdt aan een ziekte of gebrek waarvoor in de zin van artikel 2, derde lid, van het Besluit AO/IV, verband met de uitoefening van de militaire dienst is aangenomen, nadere en zonodig afwijkende regels stellen op grond waarvan genoemde gepensioneerde militairen in aanmerking kunnen worden gebracht voor, naar het oordeel van Onze Minister, noodzakelijke voorzieningen ter verbetering van de levensomstandigheden en geneeskundige verstrekkingen. De door Onze Minister krachtens dit artikel te stellen regels mogen niet afwijken ten nadele van de belanghebbenden. 
 
 ### Artikel  21a  
 

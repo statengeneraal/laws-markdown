@@ -15,7 +15,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-1. *Regionaal openbaar lichaam:* krachtens de [Kaderwet bestuur in verandering](../../../../../../../../../../../wet/kaderwet/bestuur/in/verandering/BWBR0006620/README.md) ingesteld regionaal openbaar lichaam. 
+1. *Regionaal openbaar lichaam:* krachtens de Kaderwet bestuur in verandering ingesteld regionaal openbaar lichaam. 
 
 2. *Dagelijks bestuur:* dagelijks bestuur van een regionaal openbaar lichaam dan wel van een bij gemeenschappelijke regeling ingesteld openbaar lichaam, als bedoeld in artikel 24 of 25, eerste lid, van de Wet personenvervoer. 
 
@@ -57,7 +57,7 @@ b.  de kosten voor het opstellen, indienen en wijzigen van een programma, als be
 
 c.  de kosten van onderhoud van een project; en 
 
-d.  projecten waarvoor op grond van de [Wet Infrastructuurfonds](../../../../../../../../../../../wet/wet/infrastructuurfonds/BWBR0006001/README.md) een bijdrage is verleend.    
+d.  projecten waarvoor op grond van de Wet Infrastructuurfonds een bijdrage is verleend.    
 
 ### II  
 
@@ -84,14 +84,14 @@ d.  projecten waarvoor op grond van de [Wet Infrastructuurfonds](../../../../../
 
 ###Artikel  6  
 
-1.  Bij de betaling van de maximale bijdrage, als bedoeld in artikel 7, worden onder kosten van een project verstaan de met een project samenhangende en zodanig opgevoerde kosten, waarvan uitsluitend als kosten van een project in aanmerking worden genomen de kosten van een onafhankelijke derde deskundige, als bedoeld in artikel 9, derde lid, alsmede de in [artikel 5, eerste lid, van het Besluit Infrastructuurfonds](../../../../../../../../../../../AMvB/besluit/infrastructuurfonds/BWBR0006264/README.md) genoemde kosten, met dien verstande dat: 
+1.  Bij de betaling van de maximale bijdrage, als bedoeld in artikel 7, worden onder kosten van een project verstaan de met een project samenhangende en zodanig opgevoerde kosten, waarvan uitsluitend als kosten van een project in aanmerking worden genomen de kosten van een onafhankelijke derde deskundige, als bedoeld in artikel 9, derde lid, alsmede de in artikel 5, eerste lid, van het Besluit Infrastructuurfonds genoemde kosten, met dien verstande dat: 
 
 a.  in de onderdelen a, b en c de zinsnede ’voor zover (die) door Onze Minister aanvaardbaar (worden) geacht’ niet van toepassing is; 
 
 b.  in onderdeel d de zinsnede ’het bedrag en de termijn, waarover de bouwrente wordt vergoed, behoeft de goedkeuring van Onze Minister’ niet van toepassing is; en 
 
 c.  in onderdeel h de zinsnede ’door Onze Minister redelijk geachte’ niet van toepassing is.    
-2.  [Artikel 5, tweede lid, van het Besluit Infrastructuurfonds](../../../../../../../../../../../AMvB/besluit/infrastructuurfonds/BWBR0006264/README.md) is van overeenkomstige toepassing.   
+2.  Artikel 5, tweede lid, van het Besluit Infrastructuurfonds is van overeenkomstige toepassing.   
 3.  De op grond van dit artikel in aanmerking te nemen kosten per project kunnen ten hoogste € 11.344.505,00 bedragen.   
 
 ###Artikel  7  
@@ -109,7 +109,7 @@ c.  in onderdeel h de zinsnede ’door Onze Minister redelijk geachte’ niet va
 
 1.  Gedeputeerde staten, het dagelijkse bestuur en burgemeester en wethouders stellen conform de eisen, als bedoeld in artikel 11, een programma van projecten voor o.v-infrastructuur op en leggen dit programma van projecten ter goedkeuring aan de minister voor.   
 2.  Alvorens toepassing te geven aan het bepaalde in het eerste lid plegen gedeputeerde staten, het dagelijkse bestuur en burgemeester en wethouders overleg met de betrokken publiekrechtelijke rechtspersonen en wegbeheerders, alsmede met vervoerbedrijven die in het gebied openbaar vervoer verrichten, omtrent hun wensen over het programma van projecten.   
-3.  Om zich te overtuigen van de kwaliteit van de programma’s kunnen gedeputeerde staten, het dagelijkse bestuur en burgemeester en wethouders een onafhankelijke derde deskundige zijn oordeel laten geven over de kwalitatieve aspecten van hun programma, waaronder in ieder geval de onderling meest effectieve samenhang van projecten en de afstemming met de doel-uitkering, als bedoeld in het [Besluit Infrastructuurfonds](../../../../../../../../../../../AMvB/besluit/infrastructuurfonds/BWBR0006264/README.md).   
+3.  Om zich te overtuigen van de kwaliteit van de programma’s kunnen gedeputeerde staten, het dagelijkse bestuur en burgemeester en wethouders een onafhankelijke derde deskundige zijn oordeel laten geven over de kwalitatieve aspecten van hun programma, waaronder in ieder geval de onderling meest effectieve samenhang van projecten en de afstemming met de doel-uitkering, als bedoeld in het Besluit Infrastructuurfonds.   
 4.  Een programma kan direct na het inwerking treden van deze regeling worden ingediend, waarbij als uiterste termijn 1 oktober 1996 dient te worden aangehouden.   
 5.  Een beslissing over het programma van projecten vindt zo spoedig mogelijk, doch uiterlijk 12 weken na ontvangst van het programma, plaats.   
 6.  De indiening dient te geschieden overeenkomstig de bij deze regeling behorende bijlage 2.   

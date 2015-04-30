@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat het, mede gelet op [artikel 12 van de Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md), noodzakelijk is regels te stellen ter uitvoering van het Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens; 
+Alzo Wij in overweging genomen hebben, dat het, mede gelet op artikel 12 van de Grondwet, noodzakelijk is regels te stellen ter uitvoering van het Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens; 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:      
 ### Hoofdstuk  1  
 
@@ -32,7 +32,7 @@ e. chemische wapens:
 
 3. uitrusting ontworpen voor gebruik dat rechtstreeks verband houdt met het gebruik van munitie en andere inzetmiddelen;     
 
-f. inrichting: een inrichting als bedoeld in [artikel 1.1, eerste en vierde lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);   
+f. inrichting: een inrichting als bedoeld in artikel 1.1, eerste en vierde lid, van de Wet milieubeheer;   
 
 g. fabriekscomplex, fabriek en eenheid: hetgeen daaronder wordt verstaan in afdeling I, onderdeel 6, van de Verificatiebijlage bij het verdrag;   
 
@@ -73,7 +73,7 @@ s.  doorvoer: het vervoer van goederen die uitsluitend Nederland worden binnenge
 
 1.  Het is verboden chemische wapens te ontwikkelen, te produceren, anderszins te verwerven, op te slaan, voorhanden te hebben, over te dragen of te gebruiken.    
 2.   Het is verboden met het oog op de ontwikkeling, produktie, verwerving, opslag, overdracht of het gebruik van chemische wapens giftige stoffen, daarbij inbegrepen hun voorlopers, te ontwikkelen, te produceren, anderszins te verwerven, voorhanden te hebben, over te dragen of te gebruiken.    
-3.   Het eerste lid is niet van toepassing ingeval de [Wet Oorlogsstrafrecht](../../../../../../wet/wet/oorlogsstrafrecht/BWBR0002099/README.md) van toepassing is.   
+3.   Het eerste lid is niet van toepassing ingeval de Wet Oorlogsstrafrecht van toepassing is.   
 
 ### Artikel  3  
 
@@ -126,7 +126,7 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld ter
 
 ### Artikel  11  
 
-[Artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is jegens de krachtens artikel 9 aangewezen ambtenaren, alsmede jegens de ambtenaren die zijn belast met de opsporing van overtredingen van het bij of krachtens artikel 2, 3, eerste lid, 4, 5, 6, 7 of 8 bepaalde, niet van toepassing op de ambtenaren, bedoeld in artikel 32 van de Arbeidsomstandighedenwet en [artikel 5.10 van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).  
+Artikel 5:20, tweede lid, van de Algemene wet bestuursrecht is jegens de krachtens artikel 9 aangewezen ambtenaren, alsmede jegens de ambtenaren die zijn belast met de opsporing van overtredingen van het bij of krachtens artikel 2, 3, eerste lid, 4, 5, 6, 7 of 8 bepaalde, niet van toepassing op de ambtenaren, bedoeld in artikel 32 van de Arbeidsomstandighedenwet en artikel 5.10 van de Wet algemene bepalingen omgevingsrecht.  
 
 ### Hoofdstuk  4  
 
@@ -141,9 +141,9 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld ter
 
 1.  Het internationale inspectieteam is bevoegd om, vergezeld door het begeleidingsteam en met medeneming van de benodigde apparatuur, bij het verrichten van een internationale routine-inspectie fabriekscomplexen, fabrieken en eenheden te betreden voor zover het dat voor de uitvoering van die inspectie nodig acht. Het hoofd van het begeleidingsteam kan daartoe zo nodig de hulp van de sterke arm inroepen.    
 2.   Het internationale inspectieteam is bevoegd om, vergezeld door het begeleidingsteam en met medeneming van de benodigde apparatuur, bij het verrichten van een internationale uitdagingsinspectie elke plaats te betreden voor zover het dat voor de uitvoering van die inspectie nodig acht. Het hoofd van het begeleidingsteam kan daartoe zo nodig de hulp van de sterke arm inroepen.    
-3.   In afwijking van [artikel 1, eerste lid, van de Algemene wet op het binnentreden](../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) rust de verplichting zich voorafgaand aan het binnentreden in een woning te legitimeren en mededeling te doen van het doel van het binnentreden op de leden van het begeleidingsteam.    
-4.   In afwijking van [artikel 2, eerste lid, van de Algemene wet op het binnentreden](../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) is het internationale inspectieteam, vergezeld door het begeleidingsteam, bevoegd om zonder machtiging een woning binnen te treden zonder toestemming van de bewoner.    
-5.   Het hoofd van het begeleidingsteam maakt het schriftelijk verslag, bedoeld in [artikel 10, eerste lid, van de Algemene wet op het binnentreden](../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md). In dit verslag vermeldt hij tevens de namen en de hoedanigheden van de leden van het begeleidingsteam en van de inspecteurs.   
+3.   In afwijking van artikel 1, eerste lid, van de Algemene wet op het binnentreden rust de verplichting zich voorafgaand aan het binnentreden in een woning te legitimeren en mededeling te doen van het doel van het binnentreden op de leden van het begeleidingsteam.    
+4.   In afwijking van artikel 2, eerste lid, van de Algemene wet op het binnentreden is het internationale inspectieteam, vergezeld door het begeleidingsteam, bevoegd om zonder machtiging een woning binnen te treden zonder toestemming van de bewoner.    
+5.   Het hoofd van het begeleidingsteam maakt het schriftelijk verslag, bedoeld in artikel 10, eerste lid, van de Algemene wet op het binnentreden. In dit verslag vermeldt hij tevens de namen en de hoedanigheden van de leden van het begeleidingsteam en van de inspecteurs.   
 
 ### Hoofdstuk  5  
 

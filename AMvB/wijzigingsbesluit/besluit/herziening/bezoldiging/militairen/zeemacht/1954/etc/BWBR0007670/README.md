@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Defensie van 19 september 1995, nr. PAV 6031/95014932;
 
-Gelet op [artikel 12 van de Militaire ambtenarenwet 1931](../../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md), artikel 2 van de Wet rechtstoestand dienstplichtigen, [artikel 125 van de Ambtenarenwet](../../../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) en artikel C1 van de Algemene burgerlijke pensioenwet;
+Gelet op artikel 12 van de Militaire ambtenarenwet 1931, artikel 2 van de Wet rechtstoestand dienstplichtigen, artikel 125 van de Ambtenarenwet en artikel C1 van de Algemene burgerlijke pensioenwet;
 
 De Raad van State gehoord (advies van 31 oktober 1995, nr. W07.95.0513);
 
@@ -46,7 +46,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  VII  
 
-De compensatietoeslag is geen ambtelijk inkomen in de zin van artikel C 1 van de Algemene burgerlijke pensioenwet en behoort niet tot de bezoldiging in de zin van het [Bezoldigingsbesluit burgerlijke ambtenaren defensie](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/ambtenaren/defensie/BWBR0006038/README.md). 
+De compensatietoeslag is geen ambtelijk inkomen in de zin van artikel C 1 van de Algemene burgerlijke pensioenwet en behoort niet tot de bezoldiging in de zin van het Bezoldigingsbesluit burgerlijke ambtenaren defensie. 
 
 ### Artikel  VIII  
 

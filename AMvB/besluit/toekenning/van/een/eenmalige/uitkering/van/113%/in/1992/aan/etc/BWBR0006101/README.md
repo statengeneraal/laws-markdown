@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 12 mei 1993, nr. AB93/U404, directoraat-generaal Management en Personeelsbeleid, directie Arbeidsvoorwaarden, afdeling Arbeidsvoorwaarden Rijkspersoneel, gedaan mede namens Onze Minister van Justitie;
 
-Gelet op de [artikelen 125](../../../../../../../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md), eerste lid, en [134, eerste lid, van de Ambtenarenwet](../../../../../../../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) 1929, [artikel 89 van de Grondwet](../../../../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md), artikel 7, derde lid, van de Wet op de bezoldiging van de rechterlijke ambtenaren, [artikel 7 van de Wet Nationale ombudsman](../../../../../../../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md), artikel 4, tweede lid, van de Wet van 17 juli 1923, tot uitvoering van [artikel 97 der Grondwet](../../../../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) en wijziging van de Hooger-onderwijswet, van de wet tot regeling van het Hooger Landbouw- en Hooger Veeartsenijkundig Onderwijs, van de Lager-onderwijswet 1920 en van de Be[vorderingswet](../../../../../../../../../../../../../../wet/vorderingswet/BWBR0002393/README.md) voor de landmacht 1902 (*Stb.* 364), en artikel C 1 van de Algemene burgerlijke pensioenwet;
+Gelet op de artikelen 125, eerste lid, en 134, eerste lid, van de Ambtenarenwet 1929, artikel 89 van de Grondwet, artikel 7, derde lid, van de Wet op de bezoldiging van de rechterlijke ambtenaren, artikel 7 van de Wet Nationale ombudsman, artikel 4, tweede lid, van de Wet van 17 juli 1923, tot uitvoering van artikel 97 der Grondwet en wijziging van de Hooger-onderwijswet, van de wet tot regeling van het Hooger Landbouw- en Hooger Veeartsenijkundig Onderwijs, van de Lager-onderwijswet 1920 en van de Bevorderingswet voor de landmacht 1902 (*Stb.* 364), en artikel C 1 van de Algemene burgerlijke pensioenwet;
 
 De Raad van State gehoord (advies van 25 juni 1993, nr. W04.93.0296);
 
@@ -19,7 +19,7 @@ In dit besluit wordt verstaan onder:
 
 a. de betrokkene: de op 30 september 1992 in dienst zijnde 
 
-1°. ambtenaar in de zin van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en degene voor wie krachtens artikel 26 van dat besluit een bezoldigingsregeling is vastgesteld;  
+1°. ambtenaar in de zin van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 en degene voor wie krachtens artikel 26 van dat besluit een bezoldigingsregeling is vastgesteld;  
 
 2°. werknemer in de zin van het Arbeidsovereenkomstenbesluit voor wie het loon is vastgesteld met toepassing van artikel 12, eerste lid, onderdeel *a, b, c* of *d* van dat besluit;  
 
@@ -29,13 +29,13 @@ a. de betrokkene: de op 30 september 1992 in dienst zijnde
 
 5°. kandidaat-verkeersschout, voor wie de bezoldiging geregeld is in het Besluit opleiding verkeersschouten;  
 
-6°. Nationale ombudsman en substituut-ombudsman voor wie de bezoldiging is geregeld in de [Wet bezoldiging nationale ombudsman](../../../../../../../../../../../../../../wet/wet/bezoldiging/nationale/ombudsman/BWBR0003429/README.md);  
+6°. Nationale ombudsman en substituut-ombudsman voor wie de bezoldiging is geregeld in de Wet bezoldiging nationale ombudsman;  
 
-7°. ambtenaar en werknemer voor wie de bezoldiging is geregeld in de [artikelen 48](../../../../../../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) en [120 van het Reglement Dienst Buitenlandse Zaken](../../../../../../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md); alsmede:  
+7°. ambtenaar en werknemer voor wie de bezoldiging is geregeld in de artikelen 48 en 120 van het Reglement Dienst Buitenlandse Zaken; alsmede:  
 
 8°. degene die op 30 september 1992 belanghebbende is in de zin van de Wet uitkering wegens vrijwillig vervroegd uittreden; met dien verstande dat niet als betrokkene wordt aangemerkt degene die  
 
-- uit hoofde van zijn dienstverhouding met de overheidswerkgever hetzij zelfstandig verplicht verzekerd is krachtens de [Ziekenfondswet](../../../../../../../../../../../../../../wet/ziekenfondswet/BWBR0002460/README.md), dan wel deelnemer is in een publiekrechtelijke ziektekostenregeling voor ambtenaren;  
+- uit hoofde van zijn dienstverhouding met de overheidswerkgever hetzij zelfstandig verplicht verzekerd is krachtens de Ziekenfondswet, dan wel deelnemer is in een publiekrechtelijke ziektekostenregeling voor ambtenaren;  
 
 - ingevolge een wettelijke verplichting als militair in werkelijke dienst is voor eerste oefening;  
 
@@ -45,11 +45,11 @@ a. de betrokkene: de op 30 september 1992 in dienst zijnde
 
 - geschorst is zonder behoud van bezoldiging;  
 
-- op grond van zijn uitkering in de zin van de Wet uitkering wegens vrijwillig vervroegd uittreden hetzij verzekerd is krachtens de [Ziekenfondswet](../../../../../../../../../../../../../../wet/ziekenfondswet/BWBR0002460/README.md), dan wel deelnemer is in een publiekrechtelijke ziektekostenregeling voor ambtenaren;      
+- op grond van zijn uitkering in de zin van de Wet uitkering wegens vrijwillig vervroegd uittreden hetzij verzekerd is krachtens de Ziekenfondswet, dan wel deelnemer is in een publiekrechtelijke ziektekostenregeling voor ambtenaren;      
 
 b. de berekeningsbasis: 
 
-1°. voor de betrokkene, bedoeld in onderdeel *a*, onder 1° tot en met 7°: het op 30 september 1992 geldende salaris bij een volledige werktijd, bedoeld in het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), dan wel hetgeen daarmee overeenkomt in andere bezoldigingsregelingen;  
+1°. voor de betrokkene, bedoeld in onderdeel *a*, onder 1° tot en met 7°: het op 30 september 1992 geldende salaris bij een volledige werktijd, bedoeld in het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984, dan wel hetgeen daarmee overeenkomt in andere bezoldigingsregelingen;  
 
 2°. voor de betrokkene, bedoeld in onderdeel *a*, onder 8°:   de op 30 september 1992 geldende bezoldiging ingevolge de Wet uitkering wegens vrijwillig vervroegd uittreden herrekend naar een volledige betrekking verminderd met de daarin begrepen vakantie-uitkering van 8%;  
 
@@ -64,7 +64,7 @@ d. de deeltijdfactor: de werktijdfactor zoals die voor belanghebbende in de zin 
 
 ### Artikel  3  
 
-De eenmalige uitkering wordt aangewezen als een uitkering als bedoeld in artikel 4, tweede lid, van de Wet van 17 juli 1923, tot uitvoering van [artikel 97 der Grondwet](../../../../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) en wijziging van de Hooger-onderwijswet, van de wet tot regeling van het Hooger Landbouw- en Hooger Veeartsenijkundig Onderwijs, van de Lager-onderwijswet 1920 en van de Be[vorderingswet](../../../../../../../../../../../../../../wet/vorderingswet/BWBR0002393/README.md) voor de landmacht 1902 (*Stb.* 364). 
+De eenmalige uitkering wordt aangewezen als een uitkering als bedoeld in artikel 4, tweede lid, van de Wet van 17 juli 1923, tot uitvoering van artikel 97 der Grondwet en wijziging van de Hooger-onderwijswet, van de wet tot regeling van het Hooger Landbouw- en Hooger Veeartsenijkundig Onderwijs, van de Lager-onderwijswet 1920 en van de Bevorderingswet voor de landmacht 1902 (*Stb.* 364). 
 
 ### Artikel  4  
 

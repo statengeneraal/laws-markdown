@@ -7,7 +7,7 @@ Overwegende, dat het wenselijk is de rechtspositie van tewerkgestelde erkende ge
 
 Overwegende, dat daartoe de Beschikking gewetensbezwaren militaire dienst (Besluit van de minister van Sociale Zaken van 8 februari 1978, Stcrt. 381Laatstelijk gewijzigd bij ministeriële regeling van 18 december 1991, Stcrt. 248) dient te worden ingetrokken en een nieuwe regeling dient te worden vastgesteld;
 
-Gelet op [artikel 59 van het Besluit gewetensbezwaren militaire dienst](../../../../../AMvB/besluit/gewetensbezwaren/militaire/dienst/BWBR0002465/README.md) (Stb. 1980, 5)2Laatstelijk gewijzigd bij besluit van 21 juni 1991, Stb. 295;
+Gelet op artikel 59 van het Besluit gewetensbezwaren militaire dienst (Stb. 1980, 5)2Laatstelijk gewijzigd bij besluit van 21 juni 1991, Stb. 295;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -17,7 +17,7 @@ Besluit:
 
 ####*Begripsbepalingen*
 
-In deze regeling wordt verstaan onder: a. ‘de wet’:   de [Wet gewetensbezwaren militaire dienst](../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) (Stb. 1980, 6);  b. ‘het besluit’:   het [Besluit gewetensbezwaren militaire dienst](../../../../../AMvB/besluit/gewetensbezwaren/militaire/dienst/BWBR0002465/README.md) (Stb. 1980, 5);  c. ‘de minister’:   de minister van Sociale Zaken en Werkgelegenheid;  d. ‘de Directie TEGMD’:   de Directie Tewerkstelling Erkende Gewetensbezwaarden Militaire Dienst van het ministerie van Sociale Zaken en Werkgelegenheid;  e. ‘de tewerkgestelde’:   de tewerkgestelde in de zin van [artikel 1, eerste lid, van de wet](../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md);  f. ‘de dienst’:   de overheidsdienst dan wel de instelling, waarbij de tewerkstelling plaatsvindt;  g. ‘werkelijke militaire dienst’:   werkelijke dienst verricht als militair, waaronder begrepen justitieel voorlopig arrest ondergaan in afwachting van een beslissing op een beroep op de wet;  h. ‘tewerkstelling’:   de gewone vervangende dienst in de zin van [artikel 1, eerste lid, van de wet](../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md);  i. ‘levenspartner’:   
+In deze regeling wordt verstaan onder: a. ‘de wet’:   de Wet gewetensbezwaren militaire dienst (Stb. 1980, 6);  b. ‘het besluit’:   het Besluit gewetensbezwaren militaire dienst (Stb. 1980, 5);  c. ‘de minister’:   de minister van Sociale Zaken en Werkgelegenheid;  d. ‘de Directie TEGMD’:   de Directie Tewerkstelling Erkende Gewetensbezwaarden Militaire Dienst van het ministerie van Sociale Zaken en Werkgelegenheid;  e. ‘de tewerkgestelde’:   de tewerkgestelde in de zin van artikel 1, eerste lid, van de wet;  f. ‘de dienst’:   de overheidsdienst dan wel de instelling, waarbij de tewerkstelling plaatsvindt;  g. ‘werkelijke militaire dienst’:   werkelijke dienst verricht als militair, waaronder begrepen justitieel voorlopig arrest ondergaan in afwachting van een beslissing op een beroep op de wet;  h. ‘tewerkstelling’:   de gewone vervangende dienst in de zin van artikel 1, eerste lid, van de wet;  i. ‘levenspartner’:   
 
 1. de echtgenote; 
 
@@ -67,13 +67,13 @@ De voorschriften, die bij de dienst voor werknemers bestaan, gelden, voor zover 
 
 ####*Zakgeld*
 
-1.  Het bedrag van het zakgeld waarop de tewerkgestelde ingevolge [artikel 43 van het besluit](../../../../../AMvB/besluit/gewetensbezwaren/militaire/dienst/BWBR0002465/README.md) recht heeft, is gelijk aan het bedrag van de wedde eerste oefening, zoals deze is vastgesteld voor dienstplichtige soldaten.   
+1.  Het bedrag van het zakgeld waarop de tewerkgestelde ingevolge artikel 43 van het besluit recht heeft, is gelijk aan het bedrag van de wedde eerste oefening, zoals deze is vastgesteld voor dienstplichtige soldaten.   
 2.  De tewerkgestelde heeft geen recht op zakgeld: 
 
 a. over de dagen waarop hij ongeoorloofd afwezig is; 
 
 b. over de dagen waarop hij in het genot is van buitengewoon verlof buiten bezwaar van 's rijks schatkist.    
-3.  De tewerkgestelde die een vrijheidsstraf, voorlopige hechtenis of gijzeling ondergaat, behoudt gedurende de eerste 6 weken recht op tweederde gedeelte van zijn zakgeld. Na 6 weken verleent de minister de tewerkgestelde, met toepassing van [artikel 23, eerste lid, van de wet](../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md), uitstel van het onvervuld gedeelte van de tewerkstelling.   
+3.  De tewerkgestelde die een vrijheidsstraf, voorlopige hechtenis of gijzeling ondergaat, behoudt gedurende de eerste 6 weken recht op tweederde gedeelte van zijn zakgeld. Na 6 weken verleent de minister de tewerkgestelde, met toepassing van artikel 23, eerste lid, van de wet, uitstel van het onvervuld gedeelte van de tewerkstelling.   
 4.  De tewerkgestelde op wie het bepaalde in het derde lid toepassing heeft gevonden, wordt hersteld in zijn recht op zakgeld, indien ter zake van het feit in verband waarmee hij voorlopige hechtenis heeft ondergaan: 
 
 a. geen veroordeling tot een onvoorwaardelijke vrijheidsstraf volgt: over de periode doorgebracht in voorlopige hechtenis, met een maximum van 6 weken; 
@@ -219,7 +219,7 @@ c. groot verlof in afwachting van de beslissing omtrent de geschiktheid voor de 
 
 d. tussentijds ontslag van alle verplichtingen voortvloeiende uit de vervangende dienst,  wordt verleend, is verplicht de DOV-kaart in te leveren bij zijn hoofd van dienst op de laatste werkdag voor de datum van groot verlof, dan wel ontslag, voor het einde van de werkzaamheden. Alsdan heeft de tewerkgestelde aanspraak op vergoeding van de kosten voor het reizen van de plaats van tewerkstelling naar zijn woonplaats. Het bepaalde in de eerste volzin is van overeenkomstige toepassing, indien de tewerkgestelde de tewerkstelling voortijdig beëindigt met toepassing van artikel 47.   
 2.  Bij niet-nakoming van de in het eerste lid bedoelde verplichting zal door de minister, voor iedere dag dat hij nalatig is de DOV-kaart in te leveren en tot het verstrijken van de op de DOV-kaart vermelde uiterste datum, een bedrag in rekening worden gebracht ter grootte van de dan geldende waarde van de DOV-kaart gedeeld door 365.   
-3.  Het bepaalde in [artikel 31, vierde lid, van de Wet](../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) is van overeenkomstige toepassing op de inning van het in het tweede lid bedoelde bedrag.  
+3.  Het bepaalde in artikel 31, vierde lid, van de Wet is van overeenkomstige toepassing op de inning van het in het tweede lid bedoelde bedrag.  
 
 ### Artikel  21  
 
@@ -303,9 +303,9 @@ a. indien hem buitengewoon verlof is verleend om een in artikel 39 onder d, g, h
 
 b. bij deelname aan een bezinningsbijeenkomst, waarvoor artikel 44 toepassing heeft gevonden: voor het reizen van zijn woonadres naar de plaats van bestemming en terug. Indien de plaats van bestemming buiten Nederland is gelegen, wordt echter slechts vergoed het gedeelte van de reis, dat ligt tussen het woonadres en het te passeren grensstation, en terug; 
 
-c. indien [artikel 24, eerste lid, van het besluit](../../../../../AMvB/besluit/gewetensbezwaren/militaire/dienst/BWBR0002465/README.md) toepassing vindt: voor het reizen van zijn woonadres naar de plaats van bestemming en terug; 
+c. indien artikel 24, eerste lid, van het besluit toepassing vindt: voor het reizen van zijn woonadres naar de plaats van bestemming en terug; 
 
-d. indien hij een geneeskundige of tandheelkundige behandeling dient te ondergaan, voor zover de reiskosten niet door de zorgverzekeraar als bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) worden vergoed: voor het reizen van zijn woonadres naar de plaats waar hij de behandeling moet ondergaan, en terug; 
+d. indien hij een geneeskundige of tandheelkundige behandeling dient te ondergaan, voor zover de reiskosten niet door de zorgverzekeraar als bedoeld in artikel 1, onderdeel b, van de Zorgverzekeringswet worden vergoed: voor het reizen van zijn woonadres naar de plaats waar hij de behandeling moet ondergaan, en terug; 
 
 e. bij detachering of overplaatsing naar een andere dienst: voor reizen van zijn woonadres naar het adres waar hij in verband met de detachering of overplaatsing de tewerkstelling gaat verrichten; 
 
@@ -598,16 +598,16 @@ De minister kan in zeer bijzondere gevallen aan de tewerkgestelde ook buiten de 
 
 ####*Algemene bepaling*
 
-1.  Voor de toepassing van dit hoofdstuk wordt onder ‘afwezig zijn’ verstaan hetgeen daaronder wordt verstaan in [artikel 53, tweede lid, van de wet](../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md).   
+1.  Voor de toepassing van dit hoofdstuk wordt onder ‘afwezig zijn’ verstaan hetgeen daaronder wordt verstaan in artikel 53, tweede lid, van de wet.   
 2.  De tewerkgestelde die afwezig is zonder dat daaraan een, naar het oordeel van de minister, geldige reden ten grondslag ligt, is ongeoorloofd afwezig.   
 3.  Indien de tewerkgestelde afwezig is om onbekende redenen, dan wel om redenen waarvan de geldigheid niet terstond kan worden vastgesteld, doet het hoofd van dienst hiervan onverwijld mededeling aan de Directie TEGMD.   
-4.  De minister kan de betalingen aan de tewerkgestelde te wiens aanzien een mededeling als bedoeld in het derde lid is ontvangen, terstond doen staken. Indien ten aanzien van de tewerkgestelde [artikel 26 van de wet](../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) toepassing vindt, verzoekt de minister tevens aan de burgemeester door wiens zorg de kostwinnersvergoeding wordt uitbetaald, verdere uitbetaling te staken.   
+4.  De minister kan de betalingen aan de tewerkgestelde te wiens aanzien een mededeling als bedoeld in het derde lid is ontvangen, terstond doen staken. Indien ten aanzien van de tewerkgestelde artikel 26 van de wet toepassing vindt, verzoekt de minister tevens aan de burgemeester door wiens zorg de kostwinnersvergoeding wordt uitbetaald, verdere uitbetaling te staken.   
 5.  De Directie TEGMD stelt een onderzoek in naar de redenen van de afwezigheid.   
 6.  De minister beslist aan de hand van de uitkomst van het in het vijfde lid bedoelde onderzoek omtrent de ongeoorloofdheid van de afwezigheid. Indien naar het oordeel van de minister aan de afwezigheid een geldige reden ten grondslag ligt worden eventueel krachtens het vierde lid getroffen maatregelen terstond ongedaan gemaakt.   
 7.  De in het zesde lid bedoelde beslissing wordt zo spoedig mogelijk schriftelijk aan de tewerkgestelde meegedeeld.   
 8.  De ongeoorloofde afwezigheid eindigt op het moment waarop de tewerkgestelde weer deelneemt aan de dagelijkse dienst. Indien de ongeoorloofde afwezigheid wordt beëindigd op een maandag voor de aanvang van de dagelijkse dienst, wordt de ongeoorloofde afwezigheid geacht te zijn beëindigd op de zaterdag daaraan voorafgaand, tenzij de tewerkgestelde voordien onregelmatige diensten, als bedoeld in artikel 32, onder e, verrichtte. Alsdan eindigt de ongeoorloofde afwezigheid op maandag, ongeacht de vraag of de tewerkgestelde op de zaterdag of zondag daaraan voorafgaand wel aan de dagelijkse dienst zou hebben moeten deelnemen.   
 9.  Indien de ongeoorloofde afwezigheid wordt beëindigd op een tijdstip van de dag waarop de tewerkgestelde reeds aan de dagelijkse dienst had behoren deel te nemen, wordt de ongeoorloofde afwezigheid geacht te zijn beëindigd op het tijdstip dat voor de aanvang van de dagelijkse dienst is bepaald.   
-10.  De minister doet de betalingen aan de tewerkgestelde die zijn ongeoorloofde afwezigheid heeft beëindigd, terstond, met ingang van de datum waarop de beëindiging plaatsvond, hervatten. Indien ter aanzien van de tewerkgestelde [artikel 26 van de wet](../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) toepassing vindt, verzoekt de minister tevens aan de burgemeester door wiens zorg de kostwinnersvergoeding wordt uitbetaald, de uitbetaling terstond, met ingang van de datum waarop de ongeoorloofde afwezigheid werd beëindigd, te hervatten.   
+10.  De minister doet de betalingen aan de tewerkgestelde die zijn ongeoorloofde afwezigheid heeft beëindigd, terstond, met ingang van de datum waarop de beëindiging plaatsvond, hervatten. Indien ter aanzien van de tewerkgestelde artikel 26 van de wet toepassing vindt, verzoekt de minister tevens aan de burgemeester door wiens zorg de kostwinnersvergoeding wordt uitbetaald, de uitbetaling terstond, met ingang van de datum waarop de ongeoorloofde afwezigheid werd beëindigd, te hervatten.   
 11.  De minister doet aan de tewerkgestelde die zijn ongeoorloofde afwezigheid heeft beëindigd, zo spoedig mogelijk schriftelijk mededeling van de dag waarop de ongeoorloofde afwezigheid als beëindigd wordt beschouwd. Deze mededeling bevat tevens een opgave van het aantal dagen, dat de ongeoorloofde afwezigheid heeft geduurd.   
 12.  Voor de bepaling van de duur van de ongeoorloofde afwezigheid wordt de ongeoorloofde afwezigheid, indien deze aanvangt op de dag waarop de tewerkgestelde reeds dagelijkse dienst heeft verricht, geacht te zijn aangevangen op het tijdstip dat voor de aanvang van de dagelijkse dienst is bepaald.   
 13.  De ongeoorloofde afwezigheid wordt niet onderbroken door dagen waarop de tewerkgestelde, indien hij niet ongeoorloofd afwezig zou zijn geweest, geen dienst had behoeven te verrichten.  
@@ -621,14 +621,14 @@ De minister kan in zeer bijzondere gevallen aan de tewerkgestelde ook buiten de 
 3.  In afwijking van het in het eerste lid bepaalde geschiedt de ziekmelding die plaatsvindt op een tijdstip vallend in de buiten de normale werktijd vallende arbeidsuren als bedoeld in artikel 32, onder f, aan het hoofd van dienst. Alsdan doet het hoofd van dienst op de eerstvolgende werkdag vóór 09.00 uur mededeling van de ziekmelding aan de Directie TEGMD.   
 4.  De tewerkgestelde die zich ziek heeft gemeld of doen melden, is verplicht: 
 
-a. de rapporteur [ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) en de verzekeringsgeneeskundige van het Gemeenschappelijk Administratie Kantoor (GAK) in de gelegenheid te stellen hem te bezoeken; 
+a. de rapporteur ziektewet en de verzekeringsgeneeskundige van het Gemeenschappelijk Administratie Kantoor (GAK) in de gelegenheid te stellen hem te bezoeken; 
 
-b. te voldoen aan elke oproeping om voor de rapporteur [ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) en de verzekeringsgeneeskundige van het GAK te verschijnen; 
+b. te voldoen aan elke oproeping om voor de rapporteur ziektewet en de verzekeringsgeneeskundige van het GAK te verschijnen; 
 
-c. aan de rapporteur [ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) en de verzekeringsgeneeskundige van het GAK desgevraagd alle inlichtingen te verschaffen en zich te onderwerpen aan alle voorschriften die door hen worden gegeven.    
-5.  Het is de tewerkgestelde die zich ziek heeft gemeld of doen melden, niet toegestaan het bij de ziekmelding opgegeven adres te verlaten alvorens hij door de rapporteur [ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) of de verzekeringsgeneeskundige van het GAK is bezocht. Hij is voorts verplicht gedurende de 3 weken volgende op dat bezoek op het bij de ziekmelding opgegeven adres aanwezig te zijn tot 10.00 uur en van 12.00 tot 14.30 uur. Het voorgaande is niet van toepassing, indien de tewerkgestelde het bij de ziekmelding opgegeven adres verlaat voor een bezoek aan de behandelend arts, het ondergaan van een medische behandeling, dan wel het hervatten van de aan hem door het hoofd van dienst opgedragen werkzaamheden.   
+c. aan de rapporteur ziektewet en de verzekeringsgeneeskundige van het GAK desgevraagd alle inlichtingen te verschaffen en zich te onderwerpen aan alle voorschriften die door hen worden gegeven.    
+5.  Het is de tewerkgestelde die zich ziek heeft gemeld of doen melden, niet toegestaan het bij de ziekmelding opgegeven adres te verlaten alvorens hij door de rapporteur ziektewet of de verzekeringsgeneeskundige van het GAK is bezocht. Hij is voorts verplicht gedurende de 3 weken volgende op dat bezoek op het bij de ziekmelding opgegeven adres aanwezig te zijn tot 10.00 uur en van 12.00 tot 14.30 uur. Het voorgaande is niet van toepassing, indien de tewerkgestelde het bij de ziekmelding opgegeven adres verlaat voor een bezoek aan de behandelend arts, het ondergaan van een medische behandeling, dan wel het hervatten van de aan hem door het hoofd van dienst opgedragen werkzaamheden.   
 6.  De tewerkgestelde die tijdens zijn ziekte tijdelijk op een ander adres dan het bij de ziekmelding opgegeven adres gaat verblijven, is verplicht daarvan vooraf mededeling te doen of te laten doen aan de Directie TEGMD onder opgave van het adres waarnaar hij zich begeeft. Dit adres wordt, vanaf het moment waarop de tewerkgestelde het bereikt of naar het oordeel van de minister redelijkerwijze had kunnen bereiken, aangemerkt als het bij de ziekmelding opgegeven adres.   
-7.  De tewerkgestelde die niet in staat is te voldoen aan een oproeping als bedoeld in het vierde lid onder b), is verplicht daarvan terstond onder opgaaf van redenen mededeling te doen of te laten doen door middel van het daartoe aan hem afgegeven kaartschrijven. Alsdan is hij verplicht op het bij de ziekmelding opgegeven adres te blijven totdat hij door de rapporteur [ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) of de verzekeringsgeneeskundige van het GAK is bezocht.   
+7.  De tewerkgestelde die niet in staat is te voldoen aan een oproeping als bedoeld in het vierde lid onder b), is verplicht daarvan terstond onder opgaaf van redenen mededeling te doen of te laten doen door middel van het daartoe aan hem afgegeven kaartschrijven. Alsdan is hij verplicht op het bij de ziekmelding opgegeven adres te blijven totdat hij door de rapporteur ziektewet of de verzekeringsgeneeskundige van het GAK is bezocht.   
 8.  De verzekeringsgeneeskundige van het GAK beoordeelt of de tewerkgestelde arbeidsongeschikt is, en zo ja, na welke datum de tewerkgestelde niet langer arbeidsongeschikt wordt geacht. De tewerkgestelde en de Directie TEGMD ontvangen hiervan zo spoedig mogelijk schriftelijk mededeling.   
 9.  De tewerkgestelde die niet in staat is op de door de verzekeringsgeneeskundige van het GAK genoemde datum zijn werkzaamheden te hervatten, is verplicht op het eerstvolgende spreekuur van de verzekeringsgeneeskundige te verschijnen. De tewerkgestelde en het hoofd van de Directie TEGMD ontvangen zo spoedig mogelijk schriftelijk mededeling tot welk oordeel de verzekeringsgeneeskundige bij die gelegenheid komt. Het bepaalde in het zevende lid is van overeenkomstige toepassing.   
 10.  De tewerkgestelde die zich niet kan verenigen met het in het negende lid bedoelde oordeel, moet binnen driemaal 24 uur na ontvangst van de schriftelijke mededeling, een met redenen omkleed verzoek tot een nieuw geneeskundig onderzoek indienen bij de minister. Bij het verzoek wordt gevoegd een afschrift van de schriftelijke mededeling.   
@@ -710,7 +710,7 @@ b. meer dan één overnachting: indien de betrekking in verband met de toestand 
 
 ####*Uitkering ter zake van derving van inkomsten uit arbeid*
 
-1.  Hij die ingevolge het bij of krachtens de wet bepaalde in het genot is van groot verlof, dan wel ingevolge [artikel 28 van de wet](../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) van zijn verplichtingen uit de vervangende dienst is ontslagen, heeft, indien hij ten gevolge van een ziekte of gebrek verband houdende met de tewerkstelling tijdelijk niet in staat is: 
+1.  Hij die ingevolge het bij of krachtens de wet bepaalde in het genot is van groot verlof, dan wel ingevolge artikel 28 van de wet van zijn verplichtingen uit de vervangende dienst is ontslagen, heeft, indien hij ten gevolge van een ziekte of gebrek verband houdende met de tewerkstelling tijdelijk niet in staat is: 
 
 a. de inkomsten te verwerven die hij uit hoofde van zijn beroep of bedrijf gemiddeld verdiende of zou kunnen verdienen; 
 
@@ -720,7 +720,7 @@ b. de inkomsten te verwerven die hij zo de inkomsten, bedoeld onder a, niet kunn
 
 a. inkomsten uit of in verband met arbeid of bedrijf; 
 
-b. uitkeringen krachtens de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md) (Stb. 1972, 313) of krachtens enige sociale verzekeringswet; 
+b. uitkeringen krachtens de Wet arbeidsongeschiktheidsvoorziening militairen (Stb. 1972, 313) of krachtens enige sociale verzekeringswet; 
 
 c. uitkeringen wegens een particuliere verzekering ter zake van de geldelijke gevolgen van arbeidsongeschiktheid; 
 
@@ -748,7 +748,7 @@ c. bij ontstentenis van de onder a en b bedoelde betrekkingen: ten behoeve van o
 
 a. De eventueel aan de overledene teveel betaalde en nog niet terugbetaalde zakgeldbedragen; 
 
-b. De eventueel aan de overledene opgelegde en nog openstaande geldboetes, als bedoeld in [artikel 31 van de Wet](../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md); 
+b. De eventueel aan de overledene opgelegde en nog openstaande geldboetes, als bedoeld in artikel 31 van de Wet; 
 
 c. De eventueel aan de overledene ingevolge artikel 31 van de regeling verleende en nog niet terugbetaalde voorschotten.   
 
@@ -899,7 +899,7 @@ De tewerkgestelde aan wie groot verlof wordt verleend, wordt in het bezit gestel
 1.  Ten aanzien van de tewerkgestelde, die voor het tijdstip van inwerkingtreding van deze regeling onregelmatige diensten verricht, blijft van toepassing artikel 17 van de Beschikking gewetensbezwaren militaire dienst.   
 2.  Ten aanzien van de tewerkgestelde, die voor het tijdstip van inwerkingtreding van deze regeling in het genot is van klein verlof voor zaken of oogstverlof, blijven van toepassing de artikelen 14 en 15 van de Beschikking gewetensbezwaren militaire dienst.   
 3.  Ten aanzien van de tewerkgestelde, die voor het tijdstip van inwerkingtreding van deze regeling afwezig is ten gevolge van een ziekte of een hem overkomen ongeval, blijft artikel 49, tiende tot en met veertiende lid, buiten toepassing.   
-4.  Ten aanzien van hem aan wie groot verlof is verleend, dan wel die ingevolge [artikel 28 van de wet](../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) is ontslagen van zijn verplichtingen uit de vervangende dienst, voor het tijdstip van inwerkingtreding van deze regeling, blijft artikel 54 buiten toepassing.  
+4.  Ten aanzien van hem aan wie groot verlof is verleend, dan wel die ingevolge artikel 28 van de wet is ontslagen van zijn verplichtingen uit de vervangende dienst, voor het tijdstip van inwerkingtreding van deze regeling, blijft artikel 54 buiten toepassing.  
 
 ### Artikel  69  
 

@@ -233,7 +233,6 @@ c.de notaris in de bijhoudingsverklaring in aanvulling op het eerder ingeschreve
 Indien in een in te schrijven stuk de plaatselijke aanduiding van een onroerende zaak of een appartementsrecht moet worden vermeld, geschiedt zulks door de vermelding van de plaats en het adres, of, zo de desbetreffende onroerende zaak of het desbetreffende appartementsrecht geen adres heeft, de naam van de plaats en de straat in welks nabijheid de onroerende zaak of het appartementsrecht is gelegen. 
 
 ### Artikel  13a  
-Treedt in werking per 01-01-2015 
 
 Indien in een in te schrijven stuk de kadastrale aanduiding moet worden vermeld van een onroerende zaak, die bestaat uit één of meer gedeelten van een kadastraal perceel, geschiedt zulks, naast vermelding van de kadastrale aanduiding, door een tekening naar genoegen van de bewaarder mee in te schrijven waarop de ligging van de betreffende gedeelten is weergegeven op de kadastrale kaart. 
 

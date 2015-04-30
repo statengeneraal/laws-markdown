@@ -35,11 +35,11 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  VII  
 
-In [artikel 20*a*, eerste lid, van de Wet op de loonbelasting 1964](../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) wordt met ingang van 1 januari 1997 in de tarieftabel het in kolom IV eerstvermelde percentage vervangen door: 6,2. Voorts wordt met ingang van dat jaar het in kolom III eerstvermelde bedrag vervangen door het bedrag dat wordt berekend door 6,2% te nemen van het in kolom II eerstvermelde bedrag en de uitkomst van die berekening naar beneden af te ronden op hele guldens. Ten slotte wordt met ingang van dat jaar het in kolom III als tweede vermelde bedrag vervangen door het bedrag dat wordt berekend door 50% te nemen van het verschil van het in kolom I eerstvermelde bedrag en het in kolom II als tweede vermelde bedrag, en de uitkomst van deze berekening naar beneden af te ronden op hele guldens en te verhogen met het op basis van de vorige volzin berekende in kolom III eerstvermelde bedrag. 
+In artikel 20*a*, eerste lid, van de Wet op de loonbelasting 1964 wordt met ingang van 1 januari 1997 in de tarieftabel het in kolom IV eerstvermelde percentage vervangen door: 6,2. Voorts wordt met ingang van dat jaar het in kolom III eerstvermelde bedrag vervangen door het bedrag dat wordt berekend door 6,2% te nemen van het in kolom II eerstvermelde bedrag en de uitkomst van die berekening naar beneden af te ronden op hele guldens. Ten slotte wordt met ingang van dat jaar het in kolom III als tweede vermelde bedrag vervangen door het bedrag dat wordt berekend door 50% te nemen van het verschil van het in kolom I eerstvermelde bedrag en het in kolom II als tweede vermelde bedrag, en de uitkomst van deze berekening naar beneden af te ronden op hele guldens en te verhogen met het op basis van de vorige volzin berekende in kolom III eerstvermelde bedrag. 
 
 ### Artikel  VIII  
 
-In [artikel 20*a*, eerste lid, van de Wet op de loonbelasting 1964](../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) wordt met ingang van 1 januari 1998 in de tarieftabel het in kolom IV eerstvermelde percentage vervangen door: 4,9. Voorts wordt met ingang van dat jaar het in kolom III eerstvermelde bedrag vervangen door het bedrag dat wordt berekend door 4,9% te nemen van het in kolom II eerstvermelde bedrag en de uitkomst van die berekening naar beneden af te ronden op hele guldens. Ten slotte wordt met ingang van dat jaar het in kolom III als tweede vermelde bedrag vervangen door het bedrag dat wordt berekend door 50% te nemen van het verschil van het in kolom I eerstvermelde bedrag en het in kolom II als tweede vermelde bedrag, en de uitkomst van deze berekening naar beneden af te ronden op hele guldens en te verhogen met het op basis van de vorige volzin berekende in kolom III eerstvermelde bedrag. 
+In artikel 20*a*, eerste lid, van de Wet op de loonbelasting 1964 wordt met ingang van 1 januari 1998 in de tarieftabel het in kolom IV eerstvermelde percentage vervangen door: 4,9. Voorts wordt met ingang van dat jaar het in kolom III eerstvermelde bedrag vervangen door het bedrag dat wordt berekend door 4,9% te nemen van het in kolom II eerstvermelde bedrag en de uitkomst van die berekening naar beneden af te ronden op hele guldens. Ten slotte wordt met ingang van dat jaar het in kolom III als tweede vermelde bedrag vervangen door het bedrag dat wordt berekend door 50% te nemen van het verschil van het in kolom I eerstvermelde bedrag en het in kolom II als tweede vermelde bedrag, en de uitkomst van deze berekening naar beneden af te ronden op hele guldens en te verhogen met het op basis van de vorige volzin berekende in kolom III eerstvermelde bedrag. 
 
 ### Artikel  IX  
 
@@ -51,7 +51,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  XI  
 
-Bij algemene maatregel van bestuur zal worden bepaald dat in bijlage B bij het [Uitvoeringsbesluit omzetbelasting 1968](../../../../../../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md), met ingang van 1 januari 1996, onderdeel *b*, nummer 17 vervalt. 
+Bij algemene maatregel van bestuur zal worden bepaald dat in bijlage B bij het Uitvoeringsbesluit omzetbelasting 1968, met ingang van 1 januari 1996, onderdeel *b*, nummer 17 vervalt. 
 
 ### Artikel  XII  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de loondoorbetalingsverplichting van de werkgever bij ziekte van de werknemer uit te breiden van zes naar 52 weken en daartoe het Burgerlijk Wetboek, de [Ziektewet](../../../../../../../wet/ziektewet/BWBR0001888/README.md) en enkele andere wetten te wijzigen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de loondoorbetalingsverplichting van de werkgever bij ziekte van de werknemer uit te breiden van zes naar 52 weken en daartoe het Burgerlijk Wetboek, de Ziektewet en enkele andere wetten te wijzigen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -154,11 +154,11 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  XXXII  
 
-De middelen van de afdelingskassen bedoeld in artikel 43 van de Organisatiewet sociale verzekeringen, alsmede de reserves bedoeld in [artikel 63 van de Ziektewet](../../../../../../../wet/ziektewet/BWBR0001888/README.md), zoals laatstgenoemde wet luidde op de dag voorafgaand aan de inwerkingtreding van deze wet, komen ten gunste van de wachtgeldfondsen, bedoeld in [artikel 102 van de Werkloosheidswet](../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md). 
+De middelen van de afdelingskassen bedoeld in artikel 43 van de Organisatiewet sociale verzekeringen, alsmede de reserves bedoeld in artikel 63 van de Ziektewet, zoals laatstgenoemde wet luidde op de dag voorafgaand aan de inwerkingtreding van deze wet, komen ten gunste van de wachtgeldfondsen, bedoeld in artikel 102 van de Werkloosheidswet. 
 
 ###Artikel XXXIII 
 
-1. [Artikel 1638*c* van Boek 7A van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7a/BWBR0006000/README.md) zoals dit artikel luidde op de dag voor de inwerkingtreding van deze wet blijft van toepassing op de arbeidsverhouding van de persoon: 
+1. Artikel 1638*c* van Boek 7A van het Burgerlijk Wetboek zoals dit artikel luidde op de dag voor de inwerkingtreding van deze wet blijft van toepassing op de arbeidsverhouding van de persoon: 
 
 a.die op de dag voor de inwerkingtreding van deze wet ongeschikt is tot het verrichten van zijn arbeid wegens ziekte, zolang die ongeschiktheid duurt; of
 
@@ -167,7 +167,7 @@ b.wiens ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte intreedt
 
 ### Artikel  XXXIV  
 
-1.  De [Ziektewet](../../../../../../../wet/ziektewet/BWBR0001888/README.md) en de daarop berustende bepalingen zoals deze luidden op de dag voor de inwerkingtreding van deze wet blijven van toepassing op het recht op ziekengeld van de verzekerde:  
+1.  De Ziektewet en de daarop berustende bepalingen zoals deze luidden op de dag voor de inwerkingtreding van deze wet blijven van toepassing op het recht op ziekengeld van de verzekerde:  
 
 a. die op de dag voor de inwerkingtreding van deze wet ongeschikt is tot het verrichten van zijn arbeid wegens ziekte, zolang die ongeschiktheid duurt; of  
 
@@ -181,7 +181,7 @@ b. wiens ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte intreed
 
 ### Artikel  XXXVI  
 
-[Artikel 64, derde lid, van de Ziektewet](../../../../../../../wet/ziektewet/BWBR0001888/README.md), blijft van toepassing op de persoon die op de dag voorafgaand aan de inwerkingtreding van deze wet op grond van dat artikellid vrijwillig verzekerd was. 
+Artikel 64, derde lid, van de Ziektewet, blijft van toepassing op de persoon die op de dag voorafgaand aan de inwerkingtreding van deze wet op grond van dat artikellid vrijwillig verzekerd was. 
 
 ### Artikel  XXXVII  
 

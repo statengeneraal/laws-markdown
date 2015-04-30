@@ -18,7 +18,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Welzijn, Volksgezondheid en Cultuur;   
 
-b. de Gezondheidsraad: de Gezondheidsraad, bedoeld in [artikel 21 van de Gezondheidswet](../../../../../../wet/gezondheidswet/BWBR0002202/README.md) (*Stb.* 1956, 51);   
+b. de Gezondheidsraad: de Gezondheidsraad, bedoeld in artikel 21 van de Gezondheidswet (*Stb.* 1956, 51);   
 
 c. bevolkingsonderzoek: geneeskundig onderzoek van personen dat wordt verricht ter uitvoering van een aan de gehele bevolking of aan een categorie daarvan gedaan aanbod dat gericht is op het ten behoeve of mede ten behoeve van de te onderzoeken personen opsporen van ziekten van een bepaalde aard of van bepaalde risico-indicatoren.    
 
@@ -102,7 +102,7 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn 
 
 ### Artikel  11  
 
-De toezichthouders beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+De toezichthouders beschikken niet over de bevoegdheden, genoemd in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht.  
 
 ### Artikel  13  
 

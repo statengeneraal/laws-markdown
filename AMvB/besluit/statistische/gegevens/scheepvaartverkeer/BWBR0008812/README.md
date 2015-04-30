@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 20 januari 1997, nr. DGSM/S/J 97000275, Directoraat Generaal Scheepvaart en Maritieme Zaken;
 
-Gelet op richtlijn nr. 95/64/EG van de Raad van 8 december 1995, betreffende de statistiek van het zeevervoer van goederen en personen (*PbEG* L 320), en de artikelen 17 en 31, tiende lid, van de [Scheepvaartverkeerswet](../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md);
+Gelet op richtlijn nr. 95/64/EG van de Raad van 8 december 1995, betreffende de statistiek van het zeevervoer van goederen en personen (*PbEG* L 320), en de artikelen 17 en 31, tiende lid, van de Scheepvaartverkeerswet;
 
 De Raad van State gehoord (advies van 2 april 1997, Nr. W09.97.0029.);
 
@@ -15,16 +15,16 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt onder bevoegde autoriteit verstaan: degene aan wie op de desbetreffende scheepvaartweg een melding krachtens [artikel 4, eerste of derde lid, van de Scheepvaartverkeerswet](../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) geschiedt. 
+In dit besluit wordt onder bevoegde autoriteit verstaan: degene aan wie op de desbetreffende scheepvaartweg een melding krachtens artikel 4, eerste of derde lid, van de Scheepvaartverkeerswet geschiedt. 
 
 ### Artikel  2  
 
-1.  Degene die een schip voert dat zich krachtens [artikel 4, eerste of derde lid, van de Scheepvaartverkeerswet](../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) moet melden, verstrekt ten behoeve van statistische doeleinden, door middel van de verplichte melding en als onderdeel daarvan gegevens aan het Centraal bureau voor de statistiek en aan door Onze Minister aangewezen personen of instellingen.   
-2.  De in het eerste lid bedoelde gegevens zijn die welke krachtens [artikel 4, eerste of derde lid, van de Scheepvaartverkeerswet](../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) dienen te worden gemeld of waarom krachtens die bepaling kan worden verzocht.   
+1.  Degene die een schip voert dat zich krachtens artikel 4, eerste of derde lid, van de Scheepvaartverkeerswet moet melden, verstrekt ten behoeve van statistische doeleinden, door middel van de verplichte melding en als onderdeel daarvan gegevens aan het Centraal bureau voor de statistiek en aan door Onze Minister aangewezen personen of instellingen.   
+2.  De in het eerste lid bedoelde gegevens zijn die welke krachtens artikel 4, eerste of derde lid, van de Scheepvaartverkeerswet dienen te worden gemeld of waarom krachtens die bepaling kan worden verzocht.   
 
 ### Artikel  3  
 
-Artikel 2 is van overeenkomstige toepassing op degene die een schip voert dat zich niet krachtens [artikel 4, eerste of derde lid, van de Scheepvaartverkeerswet](../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) moet melden, als door de bevoegde autoriteit aan degene die het schip voert om de verstrekking van statistische gegevens wordt verzocht. 
+Artikel 2 is van overeenkomstige toepassing op degene die een schip voert dat zich niet krachtens artikel 4, eerste of derde lid, van de Scheepvaartverkeerswet moet melden, als door de bevoegde autoriteit aan degene die het schip voert om de verstrekking van statistische gegevens wordt verzocht. 
 
 ### Artikel  4  
 

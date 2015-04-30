@@ -6,7 +6,7 @@ De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
 
 ###Artikel I 
 
-De Regeling huurgewenningsbijdrage, zoals zij laatstelijk luidde voor 1 juli 1988 (Stcrt. 1987, 75) wordt, bij toepassing van de [Overgangsregeling huurgewenningsbijdrage domeinwoningen](../../../../../../ministeriele-regeling/overgangsregeling/huurgewenningsbijdrage/domeinwoningen/BWBR0004464/README.md) (Stcrt. 1988, 253) gelezen als volgt:
+De Regeling huurgewenningsbijdrage, zoals zij laatstelijk luidde voor 1 juli 1988 (Stcrt. 1987, 75) wordt, bij toepassing van de Overgangsregeling huurgewenningsbijdrage domeinwoningen (Stcrt. 1988, 253) gelezen als volgt:
 ###A
 
 Artikel 1, eerste lid, wordt gelezen als volgt: 
@@ -20,7 +20,7 @@ Artikel 1, eerste lid, wordt gelezen als volgt:
 
 In artikel 3, derde lid, wordt 
 
-1.in plaats van [artikel 59 van de Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md) gelezen: [artikel 70 van de Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md) (Stb. 1991, 439);
+1.in plaats van artikel 59 van de Woningwet gelezen: artikel 70 van de Woningwet (Stb. 1991, 439);
 
 2.tussen ‘op voet van’ en ‘de Regeling geldelijke steun voorzieningen aan huurwoningen 1987’ gelezen: de Regeling woninggebonden subsidies niet-budgetbeherende gemeenten (Stcrt. 1991, 197), de geheel of ten dele ter uitvoering van het Besluit woninggebonden subsidies (Stb. 1991, 440) strekkende gemeentelijke subsidieverordening..
 ###C

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Defensie van 13 oktober 1995, nr. PAV6210/9501966;
 
-Gelet op [artikel 12 van de Militaire Ambtenarenwet](../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md);
+Gelet op artikel 12 van de Militaire Ambtenarenwet;
 
 De Raad van State gehoord (advies van 22 december 1995, no. WO7.95.0555);
 

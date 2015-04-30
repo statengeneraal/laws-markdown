@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 2 april 1997, nr. AB97/U415, directoraat-generaal Management en Personeelsbeleid, directie Arbeidszaken Overheid, afdeling Arbeidsverhoudingen en Juridische Zaken;
 
-Gelet op [artikel 46*d*, onderdeel *g*, van de Wet op de ondernemingsraden](../../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md);
+Gelet op artikel 46*d*, onderdeel *g*, van de Wet op de ondernemingsraden;
 
 De Raad van State gehoord (advies van 15 mei 1997, nr. W04.97.0196);
 
@@ -24,13 +24,13 @@ a. Onze Minister: de Minister van Binnenlandse Zaken;
 
 b. ondernemer: een rechtspersoon die een onderneming in stand houdt waarin uitsluitend of nagenoeg uitsluitend krachtens publiekrechtelijke aanstelling arbeid wordt verricht;  
 
-c. overheidswerkgever: de overheidswerkgever, bedoeld in [artikel 1, onderdeel k, van de Wet overheidspersoneel onder de werknemersverzekeringen](../../../../../../../../../../../wet/wet/overheidspersoneel/onder/de/werknemersverzekeringen/BWBR0009267/README.md);  
+c. overheidswerkgever: de overheidswerkgever, bedoeld in artikel 1, onderdeel k, van de Wet overheidspersoneel onder de werknemersverzekeringen;  
 
 d. het Lisv: het Landelijk instituut sociale verzekeringen, bedoeld in hoofdstuk 4 van de Organisatiewet sociale verzekeringen 1997;   
 
-e. de uitvoeringsinstelling: een uitvoeringsinstelling als bedoeld in artikel 1, onderdeel f, van de Organisatiewet sociale verzekeringen 1997 die een of meer uitkeringsregelingen ter zake van ziekte, arbeidsongeschiktheid of werkloosheid van overheidswerknemers als bedoeld in [artikel 1, onderdeel l, van de Wet overheidspersoneel onder de werknemersverzekeringen](../../../../../../../../../../../wet/wet/overheidspersoneel/onder/de/werknemersverzekeringen/BWBR0009267/README.md) uitvoert;   
+e. de uitvoeringsinstelling: een uitvoeringsinstelling als bedoeld in artikel 1, onderdeel f, van de Organisatiewet sociale verzekeringen 1997 die een of meer uitkeringsregelingen ter zake van ziekte, arbeidsongeschiktheid of werkloosheid van overheidswerknemers als bedoeld in artikel 1, onderdeel l, van de Wet overheidspersoneel onder de werknemersverzekeringen uitvoert;   
 
-f. de Raad: de Sociaal-Economische Raad, bedoeld in [artikel 1 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).    
+f. de Raad: de Sociaal-Economische Raad, bedoeld in artikel 1 van de Wet op de bedrijfsorganisatie.    
 
 ### §  2  
 
@@ -38,11 +38,11 @@ f. de Raad: de Sociaal-Economische Raad, bedoeld in [artikel 1 van de Wet op de 
 
 ### Artikel  2  
 
-Ter bevordering van de scholing en vorming van ondernemingsraadsleden bij de overheid legt Onze Minister aan ondernemers die op grond van het bepaalde bij of krachtens de [Wet op de ondernemingsraden](../../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) verplicht zijn om een ondernemingsraad in te stellen, een heffing op ten bedrage van een door Onze Minister vast te stellen percentage van de heffingsgrondslag, bedoeld in artikel 3. 
+Ter bevordering van de scholing en vorming van ondernemingsraadsleden bij de overheid legt Onze Minister aan ondernemers die op grond van het bepaalde bij of krachtens de Wet op de ondernemingsraden verplicht zijn om een ondernemingsraad in te stellen, een heffing op ten bedrage van een door Onze Minister vast te stellen percentage van de heffingsgrondslag, bedoeld in artikel 3. 
 
 ### Artikel  3  
 
-De heffingsgrondslag bestaat uit het loon dat voor de overheidswerkgevers voor de premieberekening krachtens de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) in aanmerking komt.  
+De heffingsgrondslag bestaat uit het loon dat voor de overheidswerkgevers voor de premieberekening krachtens de Wet op de arbeidsongeschiktheidsverzekering in aanmerking komt.  
 
 ### §  3  
 
@@ -54,14 +54,14 @@ Ter uitvoering van de inning maakt het Lisv, overeenkomstig artikel 41 van de Or
 
 ### Artikel  5  
 
-1.  De uitvoeringsinstelling int de heffing bij de overheidswerkgevers voor wier personeel op grond van het bepaalde bij of krachtens de [Wet op de ondernemingsraden](../../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) een ondernemingsraad moet worden ingesteld.    
+1.  De uitvoeringsinstelling int de heffing bij de overheidswerkgevers voor wier personeel op grond van het bepaalde bij of krachtens de Wet op de ondernemingsraden een ondernemingsraad moet worden ingesteld.    
 2.  Ter inning van de heffing zendt de uitvoeringsinstelling de desbetreffende overheidswerkgevers zo spoedig mogelijk na de aanvang van het kalenderjaar een heffingsaanslag waarin mede zijn aangegeven de grond van de heffing en de hoogte van het percentage, bedoeld in artikel 2.    
 3.  De uitvoeringsinstelling stelt de verschuldigde heffing vast op basis van de door de betrokken overheidswerkgever schriftelijk aangegeven heffingsgrondslag, bedoeld in artikel 3. Na afloop van het kalenderjaar vindt een afrekening plaats op basis van het definitief vastgestelde loon.   
 
 ### Artikel  6  
 
-1.  De uitvoeringsinstelling int de verschuldigde heffing maandelijks tezamen met de premie, bedoeld in [artikel 76a van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md).    
-2.  De uitvoeringsinstelling draagt de ontvangen heffingen maandelijks, zo spoedig mogelijk na ontvangst, af aan de Raad. Ten aanzien van de aan de Raad afgedragen heffingen is [artikel 46b van de Wet op de ondernemingsraden](../../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) van overeenkomstige toepassing.    
+1.  De uitvoeringsinstelling int de verschuldigde heffing maandelijks tezamen met de premie, bedoeld in artikel 76a van de Wet op de arbeidsongeschiktheidsverzekering.    
+2.  De uitvoeringsinstelling draagt de ontvangen heffingen maandelijks, zo spoedig mogelijk na ontvangst, af aan de Raad. Ten aanzien van de aan de Raad afgedragen heffingen is artikel 46b van de Wet op de ondernemingsraden van overeenkomstige toepassing.    
 3.  Na het verstrijken van elk kalenderjaar legt de uitvoeringsinstelling aan Onze Minister een door een registeraccountant gewaarmerkte rekening en verantwoording over. Deze gewaarmerkte rekening en verantwoording bevat ten minste een opgave van de in het desbetreffende kalenderjaar verzonden heffingsaanslagen, van de ontvangen en afgedragen heffingen, alsmede van de afrekeningen, bedoeld in artikel 5, derde lid.   
 
 ### §  4  
@@ -82,7 +82,7 @@ Aan de Raad wordt ter zake van de door hem ter uitvoering van dit besluit verric
 
 ### Artikel  9  
 
-Voor de heffing over het jaar 1997 bestaat de heffingsgrondslag uit achtmaal het loon dat over de maand maart 1997 in aanmerking komt voor de premieberekening, bedoeld in [paragraaf 4 van de Wet financiële voorzieningen privatisering ABP](../../../../../../../../../../../wet/wet/financiële/voorzieningen/privatisering/abp/BWBR0007211/README.md). 
+Voor de heffing over het jaar 1997 bestaat de heffingsgrondslag uit achtmaal het loon dat over de maand maart 1997 in aanmerking komt voor de premieberekening, bedoeld in paragraaf 4 van de Wet financiële voorzieningen privatisering ABP. 
 
 ### Artikel  10  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 5 maart 1993, nr. AB93/U227, directoraat-generaal Management en Personeelsbeleid, directie Arbeidsvoorwaarden, afdeling Arbeidsvoorwaarden Rijkspersoneel, mede gedaan namens Onze Minister van Justitie;
 
-Gelet op de [artikelen 125, eerste lid](../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md), en [134, eerste lid, van de Ambtenarenwet](../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) 1929, [artikel 80 van de gemeentewet](../../../../../../../../wet/gemeentewet/BWBR0005416/README.md), [artikel 6 van de Wet van 11 september 1964, houdende vaststelling van een nieuwe regeling van de bezoldiging van de vice-president van de Raad van State en de staatsraden, alsmede van de president en de overige leden van de Algemene Rekenkamer](../../../../../../../../wet/wet/bezoldiging/raad/van/state/en/algemene/rekenkamer/BWBR0002456/README.md) (*Stb.* 1993, 218), artikel 7, derde lid, van de Wet op de bezoldiging van de rechterlijke ambtenaren, [artikel 1, derde lid, van de Wet bezoldiging Nationale ombudsman](../../../../../../../../wet/wet/bezoldiging/nationale/ombudsman/BWBR0003429/README.md), [artikel 89 van de Grondwet](../../../../../../../../wet/grondwet/BWBR0001840/README.md), [artikel 7 van de Wet Nationale ombudsman](../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md), artikel C 1 van de Algemene burgerlijke pensioenwet, de [artikelen 16](../../../../../../../../wet/intrekkingswet/bb/BWBR0003986/README.md) en [17 van de Intrekkingswet BB](../../../../../../../../wet/intrekkingswet/bb/BWBR0003986/README.md) en artikel 4, tweede lid, van de Wet van 17 juli 1923, *Stb.* 364;
+Gelet op de artikelen 125, eerste lid, en 134, eerste lid, van de Ambtenarenwet 1929, artikel 80 van de gemeentewet, artikel 6 van de Wet van 11 september 1964, houdende vaststelling van een nieuwe regeling van de bezoldiging van de vice-president van de Raad van State en de staatsraden, alsmede van de president en de overige leden van de Algemene Rekenkamer (*Stb.* 1993, 218), artikel 7, derde lid, van de Wet op de bezoldiging van de rechterlijke ambtenaren, artikel 1, derde lid, van de Wet bezoldiging Nationale ombudsman, artikel 89 van de Grondwet, artikel 7 van de Wet Nationale ombudsman, artikel C 1 van de Algemene burgerlijke pensioenwet, de artikelen 16 en 17 van de Intrekkingswet BB en artikel 4, tweede lid, van de Wet van 17 juli 1923, *Stb.* 364;
 
 De Raad van State gehoord (advies van 18 mei 1993, nr. W04.93.0157);
 
@@ -14,7 +14,7 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken van 22 juni 19
 Hebben goedgevonden en verstaan:     
 ### Hoofdstuk  I  
 
-####Wijziging van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en enige andere rechtspositionele regelingen in verband met algemene salarismaatregelen per 1 april 1992 en per 1 januari 1993
+####Wijziging van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 en enige andere rechtspositionele regelingen in verband met algemene salarismaatregelen per 1 april 1992 en per 1 januari 1993
 
 ### §  I  
 
@@ -26,8 +26,8 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  II  
 
-1.  Voor zover artikel I aanleiding geeft tot het wijzigen van de bedragen van toelagen, toegekend met toepassing van artikel 19 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1948, die ingevolge het bepaalde in [artikel 13 van de Overgangsregeling Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/overgangsregeling/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003631/README.md) nog worden gehandhaafd, geschiedt zulks door Onze Minister, hoofd van het daarbij betrokken ministerie, met inachtneming van de daarvoor door Onze Minister van Binnenlandse Zaken te geven richtlijnen.   
-2.   Voor zover artikel I aanleiding geeft tot het wijzigen van bijzondere regelingen, getroffen met toepassing van [artikel 26 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), geschiedt dit bij gemeenschappelijke beschikking van Onze Minister, hoofd van het daarbij betrokken ministerie, en van Onze Minister van Binnenlandse Zaken.  
+1.  Voor zover artikel I aanleiding geeft tot het wijzigen van de bedragen van toelagen, toegekend met toepassing van artikel 19 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1948, die ingevolge het bepaalde in artikel 13 van de Overgangsregeling Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 nog worden gehandhaafd, geschiedt zulks door Onze Minister, hoofd van het daarbij betrokken ministerie, met inachtneming van de daarvoor door Onze Minister van Binnenlandse Zaken te geven richtlijnen.   
+2.   Voor zover artikel I aanleiding geeft tot het wijzigen van bijzondere regelingen, getroffen met toepassing van artikel 26 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984, geschiedt dit bij gemeenschappelijke beschikking van Onze Minister, hoofd van het daarbij betrokken ministerie, en van Onze Minister van Binnenlandse Zaken.  
 
 ### Artikel  III  
 
@@ -53,8 +53,8 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  VII  
 
-1.  Voor zover artikel VI aanleiding geeft tot het wijzigen van de bedragen van toelagen, toegekend met toepassing van artikel 19 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1948, die ingevolge het bepaalde in [artikel 13 van de Overgangsregeling Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/overgangsregeling/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003631/README.md) nog worden gehandhaafd, geschiedt zulks door Onze Minister, hoofd van het daarbij betrokken ministerie, met inachtneming van de daarvoor door Onze Minister van Binnenlandse Zaken te geven richtlijnen.   
-2.   Voor zover artikel VI aanleiding geeft tot het wijzigen van bijzondere regelingen, getroffen met toepassing van [artikel 26 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), geschiedt dit bij gemeenschappelijke beschikking van Onze Minister, hoofd van het daarbij betrokken ministerie, en van Onze Minister van Binnenlandse Zaken.  
+1.  Voor zover artikel VI aanleiding geeft tot het wijzigen van de bedragen van toelagen, toegekend met toepassing van artikel 19 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1948, die ingevolge het bepaalde in artikel 13 van de Overgangsregeling Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 nog worden gehandhaafd, geschiedt zulks door Onze Minister, hoofd van het daarbij betrokken ministerie, met inachtneming van de daarvoor door Onze Minister van Binnenlandse Zaken te geven richtlijnen.   
+2.   Voor zover artikel VI aanleiding geeft tot het wijzigen van bijzondere regelingen, getroffen met toepassing van artikel 26 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984, geschiedt dit bij gemeenschappelijke beschikking van Onze Minister, hoofd van het daarbij betrokken ministerie, en van Onze Minister van Binnenlandse Zaken.  
 
 ### Artikel  VIII  
 
@@ -80,27 +80,27 @@ C.   Bevat wijzigingen in andere regelgeving.
 
 a. de belanghebbenden:  
 
-1°. de ambtenaren in de zin van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en zij, voor wie krachtens [artikel 26 van dat besluit](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) een bezoldigingsregeling is vastgesteld;  
+1°. de ambtenaren in de zin van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 en zij, voor wie krachtens artikel 26 van dat besluit een bezoldigingsregeling is vastgesteld;  
 
 2°. de werknemers in de zin van het Arbeidsovereenkomstenbesluit, wier loon is vastgesteld met toepassing van het bepaalde in artikel 12, eerste lid, onder *b*, *c* of *d* van dat besluit;  
 
-3°. de burgemeesters van één of meer gemeenten, alsmede degenen die op grond van [artikel 84, derde lid, van de gemeentewet](../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) met de vervanging van het ambt zijn belast;  
+3°. de burgemeesters van één of meer gemeenten, alsmede degenen die op grond van artikel 84, derde lid, van de gemeentewet met de vervanging van het ambt zijn belast;  
 
-4°. de functionarissen voor wie de bezoldiging is geregeld in de [Wet van 11 september 1964, houdende vaststelling van een nieuwe regeling van de bezoldiging van de vice-president van de Raad van State en de staatsraden, alsmede van de president en de overige leden van de Algemene Rekenkamer](../../../../../../../../wet/wet/bezoldiging/raad/van/state/en/algemene/rekenkamer/BWBR0002456/README.md) (*Stb.* 1993, 218);  
+4°. de functionarissen voor wie de bezoldiging is geregeld in de Wet van 11 september 1964, houdende vaststelling van een nieuwe regeling van de bezoldiging van de vice-president van de Raad van State en de staatsraden, alsmede van de president en de overige leden van de Algemene Rekenkamer (*Stb.* 1993, 218);  
 
 5°. de rechterlijke ambtenaren wier bezoldiging is geregeld in de Wet op de bezoldiging van de rechterlijke ambtenaren en de kandidaat-verkeersschouten wier bezoldiging is geregeld in het Besluit opleiding verkeersschouten;  
 
-6°. de functionarissen voor wie de bezoldiging is geregeld in [artikel 1, eerste lid, van de Wet bezoldiging Nationale ombudsman](../../../../../../../../wet/wet/bezoldiging/nationale/ombudsman/BWBR0003429/README.md);  
+6°. de functionarissen voor wie de bezoldiging is geregeld in artikel 1, eerste lid, van de Wet bezoldiging Nationale ombudsman;  
 
-7°. de ambtenaren en werknemers wier bezoldiging is geregeld in de [artikelen 48](../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) en [120 van het Reglement Dienst Buitenlandse Zaken](../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md);  
+7°. de ambtenaren en werknemers wier bezoldiging is geregeld in de artikelen 48 en 120 van het Reglement Dienst Buitenlandse Zaken;  
 
-8°. de belanghebbenden in de zin van het [Rijkswachtgeldbesluit 1959](../../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md), de Regeling uitkering wegens functioneel leeftijdsontslag, de [Uitkeringsregeling 1966](../../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md) en de Wet uitkering wegens vrijwillig vervroegd uittreden;  
+8°. de belanghebbenden in de zin van het Rijkswachtgeldbesluit 1959, de Regeling uitkering wegens functioneel leeftijdsontslag, de Uitkeringsregeling 1966 en de Wet uitkering wegens vrijwillig vervroegd uittreden;  
 
-9°. de gewezen noodwachters die op grond van het bepaalde in de [artikelen 16](../../../../../../../../wet/intrekkingswet/bb/BWBR0003986/README.md) en [17 van de Intrekkingswet BB](../../../../../../../../wet/intrekkingswet/bb/BWBR0003986/README.md) een wachtgeld of een uitkering genieten.    
+9°. de gewezen noodwachters die op grond van het bepaalde in de artikelen 16 en 17 van de Intrekkingswet BB een wachtgeld of een uitkering genieten.    
 
 b. de berekeningsbasis:  
 
-1°. voor de belanghebbende, genoemd onder *a*.1° tot en met *a*.7°: het salaris, bedoeld in het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), dan wel hetgeen daarmee overeenkomt in andere bezoldigingsregelingen, dat over de maand september 1992 mede met inachtneming van de bepalingen van het [Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) ter zake van vermindering van de bezoldiging in geval van non-activiteit, militaire dienst, buitengewoon verlof, ouderschapsverlof, ziekte of schorsing, dan wel op grond van overeenkomstige bepalingen in andere rechtspositieregelingen, wordt genoten, met dien verstande dat hierbij onder salaris tevens wordt verstaan het zakgeld c.q. de vergoeding bij opleidingen, als bedoeld in de Bezoldigingsregeling leerling-verpleegkundigen en leerling-ziekenverzorgenden 1978 c.q. de [Rechtspositieregeling voor deelnemers aan opleidingen in het kader van het leerlingwezen](../../../../../../../../AMvB/rechtspositieregeling/voor/deelnemers/aan/opleidingen/in/het/kader/van/het/etc/BWBR0003965/README.md), dan wel hetgeen daarmee overeenkomt in andere rechtspositieregelingen;  
+1°. voor de belanghebbende, genoemd onder *a*.1° tot en met *a*.7°: het salaris, bedoeld in het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984, dan wel hetgeen daarmee overeenkomt in andere bezoldigingsregelingen, dat over de maand september 1992 mede met inachtneming van de bepalingen van het Algemeen Rijksambtenarenreglement ter zake van vermindering van de bezoldiging in geval van non-activiteit, militaire dienst, buitengewoon verlof, ouderschapsverlof, ziekte of schorsing, dan wel op grond van overeenkomstige bepalingen in andere rechtspositieregelingen, wordt genoten, met dien verstande dat hierbij onder salaris tevens wordt verstaan het zakgeld c.q. de vergoeding bij opleidingen, als bedoeld in de Bezoldigingsregeling leerling-verpleegkundigen en leerling-ziekenverzorgenden 1978 c.q. de Rechtspositieregeling voor deelnemers aan opleidingen in het kader van het leerlingwezen, dan wel hetgeen daarmee overeenkomt in andere rechtspositieregelingen;  
 
 2°. voor de belanghebbende, genoemd onder *a*.8° en *a*.9°: het bedrag van het wachtgeld of de uitkering dat met inachtneming van de bepalingen van de van toepassing zijnde ontslaguitkeringsregeling over de maand september 1992 wordt uitgekeerd.       
 2.   De belanghebbende, genoemd in het eerste lid, onder *a*.1° tot en met *a*.7° wordt voor de toepassing van dit hoofdstuk niet als belanghebbende aangemerkt voor de tijd dat hij ingevolge een wettelijke verplichting als militair in werkelijke dienst is voor eerste oefening en in verband daarmee de aan zijn ambt verbonden bezoldiging geniet tot een bedrag, dat gelijk is aan het bedrag van het op hem te verhalen gedeelte van de pensioenbijdrage.  
@@ -112,7 +112,7 @@ b. de berekeningsbasis:
 
 ### Artikel  XIII  
 
-Hij die na zijn ontslag uit hoofde van ziekte aan [hoofdstuk VI van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), dan wel aan daarmede overeenkomende voorzieningen in andere rechtspositieregelingen, aanspraak kan ontlenen op bezoldiging of loon, wordt voor de toepassing van dit hoofdstuk behandeld alsof hij in dienst is gebleven. 
+Hij die na zijn ontslag uit hoofde van ziekte aan hoofdstuk VI van het Algemeen Rijksambtenarenreglement, dan wel aan daarmede overeenkomende voorzieningen in andere rechtspositieregelingen, aanspraak kan ontlenen op bezoldiging of loon, wordt voor de toepassing van dit hoofdstuk behandeld alsof hij in dienst is gebleven. 
 
 ### Artikel  XIV  
 
@@ -133,7 +133,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Hoofdstuk  IV  
 
-####Enkele wijzigingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) 
+####Enkele wijzigingen van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 
 
 ### Artikel  XVII  
 

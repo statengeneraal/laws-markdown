@@ -16,11 +16,11 @@ Gelet op:
 
 de Dienstplichtwet (*Stb.* 1922, 43);
 
-de [Militaire Ambtenarenwet 1931](../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) (*Stb.* 1931, 519);
+de Militaire Ambtenarenwet 1931 (*Stb.* 1931, 519);
 
 de Wet bevordering en ontslag beroepsofficieren (*Stb.* 1954, 575);
 
-de [Wet voor het reserve-personeel der krijgsmacht](../../../../wet/wet/voor/het/reservepersoneel/der/krijgsmacht/BWBR0003883/README.md) (*Stb.* 1954, 576);
+de Wet voor het reserve-personeel der krijgsmacht (*Stb.* 1954, 576);
 
 de Pensioenwet voor de zeemacht 1922 (*Stb.* 1922, 65);
 

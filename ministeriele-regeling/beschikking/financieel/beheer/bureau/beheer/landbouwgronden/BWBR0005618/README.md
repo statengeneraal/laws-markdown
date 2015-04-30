@@ -5,17 +5,17 @@
 De Minister van Landbouw en Visserij,  
 Handelende in overeenstemming met de Minister van Financiën;
 
-Gelet op de [artikelen 32](../../../../../../../../wet/wet/agrarisch/grondverkeer/BWBR0003386/README.md) en [35 van de Wet agrarisch grondverkeer](../../../../../../../../wet/wet/agrarisch/grondverkeer/BWBR0003386/README.md) (Stb. 1981, 248),
+Gelet op de artikelen 32 en 35 van de Wet agrarisch grondverkeer (Stb. 1981, 248),
 Besluit:    
 
 ###Artikel  1  
 
 1.  Voor de toepassing van deze beschikking is het bureau te beschouwen als een departementale organisatie-eenheid van het Ministerie van Landbouw, Natuurbeheer en Visserij.   
-2.  Met inachtneming van het bepaalde in de artikelen 2 tot en met 4 van deze beschikking en onverminderd het bepaalde in de [Wet agrarisch grondverkeer](../../../../../../../../wet/wet/agrarisch/grondverkeer/BWBR0003386/README.md) (Stb. 1981, 248), hierna verder te noemen de wet, is voor het bureau met betrekking tot het beheer van de begroting en het beheer der geldmiddelen het bepaalde bij of krachtens hoofdstuk II, paragrafen 1 tot en met 5 van de [Comptabiliteitswet](../../../../../../../../wet/comptabiliteitswet/BWBR0003075/README.md) 1976, van overeenkomstige toepassing.  
+2.  Met inachtneming van het bepaalde in de artikelen 2 tot en met 4 van deze beschikking en onverminderd het bepaalde in de Wet agrarisch grondverkeer (Stb. 1981, 248), hierna verder te noemen de wet, is voor het bureau met betrekking tot het beheer van de begroting en het beheer der geldmiddelen het bepaalde bij of krachtens hoofdstuk II, paragrafen 1 tot en met 5 van de Comptabiliteitswet 1976, van overeenkomstige toepassing.  
 
 ###Artikel  2  
 
-1.  Onder inkomsten en uitgaven, als bedoeld in artikel 33 van de wet, worden zowel voor de begroting als voor de rekening en verantwoording, verstaan de geldelijke ontvangsten en bepalingen, als bedoeld in [artikel 16, tweede lid, van de Comptabiliteitswet](../../../../../../../../wet/comptabiliteitswet/BWBR0003075/README.md) 1976.   
+1.  Onder inkomsten en uitgaven, als bedoeld in artikel 33 van de wet, worden zowel voor de begroting als voor de rekening en verantwoording, verstaan de geldelijke ontvangsten en bepalingen, als bedoeld in artikel 16, tweede lid, van de Comptabiliteitswet 1976.   
 2.  De begroting van het bureau wordt onderverdeeld in artikelen, die betrekking hebben op de inkomsten en de uitgaven.   
 3.  Voor de in een kalenderjaar aan te gane verplichtingen wordt, voor zover deze tot uitgaven in latere jaren zullen leiden, naast de raming van de uitgaven van het kalenderjaar een raming van die verplichtingen opgenomen, tenzij de omvang daarvan niet kan worden bepaald, danwel die verplichtingen per begrotingsartikel een bedrag van € 115.000,- niet te boven gaan.  
 
@@ -29,7 +29,7 @@ Voorstellen tot wijziging van de begroting worden door de directeur van het bure
 
 ###Artikel  5  
 
-1.  De staat van inkomsten en uitgaven, bedoeld in artikel 33, derde lid, van de wet, wordt met inachtneming van het bepaalde in de [artikelen 85, eerste lid](../../../../../../../../wet/comptabiliteitswet/BWBR0003075/README.md), en [86, tweede lid, van de Comptabiliteitswet](../../../../../../../../wet/comptabiliteitswet/BWBR0003075/README.md) 1976, vastgesteld overeenkomstig de indeling van de begroting.   
+1.  De staat van inkomsten en uitgaven, bedoeld in artikel 33, derde lid, van de wet, wordt met inachtneming van het bepaalde in de artikelen 85, eerste lid, en 86, tweede lid, van de Comptabiliteitswet 1976, vastgesteld overeenkomstig de indeling van de begroting.   
 2.  De balans, als bedoeld in artikel 33, derde lid, van de wet, geeft de financiële positie weer en wordt opgesteld op dezelfde grondslagen als de in het eerste lid genoemde staat van inkomsten en uitgaven.   
 3.  De rekening en verantwoording omvat mede een toelichting op de staat van inkomsten en uitgaven en de balans, alsmede een uiteenzetting van het gevoerde beleid en de financiële gevolgen daarvan.  
 

@@ -18,13 +18,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a. belanghebbende:  
 
-1°. hij, die dienstplichtige is in de zin van de Dienstplichtwet of krachtens die wet als dienstplichtige wordt beschouwd dan wel hij die dienstplichtige is in de zin van de [Kaderwet dienstplicht](../../../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md);  
+1°. hij, die dienstplichtige is in de zin van de Dienstplichtwet of krachtens die wet als dienstplichtige wordt beschouwd dan wel hij die dienstplichtige is in de zin van de Kaderwet dienstplicht;  
 
 2°. hij, die verplicht tot het reserve-personeel der krijgsmacht behoort;  
 
 3°. hij, die is aangesteld bij het reserve-personeel der krijgsmacht om bij het Korps Nationale Reserve, als bedoeld in het Besluit Nationale Reserve (koninklijk besluit van 14 oktober 1982, nummer 48), militaire dienst te verrichten;  
 
-4°. hij, die krachtens [artikel 51 van de Oorlogswet voor Nederland](../../../../../wet/oorlogswet/voor/nederland/BWBR0007983/README.md) wordt aangemerkt als militair;    
+4°. hij, die krachtens artikel 51 van de Oorlogswet voor Nederland wordt aangemerkt als militair;    
 
 b. dag, waarop het verblijf in werkelijke dienst eindigt:  de dag van ingang van:  
 
@@ -38,11 +38,11 @@ c. arbeidsongeschiktheid:
 
 1°. voor de toepassing van hoofdstuk II:  
 
-a. ongeschiktheid tot het verrichten van arbeid als bedoeld in [artikel 46, zesde lid, van de Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md);  
+a. ongeschiktheid tot het verrichten van arbeid als bedoeld in artikel 46, zesde lid, van de Ziektewet;  
 
-b. indien de in [artikel 46, zesde lid, van de Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) bedoelde arbeid niet aanwijsbaar is, de arbeidsongeschiktheid als bedoeld in de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);    
+b. indien de in artikel 46, zesde lid, van de Ziektewet bedoelde arbeid niet aanwijsbaar is, de arbeidsongeschiktheid als bedoeld in de Wet op de arbeidsongeschiktheidsverzekering;    
 
-2°. voor de toepassing van hoofdstuk III: arbeidsongeschiktheid als bedoeld in de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);    
+2°. voor de toepassing van hoofdstuk III: arbeidsongeschiktheid als bedoeld in de Wet op de arbeidsongeschiktheidsverzekering;    
 
 d. uitvoeringsorgaan: het in artikel 7 genoemde orgaan.     
 2.   Voor de toepassing van hetgeen bij of krachtens deze wet is bepaald wordt begrepen onder:  
@@ -51,7 +51,7 @@ a. belanghebbende:
 
 1°. hij, die is aangesteld in burgerlijke openbare dienst om in de krijgsmacht als geestelijke verzorger niet doorlopend werkzaam te zijn;  
 
-2°. hij, die ingevolge de [Wet gewetensbezwaren militaire dienst](../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) is verplicht tot vervangende dienst;    
+2°. hij, die ingevolge de Wet gewetensbezwaren militaire dienst is verplicht tot vervangende dienst;    
 
 b. dag, waarop het verblijf in werkelijke dienst eindigt: de dag, met ingang waarvan ingevolge een desbetreffende beschikking de werkzaamheid als geestelijke verzorger, bedoeld onder *a*, 1°, in de krijgsmacht eindigt dan wel de dag, met ingang waarvan de vervangende dienst, bedoeld onder *a*, 2°, door groot verlof of door ontslag, indien dat ontslag niet is voorafgegaan door groot verlof, eindigt.     
 3.   De belanghebbende, die als gevolg van een ontslag uit de militaire dienst, onderscheidenlijk de burgerlijke openbare dienst, bedoeld in het tweede lid, onder *a*, 1°, of de vervangende dienst, bedoeld in dat lid, onder *a*, 2°, niet of niet langer voldoet aan de omschrijving van belanghebbende in het eerste of tweede lid, blijft voor de toepassing van deze wet nochtans als belanghebbende aangemerkt. 
@@ -69,10 +69,10 @@ a. worden daaronder begrepen:
 
 b. worden daaronder niet begrepen:  
 
-1°. aanspraken op een bijzondere invaliditeitsverhoging volgens de daarover bij of krachtens de [Kaderwet militaire pensioenen](../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) vastgestelde bepalingen;  
+1°. aanspraken op een bijzondere invaliditeitsverhoging volgens de daarover bij of krachtens de Kaderwet militaire pensioenen vastgestelde bepalingen;  
 
-2°. aanspraken krachtens de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).       
-2.  Een invaliditeitspensioen en een invaliditeitsverhoging waarop aanspraak bestaat volgens de daarover bij of krachtens de [Kaderwet militaire pensioenen](../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) vastgestelde bepalingen wordt aangemerkt als te zijn verleend ter zake van arbeidsongeschiktheid in de zin van deze wet, tenzij de aanspraak op dat pensioen of die verhoging bestaat ter zake van ziekten of gebreken welke door duidelijk andere oorzaken zijn bepaald dan die welke bepalend zijn voor de mate van arbeidsongeschiktheid ter zake waarvan recht op uitkering krachtens deze wet bestaat.   
+2°. aanspraken krachtens de Participatiewet.       
+2.  Een invaliditeitspensioen en een invaliditeitsverhoging waarop aanspraak bestaat volgens de daarover bij of krachtens de Kaderwet militaire pensioenen vastgestelde bepalingen wordt aangemerkt als te zijn verleend ter zake van arbeidsongeschiktheid in de zin van deze wet, tenzij de aanspraak op dat pensioen of die verhoging bestaat ter zake van ziekten of gebreken welke door duidelijk andere oorzaken zijn bepaald dan die welke bepalend zijn voor de mate van arbeidsongeschiktheid ter zake waarvan recht op uitkering krachtens deze wet bestaat.   
 3.   Arbeidsongeschiktheid, die bestaat op de dag, waarop het verblijf in werkelijke dienst eindigt, wordt geacht op die dag te zijn aangevangen.   
 4.  Het tweede lid is niet van toepassing indien het recht op pensioen of de verhoging wordt ontleend aan een periode van werkelijke dienst die is geëindigd met ingang van een op of na 1 januari 1998 gelegen datum, waarop de gebeurtenis heeft plaatsgevonden op grond waarvan de aanspraak op het invaliditeitspensioen, dan wel de invaliditeitsverhoging, is ontstaan.  
 
@@ -82,7 +82,7 @@ b. worden daaronder niet begrepen:
 
 ### Artikel  3  
 
-1.  De belanghebbende, die op de dag, waarop zijn verblijf in werkelijke dienst eindigt, arbeidsongeschikt is of binnen een maand na die dag arbeidsongeschikt wordt, heeft, overeenkomstig hetgeen bij of krachtens deze wet is bepaald, met betrekking tot zijn arbeidsongeschiktheid recht op dezelfde ziekengelduitkering als die, waarop krachtens de [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) aanspraak zou bestaan, indien hij onmiddellijk voorafgaande aan zijn arbeidsongeschiktheid verzekerde in de zin van die wet zou zijn geweest, evenwel slechts indien en voor zover hij ter zake van die arbeidsongeschiktheid geen aanspraken krachtens een andere wettelijke regeling kan doen gelden.   
+1.  De belanghebbende, die op de dag, waarop zijn verblijf in werkelijke dienst eindigt, arbeidsongeschikt is of binnen een maand na die dag arbeidsongeschikt wordt, heeft, overeenkomstig hetgeen bij of krachtens deze wet is bepaald, met betrekking tot zijn arbeidsongeschiktheid recht op dezelfde ziekengelduitkering als die, waarop krachtens de Ziektewet aanspraak zou bestaan, indien hij onmiddellijk voorafgaande aan zijn arbeidsongeschiktheid verzekerde in de zin van die wet zou zijn geweest, evenwel slechts indien en voor zover hij ter zake van die arbeidsongeschiktheid geen aanspraken krachtens een andere wettelijke regeling kan doen gelden.   
 2.   Het in het vorige lid omschreven recht heeft eveneens de belanghebbende, die arbeidsongeschikt wordt nadat sedert de dag, waarop zijn verblijf in werkelijke dienst eindigde, meer dan een maand is verstreken, evenwel slechts indien en voor zover hij ter zake van die arbeidsongeschiktheid geen aanspraken krachtens een andere wettelijke regeling kan doen gelden en dit, naar het oordeel van Onze Minister van Defensie, zijn oorzaak vindt in het verblijf in werkelijke dienst.  
 
 ### Artikel  4  
@@ -95,13 +95,13 @@ De ziekengelduitkering gaat in op de dag, waarop de arbeidsongeschiktheid is aan
 
 ### Artikel  5  
 
-1.  De belanghebbende, die op de dag, waarop zijn verblijf in werkelijke dienst eindigt, arbeidsongeschikt is of binnen een maand na die dag arbeidsongeschikt wordt, heeft, overeenkomstig hetgeen bij of krachtens deze wet is bepaald, met betrekking tot zijn arbeidsongeschiktheid of de toeneming van de arbeidsongeschiktheid recht op dezelfde uitkeringen als die, waarop krachtens de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) aanspraak zou bestaan, indien hij onmiddellijk voorafgaande aan zijn arbeidsongeschiktheid verzekerde in de zin van die wet zou zijn geweest, evenwel slechts indien en voor zover hij ter zake van die arbeidsongeschiktheid onderscheidenlijk die toeneming van de arbeidsongeschiktheid geen aanspraken krachtens een andere wettelijke regeling kan doen gelden. [Hoofdstuk IIA van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) is van overeenkomstige toepassing.   
+1.  De belanghebbende, die op de dag, waarop zijn verblijf in werkelijke dienst eindigt, arbeidsongeschikt is of binnen een maand na die dag arbeidsongeschikt wordt, heeft, overeenkomstig hetgeen bij of krachtens deze wet is bepaald, met betrekking tot zijn arbeidsongeschiktheid of de toeneming van de arbeidsongeschiktheid recht op dezelfde uitkeringen als die, waarop krachtens de Wet op de arbeidsongeschiktheidsverzekering aanspraak zou bestaan, indien hij onmiddellijk voorafgaande aan zijn arbeidsongeschiktheid verzekerde in de zin van die wet zou zijn geweest, evenwel slechts indien en voor zover hij ter zake van die arbeidsongeschiktheid onderscheidenlijk die toeneming van de arbeidsongeschiktheid geen aanspraken krachtens een andere wettelijke regeling kan doen gelden. Hoofdstuk IIA van de Wet op de arbeidsongeschiktheidsverzekering is van overeenkomstige toepassing.   
 2.   Het in het vorige lid omschreven recht heeft eveneens de belanghebbende, die arbeidsongeschikt wordt nadat sedert de dag, waarop zijn verblijf in werkelijke dienst eindigde, meer dan een maand is verstreken, evenwel slechts indien en voor zover hij ter zake van zijn arbeidsongeschiktheid of de toeneming van zijn arbeidsongeschiktheid geen aanspraken krachtens een andere wettelijke regeling kan doen gelden en dit, naar het oordeel van Onze Minister van Defensie, zijn oorzaak vindt in het verblijf in werkelijke dienst.  
 
 ### Artikel  5a  
 
-1.  De [artikelen 21](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [22](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [40](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [48](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [53](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) en [59*b*, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), zoals die artikelen luidden op de dag voorafgaande aan die waarop de [Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](../../../../../wet/wet/terugdringing/beroep/op/de/arbeidsongeschiktheidsregelingen/BWBR0006072/README.md) in werking is getreden, blijven van toepassing op de belanghebbende, bedoeld in artikel 5. De artikelen 21*a*  en 21*b*  zijn niet van toepassing op de in artikel 5 bedoelde belanghebbende.   
-2.   In afwijking van het eerste lid is [artikel 21, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), zoals dat artikel luidt na de inwerkingtreding van de [Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](../../../../../wet/wet/terugdringing/beroep/op/de/arbeidsongeschiktheidsregelingen/BWBR0006072/README.md), van toepassing.  
+1.  De artikelen 21, 22, 40, 48, 53 en 59*b*, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering, zoals die artikelen luidden op de dag voorafgaande aan die waarop de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen in werking is getreden, blijven van toepassing op de belanghebbende, bedoeld in artikel 5. De artikelen 21*a*  en 21*b*  zijn niet van toepassing op de in artikel 5 bedoelde belanghebbende.   
+2.   In afwijking van het eerste lid is artikel 21, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering, zoals dat artikel luidt na de inwerkingtreding van de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen, van toepassing.  
 
 ### Hoofdstuk  IV  
 
@@ -109,8 +109,8 @@ De ziekengelduitkering gaat in op de dag, waarop de arbeidsongeschiktheid is aan
 
 ###Artikel 6 
 
-1. Het uitvoeringsorgaan houdt op de uitkering ingevolge deze wet en de toeslag op deze uitkering ingevolge de [Toeslagenwet](../../../../../wet/toeslagenwet/BWBR0004043/README.md) een bedrag in, dat gelijk is aan het bedrag van de premie die een werkgever op grond van [afdeling 2 van hoofdstuk 3 van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), op het overeenkomstige loon van een werknemer die verzekerd is op grond van de [Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md), inhoudt. 
-2.  Indien ingevolge de [Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) een premie wordt ingehouden waarvan het percentage per bedrijfstak verschilt, wordt met inachtneming van bij algemene maatregel van bestuur te stellen regels bij ministeriële regeling voor de toepassing van het eerste lid een gemiddeld percentage vastgesteld.
+1. Het uitvoeringsorgaan houdt op de uitkering ingevolge deze wet en de toeslag op deze uitkering ingevolge de Toeslagenwet een bedrag in, dat gelijk is aan het bedrag van de premie die een werkgever op grond van afdeling 2 van hoofdstuk 3 van de Wet financiering sociale verzekeringen, op het overeenkomstige loon van een werknemer die verzekerd is op grond van de Werkloosheidswet, inhoudt. 
+2.  Indien ingevolge de Wet financiering sociale verzekeringen een premie wordt ingehouden waarvan het percentage per bedrijfstak verschilt, wordt met inachtneming van bij algemene maatregel van bestuur te stellen regels bij ministeriële regeling voor de toepassing van het eerste lid een gemiddeld percentage vastgesteld.
 3.  De op grond van het eerste lid in te houden bedragen komen ten bate van ’s Rijks kas.
 
 ### Hoofdstuk  V  
@@ -119,7 +119,7 @@ De ziekengelduitkering gaat in op de dag, waarop de arbeidsongeschiktheid is aan
 
 ### Artikel  7  
 
-Het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), is belast met de uitvoering van deze wet, voorzover die uitvoering niet krachtens deze wet aan anderen is opgedragen.  
+Het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen, is belast met de uitvoering van deze wet, voorzover die uitvoering niet krachtens deze wet aan anderen is opgedragen.  
 
 ### Hoofdstuk  VI  
 
@@ -127,15 +127,15 @@ Het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de
 
 ###Artikel 8 
 
-De bepalingen betreffende de verplichte verzekering ingevolge de [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) en de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de bepalingen van de [Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) en van de [Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) alsmede van de [afdelingen II](../../../../../wet/invoeringswet/stelselherziening/sociale/zekerheid/BWBR0004046/README.md) en [III](../../../../../wet/invoeringswet/stelselherziening/sociale/zekerheid/BWBR0004046/README.md) van [hoofdstuk III](../../../../../wet/invoeringswet/stelselherziening/sociale/zekerheid/BWBR0004046/README.md) en van [afdeling II van hoofdstuk IV van de Invoeringswet stelselherziening sociale zekerheid](../../../../../wet/invoeringswet/stelselherziening/sociale/zekerheid/BWBR0004046/README.md) en de uitvoeringsbesluiten van genoemde wetten zijn, met inachtneming van de wijzigingen, die de aard van het onderwerp vordert, voor zoveel nodig van overeenkomstige toepassing, voor zover daarvan in hetgeen bij of krachtens deze wet is bepaald, niet is afgeweken.
+De bepalingen betreffende de verplichte verzekering ingevolge de Ziektewet en de Wet op de arbeidsongeschiktheidsverzekering, de bepalingen van de Wet structuur uitvoeringsorganisatie werk en inkomen en van de Wet financiering sociale verzekeringen alsmede van de afdelingen II en III van hoofdstuk III en van afdeling II van hoofdstuk IV van de Invoeringswet stelselherziening sociale zekerheid en de uitvoeringsbesluiten van genoemde wetten zijn, met inachtneming van de wijzigingen, die de aard van het onderwerp vordert, voor zoveel nodig van overeenkomstige toepassing, voor zover daarvan in hetgeen bij of krachtens deze wet is bepaald, niet is afgeweken.
 
 ### Artikel  8a  
 
-De [artikelen 8](../../../../../wet/ziektewet/BWBR0001888/README.md) en [8a van de Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) en [7a ](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) en [16, onderdeel c van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) zijn op degene, die een uitkering ingevolge deze wet ontvangt, niet van overeenkomstige toepassing. 
+De artikelen 8 en 8a van de Ziektewet en 7a  en 16, onderdeel c van de Wet op de arbeidsongeschiktheidsverzekering zijn op degene, die een uitkering ingevolge deze wet ontvangt, niet van overeenkomstige toepassing. 
 
 ### Artikel  9  
 
-[Artikel 33*a* van de Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) is van overeenkomstige toepassing met betrekking tot uitkeringen anders dan bedoeld in dat artikel, die worden ontleend aan een andere wettelijke regeling. 
+Artikel 33*a* van de Ziektewet is van overeenkomstige toepassing met betrekking tot uitkeringen anders dan bedoeld in dat artikel, die worden ontleend aan een andere wettelijke regeling. 
 
 ### Artikel  10  
 
@@ -176,7 +176,7 @@ Indien een belanghebbende in aansluiting op de maximumuitkeringstermijn, bedoeld
 
 ### Artikel  15  
 
-De [Algemene termijnenwet](../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is niet van toepassing op de in de artikelen 3 en 5 gestelde termijnen. 
+De Algemene termijnenwet is niet van toepassing op de in de artikelen 3 en 5 gestelde termijnen. 
 
 ### Artikel  16  
 

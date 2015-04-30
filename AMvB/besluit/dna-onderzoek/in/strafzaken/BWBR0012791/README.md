@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
 a. de wet: het Wetboek van Strafvordering;  
 
@@ -32,12 +32,13 @@ e.opsporingsambtenaar: een ambtenaar van politie als bedoeld in artikel 2, onder
 
 f.veroordeelde: een persoon als bedoeld in artikel 1, eerste lid, onder c, of tweede lid, van de Wet DNA-onderzoek bij veroordeelden;
 
-g.  onbekende verdachte: de verdachte, bedoeld in artikel 27, eerste lid, van de wet van wie in het kader van het strafbare feit celmateriaal in beslag genomen is of veilig gesteld is; 
+g. gewezen verdachte: een persoon die bij onherroepelijke einduitspraak is vrijgesproken van een misdrijf als bedoeld in artikel 482a, eerste lid, onder a, van de wet, waarbij opzettelijk de dood van een ander is veroorzaakt, dan wel daarvoor is ontslagen van alle rechtsvervolging zonder dat daarbij een maatregel als bedoeld in artikel 37, 37a juncto 37b of 38, 38m of 77s van het Wetboek van Strafrecht is opgelegd; 
 
-h. het instituut: het Nederlands Forensisch Instituut;  
+h.  onbekende verdachte: de verdachte, bedoeld in artikel 27, eerste lid, van de wet van wie in het kader van het strafbare feit celmateriaal in beslag genomen is of veilig gesteld is; 
 
-i. NEN-EN ISO/IEC 17025: Algemene eisen voor de bekwaamheid van beproevings- en kalibratielaboratoria, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidde in januari 2007.   
-2. Met een veroordeling die in kracht van gewijsde is gegaan wordt voor de toepassing van dit besluit gelijkgesteld een strafbeschikking die onherroepelijk is geworden.
+i. het instituut: het Nederlands Forensisch Instituut;  
+
+j. NEN-EN ISO/IEC 17025: Algemene eisen voor de bekwaamheid van beproevings- en kalibratielaboratoria, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidde in januari 2007.  
 
 ### Artikel  1a  
 
@@ -115,8 +116,8 @@ d. de naam van de officier van justitie, de hulpofficier van justitie onderschei
 e. de naam van het laboratorium dat het DNA-onderzoek zal verrichten en de datum waarop het celmateriaal naar dat laboratorium is verzonden, tenzij het DNA-onderzoek in het laboratorium van het instituut zal worden verricht, en  
 
 f. in geval van celmateriaal van een bekende persoon, de naam, de geboortedatum en -plaats en het geboorteland van deze persoon of, indien deze gegevens onbekend zijn, andere gegevens waarmee zijn identiteit kan worden vastgesteld, alsmede het aan hem toegekende strafrechtsketennummer.     
-2.  Voorts worden inzake het celmateriaal gegevens vastgelegd die van belang zijn in verband met het tijdstip waarop het bijbehorende DNA-profiel uit de DNA-databank dient te worden verwijderd. De Justitiële Informatiedienst stelt het instituut daartoe in kennis van veroordelingen die in kracht van gewijsde zijn gegaan in zaken waarin DNA-onderzoek heeft plaatsgevonden.   
-3.  Ten aanzien van het celmateriaal van een veroordeelde of een persoon als bedoeld in artikel 14, vierde lid, onder f, is het eerste lid, onder b, voorzover dit betrekking heeft op het proces-verbaalnummer van de strafzaak waarin het celmateriaal is afgenomen en het parketnummer, niet van toepassing.   
+2.  Voorts worden inzake het celmateriaal gegevens vastgelegd die van belang zijn in verband met het tijdstip waarop het bijbehorende DNA-profiel uit de DNA-databank dient te worden verwijderd.   
+3.  Ten aanzien van het celmateriaal van een veroordeelde of een persoon als bedoeld in artikel 14, vierde lid, onder g, is het eerste lid, onder b, voorzover dit betrekking heeft op het proces-verbaalnummer van de strafzaak waarin het celmateriaal is afgenomen en het parketnummer, niet van toepassing.   
 4.  Onze Minister is voor het centrale register, bedoeld in het eerste lid, verantwoordelijk.    
 5.  De directeur van het instituut voert het beheer van het centrale register.  
 
@@ -178,7 +179,7 @@ a. het DNA-profiel dat is verkregen uit het celmateriaal van een bekende persoon
 
 b. het DNA-profiel dat is verkregen uit het celmateriaal, bedoeld in artikel 5, eerste lid, van een onbekende verdachte, overeenkomt met een DNA-profiel dat is vastgelegd in de DNA-databank.     
 7. In geval van artikel 2, vijfde lid, van de Wet DNA-onderzoek bij veroordeelden geeft de officier van justitie de functionaris, bedoeld in artikel 1, onder d, van de Penitentiaire beginselenwet, artikel 1, onder g, van de Beginselenwet verpleging ter beschikking gestelden of artikel 1, onder h, van de Beginselenwet justitiële jeugdinrichtingen schriftelijk kennis van de uitslag van het DNA-onderzoek.  
-8. De officier van justitie geeft een persoon als bedoeld in artikel 14, vierde lid, onder f, schriftelijk kennis van de uitslag van het DNA-onderzoek indien zijn DNA-profiel overeenkomt met een ander verwerkt DNA-profiel en het belang van het onderzoek dat toelaat.
+8. De officier van justitie geeft een persoon als bedoeld in artikel 14, vierde lid, onder g, schriftelijk kennis van de uitslag van het DNA-onderzoek indien zijn DNA-profiel overeenkomt met een ander verwerkt DNA-profiel en het belang van het onderzoek dat toelaat.
 
 ###Artikel 11 
 
@@ -221,12 +222,20 @@ c. het bijbehorende DNA-profiel van onbekende verdachten,
 
 d. het bijbehorende DNA-profiel van verdachten ter zake van misdrijven als omschreven in artikel 67, eerste lid, van de wet,  
 
-e. het bijbehorende DNA-profiel van veroordeelden ter zake van misdrijven als omschreven in artikel 67, eerste lid, van de wet, dan wel  
+e. het bijbehorende DNA-profiel van gewezen verdachten, 
 
-f.het bijbehorende DNA-profiel van personen die hun straf of maatregel volledig hebben ondergaan ter zake van misdrijven als omschreven in artikel 67, eerste lid, van de wet en die schriftelijk hebben toegestemd in het afnemen van celmateriaal ten behoeve van het bepalen en verwerken van hun DNA-profiel.   
+f. het bijbehorende DNA-profiel van veroordeelden ter zake van misdrijven als omschreven in artikel 67, eerste lid, van de wet, dan wel  
+
+g.het bijbehorende DNA-profiel van personen die hun straf of maatregel volledig hebben ondergaan ter zake van misdrijven als omschreven in artikel 67, eerste lid, van de wet en die schriftelijk hebben toegestemd in het afnemen van celmateriaal ten behoeve van het bepalen en verwerken van hun DNA-profiel.   
 5.  De directeur van het instituut kan de DNA-profielen die in de DNA-databank zijn vastgelegd, opnieuw bepalen indien de stand van de techniek dat noodzakelijk maakt.  
 6. De directeur van het instituut kan de DNA-profielen die in de DNA-databank zijn vastgelegd, onderling vergelijken met het oog op het doel, bedoeld in het eerste lid. Indien de vergelijking een positief resultaat heeft, stelt hij de officier van justitie of de rechter-commissaris van dit resultaat in kennis. 
-7.  De directeur van het instituut kan de DNA-profielen van de personen die ingevolge artikel 4:2, eerste lid, onder k, onderdeel 4°, van het Besluit politiegegevens aan de Minister van Veiligheid en Justitie worden verstrekt, vergelijken met de DNA-profielen van de personen, bedoeld in het vierde lid, onder d tot en met f. Indien de vergelijking een positief resultaat heeft, stelt hij de officier van justitie of de rechter-commissaris en een landelijke eenheid als bedoeld in artikel 25, eerste lid, onderdeel b, van de Politiewet 2012 van dit resultaat in kennis. 
+7.  In afwijking van het zesde lid kan de directeur het DNA-profiel van een gewezen verdachte, bedoeld in het vierde lid, onder e, dat in de DNA-databank is vastgelegd of het DNA-profiel van een onbekende verdachte, bedoeld in het vierde lid, onder c, dat in de strafzaak waarin de gewezen verdachte is vrijgesproken of ontslagen van alle rechtsvervolging met dat profiel overeenkwam, uitsluitend onderling of met andere met die strafzaak in verband staande DNA-profielen van onbekende verdachten als bedoeld in het vierde lid, onder c, vergelijken indien 
+
+a. de vergelijking plaatsvindt met het oog op de herziening ten nadele op de in artikel 482a, eerste lid, onder a, van de wet bedoelde grond, en  
+
+b. de rechter-commissaris, op vordering van de officier van justitie, opdracht tot de vergelijking heeft gegeven.     
+8.  In geval van toepassing van het zevende lid geeft de rechter-commissaris die de opdracht tot de vergelijking heeft gegeven de gewezen verdachte, zodra het belang van het onderzoek dat toelaat, schriftelijk kennis van de uitslag van het onderzoek.  
+9.  De directeur van het instituut kan de DNA-profielen van de personen die ingevolge artikel 4:2, eerste lid, onder k, onderdeel 3°, van het Besluit politiegegevens aan de Minister van Veiligheid en Justitie worden verstrekt, vergelijken met de DNA-profielen van de personen, bedoeld in het vierde lid, onder d, f en g. Indien de vergelijking een positief resultaat heeft, stelt hij de officier van justitie of de rechter-commissaris en een landelijke eenheid als bedoeld in artikel 25, eerste lid, onderdeel b, van de Politiewet 2012 van dit resultaat in kennis. 
 
 ### Artikel  15  
 
@@ -234,7 +243,7 @@ f.het bijbehorende DNA-profiel van personen die hun straf of maatregel volledig 
 
 a.de ambtenaren die werkzaam zijn binnen het instituut, voorzover zij deze nodig hebben voor een goede vervulling van de aan hen door Onze Minister opgedragen taak, en
 
-b.de medewerkers van de nationale contactpunten, bedoeld in artikel 6, eerste lid, van het Besluit 2008/615/JBZ van de Raad van de Europese Unie van 23 juni 2008 inzake de intensivering van de grensoverschrijdende samenwerking in het bijzonder ter bestrijding van terrorisme en grensoverschrijdende criminaliteit (Pb. EU L 210), voor zover zij deze nodig hebben ter uitvoering van de artikelen 3, eerste lid, en 4, eerste lid, van dat besluit en het de DNA-profielen van de personen, bedoeld in artikel 14, vierde lid, onder c tot en met f, betreft.De binnen het instituut werkzame ambtenaren hebben tevens rechtstreekse toegang tot het centrale register, bedoeld in artikel 6, voorzover zij deze nodig hebben voor een goede vervulling van de aan hen door Onze Minister opgedragen taak.  
+b.de medewerkers van de nationale contactpunten, bedoeld in artikel 6, eerste lid, van het Besluit 2008/615/JBZ van de Raad van de Europese Unie van 23 juni 2008 inzake de intensivering van de grensoverschrijdende samenwerking in het bijzonder ter bestrijding van terrorisme en grensoverschrijdende criminaliteit (Pb. EU L 210), voor zover zij deze nodig hebben ter uitvoering van de artikelen 3, eerste lid, en 4, eerste lid, van dat besluit en het de DNA-profielen van de personen, bedoeld in artikel 14, vierde lid, onder c, d, f en g, betreft.De binnen het instituut werkzame ambtenaren hebben tevens rechtstreekse toegang tot het centrale register, bedoeld in artikel 6, voorzover zij deze nodig hebben voor een goede vervulling van de aan hen door Onze Minister opgedragen taak.  
 2.  Het instituut verstrekt slechts gegevens uit de DNA-databank en het centrale register, bedoeld in artikel 6, eerste lid, aan: 
 
 a. de met vervolging belaste leden van de rechterlijke macht, voorzover zij deze nodig hebben voor de toepassing van het strafrecht, daarin begrepen de uitvoering van een verzoek om rechtshulp als bedoeld in artikel 552h van de wet, of voor de uitvoering van de Wet DNA-onderzoek bij veroordeelden,  
@@ -262,7 +271,8 @@ c.van het feit dat in meer van die strafzaken het DNA-profiel van een of meer de
 ### Artikel  16  
 
 1.  Zodra zich een omstandigheid voordoet die meebrengt dat degene wiens DNA-profiel in de DNA-databank is vastgelegd, niet langer kan worden aangemerkt als een verdachte ter zake van een misdrijf als omschreven in artikel 67, eerste lid, van de wet, stelt de Justitiële Informatiedienst het instituut daarvan in kennis.   
-2.  Van een omstandigheid als bedoeld in het eerste lid is in ieder geval sprake bij een beslissing tot niet-vervolging, een kennisgeving van niet verdere vervolging, een onherroepelijke buitenvervolgingstelling, een rechterlijke verklaring dat de zaak geëindigd is, een vrijspraak of een onherroepelijk ontslag van alle rechtsvervolging waarbij niet een maatregel als bedoeld in artikel 37, 37a juncto 37b of 38, 38m of 77s van het Wetboek van Strafrecht is opgelegd.  
+2.  Van een omstandigheid als bedoeld in het eerste lid is in ieder geval sprake bij een beslissing tot niet-vervolging, een kennisgeving van niet verdere vervolging, een onherroepelijke buitenvervolgingstelling, een rechterlijke verklaring dat de zaak geëindigd is, een onherroepelijke vrijspraak of een onherroepelijk ontslag van alle rechtsvervolging waarbij niet een maatregel als bedoeld in artikel 37, 37a juncto 37b of 38, 38m of 77s van het Wetboek van Strafrecht is opgelegd.   
+3.  In afwijking van het eerste lid blijft een kennisgeving achterwege indien sprake is van een gewezen verdachte, tenzij die gewezen verdachte in een herzieningsprocedure als bedoeld in Titel VIII van het Derde Boek van de wet is vrijgesproken of ontslagen van alle rechtsvervolging. 
 
 ### Artikel  17  
 
@@ -283,22 +293,9 @@ c. na het vervallen van het recht tot strafvordering door verjaring.
 2.  De termijn van twintig en dertig jaar, genoemd in het eerste lid, wordt verlengd indien tegen de betrokkene een einduitspraak als bedoeld in de artikelen 351 en 352, tweede lid, van het Wetboek van Strafvordering in verband met een ander misdrijf is gedaan of een strafbeschikking in verband met een ander misdrijf is uitgevaardigd. In dat geval wordt het DNA-profiel vernietigd twintig dan wel dertig jaar nadat de einduitspraak in verband met dat andere misdrijf is gedaan of de strafbeschikking in verband met dat andere misdrijf volledig ten uitvoer is gelegd, al naar gelang op het misdrijf naar de wettelijke omschrijving minder dan zes jaar dan wel zes jaar of meer gevangenisstraf is gesteld. De eerste twee volzinnen zijn niet van toepassing in het geval op dat andere misdrijf naar de wettelijke omschrijving een gevangenisstraf van minder dan zes jaar is gesteld, terwijl op het eerdere misdrijf naar de wettelijke omschrijving een gevangenisstraf van zes jaar of meer was gesteld en van de termijn van dertig jaar nog niet meer dan tien jaar is verstreken.   
 3.  De termijn van dertig jaar, genoemd in het eerste lid, wordt met twintig jaar verlengd indien de duur van de gevangenisstraf of vrijheidsbenemende maatregel langer is dan twintig jaar. Indien de gevangenisstraf levenslang is of de vrijheidsbenemende maatregel de duur van veertig jaar overstijgt, wordt het DNA-profiel na tachtig jaar vernietigd.   
 4.  In afwijking van het eerste tot en met derde lid wordt het DNA-profiel van een verdachte of veroordeelde wegens een misdrijf als bedoeld in de artikelen 240b tot en met 250 van het Wetboek van Strafrecht na tachtig jaar vernietigd.  
-5. Het instituut vernietigt het DNA-profiel van een persoon als bedoeld in artikel 14, vierde lid, onder f, twintig jaar na vastlegging in de DNA-databank of zodra deze persoon het instuut heeft medegedeeld dat hij zijn toestemming tot het verwerken van zijn DNA-profiel heeft ingetrokken. 
-6. Het instituut vernietigt het DNA-profiel van een overleden slachtoffer:
-
-a.twintig jaar na vastlegging in de DNA-databank indien het slachtoffer is overleden als gevolg van of is betrokken bij een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van ten hoogste zes jaar of meer is gesteld, dan wel
-
-b.twaalf jaar na vastlegging in de DNA-databank indien het slachtoffer is overleden als gevolg van of is betrokken bij een misdrijf als omschreven in artikel 67, eerste lid, van de wet waarop naar de wettelijke omschrijving een gevangenisstraf van minder dan ten hoogste zes jaar is gesteld.  
-7. In afwijking van het zesde lid bewaart het instituut het DNA-profiel van een overleden slachtoffer tachtig jaar indien het slachtoffer is overleden als gevolg van of is betrokken bij een misdrijf dat op grond van artikel 70, tweede lid, van het Wetboek van Strafrecht niet aan verjaring onderhevig is. 
-8.  Het instituut vernietigt het DNA-profiel van een vermist persoon overeenkomstig de termijnen, genoemd in het zesde en zevende lid, of zodra die persoon niet langer vermist is.  
-9. Het instituut vernietigt het DNA-profiel van een onbekende verdachte overeenkomstig de termijnen, genoemd in het zesde en zevende lid. 
-10.  In afwijking van het negende lid vernietigt het instituut het DNA-profiel van een onbekende verdachte zodra is vastgesteld dat het DNA-profiel van een verdachte of veroordeelde overeenkomt met dat DNA-profiel, en het openbaar ministerie het instituut ervan in kennis heeft gesteld dat diens veroordeling in verband met dat strafbare feit in kracht van gewijsde is gegaan of zich een omstandigheid als bedoeld in artikel 16, eerste lid, heeft voorgedaan en er geen sprake is van een veroordeling die in kracht van gewijsde is gegaan. Vernietiging van het DNA-profiel van een onbekende verdachte kan telkens tien jaar worden uitgesteld indien de verdachte of veroordeelde daartoe schriftelijk een verzoek heeft ingediend bij het openbaar ministerie. Het openbaar ministerie doet hem schriftelijk mededeling van de mogelijkheid een verzoek als bedoeld in de vorige zin in te dienen.   
-11.  Het instituut vernietigt met het DNA-profiel, bedoeld in het eerste tot en met tiende lid, tevens de daarbij behorende gegevens, bedoeld in artikel 6, het celmateriaal waaruit het DNA-profiel is verkregen, alsmede het afschrift van het verslag, bedoeld in artikel 10, derde lid, onder b.   
-12.   Artikel 13, vijfde lid, is van overeenkomstige toepassing.   
-13.  De Justitiële Informatiedienst verstrekt de informatie die deze dienst ingevolge artikel 8 van het Besluit identiteitsvaststelling verdachten en veroordeelden van het openbaar ministerie heeft verkregen, door aan het instituut, voor zover die informatie nodig is om te kunnen voldoen aan het eerste tot en met vierde lid. Het openbaar ministerie verstrekt het instituut de informatie die nodig is om te kunnen voldoen aan het vijfde tot en met tiende lid. 
+5. Het instituut vernietigt het DNA-profiel van een persoon als bedoeld in artikel 14, vierde lid, onder g, twintig jaar na vastlegging in de DNA-databank of zodra deze persoon het instuut heeft medegedeeld dat hij zijn toestemming tot het verwerken van zijn DNA-profiel heeft ingetrokken.
 
 ### Artikel  18a  
-Treedt in werking per 01-11-2014 
 
 1.  Het instituut vernietigt het DNA-profiel van een gewezen verdachte: 
 
@@ -314,7 +311,6 @@ e. terstond na het overlijden van betrokkene.
 2.  De in het eerste lid, onder a, b en c, genoemde termijnen belopen zes, tien, respectievelijk twintig jaar indien de gewezen verdachte ten tijde van het begaan van het feit waarop de rechterlijke uitspraak betrekking heeft de leeftijd van achttien jaar nog niet had bereikt.  
 
 ### Artikel  18b  
-Treedt in werking per 01-11-2014 
 
 1.  Het instituut vernietigt het DNA-profiel van een overleden slachtoffer: 
 
@@ -327,7 +323,6 @@ c. tachtig jaar na vastlegging in de DNA-databank indien betrokkene is overleden
 3.  Het instituut vernietigt het DNA-profiel van een onbekende verdachte overeenkomstig de termijnen, genoemd in het eerste lid.  
 
 ### Artikel  18c  
-Treedt in werking per 01-11-2014 
 
 1.  Het instituut vernietigt met het DNA-profiel, bedoeld in de artikelen 18, 18a en 18b, tevens de daarbij behorende gegevens, bedoeld in artikel 6, het celmateriaal waaruit het DNA-profiel is verkregen, alsmede het afschrift van het verslag, bedoeld in artikel 10, derde lid, onder b.   
 2.  Artikel 13, vijfde lid, is van overeenkomstige toepassing.   

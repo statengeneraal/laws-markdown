@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Defensie van 18 september 1997, nr. CWW85/089/97002604, directie juridische zaken, afdeling wet- en regelgeving; 
 
-Gelet op [artikel 8 van de Wet vervoer gevaarlijke stoffen](../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md); 
+Gelet op artikel 8 van de Wet vervoer gevaarlijke stoffen; 
 
 De Raad van State gehoord (advies van 6 november 1997, no. W07.97.0611); 
 
@@ -20,9 +20,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  
 
-a. wet: [Wet vervoer gevaarlijke stoffen](../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md);   
+a. wet: Wet vervoer gevaarlijke stoffen;   
 
-b. ontplofbare stoffen en voorwerpen: ontplofbare stoffen en voorwerpen aangewezen bij of krachtens het [Besluit vervoer gevaarlijke stoffen](../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/BWBR0008080/README.md);   
+b. ontplofbare stoffen en voorwerpen: ontplofbare stoffen en voorwerpen aangewezen bij of krachtens het Besluit vervoer gevaarlijke stoffen;   
 
 c. tactische voertuigen: voertuigen ingericht voor het uitvoeren van de operationele taak;   
 
@@ -32,14 +32,14 @@ e. Onze Minister: Onze Minister van Defensie.
 
 ### Artikel  2  
 
-1.  Het verrichten van handelingen als bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), met ontplofbare stoffen en voorwerpen is toegestaan, mits:  
+1.  Het verrichten van handelingen als bedoeld in artikel 2, eerste lid, van de wet, met ontplofbare stoffen en voorwerpen is toegestaan, mits:  
 
 a. dit geschiedt in opdracht van een bevoegde Nederlandse militaire autoriteit dan wel van een bevoegde autoriteit van de krijgsmacht van een andere mogendheid, en   
 
-b. de bij of krachtens dit besluit of het [Besluit vervoer gevaarlijke stoffen](../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/BWBR0008080/README.md) gestelde regels in acht zijn genomen.      
-2.  Het verrichten van handelingen als bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), met ontplofbare stoffen en voorwerpen is voorts toegestaan, voor zover het betreft:  
+b. de bij of krachtens dit besluit of het Besluit vervoer gevaarlijke stoffen gestelde regels in acht zijn genomen.      
+2.  Het verrichten van handelingen als bedoeld in artikel 2, eerste lid, van de wet, met ontplofbare stoffen en voorwerpen is voorts toegestaan, voor zover het betreft:  
 
-a. handelingen door ambtenaren als bedoeld in de [artikelen 34, tweede lid](../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), en [44, eerste lid, aanhef en onder b, van de wet](../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), voor zover verricht in de uitoefening van hun bij of krachtens de wet opgedragen taak;   
+a. handelingen door ambtenaren als bedoeld in de artikelen 34, tweede lid, en 44, eerste lid, aanhef en onder b, van de wet, voor zover verricht in de uitoefening van hun bij of krachtens de wet opgedragen taak;   
 
 b. handelingen door personen die deel uitmaken van of werkzaam zijn bij de krijgsmacht en die in de uitoefening van hun beroep of functie uit hoofde daarvan bevoegd zijn tot het dragen van wapens, met ontplofbare stoffen, behorende tot de uitrusting van die personen;   
 

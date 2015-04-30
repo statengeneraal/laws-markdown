@@ -3,9 +3,9 @@
 ##Mandaatbesluit Loyalis Maatwerkadministraties
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op [artikel 10:3 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 10:3 van de Algemene wet bestuursrecht;
 
-Gezien de overeenkomst tot uitvoering van de [Algemene pensioenwet politieke ambtsdragers](../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md) e.a., alsmede de opbouwadministratie;
+Gezien de overeenkomst tot uitvoering van de Algemene pensioenwet politieke ambtsdragers e.a., alsmede de opbouwadministratie;
 Besluit:    
 
 ### Artikel  1  
@@ -14,13 +14,13 @@ Besluit:
 
 1.  De Directeur en de Productiemanager van Loyalis Maatwerkadministraties BV, hierna te noemen LMA, zijn ieder voor zich bevoegd om namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties besluiten te nemen ter uitvoering van de pensioenvoorziening in de hieronder genoemde regelingen: 
 
-a. de [Algemene pensioenwet politieke ambtsdragers](../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md);  
+a. de Algemene pensioenwet politieke ambtsdragers;  
 
-b. de [Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement](../../../../../wet/wet/schadeloosstelling/uitkering/en/pensioen/leden/europees/parlement/BWBR0003251/README.md);  
+b. de Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement;  
 
-c. de [Wet Nationale Ombudsman](../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md);  
+c. de Wet Nationale Ombudsman;  
 
-d. de [Rijkswet van 20 december 1989, houdende regeling van pensioenen en uitkeringen aan Gouverneurs van de Nederlandse Antillen en van Aruba](../../../../../rijkswet/rijkswet/pensioenen/en/uitkeringen/aan/gouverneurs/van/aruba/curaçao/en/etc/BWBR0004670/README.md) (Stb. 1990, 15);  
+d. de Rijkswet van 20 december 1989, houdende regeling van pensioenen en uitkeringen aan Gouverneurs van de Nederlandse Antillen en van Aruba (Stb. 1990, 15);  
 
 e. de Pensioenvervangende gratificaties, overeenkomstig de pensioenaanspraken van het overheidspersoneel;  
 
@@ -38,7 +38,7 @@ h. de Aanvullende pensioenvoorziening op basis van het pensioenreglement van de 
 ####Bezwaar
 
 1.  De Directeur en de Productiemanager van LMA zijn bevoegd om namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties te beslissen op bezwaarschriften tegen besluiten, bedoeld in artikel 1, met dien verstande dat de functionaris die een besluit als bedoeld in artikel 1 heeft genomen niet ook de beslissing op het daartegen gerichte bezwaarschrift mag nemen.   
-2.  De bevoegdheid als bedoeld in het eerste lid omvat tevens de bevoegdheid om een hoorprocedure in te richten conform de bepalingen van de [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  De bevoegdheid als bedoeld in het eerste lid omvat tevens de bevoegdheid om een hoorprocedure in te richten conform de bepalingen van de Algemene wet bestuursrecht.   
 3.  De Directeur van LMA informeert de directie Arbeidszaken Openbare Sector over bezwaarschriften waarin de rechtsgeldigheid van de toegepaste regeling of van onderdelen daarvan ter discussie wordt gesteld.   
 4.  Van de bevoegdheid genoemd in het eerste lid kan geen ondermandaat worden verleend.  
 
@@ -63,7 +63,7 @@ Dit besluit wordt aangehaald als: Mandaatbesluit Loyalis Maatwerkadministraties.
 
 ### Artikel  6  
 
-Het [Mandaatbesluit Centrum Maatwerk Administraties BV](../../../../../ministeriele-regeling/mandaatbesluit/centrum/maatwerk/administraties/bv/BWBR0011949/README.md) wordt ingetrokken. 
+Het Mandaatbesluit Centrum Maatwerk Administraties BV wordt ingetrokken. 
 
 ### Artikel  7  
 

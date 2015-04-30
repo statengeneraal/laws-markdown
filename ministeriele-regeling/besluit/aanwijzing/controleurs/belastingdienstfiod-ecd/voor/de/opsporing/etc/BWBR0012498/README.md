@@ -5,12 +5,12 @@
 De Minister van Justitie,  
 Handelende in overeenstemming met de Ministers van Financiën en van Economische Zaken,
 
-Gelet op de [artikel 17, eerste lid, onder 2°, van de Wet op de economische delicten](../../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md),
+Gelet op de artikel 17, eerste lid, onder 2°, van de Wet op de economische delicten,
 Besluit:     
 
 ###Artikel  1  
 
-De controleurs van de Belastingdienst/Fiscale Inlichtingen- en Opsporingsdienst - Economische Controle Dienst (Belastingdienst/FIOD-ECD) worden aangewezen als ambtenaren, belast met de opsporing van overtredingen van de voorschriften gesteld bij of krachtens de [Wet voorraadvorming aardolieproducten 2001](../../../../../../../../../../wet/wet/voorraadvorming/aardolieproducten/2001/BWBR0012373/README.md), voor zover deze overtredingen zijn aangemerkt als economische delicten in de zin van [artikel 1 van de Wet op de economische delicten](../../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).  
+De controleurs van de Belastingdienst/Fiscale Inlichtingen- en Opsporingsdienst - Economische Controle Dienst (Belastingdienst/FIOD-ECD) worden aangewezen als ambtenaren, belast met de opsporing van overtredingen van de voorschriften gesteld bij of krachtens de Wet voorraadvorming aardolieproducten 2001, voor zover deze overtredingen zijn aangemerkt als economische delicten in de zin van artikel 1 van de Wet op de economische delicten.  
 
 ###Artikel  2  
 

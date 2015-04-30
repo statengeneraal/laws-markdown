@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Justitie houdende de eisen waaraan een verblijfsruimte voor gedetineerden in een penitentiaire inrichting dient te voldoen
 
 De Minister van Justitie,  
-Gelet op [artikel 16, vijfde lid, van de Penitentiaire beginselenwet](../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);
+Gelet op artikel 16, vijfde lid, van de Penitentiaire beginselenwet;
 
 Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 10 december 1998, kenmerk 735266/98;
 Besluit:      
@@ -15,7 +15,7 @@ Besluit:
 
 ####Begripsbepalingen
 
-In deze regeling wordt verstaan onder:   a. wet:   de [Penitentiaire beginselenwet](../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);    b.  raam:   een voorziening waardoor de cyclus van dag en nacht kan worden waargenomen.     
+In deze regeling wordt verstaan onder:   a. wet:   de Penitentiaire beginselenwet;    b.  raam:   een voorziening waardoor de cyclus van dag en nacht kan worden waargenomen.     
 
 ### Artikel  2  
 
@@ -107,7 +107,7 @@ g. twee wandcontactdozen.
 
 ### Artikel  10b  
 
-1.   De directeur kan bepalen dat de gedetineerde, die in een individueel regime is geplaatst als bedoeld in [artikel 22 van de wet](../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) of die in een extra beveiligde inrichting als bedoeld in [artikel 13, eerste lid, onder e, van de wet](../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) is geplaatst, dag en nacht door middel van een camera wordt geobserveerd:  
+1.   De directeur kan bepalen dat de gedetineerde, die in een individueel regime is geplaatst als bedoeld in artikel 22 van de wet of die in een extra beveiligde inrichting als bedoeld in artikel 13, eerste lid, onder e, van de wet is geplaatst, dag en nacht door middel van een camera wordt geobserveerd:  
 
 indien dit noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in de inrichting,   
 
@@ -118,7 +118,7 @@ indien dit noodzakelijk is in verband met de geestelijke of lichamelijke toestan
 indien bij ontvluchting of schade aan de gezondheid van de gedetineerde grote maatschappelijke onrust zou ontstaan of wanneer dit ernstige schade zou kunnen toebrengen aan de betrekkingen van Nederland met andere staten of met internationale organisaties.    
 2.   Indien cameraobservatie wordt toegepast op de grond van het eerste lid, onder c, wordt, alvorens de beslissing daartoe wordt genomen advies ten dien aanzien uitgebracht door een gedragsdeskundige onderscheidenlijk de inrichtingsarts, tenzij dit advies niet kan worden afgewacht. In dat geval wint de directeur het advies zo spoedig mogelijk na zijn beslissing in.   
 3.  De cameraobservatie, bedoeld in het eerste lid, duurt ten hoogste twee weken. De directeur kan de cameraobservatie telkens voor ten hoogste twee weken verlengen, indien hij tot het oordeel is gekomen dat de noodzaak daartoe nog bestaat.   
-4.  De [artikelen 57](../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) en [58 van de wet](../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) zijn van overeenkomstige toepassing. Van de beslissing tot cameraobservatie hetzij de verlenging daarvan, worden de aan de inrichting verbonden commissie van toezicht en de inrichtingsarts terstond in kennis gesteld.  
+4.  De artikelen 57 en 58 van de wet zijn van overeenkomstige toepassing. Van de beslissing tot cameraobservatie hetzij de verlenging daarvan, worden de aan de inrichting verbonden commissie van toezicht en de inrichtingsarts terstond in kennis gesteld.  
 
 ### Artikel  10c  
 

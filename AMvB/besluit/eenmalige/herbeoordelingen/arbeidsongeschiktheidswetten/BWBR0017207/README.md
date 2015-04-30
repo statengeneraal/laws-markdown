@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 ####Tijdstip van herbeoordeling
 
-1. Het tijdstip, bedoeld in de artikelen 34, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering, 35, vijfde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen en artikel 3:28, vijfde lid, van de Wet werk en arbeidsondersteuning jonggehandicapten, waarop door het Uitvoeringsinstituut werknemersverzekeringen wordt bezien of er in verband met wijziging van de mate van arbeidsongeschiktheid gronden zijn voor herziening of intrekking van de arbeidsongeschiktheidsuitkering wordt als volgt vastgesteld: 
+1. Het tijdstip, bedoeld in de artikelen 34, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering, 35, vijfde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen en artikel 3:28, vijfde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, waarop door het Uitvoeringsinstituut werknemersverzekeringen wordt bezien of er in verband met wijziging van de mate van arbeidsongeschiktheid gronden zijn voor herziening of intrekking van de arbeidsongeschiktheidsuitkering wordt als volgt vastgesteld: 
 
 a.ten aanzien van personen geboren op of na 1 juli 1956: een tijdstip gelegen in de periode van 1 oktober 2004 tot en met 31 december 2006;
 
@@ -28,8 +28,8 @@ b.ten aanzien van personen geboren tussen 1 juli 1954 en 1 juli 1956: een tijd
 
 ####Uitzondering op herbeoordeling
 
-1.  Artikel 3:28, vijfde lid, eerste zin, van de Wet werk en arbeidsondersteuning jonggehandicapten en artikel 34, vierde lid, eerste zin, van de Wet op de arbeidsongeschiktheidsverzekering is niet van toepassing op personen die op 31 december 1986 dan wel 31 juli 1993 recht hadden op een arbeidsongeschiktheidsuitkering op grond van artikel 6, eerste lid, onderdeel b, van de Algemene Arbeidsongeschiktheidswet.   
-2.  De artikelen 34, vierde lid, eerste zin, van de Wet op de arbeidsongeschiktheidsverzekering, 35, vijfde lid, eerste zin van de Wet arbeidsongeschiktheidsverzekering zelfstandigen en 28, vijfde lid, eerste zin, van de Wet arbeidsongeschiktheidsvoorziening jongehandicapten zijn niet van toepassing op: 
+1.  Artikel 3:28, vijfde lid, eerste zin, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en artikel 34, vierde lid, eerste zin, van de Wet op de arbeidsongeschiktheidsverzekering is niet van toepassing op personen die op 31 december 1986 dan wel 31 juli 1993 recht hadden op een arbeidsongeschiktheidsuitkering op grond van artikel 6, eerste lid, onderdeel b, van de Algemene Arbeidsongeschiktheidswet.   
+2.  De artikelen 34, vierde lid, eerste zin, van de Wet op de arbeidsongeschiktheidsverzekering, 35, vijfde lid, eerste zin van de Wet arbeidsongeschiktheidsverzekering zelfstandigen en 3:28, vijfde lid, eerste zin, van de Wet arbeidsongeschiktheidsvoorziening jongehandicapten zijn niet van toepassing op: 
 
 a. personen als bedoeld in artikel 1, eerste lid, onderdeel a, ten aanzien van wie in de periode genoemd in dat onderdeel op een andere grond reeds een arbeidsongeschiktheidsbeoordeling als bedoeld in het Schattingsbesluit arbeidsongeschiktheidswetten heeft plaatsgevonden;  
 
@@ -42,7 +42,7 @@ b. personen als bedoeld in artikel 1, eerste lid, onderdeel b, ten aanzien van w
 
 1.  Artikel 24 van de Algemene Arbeidsongeschiktheidswet, zoals dat luidde op 31 december 1997, is niet van toepassing op de personen, bedoeld in artikel XIII, eerste lid, en artikel XXIV, eerste lid, van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen.   
 2.  Onverminderd artikel 2 is ten aanzien van personen als bedoeld in artikel XIII, eerste lid, van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen artikel 35 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen van toepassing.   
-3.  Onverminderd artikel 2 is ten aanzien van personen als bedoeld in artikel XXIV, eerste lid, van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen artikel 3:28 van de Wet werk en arbeidsondersteuning jonggehandicapten van toepassing.  
+3.  Onverminderd artikel 2 is ten aanzien van personen als bedoeld in artikel XXIV, eerste lid, van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen en artikel 3:28 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten van toepassing.  
 
 ###Artikel 4 
 

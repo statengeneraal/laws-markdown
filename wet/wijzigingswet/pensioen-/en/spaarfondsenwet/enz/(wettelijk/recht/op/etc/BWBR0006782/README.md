@@ -49,15 +49,15 @@ Bevat wijzigingen in andere regelgeving.
 
 ###Artikel X 
 
-1. Het bestuur van een bedrijfspensioenfonds zorgt dat de deelnemers, die zijn toegetreden vóór de inwerkingtreding van artikel I, onderdeel F, binnen een jaar na dat tijdstip schriftelijk op de hoogte gesteld worden van de inhoud van de in [artikel 17, eerste lid, van de Pensioen- en spaarfondsenwet](../../../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md) bedoelde statuten en reglementen.
-2.  De Verzekeringskamer stelt binnen twee jaar na de inwerkingtreding van deze wet de in [artikel 29, derde lid, van de Pensioen- en spaarfondsenwet](../../../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md) bedoelde beleidsregels vast.
-3. [Artikel 32, zesde lid, van de Pensioen- en spaarfondsenwet](../../../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md) vindt voor het eerst toepassing op 1 januari volgend op de inwerkingtreding van deze wet.
-4. [Artikel 32*b*, eerste en tweede lid, van de Pensioen- en spaarfondsenwet](../../../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md) is niet van toepassing indien de deelneming is geëindigd vóór de inwerkingtreding van deze wet.
+1. Het bestuur van een bedrijfspensioenfonds zorgt dat de deelnemers, die zijn toegetreden vóór de inwerkingtreding van artikel I, onderdeel F, binnen een jaar na dat tijdstip schriftelijk op de hoogte gesteld worden van de inhoud van de in artikel 17, eerste lid, van de Pensioen- en spaarfondsenwet bedoelde statuten en reglementen.
+2.  De Verzekeringskamer stelt binnen twee jaar na de inwerkingtreding van deze wet de in artikel 29, derde lid, van de Pensioen- en spaarfondsenwet bedoelde beleidsregels vast.
+3. Artikel 32, zesde lid, van de Pensioen- en spaarfondsenwet vindt voor het eerst toepassing op 1 januari volgend op de inwerkingtreding van deze wet.
+4. Artikel 32*b*, eerste en tweede lid, van de Pensioen- en spaarfondsenwet is niet van toepassing indien de deelneming is geëindigd vóór de inwerkingtreding van deze wet.
 5.  De statuten en reglementen van een vóór de inwerkingtreding van deze wet opgericht pensioenfonds, moeten binnen twee jaar na dat tijdstip aan het in deze wet bepaalde voldoen.
 
 ### Artikel  XI  
 
-De intrekking van [artikel 72 van de Algemene Ouderdomswet](../../../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) heeft geen betrekking op aanspraken op pensioen die zijn opgebouwd voor de inwerkingtreding van deze wet en kan uitsluitend na een wijziging van de pensioenregeling in verband met bedoelde intrekking gevolgen hebben voor nog op te bouwen aanspraken op pensioen. 
+De intrekking van artikel 72 van de Algemene Ouderdomswet heeft geen betrekking op aanspraken op pensioen die zijn opgebouwd voor de inwerkingtreding van deze wet en kan uitsluitend na een wijziging van de pensioenregeling in verband met bedoelde intrekking gevolgen hebben voor nog op te bouwen aanspraken op pensioen. 
 
 ### Artikel  XII  
 
@@ -65,7 +65,7 @@ De intrekking van artikel 21*a* van de Algemene Weduwen- en Wezenwet heeft geen 
 
 ### Artikel  XIII  
 
-1.  De aan de Pensioenkamer toe te rekenen goederen gaan onder algemene titel over op de Sociaal-Economische Raad, ingesteld bij de [Wet op de Bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).   
+1.  De aan de Pensioenkamer toe te rekenen goederen gaan onder algemene titel over op de Sociaal-Economische Raad, ingesteld bij de Wet op de Bedrijfsorganisatie.   
 2.   De op de Pensioenkamer rustende verplichtingen gaan onder algemene titel over op het Fonds Voorheffing Pensioenverzekering, ingesteld bij Wet van 13 december 1972. De Sociaal-Economische Raad draagt zorg voor de afwikkeling van deze overdracht.   
 3.   Het voorzitterschap alsmede het lidmaatschap van de leden en plaatsvervangende leden van de Pensioenkamer eindigt op het tijdstip van inwerkingtreding van deze wet.  
 
@@ -87,8 +87,8 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  XVIII  
 
-1.  Bevoegd inzake verzoeken om ontheffing op grond van [artikel 29 van de Pensioen- en spaarfondsenwet](../../../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md), die vòòr de datum van inwerkingtreding van deze wet zijn ingediend, is de Verzekeringskamer indien die beslissing niet vòòr die datum is genomen.   
-2.   Bij administratiefrechtelijke procedures op of na de datum van inwerkingtreding van deze wet dienen besluiten inzake verzoeken om ontheffing op grond van [artikel 29 van de Pensioen- en spaarfondsenwet](../../../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md), die Onze Minister vòòr die datum heeft getroffen, als besluiten te worden aangemerkt die zijn getroffen door de Verzekeringskamer.  
+1.  Bevoegd inzake verzoeken om ontheffing op grond van artikel 29 van de Pensioen- en spaarfondsenwet, die vòòr de datum van inwerkingtreding van deze wet zijn ingediend, is de Verzekeringskamer indien die beslissing niet vòòr die datum is genomen.   
+2.   Bij administratiefrechtelijke procedures op of na de datum van inwerkingtreding van deze wet dienen besluiten inzake verzoeken om ontheffing op grond van artikel 29 van de Pensioen- en spaarfondsenwet, die Onze Minister vòòr die datum heeft getroffen, als besluiten te worden aangemerkt die zijn getroffen door de Verzekeringskamer.  
 
 ### Artikel  XIX  
 

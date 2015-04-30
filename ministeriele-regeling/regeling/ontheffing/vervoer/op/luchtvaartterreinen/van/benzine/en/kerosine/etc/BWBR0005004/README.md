@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-Van [artikel 6, eerste lid, van hoofdstuk II van bijlage 2 van de Regeling vervoer over land van gevaarlijke stoffen](../../../../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md) wordt ontheffing verleend ten behoeve van het vervoeren van benzine met UN-nummer 1203 en kerosine met UN-nummer 1223 als bedoeld in randnummer 3.2.1 van [bijlage 1 bij de Regeling vervoer over land van gevaarlijke stoffen](../../../../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md), op de ingevolge de [Luchtvaartwet](../../../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) aangewezen luchtvaartterreinen van N.V. Luchthaven Schiphol, N.V. Luchthaven Maastricht, N.V. Luchthaven Eelde en Luchthaven Rotterdam, voor het tanken van luchtvaartuigen, onder de volgende voorschriften: 
+Van artikel 6, eerste lid, van hoofdstuk II van bijlage 2 van de Regeling vervoer over land van gevaarlijke stoffen wordt ontheffing verleend ten behoeve van het vervoeren van benzine met UN-nummer 1203 en kerosine met UN-nummer 1223 als bedoeld in randnummer 3.2.1 van bijlage 1 bij de Regeling vervoer over land van gevaarlijke stoffen, op de ingevolge de Luchtvaartwet aangewezen luchtvaartterreinen van N.V. Luchthaven Schiphol, N.V. Luchthaven Maastricht, N.V. Luchthaven Eelde en Luchthaven Rotterdam, voor het tanken van luchtvaartuigen, onder de volgende voorschriften: 
 
 a. Op het voor het publiek toegankelijk gedeelte van bovenbedoelde luchtvaartterreinen:  
 

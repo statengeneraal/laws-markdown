@@ -3,12 +3,12 @@
 ##Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 20 maart 2009, nr. TRCJZ/2009/620, houdende vaststelling van beleidsregels over de kwaliteit van de opvang van beschermde inheemse diersoorten (beleidsregels kwaliteit opvang beschermde inheemse diersoorten)
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
-Gelet op [artikel 75, derde en vijfde lid](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), en [79, eerste lid, van de Flora- en faunawet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en op [artikel 4:81 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 75, derde en vijfde lid, en 79, eerste lid, van de Flora- en faunawet en op artikel 4:81 van de Algemene wet bestuursrecht;
 Besluit:    
 
 ### Artikel  1  
 
-Deze beleidsregels gelden voor de verlening van ontheffing van de [artikelen 9](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [13, eerste lid](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), en in voorkomend geval van [artikel 15, tweede lid, van de Flora- en faunawet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) aan opvangcentra die uit de natuur afkomstige, niet-gedomesticeerde beschermde inheemse diersoorten opvangen of gaan opvangen. 
+Deze beleidsregels gelden voor de verlening van ontheffing van de artikelen 9, 13, eerste lid, en in voorkomend geval van artikel 15, tweede lid, van de Flora- en faunawet aan opvangcentra die uit de natuur afkomstige, niet-gedomesticeerde beschermde inheemse diersoorten opvangen of gaan opvangen. 
 
 ### Artikel  2  
 
@@ -24,8 +24,8 @@ d. het opvangcentrum, bedoeld in artikel 1, voldoet aan de voorwaarden van het k
 
 ### Artikel  3  
 
-1.  Reeds aan opvangcentra als bedoeld in artikel 1 voor de opvang van dieren verleende ontheffingen voor onbeperkte tijd, op grond van de [Flora- en faunawet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), de Vogelwet 1936 en [artikel 25 van de Natuurbeschermingswet](../../../../../../../../wet/natuurbeschermingswet/BWBR0002611/README.md) worden met ingang van 1 juli 2012 ingetrokken.   
-2.  Reeds aan opvangcentra als bedoeld in artikel 2 voor de opvang van dieren verleende ontheffingen met een beperkte tijdsduur, op grond van de [Flora- en faunawet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), de Vogelwet 1936 en [artikel 25 van de Natuurbeschermingswet](../../../../../../../../wet/natuurbeschermingswet/BWBR0002611/README.md) blijven van kracht tot 1 juli 2012.  
+1.  Reeds aan opvangcentra als bedoeld in artikel 1 voor de opvang van dieren verleende ontheffingen voor onbeperkte tijd, op grond van de Flora- en faunawet, de Vogelwet 1936 en artikel 25 van de Natuurbeschermingswet worden met ingang van 1 juli 2012 ingetrokken.   
+2.  Reeds aan opvangcentra als bedoeld in artikel 2 voor de opvang van dieren verleende ontheffingen met een beperkte tijdsduur, op grond van de Flora- en faunawet, de Vogelwet 1936 en artikel 25 van de Natuurbeschermingswet blijven van kracht tot 1 juli 2012.  
 
 ### Artikel  4  
 
@@ -57,7 +57,7 @@ G. Verburg
 
 In deze bijlage wordt verstaan onder: 
 
-– beschermde inheemse dieren: beschermde inheemse dieren, bedoeld in [artikel 4 van de Flora- en faunawet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  
+– beschermde inheemse dieren: beschermde inheemse dieren, bedoeld in artikel 4 van de Flora- en faunawet;  
 
 – bestuur: bestuur van de vereniging of stichting van het opvangcentrum;  
 
@@ -167,7 +167,7 @@ e. herpetofauna;
 
 f. overige zoogdieren.    
 
-3. Voor de soorten of soortgroepen die buiten het in het eerste lid genoemde beleid vallen verwijst het opvangcentrum naar andere opvangcentra die wel over de juiste ontheffing van de [Flora- en faunawet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) beschikken.   
+3. Voor de soorten of soortgroepen die buiten het in het eerste lid genoemde beleid vallen verwijst het opvangcentrum naar andere opvangcentra die wel over de juiste ontheffing van de Flora- en faunawet beschikken.   
 
 ### Artikel  8  
 
@@ -203,7 +203,7 @@ c. het dier een risico geeft voor de aanwezige dieren;
 
 d. het dier een risico geeft voor de medewerkers in het opvangcentrum.    
 
-2. Indien een ter opvang aangeboden dier wordt geweigerd, onderzoekt het opvangcentrum of het dier direct in vrijheid kan worden gesteld. Indien dit niet mogelijk is, wordt onderzocht of het dier kan worden geplaatst in een in de betreffende soort gespecialiseerd opvangcentrum voorzien van een ontheffing van de [Flora- en faunawet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md).  
+2. Indien een ter opvang aangeboden dier wordt geweigerd, onderzoekt het opvangcentrum of het dier direct in vrijheid kan worden gesteld. Indien dit niet mogelijk is, wordt onderzocht of het dier kan worden geplaatst in een in de betreffende soort gespecialiseerd opvangcentrum voorzien van een ontheffing van de Flora- en faunawet.  
 
 3. Indien geen van deze mogelijkheden haalbaar is, wordt het dier gedood, overeenkomstig de bepalingen in paragraaf 5.  
 
@@ -353,7 +353,7 @@ b. hoe het onderzoek van binnengebrachte dieren plaatsvindt.
 
 ####Verdenking aangifteplichtige dierziekten
 
-Het opvangcentrum let op verschijnselen die kunnen wijzen op een besmetting met een aangifteplichtige dierziekte. Deze signalen worden gemeld bij de aangewezen overheidsinstantie conform [artikel 19 van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md). 
+Het opvangcentrum let op verschijnselen die kunnen wijzen op een besmetting met een aangifteplichtige dierziekte. Deze signalen worden gemeld bij de aangewezen overheidsinstantie conform artikel 19 van de Gezondheids- en welzijnswet voor dieren. 
 
 ### Paragraaf  4  
 

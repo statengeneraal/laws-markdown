@@ -8,7 +8,7 @@ Op de voordracht van de Staatssecretaris van Justitie van 2 maart 1992, Stafafde
 
 Overwegende dat het wenselijk is de regels betreffende de tenuitvoerlegging van gijzeling te herzien;
 
-Gelet op [artikel 592 van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), artikel 131 van de Gevangenismaatregel en [artikel 28, vierde lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../wet/wet/mulder/BWBR0004581/README.md),
+Gelet op artikel 592 van het Wetboek van Burgerlijke Rechtsvordering, artikel 131 van de Gevangenismaatregel en artikel 28, vierde lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften,
 
 Gezien het advies van de sectie gevangeniswezen van de Centrale Raad voor Strafrechtstoepassing van 8 januari 1992,
 

@@ -8,9 +8,9 @@ Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur
 
 Gelet op de richtlijn 92/59/EEG van de Raad van de Europese Gemeenschappen van 29 juni 1992, inzake de algemene produktveiligheid (*PbEG* L 228);
 
-Gelet op de [artikelen 11](../../../../../wet/warenwet/BWBR0001969/README.md), eerste lid, en [13 van de Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md);
+Gelet op de artikelen 11, eerste lid, en 13 van de Warenwet;
 
-Gezien het advies van de Adviescommissie [Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md) van 3 december 1992, nr. 14622/(41)5;
+Gezien het advies van de Adviescommissie Warenwet van 3 december 1992, nr. 14622/(41)5;
 
 De Raad van State gehoord (advies van 23 juli 1993, nr. W13.93.0152);
 
@@ -83,13 +83,13 @@ b.de nodige documentatie bij te houden en te verstrekken om de oorsprong van de 
 
 ### Artikel 2b 
 
-1. Voor de toepassing van de [artikelen 21](../../../../../wet/warenwet/BWBR0001969/README.md), [21a](../../../../../wet/warenwet/BWBR0001969/README.md) en [21b van de Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md) wordt Onze Minister van Infrastructuur en Milieu aangewezen voor wat betreft:
+1. Voor de toepassing van de artikelen 21, 21a en 21b van de Warenwet wordt Onze Minister van Infrastructuur en Milieu aangewezen voor wat betreft:
 
-a.pleziervaartuigen als bedoeld in [artikel 1, eerste lid, onderdeel a, en tweede lid, onderdelen a en b van de Wet pleziervaartuigen](../../../../../wet/wet/pleziervaartuigen/BWBR0008366/README.md);
+a.pleziervaartuigen als bedoeld in artikel 1, eerste lid, onderdeel a, en tweede lid, onderdelen a en b van de Wet pleziervaartuigen;
 
-b.luchtvaartuigen als bedoeld in [artikel 1.1, eerste lid, onderdeel k, van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), met uitzondering van de luchtvaartuigen, genoemd in [artikel 1, derde lid, van het Besluit luchtvaartuigen](../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md). 
-2. Voor de toepassing van de [artikelen 21](../../../../../wet/warenwet/BWBR0001969/README.md), [21a](../../../../../wet/warenwet/BWBR0001969/README.md) en [21b van de Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md) wordt de Dienst Wegverkeer aangewezen voor wat betreft motorrijtuigen als bedoeld in artikel 1, eerste lid, onderdeel c, van de Wegenverkeerswet 1994, bestemd voor gebruik op voor het openbaar verkeer openstaande wegen of paden, aanhangwagens als bedoeld in artikel 1, onderdeel d, van die wet, onderdelen en uitrustingstukken van deze motorrijtuigen en aanhangwagens, alsmede voorzieningen ter bescherming van weggebruikers en passagiers, voor zover hieraan bij of krachtens de Wegenverkeerswet 1994 eisen worden gesteld. 
-3. Voor de toepassing van de [artikelen 21](../../../../../wet/warenwet/BWBR0001969/README.md), [21a](../../../../../wet/warenwet/BWBR0001969/README.md), [21b](../../../../../wet/warenwet/BWBR0001969/README.md), [32a](../../../../../wet/warenwet/BWBR0001969/README.md), [32e](../../../../../wet/warenwet/BWBR0001969/README.md), [32f](../../../../../wet/warenwet/BWBR0001969/README.md), [32g](../../../../../wet/warenwet/BWBR0001969/README.md) en [32h, van de Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md) wordt Onze Minister van Economische Zaken, Landbouw en innovatie aangewezen voor wat betreft randapparaten en radioapparaten als bedoeld in [artikel 1.1 van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md). 
+b.luchtvaartuigen als bedoeld in artikel 1.1, eerste lid, onderdeel k, van de Wet luchtvaart, met uitzondering van de luchtvaartuigen, genoemd in artikel 1, derde lid, van het Besluit luchtvaartuigen. 
+2. Voor de toepassing van de artikelen 21, 21a en 21b van de Warenwet wordt de Dienst Wegverkeer aangewezen voor wat betreft motorrijtuigen als bedoeld in artikel 1, eerste lid, onderdeel c, van de Wegenverkeerswet 1994, bestemd voor gebruik op voor het openbaar verkeer openstaande wegen of paden, aanhangwagens als bedoeld in artikel 1, onderdeel d, van die wet, onderdelen en uitrustingstukken van deze motorrijtuigen en aanhangwagens, alsmede voorzieningen ter bescherming van weggebruikers en passagiers, voor zover hieraan bij of krachtens de Wegenverkeerswet 1994 eisen worden gesteld. 
+3. Voor de toepassing van de artikelen 21, 21a, 21b, 32a, 32e, 32f, 32g en 32h, van de Warenwet wordt Onze Minister van Economische Zaken, Landbouw en innovatie aangewezen voor wat betreft randapparaten en radioapparaten als bedoeld in artikel 1.1 van de Telecommunicatiewet. 
 4. Met het toezicht op de naleving van het eerste lid, onderdelen a en b, en tweede lid, met betrekking tot de daar genoemde waren, zijn belast de bij besluit van Onze Minister van Infrastructuur en Milieu aangewezen ambtenaren. 
 5. Met het toezicht op de naleving van het derde lid met betrekking tot de daar genoemde waren, zijn belast de bij besluit van Onze Minister van Economische Zaken, Landbouw en innovatie aangewezen ambtenaren. 
 6.  Onze Minister stelt nadere regels voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens verordening (EG) nr. 764/2008 en de bij of krachtens verordening (EG) nr. 765/2008 gestelde voorschriften. Deze nadere regels kunnen mede betrekking hebben op het aanwijzen van autoriteiten die belast zijn met de controle van producten die de communautaire markt binnenkomen. 

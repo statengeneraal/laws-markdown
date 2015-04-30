@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 9 mei 2001, nr. CDJZ/WBI/2001-612, Centrale Directie Juridische Zaken;
 
-Gelet op [artikel 173, eerste lid](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en op de [artikelen 130, vierde lid](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [164, zevende lid](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en [174, derde lid](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [juncto 173, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
+Gelet op artikel 173, eerste lid, en op de artikelen 130, vierde lid, 164, zevende lid, en 174, derde lid, juncto 173, eerste lid, van de Wegenverkeerswet 1994;
 
 De Raad van State gehoord (advies van 14 juni 2001, nr. W09.01.0222/V);
 
@@ -20,19 +20,19 @@ Hebben goedgevonden en verstaan:
 
 Voor de toepassing van dit besluit wordt verstaan onder: 
 
-a. wet: de [Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+a. wet: de Wegenverkeerswet 1994;  
 
-b. bewaringsregister: het register, bedoeld in [artikel 170, vierde lid, van de wet](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).   
+b. bewaringsregister: het register, bedoeld in artikel 170, vierde lid, van de wet.   
 
 ### Artikel  2  
 
-De soorten van weggedeelten en wegen, bedoeld in [artikel 173, eerste lid, onderdeel a, van de wet](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), zijn: 
+De soorten van weggedeelten en wegen, bedoeld in artikel 173, eerste lid, onderdeel a, van de wet, zijn: 
 
-a. wegen en weggedeelten waar door middel van bord E 1 van [bijlage 1 bij het RVV 1990](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) of door middel van een gele onderbroken streep als bedoeld in [artikel 24, eerste lid, onderdeel e, van het RVV 1990](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) wordt aangegeven dat het verboden is te parkeren;  
+a. wegen en weggedeelten waar door middel van bord E 1 van bijlage 1 bij het RVV 1990 of door middel van een gele onderbroken streep als bedoeld in artikel 24, eerste lid, onderdeel e, van het RVV 1990 wordt aangegeven dat het verboden is te parkeren;  
 
-b. wegen en weggedeelten waar door middel van bord E 2 van [bijlage 1 bij het RVV 1990](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) of door middel van een gele doorgetrokken streep als bedoeld in [artikel 23, eerste lid, onderdeel g, van het RVV 1990](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) wordt aangegeven dat het verboden is stil te staan;  
+b. wegen en weggedeelten waar door middel van bord E 2 van bijlage 1 bij het RVV 1990 of door middel van een gele doorgetrokken streep als bedoeld in artikel 23, eerste lid, onderdeel g, van het RVV 1990 wordt aangegeven dat het verboden is stil te staan;  
 
-c. parkeergelegenheden, aangeduid door bord E4 van [bijlage 1 bij het RVV 1990](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), waarbij ofwel op een onderbord wordt aangegeven:  
+c. parkeergelegenheden, aangeduid door bord E4 van bijlage 1 bij het RVV 1990, waarbij ofwel op een onderbord wordt aangegeven:  
 
 1°. de voertuigcategorie of groep voertuigen waarvoor de parkeergelegenheid is bestemd;  
 
@@ -46,25 +46,25 @@ c. parkeergelegenheden, aangeduid door bord E4 van [bijlage 1 bij het RVV 1990](
 
 2°. de wijze waarop het parkeren dient te geschieden.    
 
-d. taxistandplaatsen, aangeduid door bord E5 van [bijlage 1 bij het RVV 1990](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md);  
+d. taxistandplaatsen, aangeduid door bord E5 van bijlage 1 bij het RVV 1990;  
 
-e. parkeerplaatsen voor invaliden, aangeduid door bord E6 van [bijlage 1 bij het RVV 1990](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md);  
+e. parkeerplaatsen voor invaliden, aangeduid door bord E6 van bijlage 1 bij het RVV 1990;  
 
-f. gelegenheden voor het onmiddellijk laden en lossen van goederen, aangeduid door bord E7 van [bijlage 1 bij het RVV 1990](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md);  
+f. gelegenheden voor het onmiddellijk laden en lossen van goederen, aangeduid door bord E7 van bijlage 1 bij het RVV 1990;  
 
-g. parkeergelegenheden voor een categorie of groep voertuigen, aangeduid door bord E8 van [bijlage 1 bij het RVV 1990](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md);  
+g. parkeergelegenheden voor een categorie of groep voertuigen, aangeduid door bord E8 van bijlage 1 bij het RVV 1990;  
 
-h. parkeergelegenheden voor vergunninghouders, aangeduid door bord E9 van [bijlage 1 bij het RVV 1990](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md);  
+h. parkeergelegenheden voor vergunninghouders, aangeduid door bord E9 van bijlage 1 bij het RVV 1990;  
 
-i. voetgangersgebieden, aangeduid door bord G7 of door bord C1 van [bijlage 1 bij het RVV 1990](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md).   
+i. voetgangersgebieden, aangeduid door bord G7 of door bord C1 van bijlage 1 bij het RVV 1990.   
 
 ### Artikel  3  
 
-Voor de vaststelling van de verordening, bedoeld in [artikel 173, tweede lid, van de wet](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) pleegt het college van burgemeester en wethouders over de toepassing van [artikel 170, eerste lid, van de wet](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) op de in de gemeente gelegen wegen en weggedeelten die bij een ander dan de gemeente in beheer zijn, overleg met de desbetreffende beheerders. 
+Voor de vaststelling van de verordening, bedoeld in artikel 173, tweede lid, van de wet pleegt het college van burgemeester en wethouders over de toepassing van artikel 170, eerste lid, van de wet op de in de gemeente gelegen wegen en weggedeelten die bij een ander dan de gemeente in beheer zijn, overleg met de desbetreffende beheerders. 
 
 ### Artikel  4  
 
-Het college van burgemeester en wethouders zendt de tekst van de verordening, bedoeld in [artikel 173, tweede lid, van de wet](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aan: 
+Het college van burgemeester en wethouders zendt de tekst van de verordening, bedoeld in artikel 173, tweede lid, van de wet aan: 
 
 a. de officier van justitie;  
 
@@ -72,7 +72,7 @@ b. de korpschef;
 
 c. de betrokken wegbeheerders;  
 
-d. indien in de gemeente een luchtvaartterrein als bedoeld in [artikel 4, eerste lid, onderdeel c, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md), is gelegen, de commandant van de Koninklijke marechaussee.   
+d. indien in de gemeente een luchtvaartterrein als bedoeld in artikel 4, eerste lid, onderdeel c, van de Politiewet 2012, is gelegen, de commandant van de Koninklijke marechaussee.   
 
 ### §  2  
 
@@ -80,7 +80,7 @@ d. indien in de gemeente een luchtvaartterrein als bedoeld in [artikel 4, eerste
 
 ### Artikel  5  
 
-Het proces-verbaal krachtens [artikel 5:29, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bevat: 
+Het proces-verbaal krachtens artikel 5:29, tweede lid, van de Algemene wet bestuursrecht bevat: 
 
 a. een summiere omschrijving van het in bewaring te stellen voertuig, waarbij in elk geval wordt vermeld: 
 
@@ -124,7 +124,7 @@ b. de naam en het adres van degene die het voertuig heeft afgehaald, alsmede geg
 c. het bedrag dat als kosten, verbonden aan de toepassing van bestuursdwang, is betaald.     
 2.  Indien het voertuig binnen achtenveertig uur na de inbewaringstelling niet is afgehaald, worden in het bewaringsregister opgenomen: 
 
-a. de datum van de bekendmaking, bedoeld in [artikel 171, eerste lid, onderdeel b, van de wet](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en  
+a. de datum van de bekendmaking, bedoeld in artikel 171, eerste lid, onderdeel b, van de wet, en  
 
 b. ofwel de naam en het adres van degene aan wie is bekendgemaakt, onder vermelding van de wijze waarop aan hem is bekendgemaakt, ofwel de wijze waarop is bekendgemaakt.    
 
@@ -188,9 +188,9 @@ b. indien de gemeente de bewaring zelf verzorgt:
 
 c. indien de gemeente de overbrenging, onderscheidenlijk de bewaring niet zelf verzorgt, de voor de overbrenging, onderscheidenlijk de bewaring aan de gemeente in rekening gebrachte kosten, en  
 
-d. de kosten van verzekering ter dekking van de aansprakelijkheid voor schade als bedoeld in [artikel 172, achtste lid, van de wet](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).     
-2.  Ingeval van toepassing van [artikel 171, eerste lid, onderdeel b, van de wet](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) kunnen als directe kosten tevens in aanmerking worden genomen de personele en materiële kosten, verbonden aan de bekendmaking van de beschikking, waaronder begrepen de kosten ter opsporing van degene aan wie de beschikking wordt bekendgemaakt.   
-3.  Ingeval [artikel 5:30 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op overeenkomstige wijze wordt toegepast, kunnen als directe kosten tevens in aanmerking worden genomen de personele en materiële kosten van verkoop, eigendomsoverdracht om niet of vernietiging, waaronder begrepen de kosten van taxatie van het voertuig.   
+d. de kosten van verzekering ter dekking van de aansprakelijkheid voor schade als bedoeld in artikel 172, achtste lid, van de wet.     
+2.  Ingeval van toepassing van artikel 171, eerste lid, onderdeel b, van de wet kunnen als directe kosten tevens in aanmerking worden genomen de personele en materiële kosten, verbonden aan de bekendmaking van de beschikking, waaronder begrepen de kosten ter opsporing van degene aan wie de beschikking wordt bekendgemaakt.   
+3.  Ingeval artikel 5:30 van de Algemene wet bestuursrecht op overeenkomstige wijze wordt toegepast, kunnen als directe kosten tevens in aanmerking worden genomen de personele en materiële kosten van verkoop, eigendomsoverdracht om niet of vernietiging, waaronder begrepen de kosten van taxatie van het voertuig.   
 
 ### Artikel  13  
 
@@ -198,12 +198,12 @@ Bij de vaststelling van de kosten, verbonden aan de toepassing van bestuursdwang
 
 ### Artikel  14  
 
-1.  In de gemeentelijke verordening krachtens [artikel 173, tweede lid, van de wet](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) kan op basis van een jaarlijkse raming met inachtneming van de artikelen 12 en 13 worden bepaald dat voor de vaststelling van de kosten, verbonden aan het overbrengen, wordt uitgegaan van: 
+1.  In de gemeentelijke verordening krachtens artikel 173, tweede lid, van de wet kan op basis van een jaarlijkse raming met inachtneming van de artikelen 12 en 13 worden bepaald dat voor de vaststelling van de kosten, verbonden aan het overbrengen, wordt uitgegaan van: 
 
 a. in de verordening opgenomen tarieven per overbrenging, waarvan de hoogte is gerelateerd aan de dag van de week, het tijdstip van overbrenging, de tijdsduur van de overbrenging en het in het kader van de overbrenging gereden aantal kilometers, dan wel  
 
 b. een in de verordening opgenomen vast tarief per overbrenging.     
-2.  In de gemeentelijke verordening krachtens [artikel 173, tweede lid, van de wet](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) kan op basis van een jaarlijkse raming met inachtneming van de artikelen 12 en 13 worden bepaald dat voor de vaststelling van de kosten, verbonden aan het bewaren, wordt uitgegaan van een in de verordening opgenomen tarief per etmaal of een tarief per deel van een etmaal.   
+2.  In de gemeentelijke verordening krachtens artikel 173, tweede lid, van de wet kan op basis van een jaarlijkse raming met inachtneming van de artikelen 12 en 13 worden bepaald dat voor de vaststelling van de kosten, verbonden aan het bewaren, wordt uitgegaan van een in de verordening opgenomen tarief per etmaal of een tarief per deel van een etmaal.   
 3.  Bij de vaststelling van de kosten, verbonden aan het bewaren, kan voor een niet voltooid etmaal, onderscheidenlijk niet voltooid deel van een etmaal, het tarief onverkort worden toegepast.  
 
 ### §  4  
@@ -216,7 +216,7 @@ Een in bewaring gesteld voertuig wordt niet verkocht, om niet in eigendom overge
 
 ### Artikel  16  
 
-Waar in de wet [artikel 173, eerste lid, van de wet](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) van overeenkomstige toepassing is verklaard, is dit besluit van overeenkomstige toepassing. 
+Waar in de wet artikel 173, eerste lid, van de wet van overeenkomstige toepassing is verklaard, is dit besluit van overeenkomstige toepassing. 
 
 ### Artikel  17  
 

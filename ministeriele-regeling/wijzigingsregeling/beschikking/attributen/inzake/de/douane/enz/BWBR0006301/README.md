@@ -3,7 +3,7 @@
 ##Wijzigingsregeling Beschikking attributen inzake de douane, enz.
 
 De Staatssecretaris van Financiën,  
-Gelet op artikel 23 van de bijlage bij het Protocol van 15 juni 1970 tot vaststelling van een Benelux-tarief van invoerrechten (laatstelijk Trb. 1987, 74), artikel 4 van de Wet tarief van invoerrechten, [artikel 69 van de Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [artikel 31 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](../../../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [artikel 21 van de Wet op de omzetbelasting 1968](../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), de artikelen 173, 173a, 174 en 179e van het Besluit inzake de douane en [artikel 3 van het Besluit afgifte oorsprongsverklaringen 1976](../../../../../../../../../AMvB/besluit/afgifte/oorsprongsverklaringen/1976/BWBR0003067/README.md);
+Gelet op artikel 23 van de bijlage bij het Protocol van 15 juni 1970 tot vaststelling van een Benelux-tarief van invoerrechten (laatstelijk Trb. 1987, 74), artikel 4 van de Wet tarief van invoerrechten, artikel 69 van de Wet op de accijns, artikel 31 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten, artikel 21 van de Wet op de omzetbelasting 1968, de artikelen 173, 173a, 174 en 179e van het Besluit inzake de douane en artikel 3 van het Besluit afgifte oorsprongsverklaringen 1976;
 Besluit:    
 
 ### Artikel  I  

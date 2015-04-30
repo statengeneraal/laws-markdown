@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 17 maart 1983, nr. DJZ/MJZ 1733049 DGMH/G 093301, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
 
-Gelet op de [artikelen 108](../../../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), [110](../../../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), eerste tot en met derde lid, [130](../../../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) en [174, tweede lid, van de Wet geluidhinder](../../../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) (*Stb.* 1979, 99);
+Gelet op de artikelen 108, 110, eerste tot en met derde lid, 130 en 174, tweede lid, van de Wet geluidhinder (*Stb.* 1979, 99);
 
 Gezien het advies van de Centrale Raad voor de Milieuhygiëne, van 18 november 1982;
 
@@ -22,9 +22,9 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit besluit wordt verstaan onder:  
 
-a. wet: [Wet geluidhinder](../../../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md);  
+a. wet: Wet geluidhinder;  
 
-b. uitwendige scheidingsconstructie: hetgeen onder dat begrip wordt verstaan in het [Bouwbesluit 2012](../../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
+b. uitwendige scheidingsconstructie: hetgeen onder dat begrip wordt verstaan in het Bouwbesluit 2012;  
 
 c. luchtvaartterrein: een luchtvaartterrein als bedoeld in artikel 2;  
 
@@ -57,15 +57,15 @@ h. burgemeester en wethouders: burgemeester en wethouders van gemeenten waarvan 
 
 i. verblijfsruimte:  
 
-1°.geluidsgevoelige ruimte zoals bedoeld in [artikel 1 van de wet](../../../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md);
+1°.geluidsgevoelige ruimte zoals bedoeld in artikel 1 van de wet;
 
-2°.verblijfsruimten als bedoeld in [artikel 1.1, onder e, van het Besluit geluidhinder](../../../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md).    
+2°.verblijfsruimten als bedoeld in artikel 1.1, onder e, van het Besluit geluidhinder.    
 2.   Een gymnastieklokaal maakt voor de toepassing van de hoofdstukken II, III en IV geen deel uit van de in het eerste lid, onder i, onder 1°, bedoelde gebouwen.  
 
 ### Artikel  1a  
 
-1.  Indien [artikel 110f van de wet](../../../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) van toepassing is, geven gedeputeerde staten slechts toepassing aan de artikelen 3, tweede en derde lid, 4, tweede lid , 5, tweede lid, of 6, tweede lid, voor zover de berekening en meting van de onderscheidene geluidsbelastingen na de correctie op grond van [artikel 110f, derde lid, van de wet](../../../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) niet leiden tot een naar hun oordeel onaanvaardbare geluidsbelasting.   
-2.   Indien [artikel 110f van de wet](../../../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) van toepassing is, passen gedeputeerde staten artikel 7, eerste lid, zodanig toe dat de berekening en meting van de onderscheidene geluidsbelastingen niet leiden tot een naar hun oordeel onaanvaardbare geluidsbelasting.  
+1.  Indien artikel 110f van de wet van toepassing is, geven gedeputeerde staten slechts toepassing aan de artikelen 3, tweede en derde lid, 4, tweede lid , 5, tweede lid, of 6, tweede lid, voor zover de berekening en meting van de onderscheidene geluidsbelastingen na de correctie op grond van artikel 110f, derde lid, van de wet niet leiden tot een naar hun oordeel onaanvaardbare geluidsbelasting.   
+2.   Indien artikel 110f van de wet van toepassing is, passen gedeputeerde staten artikel 7, eerste lid, zodanig toe dat de berekening en meting van de onderscheidene geluidsbelastingen niet leiden tot een naar hun oordeel onaanvaardbare geluidsbelasting.  
 
 ### Artikel  2  
 
@@ -90,7 +90,7 @@ b. zodanige waarden noodzakelijk zijn als gevolg van een vaststelling of herzien
 
 ### Artikel  2b  
 
-Bij het geven van een omgevingsvergunning waarbij van het bestemmingsplan wordt afgeweken met toepassing van [artikel 2.12, eerste lid, onder a, onder 2° of 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) dat geheel of gedeeltelijk betrekking heeft op gronden behorende tot een zone, is ten aanzien van de in acht te nemen waarden ter zake van de geluidsbelasting vanwege het luchtvaartterrein artikel 2a, eerste en tweede lid, van overeenkomstige toepassing.
+Bij het geven van een omgevingsvergunning waarbij van het bestemmingsplan wordt afgeweken met toepassing van artikel 2.12, eerste lid, onder a, onder 2° of 3°, van de Wet algemene bepalingen omgevingsrecht dat geheel of gedeeltelijk betrekking heeft op gronden behorende tot een zone, is ten aanzien van de in acht te nemen waarden ter zake van de geluidsbelasting vanwege het luchtvaartterrein artikel 2a, eerste en tweede lid, van overeenkomstige toepassing.
 
 ### Artikel  2c  
 
@@ -176,11 +176,11 @@ c. een wezenlijke toename van de aan de uitwendige scheidingsconstructie optrede
 
 a. die naar verwachting binnen vijf jaar na het tijdstip van het voorgenomen aanbrengen van geluidwerende voorzieningen zullen worden onteigend of waarvan om andere redenen de bewoning binnen die termijn zal worden gestaakt;  
 
-b. die onbewoonbaar zijn verklaard of waarvoor een procedure tot onbewoonbaarverklaring als bedoeld in [Hoofdstuk III](../../../../../../../../../wet/woningwet/BWBR0005181/README.md), Afdeling 3, van de Woningwet aanhangig is;  
+b. die onbewoonbaar zijn verklaard of waarvoor een procedure tot onbewoonbaarverklaring als bedoeld in Hoofdstuk III, Afdeling 3, van de Woningwet aanhangig is;  
 
-c. waarvan de eigenaar of degene die uit anderen hoofde tot het treffen van voorzieningen of verbetering bevoegd is, door burgemeester en wethouders is aangeschreven tot het treffen van voorzieningen of verbeteringen als bedoeld in [Afdeling 2 van Hoofdstuk III van de Woningwet](../../../../../../../../../wet/woningwet/BWBR0005181/README.md) en waaraan die voorzieningen of verbeteringen, welke verband houden met de noodzakelijke geluidwerende maatregelen, nog niet zijn aangebracht, tenzij op verzoek van de eigenaar of degene die uit anderen hoofde daartoe bevoegd is, burgemeester en wethouders ermee hebben ingestemd dat het aanbrengen van voorzieningen of de verbeteringen, waartoe is aangeschreven, en het aanbrengen van de geluidwerende voorzieningen gelijktijdig plaatsvinden;  
+c. waarvan de eigenaar of degene die uit anderen hoofde tot het treffen van voorzieningen of verbetering bevoegd is, door burgemeester en wethouders is aangeschreven tot het treffen van voorzieningen of verbeteringen als bedoeld in Afdeling 2 van Hoofdstuk III van de Woningwet en waaraan die voorzieningen of verbeteringen, welke verband houden met de noodzakelijke geluidwerende maatregelen, nog niet zijn aangebracht, tenzij op verzoek van de eigenaar of degene die uit anderen hoofde daartoe bevoegd is, burgemeester en wethouders ermee hebben ingestemd dat het aanbrengen van voorzieningen of de verbeteringen, waartoe is aangeschreven, en het aanbrengen van de geluidwerende voorzieningen gelijktijdig plaatsvinden;  
 
-d. waarvoor de vergunning als bedoeld in [artikel 60](../../../../../../../../../wet/woningwet/BWBR0005181/README.md) of [61 van de Woningwet](../../../../../../../../../wet/woningwet/BWBR0005181/README.md) door burgemeester en wethouders is geweigerd;  
+d. waarvoor de vergunning als bedoeld in artikel 60 of 61 van de Woningwet door burgemeester en wethouders is geweigerd;  
 
 e. waarvan de staat van onderhoud of de bouwkundige constructie naar het oordeel van Onze Minister het aanbrengen van doeltreffende geluidwerende voorzieningen in de weg staat;  
 
@@ -192,7 +192,7 @@ h. waarvan de eigenaar of bewoner wiens toestemming noodzakelijk is om geluidwer
 
 i. die reeds aanwezig zijn en waaraan geluidwerende voorzieningen worden getroffen als onderdeel van voorzieningen:  
 
-1°. die getroffen worden met geldelijke steun op grond van het [Besluit woninggebonden subsidies 1995](../../../../../../../../../AMvB/besluit/woninggebonden/subsidies/1995/BWBR0006950/README.md) en  
+1°. die getroffen worden met geldelijke steun op grond van het Besluit woninggebonden subsidies 1995 en  
 
 2°. waarvan de kosten meer bedragen dan € 22 689,01.       
 2.   Met betrekking tot andere geluidsgevoelige gebouwen is dit hoofdstuk van overeenkomstige toepassing.  
@@ -476,7 +476,7 @@ Door of vanwege Onze Minister kunnen nadere gegevens betreffende de voorzieninge
 
 ### Artikel 9  
 
-1. Voor zover de geluidwerende voorzieningen van invloed zijn op de luchtverversing dienen de eisen van het [Bouwbesluit](../../../../../../../../../AMvB/bouwbesluit/BWBR0005321/README.md) daaromtrent in acht te worden genomen. 2. De noodzakelijk aan te brengen ventilatievoorzieningen dienen in principe te passen binnen het aanwezige ventilatiesysteem, veelal bedoeld voor natuurlijke ventilatie. Mechanische ventilatievoorzieningen zullen slechts worden aangebracht als de noodzaak daartoe naar het oordeel van Onze Minister is aangetoond. De mechanische ventilatievoorzieningen mogen geen hogere geluidsniveaus in de verblijfsruimten veroorzaken dan de geluidsniveaus, gegeven in de norm van het Nederlands Normalisatie Instituut, NEN 1070, uitgave 1976. 3. Indien er in een uitwendige scheidingsconstructie waaraan eisen worden gesteld ten aanzien van de geluidwering, regelbare luchttoevoeropeningen zijn opgenomen, wordt bij de bepaling van de geluidwering, behoudens het vierde lid, verondersteld dat deze zodanig zijn geopend dat de minimale luchtverversing van de verblijfsruimte plaatsvindt. 4. Indien toepassing van het derde lid leidt tot het aanbrengen van geluidwerende ventilatie-openingen en een volledige toepassing daarvan stuit op zwaarwegende technische of financiële bezwaren, wordt ten minste 50% van de benodigde luchttoevoeropening van geluiddemping voorzien. Voor de bepaling van de geluidwering worden de additionele klassieke ventilatievoorzieningen gesloten geacht. 
+1. Voor zover de geluidwerende voorzieningen van invloed zijn op de luchtverversing dienen de eisen van het Bouwbesluit daaromtrent in acht te worden genomen. 2. De noodzakelijk aan te brengen ventilatievoorzieningen dienen in principe te passen binnen het aanwezige ventilatiesysteem, veelal bedoeld voor natuurlijke ventilatie. Mechanische ventilatievoorzieningen zullen slechts worden aangebracht als de noodzaak daartoe naar het oordeel van Onze Minister is aangetoond. De mechanische ventilatievoorzieningen mogen geen hogere geluidsniveaus in de verblijfsruimten veroorzaken dan de geluidsniveaus, gegeven in de norm van het Nederlands Normalisatie Instituut, NEN 1070, uitgave 1976. 3. Indien er in een uitwendige scheidingsconstructie waaraan eisen worden gesteld ten aanzien van de geluidwering, regelbare luchttoevoeropeningen zijn opgenomen, wordt bij de bepaling van de geluidwering, behoudens het vierde lid, verondersteld dat deze zodanig zijn geopend dat de minimale luchtverversing van de verblijfsruimte plaatsvindt. 4. Indien toepassing van het derde lid leidt tot het aanbrengen van geluidwerende ventilatie-openingen en een volledige toepassing daarvan stuit op zwaarwegende technische of financiële bezwaren, wordt ten minste 50% van de benodigde luchttoevoeropening van geluiddemping voorzien. Voor de bepaling van de geluidwering worden de additionele klassieke ventilatievoorzieningen gesloten geacht. 
 
 ### § 4  
 

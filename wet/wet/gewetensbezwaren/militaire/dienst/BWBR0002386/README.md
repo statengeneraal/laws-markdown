@@ -26,7 +26,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 «tewerkgestelde»: hij die voor vervangende dienst is opgeroepen van het ogenblik af, dat hij op de plaats van zijn eerste bestemming is aangekomen tot het tijdstip, waarop hij met groot verlof wordt gezonden;  
 
-«dienstplichtige»: hij die ingevolge de [Kaderwet dienstplicht](../../../../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md) geschikt is verklaard voor het vervullen van werkelijke dienst.     
+«dienstplichtige»: hij die ingevolge de Kaderwet dienstplicht geschikt is verklaard voor het vervullen van werkelijke dienst.     
 2.  Waar in deze wet en de daarop berustende bepalingen wordt gesproken van personen die ongeschikt zijn verklaard, zijn erkend als gewetensbezwaarde, ontheven zijn van de verplichting tot het vervullen van de vervangende dienst in gewone omstandigheden, disciplinair gestraft of veroordeeld zijn, worden hieronder, voor zover het tegendeel niet blijkt, verstaan degenen omtrent wie het desbetreffende besluit of de desbetreffende uitspraak onherroepelijk is geworden.   
 3.  Waar in deze wet en de daarop berustende bepalingen wordt gesproken van het oproepen voor de vervangende dienst wordt daaronder ten aanzien van hen die reeds de vervangende dienst vervullen verstaan het blijven vervullen van de vervangende dienst.  
 
@@ -46,7 +46,7 @@ Ernstige gewetensbezwaren in de zin van deze wet zijn de onoverkomelijke geweten
 ### Artikel  4  
 
 1.  Degene die een aanvraag heeft gedaan als bedoeld in artikel 3, eerste lid, kan door Onze Minister, in afwachting van een beslissing daarop, geheel of gedeeltelijk van dienstverrichtingen worden vrijgesteld.   
-2.  Ingeval tegen degene die een aanvraag heeft gedaan als bedoeld in artikel 3, eerste lid, een strafvervolging is ingesteld wegens overtreding van [artikel 139 van het Wetboek van Militair Strafrecht](../../../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md), wegens ongehoorzaamheid aan enig dienstbevel of dienstvoorschrift, dan wel wegens overtreding van [artikel 36 van de Kaderwet dienstplicht](../../../../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md) kan het openbaar ministerie besluiten deze strafvervolging, in afwachting van een beslissing op die aanvraag, te schorsen. Ingeval van een hernieuwde aanvraag wordt geen schorsing verleend, tenzij bijzondere omstandigheden daartoe aanleiding geven.  
+2.  Ingeval tegen degene die een aanvraag heeft gedaan als bedoeld in artikel 3, eerste lid, een strafvervolging is ingesteld wegens overtreding van artikel 139 van het Wetboek van Militair Strafrecht, wegens ongehoorzaamheid aan enig dienstbevel of dienstvoorschrift, dan wel wegens overtreding van artikel 36 van de Kaderwet dienstplicht kan het openbaar ministerie besluiten deze strafvervolging, in afwachting van een beslissing op die aanvraag, te schorsen. Ingeval van een hernieuwde aanvraag wordt geen schorsing verleend, tenzij bijzondere omstandigheden daartoe aanleiding geven.  
 
 ### Artikel  5  
 
@@ -61,7 +61,7 @@ Ernstige gewetensbezwaren in de zin van deze wet zijn de onoverkomelijke geweten
 ### Artikel  7a  
 
 1.  Indien de aanvrager bezwaar maakt tegen een besluit tot afwijzing van de aanvraag om erkenning, beslist Onze Minister van Defensie op dat bezwaar na advies van de commissie, bedoeld in artikel 5, eerste lid. De commissie adviseert nadat zij met ten minste drie leden een onderzoek heeft ingesteld.   
-2.   In de gevallen genoemd in [artikel 7:3, onder a tot en met e, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wint Onze Minister van Defensie geen advies als bedoeld in het eerste lid in.  
+2.   In de gevallen genoemd in artikel 7:3, onder a tot en met e, van de Algemene wet bestuursrecht wint Onze Minister van Defensie geen advies als bedoeld in het eerste lid in.  
 
 ### Artikel  7c  
 
@@ -212,8 +212,8 @@ c. verlenging van de duur van de vervangende dienst in gewone omstandigheden met
 
 1.  De gestrafte kan binnen vijf dagen na de ontvangst van het in artikel 32, vierde lid, bedoelde bericht beroep instellen bij de rechtbank Den Haag. De straf, behalve die van berisping, wordt niet ten uitvoer gelegd zolang zij niet onherroepelijk is geworden, tenzij bij de strafoplegging onmiddellijke tenuitvoerlegging is bevolen.   
 2.   De behandeling van het beroep geschiedt door een meervoudige kamer van de rechtbank, welke zitting houdt en beslist met drie leden, van wie twee, onder wie de voorzitter, lid of plaatsvervangend lid zijn van de rechtbank en één niet tot de rechterlijke macht behoort. Laatstgenoemde en zoveel plaatsvervangers voor deze als Wij dienstig oordelen worden door Ons benoemd op voordracht van Onze Ministers van Justitie en van Sociale Zaken en Werkgelegenheid voor de tijd van vier jaren.   
-3.  Aan de deskundige leden en hun plaatsvervangers wordt een vergoeding toegekend met overeenkomstige toepassing van de regels die gelden voor de rechters-plaatsvervangers. Op hen zijn [artikel 4](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en de [artikelen 46c](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46e](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46i met uitzondering van het eerste lid, onderdeel c](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46j](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en [46m van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) van overeenkomstige toepassing.   
-4.   Op de zittende leden van de in het tweede lid bedoelde kamer zijn de [artikelen 512-523 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.  
+3.  Aan de deskundige leden en hun plaatsvervangers wordt een vergoeding toegekend met overeenkomstige toepassing van de regels die gelden voor de rechters-plaatsvervangers. Op hen zijn artikel 4 en de artikelen 46c, 46d, 46e, 46i met uitzondering van het eerste lid, onderdeel c, 46j, 46l en 46m van de Wet rechtspositie rechterlijke ambtenaren van overeenkomstige toepassing.   
+4.   Op de zittende leden van de in het tweede lid bedoelde kamer zijn de artikelen 512-523 van het Wetboek van Strafvordering van overeenkomstige toepassing.  
 
 ### Artikel  34  
 
@@ -229,7 +229,7 @@ c. verlenging van de duur van de vervangende dienst in gewone omstandigheden met
 
 1.  De behandeling van het beroep geschiedt ter openbare terechtzitting. De voorzitter heeft de leiding van de behandeling. Hij kan op verzoek van de gestrafte of om redenen aan de openbare orde ontleend gelasten dat de behandeling achter gesloten deuren plaatsvindt.   
 2.   De gestrafte kan zich door een raadsman doen bijstaan. De rechtbank kan weigeren personen, die geen advocaat zijn, als raadsman toe te laten.   
-3.   De rechtbank is bevoegd getuigen en deskundigen schriftelijk te bevragen of op te roepen. Vergoeding van door getuigen en deskundigen gemaakte kosten geschiedt overeenkomstig het bepaalde krachtens de [Wet tarieven in strafzaken](../../../../../../wet/wet/tarieven/in/strafzaken/BWBR0002406/README.md).  
+3.   De rechtbank is bevoegd getuigen en deskundigen schriftelijk te bevragen of op te roepen. Vergoeding van door getuigen en deskundigen gemaakte kosten geschiedt overeenkomstig het bepaalde krachtens de Wet tarieven in strafzaken.  
 
 ### Artikel  37  
 
@@ -288,7 +288,7 @@ Onze Minister van Sociale Zaken en Werkgelegenheid kan degene, die op grond van 
 ### Artikel  56  
 
 1.   Met betrekking tot de voorlopige hechtenis worden misdrijven, omschreven in deze wet, gelijkgesteld met misdrijven, waarop als maximum een gevangenisstraf van vier jaren of meer is gesteld.   
-2.   Met het opsporen van deze feiten zijn, behalve de ambtenaren, aangewezen bij [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen personen.   
+2.   Met het opsporen van deze feiten zijn, behalve de ambtenaren, aangewezen bij artikel 141 van het Wetboek van Strafvordering, belast de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen personen.   
 3.   Degenen, die ingevolge het voorgaande lid met de opsporing zijn belast, kunnen hem, die zich schuldig maakt aan een feit, strafbaar gesteld bij deze wet, na aanhouding overbrengen naar de plaats waar hij zich voor het vervullen van zijn dienstverplichtingen behoort te bevinden.  
 
 ### Hoofdstuk  VII  
@@ -306,9 +306,9 @@ Alle stukken, die in verband met de bepalingen van deze wet of van de te harer u
 
 ### Artikel  60a  
 
-1.  Ten aanzien van erkende gewetensbezwaarden worden de artikelen 11 tot en met 13 alsmede de artikelen 23 en 25 bij inwerkingtreding van de [Kaderwet dienstplicht](../../../../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md) opgeschort.   
-2.   [Hoofdstuk 4 van de Kaderwet dienstplicht](../../../../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md) is van overeenkomstige toepassing.   
-3.  De in het eerste lid bedoelde opschorting is niet van toepassing bij de oproeping van dienstplichtigen als bedoeld in [artikel 64 van de Kaderwet dienstplicht](../../../../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md).  
+1.  Ten aanzien van erkende gewetensbezwaarden worden de artikelen 11 tot en met 13 alsmede de artikelen 23 en 25 bij inwerkingtreding van de Kaderwet dienstplicht opgeschort.   
+2.   Hoofdstuk 4 van de Kaderwet dienstplicht is van overeenkomstige toepassing.   
+3.  De in het eerste lid bedoelde opschorting is niet van toepassing bij de oproeping van dienstplichtigen als bedoeld in artikel 64 van de Kaderwet dienstplicht.  
 
 ### Artikel  61  
 

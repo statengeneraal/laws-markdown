@@ -54,7 +54,7 @@ Materieel uitgewerkt per 04-07-2013
 ### Artikel  XXVI  
 Materieel uitgewerkt per 04-07-2013 
 
-De tekst van de [Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) wordt door Onze Minister van Justitie in het *Staatsblad* geplaatst.  
+De tekst van de Wet op het primair onderwijs wordt door Onze Minister van Justitie in het *Staatsblad* geplaatst.  
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    
 

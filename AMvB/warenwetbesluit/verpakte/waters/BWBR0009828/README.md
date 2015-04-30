@@ -36,7 +36,7 @@ c.  *natuurlijk mineraalwater:* bacteriologisch gezond water met als oorsprong e
 
 d.  *bronwater:* in zijn natuurlijke staat voor consumptie door de mens bestemd water;   
 
-e.  *water:* al het andere water dan natuurlijk mineraalwater en bronwater, dat onbehandeld of na behandeling bestemd is voor drinken, koken of voedselbereiding, ongeacht de herkomst, en dat is voorverpakt in de zin van het Warenwetbesluit Etikettering van levensmiddelen;  
+e.  *water:* al het andere water dan natuurlijk mineraalwater en bronwater, dat onbehandeld of na behandeling bestemd is voor drinken, koken of voedselbereiding, ongeacht de herkomst, en dat is voorverpakt in de zin van Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304);  
 
 f.*richtlijn 2003/40/EG:* richtlijn nr. 2003/40/EG van de Commissie van de Europese Gemeenschappen van 16 mei 2003 tot vaststelling van de lijst, de grenswaarden voor de concentratie en de vermelding op het etiket van bestanddelen van natuurlijk mineraalwater en van de voorwaarden voor het gebruik van met ozon verrijkte lucht bij de behandeling van natuurlijk mineraalwater en bronwater (PbEU L 126);
 

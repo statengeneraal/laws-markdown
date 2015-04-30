@@ -24,13 +24,13 @@ a. de wet: de Beginselenwet justitiële jeugdinrichtingen;
 
 b. executie-indicator: de aantekening van het openbaar ministerie bij het aanbieden van een vonnis ter executie aan Onze Minister waarin wordt aangegeven dat het openbaar ministerie wil adviseren over te nemen beslissingen inzake de verschillende vormen van te verlenen vrijheden en deelname aan een scholings- en trainingsprogramma aan de betrokken jeugdige; 
 
-c.jeugdreclassering: een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, bij de uitvoering van de taken, bedoeld in artikel 10, eerste lid, onder c en d, van die wet. 
+c.  jeugdreclassering: gecertificeerde instelling, bij de uitvoering van jeugdreclassering;  
 
 d. reclassering: een reclasseringsinstelling als bedoeld in artikel 1, onder b, van de Reclasseringsregeling 1995;
 
 e.raad voor de kinderbescherming: de raad, bedoeld in artikel 238, eerste lid, van Boek 1 van het Burgerlijk Wetboek;
 
-f.stichting: een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg.   
+f.  gecertificeerde instelling: gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet.    
 2.  Onder een jeugdige wordt voor de uitvoering van dit besluit mede verstaan een jongvolwassene die ten tijde van het plegen van een strafbaar feit de leeftijd van 18 jaren wel maar de leeftijd van 23 jaren nog niet had bereikt en ten aanzien van wie recht is gedaan overeenkomstig de artikelen 77g tot en met 77hh van het Wetboek van Strafrecht. 
 
 ### Hoofdstuk  2  
@@ -93,7 +93,7 @@ c. een jaar voor het voorwaardelijk einde van de maatregel die maximaal zeven ja
 
 ### Artikel  6  
 
-Jeugdigen die op grond van artikel 29k van de Wet op de jeugdzorg in een inrichting verblijven komen niet in aanmerking voor deelname aan een scholings- en trainingsprogramma, tenzij de deelname aan dit programma reeds een aanvang had genomen voor het tijdstip waarop de in artikel 29k, tweede lid, van de Wet op de jeugdzorg bedoelde machtiging werd verleend. 
+Jeugdigen die op grond van artikel 6.2.2 van de Jeugdwet in een inrichting verblijven komen niet in aanmerking voor deelname aan een scholings- en trainingsprogramma, tenzij de deelname aan dit programma reeds een aanvang had genomen voor het tijdstip waarop de in artikel 6.2.2, tweede lid, van de Jeugdwet bedoelde machtiging werd verleend. 
 
 ### Artikel  8  
 
@@ -295,7 +295,7 @@ De inrichtingen dragen zorg voor een veilige omgeving voor en een menswaardige b
 1.  Het perspectiefplan wordt opgesteld onder de verantwoordelijkheid van de directeur.   
 2.  Bij het opstellen en het wijzigen van het perspectiefplan zijn in ieder geval betrokken de groepsleider of mentor van de jeugdige, een leerkracht en een gedragsdeskundige.   
 3.  Bij het opstellen en wijzigen van het perspectiefplan voor jeugdigen die op strafrechtelijke titel in de inrichting verblijven, betrekt de inrichting tevens de jeugdreclassering dan wel de reclassering en de raad voor de kinderbescherming.   
-4.  Bij het opstellen en wijzigen van het perspectiefplan voor jeugdigen die op grond van artikel 29k, tweede lid, van de Wet op de jeugdzorg in een inrichting zijn geplaatst, pleegt de inrichting overleg met de betrokken stichting.   
+4.  Bij het opstellen en wijzigen van het perspectiefplan voor jeugdigen die op grond van artikel 6.2.2, tweede lid, van de Jeugdwet in een inrichting zijn geplaatst, pleegt de inrichting overleg met de betrokken gecertificeerde instelling.   
 5.  Bij het opstellen en wijzigen van het perspectiefplan betrekt de inrichting zo veel mogelijk de ouders of voogd, stiefouder of pleegouders, tenzij: 
 
 a. deze te kennen geven hierbij geen rol te willen vervullen, of;  
@@ -337,8 +337,8 @@ De directeur stelt het perspectiefplan tijdig ter beschikking aan het trajectber
 ### Artikel  28  
 
 1.  Het perspectiefplan bestrijkt een periode van vier maanden, of zoveel korter als het strafrestant of het verblijf in de inrichting is, of zoveel korter als het strafrestant of het verblijf in de inrichting is.   
-2.  De jeugdige heeft recht op een periodieke evaluatie door de directeur van het perspectiefplan. Deze evaluatie vindt ten minste driemaal per jaar plaats, doch in ieder geval tijdig voor de opmaking van een advies als bedoeld in artikel 77t, vijfde lid, van het Wetboek van Strafrecht of een verlenging als bedoeld in artikel 262, eerste lid, of 305, derde lid, van Boek 1 van het Burgerlijk Wetboek.   
-3.  De evaluatie van het perspectiefplan vindt plaats op basis van informatie van ten minste de functionaris en de stichting als bedoeld in artikel 25. De jeugdige wordt in de gelegenheid gesteld zijn visie te geven op het verloop van het verblijf in de inrichting. Tevens worden bij de evaluatie betrokken de ouders of voogd, stiefouder of pleegouders van de jeugdige, met inachtneming van artikel 25, vijfde lid, en de betrokken stichting. Van de evaluatie wordt een verslag opgesteld.   
+2.  De jeugdige heeft recht op een periodieke evaluatie door de directeur van het perspectiefplan. Deze evaluatie vindt ten minste driemaal per jaar plaats, doch in ieder geval tijdig voor de opmaking van een advies als bedoeld in artikel 77t, vijfde lid, van het Wetboek van Strafrecht of een verlenging als bedoeld in artikel 265c, eerste lid, of 305, derde lid, van Boek 1 van het Burgerlijk Wetboek.   
+3.  De evaluatie van het perspectiefplan vindt plaats op basis van informatie van ten minste de functionaris en de gecertificeerde instelling, bedoeld in artikel 25, vierde lid. De jeugdige wordt in de gelegenheid gesteld zijn visie te geven op het verloop van het verblijf in de inrichting. Tevens worden bij de evaluatie betrokken de ouders of voogd, stiefouder of pleegouders van de jeugdige, met inachtneming van artikel 25, vijfde lid, en de betrokken gecertificeerde instelling. Van de evaluatie wordt een verslag opgesteld.   
 4.  Bij de evaluatie worden de volgende aspecten betrokken: 
 
 a. het verblijf in de groep;  
@@ -442,7 +442,7 @@ d. onbegeleid verlof met meerdere overnachtingen.
 
 1.  Het incidenteel verlof wordt door de jeugdige schriftelijk aangevraagd bij de directeur.   
 2.  Indien het verzoek een voorlopig gehechte jeugdige betreft, vraagt de directeur instemming van het openbaar ministerie.   
-3.  Indien het verzoek een civielrechtelijk geplaatste jeugdige betreft, vraagt de directeur instemming van de betrokken stichting.   
+3.  Indien het verzoek een civielrechtelijk geplaatste jeugdige betreft, vraagt de directeur instemming van de betrokken gecertificeerde instelling.   
 4.  Indien het verzoek een jeugdige betreft die na de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel Nederland zal dienen te verlaten, of uitgezet of uitgeleverd zal worden, vraagt de directeur de Immigratie- en Naturalisatiedienst van het Ministerie van Veiligheid en Justitie om advies.  
 
 ### Artikel  35  
@@ -823,7 +823,7 @@ b. een door de jeugdige gemachtigde persoon inzage geven in de gegevens waarvan 
 ### Artikel  69  
 
 1.  De ouders of voogd, stiefouder of pleegouders hebben recht op inzage in het dossier van de jeugdige, tenzij belangen van de jeugdige zich daartegen verzetten of inzage achterwege dient te blijven ter bescherming van de persoonlijke levenssfeer van anderen. Ten aanzien van jeugdigen van 18 jaar en ouder is instemming van de jeugdige vereist.   
-2.  De stichting, de jeugdreclassering dan wel de reclassering en de raad voor de kinderbescherming hebben recht op inzage in het dossier van de betrokken jeugdige voor zover dat redelijkerwijs nodig is voor de uitoefening van hun taak.   
+2.  De gecertificeerde instelling, de jeugdreclassering dan wel de reclassering en de raad voor de kinderbescherming hebben recht op inzage in het dossier van de betrokken jeugdige voor zover dat redelijkerwijs nodig is voor de uitoefening van hun taak.   
 3.  Aan Onze Minister, de selectiefunctionaris, de directeur en door dezen aan te wijzen personeelsleden of medewerkers kunnen gegevens uit het dossier worden verstrekt voor zover dat noodzakelijk is voor: 
 
 a. de behandeling van verzoeken, de jeugdige betreffende;  

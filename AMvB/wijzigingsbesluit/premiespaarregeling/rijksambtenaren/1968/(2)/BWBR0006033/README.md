@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Ministers van Justitie en van Binnenlandse Zaken van 17 juni 1993, directoraat-generaal Politie en Criminaliteitsbestrijding, directie Politie, hoofdafdeling Personeelszaken, nr. 357212/593/RA en directoraat-generaal Openbare orde en Veiligheid, directie Politie, hoofdafdeling Personeel, Informatie en Organisatie, afdeling Arbeidsvoorwaardenbeleid nr. EA 93/4779;
 
-Gelet op [artikel 125, eerste lid, van de Ambtenarenwet](../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md);
+Gelet op artikel 125, eerste lid, van de Ambtenarenwet;
 
 De Raad van State gehoord (advies van 18 mei 1993, nr. WO3.93.0246);
 

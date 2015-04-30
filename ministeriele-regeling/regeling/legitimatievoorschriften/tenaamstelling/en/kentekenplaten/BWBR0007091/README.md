@@ -3,7 +3,7 @@
 ##Regeling legitimatievoorschriften kentekenbewijzen en kentekenplaten
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 50, vijfde lid, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en de [artikelen 25, eerste en tweede lid](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), [26, tweede lid](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), [28, tweede lid](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), [29, eerste lid](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), [30, tweede lid](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), [31, tweede lid](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), [32, tweede lid](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), [33, eerste lid](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), [36, tweede lid](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), [50 eerste lid](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), en [51 van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md);
+Gelet op artikel 50, vijfde lid, van de Wegenverkeerswet 1994 en de artikelen 25, eerste en tweede lid, 26, tweede lid, 28, tweede lid, 29, eerste lid, 30, tweede lid, 31, tweede lid, 32, tweede lid, 33, eerste lid, 36, tweede lid, 50 eerste lid, en 51 van het Kentekenreglement;
 Besluit:     
 ### Hoofdstuk 1  
 
@@ -21,13 +21,13 @@ Voor zover in deze regeling niet anders is bepaald, dient, indien in het kader v
 
 ####Aanvrager natuurlijke persoon
 
-1.  Indien de aanvraag van een tenaamstelling wordt ingediend door een natuurlijke persoon, bij een erkende instantie als bedoeld in de [artikelen 61a, eerste lid](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), of [62, eerste lid, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of een daartoe door de Dienst Wegverkeer aangewezen vestiging van deze dienst, wordt het volgende legitimatiebewijs overgelegd: 
+1.  Indien de aanvraag van een tenaamstelling wordt ingediend door een natuurlijke persoon, bij een erkende instantie als bedoeld in de artikelen 61a, eerste lid, of 62, eerste lid, van de wet of een daartoe door de Dienst Wegverkeer aangewezen vestiging van deze dienst, wordt het volgende legitimatiebewijs overgelegd: 
 
-a. een geldig rijbewijs als bedoeld in [artikel 107 van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), 
+a. een geldig rijbewijs als bedoeld in artikel 107 van de wet, 
 
-b. een geldig rijbewijs als bedoeld in [artikel 108, eerste lid onderdeel h, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), 
+b. een geldig rijbewijs als bedoeld in artikel 108, eerste lid onderdeel h, van de wet, 
 
-c. een geldig document als bedoeld in [artikel 2, eerste of tweede lid, van de Paspoortwet](../../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), 
+c. een geldig document als bedoeld in artikel 2, eerste of tweede lid, van de Paspoortwet, 
 
 d. een geldig buitenlands nationaal paspoort, dienstpaspoort, diplomatiek paspoort, reisdocument voor vluchtelingen of reisdocument voor vreemdelingen dan wel een geldige buitenlandse identiteitskaart, afgegeven door een bevoegde autoriteit in een andere lidstaat van de Europese Unie, 
 
@@ -39,23 +39,23 @@ f. een geldig persoonlijk identiteitsbewijs als bedoeld in artikel III, tweede l
 a. een aan het bedrijf afgegeven geldige bedrijfsvoorraadpas, en 
 
 b. het voor de aanvraag bestemde machtigingsformulier.  
-3. Indien de in het eerste lid bedoelde aanvraag wordt ingediend voor een natuurlijke persoon door een erkend bedrijf dat gebruik maakt van de bevoegdheid als bedoeld in [artikel 46, tweede lid, onderdeel d, van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), wordt, tezamen met het in [artikel 25a, tweede lid](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), respectievelijk [artikel 28a, tweede lid, van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md) bedoelde legitimatiebewijs, een verklaring als bedoeld in [artikel 25a, tweede lid](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), of [artikel 28a, tweede lid, van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), overgelegd. De verklaring voldoet aan de voorschriften in [artikel 15b, vijfde lid, van de Regeling erkenning bedrijfsvoorraad](../../../../../../../ministeriele-regeling/regeling/erkenning/bedrijfsvoorraad/BWBR0007089/README.md). 
+3. Indien de in het eerste lid bedoelde aanvraag wordt ingediend voor een natuurlijke persoon door een erkend bedrijf dat gebruik maakt van de bevoegdheid als bedoeld in artikel 46, tweede lid, onderdeel d, van het Kentekenreglement, wordt, tezamen met het in artikel 25a, tweede lid, respectievelijk artikel 28a, tweede lid, van het Kentekenreglement bedoelde legitimatiebewijs, een verklaring als bedoeld in artikel 25a, tweede lid, of artikel 28a, tweede lid, van het Kentekenreglement, overgelegd. De verklaring voldoet aan de voorschriften in artikel 15b, vijfde lid, van de Regeling erkenning bedrijfsvoorraad. 
 
 ### Artikel  3  
 
 ####Aanvrager rechtspersoon
 
-1.  Bij de aanvraag van een tenaamstelling ingediend door een rechtspersoon als bedoeld in [artikel 50, vierde lid, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), bij een erkende instantie als bedoeld in [artikel 61a, eerste lid, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of een daartoe door de Dienst Wegverkeer aangewezen vestiging van deze dienst, worden de volgende documenten overgelegd: 
+1.  Bij de aanvraag van een tenaamstelling ingediend door een rechtspersoon als bedoeld in artikel 50, vierde lid, van de wet, bij een erkende instantie als bedoeld in artikel 61a, eerste lid, van de wet of een daartoe door de Dienst Wegverkeer aangewezen vestiging van deze dienst, worden de volgende documenten overgelegd: 
 
 a. bij indiening door een tekenbevoegde voor een rechtspersoon: 
 
-1°. een actueel uittreksel uit het handelsregister als bedoeld in [artikel 22 van de Handelsregisterwet 2007](../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), of een afschrift daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen, en  
+1°. een actueel uittreksel uit het handelsregister als bedoeld in artikel 22 van de Handelsregisterwet 2007, of een afschrift daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen, en  
 
 2°. een van de in artikel 2, eerste lid, onderdelen a tot en met e, genoemde legitimatiebewijzen van de tekenbevoegde, met dien verstande dat geen afschrift als bedoeld in artikel 1 behoeft te worden overgelegd.    
 
 b. bij indiening door een door een tekenbevoegde gemachtigde, niet zijnde een erkend bedrijf: 
 
-1°. een actueel uittreksel uit het handelsregister als bedoeld in [artikel 22 van de Handelsregisterwet 2007](../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), of een afschrift daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen;  
+1°. een actueel uittreksel uit het handelsregister als bedoeld in artikel 22 van de Handelsregisterwet 2007, of een afschrift daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen;  
 
 2°. een van de in artikel 2, eerste lid, onderdelen a tot en met e, genoemde legitimatiebewijzen van de tekenbevoegde, of een afschrift daarvan, met dien verstande dat geen afschrift als bedoeld in artikel 1 behoeft te worden overgelegd;  
 
@@ -78,7 +78,7 @@ d. bij indiening door een erkend bedrijf dat is gemachtigd door een gemachtigde 
 2°. een van de in artikel 2, eerste lid, onderdelen a tot en met e, genoemde legitimatiebewijzen van de gemachtigde, met dien verstande dat geen afschrift als bedoeld in artikel 1 behoeft te worden overgelegd, en  
 
 3°. het voor de aanvraag bestemde machtigingsformulier.       
-2.  Indien de aanvraag wordt ingediend namens een rechtspersoon als bedoeld in [artikel 25a, derde lid](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), of [artikel 28a, derde lid, van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), verstrekt de aanvrager een actueel en gewaarmerkt uittreksel uit het handelsregister als bedoeld in [artikel 22 van de Handelsregisterwet 2007](../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), dat niet ouder is dan een jaar en waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen.  
+2.  Indien de aanvraag wordt ingediend namens een rechtspersoon als bedoeld in artikel 25a, derde lid, of artikel 28a, derde lid, van het Kentekenreglement, verstrekt de aanvrager een actueel en gewaarmerkt uittreksel uit het handelsregister als bedoeld in artikel 22 van de Handelsregisterwet 2007, dat niet ouder is dan een jaar en waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen.  
 
 ###Hoofdstuk 3 
 
@@ -92,7 +92,7 @@ Vervallen per 01-01-2014
 
 ### Artikel 8  
 
-De aanvraag van een schorsing, bedoeld in [artikel 50 van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), en de aanvraag van beëindiging van de schorsing, bedoeld in [artikel 51 van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), geschiedt overeenkomstig de artikelen 8a en 8b. 
+De aanvraag van een schorsing, bedoeld in artikel 50 van het Kentekenreglement, en de aanvraag van beëindiging van de schorsing, bedoeld in artikel 51 van het Kentekenreglement, geschiedt overeenkomstig de artikelen 8a en 8b. 
 
 ### Artikel 8a  
 
@@ -111,7 +111,7 @@ c. een voor de aanvraag bestemd machtigingsformulier.
 
 ####Aanvrager rechtspersoon
 
-1.   Indien de aanvraag wordt ingediend door een tekenbevoegde voor een rechtspersoon als bedoeld in [artikel 50, vierde lid, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), dienen bij de aanvraag de in artikel 3, eerste lid, genoemde documenten te worden overgelegd.  
+1.   Indien de aanvraag wordt ingediend door een tekenbevoegde voor een rechtspersoon als bedoeld in artikel 50, vierde lid, van de wet, dienen bij de aanvraag de in artikel 3, eerste lid, genoemde documenten te worden overgelegd.  
 2.   Indien de aanvraag wordt ingediend door een door een tekenbevoegde gemachtigde, dienen bij de aanvraag de in artikel 3, tweede lid, genoemde documenten te worden overgelegd. 
 
 ###Hoofdstuk 4a 
@@ -126,7 +126,7 @@ Vervallen per 01-09-2005
 
 ### Artikel  9  
 
-Bij de aanvraag tot verval van de tenaamstelling op grond van de [artikelen 31](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), [32](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), en [33 van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md) dan wel bij de aanvraag van een kenteken als bedoeld in [artikel 4, vijfde lid, van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), legt de aanvrager een van de in artikel 2, eerste lid, genoemde legitimatiebewijzen over, met dien verstande dat: 
+Bij de aanvraag tot verval van de tenaamstelling op grond van de artikelen 31, 32, en 33 van het Kentekenreglement dan wel bij de aanvraag van een kenteken als bedoeld in artikel 4, vijfde lid, van het Kentekenreglement, legt de aanvrager een van de in artikel 2, eerste lid, genoemde legitimatiebewijzen over, met dien verstande dat: 
 
 a. geen afschrift als bedoeld in artikel 1 behoeft te worden overgelegd, 
 
@@ -162,7 +162,7 @@ b. de kentekencard, het deel IA of het deel I van het kentekenbewijs, afgegeven 
 
 ####Verkrijging met de bevoegdheid versneld aanvragen van inschrijving
 
-Indien een erkend bedrijf dat beschikt over de bevoegdheid, bedoeld in [artikel 46, tweede lid, onder a, van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), verzoekt om verkrijging van kentekenplaten worden bij de verkrijging overgelegd: 
+Indien een erkend bedrijf dat beschikt over de bevoegdheid, bedoeld in artikel 46, tweede lid, onder a, van het Kentekenreglement, verzoekt om verkrijging van kentekenplaten worden bij de verkrijging overgelegd: 
 
 a. een van de in artikel 2, eerste lid, genoemde legitimatiebewijzen van degene die de kentekenplaten namens het erkend bedrijf in ontvangst neemt, met dien verstande dat geen afschrift als bedoeld in artikel 1, hoeft te worden overgelegd, en  
 
@@ -172,11 +172,11 @@ b. een aan het bedrijf afgegeven geldige bedrijfsvoorraadpas.
 
 ####Uitzonderingen
 
-1.  De artikelen 9 a, 9 b en 9 c zijn slechts van toepassing op donkerblauwe kentekenplaten en kentekenplaten volgens de modellen 18.2A tot en met 18.2E, 27.1A tot en met 27.2H, 27.19A tot en met 2726E en 30.1A tot en met 30.16 van de [bijlage bij de Regeling kentekens en kentekenplaten](../../../../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md), die worden afgegeven door een fabrikant met erkenning als bedoeld in [artikel 70a van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).   
-2.  Een legitimatiebewijs als bedoeld in onderdeel a van de artikelen 9 a, 9 b en 9 c hoeft niet te worden overgelegd bij de verkrijging van kentekenplaten volgens de modellen 27.15A tot en met 27.29 en 30.7 tot en met 30.16 van de [bijlage bij de Regeling kentekens en kentekenplaten](../../../../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md).   
+1.  De artikelen 9 a, 9 b en 9 c zijn slechts van toepassing op donkerblauwe kentekenplaten en kentekenplaten volgens de modellen 18.2A tot en met 18.2E, 27.1A tot en met 27.2H, 27.19A tot en met 2726E en 30.1A tot en met 30.16 van de bijlage bij de Regeling kentekens en kentekenplaten, die worden afgegeven door een fabrikant met erkenning als bedoeld in artikel 70a van de wet.   
+2.  Een legitimatiebewijs als bedoeld in onderdeel a van de artikelen 9 a, 9 b en 9 c hoeft niet te worden overgelegd bij de verkrijging van kentekenplaten volgens de modellen 27.15A tot en met 27.29 en 30.7 tot en met 30.16 van de bijlage bij de Regeling kentekens en kentekenplaten.   
 3.  Een kentekenbewijs als bedoeld in onderdeel b van de artikelen 9 a, 9 b en 9 c hoeft niet te worden overgelegd bij vervanging van beschadigde kentekenplaten   
-4.  Bij de verkrijging van kentekenplaten volgens de modellen 27.15A tot 27.17E, 30.7 en 30.8 van de [bijlage bij de Regeling kentekens en kentekenplaten](../../../../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md) kan in plaats van het kentekenbewijs een proces-verbaal van aangifte van vermissing of diefstal van het kentekenbewijs en de desbetreffende kentekenplaten worden overgelegd.   
-5.  Bij de verkrijging van kentekenplaten volgens de modellen 27.24A tot en met 27.26E van de [bijlage bij de Regeling kentekens en kentekenplaten](../../../../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md) kan in plaats van de kentekencard, het deel IA of het deel I van het kentekenbewijs, het kentekenbewijs deel II als bedoeld in [artikel 17, tweede lid van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md) worden overgelegd. 
+4.  Bij de verkrijging van kentekenplaten volgens de modellen 27.15A tot 27.17E, 30.7 en 30.8 van de bijlage bij de Regeling kentekens en kentekenplaten kan in plaats van het kentekenbewijs een proces-verbaal van aangifte van vermissing of diefstal van het kentekenbewijs en de desbetreffende kentekenplaten worden overgelegd.   
+5.  Bij de verkrijging van kentekenplaten volgens de modellen 27.24A tot en met 27.26E van de bijlage bij de Regeling kentekens en kentekenplaten kan in plaats van de kentekencard, het deel IA of het deel I van het kentekenbewijs, het kentekenbewijs deel II als bedoeld in artikel 17, tweede lid van het Kentekenreglement worden overgelegd. 
 
 ### Artikel  9e  
 
@@ -191,7 +191,7 @@ b. voor elk voertuig waarvoor kentekenplaten als bedoeld in het eerste lid, word
 
 a. een geldige vergunning voor het verrichten van taxivervoer als bedoeld in artikel 5 van de Wet personenvervoer; 
 
-b. een actueel uittreksel uit het handelsregister als bedoeld in [artikel 22 van de Handelsregisterwet 2007](../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), of een kopie daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat een onderneming wordt gedreven waarin taxivervoer plaatsvindt; 
+b. een actueel uittreksel uit het handelsregister als bedoeld in artikel 22 van de Handelsregisterwet 2007, of een kopie daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat een onderneming wordt gedreven waarin taxivervoer plaatsvindt; 
 
 c. voor wat betreft: 
 

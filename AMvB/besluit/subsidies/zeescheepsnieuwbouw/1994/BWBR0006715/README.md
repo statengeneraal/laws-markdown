@@ -72,7 +72,7 @@ a. ter zake van het als hoofdaannemer in Nederland uitvoeren van een opdracht vo
 
 b. ter zake van het als onderaannemer in Nederland uitvoeren van een opdracht voor het voor ten minste 90 procent bouwen van een zeeschip.      
 3.  Het budget bedraagt een gedeelte van het ingevolge artikel 4 beschikbare bedrag, dat evenredig is met het aandeel van de gemiddelde gewogen productiewaarde van de aanvrager in de totale gemiddelde gewogen productiewaarden van allen, die een aanvraag om vaststelling van een budget hebben ingediend en die voldoen aan het tweede lid.    
-4.  Onder de productiewaarde wordt verstaan het overeenkomstig [artikel 377, derde lid, aanhef en onder *a* en *b*, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) bepaalde bedrag:  
+4.  Onder de productiewaarde wordt verstaan het overeenkomstig artikel 377, derde lid, aanhef en onder *a* en *b*, van Boek 2 van het Burgerlijk Wetboek bepaalde bedrag:  
 
 a. ter zake van het als hoofdaannemer in Nederland uitvoeren van opdrachten voor de bouw van zeeschepen, tenzij het zeeschip voor 90 procent of meer door een of meer onderaannemers is gebouwd, en   
 

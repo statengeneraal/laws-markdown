@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut, doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het vanwege de ontwikkelingen in het beheer van de grote rivieren gewenst is de ingevolge de Rivierenwet geldende regels zowel aan te passen als te vereenvoudigen, deels in het kader van integratie met de algemene bepalingen van de [Wet beheer rijkswaterstaatswerken](../../../../../../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md), deels door aanvullende voorzieningen in de [onteigeningswet](../../../../../../../../wet/onteigeningswet/BWBR0001842/README.md) en enige andere wetten ;
+Alzo Wij in overweging genomen hebben, dat het vanwege de ontwikkelingen in het beheer van de grote rivieren gewenst is de ingevolge de Rivierenwet geldende regels zowel aan te passen als te vereenvoudigen, deels in het kader van integratie met de algemene bepalingen van de Wet beheer rijkswaterstaatswerken, deels door aanvullende voorzieningen in de onteigeningswet en enige andere wetten ;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  

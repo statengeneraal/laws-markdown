@@ -8,12 +8,12 @@ Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
 Alzo Wij in overweging genomen hebben, dat het wenselijk is om de wettelijke basis voor een regeling bij algemene maatregel van bestuur van regionale verwijzingscommissies aan te scherpen, rekening te houden met nevenvestigingen voor praktijkonderwijs, de stichtings- en opheffingsnormen van afdelingen en scholen voor voorbereidend beroepsonderwijs aan te passen en de studiekostenvergoeding voor voortgezet speciaal onderwijs voor kinderen met leer- en opvoedingsmoeilijkheden en moeilijk lerende kinderen gelijk te schakelen met die voor leerlingen in het voortgezet onderwijs;
 
-dat daartoe de [Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de [Wet tegemoetkoming studiekosten](../../../../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) dienen te worden gewijzigd;
+dat daartoe de Wet op het voortgezet onderwijs en de Wet tegemoetkoming studiekosten dienen te worden gewijzigd;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
 
-####Wijziging [Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) 
+####Wijziging Wet op het voortgezet onderwijs 
 
 Wijzigt de Wet op het voortgezet onderwijs.  
 

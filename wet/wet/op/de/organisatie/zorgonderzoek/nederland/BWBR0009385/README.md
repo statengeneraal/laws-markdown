@@ -30,7 +30,7 @@ c. organisatie: de organisatie genoemd in artikel 2.
 
 1.  Er is een organisatie ZorgOnderzoek Nederland (ZON).    
 2.  De organisatie bezit rechtspersoonlijkheid en is gevestigd in een door Onze Minister te bepalen plaats.    
-3.  De [Kaderwet zelfstandige bestuursorganen](../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is op de organisatie van toepassing. 
+3.  De Kaderwet zelfstandige bestuursorganen is op de organisatie van toepassing. 
 
 ### Artikel  3  
 
@@ -89,7 +89,7 @@ d. de kwaliteitscriteria waaraan projecten, experimenten, onderzoek en ontwikkel
 
 ### Artikel  10  
 
-Vóór 1 november van elk boekjaar stelt het bestuur van de organisatie, met inachtneming van het in artikel 12, tweede lid, bedoelde maximale budget, in een jaarplan vast welke activiteiten in het daaropvolgende boekjaar ter verwezenlijking van de programma’s zullen worden uitgevoerd. Het jaarplan wordt tegelijk met de begroting, bedoeld in [artikel 26 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), aan Onze Minister toegezonden.  
+Vóór 1 november van elk boekjaar stelt het bestuur van de organisatie, met inachtneming van het in artikel 12, tweede lid, bedoelde maximale budget, in een jaarplan vast welke activiteiten in het daaropvolgende boekjaar ter verwezenlijking van de programma’s zullen worden uitgevoerd. Het jaarplan wordt tegelijk met de begroting, bedoeld in artikel 26 van de Kaderwet zelfstandige bestuursorganen, aan Onze Minister toegezonden.  
 
 ### Artikel  11  
 
@@ -109,7 +109,7 @@ b. de wijze van het verlenen van opdrachten, de daarbij te volgen procedures en 
 
 1.  Het boekjaar is gelijk aan het kalenderjaar.    
 2.  Onze Minister stelt vóór 1 oktober voorafgaande aan het boekjaar het maximaal aan de organisatie ter beschikking te stellen budget vast.    
-3.  Onverminderd [artikel 27 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), is in de begroting een meerjarenraming opgenomen.  
+3.  Onverminderd artikel 27 van de Kaderwet zelfstandige bestuursorganen, is in de begroting een meerjarenraming opgenomen.  
 
 ### Artikel  13  
 
@@ -121,12 +121,12 @@ b. derden, voor zover het betreft werkzaamheden die op verzoek van deze derden w
 
 ### Artikel  14  
 
-Het bestuur stelt het jaarverslag en de jaarrekening, bedoeld in de [artikelen 18](../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [34 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), algemeen verkrijgbaar. 
+Het bestuur stelt het jaarverslag en de jaarrekening, bedoeld in de artikelen 18 en 34 van de Kaderwet zelfstandige bestuursorganen, algemeen verkrijgbaar. 
 
 ### Artikel  16  
 
 1. Bij ministeriële regeling kunnen regels gesteld worden met betrekking tot het financieel beheer, de inrichting van de begroting en het financieel verslag, de omvang en aanwending van de egalisatiereserve, en de accountantscontrole.   
-2.  Onverminderd [artikel 35, vierde lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) doet de accountant tevens verslag van zijn bevindingen over de vraag of het beheer en de wijze waarop de organisatie is georganiseerd voldoen aan de eisen van rechtmatigheid, ordelijkheid en controleerbaarheid. 
+2.  Onverminderd artikel 35, vierde lid, van de Kaderwet zelfstandige bestuursorganen doet de accountant tevens verslag van zijn bevindingen over de vraag of het beheer en de wijze waarop de organisatie is georganiseerd voldoen aan de eisen van rechtmatigheid, ordelijkheid en controleerbaarheid. 
 
 ### Artikel  17  
 
@@ -163,8 +163,8 @@ Wijzigt de Wet financiering volksverzekeringen.
 
 ### Artikel  25  
 
-1.  De archiefbescheiden van het Praeventiefonds gaan met ingang van inwerkingtreding van deze wet over naar de organisatie, voor zover zij niet overeenkomstig het bepaalde in de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) zijn overgebracht naar een archiefbewaarplaats.    
-2.  Archiefbescheiden van het Ministerie van Volksgezondheid, Welzijn en Sport voor zover betrekking hebbend op activiteiten die als gevolg van de inwerkingtreding van deze wet overgaan op de organisatie, gaan met ingang van de datum van inwerkingtreding van deze wet over naar de organisatie, voor zover zij niet overeenkomstig de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) zijn overgebracht naar een archiefbewaarplaats.   
+1.  De archiefbescheiden van het Praeventiefonds gaan met ingang van inwerkingtreding van deze wet over naar de organisatie, voor zover zij niet overeenkomstig het bepaalde in de Archiefwet 1995 zijn overgebracht naar een archiefbewaarplaats.    
+2.  Archiefbescheiden van het Ministerie van Volksgezondheid, Welzijn en Sport voor zover betrekking hebbend op activiteiten die als gevolg van de inwerkingtreding van deze wet overgaan op de organisatie, gaan met ingang van de datum van inwerkingtreding van deze wet over naar de organisatie, voor zover zij niet overeenkomstig de Archiefwet 1995 zijn overgebracht naar een archiefbewaarplaats.   
 
 ### Artikel  26  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Defensie van 11 augustus 1995, nr. PAV 6011/95014842;
 
-Gelet op [artikel 125 van de Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md) en [artikel 12 van de Militaire ambtenarenwet 1931](../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md);
+Gelet op artikel 125 van de Ambtenarenwet en artikel 12 van de Militaire ambtenarenwet 1931;
 
 De Raad van State gehoord (advies van 14 december 1995, nr. W07.95.0432);
 
@@ -38,7 +38,7 @@ c. hoofd defensieonderdeel
 
 d. commandant: een bij ministeriële regeling aan te wijzen functionaris;  
 
-e. militair: de militaire ambtenaar in de zin van [artikel 1, eerste en tweede lid, van de Militaire ambtenarenwet 1931](../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md);  
+e. militair: de militaire ambtenaar in de zin van artikel 1, eerste en tweede lid, van de Militaire ambtenarenwet 1931;  
 
 f. rang: een militaire rang en stand of klasse, voor zover niet titulair toegekend;  
 
@@ -58,30 +58,30 @@ m.  *salarisnummer:*  het getal dat in een salarisschaal voor een salaris is ver
 
 n. maand: een kalendermaand;  
 
-o. werknemersverzekering: [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), [Wet op de Arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), dan wel de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md);  
+o. werknemersverzekering: Werkloosheidswet, Wet op de Arbeidsongeschiktheidsverzekering, dan wel de Ziektewet;  
 
-p. arbodienst: een voor de militair aangewezen arbodienst als bedoeld in de [Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);  
+p. arbodienst: een voor de militair aangewezen arbodienst als bedoeld in de Arbeidsomstandighedenwet;  
 
-q. deskundige persoon: een voor de militair aangewezen deskundige persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) die belast is met de taken, bedoeld in [artikel 14, eerste lid, onderdeel b, van die wet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).     
+q. deskundige persoon: een voor de militair aangewezen deskundige persoon als bedoeld in artikel 14, eerste lid, van de Arbeidsomstandighedenwet die belast is met de taken, bedoeld in artikel 14, eerste lid, onderdeel b, van die wet.     
 2.   In dit besluit en de daarop berustende bepalingen wordt mede verstaan onder militair: degene die is aangesteld in burgerlijke openbare dienst om bij de krijgsmacht als geestelijk verzorger werkzaam te zijn.   
-3.  Met inachtneming van [artikel 1, derde en vierde lid, van het Algemeen militair ambtenarenreglement](../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) wordt in dit besluit en de daarop berustende bepalingen mede verstaan onder echtgenote of echtgenoot:  
+3.  Met inachtneming van artikel 1, derde en vierde lid, van het Algemeen militair ambtenarenreglement wordt in dit besluit en de daarop berustende bepalingen mede verstaan onder echtgenote of echtgenoot:  
 
 1°. de geregistreerde partner;   
 
 2°. degene die door de militair als partner is aangemeld bij de Stichting Pensioenfonds ABP en door het bestuur van dat fonds als zodanig is aangemerkt, op voorwaarde dat de militair een bewijs van die aanmelding heeft overgelegd aan de commandant;     
 4. Voor de toepassing van dit besluit wordt verstaan onder:
 
-a.fase één: fase één als bedoeld in [artikel 1, eerste lid, onderdeel l van het Algemeen militair ambtenarenreglement](../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md);
+a.fase één: fase één als bedoeld in artikel 1, eerste lid, onderdeel l van het Algemeen militair ambtenarenreglement;
 
-b.fase twee: fase twee als bedoeld in [artikel 1, eerste lid, onderdeel m van het Algemeen militair ambtenarenreglement](../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md);
+b.fase twee: fase twee als bedoeld in artikel 1, eerste lid, onderdeel m van het Algemeen militair ambtenarenreglement;
 
-c.fase drie: fase drie als bedoeld in [artikel 1, eerste lid, onderdeel n van het Algemeen militair ambtenarenreglement](../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md).
+c.fase drie: fase drie als bedoeld in artikel 1, eerste lid, onderdeel n van het Algemeen militair ambtenarenreglement.
 
 ### Artikel  2  
 
 ####Afwijking van dit besluit
 
-1.  Onze Minister kan in geval van buitengewone omstandigheden, als bedoeld in [artikel 1, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), tijdelijk afwijken van hetgeen bij of krachtens dit besluit is bepaald, indien en voor zolang dit met het oog op de goede uitvoering van de operationele taken van de krijgsmacht noodzakelijk wordt geacht.   
+1.  Onze Minister kan in geval van buitengewone omstandigheden, als bedoeld in artikel 1, eerste lid, van de Coördinatiewet uitzonderingstoestanden, tijdelijk afwijken van hetgeen bij of krachtens dit besluit is bepaald, indien en voor zolang dit met het oog op de goede uitvoering van de operationele taken van de krijgsmacht noodzakelijk wordt geacht.   
 2.   Bij ministeriële regeling kunnen voorts afwijkende regelen worden gesteld ten aanzien van militairen, die zijn tewerkgesteld of ingezet:  
 
 a. onder leiding of toezicht van een orgaan van de Verenigde Naties;  
@@ -99,7 +99,7 @@ d. buiten het Ministerie van Defensie anders dan in de gevallen, bedoeld onder a
 1.  Voor zover in dit besluit niet anders is bepaald, heeft de militair aanspraak op inkomsten voor elke dag dat hij in werkelijke dienst is; daarbij wordt een gedeelte van een dag aangemerkt als een volle dag.   
 2.   Bij de vaststelling van inkomsten die zijn uitgedrukt per maand wordt een maand gesteld op dertig dagen. Bij de berekening over een gedeelte van een maand wordt het bedrag per dag vastgesteld door het maandbedrag te delen door dertig. Een wijziging van inkomsten op de eenendertigste van een maand gaat in op de eerste dag van de volgende maand.   
 3.   Tenzij anders is bepaald, kan op inkomsten die zijn uitgedrukt per dag of per tijdseenheid van langere duur en die niet tot de bezoldiging behoren, slechts aanspraak bestaan voor de tijd dat aanspraak bestaat op bezoldiging. Bedoelde inkomsten worden dan toegekend in evenredigheid met de bezoldiging waarop aanspraak bestaat.   
-4.  De militair aangesteld bij het reservepersoneel, die in werkelijke dienst is op grond van [artikel 12l, derde lid, van de Militaire ambtenarenwet 1931](../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) heeft geen aanspraak op inkomsten.   
+4.  De militair aangesteld bij het reservepersoneel, die in werkelijke dienst is op grond van artikel 12l, derde lid, van de Militaire ambtenarenwet 1931 heeft geen aanspraak op inkomsten.   
 5.  De bezoldiging van de militair aangesteld bij het reservepersoneel in werkelijke dienst bedraagt per feitelijk gewerkt uur 1/165e van de maandbezoldiging, met een maximum van 165 uren per maand. 
 6. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de vaststelling van de inkomsten van de militair aangesteld bij het reservepersoneel.
 
@@ -176,7 +176,7 @@ b. na overgang naar een ander krijgsmachtdeel aanspraak heeft op een lager salar
 
 ####Garantietoelage minimumloon
 
-De militair wiens salaris - in voorkomend geval verhoogd met een overbruggingstoelage - lager is dan het maandbedrag van het minimumloon dat krachtens de [artikelen 7](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), 8 en [14 van de Wet minimumloon en minimumvakantiebijslag](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) geldt voor werknemers van dezelfde leeftijd, heeft aanspraak op een garantietoelage minimumloon ten bedrage van het verschil. 
+De militair wiens salaris - in voorkomend geval verhoogd met een overbruggingstoelage - lager is dan het maandbedrag van het minimumloon dat krachtens de artikelen 7, 8 en 14 van de Wet minimumloon en minimumvakantiebijslag geldt voor werknemers van dezelfde leeftijd, heeft aanspraak op een garantietoelage minimumloon ten bedrage van het verschil. 
 
 ### Hoofdstuk  3  
 
@@ -186,7 +186,7 @@ De militair wiens salaris - in voorkomend geval verhoogd met een overbruggingsto
 
 ####Waarnemingstoelage
 
-1.  De militair die is belast met de volledige waarneming van een functie, bedoeld in [artikel 22, eerste lid, van het Algemeen militair ambtenarenreglement](../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md), heeft, indien aan die functie een hogere rang is verbonden, voor de duur van de waarneming aanspraak op een waarnemingstoelage.   
+1.  De militair die is belast met de volledige waarneming van een functie, bedoeld in artikel 22, eerste lid, van het Algemeen militair ambtenarenreglement, heeft, indien aan die functie een hogere rang is verbonden, voor de duur van de waarneming aanspraak op een waarnemingstoelage.   
 2.   De toelage wordt toegekend, indien de waarneming ten minste een tijdvak van dertig aaneengesloten dagen heeft geduurd.   
 3.   Het bedrag van de toelage is gelijk aan het verschil tussen de bezoldiging waarop de militair aanspraak heeft en de bezoldiging waarop hij aanspraak zou hebben, indien de waargenomen functie hem zou zijn toegewezen en hij dientengevolge zou zijn bevorderd tot de aan die functie verbonden rang.  
 
@@ -333,30 +333,30 @@ i.een vergoeding of een tegemoetkoming in de extra kosten voor zorg voor jonge k
 ####Ziekte
 
 1.  De militair die wegens ziekte verhinderd is dienst te verrichten, heeft, zodra die verhindering twaalf maanden heeft geduurd, aanspraak op 70% van de inkomsten waarop hij aanspraak zou hebben, indien die verhindering tot dienstverrichting niet was ingetreden.  
-2.  Indien de militair, bedoeld in het eerste lid gedurende een bepaalde tijd zwangerschaps- of bevallingsverlof op basis van [artikel 3:1 van de Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) geniet wordt het betreffende tijdvak van twaalf maanden met dat verlof verlengd.   
-3.   Voor het bepalen van de in het eerste lid genoemde termijn – in voorkomend geval verlengd ingevolge het tweede lid – wordt een opnieuw ingetreden verhindering tot dienstverrichting als voortzetting van de voorgaande verhindering beschouwd, indien niet meer dan vier weken zijn verstreken sinds de dag waarop de militair de dienst volledig heeft hervat. Bij de vaststelling van de periode van vier weken blijven perioden waarin zwangerschapsof bevallingsverlof wordt genoten op basis van [artikel 3:1 van de Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), buiten beschouwing.  
+2.  Indien de militair, bedoeld in het eerste lid gedurende een bepaalde tijd zwangerschaps- of bevallingsverlof op basis van artikel 3:1 van de Wet arbeid en zorg geniet wordt het betreffende tijdvak van twaalf maanden met dat verlof verlengd.   
+3.   Voor het bepalen van de in het eerste lid genoemde termijn – in voorkomend geval verlengd ingevolge het tweede lid – wordt een opnieuw ingetreden verhindering tot dienstverrichting als voortzetting van de voorgaande verhindering beschouwd, indien niet meer dan vier weken zijn verstreken sinds de dag waarop de militair de dienst volledig heeft hervat. Bij de vaststelling van de periode van vier weken blijven perioden waarin zwangerschapsof bevallingsverlof wordt genoten op basis van artikel 3:1 van de Wet arbeid en zorg, buiten beschouwing.  
 4.  In afwijking van het eerste lid heeft de militair ook na afloop van de in lid 1 genoemde termijn – in voorkomend geval verlengd ingevolge het tweede lid – aanspraak op de inkomsten waarop hij aanspraak zou hebben, indien die verhindering tot dienstverrichting niet was ingetreden: 
 
 a. als de ziekte waardoor hij verhinderd is dienst te verrichten naar het oordeel van het hoofd defensieonderdeel in overwegende mate haar oorzaak vindt in de aard van de aan hem opgedragen werkzaamheden of diensten of in de bijzondere omstandigheden waaronder deze moeten worden verricht, en – rekening houdend met de werkzaamheden of diensten en omstandigheden – niet aan zijn schuld of onvoorzichtigheid te wijten;  
 
-b. gedurende de periode dat zwangerschaps- of bevallingsverlof wordt genoten op basis van [artikel 3:1 van de Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md).     
+b. gedurende de periode dat zwangerschaps- of bevallingsverlof wordt genoten op basis van artikel 3:1 van de Wet arbeid en zorg.     
 5.  In afwijking van het eerste lid heeft de militair ook na het eerste tijdvak van twaalf maanden recht op doorbetaling van zijn inkomsten over het aantal uren dat hij loonvormende arbeid heeft verricht, niet zijnde reïntegratieactiviteiten waaronder therapeutische arbeid, onderwijs of scholing.  
 6.  In afwijking van het vijfde lid wordt onderwijs of scholing beschouwd als loonvormende arbeid indien: 
 
 a. dit onderwijs of deze scholing is gekoppeld aan de functievervulling van een voor de militair beschikbare functie;  
 
 b. dit onderwijs of deze scholing plaats vindt binnen een erkend reïntegratietraject en gericht is op concrete arbeidsmogelijkheden buiten Defensie en is goedgekeurd door de reïntegratie-autoriteit van Defensie.    
-7.  In bijzondere gevallen kan het hoofd defensieonderdeel in de situaties, genoemd in het vijfde en zesde lid, bepalen dat de niet genoten inkomsten geheel of gedeeltelijk aan anderen dan aan de militair worden betaald. Na verrekening met deze aan anderen dan aan de militair betaalde inkomsten, worden de eventueel resterende, niet betaalde inkomsten alsnog aan de militair betaald, indien een door hem aangevraagd hernieuwd onderzoek als bedoeld in [artikel 104 van het Algemeen militair ambtenarenreglement](../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) in zijn voordeel is beslist.  
-8.  Het vijfde tot en met zevende lid is niet van toepassing indien sprake is van samenloop, bedoeld in artikel 17a, met een uitkering op grond van en werknemersverzekering of de [Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md).  
+7.  In bijzondere gevallen kan het hoofd defensieonderdeel in de situaties, genoemd in het vijfde en zesde lid, bepalen dat de niet genoten inkomsten geheel of gedeeltelijk aan anderen dan aan de militair worden betaald. Na verrekening met deze aan anderen dan aan de militair betaalde inkomsten, worden de eventueel resterende, niet betaalde inkomsten alsnog aan de militair betaald, indien een door hem aangevraagd hernieuwd onderzoek als bedoeld in artikel 104 van het Algemeen militair ambtenarenreglement in zijn voordeel is beslist.  
+8.  Het vijfde tot en met zevende lid is niet van toepassing indien sprake is van samenloop, bedoeld in artikel 17a, met een uitkering op grond van en werknemersverzekering of de Wet arbeid en zorg.  
 
 ### Artikel  17a  
 
-####Samenloop tijdens ziekte van inkomsten en uitkering op grond van een werknemersverzekering, de [Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of een bovenwettelijke regeling
+####Samenloop tijdens ziekte van inkomsten en uitkering op grond van een werknemersverzekering, de Wet arbeid en zorg of een bovenwettelijke regeling
 
-1.  Indien de militair, bedoeld in artikel 17, ter zake van de betrekking waaruit het recht op doorbetaling van bezoldiging voortvloeit, recht heeft op een of meerdere uitkeringen op grond van een werknemersverzekering, de [Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of een bovenwettelijke WW-uitkering, wordt het bedrag van die uitkering(en) in mindering gebracht op het bedrag waarop hij ingevolge artikel 17 recht heeft.   
-2.  Indien als gevolg van handelingen of het nalaten van handelingen door de militair de uitkering ingevolge een werknemersverzekering, de [Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), dan wel de bovenwettelijke WW-uitkering een vermindering ondergaat, dan wel de aanspraak daarop geheel of gedeeltelijk niet wordt toegekend, wordt die uitkering voor de toepassing van het eerste lid steeds aangemerkt als een uitkering die onverminderd is genoten. Indien het een uitkering betreft op grond van de [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) die in het geheel niet wordt toegekend, wordt voor de toepassing van dit artikel rekening gehouden met de uitkering op grond van de [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) zoals die zou zijn toegekend bij een arbeidsongeschiktheid van 80% of meer.   
+1.  Indien de militair, bedoeld in artikel 17, ter zake van de betrekking waaruit het recht op doorbetaling van bezoldiging voortvloeit, recht heeft op een of meerdere uitkeringen op grond van een werknemersverzekering, de Wet arbeid en zorg of een bovenwettelijke WW-uitkering, wordt het bedrag van die uitkering(en) in mindering gebracht op het bedrag waarop hij ingevolge artikel 17 recht heeft.   
+2.  Indien als gevolg van handelingen of het nalaten van handelingen door de militair de uitkering ingevolge een werknemersverzekering, de Wet arbeid en zorg, dan wel de bovenwettelijke WW-uitkering een vermindering ondergaat, dan wel de aanspraak daarop geheel of gedeeltelijk niet wordt toegekend, wordt die uitkering voor de toepassing van het eerste lid steeds aangemerkt als een uitkering die onverminderd is genoten. Indien het een uitkering betreft op grond van de WAO die in het geheel niet wordt toegekend, wordt voor de toepassing van dit artikel rekening gehouden met de uitkering op grond van de WAO zoals die zou zijn toegekend bij een arbeidsongeschiktheid van 80% of meer.   
 3.  Indien ten aanzien van de wettelijke uitkering een verplichting wordt opgelegd of een sanctie wordt toegepast, wordt door het hoofd defensieonderdeel zoveel mogelijk dezelfde verplichting opgelegd, dan wel een overeenkomstige sanctie toegepast op het bedrag aan inkomsten waarop de militair ingevolge het eerste lid aanspraak heeft.   
-4.  In bijzondere gevallen kan het hoofd defensieonderdeel bepalen dat de niet genoten inkomsten geheel of gedeeltelijk aan anderen dan aan de militair worden betaald. Na verrekening met deze aan anderen dan aan de militair betaalde inkomsten, worden de eventueel resterende, niet betaalde inkomsten alsnog aan de militair betaald, indien een door hem aangevraagd hernieuwd onderzoek als bedoeld in [artikel 104 van het Algemeen militair ambtenarenreglement](../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) in zijn voordeel is beslist.  
+4.  In bijzondere gevallen kan het hoofd defensieonderdeel bepalen dat de niet genoten inkomsten geheel of gedeeltelijk aan anderen dan aan de militair worden betaald. Na verrekening met deze aan anderen dan aan de militair betaalde inkomsten, worden de eventueel resterende, niet betaalde inkomsten alsnog aan de militair betaald, indien een door hem aangevraagd hernieuwd onderzoek als bedoeld in artikel 104 van het Algemeen militair ambtenarenreglement in zijn voordeel is beslist.  
 5.  Het in het derde lid bedoelde verplichtingen- en sanctieregime is van overeenkomstige toepassing indien de militair bij doorbetaling van bezoldiging tijdens ziekte of arbeidsongeschiktheid de in dat lid bedoelde aanspraak niet had kunnen hebben.  
 
 ###Artikel 17b 
@@ -364,17 +364,17 @@ b. dit onderwijs of deze scholing plaats vindt binnen een erkend reïntegratietr
 ####Inkomsten tijdens zwangerschaps- en bevallingsverlof
 
 1.  Indien aan de vrouwelijke militair zwangerschaps- en bevallingsverlof is verleend, behoudt zij haar aanspraak op inkomsten.  
-2.  De commandant draagt ervoor zorg dat de vrouwelijke militair door tussenkomst van de commandant een uitkering op basis van [hoofdstuk 3 van de Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) aanvraagt bij het Uitvoeringsinstituut werknemersverzekeringen genoemd in [hoofdstuk 5 van de Wet-SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md). Deze uitkering moet uiterlijk twee weken voor de datum van ingang van het zwangerschaps- en bevallingsverlof onderscheidenlijk de datum waarop de vrouwelijke militair het recht op de uitkering wil laten ingaan, worden aangevraagd.  
-3.  Indien de vrouwelijke militair aan wie zwangerschaps- en bevallingsverlof is verleend gedurende dat verlof of gedurende een bepaalde periode van dat verlof tevens recht heeft op een uitkering op basis van de [Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), wordt door het hoofd defensieonderdeel gedurende de periode waarin sprake is van samenloop een inhouding op de doorbetaling als bedoeld in het eerste lid toegepast die overeenkomt met het bedrag van bedoelde uitkering.  
+2.  De commandant draagt ervoor zorg dat de vrouwelijke militair door tussenkomst van de commandant een uitkering op basis van hoofdstuk 3 van de Wet arbeid en zorg aanvraagt bij het Uitvoeringsinstituut werknemersverzekeringen genoemd in hoofdstuk 5 van de Wet-SUWI. Deze uitkering moet uiterlijk twee weken voor de datum van ingang van het zwangerschaps- en bevallingsverlof onderscheidenlijk de datum waarop de vrouwelijke militair het recht op de uitkering wil laten ingaan, worden aangevraagd.  
+3.  Indien de vrouwelijke militair aan wie zwangerschaps- en bevallingsverlof is verleend gedurende dat verlof of gedurende een bepaalde periode van dat verlof tevens recht heeft op een uitkering op basis van de Wet arbeid en zorg, wordt door het hoofd defensieonderdeel gedurende de periode waarin sprake is van samenloop een inhouding op de doorbetaling als bedoeld in het eerste lid toegepast die overeenkomt met het bedrag van bedoelde uitkering.  
 4.  Indien aan de voorwaarden voor het toekennen van een uitkering als bedoeld in het tweede lid is voldaan maar geen uitkering is toegekend omdat de vrouwelijke militair geen aanvraag heeft ingediend, wordt het derde lid op overeenkomstige wijze toegepast.  
 
 ###Artikel 17c 
 
 ####Inkomsten tijdens adoptieverlof
 
-1.  Indien aan de militair door de commandant adoptieverlof op basis van [artikel 3:2, eerste tot en met derde lid, van de Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) is verleend behoudt hij zijn aanspraak op inkomsten.  
-2.  De commandant draagt ervoor zorg dat de militair door tussenkomst van de commandant een uitkering op basis van [hoofdstuk 3 van de Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) aanvraagt bij het Uitvoeringsinstituut werknemersverzekeringen bedoeld in [hoofdstuk 5 van de Wet-SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md). Deze uitkering moet uiterlijk twee weken voor de datum van ingang van het adoptieverlof onderscheidenlijk de datum waarop de militair het recht op de uitkering wil laten ingaan, worden aangevraagd.  
-3.  Indien de militair aan wie adoptieverlof is verleend gedurende dat verlof of gedurende een bepaalde periode van dat verlof tevens recht heeft op een uitkering op basis van de [Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), wordt door het hoofd defensieonderdeel gedurende de periode waarin sprake is van samenloop een inhouding op de doorbetaling, bedoeld in het eerste lid, toegepast die overeenkomt met het bedrag van bedoelde uitkering.  
+1.  Indien aan de militair door de commandant adoptieverlof op basis van artikel 3:2, eerste tot en met derde lid, van de Wet arbeid en zorg is verleend behoudt hij zijn aanspraak op inkomsten.  
+2.  De commandant draagt ervoor zorg dat de militair door tussenkomst van de commandant een uitkering op basis van hoofdstuk 3 van de Wet arbeid en zorg aanvraagt bij het Uitvoeringsinstituut werknemersverzekeringen bedoeld in hoofdstuk 5 van de Wet-SUWI. Deze uitkering moet uiterlijk twee weken voor de datum van ingang van het adoptieverlof onderscheidenlijk de datum waarop de militair het recht op de uitkering wil laten ingaan, worden aangevraagd.  
+3.  Indien de militair aan wie adoptieverlof is verleend gedurende dat verlof of gedurende een bepaalde periode van dat verlof tevens recht heeft op een uitkering op basis van de Wet arbeid en zorg, wordt door het hoofd defensieonderdeel gedurende de periode waarin sprake is van samenloop een inhouding op de doorbetaling, bedoeld in het eerste lid, toegepast die overeenkomt met het bedrag van bedoelde uitkering.  
 4.   Indien aan de voorwaarden voor het toekennen van een uitkering als bedoeld in het derde lid is voldaan maar geen uitkering is toegekend omdat de militair geen aanvraag heeft ingediend, wordt het derde lid op overeenkomstige wijze toegepast.  
 
 ### Artikel  18  
@@ -387,10 +387,10 @@ Voor elke volledige dag dat de militair zich aan zijn dienstverplichtingen onttr
 
 ####Schorsing
 
-1.  Bij de militair die ingevolge [artikel 34, eerste lid](../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md), dan wel ingevolge [artikel 34, tweede lid, onderdeel a of b, van het Algemeen militair ambtenarenreglement](../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) is geschorst, wordt door de commandant voor de duur van die schorsing eenderde gedeelte ingehouden van de inkomsten, tenzij het hoofd defensieonderdeel bepaalt dat geen inhouding zal plaatsvinden.   
+1.  Bij de militair die ingevolge artikel 34, eerste lid, dan wel ingevolge artikel 34, tweede lid, onderdeel a of b, van het Algemeen militair ambtenarenreglement is geschorst, wordt door de commandant voor de duur van die schorsing eenderde gedeelte ingehouden van de inkomsten, tenzij het hoofd defensieonderdeel bepaalt dat geen inhouding zal plaatsvinden.   
 2.  In geval een schorsing als bedoeld in het eerste lid, langer duurt dan zes weken, kan het hoofd defensieonderdeel bepalen dat gedurende die verdere duur van die schorsing een verdere inhouding plaatsvindt tot het volle bedrag der inkomsten. Bij de afweging omtrent de hoogte van de inhouding wordt de financiële positie van de militair in de beschouwing betrokken.   
-3.  Bij de militair die ingevolge [artikel 34, tweede lid, onder c, van het Algemeen militair ambtenarenreglement](../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) is geschorst, vindt geen inhouding van inkomsten plaats.   
-4.  De ingehouden inkomsten kunnen alsnog geheel of gedeeltelijk aan de militair worden uitbetaald, indien een schorsing als bedoeld in [artikel 34, tweede lid, onderdeel a of b, van het Algemeen militair ambtenarenreglement](../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) niet wordt gevolgd door een veroordeling tot een onvoorwaardelijke vrijheidsstraf, een vrijheidsbenemende maatregel of ontslag uit de militaire dienst. Op de aldus uit te keren inkomsten worden in mindering gebracht de inkomsten, welke de militair sedert de schorsing heeft genoten uit arbeid, die hij als gevolg van de schorsing heeft kunnen verrichten, tenzij zulks, naar het oordeel van het hoofd defensieonderdeel, onredelijk of onbillijk is.  
+3.  Bij de militair die ingevolge artikel 34, tweede lid, onder c, van het Algemeen militair ambtenarenreglement is geschorst, vindt geen inhouding van inkomsten plaats.   
+4.  De ingehouden inkomsten kunnen alsnog geheel of gedeeltelijk aan de militair worden uitbetaald, indien een schorsing als bedoeld in artikel 34, tweede lid, onderdeel a of b, van het Algemeen militair ambtenarenreglement niet wordt gevolgd door een veroordeling tot een onvoorwaardelijke vrijheidsstraf, een vrijheidsbenemende maatregel of ontslag uit de militaire dienst. Op de aldus uit te keren inkomsten worden in mindering gebracht de inkomsten, welke de militair sedert de schorsing heeft genoten uit arbeid, die hij als gevolg van de schorsing heeft kunnen verrichten, tenzij zulks, naar het oordeel van het hoofd defensieonderdeel, onredelijk of onbillijk is.  
 
 ### Artikel  21  
 
@@ -408,7 +408,7 @@ De militair die zich in krijgsgevangenschap bevindt of door een vreemde mogendhe
 
 a. een eventueel aan de gezinsleden van de militair toegekend tijdelijk pensioen;  
 
-b. een eventueel aan nabestaanden van de militair toegekende uitkering op grond van [artikel 118b van het Algemeen militair ambtenarenreglement](../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md);  
+b. een eventueel aan nabestaanden van de militair toegekende uitkering op grond van artikel 118b van het Algemeen militair ambtenarenreglement;  
 
 c. eventuele andere inkomsten of baten die door de militair of zijn gezinsleden tijdens de duur van de vermissing van de militair in verband daarmede zijn genoten.    
 
@@ -416,12 +416,12 @@ c. eventuele andere inkomsten of baten die door de militair of zijn gezinsleden 
 
 ####Samenloop
 
-1.  Onverminderd het tweede lid kan het hoofd defensieonderdeel het bedrag aan inkomsten waarop de militair over enig tijdvak aanspraak heeft, verminderen met het gehele of gedeeltelijke bedrag van de geldelijke inkomsten waarop die militair over hetzelfde tijdvak aanspraak heeft uit of in verband met arbeid of bedrijf anders dan als militair. Dit geldt uitsluitend, indien laatstbedoelde geldelijke inkomsten zijn verkregen uit of in verband met werkzaamheden, verricht gedurende de voor de militair geldende werktijd, bedoeld in [artikel 54a, onder d, van het Algemeen militair ambtenarenreglement](../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md). De vermindering bedraagt ten hoogste het bedrag van de inkomsten als militair.   
+1.  Onverminderd het tweede lid kan het hoofd defensieonderdeel het bedrag aan inkomsten waarop de militair over enig tijdvak aanspraak heeft, verminderen met het gehele of gedeeltelijke bedrag van de geldelijke inkomsten waarop die militair over hetzelfde tijdvak aanspraak heeft uit of in verband met arbeid of bedrijf anders dan als militair. Dit geldt uitsluitend, indien laatstbedoelde geldelijke inkomsten zijn verkregen uit of in verband met werkzaamheden, verricht gedurende de voor de militair geldende werktijd, bedoeld in artikel 54a, onder d, van het Algemeen militair ambtenarenreglement. De vermindering bedraagt ten hoogste het bedrag van de inkomsten als militair.   
 2.   Indien de militair, bedoeld in artikel 17, eerste lid, tijdens verhindering tot dienstverrichting in het belang van zijn genezing door de militair geneeskundige dienst wenselijk geachte arbeid voor zichzelf of voor derden verricht, worden - in afwijking van het eerste lid - de geldelijke inkomsten uit die arbeid slechts op zijn inkomsten als militair in mindering gebracht, voor zover de inkomsten uit die arbeid 30 procent van zijn inkomsten als militair te boven gaan.   
 3.   Indien de militair reeds vóór het tijdstip waarop hij de in het eerste lid bedoelde werkzaamheden heeft aangevangen, naast zijn inkomsten als militair tevens inkomsten uit of in verband met arbeid of bedrijf genoot, worden die inkomsten niet in aanmerking genomen bij de toepassing van het eerste lid. Dit is uitsluitend het geval, indien hij aannemelijk kan maken dat die inkomsten niet het gevolg zijn van verhoogde werkzaamheden of van andere oorzaken die verband houden met de werkzaamheden, bedoeld in het eerste lid.   
 4.   Indien de militair reeds vóór het tijdstip waarop hij de in het eerste lid bedoelde werkzaamheden heeft aangevangen, inkomsten uit of in verband met arbeid of bedrijf genoot en hij na dat tijdstip meer inkomsten gaat genieten, worden die meerdere inkomsten in aanmerking genomen bij de toepassing van het eerste lid, tenzij hij aannemelijk kan maken dat die meerdere inkomsten niet het gevolg zijn van verhoogde werkzaamheden of van andere oorzaken die verband houden met de werkzaamheden, bedoeld in het eerste lid.   
 5.   Het bedrag aan inkomsten waarop de militair over enig tijdvak aanspraak heeft, wordt verminderd met het bedrag van de geldelijke uitkeringen waarop hij met betrekking tot hetzelfde tijdvak krachtens een sociale verzekeringswet aanspraak heeft. Dit geldt uitsluitend, indien die geldelijke uitkeringen in de plaats zijn getreden van geldelijke inkomsten uit of in verband met arbeid of bedrijf, die met toepassing van het eerste lid in mindering zijn of zouden zijn gebracht tot ten hoogste het bedrag van de inkomsten als militair.   
-6.  Het hoofd defensieonderdeel kan het bedrag aan inkomsten waarop de militair over enig tijdvak aanspraak heeft, verminderen met het gehele of gedeeltelijke bedrag van de vaste vergoeding waarop de militair over hetzelfde tijdvak aanspraak heeft in verband met een functie in een publiekrechtelijk college waarvoor hem over dat tijdvak het in [artikel 12*c*, tweede lid, van de Militaire ambtenarenwet 1931](../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) bedoelde verlof is verleend. De vermindering bedraagt ten hoogste het bedrag van de inkomsten als militair.   
+6.  Het hoofd defensieonderdeel kan het bedrag aan inkomsten waarop de militair over enig tijdvak aanspraak heeft, verminderen met het gehele of gedeeltelijke bedrag van de vaste vergoeding waarop de militair over hetzelfde tijdvak aanspraak heeft in verband met een functie in een publiekrechtelijk college waarvoor hem over dat tijdvak het in artikel 12*c*, tweede lid, van de Militaire ambtenarenwet 1931 bedoelde verlof is verleend. De vermindering bedraagt ten hoogste het bedrag van de inkomsten als militair.   
 7.   De militair, bedoeld in het eerste tot en met het zesde lid, is gehouden de geldelijke inkomsten of uitkeringen uit of in verband met arbeid of bedrijf, dan wel de vaste vergoedingen in verband met een functie in een publiekrechtelijk college te melden aan het hoofd defensieonderdeel onder overlegging van een gespecificeerde opgave van die inkomsten, uitkeringen of vergoedingen.  
 
 ###Hoofdstuk 4a 
@@ -432,7 +432,7 @@ c. eventuele andere inkomsten of baten die door de militair of zijn gezinsleden 
 
 ####Berekeningsgrondslag pensioenen
 
-1. Als inkomstenbestanddelen ingevolge dit besluit gelden, bij de berekening van de grondslag voor militair ouderdoms- en nabestaandenpensioen en pensioen ter zake van ziekten of gebreken naar de bij of krachtens de [Kaderwet militaire pensioenen](../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) vast te stellen regels, uitsluitend:
+1. Als inkomstenbestanddelen ingevolge dit besluit gelden, bij de berekening van de grondslag voor militair ouderdoms- en nabestaandenpensioen en pensioen ter zake van ziekten of gebreken naar de bij of krachtens de Kaderwet militaire pensioenen vast te stellen regels, uitsluitend:
 
 a.de bezoldiging;
 
@@ -454,15 +454,15 @@ i.de toelage officieren-medisch specialist, zodra deze toelage laatstelijk gedur
 
 j.de brevettoelage marinierskapel;
 
-k. een op grond van artikel 26 van dit besluit dan wel een voor 1 januari 2009 op grond van [artikel 115 van het Algemeen militair ambtenarenreglement](../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) toegekende schadeloosstelling, vergoeding of tegemoetkoming, voor zover deze, naar het oordeel van Onze Minister, een vast onderdeel van zijn inkomen vormt; 
+k. een op grond van artikel 26 van dit besluit dan wel een voor 1 januari 2009 op grond van artikel 115 van het Algemeen militair ambtenarenreglement toegekende schadeloosstelling, vergoeding of tegemoetkoming, voor zover deze, naar het oordeel van Onze Minister, een vast onderdeel van zijn inkomen vormt; 
 
 l.de door Onze Minister te schatten geldswaarden per jaar van het emolument van kleermakers, schoenmakers en barbiers der zeemacht wegens werkzaamheden ten dienste van de militairen, welke schatting niet individueel geschiedt doch voor alle kleermakers, schoenmakers en barbiers naar een voor elk van deze categorieën te bepalen bedrag, berekend naar de gemiddelde inkomsten, welke door elke categorie jaarlijks uit het bedrijf wordt genoten;
 
 m.het emolument huisvesting Koninklijke marechaussee;
 
 n.de vaste vergoeding voor extra beslaglegging van de militair die zich in fase twee of drie bevindt, voor zover hij deze na 31 december 2001 heeft genoten, met uitzondering van de militair, bedoeld in het vierde lid. 
-2. Het eerste lid is van overeenkomstige toepassing voor de gewezen militair die een uitkering ingevolge de [Uitkeringswet gewezen militairen](../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) geniet en voor wie de ontslagleeftijd met ingang van 1 januari 2006 bij of krachtens [artikel 12 van de Militaire Ambtenarenwet 1931](../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) is gewijzigd. 
-3. Het eerste lid is van overeenkomstige toepassing voor de gewezen militair die een ontslaguitkering, waaronder tevens te begrijpen een uitkering ingevolge de [Uitkeringswet gewezen militairen](../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md), geniet in de zin van de bij of krachtens de [Kaderwet militaire pensioenen](../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) vastgestelde regels, met dien verstande dat onderdeel n van het eerste lid niet als inkomensbestanddeel bij de berekening van de pensioengrondslag wordt meegenomen. 
+2. Het eerste lid is van overeenkomstige toepassing voor de gewezen militair die een uitkering ingevolge de Uitkeringswet gewezen militairen geniet en voor wie de ontslagleeftijd met ingang van 1 januari 2006 bij of krachtens artikel 12 van de Militaire Ambtenarenwet 1931 is gewijzigd. 
+3. Het eerste lid is van overeenkomstige toepassing voor de gewezen militair die een ontslaguitkering, waaronder tevens te begrijpen een uitkering ingevolge de Uitkeringswet gewezen militairen, geniet in de zin van de bij of krachtens de Kaderwet militaire pensioenen vastgestelde regels, met dien verstande dat onderdeel n van het eerste lid niet als inkomensbestanddeel bij de berekening van de pensioengrondslag wordt meegenomen. 
 4. Met de uitzondering genoemd in het eerste lid, onderdeel n, wordt bedoeld:
 
 a.de militair van de zeemacht zonder rang, of die een rang bekleedt lager dan luitenant ter zee der derde klasse die in het jaar 2002, 2003, 2004 of 2005 de leeftijd van vijftig jaar heeft bereikt;
@@ -491,9 +491,9 @@ d.de overige militairen die in het jaar 2002, 2003, 2004 en 2005 de leeftijd van
 
 ####Eigen bijdrage en tijdelijke aanvullende eigen bijdrage
 
-1. De eigen bijdrage van de militair aan het arbeidsongeschiktheidspensioen komt overeen met het pensioenbijdrageverhaal voor het invaliditeitspensioen dat ingevolge [artikel 4, vijfde lid van de Wet privatisering ABP](../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) van een overheidswerknemer, die met die militair kan worden gelijkgesteld, door de sectorwerkgever wordt geheven. 
-2. De eigen bijdrage van de gewezen militair aan het arbeidsongeschiktheidspensioen komt overeen met het pensioenbijdrageverhaal voor het invaliditeitspensioen dat ingevolge [artikel 4, vijfde lid, van de Wet privatisering ABP](../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) van een gewezen overheidswerknemer, die met die gewezen militair kan worden gelijkgesteld, door de voor de ontslaguitkering zorgdragende instantie wordt geheven. 
-3. De tijdelijke aanvullende eigen bijdrage van de militair en de gewezen militair aan het ouderdoms- en nabestaandenpensioen bedraagt een door het bestuur van de Stichting Pensioenfonds ABP ingevolge de [Kaderwet militaire pensioenen](../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) vast te stellen extra bijdrage. Deze bijdrage wordt geheven over de bijdragegrondslag die geldt voor het pensioenbijdrageverhaal voor het ouderdoms- en nabestaandenpensioen in de desbetreffende jaren.
+1. De eigen bijdrage van de militair aan het arbeidsongeschiktheidspensioen komt overeen met het pensioenbijdrageverhaal voor het invaliditeitspensioen dat ingevolge artikel 4, vijfde lid van de Wet privatisering ABP van een overheidswerknemer, die met die militair kan worden gelijkgesteld, door de sectorwerkgever wordt geheven. 
+2. De eigen bijdrage van de gewezen militair aan het arbeidsongeschiktheidspensioen komt overeen met het pensioenbijdrageverhaal voor het invaliditeitspensioen dat ingevolge artikel 4, vijfde lid, van de Wet privatisering ABP van een gewezen overheidswerknemer, die met die gewezen militair kan worden gelijkgesteld, door de voor de ontslaguitkering zorgdragende instantie wordt geheven. 
+3. De tijdelijke aanvullende eigen bijdrage van de militair en de gewezen militair aan het ouderdoms- en nabestaandenpensioen bedraagt een door het bestuur van de Stichting Pensioenfonds ABP ingevolge de Kaderwet militaire pensioenen vast te stellen extra bijdrage. Deze bijdrage wordt geheven over de bijdragegrondslag die geldt voor het pensioenbijdrageverhaal voor het ouderdoms- en nabestaandenpensioen in de desbetreffende jaren.
 
 ### Artikel 23c 
 
@@ -501,8 +501,8 @@ d.de overige militairen die in het jaar 2002, 2003, 2004 en 2005 de leeftijd van
 
 1. Op de inkomsten van de militair bedoeld in artikel 23a, vierde lid, wordt een pseudo-pensioenpremievergoeding voor extra beslaglegging ingehouden, overeenkomstig de pensioenbijdrage die verhaald zou zijn indien op basis van artikel 23a, onderdeel n, de vaste vergoeding voor extra beslaglegging voor zover hij deze na 31 december 2001 heeft genoten, tot zijn pensioengrondslag zou behoren. 
 2. De pseudo-pensioenpremievergoeding voor extra beslaglegging wordt op de datum dat hij met leeftijdsontslag gaat gerestitueerd aan de militair, uitgezonderd de militair bedoeld in het derde en vierde lid. 
-3. Voor de militair, bedoeld in het eerste lid, die na 31 december 2002 de leeftijd bereikt waarop hij twee jaren ouder is dan de voor hem geldende ontslagleeftijd als bedoeld in [artikel 39a AMAR](../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) wordt de pseudo-pensioenpremievergoeding voor extra beslaglegging op de datum van eerstbedoelde leeftijd omgezet in een pensioenbijdrage en wordt de vaste vergoeding voor extra beslaglegging tot de berekeningsgrondslag voor het pensioen gerekend. 
-4. Voor de militair, bedoeld in het eerste lid, die na 31 december 2002 met leeftijdsontslag gaat en op de ontslagdatum twee jaar ouder is dan de op die datum voor hem geldende ontslagleeftijd als bedoeld in [artikel 39a AMAR](../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md), wordt de pseudo-pensioenpremie vergoeding voor extra beslaglegging op de datum van ontslag omgezet in een pensioenbijdrage en wordt de vaste vergoeding voor extra beslaglegging tot de berekeningsgrondslag voor het pensioen gerekend. 
+3. Voor de militair, bedoeld in het eerste lid, die na 31 december 2002 de leeftijd bereikt waarop hij twee jaren ouder is dan de voor hem geldende ontslagleeftijd als bedoeld in artikel 39a AMAR wordt de pseudo-pensioenpremievergoeding voor extra beslaglegging op de datum van eerstbedoelde leeftijd omgezet in een pensioenbijdrage en wordt de vaste vergoeding voor extra beslaglegging tot de berekeningsgrondslag voor het pensioen gerekend. 
+4. Voor de militair, bedoeld in het eerste lid, die na 31 december 2002 met leeftijdsontslag gaat en op de ontslagdatum twee jaar ouder is dan de op die datum voor hem geldende ontslagleeftijd als bedoeld in artikel 39a AMAR, wordt de pseudo-pensioenpremie vergoeding voor extra beslaglegging op de datum van ontslag omgezet in een pensioenbijdrage en wordt de vaste vergoeding voor extra beslaglegging tot de berekeningsgrondslag voor het pensioen gerekend. 
 5. Het tweede, derde en vierde lid zijn van overeenkomstige toepassing indien deze militair komt te overlijden voordat hij is ontslagen, te rekenen naar de overlijdensdatum.
 
 ### Artikel 23d 
@@ -528,7 +528,7 @@ De militair die op 31 mei 2001 aanspraak had op een overbruggingstoelage op gron
 
 ####Vakantie-uitkering
 
-Bij de vaststelling van de grondslag voor de vakantie-uitkering wordt in voorkomend geval het ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) bepaalde emolument huisvesting Koninklijke marechaussee, mede in aanmerking genomen.
+Bij de vaststelling van de grondslag voor de vakantie-uitkering wordt in voorkomend geval het ingevolge de bij of krachtens de Kaderwet militaire pensioenen bepaalde emolument huisvesting Koninklijke marechaussee, mede in aanmerking genomen.
 
 ###Artikel 25a 
 

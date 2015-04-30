@@ -10,11 +10,11 @@ Overwegende dat ingevolge het koninklijk besluit van 20 juli 1989 (*Stb.* 1989, 
 
 Overwegende dat in verband hiermee de op artikel 12 van de Electriciteitswet (*Stb.* 1938, 523) gebaseerde regelingen betreffende de veiligheid van elektrotechnische produkten, waaronder het Elektriciteitsbesluit 1976 (*Stb.* 1976, 75) dat uitvoering geeft aan richtlijn 73/23/EEG van de Raad van de Europese Gemeenschappen (*PbEG* L 77), tot de eerste verantwoordelijkheid van Onze Minister van Welzijn, Volksgezondheid en Cultuur zijn gaan behoren;
 
-Overwegende dat genoemde verantwoordelijkheid het wenselijk maakt de desbetreffende regelingen te baseren op de [Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md) (*Stb.* 1988, 360);
+Overwegende dat genoemde verantwoordelijkheid het wenselijk maakt de desbetreffende regelingen te baseren op de Warenwet (*Stb.* 1988, 360);
 
-Gelet op de [artikelen 4](../../../../../wet/warenwet/BWBR0001969/README.md), eerste lid, onderdeel *a*, 8, onderdeel *c*, [13](../../../../../wet/warenwet/BWBR0001969/README.md) en [14 van de Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md) en op artikel 12, tweede lid, van de Elektriciteitswet;
+Gelet op de artikelen 4, eerste lid, onderdeel *a*, 8, onderdeel *c*, 13 en 14 van de Warenwet en op artikel 12, tweede lid, van de Elektriciteitswet;
 
-Gehoord de Adviescommissie [Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md) (advies van 18 september 1991, nr. 14317/(49)5);
+Gehoord de Adviescommissie Warenwet (advies van 18 september 1991, nr. 14317/(49)5);
 
 De Raad van State gehoord (advies van 25 maart 1992, nr. W13.92.0045);
 
@@ -49,7 +49,7 @@ b. elektriciteitsmeters;
 
 c. spanninggevers van schrikdraadinstallaties;  
 
-d. medische hulpmiddelen in de zin van de [Wet op de medische hulpmiddelen](../../../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md).    
+d. medische hulpmiddelen in de zin van de Wet op de medische hulpmiddelen.    
 
 ### Artikel  2  
 

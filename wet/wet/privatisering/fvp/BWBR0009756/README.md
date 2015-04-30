@@ -68,7 +68,7 @@ Archiefbescheiden van het fonds gaan met ingang van de datum waarop het besluit 
 ####Toezicht 
 
 1.  De Nederlandsche Bank houdt toezicht op de naleving door de stichting van alle voorschriften en verplichtingen die op grond van deze wet ten aanzien van de stichting gelden.    
-2. De artikelen 152, 153, 163 tot en met 166 van de Pensioenwet zijn van overeenkomstige toepassing.  
+2. De artikelen 152, 153, 163 tot en met 166a van de Pensioenwet zijn van overeenkomstige toepassing.  
 3.  De Nederlandsche Bank kan een aanwijzing geven aan het bestuur van de stichting indien:  
 
 a. de statuten van de stichting niet voldoen aan artikel 2, eerste en derde lid;   

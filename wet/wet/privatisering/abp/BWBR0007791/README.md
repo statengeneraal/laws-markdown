@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de verantwoordelijkheid voor de pensioenen van het overheidspersoneel in handen te leggen van de betrokken sociale partners en met het oog daarop het Algemeen burgerlijk pensioenfonds om te vormen tot een privaatrechtelijk pensioenfonds waarop de [Pensioen- en spaarfondsenwet](../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md) van toepassing is, alsmede dat in verband daarmee een voorziening dient te worden getroffen inzake de arbeidsongeschiktheidsverzekering van dat personeel;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de verantwoordelijkheid voor de pensioenen van het overheidspersoneel in handen te leggen van de betrokken sociale partners en met het oog daarop het Algemeen burgerlijk pensioenfonds om te vormen tot een privaatrechtelijk pensioenfonds waarop de Pensioen- en spaarfondsenwet van toepassing is, alsmede dat in verband daarmee een voorziening dient te worden getroffen inzake de arbeidsongeschiktheidsverzekering van dat personeel;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### §  1  
 
@@ -30,7 +30,7 @@ f. Amp-wet: de Algemene militaire pensioenwet;
 
 g. B 3-lichaam: een privaatrechtelijk lichaam dat op 31 december 1995, op grond van artikel B 3 van de Abp-wet, was aangewezen of op grond van artikel U 2 van de Abp-wet geacht werd te zijn aangewezen als lichaam waarvan het personeel geheel of ten dele ambtenaar in de zin van de Abp-wet is;  
 
-h. Centrale Commissie: de Centrale Commissie voor Georganiseerd Overleg in Ambtenarenzaken, bedoeld in [artikel 105 van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+h. Centrale Commissie: de Centrale Commissie voor Georganiseerd Overleg in Ambtenarenzaken, bedoeld in artikel 105 van het Algemeen Rijksambtenarenreglement;  
 
 i. deeltijdfactor: de breuk, bedoeld in artikel A 1*a*, tweede lid, van de Abp-wet, zoals die bepaling luidde op 31 december 1995;  
 
@@ -70,11 +70,11 @@ q. sectorwerkgever:
 
 r.  vervallen;   
 
-s. WAO: de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+s. WAO: de Wet op de arbeidsongeschiktheidsverzekering;  
 
 t. WAO-conforme uitkering: de met overeenkomstige toepassing van de WAO toegekende arbeidsongeschiktheidsuitkering, bedoeld in artikel 32;  
 
-u. Wet FVP/ABP: de [Wet financiële voorzieningen privatisering ABP](../../../../../wet/wet/financiële/voorzieningen/privatisering/abp/BWBR0007211/README.md).   
+u. Wet FVP/ABP: de Wet financiële voorzieningen privatisering ABP.   
 
 ### Artikel  2  
 
@@ -88,11 +88,11 @@ b. in dienst is van een privaatrechtelijk lichaam dat zich het geven van onderwi
 
 2°. een Nederlandse bijzondere instelling voor hoger beroepsonderwijs, een school, cursus, opleiding of andere instelling voor bijzonder onderwijs, die ingevolge wettelijke bepaling door Onze Minister van Onderwijs, Cultuur en Wetenschappen zijn aangewezen als bevoegd om aan de studenten of leerlingen op grond van met gunstig gevolg afgelegde examens dezelfde diploma’s of getuigschriften uit te reiken als die uitgereikt worden door overeenkomstige door de overheid bekostigde instellingen;  
 
-3°. een Nederlandse bijzondere basisschool of bijzondere speciale school voor basisonderwijs, een Nederlandse school voor bijzonder speciaal onderwijs of bijzonder voortgezet speciaal onderwijs, of een Nederlandse school of instelling voor bijzonder speciaal en voortgezet speciaal onderwijs - anders dan bedoeld onder 1° - waarvan het schoolwerkplan blijkens een door Onze Minister van Onderwijs, Cultuur en Wetenschappen aan het privaatrechtelijk lichaam op verzoek afgegeven beschikking voldoet aan het bij of krachtens de [Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md) of de [Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md) bepaalde omtrent onderwijsactiviteiten of vakken, en aantal lesuren, voor zo lang dat lichaam voldoet aan de in deze beschikking op te nemen voorwaarden en bedingen;    
+3°. een Nederlandse bijzondere basisschool of bijzondere speciale school voor basisonderwijs, een Nederlandse school voor bijzonder speciaal onderwijs of bijzonder voortgezet speciaal onderwijs, of een Nederlandse school of instelling voor bijzonder speciaal en voortgezet speciaal onderwijs - anders dan bedoeld onder 1° - waarvan het schoolwerkplan blijkens een door Onze Minister van Onderwijs, Cultuur en Wetenschappen aan het privaatrechtelijk lichaam op verzoek afgegeven beschikking voldoet aan het bij of krachtens de Wet op het primair onderwijs of de Wet op de expertisecentra bepaalde omtrent onderwijsactiviteiten of vakken, en aantal lesuren, voor zo lang dat lichaam voldoet aan de in deze beschikking op te nemen voorwaarden en bedingen;    
 
 c. in dienst is van een privaatrechtelijk lichaam dat zich het verlenen van ondersteuning van volwasseneneducatie ten doel stelt, bezoldigd of beloond wordt rechtstreeks ten laste van dat lichaam en uit dien hoofde werkzaam is aan een privaatrechtelijke ondersteuningsinstelling, waarvan de personeelskosten voor ten minste 51 procent door de overheid worden vergoed;  
 
-d. in dienst is van een privaatrechtelijk lichaam als bedoeld in [artikel 68 van de Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md), [artikel 69 van de Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 53b van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), waarvan de personeelskosten voor ten minste 51 procent ten laste van de overheidskassen door de scholen worden bekostigd;  
+d. in dienst is van een privaatrechtelijk lichaam als bedoeld in artikel 68 van de Wet op het primair onderwijs, artikel 69 van de Wet op de expertisecentra en artikel 53b van de Wet op het voortgezet onderwijs, waarvan de personeelskosten voor ten minste 51 procent ten laste van de overheidskassen door de scholen worden bekostigd;  
 
 e. in dienst is van een B 3-lichaam;  
 
@@ -105,13 +105,13 @@ b. ministers, staatssecretarissen, gedeputeerden, wethouders en de Rijksvertegen
 
 c. voorzitters en leden van besturen van waterschappen, tenzij de aan hun functie verbonden werkzaamheden een dagtaak vormen en zij deswege bezoldigd of beloond worden rechtstreeks ten laste van het waterschap;  
 
-d. voorzitters en leden van besturen van andere publiekrechtelijke lichamen dan in onderdeel c genoemd, wier functie overwegend een vertegenwoordigend karakter draagt, tenzij de aan hun functie verbonden werkzaamheden een dagtaak vormen en zij deswege bezoldigd of beloond worden rechtstreeks ten laste van een publiekrechtelijk lichaam, niet zijnde een openbaar lichaam voor beroep en bedrijf als bedoeld in [artikel 134 van de Grondwet](../../../../../wet/grondwet/BWBR0001840/README.md);  
+d. voorzitters en leden van besturen van andere publiekrechtelijke lichamen dan in onderdeel c genoemd, wier functie overwegend een vertegenwoordigend karakter draagt, tenzij de aan hun functie verbonden werkzaamheden een dagtaak vormen en zij deswege bezoldigd of beloond worden rechtstreeks ten laste van een publiekrechtelijk lichaam, niet zijnde een openbaar lichaam voor beroep en bedrijf als bedoeld in artikel 134 van de Grondwet;  
 
 e. de gouverneurs van Aruba, Curaçao en Sint Maarten;  
 
 f.  vervallen;   
 
-g. personen in dienst van de openbare lichamen voor beroep en bedrijf bedoeld in [artikel 134 van de Grondwet](../../../../../wet/grondwet/BWBR0001840/README.md);  
+g. personen in dienst van de openbare lichamen voor beroep en bedrijf bedoeld in artikel 134 van de Grondwet;  
 
 h. personen in dienst van de Nederlandse Organisatie voor toegepast natuurwetenschappelijk onderzoek (T.N.O.);  
 
@@ -126,25 +126,17 @@ l. personen in dienst van een B 3-instelling waarvan de aanwijzing op of na 1 ja
 
 a. de Stichting Pensioenfonds ABP;  
 
-b. een privaatrechtelijk lichaam dat met ingang van een datum gelegen na 31 december 1995 ,door Onze Minister, op grond van de doelstelling en financiële verhouding tot een of meer publiekrechtelijke lichamen, is aangewezen als lichaam waarvan de werknemers deelnemen in de Stichting Pensioenfonds ABP;  
+b. een privaatrechtelijk lichaam dat tussen 31 december 1995 en het tijdstip van inwerkingtreding van de Wet tot wijziging van de Wet privatisering ABP in verband met de wijziging van de aanwijzingsvoorwaarden voor deelneming in het ABP (Stb. 2001, 537) door Onze Minister op grond van de doelstelling en financiële verhouding tot een of meer publiekrechtelijke lichamen is aangewezen als lichaam waarvan de werknemers deelnemen in de Stichting Pensioenfonds ABP of dat daartoe vóór het genoemde tijdstip van inwerkingtreding het verzoek had gedaan;  
 
-c. een privaatrechtelijk lichaam, waarvan de arbeidsvoorwaarden van de werknemers van dat lichaam overeenkomen met de arbeidsvoorwaarden van het personeel dat werkzaam is in een van de sectoren genoemd in artikel 1, onder q, onderdeel 1 tot en met 8, dat voor het tijdstip, bedoeld in artikel 21, derde lid, door Onze Minister, met inachtneming van artikel 3 is aangewezen als lichaam waarvan de werknemers deelnemen in de Stichting Pensioenfonds ABP.     
-4.  De in het derde lid, onder c, bedoelde aanwijzing vindt uitsluitend plaats indien: 
-
-a. werknemers in dienst van het aan te wijzen lichaam overheidswerknemer zijn op de dag voorafgaande aan het tijdstip waarop de beoogde deelneming op basis van die aanwijzing in werking zal treden, en  
-
-b. het verzoek om aanwijzing een gezamenlijk verzoek is van werkgever en werknemers die bevoegd zijn tot vaststelling van de arbeidsvoorwaarden voor de werknemers van dat lichaam, dan wel een verzoek is van hun vertegenwoordigers.     
-5.  Onze Minister kan in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid bij ministeriële regeling bepalen dat onderdelen van de arbeidsvoorwaarden van de werknemers en onderdelen van de arbeidsvoorwaarden van een sector, voor de vergelijking die volgt uit de toepassing van het derde lid, onder c, buiten beschouwing blijven.   
-6.  Voor de toepassing van de paragrafen 4, 9 en 10, alsmede van artikel 57 wordt tevens als overheidswerknemer aangemerkt degene die behoort tot het personeel van de Koninklijke Hofhouding, bedoeld in [artikel 1, onderdeel b, van de Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding](../../../../../wet/wet/gevolgen/privatisering/abp/voor/het/personeel/van/de/koninklijke/etc/BWBR0008328/README.md).  
+c. een privaatrechtelijk lichaam, waarvan de arbeidsvoorwaarden van de werknemers van dat lichaam overeenkomen met de arbeidsvoorwaarden van het personeel dat werkzaam is in een van de sectoren genoemd in artikel 1, onder q, onderdeel 1 tot en met 8, dat tussen 16 november 2001 en het tijdstip van inwerkingtreding van de Wet tot wijziging van de Wet privatisering ABP in verband met het schrappen van de aanwijzingsbevoegdheid om een privaatrechtelijk lichaam als lichaam waarvan de werknemers deelnemen in de Stichting Pensioenfonds ABP (Stb. 2014, 143), door Onze Minister is aangewezen als lichaam waarvan de werknemers deelnemen in de Stichting Pensioenfonds ABP.     
+4.  Onze Minister kan in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid bij ministeriële regeling bepalen dat onderdelen van de arbeidsvoorwaarden van de werknemers en onderdelen van de arbeidsvoorwaarden van een sector, voor de vergelijking die volgt uit de toepassing van het derde lid, onder c, buiten beschouwing blijven.   
+5.  Voor de toepassing van de paragrafen 4, 9 en 10, alsmede van artikel 57 wordt tevens als overheidswerknemer aangemerkt degene die behoort tot het personeel van de Koninklijke Hofhouding, bedoeld in artikel 1, onderdeel b, van de Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding.  
 
 ### Artikel  3  
 
-1.  Een aanwijzing als bedoeld in artikel 2, derde lid, onderdeel c, geschiedt door Onze Minister na overleg met Onze Minister van Sociale Zaken en Werkgelegenheid en op voordracht van het bestuur van de Stichting Pensioenfonds ABP.   
-2.   Onze Minister kan aan een aanwijzing voorwaarden verbinden.   
-3.   In de voordracht, bedoeld in het eerste lid, geeft het bestuur van de Stichting Pensioenfonds ABP aan of wordt voldaan aan de te stellen eis inzake de arbeidsvoorwaarden, bedoeld in artikel 2, derde lid, onder c, alsmede of aan een aanwijzing voorwaarden dienen te worden verbonden.   
-4.   Een aanwijzing op grond van artikel B 3 van de Abp-wet wordt aangemerkt als een aanwijzing ingevolge artikel 2, derde lid, onderdeel b .   
-5.   Onze Minister kan, gehoord het bestuur van de Stichting Pensioenfonds ABP en de Nederlandsche Bank N.V., een aanwijzing uiterlijk voor het tijdstip, bedoeld in artikel 21, derde lid, intrekken indien het lichaam niet meer voldoet aan een of meer van de gestelde voorwaarden of aan de eisen als bedoeld in artikel 2, derde lid, onder b, onderscheidenlijk c.   
-6.   Indien aan het vijfde lid toepassing wordt gegeven, is artikel 22, derde lid, van overeenkomstige toepassing.  
+1.   Een aanwijzing op grond van artikel B 3 van de Abp-wet wordt aangemerkt als een aanwijzing ingevolge artikel 2, derde lid, onderdeel b .   
+2.   Onze Minister kan, gehoord het bestuur van de Stichting Pensioenfonds ABP en de Nederlandsche Bank N.V., een aanwijzing uiterlijk voor het tijdstip, bedoeld in artikel 21, derde lid, intrekken indien het lichaam niet meer voldoet aan een of meer van de gestelde voorwaarden of aan de eisen als bedoeld in artikel 2, derde lid, onder b, onderscheidenlijk c.   
+3.   Indien aan het vijfde lid toepassing wordt gegeven, is artikel 22, derde lid, van overeenkomstige toepassing.  
 
 ### §  2  
 
@@ -156,7 +148,7 @@ b. het verzoek om aanwijzing een gezamenlijk verzoek is van werkgever en werknem
 2.   Onze Minister en de meerderheid van de centrales van overheidspersoneel die in de Centrale Commissie vertegenwoordigd zijn, zijn bevoegd tot het sluiten van de overeenkomst, bedoeld in het eerste lid, die op 1 januari 1996 in werking treedt.   
 3.  De meerderheid van de sectorwerkgevers en de meerderheid van de centrales van overheidspersoneel, verenigd in de Raad voor het Overheidspersoneelsbeleid, zijn na 1 januari 1997 bevoegd tot het wijzigen of vervangen van de in het eerste lid bedoelde overeenkomst.    
 4.   De in het tweede en derde lid bedoelde bevoegdheid geldt niet ten aanzien van het B 3-lichaam dat met ingang van 1 januari 1996 of een latere datum niet langer deelneemt in de Stichting Pensioenfonds ABP.   
-5.   De overheidswerkgevers en overheidswerknemers zijn gebonden aan de overeenkomst, bedoeld in het eerste lid, en verplicht tot naleving van hetgeen te hunnen aanzien is bepaald in de statuten en reglementen van het pensioenfonds of in een uitvoeringsovereenkomst als bedoeld in de [Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md), gesloten met een verzekeraar.   
+5.   De overheidswerkgevers en overheidswerknemers zijn gebonden aan de overeenkomst, bedoeld in het eerste lid, en verplicht tot naleving van hetgeen te hunnen aanzien is bepaald in de statuten en reglementen van het pensioenfonds of in een uitvoeringsovereenkomst als bedoeld in de Pensioenwet, gesloten met een verzekeraar.   
 6.   De overeenkomst, bedoeld in het eerste lid, alsmede een wijziging of vervanging daarvan, bedoeld in het derde lid, worden door Onze Minister in de *Staatscourant* geplaatst. De overeenkomst, een wijziging en een vervanging daarvan treden niet eerder in werking dan met ingang van de tweede dag na de dagtekening van de *Staatscourant* waarin deze worden geplaatst.  
 
 ### Artikel  5  
@@ -168,7 +160,7 @@ b. het verzoek om aanwijzing een gezamenlijk verzoek is van werkgever en werknem
 ### Artikel  6  
 
 1.  Onze Minister is gemachtigd om namens de Staat der Nederlanden deel te nemen aan de oprichting van de Stichting Pensioenfonds ABP.   
-2.   De Stichting Pensioenfonds ABP heeft tot doel om als bedrijfstakpensioenfonds als bedoeld in de [Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md) werkzaam te zijn ten behoeve van overheid, onderwijs en daarmee gelieerde privaatrechtelijke lichamen.   
+2.   De Stichting Pensioenfonds ABP heeft tot doel om als bedrijfstakpensioenfonds als bedoeld in de Pensioenwet werkzaam te zijn ten behoeve van overheid, onderwijs en daarmee gelieerde privaatrechtelijke lichamen.   
 3.   In de statuten van de Stichting Pensioenfonds ABP kan worden bepaald dat de stichting een ruimere doelstelling heeft dan die, bedoeld in het tweede lid.  
 
 ### Artikel  7  
@@ -177,7 +169,7 @@ b. het verzoek om aanwijzing een gezamenlijk verzoek is van werkgever en werknem
 2.   De belanghebbende verkrijgt met inachtneming van paragraaf 4 met ingang van 1 januari 1996 aanspraken op invaliditeitspensioen of herplaatsingstoelage jegens de Stichting Pensioenfonds ABP, die tezamen met de aanspraken jegens het FAOP op een WAO-conforme uitkering ingevolge artikel 32, eerste lid, juncto artikel 37 in totaliteit gelijkwaardig zijn aan de overeenkomstige aanspraken ingevolge de Abp-wet en de wijzigingswetten van die wet.   
 3.   Het eerste en tweede lid zijn niet van toepassing ten aanzien van het personeelslid van het ABP waarop artikel 27 van toepassing is, behoudens het vierde lid van dat artikel.   
 4.   Het bestuur van de Stichting Pensioenfonds ABP verstrekt aan degene die op 31 december 1995 ambtenaar is of recht op invaliditeitspensioen heeft, alsmede voor zover mogelijk aan de gewezen ambtenaar aan wie nog geen pensioen is toegekend, een schriftelijke opgave van het uit hoofde van zijn dienstbetrekking opgebouwde uitzicht op pensioen ingevolge de Abp-wet. Deze opgave bevat ten minste de voor pensioen geldende diensttijd, alsmede de twee berekeningsgrondslagen die zouden zijn gehanteerd indien aan hem pensioen ingevolge de Abp-wet zou zijn verleend met ingang van 1 januari 1996.   
-5.   De opgave, bedoeld in het vierde lid, wordt aangemerkt als een besluit als bedoeld in [artikel 1:3 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). Ten aanzien van deze opgave is hoofdstuk S van de Abp-wet, zoals dat luidde op 31 december 1995, van overeenkomstige toepassing, met dien verstande dat wordt begrepen onder:  
+5.   De opgave, bedoeld in het vierde lid, wordt aangemerkt als een besluit als bedoeld in artikel 1:3 van de Algemene wet bestuursrecht. Ten aanzien van deze opgave is hoofdstuk S van de Abp-wet, zoals dat luidde op 31 december 1995, van overeenkomstige toepassing, met dien verstande dat wordt begrepen onder:  
 
 a. bestuur: het bestuur van de Stichting Pensioenfonds ABP;  
 
@@ -197,12 +189,12 @@ d. artikel IX, de onderdelen C en X, van de wet van 7 mei 1986 tot wijziging van
 
 e. artikel III, onderdeel B, van de wet van 3 juli 1986 tot wijziging van de Algemene burgerlijke pensioenwet en de Spoorwegpensioenwet met betrekking tot deelgerechtigden die de leeftijd van 25 jaar nog niet hebben bereikt ( *Stb.* 393);  
 
-f.  [artikel 33 van de Wet privatisering Spoorwegpensioenfonds](../../../../../wet/wet/privatisering/spoorwegpensioenfonds/BWBR0006319/README.md);  
+f.  artikel 33 van de Wet privatisering Spoorwegpensioenfonds;  
 
 g. artikel 76 van de Wet FVP/ABP;   zoals die artikelen luidden op 31 december 1995, tijd die niet als ambtenaar in de zin van de Abp-wet is doorgebracht (externe diensttijd) mede als diensttijd in de zin van de Abp-wet in aanmerking zou kunnen doen brengen, geldt die diensttijd met ingang van 1 januari 1996 als diensttijd jegens de Stichting Pensioenfonds ABP, tenzij belanghebbende voor 1 januari 1998 te kennen heeft gegeven dat hij die overname niet wenst.   
 2.   Ten aanzien van de in het eerste lid, onderdeel *a*, bedoelde externe diensttijd blijft artikel 75 van de Wet FVP/ABP, zoals dat artikel luidde op 31 december 1995, van toepassing.   
 3.   Het bestuur van de Stichting Pensioenfonds ABP doet aan de belanghebbende opgave van de externe diensttijd, bedoeld in het eerste lid. Op deze opgave is artikel 7, vijfde lid, van overeenkomstige toepassing.   
-4.   Tenzij belanghebbende tijdig te kennen heeft gegeven geen overname van externe diensttijd te wensen, wordt door het bestuur van de Stichting Pensioenfonds ABP mededeling van de overname gedaan aan de betrokken pensioeninstantie, voor zover dit noodzakelijk is in verband met het voorkomen van een dubbele pensioentoekenning over de door de Stichting Pensioenfonds ABP overgenomen externe diensttijd dan wel de toepassing van [artikel 33 van de Wet privatisering Spoorwegpensioenfonds](../../../../../wet/wet/privatisering/spoorwegpensioenfonds/BWBR0006319/README.md) of artikel 76 van de Wet FVP/ABP.  
+4.   Tenzij belanghebbende tijdig te kennen heeft gegeven geen overname van externe diensttijd te wensen, wordt door het bestuur van de Stichting Pensioenfonds ABP mededeling van de overname gedaan aan de betrokken pensioeninstantie, voor zover dit noodzakelijk is in verband met het voorkomen van een dubbele pensioentoekenning over de door de Stichting Pensioenfonds ABP overgenomen externe diensttijd dan wel de toepassing van artikel 33 van de Wet privatisering Spoorwegpensioenfonds of artikel 76 van de Wet FVP/ABP.  
 
 ### §  3  
 
@@ -224,30 +216,30 @@ In het pensioenreglement van de Stichting Pensioenfonds ABP kan worden bepaald d
 
 ### Artikel  13  
 
-1.  In het pensioenreglement van de Stichting Pensioenfonds ABP kan ten aanzien van de inbouw van het pensioen ingevolge de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) in het pensioen dat wordt berekend over diensttijd voor 1 januari 1986, worden bepaald dat deze geschiedt met inachtneming van twee procent per dienstjaar van:  
+1.  In het pensioenreglement van de Stichting Pensioenfonds ABP kan ten aanzien van de inbouw van het pensioen ingevolge de Algemene Ouderdomswet in het pensioen dat wordt berekend over diensttijd voor 1 januari 1986, worden bepaald dat deze geschiedt met inachtneming van twee procent per dienstjaar van:  
 
-a. het tot een jaarbedrag herleide bedrag aan pensioen ingevolge de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) waarop de belanghebbende die voor de toepassing van die wet als ongehuwd wordt aangemerkt, recht heeft dan wel recht zou hebben gehad indien hij op grond van die wet verzekerd zou zijn geweest, ten aanzien van de genoemde belanghebbende;  
+a. het tot een jaarbedrag herleide bedrag aan pensioen ingevolge de Algemene Ouderdomswet waarop de belanghebbende die voor de toepassing van die wet als ongehuwd wordt aangemerkt, recht heeft dan wel recht zou hebben gehad indien hij op grond van die wet verzekerd zou zijn geweest, ten aanzien van de genoemde belanghebbende;  
 
-b. twee maal het tot een jaarbedrag herleide bedrag aan pensioen ingevolge de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) waarop de belanghebbende die voor de toepassing van die wet als gehuwd wordt aangemerkt, recht heeft dan wel recht zou hebben gehad indien hij op grond van die wet verzekerd zou zijn geweest, ten aanzien van de genoemde belanghebbende.   Een en ander met dien verstande dat, indien bij toepassing van de Abp-wet, zoals die luidde op 31 december 1995, toepassing zou zijn gegeven aan artikel J 12, het inbouwbedrag wordt vermenigvuldigd met de in dat artikel bedoelde breuk.   
+b. twee maal het tot een jaarbedrag herleide bedrag aan pensioen ingevolge de Algemene Ouderdomswet waarop de belanghebbende die voor de toepassing van die wet als gehuwd wordt aangemerkt, recht heeft dan wel recht zou hebben gehad indien hij op grond van die wet verzekerd zou zijn geweest, ten aanzien van de genoemde belanghebbende.   Een en ander met dien verstande dat, indien bij toepassing van de Abp-wet, zoals die luidde op 31 december 1995, toepassing zou zijn gegeven aan artikel J 12, het inbouwbedrag wordt vermenigvuldigd met de in dat artikel bedoelde breuk.   
 2.   Indien het pensioenreglement van de Stichting Pensioenfonds ABP bepalingen inhoudt overeenkomstig het eerste lid, wordt daarin tevens bepaald dat aan de belanghebbende een toeslag wordt verleend:  
 
-a. voor de tijd waarover de voor pensioen geldende diensttijd samenvalt met tijd gedurende welke de belanghebbende of diens echtgenoot dan wel degene die ingevolge de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) mede als echtgenoot wordt aangemerkt, niet verzekerd dan wel vrijwillig verzekerd is geweest ingevolge die wet;  
+a. voor de tijd waarover de voor pensioen geldende diensttijd samenvalt met tijd gedurende welke de belanghebbende of diens echtgenoot dan wel degene die ingevolge de Algemene Ouderdomswet mede als echtgenoot wordt aangemerkt, niet verzekerd dan wel vrijwillig verzekerd is geweest ingevolge die wet;  
 
-b. in het geval de echtgenoot van de belanghebbende dan wel degene die ingevolge de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) mede als echtgenoot wordt aangemerkt, de leeftijd van 65 jaar nog niet heeft bereikt en belanghebbende geen recht heeft op de volledige toeslag, bedoeld in [artikel 8](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) van genoemde wet.     
+b. in het geval de echtgenoot van de belanghebbende dan wel degene die ingevolge de Algemene Ouderdomswet mede als echtgenoot wordt aangemerkt, de leeftijd van 65 jaar nog niet heeft bereikt en belanghebbende geen recht heeft op de volledige toeslag, bedoeld in artikel 8 van genoemde wet.     
 3.   Het eerste en tweede lid zijn van overeenkomstige toepassing ten aanzien van:  
 
 a. een pensioen, een tijdelijke uitkering en een wezenpensioen als bedoeld in de Algemene Weduwen- en Wezenwet;  
 
-b. een pensioen of uitkering toegekend krachtens een wettelijke regeling van de Nederlandse Antillen, van Aruba of van een vreemde mogendheid voor zover naar aard en strekking overeenkomend met een pensioen ingevolge de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) dan wel een pensioen of uitkering ingevolge de Algemene Weduwen- en Wezenwet.    
+b. een pensioen of uitkering toegekend krachtens een wettelijke regeling van de Nederlandse Antillen, van Aruba of van een vreemde mogendheid voor zover naar aard en strekking overeenkomend met een pensioen ingevolge de Algemene Ouderdomswet dan wel een pensioen of uitkering ingevolge de Algemene Weduwen- en Wezenwet.    
 
 ### Artikel  14  
 
-1.  In het pensioenreglement van de Stichting Pensioenfonds ABP kan ten aanzien van de vermindering van de inbouw van het pensioen ingevolge de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) in het pensioen dat wordt berekend over diensttijd voor 1 januari 1986, bedoeld in de artikelen J 14 en J 15 van de Abp-wet, zoals deze luidden op 31 december 1995, worden bepaald dat in plaats van die vermindering een toeslag wordt toegekend.   
+1.  In het pensioenreglement van de Stichting Pensioenfonds ABP kan ten aanzien van de vermindering van de inbouw van het pensioen ingevolge de Algemene Ouderdomswet in het pensioen dat wordt berekend over diensttijd voor 1 januari 1986, bedoeld in de artikelen J 14 en J 15 van de Abp-wet, zoals deze luidden op 31 december 1995, worden bepaald dat in plaats van die vermindering een toeslag wordt toegekend.   
 2.   Het eerste lid is van overeenkomstige toepassing ten aanzien van:  
 
 a. een pensioen, een tijdelijke uitkering en een wezenpensioen als bedoeld in de Algemene Weduwen- en Wezenwet;  
 
-b. een pensioen of uitkering toegekend krachtens een wettelijke regeling van de Nederlandse Antillen, van Aruba of van een vreemde mogendheid voor zover naar aard en strekking overeenkomend met een pensioen ingevolge de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) dan wel een pensioen of uitkering ingevolge de Algemene Weduwen- en Wezenwet.    
+b. een pensioen of uitkering toegekend krachtens een wettelijke regeling van de Nederlandse Antillen, van Aruba of van een vreemde mogendheid voor zover naar aard en strekking overeenkomend met een pensioen ingevolge de Algemene Ouderdomswet dan wel een pensioen of uitkering ingevolge de Algemene Weduwen- en Wezenwet.    
 
 ### Artikel  15  
 
@@ -284,8 +276,8 @@ De artikelen 17 tot en met 19 zijn van overeenkomstige toepassing op het invalid
 
 1.  De overheidswerknemers zijn verplicht deel te nemen in de Stichting Pensioenfonds ABP.   
 2.   Vervallen.    
-3.   Op een bij koninklijk besluit, op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, nader te bepalen tijdstip is de [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md) van toepassing. De verplichte deelneming in de Stichting Pensioenfonds ABP ingevolge het eerste lid wordt met ingang van die datum aangemerkt als een verplichte deelneming ingevolge de in de eerste volzin genoemde wet, welke deelneming alsdan met inachtneming van de in artikel 22, derde lid, geregelde voorwaarden of van artikel 23, tweede lid, overeenkomstig laatstbedoelde wet en de op basis daarvan gestelde regels kan worden gewijzigd of ingetrokken.   
-4.  In afwijking van het derde lid zijn de artikelen [5](../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md), [6](../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md), [7](../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md), [8](../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md), [14](../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md) en de daarop berustende ministeriële regeling, [17](../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md), [18](../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md), [19](../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md), [20](../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md) en [39, zesde en zevende lid, van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md) van overeenkomstige toepassing met ingang van de datum waarop die wet in werking treedt tot het tijdstip bedoeld in het derde lid.   
+3.   Op een bij koninklijk besluit, op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, nader te bepalen tijdstip is de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 van toepassing. De verplichte deelneming in de Stichting Pensioenfonds ABP ingevolge het eerste lid wordt met ingang van die datum aangemerkt als een verplichte deelneming ingevolge de in de eerste volzin genoemde wet, welke deelneming alsdan met inachtneming van de in artikel 22, derde lid, geregelde voorwaarden of van artikel 23, tweede lid, overeenkomstig laatstbedoelde wet en de op basis daarvan gestelde regels kan worden gewijzigd of ingetrokken.   
+4.  In afwijking van het derde lid zijn de artikelen 5, 6, 7, 8, 14 en de daarop berustende ministeriële regeling, 17, 18, 19, 20 en 39, zesde en zevende lid, van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 van overeenkomstige toepassing met ingang van de datum waarop die wet in werking treedt tot het tijdstip bedoeld in het derde lid.   
 
 ### Artikel  22  
 
@@ -299,7 +291,7 @@ b. de gewezen werknemers van het betrokken lichaam, voor zover zij na hun ontsla
 
 c. de gepensioneerde, gewezen werknemers van het betrokken lichaam;  
 
-d. de nabestaanden van de in de onderdelen *a*, *b* en *c* bedoelde werknemers;   door middel van collectieve waardeoverdracht worden ondergebracht bij een andere pensioenuitvoerder als bedoeld in de [Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md), op zodanige wijze dat wordt voldaan aan de in [die wet](../../../../../wet/pensioenwet/BWBR0020809/README.md) aan de collectieve waardeoverdracht gestelde eisen.  
+d. de nabestaanden van de in de onderdelen *a*, *b* en *c* bedoelde werknemers;   door middel van collectieve waardeoverdracht worden ondergebracht bij een andere pensioenuitvoerder als bedoeld in de Pensioenwet, op zodanige wijze dat wordt voldaan aan de in die wet aan de collectieve waardeoverdracht gestelde eisen.  
 
 ### Artikel  23  
 
@@ -335,7 +327,7 @@ d. de nabestaanden van de in de onderdelen *a*, *b* en *c* bedoelde werknemers; 
 5.   De inhoud van de arbeidsovereenkomst bedoeld in het eerste lid, wordt door het bestuur van het ABP uiterlijk 1 september 1995 aan het personeelslid voorgelegd.   
 6.   Binnen zes weken na de datum waarop het personeelslid redelijkerwijs kennis heeft kunnen nemen van de inhoud van de arbeidsovereenkomst, bedoeld in het eerste lid, kan hij het bestuur van het ABP mededelen dat hij bezwaren heeft tegen de overgang in dienst van de Stichting Pensioenfonds ABP. Door het bestuur van het ABP worden regels gesteld met betrekking tot het onderzoek van de bezwaren. Het bestuur van het ABP beslist voor 21 december 1995 op de bezwaren.   
 7.   Indien het bestuur van het ABP de bezwaren geheel of gedeeltelijk gegrond verklaart, kan hij in afwijking van het eerste lid beslissen dat het personeelslid niet overgaat in dienst van de Stichting Pensioenfonds ABP dan wel het personeelslid een arbeidsovereenkomst met de Stichting Pensioenfonds ABP aanbieden waarvan de inhoud in overeenstemming is met zijn beslissing op de bezwaren.   
-8.   Het personeelslid ten aanzien van wie het bestuur heeft beslist dat hij niet overgaat in dienst van de Stichting Pensioenfonds ABP, is met ingang van 1 januari 1996 van rechtswege eervol ontslagen uit de dienst van het ABP. Hij heeft met ingang van die datum gedurende drie maanden ten laste van de Stichting Pensioenfonds ABP aanspraak op doorbetaling van zijn laatstgenoten bezoldiging. Tevens is op hem met ingang van die datum de ontslag[uitkeringsregeling](../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md) van toepassing die op 31 december 1995 voor hem gold, met dien verstande dat de uitbetaling van de uitkering op grond van die regeling wordt opgeschort tot 1 april 1996 en voor de bepaling van de duur van die uitkering 1 april 1996 wordt aangemerkt als datum van ontslag.   
+8.   Het personeelslid ten aanzien van wie het bestuur heeft beslist dat hij niet overgaat in dienst van de Stichting Pensioenfonds ABP, is met ingang van 1 januari 1996 van rechtswege eervol ontslagen uit de dienst van het ABP. Hij heeft met ingang van die datum gedurende drie maanden ten laste van de Stichting Pensioenfonds ABP aanspraak op doorbetaling van zijn laatstgenoten bezoldiging. Tevens is op hem met ingang van die datum de ontslaguitkeringsregeling van toepassing die op 31 december 1995 voor hem gold, met dien verstande dat de uitbetaling van de uitkering op grond van die regeling wordt opgeschort tot 1 april 1996 en voor de bepaling van de duur van die uitkering 1 april 1996 wordt aangemerkt als datum van ontslag.   
 9.   In afwijking van het eerste lid komt geen arbeidsovereenkomst tot stand met het personeelslid dat binnen een week na de beslissing van het bestuur van het ABP op de bezwaren kenbaar maakt dat de totstandkoming van de arbeidsovereenkomst tegen zijn wil is. Het in dit lid bedoelde personeelslid is met ingang van 1 januari 1996 van rechtswege eervol ontslagen. Hij heeft per die datum ten laste van de Stichting Pensioenfonds ABP aanspraak op een bedrag ter grootte van drie maal zijn laatstelijk genoten maandelijkse bezoldiging.   
 10.   Door het tot stand komen van een arbeidsovereenkomst met de Stichting Pensioenfonds ABP is het personeelslid van rechtswege eervol ontslagen uit de dienst van het ABP. Aan een zodanig ontslag wordt geen recht ontleend op een ontslaguitkering.  
 
@@ -356,7 +348,7 @@ d. de nabestaanden van de in de onderdelen *a*, *b* en *c* bedoelde werknemers; 
 
 ### Artikel  56  
 
-Voor de toepassing van de [Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md) wordt de Stichting Verbond Sectorwerkgevers Overheid aangemerkt als werkgeversvereniging. 
+Voor de toepassing van de Pensioenwet wordt de Stichting Verbond Sectorwerkgevers Overheid aangemerkt als werkgeversvereniging. 
 
 ### Artikel  58  
 
@@ -393,7 +385,7 @@ a. betrekking hebben op het in artikel 49, tweede juncto eerste lid, van de Wet 
 
 b. de goedkeuring behoeven van het vorengenoemde college op grond van artikel 15, eerste lid, van de Organisatiewet sociale verzekeringen; of  
 
-c. overeenkomstig artikel 18 van de Algemene Arbeidsongeschiktheidswet, zoals die wet luidde op de dag voorafgaande aan de datum van inwerkingtreding van [artikel II van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](../../../../../wet/invoeringswet/nieuwe/en/gewijzigde/arbeidsongeschiktheidsregelingen/BWBR0008658/README.md), en de [artikelen 27](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) en [28 van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) zijn vastgesteld.     
+c. overeenkomstig artikel 18 van de Algemene Arbeidsongeschiktheidswet, zoals die wet luidde op de dag voorafgaande aan de datum van inwerkingtreding van artikel II van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen, en de artikelen 27 en 28 van de Wet op de arbeidsongeschiktheidsverzekering zijn vastgesteld.     
 2.  Ingeval het college, bedoeld in het eerste lid, zijn goedkeuring onthoudt aan een besluit van het FAOP als bedoeld in het eerste lid, behoudt het bedoelde besluit zijn gelding gedurende de periode tot aan de datum van de bedoelde beslissing van het College.  
 
 ### Artikel  68  
@@ -431,7 +423,7 @@ Bevat wijzigingen in andere regelgeving.
 2.   Voor zover het bestuur van het ABP ingevolge artikel P 1 van de Amp-wet op 31 december 1995 belast was met de uitvoering van op die datum reeds ingegane pensioenen van nagelaten betrekkingen van militairen in de zin van die wet, is het eerste lid ten aanzien van de kosten van die pensioenen van overeenkomstige toepassing, indien die pensioenen zijn ondergebracht bij de Stichting Pensioenfonds ABP.   
 3.   De Stichting Pensioenfonds ABP heeft voorts verhaal voor de kosten van de tussen 31 december 1995 en 1 januari 2001 toegekende pensioenen die ten gevolge van een ongeval zijn toegekend aan een overheidswerknemer of zijn nagelaten betrekkingen, op degene die, bij het ontbreken van die voorziening, in verband met het veroorzaken van het ongeval jegens een overheidswerknemer dan wel diens nagelaten betrekkingen naar burgerlijk recht aansprakelijk zou zijn voor de alsdan door dezen geleden schade.   
 4.   Het derde lid is van overeenkomstige toepassing ten aanzien van de kosten van de tussen 31 december 1995 en 1 januari 2001 toegekende pensioenen van nagelaten betrekkingen van militairen in de zin van de Amp-wet, indien die pensioenen zijn ondergebracht bij de Stichting Pensioenfonds ABP.   
-5.   De [artikelen 2](../../../../../wet/verhaalswet/ongevallen/ambtenaren/BWBR0002500/README.md) en [3 van de Verhaalswet ongevallen ambtenaren](../../../../../wet/verhaalswet/ongevallen/ambtenaren/BWBR0002500/README.md) zijn ten aanzien van het verhaal, bedoeld in het eerste tot en met het vierde lid, van overeenkomstige toepassing.  
+5.   De artikelen 2 en 3 van de Verhaalswet ongevallen ambtenaren zijn ten aanzien van het verhaal, bedoeld in het eerste tot en met het vierde lid, van overeenkomstige toepassing.  
 
 ### Artikel  77  
 

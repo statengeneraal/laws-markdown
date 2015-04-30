@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 2 oktober 1995, Directie wetgeving, nr. 516925/95/6;
 
-Gelet op [artikel 16, eerste en derde lid, van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md);
+Gelet op artikel 16, eerste en derde lid, van de Wet rechtspositie rechterlijke ambtenaren;
 
 De Raad van State gehoord (advies van 14 december 1995; no. WO3.95.0538); 
 

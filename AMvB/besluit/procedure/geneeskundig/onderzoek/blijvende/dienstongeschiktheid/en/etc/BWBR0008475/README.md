@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Defensie van 26 juli 1996, nr. P/96002773;
 
-Gelet op, [artikel 12 onder *b* en *i* van de Militaire Ambtenarenwet 1931](../../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md), artikel 12 van de Dienstplichtwet en artikel T1 van de Algemene militaire pensioenwet;
+Gelet op, artikel 12 onder *b* en *i* van de Militaire Ambtenarenwet 1931, artikel 12 van de Dienstplichtwet en artikel T1 van de Algemene militaire pensioenwet;
 
 De Raad van State gehoord (advies van 9 oktober 1996, nr. WO7 9600333);
 
@@ -26,7 +26,7 @@ b. geneeskundige autoriteit: de door Onze Minister aan te wijzen medische autori
 
 c. geneeskundig onderzoek: een militair geneeskundig onderzoek naar het bestaan van blijvende ongeschiktheid voor het vervullen van de militaire dienst;   
 
-d. pensioenkeuring: een geneeskundig onderzoek naar het ontstaan, tot uiting komen of verergeren, de aard en de gevolgen van verwonding, ziekten of gebreken, ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](../../../../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) vastgestelde bepalingen inzake arbeidsongeschiktheid, alsmede inzake invaliditeit met dienstverband;  
+d. pensioenkeuring: een geneeskundig onderzoek naar het ontstaan, tot uiting komen of verergeren, de aard en de gevolgen van verwonding, ziekten of gebreken, ingevolge de bij of krachtens de Kaderwet militaire pensioenen vastgestelde bepalingen inzake arbeidsongeschiktheid, alsmede inzake invaliditeit met dienstverband;  
 
 e. pensioenverzekeringsautoriteit: een door Onze Minister aan te wijzen medisch adviseur, die hem adviseert omtrent de pensioenverzekeringsaspecten;  
 
@@ -69,7 +69,7 @@ b. een verslag van de reïntegratieactiviteiten van het krijgsmachtdeel en event
 
 ### Artikel  7  
 
-De commissie beoordeelt een militair op het bestaan van blijvende ongeschiktheid voor het vervullen van de militaire dienst met inachtneming van het [Militair keuringsreglement](../../../../../../../../../../AMvB/militair/keuringsreglement/BWBR0002346/README.md). 
+De commissie beoordeelt een militair op het bestaan van blijvende ongeschiktheid voor het vervullen van de militaire dienst met inachtneming van het Militair keuringsreglement. 
 
 ### Artikel  8  
 
@@ -102,11 +102,11 @@ Onze Minister kan bepalen, dat een onderzoek ten aanzien van een dienstplichtige
 1.  De pensioenverzekeringsautoriteit kan bij de vaststelling van de aanspraken van de militair, ter vervanging van een eigen pensioenkeuring gebruik maken van een geneeskundig onderzoek door de commissie.   
 2.  Indien de pensioenverzekeringsautoriteit van de in het eerste lid bedoelde mogelijkheid gebruik wenst te maken, richt hij daartoe een verzoek aan de geneeskundige autoriteit onder gelijktijdige opgave van de behandelend medisch adviseur.   
 3.  De commissie brengt omtrent de eventuele pensioenaanspraken van de militair een nader rapport uit aan de pensioenverzekeringsautoriteit.   
-4.  In voorkomend geval kan de commissie tevens gevraagd worden een advies uit te brengen omtrent de vraag of en zo ja in hoeverre na ontslag alsnog sprake is van verwonding, ziekten of gebreken als bedoeld in de bij of krachtens [Kaderwet militaire pensioenen](../../../../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) vastgestelde bepalingen inzake invaliditeit met dienstverband.  
+4.  In voorkomend geval kan de commissie tevens gevraagd worden een advies uit te brengen omtrent de vraag of en zo ja in hoeverre na ontslag alsnog sprake is van verwonding, ziekten of gebreken als bedoeld in de bij of krachtens Kaderwet militaire pensioenen vastgestelde bepalingen inzake invaliditeit met dienstverband.  
 
 ### Artikel  13  
 
-1.  Bij de vaststelling van de mate van invaliditeit met dienstverband als bedoeld in de bij of krachtens [Kaderwet militaire pensioenen](../../../../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) vastgestelde bepalingen wordt uitgegaan van de War Pensions Committee-schaal zoals in de bijlage opgenomen.   
+1.  Bij de vaststelling van de mate van invaliditeit met dienstverband als bedoeld in de bij of krachtens Kaderwet militaire pensioenen vastgestelde bepalingen wordt uitgegaan van de War Pensions Committee-schaal zoals in de bijlage opgenomen.   
 2.  Onze Minister kan in bepaalde gevallen afwijken van de in lid 1 genoemde schaal dan wel aanwijzingen geven ter nadere invulling van de toepassing ervan.   
 
 ### Paragraaf  4  

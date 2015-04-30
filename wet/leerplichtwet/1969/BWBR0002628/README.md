@@ -198,7 +198,7 @@ e. het gegeven dat het een vervangende leerplicht betreft.
 
 ####Inschrijving
 
-1. De in artikel 2, eerste lid, bedoelde personen zijn verplicht te zorgen dat de jongere overeenkomstig de bepalingen van deze paragraaf staat ingeschreven als leerling of deelnemer bij een school of instelling die volledig dagonderwijs, een bij de wet geregelde combinatie van leren en werken, dan wel een onderwijsprogramma als bedoeld in artikel 25a, derde lid, onderdeel d, van de Wet op het voortgezet onderwijs verzorgt en dat hij deze school of instelling na inschrijving geregeld bezoekt, als:
+1. De in artikel 2, eerste lid, bedoelde personen zijn verplicht te zorgen dat de jongere overeenkomstig de bepalingen van deze paragraaf staat ingeschreven als leerling of deelnemer bij een school of instelling die volledig dagonderwijs, een bij de wet geregelde combinatie van leren en werken, een onderwijsprogramma als bedoeld in artikel 25a, derde lid, onderdeel d, van de Wet op het voortgezet onderwijs, dan wel een onderwijsprogramma als bedoeld in artikel 58a, derde lid, onderdeel d, van de Wet op het voortgezet onderwijs verzorgt en dat hij deze school of instelling na inschrijving geregeld bezoekt, als:
 
 a.ten aanzien van de jongere de leerplicht, bedoeld in paragraaf 2 van deze wet is geëindigd, en
 
@@ -219,7 +219,7 @@ De verplichting, bedoeld in artikel 4a, eerste lid, vangt aan direct na het eind
 
 ####De invulling van de verplichting tot geregeld schoolbezoek
 
-1. De jongere die als leerling of deelnemer van een school of instelling staat ingeschreven op grond van artikel 4a, eerste lid, is verplicht het volledige onderwijsprogramma, het volledige programma van de combinatie leren en werken, respectievelijk het onderwijsprogramma, bedoeld in artikel 25a, derde lid, onderdeel d, van de Wet op het voortgezet onderwijs, te volgen dat door die school of instelling wordt aangeboden. 
+1. De jongere die als leerling of deelnemer van een school of instelling staat ingeschreven op grond van artikel 4a, eerste lid, is verplicht het volledige onderwijsprogramma, het volledige programma van de combinatie leren en werken, het onderwijsprogramma, bedoeld in artikel 25a, derde lid, onderdeel d, van de Wet op het voortgezet onderwijs, respectievelijk het onderwijsprogramma, bedoeld in artikel 58a, derde lid, onderdeel d, van de Wet op het voortgezet onderwijs, te volgen dat door die school of instelling wordt aangeboden. 
 2. De jongere voldoet aan de verplichting, bedoeld in artikel 4a, eerste lid, om de school of instelling na inschrijving geregeld te bezoeken, zolang hij geen les of praktijktijd verzuimt anders dan op een van de gronden, bedoeld in artikel 11.
 
 ### §  3  
@@ -439,8 +439,8 @@ d. de aanwijzing van de diensten en instellingen waarmee de ambtenaren bij de ui
 
 e. een meldcode waarin stapsgewijs wordt aangegeven hoe de ambtenaren bij de uitvoering van hun taken omgaan met signalen van huiselijk geweld of kindermishandeling en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.    
 5. De ambtenaren, bedoeld in het eerste lid, tweede volzin, zijn belast met de opsporing van de bij deze wet strafbaar gestelde feiten, onverminderd artikel 141 van het Wetboek van Strafvordering. 
-6.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning.   
-7.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1 van de Wet op de jeugdzorg.   
+6.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015.   
+7.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1.1 van de Jeugdwet.   
 8.  Het college van burgemeester en wethouders bevordert de kennis en het gebruik van de meldcode onder deze ambtenaren.   
 9.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat. 
 

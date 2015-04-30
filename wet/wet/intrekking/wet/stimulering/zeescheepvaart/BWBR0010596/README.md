@@ -27,7 +27,7 @@ d. de instelling van beroep tegen een besluit op grond van de Wet stimulering ze
 
 ### ARTIKEL  III  
 
-Het bepaalde bij en krachtens artikel 26 van de Wet stimulering zeescheepvaart blijft van toepassing ten behoeve van het toezicht op de naleving van de op grond van artikel II van toepassing blijvende bepalingen, met dien verstande dat de toezichthouders niet beschikken over de bevoegdheden, genoemd in de [artikelen 5:15](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:17 tot en met 5:19 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+Het bepaalde bij en krachtens artikel 26 van de Wet stimulering zeescheepvaart blijft van toepassing ten behoeve van het toezicht op de naleving van de op grond van artikel II van toepassing blijvende bepalingen, met dien verstande dat de toezichthouders niet beschikken over de bevoegdheden, genoemd in de artikelen 5:15 en 5:17 tot en met 5:19 van de Algemene wet bestuursrecht. 
 
 ### ARTIKEL  IV  
 

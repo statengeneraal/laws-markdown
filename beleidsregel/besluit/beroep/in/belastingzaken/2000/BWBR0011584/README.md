@@ -2,7 +2,7 @@
 
 ##Besluit beroep in belastingzaken 2000
 
-De Staatssecretaris van Financiën,  Besluit: Vast te stellen het volgende besluit voor de ambtenaren van de Belastingdienst met betrekking tot de uitvoering van de betreffende bepalingen uit de [Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (Wet van 4 juni 1992, Stb. 1994,1, laatstelijk gewijzigd bij Wet van 22 december 1999, Stb. 575 en de [Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (Wet van 2 juli 1959, Stb. 301, laatstelijk gewijzigd bij Wet van 22 december 1999, Stb. 579).      
+De Staatssecretaris van Financiën,  Besluit: Vast te stellen het volgende besluit voor de ambtenaren van de Belastingdienst met betrekking tot de uitvoering van de betreffende bepalingen uit de Algemene wet bestuursrecht (Wet van 4 juni 1992, Stb. 1994,1, laatstelijk gewijzigd bij Wet van 22 december 1999, Stb. 575 en de Algemene wet inzake rijksbelastingen (Wet van 2 juli 1959, Stb. 301, laatstelijk gewijzigd bij Wet van 22 december 1999, Stb. 579).      
 
 ####Algemeen
 
@@ -53,7 +53,7 @@ Resultaat en belang van de uitspraak van het Gerechtshof, de Tariefcommissie en/
 
 ####(Inzending verweerschriften e.d.)
 
-Behoudens in de in § 4 en § 5 bedoelde gevallen zendt de inspecteur steeds binnen de in [artikel 8:42 Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) daarvoor gestelde termijn van vier weken zijn geschriften, zoals een ondertekend verweerschrift, en andere op de zaak betrekking hebbende stukken aan het gerechtshof.  
+Behoudens in de in § 4 en § 5 bedoelde gevallen zendt de inspecteur steeds binnen de in artikel 8:42 Algemene wet bestuursrecht daarvoor gestelde termijn van vier weken zijn geschriften, zoals een ondertekend verweerschrift, en andere op de zaak betrekking hebbende stukken aan het gerechtshof.  
 
 ### §  4  
 
@@ -77,7 +77,7 @@ de belastingplichtige trekt het beroepschrift snel in zonder de inspecteur veel 
 
 ####(Termijn van inzending)
 
-In gevallen waarin het niet mogelijk blijkt het verweerschrift in te zenden binnen de in [artikel 8:42, eerste lid, Awb](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gestelde termijn van vier weken, kan de inspecteur het gerechtshof schriftelijk verzoeken om verlenging van deze termijn. De inspecteur maakt van deze mogelijkheid slechts in uitzonderingsgevallen gebruik onder vermelding van de omstandigheden die het tijdig inzenden van het verweerschrift verhinderen.  
+In gevallen waarin het niet mogelijk blijkt het verweerschrift in te zenden binnen de in artikel 8:42, eerste lid, Awb gestelde termijn van vier weken, kan de inspecteur het gerechtshof schriftelijk verzoeken om verlenging van deze termijn. De inspecteur maakt van deze mogelijkheid slechts in uitzonderingsgevallen gebruik onder vermelding van de omstandigheden die het tijdig inzenden van het verweerschrift verhinderen.  
 
 ### §  6a  
 
@@ -110,7 +110,7 @@ d.  een afschrift van de uitspraak dan wel een afschrift van de kennisgeving waa
 
 ####(Geheimhouding)
 
-Van de zijde van de belastingdienst wordt geen beroep gedaan op [artikel 8:29, eerste lid, Awb](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), tenzij naar het oordeel van de belastingplichtige stukken aan het dossier moeten worden toegevoegd omdat zij op de zaak betrekking hebben. De inspecteur dient de toepassing van [artikel 8:29 Awb](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) te melden aan het Ministerie van Financiën, Directie Bedrijfsvoering en Beleid Klantbehandeling Belastingdienst.  
+Van de zijde van de belastingdienst wordt geen beroep gedaan op artikel 8:29, eerste lid, Awb, tenzij naar het oordeel van de belastingplichtige stukken aan het dossier moeten worden toegevoegd omdat zij op de zaak betrekking hebben. De inspecteur dient de toepassing van artikel 8:29 Awb te melden aan het Ministerie van Financiën, Directie Bedrijfsvoering en Beleid Klantbehandeling Belastingdienst.  
 
 ### §  7  
 
@@ -128,7 +128,7 @@ Indien het beroep is gericht tegen het niet tijdig doen van een uitspraak op een
 
 ####(Voorlopige voorziening)
 
-Indien belanghebbende op grond van [artikel 8:81 Awb](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) het gerechtshof om het treffen van een voorlopige voorziening heeft verzocht, verstrekt de inspecteur binnen de door het gerechtshof gestelde termijn de op de zaak betrekking hebbende stukken.  
+Indien belanghebbende op grond van artikel 8:81 Awb het gerechtshof om het treffen van een voorlopige voorziening heeft verzocht, verstrekt de inspecteur binnen de door het gerechtshof gestelde termijn de op de zaak betrekking hebbende stukken.  
 
 ####Conclusies van dupliek
 
@@ -162,14 +162,14 @@ De inzending van de conclusie van dupliek geschiedt met een begeleidende brief e
 
 ####(Mondelinge beantwoording verzoek om inlichtingen enz.)
 
-1.  Indien het gerechtshof, in het kader van het vooronderzoek op grond van [artikel 8:44 Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de inspecteur oproept om te worden gehoord, is de inspecteur verplicht aan deze oproep te voldoen.   
+1.  Indien het gerechtshof, in het kader van het vooronderzoek op grond van artikel 8:44 Algemene wet bestuursrecht de inspecteur oproept om te worden gehoord, is de inspecteur verplicht aan deze oproep te voldoen.   
 2.  Indien de inspecteur door bijzondere omstandigheden aan de door het gerechtshof gedane oproep niet kan voldoen, verzoekt hij het gerechtshof schriftelijk onder vermelding van deze omstandigheden om een nieuwe datum vast te stellen.   
 
 ### §  14b  
 
 ####(Schriftelijke beantwoording verzoek om inlichtingen enz.)
 
-1.  Indien het gerechtshof in het kader van het vooronderzoek op grond van [artikel 8:45 Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de inspecteur verzoekt schriftelijk inlichtingen te geven, is de inspecteur verplicht hierop te antwoorden binnen de door het gerechtshof daartoe gestelde termijn. Is door het gerechtshof géén termijn gesteld dan dient het antwoord zo spoedig mogelijk doch in ieder geval binnen vier weken te worden ingezonden.   
+1.  Indien het gerechtshof in het kader van het vooronderzoek op grond van artikel 8:45 Algemene wet bestuursrecht de inspecteur verzoekt schriftelijk inlichtingen te geven, is de inspecteur verplicht hierop te antwoorden binnen de door het gerechtshof daartoe gestelde termijn. Is door het gerechtshof géén termijn gesteld dan dient het antwoord zo spoedig mogelijk doch in ieder geval binnen vier weken te worden ingezonden.   
 2.  Heeft de griffier de inspecteur afschriften toegezonden van deskundigenrapporten of van tussen het gerechtshof enerzijds en belanghebbende of derden anderzijds gevoerde correspondentie, dan dient hij binnen de door het gerechtshof gestelde termijn schriftelijk hierover zijn mening te geven, dan wel mee te delen dat hij van de hem hiertoe geboden gelegenheid geen gebruik wenst te maken.   
 3.  Indien de inspecteur door bijzondere omstandigheden aan de door het gerechtshof gestelde termijnen niet kan voldoen, verzoekt hij het gerechtshof schriftelijk onder vermelding van deze omstandigheden, de termijn te verlengen.   
 

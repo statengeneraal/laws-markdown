@@ -3,16 +3,16 @@
 ##Bijstellingsregeling accijns van motorbrandstoffen 1997
 
 De Staatssecretaris van Financiën,  
-Gelet op de [artikelen 27a](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en [84c van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) in samenhang met artikel 66b van de Wet op de inkomstenbelasting 1964;
+Gelet op de artikelen 27a en 84c van de Wet op de accijns in samenhang met artikel 66b van de Wet op de inkomstenbelasting 1964;
 Besluit:     
 
 ###Artikel  I  
 
-Wijzigt de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md). 
+Wijzigt de Wet op de accijns. 
 
 ###Artikel  II  
 
-[Artikel 84a van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) vindt geen toepassing.  
+Artikel 84a van de Wet op de accijns vindt geen toepassing.  
 
 ###Artikel  III  
 

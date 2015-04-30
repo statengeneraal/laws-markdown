@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:  
 
-a. WAO: [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) (*Stb.* 1987, 89);  
+a. WAO: Wet op de arbeidsongeschiktheidsverzekering (*Stb.* 1987, 89);  
 
 b. WSW: Wet Sociale Werkvoorziening (*Stb.* 1967, 687);  
 

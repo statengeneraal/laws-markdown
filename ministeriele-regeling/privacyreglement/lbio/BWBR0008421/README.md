@@ -35,9 +35,9 @@ a.  inning kinderalimentatie ex art 1:408 BW;
 
 b.  uitvoering Verdrag van New York d.d. 20 juni 1956 Trb. 1957, nr. 121; 
 
-c.  vaststelling en inning van ouderbijdragen op grond van de [Wet op de Jeugdhulpverlening](../../../../wet/wet/op/de/jeugdhulpverlening/BWBR0004608/README.md), Stb. 1995, nr. 225; 
+c.  vaststelling en inning van ouderbijdragen op grond van de Wet op de Jeugdhulpverlening, Stb. 1995, nr. 225; 
 
-d.  overige krachtens de [Wet LBIO](../../../../wet/wet/landelijk/bureau/inning/onderhoudsbijdragen/BWBR0007292/README.md), opgedragen taken.   
+d.  overige krachtens de Wet LBIO, opgedragen taken.   
 
 ###Artikel  3  
 
@@ -94,7 +94,7 @@ d.  werkgevers en uitkeringsinstanties, die belast zijn met de afdracht van geld
 
 e.  deurwaarders; 
 
-f.  de plaatsende instellingen, verantwoordelijk voor de aan en afmeldingen van de plaatsingen in het kader van de [Wet op de Jeugdhulpverlening](../../../../wet/wet/op/de/jeugdhulpverlening/BWBR0004608/README.md); 
+f.  de plaatsende instellingen, verantwoordelijk voor de aan en afmeldingen van de plaatsingen in het kader van de Wet op de Jeugdhulpverlening; 
 
 g.  instellingen in het buitenland belast met de uitvoering van de taak genoemd in artikel 2 onder b.   
 
@@ -124,7 +124,7 @@ i.  betalingen plus de datum van de be-talingen, datum van doorbetaling van de o
 
 j.  begin en einddatum van de bijdrage; 
 
-k.  de plaatsende instantie in het kader van de [wet op de Jeugdhulpverlening](../../../../wet/wet/op/de/jeugdhulpverlening/BWBR0004608/README.md); 
+k.  de plaatsende instantie in het kader van de wet op de Jeugdhulpverlening; 
 
 l.  de aanvangsdatum van de plaatsing en de einddatum ervan; 
 

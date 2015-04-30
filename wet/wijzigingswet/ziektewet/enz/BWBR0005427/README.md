@@ -6,7 +6,7 @@ Wij, Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-N
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is maatregelen te treffen gericht op vermindering van het ziekteverzuim, beperking van langdurige arbeidsongeschiktheid en bevordering van de inschakeling van arbeidsongeschikte werknemers in het arbeidsproces teneinde het beroep op de arbeidsongeschiktheidsregelingen te beperken, te komen tot een herschikking van bevoegdheden in de [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md), alsmede enkele technische aanpassingen aan te brengen en daartoe de [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de Algemene Arbeidsongeschiktheidswet, het Burgerlijk Wetboek en enkele andere wetten te wijzigen, alsmede een regeling te treffen voor het overheidspersoneel;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is maatregelen te treffen gericht op vermindering van het ziekteverzuim, beperking van langdurige arbeidsongeschiktheid en bevordering van de inschakeling van arbeidsongeschikte werknemers in het arbeidsproces teneinde het beroep op de arbeidsongeschiktheidsregelingen te beperken, te komen tot een herschikking van bevoegdheden in de Ziektewet, alsmede enkele technische aanpassingen aan te brengen en daartoe de Ziektewet, de Wet op de arbeidsongeschiktheidsverzekering, de Algemene Arbeidsongeschiktheidswet, het Burgerlijk Wetboek en enkele andere wetten te wijzigen, alsmede een regeling te treffen voor het overheidspersoneel;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -73,11 +73,11 @@ Voor personen in dienst van staat, provincie, gemeente, waterschap of enig ander
 
 ### Artikel  XVII  
 
-[Artikel 29*a* van de Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) vervalt drie jaar na de dag van inwerkingtreding daarvan, tenzij voor die dag bij algemene maatregel van bestuur anders wordt bepaald. 
+Artikel 29*a* van de Ziektewet vervalt drie jaar na de dag van inwerkingtreding daarvan, tenzij voor die dag bij algemene maatregel van bestuur anders wordt bepaald. 
 
 ### Artikel  XVIII  
 
-Ten aanzien van degene, die op de dag, voorafgaande aan die waarop artikel II, onderdeel K, en artikel III, onderdeel L, in werking treden, recht had op een arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of de Algemene Arbeidsongeschiktheidswet en wiens mate van arbeidsongeschiktheid waarnaar die uitkering is berekend is vastgesteld met toepassing van [artikel 44*a* van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of artikel 33*a* van de Algemene Arbeidsongeschiktheidswet, blijven deze artikelen van toepassing zolang de periode van twee jaar, bedoeld in het tweede lid van deze artikelen, niet is verstreken. 
+Ten aanzien van degene, die op de dag, voorafgaande aan die waarop artikel II, onderdeel K, en artikel III, onderdeel L, in werking treden, recht had op een arbeidsongeschiktheidsuitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering of de Algemene Arbeidsongeschiktheidswet en wiens mate van arbeidsongeschiktheid waarnaar die uitkering is berekend is vastgesteld met toepassing van artikel 44*a* van de Wet op de arbeidsongeschiktheidsverzekering of artikel 33*a* van de Algemene Arbeidsongeschiktheidswet, blijven deze artikelen van toepassing zolang de periode van twee jaar, bedoeld in het tweede lid van deze artikelen, niet is verstreken. 
 
 ### Artikel  XIX  
 

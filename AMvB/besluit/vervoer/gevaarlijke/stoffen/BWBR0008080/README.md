@@ -26,9 +26,7 @@ b. ADR: Accord Européen relatif au transport international des marchandises dan
 
 c. ADN: Accord Européen relatif au Transport International des Marchandises Dangereuses par voie de Navigation;  
 
-d. RID: Règlement concernant le transport international ferroviaire des marchandises dangereuses;  
-
-e. ontplofbare stoffen en voorwerpen: ontplofbare stoffen en voorwerpen als bedoeld in artikel 1, eerste lid, onderdeel *b*, 1°, van de wet.   
+d. RID: Règlement concernant le transport international ferroviaire des marchandises dangereuses.   
 
 ### Artikel  2  
 
@@ -107,23 +105,40 @@ d. voldoende sterk en bestand zijn tegen normale behandeling en normale vervoers
 
 ### Artikel  5  
 
-1.  Bij ministeriële regeling worden gevaarlijke stoffen aangewezen als gevaarlijke stoffen, bedoeld in artikel 12, eerste lid, van de wet: 
+1.  Een aanvraag om een ontheffing als bedoeld in artikel 27 van de wet bevat in elk geval de volgende gegevens: 
 
-a. voor zover de gevaarzetting van de desbetreffende stof daartoe aanleiding geeft;  
+a. de herkomst en bestemming van het vervoer waarvoor de ontheffing wordt aangevraagd,  
 
-b. in nader te bepalen hoeveelheden.     
-2.  Tot de stoffen, bedoeld in het eerste lid, worden in ieder geval gerekend de gevaarlijke stoffen, bedoeld in artikel 1, eerste lid, onderdeel *b* van de wet: 
+b. indien een ontheffing voor een termijn van ten hoogste twaalf maanden wordt aangevraagd, de te verwachten hoeveelheid van de betrokken gevaarlijke stof die vervoerd wordt binnen die termijn,  
 
-a. onder 1°;  
+c. indien een ontheffing voor onbepaalde tijd wordt aangevraagd of voor een termijn van meer dan twaalf maanden, de te verwachten hoeveelheid van de betrokken gevaarlijke stof die vervoerd wordt gedurende twaalf aaneengesloten maanden,  
 
-b. onder 2°, voor zover deze stoffen in het ADR als giftig worden aangemerkt;  
+d. het type vervoermiddel waarmee de betrokken gevaarlijke stof wordt vervoerd,  
 
-c. onder 3°, 5°, 6°, 7°, 9° en 11°, voor zover deze stoffen in het ADR als zeer gevaarlijk worden aangemerkt.     
-3.  Bij ministeriële regeling kunnen voor het vervoer over de binnenwateren of over de spoorwegen gevaarlijke stoffen, in nader te bepalen gevallen, worden aangewezen als gevaarlijke stoffen, bedoeld in artikel 12, tweede lid, van de wet: 
+e. een vermelding van de periode van de dag, van de maand of van het jaar waarin het vervoer zal plaatsvinden, voor zover deze informatie beschikbaar is, en  
 
-a. voor zover de gevaarzetting van de desbetreffende stof daartoe aanleiding geeft;  
+f. een onderbouwing dat vervoer van de betrokken gevaarlijke stof over een andere route of door middel van een andere vervoersmodaliteit redelijkerwijs niet kan worden gevergd.     
+2.  Een aanvraag om een ontheffing als bedoeld in artikel 27, eerste lid, onder b, van de wet bevat tevens gegevens en bescheiden waaruit blijkt: 
 
-b. in nader te bepalen hoeveelheden.Het tweede lid is van overeenkomstige toepassing, met dien verstande dat voor ADR gelezen wordt: ADN onderscheidenlijk RID.    
+a. of en in welke mate door de maatregel een beperking van de kans op of de effecten van een ongeval gedurende het vervoer is te verwachten, en  
+
+b. of de toepassing van de maatregel gedurende het vervoer is verzekerd.     
+3.  Een aanvraag om een ontheffing met betrekking tot het spoorvervoer van chloor en ammoniak als bedoeld in artikel 27, tweede lid, van de wet bevat tevens een onderbouwing van het maatschappelijk belang van dat vervoer.   
+4.  Aan een ontheffing als bedoeld in artikel 27 van de wet kunnen beperkingen worden verbonden die betrekking hebben op: 
+
+a. de hoeveelheid van de te vervoeren gevaarlijke stof;  
+
+b. de wijze waarop het vervoer van de betrokken gevaarlijke stof plaatsvindt;  
+
+c. de termijn waarvoor de ontheffing geldt;  
+
+d. de periode van de dag, van de maand of van het jaar waarin het vervoer van de betrokken gevaarlijke stof is toegestaan;  
+
+e. de toegestane duur van oponthoud en onderbrekingen tijdens het vervoer;  
+
+f. indien het vervoer per trein plaatsvindt, de samenstelling of de snelheid van de trein.     
+5.  Aan een ontheffing ten aanzien van het spoorvervoer van chloor en ammoniak als bedoeld in artikel 27, tweede lid, van de wet, wordt de beperking verbonden dat deze alleen geldt op daarbij aangewezen hoofdspoorwegen.   
+6.  Dit artikel is niet van toepassing op een ontheffing op verzoek van Onze Minister van Defensie als bedoeld in artikel 27, derde en vijfde lid, van de wet.  
 
 ### §  3  
 

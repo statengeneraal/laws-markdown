@@ -3,7 +3,7 @@
 ##Keuzeregeling verlaging pensioenbijdrage militair
 
 De Staatssecretaris van Defensie,
-Gelet op artikel F 6c, vierde lid, van de Algemene militaire pensioenwet en [artikel 82 van de Wet financiële voorzieningen privatisering ABP](../../../../../../wet/wet/financiële/voorzieningen/privatisering/abp/BWBR0007211/README.md);
+Gelet op artikel F 6c, vierde lid, van de Algemene militaire pensioenwet en artikel 82 van de Wet financiële voorzieningen privatisering ABP;
 Besluit:  
 
 ###Artikel 1 

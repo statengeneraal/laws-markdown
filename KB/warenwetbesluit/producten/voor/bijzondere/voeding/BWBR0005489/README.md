@@ -30,7 +30,9 @@ b. *richtlijn 89/398/EEG*: richtlijn nr. 89/398/EEG van de Raad van de Europese 
 
 c. *verordening (EG) 953/2009*: verordening (EG) nr. 953/2009 van de Commissie van de Europese Gemeenschappen van 13 oktober 2009 inzake stoffen die voor specifieke voedingsdoeleinden aan voor bijzondere voeding bestemde levensmiddelen mogen worden toegevoegd (PbEU L 269);  
 
-d. *verordening (EG) 41/2009:* verordening (EG) nr. 41/2009 van de Commissie van de Europese Gemeenschappen van 20 januari 2009 betreffende de samenstelling en de etikettering van levensmiddelen die geschikt zijn voor personen met een glutenintolerantie (PbEU L 16).    
+d. *verordening (EG) 41/2009:* verordening (EG) nr. 41/2009 van de Commissie van de Europese Gemeenschappen van 20 januari 2009 betreffende de samenstelling en de etikettering van levensmiddelen die geschikt zijn voor personen met een glutenintolerantie (PbEU L 16); 
+
+e.  *verordening (EU) 1169/2011:* Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van Verordeningen (EG) nr. 1924/2006 en (EG) nr. 1925/2006 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 87/250/EEG van de Commissie, Richtlijn 90/496/EEG van de Raad, Richtlijn 1999/10/EG van de Commissie, Richtlijn 2000/13/EG van het Europees Parlement en de Raad, Richtlijnen 2002/67/EG en 2008/5/EG van de Commissie, en Verordening (EG) nr. 608/2004 van de Commissie (PbEU 2011, L 304).    
 2.   Een product voor bijzondere voeding moet voldoen aan de bijzondere voedingsbehoeften:  
 
 a. van bepaalde categorieën personen wier assimilatieproces of stofwisseling is verstoord;   
@@ -66,7 +68,7 @@ c. van zuigelingen, peuters of kleuters, in goede gezondheid.
 
 ### Artikel  5  
 
-producten voor bijzondere voeding mogen uitsluitend voorverpakt in de zin van artikel 1, onder c juncto onder b, van het Warenwetbesluit Etikettering van levensmiddelen (Stb. 1992, 14) worden verhandeld. De verpakking moet de waar volledig omsluiten.  
+Producten voor bijzondere voeding mogen uitsluitend als voorverpakt levensmiddel als bedoeld in artikel 2, tweede lid, onder e, van verordening (EU) 1169/2011 worden verhandeld. De verpakking moet de waar volledig omsluiten.  
 
 ### §  3  
 
@@ -79,8 +81,8 @@ producten voor bijzondere voeding mogen uitsluitend voorverpakt in de zin van ar
 
 ### Artikel  7  
 
-1.  Onverminderd het Warenwetbesluit Etikettering van levensmiddelen moet bij de verhandeling van producten voor bijzondere voeding, bedoeld in artikel 1, tweede lid, onder a en b, een vermelding worden gebezigd betreffende de bijzondere voedingskenmerken van de betrokken waar.    
-2.   Onverminderd het Warenwetbesluit Etikettering van Levensmiddelen moet bij de verhandeling van producten voor bijzondere voeding, bedoeld in artikel 1, tweede lid, onder c, een vermelding worden gebezigd betreffende de bestemming van de waar.    
+1.  Onverminderd verordening (EU) 1169/2011 moet bij de verhandeling van producten voor bijzondere voeding, bedoeld in artikel 1, tweede lid, onder a en b, een vermelding worden gebezigd betreffende de bijzondere voedingskenmerken van de betrokken waar.    
+2.  Onverminderd verordening (EU) 1169/2011 moet bij de verhandeling van producten voor bijzondere voeding, bedoeld in artikel 1, tweede lid, onder c, een vermelding worden gebezigd betreffende de bestemming van de waar.    
 3.   De artikelen 19, eerste lid, onderdeel a, en 20, tweede lid, onder a, van de Warenwet (Stb. 1988, 360), zijn niet van toepassing, voor zover het betreft het verstrekken van nuttige inlichtingen en aanbevelingen met betrekking tot de in dit besluit bedoelde waren, die uitsluitend zijn bestemd voor personen die bevoegd zijn op het gebied van geneeskunde, voeding of farmacie.   
 
 ### Artikel  8  

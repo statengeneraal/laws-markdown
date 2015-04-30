@@ -3,7 +3,7 @@
 ##Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Flora en Fauna vanaf 1945 (Minister van Volksgezondheid, Welzijn en Sport)
 
 De Minister van Onderwijs, Cultuur en Wetenschap, en de Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
+Gelet op artikel 5, tweede lid, onder b, van de Archiefwet 1995;
 
 De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 18 januari 2006, arc-2006.03456/10);
 Besluiten:    
@@ -85,7 +85,7 @@ Uitgaande van de algemene selectiedoelstelling heeft PIVOT in 1998 een (gewijzig
 
 #### *Algemeen selectiecriterium* 
 
-1. Handelingen die betrekking hebben op *voorbereiding en bepaling van beleid* op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op *evaluatie van beleid* op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben *verantwoording* van beleid op hoofdlijnen aan andere actoren  *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op *(her)inrichting van organisaties* belast met beleid op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop *beleidsuitvoering* op hoofdlijnen plaatsvindt  *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten  *Toelichting:* Bijvoorbeeld in het geval de Ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Overigens kan, ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) neerslag van bepaalde, als te vernietigen gewaardeerde handelingen, betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. Naast de algemene criteria kunnen er in een BSD, eveneens binnen het kader van de selectiedoelstelling, in overleg met de RAD, beleidsterreinspecifieke criteria worden geformuleerd. Deze criteria worden doorlopend genummerd, waarbij wordt aangesloten bij de zes algemene criteria (dus vanaf 7).  
+1. Handelingen die betrekking hebben op *voorbereiding en bepaling van beleid* op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op *evaluatie van beleid* op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben *verantwoording* van beleid op hoofdlijnen aan andere actoren  *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op *(her)inrichting van organisaties* belast met beleid op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop *beleidsuitvoering* op hoofdlijnen plaatsvindt  *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten  *Toelichting:* Bijvoorbeeld in het geval de Ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Overigens kan, ingevolge artikel 5, onder e, van het Archiefbesluit 1995 neerslag van bepaalde, als te vernietigen gewaardeerde handelingen, betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. Naast de algemene criteria kunnen er in een BSD, eveneens binnen het kader van de selectiedoelstelling, in overleg met de RAD, beleidsterreinspecifieke criteria worden geformuleerd. Deze criteria worden doorlopend genummerd, waarbij wordt aangesloten bij de zes algemene criteria (dus vanaf 7).  
 
 #### *Verslag van de vaststellingsprocedure* 
 
@@ -113,7 +113,7 @@ Deze commissie is ingesteld door de rechtsvoorganger van de Minister van Landbou
 Hij is verantwoordelijk voor natuurbescherming en de vanuit dit oogpunt geregelde bescherming van planten- en diersoorten. 
 ###– Natuurbeschermingsraad
 
-Ingesteld door de Minister van Cultuur, Recreatie en Maatschappelijk Werk bij de [Natuurbeschermingswet](../../../../../../../../../wet/natuurbeschermingswet/BWBR0002611/README.md) (Stb. 1967, 572). De raad was in de periode 1968–1983 onderdeel van genoemd Ministerie. Sinds 1983 maakt de raad deel uit van het Ministerie van LNV. Ze had tot taak de Minister te adviseren in zaken op het gebied van natuurbescherming en het verrichten van opgedragen werkzaamheden. De Commissie van Faunabescherming is onderdeel van deze raad. 
+Ingesteld door de Minister van Cultuur, Recreatie en Maatschappelijk Werk bij de Natuurbeschermingswet (Stb. 1967, 572). De raad was in de periode 1968–1983 onderdeel van genoemd Ministerie. Sinds 1983 maakt de raad deel uit van het Ministerie van LNV. Ze had tot taak de Minister te adviseren in zaken op het gebied van natuurbescherming en het verrichten van opgedragen werkzaamheden. De Commissie van Faunabescherming is onderdeel van deze raad. 
 ###– Adviescommissie Wet bedreigde uitheemse diersoorten
 
 Ingesteld door de rechtsvoorganger van de Minister van Landbouw, Natuur en Voedselvoorziening bij Besluit (Stb. 1975, 9). Deze commissie had tot taak de staatssecretaris van LNV te adviseren over maatregelen ter uitvoering van de Wet bedreigde uitheemse diersoorten enerzijds, en taken uit te voeren die bepaald waren in de Conventie van Washington. 
@@ -122,16 +122,16 @@ Ingesteld door de rechtsvoorganger van de Minister van Landbouw, Natuur en Voeds
 
 ###– De Minister onder wie Financiën ressorteert
 
-Deze Minister had enkele taken op het beleidsterrein Flora en Fauna, die voortvloeiden uit de Nuttige Dierenwet (Stb. 1914, 262), de [Jachtwet](../../../../../../../../../wet/jachtwet/BWBR0002155/README.md) (Stb. 1923, 331, Stb. 1954, 523, Stb. 1977, 387) en de wet Bedreigde Uitheemse Diersoorten (Stb. 1975, 48). 
+Deze Minister had enkele taken op het beleidsterrein Flora en Fauna, die voortvloeiden uit de Nuttige Dierenwet (Stb. 1914, 262), de Jachtwet (Stb. 1923, 331, Stb. 1954, 523, Stb. 1977, 387) en de wet Bedreigde Uitheemse Diersoorten (Stb. 1975, 48). 
 
 #### *Actoren onder de zorg van de Minister van Justitie* 
 
 ###– De Minister onder wie Justitie ressorteert
 
-Deze Minister had een taak op het beleidsterrein Flora en Fauna, die voortvloeide uit de [Jachtwet](../../../../../../../../../wet/jachtwet/BWBR0002155/README.md) (Stb. 1923, 331 en Stb. 1954, 523). 
+Deze Minister had een taak op het beleidsterrein Flora en Fauna, die voortvloeide uit de Jachtwet (Stb. 1923, 331 en Stb. 1954, 523). 
 ###– Het Openbaar Ministerie
 
-Het Openbaar Ministerie had taken op het beleidsterrein Flora en Fauna, die voortvloeiden uit de Molwet (Stb. 1917, 706), de [Jachtwet](../../../../../../../../../wet/jachtwet/BWBR0002155/README.md) (Stb. 1923, 331) en de Vogelwet (Stb. 1936, 700, Stb. 1947, H12). 
+Het Openbaar Ministerie had taken op het beleidsterrein Flora en Fauna, die voortvloeiden uit de Molwet (Stb. 1917, 706), de Jachtwet (Stb. 1923, 331) en de Vogelwet (Stb. 1936, 700, Stb. 1947, H12). 
 
 ####Selectielijst
 

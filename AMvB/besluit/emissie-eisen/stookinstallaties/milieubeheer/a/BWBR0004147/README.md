@@ -8,7 +8,7 @@ Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en
 
 Overwegende dat het, gelet op de problematiek van de verzuring van het milieu en met het oog op de kwaliteit van de buitenlucht, wenselijk is ter beperking van de luchtverontreiniging door zwaveloxiden, stikstofoxiden en stof, eisen te stellen aan de emissie van die stoffen door stookinstallaties, behorende tot vergunningplichtige inrichtingen;
 
-Gelet op de [artikelen 13](../../../../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md), [20a](../../../../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md), [88, eerste, derde en vierde lid, van de Wet inzake de luchtverontreiniging](../../../../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md) (Stb. 1981, 411);
+Gelet op de artikelen 13, 20a, 88, eerste, derde en vierde lid, van de Wet inzake de luchtverontreiniging (Stb. 1981, 411);
 
 Gehoord de Centrale raad voor de milieuhygiëne (advies van 11 september 1985);
 
@@ -24,23 +24,23 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  
 
-a. wet: [Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+a. wet: Wet milieubeheer;  
 
-b. inrichting: een inrichting die behoort tot een of meer van de categorieën van inrichtingen, die zijn genoemd in [bijlage I, onder C, bij het Besluit omgevingsrecht](../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), onder:  1.3, onder *b*, 2.6, onder *a*, 4.3, 5.3, 6.2, 8.1, onder *e*, 8.2, onder *a*, 9.3, onder *g* of *j*, 11.3, onder *a*, *b*, *c*, 1°, 4°, 6°, *f*, *h*, voor zover het betreft een inrichting met een capaciteit van 100.10<sup>6</sup> kg per jaar of meer, of *k*, 2°, 12.2, onder *a*, *h* of *i*, 13.3, onder *c*, 24.2, of 28.4, onder *e*, voor zover het betreft een inrichting met een capaciteit van 1,5.10<sup>3</sup> kg per uur of meer.  
+b. inrichting: een inrichting die behoort tot een of meer van de categorieën van inrichtingen, die zijn genoemd in bijlage I, onder C, bij het Besluit omgevingsrecht, onder:  1.3, onder *b*, 2.6, onder *a*, 4.3, 5.3, 6.2, 8.1, onder *e*, 8.2, onder *a*, 9.3, onder *g* of *j*, 11.3, onder *a*, *b*, *c*, 1°, 4°, 6°, *f*, *h*, voor zover het betreft een inrichting met een capaciteit van 100.10<sup>6</sup> kg per jaar of meer, of *k*, 2°, 12.2, onder *a*, *h* of *i*, 13.3, onder *c*, 24.2, of 28.4, onder *e*, voor zover het betreft een inrichting met een capaciteit van 1,5.10<sup>3</sup> kg per uur of meer.  
 
 c. vergunning: een omgevingsvergunning voor een inrichting voor zover deze betrekking heeft op een stookinstallatie;  
 
 d. kolen: steenkool of uit steenkool vervaardigde vaste brandstoffen, bruinkool en geperste bruinkool;  
 
-e. zware stookolie: zware stookolie in de zin van de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) (*Stb.* 1991, 561) alsmede aardolie en produkten van aardolie waarvan het vloeipunt boven 40°C ligt;  
+e. zware stookolie: zware stookolie in de zin van de Wet op de accijns (*Stb.* 1991, 561) alsmede aardolie en produkten van aardolie waarvan het vloeipunt boven 40°C ligt;  
 
-f. gasolie: gasolie in de zin van de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md);  
+f. gasolie: gasolie in de zin van de Wet op de accijns;  
 
-g. vloeibare brandstoffen: zware stookolie alsmede andere brandstoffen die bij een temperatuur van 293 Kelvin en een druk van 101,3 kiloPascal in vloeibare toestand verkeren, daaronder begrepen minerale oliën in de zin van de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), welke bij genoemde temperatuur en druk niet vloeibaar zijn;  
+g. vloeibare brandstoffen: zware stookolie alsmede andere brandstoffen die bij een temperatuur van 293 Kelvin en een druk van 101,3 kiloPascal in vloeibare toestand verkeren, daaronder begrepen minerale oliën in de zin van de Wet op de accijns, welke bij genoemde temperatuur en druk niet vloeibaar zijn;  
 
 h. gasvormige brandstoffen: brandstoffen die bij een temperatuur van 293 Kelvin en een druk van 101,3 kiloPascal in gasvormige toestand verkeren;  
 
-i. LPG: vloeibaar gemaakt petroleumgas als bedoeld in [artikel 26 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md);  
+i. LPG: vloeibaar gemaakt petroleumgas als bedoeld in artikel 26 van de Wet op de accijns;  
 
 j. aardgas van standaardkwaliteit: aardgas, waarvan de onderste verbrandingswaarde 38 MJ/kg is;  
 
@@ -78,7 +78,7 @@ z. procesfornuis: een stookinstallatie die in hoofdzaak gebruikt wordt voor ande
 
 aa. rookgasdebiet: de volumehoeveelheid rookgas per tijdseenheid, uitgedrukt in m<sup>3</sup> per uur;  
 
-bb. brandstof: een brandstof in de zin van de [Wet inzake de luchtverontreiniging](../../../../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md);  
+bb. brandstof: een brandstof in de zin van de Wet inzake de luchtverontreiniging;  
 
 cc. bevoegd gezag: het bestuursorgaan dat bevoegd is een omgevingsvergunning voor de betrokken inrichting te verlenen;  
 
@@ -122,7 +122,7 @@ b. andere stookinstallaties dan zuigermotoren, waarin brandstoffen worden gebrui
 
 5°. gasturbines en gasturbine-installaties, waarvoor voor 27 november 2002 vergunning is verleend, waarvan het jaarlijks aantal bedrijfsuren niet meer bedraagt dan 500, gasturbines en gasturbine-installaties, waarvoor op of na 27 november 2002 vergunning is verleend, met een thermisch vermogen van minder dan 50 MW waarvan het jaarlijks aantal bedrijfsuren niet meer bedraagt dan 500 en gasturbines en gasturbine-installaties met een netto-asvermogen van niet meer dan 1 MW; 
 
-6°. stookinstallaties waarvoor emissie-eisen zijn gesteld in [paragraaf 5.2 van het Activiteitenbesluit milieubeheer](../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md);  
+6°. stookinstallaties waarvoor emissie-eisen zijn gesteld in paragraaf 5.2 van het Activiteitenbesluit milieubeheer;  
 
 7°. bestaande stookinstallaties met een thermisch vermogen van minder dan 50 megawatt die blijkens de daarvoor geldende vergunning bestemd zijn voor tijdelijk bedrijf van niet meer dan 500 uren per jaar;   
 
@@ -133,9 +133,9 @@ b. andere stookinstallaties dan zuigermotoren, waarin brandstoffen worden gebrui
 10°.technische voorzieningen voor de zuivering van rookgassen door verbranding die niet als autonome stookinstallatie worden geëxploiteerd.    
 2.  Dit besluit is niet van toepassing op een stookinstallatie waarop van toepassing is: 
 
-a. [paragraaf 5.1 van het Besluit algemene regels voor inrichtingen milieubeheer](../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), of  
+a. paragraaf 5.1 van het Besluit algemene regels voor inrichtingen milieubeheer, of  
 
-b. [paragraaf 3.2.1 van het Besluit algemene regels inrichtingen milieubeheer](../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) .   
+b. paragraaf 3.2.1 van het Besluit algemene regels inrichtingen milieubeheer .   
 
 ###Artikel 3 
 
@@ -213,7 +213,7 @@ Bij afwisselend gebruik van verschillende soorten brandstof in een stookinstalla
 a.bij een stookinstallatie waarvoor in de periode van 29 mei 1987 tot en met 26 november 2002 vergunning is verleend en waarvan het thermisch vermogen 400 MW of minder is, op basis van een emissie-eis van 700 mg/m<sup>3</sup> voor vaste brandstoffen en van 1000 mg/m<sup>3</sup> voor zware stookolie;
 
 b.bij een stookinstallatie voor zware stookolie waarvoor op of na 27 november 2002 vergunning is verleend en waarvan het thermisch vermogen 50 MW of meer is, maar minder dan 100 MW, op basis van een emissie-eis van 850 mg/m<sup>3</sup>. 
-5. In afwijking van het eerste lid geldt, indien bij of krachtens dit besluit geen emissie-eis voor zwaveldioxide is gesteld, als emissie-eis de emissie van zwaveldioxide die zou ontstaan door het verbranden van brandstoffen met het zwavelgehalte dat op grond van het [Besluit zwavelgehalte brandstoffen](../../../../../../../AMvB/besluit/zwavelgehalte/brandstoffen/BWBR0002939/README.md) ten hoogste is toegestaan. 
+5. In afwijking van het eerste lid geldt, indien bij of krachtens dit besluit geen emissie-eis voor zwaveldioxide is gesteld, als emissie-eis de emissie van zwaveldioxide die zou ontstaan door het verbranden van brandstoffen met het zwavelgehalte dat op grond van het Besluit zwavelgehalte brandstoffen ten hoogste is toegestaan. 
 
 ###Artikel 10 
 
@@ -224,11 +224,11 @@ b.bij een stookinstallatie voor zware stookolie waarvoor op of na 27 november 20
 
 In plaats van de datum van de vergunningverlening geldt:
 
-a.indien van een stookinstallatie na de datum van vergunningverlening de combinatie van brander en vuurhaard door een andere combinatie wordt vervangen of daaraan veranderingen worden aangebracht, die met nieuwbouw van de stookinstallatie overeenkomen, dan wel de stookinstallatie geheel wordt vervangen, voor de toepassing van de artikelen 11, derde lid, 12, derde en vierde lid, 13, tweede, derde en vierde lid, en 23, indien voor bedoelde verandering een vergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, onder 2°, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) dan wel, indien een dergelijke vergunning niet is verleend, de datum waarop bedoelde verandering is uitgevoerd;
+a.indien van een stookinstallatie na de datum van vergunningverlening de combinatie van brander en vuurhaard door een andere combinatie wordt vervangen of daaraan veranderingen worden aangebracht, die met nieuwbouw van de stookinstallatie overeenkomen, dan wel de stookinstallatie geheel wordt vervangen, voor de toepassing van de artikelen 11, derde lid, 12, derde en vierde lid, 13, tweede, derde en vierde lid, en 23, indien voor bedoelde verandering een vergunning als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, onder 2°, van de Wet algemene bepalingen omgevingsrecht dan wel, indien een dergelijke vergunning niet is verleend, de datum waarop bedoelde verandering is uitgevoerd;
 
-b.indien de capaciteit van een stookinstallatie met een thermisch vermogen van 50 MW of meer op of na 27 november 2002 met 50 MW of meer wordt uitgebreid, voor de toepassing van dit besluit met betrekking tot het uitgebreide gedeelte van de installatie de datum waarop voor bedoelde verandering een een vergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, onder 2°, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is verleend dan wel, indien een dergelijke vergunning niet is verleend, de datum waarop bedoelde verandering is uitgevoerd;
+b.indien de capaciteit van een stookinstallatie met een thermisch vermogen van 50 MW of meer op of na 27 november 2002 met 50 MW of meer wordt uitgebreid, voor de toepassing van dit besluit met betrekking tot het uitgebreide gedeelte van de installatie de datum waarop voor bedoelde verandering een een vergunning als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, onder 2°, van de Wet algemene bepalingen omgevingsrecht is verleend dan wel, indien een dergelijke vergunning niet is verleend, de datum waarop bedoelde verandering is uitgevoerd;
 
-c.indien een stookinstallatie met een thermisch vermogen van 50 MW of meer op of na 27 november 2002 wordt veranderd dan wel de werking hiervan na die datum wordt veranderd op een wijze die naar het oordeel van het bevoegd gezag negatieve en significante effecten kan hebben op mens of milieu, voorzover onderdeel b niet van toepassing is, voor de toepassing van dit besluit de datum waarop voor bedoelde verandering een een vergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, onder 2°, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is verleend, dan wel, indien een dergelijke vergunning niet is verleend, de datum waarop bedoelde verandering is uitgevoerd. 
+c.indien een stookinstallatie met een thermisch vermogen van 50 MW of meer op of na 27 november 2002 wordt veranderd dan wel de werking hiervan na die datum wordt veranderd op een wijze die naar het oordeel van het bevoegd gezag negatieve en significante effecten kan hebben op mens of milieu, voorzover onderdeel b niet van toepassing is, voor de toepassing van dit besluit de datum waarop voor bedoelde verandering een een vergunning als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, onder 2°, van de Wet algemene bepalingen omgevingsrecht is verleend, dan wel, indien een dergelijke vergunning niet is verleend, de datum waarop bedoelde verandering is uitgevoerd. 
 
 ###Artikel 10b 
 
@@ -242,7 +242,7 @@ Bij een stookinstallatie met een thermisch vermogen van 50 MW of meer waarvoor o
 
 1.  Bij een stookinstallatie met een nominaal elektrisch vermogen van 300 MW of meer, waarvoor op of na 25 juni 2011 een vergunning is verleend, wordt onderzocht: 
 
-a. of er geschikte CO<sub>2</sub>-opslagcomplexen als bedoeld in de [Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md) voorhanden zijn;  
+a. of er geschikte CO<sub>2</sub>-opslagcomplexen als bedoeld in de Mijnbouwwet voorhanden zijn;  
 
 b. welke faciliteiten voor het transport van CO<sub>2</sub> in technisch en economisch opzicht haalbaar zijn, en  
 
@@ -694,7 +694,7 @@ b. voor een stookinstallatie anders dan bedoeld onder a:
 4.  Een keuring als bedoeld in het eerste of tweede lid wordt verricht door een persoon die beschikt over een geldig certificaat dat is afgegeven door een instantie die door een accreditatie-instantie is geaccrediteerd teneinde uitvoering te kunnen geven aan de «Beoordelingrichtlijn voor het uitvoeren van onderhoud en inspecties aan stookinstallaties» van de Stichting Certificatie Inspectie en Onderhoud Stookinstallaties. Degene die de inrichting drijft vraagt van degene die een keuring verricht een door hem opgesteld en ondertekend verslag van die keuring, waaruit ten minste blijkt wanneer en door wie de keuring is verricht en de resultaten van de keuring.   
 5.  Bij ministeriële regeling worden nadere voorschriften gegeven betreffende de in het vierde lid bedoelde beoordelingrichtlijn.   
 6.  Met een certificaat als bedoeld in het vierde lid wordt gelijkgesteld een certificaat afgegeven door een daartoe bevoegd verklaarde certificeringinstelling in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, welk certificaat is afgegeven op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale onderzoekingen of normdocumenten wordt gewaarborgd.   
-7.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om accreditatie als bedoeld in het vierde lid.  
+7.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op de aanvraag om accreditatie als bedoeld in het vierde lid.  
 8.  Indien uit een keuring als bedoeld in het vierde lid blijkt dat de stookinstallatie onderhoud behoeft vindt dat onderhoud binnen twee weken na de keuring plaats. Degene die de inrichting drijft vraagt aan degene die onderhoud verricht aan de stookinstallatie, een door hem ondertekend bewijs waaruit blijkt wanneer, door wie en welk onderhoud is verricht.  
 
 ### Artikel  25b  
@@ -809,7 +809,7 @@ b.voor een stookinstallatie met een thermisch vermogen van 500 MW of meer: 200 m
 
 ###Artikel 28a 
 
-In afwijking van de artikelen 27 en 28 stelt het bevoegd gezag, indien tot de inrichting een IPPC-installatie behoort, voor een tot die IPPC-installatie behorende stookinstallatie strengere emissie-eisen dan de in dit besluit voor die installatie gestelde emissie-eisen, indien met laatstbedoelde eisen niet wordt voldaan aan het bepaalde bij of krachtens de [artikelen 2.14](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [2.22 van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).
+In afwijking van de artikelen 27 en 28 stelt het bevoegd gezag, indien tot de inrichting een IPPC-installatie behoort, voor een tot die IPPC-installatie behorende stookinstallatie strengere emissie-eisen dan de in dit besluit voor die installatie gestelde emissie-eisen, indien met laatstbedoelde eisen niet wordt voldaan aan het bepaalde bij of krachtens de artikelen 2.14 en 2.22 van de Wet algemene bepalingen omgevingsrecht.
 
 ### Artikel  29  
 
@@ -851,7 +851,7 @@ b.continue meting van de parameters van de voor een stookinstallatie vastgesteld
 2.  De bemonsteringen, analyses en metingen van de parameters die nodig zijn voor de bepaling van de concentraties, bedoeld in het eerste lid, alsmede de andere metingen en berekeningen die in dit besluit zijn voorgeschreven, worden uitgevoerd volgens daarop van toepassing zijnde NEN-EN- of, voor zover die ontbreken, NEN-normbladen. Met die normbladen worden gelijkgesteld normdocumenten die worden gesteld in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, en die een beschermingsniveau waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.  
 3. De ter voldoening aan dit besluit toegepaste uitworpkarakteristieken en de keuze van de continu te meten parameters zijn zodanig dat de concentraties in het rookgas daarmee steeds ondubbelzinnig kunnen worden vastgesteld. 
 4. Jaarlijks wordt een verificatietest uitgevoerd op de ter controle van een emissie-eis geïnstalleerde apparatuur en op de toegepaste uitworpkarakteristieken door middel van parallelle metingen. Om de drie jaar worden de geïnstalleerde apparatuur en de toegepaste uitworpkarakteristieken door middel van referentiemetingen gekalibreerd. 
-5.  Het uitvoeren van afzonderlijke metingen, parallelmetingen en referentiemetingen geschiedt door een instantie die voor deze verrichtingen geaccrediteerd is door een accreditatie-instantie. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om accreditatie als bedoeld in de eerste volzin.  
+5.  Het uitvoeren van afzonderlijke metingen, parallelmetingen en referentiemetingen geschiedt door een instantie die voor deze verrichtingen geaccrediteerd is door een accreditatie-instantie. Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op de aanvraag om accreditatie als bedoeld in de eerste volzin.  
 6. Een in het tweede bedoelde norm heeft betrekking op de laatst uitgegeven norm met de daarop uitgegeven aanvullingen en correctiebladen. Een uitgegeven norm, aanvulling of correctieblad wordt eerst van toepassing één jaar na de datum van uitgifte.
 
 ###Artikel 30c 
@@ -1092,11 +1092,11 @@ Onze Minister stelt nadere regels met betrekking tot de wijze waarop de concentr
 
 ### Artikel  46  
 
-1.  Ingeval met betrekking tot zware stookolie een besluit krachtens [artikel 5 of 6 van de Distributiewet 1939](../../../../../../../wet/distributiewet/BWBR0001997/README.md) is vastgesteld en toepassing is gegeven aan [artikel 5a van het Besluit zwavelgehalte brandstoffen](../../../../../../../AMvB/besluit/zwavelgehalte/brandstoffen/BWBR0002939/README.md), kan Onze Minister, in overeenstemming met Onze Minister van Economische Zaken, voor stookinstallaties voor zware stookolie waarop artikel 12, eerste en tweede of achtste lid, of artikel 16, eerste en tweede of zesde lid, van het onderhavige besluit van toepassing is, waarden voor de toegestane uitworp van zwaveldioxide vaststellen, die voor een periode van ten hoogste zes maanden in de plaats komen van de waarden vermeld in die leden. Onze Minister neemt hierbij de voorschriften van richtlijn 2001/80/EG van het Europees Parlement en de Raad van 23 oktober 2001 inzake de beperking van de emissies van bepaalde verontreinigende stoffen in de lucht door grote stookinstallaties (PbEG L 309) in acht.   
+1.  Ingeval met betrekking tot zware stookolie een besluit krachtens artikel 5 of 6 van de Distributiewet 1939 is vastgesteld en toepassing is gegeven aan artikel 5a van het Besluit zwavelgehalte brandstoffen, kan Onze Minister, in overeenstemming met Onze Minister van Economische Zaken, voor stookinstallaties voor zware stookolie waarop artikel 12, eerste en tweede of achtste lid, of artikel 16, eerste en tweede of zesde lid, van het onderhavige besluit van toepassing is, waarden voor de toegestane uitworp van zwaveldioxide vaststellen, die voor een periode van ten hoogste zes maanden in de plaats komen van de waarden vermeld in die leden. Onze Minister neemt hierbij de voorschriften van richtlijn 2001/80/EG van het Europees Parlement en de Raad van 23 oktober 2001 inzake de beperking van de emissies van bepaalde verontreinigende stoffen in de lucht door grote stookinstallaties (PbEG L 309) in acht.   
 2.   Het eerste lid geldt voor een andere dan een bestaande stookinstallatie slechts indien het thermisch vermogen van de stookinstallatie 50 megawatt of meer maar minder dan 300 megawatt is.   
-3.   Een waarde als bedoeld in het eerste lid is voor stookinstallaties waarvoor een emissie-eis van 1700 mg/m<sup>3</sup> geldt, niet hoger dan de waarde voor de uitworp van zwaveldioxide met het rookgas, die zou optreden wanneer zware stookolie wordt verbruikt met een zwavelgehalte, gelijk aan een gehalte dat is vastgesteld met toepassing van [artikel 5*a* van het Besluit zwavelgehalte brandstoffen](../../../../../../../AMvB/besluit/zwavelgehalte/brandstoffen/BWBR0002939/README.md).   
+3.   Een waarde als bedoeld in het eerste lid is voor stookinstallaties waarvoor een emissie-eis van 1700 mg/m<sup>3</sup> geldt, niet hoger dan de waarde voor de uitworp van zwaveldioxide met het rookgas, die zou optreden wanneer zware stookolie wordt verbruikt met een zwavelgehalte, gelijk aan een gehalte dat is vastgesteld met toepassing van artikel 5*a* van het Besluit zwavelgehalte brandstoffen.   
 4.   Voor stookinstallaties waarvoor een emissie-eis van 400 mg/m<sup>3</sup> onderscheidenlijk 200 mg/m<sup>3</sup> geldt, is de in het eerste lid bedoelde waarde niet hoger dan 15 procent van de met toepassing van het derde lid verkregen waarde.   
-5.   Onverminderd het eerste lid vervalt een besluit krachtens het eerste lid, behoudens eerdere intrekking, twaalf weken na het tijdstip, te rekenen waarvan niet langer een besluit krachtens de [Distributiewet 1939](../../../../../../../wet/distributiewet/BWBR0001997/README.md), als bedoeld in het eerste lid, in werking is.  
+5.   Onverminderd het eerste lid vervalt een besluit krachtens het eerste lid, behoudens eerdere intrekking, twaalf weken na het tijdstip, te rekenen waarvan niet langer een besluit krachtens de Distributiewet 1939, als bedoeld in het eerste lid, in werking is.  
 
 ###Artikel 47 
 
@@ -1104,7 +1104,7 @@ De aan een vergunning verbonden voorschriften blijven, met betrekking tot onderw
 
 ### Artikel  48a  
 
-Voor een stookinstallatie anders dan een procesfornuis waarop dit besluit van toepassing is als gevolg van de wijziging van het thermisch vermogen van 75 MWth in 50 MWth, genoemd in categorie 1.3, onderdeel b, van [bijlage I, onder C, bij het Besluit omgevingsrecht](../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), geldt:  
+Voor een stookinstallatie anders dan een procesfornuis waarop dit besluit van toepassing is als gevolg van de wijziging van het thermisch vermogen van 75 MWth in 50 MWth, genoemd in categorie 1.3, onderdeel b, van bijlage I, onder C, bij het Besluit omgevingsrecht, geldt:  
 
 a. indien tussen 31 juli 1988 en 15 september 1991 vergunning is verleend, in afwijking van het bepaalde in:
 

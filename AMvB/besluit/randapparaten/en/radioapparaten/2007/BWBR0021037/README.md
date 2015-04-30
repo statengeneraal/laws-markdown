@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Minister van Economische Zaken van 5 september 2006, nr. WJZ 6062961;
 
-Gelet op richtlijn nr. 1999/5/EG van het Europees Parlement en de Raad van de Europese Unie van 9 maart 1999 betreffende radioapparatuur en telecommunicatie-eindapparatuur en de wederzijdse erkenning van hun conformiteit (PbEG L 91), alsmede op het Besluit van het Gemengd Comité van de EER, nr. 48/2000, van 31 mei 2000, tot wijziging van bijlage II (Technische voorschriften, normen, keuring en certificatie) bij de EER-Overeenkomst (PbEG L 237), artikel 3, tweede lid en de sectorbijlage betreffende radioapparatuur en telecommunicatie-eindapparatuur van de Overeenkomst inzake wederzijdse erkenning tussen de Europese Gemeenschap en de Verenigde Staten van Amerika (PbEG 1999, L 31), artikel II, derde lid en de sectorbijlage betreffende radioapparatuur en telecommunicatie-eindapparatuur van de Overeenkomst inzake wederzijdse erkenning tussen de Europese Gemeenschap en Canada (PbEG 1998, L 280), artikel 2, tweede lid en de sectorbijlage betreffende radioapparatuur en telecommunicatie-eindapparatuur van de Overeenkomst inzake wederzijdse erkenning van overeenstemmingsbeoordeling, certificaten en markeringen tussen de Europese Gemeenschap en Australië (PbEG 1998, L 229), artikel 2, tweede lid en de sectorbijlage betreffende radioapparatuur en telecommunicatie-eindapparatuur van de Overeenkomst inzake de wederzijdse erkenning van overeenstemmingsbeoordeling tussen de Europese Gemeenschap en Nieuw-Zeeland (PbEG 1998, L 229), artikel 2 en de sectorbijlage betreffende eindapparatuur voor telecommunicatie en radioapparatuur van de Overeenkomst inzake wederzijdse erkenning van overeenstemmingsbeoordeling, tussen de Europese Gemeenschap en Japan (PbEG 2001, L 284), artikel 1 en bijlage 1, Hoofdstuk 7, betreffende eindapparatuur voor telecommunicatie van de Overeenkomst inzake wederzijdse erkenning van overeenstemmingsbeoordeling tussen de Europese Gemeenschap en Zwitserland (PbEG 2002, L 114) en op de [artikelen 10.1, tweede lid](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), [10.2, tweede lid](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), [10.3](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), [10.4](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), [10.6](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), [10.7](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en [10.8, onderdeel b, van de Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);
+Gelet op richtlijn nr. 1999/5/EG van het Europees Parlement en de Raad van de Europese Unie van 9 maart 1999 betreffende radioapparatuur en telecommunicatie-eindapparatuur en de wederzijdse erkenning van hun conformiteit (PbEG L 91), alsmede op het Besluit van het Gemengd Comité van de EER, nr. 48/2000, van 31 mei 2000, tot wijziging van bijlage II (Technische voorschriften, normen, keuring en certificatie) bij de EER-Overeenkomst (PbEG L 237), artikel 3, tweede lid en de sectorbijlage betreffende radioapparatuur en telecommunicatie-eindapparatuur van de Overeenkomst inzake wederzijdse erkenning tussen de Europese Gemeenschap en de Verenigde Staten van Amerika (PbEG 1999, L 31), artikel II, derde lid en de sectorbijlage betreffende radioapparatuur en telecommunicatie-eindapparatuur van de Overeenkomst inzake wederzijdse erkenning tussen de Europese Gemeenschap en Canada (PbEG 1998, L 280), artikel 2, tweede lid en de sectorbijlage betreffende radioapparatuur en telecommunicatie-eindapparatuur van de Overeenkomst inzake wederzijdse erkenning van overeenstemmingsbeoordeling, certificaten en markeringen tussen de Europese Gemeenschap en Australië (PbEG 1998, L 229), artikel 2, tweede lid en de sectorbijlage betreffende radioapparatuur en telecommunicatie-eindapparatuur van de Overeenkomst inzake de wederzijdse erkenning van overeenstemmingsbeoordeling tussen de Europese Gemeenschap en Nieuw-Zeeland (PbEG 1998, L 229), artikel 2 en de sectorbijlage betreffende eindapparatuur voor telecommunicatie en radioapparatuur van de Overeenkomst inzake wederzijdse erkenning van overeenstemmingsbeoordeling, tussen de Europese Gemeenschap en Japan (PbEG 2001, L 284), artikel 1 en bijlage 1, Hoofdstuk 7, betreffende eindapparatuur voor telecommunicatie van de Overeenkomst inzake wederzijdse erkenning van overeenstemmingsbeoordeling tussen de Europese Gemeenschap en Zwitserland (PbEG 2002, L 114) en op de artikelen 10.1, tweede lid, 10.2, tweede lid, 10.3, 10.4, 10.6, 10.7 en 10.8, onderdeel b, van de Telecommunicatiewet;
 
 De Raad van State gehoord (advies van 12 oktober 2006, nr. W10.06.0378/II);
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. wet: [Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+a. wet: Telecommunicatiewet;  
 
 b.  richtlijn nr. 1999/5/EG: richtlijn nr. 1999/5/EG van het Europees Parlement en de Raad van de Europese Unie van 9 maart 1999 betreffende radioapparatuur en telecommunicatie-eindapparatuur en de wederzijdse erkenning van hun conformiteit (PbEG L 91);  
 
@@ -187,7 +187,7 @@ In afwijking van artikel 15 is een aanbieder van een openbaar telecommunicatiene
 
 ### Artikel  18  
 
-1.  Het verbod om uitrusting te verhandelen, bedoeld in [artikel 10.1, eerste lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), geldt niet voor randapparaten of radioapparaten indien wordt voldaan aan de verplichtingen, bedoeld in de artikelen 10, eerste tot en met derde lid, en 13, eerste en tweede lid, betreffende het aanbrengen van markeringen, het verstrekken van een afschrift van de verklaring van conformiteit en het verschaffen van informatie.   
+1.  Het verbod om uitrusting te verhandelen, bedoeld in artikel 10.1, eerste lid, van de wet, geldt niet voor randapparaten of radioapparaten indien wordt voldaan aan de verplichtingen, bedoeld in de artikelen 10, eerste tot en met derde lid, en 13, eerste en tweede lid, betreffende het aanbrengen van markeringen, het verstrekken van een afschrift van de verklaring van conformiteit en het verschaffen van informatie.   
 2.  Indien wordt geconstateerd, dat een in de handel gebracht randapparaat of radioapparaat niet voldoet aan de in artikel 5 bedoelde voorschriften ondanks het feit dat wordt voldaan aan de verplichtingen in de artikelen 10, eerste tot en met derde lid, en 13, eerste en tweede lid, betreffende het aanbrengen van markeringen, het verstrekken van een afschrift van de verklaring van conformiteit en het verschaffen van informatie, wordt hiervan schriftelijk mededeling gedaan aan de betrokkene.   
 3.  Onze Minister maakt de constatering, bedoeld in het tweede lid, zo spoedig mogelijk bekend in de Staatscourant.   
 4.  Met ingang van de dag na de datum van bekendmaking is het verboden de randapparaten of radioapparaten van dit type te verhandelen.  
@@ -214,7 +214,7 @@ Bij ministeriële regeling kunnen regels worden gesteld inzake de behandeling va
 
 ### Artikel  21  
 
-Het is verboden handelsreclame te maken voor randapparaten of radioapparaten die niet voldoen aan de eisen van dit besluit en waarvan het in de handel brengen of het verhandelen op grond van [artikel 10.1, eerste lid](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en [artikel 10.5, tweede lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) is verboden. 
+Het is verboden handelsreclame te maken voor randapparaten of radioapparaten die niet voldoen aan de eisen van dit besluit en waarvan het in de handel brengen of het verhandelen op grond van artikel 10.1, eerste lid en artikel 10.5, tweede lid, van de wet is verboden. 
 
 ### Hoofdstuk  7  
 
@@ -234,12 +234,12 @@ b. deze uitrusting is voorzien van een zichtbaar teken dat aangeeft dat de uitru
 
 ### Artikel  23  
 
-1. Voor de toepassing van [artikel 10.8 tot en met 10.11 van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) worden met radiozendapparaten gelijkgesteld radiofrequentvermogensversterkers die geschikt zijn voor gebruik tezamen met radiozendapparaten alsmede andere elektrische of elektronische apparaten die geschikt zijn om het radiofrequent signaal van radiozendapparaten te wijzigen.  
-2.  Bij ministeriële regeling aangewezen elektrische of elektronische apparaten worden voor de toepassing van [artikel 10.8 tot en met 10.11 van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) gelijkgesteld met radiozendapparaten. 
+1. Voor de toepassing van artikel 10.8 tot en met 10.11 van de wet worden met radiozendapparaten gelijkgesteld radiofrequentvermogensversterkers die geschikt zijn voor gebruik tezamen met radiozendapparaten alsmede andere elektrische of elektronische apparaten die geschikt zijn om het radiofrequent signaal van radiozendapparaten te wijzigen.  
+2.  Bij ministeriële regeling aangewezen elektrische of elektronische apparaten worden voor de toepassing van artikel 10.8 tot en met 10.11 van de wet gelijkgesteld met radiozendapparaten. 
 
 ### Artikel  23a  
 
-Bij ministeriële regeling worden regels gesteld om verstoringen te voorkomen in frequentiebanden die ingevolge het frequentieplan als bedoeld in [artikel 3.1 van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) zijn bestemd voor omroep.
+Bij ministeriële regeling worden regels gesteld om verstoringen te voorkomen in frequentiebanden die ingevolge het frequentieplan als bedoeld in artikel 3.1 van de wet zijn bestemd voor omroep.
 
 ### Hoofdstuk  9  
 
@@ -252,8 +252,8 @@ Bij ministeriële regeling worden regels gesteld om verstoringen te voorkomen in
 
 ### Artikel  25  
 
-1.  Na de inwerkingtreding van dit besluit berust de [Regeling storingsklachten](../../../../../../../ministeriele-regeling/regeling/storingsklachten/BWBR0007511/README.md) op [artikel 22 van het Besluit elektromagnetische compatibiliteit 2007](../../../../../../../AMvB/besluit/elektromagnetische/compatibiliteit/2007/BWBR0021041/README.md) en op artikel 20 van dit besluit.   
-2.  Na de inwerkingtreding van dit besluit berust de [Regeling randapparaten en radioapparaten](../../../../../../../ministeriele-regeling/regeling/randapparaten/en/radioapparaten/BWBR0011347/README.md) op artikel 1, onderdeel h, artikel 4, derde lid, artikel 10, artikel 12, artikel 13, derde lid en artikel 20 van dit besluit.  
+1.  Na de inwerkingtreding van dit besluit berust de Regeling storingsklachten op artikel 22 van het Besluit elektromagnetische compatibiliteit 2007 en op artikel 20 van dit besluit.   
+2.  Na de inwerkingtreding van dit besluit berust de Regeling randapparaten en radioapparaten op artikel 1, onderdeel h, artikel 4, derde lid, artikel 10, artikel 12, artikel 13, derde lid en artikel 20 van dit besluit.  
 
 ### Artikel  26  
 
@@ -266,8 +266,8 @@ Een wijziging van richtlijn nr. 1999/5/EG, van de notificatierichtlijn, van rich
 
 ### Artikel  28  
 
-1. Het [Besluit randapparaten en radioapparaten](../../../../../../../AMvB/besluit/randapparaten/en/radioapparaten/BWBR0011261/README.md) wordt ingetrokken. 
-2. Het [besluit van de Staatssecretaris van Verkeer en Waterstaat van 17 november 2000, nr. DGTP/00/5627/NG, houdende toepassing van het bepaalde bij of krachtens het Besluit randapparaten en radioapparaten in de EER](../../../../../../../ministeriele-regeling/toepassing/van/het/bepaalde/bij/of/krachtens/het/besluit/randapparaten/en/etc/BWBR0011799/README.md) wordt ingetrokken (Stcrt. 2000, 229).
+1. Het Besluit randapparaten en radioapparaten wordt ingetrokken. 
+2. Het besluit van de Staatssecretaris van Verkeer en Waterstaat van 17 november 2000, nr. DGTP/00/5627/NG, houdende toepassing van het bepaalde bij of krachtens het Besluit randapparaten en radioapparaten in de EER wordt ingetrokken (Stcrt. 2000, 229).
 
 ### Artikel  29  
 

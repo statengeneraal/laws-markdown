@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het, gelet op de herziening van het fiscale regime voor onderhoudsvoorzieningen en bepaalde spaarvormen in de inkomstenbelasting, wenselijk is te komen tot een aanpassing van de loonbelasting, de vermogensbelasting, het successierecht, de inkomstenbelasting, de vennootschapsbelasting en tot een aanpassing van de [Invorderingswet 1990](../../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [Coördinatiewet Sociale Verzekering](../../../../../../../../../wet/coördinatiewet/sociale/verzekering/BWBR0002126/README.md);
+Alzo Wij in overweging genomen hebben, dat het, gelet op de herziening van het fiscale regime voor onderhoudsvoorzieningen en bepaalde spaarvormen in de inkomstenbelasting, wenselijk is te komen tot een aanpassing van de loonbelasting, de vermogensbelasting, het successierecht, de inkomstenbelasting, de vennootschapsbelasting en tot een aanpassing van de Invorderingswet 1990 en de Coördinatiewet Sociale Verzekering;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -44,7 +44,7 @@ Voor de toepassing van de Wet op de vermogensbelasting 1964 wordt met betrekking
 ### Artikel  IX  
 
 1.  Deze wet treedt in werking met ingang van 1 januari 1995.   
-2.   Artikel III is van toepassing indien het overlijden, de schenking of de in artikel 45, derde lid, tweede volzin, of in [artikel 53, eerste lid, van de Successiewet 1956](../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) bedoelde gebeurtenis plaatsvindt op of na het tijdstip van zijn inwerkingtreding, zomede indien op of na dat tijdstip krachtens schenking wordt verkregen ten gevolge van de vervulling van een voorwaarde.  
+2.   Artikel III is van toepassing indien het overlijden, de schenking of de in artikel 45, derde lid, tweede volzin, of in artikel 53, eerste lid, van de Successiewet 1956 bedoelde gebeurtenis plaatsvindt op of na het tijdstip van zijn inwerkingtreding, zomede indien op of na dat tijdstip krachtens schenking wordt verkregen ten gevolge van de vervulling van een voorwaarde.  
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

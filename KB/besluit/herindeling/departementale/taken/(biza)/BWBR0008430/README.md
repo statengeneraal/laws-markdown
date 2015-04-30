@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, dd. 13 december 1996, nr. 96M009391;
 
-Gelet op [artikel 44 van de Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md);
+Gelet op artikel 44 van de Grondwet;
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  

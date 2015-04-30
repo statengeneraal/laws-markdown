@@ -3,7 +3,7 @@
 ##Regeling opleidingsinstellingen voor luchtvarenden 2001 
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 13, eerste lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md);
+Gelet op artikel 13, eerste lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart;
 Besluit:   
 ###Hoofdstuk 1 
 
@@ -19,7 +19,7 @@ Besluit:
 
 *minister:* Minister van Infrastructuur en Milieu;
 
-*MLA (Micro Light Aeroplane):* vliegtuig als bedoeld in het [Besluit luchtvaartuigen 2008](../../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md).  
+*MLA (Micro Light Aeroplane):* vliegtuig als bedoeld in het Besluit luchtvaartuigen 2008.  
 2. In deze regeling wordt met de volgende toevoegingen bedoeld:
 
 A:de categorie vliegtuigen (Aircraft);
@@ -29,7 +29,7 @@ H:de categorie helikopters (Helicopters).
 
 ### Artikel  1a  
 
-Deze regeling berust mede op [artikel 1.5 van de Wet luchtvaart](../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md). 
+Deze regeling berust mede op artikel 1.5 van de Wet luchtvaart. 
 
 ###Hoofdstuk 2 
 
@@ -190,7 +190,7 @@ b. een geregistreerde of gekwalificeerde opleidingsinstelling voor PPL(H) met in
 
 De praktijkopleiding voor elke klasse binnen het RPL(A) omvat ten minste 30 uur, waarvan ten minste: 
 
-a. 20 uur dubbelbesturingsonderricht op een vliegtuig uit de gewenste klasse (dit kan minder zijn bij leerling-vliegers die in aanmerking komen voor compensatie als bedoeld in de [Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001](../../../../../../../ministeriele-regeling/regeling/bewijzen/van/bevoegdheid/en/bevoegdverklaringen/voor/etc/BWBR0021240/README.md)),  
+a. 20 uur dubbelbesturingsonderricht op een vliegtuig uit de gewenste klasse (dit kan minder zijn bij leerling-vliegers die in aanmerking komen voor compensatie als bedoeld in de Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001),  
 
 b. 5 uur solo op een vliegtuig uit de gewenste klasse, en   op een vliegtuig uit een willekeurige klasse uit RPL(A): 
 

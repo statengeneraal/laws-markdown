@@ -10,11 +10,11 @@ Overwegende, dat het in verband met de rechtszekerheid noodzakelijk is regelen t
 
 ### Artikel  1  
 
-Waar in dit besluit gesproken wordt van militaire ambtenaren in den zin van [artikel 1 van de Militaire Ambtenarenwet 1931](../../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md), is dit begrip beperkt tot militaire ambtenaren, die zijn aangesteld in militairen openbaren dienst bij de zeemacht. 
+Waar in dit besluit gesproken wordt van militaire ambtenaren in den zin van artikel 1 van de Militaire Ambtenarenwet 1931, is dit begrip beperkt tot militaire ambtenaren, die zijn aangesteld in militairen openbaren dienst bij de zeemacht. 
 
 ### Artikel  2  
 
-Benoeming, aanstelling en bevordering door of vanwege den vijand verleend gedurende de vijandelijke bezetting van Nederlandsch grondgebied aan militaire ambtenaren in den zin van [artikel 1 der Militaire Ambtenarenwet 1931](../../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) worden geacht nimmer van kracht te zijn geweest. 
+Benoeming, aanstelling en bevordering door of vanwege den vijand verleend gedurende de vijandelijke bezetting van Nederlandsch grondgebied aan militaire ambtenaren in den zin van artikel 1 der Militaire Ambtenarenwet 1931 worden geacht nimmer van kracht te zijn geweest. 
 
 ### Artikel  3  
 

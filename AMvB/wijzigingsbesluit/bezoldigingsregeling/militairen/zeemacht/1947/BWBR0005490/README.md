@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Defensie van 31 januari 1992, Afdeling arbeidsvoorwaardenbeleid, nr. PAV 92/6160/1742;
 
-Gelet op [artikel 12 van de Militaire Ambtenarenwet 1931](../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) (*Stb.* 519), [artikel 125 van de Ambtenarenwet](../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) 1929 (*Stb.* 530) en artikel 2 van de Wet rechtstoestand dienstplichtigen (*Stb.* 1971, 231);
+Gelet op artikel 12 van de Militaire Ambtenarenwet 1931 (*Stb.* 519), artikel 125 van de Ambtenarenwet 1929 (*Stb.* 530) en artikel 2 van de Wet rechtstoestand dienstplichtigen (*Stb.* 1971, 231);
 
 De Raad van State gehoord (advies van 30 maart 1992, nr. W07.92.0052)
 

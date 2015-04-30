@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet wapens en munitie](../../../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) te herzien vanwege gewijzigde inzichten en nieuwe ontwikkelingen op het terrein van wapens en munitie, alsmede in verband daarmee het [Wetboek van Strafvordering](../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en de [Wet politieregisters](../../../../../../../../../../../wet/wet/politieregisters/BWBR0004798/README.md) te wijzigen; 
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de Wet wapens en munitie te herzien vanwege gewijzigde inzichten en nieuwe ontwikkelingen op het terrein van wapens en munitie, alsmede in verband daarmee het Wetboek van Strafvordering en de Wet politieregisters te wijzigen; 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 
 ### Artikel  I  
@@ -41,7 +41,7 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 
 ### Artikel  VIII  
 
-De tekst van de [Wet wapens en munitie](../../../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) wordt in het *Staatsblad* geplaatst.  
+De tekst van de Wet wapens en munitie wordt in het *Staatsblad* geplaatst.  
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    
 

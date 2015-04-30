@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-Het bedrag als bedoeld in de artikelen 36 van de Werkloosheidswet, 35 van de Wet inkomensvoorziening oudere werklozen, 33 van de Ziektewet, 57 van de Wet op de arbeidsongeschiktheidsverzekering, artikel 77 van de Wet werk en inkomen naar arbeidsvermogen, 48 van de Algemene Arbeidsongeschiktheidswet, 20 van de Toeslagenwet, 24 van de Algemene Ouderdomswet, 24 van de Algemene kinderbijslagwet, 53 van de Algemen nabestaandenwet, 63 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, 2:59 of 3:56 van de Wet werk en arbeidsondersteuning jonggehandicapten en 35 van de Wet op de (re)integratie arbeidsgehandicapten is € 113 op jaarbasis.  
+Het bedrag als bedoeld in de artikelen 36 van de Werkloosheidswet, 35 van de Wet inkomensvoorziening oudere werklozen, 33 van de Ziektewet, 57 van de Wet op de arbeidsongeschiktheidsverzekering, artikel 77 van de Wet werk en inkomen naar arbeidsvermogen, 48 van de Algemene Arbeidsongeschiktheidswet, 20 van de Toeslagenwet, 24 van de Algemene Ouderdomswet, 24 van de Algemene kinderbijslagwet, 53 van de Algemen nabestaandenwet, 63 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, 2:59 of 3:56 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en 35 van de Wet op de (re)integratie arbeidsgehandicapten is € 113 op jaarbasis.  
 
 ### Artikel  1a  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 10 december 1999, gedaan mede namens Onze Minister van Verkeer en Waterstaat;
 
-Gelet op [artikel 1022 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md);
+Gelet op artikel 1022 van Boek 8 van het Burgerlijk Wetboek;
 
 De Raad van State gehoord (advies van 21 januari 2000, no. W03.99.0620/I.);
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### ARTIKEL  I  
 
-Onder de «Rijnregels IVR», bedoeld in [artikel 1022 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), worden verstaan de Rijnregels IVR 1979 (Uitgave 1996) zoals vastgesteld door de Internationale Vereniging het Rijnschepenregister op 17 november 1995 en zulks in de Nederlandstalige tekst daarvan, welke is opgenomen als bijlage bij dit besluit. 
+Onder de «Rijnregels IVR», bedoeld in artikel 1022 van Boek 8 van het Burgerlijk Wetboek, worden verstaan de Rijnregels IVR 1979 (Uitgave 1996) zoals vastgesteld door de Internationale Vereniging het Rijnschepenregister op 17 november 1995 en zulks in de Nederlandstalige tekst daarvan, welke is opgenomen als bijlage bij dit besluit. 
 
 ### ARTIKEL  II  
 

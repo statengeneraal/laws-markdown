@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De ambtenaren van de rijksbelastingdienst, die zijn belast met het toezicht op de naleving van de [Wet op de motorrijtuigenbelasting 1966](../../../../../../../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1966/BWBR0002534/README.md) of van de Wet op de belasting van personenauto's en motorrijwielen 1992, zijn belast met het opsporen van overtredingen van de artikelen 9, eerste lid, onderdelen 2e en 3e, 9*a*, eerste lid, en 33, eerste lid, van de Wegenverkeerswet. 
+De ambtenaren van de rijksbelastingdienst, die zijn belast met het toezicht op de naleving van de Wet op de motorrijtuigenbelasting 1966 of van de Wet op de belasting van personenauto's en motorrijwielen 1992, zijn belast met het opsporen van overtredingen van de artikelen 9, eerste lid, onderdelen 2e en 3e, 9*a*, eerste lid, en 33, eerste lid, van de Wegenverkeerswet. 
 
 ### Artikel  2  
 

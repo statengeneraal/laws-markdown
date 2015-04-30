@@ -100,7 +100,7 @@ Wijzigt de Wet op de toegang tot ziektekostenverzekeringen.
 ### ARTIKEL  XXIII  
 
 1.  In afwijking van artikel VII wordt als huurder als bedoeld in artikel 1 van de Wet individuele huursubsidie tevens aangemerkt: de vreemdeling die rechtmatig verblijf houdt als bedoeld in artikel 1b, aanhef, en onder 5, van de Vreemdelingenwet, mits hem een bijdrage als bedoeld in artikel 2, eerste lid, van de Wet individuele huursubsidie is of wordt verstrekt voor het laatste tijdvak, bedoeld in artikel 2, vijfde lid, van die wet voor het tijdstip van inwerkingtreding van artikel VII.    
-2.  Bijstandsverlening krachtens de [Algemene bijstandswet](../../../wet/algemene/bijstandswet/BWBR0007333/README.md), welke op het tijdstip van inwerkingtreding van deze wet plaatsvindt, kan, ten aanzien van een vreemdeling die rechtmatig verblijf houdt, als bedoeld in artikel 1b, aanhef, en onder 5, van de Vreemdelingenwet, worden voortgezet; in zodanig geval kan ten aanzien van deze vreemdeling, voor zover woonachtig in Nederland, eveneens worden afgeweken van [artikel 2, tweede lid, van de Ziekenfondswet](../../../wet/ziekenfondswet/BWBR0002460/README.md).   
+2.  Bijstandsverlening krachtens de Algemene bijstandswet, welke op het tijdstip van inwerkingtreding van deze wet plaatsvindt, kan, ten aanzien van een vreemdeling die rechtmatig verblijf houdt, als bedoeld in artikel 1b, aanhef, en onder 5, van de Vreemdelingenwet, worden voortgezet; in zodanig geval kan ten aanzien van deze vreemdeling, voor zover woonachtig in Nederland, eveneens worden afgeweken van artikel 2, tweede lid, van de Ziekenfondswet.   
 
 ### ARTIKEL  XXIV  
 

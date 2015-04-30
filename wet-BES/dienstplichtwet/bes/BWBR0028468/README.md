@@ -202,7 +202,7 @@ a. onverminderd het bepaalde in artikel 30, onderdelen a en b, in verzekerde bew
 b. bij rechterlijke uitspraak in het Koninkrijk is veroordeeld tot een of meer straffen, zwaarder of te zamen zwaarder dan een gevangenisstraf van 6 maanden;  
 
 c. bij rechterlijke uitspraak is ontzet uit het recht om bij de gewapende macht te dienen.     
-2.  Onverminderd het bepaalde in het eerste lid, kan van de dienst worden uitgesloten degene die bij rechterlijk uitspraak is veroordeeld terzake van misdrijven als bedoeld in artikel 133, tweede lid, alsmede in de [artikelen 109](../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md) en [139 van het Wetboek van Militair Strafrecht](../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md).   
+2.  Onverminderd het bepaalde in het eerste lid, kan van de dienst worden uitgesloten degene die bij rechterlijk uitspraak is veroordeeld terzake van misdrijven als bedoeld in artikel 133, tweede lid, alsmede in de artikelen 109 en 139 van het Wetboek van Militair Strafrecht.   
 3.  Voor de toepassing van het eerste lid wordt degene, die gratie is verleend, geacht slechts te zijn veroordeeld tot de straf, welke krachtens de gratie op hem blijft rusten of komt te rusten.   
 4.  Onze Minister kan in bijzondere gevallen de uitsluiting, bedoeld in het eerste lid, achterwege laten.  
 
@@ -599,7 +599,7 @@ Op de dienstplichtige in werkelijke dienst zijn, gedurende de tijd dat hij werke
 
 ### Artikel  69  
 
-Op de dienstplichtige en de gewezen dienstplichtige zijn de bepalingen betreffende de inhouding, het beslag en de korting, opgenomen in de [Ambtenarenwet BES](../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) van overeenkomstige toepassing. 
+Op de dienstplichtige en de gewezen dienstplichtige zijn de bepalingen betreffende de inhouding, het beslag en de korting, opgenomen in de Ambtenarenwet BES van overeenkomstige toepassing. 
 
 ### Hoofdstuk  9  
 
@@ -607,7 +607,7 @@ Op de dienstplichtige en de gewezen dienstplichtige zijn de bepalingen betreffen
 
 ### Artikel  70  
 
-De vrijwillig nadienende dienstplichtige wordt voor zover betreft de regeling van zijn pensioen gelijkgesteld met de overheidsdienaar in de zin van de [Pensioenwet ambtenaren BES](../../../../wet-BES/pensioenwet/ambtenaren/bes/BWBR0028714/README.md), mits hij niet verkeert in een van de omstandigheden, bedoeld in het [eerste lid van artikel 6 van die wet](../../../../wet-BES/pensioenwet/ambtenaren/bes/BWBR0028714/README.md). De bepalingen van de genoemde wet zijn alsdan op hem van overeenkomstige toepassing. 
+De vrijwillig nadienende dienstplichtige wordt voor zover betreft de regeling van zijn pensioen gelijkgesteld met de overheidsdienaar in de zin van de Pensioenwet ambtenaren BES, mits hij niet verkeert in een van de omstandigheden, bedoeld in het eerste lid van artikel 6 van die wet. De bepalingen van de genoemde wet zijn alsdan op hem van overeenkomstige toepassing. 
 
 ### Hoofdstuk  10  
 
@@ -704,7 +704,7 @@ b. wanneer er sprake is van levensgevaar, zolang dit gevaar voortduurt.
 ### Artikel  83  
 
 1.  Indien een dienstplichtige om redenen van dienst buiten het eiland verblijft, waar hij zijn woonplaats heeft, en aldaar overlijdt, hebben zijn naaste betrekkingen, onder voorwaarden door Onze Minister te stellen, aanspraak op een vergoeding van de noodzakelijk gemaakte en te hunnen laste gekomen kosten voor het doen overbrengen van het stoffelijk overschot naar een plaats op het eiland van zijn woonplaats.   
-2.  Voor zover Onze Minister* niet anders bepaalt, is het vorige lid niet van toepassing ten aanzien van degenen die zijn overleden terwijl het Koninkrijk zich in feitelijk oorlogsomstandigheden bevond, of die zijn overleden in de tijd waarin zij waren ingedeeld bij een eenheid of onderdeel van de krijgsmacht, waaraan de bekendmaking, bedoeld in [artikel 71 van het Wetboek van Militair Strafrecht](../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md) (Stb. 1964, no. 9), is gedaan.  
+2.  Voor zover Onze Minister* niet anders bepaalt, is het vorige lid niet van toepassing ten aanzien van degenen die zijn overleden terwijl het Koninkrijk zich in feitelijk oorlogsomstandigheden bevond, of die zijn overleden in de tijd waarin zij waren ingedeeld bij een eenheid of onderdeel van de krijgsmacht, waaraan de bekendmaking, bedoeld in artikel 71 van het Wetboek van Militair Strafrecht (Stb. 1964, no. 9), is gedaan.  
 
 ### Artikel  84  
 
@@ -713,8 +713,8 @@ b. wanneer er sprake is van levensgevaar, zolang dit gevaar voortduurt.
 
 ### Artikel  85  
 
-1.  Op de dienstplichtige in werkelijke dienst zijn de voor ambtenaren geldende regelen terzake van vrijstelling van dienst wegens ziekte, neergelegd in het [Besluit vakantie en vrijstelling van dienst ambtenaren BES](../../../../AMvB-BES/besluit/vakantie/en/vrijstelling/van/dienst/ambtenaren/bes/BWBR0028606/README.md) van overeenkomstige toepassing, voor zover daarvan in deze wet niet wordt afgeweken.   
-2.  De dienstplichtige, in werkelijke dienst, die ingevolge [artikel 6, eerste lid, van de Pensioenwet ambtenaren BES](../../../../wet-BES/pensioenwet/ambtenaren/bes/BWBR0028714/README.md) geen ambtenaar is, wordt voor de toepassing van de in het voorgaande lid bedoelde regeling aangemerkt als ambtenaar in tijdelijke dienst, terwijl de dienstplichtige, die overheidsdienaar in de zin van genoemde wet is, wordt aangemerkt als ambtenaar in vaste dienst.  
+1.  Op de dienstplichtige in werkelijke dienst zijn de voor ambtenaren geldende regelen terzake van vrijstelling van dienst wegens ziekte, neergelegd in het Besluit vakantie en vrijstelling van dienst ambtenaren BES van overeenkomstige toepassing, voor zover daarvan in deze wet niet wordt afgeweken.   
+2.  De dienstplichtige, in werkelijke dienst, die ingevolge artikel 6, eerste lid, van de Pensioenwet ambtenaren BES geen ambtenaar is, wordt voor de toepassing van de in het voorgaande lid bedoelde regeling aangemerkt als ambtenaar in tijdelijke dienst, terwijl de dienstplichtige, die overheidsdienaar in de zin van genoemde wet is, wordt aangemerkt als ambtenaar in vaste dienst.  
 
 ### Artikel  85a  
 
@@ -722,7 +722,7 @@ Het geneeskundig onderzoek tot het vaststellen van blijvende ongeschiktheid als 
 
 ### Artikel  86  
 
-1.  Onverminderd het tweede lid, zijn op de gewezen dienstplichtige, wiens dienstverband is geëindigd tijdens arbeidsongeschiktheid uit hoofde van een ziekte of gebrek, de bepalingen van [artikel 39 van het Rechtspositiebesluit ambtenaren BES](../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) van overeenkomstige toepassing, met dien verstande dat hij in zoverre als gewezen ambtenaar in de zin van die wet wordt aangemerkt.   
+1.  Onverminderd het tweede lid, zijn op de gewezen dienstplichtige, wiens dienstverband is geëindigd tijdens arbeidsongeschiktheid uit hoofde van een ziekte of gebrek, de bepalingen van artikel 39 van het Rechtspositiebesluit ambtenaren BES van overeenkomstige toepassing, met dien verstande dat hij in zoverre als gewezen ambtenaar in de zin van die wet wordt aangemerkt.   
 2.  De arbeidsongeschiktheid dient te blijken uit een verklaring van de geneeskundige commissie dan wel de geneeskundige of geneeskundigen, bedoeld in artikel 85a, overeenkomstig de in dat artikel gemaakte onderscheidingen.   
 3.  Het tweede lid van artikel 85 is van overeenkomstige toepassing.  
 
@@ -739,7 +739,7 @@ c. bij ontstentenis van de onder a en b bedoelde betrekkingen, aan of ten behoev
 
 ### Artikel  88  
 
-1.  Op de dienstplichtige in werkelijke dienst zijn de voor ambtenaren geldende regelen terzake van reis- , teer- en verhuiskosten van overeenkomstige toepassing, met dien verstande dat uitsluitend de dienstplichtige die overheidsdienaar in de zin van de [Pensioenwet ambtenaren BES](../../../../wet-BES/pensioenwet/ambtenaren/bes/BWBR0028714/README.md) is voor een verhuiskostenvergoeding in aanmerking komt.   
+1.  Op de dienstplichtige in werkelijke dienst zijn de voor ambtenaren geldende regelen terzake van reis- , teer- en verhuiskosten van overeenkomstige toepassing, met dien verstande dat uitsluitend de dienstplichtige die overheidsdienaar in de zin van de Pensioenwet ambtenaren BES is voor een verhuiskostenvergoeding in aanmerking komt.   
 2.  Voor de toepassing van de in het eerste lid bedoelde regelen worden: 
 
 a. manschappen gerangschikt in de derde klasse;  
@@ -945,7 +945,7 @@ a. de gewezen dienstplichtige;
 b. ieder ander die bij of krachtens deze wet wordt aangemerkt als belanghebbende;  
 
 c. de nagelaten betrekkingen of rechtverkrijgenden van de dienstplichtige, de gewezen dienstplichtige of een persoon als bedoeld onder b.     
-6.  Beroep kan niet worden ingesteld tegen beslissingen ingevolge de bij of krachtens de [Wet militair tuchtrecht](../../../../rijkswet/wet/militair/tuchtrecht/BWBR0004788/README.md) (P.B. 1990, no. 64) gegeven regels.  
+6.  Beroep kan niet worden ingesteld tegen beslissingen ingevolge de bij of krachtens de Wet militair tuchtrecht (P.B. 1990, no. 64) gegeven regels.  
 
 ### §  2  
 
@@ -959,17 +959,17 @@ Tegen een besluit als bedoeld in artikel 35, kan door de vrijwillig nadienende d
 
 Voor de toepassing van het in deze paragraaf bepaalde wordt verstaan onder: 
 
-a.  *klager:* de dienstplichtige, die zich bezwaard voelt over een van een militaire meerdere als bedoeld in [artikel 67 van het Wetboek van Militair Strafrecht](../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md) (P.B. 1922, no. 54) ontvangen bevel, dan wel vermeent van een zodanig militaire meerdere een krenkende of onbillijke behandeling te hebben ondervonden;  
+a.  *klager:* de dienstplichtige, die zich bezwaard voelt over een van een militaire meerdere als bedoeld in artikel 67 van het Wetboek van Militair Strafrecht (P.B. 1922, no. 54) ontvangen bevel, dan wel vermeent van een zodanig militaire meerdere een krenkende of onbillijke behandeling te hebben ondervonden;  
 
 b.  *klaagschrift:* het door een klager bij de beklagmeerdere ingediend geschrift, houdende een beschrijving van het bevel of de handeling waartegen het beklag is gericht;  
 
-c.  *beklagmeerdere:* de tot straffen bevoegde militaire meerdere, als bedoeld in [artikel 49 van de Wet militair tuchtrecht](../../../../rijkswet/wet/militair/tuchtrecht/BWBR0004788/README.md) (P.B. 1990, no. 64), onder wiens rechtstreeks bevel degene, tegen wie het klaagschrift is gericht, is gesteld dan wel een door Onze Minister van Defensie aangewezen functionaris;  
+c.  *beklagmeerdere:* de tot straffen bevoegde militaire meerdere, als bedoeld in artikel 49 van de Wet militair tuchtrecht (P.B. 1990, no. 64), onder wiens rechtstreeks bevel degene, tegen wie het klaagschrift is gericht, is gesteld dan wel een door Onze Minister van Defensie aangewezen functionaris;  
 
-d.  *vertrouwensman:* de vertrouwensman als bedoeld in [artikel 57 van de Wet militair tuchtrecht](../../../../rijkswet/wet/militair/tuchtrecht/BWBR0004788/README.md).   
+d.  *vertrouwensman:* de vertrouwensman als bedoeld in artikel 57 van de Wet militair tuchtrecht.   
 
 ### Artikel  116c  
 
-1.  De dienstplichtige die zich bezwaard voelt over een van een militaire meerdere als bedoeld in [artikel 67 van het Wetboek van Militair Strafrecht](../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md) ontvangen bevel, dan wel vermeend van een zodanig militaire meerdere een krenkende of onbillijke behandeling te hebben ondervonden kan zich door middel van een met redenen omkleed klaagschrift beklagen bij de beklagmeerdere.   
+1.  De dienstplichtige die zich bezwaard voelt over een van een militaire meerdere als bedoeld in artikel 67 van het Wetboek van Militair Strafrecht ontvangen bevel, dan wel vermeend van een zodanig militaire meerdere een krenkende of onbillijke behandeling te hebben ondervonden kan zich door middel van een met redenen omkleed klaagschrift beklagen bij de beklagmeerdere.   
 2.  Het klaagschrift moet langs de hiërarchieke weg worden ingediend binnen zes weken na de dag waarop het bevel bedoeld in het eerste lid is gegeven dan wel de in het eerste lid bedoelde behandeling heeft plaatsgevonden.   
 3.  Een na afloop van de in het tweede lid genoemde termijn ingediend klaagschrift wordt geacht tijdig te zijn ingediend indien de klager aantoont dat hij het klaagschrift heeft ingediend zo spoedig als redelijkerwijs verlangd kon worden.  
 
@@ -980,7 +980,7 @@ d.  *vertrouwensman:* de vertrouwensman als bedoeld in [artikel 57 van de Wet mi
 3.  Tijdens het onderzoek worden de klager, de militaire meerdere tegen wie het beklag is gericht en – voor zover hiervoor termen aanwezig zijn – anderen gehoord.   
 4.  Indien de beklagmeerdere niet zelf het onderzoek naar het klaagschrift verricht, wordt de klager de gelegenheid geboden bij de beklagmeerdere zijn standpunt mondeling nader toe te lichten.   
 5.  Indien het horen door de beklagmeerdere dan wel door de rapporteur niet mogelijk is dan wel op ernstige bezwaren stuit, kan de beklagmeerdere de tot straffen bevoegde militaire meerdere van degene die moet worden gehoord, met het horen belasten.   
-6.  De klager kan zich door een vertrouwensman laten bijstaan. [Artikel 59, eerste lid](../../../../rijkswet/wet/militair/tuchtrecht/BWBR0004788/README.md), en [artikel 60 van de Wet militair tuchtrecht](../../../../rijkswet/wet/militair/tuchtrecht/BWBR0004788/README.md) zijn van overeenkomstige toepassing.   
+6.  De klager kan zich door een vertrouwensman laten bijstaan. Artikel 59, eerste lid, en artikel 60 van de Wet militair tuchtrecht zijn van overeenkomstige toepassing.   
 7.  Van het onderzoek wordt een verslag gemaakt.   
 8.  De klager en zijn vertrouwensman hebben het recht op inzage van alle stukken die op de zaak betrekking hebben.  
 
@@ -992,7 +992,7 @@ d.  *vertrouwensman:* de vertrouwensman als bedoeld in [artikel 57 van de Wet mi
 
 ### Artikel  116f  
 
-Beklag is niet mogelijk tegen een op beklag genomen beslissing alsmede niet tegen beslissingen ingevolge de bij of krachtens de [Wet militair tuchtrecht](../../../../rijkswet/wet/militair/tuchtrecht/BWBR0004788/README.md) gegeven regels. 
+Beklag is niet mogelijk tegen een op beklag genomen beslissing alsmede niet tegen beslissingen ingevolge de bij of krachtens de Wet militair tuchtrecht gegeven regels. 
 
 ### Hoofdstuk  15  
 
@@ -1095,7 +1095,7 @@ De feiten bij deze wet strafbaar gesteld, worden als overtreding aangemerkt met 
 
 ### Artikel  134a  
 
-Met de opsporing van de in deze wet strafbare gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de militairen van de Koninklijke marechaussee. Zij hebben toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. 
+Met de opsporing van de in deze wet strafbare gestelde feiten zijn, onverminderd artikel 141 van het Wetboek van Strafvordering, belast de militairen van de Koninklijke marechaussee. Zij hebben toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. 
 
 ### Artikel  135  
 

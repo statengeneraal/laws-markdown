@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is enkele bepalingen van het [Wetboek van Strafrecht](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), het [Wetboek van Strafvordering](../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en de Beginselenwet gevangeniswezen omtrent de terbeschikkingstelling en de observatie te wijzigen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is enkele bepalingen van het Wetboek van Strafrecht, het Wetboek van Strafvordering en de Beginselenwet gevangeniswezen omtrent de terbeschikkingstelling en de observatie te wijzigen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -35,7 +35,7 @@ Met betrekking tot de te volgen procedure ten aanzien van de eerstkomende verlen
 
 ### Artikel  VII  
 
-Ten aanzien van de bevelen tot observatie ingevolge het bepaalde in de [artikelen 196](../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) tot en met [198](../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [317](../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [509*g* van het Wetboek van Strafvordering](../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), die op het tijdstip van de inwerkingtreding van deze wet worden tenuitvoer gelegd, worden de op dat tijdstip vervallen bepalingen toegepast. 
+Ten aanzien van de bevelen tot observatie ingevolge het bepaalde in de artikelen 196 tot en met 198, 317 en 509*g* van het Wetboek van Strafvordering, die op het tijdstip van de inwerkingtreding van deze wet worden tenuitvoer gelegd, worden de op dat tijdstip vervallen bepalingen toegepast. 
 
 ### Artikel  VIII  
 

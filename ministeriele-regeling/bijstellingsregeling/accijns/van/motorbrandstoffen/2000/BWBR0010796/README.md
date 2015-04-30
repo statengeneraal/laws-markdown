@@ -3,12 +3,12 @@
 ##Bijstellingsregeling accijns van motorbrandstoffen 2000
 
 De Staatssecretaris van Financiën,  
-Gelet op de [artikelen 27a](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71a](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en [84c van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) in samenhang met artikel 66b van de Wet op de inkomstenbelasting 1964,
+Gelet op de artikelen 27a, 71a en 84c van de Wet op de accijns in samenhang met artikel 66b van de Wet op de inkomstenbelasting 1964,
 Besluit:     
 
 ###Artikel  I  
 
-De [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) wordt als volgt gewijzigd: 
+De Wet op de accijns wordt als volgt gewijzigd: 
 
 A.  Artikel 27, eerste lid, wordt als volgt gewijzigd: 
 
@@ -20,7 +20,7 @@ B.  In artikel 71a, tweede lid, wordt ’f 51,10’ vervangen door: f 52.
 
 ###Artikel  II  
 
-[Artikel 84a van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) vindt geen toepassing.  
+Artikel 84a van de Wet op de accijns vindt geen toepassing.  
 
 ###Artikel  III  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Financiën van 12 november 1993, nr. WDB93/331, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Directe Belastingen; 
 
-Gelet op [artikel 33 van de Wet op de loonbelasting 1964](../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en artikel 66*b*, tweede lid, van de Wet op de inkomstenbelasting 1964; 
+Gelet op artikel 33 van de Wet op de loonbelasting 1964 en artikel 66*b*, tweede lid, van de Wet op de inkomstenbelasting 1964; 
 
 De Raad van State gehoord (advies van 25 november 1993, nr. W06.93.0743); 
 

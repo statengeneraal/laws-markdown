@@ -58,7 +58,7 @@ s. burgerservicenummer: het nummer, bedoeld in artikel 1, onderdeel b, van de We
 
 sa. vervallen; 
 
-t. inspecteur: de functionaris van de rijksbelastingdienst die als zodanig bij regeling van Onze Minister van Financiën is aangewezen;  
+t. inspecteur of ontvanger: de functionaris van de rijksbelastingdienst die als zodanig bij regeling van Onze Minister van Financiën is aangewezen;  
 
 u. loontijdvak: het loontijdvak, bedoeld in artikel 25, eerste en vierde lid, van de Wet op de loonbelasting 1964;  
 
@@ -394,21 +394,31 @@ De premie wordt bij ministeriële regeling vastgesteld op een percentage van het
 
 ### Artikel  33  
 
-####Premieheffing en rijksbijdrage
+####Premieheffing, quotumheffing en rijksbijdrage
 
-1.  De financiële middelen tot dekking van de uitgaven ten laste van het Arbeidsongeschiktheidsfonds, alsmede de financiële middelen voor het vormen en in stand houden van een reserve in dat fonds, worden verkregen door het heffen van de in artikel 36 bedoelde basispremie en door een bijdrage van het rijk als bedoeld in artikel 114, onderdeel f.  
+1.  De financiële middelen tot dekking van de uitgaven ten laste van het Arbeidsongeschiktheidsfonds, alsmede de financiële middelen voor het vormen en in stand houden van een reserve in dat fonds, worden verkregen door het heffen van de basispremie, bedoeld in artikel 36, de quotumheffing, bedoeld in artikel 38h, en door een bijdrage van het rijk als bedoeld in artikel 114, onderdeel f.  
 2. De financiële middelen tot dekking van de uitgaven ten laste van de Werkhervattingskas, alsmede de financiële middelen voor het vormen en in stand houden van een reserve in de Werkhervattingskas, worden verkregen door het heffen van de in artikel 38 bedoelde gedifferentieerde premie.
 
-###§ 2 
+### §  2  
 
-####Premieplicht werkgever
+####Premieplicht en quotumheffing werkgever
 
 ### Artikel  34  
 
-####Basispremie en gedifferentieerde premie
+####Basispremie, gedifferentieerde premie en quotumheffing
 
 1. De premie is verschuldigd door werkgevers in de zin van de Wet werk en inkomen naar arbeidsvermogen en bestaat uit een basispremie en een gedifferentieerde premie.
-2. In afwijking van artikel 20 kan de werkgever de met betrekking tot een werknemer door hem verschuldigde gedifferentieerde premie ten behoeve van de Werkhervattingskas, bedoeld in artikel 38, verhalen op de werknemer onder bij ministeriële regeling te bepalen voorwaarden tot een bij die regeling nader te bepalen bedrag, dat ten hoogste de helft van de door de werkgever verschuldigde premie kan bedragen. 
+2. In afwijking van artikel 20 kan de werkgever de met betrekking tot een werknemer door hem verschuldigde gedifferentieerde premie ten behoeve van de Werkhervattingskas, bedoeld in artikel 38, verhalen op de werknemer onder bij ministeriële regeling te bepalen voorwaarden tot een bij die regeling nader te bepalen bedrag, dat ten hoogste de helft van de door de werkgever verschuldigde premie kan bedragen.  
+3.  De quotumheffing is verschuldigd door werkgevers in de zin van de Wet werk en inkomen naar arbeidsvermogen.   
+4.  De quotumheffing is niet verschuldigd indien in het kalenderjaar voorafgaand aan het kalenderjaar waarover de quotumheffing wordt geheven, de werkgever minder dan 25 vermenigvuldigd met het gemiddeld aantal verloonde uren per werknemer op jaarbasis in Nederland aan verloonde uren als bedoeld in artikel 38b, vierde lid, in de loonaangifte op grond van de Wet op de loonbelasting 1964 heeft verantwoord.   
+5.  Bij algemene maatregel van bestuur kunnen categorieën werknemers worden aangewezen ten aanzien waarvan de verloonde uren bij de toepassing van het vierde lid in mindering worden gebracht op het totaal aantal verloonde uren die de werkgever in de loonaangifte heeft verantwoord.   
+6.  Indien de quotumheffing op grond van het vierde lid zou zijn verschuldigd maar in het kalenderjaar waarover de quotumheffing wordt geheven blijkt dat de werkgever minder dan 25 vermenigvuldigd met het gemiddeld aantal verloonde uren per werknemer op jaarbasis in Nederland aan verloonde uren als bedoeld in artikel 38b, vierde lid, in de loonaangifte op grond van de Wet op de loonbelasting 1964 heeft verantwoord, is de quotumheffing niet verschuldigd.   
+7.  De voor de toepassing van het vierde en zesde lid in aanmerking te nemen verloonde uren worden vastgesteld op grond van de loonaangiften die uiterlijk op 1 mei van het jaar waarover de quotumheffing wordt geheven onderscheidenlijk op 1 mei van het jaar volgend op kalenderjaar waarover de quotumheffing wordt geheven zijn ingediend alsmede de correcties daarop die uiterlijk op die datum zijn ingediend. Hierbij worden uitsluitend loonaangiften en correcties in aanmerking genomen met betrekking tot het kalenderjaar voorafgaand aan het kalenderjaar waarover de quotumheffing wordt geheven onderscheidenlijk het kalenderjaar waarover de quotumheffing wordt geheven.   
+8.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld ter uitvoering van het vierde en zesde lid die in ieder geval betrekking hebben op: 
+
+a. de bepaling van het gemiddeld aantal verloonde uren per werknemer op jaarbasis in Nederland in het desbetreffende kalenderjaar;  
+
+b. de herleiding van het totaal aantal verloonde uren door de werkgever indien de werkgever in het desbetreffende kalenderjaar niet gedurende het gehele kalenderjaar de hoedanigheid van werkgever heeft gehad.   
 
 ###§ 3 
 
@@ -418,7 +428,8 @@ De premie wordt bij ministeriële regeling vastgesteld op een percentage van het
 
 ####Maatstaf
 
-De maatstaf voor de heffing van de premie is het loon. 
+1. De maatstaf voor de heffing van de premie is het loon. 
+2.  De maatstaf voor de quotumheffing is het aantal verloonde uren, bedoeld in artikel 38b, vierde lid.  
 
 ### §  4  
 
@@ -468,13 +479,9 @@ c. de percentages die op grond van dit artikel ten hoogste voor categorieën van
 
 ####Quotumheffing
 
-Treedt in werking per 01-05-2015 
-
 ### Artikel  38b  
 
 ####Definities
-
-Treedt in werking per 01-05-2015 
 
 In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder: 
 
@@ -500,15 +507,11 @@ d. een persoon die voldoet aan een bij of krachtens algemene maatregel van bestu
 
 ####Indeling sectoren
 
-Treedt in werking per 01-05-2015 
-
 Bij regeling van Onze Minister worden werkgevers voor de toepassing van deze paragraaf en artikel 122n ingedeeld bij de sector overheid of de sector niet-overheid. 
 
 ### Artikel  38d  
 
 ####Registratie arbeidsbeperkten
-
-Treedt in werking per 01-05-2015 
 
 1.  Het UWV draagt zorg voor de inrichting en de adequate werking van de registratie van arbeidsbeperkten en is de verantwoordelijke in de zin van de Wet bescherming persoonsgegevens met betrekking tot de verwerking van gegevens, waaronder persoonsgegevens als bedoeld in de Wet bescherming persoonsgegevens, ten behoeve van deze registratie.   
 2.  Het UWV verwerkt in de registratie, bedoeld in het eerste lid, de gegevens over arbeidsbeperkten met het oog op het bevorderen van de arbeidsdeelname van deze personen en ten behoeve van de vaststelling van de quotumheffing, bedoeld in artikel 38h.   
@@ -531,8 +534,6 @@ c. de vaststelling, bedoeld in artikel 38b, eerste lid, onderdeel a, ten eerste,
 
 ####Wijze van heffing en tijdvak
 
-Treedt in werking per 01-05-2015 
-
 1.  De met betrekking tot het quotumtekort, bedoeld in artikel 38g, verschuldigde heffing wordt geheven indien deze op grond van artikel 122n, eerste lid, voor de werkgever in de desbetreffende sector is geactiveerd.   
 2.  De quotumheffing wordt geheven over het kalenderjaar waarover het quotumtekort wordt vastgesteld, waarbij het quotumtekort wordt bepaald door het aantal arbeidsplaatsen ingevuld door arbeidsbeperkten, uitgedrukt in verloonde uren, ten opzichte van het totaal aantal arbeidsplaatsen, uitgedrukt in verloonde uren, in dat jaar overeenkomstig de berekeningsformule, bedoeld in artikel 38g, derde lid.   
 3.  De voor de toepassing van het tweede lid in aanmerking te nemen verloonde uren worden vastgesteld op grond van de loonaangiften die uiterlijk op 1 mei van het jaar volgend op het in het tweede lid bedoelde kalenderjaar zijn ingediend alsmede de correcties daarop die uiterlijk op die datum zijn ingediend. Hierbij worden uitsluitend loonaangiften en correcties in aanmerking genomen met betrekking tot het kalenderjaar waarover het quotumtekort wordt vastgesteld.  
@@ -540,8 +541,6 @@ Treedt in werking per 01-05-2015
 ### Artikel  38f  
 
 ####Vaststelling quotumpercentages
-
-Treedt in werking per 01-05-2015 
 
 1.  Bij regeling van Onze Minister wordt in het kalenderjaar voorafgaand aan het kalenderjaar waarover het quotumtekort, bedoeld in artikel 38g, wordt bepaald, ten behoeve van de bepaling van het quotumtekort, bedoeld in artikel 38g, voor het desbetreffende kalenderjaar een quotumpercentage voor de sector overheid onderscheidenlijk de sector niet-overheid vastgesteld overeenkomstig de berekeningsformule, bedoeld in het tweede lid. Bij deze regeling worden de berekeningen op grond van het tweede lid die tot dit percentage hebben geleid, gepubliceerd. Het percentage wordt naar beneden afgerond op twee cijfers achter de komma.   
 2.  De quotumpercentages worden berekend overeenkomstig de volgende formule: ![255294](http://wetten.overheid.nl/Illustration/255294)
@@ -569,8 +568,6 @@ G = het gemiddeld aantal verloonde uren van arbeidsbeperkten als bedoeld in arti
 
 ####Bepaling van het quotumtekort
 
-Treedt in werking per 01-05-2015 
-
 1.  Ten behoeve van de vaststelling van de quotumheffing, bedoeld in artikel 38h, wordt het quotumtekort per werkgever bepaald overeenkomstig de berekeningsformule, bedoeld in het derde lid.   
 2.  Voor de toepassing van dit artikel wordt niet als werknemer en niet als arbeidsbeperkte beschouwd de persoon die arbeid verricht in een dienstbetrekking in de zin van artikel 2 van de Wet sociale werkvoorziening, tenzij deze persoon op grond van het vierde lid is aangewezen en aan de werkgever ter beschikking is gesteld.   
 3.  Het quotumtekort wordt berekend overeenkomstig de volgende formule: ![255295](http://wetten.overheid.nl/Illustration/255295)
@@ -590,8 +587,6 @@ D = het gemiddeld aantal verloonde uren van arbeidsbeperkten op jaarbasis in de 
 ### Artikel  38h  
 
 ####Vaststelling quotumheffing
-
-Treedt in werking per 01-05-2015 
 
 1.  De inspecteur stelt bij voor bezwaar vatbare beschikking de quotumheffing vast voor de werkgever, ten aanzien van wie een quotumtekort als bedoeld in artikel 38g is bepaald.   
 2.  De beschikking bevat in ieder geval: 
@@ -618,16 +613,12 @@ f. het bedrag van de quotumheffing.
 
 ####Inning quotumheffing
 
-Treedt in werking per 01-05-2015 
-
 1.  De inspecteur stelt de beschikking ter invordering van de daaruit blijkende quotumheffing aan de ontvanger ter hand. Onverminderd het overigens in deze paragraaf bepaalde geschiedt de invordering van de quotumheffing met toepassing van de Invorderingswet 1990 en de Kostenwet invordering rijksbelastingen als ware die heffing een rijksbelasting.   
 2.  De beschikking is invorderbaar zes weken na de dagtekening van de beschikking.  
 
 ### Artikel  38j  
 
 ####Belastingdienst
-
-Treedt in werking per 01-05-2015 
 
 De belastingdienst is belast met de heffing van de quotumheffing en de invordering van deze heffing. 
 
@@ -721,7 +712,7 @@ b. die op het moment van in dienst treden bij die werkgever 56 jaar of ouder is.
 2.  Bij algemene maatregel van bestuur kan worden bepaald dat het eerste lid van overeenkomstige toepassing is bij een dienstbetrekking met een werknemer, die behoort tot een nader te bepalen categorie van personen, die onmiddellijk voorafgaand aan de aanvang van de dienstbetrekking recht hebben op een nabestaandenuitkering op grond van de Algemene nabestaandenwet.   
 3.  Het eerste lid is niet van toepassing, indien de werkgever in verband met de dienstbetrekking met die werknemer een loonkostensubsidie ontvangt als bedoeld in artikel 10d van de Participatiewet.  
 4.  Alvorens de korting, bedoeld in het eerste lid, wordt toegepast beschikt de werkgever over een verklaring van het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank, het college van burgemeester en wethouders of een andere uitkeringsinstantie, dat de werknemer, bedoeld in het eerste of tweede lid, voorafgaande aan de datum van aanvang van de dienstbetrekking recht had op een uitkering als bedoeld in het eerste lid, onderdeel a, of voldoet aan het tweede lid.   
-5.  De werkgever bewaart de verklaring, bedoeld in het vierde lid, bij de loonadministratie. 
+5.  De werkgever bewaart de verklaring, bedoeld in het vierde lid of een beschikking van het college van burgemeester en wethouders tot verlening van loonkostensubsidie als bedoeld in het derde lid, bij de loonadministratie. 
 
 ### Artikel  48  
 
@@ -756,7 +747,8 @@ a. de schriftelijke arbeidsovereenkomst met of de schriftelijke publiekrechtelij
 
 b. een verklaring van het Uitvoeringsinstituut werknemersverzekeringen of het college van burgemeester en wethouders dat de werknemer, bedoeld in het eerste lid, voorafgaande aan de datum van aanvang van de dienstbetrekking recht had op een uitkering als bedoeld in het eerste lid, onderdeel a.    
 5.  De werkgever bewaart de arbeidsovereenkomst of de publiekrechtelijke aanstelling en de verklaring, bedoeld in het vierde lid, bij de loonadministratie.    
-6.  Artikel 50a is van overeenkomstige toepassing.  
+6.  Artikel 50a is van overeenkomstige toepassing.   
+7.  Dit artikel is niet van toepassing, indien de werkgever in verband met de dienstbetrekking met die werknemer een loonkostensubsidie ontvangt als bedoeld in artikel 10d van de Participatiewet. In dat geval bewaart de werkgever bij de loonadministratie de beschikking van het college van burgemeester en wethouders tot verlening van de loonkostensubsidie. 
 
 ### Artikel  48b  
 
@@ -769,7 +761,7 @@ b. een verklaring van het Uitvoeringsinstituut werknemersverzekeringen of het co
 
 ####Premiekorting arbeidsgehandicapte werknemer
 
-1. De werkgever past een korting toe op het totaal van de door hem op grond van de afdelingen 2, 3 en 4 verschuldigde premies bij een dienstbetrekking met een werknemer, die onmiddellijk voorafgaand aan de aanvang van de dienstbetrekking:
+1. De werkgever past een korting toe op het totaal van de door hem op grond van de afdelingen 2, 3 en 4 verschuldigde premies, tenzij de werkgever in verband met de dienstbetrekking met die werknemer een loonkostensubsidie ontvangt als bedoeld in artikel 10d van de Participatiewet, bij een dienstbetrekking met een werknemer, die onmiddellijk voorafgaand aan de aanvang van de dienstbetrekking:
 
 a.recht heeft op een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen;
 
@@ -1597,7 +1589,7 @@ b. de gelden die het UWV ontvangt door toepassing van de artikelen 29a en 91i va
 
 c. de gelden die het UWV ontvangt door toepassing van de artikelen 57 en 90 van de Wet op de arbeidsongeschiktheidsverzekering in verband met uitkeringen als bedoeld in artikel 115, eerste lid, onderdeel a;  
 
-d. vervallen;  
+d. de quotumheffing, bedoeld in artikel 38h;  
 
 e. de gelden die het UWV ontvangt door toepassing van de Wet arbeidsongeschiktheidsverzekering zelfstandigen;  
 
@@ -1629,9 +1621,9 @@ e. de op grond van artikel 29, tweede lid, onderdeel e, f en g, en artikel 70 va
 
 f. de op grond van enige wet over de uitkeringen, bedoeld in de onderdelen a tot en met e, door het UWV verschuldigde premies en de inkomensafhankelijke bijdrage, bedoeld in artikel 42 van de Zorgverzekeringswet, die niet op deze uitkeringen in mindering kunnen worden gebracht;  
 
-g. de gelden die door toepassing van artikel 118 worden overgeheveld naar de Werkhervattingskas;  
+g. de gelden die door toepassing van artikel 118, onderdeel a, worden overgeheveld naar de Werkhervattingskas;  
 
-h. vervallen;  
+h. de gelden die door toepassing van artikel 118, onderdeel b, worden overgeheveld naar het Rijk;  
 
 i. vervallen;  
 
@@ -1729,9 +1721,8 @@ c. de kosten die verband houden met de uitvoering van artikel 30a, van de Wet st
 
 ### Artikel  118  
 
-####Nadere regels
-
-Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de overheveling van gelden uit het Arbeidsongeschiktheidsfonds naar de Werkhervattingskas. 
+1.  Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de overheveling van gelden uit het Arbeidsongeschiktheidsfonds naar de Werkhervattingskas.   
+2.  Bij algemene maatregel van bestuur worden regels gesteld over de overheveling van gelden uit het Arbeidsongeschiktheidsfonds naar het Rijk ten behoeve van de financiering van uitkeringen en re-integratievoorzieningen op grond van de Wet arbeidsongeschiktheids-voorziening jonggehandicapten, en de financiering van uitkeringen en re-integratievoorzieningen op grond van de Participatiewet.  
 
 ### Artikel  118a  
 
@@ -1902,8 +1893,6 @@ Indien het bij koninklijke boodschap van 24 januari 2014 ingediende voorstel va
 
 ####Geleidelijke invoering quotumheffing
 
-Treedt in werking per 01-05-2015 
-
 1.  De quotumheffing, bedoeld in hoofdstuk 3, afdeling 4, paragraaf 4a, wordt niet uitgevoerd dan nadat bij regeling van Onze Minister, in overeenstemming met het gevoelen van de ministerraad, tot invoering is besloten indien is gebleken dat het aantal banen voor arbeidsbeperkten als bedoeld in artikel 38b, eerste lid, en het vierde lid, in onvoldoende mate is toegenomen ten opzichte van het aantal van deze banen op 1 januari 2013, waarbij dit apart wordt beoordeeld voor de sector overheid onderscheidenlijk de sector niet-overheid.   
 2.  Bij regeling van Onze Minister wordt ten behoeve van de vaststelling van de toename, bedoeld in het eerste lid, het aantal banen bepaald voor arbeidsbeperkten, bedoeld in het eerste lid, uitgedrukt in verloonde uren op 1 januari 2013 voor de sector overheid onderscheidenlijk de sector niet-overheid en wordt voor de desbetreffende sector voor het desbetreffende kalenderjaar, bepaald: 
 
@@ -1919,8 +1908,6 @@ c. de uitkomst van de vergelijking tussen het cumulatief aantal banen, bedoeld i
 ### Artikel  122o  
 
 ####Beëindiging uitsluiting dwangsomregeling
-
-Treedt in werking per 01-05-2015 
 
 Artikel 38h, achtste lid, vervalt met ingang van 1 januari van het vierde kalenderjaar na het kalenderjaar waarin de quotumheffing op grond van artikel 122n, eerste lid, is geactiveerd, tenzij voor die datum een voorstel van wet bij de Tweede Kamer der Staten-Generaal is ingediend, dat een vergelijkbare regeling bevat voor de uitsluiting van de dwangsomregeling, bedoeld in artikel 38h, achtste lid. 
 
@@ -1949,8 +1936,6 @@ Het UWV is bevoegd de van de rijksbelastingdienst afkomstige gegevens, genoemd i
 ### Artikel  124b  
 
 ####Evaluatie registratie arbeidsbeperkten
-
-Treedt in werking per 01-05-2015 
 
 De Minister van Sociale Zaken en Werkgelegenheid zendt binnen vijf jaar na de inwerkingtreding van artikel 38d aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit artikel in de praktijk. 
 

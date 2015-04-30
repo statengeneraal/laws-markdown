@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is ter vervanging van de Effectenvernieuwingswet een regeling op te nemen in het [Burgerlijk Wetboek](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) voor de vervanging van verloren gegane aandeelbewijzen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is ter vervanging van de Effectenvernieuwingswet een regeling op te nemen in het Burgerlijk Wetboek voor de vervanging van verloren gegane aandeelbewijzen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### ARTIKEL  I  

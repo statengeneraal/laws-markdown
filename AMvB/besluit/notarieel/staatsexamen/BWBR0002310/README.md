@@ -28,7 +28,7 @@ Hebben goedgevonden en verstaan:
 2.   Niemand wordt tot het tweede gedeelte toegelaten, tenzij hij het eerste gedeelte met goed gevolg heeft afgelegd of daarvan is vrijgesteld; niemand wordt tot het derde gedeelte toegelaten, tenzij hij het tweede gedeelte met goed gevolg heeft afgelegd of daarvan is vrijgesteld.   
 3.   Het examen wordt mondeling afgenomen; de commissie kan bepalen, dat het derde gedeelte geheel of gedeeltelijk schriftelijk wordt afgenomen. Mondeling kan niet meer dan één persoon tegelijk worden geëxamineerd. De mondelinge examens worden in het openbaar gehouden.   
 4.   Het eerste en het tweede gedeelte van het examen duren elk een uur; de duur van het derde gedeelte van examen wordt door de commissie bepaald.   
-5.   [Artikel 6 van het academisch statuut](../../../../../AMvB/academisch/statuut/BWBR0004353/README.md) is op het examen van overeenkomstige toepassing; de commissie kan, wanneer van dit artikel gebruik wordt gemaakt, de duur van het examen verkorten.  
+5.   Artikel 6 van het academisch statuut is op het examen van overeenkomstige toepassing; de commissie kan, wanneer van dit artikel gebruik wordt gemaakt, de duur van het examen verkorten.  
 
 ### Artikel  3  
 

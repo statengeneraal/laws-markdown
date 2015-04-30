@@ -186,7 +186,7 @@ c. heeft een nitraatgehalte, berekend als nitraation NO3, van ten hoogste 50 mg 
 
 d. heeft een nitrietgehalte, berekend als nitrietion NO2, van ten hoogste 2 mg per kg in de droge stof.     
 3.   Indien aan een op de voet van dit artikel aangeduide waar caseïnaat onderscheidenlijk wei-eiwitconcentraat is toegevoegd, wordt een vermelding gebezigd, die aangeeft welk percentage van deze stoffen is toegevoegd.   
-4.   In aanvulling op artikel 9, onder *d*, van het Warenwetbesluit Etikettering van levensmiddelen, behoeft de daar bedoelde lijst van ingrediënten ook niet te worden gebezigd voor de als yoghurt, halfvolle yoghurt of magere yoghurt aangeduide waar, voor zover ter zake geen andere ingrediënten zijn gebruikt dan koemelkbestanddelen, enzymen en culturen van micro-organismen.  
+4.   In aanvulling op artikel 19, eerste lid, onder d, van Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304), behoeft de daar bedoelde lijst van ingrediënten ook niet te worden gebezigd voor de als yoghurt, halfvolle yoghurt of magere yoghurt aangeduide waar, voor zover ter zake geen andere ingrediënten zijn gebruikt dan koemelkbestanddelen, enzymen en culturen van micro-organismen.  
 
 ### Artikel  9  
 
@@ -245,7 +245,7 @@ b. voorkomt in de Landbouwkwaliteitsregeling en bereid is in Nederland.
 a. aanwezig is in winkels of in enige andere voor het publiek toegankelijke verkoopplaats; en  
 
 b. geen rijksmerk draagt zoals bedoeld in de Landbouwkwaliteitsregeling kaasprodukten;   is voorzien van de desbetreffende aanduiding en van een vermelding, aangevende het vetgehalte van de droge stof van die kaas.   
-2.   In afwijking van artikel 27 van het Warenwetbesluit Etikettering van levensmiddelen worden de in het eerste lid bedoelde aanduiding en vermeldingen aangebracht op:  
+2.  In afwijking van artikel 8 van het Warenwetbesluit informatie levensmiddelen worden de in het eerste lid bedoelde aanduiding en vermeldingen aangebracht op:  
 
 a. de korst van de kaas;  
 

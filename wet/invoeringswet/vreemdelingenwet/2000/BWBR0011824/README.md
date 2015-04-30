@@ -250,20 +250,20 @@ Wijzigt de Huisvestingswet.
 
 ### Artikel  1  
 
-1.  Ten aanzien van de mogelijkheid om bezwaar te maken of beroep in te stellen tegen een besluit krachtens de [Wet Centraal Orgaan opvang asielzoekers](../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md), dat is genomen voor het tijdstip van inwerkingtreding van deze wet, dan wel een handeling krachtens de [Wet Centraal Orgaan opvang asielzoekers](../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md), blijft het recht zoals dat gold voor dat tijdstip van toepassing.   
-2.  Indien tegen een besluit krachtens de[ Wet Centraal Orgaan opvang asielzoekers](../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md) voorafgaande aan de inwerkingtreding van deze wet een bezwaar- of beroepschrift is ingediend, blijft op de behandeling daarvan het recht zoals dat gold voor dat tijdstip van toepassing.   
+1.  Ten aanzien van de mogelijkheid om bezwaar te maken of beroep in te stellen tegen een besluit krachtens de Wet Centraal Orgaan opvang asielzoekers, dat is genomen voor het tijdstip van inwerkingtreding van deze wet, dan wel een handeling krachtens de Wet Centraal Orgaan opvang asielzoekers, blijft het recht zoals dat gold voor dat tijdstip van toepassing.   
+2.  Indien tegen een besluit krachtens de Wet Centraal Orgaan opvang asielzoekers voorafgaande aan de inwerkingtreding van deze wet een bezwaar- of beroepschrift is ingediend, blijft op de behandeling daarvan het recht zoals dat gold voor dat tijdstip van toepassing.   
 
 ### Artikel  2  
 
-[Artikel 21 van de Wet arbeid vreemdelingen](../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md), zoals dit artikel luidde onmiddellijk voorafgaande aan de datum van inwerkingtreding van deze wet, blijft van kracht ten aanzien van een bezwaar of beroep, ingediend voorafgaande aan de inwerkingtreding van deze wet. 
+Artikel 21 van de Wet arbeid vreemdelingen, zoals dit artikel luidde onmiddellijk voorafgaande aan de datum van inwerkingtreding van deze wet, blijft van kracht ten aanzien van een bezwaar of beroep, ingediend voorafgaande aan de inwerkingtreding van deze wet. 
 
 ### Artikel  3  
 
-Voor zover de periode van vijf jaren, bedoeld in [artikel 10, tweede lid, onder b, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) is gelegen voor de datum van inwerkingtreding van deze wet, geldt de tekst van dat onderdeel zoals dit luidde voor de inwerkingtreding van deze wet. 
+Voor zover de periode van vijf jaren, bedoeld in artikel 10, tweede lid, onder b, van de Gemeentewet is gelegen voor de datum van inwerkingtreding van deze wet, geldt de tekst van dat onderdeel zoals dit luidde voor de inwerkingtreding van deze wet. 
 
 ### Artikel  4  
 
-Voor zover de periode van vijf jaren, bedoeld in [artikel B 3, tweede lid, onder b, van de Kieswet](../../../../../wet/kieswet/BWBR0004627/README.md) is gelegen voor de datum van inwerkingtreding van deze wet, geldt de tekst van dat onderdeel zoals dit luidde voor de inwerkingtreding van deze wet. 
+Voor zover de periode van vijf jaren, bedoeld in artikel B 3, tweede lid, onder b, van de Kieswet is gelegen voor de datum van inwerkingtreding van deze wet, geldt de tekst van dat onderdeel zoals dit luidde voor de inwerkingtreding van deze wet. 
 
 ### Artikel  5  
 

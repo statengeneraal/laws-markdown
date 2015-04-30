@@ -33,7 +33,7 @@ De commissie beoordeelt de zorgvuldigheid van het handelen van de arts die een l
 
 ### Artikel  5  
 
-De voorzitter en de leden van een commissie alsmede de plaatsvervangende leden ontvangen vacatiegeld overeenkomstig het [Vacatiegeldenbesluit 1988](../../../../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) (Stb. 1988, 205) alsmede een vergoeding voor de reis- en verblijfkosten overeenkomstig het [Reisbesluit binnenland](../../../../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) (Stb. 1993, 144), voor zover niet uit anderen hoofde een vergoeding voor deze kosten wordt verleend uit ’s Rijks kas. 
+De voorzitter en de leden van een commissie alsmede de plaatsvervangende leden ontvangen vacatiegeld overeenkomstig het Vacatiegeldenbesluit 1988 (Stb. 1988, 205) alsmede een vergoeding voor de reis- en verblijfkosten overeenkomstig het Reisbesluit binnenland (Stb. 1993, 144), voor zover niet uit anderen hoofde een vergoeding voor deze kosten wordt verleend uit ’s Rijks kas. 
 
 ### Artikel  6  
 
@@ -51,7 +51,7 @@ e. de wijze waarop de commissie verslag doet van haar werkzaamheden.
 
 ### Artikel  7  
 
-De [Instellingsregeling centrale deskundigencommissie beoordeling late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen](../../../../../../../../../../ministeriele-regeling/instellingsregeling/centrale/deskundigencommissie/beoordeling/late/etc/BWBR0020161/README.md) wordt ingetrokken. 
+De Instellingsregeling centrale deskundigencommissie beoordeling late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen wordt ingetrokken. 
 
 ### Artikel  8  
 

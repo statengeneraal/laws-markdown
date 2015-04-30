@@ -3,7 +3,7 @@
 ##Aanwijzing ambtenaren belast met het toezicht naleving sancties tegen Servië en Montenegro
 
 De Minister van Buitenlandse Zaken, De Minister van Financiën,De Minister van Defensie,De Minister van Verkeer en Waterstaat,De Minister van Landbouw, Natuurbeheer en Visserij enDe Staatssecretaris van Economische Zaken, 
-Gelet op [Artikel 10 van de Sanctiewet 1977](../../../../../../../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md) (Stbl. 1980, 93),
+Gelet op Artikel 10 van de Sanctiewet 1977 (Stbl. 1980, 93),
 Besluiten:    
 
 ### Artikel  1  

@@ -863,7 +863,7 @@ Wijzigt de Wet van 17 februari 1972, houdende uitvoering van de op 10 september 
 
 ### ARTIKEL  CLXXII  
 
-De[ Wet van 24 oktober 1973, houdende regelen inzake wettelijke aansprakelijkheid van exploitanten van nucleaire schepen](../../../../wet/wet/wettelijke/aansprakelijkheid/exploitanten/nucleaire/schepen/BWBR0002905/README.md) (Stb. 536) vervalt. 
+De Wet van 24 oktober 1973, houdende regelen inzake wettelijke aansprakelijkheid van exploitanten van nucleaire schepen (Stb. 536) vervalt. 
 
 ### ARTIKEL  CLXXIII  
 
@@ -907,7 +907,7 @@ Wijzigt de Wet van 29 juni 1994, houdende wijziging van de Wet op de vennootscha
 
 ### ARTIKEL  CLXXXIII  
 
-De[ Wet van 7 juli 1994, houdende wijziging van de Loodsenwet en de Scheepvaartverkeerswet in verband met de herziening van de financiële relatie tussen het Rijk en de loodsen, de invoering van een verkeersbegeleidingstarief en een aantal technische wijzigingen](../../../../wet/wijzigingswet/loodsenwet/enz./(herziening/financiële/relatie/tussen/rijk/etc/BWBR0006808/README.md) (Stb. 584) vervalt. 
+De Wet van 7 juli 1994, houdende wijziging van de Loodsenwet en de Scheepvaartverkeerswet in verband met de herziening van de financiële relatie tussen het Rijk en de loodsen, de invoering van een verkeersbegeleidingstarief en een aantal technische wijzigingen (Stb. 584) vervalt. 
 
 ### ARTIKEL  CLXXXIV  
 
@@ -1015,20 +1015,20 @@ Wijzigt de Ziekenfondswet.
 
 ### ARTIKEL  CCI  
 
-De advocaten en procureurs die kantoor houden in een gemeente die ingevolge de [Wet van 11 september 1996, houdende een gemeentelijke herindeling in de samenwerkingsgebieden Midden-Brabant, Breda en Westelijk Noord-Brabant en in een gedeelte van de samenwerkingsgebieden Zuidoost-Brabant en 's-Hertogenbosch](../../../../wet/wet/tot/gemeentelijke/herindeling/samenwerkingsgebieden/midden-brabant/etc/BWBR0008231/README.md) (Stb. 449) is overgegaan naar een ander arrondissement, worden door de zorg van de betrokken griffiers ingeschreven bij de rechtbank van het nieuwe arrondissement. Zij blijven tot 1 januari 2002 tevens ingeschreven bij de rechtbank van het oude arrondissement. [Artikel 61, tweede lid, tweede volzin, van de Advocatenwet](../../../../wet/advocatenwet/BWBR0002093/README.md) blijft buiten toepassing. 
+De advocaten en procureurs die kantoor houden in een gemeente die ingevolge de Wet van 11 september 1996, houdende een gemeentelijke herindeling in de samenwerkingsgebieden Midden-Brabant, Breda en Westelijk Noord-Brabant en in een gedeelte van de samenwerkingsgebieden Zuidoost-Brabant en 's-Hertogenbosch (Stb. 449) is overgegaan naar een ander arrondissement, worden door de zorg van de betrokken griffiers ingeschreven bij de rechtbank van het nieuwe arrondissement. Zij blijven tot 1 januari 2002 tevens ingeschreven bij de rechtbank van het oude arrondissement. Artikel 61, tweede lid, tweede volzin, van de Advocatenwet blijft buiten toepassing. 
 
 ### ARTIKEL  CCII  
 
-1.  De [Wet van 11 september 1996, houdende een gemeentelijke herindeling in de samenwerkingsgebieden Midden-Brabant, Breda en Westelijk Noord-Brabant en in een gedeelte van de samenwerkingsgebieden Zuidoost-Brabant en 's-Hertogenbosch](../../../../wet/wet/tot/gemeentelijke/herindeling/samenwerkingsgebieden/midden-brabant/etc/BWBR0008231/README.md) (Stb. 449) is niet van invloed op de bevoegdheid van de rechter in burgerlijke en bestuursrechtelijke zaken of op die van procureurs van partijen met betrekking tot zaken die voorafgaand aan de in die wet geregelde herindeling bij een gerecht aanhangig zijn gemaakt.   
+1.  De Wet van 11 september 1996, houdende een gemeentelijke herindeling in de samenwerkingsgebieden Midden-Brabant, Breda en Westelijk Noord-Brabant en in een gedeelte van de samenwerkingsgebieden Zuidoost-Brabant en 's-Hertogenbosch (Stb. 449) is niet van invloed op de bevoegdheid van de rechter in burgerlijke en bestuursrechtelijke zaken of op die van procureurs van partijen met betrekking tot zaken die voorafgaand aan de in die wet geregelde herindeling bij een gerecht aanhangig zijn gemaakt.   
 2.  De in het eerste lid bedoelde wet is evenmin van invloed op de bevoegdheid van de rechter tot kennisneming van strafbare feiten die voorafgaand aan de in die wet geregelde herindeling door de officier van justitie in behandeling zijn genomen, met dien verstande dat in strafzaken waarin na de inwerkingtreding van die wet hoger beroep wordt ingesteld, deze bepaling buiten toepassing blijft.  
 
 ### ARTIKEL  CCIII  
 
-Ten aanzien van de mogelijkheid om administratief beroep in te stellen ingevolge [artikel 5, vijfde lid, 7 vijfde lid, of 16, zesde lid, van de Warenwet](../../../../wet/warenwet/BWBR0001969/README.md), zoals dat artikel luidde voor de datum van inwerkingtreding van artikel LXXXI, tegen een besluit dat voor die datum is bekendgemaakt, blijft het recht zoals het gold voor dat tijdstip van toepassing. 
+Ten aanzien van de mogelijkheid om administratief beroep in te stellen ingevolge artikel 5, vijfde lid, 7 vijfde lid, of 16, zesde lid, van de Warenwet, zoals dat artikel luidde voor de datum van inwerkingtreding van artikel LXXXI, tegen een besluit dat voor die datum is bekendgemaakt, blijft het recht zoals het gold voor dat tijdstip van toepassing. 
 
 ### ARTIKEL  CCIIIA  
 
-1.  Indien voor de datum van inwerkingtreding van artikel CXXXIa, onderdeel B, tegen een besluit van een kamer van koophandel en fabrieken als bedoeld in [artikel 55 van de Wet op de kamers van koophandel en fabrieken 1997](../../../../wet/wet/op/de/kamers/van/koophandel/en/fabrieken/1997/BWBR0009276/README.md) beroep is ingesteld bij de rechtbank, dan wel tegen een uitspraak van de rechtbank op een beroep tegen een dergelijk besluit hoger beroep is ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State, en op het beroep of het hoger beroep nog geen uitspraak is gedaan, draagt de rechtbank onderscheidenlijk de Afdeling bestuursrechtspraak de behandeling daarvan over aan het College van Beroep voor het bedrijfsleven.   
+1.  Indien voor de datum van inwerkingtreding van artikel CXXXIa, onderdeel B, tegen een besluit van een kamer van koophandel en fabrieken als bedoeld in artikel 55 van de Wet op de kamers van koophandel en fabrieken 1997 beroep is ingesteld bij de rechtbank, dan wel tegen een uitspraak van de rechtbank op een beroep tegen een dergelijk besluit hoger beroep is ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State, en op het beroep of het hoger beroep nog geen uitspraak is gedaan, draagt de rechtbank onderscheidenlijk de Afdeling bestuursrechtspraak de behandeling daarvan over aan het College van Beroep voor het bedrijfsleven.   
 2.  Indien op het tijdstip van inwerkingtreding van artikel CXXXIa, onderdeel B, nog hoger beroep openstaat bij de Afdeling bestuursrechtspraak van de Raad van State, treedt het College van Beroep voor het bedrijfsleven in de plaats van de Afdeling bestuursrechtspraak.  
 
 ### ARTIKEL  CCIV  

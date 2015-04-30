@@ -716,7 +716,7 @@ De reclassering kan een voorstel doen aan het openbaar ministerie tot wijziging,
 
 Van een inrichting als bedoeld in artikel 38*a*, tweede lid, van het Wetboek van Strafrecht, wordt vereist dat deze: 
 
-a. een instelling is als bedoeld in artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen die is toegelaten voor het verlenen van zorg waarop aanspraak bestaat ingevolge de Algemene Wet Bijzondere Ziektekosten, of  
+a. een instelling is als bedoeld in artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen die is toegelaten voor het verlenen van zorg waarop aanspraak bestaat ingevolge de Wet langdurige zorg, of  
 
 b. is aangemerkt als psychiatrisch ziekenhuis als bedoeld in artikel 1, onder *h*, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.    
 
@@ -755,7 +755,7 @@ Bij overlijden van een ter beschikking gestelde of anderzins verpleegde komen de
 
 ### Artikel  79  
 
-1.  Onverminderd het bepaalde bij of krachtens de Algemene Wet Bijzondere Ziektekosten komen ten laste van de Staat: 
+1.  Onverminderd het bepaalde bij of krachtens de Wet langdurige zorg komen ten laste van de Staat: 
 
 a. de kosten van verpleging en behandeling van de ter beschikking gestelde of anderszins verpleegde die voortvloeien uit hulpverlening door gedragsdeskundigen in verband met de geestesstoornis van de betrokkene;  
 

@@ -93,7 +93,7 @@ c. indien van toepassing, dat de voornamen ambtshalve zijn gegeven door degene d
 
 ###Artikel 10 
 
-Degene die de voorlopige akte van geboorte opmaakt, stelt zo mogelijk de identiteit vast van de aangever aan de hand van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md). 
+Degene die de voorlopige akte van geboorte opmaakt, stelt zo mogelijk de identiteit vast van de aangever aan de hand van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht. 
 
 ### Artikel  11  
 

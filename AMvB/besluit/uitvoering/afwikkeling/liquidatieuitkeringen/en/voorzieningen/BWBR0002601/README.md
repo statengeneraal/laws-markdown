@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Sociale Zaken en Volksgezondheid van 12 juli 1967, Directoraat-Generaal voor Sociale Voorzieningen, Directie Sociale Verzekering, Afdeling Algemene Zaken, nr. 58424;
 
-Gelet op artikel 55 van de Liquidatiewet invaliditeitswetten, [artikel 26 van de Liquidatiewet ongevallenwetten](../../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md) en [artikel 57, vijfde lid, van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/overgangsregeling/arbeidsongeschiktheidsverzekering/BWBR0002551/README.md);
+Gelet op artikel 55 van de Liquidatiewet invaliditeitswetten, artikel 26 van de Liquidatiewet ongevallenwetten en artikel 57, vijfde lid, van de Wet overgangsregeling arbeidsongeschiktheidsverzekering;
 
 De Raad van State gehoord (advies van 2 augustus 1967, No. 51);
 
@@ -24,7 +24,7 @@ a. de Bank: de Sociale Verzekeringsbank;
 
 b. de G.M.D.: de Gemeenschappelijke Medische Dienst, bedoeld in hoofdstuk II, § 2*a* van de Organisatiewet Sociale Verzekering;  
 
-c. het bevoegd orgaan: het orgaan, dat ten opzichte van de betrokkene is belast met de toekenning, herziening, intrekking en/of betaalbaarstelling van uitkeringen krachtens de [Liquidatiewet ongevallenwetten](../../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md).   
+c. het bevoegd orgaan: het orgaan, dat ten opzichte van de betrokkene is belast met de toekenning, herziening, intrekking en/of betaalbaarstelling van uitkeringen krachtens de Liquidatiewet ongevallenwetten.   
 
 ### Hoofdstuk  II  
 
@@ -79,19 +79,19 @@ De Bank neemt geen beslissing inzake toekenning, herziening of intrekking van ee
 
 ### Hoofdstuk  IV  
 
-####Uitkeringen krachtens de [Liquidatiewet ongevallenwetten](../../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md) 
+####Uitkeringen krachtens de Liquidatiewet ongevallenwetten 
 
 ### Artikel  12  
 
-In afwijking, voor zoveel nodig, van het bepaalde in [artikel 22 van de Liquidatiewet ongevallenwetten](../../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md) worden door de Bank behandeld:  
+In afwijking, voor zoveel nodig, van het bepaalde in artikel 22 van de Liquidatiewet ongevallenwetten worden door de Bank behandeld:  
 
-a. de uitkeringen als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a*, van de Zeeongevallenwet 1919, ingevolge de [artikelen 4](../../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md), [5](../../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md), [6](../../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md), [9, tweede lid](../../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md), of [10, derde lid, van de Liquidatiewet ongevallenwetten](../../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md) te verlenen aan personen, die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), hebben bereikt, indien een jaar of langer na het ongeval, ter zake waarvan de uitkering is verleend, is verstreken;  
+a. de uitkeringen als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a*, van de Zeeongevallenwet 1919, ingevolge de artikelen 4, 5, 6, 9, tweede lid, of 10, derde lid, van de Liquidatiewet ongevallenwetten te verlenen aan personen, die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, hebben bereikt, indien een jaar of langer na het ongeval, ter zake waarvan de uitkering is verleend, is verstreken;  
 
-b. de uitkeringen, te verlenen ingevolge de [artikelen 14](../../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md), [15](../../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md) en [16 van de Liquidatiewet ongevallenwetten](../../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md).   
+b. de uitkeringen, te verlenen ingevolge de artikelen 14, 15 en 16 van de Liquidatiewet ongevallenwetten.   
 
 ### Artikel  13  
 
-In afwijking, voor zoveel nodig, van het bepaalde in de artikelen 3, tweede lid, en 22 van de Liquidatiewetten, is ten aanzien van degene, die tegenover de Bank aanspraak maakt op of in het genot is van een door dat orgaan toegekende of ingevolge artikel 12 behandelde uitkering als bedoeld in de artikelen 15, 16 of 19 van de Ongevallenwet 1921, 36, 37 of 40 van de Land- en Tuinbouwongevallenwet 1922 of 17 van de [Liquidatiewet ongevallenwetten](../../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md), alsmede ten aanzien van degene, die aanspraak maakt op een uitkering als bedoeld in artikel 18 van laatstgenoemde wet, het bepaalde in de artikelen 14 en 15 van toepassing en voorts het bepaalde in artikel 22*a*, eerste lid, van de Organisatiewet Sociale Verzekering van overeenkomstige toepassing. 
+In afwijking, voor zoveel nodig, van het bepaalde in de artikelen 3, tweede lid, en 22 van de Liquidatiewetten, is ten aanzien van degene, die tegenover de Bank aanspraak maakt op of in het genot is van een door dat orgaan toegekende of ingevolge artikel 12 behandelde uitkering als bedoeld in de artikelen 15, 16 of 19 van de Ongevallenwet 1921, 36, 37 of 40 van de Land- en Tuinbouwongevallenwet 1922 of 17 van de Liquidatiewet ongevallenwetten, alsmede ten aanzien van degene, die aanspraak maakt op een uitkering als bedoeld in artikel 18 van laatstgenoemde wet, het bepaalde in de artikelen 14 en 15 van toepassing en voorts het bepaalde in artikel 22*a*, eerste lid, van de Organisatiewet Sociale Verzekering van overeenkomstige toepassing. 
 
 ### Artikel  14  
 
@@ -104,16 +104,16 @@ Het bevoegde orgaan neemt geen beslissing inzake toekenning, herziening of intre
 
 ### Hoofdstuk  V  
 
-####Voorzieningen als bedoeld in de [artikelen 43](../../../../../../../../wet/wet/overgangsregeling/arbeidsongeschiktheidsverzekering/BWBR0002551/README.md), [44](../../../../../../../../wet/wet/overgangsregeling/arbeidsongeschiktheidsverzekering/BWBR0002551/README.md) en [45 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/overgangsregeling/arbeidsongeschiktheidsverzekering/BWBR0002551/README.md), in gevallen waarin geen recht op een arbeidsongeschiktheidsuitkering aan die wet wordt verleend
+####Voorzieningen als bedoeld in de artikelen 43, 44 en 45 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering, in gevallen waarin geen recht op een arbeidsongeschiktheidsuitkering aan die wet wordt verleend
 
 ### Artikel  16  
 
-Degene, bedoeld in [artikel 43 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/overgangsregeling/arbeidsongeschiktheidsverzekering/BWBR0002551/README.md), die geen recht op een arbeidsongeschiktheidsuitkering ontleent aan die wet, wordt in afwijking van het bepaalde in het eerste lid van artikel 57 van die wet, voor de in artikel 43 genoemde voorziening in aanmerking gebracht door de Bank. 
+Degene, bedoeld in artikel 43 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering, die geen recht op een arbeidsongeschiktheidsuitkering ontleent aan die wet, wordt in afwijking van het bepaalde in het eerste lid van artikel 57 van die wet, voor de in artikel 43 genoemde voorziening in aanmerking gebracht door de Bank. 
 
 ### Artikel  17  
 
-1.  Degene, bedoeld in [artikel 44](../../../../../../../../wet/wet/overgangsregeling/arbeidsongeschiktheidsverzekering/BWBR0002551/README.md) of [45 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/overgangsregeling/arbeidsongeschiktheidsverzekering/BWBR0002551/README.md), die geen recht op een arbeidsongeschiktheidsuitkering ontleent aan die wet, wordt, in afwijking van het bepaalde in het derde lid van [artikel 57 van die wet](../../../../../../../../wet/wet/overgangsregeling/arbeidsongeschiktheidsverzekering/BWBR0002551/README.md), voor de in artikel 44 of 45 van die wet genoemde voorziening in aanmerking gebracht door het orgaan, dat hem voor een in die artikelen bedoelde voorziening in aanmerking zou hebben gebracht, indien de Ongevallenwet 1921, de Land- en Tuinbouwongevallenwet 1922 en de Zeeongevallenwet 1919 niet zouden zijn ingetrokken, evenwel slechts zolang nog geen jaar is verstreken na het ongeval, ter zake waarvan de voorziening wordt getroffen.   
-2.   In afwijking van het bepaalde in het derde lid van [artikel 57, van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/overgangsregeling/arbeidsongeschiktheidsverzekering/BWBR0002551/README.md) wordt degene, die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt, voor de in artikel 44 of 45 van die wet genoemde voorziening in aanmerking gebracht door de Bank, indien een jaar of langer is verstreken na het ongeval, ter zake waarvan de voorziening wordt getroffen.  
+1.  Degene, bedoeld in artikel 44 of 45 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering, die geen recht op een arbeidsongeschiktheidsuitkering ontleent aan die wet, wordt, in afwijking van het bepaalde in het derde lid van artikel 57 van die wet, voor de in artikel 44 of 45 van die wet genoemde voorziening in aanmerking gebracht door het orgaan, dat hem voor een in die artikelen bedoelde voorziening in aanmerking zou hebben gebracht, indien de Ongevallenwet 1921, de Land- en Tuinbouwongevallenwet 1922 en de Zeeongevallenwet 1919 niet zouden zijn ingetrokken, evenwel slechts zolang nog geen jaar is verstreken na het ongeval, ter zake waarvan de voorziening wordt getroffen.   
+2.   In afwijking van het bepaalde in het derde lid van artikel 57, van de Wet overgangsregeling arbeidsongeschiktheidsverzekering wordt degene, die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt, voor de in artikel 44 of 45 van die wet genoemde voorziening in aanmerking gebracht door de Bank, indien een jaar of langer is verstreken na het ongeval, ter zake waarvan de voorziening wordt getroffen.  
 
 ### Hoofdstuk  VI  
 
@@ -121,7 +121,7 @@ Degene, bedoeld in [artikel 43 van de Wet overgangsregeling arbeidsongeschikthei
 
 ### Artikel  18  
 
-In afwijking van het bepaalde in de artikelen 27, eerste lid, onder *h*, van de Invaliditeitswet, 17, eerste lid, tweede volzin, van de Interimwet invaliditeitsrentetrekkers, 27*d* van de Ongevallenwet 1921 en 50*c* van de Land- en Tuinbouwongevallenwet 1922, is op de door de G.M.D. of de door die Dienst aangewezen deskundige opgeroepenen en, indien hun toestand geleide nodig maakt, mede op hun geleiders, het bepaalde bij of krachtens [artikel 26 van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) van toepassing. 
+In afwijking van het bepaalde in de artikelen 27, eerste lid, onder *h*, van de Invaliditeitswet, 17, eerste lid, tweede volzin, van de Interimwet invaliditeitsrentetrekkers, 27*d* van de Ongevallenwet 1921 en 50*c* van de Land- en Tuinbouwongevallenwet 1922, is op de door de G.M.D. of de door die Dienst aangewezen deskundige opgeroepenen en, indien hun toestand geleide nodig maakt, mede op hun geleiders, het bepaalde bij of krachtens artikel 26 van de Wet op de arbeidsongeschiktheidsverzekering van toepassing. 
 
 ### Artikel  19  
 
@@ -131,7 +131,7 @@ a. de Bank en de G.M.D. van kosten, welke voor die Dienst voortvloeien uit de ui
 
 b. het Arbeidsongeschiktheidsfonds en de G.M.D. van kosten, welke voor die Dienst voortvloeien uit de uitvoering van hoofdstuk IV, al dan niet in verbinding met artikel 18;  
 
-c. het Arbeidsongeschiktheidsfonds en de bedrijfsvereniging als bedoeld in [artikel 23, tweede lid, van de Liquidatiewet ongevallenwetten](../../../../../../../../wet/liquidatiewet/ongevallenwetten/BWBR0002553/README.md) van kosten, welke voor die bedrijfsvereniging voortvloeien uit de uitvoering van de artikelen 18 en 23, tweede lid, van die wet.   
+c. het Arbeidsongeschiktheidsfonds en de bedrijfsvereniging als bedoeld in artikel 23, tweede lid, van de Liquidatiewet ongevallenwetten van kosten, welke voor die bedrijfsvereniging voortvloeien uit de uitvoering van de artikelen 18 en 23, tweede lid, van die wet.   
 
 ### Artikel  20  
 

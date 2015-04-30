@@ -125,7 +125,7 @@ Het wezenpensioen, waarop twee of meer volle wezen aanspraak hebben, wordt, indi
 ### Artikel  17  
 
 1.  Bij gelijktijdige aanspraak op een weduwepensioen, onderscheidenlijk een wezenpensioen en een algemene nabestaandenuitkering, onderscheidenlijk een algemene wezenuitkering wordt, voor zover de tijdvakken, waarop het pensioen en de algemene uitkering geacht worden betrekking te hebben, samenvallen, de betaling van het weduwepensioen, onderscheidenlijk het wezenpensioen iedere maand beperkt naar reden van 2 percent van de algemene nabestaandenuitkering, onderscheidenlijk de algemene wezenuitkering per samenvallend jaar.   
-2.  Indien aanspraak bestaat op een algemene nabestaandenuitkering op grond van artikel 14, eerste lid, onderdeel a, van de Algemene nabestaandenwet, doch geen van de in evengenoemde bepaling bedoelde kinderen recht heeft op een wezenpensioen, wordt de beperking berekend naar de algemene nabestaandenuitkering die geldt voor degenen op wie artikel 17, tweede lid, van de Algemene nabestaandenwet toepassing vindt.   
+2.  Indien aanspraak bestaat op een algemene nabestaandenuitkering op grond van artikel 14, eerste lid, onderdeel a, van de Algemene nabestaandenwet, doch geen van de in evengenoemde bepaling bedoelde kinderen recht heeft op een wezenpensioen, wordt de beperking berekend naar de algemene nabestaandenuitkering die geldt voor degenen op wie artikel 17, eerste lid, van de Algemene nabestaandenwet toepassing vindt.   
 3.   Het bepaalde in artikel 12 is van overeenkomstige toepassing.    
 4.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan nadere regels stellen met betrekking tot de in de vorige leden bedoelde beperking te hanteren bedragen.  
 
@@ -229,7 +229,7 @@ Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is bevoegd in bijzon
 
 ### Artikel  27a  
 
-1. Indien degene die recht heeft op een pensioen, ingevolge het bepaalde bij of krachtens de artikelen 6 en 13 van de Algemene Wet Bijzondere Ziektekosten een bijdrage verschuldigd is in de kosten van zorg, is Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties bevoegd het pensioen en de daarop verleende toeslagen tot ten hoogste het bedrag van die bijdrage in de plaats van aan de rechthebbende zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet.  
+1. Indien degene die recht heeft op een pensioen, ingevolge het bepaalde bij of krachtens de Wet langdurige zorg een bijdrage verschuldigd is in de kosten van zorg, is Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties bevoegd het pensioen en de daarop verleende toeslagen tot ten hoogste het bedrag van die bijdrage in de plaats van aan de rechthebbende zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet.  
 2.   Artikel 10 van de wet van 25 mei 1962 (*Stb.* 196) is niet van toepassing op een ingevolge het vorige lid genomen beslissing.   
 
 ### Artikel  28  

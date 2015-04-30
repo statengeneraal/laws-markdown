@@ -34,7 +34,9 @@ g.deelnemer: de deelnemer, bedoeld in artikel 1 van de Pensioenwet;
 
 h. lichamen: rechtspersonen, maat- en vennootschappen, samenwerkingsvormen zonder rechtspersoonlijkheid die met verenigingen maatschappelijk gelijk kunnen worden gesteld, ondernemingen van publiekrechtelijke rechtspersonen en doelvermogens;  
 
-i. verplichtstelling: de verplichte deelneming in een bedrijfstakpensioenfonds op grond van artikel 2, eerste lid.    
+i. verplichtstelling: de verplichte deelneming in een bedrijfstakpensioenfonds op grond van artikel 2, eerste lid;  
+
+j. nettopensioen: het nettopensioen, bedoeld in artikel 1 van de Pensioenwet.  
 
 ### §  2  
 
@@ -58,8 +60,13 @@ d. een actuariële en bedrijfstechnische nota als bedoeld in artikel 145 van de 
 e. een authentiek afschrift van de akte houdende wijziging van de statuten indien er een wijziging van de statuten heeft plaatsgevonden, en  
 
 f. een door het bestuur van het bedrijfstakpensioenfonds gewaarmerkt exemplaar van de wijzigingen van de reglementen indien er een wijziging van de reglementen heeft plaatsgevonden.     
-3.  Van de verplichtstelling zijn arbitrale bedingen als bedoeld in artikel 1020, vijfde lid, van het Wetboek van Burgerlijke Rechtsvordering uitgesloten.   
-4.  Bij ministeriële regeling kunnen met betrekking tot de aanvraag alsmede met betrekking tot het tweede lid nadere regels worden gesteld.  
+3.  Van de verplichtstelling zijn uitgesloten: 
+
+a. arbitrale bedingen als bedoeld in artikel 1020, vijfde lid, van het Wetboek van Burgerlijke Rechtsvordering;  
+
+b. pensioenregelingen die niet blijven binnen de begrenzingen die zijn opgenomen in artikel 18a van de Wet op de loonbelasting 1964 en die niet krachtens artikel 19d van die wet zijn aangewezen, behalve indien en zolang de in artikel 18a van die wet opgenomen begrenzingen op grond van hoofdstuk VIII van die wet op die pensioenregelingen niet van toepassing zijn of sprake is van een nettopensioen.     
+4.  Bij ministeriële regeling kunnen met betrekking tot de aanvraag alsmede met betrekking tot het tweede lid nadere regels worden gesteld, waarbij kan worden bepaald dat de indiening van de aanvraag uitsluitend langs elektronische weg kan geschieden, tenzij er naar het oordeel van Onze Minister sprake is van omstandigheden die zich daartegen verzetten.   
+5.  Voor de toepassing van het derde lid, onderdeel b, zijn de artikelen 3.18, vierde en vijfde lid, en 3.95, eerste lid, tweede volzin, van de Wet inkomstenbelasting 2001 alsmede de daarop berustende bepalingen van overeenkomstige toepassing. 
 
 ### §  3  
 
@@ -142,20 +149,20 @@ e. er sprake is van het verstrekken van naam-, adres-, en woonplaatsgegevens aan
 
 ####Wijziging van de verplichtstelling
 
-1.  Onze Minister kan op aanvraag van het georganiseerde bedrijfsleven binnen een bedrijfstak dat naar zijn oordeel een belangrijke meerderheid van de in die bedrijfstak werkzame personen vertegenwoordigt, de verplichtstelling wijzigen. Artikel 2, tweede lid, onderdelen a, d, e en f, zijn van overeenkomstige toepassing.   
-2.  Bij ministeriële regeling kunnen met betrekking tot het eerste lid nadere regels worden gesteld.  
+1.  Onze Minister kan op aanvraag van het georganiseerde bedrijfsleven binnen een bedrijfstak dat naar zijn oordeel een belangrijke meerderheid van de in die bedrijfstak werkzame personen vertegenwoordigt, de verplichtstelling wijzigen. Artikel 2, tweede lid, onderdelen a, d, e en f, derde lid, vierde lid en vijfde lid, is van overeenkomstige toepassing   
+2.  Bij ministeriële regeling kunnen met betrekking tot het eerste lid nadere regels worden gesteld, waarbij kan worden bepaald dat de indiening van de aanvraag uitsluitend langs elektronische weg kan geschieden, tenzij er naar het oordeel van Onze Minister sprake is van omstandigheden die zich daartegen verzetten.  
 
 ### Artikel  11  
 
 ####Intrekking van de verplichtstelling
 
-1.  Onze Minister kan de verplichtstelling ambtshalve voor alle of voor een of meer bepaalde groepen van deelnemers intrekken.   
+1.  Onze Minister kan de verplichtstelling ambtshalve voor alle of voor een of meer bepaalde groepen van deelnemers intrekken. De Minister kan de verplichtstelling in ieder geval ambtshalve intrekken, indien het betreft een pensioenregeling als bedoeld in artikel 2, derde lid, onderdeel b.   
 2.  Onze Minister kan op aanvraag van het georganiseerde bedrijfsleven binnen een bedrijfstak dat naar zijn oordeel een belangrijke meerderheid van de in die bedrijfstak werkzame personen vertegenwoordigt, de verplichtstelling voor alle deelnemers in die bedrijfstak intrekken.   
 3.  Onze Minister kan op aanvraag van het georganiseerde bedrijfsleven binnen een bedrijfstak dat naar zijn oordeel een belangrijke meerderheid van de in die bedrijfstak werkzame personen vertegenwoordigt, de verplichtstelling voor een deel van de deelnemers die in de bedrijfstak werkzaam zijn, intrekken.   
 4.  Bij de intrekking kunnen door Onze Minister ter bescherming van de rechten van de deelnemers of gewezen deelnemers voorschriften worden gegeven met betrekking tot de rechten en verplichtingen van de deelnemers, gewezen deelnemers of hun werkgevers.   
 5.  De aanvraag, bedoeld in het tweede lid, gaat vergezeld van een verklaring waaruit blijkt dat de organisaties die de aanvraag doen, een belangrijke meerderheid van de in die bedrijfstak werkzame personen vertegenwoordigen.   
 6.  De aanvraag, bedoeld in het derde lid, gaat vergezeld van een verklaring waaruit blijkt dat de organisaties die de aanvraag doen, een belangrijke meerderheid van de in dat deel van die bedrijfstak werkzame personen vertegenwoordigen.   
-7.  Bij ministeriële regeling kunnen met betrekking tot de aanvraag alsmede met betrekking tot het vijfde en zesde lid nadere regels worden gesteld.  
+7.  Bij ministeriële regeling kunnen met betrekking tot de aanvraag alsmede met betrekking tot het vijfde en zesde lid nadere regels worden gesteld, waarbij kan worden bepaald dat de indiening van de aanvraag uitsluitend langs elektronische weg kan geschieden, tenzij er naar het oordeel van Onze Minister sprake is van omstandigheden die zich daartegen verzetten.  
 
 ### Artikel  12  
 
@@ -196,7 +203,7 @@ c. de datum waarop na het verzoek van Onze Minister, bedoeld in het eerste of vi
 ####Ontheffing
 
 1.  Onverminderd artikel 97, tweede lid, van de Pensioenwet kan Onze Minister een persoon die slechts tijdelijk in Nederland werkzaam is, op aanvraag in een bijzonder, individueel geval voorwaardelijk of onvoorwaardelijk en al of niet voor een bepaalde tijd ontheffing verlenen van de verplichtstelling.   
-2.  Bij ministeriële regeling kunnen nadere regels met betrekking tot de aanvraag worden gesteld.  
+2.  Bij ministeriële regeling kunnen nadere regels met betrekking tot de aanvraag worden gesteld, waarbij voor de indiening van de aanvraag kan worden bepaald dat deze uitsluitend langs elektronische weg kan geschieden, tenzij er naar het oordeel van Onze Minister sprake is van omstandigheden die zich daartegen verzetten.  
 
 ### Artikel  16  
 
@@ -219,7 +226,7 @@ f. een voornemen tot ambtshalve intrekking van een verplichtstelling, en
 g. een intrekking van een verplichtstelling; 
 
 h.het niet verder in behandeling nemen van een aanvraag.    
-2.  Bij de mededelingen, bedoeld in het eerste lid, onderdelen a, c, e en f, vermeldt Onze Minister de termijn waarbinnen zienswijzen tegen de inhoud van hetgeen is meegedeeld schriftelijk bij hem naar voren kunnen worden gebracht.  
+2.  Bij de mededelingen, bedoeld in het eerste lid, onderdelen a, c, e en f, vermeldt Onze Minister de termijn waarbinnen zienswijzen tegen de inhoud van hetgeen is meegedeeld schriftelijk bij hem naar voren kunnen worden gebracht. Bij ministeriële regeling kan worden bepaald dat de indiening van de zienswijze uitsluitend langs elektronische weg kan plaatsvinden, tenzij er naar het oordeel van Onze Minister sprake is van omstandigheden die zich daartegen verzetten.  
 
 ### Artikel  16a  
 
@@ -236,7 +243,7 @@ De Kaderwet zelfstandige bestuursorganen is niet van toepassing op bedrijfstakpe
 ####Toezicht
 
 1.  Het toezicht op de uitvoering van de artikelen 5, 6, 7, 8 en 9, eerste en tweede lid, berust bij de Nederlandsche Bank.   
-2. De artikelen 152, 153, 163 tot en met 166 en 188 tot en met 191 van de Pensioenwet zijn van overeenkomstige toepassing. 
+2. De artikelen 152, 153, 163 tot en met 166a en 188 tot en met 191 van de Pensioenwet zijn van overeenkomstige toepassing. 
 
 ### Artikel  18  
 

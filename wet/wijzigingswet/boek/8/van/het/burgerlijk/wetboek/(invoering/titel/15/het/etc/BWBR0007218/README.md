@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is titel 15 van Boek 8 van het Burgerlijk Wetboek vast te stellen en in verband daarmee de Wet teboekgestelde Luchtvaartuigen in te trekken en wijzigingen aan te brengen in het Burgerlijk Wetboek, het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), het [Wetboek van Strafrecht](../../../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), alsmede in enige andere wetten;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is titel 15 van Boek 8 van het Burgerlijk Wetboek vast te stellen en in verband daarmee de Wet teboekgestelde Luchtvaartuigen in te trekken en wijzigingen aan te brengen in het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering, het Wetboek van Strafrecht, alsmede in enige andere wetten;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -59,7 +59,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  XIII  
 
-De inwerkingtreding van [artikel 624, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), zoals dat is vastgesteld bij deze wet, heeft geen gevolg voor de bevoegdheid van de rechter aan wie voordien de in artikel 3, vierde lid, van de Wet teboekgestelde Luchtvaartuigen bedoelde goedkeuring is gevraagd, dan wel aan wie voordien de in artikel 4, tweede lid, van de Wet teboekgestelde Luchtvaartuigen bedoelde machtiging is verzocht. 
+De inwerkingtreding van artikel 624, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering, zoals dat is vastgesteld bij deze wet, heeft geen gevolg voor de bevoegdheid van de rechter aan wie voordien de in artikel 3, vierde lid, van de Wet teboekgestelde Luchtvaartuigen bedoelde goedkeuring is gevraagd, dan wel aan wie voordien de in artikel 4, tweede lid, van de Wet teboekgestelde Luchtvaartuigen bedoelde machtiging is verzocht. 
 
 ### Artikel  XIV  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 oktober 2000, AB2000/U93738, directoraat-generaal Management en Personeelsbeleid, directie Arbeidszaken Overheid, afdeling Uitkeringen en Pensioenen, mede namens Onze Staatssecretaris van Sociale Zaken en Werkgelegenheid, J. F. Hoogervorst;
 
-Gelet op [artikel 90, achtste lid, van de Wet overheidspersoneel onder de werknemersverzekeringen](../../../../../../../../../../wet/wet/overheidspersoneel/onder/de/werknemersverzekeringen/BWBR0009267/README.md);
+Gelet op artikel 90, achtste lid, van de Wet overheidspersoneel onder de werknemersverzekeringen;
 
 De Raad van State gehoord (advies van 7 december 2000, nummer W04.00.0508/I);
 
@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. wet: de [Wet overheidspersoneel onder de werknemersverzekeringen](../../../../../../../../../../wet/wet/overheidspersoneel/onder/de/werknemersverzekeringen/BWBR0009267/README.md);  
+a. wet: de Wet overheidspersoneel onder de werknemersverzekeringen;  
 
 b. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
@@ -25,9 +25,9 @@ c. Lisv: het Landelijk instituut sociale verzekeringen, genoemd in hoofdstuk 4 v
 
 d. uitvoeringsinstelling: de uitvoeringsinstelling die in opdracht van het Lisv belast is met de voorbereiding van de invoering van de Werkloosheidswet en de Ziektewet voor het overheidspersoneel;  
 
-e. WW-premies: de vanaf 1 januari 1999 tot en met 31 december 2000 op grond van [artikel 89, eerste lid, van de wet](../../../../../../../../../../wet/wet/overheidspersoneel/onder/de/werknemersverzekeringen/BWBR0009267/README.md) ten gunste van het Arbeidsongeschiktheidsfonds, bedoeld in artikel [72 van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), gekomen premies;  
+e. WW-premies: de vanaf 1 januari 1999 tot en met 31 december 2000 op grond van artikel 89, eerste lid, van de wet ten gunste van het Arbeidsongeschiktheidsfonds, bedoeld in artikel 72 van de Wet op de arbeidsongeschiktheidsverzekering, gekomen premies;  
 
-f. Uitvoeringsfonds voor de overheid: het Uitvoeringsfonds voor de overheid, bedoeld in [artikel 104 van de Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md).   
+f. Uitvoeringsfonds voor de overheid: het Uitvoeringsfonds voor de overheid, bedoeld in artikel 104 van de Werkloosheidswet.   
 
 ### Artikel  2  
 

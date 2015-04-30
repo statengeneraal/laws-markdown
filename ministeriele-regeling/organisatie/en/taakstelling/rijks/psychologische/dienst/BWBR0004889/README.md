@@ -12,7 +12,7 @@ A. Algemene taken
 
 1. het bevorderen van een kwalitatief goede personeelsbezetting van de burgerlijke rijksdienst en het leveren van de daarbij behorende aangepaste en op de behoeften van de cliënten afgestemde produkten en diensten; 
 
-2. het bevorderen van de herplaatsing van hen die een wachtgeld of een uitkering genieten volgens het [Rijkswachtgeldbesluit 1959](../../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md) (Stb. 319) of de [Uitkeringsregeling 1966](../../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md) (Stb. 408);  
+2. het bevorderen van de herplaatsing van hen die een wachtgeld of een uitkering genieten volgens het Rijkswachtgeldbesluit 1959 (Stb. 319) of de Uitkeringsregeling 1966 (Stb. 408);  
 
 B. Specifieke taken  
 
@@ -85,7 +85,7 @@ Het Centrum voor Management Assessment is belast met het ontwikkelen en uitvoere
 
 De afdeling Personeelsvoorziening is belast met de onder II.A.1. en II.A.2. genoemde taken voor zover het betreft:  
 
-a. het bemiddelen van personeel binnen de rijksoverheid, voor wat betreft de herplaatsing en van personen die krachtens het [Rijkswachtgeldbesluit 1959](../../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md) of de [Uitkeringsregeling 1966](../../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md) een wachtgeld of uitkering genieten, dan wel voor personen die met on slag bedreigd worden, de zogenaamde ‘prioriteitgenietenden’; 
+a. het bemiddelen van personeel binnen de rijksoverheid, voor wat betreft de herplaatsing en van personen die krachtens het Rijkswachtgeldbesluit 1959 of de Uitkeringsregeling 1966 een wachtgeld of uitkering genieten, dan wel voor personen die met on slag bedreigd worden, de zogenaamde ‘prioriteitgenietenden’; 
 
 b. het begeleiden van bovengenoemde groep prioriteitgenietenden naar een nieuwe werkkring binnen dan wel buiten de rijksoverheid;  en met de verwerking en doorgeleiding van vacatures bij de rijksdienst naar de Gewestelijke Arbeidsbureaus.   
 

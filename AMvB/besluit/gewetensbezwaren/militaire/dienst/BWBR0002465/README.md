@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Ministers van Defensie en van Justitie van 21 augustus 1964, afdeling Dienstplichtzaken, nr. 28.768-C; 
 
-Gelet op de [Wet gewetensbezwaren militaire dienst](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md); 
+Gelet op de Wet gewetensbezwaren militaire dienst; 
 
 De Raad van State gehoord (advies van 30 september 1964, nr. 70); 
 
@@ -20,18 +20,18 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit besluit wordt verstaan onder:  
 
-a. "de wet": de [Wet gewetensbezwaren militaire dienst](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md);   
+a. "de wet": de Wet gewetensbezwaren militaire dienst;   
 
-b. "de verzoeker": hij die een verzoek heeft gedaan als bedoeld in [artikel 3 der wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md);   
+b. "de verzoeker": hij die een verzoek heeft gedaan als bedoeld in artikel 3 der wet;   
 
-c. "de commissie": de commissie van advies, bedoeld in [artikel 5 van de wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md);   
+c. "de commissie": de commissie van advies, bedoeld in artikel 5 van de wet;   
 
 d. "fungerend voorzitter": het lid van de commissie dat het onderzoek leidt;   
 
-e. "het onderzoek": het onderzoek, bedoeld in [artikel 5, eerste lid](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md), respectievelijk [artikel 7*a*, eerste lid, van de wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md);   
+e. "het onderzoek": het onderzoek, bedoeld in artikel 5, eerste lid, respectievelijk artikel 7*a*, eerste lid, van de wet;   
 
 f. "de erkende gewetensbezwaarde": hij wiens bezwaren tegen de vervulling van militaire dienst, overeenkomstig de bepalingen der wet zijn erkend als ernstige gewetensbezwaren.      
-2.   Waar in dit besluit overigens uitdrukkingen voorkomen, als in [artikel 1 der wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) vermeld, worden deze verstaan in de zin als in dat artikel omschreven.   
+2.   Waar in dit besluit overigens uitdrukkingen voorkomen, als in artikel 1 der wet vermeld, worden deze verstaan in de zin als in dat artikel omschreven.   
 
 ### Artikel  2  
 
@@ -55,7 +55,7 @@ a. de frequentie van de zittingen waarin het onderzoek plaatsvindt;
 
 b. de samenstelling van het rooster der zittingen waarin het onderzoek plaatsvindt;   
 
-c. de deelneming van de leden aan de zittingen zulks op zodanige wijze, dat een zo groot mogelijke spreiding van levensbeschouwing ter zitting wordt bevorderd, dat zo mogelijk rekening wordt gehouden met de levensbeschouwing van de verzoeker en dat aan een onderzoek als bedoeld in [artikel 7*a* van de wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) geen lid deelneemt dat reeds een advies met betrekking tot het verzoek heeft uitgebracht;;   
+c. de deelneming van de leden aan de zittingen zulks op zodanige wijze, dat een zo groot mogelijke spreiding van levensbeschouwing ter zitting wordt bevorderd, dat zo mogelijk rekening wordt gehouden met de levensbeschouwing van de verzoeker en dat aan een onderzoek als bedoeld in artikel 7*a* van de wet geen lid deelneemt dat reeds een advies met betrekking tot het verzoek heeft uitgebracht;;   
 
 d. de frequentie van haar plenaire vergaderingen;   
 
@@ -113,7 +113,7 @@ In onvoorziene omstandigheden kan Onze Minister van Defensie na overleg met de v
 
 ### Artikel  21  
 
-1.  Ten laste van 's Rijks kas genieten de voorzitter, de vice-voorzitters, de fungerend voorzitter en de leden een vacatiegeld, waarvan het bedrag wordt vastgesteld op de voet van het [Vacatiegeldenbesluit](../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) 1970 (*Stb.* 1970, 577). Aan de secretaris en de adjunct-secretarissen kan door Onze Minister van Defensie een vergoeding worden toegekend.    
+1.  Ten laste van 's Rijks kas genieten de voorzitter, de vice-voorzitters, de fungerend voorzitter en de leden een vacatiegeld, waarvan het bedrag wordt vastgesteld op de voet van het Vacatiegeldenbesluit 1970 (*Stb.* 1970, 577). Aan de secretaris en de adjunct-secretarissen kan door Onze Minister van Defensie een vergoeding worden toegekend.    
 2.   Ten laste van 's Rijks kas genieten de voorzitter, de vice-voorzitters, de fungerend voorzitter, de leden, de secretaris en de adjunct-secretarissen een vergoeding voor reis- en verblijfkosten waarvan het bedrag wordt vastgesteld op de voet van het Reisbesluit 1971 (*Stb.* 1970, 602).    
 3.   Aan de verzoeker die is verschenen ter zitting voor het onderzoek wordt een tegemoetkoming toegekend voor de reiskosten en wegens loonderving overeenkomstig door Onze Minister van Defensie te stellen regelen.   
 
@@ -157,7 +157,7 @@ a. de verplichting om zich op het aangegeven tijdstip en de aangegeven plaats aa
 
 b. de verplichting van de opgeroepene, die de vervangende dienst heeft moeten aanvangen of voortzetten en op de bepaalde tijd en plaats niet is verschenen, zich zodra mogelijk aan te melden bij de in de oproeping genoemde autoriteit;   
 
-c. de inhoud van [artikel 52 der wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md).     
+c. de inhoud van artikel 52 der wet.     
 
 ### Artikel  27  
 
@@ -173,15 +173,15 @@ De erkende gewetensbezwaarde die tot het vervullen van vervangende dienst heeft 
 
 ### Artikel  30  
 
-1.  Het aanvragen van vrijstelling van de gewone vervangende dienst dan wel van vrijstelling van vervangende dienst om de reden bedoeld in [artikel 15, tweede lid, der wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) geschiedt, mondeling of schriftelijk, door of vanwege de erkende gewetensbezwaarde als regel bij de burgemeester van de gemeente waar hij, wie de aanvraag geldt, als ingezetene met een adres in de basisregistratie personen is ingeschreven dan wel, indien de erkende gewetensbezwaarde niet als ingezetene in de basisregistratie personen is ingeschreven, bij de burgemeester van ’s-Gravenhage.   
+1.  Het aanvragen van vrijstelling van de gewone vervangende dienst dan wel van vrijstelling van vervangende dienst om de reden bedoeld in artikel 15, tweede lid, der wet geschiedt, mondeling of schriftelijk, door of vanwege de erkende gewetensbezwaarde als regel bij de burgemeester van de gemeente waar hij, wie de aanvraag geldt, als ingezetene met een adres in de basisregistratie personen is ingeschreven dan wel, indien de erkende gewetensbezwaarde niet als ingezetene in de basisregistratie personen is ingeschreven, bij de burgemeester van ’s-Gravenhage.   
 2.   Van elke aanvraag om vrijstelling geeft de burgemeester terstond een bewijs af aan degene, die de aanvraag heeft gedaan.    
 3.   De aanvraag wordt afgewezen:  
 
 a. indien blijkt dat de erkende gewetensbezwaarde reeds van de op hem uit de wet voortvloeiende verplichtingen is ontslagen, voorgoed vrijgesteld, dan wel voorgoed ongeschikt bevonden is;   
 
-b. indien blijkt dat de erkende gewetensbezwaarde alleen verplicht is tot het vervullen van buitengewone vervangende dienst tenzij het betreft een aanvraag om vrijstelling om de reden bedoeld in [artikel 15, tweede lid, der wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md);   
+b. indien blijkt dat de erkende gewetensbezwaarde alleen verplicht is tot het vervullen van buitengewone vervangende dienst tenzij het betreft een aanvraag om vrijstelling om de reden bedoeld in artikel 15, tweede lid, der wet;   
 
-c. indien het geldt een aanvraag om vrijstelling wegens kostwinnerschap en Onze Minister van Sociale Zaken en Werkgelegenheid heeft bepaald, dat vergoeding zal worden toegekend als in [artikel 26 der wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) bedoeld.     
+c. indien het geldt een aanvraag om vrijstelling wegens kostwinnerschap en Onze Minister van Sociale Zaken en Werkgelegenheid heeft bepaald, dat vergoeding zal worden toegekend als in artikel 26 der wet bedoeld.     
 
 ### Artikel  31  
 
@@ -199,13 +199,13 @@ c. indien het geldt een aanvraag om vrijstelling wegens kostwinnerschap en Onze 
 
 ### Artikel  33  
 
-1.  Door of vanwege de erkende gewetensbezwaarde, die vrijstelling verlangt wegens broederdienst, wordt bij de burgemeester aanvraag gedaan tot het opmaken van een verklaring betreffende broederdienst. Uit deze verklaring moet blijken welke broeders van de erkende gewetensbezwaarde volgens opgaaf van de aanvrager dienen of gediend hebben bij de krijgsmacht of bij de toenmalige overzeese krijgsmacht dan wel vervangende dienst vervullen of vervuld hebben en verkeren in een der gevallen, omschreven in het [tweede en vierde lid van artikel 18 der wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md), en in welk van deze gevallen ieder hunner verkeert.    
-2.   Als tijdstip, bedoeld in het [tweede lid van artikel 18 der wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md), geldt de datum van 1 januari van het jaar der lichting waarvoor de erkende gewetensbezwaarde voor de dienstplicht is ingeschreven.    
+1.  Door of vanwege de erkende gewetensbezwaarde, die vrijstelling verlangt wegens broederdienst, wordt bij de burgemeester aanvraag gedaan tot het opmaken van een verklaring betreffende broederdienst. Uit deze verklaring moet blijken welke broeders van de erkende gewetensbezwaarde volgens opgaaf van de aanvrager dienen of gediend hebben bij de krijgsmacht of bij de toenmalige overzeese krijgsmacht dan wel vervangende dienst vervullen of vervuld hebben en verkeren in een der gevallen, omschreven in het tweede en vierde lid van artikel 18 der wet, en in welk van deze gevallen ieder hunner verkeert.    
+2.   Als tijdstip, bedoeld in het tweede lid van artikel 18 der wet, geldt de datum van 1 januari van het jaar der lichting waarvoor de erkende gewetensbezwaarde voor de dienstplicht is ingeschreven.    
 3.   De aanvraag geschiedt binnen een maand nadat de reden tot het aanvragen van vrijstelling is ontstaan.   
 
 ### Artikel  34  
 
-Voor de toepassing van het bepaalde in [artikel 18, tweede lid, onder *a*, der wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) blijft als broederdienst buiten aanmerking de werkelijke militaire dienst, die slechts bestaat in het bijwonen van oefeningen gedurende daarvoor vastgestelde oefeningsuren.  
+Voor de toepassing van het bepaalde in artikel 18, tweede lid, onder *a*, der wet blijft als broederdienst buiten aanmerking de werkelijke militaire dienst, die slechts bestaat in het bijwonen van oefeningen gedurende daarvoor vastgestelde oefeningsuren.  
 
 ### Artikel  35  
 
@@ -217,7 +217,7 @@ De beslissing omtrent vrijstelling wordt medegedeeld aan de burgemeester van de 
 
 ### Artikel  37  
 
-De autoriteit, die vermoedt, dat iemand ten onrechte van vervangende of gewone vervangende dienst is vrijgesteld als gevolg van een der in [artikel 21 der wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) bedoelde feiten, brengt dit met mededeling van de gronden, waarop het vermoeden berust, terstond ter kennis van Onze Minister van Sociale Zaken en Werkgelegenheid.  
+De autoriteit, die vermoedt, dat iemand ten onrechte van vervangende of gewone vervangende dienst is vrijgesteld als gevolg van een der in artikel 21 der wet bedoelde feiten, brengt dit met mededeling van de gronden, waarop het vermoeden berust, terstond ter kennis van Onze Minister van Sociale Zaken en Werkgelegenheid.  
 
 ### Artikel  38  
 
@@ -243,7 +243,7 @@ Onze Minister van Sociale Zaken en Werkgelegenheid kan met afwijking van de term
 ### Artikel  40  
 
 1.  Onze Minister van Sociale Zaken en Werkgelegenheid beslist of de erkende gewetensbezwaarde vervangende dan wel uitsluitend buitengewone vervangende dienst moet vervullen. Hiervan doet hij mededeling aan de burgemeester van de gemeente, waar de erkende gewetensbezwaarde als ingezetene met een adres in de basisregistratie personen is ingeschreven dan wel, indien de erkende gewetensbezwaarde niet als ingezetene in de basisregistratie personen is ingeschreven, aan de burgemeester van ’s-Gravenhage.   
-2.   Voor de uitvoering van [artikel 24, tweede lid, der wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) is het [Mobilisatie-vrijstellings-besluit](../../../../../../KB/mobilisatie-vrijstellings-besluit/BWBR0001994/README.md) van overeenkomstige toepassing.   
+2.   Voor de uitvoering van artikel 24, tweede lid, der wet is het Mobilisatie-vrijstellings-besluit van overeenkomstige toepassing.   
 
 ### Artikel  41  
 
@@ -251,7 +251,7 @@ Door Onze Minister van Sociale Zaken en Werkgelegenheid kan uitstel van de gewon
 
 ### Artikel  42  
 
-Omtrent de verlenging van de vervangende dienst, als bedoeld in [artikel 25 der wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md), beslist Onze Minister van Sociale Zaken en Werkgelegenheid.  
+Omtrent de verlenging van de vervangende dienst, als bedoeld in artikel 25 der wet, beslist Onze Minister van Sociale Zaken en Werkgelegenheid.  
 
 ### Hoofdstuk  VI  
 
@@ -268,7 +268,7 @@ Bij beëindiging van de gewone vervangende dienst heeft de tewerkgestelde aanspr
 ### Artikel  45  
 
 1.  Gedurende de tijd, dat gewone vervangende dienst wordt vervuld, is - behoudens het bepaalde in het tweede en derde lid - het Kostwinners-vergoedingsbesluit-militairen van overeenkomstige toepassing.    
-2.   Wordt gewone vervangende dienst vervuld nadat de erkende gewetensbezwaarde de eerste oefening als militair reeds heeft volbracht, dan is het [Inkomsten-vergoedingsbesluit-militairen](../../../../../../AMvB/inkomsten-vergoedingsbesluit-militairen/BWBR0002277/README.md) van overeenkomstige toepassing.    
+2.   Wordt gewone vervangende dienst vervuld nadat de erkende gewetensbezwaarde de eerste oefening als militair reeds heeft volbracht, dan is het Inkomsten-vergoedingsbesluit-militairen van overeenkomstige toepassing.    
 3.   De tewerkgestelde die is gehuisvest in het gezin waartoe hij behoort, ontvangt aan emolumenten, voortvloeiende uit zijn vervangende dienst in totaal niet méér dan zijn inkomen, ware hij niet terwerkgesteld, zou hebben bedragen, met dien verstande, dat indien dit inkomen verandering zou hebben ondergaan ten gevolge van een algemene en door de overheid aanvaarde wijziging in de loonstandaard, het vergoedingsbedrag opnieuw wordt berekend.   
 
 ### Hoofdstuk  VII  
@@ -277,28 +277,28 @@ Bij beëindiging van de gewone vervangende dienst heeft de tewerkgestelde aanspr
 
 ### Artikel  46  
 
-Voor de toepassing van [artikel 31 van de wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) wordt onder zakgeld verstaan het zakgeld na aftrek van de loonbelasting en de premies ingevolge de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) (*Stb.* 1985, 181) en de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md).  
+Voor de toepassing van artikel 31 van de wet wordt onder zakgeld verstaan het zakgeld na aftrek van de loonbelasting en de premies ingevolge de Algemene Ouderdomswet (*Stb.* 1985, 181) en de Algemene nabestaandenwet.  
 
 ### Artikel  47  
 
-De termijn genoemd in [artikel 32, eerste lid, van de wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) vangt aan op de dag waarop de uitnodiging om zich te verantwoorden aan de tewerkgestelde wordt uitgereikt dan wel, indien deze uitnodiging niet in persoon aan de tewerkgestelde wordt uitgereikt, op de dag volgende op die waarop de uitnodiging aan de tewerkgestelde werd verzonden.  
+De termijn genoemd in artikel 32, eerste lid, van de wet vangt aan op de dag waarop de uitnodiging om zich te verantwoorden aan de tewerkgestelde wordt uitgereikt dan wel, indien deze uitnodiging niet in persoon aan de tewerkgestelde wordt uitgereikt, op de dag volgende op die waarop de uitnodiging aan de tewerkgestelde werd verzonden.  
 
 ### Artikel  48  
 
-Een verzoek als bedoeld in [artikel 32, tweede lid, van de wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) kan slechts binnen de in het eerste lid van dat artikel genoemde termijn worden ingediend. Het verzoek wordt gericht tot de strafoplegger.  
+Een verzoek als bedoeld in artikel 32, tweede lid, van de wet kan slechts binnen de in het eerste lid van dat artikel genoemde termijn worden ingediend. Het verzoek wordt gericht tot de strafoplegger.  
 
 ### Artikel  49  
 
-In een geval als bedoeld in [artikel 37, vierde lid, van de wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) vindt herstel van het door de gestrafte geleden nadeel plaats door toekenning van een door de rechtbank te bepalen, en door Onze Minister van Sociale Zaken en Werkgelegenheid uit te keren, schadevergoeding. Bij het bepalen van de schadevergoeding neemt de rechtbank in aanmerking het bedrag van het inkomen dat de gestrafte over de periode waarin hij ten onrechte vervangende dienst heeft verricht heeft gederfd of zich redelijkerwijze had kunnen verwerven, verminderd met het bedrag van het zakgeld dat hij over die periode heeft ontvangen. De rechtbank kan, indien de redelijkheid dit vordert, een afwijkende schadevergoeding vaststellen.  
+In een geval als bedoeld in artikel 37, vierde lid, van de wet vindt herstel van het door de gestrafte geleden nadeel plaats door toekenning van een door de rechtbank te bepalen, en door Onze Minister van Sociale Zaken en Werkgelegenheid uit te keren, schadevergoeding. Bij het bepalen van de schadevergoeding neemt de rechtbank in aanmerking het bedrag van het inkomen dat de gestrafte over de periode waarin hij ten onrechte vervangende dienst heeft verricht heeft gederfd of zich redelijkerwijze had kunnen verwerven, verminderd met het bedrag van het zakgeld dat hij over die periode heeft ontvangen. De rechtbank kan, indien de redelijkheid dit vordert, een afwijkende schadevergoeding vaststellen.  
 
 ### Artikel  50  
 
-1.  Het lid, niet zijnde rechterlijk ambtenaar met rechtspraak belast, van de meervoudige kamer van de rechtbank te 's-Gravenhage, bedoeld in [artikel 33, tweede lid, van de wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md), alsmede diens plaatsvervangers, leggen, alvorens in bediening te treden, ten overstaan van de rechterlijk ambtenaar, tevens zijnde president van de rechtbank, de eed of belofte af als bedoeld in [artikel 1g, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), met dien verstande dat daar waar de formulering de woorden «rechterlijke» of «rechterlijk» bevat, deze woorden achterwege dienen te blijven.   
+1.  Het lid, niet zijnde rechterlijk ambtenaar met rechtspraak belast, van de meervoudige kamer van de rechtbank te 's-Gravenhage, bedoeld in artikel 33, tweede lid, van de wet, alsmede diens plaatsvervangers, leggen, alvorens in bediening te treden, ten overstaan van de rechterlijk ambtenaar, tevens zijnde president van de rechtbank, de eed of belofte af als bedoeld in artikel 1g, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren, met dien verstande dat daar waar de formulering de woorden «rechterlijke» of «rechterlijk» bevat, deze woorden achterwege dienen te blijven.   
 2.   Van het afleggen van de eed of belofte wordt een verklaring opgemaakt die aan de beëdigde ter hand wordt gesteld. Een gewaarmerkt afschrift wordt aan Onze Minister van Justitie gezonden.   
 
 ### Artikel  51  
 
-De getuigen en deskundigen die verschijnen ter terechtzitting van de in [artikel 33, tweede lid, van de wet](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) bedoelde kamer worden beëdigd overeenkomstig het bepaalde in [artikel 284, tweede lid, van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).  
+De getuigen en deskundigen die verschijnen ter terechtzitting van de in artikel 33, tweede lid, van de wet bedoelde kamer worden beëdigd overeenkomstig het bepaalde in artikel 284, tweede lid, van het Wetboek van Strafvordering.  
 
 ### Hoofdstuk  VIII  
 
@@ -322,7 +322,7 @@ Dit besluit kan worden aangehaald als "Besluit gewetensbezwaren militaire dienst
 
 ### Artikel  63  
 
-De [Wet gewetensbezwaren militaire dienst](../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md), alsmede dit besluit treden in werking met ingang van 1 december 1964.  
+De Wet gewetensbezwaren militaire dienst, alsmede dit besluit treden in werking met ingang van 1 december 1964.  
 
 Onze Ministers van Defensie en van Justitie zijn, ieder voor zoveel hem betreft, belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.   
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 23 februari 1996, directoraat-generaal voor Openbare Orde en Veiligheid, directie Politie, hoofdafdeling Onderwijs en Personeelsbeleid, afdeling Arbeidsvoorwaardenbeleid, nr. EA96/U468;
 
-Gelet op [artikel 50, eerste lid, van de Politiewet 1993](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) en [artikel 9, zesde lid, van de LSOP-wet](../../../../../../../../wet/lsop-wet/BWBR0006942/README.md);
+Gelet op artikel 50, eerste lid, van de Politiewet 1993 en artikel 9, zesde lid, van de LSOP-wet;
 
 De Raad van State gehoord (advies van 6 mei 1996, No.W04.96.0089);
 
@@ -20,25 +20,25 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. arbeidsongeschiktheid: arbeidsongeschiktheid in de zin van [artikel 18, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+a. arbeidsongeschiktheid: arbeidsongeschiktheid in de zin van artikel 18, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering;  
 
 b. arbeidsongeschiktheidsuitkering: een periodieke uitkering, toegekend op grond van arbeidsongeschiktheid, die voortvloeit uit enig dienstverband van betrokkene;  
 
-c. WAO-uitkering: de uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+c. WAO-uitkering: de uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering;  
 
-d. betrokkene: de overheidswerknemer, bedoeld in [artikel 2 van de Wet privatisering ABP](../../../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md), aan wie uit een dienstbetrekking bij de sector politie ontslag is verleend op grond van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte en wegens het vanuit ziekte verrichten van passende arbeid bij een andere werkgever als bedoeld in respectievelijk [artikel 94, eerste lid, onderdeel e](../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), en [artikel 94, eerste lid, onderdeel f, van het Besluit algemene rechtspositie politie](../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), en die ten tijde van dat ontslag minder dan 80% arbeidsongeschikt is, met uitzondering van degene die zijn resterende verdienvermogen volledig benut in een of meer aangehouden betrekkingen;  
+d. betrokkene: de overheidswerknemer, bedoeld in artikel 2 van de Wet privatisering ABP, aan wie uit een dienstbetrekking bij de sector politie ontslag is verleend op grond van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte en wegens het vanuit ziekte verrichten van passende arbeid bij een andere werkgever als bedoeld in respectievelijk artikel 94, eerste lid, onderdeel e, en artikel 94, eerste lid, onderdeel f, van het Besluit algemene rechtspositie politie, en die ten tijde van dat ontslag minder dan 80% arbeidsongeschikt is, met uitzondering van degene die zijn resterende verdienvermogen volledig benut in een of meer aangehouden betrekkingen;  
 
-e. bevoegd gezag: het bevoegd gezag, bedoeld in [artikel 1, eerste lid, onder l, van het Besluit algemene rechtspositie politie](../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+e. bevoegd gezag: het bevoegd gezag, bedoeld in artikel 1, eerste lid, onder l, van het Besluit algemene rechtspositie politie;  
 
 f. suppletie: de suppletie, bedoeld in artikel 6;  
 
-g. dagloon: het dagloon in de zin van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) zonder toepassing van het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) met betrekking tot een loontijdvak van een dag, vermeerderd met het bedrag aan pensioenbijdrageverhaal, bedoeld in [artikel 10 van de Wet financiële voorzieningen privatisering ABP](../../../../../../../../wet/wet/financiële/voorzieningen/privatisering/abp/BWBR0007211/README.md);  
+g. dagloon: het dagloon in de zin van de Wet op de arbeidsongeschiktheidsverzekering zonder toepassing van het bedrag, bedoeld in artikel 17, eerste lid, van de Wet financiering sociale verzekeringen met betrekking tot een loontijdvak van een dag, vermeerderd met het bedrag aan pensioenbijdrageverhaal, bedoeld in artikel 10 van de Wet financiële voorzieningen privatisering ABP;  
 
 h. berekeningsgrondslag van de suppletie: het dagloon van betrokkene op de dag voorafgaande aan het ontslag ter zake waarvan hem recht op suppletie wordt toegekend, voor zover dat betrekking heeft op het inkomen uit de betrekking waaraan het recht op suppletie wordt ontleend;  
 
 i. werkloosheidsuitkering: een periodieke uitkering ter zake van ontslag of werkloosheid, die voortvloeit uit enig dienstverband van betrokkene;  
 
-j. ZW-uitkering: ziekengeld als bedoeld in [artikel 19 van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md).   
+j. ZW-uitkering: ziekengeld als bedoeld in artikel 19 van de Ziektewet.   
 
 ### §  2  
 
@@ -51,8 +51,8 @@ j. ZW-uitkering: ziekengeld als bedoeld in [artikel 19 van de Ziektewet](../../.
 
 ### Artikel  3  
 
-1.  Het verplichtingen- en sanctieregime van de [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) is van overeenkomstige toepassing op het recht op suppletie.   
-2.  Onverminderd het eerste lid, omvat passende arbeid in de zin van de [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) voor de toepassing op de suppletie mede gangbare arbeid. Hierbij wordt onder gangbare arbeid verstaan: alle algemeen geaccepteerde arbeid waartoe de betrokkene met zijn krachten en bekwaamheden in staat is.  
+1.  Het verplichtingen- en sanctieregime van de Werkloosheidswet is van overeenkomstige toepassing op het recht op suppletie.   
+2.  Onverminderd het eerste lid, omvat passende arbeid in de zin van de Werkloosheidswet voor de toepassing op de suppletie mede gangbare arbeid. Hierbij wordt onder gangbare arbeid verstaan: alle algemeen geaccepteerde arbeid waartoe de betrokkene met zijn krachten en bekwaamheden in staat is.  
 
 ### Artikel  4  
 
@@ -112,7 +112,7 @@ c. vóór de dag van het ontslag ter zake waarvan de betrokkene suppletie is toe
 
 ### Artikel  10  
 
-Voor de toepassing van de artikelen 8 en 9 worden uitkeringen steeds geacht onverminderd door betrokkene te zijn genoten indien, als gevolg van handelingen of het nalaten van handelingen door betrokkene, één of meer werkloosheidsuitkeringen, arbeidsongeschiktheidsuitkeringen, uitkeringen op grond van de [Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md) danwel uitkeringen die naar aard en strekking overeenkomen met laatstgenoemde uitkeringen, waarop betrokkene recht heeft: 
+Voor de toepassing van de artikelen 8 en 9 worden uitkeringen steeds geacht onverminderd door betrokkene te zijn genoten indien, als gevolg van handelingen of het nalaten van handelingen door betrokkene, één of meer werkloosheidsuitkeringen, arbeidsongeschiktheidsuitkeringen, uitkeringen op grond van de Ziektewet danwel uitkeringen die naar aard en strekking overeenkomen met laatstgenoemde uitkeringen, waarop betrokkene recht heeft: 
 
 a. vermindering ondergaan;  
 
@@ -134,7 +134,7 @@ b. bij ontstentenis van de onder *a* bedoelde persoon aan de minderjarige wettig
 c. bij ontstentenis van de onder *a* en *b* bedoelde personen aan degenen ten aanzien van wie de overledene grotendeels in de kosten van het bestaan voorzag en met wie hij in gezinsverband leefde.     
 3.  Voor de toepassing van het tweede lid kan tegelijkertijd slechts één persoon als echtgenoot worden aangemerkt en worden mede als echtgenoot aangemerkt niet gehuwde personen van verschillend of gelijk geslacht die duurzaam een gezamenlijke huishouding voeren, tenzij het betreft personen tussen wie bloedverwantschap in de eerste of tweede graad bestaat, alsmede de geregistreerde partner.    
 4.  Van een gezamenlijke huishouding als bedoeld in het derde lid kan slechts sprake zijn indien twee ongehuwde personen gezamenlijk voorzien in huisvesting en bovendien beiden een bijdrage leveren in de kosten van de huishouding danwel op andere wijze in elkaars verzorging voorzien.   
-5.  Op het uit te keren bedrag, bedoeld in het eerste lid, wordt in mindering gebracht het bedrag van de uitkering waarop de nagelaten betrekkingen van de betrokkene ter zake van diens overlijden aanspraak kunnen maken uit hoofde van een of meer werkloosheidsuitkeringen, arbeidsongeschiktheidsuitkeringen, uitkeringen op grond van de [Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md) danwel uitkeringen die naar aard en strekking overeenkomen met laatstgenoemde uitkeringen, waarop betrokkene recht had.  
+5.  Op het uit te keren bedrag, bedoeld in het eerste lid, wordt in mindering gebracht het bedrag van de uitkering waarop de nagelaten betrekkingen van de betrokkene ter zake van diens overlijden aanspraak kunnen maken uit hoofde van een of meer werkloosheidsuitkeringen, arbeidsongeschiktheidsuitkeringen, uitkeringen op grond van de Ziektewet danwel uitkeringen die naar aard en strekking overeenkomen met laatstgenoemde uitkeringen, waarop betrokkene recht had.  
 
 ### §  4  
 
@@ -254,12 +254,12 @@ b. het genieten van vakantie tijdens de duur van de suppletie.
 
 3.  De artikelen 3 tot en met 5, 6, tweede lid, 7 tot en met 11, alsmede artikel 12, derde lid tot en met 16 zijn van overeenkomstige toepassing.   
 4.  Het bevoegd gezag stelt ambtshalve van iedere overheidswerknemer als bedoeld in het eerste lid, het recht op suppletie vast met inachtneming van het in dit artikel bepaalde.   
-5.   Artikel 6, eerste lid, is van overeenkomstige toepassing, met dien verstande dat voor de vaststelling van de berekeningsgrondslag voor de betrokkene als dagloon zoals bepaald in [artikel 42, derde en vierde lid, van de Wet privatisering ABP](../../../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md), zonder toepassing van de maximumdagloongrens van [artikel 9, eerste lid, van de Coördinatiewet Sociale Verzekering](../../../../../../../../wet/coördinatiewet/sociale/verzekering/BWBR0002126/README.md).   
+5.   Artikel 6, eerste lid, is van overeenkomstige toepassing, met dien verstande dat voor de vaststelling van de berekeningsgrondslag voor de betrokkene als dagloon zoals bepaald in artikel 42, derde en vierde lid, van de Wet privatisering ABP, zonder toepassing van de maximumdagloongrens van artikel 9, eerste lid, van de Coördinatiewet Sociale Verzekering.   
 6.  Bij de bepaling op 1 januari 1996 van de periode waarover herplaatsingswachtgeld is genoten, wordt deze periode naar beneden afgerond op een hele maand.  
 
 ### Artikel  18  
 
-Indien de overheidswerknemer, bedoeld in [artikel 2 van de Wet privatisering ABP](../../../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md), op 1 januari 1996 onafgebroken gedurende een periode van 52 weken of langer onafgebroken arbeidsongeschikt is geweest in de zin van [artikel 19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) en de mate van zijn algemene invaliditeit op grond van de Algemene burgerlijke pensioenwet is vastgesteld op ten minste 15 procent danwel de mate van arbeidsongeschiktheid op grond van de ministeriële regeling op grond van artikel 8, derde lid, van de Algemene Arbeidsongeschiktheidswet, zoals dit artikel luidde op de dag voorafgaand aan de inwerkingtreding van de [Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](../../../../../../../../wet/invoeringswet/nieuwe/en/gewijzigde/arbeidsongeschiktheidsregelingen/BWBR0008658/README.md) is vastgesteld op ten minste 25 procent, binnen een periode van zes maanden is aan te merken als betrokkene, geldt voor hem als dagloon het dagloon zoals bepaald in [artikel 39, vierde en vijfde lid, van de Wet privatisering ABP](../../../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md), zonder toepassing van de maximumdagloongrens van [artikel 9, eerste lid, van de Coördinatiewet Sociale Verzekering](../../../../../../../../wet/coördinatiewet/sociale/verzekering/BWBR0002126/README.md).  
+Indien de overheidswerknemer, bedoeld in artikel 2 van de Wet privatisering ABP, op 1 januari 1996 onafgebroken gedurende een periode van 52 weken of langer onafgebroken arbeidsongeschikt is geweest in de zin van artikel 19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering en de mate van zijn algemene invaliditeit op grond van de Algemene burgerlijke pensioenwet is vastgesteld op ten minste 15 procent danwel de mate van arbeidsongeschiktheid op grond van de ministeriële regeling op grond van artikel 8, derde lid, van de Algemene Arbeidsongeschiktheidswet, zoals dit artikel luidde op de dag voorafgaand aan de inwerkingtreding van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen is vastgesteld op ten minste 25 procent, binnen een periode van zes maanden is aan te merken als betrokkene, geldt voor hem als dagloon het dagloon zoals bepaald in artikel 39, vierde en vijfde lid, van de Wet privatisering ABP, zonder toepassing van de maximumdagloongrens van artikel 9, eerste lid, van de Coördinatiewet Sociale Verzekering.  
 
 ### §  8  
 
@@ -267,11 +267,11 @@ Indien de overheidswerknemer, bedoeld in [artikel 2 van de Wet privatisering ABP
 
 ### Artikel  19  
 
-Indien het niveau van de WAO-uitkering als bedoeld in [paragraaf 9 van de Wet privatisering ABP](../../../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) een algemene neerwaartse wijziging ondergaat, wordt deze neerwaartse wijziging, behoudens indien sociale partners anders overeenkomen binnen zes maanden na de datum van het *Staatsblad* waarin de maatregel is gepubliceerd, op overeenkomstige wijze ten aanzien van de suppletie doorgevoerd, vanaf de in het *Staatsblad* vermelde datum van inwerkingtreding van bedoelde maatregel, doch niet eerder dan zes maanden na de datum van het *Staatsblad*. 
+Indien het niveau van de WAO-uitkering als bedoeld in paragraaf 9 van de Wet privatisering ABP een algemene neerwaartse wijziging ondergaat, wordt deze neerwaartse wijziging, behoudens indien sociale partners anders overeenkomen binnen zes maanden na de datum van het *Staatsblad* waarin de maatregel is gepubliceerd, op overeenkomstige wijze ten aanzien van de suppletie doorgevoerd, vanaf de in het *Staatsblad* vermelde datum van inwerkingtreding van bedoelde maatregel, doch niet eerder dan zes maanden na de datum van het *Staatsblad*. 
 
 ### Artikel  19a  
 
-Dit besluit berust op [artikel 47, eerste lid, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) en [artikel 10, vijfde lid, van de Wet op het LSOP en het politieonderwijs](../../../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md). 
+Dit besluit berust op artikel 47, eerste lid, van de Politiewet 2012 en artikel 10, vijfde lid, van de Wet op het LSOP en het politieonderwijs. 
 
 ### Artikel  20  
 

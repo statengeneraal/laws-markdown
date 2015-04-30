@@ -440,32 +440,21 @@ b. op grond van artikel 2a.2.1, eerste lid, berekende rijksbijdrage vavo.
 
 ### Hoofdstuk  3  
 
-####Educatie
+####Uitkering educatie
 
 ### Paragraaf  1  
 
-####Opleidingen educatie, bedoeld in artikel 7.3.1, eerste lid, onder b tot en met f, van de WEB
+####Algemene bepalingen
 
 ### Artikel  3.1.1  
 
-####Contactuur
+####Reikwijdte hoofdstuk 3 
 
-1.  Een contactuur als bedoeld in artikel 2.3.4, derde lid, van de wet omvat een klokuur waarin educatie wordt gegeven aan een groep studenten, onder verantwoordelijkheid en met actieve betrokkenheid van onderwijspersoneel als bedoeld in de artikelen 4.2.1 en 4.2.2 van de wet.   
-2.  De groep, bedoeld in het eerste lid, omvat maximaal 
-
-a. 12 deelnemers indien het een opleiding betreft als bedoeld in artikel 7.3.1, eerste lid, onder b, voor zover gericht op alfabetisering, of e, van de wet;  
-
-b. 16 deelnemers indien het een opleiding betreft als bedoeld in artikel 7.3.1, eerste lid, onder b, voor zover gericht op het ingangsniveau van het beroepsonderwijs, of d, van de wet;  
-
-c. 20 deelnemers indien het een opleiding betreft als bedoeld in artikel 7.3.1, eerste lid, onder c, van de wet.     
-3.  In de overeenkomst uitkering educatie, bedoeld in artikel 2.3.4, eerste lid, van de wet kan gemotiveerd worden afgeweken van de in het tweede lid genoemde aantallen deelnemers.   
-4.  Bij ministeriële regeling kunnen nadere voorschriften worden vastgesteld voor de in het eerste lid bedoelde contacturen.  
+Dit hoofdstuk heeft betrekking op opleidingen educatie als bedoeld in artikel 7.3.1, eerste lid, onder b tot en met f, van de wet. 
 
 ### Artikel  3.1.2  
 
 ####Begripsbepalingen hoofdstuk 3 
-
-Treedt in werking per 01-01-2015 
 
 In dit hoofdstuk wordt verstaan onder: 
 
@@ -483,13 +472,9 @@ e.  *volwassen inwoner:* persoon van achttien jaar of ouder die als ingezetene i
 
 ####Uitkering educatie
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  3.2.1  
 
 ####Berekening uitkering educatie vanaf 2018
-
-Treedt in werking per 01-01-2015 
 
 1.  De uitkering educatie die per kalenderjaar aan een college van burgemeester en wethouders van een contactgemeente van een regio educatie wordt verstrekt, is de som van de bedragen die voor elk van de tot die regio educatie behorende gemeenten wordt berekend volgens de volgende formule: ![254530](http://wetten.overheid.nl/Illustration/254530)
 waarbij wordt verstaan onder: Og: Het door het CBS op verzoek van Onze Minister berekende gemiddelde percentage inwoners van de gemeente van 15 tot en met 75 jaar met een opleiding op ten hoogste het niveau van het diploma middelbaar algemeen voortgezet onderwijs of voorbereidend beroepsonderwijs in het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld, vermenigvuldigd met het door het CBS op verzoek van Onze Minister berekende aantal volwassen inwoners van de gemeente op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld; On: de som van de uitkomsten van bovenbedoeld Og voor alle Nederlandse gemeenten tezamen; Ag: Het door het CBS op verzoek van Onze Minister berekende aantal volwassen inwoners van de gemeente op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld, waarvoor geldt dat beide ouders of de volwassen inwoner zelf en één ouder geboren zijn in een van de landen in Afrika, Latijns-Amerika en Azië (exclusief Indonesië en Japan) of Turkije. An: de som van de uitkomsten van bovenbedoeld AG voor alle Nederlandse gemeenten tezamen; Bg: Het aantal WWB-uitkeringen aan personen die de AOW-leeftijd nog niet hebben bereikt op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld; Bn: de som van bovenbedoeld Bg voor alle Nederlandse gemeenten tezamen; Ib: het totale bedrag dat door Onze Minister beschikbaar is gesteld voor uitkeringen educatie voor alle regio’s educatie voor het jaar waarvoor de uitkering wordt vastgesteld.   
@@ -500,21 +485,15 @@ waarbij wordt verstaan onder: Og: Het door het CBS op verzoek van Onze Minister 
 
 ####Aanpassing uitkering educatie bij gemeentelijke herindeling
 
-Treedt in werking per 01-01-2015 
-
 Bij een wijziging van de gemeentelijke indeling of een grenscorrectie als bedoeld in de Wet algemene regels herindeling worden de gegevens waarmee de berekeningen op grond van artikel 3.2.1 worden uitgevoerd, vastgesteld op basis van een redelijke schatting van de toestand van die gegevens zoals die zou zijn geweest als de wijziging op de datum waarop die gegevens betrekking hebben, reeds was ingegaan. 
 
 ### Paragraaf  3  
 
 ####Overige bepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  3.3.1  
 
 ####Reserveringsregeling
-
-Treedt in werking per 01-01-2015 
 
 1.  Indien in een kalenderjaar de uitkering educatie niet volledig is besteed, kan het college van burgemeester en wethouders van de contactgemeente het niet bestede bedrag tot maximaal 25% van de voor dat jaar toegekende uitkering educatie reserveren voor opleidingen educatie in het daaropvolgende kalenderjaar.   
 2.  Indien in een kalenderjaar meer dan de uitkering educatie is besteed aan opleidingen educatie, kan het college van burgemeester en wethouders van de contactgemeente het meer bestede bedrag tot maximaal 25% van de voor dat jaar toegekende uitkering educatie ten laste brengen van de uitkering educatie voor het daaropvolgende kalenderjaar.  
@@ -672,7 +651,7 @@ Vervallen per 01-08-2011
 
 ####Burgerservicenummer personeel
 
-Het bevoegd gezag kan gebruik maken van het burgerservicenummer van een lid van het personeel of gewezen personeel van de instelling bij de gegevensverstrekking, bedoeld in bijlage 1 en bijlage 4 bij dit besluit. 
+Het bevoegd gezag maakt gebruik van het burgerservicenummer van een lid van het personeel of gewezen personeel van de instelling bij de gegevensverstrekking, bedoeld in bijlage 1 en bijlage 4 bij dit besluit. 
 
 ### Paragraaf 3 
 
@@ -956,11 +935,16 @@ c. 2015 60% onderscheidenlijk 40% en
 
 d. 2016 80% onderscheidenlijk 20%.    
 
-###Paragraaf 4 
+### Paragraaf  4  
 
-####Gebruik persoonsgebonden nummers
+####Overgangsrecht uitkering educatie voor de jaren 2016 en 2017
 
-Vervallen per 28-04-2010 
+### Artikel  6.2.1*  
+
+####Afwijkende berekening uitkering educatie voor 2016 en 2017.
+
+1.  Voor het kalenderjaar 2016 wordt de uitkering educatie die aan een college van burgemeester en wethouders van een contactgemeente van een regio wordt verstrekt, berekend door de uitkomst van de formule {bi : bl} x 2/3 x bm, op te tellen bij een derde van het bedrag volgens de formule in artikel 3.2.1, eerste lid, waarbij wordt verstaan onder: bi: de som van de bedragen die de gemeenten binnen deze regio voor het jaar 2014 hebben ontvangen op grond van artikel 4 van het Besluit participatiebudget zoals dat luidde op 31 december 2014; bl: het landelijk budget educatie in het jaar 2014 ingevolge de Wet participatiebudget zoals die luidde op 31 december 2014; bm: het totale bedrag dat door Onze Minister beschikbaar is gesteld voor uitkeringen educatie voor alle regio’s educatie voor het kalenderjaar 2016.
+2. Voor het kalenderjaar 2017 wordt de uitkering educatie die aan een college van burgemeester en wethouders van een contactgemeente van een regio wordt verstrekt, berekend door de uitkomst van de formule {bi : bl} x 1/3 x bm op te tellen bij twee derde van het bedrag volgens de formule in artikel 3.2.1, eerste lid, waarbij wordt verstaan onder: bi: de som van de bedragen die de gemeenten binnen deze regio voor het jaar 2014 hebben ontvangen op grond van artikel 4 van het Besluit participatiebudget zoals dat luidde op 31 december 2014; bl: het landelijk budget educatie in het jaar 2014 ingevolge de Wet participatiebudget zoals die luidde op 31 december 2014; bm: het totale bedrag dat door Onze Minister beschikbaar is gesteld voor uitkeringen educatie voor alle regio’s educatie voor het kalenderjaar 2017. 
 
 ### Hoofdstuk  7  
 
@@ -1027,14 +1011,8 @@ In dit programma van eisen staat per gegeven de technische uitwerking, zoals die
 
 | nr  | veld  | formaat  | definitie/toelichting  |
 |:---|:---|:---|:---|
-| 1  | Personeelsnummer  | nummer van maximaal 20 cijfers (N20)  | Uniek nummer van een persoon binnen een salarisadministratie. Het personeelsnummer dient om een persoon uniek te identificeren (samen met «code salarisadministratie») binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren.  |
-| 2  | code salarisadministratie  | nummer van maximaal 6 cijfers (N6)  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen en waaruit de gegevens afkomstig zijn. Besturen die zelf aan DUO leveren vullen hier het organisatienummer bevoegd gezag in, administratiekantoren het nummer waaronder zij bij DUO geregistreerd zijn. Andere leveranciers vragen een code bij DUO aan. De volgende codes zijn al toegekend:  |
-| --- | --- | --- | 01 ADP  |
-| --- | --- | --- | 02 Raet E&CS  |
-| --- | --- | --- | 03 Centric  |
-| --- | --- | --- | 04 Merces  |
-| --- | --- | --- | 05 Raet  |
-| --- | --- | --- | 07 Magma IT  |
+| 1  | Burgerservicenummer  | nummer van 9 cijfers (N9)  | Burgerservicenummer als bedoeld in de Wet algemene bepalingen burgerservicenummer. Het burgerservicenummer dient om een persoon uniek te identificeren binnen de totale set van personele gegevens die door de gegevensleverancier wordt aangeleverd.  |
+| 2  | code salarisadministratie  | nummer van maximaal 6 cijfers (N6)  | Een code die aanduidt uit welke salarisadministratie de gegevens afkomstig zijn. Besturen die zelf aan DUO leveren vullen hier het organisatienummer bevoegd gezag in, administratiekantoren het nummer waaronder zij bij DUO geregistreerd zijn. De volgende codes zijn al toegekend:  1 ADP  2 Raet ECS  3 Centric  4 Merces  5 Raet  6 Unit 4  7 Centric/MAGMA IT  8 OSG  9 Metrium  10 Vizvr  11 AFAS  12 Emerus  99 Overig  |
 | 3  | peilmaand  | getal van 6 cijfers JJJJMM (N6)  | Jaar plus de maand in dat jaar waarop de gegevenslevering betrekking heeft  |
 | 4  | extractiedatum  | getal van 8 cijfers JJJJMMDD (N8)  | Datum waarop de gegevens uit een database van de leverancier zijn gehaald  |
 | 5  | geslacht  | code van 1 letter (A1)  | De sekse van het personeelslid, zoals vastgelegd bij de burgerlijke stand: een aanduiding die aangeeft dat de ingeschrevene een man of een vrouw is, of dat het geslacht (nog) onbekend is. De codes zijn:  |
@@ -1051,19 +1029,13 @@ In dit programma van eisen staat per gegeven de technische uitwerking, zoals die
 
 | nr  | veld  | formaat  | definitie/toelichting  |
 |:---|:---|:---|:---|
-| 7  | Personeelsnummer  | nummer van maximaal 20 cijfers (N20)  | Uniek nummer van een persoon binnen een salarisadministratie. Het personeelsnummer dient om een persoon uniek te identificeren (samen met «code salarisadministratie») binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren.  |
-| 8  | code salarisadministratie  | nummer van maximaal 6 cijfers (N6)  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen en waaruit de gegevens afkomstig zijn. Besturen die zelf aan DUO leveren vullen hier het organisatienummer bevoegd gezag in, administratiekantoren het nummer waaronder zij bij DUO geregistreerd zijn. Andere leveranciers vragen een code bij DUO aan. De volgende codes zijn al toegekend:  |
-| --- | --- | --- | 01 ADP  |
-| --- | --- | --- | 02 Raet E&CS  |
-| --- | --- | --- | 03 Centric  |
-| --- | --- | --- | 04 Merces  |
-| --- | --- | --- | 05 Raet  |
-| --- | --- | --- | 07 Magma IT  |
+| 7  | Burgerservicenummer  | nummer van 9 cijfers (N9)  | Burgerservicenummer als bedoeld in de Wet algemene bepalingen burgerservicenummer. Het burgerservicenummer dient om een persoon uniek te identificeren binnen de totale set van personele gegevens die door de gegevensleverancier wordt aangeleverd.  |
+| 8  | code salarisadministratie  | nummer van maximaal 6 cijfers (N6)  | Een code die aanduidt uit welke salarisadministratie de gegevens afkomstig zijn. Besturen die zelf aan DUO leveren vullen hier het organisatienummer bevoegd gezag in, administratiekantoren het nummer waaronder zij bij DUO geregistreerd zijn. De volgende codes zijn al toegekend:  1 ADP  2 Raet ECS  3 Centric  4 Merces  5 Raet  6 Unit 4  7 Centric/MAGMA IT  8 OSG  9 Metrium  10 Vizvr  11 AFAS  12 Emerus  99 Overig  |
 | 9  | peilmaand  | getal van 6 cijfers JJJJMM (N6)  | Jaar plus de maand in dat jaar waarop de gegevenslevering betrekking heeft  |
 | 10  | Extractiedatum  | getal van 8 cijfers JJJJMMDD (N8)  | Datum waarop de gegevens uit een database van de leverancier zijn gehaald  |
 | 11  | Organisatienummer bevoegd gezag  | nummer van 5 cijfers (N5)  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
 | 12  | Organisatienummer school  | code van 2 cijfers, 2 letters (A4)  | Het door de minister toegekende nummer van de school, voor koppeling naar de school van de arbeidsrelatie  |
-| 13  | volgnummer  | nummer van maximaal 10 cijfers (N10)  | Volgnummer dat samen met het P-nummer, de code salarisadministratie en school de arbeidsrelatie uniek identificeert  |
+| 13  | volgnummer  | nummer van maximaal 10 cijfers (N10)  | Volgnummer dat samen met het burgerservicenummer, de code salarisadministratie en school de arbeidsrelatie uniek identificeert  |
 | 14  | begindatum arbeidsrelatie  | getal van 8 cijfers JJJJMMDD (N8)  | De begindatum van de arbeidsrelatie  |
 | 15  | Mutatiedatum arbeidsrelatie  | getal van 8 cijfers JJJJMMDD (N8)  | Datum waarop de verandering is opgetreden in een bestaande arbeidsrelatie. Dit veld wordt gebruikt in het jaarbestand in die gevallen waarin de verandering in de administratie niet wordt verwerkt als beëindiging van een huidige arbeidsrelatie en het begin van een nieuwe.  |
 | 16  | aard arbeidsrelatie  | code van 1 cijfer (N1)  | De aanduiding of de aanstelling of benoeming tijdelijk is of van onbepaalde duur. Waarden:  |
@@ -1097,17 +1069,11 @@ In dit programma van eisen staat per gegeven de technische uitwerking, zoals die
 
 | nr  | veld  | formaat  | definitie/toelichting  |
 |:---|:---|:---|:---|
-| 29  | Personeelsnummer  | nummer van maximaal 20 cijfers (N20)  | Uniek nummer van een persoon binnen een salarisadministratie. Het personeelsnummer dient om een persoon uniek te identificeren (samen met «code salarisadministratie») binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren.  |
-| 30  | code salarisadministratie  | nummer van maximaal 6 cijfers (N6)  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen en waaruit de gegevens afkomstig zijn. Besturen die zelf aan DUO leveren vullen hier het organisatienummer bevoegd gezag in, administratiekantoren het nummer waaronder zij bij DUO geregistreerd zijn. Andere leveranciers vragen een code bij DUO aan. De volgende codes zijn al toegekend:  |
-| --- | --- | --- | 01 ADP  |
-| --- | --- | --- | 02 Raet E&CS  |
-| --- | --- | --- | 03 Centric  |
-| --- | --- | --- | 04 Merces  |
-| --- | --- | --- | 05 Raet  |
-| --- | --- | --- | 07 Magma IT  |
+| 29  | Burgerservicenummer  | nummer van 9 cijfers (N9)  | Burgerservicenummer als bedoeld in de Wet algemene bepalingen burgerservicenummer. Het burgerservicenummer dient om een persoon uniek te identificeren binnen de totale set van personele gegevens die door de gegevensleverancier wordt aangeleverd.  |
+| 30  | code salarisadministratie  | nummer van maximaal 6 cijfers (N6)  | Een code die aanduidt uit welke salarisadministratie de gegevens afkomstig zijn. Besturen die zelf aan DUO leveren vullen hier het organisatienummer bevoegd gezag in, administratiekantoren het nummer waaronder zij bij DUO geregistreerd zijn. De volgende codes zijn al toegekend:  1 ADP  2 Raet ECS  3 Centric  4 Merces  5 Raet  6 Unit 4  7 Centric/MAGMA IT  8 OSG  9 Metrium  10 Vizvr  11 AFAS  12 Emerus  99 Overig  |
 | 31  | Organisatienummer bevoegd gezag  | nummer van 5 cijfers (N5)  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
 | 32  | Organisatienummer school  | code van 2 cijfers, 2 letters (A4)  | Het door de minister toegekende nummer van de school, voor koppeling naar de school van de arbeidsrelatie  |
-| 33  | volgnummer  | nummer van maximaal 10 cijfers (N10)  | Volgnummer dat samen met het P-nummer, de code salarisadministratie en school de arbeidsrelatie uniek identificeert  |
+| 33  | volgnummer  | nummer van maximaal 10 cijfers (N10)  | Volgnummer dat samen met het burgerservicenummer, de code salarisadministratie en school de arbeidsrelatie uniek identificeert  |
 | 34  | peilmaand  | getal van 6 cijfers JJJJMM (N6)  | Jaar plus de maand in dat jaar waarop de gegevenslevering betrekking heeft  |
 | 35  | extractiedatum  | getal van 8 cijfers JJJJMMDD (NJ8)  | Datum waarop de gegevens uit een database van de leverancier zijn gehaald  |
 | 36  | loon, toelage of korting  | bedrag in € met 2 decimalen (N12,2)  | Het bedrag dat als salaris of als toelage bij het salaris is uitgekeerd of als korting op het salaris in mindering is gebracht  |
@@ -1120,17 +1086,11 @@ In dit programma van eisen staat per gegeven de technische uitwerking, zoals die
 
 | nr  | veld  | formaat  | definitie/toelichting  |
 |:---|:---|:---|:---|
-| 39  | Personeelsnummer  | nummer van maximaal 20 cijfers (N20)  | Uniek nummer van een persoon binnen een salarisadministratie. Het personeelsnummer dient om een persoon uniek te identificeren (samen met «code salarisadministratie») binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren.  |
-| 40  | code salarisadministratie  | nummer van maximaal 6 cijfers (N6)  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen en waaruit de gegevens afkomstig zijn. Besturen die zelf aan DUO leveren vullen hier het organisatienummer bevoegd gezag in, administratiekantoren het nummer waaronder zij bij DUO geregistreerd zijn. Andere leveranciers vragen een code bij DUO aan. De volgende codes zijn al toegekend:  |
-| --- | --- | --- | 01 ADP  |
-| --- | --- | --- | 02 Raet E&CS  |
-| --- | --- | --- | 03 Centric  |
-| --- | --- | --- | 04 Merces  |
-| --- | --- | --- | 05 Raet  |
-| --- | --- | --- | 07 Magma IT  |
+| 39  | Burgerservicenummer  | nummer van 9 cijfers (N9)  | Burgerservicenummer als bedoeld in de Wet algemene bepalingen burgerservicenummer. Het burgerservicenummer dient om een persoon uniek te identificeren binnen de totale set van personele gegevens die door de gegevensleverancier wordt aangeleverd.  |
+| 40  | code salarisadministratie  | nummer van maximaal 6 cijfers (N6)  | Een code die aanduidt uit welke salarisadministratie de gegevens afkomstig zijn. Besturen die zelf aan DUO leveren vullen hier het organisatienummer bevoegd gezag in, administratiekantoren het nummer waaronder zij bij DUO geregistreerd zijn. De volgende codes zijn al toegekend:  1 ADP  2 Raet ECS  3 Centric  4 Merces  5 Raet  6 Unit 4  7 Centric/MAGMA IT  8 OSG  9 Metrium  10 Vizvr  11 AFAS  12 Emerus  99 Overig  |
 | 41  | Organisatienummer bevoegd gezag  | nummer van 5 cijfers (N5)  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
 | 42  | Organisatienummer school  | code van 2 cijfers, 2 letters (A4)  | Het door de minister toegekende nummer van de school, voor koppeling naar de school van de arbeidsrelatie  |
-| 43  | volgnummer  | nummer van maximaal 10 cijfers (N10)  | Volgnummer dat samen met het P-nummer, de code salarisadministratie en school de arbeidsrelatie uniek identificeert  |
+| 43  | volgnummer  | nummer van maximaal 10 cijfers (N10)  | Volgnummer dat samen met het burgerservicenummer, de code salarisadministratie en school de arbeidsrelatie uniek identificeert  |
 | 44  | extractiedatum  | getal van 8 cijfers JJJJMMDD (N8)  | Datum waarop de gegevens uit een database van de leverancier zijn gehaald  |
 | 45  | begindatum verlof  | getal van 8 cijfers JJJJMMDD (N8)  | De begindatum van de verlofperiode  |
 | 46  | einddatum verlof  | getal van 8 cijfers JJJJMMDD (N8)  | De einddatum van de verlofperiode  |
@@ -1170,7 +1130,7 @@ Over de sectoren heen dienen begrippen zoveel mogelijk op dezelfde wijze geïnte
 
 *  *Vervanging*  Als iemand wordt benoemd als tijdelijke vervanging van een personeelslid dat afwezig is, wordt dit aangegeven door bij de aard arbeidsrelatie de code 3 te vermelden.  
 
-*  *Volgnummer*  Omdat een persoon bij hetzelfde bevoegde gezag meer dan één arbeidsrelatie kan hebben (gelijktijdig of volgtijdelijk), wordt er een volgnummer geleverd. Dit volgnummer is nodig om de gegevens uit verschillende leveringen steeds aan de juiste arbeidsrelatie te kunnen verbinden. Dit volgnummer dient over de leveringen heen dezelfde arbeidsrelatie met het bevoegde gezag te identificeren. Indien binnen een administratie per arbeidsrelatie een nieuw personeelsnummer wordt toegekend, mag dit personeelsnummer als volgnummer worden gebruikt. Dit laat onverlet dat in de levering één identificatienummer aanwezig moet zijn dat de betreffende persoon uniek binnen de administratie identificeert.   
+*  *Volgnummer*  Omdat een persoon bij hetzelfde bevoegde gezag meer dan één arbeidsrelatie kan hebben (gelijktijdig of volgtijdelijk), wordt er een volgnummer geleverd. Dit volgnummer is nodig om de gegevens uit verschillende leveringen steeds aan de juiste arbeidsrelatie te kunnen verbinden.   
 
 ### 3  
 

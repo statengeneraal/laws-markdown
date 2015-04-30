@@ -56,7 +56,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  XII  
 
-1.  Halfzware olie, gasolie en lichte stookolie, als bedoeld in [artikel 27, eerste lid, onderdeel *c*, van de Wet op de accijns](../../../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), die bij de aanvang van 1 januari 1993 aanwezig zijn in of in vervoer zijn naar een opslagplaats, zijn onderworpen aan een heffing van f 11 per hectoliter bij een temperatuur van 15 °C.   
+1.  Halfzware olie, gasolie en lichte stookolie, als bedoeld in artikel 27, eerste lid, onderdeel *c*, van de Wet op de accijns, die bij de aanvang van 1 januari 1993 aanwezig zijn in of in vervoer zijn naar een opslagplaats, zijn onderworpen aan een heffing van f 11 per hectoliter bij een temperatuur van 15 °C.   
 2.   Aan de heffing zijn niet onderworpen halfzware olie, gasolie en lichte stookolie als bedoeld in het eerste lid:  
 
 a. die aanwezig zijn in een entrepot, een plaats voor tijdelijke opslag of in een accijnsgoederenplaats, dan wel in vervoer zijn daarnaar toe;  
@@ -70,7 +70,7 @@ b. waarvoor een vrijstelling geldt.
 
 ### Artikel  XIII  
 
-1.  Voor een motorrijtuig als bedoeld in [artikel 5, eerste lid, onderdeel *a* of *b*, van de Wet op de motorrijtuigenbelasting 1966](../../../../../../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1966/BWBR0002534/README.md), waarvoor vóór 16 januari 1993 motorrijtuigenbelasting is betaald over een tijdvak waarvan een gedeelte valt na 15 januari 1993, is over het gehele tijdvak motorrijtuigenbelasting verschuldigd naar het tarief dat met betrekking tot dat motorrijtuig gold bij de aanvang van dat tijdvak.   
+1.  Voor een motorrijtuig als bedoeld in artikel 5, eerste lid, onderdeel *a* of *b*, van de Wet op de motorrijtuigenbelasting 1966, waarvoor vóór 16 januari 1993 motorrijtuigenbelasting is betaald over een tijdvak waarvan een gedeelte valt na 15 januari 1993, is over het gehele tijdvak motorrijtuigenbelasting verschuldigd naar het tarief dat met betrekking tot dat motorrijtuig gold bij de aanvang van dat tijdvak.   
 2.   Het eerste lid is niet van toepassing met betrekking tot een motorrijtuig waarvoor de motorrijtuigenbelasting is betaald na 15 september 1992 over een tijdvak van twaalf of van drie maanden tenzij:  
 
 a. het in het eerste lid bedoelde tijdvak eindigt op 31 januari 1993;  
@@ -82,7 +82,7 @@ c. de houder van het motorrijtuig de belasting heeft betaald over een tijdvak da
 
 ### Artikel  XIV  
 
-1.  Voor een motorrijtuig als bedoeld in [artikel 5, eerste lid, onderdeel *c* of *d*, van de Wet op de motorrijtuigenbelasting 1966](../../../../../../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1966/BWBR0002534/README.md), waarvoor vóór 16 februari 1993 motorrijtuigenbelasting is betaald over een tijdvak waarvan een gedeelte valt na 15 februari 1993, is over het gehele tijdvak motorrijtuigenbelasting verschuldigd naar het tarief dat met betrekking tot dat motorrijtuig gold bij de aanvang van dat tijdvak.   
+1.  Voor een motorrijtuig als bedoeld in artikel 5, eerste lid, onderdeel *c* of *d*, van de Wet op de motorrijtuigenbelasting 1966, waarvoor vóór 16 februari 1993 motorrijtuigenbelasting is betaald over een tijdvak waarvan een gedeelte valt na 15 februari 1993, is over het gehele tijdvak motorrijtuigenbelasting verschuldigd naar het tarief dat met betrekking tot dat motorrijtuig gold bij de aanvang van dat tijdvak.   
 2.   Het eerste lid is niet van toepassing met betrekking tot een motorrijtuig waarvoor de motorrijtuigenbelasting is betaald na 15 september 1992 over een tijdvak van twaalf of van drie maanden tenzij:  
 
 a. het in het eerste lid bedoelde tijdvak eindigt op 28 februari 1993;  

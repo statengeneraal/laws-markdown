@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Justitie van 15 oktober 1993, Stafafdeling Wetgeving Publiekrecht, nr. 400783/93/6;
 
-Gelet op de Vreemdelingenwet en de [Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op de Vreemdelingenwet en de Algemene wet bestuursrecht;
 
 De Raad van State gehoord (advies van 28 december 1993, no. W03.93.0685);
 
@@ -32,7 +32,7 @@ Het is vreemdelingen aan wie het op de dag onmiddellijk voorafgaande aan de inwe
 
 ### Artikel  V  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, met uitzondering van artikel I, onderdeel FF, dat in werking treedt met ingang van het tijdstip waarop de Wet van 9 december 1993, *Stb.* 725, tot invoering van de [Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md) en daarmee verband houdende wijziging van diverse wetten ([Invoeringswet Politiewet 1993](../../../../../../wet/invoeringswet/politiewet/1993/BWBR0006300/README.md)) in werking treedt, en met uitzondering van artikel I, onderdelen U, V, Z, AA, BB, CC en DD, en van artikel II, die in werking treden met ingang van 1 maart 1994. 
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, met uitzondering van artikel I, onderdeel FF, dat in werking treedt met ingang van het tijdstip waarop de Wet van 9 december 1993, *Stb.* 725, tot invoering van de Politiewet 1993 en daarmee verband houdende wijziging van diverse wetten (Invoeringswet Politiewet 1993) in werking treedt, en met uitzondering van artikel I, onderdelen U, V, Z, AA, BB, CC en DD, en van artikel II, die in werking treden met ingang van 1 maart 1994. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

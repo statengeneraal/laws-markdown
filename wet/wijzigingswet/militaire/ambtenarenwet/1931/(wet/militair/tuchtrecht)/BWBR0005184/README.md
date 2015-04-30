@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het in verband met de invoering van de [Wet militair tuchtrecht](../../../../../../../../../rijkswet/wet/militair/tuchtrecht/BWBR0004788/README.md) wenselijk is de [Militaire Ambtenarenwet 1931](../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) en de Wet rechtstoestand dienstplichtigen te wijzigen:
+Alzo Wij in overweging genomen hebben, dat het in verband met de invoering van de Wet militair tuchtrecht wenselijk is de Militaire Ambtenarenwet 1931 en de Wet rechtstoestand dienstplichtigen te wijzigen:
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  

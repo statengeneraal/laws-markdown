@@ -113,7 +113,7 @@ Overtreding van het bepaalde in de artikelen 3, 4, 5, eerste lid, 6 en 7 wordt, 
 
 ### Artikel  11  
 
-1.  Met de handhaving van dit reglement zijn, behalve de in [artikel 141 van het Wetboek van Strafvordering](../../../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) genoemde personen, belast de in artikel 1, tweede lid sub *a*, *b*, *c* en *d*, van dit reglement genoemde ambtenaren van de Rijkswaterstaat.   
+1.  Met de handhaving van dit reglement zijn, behalve de in artikel 141 van het Wetboek van Strafvordering genoemde personen, belast de in artikel 1, tweede lid sub *a*, *b*, *c* en *d*, van dit reglement genoemde ambtenaren van de Rijkswaterstaat.   
 2.   de in het eerste lid bedoelde ambtenaren van de Rijkswaterstaat zijn bevoegd tot de handelingen, omschreven in de artikelen 3 en 6 der wet van 28 februari 1891 (*Stb.* 69) en aangewezen tot het opmaken van proces-verbaal, bedoeld in artikel 4, eerste lid, dier wet. De bevoegdheid, bedoeld in artikel 4, tweede lid, dier wet berust bij de hoofdingenieur-directeur.  
 
 ### Artikel  12  

@@ -34,7 +34,7 @@ Na inwerkingtreding van deze regeling worden de met toepassing van de Regeling n
 
 ### Artikel  5a  
 
-De Regeling niet-reinigbaar straalgrit berust op [artikel 9 van het Besluit stortplaatsen en stortverboden afvalstoffen](../../../../../AMvB/besluit/stortverbod/afvalstoffen/BWBR0009094/README.md). 
+De Regeling niet-reinigbaar straalgrit berust op artikel 9 van het Besluit stortplaatsen en stortverboden afvalstoffen. 
 
 ### Artikel  6  
 

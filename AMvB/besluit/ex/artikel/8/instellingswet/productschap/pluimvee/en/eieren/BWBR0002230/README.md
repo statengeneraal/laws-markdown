@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Ministers voor Publiekrechtelijke Bedrijfsorganisatie, van Landbouw, Visserij en Voedselvoorziening en van Economische Zaken van 12 juli 1956, no. B. 4612, Dir. W.J.A.;
 
-Overwegende, dat het wenselijk is te bepalen in welke gevallen Onze Minister van Economische Zaken voor de toepassing van de Instellingswet Productschap voor Pluimvee en Eieren (*Stb.* 1955, 187) en van de [artikelen 94](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), derde lid, en [104, tweede lid, van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K 22) ten aanzien van het Produktschap voor Pluimvee en Eieren mede als betrokken Minister wordt aangemerkt;
+Overwegende, dat het wenselijk is te bepalen in welke gevallen Onze Minister van Economische Zaken voor de toepassing van de Instellingswet Productschap voor Pluimvee en Eieren (*Stb.* 1955, 187) en van de artikelen 94, 100, derde lid, en 104, tweede lid, van de Wet op de Bedrijfsorganisatie (*Stb.* 1950, K 22) ten aanzien van het Produktschap voor Pluimvee en Eieren mede als betrokken Minister wordt aangemerkt;
 
 Gelet op artikel 8 van eerstgenoemde wet;
 
@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Voor de toepassing van de Instellingswet Productschap voor Pluimvee en Eieren (*Stb.* 1955, 187) en van de [artikelen 94](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), derde lid, en [104, tweede lid, van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K 22) ten aanzien van het Produktschap voor Pluimvee en Eieren wordt Onze Minister van Economische Zaken mede als betrokken Minister aangemerkt, voor zoveel betreft  
+Voor de toepassing van de Instellingswet Productschap voor Pluimvee en Eieren (*Stb.* 1955, 187) en van de artikelen 94, 100, derde lid, en 104, tweede lid, van de Wet op de Bedrijfsorganisatie (*Stb.* 1950, K 22) ten aanzien van het Produktschap voor Pluimvee en Eieren wordt Onze Minister van Economische Zaken mede als betrokken Minister aangemerkt, voor zoveel betreft  
 
 a. verordeningen, die bindende regelen inhouden voor het poeliersbedrijf, de detailhandel in eieren of de detailhandel in geconserveerd pluimvee of wild of geconserveerde tamme konijnen;  
 

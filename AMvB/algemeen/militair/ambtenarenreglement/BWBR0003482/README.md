@@ -8,7 +8,7 @@ Op de voordracht van de Staatssecretaris van Defensie, C. L. J. van Lent van 25 
 
 Overwegende, dat het wenselijk is de bepalingen inzake de rechtstoestand van de militaire ambtenaren van de krijgsmacht aan te passen aan de thans dienaangaande bestaande inzichten en opvattingen; 
 
-Gelet op [artikel 68 van de Grondwet](../../../../../wet/grondwet/BWBR0001840/README.md) (*Stb.* 1972, 193), [artikel 125 van de Ambtenarenwet](../../../../../wet/ambtenarenwet/BWBR0001947/README.md) 1929 (*Stb.* 530), [artikel 12 van de Militaire Ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) (*Stb.* 519) en [artikel 2 van de Wet voor het reserve-personeel der krijgsmacht](../../../../../wet/wet/voor/het/reservepersoneel/der/krijgsmacht/BWBR0003883/README.md) (*Stb.* 1954, 576); 
+Gelet op artikel 68 van de Grondwet (*Stb.* 1972, 193), artikel 125 van de Ambtenarenwet 1929 (*Stb.* 530), artikel 12 van de Militaire Ambtenarenwet 1931 (*Stb.* 519) en artikel 2 van de Wet voor het reserve-personeel der krijgsmacht (*Stb.* 1954, 576); 
 
 De Raad van State gehoord (advies van 5 oktober 1981, nr. 810923/16); 
 
@@ -26,7 +26,7 @@ Hebben goedgevonden en verstaan:
 
 a. *Onze Minister* Onze Minister van Defensie;  
 
-b. *militair* de militaire ambtenaar in de zin van [artikel 1, eerste en tweede lid, van de Militaire Ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md);  
+b. *militair* de militaire ambtenaar in de zin van artikel 1, eerste en tweede lid, van de Militaire Ambtenarenwet 1931;  
 
 c. *militair in werkelijke dienst* – tenzij uitdrukkelijk anders is bepaald – de militair die: 
 
@@ -58,7 +58,7 @@ j. *de commandant* een bij ministeriële regeling aan te wijzen functionaris;
 
 k. *doorstroombesluit*: een besluit, als bedoeld in artikel 31, waarmee de militair wordt medegedeeld dat de loopbaan bij Defensie al dan niet wordt voortgezet;  
 
-l.*fase één:* de periode waarin de aan de aanstelling verbonden verplichting als bedoeld in [artikel 12k, eerste en tweede lid, van de Militaire ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md), juncto artikel 7 van dit besluit, van toepassing is;
+l.*fase één:* de periode waarin de aan de aanstelling verbonden verplichting als bedoeld in artikel 12k, eerste en tweede lid, van de Militaire ambtenarenwet 1931, juncto artikel 7 van dit besluit, van toepassing is;
 
 m.*fase twee: *de periode van de datum waarop fase één eindigt tot en met de datum waarop het doorstroombesluit in werking treedt, respectievelijk de periode na inwerkingtreding van een doorstroombesluit indien hierin wordt bepaald dat de loopbaan bij Defensie niet wordt voortgezet;
 
@@ -79,7 +79,7 @@ t.  *rang:*  een militaire rang en stand of klasse, voor zover niet titulair toe
 u.  *functionele chef:*  de functionaris onder wiens directe toezicht en rechtstreekse leiding de toegewezen functie wordt vervuld, dan wel die als zodanig door het hoofd defensieonderdeel is aangewezen; 
 
 v.  *passende functie*  een functie als bedoeld in artikel 53b.    
-2.  Voor de toepassing van dit besluit wordt mede begrepen onder «rang», «stand» of «klasse»: de bij het [koninklijk besluit van 20 juni 1956](../../../../../AMvB/besluit/volgorde/verhouding/rangen/en/standen/zee-/land-/en/luchtmacht/BWBR0002224/README.md) (Stb. 361) met die rang, stand of klasse gelijkgestelde rang, stand of klasse.   
+2.  Voor de toepassing van dit besluit wordt mede begrepen onder «rang», «stand» of «klasse»: de bij het koninklijk besluit van 20 juni 1956 (Stb. 361) met die rang, stand of klasse gelijkgestelde rang, stand of klasse.   
 3.  In dit besluit en de daarop berustende bepalingen wordt mede verstaan onder: 
 
 a. echtgenote of echtgenoot 
@@ -94,7 +94,7 @@ b. *huwelijk*
 
 2°. het samenleven met de partner die door de militair als zodanig is aangemeld bij de Stichting pensioenfonds ABP en door het bestuur van dat fonds als zodanig is aangemerkt.       
 4.  De gelijkstellingen, bedoeld in het derde lid, onderdeel a, onder 2° en onderdeel b, onder 2° eindigen op de dag waarop de aanmelding van het partnerpensioen door het Stichting Pensioenfonds ABP wordt doorgehaald. De militair meldt die doorhaling aan de commandant, waarbij hij een afschrift van de mededeling van die doorhaling verstrekt.  
-5. Voor de toepassing van de hoofdstukken 5, 7, 8, 9 en 10, alsmede de artikelen 39, tweede lid, onderdelen a, f en g, 39a, aanhef en onderdeel e, 44, 49, 126b, 126d tot en met 126f, 130, 134 en 144 tot en met 148, wordt onder «militair» mede begrepen hij die bij het Ministerie van Defensie op grond van [artikel 6 van het Burgerlijk ambtenarenreglement defensie](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md) is aangesteld in burgerlijke openbare dienst om bij de krijgsmacht als geestelijk verzorger doorlopend werkzaam te zijn. Deze geestelijk verzorger wordt, in voorkomend geval, mede begrepen onder het beroepspersoneel. De [hoofdstukken 4](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), [5](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), [6](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md) en [8](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), alsmede de [artikelen 70b](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), [70d tot en met 70f](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), [76](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), [85](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), [87a](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), [88](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), [93](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), [109 tot en met 111](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), [114](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), [121, eerste lid, onderdelen f en h, derde lid](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), [127](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md) en [127a van het Burgerlijk ambtenarenreglement defensie](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md) zijn op hem niet van toepassing.  
+5. Voor de toepassing van de hoofdstukken 5, 7, 8, 9 en 10, alsmede de artikelen 39, tweede lid, onderdelen a, f en g, 39a, aanhef en onderdeel e, 44, 49, 126b, 126d tot en met 126f, 130, 134 en 144 tot en met 148, wordt onder «militair» mede begrepen hij die bij het Ministerie van Defensie op grond van artikel 6 van het Burgerlijk ambtenarenreglement defensie is aangesteld in burgerlijke openbare dienst om bij de krijgsmacht als geestelijk verzorger doorlopend werkzaam te zijn. Deze geestelijk verzorger wordt, in voorkomend geval, mede begrepen onder het beroepspersoneel. De hoofdstukken 4, 5, 6 en 8, alsmede de artikelen 70b, 70d tot en met 70f, 76, 85, 87a, 88, 93, 109 tot en met 111, 114, 121, eerste lid, onderdelen f en h, derde lid, 127 en 127a van het Burgerlijk ambtenarenreglement defensie zijn op hem niet van toepassing.  
 6.  Voor de toepassing van de hoofdstukken en artikelen, genoemd in het vijfde lid, wordt voor de geestelijk verzorger als genoemd in het vijfde lid in voorkomend geval onder hoofd defensieonderdeel verstaan: de commandant van het Commando Dienstencentra.   
 7.  Op degene die is aangesteld in burgerlijke openbare dienst om bij de krijgsmacht als geestelijk verzorger niet doorlopend werkzaam te zijn, is het vijfde lid van overeenkomstige toepassing met dien verstande dat hij in voorkomend geval wordt mede begrepen onder het reservepersoneel.  
 
@@ -176,7 +176,7 @@ g. de loopbaanmogelijkheden die de militair heeft.
 
 a. het Nederlanderschap te bezitten;   
 
-b. te voldoen aan de eisen van lichamelijke en geestelijke geschiktheid die ter zake zijn gesteld bij of krachtens het [Militair Keuringsreglement](../../../../../AMvB/militair/keuringsreglement/BWBR0002346/README.md);   
+b. te voldoen aan de eisen van lichamelijke en geestelijke geschiktheid die ter zake zijn gesteld bij of krachtens het Militair Keuringsreglement;   
 
 c. zich schriftelijk bereid te verklaren tot het afleggen van de eed of belofte;   
 
@@ -186,7 +186,7 @@ d. afhankelijk van de functie dan wel de groepen van functies waarvoor hij is be
 
 2°. geschiktheid, anders dan bedoeld onder b, en bekwaamheid.        
 2.  Wanneer aan de aanstelling een proeftijd is verbonden, kan in bijzondere gevallen worden afgeweken van de bij en krachtens het eerste lid, onder a, b en d, gestelde voorwaarden, indien in redelijkheid mag worden verwacht dat vóór het einde van de proeftijd wel aan de voorwaarden is voldaan. Indien op de laatste dag van de proeftijd niet is voldaan aan alle voorwaarden voor aanstelling, eindigt met ingang van die dag de aanstelling van rechtswege.    
-3.  De gegadigde kan alleen worden aangesteld als ten diens aanzien in verband met de voorgenomen aanstelling een verklaring als bedoeld in [artikel 1, eerste lid, onder b, van de Wet veiligheidsonderzoeken](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) is afgegeven.   
+3.  De gegadigde kan alleen worden aangesteld als ten diens aanzien in verband met de voorgenomen aanstelling een verklaring als bedoeld in artikel 1, eerste lid, onder b, van de Wet veiligheidsonderzoeken is afgegeven.   
 
 ### Artikel 5a 
 
@@ -365,7 +365,7 @@ b. in verband met aan hem te verwijten omstandigheden wordt ontheven van de func
 
 c. uit de dienst wordt ontslagen, op grond van artikel 39, eerste lid of tweede lid, onder e, ten 1<sup>e</sup>, h, j, k, l, m of n, of artikel 45.     
 2.  Bij de berekening van het terug te betalen bedrag wordt uitgegaan van een evenwichtige verdeling van risico's tussen werkgever en werknemer.   
-3.  Het bedrag van de terugbetalingsverplichting in geval van een initiële opleiding, als bedoeld in artikel 13, wordt naar evenredigheid verminderd naarmate de termijn van de hem op basis van [artikel 12k van de Militaire Ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) opgelegde verplichting is verstreken met dien verstande dat de periode van de proeftijd hierbij meetelt.   
+3.  Het bedrag van de terugbetalingsverplichting in geval van een initiële opleiding, als bedoeld in artikel 13, wordt naar evenredigheid verminderd naarmate de termijn van de hem op basis van artikel 12k van de Militaire Ambtenarenwet 1931 opgelegde verplichting is verstreken met dien verstande dat de periode van de proeftijd hierbij meetelt.   
 4.  Het door de militair terug te betalen bedrag wordt als volgt vastgesteld: 
 
 a. voor het deel van de opleiding dat is gevolgd binnen het Ministerie van Defensie: overeenkomstig de door Onze Minister vastgestelde kosten van die opleiding per cursist;  
@@ -376,7 +376,7 @@ c. de militaire inkomsten die volgens het Inkomstenbesluit militairen zijn ontva
 
 (1) opleiding, die is gevolgd bij een externe onderwijsinstelling, met volledige vrijstelling van het verrichten van arbeid: over de werkdagen voor de volle duur van die opleiding waarop de militair is vrijgesteld van werkzaamheden en diensten als militair,  
 
-(2) opleiding, die is gevolgd bij een externe onderwijsinstelling, met gedeeltelijke vrijstelling van het verrichten van arbeid: over de werkdagen van die opleiding waarop de militair is vrijgesteld van werkzaamheden en diensten als militair,     verminderd met het minimumloon over die periode, vastgesteld conform hetgeen is bepaald bij en krachtens de [Wet minimumloon en minimum vakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md).   
+(2) opleiding, die is gevolgd bij een externe onderwijsinstelling, met gedeeltelijke vrijstelling van het verrichten van arbeid: over de werkdagen van die opleiding waarop de militair is vrijgesteld van werkzaamheden en diensten als militair,     verminderd met het minimumloon over die periode, vastgesteld conform hetgeen is bepaald bij en krachtens de Wet minimumloon en minimum vakantiebijslag.   
 5.  De militair op wie een terugbetalingsverplichting rust, wordt ontslagen van die verplichting, indien hij bij ontslag op aanvraag, als bedoeld in artikel 39, eerste lid, binnen zes maanden na dat ontslag wordt aangesteld als ambtenaar bij het Ministerie van Defensie.   
 6.  Het door de militair terug te betalen bedrag is direct opeisbaar, wanneer een omstandigheid, als bedoeld in het eerste lid, zich voordoet, en wordt in beginsel in één termijn voldaan. Onze Minister kan een afbetalingsregeling treffen.   
 7.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van de uitvoering van dit artikel.  
@@ -494,7 +494,7 @@ d. de datum van aanvang en de vermoedelijke einddatum van de waarneming;
 
 e. de mogelijkheid dat de waarneming eerder kan eindigen dan de aangegeven vermoedelijke einddatum.  
 
-f. het feit of een toelage wordt toegekend als bedoeld in [artikel 11 van het Inkomstenbesluit militairen](../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md).     
+f. het feit of een toelage wordt toegekend als bedoeld in artikel 11 van het Inkomstenbesluit militairen.     
 5.  De commandant van de in het tweede lid bedoelde militair draagt er zorg voor dat de combinatie van de waar te nemen werkzaamheden en de eigen werkzaamheden de belasting van één functie niet overschrijdt.  
 
 ### Artikel  23  
@@ -813,14 +813,14 @@ c. niet doorstroomt naar fase drie.
 
 1.  De militair is van rechtswege in zijn ambt geschorst, wanneer hij krachtens wettelijke maatregel van zijn vrijheid is beroofd, tenzij die vrijheidsbeneming het gevolg is van: 
 
-a.een maatregel, anders dan op grond van de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), genomen in het belang van de volksgezondheid of;
+a.een maatregel, anders dan op grond van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, genomen in het belang van de volksgezondheid of;
 
-b.een straf op grond van de [Wet militair tuchtrecht](../../../../../rijkswet/wet/militair/tuchtrecht/BWBR0004788/README.md).   
+b.een straf op grond van de Wet militair tuchtrecht.   
 2.  De militair kan voorts in zijn ambt worden geschorst: 
 
 a.indien een strafrechtelijke vervolging ter zake van misdrijf tegen hem is ingesteld;
 
-b.wanneer hem is medegedeeld dat hij in aanmerking zal worden gebracht voor ontslag als bedoeld in artikel 39, tweede lid, onderdeel k, l, m of n, dan wel als bedoeld in [artikel 12g, tweede lid, van de Militaire Ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md);
+b.wanneer hem is medegedeeld dat hij in aanmerking zal worden gebracht voor ontslag als bedoeld in artikel 39, tweede lid, onderdeel k, l, m of n, dan wel als bedoeld in artikel 12g, tweede lid, van de Militaire Ambtenarenwet 1931;
 
 c. wanneer het belang van de dienst zulks vordert.  
 
@@ -854,14 +854,14 @@ c. wanneer het belang van de dienst zulks vordert.
 
 ####Ontslaggronden 
 
-1.  Aan de militair kan ontslag op aanvraag worden verleend, indien hij daartoe aan het ingevolge artikel 38 bevoegde gezag schriftelijk de wens te kennen geeft. Indien de ontslagaanvraag wordt ingediend tijdens de proeftijd vindt [artikel 12m, onder b, c of d, van de Militaire ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md), geen toepassing.  
+1.  Aan de militair kan ontslag op aanvraag worden verleend, indien hij daartoe aan het ingevolge artikel 38 bevoegde gezag schriftelijk de wens te kennen geeft. Indien de ontslagaanvraag wordt ingediend tijdens de proeftijd vindt artikel 12m, onder b, c of d, van de Militaire ambtenarenwet 1931, geen toepassing.  
 2.   Aan de militair kan verder uitsluitend ontslag worden verleend:  
 
 a. ter zake van het bereiken of overschrijden van de leeftijd van 60 jaar;  
 
 b. wegens het bereiken van de pensioengerechtigde leeftijd;  
 
-c. wanneer zijn diensten door het ingevolge artikel 38 bevoegde gezag niet langer nodig worden geoordeeld, nadat hij ingevolge [artikel 8 van de Uitkeringswet gewezen militairen](../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) weder is aangesteld;   
+c. wanneer zijn diensten door het ingevolge artikel 38 bevoegde gezag niet langer nodig worden geoordeeld, nadat hij ingevolge artikel 8 van de Uitkeringswet gewezen militairen weder is aangesteld;   
 
 d. wegens overtolligheid indien er voor hem geen functie beschikbaar is, onverminderd het bepaalde in artikel 42;   
 
@@ -898,7 +898,7 @@ a. Aan de militair behorend tot het beroepspersoneel die de rang van commandeur,
 
 2°. op andere gronden;     
 
-b. In deze gevallen wordt bij koninklijk besluit - in het geval bedoeld onder a, ten eerste, op de gezamenlijke voordracht van Onze minister-president en van Onze Minister - een regeling getroffen waarbij aan de betrokkene een uitkering wordt toegekend welke met het oog op de omstandigheden redelijk is te achten. Die regeling zal in geen geval nadeliger mogen zijn dan die volgens welke de uitkering ingevolge de [Uitkeringswet gewezen militairen](../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) zou zijn toegekend, waarop de betrokken militair aanspraak zou hebben kunnen maken, indien hem, in plaats van vorenbedoeld ontslag, op grond van het tweede lid onder a, ontslag zou zijn verleend.      
+b. In deze gevallen wordt bij koninklijk besluit - in het geval bedoeld onder a, ten eerste, op de gezamenlijke voordracht van Onze minister-president en van Onze Minister - een regeling getroffen waarbij aan de betrokkene een uitkering wordt toegekend welke met het oog op de omstandigheden redelijk is te achten. Die regeling zal in geen geval nadeliger mogen zijn dan die volgens welke de uitkering ingevolge de Uitkeringswet gewezen militairen zou zijn toegekend, waarop de betrokken militair aanspraak zou hebben kunnen maken, indien hem, in plaats van vorenbedoeld ontslag, op grond van het tweede lid onder a, ontslag zou zijn verleend.      
 7.   Aan de militair voor wie na de aanstelling een proeftijd geldt, kan tijdens die proeftijd ontslag worden verleend zonder toepassing van één van de in het tweede lid genoemde ontslaggronden.    
 8.  Wanneer een ontslag op aanvraag, bedoeld in het eerste lid, wordt verleend in verband met het aanvaarden van een betrekking op de civiele arbeidsmarkt binnen drie maanden voor het bereiken van het moment van ontslag, genoemd in artikel 39, tweede lid, onder i, wordt dit ontslag aangemerkt als een ontslag op grond van het tweede lid, onder i. 
 
@@ -1075,13 +1075,13 @@ Ontslag op grond van artikel 39, tweede lid, aanhef en onder j, kan slechts plaa
 
 ####Ontslag wegens blijvende geestelijke of lichamelijke ongeschiktheid 
 
-Ontslag om de reden, genoemd in artikel 39, tweede lid onder *f*, wordt pas verleend, nadat de militair ter zake van het ontstaan, de aard en de gevolgen van zijn ziekte of gebrek is onderworpen aan een geneeskundig onderzoek naar de regelen, gesteld bij het [Besluit procedure geneeskundig onderzoek blijvende dienstongeschiktheid en pensioenkeuring militairen](../../../../../AMvB/besluit/procedure/geneeskundig/onderzoek/blijvende/dienstongeschiktheid/en/etc/BWBR0008475/README.md).  
+Ontslag om de reden, genoemd in artikel 39, tweede lid onder *f*, wordt pas verleend, nadat de militair ter zake van het ontstaan, de aard en de gevolgen van zijn ziekte of gebrek is onderworpen aan een geneeskundig onderzoek naar de regelen, gesteld bij het Besluit procedure geneeskundig onderzoek blijvende dienstongeschiktheid en pensioenkeuring militairen.  
 
 ### Artikel  45  
 
 ####Ontslag wegens onvoldoende waarborg voor getrouwe plichtsvervulling 
 
-1.  Ontslag om de reden als bedoeld in [artikel 12g, tweede lid, van de Militaire ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md), kan slechts plaatsvinden met medewerking van Onze Minister-President dan wel, indien het de militair met een officiersrang betreft, op voordracht van Onze Minister-President en Onze Minister. Daaraan voorafgaand wordt het advies ingewonnen van een commissie, bestaande uit vijf leden en vijf plaatsvervangende leden.    
+1.  Ontslag om de reden als bedoeld in artikel 12g, tweede lid, van de Militaire ambtenarenwet 1931, kan slechts plaatsvinden met medewerking van Onze Minister-President dan wel, indien het de militair met een officiersrang betreft, op voordracht van Onze Minister-President en Onze Minister. Daaraan voorafgaand wordt het advies ingewonnen van een commissie, bestaande uit vijf leden en vijf plaatsvervangende leden.    
 2.  De leden en de plaatsvervangende leden van de commissie, bedoeld in het eerste lid worden bij koninklijk besluit benoemd op voordracht van Onze Minister-President en van Onze Minister. De taak, samenstelling en werkwijze van de commissie worden bij de instelling geregeld.   
 
 ### Artikel  47  
@@ -1242,7 +1242,7 @@ m. oefening: elk door defensiepersoneel in de praktijk brengen van onderwezen be
 ####Vaststelling werk- en rusttijden
 
 1.  De militair verricht de hem opgedragen werkzaamheden of diensten in beginsel gedurende vastgestelde werktijden.   
-2.  De werk- en rusttijden van de militair worden met inachtneming van de bepalingen in dit hoofdstuk, en nadat hierover overeenkomstig het [Besluit medezeggenschap defensie](../../../../../AMvB/besluit/medezeggenschap/defensie/BWBR0010617/README.md) overeenstemming is bereikt met de betrokken medezeggenschapscommissie, vastgesteld door de commandant en schriftelijk vastgelegd in roosters.   
+2.  De werk- en rusttijden van de militair worden met inachtneming van de bepalingen in dit hoofdstuk, en nadat hierover overeenkomstig het Besluit medezeggenschap defensie overeenstemming is bereikt met de betrokken medezeggenschapscommissie, vastgesteld door de commandant en schriftelijk vastgelegd in roosters.   
 3.  De werktijd dient zoveel mogelijk te zijn gelegen tussen 07.00 en 18.00 uur.   
 4.  De arbeidsduur bedraagt gerekend over de periode waarvoor het rooster is vastgesteld ten hoogste gemiddeld 38 uren per week. Hiervan kan worden afgeweken ter zake van het verrichten van diensten.   
 5.  Door Onze Minister kunnen functies worden aangewezen waarbij het reizen, naar en vanaf de plaats waar de militair werkzaamheden of diensten moet verrichten, een wezenlijk bestanddeel uitmaakt van de functie. Bij die functies wordt de reisduur buiten de voor de militair geldende werktijd als arbeidsduur aangemerkt.  
@@ -1334,7 +1334,7 @@ Indien de militair op de datum dat hij de werkelijke dienst verlaat nog een tego
 
 ####Gelijkstelling met arbeidsduur
 
-Voor de toepassing van de bepalingen in dit hoofdstuk, ten aanzien van de arbeidsduur, wordt voor het bepalen van het aantal uren dat werkzaamheden of diensten worden verricht, meegeteld de uren waarop de militair de werkzaamheden of diensten zou hebben verricht, maar deze uren in het kader van de medezeggenschap als bedoeld in [artikel 17 van het Besluit medezeggenschap defensie](../../../../../AMvB/besluit/medezeggenschap/defensie/BWBR0010617/README.md), ziekte, verlof als bedoeld in artikel 61, tweede lid, met uitzondering van buitengewoon verlof in verband met deeltijdarbeid, of de vervulling van door wet of overheid opgelegde verplichting welke niet in zijn vrije tijd kon geschieden, niet heeft verricht. 
+Voor de toepassing van de bepalingen in dit hoofdstuk, ten aanzien van de arbeidsduur, wordt voor het bepalen van het aantal uren dat werkzaamheden of diensten worden verricht, meegeteld de uren waarop de militair de werkzaamheden of diensten zou hebben verricht, maar deze uren in het kader van de medezeggenschap als bedoeld in artikel 17 van het Besluit medezeggenschap defensie, ziekte, verlof als bedoeld in artikel 61, tweede lid, met uitzondering van buitengewoon verlof in verband met deeltijdarbeid, of de vervulling van door wet of overheid opgelegde verplichting welke niet in zijn vrije tijd kon geschieden, niet heeft verricht. 
 
 ### Artikel  54j  
 
@@ -1359,7 +1359,7 @@ Voor de toepassing van de bepalingen in dit hoofdstuk ten aanzien van de zondag,
 
 1.  Dit hoofdstuk en de daarop berustende bepalingen zijn, met uitzondering van paragraaf 12, niet van toepassing op werkzaamheden of diensten verricht: 
 
-a. ten tijde van buitengewone omstandigheden, alsmede ten aanzien van een onderdeel van de krijgsmacht, waaraan de mededeling bedoeld in [artikel 71 van het Wetboek van Militair Strafrecht](../../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md) is gedaan;  
+a. ten tijde van buitengewone omstandigheden, alsmede ten aanzien van een onderdeel van de krijgsmacht, waaraan de mededeling bedoeld in artikel 71 van het Wetboek van Militair Strafrecht is gedaan;  
 
 b. ter uitvoering van bij wet of daarop berustende bepalingen opgedragen taken, voor zover de toepassing van dit hoofdstuk en de daarop berustende bepalingen een goede taakuitoefening belemmert;  
 
@@ -1870,7 +1870,7 @@ Verlof wordt verleend door de commandant van de militair tenzij in dit hoofdstuk
 
 ####Dagen die niet als verlof worden aangemerkt 
 
-1.  De dagen gedurende welke een militair, ware hij niet met verlof geweest, verhinderd zou zijn geweest dienst te verrichten wegens ziekte of een ongeval, worden niet aangemerkt als verlof mits hij degene die het verlof heeft verleend, naar regels bij ministeriële regeling te stellen, zo spoedig mogelijk van die ziekte of dat ongeval in kennis heeft gesteld. Het voorgaande vindt geen toepassing voor de dagen waarop buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) of artikel 86, aanhef en onder b van dit besluit wordt genoten.   
+1.  De dagen gedurende welke een militair, ware hij niet met verlof geweest, verhinderd zou zijn geweest dienst te verrichten wegens ziekte of een ongeval, worden niet aangemerkt als verlof mits hij degene die het verlof heeft verleend, naar regels bij ministeriële regeling te stellen, zo spoedig mogelijk van die ziekte of dat ongeval in kennis heeft gesteld. Het voorgaande vindt geen toepassing voor de dagen waarop buitengewoon verlof als bedoeld in artikel 12c, tweede lid, van de Militaire ambtenarenwet 1931 of artikel 86, aanhef en onder b van dit besluit wordt genoten.   
 2.   Wanneer een militair tijdens een hem verleend vakantieverlof, inschepings- of ontschepingsverlof aanspraak kan maken op buitengewoon verlof als bedoeld in artikel 85 of buitengewoon verlof in het kader van arbeid en zorg als bedoeld in paragraaf 4b, wordt het vakantieverlof, inschepings- of ontschepingsverlof als niet verleend aangemerkt, maar, met inachtneming van artikel 85, tweede lid, onderscheidenlijk paragraaf 4b als buitengewoon verlof dan wel buitengewoon verlof in het kader van arbeid en zorg aangemerkt, mits hij degene die het verlof heeft verleend, tijdig van de reden voor dat buitengewoon verlof in kennis heeft gesteld.  
 
 ### Artikel  65  
@@ -1892,7 +1892,7 @@ De militair die voornemens is een verlof door te brengen buiten het land waar hi
 
 ####Vergoeding van schade ten gevolge van het niet doorgaan of beëindigen van verlof
 
-1.  De militair aan wie een verlof is verleend en die geldelijke schade lijdt als gevolg van het geheel of gedeeltelijk intrekken van dat verlof krachtens artikel 65, eerste lid, als gevolg van het geheel of gedeeltelijk beëindigen van dat verlof krachtens artikel 65, vierde lid, of als gevolg van een verbod als bedoeld in [artikel 12e van de Militaire Ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md), heeft aanspraak op vergoeding van die schade, voor zover hij die redelijkerwijs niet heeft kunnen voorkomen.   
+1.  De militair aan wie een verlof is verleend en die geldelijke schade lijdt als gevolg van het geheel of gedeeltelijk intrekken van dat verlof krachtens artikel 65, eerste lid, als gevolg van het geheel of gedeeltelijk beëindigen van dat verlof krachtens artikel 65, vierde lid, of als gevolg van een verbod als bedoeld in artikel 12e van de Militaire Ambtenarenwet 1931, heeft aanspraak op vergoeding van die schade, voor zover hij die redelijkerwijs niet heeft kunnen voorkomen.   
 2.  Aan de militair die met het oog op de besteding van een verlof waarop hij aanspraak kan doen gelden maar dat hem nog niet is verleend, met schriftelijke instemming van degene die tot het verlenen van het verlof bevoegd is, bepaalde voorzieningen heeft getroffen en:  
 
 a. aan wie het verlof wordt geweigerd om redenen die op het tijdstip waarop de instemming werd verleend niet konden worden voorzien, of   
@@ -1962,7 +1962,7 @@ c. op een twaalfde deel van het in het vorige artikel, eerste lid onder *c*, bed
 
 a. in geval geen dienst is verricht wegens verleend verlof, niet zijnde buitengewoon verlof;  
 
-b.  in geval geen dienst is verricht wegens zwangerschaps- en bevallingsverlof, als bedoeld in [artikel 3:1 van de Wet arbeid en zorg](../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md);  
+b.  in geval geen dienst is verricht wegens zwangerschaps- en bevallingsverlof, als bedoeld in artikel 3:1 van de Wet arbeid en zorg;  
 
 c. in geval gedurende een periode, korter dan 52 weken geen dienst is verricht wegens ziekte die niet aan schuld of nalatigheid van de militair is te wijten, waarbij een hervatting gedurende dertig kalenderdagen of minder geen nieuwe periode van 52 weken inluidt;  
 
@@ -1971,9 +1971,9 @@ d.in andere gevallen, indien degene die tot het verlenen van het verlof bevoegd 
 
 a. wordt verminderd naar evenredigheid van de tijd gedurende welke hem langer durend zorgverlof als bedoeld in artikel 87c, of ouderschapsverlof als bedoeld in artikel 87d, is verleend;  
 
-b. kan, naar regels bij ministeriële regeling te stellen, worden verminderd naar evenredigheid van de tijd gedurende welke hem buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire Ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) of artikel 86, aanhef en onder b, is verleend.    
-4. Het vakantieverlof waarop een militair ingedeeld bij de Koninklijke marine ingevolge artikel 68 of 69 aanspraak maakt wordt naar evenredigheid verminderd indien hem op grond van het [Besluit aanpassing arbeidsduur militairen](../../../../../AMvB/besluit/aanpassing/arbeidsduur/militairen/BWBR0011531/README.md) buitengewoon verlof in verband met deeltijdarbeid wordt verleend. In geval van vermeerdering van de arbeidsduur op grond van het [Besluit aanpassing arbeidsduur militairen](../../../../../AMvB/besluit/aanpassing/arbeidsduur/militairen/BWBR0011531/README.md) wordt de in de vorige volzin genoemde verminderde aanspraak op vakantieverlof naar evenredigheid vermeerderd. 
-5.  De militair heeft geen aanspraak op vakantieverlof indien [artikel 17, vijfde lid, onderdeel j van het Inkomstenbesluit militairen](../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) van toepassing is. 
+b. kan, naar regels bij ministeriële regeling te stellen, worden verminderd naar evenredigheid van de tijd gedurende welke hem buitengewoon verlof als bedoeld in artikel 12c, tweede lid, van de Militaire Ambtenarenwet 1931 of artikel 86, aanhef en onder b, is verleend.    
+4. Het vakantieverlof waarop een militair ingedeeld bij de Koninklijke marine ingevolge artikel 68 of 69 aanspraak maakt wordt naar evenredigheid verminderd indien hem op grond van het Besluit aanpassing arbeidsduur militairen buitengewoon verlof in verband met deeltijdarbeid wordt verleend. In geval van vermeerdering van de arbeidsduur op grond van het Besluit aanpassing arbeidsduur militairen wordt de in de vorige volzin genoemde verminderde aanspraak op vakantieverlof naar evenredigheid vermeerderd. 
+5.  De militair heeft geen aanspraak op vakantieverlof indien artikel 17, vijfde lid, onderdeel j van het Inkomstenbesluit militairen van toepassing is. 
 
 ### Artikel  71  
 
@@ -2039,7 +2039,7 @@ b. indien de militair in de loop van het kalenderjaar de werkelijke dienst verla
 
 a. in geval geen dienst is verricht wegens verleend verlof, niet zijnde buitengewoon verlof;  
 
-b.  in geval geen dienst is verricht wegens zwangerschaps- en bevallingsverlof, als bedoeld in [artikel 3:1 van de Wet arbeid en zorg](../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md);  
+b.  in geval geen dienst is verricht wegens zwangerschaps- en bevallingsverlof, als bedoeld in artikel 3:1 van de Wet arbeid en zorg;  
 
 c. in geval gedurende een periode, korter dan 52 weken geen dienst is verricht wegens ziekte die niet aan schuld of nalatigheid van de militair is te wijten, waarbij een hervatting gedurende dertig kalenderdagen of minder geen nieuwe periode van 52 weken inluidt;  
 
@@ -2048,10 +2048,10 @@ d.in andere gevallen, indien degene die tot het verlenen van het verlof bevoegd 
 
 a.  wordt verminderd naar evenredigheid van de tijd gedurende welke hem langer durend zorgverlof als bedoeld in artikel 87c, of ouderschapsverlof als bedoeld in artikel 87d, is verleend;  
 
-b. kan, naar regels bij ministeriële regeling te stellen, worden verminderd naar evenredigheid van de tijd gedurende welke hem buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire Ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) of artikel 86, aanhef en onder b, is verleend.    
-4. Het vakantieverlof waarop een militair ingedeeld bij de Koninklijke landmacht, Koninklijke luchtmacht of Koninklijke marechaussee ingevolge artikel 73 of 74 aanspraak maakt, wordt naar evenredigheid verminderd indien hem op grond van het [Besluit aanpassing arbeidsduur militairen](../../../../../AMvB/besluit/aanpassing/arbeidsduur/militairen/BWBR0011531/README.md) buitengewoon verlof in verband met deeltijdarbeid wordt verleend. In geval van vermeerdering van de arbeidsduur op grond van het [Besluit aanpassing arbeidsduur militairen](../../../../../AMvB/besluit/aanpassing/arbeidsduur/militairen/BWBR0011531/README.md) wordt de in de vorige volzin genoemde verminderde aanspraak op vakantieverlof naar evenredigheid vermeerderd. 
+b. kan, naar regels bij ministeriële regeling te stellen, worden verminderd naar evenredigheid van de tijd gedurende welke hem buitengewoon verlof als bedoeld in artikel 12c, tweede lid, van de Militaire Ambtenarenwet 1931 of artikel 86, aanhef en onder b, is verleend.    
+4. Het vakantieverlof waarop een militair ingedeeld bij de Koninklijke landmacht, Koninklijke luchtmacht of Koninklijke marechaussee ingevolge artikel 73 of 74 aanspraak maakt, wordt naar evenredigheid verminderd indien hem op grond van het Besluit aanpassing arbeidsduur militairen buitengewoon verlof in verband met deeltijdarbeid wordt verleend. In geval van vermeerdering van de arbeidsduur op grond van het Besluit aanpassing arbeidsduur militairen wordt de in de vorige volzin genoemde verminderde aanspraak op vakantieverlof naar evenredigheid vermeerderd. 
 5.   Voor de militair ingedeeld bij de Koninklijke landmacht, Koninklijke luchtmacht of Koninklijke marechaussee aan wie ten hoogste veertien dagen voor het tijdstip waarop hij in werkelijke dienst komt, ontslag is verleend uit een andere overheidsbetrekking, wordt het aantal uren vakantieverlof waarop ingevolge artikel 73 of 74 aanspraak bestaat vermeerderd met zoveel uren vakantieverlof als hij uit hoofde van die vorige betrekking over het lopende kalenderjaar nog tegoed had.   
-6.  De militair heeft geen aanspraak op vakantieverlof indien [artikel 17, vijfde lid, onderdeel j van het Inkomstenbesluit militairen](../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) van toepassing is. 
+6.  De militair heeft geen aanspraak op vakantieverlof indien artikel 17, vijfde lid, onderdeel j van het Inkomstenbesluit militairen van toepassing is. 
 
 ### Artikel  76  
 
@@ -2062,7 +2062,7 @@ b. kan, naar regels bij ministeriële regeling te stellen, worden verminderd naa
 a. op zijn aanvraag;   
 
 b. niet op zijn aanvraag, voor zover naar het oordeel van degene die het verlof verleent, de belangen van de dienst dat vorderen.      
-2.  Aan de militair dient in elk kalenderjaar ten minste 120 uren vakantieverlof te worden verleend, waarvan ten minste 80 uren aaneengesloten of tot in evenredigheid lagere getallen indien de militair buitengewoon verlof in verband met deeltijdarbeid is verleend op grond van het [Besluit aanpassing arbeidsduur militairen](../../../../../AMvB/besluit/aanpassing/arbeidsduur/militairen/BWBR0011531/README.md).  
+2.  Aan de militair dient in elk kalenderjaar ten minste 120 uren vakantieverlof te worden verleend, waarvan ten minste 80 uren aaneengesloten of tot in evenredigheid lagere getallen indien de militair buitengewoon verlof in verband met deeltijdarbeid is verleend op grond van het Besluit aanpassing arbeidsduur militairen.  
 
 ### Artikel  77  
 
@@ -2115,8 +2115,8 @@ b. ten hoogste 40 uren als vakantieverlof niet-op-aanvraag worden verleend.
 
 ####Vakantieverlof en ontslag
 
-1.  Indien de militair op de datum waarop hij de werkelijke dienst verlaat nog aanspraak heeft op vakantieverlof, wordt hem voor ieder uur vakantieverlof dat hem niet is verleend een vergoeding toegekend ten bedrage van 1/165 deel van de bezoldiging per maand als bedoeld in [artikel 1, eerste lid, onder k, van het Inkomstenbesluit militairen](../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md), waarop de militair direct voorafgaand aan zijn verlaten van de werkelijke dienst aanspraak had. De vergoeding wordt berekend over ten hoogste twee maal de aanspraak op vakantieverlof over een vol kalenderjaar, zoals die direct voorafgaand aan het verlaten van de werkelijke dienst van de militair voor hem gold.   
-2.  Indien op de dag, waarop de militair de werkelijke dienst verlaat, blijkt dat de militair teveel vakantieverlof heeft genoten, is hij voor ieder uur teveel genoten vakantieverlof, tenzij dit niet aan zijn schuld of toedoen te wijten is, een bedrag verschuldigd ten bedrage van 1/165 deel van de bezoldiging per maand als bedoeld in [artikel 1, eerste lid, onder k, van het Inkomstenbesluit militairen](../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md), waarop de militair direct voorafgaand aan zijn verlaten van de werkelijke dienst aanspraak had.   
+1.  Indien de militair op de datum waarop hij de werkelijke dienst verlaat nog aanspraak heeft op vakantieverlof, wordt hem voor ieder uur vakantieverlof dat hem niet is verleend een vergoeding toegekend ten bedrage van 1/165 deel van de bezoldiging per maand als bedoeld in artikel 1, eerste lid, onder k, van het Inkomstenbesluit militairen, waarop de militair direct voorafgaand aan zijn verlaten van de werkelijke dienst aanspraak had. De vergoeding wordt berekend over ten hoogste twee maal de aanspraak op vakantieverlof over een vol kalenderjaar, zoals die direct voorafgaand aan het verlaten van de werkelijke dienst van de militair voor hem gold.   
+2.  Indien op de dag, waarop de militair de werkelijke dienst verlaat, blijkt dat de militair teveel vakantieverlof heeft genoten, is hij voor ieder uur teveel genoten vakantieverlof, tenzij dit niet aan zijn schuld of toedoen te wijten is, een bedrag verschuldigd ten bedrage van 1/165 deel van de bezoldiging per maand als bedoeld in artikel 1, eerste lid, onder k, van het Inkomstenbesluit militairen, waarop de militair direct voorafgaand aan zijn verlaten van de werkelijke dienst aanspraak had.   
 3.   Indien de militair uiterlijk veertien dagen na het tijdstip waarop hij in de loop van een kalenderjaar de werkelijke dienst verlaat weer in werkelijke dienst komt of wordt aangesteld als burgerlijk ambtenaar bij het Ministerie van Defensie, kan de militair, in afwijking van het eerste lid, ervoor kiezen de vakantieverlofaanspraken van het lopende kalenderjaar die niet zijn genoten, te behouden. Daarbij wordt vakantieverlof dat in het lopende kalenderjaar is verleend in mindering gebracht op de aanspraken in dat jaar.    
 4.  Het eerste en derde lid zijn niet van toepassing ten aanzien van op 31 december 1996 nog niet verleend vakantieverlof, dat, wanneer het nog niet is genoten op de datum waarop de militair de werkelijke dienst verlaat, vervalt.  
 
@@ -2170,7 +2170,7 @@ b. 10 werkdagen, indien het verblijf buiten Europa dan wel aan boord van een var
 
 a. tot het bijwonen van vergaderingen van organen van het georganiseerd overleg militairen;   
 
-b. voor het verrichten van werkzaamheden ten behoeve van verenigingen van militairen, die aangesloten zijn bij een tot het overleg toegelaten centrale van overheidspersoneel als bedoeld in [artikel 4 van het Besluit georganiseerd overleg sector Defensie](../../../../../AMvB/besluit/georganiseerd/overleg/sector/defensie/BWBR0006042/README.md), zulks volgens bij ministeriële regeling te stellen regels.   
+b. voor het verrichten van werkzaamheden ten behoeve van verenigingen van militairen, die aangesloten zijn bij een tot het overleg toegelaten centrale van overheidspersoneel als bedoeld in artikel 4 van het Besluit georganiseerd overleg sector Defensie, zulks volgens bij ministeriële regeling te stellen regels.   
 
 c. tot het verkrijgen van woonruimte, indien de plaats waar hij in de regel zijn dienst verricht, verandert: voor ten hoogste twee werkdagen ingeval het land van plaatsing niet verandert, en voor ten hoogste vier werkdagen indien het land van plaatsing wel verandert, welke dagen desgewenst in halve dagen kunnen worden verleend;   
 
@@ -2215,11 +2215,11 @@ b. het hoofd defensieonderdeel dit – zonder de onder a bedoelde beperking van 
 
 ####Buitengewoon verlof in het kader van arbeid en zorg
 
-###Artikel 87a 
+###Artikel  87a 
 
 ####Buitengewoon verlof bij calamiteiten en zeer bijzondere persoonlijke omstandigheden
 
-1. Onverminderd [artikel 4:1 van de Wet arbeid en zorg](../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) wordt aan de militair buitengewoon verlof met behoud van militaire inkomsten verleend:
+1. Onverminderd artikel 4:1 van de Wet arbeid en zorg wordt aan de militair buitengewoon verlof met behoud van militaire inkomsten verleend:
 
 bij plotselinge ziekte van de echtgenote of echtgenoot van de militair, de persoon met wie de militair ongehuwd samenwoont of een van zijn bloed- of aanverwanten in de eerste graad of wanneer een andere noodsituatie, waarvoor de militair onverwijld een voorziening moet treffen, ontstaat: voor de duur benodigd voor de eerste opvang en het treffen van verdere voorzieningen, maar voor ten hoogste één werkdag per zich voordoende situatie;
 
@@ -2241,7 +2241,7 @@ bloed- of aanverwanten in de 3e of 4e graad of een van zijn huisgenoten: voor 1 
 
 ####Kort durend zorgverlof
 
-Het kort durend zorgverlof, bedoeld in [hoofdstuk 5 van de Wet arbeid en zorg](../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), wordt verleend met behoud van militaire inkomsten.
+Het kort durend zorgverlof, bedoeld in hoofdstuk 5 van de Wet arbeid en zorg, wordt verleend met behoud van militaire inkomsten.
 
 ###Artikel 87c 
 
@@ -2254,10 +2254,10 @@ Het kort durend zorgverlof, bedoeld in [hoofdstuk 5 van de Wet arbeid en zorg](.
 
 ####Ouderschapsverlof
 
-1.  Wanneer aan de militair door de commandant ouderschapsverlof, als bedoeld in [hoofdstuk 6 van de Wet arbeid en zorg](../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), wordt verleend, behoudt hij over de eerste periode van het ouderschapsverlof, die overeenkomt met dertien maal de voor de militair geldende arbeidsduur per week, 75% van zijn bezoldiging. Over de resterende periode van het verleende ouderschapsverlof, ontvangt de militair over de ouderschapsverlofuren geen bezoldiging.   
+1.  Wanneer aan de militair door de commandant ouderschapsverlof, als bedoeld in hoofdstuk 6 van de Wet arbeid en zorg, wordt verleend, behoudt hij over de eerste periode van het ouderschapsverlof, die overeenkomt met dertien maal de voor de militair geldende arbeidsduur per week, 75% van zijn bezoldiging. Over de resterende periode van het verleende ouderschapsverlof, ontvangt de militair over de ouderschapsverlofuren geen bezoldiging.   
 2.  De militair kan door de commandant worden verplicht tot terugbetaling van de tijdens het ouderschapsverlof genoten inkomsten wanneer hem tijdens de verlofperiode of binnen één jaar na afloop van het ouderschapsverlof ontslag wordt verleend op zijn aanvraag dan wel op grond van aan de militair te wijten omstandigheden. Indien binnen één jaar na afloop van het ouderschapsverlof ontslag wordt verleend, wordt de verplichting tot terugbetaling naar evenredigheid beperkt. Indien het ontslag verband houdt met een aanstelling als burgerlijk ambtenaar bij het Ministerie van Defensie of indiensttreding bij een andere overheidssector bestaat geen verplichting tot terugbetaling.   
 3.  De militair meldt het voornemen om ouderschapsverlof op te nemen ten minste zes maanden voor het tijdstip van ingang van het verlof schriftelijk aan de commandant.   
-4.  De commandant kan bepalen dat de aanspraak op ouderschapsverlof op grond van zwaarwegend dienstbelang wordt opgeschort tot een later tijdstip, waarbij kan worden afgeweken van de datum, waarop op grond van [artikel 6:4 van de Wet arbeid en zorg](../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) geen recht bestaat op ouderschapsverlof.  
+4.  De commandant kan bepalen dat de aanspraak op ouderschapsverlof op grond van zwaarwegend dienstbelang wordt opgeschort tot een later tijdstip, waarbij kan worden afgeweken van de datum, waarop op grond van artikel 6:4 van de Wet arbeid en zorg geen recht bestaat op ouderschapsverlof.  
 
 ### §  5  
 
@@ -2290,12 +2290,12 @@ b. vermindering plaatsvinden van het met toepassing van het vorige lid vastgeste
 2.  Bij ministeriële regeling wordt de omvang van de geneeskundige zorg vastgesteld.   
 3.  Bij ministeriële regeling wordt de in verband met de verzekering verschuldigde premie vastgesteld na ontvangst van een daartoe strekkend voorstel van de in artikel 90a bedoelde rechtspersoon. De premie wordt ingehouden op de bezoldiging, voor zover door Onze Minister niet in de premie wordt bijgedragen.   
 4.  Onze Minister draagt op bij ministeriële regeling te bepalen wijze bij in de in het derde lid bedoelde premie.   
-5.  De in het derde lid bedoelde ministeriële regeling vormt geen onderwerp van overleg als bedoeld in [artikel 3 van het Besluit georganiseerd overleg sector Defensie](../../../../../AMvB/besluit/georganiseerd/overleg/sector/defensie/BWBR0006042/README.md).   
+5.  De in het derde lid bedoelde ministeriële regeling vormt geen onderwerp van overleg als bedoeld in artikel 3 van het Besluit georganiseerd overleg sector Defensie.   
 6.  Aan de verzekering kunnen geen aanspraken worden ontleend door of ten behoeve van: 
 
 a. degene die tijdens een vredes- of humanitaire operatie in het buitenland plaatselijk is geworven en met toepassing van artikel 11 tijdelijk is aangesteld als militair;  
 
-b. de ambtenaar bedoeld in [artikel 1 van het Burgerlijk ambtenarenreglement defensie](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md) die met toepassing van artikel 11 tijdelijk is aangesteld als militair.    
+b. de ambtenaar bedoeld in artikel 1 van het Burgerlijk ambtenarenreglement defensie die met toepassing van artikel 11 tijdelijk is aangesteld als militair.    
 
 ### Artikel 90a 
 
@@ -2304,7 +2304,7 @@ b. de ambtenaar bedoeld in [artikel 1 van het Burgerlijk ambtenarenreglement def
 1.  Een door Onze Minister aan te wijzen rechtspersoon is belast met de uitvoering van de in artikel 90 bedoelde verzekering.   
 2.  De voorzitter en de overige leden van het bestuur van de rechtspersoon worden benoemd en ontslagen door Onze Minister.   
 3.  Wijzigingen in de statuten van de rechtspersoon worden ter goedkeuring voorgelegd aan Onze Minister.   
-4.  De rechtspersoon verstrekt Onze Minister informatie met betrekking tot de uitvoering van de verzekering, waaronder jaarlijks een jaarrekening die is voorzien van een verklaring omtrent de getrouwheid en rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+4.  De rechtspersoon verstrekt Onze Minister informatie met betrekking tot de uitvoering van de verzekering, waaronder jaarlijks een jaarrekening die is voorzien van een verklaring omtrent de getrouwheid en rechtmatigheid afgegeven door een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.   
 5.  Onze Minister kan de in het eerste lid bedoelde aanwijzing intrekken, wanneer de rechtspersoon tekortschiet in de uitvoering van de verzekering dan wel de verplichtingen genoemd in dit artikel niet nakomt.  
 
 ### Artikel 90b 
@@ -2357,7 +2357,7 @@ b.of verdere maatregelen of voorzieningen nodig zijn in het belang van het herst
 ####Verplichtingen van de commandant
 
 1.  De commandant is verplicht zo tijdig mogelijk zodanige maatregelen te treffen en voorschriften te geven als redelijkerwijs mogelijk is, opdat de militair die in verband met ongeschiktheid als gevolg van ziekte verhinderd is dienst te verrichten, in staat wordt gesteld de eigen of andere passende arbeid te verrichten. Indien vaststaat, dat de eigen arbeid niet meer kan worden verricht en binnen het gezagsbereik van Onze Minister geen andere passende arbeid voorhanden is, bevordert de commandant, naar regels bij ministeriële regeling te stellen, de inschakeling van de militair in voor hem passende arbeid buiten het gezagsbereik van Onze Minister.   
-2.  Uit hoofde van de verplichting, bedoeld in het eerste lid, stelt de commandant in overeenstemming met de militair of de gewezen militair een plan van aanpak op als bedoeld in [artikel 71a, tweede lid van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md). Het plan van aanpak wordt met medewerking van de militair of de gewezen militair regelmatig geëvalueerd en zo nodig bijgesteld.   
+2.  Uit hoofde van de verplichting, bedoeld in het eerste lid, stelt de commandant in overeenstemming met de militair of de gewezen militair een plan van aanpak op als bedoeld in artikel 71a, tweede lid van de Wet op de arbeidsongeschiktheidsverzekering. Het plan van aanpak wordt met medewerking van de militair of de gewezen militair regelmatig geëvalueerd en zo nodig bijgesteld.   
 3.  Om te beoordelen of de militair gevolg geeft aan de verplichtingen, bedoeld in artikel 94a wint de commandant een hierop betrekking hebbend advies in van het Uitvoeringsinstituut werknemersverzekeringen en neemt dit advies mede in beschouwing.  
 
 ### Artikel  94a  
@@ -2368,9 +2368,9 @@ b.of verdere maatregelen of voorzieningen nodig zijn in het belang van het herst
 
 a.gedurende het eerste jaar van zijn ziekte, het verrichten van hem opgedragen passende arbeid. Onder passende arbeid wordt verstaan alle arbeid die voor de krachten en bekwaamheden van de militair is berekend, tenzij deze om redenen van lichamelijke, geestelijke of sociale aard niet van hem kan worden gevergd;
 
-b.gedurende het tweede jaar van zijn ziekte en daarna, het verrichten van hem opgedragen gangbare arbeid als bedoeld in [artikel 18, vijfde lid van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md).   
+b.gedurende het tweede jaar van zijn ziekte en daarna, het verrichten van hem opgedragen gangbare arbeid als bedoeld in artikel 18, vijfde lid van de Wet op de arbeidsongeschiktheidsverzekering.   
 2.  De militair, bedoeld in het eerste lid, is verplicht tot het opvolgen van door de commandant of door een door deze aangewezen deskundige gegeven redelijke voorschriften en is verplicht mee te werken aan door hen getroffen maatregelen om hem in staat te stellen de arbeid als bedoeld in het eerste lid te verrichten.   
-3.  De militair, bedoeld in het eerste lid, is verplicht zijn medewerking te verlenen aan het opstellen, evalueren en bijstellen van een plan van aanpak als bedoeld in [artikel 71a van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md).   
+3.  De militair, bedoeld in het eerste lid, is verplicht zijn medewerking te verlenen aan het opstellen, evalueren en bijstellen van een plan van aanpak als bedoeld in artikel 71a van de Wet op de arbeidsongeschiktheidsverzekering.   
 4.  Dit artikel is van overeenkomstige toepassing wanneer de militair onder andere voorwaarden wordt verplicht tot het verrichten van dienst.  
 
 ### Artikel  95  
@@ -2383,7 +2383,7 @@ Zodra de verhindering tot dienstverrichting heeft opgehouden te bestaan, is de i
 
 ####Infectieziekten
 
-1.  De militair in werkelijke dienst die in contact staat of kort geleden heeft gestaan met een persoon die een ziekte heeft waarvoor ingevolge het krachtens de [Infectieziektenwet](../../../../../wet/infectieziektenwet/BWBR0009684/README.md) bepaalde een nominatieve aangifteplicht geldt, is verplicht daarvan ten spoedigste kennis te geven aan de voor hem aangewezen militair geneeskundige dienst.   
+1.  De militair in werkelijke dienst die in contact staat of kort geleden heeft gestaan met een persoon die een ziekte heeft waarvoor ingevolge het krachtens de Infectieziektenwet bepaalde een nominatieve aangifteplicht geldt, is verplicht daarvan ten spoedigste kennis te geven aan de voor hem aangewezen militair geneeskundige dienst.   
 2.  In het geval, bedoeld in het eerste lid, mag de militair geen dienst verrichten en heeft hij geen toegang tot de plaats van zijn tewerkstelling dan met toestemming gegeven door of vanwege de voor hem aangewezen militair geneeskundige dienst. Hij is gehouden zich te gedragen naar de door of vanwege deze dienst gegeven aanwijzingen, welke mede kunnen bestaan in een verbod om zich naar een eenheid of onderdeel van de krijgsmacht te begeven.   
 3.  Indien een militair krachtens het tweede lid geen dienst mag verrichten, wordt hij voor de toepassing van dit hoofdstuk geacht wegens ziekte verhinderd te zijn tot dienstverrichting.  
 
@@ -2433,7 +2433,7 @@ De militair in werkelijke dienst is verplicht medewerking te verlenen aan de ond
 
 ####Uitslag geneeskundig of tandheelkundig onderzoek
 
-De uitslag van een onderzoek als bedoeld in [artikel 18 van de Arbeidsomstandighedenwet](../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), alsmede in de artikelen 93, tweede lid, 95, 97, 98 en 99, wordt zo spoedig mogelijk schriftelijk aan de militair medegedeeld. 
+De uitslag van een onderzoek als bedoeld in artikel 18 van de Arbeidsomstandighedenwet, alsmede in de artikelen 93, tweede lid, 95, 97, 98 en 99, wordt zo spoedig mogelijk schriftelijk aan de militair medegedeeld. 
 
 ### Artikel  104  
 
@@ -2447,7 +2447,7 @@ De uitslag van een onderzoek als bedoeld in [artikel 18 van de Arbeidsomstandigh
 
 ####Geneeskundig onderzoek in verband met vermoedelijke blijvende ongeschiktheid
 
-1.  De militair in werkelijke dienst, van wie op goede gronden wordt verondersteld dat hij blijvend ongeschikt is voor het vervullen van de dienst, kan, in opdracht van Onze Minister, worden onderworpen aan een geneeskundig onderzoek naar de regelen, gesteld in het [Besluit procedure geneeskundig onderzoek blijvende dienstongeschiktheid en pensioenkeuring militairen](../../../../../AMvB/besluit/procedure/geneeskundig/onderzoek/blijvende/dienstongeschiktheid/en/etc/BWBR0008475/README.md).   
+1.  De militair in werkelijke dienst, van wie op goede gronden wordt verondersteld dat hij blijvend ongeschikt is voor het vervullen van de dienst, kan, in opdracht van Onze Minister, worden onderworpen aan een geneeskundig onderzoek naar de regelen, gesteld in het Besluit procedure geneeskundig onderzoek blijvende dienstongeschiktheid en pensioenkeuring militairen.   
 2.  In het geval, bedoeld in het eerste lid, zijn de artikelen 101 en 102 van overeenkomstige toepassing.  
 
 ###Hoofdstuk 10 
@@ -2462,12 +2462,12 @@ De uitslag van een onderzoek als bedoeld in [artikel 18 van de Arbeidsomstandigh
 
 | --- | --- |
 |:---|:---|
-| WAO:  | [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md)  |
-| ZW:  | [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md)  |
-| WW:  | [Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md)  |
-| Werknemersverzekering:  | [WAO](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [ZW](../../../../../wet/ziektewet/BWBR0001888/README.md), dan wel [WW](../../../../../wet/werkloosheidswet/BWBR0004045/README.md)  |
-| Arbeidsongeschiktheid:  | arbeidsongeschiktheid in de zin van [artikel 18, eerste lid van de WAO](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md)  |
-| Bovenwettelijke WW-uitkering:  | de uitkering bedoeld in [artikel 1, eerste lid, onder 1 van het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie](../../../../../AMvB/besluit/bovenwettelijke/uitkeringen/bij/werkloosheid/voor/de/sector/etc/BWBR0010510/README.md).  |
+| WAO:  | Wet op de arbeidsongeschiktheidsverzekering  |
+| ZW:  | Ziektewet  |
+| WW:  | Werkloosheidswet  |
+| Werknemersverzekering:  | WAO, ZW, dan wel WW  |
+| Arbeidsongeschiktheid:  | arbeidsongeschiktheid in de zin van artikel 18, eerste lid van de WAO  |
+| Bovenwettelijke WW-uitkering:  | de uitkering bedoeld in artikel 1, eerste lid, onder 1 van het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie.  |
 
 ### Artikel  108  
 
@@ -2502,7 +2502,7 @@ De militair die buiten zijn woonplaats is tewerkgesteld en uitsluitend om redene
 ####Uitkering ter zake van inkomstenderving van niet in werkelijke dienst verblijvende militairen en gewezen militairen 
 
 1.  De niet in werkelijke dienst verblijvende militair en de gewezen militair die inkomsten derven wegens het voldoen aan een oproep van het bevoegde gezag, danwel in verband met het verwezenlijken van aanspraken op grond van artikel 104, hebben in bij ministeriële regeling te bepalen gevallen aanspraak op een uitkering ter zake van gederfde inkomsten over de tijd die zij als gevolg daarvan noodzakelijk hebben verlet, voorzover zij hierop niet uit anderen hoofde recht kunnen doen gelden.    
-2.  Het bedrag van de uitkering, bedoeld in het vorige lid, is gelijk aan dat van de gederfde netto-inkomsten, maar beloopt per dag ten hoogste het bedrag, genoemd in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) met betrekking tot een loontijdvak van een dag, eventueel gewijzigd krachtens [artikel 18 van die wet](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).  
+2.  Het bedrag van de uitkering, bedoeld in het vorige lid, is gelijk aan dat van de gederfde netto-inkomsten, maar beloopt per dag ten hoogste het bedrag, genoemd in artikel 17, eerste lid, van de Wet financiering sociale verzekeringen met betrekking tot een loontijdvak van een dag, eventueel gewijzigd krachtens artikel 18 van die wet.  
 3.   Indien een militair of een gewezen militair, als bedoeld in het eerste lid, naar het oordeel van de functionaris, bij wie hij zich moet vervoegen, niet alleen kan reizen, zijn het eerste en het tweede lid van overeenkomstige toepassing op degene die hem begeleidt.   
 
 ### Artikel  113  
@@ -2540,7 +2540,7 @@ Aan de militair die om redenen van dienst verblijft buiten het land, waar zijn g
 
 ####Bijdrage in de kosten van kinderopvang
 
-1.  Voor de toepassing van dit artikel wordt onder kinderopvang en gastouderopvang verstaan hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).  
+1.  Voor de toepassing van dit artikel wordt onder kinderopvang en gastouderopvang verstaan hetgeen daaronder wordt verstaan in artikel 1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.  
 2.  Door het hoofd defensieonderdeel kan naar bij ministeriële regeling te stellen regels, financieel worden bijgedragen in de kosten van de militair voor kinderopvang of gastouderopvang van een of meerdere kinderen.   
 3.  De bijdrage, als bedoeld in het tweede lid, eindigt met ingang van de dag waarop de militair ontslag wordt verleend.   
 4.  Wanneer sprake is van een ontslag op grond van artikel 39, tweede lid, onder d, van dit besluit, eindigt de bijdrage, als bedoeld in het tweede lid, in afwijking van het vierde lid, 6 maanden na de datum waarop dat ontslag is ingegaan, of op het moment dat uit andere hoofde aanspraak bestaat op een bijdrage, als bedoeld in het tweede lid. Gedurende deze periode van 6 maanden blijft de situatie van voor het ontslag ongewijzigd gehandhaafd.  
@@ -2549,7 +2549,7 @@ Aan de militair die om redenen van dienst verblijft buiten het land, waar zijn g
 
 ####Schadeloosstelling
 
-Onze Minister kan de militair naar billijkheid schadeloos stellen voor schaden anders dan bedoeld in [artikel 26 van het Inkomstenbesluit militairen](../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) en is bevoegd hieromtrent voor groepen van militairen regels te geven.
+Onze Minister kan de militair naar billijkheid schadeloos stellen voor schaden anders dan bedoeld in artikel 26 van het Inkomstenbesluit militairen en is bevoegd hieromtrent voor groepen van militairen regels te geven. 
 
 ### Artikel  117  
 
@@ -2566,8 +2566,8 @@ Onze Minister kan de militair naar billijkheid schadeloos stellen voor schaden a
 
 1.  Indien een militair in Nederland overlijdt terwijl hij om redenen van dienst buiten zijn woonplaats verbleef, worden aan de nabestaanden de kosten vergoed van het doen overbrengen van het stoffelijk overschot naar een plaats van keuze in Nederland.    
 2.  Indien een militair in werkelijke dienst overlijdt en het overlijden verband houdt met de uitoefening van de militaire dienst, wordt aan de nabestaanden een tegemoetkoming in de kosten van lijkbezorging verleend tot maximaal € 5 000.    
-3.  Indien een militair in werkelijke dienst overlijdt ten gevolge van een vliegongeval tijdens een dienstreis als bedoeld in artikel 1, onder d, van het Besluit dienstreizen defensie, wordt aan de nabestaanden een som ineens ten bedrage van € 15 000 toegekend. Deze aanspraak vervalt wanneer de [Regeling uitkering vliegongeval](../../../../../AMvB/regeling/uitkering/vliegongeval/BWBR0002355/README.md) van toepassing is.    
-4.  Voor zover Onze Minister niet anders bepaalt, is dit artikel niet van toepassing in buitengewone omstandigheden en ten aanzien van militairen die zijn overleden in de tijd waarin zij waren ingedeeld bij een eenheid of onderdeel van de krijgsmacht, waaraan de bekendmaking, bedoeld in [artikel 71 van het Wetboek van Militair Strafrecht](../../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md), is gedaan.   
+3.  Indien een militair in werkelijke dienst overlijdt ten gevolge van een vliegongeval tijdens een dienstreis als bedoeld in artikel 1, onder d, van het Besluit dienstreizen defensie, wordt aan de nabestaanden een som ineens ten bedrage van € 15 000 toegekend. Deze aanspraak vervalt wanneer de Regeling uitkering vliegongeval van toepassing is.    
+4.  Voor zover Onze Minister niet anders bepaalt, is dit artikel niet van toepassing in buitengewone omstandigheden en ten aanzien van militairen die zijn overleden in de tijd waarin zij waren ingedeeld bij een eenheid of onderdeel van de krijgsmacht, waaraan de bekendmaking, bedoeld in artikel 71 van het Wetboek van Militair Strafrecht, is gedaan.   
 
 ###Artikel 118a 
 
@@ -2586,7 +2586,7 @@ c. indien de militair geen echtgenoot of kinderen als bedoeld onder b heeft nage
 5.  Op de uitkering worden de aan de militair reeds vóór zijn overlijden betaalde inkomsten met betrekking tot een na zijn overlijden gelegen tijdvak, in mindering gebracht.   
 6.  De artikelen 54g, 71a, eerste lid, en 80b, eerste lid, zijn van overeenkomstige toepassing.  
 
-###Artikel 118b 
+### Artikel 118b 
 
 ####Uitkering bij vermissing
 
@@ -2614,10 +2614,10 @@ b.  *laatstelijk genoten bezoldiging:* de som van de geldelijke inkomsten per ma
 4.   Indien de gewezen militair binnen een tijdvak van vier weken, nadat de volgens het tweede en derde lid geregelde doorbetaling van zijn laatstelijk genoten bezoldiging in verband met zijn herstel is gestaakt, wederom wegens ziekte of een gebrek ongeschikt wordt voor het verrichten van naar aard en omvang soortgelijke arbeid als die welke als militair werd verricht, wordt de nieuw opgetreden ongeschiktheid als een voortzetting van de vorige ongeschiktheid beschouwd en wordt de doorbetaling van de laatstelijk genoten bezoldiging hervat. Voor het bepalen van het tijdstip, waarop de in het tweede en derde lid bedoelde termijnen zijn verstreken, worden perioden van in die leden bedoelde ongeschiktheid welke elkaar met een onderbreking van minder dan vier weken zijn opgevolgd, samengeteld.    
 5.   
 
-a. Het tweede, derde en vierde lid zijn eveneens van toepassing op de gewezen vrouwelijke militair die na afloop van de periode gedurende welke zij in verband met zwangerschap of bevalling aanspraak heeft op een uitkering op basis van [hoofdstuk 3 van de Wet arbeid en zorg](../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) nog wegens ziekte arbeidsongeschikt is voor het verrichten van naar aard en omvang soortgelijke arbeid als die welke als militair werd verricht.   
+a. Het tweede, derde en vierde lid zijn eveneens van toepassing op de gewezen vrouwelijke militair die na afloop van de periode gedurende welke zij in verband met zwangerschap of bevalling aanspraak heeft op een uitkering op basis van hoofdstuk 3 van de Wet arbeid en zorg nog wegens ziekte arbeidsongeschikt is voor het verrichten van naar aard en omvang soortgelijke arbeid als die welke als militair werd verricht.   
 
 b. De in het derde lid bedoelde termijn van een jaar vangt aan op de dag na die van de bevalling.      
-6.   De voorgaande leden vinden geen toepassing op de gewezen militair die op het tijdstip van ingang van zijn ontslag ongeschikt is dan wel binnen een maand daarna ongeschikt wordt, en op de gewezen vrouwelijke militair wier ongeschiktheid na het tijdstip, bedoeld in het vorige lid onder b, voortduurt, vanaf de dag met ingang waarvan zij na evenbedoelde tijdstippen in verband met de aanvaarding van een volledige betrekking aanspraak kunnen maken op loon of bezoldiging, dan wel op een uitkering krachtens de [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md).    
+6.   De voorgaande leden vinden geen toepassing op de gewezen militair die op het tijdstip van ingang van zijn ontslag ongeschikt is dan wel binnen een maand daarna ongeschikt wordt, en op de gewezen vrouwelijke militair wier ongeschiktheid na het tijdstip, bedoeld in het vorige lid onder b, voortduurt, vanaf de dag met ingang waarvan zij na evenbedoelde tijdstippen in verband met de aanvaarding van een volledige betrekking aanspraak kunnen maken op loon of bezoldiging, dan wel op een uitkering krachtens de Ziektewet.    
 7.   De aanspraak op de laatstelijk genoten bezoldiging bestaat niet indien de betrokkene:  
 
 a. de ziekte of het gebrek heeft voorgewend, althans zodanig overdreven voorgesteld, dat ongeschiktheid tot het verrichten van naar aard en omvang soortgelijke arbeid als die welke als militair werd verricht, niet kan worden aangenomen; of   
@@ -2641,9 +2641,9 @@ c. verminderd met:
 ####Samenloop van doorbetaling van bezoldiging na ontslag en uitkering op grond van een wettelijke of bovenwettelijke werknemersverzekering
 
 1.  Indien de gewezen militair, bedoeld in artikel 120, recht heeft op een uitkering op grond van een werknemersverzekering, dan wel een bovenwettelijke WW-uitkering berustend op de dienstbetrekking waaraan de laatstgenoten bezoldiging is verbonden, wordt die uitkering daarop in mindering gebracht.   
-2.  Indien als gevolg van handelingen of het nalaten van handelingen door die gewezen militair geen uitkering op grond van de [WAO](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) wordt toegekend, wordt voor de toepassing van het eerste lid uitgegaan van een uitkering op grond van [die wet](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), zoals die zou zijn toegekend bij een arbeidsongeschiktheid van 80% of meer.   
+2.  Indien als gevolg van handelingen of het nalaten van handelingen door die gewezen militair geen uitkering op grond van de WAO wordt toegekend, wordt voor de toepassing van het eerste lid uitgegaan van een uitkering op grond van die wet, zoals die zou zijn toegekend bij een arbeidsongeschiktheid van 80% of meer.   
 3.  Indien als gevolg van handelingen of het nalaten van handelingen door die gewezen militair het bedrag van de uitkering op grond van de in het eerste lid bedoelde werknemersverzekering of een bovenwettelijke WW-uitkering een vermindering ondergaat, dan wel de aanspraak daarop geheel of gedeeltelijk niet wordt toegekend, wordt deze uitkering voor de toepassing van het eerste lid steeds aangemerkt als een uitkering die onverminderd is genoten.   
-4.  Indien die gewezen militair over een periode ter zake van de dienstbetrekking waaraan de laatstgenoten bezoldiging is verbonden aanspraak heeft of had kunnen hebben op een uitkering op grond van de [ZW](../../../../../wet/ziektewet/BWBR0001888/README.md) of de [WAO](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), is het verplichtingen- en sanctieregime van [die wet](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) over die periode van overeenkomstige toepassing.   
+4.  Indien die gewezen militair over een periode ter zake van de dienstbetrekking waaraan de laatstgenoten bezoldiging is verbonden aanspraak heeft of had kunnen hebben op een uitkering op grond van de ZW of de WAO, is het verplichtingen- en sanctieregime van die wet over die periode van overeenkomstige toepassing.   
 5.  Indien ten aanzien van die wettelijke uitkering een verplichting wordt opgelegd of een sanctie wordt toegepast, wordt door de commandant operationeel commando zoveel mogelijk dezelfde verplichting opgelegd dan wel een overeenkomstige sanctie toegepast op het verminderde bedrag van de laatstgenoten bezoldiging.   
 6.  De aanspraak op doorbetaling van bezoldiging ingevolge artikel 120 vervalt, indien de gewezen militair zonder deugdelijke grond weigert de hem door de commandant operationeel commando aangeboden gangbare arbeid, waartoe de militair geneeskundige dienst hem in staat acht, te aanvaarden.  
 
@@ -2663,11 +2663,11 @@ a. uitkeringen op grond van artikel 123;
 
 b. inkomsten uit of in verband met arbeid of bedrijf;   
 
-c. uitkeringen krachtens de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md) (*Stb.* 1972, 313) of krachtens enige sociale verzekeringswet;   
+c. uitkeringen krachtens de Wet arbeidsongeschiktheidsvoorziening militairen (*Stb.* 1972, 313) of krachtens enige sociale verzekeringswet;   
 
 d. uitkeringen wegens een particuliere verzekering ter zake van de geldelijke gevolgen van arbeidsongeschiktheid;   
 
-e. inkomsten ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) vastgestelde bepalingen met uitzondering van een bedrag, gelijk aan dat van het invaliditeitspensioen, alsmede van de bijzondere invaliditeitsverhoging ingevolge die bepalingen.     
+e. inkomsten ingevolge de bij of krachtens de Kaderwet militaire pensioenen vastgestelde bepalingen met uitzondering van een bedrag, gelijk aan dat van het invaliditeitspensioen, alsmede van de bijzondere invaliditeitsverhoging ingevolge die bepalingen.     
 4.   Onze Minister kan in naar zijn oordeel bijzondere gevallen:  
 
 a. de termijn van twee jaren, genoemd in het eerste lid, verlengen;   
@@ -2695,7 +2695,7 @@ b. de gewezen militair die op de dag van het overlijden in het genot was van een
 a. onderdeel a: gelijk aan het bedrag van de laatstgenoten bezoldiging, bedoeld in artikel 120 eerste lid, zonder vermindering ingevolge artikel 120a;  
 
 b. onderdeel b: gelijk aan de uitkering welke belanghebbende op de dag van zijn overlijden genoot;   en wordt berekend over een tijdvak van drie maanden.   
-4.  Op dat bedrag worden in mindering gebracht de uitkering ingevolge [artikel 35 van de Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md), dan wel [artikel 53 van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) waarop de overledene aanspraak had dan wel zou kunnen hebben gehad, alsmede naar aard en strekking daarmee overeenkomende uitkeringen.  
+4.  Op dat bedrag worden in mindering gebracht de uitkering ingevolge artikel 35 van de Ziektewet, dan wel artikel 53 van de Wet op de arbeidsongeschiktheidsverzekering waarop de overledene aanspraak had dan wel zou kunnen hebben gehad, alsmede naar aard en strekking daarmee overeenkomende uitkeringen.  
 
 ###Hoofdstuk 11a 
 
@@ -2775,7 +2775,7 @@ d. *melder:* de militair die een vermoeden van een misstand meldt overeenkomstig
 
 e. *melding:* de melding van een vermoeden van een misstand door een melder;  
 
-f. *commissie:* de Commissie integriteit overheid, bedoeld in het [Besluit melden vermoeden van misstand bij Rijk en Politie](../../../../../AMvB/besluit/melden/vermoeden/van/misstand/bij/rijk/en/politie/BWBR0026951/README.md);  
+f. *commissie:* de Commissie integriteit overheid, bedoeld in het Besluit melden vermoeden van misstand bij Rijk en Politie;  
 
 g. *vertrouwenspersoon:* Centrale adviseur integriteit Defensie of Functionaris Integriteitzorg.  
 
@@ -2936,7 +2936,7 @@ a. de rechtsprocedure is gericht tegen een besluit als bedoeld in artikel 126h, 
 b. bedoeld besluit is genomen binnen vijf jaar nadat het bevoegd gezag kennis heeft gegeven van de bevindingen en het oordeel, bedoeld in artikel 126q, eerste lid, of nadat het bevoegd gezag kennis heeft gegeven van het standpunt, bedoeld in artikel 126w, eerste lid; en  
 
 c. bedoeld besluit wordt aangevochten op de grond dat het is genomen vanwege een melding.     
-2.  De melder, de vertrouwenspersoon of de gewezen vertrouwenspersoon die op grond van [artikel 4:8 Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn zienswijze naar voren brengt met betrekking tot een voorgenomen besluit, kan aanspraak maken op een tegemoetkoming in de kosten op voorwaarde dat: 
+2.  De melder, de vertrouwenspersoon of de gewezen vertrouwenspersoon die op grond van artikel 4:8 Algemene wet bestuursrecht zijn zienswijze naar voren brengt met betrekking tot een voorgenomen besluit, kan aanspraak maken op een tegemoetkoming in de kosten op voorwaarde dat: 
 
 a. het voorgenomen besluit betreft een besluit als bedoeld in artikel 126h, eerste of tweede lid;  
 
@@ -2956,8 +2956,8 @@ b. het verzoek door het bevoegd gezag is ontvangen voordat op het bezwaar is bes
 
 ### Artikel  126z  
 
-1.  De tegemoetkoming voor iedere afzonderlijke procedure, genoemd in artikel 126x, eerste en tweede lid, is gelijk aan tweemaal het bedrag, genoemd in onderdeel B1 van de [bijlage bij het Besluit proceskosten bestuursrecht](../../../../../AMvB/besluit/proceskosten/bestuursrecht/BWBR0006358/README.md).   
-2.  [Artikel 3 van het Besluit proceskosten bestuursrecht](../../../../../AMvB/besluit/proceskosten/bestuursrecht/BWBR0006358/README.md) is van overeenkomstige toepassing.  
+1.  De tegemoetkoming voor iedere afzonderlijke procedure, genoemd in artikel 126x, eerste en tweede lid, is gelijk aan tweemaal het bedrag, genoemd in onderdeel B1 van de bijlage bij het Besluit proceskosten bestuursrecht.   
+2.  Artikel 3 van het Besluit proceskosten bestuursrecht is van overeenkomstige toepassing.  
 
 ### Artikel  126aa  
 
@@ -2970,7 +2970,7 @@ Degene aan wie een tegemoetkoming is toegekend, kan worden verplicht tot terugbe
 
 ### Artikel  126ac  
 
-1.  Als een besluit of een voorgenomen besluit waarvoor op grond van artikel 126x, eerste of tweede lid, aanspraak bestaat op een tegemoetkoming in de kosten van de procedures, in de bezwaarprocedure of zienswijzeprocedure wordt herroepen wegens een aan het bevoegd gezag te wijten onrechtmatigheid of het bestreden besluit als gevolg van een uitspraak van de rechter die onherroepelijk is geworden wordt vernietigd, waarbij de rechtsgevolgen niet in stand worden gelaten, vergoedt het bevoegd gezag voor iedere afzonderlijke procedure aan de melder, de vertrouwenspersoon of de gewezen vertrouwenspersoon alle daadwerkelijk en in redelijkheid door hem gemaakte kosten als bedoeld in [artikel 1 van het Besluit proceskosten bestuursrecht](../../../../../AMvB/besluit/proceskosten/bestuursrecht/BWBR0006358/README.md), met dien verstande dat: 
+1.  Als een besluit of een voorgenomen besluit waarvoor op grond van artikel 126x, eerste of tweede lid, aanspraak bestaat op een tegemoetkoming in de kosten van de procedures, in de bezwaarprocedure of zienswijzeprocedure wordt herroepen wegens een aan het bevoegd gezag te wijten onrechtmatigheid of het bestreden besluit als gevolg van een uitspraak van de rechter die onherroepelijk is geworden wordt vernietigd, waarbij de rechtsgevolgen niet in stand worden gelaten, vergoedt het bevoegd gezag voor iedere afzonderlijke procedure aan de melder, de vertrouwenspersoon of de gewezen vertrouwenspersoon alle daadwerkelijk en in redelijkheid door hem gemaakte kosten als bedoeld in artikel 1 van het Besluit proceskosten bestuursrecht, met dien verstande dat: 
 
 a. de vergoeding wordt toegekend zonder toepassing van het tariefsysteem in voornoemd besluit;  
 
@@ -2995,7 +2995,7 @@ c. aan de melder toegekende bedragen waarop de melder op grond van een ander wet
 
 ####Non-activiteit 
 
-In geval van buitengewone omstandigheden kan Onze Minister de militair die in verband met een functie in een publiekrechtelijk college ingevolge [artikel 12c, eerste lid, van de Militaire ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) op non-activiteit is gesteld, in werkelijke dienst terugroepen.  
+In geval van buitengewone omstandigheden kan Onze Minister de militair die in verband met een functie in een publiekrechtelijk college ingevolge artikel 12c, eerste lid, van de Militaire ambtenarenwet 1931 op non-activiteit is gesteld, in werkelijke dienst terugroepen.  
 
 ### Artikel  134  
 
@@ -3021,7 +3021,7 @@ De militair in werkelijke dienst kan door Onze Minister worden verplicht zodanig
 
 ####Onderzoek aan kleding dan wel lichaam 
 
-De commandant is bevoegd tot het gelasten van een onderzoek aan kleding dan wel lichaam, als bedoeld in [artikel 12d van de Militaire ambtenarenwet 1931](../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) en met inachtneming van dat artikel.  
+De commandant is bevoegd tot het gelasten van een onderzoek aan kleding dan wel lichaam, als bedoeld in artikel 12d van de Militaire ambtenarenwet 1931 en met inachtneming van dat artikel.  
 
 ### Artikel  143  
 
@@ -3186,8 +3186,8 @@ De in artikel 154a bedoelde militair die de uit zijn aanstelling voortvloeiende 
 
 ####Familiebezoek
 
-1. De in artikel 154a genoemde militair die geen aanspraak maakt op een tegemoetkoming in het dagelijks reizen, heeft, indien zijn plaats van tewerkstelling in Nederland, België of Duitsland is gelegen, eenmaal in de twee weken aanspraak op een tegemoetkoming in de kosten van het reizen ten behoeve van familiebezoek over een enkele reis afstand van ten hoogste 460 kilometer, met inachtneming van het bepaalde krachtens [artikel 25 van het Verplaatsingskostenbesluit militairen](../../../../../AMvB/verplaatsingskostenbesluit/militairen/BWBR0005137/README.md). 
-2. Indien de in het eerste lid bedoelde militair tevens aanspraak heeft op een tegemoetkoming in de reiskosten op grond van het [Verplaatsingskostenbesluit militairen](../../../../../AMvB/verplaatsingskostenbesluit/militairen/BWBR0005137/README.md), bestaat slechts aanspraak op de hoogste vergoeding per maand. 
+1. De in artikel 154a genoemde militair die geen aanspraak maakt op een tegemoetkoming in het dagelijks reizen, heeft, indien zijn plaats van tewerkstelling in Nederland, België of Duitsland is gelegen, eenmaal in de twee weken aanspraak op een tegemoetkoming in de kosten van het reizen ten behoeve van familiebezoek over een enkele reis afstand van ten hoogste 460 kilometer, met inachtneming van het bepaalde krachtens artikel 25 van het Verplaatsingskostenbesluit militairen. 
+2. Indien de in het eerste lid bedoelde militair tevens aanspraak heeft op een tegemoetkoming in de reiskosten op grond van het Verplaatsingskostenbesluit militairen, bestaat slechts aanspraak op de hoogste vergoeding per maand. 
 3. De in dit artikel bedoelde aanspraak is niet van toepassing voor de militair die voorzieningen geniet ingevolge het Dienst Buitenlandse Zaken Voorzieningenstelsel (DBZV).
 
 ### Artikel 154j 
@@ -3210,9 +3210,9 @@ De in artikel 154a bedoelde militair die de uit zijn aanstelling voortvloeiende 
 
 ### Artikel  161  
 
-####Toepasselijkheid van de [Algemene termijnenwet](../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) 
+####Toepasselijkheid van de Algemene termijnenwet 
 
-De [Algemene termijnenwet](../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) (*Stb.* 1964, 314) is niet van toepassing op de termijnen in dit besluit gesteld.  
+De Algemene termijnenwet (*Stb.* 1964, 314) is niet van toepassing op de termijnen in dit besluit gesteld.  
 
 ### Artikel  163  
 

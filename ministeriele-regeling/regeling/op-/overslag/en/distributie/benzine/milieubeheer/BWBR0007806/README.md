@@ -3,7 +3,7 @@
 ##Regeling op-, overslag en distributie benzine milieubeheer
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op richtlijn nr. 94/63/EG van het Europees Parlement en de Raad van de Europese Unie van 20 december 1994 betreffende de beheersing van de uitstoot van vluchtige organische stoffen (VOS) als gevolg van de opslag van benzine en de distributie van benzine vanaf terminals naar benzinestations (PbEG L 365), alsmede gelet op de [artikelen 8.44](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.45](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [21.6, zesde lid, van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op richtlijn nr. 94/63/EG van het Europees Parlement en de Raad van de Europese Unie van 20 december 1994 betreffende de beheersing van de uitstoot van vluchtige organische stoffen (VOS) als gevolg van de opslag van benzine en de distributie van benzine vanaf terminals naar benzinestations (PbEG L 365), alsmede gelet op de artikelen 8.44, 8.45 en 21.6, zesde lid, van de Wet milieubeheer;
 Besluit:    
 ### Paragraaf 1  
 
@@ -35,9 +35,9 @@ j. vul- en opslaginstallatie van een benzinestation: vaste tankinstallatie met d
 
 k. laadportaal: laadportaal als bedoeld in artikel 2, onderdeel o, van richtlijn 94/63;  
 
-l. bestaande terminals, opslaginstallaties, overslaginstallaties en benzinestations: terminals, opslaginstallaties, overslaginstallaties en benzinestations die voor 31 december 1995 in werking waren of waarvoor voor 31 december 1995 een vergunning krachtens [artikel 8.1 van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is verleend;  
+l. bestaande terminals, opslaginstallaties, overslaginstallaties en benzinestations: terminals, opslaginstallaties, overslaginstallaties en benzinestations die voor 31 december 1995 in werking waren of waarvoor voor 31 december 1995 een vergunning krachtens artikel 8.1 van de Wet milieubeheer is verleend;  
 
-m. nieuwe opslaginstallatie: opslaginstallatie die eerst na 30 december 1995 in werking is gebracht of waarvoor eerst na 30 december 1995 een vergunning krachtens [artikel 8.1 van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of een omgevingsvergunning is verleend;  
+m. nieuwe opslaginstallatie: opslaginstallatie die eerst na 30 december 1995 in werking is gebracht of waarvoor eerst na 30 december 1995 een vergunning krachtens artikel 8.1 van de Wet milieubeheer of een omgevingsvergunning is verleend;  
 
 n. debiet: de in de drie voorgaande jaren gemeten grootste totale jaarlijkse hoeveelheid benzine die van een opslaginstallatie van een terminal is overgeslagen in mobiele tanks of vanuit mobiele tanks naar een benzinestation is overgeslagen;  
 
@@ -49,14 +49,14 @@ q. schip: schip als bedoeld in artikel 2, onderdeel k, van richtlijn 94/63;
 
 r. tankverhuurbedrijf: terminal die uitsluitend is bestemd voor het verhuren van tankcapaciteit aan derden en waarvan de opslaginstallaties mede zijn bedoeld voor het opslaan van andere stoffen, preparaten of producten dan benzine;  
 
-s. stoffenlijst: verklaring als bedoeld in randnummer 7.2.2.8.3 van [bijlage 1 bij de Regeling vervoer over de binnenwateren van gevaarlijke stoffen](../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/binnenwateren/van/gevaarlijke/stoffen/BWBR0010115/README.md);  
+s. stoffenlijst: verklaring als bedoeld in randnummer 7.2.2.8.3 van bijlage 1 bij de Regeling vervoer over de binnenwateren van gevaarlijke stoffen;  
 
 t. bevoegd gezag: het bestuursorgaan dat bevoegd is een omgevingsvergunning voor de betrokken inrichting te verlenen.     
 2.  Een wijziging van de richtlijn gaat voor de toepassing van het eerste lid, onderdelen b, d, g, h, i, k en q, gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.  
 
 ### Artikel  1a  
 
-Deze regeling berust mede op [artikel 5.14 van het Besluit omgevingsrecht](../../../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md). 
+Deze regeling berust mede op artikel 5.14 van het Besluit omgevingsrecht. 
 
 ###Paragraaf 2 
 
@@ -80,9 +80,9 @@ Laadportalen van overslaginstallaties voldoen aan de specificaties, bedoeld in d
 1.  Het is degene die een terminal drijft, verboden een ladingtank te beladen waarin volgens de stoffenlijst benzine mag worden vervoerd.   
 2.  Het eerste lid geldt niet indien: 
 
-a. de schipper aan degene die de terminal drijft, aantoont dat hij beschikt over een bijgewerkte reisregistratie overeenkomstig randnummer 7.2.4.12 van [bijlage 1 bij de Regeling vervoer over de binnenwateren van gevaarlijke stoffen](../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/binnenwateren/van/gevaarlijke/stoffen/BWBR0010115/README.md), en  
+a. de schipper aan degene die de terminal drijft, aantoont dat hij beschikt over een bijgewerkte reisregistratie overeenkomstig randnummer 7.2.4.12 van bijlage 1 bij de Regeling vervoer over de binnenwateren van gevaarlijke stoffen, en  
 
-b. [artikel 2 van de Regeling benzinevervoer in mobiele tanks 2006](../../../../../../../../../ministeriele-regeling/regeling/benzinevervoer/in/mobiele/tanks/2006/BWBR0018575/README.md) van toepassing is of de schipper aan degene die de terminal drijft, aantoont dat de ladingtank is ontgast met toepassing van [artikel 4 van de Regeling benzinevervoer in mobiele tanks 2006](../../../../../../../../../ministeriele-regeling/regeling/benzinevervoer/in/mobiele/tanks/2006/BWBR0018575/README.md).     
+b. artikel 2 van de Regeling benzinevervoer in mobiele tanks 2006 van toepassing is of de schipper aan degene die de terminal drijft, aantoont dat de ladingtank is ontgast met toepassing van artikel 4 van de Regeling benzinevervoer in mobiele tanks 2006.     
 3.  Het eerste lid geldt voorts niet indien tijdens het beladen van een ladingtank verplaatsingsdampen uit die tank door een dampdichte leiding worden teruggevoerd naar een dampverwerkingseenheid.  
 
 ### Paragraaf 3  
@@ -94,7 +94,7 @@ b. [artikel 2 van de Regeling benzinevervoer in mobiele tanks 2006](../../../../
 1.  Degene die een benzinestation drijft, dient, behalve aan de voorschriften die aan de vergunning zijn verbonden, wat betreft een vul- en opslaginstallatie te voldoen aan de voorschriften zoals opgenomen in de bij deze regeling behorende bijlage IV.   
 2.  Het eerste lid is niet van toepassing op: 
 
-a.  een benzinestation dat wordt aangemerkt als een tankstation voor het wegverkeer waarop het [Activiteitenbesluit milieubeheer](../../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) van toepassing is; 
+a.  een benzinestation dat wordt aangemerkt als een tankstation voor het wegverkeer waarop het Activiteitenbesluit milieubeheer van toepassing is; 
 
 b.  een benzinestation met een debiet van minder dan 100 m<sup>3</sup> per jaar.    
 
@@ -104,7 +104,7 @@ b.  een benzinestation met een debiet van minder dan 100 m<sup>3</sup> per jaar.
 
 ### Artikel  9  
 
-Indien voor het opslaan van benzine in een ondergrondse tank voorschriften krachtens het [Activiteitenbesluit milieubeheer](../../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) van toepassing zijn, gelden die voorschriften tenzij daarvoor krachtens deze regeling andere voorschriften van toepassing zijn.  
+Indien voor het opslaan van benzine in een ondergrondse tank voorschriften krachtens het Activiteitenbesluit milieubeheer van toepassing zijn, gelden die voorschriften tenzij daarvoor krachtens deze regeling andere voorschriften van toepassing zijn.  
 
 ###Artikel 10 
 
@@ -190,7 +190,7 @@ c. 20g/Nm<sup>3</sup> gedurende één uur in het geval van belading van schepen.
 
 ###5.2  
 
-De gemiddelde concentratie, bedoeld in voorschrift 5.1, van een dampterugwinningseenheid die voor 31 december 1995 in werking was of waarvoor voor 31 december 1995 een vergunning krachtens [artikel 8.1 van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is verleend, mag niet meer bedragen dan 35g/Nm<sup>3</sup> gedurende één uur dan wel, in geval een lagere concentratienorm in de aan de vergunning verbonden voorschriften is opgenomen, niet meer bedragen dan die lagere concentratienorm. 
+De gemiddelde concentratie, bedoeld in voorschrift 5.1, van een dampterugwinningseenheid die voor 31 december 1995 in werking was of waarvoor voor 31 december 1995 een vergunning krachtens artikel 8.1 van de Wet milieubeheer is verleend, mag niet meer bedragen dan 35g/Nm<sup>3</sup> gedurende één uur dan wel, in geval een lagere concentratienorm in de aan de vergunning verbonden voorschriften is opgenomen, niet meer bedragen dan die lagere concentratienorm. 
 
 ###6  
 

@@ -3,7 +3,7 @@
 ##Heffingsregime op afkoopsommen 
 
 De staatssecretaris van Financiën,  
-Gelet op [artikel 33 van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) (Stb. 1990, 104),
+Gelet op artikel 33 van de Wet op de loonbelasting 1964 (Stb. 1990, 104),
 Besluit:    
 
 ### Artikel  1  

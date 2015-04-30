@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschappen van 17 april 1996, nr. 96009579/3700, directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij;
 
-Gelet op artikel 96a, eerste en tweede lid, van de Wet op het basisonderwijs, artikel 93a, eerste en tweede lid, van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs, de [artikelen 84](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [85a van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), artikel 69 van de Wet op de onderwijsverzorging en [artikel 12.1.2 , tweede lid](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), juncto de [artikelen 12.3.36](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [12.3.38](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [12.3.39 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
+Gelet op artikel 96a, eerste en tweede lid, van de Wet op het basisonderwijs, artikel 93a, eerste en tweede lid, van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs, de artikelen 84 en 85a van de Wet op het voortgezet onderwijs, artikel 69 van de Wet op de onderwijsverzorging en artikel 12.1.2 , tweede lid, juncto de artikelen 12.3.36, 12.3.38 en 12.3.39 van de Wet educatie en beroepsonderwijs;
 
 De Raad van State gehoord (advies van 22 mei 1996, nr. W05.96.0166);
 
@@ -43,9 +43,9 @@ Wijzigt het Formatiebesluit W.V.O.
 
 Van artikel 2*a* van het Formatiebesluit dagscholen m.b.o., zoals luidend op 31 december 1995, wordt afgeweken in die zin dat met ingang van het tijdstip van inwerkingtreding van dit besluit: 
 
-1. in het eerste lid na «met de toepassing van» wordt gelezen: de bij of krachtens de [Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vastgestelde regeling die overeenkomt met;  
+1. in het eerste lid na «met de toepassing van» wordt gelezen: de bij of krachtens de Wet educatie en beroepsonderwijs vastgestelde regeling die overeenkomt met;  
 
-2. in het eerste lid na «[Rechtspositiebesluit onderwijspersoneel](../../../../../../../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md)» wordt gelezen: zoals dat luidde op 31 juli 1996;  
+2. in het eerste lid na «Rechtspositiebesluit onderwijspersoneel» wordt gelezen: zoals dat luidde op 31 juli 1996;  
 
 3. in het tweede lid 
 
@@ -71,9 +71,9 @@ d. het bevoegd gezag verklaart vacatures, niet strekkende tot vervanging van tij
 
 Van artikel 6*a* van het Formatiebesluit v.a.v.o., zoals luidend op 31 december 1995, wordt afgeweken in die zin dat met ingang van het tijdstip van inwerkingtreding van dit besluit: 
 
-1. in het eerste lid na «met de toepassing van» wordt gelezen: de bij of krachtens de [Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vastgestelde regeling die overeenkomt met;  
+1. in het eerste lid na «met de toepassing van» wordt gelezen: de bij of krachtens de Wet educatie en beroepsonderwijs vastgestelde regeling die overeenkomt met;  
 
-2. in het eerste lid na «[Rechtspositiebesluit onderwijspersoneel](../../../../../../../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md)» wordt gelezen: zoals dat luidde op 31 juli 1996;  
+2. in het eerste lid na «Rechtspositiebesluit onderwijspersoneel» wordt gelezen: zoals dat luidde op 31 juli 1996;  
 
 3. in het tweede lid 
 
@@ -97,11 +97,11 @@ d. het bevoegd gezag verklaart vacatures, niet strekkende tot vervanging van tij
 
 ####AFWIJKING UITVOERINGSBESLUIT W.C.B.O.
 
-Van de [artikelen E.2*a* ](../../../../../../../../../..//BWBR0006064/README.md), [F.5*a* ](../../../../../../../../../..//BWBR0006064/README.md) en [H.3*a* van het Uitvoeringsbesluit W.C.B.O.](../../../../../../../../../..//BWBR0006064/README.md), zoals luidend op 31 december 1995, wordt afgeweken in die zin dat met ingang van het tijdstip van inwerkingtreding van dit besluit telkens: 
+Van de artikelen E.2*a* , F.5*a* en H.3*a* van het Uitvoeringsbesluit W.C.B.O., zoals luidend op 31 december 1995, wordt afgeweken in die zin dat met ingang van het tijdstip van inwerkingtreding van dit besluit telkens: 
 
-1.in het eerste lid na «met de toepassing van» wordt gelezen: de bij of krachtens de [Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vastgestelde regeling die overeenkomt met;  
+1.in het eerste lid na «met de toepassing van» wordt gelezen: de bij of krachtens de Wet educatie en beroepsonderwijs vastgestelde regeling die overeenkomt met;  
 
-2. in het eerste lid na «[Rechtspositiebesluit onderwijspersoneel](../../../../../../../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md)» wordt gelezen: zoals dat luidde op 31 juli 1996;  
+2. in het eerste lid na «Rechtspositiebesluit onderwijspersoneel» wordt gelezen: zoals dat luidde op 31 juli 1996;  
 
 3. in het tweede lid 
 
@@ -127,9 +127,9 @@ d. het bevoegd gezag onderscheidenlijk het bestuur verklaart vacatures, niet str
 
 Van artikel 32*a* van het Besluit vormingswerk voor jeugdigen 1994, zoals luidend op 31 december 1995, wordt afgeweken in die zin dat met ingang van het tijdstip van inwerkingtreding van dit besluit: 
 
-1.in het eerste lid na «met de toepassing van» wordt gelezen: de bij of krachtens de [Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vastgestelde regeling die overeenkomt met;  
+1.in het eerste lid na «met de toepassing van» wordt gelezen: de bij of krachtens de Wet educatie en beroepsonderwijs vastgestelde regeling die overeenkomt met;  
 
-2. in het eerste lid na «[Rechtspositiebesluit onderwijspersoneel](../../../../../../../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md)» wordt gelezen: zoals dat luidde op 31 juli 1996;  
+2. in het eerste lid na «Rechtspositiebesluit onderwijspersoneel» wordt gelezen: zoals dat luidde op 31 juli 1996;  
 
 3. in het tweede lid 
 
@@ -155,9 +155,9 @@ d. het bevoegd gezag verklaart vacatures, niet strekkende tot vervanging van tij
 
 Van artikel 6*a *van het Uitvoeringsbesluit KVE 1991, zoals luidend op 31 december 1995, wordt afgeweken in die zin dat met ingang van het tijdstip van inwerkingtreding van dit besluit: 
 
-1.in het eerste lid na «met de toepassing van» wordt gelezen: de bij of krachtens de [Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vastgestelde regeling die overeenkomt met;  
+1.in het eerste lid na «met de toepassing van» wordt gelezen: de bij of krachtens de Wet educatie en beroepsonderwijs vastgestelde regeling die overeenkomt met;  
 
-2. in het eerste lid na «[Rechtspositiebesluit onderwijspersoneel](../../../../../../../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md)» wordt gelezen: zoals dat luidde op 31 juli 1996;  
+2. in het eerste lid na «Rechtspositiebesluit onderwijspersoneel» wordt gelezen: zoals dat luidde op 31 juli 1996;  
 
 3. in het tweede lid 
 
@@ -183,9 +183,9 @@ d. het bestuur verklaart vacatures, niet strekkende tot vervanging van tijdelijk
 
 Van artikel 2*a* van het Besluit bekostiging Innovatie- en praktijkcentra, zoals luidend op 31 december 1995, wordt afgeweken in die zin dat met ingang van het tijdstip van inwerkingtreding van dit besluit: 
 
-1. in het eerste lid na «met de toepassing van» wordt gelezen: de bij of krachtens de [Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vastgestelde regeling die overeenkomt met;  
+1. in het eerste lid na «met de toepassing van» wordt gelezen: de bij of krachtens de Wet educatie en beroepsonderwijs vastgestelde regeling die overeenkomt met;  
 
-2. in het eerste lid na «[Rechtspositiebesluit onderwijspersoneel](../../../../../../../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md)» wordt gelezen: zoals dat luidde op 31 juli 1996;  
+2. in het eerste lid na «Rechtspositiebesluit onderwijspersoneel» wordt gelezen: zoals dat luidde op 31 juli 1996;  
 
 3. in het tweede lid 
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat het in het kader van het belastingplan 1999 wenselijk is maatregelen te treffen in het kader van het inkomensbeleid, een bijdrage te leveren aan een verdere vergroening van het fiscale stelsel en in samenhang daarmee het prijsindexcijfer van de [Wet op de studiefinanciering](../../../../../../../../wet/wet/op/de/studiefinanciering/BWBR0003955/README.md) te wijzigen, om maatregelen te nemen in het kader van auto en vervoer, met name ter bevordering van milieuvriendelijke vervoersmodaliteiten, en voorts om enige andere belastingmaatregelen te treffen waaronder aanpassingen van de Wet op de inkomstenbelasting 1964 in verband met het voorkomen van ongewenste renteaftrek vooruitlopend op de herziening van het belastingstelsel in het kader van de 21e eeuw;
+Alzo Wij in overweging genomen hebben, dat het in het kader van het belastingplan 1999 wenselijk is maatregelen te treffen in het kader van het inkomensbeleid, een bijdrage te leveren aan een verdere vergroening van het fiscale stelsel en in samenhang daarmee het prijsindexcijfer van de Wet op de studiefinanciering te wijzigen, om maatregelen te nemen in het kader van auto en vervoer, met name ter bevordering van milieuvriendelijke vervoersmodaliteiten, en voorts om enige andere belastingmaatregelen te treffen waaronder aanpassingen van de Wet op de inkomstenbelasting 1964 in verband met het voorkomen van ongewenste renteaftrek vooruitlopend op de herziening van het belastingstelsel in het kader van de 21e eeuw;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -63,7 +63,7 @@ Wijzigt de Wet van 31 oktober 1996, houdende goedkeuring van de Uitvoeringsregel
 
 ### Artikel  XIV  
 
-Tot 1 januari 2001Bij Stb. 2000/601 is de vrijstelling verlengd tot 1 januari 2003. worden, onder bij ministeriële regeling vast te stellen hoeveelheidsbeperkingen, de in [artikel 66a, eerste lid, onderdeel a, van de Wet op de accijns](../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en [artikel 30, eerste lid, onderdeel a, van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere producten](../../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), bedoelde vrijstellingen eveneens verleend ter zake van de uitslag en de invoer van de in die artikelen bedoelde goederen die worden gebruikt aan boord van schepen in het verkeer naar een andere lid-staat over de binnenwateren. De in de eerste volzin bedoelde hoeveelheidsbeperkingen worden vastgesteld met inachtneming van de gebruikelijke reisduur naar de plaats van bestemming in de andere lid-staat. Bij algemene maatregel van bestuur kan deze vrijstelling worden verlengd indien de behandeling in België en de Bondsrepubliek Duitsland van de onderhavige goederen ter zake van het gebruik aan boord van schepen in de binnenvaart, daartoe aanleiding geeft.  
+Tot 1 januari 2001Bij Stb. 2000/601 is de vrijstelling verlengd tot 1 januari 2003. worden, onder bij ministeriële regeling vast te stellen hoeveelheidsbeperkingen, de in artikel 66a, eerste lid, onderdeel a, van de Wet op de accijns en artikel 30, eerste lid, onderdeel a, van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere producten, bedoelde vrijstellingen eveneens verleend ter zake van de uitslag en de invoer van de in die artikelen bedoelde goederen die worden gebruikt aan boord van schepen in het verkeer naar een andere lid-staat over de binnenwateren. De in de eerste volzin bedoelde hoeveelheidsbeperkingen worden vastgesteld met inachtneming van de gebruikelijke reisduur naar de plaats van bestemming in de andere lid-staat. Bij algemene maatregel van bestuur kan deze vrijstelling worden verlengd indien de behandeling in België en de Bondsrepubliek Duitsland van de onderhavige goederen ter zake van het gebruik aan boord van schepen in de binnenvaart, daartoe aanleiding geeft.  
 
 ### Artikel  XV  
 
@@ -90,9 +90,9 @@ e. artikel IX in werking treedt met ingang van 1 mei 1999;
 
 f. artikel X, onderdeel A, terugwerkt tot en met 1 januari 1998;   
 
-g. artikel X, onderdeel C, eerste en derde lid, toepassing vindt nadat het ingevolge onderdeel G van dat artikel ingevoegde [artikel 37a van de Wet belastingen op milieugrondslag](../../../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) bij het begin van het kalenderjaar 1999 is toegepast;   
+g. artikel X, onderdeel C, eerste en derde lid, toepassing vindt nadat het ingevolge onderdeel G van dat artikel ingevoegde artikel 37a van de Wet belastingen op milieugrondslag bij het begin van het kalenderjaar 1999 is toegepast;   
 
-h. artikel X, onderdeel F, in werking treedt indien [artikel VI, onderdeel I, van de Wet van 18 december 1997, houdende wijziging van enkele belastingwetten c.a. 1998 (fiscale milieuversterking)](../../../../../../../../wet/wijzigingswet/enkele/belastingwetten/c.a./1998/(fiscale/milieuversterking)/BWBR0009219/README.md), Stb. 732, in werking is getreden; en   
+h. artikel X, onderdeel F, in werking treedt indien artikel VI, onderdeel I, van de Wet van 18 december 1997, houdende wijziging van enkele belastingwetten c.a. 1998 (fiscale milieuversterking), Stb. 732, in werking is getreden; en   
 
 i. artikel XI in werking treedt op een bij koninklijk besluit te bepalen tijdstip.    
 

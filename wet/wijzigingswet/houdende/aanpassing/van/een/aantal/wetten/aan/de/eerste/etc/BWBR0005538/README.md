@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het met het oog op de invoering van de eerste tranche van de [Algemene wet bestuursrecht](../../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wenselijk is dat de andere wetten daarmee in overeenstemming worden gebracht;
+Alzo Wij in overweging genomen hebben, dat het met het oog op de invoering van de eerste tranche van de Algemene wet bestuursrecht wenselijk is dat de andere wetten daarmee in overeenstemming worden gebracht;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -950,11 +950,11 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  XIV1  
 
-Bij het verslag dat krachtens [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) binnen drie jaar na haar inwerkingtreding moet worden uitgebracht over de wijze waarop zij is toegepast, wordt tevens de vraag betrokken of [artikel 25, vierde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) kan vervallen. Gelijktijdig met de aanbieding van het verslag wordt alsdan bij de Staten-Generaal een voorstel van wet ingediend, dat daarin voorziet. 
+Bij het verslag dat krachtens artikel 9:1 van de Algemene wet bestuursrecht binnen drie jaar na haar inwerkingtreding moet worden uitgebracht over de wijze waarop zij is toegepast, wordt tevens de vraag betrokken of artikel 25, vierde lid, van de Algemene wet inzake rijksbelastingen kan vervallen. Gelijktijdig met de aanbieding van het verslag wordt alsdan bij de Staten-Generaal een voorstel van wet ingediend, dat daarin voorziet. 
 
 ### Artikel  XIV3  
 
-[Artikel 6:14, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is tot 1 januari 1996 niet van toepassing ten aanzien van bezwaarschriften waarop de [Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (*Stb.* 1959, 301) of de Wet inzake de douane van toepassing is. 
+Artikel 6:14, eerste lid, van de Algemene wet bestuursrecht, is tot 1 januari 1996 niet van toepassing ten aanzien van bezwaarschriften waarop de Algemene wet inzake rijksbelastingen (*Stb.* 1959, 301) of de Wet inzake de douane van toepassing is. 
 
 ### Artikel  XIV3A  
 
@@ -967,7 +967,7 @@ Bevat wijzigingen in andere regelgeving.
 ###Artikel XIV4 
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen van de wet verschillend kan worden gesteld.
-2.  Voor de bekendmaking van deze wet brengt Onze Minister van Justitie de daarin voorkomende aanhalingen van artikelen, afdelingen, titels en hoofdstukken van de [Algemene wet bestuursrecht](../../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in overeenstemming met de krachtens [artikel 9:5 van die wet](../../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vastgestelde nummering.
+2.  Voor de bekendmaking van deze wet brengt Onze Minister van Justitie de daarin voorkomende aanhalingen van artikelen, afdelingen, titels en hoofdstukken van de Algemene wet bestuursrecht in overeenstemming met de krachtens artikel 9:5 van die wet vastgestelde nummering.
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

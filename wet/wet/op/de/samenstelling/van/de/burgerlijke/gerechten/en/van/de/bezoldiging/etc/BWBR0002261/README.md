@@ -22,7 +22,7 @@ Wet op de samenstelling van de burgerlijke gerechten   Zie voor de tekst de bove
 3.   De griffier van een kantongerecht, die op grond van artikel 7 van de wet van 18 december 1947 (*Stb.* H 430) de opdracht heeft ontvangen de werkzaamheden van griffier van een of meer nabijgelegen kantons waar te nemen, wordt geacht tot het verrichten van die werkzaamheden een opdracht als bedoeld in artikel 7 van de Wet op de samenstelling der burgerlijke gerechten te hebben ontvangen.   
 4.   In afwijking van het bepaalde in artikel 3 der Wet op de bezoldiging van de rechterlijke ambtenaren wordt het salaris van de in het eerste lid bedoelde kinderrechters en van de in het tweede lid bedoelde kantonrechters van een tot de eerste klasse behorend kantongerecht, te rekenen vanaf 1 januari 1957, tot en met de laatste dag van de maand, waarin hij de in dit artikel bedoelde werkzaamheden beëindigt, vermeerderd met een bedrag van f 138,50 per maand.   
 5.   In afwijking van het bepaalde in artikel 3 der Wet op de bezoldiging van de rechterlijke ambtenaren wordt het salaris van de in het derde lid bedoelde griffiers, te rekenen vanaf 1 januari 1957 tot en met de laatste dag van de maand, waarin hij de in dit artikel bedoelde werkzaamheden beëindigt, vermeerderd met een bedrag van f 76,85.   
-6.   In afwijking van het bepaalde in artikel 4 der Wet op de bezoldiging van de rechterlijke ambtenaren wordt het salaris van de griffier, die op grond van [artikel 37 der Wet op de rechterlijke organisatie](../../../../../../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) en het beleid der justitie reeds thans bij meer dan één kantongerecht werkzaam is, te rekenen vanaf 1 januari 1957, vermeerderd met een bedrag van f 42,40.  
+6.   In afwijking van het bepaalde in artikel 4 der Wet op de bezoldiging van de rechterlijke ambtenaren wordt het salaris van de griffier, die op grond van artikel 37 der Wet op de rechterlijke organisatie en het beleid der justitie reeds thans bij meer dan één kantongerecht werkzaam is, te rekenen vanaf 1 januari 1957, vermeerderd met een bedrag van f 42,40.  
 
 ### Artikel  IV  
 
@@ -80,7 +80,7 @@ Wachtgelden, genoten krachtens artikel 2 van de wet van 17 november 1933 (*Stb.*
 
 ### Artikel  X  
 
-De tegemoetkomingen en vergoedingen, na de totstandkoming van de wet van 24 mei 1956, *Stb.* 349 krachtens [Verplaatsingskostenbesluit](../../../../../../../../../../../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) (*Stb.* G 371) uitgekeerd en berekend op de grondslag van de bezoldiging genoten volgens genoemde wet, blijven ongewijzigd. 
+De tegemoetkomingen en vergoedingen, na de totstandkoming van de wet van 24 mei 1956, *Stb.* 349 krachtens Verplaatsingskostenbesluit (*Stb.* G 371) uitgekeerd en berekend op de grondslag van de bezoldiging genoten volgens genoemde wet, blijven ongewijzigd. 
 
 ### Artikel  XI  
 

@@ -6,16 +6,16 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Financiën, Centrale Directie Wetgeving, Juridische en Bestuurlijke Zaken, van 25 mei 1994, nr. WJB 97/754;
 
-Overwegende dat het wenselijk is dat De Nederlandsche Bank N.V., in het algemeen belang, de werkzaamheden verricht, welke voor haar als toezichthouder zijn verbonden aan het [Besluit particuliere participatiemaatschappijen](../../../../../../../../../AMvB/besluit/particuliere/participatiemaatschappijen/BWBR0006526/README.md);
+Overwegende dat het wenselijk is dat De Nederlandsche Bank N.V., in het algemeen belang, de werkzaamheden verricht, welke voor haar als toezichthouder zijn verbonden aan het Besluit particuliere participatiemaatschappijen;
 
-Gelet op [artikel 9 van de Bankwet 1998](../../../../../../../../../wet/bankwet/1998/BWBR0009508/README.md);
+Gelet op artikel 9 van de Bankwet 1998;
 
 Gezien het advies van de Bankraad;
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
 
-Wij verlenen Onze goedkeuring aan het verrichten door De Nederlandsche Bank N.V. van de werkzaamheden, welke voor haar als toezichthouder zijn verbonden aan de uitvoering van het [Besluit particuliere participatiemaatschappijen](../../../../../../../../../AMvB/besluit/particuliere/participatiemaatschappijen/BWBR0006526/README.md). 
+Wij verlenen Onze goedkeuring aan het verrichten door De Nederlandsche Bank N.V. van de werkzaamheden, welke voor haar als toezichthouder zijn verbonden aan de uitvoering van het Besluit particuliere participatiemaatschappijen. 
 
 ### Artikel  2  
 

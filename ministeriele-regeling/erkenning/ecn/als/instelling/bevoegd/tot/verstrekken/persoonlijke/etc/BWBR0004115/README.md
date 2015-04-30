@@ -3,7 +3,7 @@
 ##Erkenning ECN als instelling bevoegd tot verstrekken persoonlijke controlemiddelen
 
 De minister van Sociale Zaken en Werkgelegenheid,  
-Gelezen het verzoek van de Stichting Energieonderzoek Centrum Nederland te Petten van 29 augustus 1986, ref. ASB/lw, om krachtens de [Kernenergiewet](../../../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) erkend te worden als instelling bevoegd tot het verstrekken van persoonlijke controlemiddelen (thermoluminescentie-dosismeters);
+Gelezen het verzoek van de Stichting Energieonderzoek Centrum Nederland te Petten van 29 augustus 1986, ref. ASB/lw, om krachtens de Kernenergiewet erkend te worden als instelling bevoegd tot het verstrekken van persoonlijke controlemiddelen (thermoluminescentie-dosismeters);
 
 Overwegende, dat het thermoluminescentiedosimetrie-systeem als beschreven in de bij het verzoek overgelegde bijlage voldoet aan de daaraan te stellen eisen;
 

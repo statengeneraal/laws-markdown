@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is ter versterking van de positie van het midden- en kleinbedrijf het gedifferentieerde tarief in de [Wet op de vennootschapsbelasting 1969](../../../../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) aan te passen alsmede de zelfstandigenaftrek in de Wet op de inkomstenbelasting 1964 te verhogen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is ter versterking van de positie van het midden- en kleinbedrijf het gedifferentieerde tarief in de Wet op de vennootschapsbelasting 1969 aan te passen alsmede de zelfstandigenaftrek in de Wet op de inkomstenbelasting 1964 te verhogen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -19,11 +19,11 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  III  
 
-De vennootschapsbelasting over een boekjaar dat voor 1 juli 1994 begint en op of na die datum eindigt wordt, in afwijking in zoverre van [ *artikel 22* van de Wet op de vennootschapsbelasting 1969](../../../../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), berekend volgens de volgende formule: belasting = (X/B * To * G) + (Y/B * Tn * G), waarin X voorstelt: het aantal voor 1 juli 1994 vallende dagen van het boekjaar; Y voorstelt: het aantal na 30 juni 1994 vallende dagen van het boekjaar; B voorstelt: het totale aantal dagen van het boekjaar; To voorstelt: het tarief van de vennootschapsbelasting zoals dat tarief luidt voor de inwerkingtreding van deze wet; Tn voorstelt: het tarief van de vennootschapsbelasting zoals dat tarief luidt na de inwerkingtreding van deze wet; G voorstelt: het belastbare bedrag of het belastbare binnenlandse bedrag. 
+De vennootschapsbelasting over een boekjaar dat voor 1 juli 1994 begint en op of na die datum eindigt wordt, in afwijking in zoverre van  *artikel 22* van de Wet op de vennootschapsbelasting 1969, berekend volgens de volgende formule: belasting = (X/B * To * G) + (Y/B * Tn * G), waarin X voorstelt: het aantal voor 1 juli 1994 vallende dagen van het boekjaar; Y voorstelt: het aantal na 30 juni 1994 vallende dagen van het boekjaar; B voorstelt: het totale aantal dagen van het boekjaar; To voorstelt: het tarief van de vennootschapsbelasting zoals dat tarief luidt voor de inwerkingtreding van deze wet; Tn voorstelt: het tarief van de vennootschapsbelasting zoals dat tarief luidt na de inwerkingtreding van deze wet; G voorstelt: het belastbare bedrag of het belastbare binnenlandse bedrag. 
 
 ### Artikel  IV  
 
-Voor het kalenderjaar 1994 geldt in afwijking van het in  *artikel 44m*, tweede lid, van de Wet op de inkomstenbelasting 1964 opgenomen voorschrift, het navolgende voorschrift.  
+Voor het kalenderjaar 1994 geldt in afwijking van het in *artikel 44m*, tweede lid, van de Wet op de inkomstenbelasting 1964 opgenomen voorschrift, het navolgende voorschrift.  
 2.  Bij een winst   
 
 | --- | --- | --- |

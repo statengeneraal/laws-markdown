@@ -19,20 +19,20 @@ In dit besluit wordt verstaan onder "gewezen militair": de ontslagen militair, d
 
 ### Artikel  2  
 
-De gewezen militair, aan wie als zodanig een pensioen is toegekend ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](../../../../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) vastgestelde bepalingen, heeft gedurende de tijd, dat hij metterwoon is gevestigd in Suriname, de Nederlandse Antillen of Aruba, recht op een toeslag op dat pensioen. 
+De gewezen militair, aan wie als zodanig een pensioen is toegekend ingevolge de bij of krachtens de Kaderwet militaire pensioenen vastgestelde bepalingen, heeft gedurende de tijd, dat hij metterwoon is gevestigd in Suriname, de Nederlandse Antillen of Aruba, recht op een toeslag op dat pensioen. 
 
 ### Artikel  3  
 
 1.  Het bedrag van de toeslag, bedoeld in artikel 2, is voor een gewezen militair, aan wie ontslag is verleend met ingang van een dag, liggende na 31 december 1965, gelijk aan het bedrag, waarmede  
 
-a. het bedrag dat het pensioen, met inbegrip van de aanvullingen en verhogingen doch zonder toepassing van de [Aanpassingsregeling pensioenen](../../../../../../../../../../AMvB/aanpassingsregeling/pensioenen/1995/BWBR0007576/README.md) zou hebben belopen, indien de op het tijdstip van ingang van het ontslag voor hem geldende pensioengrondslag voor elk voor pensioen geldig vol dienstjaar - zonder dubbeltelling - waarnaar het pensioen is berekend, zou zijn verhoogd met 2,5 percent van de toelage, waarop hij over het jaar voorafgaande aan zijn ontslag ter zake van verblijf in Suriname of de Nederlandse Antillen aanspraak had of zou hebben gehad indien hij aldaar in eigen huisvesting en eigen voeding zou hebben voorzien, met uitzondering van dat deel van de toelage dat betrekking heeft op het tot geldelijke last hebben van een of meer kinderen,  
+a. het bedrag dat het pensioen, met inbegrip van de aanvullingen en verhogingen doch zonder toepassing van de Aanpassingsregeling pensioenen zou hebben belopen, indien de op het tijdstip van ingang van het ontslag voor hem geldende pensioengrondslag voor elk voor pensioen geldig vol dienstjaar - zonder dubbeltelling - waarnaar het pensioen is berekend, zou zijn verhoogd met 2,5 percent van de toelage, waarop hij over het jaar voorafgaande aan zijn ontslag ter zake van verblijf in Suriname of de Nederlandse Antillen aanspraak had of zou hebben gehad indien hij aldaar in eigen huisvesting en eigen voeding zou hebben voorzien, met uitzondering van dat deel van de toelage dat betrekking heeft op het tot geldelijke last hebben van een of meer kinderen,  
 
-b. het bedrag van het pensioen, met inbegrip van de aanvullingen en verhogingen en na toepassing van de [Aanpassingsregeling pensioenen](../../../../../../../../../../AMvB/aanpassingsregeling/pensioenen/1995/BWBR0007576/README.md),    overschrijdt.   
+b. het bedrag van het pensioen, met inbegrip van de aanvullingen en verhogingen en na toepassing van de Aanpassingsregeling pensioenen,    overschrijdt.   
 2.   Het bedrag van de toeslag, bedoeld in artikel 2, is voor een gewezen militair, aan wie ontslag is verleend met ingang van een dag, liggende voor 1 januari 1966, gelijk aan het bedrag, waarmede  
 
-a. het bedrag dat het pensioen, met inbegrip van de aanvullingen en verhogingen, zou hebben belopen, indien het zou zijn berekend naar de krachtens de [Aanpassingsregeling pensioenen](../../../../../../../../../../AMvB/aanpassingsregeling/pensioenen/1995/BWBR0007576/README.md) op 1 januari 1966 aangepaste pensioengrondslag voor elk voor pensioen geldig vol dienstjaar - zonder dubbeltelling - waarnaar het pensioen is berekend verhoogd met 2,5 percent van de tot een jaarbedrag herleide toelage, waarop hij op 1 januari 1966 ter zake van verblijf in Suriname of de Nederlandse Antillen aanspraak zou hebben gehad, indien hij op die datum in dezelfde rang of stand en klasse en met dezelfde diensttijd als op het tijdstip van zijn ontslag nog in militaire dienst zou zijn geweest met de bestemming om doorlopend dienst te doen uitsluitend in het desbetreffende gebied en aldaar in eigen huisvesting en eigen voeding zou hebben voorzien, met uitzondering van dat deel van de toelage dat betrekking heeft op het tot geldelijke last hebben van een of meer kinderen,  
+a. het bedrag dat het pensioen, met inbegrip van de aanvullingen en verhogingen, zou hebben belopen, indien het zou zijn berekend naar de krachtens de Aanpassingsregeling pensioenen op 1 januari 1966 aangepaste pensioengrondslag voor elk voor pensioen geldig vol dienstjaar - zonder dubbeltelling - waarnaar het pensioen is berekend verhoogd met 2,5 percent van de tot een jaarbedrag herleide toelage, waarop hij op 1 januari 1966 ter zake van verblijf in Suriname of de Nederlandse Antillen aanspraak zou hebben gehad, indien hij op die datum in dezelfde rang of stand en klasse en met dezelfde diensttijd als op het tijdstip van zijn ontslag nog in militaire dienst zou zijn geweest met de bestemming om doorlopend dienst te doen uitsluitend in het desbetreffende gebied en aldaar in eigen huisvesting en eigen voeding zou hebben voorzien, met uitzondering van dat deel van de toelage dat betrekking heeft op het tot geldelijke last hebben van een of meer kinderen,  
 
-b. het bedrag van het pensioen, met inbegrip van de aanvullingen en verhogingen en na toepassing van de [Aanpassingsregeling pensioenen](../../../../../../../../../../AMvB/aanpassingsregeling/pensioenen/1995/BWBR0007576/README.md),    overschrijdt.  
+b. het bedrag van het pensioen, met inbegrip van de aanvullingen en verhogingen en na toepassing van de Aanpassingsregeling pensioenen,    overschrijdt.  
 
 ### Artikel  3a  
 
@@ -58,7 +58,7 @@ De gewezen militair en de weduwen en wezen, bedoeld in artikel 4, aan wie over t
 
 ### Artikel  7  
 
-Behoudens met betrekking tot de aanpassing aan algemene bezoldigingswijzigingen zijn de bij of krachtens de [Kaderwet militaire pensioenen](../../../../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) vastgestelde bepalingen inzake pensioen waarop de toeslag is toegekend, van toepassing op die toeslag als vormden het pensioen en de toeslag een eenheid. 
+Behoudens met betrekking tot de aanpassing aan algemene bezoldigingswijzigingen zijn de bij of krachtens de Kaderwet militaire pensioenen vastgestelde bepalingen inzake pensioen waarop de toeslag is toegekend, van toepassing op die toeslag als vormden het pensioen en de toeslag een eenheid. 
 
 ### Artikel  8  
 

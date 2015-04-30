@@ -19,12 +19,12 @@ Wijzigt de Wet op de economische delicten.
 
 ### Artikel  III  
 
-1.  Tot twee jaar na de datum van inwerkingtreding van deze wet, behoudens verlenging bij koninklijk besluit op grond van artikel XIII, worden vergunningen krachtens de [Wet personenvervoer 2000](../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) slechts verleend voor het verrichten van taxivervoer binnen en vanuit een van de gebieden, zoals die op de datum voor inwerkingtreding van deze wet golden op grond van artikel 57, tweede lid, van de Wet personenvervoer, zoals dat op deze datum luidde.   
+1.  Tot twee jaar na de datum van inwerkingtreding van deze wet, behoudens verlenging bij koninklijk besluit op grond van artikel XIII, worden vergunningen krachtens de Wet personenvervoer 2000 slechts verleend voor het verrichten van taxivervoer binnen en vanuit een van de gebieden, zoals die op de datum voor inwerkingtreding van deze wet golden op grond van artikel 57, tweede lid, van de Wet personenvervoer, zoals dat op deze datum luidde.   
 2.  In afwijking van het eerste lid kan een vergunning worden verleend voor een gebied bestaande uit twee of meer van de gebieden bedoeld in het eerste lid.  
 
 ### Artikel  IV  
 
-1.  Onze Minister kan tot twee jaar na de datum van inwerkingtreding van deze wet, behoudens verlenging bij koninklijk besluit op grond van artikel XIII, een vergunning voor het verrichten van taxivervoer als bedoeld in de [Wet personenvervoer 2000](../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) weigeren op grond van de vraag naar taxivervoer binnen het gebied waarvoor de vergunning wordt aangevraagd.   
+1.  Onze Minister kan tot twee jaar na de datum van inwerkingtreding van deze wet, behoudens verlenging bij koninklijk besluit op grond van artikel XIII, een vergunning voor het verrichten van taxivervoer als bedoeld in de Wet personenvervoer 2000 weigeren op grond van de vraag naar taxivervoer binnen het gebied waarvoor de vergunning wordt aangevraagd.   
 2.  Bij ministeriële regeling kunnen regels worden vastgesteld over de te hanteren normen bij de toetsing van de vraag naar taxivervoer ter uitoefening van de bevoegdheid, bedoeld in het eerste lid.  
 
 ### Artikel  V  
@@ -41,11 +41,11 @@ Een vergunning voor het verrichten van taxivervoer, die voor de datum van inwerk
 
 ### Artikel  VIII  
 
-Een aanvraag voor een vergunning voor het verrichten van taxivervoer, die voor de datum van inwerkingtreding van deze wet is ingediend op grond van de artikelen 57, respectievelijk 63 of 63a van de Wet personenvervoer, zoals deze luidden voor die datum, bij gedeputeerde staten, respectievelijk een openbaar lichaam of een dagelijks bestuur van een regionaal openbaar lichaam als bedoeld in de [Kaderwet bestuur in verandering](../../../../../../../../../../wet/kaderwet/bestuur/in/verandering/BWBR0006620/README.md), en waarop nog geen beslissing is genomen, geldt met ingang van die datum als een aanvraag ingediend bij Onze Minister. 
+Een aanvraag voor een vergunning voor het verrichten van taxivervoer, die voor de datum van inwerkingtreding van deze wet is ingediend op grond van de artikelen 57, respectievelijk 63 of 63a van de Wet personenvervoer, zoals deze luidden voor die datum, bij gedeputeerde staten, respectievelijk een openbaar lichaam of een dagelijks bestuur van een regionaal openbaar lichaam als bedoeld in de Kaderwet bestuur in verandering, en waarop nog geen beslissing is genomen, geldt met ingang van die datum als een aanvraag ingediend bij Onze Minister. 
 
 ### Artikel  IX  
 
-1.  Een bezwaarschrift tegen een beslissing omtrent een vergunning voor het verrichten van taxivervoer, dat voor de datum van inwerkingtreding van deze wet is ingediend bij gedeputeerde staten, een openbaar lichaam of een dagelijks bestuur van een regionaal openbaar lichaam als bedoeld in de [Kaderwet bestuur in verandering](../../../../../../../../../../wet/kaderwet/bestuur/in/verandering/BWBR0006620/README.md), en waarop nog geen beslissing is genomen, wordt afgehandeld door het betrokken orgaan, volgens de regels die golden tot de datum van inwerkingtreding van deze wet.   
+1.  Een bezwaarschrift tegen een beslissing omtrent een vergunning voor het verrichten van taxivervoer, dat voor de datum van inwerkingtreding van deze wet is ingediend bij gedeputeerde staten, een openbaar lichaam of een dagelijks bestuur van een regionaal openbaar lichaam als bedoeld in de Kaderwet bestuur in verandering, en waarop nog geen beslissing is genomen, wordt afgehandeld door het betrokken orgaan, volgens de regels die golden tot de datum van inwerkingtreding van deze wet.   
 2.  Een beroepschrift tegen een beslissing omtrent een vergunning voor het verrichten van taxivervoer, dat voor de datum van inwerkingtreding van deze wet is ingediend en waarop nog geen beslissing is genomen, wordt afgehandeld volgens de regels die golden tot de datum van inwerkingtreding van deze wet.  
 
 ### Artikel  X  

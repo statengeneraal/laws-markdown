@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Defensie, van 25 juli 1986, Afdeling Arbeidsvoorwaarden Militair Personeel, nr. D 86/096/22673;
 
-Gelet op [artikel 12 van de Militaire Ambtenarenwet 1931](../../../../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) (*Stb.* 519), artikel 2 van de Wet rechtstoestand dienstplichtigen (*Stb.* 1971, 231) en artikel III, onderdeel B van de Wet afschaffing overneming premie A.O.W./A.W.W. (*Stb.* 1985, 288);
+Gelet op artikel 12 van de Militaire Ambtenarenwet 1931 (*Stb.* 519), artikel 2 van de Wet rechtstoestand dienstplichtigen (*Stb.* 1971, 231) en artikel III, onderdeel B van de Wet afschaffing overneming premie A.O.W./A.W.W. (*Stb.* 1985, 288);
 
 De Raad van State gehoord (advies van 21 augustus 1986, nr. W 07.86.0388);
 
@@ -27,7 +27,7 @@ In afwijking van artikel 4, eerste lid, van het Besluit vakantie-uitkering milit
 ### Artikel  II  
 
 1.  Voor de militair wiens bezoldiging op 31 mei 1985 wordt verhoogd op grond van artikel 3, vijfde lid, van het Besluit herziening bezoldiging militairen zeemacht 1954 (*Stb.* 50) onderscheidenlijk die aanspraak heeft op een garantietoelage op grond van artikel 37, tweede lid, van de Regeling inkomsten militairen land- en luchtmacht 1969 (*Stb.* 1968, 523) wordt het in genoemde artikelen bedoelde maandbedrag van het wettelijke minimumloon fictief verhoogd met 10%.   
-2.   Voor de toepassing van het gestelde in het vorige lid worden artikel 3, vijfde lid, van het Besluit herziening bezoldiging militairen zeemacht 1954 (*Stb.* 50) onderscheidenlijk artikel 37 van de Regeling inkomsten militairen land- en luchtmacht 1969 (*Stb.* 1968, 523) geacht te luiden zoals zij luidden op genoemde datum, zulks onverminderd het bepaalde in artikel II van het Besluit van 23 augustus 1984 (*Stb.* 413), houdende vaststelling van een tweetal overgangsregelingen, ingaande 1 oktober 1984, in verband met de wijziging van de bezoldigingsvoorschriften voor militairen naar aanleiding van de structurele herziening van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren](../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) 1948 (*Stb.* 1949, J 261) per 1 januari 1984.  
+2.   Voor de toepassing van het gestelde in het vorige lid worden artikel 3, vijfde lid, van het Besluit herziening bezoldiging militairen zeemacht 1954 (*Stb.* 50) onderscheidenlijk artikel 37 van de Regeling inkomsten militairen land- en luchtmacht 1969 (*Stb.* 1968, 523) geacht te luiden zoals zij luidden op genoemde datum, zulks onverminderd het bepaalde in artikel II van het Besluit van 23 augustus 1984 (*Stb.* 413), houdende vaststelling van een tweetal overgangsregelingen, ingaande 1 oktober 1984, in verband met de wijziging van de bezoldigingsvoorschriften voor militairen naar aanleiding van de structurele herziening van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1948 (*Stb.* 1949, J 261) per 1 januari 1984.  
 
 ### Artikel  III  
 

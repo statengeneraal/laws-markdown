@@ -37,9 +37,9 @@ Materieel uitgewerkt per 21-03-2012
 Materieel uitgewerkt per 21-03-2012 
 
 1.  De opheffing van het bedrijfschap tast de rechtskracht van de door dat lichaam wettig opgelegde heffingsaanslagen niet aan.   
-2.  Bij de inning van nog niet betaalde heffingsaanslagen van het bedrijfschap oefent de voorzitter van het hoofdbedrijfschap zo nodig de in [artikel 127 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) aan de voorzitter van het bedrijfschap toegekende bevoegdheden uit.   
+2.  Bij de inning van nog niet betaalde heffingsaanslagen van het bedrijfschap oefent de voorzitter van het hoofdbedrijfschap zo nodig de in artikel 127 van de Wet op de bedrijfsorganisatie aan de voorzitter van het bedrijfschap toegekende bevoegdheden uit.   
 3.  Het hoofdbedrijfschap kan, voor zover dit voor de voldoening van de schulden van het bedrijfschap noodzakelijk is, bij verordening aan de ondernemers in het betrokken deel van het bedrijfsleven een heffing opleggen volgens de bij de laatstelijk opgelegde algemene heffing van het bedrijfschap gehanteerde maatstaven.   
-4.  Ten aanzien van een heffingsverordening als in het vorige lid bedoeld en de krachtens die verordening opgelegde aanslagen zijn de [artikelen 126](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [127 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) van overeenkomstige toepassing.  
+4.  Ten aanzien van een heffingsverordening als in het vorige lid bedoeld en de krachtens die verordening opgelegde aanslagen zijn de artikelen 126 en 127 van de Wet op de bedrijfsorganisatie van overeenkomstige toepassing.  
 
 ### Artikel  6  
 Materieel uitgewerkt per 21-03-2012 
@@ -76,13 +76,13 @@ Aan hetgeen na afwikkeling van de verplichtingen jegens het gewezen personeel va
 ### Artikel  11  
 Materieel uitgewerkt per 21-03-2012 
 
-1.  De opheffing van het bedrijfschap heeft geen gevolg voor de ontvankelijkheid van bezwaren als bedoeld in de [Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of beroepen ingevolge de [Wet bestuursrechtspraak bedrijfsorganisatie](../../../../../../../../../../../wet/wet/bestuursrechtspraak/bedrijfsorganisatie/BWBR0002144/README.md). In plaats van het bedrijfschap treedt het hoofdbedrijfschap als partij op.   
+1.  De opheffing van het bedrijfschap heeft geen gevolg voor de ontvankelijkheid van bezwaren als bedoeld in de Algemene wet bestuursrecht of beroepen ingevolge de Wet bestuursrechtspraak bedrijfsorganisatie. In plaats van het bedrijfschap treedt het hoofdbedrijfschap als partij op.   
 2.  Uitspraken van het College van Beroep voor het bedrijfsleven, gedaan tegen het bedrijfschap of, op grond van het eerste lid, tegen het hoofdbedrijfschap, worden door het hoofdbedrijfschap uitgevoerd, voor zover nodig ten laste van het vermogen van het opgeheven bedrijfschap.  
 
 ### Artikel  12  
 Materieel uitgewerkt per 21-03-2012 
 
-Het hoofdbedrijfschap draagt zorg, in de zin van de [Archiefwet 1995](../../../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), voor de archiefbescheiden van het bedrijfschap. 
+Het hoofdbedrijfschap draagt zorg, in de zin van de Archiefwet 1995, voor de archiefbescheiden van het bedrijfschap. 
 
 ### Artikel  13  
 Materieel uitgewerkt per 21-03-2012 

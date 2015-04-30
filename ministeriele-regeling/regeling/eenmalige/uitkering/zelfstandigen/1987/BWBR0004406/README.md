@@ -13,7 +13,7 @@ Besluit:
 
 ### Artikel  1  
 
-1.  In deze regeling wordt verstaan onder: a. minister:   minister van Economische Zaken;  b. CIMK:   Stichting Coördinerend Instituut Midden- en Kleinbedrijf;  c. STULM:   Stichting tot Uitvoering van Landbouwmaatregelen;  d. Wet op de inkomstenbelalsting 1964:   Wet op de inkomstenbelasting 1964 (Stb. 519), zoals die geldt voor het belastingjaar 1987;  e. kinderbijslag:   kinderbijslag als bedoeld in de [Algemene Kinderbijslagwet](../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) (Stb. 1980, 1).     
+1.  In deze regeling wordt verstaan onder: a. minister:   minister van Economische Zaken;  b. CIMK:   Stichting Coördinerend Instituut Midden- en Kleinbedrijf;  c. STULM:   Stichting tot Uitvoering van Landbouwmaatregelen;  d. Wet op de inkomstenbelalsting 1964:   Wet op de inkomstenbelasting 1964 (Stb. 519), zoals die geldt voor het belastingjaar 1987;  e. kinderbijslag:   kinderbijslag als bedoeld in de Algemene Kinderbijslagwet (Stb. 1980, 1).     
 2.  In deze regeling wordt verstaan onder: a. gehuwde:   degene, die met een ander een gezamenlijke huishouding voert;  b. echtgenoot:   degene, met wie de gehuwde een gezamenlijke huishouding voert;  c. ongehuwde:   degene, die niet met een ander een gezamenlijke huishouding voert.    
 
 ### Artikel  2  

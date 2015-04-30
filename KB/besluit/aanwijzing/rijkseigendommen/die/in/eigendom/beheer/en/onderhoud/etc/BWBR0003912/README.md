@@ -315,7 +315,7 @@ a. van de Kadoelerweg en de asfaltverharding van de toegangsweg naar de Loswal (
 b. van het recreatieve fietspad op de Zwartemeerdijk, gelegen in de percelen, kadastraal bekend gemeente Noordoostpolder, sectie C, nrs. 1527, 2366 en 488;   
 
 c. van de parkeerplaats in de zuidhoek van het perceel, kadastraal bekend gemeente Noordoostpolder, sectie E, nr. 246 en van de parkeerplaats in de noordwesthoek van het perceel, kadastraal bekend gemeente Noordoostpolder, sectie D, nr. 907    gaat in beheer en onderhoud over op de gemeente met ingang van 1 januari 1991.    
-2.   De bermen, grenzend aan de in het vorige lid genoemde verhardingen, gaan in beheer - in de zin van de [Wegenwet](../../../../../../../../../../../../wet/wegenwet/BWBR0001948/README.md) - op de gemeente over met ingang van 1 januari 1991.    
+2.   De bermen, grenzend aan de in het vorige lid genoemde verhardingen, gaan in beheer - in de zin van de Wegenwet - op de gemeente over met ingang van 1 januari 1991.    
 3.   Het is de gemeente bekend dat op de in de vorige leden bedoelde dijkgedeelten het Rijkszeeweringenreglement van toepassing is.   
 
 ### Artikel  3  

@@ -3,12 +3,12 @@
 ##Betaalbaarstelling uitkeringen ingevolge de sociale verzekeringswetten door andere organen dan de Sociale Verzekeringsbank en bedrijfsverenigingen
 
 De staatssecretaris van Sociale Zaken en Werkgelegenheid, L. de Graaf.  
-Gelet op artikel 19, vijfde lid, van de Algemene Ouderdomswet, artikel 28, vierde lid, van de Algemene Weduwen- en Wezenwet, artikel 41, vijfde lid, van de Algemene Arbeidsongeschiktheidswet, artikel 164, derde lid, van de Invaliditeitswet en [artikel 50, vijfde lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);
+Gelet op artikel 19, vijfde lid, van de Algemene Ouderdomswet, artikel 28, vierde lid, van de Algemene Weduwen- en Wezenwet, artikel 41, vijfde lid, van de Algemene Arbeidsongeschiktheidswet, artikel 164, derde lid, van de Invaliditeitswet en artikel 50, vijfde lid, van de Wet op de arbeidsongeschiktheidsverzekering;
 Besluit:    
 
 ### Artikel  1  
 
-Organen als bedoeld in [artikel 50, zesde lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of [artikel 67, zesde lid, van de Wet werk en inkomen](../../../../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md) naar arbeidsvermogen, die belast wensen te worden met de betaalbaarstelling van door het Uitvoeringsinstituut werknemersverzekeringen toegekende dan wel toe te kennen uitkeringen op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of betaalbaarstelling van uitkeringen waarop op grond van de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) recht bestaat, kunnen daartoe toestemming vragen aan het Uitvoeringsinstituut werknemersverzekeringen.
+Organen als bedoeld in artikel 50, zesde lid, van de Wet op de arbeidsongeschiktheidsverzekering of artikel 67, zesde lid, van de Wet werk en inkomen naar arbeidsvermogen, die belast wensen te worden met de betaalbaarstelling van door het Uitvoeringsinstituut werknemersverzekeringen toegekende dan wel toe te kennen uitkeringen op grond van de Wet op de arbeidsongeschiktheidsverzekering of betaalbaarstelling van uitkeringen waarop op grond van de Wet werk en inkomen naar arbeidsvermogen recht bestaat, kunnen daartoe toestemming vragen aan het Uitvoeringsinstituut werknemersverzekeringen.
 
 ### Artikel  2  
 
@@ -18,7 +18,7 @@ a. publiekrechtelijke lichamen:
 
 b. krachtens de wet in het leven geroepen fondsen; 
 
-c. bedrijfstak- en ondernemingspensioenfondsen als bedoeld in [artikel 1 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md); 
+c. bedrijfstak- en ondernemingspensioenfondsen als bedoeld in artikel 1 van de Pensioenwet; 
 
 d. instellingen, welke de pensioenbetaling verzorgen voor een of meer lichamen of fondsen, bedoeld onder a tot en met c.  
 
@@ -38,7 +38,7 @@ Het bevoegde uitvoeringsorgaan deelt aan de degene, die gerechtigd is tot een of
 
 ### Artikel  6  
 
-Een vergunning als bedoeld in artikel 1 heeft geen betrekking op uitkeringen als bedoeld in de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), die op grond van [artikel 54 van die wet](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) worden uitbetaald en heeft ook geen betrekking op uitkeringen als bedoeld in de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) die met toepassing van [artikel 71 van die wet](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) worden uitbetaald.
+Een vergunning als bedoeld in artikel 1 heeft geen betrekking op uitkeringen als bedoeld in de Wet op de arbeidsongeschiktheidsverzekering, die op grond van artikel 54 van die wet worden uitbetaald en heeft ook geen betrekking op uitkeringen als bedoeld in de Wet werk en inkomen naar arbeidsvermogen die met toepassing van artikel 71 van die wet worden uitbetaald.
 
 ### Artikel  7  
 

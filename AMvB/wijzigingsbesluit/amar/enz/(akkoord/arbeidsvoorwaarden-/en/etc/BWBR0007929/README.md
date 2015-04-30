@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Defensie van 9 januari 1996, nr. PAV2210/96000201;
 
-Gelet op [artikel 125 van de Ambtenarenwet](../../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md), [artikel 12 van de Militaire Ambtenarenwet 1931](../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) en artikel 2 van de Wet Rechtstoestand Dienstplichtigen;
+Gelet op artikel 125 van de Ambtenarenwet, artikel 12 van de Militaire Ambtenarenwet 1931 en artikel 2 van de Wet Rechtstoestand Dienstplichtigen;
 
 De Raad van State gehoord (advies van 13 februari 1996, nr. W07.96.0016);
 
@@ -68,27 +68,27 @@ b. niet langer wordt voldaan aan de in die regeling gestelde voorwaarden.
 ### Artikel  X  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De ambtenaar als bedoeld in [artikel 1 van het Burgerlijk ambtenarenreglement defensie](../../../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), op wie op 30 juni 1996 artikel 4 van dat reglement van toepassing was zoals dat luidde voor inwerkingtreding van dit besluit, maar van wie de levenspartner met wie hij op die datum samenwoont, nog niet door het Algemeen burgerlijk pensioenfonds is ingeschreven in het register inzake partnerpensioenen, behoudt zijn aanspraken uit hoofde van dat artikel, indien het niet inschrijven uitsluitend het gevolg is van de omstandigheid dat de levenspartner naar Nederlands recht nog gehuwd is. Die aanspraken eindigen één jaar na inwerkingtreding van dit besluit, of zoveel eerder als:  
+1.  De ambtenaar als bedoeld in artikel 1 van het Burgerlijk ambtenarenreglement defensie, op wie op 30 juni 1996 artikel 4 van dat reglement van toepassing was zoals dat luidde voor inwerkingtreding van dit besluit, maar van wie de levenspartner met wie hij op die datum samenwoont, nog niet door het Algemeen burgerlijk pensioenfonds is ingeschreven in het register inzake partnerpensioenen, behoudt zijn aanspraken uit hoofde van dat artikel, indien het niet inschrijven uitsluitend het gevolg is van de omstandigheid dat de levenspartner naar Nederlands recht nog gehuwd is. Die aanspraken eindigen één jaar na inwerkingtreding van dit besluit, of zoveel eerder als:  
 
 a. de levenspartner niet langer naar Nederlands recht gehuwd is;  
 
 b. niet langer wordt voldaan aan de in dat artikel gestelde voorwaarden.     
-2.   De ambtenaar als bedoeld in [artikel 1 van het Burgerlijk ambtenarenreglement defensie](../../../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), op wie op 30 juni 1996 artikel 4 van dat reglement van toepassing was zoals dat luidde voor inwerkingtreding van dit besluit, maar van wie de levenspartner met wie hij op die datum samenwoont, nog niet door het Algemeen burgerlijk pensioenfonds is ingeschreven in het register inzake partnerpensioenen, behoudt zijn aanspraken uit hoofde van dat artikel, indien het niet inschrijven uitsluitend het gevolg is van de omstandigheid dat de ambtenaar of zijn levenspartner de leeftijd van achttien jaar nog niet hebben bereikt. Die aanspraken eindigen zodra:  
+2.   De ambtenaar als bedoeld in artikel 1 van het Burgerlijk ambtenarenreglement defensie, op wie op 30 juni 1996 artikel 4 van dat reglement van toepassing was zoals dat luidde voor inwerkingtreding van dit besluit, maar van wie de levenspartner met wie hij op die datum samenwoont, nog niet door het Algemeen burgerlijk pensioenfonds is ingeschreven in het register inzake partnerpensioenen, behoudt zijn aanspraken uit hoofde van dat artikel, indien het niet inschrijven uitsluitend het gevolg is van de omstandigheid dat de ambtenaar of zijn levenspartner de leeftijd van achttien jaar nog niet hebben bereikt. Die aanspraken eindigen zodra:  
 
 a. de ambtenaar en zijn levenspartner de leeftijd van achttien hebben bereikt;  
 
 b. niet langer wordt voldaan aan de in dat artikel gestelde voorwaarden.     
-3.   De ambtenaar als bedoeld in [artikel 1 van het Burgerlijk ambtenarenreglement defensie](../../../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), op wie op 30 juni 1996 artikel 4 van dat reglement van toepassing was zoals dat luidde voor inwerkingtreding van dit besluit, maar van wie de levenspartner met wie hij op die datum samenwoont, nog niet door het Algemeen burgerlijk pensioenfonds is ingeschreven in het register inzake partnerpensioenen, behoudt zijn aanspraken uit hoofde van dat artikel, indien het niet inschrijven uitsluitend het gevolg is van de omstandigheid dat de ambtenaar of zijn levenspartner bloed- of aanverwanten in de rechte lijn zijn. De aanspraken op grond van dat artikel eindigen zodra niet langer wordt voldaan aan de in dat artikel gestelde voorwaarden.  
+3.   De ambtenaar als bedoeld in artikel 1 van het Burgerlijk ambtenarenreglement defensie, op wie op 30 juni 1996 artikel 4 van dat reglement van toepassing was zoals dat luidde voor inwerkingtreding van dit besluit, maar van wie de levenspartner met wie hij op die datum samenwoont, nog niet door het Algemeen burgerlijk pensioenfonds is ingeschreven in het register inzake partnerpensioenen, behoudt zijn aanspraken uit hoofde van dat artikel, indien het niet inschrijven uitsluitend het gevolg is van de omstandigheid dat de ambtenaar of zijn levenspartner bloed- of aanverwanten in de rechte lijn zijn. De aanspraken op grond van dat artikel eindigen zodra niet langer wordt voldaan aan de in dat artikel gestelde voorwaarden.  
 
 ### Artikel  XI  
 Treedt in werking op een nader te bepalen tijdstip 
 
-De [artikelen 71*a* ](../../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) en [80*b* van het Algemeen militair ambtenarenreglement](../../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) zijn niet van toepassing ten aanzien van het op 31 december 1996 nog niet verleend vakantieverlof. 
+De artikelen 71*a*  en 80*b* van het Algemeen militair ambtenarenreglement zijn niet van toepassing ten aanzien van het op 31 december 1996 nog niet verleend vakantieverlof. 
 
 ### Artikel  XII  
 Treedt in werking op een nader te bepalen tijdstip 
 
-De toepassing van [artikel 80 van het Algemeen militair ambtenarenreglement](../../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) vindt ten aanzien van op 31 december 1996 nog niet verleend vakantieverlof eerst plaats met ingang van 31 december 1999. 
+De toepassing van artikel 80 van het Algemeen militair ambtenarenreglement vindt ten aanzien van op 31 december 1996 nog niet verleend vakantieverlof eerst plaats met ingang van 31 december 1999. 
 
 ### Artikel  XIII  
 

@@ -3,14 +3,14 @@
 ##Uitvoering artikel 5, eerste lid, van de Noodwet Geneeskundigen
 
 De Staatssecretaris van Volksgezondheid en Milieuhygiëne,  
-Gelet op [artikel 5, eerste lid, van de Noodwet Geneeskundigen](../../../../../../../../../../../wet/noodwet/geneeskundigen/BWBR0002758/README.md) (Stb. 1971, 396);
+Gelet op artikel 5, eerste lid, van de Noodwet Geneeskundigen (Stb. 1971, 396);
 
 De Raad voor de buitengewone geneeskundige en farmaceutische voorziening gehoord (advies van 9 maart 1978, nr. 17,624/CV);
 Besluit:    
 
 ### Artikel  1  
 
-Als autoriteiten die in de plaats van de Directeur-Generaal van de Volksgezondheid optreden als bevoegd gezag in de zin van de [Noodwet Geneeskundigen](../../../../../../../../../../../wet/noodwet/geneeskundigen/BWBR0002758/README.md), worden aangewezen de regionale geneeskundige inspecteurs van het Staatstoezicht op de Volksgezondheid en de regionale inspecteurs voor de geneesmiddelen van het Staatstoezicht op de Volksgezondheid, leder voor zover is bepaald in de artikelen 2 en 3. 
+Als autoriteiten die in de plaats van de Directeur-Generaal van de Volksgezondheid optreden als bevoegd gezag in de zin van de Noodwet Geneeskundigen, worden aangewezen de regionale geneeskundige inspecteurs van het Staatstoezicht op de Volksgezondheid en de regionale inspecteurs voor de geneesmiddelen van het Staatstoezicht op de Volksgezondheid, leder voor zover is bepaald in de artikelen 2 en 3. 
 
 ### Artikel  2  
 
@@ -36,7 +36,7 @@ De regionale inspecteur bepaalt het tijdstip waarop de verbinding tussen hem en 
 
 ### Artikel  6a  
 
-De in artikel 1 als bevoegd gezag aangewezen regionale inspecteurs oefenen – onverminderd het krachtens [artikel 6 van de Noodwet Geneeskundigen](../../../../../../../../../../../wet/noodwet/geneeskundigen/BWBR0002758/README.md) bepaalde – de hen bij of krachtens de [Noodwet Geneeskundigen](../../../../../../../../../../../wet/noodwet/geneeskundigen/BWBR0002758/README.md) toegekende bevoegdheden uit met inachtneming van de door de Directeur-Generaal van de Volksgezondheid gegeven aanwijzingen.’ 
+De in artikel 1 als bevoegd gezag aangewezen regionale inspecteurs oefenen – onverminderd het krachtens artikel 6 van de Noodwet Geneeskundigen bepaalde – de hen bij of krachtens de Noodwet Geneeskundigen toegekende bevoegdheden uit met inachtneming van de door de Directeur-Generaal van de Volksgezondheid gegeven aanwijzingen.’ 
 
 ### Artikel  7  
 

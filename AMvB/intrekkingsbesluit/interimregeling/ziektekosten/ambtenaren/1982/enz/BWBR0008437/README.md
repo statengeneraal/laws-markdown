@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 4 november 1996, nr. AB96/U1350, directoraat-generaal Management en Personeelsbeleid;
 
-Gelet op [artikel 125 van de Ambtenarenwet](../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md);
+Gelet op artikel 125 van de Ambtenarenwet;
 
 De Raad van State gehoord (advies van 25 november 1996, nr. W04.96.0528);
 
@@ -25,12 +25,12 @@ Het Besluit inkomenstoeslag betrokkenen in de zin van de Interimregeling ziektek
 
 1.  Op de betrokkene, met recht op uitkering op de voet van de bepalingen van de Wet uitkering wegens vrijwillig vervroegd uittreden zoals die luidde vóór 1 januari 1996, die op de dag voorafgaande aan zijn ontslag met recht op uitkering werkzaam was in de volgende sectoren, zijn van overeenkomstige toepassing, respectievelijk: 
 
-– de sector Rijk: het [Besluit tegemoetkoming ziektekosten rijkspersoneel](../../../../../../../../AMvB/besluit/tegemoetkoming/ziektekosten/rijkspersoneel/BWBR0006855/README.md) en het Besluit inkomenstoeslag rijkspersoneel;  
+– de sector Rijk: het Besluit tegemoetkoming ziektekosten rijkspersoneel en het Besluit inkomenstoeslag rijkspersoneel;  
 
-– de sector Defensie: het [Interimbesluit ziektekosten burgerlijke ambtenaren defensie](../../../../../../../../AMvB/interimbesluit/ziektekosten/burgerlijke/ambtenaren/defensie/BWBR0006034/README.md) en de Regeling uitvoering IZBAD;  
+– de sector Defensie: het Interimbesluit ziektekosten burgerlijke ambtenaren defensie en de Regeling uitvoering IZBAD;  
 
 – de sector Onderwijs en Wetenschappen: het Besluit tegemoetkoming ziektekosten en inkomenstoeslag onderwijs- en onderzoekspersoneel.     
-2.  Op de betrokkene, bedoeld in het eerste lid, die op de dag voorafgaande aan zijn ontslag met recht op uitkering niet werkzaam was in de sector Rijk, Defensie of Onderwijs en Wetenschappen, zijn het [Besluit tegemoetkoming ziektekosten rijkspersoneel](../../../../../../../../AMvB/besluit/tegemoetkoming/ziektekosten/rijkspersoneel/BWBR0006855/README.md) en het Besluit inkomenstoeslag rijkspersoneel van overeenkomstige toepassing.  
+2.  Op de betrokkene, bedoeld in het eerste lid, die op de dag voorafgaande aan zijn ontslag met recht op uitkering niet werkzaam was in de sector Rijk, Defensie of Onderwijs en Wetenschappen, zijn het Besluit tegemoetkoming ziektekosten rijkspersoneel en het Besluit inkomenstoeslag rijkspersoneel van overeenkomstige toepassing.  
 
 ### Artikel  4  
 

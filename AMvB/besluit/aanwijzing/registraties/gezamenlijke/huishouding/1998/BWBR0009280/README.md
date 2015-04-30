@@ -19,31 +19,29 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:  
 
-a. WWB: Wet werk en bijstand;   
+a. ANW: Algemene nabestaandenwet;   
 
-b. ANW: Algemene nabestaandenwet;   
+b. AOW: Algemene Ouderdomswet;   
 
-c. AOW: Algemene Ouderdomswet;   
+c. IOAW: Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;   
 
-d. IOAW: Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;   
+d. IOAZ: Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;   
 
-e. IOAZ: Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;   
+e. TW: Toeslagenwet;   
 
-f. TW: Toeslagenwet;   
+f. Wajong: Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;   
 
-g. Wet Wajong: Wet werk en arbeidsondersteuning jonggehandicapten;   
+g. WAO: Wet op de arbeidsongeschiktheidsverzekering;   
 
-h. WAO: Wet op de arbeidsongeschiktheidsverzekering;   
+h. WAZ: Wet arbeidsongeschiktheidsverzekering zelfstandigen;   
 
-i. WAZ: Wet arbeidsongeschiktheidsverzekering zelfstandigen;   
+i.Wet WIA: Wet werk en inkomen naar arbeidsvermogen;
 
-j.Wet WIA: Wet werk en inkomen naar arbeidsvermogen;
+j. Wmo 2015: Wet maatschappelijke ondersteuning 2015;  
 
-k. Wmo: Wet maatschappelijke ondersteuning;  
+k. ZW: Ziektewet; 
 
-l. ZW: Ziektewet; 
-
-m. IOW: Wet inkomensvoorziening oudere werklozen.  
+l. IOW: Wet inkomensvoorziening oudere werklozen.  
 
 ### Artikel  2  
 
@@ -51,7 +49,7 @@ m. IOW: Wet inkomensvoorziening oudere werklozen.
 
 Dit besluit is van toepassing op registraties in de zin van:  
 
-a. artikel 3, vierde lid, onderdeel d, van de WWB;   
+a. artikel 3, vierde lid, onderdeel d, van de Participatiewet;   
 
 b. artikel 3, vierde lid, onderdeel d, van de ANW;   
 
@@ -63,7 +61,7 @@ e. artikel 3, vierde lid, onderdeel d, van de IOAZ;
 
 f. artikel 1, vijfde lid, onderdeel d, van de TW;   
 
-g. artikel 1:1, vijfde lid, onderdeel d, van de Wet Wajong;  
+g. artikel 1:1, vijfde lid, onderdeel d, van de Wajong;  
 
 h. artikel 1, vijfde lid, onderdeel d, van de WAO;   
 
@@ -71,7 +69,7 @@ i. artikel 1, vijfde lid, onderdeel d, van de WAZ;
 
 j.artikel 2, vierde lid, onderdeel d, van de Wet WIA;
 
-k. artikel 1, vijfde lid, onderdeel d, van de Wmo;  
+k. artikel 1.1.2, vierde lid, onderdeel d, van de Wmo 2015;  
 
 l. artikel 1, vijfde lid, onderdeel d, van de ZW; 
 
@@ -85,7 +83,7 @@ m. artikel 2, vierde lid, onderdeel d, van de IOW.
 
 a. duurzame gezamenlijke huishouding op grond van:  
 
-1. de Algemene Wet Bijzondere Ziektekosten;   
+1. de Wet langdurige zorg;   
 
 2. de Wet inkomstenbelasting 2001;   
 
@@ -101,7 +99,7 @@ a. duurzame gezamenlijke huishouding op grond van:
 
 b. gezamenlijke huishouding op grond van:  
 
-1. de WWB;  
+1. de Participatiewet;  
 
 2. de ANW;  
 
@@ -113,7 +111,7 @@ b. gezamenlijke huishouding op grond van:
 
 6. de TW;  
 
-7. de Wet Wajong;  
+7. de Wajong;  
 
 8. de WAO;  
 
@@ -121,7 +119,7 @@ b. gezamenlijke huishouding op grond van:
 
 10.de Wet WIA;
 
-11. de Wmo;  
+11. de Wmo 2015;  
 
 12. de ZW;  
 
@@ -140,9 +138,9 @@ e. duurzame relatie op grond van de Rijkswet op het Nederlanderschap.
 
 ### Artikel  4  
 
-####Bijzondere bepalingen in verband met de WWB, AOW, IOAW, IOAZ, IOW, TW, Wet Wajong, WAO, WAZ, Wet WIA, Wmo en ZW
+####Bijzondere bepalingen in verband met de Participatiewet, AOW, IOAW, IOAZ, IOW, TW, Wajong, WAO, WAZ, Wet WIA, Wmo 2015 en ZW
 
-Voor de toepassing van artikel 3, tweede tot en met vijfde lid, van de WWB, artikel 1, derde tot en met zevende lid, van de AOW, artikel 3, tweede tot en met zesde lid, van de IOAW, artikel 3, tweede tot en met zesde lid, van de IOAZ, artikel 1, derde tot en met zevende lid, van de TW, artikel 1:1, derde tot en met het zevende lid, van de Wet Wajong, artikel 1, derde tot en met zevende lid, van de WAO, artikel 1, derde tot en met zevende lid, van de WAZ, artikel 2, tweede tot en met zesde lid, van de Wet WIA, artikel 1, derde tot en met zevende lid, van de Wmo, artikel 1, derde tot en met zevende lid, van de ZW en artikel 2, tweede tot en met zesde lid, van de IOW wordt een registratie als bedoeld in artikel 3 in aanmerking genomen indien deze: 
+Voor de toepassing van artikel 3, tweede tot en met vijfde lid, van de Participatiewet, artikel 1, derde tot en met zevende lid, van de AOW, artikel 3, tweede tot en met zesde lid, van de IOAW, artikel 3, tweede tot en met zesde lid, van de IOAZ, artikel 1, derde tot en met zevende lid, van de TW, artikel 1:1, derde tot en met het zevende lid, van de Wajong, artikel 1, derde tot en met zevende lid, van de WAO, artikel 1, derde tot en met zevende lid, van de WAZ, artikel 2, tweede tot en met zesde lid, van de Wet WIA, artikel 1, derde tot en met zevende lid, van de Wmo, artikel 1, derde tot en met zevende lid, van de ZW en artikel 2, tweede tot en met zesde lid, van de IOW wordt een registratie als bedoeld in artikel 3 in aanmerking genomen indien deze: 
 
 a. bij de aanvraag van bijstand, uitkering of voorziening bestaat;  
 
@@ -164,7 +162,7 @@ b.plaatsvindt gedurende de verlening van nabestaandenuitkering.
 
 ####Grondslag besluit
 
-Dit besluit berust mede op artikel 3, vijfde lid, van de WWB en artikel 2, zesde lid, van de IOW. 
+Dit besluit berust mede op artikel 3, vijfde lid, van de Participatiewet en artikel 2, zesde lid, van de IOW. 
 
 ###Artikel 6 
 

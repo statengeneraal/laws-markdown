@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is knelpunten in de oudedagsreserve in de Wet op de inkomstenbelasting 1964 weg te nemen, de zelfstandigenaftrek in die wet aan te passen en de vermogensaftrek in de Wet op de inkomstenbelasting 1964 en de [Wet op de vennootschapsbelasting 1969](../../../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) te laten vervallen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is knelpunten in de oudedagsreserve in de Wet op de inkomstenbelasting 1964 weg te nemen, de zelfstandigenaftrek in die wet aan te passen en de vermogensaftrek in de Wet op de inkomstenbelasting 1964 en de Wet op de vennootschapsbelasting 1969 te laten vervallen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### ARTIKEL  I  

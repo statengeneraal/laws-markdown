@@ -25,7 +25,9 @@ e. automatisch weeginstrument: in artikel 4, onderdeel d, van het Meetinstrument
 
 f. taxameter: in artikel 4, onderdeel e, van het Meetinstrumentenbesluit I bedoelde taxameter;  
 
-g. multidimensionaal meetinstrument: in artikel 4, onderdeel f, van het Meetinstrumentenbesluit I bedoeld multidimensionaal meetinstrument.   
+g. multidimensionaal meetinstrument: in artikel 4, onderdeel f, van het Meetinstrumentenbesluit I bedoeld multidimensionaal meetinstrument; 
+
+h.warmtemeter: een in artikel 4, onderdeel g, van het Meetinstrumentenbesluit I bedoelde warmtemeter.  
 
 ### §  2  
 
@@ -94,7 +96,6 @@ d. zij zijn gedurende een periode van ten hoogste een jaar volgens een zelfde pr
 2.  Bijlage F, onderdelen 5.2, 5.3 en 5.4, eerste volzin, van de richtlijn meetinstrumenten is van overeenkomstige toepassing.  
 
 ### Artikel  8a  
-Treedt in werking per 01-01-2015 
 
 1.  Warmtemeters voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage MI-004 van de richtlijn meetinstrumenten met dien verstande dat de maximaal toelaatbare fout in onderdeel 3 telkens met de factor 2 wordt vermenigvuldigd.   
 2.  Voordat een warmtemeter op de bestemde plaats in gebruik wordt genomen, stelt degene die zorg draagt voor de installatie hiervan vast of in de gegeven omstandigheden de warmtemeter geschikt is voor een correcte meting van het te verwachten gebruik.   

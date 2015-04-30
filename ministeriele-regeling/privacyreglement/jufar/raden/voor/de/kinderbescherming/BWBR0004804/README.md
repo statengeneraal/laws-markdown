@@ -19,7 +19,7 @@ In dit reglement wordt verstaan onder:   a. de registratie:   de geautomatiseerd
 
 ####Doelstelling
 
-De registratie heeft ten doel het vastleggen overeenkomstig het bepaalde bij en krachtens de [Comptabiliteitswet](../../../../../../../../wet/comptabiliteitswet/BWBR0003075/README.md) 1976 van handelingen ten behoeve van het beheer van overheidsgelden en voorts van de bestemming en doorbetaling van gelden die ontvangen zijn ten behoeve van minderjarigen en jong meerderjarigen. 
+De registratie heeft ten doel het vastleggen overeenkomstig het bepaalde bij en krachtens de Comptabiliteitswet 1976 van handelingen ten behoeve van het beheer van overheidsgelden en voorts van de bestemming en doorbetaling van gelden die ontvangen zijn ten behoeve van minderjarigen en jong meerderjarigen. 
 
 ### Artikel  3  
 

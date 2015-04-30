@@ -3,7 +3,7 @@
 ##Beleidsregel van de Minister van Verkeer en Waterstaat inzake toepassing van regels van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur op de toetsing van vergunningen personenvervoer (Beleidsregel toetsing vergunningen personenvervoer aan de Wet Bibob) 
 
 De Minister van Verkeer en Waterstaat,
-gelet op de [artikelen 3, eerste en zesde lid van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), en de [artikelen 6, vierde en vijfde lid](../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [99, eerste lid, onder c, en tweede lid van de Wet personenvervoer 2000](../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);
+gelet op de artikelen 3, eerste en zesde lid van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, en de artikelen 6, vierde en vijfde lid en 99, eerste lid, onder c, en tweede lid van de Wet personenvervoer 2000;
 Besluit: 
 ###Hoofdstuk 1 
 
@@ -13,29 +13,29 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-a.*Bureau Bibob*: Bureau, bedoeld in de [artikelen 8](../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) en [9, eerste lid, van de Wet Bibob](../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);
+a.*Bureau Bibob*: Bureau, bedoeld in de artikelen 8 en 9, eerste lid, van de Wet Bibob;
 
 b.*Minister*: Minister van Verkeer en Waterstaat; 
 
-c.*Wet Bibob*: [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);
+c.*Wet Bibob*: Wet bevordering integriteitsbeoordelingen door het openbaar bestuur;
 
 d.*Besluit Bibob*: Besluit bevordering integriteitsbeoordelingen door het openbaar bestuur;
 
-e.*misdrijf*: strafbare feiten als bedoeld in het [Tweede Boek van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en artikel 2, eerste, tweede, derde lid en vijfde lid, van de Wet economische delicten;
+e.*misdrijf*: strafbare feiten als bedoeld in het Tweede Boek van het Wetboek van Strafrecht en artikel 2, eerste, tweede, derde lid en vijfde lid, van de Wet economische delicten;
 
 f.*strafbaar feit*: feit dat aanleiding kan zijn tot strafvervolging en is bedreigd met een strafrechtelijke sanctie;
 
-g.*vergunning*: vergunning voor het verrichten van besloten busvervoer, taxivervoer, openbaar vervoer per trein en openbaar vervoer anders dan per trein als bedoeld in [artikel 4, eerste, tweede en vierde lid, van de Wet personenvervoer 2000](../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md). 
+g.*vergunning*: vergunning voor het verrichten van besloten busvervoer, taxivervoer, openbaar vervoer per trein en openbaar vervoer anders dan per trein als bedoeld in artikel 4, eerste, tweede en vierde lid, van de Wet personenvervoer 2000. 
 
 ###Artikel 1.2 
 
 Deze beleidsregel heeft betrekking op:
 
-a.de strafbare feiten die de Minister relevant acht voor het begrip ernstig gevaar als bedoel in [artikel 3, eerste lid, onder a en b, van de Wet Bibob](../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) en voor een aanwijzing of vermoeden als bedoeld in [artikel 3, zesde lid, van de Wet Bibob](../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);
+a.de strafbare feiten die de Minister relevant acht voor het begrip ernstig gevaar als bedoel in artikel 3, eerste lid, onder a en b, van de Wet Bibob en voor een aanwijzing of vermoeden als bedoeld in artikel 3, zesde lid, van de Wet Bibob;
 
-b.de belangen die in de afweging van een besluit inzake een vergunning kunnen worden meegewogen, anders dan de aanwezigheid van ernstig gevaar als bedoeld in [artikel 3, eerste lid, onder a en b, van de Wet Bibob](../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) of van een aanwijzing of een vermoeden als bedoeld in [artikel 3, zesde lid, van de Wet Bibob](../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);
+b.de belangen die in de afweging van een besluit inzake een vergunning kunnen worden meegewogen, anders dan de aanwezigheid van ernstig gevaar als bedoeld in artikel 3, eerste lid, onder a en b, van de Wet Bibob of van een aanwijzing of een vermoeden als bedoeld in artikel 3, zesde lid, van de Wet Bibob;
 
-c.de feiten en omstandigheden die kunnen leiden tot aanvraag van een advies van Bureau Bibob als bedoeld in de [artikelen 6, vijfde lid](../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [99, tweede lid, van de Wet Personenvervoer 2000](../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md). 
+c.de feiten en omstandigheden die kunnen leiden tot aanvraag van een advies van Bureau Bibob als bedoeld in de artikelen 6, vijfde lid en 99, tweede lid, van de Wet Personenvervoer 2000. 
 
 ###Hoofdstuk 2 
 
@@ -47,7 +47,7 @@ c.de feiten en omstandigheden die kunnen leiden tot aanvraag van een advies van 
 
 ###Artikel 2.1.1 
 
-De Minister kan op grond de [artikelen 6, vierde lid](../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), en [99, eerste lid, onder c, van de Wet personenvervoer 2000](../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) een vergunning weigeren, intrekken of schorsen indien er ernstig gevaar bestaat dat de vergunning mede zal worden gebruikt om uit gepleegde strafbare feiten verkregen of te verkrijgen, op geld waardeerbare voordelen te benutten. 
+De Minister kan op grond de artikelen 6, vierde lid, en 99, eerste lid, onder c, van de Wet personenvervoer 2000 een vergunning weigeren, intrekken of schorsen indien er ernstig gevaar bestaat dat de vergunning mede zal worden gebruikt om uit gepleegde strafbare feiten verkregen of te verkrijgen, op geld waardeerbare voordelen te benutten. 
 
 ###Artikel 2.1.2 
 
@@ -69,7 +69,7 @@ f.die van zodanig gewicht zijn dat in handeling en gevolg de rechtsorde dan wel 
 ###Artikel 2.1.3 
 
 Als strafbare feiten, bedoeld in artikel 2.1.2, kunnen worden aangemerkt:
-1.  de commune delicten uit het [Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md):
+1.  de commune delicten uit het Wetboek van Strafrecht:
 
 a.deelneming aan een criminele organisatie (140 Sr), voor zover het betreft organisaties die zich schuldig hebben gemaakt aan de in dit artikel genoemde strafbare feiten;
 
@@ -112,12 +112,12 @@ s.bankbreuk (340 Sr) en bedrieglijke bankbreuk (341 Sr);
 t.opzetheling (416) en schuldheling (417bis Sr); of
 
 u.de medeplichtigheid aan of poging tot het begaan van onder b tot en met t genoemde strafbare feiten.
-2. de delicten uit de [Opiumwet](../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md):a. het importeren, exporteren, bereiden, telen, bewerken, verwerken, afleveren, verstrekken, vervoeren of aanwezig hebben van verboden middelen ([2, eerste lid onder A, B, C en D](../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md) en [3, eerste lid, onder A, B, C en D, van de Opiumwet](../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md));a. het medeplichtig zijn aan of op enigerlei wijze behulpzaam zijn bij de onder a bedoelde handelingen ([10a, eerste lid, van de Opiumwet](../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md)).
-3. de delicten uit de [Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md):
+2. de delicten uit de Opiumwet:a. het importeren, exporteren, bereiden, telen, bewerken, verwerken, afleveren, verstrekken, vervoeren of aanwezig hebben van verboden middelen (2, eerste lid onder A, B, C en D en 3, eerste lid, onder A, B, C en D, van de Opiumwet);a. het medeplichtig zijn aan of op enigerlei wijze behulpzaam zijn bij de onder a bedoelde handelingen (10a, eerste lid, van de Opiumwet).
+3. de delicten uit de Algemene wet inzake rijksbelastingen:
 
-a.het opzettelijk of met grove schuld ontduiken van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen (artikel 67, onder e)](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);
+a.het opzettelijk of met grove schuld ontduiken van belasting die een rechtspersoon verplicht is af te dragen op grond van de Wet op de omzetbelasting, Wet op de inkomstenbelasting en de Algemene wet inzake rijksbelastingen (artikel 67, onder e);
 
-b.het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen (artikel 67, onder f)](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md). 
+b.het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de Wet op de omzetbelasting, Wet op de inkomstenbelasting en de Algemene wet inzake rijksbelastingen (artikel 67, onder f). 
 
 ###Artikel 2.1.4 
 
@@ -146,7 +146,7 @@ h.de aan mens en goed toegebrachte schade.
 
 ###Artikel 2.2.1 
 
-De Minister kan op grond de [artikelen 6, vierde lid](../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), en [99, eerste lid, onder c, van de Wet personenvervoer 2000](../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) een vergunning weigeren, intrekken of schorsen indien er ernstig gevaar bestaat dat de vergunning mede zal worden gebruikt om strafbare feiten te plegen. 
+De Minister kan op grond de artikelen 6, vierde lid, en 99, eerste lid, onder c, van de Wet personenvervoer 2000 een vergunning weigeren, intrekken of schorsen indien er ernstig gevaar bestaat dat de vergunning mede zal worden gebruikt om strafbare feiten te plegen. 
 
 ###Artikel 2.2.2 
 
@@ -166,7 +166,7 @@ e.die van zodanig gewicht zijn dat in handeling en gevolg de rechtsorde dan wel 
 ###Artikel 2.2.3 
 
 Als strafbare feiten, bedoeld in artikel 2.2.2, kunnen worden aangemerkt:
-1. de commune delicten uit het [Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md):
+1. de commune delicten uit het Wetboek van Strafrecht:
 
 a.deelneming aan een criminele organisatie (140 Sr), voor zover het betreft organisaties die zich schuldig hebben gemaakt aan de in dit artikel genoemde strafbare feiten;
 
@@ -195,17 +195,17 @@ l.het in-, door- of uitvoeren, afleveren en in voorraad hebben van valse waren o
 m.opzetheling (416) en schuldheling (417bis Sr);
 
 n.de medeplichtigheid aan of poging tot het begaan van onder b tot en met m genoemde strafbare feiten.
-2.  de delicten uit de [Opiumwet](../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md):
+2.  de delicten uit de Opiumwet:
 
-a.het importeren, exporteren, verwerken, afleveren, verstrekken, vervoeren of aanwezig hebben van verboden middelen ([2, eerste lid onder A, B, C en D](../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md) en [3, eerste lid, onder A, B, C en D, van de Opiumwet](../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md));
+a.het importeren, exporteren, verwerken, afleveren, verstrekken, vervoeren of aanwezig hebben van verboden middelen (2, eerste lid onder A, B, C en D en 3, eerste lid, onder A, B, C en D, van de Opiumwet);
 
-b.het medeplichtig zijn aan of op enigerlei wijze behulpzaam zijn bij de onder a bedoelde handelingen ([10a, eerste lid, van de Opiumwet](../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md)).
+b.het medeplichtig zijn aan of op enigerlei wijze behulpzaam zijn bij de onder a bedoelde handelingen (10a, eerste lid, van de Opiumwet).
 3. de delicten uit de Algemene wet inzake rijksbelastingen:
 
-a.het opzettelijk of met grove schuld ontduiken van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen (artikel 67, onder e)](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);
+a.het opzettelijk of met grove schuld ontduiken van belasting die een rechtspersoon verplicht is af te dragen op grond van de Wet op de omzetbelasting, Wet op de inkomstenbelasting en de Algemene wet inzake rijksbelastingen (artikel 67, onder e);
 
-b.het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen (artikel 67, onder f)](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).
-4. de [Wet op de economische delicten](../../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md):overtredingen van voorschriften, gesteld bij of krachtens: de [Wet personenvervoer, artikel 5 (artikel 1, onder ten tweede en ten derde Wed)](../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md). 
+b.het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de Wet op de omzetbelasting, Wet op de inkomstenbelasting en de Algemene wet inzake rijksbelastingen (artikel 67, onder f).
+4. de Wet op de economische delicten:overtredingen van voorschriften, gesteld bij of krachtens: de Wet personenvervoer, artikel 5 (artikel 1, onder ten tweede en ten derde Wed). 
 
 ###Artikel 2.2.4 
 
@@ -234,7 +234,7 @@ h.de aan mens en goed toegebrachte schade.
 
 ###Artikel 2.3.1 
 
-De Minister kan op grond de [artikelen 6, vierde lid](../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), en [99, eerste lid, onder c, van de Wet personenvervoer 2000](../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) een vergunning weigeren, intrekken of schorsen indien feiten en omstandigheden er op wijzen of redelijkerwijze doen vermoeden dat ter verkrijging van een vergunning een strafbaar feit is gepleegd. 
+De Minister kan op grond de artikelen 6, vierde lid, en 99, eerste lid, onder c, van de Wet personenvervoer 2000 een vergunning weigeren, intrekken of schorsen indien feiten en omstandigheden er op wijzen of redelijkerwijze doen vermoeden dat ter verkrijging van een vergunning een strafbaar feit is gepleegd. 
 
 ###Artikel 2.3.2 
 
@@ -275,11 +275,11 @@ h.bankbreuk (340 Sr) en bedrieglijke bankbreuk (341 Sr);
 i.computervredebreuk (350b Sr) of
 
 j.de medeplichtigheid aan of poging tot het begaan van onder a tot en met i genoemde strafbare feiten.
-2. de delicten uit de [Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md):
+2. de delicten uit de Algemene wet inzake rijksbelastingen:
 
-a.het opzettelijk of met grove schuld ontduiken van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen (artikel 67, onder e)](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md),
+a.het opzettelijk of met grove schuld ontduiken van belasting die een rechtspersoon verplicht is af te dragen op grond van de Wet op de omzetbelasting, Wet op de inkomstenbelasting en de Algemene wet inzake rijksbelastingen (artikel 67, onder e),
 
-b.het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen (artikel 67, onder f)](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md). 
+b.het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de Wet op de omzetbelasting, Wet op de inkomstenbelasting en de Algemene wet inzake rijksbelastingen (artikel 67, onder f). 
 
 ###Artikel 2.3.4 
 
@@ -308,7 +308,7 @@ h.de aan mens en goed toegebrachte schade.
 
 ###Artikel 3.1 
 
-De Minister kan een besluit tot weigering of intrekking van een vergunning waarbij ernstig gevaar als bedoeld in [artikel 3, eerste lid Wet Bibob](../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) of een aanwijzing of een vermoeden als bedoeld in [artikel 3, zesde lid Wet Bibob](../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) is geconstateerd achterwege laten indien sprake is van andere, zwaarwegende belangen en omstandigheden.
+De Minister kan een besluit tot weigering of intrekking van een vergunning waarbij ernstig gevaar als bedoeld in artikel 3, eerste lid Wet Bibob of een aanwijzing of een vermoeden als bedoeld in artikel 3, zesde lid Wet Bibob is geconstateerd achterwege laten indien sprake is van andere, zwaarwegende belangen en omstandigheden.
 2. Deze belangen en omstandigheden kunnen zijn:
 
 a.zwaarwegende economische of maatschappelijke gevolgen van intrekking of weigering van de vergunning;
@@ -337,11 +337,11 @@ j.de opgewekte verwachtingen naar aanvrager of houder.
 
 ###Artikel 4.1 
 
-Alvorens de Minister een advies als bedoeld in [artikel 9, eerste lid van de Wet Bibob](../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) aanvraagt, maakt hij redelijkerwijze gebruik van andere, bij of krachtens de [Wet Personenvervoer 2000](../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en de [Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) toegestane middelen om te toetsen of er feiten of omstandigheden aanwezig zijn die kunnen leiden tot toepassing van [artikel 3, eerste of zesde lid van de Wet Bibob](../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). 
+Alvorens de Minister een advies als bedoeld in artikel 9, eerste lid van de Wet Bibob aanvraagt, maakt hij redelijkerwijze gebruik van andere, bij of krachtens de Wet Personenvervoer 2000 en de Algemene wet bestuursrecht toegestane middelen om te toetsen of er feiten of omstandigheden aanwezig zijn die kunnen leiden tot toepassing van artikel 3, eerste of zesde lid van de Wet Bibob. 
 
 ###Artikel 4.2 
 
-1. De feiten en omstandigheden die kunnen leiden tot aanvraag van een advies als bedoeld in [artikel 9, eerste lid van de Wet Bibob](../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) kunnen blijken uit:
+1. De feiten en omstandigheden die kunnen leiden tot aanvraag van een advies als bedoeld in artikel 9, eerste lid van de Wet Bibob kunnen blijken uit:
 
 a.de kenmerken van de aanvrager of houder van een vergunning of de omgeving waarbinnen deze zijn activiteiten verricht;
 
@@ -492,7 +492,7 @@ Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekeni
 
 ###Artikel 6.2 
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel toetsing vergunningen personenvervoer aan de [Wet Bibob](../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).
+Deze beleidsregel wordt aangehaald als: Beleidsregel toetsing vergunningen personenvervoer aan de Wet Bibob.
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 

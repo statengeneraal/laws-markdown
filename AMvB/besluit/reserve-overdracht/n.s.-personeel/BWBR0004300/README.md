@@ -98,7 +98,7 @@ Voor de toepassing van dit besluit wordt de burgerlijke staat van betrokkene bep
 
 De wiskundige reserve van het ouderdomspensioen bedraagt voor een y-jarige vrouwelijke gewezen deelgenoot die ongehuwd is:  ![4827](http://wetten.overheid.nl/Illustration/4827)
 waarin OP = het bedrag van het ouderdomspensioen waarop uitzicht bestaat;  ![4828](http://wetten.overheid.nl/Illustration/4828)
-= de contante-waardefactor per een gulden uitgesteld ouderdomspensioen op het leven van een y-jarige vrouw, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md). 
+= de contante-waardefactor per een gulden uitgesteld ouderdomspensioen op het leven van een y-jarige vrouw, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet. 
 
 ### Artikel  7  
 
@@ -106,8 +106,8 @@ waarin OP = het bedrag van het ouderdomspensioen waarop uitzicht bestaat;  ![482
 
 De wiskundige reserve van het ouderdomspensioen bedraagt voor een y-jarige vrouwelijke gewezen deelgenoot die gehuwd is:  ![4829](http://wetten.overheid.nl/Illustration/4829)
 waarin OP = het bedrag van het ouderdomspensioen waarop uitzicht bestaat;  ![4830](http://wetten.overheid.nl/Illustration/4830)
-= de contante-waardefactor per een gulden uitgesteld ouderdomspensioen op het leven van een y-jarige vrouw, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md); GA = het bedrag van de gehuwdenaftrek verkregen door vermenigvuldiging van de diensttijd na 31 december 1985 met 0,0175 maal het verschil tussen de franchises bedoeld in artikel F 6a, derde lid, onder *a* en *b*, van de wet;  ![4831](http://wetten.overheid.nl/Illustration/4831)
-= de contante-waardefactor per een gulden gehuwdenaftrek op het leven van een y-jarige vrouw en haar x-jarige echtgenoot, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), van de vrouw. 
+= de contante-waardefactor per een gulden uitgesteld ouderdomspensioen op het leven van een y-jarige vrouw, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet; GA = het bedrag van de gehuwdenaftrek verkregen door vermenigvuldiging van de diensttijd na 31 december 1985 met 0,0175 maal het verschil tussen de franchises bedoeld in artikel F 6a, derde lid, onder *a* en *b*, van de wet;  ![4831](http://wetten.overheid.nl/Illustration/4831)
+= de contante-waardefactor per een gulden gehuwdenaftrek op het leven van een y-jarige vrouw en haar x-jarige echtgenoot, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, van de vrouw. 
 
 ### Artikel  8  
 
@@ -115,7 +115,7 @@ waarin OP = het bedrag van het ouderdomspensioen waarop uitzicht bestaat;  ![483
 
 Behoudens artikel 11, tweede lid, bedraagt de wiskundige reserve van het ouderdomspensioen voor een x-jarige mannelijke gewezen deelgenoot die ongehuwd is:  ![4832](http://wetten.overheid.nl/Illustration/4832)
 waarin OP = het bedrag van het ouderdomspensioen waarop uitzicht bestaat;  ![4833](http://wetten.overheid.nl/Illustration/4833)
-= de contante-waardefactor per een gulden uitgesteld ouderdomspensioen op het leven van een x-jarige man, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md). 
+= de contante-waardefactor per een gulden uitgesteld ouderdomspensioen op het leven van een x-jarige man, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet. 
 
 ### Artikel  9  
 
@@ -123,8 +123,8 @@ waarin OP = het bedrag van het ouderdomspensioen waarop uitzicht bestaat;  ![483
 
 De wiskundige reserve van het ouderdomspensioen bedraagt voor een x-jarige mannelijke gewezen deelgenoot die gehuwd is:  ![4834](http://wetten.overheid.nl/Illustration/4834)
 waarin OP = het bedrag van het ouderdomspensioen waarop uitzicht bestaat;  ![4835](http://wetten.overheid.nl/Illustration/4835)
-= de contante-waardefactor per een gulden uitgesteld ouderdomspensioen op het leven van een x-jarige man, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md); GA = het bedrag van de gehuwdenaftrek verkregen door vermenigvuldiging van de diensttijd voor 1 januari 1986 met 0,02 maal het verschil tussen het algemeen pensioen bedoeld in artikel J 4 van de wet voor gehuwden en dat voor ongehuwden en van de diensttijd na 31 december 1985 met 0,0175 maal het verschil tussen de franchises bedoeld in artikel F 6a, derde lid, onder *a* en *b*, van de wet;  ![4836](http://wetten.overheid.nl/Illustration/4836)
-= de contante-waardefactor per een gulden gehuwdenaftrek op het leven van een x-jarige man en zijn y-jarige echtgenote, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), van de man. 
+= de contante-waardefactor per een gulden uitgesteld ouderdomspensioen op het leven van een x-jarige man, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet; GA = het bedrag van de gehuwdenaftrek verkregen door vermenigvuldiging van de diensttijd voor 1 januari 1986 met 0,02 maal het verschil tussen het algemeen pensioen bedoeld in artikel J 4 van de wet voor gehuwden en dat voor ongehuwden en van de diensttijd na 31 december 1985 met 0,0175 maal het verschil tussen de franchises bedoeld in artikel F 6a, derde lid, onder *a* en *b*, van de wet;  ![4836](http://wetten.overheid.nl/Illustration/4836)
+= de contante-waardefactor per een gulden gehuwdenaftrek op het leven van een x-jarige man en zijn y-jarige echtgenote, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, van de man. 
 
 ### Artikel  10  
 
@@ -133,7 +133,7 @@ waarin OP = het bedrag van het ouderdomspensioen waarop uitzicht bestaat;  ![483
 1.  De wiskundige reserve van het weduwenpensioen, niet zijnde een bijzonder weduwenpensioen, bedraagt voor een x-jarige mannelijke gewezen deelgenoot die gehuwd is:  ![4837](http://wetten.overheid.nl/Illustration/4837)
 waarin WP = het bedrag van het weduwenpensioen waarop recht zou bestaan, indien de gewezen deelgenoot zou zijn overleden op de datum bedoeld in artikel 4, tweede of derde lid;  ![4838](http://wetten.overheid.nl/Illustration/4838)
 = de contante-waardefactor per een gulden weduwenpensioen op het leven van een y-jarige vrouw na het overlijden van haar x-jarige echtgenoot; TWP het bedrag van de toeslag ingevolge artikel H 9*a* van de wet; bij de berekening van deze toeslag wordt eventueel rekening gehouden met artikel H 5, derde lid, van de wet;  ![4839](http://wetten.overheid.nl/Illustration/4839)
-= de contante-waardefactor per een gulden toeslag op het weduwenpensioen tot het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md).   
+= de contante-waardefactor per een gulden toeslag op het weduwenpensioen tot het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet.   
 2.   Indien recht zou bestaan op zowel weduwenpensioen als bijzonder weduwenpensioen, wordt de wiskundige reserve van het bijzonder weduwenpensioen in mindering gebracht op de wiskundige reserve van het weduwenpensioen overeenkomstig het eerste lid.  
 
 ### Artikel  11  

@@ -63,11 +63,11 @@ Wijzigt de Pensioen- en spaarfondsenwet.
 
 ###Artikel XIV 
 
-Met betrekking tot de aansprakelijkheidstelling voor 1 januari 2001 op de voet van [artikel 40 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), zoals dit luidde op 31 december 2000, is [artikel 50, tweede lid, van die wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) van toepassing indien, ware laatstgenoemd artikellid reeds van toepassing voor 1 januari 2001, de termijn voor het instellen van bezwaar nog niet is verstreken.
+Met betrekking tot de aansprakelijkheidstelling voor 1 januari 2001 op de voet van artikel 40 van de Invorderingswet 1990, zoals dit luidde op 31 december 2000, is artikel 50, tweede lid, van die wet van toepassing indien, ware laatstgenoemd artikellid reeds van toepassing voor 1 januari 2001, de termijn voor het instellen van bezwaar nog niet is verstreken.
 
 ### Artikel  XIVa  
 
-1.  In afwijking in zoverre van het bepaalde krachtens [artikel 25, eerste lid, van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) verleent de ontvanger de belastingschuldige die in het kader van de Regeling beëindiging veehouderijtakken (Stcrt. 2000, 55) zijn onderneming staakt na 19 maart 2000 en voor 1 januari 2001 op diens schriftelijk verzoek uitstel van betaling voor de duur van ten hoogste tien jaar, mits voldoende zekerheid is gesteld, voor belastingaanslagen voorzover daarin is begrepen inkomstenbelasting die bij staking van die onderneming is verschuldigd en kan worden toegerekend aan het verschil tussen de boekwaarde en de waarde in het economische verkeer van een eigen woning, daaronder begrepen de niet onafhankelijk van die woning te verkopen aanhorigheden en de ondergrond van zodanige woning en aanhorigheden, die ten tijde van de staking tot het ondernemingsvermogen behoort. De belasting op het in de eerste volzin bedoelde verschil wordt zoveel mogelijk bepaald naar het tarief van artikel 57, tweede lid, van de Wet op de inkomstenbelasting 1964.   
+1.  In afwijking in zoverre van het bepaalde krachtens artikel 25, eerste lid, van de Invorderingswet 1990 verleent de ontvanger de belastingschuldige die in het kader van de Regeling beëindiging veehouderijtakken (Stcrt. 2000, 55) zijn onderneming staakt na 19 maart 2000 en voor 1 januari 2001 op diens schriftelijk verzoek uitstel van betaling voor de duur van ten hoogste tien jaar, mits voldoende zekerheid is gesteld, voor belastingaanslagen voorzover daarin is begrepen inkomstenbelasting die bij staking van die onderneming is verschuldigd en kan worden toegerekend aan het verschil tussen de boekwaarde en de waarde in het economische verkeer van een eigen woning, daaronder begrepen de niet onafhankelijk van die woning te verkopen aanhorigheden en de ondergrond van zodanige woning en aanhorigheden, die ten tijde van de staking tot het ondernemingsvermogen behoort. De belasting op het in de eerste volzin bedoelde verschil wordt zoveel mogelijk bepaald naar het tarief van artikel 57, tweede lid, van de Wet op de inkomstenbelasting 1964.   
 2.  Het uitstel wordt slechts verleend voorzover de belastingschuldige geacht wordt over onvoldoende middelen – andere dan de eigen woning – te beschikken om zonder uitstel de belasting te voldoen en aannemelijk maakt dat de belasting binnen de periode waarvoor uitstel wordt verleend, kan worden voldaan.   
 3.  Het uitstel wordt beëindigd: 
 
@@ -83,16 +83,16 @@ d. ingeval de woning wordt vervreemd of indien de woning anderszins het karakter
 
 ###Artikel XIVc 
 
-Voor de toepassing van [artikel 15e van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) worden, indien het uiteindelijke belang in de belastingplichtige op of na 18 oktober 2000 en vóór 1 januari 2001 in belangrijke mate is gewijzigd, het tijdstip van deze wijziging en het direct daaraan voorafgaande tijdstip op 1 januari 2001 gesteld.
+Voor de toepassing van artikel 15e van de Wet op de vennootschapsbelasting 1969 worden, indien het uiteindelijke belang in de belastingplichtige op of na 18 oktober 2000 en vóór 1 januari 2001 in belangrijke mate is gewijzigd, het tijdstip van deze wijziging en het direct daaraan voorafgaande tijdstip op 1 januari 2001 gesteld.
 
 ###Artikel XIVd 
 
-1. Voor de toepassing van [artikel 20a, eerste lid, van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) blijft een wijziging van het uiteindelijke belang in de belastingplichtige die voor 27 juni 2000 heeft plaatsgevonden buiten aanmerking, mits
+1. Voor de toepassing van artikel 20a, eerste lid, van de Wet op de vennootschapsbelasting 1969 blijft een wijziging van het uiteindelijke belang in de belastingplichtige die voor 27 juni 2000 heeft plaatsgevonden buiten aanmerking, mits
 
-a.indien deze wet niet tot wet zou zijn verheven en in werking zou zijn getreden, [artikel 20, vijfde lid, van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) niet van toepassing zou zijn, en
+a.indien deze wet niet tot wet zou zijn verheven en in werking zou zijn getreden, artikel 20, vijfde lid, van de Wet op de vennootschapsbelasting 1969 niet van toepassing zou zijn, en
 
 b.de belastingplichtige direct voorafgaande aan de wijziging een onderneming dreef.
-2. Het eerste lid is slechts van toepassing met betrekking tot jaren waarin is voldaan aan de voorwaarde, bedoeld in [artikel 20a, vierde lid, onderdeel a, onderscheidenlijk zevende lid, onderdeel b, van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).
+2. Het eerste lid is slechts van toepassing met betrekking tot jaren waarin is voldaan aan de voorwaarde, bedoeld in artikel 20a, vierde lid, onderdeel a, onderscheidenlijk zevende lid, onderdeel b, van de Wet op de vennootschapsbelasting 1969.
 
 ### Artikel  XIVe  
 
@@ -101,10 +101,10 @@ Wijzigt deze wet.
 ### Artikel  XV  
 
 1.  Deze wet treedt in werking met ingang van 1 januari 2001, met uitzondering van artikel XI, onderdelen A en B, dat in werking treedt op 31 december 2000.   
-2.   [Artikel 20a van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) is voor het eerst van toepassing met ingang van boekjaren die op of na 18 oktober 2000 aanvangen.   
-3.   [Artikel 3.65 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is van toepassing op omzettingen als bedoeld in dat artikel waarbij de oprichting van de naamloze of besloten vennootschap of de inbreng van de onderneming in de vennootschap op of na 1 januari 2001 plaatsvindt. In afwijking van de eerste volzin is artikel 18 van de Wet op de inkomstenbelasting 1964, zoals die bepaling luidde op 31 december 2000, nog van toepassing indien het voornemen tot de omzetting voor 1 januari 2001 is vastgelegd en geregistreerd en de overgang van de heffing van inkomstenbelasting naar de heffing van vennootschapsbelasting eveneens voor 1 januari 2001 plaatsvindt.   
+2.   Artikel 20a van de Wet op de vennootschapsbelasting 1969 is voor het eerst van toepassing met ingang van boekjaren die op of na 18 oktober 2000 aanvangen.   
+3.   Artikel 3.65 van de Wet inkomstenbelasting 2001 is van toepassing op omzettingen als bedoeld in dat artikel waarbij de oprichting van de naamloze of besloten vennootschap of de inbreng van de onderneming in de vennootschap op of na 1 januari 2001 plaatsvindt. In afwijking van de eerste volzin is artikel 18 van de Wet op de inkomstenbelasting 1964, zoals die bepaling luidde op 31 december 2000, nog van toepassing indien het voornemen tot de omzetting voor 1 januari 2001 is vastgelegd en geregistreerd en de overgang van de heffing van inkomstenbelasting naar de heffing van vennootschapsbelasting eveneens voor 1 januari 2001 plaatsvindt.   
 4.  De in artikel IV opgenomen wijzigingen werken terug tot en met 1 januari 2000.   
-5.  Artikel VII, onderdeel E, vindt eerst toepassing met betrekking tot vervreemdingen die hebben plaatsgevonden na 31 december 2000. Voor vervreemdingen van voor 1 januari 2001 blijft [artikel 40 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) gelden zoals dat luidde op 31 december 2000.   
+5.  Artikel VII, onderdeel E, vindt eerst toepassing met betrekking tot vervreemdingen die hebben plaatsgevonden na 31 december 2000. Voor vervreemdingen van voor 1 januari 2001 blijft artikel 40 van de Invorderingswet 1990 gelden zoals dat luidde op 31 december 2000.   
 6.  Artikel XII werkt terug tot en met 27 juni 2000.  
 
 ###Artikel XVI 

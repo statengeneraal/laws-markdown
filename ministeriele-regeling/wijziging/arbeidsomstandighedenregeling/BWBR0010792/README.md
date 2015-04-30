@@ -5,9 +5,9 @@
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid, J.F. Hoogervorst  
 Handelende na overleg met de Ministers van Justitie, van Binnenlandse Zaken en Koninkrijksrelaties en van Verkeer en Waterstaat,
 
-Gelet op de [artikelen 16, tweede lid, onder b](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [30, eerste lid](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), en [31, tweede lid, van de Arbeidsomstandighedenwet 1998](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), artikel 10, derde lid, onder d, van de Wet op de inkomstenbelasting 1994 en [artikel 11 van de Algemene wet erkenning EG-hoger-onderwijsdiploma’s](../../../../wet/algemene/wet/erkenning/eg-hoger-onderwijsdiploma's/BWBR0006317/README.md);
+Gelet op de artikelen 16, tweede lid, onder b, 30, eerste lid, en 31, tweede lid, van de Arbeidsomstandighedenwet 1998, artikel 10, derde lid, onder d, van de Wet op de inkomstenbelasting 1994 en artikel 11 van de Algemene wet erkenning EG-hoger-onderwijsdiploma’s;
 
-Voorts gelet op de [artikelen 1.5a, tweede lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [1.5b](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [1.5e, tweede en derde lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [2.1](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [2.8](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [4.7, eerste en derde lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [4.9, achtste lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [4.42, vijfde lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [4.50, tweede lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [4.68, eerste lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [6.16, tiende lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [7.19, negende lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), en [7.29, negende lid, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md);
+Voorts gelet op de artikelen 1.5a, tweede lid, 1.5b, 1.5e, tweede en derde lid, 2.1, 2.8, 4.7, eerste en derde lid, 4.9, achtste lid, 4.42, vijfde lid, 4.50, tweede lid, 4.68, eerste lid, 6.16, tiende lid, 7.19, negende lid, en 7.29, negende lid, van het Arbeidsomstandighedenbesluit;
 Besluit:     
 
 ### Artikel I  
@@ -131,7 +131,7 @@ J.F. Hoogervorst
 
 19.  De cursist kan de relaties tussen certificerende instellingen en het gecertificeerde bedrijf mogelijk maken.  
 
-20.  De cursist kan de samenhang aangeven tussen de BRL 5050, BRL 5052, het [Asbestverwijderingsbesluit](../../../../AMvB/asbest-verwijderingsbesluit/BWBR0006006/README.md) en het [Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md).  
+20.  De cursist kan de samenhang aangeven tussen de BRL 5050, BRL 5052, het Asbestverwijderingsbesluit en het Arbeidsomstandighedenbesluit.  
 
 21.  De cursist kan het beoordelingsprogramma van de certificerende instellingen uiteenzetten.  
 

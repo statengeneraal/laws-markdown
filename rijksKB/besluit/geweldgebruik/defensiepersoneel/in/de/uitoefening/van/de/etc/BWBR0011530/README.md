@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Defensie van 19 juli 1999, nr. CWW88/014, directie juridische zaken, afdeling wet- en regelgeving;
 
-Gelet op [artikel 1, zesde lid, van de Rijkswet geweldgebruik defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak](../../../../../../../../../../../rijkswet/rijkswet/geweldgebruik/krijgsmacht/in/de/uitoefening/van/de/bewakings-/en/etc/BWBR0007949/README.md);
+Gelet op artikel 1, zesde lid, van de Rijkswet geweldgebruik defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak;
 
 De Raad van State van het Koninkrijk gehoord (advies van 18 oktober 1999, no. W07.99.0370/II/K.);
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 ###Artikel 1  
 
-Dit besluit berust op [artikel 3, derde lid, van de Rijkswet geweldgebruik bewakers militaire objecten](../../../../../../../../../../../rijkswet/rijkswet/geweldgebruik/bewakers/militaire/objecten/BWBR0014738/README.md). 
+Dit besluit berust op artikel 3, derde lid, van de Rijkswet geweldgebruik bewakers militaire objecten. 
 
 ### Artikel  1a  
 
@@ -34,7 +34,7 @@ a. bewaker: de met het uitvoeren van de bewakings- en beveiligingstaak belaste:
 
 b. meerdere: 
 
-1°. indien de bewakings- en beveiligingstaak alleen door militairen behorend tot de krijgsmacht van het Koninkrijk wordt uitgevoerd: degene die ingevolge het bepaalde bij of krachtens [artikel 67 van het Wetboek van Militair Strafrecht](../../../../../../../../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md) de meerdere is;  
+1°. indien de bewakings- en beveiligingstaak alleen door militairen behorend tot de krijgsmacht van het Koninkrijk wordt uitgevoerd: degene die ingevolge het bepaalde bij of krachtens artikel 67 van het Wetboek van Militair Strafrecht de meerdere is;  
 
 2°. indien de bewakings- en beveiligingstaak alleen door burgerambtenaren in dienst van het Ministerie van Defensie wordt uitgevoerd: de burgerambtenaar die de hoogste rang bezit dan wel bij gelijkheid in rang, de burgerambtenaar die de meeste ouderdom daarin bezit;  
 
@@ -116,7 +116,7 @@ Bij gebruik van fysiek geweld dan wel een geweldmiddel wordt in verhouding tot h
 a. tegen een persoon indien redelijkerwijs mag worden aangenomen dat die persoon een voor onmiddellijk gebruik gereed zijnd vuurwapen bij zich heeft en dat tegen personen zal gebruiken dan wel ander levensbedreigend geweld tegen personen zal gebruiken;  
 
 b. tegen een persoon indien redelijkerwijs mag worden aangenomen dat die persoon een misdrijf pleegt jegens het object en dat er tevens sprake is van een aantasting van een vitaal belang van de krijgsmacht.     
-2.  Onder het plegen van een misdrijf als bedoeld in het eerste lid, onder b, worden mede begrepen de poging en de deelnemingsvormen, bedoeld in de [artikelen 47](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [48 van het Wetboek van Strafrecht](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).  
+2.  Onder het plegen van een misdrijf als bedoeld in het eerste lid, onder b, worden mede begrepen de poging en de deelnemingsvormen, bedoeld in de artikelen 47 en 48 van het Wetboek van Strafrecht.  
 
 ### Artikel  10  
 

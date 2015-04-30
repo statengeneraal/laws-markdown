@@ -3,7 +3,7 @@
 ##Aanwijzing gemeente Haarlemmermeer als vestigingsplaats casino
 
 De Staatssecretaris van Justitie en de Minister van Economische Zaken.  
-Gelet op [artikel 27p van de Wet op de kansspelen](../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);
+Gelet op artikel 27p van de Wet op de kansspelen;
 
 Gezien de voordracht van de Raad voor de Casinospelen dd. 22 januari 1993;
 

@@ -6,9 +6,9 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Defensie van 22 maart 1999, nr. P/99001231;
 
-Gelet op [artikel 12 van de Militaire ambtenarenwet 1931](../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md);
+Gelet op artikel 12 van de Militaire ambtenarenwet 1931;
 
-Gelet op [artikel 31 van de Wet privatisering ABP](../../../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md);
+Gelet op artikel 31 van de Wet privatisering ABP;
 
 De Raad van State gehoord (advies van 21 mei 1999, nr. W07.99.0142);
 

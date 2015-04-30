@@ -120,7 +120,7 @@ b. een gemotiveerd overzicht van de behoefte aan voortgezette maatschappelijke b
 
 ### Artikel  16  
 
-Telkens vóór 1 april van het jaar volgend op dat waarin de werkzaamheden zijn afgesloten, zendt het gemeentebestuur aan de minister volgens een door de minister vast te stellen model (bijlage II) een verslag over de wijze waarop de eerste opvang en (eventueel) de voortgezette maatschappelijke begeleiding van vluchtelingen in het daaraan voorafgaande kalenderjaar gestalte heeft gekregen, waarin opgenomen een verantwoording van de ontvangen gelden voorzien van een verklaring van een deskundige als bedoeld in artikel 265 bis van de [gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md). 
+Telkens vóór 1 april van het jaar volgend op dat waarin de werkzaamheden zijn afgesloten, zendt het gemeentebestuur aan de minister volgens een door de minister vast te stellen model (bijlage II) een verslag over de wijze waarop de eerste opvang en (eventueel) de voortgezette maatschappelijke begeleiding van vluchtelingen in het daaraan voorafgaande kalenderjaar gestalte heeft gekregen, waarin opgenomen een verantwoording van de ontvangen gelden voorzien van een verklaring van een deskundige als bedoeld in artikel 265 bis van de gemeentewet. 
 
 ### Artikel  17  
 

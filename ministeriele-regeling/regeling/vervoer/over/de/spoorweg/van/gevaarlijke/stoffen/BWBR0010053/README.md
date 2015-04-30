@@ -3,7 +3,7 @@
 ##Regeling vervoer over de spoorweg van gevaarlijke stoffen
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op artikel 10 van Richtlijn 96/49/EG van de Raad van de Europese Gemeenschappen van 23 juli 1996 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake het vervoer van gevaarlijke goederen per spoor (PbEG L 235), op [artikel 4b, tweede lid, onderdeel a, van de Wegenverkeerswet 1994](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en op [artikel 2 van het Besluit vervoer gevaarlijke stoffen](../../../../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/BWBR0008080/README.md);
+Gelet op artikel 10 van Richtlijn 96/49/EG van de Raad van de Europese Gemeenschappen van 23 juli 1996 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake het vervoer van gevaarlijke goederen per spoor (PbEG L 235), op artikel 4b, tweede lid, onderdeel a, van de Wegenverkeerswet 1994 en op artikel 2 van het Besluit vervoer gevaarlijke stoffen;
 Besluit:    
 
 ### Artikel  1  
@@ -14,7 +14,7 @@ Besluit:
 
 2°. een in bijlage 3 bij deze regeling erkende instantie,  
 
-3°. een met toepassing van de [Regeling erkende instanties vervoer gevaarlijke stoffen](../../../../../../../../../../ministeriele-regeling/regeling/erkende/instanties/vervoer/gevaarlijke/stoffen/BWBR0026901/README.md) erkende instantie, of  
+3°. een met toepassing van de Regeling erkende instanties vervoer gevaarlijke stoffen erkende instantie, of  
 
 4°. voor radioactieve stoffen: Minister van Economische Zaken, Landbouw en Innovatie in overeenstemming met de Minister;      c. COTIF:   Convention relative aux transports internationaux ferroviaires;    d. richtlijn nr. 2008/68/EG:   richtlijn nr. 2008/68/EG van het Europees Parlement en de Raad van de Europese Unie van 24 september 2008 betreffende het vervoer van gevaarlijke goederen over land (PbEU L 260).    
 2.  De in bijlage 1 opgenomen begripsbepalingen zijn van toepassing op de bijlagen 2 en 3 voorzover daarin niet anders is bepaald.  
@@ -31,7 +31,7 @@ c.  bijlage 3: erkende instanties, bedoeld in artikel 1, eerste lid, onderdeel b
 
 ### Artikel  3  
 
-Met voorwaardelijk tot het vervoer over de spoorweg toegelaten gevaarlijke stoffen als bedoeld in bijlage 1 mogen de handelingen, bedoeld in [artikel 2 van het Besluit vervoer gevaarlijke stoffen](../../../../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/BWBR0008080/README.md), worden verricht, mits de in deze regeling gestelde voorschriften in acht worden genomen. 
+Met voorwaardelijk tot het vervoer over de spoorweg toegelaten gevaarlijke stoffen als bedoeld in bijlage 1 mogen de handelingen, bedoeld in artikel 2 van het Besluit vervoer gevaarlijke stoffen, worden verricht, mits de in deze regeling gestelde voorschriften in acht worden genomen. 
 
 ### Artikel  4  
 
@@ -78,7 +78,7 @@ De werkgever bewaart de dossiers, bedoeld in de randnummers 1.3.3 en 1.10.2.4 va
 
 ####*Artikel 2. Ontheffingen*
 
-De Minister verleent een ontheffing als bedoeld in [artikel 9 van de Wet vervoer gevaarlijke stoffen](../../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) slechts op voorwaarden dat de veiligheid niet in gevaar komt en het vervoer waarvoor de ontheffing wordt verleend duidelijk is gespecificeerd en van tijdelijke aard is.
+De Minister verleent een ontheffing als bedoeld in artikel 9 van de Wet vervoer gevaarlijke stoffen slechts op voorwaarden dat de veiligheid niet in gevaar komt en het vervoer waarvoor de ontheffing wordt verleend duidelijk is gespecificeerd en van tijdelijke aard is.
 
 ####*Artikel 3. N- en NE-bepalingen*
 
@@ -169,7 +169,7 @@ a. Wagens die zijn beladen met stoffen of voorwerpen van klasse 1 worden niet ge
 
 b. Indien enig oponthoud van een wagen, beladen met stoffen of voorwerpen van klasse 1, langer dan drie uur duurt, geeft de vervoerder hiervan kennis aan de burgemeester van de gemeente, waarin het oponthoud plaats heeft, opdat deze de naar zijn oordeel voor de openbare veiligheid nodig geachte maatregelen kan treffen.  
 
-c. Indien aan een wagen beladen met stoffen of voorwerpen van klasse 1 of aan de lading zelf enige onregelmatigheid wordt waargenomen, geeft de vervoerder daarvan, onverminderd [artikel 47 van de Wet vervoer gevaarlijke stoffen](../../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), onverwijld kennis aan de burgemeester ter plaatse, aan de bevoegde militaire autoriteit voorzover het een militaire zending betreft en aan de Inspectie Leefomgeving en Transport voorzover het een niet-militaire zending betreft. Zonodig wordt de desbetreffende wagen, met inachtneming van de nodige voorzorgsmaatregelen, uit de trein verwijderd, in overleg met een begeleider, indien deze aanwezig is.  
+c. Indien aan een wagen beladen met stoffen of voorwerpen van klasse 1 of aan de lading zelf enige onregelmatigheid wordt waargenomen, geeft de vervoerder daarvan, onverminderd artikel 47 van de Wet vervoer gevaarlijke stoffen, onverwijld kennis aan de burgemeester ter plaatse, aan de bevoegde militaire autoriteit voorzover het een militaire zending betreft en aan de Inspectie Leefomgeving en Transport voorzover het een niet-militaire zending betreft. Zonodig wordt de desbetreffende wagen, met inachtneming van de nodige voorzorgsmaatregelen, uit de trein verwijderd, in overleg met een begeleider, indien deze aanwezig is.  
 
 d. Indien overlading van een wagen die deel uitmaakt van een militaire zending, beladen met stoffen of voorwerpen van klasse 1, onvermijdelijk is, geschiedt het overladen onder toezicht van door de bevoegde militaire autoriteit aangewezen personen.   
 ###*5. Aankomst en aflevering*
@@ -270,7 +270,7 @@ Behoudens de stoffen en voorwerpen als bedoeld in randnummer 7.6 van bijlage 1 d
 
 1. In de onderstaande tabel zijn de erkende instanties opgenomen met betrekking tot de uitvoering van de voorschriften in de vermelde randnummers van bijlage 1 voor zover bedoelde handelingen worden uitgevoerd door Nederlandse instanties.  
 
-2. In afwijking van het eerste lid is de uitvoering van de voorschriften in de vermelde randnummers van bijlage 1 voor zover deze betrekking hebben op drukhouders en tanks als bedoeld in de [Regeling vervoerbare drukapparatuur](../../../../../../../../../../ministeriele-regeling/regeling/vervoerbare/drukapparatuur/2011/BWBR0030099/README.md) voorbehouden aan de op grond van die regeling aangewezen instanties.  Tabel 1 
+2. In afwijking van het eerste lid is de uitvoering van de voorschriften in de vermelde randnummers van bijlage 1 voor zover deze betrekking hebben op drukhouders en tanks als bedoeld in de Regeling vervoerbare drukapparatuur voorbehouden aan de op grond van die regeling aangewezen instanties.  Tabel 1 
 
 | Randnummer  | Instanties  |
 |:---|:---|
@@ -325,7 +325,7 @@ Behoudens de stoffen en voorwerpen als bedoeld in randnummer 7.6 van bijlage 1 d
 
 1. In deze bijlage wordt verstaan onder: 
 
-*brandweer:* brandweerdiensten, met uitzondering van de bedrijfsbrandweer als bedoeld in het [Besluit veiligheidsregio’s](../../../../../../../../../../AMvB/besluit/veiligheidsregio's/BWBR0027844/README.md);  
+*brandweer:* brandweerdiensten, met uitzondering van de bedrijfsbrandweer als bedoeld in het Besluit veiligheidsregio’s;  
 
 *CBR:* Centraal Bureau Rijvaardigheidsbewijzen;  
 
@@ -335,7 +335,7 @@ Behoudens de stoffen en voorwerpen als bedoeld in randnummer 7.6 van bijlage 1 d
 
 *ILT:* Minister, namens deze de Inspecteur-Generaal Leefomgeving en Transport;  
 
-*politie:* het landelijke politiekorps, bedoeld in [artikel 25, eerste lid, van de Politiewet 2012](../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
+*politie:* het landelijke politiekorps, bedoeld in artikel 25, eerste lid, van de Politiewet 2012;  
 
 *TNO:* Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek;  
 

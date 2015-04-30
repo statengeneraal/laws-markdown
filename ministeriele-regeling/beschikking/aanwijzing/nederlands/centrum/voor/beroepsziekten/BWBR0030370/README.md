@@ -19,7 +19,7 @@ Het Nederlands Centrum voor Beroepsziekten van het Academisch Medisch Centrum te
 1.  Het NCvB dient de hieronder in het tweede en derde lid genoemde taken en activiteiten uit te oefenen:   
 2.  Het registreren van en rapporteren over beroepsziekten, zoals onder meer door: 
 
-a. Het beheer, onderhoud en ontwikkelen van registratiesystemen en peilstations met inachtneming van het gestelde over gegevens beroepsziekten in [artikel 1.11 van de Arbeidsomstandighedenregeling](../../../../../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md);  
+a. Het beheer, onderhoud en ontwikkelen van registratiesystemen en peilstations met inachtneming van het gestelde over gegevens beroepsziekten in artikel 1.11 van de Arbeidsomstandighedenregeling;  
 
 b. Het verwerken, beoordelen en analyseren van meldingen;  
 

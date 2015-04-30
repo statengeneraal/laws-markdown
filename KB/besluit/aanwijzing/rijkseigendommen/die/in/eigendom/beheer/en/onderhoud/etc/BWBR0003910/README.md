@@ -184,7 +184,7 @@ d. op de Bremerbergdijk tussen Spijkweg en de kavel, administratief bekend secti
 e. en van de ontsluitingswegen en parkeerplaatsen naar de woningen te Roggebotsluis en Ketelhaven, de toe- en afvoerwegen naar museum en restaurant te Ketelhaven, de op- en afritten en loswal nabij Elburg en alle niet bij name genoemde op- en afritten naar strand en recreatieve wegen, gelegen op voornoemde dijken met inbegrip van deze strand- en recreatieve wegen;  
 
 f. en van het fietspad, gelegen tussen de Bremerbergdijk en de Spijkweg gaat in beheer en onderhoud over op de gemeente met ingang van de dag, volgende op die van de dagtekening van dit besluit.     
-2.   De bermen, grenzend aan de in het vorige lid genoemde verhardingen, gaan in beheer - in de zin van de [Wegenwet](../../../../../../../../../../../../wet/wegenwet/BWBR0001948/README.md) - op de gemeente over met ingang van de dag, volgende op die van de dagtekening van dit besluit.   
+2.   De bermen, grenzend aan de in het vorige lid genoemde verhardingen, gaan in beheer - in de zin van de Wegenwet - op de gemeente over met ingang van de dag, volgende op die van de dagtekening van dit besluit.   
 3.   Het is de gemeente bekend dat op de in de vorige leden bedoelde gedeelten van de Ketelmeerdijk, Vossemeerdijk, Drontermeerdijk en de Bremerbergdijk het Rijkszeeweringenreglement van toepassing is.  
 
 ### Artikel  3  

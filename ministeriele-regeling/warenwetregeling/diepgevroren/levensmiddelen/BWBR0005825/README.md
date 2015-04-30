@@ -5,14 +5,24 @@
 De Staatssecretaris van Welzijn, Volksgezondheid en Cultuur,  
 handelende in overeenstemming met de Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
 
-Gelet op de richtlijnen van de Commissie van 13 januari 1992 betreffende de temperatuurcontrole in vervoermiddelen en in opslagruimten van voor menselijke voeding bestemde diepvriesprodukten (92/1/EEG) (PbEG L 34) en tot vaststelling van de monsternemingsprocedure en de communautaire analysemethode voor de officiële controle van de temperatuur van diepvriesprodukten die voor de menselijke voeding zijn bestemd (92/2/EEG) (PbEG L 34), alsmede op de [artikelen 14](../../../../../AMvB/warenwetbesluit/bereiding/en/behandeling/van/levensmiddelen/BWBR0005758/README.md) en [18, tweede lid, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen](../../../../../AMvB/warenwetbesluit/bereiding/en/behandeling/van/levensmiddelen/BWBR0005758/README.md):
+Gelet op de richtlijnen van de Commissie van 13 januari 1992 betreffende de temperatuurcontrole in vervoermiddelen en in opslagruimten van voor menselijke voeding bestemde diepvriesprodukten (92/1/EEG) (PbEG L 34) en tot vaststelling van de monsternemingsprocedure en de communautaire analysemethode voor de officiële controle van de temperatuur van diepvriesprodukten die voor de menselijke voeding zijn bestemd (92/2/EEG) (PbEG L 34), alsmede op de artikelen 14 en 18, tweede lid, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen:
 
-Gezien de adviezen van de Adviescommissie [Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md) van 23 september 1992, nummer 14565/(4/6)5, en van 3 november 1992 nummer 14615/(4/6)5;
+Gezien de adviezen van de Adviescommissie Warenwet van 23 september 1992, nummer 14565/(4/6)5, en van 3 november 1992 nummer 14615/(4/6)5;
 Besluit:    
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: a.diepvriezen: het bevriezingsproces waardoor zo snel als nodig is de maximale kristallisatiezone wordt overschreden, met het gevolg dat na thermische stabilisatie de temperatuur overal in de waar zonder onderbreking gehandhaafd blijft op –18 °C of lager;b.diepgevroren levensmiddelen: diepgevroren eet- of drinkwaren, andere dan consumptie-ijs, die verhandeld worden op een wijze waaruit blijkt dat zij dat kenmerk bezitten;c.grondstoffen: grondstoffen, halffabrikaten en ingredinten bestemd voor de bereiding van eet- en drinkwaren;d.instellingen: restaurants, ziekenhuizen, kantines en andere soortgelijke instellingen. 
+In deze regeling wordt verstaan onder: 
+
+a.*diepvriezen:* het bevriezingsproces waardoor zo snel als nodig is de maximale kristallisatiezone wordt overschreden, met het gevolg dat na thermische stabilisatie de temperatuur overal in de waar zonder onderbreking gehandhaafd blijft op –18 °C of lager;
+
+b.*diepgevroren levensmiddelen:* diepgevroren eet- of drinkwaren, andere dan consumptie-ijs, die verhandeld worden op een wijze waaruit blijkt dat zij dat kenmerk bezitten;
+
+c.*grondstoffen:* grondstoffen, halffabrikaten en ingredinten bestemd voor de bereiding van eet- en drinkwaren;
+
+d.*instellingen:* restaurants, ziekenhuizen, kantines en andere soortgelijke instellingen.
+
+e.*verordening (EU) 1169/2011:* Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van Verordeningen (EG) nr. 1924/2006 en (EG) nr. 1925/2006 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 87/250/EEG van de Commissie, Richtlijn 90/496/EEG van de Raad, Richtlijn 1999/10/EG van de Commissie, Richtlijn 2000/13/EG van het Europees Parlement en de Raad, Richtlijnen 2002/67/EG en 2008/5/EG van de Commissie, en Verordening (EG) nr. 608/2004 van de Commissie (PbEU 2011, L 304).  
 
 ### Artikel  2  
 
@@ -38,9 +48,9 @@ Diepgevroren levensmiddelen, bestemd voor aflevering aan de eindverbruiker, word
 
 ### Artikel  6  
 
-Onverminderd het [Warenwetbesluit Etikettering van levensmiddelen](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) onderscheidenlijk het Algemeen Aanduidingenbesluit (Warenwet) worden bij de verhandeling van diepgevroren levensmiddelen aan de eindverbruiker of aan instellingen gebezigd: 
+Onverminderd verordening (EU) 1169/2011 worden bij de verhandeling van diepgevroren levensmiddelen aan de eindverbruiker of aan instellingen gebezigd: 
 
-a. de vermelding ‘diepvries’, toe te voegen aan de aanduiding, bedoeld in [artikel 3 van het Warenwetbesluit Etikettering van levensmiddelen](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) onderscheidenlijk artikel 3, eerste lid, van het Algemeen Aanduidingenbesluit (Warenwet); 
+a. de vermelding ‘diepvries’, toe te voegen aan de benaming, bedoeld in artikel 9, eerste lid, onder a, van verordening (EU) 1169/2011; 
 
 b. een vermelding aangevende gedurende welke periode en bij welke temperatuur of in welke installatie de diepgevroren levensmiddelen bij de eindverbruiker bewaard kunnen worden; en 
 
@@ -50,10 +60,10 @@ c. de vermelding ‘na ontdooiing niet opnieuw invriezen’.
 
 1.  Indien diepgevroren levensmiddelen als zodanig niet zijn bestemd voor de eindverbruiker of instellingen, worden bij de verhandeling gebezigd: 
 
-a. de vermelding ‘diepvries’, toe te voegen aan de aanduiding, bedoeld in [artikel 3 van het Warenwetbesluit Etikettering van levensmiddelen](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) onderscheidenlijk artikel 3, eerste lid, van het Algemeen Aanduidingenbesluit (Warenwet); en 
+a. de vermelding ‘diepvries’, toe te voegen aan de benaming, bedoeld in artikel 9, eerste lid, onder a, van verordening (EU) 1169/2011; en 
 
-b. de vermeldingen, bedoeld in [ artikel 5, eerste lid, onder c, f en i, van het Warenwetbesluit Etikettering van levensmiddelen](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md).    
-2.  De in het eerste lid bedoelde aanduiding en vermeldingen worden aangebracht op de verpakking of het omhulsel waarin de waar wordt aangeboden, of op een hierop aangebracht etiket.  
+b. de vermeldingen, bedoeld in artikel 9, eerste lid, onder e en h, van verordening (EU) 1169/2011 en artikel 4 van het Warenwetbesluit informatie levensmiddelen.    
+2.  De in het eerste lid bedoelde benaming en vermeldingen worden aangebracht op de verpakking of het omhulsel waarin de waar wordt aangeboden, of op een hierop aangebracht etiket.  
 
 ### Artikel  9  
 
@@ -92,7 +102,7 @@ De in artikel 4 voorgeschreven temperaturen van diepgevroren levensmiddelen.
 
 ####Principe
 
-Meting van de temperatuur van diepgevroren levensmiddelen bestaat uit een registratie van de temperatuur van een in overeenstemming met de [Warenwetregeling Monsterneming](../../../../../ministeriele-regeling/warenwetregeling/monsterneming/BWBR0004529/README.md) genomen monster met behulp van adequate apparatuur.
+Meting van de temperatuur van diepgevroren levensmiddelen bestaat uit een registratie van de temperatuur van een in overeenstemming met de Warenwetregeling Monsterneming genomen monster met behulp van adequate apparatuur.
 
 ###3 
 
