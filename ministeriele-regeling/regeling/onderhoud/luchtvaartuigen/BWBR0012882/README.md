@@ -3,7 +3,7 @@
 ##Regeling onderhoud luchtvaartuigen
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 20](../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md) en [22 van het Besluit luchtwaardigheid](../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md);
+Gelet op artikel 20 en 22 van het Besluit luchtwaardigheid;
 Besluit:      
 ### Paragraaf  1  
 
@@ -15,7 +15,7 @@ In deze regeling wordt verstaan onder:
 
 *belangrijke herstelling:* werkzaamheden om een defect of beschadigd luchtvaartuig of onderdeel daarvan te herstellen die, indien deze niet op de juiste wijze worden uitgevoerd, in een niet te verwaarlozen mate invloed hebben op de luchtwaardigheid of het voldoen aan de geluidseisen van het luchtvaartuig of de deugdelijkheid van het onderdeel;  
 
-*erkenninghouder:* houder van een erkenning als bedoeld in [artikel 17 van het Besluit luchtvaartuigen 2008](../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md);  
+*erkenninghouder:* houder van een erkenning als bedoeld in artikel 17 van het Besluit luchtvaartuigen 2008;  
 
 *complex onderhoud: * onderhoud als genoemd in Aanhangsel VII bij Part M van Verordening (EG) nr. 2042/2003;  
 
@@ -25,13 +25,13 @@ In deze regeling wordt verstaan onder:
 
 *onderhoud: * revisie, reparatie, inspectie, vervanging, uitvoering van een wijziging, of de herstelling van een defect van een luchtvaartuig of luchtvaartuigonderdeel of een combinatie van deze werkzaamheden, met uitzondering van direct aan elke vlucht voorafgaande inspectie van het luchtvaartuig of daarmee gelijk te stellen inspecties;  
 
-*onderhoudstechnicus:* houder van een geldig, ingevolge [artikel 3.30 van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) afgegeven bewijs van bevoegdheid betreffende onderhoud van luchtvaartuigen;  
+*onderhoudstechnicus:* houder van een geldig, ingevolge artikel 3.30 van de Wet luchtvaart afgegeven bewijs van bevoegdheid betreffende onderhoud van luchtvaartuigen;  
 
 *revisie:* het weer in goede staat brengen van een luchtvaartuig of luchtvaartuigonderdeel door middel van inspectie en vervanging in overeenstemming met een goedgekeurde norm ter verlenging van de operationele levensduur.   
 
 ###Artikel 1a  
 
-Deze regeling berust op [artikel 1.5 van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en de [artikelen 8, derde lid](../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), [12, derde lid](../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), en [13, onderdeel d, van het Besluit luchtvaartuigen 2008](../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md). 
+Deze regeling berust op artikel 1.5 van de Wet luchtvaart en de artikelen 8, derde lid, 12, derde lid, en 13, onderdeel d, van het Besluit luchtvaartuigen 2008. 
 
 ### Artikel  1b  
 
@@ -47,7 +47,7 @@ d. Nederlandse luchtvaartuigen die onder de werking van de basisverordening vall
 
 e. zweefvliegtechnici voor zover het betreft artikel 7, vierde lid;  
 
-f. Nederlandse luchtvaartuigen, als bedoeld in de [Regeling Yakovlev-52 vliegtuigen](../../../../../ministeriele-regeling/regeling/yakovlev-52/vliegtuigen/BWBR0032948/README.md), die niet onder een AOC vliegen en zijn voorzien van een speciaal-BvL, met uitzondering van de artikelen 2 tot en met 4 en artikel 5, eerste lid.  
+f. Nederlandse luchtvaartuigen, als bedoeld in de Regeling Yakovlev-52 vliegtuigen, die niet onder een AOC vliegen en zijn voorzien van een speciaal-BvL, met uitzondering van de artikelen 2 tot en met 4 en artikel 5, eerste lid.  
 
 ### Paragraaf  2  
 
@@ -68,7 +68,7 @@ f. Nederlandse luchtvaartuigen, als bedoeld in de [Regeling Yakovlev-52 vliegtui
 
 ### Artikel  3  
 
-1.  De houder van een luchtvaartuig heeft de mogelijkheid om een alternatief onderhoudsprogramma op te stellen dat afwijkt van artikel 2, derde en vierde lid, voor vliegtuigen met een maximaal toegelaten startmassa van 5700 kg of minder, helikopters met een maximaal toegelaten startmassa van 2730 kg of minder, ballonnen en zweefvliegtuigen, tenzij daarmee vluchten worden uitgevoerd onder een ontheffing van [artikel 16 van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) voor het vervoer ten behoeve van eigen bedrijf.   
+1.  De houder van een luchtvaartuig heeft de mogelijkheid om een alternatief onderhoudsprogramma op te stellen dat afwijkt van artikel 2, derde en vierde lid, voor vliegtuigen met een maximaal toegelaten startmassa van 5700 kg of minder, helikopters met een maximaal toegelaten startmassa van 2730 kg of minder, ballonnen en zweefvliegtuigen, tenzij daarmee vluchten worden uitgevoerd onder een ontheffing van artikel 16 van de Luchtvaartwet voor het vervoer ten behoeve van eigen bedrijf.   
 2.  De volgens het eerste lid toegestane afwijkingen mogen uitsluitend bestaan uit: 
 
 a.  het overschrijden van een door de houder van het goedgekeurde ontwerp aanbevolen revisie-interval of bedrijfslimiet, indien: 
@@ -169,7 +169,7 @@ b. dat niet-complex onderhoud aan:
 
 2°  helikopters met een maximaal toegelaten startmassa van 2730 kg of minder,  
 
-3°  ballonnen en zweefvliegtuigen,    tenzij daarmee vluchten worden uitgevoerd onder een ontheffing van [artikel 16 van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) voor het vervoer ten behoeve van het eigen bedrijf, mag worden uitgevoerd in Duitsland, Oostenrijk en Zwitserland door onderhoudsbedrijven, erkend overeenkomstig de in deze landen geldende nationale procedures.     
+3°  ballonnen en zweefvliegtuigen,    tenzij daarmee vluchten worden uitgevoerd onder een ontheffing van artikel 16 van de Luchtvaartwet voor het vervoer ten behoeve van het eigen bedrijf, mag worden uitgevoerd in Duitsland, Oostenrijk en Zwitserland door onderhoudsbedrijven, erkend overeenkomstig de in deze landen geldende nationale procedures.     
 2.  De minister kan in afwijking van het eerste lid toestaan, dat buiten Nederland het onderhoud van luchtvaartuigen en onderdelen daarvan wordt uitgevoerd door of onder toezicht van een daartoe door buitenlandse burgerluchtvaartautoriteiten: 
 
 a.  bevoegd verklaarde onderhoudstechnicus, dan wel  
@@ -288,7 +288,7 @@ a.  met betrekking tot het ontwerp:
 
 1º.  het ontwerp en de uitvoering van de wijziging zijn voorbereid door de houder van een ontwerperkenning;  
 
-2º.  met het ontwerp van de wijziging is ingestemd door middel van een aanvullend typecertificaat voor het betreffende type luchtvaartuig als bedoeld in de [Regeling aanvullende typecertificatie luchtwaardigheid](../../../../../ministeriele-regeling/regeling/aanvullende/type-certificatie/luchtwaardigheid/BWBR0025367/README.md);  
+2º.  met het ontwerp van de wijziging is ingestemd door middel van een aanvullend typecertificaat voor het betreffende type luchtvaartuig als bedoeld in de Regeling aanvullende typecertificatie luchtwaardigheid;  
 
 3º.  met het ontwerp van de wijziging is ingestemd als typewijziging voor het betreffende type luchtvaartuig;  
 

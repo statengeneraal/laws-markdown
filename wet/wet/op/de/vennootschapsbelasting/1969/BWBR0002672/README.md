@@ -1494,6 +1494,37 @@ c. het vermogen van de andere rechtsvorm geacht daarin te zijn ingebracht.
 3.  Ingeval met betrekking tot een deelneming een valutaresultaat ten laste van de winst is gekomen, wordt een nadien op de voet van artikel 13d berekend liquidatieverlies met betrekking tot die deelneming slechts in aanmerking genomen voor zover dit verlies het bedrag van de per saldo ten laste van de winst gekomen valutaresultaten uit hoofde van die deelneming te boven gaat.   
 4.  Het eerste lid is niet van toepassing op een positief valutaresultaat als dit resultaat indien het negatief was geweest niet ten laste van de winst gebracht zou kunnen worden.  
 
+### Artikel  28c  
+
+1.  Indien de belastingplichtige een belang heeft in een lichaam waarop de deelnemingsvrijstelling: 
+
+a. op enig moment van toepassing wordt terwijl de deelnemingsvrijstelling tot dat moment niet van toepassing was op dit belang of een gedeelte daarvan (sfeerovergang), wordt door de belastingplichtige een belaste compartimenteringsreserve gevormd;  
+
+b. op enig moment niet meer van toepassing is terwijl de deelnemingsvrijstelling tot dat moment wel van toepassing was op dit belang of een gedeelte daarvan (sfeerovergang), wordt door de belastingplichtige een onbelaste compartimenteringsreserve gevormd.     
+2.  De belaste of onbelaste compartimenteringsreserve, bedoeld in het eerste lid, onderdeel a, onderscheidenlijk in het eerste lid, onderdeel b, wordt gesteld op het verschil tussen de waarde in het economische verkeer van het belang op het tijdstip direct voorafgaande aan een sfeerovergang als bedoeld in het eerste lid en de boekwaarde daarvan. De boekwaarde van het belang wordt op het tijdstip, bedoeld in de eerste volzin, vermeerderd met het bedrag waarvoor een compartimenteringsreserve wordt gevormd.   
+3.  Ingeval de belastingplichtige na een sfeerovergang als bedoeld in het eerste lid een voordeel, een ontvangen winstuitkering daaronder begrepen, uit hoofde van het belang verkrijgt dat toerekenbaar is aan de periode voorafgaande aan de sfeerovergang: 
+
+a. wordt de boekwaarde van het belang verminderd met het bedrag van dat voordeel, dan wel, indien dit lager is, met het bedrag van de belaste of onbelaste compartimenteringsreserve op het tijdstip direct voorafgaande aan het verkrijgen van het voordeel, en  
+
+b. wordt de belaste compartimenteringsreserve tot het bedrag van dat voordeel toegevoegd aan de winst, onderscheidenlijk wordt de onbelaste compartimenteringsreserve verminderd met het bedrag van dat voordeel zonder dat dit tot een toevoeging aan de winst leidt.   Ingeval de toevoeging aan de winst van een belaste compartimenteringsreserve, bedoeld in de eerste volzin, onderdeel b, niet daadwerkelijk in de heffing wordt betrokken, worden die compartimenteringsreserve en de boekwaarde van het belang waarop de compartimenteringsreserve betrekking heeft, vermeerderd met het bedrag van die toevoeging.   
+4.  Op het tijdstip waarop het belang in het lichaam, bedoeld in het eerste lid, geheel of voor een deel niet meer tot het vermogen van de belastingplichtige behoort, wordt, na een sfeerovergang als bedoeld in het eerste lid, onderdeel a, de belaste compartimenteringsreserve geheel of voor het deel dat betrekking heeft op dat deel van dat belang toegevoegd aan de winst en wordt, na een sfeerovergang als bedoeld in het eerste lid, onderdeel b, de onbelaste compartimenteringsreserve geheel of voor het deel dat betrekking heeft op dat deel van dat belang verminderd zonder dat dit tot een toevoeging aan de winst leidt. De eerste volzin vindt mede toepassing bij: 
+
+a. de overgang van vermogen onder algemene titel in het kader van een fusie of een splitsing van het lichaam waarin de belastingplichtige een belang heeft waarop de compartimenteringsreserve betrekking heeft, de inbreng van aandelen in dat lichaam tegen uitreiking van aandelen dan wel een aandelenruil;  
+
+b. een fusie of splitsing waarbij de belastingplichtige ophoudt te bestaan, dan wel de ontbinding van de belastingplichtige en vereffening van het vermogen van de belastingplichtige, of  
+
+c. het aangaan van een fiscale eenheid tussen de belastingplichtige en het lichaam waarop de compartimenteringsreserve betrekking heeft.   Ingeval onderdeel a van toepassing is, kan de toevoeging van een belaste compartimenteringsreserve aan de winst achterwege blijven voor zover het bij de fusie, splitsing, inbreng of aandelenruil verkregen belang in de plaats treedt van het belang waarop die fusie, splitsing, inbreng of aandelenruil betrekking heeft. Na toepassing van de derde volzin valt de belaste compartimenteringsreserve mede geheel of naar evenredigheid vrij op het tijdstip waarop het belang waarop die fusie, splitsing, inbreng of aandelenruil betrekking had, dan wel het belang in de verkrijgende rechtspersoon ingeval het lichaam, bedoeld in het eerste lid, in het kader van de fusie of splitsing is opgehouden te bestaan, geheel of voor een deel, niet meer middellijk of onmiddellijk behoort tot het vermogen van de belastingplichtige.   
+5.  In afwijking van het vierde lid wordt bij ontbinding van een lichaam als bedoeld in het eerste lid, op het tijdstip direct voorafgaande aan het tijdstip waarop de vereffening van dat lichaam is voltooid: 
+
+1°. na een sfeerovergang als bedoeld in het eerste lid, onderdeel a, de belaste compartimenteringsreserve voor het deel dat betrekking heeft op dat lichaam toegevoegd aan de winst, en wordt het voor de aandelen in dat lichaam opgeofferde bedrag, bedoeld in artikel 13d, tweede lid, vermeerderd met het bedrag dat aan de winst wordt toegevoegd, en  
+
+2°. na een sfeerovergang als bedoeld in het eerste lid, onderdeel b, de onbelaste compartimenteringsreserve met het deel dat betrekking heeft op dat lichaam verminderd.     
+6.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld voor het geval waarin de belastingplichtige een belang heeft in een lichaam waarop artikel 13aa: 
+
+a. op enig moment van toepassing wordt terwijl dat artikel tot dat moment niet van toepassing was op dit belang of een gedeelte daarvan, of  
+
+b. op enig moment niet meer van toepassing is terwijl dat artikel tot dat moment wel van toepassing was op dit belang of een gedeelte daarvan.    
+
 ### Artikel  29  
 
 Wij behouden Ons voor bij algemene maatregel van bestuur: 
@@ -1609,6 +1640,21 @@ b. van de beheerder van de beleggingsinstelling, bedoeld in artikel 10bis.5 van 
 
 1.  Met betrekking tot op 31 december 2013 bestaande aanspraken op periodieke uitkeringen ter vervanging van gederfd of te derven loon als bedoeld in de artikelen 11, eerste lid, onderdeel g, en 37 van de Wet op de loonbelasting 1964, zoals die op 31 december 2013 luidden, blijft artikel 23a, tweede lid, zoals dat op 31 december 2013 luidde, met overeenkomstige toepassing van artikel 39f, eerste en tweede lid, van de Wet op de loonbelasting 1964, van toepassing.   
 2.  Met betrekking tot op 31 december 2013 bestaande stamrechtspaarrekeningen en stamrechtbeleggingsrechten als bedoeld in artikel 11a van de Wet op de loonbelasting 1964, zoals dat op 31 december 2013 luidde, blijft artikel 25, vierde lid, zoals dat op 31 december 2013 luidde, met overeenkomstige toepassing van artikel 39f, eerste en tweede lid, van de Wet op de loonbelasting 1964, van toepassing.  
+
+### Artikel  34c  
+
+1.  Indien de belastingplichtige een belang heeft in een lichaam waarop vóór 14 juni 2013 een sfeerovergang als bedoeld in artikel 28c heeft plaatsgevonden, wordt een in dat artikel bedoelde reserve gevormd op het tijdstip direct voorafgaande aan het moment waarop: 
+
+a. de belastingplichtige na 13 juni 2013 voor het eerst een voordeel als bedoeld in artikel 28c, derde lid, verkrijgt;  
+
+b. het belang geheel of gedeeltelijk niet meer tot het vermogen van de belastingplichtige behoort als bedoeld in artikel 28c, vierde lid, of  
+
+c. artikel 28c, vijfde lid, toepassing vindt.     
+2.  Bij toepassing van het eerste lid wordt: 
+
+a. een belaste compartimenteringsreserve als bedoeld artikel 28c, eerste lid, onderdeel a, gesteld op het bedrag, bedoeld in artikel 28c, tweede lid, waarbij die reserve wordt verminderd met voordelen die de belastingplichtige in de periode vanaf het tijdstip van de sfeerovergang, bedoeld in het eerste lid, tot 14 juni 2013 heeft genoten voor zover die voordelen daadwerkelijk in de heffing zijn betrokken;  
+
+b. een onbelaste compartimenteringsreserve als bedoeld in artikel 28c, eerste lid, onderdeel b, gesteld op het bedrag, bedoeld in artikel 28c, tweede lid, waarbij die reserve wordt verminderd met voordelen die de belastingplichtige in de periode vanaf het tijdstip van de sfeerovergang, bedoeld in het eerste lid, tot 14 juni 2013 heeft genoten voor zover die voordelen betrekking hebben op de periode voorafgaand aan de sfeerovergang.   Op het tijdstip, bedoeld in het eerste lid, wordt de boekwaarde van het belang vermeerderd met het bedrag waarvoor de reserve wordt gevormd.  
 
 ### Artikel  35  
 

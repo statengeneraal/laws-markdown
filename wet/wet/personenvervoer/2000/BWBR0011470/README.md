@@ -857,7 +857,7 @@ Vervallen per 01-01-2013
 
 ### Hoofdstuk  IV  
 
-####Bepalingen voor de reiziger
+####Bepalingen voor gebruikers van voorzieningen van het openbaar vervoer
 
 ### Artikel  70  
 
@@ -1215,10 +1215,11 @@ Onverminderd artikel 12b, tweede lid, van de Instellingswet Autoriteit Consument
 
 ### Artikel  98  
 
-1.  Indien de reiziger handelt in strijd met de artikelen 70 tot en met 74 zijn de in de artikelen 87 en 89 bedoelde ambtenaren en personen bevoegd zijn vervoerbewijs in te trekken en hem zo nodig met behulp van de sterke arm het gebruik van het gehele openbaar vervoer te ontzeggen.   
-2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de duur van een ontzegging als bedoeld in het eerste lid.   
-3.  Het is verboden in strijd te handelen met een op grond van het eerste lid opgelegde ontzegging.  
-4.  De in de artikelen 87 en 89 bedoelde ambtenaren en personen zijn bevoegd bij vermoeden van een ten aanzien van handbagage gepleegde overtreding van het in artikel 72 bepaalde, zich in tegenwoordigheid van de reiziger van aard en inhoud daarvan te overtuigen en onbevoegd meegenomen handbagage uit de vervoermiddelen te weren of verwijderen.  
+1.  Indien de reiziger handelt in strijd met de artikelen 70 tot en met 73 en de krachtens artikel 74 gestelde regels zijn de in de artikelen 87 en 89 bedoelde ambtenaren en personen bevoegd zijn vervoerbewijs in te trekken en hem zo nodig met behulp van de sterke arm het gebruik van het gehele openbaar vervoer te ontzeggen.   
+2.  Indien degene die zich bevindt in of in de onmiddellijke nabijheid van een station, halteplaats of een andere bij het openbaar vervoer behorende voorziening of daarbij behorende locatie als bedoeld in artikel 72, in strijd handelt met de artikelen 72, 73 of de krachtens artikel 74 gestelde regels, zijn de in artikel 89 bedoelde ambtenaren en personen bevoegd deze persoon zo nodig met behulp van de sterke arm de toegang tot een station, halteplaats of een andere bij het openbaar vervoer behorende voorziening of de daarbij behorende locatie als bedoeld in artikel 72, te ontzeggen.  
+3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de duur van een ontzegging als bedoeld in het eerste lid of het tweede lid.   
+4.  Het is verboden in strijd te handelen met een op grond van het eerste lid of het tweede lid opgelegde ontzegging.  
+5.  De in de artikelen 87 en 89 bedoelde ambtenaren en personen zijn bevoegd bij vermoeden van een ten aanzien van handbagage gepleegde overtreding van het in artikel 72 bepaalde, zich in tegenwoordigheid van de reiziger van aard en inhoud daarvan te overtuigen en onbevoegd meegenomen handbagage uit de vervoermiddelen te weren of verwijderen.  
 
 ### Artikel  99  
 
@@ -1238,7 +1239,7 @@ c. in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevorde
 
 ### Artikel  101  
 
-1.  Niet naleving van de artikelen 70 tot en met 73 en 98, derde lid, alsmede – voor zover aangeduid als strafbare feiten – het bepaalde krachtens artikel 74, tweede lid, is een overtreding en wordt gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.   
+1.  Niet naleving van de artikelen 70 tot en met 73 en artikel 98, vierde lid, alsmede – voor zover aangeduid als strafbare feiten – het bepaalde krachtens artikel 74, tweede lid, is een overtreding en wordt gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.   
 2.  Indien de reiziger ten aanzien van wie door een ambtenaar of persoon, bedoeld in de artikelen 87 en 89, is vastgesteld dat hij in strijd handelt met de artikelen 70 of 71, niet voldoet aan de verplichting, bedoeld in artikel 92, worden de in het eerste lid bedoelde straffen verhoogd tot een hechtenis van ten hoogste vier maanden, onderscheidenlijk een geldboete van de derde categorie.  
 
 ### Artikel  102  

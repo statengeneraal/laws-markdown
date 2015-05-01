@@ -277,6 +277,10 @@ b. zij, onverminderd de artikelen 12, bij binnenkomst in de Europese Unie overee
 2.  Levende pollen en voor opplant bestemde planten, met uitzondering van zaden, van Actinidia Lindl. van oorsprong uit derde landen, mogen slechts in de Europese Unie worden binnengebracht als zij voldoen aan de specifieke invoervoorschriften van bijlage I van uitvoeringsbesluit 2012/756/EU.   
 3.  Levende pollen en voor opplant bestemde planten, met uitzondering van zaden, van Actinidia Lindl. mogen slechts binnen de Europese Unie worden vervoerd als zij voldoen aan de voorwaarden van bijlage II van uitvoeringsbesluit 2012/756/EU.  
 
+### Artikel  12n  
+
+Vruchten van Citrus L., Fortunella Swingle, Poncirus Raf. en de hybriden daarvan van oorsprong uit Brazilië mogen slechts in de Europese Unie worden binnengebracht indien zij voldoen aan de voorschriften van de bijlage bij Beschikking 2004/416/EG van de Commissie van 29 april 2004 inzake noodmaatregelen ten aanzien van bepaalde citrusvruchten van oorsprong uit Brazilië (PbEU 2004, L 151), zoals deze laatstelijk gewijzigd is bij Uitvoeringsbesluit 2013/67/EU van de Commissie van 29 januari 2013 tot wijziging van Beschikking 2004/416/EG inzake tijdelijke noodmaatregelen ten aanzien van bepaalde citrusvruchten van oorsprong uit Brazilië (PbEU 2013, L 31). 
+
 ### Artikel  12o  
 
 1.  Voor de toepassing van dit artikel wordt verstaan onder: 
@@ -435,7 +439,7 @@ De Regeling invoer, uitvoer en vervoer van planten wordt ingetrokken.
 1.  Deze regeling treedt in werking met ingang van 1 juni 1993.   
 2.  Artikel 12o vervalt met ingang van 1 april 2017.   
 3.  Artikel 12m vervalt met ingang van 1 april 2016.   
-4.  Artikel 12n vervalt met ingang van 1 april 2015.  
+4.  Vervallen. 
 5.  Artikel 12p vervalt met ingang van 1 november 2015.  
 6.  Met ingang van 1 december 2016 vervallen artikel 12f, derde en zesde lid, onder vernummering van artikel 12f, vierde tot en met vijfde lid, tot derde tot en met vierde lid en artikel 12f, zevende tot en met elfde lid, tot vijfde tot en met negende lid. 
 7. Artikel 12q vervalt met ingang van 1 januari 2016. 

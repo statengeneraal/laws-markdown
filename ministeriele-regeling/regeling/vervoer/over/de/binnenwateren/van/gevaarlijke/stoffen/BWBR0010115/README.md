@@ -3,7 +3,7 @@
 ##Regeling vervoer over de binnenwateren van gevaarlijke stoffen
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 26, eerste lid, van de Wet vervoer gevaarlijke stoffen](../../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), en op de [artikelen 2](../../../../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/BWBR0008080/README.md) en [5, derde lid, van het Besluit vervoer gevaarlijke stoffen](../../../../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/BWBR0008080/README.md);
+Gelet op artikel 26, eerste lid, van de Wet vervoer gevaarlijke stoffen, en op de artikelen 2 en 5, derde lid, van het Besluit vervoer gevaarlijke stoffen;
 Besluit:     
 
 ### Artikel  1  
@@ -18,7 +18,7 @@ b.*bevoegde autoriteit:*
 
 2°. een in bijlage 4 bij deze regeling erkende instantie, of  
 
-3°. een met toepassing van de [Regeling erkende instanties vervoer gevaarlijke stoffen](../../../../../../../../../../ministeriele-regeling/regeling/erkende/instanties/vervoer/gevaarlijke/stoffen/BWBR0026901/README.md) erkende instantie;  
+3°. een met toepassing van de Regeling erkende instanties vervoer gevaarlijke stoffen erkende instantie;  
 
 c.*ADN:* Accord Européen relatif au Transport International des Marchandises Dangereuses par voie de Navigation (ADN).   
 2.  De in bijlage 1 opgenomen begripsbepalingen zijn van toepassing op de bijlagen 2, 3 en 4, voor zover daarin niet anders is bepaald. 
@@ -35,15 +35,15 @@ c. bijlage 3: voorschriften in aanvulling op bijlage 1;
 
 d. bijlage 4: erkende instanties, bedoeld in artikel 1, eerste lid, onderdeel b, 2°.     
 2.  Bijlage 1 is van toepassing op de binnenwateren, voor zover bijlage 2 niet van toepassing is.   
-3.  De bijlagen 1 en 2 zijn niet van toepassing op handelingen, genoemd in [artikel 3B.1, eerste lid, van het Vuurwerkbesluit](../../../../../../../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md). 
+3.  De bijlagen 1 en 2 zijn niet van toepassing op handelingen, genoemd in artikel 3B.1, eerste lid, van het Vuurwerkbesluit. 
 
 ### Artikel  3  
 
-Met voorwaardelijk tot het vervoer over de binnenwateren toegelaten gevaarlijke stoffen als bedoeld in bijlage 1 mogen de handelingen, bedoeld in [artikel 2 van het Besluit vervoer gevaarlijke stoffen](../../../../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/BWBR0008080/README.md), worden verricht, mits de in deze regeling gestelde voorschriften in acht worden genomen. 
+Met voorwaardelijk tot het vervoer over de binnenwateren toegelaten gevaarlijke stoffen als bedoeld in bijlage 1 mogen de handelingen, bedoeld in artikel 2 van het Besluit vervoer gevaarlijke stoffen, worden verricht, mits de in deze regeling gestelde voorschriften in acht worden genomen. 
 
 ### Artikel  5  
 
-1.  Met de in de bij deze regeling behorende bijlagen 1 tot en met 3 vastgestelde technische normen of technische eisen worden gelijkgesteld daaraan gelijkwaardige technische normen of technische eisen, vastgesteld door of vanwege een andere lid-staat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.   
+1.  Met de in de bij deze regeling behorende bijlagen 1 tot en met 3 vastgestelde technische normen of technische eisen worden gelijkgesteld daaraan gelijkwaardige technische normen of technische eisen, vastgesteld door of vanwege een andere lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.   
 2.  Met de in de bij deze regeling behorende bijlagen 1 tot en met 3 geëiste typegoedkeuringen worden gelijkgesteld daaraan gelijkwaardige typegoedkeuringen, geëist door of vanwege een andere lid-staat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.  
 
 ### Artikel  7  
@@ -63,13 +63,13 @@ T. Netelenbos
 
 ####als bedoeld in de artikelen 2, eerste lid, onderdeel a , en 3  van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen
 
-Ligt ter inzage bij het Ministerie van Infrastructuur en Milieu.
+Deze bijlage behoort bij de Regeling van 29 april 2015 tot wijziging van de Regeling erkende instanties vervoer gevaarlijke stoffen, de Regeling vervoer over de binnenwateren van gevaarlijke stoffen, de Regeling vervoer over de spoorweg van gevaarlijke stoffen en de Regeling vervoer over land van gevaarlijke stoffen in verband met de tweejaarlijkse revisie van internationale voorschriften inzake het vervoer van gevaarlijke stoffen en enkele andere wijzigingen.
 
 ###Bijlage 2 
 
 ####Regeling vervoer gevaarlijke stoffen met zeeschepen
 
-[Regeling vervoer gevaarlijke stoffen met zeeschepen](../../../../../../../../../../ministeriele-regeling/regeling/vervoer/gevaarlijke/stoffen/met/zeeschepen/BWBR0025770/README.md)
+Regeling vervoer gevaarlijke stoffen met zeeschepen
 
 ### Bijlage 3  
 
@@ -90,7 +90,7 @@ De bepalingen van deze bijlage zijn van toepassing op vervoer van gevaarlijke st
 
 ### Artikel  2  
 
-In aanvulling op randnummer 7.2.4.25.5 van bijlage 1 vindt het bij het laden naar buiten treden van de gas/luchtmengsels van de stoffen aan de walzijde op een zodanige locatie ten opzichte van het schip plaats en wordt zo uitgevoerd, dat geen gevaar of schade kan ontstaan voor de schepen en de bemanning ervan. De opening naar de atmosfeer is voorzien van een inrichting die vlaminslag voorkomt. 
+Vervallen. 
 
 ### Artikel 3  
 
@@ -107,16 +107,16 @@ c.  vervoer uitsluitend tussen de Volkeraksluizen en Amsterdam, mits het betrokk
 
 ### Artikel 4  
 
-####[Binnenvaartpolitiereglement](../../../../../../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md)
+####Binnenvaartpolitiereglement
 
-Op het vervoer van gevaarlijke stoffen op de Westerschelde en haar mondingen, op het Kanaal van Gent naar Terneuzen en in de buitenvoorhavens te Terneuzen, op de Eems en op de Dollard zijn de voorschriften bij of krachtens de [artikelen 3.14](../../../../../../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md), [3.21](../../../../../../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md), [3.32](../../../../../../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md), [4.04](../../../../../../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) en [6.28, negende en tiende lid van het Binnenvaartpolitiereglement](../../../../../../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) van overeenkomstige toepassing.  
+Op het vervoer van gevaarlijke stoffen op de Westerschelde en haar mondingen, op het Kanaal van Gent naar Terneuzen en in de buitenvoorhavens te Terneuzen, op de Eems en op de Dollard zijn de voorschriften bij of krachtens de artikelen 3.14, 3.21, 3.32, 4.04 en 6.28, negende en tiende lid van het Binnenvaartpolitiereglement van overeenkomstige toepassing.  
 
 ### Artikel  5  
 
 ####Beperkingen vervoer met duwstellen rn. 7.1.5.1.1 en 7.1.5.1.2
 
-1.  Duwstellen, waarvan de afmetingen 195 • 24 meter overschrijden, mogen geen tankschepen bevatten, die gevaarlijke goederen vervoeren of niet ontgast zijn.   
-2.  Stoffen of voorwerpen, bedoeld in randnummer 7.1.5.1.2 van bijlage 1 mogen slechts dan met duwstellen of gekoppelde samenstellen worden vervoerd indien de afmetingen ervan niet groter zijn dan 195 • 24 meter. Tijdelijk voorspan is echter toegestaan.  
+1.  Duwstellen, waarvan de afmetingen 195 bij 24 meter overschrijden, mogen geen tankschepen bevatten, die gevaarlijke goederen vervoeren of niet ontgast zijn.   
+2.  Stoffen of voorwerpen, bedoeld in randnummer 7.1.5.1.2 van bijlage 1 mogen slechts dan met duwstellen of gekoppelde samenstellen worden vervoerd indien de afmetingen ervan niet groter zijn dan 195 bij 24 meter. Tijdelijk voorspan is echter toegestaan.  
 
 ### Artikel  6  
 
@@ -128,7 +128,7 @@ De werkgever bewaart de dossiers, bedoeld in randnummers 1.3.3 en 1.10.2.4 van b
 
 ####Vervoerdocument
 
-In geval het vervoer van gevaarlijke stoffen uitsluitend binnen Nederland plaatsvindt, is het toegestaan dat de voorgeschreven aanduidingen van het in randnummer 5.4.1.4 van bijlage 1 bedoelde vervoerdocument uitsluitend zijn gesteld in de Nederlandse taal. 
+In geval het vervoer van gevaarlijke stoffen uitsluitend binnen Nederland plaatsvindt, is het toegestaan dat de documenten die op basis van het ADN verplicht aan boord moeten worden meegevoerd, uitsluitend zijn gesteld in de Nederlandse taal. 
 
 ### Artikel  8  
 
@@ -146,10 +146,12 @@ De voorschriften onder randnummer 1.8.3 van bijlage 1 zijn niet van toepassing o
 
 In de onderstaande tabel zijn de erkende instanties opgenomen met betrekking tot de uitvoering van de voorschriften in de vermelde randnummers van bijlage 1 voor zover bedoelde handelingen worden uitgevoerd door Nederlandse instanties.  Tabel 1 
 
-| ADN-randnummer  | Bevoegde autoriteit  |
+| Randnummer  | Instanties  |
 |:---|:---|
 | 1.2.1 Monstername  | ILT  |
 | 1.2.1 Erkende veilige elektrische inrichting  | ILT  |
+| 1.2.1 Onderzoeksinstantie  | ILT  |
+| 1.3.3 Documentatie  | ILT  |
 | 1.2.1 Openingsdruk  | ILT  |
 | 1.5.3.1; 1.5.3.2; 1.6.7.2.2  | ILT  |
 | 1.8.1.1; 1.8.1.2  | ILT  |
@@ -159,39 +161,55 @@ In de onderstaande tabel zijn de erkende instanties opgenomen met betrekking tot
 | 1.10.1.6  | CBR  |
 | 1.10.2.4, eerste volzin  | ILT  |
 | 1.10.3.2.2, Opmerking  | politie  |
+| 1.16.1.3  | ILT  |
+| 1.16.1.4.3  | ILT  |
 | 1.16.2  | ILT  |
+| 1.16.3  | ILT  |
+| 1.16.5  | ILT  |
+| 1.16.6  | ILT  |
+| 1.16.10  | ILT  |
+| 1.16.11  | ILT  |
+| 1.16.13  | ILT  |
+| 1.16.14  | ILT  |
+| 1.16.15  | ILT  |
 | 2.2.1.1, voor zover het betreft de autoriteit in het Handboek beproevingen en criteria  | TNO  |
-| 2.2.1.1.3; 2.2.1.3; Opmerking bij UN-nummer 0190  | TNO of Defensie, laatstgenoemde voor zover het betreft classificatie van uitsluitend voor de krijgsmacht bestemde munitie en toelating van de verpakking ervan  |
-| 2.2.1.1.7.2  | ILT  |
-| 2.2.41.1, voor zover het betreft de autoriteit in het Handboek beproevingen en criteria  2.2.41.13  2.2.51.1, voor zover het betreft de autoriteit in het Handboek beproevingen en criteria  2.2.52.1.8  | TNO  |
-| 2.2.62.1.9, opmerking, 2.2.62.1.12  | EZ of VWS  |
-| 2.2.9.1.11, opmerking 3  | EZ  |
-| 3.2.3, kolom 20, aantekening 12, onder p) en q)  | ILT  |
-| 3.2.3, kolom 20, aantekening 28, onder b)  | In havens: havenmeester  Buiten havens: HID-RWS  |
+| 2.2.1.1.3; Opmerking bij UN-nummer 0190  | TNO of Defensie, laatstgenoemde voor zover het betreft classificatie van uitsluitend voor de krijgsmacht bestemde munitie en toelating van de verpakking ervan  |
+| 2.2.1.1.7.2  | TNO  |
+| 2.2.41.1, voor zover het betreft de autoriteit in het Handboek beproevingen en criteria, 2.2.41.13  | TNO  |
+| 2.2.51.1, voor zover het betreft de autoriteit in het Handboek beproevingen en criteria  | TNO  |
+| 2.2.52.1.8  | TNO  |
+| 2.2.62.1.9, Opmerking; 2.2.62.1.12  | EZ of VWS  |
+| 2.2.9.1.7  | ILT  |
+| 2.2.9.1.11, Opmerking 2 en 3  | Minister  |
+| 3.2.3.1, kolom 20, Extra eisen of Aantekeningen 12 p) en 12 q)  | ILT  |
+| 3.2.3.1, kolom 20, Extra eisen of Aantekeningen 28 b)  | In havens: havenmeester  Buiten havens: HID-RWS  |
 | 3.3.1, bijzondere bepaling 16 en 178  | TNO of Defensie, laatstgenoemde voor zover het betreft classificatie van uitsluitend voor de krijgsmacht bestemde munitie en toelating van de verpakking ervan  |
-| 3.3.1, bijzondere bepaling 181, 237, 266, 271, 272 en 278  | TNO  |
+| 3.3.1, bijzondere bepaling 181 en 237  | TNO  |
 | 3.3.1, bijzondere bepaling 239  | ILT  |
+| 3.3.1, bijzondere bepaling 266, 271, 272 en 278  | TNO  |
+| 3.3.1, bijzondere bepaling 283  | ILT  |
 | 3.3.1, bijzondere bepaling 288, 309 en 311  | TNO  |
 | 3.3.1, bijzondere bepaling 356  | ILT  |
 | 3.3.1, bijzondere bepaling 364  | TNO  |
+| 3.3.1, bijzondere bepaling 636, Opmerking  | ILT  |
 | 3.3.1, bijzondere bepaling 637  | Minister  |
 | 3.3.1, bijzondere bepaling 645  | TNO  |
 | 3.3.1, bijzondere bepaling 661  | ILT  |
 | 5.2.2.1.9, 5.4.1.2.1  | TNO  |
-| 7.1.4.3.5  | EZ  |
-| 7.1.4.3.6  | EZ  |
 | 7.1.4.7  | In havens: havenmeester  Buiten havens: HID-RWS  |
+| 7.1.4.77  | ILT  |
 | 7.1.4.8  | In havens: havenmeester  Buiten havens: HID-RWS  |
 | 7.1.4.9  | ILT  |
-| 7.1.4.14.7.3.2; 7.1.4.14.7.3.7; 7.1.4.14.7.5.1;  7.1.4.14.7.6.2;  7.1.4.14.7.7  | EZ  |
 | 7.1.4.16  | ILT  |
 | 7.1.5.1  | ILT  |
 | 7.1.5.4.2  | In havens: havenmeester  Buiten havens: HID-RWS  |
 | 7.1.5.4.3; 7.1.5.4.4; 7.1.5.5; 7.1.6.14 voor HA03  | In havens: havenmeester  Buiten havens: HID-RWS  |
 | 7.2.2.6  | ILT  |
 | 7.2.3.7.1; 7.2.3.7.3  | In havens: havenmeester  Buiten havens: HID-RWS  |
-| 7.2.4.2  | Voor 7.2.4.2.1: ILT  Voor 7.2.4.2.2 en 7.2.4.2.3:  In havens: havenmeester  Buiten havens: HID-RWS  |
+| 7.2.4.2.1  | ILT  |
+| 7.2.4.2.2  | In havens: havenmeester  Buiten havens: HID-RWS  |
 | 7.2.4.7.1  | In havens: havenmeester  Buiten havens HID-RWS  |
+| 7.2.4.77  | ILT  |
 | 7.2.4.9; 7.2.4.10.1  | ILT  |
 | 7.2.3.7.2; 7.2.4.24; 7.2.5.4.2; 7.2.5.4.3; 7.2.5.4.4; 7.2.5.1  | In havens: havenmeester  Buiten havens: HID-RWS  |
 | 8.1.2.6; 8.1.2.7; 8.1.6.1; 8.1.6.2; 8.1.6.3; 8.1.7; 8.1.8.3; 8.1.8.7; 8.1.8.8; 8.1.8.9; 8.1.9.1  | ILT  |
@@ -201,9 +219,9 @@ In de onderstaande tabel zijn de erkende instanties opgenomen met betrekking tot
 | 8.3.5  | ILT  |
 | 8.6.3  | ILT  |
 | 9.1.0.40.2.7; 9.2.0.94.4  | ILT  |
-| 9.3.1.50.2;  | ILT  |
-| 9.3.2.12.7; 9.3.2.23.5; 9.3.2.50.2; 9.3.3.12.7;  | ILT  |
-| 9.3.3.23.5; 9.3.3.50.2  | ILT  |
+| 9.3.1.50.2  | ILT  |
+| 9.3.2.12.7; 9.3.2.23.5; 9.3.2.50.2  | ILT  |
+| 9.3.3.12.7; 9.3.3.23.5; 9.3.3.50.2  | ILT  |
 | 9.3.4.1.4; 9.3.4.1.5  | ILT  |
 
 ### Artikel  2  
@@ -222,7 +240,7 @@ In de onderstaande tabel zijn de erkende instanties opgenomen met betrekking tot
 
 *ILT:* Minister, namens deze de Inspecteur-Generaal Leefomgeving en Transport;  
 
-*politie:* het landelijke politiekorps, bedoeld in [artikel 25, eerste lid, van de Politiewet 2012](../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
+*politie:* het landelijke politiekorps, bedoeld in artikel 25, eerste lid, van de Politiewet 2012;  
 
 *TNO:* Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek;  
 

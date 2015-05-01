@@ -12,11 +12,9 @@ Besluit:
 
 1°. Minister,  
 
-2°. een in bijlage 3 bij deze regeling erkende instantie,  
+2°. een in bijlage 3 bij deze regeling erkende instantie, of  
 
-3°. een met toepassing van de Regeling erkende instanties vervoer gevaarlijke stoffen erkende instantie, of  
-
-4°. voor radioactieve stoffen: Minister van Economische Zaken, Landbouw en Innovatie in overeenstemming met de Minister;      c. COTIF:   Convention relative aux transports internationaux ferroviaires;    d. richtlijn nr. 2008/68/EG:   richtlijn nr. 2008/68/EG van het Europees Parlement en de Raad van de Europese Unie van 24 september 2008 betreffende het vervoer van gevaarlijke goederen over land (PbEU L 260).    
+3°. een met toepassing van de Regeling erkende instanties vervoer gevaarlijke stoffen erkende instantie.      c. COTIF:   Convention relative aux transports internationaux ferroviaires;    d. richtlijn nr. 2008/68/EG:   richtlijn nr. 2008/68/EG van het Europees Parlement en de Raad van de Europese Unie van 24 september 2008 betreffende het vervoer van gevaarlijke goederen over land (PbEU L 260).    
 2.  De in bijlage 1 opgenomen begripsbepalingen zijn van toepassing op de bijlagen 2 en 3 voorzover daarin niet anders is bepaald.  
 
 ### Artikel  2  
@@ -64,7 +62,7 @@ T. Netelenbos
 
 ####als bedoeld in de artikelen 2, onderdeel a , en 3  van de Regeling vervoer over de spoorweg van gevaarlijke stoffen
 
-Ligt ter inzage bij het Ministerie van Infrastructuur en Milieu.
+Deze bijlage behoort bij de Regeling van 29 april 2015 tot wijziging van de Regeling erkende instanties vervoer gevaarlijke stoffen, de Regeling vervoer over de binnenwateren van gevaarlijke stoffen, de Regeling vervoer over de spoorweg van gevaarlijke stoffen en de Regeling vervoer over land van gevaarlijke stoffen in verband met de tweejaarlijkse revisie van internationale voorschriften inzake het vervoer van gevaarlijke stoffen en enkele andere wijzigingen.
 
 ### Bijlage 2 
 
@@ -178,39 +176,9 @@ a. Stoffen of voorwerpen van klasse 1 worden zo spoedig mogelijk, doch binnen ac
 
 b. Indien een zending van stoffen of voorwerpen van klasse 1 acht uur na het ter lossing gereed staan op de losplaats nog niet is weggevoerd, dan wel in zodanig toestand verkeert, dat verder vervoer gevaarlijk wordt geacht, wordt de zending onmiddellijk ter beschikking gesteld van de burgemeester ter plaatse, opdat deze de naar zijn oordeel voor de openbare veiligheid nodig geachte maatregelen kan treffen.   6. De voorschriften van deze NE-bepaling zijn niet van toepassing op zendingen die krachtens randnummer 7.6 van bijlage 1 als expresgoed worden vervoerd. 
 
-####*1.9.5.3 NE Fysieke beveiliging van kernmateriaal van klasse 7*
+####*1.9.5.3 NE*
 
-1. Onder ‘laten staan’ wordt in dit randnummer verstaan: het feitelijk aanwezig zijn van een wagen of wagens in stilstand op een spoorweg buiten de inrichting van de afzender of geadresseerde, nadat het rangeerproces op het desbetreffende rangeeremplacement is afgesloten.  
-
-2. Voor het vervoer van kernmateriaal van categorie I volgens de Bijlage II bij het Verdrag inzake de fysieke beveiliging van kernmateriaal (Trb. 1981, 7) gelden de volgende voorschriften: 
-
-a. het materiaal wordt vervoerd in door de afzender afgesloten en verzegelde wagens, containers of colli;  
-
-b. de onder a. bedoelde zendingen worden vervoerd met speciaal voor het vervoer van deze goederen bestemde goederentreinen;  
-
-c. het krachtvoertuig dat de wagens, bedoeld onder a, trekt, beschikt over een telecommunicatievoorziening, waarmee direct contact kan worden gelegd met de Centrale Meldkamer van de dienst Spoorwegpolitie van de Landelijke eenheid;  
-
-d. bij een zending uit het buitenland overtuigt de vervoerder op het station waar de zending van de buitenlandse vervoerder wordt overgenomen, zich ervan dat de transportvergunning bij de zending aanwezig is;  
-
-e. de vervoerder organiseert het vervoer zodanig, dat een oponthoud langer dan drie uur niet voorkomt. Indien door onvoorziene omstandigheden een dergelijk oponthoud ontstaat, informeert de vervoerder de Centrale Meldkamer van de dienst Spoorwegpolitie van de Landelijke eenheid, onder vermelding van het transportvergunningnummer;  
-
-f. het vervoer geschiedt onder begeleiding van de dienst Spoorwegpolitie van de Landelijke eenheid;  
-
-g. de vervoerder treft die voorzieningen die nodig zijn om het transport zo spoedig mogelijk uit te voeren. In ieder geval zijn reservemateriaal en -⁠personeel beschikbaar;  
-
-h. de vervoerder geeft van de aankomst van een zending op het station van bestemming onverwijld kennis aan geadresseerde. De geadresseerde meldt de aankomst aan het vergunningverlenend gezag;  
-
-i. de zending wordt zo spoedig mogelijk, doch binnen acht uur nadat de wagens met deze zending gereed zijn gesteld op de losplaatsen (binnen of buiten het stationsterrein gelegen), gelost en afgevoerd;  
-
-j. de transportvergunninghouder en de vervoerder zien erop toe dat de gegevens over het transport slechts bekend zijn bij degenen die rechtstreeks bij het vervoer betrokken zijn;  
-
-k. De transportvergunninghouder informeert alle betrokken vervoerders over het transport.    
-
-3. Voor het vervoer van kernmateriaal van categorie II en III volgens de Bijlage II bij het Verdrag inzake de fysieke beveiliging van kernmateriaal gelden de volgende voorschriften: 
-
-a. de onderdelen a, c, d, g, h, i, j en k, van het tweede lid, zijn van overeenkomstige toepassing;  
-
-b. Het laten staan van wagens met de in het tweede lid, onderdeel a, genoemde zendingen is toegestaan indien deze wagens onder voortdurend toezicht staan. Indien de toestand van laten staan langer duurt dan acht uur, informeert de vervoerder de Centrale Meldkamer van de dienst Spoorwegpolitie van de Landelijke eenheid, onder vermelding van het transportvergunningnummer.     
+Vervallen. 
 
 ####*1.9.5.4 NE Melding, toezicht en afwikkeling van het vervoer van UN 1017 chloor*
 
@@ -242,7 +210,7 @@ k. het vervoer vindt, indien mogelijk, plaats op een tijdstip waarop zo weinig m
 
 ####*4.3.3.4.3 NE Controlemaatregelen na het beladen van tankcontainers met gassen van klasse 2*
 
-a. De afzender controleert na het vullen van reservoirs met vloeibaar gemaakte, sterk gekoelde vloeibaar gemaakte of onder druk opgeloste gassen van klasse 2, door weging van de tankcontainer of de voorgeschreven vullingsgraad van het reservoir niet is overschreden.  
+a. De vuller controleert na het vullen van reservoirs met vloeibaar gemaakte, sterk gekoelde vloeibaar gemaakte of onder druk opgeloste gassen van klasse 2, door weging van de tankcontainer of de voorgeschreven vullingsgraad van het reservoir niet is overschreden.  
 
 b. De overdruk in de gasfase is niet meer dan 100 kPa (1 bar) hoger dan de waarde van de dampdruk (absolute druk) van het vloeibaar gemaakte gas bij de temperatuur van de vloeistoffase.  
 
@@ -255,10 +223,6 @@ Indien de opschriften, bedoeld in randnummer 5.2.1.5 van bijlage 1, gesteld zijn
 ####*5.4.1.4.1 N Aanduidingen in de vrachtbrief*
 
 Het is toegestaan dat de in randnummer 5.4.1.4.1 van bijlage 1 voorgeschreven aanduidingen in de vrachtbrief uitsluitend in de Nederlandse taal zijn gesteld. 
-
-####*7.5.1.4 NE Wijze van verzending van goederen van klasse 1*
-
-Behoudens de stoffen en voorwerpen als bedoeld in randnummer 7.6 van bijlage 1 die als expresgoed mogen worden vervoerd, worden de stoffen en voorwerpen van klasse 1 uitsluitend als wagenlading of gesloten lading vervoerd. 
 
 ### Bijlage 3 
 
@@ -276,50 +240,55 @@ Behoudens de stoffen en voorwerpen als bedoeld in randnummer 7.6 van bijlage 1 d
 |:---|:---|
 | 1.1.3.1 d)  | brandweer of politie  |
 | 1.3.3, eerste volzin  | ILT  |
-|1.7.4 |E Z |
+| 1.5.1.1  | Minister  |
+| 1.8.1.1, 1.8.1.2, 1.8.1.3, 1.8.1.4  | ILT  |
+| 1.8.2.2, 1.8.2.3  | ILT  |
+| 1.8.3.5  | ILT  |
 | 1.8.3.7, 1.8.3.8, 1.8.3.10, 1.8.3.14, 1.8.3.16  | CBR  |
+| 1.8.5.1  | ILT  |
+| 1.9.4  | Minister  |
 | 1.10.2.4, eerste volzin  | ILT  |
 | 1.10.3.2.2, Opmerking  | politie  |
-| 2.2.1.1, voor zover het betreft de autoriteit, genoemd in het Handboek beproevingen en criteria  | TNO  |
+| 2.2.1.1, voor zover het betreft de autoriteit, genoemd in  het Handboek beproevingen en criteria  | TNO  |
 | 2.2.1.1.3  | TNO of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
-| 2.2.1.1.7.2  | ILT  |
+| 2.2.1.1.7.2  | TNO  |
 | 2.2.1.1.8.1 en 2.2.1.1.8.2  | TNO  |
 | 2.2.1.3, Opmerking bij UN-nummer 0190  | TNO of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
-| 2.2.41.1, voor zover het betreft de autoriteit, genoemd in het Handboek beproevingen en criteria, 2.2.41.1.13  2.2.51.1, voor zover het betreft de autoriteit, genoemd in het Handboek beproevingen en criteria, 2.2.52.1.8  | TNO  |
+| 2.2.41.1, voor zover het betreft de autoriteit, genoemd in Het Handboek beproevingen en criteria, 2.2.41.1.13  2.2.51.1, voor zover het betreft de autoriteit, genoemd in het Handboek beproevingen en criteria, 2.2.52.1.8  | TNO  |
 | 2.2.62.1.9, Opmerking, 2.2.62.1.12  | EZ of VWS  |
+| 2.2.9.1.7  | ILT  |
+| 2.2.9.1.11, Opmerking 2 en 3  | Minister  |
+| --- | --- |
 | 3.3.1, bijzondere bepalingen 16 en 178  | TNO of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
 | 3.3.1, bijzondere bepalingen 181, 237, 266, 271, 272 en 278  | TNO  |
 | 3.3.1, bijzondere bepaling 239 en 356  | ILT  |
 | 3.3.1, bijzondere bepalingen 288, 309, 311 en 364  | TNO  |
+| 3.3.1, bijzondere bepaling 376 en 636, Opmerking  | ILT  |
 | 3.3.1, bijzondere bepaling 637  | Minister  |
 | 3.3.1, bijzondere bepaling 645  | TNO  |
-| 3.3.1, bijzondere bepaling 661  | ILT  |
 | 4.1.1.15  | ILT  |
-| 4.1.4.1, P099, P200 (9)  | ILT  |
+| 4.1.4.1, P099, P200 (9), (10) v  | ILT  |
 | 4.1.4.1, P101  | TNO of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
 | 4.1.4.1, P405 (2) b)  | TNO of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
 | 4.1.4.1, P620, P650  | EZ of VWS  |
-| 4.1.4.2, IBC99  | ILT  |
-| 4.1.4.2, IBC520  | TNO  |
-| 4.1.4.3, LP99  | ILT  |
+| 4.1.4.2, IBC520, IBC02, B16  | TNO  |
 | 4.1.5.15, 4.1.5.18  | TNO of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
 | 4.1.7.2.2  | TNO  |
 | 4.1.8.7  | EZ of VWS  |
 | 4.1.10.4, MP21  | TNO of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
 | 4.2.1.13.1, 4.2.1.13.3  | TNO  |
+| 4.2.5.3, TP9  | TNO  |
 | 4.3.5, TU39  | TNO  |
-|5.1.5.1.3, 5.1.5.1.4, 5.1.5.2.1 |E Z |
 | 5.2.2.1.9  | TNO  |
 | 5.4.1.2.1  | TNO of Defensie, laatgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
 | 6.1.1.4  | ILT  |
 | 6.1.4.8.8, 6.1.4.13.7  | ILT  |
 | 6.3.2.2  | ILT  |
-|Alle randnummers in hoofdstuk 6.4 |E Z |
 | 6.5.4.1  | ILT  |
 | 6.6.1.2  | ILT  |
 | 6.8.4, TA2  | TNO  |
 | 7.3.2.6.2  | ILT  |
-| 7.7 d)  | brandweer of politie  |
+| 7.7  | ILT  |
 
 ### Artikel  2  
 
