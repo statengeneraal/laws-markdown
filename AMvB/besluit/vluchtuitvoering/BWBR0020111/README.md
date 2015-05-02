@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 4 mei 2006, nr. HDJZ/LUV-2006-623, Hoofddirectie Juridische Zaken, gedaan in overeenstemming met de Staatssecretaris van Defensie en de Minister van Justitie;
 
-Gelet op de [artikelen 1.2, tweede lid](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [4.1, tweede en derde lid](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [4.2, eerste en vijfde lid](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en [4.6, eerste lid, van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md);
+Gelet op de artikelen 1.2, tweede lid, 4.1, tweede en derde lid, 4.2, eerste en vijfde lid, en 4.6, eerste lid, van de Wet luchtvaart;
 
 De Raad van State gehoord (advies van 22 juni 2006, nr. W09.06.0152/V);
 
@@ -15,8 +15,13 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  *EG-verordening 3922/91*: verordening (EEG) nr. 3922/91 van de Raad van de Europese Gemeenschappen van 16 december 1991 inzake de harmonisatie van technische voorschriften en administratieve procedures op het gebied van de burgerluchtvaart (PbEG L 373); *helikopter:* gemotoriseerd luchtvaartuig met rotorbladen, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn rotorbladen;  *JAR-OPS 3:* sectie 1 van het technisch voorschrift, vastgesteld door de Joint Aviation Authorities, betreffende uitvoering van een vlucht door een helikopter;  *luchtschip:* luchtvaartuig, lichter dan lucht, dat is voorzien van een voortstuwingsinrichting en een besturingsinrichting;  *luchtwerk:* een vlucht met een vliegtuig of helikopter waarbij dit of deze gebruikt wordt voor speciale diensten zoals bijvoorbeeld landbouw, fotografie, film, onderzoek, observatie en patrouille, reddingsoperaties of reclame;  *vliegtuig:* gemotoriseerd luchtvaartuig met vaste vleugels, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn vleugels;  *vrije ballon:* luchtvaartuig, lichter dan lucht, niet voorzien van een voortstuwingsinstallatie en ingericht om ten minste één persoon te vervoeren;  *wet:* [Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md).   
+1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  *EG-verordening 3922/91*: verordening (EEG) nr. 3922/91 van de Raad van de Europese Gemeenschappen van 16 december 1991 inzake de harmonisatie van technische voorschriften en administratieve procedures op het gebied van de burgerluchtvaart (PbEG L 373); *helikopter:* gemotoriseerd luchtvaartuig met rotorbladen, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn rotorbladen;  *JAR-OPS 3:* sectie 1 van het technisch voorschrift, vastgesteld door de Joint Aviation Authorities, betreffende uitvoering van een vlucht door een helikopter;  *luchtschip:* luchtvaartuig, lichter dan lucht, dat is voorzien van een voortstuwingsinrichting en een besturingsinrichting;  *luchtwerk:* een vlucht met een vliegtuig of helikopter waarbij dit of deze gebruikt wordt voor speciale diensten zoals bijvoorbeeld landbouw, fotografie, film, onderzoek, observatie en patrouille, reddingsoperaties of reclame;  *vliegtuig:* gemotoriseerd luchtvaartuig met vaste vleugels, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn vleugels;  *vrije ballon:* luchtvaartuig, lichter dan lucht, niet voorzien van een voortstuwingsinstallatie en ingericht om ten minste één persoon te vervoeren;  *wet:* Wet luchtvaart.   
 2.  De bij of krachtens dit besluit vastgestelde bepalingen zijn van toepassing op burgerluchtvaartuigen.  
+
+### Artikel  1a  
+Treedt in werking per 01-07-2015 
+
+Artikel 4.1, tweede lid, laatste zin, van de Wet luchtvaart is niet van toepassing op een ROC. 
 
 ### Artikel  2  
 
@@ -40,7 +45,7 @@ Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de ve
 
 ### Artikel  6  
 
-1.  Het in [artikel 4.1 van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) bedoelde verbod om zonder AOC vluchten tegen vergoeding uit te voeren, geldt niet voor: 
+1.  Het in artikel 4.1 van de wet bedoelde verbod om zonder AOC vluchten tegen vergoeding uit te voeren, geldt niet voor: 
 
 a. vluchten met een luchtschip;  
 

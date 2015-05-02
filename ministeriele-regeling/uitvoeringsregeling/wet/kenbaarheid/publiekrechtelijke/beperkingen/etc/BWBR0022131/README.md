@@ -3,20 +3,20 @@
 ##Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 25 juni 2007, nr. DJZ2007059068, houdende regels ter uitvoering van het Uitvoeringsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken (Uitvoeringsregeling Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken)
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op de [artikelen 8](../../../../../../../../AMvB/uitvoeringsbesluit/wet/kenbaarheid/publiekrechtelijke/beperkingen/etc/BWBR0021934/README.md) en [16 van het Uitvoeringsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](../../../../../../../../AMvB/uitvoeringsbesluit/wet/kenbaarheid/publiekrechtelijke/beperkingen/etc/BWBR0021934/README.md) en [artikel 48, tweede lid, onder i, van de Kadasterwet](../../../../../../../../wet/kadasterwet/BWBR0004541/README.md);
+Gelet op de artikelen 8 en 16 van het Uitvoeringsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken en artikel 48, tweede lid, onder i, van de Kadasterwet;
 Besluit:    
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder wet: [Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](../../../../../../../../wet/wet/kenbaarheid/publiekrechtelijke/beperkingen/onroerende/zaken/BWBR0016876/README.md). 
+In deze regeling wordt verstaan onder wet: Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken. 
 
 ### Artikel  2  
 
-De ingevolge [artikel 6 van de wet](../../../../../../../../wet/wet/kenbaarheid/publiekrechtelijke/beperkingen/onroerende/zaken/BWBR0016876/README.md) in de gemeentelijke beperkingenregistratie op te nemen soorten gegevens, zijn vervat in bijlage I bij deze regeling. 
+De ingevolge artikel 6 van de wet in de gemeentelijke beperkingenregistratie op te nemen soorten gegevens, zijn vervat in bijlage I bij deze regeling. 
 
 ### Artikel  3  
 
-Het berichtenverkeer met de landelijke voorziening, bedoeld in [artikel 10, eerste lid, van de wet](../../../../../../../../wet/wet/kenbaarheid/publiekrechtelijke/beperkingen/onroerende/zaken/BWBR0016876/README.md), vindt plaats overeenkomstig de in bijlage II bij deze regeling gegeven regels. 
+Het berichtenverkeer met de landelijke voorziening, bedoeld in artikel 10, eerste lid, van de wet, vindt plaats overeenkomstig de in bijlage II bij deze regeling gegeven regels. 
 
 ### Artikel  4  
 
@@ -28,7 +28,7 @@ Wijzigt de Uitvoeringsregeling Kadasterwet 1994.
 
 ### Artikel  6  
 
-Deze regeling treedt in werking op het tijdstip waarop de [Invoeringswet Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](../../../../../../../../wet/invoeringswet/wet/kenbaarheid/publiekrechtelijke/beperkingen/onroerende/etc/BWBR0021607/README.md) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop de Invoeringswet Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken in werking treedt. 
 
 ### Artikel  7  
 

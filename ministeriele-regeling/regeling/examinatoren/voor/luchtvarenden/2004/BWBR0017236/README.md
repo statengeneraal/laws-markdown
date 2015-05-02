@@ -3,7 +3,7 @@
 ##Regeling tot vaststelling van een nieuwe regeling voor examinatoren voor luchtvarenden (Regeling examinatoren voor luchtvarenden 2004)
 
 De Staatssecretaris van Verkeer en Waterstaat,
-Gelet op de [artikelen 14, vierde lid](../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), en [15, tweede lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md);
+Gelet op de artikelen 14, vierde lid, en 15, tweede lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart;
 Besluit: 
 ### Hoofdstuk  1  
 
@@ -17,15 +17,15 @@ Besluit:
 
 *minister:* Minister van Infrastructuur en Milieu;
 
-*praktijkexamen: * onderzoek naar de mate waarin een kandidaat voldoet aan de bedrevenheideisen, bedoeld in de [Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001](../../../../../../../ministeriele-regeling/regeling/bewijzen/van/bevoegdheid/en/bevoegdverklaringen/voor/etc/BWBR0021240/README.md), ten behoeve van de afgifte van een bewijs van bevoegdheid of een bevoegdverklaring;
+*praktijkexamen: * onderzoek naar de mate waarin een kandidaat voldoet aan de bedrevenheideisen, bedoeld in de Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001, ten behoeve van de afgifte van een bewijs van bevoegdheid of een bevoegdverklaring;
 
-*proeve van bekwaamheid:* onderzoek naar de mate waarin een kandidaat voldoet aan de bedrevenheideisen als bedoeld in de [Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001](../../../../../../../ministeriele-regeling/regeling/bewijzen/van/bevoegdheid/en/bevoegdverklaringen/voor/etc/BWBR0021240/README.md), ten behoeve van de verlenging of de hernieuwde afgifte van een bevoegdverklaring;
+*proeve van bekwaamheid:* onderzoek naar de mate waarin een kandidaat voldoet aan de bedrevenheideisen als bedoeld in de Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001, ten behoeve van de verlenging of de hernieuwde afgifte van een bevoegdverklaring;
 
 *RFE:* examinator recreatief vlieger (Recreational Flight Examiner);
 
 *RFIE:* examinator voor de bevoegdverklaring tot recreatief vlieginstructeur (Recreational Flight Instructor Examiner);
 
-*wet:* [Wet luchtvaart](../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).
+*wet:* Wet luchtvaart.
 
 2.  In deze regeling wordt met de volgende toevoegingen bedoeld: 
 
@@ -38,7 +38,7 @@ c. FB: de categorie vrije ballonnen (Free Balloons).
 
 ### Artikel  1a  
 
-Deze regeling berust tevens op [artikel 1.5 van de wet](../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md). 
+Deze regeling berust tevens op artikel 1.5 van de wet. 
 
 ###Hoofdstuk 2 
 
@@ -121,7 +121,7 @@ Een senior-examinator, die in dienst is van een luchtvaartmaatschappij of opleid
 
 a. een honorarium dat € 200,– per dag bedraagt, en  
 
-b. de ten behoeve van het uitoefenen van de taak gemaakte reis- en verblijfkosten, die volgens het [Reisbesluit binnenland](../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) worden vergoed.     
+b. de ten behoeve van het uitoefenen van de taak gemaakte reis- en verblijfkosten, die volgens het Reisbesluit binnenland worden vergoed.     
 3.  Reis- en verblijfkosten die een senior-examinator in het buitenland maakt worden niet vergoed door de minister. Een senior-examinator, die in dienst is van een luchtvaartmaatschappij of opleidingsinstelling, declareert geen vergoeding bij de minister wanneer hij in het kader van een verlenging van een autorisatie tot examinator, het afnemen van een praktijkexamen of proeve van bekwaamheid door een examinator in dienst van dezelfde luchtvaartmaatschappij of opleidingsinstelling beoordeelt.  
 
 ### Artikel  15  
@@ -129,7 +129,7 @@ b. de ten behoeve van het uitoefenen van de taak gemaakte reis- en verblijfkoste
 1.  Senior-examinatoren worden voor een periode van ten hoogste drie jaren benoemd. Na afloop van deze termijn kunnen zij telkens voor ten hoogste drie jaren worden herbenoemd   
 2.  Een benoeming tot senior-examinator vervalt van rechtswege: 
 
-a. als de autorisatie tot examinator met betrekking waartoe de seniorexaminator is benoemd op grond van [artikel 2.6, derde lid, van de wet](../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) is ingetrokken;  
+a. als de autorisatie tot examinator met betrekking waartoe de seniorexaminator is benoemd op grond van artikel 2.6, derde lid, van de wet is ingetrokken;  
 
 b. op de eerste dag van de maand nadat de senior-examinator drie jaar hetzij niet meer in het bezit is van de autorisatie tot examinator met betrekking waartoe deze is benoemd, hetzij niet meer gerechtigd is de bij deze autorisatie behorende bevoegdheden uit te oefenen.     
 2.  Een benoeming tot senior-examinator vervalt op schriftelijk verzoek van de senior-examinator.   
@@ -155,7 +155,7 @@ De volgende regelingen worden ingetrokken:
 
 a.Regeling examinatoren voor luchtvarenden 2001,
 
-b.[Regeling senior-examinatoren voor luchtvarenden](../../../../../../../ministeriele-regeling/regeling/senior-examinatoren/voor/luchtvarenden/BWBR0012780/README.md).
+b.Regeling senior-examinatoren voor luchtvarenden.
 
 ###Artikel 18 
 

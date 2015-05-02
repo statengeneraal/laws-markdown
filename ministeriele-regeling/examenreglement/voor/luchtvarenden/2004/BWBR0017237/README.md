@@ -3,7 +3,7 @@
 ##Regeling tot vaststelling van een nieuw examenreglement met betrekking tot bewijzen van bevoegdheid voor de luchtvaart (Examenreglement voor luchtvarenden 2004)
 
 De Staatssecretaris van Verkeer en Waterstaat,
-Gelet op de [artikelen 14, vierde lid](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), en [16 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md);
+Gelet op de artikelen 14, vierde lid, en 16 van het Besluit bewijzen van bevoegdheid voor de luchtvaart;
 Besluit:
 ###§ 1 
 
@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-1. Deze regeling berust mede op [artikel 1.5 van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md). 
+1. Deze regeling berust mede op artikel 1.5 van de Wet luchtvaart. 
 2.  In deze regeling wordt verstaan onder: 
 
 ATPL: bewijs van bevoegdheid voor verkeersvlieger (Airline Transport Pilot Licence);
@@ -32,13 +32,13 @@ minister: Minister van Infrastructuur en Milieu;
 
 PPL: bewijs van bevoegdheid voor privé vlieger (Private Pilot Licence);
 
-praktijkexamen: het onderzoek naar de mate waarin een kandidaat voldoet aan de bedrevenheideisen, bedoeld in de [Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001](../../../../../../ministeriele-regeling/regeling/bewijzen/van/bevoegdheid/en/bevoegdverklaringen/voor/etc/BWBR0021240/README.md), ten behoeve van de afgifte van een bewijs van bevoegdheid of een bevoegdverklaring;  
+praktijkexamen: het onderzoek naar de mate waarin een kandidaat voldoet aan de bedrevenheideisen, bedoeld in de Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001, ten behoeve van de afgifte van een bewijs van bevoegdheid of een bevoegdverklaring;  
 
-proeve van bekwaamheid: het onderzoek naar de mate waarin een kandidaat voldoet aan de bedrevenheideisen, bedoeld in de [Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001](../../../../../../ministeriele-regeling/regeling/bewijzen/van/bevoegdheid/en/bevoegdverklaringen/voor/etc/BWBR0021240/README.md), ten behoeve van de verlenging of de hernieuwde afgifte van een bevoegdverklaring;  
+proeve van bekwaamheid: het onderzoek naar de mate waarin een kandidaat voldoet aan de bedrevenheideisen, bedoeld in de Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001, ten behoeve van de verlenging of de hernieuwde afgifte van een bevoegdverklaring;  
 
 protocolhouder: een geregistreerde dan wel gekwalificeerde opleidingsinstelling of een luchtvaartmaatschappij die met de minister een protocol betreffende het toedelen van examinatoren heeft afgesloten;  
 
-theorie-examen: het onderzoek naar de mate waarin een kandidaat voldoet aan de kenniseisen, bedoeld in de [Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001](../../../../../../ministeriele-regeling/regeling/bewijzen/van/bevoegdheid/en/bevoegdverklaringen/voor/etc/BWBR0021240/README.md), en deel FCL ten behoeve van afgifte van een bewijs van bevoegdheid of een bevoegdverklaring.     
+theorie-examen: het onderzoek naar de mate waarin een kandidaat voldoet aan de kenniseisen, bedoeld in de Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001, en deel FCL ten behoeve van afgifte van een bewijs van bevoegdheid of een bevoegdverklaring.     
 3.  In deze regeling wordt met de volgende toevoegingen bedoeld: 
 
 a. A: de categorie vliegtuigen (Aeroplanes);  
@@ -151,7 +151,7 @@ Een praktijkexamen en een proeve van bekwaamheid worden afgenomen op een luchtva
 
 ### Artikel  15  
 
-1.  De kandidaat voor RPL of CPL(FB) laat zich ten behoeve van het afleggen van een praktijkexamen of proeve van bekwaamheid een geautoriseerde examinator als bedoeld in [Hoofdstuk 2 van de Regeling examinatoren voor luchtvarenden 2004](../../../../../../ministeriele-regeling/regeling/examinatoren/voor/luchtvarenden/2004/BWBR0017236/README.md) toedelen door: 
+1.  De kandidaat voor RPL of CPL(FB) laat zich ten behoeve van het afleggen van een praktijkexamen of proeve van bekwaamheid een geautoriseerde examinator als bedoeld in Hoofdstuk 2 van de Regeling examinatoren voor luchtvarenden 2004 toedelen door: 
 
 a. een protocolhouder; of  
 
@@ -165,7 +165,7 @@ b. de minister.
 a.indien artikel 15, eerste lid, onderdeel a, van toepassing is: de protocolhouder, voor zover deze de kosten doorberekent;
 
 b.indien artikel 15, eerste lid, onderdeel b, van toepassing is: de minister.
-2. Het bedrag van de vergoeding, bedoeld in het eerste lid, wordt vastgesteld op grondslag van [artikel 4 van de Regeling examinatoren voor luchtvarenden 2004](../../../../../../ministeriele-regeling/regeling/examinatoren/voor/luchtvarenden/2004/BWBR0017236/README.md).
+2. Het bedrag van de vergoeding, bedoeld in het eerste lid, wordt vastgesteld op grondslag van artikel 4 van de Regeling examinatoren voor luchtvarenden 2004.
 
 ###Artikel 17 
 
@@ -193,7 +193,7 @@ c.vervallen door vernummering;
 
 d.voor RPL(A), RPL(H) respectievelijk CPL(FB):
 
-1°.de kandidaat instructie heeft gevolgd op dezelfde klasse vliegtuig, hetzelfde type helikopter respectievelijk dezelfde klasse vrije ballon als waarop het examen wordt afgelegd, wat betreft RPL(A) en RPL(H) in overeenstemming met de eisen gesteld aan opleidingsluchtvaartuigen in [bijlage 2 bij de Regeling opleidingsinstellingen voor luchtvarenden 2001](../../../../../../ministeriele-regeling/regeling/opleidingsinstellingen/voor/luchtvarenden/2001/BWBR0012923/README.md),
+1°.de kandidaat instructie heeft gevolgd op dezelfde klasse vliegtuig, hetzelfde type helikopter respectievelijk dezelfde klasse vrije ballon als waarop het examen wordt afgelegd, wat betreft RPL(A) en RPL(H) in overeenstemming met de eisen gesteld aan opleidingsluchtvaartuigen in bijlage 2 bij de Regeling opleidingsinstellingen voor luchtvarenden 2001,
 
 2°.extra vlieg- respectievelijk vaarinstructie kan worden geëist nadat de kandidaat is afgewezen en wordt geëist indien de kandidaat niet in twee pogingen alle secties heeft behaald,
 
@@ -231,7 +231,7 @@ d.voor RPL(A), RPL(H) respectievelijk CPL(FB):
 ### Artikel  27  
 
 1.  Een Nationaal Expert Team-Praktijk bestaat uit een door de minister vast te stellen aantal leden, die door de minister worden benoemd voor een periode van ten hoogste 3 jaar. De leden kunnen telkens voor ten hoogste 3 jaar worden herbenoemd.   
-2.  Leden van het Nationaal Expert Team-Praktijk kunnen worden benoemd uit de kring van examinatoren en senior-examinatoren, als bedoeld in de [Regeling examinatoren voor luchtvarenden 2004](../../../../../../ministeriele-regeling/regeling/examinatoren/voor/luchtvarenden/2004/BWBR0017236/README.md).   
+2.  Leden van het Nationaal Expert Team-Praktijk kunnen worden benoemd uit de kring van examinatoren en senior-examinatoren, als bedoeld in de Regeling examinatoren voor luchtvarenden 2004.   
 3.  De minister verleent tussentijds ontslag aan een lid van het Nationale Expert Team-Praktijk: 
 
 a. op eigen verzoek, of  
@@ -246,7 +246,7 @@ b. wegens ongeschiktheid voor de functie.
 
 a. een honorarium van € 200,– per dag, en  
 
-b. de ten behoeve van het uitvoeren van de taken gemaakte reis- en verblijfkosten die volgens het [Reisbesluit binnenland](../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) worden vergoed.     
+b. de ten behoeve van het uitvoeren van de taken gemaakte reis- en verblijfkosten die volgens het Reisbesluit binnenland worden vergoed.     
 3.  Functionarissen in dienst van het Rijk, van een ander publiekrechtelijk lichaam dan het Rijk of van een door het Rijk in het leven geroepen instelling, dan wel van een instelling welker personeelskosten door het Rijk worden vergoed, ontvangen geen vergoeding als bedoeld in het eerste lid, indien hun benoeming haar oorzaak vindt in de functie die zij vervullen.  
 
 ###§ 5 
@@ -255,7 +255,7 @@ b. de ten behoeve van het uitvoeren van de taken gemaakte reis- en verblijfkoste
 
 ###Artikel 29 
 
-Het [Examenreglement voor luchtvarenden 2001](../../../../../../ministeriele-regeling/examenreglement/voor/luchtvarenden/2001/BWBR0012924/README.md) wordt ingetrokken.
+Het Examenreglement voor luchtvarenden 2001 wordt ingetrokken.
 
 ###Artikel 30 
 

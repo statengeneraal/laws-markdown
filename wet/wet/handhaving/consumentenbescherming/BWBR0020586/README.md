@@ -430,6 +430,16 @@ Een pandhuis neemt de bepalingen van Titel 2D van Boek 7 van het Burgerlijk Wetb
 
 Het is de houder van een gedragscode, bedoeld in artikel 193a, eerste lid, onderdeel j, van Boek 6 van het Burgerlijk Wetboek, niet toegestaan met die gedragscode een handelen in strijd met de artikelen 193a tot en met 193i van dat boek te bevorderen. 
 
+### Artikel  8.12  
+Treedt in werking per 09-07-2015 
+
+Bij een koopovereenkomst of een overeenkomst tot het verrichten van diensten als bedoeld in artikel 1, onderdeel c, respectievelijk onderdeel d, van de Implementatiewet richtlijn buitengerechtelijke geschillenbeslechting consumenten (Stb. 2015, 160) neemt de in Nederland gevestigde ondernemer, bedoeld in artikel 1, onderdeel b van die wet, artikel 12 van die wet in acht. 
+
+### Artikel  8.13  
+Treedt in werking per 09-07-2015 
+
+De in Nederland gevestigde ondernemer, bedoeld in artikel 1, onderdeel b, van de Implementatiewet buitengerechtelijke geschillenbeslechting consumenten (Stb. 2015, 160), op wie artikel 14 eerste, tweede of zevende lid van verordening (EU) nr. 524/2013 van toepassing is, en de dienstverlener die een onlinemarktplaats aanbiedt en op wie artikel 14, eerste lid, van verordening (EU) nr. 524/2013 van toepassing is, nemen de verplichtingen uit artikel 14, eerste, tweede of zevende lid, van verordening (EU) nr. 524/2013 in acht. 
+
 ### Hoofdstuk  9  
 
 ####Wijziging in andere wetten
