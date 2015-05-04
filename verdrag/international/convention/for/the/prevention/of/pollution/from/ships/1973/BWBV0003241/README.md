@@ -4081,7 +4081,7 @@ Packages shall be adequate to minimize the hazard to the marine environment, hav
 
 ### Regulation  4  
 
-####<sup> 3)  Reference to “documents” in this regulation does not preclude the use of electronic data processing (EDP) and electronic data interchange (EDI) transmission techniques as an aid to paper documentation.  </sup>Documentation
+####Documentation
 
 1.  In all documents relating to the carriage of harmful substances by sea where such substances are named, the correct technical name of each such substance shall be used (trade names alone shall not be used) and the substance further identified by the addition of the words “marine pollutant”.   
 2.  The shipping documents supplied by the shipper shall include, or be accompanied by, a signed certificate or declaration that the shipment offered for carriage is properly packaged and marked, labelled or placarded as appropriate and in proper condition for carriage to minimize the hazard to the marine environment.   
