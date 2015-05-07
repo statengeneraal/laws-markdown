@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Justitie en van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 14 januari 2009, nr. 5576604/08/6, houdende nadere regels in verband met de elektronische bekendmaking van wetten, algemene maatregelen van bestuur en anders dan bij wet of algemene maatregel van bestuur vastgestelde algemeen verbindende voorschriften (Bekendmakingsregeling)
 
 De Minister van Justitie en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;  
-Gelet op de [artikelen 9](../../../wet/bekendmakingswet/BWBR0004287/README.md) en [10, tweede lid, van de Bekendmakingswet](../../../wet/bekendmakingswet/BWBR0004287/README.md) en de [artikelen 2, eerste lid](../../../AMvB/bekendmakingsbesluit/BWBR0025257/README.md), [4, tweede lid](../../../AMvB/bekendmakingsbesluit/BWBR0025257/README.md), [8, eerste lid](../../../AMvB/bekendmakingsbesluit/BWBR0025257/README.md), en [10, tweede lid, van het Bekendmakingsbesluit](../../../AMvB/bekendmakingsbesluit/BWBR0025257/README.md);
+Gelet op de artikelen 9 en 10, tweede lid, van de Bekendmakingswet en de artikelen 2, eerste lid, 4, tweede lid, 8, eerste lid, en 10, tweede lid, van het Bekendmakingsbesluit;
 Besluiten:    
 
 ### Artikel  1  
@@ -26,7 +26,7 @@ e. Van elke publicatie wordt een elektronische kopie gemaakt, die wordt opgeslag
 
 ### Artikel  3  
 
-Vervangende uitgifte van het Staatsblad onderscheidenlijk de Staatscourant als bedoeld in [artikel 9 van de Bekendmakingswet](../../../wet/bekendmakingswet/BWBR0004287/README.md), geschiedt: 
+Vervangende uitgifte van het Staatsblad onderscheidenlijk de Staatscourant als bedoeld in artikel 9 van de Bekendmakingswet, geschiedt: 
 
 a. door middel van publicatie op een door de Minister van Veiligheid en Justitie onderscheidenlijk de Minister van Binnenlandse Zaken en Koninkrijksrelaties aan te wijzen vervangend internetadres,  
 
@@ -34,13 +34,18 @@ b. door middel van een papieren uitgave, te verstrekken door een nooddistributie
 
 c. op een andere door de Minister van Veiligheid en Justitie onderscheidenlijk de Minister van Binnenlandse Zaken en Koninkrijksrelaties te bepalen wijze.   
 
+### Artikel  3a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De minister van Binnenlandse Zaken en Koninkrijksrelaties brengt aan de Koninklijke Beroepsorganisatie voor Gerechtsdeurwaarders kosten in rekening voor het publiceren van uittreksels van exploten als bedoeld in artikel 54, tweede en vierde lid, van het Wetboek van Burgerlijke Rechtsvordering in de Staatscourant ter hoogte van € 5 per uittreksel. 
+
 ### Artikel  4  
 
-Het uitgiftepunt, bedoeld in [artikel 10, tweede lid, van de Bekendmakingswet](../../../wet/bekendmakingswet/BWBR0004287/README.md), is ondergebracht bij het Kennis- en exploitatiecentrum Officiële Overheidspublicaties van De Werkmaatschappij, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Wilhelmina van Pruisenweg 52, Postbus 20011, 2500 EA Den Haag. 
+Het uitgiftepunt, bedoeld in artikel 10, tweede lid, van de Bekendmakingswet, is ondergebracht bij het Kennis- en exploitatiecentrum Officiële Overheidspublicaties van De Werkmaatschappij, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Wilhelmina van Pruisenweg 52, Postbus 20011, 2500 EA Den Haag. 
 
 ### Artikel  5  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel I van de Wet elektronische bekendmaking](../../../wet/wet/elektronische/bekendmaking/BWBR0024913/README.md) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop artikel I van de Wet elektronische bekendmaking in werking treedt. 
 
 ### Artikel  6  
 

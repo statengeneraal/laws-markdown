@@ -4303,6 +4303,21 @@ De bestuurder of commissaris van een rechtspersoon die, buiten het geval van art
 1.  Hij aan wiens schuld te wijten is dat gegevens die door middel van een geautomatiseerd werk of door middel van telecommunicatie zijn opgeslagen, worden verwerkt of overgedragen, wederrechtelijk worden veranderd, gewist, onbruikbaar of ontoegankelijk gemaakt, dan wel dat andere gegevens daaraan worden toegevoegd, wordt, indien daardoor ernstige schade met betrekking tot die gegevens wordt veroorzaakt, gestraft met gevangenisstraf of hechtenis van ten hoogste een maand of geldboete van de tweede categorie.   
 2.   Hij aan wiens schuld te wijten is dat gegevens wederrechtelijk ter beschikking gesteld of verspreid worden die zijn bestemd om schade aan te richten in een geautomatiseerd werk, wordt gestraft met gevangenisstraf of hechtenis van ten hoogste een maand of geldboete van de tweede categorie.  
 
+### Artikel  350c  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Hij die opzettelijk enig geautomatiseerd werk of enig werk voor telecommunicatie vernielt, beschadigt of onbruikbaar maakt, stoornis in de gang of in de werking van zodanig werk veroorzaakt, of een ten opzichte van zodanig werk genomen veiligheidsmaatregel verijdelt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie, indien daardoor wederrechtelijk verhindering of bemoeilijking van de opslag, verwerking of overdracht van gegevens of stoornis in een telecommunicatienetwerk of in de uitvoering van een telecommunicatiedienst, ontstaat.   
+2.  Artikel 138b, tweede en derde lid, is van overeenkomstige toepassing.  
+
+### Artikel  350d  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft hij die, met het oogmerk dat daarmee een misdrijf als bedoeld in artikel 350a, eerste lid, of 350c wordt gepleegd: 
+
+a. een technisch hulpmiddel dat hoofdzakelijk geschikt gemaakt of ontworpen is tot het plegen van een zodanig misdrijf, vervaardigt, verkoopt, verwerft, invoert, verspreidt of anderszins ter beschikking stelt of voorhanden heeft, of  
+
+b. een computerwachtwoord, toegangscode of daarmee vergelijkbaar gegeven waardoor toegang kan worden verkregen tot een geautomatiseerd werk of een deel daarvan, vervaardigt, verkoopt, verwerft, invoert, verspreidt of anderszins ter beschikking stelt of voorhanden heeft.   
+
 ### Artikel  351  
 
 Hij die spoorweg- of elektriciteitswerken, geautomatiseerde werken of werken voor telecommunicatie, werken dienend tot waterkering, waterlozing, gas- of waterleiding of riolering, voor zover deze werken ten algemenen nutte gebezigd worden, dan wel goederen of werken ten behoeve van de landsverdediging, opzettelijk en wederrechtelijk vernielt, beschadigt, onbruikbaar maakt, onklaar maakt of weg maakt, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie. 

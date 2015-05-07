@@ -1097,3 +1097,33 @@ b. een overzicht van het personeel, dat belast is met het autoriseren van geluid
 
 c. de wijzigingsprocedure van het handboek.     
 
+###Bijlage E 
+
+####, bedoeld in artikel 30, onderdeel c, 2° , en artikel 38, tweede lid , van de Regeling erkenningen luchtwaardigheid 2008
+
+Aanvullende en afwijkende erkenningsvoorwaarden voor een nationale ontwerperkenning 
+Treedt in werking per 01-07-2015 
+
+De minister geeft een nationale ontwerperkenning af overeenkomstig verordening Bijlage I (Part 21) van verordening (EU) nr. 748/2012, en bijbehorend AMC en GM materiaal, met dien verstande dat: 
+
+a. onder ‘het Agentschap’ of ‘EASA’ telkens moet worden verstaan: de Inspectie Leefomgeving en Transport;  
+
+b. in afwijking van onderdelen 21.A.113 en 21.A.115 van Subdeel E een aanvraag voor een aanvullend typecertificaat wordt ingediend bij de Inspectie Leefomgeving en Transport door middel van een volledig ingevuld en ondertekend aanvraagformulier ‘Goedkeuring wijziging luchtvaartuig (-onderdeel) (GWL)’;  
+
+c. in onderdeel 21.A.118A(b) van Subdeel E onder ‘EPA’ moet worden verstaan: NLPA;  
+
+d. in afwijking van onderdelen 21.A.234, 21.A.247 en 21.A.253 van Subdeel J een aanvraag voor een erkenning of wijziging van een erkenning wordt ingediend bij de Inspectie Leefomgeving en Transport door middel van een volledig ingevuld en ondertekend aanvraagformulier ‘Aanvraag nationale bedrijfserkenning’ waarvan exemplaren bij de Inspectie Leefomgeving en Transport te verkrijgen zijn;  
+
+e. in afwijking van onderdeel 21.A.259(a) van Subdeel J de geldigheidsduur van de erkenning maximaal 2 jaar is;  
+
+f. in afwijking van items 3 en 4 van onderdeel 21.A.263(c) van Subdeel J de nationaal erkende ontwerporganisatie (NL.DOA) gebruik kan maken van haar privileges om documenten goed te keuren onder vermelding van ‘De technische inhoud van dit document is goedgekeurd krachtens erkenning als ontwerporganisatie ref. NL.DOA.[XYZ]’;  
+
+g. in afwijking van onderdeel 21.A.433 van Subdeel M wordt een aanvraag voor goedkeuring van een reparatieontwerp ingediend bij de Inspectie Leefomgeving en Transport door middel van een volledig ingevuld en ondertekend aanvraagformulier ‘Goedkeuring wijziging luchtvaartuig (-onderdeel) (GWL)’;  
+
+h. in onderdelen 21.A.451(a)2 en 21.A.451(b)2 van Subdeel M onder ‘EPA’ moet worden verstaan: NLPA;  
+
+i. in afwijking van onderdeel 21.A.707(a) een aanvraag voor een vliegvergunning wordt ingediend bij de Inspectie Leefomgeving en Transport;  
+
+j. in afwijking van onderdeel 21.A.709(a)1 van Subdeel P een aanvraag voor goedkeuring van de vluchtcondities voor een vliegvergunning wordt ingediend bij de Inspectie Leefomgeving en Transport;  
+
+k. in onderdeel 21.A.804(a)3 van Subdeel Q onder ‘EPA’ moet worden verstaan: NLPA.  

@@ -3,7 +3,7 @@
 ##Beleidsregel van de Stichting Autoriteit Financiële Markten (hieronder te noemen: ‘de toezichthouder’) van 19 september 2006, voor het beoordelen van de betrouwbaarheid van personen ingevolge de Wet toezicht accountantsorganisaties (Wta) en het Besluit toezicht accountantsorganisaties (Bta), hieronder gezamenlijk dan wel ieder afzonderlijk te noemen: ‘de toezichtwet’
 
 De Stichting Autoriteit Financiële Markten,  
-Gelet op onder meer de [artikelen 15 Wta](../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) en [5](../../../../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md), [6](../../../../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md), [7 Bta](../../../../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md);
+Gelet op onder meer de artikelen 15 Wta en 5, 6, 7 Bta;
 Besluit als volgt:    
 
 ### Artikel  1  
@@ -95,51 +95,51 @@ A.W. Kist
 
 #### *1. Veroordelingen* 
 
-Onder strafrechtelijke antecedenten worden in ieder geval de volgende verstaan: Betrokkene is bij rechterlijke uitspraak veroordeeld ter zake van (poging tot, voorbereiding van, doen plegen van, uitlokken van – mislukte uitlokking, [art. 46a WvSr.](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) daaronder begrepen –, medeplegen van en/of medeplichtigheid aan) één of meer van de hieronder opgesomde strafbare feiten uit: 
+Onder strafrechtelijke antecedenten worden in ieder geval de volgende verstaan: Betrokkene is bij rechterlijke uitspraak veroordeeld ter zake van (poging tot, voorbereiding van, doen plegen van, uitlokken van – mislukte uitlokking, art. 46a WvSr. daaronder begrepen –, medeplegen van en/of medeplichtigheid aan) één of meer van de hieronder opgesomde strafbare feiten uit: 
 
-* [Wetboek van Strafrecht (tweede Boek)](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), tussen haakjes worden genoemd de artikelen: 
+* Wetboek van Strafrecht (tweede Boek), tussen haakjes worden genoemd de artikelen: 
 
-– Openbare orde en vernieling openbare orde en discriminatie ([131–151a](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), openbaar gezag ([177–207a](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), gemeengevaarlijke misdrijven ([157–175](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), vernieling ([350–354](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md))  
+– Openbare orde en vernieling openbare orde en discriminatie (131–151a), openbaar gezag (177–207a), gemeengevaarlijke misdrijven (157–175), vernieling (350–354)  
 
-– Geweldsmisdrijven tegen het leven ([287–294](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), mishandeling ([300–306](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), bedreiging met geweld of misdrijf ([285](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), dood en lichamelijk letsel door schuld ([307–309](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), misdrijven tegen de zeden ([242](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [246](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [243–245](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [247–250](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), 250 ter), diefstal met geweld ([312](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), afpersing ([317](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md))  
+– Geweldsmisdrijven tegen het leven (287–294), mishandeling (300–306), bedreiging met geweld of misdrijf (285), dood en lichamelijk letsel door schuld (307–309), misdrijven tegen de zeden (242, 246, 243–245, 247–250, 250 ter), diefstal met geweld (312), afpersing (317)  
 
-– Vermogens- en overige misdrijven eenvoudige diefstal ([310](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), diefstal onder verzwarende omstandigheden ([311](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), verduistering ([321–323](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), muntmisdrijven ([208–215](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), andere valsheidsdelicten dan muntmisdrijven ([216–235](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), opzettelijk verstrekken van onware gegevens ([227a](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), opzettelijk schenden van de verplichting gegevens te verstrekken ([227b](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), bedrog ([326–337](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), benadeling van schuldeisers of rechthebbenden ([340–348](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), heling en schuldheling ([416–417 bis](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), witwassen ([420 bis–420 quinquies](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md))  
+– Vermogens- en overige misdrijven eenvoudige diefstal (310), diefstal onder verzwarende omstandigheden (311), verduistering (321–323), muntmisdrijven (208–215), andere valsheidsdelicten dan muntmisdrijven (216–235), opzettelijk verstrekken van onware gegevens (227a), opzettelijk schenden van de verplichting gegevens te verstrekken (227b), bedrog (326–337), benadeling van schuldeisers of rechthebbenden (340–348), heling en schuldheling (416–417 bis), witwassen (420 bis–420 quinquies)  
 
-– Ambtsmisdrijven ([355–380](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)).    
+– Ambtsmisdrijven (355–380).    
 
-* [Wetboek van Strafrecht (derde Boek)](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): Valse naam, academische titel etc. ([435](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), indruk wekken van officieel gesteund of erkend optreden ([435b](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), onbevoegd uitoefenen makelaardij ([436a](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), eigenmachtig handelen tijdens surséance ([442](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), verstrekken van onware gegevens ([447c](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), schenden van de verplichting gegevens te verstrekken ([447d](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)).  
+* Wetboek van Strafrecht (derde Boek): Valse naam, academische titel etc. (435), indruk wekken van officieel gesteund of erkend optreden (435b), onbevoegd uitoefenen makelaardij (436a), eigenmachtig handelen tijdens surséance (442), verstrekken van onware gegevens (447c), schenden van de verplichting gegevens te verstrekken (447d).  
 
-* [Algemene wet inzake de rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md): Overtreding fiscale wetgeving ([68](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [69](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)).  
+* Algemene wet inzake de rijksbelastingen: Overtreding fiscale wetgeving (68 en 69).  
 
-* [Opiumwet](../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md): 
+* Opiumwet: 
 
-– Met opzet smokkelen, bereiden, verkopen, afleveren etc., aanwezig hebben van harddrugs ([2, eerste lid](../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md))  
+– Met opzet smokkelen, bereiden, verkopen, afleveren etc., aanwezig hebben van harddrugs (2, eerste lid)  
 
-– Voorbereidingshandelingen m.b.t. bereiden, verkopen, afleveren etc. en smokkel harddrugs ([10a, eerste lid](../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md)), met opzet smokkelen, bereiden, verkopen, afleveren etc., aanwezig hebben en vervaardigen softdrugs ([3, eerste lid](../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md)).    
+– Voorbereidingshandelingen m.b.t. bereiden, verkopen, afleveren etc. en smokkel harddrugs (10a, eerste lid), met opzet smokkelen, bereiden, verkopen, afleveren etc., aanwezig hebben en vervaardigen softdrugs (3, eerste lid).    
 
-* [Wet op de economische delicten](../../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) (WED): Door de WED gesanctioneerde gedragingen, zoals met name verbodsbepalingen uit de financiële ordeningswetgeving, de [Wet toezicht accountantsorganisaties](../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), [artikel 9 Wet melding ongebruikelijke transacties](../../../../../../../../../../wet/wet/melding/ongebruikelijke/transacties/BWBR0006331/README.md) en [artikel 2, eerste, tweede en zesde lid](../../../../../../../../../../wet/wet/identificatie/bij/dienstverlening/BWBR0006330/README.md), [5](../../../../../../../../../../wet/wet/identificatie/bij/dienstverlening/BWBR0006330/README.md), [6](../../../../../../../../../../wet/wet/identificatie/bij/dienstverlening/BWBR0006330/README.md), [7](../../../../../../../../../../wet/wet/identificatie/bij/dienstverlening/BWBR0006330/README.md), [8 Wet identificatie bij dienstverlening 1993](../../../../../../../../../../wet/wet/identificatie/bij/dienstverlening/BWBR0006330/README.md) (Wid).  
+* Wet op de economische delicten (WED): Door de WED gesanctioneerde gedragingen, zoals met name verbodsbepalingen uit de financiële ordeningswetgeving, de Wet toezicht accountantsorganisaties, artikel 9 Wet melding ongebruikelijke transacties en artikel 2, eerste, tweede en zesde lid, 5, 6, 7, 8 Wet identificatie bij dienstverlening 1993 (Wid).  
 
-* [Wet wapens en munitie](../../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md): 
+* Wet wapens en munitie: 
 
-– Zonder erkenning wapen of munitie vervaardigen etc. ([9, eerste lid](../../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)), vervaardigen, voorhanden hebben etc. bepaalde wapens ([13, eerste lid](../../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md))  
+– Zonder erkenning wapen of munitie vervaardigen etc. (9, eerste lid), vervaardigen, voorhanden hebben etc. bepaalde wapens (13, eerste lid)  
 
-– Zonder consent bepaalde wapens of munitie doen binnenkomen of uitgaan etc. ([14, eerste lid](../../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md))  
+– Zonder consent bepaalde wapens of munitie doen binnenkomen of uitgaan etc. (14, eerste lid)  
 
-– Zonder vergunning/verlof vervoeren bepaalde wapens of munitie ([22, eerste lid](../../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md))  
+– Zonder vergunning/verlof vervoeren bepaalde wapens of munitie (22, eerste lid)  
 
-– Verboden voorhanden hebben van bepaalde wapens of munitie ([26, eerste lid](../../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md))  
+– Verboden voorhanden hebben van bepaalde wapens of munitie (26, eerste lid)  
 
-– Verboden overdragen van bepaalde wapens of munitie ([31, eerste lid](../../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)).    
+– Verboden overdragen van bepaalde wapens of munitie (31, eerste lid).    
 
-* [Wegenverkeerswet 1994](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md): 
+* Wegenverkeerswet 1994: 
 
-– Dood of letsel door schuld ([6](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)), doorrijden na ongeval ([7](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)), rijden onder invloed ([8](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)), motorvoertuig besturen na ontzegging ([9](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)), joyriding ([11](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md))  
+– Dood of letsel door schuld (6), doorrijden na ongeval (7), rijden onder invloed (8), motorvoertuig besturen na ontzegging (9), joyriding (11)  
 
-– Medewerking weigeren aan onderzoek ([163](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)).     Onder veroordelingen wordt ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer aldaar geldende strafbepalingen vergelijkbaar met de hierboven genoemde. 
+– Medewerking weigeren aan onderzoek (163).     Onder veroordelingen wordt ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer aldaar geldende strafbepalingen vergelijkbaar met de hierboven genoemde. 
 
 #### *2. Transacties met het Openbaar Ministerie* 
 
-Betrokkene heeft een vrijwillige betaling als bedoeld in [artikel 74 van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) gedaan ter zake van een of meer van de hiervoor onder 1 genoemde strafbare feiten. Onder transacties wordt ook verstaan transacties in het buitenland met de terzake bevoegde autoriteiten ter zake van overtreding van een of meer aldaar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde. 
+Betrokkene heeft een vrijwillige betaling als bedoeld in artikel 74 van het Wetboek van Strafrecht gedaan ter zake van een of meer van de hiervoor onder 1 genoemde strafbare feiten. Onder transacties wordt ook verstaan transacties in het buitenland met de terzake bevoegde autoriteiten ter zake van overtreding van een of meer aldaar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde. 
 
 #### *3. (Voorwaardelijk) sepot, vrijspraak of ontslag van rechtsvervolging* 
 
@@ -155,19 +155,19 @@ Andere feiten of omstandigheden die redelijkerwijs voor de toezichthouder van be
 
 #### *Veroordelingen* 
 
-Betrokkene is bij onherroepelijke rechterlijke uitspraak veroordeeld ter zake van (poging tot, voorbereiding van, doen plegen van, uitlokken van – mislukte uitlokking, [art. 46a WvSr.](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) daaronder begrepen –, medeplegen van en/of medeplichtigheid aan) één of meer van de hieronder opgesomde strafbare feiten: 
+Betrokkene is bij onherroepelijke rechterlijke uitspraak veroordeeld ter zake van (poging tot, voorbereiding van, doen plegen van, uitlokken van – mislukte uitlokking, art. 46a WvSr. daaronder begrepen –, medeplegen van en/of medeplichtigheid aan) één of meer van de hieronder opgesomde strafbare feiten: 
 
-– het in of vanuit Nederland, beschikkende over voorwetenschap, verrichten of bewerkstelligen van transacties in bepaalde effecten ([artikel 46 Wte](../../../../../../../../../../wet/wet/toezicht/effectenverkeer/1995/BWBR0007657/README.md));  
+– het in of vanuit Nederland, beschikkende over voorwetenschap, verrichten of bewerkstelligen van transacties in bepaalde effecten (artikel 46 Wte);  
 
-– het doorgeven van voorwetenschap als bedoeld in [artikel 46 Wte](../../../../../../../../../../wet/wet/toezicht/effectenverkeer/1995/BWBR0007657/README.md) of de nadrukkelijke aanbeveling bepaalde transacties te doen zonder daarbij de voorwetenschap door te geven ([artikel 46a Wte](../../../../../../../../../../wet/wet/toezicht/effectenverkeer/1995/BWBR0007657/README.md));  
+– het doorgeven van voorwetenschap als bedoeld in artikel 46 Wte of de nadrukkelijke aanbeveling bepaalde transacties te doen zonder daarbij de voorwetenschap door te geven (artikel 46a Wte);  
 
-– diefstal onder verzwarende omstandigheden ([311](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [312 WvSr.](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), verduistering ([321–323 WvSr.](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), valsheid in geschrifte ([225 WvSr.](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), opzettelijk verstrekken van onware gegevens ([227a WvSr.](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), opzettelijk schenden van de verplichting gegevens te verstrekken ([227b WvSr.](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), benadeling van schuldeisers of rechthebbenden ([340–348 WvSr.](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– diefstal onder verzwarende omstandigheden (311, 312 WvSr.), verduistering (321–323 WvSr.), valsheid in geschrifte (225 WvSr.), opzettelijk verstrekken van onware gegevens (227a WvSr.), opzettelijk schenden van de verplichting gegevens te verstrekken (227b WvSr.), benadeling van schuldeisers of rechthebbenden (340–348 WvSr.);  
 
-– opzetheling ([416 WvSr.](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– opzetheling (416 WvSr.);  
 
-– witwassen ([420 bis–420 ter WvSr.](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– witwassen (420 bis–420 ter WvSr.);  
 
-– overtredingen uit de financiële ordeningswetgeving, als misdrijf strafbaar gesteld in [artikel 2](../../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) jo. [6 van de Wet op de economische delicten](../../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) en waarvoor betrokkene is veroordeeld tot een onvoorwaardelijke gevangenisstraf en/of een geldboete van ten minste de vierde categorie.   Onder veroordelingen wordt ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer aldaar geldende strafbepalingen vergelijkbaar met de hierboven genoemde. 
+– overtredingen uit de financiële ordeningswetgeving, als misdrijf strafbaar gesteld in artikel 2 jo. 6 van de Wet op de economische delicten en waarvoor betrokkene is veroordeeld tot een onvoorwaardelijke gevangenisstraf en/of een geldboete van ten minste de vierde categorie.   Onder veroordelingen wordt ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer aldaar geldende strafbepalingen vergelijkbaar met de hierboven genoemde. 
 
 ### Bijlage  B  
 
@@ -193,7 +193,7 @@ Onder zakelijke financiële antecedenten, van belang voor de beoordeling van de 
 
 – met betrekking tot de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie als bestuurder of commissaris bekleedt/bekleedde, feitelijke zeggenschap in het bestuur uitoefent/uitoefende of anderszins (mede)verantwoordelijk is/was voor het beleid, is surséance van betaling of faillissement aangevraagd of uitgesproken;  
 
-– betrokkene is veroordeeld tot het betalen van niet voldane schulden wegens aansprakelijkheid voor het faillissement van een vennootschap of rechtspersoon op grond van de toepasselijke bepalingen van [Boek 2 Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) ([artikelen 50a](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [138](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [149](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [248](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [259](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [300a](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md)) of soortgelijke bepalingen elders.   
+– betrokkene is veroordeeld tot het betalen van niet voldane schulden wegens aansprakelijkheid voor het faillissement van een vennootschap of rechtspersoon op grond van de toepasselijke bepalingen van Boek 2 Burgerlijk Wetboek (artikelen 50a, 138, 149, 248, 259, 300a) of soortgelijke bepalingen elders.   
 
 #### *Andere feiten of omstandigheden* 
 
@@ -213,7 +213,7 @@ Onder toezichtantecedenten, van belang voor de beoordeling van de daaraan ten gr
 
 – betrokkene, of zijn huidige of één van zijn voormalige werkgevers of een vennootschap of rechtspersoon, waarbij betrokkene een functie als bestuurder of commissaris bekleedt/bekleedde, feitelijk zeggenschap in het bestuur uitoefent/uitoefende of anderszins (mede-)verantwoordelijk is/was voor het beleid, is in conflict geweest met een van overheidswege (in Nederland of elders) met het toezicht op enig gebied van de financiële markten of accountantsorganisaties belaste toezichthouder, en dit conflict heeft geleid tot enige maatregel jegens betrokkene dan wel jegens de vennootschap of rechtspersoon waarbij betrokkene een functie als bestuurder of commissaris bekleedt/bekleedde, feitelijk zeggenschap in het bestuur uitoefent/uitoefende of anderszins verantwoordelijk is/was voor het beleid;  
 
-– aan betrokkene of aan een vennootschap of rechtspersoon waarbij betrokkene een functie als bestuurder of commissaris bekleedt/bekleedde, feitelijke zeggenschap in het bestuur uitoefent/uitoefende of anderszins (mede)verantwoordelijk is/was voor het beleid, een verklaring door de minister van Justitie ter zake van de oprichting van dan wel van de wijziging van de statuten van een vennootschap geweigerd op gronden genoemd in de [artikelen 68, tweede lid](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [179, tweede lid](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [125, tweede lid](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), c.q. [235, tweede lid van Boek 2 Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md)   
+– aan betrokkene of aan een vennootschap of rechtspersoon waarbij betrokkene een functie als bestuurder of commissaris bekleedt/bekleedde, feitelijke zeggenschap in het bestuur uitoefent/uitoefende of anderszins (mede)verantwoordelijk is/was voor het beleid, een verklaring door de minister van Justitie ter zake van de oprichting van dan wel van de wijziging van de statuten van een vennootschap geweigerd op gronden genoemd in de artikelen 68, tweede lid, 179, tweede lid, 125, tweede lid, c.q. 235, tweede lid van Boek 2 Burgerlijk Wetboek   
 
 #### *Andere feiten of omstandigheden* 
 
@@ -225,23 +225,23 @@ Andere feiten of omstandigheden aangaande betrokkene die wijzen op betrokkenheid
 
 #### *Privé* 
 
-Onder privé fiscaal bestuursrechtelijke antecedenten, van belang voor de beoordeling van de daaraan ten grondslag liggende gedraging(en), worden in ieder geval de volgende verstaan: Betrokkene is een vergrijpboete opgelegd op basis van één of meer van de hieronder opgesomde strafbare feiten uit de [Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), tussen haakjes worden genoemd de artikelen: 
+Onder privé fiscaal bestuursrechtelijke antecedenten, van belang voor de beoordeling van de daaraan ten grondslag liggende gedraging(en), worden in ieder geval de volgende verstaan: Betrokkene is een vergrijpboete opgelegd op basis van één of meer van de hieronder opgesomde strafbare feiten uit de Algemene wet inzake rijksbelastingen, tussen haakjes worden genoemd de artikelen: 
 
-– opzettelijk een onjuiste of onvolledige belastingaangifte doen ([67d](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md))  
+– opzettelijk een onjuiste of onvolledige belastingaangifte doen (67d)  
 
-– het is aan opzet of grove schuld van de belastingplichtige te wijten dat een belastingaanslag tot een te laag bedrag is vastgesteld of anderszins te weinig belasting is geheven ([67e](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md))  
+– het is aan opzet of grove schuld van de belastingplichtige te wijten dat een belastingaanslag tot een te laag bedrag is vastgesteld of anderszins te weinig belasting is geheven (67e)  
 
-– het is aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige te wijten dat belasting niet, gedeeltelijk niet, dan wel niet binnen de termijn is betaald ([67f](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)).   
+– het is aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige te wijten dat belasting niet, gedeeltelijk niet, dan wel niet binnen de termijn is betaald (67f).   
 
 #### *Zakelijk* 
 
-Onder zakelijke fiscaal bestuursrechtelijke antecedenten, van belang voor de beoordeling van de daaraan ten grondslag liggende gedraging(en), worden in ieder geval de volgende verstaan: Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt/bekleedde als bestuurder of commissaris, feitelijke zeggenschap in het bestuur uitoefent/uitoefende of anderszins (mede)verantwoordelijk is/was voor het beleid, is een vergrijpboete opgelegd op basis van één of meer van de hieronder opgesomde strafbare feiten uit de [Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), tussen haakjes worden genoemd de artikelen: 
+Onder zakelijke fiscaal bestuursrechtelijke antecedenten, van belang voor de beoordeling van de daaraan ten grondslag liggende gedraging(en), worden in ieder geval de volgende verstaan: Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt/bekleedde als bestuurder of commissaris, feitelijke zeggenschap in het bestuur uitoefent/uitoefende of anderszins (mede)verantwoordelijk is/was voor het beleid, is een vergrijpboete opgelegd op basis van één of meer van de hieronder opgesomde strafbare feiten uit de Algemene wet inzake rijksbelastingen, tussen haakjes worden genoemd de artikelen: 
 
-– opzettelijk een onjuiste of onvolledige belastingaangifte doen ([67d](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md))  
+– opzettelijk een onjuiste of onvolledige belastingaangifte doen (67d)  
 
-– het is aan opzet of grove schuld van de belastingplichtige te wijten dat een belastingaanslag tot een te laag bedrag is vastgesteld of anderszins te weinig belasting is geheven ([67e](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md))  
+– het is aan opzet of grove schuld van de belastingplichtige te wijten dat een belastingaanslag tot een te laag bedrag is vastgesteld of anderszins te weinig belasting is geheven (67e)  
 
-– het is aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige te wijten dat belasting niet, gedeeltelijk niet, dan wel niet binnen de termijn is betaald ([67f](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)).   
+– het is aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige te wijten dat belasting niet, gedeeltelijk niet, dan wel niet binnen de termijn is betaald (67f).   
 
 #### *Andere feiten of omstandigheden* 
 

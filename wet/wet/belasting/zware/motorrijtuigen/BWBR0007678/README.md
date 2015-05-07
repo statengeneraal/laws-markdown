@@ -76,15 +76,15 @@ De belasting wordt geheven van de houder van het motorrijtuig.
 
 Als houder wordt aangemerkt:  
 
-a. van een motorrijtuig waarvoor een kentekenbewijs is afgegeven op basis van de Wegenverkeerswet 1994, degene op wiens naam het kenteken is gesteld;  
+a. van een motorrijtuig dat in het kentekenregister, genoemd in artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994, is ingeschreven op basis van de Wegenverkeerswet 1994, degene op wiens naam het motorrijtuig is gesteld;  
 
-b. van een motorrijtuig waarvoor geen kentekenbewijs is afgegeven, degene die het motorrijtuig feitelijk ter beschikking heeft;  
+b. van een motorrijtuig dat niet in het kentekenregister, genoemd in artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994, is ingeschreven, degene die het motorrijtuig feitelijk ter beschikking heeft;  
 
 c. van een in het buitenland geregistreerd motorrijtuig, degene die het motorrijtuig in Nederland feitelijk ter beschikking heeft.   
 
 ### Artikel  7  
 
-1.  Indien een motorrijtuig als bedoeld in artikel 6, onderdeel *a* , feitelijk en niet geheel voorbijgaand ter beschikking staat van een ander dan degene op wiens naam het opgegeven kenteken is gesteld, kan de inspecteur:  
+1.  Indien een motorrijtuig als bedoeld in artikel 6, onderdeel a, feitelijk en niet geheel voorbijgaand ter beschikking staat van een ander dan degene op wiens naam het motorrijtuig in het kentekenregister, genoemd in artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994, is gesteld, kan de inspecteur:  
 
 a. deze op gezamenlijk verzoek aanmerken als degene die het motorrijtuig houdt;  
 
@@ -190,9 +190,9 @@ Vervallen per 01-10-2008
 
 ### Artikel  13  
 
-1.  Indien wordt geconstateerd dat de verschuldigde belasting niet, niet tijdig of niet geheel is betaald, vormt dit een verzuim ter zake waarvan de inspecteur, in afwijking van de artikelen 67b, 67c en 67f van de Algemene wet inzake rijksbelastingen, een bestuurlijke boete van ten hoogste € 4 920 kan opleggen aan de houder.    
+1.  Indien wordt geconstateerd dat de verschuldigde belasting niet, niet tijdig of niet geheel is betaald, vormt dit een verzuim ter zake waarvan de inspecteur, in afwijking van de artikelen 67b, 67c en 67f van de Algemene wet inzake rijksbelastingen, een bestuurlijke boete van ten hoogste € 5.278 kan opleggen aan de houder.    
 2.  Artikel 67cb van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing op het bedrag van de boete, genoemd in het eerste lid.  
-3.   Indien de verschuldigde belasting wordt nageheven, legt de inspecteur de boete op gelijktijdig met de vaststelling van de naheffingsaanslag. In andere gevallen vervalt, in afwijking van artikel 5:45, tweede lid, van de Algemene wet bestuursrecht, de bevoegdheid tot het opleggen van de boete door verloop van vijf jaren na het einde van het kalenderjaar waarin het in het eerste of tweede lid bedoelde constateren heeft plaatsgevonden.  
+3.   Indien de verschuldigde belasting wordt nageheven, legt de inspecteur de boete op gelijktijdig met de vaststelling van de naheffingsaanslag. In andere gevallen vervalt, in afwijking van artikel 5:45, tweede lid, van de Algemene wet bestuursrecht, de bevoegdheid tot het opleggen van de boete door verloop van vijf jaren na het einde van het kalenderjaar waarin de constatering, bedoeld in het eerste lid, heeft plaatsgevonden.  
 
 ### Hoofdstuk  VII  
 

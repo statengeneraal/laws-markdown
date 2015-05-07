@@ -3,7 +3,7 @@
 ##Regeling Europese afvalstoffenlijst
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op beschikking nr. 2000/532/EG van de Commissie van de Europese Gemeenschappen van 3 mei 2000 tot vervanging van beschikking 94/3/EG houdende vaststelling van een lijst van afvalstoffen overeenkomstig artikel 1, onder a), van Richtlijn 75/442/EEG van de Raad van de Europese Gemeenschappen betreffende afvalstoffen en Beschikking 94/904/EG van de Raad van de Europese Unie tot vaststelling van een lijst van gevaarlijke afvalstoffen overeenkomstig artikel 1, lid 4, van Richtlijn 91/689/EEG van de Raad van de Europese Gemeenschappen betreffende gevaarlijke afvalstoffen (PbEG L 226/3), zoals laatstelijk gewijzigd bij beschikking nr. 2001/573/EG van de Raad van de Europese Unie van 23 juli 2001 tot wijziging van Beschikking 2000/532/EG van de Commissie wat de lijst van afvalstoffen betreft (PbEG L 203/18) en op [artikel 1.1, eerste, zesde en tiende lid](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [10.15 tot en met 10.17](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) jo. [21.6 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [artikel 3, eerste lid, van de Bestrijdingsmiddelenwet 1962](../../../../../wet/bestrijdingsmiddelenwet/1962/BWBR0002380/README.md) en [artikel 2, tweede lid, van het Bestrijdingsmiddelenbesluit](../../../../../AMvB/bestrijdingsmiddelenbesluit/BWBR0002450/README.md);
+Gelet op beschikking nr. 2000/532/EG van de Commissie van de Europese Gemeenschappen van 3 mei 2000 tot vervanging van beschikking 94/3/EG houdende vaststelling van een lijst van afvalstoffen overeenkomstig artikel 1, onder a), van Richtlijn 75/442/EEG van de Raad van de Europese Gemeenschappen betreffende afvalstoffen en Beschikking 94/904/EG van de Raad van de Europese Unie tot vaststelling van een lijst van gevaarlijke afvalstoffen overeenkomstig artikel 1, lid 4, van Richtlijn 91/689/EEG van de Raad van de Europese Gemeenschappen betreffende gevaarlijke afvalstoffen (PbEG L 226/3), zoals laatstelijk gewijzigd bij beschikking nr. 2001/573/EG van de Raad van de Europese Unie van 23 juli 2001 tot wijziging van Beschikking 2000/532/EG van de Commissie wat de lijst van afvalstoffen betreft (PbEG L 203/18) en op artikel 1.1, eerste, zesde en tiende lid, en 10.15 tot en met 10.17 jo. 21.6 van de Wet milieubeheer, artikel 3, eerste lid, van de Bestrijdingsmiddelenwet 1962 en artikel 2, tweede lid, van het Bestrijdingsmiddelenbesluit;
 Besluit:    
 
 ### Artikel  1  
@@ -14,7 +14,7 @@ Besluit:
 
 ### Artikel  2  
 
-Als afvalstoffen in de zin van [artikel 1.1, zesde lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), worden aangewezen de stoffen, preparaten of voorwerpen, genoemd in de afvalstoffenlijst. 
+Als afvalstoffen in de zin van artikel 1.1, zesde lid, van de Wet milieubeheer, worden aangewezen de stoffen, preparaten of voorwerpen, genoemd in de afvalstoffenlijst. 
 
 ### Artikel  4  
 
@@ -49,7 +49,7 @@ m. een als R 46 ingedeelde mutagene stof (categorie 1 of 2) met een concentratie
 
 n. een als R 40 ingedeelde mutagene stof (categorie 3) met een concentratie ≥ 1%.   
 3.  Bij het bepalen van de concentraties, bedoeld in het tweede lid, worden de gevolgen van het verdampen van een gevaarlijke stof of het verdunnen, vermengen of uitlogen van een afvalstof, niet in aanmerking genomen.   
-4.  Het derde lid is niet van toepassing indien een omgevingsvergunning voor een inrichting of een ontheffing als bedoeld in [artikel 10.63 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is verleend die mede betrekking heeft op het verdampen van een gevaarlijke stof of het verdunnen, vermengen of uitlogen van afvalstoffen.  
+4.  Het derde lid is niet van toepassing indien een omgevingsvergunning voor een inrichting of een ontheffing als bedoeld in artikel 10.63 van de Wet milieubeheer is verleend die mede betrekking heeft op het verdampen van een gevaarlijke stof of het verdunnen, vermengen of uitlogen van afvalstoffen.  
 
 ###Artikel 5 
 
@@ -83,7 +83,7 @@ d. overige stoffen geschiedt volgens ontwerp NEN 5878: uitgave 2001.
 
 ###Artikel 6 
 
-De artikelen 4 en 5 zijn van overeenkomstige toepassing op de beoordeling, bedoeld in [artikel 1.1, tiende lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).
+De artikelen 4 en 5 zijn van overeenkomstige toepassing op de beoordeling, bedoeld in artikel 1.1, tiende lid, van de Wet milieubeheer.
 
 ###Artikel 7 
 
@@ -104,16 +104,16 @@ Wijzigt de Regeling verwijdering PCB's.
 ### Artikel  11  
 
 1.  Voor de toepassing van het begrip `gevaarlijke afvalstoffen' in voorschriften die zijn verbonden aan een vergunning als bedoeld in het tweede lid, dan wel in beperkingen of voorwaarden waaronder een zodanige vergunning is verleend, worden tot 1 januari 2003 of, zoveel eerder als de wijziging van de vergunning of de beschikking op de aanvraag in werking is getreden, als gevaarlijke afvalstoffen aangemerkt, de afvalstoffen die onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze regeling als zodanig waren aangewezen.   
-2.  Het eerste lid is van toepassing op vergunningen als bedoeld in [artikel 8.1 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) die onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze regeling golden en waarvoor het bevoegd gezag voor dat tijdstip in verband met de aanpassing van die vergunning aan de bepalingen van deze regeling: 
+2.  Het eerste lid is van toepassing op vergunningen als bedoeld in artikel 8.1 van de Wet milieubeheer die onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze regeling golden en waarvoor het bevoegd gezag voor dat tijdstip in verband met de aanpassing van die vergunning aan de bepalingen van deze regeling: 
 
-a.  een kennisgeving als bedoeld in [artikel 3:30 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) heeft gedaan; 
+a.  een kennisgeving als bedoeld in artikel 3:30 van de Algemene wet bestuursrecht heeft gedaan; 
 
 b.  een ontvankelijke aanvraag heeft ontvangen.    
-3.  Indien als gevolg van de inwerkingtreding van deze regeling ingevolge [artikel 8.23 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of [hoofdstuk 3 van het Inrichtingen- en vergunningenbesluit milieubeheer](../../../../../AMvB/inrichtingen-/en/vergunningenbesluit/milieubeheer/BWBR0005829/README.md) een ander orgaan dan voorheen bevoegd is tot aanpassing als bedoeld in het tweede lid, is het eerste lid van toepassing indien dit orgaan de kennisgeving of de aanvraag, bedoeld in het tweede lid, onder a of b, binnen vier weken na het tijdstip van inwerkingtreding van deze regeling heeft gedaan, respectievelijk heeft ontvangen.  
+3.  Indien als gevolg van de inwerkingtreding van deze regeling ingevolge artikel 8.23 van de Wet milieubeheer of hoofdstuk 3 van het Inrichtingen- en vergunningenbesluit milieubeheer een ander orgaan dan voorheen bevoegd is tot aanpassing als bedoeld in het tweede lid, is het eerste lid van toepassing indien dit orgaan de kennisgeving of de aanvraag, bedoeld in het tweede lid, onder a of b, binnen vier weken na het tijdstip van inwerkingtreding van deze regeling heeft gedaan, respectievelijk heeft ontvangen.  
 
 ### Artikel  12  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdeel A, van de wet van 21 juni 2001 tot wijziging van de Wet milieubeheer (structuur beheer afvalstoffen)](../../../../../wet/wijzigingswet/wet/milieubeheer/enz./(structuur/beheer/afvalstoffen)/BWBR0012606/README.md) (Stb. 346) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop artikel I, onderdeel A, van de wet van 21 juni 2001 tot wijziging van de Wet milieubeheer (structuur beheer afvalstoffen) (Stb. 346) in werking treedt. 
 
 ###Artikel 13 
 

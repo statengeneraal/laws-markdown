@@ -75,7 +75,7 @@ f. een kinderdagverblijf.
 2.  De aanwijzing als ander geluidsgevoelig gebouw in het eerste lid, onderdelen a tot en met f, geldt niet voor de delen van een gebouw die een andere bestemming hebben dan genoemd in artikel 1.1, onderdeel d.   
 3.  Als geluidsgevoelig terrein als bedoeld in artikel 1 van de wet worden aangewezen: 
 
-a. een standplaats als bedoeld in artikel 1, eerste lid, onderdeel e, van de Huisvestingswet, en  
+a. een standplaats als bedoeld in artikel 1, onderdeel j, van de Wet op de huurtoeslag, en  
 
 b. een ligplaats in het water, bestemd om door een woonschip te worden ingenomen.     
 4.  In afwijking van het derde lid wordt, indien het bij koninklijke boodschap van 7 december 2009 ingediende voorstel van wet tot wijziging van de Wet milieubeheer in verband met de invoering van geluidproductieplafonds en de overheveling van hoofdstuk IX van de Wet geluidhinder naar de Wet milieubeheer (modernisering instrumentarium geluidbeleid, geluidproductieplafonds) tot wet wordt verheven en in werking treedt, een ligplaats in het water, die op de datum van inwerkingtreding van dat wetsvoorstel in een gemeentelijke verordening is aangewezen om door een woonschip te worden ingenomen, voor de eerste toepassing na die datum van de artikelen 59, 76, 76a en 77 van de wet en van artikel 4.1 niet aangemerkt als geluidsgevoelig terrein.   

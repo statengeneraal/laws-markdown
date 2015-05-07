@@ -1026,6 +1026,13 @@ b. zowel degene die overdraagt als degene aan wie wordt overgedragen, aangeslote
 4. In afwijking van het eerste en het tweede lid, aanhef en onderdeel a, is een overdracht van een deel van een vergunning mogelijk, indien niet is voorzien in een goedgekeurd visplan en indien de vrijstelling, bedoeld in artikel 67, eerste lid, niet van kracht is, voor zover die overdracht ziet op het gebruik van het aalkistje, de schietfuik, de grote fuik en het staand net.
 5. Een overdracht als bedoeld in het vierde lid dat op het gebruik ziet van het staand net, is slechts mogelijk, voor zover het een verhuur betreft die in de vergunningsperiode van 1 juni 2013 tot en met 31 mei 2014 plaatsvond, waarbij het aantal verhuurde staand netten in de periode van 1 juli 2014 tot en met 1 juni 2015 niet het aantal staand netten overschrijdt die de verhuurder maximaal mag inzetten in de vergunningsperiode van 1 juli 2014 tot en met 31 mei 2015.
 
+### Artikel  75a  
+Treedt in werking per 01-06-2015 
+
+1.  Een overdracht van het aantal dagen, bedoeld in artikel 29, vierde lid, is slechts mogelijk, voor zover het totale aantal dagen wordt overgedragen en het een tijdelijke overdracht betreft voor een aaneengesloten periode van ten hoogste 12 maanden, gerekend vanaf 1 juni.   
+2.  Een overdracht als bedoeld in het eerste lid is slechts mogelijk, indien daarvan uiterlijk op 1 april voorafgaand aan de eerstvolgende vergunningsperiode waarvoor de overdracht geldt, een aanvraag is ingediend bij de Minister.   
+3.  In afwijking van het tweede lid kan de aanvraag voor de vergunningsperiode van 1 juni 2015 tot en met 31 mei 2016 uiterlijk op 1 juni 2015 worden gedaan.  
+
 ### Artikel  76  
 
 1.  Een erkende producentenorganisatie voor het IJsselmeer wijzigt namens de Minister jaarlijks, voor zover nodig, de vergunningen van de aangeslotenen, om de reductie te bereiken van de visserij-inspanning, zoals vastgesteld in het goedgekeurde visplan, bedoeld in artikel 67, eerste lid, onderdeel c.   

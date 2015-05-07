@@ -3841,19 +3841,38 @@ c. € 4.500,– voor een geïntegreerde combinatie van de onder a en b bedoelde
 
 1.  De Minister kan aan een eigenaar van een vissersvaartuig waarvoor een garnalenvergunning is verleend, overeenkomstig artikel 25 van verordening nr. 1198/2006, subsidie verstrekken voor de aanschaf en installatie aan boord van dat vissersvaartuig van: 
 
-a. een vistuig dat met een innovatieve techniek selectiviteit van de vangst of vermindering van de nadelige gevolgen van de vangst voor het milieu nastreeft;  
+a. een blackbox die voldoet aan de voorschriften die zijn opgenomen in bijlage 7;  
 
-b. een innovatief koelsysteem of een innovatieve voorkoeler waarmee de vangst individueel wordt teruggekoeld;  
+b. een nieuwe generatie koelsysteem of een of meer van de volgende onderdelen ten behoeve van een bestaande koelinstallatie: 
 
-c. een spoelsorteer- of sorteerzeefsysteem waarmee de overlevingskans van de bijvangst wordt vergroot.     
+1°. luchtkoeler;  
+
+2°. compressor;  
+
+3°. schakelkast;  
+
+4°. zeewaterpomp;  
+
+5°. zeewaterkraan;  
+
+6°. leiding- en isolatiemateriaal;  
+
+7°. zeewaterijs-installatie;  
+
+8°. zeewaterijs-machine;  
+
+9°. scherfijs-installatie;   voor zover die een verbetering van de bewaarkwaliteit of een milieu- of energiebesparing bewerkstelligt;  
+
+c. een spoelsorteer- of sorteerzeefsysteem waarmee de overlevingskans van de bijvangst wordt vergroot;  
+
+d. een kookmachine voor zover die een verbetering van de kwaliteit van de vangst bewerkstelligt.    
 2.  Aan een eigenaar van een vissersvaartuig wordt geen subsidie verstrekt: 
 
 a. indien het betrokken vissersvaartuig op het moment van het indienen van de aanvraag nog geen vijf jaar oud is;  
 
 b. indien de voorziening of modernisering waarvoor de subsidie wordt aangevraagd naar het oordeel van de Minister zou leiden tot een toename van de vangstcapaciteit van het vaartuig;  
 
-c. voor de bouw van een vissersvaartuig en de vergroting van een visruim.     
-3.  Een subsidie op grond van het eerste lid, onder a, wordt in de periode 2007–2015 ten hoogste tweemaal verstrekt.  
+c. voor de bouw van een vissersvaartuig en de vergroting van een visruim.    
 
 ### Artikel  4:39n  
 
@@ -3865,13 +3884,13 @@ Artikel 1:6 is van toepassing.
 
 ####Indiening aanvraag tot vaststelling
 
-De aanvraag tot subsidievaststelling gaat vergezeld van nota’s en betaalbewijzen van de aanschaf en, indien van toepassing, installatie van apparatuur, bedoeld in artikel 4:39m, eerste lid, waarop de gemaakte kosten zijn gespecificeerd. 
+De aanvraag tot subsidievaststelling gaat vergezeld van nota’s en betaalbewijzen van de aanschaf en, indien van toepassing, installatie van apparatuur, bedoeld in artikel 4:39m, eerste lid, waarop de gemaakte kosten zijn gespecificeerd een verklaring van een onafhankelijke technisch deskundige dat de blackbox voldoet aan de voorschriften die zijn opgenomen in bijlage 7. 
 
 ### Artikel  4:39p  
 
 ####Verplichtingen subsidieontvanger
 
-1.  De subsidieontvanger draagt er zorg voor dat de activiteiten waarvoor de subsidie is verleend binnen twaalf maanden na de datum van subsidieverlening zijn uitgevoerd.   
+1.  De subsidieontvanger draagt er zorg voor dat de activiteiten waarvoor de subsidie is verleend voor 1 januari 2016 zijn uitgevoerd en dat de kosten voor die datum zijn gemaakt en betaald.   
 2.  De Minister kan, in afwijking van artikel 1:2, aanhef en eerste lid, toestemming geven voor de uitvoering van het project buiten Nederland.  
 
 ### Artikel  4:39q  
@@ -3884,9 +3903,7 @@ a. kosten voor de aanschaf van de apparatuur bedoeld in artikel 4:39m, eerste li
 
 b. kosten voor de installatie van die apparatuur,  
 
-c. kosten voor aanpassing van het vissersvaartuig en  
-
-d. uitsluitend voor zover het investeringen als bedoeld in artikel 4:39m, eerste lid, onder a en c, betreft, eigen arbeid.     
+c. kosten voor aanpassing van het vissersvaartuig.     
 2.  Niet in aanmerking voor subsidie komt verschuldigde BTW.  
 
 ### Artikel  4:39r  
@@ -3896,11 +3913,13 @@ d. uitsluitend voor zover het investeringen als bedoeld in artikel 4:39m, eerste
 1.  De subsidie bedraagt ten hoogste 40% van de subsidiabele kosten.   
 2.  De subsidie bedraagt ten hoogste: 
 
-a. voor apparatuur als bedoeld in artikel 4:39m, eerste lid, onder a: € 7.000;  
+a. voor apparatuur als bedoeld in artikel 4:39m, eerste lid, onder a: € 3.200;  
 
-b. voor apparatuur als bedoeld in artikel 4:39m, eerste lid, onder b: € 24.000;  
+b. voor apparatuur als bedoeld in artikel 4:39m, eerste lid, onder b: € 12.000;  
 
-c. voor apparatuur als bedoeld in artikel 4:39m, eerste lid, onder c: € 15.000.    
+c. voor apparatuur als bedoeld in artikel 4:39m, eerste lid, onder c: € 15.000;  
+
+d. voor apparatuur als bedoeld in artikel 4:39m, eerste lid, onder d: € 11.000.   
 
 ### § 2 
 
@@ -6766,4 +6785,66 @@ ii) Vermijding en behandeling van ongewenste bijvangsten leidt tot onevenredige 
 14. Arbeid: Arbeid in de Nederlandse veehouderij is aantrekkelijk, goed vol te houden tot de pensioengerechtigde leeftijd, en wordt goed beloond.  
 
 15. Kennis, leervermogen en innovatie: De Nederlandse veehouderij is door kennis & innovatie in staat om zich continu aan te passen aan veranderende omstandigheden.   
+
+###Bijlage 7 
+
+####Bijlage bij artikel 4:39m 
+
+### Hoofdstuk  1  
+
+####Algemene voorschriften
+
+1. De blackbox bestaat uit een gesloten behuizing.  
+
+2. De blackbox registreert: 
+
+a. de positie waar het vissersvaartuig zich bevindt (positiedata);  
+
+b. of er wordt gevist (visserijdata).    
+
+3a. De positiedata worden real time geregistreerd met behulp van het Global Positioning System.  
+
+3b. De visserijdata worden geregistreerd middels het aanbrengen van sensoren aan de vislieren (trommels) ten einde het af- en opdraaien van de vislijnen (vieren en halen) van het visnet te registreren.  
+
+4. De blackbox genereert de datagegevens met: 
+
+a. vissersvaartuigidentificatie;  
+
+b. datum en tijd.    
+
+5. De blackbox meet met een opname-tijdsinterval van hoogstens zestig seconden.  
+
+6. De blackbox kan zonder externe voeding ten minste veertien dagen onafgebroken functioneren.  
+
+7. De dataopslagcapaciteit van de blackbox kan de meetgegevens welke worden verzameld gedurende ten minste veertien dagen voldoende beschermd registreren, dit houdt ten minste in: 
+
+a. de geregistreerde gegevens kunnen alleen door geautoriseerd personeel worden gewist.  
+
+b. de geregistreerde gegevens worden opgeslagen in een geautomatiseerd systeem in een omgeving die voldoende capaciteit, beveiliging, kennis en autorisatie biedt om wijziging of misbruik van de opgeslagen gegevens te voorkomen.    
+
+8. De geregistreerde gegevens zijn te allen tijde uitleesbaar voor de controle instantie en afgestemd op de op het moment van installatie bij de controle instantie in gebruik zijnde systemen.  
+
+9. De geregistreerde gegevens worden ten minste elke zeven dagen of zodra het schip zich binnen GSM bereik bevindt zonder tussenkomst van een operator via GSM naar een walstation verstuurd.  
+
+10. De blackbox slaat een alarmbericht op en verstuurt dit bericht voorzien van een herkenbare foutcode onmiddellijk indien het schip binnen GSM bereik is in het geval van: 
+
+a. ongeautoriseerde opening;  
+
+b. ongeautoriseerde data uitlezing;  
+
+c. stroomstoring;  
+
+d. loskoppeling van een sensor of een defecte sensor;  
+
+e. defecte verbinding tussen blackbox en sensor.    
+
+11. De blackbox is voor zover noodzakelijk voorzien van CE-markering.   
+
+### Hoofdstuk  2  
+
+####Uitbreiding functionaliteiten
+
+1. De blackbox beschikt over voldoende (extra) opslagcapaciteit voor toekomstige toepassingen.  
+
+2. De blackbox heeft de mogelijkheid tot real time registratie van ten minste vier additionele parameters voor toekomstig gebruik.   
 
