@@ -5,7 +5,7 @@
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
 Mede namens de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-Gelet op [artikel 7 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md);
+Gelet op artikel 7 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.;
 Besluit:    
 
 ### Artikel  1  
@@ -26,45 +26,45 @@ De examenprogramma’s v.m.b.o. worden vastgesteld zoals aangegeven in bijlage 2
 
 De volgende regelingen worden ingetrokken: 
 
-a.[Regeling examenprogramma’s profielen v.w.o./h.a.v.o. Nederlands en moderne vreemde talen](../../../../../../ministeriele-regeling/regeling/examenprogramma's/proﬁelen/v.w.o.h.a.v.o./nederlands/en/moderne/etc/BWBR0009587/README.md)
+a.Regeling examenprogramma’s profielen v.w.o./h.a.v.o. Nederlands en moderne vreemde talen
 
 b.Regeling examenprogramma’s profielen v.w.o./h.a.v.o. Fries
 
-c.[Regeling examenprogramma’s profielen v.w.o. klassieke talen en cultuur](../../../../../../ministeriele-regeling/regeling/examenprogramma's/profielen/v.w.o./klassieke/talen/en/cultuur/BWBR0009588/README.md)
+c.Regeling examenprogramma’s profielen v.w.o. klassieke talen en cultuur
 
-d.[Regeling examenprogramma’s profielen v.w.o./h.a.v.o. wiskunde](../../../../../../ministeriele-regeling/regeling/examenprogramma's/proﬁelen/v.w.o.h.a.v.o./wiskunde/BWBR0009593/README.md)
+d.Regeling examenprogramma’s profielen v.w.o./h.a.v.o. wiskunde
 
-e.[Regeling examenprogramma’s profielen v.w.o./h.a.v.o. natuurwetenschappelijke vakken](../../../../../../ministeriele-regeling/regeling/examenprogramma's/profielen/v.w.o.h.a.v.o./etc/BWBR0009589/README.md)
+e.Regeling examenprogramma’s profielen v.w.o./h.a.v.o. natuurwetenschappelijke vakken
 
-f.[Regeling examenprogramma’s profielen v.w.o./h.a.v.o. maatschappelijke vakken](../../../../../../ministeriele-regeling/regeling/examenprogramma's/proﬁelen/v.w.o.h.a.v.o./maatschappelijke/vakken/BWBR0009596/README.md)
+f.Regeling examenprogramma’s profielen v.w.o./h.a.v.o. maatschappelijke vakken
 
-g.[Regeling examenprogramma’s profielen v.w.o./h.a.v.o. economische vakken](../../../../../../ministeriele-regeling/regeling/examenprogramma's/profielen/v.w.o.h.a.v.o./economische/vakken/BWBR0009590/README.md)
+g.Regeling examenprogramma’s profielen v.w.o./h.a.v.o. economische vakken
 
-h.[Regeling examenprogramma’s profielen v.w.o./h.a.vo. CKV 1](../../../../../../ministeriele-regeling/regeling/examenprogramma/profielen/v.w.o.h.a.v.o./ckv1/BWBR0009595/README.md)
+h.Regeling examenprogramma’s profielen v.w.o./h.a.vo. CKV 1
 
 i.Regeling examenprogramma’s profielen v.w.o./h.a.v.o. CKV 2,3
 
-j.[Regeling examenprogramma’s profielen v.w.o./h.a.v.o. filosofie](../../../../../../ministeriele-regeling/beschikking/tot/instelling/van/het/strategisch/regieoverleg/primair/etc/BWBR0012992/README.md)
+j.Regeling examenprogramma’s profielen v.w.o./h.a.v.o. filosofie
 
-k.[Regeling examenprogramma’s profielen v.w.o./h.a.v.o. informatica](../../../../../../ministeriele-regeling/regeling/examenprogramma's/profielen/v.w.o.h.a.v.o./informatica/BWBR0009591/README.md)
+k.Regeling examenprogramma’s profielen v.w.o./h.a.v.o. informatica
 
-l.[Regeling examenprogramma’s profielen v.w.o./h.a.v.o. lichamelijke opvoeding 1](../../../../../../ministeriele-regeling/regeling/examenprogramma/proﬁelen/v.w.o.h.a.v.o./lichamelijke/opvoeding/1/BWBR0009594/README.md)
+l.Regeling examenprogramma’s profielen v.w.o./h.a.v.o. lichamelijke opvoeding 1
 
 m.Regeling examenprogramma’s profielen v.w.o./h.a.v.o. lichamelijke opvoeding 2
 
-n.[Regeling profielen 2000](../../../../../../ministeriele-regeling/regeling/profielen/2000/BWBR0011237/README.md)
+n.Regeling profielen 2000
 
-o.[Regeling afwijking profielen vwo/havo voor leerlingen 1998](../../../../../../ministeriele-regeling/afwijking/profielen/vwohavo/voor/leerlingen/1998/BWBR0011236/README.md)
+o.Regeling afwijking profielen vwo/havo voor leerlingen 1998
 
 p.Regeling aanpassing verlichtingsmaatregelen profielen havo/vwo
 
 q.Regeling aanwijzing domeinen centraal examen aardrijkskunde vwo en havo 2001 tot en met 2005
 
-r.[Regeling verplichting CKV2,3 en examen CKV2 in 2001 en volgende jaren](../../../../../../beleidsregel/verplichting/ckv23/en/examen/ckv2/in/2001/en/volgende/jaren/BWBR0011614/README.md).
+r.Regeling verplichting CKV2,3 en examen CKV2 in 2001 en volgende jaren.
 
-s.[Regeling vrijstellingsregeling examen oud vwo/havo naar nieuw](../../../../../../ministeriele-regeling/vrijstellingsregeling/examen/oud/vwohavo/naar/nieuw/BWBR0011831/README.md),
+s.Regeling vrijstellingsregeling examen oud vwo/havo naar nieuw,
 
-t.[Regeling toelating centraal examen vwo en havo](../../../../../../ministeriele-regeling/toelating/centraal/examen/vwo/en/havo/BWBR0013576/README.md).
+t.Regeling toelating centraal examen vwo en havo.
 
 ### Artikel  4  
 
@@ -72,7 +72,7 @@ t.[Regeling toelating centraal examen vwo en havo](../../../../../../ministeriel
 
 De volgende regelingen worden ingetrokken: 
 
-a.[Regeling examenprogramma’s Talen vmbo](../../../../../../ministeriele-regeling/regeling/examenprogramma's/talen/vmbo/BWBR0021297/README.md)
+a.Regeling examenprogramma’s Talen vmbo
 
 b.Regeling examenprogramma’s wiskunde en natuurwetenschappelijke vakken vmbo
 
@@ -110,13 +110,13 @@ r.Regeling examenprogramma’s verzorging vmbo
 
 s.Regeling examenprogramma’s uiterlijke verzorging vmbo
 
-t.[Regeling intrasectoraal programma handel en administratie vmbo](../../../../../../ministeriele-regeling/regeling/intrasectoraal/programma/handel/en/administratie/vmbo/BWBR0011316/README.md)
+t.Regeling intrasectoraal programma handel en administratie vmbo
 
-u.[Regeling intrasectoraal programma metalelektro vmbo](../../../../../../ministeriele-regeling/regeling/intrasectoraal/programma/metalektro/vmbo/BWBR0011317/README.md)
+u.Regeling intrasectoraal programma metalelektro vmbo
 
-v.[Regeling intrasectoraal programma instalelektro vmbo](../../../../../../ministeriele-regeling/regeling/intrasectoraal/programma/instalektro/vmbo/BWBR0011319/README.md)
+v.Regeling intrasectoraal programma instalelektro vmbo
 
-w.[Regeling intrasectoraal programma zorg-en-welzijn-breed vmbo](../../../../../../ministeriele-regeling/regeling/intrasectoraal/programma/zorg-en-welzijn-breed/vmbo/BWBR0011318/README.md)
+w.Regeling intrasectoraal programma zorg-en-welzijn-breed vmbo
 
 ### Artikel  5  
 
@@ -132,7 +132,7 @@ Deze regeling treedt in werking met ingang van 1 augustus 2007 en is voor het e
 
 ### Artikel  6a  
 
-De examenprogramma’s 2.47 techniek-breed, 2.48 ICT-route, 2.49 technologie in de gemengde leerweg, 2.50 intersectoraal, 2.51 sport, dienstverlening en veiligheid en 2.52 lichamelijke opvoeding 2 als genoemd in bijlage 2 zijn voor het eerst van toepassing op leerlingen die in het schooljaar 2008-2009 beginnen met opleidingen in het derde jaar vmbo. Voor de scholen die op basis van de [Beleidsregel Scholenplanning voortgezet onderwijs 2007 en 2008](../../../../../../beleidsregel/beleidsregel/scholenplanning/voortgezet/onderwijs/2007/en/2008/BWBR0020469/README.md), danwel op basis van de [Beleidsregel LO2 in het vmbo](../../../../../../beleidsregel/beleidsregel/lo2/in/het/vmbo/BWBR0020139/README.md), reeds zijn gestart met deze examenprogramma’s, zijn deze programma’s ook van toepassing op leerlingen die in het schooljaar 2008–2009 beginnen met opleidingen in het vierde jaar vmbo. 
+De examenprogramma’s 2.47 techniek-breed, 2.48 ICT-route, 2.49 technologie in de gemengde leerweg, 2.50 intersectoraal, 2.51 sport, dienstverlening en veiligheid en 2.52 lichamelijke opvoeding 2 als genoemd in bijlage 2 zijn voor het eerst van toepassing op leerlingen die in het schooljaar 2008-2009 beginnen met opleidingen in het derde jaar vmbo. Voor de scholen die op basis van de Beleidsregel Scholenplanning voortgezet onderwijs 2007 en 2008, danwel op basis van de Beleidsregel LO2 in het vmbo, reeds zijn gestart met deze examenprogramma’s, zijn deze programma’s ook van toepassing op leerlingen die in het schooljaar 2008–2009 beginnen met opleidingen in het vierde jaar vmbo. 
 
 ### Artikel  7  
 
@@ -145,9 +145,7791 @@ De
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
 J.M. van Bijsterveldt-Vliegenthart    
 
-###Bijlage II 
+###Bijlage 1 
 
-####behorende bij Regeling examenprogramma’s voortgezet onderwijs
+####behorende bij artikel 1  van de Regeling examenprogramma’s voortgezet onderwijs
+
+####Examenprogramma’s vwo/havo
+
+1. Nederlandse taal en literatuur  
+
+2. moderne vreemde talen en literatuur *(niet: elementair)*   
+
+3. Latijnse/Griekse taal en cultuur  
+
+4. Friese taal en cultuur/ Fryske taal en kultuer  
+
+5. maatschappijleer  
+
+6. algemene natuurwetenschappen  
+
+7. culturele en kunstzinnige vorming  
+
+8. vervallen  
+
+9. lichamelijke opvoeding  
+
+10. wiskunde A  
+
+11. wiskunde B  
+
+12. wiskunde C  
+
+13. wiskunde D  
+
+14. natuurkunde  
+
+15. scheikunde  
+
+16. biologie  
+
+17. natuur, leven en technologie  
+
+18. informatica  
+
+19. aardrijkskunde  
+
+20. geschiedenis  
+
+21. economie  
+
+22. management en organisatie  
+
+23. maatschappijwetenschappen  
+
+24. filosofie  
+
+25. kunst (algemeen)  
+
+26. kunst (beeldende vormgeving)  
+
+27. kunst (muziek)  
+
+28. kunst (drama)  
+
+29. kunst (dans)  
+
+30. muziek  
+
+31. tekenen  
+
+32. handvaardigheid  
+
+33. textiele vormgeving  
+
+34. moderne vreemde talen en literatuur (elementair)  
+
+35. bewegen, sport en maatschappij   
+
+####Examenprogramma Nederlandse taal en literatuur havo/vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen: Domein A Leesvaardigheid Domein B Mondelinge taalvaardigheid Domein C Schrijfvaardigheid Domein D Argumentatieve vaardigheden Domein E Literatuur Domein F Oriëntatie op studie en beroep. Bij de uitvoering van het examenprogramma worden de referentieniveaus Nederlandse taal in acht genomen, bedoeld in artikel 2, onderdeel c en onderdeel d, van het Besluit referentieniveaus Nederlandse taal en rekenen Het centraal examen Het centraal examen heeft betrekking op domein A en domein D voor zover het analyseren en beoordelen betreft. Het schoolexamen Het schoolexamen heeft betrekking op: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Leesvaardigheid
+
+### Subdomein  A1:  
+
+####Analyseren en interpreteren
+
+1. De kandidaat kan: 
+
+– vaststellen tot welke tekstsoort een tekst of tekstgedeelte behoort;  
+
+– de hoofdgedachte van een tekst(gedeelte) aangeven;  
+
+– relaties tussen delen van een tekst aangeven;  
+
+– conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur;  
+
+– standpunten en soorten argumenten herkennen en onderscheiden;  
+
+– argumentatieschema’s herkennen.     
+
+### Subdomein  A2:  
+
+####Beoordelen
+
+2. De kandidaat kan een betogende tekst of betogend tekstgedeelte op aanvaardbaarheid beoordelen en in deze tekst drogredenen herkennen.   
+
+### Subdomein  A3:  
+
+####Samenvatten
+
+3. De kandidaat kan teksten en tekstgedeelten beknopt samenvatten.   
+
+### Domein  B:  
+
+####Mondelinge taalvaardigheid
+
+4. De kandidaat kan ten behoeve van een voordracht, discussie of debat (ter keuze van de school): 
+
+– relevante informatie verzamelen en verwerken;  
+
+– deze informatie adequaat presenteren met het oog op doel, publiek en gespreksvorm;  
+
+– adequaat reageren op bijdragen van luisteraars of gespreksdeelnemers.     
+
+### Domein  C:  
+
+####Schrijfvaardigheid
+
+5. De kandidaat kan ten behoeve van een gedocumenteerde uiteenzetting, beschouwing en betoog: 
+
+– relevante informatie verzamelen en verwerken;  
+
+– deze informatie adequaat presenteren met het oog op doel, publiek, tekstsoort en conventies voor geschreven taal;  
+
+– concepten van de tekst reviseren op basis van geleverd commentaar.     
+
+### Domein  D:  
+
+####Argumentatieve vaardigheden
+
+6. De kandidaat kan een betoog: 
+
+– analyseren;  
+
+– beoordelen;  
+
+– zelf opzetten en presenteren, schriftelijk en mondeling.     
+
+### Domein  E:  
+
+####Literatuur
+
+### Subdomein  E1:  
+
+####Literaire ontwikkeling
+
+7. De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met een aantal door hem geselecteerde literaire werken. 
+
+* Minimumaantal: havo 8; vwo 12 waarvan minimaal 3 voor 1880.  
+
+* De werken zijn oorspronkelijk geschreven in de Nederlandse taal.     
+
+### Subdomein  E2:  
+
+####Literaire begrippen
+
+8. De kandidaat kan literaire tekstsoorten herkennen en onderscheiden, en literaire begrippen hanteren in de interpretatie van literaire teksten.   
+
+### Subdomein  E3:  
+
+####Literatuurgeschiedenis
+
+9. De kandidaat kan een overzicht geven van de hoofdlijnen van de literatuurgeschiedenis, en de gelezen literaire werken plaatsen in dit historisch perspectief.   
+
+### Domein  F:  
+
+####Oriëntatie op studie en beroep
+
+####Examenprogramma moderne vreemde talen en literatuur havo/vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Leesvaardigheid  |
+| Domein B  | Kijk-en luistervaardigheid  |
+| Domein C  | Gespreksvaardigheid  |
+| Domein D  | Schrijfvaardigheid  |
+| Domein E  | Literatuur  |
+| Domein F  | Oriëntatie op studie en beroep.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op domein A. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Leesvaardigheid
+
+1. De kandidaat kan: 
+
+– aangeven welke informatie relevant is, gegeven een vaststaande behoefte;  
+
+– de hoofdgedachte van een tekst(gedeelte) aangeven;  
+
+– de betekenis van belangrijke elementen van een tekst aangeven;  
+
+– relaties tussen delen van een tekst aangeven;  
+
+– conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur.     
+
+### Domein  B:  
+
+####Kijk- en luistervaardigheid
+
+2. De kandidaat kan: 
+
+– aangeven welke informatie relevant is, gegeven een vaststaande behoefte;  
+
+– de hoofdgedachte van een tekst aangeven;  
+
+– de betekenis van belangrijke elementen van een tekst aangeven;  
+
+– conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de spreker(s);  
+
+– anticiperen op het meest waarschijnlijke vervolg van een gesprek;  
+
+– aantekeningen maken als strategie om een tekst aan te pakken.     
+
+### Domein  C:  
+
+####Gespreksvaardigheid
+
+### Subdomein  C1:  
+
+####Gesprekken voeren
+
+3. De kandidaat kan: 
+
+– adequaat reageren in sociale contacten met doeltaalgebruikers;  
+
+– informatie vragen en verstrekken;  
+
+– uitdrukking geven aan gevoelens;  
+
+– zaken of personen beschrijven en standpunten en argumenten verwoorden;  
+
+– strategieën toepassen om een gesprek voortgang te doen vinden.     
+
+### Subdomein  C2:  
+
+####Spreken
+
+4. De kandidaat kan verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en standpunten en argumenten verwoorden.   
+
+### Domein  D:  
+
+####Schrijfvaardigheid
+
+### Subdomein  D1:  
+
+####Taalvaardigheden
+
+5. De kandidaat kan: 
+
+– adequaat reageren in schriftelijke contacten met doeltaalgebruikers;  
+
+– informatie vragen en verstrekken;  
+
+– verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en uitdrukking geven aan gevoelens en standpunten verwoorden;  
+
+– een verslag schrijven. Voor havo: geldt alleen voor Engelse en Turkse taal en literatuur. Voor vwo: geldt niet voor Russische taal en literatuur.     
+
+### Subdomein  D2:  
+
+####Strategische vaardigheden
+
+6. De kandidaat kan met behulp van: 
+
+– een tekstverwerkingsprogramma een tekst schrijven;  
+
+– (elektronisch) naslagmateriaal teksten opstellen.     
+
+### Domein  E:  
+
+####Literatuur
+
+### Subdomein  E1:  
+
+####Literaire ontwikkeling
+
+7. De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met ten minste drie literaire werken.   
+
+### Subdomein  E2:  
+
+####Literaire begrippen (alleen vwo)
+
+8. De kandidaat kan literaire tekstsoorten herkennen en onderscheiden, en literaire begrippen hanteren in de interpretatie van literaire teksten.   
+
+### Subdomein  E3:  
+
+####Literatuurgeschiedenis (alleen vwo)
+
+9. De kandidaat kan een overzicht geven van de hoofdlijnen van de literatuurgeschiedenis en de gelezen literaire werken plaatsen in dit historisch perspectief.   
+
+### Domein  F:  
+
+####Oriëntatie op studie en beroep
+
+####Examenprogramma
+
+*Ingangsdatum: augustus 2014*   *Eerste examenjaar: 2017*  Griekse taal en cultuur (GTC) vwo Latijnse taal en cultuur (LTC) vwo 
+
+####Griekse taal en cultuur (GTC)
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen: Domein A Reflectie op klassieke teksten (subdomein 1) en antieke cultuur (subdomein 2) Domein B Reflectie op relaties tussen de antieke cultuur en de latere Europese cultuur Domein C Zelfstandige oordeelsvorming Domein D Oriëntatie op studie en beroep Domein E Informatievaardigheden. 
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op de domeinen A (subdomein 1: reflectie op klassieke teksten), B<sup> 1 Voor zover dat mogelijk is, gelet op het karakter van het centraal examen. </sup> (B.3) en C (C.5). Het centraal examen heeft betrekking op authentieke en vertaalde teksten van een of meer auteurs, behorend tot eenzelfde genre. Het CvE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast. Het CvE maakt een specificatie bekend van de examenstof van het centraal examen. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op de domeinen A, B, C, D en E. Deze domeinen komen aan de orde aan de hand van: 
+
+– een selectie van circa 30 pagina’s (Oxford Classical Text) Griekse teksten. Deze selectie bevat teksten van tenminste twee genres uit de Griekse literatuur (zodanig dat samen met de auteur van het centraal examen proza én poëzie aan bod komen). Deze selectie bevat geen teksten van de auteur(s) die voor het centraal examen zijn vastgesteld, tenzij deze teksten behoren tot een ander genre en thema.   Daarnaast komen deze domeinen aan de orde aan de hand van: 
+
+– een selectie van tenminste 45 pagina’s klassieke, vertaalde teksten;  
+
+– indien het bevoegd gezag daarvoor kiest: toetsing van het vertalen van één of meer ongeziene passages;  
+
+– indien het bevoegd gezag daarvoor kiest: toetsing van de (creatieve) verwerking van een of meer cultuurdomeinen;  
+
+– indien het bevoegd gezag daarvoor kiest: stof van het centraal examen naast de hierboven vermelde stof voor het schoolexamen;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die eventueel per kandidaat kunnen verschillen.   Het bevoegd gezag kiest tenminste drie van de volgende cultuurdomeinen waarop de eindtermen betrekking hebben: verhalengoed, drama, beeldende kunst, architectuur, filosofie. Het bevoegd gezag kan, naast bovengenoemde domeinen, ook eigen cultuurdomeinen toevoegen. 
+
+####De examenstof
+
+*Domein A*: Reflectie op klassieke teksten en antieke cultuur  *subdomein 1*: Reflectie op klassieke teksten 
+
+1. De kandidaat kan zijn begrip van Griekse en klassieke, vertaalde teksten demonstreren door: 
+
+– een ongeziene passage te vertalen;  
+
+– een passage te analyseren en interpreteren vanuit taalkundig, letterkundig en cultuurhistorisch perspectief;  
+
+– een passage vanuit taalkundig, letterkundig en cultuurhistorisch perspectief te vergelijken met andere cultuuruitingen uit de oudheid of latere perioden.      *subdomein 2* *: (alleen van toepassing op het schoolexamen) Reflectie op antieke cultuur*  
+
+2.  *De kandidaat kan:*  
+
+–  *antieke cultuuruitingen van verschillende cultuurdomeinen plaatsen in hun historische en culturele context en met elkaar in verband brengen;*   
+
+–  *antieke cultuuruitingen onderzoeken en zijn bevindingen formuleren.*       *Domein B*: Reflectie op relaties tussen de antieke cultuur en de latere Europese cultuur 
+
+3. De kandidaat kan door de bestudering van de Griekse en klassieke, vertaalde teksten tegen de achtergrond van de antieke cultuur: 
+
+– onderwerpen actualiseren die voortvloeien uit een confrontatie tussen deze teksten en eigentijdse ontwikkelingen;  
+
+– de eigentijdse cultuur plaatsen in het perspectief van de klassieke traditie waarin Europa staat.    
+
+4.  *(Alleen van toepassing op het schoolexamen):*     *De kandidaat kan*  
+
+–  *voorbeelden uit de receptiegeschiedenis herkennen, deze plaatsen in de context van de betreffende periode in de Europese cultuur en de van toepassing zijnde werkingsmechanismen noemen;*   
+
+–  *cultuuruitingen uit de latere Europese cultuur vergelijken met antieke cultuuruitingen.*     *Domein C*: Zelfstandige oordeelsvorming 
+
+5. De kandidaat kan een beargumenteerde reactie formuleren op de inhoud van voorgelegde teksten en andere cultuuruitingen (uit de Oudheid en latere tijden).  
+
+6.  *(Alleen van toepassing op het schoolexamen)*   *De kandidaat kan cultuuruitingen uit de latere Europese cultuur vergelijken met antieke cultuuruitingen en daarover een beargumenteerd oordeel geven.*     *Domein D*: Oriëntatie op studie en beroep  *Domein E*: Informatievaardigheden 
+
+7. De kandidaat kan: 
+
+– doelgericht informatie en bronnenmateriaal zoeken, beoordelen, selecteren en verwerken, o.a. met behulp van het woordenboek;  
+
+– (verworven) informatie verwerken en daaruit beredeneerde conclusies trekken;  
+
+– gebruik maken van verschillende ICT-toepassingen bij GTC;  
+
+– adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren over onderwerpen uit het desbetreffende vakgebied;  
+
+– bij het verwerven van vakkennis en vakvaardigheden reflecteren op eigen belangstelling, motivatie en leerproces.     
+
+####Latijnse taal en cultuur (LTC)
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen: Domein A Reflectie op klassieke teksten (subdomein 1) en antieke cultuur (subdomein 2) Domein B Reflectie op relaties tussen de antieke cultuur en de latere Europese cultuur Domein C Zelfstandige oordeelsvorming Domein D Oriëntatie op studie en beroep Domein E Informatievaardigheden 
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op de domeinen A (subdomein 1: reflectie op klassieke teksten), B<sup> 2 Voor zover dat mogelijk is, gelet op het karakter van het centraal examen </sup> (B.3) en C (C.5) Het centraal examen heeft betrekking op authentieke en vertaalde teksten van een of meer auteurs, behorend tot eenzelfde genre. Het CvE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast. Het CvE maakt een specificatie bekend van de examenstof van het centraal examen. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op: 
+
+– de domeinen A, B, C, D en E. Deze domeinen komen aan de orde aan de hand van een selectie van tenminste 30 pagina’s (Oxford Classical Text) Latijnse teksten. Deze selectie bevat teksten van tenminste twee genres uit de Latijnse literatuur (zodanig dat samen met de auteur van het centraal examen proza én poëzie aan bod komen).   Deze bevat geen teksten van de auteur(s) die voor het centraal examen zijn vastgesteld, tenzij deze teksten behoren tot een ander genre en thema. Daarnaast komen deze domeinen aan de orde aan de hand van: 
+
+– een selectie van tenminste 45 pagina’s klassieke, vertaalde teksten;  
+
+– indien het bevoegd gezag daarvoor kiest: toetsing van het vertalen van één of meer ongeziene passages;  
+
+– indien het bevoegd gezag daarvoor kiest: toetsing van de (creatieve) verwerking van een of meer cultuurdomeinen;  
+
+– indien het bevoegd gezag daarvoor kiest: stof van het centraal examen naast de hierboven vermelde stof voor het schoolexamen;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die eventueel per kandidaat kunnen verschillen.   Het bevoegd gezag kiest tenminste drie van de volgende cultuurdomeinen waarop de eindtermen betrekking hebben: verhalengoed, drama, beeldende kunst, architectuur, filosofie. Het bevoegd gezag kan, naast bovengenoemde domeinen, ook eigen cultuurdomeinen toevoegen.  *Domein A*: Reflectie op klassieke teksten en antieke cultuur  *subdomein 1*: Reflectie op klassieke teksten 
+
+1. De kandidaat kan zijn begrip van Latijnse en klassieke, vertaalde teksten demonstreren door: 
+
+– een ongeziene passage te vertalen;  
+
+– een passage te analyseren en interpreteren vanuit taalkundig, letterkundig en/of cultuurhistorisch perspectief;  
+
+– een passage vanuit taalkundig, letterkundig en cultuurhistorisch perspectief te vergelijken met andere cultuuruitingen uit de oudheid of latere perioden.      *subdomein 2*: (*alleen van toepassing op het schoolexamen*) Reflectie op antieke cultuur 
+
+2.  *De kandidaat kan:*  
+
+–  *antieke cultuuruitingen van verschillende cultuurdomeinen plaatsen in hun historische en culturele context en met elkaar in verband brengen;*   
+
+–  *antieke cultuuruitingen onderzoeken en zijn bevindingen formuleren.*       *Domein B*: Reflectie op relaties tussen de antieke cultuur en de latere Europese cultuur 
+
+3. De kandidaat kan door de bestudering van de Latijnse en klassieke, vertaalde teksten tegen de achtergrond van de antieke cultuur: 
+
+– onderwerpen actualiseren die voortvloeien uit een confrontatie tussen deze teksten en eigentijdse ontwikkelingen;  
+
+– de eigentijdse cultuur plaatsen in het perspectief van de klassieke traditie waarin Europa staat.    
+
+4.  *(Alleen van toepassing op het schoolexamen):*     *De kandidaat kan:*  
+
+–  *voorbeelden uit de receptiegeschiedenis herkennen, deze plaatsen in de context van de betreffende periode in de Europese cultuur en de van toepassing zijnde werkingsmechanismen noemen;*   
+
+–  *cultuuruitingen uit de latere Europese cultuur vergelijken met antieke cultuuruitingen*     *Domein C*: Zelfstandige oordeelsvorming 
+
+5. De kandidaat kan een beargumenteerde reactie formuleren op de inhoud van voorgelegde teksten en andere cultuuruitingen (uit de Oudheid en latere tijden).  
+
+6.  *(Alleen van toepassing op het schoolexamen)*   *De kandidaat kan cultuuruitingen uit de latere Europese cultuur vergelijken met antieke cultuuruitingen en daarover een beargumenteerd oordeel geven*     *Domein D*: Oriëntatie op studie en beroep  *Domein E*: Informatievaardigheden 
+
+7. De kandidaat kan: 
+
+– doelgericht informatie en bronnenmateriaal zoeken, beoordelen, selecteren en verwerken, o.a. met behulp van het woordenboek  
+
+– (verworven) informatie verwerken en daaruit beredeneerde conclusies trekken;  
+
+– gebruik maken van verschillende ICT-toepassingen bij LTC;  
+
+– adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren over onderwerpen uit het desbetreffende vakgebied.  
+
+– bij het verwerven van vakkennis en vakvaardigheden reflecteren op eigen belangstelling, motivatie en leerproces     
+
+####Examenprogramma Friese taal en cultuur havo/vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Leesvaardigheid  |
+| Domein B  | Mondelinge taalvaardigheid  |
+| Domein C  | Schrijfvaardigheid  |
+| Domein D  | Literatuur  |
+| Domein E  | Friese taal en cultuur  |
+| Domein F  | Oriëntatie op studie en beroep.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op domein A. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op: 
+
+– de domeinen E (behalve het gecursiveerde deel) en F, en ten minste twee domeinen uit de domeinen B, C, D en E (het gecursiveerde deel);  
+
+– indien het bevoegd gezag daarvoor kiest: het domein A, waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Leesvaardigheid
+
+1. De kandidaat kan van in het Fries geschreven artikelen en verslagen: 
+
+– de hoofdgedachte van een tekst(gedeelte) aangeven;  
+
+– relaties tussen delen van een tekst aangeven;  
+
+– conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur;  
+
+– standpunten en argumenten herkennen en onderscheiden.     
+
+### Domein  B:  
+
+####Mondelinge taalvaardigheid
+
+### Subdomein  B1:  
+
+####Luistervaardigheid
+
+2. De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: 
+
+– de hoofdgedachte van de tekst of tekstgedeelten verwoorden;  
+
+– opvattingen en gevoelens van de spreker benoemen;  
+
+– standpunten en argumenten herkennen en onderscheiden;  
+
+– het beoogde publiek en het spreekdoel benoemen.     
+
+### Subdomein  B2:  
+
+####Spreekvaardigheid
+
+3. De kandidaat kan verworven informatie adequaat in het Fries presenteren met het oog op doel en publiek en daarbij standpunten en argumenten verwoorden.   
+
+### Subdomein  B3:  
+
+####Gespreksvaardigheid
+
+4. De kandidaat kan in een gesprek in het Fries adequaat: 
+
+– informatie vragen of verstrekken met het oog op doel, publiek en gespreksvorm;  
+
+– reageren op bijdragen van luisteraars of gespreksdeelnemers.     
+
+### Domein  C:  
+
+####Schrijfvaardigheid
+
+5. De kandidaat kan adequaat in het Fries: 
+
+– schriftelijk informatie vragen en verstrekken;  
+
+– verworven informatie schriftelijk presenteren, rekening houdend met doel en publiek en daarbij standpunten en argumenten verwoorden of uitdrukking geven aan gevoelens;  
+
+– een verslag schrijven.     
+
+### Domein  D:  
+
+####Literatuur
+
+### Subdomein  D1:  
+
+####Literaire ontwikkeling
+
+6. De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met een aantal door hem geselecteerde literaire werken. De werken zijn oorspronkelijk geschreven in de Friese taal. 
+
+* Minimumaantal: havo 6; vwo 9 waarvan minimaal 3 voor 1945.     
+
+### Subdomein  D2:  
+
+####Literaire begrippen
+
+7. De kandidaat kan literaire tekstsoorten herkennen en onderscheiden, en literaire begrippen hanteren bij de interpretatie van literaire teksten.   
+
+### Subdomein  D3:  
+
+####Literatuurgeschiedenis
+
+8. De kandidaat kan een overzicht geven van de hoofdlijnen van de Friese literatuurgeschiedenis en de gelezen literaire werken plaatsen in historisch perspectief.   
+
+### Domein  E:  
+
+####Friese taal en cultuur
+
+### Subdomein  E1:  
+
+####Friese taal
+
+9. De kandidaat kan: 
+
+– hoofdlijnen aangeven van de historische ontwikkeling van de Friese taal;  
+
+– voorbeelden geven van taalverandering en interferenties;  
+
+– de hedendaagse positie van de Friese taal als minderheidstaal binnen de regionale, de Nederlandse en de Europese samenleving verwoorden;  
+
+– de rol en de maatschappelijke betekenis van de Friese taal in het openbare leven beschrijven;  
+
+–  *beargumenteerd verslag uitbrengen van zijn studie naar of ervaringen met een taalkundig verschijnsel in Friesland.*      
+
+### Subdomein  E2:  
+
+####Friese cultuur
+
+10. De kandidaat kan: 
+
+– (door middel van voorbeelden) een overzicht geven van uiteenlopende Friese cultuuruitingen;  
+
+–  *beargumenteerd verslag uitbrengen van zijn ervaringen met enkele Friese cultuuruitingen.*      
+
+### Domein  F:  
+
+####Oriëntatie op studie en beroep
+
+####Eksamenprogramma Fryske taal en kultuer hafû/twû
+
+####It eineksamen
+
+It eineksamen bestiet út it sintraal eksamen en in skoaleksamen. It eksamenprogramma bestiet út de neikommende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Lêsfeardigens  |
+| Domein B  | Mûnlinge taalfeardigens  |
+| Domein C  | Skriuwfeardigens  |
+| Domein D  | Literatuer  |
+| Domein E  | Fryske taal en kultuer  |
+| Domein F  | Oriïntaasje op stúdzje en berop.  |
+
+####It sintraal eksamen
+
+It sintraal eksamen slacht op domein A. 
+
+####It skoaleksamen
+
+It skoaleksamen slacht op: 
+
+– de domeinen E (útsein it kursivearre diel) en F, en op syn minst twa domeinen út de domeinen B, C, D en E (it kursivearre diel);  
+
+– as it foechhawwend gesach dêrfoar kiest: it domein A, dêr't it sintraal eksamen op slacht;  
+
+– as it foechhawwend gesach dêrfoar kiest: oare fakûnderdielen, dy't per kandidaat ferskille kinne.   
+
+####De eksamenstof
+
+### Domein  A:  
+
+####Lêsfeardigens
+
+1. De kandidaat kin fan Frysk skreaune artikels en ferslaggen: 
+
+– de haadgedachte fan in tekst(gedielte) oanjaan;  
+
+– relaasjes tusken dielen fan in tekst oanjaan;  
+
+– konklúzjes lûke oangeande yntinsjes, opfettings en gefoelens fan de auteur;  
+
+– stânpunten en arguminten werkenne en ûnderskiede.     
+
+### Domein  B:  
+
+####Mûnlinge taalfeardigens
+
+### Subdomein  B1:  
+
+####Harkfeardigens
+
+2. De kandidaat kin fan in betooch of fan in útiensetting yn it Frysk: 
+
+– de haadgedachte fan de tekst of tekstgedielten ûnder wurden bringe;  
+
+– opfettings en gefoelens fan de sprekker beneame;  
+
+– stânpunten en arguminten werkenne en ûnderskiede;  
+
+– it publyk dat de sprekker foar eagen hat en it sprekdoel beneame.     
+
+### Subdomein  B2:  
+
+####Sprekfeardigens
+
+3. De kandidaat kin bemachtige ynformaasje adekwaat yn it Frysk presintearje mei it each op doel en publyk en dêrby stânpunten en arguminten ûnder wurden bringe.   
+
+### Subdomein  B3:  
+
+####Praatfeardigens
+
+4. De kandidaat kin yn in petear yn it Frysk adekwaat: 
+
+– ynformaasje freegje of jaan mei it each op doel, publyk en petearfoarm;  
+
+– reagearje op bydragen fan harkers of peteardielnimmers.     
+
+### Domein  C:  
+
+####Skriuwfeardigens
+
+5. De kandidaat kin adekwaat yn it Frysk: 
+
+– skriftlike ynformaasje freegje en jaan;  
+
+– bemachtige ynformaasje skriftlik presintearje, hâldt rekken mei it doel en publyk en kin dêrby stânpunten en arguminten ûnder wurden bringe of utering jaan oan gefoelens;  
+
+– in ferslach skriuwe.     
+
+### Domein  D:  
+
+####Literatuer
+
+### Subdomein  D1:  
+
+####Literêre ûntwikkeling
+
+6. De kandidaat kin beärgumintearre ferslach útbringe fan de lêsûnderfinings mei in oantal troch himsels selektearre literêre wurken. De wurken binne oarspronklik skreaun yn it Frysk. 
+
+* Minimumoantal: hafû 6; twû 9 dêr't minimaal 3 fan foar 1945 binne.     
+
+### Subdomein  D2:  
+
+####Literêre begripen
+
+7. De kandidaat kin literêre tekstsoarten werkenne en ûnderskiede, en literêre begripen hantearje by de ynterpretaasje fan literêre teksten.   
+
+### Subdomein  D3:  
+
+####Literatuerskiednis
+
+8. De kandidaat kin in oersicht jaan fan de haadlinen fan de Fryske literatuerskiednis en de lêzen literêre wurken pleatse yn histoarysk perspektyf.   
+
+### Domein  E:  
+
+####Fryske taal en kultuer
+
+### Subdomein  E1:  
+
+####Fryske taal
+
+9. De kandidaat kin: 
+
+– haadlinen oanjaan fan de histoaryske ûntwikkeling fan de Fryske taal;  
+
+– foarbylden jaan fan taalferoarings en ynterferinsjes;  
+
+– de hjoeddeiske posysje fan de Fryske taal as minderheidstaal yn de regionale, de Nederlânske en Europeeske maatskippij ûnder wurden bringe;  
+
+– de rol en de maatskiplike betsjutting fan de Fryske taal yn it iepenbiere libben beskriuwe;  
+
+–  *beärgumintearre ferslach útbringe fan de stúdzje nei of ûnderfinings mei in taalkundich ferskynsel yn Fryslân.*      
+
+### Subdomein  E2:  
+
+####Fryske kultuer
+
+10. De kandidaat kin: 
+
+– (oan de hân fan foarbylden) in oersicht jaan fan ûnderskate Fryske kultueruterings;  
+
+–  *beärgumintearre ferslach útbringe fan de ûnderfinings mei in oantal Fryske kultueruterings.*      
+
+### Domein  F:  
+
+####Oriïntaasje op stúdzje en berop
+
+####Examenprogramma maatschappijleer vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaardigheden  |
+| Domein B  | Rechtsstaat  |
+| Domein C  | Parlementaire democratie  |
+| Domein D  | Verzorgingsstaat  |
+| Domein E  | Pluriforme samenleving.  |
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op domein A tot en met E, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen. 
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+### Subdomein  A1:  
+
+####Informatievaardigheden
+
+1. De kandidaat kan: 
+
+– voor een vraag bruikbaar bronnenmateriaal verwerven en er gegevens uit selecteren;  
+
+– (verworven) informatie verwerken o.a. met behulp van ICT en daaruit beredeneerde conclusies trekken;  
+
+– een stelling, zowel mondeling als schriftelijk, nuanceren, verdedigen en bestrijden en daarbij gebruikmaken van argumentatievaardigheden.     
+
+### Subdomein  A2:  
+
+####Benaderingswijzen
+
+2. De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij: 
+
+– aannemelijk maken wat de relatie is tussen het vraagstuk/probleem en de rechtsstaat, parlementaire democratie, verzorgingsstaat en pluriforme samenleving;  
+
+– beargumenteren of door het vraagstuk/probleem belangrijke waarden van de rechtsstaat, parlementaire democratie, verzorgingsstaat en pluriforme samenleving in het geding zijn;  
+
+– beschrijven wat de relatie is tussen het maatschappelijke vraagstuk/probleem en sociale ongelijkheid in de samenleving.     
+
+### Domein  B:  
+
+####Rechtsstaat
+
+### Subdomein  B1:  
+
+####Vrijheidsrechten en plichten; het beginsel rechtsstaat
+
+3. De kandidaat kan: 
+
+– voorbeelden van vrijheidsrechten en plichten die inwoners van Nederland hebben, herleiden tot wetten en artikelen in de Grondwet;  
+
+– de waarden noemen die aan die grondbeginselen ten grondslag liggen;  
+
+– uitleggen wat de beginselen van de rechtsstaat zijn.     
+
+### Subdomein  B2:  
+
+####De praktijk van de rechtsstaat
+
+4. De kandidaat kan aan de hand van voorbeelden de spanning weergeven tussen de beginselen van de rechtsstaat enerzijds en de praktijk zoals die door groepen burgers ervaren wordt anderzijds.   
+
+### Subdomein  B3:  
+
+####Internationale vergelijking en internationale organisaties
+
+5. De kandidaat kan: 
+
+– de waarden en praktijk van de rechtsstaat in Nederland vergelijken met die van enkele andere westerse landen;  
+
+– voorbeelden geven van internationale invloed op het Nederlandse beleid en de Nederlandse regelgeving ten aanzien van de praktijk van de rechtsstaat.     
+
+### Domein  C:  
+
+####Parlementaire democratie
+
+### Subdomein  C1:  
+
+####Politieke rechten; de structuur van de democratie
+
+6. De kandidaat kan: 
+
+– voorbeelden van politieke rechten die inwoners van Nederland hebben, herleiden tot artikelen in de Grondwet;  
+
+– de waarden noemen die aan democratie ten grondslag liggen;  
+
+– de structuur van de representatieve democratie in Nederland uitleggen op gemeentelijk, provinciaal, landelijk niveau;  
+
+– de structuur van de vertegenwoordiging op EU-niveau uitleggen.     
+
+### Subdomein  C2:  
+
+####De praktijk van de parlementaire democratie
+
+7. De kandidaat kan: 
+
+– de fasen in het proces van politieke besluitvorming op gemeentelijk, provinciaal en nationaal niveau beschrijven;  
+
+– het verschil beschrijven tussen een parlementair stelsel en een presidentieel stelsel; alsmede tussen een meerderheidsstelsel en een stelsel van evenredige vertegenwoordiging;  
+
+– de rol van massamedia bij politieke besluitvorming beschrijven;  
+
+– aangeven welke factoren de politieke participatie van burgers beïnvloeden en waarom niet een ieder van zijn of haar politieke rechten gebruik maakt;  
+
+– uitleggen dat er spanning bestaat tussen representatie en representativiteit;  
+
+– dilemma’s herkennen, die samenhangen met de uitgangspunten van de democratie en de hoofdlijnen van de politieke discussie hierover weergeven.     
+
+### Subdomein  C3:  
+
+####Internationale vergelijking en internationale organisaties
+
+8. De kandidaat kan aangeven welke gevolgen de vorming van de Europese Unie heeft voor de politieke rechten van de Europese burger.   
+
+### Domein  D:  
+
+####Verzorgingsstaat
+
+### Subdomein  D1:  
+
+####Geschiedenis van de verzorgingsstaat
+
+9. De kandidaat kan uitleggen onder invloed van welke factoren de verzorgingsstaat zich in Nederland heeft ontwikkeld na de tweede wereldoorlog en welke actoren erbij betrokken zijn.   
+
+### Subdomein  D2:  
+
+####Sociale rechten en plichten; kenmerken van een verzorgingsstaat
+
+10. De kandidaat kan: 
+
+– voorbeelden van sociale rechten en plichten die inwoners van Nederland hebben, herleiden tot wetten en artikelen in de Grondwet;  
+
+– de waarden noemen die ten grondslag liggen aan de verzorgingsstaat;  
+
+– kenmerken van de Nederlandse verzorgingsstaat beschrijven.     
+
+### Subdomein  D3:  
+
+####De praktijk van de verzorgingsstaat
+
+11. De kandidaat kan: 
+
+– hoofdlijnen aangeven van politieke discussies over de praktijk van de verzorgingsstaat en de opvattingen van politieke partijen hierover;  
+
+– het proces beschrijven van een mogelijk terugtredende rol van de verzorgingsstaat en de wisselwerking die zich daarbij voordoet tussen politiek en samenleving;  
+
+– de relatie tussen de verzorgingsstaat en sociale ongelijkheid uitleggen.     
+
+### Subdomein  D4:  
+
+####Internationale vergelijking en internationale organisaties
+
+12. De kandidaat kan: 
+
+– een vergelijking maken tussen de Nederlandse verzorgingsstaat en die in een ander westers land;  
+
+– aangeven welke gevolgen de vorming van de Europese Unie heeft voor de sociale rechten van de Europese burger.     
+
+### Domein  E:  
+
+####Pluriforme samenleving
+
+### Subdomein  E1:  
+
+####Geschiedenis van de pluriforme samenleving
+
+13. De kandidaat kan uitleggen onder invloed van welke factoren de huidige pluriforme samenleving in Nederland is ontstaan en welke actoren erbij betrokken zijn.   
+
+### Subdomein  E2:  
+
+####Grondrechten die horen bij de pluriforme samenleving
+
+14. De kandidaat kan: 
+
+– voorbeelden van grondrechten die horen bij de pluriforme samenleving, herleiden tot artikelen in de Grondwet;  
+
+– de waarden noemen die ten grondslag liggen aan de grondrechten;  
+
+– uitleggen wat het verschil is tussen morele verplichtingen en plichten;  
+
+– kenmerken van een pluriforme samenleving beschrijven.     
+
+### Subdomein  E3:  
+
+####De praktijk van de pluriforme samenleving
+
+15. De kandidaat kan: 
+
+– op basis van bronnen de verschillen in leefomstandigheden, gewoonten en gebruiken van (afstammelingen van) migranten enerzijds en de autochtone meerderheid van de bevolking anderzijds verklaren;  
+
+– uitleggen welke verschijnselen verband houden met toenemende of afnemende sociale cohesie;  
+
+– het beleid van de politiek ten aanzien van etnische minderheden en vreemdelingen/asielzoekers terugvoeren op (inter)nationale documenten;  
+
+– de standpunten van politieke partijen met betrekking tot vluchtelingen en migranten vergelijken en becommentariëren;  
+
+– verschillende visies weergeven met het oog op de mogelijkheid om waarden te formuleren als basis voor verklaringen waarin aan alle mensen bepaalde rechten worden toegekend.     
+
+### Subdomein  E4:  
+
+####Internationale vergelijking en internationale organisaties
+
+16. De kandidaat kan: 
+
+– aangeven welke gevolgen de Europese integratie heeft voor de Nederlandse cultuur en identiteit;  
+
+– een vergelijking maken tussen de Nederlandse maatschappij en een ander West-Europees land naar posities en kansen van migranten.     
+
+####Examenprogramma maatschappijleer havo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaardigheden  |
+| Domein B  | Rechtsstaat  |
+| Domein C  | Parlementaire democratie  |
+| Domein D  | Verzorgingsstaat  |
+| Domein E  | Pluriforme samenleving.  |
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op domein A tot en met E, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen. 
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+### Subdomein  A1:  
+
+####Informatievaardigheden
+
+1. De kandidaat kan: 
+
+– voor een vraag bruikbaar bronnenmateriaal verwerven en er gegevens uit selecteren;  
+
+– (verworven) informatie verwerken o.a. met behulp van ICT en daaruit beredeneerde conclusies trekken;  
+
+– een stelling, zowel mondeling als schriftelijk, nuanceren, verdedigen en bestrijden en daarbij gebruikmaken van argumentatievaardigheden.     
+
+### Subdomein  A2:  
+
+####Benaderingswijzen
+
+2. De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij: 
+
+– aannemelijk maken wat de relatie is tussen het vraagstuk/probleem en de rechtsstaat, parlementaire democratie, verzorgingsstaat en pluriforme samenleving;  
+
+– beargumenteren of door het vraagstuk/probleem belangrijke waarden van de rechtsstaat, parlementaire democratie, verzorgingsstaat en pluriforme samenleving in het geding zijn;  
+
+– beschrijven wat de relatie is tussen het maatschappelijke vraagstuk/probleem en sociale ongelijkheid in de samenleving.     
+
+### Domein  B:  
+
+####Rechtsstaat
+
+### Subdomein  B1:  
+
+####Vrijheidsrechten en plichten; het beginsel rechtsstaat
+
+3. De kandidaat kan: 
+
+– voorbeelden van vrijheidsrechten en plichten die inwoners van Nederland hebben, herleiden tot wetten en artikelen in de Grondwet;  
+
+– de waarden noemen die aan die grondbeginselen ten grondslag liggen;  
+
+– uitleggen wat de beginselen van de rechtsstaat zijn.     
+
+### Subdomein  B2:  
+
+####De praktijk van de rechtsstaat
+
+4. De kandidaat kan aan de hand van voorbeelden de spanning weergeven tussen de beginselen van de rechtsstaat enerzijds en de praktijk zoals die door groepen burgers ervaren wordt anderzijds.   
+
+### Subdomein  B3:  
+
+####Internationale vergelijking en internationale organisaties
+
+5. De kandidaat kan de waarden en praktijk van de rechtsstaat in Nederland vergelijken met die van enkele andere westerse landen.   
+
+### Domein  C:  
+
+####Parlementaire democratie
+
+### Subdomein  C1:  
+
+####Politieke rechten; de structuur van de democratie
+
+6. De kandidaat kan: 
+
+– voorbeelden van politieke rechten die inwoners van Nederland hebben, herleiden tot artikelen in de Grondwet;  
+
+– de waarden noemen die aan democratie ten grondslag liggen;  
+
+– de structuur van de representatieve democratie in Nederland uitleggen op gemeentelijk, provinciaal en landelijk niveau;  
+
+– de structuur van de vertegenwoordiging op EU-niveau uitleggen.     
+
+### Subdomein  C2:  
+
+####De praktijk van de parlementaire democratie
+
+7. De kandidaat kan: 
+
+– de fasen in het proces van politieke besluitvorming op gemeentelijk, provinciaal en nationaal niveau beschrijven;  
+
+– de rol van massamedia bij politieke besluitvorming beschrijven;  
+
+– dilemma’s herkennen die samenhangen met de uitgangspunten van de democratie en de hoofdlijnen van de politieke discussie hierover weergeven.     
+
+### Subdomein  C3:  
+
+####Internationale vergelijking en internationale organisaties
+
+8. De kandidaat kan aangeven welke gevolgen de vorming van de Europese Unie heeft voor de politieke rechten van de Europese burger.   
+
+### Domein  D:  
+
+####Verzorgingsstaat
+
+### Subdomein  D1:  
+
+####Geschiedenis van de verzorgingsstaat
+
+9. De kandidaat kan uitleggen onder invloed van welke factoren de verzorgingsstaat zich in Nederland heeft ontwikkeld na de tweede wereldoorlog en welke actoren erbij betrokken zijn.   
+
+### Subdomein  D2:  
+
+####Sociale rechten en plichten; kenmerken van een verzorgingsstaat
+
+10. De kandidaat kan: 
+
+– voorbeelden van sociale rechten en plichten die inwoners van Nederland hebben, herleiden tot wetten en artikelen in de Grondwet;  
+
+– de waarden noemen die ten grondslag liggen aan de verzorgingsstaat;  
+
+– kenmerken van de Nederlandse verzorgingsstaat beschrijven.     
+
+### Subdomein  D3:  
+
+####De praktijk van de verzorgingsstaat
+
+11. De kandidaat kan: 
+
+– hoofdlijnen aangeven van politieke discussies over de praktijk van de verzorgingsstaat;  
+
+– de relatie tussen de verzorgingsstaat en sociale ongelijkheid uitleggen.     
+
+### Subdomein  D4:  
+
+####Internationale vergelijking en internationale organisaties
+
+12. De kandidaat kan aangeven welke gevolgen de vorming van de Europese Unie heeft voor de sociale rechten van de Europese burger.   
+
+### Domein  E:  
+
+####Pluriforme samenleving
+
+### Subdomein  E1:  
+
+####Geschiedenis van de pluriforme samenleving
+
+13. De kandidaat kan uitleggen onder invloed van welke factoren de huidige pluriforme samenleving in Nederland is ontstaan en welke actoren erbij betrokken zijn.   
+
+### Subdomein  E2:  
+
+####Grondrechten die horen bij de pluriforme samenleving
+
+14. De kandidaat kan: 
+
+– voorbeelden van grondrechten die horen bij de pluriforme samenleving, herleiden tot artikelen in de Grondwet;  
+
+– de waarden noemen die ten grondslag liggen aan de grondrechten;  
+
+– uitleggen wat het verschil is tussen morele verplichtingen en plichten;  
+
+– kenmerken van een pluriforme samenleving beschrijven.     
+
+### Subdomein  E3:  
+
+####De praktijk van de pluriforme samenleving
+
+15. De kandidaat kan: 
+
+– op basis van bronnen de verschillen in leefomstandigheden, gewoonten en gebruiken van (afstammelingen van) migranten enerzijds en de autochtone meerderheid van de bevolking anderzijds verklaren;  
+
+– het beleid van de politiek ten aanzien van etnische minderheden en vreemdelingen/asielzoekers terugvoeren op (inter)nationale documenten;  
+
+– de standpunten van politieke partijen met betrekking tot vluchtelingen en migranten vergelijken en becommentariëren.     
+
+### Subdomein  E4:  
+
+####Internationale vergelijking en internationale organisaties
+
+16. De kandidaat kan aangeven welke gevolgen de Europese integratie heeft voor de Nederlandse cultuur en identiteit.   
+
+####Examenprogramma algemene natuurwetenschappen vwo (tevens havo)
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaardigheden  |
+| Domein B  | Analyse van en reflectie op natuurwetenschap en techniek  |
+| Domein C  | Leven  |
+| Domein D  | Biosfeer  |
+| Domein E  | Materie  |
+| Domein F  | Zonnestelsel en heelal.  |
+
+Dit examenprogramma is ook van toepassing op het havo, waar de school voor havo ervoor kiest om algemene natuurwetenschappen als afzonderlijk vak in het eindexamen op te nemen, met dien verstande dat voor het havo een selectie kan worden gemaakt uit de examenstof. De domeinen A en B behoren altijd tot de examenstof. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op: 
+
+– de domeinen A en B;  
+
+– uit ten minste drie van de vier overige domeinen tenminste één subdomein;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+### Subdomein  A1:  
+
+####Taalvaardigheden
+
+1. De kandidaat kan adequaat schriftelijk en mondeling communiceren over natuurwetenschappelijke onderwerpen.   
+
+### Subdomein  A2:  
+
+####Reken-/wiskundige vaardigheden
+
+2. De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen.   
+
+### Subdomein  A3:  
+
+####Informatievaardigheden
+
+3. De kandidaat kan, mede met behulp van ICT, informatie selecteren, verwerken, beoordelen en presenteren.   
+
+### Subdomein  A4:  
+
+####Technisch-instrumentele vaardigheden
+
+4. De kandidaat kan op een verantwoorde manier omgaan met voor het vak relevante organismen en stoffen, instrumenten, apparaten en ICT-toepassingen.   
+
+### Subdomein  A5:  
+
+####Ontwerpvaardigheden
+
+5. De kandidaat kan een technisch ontwerp voorbereiden, uitvoeren, testen en evalueren.   
+
+### Subdomein  A6:  
+
+####Onderzoeksvaardigheden
+
+6. De kandidaat kan een natuurwetenschappelijk onderzoek voorbereiden, uitvoeren, de verzamelde onderzoeksresultaten verwerken en hieruit een conclusie trekken.   
+
+### Subdomein  A7:  
+
+####Maatschappelijke situaties
+
+7. De kandidaat kan toepassingen en effecten van natuurwetenschappen en techniek in verschillende maatschappelijke situaties herkennen en benoemen.   
+
+### Domein  B:  
+
+####Analyse van en reflectie op natuurwetenschap en techniek
+
+### Subdomein  B1:  
+
+####Kennisvorming
+
+8. De kandidaat kan weergeven hoe natuurwetenschappelijke kennis ontstaat, welke vragen natuurwetenschappelijke onderzoekers kunnen stellen en hoe ze aan betrouwbare antwoorden komen.   
+
+### Subdomein  B2:  
+
+####Toepassing van kennis
+
+9. De kandidaat kan analyseren hoe natuurwetenschappelijke en technische kennis wordt toegepast en kan reflecteren op de wisselwerking tussen natuurwetenschap, techniek en samenleving.   
+
+### Subdomein  B3:  
+
+####De invloed van natuurwetenschap en techniek
+
+10. De kandidaat kan oordelen over de betrouwbaarheid van toegepaste natuurwetenschappelijke kennis en een eigen mening over maatschappelijk-natuurwetenschappelijke vraagstukken vormen.   
+
+### Domein  C:  
+
+####Leven
+
+### Subdomein  C1:  
+
+####Kenmerken van leven
+
+11. De kandidaat kan aan leken uitleggen dat levende wezens eigenschappen bezitten om zichzelf en de soort in stand te houden en aangeven op welke manier ze zich kunnen aanpassen aan veranderingen in hun omgeving.   
+
+### Subdomein  C2:  
+
+####Mens en gezondheid
+
+12. De kandidaat kent de ontwikkeling van opvattingen, technieken en producten in de gezondheidszorg en kan positieve en negatieve effecten daarvan bespreken.   
+
+### Subdomein  C3:  
+
+####Evolutie van het leven
+
+13. De kandidaat kan de ontwikkeling van het denken over de oorsprong van het leven beschrijven en in verband brengen met kennistheoretische, levensbeschouwelijke en sociologische opvattingen.   
+
+### Domein  D:  
+
+####Biosfeer
+
+### Subdomein  D1:  
+
+####Kenmerken van de biosfeer
+
+14. De kandidaat kan aan leken uitleggen welke randvoorwaarden met het leven op aarde samenhangen en op welke wijze deze kunnen veranderen.   
+
+### Subdomein  D2:  
+
+####Duurzame ontwikkeling
+
+15. De kandidaat kan uitleggen wat duurzame ontwikkeling inhoudt, het effect van ingrepen in de biosfeer kritisch bespreken en daarbij onderscheid maken tussen economische, ecologische, sociaal-culturele en mondiale aspecten.   
+
+### Domein  E:  
+
+####Materie
+
+### Subdomein  E1:  
+
+####Kenmerken van materie
+
+16. De kandidaat weet dat stoffen in de levende en niet levende natuur uit elementen zijn opgebouwd en hoe stoffen met elkaar kunnen reageren.   
+
+### Subdomein  E2:  
+
+####Productie van materialen
+
+17. De kandidaat heeft kennis van de ontwikkeling en betekenis van stoffen en materialen in de loop van de tijd en kan kenmerken van moderne productiemethoden noemen.   
+
+### Subdomein  E3:  
+
+####Ontstaan van kennis over de materie
+
+18. De kandidaat kan de ontwikkeling van modellen voor de bouwstenen van de materie in de loop van de tijd beschrijven.   
+
+### Domein  F:  
+
+####Zonnestelsel en heelal
+
+### Subdomein  F1:  
+
+####Kenmerken van het zonnestelsel en het heelal
+
+19. De kandidaat kan de bouw en geschiedenis van het zonnestelsel en het heelal aan leken uitleggen.   
+
+### Subdomein  F2:  
+
+####Zonnestelsel en heelal in het dagelijkse leven
+
+20. De kandidaat kan de invloed van en de kennis over het zonnestelsel en het heelal op het dagelijks leven aangeven en beschrijven hoe gegevens over het zonnestelsel en het heelal verzameld worden.   
+
+### Subdomein  F3:  
+
+####Ontstaan van kennis over het heelal
+
+21. De kandidaat kan de ontwikkeling van kennis en ideeën over de bouw en geschiedenis van het zonnestelsel en heelal beschrijven.   
+
+####Examenprogramma culturele en kunstzinnige vorming havo/vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Culturele activiteiten  |
+| Domein B  | Kennis van kunst en cultuur  |
+| Domein C  | Praktische activiteiten  |
+| Domein D  | Reflectie.  |
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op de domeinen A tot en met D, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen. 
+
+####De examenstof
+
+### Domein  A:  
+
+####Culturele activiteiten
+
+1. De kandidaat heeft actief deelgenomen aan tenminste 6 (havo), respectievelijk 8 (vwo) culturele activiteiten. De culturele activiteiten zijn gespreid naar de verschillende kunstdisciplines in beeldende vormgeving, dans, drama, literatuur en muziek.   
+
+### Domein  B:  
+
+####Kennis van kunst en cultuur
+
+2. De kandidaat kan vorm, inhoud, functie en historische achtergronden aangeven van kunstuitingen en daarbij ingaan op: 
+
+– onderlinge relaties tussen deze aspecten;  
+
+– relaties tussen kunstdisciplines;  
+
+– invloeden die (sub)culturen op elkaar kunnen hebben.     
+
+### Domein  C:  
+
+####Praktische activiteiten
+
+3. De kandidaat heeft actief deelgenomen aan praktische activiteiten gericht op het maken van een eigen werkstuk of productie binnen een of meer kunstdisciplines.   
+
+### Domein  D:  
+
+####Reflectie
+
+4. De kandidaat kan met betrekking tot de culturele activiteiten: 
+
+– verslag doen van zijn ervaringen, interpretaties en waarderingen;  
+
+– deze toelichten onder verwijzing naar vorm, inhoud, functie en historische achtergronden;  
+
+– deze koppelen aan ervaringen met praktische activiteiten;  
+
+– aan de hand daarvan reflecteren op zijn keuzen en zijn ervaringen.     
+
+####Examenprogramma lichamelijke opvoeding havo/vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het schoolexamen. Het eindexamen bestaat uit praktische bewegingsactiviteiten. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaardigheden  |
+| Domein B  | Bewegen  |
+| Domein C  | Bewegen en regelen  |
+| Domein D  | Bewegen en gezondheid  |
+| Domein E  | Bewegen en samenleving.  |
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verstande dat de eindtermen uit de domeinen A en C, D en E slechts in samenhang met domein B aan de orde komen), en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen. 
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+1. De kandidaat kan op verantwoorde en perspectiefrijke wijze en met plezier in bewegende en regelende rollen deelnemen aan de bewegingscultuur, en kan aangeven in hoeverre hij daaraan -ook in de toekomst- kan en wil deelnemen.   
+
+### Domein  B:  
+
+####Bewegen
+
+2. De kandidaat kan deelnemen aan een variëteit aan bewegingsactiviteiten, waarbij het gaat om: 
+
+– verbreding (leren van nieuwe activiteiten) en verdieping (qua niveau, taken en contexten) van bewegingsactiviteiten die in de onderbouw zijn aangeboden;  
+
+– in elk geval uit het activiteitengebied spelen een slag- en loopspel, twee doelspelen en een terugslagspel, bij voorkeur door de kandidaat te kiezen;  
+
+– minimaal twee door de kandidaat te kiezen bewegingsactiviteiten uit een door de school gedaan aanbod voor de activiteitengebieden turnen, atletiek, bewegen op muziek en zelfverdediging;  
+
+– minimaal drie door de kandidaat te kiezen en voor de kandidaat nieuwe bewegingsactiviteiten die bij voorkeur niet tot één van de hierboven genoemde activiteitengebieden behoren.     
+
+### Domein  C:  
+
+####Bewegen en regelen
+
+3. De kandidaat kan (samen met anderen) ondersteunende en leidinggevende rollen in bewegingssituaties vervullen, waarbij het gaat om: 
+
+– bewegingssituaties inrichten, op gang brengen en op gang houden;  
+
+– minimaal twee door de leerling te kiezen rollen van instructeur, coach/begeleider, scheidsrechter/jurylid en organisator.     
+
+### Domein  D:  
+
+####Bewegen en gezondheid
+
+4. De kandidaat kan op basis van eigen ervaring met en inzicht in de betekenis van sport en bewegen voor de (beleving van) gezondheid in brede zin verantwoord omgaan met belasting en risico's in bewegingssituaties, en een trainingsprogramma opstellen dat past bij de eigen mogelijkheden.   
+
+### Domein  E:  
+
+####Bewegen en samenleving
+
+5. De kandidaat kan op grond van inzicht in de kenmerken van het aanbod en in de eigen wensen en mogelijkheden ten aanzien van sportdeelname een bewuste keuze maken uit het aanbod aan sport en bewegen in de samenleving.   
+
+####Examenprogramma wiskunde A vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaardigheden  |
+| Domein Bg  | Functies en grafieken  |
+| Domein Cg  | Discrete analyse  |
+| Domein Eg  | Combinatoriek en kansrekening  |
+| Domein Ba  | Differentiaalrekening met toepassingen  |
+| Domein Fa  | Statistiek en kansrekening  |
+| Domein G  | Keuzeonderwerpen.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op de subdomeinen A5, Bg1, Bg2, Cg1, Eg1, Eg2, Eg3, Eg4, Ba1, Ba2, Fa1, Fa2, Fa3 en Fa4, in combinatie met de vaardigheden uit de subdomeinen A1, A2 en A3. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op domein A en: 
+
+– de (sub)domeinen Bg1, Cg2, Ba1 en Ba2;  
+
+– het domein G, met dien verstande dat deze onderwerpen per kandidaat kunnen verschillen;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+### Subdomein  A1:  
+
+####Informatievaardigheden
+
+1. De kandidaat kan, mede met behulp van ICT, informatie verwerven, selecteren, verwerken, beoordelen en presenteren.   
+
+### Subdomein  A2:  
+
+####Onderzoeksvaardigheden
+
+2. De kandidaat kan een gegeven probleemsituatie inventariseren, vertalen in een wiskundig model, binnen dat model wiskundige oplostechnieken hanteren en de gevonden oplossingen betekenis geven in de context.   
+
+### Subdomein  A3:  
+
+####Technisch-instrumentele vaardigheden
+
+3. De kandidaat kan bij raadplegen, verkennen en presenteren van wiskundige informatie en bij uitvoeren van wiskundige bewerkingen en redeneringen gebruik maken van toepassingen van ICT.   
+
+### Subdomein  A4:  
+
+####Oriëntatie op studie en beroep
+
+4. De kandidaat kan een verband leggen tussen zijn wiskundige kennis, vaardigheden en belangstelling en de rol van wiskunde in vervolgstudies en de praktijk van verschillende beroepen.   
+
+### Subdomein  A5:  
+
+####Algebraïsche vaardigheden
+
+5. De kandidaat beheerst de bij het examenprogramma passende rekenkundige en algebraïsche vaardigheden en formules, heeft daar inzicht in en kan de bewerkingen uitvoeren met, maar ook zonder, gebruik van ICT-middelen zoals de grafische rekenmachine.   
+
+### Domein  Bg:  
+
+####Functies en grafieken
+
+### Subdomein  Bg1:  
+
+####Standaardfuncties
+
+6. De kandidaat kan grafieken tekenen en herkennen van machtsfuncties, exponentiële functies, logaritmische functies en goniometrische functies en van die verschillende typen functies de karakteristieke eigenschappen benoemen.   
+
+### Subdomein  Bg2:  
+
+####Functies, grafieken, vergelijkingen en ongelijkheden
+
+7. De kandidaat kan functievoorschriften opstellen en bewerken, de bijbehorende grafieken tekenen en vergelijkingen en ongelijkheden oplossen met behulp van numerieke, grafische en algebraïsche methoden.   
+
+### Domein  Cg:  
+
+####Discrete analyse
+
+### Subdomein  Cg1:  
+
+####Veranderingen
+
+8. De kandidaat kan het veranderingsgedrag van grafieken en functies relateren aan differentiequotiënten, toenamediagrammen en hellinggrafieken en daarbij een relatie leggen met contexten.   
+
+### Subdomein  Cg2:  
+
+####Rijen en recurrente betrekkingen
+
+9. De kandidaat kan rekenkundige en meetkundige rijen herkennen, beschrijven en er berekeningen mee uitvoeren en werken met recurrente betrekkingen.   
+
+### Domein  Eg:  
+
+####Combinatoriek en kansrekening
+
+### Subdomein  Eg1:  
+
+####Combinatoriek
+
+10. De kandidaat kan bij telproblemen de situatie visualiseren met een schema, diagram en rooster en combinatorische berekeningen uitvoeren.   
+
+### Subdomein  Eg2:  
+
+####Kansen
+
+11. De kandidaat kan toevalsexperimenten vertalen in een kansmodel, de begrippen onafhankelijke gebeurtenissen en voorwaardelijke kansen hanteren en kansen berekenen op basis van een kansexperiment en op basis van symmetrie en combinatoriek.   
+
+### Subdomein  Eg3:  
+
+####Rekenen met kansen
+
+12. De kandidaat kan bij discrete toevalsvariabelen het begrip onafhankelijkheid hanteren, kansen berekenen met behulp van somregel, complementregel en productregel en van een discrete toevalsvariabele de verwachtingswaarde berekenen.   
+
+### Subdomein  Eg4:  
+
+####Speciale discrete verdelingen
+
+13. De kandidaat kan vaststellen of een toevalsexperiment kan worden vertaald naar een uniforme discrete verdeling of een binomiale kansverdeling en binnen die verdelingen kansen en verwachtingen berekenen.   
+
+### Domein  Ba:  
+
+####Differentiaalrekening met toepassingen
+
+### Subdomein  Ba1:  
+
+####Afgeleide functies
+
+14. De kandidaat kan, ook in toepassingssituaties, van een functie met behulp van rekenregels voor machts-, som- en kettingfuncties de afgeleide bepalen, aan de hand daarvan het veranderingsgedrag van de functie beschrijven, inclusief de extreme waarden en deze resultaten betekenis geven in de context.   
+
+### Subdomein  Ba2:  
+
+####Rekenregels
+
+15. De kandidaat kan, ook in toepassingssituaties, van een functie met behulp van de rekenregels voor product- en quotiëntfuncties de afgeleide bepalen, aan de hand daarvan het veranderingsgedrag van de functie beschrijven, inclusief de extreme waarden en deze resultaten betekenis geven in de context.   
+
+### Domein  Fa:  
+
+####Statistiek en kansrekening
+
+### Subdomein  Fa1:  
+
+####Populatie en steekproef
+
+16. De kandidaat kan bij een gegeven probleemsituatie de populatie aangeven, een gegeven steekproef beoordelen op geschiktheid en een geschikte steekproef kiezen.   
+
+### Subdomein  Fa2:  
+
+####Ordenen, verwerken en samenvatten van statistische gegevens
+
+17. De kandidaat kan, ook met behulp van ICT, waarnemingen verwerken in een geschikte tabel, visualiseren in een geschikt diagram, samenvatten met geschikte centrum- en spreidingsmaten en gegeven grafische representaties interpreteren.   
+
+### Subdomein  Fa3:  
+
+####Kansverdelingen
+
+18. De kandidaat kan het binomiale en het (standaard-)normale verdelingsmodel gebruiken voor het berekenen van kansen, relatieve frequenties, grenswaarden, gemiddelden en standaardafwijkingen van discrete en continue verdelingen.   
+
+### Subdomein  Fa4:  
+
+####Het toetsen van hypothesen
+
+19. De kandidaat kan nul- en alternatieve hypothesen en bijbehorende een- en tweezijdige toetsen formuleren en uitvoeren bij binomiaal- of normaal-verdeelde toevalsvariabelen.   
+
+### Domein  G:  
+
+####Keuzeonderwerpen
+
+####Examenprogramma wiskunde A havo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| DomeinA  | Vaardigheden  |
+| Domein B  | Veranderingen  |
+| Domein C  | Tellen en kansen  |
+| Domein D  | Statistiek  |
+| Domein E  | Verbanden  |
+| Domein F  | Toegepaste analyse  |
+| Domein G  | Binomiale verdeling.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op de subdomeinen A5, B1, B2, B3, C1, C2, D3, E1, E2, E3, G1, G2 en G3, in combinatie met de vaardigheden uit de subdomeinen A1, A2 en A3. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op domein A en: 
+
+– de (sub)domeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+### Subdomein  A1:  
+
+####Informatievaardigheden
+
+1. De kandidaat kan, mede met behulp van ICT, informatie verwerven, selecteren, verwerken, beoordelen en presenteren.   
+
+### Subdomein  A2:  
+
+####Onderzoeksvaardigheden
+
+2. De kandidaat kan een gegeven probleemsituatie inventariseren, vertalen in een wiskundig model, binnen dat model wiskundige oplostechnieken hanteren en de gevonden oplossingen betekenis geven in de context.   
+
+### Subdomein  A3:  
+
+####Technisch-instrumentele vaardigheden
+
+3. De kandidaat kan bij raadplegen, verkennen en presenteren van wiskundige informatie en bij uitvoeren van wiskundige bewerkingen en redeneringen gebruik maken van toepassingen van ICT.   
+
+### Subdomein  A4:  
+
+####Oriëntatie op studie en beroep
+
+4. De kandidaat kan een verband leggen tussen zijn wiskundige kennis, vaardigheden en belangstelling en de rol van wiskunde in vervolgstudies en de praktijk van verschillende beroepen.   
+
+### Subdomein  A5:  
+
+####Algebraïsche vaardigheden
+
+5. De kandidaat beheerst de bij het examenprogramma passende rekenkundige en algebraïsche vaardigheden en formules, heeft daar inzicht in en kan de bewerkingen uitvoeren met, maar ook zonder, gebruik van ICT-middelen zoals de grafische rekenmachine.   
+
+### Domein  B:  
+
+####Veranderingen
+
+### Subdomein  B1:  
+
+####Tabellen
+
+6. De kandidaat kan een tabel opstellen op basis van gegevens uit een tekst, een grafiek, een formule en andere tabellen en tabellen aflezen, interpreteren en in verband brengen met andere tabellen, grafieken, formules en tekst.   
+
+### Subdomein  B2:  
+
+####Grafieken
+
+7. De kandidaat kan een grafiek tekenen op basis van gegevens uit een tekst, een tabel, een formule of andere grafieken en grafieken aflezen, interpreteren en in verband brengen met andere grafieken, formules of tekst.   
+
+### Subdomein  B3:  
+
+####Veranderingen
+
+8. De kandidaat kan over een grafiek uitspraken doen over stijgen, dalen, maximum en minimum en is in staat veranderingen te beschrijven middels differenties, hellingen en toenamediagrammen.   
+
+### Domein  C:  
+
+####Tellen en kansen
+
+### Subdomein  C1:  
+
+####Tellen
+
+9. De kandidaat kan in een tekst beschreven telproblemen visualiseren met een schema of diagram, dergelijke visualiseringen interpreteren en aantallen mogelijkheden berekenen.   
+
+### Subdomein  C2:  
+
+####Kansen
+
+10. De kandidaat kan in een tekst beschreven kansproblemen analyseren, visualiseren met een schema en diagram en kansen berekenen.   
+
+### Domein  D:  
+
+####Statistiek
+
+### Subdomein  D1:  
+
+####Populatie en steekproef
+
+11. De kandidaat kan bij een gegeven probleemsituatie de populatie aangeven, een gegeven steekproef beoordelen op geschiktheid en een geschikte steekproef kiezen.   
+
+### Subdomein  D2:  
+
+####Ordenen, verwerken en samenvatten van statistische gegevens
+
+12. De kandidaat kan waarnemingen verwerken in een geschikte tabel, visualiseren in een geschikt diagram, samenvatten met geschikte centrum- en spreidingsmaten en een gegeven grafische representatie interpreteren.   
+
+### Subdomein  D3:  
+
+####De normale verdeling
+
+13. De kandidaat kan het normale verdelingsmodel gebruiken voor het berekenen van kansen, relatieve frequenties, gemiddelde en standaardafwijking.   
+
+### Domein  E:  
+
+####Verbanden
+
+### Subdomein  E1:  
+
+####Formules met twee of meer variabelen
+
+14. De kandidaat kan door substitutie in een formule waarden berekenen en een formule opstellen of wijzigen op basis van gegeven informatie.   
+
+### Subdomein  E2:  
+
+####Lineaire verbanden
+
+15. De kandidaat kan bij een lineair verband een formule opstellen en een grafiek tekenen, met lineaire verbanden berekeningen uitvoeren zoals interpolatie en extrapolatie, lineaire vergelijkingen en ongelijkheden oplossen en uitkomsten interpreteren.   
+
+### Subdomein  E3:  
+
+####Exponentiële verbanden
+
+16. De kandidaat kan exponentiële processen herkennen, met formules beschrijven, in grafieken weergeven en er berekeningen aan uitvoeren.   
+
+### Domein  F:  
+
+####Toegepaste analyse
+
+### Subdomein  F1:  
+
+####Exponentiële functies
+
+17. De kandidaat kan de grafiek van exponentiële functies tekenen in assenstelsels met lineaire of logaritmische schalen, dergelijke grafieken interpreteren en bij exponentiële groeigrafieken een formule opstellen.   
+
+### Subdomein  F2:  
+
+####Gebroken lineaire functies en machtsfuncties
+
+18. De kandidaat kan verbanden van de vorm  ![246549](http://wetten.overheid.nl/Illustration/246549)
+en  ![246550](http://wetten.overheid.nl/Illustration/246550)
+herkennen, interpreteren en tekenen en vanuit de beschrijving van dergelijke verbanden een formule opstellen.   
+
+### Domein  G:  
+
+####De binomiale verdeling
+
+### Subdomein  G1:  
+
+####Telproblemen
+
+19. De kandidaat kan permutaties en combinaties onderscheiden en berekenen. 
+
+### Subdomein  G2:  
+
+####Rekenen met kansen
+
+20. De kandidaat kan kansproblemen vertalen naar een vaasmodel en met behulp van rekenregels (somregel, productregel en complementregel) kansen en verwachtingswaarden berekenen. 
+
+### Subdomein  G3:  
+
+####De binomiale verdeling
+
+21. De kandidaat kan geschikte kansexperimenten vertalen naar een binomiaal kansmodel en binnen het model berekeningen uitvoeren. 
+
+####Examenprogramma wiskunde B vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaardigheden  |
+| Domein Bg  | Functies en grafieken  |
+| Domein Cg  | Discrete analyse  |
+| Domein Bb  | Differentiaal- en integraalrekening  |
+| Domein Db  | Goniometrische functies  |
+| Domein Gb  | Voortgezette meetkunde  |
+| Domein F  | Keuzeonderwerpen.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op de subdomeinen A5, Bg1, Bg2, Cg1, Bb1, Bb2, Bb3, Db1, Gb1 en Gb2, in combinatie met de vaardigheden uit de subdomeinen A1, A2 en A3. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op domein A in combinatie met: 
+
+– de domeinen Bb, Db en Gb;  
+
+– het domein F, met dien verstande dat deze onderwerpen per kandidaat kunnen verschillen;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer van de overige domeinen of subdomeinen;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+### Subdomein  A1:  
+
+####Informatievaardigheden
+
+1. De kandidaat kan, mede met behulp van ICT, informatie verwerven, selecteren, verwerken, beoordelen en presenteren.   
+
+### Subdomein  A2:  
+
+####Onderzoeksvaardigheden
+
+2. De kandidaat kan een gegeven probleemsituatie inventariseren, vertalen in een wiskundig model, binnen dat model wiskundige oplostechnieken hanteren en de gevonden oplossingen betekenis geven in de context.   
+
+### Subdomein  A3:  
+
+####Technisch-instrumentele vaardigheden
+
+3. De kandidaat kan bij raadplegen, verkennen en presenteren van wiskundige informatie en bij uitvoeren van wiskundige bewerkingen en redeneringen gebruik maken van toepassingen van ICT.   
+
+### Subdomein  A4:  
+
+####Oriëntatie op studie en beroep
+
+4. De kandidaat kan een verband leggen tussen zijn wiskundige kennis, vaardigheden en belangstelling en de rol van wiskunde in vervolgstudies en de praktijk van verschillende beroepen.   
+
+### Subdomein  A5:  
+
+####Algebraïsche vaardigheden
+
+5. De kandidaat beheerst de bij het examenprogramma passende rekenkundige en algebraïsche vaardigheden en formules, heeft daar inzicht in en kan de bewerkingen uitvoeren met, maar ook zonder, gebruik van ICT-middelen zoals de grafische rekenmachine.   
+
+### Domein  Bg:  
+
+####Functies en grafieken
+
+### Subdomein  Bg1:  
+
+####Standaardfuncties
+
+6. De kandidaat kan grafieken tekenen en herkennen van machtsfuncties, exponentiële functies, logaritmische functies en goniometrische functies en van die verschillende typen functies de karakteristieke eigenschappen benoemen.   
+
+### Subdomein  Bg2:  
+
+####Functies, grafieken, vergelijkingen en ongelijkheden
+
+7. De kandidaat kan functievoorschriften opstellen, bewerken, de bijbehorende grafieken tekenen en vergelijkingen en ongelijkheden oplossen met behulp van numerieke, grafische en algebraïsche methoden.   
+
+### Domein  Cg:  
+
+####Discrete analyse
+
+### Subdomein  Cg1:  
+
+####Veranderingen
+
+8. De kandidaat kan het veranderingsgedrag van grafieken en functies relateren aan differentiequotiënten, toenamendiagrammen, hellinggrafieken en contexten.   
+
+### Domein  Bb:  
+
+####Differentiaal- en integraalrekening
+
+### Subdomein  Bb1:  
+
+####Afgeleide functies
+
+9. De kandidaat kan het differentiaalquotiënt en de eerste en tweede afgeleide gebruiken om een functie te onderzoeken en om een contextprobleem op te lossen.   
+
+### Subdomein  Bb2:  
+
+####Algebraïsche technieken
+
+10. De kandidaat kan afgeleide functies bepalen met behulp van regels voor het differentiëren en algebraïsche technieken hanteren.   
+
+### Subdomein  Bb3:  
+
+####Integraalrekening
+
+11. De kandidaat kan in geschikte toepassingen een bepaalde integraal opstellen en exact berekenen, en met behulp van ICT benaderen.   
+
+### Domein  Db:  
+
+####Goniometrische functies
+
+### Subdomein  Db1:  
+
+####Goniometrische functies
+
+12. De kandidaat kan bij periodieke verschijnselen, met name trillingspatronen en harmonische bewegingen, formules opstellen, herleiden en bewerken, de bijbehorende grafieken tekenen en vergelijkingen oplossen.   
+
+### Domein  Gb:  
+
+####Voortgezette meetkunde
+
+### Subdomein  Gb1:  
+
+####Oriëntatie op bewijzen
+
+13. De kandidaat kan definities, vermoedens, stellingen en bewijzen onderscheiden, meetkundige situaties exploreren, een vermoeden of te bewijzen stelling formuleren en bewijzen of weerleggen.   
+
+### Subdomein  Gb2:  
+
+####Constructie en bewijzen in de vlakke meetkunde
+
+14. De kandidaat kan constructies uitvoeren en bewijzen geven.   
+
+### Domein  F:  
+
+####Keuzeonderwerpen
+
+####Examenprogramma wiskunde B havo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| DomeinA  | Vaardigheden  |
+| Domein B  | Veranderingen  |
+| Domein D  | Ruimtemeetkunde 1  |
+| Domein E  | Toegepaste analyse 1  |
+| Domein H  | Toegepaste analyse 2.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op de subdomeinen A5, B1, D1, D2, E1, E2, E3, E4 en H1, in combinatie met de vaardigheden uit de subdomeinen A1, A2 en A3. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op domein A en: 
+
+– de domeinen B en D;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer van de overige domeinen en subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+### Subdomein  A1:  
+
+####Informatievaardigheden
+
+1. De kandidaat kan, mede met behulp van ICT, informatie verwerven, selecteren, verwerken, beoordelen en presenteren.   
+
+### Subdomein  A2:  
+
+####Onderzoeksvaardigheden
+
+2. De kandidaat kan een gegeven probleemsituatie inventariseren, vertalen in een wiskundig model, binnen dat model wiskundige oplostechnieken hanteren en de gevonden oplossingen betekenis geven in de context.   
+
+### Subdomein  A3:  
+
+####Technisch-instrumentele vaardigheden
+
+3. De kandidaat kan bij raadplegen, verkennen en presenteren van wiskundige informatie en bij uitvoeren van wiskundige bewerkingen en redeneringen gebruik maken van toepassingen van ICT.   
+
+### Subdomein  A4:  
+
+####Oriëntatie op studie en beroep
+
+4. De kandidaat kan een verband leggen tussen zijn wiskundige kennis, vaardigheden en belangstelling en de rol van wiskunde in vervolgstudies en de praktijk van verschillende beroepen.   
+
+### Subdomein  A5:  
+
+####Algebraïsche vaardigheden
+
+5. De kandidaat beheerst de bij het examenprogramma passende rekenkundige en algebraïsche vaardigheden en formules, heeft daar inzicht in en kan de bewerkingen uitvoeren met, maar ook zonder, gebruik van ICT-middelen zoals de grafische rekenmachine.   
+
+### Domein  B:  
+
+####Veranderingen
+
+### Subdomein  B1:  
+
+####Veranderingen
+
+6. De kandidaat kan het veranderingsgedrag van een grafiek, tabel of functie onder meer door middel van toenamediagrammen en differentiequotiënten beschrijven en differentiequotiënten berekenen en interpreteren, ook vanuit een contextprobleem.   
+
+### Domein  D:  
+
+####Ruimtemeetkunde 1
+
+### Subdomein  D1:  
+
+####Fragmenttekeningen van ruimtelijke objecten
+
+7. De kandidaat kan van een ruimtelijk object aanzichten, uitslagen en vlakke doorsneden tekenen, interpreteren, er berekeningen aan uitvoeren en uit een serie parallelle doorsneden conclusies trekken over vorm en inhoud van zo'n object.   
+
+### Subdomein  D2:  
+
+####Oppervlakte en inhoud
+
+8. De kandidaat kan de oppervlakte van vlakke en ruimtelijke figuren berekenen, van ruimtelijke figuren de inhoud berekenen en schatten en het effect van schaalvergroting op zowel inhoud als oppervlakte beargumenteren.   
+
+### Domein  E:  
+
+####Toegepaste analyse 1
+
+### Subdomein  E1:  
+
+####Functies en grafieken
+
+9. De kandidaat kan standaardfuncties (machtsfuncties, exponentiële en logaritmische functies en goniometrische functies) hanteren, interpreteren binnen een context, de grafieken beschrijven en in een functievoorschrift vastleggen, eenvoudige vergelijkingen oplossen en werken met eenvoudige transformaties.   
+
+### Subdomein  E2:  
+
+####Vergelijkingen en ongelijkheden
+
+10. De kandidaat kan eenvoudige vergelijkingen, ongelijkheden en stelsels van twee lineaire vergelijkingen oplossen met behulp van een algoritme, in voorkomende gevallen grafisch oplossen of numeriek benaderen en de oplossingen interpreteren in relatie met de context.   
+
+### Subdomein  E3:  
+
+####Afgeleide functies
+
+11. De kandidaat kan de lokale verandering van een functie benaderen zowel met een differentiaalquotiënt als numeriek-grafisch en de afgeleide functie van een polynoom en van eenvoudige goniometrische functies bepalen en gebruiken zowel voor bestudering van het veranderingsgedrag van een functie als voor het benaderen van een functiewaarde.   
+
+### Subdomein  E4:  
+
+####Periodieke functies
+
+12. De kandidaat kan periodieke verschijnselen beschrijven door middel van een goniometrische functie, de bijbehorende sinusoïde tekenen en kenmerkende eigenschappen ervan benoemen en alle oplossingen van een eenvoudige goniometrische vergelijking op een gegeven interval vinden.   
+
+### Domein  H:  
+
+####Toegepaste analyse 2
+
+### Subdomein  H1:  
+
+####Afgeleide functies 2
+
+13. De kandidaat kan voor het bepalen van de afgeleide functie en de interpretatie daarvan binnen een context gebruik maken van de som-, verschil- en productregel en van de kettingregel bij enkelvoudig samengestelde functies.   
+
+####Examenprogramma wiskunde C vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaardigheden  |
+| Domein Bg  | Functies en grafieken  |
+| Domein Cg  | Discrete analyse  |
+| Domein Eg  | Combinatoriek en kansrekening  |
+| Domein Ea  | Grafen en matrices  |
+| Domein Fa  | Statistiek en kansrekening  |
+| Domein G  | Keuzeonderwerpen.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op de subdomeinen A5, Bg1, Bg2, Cg1, Eg1, Eg2, Eg3, Eg4 en Fa3, in combinatie met de vaardigheden uit de subdomeinen A1, A2 en A3. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op domein A en: 
+
+– de (sub)domeinen Cg2, Ea, Fa1 en Fa2;  
+
+– het domein G, met dien verstande dat deze onderwerpen per kandidaat kunnen verschillen;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+### Subdomein  A1:  
+
+####Informatievaardigheden
+
+1. De kandidaat kan, mede met behulp van ICT, informatie verwerven, selecteren, verwerken, beoordelen en presenteren.   
+
+### Subdomein  A2:  
+
+####Onderzoeksvaardigheden
+
+2. De kandidaat kan een gegeven probleemsituatie inventariseren, vertalen in een wiskundig model, binnen dat model wiskundige oplostechnieken hanteren en de gevonden oplossingen betekenis geven in de context.   
+
+### Subdomein  A3:  
+
+####Technisch-instrumentele vaardigheden
+
+3. De kandidaat kan bij raadplegen, verkennen en presenteren van wiskundige informatie en bij uitvoeren van wiskundige bewerkingen en redeneringen gebruik maken van toepassingen van ICT.   
+
+### Subdomein  A4:  
+
+####Oriëntatie op studie en beroep
+
+4. De kandidaat kan een verband leggen tussen zijn wiskundige kennis, vaardigheden en belangstelling en de rol van wiskunde in vervolgstudies en de praktijk van verschillende beroepen.   
+
+### Subdomein  A5:  
+
+####Algebraïsche vaardigheden
+
+5. De kandidaat beheerst de bij het examenprogramma passende rekenkundige en algebraïsche vaardigheden en formules, heeft daar inzicht in en kan de bewerkingen uitvoeren met, maar ook zonder, gebruik van ICT-middelen zoals de grafische rekenmachine.   
+
+### Domein  Bg:  
+
+####Functies en grafieken
+
+### Subdomein  Bg1:  
+
+####Standaardfuncties
+
+6. De kandidaat kan grafieken tekenen en herkennen van machtsfuncties, exponentiële functies en logaritmische functies en van die verschillende typen functies de karakteristieke eigenschappen benoemen.   
+
+### Subdomein  Bg2:  
+
+####Functies, grafieken, vergelijkingen en ongelijkheden
+
+7. De kandidaat kan functievoorschriften opstellen en bewerken, de bijbehorende grafieken tekenen en vergelijkingen en ongelijkheden oplossen met behulp van numerieke, grafische en algebraïsche methoden.   
+
+### Domein  Cg:  
+
+####Discrete analyse
+
+### Subdomein  Cg1:  
+
+####Veranderingen
+
+8. De kandidaat kan het veranderingsgedrag van grafieken en functies relateren aan differentiequotiënten, toenamediagrammen en hellinggrafieken en daarbij een relatie leggen met contexten.   
+
+### Subdomein  Cg2:  
+
+####Rijen en recurrente betrekkingen
+
+9. De kandidaat kan rekenkundige en meetkundige rijen herkennen, beschrijven en er berekeningen mee uitvoeren en werken met recurrente betrekkingen.   
+
+### Domein  Eg:  
+
+####Combinatoriek en kansrekening
+
+### Subdomein  Eg1:  
+
+####Combinatoriek
+
+10. De kandidaat kan bij telproblemen de situatie visualiseren met een schema, diagram en rooster en combinatorische berekeningen uitvoeren.   
+
+### Subdomein  Eg2:  
+
+####Kansen
+
+11. De kandidaat kan toevalsexperimenten vertalen in een kansmodel, de begrippen onafhankelijke gebeurtenissen en voorwaardelijke kansen hanteren en kansen berekenen op basis van een kansexperiment en op basis van symmetrie en combinatoriek.   
+
+### Subdomein  Eg3:  
+
+####Rekenen met kansen
+
+12. De kandidaat kan bij discrete toevalsvariabelen het begrip onafhankelijkheid hanteren, kansen berekenen met behulp van somregel, complementregel en productregel en van een discrete toevalsvariabele de verwachtingswaarde berekenen.   
+
+### Subdomein  Eg4:  
+
+####Speciale discrete verdelingen
+
+13. De kandidaat kan vaststellen of een toevalsexperiment kan worden vertaald naar een uniforme discrete verdeling of een binomiale kansverdeling en binnen die verdelingen kansen en verwachtingen berekenen.   
+
+### Domein  Ea:  
+
+####Grafen en matrices
+
+### Subdomein  Ea1:  
+
+####Grafen
+
+14. De kandidaat kan grafen tekenen bij een gegeven tekst, illustratie of matrix en een gegeven graaf interpreteren en omzetten in een geschikt type matrix.   
+
+### Subdomein  Ea2:  
+
+####Matrices
+
+15. De kandidaat kan bij een context een passende matrixrepresentatie kiezen, matrixbewerkingen uitvoeren en gegeven of berekende matrices interpreteren.   
+
+### Domein  Fa:  
+
+####Statistiek en kansrekening
+
+### Subdomein  Fa1:  
+
+####Populatie en steekproef
+
+16. De kandidaat kan bij een gegeven probleemsituatie de populatie aangeven, een gegeven steekproef beoordelen op geschiktheid en een geschikte steekproef kiezen.   
+
+### Subdomein  Fa2:  
+
+####Ordenen, verwerken en samenvatten van statistische gegevens
+
+17. De kandidaat kan, ook met behulp van ICT, waarnemingen verwerken in een geschikte tabel, visualiseren in een geschikt diagram, samenvatten met geschikte centrum- en spreidingsmaten en gegeven grafische representaties interpreteren.   
+
+### Subdomein  Fa3:  
+
+####Kansverdelingen
+
+18. De kandidaat kan het binomiale en het (standaard-)normale verdelingsmodel gebruiken voor het berekenen van kansen, relatieve frequenties, grenswaarden, gemiddelden en standaardafwijkingen van discrete en continue verdelingen.   
+
+### Domein  G:  
+
+####Keuzeonderwerpen
+
+####Examenprogramma wiskunde D vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| DomeinA  | Vaardigheden  |
+| Domein B  | Kansrekening en statistiek  |
+| Domein C  | Dynamische modellen 1  |
+| Domein D  | Meetkunde  |
+| Domein E  | Complexe getallen  |
+| Domein F  | Dynamische modellen 2  |
+| Domein G  | Wiskunde in wetenschap  |
+| Domein H  | Keuzeonderwerpen.  |
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op domein A in combinatie met: 
+
+– de domeinen B, C, D en H;  
+
+– domein G of de beide domeinen E en F;  
+
+– indien het bevoegd gezag daarvoor kiest, naast de keuzeonderwerpen bedoeld bij domein H: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+### Subdomein  A1:  
+
+####Algemene vaardigheden
+
+1. Informatievaardigheden De kandidaat kan doelgericht informatie zoeken, beoordelen, selecteren en verwerken.  
+
+2. Communiceren De kandidaat kan adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren over onderwerpen uit de wiskunde.  
+
+3. Reflecteren op leren De kandidaat kan bij het verwerven van vakkennis en vakvaardigheden reflecteren op eigen belangstelling, motivatie en leerproces.  
+
+4. Studie en beroep De kandidaat kan toepassingen en effecten van wiskunde en natuurwetenschappen in verschillende studie- en beroepssituaties herkennen en benoemen. Daarnaast kan de kandidaat een verband leggen tussen de praktijk van deze studies en beroepen en de eigen kennis, vaardigheden en belangstelling.   
+
+### Subdomein  A2:  
+
+####Wiskundige en natuurwetenschappelijke vaardigheden
+
+5. Onderzoeken De kandidaat kan een probleemsituatie in een wiskundige, natuurwetenschappelijke of economische context analyseren, gebruik makend van relevante begrippen en theorie vertalen in een vakspecifiek onderzoek, dat onderzoek uitvoeren, en uit de onderzoeksresultaten conclusies trekken.  
+
+6. Ontwerpen De kandidaat kan een ontwerp op basis van een gesteld probleem voorbereiden, uitvoeren, testen en evalueren en daarbij relevante begrippen en theorie gebruiken.  
+
+7. Modelvorming De kandidaat kan een realistisch probleem in een context analyseren, inperken tot een hanteerbaar probleem, vertalen naar een model, modeluitkomsten genereren en interpreteren en het model toetsen en beoordelen.  
+
+8. Redeneren De kandidaat kan met gegevens van wiskundige en natuurwetenschappelijke aard consistente redeneringen opzetten van zowel inductief als deductief karakter.  
+
+9. Waarderen en oordelen De kandidaat kan een beargumenteerd oordeel over een situatie in de natuur of een technische toepassing geven, en daarin onderscheid maken tussen wetenschappelijke argumenten en persoonlijke uitgangspunten.   
+
+### Subdomein  A3:  
+
+####Wiskundige vaardigheden
+
+10. Algebraïsche vaardigheden De kandidaat beheerst de bij het examenprogramma passende rekenkundige en algebraïsche vaardigheden, heeft inzicht in de bijbehorende formules en kan de bewerkingen uitvoeren.  
+
+11. Vaktaal, conventies en notaties De kandidaat kan correcte vakspecifieke taal en terminologie interpreteren en produceren, inclusief formuletaal, conventies en notaties.  
+
+12. Oplossingsvaardigheden De kandidaat kan een oplossingsstrategie kiezen, deze correct toepassen en gevonden oplossingen controleren op wiskundige juistheid.   
+
+### Domein  B:  
+
+####Kansrekening en statistiek
+
+### Subdomein  B1:  
+
+####Combinatoriek
+
+13. De kandidaat kan combinatorische problemen oplossen waarin permutaties en combinaties worden toegepast.   
+
+### Subdomein  B2:  
+
+####Kansrekening
+
+14. De kandidaat kan een toevalsexperiment vertalen in een kansmodel, de begrippen onafhankelijke gebeurtenis en voorwaardelijke kans hanteren, kansen berekenen met behulp van som-, complement- en productregel, en van een discrete toevalsvariabele de verwachtingswaarde berekenen.   
+
+### Subdomein  B3:  
+
+####Ordenen, verwerken en samenvatten van statistische gegevens
+
+15. De kandidaat kan, ook met behulp van ICT, waarnemingen verwerken in een tabel, data visualiseren in een passend diagram, gegevens samenvatten in geschikte centrum- en spreidingsmaten en gegeven grafische representaties interpreteren.   
+
+### Subdomein  B4:  
+
+####Kansverdelingen
+
+16. De kandidaat kan het binomiale en het (standaard-)normale verdelingsmodel gebruiken voor het berekenen van kansen, relatieve frequenties, grenswaarden, gemiddelden en standaardafwijkingen van discrete en continue verdelingen.   
+
+### Subdomein  B5:  
+
+####Het toetsen van hypothesen
+
+17. De kandidaat kan nul- en alternatieve hypothesen formuleren en bijbehorende een- of tweezijdige toets uitvoeren bij binomiaal- of normaal-verdeelde toevalsvariabelen.   
+
+### Subdomein  B6:  
+
+####Profielspecifieke verdieping
+
+18. De kandidaat kan de stof van wiskunde B gebruiken voor een profielspecifieke verdieping.   
+
+### Domein  C:  
+
+####Dynamische modellen 1
+
+### Subdomein  C1:  
+
+####Discrete dynamische modellen
+
+19. De kandidaat kan rijen relateren aan recurrente betrekkingen, iteraties, webgrafieken en contexten en kan het gedrag ervan beschrijven in termen van stationair, convergerend of divergerend.   
+
+### Subdomein  C2:  
+
+####Continue dynamische modellen
+
+20. De kandidaat kan in differentiaalvergelijkingen van de vorm *y* = *f* (*y*, *t*) eigenschappen van *f* relateren aan eigenschappen van oplossingen, zoals het al dan niet stationair zijn, monotonie en asymptotisch gedrag en in eenvoudige gevallen een oplossing expliciet bepalen.   
+
+### Subdomein  C3:  
+
+####Toepassingen van discrete en continue dynamische modellen
+
+21. De kandidaat kan de stof uit de subdomeinen C1 en C2 gebruiken in concrete toepassingen.   
+
+### Domein  D:  
+
+####Meetkunde
+
+### Subdomein  D1:  
+
+####Oriëntatie op analytische en synthetische methoden
+
+22. De kandidaat kan analytische methoden en algebraïsche technieken toepassen op meetkundige problemen, ook bij bewijzen.   
+
+### Subdomein  D2:  
+
+####Coördinaten, vergelijkingen en figuren in twee dimensies
+
+23. De kandidaat kan eigenschappen van aard en ligging van figuren in een vlak onderzoeken vanuit vergelijkingen en kan in een gegeven of zelfgekozen coördinatenstelsel vergelijkingen van figuren opstellen.   
+
+### Subdomein  D3:  
+
+####Lijnen, cirkels en kegelsneden in coördinaten
+
+24. De kandidaat kan op verschillende manieren vergelijking van lijnen, cirkels en kegelsneden opstellen, en op grond van vergelijkingen ligging en eigenschappen van de bijbehorende figuren onderzoeken.   
+
+### Subdomein  D4:  
+
+####Parametrisering
+
+25. De kandidaat kan een parametrisering van een figuur gebruiken om eigenschappen ervan vast te stellen en kan in geschikte gevallen een parametrisering van een figuur opstellen.   
+
+### Subdomein  D5:  
+
+####De ruimte
+
+26. De kandidaat kan de beschrijving van punten in de ruimte met drie coördinaten gebruiken, met name bij bollen en eenvoudige omwentelingsoppervlakken.   
+
+### Subdomein  D6:  
+
+####Toepassingen en ICT
+
+27. De kandidaat kan toepassingen van analytische meetkunde onderzoeken, ook met behulp van ICT.   
+
+### Domein  E:  
+
+####Complexe getallen
+
+### Subdomein  E1:  
+
+####Basisoperaties
+
+28. De kandidaat kan rekenen met complexe getallen, de geconjugeerde, het argument en de absolute waarde, kan de stelling van De Moivre gebruiken en kan rekenen met de formule van Euler als representatie van poolcoördinaten.   
+
+### Subdomein  E2:  
+
+####Profielspecifieke verdieping
+
+29. De kandidaat kan de stof van subdomein E1 gebruiken voor een profielspecifieke verdieping.   
+
+### Domein  F:  
+
+####Dynamische modellen 2
+
+30. De kandidaat kan de stof van domein C gebruiken voor een profielspecifieke verdieping.   
+
+### Domein  G:  
+
+####Wiskunde in wetenschap
+
+31. De onderwerpen worden door de school aan leerlingen aangeboden, komen voort uit aanbod van het hoger onderwijs en kunnen, indien de school daarvoor kiest, voor elke kandidaat verschillend zijn.   
+
+### Domein  H:  
+
+####Keuzeonderwerpen
+
+####Examenprogramma wiskunde D havo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| DomeinA  | Vaardigheden  |
+| Domein B  | Kansrekening en statistiek  |
+| Domein C  | Toegepaste analyse 2  |
+| Domein D  | Ruimtemeetkunde 2  |
+| Domein E  | Wiskunde in technologie  |
+| Domein F  | Keuzeonderwerpen.  |
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op domein A in combinatie met: 
+
+– de domeinen B en F, en van het domein C de subdomeinen C1 en C2 en één van de subdomeinen C3 of C4 of beide;  
+
+– één van de domeinen D of E;  
+
+– indien het bevoegd gezag daarvoor kiest, naast de keuzeonderwerpen bedoeld bij domein F: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+### Subdomein  A1:  
+
+####Algemene vaardigheden
+
+1. Informatievaardigheden De kandidaat kan doelgericht informatie zoeken, beoordelen, selecteren en verwerken.  
+
+2. Communiceren De kandidaat kan adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren over onderwerpen uit de wiskunde.  
+
+3. Reflecteren op leren De kandidaat kan bij het verwerven van vakkennis en vakvaardigheden reflecteren op eigen belangstelling, motivatie en leerproces.  
+
+4. Studie en beroep De kandidaat kan toepassingen en effecten van wiskunde en natuurwetenschappen in verschillende studie- en beroepssituaties herkennen en benoemen. Daarnaast kan de kandidaat een verband leggen tussen de praktijk van deze studies en beroepen en de eigen kennis, vaardigheden en belangstelling.   
+
+### Subdomein  A2:  
+
+####Wiskundige en natuurwetenschappelijke vaardigheden
+
+5. Onderzoeken De kandidaat kan een probleemsituatie in een wiskundige, natuurwetenschappelijke of economische context analyseren, gebruik makend van relevante begrippen en theorie vertalen in een vakspecifiek onderzoek, dat onderzoek uitvoeren, en uit de onderzoeksresultaten conclusies trekken.  
+
+6. Ontwerpen De kandidaat kan een ontwerp op basis van een gesteld probleem voorbereiden, uitvoeren, testen en evalueren en daarbij relevante begrippen en theorie gebruiken.  
+
+7. Modelvorming De kandidaat kan een realistisch probleem in een context analyseren, inperken tot een hanteerbaar probleem, vertalen naar een model, modeluitkomsten genereren en interpreteren en het model toetsen en beoordelen.  
+
+8. Redeneren De kandidaat kan met gegevens van wiskundige en natuurwetenschappelijke aard consistente redeneringen opzetten van zowel inductief als deductief karakter.  
+
+9. Waarderen en oordelen De kandidaat kan een beargumenteerd oordeel over een situatie in de natuur of een technische toepassing geven, en daarin onderscheid maken tussen wetenschappelijke argumenten en persoonlijke uitgangspunten.   
+
+### Subdomein  A3:  
+
+####Wiskundige vaardigheden
+
+10. Algebraïsche vaardigheden De kandidaat beheerst de bij het examenprogramma passende rekenkundige en algebraïsche vaardigheden, heeft inzicht in de bijbehorende formules en kan de bewerkingen uitvoeren.  
+
+11. Vaktaal, conventies en notaties De kandidaat kan correcte vakspecifieke taal en terminologie interpreteren en produceren, inclusief formuletaal, conventies en notaties.  
+
+12. Oplossingsvaardigheden De kandidaat kan een oplossingsstrategie kiezen, deze correct toepassen en gevonden oplossingen controleren op wiskundige juistheid.   
+
+### Domein  B:  
+
+####Kansrekening en statistiek
+
+### Subdomein  B1:  
+
+####Kansrekening
+
+13. De kandidaat kan beschreven kansproblemen analyseren, visualiseren met behulp van een schema of diagram en kansen berekenen, zonodig met behulp van permutaties en combinaties.   
+
+### Subdomein  B2:  
+
+####Statistiek – dataverwerking
+
+14. De kandidaat kan bij een gegeven probleemsituatie de populatie aangeven, een gegeven of gekozen steekproef op geschiktheid beoordelen, data verwerken in een geschikte tabel of diagram, samenvatten met geschikte centrum- en spreidingsmaten en een gegeven grafische representatie interpreteren.   
+
+### Subdomein  B3:  
+
+####Kansverdelingen
+
+15. De kandidaat kan binomiale en (standaard-)normale verdelingsmodellen herkennen, binnen zo'n model berekeningen uitvoeren en de resultaten interpreteren.   
+
+### Subdomein  B4:  
+
+####Profielspecifieke verdieping
+
+16. De kandidaat kan de stof van wiskunde B gebruiken voor een profielspecifieke verdieping.   
+
+### Subdomein  B5:  
+
+####Toepassingen van statistische verwerkingsmethoden
+
+17. De kandidaat kan statistische software gebruiken om in een gegeven probleemsituatie data te verwerken en statistische conclusies te trekken.   
+
+### Domein  C:  
+
+####Toegepaste analyse 2
+
+### Subdomein  C1:  
+
+####Afgeleide functies 2
+
+18. De kandidaat kan voor het bepalen van de afgeleide functie en de interpretatie daarvan binnen een context gebruik maken van de som-, verschil-, product- en quotiëntregel en van de kettingregel bij enkelvoudig samengestelde functies.   
+
+### Subdomein  C2:  
+
+####Evenredigheidsverbanden
+
+19. De kandidaat kan verbanden tussen de twee grootheden *a* en *b* van de vorm    *a = c · b<sup>d</sup> * herkennen, toepassen en bijbehorende grafieken tekenen, vanuit de beschrijving van een dergelijk verband een formule opstellen, de evenredigheidsconstante bepalen en de wetten van de schaalvergroting gebruiken. 
+
+### Subdomein  C3:  
+
+####Exponentiële functies
+
+20. De kandidaat kan, ook in concrete toepassingen, exponentiële processen herkennen en met formules beschrijven, de grafieken van exponentiële functies tekenen in assenstelsels met lineaire of logaritmische schalen, dergelijke grafieken interpreteren, bij exponentiële groeigrafieken formules opstellen en er berekeningen aan uitvoeren, de afgeleide bepalen van exponentiële en logaritmische functies en daarmee optimaliseringsproblemen oplossen, ook met behulp van ICT.   
+
+### Subdomein  C4:  
+
+####Goniometrische functies
+
+21. De kandidaat kan, ook in concrete toepassingen, harmonische processen herkennen en beschrijven met goniometrische functies, waaronder ook *tan*, de grafieken van goniometrische functies en samenstellingen hiervan tekenen in assenstelsels met radialen op de horizontale as, dergelijke grafieken interpreteren, de stelling van Pythagoras voor lineaire combinaties van goniometrische functies gebruiken, bij grafieken van harmonische trillingen formules opstellen, er berekeningen aan uitvoeren en met behulp van differentiëren optimaliseringsproblemen oplossen, ook met behulp van ICT.   
+
+### Domein  D:  
+
+####Ruimtemeetkunde 2
+
+### Subdomein  D1:  
+
+####Onderlinge ligging van punten, lijnen, vlakken in concrete situaties
+
+22. De kandidaat kan van punten, lijnen en vlakken in een rechthoekig coördinatenstelsel de incidentierelaties bepalen en van lijnen en vlakken de snijpunten bepalen.   
+
+### Subdomein  D2:  
+
+####Afstanden en hoeken in concrete situaties
+
+23. De kandidaat kan met behulp van goniometrische berekeningen, de stelling van Pythagoras en de cosinusregel afstanden en hoeken in de ruimte berekenen.   
+
+### Subdomein  D3:  
+
+####Coördinaten en vectoren
+
+24. De kandidaat kan rekenen met coördinaten en vectoren in de ruimte, ook in een profielspecifieke context.   
+
+### Domein  E:  
+
+####Wiskunde in technologie
+
+25. De onderwerpen worden door de school aan leerlingen aangeboden, komen voort uit aanbod van het hoger onderwijs en kunnen, indien de school daarvoor kiest, voor elke kandidaat verschillend zijn.   
+
+### Domein  F:  
+
+####Keuzeonderwerpen
+
+####Examenprogramma natuurkunde VWO
+
+Het eindexamen Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A   | Vaardigheden  |
+| Domein B   | Golven  |
+| Domein C   | Beweging en wisselwerking  |
+| Domein D   | Lading en veld  |
+| Domein E   | Straling en materie  |
+| Domein F   | Quantumwereld en relativiteit  |
+| Domein G   | Leven en aarde  |
+| Domein H   | Natuurwetten en modellen  |
+| Domein I   | Onderzoek en ontwerp  |
+
+Het centraal examen Het centraal examen heeft betrekking op de (sub)domeinen B1, B2, C1, C2, C3, D1, D2, E2, F1 en H in combinatie met de vaardigheden uit domein A. Het CvE kan bepalen, dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde. Het CvE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast. Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen. Het schoolexamen Het schoolexamen heeft betrekking op domein A en: 
+
+– de subdomeinen E1, I1, I2 en I3;  
+
+– een keuze van twee uit de subdomeinen E3, F2, G1 en G2; daarbij kan het bevoegd gezag deze keuze maken, dan wel de keuze aan de kandidaat laten;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+####Algemene vaardigheden (profieloverstijgend niveau)
+
+### *Subdomein A1: Informatievaardigheden gebruiken* 
+
+1. De kandidaat kan doelgericht informatie zoeken, beoordelen, selecteren en verwerken.   
+### *Subdomein A2: Communiceren* 
+
+2. De kandidaat kan adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren over onderwerpen uit het desbetreffende vakgebied.   
+### *Subdomein A3: Reflecteren op leren* 
+
+3. De kandidaat kan bij het verwerven van vakkennis en vakvaardigheden reflecteren op eigen belangstelling, motivatie en leerproces.   
+### *Subdomein A4: Studie en beroep* 
+
+4. De kandidaat kan aangeven op welke wijze natuurwetenschappelijke kennis in studie en beroep wordt gebruikt en kan mede op basis daarvan zijn belangstelling voor studies en beroepen onder woorden brengen.   
+
+####Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)
+
+### *Subdomein A5: Onderzoeken* 
+
+5. De kandidaat kan in contexten vraagstellingen analyseren, gebruik makend van relevante begrippen en theorie, vertalen in een vakspecifiek onderzoek, dat onderzoek uitvoeren, en uit de onderzoeksresultaten conclusies trekken. De kandidaat maakt daarbij gebruik van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden.   
+### *Subdomein A6: Ontwerpen* 
+
+6. De kandidaat kan in contexten op basis van een gesteld probleem een technisch ontwerp voorbereiden, uitvoeren, testen en evalueren en daarbij relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen hanteren.   
+### *Subdomein A7: Modelvorming* 
+
+7. De kandidaat kan in contexten een relevant probleem analyseren, inperken tot een hanteerbaar probleem, vertalen naar een model, modeluitkomsten genereren en interpreteren, en het model toetsen en beoordelen. De kandidaat maakt daarbij gebruik van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden.   
+### *Subdomein A8: Natuurwetenschappelijk instrumentarium* 
+
+8. De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en -bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige bewerkingen.   
+### *Subdomein A9: Waarderen en oordelen* 
+
+9. De kandidaat kan in contexten een beargumenteerd oordeel geven over een situatie in de natuur of een technische toepassing, en daarin onderscheid maken tussen wetenschappelijke argumenten, normatieve maatschappelijke overwegingen en persoonlijke opvattingen.   
+
+####Natuurkunde – specifieke vaardigheden
+
+### *Subdomein A10: Kennisontwikkeling en -toepassing* 
+
+10. De kandidaat kan in contexten analyseren op welke wijze natuurkundige en technologische kennis wordt ontwikkeld en toegepast.   
+### *Subdomein A11: Technisch-instrumentele vaardigheden* 
+
+11. De kandidaat kan op een verantwoorde wijze omgaan met voor de natuurkunde relevante materialen, instrumenten, apparaten en ICT-toepassingen.   
+### *Subdomein A12: Rekenkundige en wiskundige vaardigheden* 
+
+12. De kandidaat kan een aantal voor de natuurkunde relevante rekenkundige en wiskundige vaardigheden correct en geroutineerd toepassen bij voor de natuurkunde specifieke probleemsituaties.   
+### *Subdomein A13: Vaktaal* 
+
+13. De kandidaat kan de specifieke vaktaal en vakterminologie interpreteren en produceren, waaronder formuletaal, conventies en notaties.   
+### *Subdomein A14: Vakspecifiek gebruik van de computer* 
+
+14. De kandidaat kan de computer gebruiken bij modelleren en visualiseren van verschijnselen en processen, en voor het verwerken van gegevens.   
+### *Subdomein A15: Kwantificeren en interpreteren* 
+
+15. De kandidaat kan fysische grootheden kwantificeren en mathematische uitdrukkingen in verband brengen met relaties tussen fysische begrippen.   
+
+### Domein  B:  
+
+####Golven
+
+### *Subdomein B1: Informatieoverdracht* 
+
+16. De kandidaat kan in contexten eigenschappen van trillingen en golven gebruiken bij het analyseren en verklaren van onder andere informatieoverdracht.   
+### *Subdomein B2: Medische beeldvorming* 
+
+17. De kandidaat kan eigenschappen van ioniserende straling en de effecten van deze straling op mens en milieu beschrijven. Ook kan de kandidaat medische beeldvormingstechnieken beschrijven en analyseren aan de hand van fysische principes en de diagnostische functie van deze beeldvormingstechnieken voor de gezondheid toelichten.   
+
+### Domein  C:  
+
+####Beweging en wisselwerking
+
+### *Subdomein C1: Kracht en beweging* 
+
+18. De kandidaat kan in contexten de relatie tussen kracht en bewegingsveranderingen kwalitatief en kwantitatief analyseren en verklaren met behulp van de wetten van Newton.   
+### *Subdomein C2: Energie en wisselwerking* 
+
+19. De kandidaat kan in contexten de begrippen energiebehoud, rendement, arbeid en warmte gebruiken om energieomzettingen te beschrijven en te analyseren.   
+### *Subdomein C3. Gravitatie* 
+
+20. De kandidaat kan ten minste in de context van het heelal bewegingen analyseren en verklaren aan de hand van de gravitatiewisselwerking   
+
+### Domein  D:  
+
+####Lading en veld
+
+### *Subdomein D1: Elektrische systemen* 
+
+21. De kandidaat kan in contexten elektrische schakelingen analyseren met behulp van de wetten van Kirchhoff. Daarbij kan de kandidaat energieomzettingen analyseren.   
+### *Subdomein D2: Elektrische en magnetische velden* 
+
+22. De kandidaat kan in contexten elektromagnetische verschijnselen beschrijven, analyseren en verklaren met behulp van elektrische en magnetische velden.   
+
+### Domein  E:  
+
+####Straling en materie
+
+### *Subdomein E1: Eigenschappen van stoffen en materialen* 
+
+23. De kandidaat kan in contexten fysische eigenschappen van stoffen en materialen beschrijven en kan deze eigenschappen verklaren en analyseren aan de hand van deeltjesmodellen.   
+### *Subdomein E2: Elektromagnetische straling en materie* 
+
+24. De kandidaat kan in astrofysische en andere contexten de wisselwerking tussen straling en materie beschrijven en verklaren aan de hand van de begrippen atoomspectrum, absorptie, emissie en stralingsenergie.   
+### *Subdomein E3: Kern- en deeltjesprocessen<sup>1 Uit deze vier subdomeinen worden er twee gekozen. </sup> * 
+
+25. De kandidaat kan in contexten behoudswetten en de equivalentie van massa en energie gebruiken in het beschrijven en analyseren van deeltjes- en kernprocessen.   
+
+### Domein  F:  
+
+####Quantumwereld en relativiteit
+
+### *Subdomein F1: Quantumwereld* 
+
+26. De kandidaat kan in contexten de golf-deeltjedualiteit en de onbepaaldheidsrelatie van Heisenberg toepassen, en de quantisatie van energieniveaus in enkele voorbeelden verklaren aan de hand van een eenvoudig quantumfysisch model.   
+### *Subdomein F2: Relativiteitstheorie<sup>1 Uit deze vier subdomeinen worden er twee gekozen. </sup> * 
+
+27. De kandidaat kan in gedachte-experimenten en toepassingen de verschijnselen tijdrek en lengtekrimp verklaren aan de hand van de begrippen lichtsnelheid, gelijktijdigheid en referentiestelsel.   
+
+### Domein  G:  
+
+####Leven en aarde
+
+### *Subdomein G1: Biofysica<sup>1 Uit deze vier subdomeinen worden er twee gekozen. </sup> * 
+
+28. De kandidaat kan in de context van levende systemen fysische verschijnselen en processen beschrijven, analyseren en verklaren.   
+### *Subdomein G2: Geofysica<sup>1 Uit deze vier subdomeinen worden er twee gekozen. </sup> * 
+
+29. De kandidaat kan in de context van geofysische systemen fysische verschijnselen en processen beschrijven, analyseren en verklaren.   
+
+### Domein  H:  
+
+####Natuurwetten en modellen
+
+30. De kandidaat kan in voorbeelden die vallen binnen subdomeinen van het centraal examen fundamentele natuurkundige principes en wetmatigheden herkennen, benoemen en toepassen.   Ook kan de kandidaat een model hanteren en de grenzen van de toepasbaarheid en betrouwbaarheid van een bepaald model voor een fysisch verschijnsel beoordelen. 
+
+### Domein  I:  
+
+####Onderzoek en ontwerp
+
+### *Subdomein I1: Experiment* 
+
+31. De kandidaat kan in contexten die vallen binnen subdomeinen van het centraal examen onderzoek doen door middel van experimenten en de resultaten analyseren en interpreteren.   
+### *Subdomein I2: Modelstudie* 
+
+32. De kandidaat kan in contexten die vallen binnen subdomeinen van het centraal examen onderzoek doen door middel van modelstudies en de modeluitkomsten analyseren en interpreteren.   
+### *Subdomein I3: Ontwerp* 
+
+33. De kandidaat kan in contexten die vallen binnen subdomeinen van het centraal examen op basis van een gesteld probleem een ontwerp voorbereiden, uitvoeren, testen en evalueren.   
+
+####Examenprogramma Natuurkunde HAVO
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A   | Vaardigheden  |
+| Domein B   | Beeld- en geluidstechniek  |
+| Domein C   | Beweging en energie  |
+| Domein D   | Materialen  |
+| Domein E   | Aarde en heelal  |
+| Domein F   | Menselijk lichaam  |
+| Domein G   | Meten en regelen  |
+| Domein H   | Natuurkunde en technologie  |
+| Domein I   | Onderzoek en ontwerp  |
+
+Het centraal examen Het centraal examen heeft betrekking op de (sub)domeinen B1, B2, C1, C2, D1, E1, G1 en H in combinatie met de vaardigheden uit domein A. Het CvE kan bepalen, dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde. Het CvE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast. Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen. Het schoolexamen Het schoolexamen heeft betrekking op domein A en: 
+
+− de subdomeinen D2, I1, I2 en I3;  
+
+− een keuze van twee uit de (sub)domeinen B3, E2, F en G2; daarbij kan het bevoegd gezag deze keuze maken, dan wel de keuze aan de kandidaat laten;  
+
+− indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+− indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+####Domein A: Vaardigheden
+
+####Algemene vaardigheden (profieloverstijgend niveau)
+
+### *Subdomein A1: Informatievaardigheden gebruiken* 
+
+1. De kandidaat kan doelgericht informatie zoeken, beoordelen, selecteren en verwerken.   
+### *Subdomein A2: Communiceren* 
+
+2. De kandidaat kan adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren over onderwerpen uit het desbetreffende vakgebied.   
+### *Subdomein A3: Reflecteren op leren* 
+
+3. De kandidaat kan bij het verwerven van vakkennis en vakvaardigheden reflecteren op eigen belangstelling, motivatie en leerproces.   
+### *Subdomein A4: Studie en beroep* 
+
+4. De kandidaat kan aangeven op welke wijze natuurwetenschappelijke kennis in studie en beroep wordt gebruikt en kan mede op basis daarvan zijn belangstelling voor studies en beroepen onder woorden brengen.   
+
+####Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)
+
+### *Subdomein A5: Onderzoeken* 
+
+5. De kandidaat kan in contexten instructies voor onderzoek op basis van vraagstellingen uitvoeren en conclusies trekken uit de onderzoeksresultaten. De kandidaat maakt daarbij gebruik van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden.   
+### *Subdomein A6: Ontwerpen* 
+
+6. De kandidaat kan in contexten op basis van een gesteld probleem een technisch ontwerp voorbereiden, uitvoeren, testen en evalueren en daarbij relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen hanteren.   
+### *Subdomein A7: Modelvorming* 
+
+7. De kandidaat kan in contexten een probleem analyseren, een adequaat model selecteren, en modeluitkomsten genereren en interpreteren. De kandidaat maakt daarbij gebruik van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden.   
+### *Subdomein A8: Natuurwetenschappelijk instrumentarium* 
+
+8. De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en -bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige bewerkingen.   
+### *Subdomein A9: Waarderen en oordelen* 
+
+9. De kandidaat kan in contexten een beargumenteerd oordeel geven over een situatie in de natuur of een technische toepassing, en daarin onderscheid maken tussen wetenschappelijke argumenten, normatieve maatschappelijke overwegingen en persoonlijke opvattingen.   
+
+####Natuurkunde – specifieke vaardigheden
+
+### *Subdomein A10: Kennisontwikkeling en -toepassing* 
+
+10. De kandidaat kan in contexten analyseren op welke wijze natuurkundige en technologische kennis wordt ontwikkeld en toegepast.   
+### *Subdomein A11: Technisch-instrumentele vaardigheden* 
+
+11. De kandidaat kan op een verantwoorde wijze omgaan met voor de natuurkunde relevante materialen, instrumenten, apparaten en ICT-toepassingen.   
+### *Subdomein A12: Rekenkundige en wiskundige vaardigheden* 
+
+12. De kandidaat kan een aantal voor de natuurkunde relevante rekenkundige en wiskundige vaardigheden correct en geroutineerd toepassen bij voor de natuurkunde specifieke probleemsituaties.   
+### *Subdomein A13: Vaktaal* 
+
+13. De kandidaat kan de specifieke vaktaal en vakterminologie interpreteren en produceren, waaronder formuletaal, conventies en notaties.   
+### *Subdomein A14: Vakspecifiek gebruik van de computer* 
+
+14. De kandidaat kan de computer gebruiken bij modelleren en visualiseren van verschijnselen en processen, en voor het verwerken van gegevens.   
+### *Subdomein A15: Kwantificeren en interpreteren* 
+
+15. De kandidaat kan fysische grootheden kwantificeren en mathematische uitdrukkingen in verband brengen met relaties tussen fysische begrippen.   
+
+####Domein B: Beeld- en geluidstechniek
+
+### *Subdomein B1: Informatieoverdracht* 
+
+16. De kandidaat kan in contexten eigenschappen van trillingen en golven gebruiken bij het analyseren en verklaren van onder andere informatieoverdracht.   
+### *Subdomein B2: Medische beeldvorming* 
+
+17. De kandidaat kan eigenschappen van ioniserende straling en de effecten van deze straling op mens en milieu beschrijven. Ook kan de kandidaat medische beeldvormingstechnieken beschrijven en analyseren aan de hand van fysische principes en de diagnostische functie van deze beeldvormingstechnieken voor de gezondheid toelichten.   
+### *Subdomein B3: Optica<sup>1 uit deze vier (sub)domeinen worden er twee gekozen </sup> * 
+
+18. De kandidaat kan aan de hand van toepassingen van geometrische optica en golfoptica eigenschappen van licht beschrijven en analyseren.   
+
+####Domein C: Beweging en energie
+
+### *Subdomein C1: Kracht en beweging* 
+
+19. De kandidaat kan in contexten de relatie tussen kracht en bewegingsveranderingen analyseren en verklaren met behulp van de wetten van Newton.   
+### *Subdomein C2: Energieomzettingen* 
+
+20. De kandidaat kan in contexten de begrippen energiebehoud, rendement, arbeid en warmte gebruiken om energieomzettingen te beschrijven en te analyseren.   
+
+####Domein D: Materialen
+
+### *Subdomein D1: Eigenschappen van stoffen en materialen* 
+
+21. De kandidaat kan in contexten fysische eigenschappen van stoffen en materialen beschrijven en verklaren met behulp van atomaire en moleculaire modellen.   
+### *Subdomein D2: Functionele materialen* 
+
+22. De kandidaat kan in de context van de ontwikkeling van functionele materialen fysische begrippen gebruiken en de mogelijke toepassingen van deze materialen toelichten en verklaren.   
+
+####Domein E: Aarde en heelal
+
+### *Subdomein E1: Zonnestelsel en heelal* 
+
+23. De kandidaat kan het ontstaan en de ontwikkeling van structuren in het heelal beschrijven en bewegingen in het zonnestelsel analyseren en verklaren aan de hand van fysische principes.   
+### *Subdomein E2: Aarde en klimaat<sup>1 uit deze vier (sub)domeinen worden er twee gekozen </sup> * 
+
+24. De kandidaat kan in de context van geofysische systemen fysische verschijnselen en processen beschrijven, analyseren en verklaren.   
+
+####Domein F: Menselijk lichaam<sup>1 uit deze vier (sub)domeinen worden er twee gekozen </sup> 
+
+25. De kandidaat kan in de context van het menselijk lichaam fysische processen beschrijven, analyseren en verklaren en hun functie voor gezondheid en veiligheid toelichten. 
+
+####Domein G: Meten en regelen
+
+### *Subdomein G1: Gebruik van elektriciteit* 
+
+26. De kandidaat kan opwekking, transport en toepassingen van elektriciteit beschrijven en analyseren aan de hand van fysische begrippen.   
+### *Subdomein G2: Technische automatisering<sup>1 uit deze vier (sub)domeinen worden er twee gekozen </sup> * 
+
+27. De kandidaat kan meet-, stuur- en regelsystemen construeren en de functie en werking van de componenten beschrijven.   
+
+####Domein H: Natuurkunde en technologie
+
+28. De kandidaat kan in voorbeelden van technologische ontwikkeling die vallen binnen subdomeinen van het centraal examen natuurkundige principes en wetmatigheden herkennen, benoemen en toepassen. 
+
+####Domein I: Onderzoek en ontwerp
+
+### *Subdomein I1: Experiment* 
+
+29. De kandidaat kan in contexten die vallen binnen subdomeinen van het centraal examen onderzoek doen door middel van experimenten en de resultaten analyseren en interpreteren.   
+### *Subdomein I2: Modelstudie* 
+
+30. De kandidaat kan in contexten die vallen binnen subdomeinen van het centraal examen onderzoek doen door middel van modelstudies en de modeluitkomsten analyseren en interpreteren.   
+### *Subdomein I3: Ontwerp* 
+
+31. De kandidaat kan in contexten die vallen binnen subdomeinen van het centraal examen op basis van een gesteld probleem een ontwerp voorbereiden, uitvoeren, testen en evalueren.   
+
+####Examenprogramma scheikunde vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen: Domein A Vaardigheden Domein B Stoffen en materialen in de chemie Domein C Chemische processen en behoudswetten Domein D Ontwikkelen van chemische kennis Domein E Innovatie en chemisch onderzoek Domein F Industriële (chemische) processen Domein G Maatschappij, chemie en technologie 
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op de subdomeinen B1, B2, B3, B4, C1, C2, C3, C4, C5, C6, D1, D3, E1, E2, F1, F2, F3, G1, G2 en G3, in combinatie met de vaardigheden uit domein A. Het CvE kan bepalen, dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde. Het CvE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast. Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op domein A en: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+####Algemene vaardigheden (profieloverstijgend niveau)
+
+### *Subdomein A1: Informatievaardigheden gebruiken* 
+
+1. De kandidaat kan doelgericht informatie zoeken, beoordelen, selecteren en verwerken.   
+### *Subdomein A2: Communiceren* 
+
+2. De kandidaat kan adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren over onderwerpen uit het desbetreffende vakgebied.   
+### *Subdomein A3: Reflecteren op leren* 
+
+3. De kandidaat kan bij het verwerven van vakkennis en vakvaardigheden reflecteren op eigen belangstelling, motivatie en leerproces.   
+### *Subdomein A4: Studie en beroep* 
+
+4. De kandidaat kan aangeven op welke wijze natuurwetenschappelijke kennis in studie en beroep wordt gebruikt en kan mede op basis daarvan zijn belangstelling voor studies en beroepen onder woorden brengen.   
+
+####Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)
+
+### *Subdomein A5: Onderzoeken* 
+
+5. De kandidaat kan in contexten vraagstellingen analyseren, gebruik makend van relevante begrippen en theorie, vertalen in een vakspecifiek onderzoek, dat onderzoek uitvoeren, en uit de onderzoeksresultaten conclusies trekken. De kandidaat maakt daarbij gebruik van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden.   
+### *Subdomein A6: Ontwerpen* 
+
+6. De kandidaat kan in contexten op basis van een gesteld probleem een technisch ontwerp voorbereiden, uitvoeren, testen en evalueren en daarbij relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen hanteren.   
+### *Subdomein A7: Modelvorming* 
+
+7. De kandidaat kan in contexten een relevant probleem analyseren, inperken tot een hanteerbaar probleem, vertalen naar een model, modeluitkomsten genereren en interpreteren, en het model toetsen en beoordelen. De kandidaat maakt daarbij gebruik van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden.   
+### *Subdomein A8: Natuurwetenschappelijk instrumentarium* 
+
+8. De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en -bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige bewerkingen.   
+### *Subdomein A9: Waarderen en oordelen* 
+
+9. De kandidaat kan in contexten een beargumenteerd oordeel geven over een situatie in de natuur of een technische toepassing, en daarin onderscheid maken tussen wetenschappelijke argumenten, normatieve maatschappelijke overwegingen en persoonlijke opvattingen.   
+
+####Scheikunde - specifieke vaardigheden
+
+### *Subdomein A10: Toepassen van chemische concepten* 
+
+10. De kandidaat kan chemische concepten en in de chemie gebruikte fysische en biologische concepten herkennen en met elkaar in verband brengen.   
+### *Subdomein A11: Redeneren in termen van context-concept* 
+
+11. De kandidaat kan in leefwereld-, beroeps- en wetenschapscontexten chemische concepten herkennen en gebruiken en kan op basis daarvan voorspellingen doen, berekeningen en schattingen maken en daarbij een argumentatie geven.   
+### *Subdomein A12: Redeneren in termen van structuur-eigenschappen* 
+
+12. De kandidaat kan macroscopische eigenschappen in relatie brengen met structuren op meso- en (sub)microniveau, en daarin aspecten van schaal herkennen en kan omgekeerd vanuit structuren voorspellingen doen over die macroscopische eigenschappen.   
+### *Subdomein A13: Redeneren over systemen, verandering en energie* 
+
+13. De kandidaat kan chemische processen beschrijven in termen van systemen met kennis van stoffen, deeltjes, reactiviteit en energie.   
+### *Subdomein A14: Redeneren in termen van duurzaamheid* 
+
+14. De kandidaat kan in maatschappelijke, beroeps- en wetenschapscontexten aspecten van duurzaamheid aangeven en beschrijven, daarmee samenhangende problemen analyseren en voorstellen formuleren voor een mogelijke oplossing daarvan.   
+### *Subdomein A15: Redeneren over ontwikkelen van chemische kennis* 
+
+15. De kandidaat kan analyseren op welke wijze natuurwetenschappelijke, technologische en chemische kennis wordt ontwikkeld en toegepast.   
+
+### Domein  B:  
+
+####Stoffen en materialen in de chemie
+
+### *Subdomein B1: Deeltjesmodellen* 
+
+16. De kandidaat kan deeltjesmodellen beschrijven en gebruiken.   
+### *Subdomein B2: Eigenschappen en modellen* 
+
+17. De kandidaat kan bij beschreven onderzoek aan stoffen en materialen macroscopische eigenschappen verklaren met deeltjesmodellen.   
+### *Subdomein B3: Bindingen en eigenschappen* 
+
+18. De kandidaat kan met behulp van kennis over bindingen in en tussen deeltjes eigenschappen van stoffen en materialen verklaren.   
+### *Subdomein B4: Bindingen, structuren en eigenschappen* 
+
+19. De kandidaat kan op basis van kennis van structuren en de bindingen in en tussen deeltjes eigenschappen van stoffen en materialen verklaren en omgekeerd vanuit de eigenschappen van stoffen of materialen structuren voorspellen.   
+
+### Domein  C:  
+
+####Chemische processen en behoudswetten
+
+### *Subdomein C1: Chemische processen* 
+
+20. De kandidaat kan chemische reacties en fysische processen beschrijven in termen van reactiviteit en het vormen en verbreken van (chemische) bindingen.   
+### *Subdomein C2: Chemisch rekenen* 
+
+21. De kandidaat kan met behulp van kennis van chemische reacties en behoudswetten berekeningen maken over een proces.   
+### *Subdomein C3: Behoudswetten en kringlopen* 
+
+22. De kandidaat kan verbanden leggen tussen behoudswetten en chemische processen, en kan deze verbanden relateren aan kringlopen.   
+### *Subdomein C4: Reactiekinetiek* 
+
+23. De kandidaat kan op basis van kennis van reactiekinetiek chemische processen analyseren, onder andere door de concentratie van aanwezige stoffen en deeltjes te berekenen, en kan aangeven welke rol katalyse speelt.   
+### *Subdomein C5: Chemisch evenwicht* 
+
+24. De kandidaat kan aangeven of er sprake is van evenwicht, kan berekeningen uitvoeren aan evenwichten, en kan verklaren hoe de ligging van een evenwicht kan worden beïnvloed.   
+### *Subdomein C6: Energieberekeningen* 
+
+25. De kandidaat kan berekeningen maken over energieomzettingen en energie-uitwisseling bij chemische processen en hieruit conclusies trekken en voorstellen formuleren.   
+### *Subdomein C7: Classificatie van reacties* 
+
+26. De kandidaat kan reacties classificeren en aan de hand van kenmerken beschrijven.   
+### *Subdomein C8: Technologische aspecten* 
+
+27. De kandidaat kan in contexten van technologische aard aspecten van schaal, verandering en reactiviteit herkennen en toelichten.   
+### *Subdomein C9: Kwaliteit van energie* 
+
+28. De kandidaat kan met kennis van energie aangeven hoe de energiesoort en de kwaliteit van energie bij chemische processen verandert.   
+### *Subdomein C10: Activeringsenergie* 
+
+29. De kandidaat kan bij experimenten het begrip activeringsenergie gebruiken, beschrijven en relateren aan katalyse.   
+
+### Domein  D:  
+
+####Ontwikkelen van chemische kennis
+
+### *Subdomein D1: Chemische vakmethodes* 
+
+30. De kandidaat kan met behulp van kennis van materialen en stoffen een keuze voor een bepaalde scheidings- en/of analysemethode formuleren en beoordelen.   
+### *Subdomein D2: Veiligheid* 
+
+31. De kandidaat kan met behulp van kennis van eigenschappen van stoffen en materialen in experimenten deze stoffen of materialen analyseren en zuiveren en daarbij veilig omgaan met stoffen, materialen en apparatuur.   
+### *Subdomein D3: Chemische synthese* 
+
+32. De kandidaat kan met behulp van kennis over chemische processen aangeven hoe stoffen worden gesynthetiseerd en daarbij een relatie leggen met relevante reactiemechanismen.   
+### *Subdomein D4: Molecular modelling* 
+
+33. De kandidaat kan een reactiemechanisme opstellen met gebruik van onder andere ‘molecular modelling’, en daarbij, indien van toepassing, kennis van katalyse gebruiken.   
+
+### Domein  E:  
+
+####Innovatie en chemisch onderzoek
+
+### *Subdomein E1: Chemisch onderzoek* 
+
+34. De kandidaat kan met behulp van kennis van chemische processen in een beschreven onderzoek ten minste in de context van gezondheid, materialen of voedselproductie aangeven hoe die kennis wordt gebruikt.   
+### *Subdomein E2: Selectiviteit en specificiteit* 
+
+35. De kandidaat kan bij chemische reacties ten minste in de context van voedselproductie, geneesmiddelen of transport van stoffen in het lichaam selectiviteit en specificiteit verklaren, en daarbij, indien van toepassing, kennis van katalyse gebruiken.   
+### *Subdomein E3: Duurzaamheid* 
+
+36. De kandidaat kan met behulp van kennis van chemische processen uitspraken over duurzaamheid waarderen en van commentaar voorzien.   
+### *Subdomein E4: Nieuwe materialen* 
+
+37. De kandidaat kan met behulp van kennis van de chemische industrie ten minste in de context van geneesmiddelen, voeding of materialen toelichten hoe nieuwe toepassingen in bestaande en in nieuwe markten worden ontwikkeld.   
+### *Subdomein E5: Onderzoek en ontwerp* 
+
+38. De kandidaat kan ten minste in de context van duurzaamheid, materialen, voeding of gezondheid een onderzoeks- of een ontwerpopdracht formuleren, die uitvoeren en daarvan verslag doen.   
+
+### Domein  F:  
+
+####Industriële (chemische) processen
+
+### *Subdomein F1: Industriële processen* 
+
+39. De kandidaat kan industriële processen beschrijven in blokschema's, hieraan berekeningen uitvoeren en voorstellen voor aanpassingen formuleren en beoordelen.   
+### *Subdomein F2: Groene chemie* 
+
+40. De kandidaat kan met behulp van kennis van procestechnologie en reactiekinetiek, ten minste in de context van voedselproductie of duurzaamheid, ‘principes van groene chemie’ herkennen en relateren aan gerealiseerde, mogelijke en gewenste veranderingen van die processen en eenvoudige berekeningen uitvoeren.   
+### *Subdomein F3: Energieomzettingen* 
+
+41. De kandidaat kan in de context van duurzaamheid beschrijven welke chemische en/of technologische processen worden gebruikt bij energieomzettingen en kan met behulp van kennis van energieproductie deze processen beschrijven, daarbij voorkomende condities aangeven en voorstellen voor aanpassing beoordelen.   
+### *Subdomein F4: Risico en veiligheid* 
+
+42. De kandidaat kan kennis van risico en veiligheid gebruiken en kan daarmee in industriële productieprocessen die aspecten beoordelen.   
+### *Subdomein F5: Duurzame productieprocessen* 
+
+43. De kandidaat kan met behulp van chemische kennis ten minste in de context van duurzaamheid een oordeel geven over het ontwerp van productieprocessen.   
+
+### Domein  G:  
+
+####Maatschappij, chemie en technologie
+
+### *Subdomein G1: Chemie van het leven* 
+
+44. De kandidaat kan kennis van chemische processen in levende organismen beschrijven en gebruiken.   
+### *Subdomein G2: Milieueffectrapportage* 
+
+45. De kandidaat kan met behulp van kennis van productieprocessen ten minste in de context van gezondheid of duurzaamheid beschrijven welke maatschappelijke condities een rol spelen bij milieu-gerelateerde vraagstukken en voor deze vraagstukken beschrijven welke mogelijke gevolgen er zijn op het gebied van gezondheid en duurzaamheid.   
+### *Subdomein G3: Energie en industrie* 
+
+46. De kandidaat kan met behulp van kennis van productieprocessen ten minste in de context van duurzaamheid energieomzettingen vanuit de verschillende bronnen beschrijven, vergelijkingen maken en een beargumenteerd oordeel geven.   
+### *Subdomein G4: Milieueisen* 
+
+47. De kandidaat kan met behulp van kennis van grootschalige chemische processen beschrijven welke kwaliteiten van water, lucht, bodem en voedsel op welke wijze worden gewaarborgd en kan voorgestelde aanpassingen beoordelen.   
+### *Subdomein G5: Bedrijfsprocessen* 
+
+48. De kandidaat kan met behulp van chemische kennis ten minste in de context van duurzaamheid een voorbeeld uit de Nederlandse chemische industrie analyseren en aangeven wat de bijdrage is van het bedrijfsproces aan lokale en mondiale kwaliteit van leven.    
+
+####Examenprogramma scheikunde havo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen: Domein A Vaardigheden Domein B Kennis van stoffen en materialen Domein C Kennis van chemische processen en kringlopen Domein D Ontwerpen en experimenten in de chemie Domein E Innovatieve ontwikkelingen in de chemie Domein F Processen in de chemische industrie Domein G Maatschappij en chemische technologie 
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op de subdomeinen B1, B2, B3, B4, B5, C1, C2, C3, C6, C7, C8, D1, D3, E1, F1, F3, G1 en G2, in combinatie met de vaardigheden uit domein A. Het CvE kan bepalen, dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde. Het CvE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast. Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op domein A en: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+####Algemene vaardigheden (profieloverstijgend niveau)
+
+### *Subdomein A1: Informatievaardigheden gebruiken* 
+
+1. De kandidaat kan doelgericht informatie zoeken, beoordelen, selecteren en verwerken.   
+### *Subdomein A2: Communiceren* 
+
+2. De kandidaat kan adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren over onderwerpen uit het desbetreffende vakgebied.   
+### *Subdomein A3: Reflecteren op leren* 
+
+3. De kandidaat kan bij het verwerven van vakkennis en vakvaardigheden reflecteren op eigen belangstelling, motivatie en leerproces.   
+### *Subdomein A4: Studie en beroep* 
+
+4. De kandidaat kan aangeven op welke wijze natuurwetenschappelijke kennis in studie en beroep wordt gebruikt en kan mede op basis daarvan zijn belangstelling voor studies en beroepen onder woorden brengen.   
+
+####Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)
+
+### *Subdomein A5: Onderzoeken* 
+
+5. De kandidaat kan in contexten instructies voor onderzoek op basis van vraagstellingen uitvoeren en conclusies trekken uit de onderzoeksresultaten. De kandidaat maakt daarbij gebruik van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden.   
+### *Subdomein A6: Ontwerpen* 
+
+6. De kandidaat kan in contexten op basis van een gesteld probleem een technisch ontwerp voorbereiden, uitvoeren, testen en evalueren en daarbij relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen hanteren.   
+### *Subdomein A7: Modelvorming* 
+
+7. De kandidaat kan in contexten een probleem analyseren, een adequaat model selecteren, en modeluitkomsten genereren en interpreteren. De kandidaat maakt daarbij gebruik van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden.   
+### *Subdomein A8: Natuurwetenschappelijk instrumentarium* 
+
+8. De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en ‑bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige bewerkingen.   
+### *Subdomein A9: Waarderen en oordelen* 
+
+9. De kandidaat kan in contexten een beargumenteerd oordeel geven over een situatie in de natuur of een technische toepassing, en daarin onderscheid maken tussen wetenschappelijke argumenten, normatieve maatschappelijke overwegingen en persoonlijke opvattingen.   
+
+####Scheikunde – specifieke vaardigheden
+
+### *Subdomein A10: Gebruiken van chemische concepten* 
+
+10. De kandidaat kan chemische concepten en in de chemie gebruikte fysische en biologische concepten herkennen en met elkaar in verband brengen.   
+### *Subdomein A11: Redeneren in termen van context-concept* 
+
+11. De kandidaat kan in leefwereld-, beroeps- en technologische contexten chemische concepten herkennen en gebruiken en kan op basis daarvan voorspellingen doen, en berekeningen en schattingen maken.   
+### *Subdomein A12: Redeneren in termen van structuur-eigenschappen* 
+
+12. De kandidaat kan macroscopische eigenschappen in relatie brengen met structuren op meso- en microniveau en daarin aspecten van schaal herkennen en kan omgekeerd vanuit structuren voorspellingen doen over macroscopische eigenschappen.   
+### *Subdomein A13: Redeneren over systemen, verandering en energie* 
+
+13. De kandidaat kan chemische processen herkennen in termen van systemen en daarbij kennis van stoffen, deeltjes, reactiviteit en energie gebruiken.   
+### *Subdomein A14: Redeneren in termen van duurzaamheid* 
+
+14. De kandidaat kan in maatschappelijke, beroeps- en technologische contexten aspecten van duurzaamheid aangeven en beschrijven.   
+### *Subdomein A15: Redeneren over ontwikkelen van chemische kennis* 
+
+15. De kandidaat kan in contexten aangeven op welke wijze natuurwetenschappelijke, technologische en chemische kennis wordt ontwikkeld en toegepast.   
+
+### Domein  B:  
+
+####Kennis van stoffen en materialen
+
+### *Subdomein B1: Deeltjesmodellen* 
+
+16. De kandidaat kan deeltjesmodellen beschrijven en gebruiken.   
+### *Subdomein B2: Eigenschappen en modellen* 
+
+17. De kandidaat kan macroscopische eigenschappen van een stof of materiaal in relatie brengen met deeltjesmodellen.   
+### *Subdomein B3: Bindingen en eigenschappen* 
+
+18. De kandidaat kan met behulp van kennis van bindingen eigenschappen van stoffen en materialen toelichten en beschrijven.   
+### *Subdomein B4: Bindingen, structuren en eigenschappen* 
+
+19. De kandidaat kan op basis van kennis van aanwezige structuren en de bindingen in en tussen deeltjes een macroscopische eigenschap van een stof of materiaal verklaren.   
+### *Subdomein B5: Macroscopische eigenschappen* 
+
+20. De kandidaat kan een macroscopische eigenschap relateren aan de structuur van een stof of materiaal.   
+
+### Domein  C:  
+
+####Kennis van chemische processen en kringlopen
+
+### *Subdomein C1: Chemische processen* 
+
+21. De kandidaat kan chemische reacties en fysische processen beschrijven in termen van vormen en verbreken van (chemische) bindingen.   
+### *Subdomein C2: Chemisch rekenen* 
+
+22. De kandidaat kan met behulp van kennis van chemische reacties en behoudswetten berekeningen maken over een proces.   
+### *Subdomein C3: Energieberekeningen* 
+
+23. De kandidaat kan een chemisch proces en de daarbij optredende energieomzetting en energie-uitwisseling beschrijven en met een berekening toelichten.   
+### *Subdomein C4: Chemisch evenwicht* 
+
+24. De kandidaat kan bij experimenten metingen doen aan concentraties en energie-uitwisseling en beredeneren of er sprake is van evenwicht en hoe de ligging van het evenwicht kan worden beïnvloed.   
+### *Subdomein C5: Technologische aspecten* 
+
+25. De kandidaat kan in contexten van technologische aard aspecten van schaal, verandering en reactiviteit herkennen en toelichten.   
+### *Subdomein C6: Reactiekinetiek* 
+
+26. De kandidaat kan de reactiesnelheid berekenen uit de concentratieverandering en beredeneren hoe de reactiesnelheid beïnvloed wordt.   
+### *Subdomein C7: Behoudswetten en kringlopen* 
+
+27. De kandidaat kan chemische processen relateren aan behoudswetten en beschrijven in termen van kringlopen.   
+### *Subdomein C8: Classificatie van reacties* 
+
+28. De kandidaat kan eenvoudige reacties classificeren en gebruiken bij het beschrijven van polymerisatiereacties.   
+
+### Domein  D:  
+
+####Ontwerpen en experimenten in de chemie
+
+### *Subdomein D1: Chemische vakmethodes* 
+
+29. De kandidaat kan met behulp van kennis van stoffen, materialen en chemische processen verklaren waarom bepaalde scheidings- en/of analysemethoden passen in een voorgesteld ontwerp of productieproces.   
+### *Subdomein D2: Veiligheid* 
+
+30. De kandidaat kan stoffen en materialen analyseren en zuiveren en daarbij veilig omgaan met stoffen, materialen en apparatuur.   
+### *Subdomein D3: Chemische procesontwerpen* 
+
+31. De kandidaat kan chemische processen relateren aan de opzet van een ontwerpopdracht of gebruikte technologie.   
+### *Subdomein D4: Molecular modelling* 
+
+32. De kandidaat kan bij een onderzoek- of een ontwerpopdracht elementen van ‘molecular modelling’ gebruiken.   
+
+### Domein  E:  
+
+####Innovatieve ontwikkelingen in de chemie
+
+### *Subdomein E1: Kenmerken van innovatieve processen* 
+
+33. De kandidaat kan in innovatieve processen het gebruik van structuur-eigenschappen-relaties ten minste in de context van materialen, geneesmiddelen of voeding, herkennen en beschrijven.   
+### *Subdomein E2: Duurzaamheid* 
+
+34. De kandidaat kan met behulp van kennis van chemische processen aspecten van duurzaamheid in relatie brengen met ontwikkelingen in de chemie.   
+### *Subdomein E3: Innovatieve processen* 
+
+35. De kandidaat kan met kennis van de chemische industrie ten minste in de context van voedselproductie of materialen een innovatief proces beschrijven.   
+
+### Domein  F:  
+
+####Processen in de chemische industrie
+
+### *Subdomein F1: Industriële processen* 
+
+36. De kandidaat kan gegeven industriële processen beschrijven in blokschema's, rendementsberekeningen maken, en aangeven hoe aspecten van groene chemie bij het ontwerp van het proces een rol spelen.   
+### *Subdomein F2: Procestechnologie en duurzaamheid* 
+
+37. De kandidaat kan kennis over procestechnologie en reactiekinetiek gebruiken bij redeneringen met betrekking tot duurzaamheid en veiligheid van een proces.   
+### *Subdomein F3: Energieomzettingen* 
+
+38. De kandidaat kan in de context van duurzaamheid beschrijven welke chemische en/of technologische processen worden gebruikt bij energieomzettingen en kan beredeneren hoe duurzaamheid een rol speelt bij energieproductie.   
+### *Subdomein F4: Risico en veiligheid* 
+
+39. De kandidaat kan in een gegeven industrieel proces veiligheidsrisico’s benoemen en veiligheidsmaatregelen aangeven.   
+### *Subdomein F5: Kwaliteit en gezondheid* 
+
+40. De kandidaat kan kennis van chemische processen ten minste in de context van voeding of voedselproductie relateren aan uitspraken over kwaliteit en gezondheid.   
+
+### Domein  G:  
+
+####Maatschappij en chemische technologie
+
+### *Subdomein G1: Chemie van het leven* 
+
+41. De kandidaat kan chemische processen in levende organismen herkennen en beschrijven.   
+### *Subdomein G2: Milieueisen* 
+
+42. De kandidaat kan met behulp van kennis van chemische processen ten minste in de context van voedselproductie of gezondheid uitspraken doen over de kwaliteit van water, lucht,  bodem en voedsel.   
+### *Subdomein G3: Duurzame chemische technologie* 
+
+43. De kandidaat kan aangeven hoe grondstoffen voor de chemische industrie worden geproduceerd en kan met behulp van kennis van duurzame principes een relatie leggen tussen de lokale en mondiale kwaliteit van leven en de bijdrage van een bedrijfsproces uit de chemische industrie daaraan.   
+### *Subdomein G4: Groene chemie* 
+
+44. De kandidaat kan bij grootschalige productieprocessen aspecten van duurzaamheid en groene chemie benoemen.   
+### *Subdomein G5: Ketenanalyse* 
+
+45. De kandidaat kan met kennis van chemische processen bij een ketenanalyse van een proces of een product voorstellen voor aanpassing van het proces of product beoordelen.   
+
+####Examenprogramma biologie VWO
+
+Het eindexamen Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A   | Vaardigheden  |
+| Domein B   | Zelfregulatie  |
+| Domein C   | Zelforganisatie  |
+| Domein D   | Interactie  |
+| Domein E   | Reproductie  |
+| Domein F   | Evolutie  |
+
+Het centraal examen Het centraal examen heeft betrekking op de subdomeinen B1, B2, B3, B4, B5, B8, C1, C3, D1, D2, D5, E3, F1 en F2, in combinatie met de vaardigheden uit domein A. Het CvE kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde. Het CvE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast. Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen. Het schoolexamen Het schoolexamen heeft betrekking op domein A en: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meerdere domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+####Domein A: Vaardigheden
+
+####Algemene vaardigheden (profieloverstijgend niveau)
+
+### *Subdomein A1: Informatievaardigheden gebruiken* 
+
+1. De kandidaat kan doelgericht informatie zoeken, beoordelen, selecteren en verwerken.   
+### *Subdomein A2: Communiceren* 
+
+2. De kandidaat kan adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren over onderwerpen uit het desbetreffende vakgebied.   
+### *Subdomein A3: Reflecteren op leren* 
+
+3. De kandidaat kan bij het verwerven van vakkennis en vakvaardigheden reflecteren op eigen belangstelling, motivatie en leerproces.   
+### *Subdomein A4: Studie en beroep* 
+
+4. De kandidaat kan aangeven op welke wijze natuurwetenschappelijke kennis in studie en beroep wordt gebruikt en kan mede op basis daarvan zijn belangstelling voor studies en beroepen onder woorden brengen.   
+
+####Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)
+
+### *Subdomein A5: Onderzoeken* 
+
+5. De kandidaat kan in contexten vraagstellingen analyseren, gebruikmakend van relevante begrippen en theorie, vertalen in een vakspecifiek onderzoek, dat onderzoek uitvoeren, en uit de onderzoeksresultaten conclusies trekken. De kandidaat maakt daarbij gebruik van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden.   
+### *Subdomein A6: Ontwerpen* 
+
+6. De kandidaat kan in contexten op basis van een gesteld probleem een technisch ontwerp voorbereiden, uitvoeren, testen en evalueren en daarbij relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen hanteren.   
+### *Subdomein A7: Modelvorming* 
+
+7. De kandidaat kan in contexten een relevant probleem analyseren, inperken tot een hanteerbaar probleem, vertalen naar een model, modeluitkomsten genereren en interpreteren, en het model toetsen en beoordelen. De kandidaat maakt daarbij gebruik van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden.   
+### *Subdomein A8: Natuurwetenschappelijk instrumentarium* 
+
+8. De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en -bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige bewerkingen.   
+### *Subdomein A9: Waarderen en oordelen* 
+
+9. De kandidaat kan in contexten een beargumenteerd oordeel geven over een situatie in de natuur of een technische toepassing, en daarin onderscheid maken tussen wetenschappelijke argumenten, normatieve maatschappelijke overwegingen en persoonlijke opvattingen.   
+
+####Biologie – specifieke vaardigheden
+
+### *Subdomein A10: Beleven* 
+
+10. De kandidaat kan in contexten gevoelens en betekenissen expliciteren die worden opgeroepen door het omgaan met de natuur of in de natuur voorkomende objecten en daarbij aandacht schenken aan de gevoelens en betekenissen van anderen.   
+### *Subdomein A11: Vorm­functie­denken* 
+
+11. De kandidaat kan in contexten redeneringen hanteren waarbij van biologische objecten op verschillende organisatieniveaus vanuit een gegeven vorm naar een bijbehorende functie wordt gezocht en andersom.   
+### *Subdomein A12: Ecologisch denken* 
+
+12. De kandidaat kan in contexten op het gebied van duurzaamheid redeneringen hanteren waarbij uitgewerkt wordt wat de gevolgen van interne of externe veranderingen in een levensgemeenschap of ecosysteem zijn.   
+### *Subdomein A13: Evolutionair denken* 
+
+13. De kandidaat kan in contexten redeneringen hanteren waarmee biologische verschijnselen op verschillende organisatieniveaus verklaard worden met behulp van theorie over evolutiemechanismen.   
+### *Subdomein A14: Systeemdenken* 
+
+14. De kandidaat kan in contexten een onderscheid maken tussen verschillende organisatieniveaus, relaties binnen en tussen organisatieniveaus uitwerken en uiteenzetten hoe biologische eenheden op verschillende organisatieniveaus zichzelf in stand houden en ontwikkelen.   
+### *Subdomein A15: Kennisontwikkeling en -toepassing* 
+
+15. De kandidaat kan in contexten analyseren op welke wijze natuurwetenschappelijke en technologische kennis wordt ontwikkeld en toegepast.   
+### *Subdomein A16: Contexten* 
+
+16. De kandidaat kan de in domein A genoemde vaardigheden en de in domeinen B tot en met F genoemde concepten ten minste gebruiken in wetenschappelijke contexten, in beroepscontexten waarvoor een wetenschappelijke opleiding is vereist en in leefwereldcontexten.   
+
+####Domein B: Zelfregulatie
+
+### *Subdomein B1: Eiwitsynthese* 
+
+17. De kandidaat kan met behulp van de concepten DNA en eiwitsynthese ten minste in contexten op het gebied van gezondheid en voedselproductie verklaren op welke wijze zelfregulatie op moleculair niveau plaatsvindt.   
+### *Subdomein B2: Stofwisseling van de cel* 
+
+18. De kandidaat kan met behulp van de concepten homeostase, transport, assimilatie en dissimilatie ten minste in contexten op het gebied van gezondheid en voeding verklaren op welke wijze de stofwisseling van cellen van prokaryoten en eukaryoten verloopt.   
+### *Subdomein B3: Stofwisseling van het organisme* 
+
+19. De kandidaat kan met behulp van de concepten orgaan, fotosynthese, ademhaling, vertering, uitscheiding en transport ten minste in contexten op het gebied van gezondheid en voedselproductie verklaren op welke wijze de stofwisseling van organismen verloopt en beargumenteren op welke wijze stoornissen daarin kunnen ontstaan en op welke wijze deze kunnen worden aangepakt.   
+### *Subdomein B4: Zelfregulatie van het organisme* 
+
+20. De kandidaat kan met behulp van de concepten homeostase, hormonale regulatie en neurale regulatie ten minste in contexten op het gebied van sport en voeding verklaren op welke wijze zelfregulatie bij eukaryoten verloopt en beargumenteren op welke wijze daarin stoornissen kunnen ontstaan en op welke wijze deze kunnen worden aangepakt.   
+### *Subdomein B5: Afweer van het organisme* 
+
+21. De kandidaat kan met behulp van het concept afweer ten minste in contexten op het gebied van gezondheidszorg en voedselproductie benoemen op welke wijze organismen zich te weer stellen tegen andere organismen, virussen en allergenen en beargumenteren welke problemen daarbij kunnen optreden en op welke wijze deze kunnen worden aangepakt.   
+### *Subdomein B6: Beweging van het organisme* 
+
+22. De kandidaat kan met behulp van de concepten beweging, neurale regulatie en waarneming ten minste in contexten op het gebied van gezondheid en sport verklaren op welke wijze mens en dier bewegen en op welke wijze dit kan worden geoptimaliseerd.   
+### *Subdomein B7: Waarneming door het organisme* 
+
+23. De kandidaat kan met behulp van de concepten orgaan, waarneming en neurale regulatie ten minste in contexten op het gebied van gezondheid en sport verklaren op welke wijze organismen waarnemen.   
+### *Subdomein B8: Regulatie van ecosystemen* 
+
+24. De kandidaat kan met behulp van de concepten energiestroom, kringloop, dynamiek en evenwicht ten minste in contexten op het gebied van duurzaamheid verklaren op welke wijze ecosystemen zichzelf reguleren; de kandidaat kan beargumenteren welke effecten op kunnen treden als zelfregulatie van ecosystemen en het systeem Aarde wordt verstoord, en kan beargumenteren met welke maatregelen de mens zelfregulatie van ecosystemen en het systeem Aarde kan beïnvloeden.   
+
+####Domein C: Zelforganisatie
+
+### *Subdomein C1: Zelforganisatie van cellen* 
+
+25. De kandidaat kan met behulp van de concepten genexpressie en celdifferentiatie ten minste in contexten op het gebied van gezondheid en voedselproductie benoemen op welke wijze de ontwikkeling van cellen verloopt en beargumenteren op welke wijze stoornissen in de ontwikkeling kunnen ontstaan en worden aangepakt.   
+### *Subdomein C2: Zelforganisatie van het organisme* 
+
+26. De kandidaat kan met behulp van het concept levenscyclus ten minste in contexten op het gebied van gezondheid en voedselproductie benoemen op welke wijze de ontwikkeling van organismen verloopt, verklaren op welke wijze verstoringen van de ontwikkeling ontstaan en beargumenteren op welke wijze deze kunnen worden voorkomen of worden aangepakt.   
+### *Subdomein C3: Zelforganisatie van ecosystemen* 
+
+27. De kandidaat kan met behulp van de concepten dynamiek en evenwicht ten minste in contexten op het gebied van duurzaamheid en wereldbeeld benoemen op welke wijze ecosystemen zich kunnen ontwikkelen en beargumenteren met welke maatregelen de mens de zelforganisatie van ecosystemen en het systeem Aarde beïnvloedt.   
+
+####Domein D: Interactie
+
+### *Subdomein D1: Moleculaire interactie* 
+
+28. De kandidaat kan met behulp van de concepten genregulatie en interactie met (a)biotische factoren ten minste in contexten op het gebied van gezondheid en voedselproductie verklaren op welke wijze de moleculaire regulatie plaatsvindt.   
+### *Subdomein D2: Cellulaire interactie* 
+
+29. De kandidaat kan met behulp van de concepten celcommunicatie en interactie met (a)biotische factoren ten minste in contexten op het gebied van gezondheid de wijze waarop cellulaire interactie verloopt benoemen.   
+### *Subdomein D3: Gedrag en interactie* 
+
+30. De kandidaat kan met behulp van de concepten gedrag en interactie met (a)biotische factoren ten minste in contexten op het gebied van communicatie, gezondheid en veiligheid verklaren op welke wijze gedrag van organismen en populaties ontstaat, benoemen wat de functie van het gedrag is en benoemen op welke wijze het zich ontwikkelt.   
+### *Subdomein D4: Seksualiteit* 
+
+31. De kandidaat kan met behulp van de concepten gedrag en interactie met (a)biotische factoren ten minste in contexten op het gebied van gezondheid en communicatie beargumenteren op welke wijze vraagstukken met betrekking tot seksualiteit van de mens kunnen worden benaderd.   
+### *Subdomein D5: Interactie in ecosystemen* 
+
+32. De kandidaat kan met behulp van de concepten voedselrelatie en interactie met (a)biotische factoren ten minste in contexten op het gebied van duurzaamheid en voedselproductie benoemen welke relaties tussen populaties en ecosystemen bestaan en beargumenteren op welke wijze vraagstukken die daar betrekking op hebben, kunnen worden benaderd.   
+
+####Domein E: Reproductie
+
+### *Subdomein E1: DNA­replicatie* 
+
+33. De kandidaat kan met behulp van het concept DNA-replicatie ten minste in contexten op het gebied van veiligheid en gezondheid benoemen op welke wijze erfelijk materiaal wordt gereproduceerd.   
+### *Subdomein E2: Levenscyclus van de cel* 
+
+34. De kandidaat kan met behulp van het concept celcyclus ten minste in contexten op het gebied van energie, gezondheid en voedselproductie benoemen op welke wijze reproductie van cellen verloopt en beargumenteren op welke wijze daarbij optredende verstoringen kunnen worden voorkomen of aangepakt.   
+### *Subdomein E3: Reproductie van het organisme* 
+
+35. De kandidaat kan met behulp van de concepten voortplanting en erfelijke eigenschap ten minste in contexten op het gebied van energie, gezondheid en voedselproductie verklaren op welke wijze eigenschappen worden overgedragen en benoemen op welke wijze de reproductie van eukaryoten en prokaryoten verloopt.   
+
+####Domein F: Evolutie
+
+### *Subdomein F1: Selectie* 
+
+36. De kandidaat kan met behulp van de concepten DNA, mutatie, genetische variatie, recombinatie en populatie ten minste in contexten op het gebied van gezondheid en voedselproductie verklaren op welke wijze variatie in populaties tot stand komt.   
+### *Subdomein F2: Soortvorming* 
+
+37. De kandidaat kan met behulp van de concepten populatie, variatie, selectie en soortvorming ten minste in contexten op het gebied van gezondheid en wereldbeeld verklaren op welke wijze nieuwe soorten kunnen ontstaan.   
+### *Subdomein F3: Biodiversiteit* 
+
+38. De kandidaat kan met behulp van het concept biodiversiteit ten minste in contexten op het gebied van duurzaamheid en wereldbeeld veranderingen in diversiteit van populaties en ecosystemen binnen het systeem Aarde verklaren en beargumenteren op welke wijze deze veranderingen beïnvloed worden.   
+### *Subdomein F4: Ontstaan van het leven* 
+
+39. De kandidaat kan met behulp van het concept ontstaan van het leven ten minste in contexten op het gebied van wereldbeeld benoemen met behulp van welke theorie het voorkomen van leven op Aarde wordt verklaard.    
+
+####Examenprogramma Biologie Havo
+
+Het eindexamen Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A   | Vaardigheden  |
+| Domein B   | Zelfregulatie  |
+| Domein C   | Zelforganisatie  |
+| Domein D   | Interactie  |
+| Domein E   | Reproductie  |
+| Domein F   | Evolutie  |
+
+Het centraal examen Het centraal examen heeft betrekking op de subdomeinen B2, B3, B4, B5, B7, B8, C1, D4, E4, F1 en F2, in combinatie met de vaardigheden uit domein A. Het CvE kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde. Het CvE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast. Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen. Het schoolexamen Het schoolexamen heeft betrekking op domein A en: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meerdere domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+####Domein A: Vaardigheden
+
+####Algemene vaardigheden (profieloverstijgend niveau)
+
+### *Subdomein A1: Informatievaardigheden gebruiken* 
+
+1. De kandidaat kan doelgericht informatie zoeken, beoordelen, selecteren en verwerken.   
+### *Subdomein A2: Communiceren* 
+
+2. De kandidaat kan adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren over onderwerpen uit het desbetreffende vakgebied.   
+### *Subdomein A3: Reflecteren op leren* 
+
+3. De kandidaat kan bij het verwerven van vakkennis en vakvaardigheden reflecteren op eigen belangstelling, motivatie en leerproces.   
+### *Subdomein A4: Studie en beroep* 
+
+4. De kandidaat kan aangeven op welke wijze natuurwetenschappelijke kennis in studie en beroep wordt gebruikt en kan mede op basis daarvan zijn belangstelling voor studies en beroepen onder woorden brengen.   
+
+####Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)
+
+### *Subdomein A5: Onderzoeken* 
+
+5. De kandidaat kan in contexten instructies voor onderzoek op basis van vraagstellingen uitvoeren en conclusies trekken uit de onderzoeksresultaten. De kandidaat maakt daarbij gebruik van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden.   
+### *Subdomein A6: Ontwerpen* 
+
+6. De kandidaat kan in contexten op basis van een gesteld probleem een technisch ontwerp voorbereiden, uitvoeren, testen en evalueren en daarbij relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen hanteren.   
+### *Subdomein A7: Modelvorming* 
+
+7. De kandidaat kan in contexten een probleem analyseren, een adequaat model selecteren, en modeluitkomsten genereren en interpreteren. De kandidaat maakt daarbij gebruik van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden.   
+### *Subdomein A8: Natuurwetenschappelijk instrumentarium* 
+
+8. De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en -bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige bewerkingen.   
+### *Subdomein A9: Waarderen en oordelen* 
+
+9. De kandidaat kan in contexten een beargumenteerd oordeel geven over een situatie in de natuur of een technische toepassing, en daarin onderscheid maken tussen wetenschappelijke argumenten, normatieve maatschappelijke overwegingen en persoonlijke opvattingen.   
+
+####Biologie – specifieke vaardigheden
+
+### *Subdomein A10: Beleven* 
+
+10. De kandidaat kan in contexten gevoelens en betekenissen expliciteren die worden opgeroepen door het omgaan met de natuur of in de natuur voorkomende objecten en daarbij aandacht schenken aan de gevoelens en betekenissen van anderen.   
+### *Subdomein A11: Vorm­functie­denken* 
+
+11. De kandidaat kan in contexten redeneringen hanteren waarbij van biologische objecten op verschillende organisatieniveaus vanuit een gegeven vorm naar een bijbehorende functie wordt gezocht en andersom.   
+### *Subdomein A12: Ecologisch denken* 
+
+12. De kandidaat kan in contexten op het gebied van duurzaamheid redeneringen hanteren waarbij uitgewerkt wordt wat de gevolgen van interne of externe veranderingen in een levensgemeenschap of ecosysteem zijn.   
+### *Subdomein A13: Evolutionair denken* 
+
+13. De kandidaat kan in contexten redeneringen hanteren waarmee biologische verschijnselen op verschillende organisatieniveaus verklaard worden met behulp van theorie over evolutiemechanismen.   
+### *Subdomein A14: Systeemdenken* 
+
+14. De kandidaat kan in contexten een onderscheid maken tussen verschillende organisatieniveaus, relaties binnen en tussen organisatieniveaus uitwerken en uiteenzetten hoe biologische eenheden op verschillende organisatieniveaus zichzelf in stand houden en ontwikkelen.   
+### *Subdomein A15: Contexten* 
+
+15. De kandidaat kan de in domein A genoemde vaardigheden en de in domeinen B tot en met F genoemde concepten ten minste gebruiken in beroepscontexten en in leefwereldcontexten.   
+### *Subdomein A16: Kennisontwikkeling en ­toepassing* 
+
+16. De kandidaat kan in contexten analyseren op welke wijze natuurwetenschappelijke en technologische kennis wordt ontwikkeld en toegepast.   
+
+####Domein B: Zelfregulatie
+
+### *Subdomein B1: Eiwitsynthese* 
+
+17. De kandidaat kan met behulp van de concepten DNA en eiwitsynthese ten minste in contexten op het gebied van gezondheid en voedselproductie verklaren op welke wijze bouwstoffen van de cel worden gevormd.   
+### *Subdomein B2: Stofwisseling van de cel* 
+
+18. De kandidaat kan met behulp van de concepten homeostase, transport, assimilatie en dissimilatie ten minste in contexten op het gebied van gezondheid en voeding verklaren op welke wijze de stofwisseling van cellen van prokaryoten en eukaryoten verloopt.   
+### *Subdomein B3: Stofwisseling van het organisme* 
+
+19. De kandidaat kan met behulp van de concepten orgaan, fotosynthese, ademhaling, vertering, uitscheiding en transport ten minste in contexten op het gebied van gezondheid en voedselproductie benoemen op welke wijze de stofwisseling van organismen verloopt en benoemen op welke wijze stoornissen daarin kunnen ontstaan en op welke wijze deze kunnen worden aangepakt.   
+### *Subdomein B4: Zelfregulatie van het organisme* 
+
+20. De kandidaat kan met behulp van de concepten homeostase, hormonale regulatie en neurale regulatie ten minste in contexten op het gebied van sport en voeding verklaren op welke wijze eukaryoten zichzelf reguleren.   
+### *Subdomein B5: Afweer van het organisme* 
+
+21. De kandidaat kan met behulp van het concept afweer ten minste in contexten op het gebied van gezondheidszorg en voedselproductie benoemen op welke wijze eukaryoten zich te weer stellen tegen andere organismen, virussen en allergenen en welke problemen daarbij kunnen ontstaan.   
+### *Subdomein B6: Beweging van het organisme* 
+
+22. De kandidaat kan met behulp van de concepten beweging, neurale regulatie en waarneming ten minste in contexten op het gebied van gezondheid en sport verklaren op welke wijze mens en dier bewegen en op welke wijze dit kan worden geoptimaliseerd.   
+### *Subdomein B7: Waarneming door het organisme* 
+
+23. De kandidaat kan met behulp van de concepten orgaan, waarneming en neurale regulatie ten minste in contexten op het gebied van gezondheid en sport verklaren op welke wijze organismen waarnemen.   
+### *Subdomein B8: Regulatie van ecosystemen* 
+
+24. De kandidaat kan met behulp van de concepten energiestroom, kringloop, dynamiek en evenwicht ten minste in contexten op het gebied van duurzaamheid verklaren op welke wijze ecosystemen zichzelf reguleren en kan beargumenteren met welke maatregelen de mens zelfregulatie van ecosystemen en het systeem Aarde kan beïnvloeden.   
+
+####Domein C: Zelforganisatie
+
+### *Subdomein C1: Zelforganisatie van cellen* 
+
+25. De kandidaat kan met behulp van de concepten genexpressie en celdifferentiatie ten minste in contexten op het gebied van energie en gezondheid benoemen op welke wijze de ontwikkeling van cellen verloopt.   
+### *Subdomein C2: Zelforganisatie van het organisme* 
+
+26. De kandidaat kan met behulp van het concept levenscyclus ten minste in contexten op het gebied van gezondheid en voedselproductie benoemen op welke wijze de ontwikkeling van organismen verloopt en verklaren op welke wijze verstoringen van de ontwikkeling ontstaan, kunnen worden voorkomen en worden aangepakt.   
+### *Subdomein C3: Zelforganisatie van ecosystemen* 
+
+27. De kandidaat kan met behulp van de concepten dynamiek en evenwicht ten minste in contexten op het gebied van duurzaamheid en wereldbeeld benoemen op welke wijze ecosystemen zich kunnen ontwikkelen en beargumenteren met welke maatregelen de mens de zelforganisatie van ecosystemen beïnvloedt.   
+
+####Domein D: Interactie
+
+### *Subdomein D1: Moleculaire interactie* 
+
+28. De kandidaat kan met behulp van de concepten genregulatie en interactie met (a)biotische factoren ten minste in contexten op het gebied van gezondheid en voedselproductie benoemen op welke wijze de moleculaire regulatie plaatsvindt.   
+### *Subdomein D2: Gedrag en interactie* 
+
+29. De kandidaat kan met behulp van de concepten gedrag en interactie met (a)biotische factoren ten minste in contexten op het gebied van communicatie, gezondheid en veiligheid verklaren op welke wijze gedrag van organismen en populaties ontstaat en benoemen wat de functie daarvan is.   
+### *Subdomein D3: Seksualiteit* 
+
+30. De kandidaat kan met behulp van de concepten gedrag en interactie met (a)biotische factoren ten minste in contexten op het gebied van gezondheid en communicatie beargumenteren op welke wijze vraagstukken met betrekking tot seksualiteit van de mens kunnen worden benaderd.   
+### *Subdomein D4: Interactie in ecosystemen* 
+
+31. De kandidaat kan met behulp van de concepten voedselrelatie en interactie met (a)biotische factoren ten minste in contexten op het gebied van duurzaamheid en voedselproductie benoemen welke relaties tussen populaties in ecosystemen bestaan en beargumenteren op welke wijze vraagstukken die daar betrekking op hebben, kunnen worden benaderd.   
+
+####Domein E: Reproductie
+
+### *Subdomein E1: DNA­replicatie* 
+
+32. De kandidaat kan met behulp van het concept DNA-replicatie ten minste in contexten op het gebied van veiligheid en gezondheid benoemen op welke wijze erfelijk materiaal wordt gereproduceerd.   
+### *Subdomein E2: Levenscyclus van de cel* 
+
+33. De kandidaat kan met behulp van het concept celcyclus ten minste in contexten op het gebied van energie, gezondheid en voedselproductie benoemen op welke wijze reproductie van cellen verloopt.   
+### *Subdomein E3: Voortplanting van het organisme* 
+
+34. De kandidaat kan met behulp van het concept voortplanting ten minste in contexten op het gebied van gezondheid en voedselproductie verklaren op welke wijze de reproductie van eukaryoten en prokaryoten verloopt.   
+### *Subdomein E4: Erfelijke eigenschap* 
+
+35. De kandidaat kan met behulp van het concept erfelijke eigenschap ten minste in contexten op het gebied van veiligheid en voedselproductie verklaren op welke wijze eigenschappen worden overgedragen bij eukaryoten en prokaryoten.   
+
+####Domein F: Evolutie
+
+### *Subdomein F1: Selectie* 
+
+36. De kandidaat kan met behulp van de concepten DNA, mutatie, recombinatie en variatie ten minste in contexten op het gebied van gezondheid en voedselproductie verklaren op welke wijze variatie in populaties tot stand komt.   
+### *Subdomein F2: Soortvorming* 
+
+37. De kandidaat kan met behulp van de concepten populatie, variatie, selectie en soortvorming ten minste in contexten op het gebied van gezondheid en wereldbeeld verklaren op welke wijze nieuwe soorten kunnen ontstaan.   
+### *Subdomein F3: Biodiversiteit* 
+
+38. De kandidaat kan met behulp van het concept biodiversiteit ten minste in contexten op het gebied van duurzaamheid benoemen op welke wijze de diversiteit van populaties en ecosystemen binnen het systeem Aarde varieert.   
+
+####Examenprogramma NLT havo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaardigheden  |
+| Domein B  | Exacte wetenschappen en technologie  |
+| Domein C  | Aarde en natuur  |
+| Domein D  | Gezondheid, bescherming en veiligheid  |
+| Domein E  | Materialen, processen en producten  |
+
+Het schoolexamen Het schoolexamen heeft betrekking op: 
+
+* het gehele domein A en domein B in combinatie met:  
+
+* de domeinen C t/m E;  
+
+* en, indien het bevoegd gezag daarvoor kiest, andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+####Domein A: Vaardigheden
+
+####Algemene vaardigheden (profieloverstijgend niveau)
+
+### * *Subdomein A1: Informatievaardigheden gebruiken* * 
+
+1. De kandidaat kan doelgericht informatie zoeken, beoordelen, selecteren en verwerken.   
+### * *Subdomein A2: Communiceren* * 
+
+2. De kandidaat kan kan adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren over onderwerpen uit het desbetreffende vakgebied.   
+### * *Subdomein A3: Reflecteren op leren* * 
+
+3. De kandidaat kan bij het verwerven van vakkennis en vakvaardigheden reflecteren op eigen belangstelling, motivatie en leerproces.   
+### * *Subdomein A4: Studie en beroep* * 
+
+4. De kandidaat kan aangeven op welke wijze natuurwetenschappelijke kennis in studie en beroep wordt gebruikt en kan mede op basis daarvan zijn belangstelling voor studies en beroepen onder woorden brengen.   
+
+####Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)
+
+### * *Subdomein A5: Onderzoeken* * 
+
+5. De kandidaat kan in contexten instructies voor onderzoek op basis van vraagstellingen uitvoeren en conclusies trekken uit de onderzoeksresultaten. De kandidaat maakt daarbij gebruik van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden.   
+### * *Subdomein A6: Ontwerpen* * 
+
+6. De kandidaat kan in contexten op basis van een gesteld probleem een technisch ontwerp voorbereiden, uitvoeren, testen en evalueren en daarbij relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen hanteren.   
+### * *Subdomein A7: Modelvorming* * 
+
+7. De kandidaat kan in contexten met name een gesloten probleem analyseren, een adequaat model selecteren en modeluitkomsten genereren en interpreteren. De kandidaat maakt daarbij gebruik van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden.   
+### * *Subdomein A8: Natuurwetenschappelijk instrumentarium* * 
+
+8. De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en -bewerking, vaktaal, vakconventies, symbolen en formuletaal.   
+### * *Subdomein A9: Waarderen en oordelen* * 
+
+9. De kandidaat kan in contexten een beargumenteerd oordeel over een situatie in de natuur of een technische toepassing geven en daarin onderscheid maken tussen wetenschappelijke argumenten, normatieve maatschappelijke overwegingen en persoonlijke opvattingen.   
+
+####NLT-specifieke vaardigheden
+
+### * *Subdomein A10: Interdisciplinaire vraagstukken in studie- en beroepspraktijk* * 
+
+10. De kandidaat kan van een breed spectrum aan bètatechnische studies en beroepen voorbeelden geven van interdisciplinaire vraagstukken die daarbinnen een rol spelen. Daarnaast kan de kandidaat een verband leggen tussen de praktijk van deze studies en beroepen en de eigen kennis, vaardigheden en belangstelling.   
+### * *Subdomein A11: Redeneren* * 
+
+11. De kandidaat kan met gegevens van wiskundige en natuurwetenschappelijke aard consistente redeneringen opzetten van zowel inductief als deductief karakter.   
+### * *Subdomein A12: Rekenkundige en wiskundige vaardigheden* * 
+
+12. De kandidaat kan een aantal relevante rekenkundige en wiskundige vaardigheden correct en geroutineerd toepassen bij vakspecifieke probleemsituaties.   
+### * *Subdomein A13: Samenwerken* * 
+
+13. De kandidaat kan bij het werken aan interdisciplinaire vraagstukken samenwerken met anderen, daarbij actief de inbreng van groepsgenoten stimuleren, deze op waarde schatten en gebruiken en een herkenbare eigen inbreng hebben bij het tot stand komen van het eindresultaat.   
+
+####Domein B: Exacte wetenschappen en technologie
+
+### * *Subdomein B1: Interdisciplinariteit* * 
+
+14. De kandidaat kan voor de context relevante conceptuele kennis en benaderingen uit in ieder geval de aardwetenschappen, de biologie, de natuurkunde, de scheikunde en de wiskunde toepassen op interdisciplinaire vraagstukken die betrekking hebben op de domeinen C t/m E. De kandidaat kan daarbij: 
+
+* de rol van de verschillende disciplines bij de aanpak van het vraagstuk aan de hand van voorbeelden toelichten;  
+
+* situaties beschrijven in termen van modelvorming, systeem, schaal en verandering;  
+
+* experimenteel onderzoek en/of simulaties uitvoeren dan wel resultaten van experimenten en/of simulaties interpreteren;  
+
+* technologische oplossingen ontwerpen dan wel ontworpen technologische oplossingen toelichten.     
+### * *Subdomein B2: Wisselwerking tussen natuurwetenschap en technologie* * 
+
+15. De kandidaat kan de wisselwerking tussen de ontwikkeling van natuurwetenschappelijke kennis en technologie beschrijven en toelichten aan de hand van voorbeelden uit de domeinen C t/m E.   
+
+####Domein C: Aarde en natuur
+
+16. De kandidaat kan natuurwetenschappelijke en wiskundige concepten toepassen op interdisciplinaire vraagstukken met betrekking tot het monitoren en (duurzaam) beheren van de natuurlijke en ingerichte leefomgeving. 
+
+####Domein D: Gezondheid, bescherming en veiligheid
+
+17. De kandidaat kan natuurwetenschappelijke en wiskundige concepten toepassen op interdisciplinaire vraagstukken met betrekking tot bescherming, diagnose, genezing, verzorging of revalidatie van mensen. 
+
+####Domein E: Materialen, processen en producten
+
+### * *Subdomein E1: Methoden en technieken van technologische ontwikkeling* * 
+
+18. De kandidaat kan een aantal voor recente technologieën belangrijke methoden en technieken benoemen en kan een of meer daarvan toepassen op interdisciplinaire (ontwerp)vraagstukken.   
+### * *Subdomein E2: Processen en producten* * 
+
+19. De kandidaat kan een actueel technologisch proces of product beschrijven en daarbij de bouw of werking ervan verklaren aan de hand van relevante natuurwetenschappelijke en wiskundige concepten.   
+
+####Examenprogramma NLT vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaardigheden  |
+| Domein B  | Exacte wetenschappen en technologie  |
+| Domein C  | Aarde, natuur en heelal  |
+| Domein D  | Gezondheid en veiligheid  |
+| Domein E  | Technologische ontwikkeling  |
+| Domein F  | Fundamenten van natuurwetenschap en technologie  |
+
+Het schoolexamen Het schoolexamen heeft betrekking op: 
+
+– het gehele domein A en domein B in combinatie met:  
+
+– minimaal één subdomein uit ieder van de domeinen C t/m F en ten minste vijf subdomeinen in totaal;  
+
+– en, indien het bevoegd gezag daarvoor kiest, andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+####Domein A: Vaardigheden
+
+####Algemene vaardigheden (profieloverstijgend niveau)
+
+### * *Subdomein A1: Informatievaardigheden gebruiken* * 
+
+1. De kandidaat kan doelgericht informatie zoeken, beoordelen, selecteren en verwerken.   
+### * *Subdomein A2: Communiceren* * 
+
+2. De kandidaat kan adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren over onderwerpen uit het desbetreffende vakgebied.   
+### * *Subdomein A3: Reflecteren op leren* * 
+
+3. De kandidaat kan bij het verwerven van vakkennis en vakvaardigheden reflecteren op eigen belangstelling, motivatie en leerproces.   
+### * *Subdomein A4: Studie en beroep* * 
+
+4. De kandidaat kan aangeven op welke wijze natuurwetenschappelijke kennis in studie en beroep wordt gebruikt en kan mede op basis daarvan zijn belangstelling voor studies en beroepen onder woorden brengen.   
+
+####Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)
+
+### * *Subdomein A5: Onderzoeken* * 
+
+5. De kandidaat kan in contexten vraagstellingen analyseren, gebruik makend van relevante begrippen en theorie, vertalen in een vakspecifiek onderzoek, dat onderzoek uitvoeren en uit de onderzoeksresultaten conclusies trekken. De kandidaat maakt daarbij gebruik van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden.   
+### * *Subdomein A6: Ontwerpen* * 
+
+6. De kandidaat kan in contexten op basis van een gesteld probleem een technisch ontwerp voorbereiden, uitvoeren, testen en evalueren en daarbij relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen hanteren.   
+### * *Subdomein A7: Modelvorming* * 
+
+7. De kandidaat kan in contexten een relevant probleem analyseren, inperken tot een hanteerbaar probleem, vertalen naar een model, modeluitkomsten genereren en interpreteren, en het model toetsen en beoordelen. De kandidaat maakt daarbij gebruik van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden.   
+### * *Subdomein A8: Natuurwetenschappelijk instrumentarium* * 
+
+8. De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en -bewerking, vaktaal, vakconventies, symbolen en formuletaal.   
+### * *Subdomein A9: Waarderen en oordelen* * 
+
+9. De kandidaat kan in contexten een beargumenteerd oordeel over een situatie in de natuur of een technische toepassing geven, en daarin onderscheid maken tussen wetenschappelijke argumenten, normatieve maatschappelijke overwegingen en persoonlijke opvattingen.   
+
+####NLT-specifieke vaardigheden
+
+### * *Subdomein A10: Interdisciplinaire vraagstukken in studie- en beroepspraktijk* * 
+
+10. De kandidaat kan van een breed spectrum aan bètatechnische studies en beroepen voorbeelden geven van interdisciplinaire vraagstukken die daarbinnen een rol spelen. Daarnaast kan de kandidaat een verband leggen tussen de praktijk van deze studies en beroepen en de eigen kennis, vaardigheden en belangstelling.   
+### * *Subdomein A11: Redeneren* * 
+
+11. De kandidaat kan met gegevens van wiskundige en natuurwetenschappelijke aard consistente redeneringen opzetten van zowel inductief als deductief karakter.   
+### * *Subdomein A12: Rekenkundige en wiskundige vaardigheden* * 
+
+12. De kandidaat kan een aantal relevante rekenkundige en wiskundige vaardigheden correct en geroutineerd toepassen bij vakspecifieke probleemsituaties.   
+### * *Subdomein A13: Samenwerken* * 
+
+13. De kandidaat kan bij het werken aan interdisciplinaire vraagstukken samenwerken met anderen, daarbij actief de inbreng van groepsgenoten stimuleren, deze op waarde schatten en gebruiken en een herkenbare eigen inbreng hebben bij het tot stand komen van het eindresultaat.   
+
+####Domein B: Exacte wetenschappen en technologie
+
+### * *Subdomein B1: Interdisciplinariteit* * 
+
+14. De kandidaat kan relevante conceptuele kennis en benaderingen uit in ieder geval de aardwetenschappen, de biologie, de natuurkunde, de scheikunde en de wiskunde gebruiken om interdisciplinaire vraagstukken te analyseren die betrekking hebben op de domeinen C t/m F. De kandidaat kan daarbij: 
+
+* reflecteren op de rol van de verschillende disciplines bij een interdisciplinaire aanpak;  
+
+* situaties analyseren aan de hand van de termen modelvorming, systeem, schaal en verandering;  
+
+* experimenteel onderzoek en/of simulaties uitvoeren dan wel resultaten van experimenten en/of simulaties interpreteren;  
+
+* technologische oplossingen ontwerpen dan wel ontworpen technologische oplossingen evalueren.     
+### * *Subdomein B2: Wisselwerking tussen natuurwetenschap en technologie* * 
+
+15. De kandidaat kan de wisselwerking tussen de ontwikkeling van natuurwetenschappelijke kennis en technologie beschrijven en toelichten aan de hand van voorbeelden uit de domeinen C t/m F.   
+
+####Domein C: Aarde, natuur en heelal
+
+### * *Subdomein C1: Processen in levende natuur, aarde en ruimte* * 
+
+16. De kandidaat kan natuurwetenschappelijke en wiskundige concepten toepassen bij het verklaren van interdisciplinaire processen op het gebied van de studie van de levende natuur, aardwetenschappen en ruimtewetenschappen.   
+### * *Subdomein C2: Duurzaamheid* * 
+
+17. De kandidaat kan natuurwetenschappelijke en wiskundige concepten gebruiken bij het analyseren van interdisciplinaire vraagstukken met betrekking tot het duurzaam gebruik van grondstoffen, energie en ruimte.   
+
+####Domein D: Gezondheid en veiligheid
+
+### * *Subdomein D1: De gezonde en zieke mens* * 
+
+18. De kandidaat kan natuurwetenschappelijke en wiskundige concepten gebruiken bij het verklaren van interdisciplinaire processen in het menselijk lichaam (bij gezonde en zieke mensen) en bij het analyseren van interdisciplinaire vraagstukken met betrekking tot bescherming, diagnose, genezing, verzorging of revalidatie van mensen.   
+### * *Subdomein D2: Bescherming en veiligheid* * 
+
+19. De kandidaat kan natuurwetenschappelijke en wiskundige concepten gebruiken bij het analyseren van interdisciplinaire vraagstukken met betrekking tot de bescherming van het menselijk lichaam.   
+
+####Domein E: Technologische ontwikkeling
+
+### * *Subdomein E1: Methoden en technieken van technologische ontwikkeling* * 
+
+20. De kandidaat kan een aantal voor recente technologieën belangrijke methoden en technieken benoemen en kan een of meer daarvan toepassen op interdisciplinaire (ontwerp)vraagstukken.   
+### * *Subdomein E2: Processen en producten* * 
+
+21. De kandidaat kan een actueel technologisch proces of product beschrijven en daarbij de bouw of werking ervan analyseren aan de hand van relevante natuurwetenschappelijke en wiskundige concepten.   
+
+####Domein F: Fundamenten van natuurwetenschap en technologie
+
+### * *Subdomein F1: Fundamentele theorieën* * 
+
+22. De kandidaat kan een aantal voor de natuurwetenschap belangrijke recente theorieën benoemen en kan concepten uit een of meerdere van deze theorieën toepassen op natuurwetenschappelijke of technologische vraagstukken.   
+### * *Subdomein F2: Methoden en technieken van onderzoek* * 
+
+23. De kandidaat kan een aantal belangrijke methoden en technieken van meten, onderzoeken en ontwerpen benoemen en kan enkele daarvan toepassen op natuurwetenschappelijke of technologische vraagstukken.   
+
+####Examenprogramma informatica havo/vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Informatica in perspectief  |
+| Domein B  | Basisbegrippen en vaardigheden  |
+| Domein C  | Systemen en hun structurering  |
+| Domein D  | Toepassingen in samenhang.  |
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op de domeinen A tot en met D, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen. 
+
+####De examenstof
+
+### Domein  A:  
+
+####Informatica in perspectief
+
+### Subdomein  A1:  
+
+####Wetenschap en technologie
+
+1. De kandidaat kan de geschiedenis van informatica en ICT, de huidige toepassingen ervan en de perspectieven van de jongste ontwikkelingen beschrijven.   
+
+### Subdomein  A2:  
+
+####Maatschappij
+
+2. De kandidaat kan beschrijven wat de rol is van informatica en ICT bij maatschappelijke ontwikkelingen zowel in het verleden als nu.   
+
+### Subdomein  A3:  
+
+####Studie en beroepsomgeving
+
+3. De kandidaat kan vakspecifieke functies en taken beschrijven waarin informatici en ICT-ers werkzaam zijn en de rol van informatica/ICT bij vervolgopleidingen en beroepen in het algemeen. Hij kan inschatten in hoeverre de eigen capaciteiten en interesses hiermee overeenkomen.   
+
+### Subdomein  A4:  
+
+####Individu
+
+4. De kandidaat beheerst de vakspecifieke werkwijzen van informatici en ICT-ers, met name het werken in projectverband. Hij kan beschrijven welke ethische normen en waarden bij gebruik van informatica/ICT een rol spelen.   
+
+### Domein  B:  
+
+####Basisbegrippen en vaardigheden
+
+### Subdomein  B1:  
+
+####Gegevensrepresentatie in een computer
+
+5. De kandidaat kan gangbare digitale coderingen van gegevens beschrijven en toepassen.   
+
+### Subdomein  B2:  
+
+####Hardware
+
+6. De kandidaat kan de functies van een computer benoemen, aangeven welke hardware en bijbehorende gangbare randapparatuur deze functies uitvoeren en de wisselwerking tussen deze functies beschrijven.   
+
+### Subdomein  B3:  
+
+####Software
+
+7. De kandidaat beheerst eenvoudige datatypen, programmastructuren en programmeertechnieken.   
+
+### Subdomein  B4:  
+
+####Organisaties
+
+8. De kandidaat kent globaal de organisatiestructuren van bedrijven. Hij kent de kenmerken van een projectorganisatie en kan aangegeven waarom bij grote wijzigingen van het informatiesysteem in een bedrijf vaak voor een projectorganisatie wordt gekozen.   
+
+### Domein  C:  
+
+####Systemen en hun structurering
+
+### Subdomein  C1:  
+
+####Communicatie en netwerken
+
+9. De kandidaat kan de topologische structuur en de communicatielagen van een netwerk benoemen en de bijbehorende kenmerken beschrijven. Ook kan hij een eenvoudig communicatieprotocol beschrijven en de elementen ervan onderscheiden. Tevens heeft hij zicht op aspecten van internetbeveiliging.   
+
+### Subdomein  C2:  
+
+####Besturingssystemen
+
+10. De kandidaat kan van gangbare besturingssystemen de basisfuncties beschrijven met betrekking tot het beheer van de processortijd, het werkgeheugen, de dataopslagmedia, de randapparatuur en de toegangsrechten.   
+
+### Subdomein  C3:  
+
+####Systemen in de praktijk
+
+11. De kandidaat kan de kenmerken van en verschillen tussen real-time systeem, kennissysteem, simulatiesysteem en embedded systeem benoemen.   
+
+### Subdomein  C4:  
+
+####Informatiesysteemontwikkeling
+
+12. De kandidaat kan globaal de fasering van een systeemontwikkeltraject beschrijven met de te verrichten activiteiten en de producten.   
+
+### Subdomein  C5:  
+
+####Informatiestromen
+
+13. De kandidaat kan informatiestromen beschrijven in een kleine organisatie.   
+
+### Subdomein  C6:  
+
+####Informatieanalyse
+
+14. De kandidaat kan informatie en informatiebehoeftes analyseren en het bijbehorende informatiemodel bouwen/aanpassen.   
+
+### Subdomein  C7:  
+
+####Relationele databases
+
+15. De kandidaat kan de elementen van een relationeel schema benoemen en de betekenis van de elementen beschrijven, en een informatiebehoefte omzetten in een opdracht in een vraagtaal voor een relationele database.  *Hij kan de kenmerken en aspecten van databasemanagementsystemen beschrijven en voor specifieke systemen benoemen en gebruiken (alleen vwo).*    
+
+### Subdomein  C8:  
+
+####Interactie mens-machine
+
+16. De kandidaat kan mens-machine interactie bij informatiesystemen herkennen, de kenmerken ervan benoemen en keuzecriteria in het ontwerp van gebruikersdialogen benoemen en hanteren.   
+
+### Subdomein  C9:  
+
+####Systeemontwikkeltraject
+
+17. De kandidaat kan van een eenvoudig systeemontwikkeltraject de voortgang beoordelen, een prototype testen, controleren of het eindproduct aan de specificaties van de opdrachtgever voldoet en beoordelen of het systeem aan de eisen en wensen voldoet vanuit het perspectief van de gebruiker.   
+
+### Domein  D:  
+
+####Toepassingen in samenhang
+
+18. De kandidaat kan de methoden en technieken van projectmanagement en de projectmatige aspecten van systeemontwikkeling beschrijven.   
+
+####Examenprogramma aardrijkskunde vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaardigheden  |
+| Domein B  | Wereld  |
+| Domein C  | Aarde  |
+| Domein D  | Gebieden  |
+| Domein E  | Leefomgeving  |
+| Domein F  | Oriëntatie op studie en beroep.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op de (sub)domeinen A1, B1, C1, D1 en E1. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op domein A en: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+### Subdomein  A1:  
+
+####Geografische benadering
+
+1. De kandidaat kan de geografische benadering adequaat hanteren: 
+
+– geografische informatie selecteren, verwerken en weergeven;  
+
+– geografische vragen herkennen en zelf formuleren;  
+
+– de geografische werkwijzen toepassen bij het formuleren en beantwoorden van geografische vragen.     
+
+### Subdomein  A2:  
+
+####Geografisch onderzoek
+
+2. De kandidaat kan een geografisch onderzoek opzetten, uitvoeren, presenteren en evalueren: 
+
+– op basis van een geografische onderzoeksvraag en een gestructureerd plan van aanpak;  
+
+– met gebruikmaking van de geografische werkwijzen en primaire data;  
+
+– zo mogelijk aansluitend op onderdelen van het examenprogramma, met name de domeinen B, C en E.     
+
+### Domein  B:  
+
+####Wereld
+
+### Subdomein  B1:  
+
+####Samenhang en verscheidenheid in de wereld
+
+3. De kandidaat kan ten aanzien van samenhang en verscheidenheid in de wereld: 
+
+– de begrippen ‘mondialisering’ en ‘tijdruimtecompressie’ in onderling verband en vanuit een geografisch perspectief analyseren;  
+
+– mondiale spreidingspatronen van economische, culturele, demografische, sociale en politieke verschijnselen beschrijven, in hoofdlijnen verklaren en aan elkaar relateren;  
+
+– grootstedelijke gebieden in een nader aan te wijzen postindustrieel land analyseren in het licht van processen van mondialisering.     
+
+### Subdomein  B2:  
+
+####Mondiaal verdelingsvraagstuk
+
+4. De kandidaat kan met betrekking tot een nader door de school te kiezen verdelingsvraagstuk vanuit het perspectief van het subdomein ‘Samenhang en verscheidenheid in de wereld’ (B1): 
+
+– het vraagstuk beschrijven en analyseren als een maatschappelijk verdelingsvraagstuk;  
+
+– actuele discussies over het vraagstuk kritisch beoordelen en relaties leggen met relevante natuurlijke factoren;  
+
+– beleid beoordelen dat is gericht op het oplossen van het vraagstuk op macroregionale schaal.     
+
+### Domein  C:  
+
+####Aarde
+
+### Subdomein  C1:  
+
+####De aarde als natuurlijk systeem; samenhangen en diversiteit
+
+5. De kandidaat kan met betrekking tot de aarde als natuurlijk systeem: 
+
+– de aarde als een uniek natuurlijk systeem beschrijven en deze kennis toepassen bij het analyseren van veranderingen aan het aardoppervlak op verschillende ruimte- en tijdschalen;  
+
+– de kenmerken van landschapszones op aarde en de veranderingen hierin beschrijven, analyseren en aan elkaar relateren;  
+
+– de natuurlijke en landschappelijke kenmerken van een nader aan te wijzen fysisch-geografische macroregio in onderlinge samenhang en in relatie tot de samenlevingen in de betreffende macroregio analyseren.     
+
+### Subdomein  C2:  
+
+####Mondiaal milieuvraagstuk
+
+6. De kandidaat kan met betrekking tot een nader door de school te kiezen mondiaal milieuvraagstuk, vanuit het perspectief van subdomein ‘De aarde als natuurlijk systeem’ (C1): 
+
+– het vraagstuk beschrijven en analyseren als natuurlijk vraagstuk;  
+
+– actuele discussies over het vraagstuk kritisch beoordelen, daarbij onderscheid maken tussen oorzaken en gevolgen en relaties leggen met relevante maatschappelijke factoren;  
+
+– beleid beoordelen dat is gericht op het oplossen van het vraagstuk op macroregionale schaal.     
+
+### Domein  D:  
+
+####Gebieden
+
+### Subdomein  D1:  
+
+####Afbakening en gebiedskenmerken
+
+7. De kandidaat kan ten aanzien van een nader aan te wijzen macroregio: 
+
+– de afbakening van de betreffende macroregio analyseren, gebruikmakend van combinaties van relevante kenmerken;  
+
+– een geografische vergelijking maken tussen de betreffende macroregio en een andere ontwikkelingsregio in de wereld op grond van relevante kenmerken;  
+
+– de ontwikkelingsprocessen in de betreffende macroregio in hoofdlijnen aangeven en verklaren met gebruikmaking van economische, politieke, sociaal-culturele, fysisch-geografische, historische, interne en externe factoren.     
+
+### Subdomein  D2:  
+
+####Actuele vraagstukken
+
+8. De kandidaat kan actuele vraagstukken in de in subdomein D1 bedoelde macroregio vanuit een geografisch perspectief beschrijven, analyseren en verklaren. Het betreft: 
+
+– milieuvraagstukken samenhangend met het gebruik van natuurlijke hulpbronnen en natuurlijke gevaren samenhangend met natuurrampen;  
+
+– kenmerken van de hedendaagse ontwikkeling in de steden en op het platteland van de betreffende macroregio, samenhangend met het proces van mondialisering;  
+
+– conflicten in de betreffende macroregio, voor zover ze verband houden met de etnische en culturele diversiteit in de regio.     
+
+### Domein  E:  
+
+####Leefomgeving
+
+### Subdomein  E1:  
+
+####Nationale en regionale vraagstukken
+
+9. De kandidaat kan zich een beargumenteerde mening vormen over: 
+
+– actuele vraagstukken van overstromingen en wateroverlast in Nederland;  
+
+– actuele ruimtelijke en sociaal-economische vraagstukken van stedelijke gebieden in Nederland.     Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland. 
+
+### Subdomein  E2:  
+
+####Regionale en lokale vraagstukken
+
+10. De kandidaat kan lokale en regionale ruimtelijke vraagstukken beschrijven en analyseren en zich daarover een beargumenteerde mening vormen.   
+
+### Domein  F:  
+
+####Oriëntatie op studie en beroep
+
+####Examenprogramma aardrijkskunde havo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaardigheden  |
+| Domein B  | Wereld  |
+| Domein C  | Aarde  |
+| Domein D  | Ontwikkelingsland  |
+| Domein E  | Leefomgeving  |
+| Domein F  | Oriëntatie op studie en beroep.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op de (sub)domeinen A1, B2, C2, D1, E1. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op domein A en: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+### Subdomein  A1:  
+
+####Geografische benadering
+
+1. De kandidaat kan de geografische benadering adequaat hanteren: 
+
+– geografische informatie selecteren, verwerken en weergeven;  
+
+– geografische vragen herkennen en zelf formuleren;  
+
+– de geografische werkwijzen toepassen bij het formuleren en beantwoorden van geografische vragen.     
+
+### Subdomein  A2:  
+
+####Geografisch onderzoek
+
+2. De kandidaat kan een geografisch onderzoek opzetten, uitvoeren, presenteren en evalueren: 
+
+– op basis van een geografische onderzoeksvraag en een gestructureerd plan van aanpak;  
+
+– met gebruikmaking van de geografische werkwijzen en primaire data;  
+
+– zo mogelijk aansluitend op onderdelen van het examenprogramma, met name de domeinen B, C en E.     
+
+### Domein  B:  
+
+####Wereld
+
+### Subdomein  B1:  
+
+####Gebieden op de grens van arm en rijk
+
+3. De kandidaat kan de situatie in een nader door de school te kiezen gebied waar één of meer rijke landen en één of meer arme landen aan elkaar grenzen, beschrijven en analyseren. Het betreft: 
+
+– economische, demografische en sociaal-culturele gebiedskenmerken en de relaties daartussen;  
+
+– de (grensoverschrijdende) relaties tussen beide soorten landen en de gunstige en ongunstige effecten daarvan.     
+
+### Subdomein  B2:  
+
+####Samenhangen en verschillen in de wereld
+
+4. De kandidaat kan ten aanzien van samenhangen en verschillen in de wereld: 
+
+– mondiale spreidings- en relatiepatronen van economische, demografische en sociaal-culturele verschijnselen beschrijven en in hoofdlijnen verklaren;  
+
+– het proces van mondialisering beschrijven, herkennen en in hoofdlijnen verklaren.     
+
+### Subdomein  B3:  
+
+####Mondiale processen en lokale effecten
+
+5. De kandidaat kan aan de hand van een nader door de school te kiezen voorbeeld aangeven en beoordelen hoe mondialisering uitwerkt in een lokale context. Hij betrekt hierbij: 
+
+– sociaal- en fysisch-geografische aspecten;  
+
+– actoren in de lokale context.     
+
+### Domein  C:  
+
+####Aarde
+
+### Subdomein  C1:  
+
+####Samenhangen en verschillen op regionaal niveau
+
+6. De kandidaat kan voor een nader door de school te kiezen fysisch-geografische regio: 
+
+– spreidingspatronen van natuurlijke en landschappelijke verschijnselen beschrijven;  
+
+– relaties leggen tussen natuurlijke processen en landschappelijke verschijnselen.     
+
+### Subdomein  C2:  
+
+####Samenhangen en verschillen op aarde
+
+7. De kandidaat kan met betrekking tot samenhangen en verschillen op aarde: 
+
+– natuurlijke verschijnselen aan het aardoppervlak en in de atmosfeer beschrijven, herkennen en verklaren, rekening houdend met verschillende tijd- en ruimteschalen;  
+
+– de kenmerken van de landschapszones op aarde en de veranderingen hierin beschrijven, analyseren en aan elkaar relateren.     
+
+### Subdomein  C3:  
+
+####De aarde als natuurlijk systeem en lokale effecten
+
+8. De kandidaat kan aan de hand van een nader door de school te kiezen voorbeeld aangeven en beoordelen hoe mondiale natuurruimtelijke processen uitwerken in een lokale context. Hij betrekt hierbij: 
+
+– fysisch- en sociaal-geografische aspecten;  
+
+– actoren in de lokale context.     
+
+### Domein  D:  
+
+####Ontwikkelingsland
+
+### Subdomein  D1:  
+
+####Gebiedskenmerken
+
+9. De kandidaat kan gebiedskenmerken van een nader aan te wijzen ontwikkelingsland beschrijven en analyseren. Het betreft: 
+
+– sociaal-geografische en fysisch-geografische kenmerken van het betreffende ontwikkelingsland;  
+
+– de sociaal-economische positie van het betreffende ontwikkelingsland in de macroregio én in de wereld.     
+
+### Subdomein  D2:  
+
+####Actuele vraagstukken
+
+10. De kandidaat kan actuele vraagstukken in het in subdomein D1 bedoelde ontwikkelingsland beschrijven en analyseren. Het betreft: 
+
+– vraagstukken van landdegradatie en milieuverontreiniging;  
+
+– conflicten in het betreffende ontwikkelingsland die verband houden met de etnische en culturele diversiteit in het land.     
+
+### Domein  E:  
+
+####Leefomgeving
+
+### Subdomein  E1:  
+
+####Nationale en regionale vraagstukken
+
+11. De kandidaat kan zich een beargumenteerde mening vormen over: 
+
+– actuele vraagstukken van overstromingen en wateroverlast in Nederland;  
+
+– actuele ruimtelijke en sociaal-economische vraagstukken van stedelijke gebieden in Nederland.     Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland. 
+
+### Subdomein  E2:  
+
+####Regionale en lokale vraagstukken
+
+12. De kandidaat kan lokale en regionale ruimtelijke vraagstukken beschrijven en analyseren en zich daarover een beargumenteerde mening vormen.   
+
+### Domein  F:  
+
+####Oriëntatie op studie en beroep
+
+####Examenprogramma geschiedenis havo/vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen: Domein A Historisch besef Domein B Oriëntatiekennis Domein C Thema's Domein D Geschiedenis van de rechtsstaat en van de parlementaire democratie Domein E Oriëntatie op studie en beroep. Het centraal examen Het centraal examen heeft betrekking op de domeinen A en B. Het schoolexamen Het schoolexamen heeft betrekking op domein A en: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+Wat in onderstaande tekst gecursiveerd is, geldt alleen voor het examenprogramma vwo. Domein A: Historisch besef 
+
+1. De kandidaat kan: 
+
+– gebeurtenissen uit zijn eigen leven alsmede verschijnselen, gebeurtenissen en personen uit de geschiedenis met behulp van een tijdbalk of een andere vorm van chronologische schematisering ordenen en daarbij de volgende aanduidingen van tijd en tijdsindeling gebruiken: jaren, eeuwen, tijdvakken, perioden en jaartellingen;  
+
+– met gebruik van voorbeelden uit de perioden- en tijdvakkenindeling van eindterm 2, de westers-christelijke jaartelling en een ander voorbeeld van een jaartelling of periodisering/*meerdere andere voorbeelden van jaartellingen of periodiseringen* uitleggen dat chronologische indelingen interpretatief van aard zijn *en (mede) afhangen van de standplaats die men inneemt en/of de vraag die men wil beantwoorden.*     
+
+2. De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken: 
+
+– tijdvak 1: van jagers en boeren (– 3000 voor Christus) / Prehistorie;  
+
+– tijdvak 2: tijd van Grieken en Romeinen (3000 voor Christus–500 na Christus) / Oudheid;  
+
+– tijdvak 3: tijd van monniken en ridders (500–1000) / vroege Middeleeuwen;  
+
+– tijdvak 4: tijd van steden en staten (1000–1500) / hoge en late Middeleeuwen;  
+
+– tijdvak 5: tijd van ontdekkers en hervormers (1500–1600) / Renaissancetijd / 16<sup>e</sup> eeuw;  
+
+– tijdvak 6: tijd van regenten en vorsten (1600–1700) / Gouden Eeuw / 17<sup>e</sup> eeuw;  
+
+– tijdvak 7: tijd van pruiken en revoluties (1700–1800) / eeuw van de Verlichting/ 18<sup>e</sup> eeuw;  
+
+– tijdvak 8: tijd van burgers en stoommachines (1800–1900) / industrialisatietijd / 19<sup>e</sup> eeuw;  
+
+– tijdvak 9: tijd van de wereldoorlogen (1900–1950) / eerste helft 20<sup>e</sup> eeuw;  
+
+– tijdvak 10: tijd van televisie en computer (vanaf 1950) / tweede helft 20<sup>e</sup> eeuw.    
+
+3. De kandidaat kan: 
+
+– de tijdvakken van eindterm 2 plaatsen in de periodes Prehistorie, Oudheid, Middeleeuwen, Vroegmoderne Tijd en Moderne Tijd;  
+
+– *uitleggen dat de indeling in perioden en tijdvakken een westers perspectief op de geschiedenis vertegenwoordigt en wat de beperkingen en bezwaren daarvan kunnen zijn.*    
+
+4. De kandidaat kan: 
+
+– in historische processen de samenhang tussen veranderingen en continuïteit beschrijven;  
+
+– de betekenis van historische gebeurtenissen, verschijnselen en ontwikkelingen voor het heden aangeven;  
+
+– *verschillende soorten historische verandering onderscheiden;*  
+
+– *door het onderscheiden van continuïteiten van langere en kortere duur onderkennen hoe elementen afkomstig uit verschillende tijdvakken zich gelijktijdig in één tijdvak kunnen manifesteren (de gelijktijdigheid van het ongelijktijdige).*    
+
+5. De kandidaat kan: 
+
+– een vraag *en een daarop aansluitende hypothese* formuleren;  
+
+– voor een vraag bruikbaar bronnenmateriaal verwerven en gegevens eruit selecteren.    
+
+6. De kandidaat kan: 
+
+– in het kader van een historische vraagstelling verklaringen geven voor historische gebeurtenissen, verschijnselen en ontwikkelingen;  
+
+– onderscheid maken tussen verschillende soorten oorzaken en gevolgen.    
+
+7. De kandidaat kan bij het geven van oordelen over het verleden rekening houden met: 
+
+– het onderscheid tussen feiten en meningen;  
+
+– tijd- en plaatsgebondenheid van interpretaties en oordelen afkomstig van personen uit het verleden en afkomstig van hedendaagse personen, onder wie hij zelf;  
+
+– de rol van waardepatronen in heden en verleden;  
+
+– het ondersteunen van uitspraken met behulp van argumenten.     Domein B: Oriëntatiekennis 
+
+8. De kandidaat kan voor elk van de tien tijdvakken die genoemd zijn in eindterm 2: 
+
+– de kenmerkende aspecten voor ieder tijdvak noemen;  
+
+– bij elk kenmerkend aspect van een tijdvak een passend voorbeeld geven van een gebeurtenis, ontwikkeling, verschijnsel of handeling dan wel gedachtegang van een persoon en dit voorbeeld gebruiken om het betreffende aspect te verduidelijken;  
+
+– uitleggen hoe kennis van het betreffende tijdvak de oriëntatie op de hedendaagse werkelijkheid beïnvloedt;  
+
+– *uitleggen dat de betekenis die aan tijdvakken wordt toegekend mede afhangt van de tijd, plaats en omstandigheden waarin mensen zich met het verleden bezighouden.*   Voor tijdvak 1 gelden de volgende kenmerkende aspecten: 
+
+– de levenswijze van jagers-verzamelaars;  
+
+– het ontstaan van landbouw en landbouwsamenlevingen;  
+
+– het ontstaan van de eerste stedelijke gemeenschappen.   Voor tijdvak 2 gelden de volgende kenmerkende aspecten: 
+
+– de ontwikkeling van wetenschappelijk denken en het denken over burgerschap en politiek in de Griekse stadstaat;  
+
+– de klassieke vormentaal van de Grieks-Romeinse cultuur;  
+
+– de groei van het Romeinse imperium waardoor de Grieks-Romeinse cultuur zich in Europa verspreidde;  
+
+– de confrontatie tussen de Grieks-Romeinse cultuur en de Germaanse cultuur van Noordwest-Europa;  
+
+– de ontwikkeling van het jodendom en het christendom als de eerste monotheïstische godsdiensten.   Voor tijdvak 3 gelden de volgende kenmerkende aspecten: 
+
+– de verspreiding van het christendom in geheel Europa;  
+
+– het ontstaan en de verspreiding van de islam;  
+
+– de vrijwel volledige vervanging in West-Europa van de agrarisch-urbane cultuur door een zelfvoorzienende agrarische cultuur, georganiseerd via hofstelsel en horigheid;  
+
+– het ontstaan van feodale verhoudingen in het bestuur.   Voor tijdvak 4 gelden de volgende kenmerkende aspecten: 
+
+– de opkomst van handel en ambacht die de basis legde voor het herleven van een agrarisch-urbane samenleving;  
+
+– de opkomst van de stedelijke burgerij en de toenemende zelfstandigheid van steden;  
+
+– het conflict in de christelijke wereld over de vraag of de wereldlijke dan wel de geestelijke macht het primaat behoorde te hebben;  
+
+– de expansie van de christelijke wereld naar buiten toe, onder andere in de vorm van de kruistochten;  
+
+– het begin van staatsvorming en centralisatie.   Voor tijdvak 5 gelden de volgende kenmerkende aspecten: 
+
+– het begin van de Europese overzeese expansie;  
+
+– het veranderende mens- en wereldbeeld van de renaissance en het begin van een nieuwe wetenschappelijke belangstelling;  
+
+– de hernieuwde oriëntatie op het erfgoed van de klassieke Oudheid;  
+
+– de protestantse reformatie die splitsing van de christelijke kerk in West-Europa tot gevolg had;  
+
+– het conflict in de Nederlanden dat resulteerde in de stichting van een Nederlandse staat.   Voor tijdvak 6 gelden de volgende kenmerkende aspecten: 
+
+– het streven van vorsten naar absolute macht;  
+
+– de bijzondere plaats in staatkundig opzicht en de bloei in economisch en cultureel opzicht van de Nederlandse Republiek;  
+
+– wereldwijde handelscontacten, handelskapitalisme en het begin van een wereldeconomie;  
+
+– de wetenschappelijke revolutie.   Voor tijdvak 7 gelden de volgende kenmerkende aspecten: 
+
+– rationeel optimisme en ‘verlicht denken’ dat werd toegepast op alle terreinen van de samenleving: godsdienst, politiek, economie en sociale verhoudingen;  
+
+– voortbestaan van het ancien régime met pogingen om het vorstelijk bestuur op eigentijdse verlichte wijze vorm te geven (verlicht absolutisme);  
+
+– uitbouw van de Europese overheersing, met name in de vorm van plantagekoloniën en de daarmee verbonden transatlantische slavenhandel, en de opkomst van het abolitionisme;  
+
+– de democratische revoluties in westerse landen met als gevolg discussies over grondwetten, grondrechten en staatsburgerschap.   Voor tijdvak 8 gelden de volgende kenmerkende aspecten: 
+
+– de industriële revolutie die in de westerse wereld de basis legde voor een industriële samenleving;  
+
+– discussies over de ‘sociale kwestie’;  
+
+– de moderne vorm van imperialisme die verband hield met de industrialisatie;  
+
+– de opkomst van emancipatiebewegingen;  
+
+– voortschrijdende democratisering, met deelname van steeds meer mannen en vrouwen aan het politieke proces;  
+
+– de opkomst van politiek-maatschappelijke stromingen: liberalisme, nationalisme, socialisme, confessionalisme en feminisme.   Voor tijdvak 9 gelden de volgende kenmerkende aspecten: 
+
+– de rol van moderne propaganda- en communicatiemiddelen en vormen van massaorganisatie;  
+
+– het in praktijk brengen van de totalitaire ideologieën communisme en fascisme/nationaal-socialisme;  
+
+– de crisis van het wereldkapitalisme;  
+
+– het voeren van twee wereldoorlogen;  
+
+– racisme en discriminatie die leidden tot genocide, in het bijzonder op de joden;  
+
+– de Duitse bezetting van Nederland;  
+
+– verwoestingen op niet eerder vertoonde schaal door massavernietigingswapens en de betrokkenheid van de burgerbevolking bij oorlogvoering;  
+
+– vormen van verzet tegen het West-Europese imperialisme.   Voor tijdvak 10 gelden de volgende kenmerkende aspecten: 
+
+– de verdeling van de wereld in twee ideologische blokken in de greep van een wapenwedloop en de daaruit voortvloeiende dreiging van een atoomoorlog;  
+
+– de dekolonisatie die een eind maakte aan de westerse hegemonie in de wereld;  
+
+– de eenwording van Europa;  
+
+– de toenemende westerse welvaart die vanaf de jaren zestig van de twintigste eeuw aanleiding gaf tot ingrijpende sociaal-culturele veranderingsprocessen;  
+
+– de ontwikkeling van pluriforme en multiculturele samenlevingen.     Domein C: Thema's 
+
+9. De kandidaat kan: 
+
+– aan de hand van twee / *vijf *(voor profiel cultuur en maatschappij) / *vier* (voor profiel economie en maatschappij) nader omschreven concrete thema's met gebruikmaking van de eindtermen uit domein A een beargumenteerd antwoord geven op inhoudelijke vragen over het betreffende thema;  
+
+– op grond van situaties in de verschillende tijdvakken ontwikkelingen op langere termijn beschrijven.     Domein D: Geschiedenis van de rechtsstaat en van de parlementaire democratie 
+
+10. De kandidaat kan: 
+
+– verband leggen tussen het ontstaan van vrijheidsrechten en politieke rechten in bepaalde historische tijdvakken en kenmerkende aspecten van die tijdvakken;  
+
+– *belangrijke denkers noemen en hun opvattingen over de relatie tussen staat en onderdanen;*  
+
+– uitleggen onder invloed van welke factoren de rechtsstaat zich in Nederland heeft ontwikkeld en welke actoren erbij betrokken waren;  
+
+– uitleggen onder invloed van welke factoren de parlementaire democratie zich in Nederland heeft ontwikkeld sinds 1795;  
+
+– de ontstaansgeschiedenis van de belangrijkste politieke stromingen en partijen weergeven sinds 1848.      Domein E: Oriëntatie op studie en beroep 
+
+####Examenprogramma economie havo/vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.Het examenprogramma bestaat uit de volgende domeinen:
+
+| --- | --- |
+|:---|:---|
+|Domein A |Vaardigheden |
+|Domein B |Concept Schaarste |
+|Domein C |Concept Ruil |
+|Domein D |Concept Markt |
+|Domein E |Concept Ruilen over de tijd |
+|Domein F |Concept Samenwerken en onderhandelen |
+|Domein G |Concept Risico en informatie |
+|Domein H |Concept Welvaart en groei |
+|Domein I |Concept Goede tijden, slechte tijden |
+|Domein J |Onderzoek en experiment |
+|Domein K |Keuzeonderwerpen |
+
+Het centraal examen:Het centraal examen heeft betrekking op de domeinen D, E, F, G, H, I, in combinatie met domein A. Het schoolexamen:Het schoolexamen heeft betrekking op domein B, C, J en K, in combinatie met domein A en:
+
+–indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;
+
+–indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+
+####De examenstof
+
+| --- | --- |
+|:---|:---|
+|Domein A |Vaardigheden |
+
+De kandidaat kan economische concepten herkennen en toepassen in uiteenlopende contexten.
+
+| --- | --- |
+|:---|:---|
+|Domein B |Concept schaarste |
+
+De kandidaat kan in contexten analyseren dat beperkte middelen en ongelimiteerde behoeften dwingen tot het maken van keuzes.
+
+| --- | --- |
+|:---|:---|
+|Domein C |Concept ruil |
+
+De kandidaat kan in contexten analyseren dat het ruilproces de basis vormt voor een optimale inzet van middelen en een optimale benutting van comparatieve voordelen. Voorts kan de kandidaat analyseren dat ruil arbeidsdeling mogelijk maakt en op welke manier geld het ruilproces soepeler laat verlopen.
+
+| --- | --- |
+|:---|:---|
+|Domein D |Concept markt |
+
+De kandidaat kan in contexten analyseren dat keuzes en ruil die plaatsvinden worden gecoördineerd via de markt. Prijsvorming is het coördinatiemechanisme waarmee vraag en aanbod op elkaar worden afgestemd. De manier waarop prijsvorming plaatsvindt is afhankelijk van de marktstructuur (marktvormen) en heeft gevolgen voor toetreding, welvaart en economische politiek.
+
+| --- | --- |
+|:---|:---|
+|Domein E |Concept ruilen over de tijd |
+
+De kandidaat kan, binnen de contexten van gezinshuishoudingen, bedrijfshuishoudingen en overheidshuishoudingen, analyseren dat ruil niet alleen op één moment in de tijd plaatsvindt, maar ook over de tijd. De prijs die deze intertemporele ruil coördineert is de rente.
+
+| --- | --- |
+|:---|:---|
+|Domein F |Concept samenwerken en onderhandelen |
+
+De kandidaat kan in contexten analyseren dat, wanneer belangen van individuele actoren conflicteren, samenwerken en onderhandelen meer oplevert voor (markt)partijen dan vertrouwen op individuele acties. Centralisatie, waarbij (collectieve) dwang het middel is om acties tot stand te brengen, kan een alternatief coördinatiemechanisme zijn voor keuzes.
+
+| --- | --- |
+|:---|:---|
+|Domein G |Concept risico en informatie |
+
+De kandidaat kan in contexten analyseren dat gezinnen en bedrijven bij het maken van keuzes informatie verzamelen ten einde onzekerheid te verkleinen. Aangezien de informatie vaak een beperkt karakter zal hebben moeten transactiepartijen een inschatting maken van mogelijke gebeurtenissen (risico) en de mate waarin transactiepartners gebeurtenissen beïnvloeden of informatie achterhouden die relevant is voor het tot stand brengen van een transactie (asymmetrische informatie).
+
+| --- | --- |
+|:---|:---|
+|Domein H |Concept welvaart en groei |
+
+De kandidaat kan in contexten analyseren wat op nationaal en op mondiaal niveau de oorzaken zijn van economische groei en van de verdeling van inkomen en welvaart. Keuzes op microniveau werken door op macroniveau in elke economie die gekenmerkt wordt door wederzijds afhankelijke markten.
+
+| --- | --- |
+|:---|:---|
+|Domein I |Concept goede tijden, slechte tijden |
+
+De kandidaat kan in contexten analyseren waarom er sprake is van korte termijn schommelingen in economische activiteiten en welke mogelijkheden en grenzen er zijn voor conjunctuurbeleid. Markten laten zich niet gemakkelijk reguleren mede door toedoen van rigiditeiten.
+
+| --- | --- |
+|:---|:---|
+|Domein J |Onderzoek en experiment |
+
+De kandidaat kan door het deelnemen aan experimenten een conclusie trekken die getuigt van een ‘economische kijk’ op maatschappelijke verschijnselen en van strategisch inzicht. De kandidaat kan analyseren welke grenzen aan de verklaringskracht van theoretische concepten gesteld kunnen worden.
+
+| --- | --- |
+|:---|:---|
+|Domein K |Keuzeonderwerpen |
+
+De kandidaat kan een economisch concept in verschillende contexten vergelijkenderwijs analyseren.De kandidaat kiest ten minste twee keuzeonderwerpen om deze analyse uit te voeren.
+
+####Examenprogramma management en organisatie vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaardigheden  |
+| Domein B  | Interne organisatie en personeelsbeleid  |
+| Domein C  | Financiering van activiteiten  |
+| Domein D  | Marketingbeleid  |
+| Domein E  | Financieel beleid  |
+| Domein F  | Informatievoorziening met behulp van ICT  |
+| Domein G  | Externe financiële verslaggeving.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op de domeinen C, E en G, in combinatie met domein A. Het College voor Examens kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin bedoelde. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op domein A en: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+### Subdomein  A1:  
+
+####Economische aspecten van vraagstukken binnen organisaties
+
+1. De kandidaat kan bij veel voorkomende vraagstukken binnen commerciële en niet- commerciële organisaties de economische dimensie vanuit het perspectief van het management verklaren.   
+
+### Subdomein  A2:  
+
+####Economische instrumenten
+
+2. De kandidaat kan: 
+
+– economische werkwijzen toepassen;  
+
+– economische begrippen hanteren;  
+
+– economische grootheden hanteren;  
+
+– economische relaties verklaren.     
+
+### Subdomein  A3:  
+
+####Economische perspectieven en belangen
+
+3. De kandidaat kan economische perspectieven en daaruit voortvloeiende belangen onderkennen van de diverse betrokkenen bij de organisatie.   
+
+### Subdomein  A4:  
+
+####Informatievaardigheden
+
+4. De kandidaat kan: 
+
+– verschillende typen (onderzoeks)vragen herkennen en zelfstandig (onderzoeks)vragen formuleren;  
+
+– in relatie tot een gegeven of zelf geformuleerde (onderzoeks)vraag informatie verwerven;  
+
+– informatie vanuit een gegeven of zelf geformuleerde (onderzoeks)vraag selecteren en ordenen;  
+
+– verbale, grafische, tabellarische en wiskundige/rekenkundige gegevens vertalen, mede met gebruikmaking van ICT;  
+
+– de resultaten van een leeractiviteit overdragen aan anderen.     
+
+### Subdomein  A5:  
+
+####Strategische vaardigheden
+
+5. De kandidaat kan: 
+
+– verschillende typen organisaties identificeren;  
+
+– modellen hanteren die op deze typen organisaties betrekking hebben;  
+
+– met behulp van deze modellen vraagstukken binnen deze organisaties stapsgewijs oplossen.     
+
+### Subdomein  A6:  
+
+####Oriëntatie op studie en beroep
+
+### Domein  B:  
+
+####Interne organisatie en personeelsbeleid
+
+### Subdomein  B1:  
+
+####Interne organisatie
+
+6. De kandidaat kan beschrijven en verklaren op welke manier(en) de functies binnen commerciële en niet-commerciële organisaties dienen samen te hangen om tot goede beslissingen te komen.   
+
+### Subdomein  B2:  
+
+####Personeelsbeleid
+
+7. De kandidaat kan: 
+
+– analyseren en verklaren waarom een organisatie bij het selecteren van personeel grote waarde hecht aan de economische voor- en nadelen die de organisatie heeft van nieuwe personeelsleden;  
+
+– verklaren waarom de overheid via wetgeving of andere maatregelen tracht de positie van bepaalde sociale groeperingen op de arbeidsmarkt te beïnvloeden.     
+
+### Domein  C:  
+
+####Financiering van activiteiten
+
+### Subdomein  C1:  
+
+####Rechtsvormen
+
+8. De kandidaat kan de verschillende rechtsvormen beschrijven die commerciële en niet-commerciële organisaties kunnen kiezen, en verklaren waarom de organisatie voor een bepaalde rechtsvorm kiezen.   
+
+### Subdomein  C2:  
+
+####Aantrekken van geld
+
+9. De kandidaat kan: 
+
+– de werking van de vermogensmarkt beschrijven vanuit het perspectief van particulieren, commerciële organisaties en niet-commerciële organisaties;  
+
+– verklaren welke mogelijkheden, beperkingen en redenen er zijn voor particulieren, commerciële organisaties en niet-commerciële organisaties voor het aantrekken van vermogen;  
+
+– de keuze voor het aantrekken van het vermogen cijfermatig ondersteunen.     
+
+### Domein  D:  
+
+####Marketingbeleid
+
+### Subdomein  D1:  
+
+####Marketing van niet-commerciële organisaties
+
+10. De kandidaat kan: 
+
+– verklaren wat het belang van marketing is voor niet-commerciële organisaties en welke principes daarbij van belang zijn;  
+
+– de mogelijke marketingdoelstellingen herkennen en de relatie beschrijven tussen de marketingdoelstellingen, de doelstelling van de organisatie en de belangen van de consument.     
+
+### Subdomein  D2:  
+
+####Marketing van commerciële organisaties
+
+11. De kandidaat kan: 
+
+– de mogelijke marketingdoelstellingen en de marketinginstrumenten herkennen en de relatie verklaren tussen de marketingdoelstellingen en de doelstelling van de organisatie;  
+
+– verklaren wat het belang van marketing is voor commerciële organisaties, beschrijven hoe een commerciële organisatie informatie kan verzamelen voor de vaststelling van het marketingbeleid en voor de evaluatie van de ingezette instrumenten;  
+
+– de kostenconsequenties berekenen van het inzetten van marketinginstrumenten op basis van verstrekte gegevens.     
+
+### Domein  E:  
+
+####Financieel beleid
+
+### Subdomein  E1:  
+
+####Financieel beleid in niet-commerciële organisaties
+
+12. De kandidaat kan op basis van algemene modellen een overzicht van inkomsten en uitgaven herleiden tot een staat van baten en lasten (en vice versa).   
+
+### Subdomein  E2:  
+
+####Financieel beleid in commerciële organisaties: handels-ondernemingen
+
+13. De kandidaat kan: 
+
+– op basis van algemene modellen de verkoopprijs berekenen;  
+
+– de uitgaven en ontvangsten herleiden tot kosten en opbrengsten, een liquiditeitsbegroting en de voorcalculatorische en de nacalculatorische resultatenrekening opstellen en de samenhang verklaren;  
+
+– berekeningen uitvoeren die gericht zijn op de herleiding of vaststelling van data van een algemeen model voor de interne verslaggeving.     
+
+### Subdomein  E3:  
+
+####Financieel beleid in commerciële organisaties: industriële ondernemingen
+
+14. De kandidaat kan: 
+
+– op basis van algemene modellen voor een bedrijf met stukproductie of voor een bedrijf met homogene massaproductie de fabricagekostprijs, de commerciële kostprijs en de verkoopprijs vaststellen, en daarbij onderscheid maken tussen werkelijke kosten en toegestane kosten;  
+
+– de ontwikkeling in de resultaten analyseren, zowel met behulp van gegevens uit interne als uit externe verslaggeving;  
+
+– op grond van geformuleerde doelstellingen geplande investeringen selecteren;  
+
+– de balans en de resultatenrekening zowel ten behoeve van de externe als ten behoeve van de interne verslaggeving opstellen, en de relatie tussen de interne en externe verslaggeving analyseren en beschrijven.     
+
+### Domein  F:  
+
+####Informatievoorziening met behulp van ICT
+
+### Subdomein  F1:  
+
+####Informatiestromen in organisaties
+
+15. De kandidaat kan analyseren welke informatie van belang is voor een organisatie om haar bedrijfsvoering zo goed mogelijk uit te voeren en hoe met behulp van ICT de kwaliteit van de informatievoorziening verbeterd kan worden.   
+
+### Subdomein  F2:  
+
+####Toepassing van computerprogramma’s in het kader van informatievoorziening van organisaties
+
+16. De kandidaat kan eenvoudige toepassingen van bestaande computerprogramma’s aanwenden ten behoeve van de informatievoorziening van organisaties.   
+
+### Domein  G:  
+
+####Externe financiële verslaggeving
+
+17. De kandidaat kan: 
+
+– de begroting en de jaarrekening van commerciële en niet-commerciële organisaties analyseren, zoals deze worden voorgelegd aan medezeggenschapsraden, ondernemingsraden en leden- of aandeelhoudersvergaderingen;  
+
+– een balans en de resultatenrekening voor het externe verslag opstellen en uit potentiële data de relevante grootheden kiezen.     
+
+####Examenprogramma management en organisatie havo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaardigheden  |
+| Domein B  | Interne organisatie en personeelsbeleid  |
+| Domein C  | Financiering van activiteiten  |
+| Domein D  | Marketingbeleid  |
+| Domein E  | Financieel beleid  |
+| Domein F  | Informatievoorziening met behulp van ICT  |
+| Domein G  | Externe financiële verslaggeving.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op de domeinen C, E en G, in combinatie met domein A. Het College voor Examens kan bepalen dat het centraal examen ten dele betrekking kan hebben op andere subdomeinen, mits de subdomeinen tezamen dezelfde studielast hebben als de in de vorige zin bedoelde. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op domein A en: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+### Subdomein  A1:  
+
+####Economische aspecten van vraagstukken binnen organisaties
+
+1. De kandidaat kan bij veel voorkomende vraagstukken binnen commerciële en niet- commerciële organisaties de economische dimensie vanuit het perspectief van het management verklaren.   
+
+### Subdomein  A2:  
+
+####Economische instrumenten
+
+2. De kandidaat kan: 
+
+– economische werkwijzen toepassen;  
+
+– economische begrippen hanteren;  
+
+– economische grootheden hanteren;  
+
+– economische relaties verklaren.     
+
+### Subdomein  A3:  
+
+####Economische perspectieven en belangen
+
+3. De kandidaat kan economische perspectieven en daaruit voortvloeiende belangen onderkennen van de diverse betrokkenen bij de organisatie.   
+
+### Subdomein  A4:  
+
+####Informatievaardigheden
+
+4. De kandidaat kan: 
+
+– verschillende typen (onderzoeks)vragen herkennen en zelfstandig (onderzoeks)vragen formuleren;  
+
+– in relatie tot een gegeven of zelf geformuleerde (onderzoeks)vraag informatie verwerven;  
+
+– informatie vanuit een gegeven of zelf geformuleerde (onderzoeks)vraag selecteren en ordenen;  
+
+– verbale, grafische, tabellarische en wiskundige/rekenkundige gegevens vertalen, mede met gebruikmaking van ICT;  
+
+– de resultaten van een leeractiviteit overdragen aan anderen.     
+
+### Subdomein  A5:  
+
+####Strategische vaardigheden
+
+5. De kandidaat kan: 
+
+– verschillende typen organisaties identificeren;  
+
+– modellen hanteren die op deze typen organisaties betrekking hebben;  
+
+– met behulp van deze modellen vraagstukken binnen deze organisaties stapsgewijs oplossen.     
+
+### Subdomein  A6:  
+
+####Oriëntatie op studie en beroep
+
+### Domein  B:  
+
+####Interne organisatie en personeelsbeleid
+
+### Subdomein  B1:  
+
+####Interne organisatie
+
+6. De kandidaat kan beschrijven en verklaren op welke manier(en) de functies binnen commerciële en niet-commerciële organisaties dienen samen te hangen om tot goede beslissingen te komen.   
+
+### Subdomein  B2:  
+
+####Personeelsbeleid
+
+7. De kandidaat kan: 
+
+– analyseren en verklaren waarom een organisatie bij het selecteren van personeel grote waarde hecht aan de economische voor- en nadelen die de organisatie heeft van nieuwe personeelsleden;  
+
+– verklaren waarom de overheid via wetgeving of andere maatregelen tracht de positie van bepaalde sociale groeperingen op de arbeidsmarkt te beïnvloeden.     
+
+### Domein  C:  
+
+####Financiering van activiteiten
+
+### Subdomein  C1:  
+
+####Rechtsvormen
+
+8. De kandidaat kan de verschillende rechtsvormen beschrijven die commerciële en niet-commerciële organisaties kunnen kiezen, en verklaren waarom de organisatie voor een bepaalde rechtsvorm kiezen.   
+
+### Subdomein  C2:  
+
+####Aantrekken van geld
+
+9. De kandidaat kan: 
+
+– de werking van de vermogensmarkt beschrijven vanuit het perspectief van particulieren, commerciële organisaties en niet-commerciële organisaties;  
+
+– verklaren welke mogelijkheden, beperkingen en redenen er zijn voor particulieren, commerciële organisaties en niet-commerciële organisaties voor het aantrekken van vermogen;  
+
+– de keuze voor het aantrekken van het vermogen cijfermatig ondersteunen.     
+
+### Domein  D:  
+
+####Marketingbeleid
+
+### Subdomein  D1:  
+
+####Marketing van niet-commerciële organisaties
+
+10. De kandidaat kan: 
+
+– verklaren wat het belang van marketing is voor niet-commerciële organisaties en welke principes daarbij van belang zijn;  
+
+– de mogelijke marketingdoelstellingen herkennen en de relatie beschrijven tussen de marketingdoelstellingen, de doelstelling van de organisatie en de belangen van de consument.     
+
+### Subdomein  D2:  
+
+####Marketing van commerciële organisaties
+
+11. De kandidaat kan: 
+
+– de mogelijke marketingdoelstellingen en de marketinginstrumenten herkennen en de relatie verklaren tussen de marketingdoelstellingen en de doelstelling van de organisatie;  
+
+– verklaren wat het belang van marketing is voor commerciële organisaties, beschrijven hoe een commerciële organisatie informatie kan verzamelen voor de vaststelling van het marketingbeleid en voor de evaluatie van de ingezette instrumenten;  
+
+– de kostenconsequenties berekenen van het inzetten van marketinginstrumenten op basis van verstrekte gegevens.     
+
+### Domein  E:  
+
+####Financieel beleid
+
+### Subdomein  E1:  
+
+####Financieel beleid in niet-commerciële organisaties
+
+12. De kandidaat kan op basis van algemene modellen een overzicht van inkomsten en uitgaven herleiden tot een staat van baten en lasten (en vice versa).   
+
+### Subdomein  E2:  
+
+####Financieel beleid in commerciële organisaties
+
+13. De kandidaat kan: 
+
+– op basis van algemene modellen de verkoopprijs berekenen;  
+
+– de uitgaven en ontvangsten herleiden tot kosten en opbrengsten, een liquiditeitsbegroting en de voorcalculatorische en de nacalculatorische resultatenrekening opstellen en de samenhang verklaren;  
+
+– berekeningen uitvoeren die gericht zijn op de herleiding of vaststelling van data van een algemeen model voor de interne verslaggeving.     
+
+### Domein  F:  
+
+####Informatievoorziening met behulp van ICT
+
+### Subdomein  F1:  
+
+####Informatiestromen in organisaties
+
+14. De kandidaat kan verklaren welke informatie van belang is voor een organisatie om haar bedrijfsvoering zo goed mogelijk uit te voeren en hoe met behulp van ICT de kwaliteit van de informatievoorziening verbeterd kan worden.   
+
+### Subdomein  F2:  
+
+####Toepassing van computerprogramma’s in het kader van informatievoorziening van organisaties
+
+15. De kandidaat kan eenvoudige toepassingen van bestaande computerprogramma’s aanwenden ten behoeve van de informatievoorziening van organisaties.   
+
+### Domein  G:  
+
+####Externe financiële verslaggeving
+
+16. De kandidaat kan: 
+
+– de begroting en de jaarrekening van commerciële en niet-commerciële organisaties verklaren, zoals deze worden voorgelegd aan medezeggenschapsraden, ondernemingsraden en leden- of aandeelhoudersvergaderingen;  
+
+– een balans en de resultatenrekening voor het externe verslag opstellen en uit potentiële data de relevante grootheden kiezen.     
+
+####Examenprogramma maatschappijwetenschappen vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaardigheden  |
+| Domein B  | Politieke besluitvorming  |
+| Domein C  | Massamedia  |
+| Domein D  | Multiculturele samenleving  |
+| Domein E  | Mens en werk  |
+| Domein F  | Criminaliteit en rechtsstaat  |
+| Domein G  | Milieu en beleid  |
+| Domein H  | Ontwikkelingssamenwerking.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op de domeinen B, C en F, in combinatie met domein A. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op: 
+
+– twee van de domeinen D, E, G en H;  
+
+– een nog niet gekozen domein uit de domeinen D, E, G en H, dan wel een door het bevoegd gezag vastgesteld domein;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+### Subdomein  A1:  
+
+####Informatievaardigheden
+
+1. De kandidaat kan: 
+
+– met betrekking tot een concreet maatschappelijk vraagstuk verschillende typen vragen herkennen en zelfstandig vragen formuleren;  
+
+– uit bronnenmateriaal over een concreet maatschappelijk vraagstuk, op basis van gegeven of zelf geformuleerde vragen, bruikbare gegevens selecteren;  
+
+– (verworven) informatie over een concreet maatschappelijk vraagstuk vanuit gegeven of zelf geformuleerde vragen mede met behulp van ICT verwerken en daaruit beredeneerde conclusies trekken;  
+
+– de resultaten van een leeractiviteit overdragen naar anderen;  
+
+– bij raadplegen, verwerken en presenteren van informatie gebruik maken van toepassingen van ICT.     
+
+### Subdomein  A2:  
+
+####Onderzoeksvaardigheden
+
+2. De kandidaat kan een eenvoudig sociaal-wetenschappelijk onderzoek opzetten en uitvoeren over een concreet maatschappelijk vraagstuk en daarbij de benaderingswijzen van maatschappijleer toepassen.   
+
+### Subdomein  A3:  
+
+####Benaderingswijzen
+
+3. De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij gebruikmaken van de benaderingswijzen van maatschappijleer: 
+
+– de politiek-juridische benaderingswijze;  
+
+– de sociaal-economische benaderingswijze;  
+
+– de sociaal-culturele benaderingswijze;  
+
+– de veranderings- en vergelijkende benaderingswijze.     
+
+### Subdomein  A4:  
+
+####Oriëntatie op studie en beroep
+
+### Domein  B:  
+
+####Politieke besluitvorming
+
+### Subdomein  B1:  
+
+####Politieke structuren
+
+4. De kandidaat kan de structuur van het Nederlandse stelsel van politieke besluitvorming en die van andere stelsels typeren.   
+
+### Subdomein  B2:  
+
+####Actoren in het proces van politieke besluitvorming
+
+5. De kandidaat kan beleids- en besluitvormingsprocessen analyseren met behulp van diverse modellen van het politieke proces en de rol van diverse actoren in het politieke proces.   
+
+### Subdomein  B3:  
+
+####Politieke cultuur en politieke stromingen
+
+6. De kandidaat kan in discussies over het politieke systeem en over beleidsvraagstukken veranderingen in de politieke cultuur beschrijven, en de belangrijkste politieke stromingen en politieke partijen onderscheiden.   
+
+### Subdomein  B4:  
+
+####Internationale betrekkingen
+
+7. De kandidaat kan uitleggen hoe politieke beleids- en besluitvormingsprocessen in Nederland worden beïnvloed door de politieke, economische en culturele verwevenheid van de internationale samenleving.   
+
+### Domein  C:  
+
+####Massamedia
+
+### Subdomein  C1:  
+
+####Communicatie en massamedia
+
+8. De kandidaat kan het functioneren van massamedia in de samenleving analyseren.   
+
+### Subdomein  C2:  
+
+####Massamedia en technologische ontwikkelingen
+
+9. De kandidaat kan analyseren welke relatie er bestaat tussen technologische ontwikkelingen en ontwikkelingen op het gebied van de massamedia.   
+
+### Subdomein  C3:  
+
+####Massamedia en de overheid
+
+10. De kandidaat kan uitleggen op welke wijze de overheid in ons land betrokken is bij de massamedia en kan het mediabeleid becommentariëren.   
+
+### Subdomein  C4:  
+
+####Massamedia en commercie
+
+11. De kandidaat kan de invloed analyseren van economische overwegingen, belangen en ontwikkelingen op de organisatie en de werking van de media en op het media-aanbod.   
+
+### Subdomein  C5:  
+
+####Massamedia en cultuur
+
+12. De kandidaat kan: 
+
+– de invloed analyseren van sociaal-culturele ontwikkelingen en centrale waarden in de samenleving op de inhoud van het media-aanbod en op de organisatie van de media;  
+
+– de invloed en macht van de media analyseren aan de hand van cultuuroverdracht, beeldvorming en beïnvloedingstheorieën.     
+
+### Domein  D:  
+
+####Multiculturele samenleving
+
+### Subdomein  D1:  
+
+####Multiculturele samenleving
+
+13. De kandidaat kan een beschrijving geven van de Nederlandse samenleving als een multiculturele samenleving en de aanwezigheid van de grootste allochtone groepen verklaren.   
+
+### Subdomein  D2:  
+
+####Overheidsbeleid
+
+14. De kandidaat kan de uitgangspunten en hoofdlijnen van vreemdelingenbeleid en minderhedenbeleid verwoorden en de standpunten van politieke partijen met betrekking tot genoemd beleid vergelijken en becommentariëren.   
+
+### Subdomein  D3:  
+
+####Maatschappelijke positie
+
+15. De kandidaat kan verschillende visies onderscheiden die een verklaring geven voor de maatschappelijke positie van etnische minderheden voor wat betreft arbeid en inkomen, onderwijs en huisvesting en de gevolgen van deze maatschappelijke positie uitleggen.   
+
+### Subdomein  D4:  
+
+####Cultuur en discriminatie
+
+16. De kandidaat kan: 
+
+– de verhouding tussen allochtone groepen en autochtone groepen in Nederland beschrijven;  
+
+– de mogelijke oorzaken en gevolgen van discriminatie aangeven;  
+
+– mogelijke modellen beschrijven van samenlevingen met verschillende groepen en hun (sub)culturen.     
+
+### Domein  E:  
+
+####Mens en werk
+
+### Subdomein  E1:  
+
+####Politieke visies en verzorgingsstaat
+
+17. De kandidaat kan: 
+
+– aangeven welke visies de belangrijkste politieke stromingen en politieke partijen in Nederland hebben op sociaal-economische vraagstukken en op de rol die de overheid op sociaal-economisch terrein dient te spelen;  
+
+– de ontwikkeling van de verzorgingsstaat beschrijven en verschillende visies hierop benoemen;  
+
+– aangeven op welke verschillende manieren de overheid betrokken is bij het sociaal-economisch proces.     
+
+### Subdomein  E2:  
+
+####Economische orde
+
+18. De kandidaat kan de Nederlandse economische orde vergelijken met die van andere landen.   
+
+### Subdomein  E3:  
+
+####Arbeidsverhoudingen
+
+19. De kandidaat kan van de belangrijkste groeperingen die betrokken zijn bij arbeid aangeven wat hun belangen zijn, hoe ze georganiseerd zijn en wat hun onderlinge verhoudingen zijn.   
+
+### Subdomein  E4:  
+
+####Arbeidsverdeling
+
+20. De kandidaat kan uitleggen welke gevolgen een voortschrijdende arbeidsverdeling heeft voor mens en samenleving.   
+
+### Subdomein  E5:  
+
+####Arbeid en informatisering
+
+21. De kandidaat kan de invloed van informatisering op arbeid en samenleving beschrijven.   
+
+### Subdomein  E6:  
+
+####Betekenis en waardering van werk
+
+22. De kandidaat kan uitleggen wat de betekenis is van werk voor mens en samenleving.   
+
+### Domein  F:  
+
+####Criminaliteit en rechtsstaat
+
+### Subdomein  F1:  
+
+####Criminaliteit en samenleving
+
+23. De kandidaat kan een beschrijving geven van aard en omvang van het verschijnsel criminaliteit en daarmee samenhangende vraagstukken voor burger en samenleving.   
+
+### Subdomein  F2:  
+
+####De rechtsstaat
+
+24. De kandidaat kan strafbaarstelling en aanpak van criminaliteit door de staat in verband brengen met de uitgangspunten van de rechtsstaat en aangeven welke dilemma’s kunnen ontstaan bij de uitvoering van taken ter voorkoming en bestrijding van criminaliteit door politie, Openbaar Ministerie en rechterlijke macht.   
+
+### Subdomein  F3:  
+
+####Overheidsbeleid
+
+25. De kandidaat kan: 
+
+– een onderscheid maken tussen repressief en preventief beleid bij de bestrijding van criminaliteit;  
+
+– typerende standpunten van politieke partijen over criminaliteitsbestrijding onderscheiden en in verband brengen met de ideologische stromingen waartoe die partijen behoren.     
+
+### Subdomein  F4:  
+
+####Functies van straffen
+
+26. De kandidaat kan een visie geven op de zin en de mogelijke effecten van (bepaalde) straffen.   
+
+### Subdomein  F5:  
+
+####Oorzaken van criminaliteit
+
+27. De kandidaat kan verschillende theorieën/visies toepassen bij het geven van verklaringen voor het ontstaan of de toename van een gegeven vorm van criminaliteit.   
+
+### Domein  G:  
+
+####Milieu en beleid
+
+### Subdomein  G1:  
+
+####Milieu als maatschappelijk probleem
+
+28. De kandidaat kan sociale dilemma's herkennen in de oorzaken van de milieuproblematiek en de aanpak hiervan door de overheid, het bedrijfsleven en individuele burgers.   
+
+### Subdomein  G2:  
+
+####Overheid
+
+29. De kandidaat kan de effectiviteit van het milieubeleid analyseren aan de hand van taken, verantwoordelijkheden en beleidsinstrumenten van regionale, landelijke en internationale overheden en internationale instanties.   
+
+### Subdomein  G3:  
+
+####Maatschappelijke organisaties
+
+30. De kandidaat kan belangen(afwegingen) onderscheiden die een rol spelen bij de 0positiebepaling van bedrijfsleven, werkgevers- en werknemersorganisaties en andere maatschappelijke organisaties ten aanzien van het milieu(beleid).   
+
+### Subdomein  G4:  
+
+####Mondiaal niveau
+
+31. De kandidaat kan: 
+
+– de milieuproblematiek in verband brengen met de sociaal-economische verhoudingen op mondiaal niveau;  
+
+– uitleggen wat het belang is van duurzame ontwikkeling voor het mondiale milieuvraagstuk.     
+
+### Subdomein  G5:  
+
+####Milieu en cultuur
+
+32. De kandidaat kan: 
+
+– waarden, normen, attitude en gedrag onderscheiden met betrekking tot milieuproblemen;  
+
+– uitleggen welke invloed individueel gedrag heeft op de milieuproblematiek.     
+
+### Domein  H:  
+
+####Ontwikkelingssamenwerking
+
+### Subdomein  H1:  
+
+####Ontwikkelingssamenwerking en beleid
+
+33. De kandidaat kan op basis van verschillende motieven, visies en belangen een oordeel geven over de betekenis en effectiviteit van ontwikkelingssamenwerking en ontwikkelingsbeleid.   
+
+### Subdomein  H2:  
+
+####Nationale en internationale organisaties
+
+34. De kandidaat kan de rol van medefinancieringsorganisaties en de rol van internationale organisaties analyseren bij het terugdringen van onderontwikkeling tegen de achtergrond van het Nederlandse ontwikkelingsbeleid, internationale verhoudingen en internationalisering/globalisering.   
+
+### Subdomein  H3:  
+
+####Economische betrekkingen
+
+35. De kandidaat kan aangeven in welke mate het ontwikkelingsbeleid van Nederland en van andere westerse landen of internationale organisaties rekening houdt met de economische belangen van de Derde Wereld.   
+
+### Subdomein  H4:  
+
+####Ontwikkelingssamenwerking en cultuur
+
+36. De kandidaat kan in ontwikkelingsbeleid en ontwikkelingssamenwerking het belang van de culturele dimensie aangeven.   
+
+####Examenprogramma maatschappijwetenschappen havo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaardigheden  |
+| Domein B  | Politieke besluitvorming  |
+| Domein C  | Massamedia  |
+| Domein D  | Multiculturele samenleving  |
+| Domein E  | Mens en werk  |
+| Domein F  | Criminaliteit en rechtsstaat  |
+| Domein G  | Milieu en beleid  |
+| Domein H  | Ontwikkelingssamenwerking.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op de domeinen B, C en F, in combinatie met domein A. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op: 
+
+– een van de domeinen D, E, G en H;  
+
+– een nog niet gekozen domein uit de domeinen D, E, G en H, dan wel een door het bevoegd gezag vastgesteld domein;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+### Subdomein  A1:  
+
+####Informatievaardigheden
+
+1. De kandidaat kan: 
+
+– met betrekking tot een concreet maatschappelijk vraagstuk verschillende typen vragen herkennen en zelfstandig vragen formuleren;  
+
+– uit bronnenmateriaal over een concreet maatschappelijk vraagstuk, op basis van gegeven of zelf geformuleerde vragen, bruikbare gegevens selecteren;  
+
+– (verworven) informatie over een concreet maatschappelijk vraagstuk vanuit gegeven of zelf geformuleerde vragen mede met behulp van ICT verwerken en daaruit beredeneerde conclusies trekken;  
+
+– de resultaten van een leeractiviteit overdragen naar anderen;  
+
+– bij raadplegen, verwerken en presenteren van informatie gebruikmaken van toepassingen van ICT.     
+
+### Subdomein  A2:  
+
+####Onderzoeksvaardigheden
+
+2. De kandidaat kan een eenvoudig sociaal-wetenschappelijk onderzoek opzetten en uitvoeren over een concreet maatschappelijk vraagstuk en daarbij de benaderingswijzen van maatschappijleer toepassen.   
+
+### Subdomein  A3:  
+
+####Benaderingswijzen
+
+3. De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij gebruikmaken van de benaderingswijzen van maatschappijleer: 
+
+– de politiek-juridische benaderingswijze;  
+
+– de sociaal-economische benaderingswijze;  
+
+– de sociaal-culturele benaderingswijze;  
+
+– de veranderings- en vergelijkende benaderingswijze.     
+
+### Subdomein  A4:  
+
+####Oriëntatie op studie en beroep
+
+### Domein  B:  
+
+####Politieke besluitvorming
+
+### Subdomein  B1:  
+
+####Politieke structuren
+
+4. De kandidaat kan de structuur van het Nederlandse stelsel van politieke besluitvorming typeren.   
+
+### Subdomein  B2:  
+
+####Actoren in het proces van politieke besluitvorming
+
+5. De kandidaat kan aangeven op welke wijze actoren beleids- en besluitvormingsprocessen beïnvloeden op lokaal, provinciaal, landelijk en Europees niveau.   
+
+### Subdomein  B3:  
+
+####Politieke stromingen
+
+6. De kandidaat kan de belangrijkste politieke stromingen en politieke partijen onderscheiden.   
+
+### Domein  C:  
+
+####Massamedia
+
+### Subdomein  C1:  
+
+####Communicatie en massamedia
+
+7. De kandidaat kan verschillende soorten massamedia onderscheiden en met elkaar vergelijken en uitleggen welke functies de massamedia hebben voor mens en samenleving.   
+
+### Subdomein  C2:  
+
+####Massamedia en technologische ontwikkelingen
+
+8. De kandidaat kan het verband aangeven tussen technologische ontwikkelingen en ontwikkelingen op het gebied van massamedia en communicatie (waaronder internet).   
+
+### Subdomein  C3:  
+
+####Massamedia en de overheid
+
+9. De kandidaat kan uitleggen op welke wijze de overheid in ons land betrokken is bij de massamedia en uitleggen binnen welke wettelijke kaders de omroep in ons land functioneert.   
+
+### Subdomein  C4:  
+
+####Massamedia en commercie
+
+10. De kandidaat kan uitleggen dat economische overwegingen, belangen en ontwikkelingen invloed hebben op het functioneren van de media en op het media-aanbod.   
+
+### Subdomein  C5:  
+
+####Massamedia en cultuur
+
+11. De kandidaat kan: 
+
+– de invloed aangeven van sociaal-culturele ontwikkelingen en centrale waarden in de samenleving op de inhoud van het media-aanbod en op de organisatie van de media;  
+
+– uitleggen welke rol de media vervullen bij cultuuroverdracht en in de beeldvorming over de werkelijkheid;  
+
+– aangeven welke visies er bestaan op de invloed of macht van de media.     
+
+### Domein  D:  
+
+####Multiculturele samenleving
+
+### Subdomein  D1:  
+
+####Multiculturele samenleving
+
+12. De kandidaat kan een beschrijving geven van de Nederlandse samenleving als een multiculturele samenleving en de aanwezigheid van de grootste allochtone groepen verklaren.   
+
+### Subdomein  D2:  
+
+####Overheidsbeleid
+
+13. De kandidaat kan de uitgangspunten en hoofdlijnen van vreemdelingenbeleid en minderhedenbeleid verwoorden en de standpunten van politieke partijen met betrekking tot genoemd beleid vergelijken en becommentariëren.   
+
+### Subdomein  D3:  
+
+####Maatschappelijke positie
+
+14. De kandidaat kan verschillende visies onderscheiden die een verklaring geven voor de maatschappelijke positie van etnische minderheden voor wat betreft arbeid en inkomen, onderwijs en huisvesting.   
+
+### Subdomein  D4:  
+
+####Cultuur en discriminatie
+
+15. De kandidaat kan de verhouding tussen allochtone groepen en autochtone groepen in Nederland beschrijven en mogelijke oorzaken en gevolgen van discriminatie aangeven.   
+
+### Domein  E:  
+
+####Mens en werk
+
+### Subdomein  E1:  
+
+####Politieke visies en verzorgingsstaat
+
+16. De kandidaat kan: 
+
+– aangeven welke visies de belangrijkste politieke stromingen en politieke partijen in Nederland hebben op sociaal-economische vraagstukken en op de rol die de overheid op sociaal-economisch terrein dient te spelen;  
+
+– de ontwikkeling van de verzorgingsstaat beschrijven en verschillende visies hierop benoemen;  
+
+– aangeven op welke verschillende manieren de overheid betrokken is bij het sociaal-economisch proces.     
+
+### Subdomein  E2:  
+
+####Arbeidsverhoudingen
+
+17. De kandidaat kan van de belangrijkste groeperingen die betrokken zijn bij arbeid aangeven wat hun belangen zijn, hoe ze georganiseerd zijn en wat hun onderlinge verhoudingen zijn.   
+
+### Subdomein  E3:  
+
+####Arbeidsverdeling
+
+18. De kandidaat kan uitleggen welke gevolgen een voortschrijdende arbeidsverdeling heeft voor mens en samenleving.   
+
+### Subdomein  E4:  
+
+####Arbeid en informatisering
+
+19. De kandidaat kan de invloed van informatisering op arbeid en samenleving beschrijven.   
+
+### Subdomein  E5:  
+
+####Betekenis en waardering van werk
+
+20. De kandidaat kan uitleggen wat de betekenis is van werk voor mens en samenleving.   
+
+### Domein  F:  
+
+####Criminaliteit en rechtsstaat
+
+### Subdomein  F1:  
+
+####Criminaliteit en samenleving
+
+21. De kandidaat kan een beschrijving geven van aard en omvang van het verschijnsel criminaliteit en daarmee samenhangende vraagstukken voor burger en samenleving.   
+
+### Subdomein  F2:  
+
+####De rechtsstaat
+
+22. De kandidaat kan strafbaarstelling en aanpak van criminaliteit door de staat in verband brengen met de uitgangspunten van de rechtsstaat en aangeven welke dilemma’s kunnen ontstaan bij de uitvoering van taken ter voorkoming en bestrijding van criminaliteit door politie, Openbaar Ministerie en rechterlijke macht.   
+
+### Subdomein  F3:  
+
+####Overheidsbeleid
+
+23. De kandidaat kan: 
+
+– een onderscheid maken tussen repressief en preventief beleid bij de bestrijding van criminaliteit;  
+
+– typerende standpunten van politieke partijen over criminaliteitsbestrijding onderscheiden en in verband brengen met de ideologische stromingen waartoe die partijen behoren.     
+
+### Subdomein  F4:  
+
+####Functies van straffen
+
+24. De kandidaat kan een visie geven op de zin en de mogelijke effecten van (bepaalde) straffen.   
+
+### Subdomein  F5:  
+
+####Oorzaken van criminaliteit
+
+25. De kandidaat kan verschillende theorieën/visies toepassen bij het geven van verklaringen over het ontstaan of de toename van een gegeven vorm van criminaliteit.   
+
+### Domein  G:  
+
+####Milieu en beleid
+
+### Subdomein  G1:  
+
+####Milieu als maatschappelijk probleem
+
+26. De kandidaat kan: 
+
+– uitleggen waarom het milieuprobleem een sociaal en politiek probleem is;  
+
+– verband leggen tussen milieuproblematiek en de industriële samenleving.     
+
+### Subdomein  G2:  
+
+####Overheid
+
+27. De kandidaat kan uiteenzetten op welke wijze de landelijke overheid, de provincie, de gemeente, de EU en internationale instanties zich met milieu bezighouden.   
+
+### Subdomein  G3:  
+
+####Maatschappelijke organisaties
+
+28. De kandidaat kan belangen(afwegingen) onderscheiden die een rol spelen bij de positiebepaling van het bedrijfsleven, werkgevers- en werknemersorganisaties en andere maatschappelijke organisaties ten aanzien van het milieu(beleid).   
+
+### Subdomein  G4:  
+
+####Mondiaal niveau
+
+29. De kandidaat kan: 
+
+– de milieuproblematiek in verband brengen met de sociaal-economische verhoudingen op mondiaal niveau;  
+
+– uitleggen wat het belang is van duurzame ontwikkeling voor het mondiale milieuvraagstuk.     
+
+### Subdomein  G5:  
+
+####Milieu en cultuur
+
+30. De kandidaat kan waarden, normen en gedrag van individuen, van maatschappelijke organisaties en politieke partijen onderscheiden met betrekking tot milieuproblemen.   
+
+### Domein  H:  
+
+####Ontwikkelingssamenwerking
+
+### Subdomein  H1:  
+
+####Ontwikkelingssamenwerking en beleid
+
+31. De kandidaat kan aangeven welke motieven en belangen een rol spelen in het ontwikkelingsbeleid van Nederland en andere donorlanden.   
+
+### Subdomein  H2:  
+
+####Nationale en internationale organisaties
+
+32. De kandidaat kan uitleggen welke rol medefinancieringsorganisaties en internationale organisaties spelen in het terugdringen van onderontwikkeling.   
+
+### Subdomein  H3:  
+
+####Economische betrekkingen
+
+33. De kandidaat kan uitleggen hoe in het ontwikkelingsbeleid van Nederland en van andere westerse landen of internationale organisaties rekening kan worden gehouden met de economische belangen van de Derde Wereld.   
+
+### Subdomein  H4:  
+
+####Ontwikkelingssamenwerking en cultuur
+
+34. De kandidaat kan uitleggen wat het belang is van cultuur in ontwikkelingssamenwerking.   
+
+####Examenprogramma filosofie vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaardigheden  |
+| Domein B  | Wijsgerige antropologie  |
+| Domein C  | Ethiek  |
+| Domein D  | Kennisleer  |
+| Domein E  | Wetenschapsfilosofie.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op een door het College voor Examens vastgesteld onderwerp dat gerelateerd is aan een van de domeinen B, C, D of E als hoofddomein, waarbij een of meer andere domeinen betrokken kunnen zijn, en de subdomeinen 1. van de domeinen B, C, D en E, die zowel afzonderlijk als in relatie met het onderwerp kunnen worden geëxamineerd. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op domein A en: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+### Subdomein  A1:  
+
+####Argumentatieve vaardigheden
+
+1. De kandidaat kan: met betrekking tot een filosofisch vraagstuk informatie selecteren, structureren en interpreteren: 
+
+– een betoog analyseren;  
+
+– een betoog beoordelen;  
+
+– een logisch correct en overtuigend betoog opzetten en houden;  
+
+– de resultaten van een leeractiviteit overdragen aan anderen.     
+
+### Subdomein  A2:  
+
+####Onderzoeksvaardigheden en benaderingswijzen
+
+2. De kandidaat kan: 
+
+– vooronderstellingen onderzoeken waarop een vraagstuk berust;  
+
+– verschillende filosofische posities ten aanzien van een vraagstuk beargumenteerd innemen.     
+
+### Subdomein  A3:  
+
+####Oriëntatie op studie en beroep
+
+### Domein  B:  
+
+####Wijsgerige antropologie
+
+### Subdomein  B1:  
+
+####Centrale begrippen en toonaangevende visies
+
+3. De kandidaat kan een aantal centrale begrippen en toonaangevende visies uit de wijsgerige antropologie herkennen, uitleggen en in een filosofische context toepassen en evalueren.   
+
+### Subdomein  B2:  
+
+####Persoon, lichaam, geest en emotie
+
+4. De kandidaat kan: 
+
+– de inhoud van persoonsbegrippen aangeven vanuit verschillende perspectieven;  
+
+– verschillende opvattingen over de verhouding tussen lichaam en geest herkennen, uitleggen en in een filosofische context toepassen en evalueren;  
+
+– verschillende opvattingen over de aard en functies van emoties herkennen, uitleggen en in een filosofische context toepassen en evalueren.     
+
+### Subdomein  B3:  
+
+####De mens als redelijk wezen
+
+5. De kandidaat kan: 
+
+– verschillende opvattingen over de mens als redelijk wezen herkennen, uitleggen en in een filosofische context toepassen en evalueren;  
+
+– andere visies op de mens uit de hedendaagse wijsbegeerte herkennen, uitleggen en in een filosofische context toepassen en evalueren.     
+
+### Domein  C:  
+
+####Ethiek
+
+### Subdomein  C1:  
+
+####Centrale begrippen en toonaangevende visies
+
+6. De kandidaat kan een aantal centrale begrippen en toonaangevende visies uit de ethiek herkennen, uitleggen en in een filosofische context toepassen en evalueren.   
+
+### Subdomein  C2:  
+
+####Het al dan niet universeel zijn van waarden
+
+7. De kandidaat kan een aantal opvattingen over de vraag of waarden al dan niet universeel zijn, herkennen, uitleggen en in een filosofische context toepassen en evalueren.   
+
+### Subdomein  C3:  
+
+####Vrijheid en verantwoordelijkheid
+
+8. De kandidaat kan een aantal posities ten aanzien van individuele vrijheid en collectieve verantwoordelijkheid herkennen, uitleggen en in een filosofische context toepassen en evalueren.   
+
+### Domein  D:  
+
+####Kennisleer
+
+### Subdomein  D1:  
+
+####Centrale begrippen en toonaangevende visies
+
+9. De kandidaat kan een aantal centrale begrippen en toonaangevende visies uit de kennisleer herkennen, uitleggen en in een filosofische context toepassen en evalueren.   
+
+### Subdomein  D2:  
+
+####Ervaring en waarheid
+
+10. De kandidaat kan: 
+
+– verschillende opvattingen over de relatie tussen ervaring en werkelijkheid herkennen, uitleggen en in een filosofische context toepassen en evalueren;  
+
+– verschillende opvattingen over waarheid herkennen, uitleggen en in een filosofische context toepassen en evalueren.     
+
+### Subdomein  D3:  
+
+####De contextualiteit van kennis
+
+11. De kandidaat kan aangeven hoe in de twintigste eeuw kennis niet op zichzelf wordt beschouwd maar ingebed is in de context van o.a. taal, geschiedenis en cultuur, sociaal-economische belangen, genderprocessen, media.   
+
+### Domein  E:  
+
+####Wetenschapsfilosofie
+
+### Subdomein  E1:  
+
+####Centrale begrippen en toonaangevende visies
+
+12. De kandidaat kan een aantal centrale begrippen en toonaangevende visies uit de wetenschapsfilosofie herkennen, uitleggen en in een filosofische context toepassen en evalueren.   
+
+### Subdomein  E2:  
+
+####Wetenschappelijke kennis
+
+13. De kandidaat kan verschillende opvattingen over de status van wetenschappelijke kennis weergeven, herkennen, uitleggen, en in een filosofische context toepassen en evalueren; hij kan uitleggen wat het onderscheid is tussen natuurwetenschappen, sociale wetenschappen en geesteswetenschappen.   
+
+### Subdomein  E3:  
+
+####Wetenschap en samenleving
+
+14. De kandidaat kan een aantal opvattingen over de verhouding wetenschap en samenleving herkennen, uitleggen en in een filosofische context toepassen en evalueren.   
+
+####Examenprogramma filosofie havo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaardigheden  |
+| Domein B  | Wijsgerige antropologie  |
+| Domein C  | Ethiek  |
+| Domein D  | Sociale filosofie.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op een door het College voor Examens vastgesteld onderwerp dat gerelateerd is aan een van de domeinen B, C of D als hoofddomein, waarbij een of meer andere domeinen betrokken kunnen zijn, en de subdomeinen 1. van de domeinen B, C en D, die zowel afzonderlijk als in relatie met het onderwerp kunnen worden geëxamineerd. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op domein A en: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+### Subdomein  A1:  
+
+####Argumentatieve vaardigheden
+
+1. De kandidaat kan: met betrekking tot een filosofisch vraagstuk informatie selecteren, structureren en interpreteren: 
+
+– een betoog analyseren;  
+
+– een betoog beoordelen;  
+
+– een logisch correct en overtuigend betoog opzetten en houden;  
+
+– de resultaten van een leeractiviteit overdragen aan anderen.     
+
+### Subdomein  A2:  
+
+####Onderzoeksvaardigheden en benaderingswijzen
+
+2. De kandidaat kan: 
+
+– vooronderstellingen onderzoeken waarop een vraagstuk berust;  
+
+– verschillende filosofische posities ten aanzien van een vraagstuk beargumenteerd innemen.     
+
+### Subdomein  A3:  
+
+####Oriëntatie op studie en beroep
+
+### Domein  B:  
+
+####Wijsgerige antropologie
+
+### Subdomein  B1:  
+
+####Centrale begrippen
+
+3. De kandidaat kan een aantal centrale begrippen uit de wijsgerige antropologie herkennen, uitleggen en in een filosofische context toepassen.   
+
+### Subdomein  B2:  
+
+####Lichaam, geest en emotie
+
+4. De kandidaat kan: 
+
+– verschillende opvattingen over de verhouding tussen lichaam en geest herkennen, uitleggen en in een filosofische context toepassen;  
+
+– verschillende opvattingen over de aard en functies van emoties herkennen, uitleggen en in een filosofische context toepassen.     
+
+### Subdomein  B3:  
+
+####De mens als redelijk wezen
+
+5. De kandidaat kan: 
+
+– verschillende opvattingen over de mens als redelijk wezen herkennen, uitleggen en in een filosofische context toepassen;  
+
+– enkele opvattingen over de geldigheid van verschillende vormen van (rationele) kennis herkennen, uitleggen en in een filosofische context toepassen.     
+
+### Domein  C:  
+
+####Ethiek
+
+### Subdomein  C1:  
+
+####Centrale begrippen
+
+6. De kandidaat kan een aantal centrale begrippen uit de ethiek herkennen, uitleggen en in een filosofische context toepassen.   
+
+### Subdomein  C2:  
+
+####Het goede leven
+
+7. De kandidaat kan een aantal opvattingen over de verhouding tussen nut en geluk herkennen, uitleggen en in een filosofische context toepassen.   
+
+### Subdomein  C3:  
+
+####Integriteit en verantwoordelijkheid
+
+8. De kandidaat kan: 
+
+– verschillende posities ten aanzien van individuele vrijheid en collectieve verantwoordelijkheid herkennen, uitleggen en in een filosofische context toepassen;  
+
+– binnen de verhouding van individu en gemeenschap de rol aangeven van integriteit en verantwoordelijkheid.     
+
+### Domein  D:  
+
+####Sociale filosofie
+
+### Subdomein  D1:  
+
+####Centrale begrippen
+
+9. De kandidaat kan een aantal centrale begrippen uit de sociale filosofie herkennen, uitleggen en in een filosofische context toepassen.   
+
+### Subdomein  D2:  
+
+####Schaarste, begeerte en macht
+
+10. De kandidaat kan: 
+
+– uitleggen wat de aard en functie is van menselijke begeerten en behoeften en wat de samenhang is tussen schaarste en behoeften;  
+
+– verschillende opvattingen over de oorsprong van macht en de vormen van macht herkennen, uitleggen en in een filosofische context toepassen.     
+
+### Subdomein  D3:  
+
+####Ideologie
+
+11. De kandidaat kan uitleggen wat de rol en invloed is van ideologieën in de maatschappij. Hij kan daarbij aangeven wat de filosofische en/of levensbeschouwelijke uitgangspunten van ideologieën zijn.   
+
+####Examenprogramma kunst (algemeen) havo/vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaardigheden  |
+| Domein B  | Invalshoeken voor reflectie  |
+| Domein C  | Onderwerpen.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op de domeinen B en C in combinatie met de vaardigheden uit domein A. Het College voor Examens wijst uit domein C drie onderwerpen aan voor het havo-examen en vier onderwerpen voor het vwo-examen. 
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+1. De kandidaat kan: 
+
+– de belangrijkste termen en begrippen hanteren uit de kunstdisciplines beeldende vormgeving, dans, drama en muziek die voorwaardelijk zijn voor adequate receptie en reflectie, en noodzakelijk voor begrip van verbanden tussen kunst en cultuur;  
+
+– informatie over kunst en cultuur herkennen, benoemen en toepassen om verbanden aan te geven;  
+
+– bij het reflecteren bronnenmateriaal op een adequate wijze hanteren;  
+
+– overeenkomsten en verschillen noemen en beargumenteren met betrekking tot het beschouwingsapparaat bij de vier kunstdisciplines (alleen vwo).     
+
+### Domein  B:  
+
+####Invalshoeken voor reflectie
+
+### Subdomein  B1:  
+
+####Kunst en religie, levensbeschouwing
+
+2. De kandidaat kan aangeven met welke visies, doelen, middelen en inhouden de kunsten religieuze en/of levensbeschouwelijke uitgangspunten vertolken.   
+
+### Subdomein  B2:  
+
+####Kunst en esthetica
+
+3. De kandidaat kan aangeven welke ideeën over schoonheid in kunst en kunstwaardering een rol spelen.   
+
+### Subdomein  B3:  
+
+####Kunstenaar en opdrachtgever; politieke en economische macht
+
+4. De kandidaat kan aangeven welke invloed opdrachtgevers en politieke ideeën hebben op de rol en de inhoud van kunst en op de positie van de kunstenaar.   
+
+### Subdomein  B4:  
+
+####Kunst en vermaak
+
+5. De kandidaat kan aangeven hoe vorm en inhoud bepaald worden door de vermaaksfuncties van kunst in relatie tot het daarbij betrokken publiek.   
+
+### Subdomein  B5:  
+
+####Kunst, wetenschap en techniek
+
+6. De kandidaat kan aangeven hoe kunst en wetenschap/techniek op elkaar inwerken.   
+
+### Subdomein  B6:  
+
+####Kunst intercultureel
+
+7. De kandidaat kan aangeven hoe Westerse en niet-Westerse kunst en cultuur elkaar wederzijds beïnvloeden.   
+
+### Domein  C:  
+
+####Onderwerpen
+
+8. De kandidaat kan de eindtermen van domein A en B toepassen op voorbeelden uit de volgende onderwerpen: 
+
+– de cultuur van de kerk in de elfde tot en met veertiende eeuw;  
+
+– de hofcultuur in de zestiende en zeventiende eeuw;  
+
+– de burgerlijke cultuur van Nederland in de zeventiende eeuw;  
+
+– de cultuur van Romantiek en realisme in de negentiende eeuw;  
+
+– de cultuur van het moderne in de eerste helft van de twintigste eeuw;  
+
+– de massacultuur vanaf 1950.     
+
+####Examenprogramma kunst (beeldende vormgeving) vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaktheorie  |
+| Domein B  | Praktijk  |
+| Domein C  | Oriëntatie op studie en beroep.  |
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen. Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 160 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen. 
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaktheorie
+
+### Subdomein  A1:  
+
+####Beeldend werk van kunstenaars en vormgevers
+
+1. De kandidaat kan mede op basis van bronnenmateriaal het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren, rekening houdend met visies, doelen, tijd, plaats, functie, kunstopvattingen, normen en waarden en de historische ontwikkeling.   
+
+### Subdomein  A2:  
+
+####Beeldend werk van kunstenaars en vormgevers in relatie tot het eigen beeldend werk van de kandidaat
+
+2. De kandidaat kan beeldend werk van kunstenaars en vormgevers onderzoeken in relatie tot het eigen beeldend werk.   
+
+### Subdomein  A3:  
+
+####Eigen beeldend werk
+
+3. De kandidaat kan eigen beeldend werk en werkproces beschrijven en beargumenteerd evalueren.   
+
+### Domein  B:  
+
+####Praktijk
+
+4. De kandidaat kan probleemstellingen met betrekking tot zowel autonome als toegepaste beeldende kunst en vormgeving onderzoeken en de daaruit ontwikkelde ideeën in een beeldende verwerking uitvoeren, daarbij beeldende middelen aanwenden in een doelgericht werkproces en het werk zo presenteren dat de beschouwer inzicht krijgt in het werkproces.   
+
+### Domein  C:  
+
+####Oriëntatie op studie en beroep
+
+####Examenprogramma kunst (beeldende vormgeving) havo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaktheorie  |
+| Domein B  | Praktijk  |
+| Domein C  | Oriëntatie op studie en beroep.  |
+
+####Het centraal examen
+
+Het centraal examen is dat van het vak kunst (algemeen). 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen. Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 320 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 120 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen. 
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaktheorie
+
+### Subdomein  A1:  
+
+####Beeldend werk van kunstenaars en vormgevers
+
+1. De kandidaat kan mede op basis van bronnenmateriaal het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren, rekening houdend met visies, doelen, tijd, plaats, functie, kunstopvattingen, normen en waarden en de historische ontwikkeling.   
+
+### Subdomein  A2:  
+
+####Beeldend werk van kunstenaars en vormgevers in relatie tot het eigen beeldend werk van de kandidaat
+
+2. De kandidaat kan beeldend werk van kunstenaars en vormgevers onderzoeken in relatie tot het eigen beeldend werk.   
+
+### Subdomein  A3:  
+
+####Eigen beeldend werk
+
+3. De kandidaat kan eigen beeldend werk en werkproces beschrijven en beargumenteerd evalueren.   
+
+### Domein  B:  
+
+####Praktijk
+
+4. De kandidaat kan gestructureerde probleemstellingen met betrekking tot zowel autonome als toegepaste beeldende kunst en vormgeving onderzoeken en de daaruit ontwikkelde ideeën in een beeldende verwerking uitvoeren, daarbij beeldende middelen aanwenden in een doelgericht werkproces, en het werk zo presenteren dat de beschouwer inzicht krijgt in het werkproces.   
+
+### Domein  C:  
+
+####Oriëntatie op studie en beroep
+
+####Examenprogramma kunst (muziek) vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaktheorie  |
+| Domein B  | Praktijk  |
+| Domein C  | Oriëntatie op studie en beroep.  |
+
+####Het centraal examen
+
+Het centraal examen is dat van het vak kunst (algemeen). 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen. Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 160 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen. 
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaktheorie
+
+### Subdomein  A1:  
+
+####Waarnemen en weten
+
+1. De kandidaat kan: 
+
+– een muzieknotatie en een partituur volgen;  
+
+– klinkende eenvoudige ritmes en melodiefragmenten noteren;  
+
+– muzikale aspecten onderscheiden, herkennen en benoemen naar aanleiding van klinkende voorbeelden.     
+
+### Subdomein  A2:  
+
+####Analyseren en interpreteren
+
+2. De kandidaat kan: 
+
+– muzikale structuren analyseren naar aanleiding van klinkende voorbeelden;  
+
+– muzikale processen interpreteren;  
+
+– zijn muzikale beleving in verband brengen met de muzikale aspecten, betekenissen en functies van muziek.     
+
+### Subdomein  A3:  
+
+####Muziek en cultuur
+
+3. De kandidaat kan: 
+
+– historische ordening aanbrengen in de ontwikkeling van muzikale vormen en genres;  
+
+– hem bekende werken plaatsen in de ontwikkelingslijn van muzieksoorten, in een geografische regio en een maatschappelijke context en kan daarbij verbanden leggen tussen cultuurhistorische perioden;  
+
+– hem onbekende werken plaatsen op basis van culturele, stilistische, vormtechnische en muziekhistorische argumenten.     
+
+### Domein  B:  
+
+####Praktijk
+
+### Subdomein  B1:  
+
+####Zingen en spelen
+
+4. De kandidaat kan: 
+
+– een gevarieerd repertoire uitvoeren van één- en meerstemmige vocale en/of instrumentale muziek;  
+
+– onvoorbereid een melodie/muziekstuk spelen.     
+
+### Subdomein  B2:  
+
+####Improviseren en componeren
+
+5. De kandidaat kan muziek improviseren en componeren, vanuit een probleemstelling en met weloverwogen gebruik van muzikale materialen en middelen.   
+
+### Domein  C:  
+
+####Oriëntatie op studie en beroep
+
+####Examenprogramma kunst (muziek) havo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaktheorie  |
+| Domein B  | Praktijk  |
+| Domein C  | Oriëntatie op studie en beroep.  |
+
+####Het centraal examen
+
+Het centraal examen is dat van het vak kunst (algemeen). 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen. Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 320 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 120 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen. 
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaktheorie
+
+### Subdomein  A1:  
+
+####Waarnemen en weten
+
+1. De kandidaat kan: 
+
+– een muzieknotatie volgen;  
+
+– klinkende eenvoudige ritmes en melodiefragmenten noteren;  
+
+– muzikale aspecten onderscheiden, herkennen en benoemen naar aanleiding van klinkende voorbeelden.     
+
+### Subdomein  A2:  
+
+####Analyseren en interpreteren
+
+2. De kandidaat kan: 
+
+– muzikale structuren analyseren naar aanleiding van klinkende voorbeelden;  
+
+– muzikale processen interpreteren;  
+
+– zijn muzikale beleving in verband brengen met de muzikale aspecten, betekenissen en functies van muziek.     
+
+### Subdomein  A3:  
+
+####Muziek en cultuur
+
+3. De kandidaat kan: 
+
+– historische ordening aanbrengen in de ontwikkeling van muzikale vormen en genres;  
+
+– hem bekende werken plaatsen in de ontwikkelingslijn van muzieksoorten, in een geografische regio en een maatschappelijke context en kan daarbij verbanden leggen tussen cultuurhistorische perioden;  
+
+– hem onbekende werken plaatsen op basis van culturele, stilistische, vormtechnische en muziekhistorische argumenten.     
+
+### Domein  B:  
+
+####Praktijk
+
+### Subdomein  B1:  
+
+####Zingen en spelen
+
+4. De kandidaat kan: 
+
+– een gevarieerd repertoire uitvoeren van één- en meerstemmige vocale en/of instrumentale muziek;  
+
+– onvoorbereid een melodie/muziekstuk spelen.     
+
+### Subdomein  B2:  
+
+####Improviseren en componeren
+
+5. De kandidaat kan muziek improviseren en componeren, vanuit een probleemstelling en met weloverwogen gebruik van muzikale materialen en middelen.   
+
+### Domein  C:  
+
+####Oriëntatie op studie en beroep
+
+####Examenprogramma kunst (drama) vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaktheorie  |
+| Domein B  | Praktijk  |
+| Domein C  | Oriëntatie op studie en beroep.  |
+
+####Het centraal examen
+
+Het centraal examen is dat van het vak kunst (algemeen). 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen. Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 160 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen. 
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaktheorie
+
+### Subdomein  A1:  
+
+####Drama en maatschappij
+
+1. De kandidaat kan mede op basis van bronnenmateriaal in een gegeven cultureel-maatschappelijke context: 
+
+– kenmerken benoemen van theatrale uitingsvormen en orale tradities;  
+
+– samenhangen aangeven tussen functie, vorm en inhoud van toneel;  
+
+– dramatische aspecten benoemen van vormgegeven informatie op televisie en aangeven met welk doel ze zijn ingezet.     
+
+### Subdomein  A2:  
+
+####Geschiedenis
+
+2. De kandidaat kan de geschiedenis van het westerse theater in hoofdlijnen aangeven mede aan de hand van de historische en/of sociaal-maatschappelijke context van enkele speelstijlen en voor toneel belangrijke personen.   
+
+### Subdomein  A3:  
+
+####Betekenis
+
+3. De kandidaat kan: 
+
+– de onderlinge samenhang benoemen van de belangrijkste theatrale begrippen;  
+
+– theatrale conventies aangeven en aanwijzen, evenals de betekenissen die ze kunnen oproepen.     
+
+### Subdomein  A4:  
+
+####Beschouwen
+
+4. De kandidaat kan: 
+
+– een toneelvoorstelling informatief beschrijven;  
+
+– aangeven met welke theatrale middelen de inhoud vormgegeven is;  
+
+– een eigen mening geven over de effectiviteit van enkele van deze middelen.     
+
+### Domein  B:  
+
+####Praktijk
+
+### Subdomein  B1:  
+
+####Spelen
+
+5. De kandidaat kan: 
+
+– spelgegevens combineren en toepassen, en daarbij gebruikmaken van timing en verandering in stemgebruik en bewegingspatroon;  
+
+– de interactie tussen personages intensiveren door middel van actie en reactie;  
+
+– in spel een sociaal of maatschappelijk vraagstuk analyseren en onderzoeken.     
+
+### Subdomein  B2:  
+
+####Vormgeven
+
+6. De kandidaat kan: 
+
+– een rol opbouwen gebaseerd op personage en dramatische ontwikkeling;  
+
+– scènes creëren en realiseren, rekening houdend met de intentie ten opzichte van het publiek.     
+
+### Subdomein  B3:  
+
+####Presenteren
+
+7. De kandidaat kan: 
+
+– spel- en vormgevingsvaardigheden toepassen bij het optreden voor een publiek;  
+
+– het publiek van de nodige informatie voorzien.     
+
+### Domein  C:  
+
+####Oriëntatie op studie en beroep
+
+####Examenprogramma kunst (drama) havo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaktheorie  |
+| Domein B  | Praktijk  |
+| Domein C  | Oriëntatie op studie en beroep.  |
+
+####Het centraal examen
+
+Het centraal examen is dat van het vak kunst (algemeen). 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen. Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 320 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 120 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen. 
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaktheorie
+
+### Subdomein  A1:  
+
+####Drama en maatschappij
+
+1. De kandidaat kan mede op basis van bronnenmateriaal in een gegeven cultureel-maatschappelijke context: 
+
+– kenmerken benoemen van theatrale uitingsvormen en orale tradities;  
+
+– samenhangen aangeven tussen functie, vorm en inhoud van toneel;  
+
+– dramatische aspecten benoemen van vormgegeven informatie op televisie.     
+
+### Subdomein  A2:  
+
+####Betekenis
+
+2. De kandidaat kan theatrale conventies aangeven en aanwijzen, evenals de betekenissen die ze kunnen oproepen.   
+
+### Subdomein  A3:  
+
+####Beschouwen
+
+3. De kandidaat kan: 
+
+– een toneelvoorstelling informatief beschrijven;  
+
+– aangeven met welke theatrale middelen de inhoud vormgegeven is;  
+
+– een eigen mening geven over de effectiviteit van enkele van deze middelen.     
+
+### Domein  B:  
+
+####Praktijk
+
+### Subdomein  B1:  
+
+####Spelen
+
+4. De kandidaat kan: 
+
+– spelgegevens combineren en toepassen, en daarbij gebruikmaken van timing en verandering in stemgebruik en bewegingspatroon;  
+
+– de interactie tussen personages intensiveren door middel van actie en reactie;  
+
+– in spel een sociaal of maatschappelijk vraagstuk analyseren en onderzoeken.     
+
+### Subdomein  B2:  
+
+####Vormgeven
+
+5. De kandidaat kan: 
+
+– een rol opbouwen gebaseerd op personage en dramatische ontwikkeling;  
+
+– scènes creëren en realiseren, rekening houdend met de intentie ten opzichte van het publiek.     
+
+### Subdomein  B3:  
+
+####Presenteren
+
+6. De kandidaat kan: 
+
+– spel- en vormgevingsvaardigheden toepassen bij het optreden voor een publiek;  
+
+– het publiek van de nodige informatie voorzien.     
+
+### Domein  C:  
+
+####Oriëntatie op studie en beroep
+
+####Examenprogramma kunst (dans) vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaktheorie  |
+| Domein B  | Praktijk  |
+| Domein C  | Oriëntatie op studie en beroep.  |
+
+####Het centraal examen
+
+Het centraal examen is dat van het vak kunst (algemeen). 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen. Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 160 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen. 
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaktheorie
+
+### Subdomein  A1:  
+
+####Dans en maatschappij
+
+1. De kandidaat kan zelfstandig onderzoek verrichten naar een onderwerp dat direct of indirect verband houdt met dans, waarbij zowel de historisch-artistieke als cultureel-maatschappelijke en religieuze verbanden belicht worden.   
+
+### Subdomein  A2:  
+
+####Historische ontwikkeling
+
+2. De kandidaat kan de verschillende stromingen en genres binnen de westerse theaterdans benoemen en in verband brengen met de historisch-artistieke, cultureel-maatschappelijke en/of religieuze context, en kan omschrijven waaruit de invloed op en van niet-westerse (theater)dans bestaat.   
+
+### Subdomein  A3:  
+
+####Analyseren
+
+3. De kandidaat kan de choreografie, de structuur en de inhoud van dansstukken c.q. fragmenten beschrijven, met elkaar in verband brengen en op basis daarvan een eigen visie geven.   
+
+### Domein  B:  
+
+####Praktijk
+
+### Subdomein  B1:  
+
+####Dansen
+
+4. De kandidaat kan op een dansvaardige en expressieve wijze gevoelens, ervaringen en ideeën in dans vertalen en vertolken en daarbij doelgericht: 
+
+– samenwerken met anderen;  
+
+– muzikale, beeldende en dramatische elementen in dans hanteren.     
+
+### Subdomein  B2:  
+
+####Vormgeven
+
+5. De kandidaat kan: 
+
+– alleen of samen met anderen improviseren vanuit opdrachten;  
+
+– de resultaten structureren tot een herhaalbare compositie met gebruik van dansante aspecten en vormgevingsmiddelen;  
+
+– uitgangspunten, doel, keuzes en werkproces toelichten en verantwoorden.     
+
+### Subdomein  B3:  
+
+####Presenteren
+
+6. De kandidaat kan een danspresentatie: 
+
+– maken voor publiek met het accent op overdracht, vorm en inhoud van het gebodene;  
+
+– voorzien van beknopte publieksgerichte informatie.     
+
+### Domein  C:  
+
+####Oriëntatie op studie en beroep
+
+####Examenprogramma kunst (dans) havo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaktheorie  |
+| Domein B  | Praktijk  |
+| Domein C  | Oriëntatie op studie en beroep.  |
+
+####Het centraal examen
+
+Het centraal examen is dat van het vak kunst (algemeen). 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen. Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 320 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 120 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen. 
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaktheorie
+
+### Subdomein  A1:  
+
+####Dans en maatschappij
+
+1. De kandidaat kan zelfstandig onderzoek verrichten naar een onderwerp dat direct of indirect verband houdt met dans.   
+
+### Subdomein  A2:  
+
+####Historische ontwikkeling
+
+2. De kandidaat kan de verschillende stromingen en genres binnen de westerse theaterdans in grote lijnen benoemen en in verband brengen met de historisch-artistieke context, en dan omschrijven waaruit de invloed op en van niet-westerse (theater)dans bestaat.   
+
+### Subdomein  A3:  
+
+####Analyseren
+
+3. De kandidaat kan de choreografie van dansstukken c.q. fragmenten beschrijven, en met elkaar in verband brengen.   
+
+### Domein  B:  
+
+####Praktijk
+
+### Subdomein  B1:  
+
+####Dansen
+
+4. De kandidaat kan op een dansvaardige en expressieve wijze gevoelens, ervaringen en ideeën in dans vertalen en vertolken en daarbij doelgericht: 
+
+– samenwerken met anderen;  
+
+– muzikale, beeldende en dramatische elementen in dans hanteren.     
+
+### Subdomein  B2:  
+
+####Vormgeven
+
+5. De kandidaat kan: 
+
+– alleen of samen met anderen improviseren vanuit opdrachten;  
+
+– de resultaten structureren tot een herhaalbare compositie met gebruik van dansante aspecten en vormgevingsmiddelen.     
+
+### Subdomein  B3:  
+
+####Presenteren
+
+6. De kandidaat kan een danspresentatie maken voor publiek waarin dans- en vormgevingsvaardigheden functioneel zijn toegepast.   
+
+### Domein  C:  
+
+####Oriëntatie op studie en beroep
+
+####Examenprogramma muziek vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaktheorie  |
+| Domein B  | Praktijk  |
+| Domein C  | Oriëntatie op studie en beroep.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op domein A. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaktheorie
+
+### Subdomein  A1:  
+
+####Waarnemen en weten
+
+1. De kandidaat kan: 
+
+– een muzieknotatie en een partituur volgen;  
+
+– klinkende eenvoudige ritmes en melodiefragmenten noteren;  
+
+– muzikale aspecten onderscheiden, herkennen en benoemen naar aanleiding van klinkende voorbeelden.     
+
+### Subdomein  A2:  
+
+####Analyseren en interpreteren
+
+2. De kandidaat kan: 
+
+– muzikale structuren analyseren naar aanleiding van klinkende voorbeelden;  
+
+– muzikale processen interpreteren;  
+
+– zijn muzikale beleving in verband brengen met de muzikale aspecten, betekenissen en functies van muziek.     
+
+### Subdomein  A3:  
+
+####Muziek en cultuur
+
+3. De kandidaat kan: 
+
+– historische ordening aanbrengen in de ontwikkeling van muzikale vormen en genres;  
+
+– hem bekende werken plaatsen in de ontwikkelingslijn van muzieksoorten, in een geografische regio en een maatschappelijke context en kan daarbij verbanden leggen tussen cultuurhistorische perioden;  
+
+– hem onbekende werken plaatsen op basis van culturele, stilistische, vormtechnische en muziekhistorische argumenten;  
+
+– op basis van een probleemstelling een onderwerp uit de muziekgeschiedenis/muziekcultuur uitwerken en daarover verslag doen.     
+
+### Domein  B:  
+
+####Praktijk
+
+### Subdomein  B1:  
+
+####Zingen en spelen
+
+4. De kandidaat kan: 
+
+– een gevarieerd repertoire uitvoeren van één- en meerstemmige vocale en/of instrumentale muziek;  
+
+– onvoorbereid een melodie/muziekstuk spelen;  
+
+– een melodie treffen.     
+
+### Subdomein  B2:  
+
+####Improviseren en componeren
+
+5. De kandidaat kan muziek improviseren en componeren, vanuit een probleemstelling en met weloverwogen gebruik van muzikale materialen en middelen.   
+
+### Domein  C:  
+
+####Oriëntatie op studie en beroep
+
+####Examenprogramma muziek havo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaktheorie  |
+| Domein B  | Praktijk  |
+| Domein C  | Oriëntatie op studie en beroep.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op domein A. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaktheorie
+
+### Subdomein  A1:  
+
+####Waarnemen en weten
+
+1. De kandidaat kan: 
+
+– een muzieknotatie volgen;  
+
+– klinkende eenvoudige ritmes en melodiefragmenten noteren;  
+
+– muzikale aspecten onderscheiden, herkennen en benoemen naar aanleiding van klinkende voorbeelden.     
+
+### Subdomein  A2:  
+
+####Analyseren en interpreteren
+
+2. De kandidaat kan: 
+
+– muzikale structuren analyseren naar aanleiding van klinkende voorbeelden;  
+
+– muzikale processen interpreteren;  
+
+– zijn muzikale beleving in verband brengen met de muzikale aspecten, betekenissen en functies van muziek.     
+
+### Subdomein  A3:  
+
+####Muziek en cultuur
+
+3. De kandidaat kan: 
+
+– historische ordening aanbrengen in de ontwikkeling van muzikale vormen en genres;  
+
+– hem bekende werken plaatsen in de ontwikkelingslijn van muzieksoorten, in een geografische regio en een maatschappelijke context en kan daarbij verbanden leggen tussen cultuurhistorische perioden;  
+
+– hem onbekende werken plaatsen op basis van culturele, stilistische, vormtechnische en muziekhistorische argumenten;  
+
+– op basis van een probleemstelling een onderwerp uit de muziekgeschiedenis/muziekcultuur uitwerken en daarover verslag doen.     
+
+### Domein  B:  
+
+####Praktijk
+
+### Subdomein  B1:  
+
+####Zingen en spelen
+
+4. De kandidaat kan: 
+
+– een gevarieerd repertoire uitvoeren van één- en meerstemmige vocale en/of instrumentale muziek;  
+
+– onvoorbereid een melodie/muziekstuk spelen;  
+
+– een melodie treffen.     
+
+### Subdomein  B2:  
+
+####Improviseren en componeren
+
+5. De kandidaat kan muziek improviseren en componeren, vanuit een probleemstelling en met weloverwogen gebruik van muzikale materialen en middelen.   
+
+### Domein  C:  
+
+####Oriëntatie op studie en beroep
+
+####Examenprogramma tekenen vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaktheorie  |
+| Domein B  | Praktijk  |
+| Domein C  | Oriëntatie op studie en beroep.  |
+
+####Het centraal examen
+
+Het centraal examen bestaat uit een theoretisch en een praktisch gedeelte. Het theoretische gedeelte heeft betrekking op domein A. Het praktische gedeelte heeft betrekking op de (sub)domeinen A2 en B. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaktheorie
+
+### Subdomein  A1:  
+
+####Beschrijven, onderzoeken en interpreteren
+
+1. De kandidaat kan mede op basis van bronnenmateriaal het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren, rekening houdend met tijd, plaats, functie, kunstopvattingen, normen en waarden en de historische ontwikkeling.   
+
+### Subdomein  A2:  
+
+####Beschouwen
+
+2. De kandidaat kan twee- en driedimensionale beelden en vormen beschouwen en kan deze beschouwing verwoorden en/of verbeelden.   
+
+### Domein  B:  
+
+####Praktijk
+
+3. De kandidaat kan probleemstellingen met betrekking tot zowel autonome als toegepaste beeldende kunst en vormgeving onderzoeken en de daaruit ontwikkelde ideeën in een beeldende verwerking uitvoeren, daarbij beeldende middelen aanwenden in een doelgericht werkproces en het werk zo presenteren dat de beschouwer inzicht krijgt in het werkproces.   
+
+### Domein  C:  
+
+####Oriëntatie op studie en beroep
+
+####Examenprogramma tekenen havo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaktheorie  |
+| Domein B  | Praktijk  |
+| Domein C  | Oriëntatie op studie en beroep.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op domein A. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaktheorie
+
+### Subdomein  A1:  
+
+####Beschrijven, onderzoeken en interpreteren
+
+1. De kandidaat kan het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren, met gebruikmaking van kennis van en inzicht in de geschiedenis van de beeldende kunst: 
+
+– van de 19e, 20e en 21e eeuw;  
+
+– vanaf het Romaans, voor zover relevant voor de kunst van de 19e, 20e en 21e eeuw.     
+
+### Subdomein  A2:  
+
+####Beschouwen
+
+2. De kandidaat kan twee- en driedimensionale beelden en vormen beschouwen en kan deze beschouwing verwoorden en/of verbeelden.   
+
+### Domein  B:  
+
+####Praktijk
+
+3. De kandidaat kan gestructureerde probleemstellingen met betrekking tot zowel autonome als toegepaste beeldende kunst en vormgeving onderzoeken en de daaruit ontwikkelde ideeën in een beeldende verwerking uitvoeren, daarbij beeldende middelen aanwenden in een doelgericht werkproces, en het werk zo presenteren dat de beschouwer inzicht krijgt in het werkproces.   
+
+### Domein  C:  
+
+####Oriëntatie op studie en beroep
+
+####Examenprogramma handvaardigheid vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaktheorie  |
+| Domein B  | Praktijk  |
+| Domein C  | Oriëntatie op studie en beroep.  |
+
+####Het centraal examen
+
+Het centraal examen bestaat uit een theoretisch en een praktisch gedeelte. Het theoretische gedeelte heeft betrekking op domein A. Het praktische gedeelte heeft betrekking op de (sub)domeinen A2 en B. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaktheorie
+
+### Subdomein  A1:  
+
+####Beschrijven, onderzoeken en interpreteren
+
+1. De kandidaat kan mede op basis van bronnenmateriaal het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren, rekening houdend met tijd, plaats, functie, kunstopvattingen, normen en waarden en de historische ontwikkeling.   
+
+### Subdomein  A2:  
+
+####Beschouwen
+
+2. De kandidaat kan twee- en driedimensionale beelden en vormen beschouwen en kan deze beschouwing verwoorden en/of verbeelden.   
+
+### Domein  B:  
+
+####Praktijk
+
+3. De kandidaat kan probleemstellingen met betrekking tot zowel autonome als toegepaste beeldende kunst en vormgeving onderzoeken en de daaruit ontwikkelde ideeën in een beeldende verwerking uitvoeren, daarbij beeldende middelen aanwenden in een doelgericht werkproces en het werk zo presenteren dat de beschouwer inzicht krijgt in het werkproces.   
+
+### Domein  C:  
+
+####Oriëntatie op studie en beroep
+
+####Examenprogramma handvaardigheid havo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaktheorie  |
+| Domein B  | Praktijk  |
+| Domein C  | Oriëntatie op studie en beroep.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op domein A. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaktheorie
+
+### Subdomein  A1:  
+
+####Beschrijven, onderzoeken en interpreteren
+
+1. De kandidaat kan het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren, met gebruikmaking van kennis van en inzicht in de geschiedenis van de beeldende kunst: 
+
+– van de 19e, 20e en 21e eeuw;  
+
+– vanaf het Romaans, voor zover relevant voor de kunst van de 19e, 20e en 21e eeuw.     
+
+### Subdomein  A2:  
+
+####Beschouwen
+
+2. De kandidaat kan twee- en driedimensionale beelden en vormen beschouwen en kan deze beschouwing verwoorden en/of verbeelden.   
+
+### Domein  B:  
+
+####Praktijk
+
+3. De kandidaat kan gestructureerde probleemstellingen met betrekking tot zowel autonome als toegepaste beeldende kunst en vormgeving onderzoeken en de daaruit ontwikkelde ideeën in een beeldende verwerking uitvoeren, daarbij beeldende middelen aanwenden in een doelgericht werkproces, en het werk zo presenteren dat de beschouwer inzicht krijgt in het werkproces.   
+
+### Domein  C:  
+
+####Oriëntatie op studie en beroep
+
+####Examenprogramma textiele vormgeving vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaktheorie  |
+| Domein B  | Praktijk  |
+| Domein C  | Oriëntatie op studie en beroep.  |
+
+####Het centraal examen
+
+Het centraal examen bestaat uit een theoretisch en een praktisch gedeelte. Het theoretische gedeelte heeft betrekking op domein A. Het praktische gedeelte heeft betrekking op de (sub)domeinen A2 en B. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaktheorie
+
+### Subdomein  A1:  
+
+####Beschrijven, onderzoeken en interpreteren
+
+1. De kandidaat kan mede op basis van bronnenmateriaal het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren, rekening houdend met tijd, plaats, functie, kunstopvattingen, normen en waarden en de historische ontwikkeling.   
+
+### Subdomein  A2:  
+
+####Beschouwen
+
+2. De kandidaat kan twee- en driedimensionale beelden en vormen beschouwen en kan deze beschouwing verwoorden en/of verbeelden.   
+
+### Domein  B:  
+
+####Praktijk
+
+3. De kandidaat kan probleemstellingen met betrekking tot zowel autonome als toegepaste beeldende kunst en vormgeving onderzoeken en de daaruit ontwikkelde ideeën in een beeldende verwerking uitvoeren, daarbij beeldende middelen aanwenden in een doelgericht werkproces en het werk zo presenteren dat de beschouwer inzicht krijgt in het werkproces.   
+
+### Domein  C:  
+
+####Oriëntatie op studie en beroep
+
+####Examenprogramma textiele vormgeving havo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaktheorie  |
+| Domein B  | Praktijk  |
+| Domein C  | Oriëntatie op studie en beroep.  |
+
+####Het centraal examen
+
+Het centraal examen heeft betrekking op domein A. 
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op: 
+
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaktheorie
+
+### Subdomein  A1:  
+
+####Beschrijven, onderzoeken en interpreteren
+
+1. De kandidaat kan het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren, met gebruikmaking van kennis van en inzicht in de geschiedenis van de beeldende kunst: 
+
+– van de 19e, 20e en 21e eeuw;  
+
+– vanaf het Romaans, voor zover relevant voor de kunst van de 19e, 20e en 21e eeuw.     
+
+### Subdomein  A2:  
+
+####Beschouwen
+
+2. De kandidaat kan twee- en driedimensionale beelden en vormen beschouwen en kan deze beschouwing verwoorden en/of verbeelden.   
+
+### Domein  B:  
+
+####Praktijk
+
+3. De kandidaat kan gestructureerde probleemstellingen met betrekking tot zowel autonome als toegepaste beeldende kunst en vormgeving onderzoeken en de daaruit ontwikkelde ideeën in een beeldende verwerking uitvoeren, daarbij beeldende middelen aanwenden in een doelgericht werkproces, en het werk zo presenteren dat de beschouwer inzicht krijgt in het werkproces.   
+
+### Domein  C:  
+
+####Oriëntatie op studie en beroep
+
+####Examenprogramma moderne vreemde talen en literatuur (elementair) havo/vwo
+
+Arabisch, Italiaans, Russisch, Spaans, Turks  
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Leesvaardigheid  |
+| Domein B  | Kijk- en luistervaardigheid  |
+| Domein C  | Gespreksvaardigheid  |
+| Domein D  | Schrijfvaardigheid (geldt niet voor Arabisch en Russisch).  |
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op: 
+
+– de domeinen A, B, C, D;  
+
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.   
+
+####De examenstof
+
+### Domein  A:  
+
+####Leesvaardigheid
+
+1. De kandidaat kan: 
+
+– aangeven welke informatie relevant is, gegeven een vaststaande behoefte;  
+
+– de hoofdgedachte van een tekst(gedeelte) aangeven;  
+
+– de betekenis van belangrijke elementen van een tekst aangeven;  
+
+– relaties tussen delen van een tekst aangeven;  
+
+– conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur.     
+
+### Domein  B:  
+
+####Kijk- en luistervaardigheid
+
+2. De kandidaat kan: 
+
+– aangeven welke informatie relevant is, gegeven een vaststaande behoefte;  
+
+– de hoofdgedachte van een tekst aangeven;  
+
+– de betekenis van belangrijke elementen van een tekst aangeven;  
+
+– aantekeningen maken als strategie om een tekst aan te pakken.     
+
+### Domein  C:  
+
+####Gespreksvaardigheid
+
+### Subdomein  C1:  
+
+####Gesprekken voeren
+
+3. De kandidaat kan: 
+
+– adequaat reageren in sociale contacten met doeltaalgebruikers;  
+
+– informatie vragen en verstrekken;  
+
+– uitdrukking geven aan gevoelens;  
+
+– zaken of personen beschrijven;  
+
+– enkele strategieën toepassen om een gesprek gaande te houden.     
+
+### Subdomein  C2:  
+
+####Spreken
+
+4. De kandidaat kan verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en standpunten verwoorden.   
+
+### Domein  D:  
+
+####Schrijfvaardigheid (geldt niet voor Arabisch en Russisch)
+
+### Subdomein  D1:  
+
+####Taalvaardigheden
+
+5. De kandidaat kan: 
+
+– adequaat reageren in schriftelijke contacten met doeltaalgebruikers;  
+
+– informatie vragen en verstrekken;  
+
+– verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en uitdrukking geven aan gevoelens en standpunten verwoorden.     
+
+### Subdomein  D2:  
+
+####Strategische vaardigheden
+
+6. De kandidaat kan met behulp van: 
+
+– een tekstverwerkingsprogramma een tekst schrijven;  
+
+– (elektronisch) naslagmateriaal teksten opstellen.     
+
+####Examenprogramma bewegen, sport en maatschappij vwo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaardigheden  |
+| Domein B  | Bewegen  |
+| Domein C  | Bewegen en regelen  |
+| Domein D  | Bewegen en gezondheid  |
+| Domein E  | Bewegen en samenleving.  |
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verstande dat de eindtermen uit de domeinen A en C, D en E in beginsel in samenhang met domein B aan de orde komen), en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen. 
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+1. De kandidaat kan bewegingssituaties kiezen, arrangeren en begeleiden, voor zichzelf maar vooral voor anderen, en daar op reflecteren.   
+
+### Domein  B:  
+
+####Bewegen
+
+### Subdomein  B1:  
+
+####Spelen
+
+2. De kandidaat kan deelnemen aan minimaal één doelspel, één terugslagspel en één slag- en loopspel, waarbij het gaat om verdieping van het niveau van deelname voor wat betreft complexiteit van het bewegen, diversiteit in taken en in contexten en het afstemmen van het eigen bewegen op dat van anderen.   
+
+### Subdomein  B2:  
+
+####Turnen
+
+3. De kandidaat kan deelnemen aan meerdere turnactiviteiten binnen twee van de volgende deelgebieden: springen, zwaaien, acrobatiek, balanceren en klimmen, waarbij het gaat om verdieping van het niveau van deelnemen, individueel en samen.   
+
+### Subdomein  B3:  
+
+####Bewegen op muziek
+
+4. De kandidaat kan twee dansen van minimaal zestien muzikale lengtes uitvoeren binnen één of meerdere deelgebieden van bewegen op muziek, waarbij het gaat om verdieping ten aanzien van veranderingen van tijd en ruimte, opeenvolging van verbindingen en veranderingen van opstelling en positie van de dansers ten opzichte van elkaar.   
+
+### Subdomein  B4:  
+
+####Atletiek
+
+5. De kandidaat kan deelnemen aan minimaal één looponderdeel, één werponderdeel en één springonderdeel, waarbij het steeds gaat om verdieping van de juiste afstemming van de constituerende elementen (timing, richting, snelheid, afstand) ten opzichte van elkaar.   
+
+### Subdomein  B5:  
+
+####Zelfverdedigingspelen
+
+6. De kandidaat kan deelnemen aan minimaal één zelfverdedigingspel, in partij- en/of demonstratievorm, waarbij het gaat om verdieping van de eigen aanvallende initiatieven en het goed reageren op initiatieven van de partner.   
+
+### Subdomein  B6:  
+
+####Keuzeactiviteiten
+
+7. De kandidaat kan deelnemen aan minimaal twee door de leerling te kiezen bewegingsactiviteiten die niet tot één van de hierboven genoemde activiteitengebieden behoren, waarbij het gaat om leren van de beginselen of het verdiepen van de bestaande bekwaamheid.   
+
+### Domein  C:  
+
+####Bewegen en regelen
+
+### Subdomein  C1:  
+
+####Regelen in de rol van beweger
+
+8. De kandidaat kan er in bewegingssituaties medeverantwoordelijkheid voor dragen dat bewegingssituaties zelfstandig en veilig ontworpen en ingericht worden, op gang gebracht, op gang gehouden en beëindigd worden en indien wenselijk worden aangepast aan de kenmerken en de wensen van de deelnemers.   
+
+### Subdomein  C2:  
+
+####Regelen in de rol van begeleider
+
+9. De kandidaat kan bij bewegingsactiviteiten van een groep deelnemers de rollen van instructeur, coach/begeleider, scheidsrechter/spelleider en jurylid vervullen.   
+
+### Subdomein  C3:  
+
+####Regelen in de rol van organisator
+
+10. De kandidaat in binnen- of buitenschools verband een bewegingsactiviteit (helpen) voorbereiden, organiseren, evalueren en daarvan verslag doen, waarbij de gekozen organisatievorm moet passen bij de (context van de) bewegingsactiviteit.   
+
+### Subdomein  C4:  
+
+####Reflecteren op het regelen van bewegen
+
+11. De kandidaat kan aangeven en verklaren welke (mentale, sociale, biomechanische en trainingskundige) factoren een rol spelen bij de begeleiding van individuen en groepen in uiteenlopende bewegingssituaties.   
+
+### Domein  D:  
+
+####Bewegen en gezondheid
+
+### Subdomein  D1:  
+
+####Bewegen en welzijn
+
+12. De kandidaat kan verklaren welke betekenis sport en bewegen heeft voor de gezondheid in ruime zin, ook in relatie tot andere persoonsgebonden en maatschappelijke gezondheidsbeïnvloedende factoren.   
+
+### Subdomein  D2:  
+
+####Fitheid testen en verbeteren
+
+13. De kandidaat kan een aantal fitheidtesten toepassen, de resultaten daarvan interpreteren en op basis van de waarde daarvan voor de verbetering van het prestatievermogen een specifiek trainingsprogramma kiezen en opstellen voor zichzelf, een ander of een groep.   
+
+### Subdomein  D3:  
+
+####Bewegen en risico's
+
+14. De kandidaat kan bij de inrichting van en deelname aan bewegings- en werksituaties laten zien dat hij oog heeft voor de eigen veiligheid en die van anderen en hij kan aangeven hoe adequaat met overbelasting kan worden omgegaan en daartoe waar nodig deskundige hulp inroepen.   
+
+### Domein  E:  
+
+####Bewegen en samenleving
+
+### Subdomein  E1:  
+
+####Toekomstoriëntati*e* 
+
+15. De kandidaat kan op basis van eigen ervaring met werkzaamheden in het werkveld sport en bewegen een bewuste keuze maken voor de eigen (toekomstige) rol in dat werkveld.   
+
+### Subdomein  E2:  
+
+####De ontwikkeling van de bewegingscultuur
+
+16. De kandidaat kan de ontwikkeling van en de diverse aspecten en verschijningsvormen van de huidige bewegingscultuur verklaren en aangeven welke factoren daarop van invloed zijn geweest.   
+
+### Subdomein  E3:  
+
+####Mens en bewegen
+
+17. De kandidaat kan aangeven hoe persoonlijke en omgevingsfactoren in uiteenlopende leeftijdsfasen en omstandigheden een rol kunnen spelen bij het maken van keuzes ten aanzien van deelname aan bewegingscultuur.   
+
+### Subdomein  E4:  
+
+####Maatschappij en bewegen
+
+18. De kandidaat kan aangeven hoe maatschappelijke factoren van invloed zijn op actieve en passieve sportbeoefening en wat de maatschappelijke betekenis van sport en bewegen voor de samenleving kan zijn.   
+
+### Subdomein  E5:  
+
+####De organisatie van sport en bewegen
+
+19. De kandidaat kan de kenmerkende overeenkomsten en verschillen in structuur, de organisatie van en het beleid ten aanzien van sport en bewegen op meerdere niveaus en in meerdere verschijningsvormen aangeven.   
+
+####Examenprogramma bewegen, sport en maatschappij havo
+
+####Het eindexamen
+
+Het eindexamen bestaat uit het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:  
+
+| --- | --- |
+|:---|:---|
+| Domein A  | Vaardigheden  |
+| Domein B  | Bewegen  |
+| Domein C  | Bewegen en regelen  |
+| Domein D  | Bewegen en gezondheid  |
+| Domein E  | Bewegen en samenleving.  |
+
+####Het schoolexamen
+
+Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verstande dat de eindtermen uit de domeinen A en C, D en E in beginsel in samenhang met domein B aan de orde komen), en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen. 
+
+####De examenstof
+
+### Domein  A:  
+
+####Vaardigheden
+
+1. De kandidaat kan bewegingssituaties kiezen, arrangeren en begeleiden, voor zichzelf maar vooral voor anderen.   
+
+### Domein  B:  
+
+####Bewegen
+
+### Subdomein  B1:  
+
+####Spelen
+
+2. De kandidaat kan deelnemen aan minimaal één doelspel, één terugslagspel en één slag- en loopspel, waarbij het gaat om verdieping van het niveau van deelname voor wat betreft complexiteit van het bewegen, diversiteit in taken en in contexten en het afstemmen van het eigen bewegen op dat van anderen.   
+
+### Subdomein  B2:  
+
+####Turnen
+
+3. De kandidaat kan deelnemen aan meerdere turnactiviteiten binnen twee van de volgende deelgebieden: springen, zwaaien, acrobatiek, balanceren en klimmen, waarbij het gaat om verdieping van het niveau van deelnemen, individueel en samen.   
+
+### Subdomein  B3:  
+
+####Bewegen op muziek
+
+4. De kandidaat kan twee dansen van minimaal zestien muzikale lengtes uitvoeren binnen één of meerdere deelgebieden van bewegen op muziek, waarbij het gaat om verdieping ten aanzien van veranderingen van tijd en ruimte, opeenvolging van verbindingen en veranderingen van opstelling en positie van de dansers ten opzichte van elkaar.   
+
+### Subdomein  B4:  
+
+####Atletiek
+
+5. De kandidaat kan deelnemen aan minimaal één looponderdeel, één werponderdeel en één springonderdeel, waarbij het steeds gaat om verdieping van de juiste afstemming van de constituerende elementen (timing, richting, snelheid, afstand) ten opzichte van elkaar.   
+
+### Subdomein  B5:  
+
+####Zelfverdedigingspelen
+
+6. De kandidaat kan deelnemen aan minimaal één zelfverdedigingsspel, in partij- en/of demonstratievorm, waarbij het gaat om verdieping van de eigen aanvallende initiatieven en het goed reageren op initiatieven van de partner.   
+
+### Subdomein  B6:  
+
+####Keuzeactiviteiten
+
+7. De kandidaat kan deelnemen aan minimaal twee door de leerling te kiezen bewegingsactiviteiten die niet tot één van de hierboven genoemde activiteitengebieden behoren, waarbij het gaat om leren van de beginselen of het verdiepen van de bestaande bekwaamheid.   
+
+### Domein  C:  
+
+####Bewegen en regelen
+
+### Subdomein  C1:  
+
+####Regelen in de rol van beweger
+
+8. De kandidaat kan er in bewegingssituaties medeverantwoordelijkheid voor dragen dat bewegingssituaties zelfstandig en veilig ontworpen en ingericht worden, op gang gebracht, op gang gehouden en beëindigd worden en indien wenselijk worden aangepast aan de kenmerken en de wensen van de deelnemers.   
+
+### Subdomein  C2:  
+
+####Regelen in de rol van begeleider
+
+9. De kandidaat kan bij bewegingsactiviteiten van een groep deelnemers de rollen van instructeur, coach/begeleider, scheidsrechter/spelleider en jurylid vervullen.   
+
+### Subdomein  C3:  
+
+####Regelen in de rol van organisator
+
+10. De kandidaat kan in binnen- of buitenschools verband een bewegingsactiviteit (helpen) voorbereiden, organiseren, evalueren en daarvan verslag doen, waarbij de gekozen organisatievorm moet passen bij de (context van de) bewegingsactiviteit.   
+
+### Domein  D:  
+
+####Bewegen en gezondheid
+
+### Subdomein  D1:  
+
+####Bewegen en welzijn
+
+11. De kandidaat kan verklaren welke betekenis sport en bewegen heeft voor de gezondheid in ruime zin, ook in relatie tot andere persoonsgebonden en maatschappelijke gezondheidsbeïnvloedende factoren.   
+
+### Subdomein  D2:  
+
+####Fitheid testen en verbeteren
+
+12. De kandidaat kan een aantal fitheidstesten toepassen, de resultaten daarvan interpreteren en op basis van de waarde daarvan voor de verbetering van het prestatievermogen een trainingsprogramma kiezen en opstellen voor zichzelf, een ander of een groep.   
+
+### Subdomein  D3:  
+
+####Blessurepreventie en -behandeling
+
+13. De kandidaat kan bij de inrichting van en deelname aan bewegingssituaties laten zien dat hij oog heeft voor de eigen veiligheid en die van anderen en hij kan de meest voorkomende blessures correct herkennen, daarbij eerste hulp verlenen en waar nodig deskundige hulp inroepen.   
+
+### Domein  E:  
+
+####Bewegen en samenleving
+
+### Subdomein  E1:  
+
+####Toekomstoriëntatie
+
+14. De kandidaat kan op basis van eigen ervaring met werkzaamheden in het werkveld sport en bewegen een bewuste keuze maken voor de eigen (toekomstige) rol in dat werkveld.   
+
+### Subdomein  E2:  
+
+####Samenleving en bewegingscultuur
+
+15. De kandidaat kan de ontwikkeling van en de diverse aspecten en verschijningsvormen van de huidige bewegingscultuur verklaren en aangeven welke factoren van invloed zijn op de deelname van verschillende bevolkingsgroepen aan de bewegingscultuur.   
+
+### Subdomein  E3:  
+
+####De organisatie van sport en bewegen
+
+16. De kandidaat kan de kenmerkende overeenkomsten en verschillen in structuur en organisatie van sport en bewegen op meerdere niveaus en in meerdere verschijningsvormen aangeven.   
+
+###Bijlage 2 
+
+####, behorende bij artikel 2  van de Regeling examenprogramma’s voortgezet onderwijs
 
 ####Examenprogramma vmbo
 
@@ -362,34 +8144,58 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 
 ####Engelse taal
 
-|--- |--- | BB  | KB  | GL/TL  |
+| --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| MVT/K/1  | Oriëntatie op leren en werken  | --- | --- | --- |
-| --- | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van de Moderne Vreemde Talen in de maatschappij.  | X  | X  | X  |
-| MVT/K/2  | Basisvaardigheden  | --- | --- | --- |
-| --- | De kandidaat kan basisvaardigheden toepassen die betrekking hebben op communiceren, samenwerken en informatie verwerven, verwerken en presenteren.  | X  | X  | X  |
-| MVT/K/3  | Leervaardigheden in de Moderne Vreemde Talen  | CE  | CE  | CE  |
-| --- | De kandidaat kan strategische vaardigheden toepassen die bijdragen tot:  het bereiken van verschillende lees-, schrijf-, luister- en kijk-, en spreek-en gespreksdoelen  de bevordering van het eigen taalleerproces  het compenseren van eigen tekortschietende taalkennis of communicatieve kennis.  kennis van land en samenleving toepassen bij het herkennen van cultuuruitingen  | X  | X  | X  |
-| MVT/K/4  | Leesvaardigheid  | CE  | CE  | CE  |
-| --- | De kandidaat kan:  aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  de hoofdgedachte van een tekst(gedeelte) aangeven  de betekenis van belangrijke elementen van een tekst aangeven  gegevens uit één of meer teksten met elkaar vergelijken en daaruit conclusies trekken  verbanden tussen delen van een tekst aangeven.  | X  | X  | X  |
-| MVT/K/5  | Luister- en kijkvaardigheid ¹   | CE  | CE  | CE  |
-| --- | De kandidaat kan:  aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  de hoofdgedachte van een tekst(gedeelte) aangeven  de betekenis van belangrijke elementen van een tekst aangeven  anticiperen op het meest waarschijnlijke vervolg van een gesprek.  | X  | X  | X  |
-| MVT/K/6  | Gespreksvaardigheid  | --- | --- | --- |
-| --- | De kandidaat kan:  adequaat reageren in veel voorkomende sociale contacten, zoals begroeten  informatie geven en vragen  naar een mening/oordeel vragen en een mening/oordeel geven  uitdrukking geven aan en vragen naar (persoonlijke) gevoelens  een persoon, object of gebeurtenis, ook uit het verleden en in de toekomst, beschrijven.  | X  | X  | X  |
-| MVT/K/7  | Schrijfvaardigheid ²   | CE  | CE  | CE  |
-| --- | De kandidaat kan:  (persoonlijke) gegevens verstrekken  een kort bedankje, groet of goede wensen schriftelijk overbrengen  een briefje schrijven om informatie te vragen of te geven, om verzoeken of voorstellen te doen of daarop te reageren, om gevoelens te uiten en ernaar te vragen  op eenvoudig niveau briefconventies gebruiken.  | X  | X  | X  |
-| MVT/V/1  | Leesvaardigheid  | --- | --- | CE  |
-| --- | De kandidaat kan:  het gebruik van speciale stijlmiddelen herkennen  conclusies trekken met betrekking tot het schrijfdoel, de opvattingen, de gevoelens van de auteur en tot het beoogde publiek.  | --- | --- | X  |
-| MVT/V/2  | Schrijfvaardigheid  | --- | --- | CE  |
-| --- | De kandidaat kan een formele brief schrijven om informatie te vragen of om iets te arrangeren of af te zeggen.  | --- | --- | X  |
-| MVT/V/3  | Kennis van land en samenleving  | nvt  | nvt  | nvt  |
-| --- | De kandidaat kan kennis van land en samenleving rond bepaalde onderwerpen toepassen bij het herkennen en interpreteren van cultuuruitingen die specifiek zijn voor het taalgebied of daarmee in directe relatie staan.  | --- | --- | --- |
-| MVT/V/4  | Verwerven, verwerken en verstrekken van informatie  | --- | --- | --- |
-| --- | De kandidaat kan zelfstandig informatie verwerven, verwerken en verstrekken in het kader van het sectorwerkstuk.  | --- | --- | X  |
-| MVT/V/5  | Vaardigheden in samenhang  | --- | --- | CE  |
-| --- | De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.  | --- | --- | X  |
+| --- | --- | *BB*  | *KB*  | *GL/TL*  |
+| *MVT/K/1*  | *Oriëntatie op leren en werken*  | --- | --- | --- |
+| 1.  | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van de Moderne Vreemde Talen in de maatschappij.  | X  | X  | X  |
+| *MVT/K/2 *  | *Basisvaardigheden *  | --- | --- | --- |
+| 2.  | De kandidaat kan basisvaardigheden toepassen die betrekking hebben op communiceren, samenwerken en informatie verwerven, verwerken en presenteren  | X  | X  | X  |
+| *MVT/K/3 *  | *Leervaardigheden in de Moderne Vreemde Talen *  | *CE *  | *CE *  | *CE *  |
+| --- | De kandidaat kan strategische vaardigheden toepassen die bijdragen tot:  | X  | X  | X  |
+| 3.  | − het bereiken van verschillende lees-, schrijf-, luister- en kijk-, en spreek-en gespreksdoelen  | --- | --- | --- |
+| --- | − de bevordering van het eigen taalleerproces  | --- | --- | --- |
+| --- | − het compenseren van eigen tekortschietende taalkennis of communicatieve kennis.  | --- | --- | --- |
+| --- | − kennis van land en samenleving toepassen bij het herkennen van cultuuruitingen  | --- | --- | --- |
+| *MVT/K/4 *  | *Leesvaardigheid *  | *CE *  | *CE *  | *CE *  |
+| --- | De kandidaat kan:  | X  | X  | X  |
+| 4.  | − aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  | --- | --- | --- |
+| --- | − de hoofdgedachte van een tekst(gedeelte) aangeven  | --- | --- | --- |
+| --- | − de betekenis van belangrijke elementen van een tekst aangeven  | --- | --- | --- |
+| --- | − gegevens uit één of meer teksten met elkaar vergelijken en daaruit conclusies trekken  | --- | --- | --- |
+| --- | − verbanden tussen delen van een tekst aangeven.  | --- | --- | --- |
+| *MVT/K/5 *  | *Luister- en kijkvaardigheid [1]*  | *CE *  | *CE *  | *CE *  |
+| --- | De kandidaat kan:  | X  | X  | X  |
+| 5.  | − aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  | --- | --- | --- |
+| --- | − de hoofdgedachte van een tekst(gedeelte) aangeven  | --- | --- | --- |
+| --- | − de betekenis van belangrijke elementen van een tekst aangeven  | --- | --- | --- |
+| --- | − anticiperen op het meest waarschijnlijke vervolg van een gesprek.  | --- | --- | --- |
+| *MVT/K/6 *  | *Gespreksvaardigheid *  | --- | --- | --- |
+| --- | De kandidaat kan:  | X  | X  | X  |
+| 6.  | − adequaat reageren in veel voorkomende sociale contacten, zoals begroeten  | --- | --- | --- |
+| --- | − informatie geven en vragen  | --- | --- | --- |
+| --- | − naar een mening/oordeel vragen en een mening/oordeel geven  | --- | --- | --- |
+| --- | − uitdrukking geven aan en vragen naar (persoonlijke) gevoelens  | --- | --- | --- |
+| --- | − een persoon, object of gebeurtenis, ook uit het verleden en in de toekomst, beschrijven.  | --- | --- | --- |
+| *MVT/K/7 *  | *Schrijfvaardigheid [2] *  | *BB *  | *KB *  | *GL/TL *  |
+| --- | --- | *CE *  | *CE *  | *CE*  |
+| --- | De kandidaat kan:  | X  | X  | X  |
+| 7.  | − (persoonlijke) gegevens verstrekken  | --- | --- | --- |
+| --- | − een kort bedankje, groet of goede wensen schriftelijk overbrengen  | --- | --- | --- |
+| --- | − een briefje schrijven om informatie te vragen of te geven, om verzoeken of voorstellen te doen of daarop te reageren, om gevoelens te uiten en ernaar te vragen  | --- | --- | --- |
+| --- | − op eenvoudig niveau briefconventies gebruiken.  | --- | --- | --- |
+| *MVT/V/1 *  | *Leesvaardigheid *  | --- | --- | *CE*  |
+| 8.  | De kandidaat kan:  | --- | --- | X  |
+| --- | − het gebruik van speciale stijlmiddelen herkennen  | --- | --- | --- |
+| --- | − conclusies trekken met betrekking tot het schrijfdoel, de opvattingen, de gevoelens van de auteur en tot het beoogde publiek.  | --- | --- | --- |
+| *MVT/V/2 *  | *Kennis van land en samenleving *  | --- | --- | *CE*  |
+| 9.  | De kandidaat kan kennis van land en samenleving rond bepaalde onderwerpen toepassen bij het herkennen en interpreteren van cultuuruitingen die specifiek zijn voor het taalgebied of daarmee in directe relatie staan.  | --- | --- | X  |
+| *MVT/V/4 *  | *Verwerven, verwerken en verstrekken van informatie *  | --- | --- | --- |
+| 10.  | De kandidaat kan zelfstandig informatie verwerven, verwerken en verstrekken in het kader van het sectorwerkstuk.  | --- | --- | X  |
+| *MVT/V/5 *  | *Vaardigheden in samenhang *  | --- | --- | *CE*  |
+| 11.  | De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.  | --- | --- | X  |
 
-¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.
+[1] Het CvTE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen. [2] Het CvTE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.
 
 ### 2.5  
 
