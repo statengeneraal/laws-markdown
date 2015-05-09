@@ -75,7 +75,7 @@ a.het twaalfvoud van de uitbetalingstermijn van een maand, bedoeld in artikel 8,
 b.verhoogd met het op grond van artikel 15, eerste lid, van de Wet minimumloon en minimum vakantiebijslag voorgeschreven percentage vakantiebijslag,
 
 c.afgerond op het dichtstbijzijnde veelvoud van € 50, waarbij het restbedrag van € 25 wordt afgerond naar boven. Bij een werknemer die in deeltijd werkt wordt het bedrag naar rato van zijn deeltijdfactor toegepast. 
-4. Van het bedrag, bedoeld in het derde lid, wordt door Onze Minister jaarlijks mededeling gedaan in de Staatscourant. 
+4.  Het jaarlijks in geld vastgesteld loon, bedoeld in het eerste lid, wordt jaarlijks door of namens Onze Minister bekendgemaakt in de Staatscourant.  
 
 ####Vrijwilligers, vrijwillige brandweer, sport, wetenschappelijk onderzoek, gezinshuisouder, podiumkunstenaars, medisch specialisten en school- en vakantiekampen
 

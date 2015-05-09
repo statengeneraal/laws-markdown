@@ -3,7 +3,7 @@
 ##Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 5](../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), [8, eerste lid](../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), [9](../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) en [10, tweede lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md);
+Gelet op de artikelen 5, 8, eerste lid, 9 en 10, tweede lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -14,8 +14,6 @@ Besluit:
 1.  In deze regeling wordt verstaan onder:
 
 *gasballon:* vrije ballon die zijn opwaartse draagkracht verkrijgt door het inbrengen, in de ballon, van een gas dat lichter is dan lucht;
-
-*gekwalificeerde opleidingsinstelling:* gekwalificeerde opleidingsinstelling als bedoeld in de Regeling opleidingsinstellingen voor luchtvarenden 2001;
 
 *geregistreerde opleidingsinstelling:* geregistreerde opleidingsinstelling als bedoeld in de Regeling opleidingsinstellingen voor luchtvarenden 2001;
 
@@ -42,8 +40,8 @@ c. H: de categorie helikopters (Helicopters).
 
 ### Artikel  2  
 
-1.  De [artikelen 4 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) en 7 van deze regeling zijn van overeenkomstige toepassing op de verlenging van bevoegdverklaringen.   
-2.  Bij de aanvraag tot verlenging of hernieuwde afgifte na verlopen van een bevoegdverklaring is [artikel 8, tweede lid, Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) van overeenkomstige toepassing.   
+1.  De artikelen 4 van het Besluit bewijzen van bevoegdheid voor de luchtvaart en 7 van deze regeling zijn van overeenkomstige toepassing op de verlenging van bevoegdverklaringen.   
+2.  Bij de aanvraag tot verlenging of hernieuwde afgifte na verlopen van een bevoegdverklaring is artikel 8, tweede lid, Besluit bewijzen van bevoegdheid voor de luchtvaart van overeenkomstige toepassing.   
 3.  Verwijzingen naar JAR-FCL in deze regeling hebben betrekking op de Nederlandstalige versie van JAR-FCL 1, 2 of 4, zoals deze ter inzage liggen bij het Ministerie van Infrastructuur en Milieu.  
 
 ### Hoofdstuk  3  
@@ -60,7 +58,7 @@ De bijzondere klassebevoegdverklaringen voor ballonvaarders en de bijzondere typ
 
 1. De geldigheidsduur van bijzondere bevoegdverklaringen is voor: 
 
-a. MP of SP typebevoegdverklaring: 12 maanden;  
+a. SP typebevoegdverklaring: 12 maanden;  
 
 b. SP-SE klassebevoegdverklaring: 24 maanden;  
 
@@ -99,9 +97,9 @@ f. de eisen voor afgifte van een bevoegdverklaring RT.
 
 De eisen voor afgifte van een RPL(A), respectievelijk RPL(H), zijn: 
 
-a. opleiding: met goed gevolg bij een geregistreerde of gekwalificeerde opleidingsinstelling een RPL(A) vliegopleiding, respectievelijk een RPL(H) vliegopleiding, hebben doorlopen, waarbij het gehele theorie-examen binnen 18 maanden is afgerond en het praktijkexamen is afgerond binnen 36 maanden vanaf de datum waarop de aanvrager is geslaagd voor het theoriegedeelte;  
+a. opleiding: met goed gevolg bij een geregistreerde opleidingsinstelling een RPL(A) vliegopleiding, respectievelijk een RPL(H) vliegopleiding, hebben doorlopen, waarbij het gehele theorie-examen binnen 18 maanden is afgerond en het praktijkexamen is afgerond binnen 36 maanden vanaf de datum waarop de aanvrager is geslaagd voor het theoriegedeelte;  
 
-b. kennis: de eisen bedoeld in JAR-FCL 1.125(a), JAR-FCL 1.130 en bijlage 1 bij JAR-FCL 1.125, respectievelijk JAR-FCL 2.125(a), JAR-FCL 2.130 en bijlage 1 bij JAR-FCL 2.125;.  
+b. kennis: de eisen bedoeld in bijlage I (Deel FCL), subdeel B, sectie 2 onderscheidenlijk sectie 3, van verordening (EU) nr. 1178/2011 of, tot uiterlijk 8 april 2016, de eisen bedoeld in JAR-FCL 1.125(a), JAR-FCL 1.130 en bijlage 1 bij JAR-FCL 1.125, respectievelijk JAR-FCL 2.125(a), JAR-FCL 2.130 en bijlage 1 bij JAR-FCL 2.125;  
 
 c. bedrevenheid: de eisen, bedoeld in bijlage 2 bij deze regeling, aangetoond in een luchtvaartuig van de gewenste klasse, respectievelijk het gewenste type;  
 
@@ -112,7 +110,7 @@ e. de eisen voor afgifte van een type- of klassebevoegdverklaring, respectieveli
 ### Artikel  12  
 
 1.  Het bedienen van een luchtvaartuig als bedoeld in bijlage II behorende bij de basisverordening is toegestaan mits de bestuurder beschikt over een geldig bewijs van bevoegdheid afgegeven overeenkomstig verordening (EU) nr. 1178/2011 waaraan een klassebevoegdverklaring is verbonden die de bevoegdheid geeft het desbetreffende luchtvaartuig te bedienen.   
-2.  Het eerste lid is niet van toepassing op een luchtvaartuig als bedoeld in bijlage II bij de basisverordening waarvoor bij of krachtens de [Wet luchtvaart](../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) nadere voorschriften ten aanzien van het bewijs van bevoegdheid zijn gesteld.  
+2.  Het eerste lid is niet van toepassing op een luchtvaartuig als bedoeld in bijlage II bij de basisverordening waarvoor bij of krachtens de Wet luchtvaart nadere voorschriften ten aanzien van het bewijs van bevoegdheid zijn gesteld.  
 
 ### §  2  
 
@@ -142,9 +140,9 @@ c. ervaring: ten minste 300 vlieguren als eerste bestuurder van vliegtuigen, res
 
 De eisen voor afgifte van een RT zijn: 
 
-a. met goed gevolg doorlopen van een opleiding voor RT bij een daartoe geregistreerde of gekwalificeerde opleidingsinstelling;  
+a. met goed gevolg doorlopen van een opleiding voor RT bij een daartoe geregistreerde opleidingsinstelling;  
 
-b. kennis en bedrevenheid: de eisen, bedoeld in JAR-FCL 1.125 en JAR-FCL 2.225, respectievelijk Subdeel J van JAR-FCL 1 en JAR-FCL 2.   
+b. kennis en bedrevenheid: de eisen bedoeld in bijlage 4 van de Regeling opleidingsinstellingen voor luchtvarenden 2001 of, tot uiterlijk 8 april 2016, de eisen, bedoeld in JAR-FCL 1.125 en JAR-FCL 2.225, respectievelijk Subdeel J van JAR-FCL 1 en JAR-FCL 2.   
 
 ### Artikel  19  
 
@@ -168,7 +166,7 @@ De eisen voor afgifte van een RFI(A), respectievelijk RFI(H), zijn:
 
 a. algemeen: de aanvrager is houder van het bewijs van bevoegdheid, bevoegdverklaring of kwalificatie waarvoor onderricht wordt gegeven, heeft als gezagvoerder van een vliegtuig van de betreffende klasse, respectievelijk helikopter van het betreffende type, ten minste 50 uur ervaring en is bevoegd als gezagvoerder van het luchtvaartuig op te treden tijdens het onderricht;  
 
-b. kennis: een volledig afgeronde theorie-opleiding voor RFI voor de desbetreffende categorie bij een geregistreerde of gekwalificeerde opleidingsinstelling RFI;  
+b. kennis: een volledig afgeronde theorie-opleiding voor RFI voor de desbetreffende categorie bij een geregistreerde opleidingsinstelling RFI;  
 
 c. bedrevenheid: het praktijkexamen, dat voldoet aan de eisen gesteld in JAR-FCL 1.345, respectievelijk JAR-FCL 2.320E, komt bovenop het voorgeschreven minimum aantal opleidingsuren. Tijdens het praktijkexamen toont de aanvrager aan in staat te zijn een leerlingvlieger op te leiden voor een RPL, inclusief voor- en nabespreking van de vliegles en theorie, en  
 

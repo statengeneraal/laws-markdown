@@ -250,7 +250,7 @@ De subsidie-ontvanger kan de minister om toestemming verzoeken om, in afwijking 
 
 a. de productie in het betreffende kalenderjaar waarover garanties van oorsprong zijn afgegeven,  
 
-b. de voor het betreffende kalenderjaar vastgestelde correcties op grond van artikelen 14, vijfde lid, 22, vijfde lid, 31, vierde lid, 39, vierde lid, 47, vierde lid, en 54, vierde lid, van het besluit en  
+b. de voor het betreffende kalenderjaar vastgestelde correcties op grond van artikelen 14, vierde lid, 22, vierde lid, 31, vierde lid, 39, vierde lid, 47, vierde lid, en 54, vierde lid, van het besluit en  
 
 c. indien artikel 11, derde lid, onderdeel a, b of c, 28, derde lid, onderdeel a, b of c, of 44, derde lid, onderdeel a, b, of c, van het besluit van toepassing is, het aantal geproduceerde kWh aardgasequivalenten die voor subsidie in aanmerking komt, het aantal gerealiseerde vollasturen van de productie-installatie of het gerealiseerde rendement van de productie-installatie.     
 2.  De Minister verrekent een tekort aan verstrekte maandelijkse bedragen of een tekort op het jaarlijkse bedrag, als bedoeld in artikel 68, tweede lid, van het besluit, door het te weinig betaalde bedrag aan het voorschot binnen zes weken na de datum van bijstelling van het voorschot aan de subsidie-ontvanger te verstrekken.   
@@ -265,22 +265,22 @@ a. de in beschikking tot subsidieverlening voor het betreffende kalenderjaar opg
 
 b. het voor de subsidie-ontvanger geldende: 
 
-1°. basisbedrag, of bij toepassing van artikel 11, derde lid, onderdeel c, of 28, derde lid, onderdeel c, of 44, derde lid, onderdeel c, van het besluit het basisbedrag behorende bij het in de beschikking tot subsidieverlening opgenomen rendement, verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 14, zesde lid, 31, vijfde lid, of 47, vijfde lid, van het besluit,  
+1°. basisbedrag, of bij toepassing van artikel 11, derde lid, onderdeel c, of 28, derde lid, onderdeel c, of 44, derde lid, onderdeel c, van het besluit het basisbedrag behorende bij het in de beschikking tot subsidieverlening opgenomen rendement, verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 14, vijfde lid, 31, vijfde lid, of 47, vijfde lid, van het besluit,  
 
-2°. het tenderbedrag verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 22, zesde lid, 39, vijfde lid, of 54, vijfde lid, van het besluit, of  
+2°. het tenderbedrag verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 22, vijfde lid, 39, vijfde lid, of 54, vijfde lid, van het besluit, of  
 
-3°. fasebedrag, verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 14, zesde lid, 31, vijfde lid, of 47, vijfde lid, van het besluit.      
+3°. fasebedrag, verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 14, vijfde lid, 31, vijfde lid, of 47, vijfde lid, van het besluit.      
 2.  Het in artikel 68, eerste lid, van het besluit bedoelde jaarlijkse bedrag bedraagt 80% van het product van: 
 
 a. de in beschikking tot subsidieverlening voor het betreffende kalenderjaar opgenomen maximum productie, waar de minister op verzoek van de producent, het aantal kWh, bedoeld in artikel 15, derde of vierde lid, 23, derde of vierde lid, 32, derde of vierde lid, 40, derde of vierde lid, 48, derde of vierde lid, of 55, derde of vierde lid, van het besluit, bij op kan tellen, en  
 
 b. het voor de subsidie-ontvanger geldende: 
 
-1°. basisbedrag, of bij toepassing van artikel 11, derde lid, onderdeel c, of 28, derde lid, onderdeel c, of 44, derde lid, onderdeel c, van het besluit het basisbedrag behorende bij het in de beschikking tot subsidieverlening opgenomen rendement, verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 14, zesde lid, 31, vijfde lid, of 47, vijfde lid, van het besluit,  
+1°. basisbedrag, of bij toepassing van artikel 11, derde lid, onderdeel c, of 28, derde lid, onderdeel c, of 44, derde lid, onderdeel c, van het besluit het basisbedrag behorende bij het in de beschikking tot subsidieverlening opgenomen rendement, verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 14, vijfde lid, 31, vijfde lid, of 47, vijfde lid, van het besluit,  
 
-2°. het tenderbedrag verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 22, zesde lid, 39, vijfde lid, of 54, vijfde lid, van het besluit, of  
+2°. het tenderbedrag verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 22, vijfde lid, 39, vijfde lid, of 54, vijfde lid, van het besluit, of  
 
-3°. fasebedrag, verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 14, zesde lid, 31, vijfde lid, of 47, vijfde lid, van het besluit.      
+3°. fasebedrag, verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 14, vijfde lid, 31, vijfde lid, of 47, vijfde lid, van het besluit.      
 3.  Indien de subsidieperiode start op een andere datum dan 1 januari of eindigt op een andere datum dan 31 december bedraagt voor het eerste jaar respectievelijk het laatste jaar van de periode waarover subsidie wordt verstrekt het maandelijkse of jaarlijkse bedrag een evenredig deel van het aantal maanden of van het jaar waarover het voorschot wordt verstrekt.   
 4.  De minister kan het maandelijkse of jaarlijkse bedrag herberekenen indien: 
 
@@ -307,20 +307,19 @@ Een aanvraag om subsidievaststelling wordt ingediend met gebruikmaking van het o
 
 ### Artikel  11  
 
-1.  Voor de toepassing van artikel 3, eerste tot en met derde lid, van het besluit geldt dat geen sprake is van dezelfde productie-installatie wanneer: 
+1.  Voor de toepassing van artikel 3, eerste en tweede lid, van het besluit geldt dat geen sprake is van dezelfde productie-installatie wanneer: 
 
 a. het een productie-installatie op een andere locatie betreft;  
 
 b. het een productie-installatie met een andere opwekkingstechnologie betreft.     
-2.  Onverminderd het eerste lid geldt voor de toepassing van artikel 3, eerste tot en met derde lid, van het besluit dat geen sprake is van dezelfde productie-installatie wanneer het een productie-installatie betreft waarvan het vermogen meer dan 20% afwijkt ten opzichte van het vermogen van een productie-installatie waarvoor eerder een beschikking tot subsidieverlening is verstrekt, indien de beschikking tot subsidieverlening voor 1 juli 2011 is ingetrokken of de subsidie voor 1 juli 2011 is vastgesteld.  
-3.  De duur, bedoeld in artikel 3, derde lid, onderdeel d van het besluit, bedraagt ten hoogste vier jaar.  
+2.  Onverminderd het eerste lid geldt voor de toepassing van artikel 3, eerste en tweede lid, van het besluit dat geen sprake is van dezelfde productie-installatie wanneer het een productie-installatie betreft waarvan het vermogen meer dan 20% afwijkt ten opzichte van het vermogen van een productie-installatie waarvoor eerder een beschikking tot subsidieverlening is verstrekt, indien de beschikking tot subsidieverlening voor 1 juli 2011 is ingetrokken of de subsidie voor 1 juli 2011 is vastgesteld.  
 
 ### Artikel  12  
 
-1.  Onder ingrijpende uitbreiding als bedoeld in artikel 3, tweede lid, onderdeel b, derde lid, onderdeel b, en vierde lid, onderdeel a, van het besluit wordt verstaan een uitbreiding van een bestaande productie-installatie met ten minste één productie-eenheid.   
+1.  Onder ingrijpende uitbreiding als bedoeld in artikel 3, eerste lid, onderdeel b, tweede lid, onderdeel b, en derde lid, onderdeel b, van het besluit wordt verstaan een uitbreiding van een bestaande productie-installatie met ten minste één productie-eenheid.   
 2.  In afwijking van het eerste lid wordt bij een afvalverbrandingsinstallatie onder ingrijpende uitbreiding verstaan een uitbreiding met tenminste een nieuwe verbrandingsoven met bijbehorende ketel en een rookgasreiniginginstallatie.   
-3.  Onder gehele vervanging als bedoeld in artikel 3, tweede lid, onderdeel b, derde lid, onderdeel b, en vierde lid, onderdeel a, van het besluit wordt verstaan het vervangen van de gehele productie-installatie door een nieuwe productie-installatie.   
-4.  Onder renovatie als bedoeld in artikel 3, tweede lid, onderdeel c, derde lid, onderdeel c, en vierde lid, onderdeel b, van het besluit wordt verstaan het in nieuwstaat brengen van die voorzieningen van een productie-installatie die zorg dragen voor de omzetting van hernieuwbare energiebronnen in elektriciteit of gas.  
+3.  Onder gehele vervanging als bedoeld in artikel 3, eerste lid, onderdeel b, tweede lid, onderdeel b, en derde lid, onderdeel b, van het besluit wordt verstaan het vervangen van de gehele productie-installatie door een nieuwe productie-installatie.   
+4.  Onder renovatie als bedoeld in artikel 3, eerste lid, onderdeel c, tweede lid, onderdeel c en derde lid, onderdeel c, van het besluit wordt verstaan het in nieuwstaat brengen van die voorzieningen van een productie-installatie die zorg dragen voor de omzetting van hernieuwbare energiebronnen in elektriciteit of gas.  
 
 ### Artikel  13  
 
@@ -344,7 +343,7 @@ a. artikel 29, eerste lid, onderdeel c, of 51, eerste lid, onderdeel c, van de R
 b. artikel 29, eerste lid, onderdeel c, of 54, eerste lid, onderdeel c, van de Regeling aanwijzing categorieën duurzame energieproductie 2010,   met ingang van 1 juli 2011 biomassastromen als bedoeld in de NTA 8003:2008: 430, 587 en 592 gebruiken.  
 3.  In aanvulling op de voor de subsidieverstrekking toegestane biomassastromen kunnen subsidie-ontvangers aan wie subsidie is verstrekt op grond van artikel 21, eerste lid, onderdeel c, of 44, eerste lid, van de Regeling aanwijzing categorieën duurzame energieproductie 2011 met ingang van 1 januari 2011 biomassastromen als bedoeld in de NTA 8003:2008: 587 en 592 gebruiken.  
 4.  In aanvulling op de voor de subsidieverstrekking toegestane biomassastromen kunnen subsidie-ontvangers met een productie-installatie op een landbouwbedrijf aan wie subsidie is verstrekt op grond van artikel 116, eerste lid, onderdeel b, van de Regeling aanwijzing categorieën duurzame energieproductie 2012, met ingang van 4 april 2013 tevens uitsluitend plantaardige stoffen vermeld onder de categorieën A tot en met G1 onder categorie 1 van Bijlage Aa, onderdeel IV, van de Uitvoeringsregeling Meststoffenwet vergisten.  
-5.  Als productie-installaties als bedoeld in artikel 15, vierde lid, van het besluit worden aangewezen productie-installaties waarvoor subsidie is verstrekt op grond van: 
+5.  Als productie-installaties als bedoeld in artikel 15, zesde lid, van het besluit worden aangewezen productie-installaties waarvoor subsidie is verstrekt op grond van: 
 
 a. artikelen 3, eerste lid,15, eerste lid, 22, eerste lid 29, eerste lid, van de regeling aanwijzing categorieën duurzame energieproductie 2008;  
 

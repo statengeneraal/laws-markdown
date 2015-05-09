@@ -17,6 +17,8 @@ Besluit:
 
 *geregistreerde opleidingsinstelling:* een door de minster geregistreerde opleidingsinstelling voor het geven van training voor het verkrijgen van bepaalde bewijzen van bevoegdheid en bevoegdverklaringen;
 
+*gyroplane:* helicopter als bedoeld in artikel 1 van het Besluit luchtvaartuigen 2008; 
+
 *minister:* Minister van Infrastructuur en Milieu;
 
 *MLA (Micro Light Aeroplane):* vliegtuig als bedoeld in het Besluit luchtvaartuigen 2008.  
@@ -49,14 +51,14 @@ De aanvraag tot registratie of erkenning dan wel hernieuwde afgifte van een regi
 
 ### Artikel  3  
 
-1. De minister registreert op aanvraag een opleidingsinstelling voor de opleiding RPL(MLA) of de module RT indien de aanvrager voldoet aan de eisen, bedoeld in artikel 10.  
+1. De minister registreert op aanvraag een opleidingsinstelling voor de opleiding RPL(A)MLA, RPL(H) gyroplane of de module RT indien de aanvrager voldoet aan de eisen, bedoeld in artikel 10.  
 2.  Onze Minister erkent een opleidingsinstelling met betrekking tot het aanbieden en afnemen van de test ten behoeve van de taalvaardigheidsaantekening indien de aanvrager voldoet aan de eis, bedoeld in artikel 11a. 
 
 ### Artikel  4  
 
 De aanvraag tot registratie gaat vergezeld van: 
 
-a. voor de registratie van een opleidingsinstelling voor RPL(MLA): 
+a. voor de registratie van een opleidingsinstelling voor RPL(A)MLA of RPL(H) gyroplane: 
 
 1°. naam of model van het trainingshandboek dat wordt gebruikt;  
 
@@ -86,8 +88,9 @@ b. indien de registratie van een opleidingsinstelling enkel betrekking heeft op 
 
 ### Artikel  6  
 
-1. De minister registreert op aanvraag een opleidingsinstelling opnieuw voor de termijn, genoemd in de bijlagen bij JAR-FCL 1.055, JAR-FCL 2.055 en JAR-FCL4.055, indien de aanvrager voldoet aan de eisen, bedoeld in artikel 10.
-2. De minister verlengt op aanvraag de erkenning van een erkende taalbeoordelingsinstantie indien de aanvrager voldoet aan de eis, bedoeld in artikel 11a. 
+1.  De minister registreert op aanvraag een opleidingsinstelling opnieuw voor ten hoogste twee jaar indien de aanvrager voldoet aan de eisen bedoeld in artikel 10.   
+2.  In afwijking van het eerste lid is opnieuw registreren met betrekking tot de opleidingen RPL(A)SE piston (land) en RPL(A)TMG mogelijk voor ten hoogste twee jaar tot uiterlijk 8 april 2018. 
+3. De minister verlengt op aanvraag de erkenning van een erkende taalbeoordelingsinstantie indien de aanvrager voldoet aan de eis, bedoeld in artikel 11a. 
 
 ### Artikel  7  
 
@@ -99,7 +102,7 @@ De aanvraag tot opnieuw registreren van een opleidingsinstelling gaat vergezeld 
 
 ### Artikel  8  
 
-Een geregistreerde opleidingsinstelling of erkende taalbeoordelingsinstantie stelt de minister terstond op de hoogte van wijzigingen met betrekking tot bij de aanvraag tot registratie, kwalificatie of erkenning aan de minister geleverde informatie.  
+Een geregistreerde opleidingsinstelling of erkende taalbeoordelingsinstantie stelt de minister terstond op de hoogte van wijzigingen met betrekking tot bij de aanvraag tot registratie of erkenning aan de minister geleverde informatie.  
 
 ### Artikel  9  
 
@@ -130,7 +133,7 @@ Voor de erkenning van een opleidingsinstelling met betrekking tot het aanbieden 
 
 ### Artikel  12  
 
-Bewijzen van registratie of kwalificatie, afgegeven op basis van artikel 3 van de Regeling opleidingsinstellingen voor luchtvarenden, worden aangemerkt als registraties of kwalificaties op basis van de Regeling opleidingsinstellingen voor luchtvarenden 2001.  
+Een bewijs van registratie, onderscheidenlijk, een registratie, afgegeven op basis van artikel 3 van de Regeling opleidingsinstellingen voor luchtvarenden, worden een bewijs van registratie, onderscheidenlijk, een registratie op basis van de Regeling opleidingsinstellingen voor luchtvarenden 2001.  
 
 ### Artikel  13  
 
@@ -158,7 +161,7 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 ###Bijlage 2 
 
-####bedoeld in de artikelen 10 onderdeel b onder 3 , en 11 onderdeel b onder 2 , van de Regeling opleidingsinstellingen voor luchtvarenden 2001
+####bedoeld in artikel 10, eerste lid, onderdeel b, onder 2° 
 
 ### 1 
 
@@ -309,5 +312,7 @@ De opleidingsinstelling zorgt voor theorieonderwijs voor het theorie-examen PPL(
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 ###Bijlage 4 
+
+####bedoeld in artikel 10, eerste lid, onderdeel b , van de Regeling opleidingsinstellingen voor luchtvarenden 2001
 
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
