@@ -15,7 +15,6 @@ Treedt in werking op een nader te bepalen tijdstip
 Wijzigt de Spoorwegwet. 
 
 ### Artikel  II  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt de Wet personenvervoer 2000. 
 

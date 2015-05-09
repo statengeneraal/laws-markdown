@@ -56,6 +56,14 @@ e. subcategorie E, per 100 nummers: de volgende nummers, genoemd in bijlage 1 va
 
 f. subcategorie F, per 1000 nummers: de voor elektronische communicatiediensten voor geautomatiseerde toepassingen bestemde nummers behorend tot de reeks 0970, genoemd in bijlage 1 van het Nummerplan telefoon- en ISDN-diensten.   
 
+### Artikel  3a  
+
+Binnen de categorie, genoemd in artikel 10, tweede lid, onderdeel c, onder 3°, van het besluit worden de volgende subcategorieën van diensten van certificatiedienstverleners onderscheiden: 
+
+a. diensten van certificatiedienstverleners zonder een geldig bewijs van toetsing op grond van het bepaalde bij of krachtens de Telecommunicatiewet;  
+
+b. diensten van certificatiedienstverleners met een geldig bewijs van toetsing op grond van het bepaalde bij of krachtens de Telecommunicatiewet.   
+
 ### Artikel  4  
 
 Het bedrag van de omzet, bedoeld in artikel 12, derde lid, van het besluit is € 2 miljoen. 
@@ -85,6 +93,11 @@ a. een accountantsverklaring als bedoeld in artikel 12a, tweede lid, van het bes
 b. de jaarrekening, bedoeld in artikel 12a, derde lid, van het besluit;  
 
 c. een verklaring van een bij of voor de desbetreffende markorganisatie werkzame boekhouder of administrateur.   
+
+### Artikel  7a  
+
+1.  De bedragen ter vergoeding van de kosten die met toepassing van hoofdstuk 3 van het besluit door middel van toerekening worden doorberekend, zijn de in bijlage 3 bedoelde bedragen.   
+2.  In afwijking van het eerste lid bevat bijlage 1 de bedragen ter vergoeding van de kosten van het toezicht op de naleving van het bij of krachtens de Telecommunicatiewet bepaalde inzake van het gebruik van nummers.  
 
 ### §  4  
 
@@ -132,18 +145,18 @@ H.G.J. Kamp
 
 ### Bijlage  1  
 
-####Behorende bij artikel 2, eerste lid , van de Regeling doorberekening kosten ACM
+####Behorende bij de artikelen 2, eerste lid , en 7a, tweede lid , van de Regeling doorbereking kosten ACM
 
 ####A
 
-| Subcategorie (differentiatie naar soort en aantal)  | Per aantal nummers  | Bedrag voor toekenning  |
-|:---|:---|:---|
-| A  | 1  | € 660  |
-| B  | 1.000  | € 20  |
-| C  | 1  | € 81  |
-| D  | 1  | € 41  |
-| E  | 100  | € 46  |
-| F  | 1.000  | € 0,45  |
+| Subcategorie (differentiatie naar soort en aantal)  | Per aantal nummers  | Bedrag voor toekenning  | Bedrag ter vergoeding van de kosten van het toezicht op de naleving van het bij of krachtens de Telecommunicatiewet bepaalde inzake het gebruik van nummers  |
+|:---|:---|:---|:---|
+| A  | 1  | € 660  | € 123  |
+| B  | 1.000  | € 20  | € 6  |
+| C  | 1  | € 81  | € 31  |
+| D  | 1  | € 41  | € 16  |
+| E  | 100  | € 46  | € 6  |
+| F  | 1.00  | € 0,45  | € 0,11  |
 
 ####B
 
@@ -195,4 +208,23 @@ H.G.J. Kamp
 | Beschikking als bedoeld in artikel 40 van de Mededingingswet  | € 2.325  |
 | Beschikking als bedoeld in artikel 44 van de Mededingingswet  | € 34.900  |
 | Beschikking als bedoeld in artikel 46 van de Mededingingswet  | € 2.325  |
+
+###Bijlage 3 
+
+####behorende bij artikel 7a, eerste lid , van de Regeling doorberekening kosten ACM
+
+| Categorie  | Bedrag ter vergoeding van de kosten van de ACM die met toepassing van hoofdstuk 3  van het besluit door middel van toerekening worden doorberekend  |
+|:---|:---|
+| Regionaal netbeheer elektriciteit  | 0,0485% van de relevante omzet  |
+| Regionaal netbeheer gas  | 0,1018% van de relevante omzet  |
+| Landelijk netbeheer elektriciteit  | € 1.977.495  |
+| Landelijk netbeheer gas  | € 2.408.988  |
+| Warmtelevering  | 0% van de relevante omzet  |
+| Universele postdienst  | € 273.995  |
+| Niet-universele postdienst  | 0,07422% van de relevante omzet  |
+| Openbare elektronische communicatiediensten, openbare elektronische communicatienetwerken en bijbehorende faciliteiten  | 0,04053% van de relevante omzet  |
+| Diensten van certificatiedienstverleners zonder een geldig bewijs van toetsing op grond van het bepaalde bij of krachtens de Telecommunicatiewet  | € 3,04 per op 1 januari 2015 aan het publiek afgegeven certificaat  |
+| Diensten van certificatiedienstverleners met een geldig bewijs van toetsing op grond van het bepaalde bij of krachtens de Telecommunicatiewet  | € 1,52 per op 1 januari 2015 aan het publiek afgegeven certificaat  |
+| Loodswezen  | € 297.611  |
+| Luchtvaart  | € 141.633  |
 

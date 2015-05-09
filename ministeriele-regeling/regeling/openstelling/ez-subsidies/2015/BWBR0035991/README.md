@@ -39,7 +39,7 @@ Besluit:
 | Titel 3.10: Seed capital technostarters  | 3.10.2  | --- | --- | 01-01-2015 t/m 31-03-2015  | 24.000.000  |
 | Titel 3.11: Borgstelling MKB-kredieten  | 3.11.2  | Bedrijfsborgstellingskredieten (banken en kredietinstellingen in de zin van de Wet financiële markten BES)  | --- | 01-01-2015 t/m 31-12-2015  | 400.000.000  |
 | Titel 3.11: Borgstelling MKB-kredieten  | 3.11.2  | Bedrijfsborgstellingskredieten (door de minister aangewezen kredietverstrekkers)  | --- | 01-01-2015 t/m 31-12-2015  | 25.000.000  |
-| Titel 3.12: Groeifaciliteit  | 3.12.2  | --- | --- | 01-01-2015 t/m 31-12-2015  | 50.000.000  |
+| Titel 3.12: Groeifaciliteit  | 3.12.2  | --- | --- | 01-01-2015 t/m 31-12-2015  | 85.000.000  |
 | Titel 3.13: Garantie ondernemingsfinanciering  | 3.13.2 en 3.14.2  | --- | --- | 01-01-2015 t/m 31-12-2015  | 200.000.000  |
 | Titel 3.16: Vroege fase financiering  | 3.16.2  | MKB-ondernemer  | --- | 01-01- 2015 t/m 01-07-2015  | 1.000.000  |
 | Titel 3.16: Vroege fase financiering  | 3.16.7  | Innovatieve starter  | --- | 01-01- 2015 t/m 01-07-2015  | 5.100.000  |
@@ -87,6 +87,19 @@ Aanvragen tot verlening van een subsidie als bedoeld in artikel 3:34 van de Rege
 ### Artikel  4  
 
 Het subsidieplafond bedraagt € 1.000.000,00. 
+
+###§ 2 
+
+####Investeringen in perspectief garnalenvisserij
+
+### Artikel  4a  
+
+Aanvragen tot verlening van een subsidie als bedoeld in artikel 4:39m van de Regeling LNV-subsidies kunnen worden ingediend vanaf inwerkingtreding van deze paragraaf tot en met 12 juni 2015. 
+
+### Artikel  4b  
+
+1.  Het subsidieplafond van artikel 4:39m, eerste lid, onderdeel a, bedraagt € 400.000.   
+2.  Het subsidieplafond van artikel 4:39m, eerste lid, onderdeel b, c en d bedraagt € 900.000.  
 
 ### Hoofdstuk  3  
 

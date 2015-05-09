@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 27 mei 20132013-0000054457, houdende de inrichting van de directie Uitvoeringsbeleid en Naleving alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Uitvoeringsbeleid en Naleving (Organisatie-, mandaat- en volmachtbesluit UBN 2012)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 3, eerste lid, onderdeel k](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directeur-generaal/participatie/etc/BWBR0024972/README.md), en [artikel 10 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directeur-generaal/participatie/etc/BWBR0024972/README.md), en [3, eerste lid, onderdeel k](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directeur-generaal/werk/2009/BWBR0024965/README.md), en [11 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Werk 2009](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directeur-generaal/werk/2009/BWBR0024965/README.md);
+Gelet op de artikelen 3, eerste lid, onderdeel k, en artikel 10 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009, en 3, eerste lid, onderdeel k, en 11 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Werk 2009;
 Besluit:     
 ### §  1  
 
@@ -15,11 +15,11 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 a.  *UBN:* de directie Uitvoeringsbeleid en Naleving van het ministerie;  
 
-b.  *SUWI-organisaties:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet SUWI](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), de Sociale Verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet SUWI](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), het Inlichtingenbureau, genoemd in [artikel 63 van de Wet SUWI](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), en de landelijke cliëntenraad, genoemd in [hoofdstuk 2 van de Wet SUWI](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+b.  *SUWI-organisaties:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet SUWI, de Sociale Verzekeringsbank, genoemd in hoofdstuk 6 van de Wet SUWI, het Inlichtingenbureau, genoemd in artikel 63 van de Wet SUWI, en de landelijke cliëntenraad, genoemd in hoofdstuk 2 van de Wet SUWI;  
 
 c.  *SUWI-keten:* het proces van samenwerking tussen de SUWI-organisaties en de gemeenten, gericht op de toeleiding naar werk en het verstrekken van uitkeringen, met inbegrip van de gegevensinfrastructuur en het daartoe ondersteunende gegevensverkeer;  
 
-d.  *Wet SUWI:* de [Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).   
+d.  *Wet SUWI:* de Wet structuur uitvoeringsorganisatie werk en inkomen.   
 
 ### §  2  
 
@@ -43,7 +43,7 @@ Het hoofd van de afdeling Sturing ZBO’s is verantwoordelijk voor de volgende a
 
 a. het zorgen voor de totstandkoming van de kaders voor de zelfstandige bestuursorganen van het ministerie;  
 
-b. het bepalen van het standpunt bij bestuurlijke vraagstukken, zoals de sturingsvisie, het verrichten van andere taken door de zelfstandige bestuursorganen, de relatie tussen het ministerie en uitvoeringsorganisaties en het aanpassen van de [Wet SUWI](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) op deze punten;  
+b. het bepalen van het standpunt bij bestuurlijke vraagstukken, zoals de sturingsvisie, het verrichten van andere taken door de zelfstandige bestuursorganen, de relatie tussen het ministerie en uitvoeringsorganisaties en het aanpassen van de Wet SUWI op deze punten;  
 
 c. het onderhouden van de sturingsrelatie met het Uitvoeringsinstituut Werknemersverzekeringen en de Sociale Verzekeringsbank en de (prestatie)afspraken die met het Uitvoeringsinstituut Werknemersverzekeringen en de Sociale Verzekeringsbank gemaakt worden;  
 
@@ -93,7 +93,7 @@ g. het fungeren als aanspreekpunt voor andere departementen op het gebied van de
 
 h. het fungeren als aanspreekpunt voor de uitvoeringsorganisaties en de Vereniging van Nederlandse Gemeenten op het gebied van gegevensuitwisseling binnen de SUWI-organisaties en aanpalende domeinen;  
 
-i. de aanpassing van de [Wet SUWI](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) en regelgeving die op de Wet SUWI is gebaseerd op het gebied van gegevensuitwisseling en evaluaties, waaronder de evaluatie [Wet eenmalige uitvraag](../../../../../../../../wet/wet/eenmalige/gegevensuitvraag/werk/en/inkomen/BWBR0023299/README.md);  
+i. de aanpassing van de Wet SUWI en regelgeving die op de Wet SUWI is gebaseerd op het gebied van gegevensuitwisseling en evaluaties, waaronder de evaluatie Wet eenmalige uitvraag;  
 
 j. het vervullen van een accountfunctie en de coördinatie van de planning & control-cyclus van het Inlichtingenbureau;  
 
@@ -111,9 +111,9 @@ b. het ontwikkelen van een visie over en adviseren en stimuleren van werkgeversd
 
 c. het adviseren over en monitoren en evalueren van het ‘Redesign Werkbedrijf’;  
 
-d. het beheer en de ontwikkeling van de [Wet SUWI](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) op het gebied van samenwerking en structuur;  
+d. het beheer en de ontwikkeling van de Wet SUWI op het gebied van samenwerking en structuur;  
 
-e. het periodiek evalueren van de [Wet SUWI](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+e. het periodiek evalueren van de Wet SUWI;  
 
 f. het relatiebeheer van en communicatie met het gemeentelijk veld, waaronder het voorbereiden van bestuurlijke en hoog ambtelijke overleggen met vertegenwoordigers van gemeenten, het (mede) organiseren van informatiedagen en de coördinatie van de verzamelbrief van gemeenten;  
 
@@ -172,7 +172,7 @@ a. het – bij wijze van bindende voordracht aan de directeur van de RCN uit hoo
 
 2°. benoeming, voor zover passend binnen de voor de RCN-unit Sociale Zaken vastgestelde formatie, en ontslag van medewerkers;    
 
-b. het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover deze klachten betrekking hebben op gedragingen van de onder hem ressorterende functionarissen.    
+b. het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de behandeling van klachten als bedoeld in artikel 9:1 van de Algemene wet bestuursrecht, voor zover deze klachten betrekking hebben op gedragingen van de onder hem ressorterende functionarissen.    
 
 ### Artikel  8  
 
@@ -184,7 +184,7 @@ b. het paraferen van stukken die betrekking hebben op de taken van de eigen afde
 
 ### Artikel  10  
 
-1.  Het hoofd van de RCN-unit Sociale Zaken is bevoegd om namens een bewindspersoon besluiten te nemen, beslissingen in bezwaar- en beroepsprocedures te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover deze verband houden met de uitvoering van de [Wet algemene ouderdomsverzekering BES](../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md), de [Wet algemene weduwen- en wezenverzekering BES](../../../../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md), de [Cessantiawet BES](../../../../../../../../wet-BES/cessantiawet/bes/BWBR0028304/README.md), de [Wet ziekteverzekering BES](../../../../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md), de [Wet ongevallenverzekering BES](../../../../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md), het [Besluit onderstand BES](../../../../../../../../AMvB-BES/besluit/onderstand/bes/BWBR0028595/README.md), de [Arbeidsveiligheidswet BES](../../../../../../../../wet-BES/arbeidsveiligheidswet/bes/BWBR0028228/README.md), de [Stuwadoorswet 1946 BES](../../../../../../../../wet-BES/stuwadoorswet/1946/bes/BWBR0028169/README.md), de [Arbeidswet 2000 BES](../../../../../../../../wet-BES/arbeidswet/2000/bes/BWBR0028202/README.md), de Wet collectieve arbeidsovereenkomsten BES, de [Wet minimumlonen BES](../../../../../../../../wet-BES/wet/minimumlonen/bes/BWBR0028170/README.md), de [Vakantiewet 1949 BES](../../../../../../../../wet-BES/vakantiewet/1949/bes/BWBR0028173/README.md), de [Wet beëindiging arbeidsovereenkomsten BES](../../../../../../../../wet-BES/wet/beëindiging/arbeidsovereenkomsten/bes/BWBR0028174/README.md), de [Arbeidsgeschillenwet 1946 BES](../../../../../../../../wet-BES/arbeidsgeschillenwet/1946/bes/BWBR0028178/README.md), de [Wet arbeid vreemdelingen BES](../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md), de [Regeling bijzondere uitkering integrale projecten 2013](../../../../../../../../ministeriele-regeling-BES/regeling/bijzondere/uitkering/integrale/projecten/2013/BWBR0033367/README.md), en de daarop gebaseerde nadere regelgeving, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal of de inspecteur-generaal Sociale Zaken en Werkgelegenheid.   
+1.  Het hoofd van de RCN-unit Sociale Zaken is bevoegd om namens een bewindspersoon besluiten te nemen, beslissingen in bezwaar- en beroepsprocedures te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover deze verband houden met de uitvoering van de Wet algemene ouderdomsverzekering BES, de Wet algemene weduwen- en wezenverzekering BES, de Cessantiawet BES, de Wet ziekteverzekering BES, de Wet ongevallenverzekering BES, het Besluit onderstand BES, de Arbeidsveiligheidswet BES, de Stuwadoorswet 1946 BES, de Arbeidswet 2000 BES, de Wet collectieve arbeidsovereenkomsten BES, de Wet minimumlonen BES, de Vakantiewet 1949 BES, de Wet beëindiging arbeidsovereenkomsten BES, de Arbeidsgeschillenwet 1946 BES, de Wet arbeid vreemdelingen BES, de Regeling bijzondere uitkering integrale projecten 2013, het Tijdelijk Besluit bijzondere uitkeringen integrale projecten BES, en de daarop gebaseerde nadere regelgeving, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal of de inspecteur-generaal Sociale Zaken en Werkgelegenheid.   
 2.  De volmacht, bedoeld in het eerste lid, is beperkt tot het aangaan van de volgende overeenkomsten met een waarde van ten hoogste € 50.000,– per overeenkomst die betrekking hebben op: 
 
 a. systeemontwikkeling, licenties, functioneel beheer en onderhoud van applicaties van systemen;  

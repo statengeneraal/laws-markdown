@@ -2,10 +2,8 @@
 
 ##Nadere regels Besluit PE
 
-Gelet op:
-
-artikel 3 en 4 van het Besluit permanente educatie Wbtv;
-stelt de Raad voor Rechtsbijstand de volgende Nadere regels Besluit PE vast:     
+Gelet op artikel 3 en 4 van het Besluit permanente educatie Wbtv;
+stelt de Raad voor Rechtsbijstand de volgende Nadere regels Besluit PE vast:    
 
 ####Scholingsactiviteiten
 
@@ -57,9 +55,9 @@ i. Lezen: per 20 A4-pagina’s wordt 1 PE-punt toegekend;
 
 ii. Huiswerkopdrachten maken: per 4 A4-pagina’s wordt 1 PE-punt toegekend;  
 
-iii. Vertaalopdrachten: per 250 woorden in de brontekst wordt 1 PE-punt toegekend.  
+iii. Vertaalopdrachten: per 250 woorden in de brontekst wordt 1 PE-punt toegekend.      
 
-iv. Overige activiteiten      
+####Overige activiteiten
 
 ### Artikel  3  
 

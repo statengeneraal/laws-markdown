@@ -8,11 +8,11 @@ Besluit
 
 ### Artikel  1  
 
-De digitale vervanging van archiefbescheiden heeft betrekking op 
+De digitale vervanging van archiefbescheiden heeft betrekking op: 
 
-a. alle papieren archiefbescheiden van het ministerie die zijn ontvangen en opgemaakt in de periode 2011-2014, en  
+a. alle te vernietigen papieren archiefbescheiden van het ministerie van vóór 2011;  
 
-b. op alle papieren archiefbescheiden die zullen worden ontvangen en opgemaakt in de periode tot en met tien jaar na inwerkingtreding van dit besluit.   
+b. alle te bewaren en te vernietigen papieren archiefbescheiden van het ministerie vanaf 2011 tot en met tien jaar na inwerkingtreding van dit besluit.   
 
 ### Artikel  2  
 
@@ -27,6 +27,10 @@ a. alleen in papieren vorm bestaan, omdat die bescheiden technisch niet te digit
 
 b. wel gedigitaliseerd zijn, maar waarvan het papieren exemplaar wordt aangehouden vanwege bewijslast of het belang van de bedrijfsvoering.     
 3.  Als de noodzaak tot het aanhouden van papieren exemplaren vanwege bewijslast of bedrijfsvoering vervalt, zullen van deze papieren archiefbescheiden slechts de digitale versies worden aangehouden en wordt de papieren versie voorafgaand aan overdracht naar een archiefbewaarplaats alsnog vernietigd.  
+
+### Artikel  3a  
+
+Deze regeling wordt aangehaald als: Vervangingsbesluit BZ 2015. 
 
 ### Artikel  4  
 
@@ -56,23 +60,13 @@ Documenten die in papieren vorm worden aangehouden zijn:
 
 * documenten die een rechtsverhouding vestigen, wijzigen of een bewijsfunctie hebben en/of als zodanig door de Directie Juridische Zaken aangemerkte documenten.     Documenten die tijdelijk<sup> 1 Bij te bewaren documenten wordt vastgesteld of de bewijslast op het moment van overdracht aan het Nationaal Archief nog van belang is. Als dat het geval is, worden deze in papieren vorm overgedragen. </sup> in papieren vorm worden aangehouden zijn: 
 
-4. Documenten waarin het ministerie namens de Staat in het civielrecht optreedt als contractspartij bij privaatrechtelijke rechtsverhoudingen, waaronder: 
+4.  Documenten waarin het ministerie namens de Staat in het civielrecht optreedt als contractspartij bij privaatrechtelijke rechtsverhoudingen, namelijk: 
 
-* koop- en huurcontracten;  
-
-* documenten in aanbestedingstrajecten;  
-
-* schikkingsonderhandelingen;  
-
-* burgerlijke processen;  
+* koop- en huurcontracten van onroerende zaken;  
 
 * gerechtelijke uitspraken;  
 
-* expertiserapporten;  
-
-* notariële akten;  
-
-* documenten die een rechtsverhouding vestigen, wijzigen of een bewijsfunctie hebben.    
+* notariële akten.    
 
 5. Processtukken waarbij in geval van meningsverschillen terug wordt gegrepen op papieren documenten: 
 

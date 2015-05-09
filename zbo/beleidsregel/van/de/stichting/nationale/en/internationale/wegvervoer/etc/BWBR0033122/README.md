@@ -2,7 +2,7 @@
 
 ##Beleidsregel van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) toetsing vergunningen beroepsgoederenvervoer over de weg aan de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Bibob)
 
-Beleidsregel van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake toepassing van regels van de [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) op de toetsing van vergunningen beroepsgoederenvervoer (Beleidsregel toetsing vergunningen beroepsgoederenvervoer aan de Wet Bibob)  
+Beleidsregel van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake toepassing van regels van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur op de toetsing van vergunningen beroepsgoederenvervoer (Beleidsregel toetsing vergunningen beroepsgoederenvervoer aan de Wet Bibob)  
 ###Hoofdstuk 1 
 
 ####Definities en toepassing
@@ -11,31 +11,31 @@ Beleidsregel van de Stichting Nationale en Internationale Wegvervoer Organisatie
 
 In deze beleidsregel wordt verstaan onder: 
 
-a.*Bureau Bibob:* Bureau, bedoeld in de [artikelen 8](../../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) en [9, eerste lid, van de Wet Bibob](../../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);
+a.*Bureau Bibob:* Bureau, bedoeld in de artikelen 8 en 9, eerste lid, van de Wet Bibob;
 
 b.*Minister:* Minister van Verkeer en Waterstaat;
 
-c.*Wet Bibob:* [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);
+c.*Wet Bibob:* Wet bevordering integriteitsbeoordelingen door het openbaar bestuur;
 
-d.*Besluit Bibob:* [Besluit bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../../../../../../AMvB/besluit/bibob/BWBR0014964/README.md);
+d.*Besluit Bibob:* Besluit bevordering integriteitsbeoordelingen door het openbaar bestuur;
 
-e.*misdrijf:* strafbare feiten als bedoeld in het [Tweede Boek van het Wetboek van Strafrecht](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [artikel 2, eerste, tweede, derde lid en vijfde lid, van de Wet economische delicten](../../../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md);
+e.*misdrijf:* strafbare feiten als bedoeld in het Tweede Boek van het Wetboek van Strafrecht en artikel 2, eerste, tweede, derde lid en vijfde lid, van de Wet economische delicten;
 
 f.*strafbaar feit:* feit dat aanleiding kan zijn tot strafvervolging en is bedreigd met een strafrechtelijke sanctie;
 
-g.*NIWO:* Stichting Nationale en Internationale Wegvervoer Organisatie, als bedoeld in de [Wet goederenvervoer over de weg](../../../../../../../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md);
+g.*NIWO:* Stichting Nationale en Internationale Wegvervoer Organisatie, als bedoeld in de Wet goederenvervoer over de weg;
 
-h.*vergunning:* vergunning als bedoeld in [artikel 5, eerste lid en derde lid, van de Wet goederenvervoer over de weg](../../../../../../../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md).
+h.*vergunning:* vergunning als bedoeld in artikel 5, eerste lid en derde lid, van de Wet goederenvervoer over de weg.
 
 ###Artikel 2 
 
 Deze beleidsregel heeft betrekking op:
 
-a.de strafbare feiten die de NIWO relevant acht voor het begrip ernstig gevaar als bedoeld in [artikel 3, eerste lid, onder a en b, van de Wet Bibob](../../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) en voor een aanwijzing of vermoeden als bedoeld in artikel 3, zesde lid, van de Wet Bibob;
+a.de strafbare feiten die de NIWO relevant acht voor het begrip ernstig gevaar als bedoeld in artikel 3, eerste lid, onder a en b, van de Wet Bibob en voor een aanwijzing of vermoeden als bedoeld in artikel 3, zesde lid, van de Wet Bibob;
 
-b.de belangen die in de afweging van een besluit inzake een vergunning kunnen worden meegewogen, anders dan de aanwezigheid van ernstig gevaar als bedoeld in [artikel 3, eerste lid, onder a en b, van de Wet Bibob](../../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) of van een aanwijzing of een vermoeden als bedoeld in artikel 3, zesde lid, van de Wet Bibob;
+b.de belangen die in de afweging van een besluit inzake een vergunning kunnen worden meegewogen, anders dan de aanwezigheid van ernstig gevaar als bedoeld in artikel 3, eerste lid, onder a en b, van de Wet Bibob of van een aanwijzing of een vermoeden als bedoeld in artikel 3, zesde lid, van de Wet Bibob;
 
-c.de feiten en omstandigheden die kunnen leiden tot aanvraag van een advies van Bureau Bibob als bedoeld in [artikel 7, derde lid](../../../../../../../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md) en [artikel 12, derde lid, van de Wet goederenvervoer over de weg](../../../../../../../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md).
+c.de feiten en omstandigheden die kunnen leiden tot aanvraag van een advies van Bureau Bibob als bedoeld in artikel 7, derde lid en artikel 12, derde lid, van de Wet goederenvervoer over de weg.
 
 ###Hoofdstuk 2 
 
@@ -47,7 +47,7 @@ c.de feiten en omstandigheden die kunnen leiden tot aanvraag van een advies van 
 
 ###Artikel 3 
 
-De NIWO kan op grond van [artikel 7, tweede lid](../../../../../../../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md), en [artikel 12, tweede lid, van de Wet goederenvervoer over de weg](../../../../../../../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md) een vergunning weigeren of intrekken indien er ernstig gevaar bestaat dat de vergunning mede zal worden gebruikt om uit gepleegde strafbare feiten verkregen of te verkrijgen, op geld waardeerbare voordelen te benutten.
+De NIWO kan op grond van artikel 7, tweede lid, en artikel 12, tweede lid, van de Wet goederenvervoer over de weg een vergunning weigeren of intrekken indien er ernstig gevaar bestaat dat de vergunning mede zal worden gebruikt om uit gepleegde strafbare feiten verkregen of te verkrijgen, op geld waardeerbare voordelen te benutten.
 
 ###Artikel 4 
 
@@ -67,69 +67,69 @@ e.die van zodanig gewicht zijn dat in handeling en gevolg de rechtsorde dan wel 
 
 Als strafbare feiten, bedoeld in artikel 4, kunnen in ieder geval worden aangemerkt:
 
-1.De commune delicten uit het [Wetboek van Strafrecht](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md):
+1.De commune delicten uit het Wetboek van Strafrecht:
 
-a.deelneming aan een criminele organisatie ([140 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), voor zover het betreft organisaties die zich schuldig hebben gemaakt aan de in dit artikel genoemde feiten;
+a.deelneming aan een criminele organisatie (140 WvSr), voor zover het betreft organisaties die zich schuldig hebben gemaakt aan de in dit artikel genoemde feiten;
 
-b.omkoping van of dwanguitoefening op een ambtenaar, bestuurder of beëdigde beambte ([177](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [179](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [183 lid 1 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+b.omkoping van of dwanguitoefening op een ambtenaar, bestuurder of beëdigde beambte (177, 179, 183 lid 1 WvSr);
 
-c.omkoping van een rechter ([178 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+c.omkoping van een rechter (178 WvSr);
 
-d.het illegaal te werk doen stellen van zich onrechtmatig in Nederland bevindende personen ([197b WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+d.het illegaal te werk doen stellen van zich onrechtmatig in Nederland bevindende personen (197b WvSr);
 
-e.valsheid in geschrifte ([225-227](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [230 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+e.valsheid in geschrifte (225-227, 230 WvSr);
 
-f.mensenhandel, specifiek het vervoeren van personen die worden bewogen tot seksuele handelingen met derden tegen betaling ([250a, eerste lid, onder 2 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+f.mensenhandel, specifiek het vervoeren van personen die worden bewogen tot seksuele handelingen met derden tegen betaling (250a, eerste lid, onder 2 WvSr);
 
-g.mensenroof ([278 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+g.mensenroof (278 WvSr);
 
-h.slavenhandel ([276 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+h.slavenhandel (276 WvSr);
 
-i.schaking ([281 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+i.schaking (281 WvSr);
 
-j.wederrechtelijke vrijheidsberoving ([282](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [283 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) en gijzeling ([282a WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+j.wederrechtelijke vrijheidsberoving (282, 283 WvSr) en gijzeling (282a WvSr);
 
-k.diefstal en diefstal met geweld ([310](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [312 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+k.diefstal en diefstal met geweld (310, 312 WvSr);
 
-l.afpersing ([317 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) en afdreiging ([318 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+l.afpersing (317 WvSr) en afdreiging (318 WvSr);
 
-m.verduistering ([321 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) en beroepshalve verduistering ([322 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+m.verduistering (321 WvSr) en beroepshalve verduistering (322 WvSr);
 
-n.oplichting ([326 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) en betalingsbedrog ([326a WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+n.oplichting (326 WvSr) en betalingsbedrog (326a WvSr);
 
-o.verzekeringsoplichting ([328 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+o.verzekeringsoplichting (328 WvSr);
 
-p.oneerlijke mededinging door misleiding ([328bis WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+p.oneerlijke mededinging door misleiding (328bis WvSr);
 
-q.de aflevering van vervalste voedselwaren en geneesmiddelen ([330 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) en het plegen van bedrieglijke handelingen bij de levering van materialen ([331, tweede lid WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+q.de aflevering van vervalste voedselwaren en geneesmiddelen (330 WvSr) en het plegen van bedrieglijke handelingen bij de levering van materialen (331, tweede lid WvSr);
 
-r.het in-, door- of uitvoeren, afleveren en in voorraad hebben van valse waren of merken ([337, eerste lid, WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), in het bijzonder het plegen beroepshalve (337, tweede WvSr);
+r.het in-, door- of uitvoeren, afleveren en in voorraad hebben van valse waren of merken (337, eerste lid, WvSr), in het bijzonder het plegen beroepshalve (337, tweede WvSr);
 
-s.bankbreuk ([340 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) en bedrieglijke bankbreuk ([341 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+s.bankbreuk (340 WvSr) en bedrieglijke bankbreuk (341 WvSr);
 
-t.opzetheling ([416 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) en schuldheling ([417bis WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+t.opzetheling (416 WvSr) en schuldheling (417bis WvSr);
 
 u.de medeplichtigheid aan of poging tot het begaan van onder b tot en met t genoemde strafbare feiten.
 
-2.De delicten uit de [Wet wapens en munitie](../../../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md):Het vervoeren, doen binnenkomen of doen uitgaan van wapens van categorieën I, II en III ([13, eerste lid](../../../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md); [22, eerste lid, WWM](../../../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)).
+2.De delicten uit de Wet wapens en munitie:Het vervoeren, doen binnenkomen of doen uitgaan van wapens van categorieën I, II en III (13, eerste lid; 22, eerste lid, WWM).
 
-3.De delicten uit de [Opiumwet](../../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md):
+3.De delicten uit de Opiumwet:
 
-a.het importeren, exporteren, bereiden, telen, bewerken, verwerken, afleveren, verstrekken, vervoeren of aanwezig hebben van verboden middelen ([2, eerste lid, onder A, B, C en D](../../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md) en [3, eerste lid, onder A, B, C en D van de Opiumwet](../../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md));
+a.het importeren, exporteren, bereiden, telen, bewerken, verwerken, afleveren, verstrekken, vervoeren of aanwezig hebben van verboden middelen (2, eerste lid, onder A, B, C en D en 3, eerste lid, onder A, B, C en D van de Opiumwet);
 
-b.het medeplichtig zijn aan of op enigerlei wijze behulpzaam zijn bij de onder a bedoelde handelingen ([10a, eerste lid Opiumwet](../../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md)).
+b.het medeplichtig zijn aan of op enigerlei wijze behulpzaam zijn bij de onder a bedoelde handelingen (10a, eerste lid Opiumwet).
 
-4.De delicten uit de [Algemene wet inzake rijksbelastingen](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md):
+4.De delicten uit de Algemene wet inzake rijksbelastingen:
 
-a.het opzettelijk of met grove schuld ontduiken van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](../../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) ([artikelen 67, sub e, Awr](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md));
+a.het opzettelijk of met grove schuld ontduiken van belasting die een rechtspersoon verplicht is af te dragen op grond van de Wet op de omzetbelasting, Wet op de inkomstenbelasting en de Algemene wet inzake rijksbelastingen (artikelen 67, sub e, Awr);
 
-b.het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](../../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) ([artikelen 67, sub f, Awr](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)).
+b.het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de Wet op de omzetbelasting, Wet op de inkomstenbelasting en de Algemene wet inzake rijksbelastingen (artikelen 67, sub f, Awr).
 
-5.De delicten uit de [Wet vervoer gevaarlijke stoffen](../../../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md):
+5.De delicten uit de Wet vervoer gevaarlijke stoffen:
 
-a.het is verboden de handelingen, bedoeld in [artikel 2, eerste lid](../../../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), te verrichten ten aanzien van gevaarlijke stoffen en vervoermiddelen die zijn aangewezen ingevolge [artikel 3, onderdeel a](../../../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) ([artikel 4, WVGS](../../../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md));
+a.het is verboden de handelingen, bedoeld in artikel 2, eerste lid, te verrichten ten aanzien van gevaarlijke stoffen en vervoermiddelen die zijn aangewezen ingevolge artikel 3, onderdeel a (artikel 4, WVGS);
 
-b.het is verboden de handelingen, bedoeld in [artikel 2, eerste lid](../../../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), te verrichten ten aanzien van gevaarlijke stoffen en vervoermiddelen die zijn aangewezen ingevolge [artikel 3, onderdeel b](../../../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), anders dan met inachtneming van de in dat onderdeel bedoelde regels ([artikel 5, WVGS](../../../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md)).
+b.het is verboden de handelingen, bedoeld in artikel 2, eerste lid, te verrichten ten aanzien van gevaarlijke stoffen en vervoermiddelen die zijn aangewezen ingevolge artikel 3, onderdeel b, anders dan met inachtneming van de in dat onderdeel bedoelde regels (artikel 5, WVGS).
 
 ###Artikel 6 
 
@@ -158,7 +158,7 @@ h.de aan mens en goed toegebrachte schade.
 
 ###Artikel 7 
 
-De NIWO kan op grond van de [artikelen 7, tweede lid](../../../../../../../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md), en [12, tweede lid, van de Wet goederenvervoer over de weg](../../../../../../../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md) een vergunning weigeren of intrekken indien er ernstig gevaar bestaat dat de vergunning mede zal worden gebruikt om strafbare feiten te plegen.
+De NIWO kan op grond van de artikelen 7, tweede lid, en 12, tweede lid, van de Wet goederenvervoer over de weg een vergunning weigeren of intrekken indien er ernstig gevaar bestaat dat de vergunning mede zal worden gebruikt om strafbare feiten te plegen.
 
 ###Artikel 8 
 
@@ -176,55 +176,55 @@ d.die van zodanig gewicht zijn dat in handeling en gevolg de rechtsorde dan wel 
 
 Als strafbare feiten, bedoeld in artikel 8 kunnen in ieder geval worden aangemerkt:
 
-1.De commune delicten uit het [Wetboek van Strafrecht](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md):
+1.De commune delicten uit het Wetboek van Strafrecht:
 
-a.deelneming aan een criminele organisatie ([140 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), voor zover het betreft organisaties die zich schuldig hebben gemaakt aan de in dit artikel genoemde strafbare feiten;
+a.deelneming aan een criminele organisatie (140 WvSr), voor zover het betreft organisaties die zich schuldig hebben gemaakt aan de in dit artikel genoemde strafbare feiten;
 
-b.omkoping van of dwanguitoefening op een ambtenaar, bestuurder en beëdigd beambte ([177](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [179](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [183 eerste lid, WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+b.omkoping van of dwanguitoefening op een ambtenaar, bestuurder en beëdigd beambte (177, 179, 183 eerste lid, WvSr);
 
-c.omkoping van een rechter ([178 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+c.omkoping van een rechter (178 WvSr);
 
 d.mensensmokkel ofwel het behulpzaam zijn bij het onrechtmatig toegang verschaffen tot een land binnen de Europese gemeenschap (179a WvSr),
 
-e.slavenhandel ([267 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+e.slavenhandel (267 WvSr);
 
-f.mensenhandel, specifiek het vervoeren van personen die worden bewogen tot seksuele handelingen met derden tegen betaling ([250a, eerste lid, sub 2 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)),
+f.mensenhandel, specifiek het vervoeren van personen die worden bewogen tot seksuele handelingen met derden tegen betaling (250a, eerste lid, sub 2 WvSr),
 
-g.mensenroof ([278 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+g.mensenroof (278 WvSr);
 
-h.schaking ([281 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+h.schaking (281 WvSr);
 
-i.wederrechtelijke vrijheidsberoving ([282](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [283](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) en gijzeling ([282a WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+i.wederrechtelijke vrijheidsberoving (282, 283) en gijzeling (282a WvSr);
 
-j.beroepshalve verduistering ([322 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+j.beroepshalve verduistering (322 WvSr);
 
-k.de aflevering van vervalste voedselwaren en geneesmiddelen ([330 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) en het plegen van bedrieglijke handelingen bij de levering van materialen ([331, lid 2, WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+k.de aflevering van vervalste voedselwaren en geneesmiddelen (330 WvSr) en het plegen van bedrieglijke handelingen bij de levering van materialen (331, lid 2, WvSr);
 
-l.het in-, door- of uitvoeren, afleveren en in voorraad hebben van valse waren of merken ([337, eerste lid, WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)), in het bijzonder het plegen beroepshalve (337, lid 2, WvSr);
+l.het in-, door- of uitvoeren, afleveren en in voorraad hebben van valse waren of merken (337, eerste lid, WvSr), in het bijzonder het plegen beroepshalve (337, lid 2, WvSr);
 
-m.opzetheling ([416](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) en schuldheling ([417bis WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+m.opzetheling (416) en schuldheling (417bis WvSr);
 
 n.de medeplichtigheid aan of poging tot het begaan van onder b tot en met m genoemde strafbare feiten.
 
-2.De delicten uit de [Wet wapens en munitie](../../../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md):Het vervoeren, doen binnenkomen of doen uitgaan van wapens van categorieën I, II en III ([13, eerste lid](../../../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md); [22, eerste lid, WWM](../../../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)).
+2.De delicten uit de Wet wapens en munitie:Het vervoeren, doen binnenkomen of doen uitgaan van wapens van categorieën I, II en III (13, eerste lid; 22, eerste lid, WWM).
 
-3.De delicten uit de [Opiumwet](../../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md):
+3.De delicten uit de Opiumwet:
 
-a.het importeren, exporteren, verwerken, afleveren, verstrekken, vervoeren of aanwezig hebben van verboden middelen ([2, eerste lid, onder A, B, C en D](../../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md) en [3, eerste lid, onder A, B, C en D Opiumwet](../../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md));
+a.het importeren, exporteren, verwerken, afleveren, verstrekken, vervoeren of aanwezig hebben van verboden middelen (2, eerste lid, onder A, B, C en D en 3, eerste lid, onder A, B, C en D Opiumwet);
 
-b.het medeplichtig zijn aan of op enigerlei wijze behulpzaam zijn bij de onder a bedoelde handelingen ([10a, eerste lid Opiumwet](../../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md)).
+b.het medeplichtig zijn aan of op enigerlei wijze behulpzaam zijn bij de onder a bedoelde handelingen (10a, eerste lid Opiumwet).
 
-4.De delicten uit de [Algemene wet inzake rijksbelastingen](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md):
+4.De delicten uit de Algemene wet inzake rijksbelastingen:
 
-a.het opzettelijk of met grove schuld ontduiken van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](../../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) ([artikelen 67, onder e, Awr](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md));
+a.het opzettelijk of met grove schuld ontduiken van belasting die een rechtspersoon verplicht is af te dragen op grond van de Wet op de omzetbelasting, Wet op de inkomstenbelasting en de Algemene wet inzake rijksbelastingen (artikelen 67, onder e, Awr);
 
-b.het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](../../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) ([artikelen 67, onder f, Awr](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)).
+b.het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de Wet op de omzetbelasting, Wet op de inkomstenbelasting en de Algemene wet inzake rijksbelastingen (artikelen 67, onder f, Awr).
 
-5.De delicten uit de [Wet vervoer gevaarlijke stoffen](../../../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md):
+5.De delicten uit de Wet vervoer gevaarlijke stoffen:
 
-c.het is verboden de handelingen, bedoeld in [artikel 2, eerste lid](../../../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), te verrichten ten aanzien van gevaarlijke stoffen en vervoermiddelen die zijn aangewezen ingevolge [artikel 3, onderdeel a](../../../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) ([artikel 4, WVGS](../../../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md));
+c.het is verboden de handelingen, bedoeld in artikel 2, eerste lid, te verrichten ten aanzien van gevaarlijke stoffen en vervoermiddelen die zijn aangewezen ingevolge artikel 3, onderdeel a (artikel 4, WVGS);
 
-d.het is verboden de handelingen, bedoeld in [artikel 2, eerste lid](../../../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), te verrichten ten aanzien van gevaarlijke stoffen en vervoermiddelen die zijn aangewezen ingevolge [artikel 3, onderdeel b](../../../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), anders dan met inachtneming van de in dat onderdeel bedoelde regels ([artikel 5, WVGS](../../../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md)).
+d.het is verboden de handelingen, bedoeld in artikel 2, eerste lid, te verrichten ten aanzien van gevaarlijke stoffen en vervoermiddelen die zijn aangewezen ingevolge artikel 3, onderdeel b, anders dan met inachtneming van de in dat onderdeel bedoelde regels (artikel 5, WVGS).
 
 ###Artikel 10 
 
@@ -253,7 +253,7 @@ h.de aan mens en goed toegebrachte schade.
 
 ###Artikel 11 
 
-De NIWO kan op grond van de [artikelen 7, tweede lid](../../../../../../../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md), en [12, tweede lid, van de Wet goederenvervoer](../../../../../../../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md) een vergunning weigeren of intrekken indien feiten en omstandigheden er op wijzen of redelijkerwijze doen vermoeden dat ter verkrijging van een vergunning een strafbaar feit is gepleegd.
+De NIWO kan op grond van de artikelen 7, tweede lid, en 12, tweede lid, van de Wet goederenvervoer een vergunning weigeren of intrekken indien feiten en omstandigheden er op wijzen of redelijkerwijze doen vermoeden dat ter verkrijging van een vergunning een strafbaar feit is gepleegd.
 
 ###Artikel 12 
 
@@ -273,31 +273,31 @@ Als strafbare feiten, bedoeld in artikel 12, kunnen in ieder geval worden aangem
 
 1.De commune delicten:
 
-a.omkoping van of dwanguitoefening op een ambtenaar, bestuurder of beëdigd beambte ([177](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [179](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [183 eerste lid, WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+a.omkoping van of dwanguitoefening op een ambtenaar, bestuurder of beëdigd beambte (177, 179, 183 eerste lid, WvSr);
 
-b.omkoping van een rechter ([178 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+b.omkoping van een rechter (178 WvSr);
 
-c.valsheid in geschrifte ([225-227](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [230 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+c.valsheid in geschrifte (225-227, 230 WvSr);
 
-d.afpersing ([317 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) en afdreiging ([318 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+d.afpersing (317 WvSr) en afdreiging (318 WvSr);
 
-e.oplichting ([326 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) en betalingsbedrog ([326a WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+e.oplichting (326 WvSr) en betalingsbedrog (326a WvSr);
 
-f.verzekeringsoplichting ([328a WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+f.verzekeringsoplichting (328a WvSr);
 
-g.oneerlijke mededinging door misleiding ([328bis WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+g.oneerlijke mededinging door misleiding (328bis WvSr);
 
-h.bankbreuk ([340 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) en bedrieglijke bankbreuk ([341 WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));
+h.bankbreuk (340 WvSr) en bedrieglijke bankbreuk (341 WvSr);
 
-i.computervredebreuk ([350b WvSr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) of
+i.computervredebreuk (350b WvSr) of
 
 j.de medeplichtigheid aan of poging tot het begaan van onder a tot en met i genoemde strafbare feiten.
 
-2.De delicten uit de [Algemene wet inzake rijksbelastingen](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md):
+2.De delicten uit de Algemene wet inzake rijksbelastingen:
 
-a.het opzettelijk of met grove schuld ontduiken van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](../../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) ([artikelen 67, onder e, Awr](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md));
+a.het opzettelijk of met grove schuld ontduiken van belasting die een rechtspersoon verplicht is af te dragen op grond van de Wet op de omzetbelasting, Wet op de inkomstenbelasting en de Algemene wet inzake rijksbelastingen (artikelen 67, onder e, Awr);
 
-b.het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](../../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) ([artikelen 67, onder f, Awr](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)).
+b.het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de Wet op de omzetbelasting, Wet op de inkomstenbelasting en de Algemene wet inzake rijksbelastingen (artikelen 67, onder f, Awr).
 
 ###Artikel 14 
 
@@ -326,7 +326,7 @@ h.de aan mens en goed toegebrachte schade.
 
 ###Artikel 15 
 
-1. De NIWO kan een besluit tot weigering of intrekking van een vergunning waarbij ernstig gevaar als bedoeld in [artikel 3, eerste lid Wet Bibob](../../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) of een aanwijzing of een vermoeden als bedoeld in artikel 3, zesde lid Wet Bibob is geconstateerd achterwege laten indien sprake is van andere, zwaarwegende belangen en omstandigheden.
+1. De NIWO kan een besluit tot weigering of intrekking van een vergunning waarbij ernstig gevaar als bedoeld in artikel 3, eerste lid Wet Bibob of een aanwijzing of een vermoeden als bedoeld in artikel 3, zesde lid Wet Bibob is geconstateerd achterwege laten indien sprake is van andere, zwaarwegende belangen en omstandigheden.
 2. Deze belangen en omstandigheden kunnen zijn:
 
 a.zwaarwegende economische of maatschappelijke gevolgen van intrekking of weigering van de vergunning;
@@ -351,11 +351,11 @@ h.de opgewekte verwachtingen naar aanvrager of houder.
 
 ###Artikel 16 
 
-Alvorens de NIWO een advies als bedoeld in [artikel 9, eerste lid van de Wet Bibob](../../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) aanvraagt, maakt hij redelijkerwijze gebruik van andere, bij of krachtens de [Wet goederenvervoer over de weg](../../../../../../../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md) en de [Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) toegestane middelen om te toetsen of er feiten of omstandigheden aanwezig zijn die kunnen leiden tot toepassing van [artikel 3, eerste of zesde lid Wet Bibob](../../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).
+Alvorens de NIWO een advies als bedoeld in artikel 9, eerste lid van de Wet Bibob aanvraagt, maakt hij redelijkerwijze gebruik van andere, bij of krachtens de Wet goederenvervoer over de weg en de Algemene wet bestuursrecht toegestane middelen om te toetsen of er feiten of omstandigheden aanwezig zijn die kunnen leiden tot toepassing van artikel 3, eerste of zesde lid Wet Bibob.
 
 ###Artikel 17 
 
-1. De feiten en omstandigheden die kunnen leiden tot aanvraag van een advies als bedoeld in [artikel 9, eerste lid Wet Bibob](../../../../../../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) kunnen blijken uit:
+1. De feiten en omstandigheden die kunnen leiden tot aanvraag van een advies als bedoeld in artikel 9, eerste lid Wet Bibob kunnen blijken uit:
 
 a.de kenmerken van de aanvrager of houder van een vergunning of de omgeving waarbinnen deze zijn activiteiten verricht; 
 

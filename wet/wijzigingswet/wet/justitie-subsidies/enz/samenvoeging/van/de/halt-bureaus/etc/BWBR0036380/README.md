@@ -10,32 +10,32 @@ Alzo Wij in overweging genomen hebben, dat het gewenst is de Wet Justitie-subsid
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Wijzigt de Wet Justitie-subsidies. 
 
 ### Artikel  II  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Wijzigt de Kaderwet overige BZK-subsidies. 
 
 ### Artikel  III  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector. 
 
 ### Artikel  IV  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Ministeriële regelingen die voor het tijdstip van inwerkingtreding van deze wet een grondslag vonden in bepalingen, gesteld bij of krachtens artikel 3 en 4 van de Wet overige BZK-subsidies, berusten, voor zover zij voorzien in subsidies binnen het toepassingsgebied van hoofdstuk 4A van de Wet Justitie-subsidies, vanaf het tijdstip van inwerkingtreding van deze wet op artikel 48a van de Wet Justitie-subsidies of mede op dat artikel. 
 
 ### Artikel  V  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Deze wet is niet van toepassing op subsidies die voor de inwerkingtreding van deze wet zijn verstrekt. 
 
 ### Artikel  VI  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en kan terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 

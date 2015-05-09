@@ -35,15 +35,15 @@ j. 900 MHz band: frequentiebereik van 880–915 MHz en 925–960 MHz;
 
 k. 1800 MHz-band: frequentiebereik van 1710–1785 MHz en 1805–1880 MHz;   
 
-l. transitiedatum 900: de dag na de datum waarop alle vergunningen, bedoeld in [artikel 20.2 van de Telecommunicatiewet](../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), voor zover zij betrekking hebben op de 900 MHz-band, en met inbegrip van verlengingen, zijn afgelopen   
+l. transitiedatum 900: de dag na de datum waarop alle vergunningen, bedoeld in artikel 20.2 van de Telecommunicatiewet, voor zover zij betrekking hebben op de 900 MHz-band, en met inbegrip van verlengingen, zijn afgelopen   
 
-m. transitiedatum 1800: de dag na de datum waarop alle vergunningen, bedoeld in [artikel 20.2 van de Telecommunicatiewet](../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), voor zover zij betrekking hebben op de 1800 MHz-band, en met inbegrip van verlengingen, zijn afgelopen;   
+m. transitiedatum 1800: de dag na de datum waarop alle vergunningen, bedoeld in artikel 20.2 van de Telecommunicatiewet, voor zover zij betrekking hebben op de 1800 MHz-band, en met inbegrip van verlengingen, zijn afgelopen;   
 
-n. mededeling van de minister: de mededeling van de minister, als bedoeld in [artikel 42, van de Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz](../../../../../../../../../../../../../ministeriele-regeling/regeling/aanvraag-/en/veilingprocedure/vergunningen/800/900/en/1800/mhz/BWBR0031069/README.md);   
+n. mededeling van de minister: de mededeling van de minister, als bedoeld in artikel 42, van de Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz;   
 
 o. verlengingsdatum: de datum waarop het besluit tot verlenging van deze vergunning voor de periode na 25 februari 2013 in werking treedt.   
 
-p. veiling: de veiling die plaatsvindt op basis van [Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz](../../../../../../../../../../../../../ministeriele-regeling/regeling/aanvraag-/en/veilingprocedure/vergunningen/800/900/en/1800/mhz/BWBR0031069/README.md).    
+p. veiling: de veiling die plaatsvindt op basis van Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz.    
 
 ### §  2  
 
@@ -62,16 +62,16 @@ p. veiling: de veiling die plaatsvindt op basis van [Regeling aanvraag- en veili
 
 1.   In het belang van continuïteit van dienstverlening, sluit de vergunninghouder binnen:  
 
-a. drie weken na de mededeling van de minister een schriftelijke raamovereenkomst met de houders van de vergunningen, bedoeld in [artikel 20.2 van de Telecommunicatiewet](../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), en   
+a. drie weken na de mededeling van de minister een schriftelijke raamovereenkomst met de houders van de vergunningen, bedoeld in artikel 20.2 van de Telecommunicatiewet, en   
 
-b. drie maanden na de mededeling van de minister, dan wel indien dit later is, binnen vier weken na de verlengingsdatum een schriftelijke transitie-overeenkomst, bedoeld in het vierde lid, met de houders van de vergunningen, bedoeld in [artikel 20.2 van de Telecommunicatiewet](../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).      
+b. drie maanden na de mededeling van de minister, dan wel indien dit later is, binnen vier weken na de verlengingsdatum een schriftelijke transitie-overeenkomst, bedoeld in het vierde lid, met de houders van de vergunningen, bedoeld in artikel 20.2 van de Telecommunicatiewet.      
 2.   De raamovereenkomst regelt in elk geval afspraken over de frequentieruimte die gebruikt zal worden bij de uitvoering van de transitie.    
 3.   De vergunninghouder verstrekt onverwijld een afschrift aan de minister van de raamovereenkomst, de transitie-overeenkomst en wijzigingen daarvan.    
 4.   Voor zover de raamovereenkomst hierin niet voorziet, regelt de transitie-overeenkomst in elk geval:  
 
-a. het proces waarin elke houder van een vergunning, bedoeld in [artikel 20.2 van de Telecommunicatiewet](../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), het gebruik van de aan hem toegekende frequentieruimte op de verlengingsdatum, voor zover de vergunninghouder deze niet in de veiling heeft verworven, (geleidelijk) kan staken vóór de transitiedatum 900 dan wel de transitiedatum 1800;   
+a. het proces waarin elke houder van een vergunning, bedoeld in artikel 20.2 van de Telecommunicatiewet, het gebruik van de aan hem toegekende frequentieruimte op de verlengingsdatum, voor zover de vergunninghouder deze niet in de veiling heeft verworven, (geleidelijk) kan staken vóór de transitiedatum 900 dan wel de transitiedatum 1800;   
 
-b. de overdrachten van (delen van) vergunningen van de houders van vergunningen, bedoeld in [artikel 20.2 van de Telecommunicatiewet](../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), die hen in staat stellen om voor de transitiedatum 900 dan wel de transitiedatum 1800 over te schakelen naar de frequenties die overeenkomen met de frequenties behorend bij de 900 MHz- en 1800 MHz-vergunningen die zij verworven hebben in de veiling;   
+b. de overdrachten van (delen van) vergunningen van de houders van vergunningen, bedoeld in artikel 20.2 van de Telecommunicatiewet, die hen in staat stellen om voor de transitiedatum 900 dan wel de transitiedatum 1800 over te schakelen naar de frequenties die overeenkomen met de frequenties behorend bij de 900 MHz- en 1800 MHz-vergunningen die zij verworven hebben in de veiling;   
 
 c. de data waarop de overdrachten bedoeld in onderdeel b plaatsvinden, welke per in de overeenkomst omschreven geografisch gebied kunnen verschillen;   
 
@@ -80,7 +80,7 @@ d. de procedure waaronder de overeenkomst gewijzigd kan worden;
 e. de wijze waarop storing wordt voorkomen, indien de vergunning met kenmerk HDTP/95/5446/HP door meerdere vergunninghouders wordt gehouden, en   
 
 f. Indien partijen geen overeenstemming bereiken over de financiële voorwaarden voor de overeengekomen overdracht, bedoeld in onderdeel b, wordt in de transitie-overeenkomst bepaald op welke wijze dat geschil later bindend wordt beslecht.      
-5.   Indien in het kader van de raamovereenkomst of de transitie-overeenkomst (delen van) vergunningen worden overgedragen wordt de ontvangst van een afschrift van de overeenkomst tot overdracht gelijkgesteld met de ontvangst van een aanvraag als bedoeld in [artikel 3.8, eerste lid, van de Telecommunicatiewet](../../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md). De Minister verleent door middel van dit lid toestemming voor een gehele overdracht van de vergunning met kenmerk HDTP/95/5446/HP en gedeeltelijke overdrachten waarbij de hoeveelheid over te dragen frequentiespectrum overal in Nederland gelijk is en tevens, vanaf de datum van inwerkingtreding van de transitie-overeenkomst, toestemming voor gedeeltelijke overdrachten waarbij de hoeveelheid over te dragen frequentiespectrum per regio van Nederland verschilt.    
+5.   Indien in het kader van de raamovereenkomst of de transitie-overeenkomst (delen van) vergunningen worden overgedragen wordt de ontvangst van een afschrift van de overeenkomst tot overdracht gelijkgesteld met de ontvangst van een aanvraag als bedoeld in artikel 3.8, eerste lid, van de Telecommunicatiewet. De Minister verleent door middel van dit lid toestemming voor een gehele overdracht van de vergunning met kenmerk HDTP/95/5446/HP en gedeeltelijke overdrachten waarbij de hoeveelheid over te dragen frequentiespectrum overal in Nederland gelijk is en tevens, vanaf de datum van inwerkingtreding van de transitie-overeenkomst, toestemming voor gedeeltelijke overdrachten waarbij de hoeveelheid over te dragen frequentiespectrum per regio van Nederland verschilt.    
 6.   De overeenkomst wordt nagekomen en bevat geen opschortende of ontbindende voorwaarden. Een geschil over de financiële voorwaarden is geen grond om de raamovereenkomst of de transitieovereenkomst niet te sluiten dan wel de uitvoering van de overdrachtsverplichtingen in de overeenkomst op te schorten.    
 7.   De minister kan de vergunninghouder aanvullende verplichtingen opleggen die verband houden met de omschakeling. De vergunninghouder heeft dan geen aanspraak op enigerlei vorm van schadevergoeding of schadeloosstelling.   
 

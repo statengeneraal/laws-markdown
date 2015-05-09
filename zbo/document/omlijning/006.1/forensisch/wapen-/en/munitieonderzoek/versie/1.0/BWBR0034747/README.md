@@ -4,7 +4,7 @@
 
 ####Introductie
 
-Het [Besluit register deskundige in strafzaken](../../../../../../../../../../../AMvB/besluit/register/deskundige/in/strafzaken/BWBR0026190/README.md) heeft het College gerechtelijk deskundigen van het Nederlands Register Gerechtelijk Deskundigen (NRGD) de taak gegeven de registratie-eisen voor elk deskundigheidsgebied te specificeren. Voorafgaand aan het vastleggen van de specifieke registratie-eisen, heeft het College NRGD elk deskundigheidsgebied gedefinieerd met het doel de volgende personen duidelijkheid te verschaffen. 
+Het Besluit register deskundige in strafzaken heeft het College gerechtelijk deskundigen van het Nederlands Register Gerechtelijk Deskundigen (NRGD) de taak gegeven de registratie-eisen voor elk deskundigheidsgebied te specificeren. Voorafgaand aan het vastleggen van de specifieke registratie-eisen, heeft het College NRGD elk deskundigheidsgebied gedefinieerd met het doel de volgende personen duidelijkheid te verschaffen. 
 
 1. Gebruikers (Openbaar Ministerie, rechters of advocatuur), over de precieze activiteiten waarmee een deskundige zich op dit gebied bezig houdt en de activiteiten die buiten zijn deskundigheidsgebied vallen.  
 
@@ -90,7 +90,7 @@ Het deskundigheidsgebied Toetsing Wet Wapens en Munitie richt zich o.a. op de vo
 
 * Onderzoek naar de categorie van de Wet Wapens en Munitie waaronder het wapen valt  
 
-* Onderzoek gerelateerd aan de vrijstellingsgronden van de [Regeling wapens en munitie](../../../../../../../../../../../ministeriele-regeling/regeling/wapens/en/munitie/BWBR0008800/README.md) (RWM)  
+* Onderzoek gerelateerd aan de vrijstellingsgronden van de Regeling wapens en munitie (RWM)  
 
 * Het hieraan gerelateerde wapentechnisch onderzoek     
 ### C  

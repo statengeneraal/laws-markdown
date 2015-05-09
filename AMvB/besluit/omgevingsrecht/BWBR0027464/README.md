@@ -1105,13 +1105,13 @@ In deze bijlage wordt verstaan onder:
 
 *CMR-stof:* stof of preparaat die volgens bijlage I bij richtlijn nr. 67/548/EEG geclassificeerd is als Kankerverwekkend categorie 1 of 2 of als Mutageen categorie 1 of 2 of als «Voor de voortplanting vergiftig» categorie 1 of 2;  
 
-*EG-verordening dierlijke bijproducten:* verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad van de Europese Unie van 21 oktober 2009 (PbEU L 300) tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002; 
-
-*genetische modificatie, micro-organismen, organismen, genetisch gemodificeerde organismen:* hetgeen daaronder wordt verstaan in het Besluit genetisch gemodificeerde organismen milieubeheer;  
+*EG-verordening dierlijke bijproducten:* verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad van de Europese Unie van 21 oktober 2009 (PbEU L 300) tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002;  
 
 *gevaarlijke stoffen:* stoffen en voorwerpen, waarvan het vervoer volgens het ADR is verboden of slechts onder daarin opgenomen voorwaarden is toegestaan, dan wel stoffen, materialen en voorwerpen aangeduid in de International Maritime Dangerous Goods Code;  
 
 *meststoffengroep:* aanduiding van de gevaarcategorie van vaste minerale anorganische meststoffen overeenkomstig de indeling van PGS 7;  
+
+*micro-organismen, organismen en genetisch gemodificeerde organismen:* hetgeen daaronder wordt verstaan in het Besluit genetisch gemodificeerde organismen milieubeheer 2013; 
 
 *ondergrondse opslagtank:* opslagtank die geheel in de bodem ligt of ingeterpt is;
 
@@ -2019,27 +2019,13 @@ b. transformatorstations, met niet in een gesloten gebouw ondergebrachte transfo
 
 ####Categorie 21
 
-21.1. Inrichtingen waarin: 
+21.1 Inrichtingen bestemd voor ingeperkt gebruik als bedoeld in het Besluit genetisch gemodificeerde organismen milieubeheer 2013.  
 
-a. laboratoria, dierverblijven, opslagruimten of kassen aanwezig zijn, die zijn bestemd voor: 
+21.2 Onder de in onderdeel 21.1 bedoelde activiteiten worden niet verstaan activiteiten met betrekking tot uitsluitend een of meer van de navolgende typen genetisch gemodificeerde organismen: 
 
-1°. de genetische modificatie van organismen of  
+a. activiteiten met genetisch gemodificeerde organismen als bedoeld in artikel 2.1 van het Besluit genetisch gemodificeerde organismen milieubeheer 2013;  
 
-2°. het voor onderwijs, onderzoek, ontwikkeling of niet-industriële doeleinden vermeerderen, opslaan, toepassen, voorhanden hebben, vervoeren, zich ontdoen of vernietigen van genetisch gemodificeerde organismen in hoeveelheden van niet meer dan tien liter cultuurvloeistof per eenheid of in hoeveelheden die om andere redenen zijn te beschouwen als kleinschalig;    
-
-b. dierverblijven, opslagruimten, kassen of installaties voor productieprocessen aanwezig zijn, die zijn bestemd voor het niet-kleinschalig vermeerderen, opslaan, toepassen, voorhanden hebben, vervoeren, zich ontdoen of vernietigen van genetisch gemodificeerde organismen.    
-
-21.2. Onder de in onderdeel 21.1 bedoelde handelingen worden niet begrepen: 
-
-a. handelingen, voor zover daarvoor een vergunning is verleend als bedoeld in artikel 23, eerste lid, van het Besluit genetisch gemodificeerde organismen milieubeheer;  
-
-b. handelingen met genetisch gemodificeerde organismen ten aanzien waarvan artikel 23, tweede lid, onderdeel d, van het onder a genoemde besluit toepassing heeft gevonden, dan wel met genetisch gemodificeerde organismen die vallen onder artikel 23, tweede lid, onder e, van dat besluit, en  
-
-c. het vervaardigen, vervoeren, toepassen, voorhanden hebben, aan een ander ter beschikking stellen of zich ontdoen van organismen die zijn vervaardigd door: 
-
-1°. celfusie, met inbegrip van protoplasfusie, van plantencellen van organismen die genetisch materiaal kunnen uitwisselen met behulp van traditionele kweekmethoden, of  
-
-2°. chemische of fysische mutagenese,   tenzij bij de vervaardiging daarvan als recipiënt of ouderorganisme gebruik wordt gemaakt van genetisch gemodificeerde organismen, die niet zijn verkregen op de onder 1° of 2° beschreven wijze, en ten aanzien waarvan geen toepassing heeft plaatsgehad van artikel 23, tweede lid, onder d, van het onder a genoemde besluit dan wel van genetisch gemodificeerde organismen die vallen onder artikel 23, tweede lid, onder e, van dat besluit.    
+b. activiteiten met genetisch gemodificeerde organismen die door Onze Minister zijn aangewezen.    
 
 21.3. Als categorieën vergunningplichtige inrichtingen als bedoeld in artikel 2.1, tweede lid, van dit besluit, worden de inrichtingen aangewezen als bedoeld in onderdeel 21.1.   
 
@@ -2357,7 +2343,7 @@ i. spoorwegemplacementen die in hoofdzaak worden gebruikt door de Nederlandse of
 
 j. bestemd voor het vervaardigen, onderhouden, repareren of opslaan van materieel of materialen ten behoeve van de Nederlandse of een bondgenootschappelijke krijgsmacht, die van essentieel belang zijn voor de logistieke ondersteuning van de Nederlandse of een bondgenootschappelijke krijgsmacht;  
 
-k. laboratoria, bestemd voor het ontwikkelen en beproeven van genetisch gemodificeerde organismen, van welke activiteiten met toepassing van het Besluit genetisch gemodificeerde organismen milieubeheer is vastgesteld dat deze uitsluitend mogen plaatsvinden met toepassing van voorzieningen en voorschriften, die gelden voor het hoogste krachtens dat besluit bij ministeriële regeling aangewezen niveau;  
+k. laboratoria, bestemd voor het ontwikkelen en beproeven van genetisch gemodificeerde organismen, van welke activiteiten met toepassing van het Besluit genetisch gemodificeerde organismen milieubeheer 2013 is vastgesteld dat deze uitsluitend mogen plaatsvinden met toepassing van voorzieningen en voorschriften, die gelden voor het hoogste krachtens dat besluit bij ministeriële regeling aangewezen niveau;  
 
 l. inrichtingen waar meer dan 50 000 kg in beslag genomen vuurwerk of pyrotechnische artikelen voor theatergebruik in de zin van het Vuurwerkbesluit worden opgeslagen.    
 
@@ -2479,7 +2465,7 @@ Een omgevingsvergunning voor activiteiten als bedoeld in artikel 2.1, eerste lid
 
 1. gewoon onderhoud van een bouwwerk, voor zover detaillering, profilering en vormgeving van dat bouwwerk niet wijzigen;  
 
-2. werkzaamheden ingevolge een besluit als bedoeld in artikel 13, 13a of 14 van de Woningwet;  
+2. werkzaamheden ingevolge een besluit als bedoeld in artikel 13, 13a of 13b van de Woningwet;  
 
 3. een op de grond staand bijbehorend bouwwerk of uitbreiding daarvan in achtererfgebied, mits wordt voldaan aan de volgende eisen: 
 

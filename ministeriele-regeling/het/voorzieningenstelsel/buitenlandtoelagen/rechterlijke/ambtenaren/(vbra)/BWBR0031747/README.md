@@ -3,7 +3,7 @@
 ##Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 juni 2012, nr. 2012-200612, houdende instelling van een voorzieningenstelsel buitenlandtoelagen voor rechterlijke ambtenaren die buitengewoon verlof hebben in Nederland om in het Caribische deel van het Koninkrijk der Nederlanden tijdelijk werkzaam te zijn
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op [het Voorzieningenstelsel Uitzendingen Binnenlandse Zaken en Koninkrijksrelaties](../../../../../../../../ministeriele-regeling/het/voorzieningenstelsel/uitzendingen/binnenlandse/zaken/en/etc/BWBR0024265/README.md);
+Gelet op het Voorzieningenstelsel Uitzendingen Binnenlandse Zaken en Koninkrijksrelaties;
 Besluit     
 ### Hoofdstuk  1  
 
@@ -21,7 +21,7 @@ b.  *belanghebbende:*  de rechterlijk ambtenaar, aan wie buitengewoon verlof bui
 
 c.  *echtgenoot:*  echtgenoot volgens burgerlijk recht of de levenspartner met wie de niet gehuwde belanghebbende samenwoont en – met het oogmerk duurzaam samen te leven – een gemeenschappelijke huishouding voert op basis van een notarieel verleden samenlevingscontract, bevattende de wederzijdse rechten en verplichtingen ter zake van die samenwoning en gemeenschappelijke huishouding, alsmede de geregistreerde partner;  
 
-d.  *gezin:*  belanghebbende en de niet duurzaam gescheiden levende echtgenoot van de belanghebbende en de kinderen waarvoor aanspraak bestaat op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) of op een tegemoetkoming in de studiekosten op grond van de Wet tegemoetkoming studiekosten door één der ouders of, voor wat betreft de tegemoetkoming in de studiekosten, door het desbetreffende kind zelf; met gezin wordt gelijkgesteld de alleenstaande ouder die samenwoont met één of meer eigen kinderen;  
+d.  *gezin:*  belanghebbende en de niet duurzaam gescheiden levende echtgenoot van de belanghebbende en de kinderen waarvoor aanspraak bestaat op kinderbijslag ingevolge de Algemene Kinderbijslagwet of op een tegemoetkoming in de studiekosten op grond van de Wet tegemoetkoming studiekosten door één der ouders of, voor wat betreft de tegemoetkoming in de studiekosten, door het desbetreffende kind zelf; met gezin wordt gelijkgesteld de alleenstaande ouder die samenwoont met één of meer eigen kinderen;  
 
 e.  *gehuwde belanghebbende:*  belanghebbende die met één of meer van zijn gezinsleden samenwoont en een eigen huishouding voert in een woning, of een gedeelte daarvan, waarover de gezinsleden de vrije en zelfstandige beschikking hebben;  
 
@@ -59,13 +59,13 @@ m.  *Standaard Netto Nederland (SNN):*  Het SNN is geen loon, maar de berekening
 
 – de loonheffing en  
 
-– de inkomensafhankelijke bijdrage als bedoeld in [artikel 41 van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+– de inkomensafhankelijke bijdrage als bedoeld in artikel 41 van de Zorgverzekeringswet;  
 
 – en te vermeerderen met:  
 
 – voor de gehuwde belanghebbende, de algemene heffingskorting;  
 
-– de werknemersvergoeding van de inkomensafhankelijke bijdrage als bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);   en te vermenigvuldigen met: de factor 1,14 Bij de vaststelling van het Standaard Netto Nederland wordt geen rekening gehouden met een individuele afwijking als gevolg van: 
+– de werknemersvergoeding van de inkomensafhankelijke bijdrage als bedoeld in artikel 46 van de Zorgverzekeringswet;   en te vermenigvuldigen met: de factor 1,14 Bij de vaststelling van het Standaard Netto Nederland wordt geen rekening gehouden met een individuele afwijking als gevolg van: 
 
 – een in te houden premie voor een Invaliditeitspensioen Aanvullingsplan;  
 
@@ -148,7 +148,7 @@ b. de verblijfscomponent voor het betreffende land van verblijf zoals vastgestel
 c. de verplaatsingscomponent zoals vastgesteld met toepassing van tabel 1 van bijlage 1.     
 3.  De gehuwde belanghebbende die met gezin metterwoon is gevestigd in een gebied buiten Nederland, heeft – met inachtneming van de onderdelen a tot en met g van dit lid – aanspraak op een verhoging van zijn buitenlandtoelage voor ieder kind dat tot zijn gezin behoort, indien: 
 
-– ten behoeve van dat kind aanspraak bestaat op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) of;  
+– ten behoeve van dat kind aanspraak bestaat op kinderbijslag ingevolge de Algemene Kinderbijslagwet of;  
 
 – dat kind de leeftijd van 21 jaar nog niet heeft bereikt en aan dat kind een basisbeurs is toegekend dan wel naar het oordeel van de Minister een basisbeurs zou zijn toegekend indien dat kind zijn studie in Nederland zou hebben gevolgd. 
 
@@ -188,10 +188,10 @@ g. Indien de aanspraak op kinderbijslag, de basisbeurs, of de fictieve basisbeur
 
 a. een bedrag voor de kosten van transport van de bagage en van de inboedel van de belanghebbende en zijn gezinsleden naar de nieuwe woning, tot maximaal 30 m3 (exclusief auto), waaronder begrepen de kosten van het in- en uitpakken van breekbare zaken;  
 
-b. een bedrag voor dubbele woonkosten gelijk aan de noodzakelijk te maken kosten, naar analogie van [artikel 7 van de Verplaatsingskostenregeling](../../../../../../../../ministeriele-regeling/verplaatsingskostenregeling/1989/BWBR0004633/README.md) 1989.  
+b. een bedrag voor dubbele woonkosten gelijk aan de noodzakelijk te maken kosten, naar analogie van artikel 7 van de Verplaatsingskostenregeling 1989.  
 
-c. een bedrag voor alle andere direct uit de verhuizing voortvloeiende kosten naar analogie van [artikel 8 van het Verplaatsingskostenbesluit 1989](../../../../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) (VKB) en geregeld in de Verplaatsingskostenregeling 1989.     
-3.  Indien het betreft een verhuizing van een gezin, waarin de echtgenoten beiden rechterlijk ambtenaar zijn in de zin van dit besluit, dan wel de partner ambtenaar in de zin van het [VUBZK](../../../../../../../../ministeriele-regeling/het/voorzieningenstelsel/uitzendingen/binnenlandse/zaken/en/etc/BWBR0024265/README.md) en afzonderlijk de opdracht hebben om te verhuizen of zijn verplaatst, wordt de tegemoetkoming voor alle andere direct uit de verhuizing voortvloeiende kosten als geregeld in [artikel 8, lid 1, onderdeel c van het VKB](../../../../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), berekend over het gemiddelde van de gezamenlijke berekeningsbasis als bedoeld in artikel 1.1 onderdeel q. Elk van de betrokkenen heeft in dit geval aanspraak op een evenredig deel van de in de vorige volzin bedoelde tegemoetkoming.   
+c. een bedrag voor alle andere direct uit de verhuizing voortvloeiende kosten naar analogie van artikel 8 van het Verplaatsingskostenbesluit 1989 (VKB) en geregeld in de Verplaatsingskostenregeling 1989.     
+3.  Indien het betreft een verhuizing van een gezin, waarin de echtgenoten beiden rechterlijk ambtenaar zijn in de zin van dit besluit, dan wel de partner ambtenaar in de zin van het VUBZK en afzonderlijk de opdracht hebben om te verhuizen of zijn verplaatst, wordt de tegemoetkoming voor alle andere direct uit de verhuizing voortvloeiende kosten als geregeld in artikel 8, lid 1, onderdeel c van het VKB, berekend over het gemiddelde van de gezamenlijke berekeningsbasis als bedoeld in artikel 1.1 onderdeel q. Elk van de betrokkenen heeft in dit geval aanspraak op een evenredig deel van de in de vorige volzin bedoelde tegemoetkoming.   
 4.  De berekeningsbasis, als bedoeld in artikel 1.1 onderdeel q, wordt vermeerderd met het bedrag dat wegens verblijf buiten Nederland aan betrokkene wordt toegekend.   
 5.  Indien de belanghebbende geen eigen huishouding voert, wordt geen tegemoetkoming als bedoeld in het eerste lid, onderdeel c, verleend. Indien bijzondere omstandigheden daartoe aanleiding geven, kan voor deze kosten niettemin een tegemoetkoming worden verleend van 3% van de berekeningsbasis als bedoeld in artikel 1.1 onderdeel q.   
 6.  Bij een verplaatsing uit, naar en buiten Nederland kan de tegemoetkoming in verhuiskosten naast de in het tweede lid bedoelde bedragen slechts bestaan uit: 
@@ -218,10 +218,10 @@ d. voor zover geen emballage in natura wordt verstrekt, een bedrag voor de koste
 
 ####Tegemoetkoming reiskosten woon/werk verkeer
 
-1.  De betrokkene heeft aanspraak op vergoeding van de gemaakte kosten van het dagelijks reizen per openbaar vervoer tussen de woning en de plaats van tewerkstelling als bedoeld in [artikel 12 van het Verplaatsingskostenbesluit 1989](../../../../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) en geregeld in de [artikelen 11](../../../../../../../../ministeriele-regeling/verplaatsingskostenregeling/1989/BWBR0004633/README.md) en [12 van de Verplaatsingskostenregeling 1989](../../../../../../../../ministeriele-regeling/verplaatsingskostenregeling/1989/BWBR0004633/README.md).   
+1.  De betrokkene heeft aanspraak op vergoeding van de gemaakte kosten van het dagelijks reizen per openbaar vervoer tussen de woning en de plaats van tewerkstelling als bedoeld in artikel 12 van het Verplaatsingskostenbesluit 1989 en geregeld in de artikelen 11 en 12 van de Verplaatsingskostenregeling 1989.   
 2.  In plaats van de vergoeding, bedoeld in lid 1, kan het bevoegd gezag ook de noodzakelijke vervoerbewijzen verstrekken.   
-3.  De betrokkene die naar het oordeel van het bevoegd gezag de plaats van tewerkstelling niet of niet doelmatig per openbaar vervoer kan bereiken, heeft aanspraak op een tegemoetkoming in de gemaakte reiskosten naar analogie van [artikel 12a van het Verplaatsingskostenbesluit 1989](../../../../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) en geregeld in [artikel 12 van de Verplaatsingskostenregeling 1989](../../../../../../../../ministeriele-regeling/verplaatsingskostenregeling/1989/BWBR0004633/README.md).   
-4.  De betrokkene die naar het oordeel van het bevoegd gezag de plaats van tewerkstelling met het openbaar vervoer kan bereiken, maar daarvan geen gebruik maakt, heeft aanspraak op een gedeelte van de tegemoetkoming als bedoeld in [artikel 12b van het Verplaatsingskostenbesluit 1989](../../../../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md).  
+3.  De betrokkene die naar het oordeel van het bevoegd gezag de plaats van tewerkstelling niet of niet doelmatig per openbaar vervoer kan bereiken, heeft aanspraak op een tegemoetkoming in de gemaakte reiskosten naar analogie van artikel 12a van het Verplaatsingskostenbesluit 1989 en geregeld in artikel 12 van de Verplaatsingskostenregeling 1989.   
+4.  De betrokkene die naar het oordeel van het bevoegd gezag de plaats van tewerkstelling met het openbaar vervoer kan bereiken, maar daarvan geen gebruik maakt, heeft aanspraak op een gedeelte van de tegemoetkoming als bedoeld in artikel 12b van het Verplaatsingskostenbesluit 1989.  
 
 ### Artikel  4.3  
 
@@ -229,11 +229,11 @@ De belanghebbende heeft bij de reis naar het gebied van verblijf en bij terugkee
 
 ### Artikel  4.4  
 
-De totale kosten voor verzekering van het transport van de inboedel, de extra begeleide en onbegeleide bagage, bedoeld in [artikel 9 van het Verplaatsingskostenbesluit 1989](../../../../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) hebben betrekking op een verzekerde waarde van ten hoogste € 71.760. Dit bedrag wordt tweejaarlijks bijgesteld aan de hand van de verandering van het consumentenprijsindexcijfer ter zake. 
+De totale kosten voor verzekering van het transport van de inboedel, de extra begeleide en onbegeleide bagage, bedoeld in artikel 9 van het Verplaatsingskostenbesluit 1989 hebben betrekking op een verzekerde waarde van ten hoogste € 71.760. Dit bedrag wordt tweejaarlijks bijgesteld aan de hand van de verandering van het consumentenprijsindexcijfer ter zake. 
 
 ### Artikel  4.5  
 
-Bij de reis naar het gebied van verblijf en bij terugkeer naar Nederland van de belanghebbende worden de kosten van vervoer bedoeld in [artikel 9 van het Verplaatsingskostenbesluit 1989](../../../../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) voor de belanghebbende en zijn gezin vergoed tot maximaal de kosten van een vliegticket voor een enkele reis via de kortste route van Nederland naar het land van tewerkstelling of omgekeerd op basis van de goedkoopste (economy) klasse van vervoer. 
+Bij de reis naar het gebied van verblijf en bij terugkeer naar Nederland van de belanghebbende worden de kosten van vervoer bedoeld in artikel 9 van het Verplaatsingskostenbesluit 1989 voor de belanghebbende en zijn gezin vergoed tot maximaal de kosten van een vliegticket voor een enkele reis via de kortste route van Nederland naar het land van tewerkstelling of omgekeerd op basis van de goedkoopste (economy) klasse van vervoer. 
 
 ####Uitrustingskosten en huurauto
 
@@ -294,7 +294,7 @@ De vergoedingen genoemd in hoofdstuk 4 worden toegekend als aanvulling op de aan
 5.  Voor de berekening van de huurtegemoetkoming wordt het onderhoud van een zwembad of tuin geacht geen onderdeel uit te maken van de huurprijs van de woning en wordt de door BZK gehanteerde geldende administratiekoers van de desbetreffende maand gehanteerd.   
 6.  De tegemoetkoming in de huurlasten wordt slechts aan één belanghebbende toegekend. Indien meer belanghebbenden op één en hetzelfde adres woonachtig zijn, wordt het bedrag van de tegemoetkoming bedoeld in het eerste lid vastgesteld naar rato van het aantal belanghebbenden dat op het desbetreffende adres woonachtig is.   
 7.  De gehuwde belanghebbende wiens gezin metterwoon in Nederland verblijft, heeft aanspraak op gemeubileerde huisvesting (inclusief de verschuldigde kosten voor gas, water en elektriciteit) op een zodanige afstand van de plaats van tewerkstelling dat er, naar het oordeel van de bevoegde autoriteit, geen belemmering bestaat voor een goede vervulling van de dienst. De vergoeding van de huisvestingskosten (inclusief gas, water en licht) betreft maximaal honderd en tien procent van de in bijlage 4, onder B, vastgestelde huurplafonds voor de ongehuwde belanghebbende.   
-8.  De gehuwde belanghebbende wiens gezin metterwoon in Nederland verblijft, heeft aanspraak op een tegemoetkoming in voedingskosten gedurende de dagen dat hij geacht wordt in de standplaats verblijf te houden, tot ten hoogste een bedrag van 20% van de daggeldvergoeding voor voeding, als bedoeld in het [Reisbesluit buitenland](../../../../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md).  
+8.  De gehuwde belanghebbende wiens gezin metterwoon in Nederland verblijft, heeft aanspraak op een tegemoetkoming in voedingskosten gedurende de dagen dat hij geacht wordt in de standplaats verblijf te houden, tot ten hoogste een bedrag van 20% van de daggeldvergoeding voor voeding, als bedoeld in het Reisbesluit buitenland.  
 
 ####Onderwijskosten
 
@@ -458,7 +458,7 @@ Bedragen per: inwerkingtreding regeling
 |:---|:---|:---|
 |  Binnen de keerkringen   | € 53,72   | € 76,12   |
 
-####Tabel 2. Verhoging buitenlandtoelage (indien het kind niet verblijft in het gebied van plaatsing) ( ad [art. 3.1, onderdeel 3b VUBZK](../../../../../../../../ministeriele-regeling/het/voorzieningenstelsel/uitzendingen/binnenlandse/zaken/en/etc/BWBR0024265/README.md))
+####Tabel 2. Verhoging buitenlandtoelage (indien het kind niet verblijft in het gebied van plaatsing) ( ad art. 3.1, onderdeel 3b VUBZK)
 
 Bedragen per: inwerkingtreding regeling 
 

@@ -15,7 +15,7 @@ A.2 De vergunninghouder is verplicht het onder deze vergunning vergunde kansspel
 
 * het deelnemersreglement SupportActie Loterij, versie SA2015.6955.001;  
 
-* het deelnemersreglement Grote Club Actie Loterij, versie GCA2015.6955.001;  
+* het deelnemersreglement Grote Clubactie Loterij, versie GCA2015.6955.002;  
 
 * het deelnemersreglement Nationale Scoutingloterij, versie SN2015.4153.001;  
 

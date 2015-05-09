@@ -53,9 +53,9 @@ d. verhoging van het studiesucces.
 
 ####Subsidieplafond
 
-1.  Voor subsidieverlening op grond van deze regeling is voor de vier tranches het volgende bedrag beschikbaar: 
+1.  Voor subsidieverstrekking op grond van deze regeling is voor de vier tranches het volgende bedrag beschikbaar: 
 
-a. voor de eerste tranche een bedrag van maximaal € 800.000; en  
+a. voor de eerste tranche een bedrag van maximaal € 830.000; en  
 
 b. voor de tweede tot en met de vierde tranche een bedrag van maximaal € 700.000.     
 2.  De subsidie bedraagt ten hoogste € 100.000 per subsidieaanvrager. Het subsidiebedrag wordt door de ontvanger aangevuld met ten minste hetzelfde bedrag aan eigen middelen.  
@@ -88,46 +88,54 @@ De subsidieontvangers werken mee aan door of namens de Minister uit te voeren fl
 
 ####Advisering en besluit
 
-1.  De Minister wint ten behoeve van de subsidieverlening advies in van Stichting SURF. De Stichting SURF kan de Minister ook adviseren over het vaststellen van de subsidie en de intrekking of wijziging van de subsidie.   
-2.  Stichting SURF legt de aanvragen voor aan een commissie onder verantwoordelijkheid van de Wetenschappelijk Technische Raad van Stichting SURF. Deze commissie toetst de aanvragen aan deze regeling.   
-3.  Subsidieaanvragers ontvangen een conceptadvies van de Wetenschappelijk Technische Raad van Stichting SURF en worden in de gelegenheid gesteld om het conceptadvies op feitelijke onjuistheden en omissies te controleren voordat dit advies definitief wordt vastgesteld.   
-4.  Stichting SURF adviseert de Minister jaarlijks op uiterlijk 2 april van het jaar waarin de subsidieaanvraag is gedaan, over de subsidieverlening.   
-5.  De Minister beslist jaarlijks op uiterlijk 1 mei van het jaar waarin de subsidieaanvraag is gedaan over de subsidieverlening op basis van het advies van Stichting SURF.   
+1.  De Minister wint ten behoeve van de subsidieverstrekking advies in van SURF. De SURF kan de Minister ook adviseren over het vaststellen van de subsidie en de intrekking of wijziging van de subsidie.   
+2.  SURF legt de aanvragen voor aan een commissie onder verantwoordelijkheid van de Wetenschappelijk Technische Raad van SURF. Deze commissie toetst de aanvragen aan deze regeling.   
+3.  Subsidieaanvragers ontvangen een conceptadvies van de Wetenschappelijk Technische Raad van SURF en worden in de gelegenheid gesteld om het conceptadvies op feitelijke onjuistheden en omissies te controleren voordat dit advies definitief wordt vastgesteld.   
+4.  SURF adviseert de Minister jaarlijks op uiterlijk 2 april van het jaar waarin de subsidieaanvraag is gedaan, over de subsidieverstrekking.   
+5.  De Minister beslist jaarlijks op uiterlijk 1 mei van het jaar waarin de subsidieaanvraag is gedaan over de subsidieverstrekking op basis van het advies van SURF.   
 6.  De Minister voorziet in een gelijktijdige beslissing op de aanvragen.  
 
 ### Artikel  8  
 
-####Bevoorschotting
+####Subsidie aan bekostigde instellingen
 
-De Minister verleent de subsidieontvanger per kwartaal een voorschot. 
+De Minister: 
+
+a. verstrekt subsidie en betaalt het subsidiebedrag ineens voor zover het een subsidie tot € 25.000 betreft;  
+
+b. verstrekt subsidie en betaalt het subsidiebedrag per kwartaal voor zover het een subsidie van € 25.000 tot en met € 100.000 betreft.   
 
 ### Artikel  9  
 
-####Besteding en verantwoording door bekostigde instellingen
+####Subsidie aan onbekostigde instellingen
 
-1.  De subsidie wordt uitsluitend besteed aan de activiteiten waarvoor zij wordt verstrekt.   
-2.  De verantwoording van de subsidie geschiedt in de jaarverslaglegging en de FSR-bijlage bij het jaarverslag, bedoeld in artikel 3, onderdeel g, van de Regeling jaarverslaggeving onderwijs.  
+De Minister: 
+
+a. verstrekt subsidie en betaalt het subsidiebedrag ineens voor zover het een subsidie tot € 25.000 betreft;  
+
+b. verleent een voorschot van 100 procent en betaalt het subsidiebedrag per kwartaal voor zover het een subsidie van € 25.000 tot en met € 100.000 betreft.  
 
 ### Artikel  10  
 
-####Besteding en verantwoording door onbekostigde instellingen
+####Verantwoording door bekostigde instellingen
 
-1.  De subsidie wordt uitsluitend besteed aan de activiteiten waarvoor zij wordt verstrekt.   
-2.  Aan de hand van een prestatieverklaring wordt aangetoond dat de activiteiten waarvoor de subsidie is verstrekt, zijn verricht en dat aan de subsidie verbonden verplichtingen is voldaan. Artikel 19 van de Regeling OCW-subsidies is niet van toepassing. De verklaring wordt uiterlijk 1 juli van het volgende jaar ingediend bij de Minister.  
+Door bekostigde instellingen geschiedt de verantwoording aldus: 
+
+a. voor zover het een subsidie tot € 25.000 betreft, geschiedt de verantwoording van de subsidie overeenkomstig de Regeling jaarverslaggeving onderwijs in de jaarverslaggeving, en toont de subsidieontvanger op verzoek van de Minister aan dat de activiteiten waarvoor subsidie is verstrekt, zijn verricht en dat aan de aan de subsidie verbonden verplichtingen is voldaan;  
+
+b. voor zover het een subsidie van € 25.000 tot en met € 100.000 betreft, geschiedt de verantwoording van de subsidie overeenkomstig de Regeling jaarverslaggeving onderwijs in de jaarverslaggeving met model G1.  
 
 ### Artikel  11  
 
-####Subsidievaststelling bij bekostigde instellingen
+####Verantwoording door onbekostigde instellingen
 
-1.  De aanvraag tot subsidievaststelling vindt plaats door het indienen van de jaarrekening. De jaarrekening wordt jaarlijks uiterlijk op 1 juli ingediend.   
-2.  De vaststelling geschiedt binnen 22 weken na ontvangst van de aanvraag tot vaststelling.  
+1.  Door onbekostigde instellingen geschiedt de verantwoording aldus: 
 
-### Artikel  12  
+a. voor zover het een subsidie tot € 25.000 betreft, toont de subsidieontvanger op verzoek van de Minister aan dat de activiteiten waarvoor subsidie is verstrekt, zijn verricht en dat aan de aan de subsidie verbonden verplichtingen is voldaan;  
 
-####Subsidievaststelling bij onbekostigde instellingen
-
-1.  De aanvraag tot subsidievaststelling vindt plaats binnen 13 weken na het verricht zijn van de activiteiten waarvoor subsidie is verleend.   
-2.  De beschikking tot vaststelling geschiedt binnen 22 weken na ontvangst van de aanvraag tot vaststelling.  
+b. voor zover het een subsidie van € 25.000 tot en met € 100.000 betreft, geschiedt de verantwoording van de subsidie aan de hand van een prestatieverklaring, volgens een door de Minister vast te stellen model, waarmee wordt aangetoond dat de activiteiten waarvoor subsidie is verstrekt, zijn verricht en dat aan de aan de subsidie verbonden verplichtingen is voldaan.     
+2.  De prestatieverklaring, bedoeld in het eerste lid, onderdeel b, is tevens de aanvraag tot subsidievaststelling en wordt ingediend binnen 13 weken na het verricht zijn van de activiteiten waarvoor subsidie is verleend. Artikel 19 van de Regeling OCW-subsidies is niet van toepassing.   
+3.  De subsidie bedoeld in het eerste lid, onderdeel b, wordt binnen 22 weken na ontvangst van de aanvraag tot vaststelling vastgesteld. 
 
 ### Artikel  13  
 

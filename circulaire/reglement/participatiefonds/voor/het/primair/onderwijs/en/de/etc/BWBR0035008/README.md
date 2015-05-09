@@ -19,15 +19,15 @@ Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet
 
 4.  * Bestuursvoorschriften:* de bestuursvoorschriften en bijlagen zoals die door het bestuur van het Participatiefonds zijn vastgesteld ter bevordering van een correcte toepassing van het reglement Participatiefonds.  
 
-5.  * Budget voor personeels- en arbeidsmarktbeleid:* het budget voor personeels- en arbeidsmarktbeleid dat werkgevers ontvangen op basis van [Titel IV, Afdeling 6 van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) dan wel op basis van [Titel V, Afdeling 6 van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).  
+5.  * Budget voor personeels- en arbeidsmarktbeleid:* het budget voor personeels- en arbeidsmarktbeleid dat werkgevers ontvangen op basis van Titel IV, Afdeling 6 van de WPO dan wel op basis van Titel V, Afdeling 6 van de WEC.  
 
-6.  *BBWO:* [Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs](../../../../../../../../../../../AMvB/besluit/bovenwettelijke/werkloosheidsregeling/voor/onderwijspersoneel/etc/BWBR0012177/README.md) (Stb. 2001, 61).  
+6.  *BBWO:* Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs (Stb. 2001, 61).  
 
-7.  * BZA:* [Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md) (Stb. 1995, 703).  
+7.  * BZA:* Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs (Stb. 1995, 703).  
 
 8.  * CAO PO:* de collectieve arbeidsovereenkomst voor het primair onderwijs zoals die tussen de PO-Raad en de organisaties van werknemers in het onderwijs voor de periode 1 januari 2013 tot 1 januari 2014 is overeengekomen en welke tot nader order van kracht blijft.  
 
-9.  * Centrale diensten:* diensten zoals bedoeld in [artikel 68 WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) en [artikel 69 WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).  
+9.  * Centrale diensten:* diensten zoals bedoeld in artikel 68 WPO en artikel 69 WEC.  
 
 10.  * Detachering:* de situatie dat onderwijspersoneel op eigen verzoek of met zijn instemming voor bepaalde tijd op basis van een detacheringsovereenkomst wordt belast met werkzaamheden bij een andere werkgever.  
 
@@ -51,7 +51,7 @@ Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet
 
 9. Studieverlof van de leraar die gebruik maakt van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008.   Vervanging voor deze gronden van afwezigheid wordt aangemerkt als vervanging in de zin van het reglement Participatiefonds.  
 
-12.  * In- en doorstroombanen:* banen die worden vervuld door weknemers voor wie de werkgever destijds subsidie ontving als bedoeld in [artikel 6, eerste lid van het van het Besluit in-en doorstroombanen](../../../../../../../../../../../AMvB/besluit/in-/en/doorstroombanen/BWBR0010994/README.md) (stb. 1999, 591)  
+12.  * In- en doorstroombanen:* banen die worden vervuld door weknemers voor wie de werkgever destijds subsidie ontving als bedoeld in artikel 6, eerste lid van het van het Besluit in-en doorstroombanen (stb. 1999, 591)  
 
 13.  *Kwalitatieve fricties (het oplossen van):* het ten koste van werknemers met een bepaalde functie vrijmaken van formatieruimte ten behoeve van werknemers met een andere functie omdat het naar het oordeel van de werkgever anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren.  
 
@@ -59,7 +59,7 @@ Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet
 
 15.  * Loonkostentool:* de digitale tool van het Participatiefonds aan de hand waarvan een werkgever de vergelijking van de rijksbekostiging personeel en financiële bijdragen van derden maakt en de loonkosten van werknemers van wie het dienstverband niet is voortgezet of beëindigd berekent.  
 
-16.  * Materiële vergoeding:* de vergoeding zoals genoemd in [Titel IV, Afdeling 4 van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) en in [Titel IV, Afdeling 4 van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).  
+16.  * Materiële vergoeding:* de vergoeding zoals genoemd in Titel IV, Afdeling 4 van de WPO en in Titel IV, Afdeling 4 van de WEC.  
 
 17.  * Modelverklaring:* een verklaring waar een werkgever bij het indienen van een vergoedingsverzoek gebruik van kan maken om aan te tonen dat is voldaan aan de voorwaarden van het Participatiefonds.  
 
@@ -69,7 +69,7 @@ Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet
 
 20.  * Onderwijsassistent in opleiding:* de functie als bedoeld in artikel 3.27 en 4.26 van de CAO-PO.  
 
-21.  * Onderwijspersoneel:* de benoemde directeur, het personeel benoemd in een functie voor het geven van onderwijs, het personeel benoemd in een andere functie dan het geven van onderwijs, het personeel dat is benoemd voor het verrichten van werkzaamheden ten behoeve van meer dan een school of meer dan een school als bedoeld in de [WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), waaronder begrepen de leden van het bestuur van die scholen die zijn benoemd door een raad van toezicht als bedoeld in [artikel 17c, derde lid van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), voor zover die leden mede zijn benoemd op basis van een arbeidsovereenkomst of een akte van aanstelling, dan wel de benoemde directeur, het personeel benoemd in een functie voor het geven van onderwijs, het personeel benoemd in een andere functie dan het geven van onderwijs, het personeel dat is benoemd voor het verrichten van werkzaamheden ten behoeve van meer dan een school of meer dan een school als bedoeld in de [WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), waaronder begrepen de leden van het bestuur van die scholen die zijn benoemd door een raad van toezicht als bedoeld in [artikel 28i, derde lid van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), voor zover die leden mede zijn benoemd op basis van een arbeidsovereenkomst of een akte van aanstelling.  
+21.  * Onderwijspersoneel:* de benoemde directeur, het personeel benoemd in een functie voor het geven van onderwijs, het personeel benoemd in een andere functie dan het geven van onderwijs, het personeel dat is benoemd voor het verrichten van werkzaamheden ten behoeve van meer dan een school of meer dan een school als bedoeld in de WEC, waaronder begrepen de leden van het bestuur van die scholen die zijn benoemd door een raad van toezicht als bedoeld in artikel 17c, derde lid van de WPO, voor zover die leden mede zijn benoemd op basis van een arbeidsovereenkomst of een akte van aanstelling, dan wel de benoemde directeur, het personeel benoemd in een functie voor het geven van onderwijs, het personeel benoemd in een andere functie dan het geven van onderwijs, het personeel dat is benoemd voor het verrichten van werkzaamheden ten behoeve van meer dan een school of meer dan een school als bedoeld in de WPO, waaronder begrepen de leden van het bestuur van die scholen die zijn benoemd door een raad van toezicht als bedoeld in artikel 28i, derde lid van de WEC, voor zover die leden mede zijn benoemd op basis van een arbeidsovereenkomst of een akte van aanstelling.  
 
 22.  * Ontslag:* ontslag op grond van de opzeggings- en ontslagronden, genoemd in de CAO PO en tussentijdse beëindiging van een tijdelijk dienstverband.  
 
@@ -77,7 +77,7 @@ Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet
 
 24.  * Outplacement:* Bij outplacement in de zin van het Reglement dient er sprake te zijn van een planmatige begeleiding door een derde van een met ontslag bedreigde werknemer bij het verwerven van een reguliere betrekking elders, waarbij een brede oriëntatie op de arbeids-markt en een wezenlijke financiële inspanning van de werkgever kenmerkend zijn (zie de uitspraak van de Raad van State van 9 mei 2007, zaaknummer 200606432/1).  
 
-25.  *Participatiefonds:* de rechtspersoon als bedoeld in [artikel 184 van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) en in [artikel 170 van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) waarbij de werkgever verplicht is aangesloten in verband met kosten van uitkeringen aan gewezen personeel en suppleties inzake arbeidsongeschiktheid.  
+25.  *Participatiefonds:* de rechtspersoon als bedoeld in artikel 184 van de WPO en in artikel 170 van de WEC waarbij de werkgever verplicht is aangesloten in verband met kosten van uitkeringen aan gewezen personeel en suppleties inzake arbeidsongeschiktheid.  
 
 26.  * Prestatiebox:* de Regeling prestatiebox primair onderwijs als bedoeld in de Staatscourant nr. 1417, d.d. 27 januari 2012  
 
@@ -85,7 +85,7 @@ Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet
 
 28.  * Schooljaar:* een schooljaar loopt van 1 augustus tot en met 31 juli van het opvolgende kalenderjaar.  
 
-29.  * Schoolsoort:* het basisonderwijs en de scholen voor speciaal basisonderwijs als bedoeld in de [WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) en het speciaal onderwijs, het voortgezet speciaal onderwijs als bedoeld in de [WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).  
+29.  * Schoolsoort:* het basisonderwijs en de scholen voor speciaal basisonderwijs als bedoeld in de WPO en het speciaal onderwijs, het voortgezet speciaal onderwijs als bedoeld in de WEC.  
 
 30.  * Schoonmaakpersoneel:* werknemers waarvan in de functieomschrijving is opgenomen het schoonmaken en schoonhouden van de binnenzijde van het schoolgebouw en waarvoor de bekostiging is genormeerd in de materiële vergoeding.  
 
@@ -95,21 +95,21 @@ Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet
 
 33.  * Uitgestelde beëindiging van het dienstverband:* een dienstverband dat niet is beëindigd of een tijdelijk dienstverband dat is voortgezet per de datum waarop de daling van de rijksbekostiging en financiële bijdragen van derden voor personeel is gedaald, maar waarvan de beëindiging of het niet voortzetten met één jaar is uitgesteld.  
 
-34.  * Vergoedingsverzoek:* een op grond van [artikel 138, derde lid, van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) dan wel op grond van [artikel 132, derde lid, van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), door de werkgever ingediende aanvraag in de zin van [artikel 1:3, derde lid, van de Awb](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+34.  * Vergoedingsverzoek:* een op grond van artikel 138, derde lid, van de WPO dan wel op grond van artikel 132, derde lid, van de WEC, door de werkgever ingediende aanvraag in de zin van artikel 1:3, derde lid, van de Awb.  
 
 35.  *Vervanging (vervangingsbetrekking):* zie dienstverband in het kader van vervanging  
 
 36.  * Werkgelegenheidsbeleid:* de regeling werkgelegenheidsbeleid conform artikel 10.2 en 10.3 van de CAO PO.  
 
-37.  * Werkgever:* het bevoegd gezag als bedoeld in [artikel 1 WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) en [artikel 1 WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), respectievelijk het bevoegd gezag van de rechtspersoon als bedoeld in [artikel 68 WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) en [artikel 69 WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en het Regionaal Expertisecentrum, als bedoeld in [artikel 28b WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), tenzij het bevoegd gezag door de minister van Onderwijs, Cultuur en Wetenschap, op grond van bezwaren van godsdienstige of levensbeschouwelijke aard is uitgezonderd van aansluiting bij de Stichting Participatiefonds voor het Onderwijs.  
+37.  * Werkgever:* het bevoegd gezag als bedoeld in artikel 1 WPO en artikel 1 WEC, respectievelijk het bevoegd gezag van de rechtspersoon als bedoeld in artikel 68 WPO en artikel 69 WEC en het Regionaal Expertisecentrum, als bedoeld in artikel 28b WEC, tenzij het bevoegd gezag door de minister van Onderwijs, Cultuur en Wetenschap, op grond van bezwaren van godsdienstige of levensbeschouwelijke aard is uitgezonderd van aansluiting bij de Stichting Participatiefonds voor het Onderwijs.  
 
-38.  *WEC:* [Wet op de Expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) (Stb. 1998, 469)  
+38.  *WEC:* Wet op de Expertisecentra (Stb. 1998, 469)  
 
-39.  * WPO:* [Wet op het Primair Onderwijs](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) (Stb. 1998, 495)  
+39.  * WPO:* Wet op het Primair Onderwijs (Stb. 1998, 495)  
 
-40.  * WW:* [Werkloosheidwet](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) (Stb. 1986, 566)  
+40.  * WW:* Werkloosheidwet (Stb. 1986, 566)  
 
-41.  * Zij-instromers:* onbevoegden met een geschiktheidsverklaring als bedoeld in [artikel 176b WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 162e WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).       
+41.  * Zij-instromers:* onbevoegden met een geschiktheidsverklaring als bedoeld in artikel 176b WPO of artikel 162e WEC.       
 ### Hoofdstuk  2  
 
 ####Premie
@@ -118,7 +118,7 @@ Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet
 
 ####Verplichting tot betaling van premie
 
-Het bevoegd gezag is verplicht, op de wijze zoals bepaald in de bestuursvoorschriften, een door het Participatiefonds te bepalen bijdrage te voldoen in verband met de kosten voor werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md).     
+Het bevoegd gezag is verplicht, op de wijze zoals bepaald in de bestuursvoorschriften, een door het Participatiefonds te bepalen bijdrage te voldoen in verband met de kosten voor werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de Ziektewet.     
 ### Hoofdstuk  3  
 
 ####Vergoedingsverzoeken
@@ -135,7 +135,7 @@ De werkgever:
 
 a. die een dienstverband van een werknemer beëindigt of een tijdelijk dienstverband niet voortzet; en  
 
-b. die wenst dat de uitkeringskosten die op grond van [artikel 138, derde lid, van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 132, derde lid, van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) voor rekening van de werkgever komen, ten laste van het Participatiefonds worden gebracht,   dient bij het Participatiefonds een vergoedingsverzoek in. 
+b. die wenst dat de uitkeringskosten die op grond van artikel 138, derde lid, van de WPO of artikel 132, derde lid, van de WEC voor rekening van de werkgever komen, ten laste van het Participatiefonds worden gebracht,   dient bij het Participatiefonds een vergoedingsverzoek in. 
 
 ### Artikel  3:2  
 
@@ -173,14 +173,14 @@ Het Participatiefonds wijst een vergoedingsverzoek uitsluitend toe als de werkge
 
 a. de werkgever het dienstverband beëindigt of het tijdelijk dienstverband niet voortzet op grond van een andere beëindigingsgrond dan genoemd in dit reglement;  
 
-b. de werkgever zich, in strijd met [artikel 60](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) in samenhang gelezen met [artikel 62 van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) of in strijd met [artikel 63](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) in samenhang gelezen met [artikel 65 van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), niet heeft onderworpen aan een uitspraak van de Commissie van Beroep;  
+b. de werkgever zich, in strijd met artikel 60 in samenhang gelezen met artikel 62 van de WPO of in strijd met artikel 63 in samenhang gelezen met artikel 65 van de WEC, niet heeft onderworpen aan een uitspraak van de Commissie van Beroep;  
 
 c. sprake is van een dienstverband in het kader van vervanging als bedoeld in paragraaf 1, onder 35, waaraan een regulier dienstverband is voorafgegaan en de werkgever niet heeft voldaan aan het verzoek van het Participatiefonds om binnen acht weken alsnog een vergoedingsverzoek te doen in het kader van de beëindiging van het reguliere dienstverband;  
 
 d. het vergoedingsverzoek van de werkgever onredelijk is.  
 
 e. het beëindigen van een dienstverband of het niet voortzetten van een tijdelijk dienstverband in de risicosfeer van de werkgever valt.     
-2.  Als het Participatiefonds de beschikking als bedoeld in het eerste lid neemt, deelt het de minister van Onderwijs, Cultuur en Wetenschap mee, dat de uitkeringskosten als bedoeld in [artikel 138, derde lid, van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 132, derde lid, van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), niet ten laste van het Participatiefonds komen.  
+2.  Als het Participatiefonds de beschikking als bedoeld in het eerste lid neemt, deelt het de minister van Onderwijs, Cultuur en Wetenschap mee, dat de uitkeringskosten als bedoeld in artikel 138, derde lid, van de WPO of artikel 132, derde lid, van de WEC, niet ten laste van het Participatiefonds komen.  
 
 ### Artikel  3:7  
 
@@ -198,7 +198,7 @@ e. het beëindigen van een dienstverband of het niet voortzetten van een tijdeli
 
 ####Uitnodiging tot verstrekken inlichtingen
 
-Als uitkeringskosten als bedoeld in [artikel 138, derde lid, van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 132, derde lid, van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) zijn ontstaan, waarvan het Participatiefonds niet kan vaststellen dat het Participatiefonds ermee heeft ingestemd dat de uitkeringskosten ten laste van het Participatiefonds komen, nodigt het Participatiefonds de werkgever uit inlichtingen te verstrekken. 
+Als uitkeringskosten als bedoeld in artikel 138, derde lid, van de WPO of artikel 132, derde lid, van de WEC zijn ontstaan, waarvan het Participatiefonds niet kan vaststellen dat het Participatiefonds ermee heeft ingestemd dat de uitkeringskosten ten laste van het Participatiefonds komen, nodigt het Participatiefonds de werkgever uit inlichtingen te verstrekken. 
 
 ### Artikel  3:9  
 
@@ -212,8 +212,8 @@ Als uitkeringskosten als bedoeld in [artikel 138, derde lid, van de WPO](../../.
 
 ####Te late indiening inlichtingen
 
-1.  Als de werkgever niet tijdig de gevraagde inlichtingen verstrekt, besluit het Participatiefonds dat de uitkeringskosten als bedoeld in [artikel 138, derde lid, van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 132, derde lid, van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), niet ten laste van het Participatiefonds komen.   
-2.  Als het Participatiefonds de beschikking als bedoeld in het eerste lid neemt, deelt het de minister van Onderwijs, Cultuur en Wetenschap mee, dat de uitkeringskosten als bedoeld in [artikel 138, derde lid, van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 132, derde lid, van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), niet ten laste van het Participatiefonds komen.  
+1.  Als de werkgever niet tijdig de gevraagde inlichtingen verstrekt, besluit het Participatiefonds dat de uitkeringskosten als bedoeld in artikel 138, derde lid, van de WPO of artikel 132, derde lid, van de WEC, niet ten laste van het Participatiefonds komen.   
+2.  Als het Participatiefonds de beschikking als bedoeld in het eerste lid neemt, deelt het de minister van Onderwijs, Cultuur en Wetenschap mee, dat de uitkeringskosten als bedoeld in artikel 138, derde lid, van de WPO of artikel 132, derde lid, van de WEC, niet ten laste van het Participatiefonds komen.  
 
 ### Artikel  3:11  
 
@@ -231,37 +231,37 @@ De werkgever maakt bij het verstrekken van de inlichtingen als bedoeld in artike
 
 ####Werkgever heeft reeds vergoedingsverzoek gedaan
 
-1.  De werkgever die wenst, dat de uitkeringskosten die op grond van [artikel 138, derde lid, van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 132, derde lid, van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) voor rekening van de werkgever komen, ten laste van het Participatiefonds worden gebracht, en die daarvoor reeds een vergoedingsverzoek heeft ingediend, verstrekt de inlichtingen die het Participatiefonds verzoekt.   
+1.  De werkgever die wenst, dat de uitkeringskosten die op grond van artikel 138, derde lid, van de WPO of artikel 132, derde lid, van de WEC voor rekening van de werkgever komen, ten laste van het Participatiefonds worden gebracht, en die daarvoor reeds een vergoedingsverzoek heeft ingediend, verstrekt de inlichtingen die het Participatiefonds verzoekt.   
 2.  De artikelen 3:4 tot en met 3:7 zijn van toepassing.  
 
 ### Artikel  3:14  
 
 ####Werkgever wenst dat de uitkeringskosten ten laste van Participatiefonds komen
 
-1.  De werkgever die wenst, dat de uitkeringskosten die op grond van [artikel 138, derde lid, van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 131, derde lid, van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) voor rekening van de werkgever komen, ten laste van het Participatiefonds worden gebracht, dient alsnog een vergoedingsverzoek in.   
+1.  De werkgever die wenst, dat de uitkeringskosten die op grond van artikel 138, derde lid, van de WPO of artikel 131, derde lid, van de WEC voor rekening van de werkgever komen, ten laste van het Participatiefonds worden gebracht, dient alsnog een vergoedingsverzoek in.   
 2.  De artikelen 3:3 tot en met 3:7 zijn van toepassing.  
 
 ### Artikel  3:15  
 
 ####Werkgever wenst niet dat de uitkeringskosten ten laste van Participatiefonds komen
 
-1.  De werkgever die niet wenst dat de uitkeringskosten als bedoeld in [artikel 138, derde lid, van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 132, derde lid, van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), ten laste van het Participatiefonds komen, deelt dit aan het Participatiefonds mee.   
-2.  Het Participatiefonds geeft binnen 8 weken nadat de werkgever de mededeling doet een beschikking, inhoudende dat de uitkeringskosten als bedoeld in [artikel 138, derde lid, van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 132, derde lid, van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), niet ten laste van het Participatiefonds komen.   
-3.  Als het Participatiefonds de beschikking als bedoeld in het tweede lid neemt, deelt het de minister van Onderwijs, Cultuur en Wetenschap mee, dat de uitkeringskosten als bedoeld in [artikel 138, derde lid, van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 132, derde lid, van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), niet ten laste van het Participatiefonds komen.  
+1.  De werkgever die niet wenst dat de uitkeringskosten als bedoeld in artikel 138, derde lid, van de WPO of artikel 132, derde lid, van de WEC, ten laste van het Participatiefonds komen, deelt dit aan het Participatiefonds mee.   
+2.  Het Participatiefonds geeft binnen 8 weken nadat de werkgever de mededeling doet een beschikking, inhoudende dat de uitkeringskosten als bedoeld in artikel 138, derde lid, van de WPO of artikel 132, derde lid, van de WEC, niet ten laste van het Participatiefonds komen.   
+3.  Als het Participatiefonds de beschikking als bedoeld in het tweede lid neemt, deelt het de minister van Onderwijs, Cultuur en Wetenschap mee, dat de uitkeringskosten als bedoeld in artikel 138, derde lid, van de WPO of artikel 132, derde lid, van de WEC, niet ten laste van het Participatiefonds komen.  
 
 ### Artikel  3:16  
 
 ####Gemoedsbezwaarden
 
-1.  De werkgever aan wie de Minister van Onderwijs, Cultuur en Wetenschap op grond van [artikel 184, derde lid, van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) ontheffing heeft verleend, deelt aan het Participatiefonds mee dat hij gemoedsbezwaarde is.   
-3.  Het Participatiefonds deelt het de minister van Onderwijs, Cultuur en Wetenschap mee, dat de uitkeringskosten als bedoeld in [artikel 138, derde lid, van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 132, derde lid, van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), niet ten laste van het Participatiefonds komen.  
+1.  De werkgever aan wie de Minister van Onderwijs, Cultuur en Wetenschap op grond van artikel 184, derde lid, van de WPO ontheffing heeft verleend, deelt aan het Participatiefonds mee dat hij gemoedsbezwaarde is.   
+3.  Het Participatiefonds deelt het de minister van Onderwijs, Cultuur en Wetenschap mee, dat de uitkeringskosten als bedoeld in artikel 138, derde lid, van de WPO of artikel 132, derde lid, van de WEC, niet ten laste van het Participatiefonds komen.  
 
 ### Artikel  3:17  
 
 ####Zelfstandig wachtgeldbeleid
 
 1.  De werkgever die zelfstandig wachtgeld-beleid als bedoeld in artikel 2 van het Reglement Participatiefonds voor het Primair Onderwijs 1998-1999 voert, deelt aan het Participatiefonds mee dat hij zelfstandig wachtgeldbeleid voert.   
-2.  Het Participatiefonds deelt het de minister van Onderwijs, Cultuur en Wetenschap mee, dat de uitkeringskosten als bedoeld in [artikel 138, derde lid, van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 132, derde lid, van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), niet ten laste van het Participatiefonds komen.   
+2.  Het Participatiefonds deelt het de minister van Onderwijs, Cultuur en Wetenschap mee, dat de uitkeringskosten als bedoeld in artikel 138, derde lid, van de WPO of artikel 132, derde lid, van de WEC, niet ten laste van het Participatiefonds komen.   
 3.  Voor de huidige deelnemers aan zelfstandig wachtgeldbeleid is artikel 2 van het Reglement Participatiefonds voor het Primair Onderwijs 1998-1999 voor onbepaalde tijd van toepassing.  
 
 ### Paragraaf  3.3  
@@ -345,7 +345,7 @@ Als het dienstverband is beëindigd wegens dringende reden (ontslag op staande v
 
 ####Grondslag vergoedingsverzoek: ontbinding arbeidsovereenkomst door Kantonrechter (artikel 3.7, derde lid, CAO PO)
 
-Als het dienstverband is ontbonden op grond van [7:685 BW](../../../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) (uitspraak kantonrechter) conform artikel 3.7, derde lid, van de CAO PO, dan komt de werkgever voor toewijzing van het vergoedingsverzoeking in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:3:1 tot en met 4:3:2 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als het dienstverband is ontbonden op grond van 7:685 BW (uitspraak kantonrechter) conform artikel 3.7, derde lid, van de CAO PO, dan komt de werkgever voor toewijzing van het vergoedingsverzoeking in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:3:1 tot en met 4:3:2 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:3:1  
 
@@ -430,9 +430,9 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ### Artikel  4:5  
 
-####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 3.7, vierde lid, CAO PO) vanwege ziekte/arbeidsongeschiktheid (artikel 3.8, vijfde lid, CAO PO) van de werknemer voor minder dan 35% [WIA](../../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md)
+####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 3.7, vierde lid, CAO PO) vanwege ziekte/arbeidsongeschiktheid (artikel 3.8, vijfde lid, CAO PO) van de werknemer voor minder dan 35% WIA
 
-Als het dienstverband van de werknemer die minder dan 35% arbeidsongeschikt is verklaard door het UWV in het kader van de [WIA](../../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) is beëindigd op grond van artikel 3.7, vierde lid, van de CAO PO, te weten met wederzijds goedvinden met als reden dat er naar het oordeel van de werkgever sprake is van ziekte of arbeidsongeschiktheid, zoals bedoeld in artikel 3.8, vijfde lid, van de CAO PO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:5:1 tot en met 4:5:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als het dienstverband van de werknemer die minder dan 35% arbeidsongeschikt is verklaard door het UWV in het kader van de WIA is beëindigd op grond van artikel 3.7, vierde lid, van de CAO PO, te weten met wederzijds goedvinden met als reden dat er naar het oordeel van de werkgever sprake is van ziekte of arbeidsongeschiktheid, zoals bedoeld in artikel 3.8, vijfde lid, van de CAO PO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:5:1 tot en met 4:5:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:5:1  
 
@@ -506,10 +506,10 @@ a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging 
 
 b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](../../../../../../../../../../../ministeriele-regeling/regeling/prestatiebox/primair/onderwijs/BWBR0031184/README.md) worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
 
 d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in [artikel 19, tweede lid, onder b van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in artikel 19, tweede lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.  
 
 ### Artikel  4:6:3  
@@ -708,7 +708,7 @@ Als ontslag is verleend op grond van artikel 3.8, vierde lid, van de CAO PO, omd
 
 ####Grondslag vergoedingsverzoek: ziekte/arbeidsongeschiktheid (Artikel 3.8, vijfde lid, CAO PO)
 
-Als aan de werknemer, die minder dan 35% arbeidsongeschikt is verklaard in het kader van de [WIA](../../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), ontslag is verleend op grond van artikel 3.8, vijfde lid, van de CAO PO, te weten op grond van ziekte of arbeidsongeschiktheid met in achtneming van de bepalingen van het [BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md), dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:11:1 tot en met 4:11:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als aan de werknemer, die minder dan 35% arbeidsongeschikt is verklaard in het kader van de WIA, ontslag is verleend op grond van artikel 3.8, vijfde lid, van de CAO PO, te weten op grond van ziekte of arbeidsongeschiktheid met in achtneming van de bepalingen van het BZA, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:11:1 tot en met 4:11:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:11:1  
 
@@ -716,7 +716,7 @@ Als aan de werknemer, die minder dan 35% arbeidsongeschikt is verklaard in het k
 
 1.  De werkgever heeft de reden voor het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever overlegt daartoe een afschrift van het ontslagbesluit   
-3.  Tevens overlegt de werkgever een afschrift van de WIA-beschikking waaruit blijkt dat de werknemer minder dan 35% arbeidsongeschikt is verklaard door het UWV in het kader van de [WIA](../../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).  
+3.  Tevens overlegt de werkgever een afschrift van de WIA-beschikking waaruit blijkt dat de werknemer minder dan 35% arbeidsongeschikt is verklaard door het UWV in het kader van de WIA.  
 
 ### Artikel  4:11:2  
 
@@ -792,10 +792,10 @@ a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging 
 
 b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](../../../../../../../../../../../ministeriele-regeling/regeling/prestatiebox/primair/onderwijs/BWBR0031184/README.md) worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
 
 d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in [artikel 19, tweede lid, onder b van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van het ontslag.   
+3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in artikel 19, tweede lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van het ontslag.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.  
 
 ### Artikel  4:12:3  
@@ -925,9 +925,9 @@ Als de opleidende instelling de leerarbeidsovereenkomst van de werknemer die als
 
 ### Artikel  4:15  
 
-####Grondslag vergoedingsverzoek: het niet meewerken aan re-integratie als bedoeld in [artikel 20a BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md)
+####Grondslag vergoedingsverzoek: het niet meewerken aan re-integratie als bedoeld in artikel 20a BZA
 
-Als ontslag is verleend op grond van [artikel 20a BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md) vanwege het niet meewerken aan re-integratie, komt de werkgever voor toewijzing van het vergoedingsverzoeking in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:15:1 heeft voldaan en de in het artikel genoemde documenten heeft overgelegd. 
+Als ontslag is verleend op grond van artikel 20a BZA vanwege het niet meewerken aan re-integratie, komt de werkgever voor toewijzing van het vergoedingsverzoeking in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:15:1 heeft voldaan en de in het artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:15:1  
 
@@ -935,7 +935,7 @@ Als ontslag is verleend op grond van [artikel 20a BZA](../../../../../../../../.
 
 1.  De werkgever heeft de reden voor het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever overlegt daartoe het ontslagbesluit waaruit onderbouwd blijkt dat de werknemer zonder deugdelijke grond niet heeft meegewerkt aan zijn re-integratie.   
-3.  Tevens overlegt de werkgever een afschrift van het advies van het UWV als bedoeld in [artikel 20a, tweede lid, BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md).  
+3.  Tevens overlegt de werkgever een afschrift van het advies van het UWV als bedoeld in artikel 20a, tweede lid, BZA.  
 
 ### Paragraaf  4.2  
 
@@ -1112,8 +1112,8 @@ a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging 
 
 b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](../../../../../../../../../../../ministeriele-regeling/regeling/prestatiebox/primair/onderwijs/BWBR0031184/README.md) worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in [artikel 19, tweede lid, onder b van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.     
+3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in artikel 19, tweede lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.  
 
 ### Artikel  4:21:3  
@@ -1262,7 +1262,7 @@ b. de werkgever de werknemer heeft meegedeeld dat het tijdelijk dienstverband ni
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband vanwege het niet meewerken aan re-integratie als bedoeld in artikel 20a BZA
 
-Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat sprake is van het niet meewerken aan re-integratie als bedoeld in [artikel 20a BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md), dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:26:1 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat sprake is van het niet meewerken aan re-integratie als bedoeld in artikel 20a BZA, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:26:1 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:26:1  
 
@@ -1270,7 +1270,7 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever overlegt daartoe een afschrift van de brief waarin de werkgever aan de werknemer heeft medegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten.   
-3.  Tevens overlegt de werkgever een afschrift van het advies van het UWV als bedoeld in [artikel 20a, tweede lid, BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md).  
+3.  Tevens overlegt de werkgever een afschrift van het advies van het UWV als bedoeld in artikel 20a, tweede lid, BZA.  
 
 ### Artikel  4:27  
 
@@ -1388,7 +1388,7 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ### Artikel  4:32  
 
-####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.4, onder b, CAO PO); terugkeer afwezige na zwangerschaps- en bevallingsverlof op grond van de [Wet Arbeid en Zorg](../../../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) (WAZO)
+####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.4, onder b, CAO PO); terugkeer afwezige na zwangerschaps- en bevallingsverlof op grond van de Wet Arbeid en Zorg (WAZO)
 
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.4, onder b, van de CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:32:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
@@ -1396,7 +1396,7 @@ Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.4, onder
 
 ####Aantonen vervanging wegens zwangerschaps- en bevallingsverlof
 
-1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die zwangerschaps- en bevallingsverlof genoot op grond van de [WAZO](../../../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md).   
+1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die zwangerschaps- en bevallingsverlof genoot op grond van de WAZO.   
 2.  De werkgever overlegt daartoe een afschrift van de akte van benoeming van de werknemer die de afwezig werknemer heeft vervangen, waarin is opgenomen: 
 
 a. de naam van de afwezige; en  
@@ -1577,10 +1577,10 @@ a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging 
 
 b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](../../../../../../../../../../../ministeriele-regeling/regeling/prestatiebox/primair/onderwijs/BWBR0031184/README.md) worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen;  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen;  
 
 d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in [artikel 19, tweede lid, onder b van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in artikel 19, tweede lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.  
 
 ### Artikel  4:38:3  
@@ -1629,7 +1629,7 @@ Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan word
 
 ####Vergelijking per onderwijssoort
 
-Een werkgever die zowel werkgever is in de zin van de [WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) als van de [WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 4:38:3 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
+Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 4:38:3 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
 ### Artikel  4:38:8  
 
@@ -2000,10 +2000,10 @@ a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging 
 
 b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](../../../../../../../../../../../ministeriele-regeling/regeling/prestatiebox/primair/onderwijs/BWBR0031184/README.md) worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen;  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen;  
 
 d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in [artikel 19, tweede lid, onder b van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van het ontslag.   
+3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in artikel 19, tweede lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van het ontslag.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.  
 
 ### Artikel  4:45:3  
@@ -2055,7 +2055,7 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een 
 
 ####Vergelijking per onderwijssoort
 
-Een werkgever die zowel werkgever is in de zin van de [WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) als van de [WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 4:39:3 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
+Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 4:39:3 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
 ### Artikel  4:45:8  
 
@@ -2424,10 +2424,10 @@ a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging 
 
 b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](../../../../../../../../../../../ministeriele-regeling/regeling/prestatiebox/primair/onderwijs/BWBR0031184/README.md) worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
 
 d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het tijdelijk dienstverband niet is voortgezet, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in [artikel 19, tweede lid, onder b van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in artikel 19, tweede lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.  
 
 ### Artikel  4:52:2  
@@ -2460,7 +2460,7 @@ Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan word
 
 ####Vergelijking per onderwijssoort
 
-Een werkgever die zowel werkgever is in de zin van de [WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) als van de [WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 4:52:1 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
+Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 4:52:1 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
 ### Artikel  4:52:6  
 
@@ -2504,10 +2504,10 @@ a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging 
 
 b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](../../../../../../../../../../../ministeriele-regeling/regeling/prestatiebox/primair/onderwijs/BWBR0031184/README.md) worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
 
 d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in [artikel 19, tweede lid, onder b van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in artikel 19, tweede lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.  
 
 ### Artikel  4:53:2  
@@ -2761,7 +2761,7 @@ Als ontslag is verleend op grond artikel 4.7 onder e, van de CAO PO, omdat na af
 
 ####Grondslag vergoedingsverzoek: ziekte/arbeidsongeschiktheid (Artikel 4.7, onder f, CAO PO)
 
-Als aan de werknemer die minder dan 35% arbeidsongeschikt is verklaard door het UWV in het kader van de WIA ontslag is verleend op grond van artikel 4.7, onder f, van de CAO PO, te weten op grond van ziekte of arbeidsongeschiktheid met in achtneming van de bepalingen van het [BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md), dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:3:1 tot en met 5:3:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als aan de werknemer die minder dan 35% arbeidsongeschikt is verklaard door het UWV in het kader van de WIA ontslag is verleend op grond van artikel 4.7, onder f, van de CAO PO, te weten op grond van ziekte of arbeidsongeschiktheid met in achtneming van de bepalingen van het BZA, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:3:1 tot en met 5:3:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:3:1  
 
@@ -2769,7 +2769,7 @@ Als aan de werknemer die minder dan 35% arbeidsongeschikt is verklaard door het 
 
 1.  De werkgever heeft de reden voor het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever overlegt daartoe een afschrift van het ontslagbesluit.   
-3.  Tevens overlegt de werkgever een afschrift van de beschikking waaruit blijkt dat de werknemer, in het kader van de [WIA](../../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) voor minder dan 35% arbeidsongeschikt is verklaard door het UWV.  
+3.  Tevens overlegt de werkgever een afschrift van de beschikking waaruit blijkt dat de werknemer, in het kader van de WIA voor minder dan 35% arbeidsongeschikt is verklaard door het UWV.  
 
 ### Artikel  5:3:2  
 
@@ -3012,10 +3012,10 @@ a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging 
 
 b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](../../../../../../../../../../../ministeriele-regeling/regeling/prestatiebox/primair/onderwijs/BWBR0031184/README.md) worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
 
 d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in [artikel 19, tweede lid, onder b van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in artikel 19, tweede lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.  
 
 ### Artikel  5:9:3  
@@ -3070,7 +3070,7 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: andere met name genoemde redenen van gewichtige aard (artikel 4.7, onder k, CAO PO), te weten het met wederzijds goedvinden beëindigen van het dienstverband vanwege ziekte/arbeidsongeschiktheid (artikel 4.7, onder f, CAO PO)
 
-Als het dienstverband van de werknemer die minder dan 35% arbeidsongeschikt is verklaard door het UWV in het kader van de [WIA](../../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) is beëindigd op grond van artikel 4.7, onder k, CAO PO, te weten met wederzijds goedvinden vanwege redenen van gewichtige aard, zijnde ziekte of arbeidsongeschiktheid, met in achtneming van de bepalingen van het [Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md) (BZA), dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:10:1 tot en met 5:10:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als het dienstverband van de werknemer die minder dan 35% arbeidsongeschikt is verklaard door het UWV in het kader van de WIA is beëindigd op grond van artikel 4.7, onder k, CAO PO, te weten met wederzijds goedvinden vanwege redenen van gewichtige aard, zijnde ziekte of arbeidsongeschiktheid, met in achtneming van de bepalingen van het Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs (BZA), dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:10:1 tot en met 5:10:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:10:1  
 
@@ -3252,10 +3252,10 @@ a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging 
 
 b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](../../../../../../../../../../../ministeriele-regeling/regeling/prestatiebox/primair/onderwijs/BWBR0031184/README.md) worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
 
 d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in [artikel 19, tweede lid, onder b van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in artikel 19, tweede lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.  
 
 ### Artikel  5:13:3  
@@ -3321,9 +3321,9 @@ Als de opleidende instelling de leerarbeidsovereenkomst van de werknemer die als
 
 ### Artikel  5.15  
 
-####Grondslag vergoedingsverzoek: het niet meewerken aan re-integratie als bedoeld in [artikel 20a BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md)
+####Grondslag vergoedingsverzoek: het niet meewerken aan re-integratie als bedoeld in artikel 20a BZA
 
-Als ontslag is verleend op grond [artikel 20a BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md) vanwege het niet meewerken aan re-integratie, komt de werkgever voor toewijzing van het vergoedingsverzoeking in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:15:1 heeft voldaan en de in het artikel genoemde documenten heeft overgelegd. 
+Als ontslag is verleend op grond artikel 20a BZA vanwege het niet meewerken aan re-integratie, komt de werkgever voor toewijzing van het vergoedingsverzoeking in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:15:1 heeft voldaan en de in het artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:15:1  
 
@@ -3331,7 +3331,7 @@ Als ontslag is verleend op grond [artikel 20a BZA](../../../../../../../../../..
 
 1.  De werkgever heeft de reden voor het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever overlegt daartoe het ontslagbesluit waaruit onderbouwd blijkt dat de werknemer zonder deugdelijk grond niet heeft meegewerkt aan zijn re-integratie   
-3.  Tevens overlegt de werkgever een afschrift van het advies van het UWV als bedoeld in [artikel 20a, tweede lid, BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md).  
+3.  Tevens overlegt de werkgever een afschrift van het advies van het UWV als bedoeld in artikel 20a, tweede lid, BZA.  
 
 ### Paragraaf  5.2  
 
@@ -3528,10 +3528,10 @@ a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging 
 
 b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](../../../../../../../../../../../ministeriele-regeling/regeling/prestatiebox/primair/onderwijs/BWBR0031184/README.md) worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
 
 d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in [artikel 19, tweede lid, onder b van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in artikel 19, tweede lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.  
 
 ### Artikel  5:23:3  
@@ -3682,9 +3682,9 @@ b. de werkgever de werknemer heeft meegedeeld dat het tijdelijk dienstverband ni
 
 ### Artikel  5:28  
 
-####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO): vanwege het niet meewerken aan re-integratie als bedoeld in [artikel 20a BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md)
+####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO): vanwege het niet meewerken aan re-integratie als bedoeld in artikel 20a BZA
 
-Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat sprake is van het niet meewerken aan re-integratie als bedoeld in [artikel 20a BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md), dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:28:1 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat sprake is van het niet meewerken aan re-integratie als bedoeld in artikel 20a BZA, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:28:1 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:28:1  
 
@@ -3692,11 +3692,11 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever overlegt daartoe een afschrift van de brief waarin de werkgever aan de werknemer heeft medegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten.   
-3.  Tevens overlegt de werkgever een afschrift van het advies van het UWV als bedoeld in [artikel 20a, tweede lid, BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md).  
+3.  Tevens overlegt de werkgever een afschrift van het advies van het UWV als bedoeld in artikel 20a, tweede lid, BZA.  
 
 ### Artikel  5:29  
 
-####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (Artikel 4.4, onder a, CAO PO); terugkeer afwezige die ziekteverlof op grond van [BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md) genoot.
+####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (Artikel 4.4, onder a, CAO PO); terugkeer afwezige die ziekteverlof op grond van BZA genoot.
 
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 4.4, onder a, CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:29:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
@@ -3704,7 +3704,7 @@ Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 4.4, onder
 
 ####Aantonen vervanging wegens ziekte
 
-1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die ziekteverlof op grond van het [BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md) genoot.   
+1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die ziekteverlof op grond van het BZA genoot.   
 2.  De werkgever overlegt daartoe een akte van aanstelling van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
 
 a. de naam van de afwezige; en  
@@ -3810,7 +3810,7 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ### Artikel  5:34  
 
-####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (Artikel 4.4, onder a, CAO PO); terugkeer afwezige na zwangerschaps- en bevallingsverlof op grond van de [Wet Arbeid en Zorg](../../../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) (WAZO)
+####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (Artikel 4.4, onder a, CAO PO); terugkeer afwezige na zwangerschaps- en bevallingsverlof op grond van de Wet Arbeid en Zorg (WAZO)
 
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 4.4, onder a, CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:34:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
@@ -3946,9 +3946,9 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ### Artikel  5:39  
 
-####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband vanwege het niet meewerken aan re-integratie als bedoeld in [artikel 20a BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md)
+####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband vanwege het niet meewerken aan re-integratie als bedoeld in artikel 20a BZA
 
-Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat sprake is van het niet meewerken aan re-integratie als bedoeld in [artikel 20a BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md), dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:39:1 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat sprake is van het niet meewerken aan re-integratie als bedoeld in artikel 20a BZA, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:39:1 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:39:1  
 
@@ -3956,7 +3956,7 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever overlegt daartoe een afschrift van de brief waarin de werkgever aan de werknemer heeft medegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten.   
-3.  Tevens overlegt de werkgever een afschrift van het advies van het UWV als bedoeld in [artikel 20a, tweede lid, BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md).  
+3.  Tevens overlegt de werkgever een afschrift van het advies van het UWV als bedoeld in artikel 20a, tweede lid, BZA.  
 
 ### Paragraaf  5.3  
 
@@ -3986,10 +3986,10 @@ a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging 
 
 b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](../../../../../../../../../../../ministeriele-regeling/regeling/prestatiebox/primair/onderwijs/BWBR0031184/README.md) worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
 
 d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in [artikel 19, tweede lid, onder b van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in artikel 19, tweede lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.  
 
 ### Artikel  5:40:3  
@@ -4039,7 +4039,7 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betre
 
 ####Vergelijking per onderwijssoort
 
-Een werkgever die zowel werkgever is in de zin van de [WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) als van de [WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 5:40:2 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
+Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 5:40:2 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
 ### Artikel  5:40:8  
 
@@ -4425,10 +4425,10 @@ a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging 
 
 b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](../../../../../../../../../../../ministeriele-regeling/regeling/prestatiebox/primair/onderwijs/BWBR0031184/README.md) worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
 
 d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in [artikel 19, tweede lid, onder b van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in artikel 19, tweede lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.  
 
 ### Artikel  5:47:3  
@@ -4478,7 +4478,7 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betre
 
 ####Vergelijking per onderwijssoort
 
-Een werkgever die zowel werkgever is in de zin van de [WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) als van de [WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 5:47:2 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
+Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 5:47:2 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
 ### Artikel  5:47:8  
 
@@ -4864,10 +4864,10 @@ a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging 
 
 b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](../../../../../../../../../../../ministeriele-regeling/regeling/prestatiebox/primair/onderwijs/BWBR0031184/README.md) worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
 
 d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het tijdelijk dienstverband niet is voortgezet, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in [artikel 19, tweede lid, onder b van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in artikel 19, tweede lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.  
 
 ### Artikel  5:54:2  
@@ -4900,7 +4900,7 @@ Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan word
 
 ####Vergelijking per onderwijssoort
 
-Een werkgever die zowel werkgever is in de zin van de [WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 5:54:1 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
+Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 5:54:1 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
 ### Artikel  5:54:6  
 
@@ -4944,10 +4944,10 @@ a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging 
 
 b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](../../../../../../../../../../../ministeriele-regeling/regeling/prestatiebox/primair/onderwijs/BWBR0031184/README.md) worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2012–2013 en schooljaar 2013–2014 opgenomen.  
 
 d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in [artikel 19, tweede lid, onder b van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in artikel 19, tweede lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.  
 
 ### Artikel  5:55:2  
@@ -5222,7 +5222,7 @@ Dit reglement treedt in werking met ingang van de dag volgend op die, waarop het
 
 ####Overgangsbepaling
 
-Een werkgever die een vergoedingsverzoek indient voor een dienstverband dat op 1 augustus 2013 wordt beëindigd, voldoet aan de voorwaarde ‘ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie’ als hij blijkens de verklaring ‘overgangsbepaling ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie’ heeft voldaan aan de inspanningsverplichting uit categorie IV, zoals genoemd in [artikel 4.4.](../../../../../../../../../../../zbo/reglement/participatiefonds/voor/het/primair/onderwijs/voor/het/schooljaar/etc/BWBR0031840/README.md) en [artikel 4.4.1., van het Reglement Participatiefonds voor het schooljaar 2012-2013](../../../../../../../../../../../zbo/reglement/participatiefonds/voor/het/primair/onderwijs/voor/het/schooljaar/etc/BWBR0031840/README.md). 
+Een werkgever die een vergoedingsverzoek indient voor een dienstverband dat op 1 augustus 2013 wordt beëindigd, voldoet aan de voorwaarde ‘ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie’ als hij blijkens de verklaring ‘overgangsbepaling ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie’ heeft voldaan aan de inspanningsverplichting uit categorie IV, zoals genoemd in artikel 4.4. en artikel 4.4.1., van het Reglement Participatiefonds voor het schooljaar 2012-2013. 
 
 ### Artikel  6:4  
 
@@ -5255,7 +5255,7 @@ In gevallen waarin het reglement niet voorziet, beslist het bestuur van het Part
 
 ####Wijziging voorgaand reglement
 
-[Artikel 32 van het ‘Reglement Participatiefonds voor het Primair Onderwijs voor het schooljaar 2012–2013’](../../../../../../../../../../../zbo/reglement/participatiefonds/voor/het/primair/onderwijs/voor/het/schooljaar/etc/BWBR0031840/README.md) en [artikel 32 van het ‘Reglement Participatiefonds voor de Expertisecentra voor het schooljaar 2012–2013](../../../../../../../../../../../zbo/reglement/participatiefonds/voor/de/expertisecentra/voor/het/schooljaar/etc/BWBR0031842/README.md)’ wordt gewijzigd en komt als volgt te luiden: ‘Dit reglement treedt in werking op 1 februari 2012 en heeft betrekking op niet voortgezette en beëindigde dienstverbanden die zijn of worden geëffectueerd in de periode van 1 augustus 2012 tot en met 31 juli 2013. Voor genoemde niet voortgezette en beëindigde dienstverbanden is dit reglement voor onbepaalde tijd van kracht’. 
+Artikel 32 van het ‘Reglement Participatiefonds voor het Primair Onderwijs voor het schooljaar 2012–2013’ en artikel 32 van het ‘Reglement Participatiefonds voor de Expertisecentra voor het schooljaar 2012–2013’ wordt gewijzigd en komt als volgt te luiden: ‘Dit reglement treedt in werking op 1 februari 2012 en heeft betrekking op niet voortgezette en beëindigde dienstverbanden die zijn of worden geëffectueerd in de periode van 1 augustus 2012 tot en met 31 juli 2013. Voor genoemde niet voortgezette en beëindigde dienstverbanden is dit reglement voor onbepaalde tijd van kracht’. 
 
 ### Bijlage  1  
 

@@ -3,7 +3,7 @@
 ##Deelregeling WBT+
 
 Het bestuur van het Mondriaan Fonds,  
-Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);
+Gelet op artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid;
 Besluit:    
 
 ### Artikel  1  
@@ -17,7 +17,7 @@ De regeling is bedoeld voor het stimuleren van initiatieven uit het professionel
 ####Vereisten
 
 1.  Een werkbijdrage WBT+ kan worden verstrekt aan instellingen en opdrachtgevers die een serieus platform bieden en wordt verstrekt ten gunste van beeldend kunstenaars.   
-2.  De kunstenaar voor wie een werkbijdrage wordt aangevraagd dient ten minste acht jaar professioneel als beeldend kunstenaar werkzaam te zijn. Indien de aanvrager een hbo-opleiding aan een opleidingsinstituut voor beeldende kunsten heeft gevolgd kan acht jaar na het verlaten van die opleiding een werkbijdrage worden aangevraagd.   
+2.  De kunstenaar voor wie een werkbijdrage wordt aangevraagd dient ten minste vier jaar professioneel als beeldend kunstenaar werkzaam te zijn. Indien de aanvrager een hbo-opleiding aan een opleidingsinstituut voor beeldende kunsten heeft gevolgd kan vier jaar na het verlaten van die opleiding een werkbijdrage worden aangevraagd.   
 3.  Een werkbijdrage kan niet worden verstrekt gedurende de looptijd van een andere subsidie van het fonds die naar het oordeel van het bestuur in dekking van dezelfde kosten voorziet als de werkbijdrage WBT+.   
 4.  Een werkbijdrage kan niet worden verstrekt gedurende de periode waarin een kunstenaar deelnemer is bij een instellingen waarvoor een beurs praktijkverdieping kan worden aangevraagd die door het fonds gesubsidieerd kan worden.   
 5.  Een werkbijdrage kan slechts worden toegekend voor zover het belastbaar inkomen van de kunstenaar, exclusief een verstrekking op basis van een eerder toegekende subsidie van het fonds in de twee kalenderjaren voorafgaand aan het jaar waarin de werkbijdrage is aangevraagd, gelijk of lager is dan een door het bestuur voor dat jaar vast te stellen bedrag..   

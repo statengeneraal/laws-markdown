@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-Voor subsidieverlening op grond van artikel 2.5 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 voor activiteiten ten behoeve van de ontwikkeling en uitvoering van het beleid van de minister op het terrein van migratie geldt voor de periode vanaf 1 januari 2015 tot en met 31 december 2015 een plafond van € 0,00. 
+Voor subsidieverlening op grond van artikel 2.5 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 voor activiteiten ten behoeve van de ontwikkeling en uitvoering van het beleid van de minister op het terrein van migratie, met uitzondering van activiteiten ten behoeve van het bevorderen van vrijwillige, duurzame terugkeer en herintegratie van ex-asielzoekers, geldt voor de periode vanaf 1 januari 2015 tot en met 31 december 2015 een plafond van € 0,00. 
 
 ### Artikel  2  
 

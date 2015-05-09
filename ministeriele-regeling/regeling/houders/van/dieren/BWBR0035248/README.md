@@ -691,6 +691,14 @@ e. Siberian husky, mits bij de honden geen pijn of letsel wordt veroorzaakt en d
 
 Als voorschrift van een EU-verordening als bedoeld in artikel 6.2, eerste lid, van de wet wordt aangewezen: artikel 18 van verordening (EG) nr. 178/2002 van het Europees Parlement en de Raad van 28 januari 2002, tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden, voor houders van productiedieren die gehouden worden voor de voedselproductie (PbEG 2002 L 31). 
 
+### Artikel  9.3  
+
+####Verbodsbepaling
+
+Treedt in werking per 01-07-2015 
+
+Als voorschrift van een EU-verordening als bedoeld in artikel 6.2, eerste lid, van de wet wordt aangewezen: artikel 18 van verordening (EG) nr. 178/2002 van het Europees Parlement en de Raad van 28 januari 2002, tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden, voor houders van productiedieren die gehouden worden voor de voedselproductie (PbEG 2002 L 31). 
+
 ### Hoofdstuk  10  
 
 ####Wijziging en intrekking van regelingen

@@ -82,7 +82,7 @@ e. levering aan een warmtenet, mits de producent aannemelijk kan maken dat de wa
 3.  Per categorie productie-installaties kan in de periode, genoemd in het eerste lid, per adres waarop een productie-installatie wordt geplaatst maximaal één aanvraag worden ingediend.   
 4.  De minister beslist afwijzend op een aanvraag om subsidie voor de productie van hernieuwbare elektriciteit, hernieuwbaar gas of hernieuwbare warmte door een productie-installatie van een categorie als bedoeld in het eerste lid indien geen toestemming van de eigenaar van de beoogde locatie is verkregen voor het plaatsen van de productie-installatie.   
 5.  Een subsidie als bedoeld in het eerste lid van meer dan € 400.000.000,– wordt verleend onder de opschortende voorwaarde dat binnen zes weken na afgifte van deze beschikking een uitvoeringsovereenkomst overeenkomstig de overeenkomst opgenomen in de bij deze regeling behorende bijlage 1 tot stand is gekomen tussen de Staat en de subsidie-aanvrager.   
-6.  Indien voor dezelfde periode, of gedeeltelijk voor dezelfde periode, meerdere beschikkingen zijn afgegeven voor dezelfde productie-installatie en dezelfde soort hernieuwbare energie, worden voor de toepassing van het vijfde lid de subsidies die de subsidie-ontvanger ontvangt, bedoeld in artikel 15 van het besluit, van de beschikkingen waarvan de periode waarover subsidie wordt verstrekt nog niet zijn aangevangen bij elkaar opgeteld.  
+6.  Indien voor dezelfde periode, of gedeeltelijk voor dezelfde periode, meerdere beschikkingen zijn afgegeven voor dezelfde productie-installatie en dezelfde soort hernieuwbare energie, worden voor de toepassing van het vijfde lid de subsidies die de subsidie-ontvanger ontvangt, bedoeld in artikel 15 of 48 van het besluit, van de beschikkingen waarvan de periode waarover subsidie wordt verstrekt nog niet zijn aangevangen bij elkaar opgeteld.  
 
 ### Artikel  3  
 
@@ -148,7 +148,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare el
 
 ### Artikel  8  
 
-De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie die niet is opgericht in de territoriale zee, in de Nederlandse exclusieve economische zone of op een locatie waar op het moment van aanvragen een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie staat of heeft gestaan met een hoger vermogen, of een vermogen dat minder dan 1 MW afwijkt, welke wordt gerealiseerd in een gemeente die in de lijst in bijlage 2 een windsnelheid heeft van: 
+De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie die niet is opgericht in de territoriale zee, in de Nederlandse exclusieve economische zone of op een locatie waar op het moment van aanvragen een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie staat of heeft gestaan met een hoger vermogen, tenzij bij de vervanging van één of meerdere windturbines het vermogen per windturbine ten minste 1 MW toeneemt, welke wordt gerealiseerd in een gemeente die in de lijst in bijlage 2 een windsnelheid heeft van: 
 
 a. ≥ 8,0 m/s,  
 
@@ -169,7 +169,7 @@ d. < 7,0 m/s.
 
 ### Artikel  10  
 
-De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie die is opgericht op een locatie waar op het moment van aanvragen een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie staat of heeft gestaan met een vermogen dat minder dan 1 MW afwijkt, die op het moment van aanvragen minimaal 10 jaar daarvoor in gebruik is genomen, en die niet is opgericht in de territoriale zee of in de Nederlandse exclusieve economische zone, welke wordt gerealiseerd in een gemeente die in de lijst in bijlage 2 een windsnelheid heeft van: 
+De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie die is opgericht op een locatie waar op het moment van aanvragen een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie staat of heeft gestaan die op het moment van aanvragen minimaal 10 jaar daarvoor in gebruik is genomen, en die niet is opgericht in de territoriale zee of in de Nederlandse exclusieve economische zone, welke wordt gerealiseerd in een gemeente die in de lijst in bijlage 2 een windsnelheid heeft van: 
 
 a. ≥ 8,0 m/s,  
 
@@ -190,7 +190,7 @@ d. < 7,0 m/s.
 
 ### Artikel  12  
 
-De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie die is opgericht binnen de beschermingszones van een verbindende waterkering als bedoeld in paragraaf 2.7 van bijlage 1 van de Regeling veiligheid primaire waterkeringen en die niet is opgericht op een locatie waar op het moment van aanvragen productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie staat of heeft gestaan met een hoger vermogen of een vermogen dat minder dan 1 MW afwijkt, welke wordt gerealiseerd in een gemeente die in de lijst in bijlage 2 een windsnelheid heeft van: 
+De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie die is opgericht binnen de beschermingszones van een verbindende waterkering als bedoeld in paragraaf 2.7 van bijlage 1 van de Regeling veiligheid primaire waterkeringen en die niet is opgericht op een locatie waar op het moment van aanvragen productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie staat of heeft gestaan met een hoger vermogen tenzij bij de vervanging van één of meerdere windturbines het vermogen per windturbine ten minste 1 MW toeneemt, welke wordt gerealiseerd in een gemeente die in de lijst in bijlage 2 een windsnelheid heeft van: 
 
 a. ≥ 8,0 m/s,  
 
@@ -211,7 +211,7 @@ d. < 7,0 m/s.
 
 ### Artikel  14  
 
-De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie die niet is opgericht in de territoriale zee, in de Nederlandse exclusieve economische zone of op een locatie waar op het moment van aanvragen productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie staat of heeft gestaan met een hoger vermogen, of een vermogen dat minder dan 1 MW afwijkt, en waarvan de fundering in het water van een meer van minimaal één vierkante kilometer staat. 
+De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie die niet is opgericht in de territoriale zee, in de Nederlandse exclusieve economische zone of op een locatie waar op het moment van aanvragen productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie staat of heeft gestaan met een hoger vermogen, tenzij bij de vervanging van één of meerdere windturbines het vermogen per windturbine ten minste 1 MW toeneemt, en waarvan de fundering in het water van een meer van minimaal één vierkante kilometer staat. 
 
 ### Artikel  15  
 
@@ -354,7 +354,7 @@ b. met een nominaal thermisch vermogen groter dan of gelijk aan 5 MW.
 
 ### Artikel  32  
 
-1.  De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare warmte geproduceerd door een productie-installatie voor de productie van warmte door middel van verbranding van houtpellets geproduceerd uit vaste biomassa als bedoeld in de nummers 110 tot en met 132 van de NTA 8003: 2008, in een ketel met een vermogen groter dan of gelijk aan 10 MW.   
+1.  De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare warmte geproduceerd door een productie-installatie voor de productie van stoom door middel van verbranding van houtpellets geproduceerd uit vaste biomassa als bedoeld in de nummers 110 tot en met 132 van de NTA 8003: 2008, in een ketel met een vermogen groter dan of gelijk aan 10 MW.   
 2.  Een producent aan wie subsidie is verstrekt op grond van het eerste lid draagt er zorg voor dat ten minste 95% van de energetische waarde van de jaarlijks in de productie-installatie gebruikte brandstof biogeen is.   
 3.  Een producent aan wie subsidie is verstrekt op grond van het eerste lid draagt er zorg voor dat in voldoende aannemelijk wordt gemaakt dat de gebruikte biomassa voldoet aan de duurzaamheidseisen voor vaste biomassa, bedoeld in artikel 7 van de Algemene uitvoeringsregeling stimulering duurzame energieproductie.  
 
@@ -752,7 +752,7 @@ d. De correcties op het basisbedrag voor subsidie voor een productie-installatie
 
 ### Artikel  62  
 
-De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie die niet is opgericht op een locatie waarvoor op het moment van aanvragen productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie staat of heeft gestaan met een hoger vermogen of een vermogen dat minder dan 1 MW afwijkt, en ten aanzien waarvan voor 1 januari 2015 een ontwerp-inpassingsplan of ontwerpbestemmingsplan ter inzage is gelegd of de aanvraag voor een omgevingsvergunning is ingediend. 
+De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie die niet is opgericht op een locatie waarvoor op het moment van aanvragen productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie staat of heeft gestaan met een hoger vermogen tenzij bij de vervanging van één of meerdere windturbines het vermogen per windturbine ten minste 1 MW toeneemt, en ten aanzien waarvan voor 1 januari 2015 een ontwerp-inpassingsplan of ontwerpbestemmingsplan ter inzage is gelegd of de aanvraag voor een omgevingsvergunning is ingediend. 
 
 ### Artikel  63  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Milieu van 12 juli 2011, nr. IenM/BSK-2011/101159, Hoofddirectie Bestuurlijke en Juridische Zaken;
 
-Gelet op richtlijn nr. 2002/49/EG van het Europees Parlement en de Raad van de Europese Unie van 25 juni 2002 inzake de evaluatie en de beheersing van omgevingslawaai (PbEG L 189) en de [artikelen 11.1](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [11.3](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [11.6](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [11.7](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [11.11](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [11.12](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [11.13](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [11.16](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [11.22](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [11.24](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [11.29](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [11.31](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [11.39](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [11.45](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [11.56](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [11.57 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [artikel 8a.45, eerste en tweede lid, van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) voor zover het betreft artikel 4;
+Gelet op richtlijn nr. 2002/49/EG van het Europees Parlement en de Raad van de Europese Unie van 25 juni 2002 inzake de evaluatie en de beheersing van omgevingslawaai (PbEG L 189) en de artikelen 11.1, 11.3, 11.6, 11.7, 11.11, 11.12, 11.13, 11.16, 11.22, 11.24, 11.29, 11.31, 11.39, 11.45, 11.56 en 11.57 van de Wet milieubeheer, en artikel 8a.45, eerste en tweede lid, van de Wet luchtvaart voor zover het betreft artikel 4;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 23 februari 2012, nr. W14.11.0303/IV);
 
@@ -20,13 +20,13 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-*actieplan:* actieplan als bedoeld in de [artikelen 11.11](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [11.12 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+*actieplan:* actieplan als bedoeld in de artikelen 11.11 en 11.12 van de wet;  
 
-*agglomeratie:* krachtens [artikel 11.5 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) als zodanig aangewezen gebied;  
+*agglomeratie:* krachtens artikel 11.5 van de wet als zodanig aangewezen gebied;  
 
-*belangrijke spoorweg:* hoofdspoorweg en krachtens [artikel 11.4, tweede lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) gepubliceerd deel van een andere spoorweg dan een hoofdspoorweg;  
+*belangrijke spoorweg:* hoofdspoorweg en krachtens artikel 11.4, tweede lid, van de wet gepubliceerd deel van een andere spoorweg dan een hoofdspoorweg;  
 
-*belangrijke weg:* weg in beheer bij het Rijk en krachtens [artikel 11.4, tweede lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) gepubliceerd deel van een provinciale weg;  
+*belangrijke weg:* weg in beheer bij het Rijk en krachtens artikel 11.4, tweede lid, van de wet gepubliceerd deel van een provinciale weg;  
 
 *bronmaatregel:* geluidbeperkende maatregel die de hoeveelheid geluid vanwege de geluidsbron beperkt bij de bron;  
 
@@ -40,7 +40,7 @@ Hebben goedgevonden en verstaan:
 
 *geluidreductie:* geluidreductie als bepaald overeenkomstig artikel 34 van dit besluit;  
 
-*geluidsbelastingkaart:* geluidsbelastingkaart als bedoeld in [artikel 11.6 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+*geluidsbelastingkaart:* geluidsbelastingkaart als bedoeld in artikel 11.6 van de wet;  
 
 *gevel:* bouwkundige constructie die een ruimte in een geluidsgevoelig object scheidt van de buitenlucht, daaronder begrepen het dak;  
 
@@ -58,22 +58,22 @@ a. een weg of spoorweg voldoet aan de akoestische kwaliteit, bedoeld in artikel 
 
 b. geen andere geluidbeperkende maatregelen aanwezig zijn dan bedoeld in onderdeel a;    
 
-*wet:* [Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+*wet:* Wet milieubeheer;  
 
 *woning:* gebouw of gedeelte van een gebouw dat voor bewoning is bestemd.     
-2.  Indien de financiële doelmatigheid van een geluidbeperkende maatregel wordt bepaald in het kader van [afdeling 11.3.6 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), bestaat een cluster, in afwijking van het eerste lid, uit een saneringsobject of een verzameling bijeengelegen saneringsobjecten die een relevante verlaging van de geluidsbelasting vanwege een weg of spoorweg zou kunnen ondervinden van een aaneengesloten geluidbeperkende maatregel.   
-3.  In afwijking van het eerste lid wordt bij de toepassing van dit besluit en de daarop berustende bepalingen onder gevel niet verstaan de gevel, die bij de procedures ten behoeve van de bouw van het betreffende geluidsgevoelige object op grond van [artikel 1b, vijfde lid, van de Wet geluidhinder](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), niet als gevel in de zin van die wet is behandeld.   
+2.  Indien de financiële doelmatigheid van een geluidbeperkende maatregel wordt bepaald in het kader van afdeling 11.3.6 van de wet, bestaat een cluster, in afwijking van het eerste lid, uit een saneringsobject of een verzameling bijeengelegen saneringsobjecten die een relevante verlaging van de geluidsbelasting vanwege een weg of spoorweg zou kunnen ondervinden van een aaneengesloten geluidbeperkende maatregel.   
+3.  In afwijking van het eerste lid wordt bij de toepassing van dit besluit en de daarop berustende bepalingen onder gevel niet verstaan de gevel, die bij de procedures ten behoeve van de bouw van het betreffende geluidsgevoelige object op grond van artikel 1b, vijfde lid, van de Wet geluidhinder, niet als gevel in de zin van die wet is behandeld.   
 4.  In dit besluit en de daarop berustende bepalingen wordt onder een woning niet verstaan: 
 
-a. een penitentiaire inrichting als bedoeld in [artikel 3, eerste lid, van de Penitentiaire inrichtingenwet](../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);  
+a. een penitentiaire inrichting als bedoeld in artikel 3, eerste lid, van de Penitentiaire inrichtingenwet;  
 
-b. een justitiële jeugdinrichting als bedoeld in [artikel 3a van de Beginselenwet justitiële jeugdinrichtingen](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);  
+b. een justitiële jeugdinrichting als bedoeld in artikel 3a van de Beginselenwet justitiële jeugdinrichtingen;  
 
-c. een inrichting voor verpleging van ter beschikking gestelden als bedoeld in [artikel 37d, eerste lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).    
+c. een inrichting voor verpleging van ter beschikking gestelden als bedoeld in artikel 37d, eerste lid, van het Wetboek van Strafrecht.    
 
 ### Artikel  2  
 
-1.  Als geluidsgevoelig object als bedoeld in [artikel 11.1 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) wordt aangewezen: 
+1.  Als geluidsgevoelig object als bedoeld in artikel 11.1 van de wet wordt aangewezen: 
 
 a. een woning;  
 
@@ -89,14 +89,14 @@ f. een psychiatrische inrichting;
 
 g. een kinderdagverblijf;  
 
-h. een standplaats als bedoeld in [artikel 1, eerste lid, onderdeel e, van de Huisvestingswet](../../../../../wet/huisvestingswet/BWBR0005674/README.md), en  
+h. een standplaats als bedoeld in artikel 1, onderdeel j, van de Wet op de huurtoeslag, en  
 
 i. een ligplaats in het water, bestemd om door een woonschip te worden ingenomen.     
 2.  De aanwijzing als geluidsgevoelig object in het eerste lid, onderdelen b tot en met g, geldt niet voor de delen van een object die een andere bestemming hebben dan genoemd in artikel 3, onderdelen b, c of d.  
 
 ### Artikel  3  
 
-Als geluidsgevoelige ruimten van een geluidsgevoelig object als bedoeld in [artikel 11.1 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) worden aangewezen: 
+Als geluidsgevoelige ruimten van een geluidsgevoelig object als bedoeld in artikel 11.1 van de wet worden aangewezen: 
 
 a. een ruimte binnen een woning voor zover die kennelijk als slaap-, woon-, of eetkamer wordt gebruikt of voor een zodanig gebruik is bestemd, alsmede een keuken van ten minste 11 m<sup>2</sup>;  
 
@@ -108,19 +108,19 @@ d. een onderzoeks-, behandelings-, recreatie-, of conversatieruimte, alsmede woo
 
 ### Artikel  4  
 
-Als categorieën van andere geluidgevoelige gebouwen als bedoeld in [artikel 8a.45, eerste lid, van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) worden aangewezen: gebouwen als bedoeld in artikel 2, aanhef en onderdelen b tot en met e. 
+Als categorieën van andere geluidgevoelige gebouwen als bedoeld in artikel 8a.45, eerste lid, van de Wet luchtvaart worden aangewezen: gebouwen als bedoeld in artikel 2, aanhef en onderdelen b tot en met e. 
 
 ### Artikel  5  
 
-Als inrichtingen als bedoeld in onderdeel b van de begripsomschrijving van verzameling van inrichtingen in [artikel 11.1, eerste lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) worden aangewezen: inrichtingen gelegen in een concentratiegebied voor horeca-inrichtingen of een concentratiegebied voor detailhandel en ambachtsbedrijven. 
+Als inrichtingen als bedoeld in onderdeel b van de begripsomschrijving van verzameling van inrichtingen in artikel 11.1, eerste lid, van de wet worden aangewezen: inrichtingen gelegen in een concentratiegebied voor horeca-inrichtingen of een concentratiegebied voor detailhandel en ambachtsbedrijven. 
 
 ### Artikel  6  
 
-Als stille gebieden als bedoeld in [artikel 11.6, derde lid, onderdeel b, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) worden aangewezen: 
+Als stille gebieden als bedoeld in artikel 11.6, derde lid, onderdeel b, van de wet worden aangewezen: 
 
-a. de krachtens [artikel 1.2, tweede lid, onderdeel b, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bij provinciale milieuverordening aangewezen gebieden;  
+a. de krachtens artikel 1.2, tweede lid, onderdeel b, van de wet bij provinciale milieuverordening aangewezen gebieden;  
 
-b. de krachtens [artikel 4.9, derde lid, onderdeel c, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) in de provinciale milieubeleidsplannen aangeduide gebieden waarin de kwaliteit van het milieu in verband met geluid bijzondere bescherming behoeft;  
+b. de krachtens artikel 4.9, derde lid, onderdeel c, van de wet in de provinciale milieubeleidsplannen aangeduide gebieden waarin de kwaliteit van het milieu in verband met geluid bijzondere bescherming behoeft;  
 
 c. de gebieden die bij gemeentelijke verordening als zodanig zijn aangewezen door een tot een agglomeratie behorende gemeente.   
 
@@ -156,7 +156,7 @@ b. voor geluidsbelasting L<sub>night</sub>: 50–54, 55–59, 60–64, 65–69, 
 
 ### Artikel  9  
 
-Deze paragraaf is van toepassing op de geluidsbelastingkaarten die krachtens [artikel 11.6, eerste en tweede lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) worden vastgesteld. 
+Deze paragraaf is van toepassing op de geluidsbelastingkaarten die krachtens artikel 11.6, eerste en tweede lid, van de wet worden vastgesteld. 
 
 ### Artikel  10  
 
@@ -170,7 +170,7 @@ a. het aantal geluidsgevoelige objecten dat is blootgesteld aan een geluidsbelas
 
 b. het aantal bewoners van de woningen die deel uitmaken van de geluidsgevoelige objecten, bedoeld in onderdeel a;  
 
-c. indien beschikbaar, een opgave van het aantal woningen dat op grond van de [wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), de [Wet geluidhinder](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), de [Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md) of de [Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) is voorzien van extra geluidwering;  
+c. indien beschikbaar, een opgave van het aantal woningen dat op grond van de wet, de Wet geluidhinder, de Woningwet of de Wet luchtvaart is voorzien van extra geluidwering;  
 
 d. een opgave van de totale oppervlakte in km² die is blootgesteld aan een geluidsbelasting die hoger is dan 55, 65, respectievelijk 75 dB.     
 2.  De aantallen, bedoeld in het eerste lid, onderdelen a en b, zijn exclusief de aantallen geluidsgevoelige objecten respectievelijk bewoners van woningen binnen agglomeraties en worden afgerond op honderdtallen.   
@@ -203,7 +203,7 @@ f. de grenzen van agglomeraties binnen de onder b bedoelde contouren.
 
 ### Artikel  12  
 
-Deze paragraaf is van toepassing op de geluidsbelastingkaarten die krachtens [artikel 11.6, vierde lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) worden vastgesteld. 
+Deze paragraaf is van toepassing op de geluidsbelastingkaarten die krachtens artikel 11.6, vierde lid, van de wet worden vastgesteld. 
 
 ### Artikel  13  
 
@@ -217,7 +217,7 @@ a. het aantal geluidsgevoelige objecten dat is blootgesteld aan een geluidsbelas
 
 b. het aantal bewoners van de woningen die deel uitmaken van de geluidsgevoelige objecten, bedoeld in onderdeel a;  
 
-c. indien beschikbaar, een opgave van het aantal woningen dat uit hoofde van de [wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), de [Wet geluidhinder](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), de [Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md) of de [Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) is voorzien van extra geluidwering.     
+c. indien beschikbaar, een opgave van het aantal woningen dat uit hoofde van de wet, de Wet geluidhinder, de Woningwet of de Wet luchtvaart is voorzien van extra geluidwering.     
 2.  De aantallen, bedoeld in het eerste lid, onder a en b, worden afgerond op honderdtallen.  
 
 ### Artikel  14  
@@ -254,7 +254,7 @@ c. de geluidsgevoelige objecten die zijn gelegen binnen de contouren, bedoeld in
 
 a. de ligging van de luchthaven;  
 
-b. een met het oog op de geluidsbelasting vastgesteld beperkingengebied als bedoeld in [hoofdstuk 8](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) of [artikel 10.17 van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
+b. een met het oog op de geluidsbelasting vastgesteld beperkingengebied als bedoeld in hoofdstuk 8 of artikel 10.17 van de Wet luchtvaart;  
 
 c. de ten hoogste toelaatbare geluidsbelasting vanwege de luchthaven, aangegeven door middel van: 
 
@@ -279,12 +279,12 @@ d. de geluidsgevoelige objecten die de ten hoogste toelaatbare geluidsbelasting 
 
 ### Artikel  18  
 
-1.  Op een geografische kaart die deel uitmaakt van een geluidsbelastingkaart worden voorts aangegeven de industrieterreinen die zijn gezoneerd krachtens [artikel 40 van de Wet geluidhinder](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), voor zover de ten hoogste toelaatbare geluidsbelasting vanwege de gezamenlijke inrichtingen op het industrieterrein overeenkomt met 55 dB of meer dan wel 50 dB L<sub>night</sub> of meer.   
+1.  Op een geografische kaart die deel uitmaakt van een geluidsbelastingkaart worden voorts aangegeven de industrieterreinen die zijn gezoneerd krachtens artikel 40 van de Wet geluidhinder, voor zover de ten hoogste toelaatbare geluidsbelasting vanwege de gezamenlijke inrichtingen op het industrieterrein overeenkomt met 55 dB of meer dan wel 50 dB L<sub>night</sub> of meer.   
 2.  Ten aanzien van zodanige industrieterreinen worden aangegeven: 
 
 a. de grenzen van het industrieterrein;  
 
-b. de zone rond het industrieterrein, vastgesteld krachtens [artikel 40 van de Wet geluidhinder](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md);  
+b. de zone rond het industrieterrein, vastgesteld krachtens artikel 40 van de Wet geluidhinder;  
 
 c. de ten hoogste toelaatbare geluidsbelasting vanwege de gezamenlijke inrichtingen op het industrieterrein, aangegeven door middel van: 
 
@@ -340,7 +340,7 @@ b. de opstelling van geluidsbelastingkaarten ter uitvoering van door de Europese
 
 ### Artikel  23  
 
-1.  Aan een verzoek om verstrekking van inlichtingen en gegevens als bedoeld in [artikel 11.7, eerste of tweede lid](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), of [artikel 11.16, eerste lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) wordt voldaan binnen drie maanden na de dag waarop het verzoek is ontvangen, dan wel, indien de inlichtingen en gegevens nog niet beschikbaar zijn, onverwijld nadat zij beschikbaar zijn gekomen.   
+1.  Aan een verzoek om verstrekking van inlichtingen en gegevens als bedoeld in artikel 11.7, eerste of tweede lid, of artikel 11.16, eerste lid, van de wet wordt voldaan binnen drie maanden na de dag waarop het verzoek is ontvangen, dan wel, indien de inlichtingen en gegevens nog niet beschikbaar zijn, onverwijld nadat zij beschikbaar zijn gekomen.   
 2.  Bij ministeriële regeling wordt bepaald welke inlichtingen en gegevens in elk geval worden verstrekt en op welke wijze deze inlichtingen en gegevens worden verstrekt.  
 
 ### Hoofdstuk  4  
@@ -353,7 +353,7 @@ b. de opstelling van geluidsbelastingkaarten ter uitvoering van door de Europese
 
 ### Artikel  24  
 
-1.  Een actieplan bevat naast de in [artikel 11.11 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bedoelde gegevens ten minste: 
+1.  Een actieplan bevat naast de in artikel 11.11 van de wet bedoelde gegevens ten minste: 
 
 a. een beschrijving van de betrokken categorieën van geluidsbronnen;  
 
@@ -379,7 +379,7 @@ k. voor zover beschikbaar en openbaar, financiële informatie met betrekking tot
 
 l. een evaluatie van de uitvoering en de resultaten van het vorige actieplan.     
 2.  Een actieplan bevat voorts een beknopte samenvatting van de in het eerste lid bedoelde aspecten.   
-3.  Een actieplan als bedoeld in [artikel 11.12, tweede lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bevat voorts: 
+3.  Een actieplan als bedoeld in artikel 11.12, tweede lid, van de wet bevat voorts: 
 
 a. een beschrijving van de geluidsbronnen in de gemeente;  
 
@@ -387,12 +387,12 @@ b. een inhoudelijke reactie op de wensen en zienswijze over het ontwerp van het 
 
 ### Artikel  25  
 
-1.  Een actieplan bevat naast de in [artikel 11.11 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bedoelde gegevens een beschrijving van het beleid voor de eerstkomende vijf jaren en, voor zover dit redelijkerwijs is aan te geven, voor de vijf jaren daarna, om de geluidsbelasting vanwege de betrokken geluidsbron of geluidsbronnen te beperken.   
-2.  Bij de beschrijving van het beleid wordt in elk geval aandacht besteed aan de bescherming van stille gebieden als bedoeld in artikel 6 en, voor zover het betreft een actieplan van gedeputeerde staten of van burgemeester en wethouders van een gemeente die behoort tot een krachtens [artikel 11.5](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) aangewezen agglomeratie, aan: 
+1.  Een actieplan bevat naast de in artikel 11.11 van de wet bedoelde gegevens een beschrijving van het beleid voor de eerstkomende vijf jaren en, voor zover dit redelijkerwijs is aan te geven, voor de vijf jaren daarna, om de geluidsbelasting vanwege de betrokken geluidsbron of geluidsbronnen te beperken.   
+2.  Bij de beschrijving van het beleid wordt in elk geval aandacht besteed aan de bescherming van stille gebieden als bedoeld in artikel 6 en, voor zover het betreft een actieplan van gedeputeerde staten of van burgemeester en wethouders van een gemeente die behoort tot een krachtens artikel 11.5 aangewezen agglomeratie, aan: 
 
-a. de situaties waarin de ten hoogste toelaatbare geluidsbelasting ingevolge de [Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) dan wel de [Wet geluidhinder](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) wordt overschreden;  
+a. de situaties waarin de ten hoogste toelaatbare geluidsbelasting ingevolge de Wet luchtvaart dan wel de Wet geluidhinder wordt overschreden;  
 
-b. de situaties waarin tevens de waarde die ingevolge de [Wet geluidhinder](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) bij de vaststelling van een hogere waarde niet mag worden overschreden, wordt overschreden.    
+b. de situaties waarin tevens de waarde die ingevolge de Wet geluidhinder bij de vaststelling van een hogere waarde niet mag worden overschreden, wordt overschreden.    
 
 ### Artikel  26  
 
@@ -419,27 +419,27 @@ Bij ministeriële regeling kunnen met betrekking tot actieplannen nadere regels 
 
 ### Artikel  29  
 
-1.  In een verslag als bedoeld in [artikel 11.22 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) zijn ten minste de volgende gegevens opgenomen: 
+1.  In een verslag als bedoeld in artikel 11.22 van de wet zijn ten minste de volgende gegevens opgenomen: 
 
 a. het verschil tussen de berekende geluidproducties op de referentiepunten en de geldende geluidproductieplafonds, met uitzondering van de referentiepunten, bedoeld in onderdeel c;  
 
-b. de spoorwegen waarvoor een vrijstelling als bedoeld in [artikel 11.23 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) geldt;  
+b. de spoorwegen waarvoor een vrijstelling als bedoeld in artikel 11.23 van de wet geldt;  
 
-c. de berekende geluidproducties op de referentiepunten waarvoor een vrijstelling als bedoeld in [artikel 11.23 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) geldt;  
+c. de berekende geluidproducties op de referentiepunten waarvoor een vrijstelling als bedoeld in artikel 11.23 van de wet geldt;  
 
-d. de wegen, spoorwegen en geluidproductieplafonds waarvoor een ontheffing als bedoeld in [artikel 11.24 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is verleend;  
+d. de wegen, spoorwegen en geluidproductieplafonds waarvoor een ontheffing als bedoeld in artikel 11.24 van de wet is verleend;  
 
-e. voor zover van toepassing, de mate en de duur van de overschrijding van het geluidproductieplafond waarvoor ontheffing als bedoeld in [artikel 11.24 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is verleend;  
+e. voor zover van toepassing, de mate en de duur van de overschrijding van het geluidproductieplafond waarvoor ontheffing als bedoeld in artikel 11.24 van de wet is verleend;  
 
-f. de locaties waarvoor een overschrijdingsbesluit als bedoeld in [artikel 11.49 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) geldt;  
+f. de locaties waarvoor een overschrijdingsbesluit als bedoeld in artikel 11.49 van de wet geldt;  
 
 g. een analyse van de voor de geluidproductie relevante ontwikkelingen die zich in het kalenderjaar waar het verslag op ziet, hebben voorgedaan ten aanzien van de wegen en spoorwegen en de effecten hiervan op de geluidproductie.     
-2.  Indien de berekende geluidproductie op een referentiepunt, bedoeld in het eerste lid, onderdeel a, 0,5 dB of minder onder het geldende geluidproductieplafond ligt en het een geluidproductieplafond als bedoeld in [artikel 11.45, eerste lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) betreft, is in het verslag voorts een prognose opgenomen van het jaar waarin, gelet op de meest recente verkeersprognose, het geluidproductieplafond volledig zal zijn benut.   
+2.  Indien de berekende geluidproductie op een referentiepunt, bedoeld in het eerste lid, onderdeel a, 0,5 dB of minder onder het geldende geluidproductieplafond ligt en het een geluidproductieplafond als bedoeld in artikel 11.45, eerste lid, van de wet betreft, is in het verslag voorts een prognose opgenomen van het jaar waarin, gelet op de meest recente verkeersprognose, het geluidproductieplafond volledig zal zijn benut.   
 3.  Indien uit de prognose, bedoeld in het tweede lid, blijkt dat het geluidproductieplafond volledig benut zal zijn voor de laatste dag van het vijfde kalenderjaar na het jaar van toezending van het verslag, is in het verslag dat de prognose bevat of in het daaropvolgende verslag opgenomen op welke wijze de beheerder voornemens is te voorkomen dat het geluidproductieplafond zal worden overschreden.  
 
 ### Artikel  30  
 
-Een verzoek om een ontheffing als bedoeld in [artikel 11.24 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bevat ten minste: 
+Een verzoek om een ontheffing als bedoeld in artikel 11.24 van de wet bevat ten minste: 
 
 a. een aanduiding van het referentiepunt waarop het geluidproductieplafond geldt ten aanzien waarvan het verzoek wordt gedaan;  
 
@@ -483,18 +483,18 @@ c. een geluidreductie realiseert die vrijwel gelijk is aan de nieuw te treffen m
 
 a. elke vijftien strekkende meter geluidsbelaste gevel van een geluidsgevoelig object per bouwlaag;  
 
-b. een standplaats als bedoeld in [artikel 1, eerste lid, onder e, van de Huisvestingswet](../../../../../wet/huisvestingswet/BWBR0005674/README.md);  
+b. een standplaats als bedoeld in artikel 1, onderdeel j, van de Wet op de huurtoeslag van de Huisvestingswet;  
 
 c. een ligplaats in het water, bestemd om door een woonschip te worden ingenomen.    
 
 ### Artikel  33  
 
-1.  Bij de voorbereiding van een besluit als bedoeld in [artikel 11.29 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) worden achtereenvolgens in overweging genomen: 
+1.  Bij de voorbereiding van een besluit als bedoeld in artikel 11.29 van de wet worden achtereenvolgens in overweging genomen: 
 
 a. bronmaatregelen,  
 
 b. andere geluidbeperkende maatregelen, al dan niet in combinatie met bronmaatregelen,   die leiden tot de meeste geluidreductie.   
-2.  Overdrachtsmaatregelen, al dan niet in combinatie met bronmaatregelen, worden bij de voorbereiding van een besluit als bedoeld in [artikel 11.29 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) uitsluitend in aanmerking genomen voor zover deze maatregelen leiden tot een afname van de geluidsbelasting van ten minste 5 dB op ten minste een geluidsgevoelig object in een cluster.  
+2.  Overdrachtsmaatregelen, al dan niet in combinatie met bronmaatregelen, worden bij de voorbereiding van een besluit als bedoeld in artikel 11.29 van de wet uitsluitend in aanmerking genomen voor zover deze maatregelen leiden tot een afname van de geluidsbelasting van ten minste 5 dB op ten minste een geluidsgevoelig object in een cluster.  
 
 ### Artikel  34  
 
@@ -517,28 +517,28 @@ c. de gevraagde hoogte van het geluidproductieplafond;
 
 d. de te verwachten geluidproductie op het referentiepunt ten minste tien jaar na het indienen van het verzoek;  
 
-e. de maatregelen die naar het oordeel van de beheerder op grond van [artikel 11.29, eerste lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) in aanmerking moeten worden genomen;  
+e. de maatregelen die naar het oordeel van de beheerder op grond van artikel 11.29, eerste lid, van de wet in aanmerking moeten worden genomen;  
 
-f. de maatregelen die naar het oordeel van de beheerder op grond van [artikel 11.29, tweede en derde lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) in aanmerking kunnen worden genomen;  
+f. de maatregelen die naar het oordeel van de beheerder op grond van artikel 11.29, tweede en derde lid, van de wet in aanmerking kunnen worden genomen;  
 
 g. de brongegevens behorende bij de aangevraagde geluidproductieplafonds;  
 
-h. de resultaten van het akoestisch onderzoek, bedoeld in [artikel 11.33 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+h. de resultaten van het akoestisch onderzoek, bedoeld in artikel 11.33 van de wet;  
 
 i. een verklaring van de beheerder in hoeverre het gedeelte van de weg of spoorweg, bedoeld in onderdeel a, voldoet aan de akoestische kwaliteit, bedoeld in artikel 7;  
 
-j. een verslag van afstemming met de beheerders van andere geluidsbronnen als bedoeld in [artikel 11.30, vijfde lid](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), over maatregelen, die naar het oordeel van deze beheerders zouden kunnen worden getroffen, teneinde de effecten van de samenloop van de geluidbelasting vanwege de weg of spoorweg alsmede een andere geluidsbron als bedoeld in artikel 11.30, vijfde lid, te voorkomen of zoveel mogelijk te beperken.     
-2.  Indien de beheerder een verzoek doet tot verlaging van geluidproductieplafonds als bedoeld in [artikel 11.63, eerste lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), zijn de onderdelen d, e, f, h, i en j van het eerste lid niet van toepassing.   
+j. een verslag van afstemming met de beheerders van andere geluidsbronnen als bedoeld in artikel 11.30, vijfde lid, over maatregelen, die naar het oordeel van deze beheerders zouden kunnen worden getroffen, teneinde de effecten van de samenloop van de geluidbelasting vanwege de weg of spoorweg alsmede een andere geluidsbron als bedoeld in artikel 11.30, vijfde lid, te voorkomen of zoveel mogelijk te beperken.     
+2.  Indien de beheerder een verzoek doet tot verlaging van geluidproductieplafonds als bedoeld in artikel 11.63, eerste lid, van de wet, zijn de onderdelen d, e, f, h, i en j van het eerste lid niet van toepassing.   
 3.  Indien burgemeester en wethouders van een gemeente een verzoek doen tot verlaging van een geluidproductieplafond, zijn de onderdelen e, f en i van het eerste lid niet van toepassing.   
-4.  Onverminderd het derde lid, is het eerste lid, onderdeel d, niet van toepassing op een verzoek tot verlaging van het geluidproductieplafond als bedoeld in [artikel 11.28, vierde lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), indien die verlaging niet groter zou zijn dan het effect van de in dat lid bedoelde maatregel. Het verzoek bevat tevens een weergave van de afspraken tussen gemeente en de beheerder, en de zienswijze van de beheerder ten aanzien van de verzochte verlaging.  
+4.  Onverminderd het derde lid, is het eerste lid, onderdeel d, niet van toepassing op een verzoek tot verlaging van het geluidproductieplafond als bedoeld in artikel 11.28, vierde lid, van de wet, indien die verlaging niet groter zou zijn dan het effect van de in dat lid bedoelde maatregel. Het verzoek bevat tevens een weergave van de afspraken tussen gemeente en de beheerder, en de zienswijze van de beheerder ten aanzien van de verzochte verlaging.  
 
 ### Artikel  36  
 
-Indien [artikel 11.42, eerste lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is, bevat een verzoek tot wijziging of vaststelling van een geluidproductieplafond tevens de volgende gegevens: 
+Indien artikel 11.42, eerste lid, van de wet van toepassing is, bevat een verzoek tot wijziging of vaststelling van een geluidproductieplafond tevens de volgende gegevens: 
 
 a. een of meer kaarten als bedoeld in artikel 39, onderdeel d, en een lijst met de adressen van de betrokken saneringsobjecten;  
 
-b. de resultaten van het akoestisch onderzoek, bedoeld in [artikel 11.56, derde lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+b. de resultaten van het akoestisch onderzoek, bedoeld in artikel 11.56, derde lid, van de wet;  
 
 c. het tijdstip waarop naar verwachting met de uitvoering van de maatregelen ten behoeve van de sanering kan worden begonnen;  
 
@@ -550,11 +550,11 @@ d. de verwachte duur van de uitvoering van de maatregelen ten behoeve van de san
 
 ### Artikel  37  
 
-Ten aanzien van de geluidsgevoelige objecten als bedoeld in artikel 2, aanhef en onderdeel a tot en met g, die voor het aanbrengen van geluidwerende maatregelen aan de gevel in aanmerking worden genomen, is [hoofdstuk 6 van het Besluit geluidhinder](../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md) van overeenkomstige toepassing, met dien verstande dat: 
+Ten aanzien van de geluidsgevoelige objecten als bedoeld in artikel 2, aanhef en onderdeel a tot en met g, die voor het aanbrengen van geluidwerende maatregelen aan de gevel in aanmerking worden genomen, is hoofdstuk 6 van het Besluit geluidhinder van overeenkomstige toepassing, met dien verstande dat: 
 
-a. de minister uitvoering geeft aan de [artikelen 6.4, tweede en derde lid](../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md), [6.6](../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md), [6.8, vierde lid](../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md), en [6.9, tweede en derde lid](../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md);  
+a. de minister uitvoering geeft aan de artikelen 6.4, tweede en derde lid, 6.6, 6.8, vierde lid, en 6.9, tweede en derde lid;  
 
-b. in de [artikelen 6.2](../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md), [6.5](../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md), [6.8](../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md) en [6.10](../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md) in plaats van «het bevoegd gezag» telkens wordt gelezen «de beheerder»;  
+b. in de artikelen 6.2, 6.5, 6.8 en 6.10 in plaats van «het bevoegd gezag» telkens wordt gelezen «de beheerder»;  
 
 c. in plaats van «andere geluidsgevoelige gebouwen» telkens wordt gelezen «geluidsgevoelige objecten als bedoeld in artikel 2, aanhef en onderdeel b tot en met g, van het Besluit geluid milieubeheer», en  
 
@@ -566,11 +566,11 @@ d. in plaats van «andere geluidsgevoelige gebouw» telkens wordt gelezen «gelu
 
 ### Artikel  38  
 
-1.  Als geluidproductieplafond als bedoeld in [artikel 11.45, tweede lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) geldt voor zover het betreft in tabel 1, 2 of 3 van bijlage 2 genoemde geprojecteerde delen van wegen en spoorwegen, of in tabel 1, 2 of 3 van bijlage 2 genoemde andere delen van wegen en spoorwegen, de berekende geluidproductie op de referentiepunten zoals bepaald op basis van de brongegevens afkomstig uit het betrokken besluit, mits dat is vastgesteld vóór het tijdstip van inwerkingtreding van dit besluit.   
-2.  Als geluidproductieplafond als bedoeld in [artikel 11.45, tweede lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) geldt voor delen van wegen en spoorwegen waarvoor een saneringsprogramma wordt uitgevoerd, het geluidproductieplafond zoals bepaald op grond van de berekende heersende geluidproductie op de referentiepunten, bedoeld in artikel 11.45, eerste lid, van de wet, met inbegrip van het effect van de in het betreffende saneringsprogramma opgenomen geluidbeperkende maatregelen.   
-3.  Als geluidproductieplafond als bedoeld in [artikel 11.45, tweede lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) geldt voor zover het betreft de A59 Vlijmen–Nieuwkuijk, van kilometer 119,0 tot kilometer 127,2, het geluidproductieplafond zoals bepaald op grond van de berekende heersende geluidproductie op de referentiepunten, bedoeld in artikel 11.45, eerste lid, van de wet, met inbegrip van het effect van de reeds uitgevoerde overdrachtsmaatregelen.   
-4.  Met betrekking tot de in de bijlage 3 bij dit besluit aangewezen delen van wegen wordt bij het bepalen van de heersende geluidproducties op de referentiepunten, bedoeld in [artikel 11.45, vierde lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), uitgegaan van een wegdek dat bestaat uit zeer open asfaltbeton.   
-5.  [Artikel 11.56, eerste lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is van overeenkomstige toepassing op: 
+1.  Als geluidproductieplafond als bedoeld in artikel 11.45, tweede lid, van de wet geldt voor zover het betreft in tabel 1, 2 of 3 van bijlage 2 genoemde geprojecteerde delen van wegen en spoorwegen, of in tabel 1, 2 of 3 van bijlage 2 genoemde andere delen van wegen en spoorwegen, de berekende geluidproductie op de referentiepunten zoals bepaald op basis van de brongegevens afkomstig uit het betrokken besluit, mits dat is vastgesteld vóór het tijdstip van inwerkingtreding van dit besluit.   
+2.  Als geluidproductieplafond als bedoeld in artikel 11.45, tweede lid, van de wet geldt voor delen van wegen en spoorwegen waarvoor een saneringsprogramma wordt uitgevoerd, het geluidproductieplafond zoals bepaald op grond van de berekende heersende geluidproductie op de referentiepunten, bedoeld in artikel 11.45, eerste lid, van de wet, met inbegrip van het effect van de in het betreffende saneringsprogramma opgenomen geluidbeperkende maatregelen.   
+3.  Als geluidproductieplafond als bedoeld in artikel 11.45, tweede lid, van de wet geldt voor zover het betreft de A59 Vlijmen–Nieuwkuijk, van kilometer 119,0 tot kilometer 127,2, het geluidproductieplafond zoals bepaald op grond van de berekende heersende geluidproductie op de referentiepunten, bedoeld in artikel 11.45, eerste lid, van de wet, met inbegrip van het effect van de reeds uitgevoerde overdrachtsmaatregelen.   
+4.  Met betrekking tot de in de bijlage 3 bij dit besluit aangewezen delen van wegen wordt bij het bepalen van de heersende geluidproducties op de referentiepunten, bedoeld in artikel 11.45, vierde lid, van de wet, uitgegaan van een wegdek dat bestaat uit zeer open asfaltbeton.   
+5.  Artikel 11.56, eerste lid, van de wet is van overeenkomstige toepassing op: 
 
 a. de in tabel 1, 2 of 3 van bijlage 2 bij dit besluit aangewezen delen van wegen en spoorwegen, indien en voor zover dat is aangegeven in deze tabellen, en  
 
@@ -582,13 +582,13 @@ b. de A59 Vlijmen-Nieuwkuijk, van kilometer 120,8 tot kilometer 121,4 alsmede va
 
 ### Artikel  39  
 
-Bij een verzoek tot vaststelling van een saneringsplan worden naast de in [artikel 11.56, derde lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) genoemde gegevens, de volgende gegevens overgelegd: 
+Bij een verzoek tot vaststelling van een saneringsplan worden naast de in artikel 11.56, derde lid, van de wet genoemde gegevens, de volgende gegevens overgelegd: 
 
 a. een lijst met de adressen van de betrokken saneringsobjecten;  
 
 b. het wegnummer en de begrenzingen van de weg, inclusief de hectometrering, en het trajectnummer en de begrenzingen van de spoorweg, die onderdeel zijn van het saneringsplan;  
 
-c. een beschrijving van de maatregelen als bedoeld in [artikel 11.59 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) die naar het oordeel van de beheerder in aanmerking komen, en van het effect van deze maatregelen op de geluidsbelasting, vanwege de weg of spoorweg, van de gevel dan wel aan de grens van de betrokken saneringsobjecten;  
+c. een beschrijving van de maatregelen als bedoeld in artikel 11.59 van de wet die naar het oordeel van de beheerder in aanmerking komen, en van het effect van deze maatregelen op de geluidsbelasting, vanwege de weg of spoorweg, van de gevel dan wel aan de grens van de betrokken saneringsobjecten;  
 
 d. een of meer kaarten die inzicht geven in het saneringsplan en die in ieder geval de plaats, aard en omvang van maatregelen, bedoeld in onderdeel c, bevatten;  
 
@@ -598,7 +598,7 @@ f. het tijdstip waarop met de uitvoering van de maatregelen kan worden begonnen,
 
 ### Artikel  40  
 
-De wegen en spoorwegen, bedoeld in [artikel 11.57, onderdeel c, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), zijn genoemd in bijlage 4 bij dit besluit. 
+De wegen en spoorwegen, bedoeld in artikel 11.57, onderdeel c, van de wet, zijn genoemd in bijlage 4 bij dit besluit. 
 
 ### Hoofdstuk  11  
 
@@ -606,7 +606,7 @@ De wegen en spoorwegen, bedoeld in [artikel 11.57, onderdeel c, van de wet](../.
 
 ### Artikel  41  
 
-De saneringsprojecten, bedoeld in [artikel XI, eerste lid, onderdeel e, van de Invoeringswet geluidproductieplafonds](../../../../../wet/invoeringswet/geluidproductieplafonds/BWBR0031679/README.md), zijn genoemd in bijlage 5 bij dit besluit. 
+De saneringsprojecten, bedoeld in artikel XI, eerste lid, onderdeel e, van de Invoeringswet geluidproductieplafonds, zijn genoemd in bijlage 5 bij dit besluit. 
 
 ### Hoofdstuk  12  
 

@@ -5,9 +5,9 @@
 De Minister van Economische Zaken;  
 Gelet op:
 
-– de [artikelen 2](../../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md), [4](../../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md) en [7 van de Kaderwet LNV-subsidies](../../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md), en  
+– de artikelen 2, 4 en 7 van de Kaderwet LNV-subsidies, en  
 
-– de [artikelen 1:3](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), [1:7](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), [1:8](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), [1:13](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), [1:15](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), [1:17](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), en [bijlage 2, hoofdstuk 2, punt A, onderdeel b van de Regeling LNV-subsidies](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md);     Besluit:     
+– de artikelen 1:3, 1:7, 1:8, 1:13, 1:15, 1:17, en bijlage 2, hoofdstuk 2, punt A, onderdeel b van de Regeling LNV-subsidies;     Besluit:     
 ### Hoofdstuk  1  
 
 ####Algemene bepalingen
@@ -18,7 +18,7 @@ In dit besluit wordt verstaan onder:
 
 a.  *Minister:* Minister van Economische Zaken;  
 
-b.  *regeling:* [Regeling LNV-subsidies](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md);  
+b.  *regeling:* Regeling LNV-subsidies;  
 
 c.  *verordening (EG) nr. 1234/2007:* verordening (EG) Nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (‘Integrale-GMO-verordening’) (PbEG L 299).  
 
@@ -26,8 +26,8 @@ d.  *Veenkoloniën:* gebied bestaand uit de gemeenten Aa en Hunze, Borger-Odoorn
 
 ### Artikel  2  
 
-1.  De subsidies, bedoeld in [artikel 1:3, vijfde lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), zijn de subsidies bedoeld in hoofdstuk 2 van dit besluit.   
-2.  De subsidies, bedoeld in [artikel 1:20 van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), zijn de subsidies bedoeld in de volgende titels van hoofdstuk 2 van dit besluit: 
+1.  De subsidies, bedoeld in artikel 1:3, vijfde lid, van de regeling, zijn de subsidies bedoeld in hoofdstuk 2 van dit besluit.   
+2.  De subsidies, bedoeld in artikel 1:20 van de regeling, zijn de subsidies bedoeld in de volgende titels van hoofdstuk 2 van dit besluit: 
 
 – titel 1 en 2;  
 
@@ -43,23 +43,24 @@ d.  *Veenkoloniën:* gebied bestaand uit de gemeenten Aa en Hunze, Borger-Odoorn
 
 ### Artikel  3  
 
-1.  Aanvragen tot verlening van een subsidie voor de uitvoering van een project als bedoeld in [artikel 2:11, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend door: 
+1.  Aanvragen tot verlening van een subsidie voor de uitvoering van een project als bedoeld in artikel 2:11, eerste lid, van de regeling kunnen worden ingediend door: 
 
 a. samenwerkingsverbanden van landbouwondernemingen waarbij een meerderheid van de landbouwondernemingen buiten de Veenkoloniën gevestigd is;  
 
 b. samenwerkingsverbanden van landbouwondernemingen waarbij een meerderheid van de landbouwondernemingen in de Veenkoloniën gevestigd is;  
 
 c.samenwerkingsverbanden van landbouwondernemingen met agro-MKB-ondernemingen of kennisinstellingen, met dien verstande dat een samenwerkingsverband uit minimaal acht deelnemers bestaat.   
-2.  Samenwerkingsverbanden als bedoeld in het eerste lid, onderdelen a en b, kunnen aanvragen als bedoeld in het eerste lid uitsluitend indienen voor projecten als bedoeld in [artikel 2:11, tweede lid, onderdeel c, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md).   
-3.  Samenwerkingsverbanden als bedoeld in het eerste lid, onderdeel c, kunnen aanvragen als bedoeld in het eerste lid uitsluitend indienen voor projecten als bedoeld in [artikel 2:11, tweede lid, onderdeel c, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) die betrekking hebben op het verminderen van de uitstoot van ammoniak uit de landbouw door het treffen van stalmaatregelen, voer- en managementmaatregelen en maatregelen voor het uitrijden van dierlijke meststoffen die verder gaan dan hetgeen krachtens wettelijk voorschrift is voorgeschreven en die betrekking hebben op projecten met een duur van ten hoogste drie jaar.   
+2.  Samenwerkingsverbanden als bedoeld in het eerste lid, onderdelen a en b, kunnen aanvragen als bedoeld in het eerste lid uitsluitend indienen voor projecten als bedoeld in artikel 2:11, tweede lid, onderdeel c, van de regeling.   
+3.  Samenwerkingsverbanden als bedoeld in het eerste lid, onderdeel c, kunnen aanvragen als bedoeld in het eerste lid uitsluitend indienen voor projecten als bedoeld in artikel 2:11, tweede lid, onderdeel c, van de regeling die betrekking hebben op het verminderen van de uitstoot van ammoniak uit de landbouw door het treffen van stalmaatregelen, voer- en managementmaatregelen en maatregelen voor het uitrijden van dierlijke meststoffen die verder gaan dan hetgeen krachtens wettelijk voorschrift is voorgeschreven en die betrekking hebben op projecten met een duur van ten hoogste drie jaar.   
 4.  Samenwerkingsverbanden als bedoeld in het eerste lid, onderdelen a en b, kunnen aanvragen als bedoeld in het eerste lid indienen in de periode van 1 maart 2013 tot en met 28 maart 2013.   
 5.  Samenwerkingsverbanden als bedoeld in het eerste lid, onderdeel c, kunnen aanvragen als bedoeld in het eerste lid indienen in de periode van 15 augustus 2013 tot en met 16 september 2013.   
-6.  In afwijking van [artikel 1:14, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), kunnen samenwerkingsverbanden als bedoeld in het eerste lid, onderdelen a en b, aanvragen tot subsidievaststelling indienen tot en met 15 juli 2015. 
+6.  In afwijking van artikel 1:14, eerste lid, van de regeling, kunnen samenwerkingsverbanden als bedoeld in het eerste lid, onderdelen a en b, aanvragen tot subsidievaststelling indienen tot en met 15 juli 2015. 
 
 ### Artikel  4  
 
-1. De subsidie bedraagt voor aanvragen van subsidie als bedoeld in artikel 3, eerste lid onderdelen a en b, 80% van de subsidiabele kosten en ten hoogste € 40.000.  
-2.  De subsidie bedraagt voor aanvragen van subsidie als bedoeld in artikel 3, eerste lid, onderdeel c, 70% van de subsidiabele kosten, met dien verstande dat de subsidie ten minste € 100.000 en ten hoogste € 250.000 bedraagt. 
+1. De subsidie bedraagt voor aanvragen van subsidie als bedoeld in artikel 3, eerste lid, onderdeel a, 80% van de subsidiabele kosten en ten hoogste € 40.000. 
+2. De subsidie bedraagt voor aanvragen van subsidie als bedoeld in artikel 3, eerste lid, onderdeel b, 80% van de subsidiabele kosten en ten hoogste € 55.000. 
+3.  De subsidie bedraagt voor aanvragen van subsidie als bedoeld in artikel 3, eerste lid, onderdeel c, 70% van de subsidiabele kosten, met dien verstande dat de subsidie ten minste € 100.000 en ten hoogste € 250.000 bedraagt. 
 
 ### Artikel  5  
 
@@ -83,7 +84,7 @@ d. de kennis en ervaring effectiever worden verspreid.
 
 ### Artikel  7  
 
-[Artikel 1:19, derde lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) is van toepassing. 
+Artikel 1:19, derde lid, van de regeling is van toepassing. 
 
 ### Titel  1a  
 
@@ -91,14 +92,14 @@ d. de kennis en ervaring effectiever worden verspreid.
 
 ### Artikel  7a  
 
-1.  Aanvragen tot verlening van een subsidie voor de uitvoering van een activiteit als bedoeld in [artikel 2:3, eerste lid, onderdelen a en b, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend door landbouwondernemingen en agro-MKB-ondernemingen.   
-2.  Het bedrijfsconsult, bedoeld in [artikel 2:3, eerste lid, onderdeel a, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), leidt tot een voorstel met daarin concrete maatregelen of aan te brengen voorzieningen om de uitstoot van ammoniak bij het uitvoeren van de werkzaamheden te verminderen.   
-3.  Het volgen van een opleiding, training of voorlichtingsbijeenkomst, bedoeld in [artikel 2:3, onderdeel b, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), leidt tot kennis of aan te brengen voorzieningen om de uitstoot van ammoniak bij het uitvoeren van de werkzaamheden te verminderen.   
+1.  Aanvragen tot verlening van een subsidie voor de uitvoering van een activiteit als bedoeld in artikel 2:3, eerste lid, onderdelen a en b, van de regeling kunnen worden ingediend door landbouwondernemingen en agro-MKB-ondernemingen.   
+2.  Het bedrijfsconsult, bedoeld in artikel 2:3, eerste lid, onderdeel a, van de regeling, leidt tot een voorstel met daarin concrete maatregelen of aan te brengen voorzieningen om de uitstoot van ammoniak bij het uitvoeren van de werkzaamheden te verminderen.   
+3.  Het volgen van een opleiding, training of voorlichtingsbijeenkomst, bedoeld in artikel 2:3, onderdeel b, van de regeling, leidt tot kennis of aan te brengen voorzieningen om de uitstoot van ammoniak bij het uitvoeren van de werkzaamheden te verminderen.   
 4.  De aanvragen, bedoeld in het eerste lid, kunnen worden ingediend in de periode van 30 september 2013 tot en met 11 oktober 2013.  
 
 ### Artikel  7b  
 
-Aanvragen tot verlening van een subsidie als bedoeld in artikel 7a, eerste lid, worden uitsluitend ingediend voor de in [artikel 2:3, tweede lid, onderdelen a, b, c en g, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) genoemde typen bedrijfsconsulten of de in het derde lid van dat artikel genoemde opleidingen, trainingen of voorlichtingsbijeenkomsten en uitsluitend voor zover deze activiteiten betrekking hebben op: 
+Aanvragen tot verlening van een subsidie als bedoeld in artikel 7a, eerste lid, worden uitsluitend ingediend voor de in artikel 2:3, tweede lid, onderdelen a, b, c en g, van de regeling genoemde typen bedrijfsconsulten of de in het derde lid van dat artikel genoemde opleidingen, trainingen of voorlichtingsbijeenkomsten en uitsluitend voor zover deze activiteiten betrekking hebben op: 
 
 a. de implementatie van de regelgeving voor het verminderen van de uitstoot van ammoniak;  
 
@@ -130,33 +131,33 @@ Het subsidieplafond bedraagt € 250.000.
 
 ### Artikel  7g  
 
-1.  In afwijking van [artikel 2:27, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) worden aanvragen tot het verlenen van een subsidie ingediend door een samenwerkingsverband van veehouderijen en agro-MKB-ondernemingen, die voor gezamenlijke rekening en risico een innovatieproject uitvoeren dat gericht is op het vaststellen van de vermindering van de uitstoot van ammoniak van nieuwe stalmaatregelen en nieuwe voer- en managementmaatregelen conform het protocol voor meting van ammoniakemissie uit huisvestingssystemen in de veehouderij 2013 van nieuwe stalsystemen of nieuwe voer- en managementmaatregelen.   
+1.  In afwijking van artikel 2:27, eerste lid, van de regeling worden aanvragen tot het verlenen van een subsidie ingediend door een samenwerkingsverband van veehouderijen en agro-MKB-ondernemingen, die voor gezamenlijke rekening en risico een innovatieproject uitvoeren dat gericht is op het vaststellen van de vermindering van de uitstoot van ammoniak van nieuwe stalmaatregelen en nieuwe voer- en managementmaatregelen conform het protocol voor meting van ammoniakemissie uit huisvestingssystemen in de veehouderij 2013 van nieuwe stalsystemen of nieuwe voer- en managementmaatregelen.   
 2.  De maatregelen voldoen aan de volgende voorwaarden: 
 
 a. zij beschikken niet over een door het Rijk vastgestelde emissiefactor of reductiepercentage voor ammoniak op basis van metingen;  
 
-b. de uitstoot van geur, fijn stof (PM10), zeer fijn stof (PM2,5), lachgas, methaan en de aspecten dierenwelzijn, diergezondheid en arbeidsomstandigheden verslechteren als gevolg van de maatregelen niet ten opzichte van overige huisvesting in de [bijlage bij de Regeling ammoniak en veehouderij](../../../../../ministeriele-regeling/regeling/ammoniak/en/veehouderij/BWBR0013629/README.md);  
+b. de uitstoot van geur, fijn stof (PM10), zeer fijn stof (PM2,5), lachgas, methaan en de aspecten dierenwelzijn, diergezondheid en arbeidsomstandigheden verslechteren als gevolg van de maatregelen niet ten opzichte van overige huisvesting in de bijlage bij de Regeling ammoniak en veehouderij;  
 
-c. de stalmaatregelen verminderen de uitstoot van ammoniak met minimaal 25% ten opzichte van de maximale emissiewaarde, bedoeld in het [Besluit ammoniakemissie huisvesting veehouderij](../../../../../AMvB/besluit/ammoniakemissie/huisvesting/veehouderij/BWBR0019211/README.md), of ten opzichte van de emissiefactor voor overige huisvesting in de [bijlage bij de Regeling ammoniak en veehouderij](../../../../../ministeriele-regeling/regeling/ammoniak/en/veehouderij/BWBR0013629/README.md);  
+c. de stalmaatregelen verminderen de uitstoot van ammoniak met minimaal 25% ten opzichte van de maximale emissiewaarde, bedoeld in het Besluit ammoniakemissie huisvesting veehouderij, of ten opzichte van de emissiefactor voor overige huisvesting in de bijlage bij de Regeling ammoniak en veehouderij;  
 
-d. de voer- en managementmaatregelen verminderen de uitstoot van ammoniak met minimaal 10% ten opzichte van de emissiefactor voor overige huisvesting in de [bijlage bij de Regeling ammoniak en veehouderij](../../../../../ministeriele-regeling/regeling/ammoniak/en/veehouderij/BWBR0013629/README.md).    
+d. de voer- en managementmaatregelen verminderen de uitstoot van ammoniak met minimaal 10% ten opzichte van de emissiefactor voor overige huisvesting in de bijlage bij de Regeling ammoniak en veehouderij.    
 
 ### Artikel  7h  
 
-In afwijking van [artikel 2:29, eerste lid, aanhef en onder b, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) start het innovatieproject uiterlijk binnen drie maanden na de datum van subsidieverlening op de opgegeven bedrijfslocaties. 
+In afwijking van artikel 2:29, eerste lid, aanhef en onder b, van de regeling start het innovatieproject uiterlijk binnen drie maanden na de datum van subsidieverlening op de opgegeven bedrijfslocaties. 
 
 ### Artikel  7i  
 
-1.  In afwijking van [artikel 2:30 van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) wordt subsidie verstrekt voor de kosten die de aanvrager verschuldigd is aan de meetinstantie en de betrokken laboratoria.   
+1.  In afwijking van artikel 2:30 van de regeling wordt subsidie verstrekt voor de kosten die de aanvrager verschuldigd is aan de meetinstantie en de betrokken laboratoria.   
 2.  Activiteiten die geheel of gedeeltelijk met andere rijksmiddelen zijn of worden gefinancierd komen niet voor subsidie in aanmerking.  
 
 ### Artikel  7j  
 
-In afwijking van [artikel 2:31, eerste lid, onder a en b, en tweede lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) bedraagt de subsidie ten hoogste 35% van de subsidiabele kosten, met dien verstande dat de subsidie ten hoogste € 100.000 bedraagt. 
+In afwijking van artikel 2:31, eerste lid, onder a en b, en tweede lid, van de regeling bedraagt de subsidie ten hoogste 35% van de subsidiabele kosten, met dien verstande dat de subsidie ten hoogste € 100.000 bedraagt. 
 
 ### Artikel  7k  
 
-Aanvragen tot verlening van een subsidie voor de uitvoering van een innovatieproject als bedoeld in [artikel 2:31, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) worden ingediend in de periode van 16 september 2013 tot en met 15 oktober 2013. 
+Aanvragen tot verlening van een subsidie voor de uitvoering van een innovatieproject als bedoeld in artikel 2:31, eerste lid, van de regeling worden ingediend in de periode van 16 september 2013 tot en met 15 oktober 2013. 
 
 ### Artikel  7l  
 
@@ -172,14 +173,14 @@ b. € 500.000 voor innovatieprojecten met betrekking tot voer- en managementma
 
 ### Artikel  8  
 
-1.  Aanvragen tot verlening van een subsidie als bedoeld in [artikel 2:32, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend door: 
+1.  Aanvragen tot verlening van een subsidie als bedoeld in artikel 2:32, eerste lid, van de regeling kunnen worden ingediend door: 
 
 a. samenwerkingsverbanden van landbouwondernemingen onderling of met agro-MKB-ondernemingen waarbij een meerderheid van de deelnemers buiten de Veenkoloniën gevestigd is;  
 
 b. samenwerkingsverbanden van landbouwondernemingen onderling of met agro-MKB-ondernemingen waarbij een meerderheid van de deelnemers in de Veenkoloniën gevestigd is.     
 2.  De aanvragen, bedoeld in het eerste lid, kunnen uitsluitend worden ingediend voor innovatieprojecten die passen binnen één of meer van de nieuwe uitdagingen: klimaatverandering, waterbeheer, hernieuwbare energie en biodiversiteit.   
 3.  De aanvragen, bedoeld in het eerste lid, kunnen worden ingediend in de periode van 1 februari 2013 tot en met 28 februari 2013.   
-4.  In afwijking van [artikel 1:14, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), kunnen aanvragen tot subsidievaststelling worden ingediend tot en met 1 juli 2015.  
+4.  In afwijking van artikel 1:14, eerste lid, van de regeling, kunnen aanvragen tot subsidievaststelling worden ingediend tot en met 1 juli 2015.  
 
 ### Artikel  9  
 
@@ -187,7 +188,7 @@ Per samenwerkingsverband kan slechts één aanvraag worden ingediend.
 
 ### Artikel  10  
 
-De subsidie bedraagt voor aanvragen van subsidie als bedoeld in artikel 8, eerste lid, 35% van de subsidiabele kosten en ten hoogste € 500.000 voor het innovatieproject, met dien verstande dat voor kosten als bedoeld in [artikel 2:35, eerste lid, onderdelen c en h, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) de subsidie ten hoogste € 400.000 bedraagt. 
+De subsidie bedraagt voor aanvragen van subsidie als bedoeld in artikel 8, eerste lid, 35% van de subsidiabele kosten en ten hoogste € 500.000 voor het innovatieproject, met dien verstande dat voor kosten als bedoeld in artikel 2:35, eerste lid, onderdelen c en h, van de regeling de subsidie ten hoogste € 400.000 bedraagt. 
 
 ### Artikel  11  
 
@@ -197,7 +198,7 @@ De subsidie bedraagt voor aanvragen van subsidie als bedoeld in artikel 8, eerst
 ### Artikel  12  
 
 1.  De door de Minister ingestelde beoordelingscommissie brengt na de beoordeling van de aanvragen, bedoeld in artikel 8, eerste lid, advies uit aan de Minister in de vorm van een rangschikking.   
-2.  In aanvulling op [artikel 2:33 van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) rangschikt de beoordelingscommissie de aanvragen, bedoeld in artikel 8, eerste lid, onderdeel b, hoger naarmate het project waarop de aanvraag betrekking heeft beter aansluit bij het Innovatieprogramma Landbouw Veenkoloniën 2012–2020.  
+2.  In aanvulling op artikel 2:33 van de regeling rangschikt de beoordelingscommissie de aanvragen, bedoeld in artikel 8, eerste lid, onderdeel b, hoger naarmate het project waarop de aanvraag betrekking heeft beter aansluit bij het Innovatieprogramma Landbouw Veenkoloniën 2012–2020.  
 
 ### Titel  3  
 
@@ -209,7 +210,7 @@ De subsidie bedraagt voor aanvragen van subsidie als bedoeld in artikel 8, eerst
 
 ### Artikel  13  
 
-1.  Aanvragen tot verlening van een subsidie voor een investering in energie-innovaties, niet zijnde aardwarmteprojecten, als bedoeld in [bijlage 2, hoofdstuk 2, punt A, onderdeel a, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend door glastuinbouwondernemingen en samenwerkingsverbanden als bedoeld in bijlage 2, hoofdstuk 2, punt B, van de regeling, met uitzondering van glastuinbouwondernemingen die voor dezelfde energie-innovatie op grond van [artikel 2.3.2 van de Subsidieregeling Energie en Innovatie](../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md) subsidie ontvangen.   
+1.  Aanvragen tot verlening van een subsidie voor een investering in energie-innovaties, niet zijnde aardwarmteprojecten, als bedoeld in bijlage 2, hoofdstuk 2, punt A, onderdeel a, van de regeling kunnen worden ingediend door glastuinbouwondernemingen en samenwerkingsverbanden als bedoeld in bijlage 2, hoofdstuk 2, punt B, van de regeling, met uitzondering van glastuinbouwondernemingen die voor dezelfde energie-innovatie op grond van artikel 2.3.2 van de Subsidieregeling Energie en Innovatie subsidie ontvangen.   
 2.  De aanvragen kunnen worden ingediend in de periode van 1 mei 2013 tot en met 14 juni 2013.  
 
 ### Artikel  14  
@@ -226,7 +227,7 @@ Het subsidieplafond voor aanvragen van subsidie als bedoeld in artikel 13, eerst
 
 ### Artikel  17  
 
-1.  Aanvragen tot verlening van een subsidie voor een investering in energie-innovaties, als bedoeld in [bijlage 2, hoofdstuk 2, punt A, onderdeel b, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), niet zijnde semi-gesloten teeltsystemen met een koelcapaciteit over het hele bedrijf gemeten van boven de 70 W/m<sup>2</sup>, kunnen worden ingediend door glastuinbouwondernemingen en samenwerkingsverbanden als bedoeld in bijlage 2, hoofdstuk 2, punt B, van de regeling, met uitzondering van glastuinbouwondernemingen die voor dezelfde energie-innovatie op grond op grond van [artikel 2.3.2 van de Subsidieregeling Energie en Innovatie](../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md) worden gesubsidieerd.   
+1.  Aanvragen tot verlening van een subsidie voor een investering in energie-innovaties, als bedoeld in bijlage 2, hoofdstuk 2, punt A, onderdeel b, van de regeling, niet zijnde semi-gesloten teeltsystemen met een koelcapaciteit over het hele bedrijf gemeten van boven de 70 W/m<sup>2</sup>, kunnen worden ingediend door glastuinbouwondernemingen en samenwerkingsverbanden als bedoeld in bijlage 2, hoofdstuk 2, punt B, van de regeling, met uitzondering van glastuinbouwondernemingen die voor dezelfde energie-innovatie op grond op grond van artikel 2.3.2 van de Subsidieregeling Energie en Innovatie worden gesubsidieerd.   
 2.  De aanvragen kunnen worden ingediend in de periode van 1 mei 2013 tot en met 14 juni 2013.  
 
 ### Artikel  18  
@@ -243,7 +244,7 @@ Het subsidieplafond voor aanvragen van subsidie als bedoeld in artikel 17, eerst
 
 ### Artikel  21  
 
-In afwijking van artikel 13, eerste lid, en artikel 17, eerste lid, kunnen geen aanvragen worden ingediend door glastuinbouwondernemingen of samenwerkingsverbanden daarvan, indien deze ondernemingen lid zijn van een erkende producentenorganisatie als bedoeld in artikel 122 van Verordening (EG) nr. 1234/2007, tenzij wordt aangetoond dat geen steun wordt ontvangen als bedoeld in artikel 103 ter of 103 quater van die verordening voor kosten die uit hoofde van [bijlage 2, hoofdstuk 2, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden gesubsidieerd. 
+In afwijking van artikel 13, eerste lid, en artikel 17, eerste lid, kunnen geen aanvragen worden ingediend door glastuinbouwondernemingen of samenwerkingsverbanden daarvan, indien deze ondernemingen lid zijn van een erkende producentenorganisatie als bedoeld in artikel 122 van Verordening (EG) nr. 1234/2007, tenzij wordt aangetoond dat geen steun wordt ontvangen als bedoeld in artikel 103 ter of 103 quater van die verordening voor kosten die uit hoofde van bijlage 2, hoofdstuk 2, van de regeling kunnen worden gesubsidieerd. 
 
 ### Artikel  22  
 
@@ -265,22 +266,22 @@ c. gericht is op teelttechnische of economische inpasbare systemen die een hoger
 
 ### Artikel  23a  
 
-1.  Aanvragen tot subsidieverlening voor een investering in een techniek ter vermindering van de uitstoot fijn stof eventueel in combinatie met een techniek ter vermindering van het aantal overschrijdingsdagen als bedoeld in [bijlage 2, hoofdstuk 5, punt A, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend door landbouwondernemingen als bedoeld in bijlage 2, hoofdstuk 5, punt B, van de regeling.   
+1.  Aanvragen tot subsidieverlening voor een investering in een techniek ter vermindering van de uitstoot fijn stof eventueel in combinatie met een techniek ter vermindering van het aantal overschrijdingsdagen als bedoeld in bijlage 2, hoofdstuk 5, punt A, van de regeling kunnen worden ingediend door landbouwondernemingen als bedoeld in bijlage 2, hoofdstuk 5, punt B, van de regeling.   
 2.  Aanvragen kunnen worden ingediend in de periode van 1 april 2013 tot en met 15 mei 2013.   
-3.  Er kan slechts één aanvraag worden ingediend per inrichting bedoeld in [artikel 1:1, eerste lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
-4.  Landbouwondernemingen die op grond van [artikel 65a van het Openstellingsbesluit LNV-subsidies 2009](../../../../../ministeriele-regeling/openstellingsbesluit/lnv-subsidies/2009/BWBR0024549/README.md), [artikel 44a van het Openstellingsbesluit LNV-subsidies 2010](../../../../../ministeriele-regeling/openstellingsbesluit/lnv-subsidies/2010/BWBR0026543/README.md) of [artikel 44 van het Openstellingsbesluit LNV-subsidies 2011](../../../../../ministeriele-regeling/openstellingsbesluit/lnv-subsidies/2011/BWBR0029021/README.md) subsidie hebben ontvangen, komen niet voor subsidie in aanmerking.  
+3.  Er kan slechts één aanvraag worden ingediend per inrichting bedoeld in artikel 1:1, eerste lid, van de Wet milieubeheer.   
+4.  Landbouwondernemingen die op grond van artikel 65a van het Openstellingsbesluit LNV-subsidies 2009, artikel 44a van het Openstellingsbesluit LNV-subsidies 2010 of artikel 44 van het Openstellingsbesluit LNV-subsidies 2011 subsidie hebben ontvangen, komen niet voor subsidie in aanmerking.  
 
 ### Artikel  23b  
 
-1.  Overeenkomstig [artikel 1:4 van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) wordt een aanvraag tot subsidieverlening, bedoeld in artikel 23a, eerste lid, hoger gerangschikt naarmate: 
+1.  Overeenkomstig artikel 1:4 van de regeling wordt een aanvraag tot subsidieverlening, bedoeld in artikel 23a, eerste lid, hoger gerangschikt naarmate: 
 
-a. de inrichting, bedoeld in [artikel 1:1, eerste lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), gelegen is in een gebied, waarvoor een gebiedsgerichte aanpak wordt opgesteld in het kader van het Nationaal Samenwerkingsprogramma Luchtkwaliteit (3 punten);  
+a. de inrichting, bedoeld in artikel 1:1, eerste lid, van de Wet milieubeheer, gelegen is in een gebied, waarvoor een gebiedsgerichte aanpak wordt opgesteld in het kader van het Nationaal Samenwerkingsprogramma Luchtkwaliteit (3 punten);  
 
 b. de vermindering van de uitstoot van fijn stof hoger is (30% tot 50% emissiereductie: 1 punt; meer dan 50% emissiereductie: 2 punten);  
 
 c. de aanvrager in het bezit is van de vereiste omgevingsvergunning dan wel deze vergunning heeft aangevraagd (1 punt).     
 2.  In geval van overschrijding van het subsidieplafond, worden aanvragen tot subsidieverlening die op grond van het eerste lid gelijk zijn gewaardeerd, door loting gerangschikt.   
-3.  Wijziging van de subsidieverlening die betrekking hebben op een techniek, bedoeld in [bijlage 2, hoofdstuk 5, punt A, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), wordt uitsluitend toegestaan voor zover de waardering, bedoeld in het eerste lid, gelijk of hoger is.  
+3.  Wijziging van de subsidieverlening die betrekking hebben op een techniek, bedoeld in bijlage 2, hoofdstuk 5, punt A, van de regeling, wordt uitsluitend toegestaan voor zover de waardering, bedoeld in het eerste lid, gelijk of hoger is.  
 
 ### Artikel  23c  
 
@@ -288,7 +289,7 @@ Er worden geen voorschotten verleend.
 
 ### Artikel  23d  
 
-In afwijking van [artikel 1:14, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen aanvragen tot subsidievaststelling worden ingediend tot 1 april 2016. 
+In afwijking van artikel 1:14, eerste lid, van de regeling kunnen aanvragen tot subsidievaststelling worden ingediend tot 1 april 2016. 
 
 ### Artikel  23e  
 
@@ -301,7 +302,7 @@ Het subsidieplafond bedraagt € 10.000.000.
 
 ### Artikel  23g  
 
-[Artikel 1:20, vijfde lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) is van overeenkomstige toepassing. 
+Artikel 1:20, vijfde lid, van de regeling is van overeenkomstige toepassing. 
 
 ### §  1b  
 
@@ -309,15 +310,15 @@ Het subsidieplafond bedraagt € 10.000.000.
 
 ### Artikel  23h  
 
-1.  Aanvragen tot verlening van een subsidie voor een investering als bedoeld in [bijlage 2, hoofdstuk 7, punt A, categorieën 1 tot en met 7, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) worden ingediend in de periode van 15 augustus 2013 tot en met 16 september 2013.   
-2.  Per landbouwonderneming, bedoeld in [bijlage 2, hoofdstuk 7, punt B, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) wordt maximaal één aanvraag per categorie ingediend met betrekking tot één of meerdere apparaten, installatie of machines, bedoeld in bijlage 2, hoofdstuk 7, punt A, van de regeling.   
+1.  Aanvragen tot verlening van een subsidie voor een investering als bedoeld in bijlage 2, hoofdstuk 7, punt A, categorieën 1 tot en met 7, van de regeling worden ingediend in de periode van 15 augustus 2013 tot en met 16 september 2013.   
+2.  Per landbouwonderneming, bedoeld in bijlage 2, hoofdstuk 7, punt B, van de regeling wordt maximaal één aanvraag per categorie ingediend met betrekking tot één of meerdere apparaten, installatie of machines, bedoeld in bijlage 2, hoofdstuk 7, punt A, van de regeling.   
 3.  Geen subsidie wordt verstrekt aan een landbouwonderneming aan welke subsidie is verstrekt: 
 
-a. in het jaar 2010, 2011 of 2012 op grond van [bijlage 2, hoofdstuk 1, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md);  
+a. in het jaar 2010, 2011 of 2012 op grond van bijlage 2, hoofdstuk 1, van de regeling;  
 
-b. in het jaar 2010, 2011 of 2012 voor apparatuur, installaties of machines als bedoeld in [bijlage 2, hoofdstuk 7, punt A, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md);  
+b. in het jaar 2010, 2011 of 2012 voor apparatuur, installaties of machines als bedoeld in bijlage 2, hoofdstuk 7, punt A, van de regeling;  
 
-c. in het jaar 2012 op grond van [hoofdstuk 2a, paragraaf 11, van de Regeling GLB-inkomenssteun 2006](../../../../../ministeriele-regeling/regeling/glb-inkomenssteun/2006/BWBR0019131/README.md).    
+c. in het jaar 2012 op grond van hoofdstuk 2a, paragraaf 11, van de Regeling GLB-inkomenssteun 2006.    
 
 ### Artikel  23i  
 
@@ -325,20 +326,20 @@ Er worden geen voorschotten verleend.
 
 ### Artikel  23j  
 
-1.  In afwijking van [artikel 1:14, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen aanvragen tot subsidievaststelling worden ingediend tot en met 1 juli 2015.   
-2.  Per landbouwonderneming, bedoeld in [bijlage 2, hoofdstuk 7, punt B, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kan in die periode maximaal één aanvraag per categorie worden ingediend.  
+1.  In afwijking van artikel 1:14, eerste lid, van de regeling kunnen aanvragen tot subsidievaststelling worden ingediend tot en met 1 juli 2015.   
+2.  Per landbouwonderneming, bedoeld in bijlage 2, hoofdstuk 7, punt B, van de regeling kan in die periode maximaal één aanvraag per categorie worden ingediend.  
 
 ### Artikel  23k  
 
-1.  De subsidie voor apparatuur, installaties of machines als bedoeld in [bijlage 2, hoofdstuk 7, punt A, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) bedraagt 25% van de subsidiabele kosten.   
+1.  De subsidie voor apparatuur, installaties of machines als bedoeld in bijlage 2, hoofdstuk 7, punt A, van de regeling bedraagt 25% van de subsidiabele kosten.   
 2.  De subsidie per categorie bedraagt ten minste € 5.000 en ten hoogste € 50.000.   
 3.  In afwijking van het tweede lid bedraagt een subsidie voor categorie 7, eerste lid, ten hoogste: € 187.500 voor onderdeel d; € 125.000 voor onderdeel e; € 150.000 voor onderdeel f; € 225.000 voor onderdeel h.  
 
 ### Artikel  23l  
 
-1.  Het subsidieplafond voor investeringen in apparatuur, installaties of machines als bedoeld in [bijlage 2, hoofdstuk 7, punt A, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) bedraagt voor de categorieën 1 tot en met 5 € 2.225.000 per categorie.   
-2.  Het subsidieplafond voor investeringen in apparatuur, installaties of machines als bedoeld in [bijlage 2, hoofdstuk 7, punt A, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) bedraagt voorcategorie 6 € 1.875.000.   
-3.  Het subsidieplafond voor investeringen in apparatuur, installaties of machines als bedoeld in [bijlage 2, hoofdstuk 7, punt A, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) bedraagt voor categorie 7 € 2.225.000.  
+1.  Het subsidieplafond voor investeringen in apparatuur, installaties of machines als bedoeld in bijlage 2, hoofdstuk 7, punt A, van de regeling bedraagt voor de categorieën 1 tot en met 5 € 2.225.000 per categorie.   
+2.  Het subsidieplafond voor investeringen in apparatuur, installaties of machines als bedoeld in bijlage 2, hoofdstuk 7, punt A, van de regeling bedraagt voorcategorie 6 € 1.875.000.   
+3.  Het subsidieplafond voor investeringen in apparatuur, installaties of machines als bedoeld in bijlage 2, hoofdstuk 7, punt A, van de regeling bedraagt voor categorie 7 € 2.225.000.  
 
 ### §  1c  
 
@@ -346,7 +347,7 @@ Er worden geen voorschotten verleend.
 
 ### Artikel  23m  
 
-1.  Aanvragen tot verlening van een subsidie voor een investering in een integraal duurzame stal of houderijsysteem als bedoeld in [bijlage 2, hoofdstuk 4, punt A, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) worden ingediend door landbouwondernemingen die werkzaam zijn in de: 
+1.  Aanvragen tot verlening van een subsidie voor een investering in een integraal duurzame stal of houderijsysteem als bedoeld in bijlage 2, hoofdstuk 4, punt A, van de regeling worden ingediend door landbouwondernemingen die werkzaam zijn in de: 
 
 a. melkveehouderij;  
 
@@ -363,19 +364,19 @@ f. kalverenhouderij;
 g. pluimveehouderij, inclusief eenden- en kalkoenenhouderij of  
 
 h. konijnenhouderij.     
-2.  Het eerste lid is niet van toepassing op varkens- en pluimveehouderijen gelegen in extensiveringsgebieden als bedoeld in [artikel 1 van de Reconstructiewet concentratiegebieden](../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md).   
+2.  Het eerste lid is niet van toepassing op varkens- en pluimveehouderijen gelegen in extensiveringsgebieden als bedoeld in artikel 1 van de Reconstructiewet concentratiegebieden.   
 3.  De landbouwondernemingen, bedoeld in het eerste lid, zijn ten hoogste 3.000 meter verwijderd van een gebied als beschreven in bijlage 2 bij dit besluit.   
 4.  De investering in een integraal duurzame stal of houderijsysteem als bedoeld in het eerste lid leidt tot een emissiewaarde van ten hoogste 75% ten opzichte van: 
 
-a. de maximale emissiewaarde voor de specifieke diercategorie, bedoeld in [bijlage 1 bij het Besluit ammoniakemissie huisvesting veehouderij](../../../../../AMvB/besluit/ammoniakemissie/huisvesting/veehouderij/BWBR0019211/README.md) of  
+a. de maximale emissiewaarde voor de specifieke diercategorie, bedoeld in bijlage 1 bij het Besluit ammoniakemissie huisvesting veehouderij of  
 
-b. de emissiefactor voor overige huisvesting in de [bijlage bij de Regeling ammoniak en veehouderij](../../../../../ministeriele-regeling/regeling/ammoniak/en/veehouderij/BWBR0013629/README.md) of, indien voor de desbetreffende diercategorie geen maximale emissiewaarde is vastgesteld, in [bijlage 1 bij het Besluit ammoniakemissie huisvesting veehouderij](../../../../../AMvB/besluit/ammoniakemissie/huisvesting/veehouderij/BWBR0019211/README.md).     
+b. de emissiefactor voor overige huisvesting in de bijlage bij de Regeling ammoniak en veehouderij of, indien voor de desbetreffende diercategorie geen maximale emissiewaarde is vastgesteld, in bijlage 1 bij het Besluit ammoniakemissie huisvesting veehouderij.     
 5.  De aanvragen kunnen worden ingediend in de periode van 15 augustus 2013 tot en met 30 september 2013.  
 
 ### Artikel  23n  
 
 1.  De door de Minister ingestelde beoordelingscommissie brengt na de beoordeling van de aanvragen, bedoeld in artikel 23m, eerste lid, advies uit aan de Minister in de vorm van een rangschikking.   
-2.  Overeenkomstig [artikel 1:4 van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) wordt een aanvraag hoger gerangschikt: 
+2.  Overeenkomstig artikel 1:4 van de regeling wordt een aanvraag hoger gerangschikt: 
 
 a. indien de integraal duurzame stal of het houderijsysteem waarin wordt geïnvesteerd in de beginfase van marktintroductie verkeert;  
 
@@ -401,12 +402,12 @@ De subsidie bedraagt 40% van de subsidiabele kosten, met dien verstande dat de s
 
 ### Artikel  23q  
 
-1.  Per inrichting als bedoeld in [artikel 1:1, eerste lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) kan slechts één aanvraag worden ingediend.   
-2.  Geen subsidie wordt verleend voor een integraal duurzame stal of houderijsysteem als bedoeld in [bijlage 2, hoofdstuk 4, punt A, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) indien voor dezelfde subsidiabele activiteit eerder op grond van [artikel 29 van de Regeling GLB-Inkomenssteun 2006](../../../../../ministeriele-regeling/regeling/glb-inkomenssteun/2006/BWBR0019131/README.md) subsidie is verleend.  
+1.  Per inrichting als bedoeld in artikel 1:1, eerste lid, van de Wet milieubeheer kan slechts één aanvraag worden ingediend.   
+2.  Geen subsidie wordt verleend voor een integraal duurzame stal of houderijsysteem als bedoeld in bijlage 2, hoofdstuk 4, punt A, van de regeling indien voor dezelfde subsidiabele activiteit eerder op grond van artikel 29 van de Regeling GLB-Inkomenssteun 2006 subsidie is verleend.  
 
 ### Artikel  23r  
 
-De extra kosten, bedoeld in [bijlage 2, hoofdstuk 4, punt C, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), betreffen de kosten die worden gemaakt naast de norminvesteringen met betrekking tot dierenwelzijn en, voor zover van toepassing, met betrekking tot milieu of diergezondheid, in een gangbare stal als bedoeld in de kwantitatieve informatie veehouderij. 
+De extra kosten, bedoeld in bijlage 2, hoofdstuk 4, punt C, van de regeling, betreffen de kosten die worden gemaakt naast de norminvesteringen met betrekking tot dierenwelzijn en, voor zover van toepassing, met betrekking tot milieu of diergezondheid, in een gangbare stal als bedoeld in de kwantitatieve informatie veehouderij. 
 
 ### §  1d  
 
@@ -414,7 +415,7 @@ De extra kosten, bedoeld in [bijlage 2, hoofdstuk 4, punt C, van de regeling](..
 
 ### Artikel  23s  
 
-1.  Aanvragen tot subsidieverlening voor een investering in het afdekken van buitenuitlopen op pluimveebedrijven als bedoeld in [bijlage 2, hoofdstuk 8, punt A, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend door landbouwondernemingen als bedoeld in bijlage 2, hoofdstuk 8, punt B, van de regeling.   
+1.  Aanvragen tot subsidieverlening voor een investering in het afdekken van buitenuitlopen op pluimveebedrijven als bedoeld in bijlage 2, hoofdstuk 8, punt A, van de regeling kunnen worden ingediend door landbouwondernemingen als bedoeld in bijlage 2, hoofdstuk 8, punt B, van de regeling.   
 2.  De aanvragen kunnen worden ingediend in de periode van 15 juli 2013 tot en met 14 oktober 2013.   
 3.  Per onderneming kan slechts één aanvraag tot subsidieverlening worden ingediend.  
 
@@ -436,7 +437,7 @@ Het subsidieplafond voor subsidies voor investeringen als bedoeld in artikel 23s
 
 ### Artikel  24  
 
-1.  Aanvragen tot verlening van een subsidie als bedoeld in [artikel 2:42, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend in de periode van 1 oktober 2013 tot en met 13 december 2013.   
+1.  Aanvragen tot verlening van een subsidie als bedoeld in artikel 2:42, eerste lid, van de regeling kunnen worden ingediend in de periode van 1 oktober 2013 tot en met 13 december 2013.   
 2.  Een jonge landbouwer kan slechts één aanvraag indienen.  
 
 ### Artikel  25  
@@ -462,16 +463,16 @@ Het subsidieplafond bedraagt € 5.300.000.
 
 ### Artikel  29  
 
-1. Aanvragen voor garantstellingen als bedoeld in [hoofdstuk 2, titel 12, paragraaf 1, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend in de periode van 2 januari 2013 tot en met 27 december 2013.  
-2.   Aanvragen voor garantstellingen als bedoeld in [hoofdstuk 4, titel 4, paragraaf 4a, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend in de periode van 1 april 2013 tot en met 27 december 2013. 
+1. Aanvragen voor garantstellingen als bedoeld in hoofdstuk 2, titel 12, paragraaf 1, van de regeling kunnen worden ingediend in de periode van 2 januari 2013 tot en met 27 december 2013.  
+2.   Aanvragen voor garantstellingen als bedoeld in hoofdstuk 4, titel 4, paragraaf 4a, van de regeling kunnen worden ingediend in de periode van 1 april 2013 tot en met 27 december 2013. 
 
 ### Artikel  30  
 
 Het subsidieplafond bedraagt: 
 
-a. € 50.000.000 voor garantstellingen als bedoeld in [artikel 2:70, eerste lid](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) en [artikel 4:60a, eerste lid van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md);  
+a. € 50.000.000 voor garantstellingen als bedoeld in artikel 2:70, eerste lid en artikel 4:60a, eerste lid van de regeling;  
 
-b. € 80.000.000 voor garantstellingen als bedoeld in [artikel 2:80, tweede lid](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) en [artikel 4:60d, eerste lid, onderdeel a van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md).   
+b. € 80.000.000 voor garantstellingen als bedoeld in artikel 2:80, tweede lid en artikel 4:60d, eerste lid, onderdeel a van de regeling.   
 
 ### Hoofdstuk  3  
 
@@ -483,7 +484,7 @@ b. € 80.000.000 voor garantstellingen als bedoeld in [artikel 2:80, tweede li
 
 ### Artikel  31  
 
-Aanvragen tot verlening van een subsidie als bedoeld in [artikel 3:34 van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend in de periode van 2 januari 2013 tot en met 31 december 2013. 
+Aanvragen tot verlening van een subsidie als bedoeld in artikel 3:34 van de regeling kunnen worden ingediend in de periode van 2 januari 2013 tot en met 31 december 2013. 
 
 ### Artikel  32  
 
@@ -501,7 +502,7 @@ c. Stichting Nationale Landschappen: € 50.000.
 
 ### Artikel  33  
 
-Aanvragen tot verlening van een subsidie als bedoeld in [artikel 3:61 van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend in de periode van 2 januari 2013 tot en met 28 februari 2013. 
+Aanvragen tot verlening van een subsidie als bedoeld in artikel 3:61 van de regeling kunnen worden ingediend in de periode van 2 januari 2013 tot en met 28 februari 2013. 
 
 ### Artikel  34  
 
@@ -513,7 +514,7 @@ Het subsidieplafond bedraagt € 160.000.
 
 ### Artikel  34a  
 
-Aanvragen tot verlening van een subsidie als bedoeld in [artikel 3:51, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend voor activiteiten als bedoeld in artikel 3:51, tweede lid, onderdeel a, van de regeling in de periode van 1 april 2013 tot en met 15 mei 2013. 
+Aanvragen tot verlening van een subsidie als bedoeld in artikel 3:51, eerste lid, van de regeling kunnen worden ingediend voor activiteiten als bedoeld in artikel 3:51, tweede lid, onderdeel a, van de regeling in de periode van 1 april 2013 tot en met 15 mei 2013. 
 
 ### Artikel  34b  
 
@@ -525,7 +526,7 @@ Het subsidieplafond bedraagt € 75.000.
 
 ### Artikel  34c  
 
-Aanvragen tot verlening van een subsidie als bedoeld in [artikel 3:67 van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend in de periode van 1 juli 2013 tot en met 3 september 2013, 12.00 uur. 
+Aanvragen tot verlening van een subsidie als bedoeld in artikel 3:67 van de regeling kunnen worden ingediend in de periode van 1 juli 2013 tot en met 3 september 2013, 12.00 uur. 
 
 ### Artikel  34d  
 
@@ -538,7 +539,7 @@ Aanvragen tot verlening van een subsidie als bedoeld in [artikel 3:67 van de reg
 
 ### Artikel  34e  
 
-Aanvragen tot verlening van een subsidie voor de uitvoering van een project als bedoeld in [artikel 3:79 van de Regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend in de periode van 1 oktober 2013 tot en met 15 november 2013. 
+Aanvragen tot verlening van een subsidie voor de uitvoering van een project als bedoeld in artikel 3:79 van de Regeling kunnen worden ingediend in de periode van 1 oktober 2013 tot en met 15 november 2013. 
 
 ### Artikel  34f  
 
@@ -554,7 +555,7 @@ Het subsidieplafond bedraagt € 750.000.
 
 ### Artikel  34e*  
 
-Aanvragen tot verlening van een subsidie voor de uitvoering van een project als bedoeld in [artikel 4:26a, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), kunnen worden ingediend in de periode van 1 oktober 2013 tot en met 2 december 2013. 
+Aanvragen tot verlening van een subsidie voor de uitvoering van een project als bedoeld in artikel 4:26a, eerste lid, van de regeling, kunnen worden ingediend in de periode van 1 oktober 2013 tot en met 2 december 2013. 
 
 ### Artikel  34f*  
 
@@ -566,11 +567,11 @@ Een aanvraag tot voorschotverlening gaat vergezeld van een liquiditeitsoverzicht
 
 ### Artikel  34h  
 
-In afwijking van [artikel 4:24, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), voert de subsidieontvanger het project waarvoor subsidie is verleend uit voor 1 januari 2016. 
+In afwijking van artikel 4:24, eerste lid, van de regeling, voert de subsidieontvanger het project waarvoor subsidie is verleend uit voor 1 januari 2016. 
 
 ### Artikel  34i  
 
-In aanvulling op [artikel 1:15, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), komen kosten die betaald zijn na 31 december 2015 niet voor subsidie in aanmerking. 
+In aanvulling op artikel 1:15, eerste lid, van de regeling, komen kosten die betaald zijn na 31 december 2015 niet voor subsidie in aanmerking. 
 
 ### Titel  2  
 
@@ -578,25 +579,25 @@ In aanvulling op [artikel 1:15, eerste lid, van de regeling](../../../../../mini
 
 ### Artikel  34j  
 
-1.  Aanvragen tot verlening van subsidie als bedoeld in [artikel 4:33c, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), kunnen voor de visserijgebieden opgenomen in [bijlage 5, onderdeel A, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) worden ingediend in de periode van 1 oktober 2013 tot en met 31 oktober 2013.   
+1.  Aanvragen tot verlening van subsidie als bedoeld in artikel 4:33c, eerste lid, van de regeling, kunnen voor de visserijgebieden opgenomen in bijlage 5, onderdeel A, van de regeling worden ingediend in de periode van 1 oktober 2013 tot en met 31 oktober 2013.   
 2.  Het subsidieplafond bedraagt voor het visserijgebied opgenomen in: 
 
-a. [bijlage 5, onderdeel A, onder 1 (Flevoland), van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md): € 860.000;  
+a. bijlage 5, onderdeel A, onder 1 (Flevoland), van de regeling: € 860.000;  
 
-b. [bijlage 5, onderdeel A, onder 2 (Groningen), van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md): € 820.000;  
+b. bijlage 5, onderdeel A, onder 2 (Groningen), van de regeling: € 820.000;  
 
-c. [bijlage 5, onderdeel A, onder 3 (Noord-Holland), van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md): € 720.000;  
+c. bijlage 5, onderdeel A, onder 3 (Noord-Holland), van de regeling: € 720.000;  
 
-d. [bijlage 5, onderdeel A, onder 4 (Zeeland), van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md): € 720.000;  
+d. bijlage 5, onderdeel A, onder 4 (Zeeland), van de regeling: € 720.000;  
 
-e. [bijlage 5, onderdeel A, onder 5 (Zuid-Holland), van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md): € 872.000;  
+e. bijlage 5, onderdeel A, onder 5 (Zuid-Holland), van de regeling: € 872.000;  
 
-f. [bijlage 5, onderdeel A, onder 6 (Fryslan), van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md): € 400.000.     
+f. bijlage 5, onderdeel A, onder 6 (Fryslan), van de regeling: € 400.000.     
 3.  Geen subsidie wordt verstrekt voor activiteiten waarvan de subsidiabele kosten in totaal minder bedragen dan € 100.000.  
 
 ### Artikel  34k  
 
-[Artikel 1:2, tweede lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) is niet van toepassing op aanvragen als bedoeld in artikel 34j met dien verstande dat de activiteiten waarvoor subsidie wordt verleend niet zijn aangevangen voor 1 januari 2007. 
+Artikel 1:2, tweede lid, van de regeling is niet van toepassing op aanvragen als bedoeld in artikel 34j met dien verstande dat de activiteiten waarvoor subsidie wordt verleend niet zijn aangevangen voor 1 januari 2007. 
 
 ### Artikel  34l  
 
@@ -604,11 +605,11 @@ Een aanvraag tot voorschotverlening gaat vergezeld van een liquiditeitsoverzicht
 
 ### Artikel  34m  
 
-In afwijking van [artikel 4:33f, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), voert de subsidieontvanger het project waarvoor subsidie is verleend uit voor 1 januari 2016. 
+In afwijking van artikel 4:33f, eerste lid, van de regeling, voert de subsidieontvanger het project waarvoor subsidie is verleend uit voor 1 januari 2016. 
 
 ### Artikel  34n  
 
-In aanvulling op [artikel 1:15, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), komen kosten die betaald zijn na 31 december 2015 niet voor subsidie in aanmerking. 
+In aanvulling op artikel 1:15, eerste lid, van de regeling, komen kosten die betaald zijn na 31 december 2015 niet voor subsidie in aanmerking. 
 
 ### Hoofdstuk  4  
 
@@ -636,7 +637,7 @@ Als beoordelingscommissie bedoeld in de artikelen 6, 12 en 23 wordt ingesteld de
 
 ### Artikel  37  
 
-Als rekenmodel bedoeld in [bijlage 2, hoofdstuk 2, punt A, onderdeel b, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) (Marktintroductie energie-innovaties) wordt vastgesteld de bij dit besluit horende bijlage. 
+Als rekenmodel bedoeld in bijlage 2, hoofdstuk 2, punt A, onderdeel b, van de regeling (Marktintroductie energie-innovaties) wordt vastgesteld de bij dit besluit horende bijlage. 
 
 ### Artikel  38  
 
@@ -644,8 +645,8 @@ Wijzigt de Regeling LNV-subsidies.
 
 ### Artikel  39  
 
-1.  Het [Openstellingsbesluit LNV-subsidies 2012](../../../../../ministeriele-regeling/openstellingsbesluit/lnv-subsidies/2012/BWBR0030762/README.md) wordt ingetrokken.   
-2.  De verlening en vaststelling van een subsidie die is aangevraagd onder het [Openstellingsbesluit LNV-subsidies 2012](../../../../../ministeriele-regeling/openstellingsbesluit/lnv-subsidies/2012/BWBR0030762/README.md) wordt afgehandeld op grond van het recht zoals dat gold voorafgaand aan de intrekking van dat besluit.  
+1.  Het Openstellingsbesluit LNV-subsidies 2012 wordt ingetrokken.   
+2.  De verlening en vaststelling van een subsidie die is aangevraagd onder het Openstellingsbesluit LNV-subsidies 2012 wordt afgehandeld op grond van het recht zoals dat gold voorafgaand aan de intrekking van dat besluit.  
 
 ### Artikel  40  
 
