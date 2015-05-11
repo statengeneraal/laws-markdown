@@ -1592,8 +1592,7 @@ De subsidiabele kosten zijn de kosten, bedoeld in artikel 28, tweede lid, onderd
 
 ####MIT-R&D-samenwerkingsverband
 
-1. De minister verstrekt op aanvraag subsidie aan een deelnemer in een MIT-R&D-samenwerkingsverband dat een MIT-R&D-samenwerkingsproject uitvoert.  
-2.  De subsidiabele kosten van een MIT-R&D-samenwerkingsproject bedragen ten minste € 50.000,–. 
+De minister verstrekt op aanvraag subsidie aan een deelnemer in een MIT-R&D-samenwerkingsverband dat een MIT-R&D-samenwerkingsproject uitvoert. 
 
 ### Artikel  3.4.21  
 
@@ -1630,7 +1629,9 @@ b. het niet voldoende bijdraagt aan het creëren van economische waarde voor de 
 
 c. de kwaliteit van het MIT-R&D-samenwerkingsverband ontoereikend is om het MIT-R&D-samenwerkingsproject uit te voeren;  
 
-d. de kwaliteit van het projectplan onvoldoende is.   
+d. de kwaliteit van het projectplan onvoldoende is;  
+
+e. het subsidiebedrag lager zou zijn dan € 50.000.  
 
 ### Artikel  3.4.25  
 
@@ -3486,6 +3487,16 @@ a. de aanvrager van de subsidie uiteenzet op welke wijze en op welke termijn een
 b. indien het gaat om een uiteenzetting van een academische innovatieve starter, de vragen van toekomstige financiers omtrent de ontwikkeling worden beantwoord zodat de toekomstige financiers over financiering kunnen besluiten;    
 
 *vroegefasetraject:* samenhangend geheel van activiteiten beschreven in het vroegefaseplan.   
+
+### Artikel  3.16.1a  
+
+####Adviescommissie
+
+Treedt in werking per 02-07-2015 
+
+1.  Er is een Adviescommissie vroegefasefinanciering MKB-ondernemers en innovatieve starters die tot taak heeft de minister op zijn verzoek te adviseren omtrent de beoordeling van de aanvragen op grond van de afwijzingsgronden voor aanvragen, bedoeld in de artikelen 22 en 23 van het Kaderbesluit nationale EZ-subsidies, en 3.16.4 en 3.16.9.   
+2.  De commissie bestaat uit ten minste drie en ten hoogste twintig leden.   
+3.  De voorzitter en de andere leden van de commissie worden door de minister voor een termijn van ten hoogste twee jaar benoemd.  
 
 ### §  3.16.2  
 

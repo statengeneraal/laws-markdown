@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Financiën van 24 oktober 2011 inzake het kasbeheer bij het Rijk (Regeling kasbeheer 2012)
 
 De Minister van Financiën,  
-Gelet op [artikel 3, eerste lid van het Besluit kasbeheer](../../../../../AMvB/besluit/kasbeheer/2012/BWBR0030604/README.md) van 1 januari 2012;
+Gelet op artikel 3, eerste lid van het Besluit kasbeheer van 1 januari 2012;
 
 Na overleg met de Algemene Rekenkamer, brief van 23 juni 2011, nr. 11004111 R;
 Besluit:    
@@ -79,23 +79,18 @@ b. of de noodzaak tot betaling bestaat;
 c. bij privaatrechtelijke betalingen of de prestatie door de wederpartij is geleverd;  
 
 d. bij publiekrechtelijke betalingen of de wederpartij aan de voorwaarden van de toekenningsbeschikking heeft voldaan.     
-4.  In afwijking van het derde lid kunnen de punten genoemd in het derde lid onder a, b, c en d vastgesteld worden, nadat de betalingen zijn verricht, mits: 
+4.  In afwijking van het derde lid, aanhef en onder c, kan voor privaatrechtelijke betalingen tot hoogstens het grensbedrag, bedoeld in het vijfde lid, het vaststellen of de prestatie door de wederpartij is geleverd achterwege blijven, mits: 
 
-a. met behulp van een risico-inschatting wordt bepaald: 
+a. op basis van risico-inschatting in de administratieve organisatie is vastgelegd bij welke categorieën privaatrechtelijke betalingen en bij welk bedrag het achterwege laten van de prestatieverklaringen is toegestaan;  
 
-i. welke betalingen daarvoor in aanmerking komen;  
+b. de levering van de prestaties voor de betalingen, bedoeld onder a, na het verrichten van de betaling steekproefsgewijs worden vastgesteld;  
 
-ii. of van alle betalingen de punten genoemd in het derde lid onder a, b, c en d worden geverifieerd of van een deel van de betalingen.    
+c. de inrichting, de omvang, de periodiciteit, de criteria en de evaluatie van de steekproef in de administratieve organisatie zijn vastgelegd;  
 
-b. de resultaten van de risico-inschatting in de administratieve organisatie zijn vastgelegd, zodat daaruit af te lezen is: 
-
-i. in welke gevallen;  
-
-ii. tot welk grensbedrag;  
-
-iii. onder welke voorwaarden dit toegestaan is.       
-5.  De resultaten van de verificatie worden controleerbaar vastgelegd.   
-6.  De vorderingenordonnateur draagt zorg voor een deugdelijke verificatie van het recht op de vorderingen, voordat hij een vordering invorderbaar stelt.  
+d. de risico-inschatting periodiek wordt geëvalueerd.     
+5.   Onze Minister van Financiën schrijft het grensbedrag voor privaatrechtelijke betalingen, voor.  
+6.  De resultaten van de verificatie worden controleerbaar vastgelegd.   
+7.  De vorderingenordonnateur draagt zorg voor een deugdelijke verificatie van het recht op de vorderingen, voordat hij een vordering invorderbaar stelt.  
 
 ### Artikel  4  
 
@@ -143,8 +138,8 @@ b. transacties in het buitenland indien er niet of moeilijk op rekening kan word
 
 ####Geldswaardige papieren
 
-1.  Het afgeven aan derden van geldswaardige papieren, bedoeld in [artikel 1, tweede lid, onder a en c van het Besluit kasbeheer 2012](../../../../../AMvB/besluit/kasbeheer/2012/BWBR0030604/README.md) geschiedt tegen ontvangst van een geldig ontvangstbewijs.   
-2.  Het ontvangen van geldswaardige papieren van derden, bedoeld in [artikel 1, tweede lid, onder a en c van het Besluit kasbeheer 2012](../../../../../AMvB/besluit/kasbeheer/2012/BWBR0030604/README.md) geschiedt tegen afgifte van een geldig betalingsbewijs.  
+1.  Het afgeven aan derden van geldswaardige papieren, bedoeld in artikel 1, tweede lid, onder a en c van het Besluit kasbeheer 2012 geschiedt tegen ontvangst van een geldig ontvangstbewijs.   
+2.  Het ontvangen van geldswaardige papieren van derden, bedoeld in artikel 1, tweede lid, onder a en c van het Besluit kasbeheer 2012 geschiedt tegen afgifte van een geldig betalingsbewijs.  
 
 ### Artikel  9  
 

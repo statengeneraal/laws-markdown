@@ -205,7 +205,7 @@ Het Bureau kan zich op geenerlei wijze in het bestuur der verschillende Staten m
 
 ###Artikel 3 
 
-De Regeering der Fransche Republiek zal op verzoek van het internationale Comité, bedoeld in artikel 6, de noodige schikkingen treffen om het Bureau als een instelling van openbaar nut toe doen erkennen.
+De Regeering der Fransche Republiek zal op verzoek van het internationale Comité, bedoeld in artikel 6, de noodige schikkingen treffen om het Bureau als een instelling van openbaar nut te doen erkennen.
 
 ###Artikel 4 
 
