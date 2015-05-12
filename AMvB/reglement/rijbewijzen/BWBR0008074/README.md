@@ -1481,7 +1481,7 @@ j. kennis van en inzicht in de werking en defecten van de belangrijkste voertuig
 3.  De aanvrager die aantoont te beschikken over een rijbewijs voor de categorie D1 dat nog geldig is of dat ongeldig is geworden door het verstrijken van de geldigheidsduur of een geldig rijbewijs D1, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, verwerft het theorie-examen voor de categorie D door in aanvulling op dat rijbewijs met goed gevolg de bij ministeriële regeling vastgestelde onderdelen van dat theorie-examen af te leggen. 
 
 ### Artikel  64a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 De eisen voor het theorie-examen voor de rijbewijscategorie T betreffen: 
 
@@ -1772,7 +1772,7 @@ b. de aanvrager dient bij de aanvraag een op zijn naam gesteld identiteitsbewijs
 6.  Voor de toepassing van het vijfde lid, onderdeel a, onder 1°, wordt, indien de aanvraag betrekking heeft op de rijbewijscategorie E bij D en de aanvrager een op het beroep van chauffeur goederenvervoer gerichte beroepsopleiding als bedoeld in de Wet educatie en beroepsonderwijs volgt, met een rijbewijs D gelijkgesteld een ten aanzien van de aanvrager in het rijbewijzenregister geregistreerde verklaring van rijvaardigheid voor de rijbewijscategorie D, waarbij de datum van registratie niet langer dan drie jaar voor de dag van het examen mag liggen.  
 
 ### Artikel  67ha  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Voor de toelating tot het praktijkexamen voor de rijbewijscategorie T moet zijn voldaan aan de volgende eisen: 
 
@@ -1891,7 +1891,7 @@ Het praktijkexamen voor het rijbewijs E bij D1 bestaat uit het afleggen van een 
 2.  Indien het een praktijkexamen betreft voor de rijbewijscategorie E bij D met het oog op de aanvraag van een rijbewijs voor die categorie, bedoeld in artikel 18a, eerste lid, is het in het eerste lid bedoelde trekkend motorrijtuig voorzien van een schakelaar of hendel, waarmee de bestuurder invloed kan uitoefenen op de gangwissel van het motorrijtuig. 
 
 ### Artikel  77a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Het praktijkexamen voor het rijbewijs T bestaat uit het afleggen van een rijproef met een samenstel, waarvan de feitelijke massa niet meer bedraagt dan de technisch toegestane massa van het samenstel, en de lengte ten minste 11 m bedraagt, bestaande uit: 
 
@@ -1958,7 +1958,7 @@ b. twee of meer buitenspiegels waarmee de examinator het rechts en links naast e
 c. een bij ministeriële regeling vastgestelde aanduiding, aangebracht op de wijze als bij die regeling is voorgeschreven.    
 
 ### Artikel  81a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  Het motorrijtuig waarmee de rijproef voor het rijbewijs T wordt afgelegd, dient in ieder geval te zijn voorzien van: 
 
@@ -3647,7 +3647,7 @@ d. een op basis van de Wegenverkeerswet afgegeven rijbewijs D dat na 30 juni 198
 2.  Onder tijdstip van transitie als bedoeld in het eerste lid wordt verstaan het tijdstip waarop artikel I van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.  
 
 ### Artikel  197a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  De aanvraag tot omwisseling van het certificaat van vakbekwaamheid, bedoeld in artikel 9.36 van het Arbeidsomstandighedenbesluit, zoals dat gold tot het tijdstip van inwerkingtreding van de wet van 3 december 2014 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de invoering van de rijbewijsplicht voor landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid (T-rijbewijs; Stb. 2015, 10), in een rijbewijs voor de categorie T geschiedt op de wijze zoals bepaald in dit artikel.   
 2.  Voor de in het eerste lid bedoelde aanvraag dient ten behoeve van de aanvrager in het rijbewijzenregister te zijn geregistreerd: 
@@ -3675,7 +3675,7 @@ b. indien het een certificaat van vakbekwaamheid betreft, afgegeven voor 1 janu
 10.  Nadat is voldaan aan het tweede lid zijn op de aanvraag van een rijbewijs voor de categorie T, bedoeld in het eerste lid, de artikelen 27, 29, 32, 33, eerste lid, onderdelen a, b, subonderdelen I en III, c en d, en tweede lid, en 34, eerste lid, van overeenkomstige toepassing.  
 
 ### Artikel  197b  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  Bij de aanvraag tot afgifte van een rijbewijs voor de categorieën B en T, bedoeld in artikel V, tweede lid, van de wet van 3 december 2014 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de invoering van de rijbewijsplicht voor landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid (T-rijbewijs; Stb. 2015, 10) door een houder van een rijbewijs voor de categorie B dat op het tijdstip van de inwerkingtreding van genoemde wet nog geldig is of waarvan de geldigheid is verlopen door het verstrijken van de geldigheidsduur, wordt door het CBR tevens een verklaring van geschiktheid voor de categorie T geregistreerd, indien een verklaring van geschiktheid is vereist voor de categorie B en die voor die categorie wordt geregistreerd. Op de verklaring van geschiktheid voor de rijbewijscategorie T worden de beperkende coderingen overgenomen die zijn vermeld op de verklaring van geschiktheid voor de rijbewijscategorie B.   
 2.  In de in het eerste lid bedoelde gevallen, alsmede in de gevallen waarin het de afgifte betreft van een rijbewijs van de categorie B en T op basis van een de aanvraag tot afgifte van een rijbewijs voor de categorieën B en T, bedoeld in artikel V, tweede lid, van de in het eerste lid bedoelde wet, zonder dat een verklaring van geschiktheid is vereist voor de categorie B, worden op het af te geven rijbewijs de beperkende coderingen die zijn geregistreerd ten aanzien van houders van een rijbewijs B eveneens vermeld op het rijbewijs ten aanzien de categorie T.   

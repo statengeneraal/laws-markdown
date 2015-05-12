@@ -3022,8 +3022,7 @@ Kijk dan op de website van de IND: www.ind.nl. U kunt ook bellen met de IND. Het
 
 ####Ontvangstbewijs voor het tijdelijk in bewaring nemen van reis- en/ of identiteitspapieren
 
-![254492](http://wetten.overheid.nl/Illustration/254492)
-![254493](http://wetten.overheid.nl/Illustration/254493)
+![255297](http://wetten.overheid.nl/Illustration/255297)
 
 ###Model M102 
 

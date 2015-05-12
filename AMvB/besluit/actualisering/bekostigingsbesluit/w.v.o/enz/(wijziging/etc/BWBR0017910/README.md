@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap van 18 augustus 2004, nr. WJZ/ 2004/ 33830 (3778), directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-Gelet op de [artikelen 10b5, tweede lid](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [77, derde en vierde lid](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),[ 77a](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [84](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [106](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [110a, derde lid, van de Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel XV van de Wet van 28 november 2002 houdende wijziging van de Wet op de expertisecentra, de Wet op het primair onderwijs en de Wet op het voortgezet onderwijs in verband met de invoering van een leerlinggebonden budget en de vorming van regionale expertisecentra (Stb. 2002, 631)](../../../../../../../../../wet/wijzigingswet/wet/op/de/expertisecentra/enz./(invoering/regeling/etc/BWBR0014350/README.md);
+Gelet op de artikelen 10b5, tweede lid, 77, derde en vierde lid, 77a, 84, 106 en 110a, derde lid, van de Wet op het voortgezet onderwijs en artikel XV van de Wet van 28 november 2002 houdende wijziging van de Wet op de expertisecentra, de Wet op het primair onderwijs en de Wet op het voortgezet onderwijs in verband met de invoering van een leerlinggebonden budget en de vorming van regionale expertisecentra (Stb. 2002, 631);
 
 De Raad van State gehoord (advies van 2 september 2004, nr. WO5.04.0415/III);
 
@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ###Artikel I 
 
-####Wijziging [Bekostigingsbesluit W.V.O.](../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md)
+####Wijziging Bekostigingsbesluit W.V.O.
 
 Wijzigt het Bekostigingsbesluit W.V.O.
 
 ###Artikel II 
 
-####Wijziging [Formatiebesluit W.V.O.](../../../../../../../../../AMvB/formatiebesluit/wvo/BWBR0005446/README.md)
+####Wijziging Formatiebesluit W.V.O.
 
 Wijzigt het Formatiebesluit W.V.O.
 
 ###Artikel III 
 
-####Wijziging [Besluit RVC's, regionaal zorgbudget en praktijkscholen met declaratiebekostiging](../../../../../../../../../AMvB/besluit/rvc's/en/regionaal/zorgbudget/BWBR0015137/README.md)
+####Wijziging Besluit RVC's, regionaal zorgbudget en praktijkscholen met declaratiebekostiging
 
 Wijzigt het Besluit RVC's, regionaal zorgbudget en praktijkscholen met declaratiebekostiging.
 
@@ -35,13 +35,13 @@ Wijzigt het Besluit RVC's, regionaal zorgbudget en praktijkscholen met declarati
 
 ####Overgangsbepaling aanvragen zorgbudget
 
-In afwijking van [artikel 8 van het Besluit RVC's, regionaal zorgbudget en praktijkscholen met declaratiebekostiging](../../../../../../../../../AMvB/besluit/rvc's/en/regionaal/zorgbudget/BWBR0015137/README.md) geldt de aanvraag voor een zorgbudget die door of namens de bevoegde gezagsorganen van de scholen behorend tot een samenwerkingsverband is gedaan voor het schooljaar 2005/ 06 eveneens als aanvraag voor een zorgbudget voor het kalenderjaar 2006.
+In afwijking van artikel 8 van het Besluit RVC's, regionaal zorgbudget en praktijkscholen met declaratiebekostiging geldt de aanvraag voor een zorgbudget die door of namens de bevoegde gezagsorganen van de scholen behorend tot een samenwerkingsverband is gedaan voor het schooljaar 2005/ 06 eveneens als aanvraag voor een zorgbudget voor het kalenderjaar 2006.
 
 ###Artikel V 
 
 ####Vervallen tijdelijke berekeningswijze rijksbijdrage voor taken landelijke organen inzake leer-werktrajecten vmbo
 
-Het tijdstip, bedoeld in [artikel IIa van de Wet van 26 juni 2003](../../../../../../../../../wet/wijzigingswet/wet/op/het/voortgezet/onderwijs/en/wet/educatie/en/etc/BWBR0015280/README.md) (Stb. 292), is 1 januari 2006.
+Het tijdstip, bedoeld in artikel IIa van de Wet van 26 juni 2003 (Stb. 292), is 1 januari 2006.
 
 ###Artikel VI 
 

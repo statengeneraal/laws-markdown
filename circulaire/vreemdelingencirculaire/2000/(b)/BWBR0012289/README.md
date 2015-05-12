@@ -172,7 +172,7 @@ De Nederlandse diplomatieke of consulaire vertegenwoordiging vraagt de vreemdeli
 
 a. binnen twee weken na kennisgeving de mvv-aanvraag aan te vullen met de in de kennisgeving genoemde gegevens en bescheiden; en  
 
-b. binnen drie weken de leges te betalen, in het geval de vreemdeling heeft aangegeven dat de referent de leges betaalt.   In geval van een inwilliging machtigt de IND de Nederlandse diplomatieke of consulaire vertegenwoordiging om een mvv af te geven en stelt de IND de referent hiervan in kennis. De vreemdeling moet zijn document voor grensoverschrijding naar de Nederlandse diplomatieke of consulaire vertegenwoordiging meebrengen, zodat de mvv-sticker in dat document kan worden aangebracht. 
+b. binnen twee weken de leges te betalen, in het geval de vreemdeling heeft aangegeven dat de referent de leges betaalt.   In geval van een inwilliging machtigt de IND de Nederlandse diplomatieke of consulaire vertegenwoordiging om een mvv af te geven en stelt de IND de referent hiervan in kennis. De vreemdeling moet zijn document voor grensoverschrijding naar de Nederlandse diplomatieke of consulaire vertegenwoordiging meebrengen, zodat de mvv-sticker in dat document kan worden aangebracht. 
 ### 3.3.3  
 
 ####Aanvraagprocedure mvv door de referent in Nederland
@@ -1937,7 +1937,7 @@ De IND verleent de verblijfsvergunning op grond van artikel 3.42, eerste lid, Vb
 
 ###Looncriterium
 
-De IND willigt de aanvraag voor wijziging van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘zoeken en verrichten van arbeid al dan niet in loondienst’ naar een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘arbeid als kennismigrant’ in als de hoogopgeleide voldoet aan het looncriterium voor afgestudeerde buitenlandse studenten, bedoeld in artikel 1d, eerste lid, onder a, sub 2, Buwav en als aan alle overige voorwaarden wordt voldaan. De IND wijst de aanvraag voor verlenging van de geldigheidsduur van de verblijfsvergunning regulier bepaalde tijd onder de beperking ‘arbeid als kennismigrant’ niet af op grond van artikel 3.30a, eerste lid, Vb omdat niet aan het looncriterium als bedoeld in artikel 1d, eerste lid, Buwav wordt voldaan als aan de volgende voorwaarden wordt voldaan: 
+Voor de hoogte van het looncriterium wordt verwezen naar artikel 1d, eerste en derde lid, Buwav. De IND willigt de aanvraag voor wijziging van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘zoeken en verrichten van arbeid al dan niet in loondienst’ naar een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘arbeid als kennismigrant’ in als de hoogopgeleide voldoet aan het looncriterium voor afgestudeerde buitenlandse studenten, bedoeld in artikel 1d, eerste lid, onder a, sub 2, Buwav en als aan alle overige voorwaarden wordt voldaan. De IND wijst de aanvraag voor verlenging van de geldigheidsduur van de verblijfsvergunning regulier bepaalde tijd onder de beperking ‘arbeid als kennismigrant’ niet af op grond van artikel 3.30a, eerste lid, Vb omdat niet aan het looncriterium als bedoeld in artikel 1d, eerste lid, Buwav wordt voldaan als aan de volgende voorwaarden wordt voldaan: 
 
 * voor de vreemdeling gold bij de eerste verlening van de verblijfsvergunning als kennismigrant het looncriterium voor afgestudeerde buitenlandse studenten, bedoeld in artikel 1d, eerste lid, onder a, sub 2, Buwav; en  
 
@@ -1951,13 +1951,11 @@ De IND willigt de aanvraag voor wijziging van een verblijfsvergunning regulier v
 De IND wijst de aanvraag voor een verblijfsvergunning onder de beperking arbeid als kennismigrant af of trekt deze achteraf in als het loon naar het oordeel van de Minister van Sociale Zaken en Werkgelegenheid niet marktconform is.
 ###Bestanddelen bruto maandloon kennismigranten
 
-De IND telt bij het bruto maandloon mee: 
+De IND telt bij het bruto maandloon de onkostenvergoedingen en toeslagen mee, mits deze elke maand giraal worden overgemaakt op een bankrekening die op naam is gesteld van de vreemdeling en contractueel zijn vastgelegd. De IND telt niet mee in het bruto maandloon: 
 
-* Vaste toeslagen zoals de vakantietoeslag en een dertiende maand en;  
+* (de waarde van) in natura uitgekeerd loon;  
 
-* onkostenvergoedingen mits deze elke maand giraal worden overgemaakt op een bankrekening die op naam is gesteld van de vreemdeling;   De IND telt niet mee in het bruto maandloon: 
-
-* (de waarde van) in natura uitgekeerd loon en;  
+* de vakantietoeslag; en  
 
 * de waarde van onzekere, niet vaste, loonbestanddelen als overwerkvergoedingen, fooien en uitkeringen uit fondsen.  
 ###Registratie BIG
@@ -2047,16 +2045,14 @@ De IND verstaat onder het begrip ‘bedrijfsuitoefening van een onderneming’ i
 
 ###Looncriterium
 
-In aanvulling op artikel 3.30b, eerste lid, aanhef en onder a, Vb kent de IND uitsluitend betekenis toe aan loon in geld.
+Voor de hoogte van het looncriterium wordt verwezen naar artikel 1i, eerste lid, onder b en tweede lid, Buwav.
 ###Bestanddelen bruto maandloon Europese blauwe kaarthouders
 
-De IND telt bij het bruto maandloon mee: 
+De IND telt bij het bruto maandloon de onkostenvergoedingen en toeslagen mee, mits deze elke maand giraal worden overgemaakt op een bankrekening die op naam is gesteld van de vreemdeling en contractueel zijn vastgelegd. De IND telt niet mee in het bruto maandloon: 
 
-* Vaste toeslagen zoals de vakantietoeslag en een dertiende maand en;  
+* (de waarde van) in natura uitgekeerd loon;  
 
-* onkostenvergoedingen mits deze elke maand giraal worden overgemaakt op een bankrekening die op naam is gesteld van de vreemdeling;   De IND telt niet mee in het bruto maandloon: 
-
-* (de waarde van) in natura uitgekeerd loon en;  
+* de vakantietoeslag; en  
 
 * de waarde van onzekere, niet vaste, loonbestanddelen als overwerkvergoedingen, fooien en uitkeringen uit fondsen.  
 ###Diploma van hoger onderwijs
@@ -2070,7 +2066,7 @@ In aanvulling op artikel 3.30b Vb moet een gereglementeerd beroep erkend zijn en
 In aanvulling op artikel 3.30b Vb verleent de IND de verblijfsvergunning uitsluitend aan een vreemdeling die een beroep wil uitoefenen in de individuele gezondheidszorg als registratie in het BIG-register heeft plaatsgevonden.
 ###Zoekperiode
 
-In aanvulling op artikel 4.43 Vb verleent de IND de vreemdeling gedurende de geldigheidsduur van zijn verblijfsvergunning een zoekperiode van drie maanden om een nieuwe functie als houder van een Europese blauwe kaart houder te vinden als de werkgever de arbeidsovereenkomst of de aanstelling van de vreemdeling voortijdig, dat wil zeggen tijdens de geldigheidsduur van de verblijfsvergunning, ontbindt. De zoekperiode vangt aan op de dag waarop de arbeidsovereenkomst is ontbonden.   
+In aanvulling op artikel 4.43 Vb verleent de IND de vreemdeling gedurende de geldigheidsduur van zijn verblijfsvergunning een zoekperiode van drie maanden om een nieuwe functie als houder van een Europese blauwe kaart houder te vinden als de werkgever de arbeidsovereenkomst of de aanstelling van de vreemdeling voortijdig, dat wil zeggen tijdens de geldigheidsduur van de verblijfsvergunning, ontbindt.De zoekperiode vangt aan op de dag waarop de arbeidsovereenkomst is ontbonden.   
 ### 3  
 
 ####Beperking, arbeidsmarktaantekening en geldigheidsduur
@@ -4240,7 +4236,10 @@ De IND verleent een verblijfsvergunning voor bepaalde tijd onder de beperking �
 
 ####Na verblijf als slachtoffer van (dreigend) eergerelateerd geweld of van (dreigend) huiselijk geweld
 
-De IND verleent een verblijfsvergunning op grond van artikel 3.51, eerste lid, aanhef en onder i en j, Vb, als de vreemdeling aantoont dat de dreiging op grond waarvan de verblijfsvergunning is verleend voortduurt. Is van een voortduring van (de dreiging van) het geweld geen sprake meer, dan verleent de IND de verblijfsvergunning onder de beperking ‘niet-tijdelijke humanitaire gronden’, op grond van artikel 3.51, eerste lid, aanhef en onder k, Vb, als er sprake is van een combinatie van klemmende redenen van humanitaire aard waardoor de vreemdeling blijvend op verblijf in Nederland is aangewezen. De IND neemt aan dat bijzondere individuele omstandigheden in ieder geval gelegen kunnen zijn in: 
+De IND verleent een verblijfsvergunning op grond van artikel 3.51, eerste lid, aanhef en onder i en j, Vb, als de vreemdeling aantoont dat de dreiging op grond waarvan de verblijfsvergunning is verleend voortduurt. Is van een voortduring van (de dreiging van) het geweld geen sprake meer, dan verleent de IND de verblijfsvergunning onder de beperking ‘niet-tijdelijke humanitaire gronden’, op grond van artikel 3.51, eerste lid, aanhef en onder k, Vb, als er sprake is van een combinatie van klemmende redenen van humanitaire aard waardoor de vreemdeling blijvend op verblijf in Nederland is aangewezen.
+###Bijzondere individuele omstandigheden
+
+De IND neemt aan dat bijzondere individuele omstandigheden in ieder geval gelegen kunnen zijn in: 
 
 a. de situatie van alleenstaande vrouwen in het land van herkomst;  
 
@@ -4253,7 +4252,7 @@ d. de zorg die de vrouw/ouder heeft voor kinderen die in Nederland zijn geboren 
 e. aantoonbaar ondervonden (seksueel) geweld binnen de familie; of  
 
 f. de banden met Nederland.   De IND houdt bij de beoordeling rekening met de situatie van vreemdelingen en hun kinderen, die tegen hun wil en zonder identiteits- en verblijfsdocumenten in het land van herkomst zijn achtergelaten. 
-### *Ad a., b. en c.* 
+### Ad a., b. en c. 
 
 De IND kent aan deze factoren zwaar gewicht toe als: 
 
@@ -4262,10 +4261,10 @@ De IND kent aan deze factoren zwaar gewicht toe als:
 * de eigen familie in het land van herkomst de vrouw heeft verstoten; of  
 
 * de vrouw naar het recht van het land van herkomst niet de mogelijkheid heeft te scheiden.   
-### * *Ad e*.* 
+### Ad e. 
 
 De IND verleent de verblijfsvergunning als de vreemdeling aantoont dat huiselijk geweld binnen de familie heeft geleid tot de feitelijke verbreking van de (huwelijks)relatie. Bij een minderjarige vreemdeling is het in verband met de leeftijd van de vreemdeling niet noodzakelijk dat de gezinsband met de referent is verbroken. 
-### *Ad d. en f.* 
+### Ad d. en f. 
 
 De IND kent aan deze factoren zwaar gewicht toe als: 
 
