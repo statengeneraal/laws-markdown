@@ -5,7 +5,7 @@
 De Minister van Onderwijs, Cultuur en Wetenschap,  
 Handelende in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie;
 
-Gelet op de [artikelen 2.2.3, derde lid](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.4.3](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.5.4, tweede lid](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.5.10](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) juncto 2.5.4, tweede lid, [2.7](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [12.3.8, tweede lid](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [12.3.9, tweede lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
+Gelet op de artikelen 2.2.3, derde lid, 2.4.3, 2.5.4, tweede lid, 2.5.10 juncto 2.5.4, tweede lid, 2.7, 12.3.8, tweede lid en 12.3.9, tweede lid, van de Wet educatie en beroepsonderwijs;
 Besluit:    
 
 ### Artikel  I  
@@ -18,7 +18,7 @@ Wijzigt de Regeling innovatiebox beroepsonderwijs 2006 tot en met 2009.
 
 ### Artikel  III  
 
-1. De [Kaderregeling technocentra 2006 tot en met 2010](../../../../../../../../../../../../ministeriele-regeling/kaderregeling/technocentra/2006/tot/en/met/2010/BWBR0019613/README.md) wordt ingetrokken.
+1. De Kaderregeling technocentra 2006 tot en met 2010 wordt ingetrokken.
 2. Voor zover er ter zake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regeling, genoemd in het eerste lid, plaats.
 3. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regeling, genoemd in het eerste lid, blijven in stand. 
 

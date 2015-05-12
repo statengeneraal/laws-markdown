@@ -3,7 +3,7 @@
 ##Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 30 mei 2012, nr. WJZ/409353 (10236), houdende instelling van de Commissie onderzoek financiële problematiek Amarantis (Instellingsbesluit Commissie onderzoek financiële problematiek Amarantis)
 
 De Minister van Onderwijs, Cultuur en Wetenschap,  
-Gelet op [artikel 2, eerste en tweede lid, van de Wet vergoedingen adviescolleges en commissies](../../../../../../../../wet/wet/vergoedingen/adviescolleges/en/commissies/BWBR0024775/README.md), alsmede gelet op de [artikelen 2.5.6](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [2.5.10 van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [artikel 19 van het Bekostigingsbesluit WVO](../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md);
+Gelet op artikel 2, eerste en tweede lid, van de Wet vergoedingen adviescolleges en commissies, alsmede gelet op de artikelen 2.5.6 en 2.5.10 van de Wet educatie en beroepsonderwijs, en artikel 19 van het Bekostigingsbesluit WVO;
 Besluit:    
 
 ### Artikel  1  
@@ -38,7 +38,7 @@ e. aanbevelingen te doen, gebaseerd op het onderzoeksmateriaal, over maatregelen
 4.  In aanvulling op het tweede en derde lid heeft de commissie met ingang van 3 december 2012 tot taak, mede op basis van de kennis, feiten en signalen waarover de commissie de beschikking heeft gekregen bij het onderzoek, bedoeld in het tweede en derde lid, nader onderzoek te doen naar mogelijke persoonlijke bevoordeling, bovenmatig persoonlijk gebruik van faciliteiten of bevoordeling van derden door de betrokken, al dan niet gewezen, bestuurders, leidinggevenden of adviseurs van de instelling of haar rechtsvoorgangers.   
 5.  Het nader onderzoek betreft dezelfde periode als het onderzoek, bedoeld in het tweede en derde lid, en is erop gericht, ten aanzien van de in het vierde lid bedoelde personen vast te stellen hoe hun handelen of nalaten zich verhoudt tot: 
 
-a. de behoorlijke taakvervulling, bedoeld in [artikel 2:9 van het Burgerlijk wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+a. de behoorlijke taakvervulling, bedoeld in artikel 2:9 van het Burgerlijk wetboek;  
 
 b. algemeen aanvaarde normen van doelmatige besteding van publieke middelen.     
 6.  Indien betrokkenen naar het oordeel van de commissie niet of onvoldoende meewerken aan het nader onderzoek, overlegt de commissie daarover een schriftelijke verklaring aan de Minister. Indien bij het nader onderzoek het vermoeden rijst van strafbare feiten, meldt de commissie dit aan de Minister. 
@@ -88,7 +88,7 @@ c. mevrouw R. de Wit te Heerlen.
 
 1.  De commissie verricht haar werkzaamheden in onafhankelijkheid zonder last of ruggespraak.   
 2.  De commissie kan desgewenst voor haar werkzaamheden een beroep doen op alle kennis die in welke vorm dan ook op het Ministerie van Onderwijs, Cultuur en Wetenschap aanwezig is betreffende haar werkterrein. De medewerking wordt niet dan op grond van wettelijke belemmeringen geweigerd.   
-3.  De leden van de commissie, de secretaris van de commissie en de aan de secretaris toegevoegde medewerkers worden bij dezen, voor zover dat in het kader van het onderzoek van de commissie wordt gevorderd, aangewezen als toezichthouder in de zin van [artikel 5:11 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en mogen dientengevolge alle bevoegdheden, genoemd in [Titel 5.2 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), toepassen indien dat naar het oordeel van de commissie noodzakelijk is.  
+3.  De leden van de commissie, de secretaris van de commissie en de aan de secretaris toegevoegde medewerkers worden bij dezen, voor zover dat in het kader van het onderzoek van de commissie wordt gevorderd, aangewezen als toezichthouder in de zin van artikel 5:11 van de Algemene wet bestuursrecht en mogen dientengevolge alle bevoegdheden, genoemd in Titel 5.2 van de Algemene wet bestuursrecht, toepassen indien dat naar het oordeel van de commissie noodzakelijk is.  
 
 ### Artikel  8  
 
@@ -108,9 +108,9 @@ De commissie brengt geen andere rapportages uit dan die genoemd in artikel 8, te
 
 ####Vergoeding
 
-1.  Aan de voorzitter en de leden van de commissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de arbeidsduurfactor op 0,20 fte.   
+1.  Aan de voorzitter en de leden van de commissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 en de arbeidsduurfactor op 0,20 fte.   
 2.  De minister kan de in het eerste lid genoemde arbeidsfactor nader vaststellen indien de omvang van de werkzaamheden van de voorzitter onderscheidenlijk leden daartoe aanleiding geeft.   
-3.  De voorzitter en de andere leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten op de voet van het [Reisbesluit binnenland](../../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md). Deze vergoeding wordt door de secretaris van de commissie afgehandeld.  
+3.  De voorzitter en de andere leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten op de voet van het Reisbesluit binnenland. Deze vergoeding wordt door de secretaris van de commissie afgehandeld.  
 
 ### Artikel  11  
 
@@ -147,9 +147,9 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden o
 
 ####Mandaat
 
-1.  Voor zover het onderzoek van de commissie betrekking heeft op de sector van de educatie en het beroepsonderwijs, vervult de commissie haar taak op basis van [artikel 2.5.6](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) dan wel [artikel 2.5.10](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) juncto artikel 2.5.6 van de Wet educatie en beroepsonderwijs. Het bevoegd gezag van de instelling verstrekt conform het bepaalde in artikel 2.5.6 van genoemde wet aan de commissie alle inlichtingen die de commissie voor de uitvoering van haar taak nodig oordeelt. De commissie krijgt desgevraagd inzage in informatie, boeken en bescheiden.   
-2.  Voor zover het onderzoek van de commissie betrekking heeft op de sector van het voortgezet onderwijs, vervult de commissie haar taak op basis van [artikel 19 van het Bekostigingsbesluit WVO](../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md). Het bevoegd gezag van de school verstrekt conform het bepaalde in dat artikel 19 aan de commissie alle inlichtingen die de commissie voor de uitvoering van haar taak nodig oordeelt. De commissie krijgt desgevraagd inzage in informatie, boeken en bescheiden.   
-3.  De commissie heeft mandaat voor het uitoefenen van de bevoegdheden, bedoeld in de [artikelen 43](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) en [43a, van de Comptabiliteitswet 2001](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).  
+1.  Voor zover het onderzoek van de commissie betrekking heeft op de sector van de educatie en het beroepsonderwijs, vervult de commissie haar taak op basis van artikel 2.5.6 dan wel artikel 2.5.10 juncto artikel 2.5.6 van de Wet educatie en beroepsonderwijs. Het bevoegd gezag van de instelling verstrekt conform het bepaalde in artikel 2.5.6 van genoemde wet aan de commissie alle inlichtingen die de commissie voor de uitvoering van haar taak nodig oordeelt. De commissie krijgt desgevraagd inzage in informatie, boeken en bescheiden.   
+2.  Voor zover het onderzoek van de commissie betrekking heeft op de sector van het voortgezet onderwijs, vervult de commissie haar taak op basis van artikel 19 van het Bekostigingsbesluit WVO. Het bevoegd gezag van de school verstrekt conform het bepaalde in dat artikel 19 aan de commissie alle inlichtingen die de commissie voor de uitvoering van haar taak nodig oordeelt. De commissie krijgt desgevraagd inzage in informatie, boeken en bescheiden.   
+3.  De commissie heeft mandaat voor het uitoefenen van de bevoegdheden, bedoeld in de artikelen 43 en 43a, van de Comptabiliteitswet 2001.  
 4.  De commissie oefent de bevoegdheden, bedoeld in het eerste, tweede en derde lid, slechts uit voor zover dat voor de vervulling van haar taak redelijkerwijs nodig is. Bij een verzoek om inlichtingen te verstrekken geeft zij de grondslag aan op grond waarvan dat verzoek wordt gedaan en het doel waarvoor de inlichtingen worden gevraagd.  
 
 ### Artikel  16  

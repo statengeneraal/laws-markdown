@@ -14,32 +14,32 @@ Gezien het nader rapport van Onze Minister van Infrastructuur en Milieu van 26 
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Wijzigt het Reglement rijbewijzen.
 
 ### Artikel  II  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Wijzigt het Besluit rijonderricht motorrijtuigen 2009.
 
 ### Artikel  III  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Wijzigt het Arbeidsomstandighedenbesluit.
 
 ### Artikel  IV  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Na inwerkingtreding van artikel I, onderdeel D, van dit besluit berusten de ontheffingen gebaseerd op artikel 5, vijfde lid, (oud) van het Reglement rijbewijzen op artikel 5, vierde lid (nieuw) van het Reglement rijbewijzen. 
 
 ### Artikel  V  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Na inwerkingtreding van artikel III van dit besluit berust de Arbeidsomstandighedenregeling mede op artikel 9.9b, eerste lid, onderdeel i, van het Arbeidsomstandighedenbesluit. 
 
 ### Artikel  VI  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Dit besluit treedt in werking op het tijdstip waarop de artikelen I en II van de wet van 3 december 1994 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de invoering van de rijbewijsplicht voor landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid (T-rijbewijs) (Stb. 2015, 10) in werking treden. 
 

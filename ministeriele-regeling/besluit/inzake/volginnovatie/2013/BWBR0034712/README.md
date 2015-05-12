@@ -3,11 +3,11 @@
 ##Besluit van de Minister van Economische Zaken van 20 januari 2014 inzake volginnovatie 2013
 
 De Minister van Economische Zaken,  
-Gelet op [titel 4.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op titel 4.2 van de Algemene wet bestuursrecht;
 
-Gelet op de incidentele subsidieverlening op basis van [artikel 2, tweede lid](../../../../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md) en [artikel 4 van de Kaderwet EZ-subsidies](../../../../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md), voorzover betrekking hebbend op innovatiegelden;
+Gelet op de incidentele subsidieverlening op basis van artikel 2, tweede lid en artikel 4 van de Kaderwet EZ-subsidies, voorzover betrekking hebbend op innovatiegelden;
 
-Gelet op de navolgende onderdelen van [artikel 1, derde lid, Regeling openstelling en subsidieplafonds EZ 2013](../../../../../../ministeriele-regeling/regeling/openstelling/en/subsidieplafonds/ez/2013/BWBR0032500/README.md):
+Gelet op de navolgende onderdelen van artikel 1, derde lid, Regeling openstelling en subsidieplafonds EZ 2013:
 
 – 1.5 Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters);   
 Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters) (Creatieve industrie);
@@ -31,7 +31,7 @@ Subsidieregeling sterktes in innovatie (internationaal innoveren) (ITEA2-innovat
 – 5.10 Subsidieregeling energie en innovatie (Wind op Zee-projecten) (fundamenteel en industrieel wind op zee-project);  
 
 – 5.10a Subsidieregeling energie en innovatie (Wind op Zee-projecten) (experimenteel en demonstratie wind op zee-project);   
-Gelet op de navolgende onderdelen van [artikel 3a, derde lid, Regeling openstelling en subsidieplafonds EZ 2013](../../../../../../ministeriele-regeling/regeling/openstelling/en/subsidieplafonds/ez/2013/BWBR0032500/README.md):
+Gelet op de navolgende onderdelen van artikel 3a, derde lid, Regeling openstelling en subsidieplafonds EZ 2013:
 
 – 1c.21 MIT-R&D- samenwerkingsprojecten, Bijlage 1 HTSM, thema’s 1 t/m 16;  
 
@@ -50,7 +50,7 @@ Gelet op de navolgende onderdelen van [artikel 3a, derde lid, Regeling openstell
 – 1c.21 MIT-R&D-samenwerkingsverband, Bijlage 8 T&U, thema’s 1 t/m 4;  
 
 – 1c.4 MIT-haalbaarheidsstudies, Bijlage 8 T&U, thema’s 1 t/m 4;   
-Gelet op de navolgende onderdelen van [artikel 3b, derde lid, Regeling openstelling en subsidieplafonds EZ 2013](../../../../../../ministeriele-regeling/regeling/openstelling/en/subsidieplafonds/ez/2013/BWBR0032500/README.md):
+Gelet op de navolgende onderdelen van artikel 3b, derde lid, Regeling openstelling en subsidieplafonds EZ 2013:
 
 – 2.4.1 BBE innovatieproject;  
 
@@ -81,7 +81,7 @@ Gelet op de navolgende onderdelen van [artikel 3b, derde lid, Regeling openstell
 – 2.4.14 DFP-project;  
 
 – 3.10 Smartgrids-project;   
-Gelet op de [artikelen 8](../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), [10](../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) en [11 van de Wet openbaarheid van bestuur](../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md);
+Gelet op de artikelen 8, 10 en 11 van de Wet openbaarheid van bestuur;
 Besluit:    
 
 ### Artikel  1  

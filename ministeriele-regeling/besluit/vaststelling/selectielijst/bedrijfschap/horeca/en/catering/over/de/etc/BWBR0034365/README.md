@@ -3,7 +3,7 @@
 ##Besluit vaststelling selectielijst Bedrijfschap Horeca en Catering over de periode vanaf 1954
 
 De minister van Onderwijs, Cultuur en Wetenschap  
-Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
+Gelet op artikel 5, tweede lid, onder b, van de Archiefwet 1995;
 Besluit:    
 
 ### Artikel  1  

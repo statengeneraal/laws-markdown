@@ -28,7 +28,7 @@ In deze regeling wordt verstaan onder:
 
 *  *directe loonkosten:* loonkosten van personeel, waarbij sprake is van direct aan deelnemers van het project bestede uren, dan wel loonkosten welke direct te relateren zijn aan de uitvoering van subsidiabele activiteiten als bedoeld in bijlage 1;  
 
-*  *directe loonkosten projectcoördinatie en -administratie:* loonkosten van personeel welke direct zijn te relateren aan coördinatie en administratie van een project en waarbij het desbetreffende personeelslid voor 50% of meer van diens contractuele werktijd werkzaam is voor een of meer projecten;  
+*  *directe loonkosten projectcoördinatie en -administratie:* loonkosten van personeel welke direct zijn te relateren aan coördinatie en administratie van een project en waarbij het desbetreffende personeelslid voor 50% of meer van diens contractuele werktijd werkzaam is voor een of meer projecten in het kader van bijlage 1, hoofdstukken I, II, en III;  
 
 *  *externe kosten:* kosten die in rekening gebracht worden door derden voor het uitvoeren van direct aan deelnemers gerelateerde activiteiten, dan wel voor het uitvoeren van subsidiabele activiteiten als bedoeld in bijlage 1;  
 
@@ -44,7 +44,7 @@ In deze regeling wordt verstaan onder:
 
 *  *loonverletkosten:* de loonkosten van deelnemers voor niet-productieve uren als gevolg van deelname aan subsidiabele activiteiten, voor zover die hebben geleid tot een vermindering van de werkbare uren voor de werkgever;  
 
-*  *minister:* de minister van Sociale Zaken en Werkgelegenheid;  
+*  *minister:* de Minister van Sociale Zaken en Werkgelegenheid;  
 
 *  *niet-uitkeringsontvanger:* de persoon jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid van de Algemene Ouderdomswet, die als werkloze werkzoekende staat geregistreerd bij het Uitvoeringsinstituut werknemersverzekeringen en die geen uitkering ontvangt of arbeidsondersteuning op grond van enige sociale zekerheidswet; 
 
@@ -60,11 +60,17 @@ In deze regeling wordt verstaan onder:
 
 *  *projectperiode:* periode tussen het tijdstip waarop activiteiten starten en worden beëindigd;  
 
+*  *sociale innovatie:* de ontwikkeling en implementatie van nieuwe ideeën voor producten, diensten en processen die een antwoord kunnen vormen op maatschappelijke uitdagingen op het terrein van actieve inclusie; 
+
 *  *subsidieaanvrager:* de aanvrager van een subsidie op grond van deze regeling;  
 
 *  *subsidieontvanger:* de subsidieaanvrager aan wie krachtens deze regeling subsidie is verleend;  
 
 *  *subproject:* een op zichzelf staand onderdeel van een project; 
+
+*  *transnationale partnerschapsovereenkomst:* overeenkomst tussen partners gevestigd in verschillende lidstaten van de Europese Unie ten aanzien van de uitvoering van gezamenlijke activiteiten in het kader van een project en de financiering daarvan; 
+
+*  *transnationale samenwerking:* een samenwerkingsverband waarbij de subsidieontvanger een project uitvoert met een partner uit ten minste één andere lidstaat van de Europese Unie; 
 
 * *Uitvoeringsverordening:* Uitvoeringsverordening (EU) nr. 821/2014 van de Commissie van 28 juli 2014 tot vaststelling van bepalingen ter uitvoering van Verordening (EU) nr. 1303/2013 van het Europees Parlement en de Raad wat betreft gedetailleerde regelingen voor de overdracht en het beheer van programmabijdragen, de verslaglegging over financieringsinstrumenten, de technische kenmerken van voorlichtings- en communicatiemaatregelen voor concrete acties, en het systeem voor de vastlegging en opslag van gegevens (PbEU 2014, L 223/7); 
 
@@ -386,19 +392,15 @@ J. Klijnsma.
 
 ### Artikel  A1  
 
-####Subsidieaanvrager
-
-1. De subsidie met betrekking tot een project in het kader van investeringsprioriteit A als bedoeld in artikel 4, onderdelen a en b, wordt aangevraagd door: 
-
-a. het college van burgemeester en wethouders van een centrumgemeente als bedoeld in artikel 1;  
-
-b. het UWV;  
-
-c. de minister van Veiligheid en Justitie.    
-
-2. Op aanvragen als bedoeld in het eerste lid, onderdeel a, zijn in aanvulling op het algemeen deel van de regeling de bepalingen in hoofdstuk I van deze bijlage van toepassing. Op aanvragen als bedoeld in het eerste lid, onderdeel b, zijn in aanvulling op het algemeen deel van de regeling de bepalingen in Hoofdstuk II van deze bijlage van toepassing. Op aanvragen als bedoeld in het eerste lid, onderdeel c, zijn in aanvulling op het algemeen deel van de regeling de bepalingen in Hoofdstuk III van deze bijlage van toepassing. Op aanvragen als bedoeld in artikel 4, onderdeel b, zijn in aanvulling op het algemeen deel van de regeling de bepalingen in hoofdstuk IV van deze bijlage van toepassing.   
+Vervallen. 
 
 ####Hoofdstuk I. Centrumgemeenten
+
+### Artikel  A1a 
+
+####Subsidieaanvrager
+
+De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door het college van burgemeester en wethouders van een centrumgemeente als bedoeld in artikel 1.
 
 ### Artikel  A2  
 
@@ -502,6 +504,12 @@ In aanvulling op artikel 14 verleent de minister, indien de subsidieontvanger di
 
 ####Hoofdstuk II. UWV
 
+### Artikel  A10a 
+
+####Subsidieaanvrager
+
+De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door het UWV.
+
 ### Artikel  A11  
 
 ####Aanvraagtijdvak
@@ -566,6 +574,12 @@ In aanvulling op artikel 14 verleent de minister, indien de subsidieontvanger di
 
 ####Hoofdstuk III. De Minister van Veiligheid en Justitie
 
+### Artikel  A18a 
+
+####Subsidieaanvrager
+
+De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door de Minister van Veiligheid en Justitie.
+
 ### Artikel  A19  
 
 ####Aanvraagtijdvak
@@ -615,6 +629,188 @@ b. het project een duur heeft van ten hoogste vijftien maanden, gerekend vanaf d
 2. In aanvulling op artikel 12, eerste lid, onderdeel a, zijn enkel de volgende externe kosten subsidiabel:   De kosten van extern ingekochte trajecten voor zover de relatie met de activiteiten, genoemd in het eerste lid, voldoende aannemelijk is. 
 
 ####Hoofdstuk IV. Sociale innovatie en transnationale samenwerking
+
+###Artikel A25 
+
+####Subsidieaanvrager
+
+De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door: 
+
+a. het college van burgemeester en wethouders van een centrumgemeente als bedoeld in artikel 1;  
+
+b. het UWV;  
+
+c. de Minister van Veiligheid en Justitie.  
+
+###Artikel A26 
+
+####Aanvraagtijdvak
+
+Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 1 juni 2015, 9.00 uur, tot en met 31 december 2019, 17.00 uur.
+
+###Artikel A27 
+
+####Subsidieplafond
+
+Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel A26, € 5.300.000,–.
+
+###Artikel A28 
+
+####Aard van de projecten
+
+1. Een project in het kader van dit hoofdstuk heeft tot doel het bevorderen van sociale innovatie of het bevorderen van transnationale samenwerking op het terrein van actieve inclusie.2. Een project als bedoeld in het eerste lid komt uitsluitend voor subsidie in aanmerking, indien het project is gericht op:
+
+a. methodiek- of instrumentontwikkeling: het testen, verbeteren, onderzoeken, evalueren, innoveren en implementeren van bestaande of nieuwe instrumenten en werkwijzen uit de praktijk van arbeidstoeleiding van mensen met een afstand tot de arbeidsmarkt; of  
+
+b. kennisdeling: bevorderen dat partijen van elkaar leren op basis van praktijkervaringen bij arbeidstoeleiding van mensen met een afstand tot de arbeidsmarkt.  
+
+###Artikel A29 
+
+####De subsidieaanvraag
+
+1. In afwijking van artikel 7, vijfde lid, wordt op de aanvraag uiterlijk achttien weken na ontvangst van de volledige aanvraag beschikt.2. Een subsidieaanvraag wordt niet in behandeling genomen, indien op het moment van deze aanvraag aan de subsidieaanvrager reeds voor twee projecten in het kader van dit hoofdstuk subsidie is verleend. Indien met betrekking tot een subsidieverlening als bedoeld in de vorige zin een verzoek tot vaststelling is ingediend, kan een subsidieaanvraag voor een nieuw project in behandeling worden genomen.3. De subsidie bedraagt per project ten minste € 60.000,– en ten hoogste € 190.000,–.
+
+###Artikel A30 
+
+####Specifieke eisen
+
+1. Een project, in het kader van dit hoofdstuk, komt slechts voor subsidie in aanmerking indien: 
+
+a. het project past binnen het doel, genoemd in artikel A28;  
+
+b. het project een duur heeft van ten hoogste 24 maanden, gerekend vanaf de datum van ontvangst van de volledige subsidieaanvraag;  
+
+c. de subsidieaanvraag een concrete omschrijving bevat van de wijze waarop de resultaten tijdens of na afronding van het project worden verspreid;  
+
+d. de subsidieaanvraag in het kader van transnationale samenwerking een transnationale partnerschapsovereenkomst bevat;  
+
+e. de subsidieontvanger bij het verzoek tot vaststelling van de subsidie voegt: 
+
+1°. een verslag van de activiteiten gericht op de totstandkoming van ten minste één product als bedoeld in artikel A31, eerste lid;  
+
+2°. het product zelf, indien de activiteiten geresulteerd hebben in de totstandkoming hiervan;  
+
+3°. ten behoeve van verspreiding een samenvatting van het verslag, en, indien van toepassing, een samenvatting van het product.    2. Onverminderd het eerste lid komt een project ter bevordering van sociale innovatie slechts voor subsidie in aanmerking, indien in de subsidieaanvraag het sociaal innovatieve karakter van het project wordt onderbouwd aan de hand van een beschrijving van: 
+
+a. de mate waarin het project een maatschappelijke uitdaging betreft die door middel van sociale innovatie tot actieve inclusie van de doelgroep kan leiden;  
+
+b. de behoefte, waarin de gewenste uitkomst van de methodiek- of instrumentontwikkeling of kennisdeling, bedoeld in artikel A28, tweede lid, voorziet;  
+
+c. de wijze waarop de doelgroep bij de aanpak van de maatschappelijke uitdaging betrokken is;  
+
+d. de wijze waarop belanghebbende partijen bij de aanpak van de maatschappelijke uitdaging betrokken zijn;  
+
+e. de redenen waarom en de mate waarin het project en de voorgestelde methodiek- of instrumentontwikkeling of kennisdeling, bedoeld in artikel A28, tweede lid, innovatief, creatief of onconventioneel is en bijdraagt aan de vermogens tot actieve inclusie van de doelgroep, respectievelijk aan de vermindering van barrières in de samenleving ten behoeve van actieve inclusie van de doelgroep;  
+
+f. de mate waarin verschillende aspecten die tot sociale exclusie kunnen leiden, aan bod komen in de aanpak;  
+
+g. de criteria, die worden gebruikt om aan te tonen dat sprake is van succes of falen.  3. De transnationale partnerschapsovereenkomst, bedoeld in het eerste lid, onderdeel d, bevat: 
+
+a. een beschrijving van het onderliggende probleem of gemeenschappelijk belang;  
+
+b. een omschrijving van de gemeenschappelijke transnationale doelstelling;  
+
+c. een beschrijving van de activiteiten, bedoeld in artikel A31, eerste lid;  
+
+d. een beschrijving van de toegevoegde waarde die verwacht wordt van de transnationale samenwerking;  
+
+e. afspraken op het gebied van organisatie met betrekking tot: 
+
+1°. de bijdrage en verantwoordelijkheden van elke transnationale partner;  
+
+2°. de coördinatie en besluitvorming;  
+
+3°. de werktaal of werktalen;  
+
+4°. monitoring van de voortgang;  
+
+5°. budgetspecificatie en kostendeling, financieel beheer en het voorkomen van dubbele financiering;  
+
+6°. het om niet ter beschikking stellen aan derden van de producten, bedoeld in artikel A31.    
+
+###Artikel A31 
+
+####Subsidiabele activiteiten
+
+1. Overeenkomstig de doelstellingen, bedoeld in artikel A28, eerste lid, zijn subsidiabel de activiteiten ter ontwikkeling, opzet, uitvoering of verspreiding van de volgende producten: 
+
+a. een methode;  
+
+b. een instrument;  
+
+c. een kennisnetwerk;  
+
+d. een onderzoek;  
+
+e. een evaluatie.  2. De producten, bedoeld in het eerste lid, worden door de subsidieontvanger om niet beschikbaar gesteld aan derden.
+
+###Artikel A32 
+
+####Subsidiabele kosten ter uitvoering van subsidiabele activiteiten
+
+1. Ter uitvoering van de subsidiabele activiteiten van een project in het kader van dit hoofdstuk komen in afwijking van artikel 12, eerste tot en met derde lid, vijfde tot en met zevende lid, en elfde lid, voor subsidiëring uitsluitend redelijke en noodzakelijke kosten in aanmerking. 2. De kosten, bedoeld in het eerste lid, worden voor zover het directe loonkosten van medewerkers in dienst van een in Nederland gevestigde organisatie betreft berekend op basis van het aantal werkelijk gerealiseerde uren tegen een individueel berekend uurtarief op basis van het brutoloon, vermeerderd met een opslag van 32%. Bij het aantal werkbare uren per jaar wordt uitgegaan van 1.720 uren bij een voltijds dienstverband.3. De kosten, bedoeld in het eerste lid, bedragen, voor zover het kosten betreft voor: 
+
+a. een voor het project aangetrokken externe partij uit Nederland ten behoeve van de uitvoering van subsidiabele activiteiten als bedoeld in artikel A31 ten hoogste € 125–, exclusief btw, per uur;  
+
+b. de inzet van een buitenlandse partij of transnationale partner tijdens een internationale reis € 250,– per werkdag;  
+
+c. een internationale vliegreis binnen Europa: het economy class tarief;  
+
+d. een internationale treinreis binnen Europa: het tweede klas tarief;  
+
+e. verblijf in het geval van een internationale reis binnen Europa: de bedragen per overnachting ter dekking van hotelverblijf, maaltijden, drankjes, lokaal vervoer en overige kleine uitgaven, genoemd in bijlage 4.  4. Indien de kosten, bedoeld in het derde lid, onderdelen b, c, d of e, zijn gemaakt ten behoeve van een buitenlandse partij of transnationale partij, wordt door middel van een schriftelijke verklaring voorzien van de handtekening van de desbetreffende afgevaardigde van de buitenlandse partij of transnationale partner aangetoond dat de kosten niet elders worden gedeclareerd.5. Het vierde lid is van overeenkomstige toepassing ten aanzien van een bij het project betrokken partij of partijen in Nederland, indien de genoemde kosten betaald door deze partijen ten behoeve van hetzelfde project worden verantwoord.6. De kosten, bedoeld in het eerste lid, zijn door of op verzoek van de subsidieontvanger daadwerkelijk gemaakt en betaald, ten laste van het project gebleven en rechtstreeks aan de uitvoering van het project toe te rekenen.
+
+###Artikel A33 
+
+####Subsidiabele kosten ten behoeve van het beheer van het project
+
+1. Ten behoeve van het beheer van een project in het kader van dit hoofdstuk komen in afwijking van artikel 12, eerste tot en met derde lid, vijfde tot en met zevende lid, en elfde lid, voor subsidiëring uitsluitend in aanmerking: 
+
+a. loonkosten van medewerkers in dienst van een in Nederland gevestigde organisatie die direct te relateren zijn aan coördinatie en administratie van het project;  
+
+b. externe kosten projectcoördinatie en -administratie;  
+
+c. een internationale vliegreis binnen Europa: het economy class tarief;  
+
+d. een internationale treinreis binnen Europa: het tweede klas tarief;  
+
+e. verblijf in het geval van een internationale reis binnen Europa: de bedragen per overnachting ter dekking van hotelverblijf, maaltijden, drankjes, lokaal vervoer en overige kleine uitgaven, genoemd in bijlage 4.  2. De kosten, bedoeld in het eerste lid, onderdeel a, worden berekend op basis van het aantal werkelijk gerealiseerde uren tegen een individueel berekend uurtarief op basis van het brutoloon, vermeerderd met een opslag van 32%. Bij het aantal werkbare uren per jaar wordt uitgegaan van 1.720 uren bij een voltijds dienstverband.3. De kosten, bedoeld in het eerste lid, zijn door of op verzoek van de subsidieontvanger daadwerkelijk gemaakt en betaald, ten laste van het project gebleven en rechtstreeks aan het beheer van het project toe te rekenen. Deze kosten bedragen ten hoogste 20% van de kosten, bedoeld in artikel A32.
+
+###Artikel A34 
+
+####Niet-subsidiabele kosten
+
+Onverminderd artikel 13 komen niet voor subsidie in aanmerking: 
+
+a. overhead- en exploitatiekosten, waaronder in ieder geval huisvestingskosten, kosten voor een werkplek, afschrijvingskosten en relatiegeschenken;  
+
+b. kosten gemaakt door transnationale partners, met uitzondering van reis- en verblijfskosten en het dagtarief, bedoeld in artikel A32, derde lid, onderdelen b, c, d en e;  
+
+c. reiskosten, met uitzondering van de reiskosten, genoemd in de artikelen A32, derde lid, onderdelen c en d, A33, eerste lid, onderdelen c, d en e, en bijlage 4.  
+
+###Artikel A35 
+
+####Administratievoorschriften
+
+In afwijking van artikel 15, tweede lid, is de projectadministratie van de subsidieontvanger in het kader van transnationale samenwerking voor controle beschikbaar op één locatie in Nederland.
+
+###Artikel A36 
+
+####Bevoorschotting
+
+Onverminderd artikel 14 verleent de minister, in het kader van dit hoofdstuk, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, indien: 
+
+a. de subsidieontvanger dit heeft verzocht in zijn subsidieaanvraag;  
+
+b. een voortgangsrapportage is ontvangen en beoordeeld; en  
+
+c. uit de beoordeling van de voortgangsrapportage blijkt dat de gerapporteerde kosten zijn gespecificeerd en financieel en inhoudelijk voldoende zijn onderbouwd.  
+
+###Artikel A37 
+
+####Uitzonderingen op algemeen deel
+
+De artikelen 7, eerste en vijfde lid, 17, eerste lid, en 18, derde lid, zijn niet van toepassing op subsidieaanvragen in het kader van dit hoofdstuk.
 
 ### Investeringsprioriteit B 
 
@@ -816,4 +1012,53 @@ c. Vaststellingen na accorderen door de leidinggevende niet meer te wijzigen zij
 | Roermond  | Midden-Limburg  | € 1.160.000  |
 | Heerlen  | Zuid-Limburg  | € 5.737.000  |
 | Totaal  | --- | € 113.999.500  |
+
+### Bijlage  4  
+
+####Overzicht vaste bedragen voor verblijfskosten
+
+| Europees land  | Bedrag per overnachting in €  |
+|:---|:---|
+| Albanië  | 233  |
+| België  | 232  |
+| Bosnië en Herzegovina  | 130  |
+| Bulgarije  | 227  |
+| Cyprus  | 238  |
+| Denemarken  | 270  |
+| Duitsland  | 208  |
+| Estland  | 181  |
+| Finland  | 244  |
+| Frankrijk  | 245  |
+| Griekenland  | 222  |
+| Hongarije  | 222  |
+| Ierland  | 254  |
+| IJsland  | 261  |
+| Italië  | 230  |
+| Kazachstan  | 292  |
+| Kroatië  | 180  |
+| Letland  | 211  |
+| Litouwen  | 183  |
+| Luxemburg  | 237  |
+| Macedonië  | 171  |
+| Malta  | 205  |
+| Moldavië  | 173  |
+| Monaco  | 268  |
+| Montenegro  | 143  |
+| Nederland  | 263  |
+| Noorwegen  | 260  |
+| Oekraïne  | 316  |
+| Oostenrijk  | 225  |
+| Polen  | 217  |
+| Portugal  | 204  |
+| Roemenië  | 222  |
+| Rusland  | 364  |
+| Servië  | 158  |
+| Slowakije  | 205  |
+| Slovenië  | 180  |
+| Spanje  | 212  |
+| Tsjechië  | 230  |
+| Verenigd Koninkrijk  | 276  |
+| Wit-Rusland  | 171  |
+| Zweden  | 257  |
+| Zwitserland  | 301  |
 

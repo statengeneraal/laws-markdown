@@ -121,14 +121,14 @@ f. de rijinstructeur kan de ontwikkeling in de rijvaardigheid van de leerling be
 3.  Voor de toepassing van het eerste en het tweede lid voldoet de aanvrager wat de daar bedoelde eisen betreft in het bijzonder aan de eisen voor zover die eisen betrekking hebben op de categorie motorrijtuigen waarvoor afgifte van een certificaat wordt gevraagd.  
 
 ### Artikel  6a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  Indien het de afgifte betreft van een certificaat voor het geven van rijonderricht als bedoeld in artikel 9, eerste lid, onderdeel a, van de wet met betrekking tot motorrijtuigen van de categorie T, en de aanvrager niet beschikt over een certificaat als bedoeld in artikel 7, eerste lid, van de wet, voor de categorie B, voldoet de aanvrager aan de in artikel 5 genoemde eisen.   
 2.  Indien het de afgifte betreft van een certificaat voor het geven van rijonderricht als bedoeld in artikel 9a, eerste lid, van de wet met betrekking tot motorrijtuigen van de categorie T, en de aanvrager beschikt over een certificaat als bedoeld in artikel 7, eerste lid, van de wet voor de rijbewijscategorie B, maar niet over het certificaat voor de rijbewijscategorie E bij C, voldoet hij aan de in artikel 5, aanhef en onderdeel 1, genoemde eisen.   
 3.  Indien het de afgifte betreft van een certificaat voor het geven van rijonderricht als bedoeld in artikel 7, vijfde lid, van de wet, en de aanvrager mede beschikt over een certificaat als bedoeld in artikel 7, eerste lid, van de wet, voor de rijbewijscategorie E bij C, voldoet hij aan de in artikel 5, aanhef en onderdeel 1, genoemde eisen.  
 
 ### Artikel  6b  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de eisen, bedoeld in artikel 5. 
 
@@ -149,7 +149,7 @@ c. de rijinstructeur kan de ontwikkeling in de rijvaardigheid van de leerling be
 d. de rijinstructeur kan reflecteren op zijn handelen als opleider en zodanig evalueren dat de resultaten daarvan aanwijzingen geven voor bijstelling van dat handelen.   
 
 ### Artikel  7a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Artikel 7 is van overeenkomstige toepassing op het geven van rijonderricht, bedoeld in artikel 9, eerste lid, onderdeel b, van de wet ten behoeve van de categorie T, alsmede ten behoeve van 9a, tweede lid, van de wet. 
 

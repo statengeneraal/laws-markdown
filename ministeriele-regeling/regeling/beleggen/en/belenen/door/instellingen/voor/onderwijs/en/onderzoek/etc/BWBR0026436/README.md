@@ -5,7 +5,7 @@
 De Minister van Onderwijs, Cultuur en Wetenschap,  
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-Gelet op [artikel 148 van de Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 143 van de Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 99 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [artikel 2.5.3, tweede lid](../../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 2.5.10 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [artikel 2.9, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en [artikel 22 van de TNO-wet](../../../../../../../../../../../../../wet/tno-wet/BWBR0003906/README.md);
+Gelet op artikel 148 van de Wet op het primair onderwijs, artikel 143 van de Wet op de expertisecentra, artikel 99 van de Wet op het voortgezet onderwijs, artikel 2.5.3, tweede lid en artikel 2.5.10 van de Wet educatie en beroepsonderwijs, artikel 2.9, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, en artikel 22 van de TNO-wet;
 Besluit:    
 
 ### Artikel  1  
@@ -16,11 +16,11 @@ In deze regeling wordt verstaan onder:
 
 *derivaat:* contract met betrekking tot een transactie gericht op het beperken van financiële risico’s, waarin is bepaald dat het moment waarop deze transactie zal of kan plaatsvinden afhankelijk is van bepaalde voorwaarden en dat de waarde van deze transactie afhankelijk is van één of meer onderliggende activa, referentieprijzen of indices;  
 
-*financiële onderneming:* onderneming als bedoeld in de [Wet op het financieel toezicht](../../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die het bedrijf van kredietinstelling mag uitoefenen, beleggingsdiensten mag verlenen, beleggingsinstellingen mag beheren, rechten van deelneming in een beleggingsmaatschappij mag aanbieden, of het bedrijf van verzekeraar mag uitoefenen;  
+*financiële onderneming:* onderneming als bedoeld in de Wet op het financieel toezicht die het bedrijf van kredietinstelling mag uitoefenen, beleggingsdiensten mag verlenen, beleggingsinstellingen mag beheren, rechten van deelneming in een beleggingsmaatschappij mag aanbieden, of het bedrijf van verzekeraar mag uitoefenen;  
 
-*instelling:* door de Minister bekostigde onderwijsaanbieder als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 1](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 28b van de Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), met uitzondering van de onderwijsaanbieders, bedoeld in [titel II, afdeling II van die wet](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [artikel 1.1.1 onder b van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en [artikel 1, onder c, van de TNO-wet](../../../../../../../../../../../../../wet/tno-wet/BWBR0003906/README.md) en niet aangewezen op grond van [artikel 45, eerste of derde lid van de Comptabiliteitswet 2001](../../../../../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md);  
+*instelling:* door de Minister bekostigde onderwijsaanbieder als bedoeld in artikel 1 van de Wet op het primair onderwijs, artikel 1 en artikel 28b van de Wet op de expertisecentra, artikel 1 van de Wet op het voortgezet onderwijs, met uitzondering van de onderwijsaanbieders, bedoeld in titel II, afdeling II van die wet, artikel 1.1.1 onder b van de Wet educatie en beroepsonderwijs, artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en artikel 1, onder c, van de TNO-wet en niet aangewezen op grond van artikel 45, eerste of derde lid van de Comptabiliteitswet 2001;  
 
-*jaarverslaggeving:* verantwoording van de instelling conform [Titel 9 van boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) die minimaal bestaat uit het bestuursverslag en de jaarrekening, voor het onderwijs het jaarverslag, de jaarrekening en de overige gegevens, bedoeld in [artikel 1 onder c. van de Regeling Jaarverslaggeving Onderwijs](../../../../../../../../../../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md);  
+*jaarverslaggeving:* verantwoording van de instelling conform Titel 9 van boek 2 van het Burgerlijk Wetboek die minimaal bestaat uit het bestuursverslag en de jaarrekening, voor het onderwijs het jaarverslag, de jaarrekening en de overige gegevens, bedoeld in artikel 1 onder c. van de Regeling Jaarverslaggeving Onderwijs;  
 
 *kasstroomprognose:* liquiditeitsplanning voor de korte termijn en de financieringsplanning voor de lange termijn;  
 
@@ -76,7 +76,7 @@ b. beleggings- en beleningsvormen voor een periode van meer dan drie maanden mog
 
 ####Intrekking andere regeling(en)
 
-De [Regeling beleggen en belenen door instellingen voor onderwijs en onderzoek](../../../../../../../../../../../../../ministeriele-regeling/regeling/beleggen/en/belenen/door/instellingen/voor/onderwijs/en/onderzoek/BWBR0021232/README.md) wordt ingetrokken. 
+De Regeling beleggen en belenen door instellingen voor onderwijs en onderzoek wordt ingetrokken. 
 
 ### Artikel  5  
 
