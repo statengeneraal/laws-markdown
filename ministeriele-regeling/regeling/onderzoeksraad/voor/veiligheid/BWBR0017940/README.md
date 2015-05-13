@@ -3,7 +3,7 @@
 ##Regeling Onderzoeksraad voor veiligheid
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,
-Gelet op Richtlijn nr. 1999/35/EG van de Raad van de Europese Unie van 29 april 1999 betreffende een stelsel van verplichte onderzoeken voor de veilige exploitatie van geregelde diensten met ro-ro-veerboten en hogesnelheidspassagiersvaartuigen (PbEG L 138) alsmede op de [artikelen 22, tweede lid](../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md), [27](../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md), [29](../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md), [44](../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md), [45, zesde lid](../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md), [46](../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md), [53](../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md), en [55, vijfde lid, van de Rijkswet Onderzoeksraad voor veiligheid](../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md), [artikel 4, derde en vierde lid, van het Rijksbesluit Onderzoeksraad voor veiligheid](../../../../../../rijksKB/rijksbesluit/onderzoeksraad/voor/veiligheid/BWBR0017680/README.md) en de [artikelen 1, eerste lid, onderdeel o](../../../../../../AMvB/besluit/onderzoeksraad/voor/veiligheid/BWBR0017681/README.md), [11](../../../../../../AMvB/besluit/onderzoeksraad/voor/veiligheid/BWBR0017681/README.md) en [13 van het Besluit Onderzoeksraad voor veiligheid](../../../../../../AMvB/besluit/onderzoeksraad/voor/veiligheid/BWBR0017681/README.md); 
+Gelet op Richtlijn nr. 1999/35/EG van de Raad van de Europese Unie van 29 april 1999 betreffende een stelsel van verplichte onderzoeken voor de veilige exploitatie van geregelde diensten met ro-ro-veerboten en hogesnelheidspassagiersvaartuigen (PbEG L 138) alsmede op de artikelen 22, tweede lid, 27, 29, 44, 45, zesde lid, 46, 53, en 55, vijfde lid, van de Rijkswet Onderzoeksraad voor veiligheid, artikel 4, derde en vierde lid, van het Rijksbesluit Onderzoeksraad voor veiligheid en de artikelen 1, eerste lid, onderdeel o, 11 en 13 van het Besluit Onderzoeksraad voor veiligheid; 
 Besluit:
 ###§ 1 
 
@@ -13,7 +13,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. rijkswet: [Rijkswet Onderzoeksraad voor veiligheid](../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md);  
+a. rijkswet: Rijkswet Onderzoeksraad voor veiligheid;  
 
 b. scheepvaartongeval: een gebeurtenis die heeft geresulteerd in: 
 
@@ -83,7 +83,7 @@ o. richtlijn 2004/49/EG: richtlijn nr. 2004/49/EG van het Europees Parlement en 
 
 p. richtlijn 2009/18/EG: richtlijn nr. 2009/18/EG van het Europees Parlement en van de Raad van Europese Unie van 23 april 2009 tot vaststelling van de grondbeginselen voor het onderzoek van ongevallen in de scheepvaartsector en tot wijziging van de Richtlijn 1999/35/EG van de Raad en Richtlijn 2002/59/EG van het Europees Parlement en de Raad (PbEU 2009, L 131); 
 
-q. spoorweg: het spoorwegsysteem als bedoeld in richtlijn nr. 2004/49/EG voor zover dit systeem is aangewezen in het [Besluit aanwijzing hoofdspoorwegen](../../../../../../KB/besluit/aanwijzing/hoofdspoorwegen/BWBR0017794/README.md).  
+q. spoorweg: het spoorwegsysteem als bedoeld in richtlijn nr. 2004/49/EG voor zover dit systeem is aangewezen in het Besluit aanwijzing hoofdspoorwegen.  
 
 ###§ 2 
 
@@ -106,7 +106,7 @@ c.een organisatie waarvan het beheer is opgedragen aan de Minister van Defensie.
 
 ###Artikel 3 
 
-In geval van een voorval met een zeeschip wordt onder staat met aanmerkelijk belang, als bedoeld in [artikel 1, eerste lid, onderdeel o, van het Besluit Onderzoeksraad voor veiligheid](../../../../../../AMvB/besluit/onderzoeksraad/voor/veiligheid/BWBR0017681/README.md), verstaan:
+In geval van een voorval met een zeeschip wordt onder staat met aanmerkelijk belang, als bedoeld in artikel 1, eerste lid, onderdeel o, van het Besluit Onderzoeksraad voor veiligheid, verstaan:
 
 a.een staat waarvan een zeeschip dat voorwerp is van het betrokken onderzoek door de raad, de vlag voert;
 
@@ -131,7 +131,7 @@ g.een staat die in verband met het onderzoek van het betrokken scheepvaartongeva
 1. De begroting van de raad omvat, naast een algemeen deel een begrotingsoverzicht, een overzicht van de ontwikkeling van het eigen vermogen, een kasstroomoverzicht en een toelichting.
 2. In het begrotingsoverzicht worden onder baten ten minste de volgende posten gespecificeerd:
 
-a.de bijdragen, bedoeld in [artikel 19 van de rijkswet](../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md);
+a.de bijdragen, bedoeld in artikel 19 van de rijkswet;
 
 b.de bijzondere rijksbijdragen;
 
@@ -151,7 +151,7 @@ d.de afschrijvingskosten, onderverdeeld naar materiële en immateriële kosten;
 e.de dotaties voor voorzieningen;
 
 f.de buitengewone lasten.
-4. Bij het overzicht van het eigen vermogen wordt de egalisatiereserve opgenomen. De maximale omvang van het vermogen en de maximale omvang van de egalisatiereserve worden vastgesteld op 5 procent respectievelijk 10 procent van de over de voorgaande 3 jaar toegekende gemiddelde structurele bijdrage, bedoeld in [artikel 19, eerste lid, van de rijkswet](../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md).
+4. Bij het overzicht van het eigen vermogen wordt de egalisatiereserve opgenomen. De maximale omvang van het vermogen en de maximale omvang van de egalisatiereserve worden vastgesteld op 5 procent respectievelijk 10 procent van de over de voorgaande 3 jaar toegekende gemiddelde structurele bijdrage, bedoeld in artikel 19, eerste lid, van de rijkswet.
 5. In het kasstroomoverzicht worden de kapitaaluitgaven- en ontvangsten weergegeven.
 6. De overzichten, genoemd in het eerste lid, hebben betrekking op de realisatie van het laatst afgesloten boekjaar, het lopende boekjaar, het betreffende begrotingsjaar en de eerstvolgende vier boekjaren.
 7. De toelichting, bedoeld in het eerste lid, omvat een toelichting op de in het eerste lid genoemde overzichten en een toelichting op de posten van die overzichten die inzicht geeft in de opbouw van de desbetreffende posten. De toelichting bevat voorts ten minste:
@@ -242,7 +242,7 @@ d. de internationale burgerluchtvaartorganisatie indien het om een luchtvaartuig
 
 ### Artikel  8a  
 
-1.  Indien de raad een onderzoek instelt naar een voorval in verband met een spoorweg zendt de raad zo spoedig mogelijk een melding ter zake aan het Europees Spoorwegbureau, genoemd in artikel 1, van verordening (EG) nr. 881/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 tot oprichting van een Europees Spoorwegbureau (‘Spoorwegbureauverordening’) (PbEG L 164).   
+1.  Indien de raad een onderzoek instelt naar een voorval in verband met een spoorweg zendt de raad binnen één week nadat besloten is een onderzoek in te stellen een melding ter zake aan het Europees Spoorwegbureau, genoemd in artikel 1, van verordening (EG) nr. 881/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 tot oprichting van een Europees Spoorwegbureau (‘Spoorwegbureauverordening’) (PbEG L 164).   
 2.  De melding bevat de datum, de tijd, en de plaats van het voorval, alsmede het type voorval en de gevolgen ervan in termen van doden, gewonden en materiële schade.  
 
 ###Artikel 9 
@@ -272,13 +272,13 @@ h.de internationale burgerluchtvaartorganisatie indien het om een luchtvaartuig 
 
 Zo spoedig mogelijk na het onderzoek zendt de raad in geval van een onderzoek naar een luchtvaartongeval met een luchtvaartuig met een startmassa van meer dan 2250 kg of een ernstig luchtvaartincident met een luchtvaartuig met een startmassa van meer dan 5700 kg een bericht met uit het onderzoek naar voren gekomen gegevens naar de internationale burgerluchtvaartorganisatie.
 
-###§ 7 
+### §  7  
 
 ####Vertegenwoordiger ander land
 
 ###Artikel 11 
 
-De raad is, in geval van een luchtvaartongeval of een luchtvaartincident, verplicht een vertegenwoordiger als bedoeld in [artikel 45, eerste lid, van de rijkswet](../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md), en een deskundige als bedoeld in [artikel 45, vierde lid, van de rijkswet](../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md), aan het onderzoek te laten deelnemen, indien daartoe een verzoek wordt gedaan door:
+De raad is, in geval van een luchtvaartongeval of een luchtvaartincident, verplicht een vertegenwoordiger als bedoeld in artikel 45, eerste lid, van de rijkswet, en een deskundige als bedoeld in artikel 45, vierde lid, van de rijkswet, aan het onderzoek te laten deelnemen, indien daartoe een verzoek wordt gedaan door:
 
 a.de staat waar het luchtvaartuig is ingeschreven,
 
@@ -293,6 +293,10 @@ e.een staat die op verzoek van de raad informatie, voorzieningen of deskundigen 
 ###Artikel 12 
 
 De raad is, in geval van een scheepvaartongeval of een scheepvaartincident met een zeeschip, verplicht staten met aanmerkelijk belang uit te nodigen een verzoek te doen een vertegenwoordiger te laten deelnemen aan het onderzoek.
+
+### Artikel  12a  
+
+Indien de raad een onderzoek instelt naar een voorval, waar een spoorwegonderneming als bedoeld in artikel 3, onder c, van richtlijn 2004/49/EG met een vergunning van een andere lidstaat bij betrokken is, nodigt hij het onderzoeksorgaan, bedoeld in artikel 21 van richtlijn 2004/49/EG, van die lidstaat uit deel te nemen aan het onderzoek. 
 
 ###§ 8 
 
@@ -318,7 +322,7 @@ e.een afschrift van het eindrapport te ontvangen.
 
 ###Artikel 14 
 
-De raad stelt het rapport, bedoeld in [artikel 55, eerste lid, van de rijkswet](../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md), op in een bij de aard en de ernst van het voorval passende vorm en hanteert zoveel mogelijk een uniform model.
+De raad stelt het rapport, bedoeld in artikel 55, eerste lid, van de rijkswet, op in een bij de aard en de ernst van het voorval passende vorm en hanteert zoveel mogelijk een uniform model.
 
 ### Artikel  15  
 
@@ -357,11 +361,11 @@ e. de staat van vervaardiging,
 
 f. de staat waarvan onderdanen bij het ongeval zijn omgekomen of ernstig zijn verwond, en  
 
-g. de staat die overeenkomstig [artikel 45 van de rijkswet](../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md) betrokken is bij het onderzoek of relevante informatie of faciliteiten heeft verstrekt.     
+g. de staat die overeenkomstig artikel 45 van de rijkswet betrokken is bij het onderzoek of relevante informatie of faciliteiten heeft verstrekt.     
 2.  In geval van een onderzoek betreffende een luchtvaartongeval of luchtvaartincident met een luchtvaartuig met een startmassa van meer dan 5700 kg, zendt de raad tevenseen afschrift van zijn rapport aan de internationale burgerluchtvaartorganisatie.   
 3.  In geval van een onderzoek betreffende een scheepvaartongeval of een scheepvaartincident met een zeeschip, zendt de raad een afschrift van zijn rapport aan de Internationale Maritieme Organisatie.   
 4.  In geval van een onderzoek betreffende een scheepvaartongeval, met inbegrip van een ongeval met een ro-ro-veerboot of een hogesnelheidspassagiervaartuig, of een zeevaartincident met een zeeschip, zendt de raad tevens een afschrift van zijn rapport aan de Europese Commissie.   
-5.  In geval van een onderzoek betreffende een zwaar ongeval waarbij gevaarlijke stoffen zijn betrokken als bedoeld in [artikel 8, eerste lid, van het Besluit Onderzoeksraad voor veiligheid](../../../../../../AMvB/besluit/onderzoeksraad/voor/veiligheid/BWBR0017681/README.md), zendt de raad een afschrift van zijn rapport aan de Europese Commissie.  
+5.  In geval van een onderzoek betreffende een zwaar ongeval waarbij gevaarlijke stoffen zijn betrokken als bedoeld in artikel 8, eerste lid, van het Besluit Onderzoeksraad voor veiligheid, zendt de raad een afschrift van zijn rapport aan de Europese Commissie.  
 
 ### Artikel  17a  
 
@@ -379,9 +383,9 @@ Een wijziging van bijlage V bij richtlijn 2004/49/EG gaat voor de toepassing van
 
 ###Artikel 18 
 
-1. Het deeltijdpercentage, bedoeld in [artikel 4, derde lid, van het Rijksbesluit Onderzoeksraad voor veiligheid](../../../../../../rijksKB/rijksbesluit/onderzoeksraad/voor/veiligheid/BWBR0017680/README.md), bedraagt voor de voorzitter 100 procent en voor de overige leden 60 procent.
-2. Het percentage, bedoeld in [artikel 4, vierde lid, van het Rijksbesluit Onderzoeksraad voor veiligheid](../../../../../../rijksKB/rijksbesluit/onderzoeksraad/voor/veiligheid/BWBR0017680/README.md), bedraagt een half procent van het jaarsalaris van het in [artikel 4, tweede lid, onderdeel c, van genoemd besluit](../../../../../../rijksKB/rijksbesluit/onderzoeksraad/voor/veiligheid/BWBR0017680/README.md) genoemde vergoeding, vermenigvuldigd met het aantal door betrokkene bijgewoonde vergaderingen van de raad of van een commissie.
-3. De schadeloosstelling aan getuigen, deskundigen en tolken als bedoeld in [artikel 53 van de rijkswet](../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md) wordt vastgesteld overeenkomstig de [Wet tarieven in strafzaken](../../../../../../wet/wet/tarieven/in/strafzaken/BWBR0002406/README.md).
+1. Het deeltijdpercentage, bedoeld in artikel 4, derde lid, van het Rijksbesluit Onderzoeksraad voor veiligheid, bedraagt voor de voorzitter 100 procent en voor de overige leden 60 procent.
+2. Het percentage, bedoeld in artikel 4, vierde lid, van het Rijksbesluit Onderzoeksraad voor veiligheid, bedraagt een half procent van het jaarsalaris van het in artikel 4, tweede lid, onderdeel c, van genoemd besluit genoemde vergoeding, vermenigvuldigd met het aantal door betrokkene bijgewoonde vergaderingen van de raad of van een commissie.
+3. De schadeloosstelling aan getuigen, deskundigen en tolken als bedoeld in artikel 53 van de rijkswet wordt vastgesteld overeenkomstig de Wet tarieven in strafzaken.
 
 ###§ 11 
 
@@ -397,7 +401,7 @@ Wijzigt de Regeling risico’s zware ongevallen 1999.
 
 ###Artikel 21 
 
-Deze regeling treedt in werking op het krachtens [artikel 97, eerste lid, eerste volzin, van de rijkswet](../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md) vastgestelde tijdstip.
+Deze regeling treedt in werking op het krachtens artikel 97, eerste lid, eerste volzin, van de rijkswet vastgestelde tijdstip.
 
 ###Artikel 22 
 

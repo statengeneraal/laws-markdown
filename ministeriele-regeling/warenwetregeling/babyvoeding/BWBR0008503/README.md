@@ -312,10 +312,10 @@ Het natriumgehalte van bewerkte eet- of drinkwaren op basis van granen is niet h
 |:---|:---|:---|:---|:---|
 | --- | *Per 100 kJ*  | --- | *Per 100 kcal*  | --- |
 | --- | *minimaal*  | *maximaal*  | *minimaal*  | *maximaal*  |
-| Vitamine A (µg-RE) <sup> (¹)  RE=all-transretinol-equivalent.  </sup>  | 14  | 43  | 60  | 80  |
-| Vitamine D (µg) <sup> (²)  In de vorm van cholecalciferol, waarvan 10 µg = 400 i.e. vitamine D.  </sup>  | 0,25  | 0,75  | 1  | 3  |
+| Vitamine A (µg-RE) (¹)  | 14  | 43  | 60  | 180  |
+| Vitamine D (µg) (²)  | 0,25  | 0,75  | 1  | 3  |
 
-Deze grenswaarden zijn ook van toepassing indien de vitamines A en D aan andere bewerkte eet- of drinkwaren op basis van granen worden toegevoegd.   
+(¹) RE=all-transretinol-equivalent.(²) In de vorm van cholecalciferol, waarvan 10 µg = 400 i.e. vitamine D.Deze grenswaarden zijn ook van toepassing indien de vitamines A en D aan andere bewerkte eet- of drinkwaren op basis van granen worden toegevoegd.   
 
 ### Bijlage III  
 
@@ -433,9 +433,9 @@ Deze bijlage behoort bij artikel 6, onder c.
 ####Referentiewaarden voor de voedingswaarde-etikettering van voedingsmiddelen voor zuigelingen en peuters
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | *Voedingsstof*  | *Referentie-waarde voor etikettering*  |
-| Vitamine A  | (mg) 400  |
+| Vitamine A  | (µg) 400  |
 | Vitamine D  | (µg) 10  |
 | Vitamine C  | (mg) 25  |
 | Thiamine, vitamine B<sub>1</sub>  | (mg) 0,5  |

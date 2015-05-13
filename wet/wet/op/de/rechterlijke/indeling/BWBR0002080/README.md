@@ -64,7 +64,7 @@ Het arrondissement Amsterdam omvat het grondgebied van de gemeenten Aalsmeer, Am
 
 ### Artikel  5  
 
-Het arrondissement Den Haag omvat het grondgebied van de gemeenten Alphen aan den Rijn, Bergambacht, Bodegraven-Reeuwijk, Delft, Gouda, ’s-Gravenhage, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Leidschendam-Voorburg, Lisse, Midden-Delfland, Nederlek, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Ouderkerk, Pijnacker-Nootdorp, Rijswijk, Schoonhoven, Teylingen, Vlist, Voorschoten, Waddinxveen, Wassenaar, Westland, Zoetermeer, Zoeterwoude en Zuidplas. 
+Het arrondissement Den Haag omvat het grondgebied van de gemeenten Alphen aan den Rijn, Bodegraven-Reeuwijk, Delft, Gouda, ’s-Gravenhage, Hillegom, Kaag en Braassem, Katwijk, Krimpenerwaard, Leiden, Leiderdorp, Leidschendam-Voorburg, Lisse, Midden-Delfland, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Pijnacker-Nootdorp, Rijswijk, Teylingen, Voorschoten, Waddinxveen, Wassenaar, Westland, Zoetermeer, Zoeterwoude en Zuidplas. 
 
 ### Artikel  5a  
 
@@ -80,7 +80,7 @@ Het arrondissement Midden-Nederland omvat het grondgebied van de provincies Flev
 
 ### Artikel  8  
 
-Het arrondissement Noord-Holland omvat het grondgebied van de gemeenten Alkmaar, Beemster, Bergen, Beverwijk, Bloemendaal, Castricum Den Helder, Drechterland, Edam-Volendam, Enkhuizen, Graft-De Rijp, Haarlem, Haarlemmerliede en Spaarnwoude, Haarlemmermeer, Heemskerk, Heemstede, Heerhugowaard, Heiloo, Hollands Kroon, Hoorn, Koggenland, Landsmeer, Langedijk, Medemblik, Oostzaan, Opmeer, Purmerend, Schagen, Schermer, Stede Broec, Texel, Uitgeest, Velsen, Watersland, Wormerland, Zaanstad, Zandvoort en Zeevang. 
+Het arrondissement Noord-Holland omvat het grondgebied van de gemeenten Alkmaar, Beemster, Bergen, Beverwijk, Bloemendaal, Castricum Den Helder, Drechterland, Edam-Volendam, Enkhuizen, Haarlem, Haarlemmerliede en Spaarnwoude, Haarlemmermeer, Heemskerk, Heemstede, Heerhugowaard, Heiloo, Hollands Kroon, Hoorn, Koggenland, Landsmeer, Langedijk, Medemblik, Oostzaan, Opmeer, Purmerend, Schagen, Stede Broec, Texel, Uitgeest, Velsen, Watersland, Wormerland, Zaanstad, Zandvoort en Zeevang. 
 
 ### Artikel  9  
 
@@ -88,7 +88,7 @@ Het arrondissement Noord-Nederland omvat het grondgebied van de provincies Drent
 
 ### Artikel  10  
 
-Het arrondissement Oost-Brabant omvat het grondgebied van de gemeenten Asten, Bergeijk, Bernheze, Best, Bladel, Boekel, Boxmeer, Boxtel, Cranendonck, Cuijk, Deurne, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Grave, Haaren, Heeze-Leende, Helmond, ’s-Hertogenbosch, Heusden, Laarbeek, Landerd, Maasdonk, Mill en St. Hubert, Nuenen, Gerwen en Nederwetten, Oirschot, Oss, Reusel-De Mierden, Schijndel, Sint Anthonis, Sint-Michielsgestel, Sint-Oedenrode, Someren, Son en Breugel, Uden, Valkenswaard, Veghel, Veldhoven, Vught en Waalre. 
+Het arrondissement Oost-Brabant omvat het grondgebied van de gemeenten Asten, Bergeijk, Bernheze, Best, Bladel, Boekel, Boxmeer, Boxtel, Cranendonck, Cuijk, Deurne, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Grave, Haaren, Heeze-Leende, Helmond, ’s-Hertogenbosch, Heusden, Laarbeek, Landerd, Mill en St. Hubert, Nuenen, Gerwen en Nederwetten, Oirschot, Oss, Reusel-De Mierden, Schijndel, Sint Anthonis, Sint-Michielsgestel, Sint-Oedenrode, Someren, Son en Breugel, Uden, Valkenswaard, Veghel, Veldhoven, Vught en Waalre. 
 
 ### Artikel  11  
 
@@ -96,7 +96,7 @@ Het arrondissement Overijssel omvat het grondgebied van de provincie Overijssel.
 
 ### Artikel  12  
 
-Het arrondissement Rotterdam omvat het grondgebied van de gemeenten Alblasserdam, Albrandswaard, Barendrecht, Bernisse, Binnenmaas, Brielle, Capelle aan den IJssel, Cromstrijen, Dordrecht, Giessenlanden, Goeree-Overflakkee, Gorinchem, Hardinxveld-Giessendam, Hellevoetsluis, Hendrik-Ido-Ambacht, Korendijk, Krimpen aan den IJssel, Lansingerland, Leerdam, Maassluis, Molenwaard, Oud-Beijerland, Papendrecht, Ridderkerk, Rotterdam, Schiedam, Sliedrecht, Spijkenisse, Strijen, Vlaardingen, Westvoorne, Zederik en Zwijndrecht. 
+Het arrondissement Rotterdam omvat het grondgebied van de gemeenten Alblasserdam, Albrandswaard, Barendrecht, Binnenmaas, Brielle, Capelle aan den IJssel, Cromstrijen, Dordrecht, Giessenlanden, Goeree-Overflakkee, Gorinchem, Hardinxveld-Giessendam, Hellevoetsluis, Hendrik-Ido-Ambacht, Korendijk, Krimpen aan den IJssel, Lansingerland, Leerdam, Maassluis, Molenwaard, Nissewaard, Oud-Beijerland, Papendrecht, Ridderkerk, Rotterdam, Schiedam, Sliedrecht, Strijen, Vlaardingen, Westvoorne, Zederik en Zwijndrecht. 
 
 ### Artikel  13  
 

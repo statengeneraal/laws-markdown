@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 16 juni 2008, nr. VGP/PSL 2854948, houdende tijdelijke regels inzake de kinderveiligheid van aanstekers ter uitvoering van beschikking 2006/502/EG (Warenwetregeling kinderveilige aanstekers)
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op beschikking nr. 2006/502/EG van de Commissie van de Europese Gemeenschappen van 11 mei 2006 waarbij de lidstaten worden verplicht maatregelen te treffen om ervoor te zorgen dat uitsluitend kinderveilige aanstekers op de markt worden gebracht en dat het op de markt brengen van ‘novelty lighters’ wordt verboden (PbEU L 198), alsmede op [artikel 2d van het Warenwetbesluit algemene productveiligheid](../../../../../AMvB/warenwetbesluit/algemene/productveiligheid/BWBR0006158/README.md);
+Gelet op beschikking nr. 2006/502/EG van de Commissie van de Europese Gemeenschappen van 11 mei 2006 waarbij de lidstaten worden verplicht maatregelen te treffen om ervoor te zorgen dat uitsluitend kinderveilige aanstekers op de markt worden gebracht en dat het op de markt brengen van ‘novelty lighters’ wordt verboden (PbEU L 198), alsmede op artikel 2d van het Warenwetbesluit algemene productveiligheid;
 Besluit:    
 
 ### Artikel  1  
@@ -22,9 +22,9 @@ e. model wegwerpaansteker: aansteker, bedoeld in artikel 1, vierde lid, van besc
 
 f. kinderveiligheidstest: test, bedoeld in artikel 1, vijfde lid, van beschikking 2006/502/EG;  
 
-g. producent: producent, bedoeld in [artikel 1, eerste lid, onder b, van het Warenwetbesluit algemene productveiligheid](../../../../../AMvB/warenwetbesluit/algemene/productveiligheid/BWBR0006158/README.md);  
+g. producent: producent, bedoeld in artikel 1, eerste lid, onder b, van het Warenwetbesluit algemene productveiligheid;  
 
-h. distributeur: distributeur, bedoeld in [artikel 1, eerste lid, onder c, van het Warenwetbesluit algemene productveiligheid](../../../../../AMvB/warenwetbesluit/algemene/productveiligheid/BWBR0006158/README.md);  
+h. distributeur: distributeur, bedoeld in artikel 1, eerste lid, onder c, van het Warenwetbesluit algemene productveiligheid;  
 
 i. bevoegde autoriteit: de Nederlandse Voedsel- en Warenautoriteit.   
 
@@ -47,7 +47,7 @@ b. zijn opgesteld door keuringsdiensten, bedoeld in artikel 4, tweede lid, van b
 ### Artikel  4  
 
 1.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
-2.  Deze regeling vervalt met ingang van 12 mei 2015.  
+2.  Deze regeling vervalt met ingang van 12 mei 2016.  
 
 ### Artikel  5  
 

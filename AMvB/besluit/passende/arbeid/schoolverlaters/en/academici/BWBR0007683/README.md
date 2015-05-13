@@ -26,7 +26,7 @@ b.  *schoolverlater:* de persoon die de deelname heeft beëindigd aan onderwijs 
 1°. de eerste dag van de maand waarin geen aanspraak meer bestaat op bedoelde studiefinanciering; onderscheidenlijk  
 
 2°. de eerste dag van de maand volgend op die waarin het onderwijs of de beroepsopleiding daadwerkelijk is beëindigd.       
-2.  Niet als schoolverlater als bedoeld in het eerste lid, onderdeel b, wordt aangemerkt de persoon die na het beëindigen van onderwijs of beroepsopleiding ter zake van arbeid verricht als werknemer, voldoet aan de voorwaarde bedoeld in artikel 17 van de Werkloosheidswet, of gedurende een aaneengesloten periode van ten minste 26 weken zelfstandig in zijn bestaan heeft voorzien. De eerste zin is niet van toepassing indien die arbeid is verricht in het kader van artikel 7, eerste lid, onderdeel a, van de Wet werk en bijstand.  
+2.  Niet als schoolverlater als bedoeld in het eerste lid, onderdeel b, wordt aangemerkt de persoon die na het beëindigen van onderwijs of beroepsopleiding ter zake van arbeid verricht als werknemer, voldoet aan de voorwaarde bedoeld in artikel 17 van de Werkloosheidswet, of gedurende een aaneengesloten periode van ten minste 26 weken zelfstandig in zijn bestaan heeft voorzien. De eerste zin is niet van toepassing indien die arbeid is verricht in het kader van artikel 7, eerste lid, onderdeel a, van de Participatiewet.  
 
 ### Artikel  2  
 
