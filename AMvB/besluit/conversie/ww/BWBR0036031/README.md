@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepaling
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 In dit besluit wordt onder verdisconteerde arbeidsuren verstaan: gemiddeld aantal arbeidsuren per kalenderweek in een andere dienstbetrekking of verschillende andere dienstbetrekkingen dan de dienstbetrekking waaruit de werknemer werkloos is geworden, met uitzondering van een of meer dienstbetrekkingen waarvoor de laatstgenoemde dienstbetrekking in de plaats is gekomen, in de 26 kalenderweken onmiddellijk voorafgaande aan de kalenderweek waarin het arbeidsurenverlies als bedoeld in artikel 16, eerste lid, van de Werkloosheidswet is ingetreden. 
 
@@ -25,7 +25,7 @@ In dit besluit wordt onder verdisconteerde arbeidsuren verstaan: gemiddeld aanta
 
 ####Wijze van omzetting
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  Indien een recht op uitkering op grond van artikel 130aa, eerste lid, van de Werkloosheidswet wordt omgezet, wordt het dagloon van dat recht opnieuw berekend.   
 2.  Het dagloon, bedoeld in het eerste lid, wordt als volgt berekend: A + (B/C) x D. Hierbij staat: A voor het dagloon van het om te zetten recht op uitkering; B voor het aantal verdisconteerde arbeidsuren van het om te zetten recht op uitkering; C voor het gemiddeld aantal arbeidsuren per kalenderweek, in de 26 kalenderweken onmiddellijk voorafgaande aan de kalenderweek waarin het arbeidsurenverlies, bedoeld in artikel 16, eerste lid, van de Werkloosheidswet is ingetreden, dat ten grondslag heeft gelegen aan het recht op uitkering dat is ontstaan op grond van de Werkloosheidswet zoals deze luidt na de datum waarop artikel XXVI, onderdeel S, van de Wet werk en zekerheid in werking is getreden; D voor het dagloon van het recht op uitkering, bedoeld onder C.   
@@ -35,7 +35,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Hardheidsclausule
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Het Uitvoeringsinstituut werknemersverzekeringen kan artikel 2 buiten toepassing laten of daarvan afwijken voor zover toepassing, gelet op het belang van het eerbiedigen van de hoogte van de uitkering na de omzetting, zal leiden tot een onbillijkheid van overwegende aard. 
 
@@ -43,7 +43,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen kan artikel 2 buiten toepassing
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
@@ -51,7 +51,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ####Citeertitel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Dit besluit wordt aangehaald als: Besluit conversie WW. 
 

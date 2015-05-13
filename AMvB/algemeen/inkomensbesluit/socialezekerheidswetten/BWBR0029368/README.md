@@ -569,7 +569,7 @@ b. het recht op uitkering op grond van de Wet werk en inkomen naar arbeidsvermog
 
 ####Overgangsrecht in verband met de Wet werk en zekerheid
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  Indien: 
 

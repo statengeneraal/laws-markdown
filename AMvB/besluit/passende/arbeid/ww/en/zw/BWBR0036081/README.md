@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 In dit besluit wordt verstaan onder: 
 
@@ -39,7 +39,7 @@ In dit besluit wordt verstaan onder:
 
 ####Doelgroep
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Dit besluit is van toepassing op de werknemer die op grond van de Ziektewet of de Werkloosheidswet recht heeft op een uitkering, met uitzondering van de werknemer die recht heeft op een uitkering op grond van de artikelen 29, tweede lid, onderdeel e, 29a, 29b en 29d van de Ziektewet, tenzij hij geen werkgever heeft. 
 
@@ -47,7 +47,7 @@ Dit besluit is van toepassing op de werknemer die op grond van de Ziektewet of d
 
 ####Arbeid aansluitend op het niveau van de arbeid waaruit de werknemer werkloos of ziek is geworden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  Om te bepalen of arbeid aansluit bij het niveau van de arbeid waaruit de werknemer werkloos of ziek is geworden, wordt gebruik gemaakt van de volgende opleidingscategorieën die voor arbeid vereist kunnen worden: 
 
@@ -64,7 +64,7 @@ d. lager (basis) onderwijs en geen onderwijs.
 
 ####Passende arbeid in de eerste zes maanden van de uitkering op grond van de WW of de ZW
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  In de periode voordat zes maanden waarin een recht op uitkering op grond van de Werkloosheidswet of de Ziektewet bestaat, zijn verstreken, is arbeid passend wanneer: 
 
@@ -81,7 +81,7 @@ c. de reistijd niet meer dan twee uur per dag bedraagt.
 
 ####Uitzonderingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Indien er sprake is van een bestaand recht op uitkering op grond van de Werkloosheidswet of de Ziektewet, is artikel 4 van toepassing met dien verstande dat bij opvolgende of meerdere rechten geen nieuwe termijn van zes maanden start. 
 
@@ -89,7 +89,7 @@ Indien er sprake is van een bestaand recht op uitkering op grond van de Werkloos
 
 ####Intrekken Besluit passende arbeid schoolverlaters en academici WW en ZW
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Het Besluit passende arbeid schoolverlaters en academici WW en ZW wordt ingetrokken. 
 
@@ -97,7 +97,7 @@ Het Besluit passende arbeid schoolverlaters en academici WW en ZW wordt ingetrok
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
@@ -105,7 +105,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ####Citeertitel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Dit besluit wordt aangehaald als: Besluit passende arbeid WW en ZW. 
 

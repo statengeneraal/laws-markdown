@@ -220,13 +220,13 @@ b. het bereiken van de leeftijd waarop het uit deze dienstbetrekking voortvloeie
 
 ####Bepalingen voor vaststelling van dagloon ZW en Wazo
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 ### Artikel  12a  
 
 ####Werknemer
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Voor de toepassing van dit hoofdstuk wordt verstaan onder werknemer: 
 
@@ -238,7 +238,7 @@ b. de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, onderd
 
 ####Referteperiode voor ZW en Wazo
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  Onder referteperiode wordt in dit hoofdstuk verstaan de periode van een jaar die eindigt op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin de ziekte is ingetreden of waarin het recht op grond van hoofdstuk 3, afdeling 2, paragraaf 1 van de Wazo is ontstaan.   
 2.  In afwijking van het eerste lid eindigt de referteperiode op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin de dienstbetrekking is geëindigd, indien de dienstbetrekking eindigt door wederzijds goedvinden van partijen of opzegging, zonder inachtneming van de geldende opzegtermijn, en: 
@@ -253,7 +253,7 @@ b. de datum van eindiging van die dienstbetrekking is gelegen voor het einde van
 
 ####Loonbegrip voor ZW en Wazo
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  Onder loon wordt in dit hoofdstuk verstaan loon in de zin van artikel 16 van de Wfsv, genoten in de referteperiode uit de dienstbetrekking waaruit de werknemer ziek is geworden of waaruit het recht op uitkering op grond van hoofdstuk 3, afdeling 2, paragraaf 1, van de Wazo is ontstaan, met dien verstande dat niet onder loon worden begrepen: 
 
@@ -277,7 +277,7 @@ c. de werknemer gedurende de tussen de elkaar opvolgende dienstbetrekkingen ligg
 
 ####Algemene bepalingen over het loon voor ZW en Wazo
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  Voor de toepassing van dit hoofdstuk wordt de werknemer geacht zijn loon te hebben genoten in het aangiftetijdvak waarover de werkgever van dat loon opgave heeft gedaan.   
 2.  Onder loon als bedoeld in artikel 12c wordt mede begrepen loon uit de dienstbetrekking waaruit de werknemer ziek is geworden of waaruit het recht op uitkering op grond van hoofdstuk 3, afdeling 2, paragraaf 1, van de Wazo is ontstaan, en uit de daaraan voorafgaande dienstbetrekkingen, bedoeld in artikel 12c, tweede en derde lid, waarvan de werknemer aantoont dat dit in de referteperiode vorderbaar maar niet tevens inbaar is geworden. Voor de toepassing van dit hoofdstuk wordt de werknemer geacht dit loon te hebben genoten in het aangiftetijdvak waarin het vorderbaar is geworden. Indien in de referteperiode een uitkering is genoten, waarbij in het dagloon loon als bedoeld in de eerste zin is meegerekend, wordt, indien van dat loon in de referteperiode opgave is gedaan, dat loon bij de dagloonberekening buiten beschouwing gelaten.  
@@ -286,7 +286,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Dagloon voor ZW en de Wazo
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  Het dagloon van uitkeringen op grond van de ZW en de Wazo is de uitkomst van de volgende berekening: [(A-B) x 108/100 + C] / D waarbij: A staat voor het loon dat de werknemer in de referteperiode heeft genoten bij een werkgever die vakantiebijslag reserveert; B staat voor de bedragen aan vakantiebijslag die de werknemer in de referteperiode heeft genoten; C staat voor het loon dat de werknemer in de referteperiode heeft genoten bij een werkgever die geen vakantiebijslag reserveert; en D staat voor 261 dan wel, indien de dienstbetrekking waaruit de werknemer ziek is geworden of waaruit recht op uitkering op grond van hoofdstuk 3, afdeling 2, paragraaf 1, van de Wazo is ontstaan, is aangevangen na aanvang van de referteperiode, voor het aantal dagloondagen vanaf en met inbegrip van de dag waarop de dienstbetrekking is aangevangen tot en met de laatste dag van de referteperiode.   
 2.  In een gebroken aangiftetijdvak worden de factoren A, B en C berekend door het loon of de vakantiebijslag in dat tijdvak te vermenigvuldigen met de breuk Y/Z. Waarbij: Z staat voor het aantal dagloondagen in het gebroken aangiftetijdvak binnen de dienstbetrekking of de uitkeringsverhouding; en Y staat voor het aantal dagloondagen van Z dat binnen de referteperiode valt. Indien Z nul is, wordt de uitkomst van deze berekening op nihil gesteld.   
@@ -306,7 +306,7 @@ c. de vakantiebijslag voldoet overeenkomstig artikel 18, eerste lid, van de WML.
 
 ####Loon in geval van ziekte of verlof tijdens een dienstbetrekking
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  Indien de werknemer in een aangiftetijdvak geen loon of minder loon heeft genoten in verband met verlof of omdat hij de bedongen arbeid niet heeft verricht in verband met ziekte, wordt bij de berekening van het dagloon, bedoeld in 12e, eerste lid, als loon in dat aangiftetijdvak in aanmerking genomen het loon, genoten in dezelfde dienstbetrekking of in de opvolgende dienstbetrekkingen als bedoeld in artikel 12c, derde lid, in het laatste aan dat verlof of die ziekte, voorafgaande en volledig in de referteperiode gelegen aangiftetijdvak, waarin die omstandigheid zich niet heeft voorgedaan.   
 2.  Indien er geen voorafgaand aangiftetijdvak als bedoeld in het eerste lid is, wordt bij de berekening van het dagloon, bedoeld in artikel 12e, eerste lid, het loon in aanmerking genomen uit dezelfde dienstbetrekking of uit de opvolgende dienstbetrekkingen als bedoel in artikel 12c, derde lid, over het aangiftetijdvak direct na afloop van dat verlof of die ziekte, indien: 
@@ -325,7 +325,7 @@ b. gedurende het aangiftetijdvak, bedoeld in het eerste lid, het te vervangen lo
 
 ####ZW-dagloon na eerder recht op uitkering
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  In afwijking van de artikelen 12b tot en met 12f wordt het ZW-dagloon van de persoon, wiens aanspraak op ziekengeld berust op artikel 46 van de ZW, die tevens laatstelijk verzekerd was op grond van artikel 7 van die wet, vastgesteld op het vastgestelde en herziene WW-dagloon.   
 2.  In afwijking van het eerste lid wordt het ZW-dagloon vastgesteld op 100/70 keer de gemiddelde WW-uitkering per werkdag waarop recht bestond in de kalendermaand voorafgaande aan de kalendermaand waarin de dag na de dag waarop het recht op een uitkering op grond van de WW is geëindigd, ligt, indien met de WW-uitkering in die voorafgaande kalendermaand inkomen als bedoeld in artikel 1b van die wet is verrekend.   
@@ -337,7 +337,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Wazo-dagloon in geval van een voorafgaande reguliere WW, ZW of WIA uitkering
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  In afwijking van de artikelen 12b tot en met 12f, wordt het dagloon van de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, onderdeel b, onder 1°, van de Wazo, die op de dag voorafgaande aan het ontstaan van het recht op een uitkering op grond van de Wazo als werknemer wordt aangemerkt op grond van artikel 7, onderdeel a, van de ZW, vastgesteld op: 
 
