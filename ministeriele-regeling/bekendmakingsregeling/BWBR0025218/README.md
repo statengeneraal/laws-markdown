@@ -35,7 +35,7 @@ b. door middel van een papieren uitgave, te verstrekken door een nooddistributie
 c. op een andere door de Minister van Veiligheid en Justitie onderscheidenlijk de Minister van Binnenlandse Zaken en Koninkrijksrelaties te bepalen wijze.   
 
 ### Artikel  3a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 De minister van Binnenlandse Zaken en Koninkrijksrelaties brengt aan de Koninklijke Beroepsorganisatie voor Gerechtsdeurwaarders kosten in rekening voor het publiceren van uittreksels van exploten als bedoeld in artikel 54, tweede en vierde lid, van het Wetboek van Burgerlijke Rechtsvordering in de Staatscourant ter hoogte van € 5 per uittreksel. 
 
