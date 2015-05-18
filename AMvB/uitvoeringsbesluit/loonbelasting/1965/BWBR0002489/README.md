@@ -535,7 +535,9 @@ t. uitkeringen ingevolge de Wet inkomensvoorziening oudere werklozen;
 
 u. uitkeringen ingevolge een pensioenregeling waaraan wordt deelgenomen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000; 
 
-v. tegemoetkomingen ingevolge artikel 33a van de Algemene Ouderdomswet.    
+v. tegemoetkomingen ingevolge artikel 33a van de Algemene Ouderdomswet; 
+
+w. uitkeringen in verband met de Wet verhoging AOW- en pensioenrichtleeftijd op grond van de artikelen 3 en 9 van de Kaderwet SZW-subsidies.    
 2.   De in het eerste lid bedoelde inkomsten worden aangemerkt als loon uit vroegere arbeid.  
 
 ### Artikel  12  

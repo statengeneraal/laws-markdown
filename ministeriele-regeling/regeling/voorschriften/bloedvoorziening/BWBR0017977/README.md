@@ -3,8 +3,8 @@
 ##Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 31 januari 2005, nr. GMT/MT2551254, houdende voorschriften inzake de bloedvoorziening (Regeling voorschriften bloedvoorziening)
 
 De Minister van Volksgezondheid, Welzijn en Sport,
-Gelet op richtlijn 2002/98/EG van het Europees Parlement en de Raad van 27 januari 2003 tot vaststelling van kwaliteits- en veiligheidsnormen voor het inzamelen, testen, bewerken, opslaan en distribueren van bloed en bloedbestanddelen van menselijke oorsprong en tot wijziging van Richtlijn 2001/38/EG (PbEU L 33) alsmede op de [artikelen 3, derde lid](../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md), [5, tweede lid](../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md), en [9, tweede lid, van de Wet inzake bloedvoorziening](../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md);
-Besluit:
+Gelet op richtlijn 2002/98/EG van het Europees Parlement en de Raad van 27 januari 2003 tot vaststelling van kwaliteits- en veiligheidsnormen voor het inzamelen, testen, bewerken, opslaan en distribueren van bloed en bloedbestanddelen van menselijke oorsprong en tot wijziging van Richtlijn 2001/38/EG (PbEU L 33) alsmede op de artikelen 3, derde lid, 5, tweede lid, en 9, tweede lid, van de Wet inzake bloedvoorziening;
+Besluit:  
 
 ###Artikel 1 
 
@@ -42,7 +42,7 @@ j.Richtlijn: Richtlijn 2002/98/EG van het Europees Parlement en de Raad van 27 j
 
 –bij het inzamelen en testen van elke eenheid bloed of bloedbestanddelen, ongeacht het beoogde gebruik, en bij het bewerken, opslaan en distribueren ervan indien zij voor transfusie bestemd zijn, de daarvoor geldende regels worden nageleefd;
 
-–de Minister ter zake van de aanwijzingsprocedure, bedoeld in [artikel 3 van de Wet inzake bloedvoorziening](../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md), de nodige informatie ontvangt.
+–de Minister ter zake van de aanwijzingsprocedure, bedoeld in artikel 3 van de Wet inzake bloedvoorziening, de nodige informatie ontvangt.
 2. De Bloedvoorzieningsorganisatie draagt de uitvoering van de in het eerste lid genoemde taken op aan een persoon die ten minste:
 
 a.houder is van een diploma, certificaat of ander bewijsstuk ter afsluiting van een universitaire opleiding op het gebied van geneeskunde of biologie, of van een door de Minister als gelijkwaardig erkende opleiding;
@@ -58,7 +58,7 @@ Het personeel dat rechtstreeks is betrokken bij het inzamelen, testen, bewerken,
 
 ###Artikel 5 
 
-Het kwaliteitssysteem, bedoeld in [artikel 6 van de Wet inzake bloedvoorziening](../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md), wordt toegepast op basis van de beginselen van goede praktijken. De Bloedvoorzieningsorganisatie neemt daarbij de normen en specificaties, bedoeld in artikel 29, onder h, van de Richtlijn in acht.
+Het kwaliteitssysteem, bedoeld in artikel 6 van de Wet inzake bloedvoorziening, wordt toegepast op basis van de beginselen van goede praktijken. De Bloedvoorzieningsorganisatie neemt daarbij de normen en specificaties, bedoeld in artikel 29, onder h, van de Richtlijn in acht.
 
 ###Artikel 6 
 
@@ -74,7 +74,7 @@ Het kwaliteitssysteem, bedoeld in [artikel 6 van de Wet inzake bloedvoorziening]
 
 ###Artikel 8 
 
-1. De Bloedvoorzieningsorganisatie meldt aan de met het toezicht op de naleving van de [Wet inzake bloedvoorziening](../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md) belaste ambtenaar ernstige ongewenste voorvallen in verband met het inzamelen, testen, bewerken, opslaan en distribueren van bloed en bloedbestanddelen die de kwaliteit en de veiligheid ervan kunnen beïnvloeden, alsook ernstige ongewenste bijwerkingen die tijdens of na een transfusie worden geconstateerd en die kunnen worden toegeschreven aan de kwaliteit en de veiligheid van het bloed en de bloedbestanddelen. De melding vindt plaats volgens de procedure, bedoeld in artikel 29, onder i, van de Richtlijn en op de daar bedoelde wijze.
+1. De Bloedvoorzieningsorganisatie meldt aan de met het toezicht op de naleving van de Wet inzake bloedvoorziening belaste ambtenaar ernstige ongewenste voorvallen in verband met het inzamelen, testen, bewerken, opslaan en distribueren van bloed en bloedbestanddelen die de kwaliteit en de veiligheid ervan kunnen beïnvloeden, alsook ernstige ongewenste bijwerkingen die tijdens of na een transfusie worden geconstateerd en die kunnen worden toegeschreven aan de kwaliteit en de veiligheid van het bloed en de bloedbestanddelen. De melding vindt plaats volgens de procedure, bedoeld in artikel 29, onder i, van de Richtlijn en op de daar bedoelde wijze.
 2. De Bloedvoorzieningsorganisatie beschikt over een nauwkeurige, snelle en verifieerbare procedure om bloed en bloedbestanddelen die met een melding als bedoeld in het eerste lid in verband worden gebracht, aan de distributie te onttrekken.
 
 ###Artikel 9 
@@ -112,9 +112,25 @@ De Bloedvoorzieningsorganisatie zorgt ervoor dat de in het kader van deze regeli
 
 –voorkomt zij ongeoorloofde bekendmaking van dergelijke informatie, waarbij de donaties echter wel traceerbaar moeten blijven.
 
+### Artikel  14a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De Minister van Defensie neemt bij het uitvoeren van de taken bedoeld in artikel 11a van de Wet inzake bloedvoorziening de volgende voorschriften in acht, met dien verstande dat voor ‘Bloedvoorzieningsorganisatie’ wordt verstaan de organisatie belast met de militaire bloedvoorziening: 
+
+a. het bij of krachtens de artikelen 2, eerste lid, 4, 6, eerste lid, 7, 8 en 13, eerste en tweede lid, bepaalde;  
+
+b. het bij of krachtens de artikelen 3, eerste lid, eerste onderdeel, en tweede, derde, vierde en vijfde lid, en 5 bepaalde, met uitzondering van de eisen die betrekking hebben op het inzamelen van bloed; en  
+
+c. het bij artikel 2, tweede lid, bepaalde voor zover het wijzigingen betreft die gevolgen hebben voor de kwaliteit en de veiligheid van bloed- en tussenproducten.   
+
+### Artikel  14b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Een wijziging van de Richtlijn en EU-richtlijnen vastgesteld ter uitvoering van de Richtlijn gaan voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijziging of EU-richtlijn uitvoering moet zijn gegeven. 
+
 ###Artikel 15 
 
-De [Regeling voorschriften bloedvoorziening](../../../../../ministeriele-regeling/regeling/voorschriften/bloedvoorziening/BWBR0017804/README.md) van 21 december 2004, gepubliceerd in de Staatscourant, nr. 251 wordt ingetrokken.
+De Regeling voorschriften bloedvoorziening van 21 december 2004, gepubliceerd in de Staatscourant, nr. 251 wordt ingetrokken.
 
 ###Artikel 16 
 
@@ -127,7 +143,7 @@ Deze regeling zal met de bijlagen en de toelichting in de Staatscourant worden g
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-J.F.Hoogervorst
+J.F.Hoogervorst 
 
 ###Bijlage I 
 
