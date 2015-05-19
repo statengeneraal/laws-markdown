@@ -608,6 +608,61 @@ f. het pedagogisch beleid en de pedagogische praktijk.
 1.  Onze Minister kan beleidsregels stellen omtrent de toepassing van de artikelen 1.49, 1.50, eerste lid, 1.51, 1.56, eerste en derde lid, en 1.56b, eerste lid.  
 2. De bekendmaking van de beleidsregels geschiedt door plaatsing in de Staatscourant.
 
+### Artikel  1.57b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De houder van een kindercentrum of van een gastouderbureau treft ten behoeve van ouders een regeling voor de afhandeling van klachten over: 
+
+a. een gedraging jegens een ouder of een kind van de houder of van voor de houder of door zijn tussenkomst werkzame personen, en  
+
+b. de overeenkomst tussen de houder en de ouder.     
+2.  De regeling, bedoeld in het eerste lid, wordt door de houder van een kindercentrum of gastouderbureau schriftelijk vastgelegd en voorziet er in ieder geval in dat: 
+
+a. de ouder zijn klacht schriftelijk bij de houder indient;  
+
+b. de houder de klacht zorgvuldig onderzoekt;  
+
+c. de houder de ouder zoveel mogelijk op de hoogte houdt van de voortgang van de behandeling van de klacht;  
+
+d. de klacht, rekening houdende met de aard ervan, zo spoedig mogelijk, maar uiterlijk zes weken na indiening bij de houder, wordt afgehandeld;  
+
+e. de houder de ouder een schriftelijk en met redenen omkleed oordeel op de klacht verstrekt, en  
+
+f. er in het oordeel een concrete termijn wordt gesteld waarbinnen eventuele maatregelen naar aanleiding van de klacht zullen zijn gerealiseerd.     
+3.  De houder van een kindercentrum of van een gastouderbureau brengt de regeling, bedoeld in het eerste lid, alsmede wijzigingen daarvan, op passende wijze onder de aandacht van de ouders en handelt overeenkomstig deze regeling.   
+4.  De houder van een kindercentrum of van een gastouderbureau draagt er zorg voor dat over elk kalenderjaar in het eerstvolgende kalenderjaar een verslag wordt opgesteld waarin ten minste wordt opgenomen: 
+
+a. een beknopte beschrijving van de regeling, bedoeld in het eerste lid;  
+
+b. de wijze waarop hij die regeling onder de aandacht van de ouders heeft gebracht;  
+
+c. het aantal en aard van de door de hem behandelde klachten per locatie,  
+
+d. de strekking van de oordelen en de aard van de getroffen maatregelen, bedoeld in het tweede lid, onderdelen e en f, per locatie, en  
+
+e. het aantal en de aard van de door de geschillencommissie, bedoeld in artikel 1.57c, eerste lid, behandelde geschillen.     
+5.  Het verslag, bedoeld in het vierde lid, wordt in zodanige vorm opgesteld dat de oordelen niet tot natuurlijke personen herleidbaar zijn, tenzij het de houder betreft.   
+6.  In het verslag, bedoeld in het vierde lid, worden niet opgenomen: 
+
+a. het woonadres van een gastouder, voor zover op dat adres geen voorziening voor gastouderopvang is gevestigd, en  
+
+b. het woonadres van de houder van een kindercentrum of van een gastouderbureau, wanneer die houder een natuurlijk persoon is en voor zover het kindercentrum of gastouderbureau niet op dit adres gevestigd is.     
+7.  Bij regeling van Onze Minister wordt bepaald vanaf welk kalenderjaar het verslag, bedoeld in het vierde lid, wordt opgesteld.   
+8.  De houder van een kindercentrum of van een gastouderbureau zendt het verslag, bedoeld in het vierde lid, voor 1 juni van het kalenderjaar volgend op het kalenderjaar waarop het verslag betrekking heeft aan de toezichthouder, genoemd in artikel 1.61, eerste lid, en brengt het verslag gelijktijdig op passende wijze onder de aandacht van de ouders.   
+9.  In afwijking van het vierde lid behoeft geen verslag te worden opgesteld indien er in het betreffende kalenderjaar geen klachten bij de houder zijn ingediend.  
+
+### Artikel  1.57c  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De houder van een kindercentrum of van een gastouderbureau is aangesloten bij een door de Minister van Veiligheid en Justitie erkende geschillencommissie voor het behandelen van geschillen: 
+
+a. tussen de houder van een kindercentrum of van een gastouderbureau en een ouder over een onderwerp als bedoeld in artikel 1.57b, eerste lid;  
+
+b. tussen de houder van een kindercentrum of van een gastouderbureau en de oudercommissie over de toepassing en uitvoering van artikel 1.60 door de houder.     
+2.  De houder van een kindercentrum of van een gastouderbureau brengt de mogelijkheid om geschillen aan de geschillencommissie voor te leggen op passende wijze onder de aandacht van de ouders.   
+3.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de voor de houder van een kindercentrum of van een gastouderbureau en de ouder en de oudercommissie verbonden verplichtingen aan de geschillenbeslechting.   
+4.  Bij beschikking van Onze Minister kan een financiële vergoeding worden verstrekt aan de geschillencommissie, bedoeld in het eerste lid.  
+
 ### Paragraaf  3  
 
 ####Oudercommissie
@@ -993,6 +1048,62 @@ b. de personen werkzaam bij een onderneming waarmee de houder een peuterspeelzaa
 1.  Onze Minister kan beleidsregels stellen omtrent de toepassing van de artikelen 2.5, 2.6, eerste lid, en 2.9.   
 2.  De bekendmaking van de beleidsregels geschiedt door plaatsing in de Staatscourant.  
 
+### Artikel  2.13a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De houder treft ten behoeve van ouders een regeling voor de afhandeling van klachten over: 
+
+a. een gedraging jegens een ouder of een kind van de houder of van voor de houder werkzame personen, en  
+
+b. de overeenkomst tussen de houder en de ouder.     
+2.  De regeling, bedoeld in het eerste lid, wordt door de houder schriftelijk vastgelegd en voorziet er in ieder geval in dat: 
+
+a. de ouder zijn klacht schriftelijk bij de houder indient;  
+
+b. de houder de klacht zorgvuldig onderzoekt;  
+
+c. de houder de ouder zoveel mogelijk op de hoogte houdt van de voortgang van de behandeling van de klacht;  
+
+d. de klacht, rekening houdende met de aard ervan, zo spoedig mogelijk, maar uiterlijk zes weken na indiening bij de houder, wordt afgehandeld;  
+
+e. de houder de ouder een schriftelijk en met redenen omkleed oordeel op de klacht verstrekt, en  
+
+f. er in het oordeel een concrete termijn wordt gesteld waarbinnen eventuele maatregelen naar aanleiding van de klacht zullen zijn gerealiseerd.     
+3.  De houder brengt de regeling, bedoeld in het eerste lid, alsmede wijzigingen daarvan, op passende wijze onder de aandacht van de ouders en handelt overeenkomstig deze regeling.   
+4.  De houder draagt er zorg voor dat over elk kalenderjaar in het eerstvolgende kalenderjaar een verslag wordt opgesteld waarin ten minste wordt opgenomen: 
+
+a. een beknopte beschrijving van de regeling, bedoeld in het eerste lid;  
+
+b. de wijze waarop hij die regeling onder de aandacht van de ouders heeft gebracht;  
+
+c. het aantal en aard van de door de hem behandelde klachten per locatie,  
+
+d. de strekking van de oordelen en de aard van de getroffen maatregelen, bedoeld in het tweede lid, onderdelen e en f, per locatie, en  
+
+e. het aantal en de aard van de door de geschillencommissie, bedoeld in artikel 2.13a, eerste lid, behandelde geschillen.     
+5.  Het verslag, bedoeld in het vierde lid, wordt in zodanige vorm opgesteld dat de oordelen niet tot natuurlijke personen herleidbaar zijn, tenzij het de houder betreft.   
+6.  In het verslag, bedoeld in het vierde lid, worden niet opgenomen het woonadres van de houder wanneer die houder een natuurlijk persoon is en voor zover de peuterspeelzaal niet op dit adres gevestigd is.   
+7.  Bij regeling van Onze Minister wordt bepaald vanaf welk kalenderjaar het verslag, bedoeld in het vierde lid, wordt opgesteld.   
+8.  De houder zendt het verslag, bedoeld in het vierde lid, voor 1 juni van het kalenderjaar volgend op het kalenderjaar waarop het verslag betrekking heeft aan de toezichthouder, genoemd in artikel 2.19, eerste lid, en brengt het verslag gelijktijdig op passende wijze onder de aandacht van de ouders.   
+9.  In afwijking van het vierde lid behoeft geen verslag te worden opgesteld indien er in het betreffende kalenderjaar geen klachten bij de houder zijn ingediend.  
+
+### Artikel  2.13b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De houder is aangesloten bij een door de Minister van Veiligheid en Justitie erkende geschillencommissie voor het behandelen van geschillen: 
+
+a. tussen de houder en een ouder over een onderwerp als bedoeld in artikel 2.13a, eerste lid;  
+
+b. tussen de houder en de oudercommissie over de toepassing en uitvoering van artikel 2.17 door de houder.     
+2.  De houder brengt de mogelijkheid om geschillen aan de geschillencommissie voor te leggen op passende wijze onder de aandacht van de ouders.   
+3.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de voor de houder, de ouder en de oudercommissie verbonden verplichtingen aan de geschillenbeslechting.   
+4.  Bij beschikking van Onze Minister kan een financiële vergoeding worden verstrekt aan de geschillencommissie, bedoeld in het eerste lid.  
+
+### Artikel  2.13c  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Een ieder die betrokken is bij de uitvoering van de artikelen 2.13a en 2.13b en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit bij de uitvoering van dit hoofdstuk de noodzaak tot bekendmaking voortvloeit. 
+
 ### Paragraaf  3  
 
 ####Oudercommissie
@@ -1100,6 +1211,50 @@ De houder treft een regeling voor de behandeling van klachten van de oudercommis
 1.  Het college kan de houder verbieden de exploitatie van een peuterspeelzaal voort te zetten, zolang hij een bevel of aanwijzing niet opvolgt en het opleggen van een last onder bestuursdwang niet mogelijk is.   
 2.  Indien uit een onderzoek als bedoeld in artikel 2.20 of anderszins blijkt dat de peuterspeelzaal naar verwachting niet dan wel niet langer aan de bij of krachtens afdeling 2, paragraaf 2, van dit hoofdstuk gegeven voorschriften zal voldoen, kan het college zolang die situatie zich voordoet, de houder verbieden die peuterspeelzaal in exploitatie te nemen of te houden.  
 
+### Paragraaf  2a  
+
+####Geschillen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  2.24a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De geschillencommissie verricht haar werkzaamheden op basis van een reglement dat ten minste waarborgt dat: 
+
+a. aan de geschillencommissie een geschil kan worden voorgelegd door een ouder: 
+
+1°. die na de indiening van een klacht bij de houder niet tijdig een oordeel heeft ontvangen als bedoeld in artikel 2.13a, tweede lid, onderdeel e;  
+
+2°. die een klacht in tweede aanleg willen laten beoordelen;  
+
+3°. voor wie behandeling van een klacht overeenkomstig een schriftelijke regeling als bedoeld in artikel 2.13a, eerste lid, niet gewaarborgd is door het ontbreken van die regeling of doordat de regeling niet aan artikel 2.13a, tweede lid, voldoet, of  
+
+4°. van wie in redelijkheid niet kan worden verlangd dat hij onder de gegeven omstandigheden een klacht bij de houder indient;    
+
+b. de geschillencommissie bevoegd is over een geschil door middel van een bindend advies een uitspraak te doen;  
+
+c. de geschillencommissie uiterlijk binnen zes maanden na de voorlegging van het geschil uitspraak doet;  
+
+d. de geschillencommissie in afwijking van onderdeel c op kortere termijn na voorlegging van het geschil uitspraak doet in gevallen waarin dat, gelet op de aard van het geschil en de daarbij betrokken belangen, is aangewezen, en  
+
+e. de geschillencommissie de uitspraken over de aan haar voorgelegde geschillen openbaar maakt, zodanig dat deze niet tot natuurlijke- of rechtspersonen herleidbaar zijn, en  
+
+f. de geschillencommissie uit ten minste drie leden, waaronder een voorzitter bestaat, en deze leden niet werkzaam zijn voor of bij de houder op wie het geschil betrekking heeft noch anderszins in directe relatie tot de betreffende ouder of houder staan.     
+2.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot geschillenbeslechting door de geschillencommissie en het reglement, bedoeld in het eerste lid.  
+
+### Artikel  2.24b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Indien de oudercommissie een geschil met de houder over de toepassing en de uitvoering van artikel 2.17 door de houder aan de geschillencommissie voorlegt, toetst de geschillencommissie uitsluitend of de houder bij afweging van de betrokken belangen in redelijkheid heeft gehandeld.   
+2.  Indien de geschillencommissie de oudercommissie in het gelijk stelt, kan zij in haar uitspraak tevens bepalen dat: 
+
+a. de houder zijn besluit geheel of ten dele intrekt;  
+
+b. een of meer gevolgen van dat besluit ongedaan worden gemaakt.     
+3.  Indien de houder gebruik maakt van de in artikel 2.15, tweede en derde lid, geboden alternatieve vorm van ouderbetrokkenheid kan, indien deze vorm zich daarvoor leent, bij algemene maatregel van bestuur worden bepaald, dat deze vorm voor de toepassing van het eerste en tweede lid en artikel 2.13b gelijk wordt gesteld met een oudercommissie. Hieraan kunnen voorwaarden worden verbonden.   
+4.  Indien gebruik is gemaakt van de in artikel 2.15, tweede en derde lid, geboden alternatieve vorm van ouderbetrokkenheid, maar deze vorm zich niet leent voor de toepassing van het eerste en tweede lid en artikel 2.13b, kan in plaats daarvan een ouder een geschil over de toepassing en uitvoering van artikel 2.17 aan de geschillencommissie voorleggen en zijn het eerste en tweede lid en artikel 2.13b zoveel mogelijk van overeenkomstige toepassing.  
+
 ### Paragraaf  3  
 
 ####Informatie aan minister door colleges
@@ -1122,6 +1277,30 @@ Deze afdeling is slechts van toepassing op niet-gesubsidieerde peuterspeelzalen.
 
 1.  Het college kan de houder die een verplichting als bedoeld bij of krachtens afdeling 2 van dit hoofdstuk, een afspraak als bedoeld in artikel 167 van de Wet op het primair onderwijs, een aanwijzing onderscheidenlijk een bevel als bedoeld in artikel 2.23 of een vordering tot medewerking als bedoeld in artikel 5:20 van de Algemene wet bestuursrecht niet nakomt dan wel handelt in strijd met een verbod krachtens artikel 2.24, een bestuurlijke boete opleggen van ten hoogste € 45 000.   
 2.  In afwijking van het eerste lid kan de overtreding van de houder niet met een bestuurlijke boete worden afgedaan, indien de overtreding opzettelijk of roekeloos geschiedt en een direct gevaar voor de gezondheid of de veiligheid van personen tot gevolg heeft.  
+
+### Paragraaf  4a  
+
+####Vermelding handhaving
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  2.28a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Indien het college de houder in het kader van het toezicht op de naleving van de verplichtingen op basis van dit hoofdstuk: 
+
+a. een sanctie als bedoeld in hoofdstuk 5 van de Algemene wet bestuursrecht oplegt;  
+
+b. een aanwijzing of een bevel als bedoeld in artikel 2.23, geeft,  
+
+c. een verbod tot exploitatie als bedoeld in artikel 2.24 oplegt;  
+
+d. een vordering tot medewerking als bedoeld in artikel 5:20 van de Algemene wet bestuursrecht doet; of  
+
+e. een bestuurlijke boete als bedoeld in artikel 2.28 oplegt;   wordt daarover een vermelding opgenomen het register peuterspeelzaalwerk zodra dit besluit onherroepelijk is.   
+2.  De vermelding, bedoeld in het eerste lid, betreft het karakter van de sanctie of van de maatregel, alsmede een beschrijving van de verplichting die niet is nagekomen.   
+3.  Op verzoek verstrekt het college een afschrift van het besluit, bedoeld in het eerste lid, waarin de tot natuurlijke personen herleidbare gegevens, geanonimiseerd worden, met uitzondering van het woonadres van de houder wanneer opvang plaats vindt op dat woonadres.   
+4.  Bij algemene maatregel van bestuur worden nadere regels gesteld ter uitvoering van dit artikel.  
 
 ### Afdeling  5  
 

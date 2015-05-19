@@ -14,12 +14,12 @@ Gezien het nader rapport van de Staatssecretaris van Veiligheid en Justitie van 
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 Wijzigt het Besluit burgerlijke stand 1994. 
 
 ### Artikel  II  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
 2.  Bij koninklijk besluit kan voor iedere gemeente worden bepaald dat de aangifte voor geboorte of overlijden of de melding van een voorgenomen huwelijk of voorgenomen geregistreerd partnerschap in elektronische vorm kan worden gedaan, alsmede dat akten van de burgerlijke stand elektronisch kunnen worden opgemaakt en uittreksels of afschriften daarvan elektronisch kunnen worden verstrekt.  

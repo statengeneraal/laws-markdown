@@ -508,7 +508,7 @@ a. instellingen voor gezondheidszorg;
 b. instellingen op het gebied van de kinderbescherming;  
 
 c. penitentiaire instellingen.     
-4.  Het college van burgemeester en wethouders kan een in de gemeente gevestigde instelling aanwijzen indien het betreft een instelling op het terrein van maatschappelijke opvang, bedoeld in artikel 1, eerste lid, onderdeel g, onder 7°, van de Wet maatschappelijke ondersteuning.   
+4.  Het college van burgemeester en wethouders kan een in de gemeente gevestigde instelling aanwijzen waarin beschermd wonen of opvang wordt verstrekt als bedoeld in artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015.   
 5.  Het hoofd van een aangewezen instelling doet aan de betrokken personen tijdig schriftelijk mededeling van de mogelijkheid tot aangifte van een briefadres.  
 
 ### Artikel  2.41  
