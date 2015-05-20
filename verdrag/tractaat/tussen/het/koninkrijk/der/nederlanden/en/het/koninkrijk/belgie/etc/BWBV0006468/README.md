@@ -28,10 +28,6 @@ b.lorsque ces eaux sont à l'étiage ou au dessous, sept et demi (7½) mètres c
 
 Sur le volume de dix (10) mètres cubes d'eau puisé à la Meuse à Maestricht, il sera attribué aux canaux et aux irrigations des Pays-Bas, deux (2) mètres cubes par seconde à déverser par l'écluse n°. 17 à Loozen. Cette quantité de deux (2) mètres cubes sera réduite à un et demi (1,50) mètre cube aussitôt que le volume d'eau puisé à Maestricht, sera diminué conformément â ce qui est stipulé à l'article précédent.Il sera loisible au Gouvernement des Pays-Bas d'augmenter le volume d'eau à puiser à la Meuse à Maestricht, sans que toutefois par là la vîtesse du courant dans le canal puisse excéder les limites fixées à l'art. 3. Ce surplus sera également déversé par l'écluse n°. 17 à Loozen.
 
-###Article 6 
-
-Le Gouvernement Belge s'engage à rejeter dans les canaux de navigation, du quinze (15) Mai au quinze (15) Juillet au moins, les eaux provenant des irrigations effectuées en Belgique, soit au moyen de machines, soit par un canal colateur, ou par tout autre moyen propre à atteindre le but indiqué. Toutefois si la construction d'un canal colateur ou de tout autre ouvrage sur le territoire Néerlandais était jugé nécessaire, le Gouvernement des Pays-Bas se réserve l'approbation des plans et la surveillance de l'exécution et de l'entretien, qui seront à la charge du trésor Belge. Les ruisseaux ou courants d'eau, qui seront traversés par ces ouvrages, conserveront leur cours naturel. Si dans la suite le Gouvernement des Pays-Bas désirait faire usage du colateur, soit pour l'alimentation de canaux, soit comme voie de navigation, cette question fera l'objet de négociations ultérieures. 
-
 ###Article 7 
 
 Le Gouvernement Belge laissera ou rendra à leur cours naturel les ruisseaux et courants d'eau qui, ayant leur source en Belgique, se dirigent vers le territoire Néerlandais.
@@ -285,10 +281,6 @@ b.wanneer de waterstand gelijk met het vaarpeil of daarbeneden is, 7½ kub. el p
 ###Art. 5 
 
 Van de 10 kub. el water, aan de Maas te Maastricht afgetapt, zal voor de kanalen en voor de bevloeijing in Nederland worden bestemd 2 kub. el per seconde, door te laten aan de sluis n°. 17 te Loozen. Deze hoeveelheid van 2 kub. el wordt verminderd tot 1,50 kub. el, zoodra de te Maastricht afgetapte watermassa verminderd wordt, overeenkomstig het bepaalde in het vorig artikel. Het zal aan de Nederlandsche Regering vrijstaan, de hoeveelheid water, aan de Maas te Maastricht af te tappen, te vermeerderen, zonder dat daardoor de snelheid van den stroom in het kanaal de in art. 3 gestelde grenzen moge overschrijden. Dit meerdere water zal evenzeer worden doorgelaten aan de sluis n°. 17 te Loozen.
-
-###Art. 6 
-
-De Belgische Regering verbindt zich, het van de Belgische bevloeijingen afkomstige water weder in de scheepvaartkanalen terug te voeren, van den 15den Mei tot den 15den Julij minstens, hetzij door middel van werktuigen, hetzij door een kanaal-colateur, of op eenige andere, ter bereiking van het beoogde doel geschikte wijze. Wanneer intusschen de aanleg van een kanaal-colateur of van eenig ander werk op Nederlandsch grondgebied wierd noodig geacht, behoudt de Nederlandsche Regering zich voor de goedkeuring der ontwerpen en het toezigt over de uitvoering en het onderhoud, die ten laste van de Belgische schatkist komen. De beken of waterleidingen, door deze werken doorsneden, zullen haren natuurlijken loop behouden.Indien later de Nederlandsche Regering wenscht van het kanaal-colateur, hetzij tot voeding van kanalen, hetzij ten dienste der scheepvaart gebruik te maken, zal dit punt het onderwerp van latere onderhandelingen uitmaken.
 
 ###Art. 7 
 

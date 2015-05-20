@@ -1462,7 +1462,7 @@ Een MIT-kennisvoucher heeft een waarde van maximaal € 3.750 en wordt aan een 
 
 ### Artikel  3.4.9  
 
-####Subsidiabele kosten
+####Waarde MIT-kennisvoucher
 
 De waarde van de voucher bedraagt 50 procent van de subsidiabele kosten tot een maximum van € 3.750. 
 
@@ -1510,7 +1510,7 @@ Subsidie wordt verleend aan een kennisinstelling die één of meer MIT-kennisove
 
 ####Steunintensiteit
 
-De subsidie bedraagt 40 procent van de door de kennisinstelling ten behoeve van de uitvoering van een MIT-kennisoverdrachtsproject in rekening gebrachte kosten, maar niet meer dan € 3.750 per MIT-kennisvoucher. 
+De subsidie bedraagt 50 procent van de door de kennisinstelling ten behoeve van de uitvoering van een MIT-kennisoverdrachtsproject in rekening gebrachte kosten, maar niet meer dan € 3.750 per MIT-kennisvoucher. 
 
 ### Artikel  3.4.15  
 
@@ -1608,7 +1608,7 @@ De penvoerder is een onderneming die deelneemt aan het MIT-R&D-samenwerkingsverb
 2.  In afwijking van artikel 1.3 bedraagt de subsidie voor een MIT-R&D-samenwerkingsproject 35 procent van de subsidiabele kosten.   
 3.  Elke individuele deelnemer aan het MIT-R&D-samenwerkingsverband neemt niet meer dan 70 procent van de voor subsidie in aanmerking komende kosten van het MIT-R&D-samenwerkingsproject voor zijn rekening.   
 4.  Het subsidiebedrag bedraagt ten hoogste € 200.000,–.   
-5.  Het maximum subsidiebedrag bedraagt € 100.000 per deelnemer aan het MIT-R&D-samenwerkingsverband.  
+5.  Het subsidiebedrag bedraagt ten minste € 25.000 en ten hoogste € 100.000 per deelnemer aan het MIT-R&D-samenwerkingsverband.  
 
 ### Artikel  3.4.23  
 
@@ -1706,7 +1706,7 @@ c. de kerngegevens voor de onderbouwing van de subsidievaststelling.
 ####Staatssteun
 
 1.  Subsidie die krachtens deze titel wordt verleend bevat staatssteun en wordt, behoudens paragraaf 3.4.3, gerechtvaardigd door de artikelen 25 en 28 van de algemene groepsvrijstellingsverordening.   
-2.  Subsidie die krachtens paragraaf 3.4.3 wordt verleend bevat staatssteun en wordt gerechtvaardigd door de de-minimis verordening.  
+2.   Subsidie die krachtens paragraaf 3.4.3 wordt verleend, en subsidie voor een MIT-innovatie-adviesproject dat niet onder artikel 28 van de algemene groepsvrijstellingsverordening valt, bevatten staatssteun en worden gerechtvaardigd door de de-minimis verordening.  
 
 ### Artikel  3.4.30  
 
