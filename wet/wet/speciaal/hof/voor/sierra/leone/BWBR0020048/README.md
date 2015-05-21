@@ -19,7 +19,7 @@ b. doorvoer: het begeleid vervoer over Nederlands grondgebied van personen, afko
 
 c. de verdachte: de verdachte Charles Taylor, voormalig staatshoofd van Liberia;  
 
-d. de wet van 21 april 1994: de [wet van 21 april 1994, houdende bepalingen verband houdende met de instelling van het Internationaal Tribunaal voor de vervolging van personen aansprakelijk voor ernstige schendingen van het internationale humanitaire recht, begaan op het grondgebied van het voormalige Joegoslavië sedert 1991](../../../../../../../../wet/wet/tot/instelling/van/het/internationaal/tribunaal/voor/vervolging/van/etc/BWBR0006617/README.md) (Stb. 308);  
+d. de wet van 21 april 1994: de wet van 21 april 1994, houdende bepalingen verband houdende met de instelling van het Internationaal Tribunaal voor de vervolging van personen aansprakelijk voor ernstige schendingen van het internationale humanitaire recht, begaan op het grondgebied van het voormalige Joegoslavië sedert 1991 (Stb. 308);  
 
 e. Onze Minister: Onze Minister van Justitie.   
 
@@ -33,11 +33,11 @@ e. Onze Minister: Onze Minister van Justitie.
 ### Artikel  3  
 
 1.  Op verzoek van het Speciaal Hof voor Sierra Leone worden personen die zijn ontsnapt uit de vrijheidsontneming binnen in Nederland aan het Speciaal Hof voor Sierra Leone ter beschikking gestelde ruimten of tijdens transport, aan het Speciaal Hof voor Sierra Leone overgeleverd.   
-2.  De [artikelen 3 tot en met 5 van de wet](../../../../../../../../wet/wet/tot/instelling/van/het/internationaal/tribunaal/voor/vervolging/van/etc/BWBR0006617/README.md) van 21 april 1994 zijn van overeenkomstige toepassing op de overlevering, bedoeld in het eerste lid.  
+2.  De artikelen 3 tot en met 5 van de wet van 21 april 1994 zijn van overeenkomstige toepassing op de overlevering, bedoeld in het eerste lid.  
 
 ### Artikel  4  
 
-De [artikelen 6](../../../../../../../../wet/wet/tot/instelling/van/het/internationaal/tribunaal/voor/vervolging/van/etc/BWBR0006617/README.md), [8 tot en met 10](../../../../../../../../wet/wet/tot/instelling/van/het/internationaal/tribunaal/voor/vervolging/van/etc/BWBR0006617/README.md), [16](../../../../../../../../wet/wet/tot/instelling/van/het/internationaal/tribunaal/voor/vervolging/van/etc/BWBR0006617/README.md) en [17 van de wet](../../../../../../../../wet/wet/tot/instelling/van/het/internationaal/tribunaal/voor/vervolging/van/etc/BWBR0006617/README.md) van 21 april 1994 zijn van overeenkomstige toepassing op de bijstand en rechtshulp van Nederland aan het Speciaal Hof voor Sierra Leone ten behoeve van de detentie en berechting in Nederland van de verdachte. 
+De artikelen 6, 8 tot en met 10, 16 en 17 van de wet van 21 april 1994 zijn van overeenkomstige toepassing op de bijstand en rechtshulp van Nederland aan het Speciaal Hof voor Sierra Leone ten behoeve van de detentie en berechting in Nederland van de verdachte. 
 
 ### Artikel  5  
 

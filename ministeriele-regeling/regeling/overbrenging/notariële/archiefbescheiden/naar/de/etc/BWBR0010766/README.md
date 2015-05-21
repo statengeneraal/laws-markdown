@@ -8,7 +8,17 @@ Besluiten:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: a. wet:   de Wet op het notarisambt;  b.  algemene bewaarplaats:   de algemene bewaarplaats, bedoeld in artikel 57, eerste lid, van de wet;  c.  bewaarder:   de bewaarder, bedoeld in artikel 57, tweede lid, van de wet;  d. kamer van toezicht:   de kamer van toezicht, bedoeld in artikel 93 van de wet;  e. beheerder:   de beheerder van de bij of krachtens de Archiefwet 1995 aangewezen rijksarchiefbewaarplaats.    
+In deze regeling wordt verstaan onder: 
+
+a.* wet:* de Wet op het notarisambt;
+
+b. *algemene bewaarplaats:* de algemene bewaarplaats, bedoeld in artikel 57, eerste lid, van de wet;
+
+c.* bewaarder:* de bewaarder, bedoeld in artikel 57, tweede lid, van de wet;
+
+d. *kamer van toezicht:* de kamer van toezicht, bedoeld in artikel 93 van de wet;
+
+e. *beheerder:* de beheerder van de bij of krachtens de Archiefwet 1995 aangewezen rijksarchiefbewaarplaats.  
 
 ### Artikel  2  
 

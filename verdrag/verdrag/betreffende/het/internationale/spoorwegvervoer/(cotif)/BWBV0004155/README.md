@@ -35,7 +35,7 @@ La COTIF 1980 est modifiée selon la teneur figurant en annexe qui fait partie i
 
 a) des signatures du présent Protocole, et du dépôt des instruments de ratification, d'acceptation, d'approbation ou d'adhésion,  
 
-b) de la date à laquelle le présent Protocole entre en vigueur en application de son article 4,  et assume les autres fonctions de Dépositaire telles qu'elles sont énoncées dans la [Partie VII de la Convention de Vienne](../../../../../../../../verdrag/vienna/convention/of/the/law/of/treaties/BWBV0003441/README.md) du 23 mai 1969 sur le droit des traités. 
+b) de la date à laquelle le présent Protocole entre en vigueur en application de son article 4,  et assume les autres fonctions de Dépositaire telles qu'elles sont énoncées dans la Partie VII de la Convention de Vienne du 23 mai 1969 sur le droit des traités. 
 
 ### Article  3  
 
@@ -153,7 +153,7 @@ b) constituer un cadre dans lequel les Etats membres peuvent élaborer d'autres 
 ####Coopération internationale
 
 § 1. Les Etats membres s'engagent à concentrer, en principe, leur coopération internationale dans le domaine ferroviaire au sein de l'Organisation pour autant qu'il existe une cohérence avec les tâches qui lui sont attribuées conformément aux articles 2 et 4. Pour atteindre cet objectif les Etats membres prendront toutes les mesures nécessaires et utiles pour que soient adaptés les conventions et les accords internationaux multilatéraux dont ils sont parties contractantes, pour autant que ces conventions et accords concernent la coopération internationale dans le domaine ferroviaire et transfèrent, à d'autres organisations intergouvernementales ou non-gouvernementales, des compétences qui se recoupent avec les tâches attribuées à l'Organisation.
-§ 2. Les obligations résultant du § 1 pour les Etats membres, qui sont également Membres des Communautés européennes ou Etats parties à [l'Accord sur l'Espace économique européen](../../../../../../../../verdrag/overeenkomst/betreffende/de/europese/economische/ruimte/BWBV0001070/README.md), ne prévalent pas sur leurs obligations en tant que Membres des Communautés européennes ou Etats parties à l'Accord sur l'Espace économique européen.  
+§ 2. Les obligations résultant du § 1 pour les Etats membres, qui sont également Membres des Communautés européennes ou Etats parties à l'Accord sur l'Espace économique européen, ne prévalent pas sur leurs obligations en tant que Membres des Communautés européennes ou Etats parties à l'Accord sur l'Espace économique européen.  
 
 ### Article  4  
 
@@ -742,7 +742,7 @@ c) ont fait une déclaration conformément à l'article 9, § 1 des Règles uni
 
 ####Dépositaire
 
-§ 1. Le Secrétaire général est le dépositaire de la présente Convention. Ses fonctions en tant que dépositaire sont celles qui sont énoncées dans la [Partie VII de la Convention de Vienne](../../../../../../../../verdrag/vienna/convention/of/the/law/of/treaties/BWBV0003441/README.md) du 23 mai 1969 sur le droit des traités. 
+§ 1. Le Secrétaire général est le dépositaire de la présente Convention. Ses fonctions en tant que dépositaire sont celles qui sont énoncées dans la Partie VII de la Convention de Vienne du 23 mai 1969 sur le droit des traités. 
 § 2. Lorsqu'une divergence apparaît entre un Etat membre et le dépositaire au sujet de l'accomplissement des fonctions de ce dernier, le dépositaire ou l'Etat membre concerné doit porter la question à l'attention des autres Etats membres ou, le cas échéant, la soumettre à la décision du Comité administratif. 
 
 ### Article  37  
@@ -3576,7 +3576,7 @@ De COTIF 1980 wordt gewijzigd volgens de in de bijlage opgenomen versie, die een
 
 a. van de ondertekeningen van dit Protocol en van de nederlegging van de akten van bekrachtiging, aanvaarding, goedkeuring of toetreding,  
 
-b. van de datum waarop dit Protocol ingevolge artikel 4 in werking treedt,   en vervult de overige taken van de depositaris zoals vermeld in [Deel VII van het Verdrag van Wenen van 23 mei 1969 inzake het verdragenrecht](../../../../../../../../verdrag/vienna/convention/of/the/law/of/treaties/BWBV0003441/README.md).  
+b. van de datum waarop dit Protocol ingevolge artikel 4 in werking treedt,   en vervult de overige taken van de depositaris zoals vermeld in Deel VII van het Verdrag van Wenen van 23 mei 1969 inzake het verdragenrecht.  
 
 ### Artikel  3  
 
@@ -3694,7 +3694,7 @@ b. een kader vormen waarbinnen de Lidstaten andere internationale verdragen kunn
 ####Internationale samenwerking
 
 § 1.  De Lidstaten verplichten zich ertoe hun internationale samenwerking op spoorweggebied in beginsel te concentreren binnen de Organisatie, voorzover er sprake is van een samenhang met de taken die haar overeenkomstig de artikelen 2 en 4 zijn opgedragen. Teneinde dit doel te bereiken zullen de Lidstaten alle maatregelen treffen die nodig en nuttig zijn voor de aanpassing van de multilaterale internationale verdragen en overeenkomsten waarbij zij partij zijn, voorzover deze verdragen en overeenkomsten betrekking hebben op internationale samenwerking op spoorweggebied en deze aan andere intergouvernementele en niet-gouvernementele organisaties bevoegdheden overdragen, die samenvallen met de aan de Organisatie opgedragen taken.
-§ 2.  De uit § 1 voortvloeiende verplichtingen voor de Lidstaten, die tevens lid zijn van de Europese Gemeenschappen of als Staat partij zijn bij de [Overeenkomst betreffende de Europese Economische Ruimte](../../../../../../../../verdrag/overeenkomst/betreffende/de/europese/economische/ruimte/BWBV0001070/README.md), hebben geen voorrang op hun verplichtingen uit hoofde van hun lidmaatschap van de Europese Gemeenschappen of uit hoofde van hun hoedanigheid van Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte. 
+§ 2.  De uit § 1 voortvloeiende verplichtingen voor de Lidstaten, die tevens lid zijn van de Europese Gemeenschappen of als Staat partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, hebben geen voorrang op hun verplichtingen uit hoofde van hun lidmaatschap van de Europese Gemeenschappen of uit hoofde van hun hoedanigheid van Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte. 
 
 ### Artikel  4  
 
@@ -4283,7 +4283,7 @@ c. een verklaring hebben afgelegd overeenkomstig artikel 9, § 1 van de Uniforme
 
 ####Depositaris
 
-§ 1.  De Secretaris-Generaal is de depositaris van dit Verdrag. Zijn taken van depositaris zijn die welke worden vermeld in [Deel VII van het Verdrag van Wenen van 23 mei 1969 inzake het verdragenrecht](../../../../../../../../verdrag/vienna/convention/of/the/law/of/treaties/BWBV0003441/README.md).
+§ 1.  De Secretaris-Generaal is de depositaris van dit Verdrag. Zijn taken van depositaris zijn die welke worden vermeld in Deel VII van het Verdrag van Wenen van 23 mei 1969 inzake het verdragenrecht.
 § 2.  Wanneer tussen een Lidstaat en de depositaris een geschil rijst met betrekking tot de vervulling van de taken van de depositaris, brengt de depositaris of de betrokken Lidstaat deze kwestie onder de aandacht van de Lidstaten of legt hij, in voorkomend geval, deze ter beslissing voor aan het Comité van Beheer. 
 
 ### Artikel  37  

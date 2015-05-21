@@ -8,7 +8,13 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: a.  wet:   de Wet op het notarisambt;  b. algemene bewaarplaats:   de algemene bewaarplaats, bedoeld in artikel 57, eerste lid, van de wet;  c. bewaarder:   de bewaarder, bedoeld in artikel 57, tweede lid van de wet.    
+In deze regeling wordt verstaan onder: 
+
+a.*wet:* de Wet op het notarisambt;
+
+b.*algemene bewaarplaats:* de algemene bewaarplaats, bedoeld in artikel 57, eerste lid, van de wet;
+
+c.*bewaarder:* de bewaarder, bedoeld in artikel 57, tweede lid van de wet.  
 
 ### Artikel  2  
 
