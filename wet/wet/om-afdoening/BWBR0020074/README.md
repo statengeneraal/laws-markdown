@@ -67,11 +67,11 @@ Wijzigt de Wet melding ongebruikelijke transacties en de Wet identificatie bij d
 
 ### Artikel XI 
 
-In strafzaken waarin voor het in werking treden van artikel II, onderdelen O tot en met R, artikel III, artikel IV en artikel VI van deze wet voorwaarden ter voorkoming van strafvervolging zijn gesteld overeenkomstig de [artikelen 74](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [74c van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), de [artikelen 36](../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) en [37 van de Wet op de economische delicten](../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md), [artikel 76 van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) dan wel [artikel 85 van de Waterschapswet](../../../../wet/waterschapswet/BWBR0005108/README.md), blijven de artikelen die door deze wet gewijzigd worden of vervallen van toepassing zoals zij luidden voor het in werking treden van het desbetreffende onderdeel van deze wet.
+In strafzaken waarin voor het in werking treden van artikel II, onderdelen O tot en met R, artikel III, artikel IV en artikel VI van deze wet voorwaarden ter voorkoming van strafvervolging zijn gesteld overeenkomstig de artikelen 74 en 74c van het Wetboek van Strafrecht, de artikelen 36 en 37 van de Wet op de economische delicten, artikel 76 van de Algemene wet inzake rijksbelastingen dan wel artikel 85 van de Waterschapswet, blijven de artikelen die door deze wet gewijzigd worden of vervallen van toepassing zoals zij luidden voor het in werking treden van het desbetreffende onderdeel van deze wet.
 
 ### Artikel XII 
 
-[Artikel 3.14, eerste lid, onderdeel e, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) alsmede [artikel 15b, eerste lid, onderdeel o, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), zoals zij luidden voor het in werking treden van de artikelen VIII en IX van deze wet, blijven van toepassing in gevallen waarin vergoedingen zijn verstrekt ter zake van het voldoen aan gestelde voorwaarden ter voorkoming van strafvervolging in Nederland.
+Artikel 3.14, eerste lid, onderdeel e, van de Wet inkomstenbelasting 2001 alsmede artikel 15b, eerste lid, onderdeel o, van de Wet op de loonbelasting 1964, zoals zij luidden voor het in werking treden van de artikelen VIII en IX van deze wet, blijven van toepassing in gevallen waarin vergoedingen zijn verstrekt ter zake van het voldoen aan gestelde voorwaarden ter voorkoming van strafvervolging in Nederland.
 
 ### Artikel  XIII  
 

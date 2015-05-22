@@ -10,7 +10,7 @@ Besluit:
 
 ####Opening aanvraagtijdvak
 
-Aanvragen op grond van de Regeling cofinanciering sectorplannen 2015 kunnen worden ingediend gedurende de periode van 15 januari 2015 tot en met 29 mei 2015. 
+Aanvragen op grond van de Regeling cofinanciering sectorplannen 2015 kunnen worden ingediend gedurende de periode van 15 januari 2015 tot en met 15 september 2015. 
 
 ### Artikel  2  
 

@@ -20,10 +20,10 @@ a.  *Onze Minister*: Onze Minister van Volksgezondheid, Welzijn en Sport;
 
 b.  *bevoegd gezag*: de Directeur-Generaal van de Volksgezondheid, of, voor zover krachtens artikel 5, eerste lid, een andere autoriteit is aangewezen, deze autoriteit;   
 
-c.  *geneeskundige*: degene, ten aanzien van wie geen grond tot weigering van inschrijving in het desbetreffende overeenkomstig [artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) (*Stb*. 1993, 655) ingestelde register als onderscheidenlijk arts, tandarts, apotheker of verloskundige van toepassing is;   
+c.  *geneeskundige*: degene, ten aanzien van wie geen grond tot weigering van inschrijving in het desbetreffende overeenkomstig artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg (*Stb*. 1993, 655) ingestelde register als onderscheidenlijk arts, tandarts, apotheker of verloskundige van toepassing is;   
 
 d. inwoner van Nederland: degene, die als ingezetene in de basisregistratie personen is ingeschreven of behoort te zijn ingeschreven.      
-2.   Voor de toepassing van het eerste lid, onder c, blijft het bepaalde in [artikel 8, vijfde lid, van de Wet op de beroepen in de individuele gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) buiten toepassing.   
+2.   Voor de toepassing van het eerste lid, onder c, blijft het bepaalde in artikel 8, vijfde lid, van de Wet op de beroepen in de individuele gezondheidszorg buiten toepassing.   
 
 ### Artikel  2  
 
@@ -32,11 +32,11 @@ d. inwoner van Nederland: degene, die als ingezetene in de basisregistratie pers
 
 ### Artikel  2a  
 
-De geneeskundigen die niet ingeschreven staan in het desbetreffende overeenkomstig [artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) ingestelde register, worden voor de toepassing van in andere wetten opgenomen bepalingen, betrekking hebbende op degenen die in dat register ingeschreven staan, gelijkgesteld met degenen die in dat register ingeschreven staan voor zover zulks noodzakelijk is ter nakoming van de hun krachtens deze wet opgelegde verplichtingen. 
+De geneeskundigen die niet ingeschreven staan in het desbetreffende overeenkomstig artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg ingestelde register, worden voor de toepassing van in andere wetten opgenomen bepalingen, betrekking hebbende op degenen die in dat register ingeschreven staan, gelijkgesteld met degenen die in dat register ingeschreven staan voor zover zulks noodzakelijk is ter nakoming van de hun krachtens deze wet opgelegde verplichtingen. 
 
 ### Artikel  3  
 
-1.  Onverminderd de [artikelen 7, eerste lid](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, één of meer van de paragrafen van hoofdstuk II van deze wet in werking worden gesteld.   
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, één of meer van de paragrafen van hoofdstuk II van deze wet in werking worden gesteld.   
 2.  Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde paragrafen.   
 3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de paragrafen die ingevolge het eerste lid in werking zijn gesteld, onverwijld buiten werking gesteld.   
 4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, worden de paragrafen die ingevolge het eerste lid in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.   
@@ -81,7 +81,7 @@ b. zich ter uitoefening van de praktijk te vestigen;
 
 c. bij ontstentenis of afwezigheid van een geneeskundige diens praktijk langer dan een week waar te nemen.      
 2.   Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.    
-4.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de vergunning, bedoeld in dit artikel. 
+4.  Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht is van toepassing op de vergunning, bedoeld in dit artikel. 
 
 ### §  2  
 
@@ -100,7 +100,7 @@ a. te beëindigen;
 b. aan te gaan.      
 2.   Een krachtens het eerste lid, onder *a*, gesteld verbod geldt mede voor de wederpartij.    
 3.   Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.    
-5.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de vergunning, bedoeld in dit artikel. 
+5.  Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht is van toepassing op de vergunning, bedoeld in dit artikel. 
 
 ### Artikel  10  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -119,7 +119,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 Treedt in werking op een nader te bepalen tijdstip 
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden. 
-1.  De artikelen 9, 10 en 11 gelden niet ten aanzien van dienstbetrekkingen van geneeskundigen, die overheidswerknemer zijn in de zin van [artikel 2 van de Wet privatisering ABP](../../../../wet/wet/privatisering/abp/BWBR0007791/README.md).    
+1.  De artikelen 9, 10 en 11 gelden niet ten aanzien van dienstbetrekkingen van geneeskundigen, die overheidswerknemer zijn in de zin van artikel 2 van de Wet privatisering ABP.    
 2.   Ten aanzien van zodanige dienstbetrekkingen kunnen regelen van overeenkomstige strekking worden gesteld bij algemene maatregel van bestuur.    
 3.   Bij een algemene maatregel van bestuur als in het tweede lid bedoeld kunnen omtrent het vragen van voorziening tegen beschikkingen, krachtens die maatregelen genomen, en de rechtsgang ter zake, regelen worden gesteld in afwijking van hoofdstuk IV.    
 4.   De voordracht tot een algemene maatregel van bestuur als in het tweede lid bedoeld wordt Ons gedaan door Onze Minister, te zamen met Onze Ministers, wie het mede aangaat.   
@@ -201,7 +201,7 @@ Treedt in werking op een nader te bepalen tijdstip
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden. 
 1.  Bij ministeriële regeling kan worden bepaald, dat het geneeskundigen, aan wie ingevolge artikel 13, eerste lid, een verplichting kan worden opgelegd, verboden is het land te verlaten zonder door hem verleende vergunning.    
 2.   Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.    
-4.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de vergunning, bedoeld in dit artikel. 
+4.  Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht is van toepassing op de vergunning, bedoeld in dit artikel. 
 
 ### §  4  
 
@@ -235,7 +235,7 @@ b. treffen, voor zover nodig, van voorzieningen bij ziekte, ongeval, invaliditei
 
 ### Artikel  23  
 
-In afwijking van [artikel 6:4, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt een bezwaarschrift tegen een besluit van Onze Minister of Onze Minister van Sociale zaken en Werkgelegenheid ingediend bij het bevoegd gezag.  
+In afwijking van artikel 6:4, eerste lid, van de Algemene wet bestuursrecht, wordt een bezwaarschrift tegen een besluit van Onze Minister of Onze Minister van Sociale zaken en Werkgelegenheid ingediend bij het bevoegd gezag.  
 
 ### Artikel  25  
 
@@ -275,20 +275,20 @@ c. tot het ondergaan van een onderzoek naar hun geschiktheid voor het verrichten
 
 1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.    
 2.  De in het eerste lid bedoelde ambtenaren zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.    
-3.  De in het eerste lid bedoelde ambtenaren beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+3.  De in het eerste lid bedoelde ambtenaren beschikken niet over de bevoegdheden, genoemd in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht.    
 4.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
 
 ### Artikel  31a  
 
 1.  Onze Minister wijst ambtenaren aan die belast zijn met het inwinnen van gegevens in het belang van de uitvoering van deze wet.    
-2.  De [artikelen 5:15 tot en met 5:17](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing ten aanzien van de in het eerste lid bedoelde ambtenaren.    
+2.  De artikelen 5:15 tot en met 5:17 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing ten aanzien van de in het eerste lid bedoelde ambtenaren.    
 3.  De in het eerste lid bedoelde ambtenaren zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.   
 
 ### Artikel  32  
 
 1.  Ieder die krachtens artikel 30 is opgeroepen, is verplicht ter plaatse en ten tijde, bij de oproeping aangewezen, te verschijnen en desverlangd de in dat artikel, onder a tot en met c, bedoelde medewerking te verlenen. De verstrekking van de in dat artikel bedoelde inlichtingen dient volledig en naar waarheid te geschieden.    
 2.  Het bevoegd gezag is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de in het eerste lid gestelde verplichtingen.    
-3.   [Artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
+3.   Artikel 5:20, tweede lid, van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
 
 ### Hoofdstuk  VII  
 
@@ -296,12 +296,12 @@ c. tot het ondergaan van een onderzoek naar hun geschiktheid voor het verrichten
 
 ### Artikel  34  
 
-Indien naar het oordeel van het betrokken bevoegd gezag de geboden spoed of buitengewone omstandigheden zulks vereisen, kan de bekendmaking van besluiten geschieden op een andere wijze dan op grond van de [artikelen 3:41](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [3:42 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is vereist. Deze bekendmaking wordt vervolgens zo spoedig mogelijk schriftelijk bevestigd.  
+Indien naar het oordeel van het betrokken bevoegd gezag de geboden spoed of buitengewone omstandigheden zulks vereisen, kan de bekendmaking van besluiten geschieden op een andere wijze dan op grond van de artikelen 3:41 en 3:42 van de Algemene wet bestuursrecht is vereist. Deze bekendmaking wordt vervolgens zo spoedig mogelijk schriftelijk bevestigd.  
 
 ### Artikel  35  
 
-1.  Indien door een besluit als bedoeld in artikel 3, derde en vierde lid, van deze wet dan wel bij een besluit als bedoeld in de [artikelen 7, tweede lid](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), en [8, tweede lid, van de Coördinatiewet uitzonderingstoestanden](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), de werking van een of meer der paragrafen 1 tot en met 3 van hoofdstuk II wordt beëindigd, kan bij dat besluit worden bepaald, dat met betrekking tot geneeskundigen en rechtsbetrekkingen, de krachtens die paragrafen genomen maatregelen en het bij en krachtens die paragrafen bepaalde gedurende een bij dat besluit vast te stellen tijd van toepassing blijven.   
-2.  Indien door een besluit als bedoeld in artikel 3, derde en vierde lid, van deze wet dan wel bij een besluit als bedoeld in de [artikelen 7, tweede lid](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), en [8, tweede lid, van de Coördinatiewet uitzonderingstoestanden](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), de werking van paragraaf 4 van hoofdstuk II wordt beëindigd, kan bij dat besluit met betrekking tot, op grond van die paragraaf verleende, van kracht zijnde vrijstellingen en ontheffingen worden bepaald, dat deze te hunnen aanzien gedurende een bij dat besluit vast te stellen tijd van toepassing blijven.  
+1.  Indien door een besluit als bedoeld in artikel 3, derde en vierde lid, van deze wet dan wel bij een besluit als bedoeld in de artikelen 7, tweede lid, en 8, tweede lid, van de Coördinatiewet uitzonderingstoestanden, de werking van een of meer der paragrafen 1 tot en met 3 van hoofdstuk II wordt beëindigd, kan bij dat besluit worden bepaald, dat met betrekking tot geneeskundigen en rechtsbetrekkingen, de krachtens die paragrafen genomen maatregelen en het bij en krachtens die paragrafen bepaalde gedurende een bij dat besluit vast te stellen tijd van toepassing blijven.   
+2.  Indien door een besluit als bedoeld in artikel 3, derde en vierde lid, van deze wet dan wel bij een besluit als bedoeld in de artikelen 7, tweede lid, en 8, tweede lid, van de Coördinatiewet uitzonderingstoestanden, de werking van paragraaf 4 van hoofdstuk II wordt beëindigd, kan bij dat besluit met betrekking tot, op grond van die paragraaf verleende, van kracht zijnde vrijstellingen en ontheffingen worden bepaald, dat deze te hunnen aanzien gedurende een bij dat besluit vast te stellen tijd van toepassing blijven.  
 
 ### Artikel  36  
 
@@ -334,7 +334,7 @@ e. degenen, die bij algemene maatregel van bestuur daartoe aangewezen openbare a
 
 ### Artikel  39  
 
-Overtreding van het bij artikel 11, derde lid, 13, vijfde lid,19, tweede lid, 29, derde lid, 29a, eerste en tweede lid, artikel 31a, tweede lid, voor zover het betreft [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of artikel 32, eerste lid, bepaalde, alsmede overtreding van het krachtens artikel 36 bepaalde, voor zover zij daarbij is aangeduid als strafbaar feit, wordt gestraft met hechtenis van ten hoogste één maand of geldboete van de tweede categorie.  
+Overtreding van het bij artikel 11, derde lid, 13, vijfde lid,19, tweede lid, 29, derde lid, 29a, eerste en tweede lid, artikel 31a, tweede lid, voor zover het betreft artikel 5:20, eerste lid, van de Algemene wet bestuursrecht of artikel 32, eerste lid, bepaalde, alsmede overtreding van het krachtens artikel 36 bepaalde, voor zover zij daarbij is aangeduid als strafbaar feit, wordt gestraft met hechtenis van ten hoogste één maand of geldboete van de tweede categorie.  
 
 ### Artikel  40  
 
@@ -363,7 +363,7 @@ De voorgaande strafbepalingen zijn mede van toepassing op de Nederlander of de i
 
 ### Artikel  46  
 
-1.  Met het opsporen van de feiten, bij deze wet strafbaar gesteld, zijn behalve de ambtenaren, aangewezen bij [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de krachtens artikel 31 aangewezen ambtenaren, voor zover zij door Onze Minister van Justitie daartoe zijn aangewezen.    
+1.  Met het opsporen van de feiten, bij deze wet strafbaar gesteld, zijn behalve de ambtenaren, aangewezen bij artikel 141 van het Wetboek van Strafvordering, belast de krachtens artikel 31 aangewezen ambtenaren, voor zover zij door Onze Minister van Justitie daartoe zijn aangewezen.    
 2.   Bij het opsporen van een bij deze wet strafbaar gesteld feit hebben de in het eerste lid bedoelde ambtenaren toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.   
 
 ### Hoofdstuk  IX  

@@ -34,7 +34,7 @@ f. inwoner van Nederland: degene, die als ingezetene in de basisregistratie pers
 
 ### Artikel  2  
 
-1.  Onverminderd de [artikelen 7, eerste lid](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), en [8, eerste lid, van de Coördinatiewet](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) uitzonderingstoestanden kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, één of meer van de paragrafen van hoofdstuk II van deze wet in werking worden gesteld.   
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, één of meer van de paragrafen van hoofdstuk II van deze wet in werking worden gesteld.   
 2.  Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde paragrafen.    
 3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de paragrafen die ingevolge het eerste lid in werking zijn gesteld, onverwijld buiten werking gesteld.   
 4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, worden de paragrafen die ingevolge het eerste lid in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.   
@@ -50,7 +50,7 @@ f. inwoner van Nederland: degene, die als ingezetene in de basisregistratie pers
 ### Artikel  5  
 
 1.  Het Hoofd Arbeidsvoorziening oefent de hem bij of krachtens deze wet toegekende bevoegdheden uit met inachtneming van de door Onze Minister in overeenstemming met het gevoelen van de Raad van Ministers gestelde regelen.    
-2.  De door Onze Minister als Hoofd Arbeidsvoorziening aangewezen functionarissen van het Uitvoeringsinstituut werknemersverzekeringen, zijn in die hoedanigheid ondergeschikt aan Onze Minister. De de Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen verleent aan Onze Minister de medewerking die hij in deze verhouding behoeft. Bij regelen als bedoeld in het eerste lid en instructies als bedoeld in [artikel 10:22, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan van het bepaalde bij of krachtens de [Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) worden afgeweken, voor zover zulks in het belang van een goede uitvoering van deze wet nodig is.   
+2.  De door Onze Minister als Hoofd Arbeidsvoorziening aangewezen functionarissen van het Uitvoeringsinstituut werknemersverzekeringen, zijn in die hoedanigheid ondergeschikt aan Onze Minister. De de Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen verleent aan Onze Minister de medewerking die hij in deze verhouding behoeft. Bij regelen als bedoeld in het eerste lid en instructies als bedoeld in artikel 10:22, eerste lid, van de Algemene wet bestuursrecht kan van het bepaalde bij of krachtens de Wet structuur uitvoeringsorganisatie werk en inkomen worden afgeweken, voor zover zulks in het belang van een goede uitvoering van deze wet nodig is.   
 3.   Regelen, gesteld krachtens het eerste lid, worden in de *Staatscourant* bekend gemaakt.   
 
 ### Artikel  6  
@@ -86,7 +86,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 Treedt in werking op een nader te bepalen tijdstip 
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  
-1.  De artikelen 7 en 8 gelden niet ten aanzien van dienstbetrekkingen van personen, die overheidswerknemer zijn in de zin van [artikel 2 van de Wet privatisering ABP](../../../../wet/wet/privatisering/abp/BWBR0007791/README.md).    
+1.  De artikelen 7 en 8 gelden niet ten aanzien van dienstbetrekkingen van personen, die overheidswerknemer zijn in de zin van artikel 2 van de Wet privatisering ABP.    
 2.   Ten aanzien van zodanige dienstbetrekkingen kunnen regelen van overeenkomstige strekking worden gesteld bij algemene maatregel van bestuur.    
 3.   Bij een algemene maatregel van bestuur als in het tweede lid bedoeld kunnen omtrent het vragen van voorziening tegen beschikkingen, krachtens die maatregel genomen, en de rechtsgang ter zake, regelen worden gesteld in afwijking van hoofdstuk III.    
 4.   De voordracht tot een algemene maatregel van bestuur als in het tweede lid bedoeld wordt Ons gedaan door Onze Minister, tezamen met Onze Ministers, wie het mede aangaat.   
@@ -169,7 +169,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 ### Artikel  18  
 Treedt in werking op een nader te bepalen tijdstip 
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden. Op verzoek van een werknemer kan het Hoofd Arbeidsvoorziening hem in verband met het aangaan van een arbeidsverhouding met een nieuwe werkgever, waarin hij onmisbaar wordt verklaard, ter zake van het beëindigen van de bestaande arbeidsverhouding ontheffing verlenen van de [artikelen 670](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [671](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [672 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden. Op verzoek van een werknemer kan het Hoofd Arbeidsvoorziening hem in verband met het aangaan van een arbeidsverhouding met een nieuwe werkgever, waarin hij onmisbaar wordt verklaard, ter zake van het beëindigen van de bestaande arbeidsverhouding ontheffing verlenen van artikel 672 van Boek 7 van het Burgerlijk Wetboek.  
 
 ### Artikel  19  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -183,7 +183,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 Treedt in werking op een nader te bepalen tijdstip 
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  
-1.  Een beding als bedoeld in [artikel 653 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van kracht ten aanzien van het werkzaam zijn als onmisbaar verklaarde werknemer.    
+1.  Een beding als bedoeld in artikel 653 van Boek 7 van het Burgerlijk Wetboek is niet van kracht ten aanzien van het werkzaam zijn als onmisbaar verklaarde werknemer.    
 2.   Indien het beding voor een bepaalde tijd is gemaakt, wordt de tijd, als onmisbaar verklaarde werknemer bij een derde doorgebracht, voor de berekening van deze termijn medegeteld.   
 
 ### Artikel  21  
@@ -204,7 +204,7 @@ Treedt in werking op een nader te bepalen tijdstip
 Treedt in werking op een nader te bepalen tijdstip 
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  
-1.  Burgerdienstplicht rust op alle Nederlanders en inwoners van Nederland, die de leeftijd van achttien jaar, maar nog niet de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), hebben bereikt, met uitzondering van de Nederlanders, woonachtig in Aruba, Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba.    
+1.  Burgerdienstplicht rust op alle Nederlanders en inwoners van Nederland, die de leeftijd van achttien jaar, maar nog niet de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, hebben bereikt, met uitzondering van de Nederlanders, woonachtig in Aruba, Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba.    
 2.   Van burgerdienstplicht vrijgesteld zijn:  
 
 a. degenen, die krachtens artikel 13, eerste lid, onmisbaar verklaard zijn;   
@@ -339,7 +339,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ### Artikel  36  
 
-In afwijking van [artikel 6:4, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt een bezwaarschrift tegen een besluit van Onze Minister of Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer ingediend bij het Hoofd Arbeidsvoorziening.  
+In afwijking van artikel 6:4, eerste lid, van de Algemene wet bestuursrecht wordt een bezwaarschrift tegen een besluit van Onze Minister of Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer ingediend bij het Hoofd Arbeidsvoorziening.  
 
 ### Artikel  38  
 
@@ -369,7 +369,7 @@ a. tot het geven van inlichtingen, die naar zijn redelijk oordeel in het belang 
 
 b. tot het overleggen van bescheiden, waarvan raadpleging naar zijn redelijk oordeel in het belang van de uitvoering van deze wet nodig is;   
 
-c. voor zover het personen betreft, die de leeftijd van achttien jaar, maar nog niet de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), hebben bereikt: tot het ondergaan van een onderzoek naar hun geschiktheid voor het verrichten van werkzaamheden ingevolge hoofdstuk II, paragraaf 4.    
+c. voor zover het personen betreft, die de leeftijd van achttien jaar, maar nog niet de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, hebben bereikt: tot het ondergaan van een onderzoek naar hun geschiktheid voor het verrichten van werkzaamheden ingevolge hoofdstuk II, paragraaf 4.    
 
 ### Artikel  43  
 
@@ -387,9 +387,9 @@ c. voor zover het personen betreft, die de leeftijd van achttien jaar, maar nog 
 
 ### Artikel  47  
 
-1.  Indien door een besluit als bedoeld in artikel 2, derde en vierde lid, van deze wet dan wel bij een besluit als bedoeld in de [artikelen 7, tweede lid](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), en [8, tweede lid, van de Coördinatiewet uitzonderingstoestanden](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), de werking van paragraaf 1 of 2 van hoofdstuk II wordt beëindigd, kan bij dat besluit worden bepaald, dat ten aanzien van de arbeidsverhoudingen, waarvoor krachtens die paragraaf maatregelen van kracht zijn, het bij en krachtens die paragraaf bepaalde gedurende een bij dat besluit vast te stellen tijd van toepassing blijft.   
-2.  Indien door een besluit, als bedoeld in artikel 2, derde en vierde lid, van deze wet dan wel bij een besluit als bedoeld in de [artikelen 7, tweede lid](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), en [8, tweede lid, van de Coördinatiewet uitzonderingstoestanden](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), de werking van paragraaf 3 of 4 van hoofdstuk II wordt beëindigd, kan bij dat besluit worden bepaald, dat ten aanzien van degenen die op grond van die paragraaf tot onmisbaar werknemer zijn verklaard, onderscheidenlijk een krachtens artikel 24 opgeroepen burgerdienstplichtige zijn, het bij en krachtens die paragraaf bepaalde gedurende een bij dat besluit vast te stellen tijd van toepassing blijft.   
-3.  Indien door een besluit als bedoeld in artikel 2, derde en vierde lid, van deze wet dan wel bij een besluit als bedoeld in de [artikelen 7, tweede lid, en 8, tweede lid, van de Coördinatiewet uitzonderingstoestanden](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), de werking van paragraaf 5 van hoofdstuk II wordt beëindigd, kan bij dat besluit met betrekking tot, op grond van die paragraaf verleende, van kracht zijnde vrijstellingen en ontheffingen worden bepaald, dat deze te hunnen aanzien gedurende een bij dat besluit vast te stellen tijd van toepassing blijven.   
+1.  Indien door een besluit als bedoeld in artikel 2, derde en vierde lid, van deze wet dan wel bij een besluit als bedoeld in de artikelen 7, tweede lid, en 8, tweede lid, van de Coördinatiewet uitzonderingstoestanden, de werking van paragraaf 1 of 2 van hoofdstuk II wordt beëindigd, kan bij dat besluit worden bepaald, dat ten aanzien van de arbeidsverhoudingen, waarvoor krachtens die paragraaf maatregelen van kracht zijn, het bij en krachtens die paragraaf bepaalde gedurende een bij dat besluit vast te stellen tijd van toepassing blijft.   
+2.  Indien door een besluit, als bedoeld in artikel 2, derde en vierde lid, van deze wet dan wel bij een besluit als bedoeld in de artikelen 7, tweede lid, en 8, tweede lid, van de Coördinatiewet uitzonderingstoestanden, de werking van paragraaf 3 of 4 van hoofdstuk II wordt beëindigd, kan bij dat besluit worden bepaald, dat ten aanzien van degenen die op grond van die paragraaf tot onmisbaar werknemer zijn verklaard, onderscheidenlijk een krachtens artikel 24 opgeroepen burgerdienstplichtige zijn, het bij en krachtens die paragraaf bepaalde gedurende een bij dat besluit vast te stellen tijd van toepassing blijft.   
+3.  Indien door een besluit als bedoeld in artikel 2, derde en vierde lid, van deze wet dan wel bij een besluit als bedoeld in de artikelen 7, tweede lid, en 8, tweede lid, van de Coördinatiewet uitzonderingstoestanden, de werking van paragraaf 5 van hoofdstuk II wordt beëindigd, kan bij dat besluit met betrekking tot, op grond van die paragraaf verleende, van kracht zijnde vrijstellingen en ontheffingen worden bepaald, dat deze te hunnen aanzien gedurende een bij dat besluit vast te stellen tijd van toepassing blijven.   
 
 ### Artikel  48  
 
@@ -409,7 +409,7 @@ b. de leden van provinciale staten en van gemeenteraden;
 
 c. degenen, die in werkelijke militaire dienst zijn of in militaire dienst opgeroepen zijn;   
 
-d. degenen die onder verantwoordelijkheid van het met betrekking tot de bestrijding van rampen en zware ongevallen bevoegd gezag, hetzij in het verband van de organisatie waarbij zij zijn aangesteld, hetzij op verzoek of op bevel van dat bevoegd gezag, in buitengewone omstandigheden als bedoeld in [paragraaf 12 van de Wet veiligheidsregio’s](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) dienen deel te nemen aan het bestrijden van een ramp of een zwaar ongeval als bedoeld in [artikel 1 van genoemde wet](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md);   
+d. degenen die onder verantwoordelijkheid van het met betrekking tot de bestrijding van rampen en zware ongevallen bevoegd gezag, hetzij in het verband van de organisatie waarbij zij zijn aangesteld, hetzij op verzoek of op bevel van dat bevoegd gezag, in buitengewone omstandigheden als bedoeld in paragraaf 12 van de Wet veiligheidsregio’s dienen deel te nemen aan het bestrijden van een ramp of een zwaar ongeval als bedoeld in artikel 1 van genoemde wet;   
 
 e. bekleders van een geestelijk ambt of diegenen die een opleiding tot een dergelijk ambt volgen;  
 
@@ -418,7 +418,7 @@ f. degenen, die bij algemene maatregel van bestuur daartoe aangewezen openbare a
 
 ### Artikel  51  
 
-Degenen, die werkzaamheden moeten verrichten ingevolge een vordering op grond van [artikel 24 van de Inkwartieringswet](../../../../wet/inkwartieringswet/BWBR0002111/README.md) (*Stb.* 1953, 305), een opdracht op grond van [artikel 61 van de Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md) (*Stb.* 1958, 47), dan wel een oproeping op grond van [artikel 29 van de Oorlogswet voor Nederland](../../../../wet/oorlogswet/voor/nederland/BWBR0007983/README.md) (*Stb.* 1964, 337) of artikel 1, onder 6°, van de Bevoegdhedenwet (*Stb.* 1902, 54), zijn, zolang bedoelde verplichting duurt, van de verplichtingen, welke ingevolge het bij of krachtens deze wet bepaalde op hen rusten, ontheven.  
+Degenen, die werkzaamheden moeten verrichten ingevolge een vordering op grond van artikel 24 van de Inkwartieringswet (*Stb.* 1953, 305), een opdracht op grond van artikel 61 van de Luchtvaartwet (*Stb.* 1958, 47), dan wel een oproeping op grond van artikel 29 van de Oorlogswet voor Nederland (*Stb.* 1964, 337) of artikel 1, onder 6°, van de Bevoegdhedenwet (*Stb.* 1902, 54), zijn, zolang bedoelde verplichting duurt, van de verplichtingen, welke ingevolge het bij of krachtens deze wet bepaalde op hen rusten, ontheven.  
 
 ### Artikel  52  
 
@@ -459,7 +459,7 @@ De voorgaande strafbepalingen zijn mede van toepassing op de Nederlander of de i
 
 ### Artikel  60  
 
-1.  Met het opsporen van de feiten, bij deze wet strafbaar gesteld, zijn behalve de ambtenaren, aangewezen bij [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de krachtens artikel 43 aangewezen ambtenaren, voor zover zij door Onze Minister van Justitie daartoe zijn aangewezen.    
+1.  Met het opsporen van de feiten, bij deze wet strafbaar gesteld, zijn behalve de ambtenaren, aangewezen bij artikel 141 van het Wetboek van Strafvordering, belast de krachtens artikel 43 aangewezen ambtenaren, voor zover zij door Onze Minister van Justitie daartoe zijn aangewezen.    
 2.   Bij het opsporen van een bij deze wet strafbaar gesteld feit hebben de in het eerste lid bedoelde ambtenaren toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.   
 
 ### Hoofdstuk  VII  

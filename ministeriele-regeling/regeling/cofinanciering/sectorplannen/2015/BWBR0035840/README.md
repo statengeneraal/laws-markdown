@@ -186,7 +186,7 @@ g. een onderbouwde begroting van de kosten van de maatregelen waarvoor cofinanci
 
 h. een omschrijving van de wijze van financiering van structurele maatregelen die worden voortgezet nadat de tijdelijke cofinanciering is beëindigd; en  
 
-i. een overeenkomst tussen de werkgevers- en werknemersorganisaties waarin, indien gebruik is gemaakt van de mogelijkheid tot afwijken als bedoeld in artikel 3.1, derde lid, de afwijkende termijn en afwijkende regels zijn opgenomen.     
+i. een overeenkomst tussen de werkgevers- en werknemersorganisaties waarin, indien gebruik is gemaakt van de mogelijkheid tot afwijken als bedoeld in artikel 3.6, vijfde lid, de afwijkende termijn en afwijkende regels zijn opgenomen.     
 5.  Dertien weken na ontvangst van de volledige aanvraag wordt beschikt. Deze termijn wordt opgeschort gerekend vanaf de dag na de dag waarop de indiener, op grond van artikel 4:5 van de Algemene wet bestuursrecht, in de gelegenheid is gesteld om zijn aanvraag aan te vullen.   
 6.  Door het indienen van een aanvraag stemt de hoofdaanvrager er namens het samenwerkingsverband mee in dat het subsidiedossier met uitzondering van persoonsgegevens openbaar wordt gemaakt.  
 
@@ -246,9 +246,7 @@ o. onvoldoende is aangetoond dat de partij uit het samenwerkingsverband die zich
 
 ####Subsidiabele maatregelen
 
-1.  Voor subsidie komen in aanmerking maatregelen zoals opgenomen in de artikelen 3.2 tot en met 3.5, of een samenstelling daarvan.   
-2.  Maatregelen op grond van de artikelen 3.2 en 3.4, komen slechts voor cofinanciering in aanmerking indien de werkgever direct na afloop van de scholing een baangarantie van ten minste één jaar biedt.   
-3.  De werkgeversorganisaties en werknemersorganisaties uit het samenwerkverband kunnen gezamenlijk afwijken van de duur van de baangarantie als bedoeld in het tweede lid en afwijkende regels stellen over de baangarantie, waarbij ook kan worden bepaald dat de sector of de arbeidsmarktregio, in plaats van de werkgever, de baangarantie verstrekt.  
+Voor subsidie komen in aanmerking maatregelen zoals opgenomen in de artikelen 3.2 tot en met 3.5, of een samenstelling daarvan. 
 
 ### Artikel  3.2  
 
@@ -289,9 +287,11 @@ d. bijscholing.
 
 a. begeleiding en bemiddeling richting een baan, in hetzelfde of een ander beroep;  
 
-b. in kaart brengen van de competenties van de uitkeringsgerechtigde; of  
+b.uitbreiden van infrastructuur voor trajecten naar werk;
 
-c. om- of bijscholing.    
+c. in kaart brengen van de competenties van de uitkeringsgerechtigde; of  
+
+d. om- of bijscholing.    
 
 ### Artikel  3.5  
 
@@ -302,9 +302,11 @@ c. om- of bijscholing.
 
 a. begeleiding en bemiddeling richting een baan, in hetzelfde of een ander beroep;  
 
-b. in kaart brengen van de competenties van de persoon; of  
+b.uitbreiden van infrastructuur voor overig naar werk trajecten;
 
-c. om- of bijscholing.    
+c. in kaart brengen van de competenties van de persoon; of  
+
+d. om- of bijscholing.    
 
 ### Artikel  3.6  
 
@@ -321,8 +323,13 @@ c. opleidingsbenodigdheden;
 d. begeleiding en advisering van opleidingstrajecten.     
 2.  Een maatregel komt slechts voor cofinanciering in aanmerking voor zover het subsidiebedrag niet meer dan 2 miljoen euro per arbeidsorganisatie per opleidingsproject bedraagt.   
 3.  Indien een deelnemer aan de opleidingen, bedoeld in dit hoofdstuk, recht heeft op een uitkering op grond van hoofdstuk II van de Werkloosheidswet informeert de hoofdaanvrager namens de uitvoerders van de opleidingen het Uitvoeringsinstituut werknemersverzekeringen eenmaal per zes maanden over de deelnemers die de opleidingstrajecten volgen.   
-4.  De hoofdaanvrager geeft een verklaring van deelname aan de deelnemer, indien er omscholing als bedoeld in de artikelen 3.2 en 3.4 of bijscholing als bedoeld in artikel 3.4 wordt gevolg waarvoor op grond van het sectorplan subsidie is verleend.   
-5.  De maximale termijn, bedoeld in artikel 1.2, zesde lid, en hetgeen is bepaald in artikel 4.2, eerste lid, onderdeel c, zijn niet van toepassing indien de maatregelen bestaan uit scholing in de vorm van een beroepsbegeleidende leerweg, mits er binnen twaalf maanden na de datum van de subsidiebeschikking, bedoeld in artikel 2.4, een aanvang wordt gemaakt met de uitvoering. In afwijking van artikel 4.5, eerste lid, dient de hoofdaanvrager binnen dertien weken na beëindiging van de uitvoering van alle in de subsidiebeschikking genoemde maatregelen, doch uiterlijk binnen dertien weken na afloop van een termijn van zesendertig maanden na de datum van die subsidiebeschikking een aanvraag tot subsidievaststelling van het volledige sectorplan in bij de minister onder gebruikmaking van het daartoe door de minister beschikbaar gestelde (elektronisch) formulier.  
+4.  De hoofdaanvrager geeft een verklaring van deelname aan de deelnemer indien: 
+
+a. er omscholing als bedoeld in de artikelen 3.2 en 3.4 of bijscholing als bedoeld in artikel 3.4 wordt gevolgd waarvoor op grond van het sectorplan subsidie is verleend; en  
+
+b. de werkgever direct na afloop van de scholing een baangarantie van ten minste één jaar biedt.     
+5.  De werkgeversorganisaties en werknemersorganisaties uit het samenwerkverband kunnen gezamenlijk afwijken van de duur van de baangarantie als bedoeld in het vierde lid, onderdeel b, en afwijkende regels stellen over de baangarantie, waarbij ook kan worden bepaald dat de sector of de arbeidsmarktregio, in plaats van de werkgever, de baangarantie verstrekt.  
+6.  De maximale termijn, bedoeld in artikel 1.2, zesde lid, en hetgeen is bepaald in artikel 4.2, eerste lid, onderdeel c, zijn niet van toepassing indien de maatregelen bestaan uit scholing in de vorm van een beroepsbegeleidende leerweg, mits er binnen twaalf maanden na de datum van de subsidiebeschikking, bedoeld in artikel 2.4, een aanvang wordt gemaakt met de uitvoering. In afwijking van artikel 4.5, eerste lid, dient de hoofdaanvrager binnen dertien weken na beëindiging van de uitvoering van alle in de subsidiebeschikking genoemde maatregelen, doch uiterlijk binnen dertien weken na afloop van een termijn van zesendertig maanden na de datum van die subsidiebeschikking een aanvraag tot subsidievaststelling van het volledige sectorplan in bij de minister onder gebruikmaking van het daartoe door de minister beschikbaar gestelde (elektronisch) formulier.  
 
 ### Artikel  3.7  
 
@@ -397,7 +404,7 @@ c. binnen 6 maanden na het verlenen van de subsidiebeschikking, geen aanvang is 
 ####Rapportageverplichting
 
 1.  Voor zover de uitvoering van het sectorplan een periode beslaat van twaalf maanden of langer, overlegt de hoofdaanvrager, onder gebruikmaking van het daartoe door de minister (elektronisch) beschikbaar gestelde formulier, uiterlijk acht weken na afloop van die twaalf maanden een tussentijds voortgangsverslag. Het tussentijds voortgangsverslag bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.   
-2.  Voor zover de uitvoering van het sectorplan door toepassing van artikel 1.2a of artikel 3.6, vijfde lid, een periode beslaat van meer dan 24 maanden, overlegt de hoofdaanvrager, onder gebruikmaking van het daartoe door de minister (elektronisch) beschikbaar gestelde formulier, uiterlijk acht weken na afloop van die 24 maanden een tussentijds voortgangsverslag. Het tussentijds voortgangsverslag bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.   
+2.  Voor zover de uitvoering van het sectorplan door toepassing van artikel 1.2a of artikel 3.6, zesde lid, een periode beslaat van meer dan 24 maanden, overlegt de hoofdaanvrager, onder gebruikmaking van het daartoe door de minister (elektronisch) beschikbaar gestelde formulier, uiterlijk acht weken na afloop van die 24 maanden een tussentijds voortgangsverslag. Het tussentijds voortgangsverslag bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.   
 3.  De hoofdaanvrager verstrekt bij het tussentijds voortgangsverslag, onder gebruikmaking van het daartoe door de minister (elektronisch) beschikbaar gestelde formulier, aan de minister het burgerservicenummer van de deelnemers per maatregel in het sectorplan waarvoor cofinanciering is verstrekt.   
 4.  Indien de hoofdaanvrager voorschotten ontvangt als bedoeld in artikel 4.3, kan de minister in de beschikking tot subsidieverlening de verplichting opleggen dat het tussentijdse voortgangsverslag is voorzien van een controleverklaring van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, volgens een door de minister voor te schrijven model.  
 
