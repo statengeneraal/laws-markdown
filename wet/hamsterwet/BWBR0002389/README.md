@@ -34,7 +34,6 @@ Treedt in werking op een nader te bepalen tijdstip
 4.   Onze Minister kan de ontheffingen, behorende tot een door hem aangewezen groep, gezamenlijk intrekken, indien een gewichtige reden dat naar zijn oordeel noodzakelijk maakt.   
 
 ### Artikel  5  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een ministeriële regeling als bedoeld in artikel 3, of een regeling tot wijziging of intrekking daarvan, en een besluit als bedoeld in artikel 4, vierde lid, treden niet in werking alvorens te zijn bekendgemaakt door plaatsing in de *Staatscourant* of op een andere door Onze betrokken Minister bepaalde wijze.    
 2.   Een besluit als bedoeld in artikel 4, vierde lid, treedt niet in werking alvorens het is bekendgemaakt door plaatsing in de *Staatscourant* of op een andere door Onze betrokken Minister bepaalde wijze.   

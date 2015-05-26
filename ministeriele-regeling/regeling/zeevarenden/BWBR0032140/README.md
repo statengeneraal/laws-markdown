@@ -476,7 +476,6 @@ Voor schepen waarop zeevarenden werkzaam zijn met uiteenlopende gewoonten van go
 5.  Dit artikel is ook van toepassing op de in artikel 1.3, onderdeel a en c, bedoelde schepen.  
 
 ### Artikel  3.21a  
-Treedt in werking per 30-03-2015 
 
 1.  Aan boord zijn de nodige voorzieningen voor het elektronisch of op andere wijze raadplegen van de overeenkomst tussen de Associatie van reders van de Europese Gemeenschap (ECSA) en de Europese Federatie van vervoerswerknemers (European Transport Workers' Federation – ETF) inzake het Verdrag betreffende maritieme arbeid (PbEG 2009, L124).   
 2.  Het eerste lid is ook van toepassing op schepen als bedoeld in artikel 1.3, eerste lid, onderdeel a.  

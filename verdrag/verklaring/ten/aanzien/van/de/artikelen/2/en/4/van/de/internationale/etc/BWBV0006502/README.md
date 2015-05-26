@@ -1,0 +1,14 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Verklaring ten aanzien van de artikelen 2 en 4 van de internationale Overeenkomst van 14 maart 1884 tot bescherming der onderzeese telegraafkabels
+
+####DÉCLARATION.
+
+Les Soussignés, Plénipotentiaires des Gouvernements signataires de la convention du 14 Mars 1884, pour la protection des câbles sous-marins, ayant reconnu la convenance de préciser le sens des termes des articles 2 et 4 de la dite convention, ont arrêté, d'un commun accord, la Déclaration suivante. Certaine doutes s'étant élevés sur le sens du mot volontairement inséré dans l'article 2 de la convention du 14 Mars 1884, il est entendu que la disposition de responsabilité pénale mentionnée dans le dit article, ne s'applique pas aux cas de ruptures ou de détériorations occasionnées accidentellement ou nécessairement en réparant un câble, alors que toutes les précautions ont été prises pour éviter ces ruptures ou détériorations. Il est également entendu que l'article 4 de la convention n'a eu d'autre but et ne doit avoir d'autre effet que de charger les tribunaux compétents de chaque Pays de résoudre, conformément à leurs lois et suivant les circonstances, la question de la responsabilité civile du propriétaire d'un câble, qui par la pose ou la réparation de ce câble, cause la rupture ou la détérioration d'un autre cable de même que les conséquences de cette responsabilité, s'il est reconnu qu'elle existe.   
+Fait à Paris, le 1er Décembre 1886 et le 23 Mars 1887 par l'Allemagne.   
+
+####VERKLARING.
+
+De ondergeteekenden, gevolmachtigden van de Regeeringen die de overeenkomst van 14 Maart 1884 tot bescherming der onderzeesche telegraafkabels hebben onderteekend, het van belang achtende de beteekenis van de uitdrukkingen in de artikelen 2 en 4 van genoemde overeenkomst gebezigd, nauwkeurig te bepalen, hebben in gemeen overleg de volgende verklaring vastgesteld. Daar er eenige twijfel gerezen is omtrent de beteekenis van het woord »volontairement”, voorkomende in art. 2 der overeenkomst van den 14den Maart 1884, zoo wordt verstaan dat de strafbepaling in dat artikel vermeld, niet geldt voor het geval van verbreking of beschadiging, geschied bij ongeluk of uit noodzaak bij het herstellen van een kabel, indien namelijk alle voorzorgen, om die verbreking of beschadiging te vermijden, genomen waren. Eveneens wordt verstaan dat art. 4 der overeenkomst geene andere strekking heeft gehad en geen ander gevolg moet hebben dan aan de bevoegde rechtbanken van elk land op te dragen volgens hunne wetten en naar omstandigheden te beslissen omtrent de vraag der civiele aansprakelijkheid van den eigenaar van den kakel, die door het leggen of het herstellen van dien kabel de verbreking of beschadiging van een anderen kabel veroorzaakt, alsmede omtrent de gevolgen dier aansprakelijkheid zoo haar bestaan is erkend.   
+Gedaan te Parijs, den 1sten December 1886 en den 23sten Maart 1887 door Duitschland.  
+

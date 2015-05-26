@@ -313,7 +313,7 @@ IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed t
 
 ####“GARNET DE PASSAGES EN DOUANE”
 
-The “Carnet” is issued in English and French The dimensions are 21 x 29.7 cm. The issuing association shall insert its name on each voucher and shall include the initials of the international organization to which it belongs.  ![10000055036](http://wetten.overheid.nl/Illustration/10000055036)
+Carnet used for CPD operations within a specific region may be printed in other combinations of United Nations official languages on the condition that one of the two languages is English or French. The dimensions are 21 x 29.7 cm. The issuing association shall insert its name on each voucher and shall include the initials of the international organization to which it belongs.  ![10000055036](http://wetten.overheid.nl/Illustration/10000055036)
 ![10000055037](http://wetten.overheid.nl/Illustration/10000055037)
 ![10000055038](http://wetten.overheid.nl/Illustration/10000055038)
 

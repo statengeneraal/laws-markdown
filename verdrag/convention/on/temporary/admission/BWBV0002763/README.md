@@ -27,7 +27,7 @@ e)  „Customs or Economic Union” means: a Union constituted by, and composed 
 
 f)  „person” means: both natural and legal persons, unless the context otherwise requires; 
 
-g)  „the Council” means: the Organization set up by the [Convention establishing a Customs Co-operation Council](../../../../../../verdrag/convention/establishing/a/customs/co-operation/council/BWBV0003093/README.md), Brussels, 15 December 1950; 
+g)  „the Council” means: the Organization set up by the Convention establishing a Customs Co-operation Council, Brussels, 15 December 1950; 
 
 h)  „ratification” means: ratification, acceptance or approval.  
 
@@ -178,6 +178,12 @@ The provisions of this Convention shall not preclude the application of prohibit
 
 The Contracting Parties shall communicate to one another, on request and to the extent allowed by national legislation, information necessary for implementing the provisions of this Convention. 
 
+### Article  21a  
+
+####Electronic data-processing techniques
+
+All formalities necessary for implementing the provisions of this Convention may be carried out electronically by using electronic data-processing techniques approved by the Contracting Parties. 
+
 ### CHAPTER  V  
 
 ####FINAL PROVISIONS
@@ -321,13 +327,13 @@ Upon the entry into force of an Annex to this Convention containing a rescinding
 
 ####Registration and authentic texts
 
-In accordance with [Article 102 of the Charter of the United Nations](../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md), this Convention shall be registered with the Secretariat of the United Nations, at the request of the depositary. 
+In accordance with Article 102 of the Charter of the United Nations, this Convention shall be registered with the Secretariat of the United Nations, at the request of the depositary. 
 
 IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed this Convention. DONE at Istanbul this twenty-sixth day of June nineteen hundred and ninety, in a single original, in the English and French languages, both texts being equally authentic. The depositary is requested to prepare and circulate authoritative translations of this Convention in the Arabic, Chinese, Russian and Spanish languages.  
 
 ### Annex  A  
 
-####Annex concerning temporary admission papers (ATA carnets and CDP carnets)
+####Annex concerning temporary admission papers (ATA carnets and CPD carnets)
 
 ### CHAPTER  I  
 
@@ -494,7 +500,7 @@ Temporary admission papers or parts thereof which have been issued or are intend
 
 ###MODEL OF ATA CARNET
 
-The ATA carnet shall be printed in English or French and may also be printed in a second language. The size of the ATA carnet shall be 396 x 210 mm and that of the vouchers 297 x 210 mm  ![10000050273](http://wetten.overheid.nl/Illustration/10000050273)
+The ATA carnet shall be printed in English or French and may also be printed in a second language. The size of the ATA carnet shall be 297 x 210 mm  ![10000050273](http://wetten.overheid.nl/Illustration/10000050273)
 ![10000050274](http://wetten.overheid.nl/Illustration/10000050274)
 ![10000050275](http://wetten.overheid.nl/Illustration/10000050275)
 ![10000050276](http://wetten.overheid.nl/Illustration/10000050276)
@@ -611,7 +617,7 @@ For the purposes of this Annex, the term “event” means:
 
 1.  The following goods shall be granted temporary admission in accordance with Article 2 of this Convention: 
 
-a) goods intended for display or demonstration at an event, including the materials referred to in the Annexes to the [Agreement on the importation of educational, scientific and cultural materials](../../../../../../verdrag/florence/agreement/BWBV0005577/README.md), UNESCO, New York, 22 November 1950, and to the Protocol thereto, Nairobi, 26 November 1976;  
+a) goods intended for display or demonstration at an event, including the materials referred to in the Annexes to the Agreement on the importation of educational, scientific and cultural materials, UNESCO, New York, 22 November 1950, and to the Protocol thereto, Nairobi, 26 November 1976;  
 
 b) goods intended for use in connection with the display of foreign products at an event, including: 
 
@@ -689,7 +695,7 @@ Each Contracting Party shall have the right to enter a reservation, in accordanc
 
 ### Article  9  
 
-Upon its entry into force, this Annex shall, in accordance with Article 27 of this Convention, terminate and replace the [Customs Convention concerning facilities for the importation of goods for display or use at exhibitions, fairs, meetings or similar events](../../../../../../verdrag/customs/convention/concerning/facilities/for/the/importation/of/goods/for/etc/BWBV0004360/README.md), Brussels, 8 June 1961, in relations between the Contracting Parties which have accepted this Annex and are Contracting Parties to that Convention. 
+Upon its entry into force, this Annex shall, in accordance with Article 27 of this Convention, terminate and replace the Customs Convention concerning facilities for the importation of goods for display or use at exhibitions, fairs, meetings or similar events, Brussels, 8 June 1961, in relations between the Contracting Parties which have accepted this Annex and are Contracting Parties to that Convention. 
 
 ### ANNEX   B.2  
 
@@ -1036,13 +1042,13 @@ The Appendices to this Annex shall be construed to be an integral part thereof.
 
 Upon its entry into force this Annex shall, in accordance with Article 27 of this Convention, terminate and replace the following Conventions and provisions: 
 
-– [European Convention on Customs treatment of pallets used in international transport](../../../../../../verdrag/european/convention/on/customs/treatment/of/pallets/used/in/international/etc/BWBV0005179/README.md), Geneva, 9 December 1960  
+– European Convention on Customs treatment of pallets used in international transport, Geneva, 9 December 1960  
 
 – Customs Convention on the temporary importation of packings, Brussels, 6 October 1960  
 
-– [Articles 2-11](../../../../../../verdrag/customs/convention/on/containers/BWBV0005184/README.md) and [Annexes 1 (paragraphs 1 and 2) -3 to the Customs Convention on Containers](../../../../../../verdrag/customs/convention/on/containers/BWBV0005184/README.md), Geneva, 2 December 1972  
+– Articles 2-11 and Annexes 1 (paragraphs 1 and 2) -3 to the Customs Convention on Containers, Geneva, 2 December 1972  
 
-– [Articles 3](../../../../../../verdrag/international/convention/to/facilitate/the/importation/of/commercial/etc/BWBV0005231/README.md), [5](../../../../../../verdrag/international/convention/to/facilitate/the/importation/of/commercial/etc/BWBV0005231/README.md) and [6 (1.b and 2) to the International Convention to facilitate the importation of commercial samples and advertising material](../../../../../../verdrag/international/convention/to/facilitate/the/importation/of/commercial/etc/BWBV0005231/README.md) , Geneva, 7 November 1952 in relations between the Contracting Parties which have accepted this Annex and are Contracting Parties to those Conventions.   
+– Articles 3, 5 and 6 (1.b and 2) to the International Convention to facilitate the importation of commercial samples and advertising material , Geneva, 7 November 1952 in relations between the Contracting Parties which have accepted this Annex and are Contracting Parties to those Conventions.   
 
 ### Appendix  I  
 
@@ -1066,11 +1072,17 @@ Upon its entry into force this Annex shall, in accordance with Article 27 of thi
 
 ### 1  
 
-The following information shall be durably marked in an appropriate and clearly visible place on containers in accordance with International Standard ISO 6346: 
+The following information shall be durably marked in an appropriate and clearly visible place on containers: 
 
-a) the identification of the owner or principal operator and the individual number and check digit of the container as given in ISO 6346 and its annexes;  
+a. The identification of the owner or principal operator, which may be shown either by its full name or by an established identification system, symbols such as emblems or flags being excluded.  
 
-b) the tare weight of the container, including all its permanently fixed equipment.  
+b. The identification marks and numbers of the container, given by the owner or principal operator; and  
+
+c. The tare weight of the container, including all its permanently fixed equipment. 
+
+###2 
+
+For freight containers generally considered for maritime use, or for any other container utilizing an ISO standard prefix (i.e. four capital letters ending in U), the identification of the owner or principal operator and the container serial number and check digit of the container shall adhere to the International Standard ISO 6346 and its annexes.
 
 ### 3  
 
@@ -1194,7 +1206,7 @@ The Appendices to this Annex shall be construed to be an integral part thereof.
 
 ### Article  8  
 
-Upon its entry into force this Annex shall, in accordance with Article 27 of this Convention, terminate and replace the [Customs Convention on welfare material for seafarers](../../../../../../verdrag/douaneovereenkomst/inzake/welzijnsgoederen/voor/zeevarenden/BWBV0004263/README.md), Brussels, 1 December 1964, the [Customs Convention on the temporary importation of scientific equipment](../../../../../../verdrag/customs/convention/on/the/temporary/importation/of/scientific/equipment/BWBV0004255/README.md), Brussels, 11 June 1968, and the [Customs Convention on the temporary importation of pedagogic material](../../../../../../verdrag/customs/convention/on/the/temporary/importation/of/pedagogic/material/BWBV0004259/README.md), Brussels, 8 June 1970, in relations between the Contracting Parties which have accepted this Annex and are Contracting Parties to those Conventions. 
+Upon its entry into force this Annex shall, in accordance with Article 27 of this Convention, terminate and replace the Customs Convention on welfare material for seafarers, Brussels, 1 December 1964, the Customs Convention on the temporary importation of scientific equipment, Brussels, 11 June 1968, and the Customs Convention on the temporary importation of pedagogic material, Brussels, 8 June 1970, in relations between the Contracting Parties which have accepted this Annex and are Contracting Parties to those Conventions. 
 
 ###Appendix I 
 
@@ -1378,7 +1390,7 @@ The Appendices to this Annex shall be construed to be an integral part thereof.
 
 ### Article  7  
 
-Upon its entry into force this Annex shall, in accordance with Article 27 of this Convention, terminate and replace the application of[ Articles 2](../../../../../../verdrag/convention/concerning/customs/facilities/for/touring/BWBV0005182/README.md) and [5 of the Convention concerning Customs facilities for touring](../../../../../../verdrag/convention/concerning/customs/facilities/for/touring/BWBV0005182/README.md), New York, 4June 1954, in relations between the Contracting Parties which have accepted this Annex and are Contracting Parties to that Convention. 
+Upon its entry into force this Annex shall, in accordance with Article 27 of this Convention, terminate and replace the application of Articles 2 and 5 of the Convention concerning Customs facilities for touring, New York, 4June 1954, in relations between the Contracting Parties which have accepted this Annex and are Contracting Parties to that Convention. 
 
 ### Appendix  I  
 
@@ -1556,7 +1568,7 @@ The Appendix to this Annex shall be construed to be an integral part thereof.
 
 ### Article  7  
 
-Upon its entry into force this Annex shall, in accordance with Article 27 of this Convention, terminate and replace the [Additional Protocol to the Convention concerning Customs facilities for touring, relating to the importation of tourist publicity documents and material](../../../../../../verdrag/additional/protocol/to/the/convention/concerning/customs/facilities/for/etc/BWBV0005344/README.md), New York, 4 June 1954, in relations between the Contracting Parties which have accepted this Annex and are Contracting Parties to that Protocol. 
+Upon its entry into force this Annex shall, in accordance with Article 27 of this Convention, terminate and replace the Additional Protocol to the Convention concerning Customs facilities for touring, relating to the importation of tourist publicity documents and material, New York, 4 June 1954, in relations between the Contracting Parties which have accepted this Annex and are Contracting Parties to that Protocol. 
 
 ### Appendix  
 
@@ -1779,7 +1791,7 @@ c) Article 9, paragraph 2;   of this Annex.
 
 ### Article  11  
 
-Upon its entry into force this Annex shall, in accordance with Article 27 of this Convention, terminate and replace the [Customs Convention on the temporary importation of private road vehicles](../../../../../../verdrag/douaneverdrag/inzake/de/tijdelijke/invoer/van/particuliere/wegvoertuigen/BWBV0005368/README.md), New York, 4 June 1954, the [Customs Convention on the temporary importation of commercial road vehicles](../../../../../../verdrag/customs/convention/on/the/temporary/importation/of/scientific/equipment/BWBV0004255/README.md), Geneva, 18 May 1956, and the [Customs Convention on the temporary importation for private use of aircraft and pleasure boats](../../../../../../verdrag/customs/convention/on/the/temporary/importation/for/private/use/of/etc/BWBV0005389/README.md), Geneva, 18 May 1956, in relation between the Contracting Parties which have accepted this Annex and are Contracting Parties to those Conventions. 
+Upon its entry into force this Annex shall, in accordance with Article 27 of this Convention, terminate and replace the Customs Convention on the temporary importation of private road vehicles, New York, 4 June 1954, the Customs Convention on the temporary importation of commercial road vehicles, Geneva, 18 May 1956, and the Customs Convention on the temporary importation for private use of aircraft and pleasure boats, Geneva, 18 May 1956, in relation between the Contracting Parties which have accepted this Annex and are Contracting Parties to those Conventions. 
 
 ### Annex  D  
 
@@ -1953,7 +1965,7 @@ e.  „douane-unie of economische unie”: een unie opgericht door en samengeste
 
 f.  „persoon”: een natuurlijke persoon of rechtspersoon, tenzij uit het zinsverband anders blijkt;  
 
-g.  „de Raad”: de organisatie ingesteld bij het op 15 december 1950 te Brussel ondertekende [Verdrag houdende instelling van een Internationale Douaneraad](../../../../../../verdrag/convention/establishing/a/customs/co-operation/council/BWBV0003093/README.md);  
+g.  „de Raad”: de organisatie ingesteld bij het op 15 december 1950 te Brussel ondertekende Verdrag houdende instelling van een Internationale Douaneraad;  
 
 h.  „bekrachtiging”: bekrachtiging, aanvaarding of goedkeuring.   
 
@@ -2102,7 +2114,13 @@ De bepalingen van deze Overeenkomst vormen geen beletsel voor de toepassing van 
 
 ####Uitwisseling van informatie
 
-De Overeenkomstsluitende Partijen doen elkaar, op verzoek en voor zover de nationale wetgeving zulks toestaat, de informatie toekomen die nodig is ter toepassing van de bepalingen van deze Overeenkomst. 
+De Overeenkomstsluitende Partijen doen elkaar, op verzoek en voor zover de nationale wetgeving zulks toestaat, de informatie toekomen die nodig is voor de toepassing van de bepalingen van deze Overeenkomst. 
+
+### Artikel  21a  
+
+####Technieken voor elektronische verwerking van gegevens
+
+Alle formaliteiten die nodig zijn voor de toepassing van de bepalingen van deze Overeenkomst kunnen elektronisch worden uitgevoerd door gebruikmaking van door de Overeenkomstsluitende Partijen goedgekeurde technieken voor elektronische verwerking van gegevens. 
 
 ### HOOFDSTUK  V  
 
@@ -2247,7 +2265,7 @@ Bij de inwerkingtreding van een Bijlage bij deze Overeenkomst die een afschaffin
 
 ####Registratie en authentieke teksten
 
-In overeenstemming met [artikel 102 van het Handvest van de Verenigde Naties](../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) wordt deze Overeenkomst op verzoek van de depositaris geregistreerd bij het Secretariaat van de Verenigde Naties. 
+In overeenstemming met artikel 102 van het Handvest van de Verenigde Naties wordt deze Overeenkomst op verzoek van de depositaris geregistreerd bij het Secretariaat van de Verenigde Naties. 
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, deze Overeenkomst hebben ondertekend. GEDAAN te Istanboel op de zesentwintigste juni negentienhonderd negentig, in één oorspronkelijk exemplaar in de Engelse en de Franse taal, zijnde beide teksten gelijkelijk authentiek. De depositaris wordt verzocht rechtskracht hebbende vertalingen van deze Overeenkomst in de Arabische, de Chinese, de Russische en de Spaanse taal op te stellen en rond te zenden.  
 
@@ -2420,7 +2438,7 @@ Documenten voor tijdelijke invoer of gedeelten daarvan die zijn afgegeven of zij
 
 ### *MODEL VAN HET ATA-CARNET* 
 
-Het ATA-carnet wordt afgedrukt in de Engelse of de Franse taal en indien nodig in een tweede taal. De afmetingen van het carnet zijn 396 x 210 mm en die van de stroken 297 x 210 mm.  ![10000050241](http://wetten.overheid.nl/Illustration/10000050241)
+Het ATA-carnet wordt afgedrukt in de Engelse of de Franse taal en indien nodig in een tweede taal. De afmetingen van het carnet zijn 297 x 210 mm.  ![10000050241](http://wetten.overheid.nl/Illustration/10000050241)
 ![10000050242](http://wetten.overheid.nl/Illustration/10000050242)
 ![10000050243](http://wetten.overheid.nl/Illustration/10000050243)
 ![10000050244](http://wetten.overheid.nl/Illustration/10000050244)
@@ -2547,7 +2565,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder „manifestatie”:
 
 1.  Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming met artikel 2 van deze Overeenkomst: 
 
-a. goederen bestemd om op een manifestatie te worden getoond of gedemonstreerd, met inbegrip van de uitrusting bedoeld in de Bijlagen bij de [Overeenkomst inzake de invoer van voorwerpen van opvoedkundige, wetenschappelijke of culturele aard](../../../../../../verdrag/florence/agreement/BWBV0005577/README.md) van de UNESCO, ondertekend te New York op 22 november 1950 en het Protocol daarbij, ondertekend te Nairobi op 26 november 1976;  
+a. goederen bestemd om op een manifestatie te worden getoond of gedemonstreerd, met inbegrip van de uitrusting bedoeld in de Bijlagen bij de Overeenkomst inzake de invoer van voorwerpen van opvoedkundige, wetenschappelijke of culturele aard van de UNESCO, ondertekend te New York op 22 november 1950 en het Protocol daarbij, ondertekend te Nairobi op 26 november 1976;  
 
 b. goederen bestemd om te worden gebruikt bij het tonen van buitenlandse producten op een manifestatie, zoals: 
 
@@ -2625,7 +2643,7 @@ Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in ov
 
 ### Artikel  9  
 
-Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met artikel 27 van deze Overeenkomst, de [Douaneovereenkomst inzake faciliteiten voor de invoer van goederen bestemd om op tentoonstellingen, beurzen, congressen of soortgelijke manifestaties te worden getoond of gebruikt](../../../../../../verdrag/customs/convention/concerning/facilities/for/the/importation/of/goods/for/etc/BWBV0004360/README.md), ondertekend te Brussel op 8 juni 1961, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomst. 
+Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met artikel 27 van deze Overeenkomst, de Douaneovereenkomst inzake faciliteiten voor de invoer van goederen bestemd om op tentoonstellingen, beurzen, congressen of soortgelijke manifestaties te worden getoond of gebruikt, ondertekend te Brussel op 8 juni 1961, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomst. 
 
 ### Bijlage  B.2  
 
@@ -2694,7 +2712,7 @@ De Aanhangsels bij deze Bijlage worden geacht een integrerend onderdeel daarvan 
 
 ### Artikel  8  
 
-Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met artikel 27 van deze Overeenkomst, de [Douaneovereenkomst inzake de tijdelijke invoer van beroepsmateriaal](../../../../../../verdrag/douaneovereenkomst/inzake/de/tijdelijke/invoer/van/beroepsmateriaal/BWBV0004591/README.md), ondertekend te Brussel op 8 juni 1961, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomst. 
+Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met artikel 27 van deze Overeenkomst, de Douaneovereenkomst inzake de tijdelijke invoer van beroepsmateriaal, ondertekend te Brussel op 8 juni 1961, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomst. 
 
 ### Aanhangsel  I  
 
@@ -2972,13 +2990,13 @@ De Aanhangsels bij deze Bijlage worden geacht een integrerend onderdeel daarvan 
 
 Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met artikel 27 van deze Overeenkomst, de volgende overeenkomsten en bepalingen beëindigd: 
 
-– de [Europese Overeenkomst betreffende de douanebehandeling van laadborden gebruikt bij internationaal vervoer](../../../../../../verdrag/european/convention/on/customs/treatment/of/pallets/used/in/international/etc/BWBV0005179/README.md), ondertekend te Genève op 9 december 1960;  
+– de Europese Overeenkomst betreffende de douanebehandeling van laadborden gebruikt bij internationaal vervoer, ondertekend te Genève op 9 december 1960;  
 
 – de Douaneovereenkomst betreffende de tijdelijke invoer van verpakkingsmiddelen, ondertekend te Brussel op 6 oktober 1960;  
 
-– de [artikelen 2 tot en met 11](../../../../../../verdrag/customs/convention/on/containers/BWBV0005184/README.md) en[ Bijlagen 1 (paragrafen 1 en 2) tot en met 3 van de Douaneovereenkomst inzake containers](../../../../../../verdrag/customs/convention/on/containers/BWBV0005184/README.md) , ondertekend te Genève op 2 december 1972;  
+– de artikelen 2 tot en met 11 en Bijlagen 1 (paragrafen 1 en 2) tot en met 3 van de Douaneovereenkomst inzake containers , ondertekend te Genève op 2 december 1972;  
 
-– de [artikelen 3](../../../../../../verdrag/international/convention/to/facilitate/the/importation/of/commercial/etc/BWBV0005231/README.md), [5](../../../../../../verdrag/international/convention/to/facilitate/the/importation/of/commercial/etc/BWBV0005231/README.md) en [6 (1.b en 2) van de Internationale Overeenkomst om de invoer van handelsmonsters, handelsstalen en reclamemateriaal te vergemakkelijken](../../../../../../verdrag/international/convention/to/facilitate/the/importation/of/commercial/etc/BWBV0005231/README.md) , ondertekend te Genève op 7 november 1952;   en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomsten. 
+– de artikelen 3, 5 en 6 (1.b en 2) van de Internationale Overeenkomst om de invoer van handelsmonsters, handelsstalen en reclamemateriaal te vergemakkelijken , ondertekend te Genève op 7 november 1952;   en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomsten. 
 
 ### Aanhangsel  I  
 
@@ -3002,11 +3020,17 @@ Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met artikel 
 
 ### 1  
 
-De volgende gegevens dienen duurzaam op containers te worden aangebracht op een geschikte en duidelijk zichtbare plaats in overeenstemming met de internationale norm ISO 6346: 
+De volgende informatie dient duurzaam op containers te worden aangebracht op een geschikte en duidelijk zichtbare plaats: 
 
-a. de aanduiding van de eigenaar of de voornaamste exploitant en het unieke nummer en controlecijfer van de container zoals aangegeven in ISO 6346 en de bijlagen daarbij;  
+a. De aanduiding van de eigenaar of de voornaamste exploitant, hetgeen kan geschieden door middel van diens volledige naam of door middel van een algemeen bekend identificatiesysteem, met uitzondering van symbolen als emblemen of vlaggen.  
 
-b. het tarragewicht van de container, met inbegrip van de gehele vaste uitrusting.   
+b. De herkenningstekenen en identificatienummers van de container, daaraan gegeven door de eigenaar of de voornaamste exploitant; en  
+
+c. Het tarragewicht van de container, met inbegrip van de gehele vaste uitrusting.  
+
+###2 
+
+Bij vrachtcontainers die over het algemeen bestemd zijn voor het zeevervoer of iedere andere container waarop een ISO-standaardcode is vermeld (dat wil zeggen vier hoofdletters met als laatste een U), dienen de aanduiding van de eigenaar of de voornaamste exploitant alsook het serienummer en het controlecijfer van de container in overeenstemming te zijn met de internationale norm ISO 6346 en de bijlagen daarbij.
 
 ### 3  
 
@@ -3131,7 +3155,7 @@ De Aanhangsels bij deze Bijlage worden geacht een integrerend onderdeel daarvan 
 
 ### Artikel  8  
 
-Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met artikel 27 van deze Overeenkomst, de [Douaneovereenkomst inzake welzijnsgoederen voor zeevarenden](../../../../../../verdrag/douaneovereenkomst/inzake/welzijnsgoederen/voor/zeevarenden/BWBV0004263/README.md), ondertekend te Brussel op 1 december 1964, de [Douaneovereenkomst inzake de tijdelijke invoer van wetenschappelijk materiaal](../../../../../../verdrag/customs/convention/on/the/temporary/importation/of/scientific/equipment/BWBV0004255/README.md), ondertekend te Brussel op 11 juni 1968, en de [Douaneovereenkomst inzake de tijdelijke invoer van pedagogisch materiaal](../../../../../../verdrag/customs/convention/on/the/temporary/importation/of/pedagogic/material/BWBV0004259/README.md), ondertekend te Brussel op 8 juni 1970, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomsten. 
+Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met artikel 27 van deze Overeenkomst, de Douaneovereenkomst inzake welzijnsgoederen voor zeevarenden, ondertekend te Brussel op 1 december 1964, de Douaneovereenkomst inzake de tijdelijke invoer van wetenschappelijk materiaal, ondertekend te Brussel op 11 juni 1968, en de Douaneovereenkomst inzake de tijdelijke invoer van pedagogisch materiaal, ondertekend te Brussel op 8 juni 1970, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomsten. 
 
 ### Aanhangsel  I  
 
@@ -3313,7 +3337,7 @@ De Aanhangsels bij deze Bijlage worden geacht een integrerend onderdeel daarvan 
 
 ### Artikel  7  
 
-Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met artikel 27 van deze Overeenkomst, de [artikelen 2](../../../../../../verdrag/convention/concerning/customs/facilities/for/touring/BWBV0005182/README.md) en [5 van het Verdrag inzake douanefaciliteiten ten behoeve van het toeristenverkeer](../../../../../../verdrag/convention/concerning/customs/facilities/for/touring/BWBV0005182/README.md), ondertekend te New York op 4 juni 1954, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat verdrag. 
+Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met artikel 27 van deze Overeenkomst, de artikelen 2 en 5 van het Verdrag inzake douanefaciliteiten ten behoeve van het toeristenverkeer, ondertekend te New York op 4 juni 1954, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat verdrag. 
 
 ### Aanhangsel  I  
 
@@ -3491,7 +3515,7 @@ Het Aanhangsel bij deze Bijlage wordt geacht een integrerend onderdeel daarvan u
 
 ### Artikel  7  
 
-Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met artikel 27 van deze Overeenkomst, het [Aanvullend Protocol bij het Verdrag inzake douanefaciliteiten ten behoeve van het toeristenverkeer, met betrekking tot de invoer van toeristische propagandabescheiden en toeristisch propagandamateriaal](../../../../../../verdrag/additional/protocol/to/the/convention/concerning/customs/facilities/for/etc/BWBV0005344/README.md), ondertekend te New York op 4 juni 1954, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat Protocol. 
+Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met artikel 27 van deze Overeenkomst, het Aanvullend Protocol bij het Verdrag inzake douanefaciliteiten ten behoeve van het toeristenverkeer, met betrekking tot de invoer van toeristische propagandabescheiden en toeristisch propagandamateriaal, ondertekend te New York op 4 juni 1954, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat Protocol. 
 
 ### Aanhangsel  
 
@@ -3714,7 +3738,7 @@ c. artikel 9, tweede lid;   van deze Bijlage.
 
 ### Artikel  11  
 
-Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming van artikel 27 van deze Overeenkomst, het [Douaneverdrag inzake de tijdelijke invoer van particuliere wegvoertuigen](../../../../../../verdrag/douaneverdrag/inzake/de/tijdelijke/invoer/van/particuliere/wegvoertuigen/BWBV0005368/README.md), ondertekend te New York op 4 juni 1954, de [Douaneovereenkomst betreffende de tijdelijke invoer van voertuigen voor bedrijfsmatig vervoer langs de weg](../../../../../../verdrag/customs/convention/on/the/temporary/importation/of/commercial/road/etc/BWBV0005229/README.md), ondertekend te Genève op 18 mei 1956, en de [Douaneovereenkomst betreffende de tijdelijke invoer voor persoonlijk gebruik van pleziervaartuigen en van luchtvaartuigen](../../../../../../verdrag/customs/convention/on/the/temporary/importation/for/private/use/of/etc/BWBV0005389/README.md), ondertekend te Genève op 18 mei 1956, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat verdrag en die overeenkomsten. 
+Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming van artikel 27 van deze Overeenkomst, het Douaneverdrag inzake de tijdelijke invoer van particuliere wegvoertuigen, ondertekend te New York op 4 juni 1954, de Douaneovereenkomst betreffende de tijdelijke invoer van voertuigen voor bedrijfsmatig vervoer langs de weg, ondertekend te Genève op 18 mei 1956, en de Douaneovereenkomst betreffende de tijdelijke invoer voor persoonlijk gebruik van pleziervaartuigen en van luchtvaartuigen, ondertekend te Genève op 18 mei 1956, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat verdrag en die overeenkomsten. 
 
 ### Bijlage  D  
 

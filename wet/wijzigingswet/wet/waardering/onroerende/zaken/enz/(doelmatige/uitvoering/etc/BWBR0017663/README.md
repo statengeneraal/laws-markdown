@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is te komen tot een meer doelmatige uitvoering van de [Wet waardering onroerende zaken](../../../../../../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md);
+Alzo Wij in overweging genomen hebben, dat het wenselijk is te komen tot een meer doelmatige uitvoering van de Wet waardering onroerende zaken;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ###Artikel I 
@@ -59,8 +59,8 @@ Wijzigt de Wet waardering onroerende zaken.
 
 ###Artikel X 
 
-1. De op de voet van de [Wet waardering onroerende zaken](../../../../../../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) vastgestelde waarde voor het tijdvak dat aanvangt op 1 januari 2005 geldt, indien bij het begin van het kalenderjaar 2007 of 2008 artikel IV niet in werking is getreden, ook voor het kalenderjaar 2007 respectievelijk 2008.
-2. Indien bij de aanvang van het kalenderjaar 2008 artikel IV niet in werking is getreden, kan met betrekking tot het kalenderjaar 2008 geen vermindering als bedoeld in [artikel 220i, eerste lid, van de Gemeentewet](../../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) worden verleend.
+1. De op de voet van de Wet waardering onroerende zaken vastgestelde waarde voor het tijdvak dat aanvangt op 1 januari 2005 geldt, indien bij het begin van het kalenderjaar 2007 of 2008 artikel IV niet in werking is getreden, ook voor het kalenderjaar 2007 respectievelijk 2008.
+2. Indien bij de aanvang van het kalenderjaar 2008 artikel IV niet in werking is getreden, kan met betrekking tot het kalenderjaar 2008 geen vermindering als bedoeld in artikel 220i, eerste lid, van de Gemeentewet worden verleend.
 
 ###Artikel XI 
 
@@ -69,7 +69,7 @@ Wijzigt de Wet waardering onroerende zaken.
 
 ###Artikel XII 
 
-1. Deze wet treedt zonodig onder toepassing van [artikel 16 van de Tijdelijke referendumwet](../../../../../../../../../../../wet/tijdelijke/referendumwet/BWBR0012701/README.md) in werking met ingang van 1 januari 2005.
+1. Deze wet treedt zonodig onder toepassing van artikel 16 van de Tijdelijke referendumwet in werking met ingang van 1 januari 2005.
 2. In afwijking in zoverre van het eerste lid, treden de artikelen IV, V, VI, VII en VIII in werking op een bij koninklijk besluit te bepalen tijdstip.
 3. In afwijking in zoverre van het eerste lid, treedt artikel IX in werking op een bij koninklijk besluit te bepalen tijdstip.
 

@@ -37,7 +37,7 @@ De commissie bestaat uit de volgende leden.
 ### Artikel  3  
 
 1.  De benoeming geschiedt voor de duur van de commissie. Bij tussentijds vertrek van een lid kunnen de ministers een ander lid benoemen.   
-2.  De commissie wordt opgeheven met ingang van 1 september 2015 of zodra het advies is uitgebracht.  
+2.  De commissie wordt opgeheven met ingang van 1 april 2016 of zodra het advies is uitgebracht.  
 
 ### Artikel  4  
 

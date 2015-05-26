@@ -28,7 +28,7 @@ b. Onderzoek naar de juridische mogelijkheden en beperkingen van hulp bij zelfdo
 c. Indicatie van de voor- en nadelen van deze juridische mogelijkheden;  
 
 d. Onderzoek naar mogelijkheden om te voorkomen dat mensen hun leven voltooid achten.     
-3.  De commissie wordt gevraagd om zo snel mogelijk, doch uiterlijk 1 juli 2015 over haar werkzaamheden te rapporteren aan de ministers.  
+3.  De commissie wordt gevraagd om zo snel mogelijk, doch uiterlijk 1 januari 2016 over haar werkzaamheden te rapporteren aan de ministers.  
 
 ### Artikel  3  
 
@@ -46,7 +46,7 @@ c. de kosten voor publicatie van rapportages.
 ### Artikel  4  
 
 1.  Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.   
-2.  Deze regeling vervalt met ingang van 1 september 2015 of zodra het advies is uitgebracht.  
+2.  Deze regeling vervalt met ingang van 1 april 2016 of zodra het advies is uitgebracht.  
 
 ### Artikel  5  
 
