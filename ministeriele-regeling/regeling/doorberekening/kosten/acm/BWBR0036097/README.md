@@ -156,7 +156,7 @@ H.G.J. Kamp
 | C  | 1  | € 81  | € 31  |
 | D  | 1  | € 41  | € 16  |
 | E  | 100  | € 46  | € 6  |
-| F  | 1.00  | € 0,45  | € 0,11  |
+| F  | 1.000  | € 0,45  | € 0,11  |
 
 ####B
 
@@ -223,8 +223,8 @@ H.G.J. Kamp
 | Universele postdienst  | € 273.995  |
 | Niet-universele postdienst  | 0,07422% van de relevante omzet  |
 | Openbare elektronische communicatiediensten, openbare elektronische communicatienetwerken en bijbehorende faciliteiten  | 0,04053% van de relevante omzet  |
-| Diensten van certificatiedienstverleners zonder een geldig bewijs van toetsing op grond van het bepaalde bij of krachtens de Telecommunicatiewet  | € 3,04 per op 1 januari 2015 aan het publiek afgegeven certificaat  |
-| Diensten van certificatiedienstverleners met een geldig bewijs van toetsing op grond van het bepaalde bij of krachtens de Telecommunicatiewet  | € 1,52 per op 1 januari 2015 aan het publiek afgegeven certificaat  |
+| Diensten van certificatiedienstverleners zonder een geldig bewijs van toetsing op grond van het bepaalde bij of krachtens de Telecommunicatiewet  | € 2,88 per op 1 januari 2015 aan het publiek afgegeven certificaat  |
+| Diensten van certificatiedienstverleners met een geldig bewijs van toetsing op grond van het bepaalde bij of krachtens de Telecommunicatiewet  | € 1,44 per op 1 januari 2015 aan het publiek afgegeven certificaat  |
 | Loodswezen  | € 297.611  |
 | Luchtvaart  | € 141.633  |
 
