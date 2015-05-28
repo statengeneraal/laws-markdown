@@ -10,12 +10,12 @@ Alzo Wij in overweging genomen hebben dat het in het kader van de lastenverlicht
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
-Treedt in werking per 01-09-2015 
+Treedt in werking per 01-07-2015 
 
 Wijzigt Burgerlijk Wetboek Boek 1. 
 
 ### Artikel  II  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Wijzigt de Wet op de lijkbezorging.
 
@@ -30,13 +30,13 @@ Treedt in werking op een nader te bepalen tijdstip
 Wijzigt de Wijzigingswet tot herziening van Titel 4 van Boek 1 van het Burgerlijk Wetboek, enz. (Stb. 1993/555).
 
 ### Artikel  IV  
-Treedt in werking per 01-09-2015 
+Treedt in werking per 01-07-2015 
 
 1.  Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
 2.  Bij koninklijk besluit kan voor iedere gemeente worden bepaald dat de aangifte van geboorte of overlijden of de melding van een voorgenomen huwelijk of de voorgenomen registratie van een partnerschap in elektronische vorm kan worden gedaan, alsmede dat akten van de burgerlijke stand elektronisch kunnen worden opgemaakt en uittreksels of afschriften daarvan elektronisch kunnen worden verstrekt.  
 
 ### Artikel  V  
-Treedt in werking per 01-09-2015 
+Treedt in werking per 01-07-2015 
 
 Deze wet wordt aangehaald als: Wet elektronische dienstverlening burgerlijke stand. 
 

@@ -232,7 +232,9 @@ Het tijdstip, bedoeld in artikel 77 van het besluit bedraagt voor alle meststoff
 
 a. op dierlijke meststoffen afkomstig van graasdieren; en  
 
-b. indien wordt voldaan aan elk van de voorwaarden, bedoeld in de artikelen 25, 27 en 27a.    
+b. indien wordt voldaan aan elk van de voorwaarden, bedoeld in de artikelen 25, 27 en 27a.     
+4.  In aanvulling op het derde lid, wordt door landbouwers van bedrijven waarvoor een melding heeft plaatsgevonden als bedoeld in artikel 25a, derde lid, voldaan aan elk van de voorwaarden, bedoeld in artikel 25a en 25b.   
+5.  Het vierde lid en dit lid vervallen met ingang van 1 januari 2016. 
 
 ### Artikel  25  
 
@@ -244,6 +246,24 @@ b. indien wordt voldaan aan elk van de voorwaarden, bedoeld in de artikelen 25, 
 6.  De landbouwer gebruikt geen fosfaat uit kunstmest.   
 7.  De landbouwer verleent desgevraagd zijn medewerking aan monitoringswerkzaamheden als bedoeld in artikel 8 van de derogatiebeschikking, in opdracht van de minister of de Minister van Infrastructuur en Milieu.   
 8.  Na de melding, bedoeld in het eerste lid, kan de landbouwer het bedrijf tot 16 mei afmelden voor de toepassing van artikel 24, eerste en tweede lid, zonder dat de geldsom, bedoeld in het vierde lid, in rekening wordt gebracht.  
+
+### Artikel  25a  
+
+1.  In afwijking van artikel 25, vijfde lid, bedraagt in 2015 het percentage van de tot het bedrijf behorende oppervlakte landbouwgrond die voor het op of in de bodem brengen van dierlijke meststoffen beschikbaar is, dat onafgebroken beteeld is met gras dat is bestemd om te worden gebruikt als ruwvoer ten minste 65 procent, indien wordt voldaan aan de volgende voorwaarden: 
+
+a. ten minste 25 procent van de oppervlakte grasland die bij het bedrijf in gebruik was in 2014, is grasland dat ernstig is beschadigd als gevolg van vraat van dieren die in de graszode leven;  
+
+b. de verwachte grasopbrengst van het beschadigde areaal is ten minste 25% lager dan wanneer geen vraat plaats zou hebben gevonden;  
+
+c. de schade, de oorzaak daarvan en de opbrengstderving zijn vastgesteld door het Faunafonds en vastgelegd in een rapport dat wordt bewaard in de administratie, bedoeld in artikel 32, van het besluit.     
+2.  In afwijking van artikel 24, eerste en tweede lid, is de gebruiksnorm, bedoeld in artikel 9, eerste lid, van de wet, van toepassing op elk gedeelte van de tot het bedrijf behorende oppervlakte landbouwgrond die voor het op of in de bodem brengen van dierlijke meststoffen beschikbaar is, voor zover dat gedeelte beteeld is met andere gewassen dan gras en dat gedeelte een percentage van 20 procent van die oppervlakte te boven gaat.   
+3.  In aanvulling op de melding, bedoeld in artikel 25, eerste lid, meldt de landbouwer het bedrijf voor de toepassing van het eerste lid uiterlijk op 1 juli 2015 aan bij de minister.   
+4.  Dit artikel vervalt met ingang van 1 januari 2016.  
+
+### Artikel  25b  
+
+1.  Voor zover het gedeelte van de tot het bedrijf behorende oppervlakte landbouwgrond, bedoeld in artikel 25a, eerste lid, dat niet onafgebroken beteeld is met gras dat is bestemd om te worden gebruikt als ruwvoer voor meer dan 20 procent bestaat uit snijmaïs, wordt in het gedeelte dat deze 20 procent te boven gaat gras als ondervrucht ingezaaid.   
+2.  Dit artikel vervalt met ingang van 1 januari 2016.  
 
 ### Artikel  27  
 
@@ -271,7 +291,9 @@ b. bemonstering en analyse van de bodem overeenkomstig het in bijlage L opgenom
 
 ### Artikel  27c  
 
-Indien niet wordt voldaan aan elk van de voorwaarden, bedoeld in de artikelen 25, 27 en 27a, is de gebruiksnorm voor dierlijke meststoffen, bedoeld in artikel 9, eerste lid, van de wet van toepassing. 
+1.  Indien niet wordt voldaan aan elk van de voorwaarden, bedoeld in de artikelen 25, 27 en 27a, is de gebruiksnorm voor dierlijke meststoffen, bedoeld in artikel 9, eerste lid, van de wet van toepassing.   
+2.  In aanvulling op het eerste lid, wordt door landbouwers van bedrijven waarvoor een melding heeft plaatsgevonden als bedoeld in artikel 25a, derde lid, voldaan aan elk van de voorwaarden, bedoeld in artikel 25a en 25b.   
+3.  Het tweede lid en dit lid, alsmede de aanduiding ‘1.’ voor het eerste lid vervallen met ingang van 1 januari 2016. 
 
 ### §  2  
 
@@ -630,14 +652,17 @@ a. de kadastrale aanduiding van de onderscheiden locaties van de opslagruimten v
 b. het correspondentieadres van de onderneming.     
 4.  De gegevens, bedoeld in artikel 38, tweede lid, onderdelen f en g, van het besluit, betreffen mede de serienummers van de automatische bemonsterings- en verpakkingsapparatuur en de AGR-apparatuur alsmede een aanduiding van het type waartoe deze apparatuur behoort, het versienummer en de fabrikant van deze apparatuur.   
 5.  De gegevens, bedoeld in artikel 38, tweede lid, onderdeel h, van het besluit, worden, voor zover het opslagruimten voor drijfmest of vaste mest betreft, mede uitgedrukt in kubieke meters onderscheidenlijk in vierkante meters.   
-6.  Behalve de gegevens, bedoeld in artikel 38, tweede lid, van het besluit, verstrekt de intermediair ter zake van de transportmiddelen die voor het vervoer van drijfmest exclusief bij de desbetreffende onderneming in gebruik zijn en waarop overeenkomstig artikel 53, tweede lid, automatische bemonsterings- en verpakkingsapparatuur is bevestigd, tenzij het vervoer van dierlijke meststoffen van een bedrijf naar een intermediaire onderneming plaatsvindt met behulp van een pijpleiding, tevens gegevens over: 
+6.  In aanvulling op de gegevens, bedoeld in artikel 38, tweede lid, van het besluit, verstrekt de intermediair ter zake van de transportmiddelen die voor het vervoer van dierlijke mest exclusief bij de desbetreffende onderneming in gebruik zijn, tevens de volgende gegevens: 
 
-a. het kenteken en de meldcode, zoals deze zijn vermeld op het voor het betrokken voertuig afgegeven, geldige kentekenbewijs, bedoeld in artikel 1, eerste lid, onderdeel h, van de Wegenverkeerswet 1994, voor zover het een motorrijtuig of aanhangwagen als bedoeld in artikel 1, eerste lid, onderdelen c onderscheidenlijk d, van die wet betreft; of  
+a. ofwel het kenteken en de meldcode van het betrokken transportmiddel of aanhangwagen, zoals deze zijn vermeld op het voor het betrokken voertuig afgegeven, geldige kentekenbewijs, bedoeld in artikel 1, eerste lid, onderdeel h, van de Wegenverkeerswet 1994, voor zover het een motorrijtuig of aanhangwagen als bedoeld in artikel 1, eerste lid, onderdelen c onderscheidenlijk d, van die wet betreft, waarop overeenkomstig artikel 53, tweede lid, automatische bemonsterings- en verpakkingsapparatuur is bevestigd, danwel het chassisnummer van het betrokken transportmiddel waarop overeenkomstig artikel 53, tweede lid, automatische bemonsterings- en verpakkingsapparatuur is bevestigd, voor zover het een ander transportmiddel betreft;  
 
-b. het chassisnummer van het betrokken transportmiddel, voor zover het een ander transportmiddel betreft.    
+b. ofwel het kenteken en de meldcode van het betrokken transportmiddel en van iedere aanhangwagen, zoals deze zijn vermeld op het voor het betrokken voertuig afgegeven, geldige kentekenbewijs, bedoeld in artikel 1, eerste lid, onderdeel h, van de Wegenverkeerswet 1994, voor zover het een motorrijtuig of aanhangwagen als bedoeld in artikel 1, eerste lid, onderdelen c onderscheidenlijk d, van die wet betreft dat gebruikt wordt voor het vervoer van vaste mest, danwel het chassisnummer van het betrokken transportmiddel en het chassisnummer van de aanhangwagen, voor zover het een ander transportmiddel betreft dat gebruikt wordt voor het vervoer van vaste mest; en  
+
+c. de koppeling tussen de geregistreerde AGR-apparatuur, bedoeld in artikel 38, tweede lid, onderdeel g, van het besluit, en de in onderdeel b bedoelde kentekens en chassisnummers, onder vermelding van het serienummer van de AGR-apparatuur.    
 7. Indien op een onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, verstrekt de intermediair behalve de gegevens, bedoeld in artikel 38, tweede lid, van het besluit, tevens een omschrijving van de in artikel 16, eerste lid, van het besluit bedoelde behandelingsmethode voor zuiveringsslib. 
 8.  Wijzigingen in de ingevolge artikel 38 van het besluit of het zesde of zevende lid geregistreerde gegevens worden uiterlijk 30 dagen na de datum van de wijziging, onder vermelding van het door de minister ter identificatie van de onderneming verstrekte relatienummer, gemeld aan de minister.   
-9.  De artikelen 38 en 39 van het besluit zijn niet van toepassing op tuincentra en hoveniers voor zover deze meststoffen afvoeren naar een afnemer, die geen bedrijf of een onderneming in het kader waarvan meststoffen worden verhandeld, voert.  
+9.  De artikelen 38 en 39 van het besluit zijn niet van toepassing op tuincentra en hoveniers voor zover deze meststoffen afvoeren naar een afnemer, die geen bedrijf of een onderneming in het kader waarvan meststoffen worden verhandeld, voert.   
+10.  Het zesde lid is niet van toepassing, indien het vervoer van drijfmest van een bedrijf naar een intermediaire onderneming plaatsvindt met behulp van een pijpleiding. 
 
 ### Artikel  45a  
 
@@ -753,9 +778,17 @@ c. de hoeveelheid geleverd ruwvoer en enkelvoudig diervoeder.
 
 ### Artikel  53  
 
-1.  De AGR-apparatuur voldoet aan de prestatiekenmerken die, al naar gelang het vervoer van drijfmest of van vaste mest betreft, zijn vermeld in bijlage E, onderdeel D, onderscheidenlijk in bijlage E, onderdeel E, en behoort tot een type waarvan bij keuring door Praktijkonderzoek Veehouderij BV, onderdeel van de Animal Sciences Group, te Lelystad is vastgesteld dat het voldoet aan die prestatiekenmerken.   
+1.  De AGR-apparatuur voldoet aan de prestatiekenmerken die, al naar gelang het vervoer van drijfmest of van vaste mest betreft, zijn vermeld in bijlage E, onderdeel D, onderscheidenlijk in bijlage E, onderdeel E, en behoort tot een type waarvan bij keuring door Livestock Research, onderdeel van Wageningen UR, te Wageningen is vastgesteld dat het voldoet aan die prestatiekenmerken.   
 2.  Bij het vervoer van drijfmest is de automatische bemonsterings- en verpakkingsapparatuur onlosmakelijk op het transportmiddel bevestigd en zijn de in het eerste lid bedoelde apparatuur en de satellietvolgapparatuur elektronisch aan de bemonsterings- en verpakkingsapparatuur verbonden.   
-3.  Bij het vervoer van vaste mest is de satellietvolgapparatuur elektronisch aan de in het eerste lid bedoelde apparatuur verbonden.  
+3.  Bij het vervoer van vaste mest is: 
+
+a. de in het eerste lid bedoelde apparatuur onlosmakelijk aan het chassis van het transportmiddel en voor zover van toepassing aan het chassis van de aanhangwagen verbonden, met dien verstande dat bij het vervoer van meerdere laadbakken per vracht dierlijke meststoffen ieder chassis waarop een laadbak is of wordt bevestigd over eigen AGR-apparatuur beschikt;  
+
+b. de satellietvolgapparatuur elektronisch aan de in het eerste lid bedoelde apparatuur verbonden.     
+4.  Het sensordeel van de AGR-apparatuur, bedoeld in Bijlage E, onderdeel E, onder 3.2, is onlosmakelijk verbonden met de vaste as van het chassis van het transportmiddel of de aanhangwagen.   
+5.  Het derde en vierde lid zijn niet van toepassing op het vervoer van vaste mest met een transportmiddel zonder luchtvering.   
+6.  Bij het vervoer van vaste mest met een transportmiddel zonder luchtvering is de satellietvolgapparatuur elektronisch aan de in het eerste lid bedoelde apparatuur verbonden, met dien verstande dat bij het vervoer van meerdere laadbakken per vracht dierlijke meststoffen ieder chassis waarop een laadbak is of wordt bevestigd over eigen AGR-apparatuur beschikt.   
+7.  Het vijfde lid, het zesde lid en dit lid vervallen met ingang van 1 januari 2016. 
 
 ### Artikel  54  
 
@@ -785,10 +818,11 @@ a. de gegevens, bedoeld in het tweede lid, onderdeel b, van dat artikel, niet au
 
 b. de gegevens, bedoeld in het tweede lid, onderdeel c, van dat artikel, niet behoeven te worden vastgelegd; en  
 
-c. de gegevens, bedoeld in het vierde lid, van dat artikel, niet automatisch door de AGR-apparatuur, maar door de vervoerder elektronisch in de AGR-apparatuur worden vastgelegd en elektronisch aan de minister worden verzonden.     
-2.  Indien een vracht dierlijke meststoffen buiten Nederland wordt gebracht, worden in plaats van de locatie, de datum en het tijdstip van het lossen van het transportmiddel, bedoeld in artikel 55, vierde lid, de locatie, de datum en het tijdstip, waar onderscheidenlijk waarop het transportmiddel het Nederlandse grondgebied verlaat in de AGR-apparatuur vastgelegd en elektronisch aan de minister verzonden.   
-3.  Indien een vracht dierlijke meststoffen binnen Nederland wordt gebracht, worden in plaats van de locatie, de datum en het tijdstip van het laden van het transportmiddel, bedoeld in artikel 55, vierde lid, de locatie waar en de datum en het tijdstip waarop het transportmiddel het Nederlandse grondgebied binnen komt in de AGR-apparatuur vastgelegd en elektronisch aan de minister verzonden.   
-4.  Het tweede en derde lid zijn niet van toepassing, indien door de vervoerder de plaats van de locatie en de datum en het tijdstip van het lossen, onderscheidenlijk van het laden van het transportmiddel, bedoeld in artikel 55, vierde lid, in de AGR-apparatuur worden vastgelegd en elektronisch aan de minister worden verzonden.  
+c. de gegevens, bedoeld in het vierde lid, van dat artikel, bij het vervoer van vaste mest met een transportmiddel zonder luchtvering, niet automatisch door de AGR-apparatuur, maar door de vervoerder elektronisch in de AGR-apparatuur worden vastgelegd en elektronisch aan de minister worden verzonden.     
+2.  Indien een vracht dierlijke meststoffen met een transportmiddel zonder luchtvering buiten Nederland wordt gebracht, worden in plaats van de locatie, de datum en het tijdstip van het lossen van het transportmiddel, bedoeld in artikel 55, vierde lid, de locatie, de datum en het tijdstip, waar onderscheidenlijk waarop het transportmiddel het Nederlandse grondgebied verlaat in de AGR-apparatuur vastgelegd en elektronisch aan de minister verzonden.   
+3.  Indien een vracht dierlijke meststoffen met een transportmiddel zonder luchtvering binnen Nederland wordt gebracht, worden in plaats van de locatie, de datum en het tijdstip van het laden van het transportmiddel, bedoeld in artikel 55, vierde lid, de locatie waar en de datum en het tijdstip waarop het transportmiddel het Nederlandse grondgebied binnen komt in de AGR-apparatuur vastgelegd en elektronisch aan de minister verzonden.   
+4.  Het tweede en derde lid zijn niet van toepassing, indien door de vervoerder de plaats van de locatie en de datum en het tijdstip van het lossen, onderscheidenlijk van het laden van het transportmiddel, bedoeld in artikel 55, vierde lid, in de AGR-apparatuur worden vastgelegd en elektronisch aan de minister worden verzonden.   
+5.  Het eerste lid, onderdeel c, het tweede tot en met vierde lid en dit lid vervallen met ingang van 1 januari 2016. 
 
 ### Artikel  57  
 
@@ -1257,14 +1291,14 @@ b. het verschil in gewicht tussen de grootste en de kleinste vracht bedraagt bij
 
 ### Artikel  78  
 
-1.  De bemonstering van een vracht drijfmest geschiedt automatisch tijdens het laden van het transportmiddel met behulp van bemonsteringsapparatuur die voldoet aan de prestatiekenmerken die zijn vermeld in bijlage E, onderdeel A, en behoort tot een type waarvan bij keuring door Praktijkonderzoek Veehouderij BV onderdeel van de Animal Sciences Group, te Lelystad of een vergelijkbare instelling, is vastgesteld dat het voldoet aan die prestatiekenmerken.   
+1.  De bemonstering van een vracht drijfmest geschiedt automatisch tijdens het laden van het transportmiddel met behulp van bemonsteringsapparatuur die voldoet aan de prestatiekenmerken die zijn vermeld in bijlage E, onderdeel A, en behoort tot een type waarvan bij keuring door Livestock Research, onderdeel van Wageningen UR, te Wageningen of een vergelijkbare instelling, is vastgesteld dat het voldoet aan die prestatiekenmerken.   
 2.  De bemonstering van een vracht vaste mest geschiedt door de vervoerder. Hij stelt een representatief monster samen met een gewicht van minimaal 500 gram en maximaal 800 gram, bestaande uit deelmonsters die handmatig evenredig verspreid uit de betrokken vracht meststoffen worden genomen.   
 3.  Indien de vaste mest bestemd is om buiten Nederland te worden gebracht, geschiedt de in het tweede lid bedoelde bemonstering tijdens het laden van het transportmiddel.   
 4.  Indien de vaste mest binnen Nederland is gebracht, geschiedt de in het tweede lid bedoelde bemonstering tijdens het lossen van het transportmiddel.  
 
 ### Artikel  79  
 
-1.  Een uit een vracht drijfmest genomen monster wordt automatisch verpakt in een monsterverpakking die voldoet aan bijlage E, onderdeel B. De verpakking geschiedt met behulp van verpakkingsapparatuur die voldoet aan de prestatiekenmerken die zijn vermeld in bijlage E, onderdeel C, en behoort tot een type waarvan bij keuring door Praktijkonderzoek Veehouderij BV onderdeel van de Animal Sciences Group, te Lelystad of een vergelijkbare instelling, is vastgesteld dat het voldoet aan die prestatiekenmerken.   
+1.  Een uit een vracht drijfmest genomen monster wordt automatisch verpakt in een monsterverpakking die voldoet aan bijlage E, onderdeel B. De verpakking geschiedt met behulp van verpakkingsapparatuur die voldoet aan de prestatiekenmerken die zijn vermeld in bijlage E, onderdeel C, en behoort tot een type waarvan bij keuring door Livestock Research, onderdeel van Wageningen UR, te Wageningen of een vergelijkbare instelling, is vastgesteld dat het voldoet aan die prestatiekenmerken.   
 2.  Een uit een vracht vaste mest genomen monster wordt door de vervoerder verpakt in een monsterverpakking die voldoet aan bijlage E, onderdeel B.  
 
 ### Artikel  80  
@@ -1912,7 +1946,7 @@ De resultaten van het controleprogramma worden opgenomen in het verslag, bedoeld
 
 ### Artikel  122  
 
-1.  De in artikel 26, eerste lid, van het besluit en de in de artikelen 25, eerste, tweede, derde, vierde en zevende lid, 32, eerste lid, 35a, derde, vierde en vijfde lid, 37, eerste, tweede en vierde lid, 41, 42, 45, eerste, tweede en achtste lid, 48, 50, eerste, tweede, derde en vijfde lid, 52, 103b, tweede lid, 104, eerste lid, artikel 105, eerste lid, artikel 110, eerste lid, artikel 114, artikel 115 en artikel 119, tweede lid, bedoelde meldingen, verklaringen, verstrekking van gegevens, kennisgevingen, aanmeldingen ter registratie en aanvragen tot ontheffing geschieden door indiening bij de minister van het ingevulde en ondertekende daartoe bestemde formulier, dat door de minister wordt verstrekt.   
+1.  De in artikel 26, eerste lid, van het besluit en de in de artikelen 25, eerste, tweede, derde, vierde en zevende lid, 25a, derde lid, 32, eerste lid, 35a, derde, vierde en vijfde lid, 37, eerste, tweede en vierde lid, 41, 42, 45, eerste, tweede en achtste lid, 48, 50, eerste, tweede, derde en vijfde lid, 52, 103b, tweede lid, 104, eerste lid, artikel 105, eerste lid, artikel 110, eerste lid, artikel 114, artikel 115 en artikel 119, tweede lid, bedoelde meldingen, verklaringen, verstrekking van gegevens, kennisgevingen, aanmeldingen ter registratie en aanvragen tot ontheffing geschieden door indiening bij de minister van het ingevulde en ondertekende daartoe bestemde formulier, dat door de minister wordt verstrekt.   
 2.  Indien de in het eerste lid bedoelde handelingen op elektronische wijze geschieden, wordt gebruik gemaakt van het door de minister daartoe ter beschikking gestelde elektronische portaal.   
 3.  De in artikel 33b, vijfde lid, van de wet bedoelde elektronische verstrekking van gegevens, de in de artikelen 55, vierde lid, 56, 81, eerste lid, en 92b, vierde en vijfde lid, bedoelde elektronische verzending van gegevens, de in de artikelen 48, vijfde lid, 52, 57a en 58 bedoelde elektronische mededelingen en verstrekkingen van gegevens, de in de artikelen 28a, onderdeel e, en 35f, tweede lid, bedoelde elektronische aanmelding en de in de artikelen 64 en 69a, bedoelde elektronische indiening van gegevens geschieden met gebruikmaking van het door de minister daartoe ter beschikking gestelde elektronische portaal.   
 4.  De elektronische verzending wordt door de vervoerder ondertekend door middel van een persoonlijke gebruikerscode, die overeenkomstig artikel 123 door de minister op naam van de desbetreffende vervoerder is geregistreerd.  
@@ -3448,39 +3482,45 @@ Vervolg Tabel IIB. Excretieforfaits per melkkoe vaste mest
 
 ####behorende bij de artikelen 53 , 78 , 82  en 79 
 
-#### *A. Prestatiekenmerken bemonsteringsapparatuur* 
+### A  
+
+####Prestatiekenmerken bemonsteringsapparatuur
 
 1. De bemonsteringsapparatuur is zichtbaar voorzien van een typeaanduiding, een versienummer, een uniek serienummer en een identificatie van de fabrikant.  
 
 2. De bemonstering geschiedt door het geautomatiseerd nemen van een monster met behulp van bemonsteringsapparatuur die voldoet aan de volgende voorwaarden: 
 
-a. per vracht wordt een monster verzameld van ten minste 650 milliliter;  
+a. per vracht wordt een monster verzameld van ten minste 650 milliliter of 650 gram;  
 
 b. de samenstelling van het monster ten aanzien van fosfor en stikstof wijkt niet systematisch af van de gemiddelde samenstelling van de vracht;  
 
 c. de toevallige afwijking ten aanzien van fosfor en stikstof tussen de samenstelling van het monster en de gemiddelde samenstelling van de vracht vloeibare dierlijke meststoffen bedraagt minder dan 15% (2s-interval);  
 
-d. bij vervoer middels een transportvoertuig kan zowel bij het laden als bij het lossen een monster worden genomen; 
+d. bij vervoer middels een transportvoertuig kan zowel bij het laden als bij het lossen een monster worden genomen;  
 
-e. de vracht dierlijke meststoffen passeert de bemonsteringsapparatuur bij het laden en lossen; 
+e. de vracht dierlijke meststoffen passeert de bemonsteringsapparatuur bij het laden en lossen;  
 
 f. gedurende de bemonstering garanderen fysieke of elektronische voorzieningen dat andere in- en uitstroomopeningen dan waarop de bemonsteringsapparatuur is aangesloten, zijn gesloten.    
 
-3. Het monster wordt bij vervoer door middel van een transportvoertuig genomen door verdeeld over de laadtijd vijfmaal een hoeveelheid van circa 150 milliliter af te tappen uit de vracht door middel van de bemonsteringsapparatuur bij een vullingsgraad van 9 tot 20, 31 tot 35, 50 tot 51, 65 tot 71 en 80–91% van de tank.  
+3. Het monster wordt bij vervoer door middel van een transportvoertuig genomen door evenredig verdeeld over de laadtijd minimaal vijf en maximaal negen deelmonster samen te voegen tot een totale hoeveelheid van minimaal 650 milliliter en maximaal 1000 milliliter af te tappen uit de vracht door middel van bemonsteringsapparatuur bij een vullingsgraad van vanaf 10% en voor 90% van de tank.  
 
-4.Het monster wordt bij vervoer door middel van een pijpleiding genomen door evenredig verdeeld over de hoeveelheid vijfmaal een hoeveelheid van circa 150 milliliter af te tappen uit de vracht door middel van de bemonsteringsapparatuur. Voorafgaand aan het transport wordt bepaald hoeveel vervoerd gaat worden zodat de juiste monstermomenten bepaald kunnen worden, vergelijkbaar met het vulpercentage bij een tankauto. 
+4. Het monster wordt bij vervoer door middel van een pijpleiding genomen door evenredig verdeeld over de hoeveelheid minimaal vijf en maximaal negen deelmonsters samen te voegen tot een totale hoeveelheid van minimaal 650 milliliter en maximaal 1000 milliliter af te tappen uit de vracht door middel van bemonsteringsapparatuur. Voorafgaand aan het transport wordt bepaald hoeveel vervoerd gaat worden zodat de juiste monstermomenten bepaald kunnen worden, vergelijkbaar met het vulpercentage bij een tankauto.   
 
-#### *B. Eisen monsterverpakking* 
+### B  
+
+####Eisen monsterverpakking
 
 De monsterverpakking voldoet ten minste aan de volgende voorwaarden: 
 
 a. de met meststoffen gevulde monsterverpakking is zodanig gesloten dat deze niet zonder herkenbare beschadiging kan worden geopend en aan de inhoud ervan zonder herkenbare beschadiging niets toegevoegd, afgenomen of anderszins veranderd kan worden;  
 
-b. de monsterverpakking heeft een minimale inhoud van 750 en een maximale inhoud van 1000 milliliter; (zie C, tweede lid, onderdeel b)  
+b. de monsterverpakking heeft een minimale inhoud van 750 milliliter; (zie C, tweede lid, onderdeel b)  
 
 c. de monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat, zijn voorzien van een unieke barcode die zich ten hoogste eenmaal in de drie jaar herhaald.   
 
-#### *C. Prestatiekenmerken verpakkingsapparatuur* 
+### C  
+
+####Prestatiekenmerken verpakkingsapparatuur
 
 1. De verpakkingsapparatuur is zichtbaar voorzien van een typeaanduiding, een versienummer, een uniek serienummer en een identificatie van de fabrikant.  
 
@@ -3490,33 +3530,65 @@ a. een technische voorziening waarborgt dat de verpakkingsapparatuur tijdens de 
 
 b. een voorziening waarborgt dat de monsterverpakking schoon en droog is op het moment dat het monster wordt genomen;  
 
-c. het proces van bemonstering door middel van de bemonsteringsapparatuur en verpakking van het monster door middel van de verpakkingsapparauur is geheel geautomatiseerd en technische voorzieningen waarborgen dat beïnvloeding van buitenaf niet mogelijk is en dat uitsluitend meststoffen afkomstig uit de bemonsteringsapparatuur worden verpakt; en  
+c. het proces van bemonstering door middel van de bemonsteringsapparatuur en verpakking van het monster door middel van de verpakkingsapparatuur is geheel geautomatiseerd en technische voorzieningen waarborgen dat beïnvloeding van buitenaf niet mogelijk is en dat uitsluitend meststoffen afkomstig uit de bemonsteringsapparatuur worden verpakt; en  
 
 d. de verpakkingsapparatuur levert de met meststoffen gevulde monsterverpakking zodanig gesloten af dat deze niet zonder herkenbare beschadiging kan worden geopend en aan de inhoud ervan zonder herkenbare beschadiging niets toegevoegd, afgenomen of anderszins veranderd kan worden.     
 
-#### *D. Prestatiekenmerken AGR-apparatuur voor het vervoer van drijfmest* 
+###D 
 
-#### *1. Uiterlijke aanduidingen AGR-apparatuur* 
+####Prestatiekenmerken AGR-apparatuur voor het vervoer van drijfmest
 
-1.1. De AGR-apparatuur is zichtbaar voorzien van een typeaanduiding, een versienummer, een uniek serienummer en een identificatie van de fabrikant. 1.2. Indien de AGR-apparatuur uit verschillende onderdelen bestaat is ieder te onderscheiden onderdeel zichtbaar voorzien van de in onderdeel 1.1. genoemde kenmerken. 1.3. De AGR-apparatuur beschikt over een voorziening waarmee het unieke serienummer automatisch wordt vastgelegd en aan elk elektronisch databericht wordt meegegeven. 
+### 1  
 
-#### *2. Inlezen gegevens* 
+####Uiterlijke aanduidingen AGR-apparatuur
 
-2.1. De AGR-apparatuur beschikt over een voorziening waarmee het nummer van het Vervoersbewijs dierlijke meststoffen automatisch en op elektronische wijze vanaf dit bewijs wordt ingelezen. 2.2. De AGR-apparatuur beschikt over een voorziening waarmee het combinatienummer automatisch en op elektronische wijze uit de verpakkingsapparatuur wordt ingelezen. 2.3. De AGR-apparatuur beschikt over een voorziening waarmee de unieke identificatie van de monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat, automatisch en op elektronische wijze uit de verpakkingsapparatuur wordt ingelezen. Dit is zowel tijdens laden als tijdens het lossen mogelijk. 
+1.1. De AGR-apparatuur is zichtbaar voorzien van een typeaanduiding, een versienummer, een uniek serienummer en een identificatie van de fabrikant.  
 
-#### *3. Koppeling AGR-apparatuur aan verpakkingsapparatuur en satellietvolgapparatuur* 
+1.2. Indien de AGR-apparatuur uit verschillende onderdelen bestaat is ieder te onderscheiden onderdeel zichtbaar voorzien van de in onderdeel 1.1. genoemde kenmerken.  
 
-3.1. De AGR-apparatuur beschikt over een voorziening waarmee de bemonsterings- en verpakkingsapparatuur, in het geval van vervoer door middel van een pijpleiding, de in het leidingstelsel opgenomen afsluitkleppen alsmede de satellietvolgapparatuur elektronisch aan de AGR-apparatuur verbonden zijn. 
+1.3. De AGR-apparatuur beschikt over een voorziening waarmee het unieke serienummer automatisch wordt vastgelegd en aan elk elektronisch databericht wordt meegegeven.   
 
-#### *4. Automatische positiebepaling van het transportmiddel met satellietvolgapparatuur* 
+### 2  
 
-4.1. De AGR-apparatuur beschikt over een voorziening waarmee de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald voortdurend en automatisch worden vastgelegd. 4.2. De AGR-apparatuur beschikt over een voorziening waarmee direct na het inlezen van het nummer van het Vervoersbewijs dierlijke meststoffen de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd. 4.3. De AGR-apparatuur beschikt over een voorziening waarmee direct na het inlezen van de identificatie van de monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat, de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd. 4.4. De AGR-apparatuur beschikt over een voorziening waarmee zowel tijdens het laden als tijdens het lossen op het transportmiddel automatisch het moment van laden, onderscheidenlijk het moment van lossen wordt onderkend alsmede over een voorziening waarmee de op voornoemde momenten door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd.4.5. In het geval van vervoer door middel van een vaste pijpleiding kunnen de onder 4.1 tot en met 4.4 bedoelde positiegegevens voorgeprogrammeerd zijn.4.6. De AGR-apparatuur beschikt in het geval van vervoer door middel van een pijpleiding over een voorziening waarmee, indien de hoeveelheid dierlijke meststoffen wordt bepaald met behulp van het apparaat, als bedoeld in artikel 82, derde lid, onderdeel a, en de dichtheid van de mest niet gelijk is aan 1, de meetwaarde van de debietmeter gecorrigeerd kan worden. Deze correctie kan automatisch uitgevoerd worden door en vastgelegd worden in de AGR-apparatuur. Voor het bepalen van de dichtheid wordt gebruik gemaakt van de publicatie van de Wageningen Universiteit uit de Kwantitatieve Informatie voor de Veehouderij (KWIN) (www.livestockresearch.wur.nl). 
+####Inlezen gegevens
 
-#### *5. Opslag van gegevens van de AGR-apparatuur* 
+2.1. De AGR-apparatuur beschikt over een voorziening waarmee het nummer van het Vervoersbewijs dierlijke meststoffen automatisch en op elektronische wijze vanaf dit bewijs wordt ingelezen.  
 
-5.1. De door de AGR-apparatuur geregistreerde gegevens blijven ten minste in deze apparatuur vastgelegd tot het moment waarop deze gegevens succesvol met het elektronisch databericht zijn verzonden. 
+2.2. De AGR-apparatuur beschikt over een voorziening waarmee het combinatienummer automatisch en op elektronische wijze uit de verpakkingsapparatuur wordt ingelezen.  
 
-#### *6. Versturen van mesttransportgegevens* 
+2.3. De AGR-apparatuur beschikt over een voorziening waarmee de unieke identificatie van de monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat, automatisch en op elektronische wijze uit de verpakkingsapparatuur wordt ingelezen. Dit is zowel tijdens laden als tijdens het lossen mogelijk.   
+
+### 3  
+
+####Koppeling AGR-apparatuur aan verpakkingsapparatuur en satellietvolgapparatuur
+
+3.1. De AGR-apparatuur beschikt over een voorziening waarmee de bemonsterings- en verpakkingsapparatuur, in het geval van vervoer door middel van een pijpleiding, de in het leidingstelsel opgenomen afsluitkleppen alsmede de satellietvolgapparatuur elektronisch aan de AGR-apparatuur verbonden zijn.   
+
+### 4  
+
+####Automatische positiebepaling van het transportmiddel met satellietvolgapparatuur
+
+4.1. De AGR-apparatuur beschikt over een voorziening waarmee de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald voortdurend en automatisch worden vastgelegd.  
+
+4.2. De AGR-apparatuur beschikt over een voorziening waarmee direct na het inlezen van het nummer van het Vervoersbewijs dierlijke meststoffen de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd.  
+
+4.3. De AGR-apparatuur beschikt over een voorziening waarmee direct na het inlezen van de identificatie van de monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat, de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd.  
+
+4.4. De AGR-apparatuur beschikt over een voorziening waarmee zowel tijdens het laden als tijdens het lossen op het transportmiddel automatisch het moment van laden, onderscheidenlijk het moment van lossen wordt onderkend alsmede over een voorziening waarmee de op voornoemde momenten door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd.  
+
+4.5. In het geval van vervoer door middel van een vaste pijpleiding kunnen de onder 4.1 tot en met 4.4 bedoelde positiegegevens voorgeprogrammeerd zijn.  
+
+4.6. De AGR-apparatuur beschikt in het geval van vervoer door middel van een pijpleiding over een voorziening waarmee, indien de hoeveelheid dierlijke meststoffen wordt bepaald met behulp van het apparaat, als bedoeld in artikel 82, derde lid, onderdeel a, en de dichtheid van de mest niet gelijk is aan 1, de meetwaarde van de debietmeter gecorrigeerd kan worden. Deze correctie kan automatisch uitgevoerd worden door en vastgelegd worden in de AGR-apparatuur. Voor het bepalen van de dichtheid wordt gebruik gemaakt van de publicatie van de Wageningen Universiteit uit de Kwantitatieve Informatie voor de Veehouderij (KWIN) (www.livestockresearch.wur.nl).   
+
+### 5  
+
+####Opslag van gegevens van de AGR-apparatuur
+
+5.1. De door de AGR-apparatuur geregistreerde gegevens blijven ten minste in deze apparatuur vastgelegd tot het moment waarop deze gegevens succesvol met het elektronisch databericht zijn verzonden.   
+
+### 6  
+
+####Versturen van mesttransportgegevens
 
 6.1. De AGR-apparatuur beschikt over een voorziening waarmee terstond nadat de gegevens in de AGR-apparatuur zijn geregistreerd, zowel tijdens het laden als tijdens het lossen automatisch, zonder tussenkomst van menselijk handelen en zonder dat menselijk ingrijpen mogelijk is een elektronisch databericht naar de minister wordt verstuurd. Het tijdens het laden te versturen elektronisch databericht ‘laden van mest’ bevat de volgende gegevens: 
 
@@ -3536,7 +3608,9 @@ d. de verpakkingsapparatuur levert de met meststoffen gevulde monsterverpakking 
 
 – het soort bericht ‘laden van mest’; en  
 
-– een Indicatie of er tijdens het laden een storing is opgetreden.   6.2. Het tijdens het lossen te versturen elektronisch databericht ‘lossen van mest’ bevat de volgende gegevens: 
+– een Indicatie of er tijdens het laden een storing is opgetreden.    
+
+6.2. Het tijdens het lossen te versturen elektronisch databericht ‘lossen van mest’ bevat de volgende gegevens: 
 
 – het nummer van het Vervoersbewijs dierlijke meststoffen;  
 
@@ -3554,45 +3628,87 @@ d. de verpakkingsapparatuur levert de met meststoffen gevulde monsterverpakking 
 
 – het soort bericht ‘lossen van mest’; en  
 
-– een Indicatie of er tijdens het vervoer een storing is opgetreden.   6.3. De AGR-apparatuur beschikt over een voorziening waarmee elektronische databerichten behouden blijven indien er een storing optreedt in de mobiele datacommunicatie en waarmee de elektronische databerichten alsnog worden verstuurd zodra de storing is opgeheven. 6.4. De AGR-apparatuur maakt voor het versturen van elektronische databerichten uitsluitend gebruik van een infrastructuur die wordt beheerd door een ten opzichte van de intermediair onafhankelijk partij, waarbij gewaarborgd is dat de met het databericht verzonden gegevens die bestemd zijn voor het Minister van Economische Zaken, uitsluitend door een ten opzichte van de intermediair onafhankelijke partij worden beheerd. 6.5. De AGR-apparatuur sluit op elektronische wijze, overeenkomstig de technische specificaties die op verzoek door de minister worden verstrekt, aan op het door de minister beschikbaar gestelde portaal. 
+– een Indicatie of er tijdens het vervoer een storing is opgetreden.    
 
-#### *7. Signalering van storingen* 
+6.3. De AGR-apparatuur beschikt over een voorziening waarmee elektronische databerichten behouden blijven indien er een storing optreedt in de mobiele datacommunicatie en waarmee de elektronische databerichten alsnog worden verstuurd zodra de storing is opgeheven.  
 
-7.1. De AGR-apparatuur beschikt over een voorziening waarmee wordt zichtbaar gemaakt of elke te onderscheiden functie van de AGR-apparatuur en de satellietvolgapparatuur correct functioneert. 7.2. De AGR-apparatuur beschikt over een voorziening waarmee in het elektronische databericht ‘lossen van mest’ automatisch wordt aangegeven of er gedurende het desbetreffende transport een storing is opgetreden. 
+6.4. De AGR-apparatuur maakt voor het versturen van elektronische databerichten uitsluitend gebruik van een infrastructuur die wordt beheerd door een ten opzichte van de intermediair onafhankelijk partij, waarbij gewaarborgd is dat de met het databericht verzonden gegevens die bestemd zijn voor het ministerie van Economische Zaken, uitsluitend door een ten opzichte van de intermediair onafhankelijke partij worden beheerd.  
 
-#### *E. Prestatiekenmerken AGR-apparatuur voor het vervoer van vaste mest* 
+6.5. De AGR-apparatuur sluit op elektronische wijze, overeenkomstig de technische specificaties die op verzoek door de minister worden verstrekt, aan op het door de minister beschikbaar gestelde portaal.   
 
-#### *1. Uiterlijke aanduidingen AGR-apparatuur* 
+### 7  
 
-1.1. De AGR-apparatuur is zichtbaar voorzien van een typeaanduiding, een versienummer, een uniek serienummer en een identificatie van de fabrikant. 1.2. Indien de AGR-apparatuur uit verschillende onderdelen bestaat is ieder te onderscheiden onderdeel zichtbaar voorzien van de in onderdeel 1.1. genoemde kenmerken. 1.3. De AGR-apparatuur beschikt over een voorziening waarmee het unieke serienummer automatisch wordt vastgelegd en aan elk elektronisch databericht wordt meegegeven. 
+####Signalering van storingen
 
-#### *2. Inlezen gegevens* 
+7.1. De AGR-apparatuur beschikt over een voorziening waarmee wordt zichtbaar gemaakt of elke te onderscheiden functie van de AGR-apparatuur en de satellietvolgapparatuur correct functioneert.  
 
-2.1. De AGR-apparatuur beschikt over een voorziening waarmee het nummer van het Vervoersbewijs dierlijke meststoffen automatisch en op elektronische wijze vanaf dit bewijs wordt ingelezen. 2.2. De AGR-apparatuur beschikt over een voorziening waarmee de unieke identificatie van de monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat, op elektronische wijze wordt ingelezen. 
+7.2. De AGR-apparatuur beschikt over een voorziening waarmee in het elektronische databericht ‘lossen van mest’ automatisch wordt aangegeven of er gedurende het desbetreffende transport een storing is opgetreden.   
 
-#### *3. Koppeling AGR-apparatuur aan satellietvolgapparatuur* 
+### E  
 
-3.1. De AGR-apparatuur beschikt over een voorziening waarmee de satellietvolgapparatuur elektronisch aan de AGR-apparatuur verbonden is. 
+####Prestatiekenmerken AGR-apparatuur voor het vervoer van vaste mest
 
-#### *4. Automatische positiebepaling van het transportvoertuig met satellietvolgapparatuur* 
+### 1  
 
-4.1. De AGR-apparatuur beschikt over een voorziening waarmee de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald voortdurend en automatisch worden vastgelegd. 4.2. De AGR-apparatuur beschikt over een voorziening waarmee direct na het inlezen van het nummer van het Vervoersbewijs dierlijke meststoffen de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd. 4.3. De AGR-apparatuur beschikt over een voorziening waarmee direct na het inlezen van de identificatie van de monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat, de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd. 4.4. De AGR-apparatuur beschikt over een voorziening waarmee zowel tijdens het laden als tijdens het lossen het moment van laden, onderscheidenlijk het moment van lossen kenbaar gemaakt kan worden alsmede over een voorziening waarmee de op voornoemde momenten door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd. 4.5. In het geval van vervoer door middel van een vaste transportband kunnen de onder 4.1 tot en met 4.4 bedoelde positiegegevens voorgeprogrammeerd zijn.
+####Uiterlijke aanduidingen AGR-apparatuur
 
-#### *5. Opslag van gegevens van de AGR-apparatuur* 
+1.1. De AGR-apparatuur is, ook na montage, zichtbaar voorzien van een typeaanduiding, een versienummer, een uniek serienummer en een identificatie van de fabrikant.  
 
-5.1. De door de AGR-apparatuur geregistreerde gegevens blijven ten minste in deze apparatuur vastgelegd tot het moment waarop deze gegevens succesvol met het elektronisch databericht zijn verzonden. 
+1.2. Indien de AGR-apparatuur uit verschillende fysieke onderdelen bestaat is ieder te onderscheiden onderdeel, ook na montage, zichtbaar voorzien van de in onderdeel 1.1. genoemde kenmerken.   
 
-#### *6. Versturen van mesttransportgegevens* 
+### 2  
 
-6.1. De AGR-apparatuur beschikt over een voorziening waarmee zowel tijdens het laden als tijdens het lossen automatisch, zonder tussenkomst van menselijk handelen en zonder dat menselijk ingrijpen mogelijk is een elektronisch databericht naar de minister wordt verstuurd terstond nadat de desbetreffende gegevens door de AGR-apparatuur zijn geregistreerd. 6.2. Het tijdens het laden te versturen elektronisch databericht ‘laden van mest’ bevat de volgende gegevens: 
+####Inlezen gegevens
+
+2.1. De AGR-apparatuur beschikt over een voorziening waarmee het nummer van het vervoersbewijs dierlijke meststoffen automatisch en op elektronische wijze vanaf dit bewijs wordt ingelezen.  
+
+2.2. De AGR-apparatuur beschikt over een voorziening waarmee de unieke serienummers van alle bij het transport betrokken fysieke onderdelen van de AGR-apparatuur, automatisch en op elektronische wijze worden ingelezen en vastgelegd.  
+
+2.3. De AGR-apparatuur beschikt over een voorziening waarmee de unieke identificatie van de monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat, op elektronische wijze wordt ingelezen.   
+
+### 3  
+
+####Koppeling AGR-apparatuur aan satellietvolgapparatuur en transportmiddel
+
+3.1. De AGR-apparatuur beschikt over een voorziening waarmee de apparatuur die automatisch en op elektronische wijze het moment van laden, onderscheidenlijk het moment van lossen onderkent en de satellietvolgapparatuur elektronisch aan de AGR-apparatuur verbonden is.  
+
+3.2. Het sensordeel van de AGR-apparatuur communiceert continu via een unieke elektronische of bedrade verbinding tijdens het vervoer van meststoffen met de overige bij het vervoer betrokken fysieke onderdelen van de AGR-apparatuur. Dit onderdeel van de AGR-apparatuur genereert ten minste automatisch en op elektronische wijze het moment van laden, onderscheidenlijk het moment van lossen en geeft automatisch een signaal als de unieke verbinding tijdens het vervoer wordt verbroken met de overige bij het vervoer betrokken fysieke onderdelen van de AGR-apparatuur.   
+
+### 4  
+
+####Automatische positiebepaling van satellietvolgapparatuur
+
+4.1. De AGR-apparatuur beschikt over een voorziening waarmee de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald voortdurend en automatisch worden vastgelegd en middels een track- en tracingsysteem deze gegevens beschikbaar gesteld moeten kunnen worden voor de bedrijfsadministratie.  
+
+4.2. De AGR-apparatuur beschikt over een voorziening waarmee direct na het inlezen van het nummer van het vervoersbewijs dierlijke meststoffen de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd.  
+
+4.3. De AGR-apparatuur beschikt over een voorziening waarmee direct na het inlezen van de identificatie van de monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat, de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd.  
+
+4.4. De AGR-apparatuur beschikt over een elektronische voorziening waarmee zowel tijdens het laden als tijdens het lossen automatisch het moment van laden, onderscheidenlijk het moment van lossen wordt onderkend alsmede over een voorziening waarmee de op voornoemde momenten door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd.  
+
+4.5. In het geval van vervoer door middel van een vaste transportband kunnen de onder 4.1 tot en met 4.4 bedoelde positiegegevens voorgeprogrammeerd zijn.   
+
+### 5  
+
+####Opslag van gegevens van de AGR-apparatuur
+
+5.1. De door de AGR-apparatuur geregistreerde gegevens blijven ten minste in deze apparatuur vastgelegd tot het moment waarop deze gegevens succesvol met het elektronisch databericht zijn verzonden.   
+
+### 6  
+
+####Versturen van mesttransportgegevens
+
+6.1. De AGR-apparatuur beschikt over een voorziening waarmee zowel tijdens het laden als tijdens het lossen automatisch, zonder tussenkomst van menselijk handelen en zonder dat menselijk ingrijpen mogelijk is één of meerdere elektronische databericht(en) naar de minister wordt (en) verstuurd terstond nadat de desbetreffende gegevens door de AGR-apparatuur zijn geregistreerd.  
+
+6.2. Het tijdens het laden te versturen elektronisch databericht ‘laden van mest’ bevat de volgende gegevens: 
 
 – het nummer van het Vervoersbewijs dierlijke meststoffen;  
 
-– het serienummer van de AGR-apparatuur;  
+– het unieke serienummer van het bij het transport betrokken onderdeel van de AGR-apparatuur;  
 
 – de gegevens ter identificatie van de monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat;  
 
-– de door de satellietvolgapparatuur gegenereerde gegevens, bedoeld in onderdeel 4.2. die zijn vastgelegd direct na inlezen van het nummer van het Vervoersbewijs dierlijke meststoffen;  
+– de door de satellietvolgapparatuur gegenereerde gegevens, bedoeld in onderdeel 4.2. die zijn vastgelegd direct na inlezen van het nummer van het vervoersbewijs dierlijke meststoffen;  
 
 – de door de satellietvolgapparatuur gegenereerde gegevens, bedoeld in onderdeel 4.3. die zijn vastgelegd direct na inlezen van de identificatie van de monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat;  
 
@@ -3600,15 +3716,17 @@ d. de verpakkingsapparatuur levert de met meststoffen gevulde monsterverpakking 
 
 – het soort bericht ‘laden van mest’; en  
 
-– een Indicatie of er tijdens het laden een storing is opgetreden.   6.3. Het tijdens het lossen te versturen databericht ‘lossen van mest’ bevat de volgende gegevens: 
+– een indicatie of er tijdens het laden een storing is opgetreden.    
 
-– het nummer van het Vervoersbewijs dierlijke meststoffen;  
+6.3. Het tijdens het lossen te versturen elektronisch databericht ‘lossen van mest’ bevat de volgende gegevens: 
 
-– het serienummer van de AGR-apparatuur;  
+– het nummer van het vervoersbewijs dierlijke meststoffen;  
+
+– het unieke serienummer van het bij het transport betrokken onderdeel van de AGR-apparatuur;  
 
 – de gegevens ter identificatie van de volledige monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat;  
 
-– de door de satellietvolgapparatuur gegenereerde gegevens, bedoeld in onderdeel 4.2. die zijn vastgelegd direct na inlezen van het nummer van het Vervoersbewijs dierlijke meststoffen;  
+– de door de satellietvolgapparatuur gegenereerde gegevens, bedoeld in onderdeel 4.2. die zijn vastgelegd direct na inlezen van het nummer van het vervoersbewijs dierlijke meststoffen;  
 
 – de door de satellietvolgapparatuur gegenereerde gegevens, bedoeld in onderdeel 4.3. die zijn vastgelegd direct na inlezen van de identificatie van de monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat;  
 
@@ -3616,11 +3734,105 @@ d. de verpakkingsapparatuur levert de met meststoffen gevulde monsterverpakking 
 
 – het soort bericht ‘lossen van mest’; en  
 
-– een Indicatie of er tijdens het vervoer een storing is opgetreden.   6.4. De AGR-apparatuur beschikt over een voorziening waarmee elektronische databerichten behouden blijven indien er een storing optreedt in de mobiele datacommunicatie en waarmee de elektronische databerichten alsnog worden verstuurd zodra de storing is opgeheven. 6.5. De AGR-apparatuur maakt voor het versturen van elektronische databerichten uitsluitend gebruik van een infrastructuur die wordt beheerd door een ten opzichte van de intermediair onafhankelijk partij, waarbij gewaarborgd is dat de met het databericht verzonden gegevens die bestemd zijn voor het ministerie van LNV, uitsluitend door een ten opzichte van de intermediair onafhankelijke partij worden beheerd. 6.6. De AGR-apparatuur sluit op elektronische wijze, overeenkomstig de technische specificaties die op verzoek door de minister worden verstrekt, aan op het door de minister beschikbaar gestelde portaal. 
+– een indicatie of er tijdens het vervoer een storing is opgetreden.    
 
-#### *7. Signalering van storingen* 
+6.4. De AGR-apparatuur beschikt over een voorziening waarmee elektronische databerichten behouden blijven indien er een storing optreedt in de mobiele datacommunicatie en waarmee de elektronische databerichten alsnog worden verstuurd zodra de storing is opgeheven.  
 
-7.1. De AGR-apparatuur beschikt over een voorziening waarmee wordt zichtbaar gemaakt of elke te onderscheiden functie van de AGR-apparatuur en de satellietvolgapparatuur correct functioneert. 7.2. De AGR-apparatuur beschikt over een voorziening waarmee in het databericht ‘lossen van mest’ automatisch wordt aangegeven of er gedurende het desbetreffende transport een storing is opgetreden. 
+6.5. De AGR-apparatuur maakt voor het versturen van elektronische databerichten uitsluitend gebruik van een infrastructuur die wordt beheerd door een ten opzichte van de intermediair onafhankelijk partij, waarbij gewaarborgd is dat de met het databericht verzonden gegevens die bestemd zijn voor het ministerie van EZ, uitsluitend door een ten opzichte van de intermediair onafhankelijke partij worden beheerd.  
+
+6.6. De AGR-apparatuur sluit op elektronische wijze, overeenkomstig de technische specificaties die op verzoek door de minister worden verstrekt, aan op het door de minister beschikbaar gestelde portaal.   
+
+### 7  
+
+####Signalering van storingen
+
+7.1. De AGR-apparatuur beschikt over een voorziening waarmee wordt zichtbaar gemaakt of elke te onderscheiden functie van de AGR-apparatuur en de satellietvolgapparatuur correct functioneert.  
+
+7.2. De AGR-apparatuur beschikt over een voorziening waarmee in het databericht ‘lossen van mest’ automatisch wordt aangegeven of er gedurende het desbetreffende transport een storing is opgetreden.   
+
+### 8  
+
+####Prestatiekenmerken AGR-apparatuur voor het vervoer van vaste mest, zonder luchtvering
+
+8.1. Uiterlijke aanduidingen AGR-apparatuur 
+
+8.1.1. De AGR-apparatuur is zichtbaar voorzien van een typeaanduiding, een versienummer, een uniek serienummer en een identificatie van de fabrikant.  
+
+8.1.2. Indien de AGR-apparatuur uit verschillende onderdelen bestaat is ieder te onderscheiden onderdeel zichtbaar voorzien van de in onderdeel 8.1.1. genoemde kenmerken.  
+
+8.1.3. De AGR-apparatuur beschikt over een voorziening waarmee het eigen unieke serienummer automatisch wordt vastgelegd en aan elk elektronisch databericht wordt meegegeven.    
+
+8.2. Inlezen gegevens 
+
+8.2.1. De AGR-apparatuur beschikt over een voorziening waarmee het nummer van het vervoersbewijs dierlijke meststoffen automatisch en op elektronische wijze vanaf dit bewijs wordt ingelezen.  
+
+8.2.2. De AGR-apparatuur beschikt over een voorziening waarmee de unieke identificatie van de monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat, op elektronische wijze wordt ingelezen.    
+
+8.3. Koppeling AGR-apparatuur aan satellietvolgapparatuur De AGR-apparatuur beschikt over een voorziening waarmee de satellietvolgapparatuur elektronisch aan de AGR-apparatuur verbonden is.  
+
+8.4 Automatische positiebepaling van het transportmiddel waarop een laadbak wordt bevestigd met satellietvolgapparatuur 
+
+8.4.1. De AGR-apparatuur beschikt over een voorziening waarmee de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald voortdurend en automatisch worden vastgelegd.  
+
+8.4.2. De AGR-apparatuur beschikt over een voorziening waarmee direct na het inlezen van het nummer van het vervoersbewijs dierlijke meststoffen de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd.  
+
+8.4.3. De AGR-apparatuur beschikt over een voorziening waarmee direct na het inlezen van de identificatie van de monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat, de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd.  
+
+8.4.4. De AGR-apparatuur beschikt over een voorziening waarmee zowel tijdens het laden als tijdens het lossen het moment van laden, onderscheidenlijk het moment van lossen kenbaar gemaakt kan worden alsmede over een voorziening waarmee de op voornoemde momenten door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd.    
+
+8.5. Opslag van gegevens van de AGR-apparatuur De door de AGR-apparatuur geregistreerde gegevens blijven ten minste in deze apparatuur vastgelegd tot het moment waarop deze gegevens succesvol met het elektronisch databericht zijn verzonden.  
+
+8.6. Versturen van mesttransportgegevens 
+
+8.6.1. De AGR-apparatuur beschikt over een voorziening waarmee zowel tijdens het laden als tijdens het lossen automatisch, zonder tussenkomst van menselijk handelen en zonder dat menselijk ingrijpen mogelijk is een elektronisch databericht naar de minister wordt verstuurd terstond nadat de desbetreffende gegevens door de AGR-apparatuur zijn geregistreerd.  
+
+8.6.2 Het tijdens het laden te versturen elektronisch databericht ‘laden van mest’ bevat de volgende gegevens: 
+
+– het nummer van het vervoersbewijs dierlijke meststoffen;  
+
+– het serienummer van de AGR-apparatuur;  
+
+– de gegevens ter identificatie van de monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat;  
+
+– de door de satellietvolgapparatuur gegenereerde gegevens, bedoeld in onderdeel 8.4.2. die zijn vastgelegd direct na inlezen van het nummer van het vervoersbewijs dierlijke meststoffen;  
+
+– de door de satellietvolgapparatuur gegenereerde gegevens, bedoeld in onderdeel 8.4.3. die zijn vastgelegd direct na inlezen van de identificatie van de monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat;  
+
+– de door de satellietvolgapparatuur gegenereerde gegevens, bedoeld in onderdeel 8.4.4. die zijn vastgelegd op het moment van het laden van de lading dierlijke meststoffen;  
+
+– het soort bericht ‘laden van mest’; en  
+
+– een Indicatie of er tijdens het laden een storing is opgetreden.    
+
+8.6.3. Het tijdens het lossen te versturen databericht ‘lossen van mest’ bevat de volgende gegevens: 
+
+– het nummer van het vervoersbewijs dierlijke meststoffen;  
+
+– het serienummer van de AGR-apparatuur;  
+
+– de gegevens ter identificatie van de volledige monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat;  
+
+– de door de satellietvolgapparatuur gegenereerde gegevens, bedoeld in onderdeel 8.4.2. die zijn vastgelegd direct na inlezen van het nummer van het vervoersbewijs dierlijke meststoffen;  
+
+– de door de satellietvolgapparatuur gegenereerde gegevens, bedoeld in onderdeel 8.4.3. die zijn vastgelegd direct na inlezen van de identificatie van de monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat;  
+
+– de door de satellietvolgapparatuur gegenereerde gegevens, bedoeld in onderdeel 8.4.4. die zijn vastgelegd op het moment van het lossen van de lading dierlijke meststoffen;  
+
+– het soort bericht ‘lossen van mest’; en  
+
+– een Indicatie of er tijdens het vervoer een storing is opgetreden.    
+
+8.6.4. De AGR-apparatuur beschikt over een voorziening waarmee elektronische databerichten behouden blijven indien er een storing optreedt in de mobiele datacommunicatie en waarmee de elektronische databerichten alsnog worden verstuurd zodra de storing is opgeheven.  
+
+8.6.5. De AGR-apparatuur maakt voor het versturen van elektronische databerichten uitsluitend gebruik van een infrastructuur die wordt beheerd door een ten opzichte van de intermediair onafhankelijk partij, waarbij gewaarborgd is dat de met het databericht verzonden gegevens die bestemd zijn voor het ministerie van EZ, uitsluitend door een ten opzichte van de intermediair onafhankelijke partij worden beheerd.  
+
+8.6.6. De AGR-apparatuur sluit op elektronische wijze, overeenkomstig de technische specificaties die op verzoek door de minister worden verstrekt, aan op het door de minister beschikbaar gestelde portaal.    
+
+8.7. Signalering van storingen 
+
+8.7.1. De AGR-apparatuur beschikt over een voorziening waarmee wordt zichtbaar gemaakt of elke te onderscheiden functie van de AGR-apparatuur en de satellietvolgapparatuur correct functioneert.  
+
+8.7.2. De AGR-apparatuur beschikt over een voorziening waarmee in het databericht ‘lossen van mest’ automatisch wordt aangegeven of er gedurende het desbetreffende transport een storing is opgetreden.     
 
 ### Bijlage  F  
 

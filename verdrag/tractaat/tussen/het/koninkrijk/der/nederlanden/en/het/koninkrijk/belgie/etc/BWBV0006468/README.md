@@ -46,7 +46,7 @@ La construction de la nouvelle prise d'eau à Maestricht, mentionnée dans l'art
 
 ###Article 11 
 
-Si dans la suite le Gouvernement des Pays-Bas jugeait utile d'exécuteur ou de laisser exécuter des travaux rendant nécessaire l'augmentation du volume d'eau à puiser à la Meuse à Maestricht, tel qu'il est fixé dans le présent traité, le concours du Gouvernement Belge aux mesures nécessaires pour assurer l'écoulement des eaux par le Zuidwillemsvaart sera réglé entre les deux Gouvernements.
+Si dans la suite le Gouvernement des Pays-Bas jugeait utile d'exécuter ou de laisser exécuter des travaux rendant nécessaire l'augmentation du volume d'eau à puiser à la Meuse à Maestricht, tel qu'il est fixé dans le présent traité, le concours du Gouvernement Belge aux mesures nécessaires pour assurer l'écoulement des eaux par le Zuidwillemsvaart sera réglé entre les deux Gouvernements.
 
 ###Article 12 
 
@@ -95,7 +95,7 @@ Comme base des travaux à exécuter est adopté le système de régularisation d
 |6 |A l'endroit dit Kleine en Groote Meers, commune d'Elsloo (R.D.) et Gen. Heuth, commune de Mechelen (R. G.) |XXVII-XXXI. |Six épis perpendiculaires. |G. |180 |f 5 000 | --- |
 |Treize ” ”  |D. |460 |12 000 |
 |Un ouvrage de défense contre la rive droite. |” |400 |6 000 ------- f 23 000 |
-|7 |En aval de Maasband, commune de Steyn (R. D.), vis-à-vis de Maselhoven, commune de Leuth (R. G.). |XXXII-XXIV. |Onze épis perpendiculaires. |G. |220 |f 6 000 | --- |
+|7 |En aval de Maasband, commune de Steyn (R. D.), vis-à-vis de Maselhoven, commune de Leuth (R. G.). |XXXII-XXXIV. |Onze épis perpendiculaires. |G. |220 |f 6 000 | --- |
 |Une jetée longitudinale. |D. |375 |7 500 |
 |Quatre épis perpendiculaires. |” |70 |1 500 ------- f 15 000 |
 |8 |Au passage d'eau à Berg, commune d'Urmond (R. D.), vis-à-vis de la commune de Meeswyk (R.G.). |XXXVI. |Six épis perpendiculaires. |G. |180 |f 4 200 | --- |
@@ -199,11 +199,11 @@ Comme base des travaux à exécuter est adopté le système de régularisation d
 |36 |Commune de Belfeld (R. D.) en amont du village. |XCIX-C. |Un épi longitudinal et cinq épis perpendiculaires. |” |215 |f 6 400 | --- |
 |37 |En aval du passage d'eau de Baarlo, commune de Maasbree (R. G.). |CII. |Six épis perpendiculaires. |G. |89 |f 3 600 | --- |
 |Un ouvrage de défense de la rive (bleeslaag). |” |220 |4 800 ------- f 8 400 |
-|38 |Au moulin de Blerick, commune de Maasbree (R. G.), commune de Tegelen (R. D.). |CIV-CV. |Une jetée longitudinale reliant entr'eux et à la rive les épis existants. |” |700 98 |f 14 500 | --- |
-|Six épis perpendiculaires. |D. |150 |4 100 |
-|Trois travaux de défense de la rive (bleeslaag). |D. |80 |3 200 |
-|Quatre épis perpendiculaires. |” |” |3 200 |
-|Élargissement du chenal. |” | --- |9 700 ------- f 34 700 |
+|38 |Au moulin de Blerick, commune de Maasbree (R. G.), commune de Tegelen (R. D.). |CIV-CV. |Une jetée longitudinale reliant entr'eux et à la rive les épis existants. |” |700 |f 14 500 | --- |
+|Six épis perpendiculaires. |D. |98 |4 100 |
+|Trois travaux de défense de la rive (bleeslaag). |D. |150 |3 200 |
+|Quatre épis perpendiculaires. |” |80 |3 200 |
+|Élargissement du chenal. |” |” |9 700 ------- f 34 700 |
 |39 |Au village de Blerick, commune de Maasbree (R. G.) |CVII. |Cinq épis perpendiculaires. |G. |150 |f 4 600 | --- |
 |40 |En amont du pont du chemin de fer à Venlo (R. D.). |” |Cinq épis perpendiculaires. |D. |125 |f 4 400 | --- |
 
@@ -349,7 +349,7 @@ Als grondslag der uit te voeren werken is aangenomen het stelsel van normaliseri
 |6 |Ter sprake genaamd de Kleine en Groote Meers, gemeente Elsloo (R. O) en Gen Heuth, gemeente Mechelen (L. O.). |XXVII-XXXI. |Zes perpendiculaire kribben. |L. |180 |f 5 000 | --- |
 |Dertien ” ”  |R. |460 |12 000 |
 |Een werk ter verdediging van den regter oever. |” |400 |6 000 --------- f 23 000 |
-|7 |Beneden Maasband, gemeente Steyn (R. O.), tegenover Maselhoven, gemeente Leuth (L. O.). |XXXII-XXIV. |Elf perpendiculaire kribben. |L. |220 |f 6 000 | --- |
+|7 |Beneden Maasband, gemeente Steyn (R. O.), tegenover Maselhoven, gemeente Leuth (L. O.). |XXXII-XXXIV. |Elf perpendiculaire kribben. |L. |220 |f 6 000 | --- |
 |Een strekdam. |R. |375 |7 500 |
 |Vier perpendiculaire kribben. |” |70 |1 500 --------- f 15 000 |
 |8 |Aan het veer te Berg, gemeente Urmond (R. O.) tegenover de gemeente Meeswijk (L. O.). |XXXVI. |Zes perpendiculaire kribben. |L. |180 |f 4 200 | --- |
@@ -412,11 +412,11 @@ Als grondslag der uit te voeren werken is aangenomen het stelsel van normaliseri
 |Een strekdam. |L. |450 |12 000 --------- f 18 000 |
 |27 |Te Merum, tegenover en beneden de Mostertgriend, gemeente Herten (R. O.) en Linne (L. O.). |LXXII-LXXIII. |Een strekdam. |R. |85 |f 2 000 | --- |
 |Een verdedigingswerk. |” |150 |1 500 |
-|Een lage afsluitdam van den nevenarm aam het boveneinde van den Isabellagriend. |” |150 |4 500 |
+|Een lage afsluitdam van den nevenarm aan het boveneinde van den Isabellagriend. |” |150 |4 500 |
 |Een perpendiculaire krib. |L. |16 |300 |
 |Een strekdam met eene dwarskrib. |” |330 |9 500 |
 |Twee strekdammen en vijf dwarskribben. |” |300 |6 000 --------- f 23 800 |
-|28 |Van de plaats genaamd Isabellegriend tot de Oude Maas beneden het veer te Ool, gemeente Herten (R. O.) en Beegden (L. O.). |LXXIV-LXXVI. |Een dijk tot sluiting ter hoogte van den oever van de geul aan de regter zijde van den Isabellegriend. |R. |50 |f 2 000 | --- |
+|28 |Van de plaats genaamd Isabellegriend tot de Oude Maas beneden het veer te Ool, gemeente Herten (R. O.) en Beegden (L. O.). |LXXIV-LXXVI. |Een dijk tot sluiting ter hoogte van den oever van de geul aan de regter zijde van den Isabellagriend. |R. |50 |f 2 000 | --- |
 |Een verdedigingswerk. |L. |205 |4 000 |
 |Een strekdam met eene dwarskrib. |” |120 |3 600 |
 |Drie perpendiculaire kribben. |” |80 |2 000 |
@@ -448,7 +448,7 @@ Als grondslag der uit te voeren werken is aangenomen het stelsel van normaliseri
 |35 |Ter plaatse genaamd Kesseleyck, gemeente Kessel, boven het dorp (L. O.). |XCII-XCV. |Een strekdam. |R. |65 |f 3 100 | --- |
 |Twaalf perpendiculaire kribben. |” |300 |11 300 |
 |Zeven perpendiculaire kribben. |L. |120 |4 300 |
-|Een bleeslaag voor den linken oever. |” |1200 |18 000 |
+|Een bleeslaag voor den linker oever. |” |1200 |18 000 |
 |Vijf perpendiculaire kribben beneden het veer. |R. |125 |4 000 --------- f 40 700 |
 |36 |Gemeente Belfeld (R. O.) boven het dorp. |XCIX-C. |Een stroomleidende en vijf perpendiculaire kribben. |” |215 |f 6 400 | --- |
 |37 |Beneden het veer te Baarlo, gemeente Maasbree (L. O.). |CII. |Zes perpendiculaire kribben. |L. |89 |f 3 600 | --- |

@@ -430,7 +430,7 @@ A level not lower than the upper limit prescribed for the class to which the equ
 ###Criterion of satisfaction
 
 3.2.5.  The test shall be deemed satisfactory if the refrigerating appliance is able to maintain the prescribed temperature conditions during the said 12-hour periods, with any automatic defrosting of the refrigerating unit not being taken into account.   
-3.2.6.  If the refrigerating appliance with all its accessories has undergone separately, to the satisfaction of the competent authority, a test to determine its effective refrigerating capacity at the prescribed reference temperatures, the transport equipment may be accepted as mechanically refrigerated equipment without undergoing an efficiency test if the effective refrigerating capacity of the appliance in continuous operation exceeds the heat loss through the walls for the class under consideration, multiplied by the factor l.75.   
+3.2.6.  If the refrigerating appliance with all its accessories has undergone separately, to the satisfaction of the competent authority, a test to determine its effective refrigerating capacity at the prescribed reference temperatures, the transport equipment may be accepted as mechanically refrigerated equipment without undergoing an efficiency test if the effective refrigerating capacity of the appliance in continuous operation exceeds the heat loss through the walls for the class under consideration, multiplied by the factor 1.75.   
 3.2.7.  If the mechanically refrigerating unit is replaced by a unit of a different type, the competent authority may: 
 
 a) require the equipment to undergo the determinations and verifications prescribed in paragraphs 3.2.1 to 3.2.4; or  
@@ -505,7 +505,7 @@ b) Measurement of effective refrigerating capacity, at each internal temperature
 
 ####Checking the insulating capacity of equipment in service
 
-For the purpose of checking the insulating capacity of each piece of equipment in service as prescribed in appendix 1, paragraphs l (b) and 1 (c), to this annex, the competent authorities may: Apply the methods described in paragraphs 2.1.1 to 2.3.2 of this appendix; or Appoint experts to assess the fitness of the equipment for retention in one or other of the categories of insulated equipment. These experts shall take the following particulars into account and shall base their conclusions on information as indicated below. 
+For the purpose of checking the insulating capacity of each piece of equipment in service as prescribed in appendix 1, paragraphs 1 (b) and 1 (c), to this annex, the competent authorities may: Apply the methods described in paragraphs 2.1.1 to 2.3.2 of this appendix; or Appoint experts to assess the fitness of the equipment for retention in one or other of the categories of insulated equipment. These experts shall take the following particulars into account and shall base their conclusions on information as indicated below. 
 
 5.1 General examination of the equipment This examination shall take the form of an inspection of the equipment to determine the following: 
 
@@ -705,7 +705,7 @@ A test report of the type appropriate to the equipment tested shall be drawn up 
 
 ####PROCEDURE FOR MEASURING THE CAPACITY OF MECHANICAL MULTI-TEMPERATURE REFRIGERATION UNITS AND DIMENSIONING MULTI-COMPARTMENT EQUIPMENT
 
-8.1. 
+8.1. *Definitions*
 
 a)Multi-compartment equipment: Equipment with two or more insulated compartments for maintaining a different temperature in each compartment;
 

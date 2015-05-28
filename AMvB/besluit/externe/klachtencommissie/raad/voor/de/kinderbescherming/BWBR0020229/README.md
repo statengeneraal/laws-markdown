@@ -153,7 +153,7 @@ b. leden, staatsraden en staatsraden in buitengewone dienst werkzaam bij de Afde
 
 c. leden met rechtspraak belast werkzaam bij het College van beroep voor het bedrijfsleven, of  
 
-d. leden met rechtspraak belast werkzaam bij het Centrale Raad van Beroep.   Zij worden door Onze Minister benoemd op voordracht van de Raad voor de rechtspraak, gehoord het gerecht of het bestuursrechtelijke college waar de voorzitter of plaatsvervangend voorzitter werkzaam is. De voorzitter, de plaatsvervangend voorzitter en de leden hebben affiniteit met jeugdzorg of jeugdbescherming.   
+d. leden met rechtspraak belast werkzaam bij het Centrale Raad van Beroep.   Zij worden door Onze Minister benoemd op voordracht van de Raad voor de rechtspraak, gehoord het gerecht of het bestuursrechtelijke college waar de voorzitter of plaatsvervangend voorzitter werkzaam is. De voorzitter, de plaatsvervangend voorzitter en de leden hebben affiniteit met jeugdhulp of de uitvoering van kinderbeschermingsmaatregelen als bedoeld in artikel 1.1 van de Jeugdwet.   
 5.  De voorzitter en de leden van de klachtencommissie worden benoemd voor de tijd van ten hoogste zes jaar. Zij kunnen aansluitend op die termijn éénmaal voor een gelijke termijn worden herbenoemd. Zij zijn bevoegd als plaatsvervangend lid van de klachtencommissie in een ander regiogebied op te treden.   
 6.  Aan de voorzitter en aan een lid wordt op eigen verzoek tussentijds ontslag verleend.   
 7.  Een lid kan door Onze Minister worden ontslagen wegens ongeschiktheid, onbekwaamheid of andere zwaarwegende gronden. Omtrent het voornemen tot ontslag wordt de betrokkene door of namens Onze Minister gehoord.  

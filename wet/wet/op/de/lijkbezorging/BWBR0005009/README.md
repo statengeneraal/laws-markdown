@@ -165,7 +165,7 @@ Ingeval niemand maatregelen neemt tot lijkschouwing of lijkbezorging overeenkoms
 
 ### Artikel  22  
 
-De kosten, verbonden aan de bezorging van lijken waarvoor de burgemeester zorg draagt, daaronder begrepen lijken die uit zee worden aangebracht, komen ten laste van de gemeente. Voor zover zij door de bij de lijken gevonden, niet klaarblijkelijk aan anderen toebehorende goederen of gelden niet kunnen worden gedekt, kan de gemeente die kosten verhalen op de nalatenschap en, bij ongenoegzaamheid van deze, op de bloed- en aanverwanten, die krachtens de artikelen 392-396 van Boek I van het Burgerlijk Wetboek tot onderhoud van de overledene verplicht zouden zijn geweest, dan wel de reder indien en voor zover kosten van de lijkbezorging op grond van artikel 416 Wetboek van Koophandel voor diens rekening komen. paragraaf 6.5 van de Wet werk en bijstand is voor zover mogelijk van overeenkomstige toepassing. 
+De kosten, verbonden aan de bezorging van lijken waarvoor de burgemeester zorg draagt, daaronder begrepen lijken die uit zee worden aangebracht, komen ten laste van de gemeente. Voor zover zij door de bij de lijken gevonden, niet klaarblijkelijk aan anderen toebehorende goederen of gelden niet kunnen worden gedekt, kan de gemeente die kosten verhalen op de nalatenschap en, bij ongenoegzaamheid van deze, op de bloed- en aanverwanten, die krachtens de artikelen 392-396 van Boek I van het Burgerlijk Wetboek tot onderhoud van de overledene verplicht zouden zijn geweest, dan wel de reder indien en voor zover kosten van de lijkbezorging op grond van artikel 416 Wetboek van Koophandel voor diens rekening komen. paragraaf 6.5 van de Participatiewet is voor zover mogelijk van overeenkomstige toepassing. 
 
 ### Artikel  22a  
 

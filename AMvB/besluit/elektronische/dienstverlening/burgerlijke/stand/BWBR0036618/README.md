@@ -14,13 +14,13 @@ Gezien het nader rapport van Onze Minister van Veiligheid en Justitie en van Onz
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  Bij de inrichting en het gebruik van de in artikel 18b, eerste lid, van Boek 1 van het Burgerlijk Wetboek bedoelde systemen van gegevensverwerking worden de in de bijlage opgenomen open standaarden toegepast inzake de informatieveiligheid, de toegankelijkheid, digitale documentformaten en de bevraging van basisgegevens die behoren tot de wettelijk vastgestelde basisregistraties.   
 2.  Van wijzigingen van de in de bijlage opgenomen open standaarden wordt mededeling in de Staatscourant gedaan.  
 
 ### Artikel  2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Indien de aangifte of melding bij de burgerlijke stand elektronisch wordt gedaan, geschiedt de vaststelling van de juistheid van de identiteit van de aangever door middel van DigiD op basis van ten minste een twee-factoren-authenticatie, eHerkenning op basis van minimaal betrouwbaarheidsniveau 2plus, dan wel een opvolgend en minstens even betrouwbaar authenticatiemiddel. 
 
@@ -35,12 +35,12 @@ Treedt in werking op een nader te bepalen tijdstip
 De ondertekening door de ambtenaar van de burgerlijke stand van een in elektronische vorm opgemaakte akte, bedoeld in artikel 1:18, vierde lid, van Boek 1 van het Burgerlijk Wetboek geschiedt door een gekwalificeerde elektronische handtekening, overeenkomstig artikel 15a, tweede lid, van Boek 3 van het Burgerlijk Wetboek. 
 
 ### Artikel  5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  6  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Dit besluit wordt aangehaald als: Besluit elektronische dienstverlening burgerlijke stand. 
 
@@ -65,7 +65,7 @@ G.A. van der Steur
 
 ####bij artikel 1 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 * Webrichtlijnen om ervoor te zorgen dat een overheidswebsite toegankelijk is voor iedere burger;  
 

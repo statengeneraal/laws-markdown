@@ -3689,7 +3689,7 @@ Geen bijzonderheden.
 
 ####Besluitmoratorium
 
-Ten aanzien van Somalië geldt geen besluit in de zin van artikel 43, aanhef en onder a, Vw.   
+Ten aanzien van Somalië geldt een besluit in de zin van artikel 43, aanhef en onder a, Vw, voor vreemdelingen afkomstig uit die gebieden in Centraal- en Zuid-Somalië die onder controle staan van Al-Shabaab.    
 ### 23.2  
 
 ####Artikel 1F Vluchtelingenverdrag
@@ -3708,7 +3708,19 @@ De IND beschouwt Somalië niet als land waarin sprake is van groepsvervolging.
 
 ####Risicogroepen in de zin van paragraaf C2/3.2  Vc
 
-De IND heeft met betrekking tot Somalië geen risicogroepen aangewezen.   
+De IND heeft met betrekking tot Somalië uitsluitend de volgende risicogroepen aangewezen: 
+
+* Overheidsfunctionarissen;  
+
+* Leden van het gerechtelijk apparaat;  
+
+* Leden van AMISOM;  
+
+* Personen werkzaam voor internationale organisaties of internationale delegaties;  
+
+* Personen die er door Al-Shabaab van worden verdacht te spioneren voor de overheid;  
+
+* Journalisten.   Vreemdelingen die behoren tot een risicogroep kunnen, behoudens contra-indicaties op basis van geringe indicaties in aanmerking komen voor een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder a. Dit beleid geldt voor geheel Zuid- en Centraal Somalië, inclusief Mogadishu. Een vreemdeling die zich erop beroept dat hij er door Al-Shabaab van wordt verdacht te spioneren voor de overheid en afkomstig is uit gebieden die niet onder controle staan van Al-Shabaab (inclusief Mogadishu), zal aannemelijk moeten maken dat juist hij zal worden geconfronteerd met Al-Shabaab. De enkele terugkeer uit het Westen is daartoe onvoldoende.   
 ### 23.4  
 
 ####Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
@@ -3717,7 +3729,7 @@ De IND heeft met betrekking tot Somalië geen risicogroepen aangewezen.
 
 ####Uitzonderlijke situatie in de zin van paragraaf C2/3.3  Vc
 
-In Somalië (inclusief Mogadishu) is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM. De IND herbeoordeelt vooralsnog niet de verblijfsvergunning asiel voor bepaalde tijd die aan Somaliërs verleend zijn op grond van de uitzonderlijke situatie zoals bedoeld in artikel 15c van de richtlijn 2011/95/EU die heeft gegolden ten aanzien van personen afkomstig uit Mogadishu. De IND zal niet eerder overgaan tot intrekking, tot is gebleken van een wijziging van omstandigheden die een voldoende ingrijpend en niet-voorbijgaand karakter heeft (zie artikel 3.37e VV). De IND wijst om diezelfde reden niet aanvragen tot verlenging van de verblijfsvergunning asiel voor bepaalde tijd of een verblijfsvergunning asiel voor onbepaalde tijd af van vreemdelingen die op grond van de uitzonderlijke situatie zoals bedoeld in artikel 15c van de richtlijn 2011/95/EU in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd.   
+In Somalië (inclusief Mogadishu) is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM. De IND herbeoordeelt vooralsnog niet de verblijfsvergunning asiel voor bepaalde tijd die aan Somaliërs verleend zijn op grond van de uitzonderlijke situatie zoals bedoeld in artikel 15c van de richtlijn 2011/95/EU die heeft gegolden ten aanzien van personen afkomstig uit Mogadishu. De IND zal niet eerder overgaan tot intrekking, tot is gebleken van een wijziging van omstandigheden die een voldoende ingrijpend en niet-voorbijgaand karakter heeft (zie artikel 3.37e VV). De IND wijst om diezelfde reden niet aanvragen tot verlenging van de verblijfsvergunning asiel voor bepaalde tijd of een verblijfsvergunning asiel voor onbepaalde tijd af van vreemdelingen die op grond van de uitzonderlijke situatie zoals bedoeld in artikel 15c van de richtlijn 2011/95/EU in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd.  
 ### 23.4.2  
 
 ####Systematische blootstelling in de zin van paragraaf C2/3.3  Vc
@@ -3727,11 +3739,11 @@ In Somalië is geen sprake van systematische blootstelling van een specifieke gr
 
 ####Alleenstaande vrouwen
 
-Een alleenstaande vrouw kan in aanmerking komen voor een verblijfsvergunning op grond van artikel 29, eerste lid, aanhef en onder b, Vw, indien zij aannemelijk heeft gemaakt dat zij een gegronde vrees heeft voor een onmenselijke behandeling bij terugkeer naar Somalië. De IND beschouwt een vrouw in ieder geval als alleenstaand, indien: 
+Een alleenstaande vrouw kan in aanmerking komen voor een verblijfsvergunning op grond van artikel 29, eerste lid, aanhef en onder b, Vw, indien als zij aannemelijk heeft gemaakt dat zij een gegronde vrees heeft voor een onmenselijke behandeling bij terugkeer naar Somalië. De IND beschouwt een vrouw in ieder geval als alleenstaand, indien als: 
 
 * de huwelijksband met de echtgenoot is verbroken;  
 
-* zij ongehuwd is en de gezinsband waartoe zij ten tijde van haar vertrek uit Somalië behoorde is verbroken.     
+* zij ongehuwd is en de gezinsband waartoe zij ten tijde van haar vertrek uit Somalië behoorde is verbroken.      
 ### 23.4.4  
 
 ####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3  Vc
@@ -3741,18 +3753,15 @@ De IND heeft met betrekking tot Somalië geen kwetsbare minderheidsgroepen aange
 
 ####Individuele kenmerken
 
-De IND verleent, behoudens contra-indicaties, in ieder geval een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder b, Vw aan een vreemdeling afkomstig uit Centraal- en Zuid-Somalië, indien de vreemdeling voldoet aan alle volgende voorwaarden: 
+De IND verleent, behoudens contra-indicaties, in ieder geval een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder b, Vw aan een vreemdeling afkomstig uit Centraal- en Zuid-Somalië, indien als de vreemdeling voldoet aan alle volgende voorwaarden: 
 
 a. de vreemdeling is afkomstig uit een gebied dat onder controle staat van Al-Shabaab of dit gebied uitsluitend kan bereiken via een gebied dat onder de controle staat van Al-Shabaab;  
 
-b. de vreemdeling heeft aannemelijk gemaakt dat hij zich niet kan handhaven onder de regels van Al-Shabaab.   Deze opsomming is cumulatief. 
-### *Ad b.* 
-
-De IND betrekt bij de beoordeling van de vraag of de vreemdeling zich kan handhaven onder de regels van Al-Shabaab in ieder geval de volgende aspecten: 
+b. de vreemdeling heeft aannemelijk gemaakt dat hij zich niet kan handhaven onder de regels van Al-Shabaab.   Deze opsomming is cumulatief.  *Ad b.*  De IND betrekt bij de beoordeling van de vraag of de vreemdeling zich kan handhaven onder de regels van Al-Shabaab in ieder geval de volgende aspecten: 
 
 * de ervaringen van de vreemdeling met het leven onder de regels van Al-Shabaab;  
 
-* de omstandigheid dat vreemdeling al dan niet recentelijk is vetrokken;  
+* de omstandigheid dat de vreemdeling al dan niet recentelijk is vertrokken;  
 
 * de mate waarin de vreemdeling vanwege verwestersing de negatieve aandacht van Al-Shabaab kan wekken, voor zover de vreemdeling ervaring heeft met het leven onder de regels van Al-Shabaab.   Doordat Mogadishu niet onder controle staat van Al-Shabaab, is het voor de terugkeer naar Mogadishu niet noodzakelijk dat de vreemdeling ervaring heeft met het leven onder Al-Shabaab. Bij de beoordeling of het verblijf in Nederland bij een individuele Somalische vreemdeling heeft geleid tot een verwestersing waarbij een of meer specifieke kenmerken bij terugkeer feitelijk niet meer verborgen kunnen worden gehouden, spelen in ieder geval de volgende elementen een rol: 
 
@@ -3762,32 +3771,7 @@ De IND betrekt bij de beoordeling van de vraag of de vreemdeling zich kan handha
 
 * de mate waarin de vreemdeling de Nederlandse taal beheerst;  
 
-* de mate waarin de vreemdeling deelneemt aan de Nederlandse samenleving.    
-### 23.4.6  
-
-####Aandachtsgroepen
-
-De hieronder genoemde groepen staan in de negatieve aandacht van Al- Shabaab en zijn aangewezen als aandachtsgroep: 
-
-* overheidsfunctionarissen;  
-
-* leden van het gerechtelijk apparaat;  
-
-* leden van AMISOM;  
-
-* vreemdelingen die voor internationale organisaties en internationale delegaties werken;  
-
-* vreemdelingen die op basis van individuele omstandigheden (die meer inhouden dan enkel de terugkeer uit het westen) er door Al-Shabaab van worden verdacht te spioneren voor de overheid.   Vreemdelingen behorende tot een aandachtsgroep kunnen, mede gelet op de omstandigheid dat zij op basis van hun terugkeer uit het westen in de negatieve aandacht van de zijde van Al Shabaab kunnen komen te staan, op basis van geringe indicaties in aanmerking komen voor een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder b, Vw indien de herkomst geloofwaardig is en zij afkomstig zijn uit: 
-
-* delen van Zuid- en Centraal-Somalië die onder controle staan van Al-Shabaab; of,  
-
-* overige delen van Zuid- en Centraal- Somalië (exclusief Mogadishu) waar Al-Shabaab op basis van hun aanwezigheid en invloed een reële bedreiging vormen.   Ook gebieden waarover onvoldoende actuele informatie beschikbaar is, maar een bestendige invloedrijke rol van Al-Shabaab aannemelijk is, moeten hiertoe worden gerekend. Bij het beoordelen van het individuele risico in het herkomstgebied en tijdens de reis daar naar toe betrekt de IND in ieder geval: 
-
-* de clanafkomst in relatie tot de positie van de clan in het gebied;  
-
-* de banden met- en de situatie van de familieleden;  
-
-* de duur van verblijf in het westen.   Er is sprake van een individuele toets waarbij de asielzoeker aannemelijk moet maken dat hij behoort tot een dergelijke groep én dat hij persoonlijk in die hoedanigheid risico’s loopt van de zijde van Al-Shabaab. Voor leden van de aandachtsgroepen die terugkeren naar Mogadishu geldt in het licht van de positie van terugkeerders aldaar dat indicaties van geringe aard niet volstaan. De IND beoordeelt op basis van het algemene toetsingkader of de individuele omstandigheden van de vreemdeling tot inwilliging van de aanvraag leiden.  
+* de mate waarin de vreemdeling deelneemt aan de Nederlandse samenleving.      
 ### 23.5  
 
 ####Bescherming
@@ -3805,7 +3789,7 @@ De IND verlangt van vreemdelingen afkomstig uit Centraal- en Zuid-Somalië niet 
 
 ####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6  Vc
 
-In Somalië is geen sprake van een binnenlands vlucht- en of/vestigingsalternatief, tenzij de vreemdeling onder naar plaatselijke maatstaven gemeten redelijke omstandigheden tenminste zes maanden voorafgaand aan zijn vertrek heeft verbleven in: 
+In Somalië is in zijn algemeenheid geen sprake van een binnenlands vlucht- en of/vestigingsalternatief, tenzij de vreemdeling onder naar plaatselijke maatstaven gemeten redelijke omstandigheden tenminste zes maanden voorafgaand aan zijn vertrek heeft verbleven in: 
 
 * Puntland (met uitzondering van Noord-Galkayo), in de periode vanaf 1991;  
 
@@ -3813,21 +3797,15 @@ In Somalië is geen sprake van een binnenlands vlucht- en of/vestigingsalternati
 
 * Sool; of  
 
-* Sanaag.   Van de vreemdeling wordt verwacht dat hij zich in het desbetreffende gebied onder de bescherming van zijn clan kan stellen. Uitzonderingen voor wie geen vestigingsalternatief geldt in Somalië (inclusief Noord-Somalië) zijn in ieder geval: 
+* Sanaag.   Van de vreemdeling wordt verwacht dat hij zich in het desbetreffende gebied kan handhaven. Uitzonderingen voor wie geen vestigingsalternatief geldt in Somalië (inclusief Noord-Somalië) zijn in ieder geval: 
 
 * vrouwen die aannemelijk hebben gemaakt dat zij hebben te vrezen voor (seksuele) geweldpleging;  
 
-* vrouwen die aannemelijk hebben gemaakt dat zij hebben te vrezen voor besnijdenis.   Verder geldt dat – indien is vastgesteld dat de vreemdeling behoort tot een aandachtsgroep zoals genoemd onder paragraaf 23.4.6 en in die hoedanigheid bij terugkeer een reëel risico loopt op een schending zoals bedoeld in artikel 3 EVRM – individueel wordt beoordeeld of er sprake is van een vestigingsalternatief in overige delen van Zuid- en Centraal-Somalië. Op voorhand verwacht de IND niet van de vreemdeling dat hij zich vestigt in: 
+* vrouwen die aannemelijk hebben gemaakt dat zij hebben te vrezen voor besnijdenis.   Voorts kan een vlucht- of vestigingsalternatief worden aangenomen als er sprake is van concrete aanknopingspunten op basis waarvan in individuele gevallen geconcludeerd kan worden dat de persoon zich buiten het gebied van herkomst kan vestigen. Hierbij betrekt de IND, naast de in artikel 3.37d VV genoemde voorwaarden die in het algemeen gelden voor het tegenwerpen van een vestigingsalternatief, in de individuele zaak van de vreemdeling, in ieder geval de volgende aanknopingspunten: 
 
-* Mogadishu; en,  
+* eerder verblijf in dat gebied;  
 
-* delen van Zuid- en Centraal-Somalië die onder controle staan van Al-Shabaab; en,  
-
-* overige delen van Zuid- en Centraal- Somalië waar de Al-Shabaab op basis van hun aanwezigheid en invloed een reële bedreiging vormen.   Hierbij betrekt de IND, naast de in artikel 3.37d VV genoemde voorwaarden die in het algemeen gelden voor het tegenwerpen van een vestigingsalternatief, in de individuele zaak van de vreemdeling aanknopingspunten zoals: 
-
-* concrete individuele aanknopingspunten, zoals eerder verblijf in dat gebied;  
-
-* de aanwezigheid van naaste familie of clangenoten.     
+* de aanwezigheid van naaste familie.   Ook een vlucht- of vestigingsalternatief in Mogadishu wordt niet op voorhand uitgesloten. In individuele gevallen waarbij er concrete aanknopingspunten zijn in het asielrelaas dat een vreemdeling zich in Mogadishu kan vestigen, kan dit aan de vreemdeling worden tegengeworpen.   
 ### 23.6  
 
 ####Adequate opvang alleenstaande minderjarige vreemdelingen
@@ -3841,7 +3819,7 @@ Aan de hand van paragraaf B8/6 Vc wordt beoordeeld of adequate opvang voor amv�
 
 ####Vertrekmoratorium
 
-Ten aanzien van Somalië geldt geen besluit in de zin van artikel 45, vierde lid, Vw.   
+Ten aanzien van Somalië geldt een besluit in de zin van artikel 45, vierde lid, Vw. voor vreemdelingen die afkomstig zijn uit die gebieden in Centraal- en Zuid-Somalië die onder controle staan van Al-Shabaab.    
 ### 23.8  
 
 ####Bijzonderheden

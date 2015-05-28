@@ -3,7 +3,7 @@
 ##Regeling van de algemeen directeur van de Raad voor de Kinderbescherming van het Ministerie van Veiligheid en Justitie, van 9 september 2013, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de algemeen directeur ressorterende ambtenaren (Mandaatregeling Raad voor de Kinderbescherming 2013)
 
 De algemeen directeur van de Raad voor de Kinderbescherming,  
-Gelet op het [Organisatiebesluit Raad voor de Kinderbescherming 2006](../../../../../../../../AMvB/organisatiebesluit/raad/voor/de/kinderbescherming/2006/BWBR0019732/README.md), [artikel 3 van de Mandaatregeling Ministerie van Veiligheid en Justitie 2011](../../../../../../../../ministeriele-regeling/mandaatregeling/ministerie/van/veiligheid/en/justitie/2011/BWBR0030842/README.md) en [artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [artikel 22, vierde lid, van de Comptabiliteitswet 2001](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md);
+Gelet op het Organisatiebesluit Raad voor de Kinderbescherming 2006, artikel 3 van de Mandaatregeling Ministerie van Veiligheid en Justitie 2011 en artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement en artikel 22, vierde lid, van de Comptabiliteitswet 2001;
 Besluit:    
 
 ### Artikel  1  
@@ -22,7 +22,7 @@ e. de projectleider.
 
 ### Artikel  2  
 
-Als hoofd van dienst in de zin van [artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) ten aanzien van de onder hun dienstonderdeel ressorterende ambtenaren, worden aangewezen de ambtenaren, genoemd in kolom 1 van bijlage 1 bij deze regeling, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage. 
+Als hoofd van dienst in de zin van artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement ten aanzien van de onder hun dienstonderdeel ressorterende ambtenaren, worden aangewezen de ambtenaren, genoemd in kolom 1 van bijlage 1 bij deze regeling, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage. 
 
 ### Artikel  3  
 
@@ -40,7 +40,7 @@ c. de bevoegdheid tot inhuur van interim-management, organisatie- en formatieadv
 
 d. het verlenen van ontslag, niet zijnde eervol ontslag;  
 
-e. [artikel 69 van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) voor zover de schadeloosstelling betrekking heeft op schadeloosstelling van materiële schade;  
+e. artikel 69 van het Algemeen Rijksambtenarenreglement voor zover de schadeloosstelling betrekking heeft op schadeloosstelling van materiële schade;  
 
 f. het beslissen op verzoeken van cliënten van de Raad voor de Kinderbescherming om schadevergoeding, indien deze verzoeken het bedrag van € 2.500 te boven gaan.   
 
