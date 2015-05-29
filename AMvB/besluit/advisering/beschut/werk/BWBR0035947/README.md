@@ -31,7 +31,7 @@ In dit besluit wordt verstaan onder:
 
 1.  Het Uitvoeringsinstituut werknemersverzekeringen verricht op verzoek van het college de werkzaamheden, bedoeld in artikel 10b, tweede lid, van de Participatiewet, en adviseert het college hierover.   
 2.  Het Uitvoeringsinstituut werknemersverzekeringen brengt het advies uit, uiterlijk acht weken nadat het een verzoek van het college hiertoe heeft ontvangen.   
-3.  Het college vergoedt aan het Uitvoeringsinstituut werknemersverzekeringen de kosten voor het verrichten van de werkzaamheden, bedoeld in het eerste lid.  
+3.  Bij ministeriële regeling kunnen regels worden gesteld voor de vergoeding van de kosten van de werkzaamheden, bedoeld in het eerste lid, door het college aan het Uitvoeringsinstituut werknemersverzekeringen.  
 
 ### Artikel  3  
 

@@ -837,7 +837,6 @@ Wijzigt het Besluit beschikbaarheidbijdrage WMG.
 Wijzigt het Besluit uitbreiding en beperking werkingssfeer WMG. 
 
 ### Artikel  8.1.3  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt het Uitvoeringsbesluit WTZi. 
 

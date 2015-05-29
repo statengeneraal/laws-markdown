@@ -22,7 +22,7 @@ In dit besluit wordt, tenzij anders bepaald, verstaan onder:
 
 a. de wet: de Wet toelating zorginstellingen;  
 
-b. AWBZ-verblijf: het verblijf, omschreven in artikel 9 van het Besluit zorgaanspraken AWBZ;  
+b. Wlz-verblijf: het verblijf, bedoeld in artikel 3.1.1, eerste lid, onderdeel a, van de Wet langdurige zorg;  
 
 c.Zvw-verblijf: het verblijf, omschreven in artikel 2.10 van het Besluit zorgverzekering. 
 
@@ -103,19 +103,7 @@ a. de instellingen, bedoeld in artikel 1.2, nummer 1,
 
 – welke zorg behoort tot de ingevolge de Zorgverzekeringswet te verzekeren prestaties,   een en ander met uitzondering van militaire instellingen;  
 
-b. AWBZ-instellingen die een of meer vormen van zorg verlenen als bedoeld in artikel 1.2, nummers 17 tot en met 21, in combinatie met AWBZ-verblijf, in verband met: 
-
-1°. een somatische aandoening of beperking;  
-
-2°. een psychogeriatrische aandoening of beperking;  
-
-3°. een verstandelijke handicap;  
-
-4°. een lichamelijke handicap;  
-
-5°. een zintuigelijke handicap;    
-
-c. AWBZ-instellingen die zorg verlenen als bedoeld in artikel 1.2, nummer 17 of 19, in combinatie met AWBZ-verblijf, in verband met een psychiatrische aandoening.    
+b. instellingen die zorg verlenen in combinatie met Wlz-verblijf.    
 7.  In afwijking van het zesde lid geldt artikel 18 van de wet niet voor kleinschalige woonvoorzieningen, zijnde instellingen of delen daarvan die: 
 
 a. bestaan uit zelfstandige woningen, dat wil zeggen woningen die naast één of meer privévertrekken een eigen voordeur, een eigen keuken, een eigen toilet en een eigen badkamer hebben,  
@@ -144,7 +132,7 @@ a.de instellingen, behorend tot de categorie, genoemd in artikel 1.2, onder numm
 
 b. de instellingen, behorend tot de categorieën, genoemd in artikel 1.2, onder de nummers 2, 3, 5 tot en met 12, 14 en 24;  
 
-c. de instellingen, behorend tot de categorieën, genoemd in artikel 1.2, onder de nummers 17, 18, 19 en 21, die de desbetreffende zorg niet verlenen in combinatie met AWBZ-verblijf;  
+c. de instellingen, behorend tot de categorieën, genoemd in artikel 1.2, onder de nummers 17, 18, 19 en 21, die de desbetreffende zorg niet verlenen in combinatie met Wlz-verblijf;  
 
 d. de instellingen, bedoeld in artikel 2.1, zevende lid.   
 
@@ -155,10 +143,6 @@ d. de instellingen, bedoeld in artikel 2.1, zevende lid.
 ### Artikel  4.1  
 
 De aanvraag aan Onze Minister om een toelating wordt ingediend onder gebruikmaking van een door Onze Minister beschikbaar te stellen formulier.
-
-### Artikel  4.2  
-
-Een aanvraag als bedoeld in artikel 5, eerste lid, van de wet, waarop Onze Minister beslist met toepassing van artikel 9 van de wet, gaat vergezeld van de zienswijze van de zorgverzekeraars als bedoeld in artikel 1, eerste lid, onder b, van de Algemene Wet Bijzondere Ziektekosten, voor zover deze verplicht zijn met de desbetreffende instelling een overeenkomst te sluiten.
 
 ### Hoofdstuk  V  
 

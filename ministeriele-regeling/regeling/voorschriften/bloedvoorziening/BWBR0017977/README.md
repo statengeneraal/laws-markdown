@@ -113,7 +113,7 @@ De Bloedvoorzieningsorganisatie zorgt ervoor dat de in het kader van deze regeli
 –voorkomt zij ongeoorloofde bekendmaking van dergelijke informatie, waarbij de donaties echter wel traceerbaar moeten blijven.
 
 ### Artikel  14a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 De Minister van Defensie neemt bij het uitvoeren van de taken bedoeld in artikel 11a van de Wet inzake bloedvoorziening de volgende voorschriften in acht, met dien verstande dat voor ‘Bloedvoorzieningsorganisatie’ wordt verstaan de organisatie belast met de militaire bloedvoorziening: 
 
@@ -124,7 +124,7 @@ b. het bij of krachtens de artikelen 3, eerste lid, eerste onderdeel, en tweede,
 c. het bij artikel 2, tweede lid, bepaalde voor zover het wijzigingen betreft die gevolgen hebben voor de kwaliteit en de veiligheid van bloed- en tussenproducten.   
 
 ### Artikel  14b  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Een wijziging van de Richtlijn en EU-richtlijnen vastgesteld ter uitvoering van de Richtlijn gaan voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijziging of EU-richtlijn uitvoering moet zijn gegeven. 
 

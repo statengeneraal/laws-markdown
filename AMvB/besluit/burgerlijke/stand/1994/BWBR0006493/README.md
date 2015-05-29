@@ -784,12 +784,12 @@ Het uittreksel van de akte van overlijden vermeldt de in artikel 61, eerste lid,
 
 ####De elektronische kennisgeving van een huwelijk en geregistreerd partnerschap en de elektronische aangifte van overlijden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 ### Artikel  67a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
-1.  Indien de kennisgeving van een huwelijk of geregistreerd partnerschap als bedoeld in artikel 44 respectievelijk artikel 80a, derde lid, van Boek 1 van het Burgerlijk Wetboek langs elektronische weg wordt gedaan, verstrekken de aanstaande echtgenoten respectievelijk aanstaande partners aan de ambtenaar van de burgerlijke stand tevens hun burgerservicenummer.   
+1.  Dit lid is nog niet in werking getreden.   
 2.  Indien de aangifte van overlijden langs elektronische weg wordt gedaan, verstrekt de persoon die de aangifte doet aan de ambtenaar van de burgerlijke stand tevens het burgerservicenummer van de overledene alsmede een verklaring van de arts die het overlijden heeft vastgesteld.  
 
 ### Hoofdstuk  3  

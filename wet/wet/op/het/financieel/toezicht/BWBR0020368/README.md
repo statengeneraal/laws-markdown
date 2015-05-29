@@ -4860,6 +4860,11 @@ a. het sluiten van een overeenkomst die strekt tot fondsvorming ter voldoening v
 
 b. het beheer over een collectief pensioenfonds beschouwd als de uitoefening van het bedrijf van levensverzekeraar, indien het wordt gevoerd door een levensverzekeraar.   
 
+### Artikel  3:1a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Voor de toepassing van dit deel en de daarop berustende bepalingen treedt de Europese Centrale Bank in de plaats van de Nederlandsche Bank, indien dit volgt uit de artikelen 4, 5 en 6 van de verordening bankentoezicht. 
+
 ### Artikel  3:2  
 
 1.  Hetgeen in dit deel is bepaald met betrekking tot het uitoefenen van het bedrijf van bank is niet van toepassing op het van het publiek ter beschikking verkrijgen van terugbetaalbare gelden als gevolg van het aanbieden van effecten in overeenstemming met hetgeen ingevolge hoofdstuk 5.1 is bepaald, door een onderneming die zorg draagt voor: 

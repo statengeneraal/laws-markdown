@@ -654,13 +654,13 @@ b. om een subsidie voor hernieuwbare elektriciteit, hernieuwbaar gas of hernieuw
 ### Artikel  58  
 
 1.  Ingeval van verdeling op volgorde van binnenkomst, verdeelt Onze Minister het beschikbare bedrag in de volgorde van ontvangst van de aanvragen, met dien verstande dat indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, voor de toepassing van dit artikel, de dag waarop de aanvraag voldoet aan de wettelijke voorschriften als datum van ontvangst geldt.   
-2.  Indien honorering van alle aanvragen die op één dag zijn ontvangen ertoe zou leiden dat het beschikbare subsidieplafond, of de maximale productie in kWh zou worden overschreden, worden steeds de aanvragen om subsidie met het laagste fasebedrag of basisbedrag in één decimaal omgerekend naar euro per kWh geacht eerder te zijn ontvangen. Indien honorering van alle aanvragen om subsidie met hetzelfde fasebedrag of basisbedrag in één decimaal die op één dag zijn ontvangen ertoe zou leiden dat het beschikbare subsidieplafond, of de maximale productie in kWh zou worden overschreden, stelt Onze Minister de volgorde van ontvangst van deze aanvragen vast door middel van loting.   
+2.  Indien honorering van alle aanvragen die op één dag zijn ontvangen ertoe zou leiden dat het beschikbare subsidieplafond, of de maximale productie in kWh zou worden overschreden, worden steeds de aanvragen om subsidie met het laagste fasebedrag of basisbedrag in drie decimalen omgerekend naar euro per kWh geacht eerder te zijn ontvangen. Indien honorering van alle aanvragen om subsidie met hetzelfde fasebedrag of basisbedrag in drie decimalen die op één dag zijn ontvangen ertoe zou leiden dat het beschikbare subsidieplafond, of de maximale productie in kWh zou worden overschreden, stelt Onze Minister de volgorde van ontvangst van deze aanvragen vast door middel van loting.   
 3.  Aanvragen die worden ontvangen op werkdagen na 17.00 uur of andere dagen, worden aangemerkt als ontvangen op de eerstvolgende werkdag.   
 4.  Bij de toepassing van het tweede lid: 
 
 a. wordt een gebundelde aanvraag behandeld als één aanvraag, waarbij als fasebedrag of basisbedrag geldt het fasebedrag of basisbedrag van de aanvraag met het hoogste fasebedrag of basisbedrag van de bundel;  
 
-b. worden bij de loting alle op de betreffende dag ontvangen aanvragen met hetzelfde fasebedrag of basisbedrag in één decimaal betrokken.   
+b. worden bij de loting alle op de betreffende dag ontvangen aanvragen met hetzelfde fasebedrag of basisbedrag in drie decimalen betrokken.   
 
 ### Artikel  59  
 

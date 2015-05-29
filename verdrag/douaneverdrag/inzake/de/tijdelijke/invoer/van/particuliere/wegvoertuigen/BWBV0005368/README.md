@@ -311,7 +311,7 @@ IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed t
 
 ### Annex  1  
 
-####“GARNET DE PASSAGES EN DOUANE”
+####“CARNET DE PASSAGES EN DOUANE”
 
 Carnet used for CPD operations within a specific region may be printed in other combinations of United Nations official languages on the condition that one of the two languages is English or French. The dimensions are 21 x 29.7 cm. The issuing association shall insert its name on each voucher and shall include the initials of the international organization to which it belongs.  ![10000055036](http://wetten.overheid.nl/Illustration/10000055036)
 ![10000055037](http://wetten.overheid.nl/Illustration/10000055037)
@@ -695,4 +695,4 @@ De tekst van de vertaling is niet beschikbaar.
 
 ####MODEL VAN CERTIFICAAT VOOR DE REGULARISATIE VAN NIET-GEZUIVERDE, TENIET GEGANE, VERLOREN GERAAKTE OF GESTOLEN BEWIJZEN VAN TIJDELIJKE INVOER
 
-De tekst van de veratling is niet beschikbaar.   
+De tekst van de vertaling is niet beschikbaar.   

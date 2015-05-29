@@ -1822,13 +1822,11 @@ d. de voorschriften die voor degene die een inrichting drijft, gelden op grond v
 De titels 5.1 tot en met 5.3 van de Algemene wet bestuursrecht zijn van toepassing op bestuursorganen die tot taak hebben zorg te dragen voor het toezicht op en de bestuursrechtelijke handhaving van het bepaalde bij of krachtens deze wet, met dien verstande dat in artikel 5.16a van eerstgenoemde wet voor «identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht» wordt gelezen: identiteitsdocument als bedoeld in artikel 2 van de Wet identificatieplicht BES. 
 
 ### Artikel  10.4  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Onze Minister en het bestuurscollege zijn bevoegd tot het opleggen van een last onder bestuursdwang of een last onder dwangsom in gevallen waarin hen de zorg voor de bestuursrechtelijke handhaving van de betrokken bepalingen is opgedragen.   
 2.  Een besluit tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom gericht op de naleving van het bepaalde bij of krachtens hoofdstuk 2, kan mede inhouden dat het bouwen, gebruik of slopen wordt gestaakt dan wel dat voorzieningen worden getroffen, met inbegrip van het slopen van een bouwwerk, gericht op het tegengaan van gevaar voor de gezondheid of veiligheid.  
 
 ### Artikel  10.5  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Het bestuursorgaan zendt onverwijld een afschrift van de beschikking tot oplegging van een last onder bestuursdwang, tot oplegging van een last onder dwangsom of tot intrekking van zodanige beschikkingen dan wel van de beschikking tot intrekking van een vergunning of ontheffing aan: 
 

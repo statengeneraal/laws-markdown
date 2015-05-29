@@ -11,7 +11,7 @@ Besluit:
 Naast de ambtenaren, genoemd in artikel 20, eerste lid, van de Wet inzake bloedvoorziening, zijn met het toezicht op de naleving van het bepaalde bij of krachtens de Wet inzake bloedvoorziening belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane. 
 
 ### Artikel  1a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Naast de ambtenaren, genoemd in artikel 20, eerste lid, van de Wet inzake bloedvoorziening, zijn met het toezicht op het bepaalde bij en krachtens artikel 11a van de Wet inzake bloedvoorziening belast de ambtenaren van de Inspectie Militaire Gezondheidszorg. 
 
@@ -20,7 +20,7 @@ Naast de ambtenaren, genoemd in artikel 20, eerste lid, van de Wet inzake bloedv
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders bloedvoorziening. 
 Dit besluit zal in de Staatscourant worden geplaatst.   

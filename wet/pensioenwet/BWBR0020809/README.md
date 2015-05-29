@@ -791,6 +791,36 @@ e. informatie over andere bij algemene maatregel van bestuur te bepalen onderwer
 4.  De pensioenuitvoerder verstrekt de in het eerste lid bedoelde informatie op verzoek ook aan vertegenwoordigers van deelnemers, van gewezen deelnemers, van gewezen partners of van pensioengerechtigden.   
 5.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de in dit artikel bedoelde informatie en de wijze waarop deze wordt verstrekt.  
 
+### Artikel  46a  
+
+####Beschikbare informatie
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De pensioenuitvoerder stelt op zijn website voor in ieder geval de deelnemer, gewezen deelnemer, gewezen partner of pensioengerechtigde beschikbaar: 
+
+a. informatie over de pensioenregeling als bedoeld in artikel 21;  
+
+b. verdere informatie over de pensioenregeling;  
+
+c. informatie over uitvoeringskosten; en  
+
+d. het jaarverslag en de jaarrekening.     
+2.  Voor zover van toepassing stelt de pensioenuitvoerder op zijn website voor de deelnemer, gewezen deelnemer, gewezen partner of pensioengerechtigde beschikbaar: 
+
+a. de verklaring inzake beleggingsbeginselen;  
+
+b. informatie over het financieel crisisplan;  
+
+c. informatie over het herstelplan of geactualiseerd herstelplan;  
+
+d. het pensioenreglement; en  
+
+e. de uitvoeringsovereenkomst of het uitvoeringsreglement.     
+3.  In het jaarverslag, bedoeld in het eerste lid, onderdeel d, neemt een pensioenfonds informatie op over de haalbaarheidstoets en de reële dekkingsgraad.   
+4.  Indien de deelnemer, gewezen deelnemer, gewezen partner of pensioengerechtigde hierom verzoekt verstrekt de pensioenuitvoerder de in het eerste en tweede lid bedoelde informatie en stukken elektronisch of schriftelijk.   
+5.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot dit artikel. 
+
 ### Artikel  47  
 
 ####Verstrekken informatie bij vertrek naar een andere lidstaat

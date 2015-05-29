@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a.  *maatstafgegevens:* gegevens die overeenkomstig de maatstaf, bedoeld in bijlage II van de wet, betrekking hebben op de omvang van een onder toezicht staande persoon;  
+a.  *maatstafgegevens:* gegevens die overeenkomstig de maatstaf, bedoeld in bijlagen II en III van de wet, betrekking hebben op de omvang van een onder toezicht staande persoon;  
 
 b.  *de wet:* de Wet bekostiging financieel toezicht.   
 
@@ -39,14 +39,14 @@ b. de gegevens per 31 december van het daaraan voorafgaande kalenderjaar of met 
 
 c. de gegevens per de datum waarop de jaarrekening van die persoon in het laatst verstreken kalenderjaar voor het laatst is vastgesteld.     
 3.  De toezichthouder stelt per onder toezicht staande persoon de in het laatst verstreken kalenderjaar liggende periode vast waarop de maatstafgegevens voor de toepassing van de in bijlage II van de wet bedoelde maatstaven «Marktkapitalisatie» en «Eigen vermogen» betrekking hebben.   
-4.  De maatstafgegevens van een persoon die in de loop van een jaar onder toezicht komt te staan, worden voor dat jaar vastgesteld per de datum waarop die persoon voor het eerst deel uitmaakt van een in bijlage II van de wet opgenomen toezichtcategorie of, indien deze gegevens niet beschikbaar zijn of indien zij pas na een onevenredige inspanning zijn te verkrijgen, per de datum waarop de jaarrekening of balans van die persoon voor het laatst is vastgesteld.   
+4.  De maatstafgegevens van een persoon die in de loop van een jaar onder toezicht komt te staan, worden voor dat jaar vastgesteld per de datum waarop die persoon voor het eerst deel uitmaakt van een in bijlage II of III van de wet opgenomen toezichtcategorie of, indien deze gegevens niet beschikbaar zijn of indien zij pas na een onevenredige inspanning zijn te verkrijgen, per de datum waarop de jaarrekening of balans van die persoon voor het laatst is vastgesteld.   
 5.  De maatstafgegevens van de partijen die betrokken zijn bij een fusie, splitsing of ontbinding kunnen worden vastgesteld aan de hand van de maatstafgegevens die zijn vastgesteld voor het samengaan, de splitsing of de ontbinding.   
 6.  Indien de maatstafgegevens van een onder toezicht staande persoon niet bij de toezichthouder bekend zijn, verstrekt die persoon op verzoek, binnen een door de toezichthouder te stellen redelijke termijn, een opgave van zijn gegevens die betrekking hebben op de voor hem relevante maatstaf.   
 7.  Indien een persoon als bedoeld in het zesde lid niet binnen de door de toezichthouder gestelde termijn een opgave heeft gedaan of een kennelijk onjuiste of onvolledige opgave heeft gedaan, maakt de toezichthouder een schatting van zijn maatstafgegevens.  
 
 ### Artikel  3  
 
-1.  Ten aanzien van personen waarvan de toezichthouder heeft vastgesteld dat deze op een volwaardige manier participeren in een stelsel van zelftoezicht worden de tarieven, bedoeld in artikel 13, zesde lid, van de wet, verlaagd vastgesteld.   
+1.  Ten aanzien van personen waarvan de toezichthouder heeft vastgesteld dat deze op een volwaardige manier participeren in een stelsel van zelftoezicht worden de tarieven, bedoeld in artikel 13, zevende lid, van de wet, verlaagd vastgesteld.   
 2.  Als een stelsel van zelftoezicht als bedoeld in het eerste lid wordt aangemerkt een organisatorisch verband van marktpartijen dat zich ten doel stelt een doeltreffende bijdrage te leveren aan de uitvoering door de toezichthouder van het toezicht op de naleving van een wet als bedoeld in artikel 1 van de wet en waarmee de toezichthouder een convenant heeft gesloten dat waarborgen biedt voor een adequaat zelftoezicht.  
 
 ### Hoofdstuk  3  

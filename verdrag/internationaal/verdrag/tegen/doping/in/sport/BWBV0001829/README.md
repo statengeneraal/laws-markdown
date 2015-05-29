@@ -504,23 +504,21 @@ DONE in Paris, this nineteenth day of October 2005, in two authentic copies bear
 
 ####The 2014 prohibited list World Anti-Doping Code
 
-Date of entry into force: 1 January 2014 
+Date of entry into force: 1 September 2014 
 
-In accordance with Article 4.2.2 of the World Anti-Doping Code, all Prohibited Substances shall be considered as “Specified Substances” except Substances in classes S1, S2, S4.4, S4.5, S6.a, and *Prohibited Methods* M1, M2 and M3.  
+In accordance with Article 4.2.2 of the World Anti-Doping Code, all *Prohibited Substances* shall be considered as “Specified Substances” except Substances in classes S1, S2, S.4.4, S.4.5, S6.a, and *Prohibited Methods* M1, M2 and M3.  
 
-####Substances and methods prohibited at all times 
-
-(in- and out-of-competition) 
+####Substances and methods prohibited at all times (in- and out-of-competition)
 
 ####Prohibited substances
 
-### S0 
+### S0  
 
 ####Non-approved substances
 
 Any pharmacological substance which is not addressed by any of the subsequent sections of the List and with no current approval by any governmental regulatory health authority for human therapeutic use (e.g. drugs under pre-clinical or clinical development or discontinued, designer drugs, substances approved only for veterinary use) is prohibited at all times. 
 
-### S1 
+### S1  
 
 ####Anabolic agents
 
@@ -528,33 +526,33 @@ Anabolic agents are prohibited.
 
 1. Anabolic Androgenic Steroids (AAS) 
 
-a).Exogenous<sup> 1) For purposes of this section: “Exogenous” refers to a substance which is not ordinarily produced by the body naturally. </sup> AAS, including: 1-androstenediol (5α-androst-1-ene-3β,17β-diol); 1-androstenedione (5α- androst-1-ene-3,17-dione); bolandiol (estr-4-ene-3β,17β-diol); bolasterone; boldenone; boldione (androsta-1,4-diene-3,17-dione); calusterone; clostebol; danazol ([1,2]oxazolo[4',5':2,3]pregna-4-en-20-yn-17α-ol); dehydrochlormethyltestosterone (4-chloro-17β-hydroxy-17α-methylandrosta-1,4-dien-3-one); desoxymethyltestosterone (17α-methyl-5α-androst-2-en-17β-ol); drostanolone; ethylestrenol (19-norpregna-4-en-17α-ol); fluoxymesterone; formebolone; furazabol (17α-methyl[1,2,5]oxadiazolo[3',4':2,3]-5α-androstan-17β-ol); gestrinone; 4- hydroxytestosterone (4,17β-dihydroxyandrost-4-en-3-one); mestanolone; mesterolone; metandienone (17β-hydroxy-17α-methylandrosta-1,4-dien-3-one); metenolone; methandriol; methasterone (17β-hydroxy-2α,17α- dimethyl-5α-androstan-3-one); methyldienolone (17β-hydroxy-17α-methylestra-4,9-dien-3-one); methyl-1-testosterone (17β-hydroxy-17α-methyl-5α-androst-1-en-3-one); methylnortestosterone (17β-hydroxy-17α-methylestr-4-en-3-one); methyltestosterone; metribolone (methyltrienolone, 17β- hydroxy-17α-methylestra-4,9,11-trien-3-one); mibolerone; nandrolone; 19-norandrostenedione (estr-4-ene-3,17-dione); norboletone; norclostebol; norethandrolone; oxabolone; oxandrolone; oxymesterone; oxymetholone; prostanozol (17β-[(tetrahydropyran-2-yl)oxy]-1'H-pyrazolo[3,4:2,3]-5α- androstane); quinbolone; stanozolol; stenbolone; 1-testosterone (17β- hydroxy-5α-androst-1-en-3-one); tetrahydrogestrinone (17-hydroxyestr-18a-homo-19-nor-17α-pregna-4,9,11-trien-3-one); trenbolone (17β-hydroxyestr-4,9,11-trien-3-one); and other substances with a similar chemical structure or similar biological effect(s).
+a. Exogenous<sup> 2) “Exogenous” refers to a substance which is not ordinarily produced by the body naturally. </sup> AAS, including: 1-androstenediol (5α-androst-1-ene-3β,17β-diol); 1-androstenedione (5α-androst-1-ene-3,17-dione); bolandiol (estr-4-ene-3ß, 17ß-diol); bolasterone; boldenone; boldione (androsta-1,4-diene-3,17-dione); calusterone; clostebol; danazol ([1,2]oxazolo[4',5':2,3]pregna-4-en-20-yn-17α-ol); dehydrochlormethyltestosterone (4-chloro-17β-hydroxy-17α-methylandrosta-1,4-dien-3-one); desoxymethyltestosterone (17α-methyl-5α-androst-2-en-17β-ol); drostanolone; ethylestrenol (19- norpregna-4-en-17α-ol); fluoxymesterone; formebolone; furazabol (17α-methyl[1,2,5]oxadiazolo[3',4':2,3]-5α-androstan-17β-ol); gestrinone; 4-hydroxytestosterone (4,17β-dihydroxyandrost-4-en-3-one); mestanolone; mesterolone; metandienone (17β-hydroxy-17α-methylandrosta-1,4-dien-3-one); metenolone; methandriol; methasterone (17β-hydroxy-2α,17α-dimethyl-5α-androstan-3-one); methyldienolone (17β-hydroxy-17α-methylestra-4,9-dien-3-one); methyl-1-testosterone (17β-hydroxy-17α-methyl-5α-androst-1-en-3-one); methylnortestosterone (17β-hydroxy-17α-methylestr-4-en-3-one); methyltestosterone; metribolone (methyltrienolone, 17β-hydroxy-17α-methylestra-4,9,11-trien-3-one); mibolerone; nandrolone; 19-norandrostenedione (estr-4-ene-3,17-dione); norboletone; norclostebol; norethandrolone; oxabolone; oxandrolone; oxymesterone; oxymetholone; prostanozol (17β- [(tetrahydropyran-2-yl)oxy]-1'H-pyrazolo[3,4:2,3]-5α-androstane); quinbolone; stanozolol; stenbolone; 1- testosterone (17β-hydroxy-5α-androst-1-en-3-one); tetrahydrogestrinone (17-hydroxyestr-18a-homo-19- nor-17α-pregna-4,9,11-trien-3-one); trenbolone (17β-hydroxyestr-4,9,11-trien-3-one); and other substances with a similar chemical structure or similar biological effect(s).  
 
-b)Endogenous<sup> 2) For purposes of this section: “Endogenous” refers to a substance which is ordinarily produced by the body naturally. </sup> AAS when administered exogenously:androstenediol (androst-5-ene-3β,17β-diol); androstenedione (androst-4-ene-3,17-dione); dihydrotestosterone (17β-hydroxy-5α-androstan-3-one); prasterone (dehydroepiandrosterone, DHEA, 3β-hydroxyandrost-5-en-17-one); testosterone; and their metabolites and isomers, including but not limited to: 5α-androstane-3α,17α-diol; 5α-androstane-3α,17β-diol; 5α-androstane-3β,17α-diol; 5α-androstane-3β,17β-diol; androst-4-ene-3α,17α-diol; androst-4-ene-3α,17β-diol; androst-4-ene-3β,17α-diol; androst-5-ene-3α,17α-diol; androst-5-ene-3α,17β-diol; androst-5-ene-3β,17α-diol; 4-androstenediol (androst-4-ene-3β,17β-diol); 5-androstenedione (androst-5-ene-3,17-dione); epi-dihydrotestosterone; epitestosterone; etiocholanolone; 3α-hydroxy-5α-androstan-17-one; 3β-hydroxy-5α-androstan-17-one; 7α-hydroxy-DHEA; 7β-hydroxy-DHEA; 7-keto-DHEA; 19-norandrosterone; 19-noretiocholanolone.  
+b. Endogenous<sup> 3) “Endogenous” refers to a substance which is ordinarily produced by the body naturally. </sup> AAS when administered exogenously: androstenediol (androst-5-ene-3β,17β-diol); androstenedione (androst-4-ene-3,17-dione); dihydrotestosterone (17β-hydroxy-5α-androstan-3-one) ; prasterone (dehydroepiandrosterone, DHEA, 3β- hydroxyandrost-5-en-17-one); testosterone; and their metabolites and isomers, including but not limited to: 5α-androstane-3α,17α-diol; 5α-androstane-3α,17β-diol; 5α-androstane-3β,17α-diol; 5α-androstane-3β,17β-diol; androst-4-ene-3α,17α-diol; androst-4-ene-3α,17β-diol; androst-4-ene-3β,17α-diol; androst-5-ene-3α,17α-diol; androst-5-ene-3α,17β-diol; androst-5-ene-3β,17α-diol; 4-androstenediol (androst-4-ene-3β,17β-diol); 5-androstenedione (androst-5-ene-3,17-dione); epi-dihydrotestosterone; epitestosterone; etiocholanolone; 3α-hydroxy-5α-androstan-17-one; 3β-hydroxy-5α-androstan-17-one; 7α-hydroxy-DHEA; 7β-hydroxy-DHEA; 7-keto-DHEA; 19-norandrosterone; 19-noretiocholanolone.    
 
 2. Other Anabolic Agents, including but not limited to: Clenbuterol, selective androgen receptor modulators (SARMs), tibolone, zeranol, zilpaterol.   
 
-### S2 
+### S2  
 
 ####Peptide hormones, growth factors and related substances
 
 The following substances, and other substances with similar chemical structure or similar biological effect(s), are prohibited: 
 
-1. Erythropoiesis-Stimulating Agents [e.g. erythropoietin (EPO), darbepoietin (dEPO), hypoxia-inducible factor (HIF) stabilizers, methoxy polyethylene glycol-epoetin beta (CERA), peginesatide (Hematide)];  
+1. Erythropoiesis-Stimulating Agents [e.g. erythropoietin (EPO), darbepoetin (dEPO), hypoxia-inducible factor (HIF) stabilizers and activators (e.g. xenon, argon), methoxy polyethylene glycol-epoetin beta (CERA), peginesatide (Hematide)];  
 
 2. Chorionic Gonadotrophin (CG) and Luteinizing Hormone (LH) and their releasing factors, in males;  
 
 3. Corticotrophins and their releasing factors;  
 
-4. Growth Hormone (GH) and its releasing factors and Insulin-like Growth Factor-1 (IGF-1). In addition, the following growth factors are prohibited Fibroblast Growth Factors (FGFs), Hepatocyte Growth Factor (HGF), Mechano Growth Factors (MGFs), Platelet-Derived Growth Factor (PDGF), Vascular-Endothelial Growth Factor (VEGF) as well as any other growth factor affecting muscle, tendon or ligament protein synthesis/degradation, vascularisation, energy utilisation, regenerative capacity or fibre type switching;   and other substances with a similar chemical structure or similar biological effect(s).
+4. Growth Hormone (GH) and its releasing factors and Insulin-like Growth Factor-1 (IGF-1).   In addition, the following growth factors are prohibited Fibroblast Growth Factors (FGFs), Hepatocyte Growth Factor (HGF), Mechano Growth Factors (MGFs), Platelet-Derived Growth Factor (PDGF), Vascular-Endothelial Growth Factor (VEGF) as well as any other growth factor affecting muscle, tendon or ligament protein synthesis/degradation, vascularisation, energy utilisation, regenerative capacity or fibre type switching; and other substances with similar chemical structure or similar biological effect(s). 
 
-### S3 
+### S3  
 
 ####Beta-2 agonists
 
-All beta-2 agonists, including all optical isomers (e.g. *d- *and *l-*) where relevant, are prohibited except inhaled salbutamol (maximum 1600 micrograms over 24 hours), inhaled formoterol (maximum delivered dose 54 micrograms over 24 hours) and salmeterol when taken by inhalation in accordance with the manufacturers’ recommended therapeutic regime. The presence in urine of salbutamol in excess of 1000 ng/mL or formoterol in excess of 40 ng/mL is presumed not to be an intended therapeutic use of the substance and will be considered an *Adverse Analytical Finding* unless the *Athlete* proves, through a controlled pharmacokinetic study, that the abnormal result was the consequence of the use of the therapeutic inhaled dose up to the maximum indicated above. 
+All beta-2 agonists, including all optical isomers (e.g. *d- *and *l-*) where relevant, are prohibited except inhaled salbutamol (maximum 1600 micrograms over 24 hours), inhaled formoterol (maximum delivered dose 54 micrograms over 24 hours) and salmeterol when taken by inhalation in accordance with the manufacturers' recommended therapeutic regime. The presence in urine of salbutamol in excess of 1000 ng/mL or formoterol in excess of 40 ng/mL is presumed not to be an intended therapeutic use of the substance and will be considered as an *Adverse Analytical Finding *unless the *Athlet*e proves, through a controlled pharmacokinetic study, that the abnormal result was the consequence of the use of the therapeutic inhaled dose up to the maximum indicated above. 
 
-### S4 
+### S4  
 
 ####Hormone and metabolic modulators
 
@@ -572,17 +570,17 @@ The following are prohibited:
 
 a) Insulins  
 
-b) Peroxisome Proliferator Activated Receptor δ (PPARδ) agonists (e.g. GW 1516), PPARδ-AMP-activated protein kinase (AMPK)  axis agonists (e.g. AICAR)    
+b) Peroxisome Proliferator Activated Receptor δ (PPARδ) agonists (e.g. GW 1516), PPARδ-AMP-activated protein kinase (AMPK) axis agonists (e.g. AICAR).     
 
-### S5 
+### S5  
 
 ####Diuretics and other masking agents
 
-Masking agents are prohibited. They include: Diuretics, desmopressin, plasma expanders (e.g. glycerol; intravenous administration of albumin, dextran, hydroxyethyl starch and mannitol), probenecid; and other substances with similar biological effect(s). Local administration of felypressin in dental anaesthesia is not prohibited. Diuretics include: Acetazolamide, amiloride, bumetanide, canrenone, chlortalidone, etacrynic acid, furosemide, indapamide, metolazone, spironolactone, thiazides (e.g. bendroflumethiazide, chlorothiazide, hydrochlorothiazide), triamterene, vaptans (e.g. tolvaptan); and other substances with a similar chemical structure or similar biological effect(s) (except for drospirenone, pamabrom and topical dorzolamide and brinzolamide, which are not prohibited). The use *In-* and O*ut-of-Competition,* as applicable, of any quantity of a substance subject to threshold limits (i.e. formoterol, salbutamol, cathine, ephedrine, methylephedrine and pseudoephedrine) in conjunction with a diuretic or other masking agent requires the deliverance of a specific Therapeutic Use Exemption for that substance in addition to the one granted for the diuretic or other masking agent.
+Masking agents are prohibited. They include: Diuretics, desmopressin, plasma expanders (e.g. glycerol; intravenous administration of albumin, dextran, hydroxyethyl starch and mannitol) , probenecid; and other substances with similar biological effect(s). Local administration of felypressin in dental anaesthesia is not prohibited. Diuretics include: Acetazolamide, amiloride, bumetanide, canrenone, chlorthalidone, etacrynic acid, furosemide, indapamide, metolazone, spironolactone, thiazides (e.g. bendroflumethiazide, chlorothiazide, hydrochlorothiazide); triamterene, vaptans (e.g. tolvaptan); and other substances with a similar chemical structure or similar biological effect(s) (except drosperinone, pamabrom and topical dorzolamide and brinzolamide, which are not prohibited). The use *In-* and *Out-of Competition*, as applicable, of any quantity of a substance subject to threshold limits (i.e. formoterol, salbutamol, cathine, ephedrine, methylephedrine and pseudoephedrine) in conjuction with a diuretic or other masking agent requires the deliverance of a specific Therapeutic Use Exemption for that substance in addition to the one granted for the diuretic or other masking agent. 
 
-####Prohibited Methods
+####Prohibited methods
 
-### M1 
+### M1  
 
 ####Manipulation of blood and blood components
 
@@ -594,17 +592,17 @@ The following are prohibited:
 
 3. Any form of intravascular manipulation of the blood or blood components by physical or chemical means.   
 
-### M2 
+### M2  
 
 ####Chemical and physical manipulation
 
 The following are prohibited: 
 
-1. *Tampering,* or attempting to tamper, in order to alter the integrity and validity of *Samples* collected during *Doping Controls*. These include but are not limited to urine substitution and/or adulteration (e.g. proteases).  
+1.  *Tampering,* or attempting to tamper, in order to alter the integrity and validity of *Samples *collected during *Doping Control*. These include but are not limited to urine substitution and/or adulteration (e.g. proteases).  
 
 2. Intravenous infusions and/or injections of more than 50 mL per 6 hours period except for those legitimately received in the course of hospital admissions or clinical investigations.   
 
-### M3 
+### M3  
 
 ####Gene doping
 
@@ -620,29 +618,29 @@ In addition to the categories S0 to S5 and M1 to M3 defined above, the following
 
 ####Prohibited substances
 
-### S6 
+### S6  
 
 ####Stimulants
 
-All stimulants, including all optical isomers (e.g. *d-* and *l-*) where relevant, are prohibited, except imidazole derivatives for topical use and those stimulants included in the 2014 Monitoring Program<sup> 3) The following substances included in the 2014 Monitoring Program (bupropion, caffeine, nicotine, phenylephrine, phenylpropanolamine, pipradrol, synephrine) are not considered as *Prohibited Substances*. </sup>. Stimulants include: 
+All stimulants, including all optical isomers (e.g. *d-* and *l-*) where relevant, are prohibited, except imidazole derivatives for topical use and those stimulants included in the 2014 Monitoring Program<sup> 4) The following substances included in the 2014 Monitoring Program (bupropion, caffeine, nicotine, phenylephrine, phenylpropanolamine, pipradol, synephrine) are not considered as *Prohibited Substances*. </sup>. Stimulants include: 
 
-a) Non-Specified Stimulants: Adrafinil; amfepramone; amfetamine; amfetaminil; amiphenazole; benfluorex; benzylpiperazine; bromantan; clobenzorex; cocaine; cropropamide; crotetamide; fencamine; fenetylline; fenfluramine; fenproporex; fonturacetam [4-phenylpiracetam (carphedon)]; furfenorex; mefenorex; mephentermine; mesocarb; metamfetamine(*d*-); p-methylamphetamine; modafinil; norfenfluramine; phendimetrazine; phenmetrazine; phentermine; prenylamine; prolintane. A stimulant not expressly listed in this section is a Specified Substance.  
+a. Non Specified Stimulants: Adrafinil; amfepramone; amfetamine; amfetaminil; amiphenazole; benfluorex; benzylpiperazine; bromantan; clobenzorex; cocaine; cropropamide; crotetamide; fencamine; fenetylline; fenfluramine; fenproporex; fonturacetam [4-phenylpiracetam (carphedon)]; furfenorex; mefenorex; mephentermine; mesocarb; metamfetamine(*d*-); *p-*methylamphetamine; modafinil; norfenfluramine; phendimetrazine; phenmetrazine; phentermine; prenylamine; prolintane. A stimulant not expressly listed in this section is a Specified Substance.  
 
-b) Specified Stimulants (examples): Benzfetamine; cathine<sup> 4) Cathine is prohibited when its concentration in urine is greater than 5 micrograms per milliliter. </sup>; cathinone and its analogues (e.g. mephedrone, methedrone, α-pyrrolidinovalerophenone); dimethylamphetamine; ephedrine<sup> 5) Each of ephedrine and methylephedrine is prohibited when its concentration in urine is greater than 10 micrograms per milliliter. </sup>; epinephrine<sup> 6) Local administration (e.g. nasal, ophthalmologic) of epinephrine (adrenaline) or co-administration with local anaesthetic agents is not prohibited. </sup> (adrenaline); etamivan; etilamfetamine; etilefrine; famprofazone; fenbutrazate; fencamfamin; heptaminol; hydroxyamfetamine (parahydroxyamphetamine); isometheptene; levmetamfetamine; meclofenoxate; methylenedioxymethamphetamine; methylephedrine<sup> 7) Each of ephedrine and methylephedrine is prohibited when its concentration in urine is greater than 10 micrograms per milliliter. </sup>; methylhexaneamine (dimethylpentylamine); methylphenidate; nikethamide; norfenefrine; octopamine; oxilofrine (methylsynephrine); pemoline; pentetrazol; phenpromethamine; propylhexedrine; pseudoephedrine<sup> 8) Pseudoephedrine is prohibited when its concentration in urine is greater than 150 micrograms per milliliter. </sup>; selegiline; sibutramine; strychnine; tenamfetamine (methylenedioxyamphetamine); trimetazidine; tuaminoheptane; and other substances with a similar chemical structure or similar biological effect(s).   
+b. Specified Stimulants (examples): Benzfetamine; cathine<sup> 5) Cathine is prohibited when its concentration in urine is greater than 5 micrograms per milliliter. </sup>; cathinone and its analogues (e.g. mephedrone, methedrone, α-pyrrolidinovalerophenone); dimethylamphetamine; ephedrine<sup> 6) Each of ephedrine and methylephedrine is prohibited when its concentration in urine is greater than 10 micrograms per milliliter. </sup>; epinephrine<sup> 7) Local administration (e.g. nasal, ophtalmologic) of epinephrine (adrenaline) or co-administration with local anaesthetic agents is not prohibited. </sup> (adrenaline); etamivan; etilamfetamine; etilefrine; famprofazone; fenbutrazate; fencamfamin; heptaminol; hydroxyamfetamine (parahydroamphetamine); isometheptene; levmetamfetamine; meclofenoxate; methylenedioxymethamphetamine; methylephedrine<sup> 8) Each of ephedrine and methylephedrine is prohibited when its concentration in urine is greater than 10 micrograms per milliliter. </sup>; methylhexaneamine (dimethylpentylamine); methylphenidate; nikethamide; norfenefrine; octopamine; oxilofrine (methylsynephrine); pemoline; pentetrazol; phenpromethamine; propylhexedrine; pseudoephedrine<sup> 9) Pseudoephedrine is prohibited when its concentration in urine is greater than 150 micrograms per milliliter. </sup>; selegiline; sibutramine; strychnine; tenamfetamine (methylenedioxyamphetamine); trimetazidine; tuaminoheptane; and other substances with a similar chemical structure or similar biological effect(s).   
 
-### S7 
+### S7  
 
 ####Narcotics
 
 The following are prohibited: Buprenorphine, dextromoramide, diamorphine (heroin), fentanyl and its derivatives, hydromorphone, methadone, morphine, oxycodone, oxymorphone, pentazocine, pethidine. 
 
-### S8 
+### S8  
 
 ####Cannabinoids
 
 Natural (e.g. cannabis, hashish, marijuana) or synthetic delta 9-tetrahydrocannabinol (THC) and cannabimimetics (e.g. “Spice”, JWH018, JWH073, HU-210) are prohibited. 
 
-### S9 
+### S9  
 
 ####Glucocorticosteroids
 
@@ -650,43 +648,43 @@ All glucocorticosteroids are prohibited when administered by oral, intravenous, 
 
 ####Substances prohibited in particular sports
 
-### P1 
+### P1  
 
 ####Alcohol
 
 Alcohol (ethanol) is prohibited *In-Competition* only, in the following sports. Detection will be conducted by analysis of breath and/or blood. The doping violation threshold is equivalent to a blood alcohol concentration of 0.10 g/L. 
 
-– Air Sports (FAI)  
+− Air Sports (FAI)  
 
-– Archery (WA)  
+− Archery (WA)  
 
-– Automobile (FIA)  
+− Automobile (FIA)  
 
-– Karaté (WKF)  
+− Karate (WKF)  
 
-– Motorcycling (FIM)  
+− Motorcycling (FIM)  
 
-– Powerboating (UIM)   
+− Powerboating (UIM)   
 
-### P2 
+### P2  
 
 ####Beta-blockers
 
 Unless otherwise specified, beta-blockers are prohibited *In-Competition* only, in the following sports. 
 
-– Archery (WA) (also prohibited *Out-of-Competition*)  
+− Archery (WA) (also prohibited *Out-of-Competition*)  
 
-– Automobile (FIA)  
+− Automobile (FIA)  
 
-– Billiards (all disciplines) (WCBS)  
+− Billiards (all disciplines) (WCBS)  
 
-– Darts (WDF)  
+− Darts (WDF)  
 
-– Golf (IGF)  
+− Golf (IGF)  
 
-– Shooting (ISSF, IPC) (also prohibited *Out-of-Competition*)  
+− Shooting (ISSF, IPC) (also prohibited *Out-of-Competition*)  
 
-– Skiing/Snowboarding (FIS) in ski jumping, freestyle aerials/halfpipe and snowboard halfpipe/big air   Beta-blockers include, but are not limited to, the following: Acebutolol, alprenolol, atenolol, betaxolol, bisoprolol, bunolol, carteolol, carvedilol, celiprolol, esmolol, labetalol, levobunolol, metipranolol, metoprolol, nadolol, oxprenolol, pindolol, propranolol, sotalol, timolol. 
+− Skiing/Snowboarding (FIS) in ski jumping, freestyle aerials/halfpipe and snowboard halfpipe/big air   Beta-blockers include, but are not limited to, the following: Acebutolol, alprenolol, atenolol, betaxolol, bisoprolol, bunolol, carteolol, carvedilol, celiprolol, esmolol, labetalol, levobunolol, metipranolol, metoprolol, nadolol, oxprenolol, pindolol, propranolol, sotalol, timolol. 
 
 ### ANNEX  II  
 
@@ -1338,133 +1336,4 @@ De Lijst van verboden stoffen en methoden - 2005 is gepubliceerd in Trb. 2005, 6
 
 ####NORM VOOR HET VERLENEN VAN DISPENSATIE VOOR THERAPEUTISCH GEBRUIK
 
-Uittreksel uit de „INTERNATIONALE NORM VOOR DISPENSATIE VOOR THERAPEUTISCH GEBRUIK’’ van het Mondiale Antidopingagentschap (WADA); van kracht op 1 januari 2005 
-
-###4.0 
-
-####Criteria voor het verlenen van dispensatie voor therapeutisch gebruik
-
-Aan een *sporter* kan dispensatie voor therapeutisch gebruik worden verleend waardoor het gebruik van een *verboden stof* of een *verboden methode*, zoals vermeld op de desbetreffende lijst, wordt toegestaan. Een dispensatieverzoek wordt beoordeeld door een dispensatiecommissie. De dispensatiecommissie wordt door een *antidopingorganisatie* benoemd. Dispensatie wordt uitsluitend verleend indien de onderstaande criteria strikt worden toegepast:  *[Opmerking: Deze norm is van toepassing op alle sporters zoals omschreven in de Code, die op hen van toepassing is, dat wil zeggen alle atleten zonder beperking en atleten met een beperking. Deze norm wordt toegepast in overeenstemming met de omstandigheden van een individuele sporter. Een dispensatie die van toepassing is op een sporter met een beperking kan bijvoorbeeld niet van toepassing zijn op andere sporters.]* 
-
-4.1. Een *sporter* dient een dispensatieverzoek uiterlijk 21 dagen voor deelname aan een *evenement *in te dienen.
-
-4.2.De *sporter* zou ernstige consequenties voor de gezondheid ondervinden indien de *verboden stof* of*verboden methode* achterwege zou worden gelaten bij de behandeling van een acute of chronische medische aandoening. 
-
-4.3.. Het therapeutisch gebruik van de *verboden stof* of*verboden methode* zou geen aanvullende verbetering van de prestatie teweegbrengen anders dan die welke kan worden verwacht bij het herstel van de normale gezondheidstoestand na de behandeling van een erkende medische aandoening. Het gebruik van een *verboden stof* of *verboden methode *ter verhoging van „laag-normale’’ niveaus van een endogeen hormoon wordt niet beschouwd als een aanvaardbare therapeutische ingreep.
-
-4.4.. Er is geen redelijk therapeutisch alternatief voorhanden voor het gebruik van de anderszins *verboden stof* of *verboden methode*. 
-
-4.5.. De noodzaak voor het gebruik van de anderszins *verboden stof* of *verboden methode* mag niet, volledig of ten dele, het gevolg zijn van een eerder niet-therapeutisch gebruik van een op de *Lijst* vermelde stof. 
-
-4.6.4.6. De dispensatie wordt door de dispensatiecommissie geannuleerd indien: 
-
-a. de *sporter* niet onverwijld voldoet aan elk vereiste of elke voorwaarde dat of die de *antidopingorganisatie* die de dispensatie verleent, heeft opgelegd;  
-
-b. de termijn waarvoor de dispensatie is verleend, is verstreken;  
-
-c. de *sporter* ervan op de hoogte is gesteld dat de dispensatie door de *antidopingorganisatie* is ingetrokken.    *[Opmerking: Aan elke dispensatie is een bepaalde termijn verbonden die door de dispensatiecommissie wordt vastgesteld. Er kunnen zich gevallen voordoen waarin een dispensatie is verstreken of ingetrokken en de verboden stof waarop de dispensatie betrekking heeft nog in het lichaam van de sporter aanwezig is. In een dergelijk geval beoordeelt de antidopingorganisatie die het oorspronkelijke onderzoek naar een belastend resultaat heeft uitgevoerd of het resultaat in overeenstemming is met het verstrijken of intrekken van de dispensatie.]* 
-
-4.7. Dispensatie wordt niet met terugwerkende kracht verleend, uitgezonderd in gevallen waarin:
-
-a. een spoedbehandeling of behandeling van een acute medische aandoening noodzakelijk was; of  
-
-b. er vanwege uitzonderlijke omstandigheden onvoldoende tijd of gelegenheid was voor de sporter om een dispensatieverzoek in te dienen of voor de dispensatiecommissie om een dispensatieverzoek te behandelen vóór het plaatsvinden van een *dopingcontrole.*     *[Opmerking: medische noodsituaties of acute medische aandoeningen die de toediening van een anderszins verboden stof of het gebruik van een verboden methode vereisen voordat een dispensatieverzoek kan worden ingediend, komen niet vaak voor. Evenmin is er niet vaak sprake van omstandigheden waarin versnelde behandeling van een dispensatieverzoek vereist is vanwege het op zeer korte termijn deelnemen aan een wedstrijd. Antidopingorganisaties die dispensaties verlenen dienen interne procedures te hebben waarin dergelijke situaties geregeld zijn.]*  
-
-###5.0 
-
-####Vertrouwelijk karakter van informatie
-
-5.1.. De aanvrager dient schriftelijk toestemming te geven voor het verzenden van alle informatie met betrekking tot het verzoek naar leden van de dispensatiecommissie en, indien vereist, aan onafhankelijke medische of wetenschappelijk deskundigen, of naar alle medewerkers die noodzakelijkerwijs betrokken zijn bij het beheer en de toetsing van dispensaties of bij beroepsprocedures. Indien de hulp van externe, onafhankelijke deskundigen vereist is, worden alle bijzonderheden van het verzoek rondgezonden zonder dat de *sporter* [en de bij de behandeling van de sporter betrokken arts(en) worden]Noot redactie Tractatenblad: zie noot op blz. 28. genoemd. De aanvrager dient tevens schriftelijk toestem-ming te geven voor het verspreiden van beslissingen van de dispensatiecommissie onder andere relevante*antidopingorganisaties* uit hoofde van de bepalingen van de*Code*.
-
-5.2.De leden van de dispensatiecommissies en het bestuur van de betrokken *antidopingorganisatie* zullen bij het uitvoeren van al hun werkzaamheden strikte geheimhouding betrachten. Alle leden van een dispensatiecommissie en alle betrokken medewerkers ondertekenen een geheimhoudingsverklaring. Met name de volgende informatie wordt vertrouwelijk behandeld:
-
-a. alle medische informatie en gegevens afkomstig van de*sporter* en de bij de behandeling van de sporter betrokken arts(en);  
-
-b. alle gegevens van het verzoek, met inbegrip van de naam van de arts(en) die bij het proces betrokken is. Indien de *sporter* het recht van de dispensatiecommissie of van de WADA-dispensatiecommissie om namens hem/haar gezondheidsinformatie te verkrijgen wil herroepen, dan dient de*sporter* zijn/haar arts daarvan schriftelijk in kennis te stellen. Een dergelijke beslissing heeft tot gevolg dat het dispensatieverzoek van de sporter niet wordt gehonoreerd of dat een bestaande dispensatie niet wordt verlengd.   
-
-###6.0 
-
-####Dispensatiecommissies
-
-Dispensatiecommissies worden ingesteld aan de hand de volgende richtlijnen, die door deze commissies ook in acht worden genomen: 
-
-6.1. De dispensatiecommissie dient ten minste drie artsen te omvatten die ervaring hebben met de verzorging en behandeling van*sporters* en een gedegen kennis bezitten van klinische en sportgeneeskunde. Teneinde de onafhankelijkheid van de besluitvorming in voldoende mate te waarborgen, mag de meerderheid van de leden van de dispensatiecommissie geen officiële verantwoordelijkheid hebben binnen de *antidopingorganisatie*. Alle leden van een dispensaticommissie moeten een verklaring betreffende belangenverstrengeling ondertekenen. Wanneer de verzoeken*sporters* met een beperking betreffen, dient ten minste één lid van de dispensatiecommissie specifieke ervaring hebben met de verzorging en behandeling van *sporters* met een beperking.
-
-6.2.Een dispensatiecommissie mag een beroep doen op alle door haar nodig geachte medische of wetenschappelijke deskundigen bij de beoordeling van de omstandigheden van elk dispensatieverzoek.
-
-6.3.De WADA-dispensatiecommissie dient te worden samengesteld met inachtneming van de in artikel 6.1 genoemde criteria. De WADA-dispensatiecommissie wordt ingesteld om uit eigen beweging door*antidopingorganisaties* verleende dispensatiebeslissingen te toetsen. Zoals vervat in artikel 4.4 van de *Code* zal de WADA-dispensatiecommissie, op verzoek van *sporters* aan wie dispensatie is geweigerd door een *antidopingorganisatie*, dergelijke beslissingen toetsen en heeft zij de bevoegdheid deze te herroepen. 
-
-###7.0  
-
-####Procedure voor het aanvragen van dispensatie
-
-7.1. Een dispensatieverzoek wordt uitsluitend in behandeling genomen na ontvangst van een ingevuld aanvraagformulier met inbegrip van alle relevante documentatie (zie Aanhangsel 1 – aanvraagformulier dispensatie). Tijdens de aanvraagprocedure moet het medisch beroepsgeheim strikt in acht worden genomen. 
-
-7.2. De aanvraagformulieren, als vervat in Aanhangsel 1, kunnen door *antidopingorganisaties* worden gewijzigd door er aanvullende verzoeken om informatie aan toe te voegen; er mogen evenwel geen velden of onderdelen worden verwijderd. 
-
-7.3. De aanvraagformulieren mogen door de*antidopingorganisatie* worden vertaald, maar het Engels of het Frans moet op het formulier blijven staan. 
-
-7.4Een sporter mag een dispensatieverzoek bij ten hoogste een antidopingorganisatie indienen. Op het formulier moet de door de *sporter* beoefende sport vermeld staan, alsmede, wanneer van toepassing, de discipline en specifieke positie of rol. 
-
-7.5. Het dispensatieverzoek moet melding maken van alle voorgaande en/of lopende verzoeken om toestemming een anderszins*verboden stof* of *verboden methode* te gebruiken, de instantie waarbij het verzoek is ingediend en de beslissing van die instantie. 
-
-7.6.Het dispensatieverzoek dient een uitgebreide medische voorgeschiedenis en de resultaten van alle onderzoeken, laboratoriumonderzoeken en imaging-studies die voor het verzoek van belang zijn te omvatten. 
-
-7.7. De kosten van aanvullende relevante onderzoeken of imaging-onderzoeken, die door de dispensatiecommissie van de*antidopingorganisatie* worden aangevraagd komen ten laste van de aanvrager of zijn/haar nationale sportbond.  
-
-7.8. Het dispensatieverzoek dient een attest te omvatten van een voldoende gekwalificeerd arts die verklaart dat de anderszins*verboden stof* of *verboden methode* noodzakelijk is voor de behandeling van de *sporter* en uitlegt waarom een ander toegestaan geneesmiddel niet kan, of niet zou kunnen, worden gebruikt bij de bijhandeling van deze aandoening. 
-
-7.9. De dosis, frequentie, wijze en duur van de toediening van de anderszins *verboden stof* of *verboden methode* in kwestie dienen te worden gespecificeerd. 
-
-7.10.Beslissingen van de dispensatiecommissie dienen binnen 30 dagen na ontvangst van alle relevante documentatie te worden genomen en worden schriftelijk aan de *sporter* medegedeeld door de relevante *antidopingorganisatie*. Wanneer dispensatie is verleend aan een *sporter* die is opgenomen in de*geregistreerde doelgroep voor dopingcontroles* van de*antidopingorganisatie*, krijgen de *sporter* en*WADA* onverwijld de goedkeuring toegezonden met inbegrip van informatie over de duur van de dispensatie en mogelijke voorwaarden die daaraan verbonden zijn. 
-
-7. 11.
-
-a.Na ontvangst van een verzoek van een*sporter* om toetsing, zoals bedoeld in artikel 4.4 van de Code, kan de WADA-dispensatiecommissie, zoals omschreven in artikel 4.4 van de *Code*, een door een *antidopingorganisatie*genomen beslissing inzake dispensatie herroepen. De *sporter*voorziet de WADA-dispensatiecommissie van alle voor een dispensatie relevante informatie zoals aanvankelijk bij de*antidopingorganisatie* ingediend, vergezeld van een aanvraagvergoeding. Totdat de toetsingsprocedure is afgerond, blijft de oorspronkelijke beslissing van kracht. Deze procedure dient niet langer dan 30 dagen in beslag te nemen na ontvangst van de informatie door WADA
-
-b.WADA kan op elk moment een toetsing uitvoeren. De WADA-dispensatiecommissie rondt haar toetsing binnen 30 dagen af.
-
-7.12.7.12. Indien de beslissing betreffende het verlenen van dispensatie na de toetsing wordt herroepen, wordt deze herroeping niet met terugwerkende kracht toegepast en leidt zij niet tot het ongeldig verklaren van de resultaten van de *sporter*gedurende de periode waarin de dispensatie is verleend, en wordt zij niet later dan 14 dagen nadat de *sporter* van de beslissing op de hoogte is gesteld van kracht. 
-
-###8.0 
-
-####Verkorte procedure voor het aanvragen van dispensatie
-
-8.1. Erkend wordt dat een aantal van de op de*Lijst van verboden stoffen en methoden* vermelde stoffen gebruikt worden voor de behandeling van medische aandoeningen die vaak voorkomen onder *sporters*. In dergelijke gevallen is een volledige aanvraagprocedure zoals vermeld in onderdeel 4 en onderdeel 7 niet nodig. Dienovereenkomstig wordt een verkorte dispensatieprocedure ingesteld.  
-
-8.2. De *verboden stoffen* of *verboden methoden* die via deze verkorte procedure kunnen worden toegestaan zijn uitsluitend de volgende: bèta-2-agonisten (formoterol, salbutamol, salmeterol en terbutaline) indien zij via inhalatie worden toegediend, en glucocorticosteroïden indien zij langs niet-systemische weg worden toegediend. 
-
-8.3.Om een van de bovengenoemde stoffen te mogen gebruiken, dient de *sporter* de*antidopingorganisatie* te voorzien van een medisch attest waarin de therapeutische noodzaak wordt gerechtvaardigd. In een dergelijk medisch attest, zoals voorzien in Aanhangsel 2, staan de diagnose, naam van het geneesmiddel, dosering, wijze van toediening en duur van de behandeling genoemd. Wanneer van toepassing dienen onderzoeken die zijn uitgevoerd om de diagnose te stellen te worden bijgevoegd (zonder de feitelijke onderzoeksresultaten of -details te vermelden). 
-
-8.4.De verkorte procedure houdt het volgende in: 
-
-a. goedkeuring voor het gebruik van *verboden stoffen* ingevolge de verkorte procedure wordt van kracht na ontvangst van een volledig ingevulde kennisgeving door de *antidopingorganisatie*. Onvolledig ingevulde kennisgevingen dienen aan de aanvrager te worden teruggestuurd.  
-
-b. onverwijld na ontvangst van een volledig ingevulde kennisgeving, licht de *antidopingorganisatie* de *sporter* in. Wanneer van toepassing worden ook de internationale bond, de nationale bond en de nationale antidopingorganisatie van de *sporter* ingelicht. De *antidopingorganisatie* licht WADA uitsluitend in na ontvangst van een kennisgeving van een *internationale sporter*.  
-
-c. dispensatie ingevolge de verkorte procedure wordt niet met terugwerkende kracht verleend uitgezonderd in gevallen waarin: 
-
-- een spoedbehandeling of behandeling van een acute medische aandoening noodzakelijk was; of 
-
-- er vanwege uitzonderlijke omstandigheden onvoldoende tijd of gelegenheid was voor de sporter om een dispensatieverzoek volgens de verkorte procedure in te dienen, of voor de dispensatiecommissie om deze te ontvangen, vóór het plaatsvinden van een*dopingcontrole*.   
-
-8.5. 
-
- a. Een toetsing door de dispensatiecommissie of de WADA-dispensatiecommissie kan op elk moment gedurende de verkorte dispensatieprocedure worden uitgevoerd.
-
-b. Indien een *sporter* verzoekt om een toetsing van een daaropvolgende afwijzing door een dispensatiecommissie, mag de WADA-dispensatiecommissie de *sporter* om de aanvullende medische informatie vragen die zij nodig acht, en de kosten hiervan dienen door de *sporter* te worden gedragen.   
-
-8.6.8.6. Een dispensatie ingevolge de verkorte procedure kan te allen tijde door de dispensatiecommissie of de WADA-dispensatiecommissie worden ingetrokken. De *sporter*, zijn/haar internationale bond en alle relevante *antidopingorganisaties* worden hiervan onmiddellijk in kennis gesteld. 
-
-8.7.8.7. De intrekking wordt onmiddellijk na kennisgeving van de beslissing aan de *sporter* van kracht. De *sporter*kan niettemin uit hoofde van punt 7 een dispensatieverzoek indienen. 
-
-###9.0 
-
-####Uitwisselingscentrum
-
-9.1.9.1. *Antidopingorganisaties* zijn verplicht WADA te voorzien van alle dispensaties, en alle ondersteunende documentatie, verleend uit hoofde van punt 7. 
-
-9.2.9.2. Ten aanzien van dispensaties ingevolge de verkorte procedure voorzien *antidopingorganisaties* WADA van medische aanvragen ingediend door *internationale sporters* uit hoofde van punt 8.4. 
-
-9.3.9.3. Het Uitwisselingscentrum waarborgt de strikte vertrouwelijkheid van alle medische informatie.
-
+De tekst van de vertaling is niet beschikbaar.  
