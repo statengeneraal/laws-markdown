@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Gaswet](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) en de [Elektriciteitswet 1998](../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) te wijzigen in verband met de versterking van de werking van de gasmarkt, de verbetering van de energie-infrastructuur, de verduurzaming van de energiehuishouding en de evaluatie van deze wetten;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de Gaswet en de Elektriciteitswet 1998 te wijzigen in verband met de versterking van de werking van de gasmarkt, de verbetering van de energie-infrastructuur, de verduurzaming van de energiehuishouding en de evaluatie van deze wetten;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -36,15 +36,15 @@ Wijzigt deze wet.
 
 ### Artikel  III  
 
-Voor overeenkomsten betreffende de verkoop van gas die zijn gesloten voor het tijdstip van inwerkingtreding van artikel I, onderdeel T, geldt [artikel 54a](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) zoals dit artikel luidde voor het tijdstip van inwerkingtreding van dit artikel. 
+Voor overeenkomsten betreffende de verkoop van gas die zijn gesloten voor het tijdstip van inwerkingtreding van artikel I, onderdeel T, geldt artikel 54a zoals dit artikel luidde voor het tijdstip van inwerkingtreding van dit artikel. 
 
 ### Artikel  IIIa  
 
-Voor uitzonderlijke en aanmerkelijke investeringen waarmee is aangevangen voor het tijdstip van inwerkingtreding van artikel I, onderdeel AB, onder 3, en artikel II, onderdeel R, onder 3, van de Wet van 2 december 2010 tot wijziging van de Gaswet en de Elektriciteitswet 1998, tot versterking van de werking van de gasmarkt, verbetering van de voorzieningszekerheid en houdende regels met betrekking tot de voorrang voor duurzame elektriciteit, alsmede enkele andere wijzigingen van deze wetten (Stb. 2010, 810), gelden [artikel 81b, tweede lid, van de Gaswet](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) en [41b, tweede lid, van de Elektriciteitswet 1998](../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), zoals zij luidden voor het tijdstip van inwerkingtreding van artikel I, onderdeel AB, onder 3, en artikel II, onderdeel R, onder 3. 
+Voor uitzonderlijke en aanmerkelijke investeringen waarmee is aangevangen voor het tijdstip van inwerkingtreding van artikel I, onderdeel AB, onder 3, en artikel II, onderdeel R, onder 3, van de Wet van 2 december 2010 tot wijziging van de Gaswet en de Elektriciteitswet 1998, tot versterking van de werking van de gasmarkt, verbetering van de voorzieningszekerheid en houdende regels met betrekking tot de voorrang voor duurzame elektriciteit, alsmede enkele andere wijzigingen van deze wetten (Stb. 2010, 810), gelden artikel 81b, tweede lid, van de Gaswet en 41b, tweede lid, van de Elektriciteitswet 1998, zoals zij luidden voor het tijdstip van inwerkingtreding van artikel I, onderdeel AB, onder 3, en artikel II, onderdeel R, onder 3. 
 
 ### Artikel  IV  
 
-Indien de artikelen I, onderdelen Y en AC en II, onderdeel S, in werking treden gedurende de periode, bedoeld in [artikel 81, eerste lid, van de Gaswet](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) en [41, eerste lid, van de Elektriciteitswet 1998](../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) dan blijven voor die periode de [artikelen 80](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) en [81c van de Gaswet](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) en [41c van de Elektriciteitswet 1998](../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) van toepassing zoals die luidden voor dat tijdstip. 
+Indien de artikelen I, onderdelen Y en AC en II, onderdeel S, in werking treden gedurende de periode, bedoeld in artikel 81, eerste lid, van de Gaswet en 41, eerste lid, van de Elektriciteitswet 1998 dan blijven voor die periode de artikelen 80 en 81c van de Gaswet en 41c van de Elektriciteitswet 1998 van toepassing zoals die luidden voor dat tijdstip. 
 
 ### Artikel  V  
 

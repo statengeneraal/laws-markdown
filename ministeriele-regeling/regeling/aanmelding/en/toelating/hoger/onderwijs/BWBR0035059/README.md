@@ -295,7 +295,7 @@ b. een sufficiëntieverklaring.
 
 a. voor 5 juli een gewaarmerkte kopie van zijn cijferlijst van een in Nederland behaald diploma voorbereidend wetenschappelijk onderwijs of hoger algemeen voortgezet onderwijs, tenzij de kandidaat deelneemt aan een staatsexamen of een verlaat examen;  
 
-b. voor 1 september een gewaarmerkte kopie van zijn cijferlijst of een gewaarmerkte kopie van zijn getuigschrift. In andere gevallen stuurt de kandidaat, bedoeld in het eerste lid, die het derde lid heeft toegepast, een gewaarmerkte kopie van zijn getuigschrift voor 1 augustus aan de minister.     
+b. voor 1 september een gewaarmerkte kopie van zijn cijferlijst of een gewaarmerkte kopie van zijn getuigschrift indien hij aan een hogeschool deelneemt aan een propedeutisch examen of afsluitend examen als bedoeld in artikel 7.28, eerste lid, van de wet.     
 5.  Na toepassing van het derde lid stuurt de kandidaat, bedoeld in het tweede lid, de bewijsstukken, bedoeld in het tweede lid, voor 23 juni aan de minister. Als de kandidaat voor die datum niet in staat is deze bewijsstukken aan de minister te sturen, is het vierde lid van overeenkomstige toepassing, behoudens in de gevallen bedoeld in artikel 4.6, tweede lid.  
 
 ### Artikel  4.6  
@@ -453,7 +453,11 @@ b. op dat aantal plaatsen in mindering wordt gebracht de plaatsen die aan gegadi
 
 1.  Als alle kandidaten voor een bepaalde opleiding of een opleiding waarvoor artikel 7.57d van de wet geldt, zijn geplaatst en er plaatsen voor die opleiding onbenut blijven na de loting bedoeld in artikel 4.20, worden deze open plaatsen zo veel mogelijk opgevuld door kandidaten die voldoen aan de eisen, bedoeld in artikel 4.5, en die, door zich aan te hebben aangemeld, hebben laten blijken belangstelling te hebben voor een plaats, maar die niet hebben voldaan aan de termijnen, genoemd in de artikelen 4.2 tot en met 4.8.   
 2.  Het eerste lid is eveneens van toepassing ten aanzien van een opleiding waarvoor geen mededeling is gedaan als bedoeld in artikel 4.19, vijfde lid, maar waarvoor wel alle kandidaten zijn geplaatst en niettemin plaatsen onbenut zijn gebleven.   
-3.  Als het eerste of tweede lid van toepassing is, registreert de minister de kandidaten in volgorde van de datum van ontvangst van hun ingezonden bewijsstukken. Bij de toepassing van het eerste of tweede lid worden bewijzen van toelating verstrekt met inachtneming van deze volgorde.  
+3.  Als het eerste of tweede lid van toepassing is draagt de instelling die de desbetreffende opleiding verzorgt, zorg voor de plaatsing van de kandidaten.   
+4.  De minister informeert het instellingsbestuur over de datum waarop de in de artikelen 4.17 en 4.20 bedoelde loting zal plaatsvinden respectievelijk heeft plaatsgevonden en het aantal open plaatsen.   
+5.  Kandidaten bedoeld in het eerste en het tweede lid die geplaatst willen worden voor de opleiding, wenden zich tot de instelling met een verzoek om plaatsing.   
+6.  Het bestuur van de instelling die de desbetreffende opleiding verzorgt, registreert de kandidaten bedoeld in het vijfde lid, op volgorde van de datum van ontvangst van het verzoek om plaatsing. Vervolgens vindt de inschrijving plaats overeenkomstig de door de instelling gehanteerde regels van procedurele aard. Artikel 4.22 is van overeenkomstige toepassing.   
+7.  De minister informeert de in het eerste en tweede lid bedoelde kandidaten bij aanmelding over de procedure ten aanzien van het opvullen van open plaatsen.  
 
 ### Artikel  4.22  
 
@@ -480,10 +484,8 @@ De kandidaat, die toepassing verlangt van artikel 7.57d, derde lid, van de wet r
 
 ####Tweede instroom
 
-1.  Als voor een opleiding gedurende het eerste studiejaar een tweede instroommoment bestaat, informeert het instellingsbestuur de minister daarover alsmede over de daarvoor geldende datum.   
-2.  Uiterlijk een maand voor de in het eerste lid genoemde datum, informeert het instellingsbestuur de minister over het aantal opengevallen plaatsen bij de desbetreffende opleiding.   
-3.  De minister verdeelt de beschikbare opleidingsplaatsen over de kandidaten die na toepassing van de artikelen 4.19, 4.20, 4.21, 4.23, 4.24 en 4.29 nog niet in het bezit zijn van een bewijs van toelating voor de desbetreffende opleiding.   
-4.  De minister verstrekt de in het derde lid bedoelde gegadigden uiterlijk 14 dagen voor de in het tweede lid bedoelde datum een bewijs van toelating voor de desbetreffende opleiding.  
+1.  Als voor een opleiding gedurende het eerste studiejaar een tweede instroommoment bestaat verdeelt de instelling de beschikbare opleidingsplaatsen over de kandidaten die na toepassing van de artikelen 4.19, 4.20, 4.23, 4.24 en 4.29 nog niet in het bezit zijn van een bewijs van toelating voor de betreffende opleiding.   
+2.  Bij toewijzing door de instelling van de opengevallen plaats, kan de kandidaat zijn inschrijving bij die instelling vervolgen. De toewijzing door de instelling treedt in de plaats van het bewijs van toelating.  
 
 ### Artikel  4.26  
 
