@@ -13,7 +13,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ####Participatiewet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 Wijzigt de Participatiewet. 
 
@@ -21,7 +21,7 @@ Wijzigt de Participatiewet.
 
 ####Overgangsrecht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 Op de persoon die op de dag voorafgaand aan de datum van inwerkingtreding van deze wet recht op algemene bijstand heeft, is gedurende een periode van zes maanden na die datum artikel 18b, of artikel 47c, tweede lid, derde en vierde zin, van de Participatiewet niet van toepassing. 
 
@@ -29,7 +29,7 @@ Op de persoon die op de dag voorafgaand aan de datum van inwerkingtreding van de
 
 ####Indienbepaling Invoeringswet Participatiewet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 Wijzigt deze wet. 
 
@@ -37,7 +37,7 @@ Wijzigt deze wet.
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
@@ -45,7 +45,7 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ####Citeertitel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 Deze wet wordt aangehaald als: Wet taaleis Participatiewet. 
 

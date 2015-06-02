@@ -593,7 +593,7 @@ b. afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende 
 
 ####Beheersing van de Nederlandse taal
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 1.  Het college verlaagt de bijstand, overeenkomstig het negende, tiende en elfde lid, indien naar zijn oordeel een redelijk vermoeden bestaat dat belanghebbende niet of niet in voldoende mate de Nederlandse taal beheerst, noodzakelijk voor het naar vermogen verkrijgen, het aanvaarden en het behouden van algemeen geaccepteerde arbeid.   
 2.  Het college neemt een toets bij de belanghebbende af, indien belanghebbende: 

@@ -50,7 +50,7 @@ d. hoe schuldhulpverlening aan gezinnen met inwonende minderjarige kinderen word
 1.  Het college is verantwoordelijk voor de schuldhulpverlening aan de inwoners van zijn gemeente en voert daarbij het plan, bedoeld in artikel 2, eerste lid, uit.   
 2.  Het college kan schuldhulpverlening in ieder geval weigeren in geval een persoon al eerder gebruik heeft gemaakt van schuldhulpverlening.   
 3.  Het college kan schuldhulpverlening in ieder geval weigeren in geval een persoon fraude heeft gepleegd die financiële benadeling van een bestuursorgaan tot gevolg heeft en die persoon in verband daarmee onherroepelijk strafrechtelijk is veroordeeld of een onherroepelijke bestuurlijke sanctie, die beoogt leed toe te voegen, is opgelegd.   
-4.  Een vreemdeling kan voor het verlenen van schuldhulpverlening slechts in aanmerking komen indien hij een ingezetene is die rechtmatig in Nederland verblijf houdt in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).  
+4.  Een vreemdeling kan voor het verlenen van schuldhulpverlening slechts in aanmerking komen indien hij een ingezetene is die rechtmatig in Nederland verblijf houdt in de zin van artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000.  
 
 ### Artikel  4  
 
@@ -81,8 +81,8 @@ De verzoeker doet aan het college op verzoek of onverwijld uit eigen beweging me
 ####Medewerkingsplicht
 
 1.  De verzoeker is verplicht aan het college desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet.   
-2.  Het college stelt bij de uitvoering van deze wet de identiteit van de persoon, bedoeld in het eerste lid, vast aan de hand van een document als bedoeld in [artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht](../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md).   
-3.  Een ieder is verplicht aan het college desgevraagd een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) terstond ter inzage te verstrekken, voor zover dit redelijkerwijs nodig is voor de uitvoering van deze wet.  
+2.  Het college stelt bij de uitvoering van deze wet de identiteit van de persoon, bedoeld in het eerste lid, vast aan de hand van een document als bedoeld in artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht.   
+3.  Een ieder is verplicht aan het college desgevraagd een document als bedoeld in artikel 1 van de Wet op de identificatieplicht terstond ter inzage te verstrekken, voor zover dit redelijkerwijs nodig is voor de uitvoering van deze wet.  
 
 ### Artikel  8  
 
@@ -90,7 +90,7 @@ De verzoeker doet aan het college op verzoek of onverwijld uit eigen beweging me
 
 1.  Bestuursorganen en andere bij algemene maatregel van bestuur aangewezen personen en instanties verstrekken aan het college de gegevens en inlichtingen waarvan kennisneming van belang kan zijn voor de uitvoering van deze wet.   
 2.  Het college kan onder bij algemene maatregel van bestuur te bepalen voorwaarden aan bestuursorganen en aan bij algemene maatregel van bestuur aan te wijzen instanties gegevens verstrekken voortvloeiende uit de uitvoering van deze wet, die deze bestuursorganen en instanties behoeven in verband met uitoefening van hun taak en dienstverlening.   
-3.  Het vragen en het verstrekken van gegevens door het college aan en door de in het eerste en tweede lid bedoelde bestuursorganen en instanties kan geschieden door tussenkomst van het Inlichtingenbureau, bedoeld in [artikel 63 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).   
+3.  Het vragen en het verstrekken van gegevens door het college aan en door de in het eerste en tweede lid bedoelde bestuursorganen en instanties kan geschieden door tussenkomst van het Inlichtingenbureau, bedoeld in artikel 63 van de Wet structuur uitvoeringsorganisatie werk en inkomen.   
 4.  Bij algemene maatregel van bestuur kunnen regels worden gesteld over de wijze van gegevensuitwisseling en de kosten, die daarbij in rekening kunnen worden gebracht.  
 
 ### Artikel  9  
@@ -102,13 +102,13 @@ De verzoeker doet aan het college op verzoek of onverwijld uit eigen beweging me
 
 ### Artikel  10  
 
-####Wijziging van de [Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md)
+####Wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen. 
 
 ### Artikel  11  
 
-####Wijziging van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)
+####Wijziging van de Wet op het financieel toezicht
 
 Wijzigt de Wet op het financieel toezicht. 
 

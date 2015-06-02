@@ -163,11 +163,11 @@ e.andere gegevens.
 1. Verdragen en besluiten van volkenrechtelijke organisaties gelden als bekend gemaakt in het gehele Koninkrijk met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het *Tractatenblad* waarin zij zijn geplaatst.
 2.  Onze Minister van Buitenlandse Zaken kan voor een bepaald geval deze termijn, hetzij voor het Koninkrijk der Nederlanden in zijn geheel, hetzij voor een of meer der landen van het Koninkrijk, wijzigen door een mededeling in het *Tractatenblad*.
 
-###Artikel 20 
+### Artikel  20  
 
-1. Het ter kennis brengen van verdragen of van besluiten van volkenrechtelijke organisaties door Onze Minister van Buitenlandse Zaken aan bepaalde personen geldt te hunnen aanzien als bekendmaking mits daarbij wordt meegedeeld dat deze kennisgeving die werking heeft.
-2.  De artikelen 16, eerste lid, 17, onder *a, b*, en *c*, en 19 van deze wet zijn niet van toepassing op verdragen en op besluiten van volkenrechtelijke organisaties waarvan de bekendmaking is geregeld in of ingevolge een verdrag dat in het *Tractatenblad* is bekendgemaakt.
-3.  In bijzondere gevallen kan Onze Minister van Buitenlandse Zaken bepalen dat bijlagen bij een verdrag of besluiten van volkenrechtelijke organisaties niet door plaatsing in het *Tractatenblad*, doch door terinzagelegging worden bekendgemaakt. Van zodanige bekendmaking wordt mededeling gedaan in het *Tractatenblad*.
+1.  Het ter kennis brengen van verdragen of van besluiten van volkenrechtelijke organisaties door Onze Minister van Buitenlandse Zaken aan bepaalde personen geldt te hunnen aanzien als bekendmaking mits daarbij wordt meegedeeld dat deze kennisgeving die werking heeft.   
+2.   De artikelen 16, eerste lid, 17, onder a, b, en c, en 19 van deze wet zijn niet van toepassing op verdragen en op besluiten van volkenrechtelijke organisaties waarvan de bekendmaking is geregeld in of ingevolge een verdrag dat in het *Tractatenblad* is bekendgemaakt.   
+3.   In bijzondere gevallen kan Onze Minister van Buitenlandse Zaken bepalen dat bijlagen bij een verdrag of besluiten van volkenrechtelijke organisaties niet door plaatsing in het *Tractatenblad*, doch door terinzagelegging worden bekendgemaakt. Van zodanige bekendmaking wordt mededeling gedaan in het *Tractatenblad*.  
 
 ###Artikel 21 
 

@@ -2,7 +2,7 @@
 
 ##Verstrekkingsvoorwaarden inzake het Kentekenregister van de Dienst Wegverkeer 2014
 
-De Dienst Wegverkeer (hierna: RDW) is op basis van de [Wegenverkeerswet 1994](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en het [Kentekenreglement](../../../../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md) verantwoordelijk voor het beheer van het kentekenregister als basisregistratie (hierna: register). Verstrekkingen van gegevens uit het register vinden plaats conform de doeleinden en voorwaarden genoemd in de wet- en regelgeving en de aanvullende voorwaarden van de RDW. Iedere aanvrager of ontvanger van gegevens uit het register conformeert zich aan deze voorwaarden.   
+De Dienst Wegverkeer (hierna: RDW) is op basis van de Wegenverkeerswet 1994 en het Kentekenreglement verantwoordelijk voor het beheer van het kentekenregister als basisregistratie (hierna: register). Verstrekkingen van gegevens uit het register vinden plaats conform de doeleinden en voorwaarden genoemd in de wet- en regelgeving en de aanvullende voorwaarden van de RDW. Iedere aanvrager of ontvanger van gegevens uit het register conformeert zich aan deze voorwaarden.   
 ### A  
 
 ####Algemeen deel
@@ -12,22 +12,22 @@ De Dienst Wegverkeer (hierna: RDW) is op basis van de [Wegenverkeerswet 1994](..
 
 ####Begrippen
 
-*RDW* Dienst Wegverkeer  *KR* [Kentekenreglement](../../../../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md)  *KvK* Kamer van Koophandel  *Minister* Minister van Infrastructuur en Milieu  *WVW* [Wegenverkeerswet 1994](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)  *Aanvrager:*  De persoon of instantie die de RDW verzoekt om informatie en/of gegevens uit het register beschikbaar te stellen.  *Beroepsbeoefenaren* ([art. 9 lid 1, sub a KR](../../../../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md)):  Door de Minister als zodanig aangewezen (groepen van) personen of instanties voor zover zij de gegevens nodig hebben voor de aangewezen doelen.  *Betrokkene:*  De natuurlijke persoon of rechtspersoon aan wie een kentekenbewijs is afgegeven.  *Gevoelig gegeven *([art. 7 lid 2 KR](../../../../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md)):  Gegeven dat of een combinatie van gegevens die gevoelig is, wordt onderscheiden in de volgende categorieën: 
+*RDW* Dienst Wegverkeer  *KR* Kentekenreglement  *KvK* Kamer van Koophandel  *Minister* Minister van Infrastructuur en Milieu  *WVW* Wegenverkeerswet 1994  *Aanvrager:*  De persoon of instantie die de RDW verzoekt om informatie en/of gegevens uit het register beschikbaar te stellen.  *Beroepsbeoefenaren* (art. 9 lid 1, sub a KR):  Door de Minister als zodanig aangewezen (groepen van) personen of instanties voor zover zij de gegevens nodig hebben voor de aangewezen doelen.  *Betrokkene:*  De natuurlijke persoon of rechtspersoon aan wie een kentekenbewijs is afgegeven.  *Gevoelig gegeven *(art. 7 lid 2 KR):  Gegeven dat of een combinatie van gegevens die gevoelig is, wordt onderscheiden in de volgende categorieën: 
 
 1. gegevens betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;  
 
 2. gegevens waarvan de verstrekking een nadelig effect kan hebben op de concurrentiepositie van een onderneming;  
 
-3. gegevens waarvan de verstrekking het risico op handelen in strijd met een wettelijk voorschrift met zich mee brengt;    *Niet gevoelig gegeven *([art. 7 lid 3 KR](../../../../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md)):  Alle gegevens die niet als gevoelig zijn aangewezen.  *Ontvanger:*  De persoon of instantie waaraan door de RDW gegevens uit het register beschikbaar worden gesteld of worden verstrekt.  *Overheidsorgaan* ([art. 41a WVW](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)):  Onder overheidsorgaan wordt, voor de verstrekking van gegevens uit het register van de RDW, verstaan: 
+3. gegevens waarvan de verstrekking het risico op handelen in strijd met een wettelijk voorschrift met zich mee brengt;    *Niet gevoelig gegeven *(art. 7 lid 3 KR):  Alle gegevens die niet als gevoelig zijn aangewezen.  *Ontvanger:*  De persoon of instantie waaraan door de RDW gegevens uit het register beschikbaar worden gesteld of worden verstrekt.  *Overheidsorgaan* (art. 41a WVW):  Onder overheidsorgaan wordt, voor de verstrekking van gegevens uit het register van de RDW, verstaan: 
 
 1. een orgaan van een rechtspersoon die krachtens publiekrecht is ingesteld en een publiekrechtelijke taak uitvoert;  
 
-2. een door de minster aangewezen persoon of instantie, die een publiekrechtelijke taak uitoefent, voor zover dit met het oog op hun publieke- taakuitoefening naar het oordeel van de minster noodzakelijk is.    *Informatieprovider van gevoelige gegevens* ([art. 9 lid 1, sub b KR](../../../../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md)), *hierna: informatieprovider*:  Door de Minister aangewezen organisatie die gevoelige gegevens mag ontvangen voor aangewezen doeleinden;  *Overige belanghebbenden:*  Alle andere aanvragers dan hiervoor genoemd.    
+2. een door de minster aangewezen persoon of instantie, die een publiekrechtelijke taak uitoefent, voor zover dit met het oog op hun publieke- taakuitoefening naar het oordeel van de minster noodzakelijk is.    *Informatieprovider van gevoelige gegevens* (art. 9 lid 1, sub b KR), *hierna: informatieprovider*:  Door de Minister aangewezen organisatie die gevoelige gegevens mag ontvangen voor aangewezen doeleinden;  *Overige belanghebbenden:*  Alle andere aanvragers dan hiervoor genoemd.    
 ### 2  
 
 ####Werkingssfeer
 
-Deze bepalingen zijn van toepassing op de aanvragers en ontvangers van gegevens uit het register. De bepalingen zijn aanvullend op en ter uitwerking van de regels voor de aanvraag en het gebruik van gegevens in de [WVW](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), het [KR](../../../../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), de [Regeling gegevensverstrekking kentekenregister 2008](../../../../../../../../../../ministeriele-regeling/regeling/gegevensverstrekking/kentekenregister/2008/BWBR0024045/README.md) en de aanwijzingsbeschikkingen van de Minister.    
+Deze bepalingen zijn van toepassing op de aanvragers en ontvangers van gegevens uit het register. De bepalingen zijn aanvullend op en ter uitwerking van de regels voor de aanvraag en het gebruik van gegevens in de WVW, het KR, de Regeling gegevensverstrekking kentekenregister 2008 en de aanwijzingsbeschikkingen van de Minister.    
 ### 3  
 
 ####Algemene verstrekkingsvoorwaarden
@@ -58,7 +58,7 @@ e. Ter beveiliging van digitale gegevensstromen naar externe relaties hanteert d
 
 ####Toezicht
 
-De RDW houdt middels daartoe aangewezen personen zelfstandig en actief toezicht op het gebruik van gevoelige gegevens uit het register en op de naleving van de in artikel 2 genoemde wet- en regelgeving en deze verstrekkingsvoorwaarden. De ontvanger is ingevolge de WVW gehouden medewerking te verlenen aan dit toezicht en het opsporen door de RDW van onjuist handelen. De RDW kan met het oog op een correct gebruik van de gevoelige gegevens onder meer inzage in documenten, en overlegging van verklaringen van de ontvanger verlangen. Bij gebruik van de verstrekte gegevens voor andere doeleinden dan waarvoor deze zijn verstrekt en/of het niet nakomen van deze en op andere wijze gestelde voorwaarden of ernstig vermoeden daarvan, kan de RDW verdere verstrekking van gegevens uit het kentekenregister voor bepaalde of onbepaalde tijd achterwege laten. Op grond van [artikel 5 Regeling gegevensverstrekking kentekenregister 2008](../../../../../../../../../../ministeriele-regeling/regeling/gegevensverstrekking/kentekenregister/2008/BWBR0024045/README.md) kan een tarief ter zake van de kosten van toezicht en de kosten van inspectie van toepassing zijn. Binnen de categorie overheidsorganen wordt alleen toezicht gehouden op de door de Minister aangewezen personen of instanties die een publiekrechtelijke taak uitoefenen. Binnen de categorieën informatieproviders en overige belanghebbenden, niet zijnde overheidsorganen, kan de RDW met het oog op correct gebruik van de gevoelige gegevens een jaarlijkse accountants- of EDP- verklaring verlangen.    
+De RDW houdt middels daartoe aangewezen personen zelfstandig en actief toezicht op het gebruik van gevoelige gegevens uit het register en op de naleving van de in artikel 2 genoemde wet- en regelgeving en deze verstrekkingsvoorwaarden. De ontvanger is ingevolge de WVW gehouden medewerking te verlenen aan dit toezicht en het opsporen door de RDW van onjuist handelen. De RDW kan met het oog op een correct gebruik van de gevoelige gegevens onder meer inzage in documenten, en overlegging van verklaringen van de ontvanger verlangen. Bij gebruik van de verstrekte gegevens voor andere doeleinden dan waarvoor deze zijn verstrekt en/of het niet nakomen van deze en op andere wijze gestelde voorwaarden of ernstig vermoeden daarvan, kan de RDW verdere verstrekking van gegevens uit het kentekenregister voor bepaalde of onbepaalde tijd achterwege laten. Op grond van artikel 5 Regeling gegevensverstrekking kentekenregister 2008 kan een tarief ter zake van de kosten van toezicht en de kosten van inspectie van toepassing zijn. Binnen de categorie overheidsorganen wordt alleen toezicht gehouden op de door de Minister aangewezen personen of instanties die een publiekrechtelijke taak uitoefenen. Binnen de categorieën informatieproviders en overige belanghebbenden, niet zijnde overheidsorganen, kan de RDW met het oog op correct gebruik van de gevoelige gegevens een jaarlijkse accountants- of EDP- verklaring verlangen.    
 ### 6  
 
 ####Aansprakelijkheid
@@ -85,14 +85,14 @@ Op de op basis van de in artikel 2 genoemde wet- en regelgeving en deze voorwaar
 
 Voor overheidsorganen zijn naast de voorwaarden genoemd in onderdeel a tevens de volgende voorwaarden van toepassing: 
 
-a. Overheidsorganen zijn gehouden tot een zorgvuldig gebruik van de aan hen door de RDW verstrekte gevoelige gegevens ten behoeve van een goede vervulling van de publiekrechtelijke taak en dienen erop toe te zien dat het belang en/of de fundamentele rechten en vrijheden van de betrokkene, in het bijzonder het recht op bescherming van de persoonlijke levenssfeer in het kader van de [Wet bescherming persoonsgegevens](../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), niet onevenredig wordt geschonden;  
+a. Overheidsorganen zijn gehouden tot een zorgvuldig gebruik van de aan hen door de RDW verstrekte gevoelige gegevens ten behoeve van een goede vervulling van de publiekrechtelijke taak en dienen erop toe te zien dat het belang en/of de fundamentele rechten en vrijheden van de betrokkene, in het bijzonder het recht op bescherming van de persoonlijke levenssfeer in het kader van de Wet bescherming persoonsgegevens, niet onevenredig wordt geschonden;  
 
 b. Ieder ander gebruik van de verstrekte gevoelige gegevens anders dan ten behoeve van vervulling van de publiekrechtelijke taak is niet toegestaan;      
 ### 10  
 
 ####Terugmelding
 
-Op grond van [artikel 43c WVW](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) zijn overheidsorganen gehouden om bij gerede twijfel over de juistheid van een in het kentekenregister opgenomen authentiek gegeven, hiervan een melding te doen aan de Dienst Wegverkeer, onder opgave van redenen. Voor meer informatie: www.rdw.nl zoekterm ‘terugmelden’.     
+Op grond van artikel 43c WVW zijn overheidsorganen gehouden om bij gerede twijfel over de juistheid van een in het kentekenregister opgenomen authentiek gegeven, hiervan een melding te doen aan de Dienst Wegverkeer, onder opgave van redenen. Voor meer informatie: www.rdw.nl zoekterm ‘terugmelden’.     
 ### C  
 
 ####Informatieproviders en overige belanghebbenden niet zijnde overheidsorganen
@@ -109,7 +109,7 @@ Ongeacht de wijze van levering geldt dat verstrekking van gegevens plaatsvindt t
 
 ####Voorwaarden bij verstrekking van gevoelige gegevens
 
-In de [Regeling gegevensverstrekking kentekenregister 2008](../../../../../../../../../../ministeriele-regeling/regeling/gegevensverstrekking/kentekenregister/2008/BWBR0024045/README.md) zijn in [artikel 4](../../../../../../../../../../ministeriele-regeling/regeling/gegevensverstrekking/kentekenregister/2008/BWBR0024045/README.md) onder meer de volgende voorwaarden voor verstrekking en regels van gebruik van gevoelige gegevens van toepassing verklaard: 
+In de Regeling gegevensverstrekking kentekenregister 2008 zijn in artikel 4 onder meer de volgende voorwaarden voor verstrekking en regels van gebruik van gevoelige gegevens van toepassing verklaard: 
 
 a. De verkregen gegevens worden uitsluitend binnen de eigen organisatie van de ontvanger verwerkt en derhalve niet verder doorgeleverd, tenzij van de RDW schriftelijk toestemming is ontvangen voor doorlevering, dan wel dat er een aantoonbare wettelijke verplichting tot doorlevering bestaat.  
 
