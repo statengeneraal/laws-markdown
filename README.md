@@ -67,7 +67,7 @@ Something looks wrong?
 
 I have taken a lot of care to produce valid and pretty Markdown, but it's hard to find all edge cases when even official XML [doesn't validate to its own very complex schema](http://wetten.overheid.nl/xml.php?regelingID=BWBR0001842).
 
-The bulk of the work has been getting whitespaces and tables right. If you notice an error, [open an issue](https://github.com/statengeneraal/wettenbestand-markdown/issues) or tinker around with [the code](https://github.com/statengeneraal/tools-scripts) yourself.
+The bulk of the work has been getting whitespaces and tables right. If you notice an error, [open an issue](https://github.com/statengeneraal/wettenbestand-markdown/issues) or tinker around with [the code](https://github.com/statengeneraal/tools-github-bwb) yourself.
 
 Also remember that laws typically have more complex markup needs than Markdown allows for, so check first if Markdown even supports the desired markup. 
 
