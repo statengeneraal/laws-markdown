@@ -1750,7 +1750,7 @@ e. indien het honden, katten of fretten betreft, voldaan is aan artikel 10, twee
 
 ### Artikel  8.4  
 
-Indien een partij is verzonden vanuit een lid-staat en bestemd is voor Nederland of een lid-staat, gaat zij vergezeld van:
+1. Indien een partij is verzonden vanuit een lid-staat en bestemd is voor Nederland of een lid-staat, gaat zij vergezeld van:
 
 a. het certificaat dat op grond van artikel 5, eerste lid, van richtlijn 92/65/EEG is voorgeschreven, indien het apen betreft; 
 
@@ -1760,7 +1760,8 @@ c. het gezondheidscertificaat dat op grond van artikel 8, onderdeel b, van richt
 
 d. het gezondheidscertificaat dat op grond van artikel 9, tweede lid, van richtlijn 92/65/EEG is voorgeschreven, indien het lagomorfen betreft, of 
 
-e. het gezondheidscertificaat dat op grond van artikel 10, tweede lid, van richtlijn 92/65/EEG is voorgeschreven, indien het honden, katten of fretten betreft.  
+e. het gezondheidscertificaat dat op grond van artikel 10, tweede lid, van richtlijn 92/65/EEG is voorgeschreven, indien het honden, katten of fretten betreft.   
+2.  Indien het honden, katten of fretten betreft, voldoet de partij aan artikel 10, tweede lid, van richtlijn 92/65/EEG. 
 
 ###Afdeling 4 
 

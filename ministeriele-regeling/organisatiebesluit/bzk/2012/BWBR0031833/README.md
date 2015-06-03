@@ -67,7 +67,8 @@ c. de benoeming van kandidaten bij BZK in vacatures opengesteld door de Algemene
 d. de werkzaamheden van de Bestuursraad met betrekking tot de personeelsschouw, zoals aangegeven in het departementale beleid terzake.    
 5.  Al hetgeen in de vergaderingen aan de orde komt is vertrouwelijk, voor zover niet anders is besloten of uit de wet voortvloeit.   
 6.  De directeur Bestuursondersteuning voert het secretariaat van de Bestuursraad.   
-7.  De Bestuursraad regelt de eigen werkwijze.  
+7.  De directeur Personeel en Organisatie voert het secretariaat van de bespreking van het departementale personeelsbeleid.  
+8.  De Bestuursraad regelt de eigen werkwijze.  
 
 ### Artikel  5  
 
@@ -114,9 +115,11 @@ i. het plegen van inhoudelijke afstemming met het gemeenschappelijke secretariaa
 
 j. het toezicht op het beheer van de Kiesraad (KR) en toezicht op het Bureau Architectenregister;  
 
-k. het beheersmatig aansturen van de kabinetten van de Gouverneurs, de Vertegenwoordigingen, de Rijksdienst Caribisch Nederland en de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba;  
+k. het beheersmatig aansturen van de kabinetten van de Gouverneurs en de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
-l. het verlenen van goedkeuring tot het bewust afwijken van de aanbestedingsregels.    
+l. het beheersmatig en inhoudelijk aansturen van de Rijksdienst Caribisch Nederland; 
+
+m. het verlenen van goedkeuring tot het bewust afwijken van de aanbestedingsregels.    
 3.  De Secretaris-generaal is niet belast met de inhoudelijke leiding van het onder artikel 2, eerste lid, onderdeel j, genoemde organisatieonderdeel.  
 3.  De in dit artikel, tweede lid onder onderdeel i genoemde organisatieonderdelen, vallen onder beheersmatige leiding van de hoofddirecteur van de Dienst Concernstaf en Bedrijfsvoering.  
 
@@ -133,7 +136,9 @@ a. het stellen van kaders op de onderscheiden terreinen van de bedrijfsvoering;
 
 b. het bevorderen, realiseren en (doen) in stand houden van samenwerking en gezamenlijke uitvoeringsorganisaties;  
 
-c. het in programma’s (doen) realiseren van Rijksbrede voorzieningen op het terrein van de bedrijfsvoering.     
+c. het in programma’s (doen) realiseren van Rijksbrede voorzieningen op het terrein van de bedrijfsvoering;  
+
+d. het voeren van het centraal opdrachtgeverschap aan de baten-lastendienst P-Direkt voor de uitvoering van de standaard dienstverlening en het beheren van het budget dat in het kader van de centrale bekostiging is overgedragen.    
 3.  Het directoraat-generaal bestaat uit de volgende organisatieonderdelen: 
 
 a. het bureau Directeur-generaal van het directoraat-generaal Organisatie en Bedrijfsvoering Rijk (BDGOBR);  
@@ -200,7 +205,7 @@ f. de directie Koninkrijksrelaties (KR);
 
 g. de Rijksdienst Caribisch Nederland (RCN);  
 
-h. de baten-lastendienst Basisadministratie, Persoonsgegevens en Reisdocumenten (BPR);  
+h. de Rijksdienst voor Identiteitsgegevens (RvIG);  
 
 i. het secretariaat van het College Financieel Toezicht Curaçao en Sint Maarten onderscheidenlijk het College Financieel Toezicht Bonaire, Sint Eustatius en Saba.   
 4.  De directie Koninkrijksrelaties wordt beleidsinhoudelijk en beheersmatig aangestuurd door de Secretaris-generaal. 
@@ -293,31 +298,17 @@ Vervallen per 06-11-2013
 
 ### Artikel  13  
 
-1.  De Algemene Inlichtingen- en Veiligheidsdienst staat onder leiding van een hoofd en een plaatsvervangend hoofd.   
+1.  De Algemene Inlichtingen- en Veiligheidsdienst staat onder leiding van een directeur-generaal en een plaatsvervangend directeur-generaal.   
 2.  De Algemene Inlichtingen- en Veiligheidsdienst heeft de taken, bedoeld in artikel 6 van de Wet op de inlichtingen- en veiligheidsdiensten 2002.   
 3.  De Algemene Inlichtingen- en Veiligheidsdienst bestaat uit de volgende organisatieonderdelen: 
 
-a. de Eenheid Strategie en Beleid (S&B);  
+a. de Directie Inlichtingen;  
 
-b. de Eenheid Kenniscentrum Verandermanagement & Innovatie (KVI);  
+b. de Directie Operatiën;  
 
-c. de Eenheid Dienstencentrum (DC);  
+c. de Directie Veiligheidsonderzoeken & Bedrijfsvoering;  
 
-d. de Eenheid Binnenlandse Veiligheid (BV);  
-
-e. de Eenheid Veiligheidsonderzoeken (VO);  
-
-f. de Eenheid Inlichtingen Buitenland (IB);  
-
-g. de Eenheid Nationaal Bureau Verbindingsbeveiliging (NBV);  
-
-h. de Eenheid Regie (ER);  
-
-i. de Eenheid Trendanalyse & Fenomeenonderzoek (Terra);  
-
-j. de Eenheid Operationele Expertise & Ondersteuning (OPEX);  
-
-k. de Eenheid Informatie Management (IM).    
+d. de Centrale Staf.    
 
 ### Paragraaf  3.9  
 
@@ -340,20 +331,16 @@ e. het bijdragen aan de beschikbaarheid van managers en aan talentontwikkeling;
 
 f. het waar nodig realiseren van strategisch advies en/of de bezetting met tijdelijke capaciteit;  
 
-g. het zorgen voor loopbaanbegeleiding en fungeren als gedelegeerd werkgever voor het topmanagement van de Rijksdienst.     
-3.  Het bureau bestaat uit de volgende organisatieonderdelen: 
+g. het zorgen voor loopbaanbegeleiding en fungeren als gedelegeerd werkgever voor het topmanagement van de Rijksdienst;  
 
-a. het bureau Directeur-generaal van het Bureau Algemene Bestuursdienst  
+h. het uitvoeren van HRM-dienstverlening voor de bewindspersonen.    
+3.  Het Bureau ABD bestaat uit de volgende organisatieonderdelen: 
 
-b. de directie Management Development Rijk;  
+a. de directie Management Development Rijk;  
 
-c. afdeling Werkgeverschap en Arbeidsvoorwaarden;  
+b. de directie Beleid en Bestuursondersteuning;  
 
-d. afdeling Advies en Interim Management;  
-
-e. afdeling MD Politie;  
-
-f. ABD Topconsult.    
+c. ABD Topconsult.    
 
 ### Paragraaf  3.10  
 
@@ -371,21 +358,21 @@ b. de dienstverlening en vakinhoudelijke advisering ten behoeve van het beleid v
 c. de ondersteuning en het beheer van de bedrijfsprocessen.     
 3.  De dienst bestaat uit de volgende organisatieonderdelen: 
 
-d. het bureau Dienst Concernstaf en Bedrijfsvoering en CIO Office (bDCB/CIO-office);  
+a. het bureau Dienst Concernstaf en Bedrijfsvoering (bDCB);  
 
-e. het bureau Regie Bedrijfsvoering BZK en CDI-office (bRB)  
+b. het bureau Regie Bedrijfsvoering BZK (bRB);  
 
-f. de directie Bestuursondersteuning (BO);  
+c. de directie Bestuursondersteuning (BO);  
 
-g. de directie Financieel-economische Zaken (FEZ);  
+d. de directie Financieel-economische Zaken (FEZ);  
 
-h. de directie Constitutionele Zaken en Wetgeving (CZW);  
+e. de directie Constitutionele Zaken en Wetgeving (CZW);  
 
-i. de directie Communicatie (C);  
+f. de directie Communicatie (C);  
 
-j. de directie Personeel en Organisatie (PO);  
+g. de directie Personeel en Organisatie (PO);  
 
-k. het gemeenschappelijk secretariaat van de Raad voor het openbaar bestuur (Rob) en de Raad voor de financiële verhoudingen (Rfv)     
+h. het gemeenschappelijk secretariaat van de Raad voor het openbaar bestuur (Rob) en de Raad voor de financiële verhoudingen (Rfv).     
 4.  De directeur Financieel-economische Zaken bekleedt de functie van coördinerend directeur Inkoop (CDI). Deze is verantwoordelijk voor: 
 
 a. het stellen van kaders voor het inkoopbeleid van het ministerie;  
@@ -421,7 +408,7 @@ d. het volgen en vertalen van ICT-ontwikkelingen voor BZK.
 
 1.  De Minister stelt de inrichting van de organisatie vast conform het bepaalde in artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011.  
 2.  De Secretaris-generaal is bevoegd tot het nader vaststellen van de inrichting van de onder de directoraten-generaal, het Bureau Algemene Bestuursdienst en de Dienst Concernstaf en Bedrijfsvoering ressorterende organisatieonderdelen, na advisering door de directeur Personeel en Organisatie. De Secretaris-generaal is bevoegd tot het nader vaststellen van de inrichting van de Algemene Inlichtingen- en Veiligheidsdienst op voordracht van het hoofd van die dienst en na advisering van de directeur Personeel en Organisatie. 
-3.  De directeuren-generaal stellen met inachtneming van dit besluit ten behoeve van hun dienst- of organisatieonderdelen een capaciteitsplan vast. 
+3.  De directeuren-generaal stellen met inachtneming van dit besluit ten behoeve van hun dienst- en organisatieonderdelen periodiek een capaciteitsplan vast. 
 
 ### Paragraaf  4.2  
 

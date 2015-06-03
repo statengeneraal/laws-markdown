@@ -41,7 +41,7 @@ d. rapporten uit te brengen als bedoeld in artikel 8, derde lid.
 
 ####Samenstelling, benoeming en ontslag
 
-1.  De commissie bestaat uit een voorzitter en ten hoogste negen andere leden.   
+1.  De commissie bestaat uit een voorzitter en ten hoogste twaalf andere leden.   
 2.  De voorzitter en de overige leden worden door de Minister van Onderwijs, Cultuur en Wetenschap benoemd en, in voorkomend geval, geschorst of tussentijds ontslagen.   
 3.  De voorzitter of een ander lid kan worden geschorst of tussentijds ontslagen indien: 
 
@@ -77,7 +77,13 @@ h. de heer drs. B.P.A. Schippers MBA te Leiden;
 
 i. mevrouw H.C.W. Verhoeven-van Lierop te Grathem;  
 
-j. mevrouw dr. M.J.H. van der Weiden te Utrecht.   
+j. mevrouw dr. M.J.H. van der Weiden te Utrecht;  
+
+k. dhr. dr. R.J. Stol te Kimswerd;  
+
+l. dhr. drs. W.E. van den Brandt te Lunteren;  
+
+m. dhr. dr. J.P. van den Toren te Veenendaal.  
 
 ### Artikel  5  
 

@@ -8,17 +8,21 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Als de modellen, bedoeld in de Kieswet en het Kiesbesluit, worden de modellen vastgesteld die in de bijlage bij deze regeling zijn opgenomen.   
-2.  De tekst van de modellen in de bijlage bij deze regeling kan redactioneel worden aangepast voor een specifieke doelgroep of voor de digitale toepassing, indien dat de leesbaarheid of doelmatigheid van het model ten goede komt.  
+1.  Als de modellen, bedoeld in de Kieswet en het Kiesbesluit, worden de modellen vastgesteld die in de bijlage bij artikel 1 van deze regeling bij deze regeling zijn opgenomen.   
+2.  De tekst van de modellen in de bijlage bij artikel 1 van deze regeling bij deze regeling kan redactioneel worden aangepast voor een specifieke doelgroep of voor de digitale toepassing, indien dat de leesbaarheid of doelmatigheid van het model ten goede komt.  
 
 ### Artikel  2  
 
 De Modellenregeling Kieswet en Kiesbesluit 2010 wordt ingetrokken. 
 
 ### Artikel  2a  
-Treedt in werking per 01-01-2015 
 
 De programmatuur, bedoeld in artikel P 1, eerste lid, van het Kiesbesluit, ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de in de bijlage bij artikel 2a van deze regeling opgenomen eisen. 
+
+### Artikel  2b  
+Treedt in werking per 01-07-2015 
+
+De programmatuur, bedoeld in artikel 16 van het Besluit raadgevend referendum, ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de in de bijlage bij artikel 2b van deze regeling opgenomen eisen. 
 
 ### Artikel  3  
 
@@ -34,6 +38,8 @@ Minister van Binnenlandse Zaken en Koninkrijksrelaties,
 R.H.A. Plasterk    
 
 ### Bijlage  
+
+####bij artikel 1  van de Kiesregeling
 
 ### Model  D 3-1  
 
@@ -485,8 +491,6 @@ Stembiljet (kleur wit)
 
 ####bij artikel 2a  van de Kiesregeling
 
-Treedt in werking per 01-01-2015 
-
 ####Eisen aan de programmatuur die door de centrale stembureaus wordt gebruikt ten behoeve van de vaststelling van de uitslag van verkiezingen of de berekening van de zetelverdeling
 
 De programmatuur, bedoeld in artikel P 1, eerste lid, van het Kiesbesluit, ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de volgende eisen: 
@@ -516,4 +520,36 @@ k. de programmatuur wordt ontwikkeld voor verschillende besturingssystemen, waar
 l. het is mogelijk de authenticiteit van de programmatuur vast te stellen; en  
 
 m. bij het inlezen van verkiezingsgegevens in de programmatuur wordt de authenticiteit van de gegevens vastgesteld, bij voorkeur door middel van een gekwalificeerde elektronische handtekening.   
+
+###Bijlage 3 
+
+####bij artikel 2b  van de Kies- en referendumregeling
+
+Treedt in werking per 01-07-2015 
+
+####Eisen aan de programmatuur die door het centraal stembureau wordt gebruikt ten behoeve van de berekening van de uitslag van het referendum
+
+De programmatuur, bedoeld in artikel 16 van het Besluit raadgevend referendum, ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de volgende eisen: 
+
+a. de programmatuur bevat de functionaliteiten die overeenkomstig de specificatie, bedoeld in artikel P 1, tweede lid, van het Kiesbesluit juncto artikel 16 van het Besluit raadgevend referendum, nodig zijn voor de berekening van de uitslag van het referendum;  
+
+b. de programmatuur, waaronder de broncode, is gestructureerd opgebouwd, zodanig dat modulaire aanpassingen mogelijk zijn;  
+
+c. de kritische functies voor de berekening van de uitslag van het referendum zijn in de programmatuur herkenbaar en van elkaar gescheiden;  
+
+d. toevallig of opzettelijk foutief gebruik van de programmatuur wordt, voor zover redelijkerwijs technisch mogelijk is, door het ontwerp voorkomen;  
+
+e. de programmatuur wordt als open source ontwikkeld en maakt gebruik van open standaarden. Indien dit aantoonbaar niet mogelijk is wordt technologie toegepast waarvan de doeltreffendheid in de praktijk is aangetoond en die direct toepasbaar is. Voor referendumgegevens wordt de EML_NL standaard toegepast;  
+
+f. de standaard programmatuur waarvan gebruik wordt gemaakt is vrij verkrijgbaar;  
+
+g. het intellectueel eigendom van de maatwerkprogrammatuur berust bij het centraal stembureau;  
+
+h. de programmatuur is geschreven in een programmeertaal, waarvoor een door een actieve gemeenschap onderhouden open source *compiler*, onderscheidenlijk *interpreter* beschikbaar is;  
+
+i. de programmatuur wordt ontwikkeld voor verschillende besturingssystemen, waaronder in ieder geval een open source besturingssysteem;  
+
+j. het is mogelijk de authenticiteit van de programmatuur vast te stellen; en  
+
+k. bij het inlezen van referendumgegevens in de programmatuur wordt de authenticiteit van de gegevens vastgesteld, bij voorkeur door middel van een gekwalificeerde elektronische handtekening.   
 

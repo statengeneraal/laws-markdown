@@ -191,10 +191,7 @@ In afwijking van artikel 6.26, tweede lid, van het besluit geldt voor een woonge
 
 ####Veiligheidszone en plasbrandaandachtsgebied
 
-Treedt in werking per 01-04-2015 
-
 ### Artikel  2.4  
-Treedt in werking per 01-04-2015 
 
 1.  Een geheel of gedeeltelijk in een veiligheidszone bij een weg of spoorweg te bouwen bouwwerk dat tevens een beperkt kwetsbaar object als bedoeld in het Besluit externe veiligheid inrichtingen is, voldoet aan het bepaalde in de artikelen 2.5 tot en met 2.10.   
 2.  Een geheel of gedeeltelijk in een plasbrandaandachtsgebied te bouwen bouwwerk dat tevens een kwetsbaar of beperkt kwetsbaar object als bedoeld in het Besluit externe veiligheid inrichtingen is, voldoet aan het bepaalde in de artikelen 2.5 tot en met 2.9.   
@@ -203,12 +200,10 @@ Treedt in werking per 01-04-2015
 5.  Het eerste tot en met vierde lid zijn niet van toepassing op bouwwerken voor zover die bouwwerken objecten met een hoge infrastructurele waarde als bedoeld in het Besluit externe veiligheid inrichtingen zijn.  
 
 ### Artikel  2.5  
-Treedt in werking per 01-04-2015 
 
 De brandwerendheid van de uitwendige scheidingsconstructie van een gedeelte van een te bouwen bouwwerk dat gelegen is in een veiligheidszone of plasbrandaandachtsgebied is ten minste 60 minuten van buiten naar binnen bepaald volgens NEN 6069, uitgaande van de buitenruimte als een brandcompartiment en een buitenbrandkromme volgens NEN-EN 13501-2. 
 
 ### Artikel  2.6  
-Treedt in werking per 01-04-2015 
 
 1.  Een in een aan de buitenlucht grenzende zijde van een in een veiligheidszone of plasbrandaandachtsgebied gelegen constructieonderdeel van een te bouwen bouwwerk voldoet aan brandklasse A2, bepaald volgens NEN-EN 13501-1.   
 2.  In afwijking van het eerste lid voldoet een deur, een raam, een kozijn of een daaraan gelijk te stellen constructieonderdeel aan brandklasse D, bepaald volgens NEN-EN 13501-1.   
@@ -216,25 +211,21 @@ Treedt in werking per 01-04-2015
 4.  Het eerste tot en met derde lid zijn niet van toepassing op de bovenzijde van een dak.  
 
 ### Artikel  2.7  
-Treedt in werking per 01-04-2015 
 
 1.  Een in een veiligheidszone of plasbrandaandachtsgebied gelegen dak of een gedeelte daarvan van een te bouwen bouwwerk is voorzien van een constructieonderdeel waarvan de aan de buitenlucht grenzende zijde voldoet aan brandklasse A2, bepaald volgens NEN-EN 13501-1.   
 2.  Op ten hoogste 5% van de oppervlakte van het in het eerste lid bedoelde constructieonderdeel is de eis van het eerste lid niet van toepassing.  
 
 ### Artikel  2.8  
-Treedt in werking per 01-04-2015 
 
 1.  In een aan de buitenlucht grenzende zijde van een gedeeltelijk in een veiligheidszone of plasbrandaandachtsgebied te bouwen bouwwerk is geen in de veiligheidszone of het plasbrandaandachtsgebied gelegen doorgang aanwezig waardoor een vluchtroute voert.   
 2.  In een aan de buitenlucht grenzende zijde van een geheel in een veiligheidszone of plasbrandaandachtsgebied te bouwen bouwwerk is uitsluitend een van de basisnetroute afgekeerde doorgang aanwezig waardoor een vluchtroute voert.  
 
 ### Artikel  2.9  
-Treedt in werking per 01-04-2015 
 
 1.  Voor een te bouwen bouwwerk dat gelegen is in een veiligheidszone of plasbrandaandachtsgebied zijn de voorschriften van afdeling 2.2 van het besluit van overeenkomstige toepassing waarbij wordt uitgegaan van de buitenruimte als een subbrandcompartiment of brandcompartiment en een buitenbrandkromme volgens NEN-EN 13501-2.   
 2.  Na het ontstaan van brand in een veiligheidzone of plasbrandaandachtsgebied bezwijkt een boven die veiligheidszone of dat plasbrandaandachtsgebied te bouwen bouwconstructie niet binnen 90 minuten, bepaald volgens artikel 2.11 van het besluit en uitgaande van ontwerpbrandscenario’s zoals bedoeld in paragraaf 2.2 van NEN-EN 1991-1-2.  
 
 ### Artikel  2.10  
-Treedt in werking per 01-04-2015 
 
 Een in een veiligheidzone te bouwen bouwwerk met een mechanisch ventilatiesysteem heeft een voorziening waarmee dat systeem bij een calamiteit handmatig kan worden uitgeschakeld. 
 

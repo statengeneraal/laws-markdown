@@ -10,7 +10,7 @@
 
 In deze regeling wordt verstaan onder: 
 
-a.  *ambtenaar van politie:* de ambtenaar van politie, bedoeld in [artikel 1, onder c, van het Besluit rechtspositie korps politie BES](../../../../../../../../../../AMvB-BES/besluit/rechtspositie/korps/politie/bes/BWBR0028767/README.md);  
+a.  *ambtenaar van politie:* de ambtenaar van politie, bedoeld in artikel 1, onder c, van het Besluit rechtspositie korps politie BES;  
 
 b.  *beheerder:* de functionaris, bedoeld in artikel 4, eerste lid;  
 
@@ -18,15 +18,15 @@ c.  *uniform:* het samenstel van kledingstukken en overige uitrustingsstukken zo
 
 d.  *kleding:* tot een der tenues behorende kledingstukken, waaronder begrepen: pet, das, dasklem, handschoenen, koppelriem, broekriem, rangonderscheidingstekens, politiedistinctief, schoeisel, knopen, armkoorden, en de onderdelen van deze kledingstukken.  
 
-e.  *dienstkleding:* de door de beheerder aan de ambtenaar van politie, bedoeld in [artikel 3, onder b, van de Rijkswet](../../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md), verstrekte kleding;  
+e.  *dienstkleding:* de door de beheerder aan de ambtenaar van politie, bedoeld in artikel 3, onder b, van de Rijkswet, verstrekte kleding;  
 
-f.  *hoofdrang:* de rang, genoemd in [artikel 3, eerste lid, van het Besluit rechtspositie korps politie BES](../../../../../../../../../../AMvB-BES/besluit/rechtspositie/korps/politie/bes/BWBR0028767/README.md);  
+f.  *hoofdrang:* de rang, genoemd in artikel 3, eerste lid, van het Besluit rechtspositie korps politie BES;  
 
 g.  *werkgebied:* het openbaar lichaam Bonaire, Sint Eustatius of Saba;  
 
 h.  *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
-i.  *Rijkswet:* [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md).   
+i.  *Rijkswet:* Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba.   
 
 ### Hoofdstuk  2  
 
@@ -81,7 +81,7 @@ Door de korpsbeheerder politie regels gegeven met betrekking tot het aantal unif
 
 ### Artikel  8  
 
-Door Onze Minister kunnen regels en technische voorschriften worden vastgesteld met betrekking tot de aanschaf, de modellen en het dragen van dienstkleding ten behoeve van de ambtenaar van politie, bedoeld in [artikel 3, onder b, van de Rijkswet](../../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md). 
+Door Onze Minister kunnen regels en technische voorschriften worden vastgesteld met betrekking tot de aanschaf, de modellen en het dragen van dienstkleding ten behoeve van de ambtenaar van politie, bedoeld in artikel 3, onder b, van de Rijkswet. 
 
 ### Artikel  9  
 
@@ -131,7 +131,7 @@ De aan de ambtenaar van politie verstrekte uniformen, wapens en overige uitrusti
 
 ### Artikel  14  
 
-Voor de ambtenaar van politie gelden, en voor wat betreft de ambtenaar van politie, bedoeld in [artikel 3, onder a, van de Rijskwet](../../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) met inachtneming van de in [artikel 28 van het Besluit bewapening en overige uitrusting politie BES](../../../../../../../../../../AMvB-BES/besluit/bewapening/en/overige/uitrusting/politie/bes/BWBR0028588/README.md) genoemde onderscheidingstekens van de hoofdrangen, de volgende tenues: 
+Voor de ambtenaar van politie gelden, en voor wat betreft de ambtenaar van politie, bedoeld in artikel 3, onder a, van de Rijskwet met inachtneming van de in artikel 28 van het Besluit bewapening en overige uitrusting politie BES genoemde onderscheidingstekens van de hoofdrangen, de volgende tenues: 
 
 1. het dagelijkse tenue;  
 
@@ -283,7 +283,7 @@ c. twee opgezette borstzakken met stolpplooi en een driepuntige klep, gesloten m
 d. aan de schoudernaad bevestigde schouderpassanten van hetzelfde materiaal als van de korte jas;  
 
 e. lange mouwen, met aan de onderzijde daarvan twee kleine knopen.     
-3.  Op de korte jas worden de rangonderscheidingstekens aangebracht als voorgeschreven in [artikel 28 van het Besluit bewapening en overige uitrusting politie BES](../../../../../../../../../../AMvB-BES/besluit/bewapening/en/overige/uitrusting/politie/bes/BWBR0028588/README.md).   
+3.  Op de korte jas worden de rangonderscheidingstekens aangebracht als voorgeschreven in artikel 28 van het Besluit bewapening en overige uitrusting politie BES.   
 4.  De korte jas kan ook worden gedragen door de ambtenaar van politie die lid is van de politieharmonie of -drumband.  
 
 ### §  1.1.10  
@@ -318,7 +318,7 @@ e. lange mouwen, met aan de onderzijde daarvan twee kleine knopen.
 
 ### Artikel  31  
 
-Het tenue van de ambtenaren als bedoeld in [artikel 6, eerste lid, van het Besluit beheer politiekorps BES](../../../../../../../../../../AMvB-BES/besluit/beheer/politiekorps/bes/BWBR0028780/README.md) waarover het politiekorps beschikt, dan wel kan beschikken, bestaat uit: 
+Het tenue van de ambtenaren als bedoeld in artikel 6, eerste lid, van het Besluit beheer politiekorps BES waarover het politiekorps beschikt, dan wel kan beschikken, bestaat uit: 
 
 a. een donker blauwe (riotmodel) basisbroek;  
 
@@ -367,7 +367,7 @@ f. een split van ongeveer 20 cm. in de linker- en rechteruiteinden van de zijrug
 
 g. lange mouwen met drie kleine goudkleurige knopen aan de onderzijde daarvan.     
 3.  Ter hoogte van de rechterschouder wordt een goudkleurige gedeeltelijk gevlochten armkoord met aan de uiteinden twee goudkleurige metalen koordhouders.   
-4.  De schouderbedekkingen zijn gelijk aan die omschreven in [artikel 28 van het Besluit bewapening en overige uitrusting politie BES](../../../../../../../../../../AMvB-BES/besluit/bewapening/en/overige/uitrusting/politie/bes/BWBR0028588/README.md).  
+4.  De schouderbedekkingen zijn gelijk aan die omschreven in artikel 28 van het Besluit bewapening en overige uitrusting politie BES.  
 
 ### §  1.3  
 
@@ -419,7 +419,7 @@ De handboeien hebben het merk en type, zoals genoemd in bijlage B.
 
 ### Artikel  51  
 
-Onverminderd [artikel 12 van het Besluit bewapening en overige uitrusting politie BES](../../../../../../../../../../AMvB-BES/besluit/bewapening/en/overige/uitrusting/politie/bes/BWBR0028588/README.md) worden aan de desbetreffende ambtenaar van politie, bedoeld in [hoofdstuk 2 van het Besluit bewapening en overige uitrusting politie BES](../../../../../../../../../../AMvB-BES/besluit/bewapening/en/overige/uitrusting/politie/bes/BWBR0028588/README.md), een wapen, het daarbij behorende draagmiddel en munitie, zoals genoemd in bijlage B, verstrekt. 
+Onverminderd artikel 12 van het Besluit bewapening en overige uitrusting politie BES worden aan de desbetreffende ambtenaar van politie, bedoeld in hoofdstuk 2 van het Besluit bewapening en overige uitrusting politie BES, een wapen, het daarbij behorende draagmiddel en munitie, zoals genoemd in bijlage B, verstrekt. 
 
 ### §  2  
 
@@ -527,7 +527,7 @@ Door de korpsbeheerder politie wordt vastgesteld aan welke ambtenaar van politie
 
 ### Artikel  72  
 
-Deze regeling berust op [artikel 15 van de Veiligheidswet BES](../../../../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md), [artikel 78, eerste lid, van het Besluit rechtspositie korps politie BES](../../../../../../../../../../AMvB-BES/besluit/rechtspositie/korps/politie/bes/BWBR0028767/README.md) en [artikel 16 van het Besluit bewapening en overige uitrusting politie BES](../../../../../../../../../../AMvB-BES/besluit/bewapening/en/overige/uitrusting/politie/bes/BWBR0028588/README.md). 
+Deze regeling berust op artikel 15 van de Veiligheidswet BES, artikel 78, eerste lid, van het Besluit rechtspositie korps politie BES en artikel 16 van het Besluit bewapening en overige uitrusting politie BES. 
 
 ### Artikel  73  
 

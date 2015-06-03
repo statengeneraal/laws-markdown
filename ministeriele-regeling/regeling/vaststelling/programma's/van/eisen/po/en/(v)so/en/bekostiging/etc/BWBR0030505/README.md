@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 september 2011, nr. WJZ/323666 (2747), houdende de vaststelling van programma’s van eisen voor het basisonderwijs, het speciaal onderwijs en het voortgezet speciaal onderwijs en de bekostiging voor de materiële instandhouding van het samenwerkingsverband samenhangend met de inrichting van de zorgstructuur voor het jaar 2012 (Regeling vaststelling programma’s van eisen PO en (V)SO en bekostiging materiële instandhouding samenwerkingsverband 2012)
 
 De Minister van Onderwijs, Cultuur en Wetenschap,  
-Gelet op de [artikelen 113, eerste en vierde lid](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), en [118, vierde lid, van de Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 111, eerste en vierde lid, van de Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en artikel B18 van het Besluit trekkende bevolking WPO;
+Gelet op de artikelen 113, eerste en vierde lid, en 118, vierde lid, van de Wet op het primair onderwijs, artikel 111, eerste en vierde lid, van de Wet op de expertisecentra en artikel B18 van het Besluit trekkende bevolking WPO;
 Besluit:    
 
 ### Artikel  1  
@@ -12,15 +12,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a.  *WPO:* [Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md);  
+a.  *WPO:* Wet op het primair onderwijs;  
 
-b.  *WEC:* [Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
+b.  *WEC:* Wet op de expertisecentra;  
 
-c.  *basisschool:* basisschool als bedoeld in [artikel 1 van de WPO](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md);  
+c.  *basisschool:* basisschool als bedoeld in artikel 1 van de WPO;  
 
-d.  *speciale school voor basisonderwijs:* speciale school voor basisonderwijs als bedoeld in [artikel 1 van de WPO](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md);  
+d.  *speciale school voor basisonderwijs:* speciale school voor basisonderwijs als bedoeld in artikel 1 van de WPO;  
 
-e.  *school voor (voortgezet) speciaal onderwijs:* school als bedoeld in [artikel 1 van de WEC](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), niet zijnde een instelling als bedoeld in artikel 1 van de WEC.   
+e.  *school voor (voortgezet) speciaal onderwijs:* school als bedoeld in artikel 1 van de WEC, niet zijnde een instelling als bedoeld in artikel 1 van de WEC.   
 
 ### Artikel  2  
 
@@ -52,17 +52,17 @@ Het bedrag per formatieplaats, bedoeld in artikel B18 van het Besluit trekkende 
 
 De volgende regelingen worden ingetrokken: 
 
-a. [Regeling vaststellen bedragen programma’s van eisen basisonderwijs, (v)so en bekostiging materiële instandhouding samenwerkingsverband voor het jaar 2008](../../../../../../../../../../../../../ministeriele-regeling/regeling/vaststellen/bedragen/programma's/van/eisen/basisonderwijs/(v)so/etc/BWBR0022637/README.md);  
+a. Regeling vaststellen bedragen programma’s van eisen basisonderwijs, (v)so en bekostiging materiële instandhouding samenwerkingsverband voor het jaar 2008;  
 
-b. [Regeling vaststelling bedragen materiële instandhouding basisonderwijs, (v)so en samenwerkingsverband 2009](../../../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/bedragen/materiële/instandhouding/basisonderwijs/etc/BWBR0024587/README.md);  
+b. Regeling vaststelling bedragen materiële instandhouding basisonderwijs, (v)so en samenwerkingsverband 2009;  
 
-c. [Regeling vaststelling bedragen programma’s van eisen basisonderwijs, (v)so en bekostiging materiële instandhouding samenwerkingsverband voor het jaar 2010](../../../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/bedragen/programma's/van/eisen/basisonderwijs/(v)so/etc/BWBR0026442/README.md);  
+c. Regeling vaststelling bedragen programma’s van eisen basisonderwijs, (v)so en bekostiging materiële instandhouding samenwerkingsverband voor het jaar 2010;  
 
-d. [Regeling vaststelling bedragen programma’s van eisen basisonderwijs, (v)so en bekostiging materiële instandhouding samenwerkingsverband voor het jaar 2011](../../../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/bedragen/programma's/van/eisen/basisonderwijs/(v)so/etc/BWBR0028482/README.md);  
+d. Regeling vaststelling bedragen programma’s van eisen basisonderwijs, (v)so en bekostiging materiële instandhouding samenwerkingsverband voor het jaar 2011;  
 
-e. [Regeling vaststelling programma’s van eisen PO en (V)SO en bekostiging materiële instandhouding samenwerkingsverband 2007](../../../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/programma's/van/eisen/po/en/(v)so/en/bekostiging/etc/BWBR0020374/README.md);  
+e. Regeling vaststelling programma’s van eisen PO en (V)SO en bekostiging materiële instandhouding samenwerkingsverband 2007;  
 
-f. [Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 29 oktober 2007, nr. PO/BenB/07-42327, houdende het vaststellen van het bedrag per formatieplaats voor de bekostiging van de materiële voorzieningen ten behoeve van de instandhouding van rijdende scholen voor het jaar 2008](../../../../../../../../../../../../../ministeriele-regeling/vaststellingsregeling/bedrag/per/formatieplaats/bekostiging/materiële/etc/BWBR0022789/README.md) (Stcrt. 2007, 218).   
+f. Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 29 oktober 2007, nr. PO/BenB/07-42327, houdende het vaststellen van het bedrag per formatieplaats voor de bekostiging van de materiële voorzieningen ten behoeve van de instandhouding van rijdende scholen voor het jaar 2008 (Stcrt. 2007, 218).   
 
 ### Artikel  7  
 
@@ -143,7 +143,7 @@ Het bekostigingsbedrag voor het Nederlands onderwijs aan anderstaligen (Noat), o
 
 ####Bekostiging Fries
 
-De bekostiging van de kosten voor het onderwijs in de Friese taal wordt, ingevolge [artikel 134 tweede lid, van de Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) op een andere wijze dan via de programma’s van eisen vergoed aan de desbetreffende scholen, namelijk via het provinciebestuur Friesland. 
+De bekostiging van de kosten voor het onderwijs in de Friese taal wordt, ingevolge artikel 134 tweede lid, van de Wet op het primair onderwijs op een andere wijze dan via de programma’s van eisen vergoed aan de desbetreffende scholen, namelijk via het provinciebestuur Friesland. 
 
 ### 1.3.3  
 
@@ -179,13 +179,13 @@ Hierin is: Y = bekostiging per school per jaar Ya = bekostiging groepsafhankelij
 
 ####Aantal leerlingen (L) van een basisschool
 
-Het aantal leerlingen van een basisschool wordt bepaald volgens [artikel 134 van de Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md): Het aantal ongewogen leerlingen op 1 oktober van het voorafgaande jaar, verhoogd met 3%, waarbij het verkregen aantal naar beneden op een geheel getal wordt afgerond; of, als [artikel 134, zesde lid van de Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) van toepassing is: het feitelijke aantal leerlingen op 1 maart van het jaar waarvoor de bekostiging wordt verstrekt. 
+Het aantal leerlingen van een basisschool wordt bepaald volgens artikel 134 van de Wet op het primair onderwijs: Het aantal ongewogen leerlingen op 1 oktober van het voorafgaande jaar, verhoogd met 3%, waarbij het verkregen aantal naar beneden op een geheel getal wordt afgerond; of, als artikel 134, zesde lid van de Wet op het primair onderwijs van toepassing is: het feitelijke aantal leerlingen op 1 maart van het jaar waarvoor de bekostiging wordt verstrekt. 
 
 ### 1.4.3  
 
 ####Wijziging van het bepalen van het aantal groepen voor basisscholen.
 
-Met ingang van 1 augustus 2010 is [artikel 14 van het Besluit bekostiging WPO](../../../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) gewijzigd. Enerzijds betreft de wijziging een beperkte verhoging van het aantal leerlingen per groep. Daarmee vallen middelen vrij ten behoeve van de uitvoering van het amendement Jan Jacob van Dijk c.s. (Kamerstukken II 2008/09, 31700 VIII, nr. 79). Anderzijds heeft een technische aanpassing van de formule plaatsgevonden, waarmee deze qua presentatie beter past bij de wijze waarop de bekostiging voor personeelskosten wordt berekend. De oude formule, waarin het totaal van A, B, C en D werd gedeeld door 179, was nog afgeleid uit de toekenning van formatierekeneenheden zoals die in de declaratieperiode plaats vond. Het aangepaste artikel 14 luidt nu als volgt: 
+Met ingang van 1 augustus 2010 is artikel 14 van het Besluit bekostiging WPO gewijzigd. Enerzijds betreft de wijziging een beperkte verhoging van het aantal leerlingen per groep. Daarmee vallen middelen vrij ten behoeve van de uitvoering van het amendement Jan Jacob van Dijk c.s. (Kamerstukken II 2008/09, 31700 VIII, nr. 79). Anderzijds heeft een technische aanpassing van de formule plaatsgevonden, waarmee deze qua presentatie beter past bij de wijze waarop de bekostiging voor personeelskosten wordt berekend. De oude formule, waarin het totaal van A, B, C en D werd gedeeld door 179, was nog afgeleid uit de toekenning van formatierekeneenheden zoals die in de declaratieperiode plaats vond. Het aangepaste artikel 14 luidt nu als volgt: 
 
 ### Artikel  14  
 
@@ -193,25 +193,25 @@ Met ingang van 1 augustus 2010 is [artikel 14 van het Besluit bekostiging WPO](.
 
 ### artikel  
 
-####[134, zesde lid, van de wet](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md)
+####134, zesde lid, van de wet
 
-1. Het normatief bepaalde aantal te huisvesten groepen leerlingen van basisscholen, bedoeld in [artikel 134, vierde lid, onderdeel a, vijfde lid, onderdeel a, en zesde lid, onderdeel a, van de wet](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), wordt voor het jaar waarvoor de vergoeding voor de materiële voorzieningen ten behoeve van de instandhouding strekt, berekend volgens de volgende formule: het normatief bepaalde aantal te huisvesten groepen leerlingen = (A + B + C + D).  
+1. Het normatief bepaalde aantal te huisvesten groepen leerlingen van basisscholen, bedoeld in artikel 134, vierde lid, onderdeel a, vijfde lid, onderdeel a, en zesde lid, onderdeel a, van de wet, wordt voor het jaar waarvoor de vergoeding voor de materiële voorzieningen ten behoeve van de instandhouding strekt, berekend volgens de volgende formule: het normatief bepaalde aantal te huisvesten groepen leerlingen = (A + B + C + D).  
 
 2. De factoren A, B, C en D van de formule, bedoeld in het eerste lid, worden als volgt berekend: A = 0,05 x het aantal leerlingen in de leeftijd van 4 tot en met 7 jaar op de datum, bedoeld in het derde lid; B = 0,0343 x het aantal leerlingen in de leeftijd van 8 jaar en ouder op de datum, bedoeld in het derde lid; C = 1,5642 – (het aantal leerlingen op de datum, bedoeld in het derde lid, x 0,0115), met dien verstande dat C niet kleiner is dan nul; D = 0,0179 x het schoolgewicht, bedoeld in artikel 27, waarbij als teldatum wordt aangemerkt de datum, bedoeld in het derde lid.  
 
 3. De datum die dient als grondslag voor de vaststelling van het aantal leerlingen bij de berekening van de factoren A, B en C en als grondslag voor de vaststelling van het schoolgewicht bij de berekening van factor D, is: 
 
-a. indien [artikel 134, vierde lid, van de wet](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) van toepassing is: 1 oktober van het jaar voorafgaande aan het jaar waarover de vergoeding plaatsvindt;  
+a. indien artikel 134, vierde lid, van de wet van toepassing is: 1 oktober van het jaar voorafgaande aan het jaar waarover de vergoeding plaatsvindt;  
 
-b. indien [artikel 134, vijfde lid, van de wet](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) van toepassing is: 1 oktober in de periode waarover de vergoeding plaatsvindt;  
+b. indien artikel 134, vijfde lid, van de wet van toepassing is: 1 oktober in de periode waarover de vergoeding plaatsvindt;  
 
-c. indien [artikel 134, zesde lid, van de wet](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) van toepassing is: 1 maart van het jaar waarover de vergoeding plaatsvindt, met dien verstande dat bij de berekening van de factoren A en B wordt uitgegaan van de leeftijd van de desbetreffende leerlingen op 1 oktober van het daaraan voorafgaande jaar, waarbij de leerlingen die op 1 oktober van dat jaar 3 jaar waren, worden meegeteld bij de berekening van factor A.    
+c. indien artikel 134, zesde lid, van de wet van toepassing is: 1 maart van het jaar waarover de vergoeding plaatsvindt, met dien verstande dat bij de berekening van de factoren A en B wordt uitgegaan van de leeftijd van de desbetreffende leerlingen op 1 oktober van het daaraan voorafgaande jaar, waarbij de leerlingen die op 1 oktober van dat jaar 3 jaar waren, worden meegeteld bij de berekening van factor A.    
 
 4. Indien de school bestaat uit een hoofdvestiging en een of meer nevenvestigingen, wordt het eerste lid voor de hoofdvestiging en elke nevenvestiging afzonderlijk toegepast.  
 
 5. Het normatief bepaalde aantal te huisvesten groepen leerlingen wordt rekenkundig afgerond op een geheel getal.  
 
-6. Het bij algemene maatregel van bestuur vast te stellen aantal leerlingen, bedoeld in [artikel 134, zesde lid, van de wet](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), is 13.   
+6. Het bij algemene maatregel van bestuur vast te stellen aantal leerlingen, bedoeld in artikel 134, zesde lid, van de wet, is 13.   
 
 ### 1.4.4  
 
@@ -249,7 +249,7 @@ De totale mi-bekostiging is een lumpsumbekostiging met verschillende onderdelen 
 
 ####Groepsafhankelijke pve’s
 
-De in [artikel 114 van de Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) genoemde pve’s 
+De in artikel 114 van de Wet op het primair onderwijs genoemde pve’s 
 
 – a. onderhoud,  
 
@@ -267,7 +267,7 @@ De in [artikel 114 van de Wet op het primair onderwijs](../../../../../../../../
 
 ####Leerlingafhankelijke pve’s
 
-De in [artikel 114 van de Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) genoemde pve’s 
+De in artikel 114 van de Wet op het primair onderwijs genoemde pve’s 
 
 – d. middelen,  
 
@@ -283,15 +283,15 @@ Nederlands onderwijs aan anderstaligen (Noat) Dit pve geeft materiële ondersteu
 
 ####Extra bekostiging
 
-1. Voor speciale scholen voor basisonderwijs wordt voor 2% van de leerlingen in het samenwerkingsverband een extra bekostiging per leerling verstrekt van € 217,67 conform [artikel 115, eerste lid, van de Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md).  
+1. Voor speciale scholen voor basisonderwijs wordt voor 2% van de leerlingen in het samenwerkingsverband een extra bekostiging per leerling verstrekt van € 217,67 conform artikel 115, eerste lid, van de Wet op het primair onderwijs.  
 
-2. Voor basisscholen in een samenwerkingsverband zonder sbo wordt voor 2% van de leerlingen van de desbetreffende basisschool een extra bekostiging per basisschoolleerling verstrekt van € 217,67 conform [artikel 115, derde lid, van de Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md).   De berekening van de extra mi-bekostiging voor een speciale school voor basisonderwijs in een samenwerkingsverband (l)<sup> 2 Bedoeld in artikel 115, van de Wet op het primair onderwijs. </sup>is als volgt: l = p/q x (0,02 x r) x extra mi-bedrag per leerling. Voor het jaar 2011 is dit extra mi-bedrag vastgesteld op € 217,67. De componenten hebben de volgende inhoud: p = het aantal leerlingen van de speciale school voor basisonderwijs, voor zover dit aan het desbetreffende samenwerkingsverband is toe te rekenen, q = het totale aantal leerlingen van alle speciale scholen voor basisonderwijs die deelnemen aan het desbetreffende samenwerkingsverband, voor zover dit aan dat samenwerkingsverband is toe te rekenen, r = het totale aantal leerlingen van alle basisscholen en speciale scholen voor basisonderwijs die deelnemen aan het desbetreffende samenwerkingsverband, voor zover dit aan dat samenwerkingsverband is toe te rekenen. In deze rekenregel wordt de factor (0,02 x r) rekenkundig afgerond op een geheel getal. 
+2. Voor basisscholen in een samenwerkingsverband zonder sbo wordt voor 2% van de leerlingen van de desbetreffende basisschool een extra bekostiging per basisschoolleerling verstrekt van € 217,67 conform artikel 115, derde lid, van de Wet op het primair onderwijs.   De berekening van de extra mi-bekostiging voor een speciale school voor basisonderwijs in een samenwerkingsverband (l)<sup> 2 Bedoeld in artikel 115, van de Wet op het primair onderwijs. </sup>is als volgt: l = p/q x (0,02 x r) x extra mi-bedrag per leerling. Voor het jaar 2011 is dit extra mi-bedrag vastgesteld op € 217,67. De componenten hebben de volgende inhoud: p = het aantal leerlingen van de speciale school voor basisonderwijs, voor zover dit aan het desbetreffende samenwerkingsverband is toe te rekenen, q = het totale aantal leerlingen van alle speciale scholen voor basisonderwijs die deelnemen aan het desbetreffende samenwerkingsverband, voor zover dit aan dat samenwerkingsverband is toe te rekenen, r = het totale aantal leerlingen van alle basisscholen en speciale scholen voor basisonderwijs die deelnemen aan het desbetreffende samenwerkingsverband, voor zover dit aan dat samenwerkingsverband is toe te rekenen. In deze rekenregel wordt de factor (0,02 x r) rekenkundig afgerond op een geheel getal. 
 
 ### 2.5  
 
 ####Vaststelling overdrachtsverplichting
 
-Het gedeelte van de mi-bekostiging aan de centrale diensten dat in aanmerking komt voor de overdracht aan de speciale scholen voor basisonderwijs in een samenwerkingsverband op grond van [artikel 118, vijfde lid van de Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) bedraagt voor het jaar 2011 € 217,67 per leerling die boven de bedoelde 2% uitkomt (zie artikel 118, achtste lid, van de Wet op het primair onderwijs). 
+Het gedeelte van de mi-bekostiging aan de centrale diensten dat in aanmerking komt voor de overdracht aan de speciale scholen voor basisonderwijs in een samenwerkingsverband op grond van artikel 118, vijfde lid van de Wet op het primair onderwijs bedraagt voor het jaar 2011 € 217,67 per leerling die boven de bedoelde 2% uitkomt (zie artikel 118, achtste lid, van de Wet op het primair onderwijs). 
 
 ### 2.6  
 
@@ -481,7 +481,7 @@ Dit pve regelt de bekostiging voor zuiveringslasten, waterschapslasten, rioolrec
 
 ####Pve middelen
 
-a.  *Medezeggenschap*    Dit pve regelt de bekostiging voor de activiteiten in het kader van de [Wet medezeggenschap op scholen](../../../../../../../../../../../../../wet/wet/medezeggenschap/op/scholen/BWBR0020685/README.md). Een uitsplitsing van de kosten van deze activiteiten is niet te geven, omdat de werkelijke kosten samenhangen met de aard van de activiteiten en de betrokkenheid van de leden van de medezeggenschapsraad. Bij de andere pve’s is rekening gehouden met de invloed van de kosten die worden veroorzaakt door avondgebruik van vergaderruimte en dergelijke door de medezeggenschapsraad.  *Bekostigingsformule:* Y = € 9,58 + L x € 1,80 L = aantal leerlingen 
+a.  *Medezeggenschap*    Dit pve regelt de bekostiging voor de activiteiten in het kader van de Wet medezeggenschap op scholen. Een uitsplitsing van de kosten van deze activiteiten is niet te geven, omdat de werkelijke kosten samenhangen met de aard van de activiteiten en de betrokkenheid van de leden van de medezeggenschapsraad. Bij de andere pve’s is rekening gehouden met de invloed van de kosten die worden veroorzaakt door avondgebruik van vergaderruimte en dergelijke door de medezeggenschapsraad.  *Bekostigingsformule:* Y = € 9,58 + L x € 1,80 L = aantal leerlingen 
 
 b.  *Ouderbijdragen in het kader van de medezeggenschap*    Dit pve regelt de bekostiging voor de activiteiten van ouders in het kader van de medezeggenschap. Ook hier geldt dat de werkelijke kosten samenhangen met de aard van de activiteiten en de betrokkenheid van de medezeggenschapsraadleden. Daarom wordt uitgegaan van een genormeerd bedrag per school en per leerling. Bij de andere pve’s is rekening gehouden met de invloed van kosten die worden veroorzaakt door avondgebruik van vergaderruimte en dergelijke door de ouders die zitting hebben in de medezeggenschapsraad.  *Bekostigingsformule:* Y = € 9,58 + L x € 1,01 L = aantal leerlingen 
 
@@ -683,13 +683,13 @@ Y= Ya + Yb + Yc Waarbij: Y = bekostiging per school per jaar, Ya = bekostiging g
 
 ####Aantal leerlingen ( L)
 
-Het aantal leerlingen wordt bepaald volgens [artikel 128 van de Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md): het aantal leerlingen op 1 oktober van het voorafgaande jaar, dan wel, indien het zesde lid van het desbetreffende artikel van toepassing is, het aantal leerlingen op 16 januari van het jaar waarvoor de bekostiging wordt verstrekt. 
+Het aantal leerlingen wordt bepaald volgens artikel 128 van de Wet op de expertisecentra: het aantal leerlingen op 1 oktober van het voorafgaande jaar, dan wel, indien het zesde lid van het desbetreffende artikel van toepassing is, het aantal leerlingen op 16 januari van het jaar waarvoor de bekostiging wordt verstrekt. 
 
 ### 1.4.3  
 
 ####Aantal groepen leerlingen ( G)
 
-Het aantal groepen leerlingen wordt bepaald volgens [artikel 14 van het besluit bekostiging WEC](../../../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md): 
+Het aantal groepen leerlingen wordt bepaald volgens artikel 14 van het besluit bekostiging WEC: 
 
 1. Het normatief bepaalde aantal te huisvesten groepen leerlingen wordt voor het jaar waarvoor de mi-bekostiging voor de instandhouding strekt, berekend door het aantal leerlingen van de desbetreffende school en van een of meer daaraan verbonden afdelingen, op 1 oktober van het voorafgaande jaar, dan wel indien de groeiregeling van toepassing is, het aantal leerlingen van de desbetreffende school en afdelingen op 16 januari van dat jaar, te delen door de voor het desbetreffende onderwijs geldende factor N van de onderstaande tabel.  
 
@@ -712,7 +712,7 @@ Het aantal groepen leerlingen wordt bepaald volgens [artikel 14 van het besluit 
 
 2. Het normatief bepaalde aantal te huisvesten groepen leerlingen, bedoeld in het eerste lid, wordt voor het speciaal onderwijs en het voortgezet speciaal onderwijs, onderscheidenlijk het onderwijs aan een afdeling, afzonderlijk berekend en de uitkomst van de afzonderlijke berekeningen wordt naar boven afgerond op een geheel getal.  
 
-3. Voor scholen die, op grond van [artikel 76a van de Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), leerlingen hebben ingeschreven die toelaatbaar zijn verklaard tot een andere onderwijssoort binnen het REC, geldt dat een verbreed toegelaten leerling meetelt als leerling van de kernschool voor de bepaling van het aantal groepen.   
+3. Voor scholen die, op grond van artikel 76a van de Wet op de expertisecentra, leerlingen hebben ingeschreven die toelaatbaar zijn verklaard tot een andere onderwijssoort binnen het REC, geldt dat een verbreed toegelaten leerling meetelt als leerling van de kernschool voor de bepaling van het aantal groepen.   
 
 ### 1.4.4  
 
@@ -728,7 +728,7 @@ De mi-bekostiging voor de MG-scholen a (doof) en j (zmlk) resp. b (sh) en j (zml
 
 ####LZ-scholen en cluster 4
 
-Door een aanpassing van [artikel 14 van het Besluit bekostiging WEC](../../../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) is een onderscheid gemaakt in het onderwijs aan langdurig zieke kinderen, nl. 
+Door een aanpassing van artikel 14 van het Besluit bekostiging WEC is een onderscheid gemaakt in het onderwijs aan langdurig zieke kinderen, nl. 
 
 1. onderwijs aan langdurig zieke kinderen met een lichamelijke handicap (LZs), en  
 
@@ -746,7 +746,7 @@ Door een aanpassing van [artikel 14 van het Besluit bekostiging WEC](../../../..
 
 ####Groepsafhankelijke pve’s
 
-De in [artikel 112 van de Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) genoemde pve’s 
+De in artikel 112 van de Wet op de expertisecentra genoemde pve’s 
 
 a. onderhoud,  
 
@@ -775,7 +775,7 @@ c. publiekrechtelijke heffingen (met uitzondering van de onroerende zaakbelastin
 
 ####Leerlingafhankelijke pve’s
 
-De in [artikel 112 van de Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) genoemde pve’s 
+De in artikel 112 van de Wet op de expertisecentra genoemde pve’s 
 
 a. middelen,  
 
@@ -825,7 +825,7 @@ Voor deze schoolbaden is een bedrag voor de materiële instandhouding vastgestel
 
 ### *3. Bekostiging dienstreizen leerkrachten voor ambulante begeleiding van teruggeplaatste leerlingen.* 
 
-Dit is een aanvullende bekostiging voor dienstreizen voor de ambulante begeleiding van leerlingen, die in het direct voorafgaande schooljaar waren toegelaten tot een school, (geen instelling als bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), en die zonder dat voor hen nog een leerlinggebonden budget beschikbaar is, zijn teruggeplaatst naar een school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) (bo), of een school als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) dan wel een opleiding, genoemd in artikel 7.2.2, eerste lid onder a en b, van de Wet educatie en beroepsonderwijs (vo). Het bedrag per teruggeplaatste leerling is gesplitst naar onderwijssoort en schooltype waarnaar is teruggeplaatst.  
+Dit is een aanvullende bekostiging voor dienstreizen voor de ambulante begeleiding van leerlingen, die in het direct voorafgaande schooljaar waren toegelaten tot een school, (geen instelling als bedoeld in artikel 1 van de Wet op de expertisecentra, en die zonder dat voor hen nog een leerlinggebonden budget beschikbaar is, zijn teruggeplaatst naar een school als bedoeld in artikel 1 van de Wet op het primair onderwijs (bo), of een school als bedoeld in de Wet op het voortgezet onderwijs dan wel een opleiding, genoemd in artikel 7.2.2, eerste lid onder a en b, van de Wet educatie en beroepsonderwijs (vo). Het bedrag per teruggeplaatste leerling is gesplitst naar onderwijssoort en schooltype waarnaar is teruggeplaatst.  
 
 | onderwijssoort  | (s)bao  | vo  |
 |:---|:---|:---|
@@ -1080,7 +1080,7 @@ A = genormeerd aantal m<sup>2</sup> brutovloeroppervlakte
 
 ####Pve middelen
 
-a.  *Medezeggenschap*    Dit pve regelt de bekostiging voor de activiteiten in het kader van de [Wet medezeggenschap op scholen](../../../../../../../../../../../../../wet/wet/medezeggenschap/op/scholen/BWBR0020685/README.md). Er is geen uitsplitsing van de kosten van deze activiteiten, omdat de werkelijke kosten samenhangen met de aard van de activiteiten en de betrokkenheid van de leden van de medezeggenschapsraad. Bij de andere pve’s is rekening gehouden met de invloed van de kosten die worden veroorzaakt door avondgebruik van vergaderruimte en dergelijke door de medezeggenschapsraad.  *Bekostigingsformule:* Y = € 90,79 + L x € 1,38 L = aantal leerlingen 
+a.  *Medezeggenschap*    Dit pve regelt de bekostiging voor de activiteiten in het kader van de Wet medezeggenschap op scholen. Er is geen uitsplitsing van de kosten van deze activiteiten, omdat de werkelijke kosten samenhangen met de aard van de activiteiten en de betrokkenheid van de leden van de medezeggenschapsraad. Bij de andere pve’s is rekening gehouden met de invloed van de kosten die worden veroorzaakt door avondgebruik van vergaderruimte en dergelijke door de medezeggenschapsraad.  *Bekostigingsformule:* Y = € 90,79 + L x € 1,38 L = aantal leerlingen 
 
 b.  *Bijdragen aan ouders in het kader van de medezeggenschap*    Dit pve regelt de bekostiging voor de activiteiten van ouders in het kader van de medezeggenschap. Ook hier geldt dat de werkelijke kosten samenhangen met de aard van de activiteiten en de betrokkenheid van de medezeggenschapsraadleden. Daarom wordt uitgegaan van een genormeerd bedrag per school en per leerling. Bij de andere pve’s is rekening gehouden met de invloed van kosten die worden veroorzaakt door avondgebruik van vergaderruimte en dergelijke door de ouders die zitting hebben in de medezeggenschapsraad.  *Bekostigingsformule:* Y = € 90,79 + L x € 0,60 L = aantal leerlingen 
 

@@ -23,9 +23,9 @@ b.  *Minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties dan we
 
 c.  *stuk:* een schriftelijk stuk dat een besluit inhoudt of een ander schriftelijk stuk dat wordt toegerekend aan de Minister;  
 
-d.  *diensthoofd:* een directeur-generaal, het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst, de hoofddirecteur van de Dienst Concernstaf en Bedrijfsvoering of de Nationaal Commissaris Digitale Overheid;  
+d.  *diensthoofd:* een directeur-generaal, de hoofddirecteur van de Dienst Concernstaf en Bedrijfsvoering of de Nationaal Commissaris Digitale Overheid;  
 
-e.  *directeur:* de leidinggevende werkzaam binnen een in het Organisatiebesluit BZK 2012 genoemd dienstonderdeel die rechtstreeks ressorteert onder een directeur-generaal, het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst, de hoofddirecteur van de Dienst Concernstaf en Bedrijfsvoering of de Nationaal Commissaris Digitale Overheid;  
+e.  *directeur:* de leidinggevende werkzaam binnen een in het Organisatiebesluit BZK 2012 genoemd dienstonderdeel die rechtstreeks ressorteert onder een directeur-generaal, de hoofddirecteur van de Dienst Concernstaf en Bedrijfsvoering of de Nationaal Commissaris Digitale Overheid;  
 
 f.  *mandaat:* de bevoegdheid om namens de Minister besluiten te nemen en stukken af te doen en te ondertekenen;  
 
@@ -134,7 +134,7 @@ c. het vaststellen van de formatie van het Ministerie, bedoeld in artikel 3, twe
 
 d. het rechtstreeks leiding geven aan de diensthoofden en overige rechtstreeks onder de Secretaris-generaal ressorterende functionarissen, voor zover ten aanzien van de directeur-generaal voor de Algemene Bestuursdienst niet anders is bepaald;  
 
-e. het nader vaststellen van de inrichting van de onder de directeuren-generaal, het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst, de hoofddirecteur van de Dienst Concernstaf en Bedrijfsvoering en de Nationaal Commissaris Digitale Overheid ressorterende dienstonderdelen op grond van het Organisatiebesluit BZK 2012;  
+e. het nader vaststellen van de inrichting van de onder de directeuren-generaal, de hoofddirecteur van de Dienst Concernstaf en Bedrijfsvoering en de Nationaal Commissaris Digitale Overheid ressorterende dienstonderdelen op grond van het Organisatiebesluit BZK 2012;  
 
 f. aangelegenheden die op grond van bovendepartementale regelgeving of afspraken op centraal departementaal niveau dienen te worden afgehandeld;  
 
@@ -154,7 +154,7 @@ m. het vertegenwoordigen van de Minister namens de Staat in gerechtelijke proced
 
 n. het vaststellen van beleidsregels en circulaires met betrekking tot de aangelegenheden, bedoeld in dit artikel;  
 
-o. het beslissen op bezwaarschriften tegen de door het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst genomen besluiten met betrekking tot aanvragen als bedoeld in hoofdstuk 4 van de Wet op de inlichtingen- en veiligheidsdiensten 2002.   
+o. het beslissen op bezwaarschriften tegen de door de directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst genomen besluiten met betrekking tot aanvragen als bedoeld in hoofdstuk 4 van de Wet op de inlichtingen- en veiligheidsdiensten 2002.   
 
 ### Paragraaf  2  
 
@@ -226,7 +226,7 @@ j. het inschakelen van de Landsadvocaat voor ondersteuning of vertegenwoordiging
 
 ### Artikel  4.3  
 
-1.  Het mandaat van het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst omvat tevens de bevoegdheid om te besluiten op aanvragen als bedoeld in hoofdstuk 4 van de Wet op de inlichtingen- en veiligheidsdiensten 2002.   
+1.  Het mandaat van de directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst omvat tevens de bevoegdheid om te besluiten op aanvragen als bedoeld in hoofdstuk 4 van de Wet op de inlichtingen- en veiligheidsdiensten 2002.   
 2.  Het eerste lid is niet van toepassing op bezwaarschriften dienaangaande.  
 
 ### Artikel  4.4  
@@ -401,6 +401,14 @@ f. tot het geven van vakinhoudelijke instructies aan de P&O-afdelingen van alle 
 
 De directeur Communicatie is met inachtneming van dit besluit bevoegd om stukken af te doen en te ondertekenen met betrekking tot het aangaan van raamovereenkomsten inzake de inzet van media ten behoeve van departementale voorlichting en communicatie. 
 
+### Artikel  6.5a  
+
+De directeur Organisatie Personeelsbeleid Rijk is met inachtneming van dit besluit bevoegd om stukken af te doen en te ondertekenen die voortvloeien uit: 
+
+a. het centraal opdrachtgeverschap aan P-Direkt voor de uitvoering van de standaard dienstverlening;  
+
+b. het beheer van het budget dat in het kader van de centrale bekostiging is overgedragen.   
+
 ### Paragraaf  3  
 
 ####Beperkingen mandaat directeuren
@@ -536,8 +544,8 @@ b. de functies en namen van functionarissen die de Minister vertegenwoordigen in
 
 ### Artikel  8.3  
 
-1.  In afwijking van artikel 7.2, tweede lid, worden gegevens met betrekking tot de verlening van ondermandaat aan functionarissen in de rang van directeur en daaronder ressorterende functionarissen bij de Algemene Inlichtingen- en Veiligheidsdienst opgenomen in een door het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst bijgehouden mandaatregister.   
-2.  Het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst kan in overeenstemming met de Secretaris-generaal nadere regels stellen ten aanzien van het register, bedoeld in het eerste lid.  
+1.  In afwijking van artikel 7.2, tweede lid, worden gegevens met betrekking tot de verlening van ondermandaat aan functionarissen in de rang van directeur en daaronder ressorterende functionarissen bij de Algemene Inlichtingen- en Veiligheidsdienst opgenomen in een door de directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst bijgehouden mandaatregister.   
+2.  De directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst kan in overeenstemming met de Secretaris-generaal nadere regels stellen ten aanzien van het register, bedoeld in het eerste lid.  
 
 ### Artikel  8.4  
 

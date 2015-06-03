@@ -2412,13 +2412,9 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een woonfuncti
 
 ####Veiligheidszone en plasbrandaandachtsgebied, nieuwbouw
 
-Treedt in werking per 01-04-2015 
-
 ### Artikel  2.132  
 
 ####Aansturingsartikel
-
-Treedt in werking per 01-04-2015 
 
 1.  Een te bouwen bouwwerk in een veiligheidszone of plasbrandaandachtsgebied of boven de volle breedte van een basisnetroute indien de veiligheidszone slechts een deel van de breedte van die basisnetroute betreft is zodanig dat het risico dat voortvloeit uit het vervoer van gevaarlijke stoffen voor personen in het bouwwerk beperkt is.   
 2.  Aan de in het eerste lid gestelde eis wordt voldaan door toepassing van het voorschrift in deze afdeling en de krachtens die bepaling gegeven voorschriften.  
@@ -2427,15 +2423,11 @@ Treedt in werking per 01-04-2015
 
 ####Veiligheidszone en plasbrandaandachtsgebied
 
-Treedt in werking per 01-04-2015 
-
 Bij ministeriële regeling kunnen aan een bouwwerk in een veiligheidszone of een plasbrandaandachtsgebied of boven de volle breedte van een basisnetroute indien de veiligheidszone slechts een deel van de breedte van die basisnetroute betreft zodanige voorschriften worden gegeven dat personen beschermd zijn tegen gevolgen van een calamiteit op de weg, de spoorweg of het binnenwater waarbij gevaarlijke stoffen zijn betrokken. 
 
 ### Artikel  2.133a  
 
 ####Verbouw
-
-Treedt in werking per 01-04-2015 
 
 Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk is artikel 2.133 van overeenkomstige toepassing, waarbij in plaats van het in het krachtens dat artikel aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau. 
 
