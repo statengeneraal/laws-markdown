@@ -4205,12 +4205,12 @@ Voor de sluiting van het onderzoek vraagt de voorzitter aan de verdachte die op 
 
 Het proces-verbaal wordt door den voorzitter of door een der rechters, die over de zaak heeft geoordeeld, en den griffier vastgesteld en zoo spoedig mogelijk na de sluiting van het onderzoek ter terechtzitting en in elk geval binnen den in het eerste lid van artikel 365 vermelden termijn onderteekend. Voor zoover de griffier tot een en ander buiten staat is, geschiedt dit zonder zijne medewerking en wordt van zijne verhindering aan het slot van het proces-verbaal melding gemaakt.  
 
-###Artikel 327a 
+### Artikel  327a  
 
-1. Behoudens in het geval omschreven in het tweede lid, kan een verkort proces-verbaal worden opgemaakt.
-2. Indien het vonnis bij verstek is gewezen en de dagvaarding niet in persoon is betekend en zich geen omstandigheid heeft voorgedaan waaruit voortvloeit dat de dag van de terechtzitting of nadere terechtzitting aan de verdachte bekend was, terwijl op de terechtzitting getuigen of deskundigen zijn gehoord dan wel een benadeelde partij zich in het strafproces heeft gevoegd, wordt, in afwijking van het eerste lid, een proces-verbaal opgemaakt dat aan de eisen van artikel 326 voldoet.
-3. Indien tegen het vonnis een gewoon rechtsmiddel wordt aangewend of aan een vordering of verzoek als omschreven in artikel 365c gevolg wordt gegeven, wordt het verkorte proces-verbaal zodanig aangevuld, dat het voldoet aan de in artikel 326 gestelde eisen. De aanvulling vindt plaats binnen de in artikel 365*a*, derde lid, bepaalde termijnen. 
-4. Artikel 365, derde tot en met vijfde lid, is van overeenkomstige toepassing.
+1. Behoudens in het geval omschreven in het tweede lid, kan een verkort proces-verbaal worden opgemaakt.  
+2.  Indien het vonnis bij verstek is gewezen en de dagvaarding niet in persoon is betekend en zich geen omstandigheid heeft voorgedaan waaruit voortvloeit dat de dag van de terechtzitting of nadere terechtzitting aan de verdachte bekend was, terwijl op de terechtzitting getuigen of deskundigen zijn gehoord dan wel een benadeelde partij zich in het strafproces heeft gevoegd, wordt, in afwijking van het eerste lid, een proces-verbaal opgemaakt dat aan de eisen van artikel 326 voldoet.   
+3.  Indien tegen het vonnis een gewoon rechtsmiddel wordt aangewend of aan een vordering of verzoek als omschreven in artikel 365c gevolg wordt gegeven, wordt het verkorte proces-verbaal zodanig aangevuld, dat het voldoet aan de in artikel 326 gestelde eisen. De aanvulling vindt plaats binnen de in artikel 365*a*, derde lid, bepaalde termijnen.    
+4.  Artikel 365, derde tot en met vijfde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  328  
 

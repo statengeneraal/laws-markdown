@@ -84,7 +84,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ###Artikel 1a 
 
-Dit besluit berust tevens op de artikelen 1.5 en 2.9, tweede en vierde lid, van de wet.
+Dit besluit berust tevens op de artikelen 1.5, 2.9, tweede en vierde lid, en 7.6 van de wet.
 
 ### Artikel  1b  
 
@@ -140,6 +140,22 @@ b. vaart bij nacht is slechts toegestaan, indien de houder ten minste twee opsti
 4.  Een AML wordt slechts afgegeven wanneer ten minste één bijzondere bevoegdverklaring daarop is weergegeven.   
 5.  De bevoegdheden die voortvloeien uit een bewijs van bevoegdheid zijn steeds beperkt tot die typen of klassen luchtvaartuigen of tot die werkzaamheden waarvoor een bijzondere bevoegdverklaring is afgegeven   
 6.  Een bewijs van bevoegdheid wordt afgegeven voor onbepaalde duur.  
+
+### Artikel  2a  
+
+1.  In dit artikel wordt onder de bewijzen van bevoegdheid als recreatief vlieger (LAPL), bewijs van bevoegdheid voor luchtballonnen (BPL) en bewijs van bevoegdheid voor zweefvliegtuigen (SPL) verstaan hetgeen daaronder wordt verstaan in verordening (EU) 1178/2011.   
+2.  Onverminderd artikel 2, eerste lid, kan Onze Minister de bewijzen van bevoegdheid LAPL, BPL en SPL afgeven.   
+3.  Een bewijs van bevoegdheid LAPL kan worden afgegeven voor de categorieën luchtvaartuigen: vleugelvliegtuigen (A), helikopters (H), zweefvliegtuigen (S) en luchtballonnen (B).   
+4.  Aan houders van de in het tweede lid bedoelde bewijzen van bevoegdheid of de bewijzen van bevoegdheid PPL, CPL, MPL en ATPL, bedoeld in de respectievelijke subdelen C, D, E en F van bijlage I van verordening (EU) 1178/2011, kan Onze Minister één of meer van de volgende extra bevoegdverklaringen, bedoeld in bijlage I van verordening (EU) 1178/2011, verlenen: 
+
+a. de bevoegdverklaring voor stuntvliegen (subdeel I, artikel FCL.800);  
+
+b. de bevoegdverklaring voor het slepen van zweefvliegtuigen en banners (subdeel I, artikel FCL.805);  
+
+c. de bevoegdverklaring voor het vliegen in bergachtige gebieden (subdeel I, artikel FCL.815);  
+
+d. de bevoegdverklaring voor het geven van vlieginstructie voor instructeurs voor het vliegen in bergachtige gebieden (subdeel J, sectie 10).     
+5.  In afwijking van dit hoofdstuk zijn op de bewijzen van bevoegdheid BPL, LAPL en SPL uitsluitend de desbetreffende bepalingen van verordening (EU) 1178/2011 van overeenkomstige toepassing van 1 mei 2014 tot 8 april 2018.  
 
 ### Artikel  3  
 
@@ -564,6 +580,14 @@ Zolang in een vacature in de Adviescommissie niet is voorzien, vormen de overbli
 
 1.  Indien een bewijs van bevoegdheid of een bevoegdverklaring is geschorst op één van de in artikel 2.5, eerste lid, onderdeel a of b van de wet genoemde gronden, kan Onze Minister bepalen dat de houder zich opnieuw aan een door Onze Minister te bepalen examen onderwerpt. Het examen kan beperkt blijven tot één of enkele onderdelen.   
 2.  Indien een bewijs van bevoegdheid of een bevoegdverklaring is geschorst op grond van artikel 2.5, eerste lid, onderdeel c, wordt de schorsing opgeheven bij opnieuw gebleken medische geschiktheid.  
+
+### Hoofdstuk  5a  
+
+####Uitvoering van internationale verplichtingen
+
+### Artikel  36a  
+
+De hoogte en de wijze van betaling van de vergoeding voor de kosten voor handelingen in het kader van de uitvoering van internationale overeenkomsten gesloten door de Europese Unie en internationale overeenkomsten gesloten door Nederland met derde landen, voor zover dit besluit hier niet reeds in voorziet, wordt bij ministeriële regeling vastgesteld. 
 
 ### Hoofdstuk  6  
 

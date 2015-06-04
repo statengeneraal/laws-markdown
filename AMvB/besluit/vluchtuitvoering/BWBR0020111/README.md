@@ -25,12 +25,12 @@ Artikel 4.1, tweede lid, laatste zin, van de Wet luchtvaart is niet van toepassi
 
 ### Artikel  2  
 
-1.  Onze Minister van Verkeer en Waterstaat geeft op aanvraag een AOC af indien wordt voldaan aan: 
+1.  Onze Minister van Infrastructuur en Milieu geeft op aanvraag een AOC af indien wordt voldaan aan: 
 
 a. voor vluchten met een vliegtuig: bijlage III bij EG-verordening 3922/91;  
 
 b. voor vluchten met een helikopter: JAR-OPS 3.     
-2.  Onze Minister van Verkeer en Waterstaat maakt de tekst van JAR-OPS 3 bekend middels een mededeling in de Staatscourant waarin is aangegeven waar de tekst ter inzage is gelegd. Van een wijziging in de tekst wordt eveneens mededeling gedaan in de Staatscourant.   
+2.  Onze Minister van Infrastructuur en Milieu maakt de tekst van JAR-OPS 3 bekend middels een mededeling in de Staatscourant waarin is aangegeven waar de tekst ter inzage is gelegd. Van een wijziging in de tekst wordt eveneens mededeling gedaan in de Staatscourant.   
 3.  Bij ministeriële regeling kunnen ten aanzien van de gegevens, die bij een aanvraag om afgifte of wijziging dan wel het instandhouden van een AOC dienen te worden verstrekt, regels worden gesteld.   
 4.  Een AOC wordt afgegeven voor onbepaalde tijd.  
 
@@ -42,6 +42,10 @@ b. voor vluchten met een helikopter: JAR-OPS 3.
 ### Artikel  5  
 
 Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de vergoedingen, die verschuldigd zijn voor de kosten van de behandeling van een aanvraag om afgifte van een AOC, een wijziging dan wel het instandhouden daarvan. 
+
+### Artikel  5a  
+
+De hoogte en de wijze van betaling van de vergoeding voor de kosten voor handelingen in het kader van de uitvoering van internationale overeenkomsten gesloten door de Europese Unie en internationale overeenkomsten gesloten door Nederland met derde landen, voor zover dit besluit hier niet reeds in voorziet, wordt bij ministeriële regeling vastgesteld. 
 
 ### Artikel  6  
 
