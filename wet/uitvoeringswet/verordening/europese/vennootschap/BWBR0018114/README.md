@@ -39,8 +39,8 @@ Ten behoeve van de verplaatsing van de statutaire zetel naar een andere lidstaat
 
 ### Artikel  6  
 
-1.  Als register voor de inschrijving van een Europese naamloze vennootschap met statutaire zetel in Nederland of van een Nederlandse nevenvestiging van een Europese naamloze vennootschap wordt aangewezen: het handelsregister bedoeld in [artikel 2 van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md).   
-2.  Bij inschrijving van de zetelverplaatsing van een Europese naamloze vennootschap naar Nederland wordt een notariële akte die de statuten van de vennootschap bevat en is verleden door een notaris met standplaats in Nederland neergelegd ten kantore van het handelsregister. De [artikelen 65](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [69 van boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn van overeenkomstige toepassing.  
+1.  Als register voor de inschrijving van een Europese naamloze vennootschap met statutaire zetel in Nederland of van een Nederlandse nevenvestiging van een Europese naamloze vennootschap wordt aangewezen: het handelsregister bedoeld in artikel 2 van de Handelsregisterwet 2007.   
+2.  Bij inschrijving van de zetelverplaatsing van een Europese naamloze vennootschap naar Nederland wordt een notariële akte die de statuten van de vennootschap bevat en is verleden door een notaris met standplaats in Nederland neergelegd ten kantore van het handelsregister. De artikelen 65 en 69 van boek 2 van het Burgerlijk Wetboek zijn van overeenkomstige toepassing.  
 
 ### Artikel  7  
 
@@ -68,11 +68,11 @@ De naamloze vennootschap met statutaire zetel in Nederland die overeenkomstig ar
 ### Artikel  11  
 
 1.  De benoeming van de leden van het leidinggevend orgaan geschiedt door het toezichthoudend orgaan, tenzij in de statuten is bepaald dat benoeming geschiedt door de algemene vergadering.   
-2.  Voor de toepassing van artikel 39, tweede lid, van de Verordening zijn de [artikelen 133](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [134 van boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van overeenkomstige toepassing op de Europese naamloze vennootschap met statutaire zetel in Nederland.  
+2.  Voor de toepassing van artikel 39, tweede lid, van de Verordening zijn de artikelen 133 en 134 van boek 2 van het Burgerlijk Wetboek van overeenkomstige toepassing op de Europese naamloze vennootschap met statutaire zetel in Nederland.  
 
 ###Artikel 12 
 
-Voor de toepassing van artikel 39, derde lid, van de Verordening is [artikel 134, vierde lid, van boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van overeenkomstige toepassing op de Europese naamloze vennootschap met statutaire zetel in Nederland.
+Voor de toepassing van artikel 39, derde lid, van de Verordening is artikel 134, vierde lid, van boek 2 van het Burgerlijk Wetboek van overeenkomstige toepassing op de Europese naamloze vennootschap met statutaire zetel in Nederland.
 
 ### Artikel  13  
 
@@ -88,7 +88,7 @@ Voor de toepassing van artikel 54 van de Verordening geldt dat de eerste algemen
 
 ### Artikel  16  
 
-Voor de toepassing van artikel 56 van de Verordening is [artikel 114a van boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van overeenkomstige toepassing op een Europese naamloze vennootschap met statutaire zetel in Nederland. 
+Voor de toepassing van artikel 56 van de Verordening is artikel 114a van boek 2 van het Burgerlijk Wetboek van overeenkomstige toepassing op een Europese naamloze vennootschap met statutaire zetel in Nederland. 
 
 ### Artikel  17  
 

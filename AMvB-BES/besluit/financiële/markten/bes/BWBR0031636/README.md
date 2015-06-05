@@ -204,7 +204,7 @@ d. voor verzekeraars: de bij of krachtens de artikelen 4:25 en 4:28 tot en met 4
 
 ####(financiële onderneming met zetel in het buitenland)
 
-1.  Een financiële onderneming met zetel in het buitenland verstrekt bij de aanvraag van een vergunning gegevens en bescheiden op basis waarvan de toezichtautoriteit kan beoordelen of zal worden voldaan aan, voor zover op de betrokken financiële onderneming van toepassing, de bij of krachtens de artikelen 3:4 tot en met 3:6, 3:8 tot en met 3:13, 3:23 en 3:24 van de wet gestelde regels, alsmede: 
+1.  Een financiële onderneming met zetel in het buitenland verstrekt bij de aanvraag van een vergunning gegevens en bescheiden op basis waarvan de toezichtautoriteit kan beoordelen of zal worden voldaan aan, voor zover op de betrokken financiële onderneming van toepassing, de bij of krachtens de artikelen 3:4 tot en met 3:6, 3:8 tot en met 3:13, 3:23, 3:24 en 3:34 van de wet gestelde regels, alsmede: 
 
 a. voor beleggingsinstellingen: de bij of krachtens de artikelen 4:1 tot en met 4:5 en 4:10 van de wet gestelde regels;  
 
@@ -1640,7 +1640,7 @@ m. het kredietvergoedingspercentage met een beschrijving van de hierin opgenomen
 
 n. de voorwaarden inzake de bevoegdheid van de consument tot volledige of gedeeltelijke vervroegde aflossing;  
 
-o. de vergoeding die verschuldigd wordt, indien de consument, na ingebrekestelling, nalatig blijft in zijn verplichting tot betaling, onder vermelding van de hoogst toegestane vertragingsvergoeding op grond van artikel 5:15, eerste lid, van de wet;  
+o. het percentage dat wordt toegepast ter berekening van de vertragingsvergoeding die verschuldigd wordt, indien de consument, na ingebrekestelling, nalatig blijft in zijn verplichting tot betaling, onder vermelding van de hoogst toegestane vertragingsvergoeding op grond van artikel 5:15, eerste lid, van de wet, alsmede de in voorkomend geval in rekening te brengen buitengerechtelijke incassokosten;  
 
 p. de wijze waarop de consument gebruik kan maken van zijn recht, bedoeld in artikel 5:17 van de wet, om de overeenkomst te ontbinden;  
 
@@ -1818,9 +1818,9 @@ Een schadeverzekeraar met zetel in het buitenland die door middel van het verric
 2.  Een kredietaanbieder verstrekt aan een consument geen krediet, voor zover de aan dat krediet verbonden maandelijkse financieringlasten de maandelijkse financieringsruimte van de consument overschrijden.   
 3.  De maandelijkse financieringsruimte, bedoeld in het tweede lid, bedraagt: 
 
-a. indien de netto-inkomsten van de consument niet meer bedragen dan diens leefbedrag: 5% van het op hem van toepassing zijnde normbedrag;  
+a. indien de netto-inkomsten van de consument niet meer bedragen dan diens leefbedrag: 6% van het op hem van toepassing zijnde normbedrag;  
 
-b. indien de netto-inkomsten van de consument meer bedragen dan diens leefbedrag: de som van 5% van het op hem van toepassing zijnde normbedrag en een bedrag dat gelijk is aan [(netto-inkomsten – leefbedrag)<sup>2</sup> / netto-inkomsten].     
+b. indien de netto-inkomsten van de consument meer bedragen dan diens leefbedrag: de som van 6% van het op hem van toepassing zijnde normbedrag en een bedrag dat gelijk is aan [(netto-inkomsten – leefbedrag)<sup>2</sup> / netto-inkomsten].     
 4.  Indien de consument reeds andere kredietovereenkomsten is aangegaan, worden de op maandbasis aan die andere overeenkomsten verbonden financieringslasten in mindering gebracht op zijn ingevolge het derde lid berekende financieringsruimte.   
 5.  Het leefbedrag, bedoeld in het derde lid, wordt bepaald door het op de consument van toepassing zijnde normbedrag te verminderen met het bijbehorende bedrag aan forfaitaire woonlasten en te vermeerderen met de werkelijke woonlasten van de consument.   
 6.  Het normbedrag, bedoeld in het derde lid, wordt vastgesteld bij regeling van Onze minister en bestaat uit een forfaitair bedrag aan woonlasten en een forfaitair bedrag aan overige vaste lasten. Dit normbedrag kan verschillend worden vastgesteld voor de verschillende huishoudensamenstellingen, alsmede voor de verschillende openbare lichamen, en kan periodiek worden herzien.   
@@ -1878,9 +1878,11 @@ De ten hoogste toegelaten vertragingsvergoeding wordt bij regeling van Onze mini
 
 ### Artikel  7:22  
 
-####(provisie assurantiebemiddelaars)
+####(provisie tussenpersonen)
 
-De beloning van een assurantiebemiddelaar bestaat, behoudens artikel 7:23, tweede lid, uitsluitend uit provisie ter zake van het bemiddelen bij het afsluiten van verzekeringen, het bemiddelen bij het verlengen van verzekeringen of het incasseren van premies. 
+1. De beloning van een assurantiebemiddelaar bestaat, behoudens artikel 7:23, tweede lid, uitsluitend uit provisie ter zake van het bemiddelen bij het afsluiten van verzekeringen, het bemiddelen bij het verlengen van verzekeringen of het incasseren van premies.  
+2.  De in het eerste lid bedoelde provisie staat in een redelijke verhouding tot de werkzaamheden die noodzakelijk zijn voor een adequate dienstverlening of die bijdragen aan de kwaliteit van de dienstverlening.   
+3.  Het tweede lid is van overeenkomstige toepassing op de provisie die een aanbieder van een financieel product, niet zijnde een verzekering, voor het bemiddelen of adviseren inzake dat financiële product verschaft. 
 
 ### Artikel  7:23  
 

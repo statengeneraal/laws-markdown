@@ -36,7 +36,7 @@ Indien van een beslissing inzake onderhoud, gegeven in een land, dat partij is b
 ### Artikel  8  
 
 1.  De ontvangende instelling behoeft, in rechte optredend ter uitvoering van de hun bij of krachtens deze wet opgedragen taak, niet de bijstand van een advocaat, tenzij de procedure aanvangt met een dagvaarding.   
-2.   De verzoeker wordt, onverminderd [artikel 79, tweede lid van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), geacht woonplaats te hebben gekozen ten kantore van de ontvangende instelling. Alle stukken, voor hem bestemd en zijn onderhoudsaanspraak betreffend, kunnen aldaar worden betekend.  
+2.   De verzoeker wordt, onverminderd artikel 79, tweede lid van het Wetboek van Burgerlijke Rechtsvordering, geacht woonplaats te hebben gekozen ten kantore van de ontvangende instelling. Alle stukken, voor hem bestemd en zijn onderhoudsaanspraak betreffend, kunnen aldaar worden betekend.  
 
 ###Artikel 9 
 

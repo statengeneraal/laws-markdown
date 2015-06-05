@@ -15,7 +15,7 @@ Voor de toepassing van de artikelen 1 tot en met 8 van deze wet wordt onder "Ver
 
 ### Artikel  2  
 
-Ter uitvoering van artikel 39 van de Verordening wordt als register voor de inschrijving van een Europees economisch samenwerkingsverband met zetel in Nederland of van een Nederlandse vestiging van een ander Europees economisch samenwerkingsverband aangewezen: het handelsregister bedoeld in [artikel 2 van de Handelsregisterwet 2007](../../../../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md). 
+Ter uitvoering van artikel 39 van de Verordening wordt als register voor de inschrijving van een Europees economisch samenwerkingsverband met zetel in Nederland of van een Nederlandse vestiging van een ander Europees economisch samenwerkingsverband aangewezen: het handelsregister bedoeld in artikel 2 van de Handelsregisterwet 2007. 
 
 ###Artikel 3 
 

@@ -46,7 +46,7 @@ De instantie aangewezen voor de waarmerking van een authentieke akte als Europes
 ### Artikel  8  
 
 1.  Ten aanzien van beslissingen over niet-betwiste schuldvorderingen in de zin van de verordening kan de schuldenaar een verzoek tot heroverweging doen bij het gerecht dat de beslissing heeft gegeven op de gronden genoemd in artikel 19, eerste lid, onder a en b, van de verordening.   
-2.  Betreft de beslissing een vonnis of arrest, dan wordt het verzoek tot heroverweging gedaan bij verzetexploot als bedoeld in [artikel 146 Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md).   
+2.  Betreft de beslissing een vonnis of arrest, dan wordt het verzoek tot heroverweging gedaan bij verzetexploot als bedoeld in artikel 146 Wetboek van Burgerlijke Rechtsvordering.   
 3.  Betreft de beslissing een beschikking, dan wordt verzoek tot heroverweging gedaan bij verzoekschrift.   
 4.  Het beroep moet worden ingesteld: 
 
@@ -56,7 +56,7 @@ b. in het geval bedoeld onder artikel 19, eerste lid, onder b, van de verordenin
 
 ### Artikel  9  
 
-Het afschrift van de beslissing, de schikking of authentieke akte, als bedoeld in artikel 20, tweede lid, onder a, van de verordening en het afschrift van het bewijs van waarmerking als Europese executoriale titel als bedoeld onder artikel 20, tweede lid, onder b, van de verordening, worden tezamen aangemerkt als grosse voor de toepassing van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) op een door een buitenlands gerecht of een buitenlandse bevoegde autoriteit ingevolge de verordening als Europese executoriale titel gewaarmerkte beslissing. 
+Het afschrift van de beslissing, de schikking of authentieke akte, als bedoeld in artikel 20, tweede lid, onder a, van de verordening en het afschrift van het bewijs van waarmerking als Europese executoriale titel als bedoeld onder artikel 20, tweede lid, onder b, van de verordening, worden tezamen aangemerkt als grosse voor de toepassing van het Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering op een door een buitenlands gerecht of een buitenlandse bevoegde autoriteit ingevolge de verordening als Europese executoriale titel gewaarmerkte beslissing. 
 
 ### Artikel  10  
 
@@ -65,7 +65,7 @@ Het afschrift van de beslissing, de schikking of authentieke akte, als bedoeld i
 
 ### Artikel  11  
 
-1.  Op verzoeken inzake de tenuitvoerlegging, als bedoeld in artikel 21 en 23 van de verordening, is [artikel 438 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van toepassing.   
+1.  Op verzoeken inzake de tenuitvoerlegging, als bedoeld in artikel 21 en 23 van de verordening, is artikel 438 van het Wetboek van Burgerlijke Rechtsvordering van toepassing.   
 2.  Bij rectificatie van het bewijs van waarmerking als bedoeld in artikel 10 van de verordening of afgifte van een vervangend bewijs van waarmerking als bedoeld in artikel 6, derde lid, van de verordening, kan een in Nederland reeds aangevangen executie van een door een daartoe bevoegde autoriteit van een andere lidstaat als Europese executoriale titel gewaarmerkte beslissing, gerechtelijke schikking of authentieke akte slechts worden voortgezet met inachtneming van de rectificatie of de in het vervangend bewijs van waarmerking opgenomen wijzigingen ten opzichte van het eerder verstrekte bewijs van waarmerking.   
 3.  De bevoegdheid tot executie in Nederland van een door een daartoe bevoegde autoriteit van een andere lidstaat als Europese executoriale titel gewaarmerkte beslissing, gerechtelijke schikking of authentieke akte, eindigt van rechtswege door intrekking van het bewijs van waarmerking als Europese executoriale titel. Was de executie van een als Europese executoriale titel gewaarmerkte beslissing, gerechtelijke schikking of authentieke akte in Nederland reeds aangevangen, dan wordt deze onmiddellijk beëindigd.  
 

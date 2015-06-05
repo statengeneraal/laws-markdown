@@ -3,14 +3,14 @@
 ##Regeling van de Minister van Infrastructuur en Milieu, van 13 juni 2012, nr. IENM/BSK-2012/101212, houdende vaststelling van tijdelijke regels met betrekking tot de keuring van Nederlands gekentekende motorrijtuigen en aanhangwagens en de afgifte van een keuringsbewijs door buitenlandse keuringsinstanties (Tijdelijke regeling buitenlandse APK)
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op [artikel 23h, tweede lid, van het Besluit Voertuigen](../../../../../../AMvB/besluit/voertuigen/BWBR0025554/README.md);
+Gelet op artikel 23h, tweede lid, van het Besluit Voertuigen;
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-*besluit:* [Besluit Voertuigen](../../../../../../AMvB/besluit/voertuigen/BWBR0025554/README.md).   
+*besluit:* Besluit Voertuigen.   
 
 ### Artikel  2  
 

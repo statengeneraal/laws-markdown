@@ -3,7 +3,7 @@
 ##Organisatieregeling Kadaster 2008
 
 Het bestuur van de Dienst voor het kadaster en de openbare registers,  
-Gelet op [artikel 4 van de Kadasterwet](../../../../../wet/kadasterwet/BWBR0004541/README.md) en [artikel 7, eerste lid, van de Organisatiewet Kadaster](../../../../../wet/organisatiewet/kadaster/BWBR0006463/README.md);
+Gelet op artikel 4 van de Kadasterwet en artikel 7, eerste lid, van de Organisatiewet Kadaster;
 Besluit:    
 
 ###Artikel 1 
@@ -23,7 +23,7 @@ De teboekstelling van schepen en luchtvaartuigen en daarmee samenhangende verric
 
 ### Artikel  4  
 
-De [Organisatieregeling Kadaster 2006](../../../../../zbo/organisatieregeling/kadaster/2006/BWBR0021870/README.md) wordt ingetrokken. 
+De Organisatieregeling Kadaster 2006 wordt ingetrokken. 
 
 ### Artikel  5  
 

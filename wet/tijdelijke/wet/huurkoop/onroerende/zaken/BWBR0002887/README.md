@@ -19,7 +19,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 1. Huurkoop wordt aangegaan bij notariële akte.
 2.  De notaris is verplicht in de akte te vermelden dat op de gesloten overeenkomst onder meer van toepassing is de Tijdelijke wet huurkoop onroerende zaken. De notaris is voorts verplicht in de akte te vermelden dat op voet van die wet: 
 
-a.de huurkoopovereenkomst kan worden ingeschreven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md);
+a.de huurkoopovereenkomst kan worden ingeschreven in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek;
 
 b.de huurkoper een beroep op de rechter kan doen tot wijziging van de overeenkomst, indien een wanverhouding bestaat tussen de verplichtingen en de rechten, welke voor de huurkoper uit de overeenkomst voortvloeien.
 3.  De notaris is bovendien verplicht in de akte ten minste te vermelden: 
@@ -42,7 +42,7 @@ b.de data, waarop de huurkoper de verschuldigde bedragen dient te betalen.
 
 ###Artikel 4 
 
-1. In de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), kunnen worden ingeschreven: 
+1. In de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek, kunnen worden ingeschreven: 
 
 a.de akte van huurkoop, bedoeld in artikel 2, eerste lid;
 
@@ -55,13 +55,13 @@ d.de instelling van een rechtsvordering overeenkomstig artikel 2, vierde lid, of
 
 ### Artikel  5  
 
-1.  Overdracht van het in huurkoop verkochte goed, voor zover deze niet voortvloeit uit een reeds eerder ingeschreven akte van huurkoop, of bezwaring daarvan na een inschrijving als bedoeld in artikel 4, eerste lid, onder a, b of d, werkt niet ten nadele van de huurkoper, tenzij de overdracht plaatsvindt ten gevolge van een executoriale verkoop door een hypotheekhouder of beslaglegger die hun recht daartoe ontlenen aan een hypotheekakte of proces-verbaal van inbeslagneming, ingeschreven in de openbare registers vóór de in artikel 4, eerste lid, onder a, b of d, genoemde inschrijving. Indien de in artikel 4, eerste lid, onder a, b of d, genoemde inschrijving plaatsvindt na de in het tweede gedeelte van de vorige zin genoemde inschrijving, is de huurkoper verplicht de betreffende schuldeisers en eventuele andere beslagleggers bij aangetekend schrijven onverwijld daarvan kennis te geven. Is door die schuldeisers reeds een aanvang gemaakt met de executoriale verkoop en is daartegen verzet gedaan, dan moet eveneens kennisgeving worden gedaan aan de opposant. [Artikel 505, derde lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is van overeenkomstige toepassing.   
+1.  Overdracht van het in huurkoop verkochte goed, voor zover deze niet voortvloeit uit een reeds eerder ingeschreven akte van huurkoop, of bezwaring daarvan na een inschrijving als bedoeld in artikel 4, eerste lid, onder a, b of d, werkt niet ten nadele van de huurkoper, tenzij de overdracht plaatsvindt ten gevolge van een executoriale verkoop door een hypotheekhouder of beslaglegger die hun recht daartoe ontlenen aan een hypotheekakte of proces-verbaal van inbeslagneming, ingeschreven in de openbare registers vóór de in artikel 4, eerste lid, onder a, b of d, genoemde inschrijving. Indien de in artikel 4, eerste lid, onder a, b of d, genoemde inschrijving plaatsvindt na de in het tweede gedeelte van de vorige zin genoemde inschrijving, is de huurkoper verplicht de betreffende schuldeisers en eventuele andere beslagleggers bij aangetekend schrijven onverwijld daarvan kennis te geven. Is door die schuldeisers reeds een aanvang gemaakt met de executoriale verkoop en is daartegen verzet gedaan, dan moet eveneens kennisgeving worden gedaan aan de opposant. Artikel 505, derde lid, van het Wetboek van Burgerlijke Rechtsvordering is van overeenkomstige toepassing.   
 2.   Ingeval van een executoriale verkoop als bedoeld in het vorige lid, is de huurkoper voor de door hem in mindering op de huurkoopsom betaalde bedragen bevoorrecht op hetgeen het verbonden of in beslag genomen goed bij uitwinning meer opbrengt dan verschuldigd is aan voornoemde schuldeisers of, indien niet het gehele goed in huurkoop is verkocht, op een zodanig percentage van deze meeropbrengst als waarin de waarde van het in huurkoop verkochte onderdeel zich verhoudt tot die van het geheel. Dit voorrecht komt dezelfde rang toe als een hypotheek en wordt geacht te zijn ontstaan op de dag van de in artikel 4, eerste lid, onder a, b of d, genoemde inschrijving. Indien uit de huurkoopakte niet duidelijk blijkt welk gedeelte van de periodiek door de huurkoper verschuldigde bedragen voor aflossing van de huurkoopsom is bestemd en artikel 2, vierde lid geen toepassing heeft gevonden, wordt het bedrag waarvoor de huurkoper voormeld voorrecht kan doen gelden door de rechter vastgesteld door het totaal bedrag van de door de huurkoper verrichte betalingen te verminderen met een naar billijkheid vast te stellen vergoeding voor het gedurende de contractsperiode door de huurkoper gemaakte gebruik van het pand.   
-3.  Faillissement van de huurverkoper of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen, uitgesproken onderscheidenlijk van toepassing verklaard na de in artikel 4, eerste lid, onder a, b of d, genoemde inschrijving, werkt niet ten nadele van de huurkoper, onverminderd de toepasselijkheid van de [artikelen 42](../../../../../../../wet/faillissementswet/BWBR0001860/README.md) en [43 van de Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md) op de huurovereenkomst.   
+3.  Faillissement van de huurverkoper of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen, uitgesproken onderscheidenlijk van toepassing verklaard na de in artikel 4, eerste lid, onder a, b of d, genoemde inschrijving, werkt niet ten nadele van de huurkoper, onverminderd de toepasselijkheid van de artikelen 42 en 43 van de Faillissementswet op de huurovereenkomst.   
 
 ### Artikel  6  
 
-Indien de in artikel 5, eerste lid, genoemde hypotheekhouders of beslagleggers jegens wie de huurkoop niet kan worden ingeroepen, tot executoriale verkoop wensen over te gaan en gebruik maken van hun bevoegdheid ontruiming van de zaak door de huurkoper te vorderen, zal, indien de in artikel 4, eerste lid, onder a, b of d, genoemde inschrijving en tevens de kennisgeving genoemd in artikel 5, eerste lid, heeft plaats gevonden voordat een aanvang is gemaakt met de executoriale verkoop, het ontruimingsvonnis niet eerder dan na verloop van negen maanden door de hypotheekhouder, de beslaglegger, degene die in geval van vorenbedoelde verkoop door koop en inschrijving van het proces-verbaal van toewijzing rechthebbende is geworden of diens rechtverkrijgenden kunnen worden tenuitvoergelegd. Bij dit vonnis wordt, met overeenkomstige toepassing van [artikel 230a lid 5 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), vastgesteld welke vergoeding maandelijks verschuldigd is wegens het gebruik van het pand gedurende genoemde periode. 
+Indien de in artikel 5, eerste lid, genoemde hypotheekhouders of beslagleggers jegens wie de huurkoop niet kan worden ingeroepen, tot executoriale verkoop wensen over te gaan en gebruik maken van hun bevoegdheid ontruiming van de zaak door de huurkoper te vorderen, zal, indien de in artikel 4, eerste lid, onder a, b of d, genoemde inschrijving en tevens de kennisgeving genoemd in artikel 5, eerste lid, heeft plaats gevonden voordat een aanvang is gemaakt met de executoriale verkoop, het ontruimingsvonnis niet eerder dan na verloop van negen maanden door de hypotheekhouder, de beslaglegger, degene die in geval van vorenbedoelde verkoop door koop en inschrijving van het proces-verbaal van toewijzing rechthebbende is geworden of diens rechtverkrijgenden kunnen worden tenuitvoergelegd. Bij dit vonnis wordt, met overeenkomstige toepassing van artikel 230a lid 5 van Boek 7 van het Burgerlijk Wetboek, vastgesteld welke vergoeding maandelijks verschuldigd is wegens het gebruik van het pand gedurende genoemde periode. 
 
 ### Artikel  7  
 
@@ -94,13 +94,13 @@ Elk beding in een huurkoopovereenkomst, volgens hetwelk gedurende de contractspe
 
 ### Artikel  13  
 
-1.  Bij onteigening van een goed dat in huurkoop is verkocht, worden zowel de rechthebbende als de huurkoper wiens recht vóór de terinzagelegging ingevolge [artikel 78, tweede lid, van de onteigeningswet](../../../../../../../wet/onteigeningswet/BWBR0001842/README.md) in de openbare registers is ingeschreven, gedagvaard en wordt de aan elk hunner verschuldigde schadeloosstelling afzonderlijk begroot.   
+1.  Bij onteigening van een goed dat in huurkoop is verkocht, worden zowel de rechthebbende als de huurkoper wiens recht vóór de terinzagelegging ingevolge artikel 78, tweede lid, van de onteigeningswet in de openbare registers is ingeschreven, gedagvaard en wordt de aan elk hunner verschuldigde schadeloosstelling afzonderlijk begroot.   
 2.   Uit het bedrag van de werkelijke waarde van het goed wordt aan de huurverkoper een schadeloosstelling toegekend wegens de aanspraken uit de huurkoopovereenkomst, welke hij verliest; hetgeen vervolgens overblijft, komt aan de huurkoper toe.   
 3.   Indien er ten nadele van de huurkoper een wanverhouding blijkt te bestaan tussen de bij de huurkoopovereenkomst bedongen wederzijdse rechten en verplichtingen, past de rechter ambtshalve artikel 9 toe, alvorens hij overeenkomstig het eerste en tweede lid van dit artikel de aan de rechthebbende en de huurkoper toekomende schadeloosstelling vaststelt.  
 
 ### Artikel  14  
 
-[Artikel 93 onder c van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is niet van toepassing op vorderingen voortvloeiend uit deze wet. 
+Artikel 93 onder c van het Wetboek van Burgerlijke Rechtsvordering is niet van toepassing op vorderingen voortvloeiend uit deze wet. 
 
 ###Artikel 15 
 
@@ -117,7 +117,7 @@ Elk beding waarbij wordt afgeweken van de bepalingen van deze wet, is nietig.
 
 ###Artikel 17 
 
-In de plaats van een notariële of authentieke akte volgens deze wet kan worden gebezigd een onderhandse akte, als bedoeld in [artikel 91, eerste lid, van de Overgangswet nieuw Burgerlijk Wetboek](../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md), in welke gevallen het woord "notaris" in artikel 2, tweede, derde, zesde en achtste lid, telkens wordt vervangen door: persoon, als bedoeld in [artikel 91, derde lid, van de Overgangswet nieuw Burgerlijk Wetboek](../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) en het woord "verlijden" in artikel 2, zesde en achtste lid, telkens wordt vervangen door: ondertekenen.
+In de plaats van een notariële of authentieke akte volgens deze wet kan worden gebezigd een onderhandse akte, als bedoeld in artikel 91, eerste lid, van de Overgangswet nieuw Burgerlijk Wetboek, in welke gevallen het woord "notaris" in artikel 2, tweede, derde, zesde en achtste lid, telkens wordt vervangen door: persoon, als bedoeld in artikel 91, derde lid, van de Overgangswet nieuw Burgerlijk Wetboek en het woord "verlijden" in artikel 2, zesde en achtste lid, telkens wordt vervangen door: ondertekenen.
 
 ### Artikel  18  
 

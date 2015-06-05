@@ -25,7 +25,7 @@ b.  *topografie:* een reeks samenhangende beelden, op enigerlei wijze vastgelegd
 
 2°. waarin elk beeld het patroon of een gedeelte van het patroon van een oppervlak van het halfgeleiderprodukt in enig stadium van zijn vervaardiging voorstelt;    
 
-c. *het bureau*: het bureau, bedoeld in [artikel 1 van de Rijksoctrooiwet 1995](../../../../../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md);  
+c. *het bureau*: het bureau, bedoeld in artikel 1 van de Rijksoctrooiwet 1995;  
 
 d.  *het register:* het door het bureau beheerde register waarin depots ingevolge deze wet worden ingeschreven;  
 
@@ -135,12 +135,12 @@ d. de datum waarop een exemplaar van de topografie of het halfgeleiderprodukt wa
 
 1.  Het uitsluitend recht op een topografie geeft aan de gerechtigde de bevoegdheid om exemplaren van de topografie of het halfgeleiderprodukt, ten aanzien waarvan de in artikel 5 genoemde handelingen zijn verricht in strijd met dit uitsluitend recht, als zijn eigendom op te eisen dan wel onttrekking aan het handelsverkeer, vernietiging of onbruikbaarmaking te vorderen. Teneinde tot vernietiging of onbruikbaarmaking over te gaan, kan de gerechtigde de afgifte van deze exemplaren vorderen.   
 2.   De bevoegdheid om als zijn eigendom op te eisen, als bedoeld in het eerste lid van dit artikel, bestaat eveneens ten aanzien van gelden waarvan aannemelijk is dat zij zijn verkregen door of als gevolg van inbreuk op het uitsluitend recht op een topografie. De bevoegdheid tot vordering van de vernietiging of onbruikbaarmaking bestaat tevens ten aanzien van de voorwerpen die rechtstreeks hebben gediend tot de totstandbrenging van de in de vorige zin bedoelde voorwerpen.   
-3.   De bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) betreffende beslag en executie tot afgifte van roerende zaken die geen registergoederen zijn, zijn van toepassing. Bij samenloop met een ander beslag gaat degene die beslag heeft gelegd krachtens dit artikel voor.   
+3.   De bepalingen van het Wetboek van Burgerlijke Rechtsvordering betreffende beslag en executie tot afgifte van roerende zaken die geen registergoederen zijn, zijn van toepassing. Bij samenloop met een ander beslag gaat degene die beslag heeft gelegd krachtens dit artikel voor.   
 4.   Tenzij anders is overeengekomen, heeft de licentienemer het recht de in de vorige leden bedoelde bevoegdheden uit te oefenen, voor zover deze strekken tot bescherming van de rechten waarvan de uitoefening hem is toegestaan.   
 5.   De bevoegdheid, bedoeld in het eerste en tweede lid, kan niet worden uitgeoefend ten aanzien van exemplaren van de topografie of het halfgeleiderprodukt waarin de topografie is vervat, onder personen berustende die niet in soortgelijke topografieën of halfgeleiderprodukten handel drijven en deze uitsluitend tot eigen gebruik hebben gekregen, tenzij door hen zelf inbreuk op het desbetreffende uitsluitend recht op een topografie is gepleegd.   
 6. De maatregelen bedoeld in het eerste en tweede lid worden op kosten van de gedaagde uitgevoerd, tenzij bijzondere redenen dit beletten.
 7. Bij de beoordeling van de maatregelen die de gerechtigde of diens licentienemer kan vorderen ingevolge de bevoegdheden, genoemd in het eerste en tweede lid, houdt de rechter rekening met de noodzakelijke evenredigheid tussen de ernst van de inbreuk en de gevorderde maatregelen en met de belangen van derden.
-8. De rechter kan op vordering van de houder van het uitsluitend recht degene die inbreuk op diens recht heeft gemaakt, bevelen al hetgeen hem bekend is omtrent de herkomst en distributiekanalen van de inbreukmakende topografie of het halfgeleiderproduct waarin de inbreukmakende topografie is vervat, aan de houder mee te delen en alle daarop betrekking hebbende gegevens aan deze te verstrekken. Onder dezelfde voorwaarden kan dit bevel worden gegeven aan een derde die op commerciële schaal inbreukmakende topografieën of halfgeleiderproducten waarin de inbreukmakende topografie is vervat in zijn bezit heeft of gebruikt, die op commerciële schaal diensten verleent die bij de inbreuk worden gebruikt, of die door een van deze derden is aangewezen als zijnde betrokken bij de productie, fabricage of distributie van deze topografieën of halfgeleiderproducten of bij het verlenen van deze diensten. Deze derde kan zich verschonen van het verstrekken van informatie die bewijs zou vormen van deelname aan een inbreuk op een recht van intellectuele eigendom door hem zelf of door de andere in [artikel 165, derde lid, Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) bedoelde personen.
+8. De rechter kan op vordering van de houder van het uitsluitend recht degene die inbreuk op diens recht heeft gemaakt, bevelen al hetgeen hem bekend is omtrent de herkomst en distributiekanalen van de inbreukmakende topografie of het halfgeleiderproduct waarin de inbreukmakende topografie is vervat, aan de houder mee te delen en alle daarop betrekking hebbende gegevens aan deze te verstrekken. Onder dezelfde voorwaarden kan dit bevel worden gegeven aan een derde die op commerciële schaal inbreukmakende topografieën of halfgeleiderproducten waarin de inbreukmakende topografie is vervat in zijn bezit heeft of gebruikt, die op commerciële schaal diensten verleent die bij de inbreuk worden gebruikt, of die door een van deze derden is aangewezen als zijnde betrokken bij de productie, fabricage of distributie van deze topografieën of halfgeleiderproducten of bij het verlenen van deze diensten. Deze derde kan zich verschonen van het verstrekken van informatie die bewijs zou vormen van deelname aan een inbreuk op een recht van intellectuele eigendom door hem zelf of door de andere in artikel 165, derde lid, Wetboek van Burgerlijke Rechtsvordering bedoelde personen.
 
 ###Artikel 18a 
 
@@ -166,7 +166,7 @@ Het bureau is verplicht de rechter alle inlichtingen en technische adviezen te v
 
 ### Artikel  25  
 
-Topografieën als bedoeld in artikel 2, die na de datum van inwerkingtreding van deze wet zijn tot stand gekomen, zijn uitgesloten van bescherming uit hoofde van de [Auteurswet](../../../../../../../../wet/auteurswet/BWBR0001886/README.md). 
+Topografieën als bedoeld in artikel 2, die na de datum van inwerkingtreding van deze wet zijn tot stand gekomen, zijn uitgesloten van bescherming uit hoofde van de Auteurswet. 
 
 ### Artikel  26  
 

@@ -22,8 +22,8 @@ Oordeelt de officier van justitie, dat artikel 4 van het verdrag toepasselijk is
 
 ###Artikel 4 
 
-1. Om overeenkomstig de voorschriften van het verdrag een gerechtelijk of buitengerechtelijk stuk te doen mededelen in een der Staten, waar het verdrag van kracht is, wordt het exploit gedaan en het afschrift doorgezonden op de wijze, aangegeven bij [artikel 55, eerste lid van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md).
-2.  Behalve de vereisten, bij het [Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) voor het exploit gesteld, zal daarbij worden vermeld het beroep of de maatschappelijke betrekking der partijen, zomede het adres van degene, aan wie de mededeling wordt verlangd. Tevens wordt daarin vermeld, dat het exploit overeenkomstig het verdrag moet worden medegedeeld, met opgave of verlangd wordt: 
+1. Om overeenkomstig de voorschriften van het verdrag een gerechtelijk of buitengerechtelijk stuk te doen mededelen in een der Staten, waar het verdrag van kracht is, wordt het exploit gedaan en het afschrift doorgezonden op de wijze, aangegeven bij artikel 55, eerste lid van het Wetboek van Burgerlijke Rechtsvordering.
+2.  Behalve de vereisten, bij het Wetboek van Burgerlijke Rechtsvordering voor het exploit gesteld, zal daarbij worden vermeld het beroep of de maatschappelijke betrekking der partijen, zomede het adres van degene, aan wie de mededeling wordt verlangd. Tevens wordt daarin vermeld, dat het exploit overeenkomstig het verdrag moet worden medegedeeld, met opgave of verlangd wordt: 
 
 a.eenvoudige afgifte;
 
@@ -68,7 +68,7 @@ Oordeelt de rechter, door wie de uitvoering der rogatoire commissie zou behoren 
 
 ### Artikel  12  
 
-De rechter kan bepalen welke der partijen zorg draagt voor de oproeping uit hoofde van de uitvoering van een rogatoire commissie. Oproepingen die niet door een der partijen worden verricht geschieden door de griffier van de rechtbank. De [artikelen 171](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [172](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [173](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [178 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn op het verhoor van getuigen van overeenkomstige toepassing. 
+De rechter kan bepalen welke der partijen zorg draagt voor de oproeping uit hoofde van de uitvoering van een rogatoire commissie. Oproepingen die niet door een der partijen worden verricht geschieden door de griffier van de rechtbank. De artikelen 171, 172, 173 en 178 van het Wetboek van Burgerlijke Rechtsvordering zijn op het verhoor van getuigen van overeenkomstige toepassing. 
 
 ###Artikel 13 
 
@@ -84,7 +84,7 @@ b.in het geval, bedoeld in artikel 24 van het verdrag, de kosten, in het tweede 
 
 ### Artikel  14a  
 
-Een afwijzende beslissing op grond van artikel 11, tweede lid, en op grond van artikel 11, derde lid, onder 1 en 2, en artikel 14, tweede lid, van het verdrag wordt beschouwd als een beschikking waartegen voor partijen in de hoofdprocedure hoger beroep openstaat overeenkomstig de [vierde afdeling van titel 7 van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), met dien verstande dat het hoger beroep de werking niet schorst, tenzij de rechter anders heeft bepaald, en dient te worden ingesteld binnen een termijn van vier weken te rekenen vanaf de dag van de beslissing. 
+Een afwijzende beslissing op grond van artikel 11, tweede lid, en op grond van artikel 11, derde lid, onder 1 en 2, en artikel 14, tweede lid, van het verdrag wordt beschouwd als een beschikking waartegen voor partijen in de hoofdprocedure hoger beroep openstaat overeenkomstig de vierde afdeling van titel 7 van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering, met dien verstande dat het hoger beroep de werking niet schorst, tenzij de rechter anders heeft bepaald, en dient te worden ingesteld binnen een termijn van vier weken te rekenen vanaf de dag van de beslissing. 
 
 ### C  
 
@@ -97,8 +97,8 @@ Een afwijzende beslissing op grond van artikel 11, tweede lid, en op grond van a
 
 ### Artikel  16  
 
-1.  Omtrent de vergoedingen en kosten waarvan door de betrokken aangezochte Staat terugbetaling wordt verzocht, wordt door de rechter overeenkomstig de [artikelen 237](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [289 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) uitspraak gedaan, voorzover deze artikelen daarvoor een vergoeding plegen in te sluiten.   
-2.  De griffier betaalt de in het voorgaande lid bedoelde kosten en vergoedingen aan de aangezochte Staat en brengt deze, voorzover zij in een veroordeling in de proceskosten plegen te worden begrepen, in rekening bij de eiser of verzoeker, tenzij de rechter daartoe in verband met de omstandigheden van het geding de gedaagde, de eiser en gedaagde gezamenlijk, een of meer andere belanghebbenden of dezen met de verzoeker gezamenlijk heeft aangewezen. Met betrekking tot de terugbetaling van de vergoeding voor deskundigen zijn de [derde tot en met vijfde volzin van artikel 195 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing. In de in deze zinnen bedoelde gevallen zijn de [artikelen 199, derde lid](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), en [244, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing.  
+1.  Omtrent de vergoedingen en kosten waarvan door de betrokken aangezochte Staat terugbetaling wordt verzocht, wordt door de rechter overeenkomstig de artikelen 237 en 289 van het Wetboek van Burgerlijke Rechtsvordering uitspraak gedaan, voorzover deze artikelen daarvoor een vergoeding plegen in te sluiten.   
+2.  De griffier betaalt de in het voorgaande lid bedoelde kosten en vergoedingen aan de aangezochte Staat en brengt deze, voorzover zij in een veroordeling in de proceskosten plegen te worden begrepen, in rekening bij de eiser of verzoeker, tenzij de rechter daartoe in verband met de omstandigheden van het geding de gedaagde, de eiser en gedaagde gezamenlijk, een of meer andere belanghebbenden of dezen met de verzoeker gezamenlijk heeft aangewezen. Met betrekking tot de terugbetaling van de vergoeding voor deskundigen zijn de derde tot en met vijfde volzin van artikel 195 van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing. In de in deze zinnen bedoelde gevallen zijn de artikelen 199, derde lid, en 244, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing.  
 
 ### Artikel  17  
 

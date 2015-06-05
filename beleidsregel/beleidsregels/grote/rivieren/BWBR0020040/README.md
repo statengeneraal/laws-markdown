@@ -3,7 +3,7 @@
 ##Besluit van 4 juli 2006, nr. HDJZ/I&O/2006-948, Hoofddirectie Juridische Zaken, tot vaststelling van de Beleidsregels grote rivieren (Beleidsregels grote rivieren)
 
 De Staatssecretaris van Verkeer en Waterstaat,  
-Gelet op de [artikelen 2](../../../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md) en [3 van de Wet beheer rijkswaterstaatswerken](../../../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md) en [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op de artikelen 2 en 3 van de Wet beheer rijkswaterstaatswerken en artikel 4:81, eerste lid, van de Algemene wet bestuursrecht;
 Besluit:    
 
 ### Artikel  1  
@@ -12,9 +12,9 @@ Besluit:
 
 1.  In dit besluit wordt verstaan onder: 
 
-a. toestemming: de toelaatbaarheid vanuit rivierkundig opzicht bezien, nodig voor het verkrijgen van een vergunning als bedoeld in [artikel 6.12 van het Waterbesluit](../../../../../AMvB/waterbesluit/BWBR0026872/README.md);  
+a. toestemming: de toelaatbaarheid vanuit rivierkundig opzicht bezien, nodig voor het verkrijgen van een vergunning als bedoeld in artikel 6.12 van het Waterbesluit;  
 
-b. rivierbed: de oppervlakte begrensd ingevolge [artikel 3.1, tweede lid, van de Waterwet](../../../../../wet/waterwet/BWBR0025458/README.md);  
+b. rivierbed: de oppervlakte begrensd ingevolge artikel 3.1, tweede lid, van de Waterwet;  
 
 c. bergend regime: het afwegingskader dat geldt op het gedeelte van het rivierbed aangegeven op de bij dit besluit behorende detailkaart;  
 
@@ -23,7 +23,7 @@ d. stroomvoerend regime: het afwegingskader dat geldt op het gedeelte van het ri
 
 ### Artikel  1a  
 
-Deze beleidsregels berusten op [artikel 6.12 van het Waterbesluit](../../../../../AMvB/waterbesluit/BWBR0026872/README.md). 
+Deze beleidsregels berusten op artikel 6.12 van het Waterbesluit. 
 
 ### Artikel  2  
 
@@ -40,7 +40,7 @@ a. een eenmalige uitbreiding van ten hoogste tien procent van de bestaande bebou
 
 b. activiteiten ten behoeve van rivierbeheer of -verruiming; 
 
-c. tijdelijke activiteiten, anders dan bedoeld in [artikel 6.11, eerste lid, onderdeel b, van de Waterregeling](../../../../../ministeriele-regeling/waterregeling/BWBR0026845/README.md), en  
+c. tijdelijke activiteiten, anders dan bedoeld in artikel 6.11, eerste lid, onderdeel b, van de Waterregeling, en  
 
 d. overige activiteiten van rivierkundig ondergeschikt belang.   
 

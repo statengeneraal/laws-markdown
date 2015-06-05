@@ -12,7 +12,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 ### Artikel  1  
 
 1.  Het verlof tot tenuitvoerlegging, bedoeld in artikel 6 van het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de wederzijdse erkenning en tenuitvoerlegging van rechterlijke beslissingen en andere executoriale titels in burgerlijke zaken (*Trb.* 1963, no. 50), wordt verleend door de voorzieningenrechter van de rechtbank van het arrondissement, waar de wederpartij woonplaats heeft of waar de tenuitvoerlegging wordt verlangd.   
-2.   De [artikelen 985](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) tot en met [991 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn niet van toepassing.  
+2.   De artikelen 985 tot en met 991 van het Wetboek van Burgerlijke Rechtsvordering zijn niet van toepassing.  
 
 ### Artikel  2  
 
@@ -28,7 +28,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  4  
 
-1.  In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de termijn voor het indienen van een hogerberoepschrift een maand.   
+1.  In afwijking van artikel 6:7 van de Algemene wet bestuursrecht bedraagt de termijn voor het indienen van een hogerberoepschrift een maand.   
 2.  De artikelen 2 en 3 zijn van overeenkomstige toepassing.  
 
 ### Artikel  5  

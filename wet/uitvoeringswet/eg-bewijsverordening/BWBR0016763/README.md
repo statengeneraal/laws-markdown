@@ -68,7 +68,7 @@ In geval van doorzending van een verzoek om een handeling tot het verkrijgen van
 ###Artikel 9 
 
 1. Het aangezochte gerecht kan bepalen welke der partijen zorg draagt voor de oproeping uit hoofde van een verzoek om een bewijshandeling te verrichten.
-2. Oproepingen die niet door één der partijen worden verricht geschieden door de griffier van het aangezochte gerecht. De [artikelen 171](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [172](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [173](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [178 van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn op het verhoor van getuigen van overeenkomstige toepassing.
+2. Oproepingen die niet door één der partijen worden verricht geschieden door de griffier van het aangezochte gerecht. De artikelen 171, 172, 173 en 178 van het Wetboek van Burgerlijke Rechtsvordering zijn op het verhoor van getuigen van overeenkomstige toepassing.
 
 ###Artikel 10 
 
@@ -76,7 +76,7 @@ De kosten van de uitvoering van een verzoek om een bewijshandeling te verrichten
 
 ###Artikel 11 
 
-Een afwijzende beslissing op grond van artikel 10, derde of vierde lid, artikel 14, tweede lid, en artikel 17, vijfde lid, van de verordening wordt beschouwd als een beschikking waartegen voor partijen in de hoofdprocedure hoger beroep openstaat overeenkomstig de [vierde afdeling van titel 7 van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), met dien verstande dat het hoger beroep de werking niet schorst, tenzij de rechter anders heeft bepaald, en dient te worden ingesteld binnen een termijn van vier weken te rekenen vanaf de dag van de beslissing.
+Een afwijzende beslissing op grond van artikel 10, derde of vierde lid, artikel 14, tweede lid, en artikel 17, vijfde lid, van de verordening wordt beschouwd als een beschikking waartegen voor partijen in de hoofdprocedure hoger beroep openstaat overeenkomstig de vierde afdeling van titel 7 van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering, met dien verstande dat het hoger beroep de werking niet schorst, tenzij de rechter anders heeft bepaald, en dient te worden ingesteld binnen een termijn van vier weken te rekenen vanaf de dag van de beslissing.
 
 ### §  3  
 
@@ -86,7 +86,7 @@ Een afwijzende beslissing op grond van artikel 10, derde of vierde lid, artikel 
 
 1. Een verzoekend gerecht kan een rechterlijk ambtenaar met rechtspraak belast of een andere persoon aanwijzen op de voet van artikel 12, tweede lid, van de verordening om aanwezig te zijn bij of deel te nemen aan de verrichting van de handeling tot het verkrijgen van bewijs.
 2. Een verzoekend gerecht kan een rechterlijk ambtenaar met rechtspraak belast of een andere persoon op de voet van artikel 17, derde lid, van de verordening aanwijzen om rechtstreeks een handeling tot het verkrijgen van bewijs te verrichten.
-3. Ten aanzien van de kosten van de in de voorgaande leden bedoelde andere persoon zijn de [artikelen 195](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [199 van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) voor zover nodig van overeenkomstige toepassing.
+3. Ten aanzien van de kosten van de in de voorgaande leden bedoelde andere persoon zijn de artikelen 195 en 199 van het Wetboek van Burgerlijke Rechtsvordering voor zover nodig van overeenkomstige toepassing.
 
 ###Artikel 12a 
 
@@ -94,8 +94,8 @@ Het verzoekende gerecht kan bepalen welke der partijen zorg draagt voor en de ko
 
 ###Artikel 13 
 
-1. Omtrent de vergoedingen en kosten waarvan door het aangezochte gerecht op de voet van artikel 18, tweede lid, van de verordening aan het verzoekend gerecht terugbetaling wordt verzocht, wordt door de rechter overeenkomstig de [artikelen 237](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [artikel 289 van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) uitspraak gedaan, voorzover deze artikelen daarvoor een vergoeding plegen in te sluiten.
-2. De griffier betaalt de in artikel 18, tweede lid, van de verordening bedoelde kosten en vergoedingen terug aan het aangezochte gerecht en brengt deze, voorzover zij in een veroordeling in de proceskosten plegen te worden begrepen, in rekening bij de eiser of verzoeker, tenzij de rechter daartoe in verband met de omstandigheden van het geding de gedaagde, de eiser en gedaagde gezamenlijk, een of meer andere belanghebbenden of dezen met de verzoeker gezamenlijk heeft aangewezen. Met betrekking tot de terugbetaling van de vergoeding voor deskundigen zijn de [derde tot en met vijfde volzin van artikel 195 van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing. In de in deze zinnen bedoelde gevallen zijn de [artikelen 199, derde lid](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), en [244, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing.
+1. Omtrent de vergoedingen en kosten waarvan door het aangezochte gerecht op de voet van artikel 18, tweede lid, van de verordening aan het verzoekend gerecht terugbetaling wordt verzocht, wordt door de rechter overeenkomstig de artikelen 237 en artikel 289 van het Wetboek van Burgerlijke Rechtsvordering uitspraak gedaan, voorzover deze artikelen daarvoor een vergoeding plegen in te sluiten.
+2. De griffier betaalt de in artikel 18, tweede lid, van de verordening bedoelde kosten en vergoedingen terug aan het aangezochte gerecht en brengt deze, voorzover zij in een veroordeling in de proceskosten plegen te worden begrepen, in rekening bij de eiser of verzoeker, tenzij de rechter daartoe in verband met de omstandigheden van het geding de gedaagde, de eiser en gedaagde gezamenlijk, een of meer andere belanghebbenden of dezen met de verzoeker gezamenlijk heeft aangewezen. Met betrekking tot de terugbetaling van de vergoeding voor deskundigen zijn de derde tot en met vijfde volzin van artikel 195 van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing. In de in deze zinnen bedoelde gevallen zijn de artikelen 199, derde lid, en 244, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing.
 3. Een deposito of voorschot van de kosten betreffende een deskundige als bedoeld in artikel 18, derde lid, van de verordening, wordt door de eiser of verzoeker ter griffie gedeponeerd, tenzij de rechter daartoe in verband met de omstandigheden van het geding de gedaagde, de eiser en gedaagde gezamenlijk, een of meer belanghebbenden of dezen en de verzoeker gezamenlijk heeft aangewezen. De griffier voldoet het deposito of voorschot na ontvangst hiervan aan het aangezochte gerecht. In het geval het voorschot na verrichting van de bewijshandeling door de deskundige niet toereikend blijkt, worden de overige kosten in rekening gebracht bij degene die het voorschot heeft gestort of gedeponeerd. De tweede en derde volzin van het tweede lid zijn van overeenkomstige toepassing.
 
 ###Artikel 14 

@@ -277,10 +277,6 @@ a. het getuigschrift, bedoeld in artikel 27 van het Besluit personenvervoer 2000
 
 b. het diploma B voor rijbewijscategorie D afgegeven door de Contactcommissie Chauffeurs Vakbekwaamheid voor 10 september 2008,   is vrijgesteld van de theorietoetsen vakbekwaamheid 2 en 3 voor rijbewijscategorie D1 of D. 
 
-### Artikel  23b  
-
-Op het rijbewijs van een bestuurder als bedoeld in artikel 156q, zesde lid, van het Reglement rijbewijzen wordt een getuigschrift van vakbekwaamheid vermeld waarvan de einddatum gelijk is aan de geldigheidsduur van de desbetreffende rijbewijscategorie. 
-
 ### Hoofdstuk  III  
 
 ####Stelsel van nascholing

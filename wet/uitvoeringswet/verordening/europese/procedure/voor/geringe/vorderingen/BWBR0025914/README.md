@@ -21,21 +21,21 @@ b.  *Europese geringe vordering:* vordering in grensoverschrijdende burgerlijke 
 
 1.  Zaken betreffende Europese geringe vorderingen worden behandeld en beslist door de kantonrechter.   
 2.  Tegen een beslissing van de kantonrechter in de Europese procedure voor geringe vorderingen staat geen hoger beroep open.   
-3.  [Artikel 80 van de Wet op de rechterlijke organisatie](../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) is van overeenkomstige toepassing.  
+3.  Artikel 80 van de Wet op de rechterlijke organisatie is van overeenkomstige toepassing.  
 
 ### Artikel  3  
 
-Op een geding betreffende een Europese geringe vordering is de [Wet griffierechten burgerlijke zaken](../../../../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) van overeenkomstige toepassing. 
+Op een geding betreffende een Europese geringe vordering is de Wet griffierechten burgerlijke zaken van overeenkomstige toepassing. 
 
 ### Artikel  4  
 
 1.  Indien de kantonrechter eiser ervan in kennis heeft gesteld dat zijn vordering buiten het in artikel 2 van de verordening genoemde toepassingsgebied valt, kan eiser zijn vordering intrekken. Eiser doet hiervan schriftelijk mededeling aan de kantonrechter binnen 30 dagen na ontvangst van de kennisgeving van de kantonrechter. Het griffierecht wordt in geval van intrekking niet gerestitueerd.   
 2.  Indien een tegenvordering als bedoeld in artikel 5, zesde lid, van de verordening buiten het in artikel 2 van de verordening genoemde toepassingsgebied valt, is het eerste lid van overeenkomstige toepassing.   
-3.  Indien eiser of verweerder zijn vordering respectievelijk tegenvordering na de kennisgeving van de kantonrechter niet intrekt, is [artikel 69 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing.  
+3.  Indien eiser of verweerder zijn vordering respectievelijk tegenvordering na de kennisgeving van de kantonrechter niet intrekt, is artikel 69 van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing.  
 
 ### Artikel  5  
 
-Bij de veroordeling van de in het ongelijk gestelde partij in de proceskosten zijn de [artikelen 238](../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [241](../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [242](../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [244 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing. 
+Bij de veroordeling van de in het ongelijk gestelde partij in de proceskosten zijn de artikelen 238, 241, 242 en 244 van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing. 
 
 ### Artikel  6  
 
@@ -53,7 +53,7 @@ b. in het geval, bedoeld in artikel 18, eerste lid, onder b, van de verordening,
 
 ### Artikel  8  
 
-Op verzoeken inzake de tenuitvoerlegging als bedoeld in de artikelen 22 en 23 van de verordening is [artikel 438 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van toepassing. 
+Op verzoeken inzake de tenuitvoerlegging als bedoeld in de artikelen 22 en 23 van de verordening is artikel 438 van het Wetboek van Burgerlijke Rechtsvordering van toepassing. 
 
 ### Artikel  9  
 

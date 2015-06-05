@@ -17,7 +17,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a. alle vaartuigen, hoe ook genaamd en van welke aard ook, welke geheel of in hoofdzaak tot de vaart ter zee zijn bestemd;   
 
-b. effecten, betaalmiddelen, geldswaardige papieren, goud, vorderingen en documenten waarin zodanige vorderingen zijn belichaamd, ten aanzien waarvan het bepaalde bij of krachtens de [Wet financiële betrekkingen buitenland 1994](../../../wet/wet/financiële/betrekkingen/buitenland/1994/BWBR0006547/README.md) van toepassing is.    
+b. effecten, betaalmiddelen, geldswaardige papieren, goud, vorderingen en documenten waarin zodanige vorderingen zijn belichaamd, ten aanzien waarvan het bepaalde bij of krachtens de Wet financiële betrekkingen buitenland 1994 van toepassing is.    
 
 ### Artikel  2  
 
@@ -25,7 +25,7 @@ De toepasselijkheid van deze wet wordt beperkt door de in het volkenrecht erkend
 
 ### Artikel  3  
 
-1.  Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, artikel 3 *a* in werking worden gesteld.   
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, artikel 3 *a* in werking worden gesteld.   
 2.  Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepaling.   
 3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan wordt bij koninklijk besluit, op voordracht van Onze Minister-President, de bepaling die ingevolge het eerste lid in werking is gesteld, onverwijld buiten werking gesteld.   
 4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, wordt de bepaling die ingevolge het eerste lid in werking is gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.   
@@ -79,12 +79,12 @@ b. aan de burgemeester der gemeente, waar de zaak wordt aangetroffen.
 ### Artikel  10  
 
 1.  Onze Minister die een vordering heeft gedaan, is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de vordering.    
-2.  Een machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) kan worden gegeven door Onze Minister die de vordering heeft gedaan.   
+2.  Een machtiging als bedoeld in artikel 2 van de Algemene wet op het binnentreden kan worden gegeven door Onze Minister die de vordering heeft gedaan.   
 
 ### Artikel  11  
 
 1.  Ingeval het eigendomsrecht op een zaak is gevorderd, gaat dit op degene, te wiens behoeve de vordering is geschied, over op het tijdstip, waarop hij de feitelijke mogelijkheid tot uitoefening van dat recht verkrijgt, of, zo hij deze reeds heeft, op het voor dat geval in de vorderingsbeschikking te bepalen tijdstip.    
-2.   De in [artikel 60 der Onteigeningswet](../../../wet/onteigeningswet/BWBR0001842/README.md) (*Stb.* 1851, 125) bedoelde lasten en belastingen, waarmede de zaak is bezwaard, gaan bij de eigendomsovergang over op degene, te wiens behoeve de vordering is geschied. Overigens gaat de eigendom over, vrij van alle met betrekking tot de zaak bestaande lasten en rechten, tenzij in de vorderingsbeschikking anders is bepaald.   
+2.   De in artikel 60 der Onteigeningswet (*Stb.* 1851, 125) bedoelde lasten en belastingen, waarmede de zaak is bezwaard, gaan bij de eigendomsovergang over op degene, te wiens behoeve de vordering is geschied. Overigens gaat de eigendom over, vrij van alle met betrekking tot de zaak bestaande lasten en rechten, tenzij in de vorderingsbeschikking anders is bepaald.   
 
 ### Artikel  12  
 
@@ -103,8 +103,8 @@ Ingeval een recht tot gebruik van een zaak is gevorderd, ontstaat dit recht voor
 
 ### Artikel  15  
 
-1.  Degene te wiens behoeve de vordering is geschied, is gehouden de eigenaar, de beperkt gerechtigde, de pachter, de huurder, de huurkoper en de beslaglegger voor zover zij schade lijden, schadeloos te stellen. Het recht op schadeloosstelling van de pand- of hypotheekhouder en van de beslaglegger wordt echter uitgeoefend overeenkomstig de hun in artikel 229 van Boek 3 van het Burgerlijk Wetboek en de [artikelen 455*a* ](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [507*a* van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) toegekende rechten.    
-2.   De schadeloosstelling wordt, ingeval het eigendomsrecht op een zaak is gevorderd, vastgesteld met overeenkomstige toepassing, voor zover uit deze wet niet anders voortvloeit, van de artikelen 40-45 van de [Onteigeningswet](../../../wet/onteigeningswet/BWBR0001842/README.md) en, ingeval het een roerende zaak betreft, tevens overeenkomstig bij algemene maatregel van bestuur daaromtrent te stellen aanvullende regelen. Zij wordt, ingeval een recht tot gebruik van een zaak is gevorderd, vastgesteld overeenkomstig bij zodanige maatregel daaromtrent te stellen regelen.    
+1.  Degene te wiens behoeve de vordering is geschied, is gehouden de eigenaar, de beperkt gerechtigde, de pachter, de huurder, de huurkoper en de beslaglegger voor zover zij schade lijden, schadeloos te stellen. Het recht op schadeloosstelling van de pand- of hypotheekhouder en van de beslaglegger wordt echter uitgeoefend overeenkomstig de hun in artikel 229 van Boek 3 van het Burgerlijk Wetboek en de artikelen 455*a*  en 507*a* van het Wetboek van Burgerlijke Rechtsvordering toegekende rechten.    
+2.   De schadeloosstelling wordt, ingeval het eigendomsrecht op een zaak is gevorderd, vastgesteld met overeenkomstige toepassing, voor zover uit deze wet niet anders voortvloeit, van de artikelen 40-45 van de Onteigeningswet en, ingeval het een roerende zaak betreft, tevens overeenkomstig bij algemene maatregel van bestuur daaromtrent te stellen aanvullende regelen. Zij wordt, ingeval een recht tot gebruik van een zaak is gevorderd, vastgesteld overeenkomstig bij zodanige maatregel daaromtrent te stellen regelen.    
 3.   De Staat is voor de betaling van de schadeloosstelling mede aansprakelijk.   
 
 ### Artikel  16  
@@ -128,7 +128,7 @@ b. in andere gevallen door de kantonrechter, binnen wiens rechtsgebied de betrok
 3.   De griffier geeft bij aangetekende brief van deze dagbepaling kennis aan de verzoeker en aan de overige partijen. Tussen de dag, waarop deze kennisgeving is verzonden en de in het tweede lid bedoelde dag moeten tenminste veertien dagen verlopen. Bij de kennisgeving aan de overige partijen wordt een afschrift van het verzoekschrift gevoegd.    
 4.   De in het derde lid bedoelde kennisgeving heeft ten opzichte van partijen de kracht van een dagvaarding.    
 5.   Tegen het vonnis is uitsluitend beroep in cassatie toegelaten.    
-6.   De bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn op het geding van toepassing voor zover daarvan bij deze wet niet is afgeweken.   
+6.   De bepalingen van het Wetboek van Burgerlijke Rechtsvordering zijn op het geding van toepassing voor zover daarvan bij deze wet niet is afgeweken.   
 
 ### Artikel  19  
 
@@ -155,7 +155,7 @@ Een als gevolg van een vordering ontstaan recht tot gebruik van een zaak, dat no
 ### Artikel  23  
 
 1.  Zolang niet een krachtens artikel 3, eerste lid, vastgesteld besluit in werking is, kan bij koninklijk besluit aan Onze Minister van Defensie de bevoegdheid worden verleend in het belang van de uitvoering van de militaire taak, ten behoeve van de Staat of van andere met de behartiging van openbare belangen belaste lichamen het eigendomsrecht op of een recht tot gebruik van een of meer bij Ons besluit aangewezen onroerende zaken te vorderen.    
-2.   Zolang niet een krachtens artikel 3, eerste lid, vastgesteld besluit in werking is, kan bij koninklijk besluit aan Onze Minister van Binnenlandse Zaken de bevoegdheid worden verleend in het belang van de bestrijding van rampen en zware ongevallen in buitengewone omstandigheden als bedoeld in [paragraaf 12 van de Wet veiligheidsregio’s](../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), van de beperking van de onmiddellijke gevolgen daarvan, ten behoeve van de Staat of van andere met de behartiging van openbare belangen belaste lichamen het eigendomsrecht op of een recht tot gebruik van een of meer bij Ons besluit aangewezen onroerende zaken te vorderen.    
+2.   Zolang niet een krachtens artikel 3, eerste lid, vastgesteld besluit in werking is, kan bij koninklijk besluit aan Onze Minister van Binnenlandse Zaken de bevoegdheid worden verleend in het belang van de bestrijding van rampen en zware ongevallen in buitengewone omstandigheden als bedoeld in paragraaf 12 van de Wet veiligheidsregio’s, van de beperking van de onmiddellijke gevolgen daarvan, ten behoeve van de Staat of van andere met de behartiging van openbare belangen belaste lichamen het eigendomsrecht op of een recht tot gebruik van een of meer bij Ons besluit aangewezen onroerende zaken te vorderen.    
 3.   Wij nemen Ons besluit als bedoeld in het eerste of tweede lid, de Raad van State gehoord.    
 4.   De voordracht tot vaststelling van een besluit krachtens het eerste lid wordt Ons gedaan door Onze Minister van Defensie, tezamen met Onze Minister van Economische Zaken, en de voordracht tot vaststelling van een besluit krachtens het tweede lid wordt Ons gedaan door Onze Minister van Binnenlandse Zaken, tezamen met Onze Minister van Economische Zaken. Onze Minister van Economische Zaken pleegt, alvorens de voordracht mede te ondertekenen, overleg met Onze Ministers, tot wier zorg belangen, die door de vordering kunnen worden geraakt, behoren.    
 5.   De voordracht wordt niet gedaan dan nadat gebleken is, dat de nodige beschikking over de onroerende zaak niet of niet tijdig bij minnelijke overeenkomst verkregen kan worden.    
@@ -170,7 +170,7 @@ In krachtens artikel 23 vastgestelde vorderingsbeschikkingen kan aan daarbij aan
 
 ### Artikel  25  
 
-1.  In geval krachtens artikel 23 het eigendomsrecht op een onroerende zaak is gevorderd, doet Onze Minister, die de vordering heeft gedaan, de beschikking zo spoedig mogelijk inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).    
+1.  In geval krachtens artikel 23 het eigendomsrecht op een onroerende zaak is gevorderd, doet Onze Minister, die de vordering heeft gedaan, de beschikking zo spoedig mogelijk inschrijven in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek.    
 2.   Door de inschrijving van de beschikking gaat het eigendomsrecht op de zaak over op degene, te wiens behoeve de vordering is geschied. Artikel 11, tweede lid, is van toepassing.   
 
 ### Artikel  26  
@@ -180,7 +180,7 @@ Ingeval krachtens artikel 23 een recht tot gebruik van een onroerende zaak is ge
 ### Artikel  27  
 
 1.  Onze Minister die krachtens artikel 23 een vordering heeft gedaan, is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de vordering.    
-2.  Een machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) kan worden gegeven door Onze Minister die de vordering krachtens artikel 23 heeft gedaan.   
+2.  Een machtiging als bedoeld in artikel 2 van de Algemene wet op het binnentreden kan worden gegeven door Onze Minister die de vordering krachtens artikel 23 heeft gedaan.   
 
 ### Artikel  28  
 
@@ -190,7 +190,7 @@ Dit artikel is niet gepubliceerd.
 
 1.  Onze Ministers, aan wie krachtens artikel 3 of 23 vorderingsbevoegdheid is verleend, kunnen van een ieder inlichtingen en inzage van zakelijke gegevens en bescheiden vorderen, voor zover zij die voor een goede uitvoering van deze wet nodig achten.    
 2.   Zij kunnen de uitoefening van de in het eerste lid bedoelde bevoegdheden, opdragen aan daartoe schriftelijk door hen aangewezen personen.    
-3.  De artikelen 5:12., 5:13, 5:15 en 5:20 van de [Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing ten aanzien van de in het tweede lid bedoelde personen.    
+3.  De artikelen 5:12., 5:13, 5:15 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing ten aanzien van de in het tweede lid bedoelde personen.    
 4.  Zo nodig oefenen die personen de in het eerste lid genoemde bevoegdheid uit met behulp van de sterke arm.   
 
 ###Artikel 31 
@@ -207,8 +207,8 @@ Dit artikel is niet gepubliceerd.
 
 ### Artikel  33  
 
-1.  Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de door Onze Minister van Veiligheid en Justitie in overeenstemming met Onze andere Ministers, wie het aangaat, daartoe aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van feiten, strafbaar gesteld in de [artikelen 179](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) tot en met [182](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.    
-2.  De [artikelen 5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing ten aanzien van de in het eerste lid bedoelde ambtenaren.    
+1.  Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, onverminderd artikel 141 van het Wetboek van Strafvordering, belast de door Onze Minister van Veiligheid en Justitie in overeenstemming met Onze andere Ministers, wie het aangaat, daartoe aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van feiten, strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht, voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.    
+2.  De artikelen 5:13, 5:15 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing ten aanzien van de in het eerste lid bedoelde ambtenaren.    
 3.  De in het eerste lid bedoelde ambtenaren zijn bevoegd bij het opsporen van de bij deze wet strafbaar gestelde feiten, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.    
 4.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.   
 

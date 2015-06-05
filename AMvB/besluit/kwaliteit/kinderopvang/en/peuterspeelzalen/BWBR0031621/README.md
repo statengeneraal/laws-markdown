@@ -26,7 +26,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *advies- en meldpunt kindermishandeling:* stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg bij de uitvoering van de taak, bedoeld in artikel 10, eerste lid, onder e, van die wet; 
+a.  *AMHK:* advies- en meldpunt huiselijk geweld en kindermishandeling als bedoeld in artikel 4.1.1 van de Wet maatschappelijke ondersteuning 2015; 
 
 b. *bemiddelingsmedewerker:* de medewerker, werkzaam bij het gastouderbureau, die bemiddelt tussen gastouder en vraagouder en die daartoe de voorziening voor gastouderopvang bezoekt;  
 
@@ -36,17 +36,15 @@ d. *dagopvang:* kinderopvang verzorgd door een kindercentrum voor kinderen tot d
 
 e. *groep:* een eenheid die bestaat uit een aantal kinderen met één of meer beroepskrachten dan wel uit een aantal door een gastouder op te vangen kinderen;  
 
-f. *huiselijk geweld:* huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning;  
+f.  *huiselijk geweld:* huiselijk geweld als bedoeld in artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015;  
 
 g. *kindermishandeling:* kindermishandeling als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg;  
 
 h. *meldcode:* meldcode huiselijk geweld en kindermishandeling;  
 
-i. *steunpunt huiselijk geweld:* steunpunt huiselijk geweld als bedoeld in artikel 21b van de Wet maatschappelijke ondersteuning; 
+i. *vraagouder:* ouder die kinderopvang vraagt die geboden wordt door een gastouder;  
 
-j. *vraagouder:* ouder die kinderopvang vraagt die geboden wordt door een gastouder;  
-
-k. *wet:* Wet kinderopvang en kwaliteitseisen peuterspeelzalen.   
+j. *wet:* Wet kinderopvang en kwaliteitseisen peuterspeelzalen.   
 
 ### Paragraaf  2  
 
@@ -84,11 +82,11 @@ d. specifieke aandacht voor de wijze waarop personeel moet omgaan met gegevens w
 
 a. het in kaart brengen van de signalen van huiselijk geweld en kindermishandeling;  
 
-b. collegiale consultatie en zo nodig raadplegen van het steunpunt huiselijk geweld, het advies- en meldpunt kindermishandeling of een deskundige op het gebied van letselduiding;  
+b. collegiale consultatie en zo nodig raadplegen van het AMHK of een deskundige op het gebied van letselduiding;  
 
 c. een gesprek met de ouders en, indien mogelijk, het kind;  
 
-d. het wegen van het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling en bij twijfel altijd raadplegen van het steunpunt huiselijk geweld of het advies- en meldpunt kindermishandeling, en  
+d. het wegen van het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling en bij twijfel altijd raadplegen van het AMHK en  
 
 e. beslissen: zelf hulp bieden of hulp organiseren dan wel het doen van een melding.    
 
@@ -172,11 +170,11 @@ d. specifieke aandacht voor de wijze waarop gastouders moeten omgaan met gegeven
 
 a. het in kaart brengen van de signalen van huiselijk geweld en kindermishandeling;  
 
-b. collegiale consultatie en zo nodig raadplegen van het steunpunt huiselijk geweld, het advies- en meldpunt kindermishandeling of een deskundige op het gebied van letselduiding;  
+b. collegiale consultatie en zo nodig raadplegen van het AMHK of een deskundige op het gebied van letselduiding;  
 
 c. een gesprek met de ouders en, indien mogelijk, het kind;  
 
-d. het wegen van het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling en bij twijfel altijd raadplegen van het steunpunt huiselijk geweld of het advies- en meldpunt kindermishandeling, en  
+d. het wegen van het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling en bij twijfel altijd raadplegen van het AMHK en  
 
 e. beslissen: zelf hulp bieden of hulp organiseren dan wel het doen van een melding.    
 
@@ -281,11 +279,11 @@ d. specifieke aandacht voor de wijze waarop personeel moet omgaan met gegevens w
 
 a. het in kaart brengen van de signalen van huiselijk geweld en kindermishandeling;  
 
-b. collegiale consultatie en zo nodig raadplegen van het steunpunt huiselijk geweld, het advies- en meldpunt kindermishandeling of een deskundige op het gebied van letselduiding;  
+b. collegiale consultatie en zo nodig raadplegen van het AMHK of een deskundige op het gebied van letselduiding;  
 
 c. een gesprek met de ouders en, indien mogelijk, het kind;  
 
-d. het wegen van het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling en bij twijfel altijd raadplegen van het steunpunt huiselijk geweld of het advies- en meldpunt kindermishandeling, en  
+d. het wegen van het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling en bij twijfel altijd raadplegen van het AMHK en  
 
 e. beslissen: zelf hulp bieden of hulp organiseren dan wel het doen van een melding.    
 
@@ -344,9 +342,9 @@ b. de elementen die het plan, bedoeld in het tweede lid, minimaal bevat.
 
 ####Overgangsrecht
 
-1.  De gastouder, de houder van een kindcentrum, van een gastouderbureau of van een peuterspeelzaal worden geacht tot 1 januari 2015 ten aanzien van die onderwerpen waarvan de toezichthouder na een onderzoek als bedoeld in artikel 1.62 of 2.20 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen, voor inwerkingtreding van dit besluit heeft vastgesteld dat er sprake is van een gelijkwaardig alternatief, voor zover er zich geen wijzigingen hebben voorgedaan tevens te voldoen aan de kwaliteitseisen opgenomen in dit besluit en de daarop gebaseerde ministeriële regeling betreffende die onderwerpen.   
-2.  Een certificaat als bedoeld in artikel 3, tweede lid, zoals dat lid luidde voorafgaande aan de inwerkingtreding van het Besluit van 16 augustus 2011 tot wijziging van het Besluit deskundigheidseisen gastouders kinderopvang in verband met het niet langer toelaten van het ervaringscertificaat als bewijs van deskundigheid (Stb. 398), dat is verstrekt voor 1 januari 2012, geeft blijk van het voldoen aan de in artikel 13, eerste lid, onderdeel a, van dit besluit bedoelde deskundigheidseis.   
-3.  Bij koninklijk besluit kan de termijn, genoemd in het eerste lid, eenmalig met één jaar worden verlengd.  
+1.  De gastouder of de houder van een kindcentrum, van een gastouderbureau of van een peuterspeelzaal wordt geacht tot 1 juli 2017 ten aanzien van die onderwerpen waarvan de toezichthouder na een onderzoek als bedoeld in artikel 1.62 of 2.20 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen, voor 6 juni 2012 heeft vastgesteld dat er sprake is van een gelijkwaardig alternatief, voor zover er zich geen wijzigingen hebben voorgedaan, tevens te voldoen aan de kwaliteitseisen opgenomen in dit besluit en de daarop gebaseerde ministeriële regeling betreffende die onderwerpen.   
+2.  Een certificaat als bedoeld in artikel 3, tweede lid, van het Besluit deskundigheidseisen gastouders kinderopvang, zoals dat lid luidde voorafgaande aan de inwerkingtreding van het Besluit van 16 augustus 2011 tot wijziging van het Besluit deskundigheidseisen gastouders kinderopvang in verband met het niet langer toelaten van het ervaringscertificaat als bewijs van deskundigheid (Stb. 398), dat is verstrekt voor 1 januari 2012, geeft blijk van het voldoen aan de in artikel 13, eerste lid, onderdeel a, van dit besluit bedoelde deskundigheidseis.   
+3.  Bij koninklijk besluit kan de termijn, genoemd in het eerste lid, eenmalig met een half jaar worden verlengd.  
 
 ### Paragraaf  2  
 

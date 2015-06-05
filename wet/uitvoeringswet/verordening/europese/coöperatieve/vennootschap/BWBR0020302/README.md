@@ -26,7 +26,7 @@ Een juridisch lichaam in de zin van artikel 2, tweede lid, van de Verordening ka
 
 ### Artikel  3  
 
-Tenzij de statuten anders bepalen, zijn de [leden 2 en 3 van artikel 86c van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van overeenkomstige toepassing op de levering van aandelen van een Europese coöperatieve vennootschap. 
+Tenzij de statuten anders bepalen, zijn de leden 2 en 3 van artikel 86c van Boek 2 van het Burgerlijk Wetboek van overeenkomstige toepassing op de levering van aandelen van een Europese coöperatieve vennootschap. 
 
 ### Artikel  4  
 
@@ -47,8 +47,8 @@ Ten behoeve van de verplaatsing van de statutaire zetel naar een andere lidstaat
 
 ### Artikel  7  
 
-1.  Als register voor de inschrijving van een Europese coöperatieve vennootschap met statutaire zetel in Nederland of van een Nederlandse nevenvestiging van een Europese coöperatieve vennootschap wordt aangewezen: het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md).   
-2.  Bij inschrijving van de zetelverplaatsing van een Europese coöperatieve vennootschap naar Nederland wordt een notariële akte die de statuten van de vennootschap bevat en is verleden door een notaris met standplaats in Nederland neergelegd ten kantore van het handelsregister. De [artikelen 65](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [69 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn van overeenkomstige toepassing.  
+1.  Als register voor de inschrijving van een Europese coöperatieve vennootschap met statutaire zetel in Nederland of van een Nederlandse nevenvestiging van een Europese coöperatieve vennootschap wordt aangewezen: het handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 2007.   
+2.  Bij inschrijving van de zetelverplaatsing van een Europese coöperatieve vennootschap naar Nederland wordt een notariële akte die de statuten van de vennootschap bevat en is verleden door een notaris met standplaats in Nederland neergelegd ten kantore van het handelsregister. De artikelen 65 en 69 van Boek 2 van het Burgerlijk Wetboek zijn van overeenkomstige toepassing.  
 
 ### Artikel  8  
 
@@ -60,12 +60,12 @@ Een coöperatie met statutaire zetel in Nederland kan niet aan de oprichting van
 
 ### Artikel  10  
 
-De coöperatie met statutaire zetel in Nederland die overeenkomstig artikel 35 van de Verordening een voorstel tot omzetting in een Europese coöperatieve vennootschap heeft opgesteld, legt het voorstel neer ten kantore van het handelsregister en kondigt de nederlegging aan in een landelijk verspreid dagblad. Een accountant als bedoeld in [artikel 393 lid 1 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) stelt, voorafgaand aan de algemene vergadering, vast dat het voorstel tot omzetting voldoet aan het bepaalde in artikel 22, eerste lid, onder b, van de Verordening. 
+De coöperatie met statutaire zetel in Nederland die overeenkomstig artikel 35 van de Verordening een voorstel tot omzetting in een Europese coöperatieve vennootschap heeft opgesteld, legt het voorstel neer ten kantore van het handelsregister en kondigt de nederlegging aan in een landelijk verspreid dagblad. Een accountant als bedoeld in artikel 393 lid 1 van Boek 2 van het Burgerlijk Wetboek stelt, voorafgaand aan de algemene vergadering, vast dat het voorstel tot omzetting voldoet aan het bepaalde in artikel 22, eerste lid, onder b, van de Verordening. 
 
 ### Artikel  11  
 
 1.  De benoeming van de leden van het leidinggevend orgaan geschiedt door het toezichthoudend orgaan, tenzij in de statuten is bepaald dat benoeming geschiedt door de algemene vergadering.   
-2.  Voor de toepassing van artikel 37, tweede lid, van de Verordening zijn de [leden 2, 4, 5 en 6 van artikel 37 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van overeenkomstige toepassing op de Europese coöperatieve vennootschap met statutaire zetel in Nederland.  
+2.  Voor de toepassing van artikel 37, tweede lid, van de Verordening zijn de leden 2, 4, 5 en 6 van artikel 37 van Boek 2 van het Burgerlijk Wetboek van overeenkomstige toepassing op de Europese coöperatieve vennootschap met statutaire zetel in Nederland.  
 
 ### Artikel  12  
 
@@ -74,7 +74,7 @@ De statuten van de Europese coöperatieve vennootschap met statutaire zetel in N
 ### Artikel  13  
 
 1.  Het bestuursorgaan als bedoeld in artikel 42 van de Verordening bestaat uit ten minste drie leden.   
-2.  De [artikelen 7](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [45 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn van overeenkomstige toepassing op een Europese coöperatieve vennootschap met statutaire zetel in Nederland.  
+2.  De artikelen 7 en 45 van Boek 2 van het Burgerlijk Wetboek zijn van overeenkomstige toepassing op een Europese coöperatieve vennootschap met statutaire zetel in Nederland.  
 3. Voor de toepassing van artikel 46, eerste lid, van de Verordening geldt dat de leden van het bestuursorgaan die overeenkomstig een onderlinge taakverdeling niet belast zijn met het uitvoerend bestuur, natuurlijke personen moeten zijn. 
 3.  Voor de toepassing van artikel 46, eerste lid, van de Verordening geldt dat de leden van het bestuursorgaan die overeenkomstig een taakverdeling niet belast zijn met het uitvoerend bestuur, natuurlijke personen moeten zijn. 
 
@@ -100,7 +100,7 @@ In de statuten kan de bestemming van het batig saldo, bedoeld in artikel 75 van 
 
 ### Artikel  19  
 
-De Europese coöperatieve vennootschap met statutaire zetel in Nederland die overeenkomstig artikel 76 van de Verordening een voorstel tot omzetting in een coöperatie heeft opgesteld, legt het voorstel neer ten kantore van het handelsregister en kondigt de nederlegging aan in een landelijk verspreid dagblad. Een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) stelt, voorafgaand aan de algemene vergadering, vast dat de in een coöperatie om te zetten Europese coöperatieve vennootschap over activa beschikt die minimaal overeenstemmen met het kapitaal. 
+De Europese coöperatieve vennootschap met statutaire zetel in Nederland die overeenkomstig artikel 76 van de Verordening een voorstel tot omzetting in een coöperatie heeft opgesteld, legt het voorstel neer ten kantore van het handelsregister en kondigt de nederlegging aan in een landelijk verspreid dagblad. Een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek stelt, voorafgaand aan de algemene vergadering, vast dat de in een coöperatie om te zetten Europese coöperatieve vennootschap over activa beschikt die minimaal overeenstemmen met het kapitaal. 
 
 ### Artikel  20  
 

@@ -10,8 +10,6 @@ Besluiten:
 
 ####Begripsbepalingen
 
-Treedt in werking per 21-12-2014 
-
 1.  In dit besluit wordt verstaan onder: 
 
 a.  *de Dienst:* de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2, eerste lid, van de Organisatiewet Kadaster;  
@@ -25,8 +23,6 @@ d.  *het besluit:* het Besluit verlening mandaat, volmacht en machtiging algemen
 ### Artikel  2  
 
 ####Verlening van ondervolmacht aan functionarissen
-
-Treedt in werking per 21-12-2014 
 
 1.  De directeur Landregistratie en Geografie verleent ten aanzien van de bevoegdheden die aan hem zijn verleend op grond van artikel 2 van het besluit, ondervolmacht tot het verrichten van privaatrechtelijke rechtshandelingen met (mogelijke) financiële gevolgen aan de hierna in de onderdelen a tot en met e genoemde functionarissen van zijn directie, onverminderd de in die onderdelen vermelde voor hen daarbij geldende restricties: 
 
@@ -87,15 +83,11 @@ b. de coördinator Personeels- en Salaris Administratie (PSA) en de coördinator
 
 ####Van mandaat uitgesloten bevoegdheden
 
-Treedt in werking per 21-12-2014 
-
 Aan het bestuur blijven voorbehouden de bevoegdheden, bedoeld in artikel 3 van het besluit. 
 
 ### Artikel  4  
 
 ####Overige uitgesloten bevoegdheden en begrenzing mandaat, volmacht en machtiging
-
-Treedt in werking per 21-12-2014 
 
 1.  Een functionaris aan wie ondervolmacht is verleend, is niet bevoegd een privaatrechtelijke rechtshandeling te verrichten met betrekking tot hemzelf.   
 2.  Een functionaris aan wie ondervolmacht is verleend, is niet bevoegd een privaatrechtelijke rechtshandeling met een mogelijke precedentwerking te verrichten. Een functionaris als bedoeld in de eerste zin van dit artikellid legt een beslissing tot het verrichten van een rechtshandeling als bedoeld in die zin steeds aan het bestuur ter beslissing voor.   
@@ -107,23 +99,17 @@ Treedt in werking per 21-12-2014
 
 ####Intrekking eerdere regeling
 
-Treedt in werking per 21-12-2014 
-
 Het Besluit directeuren tot verlening ondervolmacht niet-personele aangelegenheden Kadaster wordt ingetrokken. 
 
 ### Artikel  6  
 
 ####Inwerkingtreding
 
-Treedt in werking per 21-12-2014 
-
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst 
 
 ### Artikel  7  
 
 ####Citeertitel
-
-Treedt in werking per 21-12-2014 
 
 Dit besluit wordt aangehaald als: Besluit directeuren tot verlening ondervolmacht algemene aangelegenheden Kadaster 2014. 
 Dit besluit zal met de toelichting worden bekendgemaakt in de Staatscourant.   

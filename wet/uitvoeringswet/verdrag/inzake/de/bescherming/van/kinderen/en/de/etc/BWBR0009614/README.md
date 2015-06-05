@@ -46,11 +46,11 @@ b.de centrale autoriteit van de staat van herkomst: de in de staat van herkomst 
 
 ###Artikel 5 
 
-Personen die hun gewone verblijfplaats in Nederland hebben en die een kind wensen te adopteren dat zijn gewone verblijfplaats heeft in een andere staat die partij is bij het verdrag, behoeven daartoe een beginseltoestemming van Onze Minister van Justitie als bedoeld in de [Wet opneming buitenlandse kinderen ter adoptie](../../../../../../../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md). 
+Personen die hun gewone verblijfplaats in Nederland hebben en die een kind wensen te adopteren dat zijn gewone verblijfplaats heeft in een andere staat die partij is bij het verdrag, behoeven daartoe een beginseltoestemming van Onze Minister van Justitie als bedoeld in de Wet opneming buitenlandse kinderen ter adoptie. 
 
 ###Artikel 6 
 
-1. Het rapport, bedoeld in artikel 15 van het verdrag, wordt door de vergunninghouder wiens bemiddeling door de aspirant-adoptiefouders is ingeroepen – in deze wet verder aan te duiden als «de vergunninghouder» – samengesteld en toegezonden aan de centrale autoriteit van de staat van herkomst, onder mededeling dat bij de binnenkomst van het kind in Nederland moet zijn voldaan aan de voorwaarde van [artikel 8, onder a, van de Wet opneming buitenlandse kinderen](../../../../../../../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md) ter adoptie. 
+1. Het rapport, bedoeld in artikel 15 van het verdrag, wordt door de vergunninghouder wiens bemiddeling door de aspirant-adoptiefouders is ingeroepen – in deze wet verder aan te duiden als «de vergunninghouder» – samengesteld en toegezonden aan de centrale autoriteit van de staat van herkomst, onder mededeling dat bij de binnenkomst van het kind in Nederland moet zijn voldaan aan de voorwaarde van artikel 8, onder a, van de Wet opneming buitenlandse kinderen ter adoptie. 
 2. Ingeval de adoptie in de staat van herkomst wordt uitgesproken en deze adoptie niet tot gevolg zal hebben dat de voordien bestaande familierechtelijke betrekkingen worden verbroken, roept de vergunninghouder de tussenkomst van de centrale autoriteit van de staat van herkomst in met het oog op de verkrijging van de in artikel 4, onder c en d, van het verdrag bedoelde toestemmingen voor de omzetting van de adoptie in een adoptie naar Nederlands recht. 
 
 ### Artikel  7  
@@ -74,7 +74,7 @@ De verklaring, bedoeld in artikel 23 van het verdrag, wordt op verzoek afgegeven
 ### Artikel  11  
 
 1.  Ingeval een in de staat van herkomst in overeenstemming met het verdrag tot stand gekomen adoptie door personen die hun gewone verblijfplaats in Nederland hebben, niet tot gevolg heeft dat de voordien bestaande familierechtelijke betrekkingen worden verbroken, ziet de vergunninghouder erop toe dat in Nederland een verzoek tot omzetting in een adoptie naar Nederlands recht wordt ingediend.    
-2.  Het verzoek wordt toegewezen indien de adoptie in het kennelijk belang is van het kind en op de dag van de indiening ervan is voldaan aan [artikel 228, eerste lid, onder a en d, van Boek 1 van Het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md). De omzetting heeft de gevolgen, bedoeld in de [artikelen 229 tot en met 232 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).    
+2.  Het verzoek wordt toegewezen indien de adoptie in het kennelijk belang is van het kind en op de dag van de indiening ervan is voldaan aan artikel 228, eerste lid, onder a en d, van Boek 1 van Het Burgerlijk Wetboek. De omzetting heeft de gevolgen, bedoeld in de artikelen 229 tot en met 232 van Boek 1 van het Burgerlijk Wetboek.    
 3.  Van de omzetting wordt een verklaring afgegeven overeenkomstig artikel 10.   
 
 ### HOOFDSTUK  4  
@@ -114,7 +114,7 @@ Wijzigt Boek 1 van het Burgerlijk Wetboek.
 ###Artikel 17 
 
 1. De hoofdstukken van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende hoofdstukken of onderdelen daarvan verschillend kan worden vastgesteld. 
-2. Vergunningen die op grond van de [Wet opneming buitenlandse pleegkinderen](../../../../../../../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md) zijn verleend vóór het tijdstip van inwerkingtreding van deze wet, vervallen van rechtswege twee jaren na dat tijdstip. 
+2. Vergunningen die op grond van de Wet opneming buitenlandse pleegkinderen zijn verleend vóór het tijdstip van inwerkingtreding van deze wet, vervallen van rechtswege twee jaren na dat tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    
 
