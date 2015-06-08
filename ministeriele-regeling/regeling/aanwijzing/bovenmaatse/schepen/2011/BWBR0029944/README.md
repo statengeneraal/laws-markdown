@@ -3,7 +3,7 @@
 ##Regeling aanwijzing bovenmaatse schepen 2011
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op [artikel 4, eerste en derde lid, van het Vaststellingsbesluit Binnenvaartpolitiereglement](../../../../../../../AMvB/vaststellingsbesluit/binnenvaartpolitiereglement/BWBR0003627/README.md) en op de [artikelen 1.01, onderdeel A, onder 8°](../../../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md), en [artikel 10.02, eerste lid, van het Binnenvaartpolitiereglement](../../../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md);
+Gelet op artikel 4, eerste en derde lid, van het Vaststellingsbesluit Binnenvaartpolitiereglement en op de artikelen 1.01, onderdeel A, onder 8°, en artikel 10.02, eerste lid, van het Binnenvaartpolitiereglement;
 Besluit:    
 
 ### Artikel  1  
@@ -40,11 +40,11 @@ n. dat zich bevindt in het Afgesloten IJ vanaf de oostzijde van de ingang van de
 
 ### Artikel  2  
 
-Het [besluit van de Minister van Verkeer en Waterstaat van 18 mei 1993, nr. DGSM/J 30.876/93 houdende vaststelling diepgang of scheepslengte verbonden aan gedeelte van vaarweg](../../../../../../../ministeriele-regeling/vaststelling/diepgang/of/scheepslengte/verbonden/aan/gedeelte/van/vaarweg/BWBR0005991/README.md) (Stcrt. 98) en het [Besluit aanwijzing bovenmaatse schepen](../../../../../../../ministeriele-regeling/besluit/aanwijzing/bovenmaatse/schepen/BWBR0017542/README.md) worden ingetrokken. 
+Het besluit van de Minister van Verkeer en Waterstaat van 18 mei 1993, nr. DGSM/J 30.876/93 houdende vaststelling diepgang of scheepslengte verbonden aan gedeelte van vaarweg (Stcrt. 98) en het Besluit aanwijzing bovenmaatse schepen worden ingetrokken. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit van 20 september 2010, houdende vaststelling van een aantal wijzigingen van het Vaststellingsbesluit Binnenvaartpolitiereglement, het Besluit Rijnvaartpolitiereglement 1995, het Scheepvaartreglement Westerschelde 1990, het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen, het Scheepvaartreglement territoriale zee, het Besluit verkeersinformatie en verkeersaanwijzingen scheepvaartverkeer, het Besluit administratieve bepalingen scheepvaartverkeer, het Besluit houdende het van toepassing verklaren van de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972, het Scheepvaartreglement Eemsmonding en het Besluit statistische gegevens scheepvaartverkeer](../../../../../../../AMvB/wijzigingsbesluit/vaststellingsbesluit/binnenvaartpolitiereglement/enz./BWBR0028923/README.md) (Stb. 748) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop het Besluit van 20 september 2010, houdende vaststelling van een aantal wijzigingen van het Vaststellingsbesluit Binnenvaartpolitiereglement, het Besluit Rijnvaartpolitiereglement 1995, het Scheepvaartreglement Westerschelde 1990, het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen, het Scheepvaartreglement territoriale zee, het Besluit verkeersinformatie en verkeersaanwijzingen scheepvaartverkeer, het Besluit administratieve bepalingen scheepvaartverkeer, het Besluit houdende het van toepassing verklaren van de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972, het Scheepvaartreglement Eemsmonding en het Besluit statistische gegevens scheepvaartverkeer (Stb. 748) in werking treedt. 
 
 ### Artikel  4  
 

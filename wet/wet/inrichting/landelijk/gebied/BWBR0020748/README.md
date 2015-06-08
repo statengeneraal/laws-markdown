@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regels te stellen over de verdeling van bevoegdheden tussen Rijk en provincies bij de vaststelling, financiering en uitvoering van het gebiedsgerichte beleid en dat om in het kader van dat beleid te komen tot een doelmatiger toepassing van het instrument van de landinrichting de bepalingen van de [Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) zodanig ingrijpend moeten worden herzien dat het wenselijk is hiervoor een geheel nieuwe wettelijke regeling vast te stellen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is regels te stellen over de verdeling van bevoegdheden tussen Rijk en provincies bij de vaststelling, financiering en uitvoering van het gebiedsgerichte beleid en dat om in het kader van dat beleid te komen tot een doelmatiger toepassing van het instrument van de landinrichting de bepalingen van de Landinrichtingswet zodanig ingrijpend moeten worden herzien dat het wenselijk is hiervoor een geheel nieuwe wettelijke regeling vast te stellen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  1  
 
@@ -32,9 +32,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2°. de huurder van zulk een zaak, of  
 
-3°. degene aan wie met betrekking tot zulk een zaak een recht als bedoeld in [artikel 252 van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) toebehoort;    
+3°. degene aan wie met betrekking tot zulk een zaak een recht als bedoeld in artikel 252 van Boek 6 van het Burgerlijk Wetboek toebehoort;    
 
-–  *openbare registers:* openbare registers als bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md);  
+–  *openbare registers:* openbare registers als bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek;  
 
 –  *Onze Minister:* Onze Minister van Economische Zaken.     
 2.  Voor zover niet anders bepaald, wordt in deze wet en de daarop berustende bepalingen verstaan onder: 
@@ -45,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  2  
 
-1.  Gedeputeerde staten kunnen de op grond van de hoofdstukken 4 tot en met 8 van deze wet aan hen toekomende bevoegdheden delegeren aan een bestuurscommissie als bedoeld in [artikel 81, eerste lid, van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md), of aan een ander orgaan.   
+1.  Gedeputeerde staten kunnen de op grond van de hoofdstukken 4 tot en met 8 van deze wet aan hen toekomende bevoegdheden delegeren aan een bestuurscommissie als bedoeld in artikel 81, eerste lid, van de Provinciewet, of aan een ander orgaan.   
 2.  De Dienst landelijk gebied staat desgevraagd gedeputeerde staten en andere openbare lichamen bij: 
 
 a. in de uitoefening van de bij of krachtens deze of enige andere wet aan hen toegekende en op landinrichting betrekking hebbende bevoegdheden, en  
@@ -103,7 +103,7 @@ f. in voorkomend geval de maatregelen of voorzieningen voor de verwezenlijking w
 
 ### Artikel  18  
 
-1.  Op de voorbereiding van het inrichtingsplan of van een wijziging daarvan is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+1.  Op de voorbereiding van het inrichtingsplan of van een wijziging daarvan is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
 2.  Voorafgaand aan de terinzagelegging van het ontwerp van het inrichtingsplan of van het ontwerp van een wijziging van het inrichtingsplan, voeren gedeputeerde staten daaromtrent overleg met burgemeester en wethouders van de betrokken gemeenten en de dagelijkse besturen van de betrokken waterschappen.  
 
 ### Artikel  20  
@@ -121,11 +121,11 @@ Voor zover een inrichtingsplan als een van de maatregelen en voorzieningen, bedo
 
 1.  Geen wijziging wordt gebracht in de rechten en in de gebruikstoestand ten aanzien van: 
 
-a. begraafplaatsen, crematoria en bewaarplaatsen als bedoeld in onderscheidenlijk de [artikelen 23](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md), [49](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md) en [62, eerste lid, onder c, van de Wet op de lijkbezorging](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md);  
+a. begraafplaatsen, crematoria en bewaarplaatsen als bedoeld in onderscheidenlijk de artikelen 23, 49 en 62, eerste lid, onder c, van de Wet op de lijkbezorging;  
 
-b. gesloten begraafplaatsen dan wel graven of grafkelders als bedoeld in [artikel 85 van de Wet op de lijkbezorging](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md), binnen de termijnen en anders dan op de wijze, omschreven in [artikel 46, tweede en derde lid, van die wet](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md).     
+b. gesloten begraafplaatsen dan wel graven of grafkelders als bedoeld in artikel 85 van de Wet op de lijkbezorging, binnen de termijnen en anders dan op de wijze, omschreven in artikel 46, tweede en derde lid, van die wet.     
 2.  Zonder instemming van Onze Minister van Defensie wordt geen wijziging gebracht in de gebruikstoestand van onroerende zaken die een militaire bestemming hebben.   
-3.  Zonder instemming van de eigenaar wordt geen wijziging gebracht in diens recht ten aanzien van gebouwen, behoudens in geval van onteigening als bedoeld in [artikel 122 van de onteigeningswet](../../../../../../wet/onteigeningswet/BWBR0001842/README.md).  
+3.  Zonder instemming van de eigenaar wordt geen wijziging gebracht in diens recht ten aanzien van gebouwen, behoudens in geval van onteigening als bedoeld in artikel 122 van de onteigeningswet.  
 
 ### Hoofdstuk  5  
 
@@ -193,7 +193,7 @@ b. een ander openbaar lichaam of een andere rechtspersoon dan de provincie, indi
 
 ### Artikel  31  
 
-1.  Voor zover het openbaar lichaam of de rechtspersoon voorheen niet was belast met het beheer en het onderhoud van openbare wegen, waterlopen, dijken of kaden met de daartoe behorende kunstwerken, gaan het beheer en onderhoud, in afwijking van de [artikelen 1](../../../../../../wet/waterstaatswet/1900/BWBR0001867/README.md) en [2 van de Waterstaatswet 1900](../../../../../../wet/waterstaatswet/1900/BWBR0001867/README.md) en de [artikelen 18a](../../../../../../wet/wegenwet/BWBR0001948/README.md), [19](../../../../../../wet/wegenwet/BWBR0001948/README.md) en [20 van de Wegenwet](../../../../../../wet/wegenwet/BWBR0001948/README.md), over op het tijdstip van bekendmaking van het inrichtingsplan.   
+1.  Voor zover het openbaar lichaam of de rechtspersoon voorheen niet was belast met het beheer en het onderhoud van openbare wegen, waterlopen, dijken of kaden met de daartoe behorende kunstwerken, gaan het beheer en onderhoud, in afwijking van de artikelen 1 en 2 van de Waterstaatswet 1900 en de artikelen 18a, 19 en 20 van de Wegenwet, over op het tijdstip van bekendmaking van het inrichtingsplan.   
 2.  Het beheer en het onderhoud van de voorzieningen, bedoeld in het eerste lid, gaan over op een later tijdstip dan bedoeld in het eerste lid indien: 
 
 a. aan bestaande voorzieningen verbeteringswerken worden uitgevoerd; of  
@@ -208,14 +208,14 @@ b. het nieuwe voorzieningen betreft.   Gedeputeerde staten van de provincie waar
 
 ### Artikel  33  
 
-1.  In afwijking van de [artikelen 8](../../../../../../wet/wegenwet/BWBR0001948/README.md) en [9 van de Wegenwet](../../../../../../wet/wegenwet/BWBR0001948/README.md) kan in het inrichtingsplan de aanduiding worden opgenomen van wegen met de daartoe behorende kunstwerken die voorheen voor het openbaar verkeer waren opengesteld en die door het enkele feit van deze aanduiding aan het openbaar verkeer worden onttrokken.   
-2.  Aan wegen met de daartoe behorende kunstwerken die in het inrichtingsplan als openbare weg zijn opgenomen maar die voorheen niet voor het openbaar verkeer waren opengesteld, is, in afwijking van de [artikelen 4](../../../../../../wet/wegenwet/BWBR0001948/README.md) en [5 van de Wegenwet](../../../../../../wet/wegenwet/BWBR0001948/README.md), door het enkele feit van opneming de bestemming van openbare weg gegeven.   
+1.  In afwijking van de artikelen 8 en 9 van de Wegenwet kan in het inrichtingsplan de aanduiding worden opgenomen van wegen met de daartoe behorende kunstwerken die voorheen voor het openbaar verkeer waren opengesteld en die door het enkele feit van deze aanduiding aan het openbaar verkeer worden onttrokken.   
+2.  Aan wegen met de daartoe behorende kunstwerken die in het inrichtingsplan als openbare weg zijn opgenomen maar die voorheen niet voor het openbaar verkeer waren opengesteld, is, in afwijking van de artikelen 4 en 5 van de Wegenwet, door het enkele feit van opneming de bestemming van openbare weg gegeven.   
 3.  De in het eerste en tweede lid genoemde rechtsgevolgen gaan in op het tijdstip van bekendmaking van het inrichtingsplan.   
 4.  In afwijking van het derde lid kunnen gedeputeerde staten van de provincie waar de betrokken wegen met de daartoe behorende kunstwerken geheel of grotendeels zijn gelegen, in voorkomend geval in overeenstemming met gedeputeerde staten van de provincies waar de betrokken wegen en kunstwerken mede zijn gelegen, besluiten dat de in dat lid bedoelde rechtsgevolgen ingaan op een ander, door hen te bepalen tijdstip, dat voor de onderscheiden wegen met de daartoe behorende kunstwerken, verschillend kan zijn.  
 
 ### Artikel  34  
 
-1.  Na bekendmaking van het inrichtingsplan wordt op een door gedeputeerde staten te bepalen tijdstip een akte ter zake van de toewijzing, bedoeld in artikel 28, onderdeel a, een en ander voor zover de toewijzing betrekking heeft op onroerende zaken gelegen buiten een blok, opgemaakt door een door gedeputeerde staten aan te wijzen notaris en ondertekend door de voorzitter van gedeputeerde staten en de secretaris, bedoeld in [artikel 100 van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md).   
+1.  Na bekendmaking van het inrichtingsplan wordt op een door gedeputeerde staten te bepalen tijdstip een akte ter zake van de toewijzing, bedoeld in artikel 28, onderdeel a, een en ander voor zover de toewijzing betrekking heeft op onroerende zaken gelegen buiten een blok, opgemaakt door een door gedeputeerde staten aan te wijzen notaris en ondertekend door de voorzitter van gedeputeerde staten en de secretaris, bedoeld in artikel 100 van de Provinciewet.   
 2.  Door de inschrijving van de akte in de openbare registers wordt de daarin omschreven eigendom verkregen.   
 3.  Voor zover tegen het inrichtingsplan beroep is ingesteld betreffende de in het eerste lid bedoelde toewijzing, doen gedeputeerde staten van de uitspraak in beroep mededeling door toezending, ter inschrijving in de openbare registers, aan het desbetreffende kantoor van de Dienst voor het kadaster en de openbare registers: 
 
@@ -223,7 +223,7 @@ a. indien door de uitspraak in beroep de eigendom aan een ander wordt toegewezen
 
 b. indien de in artikel 81 bedoelde ruilakte is ingeschreven in de openbare registers en door de uitspraak in beroep de eigendom aan een ander wordt toegewezen dan in de ruilakte is vermeld.     
 4.  Door inschrijving van de uitspraak in beroep in de openbare registers wordt de in die uitspraak omschreven eigendom verkregen door de in die uitspraak genoemde openbare lichamen of andere rechtspersonen.   
-5.  Indien op grond van [artikel 8:81 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in samenhang met [artikel 46 van de Wet op de Raad van State](../../../../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) een voorlopige voorziening ter zake van het inrichtingsplan is gevraagd en is toegewezen, vindt het eerste lid geen toepassing zolang de werking van het besluit tot vaststelling van het inrichtingsplan krachtens de uitspraak van de voorzieningenrechter is opgeschort.  
+5.  Indien op grond van artikel 8:81 van de Algemene wet bestuursrecht in samenhang met artikel 46 van de Wet op de Raad van State een voorlopige voorziening ter zake van het inrichtingsplan is gevraagd en is toegewezen, vindt het eerste lid geen toepassing zolang de werking van het besluit tot vaststelling van het inrichtingsplan krachtens de uitspraak van de voorzieningenrechter is opgeschort.  
 
 ### Hoofdstuk  7  
 
@@ -317,8 +317,8 @@ Zonder dat wijziging van het inrichtingsplan vereist is, kunnen gedeputeerde sta
 
 ### Artikel  46  
 
-1.  Op de voorbereiding van een besluit als bedoeld in artikel 45, eerste lid, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
-2.  Tegelijk met de kennisgeving, bedoeld in [artikel 3:12, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geven gedeputeerde staten bij aangetekende brief kennis van de terinzagelegging en van de zakelijke inhoud van het ontwerp van het besluit aan de bij hen bekende belanghebbenden, waaronder voor zover van toepassing in ieder geval worden begrepen: 
+1.  Op de voorbereiding van een besluit als bedoeld in artikel 45, eerste lid, is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
+2.  Tegelijk met de kennisgeving, bedoeld in artikel 3:12, eerste lid, van de Algemene wet bestuursrecht geven gedeputeerde staten bij aangetekende brief kennis van de terinzagelegging en van de zakelijke inhoud van het ontwerp van het besluit aan de bij hen bekende belanghebbenden, waaronder voor zover van toepassing in ieder geval worden begrepen: 
 
 a. zij die met betrekking tot de gronden, bedoeld in artikel 45, eerste lid, voorkomen op de lijst van rechthebbenden, bedoeld in artikel 49, die onderdeel uitmaakt van het voor het desbetreffende blok in voorbereiding zijnde of vastgestelde ruilplan;  
 
@@ -356,7 +356,7 @@ De lijst van rechthebbenden vermeldt voor de gronden binnen het blok zo volledig
 
 ### Artikel  50  
 
-De lijst van rechthebbenden wordt opgemaakt aan de hand van de basisregistratie kadaster, bedoeld in [artikel 48 van de Kadasterwet](../../../../../../wet/kadasterwet/BWBR0004541/README.md), alsmede aan de hand van de openbare registers. 
+De lijst van rechthebbenden wordt opgemaakt aan de hand van de basisregistratie kadaster, bedoeld in artikel 48 van de Kadasterwet, alsmede aan de hand van de openbare registers. 
 
 ### Paragraaf   3  
 
@@ -383,7 +383,7 @@ f. de bepalingen inzake de ingebruikneming van de kavels.
 ### Artikel  52  
 
 1.  Iedere eigenaar heeft aanspraak op het verkrijgen van een recht van dezelfde aard als hij had op de in een blok gelegen onroerende zaken.   
-2.  De in het eerste lid bedoelde aanspraak bestaat niet ten aanzien van rechten op onroerende zaken die voor de verwezenlijking van het inrichtingsplan zijn of worden onteigend. De in het eerste lid bedoelde aanspraak bestaat evenwel wel ten aanzien van rechten op onroerende zaken, die in het kader van de realisatie van een infrastructurele voorziening als bedoeld in artikel 26, eerste lid, zijn onteigend, voor zover de onteigende partij aangeeft tegen evenredige inbreng van de hem ingevolge de [onteigeningswet](../../../../../../wet/onteigeningswet/BWBR0001842/README.md) toekomende schadeloosstelling in aanmerking te willen komen voor toedeling van grond.   
+2.  De in het eerste lid bedoelde aanspraak bestaat niet ten aanzien van rechten op onroerende zaken die voor de verwezenlijking van het inrichtingsplan zijn of worden onteigend. De in het eerste lid bedoelde aanspraak bestaat evenwel wel ten aanzien van rechten op onroerende zaken, die in het kader van de realisatie van een infrastructurele voorziening als bedoeld in artikel 26, eerste lid, zijn onteigend, voor zover de onteigende partij aangeeft tegen evenredige inbreng van de hem ingevolge de onteigeningswet toekomende schadeloosstelling in aanmerking te willen komen voor toedeling van grond.   
 3.  Voor zover het belang van de landinrichting zich hiertegen niet verzet, wordt aan iedere eigenaar een recht toegedeeld met betrekking tot onroerende zaken van gelijke hoedanigheid en gebruiksbestemming als door hem is ingebracht.   
 4.  Bij ministeriële regeling worden nadere regels gesteld omtrent de uitvoering van het tweede lid, tweede volzin, en de in het derde lid bedoelde gelijke hoedanigheid en gebruiksbestemming.  
 
@@ -436,7 +436,7 @@ In afwijking van artikel 51, tweede lid, kunnen in het plan van toedeling met to
 
 1.  Voor zover de onroerende zaken in het plan van toedeling zijn opgenomen, worden de niet onder artikel 52 begrepen beperkte rechten, het recht van huur en de lasten die met betrekking tot die onroerende zaken bestaan, geregeld of opgeheven onder de regeling van de geldelijke gevolgen daarvan. Ruilverkavelings-, herinrichtings-, reconstructie- en landinrichtingsrenten worden afgekocht overeenkomstig de daaromtrent geldende wettelijke bepalingen.   
 2.  In het belang van de herverkaveling kunnen beperkte rechten worden gevestigd.   
-3.  Hypotheken gaan met behoud van hun rang over op de kavels of gedeelten van kavels die in de plaats van de onroerende zaak waarop zij rusten, worden toegedeeld. In de gevallen, bedoeld in artikel 58, oefenen de hypotheekhouder en degene die op de zaak een recht van grondrente had, hun rechten uit op de wijze als omschreven in [artikel 43 van de onteigeningswet](../../../../../../wet/onteigeningswet/BWBR0001842/README.md).   
+3.  Hypotheken gaan met behoud van hun rang over op de kavels of gedeelten van kavels die in de plaats van de onroerende zaak waarop zij rusten, worden toegedeeld. In de gevallen, bedoeld in artikel 58, oefenen de hypotheekhouder en degene die op de zaak een recht van grondrente had, hun rechten uit op de wijze als omschreven in artikel 43 van de onteigeningswet.   
 4.  Conservatoire en executoriale beslagen gaan over op de kavels of gedeelten van kavels die in de plaats van de onroerende zaak waarop zij gelegd zijn, worden toegedeeld, alsmede op de geldsommen die in de plaats van kavels of ter zake van onderbedeling worden toegekend.  
 
 ### Paragraaf   4  
@@ -483,9 +483,9 @@ d. een opgave van de geldelijke verrekeningen voor de betrokken pachters als gev
 
 ### Artikel  64  
 
-1.  Op de voorbereiding van een besluit tot vaststelling van een ruilplan is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
-2.  Ten behoeve van het opstellen van het ontwerp, bedoeld in [artikel 3:11, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), geven gedeputeerde staten toepassing aan de artikelen 65 en met 66.   
-3.  Tegelijk met de kennisgeving, bedoeld in [artikel 3:12, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geven gedeputeerde staten bij aangetekende brief kennis van de terinzagelegging en van de zakelijke inhoud van het ontwerp van het besluit aan de bij hen bekende belanghebbenden, onder wie in ieder geval worden begrepen: 
+1.  Op de voorbereiding van een besluit tot vaststelling van een ruilplan is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
+2.  Ten behoeve van het opstellen van het ontwerp, bedoeld in artikel 3:11, eerste lid, van de Algemene wet bestuursrecht, geven gedeputeerde staten toepassing aan de artikelen 65 en met 66.   
+3.  Tegelijk met de kennisgeving, bedoeld in artikel 3:12, eerste lid, van de Algemene wet bestuursrecht geven gedeputeerde staten bij aangetekende brief kennis van de terinzagelegging en van de zakelijke inhoud van het ontwerp van het besluit aan de bij hen bekende belanghebbenden, onder wie in ieder geval worden begrepen: 
 
 a. zij die voorkomen op de lijst van rechthebbenden, bedoeld in artikel 49, welke onderdeel uitmaakt van het ontwerpbesluit;  
 
@@ -497,13 +497,13 @@ c. de wederpartij, bedoeld in artikel 65, vijfde lid.
 
 1.  Pachtovereenkomsten kunnen tot een door gedeputeerde staten te bepalen tijdstip ter registratie aan gedeputeerde staten worden ingezonden.   
 2.  Indien pachtovereenkomsten zijn aangegaan na het tijdstip, bedoeld in het eerste lid, kunnen deze uiterlijk vier weken na het aangaan daarvan ter registratie worden ingezonden, doch uiterlijk tot een door gedeputeerde staten te bepalen tijdstip.   
-3.  Ten aanzien van de tijdstippen, bedoeld in het eerste en tweede lid, is [artikel 3:42, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+3.  Ten aanzien van de tijdstippen, bedoeld in het eerste en tweede lid, is artikel 3:42, eerste lid, van de Algemene wet bestuursrecht van toepassing.   
 4.  Van de registratie wordt door gedeputeerde staten een bewijs afgegeven.   
 5.  Gedeputeerde staten zenden aan de wederpartij van degene die een pachtovereenkomst ter registratie heeft ingezonden bij aangetekende brief bericht van de inzending ter registratie.   
 6.  De wederpartij kan zijn bedenkingen tegen de registratie binnen twee weken na de dagtekening van de brief, bedoeld in het vijfde lid, schriftelijk aan gedeputeerde staten kenbaar maken.   
 7.  Indien overeenkomstig het zesde lid bedenkingen kenbaar zijn gemaakt, stellen gedeputeerde staten, onder vaststelling van die bedenkingen, bij aangetekende brief partijen ervan in kennis dat binnen twee weken na de dagtekening van deze brief aan gedeputeerde staten wordt gezonden hetzij een door beide partijen gewaarmerkte akte waaruit blijkt dat overeenstemming is verkregen, hetzij een gewaarmerkt afschrift van het verzoekschrift waarbij de meest gerede partij de beslissing van de pachtkamer van de rechtbank binnen welks rechtsgebied de desbetreffende onroerende zaak geheel of gedeeltelijk is gelegen, heeft ingeroepen. De waarmerking van het afschrift geschiedt door de griffier van de rechtbank.   
-8.  Indien gedeputeerde staten van mening zijn dat met betrekking tot de ter registratie ingezonden pachtovereenkomst ten onrechte [artikel 318, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet in acht zijn genomen, dragen zij zo nodig partijen bij aangetekende brief op de beslissing van de grondkamer in te roepen en binnen vier weken na de dagtekening van deze brief een door de secretaris van de grondkamer gewaarmerkt afschrift van het verzoekschrift in te zenden.   
-9.  Indien gedeputeerde staten van mening zijn dat met betrekking tot de ter registratie ingezonden pachtovereenkomst [artikel 317, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet in acht is genomen, dragen zij zo nodig partijen bij aangetekende brief op de beslissing van de pachtkamer van de rechtbank in te roepen en binnen vier weken na de dagtekening van deze brief een door de griffier van de rechtbank gewaarmerkt afschrift van het verzoekschrift in te zenden.   
+8.  Indien gedeputeerde staten van mening zijn dat met betrekking tot de ter registratie ingezonden pachtovereenkomst ten onrechte artikel 318, eerste lid, van Boek 7 van het Burgerlijk Wetboek niet in acht zijn genomen, dragen zij zo nodig partijen bij aangetekende brief op de beslissing van de grondkamer in te roepen en binnen vier weken na de dagtekening van deze brief een door de secretaris van de grondkamer gewaarmerkt afschrift van het verzoekschrift in te zenden.   
+9.  Indien gedeputeerde staten van mening zijn dat met betrekking tot de ter registratie ingezonden pachtovereenkomst artikel 317, eerste lid, van Boek 7 van het Burgerlijk Wetboek niet in acht is genomen, dragen zij zo nodig partijen bij aangetekende brief op de beslissing van de pachtkamer van de rechtbank in te roepen en binnen vier weken na de dagtekening van deze brief een door de griffier van de rechtbank gewaarmerkt afschrift van het verzoekschrift in te zenden.   
 10.  Indien aan het zevende tot en met het negende lid geen gevolg is gegeven, hoeft in het ruilplan met het bestaan van de pachtovereenkomst geen rekening te worden houden.   
 11.  De grondkamer en de pachtkamer van de rechtbank en in beroep de Centrale Grondkamer en de pachtkamer van het gerechtshof Arnhem-Leeuwarden behandelen de verzoeken en vorderingen, bedoeld in het zevende tot en met het negende lid, vóór alle andere zaken.  
 
@@ -517,9 +517,9 @@ Gedeputeerde staten stellen in overeenstemming met gedeputeerde staten van de an
 
 ### Artikel  67  
 
-1.  Op de voorbereiding van een besluit tot vaststelling van een lijst der geldelijke regelingen is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
-2.  Ten behoeve van het opstellen van het ontwerp, bedoeld in [artikel 3:11, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), geven gedeputeerde staten toepassing aan artikel 68. Het ontwerp wordt opgesteld met inachtneming van het onherroepelijk geworden ruilplan.   
-3.  Tegelijk met de kennisgeving, bedoeld in [artikel 3:12, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geven gedeputeerde staten bij aangetekende brief kennis van de terinzagelegging en van de zakelijke inhoud van het ontwerp van het besluit aan de bij hen bekende belanghebbenden.  
+1.  Op de voorbereiding van een besluit tot vaststelling van een lijst der geldelijke regelingen is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
+2.  Ten behoeve van het opstellen van het ontwerp, bedoeld in artikel 3:11, eerste lid, van de Algemene wet bestuursrecht, geven gedeputeerde staten toepassing aan artikel 68. Het ontwerp wordt opgesteld met inachtneming van het onherroepelijk geworden ruilplan.   
+3.  Tegelijk met de kennisgeving, bedoeld in artikel 3:12, eerste lid, van de Algemene wet bestuursrecht geven gedeputeerde staten bij aangetekende brief kennis van de terinzagelegging en van de zakelijke inhoud van het ontwerp van het besluit aan de bij hen bekende belanghebbenden.  
 
 ### Artikel  68  
 
@@ -544,7 +544,7 @@ b. de geldelijke verrekeningen tussen de oude en de nieuwe eigenaar bij overgang
 
 ### Artikel  69  
 
-1.  Tegen het besluit, bedoeld in artikel 45, eerste lid, en het besluit tot vaststelling van het ruilplan onderscheidenlijk de lijst der geldelijke regelingen, kunnen belanghebbenden bij verzoekschrift als bedoeld in [artikel 261 van het Wetboek van Burgerlijke rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) in beroep komen bij de rechtbank, binnen het rechtsgebied waarvan gedeputeerde staten hun zetel hebben. De [artikelen 6:2](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [6:7 tot en met 6:20](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [6:22 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+1.  Tegen het besluit, bedoeld in artikel 45, eerste lid, en het besluit tot vaststelling van het ruilplan onderscheidenlijk de lijst der geldelijke regelingen, kunnen belanghebbenden bij verzoekschrift als bedoeld in artikel 261 van het Wetboek van Burgerlijke rechtsvordering in beroep komen bij de rechtbank, binnen het rechtsgebied waarvan gedeputeerde staten hun zetel hebben. De artikelen 6:2, 6:7 tot en met 6:20 en 6:22 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
 2.  Het verzoekschrift kan door belanghebbende of diens gemachtigde worden ondertekend.   
 3.  Zodra een verzoekschrift is ingediend, zendt de griffier een afschrift daarvan aan gedeputeerde staten. Gedeputeerde staten zenden onverwijld aan de griffier: 
 
@@ -560,7 +560,7 @@ d. afschriften van de overige op het ruilplan onderscheidenlijk de lijst der gel
 
 1.  De rechtbank beslist omtrent de wijze waarop het ruilplan onderscheidenlijk de lijst der geldelijke regelingen wordt gewijzigd na oproeping van de verzoeker, gedeputeerde staten en de belanghebbenden ten aanzien van wie het ruilplan onderscheidenlijk de lijst der geldelijke regelingen wordt gewijzigd indien het beroep gegrond is. Belanghebbenden en gedeputeerde staten kunnen bij gemachtigde verschijnen.   
 2.  De beroepen tegen het besluit tot vaststelling van het ruilplan onderscheidenlijk de lijst der geldelijke regelingen worden gezamenlijk behandeld.   
-3.  Tegen een beschikking van de rechtbank is geen hoger beroep toegelaten. Voor de belanghebbende die voor de rechtbank is verschenen en voor gedeputeerde staten staat beroep in cassatie open overeenkomstig de [artikelen 426 tot en met 429 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md).  
+3.  Tegen een beschikking van de rechtbank is geen hoger beroep toegelaten. Voor de belanghebbende die voor de rechtbank is verschenen en voor gedeputeerde staten staat beroep in cassatie open overeenkomstig de artikelen 426 tot en met 429 van het Wetboek van Burgerlijke Rechtsvordering.  
 
 ### Artikel  71  
 
@@ -603,7 +603,7 @@ Gedeputeerde staten delen zo spoedig mogelijk nadat het ruilplan onherroepelijk 
 1.  De grondkamer ontwerpt de pachtovereenkomsten die uit de gevestigde pachtverhoudingen voortvloeien en neemt daarin op de in artikel 54, tweede lid, bedoelde bepalingen.   
 2.  Indien ingevolge artikel 54, tweede lid, een overeenkomst die geldt voor een kortere dan de wettelijke duur verlengbaar zal zijn, doet de grondkamer daarvan blijken door een op de ontwerppachtovereenkomst gestelde en door haar ondertekende verklaring.   
 3.  De grondkamer zendt de ontwerppachtovereenkomst aan hen die daarbij partij zullen zijn en stelt hen in de gelegenheid binnen vier weken na toezending de ondertekende overeenkomst aan de grondkamer te doen toekomen. Betrokkenen kunnen de door hen overeengekomen pachtprijs alsmede bijzondere bepalingen in de overeenkomst opnemen.   
-4.  Op de in het derde lid bedoelde pachtovereenkomsten vindt de [titel 7.5 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) toepassing, met dien verstande dat de grondkamer niet treedt in de beoordeling van de bepalingen van de overeenkomst die voortvloeien uit de pachtverhouding zoals deze door het ruilplan is komen vast te staan.  
+4.  Op de in het derde lid bedoelde pachtovereenkomsten vindt de titel 7.5 van Boek 7 van het Burgerlijk Wetboek toepassing, met dien verstande dat de grondkamer niet treedt in de beoordeling van de bepalingen van de overeenkomst die voortvloeien uit de pachtverhouding zoals deze door het ruilplan is komen vast te staan.  
 
 ### Artikel  77  
 
@@ -635,17 +635,17 @@ Indien partijen niet binnen de in artikel 76, derde lid, gestelde termijn tot in
 1.  Zodra het ruilplan onherroepelijk is, maakt een door gedeputeerde staten aan te wijzen notaris de ruilakte op.   
 2.  In de ruilakte wordt opgenomen een kaart van het blok met aanwijzing van de kavels, en voor zover deze zijn gelegen binnen het blok de wegen en waterlopen en de gronden die ingevolge artikel 28 zijn toegewezen.   
 3.  In de ruilakte wordt voorts opgenomen de in artikel 28 bedoelde toewijzing in eigendom voor zover deze betrekking heeft op onroerende zaken die binnen het blok zijn gelegen.   
-4.  De omschrijving van de kavels, de wegen, waterlopen, dijken of kaden met de daartoe behorende kunstwerken en de gronden die op de in het tweede lid bedoelde kaart zijn afgebeeld en die daarop voorzien zijn van een nummer, geschiedt door vermelding van het nummer waarmee zij op die kaart voorkomen. [Artikel 20, eerste lid, van de Kadasterwet](../../../../../../wet/kadasterwet/BWBR0004541/README.md) is niet van toepassing voor zover het betreft het vermelden van de aard en de plaatselijke aanduiding zo deze er is, van onroerende zaken.   
+4.  De omschrijving van de kavels, de wegen, waterlopen, dijken of kaden met de daartoe behorende kunstwerken en de gronden die op de in het tweede lid bedoelde kaart zijn afgebeeld en die daarop voorzien zijn van een nummer, geschiedt door vermelding van het nummer waarmee zij op die kaart voorkomen. Artikel 20, eerste lid, van de Kadasterwet is niet van toepassing voor zover het betreft het vermelden van de aard en de plaatselijke aanduiding zo deze er is, van onroerende zaken.   
 5.  In de ruilakte worden tevens vermeld de hypotheken en de beslagen die door de inschrijving van de ruilakte niet meer blijven bestaan.   
-6.  De [artikelen 18, eerste en vijfde lid](../../../../../../wet/kadasterwet/BWBR0004541/README.md), en [24, tweede lid, onderdeel b, en vierde lid, tweede zin, van de Kadasterwet](../../../../../../wet/kadasterwet/BWBR0004541/README.md), zijn van overeenkomstige toepassing op de ruilakte.  
+6.  De artikelen 18, eerste en vijfde lid, en 24, tweede lid, onderdeel b, en vierde lid, tweede zin, van de Kadasterwet, zijn van overeenkomstige toepassing op de ruilakte.  
 
 ### Artikel  82  
 
-1.  De ruilakte wordt ondertekend door de voorzitter van gedeputeerde staten en de secretaris, bedoeld in [artikel 100 van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md).   
+1.  De ruilakte wordt ondertekend door de voorzitter van gedeputeerde staten en de secretaris, bedoeld in artikel 100 van de Provinciewet.   
 2.  Zij geldt als titel voor de daarin omschreven rechten. Door de inschrijving van de ruilakte in de openbare registers worden de daarin omschreven onroerende zaken en beperkte rechten verkregen.   
 3.  Op grond van de ruilakte wordt in de openbare registers bij elke hypothecaire inschrijving, onderscheidenlijk bij elke inschrijving van een beslag aangetekend dat de hypotheek onderscheidenlijk het beslag in het vervolg zal rusten op de in de ruilakte aangewezen kavels of gedeelten daarvan, dan wel op de rechten waaraan die kavels of gedeelten daarvan zijn onderworpen.   
 4.  De bewaarder van het kadaster en de openbare registers tekent ambtshalve de door de inschrijving van de ruilakte niet meer bestaande inschrijvingen van de in artikel 81, vijfde lid, bedoelde hypotheken en beslagen aan in de basisregistratie kadaster.   
-5.  De bewaarder van het kadaster en de openbare registers zendt zo spoedig mogelijk per brief aan elke eigenaar van, alsmede aan elke beperkt gerechtigde met betrekking tot de onroerende zaak een kennisgeving van het resultaat van het bijhouden van de basisregistratie kadaster die op grond van de inschrijving van de ruilakte plaatsvindt. De brief vermeldt de dag van de verzending, de in de basisregistratie kadaster vermeld staande gegevens omtrent de rechten, de rechthebbenden, bedoeld in de [Kadasterwet](../../../../../../wet/kadasterwet/BWBR0004541/README.md), en de grootte en de kadastrale aanduiding van de onroerende zaak waarop de kennisgeving betrekking heeft. [Artikel 56b van de Kadasterwet](../../../../../../wet/kadasterwet/BWBR0004541/README.md) is niet van toepassing op het in de eerste volzin bedoelde bijhouden.  
+5.  De bewaarder van het kadaster en de openbare registers zendt zo spoedig mogelijk per brief aan elke eigenaar van, alsmede aan elke beperkt gerechtigde met betrekking tot de onroerende zaak een kennisgeving van het resultaat van het bijhouden van de basisregistratie kadaster die op grond van de inschrijving van de ruilakte plaatsvindt. De brief vermeldt de dag van de verzending, de in de basisregistratie kadaster vermeld staande gegevens omtrent de rechten, de rechthebbenden, bedoeld in de Kadasterwet, en de grootte en de kadastrale aanduiding van de onroerende zaak waarop de kennisgeving betrekking heeft. Artikel 56b van de Kadasterwet is niet van toepassing op het in de eerste volzin bedoelde bijhouden.  
 
 ### Afdeling  7  
 
@@ -703,7 +703,7 @@ De kosten van landinrichting worden gedragen door de provincie, voor zover zij n
 
 ### Artikel  91  
 
-1.  Op de heffing en de invordering van de omgeslagen kosten zijn de [artikelen 227](../../../../../../wet/provinciewet/BWBR0005645/README.md), [227a](../../../../../../wet/provinciewet/BWBR0005645/README.md), [227b](../../../../../../wet/provinciewet/BWBR0005645/README.md), [228](../../../../../../wet/provinciewet/BWBR0005645/README.md), [228b](../../../../../../wet/provinciewet/BWBR0005645/README.md), [228c](../../../../../../wet/provinciewet/BWBR0005645/README.md), [232](../../../../../../wet/provinciewet/BWBR0005645/README.md), [232aa](../../../../../../wet/provinciewet/BWBR0005645/README.md), [232b](../../../../../../wet/provinciewet/BWBR0005645/README.md), [232c](../../../../../../wet/provinciewet/BWBR0005645/README.md), [232d](../../../../../../wet/provinciewet/BWBR0005645/README.md), [232e](../../../../../../wet/provinciewet/BWBR0005645/README.md), [232f](../../../../../../wet/provinciewet/BWBR0005645/README.md) en [232h van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md) van overeenkomstige toepassing.   
+1.  Op de heffing en de invordering van de omgeslagen kosten zijn de artikelen 227, 227a, 227b, 228, 228b, 228c, 232, 232aa, 232b, 232c, 232d, 232e, 232f en 232h van de Provinciewet van overeenkomstige toepassing.   
 2.  De omgeslagen kosten worden geheven bij wege van aanslag.   
 3.  Indien de over een eigenaar omgeslagen kosten geringer zijn dan een bij verordening van provinciale staten, vast te stellen bedrag, worden deze kosten niet geheven.   
 4.  Indien met betrekking tot eenzelfde onroerende zaak twee of meer eigenaren kostenplichtig zijn en bij elk van deze eigenaren het derde lid geen toepassing vindt, kan de belastingaanslag ten name van een van hen worden gesteld.   
@@ -713,8 +713,8 @@ a. de ontvanger de aanslag op de gehele onroerende zaak verhalen ten name van de
 
 b. de kostenplichtige die de belastingaanslag heeft voldaan hetgeen hij meer heeft voldaan dan overeenkomt met zijn kostenplicht verhalen op de overige kostenplichtigen naar evenredigheid van ieders kostenplicht.     
 6.  Van het vijfde lid, aanhef en onderdeel b, kan bij overeenkomst worden afgeweken.   
-7.  Bezwaar en beroep als bedoeld in [hoofdstuk V, afdeling 1](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), onderscheidenlijk [afdeling 2, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), kunnen niet betreffen de hoogte van de omgeslagen kosten.   
-8.  [Artikel 17, tweede lid, tweede volzin, van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) blijft buiten toepassing.  
+7.  Bezwaar en beroep als bedoeld in hoofdstuk V, afdeling 1, onderscheidenlijk afdeling 2, van de Algemene wet inzake rijksbelastingen, kunnen niet betreffen de hoogte van de omgeslagen kosten.   
+8.  Artikel 17, tweede lid, tweede volzin, van de Invorderingswet 1990 blijft buiten toepassing.  
 
 ### Hoofdstuk  11  
 
@@ -740,7 +740,7 @@ b. de bij besluit van gedeputeerde staten aangewezen ambtenaren.
 ### Artikel  93  
 
 1.  Gedeputeerde staten nemen de bij besluit van Onze Minister of Onze Minister wie het aangaat aangeduide bestaande verplichtingen van deze minister jegens subsidieaanvragers en -ontvangers over met ingang van het in dat besluit genoemde tijdstip en onder de bij het besluit in voorkomend geval gestelde nadere voorwaarden en beperkingen.   
-2.  Bij het besluit worden tevens de aan de minister toekomende, met de desbetreffende subsidie samenhangende bevoegdheden jegens de betrokken subsidieaanvragers en -ontvangers aan gedeputeerde staten gedelegeerd, met inbegrip van het nemen van besluiten als bedoeld in [titel 4.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en van andere met de desbetreffende subsidie samenhangende besluiten.   
+2.  Bij het besluit worden tevens de aan de minister toekomende, met de desbetreffende subsidie samenhangende bevoegdheden jegens de betrokken subsidieaanvragers en -ontvangers aan gedeputeerde staten gedelegeerd, met inbegrip van het nemen van besluiten als bedoeld in titel 4.2 van de Algemene wet bestuursrecht en van andere met de desbetreffende subsidie samenhangende besluiten.   
 3.  Bij het besluit, bedoeld in het eerste en het tweede lid, kunnen ook andere verplichtingen jegens derden dan de in het eerste lid bedoelde verplichtingen aan gedeputeerde staten worden overgedragen, met dien verstande dat slechts die verplichtingen voor overdracht in aanmerking komen die door Onze Minister of Onze Minister wie het aangaat zijn aangegaan in het kader van de verwezenlijking van het gebiedsgericht beleid.   
 4.  Het besluit, bedoeld in het eerste, tweede en derde lid, wordt bekendgemaakt in de Staatscourant.   
 5.  Op de relatie tussen gedeputeerde staten en de subsidieaanvrager of -ontvanger is het recht van toepassing, zoals dat gold onmiddellijk voor het tijdstip, bedoeld in het eerste lid.   
@@ -826,11 +826,11 @@ De uitkering, bedoeld in artikel 93d, wordt in mindering gebracht op het totale 
 
 ### Artikel  93g  
 
-[Artikel 17a van de Financiële-verhoudingswet](../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) is niet van toepassing op de financiële bijdragen aan de provincies, bedoeld in de artikelen 93c en 93d. 
+Artikel 17a van de Financiële-verhoudingswet is niet van toepassing op de financiële bijdragen aan de provincies, bedoeld in de artikelen 93c en 93d. 
 
 ### Artikel  93h  
 
-1.  In zoverre in afwijking van artikel 93b blijven, voor zover Onze Minister en Onze Ministers wie het mede aangaat met gedeputeerde staten niet anders overeenkomen, tot 1 januari 2014 geldig de in de ILG-bestuursovereenkomst aangegane verplichtingen die betrekking hebben op projecten als bedoeld in [artikel 3 van de Wet Fonds economische structuurversterking](../../../../../../wet/wet/fonds/economische/structuurversterking/BWBR0007788/README.md).   
+1.  In zoverre in afwijking van artikel 93b blijven, voor zover Onze Minister en Onze Ministers wie het mede aangaat met gedeputeerde staten niet anders overeenkomen, tot 1 januari 2014 geldig de in de ILG-bestuursovereenkomst aangegane verplichtingen die betrekking hebben op projecten als bedoeld in artikel 3 van de Wet Fonds economische structuurversterking.   
 2.  De ingevolge de ILG-bestuursovereenkomst voor de realisatie van de in het eerste lid bedoelde projecten genoemde middelen voor: 
 
 a. de jaren 2007 tot en met 2010 zijn begrepen in de uitkering, bedoeld in artikel 93c, voor zover de middelen in die jaren zijn besteed;  
@@ -849,22 +849,22 @@ Wijzigt deze wet.
 
 ### Artikel  95  
 
-1.  De [Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) wordt ingetrokken.  De [Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) blijft van toepassing op landinrichtingprojecten die reeds in voorbereiding of in uitvoering zijn, met dien verstande dat in [artikel 187, eerste lid, van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) in plaats van de zinsnede «vast recht, als bedoeld in de [Wet tarieven in burgerlijke zaken](../../../../../../wet/wet/tarieven/in/burgerlijke/zaken/BWBR0001852/README.md) (Stb. 1960, 541)» wordt gelezen: «griffierecht, als bedoeld in de [Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md)» en met dien verstande dat, nadat de lijst der geldelijke regelingen door de rechtbank is gesloten overeenkomstig [artikel 217, eerste lid, van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md), het door de eigenaar verschuldigde bedrag, bedoeld in [artikel 223, tweede lid, van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) wordt gecorrigeerd met een door gedeputeerde staten vastgestelde correctiefactor, zijnde het quotiënt van de definitieve kosten en de kosten zoals deze oorspronkelijk in de lijst der geldelijke regelingen waren opgenomen.  
-3.  In afwijking van het tweede lid worden landinrichtingsprojecten ten aanzien waarvan nog geen toepassing is gegeven aan [artikel 198 van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) alsmede herverkavelingen op basis van de [Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), vanaf het tijdstip van inwerkingtreding van dit artikel uitgevoerd met inachtneming van het bij of krachtens deze wet bepaalde.   
-4.  Bij regeling van Onze Minister wordt ten aanzien van de in het derde lid bedoelde landinrichtingsprojecten en herverkavelingen bepaald op welke wijze procedure-onderdelen en besluiten op basis van de [Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) of de [Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) worden gelijkgesteld met procedure-onderdelen en besluiten op basis van deze wet. Bij deze regeling kan, in afwijking van het derde lid, worden bepaald dat naar gelang de voortgang of overige omstandigheden van een landinrichtingsproject of herverkaveling als bedoeld in het derde lid, bepalingen van deze wet ten aanzien van dat landinrichtingsproject of die herverkaveling buiten toepassing blijven dan wel bepalingen uit de [Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) of de [Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) daarop van toepassing blijven.  
+1.  De Landinrichtingswet wordt ingetrokken.  De Landinrichtingswet blijft van toepassing op landinrichtingprojecten die reeds in voorbereiding of in uitvoering zijn, met dien verstande dat in artikel 187, eerste lid, van de Landinrichtingswet in plaats van de zinsnede «vast recht, als bedoeld in de Wet tarieven in burgerlijke zaken (Stb. 1960, 541)» wordt gelezen: «griffierecht, als bedoeld in de Wet griffierechten burgerlijke zaken» en met dien verstande dat, nadat de lijst der geldelijke regelingen door de rechtbank is gesloten overeenkomstig artikel 217, eerste lid, van de Landinrichtingswet, het door de eigenaar verschuldigde bedrag, bedoeld in artikel 223, tweede lid, van de Landinrichtingswet wordt gecorrigeerd met een door gedeputeerde staten vastgestelde correctiefactor, zijnde het quotiënt van de definitieve kosten en de kosten zoals deze oorspronkelijk in de lijst der geldelijke regelingen waren opgenomen.  
+3.  In afwijking van het tweede lid worden landinrichtingsprojecten ten aanzien waarvan nog geen toepassing is gegeven aan artikel 198 van de Landinrichtingswet alsmede herverkavelingen op basis van de Reconstructiewet concentratiegebieden, vanaf het tijdstip van inwerkingtreding van dit artikel uitgevoerd met inachtneming van het bij of krachtens deze wet bepaalde.   
+4.  Bij regeling van Onze Minister wordt ten aanzien van de in het derde lid bedoelde landinrichtingsprojecten en herverkavelingen bepaald op welke wijze procedure-onderdelen en besluiten op basis van de Landinrichtingswet of de Reconstructiewet concentratiegebieden worden gelijkgesteld met procedure-onderdelen en besluiten op basis van deze wet. Bij deze regeling kan, in afwijking van het derde lid, worden bepaald dat naar gelang de voortgang of overige omstandigheden van een landinrichtingsproject of herverkaveling als bedoeld in het derde lid, bepalingen van deze wet ten aanzien van dat landinrichtingsproject of die herverkaveling buiten toepassing blijven dan wel bepalingen uit de Landinrichtingswet of de Reconstructiewet concentratiegebieden daarop van toepassing blijven.  
 
 ### Artikel  97  
 
-Voor zoveel nodig in afwijking van [artikel 10:3, eerste en tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn alle besluiten rechtsgeldig die zijn genomen door de secretaris van de Centrale Landinrichtingscommissie, bedoeld in [artikel 7 van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md), zoals dit luidde voorafgaand aan inwerkingtreding van de wet, genoemd in artikel 96. 
+Voor zoveel nodig in afwijking van artikel 10:3, eerste en tweede lid, van de Algemene wet bestuursrecht zijn alle besluiten rechtsgeldig die zijn genomen door de secretaris van de Centrale Landinrichtingscommissie, bedoeld in artikel 7 van de Landinrichtingswet, zoals dit luidde voorafgaand aan inwerkingtreding van de wet, genoemd in artikel 96. 
 
 ### Artikel  98  
 
-1.  Indien de landinrichtingscommissie ten behoeve van een landinrichtingsproject nog niet de uitkomsten van de eerste schatting in een register van schattingsuitkomsten als bedoeld in [artikel 167 van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) heeft vastgelegd, nog geen plan van toedeling als bedoeld in [artikel 196 van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) heeft ontworpen dan wel nog geen lijst der geldelijke regelingen als bedoeld in [artikel 211 van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) heeft opgemaakt, gelden voor dat landinrichtingsproject vastgestelde besluiten op grond van de [artikelen 163](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md), [195, eerste lid](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md), onderscheidenlijk [210, derde lid, van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md), zoals deze artikelen luidden voorafgaand aan de inwerkingtreding van de wet, genoemd in artikel 96, als besluiten op grond van de [artikelen 163](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md), [195, eerste lid](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md), onderscheidenlijk [210, derde lid, van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md), zoals deze luiden na inwerkingtreding van de wet, genoemd in artikel 96.   
-2.  Indien de herinrichtingscommissie ten behoeve van een herinrichtingsproject nog niet de uitkomsten van de eerste schatting in een register van uitkomsten der schattingen als bedoeld in [artikel 34, eerste lid, van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md) heeft vastgelegd, dan wel nog geen lijst der geldelijke regelingen als bedoeld in [artikel 108 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md) heeft opgemaakt, gelden voor dat herinrichtingsproject vastgestelde besluiten op grond van de [artikelen 33, tweede lid](../../../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), onderscheidenlijk [107, tweede lid, van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), zoals deze artikelen luidden voorafgaand aan inwerkingtreding van de wet, genoemd in artikel 96, als besluiten op grond van de [artikelen 33, tweede lid](../../../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), onderscheidenlijk [107, tweede lid, van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), zoals deze luiden na inwerkingtreding van de wet, genoemd in artikel 96.  
+1.  Indien de landinrichtingscommissie ten behoeve van een landinrichtingsproject nog niet de uitkomsten van de eerste schatting in een register van schattingsuitkomsten als bedoeld in artikel 167 van de Landinrichtingswet heeft vastgelegd, nog geen plan van toedeling als bedoeld in artikel 196 van de Landinrichtingswet heeft ontworpen dan wel nog geen lijst der geldelijke regelingen als bedoeld in artikel 211 van de Landinrichtingswet heeft opgemaakt, gelden voor dat landinrichtingsproject vastgestelde besluiten op grond van de artikelen 163, 195, eerste lid, onderscheidenlijk 210, derde lid, van de Landinrichtingswet, zoals deze artikelen luidden voorafgaand aan de inwerkingtreding van de wet, genoemd in artikel 96, als besluiten op grond van de artikelen 163, 195, eerste lid, onderscheidenlijk 210, derde lid, van de Landinrichtingswet, zoals deze luiden na inwerkingtreding van de wet, genoemd in artikel 96.   
+2.  Indien de herinrichtingscommissie ten behoeve van een herinrichtingsproject nog niet de uitkomsten van de eerste schatting in een register van uitkomsten der schattingen als bedoeld in artikel 34, eerste lid, van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën heeft vastgelegd, dan wel nog geen lijst der geldelijke regelingen als bedoeld in artikel 108 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën heeft opgemaakt, gelden voor dat herinrichtingsproject vastgestelde besluiten op grond van de artikelen 33, tweede lid, onderscheidenlijk 107, tweede lid, van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën, zoals deze artikelen luidden voorafgaand aan inwerkingtreding van de wet, genoemd in artikel 96, als besluiten op grond van de artikelen 33, tweede lid, onderscheidenlijk 107, tweede lid, van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën, zoals deze luiden na inwerkingtreding van de wet, genoemd in artikel 96.  
 
 ### Artikel  111  
 
-Na de inwerkingtreding van deze wet berust het [Besluit herverkaveling reconstructie concentratiegebieden](../../../../../../AMvB/besluit/herverkaveling/BWBR0019827/README.md) op artikel 63 van deze wet. 
+Na de inwerkingtreding van deze wet berust het Besluit herverkaveling reconstructie concentratiegebieden op artikel 63 van deze wet. 
 
 ### Artikel  111a  
 
@@ -872,8 +872,8 @@ De artikelen 93 tot en met 95 vervallen op een bij koninklijk besluit te bepalen
 
 ### Artikel  111b  
 
-1.  De [Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) vervalt op een bij koninklijk besluit te bepalen tijdstip.   
-2.  De [Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) blijft van toepassing op reconstructieplannen als bedoeld in [artikel 11 van die wet](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) die reeds waren vastgesteld vóór het tijdstip van inwerkingtreding van dit artikel, tenzij deze plannen door provinciale staten zijn of worden ingetrokken, met dien verstande dat in afwijking van [artikel 92 van de Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), de kosten van de schadevergoedingen, bedoeld in de [artikelen 13, derde lid](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), [30, eerste lid](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), en [47, vierde lid, van die wet](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), ten laste van de desbetreffende provincie komen, en dat de [artikelen 7, derde en vierde lid](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), [9](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), [10](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), [12, tweede lid, tweede volzin, en derde lid](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), [16, derde lid](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), [17](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) en [26, tweede lid, van de Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) niet van toepassing zijn.   
+1.  De Reconstructiewet concentratiegebieden vervalt op een bij koninklijk besluit te bepalen tijdstip.   
+2.  De Reconstructiewet concentratiegebieden blijft van toepassing op reconstructieplannen als bedoeld in artikel 11 van die wet die reeds waren vastgesteld vóór het tijdstip van inwerkingtreding van dit artikel, tenzij deze plannen door provinciale staten zijn of worden ingetrokken, met dien verstande dat in afwijking van artikel 92 van de Reconstructiewet concentratiegebieden, de kosten van de schadevergoedingen, bedoeld in de artikelen 13, derde lid, 30, eerste lid, en 47, vierde lid, van die wet, ten laste van de desbetreffende provincie komen, en dat de artikelen 7, derde en vierde lid, 9, 10, 12, tweede lid, tweede volzin, en derde lid, 16, derde lid, 17 en 26, tweede lid, van de Reconstructiewet concentratiegebieden niet van toepassing zijn.   
 3.  Voor een goede uitvoering van het tweede lid kunnen bij ministeriële regeling nadere regels worden gesteld.  
 
 ### Artikel  113  

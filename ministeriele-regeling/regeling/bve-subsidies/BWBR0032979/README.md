@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 februari 2013, nr. BVE/441121, houdende vaststelling van regels voor subsidies die worden verstrekt in de sector beroepsonderwijs en volwasseneneducatie (Regeling BVE-subsidies)
 
 De Minister van Onderwijs, Cultuur en Wetenschap,  
-Gelet op [artikel 2.7 van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en de [artikelen 2](../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) en [4 van de Wet overige OCW-subsidies](../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md);
+Gelet op artikel 2.7 van de Wet educatie en beroepsonderwijs en de artikelen 2 en 4 van de Wet overige OCW-subsidies;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -17,17 +17,17 @@ In deze regeling wordt verstaan onder:
 
 a.  *minister:* de Minister van Onderwijs, Cultuur en Wetenschap;  
 
-b.  *wet:* de [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b.  *wet:* de Wet educatie en beroepsonderwijs;  
 
-c.  *instelling:* een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en de doveninstituten als bedoeld in [artikel 12.3.8 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+c.  *instelling:* een instelling als bedoeld in artikel 1.1.1, onderdeel b, van de wet en de doveninstituten als bedoeld in artikel 12.3.8 van de wet;  
 
-d.  *onderwijs:* educatie en beroepsonderwijs als bedoeld in [artikel 1.2.1 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
+d.  *onderwijs:* educatie en beroepsonderwijs als bedoeld in artikel 1.2.1 van de wet.   
 
 ### Artikel  2  
 
 ####Doel
 
-Het doel van deze regeling is het stellen van regels voor subsidies die worden verstrekt aan rechtspersonen, bedoeld in [artikel 2.7 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en subsidies die worden verstrekt op het terrein van beroepsonderwijs en volwasseneneducatie. 
+Het doel van deze regeling is het stellen van regels voor subsidies die worden verstrekt aan rechtspersonen, bedoeld in artikel 2.7 van de wet en subsidies die worden verstrekt op het terrein van beroepsonderwijs en volwasseneneducatie. 
 
 ### Artikel  3  
 
@@ -70,7 +70,7 @@ De subsidie wordt uitsluitend besteed aan de activiteiten waarvoor zij wordt ver
 
 ####Doel en te subsidiëren activiteiten
 
-1.  De minister kan subsidie verstrekken aan de Stichting Skills Netherlands voor het uitvoeren van de volgende promotieactiviteiten die naar het oordeel van de minister bijdragen aan het beroepsonderwijs, als bedoeld in [artikel 1.2.1, tweede lid van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md): 
+1.  De minister kan subsidie verstrekken aan de Stichting Skills Netherlands voor het uitvoeren van de volgende promotieactiviteiten die naar het oordeel van de minister bijdragen aan het beroepsonderwijs, als bedoeld in artikel 1.2.1, tweede lid van de wet: 
 
 a. het stimuleren van deelname aan en het organiseren van nationale en internationale beroepenwedstrijden;  
 
@@ -236,13 +236,13 @@ In deze paragraaf wordt verstaan onder:
 
 a.  *Stichting UAF:* de Stichting voor Vluchteling Studenten UAF, gevestigd te Utrecht;  
 
-b.  *vluchtelingen:* vreemdelingen die in Nederland verblijven op grond van [artikel 28](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of [33 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
+b.  *vluchtelingen:* vreemdelingen die in Nederland verblijven op grond van artikel 28 of 33 van de Vreemdelingenwet 2000.   
 
 ### Artikel  22  
 
 ####Doel en te subsidiëren activiteiten
 
-De minister kan subsidie verstrekken aan stichting UAF voor activiteiten ter ondersteuning van vluchtelingen die vanwege hun herkomst extra begeleiding nodig hebben voor het succesvol afronden van een mbo-opleiding, te weten: ‘het ondersteunen van vluchtelingen bij het volgen van een vakopleiding, een middenkaderopleiding of een specialistenopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdelen c t /m e van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), in gevallen waarbij de bestaande studiefinancieringsvoorzieningen hierin niet voorzien en voor zover de ondersteuning onderwijsgerelateerd is’. 
+De minister kan subsidie verstrekken aan stichting UAF voor activiteiten ter ondersteuning van vluchtelingen die vanwege hun herkomst extra begeleiding nodig hebben voor het succesvol afronden van een mbo-opleiding, te weten: ‘het ondersteunen van vluchtelingen bij het volgen van een vakopleiding, een middenkaderopleiding of een specialistenopleiding, bedoeld in artikel 7.2.2, eerste lid, onderdelen c t /m e van de Wet educatie en beroepsonderwijs, in gevallen waarbij de bestaande studiefinancieringsvoorzieningen hierin niet voorzien en voor zover de ondersteuning onderwijsgerelateerd is’. 
 
 ### Artikel  23  
 
@@ -301,7 +301,7 @@ De minister kan subsidie verstrekken aan stichting saMBO-ICT ten behoeve van het
 
 ####Overgangsrecht
 
-Aanvragen ingediend op grond van de [Subsidieregeling projectopdrachten bve-sector](../../../../ministeriele-regeling/subsidieregeling/projectopdrachten/bve-sector/BWBR0010355/README.md), worden met inbegrip van bezwaar- en beroepsprocedures, afgehandeld overeenkomstig die regeling. Bestaande aanspraken en verplichtingen bij, op grond van, of in het kader van die regeling blijven in stand. 
+Aanvragen ingediend op grond van de Subsidieregeling projectopdrachten bve-sector, worden met inbegrip van bezwaar- en beroepsprocedures, afgehandeld overeenkomstig die regeling. Bestaande aanspraken en verplichtingen bij, op grond van, of in het kader van die regeling blijven in stand. 
 
 ### Paragraaf  2  
 
@@ -311,7 +311,7 @@ Aanvragen ingediend op grond van de [Subsidieregeling projectopdrachten bve-sect
 
 ####Wijziging
 
-Uit de bijlage behorende bij artikel 34, eerste lid, van de Regeling OCW-subsidies wordt de [Subsidieregeling projectopdrachten bve-sector](../../../../ministeriele-regeling/subsidieregeling/projectopdrachten/bve-sector/BWBR0010355/README.md) verwijderd. 
+Wijzigt de Regeling OCW-subsidies. 
 
 ### Paragraaf  3  
 
@@ -321,7 +321,7 @@ Uit de bijlage behorende bij artikel 34, eerste lid, van de Regeling OCW-subsidi
 
 ####Vervallen van de Subsidieregeling projectopdrachten Bve-sector
 
-De [Subsidieregeling projectopdrachten Bve-sector](../../../../ministeriele-regeling/subsidieregeling/projectopdrachten/bve-sector/BWBR0010355/README.md) vervalt, met uitzondering van de [artikelen 14](../../../../ministeriele-regeling/subsidieregeling/projectopdrachten/bve-sector/BWBR0010355/README.md) en [16](../../../../ministeriele-regeling/subsidieregeling/projectopdrachten/bve-sector/BWBR0010355/README.md) en met dien verstande dat bestaande aanspraken en verplichtingen, op grond of in het kader van de onderhavige regeling, in stand blijven. 
+De Subsidieregeling projectopdrachten Bve-sector vervalt, met uitzondering van de artikelen 14 en 16 en met dien verstande dat bestaande aanspraken en verplichtingen, op grond of in het kader van de onderhavige regeling, in stand blijven. 
 
 ### Artikel  31  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het in verband met de totstandkoming van de [Coördinatiewet uitzonderingstoestanden](../../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) en met de [artikelen 11](../../../../../wet/grondwet/BWBR0001840/README.md), [81](../../../../../wet/grondwet/BWBR0001840/README.md) en [89 van de Grondwet](../../../../../wet/grondwet/BWBR0001840/README.md) wenselijk is de Oorlogswet voor Nederland opnieuw vast te stellen;
+Alzo Wij in overweging genomen hebben, dat het in verband met de totstandkoming van de Coördinatiewet uitzonderingstoestanden en met de artikelen 11, 81 en 89 van de Grondwet wenselijk is de Oorlogswet voor Nederland opnieuw vast te stellen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 ###Hoofdstuk I 
 
@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de artikelen 9 tot en met 14 gezamenlijk of afzonderlijk in werking worden gesteld.   
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de artikelen 9 tot en met 14 gezamenlijk of afzonderlijk in werking worden gesteld.   
 2.  Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij het in het eerste lid bedoelde besluit in werking gestelde bepalingen.   
 3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge het eerste lid in werking zijn gesteld, onverwijld buiten werking gesteld.   
 4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, kunnen bepalingen die ingevolge het eerste lid in werking zijn gesteld, buiten werking worden gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.   
@@ -49,8 +49,8 @@ Onder maatregel wordt in deze wet begrepen een voorschrift, een beslissing, alsm
 1.  Onze Minister van Defensie dan wel het militair gezag pleegt bij de uitoefening van zijn bevoegdheden, bedoeld in hoofdstuk II van deze wet, tevoren voor zover mogelijk overleg met de organen van burgerlijk gezag.   
 2.  Verordeningen, op grond van deze wet door Onze Minister van Defensie dan wel het militair gezag gegeven, bepalen het tijdstip waarop zij in werking treden en worden bekendgemaakt op de wijze vastgesteld in die verordeningen. De verordeningen worden in elk geval geplaatst in het Staatsblad.   
 3.  Onze Minister van Defensie dan wel het militair gezag deelt de in het tweede lid bedoelde verordeningen zo spoedig mogelijk mede aan de daarbij betrokken Ministers en aan de overige autoriteiten wie het aangaat.    
-4.  De organen van burgerlijk gezag geven van maatregelen welke zij krachtens de [Wet buitengewone bevoegdheden burgerlijk gezag](../../../../../wet/wet/buitengewone/bevoegdheden/burgerlijk/gezag/BWBR0007982/README.md) hebben gegeven respectievelijk gelast, zo spoedig mogelijk kennis aan Onze Minister van Defensie en het militair gezag.   
-5.  Maatregelen krachtens de [Wet buitengewone bevoegdheden burgerlijk gezag](../../../../../wet/wet/buitengewone/bevoegdheden/burgerlijk/gezag/BWBR0007982/README.md) gegeven respectievelijk gelast door organen van burgerlijk gezag, blijven buiten toepassing indien zij naar het oordeel van Onze Minister van Defensie, dan wel in geval van de beperkte of de algemene noodtoestand naar het oordeel van het militair gezag, strijdig zijn met verordeningen en maatregelen, ingevolge deze wet gegeven respectievelijk gelast door Onze Minister van Defensie dan wel het militair gezag.  
+4.  De organen van burgerlijk gezag geven van maatregelen welke zij krachtens de Wet buitengewone bevoegdheden burgerlijk gezag hebben gegeven respectievelijk gelast, zo spoedig mogelijk kennis aan Onze Minister van Defensie en het militair gezag.   
+5.  Maatregelen krachtens de Wet buitengewone bevoegdheden burgerlijk gezag gegeven respectievelijk gelast door organen van burgerlijk gezag, blijven buiten toepassing indien zij naar het oordeel van Onze Minister van Defensie, dan wel in geval van de beperkte of de algemene noodtoestand naar het oordeel van het militair gezag, strijdig zijn met verordeningen en maatregelen, ingevolge deze wet gegeven respectievelijk gelast door Onze Minister van Defensie dan wel het militair gezag.  
 
 ### Artikel  8  
 
@@ -145,7 +145,7 @@ Treedt in werking op een nader te bepalen tijdstip
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  
 1.  Het militair gezag is bevoegd gebieden geheel of gedeeltelijk te ontruimen.    
 2.  Het militair gezag is bevoegd zo nodig van de wettelijke bepalingen omtrent de verplaatsing van bevolking af te wijken, dan wel deze bij verordening voor zolang dat nodig is buiten werking te stellen en zelf ter zake een tijdelijke regeling te geven.   
-3.  In geval van een ontruiming als bedoeld in het eerste lid zorgt het militair gezag zoveel mogelijk voor vervangend verblijf voor de bevolking van het ontruimde gebied. Daartoe is het militair gezag bevoegd te bepalen, dat de officieren, krachtens [artikel 28 van de Inkwartieringswet](../../../../../wet/inkwartieringswet/BWBR0002111/README.md) aangewezen door Onze Minister van Defensie, hun bevoegdheden mede uitoefenen ten behoeve van de burgerbevolking in die gebieden.  
+3.  In geval van een ontruiming als bedoeld in het eerste lid zorgt het militair gezag zoveel mogelijk voor vervangend verblijf voor de bevolking van het ontruimde gebied. Daartoe is het militair gezag bevoegd te bepalen, dat de officieren, krachtens artikel 28 van de Inkwartieringswet aangewezen door Onze Minister van Defensie, hun bevoegdheden mede uitoefenen ten behoeve van de burgerbevolking in die gebieden.  
 
 ### Artikel  22  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -196,12 +196,12 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  
 1.  Het militair gezag is bevoegd te voorzien in de uitoefening van de bevoegdheden van de burgemeester en van de commissaris van de Koning inzake de bestrijding van branden, rampen en zware ongevallen, door die uitoefening geheel of ten dele aan zich te trekken dan wel daarmee geheel of ten dele een andere autoriteit te belasten.   
-2.  Indien het militair gezag de bevoegdheid van de burgemeester ingevolge [artikel 176, eerste lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) aan zich trekt, blijven het derde tot en met het zesde lid van dat artikel buiten toepassing.  
+2.  Indien het militair gezag de bevoegdheid van de burgemeester ingevolge artikel 176, eerste lid, van de Gemeentewet aan zich trekt, blijven het derde tot en met het zesde lid van dat artikel buiten toepassing.  
 
 ### Artikel  30  
 Treedt in werking op een nader te bepalen tijdstip 
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden. Het militair gezag is bevoegd te voorzien in de uitoefening van de bevoegdheden van de burgemeester en van de commissaris van de Koning betrekking hebbend op de handhaving van de openbare orde en veiligheid of van enig ander orgaan van burgerlijk gezag, daarmee krachtens [artikel 7 van de Wet buitengewone bevoegdheden burgerlijk gezag](../../../../../wet/wet/buitengewone/bevoegdheden/burgerlijk/gezag/BWBR0007982/README.md) belast, door die uitoefening geheel of ten dele aan zich te trekken dan wel daarmee geheel of ten dele een andere autoriteit te belasten. Artikel 29, tweede lid, is van overeenkomstige toepassing. 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden. Het militair gezag is bevoegd te voorzien in de uitoefening van de bevoegdheden van de burgemeester en van de commissaris van de Koning betrekking hebbend op de handhaving van de openbare orde en veiligheid of van enig ander orgaan van burgerlijk gezag, daarmee krachtens artikel 7 van de Wet buitengewone bevoegdheden burgerlijk gezag belast, door die uitoefening geheel of ten dele aan zich te trekken dan wel daarmee geheel of ten dele een andere autoriteit te belasten. Artikel 29, tweede lid, is van overeenkomstige toepassing. 
 
 ### Artikel  31  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -221,7 +221,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 Treedt in werking op een nader te bepalen tijdstip 
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  
-1.  Het militair gezag is mede bevoegd de bijzondere last als bedoeld in de [artikelen 139a, derde lid onder 3°](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), en [139b, derde lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) te geven.   
+1.  Het militair gezag is mede bevoegd de bijzondere last als bedoeld in de artikelen 139a, derde lid onder 3°, en 139b, derde lid, van het Wetboek van Strafrecht te geven.   
 2.  Het militair gezag is bevoegd van de wettelijke bepalingen omtrent het afluisteren, aftappen en opnemen van ander dan niet voor het publiek bestemd gespreksverkeer via telecommunicatienetwerken af te wijken, dan wel deze bij verordening voor zolang dat nodig is buiten werking te stellen en zelf ter zake een tijdelijke regeling te geven.   
 3.  Zodra de militaire noodzaak is vervallen worden belanghebbenden van gebruik van de in het eerste en tweede lid gegeven bevoegdheden schriftelijk op de hoogte gesteld.  
 
@@ -263,7 +263,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  
 1.  Het militair gezag, een officier of een opsporingsambtenaar hebben toegang tot elke plaats en zijn bevoegd aldaar onderzoek of een doorzoeking te verrichten, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.   
-2.  In afwijking van [artikel 2 van de Algemene wet op het binnentreden](../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) is het militair gezag bevoegd zonder machtiging binnen te treden. Het militair gezag is bevoegd een machtiging als bedoeld in dat artikel te geven. [Artikel 3 van genoemde wet](../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) is niet van toepassing.  
+2.  In afwijking van artikel 2 van de Algemene wet op het binnentreden is het militair gezag bevoegd zonder machtiging binnen te treden. Het militair gezag is bevoegd een machtiging als bedoeld in dat artikel te geven. Artikel 3 van genoemde wet is niet van toepassing.  
 
 ### Artikel  40  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -283,7 +283,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 ### Artikel  42  
 Treedt in werking op een nader te bepalen tijdstip 
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden. Het militair gezag is bevoegd te bepalen, dat een bij de wet toegelaten vrijheidsbeneming ten uitvoer wordt gelegd in andere dan bij of krachtens andere wetten aangewezen plaatsen. De bepalingen uit de [Penitentiaire beginselenwet](../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) worden daarbij zoveel mogelijk toegepast. 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden. Het militair gezag is bevoegd te bepalen, dat een bij de wet toegelaten vrijheidsbeneming ten uitvoer wordt gelegd in andere dan bij of krachtens andere wetten aangewezen plaatsen. De bepalingen uit de Penitentiaire beginselenwet worden daarbij zoveel mogelijk toegepast. 
 
 ### Artikel  43  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -298,7 +298,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 2.  De geïnterneerde wordt zo spoedig mogelijk in kennis gesteld van de redenen van zijn internering, voor zover het belang van de staat zich hiertegen niet verzet, en wordt hierover zo mogelijk gehoord. Van elke internering wordt proces-verbaal opgemaakt. In dit proces-verbaal, dat mede de redenen van de internering vermeldt, wordt de verklaring van de geïnterneerde of de reden van het ontbreken daarvan opgenomen.   
 3.  Het proces-verbaal wordt binnen tweemaal vierentwintig uren in afschrift toegezonden aan Onze Minister van Defensie, aan de rechtbank van de plaats waar de geïnterneerde is geïnterneerd, en aan de geïnterneerde. Voor zover mededeling van de redenen van de internering aan de geïnterneerde strijdig wordt geoordeeld met het belang van de staat, worden deze in het voor hem bestemde afschrift niet opgenomen. Bij de toezending van het afschrift aan de geïnterneerde wordt mededeling gedaan van het recht een verzoekschrift overeenkomstig artikel 45 in te dienen en toevoeging van een raadsman te verzoeken.    
 4.  Op verzoek van de rechtbank zendt Onze Minister van Defensie haar alle ter zake dienende stukken en verschaft hij haar mondeling alle nodig geachte inlichtingen. Onze voornoemde Minister is bevoegd bij het verschaffen van schriftelijke of mondelinge gegevens te bepalen, dat het belang van de staat zich verzet tegen kennisneming daarvan door anderen dan de rechtbank.   
-5.  Op verzoek van de geïnterneerde wordt hem een raadsman toegevoegd. De [artikelen 37](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [38](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [45](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [46](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [48](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [49](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [50, eerste lid, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing.   
+5.  Op verzoek van de geïnterneerde wordt hem een raadsman toegevoegd. De artikelen 37, 38, 45, 46, 48, 49 en 50, eerste lid, van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.   
 6.  De geïnterneerde heeft recht op kennisneming van de processtukken, behoudens voor zover het bepaalde in de laatste volzin van het vierde lid toepassing heeft gevonden.  
 
 ### Artikel  45  
@@ -317,7 +317,7 @@ a. de bloed- of aanverwanten van de geïnterneerde in de rechte lijn, de bloed- 
 b. zij die tot geheimhouding verplicht zijn uit hoofde van hun ambt, beroep of betrekking omtrent hetgeen hun in die hoedanigheid is toevertrouwd.     
 7.  De getuige kan zich verschonen van het beantwoorden van een hem gestelde vraag, indien hij daardoor of zichzelf, of een van zijn bloed- of aanverwanten in de rechte lijn of in de zijlijn tot de derde graad ingesloten of zijn echtgenoot of eerdere echtgenoot dan wel geregistreerde partner of eerdere geregistreerde partner aan strafrechtelijke veroordeling terzake van een misdrijf zou blootstellen.   
 8.  De rechtbank kan bevelen, dat getuigen niet zullen worden gehoord dan na het afleggen van eed of belofte. De getuige legt in dat geval in handen van de voorzitter de eed of belofte af dat hij de waarheid en niets dan de waarheid zal zeggen.   
-9.  Getuigen, deskundigen en tolken, opgeroepen ingevolge het derde lid, ontvangen desverlangd voor reis- en verblijfkosten alsmede wegens tijdverzuim en daarmede verband houdende noodzakelijke kosten, vergoeding uit ’s Rijks kas overeenkomstig het bij of krachtens de [Wet griffierechten burgerlijke zaken](../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) bepaalde.   
+9.  Getuigen, deskundigen en tolken, opgeroepen ingevolge het derde lid, ontvangen desverlangd voor reis- en verblijfkosten alsmede wegens tijdverzuim en daarmede verband houdende noodzakelijke kosten, vergoeding uit ’s Rijks kas overeenkomstig het bij of krachtens de Wet griffierechten burgerlijke zaken bepaalde.   
 10.  De behandeling geschiedt ter openbare terechtzitting, maar de rechtbank kan gehele of gedeeltelijke behandeling met gesloten deuren bevelen in het belang van de openbare orde of ’s lands veiligheid, of ter bescherming van de persoonlijke levenssfeer van de geïnterneerde. De uitspraak geschiedt in het openbaar.   
 11.  De rechtbank beslist zo spoedig mogelijk op het verzoekschrift, doch uiterlijk binnen twee maanden na de indiening daarvan. Deze termijn kan met ten hoogste een maand worden verlengd. De beschikking van de rechtbank is met redenen omkleed, behoudens voor zover het belang van de staat zich tegen vermelding van deze redenen verzet. Indien de rechtbank de internering onrechtmatig oordeelt, gelast zij de onmiddellijke invrijheidstelling.   
 12.  De griffier verzendt terstond een afschrift van de beschikking aan de geïnterneerde en aan Onze Minister van Defensie. De aan de geïnterneerde en aan Onze Minister gezonden afschriften van de beschikking vermelden de datum van verzending.  
@@ -339,7 +339,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 Treedt in werking op een nader te bepalen tijdstip 
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  
-1.  Tegen een beslissing van de rechtbank genomen op grond van artikel 45, elfde lid, of artikel 47, eerste lid, kan binnen twee maanden na verzending van de beschikking beroep in cassatie worden ingesteld door de geïnterneerde en Onze Minister van Defensie. De [artikelen 426*a* ](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md)–[429 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn op de behandeling van dit beroep van toepassing.   
+1.  Tegen een beslissing van de rechtbank genomen op grond van artikel 45, elfde lid, of artikel 47, eerste lid, kan binnen twee maanden na verzending van de beschikking beroep in cassatie worden ingesteld door de geïnterneerde en Onze Minister van Defensie. De artikelen 426*a* –429 van het Wetboek van Burgerlijke Rechtsvordering zijn op de behandeling van dit beroep van toepassing.   
 2.  Tegen een afwijzende beslissing ingevolge artikel 45, derde lid, staat beroep in cassatie slechts open gelijktijdig met dat tegen een in het eerste lid bedoelde beslissing.  
 
 ### Artikel  49  
@@ -362,7 +362,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 ### Artikel  52  
 Treedt in werking op een nader te bepalen tijdstip 
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.In zaken betreffende een verzoek als bedoeld in artikel 45, eerste lid, en betreffende beroep in cassatie als bedoeld in artikel 48 van deze wet is geen recht ingevolge de [Wet tarieven in burgerlijke zaken](../../../../../wet/wet/tarieven/in/burgerlijke/zaken/BWBR0001852/README.md) verschuldigd. 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.In zaken betreffende een verzoek als bedoeld in artikel 45, eerste lid, en betreffende beroep in cassatie als bedoeld in artikel 48 van deze wet is geen recht ingevolge de Wet tarieven in burgerlijke zaken verschuldigd. 
 
 ### Artikel  53  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -449,17 +449,17 @@ Overtreding van een op grond van artikel 15 gegeven tijdelijke regeling wordt ge
 
 ### Artikel  65  
 
-Indien de misdrijven, bedoeld bij de [artikelen 131](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [132](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [138](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [139](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [141](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [143](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [179](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) tot en met [182](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [184](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [186](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [187 van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) worden begaan gedurende de beperkte of de algemene noodtoestand, kunnen de bij die bepalingen gestelde gevangenisstraffen met een derde worden verhoogd en kan de naasthogere geldboetecategorie worden opgelegd. 
+Indien de misdrijven, bedoeld bij de artikelen 131, 132, 138, 139, 141, 143, 179 tot en met 182, 184, 186 en 187 van het Wetboek van Strafrecht worden begaan gedurende de beperkte of de algemene noodtoestand, kunnen de bij die bepalingen gestelde gevangenisstraffen met een derde worden verhoogd en kan de naasthogere geldboetecategorie worden opgelegd. 
 
 ### Artikel  66  
 
-1.  Behalve de bij de [artikelen 141](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [142 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) genoemde ambtenaren zijn, gedurende de beperkte en de algemene noodtoestand, met de opsporing van strafbare feiten de door het militair gezag, na overleg met Onze Minister van Justitie, aangewezen en daartoe beëdigde personen belast.   
+1.  Behalve de bij de artikelen 141 en 142 van het Wetboek van Strafvordering genoemde ambtenaren zijn, gedurende de beperkte en de algemene noodtoestand, met de opsporing van strafbare feiten de door het militair gezag, na overleg met Onze Minister van Justitie, aangewezen en daartoe beëdigde personen belast.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.   
 3.  Bij algemene maatregel van bestuur worden nadere regels vastgesteld over de beëdiging van de in het eerste lid bedoelde personen.  
 
 ### Artikel  67  
 
-Op de gronden, bedoeld in [artikel 67*a* van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), is gedurende de beperkte en de algemene noodtoestand voorlopige hechtenis toegelaten ten aanzien van overtredingen van bepalingen bij of krachtens deze wet vastgesteld, alsmede voor alle misdrijven.  
+Op de gronden, bedoeld in artikel 67*a* van het Wetboek van Strafvordering, is gedurende de beperkte en de algemene noodtoestand voorlopige hechtenis toegelaten ten aanzien van overtredingen van bepalingen bij of krachtens deze wet vastgesteld, alsmede voor alle misdrijven.  
 
 ###Hoofdstuk V 
 

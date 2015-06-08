@@ -85,7 +85,7 @@ a. zij hebben de leeftijd van eenentwintig jaar bereikt;
 
 b. zij zijn niet in enig opzicht van slecht levensgedrag;  
 
-c. zij staan niet onder curatele en zijn evenmin uit het ouderlijk gezag of de voogdij ontzet.     
+c. zij mogen niet onder curatele staan.     
 2.  Bij algemene maatregel van bestuur worden naast de in het eerste lid gestelde eisen andere eisen ten aanzien van het zedelijk gedrag van leidinggevenden gesteld en kan de in dat lid, onder b, gestelde eis nader worden omschreven.   
 3.  Leidinggevenden beschikken tevens over voldoende kennis en inzicht met betrekking tot sociale hygiëne, overeenkomstig bij algemene maatregel van bestuur te stellen eisen.   
 4.  De in het derde lid gestelde eis geldt niet voor leidinggevenden voor wier rekening en risico het horecabedrijf of het slijtersbedrijf wordt uitgeoefend, indien die leidinggevenden geen bemoeienis hebben met de bedrijfsvoering of de exploitatie van het horecabedrijf of het slijtersbedrijf waarvoor vergunning wordt gevraagd of is verkregen en de vergunninghouder dit in een schriftelijke verklaring bevestigt.   

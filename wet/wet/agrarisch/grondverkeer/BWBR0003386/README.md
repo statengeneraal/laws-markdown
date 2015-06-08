@@ -20,7 +20,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:  Onze Minis
 ### Artikel  2  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De inschrijving in de in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) bedoelde openbare registers van een akte van levering, vereist voor de vervreemding, vindt alleen plaats indien onder de akte of een ander ter inschrijving aan te bieden stuk een notariële verklaring is opgenomen, dat bij de vervreemding voldaan is aan het bepaalde bij of krachtens deze wet.    
+1.  De inschrijving in de in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek bedoelde openbare registers van een akte van levering, vereist voor de vervreemding, vindt alleen plaats indien onder de akte of een ander ter inschrijving aan te bieden stuk een notariële verklaring is opgenomen, dat bij de vervreemding voldaan is aan het bepaalde bij of krachtens deze wet.    
 2.   Voldaan is aan het bepaalde bij of krachtens deze wet indien:  
 
 a. de onroerende zaak waarop de vervreemding betrekking heeft, gelegen is in een op grond van artikel 3 omschreven gebied;   
@@ -34,14 +34,14 @@ c. de grondkamer verklaart dat de onroerende zaak waarop de vervreemding betrekk
 ### Artikel  3  
 
 1.  De verklaring van de grondkamer bedoeld in artikel 2, tweede lid, onder c, is niet vereist ten aanzien van een vervreemding met betrekking tot een onroerende zaak die gelegen is in een gebied waarvan bij besluit van burgemeester en wethouders is verklaard, dat daarin uitsluitend of nagenoeg uitsluitend gelegen zijn onroerende zaken, die duurzaam voor andere dan landbouwkundige doeleinden worden gebruikt en die niet als natuurterrein dienen te worden aangemerkt.   
-2.  Op de voorbereiding van het in het eerste lid bedoelde besluit is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.  
+2.  Op de voorbereiding van het in het eerste lid bedoelde besluit is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.  
 3.   Het besluit vermeldt, onder verwijzing naar een bijgevoegde kadastrale kaart, de kadastrale aanduiding van de binnen dit gebied liggende onroerende zaken.    
 4.   Burgemeester en wethouders verstrekken een exemplaar van het besluit en de bijbehorende kadastrale kaart aan het desbetreffende kantoor van de Dienst voor het kadaster en de openbare registers.    
 5.   Bij of krachtens algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven met betrekking tot de omschrijving en de aanduiding van het gebied.   
 
 ### Artikel  4  
 
-Voor de toepassing van artikel 2, eerste lid, wordt met de daar bedoelde notariële verklaring gelijkgesteld de verklaring van een persoon die een onderhandse akte tot levering heeft opgesteld en daartoe krachtens [artikel 91 van de Overgangswet van het nieuwe Burgerlijk Wetboek](../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) bevoegd was.  
+Voor de toepassing van artikel 2, eerste lid, wordt met de daar bedoelde notariële verklaring gelijkgesteld de verklaring van een persoon die een onderhandse akte tot levering heeft opgesteld en daartoe krachtens artikel 91 van de Overgangswet van het nieuwe Burgerlijk Wetboek bevoegd was.  
 
 ### Artikel  5  
 
@@ -62,9 +62,9 @@ b. een overeenkomst tot vervreemding van land aan het bureau of aan door Ons aan
 
 c. een overeenkomst tot vervreemding van land, voor zover het betreft overhoeken, waarvan de vervreemding plaatsvindt als onderdeel van een overeenkomst als bedoeld in onderdeel *j*;   
 
-d. een overeenkomst tussen pachter en verpachter ter uitoefening van het voorkeursrecht van de pachter als bedoeld in [afdeling 11 van titel 5 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+d. een overeenkomst tussen pachter en verpachter ter uitoefening van het voorkeursrecht van de pachter als bedoeld in afdeling 11 van titel 5 van Boek 7 van het Burgerlijk Wetboek;  
 
-e. een ruilverkaveling bij overeenkomst als bedoeld in [artikel 85, eerste lid, van de Wet inrichting landelijk gebied](../../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md), welke voldoet aan door Onze Minister te stellen eisen;  
+e. een ruilverkaveling bij overeenkomst als bedoeld in artikel 85, eerste lid, van de Wet inrichting landelijk gebied, welke voldoet aan door Onze Minister te stellen eisen;  
 
 f. een overeenkomst tot vervreemding van land, waarvan de oppervlakte 50 are niet te boven gaat, dat een eenheid vormt met een opstal, welke niet dient ter uitoefening van de landbouw. Indien de opstal doorgaans dient ter uitoefening van de landbouw, dient de verwerver aannemelijk te maken dat hij de opstal voor andere dan landbouwkundige doeleinden zal gebruiken;   
 
@@ -74,9 +74,9 @@ h. een overeenkomst van verdeling van een ontbonden huwelijksgemeenschap, een on
 
 i. vervreemding ingevolge een uiterste wilsbeschikking;   
 
-j. een overeenkomst tot vervreemding van land aan de Staat, een provincie, een gemeente, een rechtspersoonlijkheid bezittend lichaam als bedoeld in de [Wet gemeenschappelijke regelingen](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) (*Stb.* 1950, K 120), een waterschap, een veenschap of een veenpolder;   
+j. een overeenkomst tot vervreemding van land aan de Staat, een provincie, een gemeente, een rechtspersoonlijkheid bezittend lichaam als bedoeld in de Wet gemeenschappelijke regelingen (*Stb.* 1950, K 120), een waterschap, een veenschap of een veenpolder;   
 
-k. een overeenkomst tot vervreemding van land door het bureau aan de Staat, een provincie, een gemeente, een rechtspersoonlijkheid bezittend lichaam als bedoeld in de [Wet gemeenschappelijke regelingen](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), een waterschap, een veenschap, een veenpolder of aan een door Ons aan te wijzen in het algemeen belang werkzame rechtspersoon.      
+k. een overeenkomst tot vervreemding van land door het bureau aan de Staat, een provincie, een gemeente, een rechtspersoonlijkheid bezittend lichaam als bedoeld in de Wet gemeenschappelijke regelingen, een waterschap, een veenschap, een veenpolder of aan een door Ons aan te wijzen in het algemeen belang werkzame rechtspersoon.      
 3.   Een overeenkomst tot vervreemding van land tussen bloed- of aanverwanten in de zijlijn tot de tweede graad wordt goedgekeurd, indien voldaan wordt aan de vereisten als bedoeld in artikel 8, tweede lid, onder a, of artikel 9, onder c.    
 4.   Wij kunnen voorschriften verbinden aan een aanwijzing als bedoeld in het tweede lid, onder *b.* Deze voorschriften kunnen beperkingen inhouden. De aanwijzing wordt door Onze Minister in de *Staatscourant* bekend gemaakt.    
 5.   Burgemeester en wethouders beslissen binnen dertig dagen na de indiening van een aanvraag tot het verkrijgen van een verklaring als bedoeld in het tweede lid, onder *g*. Indien burgemeester en wethouders binnen de gestelde termijn geen beslissing hebben genomen, kan de afgifte van een verklaring worden gevraagd aan gedeputeerde staten die binnen dertig dagen nadien beslissen.    
@@ -89,7 +89,7 @@ k. een overeenkomst tot vervreemding van land door het bureau aan de Staat, een 
 1.  Een overeenkomst tot vervreemding van een landgoed wordt door de grondkamer goedgekeurd, indien het aannemelijk is, dat de verwerver het landgoed als eenheid in stand zal houden.    
 2.   Onder een landgoed wordt verstaan:  
 
-a. een complex, aangemerkt als landgoed in de zin van [artikel 1 van de Natuurschoonwet 1928](../../../../../wet/natuurschoonwet/1928/BWBR0001939/README.md) (*Stb.* 63);   
+a. een complex, aangemerkt als landgoed in de zin van artikel 1 van de Natuurschoonwet 1928 (*Stb.* 63);   
 
 b. andere geheel of gedeeltelijk met bos of andere houtopstanden bezette terreinen, waarvan het voortbestaan uit oogpunt van maatschappelijk belang wenselijk is, en die door Onze Minister zijn aangewezen als landgoed in de zin van deze wet.      
 3.   Een aanwijzing, als bedoeld in het vorige lid, onder b, geschiedt op verzoek van de eigenaar of op verzoek van meerdere eigenaren gezamenlijk.    
@@ -182,14 +182,14 @@ c. indien bij het verzoek een pachtovereenkomst of een ontwerp-pachtovereenkomst
 2°. indien redelijkerwijs moet worden aangenomen, dat de pachtovereenkomst binnen afzienbare tijd zal eindigen en niet aanstonds door een ander zal worden vervangen.        
 2.   Bij algemene maatregel van bestuur kunnen nadere regelen worden gesteld met betrekking tot de weigeringsgronden als omschreven in het vorige lid.    
 3.   Ingeval de toestemming niet verleend wordt, staat beroep open bij de Centrale Grondkamer.    
-4.   Ingeval de toestemming wordt verleend, worden de gegevens bedoeld in artikel 13 in afwijking van [artikel 6, eerste lid, van de Uitvoeringswet grondkamers](../../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md), onverwijld aan Onze Minister overgelegd.   
+4.   Ingeval de toestemming wordt verleend, worden de gegevens bedoeld in artikel 13 in afwijking van artikel 6, eerste lid, van de Uitvoeringswet grondkamers, onverwijld aan Onze Minister overgelegd.   
 
 ### Artikel  15  
 
 1.  Indien binnen een tijdvak van zeven jaren na het tijdstip van de toestemming wijziging optreedt in de aan de grondkamer overgelegde gegevens, dienen deze wijzigingen binnen één maand aan de grondkamer te worden gemeld.    
 2.   Voor zover de wijziging betreft een overeenkomst met een nieuwe bedrijfsleider dan wel met een nieuwe pachter, behoeft deze wijziging de toestemming van de grondkamer.    
 3.   De in het vorige lid bedoelde toestemming wordt verleend, indien voldaan wordt aan het bepaalde bij of krachtens artikel 14, eerste lid.    
-4.   De in het eerste lid bedoelde gegevens worden, in afwijking van [artikel 6, eerste lid, van de Uitvoeringswet grondkamers](../../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md), onverwijld aan Onze Minister overgelegd, tenzij het tweede lid toepassing vindt. In het laatste geval worden de gegevens overgelegd nadat de grondkamer heeft beslist over de aldaar bedoelde toestemming.   
+4.   De in het eerste lid bedoelde gegevens worden, in afwijking van artikel 6, eerste lid, van de Uitvoeringswet grondkamers, onverwijld aan Onze Minister overgelegd, tenzij het tweede lid toepassing vindt. In het laatste geval worden de gegevens overgelegd nadat de grondkamer heeft beslist over de aldaar bedoelde toestemming.   
 
 ### Artikel  16  
 
@@ -208,11 +208,11 @@ c. de verplichtingen, welke voortvloeien uit artikel 15, eerste lid, niet worden
 2.   Een vordering als bedoeld in het vorige lid wordt niet ingesteld dan nadat zes maanden zijn verlopen na de datum van de intrekking van de toestemming.    
 3.   Indien een rechtspersoon in gebreke blijft een pachtovereenkomst, als voorzien in het eerste lid, te sluiten, vervalt met ingang van de dertigste dag na de vordering van Onze Minister, dagelijks een dwangsom ten belope van een bij algemene maatregel van bestuur te bepalen bedrag.    
 4.   Bij algemene maatregel van bestuur worden nadere regelen gesteld met betrekking tot de procedure van aanwijzing van pachters, de voorwaarden waaronder een pachtovereenkomst als bedoeld in het eerste lid gesloten wordt en de wijze waarop het bureau de landbouwgrond kan onderverpachten.    
-5.   In afwijking van het bepaalde in [artikel 355 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) behoeven onderverpachtingen door het bureau niet de schriftelijke toestemming van de verpachter.   
+5.   In afwijking van het bepaalde in artikel 355 van Boek 7 van het Burgerlijk Wetboek behoeven onderverpachtingen door het bureau niet de schriftelijke toestemming van de verpachter.   
 
 ### Artikel  18  
 
-In geval van ontbinding van een rechtspersoon behoeft de overdracht krachtens [artikel 23, zesde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), indien en voor zover tot het batig saldo landbouwgrond behoort, de toestemming van de grondkamer. De toestemming wordt verleend indien de verwerver van de landbouwgrond voldoet aan het bepaalde bij of krachtens deze wet.  
+In geval van ontbinding van een rechtspersoon behoeft de overdracht krachtens artikel 23, zesde lid, van Boek 2 van het Burgerlijk Wetboek, indien en voor zover tot het batig saldo landbouwgrond behoort, de toestemming van de grondkamer. De toestemming wordt verleend indien de verwerver van de landbouwgrond voldoet aan het bepaalde bij of krachtens deze wet.  
 
 ### Titel  IV  
 
@@ -229,7 +229,7 @@ In geval van ontbinding van een rechtspersoon behoeft de overdracht krachtens [a
 
 ### Artikel  21  
 
-1.  Het verzoek om goedkeuring dan wel toestemming moet worden ingediend bij de grondkamer, bedoeld in [artikel 22 van de Uitvoeringswet grondkamers](../../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md).    
+1.  Het verzoek om goedkeuring dan wel toestemming moet worden ingediend bij de grondkamer, bedoeld in artikel 22 van de Uitvoeringswet grondkamers.    
 2.   De grondkamer tekent de datum van ontvangst van een verzoek om goedkeuring onverwijld daarop aan.   
 
 ### Artikel  22  
@@ -255,17 +255,17 @@ In geval van ontbinding van een rechtspersoon behoeft de overdracht krachtens [a
 
 ### Artikel  25  
 
-De [artikelen 6 tot en met 8](../../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md), [13](../../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md), [14](../../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md), [22, tweede lid tot en met 24](../../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md), [29 tot en met 32](../../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md), [34](../../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md) en [35 van de Uitvoeringswet grondkamers](../../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md) zijn van overeenkomstige toepassing, indien ingevolge de bepalingen van deze wet een beslissing van de grondkamer of de Centrale Grondkamer wordt verlangd.  
+De artikelen 6 tot en met 8, 13, 14, 22, tweede lid tot en met 24, 29 tot en met 32, 34 en 35 van de Uitvoeringswet grondkamers zijn van overeenkomstige toepassing, indien ingevolge de bepalingen van deze wet een beslissing van de grondkamer of de Centrale Grondkamer wordt verlangd.  
 
 ### Artikel  26  
 
 1.  Indien de grondkamer aan een overeenkomst of een ontwerp-overeenkomst haar goedkeuring onthoudt, of weigert een verklaring als bedoeld in artikel 2, tweede lid, onder c, af te geven, staat de betrokkenen beroep open op de Centrale Grondkamer.    
-2.  De [artikelen 37 tot en met 42 van de Uitvoeringswet grondkamers](../../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md) zijn van overeenkomstige toepassing, met dien verstande, dat [artikel 37, vierde lid, van de Uitvoeringswet grondkamers](../../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md), wordt gelezen als betrekking hebbend op een overeenkomst of een ontwerp-overeenkomst als bedoeld in deze wet.   
+2.  De artikelen 37 tot en met 42 van de Uitvoeringswet grondkamers zijn van overeenkomstige toepassing, met dien verstande, dat artikel 37, vierde lid, van de Uitvoeringswet grondkamers, wordt gelezen als betrekking hebbend op een overeenkomst of een ontwerp-overeenkomst als bedoeld in deze wet.   
 
 ### Artikel  27  
 
 1.  Onze Minister kan in overeenstemming met Onze Minister van Veiligheid en Justitie tarieven vaststellen voor de uit hoofde van deze wet door de grondkamer en door de Centrale Grondkamer te verrichten werkzaamheden.    
-2.   [Artikel 44, tweede lid, van de Uitvoeringswet grondkamers](../../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md) is van overeenkomstige toepassing.   
+2.   Artikel 44, tweede lid, van de Uitvoeringswet grondkamers is van overeenkomstige toepassing.   
 
 ### Titel  VII  
 
@@ -336,25 +336,25 @@ De Staat waarborgt de financiële verplichtingen, welke voor het bureau uit de u
 
 ### Artikel  37  
 
-1.  Overeenkomsten tot vervreemding van land, dat is aangewezen op grond van het derde lid, worden niet ingeschreven in de in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) bedoelde openbare registers, dan nadat het bureau in de gelegenheid is gesteld een zodanige overeenkomst te sluiten.    
+1.  Overeenkomsten tot vervreemding van land, dat is aangewezen op grond van het derde lid, worden niet ingeschreven in de in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek bedoelde openbare registers, dan nadat het bureau in de gelegenheid is gesteld een zodanige overeenkomst te sluiten.    
 2.   Bij algemene maatregel van bestuur kunnen voor een daarbij te bepalen tijdvak gebieden worden aangewezen, waarbinnen land als bedoeld in het eerste lid is gelegen. De maatregel bevat overwegingen omtrent de door het vestigen van een voorkeursrecht in zodanig gebied na te streven doeleinden. Als zodanige gebieden kunnen geheel of gedeeltelijk worden aangewezen:  
 
-a. landinrichtingsgebieden, vanaf het moment dat overeenkomstig [artikel 18, eerste lid, van de Wet inrichting landelijk gebied](../../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md) een ontwerp voor een inrichtingsplan ter inzage wordt gelegd;  
+a. landinrichtingsgebieden, vanaf het moment dat overeenkomstig artikel 18, eerste lid, van de Wet inrichting landelijk gebied een ontwerp voor een inrichtingsplan ter inzage wordt gelegd;  
 
 b. gebieden welke als reservaat zijn aangewezen;   
 
-c. het gebied Midden-Delfland, zoals dit is vastgesteld op grond van de [Reconstructiewet Midden-Delfland](../../../../../wet/reconstructiewet/midden-delfland/BWBR0003094/README.md) (*Stb.* 1977, 233);   
+c. het gebied Midden-Delfland, zoals dit is vastgesteld op grond van de Reconstructiewet Midden-Delfland (*Stb.* 1977, 233);   
 
-d. het gebied Oost-Groningen en de Gronings-Drentse Veenkoloniën, zoals dit is vastgesteld op grond van de [Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md) (*Stb.* 1977, 694);   
+d. het gebied Oost-Groningen en de Gronings-Drentse Veenkoloniën, zoals dit is vastgesteld op grond van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën (*Stb.* 1977, 694);   
 
-e. gebieden, die bij een structuurvisie als bedoeld in [artikel 2.3, eerste of tweede lid, van de Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) na inwerkingtreding van deze wet zijn aangemerkt als gebieden, die als voorkeursgebied kunnen worden aangewezen;  
+e. gebieden, die bij een structuurvisie als bedoeld in artikel 2.3, eerste of tweede lid, van de Wet ruimtelijke ordening na inwerkingtreding van deze wet zijn aangemerkt als gebieden, die als voorkeursgebied kunnen worden aangewezen;  
 
-f. reconstructiegebieden als bedoeld in [artikel 1 van de Reconstructiewet concentratiegebieden](../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), vanaf het moment dat overeenkomstig [artikel 15, tweede lid, van die wet](../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) het ontwerp van het reconstructieplan ter inzage wordt gelegd.     
+f. reconstructiegebieden als bedoeld in artikel 1 van de Reconstructiewet concentratiegebieden, vanaf het moment dat overeenkomstig artikel 15, tweede lid, van die wet het ontwerp van het reconstructieplan ter inzage wordt gelegd.     
 3.   Binnen de op grond van het tweede lid bepaalde gebieden wijzen Wij de gronden aan, waarop het eerste lid van toepassing is.    
-4.   De aanwijzing als bedoeld in het derde lid kan geen gronden omvatten waarop ingevolge de [artikelen 2](../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md) in samenhang met [3](../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md), [4, eerste lid, onder a](../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md), of [5](../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md) dan wel [6 van de Wet voorkeursrecht gemeenten](../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md) de [artikelen 10 tot en met 24](../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md) en [26 van die wet](../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md) van toepassing zijn.    
-5.   Het voorkeursrecht van het bureau op gronden die begrepen zijn in een aanwijzing als bedoeld in het derde lid vervalt, indien na de totstandkoming van Ons besluit op die gronden de [artikelen 10 tot en met 24](../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md) en [26 van de Wet voorkeursrecht gemeenten](../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md) van toepassing zijn ingevolge de [artikelen 2](../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md) in samenhang met [3](../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md), [4, eerste lid, onder a](../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md), of [5](../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md) dan wel [6 van die wet](../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md).    
-6.   Een aanwijzing als bedoeld in het derde lid vervalt op het tijdstip waarop met betrekking tot een gebied, als bedoeld in het tweede lid, onder *a*, *c* of *d*, het plan van toedeling ter inzage is neergelegd overeenkomstig [artikel 199, eerste lid, van de Landinrichtingswet](../../../../../wet/landinrichtingswet/BWBR0003793/README.md), onderscheidenlijk [artikel 79, tweede lid, van de Reconstructiewet Midden-Delfland](../../../../../wet/reconstructiewet/midden-delfland/BWBR0003094/README.md), onderscheidenlijk [artikel 83, tweede lid, van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md). De aanwijzing vervalt eveneens één week na het tijdstip waarop niet tot herinrichting, ruilverkaveling dan wel aanpassingsinrichting is besloten.    
-7.  Een aanwijzing als bedoeld in het derde lid vervalt op het tijdstip waarop met betrekking tot een gebied, als bedoeld in het tweede lid, onder f, het ruilplan ter inzage is gelegd overeenkomstig [artikel 75, eerste lid, van de Reconstructiewet concentratiegebieden](../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md).  
+4.   De aanwijzing als bedoeld in het derde lid kan geen gronden omvatten waarop ingevolge de artikelen 2 in samenhang met 3, 4, eerste lid, onder a, of 5 dan wel 6 van de Wet voorkeursrecht gemeenten de artikelen 10 tot en met 24 en 26 van die wet van toepassing zijn.    
+5.   Het voorkeursrecht van het bureau op gronden die begrepen zijn in een aanwijzing als bedoeld in het derde lid vervalt, indien na de totstandkoming van Ons besluit op die gronden de artikelen 10 tot en met 24 en 26 van de Wet voorkeursrecht gemeenten van toepassing zijn ingevolge de artikelen 2 in samenhang met 3, 4, eerste lid, onder a, of 5 dan wel 6 van die wet.    
+6.   Een aanwijzing als bedoeld in het derde lid vervalt op het tijdstip waarop met betrekking tot een gebied, als bedoeld in het tweede lid, onder *a*, *c* of *d*, het plan van toedeling ter inzage is neergelegd overeenkomstig artikel 199, eerste lid, van de Landinrichtingswet, onderscheidenlijk artikel 79, tweede lid, van de Reconstructiewet Midden-Delfland, onderscheidenlijk artikel 83, tweede lid, van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën. De aanwijzing vervalt eveneens één week na het tijdstip waarop niet tot herinrichting, ruilverkaveling dan wel aanpassingsinrichting is besloten.    
+7.  Een aanwijzing als bedoeld in het derde lid vervalt op het tijdstip waarop met betrekking tot een gebied, als bedoeld in het tweede lid, onder f, het ruilplan ter inzage is gelegd overeenkomstig artikel 75, eerste lid, van de Reconstructiewet concentratiegebieden.  
 
 ### Artikel  38  
 
@@ -389,7 +389,7 @@ Het bepaalde in artikel 37, eerste lid, is niet van toepassing, voor zover het b
 1.  Indien het bureau in onderhandeling is getreden over het aangaan van een overeenkomst tot vervreemding, kan de vervreemder het bureau de wens te kennen geven, dat over de prijs advies zal worden uitgebracht door deskundigen, te benoemen door de rechtbank binnen welks rechtsgebied het desbetreffende land geheel of grotendeels is gelegen. Binnen twee weken na ontvangst van het desbetreffende schriftelijke verzoek van de vervreemder, verzoekt het bureau de rechtbank één of meer deskundigen te benoemen, ten einde het bedoelde advies uit te brengen.    
 2.   Bij overschrijding door het bureau van de in het vorige lid bedoelde termijn is artikel 42, derde lid, van overeenkomstige toepassing.    
 3.   Bij het verzoekschrift legt het bureau een gewaarmerkt afschrift van het verzoek van de vervreemder over.    
-4.   De rechtbank benoemt één of meer deskundigen die zo spoedig mogelijk een met redenen omkleed schriftelijk advies uitbrengen. De deskundigen stellen hun advies vast met overeenkomstige toepassing van de [artikelen 40*b*-40f van de onteigeningswet](../../../../../wet/onteigeningswet/BWBR0001842/README.md).    
+4.   De rechtbank benoemt één of meer deskundigen die zo spoedig mogelijk een met redenen omkleed schriftelijk advies uitbrengen. De deskundigen stellen hun advies vast met overeenkomstige toepassing van de artikelen 40*b*-40f van de onteigeningswet.    
 5.   De kosten van het verzoek en van het advies van deskundigen komen ten laste van het bureau.   
 
 ### Artikel  44  
@@ -433,12 +433,12 @@ De beschikking, bedoeld in artikel 46 is niet vatbaar voor beroep of cassatie.
 
 1.  Onze Minister kan de nietigheid inroepen:  
 
-a. van de overdracht of uitgifte van aandelen of certificaten van aandelen in besloten en naamloze vennootschappen tenzij van deze vennootschappen de aandelen of certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), dan wel van de totstandbrenging of de overdracht van lidmaatschaps- of andere rechten in andere rechtspersonen ofwel van niet niet tot de handel op een zodanige markt toegelaten certificaatrechten of dergelijke deelnemingsrechten op land of beperkte rechten waaraan land is onderworpen, een en ander indien de vennootschappen of rechtspersonen onmiddellijk of middellijk eigenaar zijn van land of rechthebbende zijn op beperkte rechten waaraan dat land is onderworpen, dan wel certificaatrechten betrekking hebben op land of zulke beperkte rechten, en indien dat land is opgenomen in een besluit, als bedoeld in artikel 37, derde lid;   
+a. van de overdracht of uitgifte van aandelen of certificaten van aandelen in besloten en naamloze vennootschappen tenzij van deze vennootschappen de aandelen of certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, dan wel van de totstandbrenging of de overdracht van lidmaatschaps- of andere rechten in andere rechtspersonen ofwel van niet niet tot de handel op een zodanige markt toegelaten certificaatrechten of dergelijke deelnemingsrechten op land of beperkte rechten waaraan land is onderworpen, een en ander indien de vennootschappen of rechtspersonen onmiddellijk of middellijk eigenaar zijn van land of rechthebbende zijn op beperkte rechten waaraan dat land is onderworpen, dan wel certificaatrechten betrekking hebben op land of zulke beperkte rechten, en indien dat land is opgenomen in een besluit, als bedoeld in artikel 37, derde lid;   
 
 b. van de toedeling van onder a bedoelde aandelen, certificaten of rechten, in geval van ontbinding van enige gemeenschap met uitzondering van de huwelijksgemeenschap, de gemeenschap van een geregistreerd partnerschap of een nalatenschap.      
 2.   De nietigheid kan volgens het vorige lid worden ingeroepen op grond dat de overdracht, uitgifte of toedeling plaats vond met de kennelijke strekking, afbreuk te doen aan het belang van het bureau bij haar in deze wet geregelde voorkeurspositie.    
 3.   Het verzoek moet worden gedaan binnen twee maanden nadat de overdracht, uitgifte of toedeling ter kennis van Onze Minister is gekomen bij de rechtbank van het arrondissement binnen welker ressort het betreffende land is gelegen, de rechtspersoon haar woonplaats heeft dan wel de vennootschap of maatschappij is gevestigd. Onze Minister is niet ontvankelijk in zijn verzoek indien het bureau met de overdracht, uitgifte of toedeling schriftelijk heeft ingestemd.    
-4.   De vorige leden zijn van overeenkomstige toepassing in geval van een verkoop krachtens de [Eerste Afdeling A](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) of [Eerste Afdeling B van de Tweede Titel van het Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) dan wel ingevolge [artikel 248 van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).   
+4.   De vorige leden zijn van overeenkomstige toepassing in geval van een verkoop krachtens de Eerste Afdeling A of Eerste Afdeling B van de Tweede Titel van het Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering dan wel ingevolge artikel 248 van Boek 3 van het Burgerlijk Wetboek.   
 
 ### Artikel  52  
 
@@ -458,7 +458,7 @@ Schriftelijke opgaven, verzoeken en beschikkingen op grond van deze titel, diene
 
 1.  Indien krachtens de Titels II of III geen vereisten met betrekking tot overeenkomsten tot vervreemding van land zijn gesteld is artikel 53 niet van toepassing.    
 2.   Indien de nadere vereisten met betrekking tot de vervreemding van land zich beperken tot de vereisten gesteld krachtens artikel 8, tweede lid, onder *a,*  of artikel 14, eerste lid, onder *b,* sub 1°, is artikel 53 niet van toepassing.    
-3.   De Staat, een provincie, een gemeente, een rechtspersoonlijkheid bezittend lichaam, als bedoeld in de [Wet gemeenschappelijke regelingen](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), een waterschap, een veenschap of een veenpolder kunnen geen toepassing van artikel 53 verzoeken.   
+3.   De Staat, een provincie, een gemeente, een rechtspersoonlijkheid bezittend lichaam, als bedoeld in de Wet gemeenschappelijke regelingen, een waterschap, een veenschap of een veenpolder kunnen geen toepassing van artikel 53 verzoeken.   
 
 ### Artikel  55  
 
@@ -506,7 +506,7 @@ Het is verboden onjuiste of onvolledige opgaven te doen met het oog op het verkr
 
 1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, zijn belast de bij besluit van Onze Minister daartoe aangewezen ambtenaren.    
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.    
-3.  De toezichthouder beschikt niet over de bevoegdheden, genoemd in de [artikelen 5:15](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:18](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+3.  De toezichthouder beschikt niet over de bevoegdheden, genoemd in de artikelen 5:15, 5:18 en 5:19 van de Algemene wet bestuursrecht.   
 
 ### Artikel  64  
 
@@ -538,7 +538,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 1.  Deze wet is niet van toepassing ten aanzien van overeenkomsten, waarvan een akte is opgemaakt, welke voor de dag van inwerkingtreding van deze wet, een zekere dagtekening heeft verkregen.    
 2.   Artikel 66 is niet van toepassing op zaken, die op het tijdstip van het in werking treden van de wet aanhangig zijn bij de grondkamers, de Centrale Grondkamer, de pachtkamers van de kantongerechten of de pachtkamer van het gerechtshof te Arnhem.    
-3.   De in deze wet opgenomen bepalingen inhoudende de wijziging van de [Pachtwet](../../../../../wet/pachtwet/BWBR0002269/README.md) zijn niet van toepassing op pachtovereenkomsten, aangegaan voor het in werking treden van deze wet en waarvan een schriftelijke pachtovereenkomst of een vonnis tot schriftelijke vastlegging aan de Grondkamer ter goedkeuring ingezonden wordt binnen één jaar na het in werking treden van deze wet.   
+3.   De in deze wet opgenomen bepalingen inhoudende de wijziging van de Pachtwet zijn niet van toepassing op pachtovereenkomsten, aangegaan voor het in werking treden van deze wet en waarvan een schriftelijke pachtovereenkomst of een vonnis tot schriftelijke vastlegging aan de Grondkamer ter goedkeuring ingezonden wordt binnen één jaar na het in werking treden van deze wet.   
 
 ### Artikel  70  
 

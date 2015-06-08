@@ -10,7 +10,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is het bestuursprocesre
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Deel  A  
 
-#### *Wijziging van de *[Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)* en aanverwante wetten*
+#### *Wijziging van de *Algemene wet bestuursrecht* en aanverwante wetten*
 
 ### Artikel  I  
 
@@ -754,13 +754,13 @@ Wijzigt deze wet.
 
 ### Artikel  II  
 
-####([Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), 32 588 )
+####(Elektriciteitswet 1998, 32 588 )
 
 Wijzigt deze wet. 
 
 ### Artikel  III  
 
-####(Herziening [EG-richtlijn handel in broeikasgasemissierechten](../../../../../wet/implementatiewet/eg-richtlijn/handel/in/broeikasgasemissierechten/BWBR0017265/README.md), 32 667 )
+####(Herziening EG-richtlijn handel in broeikasgasemissierechten, 32 667 )
 
 Wijzigt deze wet. 
 
@@ -772,7 +772,7 @@ Wijzigt de Huisvestingswet 20...
 
 ### Artikel  V  
 
-####([Invoeringswet geluidproductieplafonds](../../../../../wet/invoeringswet/geluidproductieplafonds/BWBR0031679/README.md), 32 625 )
+####(Invoeringswet geluidproductieplafonds, 32 625 )
 
 Wijzigt deze wet.
 
@@ -784,7 +784,7 @@ Wijzigt deze wet.
 
 ### Artikel  VII  
 
-####(Wijziging [Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), 31 412 )
+####(Wijziging Telecommunicatiewet, 31 412 )
 
 Wijzigt de Algemene wet bestuursrecht en de Wijziging van de Telecommunicatiewet in verband met de Nota frequentiebeleid 2005. 
 
@@ -796,37 +796,37 @@ Wijzigt de Warmtewet en de Algemene wet bestuursrecht.
 
 ### Artikel  IX  
 
-####([Wet college voor de rechten van de mens](../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), 32 467 )
+####(Wet college voor de rechten van de mens, 32 467 )
 
 Wijzigt deze wet. 
 
 ### Artikel  X  
 
-####([Wet naleving Europese regelgeving publieke entiteiten](../../../../../wet/wet/naleving/europese/regelgeving/publieke/entiteiten/BWBR0031640/README.md), 32 157 )
+####(Wet naleving Europese regelgeving publieke entiteiten, 32 157 )
 
 Wijzigt deze wet. 
 
 ### Artikel  XI  
 
-####([Wet revitalisering generiek toezicht](../../../../../wet/wet/revitalisering/generiek/toezicht/BWBR0031628/README.md), 32 389 )
+####(Wet revitalisering generiek toezicht, 32 389 )
 
 Wijzigt deze wet. 
 
 ### Artikel  XII  
 
-####([Wet strategische diensten](../../../../../wet/wet/strategische/diensten/BWBR0030545/README.md), 32 665 )
+####(Wet strategische diensten, 32 665 )
 
 Wijzigt de Wet strategische diensten.
 
 ### Artikel  XIII  
 
-####([Wet dieren](../../../../../wet/wet/dieren/BWBR0030250/README.md))
+####(Wet dieren)
 
 Wijzigt de Wet dieren. 
 
 ### Artikel  XIV  
 
-####(Wijziging [Wet wapens en munitie](../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) en [Flora- en faunawet](../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), Stb. 2011, 447)
+####(Wijziging Wet wapens en munitie en Flora- en faunawet, Stb. 2011, 447)
 
 Wijzigt de Wet wapens en munitie en de Flora- en faunawet. 
 
@@ -838,25 +838,25 @@ Wijzigt de Levensloopregeling sector Rechterlijke Macht en de Algemene wet bestu
 
 ### Artikel  XVI  
 
-####([Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md), 33 025 )
+####(Wet op het accountantsberoep, 33 025 )
 
 Wijzigt deze wet. 
 
 ### Artikel  XVII  
 
-####([Wet bekostiging financieel toezicht](../../../../../wet/wet/bekostiging/financieel/toezicht/BWBR0031659/README.md), 33 057 )
+####(Wet bekostiging financieel toezicht, 33 057 )
 
 Wijzigt deze wet. 
 
 ### Artikel  XVIII  
 
-####([Wet bijzondere maatregelen financiële ondernemingen](../../../../../wet/interventiewet/BWBR0031641/README.md), 33 059 )
+####(Wet bijzondere maatregelen financiële ondernemingen, 33 059 )
 
 Wijzigt deze wet. 
 
 ### Artikel  XIX  
 
-####(Wijziging [Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md), 32 814 )
+####(Wijziging Elektriciteitswet 1998 en Gaswet, 32 814 )
 
 Wijzigt deze wet. 
 

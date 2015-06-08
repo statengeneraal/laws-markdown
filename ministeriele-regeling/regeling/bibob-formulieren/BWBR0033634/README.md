@@ -3,46 +3,46 @@
 ##Regeling van de Minister van Veiligheid en Justitie van 24 juni 2013, nr. 398136, tot vaststelling van formulieren voor het verstrekken van gegevens en bescheiden alsmede voor de bevindingen van het eigen onderzoek op grond van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Regeling Bibob-formulieren)
 
 De Minister van Veiligheid en Justitie,  
-Gelet op [artikel 30, vijfde lid, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);
+Gelet op artikel 30, vijfde lid, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur;
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a.  *Wet Bibob:* [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);  
+a.  *Wet Bibob:* Wet bevordering integriteitsbeoordelingen door het openbaar bestuur;  
 
-b.  *bevoegde instantie:* een bestuursorgaan of een rechtspersoon met een overheidstaak die bevoegd is om de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) toe te passen;  
+b.  *bevoegde instantie:* een bestuursorgaan of een rechtspersoon met een overheidstaak die bevoegd is om de Wet Bibob toe te passen;  
 
-c.  *betrokkene:* een betrokkene als bedoeld in [artikel 1, eerste lid, onderdeel e, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);  
+c.  *betrokkene:* een betrokkene als bedoeld in artikel 1, eerste lid, onderdeel e, van de Wet Bibob;  
 
 d.  *vragenformulier:* een formulier als bedoeld in artikel 2;  
 
 e.  *vragenlijst:* een vragenlijst als bedoeld in artikel 4;  
 
-f.  *Bibob-aangelegenheid:* een aangelegenheid als bedoeld in artikel 2, onder a tot en met e, waarbij de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) wordt toegepast.   
+f.  *Bibob-aangelegenheid:* een aangelegenheid als bedoeld in artikel 2, onder a tot en met e, waarbij de Wet Bibob wordt toegepast.   
 
 ### Artikel  2  
 
-De formulieren voor het verstrekken van gegevens en bescheiden, bedoeld in [artikel 30, eerste en derde lid, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), worden voor de hierna te noemen aangelegenheden als volgt vastgesteld: 
+De formulieren voor het verstrekken van gegevens en bescheiden, bedoeld in artikel 30, eerste en derde lid, van de Wet Bibob, worden voor de hierna te noemen aangelegenheden als volgt vastgesteld: 
 
 a. voor beschikkingen inzake de verlening van subsidies, overeenkomstig bijlage 1 bij deze regeling;  
 
-b. voor beschikkingen inzake de verlening van vergunningen op grond van [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), overeenkomstig bijlage 2 bij deze regeling;  
+b. voor beschikkingen inzake de verlening van vergunningen op grond van artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht, overeenkomstig bijlage 2 bij deze regeling;  
 
 c. voor overige beschikkingen, overeenkomstig bijlage 3 bij deze regeling.  
 
-d. voor overheidsopdrachten als bedoeld in [artikel 1, eerste lid, onder j, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), overeenkomstig bijlage 4 bij deze regeling;  
+d. voor overheidsopdrachten als bedoeld in artikel 1, eerste lid, onder j, van de Wet Bibob, overeenkomstig bijlage 4 bij deze regeling;  
 
-e. voor vastgoedtransacties als bedoeld in [artikel 1, eerste lid, onder o, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), overeenkomstig bijlage 5 bij deze regeling.   
+e. voor vastgoedtransacties als bedoeld in artikel 1, eerste lid, onder o, van de Wet Bibob, overeenkomstig bijlage 5 bij deze regeling.   
 
 ### Artikel  3  
 
-Het formulier voor de bevindingen van het eigen onderzoek, bedoeld in [artikel 30, vierde lid, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), wordt vastgesteld overeenkomstig bijlage 6 bij deze regeling. 
+Het formulier voor de bevindingen van het eigen onderzoek, bedoeld in artikel 30, vierde lid, van de Wet Bibob, wordt vastgesteld overeenkomstig bijlage 6 bij deze regeling. 
 
 ### Artikel  4  
 
-Het is de bevoegde instantie toegestaan om op basis van het vragenformulier voor een Bibob-aangelegenheid een vragenlijst samen te stellen en in de plaats van het vragenformulier te gebruiken voor het verkrijgen van gegevens en bescheiden, bedoeld in [artikel 30, eerste en derde lid, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). 
+Het is de bevoegde instantie toegestaan om op basis van het vragenformulier voor een Bibob-aangelegenheid een vragenlijst samen te stellen en in de plaats van het vragenformulier te gebruiken voor het verkrijgen van gegevens en bescheiden, bedoeld in artikel 30, eerste en derde lid, van de Wet Bibob. 
 
 ### Artikel  5  
 
@@ -64,7 +64,7 @@ Tot 1 november 2013 is het de bevoegde instantie toegestaan vragenlijsten te ge
 
 ### Artikel  8  
 
-Deze regeling treedt in werking op het tijdstip waarop de [Evaluatie- en uitbreidingswet Bibob](../../../../wet/evaluatie-/en/uitbreidingswet/bibob/BWBR0033159/README.md) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop de Evaluatie- en uitbreidingswet Bibob in werking treedt. 
 
 ### Artikel  9  
 
@@ -79,7 +79,7 @@ I.W. Opstelten
 
 ####Bibob-vragenformulier met betrekking tot subsidiebeschikkingen
 
-Vastgesteld op grond van [artikel 30 van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) 
+Vastgesteld op grond van artikel 30 van de Wet Bibob 
 
 ####Inhoudsopgave
 
@@ -120,7 +120,7 @@ Vastgesteld op grond van [artikel 30 van de Wet Bibob](../../../../wet/wet/bevor
 
 ####Instructie
 
-Dit vragenformulier is op grond van [artikel 30 van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) vastgesteld door de Minister van Veiligheid en Justitie. Op basis van dit formulier kan een bestuursorganen een beoordeling op grond van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) uit (laten) voeren. Dit Bibob-vragenformulier betreft (aanvragen van) subsidiebeschikkingen. 
+Dit vragenformulier is op grond van artikel 30 van de Wet Bibob vastgesteld door de Minister van Veiligheid en Justitie. Op basis van dit formulier kan een bestuursorganen een beoordeling op grond van de Wet Bibob uit (laten) voeren. Dit Bibob-vragenformulier betreft (aanvragen van) subsidiebeschikkingen. 
 
 ####Consequenties gebrekkig invullen
 
@@ -128,7 +128,7 @@ Dit Bibob-vragenformulier moet u volledig, correct en waarheidsgetrouw invullen 
 
 * Een subsidieaanvraag kan buiten behandeling worden gelaten.  
 
-* Een verleende subsidiebeschikking kan worden ingetrokken.   Bovendien is het opzettelijk verschaffen van onjuiste informatie (valsheid in geschrifte) strafbaar in de zin van [artikel 225 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Dit kan ook tot weigering en/of intrekking van de subsidiebeschikking leiden. 
+* Een verleende subsidiebeschikking kan worden ingetrokken.   Bovendien is het opzettelijk verschaffen van onjuiste informatie (valsheid in geschrifte) strafbaar in de zin van artikel 225 van het Wetboek van Strafrecht. Dit kan ook tot weigering en/of intrekking van de subsidiebeschikking leiden. 
 
 ####Verwijzen
 
@@ -150,7 +150,7 @@ Het kan voorkomen dat uw antwoord niet past in de antwoordruimte bij de desbetre
 
 ####Toelichting gebruikte termen
 
-In de vragen spreken wij herhaaldelijk over ‘de betrokkene’ of ‘de betrokkenen’. Dit zijn termen uit de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) (zie [artikel 1, eerste lid, onder e](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md)) die doelen op de subsidieontvanger(s) of -aanvrager(s). Dit kunnen ook rechtspersonen zijn. Verder gaat het herhaaldelijk over ‘u’ of ‘uw’. Hiermee bedoelen wij de hierboven beschreven betrokkene. Achterin dit vragenformulier vindt u een ‘Toelichting’. Daarin leggen wij de betekenis van enkele andere termen uit. Lees dit hoofdstuk goed door. 
+In de vragen spreken wij herhaaldelijk over ‘de betrokkene’ of ‘de betrokkenen’. Dit zijn termen uit de Wet Bibob (zie artikel 1, eerste lid, onder e) die doelen op de subsidieontvanger(s) of -aanvrager(s). Dit kunnen ook rechtspersonen zijn. Verder gaat het herhaaldelijk over ‘u’ of ‘uw’. Hiermee bedoelen wij de hierboven beschreven betrokkene. Achterin dit vragenformulier vindt u een ‘Toelichting’. Daarin leggen wij de betekenis van enkele andere termen uit. Lees dit hoofdstuk goed door. 
 
 ### 1  
 
@@ -190,7 +190,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 | --- |
 |:---|
-| Als u ‘ja’ heeft geantwoord, dan bent u de betrokkene zoals bedoeld in de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).  |
+| Als u ‘ja’ heeft geantwoord, dan bent u de betrokkene zoals bedoeld in de Wet Bibob.  |
 | --- |
 | U moet de volgende vragen beantwoorden:  |
 | • de vragen 2A tot en met 2L onder ‘2. Eenmanszaak – privé persoon’; en  |
@@ -261,7 +261,7 @@ Lever met betrekking tot deze vof, cv of maatschap het volgende in:
 
 | --- |
 |:---|
-| De vennoten zijn de betrokkenen zoals bedoeld in de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).  |
+| De vennoten zijn de betrokkenen zoals bedoeld in de Wet Bibob.  |
 | --- |
 | U moet de volgende vragen beantwoorden:  |
 | • per vennoot een exemplaar van de vragen 3A tot en met 3M onder ‘3. Vennoot – natuurlijk persoon’; en  |
@@ -362,7 +362,7 @@ Lever met betrekking tot de eerst genoemde vennootschap/maatschap het volgende i
 
 | --- |
 |:---|
-| De vennoten zijn de betrokkenen zoals bedoeld in de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). Voor zover dit natuurlijke personen zijn, zijn zij ook uiteindelijke zeggenschaphebbenden en uiteindelijk leidinggevenden. De andere uiteindelijk zeggenschaphebbenden en uiteindelijk leidinggevenden heeft u aangegeven.  |
+| De vennoten zijn de betrokkenen zoals bedoeld in de Wet Bibob. Voor zover dit natuurlijke personen zijn, zijn zij ook uiteindelijke zeggenschaphebbenden en uiteindelijk leidinggevenden. De andere uiteindelijk zeggenschaphebbenden en uiteindelijk leidinggevenden heeft u aangegeven.  |
 | --- |
 | U moet de volgende vragen beantwoorden:  |
 | • vraag 1G;  |
@@ -499,7 +499,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 | --- |
 |:---|
-| De eerst genoemde partij is de betrokkene zoals bedoeld in de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). De natuurlijke personen die aandeelhouder zijn, zijn uiteindelijke zeggenschaphebbenden. De natuurlijke personen die bestuurder zijn, zijn uiteindelijk leidinggevenden. Eventuele andere uiteindelijk zeggenschaphebbenden en uiteindelijk leidinggevenden heeft u aangegeven.  |
+| De eerst genoemde partij is de betrokkene zoals bedoeld in de Wet Bibob. De natuurlijke personen die aandeelhouder zijn, zijn uiteindelijke zeggenschaphebbenden. De natuurlijke personen die bestuurder zijn, zijn uiteindelijk leidinggevenden. Eventuele andere uiteindelijk zeggenschaphebbenden en uiteindelijk leidinggevenden heeft u aangegeven.  |
 | --- |
 | U moet de volgende vragen beantwoorden:  |
 | • vraag 1G;  |
@@ -676,7 +676,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 * (kopieën van) de desbetreffende besluiten.   
 ### * *2L: Is aan u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd?* * 
 
-Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
+Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van artikel 13b van de Opiumwet begrepen. 
 
 □ Nee.  
 
@@ -828,7 +828,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 * (kopieën van) de desbetreffende besluiten.   
 ### * *3M: Is aan deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd?* * 
 
-Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
+Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van artikel 13b van de Opiumwet begrepen. 
 
 □ Nee.  
 
@@ -991,7 +991,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 * (kopieën van) de desbetreffende besluiten.   
 ### * *4M: Is aan (a) deze uiteindelijk zeggenschaphebbende, (b) de betrokkene en/of (c) de rechtspersonen en ondernemingen die bij de vragen 4B en 4C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd?* * 
 
-Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
+Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van artikel 13b van de Opiumwet begrepen. 
 
 □ Nee.  
 
@@ -1064,7 +1064,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 * (kopieën van) de desbetreffende besluiten.   
 ### * *5G: Is aan deze uiteindelijk leidinggevende en/of van de rechtspersonen en ondernemingen die bij de vragen 5B en 5C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd?* * 
 
-Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) verstaan. 
+Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van artikel 13b van de Opiumwet verstaan. 
 
 □ Nee.  
 
@@ -1184,7 +1184,7 @@ In de voorgaande vragen gebruiken wij enkele specifieke termen. Hieronder volgt 
 
 ####Betrokkene
 
-In [artikel 1, eerste lid, onder e, van de wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) wordt bepaald dat de volgende (rechts)personen ‘betrokkene’ in de zin van deze wet zijn: 
+In artikel 1, eerste lid, onder e, van de wet Bibob wordt bepaald dat de volgende (rechts)personen ‘betrokkene’ in de zin van deze wet zijn: 
 
 * aanvragers van een beschikking, bijvoorbeeld van een vergunning of subsidie;  
 
@@ -1242,7 +1242,7 @@ Als van ‘u’ of ‘uw’ wordt gesproken, bedoelen wij de hierboven beschreve
 
 ####Uiteindelijk begunstigde
 
-Voor een beoordeling op grond van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) is het van belang om te weten bij wie de opbrengsten van een onderneming of andere uitkeringen uiteindelijk terecht komen. Doorgaans zijn de natuurlijke personen die uiteindelijk de zeggenschap hebben ook de begunstigden. Het gaat dan bijvoorbeeld over de eigenaren van een eenmanszaak, de vennoten van een vof of de (indirecte) aandeelhouders van een besloten vennootschap. Zij hebben uiteindelijk recht op de winst van de desbetreffende onderneming. In sommige gevallen zijn andere natuurlijke personen dan degenen met (indirecte) zeggenschap uiteindelijk begunstigde. Het gaat dan onder andere over (afhankelijk van de van kracht zijnde bepalingen): 
+Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten bij wie de opbrengsten van een onderneming of andere uitkeringen uiteindelijk terecht komen. Doorgaans zijn de natuurlijke personen die uiteindelijk de zeggenschap hebben ook de begunstigden. Het gaat dan bijvoorbeeld over de eigenaren van een eenmanszaak, de vennoten van een vof of de (indirecte) aandeelhouders van een besloten vennootschap. Zij hebben uiteindelijk recht op de winst van de desbetreffende onderneming. In sommige gevallen zijn andere natuurlijke personen dan degenen met (indirecte) zeggenschap uiteindelijk begunstigde. Het gaat dan onder andere over (afhankelijk van de van kracht zijnde bepalingen): 
 
 * natuurlijke personen die direct of indirect certificaathouder zijn.  
 
@@ -1254,7 +1254,7 @@ Voor een beoordeling op grond van de [Wet Bibob](../../../../wet/wet/bevordering
 
 ####Uiteindelijk leidinggevende
 
-De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) spreekt van leiding geven en indirect leiding geven. Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten wie uiteindelijk de leiding hebben (gehad). Indien er sprake is van een keten van leidinggevende (rechts)personen, betreft dit de natuurlijke persoon/personen die aan het einde van die keten staat/staan. Gezien de variatie in eigendoms- en zeggenschapsstructuren is het niet mogelijk om hier een uitputtende opsomming te geven van alle mogelijke uiteindelijk leidinggevenden. Hieronder volgen voorbeelden met betrekking tot de meest voorkomende gevallen: 
+De Wet Bibob spreekt van leiding geven en indirect leiding geven. Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten wie uiteindelijk de leiding hebben (gehad). Indien er sprake is van een keten van leidinggevende (rechts)personen, betreft dit de natuurlijke persoon/personen die aan het einde van die keten staat/staan. Gezien de variatie in eigendoms- en zeggenschapsstructuren is het niet mogelijk om hier een uitputtende opsomming te geven van alle mogelijke uiteindelijk leidinggevenden. Hieronder volgen voorbeelden met betrekking tot de meest voorkomende gevallen: 
 
 * Bij een eenmanszaak is de uiteindelijk leidinggevende de natuurlijke persoon die eigenaar is van deze eenmanszaak en voor wiens rekening deze wordt gedreven.  
 
@@ -1274,7 +1274,7 @@ De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/he
 
 ####Uiteindelijk zeggenschaphebbende
 
-De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) spreekt van zeggenschap hebben en indirect zeggenschap hebben. Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten wie uiteindelijk de zeggenschap hebben (gehad). Als sprake is van een keten van zeggenschap hebbende (rechts)personen, gaat het over de natuurlijke persoon/personen die aan het einde van die keten staat/staan. Gezien de variatie in eigendoms- en zeggenschapsstructuren is het niet mogelijk om hier een uitputtende opsomming te geven van alle mogelijke uiteindelijk zeggenschaphebbenden. Hieronder volgen voorbeelden met betrekking tot de meest voorkomende gevallen: 
+De Wet Bibob spreekt van zeggenschap hebben en indirect zeggenschap hebben. Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten wie uiteindelijk de zeggenschap hebben (gehad). Als sprake is van een keten van zeggenschap hebbende (rechts)personen, gaat het over de natuurlijke persoon/personen die aan het einde van die keten staat/staan. Gezien de variatie in eigendoms- en zeggenschapsstructuren is het niet mogelijk om hier een uitputtende opsomming te geven van alle mogelijke uiteindelijk zeggenschaphebbenden. Hieronder volgen voorbeelden met betrekking tot de meest voorkomende gevallen: 
 
 * Bij een eenmanszaak is de uiteindelijk zeggenschaphebbende de natuurlijke persoon die eigenaar is van deze eenmanszaak en voor wiens rekening deze wordt gedreven.  
 
@@ -1300,9 +1300,9 @@ De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/he
 
 ### Bijlage  2  
 
-####Bibob-vragenformulier met betrekking tot vergunningen ex [artikel 2.1, eerste lid, onder a, van de Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md)
+####Bibob-vragenformulier met betrekking tot vergunningen ex artikel 2.1, eerste lid, onder a, van de Wabo
 
-Vastgesteld op grond van [artikel 30 van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) 
+Vastgesteld op grond van artikel 30 van de Wet Bibob 
 
 ####Inhoudsopgave
 
@@ -1344,7 +1344,7 @@ Vastgesteld op grond van [artikel 30 van de Wet Bibob](../../../../wet/wet/bevor
 
 ####Instructie
 
-Dit vragenformulier is op grond van [artikel 30 van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) vastgesteld door de Minister van Veiligheid en Justitie. Op basis van dit formulier kunnen bestuursorganen een beoordeling op grond van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) (laten) uitvoeren. Dit Bibob-vragenformulier gaat over (aanvragen van) omgevingsvergunningen bouw ex [artikel 2.1, eerste lid, onder a, van de Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md). 
+Dit vragenformulier is op grond van artikel 30 van de Wet Bibob vastgesteld door de Minister van Veiligheid en Justitie. Op basis van dit formulier kunnen bestuursorganen een beoordeling op grond van de Wet Bibob (laten) uitvoeren. Dit Bibob-vragenformulier gaat over (aanvragen van) omgevingsvergunningen bouw ex artikel 2.1, eerste lid, onder a, van de Wabo. 
 
 ####Consequenties gebrekkig invullen
 
@@ -1352,7 +1352,7 @@ Dit Bibob-vragenformulier moet u volledig, correct en waarheidsgetrouw invullen 
 
 * Een vergunningaanvraag kan buiten behandeling worden gelaten.  
 
-* Een verleende vergunning kan worden ingetrokken.   Bovendien is het opzettelijk verschaffen van onjuiste informatie (valsheid in geschrifte) strafbaar in de zin van [artikel 225 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Dit kan ook tot weigering en/of intrekking van de vergunning leiden. 
+* Een verleende vergunning kan worden ingetrokken.   Bovendien is het opzettelijk verschaffen van onjuiste informatie (valsheid in geschrifte) strafbaar in de zin van artikel 225 van het Wetboek van Strafrecht. Dit kan ook tot weigering en/of intrekking van de vergunning leiden. 
 
 ####Verwijzen
 
@@ -1374,7 +1374,7 @@ Het kan voorkomen dat uw antwoord niet past in de antwoordruimte bij de desbetre
 
 ####Toelichting gebruikte termen
 
-In de vragen staan vaak de woorden ‘de betrokkene’ of ‘de betrokkenen’. Dit zijn termen uit de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) (zie [artikel 1, eerste lid, onder e](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md)). Het gaat dan om de vergunninghouder(s) of -aanvrager(s). Dit kunnen ook rechtspersonen zijn. Verder wordt herhaaldelijk van ‘u’ of ‘uw’ gesproken. Daarmee bedoelen we de hierboven beschreven betrokkene. Achter dit vragenformulier is een hoofdstuk ‘Toelichting’ opgenomen. Daarin leggen we de betekenis van enkele andere termen uit. Lees deze toelichting goed door. 
+In de vragen staan vaak de woorden ‘de betrokkene’ of ‘de betrokkenen’. Dit zijn termen uit de Wet Bibob (zie artikel 1, eerste lid, onder e). Het gaat dan om de vergunninghouder(s) of -aanvrager(s). Dit kunnen ook rechtspersonen zijn. Verder wordt herhaaldelijk van ‘u’ of ‘uw’ gesproken. Daarmee bedoelen we de hierboven beschreven betrokkene. Achter dit vragenformulier is een hoofdstuk ‘Toelichting’ opgenomen. Daarin leggen we de betekenis van enkele andere termen uit. Lees deze toelichting goed door. 
 
 ### 1  
 
@@ -1414,7 +1414,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 | --- |
 |:---|
-| Als u ‘ja’ heeft geantwoord, bent u de betrokkene zoals bedoeld in de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).  |
+| Als u ‘ja’ heeft geantwoord, bent u de betrokkene zoals bedoeld in de Wet Bibob.  |
 | --- |
 | U moet de volgende vragen beantwoorden:  |
 | • de vragen 2A tot en met 2L onder ‘2. Eenmanszaak – privé persoon’; en  |
@@ -1485,7 +1485,7 @@ Lever met betrekking tot deze vof, cv of maatschap het volgende in:
 
 | --- |
 |:---|
-| De vennoten zijn de betrokkenen zoals bedoeld in de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).  |
+| De vennoten zijn de betrokkenen zoals bedoeld in de Wet Bibob.  |
 | --- |
 | U moet de volgende vragen beantwoorden:  |
 | • per vennoot een exemplaar van de vragen 3A tot en met 3N onder ‘3. Vennoot – natuurlijk persoon’; en  |
@@ -1586,7 +1586,7 @@ Lever met betrekking tot de eerst genoemde vennootschap/maatschap het volgende i
 
 | --- |
 |:---|
-| De vennoten zijn de betrokkenen zoals bedoeld in de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). Voor zover dit natuurlijke personen zijn, zijn zij ook uiteindelijke zeggenschaphebbenden en uiteindelijk leidinggevenden. De andere uiteindelijk zeggenschaphebbenden en uiteindelijk leidinggevenden heeft u aangegeven.  |
+| De vennoten zijn de betrokkenen zoals bedoeld in de Wet Bibob. Voor zover dit natuurlijke personen zijn, zijn zij ook uiteindelijke zeggenschaphebbenden en uiteindelijk leidinggevenden. De andere uiteindelijk zeggenschaphebbenden en uiteindelijk leidinggevenden heeft u aangegeven.  |
 | --- |
 | U moet de volgende vragen beantwoorden:  |
 | • vraag 1G;  |
@@ -1714,7 +1714,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 | --- |
 |:---|
-| De eerst genoemde partij is de betrokkene zoals bedoeld in de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). De natuurlijke personen die aandeelhouder zijn, zijn uiteindelijke zeggenschaphebbenden. De natuurlijke personen die bestuurder zijn, zijn uiteindelijk leidinggevenden. Eventuele andere uiteindelijk zeggenschaphebbenden en uiteindelijk leidinggevenden heeft u aangegeven.  |
+| De eerst genoemde partij is de betrokkene zoals bedoeld in de Wet Bibob. De natuurlijke personen die aandeelhouder zijn, zijn uiteindelijke zeggenschaphebbenden. De natuurlijke personen die bestuurder zijn, zijn uiteindelijk leidinggevenden. Eventuele andere uiteindelijk zeggenschaphebbenden en uiteindelijk leidinggevenden heeft u aangegeven.  |
 | --- |
 | U moet de volgende vragen beantwoorden:  |
 | • vraag 1G;  |
@@ -1886,7 +1886,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 * (kopieën van) de desbetreffende besluiten.   
 ### * *2L: Is aan u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
-Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
+Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van artikel 13b van de Opiumwet begrepen. 
 
 □ Nee.  
 
@@ -2038,7 +2038,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 * (kopieën van) de desbetreffende besluiten.   
 ### * *3M: Is aan deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
-Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
+Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van artikel 13b van de Opiumwet begrepen. 
 
 □ Nee.  
 
@@ -2201,7 +2201,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 * (kopieën van) de desbetreffende besluiten.   
 ### * *4M: Is aan (a) deze uiteindelijk zeggenschaphebbende, (b) de betrokkene en/of (c) de rechtspersonen en ondernemingen die bij de vragen 4B en 4C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
-Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
+Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van artikel 13b van de Opiumwet begrepen. 
 
 □ Nee.  
 
@@ -2274,7 +2274,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 * (kopieën van) de desbetreffende besluiten.   
 ### * *5G: Is aan deze uiteindelijk leidinggevende en/of van de rechtspersonen en ondernemingen die bij de vragen 5B en 5C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
-Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) verstaan. 
+Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van artikel 13b van de Opiumwet verstaan. 
 
 □ Nee.  
 
@@ -2428,7 +2428,7 @@ In de voorgaande vragen gebruiken wij enkele specifieke termen. Hieronder volgt 
 
 ####Betrokkene
 
-In [artikel 1, eerste lid, onder e, van de wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) wordt bepaald dat de volgende (rechts)personen ‘betrokkene’ in de zin van deze wet zijn: 
+In artikel 1, eerste lid, onder e, van de wet Bibob wordt bepaald dat de volgende (rechts)personen ‘betrokkene’ in de zin van deze wet zijn: 
 
 * aanvragers van een beschikking, bijvoorbeeld van een vergunning of subsidie;  
 
@@ -2486,7 +2486,7 @@ Als van ‘u’ of ‘uw’ wordt gesproken, bedoelen wij de hierboven beschreve
 
 ####Uiteindelijk begunstigde
 
-Voor een beoordeling op grond van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) is het van belang om te weten bij wie de opbrengsten van een onderneming of andere uitkeringen uiteindelijk terecht komen. Doorgaans zijn de natuurlijke personen die uiteindelijk de zeggenschap hebben ook de begunstigden. Het gaat dan bijvoorbeeld over de eigenaren van een eenmanszaak, de vennoten van een vof of de (indirecte) aandeelhouders van een besloten vennootschap. Zij hebben uiteindelijk recht op de winst van de desbetreffende onderneming. In sommige gevallen zijn andere natuurlijke personen dan degenen met (indirecte) zeggenschap de uiteindelijk begunstigde. Het gaat dan onder andere over (afhankelijk van de van kracht zijnde bepalingen): 
+Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten bij wie de opbrengsten van een onderneming of andere uitkeringen uiteindelijk terecht komen. Doorgaans zijn de natuurlijke personen die uiteindelijk de zeggenschap hebben ook de begunstigden. Het gaat dan bijvoorbeeld over de eigenaren van een eenmanszaak, de vennoten van een vof of de (indirecte) aandeelhouders van een besloten vennootschap. Zij hebben uiteindelijk recht op de winst van de desbetreffende onderneming. In sommige gevallen zijn andere natuurlijke personen dan degenen met (indirecte) zeggenschap de uiteindelijk begunstigde. Het gaat dan onder andere over (afhankelijk van de van kracht zijnde bepalingen): 
 
 * natuurlijke personen die direct of indirect certificaathouder zijn.  
 
@@ -2498,7 +2498,7 @@ Voor een beoordeling op grond van de [Wet Bibob](../../../../wet/wet/bevordering
 
 ####Uiteindelijk leidinggevende
 
-De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) spreekt van leiding geven en indirect leiding geven. Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten wie uiteindelijk de leiding hebben (gehad). Als sprake is van een keten van leidinggevende (rechts)personen, gaat het over de natuurlijke persoon/personen die aan het einde van die keten staat/staan. Gezien de variatie in eigendoms- en zeggenschapsstructuren is het niet mogelijk om hier een uitputtende opsomming te geven van alle mogelijke uiteindelijk leidinggevenden. Hieronder volgen voorbeelden met betrekking tot de meest voorkomende gevallen: 
+De Wet Bibob spreekt van leiding geven en indirect leiding geven. Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten wie uiteindelijk de leiding hebben (gehad). Als sprake is van een keten van leidinggevende (rechts)personen, gaat het over de natuurlijke persoon/personen die aan het einde van die keten staat/staan. Gezien de variatie in eigendoms- en zeggenschapsstructuren is het niet mogelijk om hier een uitputtende opsomming te geven van alle mogelijke uiteindelijk leidinggevenden. Hieronder volgen voorbeelden met betrekking tot de meest voorkomende gevallen: 
 
 * Bij een eenmanszaak is de uiteindelijk leidinggevende de natuurlijke persoon die eigenaar is van deze eenmanszaak en voor wiens rekening deze wordt gedreven.  
 
@@ -2518,7 +2518,7 @@ De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/he
 
 ####Uiteindelijk zeggenschaphebbende
 
-De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) spreekt van zeggenschap hebben en indirect zeggenschap hebben. Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten wie uiteindelijk de zeggenschap hebben (gehad). Als sprake is van een keten van zeggenschap hebbende (rechts)personen, gaat het over de natuurlijke persoon/personen die aan het einde van die keten staat/staan. Gezien de variatie in eigendoms- en zeggenschapsstructuren is het niet mogelijk om hier een uitputtende opsomming te geven van alle mogelijke uiteindelijk zeggenschaphebbenden. Hieronder volgen voorbeelden met betrekking tot de meest voorkomende gevallen: 
+De Wet Bibob spreekt van zeggenschap hebben en indirect zeggenschap hebben. Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten wie uiteindelijk de zeggenschap hebben (gehad). Als sprake is van een keten van zeggenschap hebbende (rechts)personen, gaat het over de natuurlijke persoon/personen die aan het einde van die keten staat/staan. Gezien de variatie in eigendoms- en zeggenschapsstructuren is het niet mogelijk om hier een uitputtende opsomming te geven van alle mogelijke uiteindelijk zeggenschaphebbenden. Hieronder volgen voorbeelden met betrekking tot de meest voorkomende gevallen: 
 
 * Bij een eenmanszaak is de uiteindelijk zeggenschaphebbende de natuurlijke persoon die eigenaar is van deze eenmanszaak en voor wiens rekening deze wordt gedreven.  
 
@@ -2544,9 +2544,9 @@ De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/he
 
 ### Bijlage  3  
 
-####Bibob-vragenformulier met betrekking tot beschikkingen, niet-zijnde subsidiebeschikkingen of vergunningen ex [artikel 2.1, eerste lid, onder a, van de Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md)
+####Bibob-vragenformulier met betrekking tot beschikkingen, niet-zijnde subsidiebeschikkingen of vergunningen ex artikel 2.1, eerste lid, onder a, van de Wabo
 
-Vastgesteld op grond van [artikel 30 van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) 
+Vastgesteld op grond van artikel 30 van de Wet Bibob 
 
 ####Inhoudsopgave
 
@@ -2590,11 +2590,11 @@ Vastgesteld op grond van [artikel 30 van de Wet Bibob](../../../../wet/wet/bevor
 
 ####Instructie
 
-Dit vragenformulier is op grond van [artikel 30 van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) vastgesteld door de Minister van Veiligheid en Justitie. Op basis van dit formulier kunnen bestuursorganen een beoordeling op grond van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) uit (laten) voeren. 
+Dit vragenformulier is op grond van artikel 30 van de Wet Bibob vastgesteld door de Minister van Veiligheid en Justitie. Op basis van dit formulier kunnen bestuursorganen een beoordeling op grond van de Wet Bibob uit (laten) voeren. 
 
 ####Vergunningen, ontheffingen, erkenningen en toekenningen
 
-Dit Bibob-vragenformulier gaat over (aanvragen van) beschikkingen – vergunningen, ontheffingen, erkenningen en toekenningen – die onder de werking van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) vallen, met uitzondering van subsidiebeschikkingen en omgevingsvergunningen bouw ex [artikel 2.1, eerste lid, onder a, van de Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md). Hieronder gebruiken wij het woord ‘vergunning’, ook als sprake is van een andere beschikking. 
+Dit Bibob-vragenformulier gaat over (aanvragen van) beschikkingen – vergunningen, ontheffingen, erkenningen en toekenningen – die onder de werking van de Wet Bibob vallen, met uitzondering van subsidiebeschikkingen en omgevingsvergunningen bouw ex artikel 2.1, eerste lid, onder a, van de Wabo. Hieronder gebruiken wij het woord ‘vergunning’, ook als sprake is van een andere beschikking. 
 
 ####Consequenties gebrekkig invullen
 
@@ -2602,7 +2602,7 @@ Dit Bibob-vragenformulier moet u volledig, correct en waarheidsgetrouw invullen 
 
 * Een vergunningaanvraag kan buiten behandeling worden gelaten.  
 
-* Een verleende vergunning kan worden ingetrokken.   Bovendien is het opzettelijk verschaffen van onjuiste informatie (valsheid in geschrifte) strafbaar in de zin van [artikel 225 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Dit kan ook tot weigering en/of intrekking van de vergunning leiden. 
+* Een verleende vergunning kan worden ingetrokken.   Bovendien is het opzettelijk verschaffen van onjuiste informatie (valsheid in geschrifte) strafbaar in de zin van artikel 225 van het Wetboek van Strafrecht. Dit kan ook tot weigering en/of intrekking van de vergunning leiden. 
 
 ####Verwijzen
 
@@ -2624,7 +2624,7 @@ Het kan voorkomen dat uw antwoord niet past in de antwoordruimte bij de desbetre
 
 ####Toelichting gebruikte termen
 
-In de vragen staan vaak de woorden ‘de betrokkene’ of ‘de betrokkenen’. Dit zijn termen uit de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) (zie [artikel 1, eerste lid, onder e](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md)). Het gaat dan om de vergunninghouder(s) of -aanvrager(s). Dit kunnen ook rechtspersonen zijn. Verder wordt herhaaldelijk van ‘u’ of ‘uw’ gesproken. Daarmee bedoelen we de hierboven beschreven betrokkene. Achter dit vragenformulier is een hoofdstuk ‘Toelichting’ opgenomen. Daarin leggen we de betekenis van enkele andere termen uit. Lees deze toelichting goed door. 
+In de vragen staan vaak de woorden ‘de betrokkene’ of ‘de betrokkenen’. Dit zijn termen uit de Wet Bibob (zie artikel 1, eerste lid, onder e). Het gaat dan om de vergunninghouder(s) of -aanvrager(s). Dit kunnen ook rechtspersonen zijn. Verder wordt herhaaldelijk van ‘u’ of ‘uw’ gesproken. Daarmee bedoelen we de hierboven beschreven betrokkene. Achter dit vragenformulier is een hoofdstuk ‘Toelichting’ opgenomen. Daarin leggen we de betekenis van enkele andere termen uit. Lees deze toelichting goed door. 
 
 ### 1  
 
@@ -2664,7 +2664,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 | --- |
 |:---|
-| Als u ‘ja’ heeft geantwoord, bent u de betrokkene zoals bedoeld in de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).  |
+| Als u ‘ja’ heeft geantwoord, bent u de betrokkene zoals bedoeld in de Wet Bibob.  |
 | --- |
 | U moet de volgende vragen beantwoorden:  • de vragen 2A tot en met 2M onder ‘2. Eenmanszaak – privé persoon’; en  • de vragen 6A tot en met 6K onder ‘6. Specifieke vragen overige vergunningen’.  |
 | --- |
@@ -2729,7 +2729,7 @@ Lever met betrekking tot deze vof, cv of maatschap het volgende in:
 
 | --- |
 |:---|
-| De vennoten zijn de betrokkenen zoals bedoeld in de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).  |
+| De vennoten zijn de betrokkenen zoals bedoeld in de Wet Bibob.  |
 | --- |
 | U moet de volgende vragen beantwoorden:  • per vennoot een exemplaar van de vragen 3A tot en met 3N onder ‘3. Vennoot –natuurlijk persoon’; en  • de vragen 6A tot en met 6K onder ‘6. Specifieke vragen overige vergunningen’.  |
 | --- |
@@ -2824,7 +2824,7 @@ Lever met betrekking tot de eerst genoemde vennootschap/maatschap het volgende i
 
 | --- |
 |:---|
-| De vennoten zijn de betrokkenen zoals bedoeld in de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). Voor zover dit natuurlijke personen zijn, zijn zij ook uiteindelijke zeggenschaphebbenden en uiteindelijk leidinggevenden. De andere uiteindelijk zeggenschaphebbenden en uiteindelijk leidinggevenden heeft u aangegeven.  |
+| De vennoten zijn de betrokkenen zoals bedoeld in de Wet Bibob. Voor zover dit natuurlijke personen zijn, zijn zij ook uiteindelijke zeggenschaphebbenden en uiteindelijk leidinggevenden. De andere uiteindelijk zeggenschaphebbenden en uiteindelijk leidinggevenden heeft u aangegeven.  |
 | --- |
 | U moet de volgende vragen beantwoorden:  • vraag 1G;  • per vennoot die een natuurlijk persoon is, een exemplaar van de vragen 3A tot en met 3N onder ‘3. Vennoot – natuurlijk persoon’; en  • per andere uiteindelijk zeggenschaphebbende een exemplaar van de vragen 4A tot en met 4N onder ‘4. Uiteindelijk zeggenschaphebbende’;  • per andere uiteindelijk leidinggevende een exemplaar van de vragen 5A tot en met 5G onder ‘5. Uiteindelijk leidinggevende’; en  • de vragen 6A tot en met 6K onder ‘6. Specifieke vragen overige vergunningen’.  |
 | --- |
@@ -2945,7 +2945,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 | --- |
 |:---|
-| De eerst genoemde partij is de betrokkene zoals bedoeld in de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). De natuurlijke personen die aandeelhouder zijn, zijn uiteindelijke zeggenschaphebbenden. De natuurlijke personen die bestuurder zijn, zijn uiteindelijk leidinggevenden. Eventuele andere uiteindelijk zeggenschaphebbenden en uiteindelijk leidinggevenden heeft u aangegeven.  |
+| De eerst genoemde partij is de betrokkene zoals bedoeld in de Wet Bibob. De natuurlijke personen die aandeelhouder zijn, zijn uiteindelijke zeggenschaphebbenden. De natuurlijke personen die bestuurder zijn, zijn uiteindelijk leidinggevenden. Eventuele andere uiteindelijk zeggenschaphebbenden en uiteindelijk leidinggevenden heeft u aangegeven.  |
 | --- |
 | U moet de volgende vragen beantwoorden:  • vraag 1G;  • per uiteindelijk zeggenschaphebbende een exemplaar van de vragen 4A tot en met 4N onder ‘4. Uiteindelijk zeggenschaphebbende’;  • per andere uiteindelijk leidinggevende een exemplaar van de vragen 5A tot en met 5G onder ‘5. Uiteindelijk leidinggevende’; en  • de vragen 6A tot en met 6K onder ‘6. Specifieke vragen overige vergunningen’.  |
 | --- |
@@ -3116,7 +3116,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 * (kopieën van) de desbetreffende besluiten.   
 ### * *2L: Is aan u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
-Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
+Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van artikel 13b van de Opiumwet begrepen. 
 
 □ Nee.  
 
@@ -3276,7 +3276,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 * (kopieën van) de desbetreffende besluiten.   
 ### * *3M: Is aan deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
-Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
+Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van artikel 13b van de Opiumwet begrepen. 
 
 □ Nee.  
 
@@ -3447,7 +3447,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 * (kopieën van) de desbetreffende besluiten.   
 ### * *4M: Is aan (a) deze uiteindelijk zeggenschaphebbende, (b) de betrokkene en/of (c) de rechtspersonen en ondernemingen die bij de vragen 4B en 4C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
-Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
+Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van artikel 13b van de Opiumwet begrepen. 
 
 □ Nee.  
 
@@ -3530,7 +3530,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 * (kopieën van) de desbetreffende besluiten.   
 ### * *5G: Is aan deze uiteindelijk leidinggevende en/of van de rechtspersonen en ondernemingen die bij de vragen 5B en 5C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
-Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) verstaan. 
+Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van artikel 13b van de Opiumwet verstaan. 
 
 □ Nee.  
 
@@ -3703,7 +3703,7 @@ In de voorgaande vragen worden enkele specifieke termen gebruikt. Hieronder staa
 
 ####Betrokkene
 
-In [artikel 1, eerste lid, onder e, van de wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) staat dat de volgende (rechts)personen ‘betrokkene’ in de zin van deze wet zijn: 
+In artikel 1, eerste lid, onder e, van de wet Bibob staat dat de volgende (rechts)personen ‘betrokkene’ in de zin van deze wet zijn: 
 
 * aanvragers van een beschikking, bijvoorbeeld van een vergunning of subsidie;  
 
@@ -3761,7 +3761,7 @@ Als er ‘u’ of ‘uw’ staat, bedoelen we de hierboven beschreven betrokkene
 
 ####Uiteindelijk begunstigde
 
-Voor een beoordeling op grond van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) is het van belang om te weten bij wie de opbrengsten van een onderneming of andere uitkeringen uiteindelijk terecht komen. Doorgaans zijn de natuurlijke personen die uiteindelijk de zeggenschap hebben ook de begunstigden, zoals de eigenaren van een eenmanszaak, de vennoten van een vof of de (indirecte) aandeelhouders van een besloten vennootschap. Zij hebben uiteindelijk recht op de winst van de desbetreffende onderneming. In sommige gevallen zijn andere natuurlijke personen dan degenen met (indirecte) zeggenschap uiteindelijk begunstigde. Afhankelijk van de van kracht zijnde bepalingen, gaat het dan bijvoorbeeld over: 
+Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten bij wie de opbrengsten van een onderneming of andere uitkeringen uiteindelijk terecht komen. Doorgaans zijn de natuurlijke personen die uiteindelijk de zeggenschap hebben ook de begunstigden, zoals de eigenaren van een eenmanszaak, de vennoten van een vof of de (indirecte) aandeelhouders van een besloten vennootschap. Zij hebben uiteindelijk recht op de winst van de desbetreffende onderneming. In sommige gevallen zijn andere natuurlijke personen dan degenen met (indirecte) zeggenschap uiteindelijk begunstigde. Afhankelijk van de van kracht zijnde bepalingen, gaat het dan bijvoorbeeld over: 
 
 * natuurlijke personen die direct of indirect certificaathouder zijn.  
 
@@ -3773,7 +3773,7 @@ Voor een beoordeling op grond van de [Wet Bibob](../../../../wet/wet/bevordering
 
 ####Uiteindelijk leidinggevende
 
-De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) spreekt van leiding geven en indirect leiding geven. Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten wie uiteindelijk de leiding hebben (gehad). Als sprake is van een keten van leidinggevende (rechts)personen, gaat het om de natuurlijke persoon/personen die aan het einde van die keten staat/staan. Gezien de variatie in eigendoms- en zeggenschapsstructuren is het niet mogelijk om hier een uitputtende opsomming te geven van alle mogelijke uiteindelijk leidinggevenden. Hieronder volgen voorbeelden met betrekking tot de meest voorkomende gevallen: 
+De Wet Bibob spreekt van leiding geven en indirect leiding geven. Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten wie uiteindelijk de leiding hebben (gehad). Als sprake is van een keten van leidinggevende (rechts)personen, gaat het om de natuurlijke persoon/personen die aan het einde van die keten staat/staan. Gezien de variatie in eigendoms- en zeggenschapsstructuren is het niet mogelijk om hier een uitputtende opsomming te geven van alle mogelijke uiteindelijk leidinggevenden. Hieronder volgen voorbeelden met betrekking tot de meest voorkomende gevallen: 
 
 * Bij een eenmanszaak is de uiteindelijk leidinggevende de natuurlijke persoon die eigenaar is van deze eenmanszaak en voor wiens rekening deze wordt gedreven.  
 
@@ -3793,7 +3793,7 @@ De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/he
 
 ####Uiteindelijk zeggenschaphebbende
 
-De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) spreekt van zeggenschap hebben en indirect zeggenschap hebben. Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten wie uiteindelijk de zeggenschap hebben (gehad). Als sprake is van een keten van zeggenschaphebbende (rechts)personen, gaat het om de natuurlijke persoon/personen die aan het einde van die keten staat/staan. Gezien de variatie in eigendoms- en zeggenschapsstructuren is het niet mogelijk om hier een uitputtende opsomming te geven van alle mogelijke uiteindelijk zeggenschaphebbenden. Hieronder volgen voorbeelden met betrekking tot de meest voorkomende gevallen: 
+De Wet Bibob spreekt van zeggenschap hebben en indirect zeggenschap hebben. Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten wie uiteindelijk de zeggenschap hebben (gehad). Als sprake is van een keten van zeggenschaphebbende (rechts)personen, gaat het om de natuurlijke persoon/personen die aan het einde van die keten staat/staan. Gezien de variatie in eigendoms- en zeggenschapsstructuren is het niet mogelijk om hier een uitputtende opsomming te geven van alle mogelijke uiteindelijk zeggenschaphebbenden. Hieronder volgen voorbeelden met betrekking tot de meest voorkomende gevallen: 
 
 * Bij een eenmanszaak is de uiteindelijk zeggenschaphebbende de natuurlijke persoon die eigenaar is van deze eenmanszaak en voor wiens rekening deze wordt gedreven.  
 
@@ -3819,9 +3819,9 @@ De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/he
 
 ### Bijlage  4  
 
-####Bibob-vragenformulier met betrekking tot overheidsopdrachten, zoals bedoeld in [artikel 1, eerste lid, onder i, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md)
+####Bibob-vragenformulier met betrekking tot overheidsopdrachten, zoals bedoeld in artikel 1, eerste lid, onder i, van de Wet Bibob
 
-Vastgesteld op grond van [artikel 30 van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) 
+Vastgesteld op grond van artikel 30 van de Wet Bibob 
 
 ####Inhoudsopgave
 
@@ -3862,11 +3862,11 @@ Vastgesteld op grond van [artikel 30 van de Wet Bibob](../../../../wet/wet/bevor
 
 ####Instructie
 
-Dit vragenformulier is op grond van [artikel 30 van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) vastgesteld door de Minister van Veiligheid en Justitie. Op basis van dit formulier kunnen rechtspersonen met een overheidstaak een beoordeling op grond van de Wet Bibob (laten) uitvoeren. Dit Bibob-vragenformulier gaat over overheidsopdrachten zoals bedoeld in [artikel 1, eerste lid, onder i, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). 
+Dit vragenformulier is op grond van artikel 30 van de Wet Bibob vastgesteld door de Minister van Veiligheid en Justitie. Op basis van dit formulier kunnen rechtspersonen met een overheidstaak een beoordeling op grond van de Wet Bibob (laten) uitvoeren. Dit Bibob-vragenformulier gaat over overheidsopdrachten zoals bedoeld in artikel 1, eerste lid, onder i, van de Wet Bibob. 
 
 ####Voor wie is dit formulier bedoeld?
 
-Dit vragenformulier is bedoeld voor betrokkenen zoals die in [artikel 1, eerste lid, onder e, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden genoemd. Het gaat dan over: 
+Dit vragenformulier is bedoeld voor betrokkenen zoals die in artikel 1, eerste lid, onder e, van de Wet Bibob worden genoemd. Het gaat dan over: 
 
 * gegadigden voor overheidsopdrachten;  
 
@@ -3882,7 +3882,7 @@ Dit vragenformulier is bedoeld voor betrokkenen zoals die in [artikel 1, eerste 
 
 ####Relatie met eigen verklaring
 
-Belangrijk: indien de betrokkene, aan wie de vragenlijst wordt uitgereikt, een gegadigde of onderaannemer voor overheidsopdrachten is, zijn een aantal vragen in dit formulier al reeds beantwoord in de eigen verklaring. Ingevolge [artikel 2.85, tweede lid van de Aanbestedingswet 2012](../../../../wet/aanbestedingswet/2012/BWBR0032203/README.md) is het dan niet toegestaan dat de aanbestedende dienst deze vragen nogmaals in het kader van de [wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) stelt. Vragen die ook (deels) kunnen worden gesteld in de eigen verklaring zijn 2I, 2J, 2L, 3J, 3K, 3M, 4J, 4K, 4M, 5D, 5E en de vragen in hoofdstuk 6. Deze vragen dienen derhalve uit de vragenlijst te worden verwijderd. Indien de vragenlijst, na gunning van de opdracht, dient voor een onderzoek met het oog op een beslissing ter zake van de ontbinding van een overeenkomst inzake een overheidsopdracht kunnen alle vragen uit het vragenformulier worden gesteld. 
+Belangrijk: indien de betrokkene, aan wie de vragenlijst wordt uitgereikt, een gegadigde of onderaannemer voor overheidsopdrachten is, zijn een aantal vragen in dit formulier al reeds beantwoord in de eigen verklaring. Ingevolge artikel 2.85, tweede lid van de Aanbestedingswet 2012 is het dan niet toegestaan dat de aanbestedende dienst deze vragen nogmaals in het kader van de wet Bibob stelt. Vragen die ook (deels) kunnen worden gesteld in de eigen verklaring zijn 2I, 2J, 2L, 3J, 3K, 3M, 4J, 4K, 4M, 5D, 5E en de vragen in hoofdstuk 6. Deze vragen dienen derhalve uit de vragenlijst te worden verwijderd. Indien de vragenlijst, na gunning van de opdracht, dient voor een onderzoek met het oog op een beslissing ter zake van de ontbinding van een overeenkomst inzake een overheidsopdracht kunnen alle vragen uit het vragenformulier worden gesteld. 
 
 ####Verwijzen
 
@@ -3904,7 +3904,7 @@ Het kan voorkomen dat uw antwoord niet past in de antwoordruimte bij de desbetre
 
 ####Toelichting gebruikte termen
 
-In de vragen spreken wij herhaaldelijk over ‘de betrokkene’ of ‘de betrokkenen’. Dat zijn termen uit de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). Hiermee doelen wij op gegadigden, (rechts)personen aan wie een overheidsopdracht is of zal worden gegund en onderaannemers. Als de gegadigde, de (rechts)persoon aan wie een overheidsopdracht is of zal worden gegund, of de onderaannemer een vof, cv of maatschap is, zijn alle vennoten betrokkenen. Verder spreken wij herhaaldelijk van ‘u’ of ‘uw’. Hiermee bedoelen wij ook de betrokkenen. Achterin dit vragenformulier leggen wij onder ‘Toelichting’ de betekenis van enkele andere termen uit. Lees dit hoofdstuk goed door. 
+In de vragen spreken wij herhaaldelijk over ‘de betrokkene’ of ‘de betrokkenen’. Dat zijn termen uit de Wet Bibob. Hiermee doelen wij op gegadigden, (rechts)personen aan wie een overheidsopdracht is of zal worden gegund en onderaannemers. Als de gegadigde, de (rechts)persoon aan wie een overheidsopdracht is of zal worden gegund, of de onderaannemer een vof, cv of maatschap is, zijn alle vennoten betrokkenen. Verder spreken wij herhaaldelijk van ‘u’ of ‘uw’. Hiermee bedoelen wij ook de betrokkenen. Achterin dit vragenformulier leggen wij onder ‘Toelichting’ de betekenis van enkele andere termen uit. Lees dit hoofdstuk goed door. 
 
 ### 1  
 
@@ -4017,7 +4017,7 @@ Lever met betrekking tot deze vof, cv of maatschap het volgende in:
 
 | --- |
 |:---|
-| De vennoten zijn de betrokkenen zoals bedoeld in de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).  |
+| De vennoten zijn de betrokkenen zoals bedoeld in de Wet Bibob.  |
 | --- |
 | U moet de volgende vragen beantwoorden:  |
 | • per vennoot een exemplaar van de vragen 3A tot en met 3M onder ‘3. Vennoot – natuurlijk persoon’; en  |
@@ -4118,7 +4118,7 @@ Lever met betrekking tot de eerst genoemde vennootschap/maatschap het volgende i
 
 | --- |
 |:---|
-| De vennoten zijn de betrokkenen zoals bedoeld in de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). Voor zover dit natuurlijke personen zijn, zijn zij ook uiteindelijke zeggenschaphebbenden en uiteindelijk leidinggevenden. De andere uiteindelijk zeggenschaphebbenden en uiteindelijk leidinggevenden heeft u aangegeven.  |
+| De vennoten zijn de betrokkenen zoals bedoeld in de Wet Bibob. Voor zover dit natuurlijke personen zijn, zijn zij ook uiteindelijke zeggenschaphebbenden en uiteindelijk leidinggevenden. De andere uiteindelijk zeggenschaphebbenden en uiteindelijk leidinggevenden heeft u aangegeven.  |
 | --- |
 | U moet de volgende vragen beantwoorden:  |
 | • vraag 1G;  |
@@ -4423,7 +4423,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 * (kopieën van) de desbetreffende besluiten.   
 ### * *2L: Is aan u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
-Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
+Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van artikel 13b van de Opiumwet begrepen. 
 
 □ Nee.  
 
@@ -4575,7 +4575,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 * (kopieën van) de desbetreffende besluiten.   
 ### * *3M: Is aan deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
-Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
+Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van artikel 13b van de Opiumwet begrepen. 
 
 □ Nee.  
 
@@ -4738,7 +4738,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 * (kopieën van) de desbetreffende besluiten.   
 ### * *4M: Is aan (a) deze uiteindelijk zeggenschaphebbende, (b) de betrokkene en/of (c) de rechtspersonen en ondernemingen die bij de vragen 4B en 4C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
-Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
+Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van artikel 13b van de Opiumwet begrepen. 
 
 □ Nee.  
 
@@ -4811,7 +4811,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 * (kopieën van) de desbetreffende besluiten.   
 ### * *5G: Is aan deze uiteindelijk leidinggevende en/of van de rechtspersonen en ondernemingen die bij de vragen 5B en 5C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
-Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) verstaan. 
+Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van artikel 13b van de Opiumwet verstaan. 
 
 □ Nee.  
 
@@ -4933,7 +4933,7 @@ In de voorgaande vragen hebben wij enkele specifieke termen gebruikt. Hieronder 
 
 ####Betrokkene
 
-In [artikel 1, eerste lid, onder e, van de wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) wordt bepaald dat de volgende (rechts)personen ‘betrokkene’ in de zin van deze wet zijn: 
+In artikel 1, eerste lid, onder e, van de wet Bibob wordt bepaald dat de volgende (rechts)personen ‘betrokkene’ in de zin van deze wet zijn: 
 
 * aanvragers van een beschikking, bijvoorbeeld van een vergunning of subsidie;  
 
@@ -4987,7 +4987,7 @@ Als gesproken wordt van ‘de onderhavige onderneming’ betreft dit in principe
 
 ####Rechtspersoon met een overheidstaak
 
-In [artikel 1, eerste lid, onder a van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden de volgende ‘rechtspersonen met een overheidstaak’ genoemd: 
+In artikel 1, eerste lid, onder a van de Wet Bibob worden de volgende ‘rechtspersonen met een overheidstaak’ genoemd: 
 
 * de Staat;  
 
@@ -4997,13 +4997,13 @@ In [artikel 1, eerste lid, onder a van de Wet Bibob](../../../../wet/wet/bevorde
 
 * waterschappen;  
 
-* openbare lichamen als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md);  
+* openbare lichamen als bedoeld in artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen;  
 
 * politieregio’s;  
 
 * openbare lichamen voor beroep en bedrijf;  
 
-* openbare lichamen als bedoeld in [artikel 134 van de Grondwet](../../../../wet/grondwet/BWBR0001840/README.md); en  
+* openbare lichamen als bedoeld in artikel 134 van de Grondwet; en  
 
 * zelfstandige bestuursorganen die bij algemene maatregel van bestuur aangewezen zijn.   In het kader van een overheidsopdracht treden deze rechtspersonen op als aanbestedende dienst of de contractpartij waarmee – na een aanbesteding – een overeenkomst is gesloten. 
 
@@ -5013,7 +5013,7 @@ Als wij van ‘u’ of ‘uw’ spreken, bedoelen wij de hierboven beschreven be
 
 ####Uiteindelijk begunstigde
 
-Voor een beoordeling op grond van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) is het van belang om te weten bij wie de opbrengsten van een onderneming of andere uitkeringen uiteindelijk terecht komen. Doorgaans zijn de natuurlijke personen die uiteindelijk de zeggenschap hebben ook de begunstigden. Het gaat dan bijvoorbeeld over de eigenaren van een eenmanszaak, de vennoten van een vof of de (indirecte) aandeelhouders van een besloten vennootschap. Zij hebben uiteindelijk recht op de winst van de desbetreffende onderneming. In sommige gevallen zijn andere natuurlijke personen dan degenen met (indirecte) zeggenschap uiteindelijk begunstigde. Het gaat dan onder andere over (afhankelijk van de van kracht zijnde bepalingen): 
+Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten bij wie de opbrengsten van een onderneming of andere uitkeringen uiteindelijk terecht komen. Doorgaans zijn de natuurlijke personen die uiteindelijk de zeggenschap hebben ook de begunstigden. Het gaat dan bijvoorbeeld over de eigenaren van een eenmanszaak, de vennoten van een vof of de (indirecte) aandeelhouders van een besloten vennootschap. Zij hebben uiteindelijk recht op de winst van de desbetreffende onderneming. In sommige gevallen zijn andere natuurlijke personen dan degenen met (indirecte) zeggenschap uiteindelijk begunstigde. Het gaat dan onder andere over (afhankelijk van de van kracht zijnde bepalingen): 
 
 * natuurlijke personen die direct of indirect certificaathouder zijn.  
 
@@ -5025,7 +5025,7 @@ Voor een beoordeling op grond van de [Wet Bibob](../../../../wet/wet/bevordering
 
 ####Uiteindelijk leidinggevende
 
-De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) spreekt van leiding geven en indirect leiding geven. Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten wie uiteindelijk de leiding hebben (gehad). Als sprake is van een keten van leidinggevende (rechts)personen, gaat het over de natuurlijke persoon/personen die aan het einde van die keten staat/staan. Gezien de variatie in eigendoms- en zeggenschapsstructuren is het niet mogelijk om hier een uitputtende opsomming te geven van alle mogelijke uiteindelijk leidinggevenden. Hieronder volgen voorbeelden met betrekking tot de meest voorkomende gevallen: 
+De Wet Bibob spreekt van leiding geven en indirect leiding geven. Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten wie uiteindelijk de leiding hebben (gehad). Als sprake is van een keten van leidinggevende (rechts)personen, gaat het over de natuurlijke persoon/personen die aan het einde van die keten staat/staan. Gezien de variatie in eigendoms- en zeggenschapsstructuren is het niet mogelijk om hier een uitputtende opsomming te geven van alle mogelijke uiteindelijk leidinggevenden. Hieronder volgen voorbeelden met betrekking tot de meest voorkomende gevallen: 
 
 * Bij een eenmanszaak is de uiteindelijk leidinggevende de natuurlijke persoon die eigenaar is van deze eenmanszaak en voor wiens rekening deze wordt gedreven.  
 
@@ -5045,7 +5045,7 @@ De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/he
 
 ####Uiteindelijk zeggenschaphebbende
 
-De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) spreekt van zeggenschap hebben en indirect zeggenschap hebben. Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten wie uiteindelijk de zeggenschap hebben (gehad). Als sprake is van een keten van zeggenschap hebbende (rechts)personen, gaat het over de natuurlijke persoon/personen die aan het einde van die keten staat/staan. Gezien de variatie in eigendoms- en zeggenschapsstructuren is het niet mogelijk om hier een uitputtende opsomming te geven van alle mogelijke uiteindelijk zeggenschaphebbenden. Hieronder volgen voorbeelden met betrekking tot de meest voorkomende gevallen: 
+De Wet Bibob spreekt van zeggenschap hebben en indirect zeggenschap hebben. Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten wie uiteindelijk de zeggenschap hebben (gehad). Als sprake is van een keten van zeggenschap hebbende (rechts)personen, gaat het over de natuurlijke persoon/personen die aan het einde van die keten staat/staan. Gezien de variatie in eigendoms- en zeggenschapsstructuren is het niet mogelijk om hier een uitputtende opsomming te geven van alle mogelijke uiteindelijk zeggenschaphebbenden. Hieronder volgen voorbeelden met betrekking tot de meest voorkomende gevallen: 
 
 * Bij een eenmanszaak is de uiteindelijk zeggenschaphebbende de natuurlijke persoon die eigenaar is van deze eenmanszaak en voor wiens rekening deze wordt gedreven.  
 
@@ -5071,9 +5071,9 @@ De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/he
 
 ### Bijlage  5  
 
-####Bibob-vragenformulier met betrekking tot vastgoedtransacties, zoals bedoeld in [artikel 1, eerste lid, onder o, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md)
+####Bibob-vragenformulier met betrekking tot vastgoedtransacties, zoals bedoeld in artikel 1, eerste lid, onder o, van de Wet Bibob
 
-Vastgesteld op grond van [artikel 30 van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) 
+Vastgesteld op grond van artikel 30 van de Wet Bibob 
 
 ####Inhoudsopgave
 
@@ -5120,7 +5120,7 @@ Vastgesteld op grond van [artikel 30 van de Wet Bibob](../../../../wet/wet/bevor
 
 ####Instructie
 
-Dit vragenformulier is op grond van [artikel 30 van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) vastgesteld door de Minister van Veiligheid en Justitie. Op basis van dit formulier kunnen rechtspersonen met een overheidstaak een beoordeling op grond van de Wet Bibob (laten) uitvoeren. Dit Bibob-vragenformulier gaat over vastgoedtransacties zoals bedoeld in [artikel 1, eerste lid, onder o, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). 
+Dit vragenformulier is op grond van artikel 30 van de Wet Bibob vastgesteld door de Minister van Veiligheid en Justitie. Op basis van dit formulier kunnen rechtspersonen met een overheidstaak een beoordeling op grond van de Wet Bibob (laten) uitvoeren. Dit Bibob-vragenformulier gaat over vastgoedtransacties zoals bedoeld in artikel 1, eerste lid, onder o, van de Wet Bibob. 
 
 ####Consequenties gebrekkig invullen
 
@@ -5128,7 +5128,7 @@ Dit Bibob-vragenformulier moet u volledig, correct en waarheidsgetrouw invullen 
 
 * van het aangaan van een vastgoedtransactie kan worden afgezien; en  
 
-* reeds gesloten vastgoedtransacties kunnen worden ontbonden of opgeschort.   Bovendien is het opzettelijk verschaffen van onjuiste informatie (valsheid in geschrifte) strafbaar in de zin van [artikel 225 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Dit kan ook tot het afzien, ontbinden of opschorten van een vastgoedtransactie leiden. 
+* reeds gesloten vastgoedtransacties kunnen worden ontbonden of opgeschort.   Bovendien is het opzettelijk verschaffen van onjuiste informatie (valsheid in geschrifte) strafbaar in de zin van artikel 225 van het Wetboek van Strafrecht. Dit kan ook tot het afzien, ontbinden of opschorten van een vastgoedtransactie leiden. 
 
 ####Verwijzen
 
@@ -5150,7 +5150,7 @@ Het kan voorkomen dat uw antwoord niet past in de antwoordruimte bij de desbetre
 
 ####Toelichting gebruikte termen
 
-In de vragen spreken wij herhaaldelijk over ‘de betrokkene’ of ‘de betrokkenen’. Dit zijn termen uit de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) (zie [artikel 1, eerste lid, onder e](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md)). Hiermee wordt de (beoogde) contractpartij bedoeld, dus de (rechts)persoon met wie een vastgoedtransactie is of zal worden aangegaan. Dit kunnen ook rechtspersonen zijn. Verder wordt herhaaldelijk van ‘u’ of ‘uw’ gesproken. Hiermee bedoelen wij de hierboven beschreven betrokkene. Achterin dit vragenformulier leggen wij onder ‘Toelichting’ de betekenis van enkele andere termen uit. Lees dit hoofdstuk goed door. 
+In de vragen spreken wij herhaaldelijk over ‘de betrokkene’ of ‘de betrokkenen’. Dit zijn termen uit de Wet Bibob (zie artikel 1, eerste lid, onder e). Hiermee wordt de (beoogde) contractpartij bedoeld, dus de (rechts)persoon met wie een vastgoedtransactie is of zal worden aangegaan. Dit kunnen ook rechtspersonen zijn. Verder wordt herhaaldelijk van ‘u’ of ‘uw’ gesproken. Hiermee bedoelen wij de hierboven beschreven betrokkene. Achterin dit vragenformulier leggen wij onder ‘Toelichting’ de betekenis van enkele andere termen uit. Lees dit hoofdstuk goed door. 
 
 ### 1  
 
@@ -5190,7 +5190,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 | --- |
 |:---|
-| Als u ‘ja’ heeft geantwoord, bent u de betrokkene zoals bedoeld in de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).  |
+| Als u ‘ja’ heeft geantwoord, bent u de betrokkene zoals bedoeld in de Wet Bibob.  |
 | --- |
 | U moet de volgende vragen beantwoorden:  |
 | • de vragen 2A tot en met 2L onder ‘2. Eenmanszaak – privé persoon’; en  |
@@ -5261,7 +5261,7 @@ Lever met betrekking tot deze vof, cv of maatschap het volgende in:
 
 | --- |
 |:---|
-| De vennoten zijn de betrokkenen zoals bedoeld in de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).  |
+| De vennoten zijn de betrokkenen zoals bedoeld in de Wet Bibob.  |
 | --- |
 | U moet de volgende vragen beantwoorden:  |
 | • per vennoot een exemplaar van de vragen 3A tot en met 3M onder ‘3. Vennoot –  |
@@ -5364,7 +5364,7 @@ Lever met betrekking tot de eerst genoemde vennootschap/maatschap het volgende i
 
 | --- |
 |:---|
-| De vennoten zijn de betrokkenen zoals bedoeld in de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). Voor zover dit natuurlijke personen zijn, zijn zij ook uiteindelijke zeggenschaphebbenden en uiteindelijk leidinggevenden. De andere uiteindelijk zeggenschaphebbenden en uiteindelijk leidinggevenden heeft u aangegeven.  |
+| De vennoten zijn de betrokkenen zoals bedoeld in de Wet Bibob. Voor zover dit natuurlijke personen zijn, zijn zij ook uiteindelijke zeggenschaphebbenden en uiteindelijk leidinggevenden. De andere uiteindelijk zeggenschaphebbenden en uiteindelijk leidinggevenden heeft u aangegeven.  |
 | --- |
 | U moet de volgende vragen beantwoorden:  |
 | • vraag 1G;  |
@@ -5492,7 +5492,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 | --- |
 |:---|
-| De (beoogde) contractpartij (de eerst genoemde partij) is de betrokkene zoals bedoeld in de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). De natuurlijke personen die aandeelhouder zijn, zijn uiteindelijke zeggenschaphebbenden. De natuurlijke personen die bestuurder zijn, zijn uiteindelijk leidinggevenden. Eventuele andere uiteindelijk zeggenschaphebbenden en uiteindelijk leidinggevenden heeft u aangegeven.  |
+| De (beoogde) contractpartij (de eerst genoemde partij) is de betrokkene zoals bedoeld in de Wet Bibob. De natuurlijke personen die aandeelhouder zijn, zijn uiteindelijke zeggenschaphebbenden. De natuurlijke personen die bestuurder zijn, zijn uiteindelijk leidinggevenden. Eventuele andere uiteindelijk zeggenschaphebbenden en uiteindelijk leidinggevenden heeft u aangegeven.  |
 | --- |
 | U moet de volgende vragen beantwoorden:  |
 | • vraag 1G;  |
@@ -5669,7 +5669,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 * (kopieën van) de desbetreffende besluiten.   
 ### * *2L: Is aan u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
-Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
+Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van artikel 13b van de Opiumwet begrepen. 
 
 □ Nee.  
 
@@ -5821,7 +5821,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 * (kopieën van) de desbetreffende besluiten.   
 ### * *3M: Is aan deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
-Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
+Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van artikel 13b van de Opiumwet begrepen. 
 
 □ Nee.  
 
@@ -5983,7 +5983,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 * (kopieën van) de desbetreffende besluiten.   
 ### * *4M: Is aan (a) deze uiteindelijk zeggenschaphebbende, (b) de betrokkene en/of (c) de rechtspersonen en ondernemingen die bij de vragen 4B en 4C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
-Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
+Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van artikel 13b van de Opiumwet begrepen. 
 
 □ Nee.  
 
@@ -6056,7 +6056,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 * (kopieën van) de desbetreffende besluiten.   
 ### * *5G: Is aan deze uiteindelijk leidinggevende en/of van de rechtspersonen en ondernemingen die bij de vragen 5B en 5C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
-Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) verstaan. 
+Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van artikel 13b van de Opiumwet verstaan. 
 
 □ Nee.  
 
@@ -6581,7 +6581,7 @@ De (beoogde) contractpartij is de hieronder beschreven betrokkene.
 
 ####Betrokkene
 
-In [artikel 1, eerste lid, onder e, van de wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) wordt bepaald dat de volgende (rechts)personen ‘betrokkene’ in de zin van deze wet zijn: 
+In artikel 1, eerste lid, onder e, van de wet Bibob wordt bepaald dat de volgende (rechts)personen ‘betrokkene’ in de zin van deze wet zijn: 
 
 * aanvragers van een beschikking, bijvoorbeeld van een vergunning of subsidie;  
 
@@ -6635,7 +6635,7 @@ Als gesproken wordt van ‘de onderhavige onderneming’ gaat het over de ondern
 
 ####Rechtspersoon met een overheidstaak
 
-De term ‘rechtspersoon met een overheidstaak’ is afkomstig uit de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) (zie [artikel 1, eerste lid, onder a](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md)). Het gaat over: 
+De term ‘rechtspersoon met een overheidstaak’ is afkomstig uit de Wet Bibob (zie artikel 1, eerste lid, onder a). Het gaat over: 
 
 * de Staat;  
 
@@ -6645,13 +6645,13 @@ De term ‘rechtspersoon met een overheidstaak’ is afkomstig uit de [Wet Bibob
 
 * waterschappen;  
 
-* openbare lichamen als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md);  
+* openbare lichamen als bedoeld in artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen;  
 
 * politieregio’s;  
 
 * openbare lichamen voor beroep en bedrijf;  
 
-* openbare lichamen als bedoeld in [artikel 134 van de Grondwet](../../../../wet/grondwet/BWBR0001840/README.md); en  
+* openbare lichamen als bedoeld in artikel 134 van de Grondwet; en  
 
 * zelfstandige bestuursorganen die bij algemene maatregel van bestuur aangewezen zijn.   
 
@@ -6661,7 +6661,7 @@ Als van ‘u’ of ‘uw’ wordt gesproken, bedoelen wij de hierboven beschreve
 
 ####Uiteindelijk begunstigde
 
-Voor een beoordeling op grond van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) is het van belang om te weten bij wie de opbrengsten van een onderneming of andere uitkeringen uiteindelijk terecht komen. Doorgaans zijn de natuurlijke personen die uiteindelijk de zeggenschap hebben ook de begunstigden. Het gaat dan bijvoorbeeld over de eigenaren van een eenmanszaak, de vennoten van een vof of de (indirecte) aandeelhouders van een besloten vennootschap. Zij hebben uiteindelijk recht op de winst van de desbetreffende onderneming. In sommige gevallen zijn andere natuurlijke personen dan degenen met (indirecte) zeggenschap uiteindelijk begunstigde. Het gaat dan onder andere over (afhankelijk van de van kracht zijnde bepalingen): 
+Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten bij wie de opbrengsten van een onderneming of andere uitkeringen uiteindelijk terecht komen. Doorgaans zijn de natuurlijke personen die uiteindelijk de zeggenschap hebben ook de begunstigden. Het gaat dan bijvoorbeeld over de eigenaren van een eenmanszaak, de vennoten van een vof of de (indirecte) aandeelhouders van een besloten vennootschap. Zij hebben uiteindelijk recht op de winst van de desbetreffende onderneming. In sommige gevallen zijn andere natuurlijke personen dan degenen met (indirecte) zeggenschap uiteindelijk begunstigde. Het gaat dan onder andere over (afhankelijk van de van kracht zijnde bepalingen): 
 
 * natuurlijke personen die direct of indirect certificaathouder zijn.  
 
@@ -6673,7 +6673,7 @@ Voor een beoordeling op grond van de [Wet Bibob](../../../../wet/wet/bevordering
 
 ####Uiteindelijk leidinggevende
 
-De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) spreekt van leiding geven en indirect leiding geven. Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten wie uiteindelijk de leiding hebben (gehad). Indien er sprake is van een keten van leidinggevende (rechts)personen, gaat het over de natuurlijke persoon/personen die aan het einde van die keten staat/staan. Gezien de variatie in eigendoms- en zeggenschapsstructuren is het niet mogelijk om hier een uitputtende opsomming te geven van alle mogelijke uiteindelijk leidinggevenden. Hieronder volgen voorbeelden met betrekking tot de meest voorkomende gevallen: 
+De Wet Bibob spreekt van leiding geven en indirect leiding geven. Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten wie uiteindelijk de leiding hebben (gehad). Indien er sprake is van een keten van leidinggevende (rechts)personen, gaat het over de natuurlijke persoon/personen die aan het einde van die keten staat/staan. Gezien de variatie in eigendoms- en zeggenschapsstructuren is het niet mogelijk om hier een uitputtende opsomming te geven van alle mogelijke uiteindelijk leidinggevenden. Hieronder volgen voorbeelden met betrekking tot de meest voorkomende gevallen: 
 
 * Bij een eenmanszaak is de uiteindelijk leidinggevende de natuurlijke persoon die eigenaar is van deze eenmanszaak en voor wiens rekening deze wordt gedreven.  
 
@@ -6693,7 +6693,7 @@ De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/he
 
 ####Uiteindelijk zeggenschaphebbende
 
-De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) spreekt van zeggenschap hebben en indirect zeggenschap hebben. Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten wie uiteindelijk de zeggenschap hebben (gehad). Als sprake is van een keten van zeggenschap hebbende (rechts)personen, gaat het over de natuurlijke persoon/personen die aan het einde van die keten staat/staan. Gezien de variatie in eigendoms- en zeggenschapsstructuren is het niet mogelijk om hier een uitputtende opsomming te geven van alle mogelijke uiteindelijk zeggenschaphebbenden. Hieronder volgen voorbeelden met betrekking tot de meest voorkomende gevallen: 
+De Wet Bibob spreekt van zeggenschap hebben en indirect zeggenschap hebben. Voor een beoordeling op grond van de Wet Bibob is het van belang om te weten wie uiteindelijk de zeggenschap hebben (gehad). Als sprake is van een keten van zeggenschap hebbende (rechts)personen, gaat het over de natuurlijke persoon/personen die aan het einde van die keten staat/staan. Gezien de variatie in eigendoms- en zeggenschapsstructuren is het niet mogelijk om hier een uitputtende opsomming te geven van alle mogelijke uiteindelijk zeggenschaphebbenden. Hieronder volgen voorbeelden met betrekking tot de meest voorkomende gevallen: 
 
 * Bij een eenmanszaak is de uiteindelijk zeggenschaphebbende de natuurlijke persoon die eigenaar is van deze eenmanszaak en voor wiens rekening deze wordt gedreven.  
 
@@ -6721,15 +6721,15 @@ De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/he
 
 ####Formulier bevindingen eigen onderzoek
 
-Vastgesteld op grond van [artikel 30, vijfde lid, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) 
+Vastgesteld op grond van artikel 30, vijfde lid, van de Wet Bibob 
 
 ####Inleiding
 
-Dit formulier is op grond van [artikel 30, vijfde lid, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) vastgesteld door de Minister van Veiligheid en Justitie. Dit formulier is bedoeld om de bevindingen van eigen onderzoek van bestuursorganen en rechtspersonen met een overheidstaak in het kader van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) vast te leggen en vervolgens aan het Bureau Bibob kenbaar te maken. 
+Dit formulier is op grond van artikel 30, vijfde lid, van de Wet Bibob vastgesteld door de Minister van Veiligheid en Justitie. Dit formulier is bedoeld om de bevindingen van eigen onderzoek van bestuursorganen en rechtspersonen met een overheidstaak in het kader van de Wet Bibob vast te leggen en vervolgens aan het Bureau Bibob kenbaar te maken. 
 
 ####Invulwijzer
 
-Dit formulier is exclusief bedoeld voor bestuursorganen en rechtspersonen met een overheidstaak. Het hoeft alleen ingevuld te worden als er sprake is van een adviesaanvraag op grond van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). Het kan voorkomen dat een antwoord niet past in de gegeven antwoordruimte. In dat geval dient u de gevraagde gegevens te vermelden op een bijlage die u bij dit formulier voegt en naar die bijlage te verwijzen. Het kan voorkomen dat de gevraagde informatie in bijgevoegde documenten eenduidig wordt beschreven. Als dat het geval is, volstaat het om naar die documenten te verwijzen. Geef bij onderdelen 4 en 5 ook telkens aan uit welke bron de vermelde gegevens komen. 
+Dit formulier is exclusief bedoeld voor bestuursorganen en rechtspersonen met een overheidstaak. Het hoeft alleen ingevuld te worden als er sprake is van een adviesaanvraag op grond van de Wet Bibob. Het kan voorkomen dat een antwoord niet past in de gegeven antwoordruimte. In dat geval dient u de gevraagde gegevens te vermelden op een bijlage die u bij dit formulier voegt en naar die bijlage te verwijzen. Het kan voorkomen dat de gevraagde informatie in bijgevoegde documenten eenduidig wordt beschreven. Als dat het geval is, volstaat het om naar die documenten te verwijzen. Geef bij onderdelen 4 en 5 ook telkens aan uit welke bron de vermelde gegevens komen. 
 
 ####Heeft u nog vragen?
 
@@ -6749,15 +6749,15 @@ Dit formulier betreft een:
 
 □  *Vergunning* zoals bedoeld in: 
 
-□ [Artikel 2.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), namelijk: .....  
+□ Artikel 2.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht, namelijk: .....  
 
 □ Artikel 3 Drank- en Horecawet  
 
-□ Artikel 3, eerste lid, van de marktverordening voor het wegvervoer, bedoeld in [artikel 1.1 van de Wet wegvervoer goederen](../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) en [artikel 7.1, eerste lid, van de Wet wegvervoer goederen](../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)  
+□ Artikel 3, eerste lid, van de marktverordening voor het wegvervoer, bedoeld in artikel 1.1 van de Wet wegvervoer goederen en artikel 7.1, eerste lid, van de Wet wegvervoer goederen  
 
-□ [Artikel 4 van de Wet personenvervoer 2000](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md)  
+□ Artikel 4 van de Wet personenvervoer 2000  
 
-□ [Artikel 6 Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) (opiumverloven)  
+□ Artikel 6 Opiumwet (opiumverloven)  
 
 □ Anders, namelijk: .....    
 
@@ -6799,7 +6799,7 @@ Dit formulier betreft een:
 
 ####Aanleiding adviesaanvraag
 
-Heeft u van de officier van justitie een bericht gehad zoals bedoeld in [artikel 26 van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md)? 
+Heeft u van de officier van justitie een bericht gehad zoals bedoeld in artikel 26 van de Wet Bibob? 
 
 □ Nee.  
 
@@ -6823,7 +6823,7 @@ Komen de (mogelijk) betrokken (rechts)personen en ondernemingen bij u voor in an
 
 ####Onderzoeksvragen
 
-Het kan voorkomen dat uw eigen onderzoek onvoldoende duidelijkheid heeft gebracht op specifieke voor toepassing van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) relevante punten. Hieronder kunt u de onderzoeksvragen aangeven die u voor het advies van belang acht. 
+Het kan voorkomen dat uw eigen onderzoek onvoldoende duidelijkheid heeft gebracht op specifieke voor toepassing van de Wet Bibob relevante punten. Hieronder kunt u de onderzoeksvragen aangeven die u voor het advies van belang acht. 
 
 ### 6  
 
@@ -7058,5 +7058,5 @@ Overleg een overzicht van de bijgevoegde bijlagen, waaronder:
 
 – de reguliere procedure;  
 
-– het eigen onderzoek in het kader van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).     
+– het eigen onderzoek in het kader van de Wet Bibob.     
 

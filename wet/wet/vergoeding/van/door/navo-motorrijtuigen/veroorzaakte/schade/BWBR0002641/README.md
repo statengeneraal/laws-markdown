@@ -6,16 +6,16 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het sedert het in werking treden van de [Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) wenselijk is een nadere wettelijke regeling tot stand te brengen inzake de vergoeding van door NAVO-motorrijtuigen veroorzaakte schade;
+Alzo Wij in overweging genomen hebben, dat het sedert het in werking treden van de Wet aansprakelijkheidsverzekering motorrijtuigen wenselijk is een nadere wettelijke regeling tot stand te brengen inzake de vergoeding van door NAVO-motorrijtuigen veroorzaakte schade;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  
 
-In deze wet wordt verstaan onder: Verdrag: het op 19 juni 1951 gesloten Verdrag tussen de Staten die partij zijn bij het Noord-Atlantische Verdrag, nopens de rechtspositie van hun krijgsmachten (*Trb.* 1951, 114), alsmede het op 28 augustus 1952 gesloten Protocol bij dit Verdrag nopens de rechtspositie van internationale militaire hoofdkwartieren, ingesteld uit hoofde van het Noord-Atlantische Verdrag (*Trb.* 1953, 11); krijgsmacht en civiele dienst: hetgeen daaronder wordt verstaan in het Verdrag; NAVO-motorrijtuigen: een motorrijtuig in de zin van [artikel 1 van de Wet Aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md), dat als dienstvoertuig in gebruik is bij een krijgsmacht of bij een civiele dienst. 
+In deze wet wordt verstaan onder: Verdrag: het op 19 juni 1951 gesloten Verdrag tussen de Staten die partij zijn bij het Noord-Atlantische Verdrag, nopens de rechtspositie van hun krijgsmachten (*Trb.* 1951, 114), alsmede het op 28 augustus 1952 gesloten Protocol bij dit Verdrag nopens de rechtspositie van internationale militaire hoofdkwartieren, ingesteld uit hoofde van het Noord-Atlantische Verdrag (*Trb.* 1953, 11); krijgsmacht en civiele dienst: hetgeen daaronder wordt verstaan in het Verdrag; NAVO-motorrijtuigen: een motorrijtuig in de zin van artikel 1 van de Wet Aansprakelijkheidsverzekering motorrijtuigen, dat als dienstvoertuig in gebruik is bij een krijgsmacht of bij een civiele dienst. 
 
 ### Artikel  2  
 
-Het bepaalde in [artikel 2 van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) is niet van toepassing ten aanzien van een NAVO-motorrijtuig. 
+Het bepaalde in artikel 2 van de Wet aansprakelijkheidsverzekering motorrijtuigen is niet van toepassing ten aanzien van een NAVO-motorrijtuig. 
 
 ### Artikel  3  
 

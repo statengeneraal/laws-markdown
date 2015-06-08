@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is tegelijk met het wetsvoorstel tot vaststelling en invoering van titel 5 van Boek 7 van het Burgerlijk Wetboek onder gelijktijdige intrekking van de [Pachtwet](../../../../wet/pachtwet/BWBR0002269/README.md) de bepalingen van de [Pachtwet](../../../../wet/pachtwet/BWBR0002269/README.md) over de samenstelling en werkwijze van de grondkamers en van de Centrale Grondkamer over te hevelen naar een wet tot uitvoering van titel 5 van Boek 7 van het Burgerlijk Wetboek, alsmede enige wetgeving aan te passen aan genoemde titel;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is tegelijk met het wetsvoorstel tot vaststelling en invoering van titel 5 van Boek 7 van het Burgerlijk Wetboek onder gelijktijdige intrekking van de Pachtwet de bepalingen van de Pachtwet over de samenstelling en werkwijze van de grondkamers en van de Centrale Grondkamer over te hevelen naar een wet tot uitvoering van titel 5 van Boek 7 van het Burgerlijk Wetboek, alsmede enige wetgeving aan te passen aan genoemde titel;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  1  
 
@@ -18,7 +18,7 @@ Er zijn grondkamers, waarvan het rechtsgebied en de standplaats door Ons worden 
 
 ### Artikel  1a  
 
-Op de grondkamers is de [Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing, met uitzondering van de [artikelen 12](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [14](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [21](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [22](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md). 
+Op de grondkamers is de Kaderwet zelfstandige bestuursorganen van toepassing, met uitzondering van de artikelen 12, 14, 21 en 22. 
 
 ### Artikel  2  
 
@@ -39,10 +39,10 @@ Op de grondkamers is de [Kaderwet zelfstandige bestuursorganen](../../../../wet/
 
 1.  Voor benoeming tot secretaris of plaatsvervangende secretaris komt in aanmerking degene: 
 
-a. aan wie door een universiteit dan wel de Open Universiteit als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) de graad Bachelor op het gebied van het recht en tevens de graad Master op het gebied van het recht is verleend, of  
+a. aan wie door een universiteit dan wel de Open Universiteit als bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek de graad Bachelor op het gebied van het recht en tevens de graad Master op het gebied van het recht is verleend, of  
 
-b. die aan een universiteit dan wel de Open Universiteit als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) het doctoraat in de rechtsgeleerdheid of het recht om de titel meester te voeren heeft verkregen.     
-2.  Bij algemene maatregel van bestuur kunnen graden, verleend door een universiteit, de Open Universiteit of een hogeschool als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of daaraan gelijkwaardige getuigschriften worden aangewezen die voor de toepasselijkheid van het eerste lid, onderdeel a, gelijk worden gesteld aan de in dat lid bedoelde graad Bachelor op het gebied van het recht.   
+b. die aan een universiteit dan wel de Open Universiteit als bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek het doctoraat in de rechtsgeleerdheid of het recht om de titel meester te voeren heeft verkregen.     
+2.  Bij algemene maatregel van bestuur kunnen graden, verleend door een universiteit, de Open Universiteit of een hogeschool als bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek, of daaraan gelijkwaardige getuigschriften worden aangewezen die voor de toepasselijkheid van het eerste lid, onderdeel a, gelijk worden gesteld aan de in dat lid bedoelde graad Bachelor op het gebied van het recht.   
 3.  Bij algemene maatregel van bestuur kunnen voorts nadere regels worden gesteld met betrekking tot de beroepsvereisten.  
 
 ### Artikel  5  
@@ -58,7 +58,7 @@ a. bij overtreding van de artikelen 6 en 7;
 
 b. wanneer zij in staat van faillissement zijn verklaard, ten aanzien van hen de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, zij surséance van betaling hebben verkregen of wegens schulden zijn gegijzeld.     
 3.  Alvorens het ontslag op grond van het in de voorgaande leden bepaalde wordt verleend, wordt de betrokkene gehoord.   
-4.  Wanneer zich een van de omstandigheden voordoet, als bedoeld in het tweede lid, zijn Onze Ministers van Veiligheid en Justitie en van Economische Zaken bevoegd de betrokkene in de uitoefening van zijn ambt terstond te schorsen. De schorsing mag een termijn van drie maanden niet overschrijden. Op deze termijn is de [Algemene termijnenwet](../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) niet van toepassing.   
+4.  Wanneer zich een van de omstandigheden voordoet, als bedoeld in het tweede lid, zijn Onze Ministers van Veiligheid en Justitie en van Economische Zaken bevoegd de betrokkene in de uitoefening van zijn ambt terstond te schorsen. De schorsing mag een termijn van drie maanden niet overschrijden. Op deze termijn is de Algemene termijnenwet niet van toepassing.   
 5.  Wanneer tijdens de in het vierde lid bedoelde schorsing het besluit tot ontslag wordt genomen, blijft de schorsing van kracht tot het tijdstip, waarop het ontslag ingaat.  
 
 ### Artikel  6  
@@ -93,7 +93,7 @@ De tot de rechterlijke macht behorende leden, de deskundige leden en de plaatsve
 
 1.  Wij benoemen en ontslaan de griffier van de Centrale Grondkamer.   
 2.  Wij kunnen een of meer plaatsvervangende griffiers benoemen.   
-3.  De griffier voldoet aan de vereisten tot benoembaarheid tot rechterlijke ambtenaar, gesteld in [artikel 5 van de Wet rechtspositie rechterlijke ambtenaren](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md).  
+3.  De griffier voldoet aan de vereisten tot benoembaarheid tot rechterlijke ambtenaar, gesteld in artikel 5 van de Wet rechtspositie rechterlijke ambtenaren.  
 
 ### Artikel  13  
 
@@ -126,7 +126,7 @@ Bij algemene maatregel van bestuur worden nadere voorschriften gegeven ter uitvo
 
 1.  Het verzoek tot goedkeuring van een pachtovereenkomst en van een overeenkomst tot wijziging of beëindiging van een pachtovereenkomst geschiedt door indiening bij de grondkamer van een door partijen ondertekende akte of een notarieel afschrift, met zoveel ongetekende afschriften als er meer dan twee partijen bij de overeenkomst zijn betrokken.   
 2.  Aan het hoofd van de akte worden de namen, voornamen en woonplaatsen van de partijen vermeld, voor zover deze niet in de overeenkomst zijn opgenomen. Het gepachte moet met de kadastrale aanduiding zijn aangeduid.   
-3.  Indien de goedkeuring van de pachtovereenkomst of van de overeenkomst tot wijziging van een pachtovereenkomst wordt verlangd op grond van [artikel 324, derde lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), wordt tevens de beschikking van de grondkamer, waarbij de ontwerp-overeenkomst werd goedgekeurd, vermeld.  
+3.  Indien de goedkeuring van de pachtovereenkomst of van de overeenkomst tot wijziging van een pachtovereenkomst wordt verlangd op grond van artikel 324, derde lid, van Boek 7 van het Burgerlijk Wetboek, wordt tevens de beschikking van de grondkamer, waarbij de ontwerp-overeenkomst werd goedgekeurd, vermeld.  
 
 ### Artikel  18  
 
@@ -134,13 +134,13 @@ Het verzoek tot goedkeuring van een ontwerp-pachtovereenkomst of van een ontwerp
 
 ### Artikel  19  
 
-1.  De verzoeken, bedoeld in de [artikelen 325, derde lid](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [326, eerste lid](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [328, derde lid](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [333, tweede en derde lid](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [345, tweede lid](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [348, tweede lid](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [354, derde lid](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [379, eerste lid](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [380, tweede lid](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [381, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), vinden plaats door indiening van een verzoekschrift bij de grondkamer met zoveel afschriften als er wederpartijen bij de overeenkomst of belanghebbenden zijn.   
+1.  De verzoeken, bedoeld in de artikelen 325, derde lid, 326, eerste lid, 328, derde lid, 333, tweede en derde lid, 345, tweede lid, 348, tweede lid, 354, derde lid, 379, eerste lid, 380, tweede lid en 381, tweede lid, van Boek 7 van het Burgerlijk Wetboek, vinden plaats door indiening van een verzoekschrift bij de grondkamer met zoveel afschriften als er wederpartijen bij de overeenkomst of belanghebbenden zijn.   
 2.  Het verzoekschrift vermeldt de naam, de voornamen en de woonplaats van de verzoeker, de naam en de woonplaats van de wederpartij of van de belanghebbenden, als deze er zijn, voorts de gronden, waarop het verzoek steunt, en de gevraagde beslissing.  
 
 ### Artikel  20  
 
-1.  Bij het verzoek, bedoeld in [artikel 381, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), wordt een verklaring overgelegd van burgemeester en wethouders, waaruit blijkt, dat die doeleinden niet in strijd zijn met een geldend of een in ontwerp ter inzage gelegd bestemmingsplan.   
-2.  Indien de Staat, een provincie, een gemeente, een waterschap, een veenschap of een veenpolder de in [artikel 381, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bedoelde derde is, zijn slechts Gedeputeerde Staten bevoegd de in dat lid bedoelde verklaring af te geven.   
+1.  Bij het verzoek, bedoeld in artikel 381, tweede lid, van Boek 7 van het Burgerlijk Wetboek, wordt een verklaring overgelegd van burgemeester en wethouders, waaruit blijkt, dat die doeleinden niet in strijd zijn met een geldend of een in ontwerp ter inzage gelegd bestemmingsplan.   
+2.  Indien de Staat, een provincie, een gemeente, een waterschap, een veenschap of een veenpolder de in artikel 381, tweede lid, van Boek 7 van het Burgerlijk Wetboek bedoelde derde is, zijn slechts Gedeputeerde Staten bevoegd de in dat lid bedoelde verklaring af te geven.   
 3.  Het bevoegde college beslist binnen drie weken na de indiening van het verzoek.   
 4.  De in dit artikel bedoelde verklaringen zijn slechts geldig gedurende zes maanden na de dagtekening daarvan, tenzij de verklaring zelf een kortere geldigheidsduur vermeldt.   
 5.  De verklaring, bedoeld in het eerste of tweede lid, vermeldt tevens de datum van de terinzagelegging en de datum en wijze van bekendmaking daarvan.   
@@ -148,7 +148,7 @@ Het verzoek tot goedkeuring van een ontwerp-pachtovereenkomst of van een ontwerp
 
 ### Artikel  21  
 
-1.  De verzoeken, bedoeld in de [artikelen 385](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [399e, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), worden gedaan bij een verzoekschrift, dat bij de grondkamer wordt ingediend.   
+1.  De verzoeken, bedoeld in de artikelen 385 en 399e, eerste lid, van Boek 7 van het Burgerlijk Wetboek, worden gedaan bij een verzoekschrift, dat bij de grondkamer wordt ingediend.   
 2.  Het verzoekschrift vermeldt de naam, de voornamen en de woonplaats van de verzoeker, voorts de gronden, waarop het verzoek steunt en de gevraagde beslissing.  
 
 ### Artikel  22  
@@ -163,7 +163,7 @@ Het verzoek tot goedkeuring van een ontwerp-pachtovereenkomst of van een ontwerp
 ### Artikel  23  
 
 1.  De grondkamer kan een onderzoek naar aanleiding van het bij haar ingediende verzoek gelasten. Zij zal hiermee een of meer leden of een of meer door haar aan te wijzen deskundigen belasten. Deze aanwijzing geschiedt in het algemeen, dan wel voor een bepaald geval.   
-2.  Aan de deskundige wordt door de voorzitter van de grondkamer een vergoeding toegekend op de voet van het bij en krachtens de [Wet griffierechten burgerlijke zaken](../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) bepaalde.   
+2.  Aan de deskundige wordt door de voorzitter van de grondkamer een vergoeding toegekend op de voet van het bij en krachtens de Wet griffierechten burgerlijke zaken bepaalde.   
 3.  Binnen een maand na het gelasten van het onderzoek doet de grondkamer daarvan mededeling aan de verzoeker en de bij de overeenkomst of ontwerp-overeenkomst betrokken partijen onder vermelding van de plaats waar en het tijdstip waarop het onderzoek wordt gehouden.  
 
 ### Artikel  24  
@@ -216,9 +216,9 @@ De secretaris maakt een verslag van hetgeen bij de mondelinge behandeling voorva
 2.  Ieder, die bij deurwaardersexploot is opgeroepen om als getuige ter zitting te verschijnen, is verplicht aan die oproeping gehoor te geven.   
 3.  De grondkamer kan bevelen, dat getuigen, die, hoewel bij deurwaardersexploot opgeroepen, niet zijn verschenen, door de openbare macht voor haar worden gebracht.   
 4.  De ingevolge artikel 30 ter zitting meegebrachte getuigen worden gehoord, voor zover de grondkamer hun verhoor dienstig oordeelt.   
-5.  De [artikelen 164](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [171 tot en met 173](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [177](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [179 van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn ten aanzien van het getuigenverhoor van overeenkomstige toepassing.   
-6.  Van het getuigenverhoor wordt proces-verbaal gemaakt. [Artikel 180 van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is van overeenkomstige toepassing met dien verstande, dat het proces-verbaal door de voorzitter en de secretaris wordt mede-ondertekend.   
-7.  Getuigen ontvangen desgevraagd ten laste van degene, die hen heeft voorgebracht, schadevergoeding, door de voorzitter te begroten overeenkomstig het bij en krachtens de [Wet griffierechten burgerlijke zaken](../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) bepaalde.  
+5.  De artikelen 164, 171 tot en met 173, 177 en 179 van het Wetboek van Burgerlijke Rechtsvordering zijn ten aanzien van het getuigenverhoor van overeenkomstige toepassing.   
+6.  Van het getuigenverhoor wordt proces-verbaal gemaakt. Artikel 180 van het Wetboek van Burgerlijke Rechtsvordering is van overeenkomstige toepassing met dien verstande, dat het proces-verbaal door de voorzitter en de secretaris wordt mede-ondertekend.   
+7.  Getuigen ontvangen desgevraagd ten laste van degene, die hen heeft voorgebracht, schadevergoeding, door de voorzitter te begroten overeenkomstig het bij en krachtens de Wet griffierechten burgerlijke zaken bepaalde.  
 
 ### Artikel  32  
 
@@ -235,7 +235,7 @@ Indien de grondkamer de pachtovereenkomst of de overeenkomst tot wijziging of be
 
 ### Artikel  35  
 
-De voorzitter en de leden van de grondkamers alsmede hun plaatsvervangers kunnen worden gewraakt op de wijze en in de gevallen, omschreven in de [vierde afdeling van de eerste titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), met dien verstande, dat het onderzoek van de redenen van wraking en het beslissen over de wraking geschiedt door de grondkamer. 
+De voorzitter en de leden van de grondkamers alsmede hun plaatsvervangers kunnen worden gewraakt op de wijze en in de gevallen, omschreven in de vierde afdeling van de eerste titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering, met dien verstande, dat het onderzoek van de redenen van wraking en het beslissen over de wraking geschiedt door de grondkamer. 
 
 ### Paragraaf  4  
 
@@ -245,14 +245,14 @@ De voorzitter en de leden van de grondkamers alsmede hun plaatsvervangers kunnen
 
 1.  Tegen de beschikkingen van de grondkamer staat, behoudens het in het derde lid bepaalde, aan partijen, belanghebbenden, alsmede aan de verzoeker binnen een maand, nadat de beschikking aan hen is verzonden, beroep open bij de Centrale Grondkamer.   
 2.  De wederpartij kan van haar kant incidenteel beroep instellen, zelfs na verloop van de in het vorige lid bedoelde termijn en na berusting in de beschikking. Het incidenteel beroep wordt op straffe van niet-ontvankelijkheid ingesteld bij het schriftelijk antwoord. De afstand van het principaal beroep doet het ingestelde incidenteel beroep niet vervallen.   
-3.  Geen beroep kan door de pachter of door de verpachter worden ingesteld, indien de pachtovereenkomst of een overeenkomst tot wijziging van een pachtovereenkomst dan wel het ontwerp van een van deze overeenkomsten ongewijzigd wordt goedgekeurd. Geen beroep kan door de pachter worden ingesteld, indien de wijziging door de grondkamer ingevolge [artikel 320 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) betrekking heeft op verlaging van de overeengekomen pachtprijs. Geen beroep kan door de verpachter worden ingesteld, indien bedoelde wijziging betrekking heeft op een verlaging van de overeengekomen pachtprijs met minder dan 10 procent.  
+3.  Geen beroep kan door de pachter of door de verpachter worden ingesteld, indien de pachtovereenkomst of een overeenkomst tot wijziging van een pachtovereenkomst dan wel het ontwerp van een van deze overeenkomsten ongewijzigd wordt goedgekeurd. Geen beroep kan door de pachter worden ingesteld, indien de wijziging door de grondkamer ingevolge artikel 320 van Boek 7 van het Burgerlijk Wetboek betrekking heeft op verlaging van de overeengekomen pachtprijs. Geen beroep kan door de verpachter worden ingesteld, indien bedoelde wijziging betrekking heeft op een verlaging van de overeengekomen pachtprijs met minder dan 10 procent.  
 
 ### Artikel  37  
 
 1.  Het beroep wordt ingesteld door indiening van een beroepschrift bij de Centrale Grondkamer. Bij het beroepschrift wordt een expeditie van de beroepen beschikking gevoegd.   
 2.  Het beroepschrift bevat een opgave van de naam, de voornamen en de woonplaats van de verzoeker, van de naam en de woonplaats van de wederpartij of belanghebbende, als deze er is, voorts de bezwaren tegen de beschikking, waartegen beroep, en de gevraagde beslissing.   
 3.  Bij het beroepschrift worden zoveel afschriften gevoegd als er wederpartijen of belanghebbenden zijn.   
-4.  Indien het beroep betreft een ter goedkeuring ingezonden overeenkomst als bedoeld in [artikel 318 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of een ontwerp-pachtovereenkomst of een ontwerp-overeenkomst tot wijziging van een pachtovereenkomst, worden bij het beroepschrift de daartoe bij de grondkamer ingediende bescheiden mede overgelegd.   
+4.  Indien het beroep betreft een ter goedkeuring ingezonden overeenkomst als bedoeld in artikel 318 van Boek 7 van het Burgerlijk Wetboek of een ontwerp-pachtovereenkomst of een ontwerp-overeenkomst tot wijziging van een pachtovereenkomst, worden bij het beroepschrift de daartoe bij de grondkamer ingediende bescheiden mede overgelegd.   
 5.  De griffier zendt een afschrift van het beroepschrift onverwijld aan elk van de wederpartijen of belanghebbenden, als deze er zijn, toe en voegt daarbij een kennisgeving, die de tijd vermeldt waarbinnen een schriftelijk antwoord kan worden ingezonden.   
 6.  Het beroepschrift wordt mondeling ter zitting behandeld, indien de Centrale Grondkamer dit nodig oordeelt, dan wel een van de partijen of belanghebbenden dit verzoekt. Overigens vinden de bepalingen van paragraaf 2 en van paragraaf 3 overeenkomstige toepassing.  
 
@@ -291,7 +291,7 @@ Bij algemene maatregel van bestuur worden regelen gesteld over de wijze waarop d
 ### Artikel  44  
 
 1.  Bij algemene maatregel van bestuur wordt een tarief vastgesteld van de door de grondkamers en de Centrale Grondkamer voor haar verrichtingen te heffen kosten.   
-2.  Ten aanzien van de invordering van deze kosten is [artikel 30 van de Wet griffierechten burgerlijke zaken](../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) van overeenkomstige toepassing, met dien verstande, dat het dwangbevel wordt uitgevaardigd door de voorzitter van de grondkamer, onderscheidenlijk van de Centrale Grondkamer, en dat het terstond uitvoerbaar is.  
+2.  Ten aanzien van de invordering van deze kosten is artikel 30 van de Wet griffierechten burgerlijke zaken van overeenkomstige toepassing, met dien verstande, dat het dwangbevel wordt uitgevaardigd door de voorzitter van de grondkamer, onderscheidenlijk van de Centrale Grondkamer, en dat het terstond uitvoerbaar is.  
 
 ### Hoofdstuk  5  
 
@@ -303,11 +303,11 @@ Indien binnen de in de wet gestelde termijn een verzoek is ingediend of een vord
 
 ### Hoofdstuk  6  
 
-####[Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)
+####Algemene wet bestuursrecht
 
 ### Artikel  46  
 
-Op het bepaalde in deze wet is de [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing. 
+Op het bepaalde in deze wet is de Algemene wet bestuursrecht niet van toepassing. 
 
 ### Hoofdstuk  7  
 
@@ -343,15 +343,15 @@ Wijzigt de Wet voorkeursrecht gemeenten.
 
 ### Artikel  55  
 
-De [Pachtwet](../../../../wet/pachtwet/BWBR0002269/README.md) wordt ingetrokken. 
+De Pachtwet wordt ingetrokken. 
 
 ### Artikel  56  
 
-De [Wet van 28 juli 1924, houdende regeling omtrent het dragen der kosten van openbare verpachtingen en het uitloven van premiën bij openbare verkoopingen en verpachtingen](../../../../wet/wet/omtrent/dragen/der/kosten/openbare/verpachtingen/BWBR0001920/README.md), wordt ingetrokken. 
+De Wet van 28 juli 1924, houdende regeling omtrent het dragen der kosten van openbare verpachtingen en het uitloven van premiën bij openbare verkoopingen en verpachtingen, wordt ingetrokken. 
 
 ### Artikel  57  
 
-De [Wet van 12 oktober 1995 tot wijziging van de Pachtwet](../../../../wet/wijzigingswet/pachtwet/BWBR0007605/README.md) (Stb. 1995, 204) wordt ingetrokken. 
+De Wet van 12 oktober 1995 tot wijziging van de Pachtwet (Stb. 1995, 204) wordt ingetrokken. 
 
 ### Artikel  58  
 

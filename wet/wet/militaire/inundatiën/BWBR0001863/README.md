@@ -6,12 +6,12 @@ In naam van Hare Majesteit WILHELMINA, bij de gratie Gods, Koningin der Nederlan
 
 Allen, die deze zullen zien of hooren lezen, saluut! doen te weten: 
 
-Alzoo Wij in overweging genomen hebben, dat, volgens artikel 152, 2de lid, der [Grondwet](../../../../../wet/grondwet/BWBR0001840/README.md), het gebruik van eigendom tot het voorbereiden en het stellen van militaire inundatiën, wanneer dit wegens oorlog of oorlogsgevaar wordt gevorderd, bij de wet moet worden geregeld; 
+Alzoo Wij in overweging genomen hebben, dat, volgens artikel 152, 2de lid, der Grondwet, het gebruik van eigendom tot het voorbereiden en het stellen van militaire inundatiën, wanneer dit wegens oorlog of oorlogsgevaar wordt gevorderd, bij de wet moet worden geregeld; 
 Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 
 ### Artikel  1  
 
-1.  Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de artikelen 1a, 2 en 3 in werking worden gesteld.    
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de artikelen 1a, 2 en 3 in werking worden gesteld.    
 2.  Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.   
 3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge het eerste lid in werking zijn gesteld, onverwijld buiten werking gesteld.   
 4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, worden bepalingen die ingevolge het eerste lid in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.   
