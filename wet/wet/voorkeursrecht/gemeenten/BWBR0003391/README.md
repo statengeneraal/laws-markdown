@@ -13,13 +13,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-a.bestemmingsplan: bestemmingsplan als bedoeld in [artikel 3.1 van de Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);
+a.bestemmingsplan: bestemmingsplan als bedoeld in artikel 3.1 van de Wet ruimtelijke ordening;
 
-b.inpassingsplan: inpassingsplan als bedoeld in [artikel 3.26](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) onderscheidenlijk [3.28 van de Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);
+b.inpassingsplan: inpassingsplan als bedoeld in artikel 3.26 onderscheidenlijk 3.28 van de Wet ruimtelijke ordening;
 
 c.Onze Minister: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-d.structuurvisie: structuurvisie als bedoeld in [artikel 2.1](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [2.2](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) onderscheidenlijk [2.3 van de Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);
+d.structuurvisie: structuurvisie als bedoeld in artikel 2.1, 2.2 onderscheidenlijk 2.3 van de Wet ruimtelijke ordening;
 
 e.vervreemder: eigenaar van een onroerende zaak of rechthebbende op een beperkt recht als bedoeld in onderdeel f die tot vervreemding wenst over te gaan, alsmede degene die bij ontbinding van een gemeenschap met de vereffening is belast en tot vervreemding wenst over te gaan;
 
@@ -49,7 +49,7 @@ d.de namen van de eigenaren van de desbetreffende onroerende zaken en van de rec
 
 a.gronden die zijn begrepen in een structuurvisie, waarbij aanwijzingen zijn gegeven voor de bestemming en waaraan bij de structuurvisie een niet-agrarische bestemming is toegedacht en waarvan het gebruik afwijkt van de toegedachte bestemming;
 
-b.gronden die bij een structuurvisie zijn aangewezen tot moderniseringsgebied als bedoeld in [artikel 3.5 van de Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), ongeacht of het gebruik van de gronden in die gebieden al dan niet afwijkt van die visie. 
+b.gronden die bij een structuurvisie zijn aangewezen tot moderniseringsgebied als bedoeld in artikel 3.5 van de Wet ruimtelijke ordening, ongeacht of het gebruik van de gronden in die gebieden al dan niet afwijkt van die visie. 
 2. Artikel 3, tweede en derde lid, is van toepassing.
 
 ### Artikel  5  
@@ -84,10 +84,10 @@ b.gronden die bij een structuurvisie zijn aangewezen tot moderniseringsgebied al
 
 ###Artikel  9a 
 
-1. Indien provinciale staten het voornemen hebben toepassing te geven aan [artikel 3.26, eerste en vierde lid, van de Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) kunnen zij, op gelijke wijze als de gemeenteraad, overeenkomstig artikel 2 in samenhang met artikel 3, 4 of 5, gronden aanwijzen, met dien verstande dat voor een aanwijzing in samenhang met artikel 4 uitsluitend een structuurvisie als bedoeld in [artikel 2.2 van de Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) in aanmerking komt. In een besluit tot aanwijzing overeenkomstig artikel 4 of 5 geven provinciale staten aan op welke wijze invulling gegeven zal worden aan een inpassingsplan. Gedeputeerde staten kunnen op gelijke wijze als burgemeester en wethouders overeenkomstig artikel 6 gronden voorlopig aanwijzen.
-2. Indien Onze Minister het voornemen heeft toepassing te geven aan [artikel 3.28, eerste en vierde lid, van de Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) kan deze, op gelijke wijze als de gemeenteraad, overeenkomstig artikel 2 in samenhang met artikel 3, 4 of 5 gronden aanwijzen, met dien verstande dat voor een aanwijzing in samenhang met artikel 4 uitsluitend een structuurvisie als bedoeld in [artikel 2.3 van de Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) in aanmerking komt. Bij een aanwijzing overeenkomstig de artikelen 4 en 5 geeft Onze Minister aan op welke wijze invulling gegeven zal worden aan een inpassingsplan. 
+1. Indien provinciale staten het voornemen hebben toepassing te geven aan artikel 3.26, eerste en vierde lid, van de Wet ruimtelijke ordening kunnen zij, op gelijke wijze als de gemeenteraad, overeenkomstig artikel 2 in samenhang met artikel 3, 4 of 5, gronden aanwijzen, met dien verstande dat voor een aanwijzing in samenhang met artikel 4 uitsluitend een structuurvisie als bedoeld in artikel 2.2 van de Wet ruimtelijke ordening in aanmerking komt. In een besluit tot aanwijzing overeenkomstig artikel 4 of 5 geven provinciale staten aan op welke wijze invulling gegeven zal worden aan een inpassingsplan. Gedeputeerde staten kunnen op gelijke wijze als burgemeester en wethouders overeenkomstig artikel 6 gronden voorlopig aanwijzen.
+2. Indien Onze Minister het voornemen heeft toepassing te geven aan artikel 3.28, eerste en vierde lid, van de Wet ruimtelijke ordening kan deze, op gelijke wijze als de gemeenteraad, overeenkomstig artikel 2 in samenhang met artikel 3, 4 of 5 gronden aanwijzen, met dien verstande dat voor een aanwijzing in samenhang met artikel 4 uitsluitend een structuurvisie als bedoeld in artikel 2.3 van de Wet ruimtelijke ordening in aanmerking komt. Bij een aanwijzing overeenkomstig de artikelen 4 en 5 geeft Onze Minister aan op welke wijze invulling gegeven zal worden aan een inpassingsplan. 
 3.  De artikelen 6, derde lid, 7 tot en met 15, 24 en 26 zijn van overeenkomstige toepassing. 
-4. Bij toepassing van het eerste of tweede lid verstrekken gedeputeerde staten, onderscheidenlijk Onze Minister onverwijld een exemplaar van het besluit tot aanwijzing of voorlopige aanwijzing en de bijbehorende kadastrale kaart aan de Dienst voor het kadaster en de openbare registers, ter inschrijving van die stukken in de openbare registers en doen mededeling van de aanwijzing of voorlopige aanwijzing aan burgemeester en wethouders van de gemeente en gedeputeerde staten van de provincie waarin de gronden waarop de aanwijzing betrekking heeft zijn gelegen. [Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is niet van toepassing. Evenzo doen gedeputeerde staten, onderscheidenlijk Onze Minister mededeling van het intrekken of van het van rechtswege vervallen van een besluit tot aanwijzing aan:
+4. Bij toepassing van het eerste of tweede lid verstrekken gedeputeerde staten, onderscheidenlijk Onze Minister onverwijld een exemplaar van het besluit tot aanwijzing of voorlopige aanwijzing en de bijbehorende kadastrale kaart aan de Dienst voor het kadaster en de openbare registers, ter inschrijving van die stukken in de openbare registers en doen mededeling van de aanwijzing of voorlopige aanwijzing aan burgemeester en wethouders van de gemeente en gedeputeerde staten van de provincie waarin de gronden waarop de aanwijzing betrekking heeft zijn gelegen. Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek is niet van toepassing. Evenzo doen gedeputeerde staten, onderscheidenlijk Onze Minister mededeling van het intrekken of van het van rechtswege vervallen van een besluit tot aanwijzing aan:
 
 a.de Dienst voor het kadaster en de openbare registers;
 
@@ -121,14 +121,14 @@ c. een uiterste wilsbeschikking;
 
 d. een overeenkomst met de Staat, een provincie, een waterschap of een door Ons aan te wijzen publiekrechtelijk lichaam of in het openbaar belang werkzame rechtspersoon. Onze aanwijzing wordt in de *Staatscourant* bekendgemaakt;   
 
-e. een verkoop krachtens wetsbepaling of bevel des rechters of een executoriale verkoop, met dien verstande dat ingeval van een onderhandse executoriale verkoop als bedoeld in [artikel 3: 268, tweede lid, van het Burgerlijk Wetboek ](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) de voorzieningenrechter niet beslist omtrent het verzoek tot onderhandse verkoop zolang niet het bestuursorgaan in de gelegenheid is gesteld om, gelet op het gunstiger bod, een bod te doen;  
+e. een verkoop krachtens wetsbepaling of bevel des rechters of een executoriale verkoop, met dien verstande dat ingeval van een onderhandse executoriale verkoop als bedoeld in artikel 3: 268, tweede lid, van het Burgerlijk Wetboek  de voorzieningenrechter niet beslist omtrent het verzoek tot onderhandse verkoop zolang niet het bestuursorgaan in de gelegenheid is gesteld om, gelet op het gunstiger bod, een bod te doen;  
 
-f. een overeenkomst, betrekking hebbende op gronden die zijn aangewezen bij een besluit als bedoeld in artikel 5 of 6 dan wel artikel 9a, eerste of tweede lid, in samenhang met artikel 5 of 6, gesloten met een pachter aan wie ten aanzien van deze gronden ten tijde van de inwerkingtreding van dit besluit een voorkeursrecht toekwam als bedoeld in [artikel 378 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).     
+f. een overeenkomst, betrekking hebbende op gronden die zijn aangewezen bij een besluit als bedoeld in artikel 5 of 6 dan wel artikel 9a, eerste of tweede lid, in samenhang met artikel 5 of 6, gesloten met een pachter aan wie ten aanzien van deze gronden ten tijde van de inwerkingtreding van dit besluit een voorkeursrecht toekwam als bedoeld in artikel 378 van Boek 7 van het Burgerlijk Wetboek.     
 3.  Voorts geldt het bepaalde in het eerste lid niet ingeval de vervreemding geschiedt ingevolge een overeenkomst betreffende een onroerende zaak, dan wel een overeenkomst behelzende een verplichting van de vervreemder betreffende een onroerende zaak, voorzover: 
 
 a. vervreemding geschiedt aan een in die overeenkomst met name genoemde partij, en een tegen een in die overeenkomst met name genoemde prijs, dan wel tegen een volgens die overeenkomst bepaalbare prijs, en  
 
-b. de overeenkomst is ingeschreven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), voordat een besluit tot aanwijzing of voorlopige aanwijzing in werking is getreden, en 
+b. de overeenkomst is ingeschreven in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek, voordat een besluit tot aanwijzing of voorlopige aanwijzing in werking is getreden, en 
 
 c. de vervreemding geschiedt binnen zes maanden na de dag van de inschrijving van de overeenkomst in de openbare registers als bedoeld onder b.     
 4.  Een overeenkomst als bedoeld in het derde lid, aanhef, kan worden ingeschreven in de openbare registers, bedoeld in het derde lid, mits deze is vervat in een akte. De inschrijving heeft het rechtsgevolg dat voor de vervreemder niet de verplichting zoals bedoeld in het eerste lid ontstaat, voorzover is voldaan aan de in het derde lid, onder a, b en c, genoemde vereisten.   
@@ -145,7 +145,7 @@ a. de kadastrale aanduiding;
 b. de grootte van elk van de desbetreffende percelen volgens de kadastrale registratie;  
 
 c. de grootte van een perceelsgedeelte, indien het aanbod betrekking heeft op een gedeelte van een onroerende zaak.     
-3.  Indien de opgave betrekking heeft op onroerende zaken die slechts ten dele in de aanwijzing of voorlopige aanwijzing zijn opgenomen maar een samenhangend geheel vormen, kan de vervreemder onverminderd [afdeling 11 van titel 5 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), eisen dat dit geheel van onroerende zaken wordt betrokken in de mogelijke vervreemding aan de gemeente.   
+3.  Indien de opgave betrekking heeft op onroerende zaken die slechts ten dele in de aanwijzing of voorlopige aanwijzing zijn opgenomen maar een samenhangend geheel vormen, kan de vervreemder onverminderd afdeling 11 van titel 5 van Boek 7 van het Burgerlijk Wetboek, eisen dat dit geheel van onroerende zaken wordt betrokken in de mogelijke vervreemding aan de gemeente.   
 4.  De vervreemder kan eisen dat in de vervreemding wordt betrokken het bedrijf of de onderneming waarin de onroerende zaken als onderdeel daarvan worden geëxploiteerd.  
 
 ### Artikel  12  
@@ -159,7 +159,7 @@ c. de grootte van een perceelsgedeelte, indien het aanbod betrekking heeft op ee
 1.  Indien burgemeester en wethouders en de vervreemder in onderhandeling zijn getreden ter bepaling van de vervreemdingsvoorwaarden en gehandeld is overeenkomstig de artikelen 11 en 12, eerste lid, kan de vervreemder aan burgemeester en wethouders verzoeken om binnen vier weken de rechter te verzoeken een oordeel over de prijs te geven.   
 2.  Bij hun verzoekschrift overleggen burgemeester en wethouders een gewaarmerkt afschrift van het verzoek van de vervreemder.   
 3.  Bij overschrijding van de in het eerste lid genoemde termijn of indien burgemeester en wethouders schriftelijk weigeren een verzoekschrift in te dienen, is artikel 12, derde lid, van overeenkomstige toepassing.   
-4.  De rechtbank benoemt een of meer deskundigen die zo spoedig mogelijk aan de rechtbank advies over de prijs uitbrengen. Bij het ten behoeve van het advies uit te voeren onderzoek wordt onder meer de ligging en de gesteldheid van de desbetreffende onroerende zaak betrokken. De rechtbank oordeelt met overeenkomstige toepassing van de [artikelen 40b tot en met 40f van de onteigeningswet.](../../../../../wet/onteigeningswet/BWBR0001842/README.md)   
+4.  De rechtbank benoemt een of meer deskundigen die zo spoedig mogelijk aan de rechtbank advies over de prijs uitbrengen. Bij het ten behoeve van het advies uit te voeren onderzoek wordt onder meer de ligging en de gesteldheid van de desbetreffende onroerende zaak betrokken. De rechtbank oordeelt met overeenkomstige toepassing van de artikelen 40b tot en met 40f van de onteigeningswet.   
 5.  De rechtbank doet binnen zes maanden na ontvangst van het verzoekschrift bij beschikking uitspraak. Van de beschikking van de rechtbank staat uitsluitend beroep in cassatie open.   
 6.  De kosten van de rechterlijke procedure, het deskundigenadvies alsmede de redelijkerwijs door de vervreemder voor rechtsbijstand en andere deskundige bijstand gemaakte kosten komen ten laste van de gemeente. Indien de rechter daartoe termen vindt in de omstandigheden van het geval, is deze bevoegd de kosten geheel of gedeeltelijk te compenseren.   
 7.  Indien door schriftelijke intrekking van het verzoek door burgemeester en wethouders de procedure tussentijds wordt beëindigd, heeft de vervreemder gedurende drie jaar na de intrekking de vrijheid tot vervreemding aan derden voorzover het betreft het in zijn opgave vermelde goed. De rechter beslist dan bij beschikking over de kosten, bedoeld in het zesde lid.  
@@ -182,8 +182,8 @@ b. waarop de intrekking, bedoeld in artikel 13, zevende lid, van het verzoek ter
 
 ### Artikel  24  
 
-1.  De inschrijving in de in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) bedoelde openbare registers van een akte, behelzende een vervreemding anders dan aan de gemeente, vindt alleen plaats indien op het in te schrijven stuk is opgenomen een notariële verklaring, houdende dat op de betrokken onroerende zaak geen aanwijzing of voorlopige aanwijzing in de zin van deze wet van toepassing is, hetzij dat de vervreemding niet in strijd is met deze wet.   
-2.   Voor de toepassing van het vorige lid wordt met de daar bedoelde notariële verklaring gelijkgesteld de verklaring van een persoon bedoeld in [artikel 91 van de Overgangswet nieuw Burgerlijk Wetboek](../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md), die overeenkomstig het daar bepaalde een onderhandse akte tot levering heeft opgesteld.   
+1.  De inschrijving in de in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek bedoelde openbare registers van een akte, behelzende een vervreemding anders dan aan de gemeente, vindt alleen plaats indien op het in te schrijven stuk is opgenomen een notariële verklaring, houdende dat op de betrokken onroerende zaak geen aanwijzing of voorlopige aanwijzing in de zin van deze wet van toepassing is, hetzij dat de vervreemding niet in strijd is met deze wet.   
+2.   Voor de toepassing van het vorige lid wordt met de daar bedoelde notariële verklaring gelijkgesteld de verklaring van een persoon bedoeld in artikel 91 van de Overgangswet nieuw Burgerlijk Wetboek, die overeenkomstig het daar bepaalde een onderhandse akte tot levering heeft opgesteld.   
 
 ### Artikel  25  
 

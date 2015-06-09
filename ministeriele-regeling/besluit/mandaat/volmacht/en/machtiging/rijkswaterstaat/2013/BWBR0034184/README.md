@@ -279,11 +279,7 @@ o Toekennen van een vergoeding voor materiële schade als bedoeld in artikel 69 
 
 o Opleggen van een disciplinaire straf anders dan die van ontslag.      
 
-5. Aan de hoofdingenieur-directeur, de algemeen directeur van de RWS Corporate Dienst en de hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of van een programmadirectie, blijft voorbehouden: 
-
-– het nemen van besluiten inhoudende een volledige honorering van verzoeken als bedoeld in de Wet openbaarheid van bestuur;  
-
-– het benoemen van de direct onder de directeuren ressorterende leidinggevende functionarissen.    
+5. Het benoemen van de direct onder de directeuren ressorterende leidinggevende functionarissen is voorbehouden aan de hoofdingenieur-directeur, de hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of van een programmadirectie en de algemeen directeur van de RWS Corporate Dienst.  
 
 6. Aan de algemeen directeur RWS Corporate Dienst, diens directeur Communicatie, Personeel en Recht van de RWS Corporate Dienst en aan de gemandateerde afdelingshoofden en senior adviseurs werkzaam bij de Directie Communicatie, Personeel en Recht van de RWS Corporate Dienst zijn voorbehouden de volgende bestuurlijk-juridische en vastgoedbevoegdheden: 
 
@@ -387,7 +383,15 @@ d. het behandelen en afwikkelen van meldingen, bedoeld in artikel 5.12, twaalfde
 
 a. het uitoefenen van de beheersbevoegdheden ten aanzien van de tot het regionale beheersgebied behorende territoriale zee en exclusieve economische zone van de BES-eilanden, als bedoeld in de Wet maritiem beheer BES, en  
 
-b. het nemen van besluiten en het sluiten van overeenkomsten in het kader van de uitvoering van de Wet bescherming Antarctica en het verrichten van handelingen ter voorbereiding en ter uitvoering van bedoelde besluiten en overeenkomsten.     
+b. het nemen van besluiten en het sluiten van overeenkomsten in het kader van de uitvoering van de Wet bescherming Antarctica en het verrichten van handelingen ter voorbereiding en ter uitvoering van bedoelde besluiten en overeenkomsten.    
+
+11. Aan de hoofdingenieur- directeur, de algemeen directeur van de RWS Corporate Dienst, de hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of van een programmadirectie en diens directeuren, is voorbehouden het nemen van besluiten op verzoeken als bedoeld in de Wet openbaarheid van bestuur, tenzij het verzoek: 
+
+– afgewezen kan worden omdat binnen het ministerie van Infrastructuur en Milieu geen documenten zijn die betrekking hebben op het verzoek;  
+
+– bij herhaling in eenzelfde kwestie op gelijke wijze kan worden afgedaan als reeds eerder is geschied, of  
+
+– niet in behandeling wordt genomen op grond van artikel 4:5 van de Algemene wet bestuursrecht.   De laatste drie categorieën besluiten kunnen tevens door diens afdelingshoofden genomen worden.  
 
 De directeur-generaal Rijkswaterstaat, 
 J.H. Dronkers    

@@ -8,7 +8,7 @@ Allen, die deze zullen zien of hooren lezen, saluut! doen te weten:
 
 Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is algemeene regels omtrent het waterstaatsbestuur te stellen; 
 
-Gezien art. 188 der [Grondwet](../../../../wet/grondwet/BWBR0001840/README.md); 
+Gezien art. 188 der Grondwet; 
 Zoo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:      
 ### §  1  
 
@@ -25,7 +25,7 @@ Zoo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten
 
 1.  De Gedeputeerde Staten kunnen, waterstaatswerken in beheer of onderhoud bij anderen dan het Rijk, de beheerders gehoord, zoomede onbeheerde waterstaatswerken in het beheer en onderhoud der provincie brengen.    
 2.  Zij, die van het onderhoud of het geven van bijdragen tot het onderhoud worden bevrijd, kunnen bij het besluit tot overneming in beheer en onderhoud bij de provincie worden verplicht tot afkoopbare jaarlijksche uitkeeringen, welke gezamenlijk niet hooger mogen worden gesteld, dan hetgeen per jaar voor behoorlijk onderhoud werd vereischt.    
-3.  Indien voor het gebruik van een waterstaatswerk, dat door de provincie in beheer en onderhoud wordt genomen, rechten worden geheven, wordt, behoudens het geval, dat ingevolge [artikel 54 van de Wegenwet](../../../../wet/wegenwet/BWBR0001948/README.md) schadevergoeding wordt gegeven, wegens het gemis van de opbrengst der heffing schadevergoeding toegekend, welke in het besluit der Staten tot overneming in beheer en onderhoud wordt bepaald.    
+3.  Indien voor het gebruik van een waterstaatswerk, dat door de provincie in beheer en onderhoud wordt genomen, rechten worden geheven, wordt, behoudens het geval, dat ingevolge artikel 54 van de Wegenwet schadevergoeding wordt gegeven, wegens het gemis van de opbrengst der heffing schadevergoeding toegekend, welke in het besluit der Staten tot overneming in beheer en onderhoud wordt bepaald.    
 4.  Het in de beide vorige leden van dit artikel bepaalde is alleen van toepassing, indien omtrent de in het eerste lid bedoelde overneming geen overeenstemming is verkregen.   
 
 ### §  2  
@@ -38,7 +38,7 @@ Wanneer de noodzakelijkheid tot voorziening in een waterstaatsbelang bestaat, en
 
 ### Artikel  4  
 
-1.  Indien Gedeputeerde Staten van twee of meer provincies niet of niet binnen redelijke termijn tot overeenstemming komen over de regeling van belangen van waterstaat die hen gemeenschappelijk aangaan omdat zij van mening verschillen over de noodzaak of de inhoud van de regeling, kan daarin bij algemene maatregel van bestuur worden voorzien. [Artikel 27d, eerste tot en met vierde lid, van de Wet op de Raad van State](../../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) is van overeenkomstige toepassing.    
+1.  Indien Gedeputeerde Staten van twee of meer provincies niet of niet binnen redelijke termijn tot overeenstemming komen over de regeling van belangen van waterstaat die hen gemeenschappelijk aangaan omdat zij van mening verschillen over de noodzaak of de inhoud van de regeling, kan daarin bij algemene maatregel van bestuur worden voorzien. Artikel 27d, eerste tot en met vierde lid, van de Wet op de Raad van State is van overeenkomstige toepassing.    
 2.  Op overtreding van voorschriften, bij algemene maatregel van bestuur krachtens dit artikel gegeven, kunnen dezelfde straffen worden gesteld als provinciale staten krachtens de wet op overtreding van hun verordeningen en reglementen kunnen stellen.    
 3.  Alvorens een voordracht te doen tot een algemene maatregel van bestuur als bedoeld in het eerste lid, hoort Onze Minister van Verkeer en Waterstaat gedeputeerde staten van de desbetreffende provincies.   
 
@@ -181,7 +181,7 @@ Indien op een ingesteld beroep geheel of gedeeltelijk ten voordele van hem, aan 
 ### Artikel  72a  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Onze Minister van Verkeer en Waterstaat is in de openbare lichamen Bonaire, Sint Eustatius en Saba in geval van een watersnood, zolang de daardoor ontstane situatie zulks noodzakelijk maakt, bevoegd maatregelen te treffen die hij nodig oordeelt, zo nodig in afwijking van wettelijke voorschriften, met dien verstande dat hij geen maatregelen treft die in strijd zijn met de [Grondwet](../../../../wet/grondwet/BWBR0001840/README.md) of met internationaalrechtelijke verplichtingen.   
+1.  Onze Minister van Verkeer en Waterstaat is in de openbare lichamen Bonaire, Sint Eustatius en Saba in geval van een watersnood, zolang de daardoor ontstane situatie zulks noodzakelijk maakt, bevoegd maatregelen te treffen die hij nodig oordeelt, zo nodig in afwijking van wettelijke voorschriften, met dien verstande dat hij geen maatregelen treft die in strijd zijn met de Grondwet of met internationaalrechtelijke verplichtingen.   
 2.  Onder watersnood wordt mede verstaan een dringend of dreigend gevaar voor overstroming.   
 3.  Onze Minister van Verkeer en Waterstaat draagt zorg voor het houden van oefeningen in doeltreffend optreden bij watersnood.   
 4.  Onze Minister van Verkeer en Waterstaat draagt zorg voor een evaluatie van het optreden en verder handelen bij toepassing van het eerste lid.  
@@ -194,7 +194,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ### Artikel  103  
 
-Deze wet is niet van toepassing op waterstaatswerken in de zin van [artikel 1.1 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md). 
+Deze wet is niet van toepassing op waterstaatswerken in de zin van artikel 1.1 van de Waterwet. 
 
 ### Artikel  104  
 

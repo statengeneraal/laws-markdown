@@ -3,12 +3,12 @@
 ##Verklaring omtrent de goederen van minderjarigen 
 
 De Minister van Justitie,  
-Gelet op [artikel 339, eerste lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md),
+Gelet op artikel 339, eerste lid, van Boek 1 van het Burgerlijk Wetboek,
 Besluit:    
 
 ### Artikel  I  
 
-De in [artikel 339, eerste lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) bedoelde verklaring wordt vastgesteld overeenkomstig het bij dit besluit behorende model. 
+De in artikel 339, eerste lid, van Boek 1 van het Burgerlijk Wetboek bedoelde verklaring wordt vastgesteld overeenkomstig het bij dit besluit behorende model. 
 
 ###Artikel II 
 

@@ -6193,9 +6193,9 @@ Een partij kan zijn vordering respectievelijk tegenvordering of de gronden daarv
 
 Het scheidsgerecht kan, op verzoek van een der partijen of uit eigen beweging, in of buiten Nederland, een plaatselijke gesteldheid opnemen of zaken bezichtigen, tenzij de partijen anders zijn overeengekomen. Het scheidsgerecht stelt de partijen in de gelegenheid bij de plaatsopneming of bezichtiging aanwezig te zijn. 
 
-###Artikel 1043 
+### Artikel  1043  
 
-Het scheidsgerecht kan in elke stand van het geding de persoonlijke verschijning van de partijen bevelen voor het geven van inlichtingen dan wel teneinde een vergelijk te beproeven. 
+Het scheidsgerecht kan in elke stand van het geding de persoonlijke verschijning van de partijen bevelen voor het geven van inlichtingen dan wel teneinde een vergelijk te beproeven.  
 
 ### Artikel  1043a  
 

@@ -22,11 +22,11 @@ b. instelling:
 
 1°.een instelling in de zin van de Wet toelating zorginstellingen;
 
-2°.elk in de maatschappij als zelfstandige eenheid optredend organisatorisch verband waarin maatschappelijke zorg of gezondheidszorg wordt verleend en dat wordt gefinancierd:
+2°.elk in de maatschappij als zelfstandige eenheid optredend organisatorisch verband waarin gezondheidszorg wordt verleend en dat wordt gefinancierd:
 
-a.door het Zorginstituut Nederland op grond van de Zorgverzekeringswet of de Algemene Wet Bijzondere Ziektekosten;
+a.door het Zorginstituut Nederland op grond van de Zorgverzekeringswet of de Wet langdurige zorg;
 
-b.door Onze Minister op grond van Kaderwet VWS-subsidies of een gemeente op grond van de Wet maatschappelijke ondersteuning;
+b.door Onze Minister op grond van Kaderwet VWS-subsidies;
 
 3°.elk in de maatschappij als zelfstandige eenheid optredend organisatorisch verband waarin verslavingszorg wordt verleend en dat wordt gefinancierd door Onze Minister, een gemeente of een provincie;  
 
@@ -37,7 +37,7 @@ c. zorgaanbieder:
 2°. de rechtspersonen of natuurlijke personen, die gezamenlijk een instelling in stand houden;    
 
 d. cliënt: een natuurlijk persoon ten behoeve van wie de instelling werkzaam is.     
-2.  Bij ministeriële regeling kunnen in de maatschappij als zelfstandige eenheid optredende organisatorische verbanden waarin maatschappelijke zorg of gezondheidszorg wordt verleend en die, anders dan op grond van een wettelijke bekostigingsregeling door Onze Minister worden gefinancierd, worden aangemerkt als instelling in de zin van deze wet.   
+2.  Bij ministeriële regeling kunnen in de maatschappij als zelfstandige eenheid optredende organisatorische verbanden waarin gezondheidszorg wordt verleend en die, anders dan op grond van een wettelijke bekostigingsregeling door Onze Minister worden gefinancierd, worden aangemerkt als instelling in de zin van deze wet.   
 3.  Deze wet is niet van toepassing op justitiële inrichtingen voor verpleging van ter beschikking gestelden als bedoeld in artikel 90 quinquies, tweede lid, van het Wetboek van Strafrecht.  
 
 ### Hoofdstuk  II  

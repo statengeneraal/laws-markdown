@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:  luchtverontreiniging: de aanwezigheid in de buitenlucht van verontreinigende stoffen;  verontreinigende stoffen: vaste, vloeibare of gasvormige stoffen, niet zijnde splijtstoffen, ertsen of radio-actieve stoffen in de zin van de [Kernenergiewet](../../../../../../wet/kernenergiewet/BWBR0002402/README.md) (*Stb.* 1963, 82), die in de lucht, op zichzelf dan wel tezamen of in verbinding met andere stoffen, hetzij nadeel voor de gezondheid van de mens of hinder voor de mens kunnen opleveren, hetzij schade kunnen toebrengen aan dieren, planten of goederen;  brandstof: een stof - met inbegrip van alle daaraan toegevoegde stoffen - dienende voor verbranding met het doel de daarbij ontstane energie te benutten, bij welke verbranding verontreinigende stoffen in de buitenlucht kunnen geraken;  toestel: een toestel of met een toestel uitgerust vervoermiddel van waaruit verontreinigende stoffen in de buitenlucht kunnen geraken, een en ander - voorzover dit bij algemene maatregel van bestuur is bepaald - met inbegrip van de daaraan verbonden uitlaatleidingen;  vervoermiddel: een vaartuig, rij- of voertuig of luchtvaartuig;  verontreinigende handeling: gedraging waardoor één of meer verontreinigende stoffen in de buitenlucht kunnen geraken, die niet voortvloeit uit het normale gebruik van een toestel of brandstof en niet wordt verricht in een inrichting waarvoor een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) vereist is;  Onze Minister: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  inspecteur: als zodanig bij besluit van Onze Minister aangewezen ambtenaar. 
+Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:  luchtverontreiniging: de aanwezigheid in de buitenlucht van verontreinigende stoffen;  verontreinigende stoffen: vaste, vloeibare of gasvormige stoffen, niet zijnde splijtstoffen, ertsen of radio-actieve stoffen in de zin van de Kernenergiewet (*Stb.* 1963, 82), die in de lucht, op zichzelf dan wel tezamen of in verbinding met andere stoffen, hetzij nadeel voor de gezondheid van de mens of hinder voor de mens kunnen opleveren, hetzij schade kunnen toebrengen aan dieren, planten of goederen;  brandstof: een stof - met inbegrip van alle daaraan toegevoegde stoffen - dienende voor verbranding met het doel de daarbij ontstane energie te benutten, bij welke verbranding verontreinigende stoffen in de buitenlucht kunnen geraken;  toestel: een toestel of met een toestel uitgerust vervoermiddel van waaruit verontreinigende stoffen in de buitenlucht kunnen geraken, een en ander - voorzover dit bij algemene maatregel van bestuur is bepaald - met inbegrip van de daaraan verbonden uitlaatleidingen;  vervoermiddel: een vaartuig, rij- of voertuig of luchtvaartuig;  verontreinigende handeling: gedraging waardoor één of meer verontreinigende stoffen in de buitenlucht kunnen geraken, die niet voortvloeit uit het normale gebruik van een toestel of brandstof en niet wordt verricht in een inrichting waarvoor een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht vereist is;  Onze Minister: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  inspecteur: als zodanig bij besluit van Onze Minister aangewezen ambtenaar. 
 
 ### Hoofdstuk  III  
 
@@ -105,7 +105,7 @@ Bij algemene maatregel van bestuur kunnen omtrent de uitoefening van de in de ar
 
 a. dat bij het van overheidswege verrichten van metingen en het uitvoeren van berekeningen ter bepaling van de luchtverontreiniging de bij de maatregel gestelde regelen moeten worden in acht genomen;   
 
-b. dat de bij de maatregel aangewezen colleges van burgemeester en wethouders, colleges van gedeputeerde staten, besturen van rechtspersoonlijkheid bezittende lichamen als bedoeld in de [Wet gemeenschappelijke regelingen](../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) (Stb. 1950, K 120) of andere openbare lichamen gehouden zijn in hun gezagsgebied met inachtneming van de bij de maatregel gestelde regelen metingen als bedoeld onder *a* te verrichten of mede te werken aan zodanige metingen die van Rijkswege worden verricht;  
+b. dat de bij de maatregel aangewezen colleges van burgemeester en wethouders, colleges van gedeputeerde staten, besturen van rechtspersoonlijkheid bezittende lichamen als bedoeld in de Wet gemeenschappelijke regelingen (Stb. 1950, K 120) of andere openbare lichamen gehouden zijn in hun gezagsgebied met inachtneming van de bij de maatregel gestelde regelen metingen als bedoeld onder *a* te verrichten of mede te werken aan zodanige metingen die van Rijkswege worden verricht;  
 
 c.wie verantwoordelijk is voor de onder a bedoelde metingen of berekeningen.   
 2.   Regelen als bedoeld in het eerste lid, onder *a* en *b*, kunnen onder meer betrekking hebben op:  
@@ -184,8 +184,8 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 
 ### Artikel  90  
 
-1.  Met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde zijn de [artikelen 5.3 tot en met 5.16](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [5.18 tot en met 5.23 van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing.   
-2.  Het in [artikel 5.2, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) bedoelde bestuursorgaan heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de op grond van het bepaalde bij of krachtens deze wet voor degene die het project, bedoeld in dat lid, uitvoert, geldende voorschriften.  
+1.  Met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde zijn de artikelen 5.3 tot en met 5.16 en 5.18 tot en met 5.23 van de Wet algemene bepalingen omgevingsrecht van toepassing.   
+2.  Het in artikel 5.2, eerste lid, van de Wet algemene bepalingen omgevingsrecht bedoelde bestuursorgaan heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de op grond van het bepaalde bij of krachtens deze wet voor degene die het project, bedoeld in dat lid, uitvoert, geldende voorschriften.  
 
 ### Artikel  91  
 
@@ -215,7 +215,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  100  
 
-Deze wet is niet van toepassing op luchtverontreiniging welke kan ontstaan door het lozen of het storten van stoffen, bedoeld in [artikel 6.1 van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md). 
+Deze wet is niet van toepassing op luchtverontreiniging welke kan ontstaan door het lozen of het storten van stoffen, bedoeld in artikel 6.1 van de Waterwet. 
 
 ### Artikel  102  
 

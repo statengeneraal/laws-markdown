@@ -46,7 +46,7 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 | I.  | De accountantspraktijk waarbij één accountant werkzaam is of waaraan één accountant is verbonden, met een omzet van ten hoogste € 450.000,– per jaar en welke geen of slechts incidenteel assurance-opdrachten verricht; of  |
 | --- | de accountantsafdeling waarbij één accountant werkzaam is of waaraan één accountant is verbonden, en welke geen of slechts incidenteel assurance-opdrachten verricht.  |
 | --- | --- |
-| II.  | De accountantspraktijk waarbij één accountant werkzaam is of waaraan één accountant is verbonden, met een omzet van meer dan € 450.000,– per jaar en welke geen assuranceopdrachten verricht.  |
+| II.  | De accountantspraktijk waarbij één accountant werkzaam is of waaraan één accountant is verbonden, met een omzet van meer dan € 450.000,– per jaar en welke geen of slechts incidenteel assurance-opdrachten verricht.  |
 | --- | --- |
 | III.  | De accountantspraktijk of accountantsafdeling waarbij één accountant werkzaam is of waaraan één accountant is verbonden, en welke één of meer assuranceopdrachten verricht.  |
 | --- | --- |
@@ -92,7 +92,8 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 ### Artikel  4  
 
-Het tarief, bedoeld in artikel 15, achtste lid, van de Verordening op de kwaliteitsbeoordelingen bedraagt € 1.230,– per beoordeeld verbeterplan. 
+1. Het tarief, bedoeld in artikel 15, achtste lid, van de Verordening op de kwaliteitsbeoordelingen bedraagt € 1.230,– per beoordeeld verbeterplan.  
+2.  In afwijking van het eerste lid bedraagt het tarief, bedoeld in artikel 15, achtste lid, van de Verordening op de kwaliteitsbeoordelingen € 550,– per beoordeeld verbeterplan, indien het eindoordeel waaruit de verplichting het verbeterplan in te dienen voortvloeit, zijn grond vindt in het oordeel over de uitvoering van assurance-opdrachten door de accountantspraktijk of de accountantsafdeling en deze accountantspraktijk of accountantsafdeling naar aanleiding van het eindoordeel schriftelijk heeft verklaard geen assurance-opdrachten meer uit te voeren. 
 
 ### Artikel  5  
 
@@ -184,9 +185,13 @@ De uren welke een toetser optredend als teamleider besteedt aan een nader onderz
 
 ### Artikel  15  
 
-1.  Toetsers en toetsers optredend als teamleider ontvangen een vergoeding van reis- en verblijfkosten en reistijdkosten overeenkomstig artikel 2 van de Verordening op de kostenvergoedingen.   
-2.  Toetsers en toetsers optredend als teamleider die voor een toetsing, een hertoetsing, thematisch onderzoek of accreditatie worden ingeschakeld, ontvangen in afwijking van artikel 2, zevende lid, van de Verordening op de kostenvergoedingen, een afzonderlijke vergoeding voor de kosten van parkeergelden welke zijn gemaakt in verband met een toetsing, een hertoetsing of een thematisch onderzoek.   
-3.  Toetsers of toetsers optredend als teamleider verzoeken om toepassing van het vorige lid en overleggen daarbij bewijsstukken.  
+1.  Toetsers en toetsers optredend als teamleider ontvangen voor de uitvoering van een toetsing een vergoeding van reis- en reistijdkosten.   
+2.  Toetsers en toetsers optredend als teamleider die voor een toetsing, een hertoetsing, thematisch onderzoek of accreditatie worden ingeschakeld, ontvangen een afzonderlijke vergoeding voor de kosten van parkeergelden welke zijn gemaakt in verband met een toetsing, een hertoetsing of een thematisch onderzoek.   
+3.  Toetsers of toetsers optredend als teamleider verzoeken om toepassing van het vorige lid en overleggen daarbij bewijsstukken.   
+4.  De reiskostenvergoeding bedraagt € 0,29 per kilometer.   
+5.  De reistijdkostenvergoeding bedraagt € 0,77 per kilometer boven een totale reisafstand van honderd kilometer.   
+6.  Als reiskosten en reistijdkosten worden ten hoogste vergoed de kosten om langs de kortste weg van zijn woon- of verblijfplaats te komen naar zijn plaats van bestemming en terug.   
+7.  Tol- en veergelden worden geacht te zijn begrepen in de reiskostenvergoeding bedoeld in het vierde lid.  
 
 ### Artikel  16  
 

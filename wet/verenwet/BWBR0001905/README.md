@@ -54,8 +54,8 @@ Het veerrecht kan niet worden afgescheiden van de eigendom van de grond onder he
 1.  Het is den gerechtigde tot het veerrecht verboden hooger veergeld te heffen dan geoorloofd is krachtens het voor zijn veer geldende tarief.   
 2.   Bij gebreke, onvolledigheid of onduidelijkheid van een zoodanig tarief, wordt dat naar billijkheid vastgesteld, aangevuld of verduidelijkt door de Gedeputeerde Staten van de provincie of de provinciën, waarin het veer is gelegen.   
 3.   De Gedeputeerde Staten van de provincie of de provinciën, waarin het veer is gelegen, kunnen den gerechtigde tot het veerrecht onder daarbij te stellen voorwaarden machtigen om voortdurend of voor een bepaalden tijd naar een daarbij vast te stellen hooger tarief te heffen.   
-4.  Voor zover het veerrecht betrekking heeft op een verbinding waar de op de veerverbinding aansluitende openbare wegen in de zin van de [Wegenwet](../../../wet/wegenwet/BWBR0001948/README.md) in beheer bij een of meer gemeenten of waterschappen zijn, treedt voor de toepassing van het tweede en het derde lid het college van burgemeester en wethouders van de gemeente of de gemeenten, waarin het veer is gelegen, in de plaats van gedeputeerde staten.  
-5.   Zolang het college van burgemeester en wethouders geen uitvoering heeft gegeven aan het bepaalde in het vierde lid, blijft een voor de inwerkingtreding van de [Wet herverdeling wegenbeheer](../../../wet/wet/herverdeling/wegenbeheer/BWBR0005697/README.md) (*Stb.* 1992, 563.) krachtens het tweede of derde lid genomen beslissing van provinciale staten die betrekking heeft op een veerrecht als bedoeld in het vierde lid, van kracht.  
+4.  Voor zover het veerrecht betrekking heeft op een verbinding waar de op de veerverbinding aansluitende openbare wegen in de zin van de Wegenwet in beheer bij een of meer gemeenten of waterschappen zijn, treedt voor de toepassing van het tweede en het derde lid het college van burgemeester en wethouders van de gemeente of de gemeenten, waarin het veer is gelegen, in de plaats van gedeputeerde staten.  
+5.   Zolang het college van burgemeester en wethouders geen uitvoering heeft gegeven aan het bepaalde in het vierde lid, blijft een voor de inwerkingtreding van de Wet herverdeling wegenbeheer (*Stb.* 1992, 563.) krachtens het tweede of derde lid genomen beslissing van provinciale staten die betrekking heeft op een veerrecht als bedoeld in het vierde lid, van kracht.  
 
 ### Artikel  10  
 
@@ -141,7 +141,7 @@ Buiten de gevallen in de artt. 20 en 21 voorzien, wordt, naar gelang de opheffin
 
 ### Artikel  24  
 
-De bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn op de gedingen, welke ingevolge deze wet worden gevoerd, toepasselijk, voor zoover daarvan bij de volgende bepalingen niet is afgeweken. 
+De bepalingen van het Wetboek van Burgerlijke Rechtsvordering zijn op de gedingen, welke ingevolge deze wet worden gevoerd, toepasselijk, voor zoover daarvan bij de volgende bepalingen niet is afgeweken. 
 
 ### Artikel  25  
 
@@ -195,7 +195,7 @@ Is met hen, die krachtens gewijsde gerechtigden zijn tot het veerrecht of het vr
 3.   Hij stelt de verschenen partijen in de gelegenheid de stukken mede te deelen en de gronden aan te voeren, welke tot bepaling der schadeloosstelling kunnen leiden.   
 4.   Hij hoort de getuigen, waarvan het verhoor door een of meer der partijen wordt verlangd, en die te dien einde zijn medegebracht of ten minste drie dagen van te voren zijn gedagvaard.   
 5.   Wraking van getuigen wordt niet toegelaten.   
-6.   De voorschriften van het [Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) omtrent het getuigenverhoor en het bericht van deskundigen zijn ten deze niet van toepassing.   
+6.   De voorschriften van het Wetboek van Burgerlijke Rechtsvordering omtrent het getuigenverhoor en het bericht van deskundigen zijn ten deze niet van toepassing.   
 7.   De namen en woonplaatsen der getuigen, die een partij wenscht te doen hooren, worden ten minste drie dagen vóór het verhoor aan de wederpartij medegedeeld.   
 8.   De getuigen worden onder eede gehoord.   
 9.   Indien een getuige, hoewel behoorlijk gedagvaard, niet verschijnt, weigert den eed af te leggen, of weigert op de hem gestelde vragen te antwoorden, wordt hij door den rechter-commissaris veroordeeld tot vergoeding der tevergeefs gemaakte kosten, onverminderd zijne gehoudenheid jegens partijen tot vergoeding van kosten, schaden en interessen. De getuige, die niet is verschenen, kan bij verzoekschrift bij den rechter-commissaris in verzet komen, en wordt van de tegen hem uitgesproken veroordeeling ontheven, indien hij aantoont door te billijken redenen verhinderd te zijn geweest om te verschijnen.   

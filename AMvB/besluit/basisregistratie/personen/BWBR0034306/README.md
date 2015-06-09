@@ -356,13 +356,13 @@ a. de volgende organen binnen de Belastingdienst:
 
 2°. de Belastingdienst/Toeslagen, bedoeld in artikel 11, tweede lid, van de Algemene wet inkomensafhankelijke regelingen en de ontvanger, bedoeld in artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990, wat betreft de uitkering en terugvordering van tegemoetkomingen op grond van de Algemene wet inkomensafhankelijke regelingen;    
 
-b. dit onderdeel is nog niet in werking getreden;  
+b. de Sociale Verzekeringsbank wat betreft de taken op grond van hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen met uitzondering van de taken op grond van artikel 35 van die wet ten aanzien van verzekerden en bij de verzekerden behorende personen in de verzekerdenadministratie;  
 
-c. dit onderdeel is nog niet in werking getreden;  
+c. het Uitvoeringsinstituut werknemersverzekeringen wat betreft de taken op grond van hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen met uitzondering van de taken op grond van artikel 33 van die wet;  
 
-d. dit onderdeel is nog niet in werking getreden;  
+d. het College voor zorgverzekeringen wat betreft de taken op grond van artikel 69 van de Zorgverzekeringswet;  
 
-e.dit onderdeel is nog niet in werking getreden;  
+e. dit onderdeel is nog niet in werking getreden;  
 
 f. Onze Minister van Buitenlandse Zaken wat betreft de taken omtrent personen die in Nederland voorrechten en immuniteiten genieten op grond van het op 18 april 1961 te Wenen tot stand gekomen Verdrag van Wenen inzake diplomatiek verkeer met twee protocollen (Trb. 1962, 101), het op 24 april 1963 te Wenen tot stand gekomen Verdrag van Wenen inzake consulaire betrekkingen, met twee protocollen (Trb. 1965, 40), zetelovereenkomsten met in Nederland gevestigde internationale organisaties, Europese regelgeving of volkenrechtelijk gebruik.   
 
