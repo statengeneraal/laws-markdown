@@ -33,6 +33,7 @@ Besluit:
 | Titel 3.4  | 3.4.8  | --- | --- | 19-5-2015 t/m  15-9-2015  | € 1.500.000  |
 | Titel 3.4  | 3.4.20  | --- | --- | 19-5-2015 t/m  15-9-2015  | € 11.000.000  |
 | Titel 3.7: Eurostarsprojecten  | 3.7.2  | --- | --- | 18-12-2014 t/m 06-01-2015  | 9.162.500  |
+| Titel 3.7: Eurostarsprojecten  | 3.7.2  | --- | --- | 10-06-2015 t/m 23-06-2015  | 9.162.500  |
 | Titel 3.8: Internationaal innoveren  | 3.8.2  | ITEA3-innovatieprojecten  | --- | 14-03-2015 t/m 03-04-2015  | 10.000.000  |
 | Titel 3.9: Innovatiekredieten  | 3.9.2  | Klinische ontwikkelingsprojecten  | --- | 01-01-2015 t/m 31-12-2015  | 20.000.000  |
 | Titel 3.9: Innovatiekredieten  | 3.9.2  | Technische ontwikkelingsprojecten  | --- | 01-01-2015 t/m 31-12-2015  | 40.000.000  |

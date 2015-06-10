@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 21 april 2011 (nr. 2001-2000149103, DCB/CZW/WBI), gedaan mede namens Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-Gelet op [artikel 89, eerste lid, van de Grondwet](../../../../../../../../../wet/grondwet/BWBR0001840/README.md), [artikel 125quinquies, eerste lid, onderdeel f van de Ambtenarenwet](../../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md), [artikel 50, eerste lid van de Politiewet 1993](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), [artikel 12quater, eerste lid, onderdeel f van de Militaire ambtenarenwet 1931](../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md), [artikel 2 van de Wet vergoedingen adviescolleges en commissies](../../../../../../../../../wet/wet/vergoedingen/adviescolleges/en/commissies/BWBR0024775/README.md) en [artikel 1a, eerste lid, onderdeel d, van de Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md);
+Gelet op artikel 89, eerste lid, van de Grondwet, artikel 125quinquies, eerste lid, onderdeel f van de Ambtenarenwet, artikel 50, eerste lid van de Politiewet 1993, artikel 12quater, eerste lid, onderdeel f van de Militaire ambtenarenwet 1931, artikel 2 van de Wet vergoedingen adviescolleges en commissies en artikel 1a, eerste lid, onderdeel d, van de Wet openbaarheid van bestuur;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 9 juni 2011, nr. W04.11.0145/I);
 
@@ -24,7 +24,7 @@ a.  *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties
 
 b.  *Commissie:* de Commissie advies- en verwijspunt klokkenluiden bedoeld in artikel 2.  
 
-c.  *Persoonsgegevens, verwerking van persoonsgegevens onderscheidenlijk verantwoordelijke:* hetgeen daaronder wordt verstaan in [artikel 1 van de Wet bescherming persoonsgegevens](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
+c.  *Persoonsgegevens, verwerking van persoonsgegevens onderscheidenlijk verantwoordelijke:* hetgeen daaronder wordt verstaan in artikel 1 van de Wet bescherming persoonsgegevens.   
 
 ### Artikel  2  
 
@@ -64,7 +64,7 @@ De Commissie is verantwoordelijke voor de verwerking van persoonsgegevens.
 ### Artikel  5  
 
 1.  De Commissie bestaat uit drie leden, onder wie een voorzitter. Voorts kunnen plaatsvervangende leden worden benoemd.   
-2.  De leden en de plaatsvervangende leden van de Commissie worden door Onze Minister benoemd tot uiterlijk 1 juli 2015.   
+2.  De leden en de plaatsvervangende leden van de Commissie worden door Onze Minister benoemd.   
 3.  Voor de benoeming van leden en plaatsvervangende leden wordt de Commissie gehoord onder opgave van het profiel van de gezochte kandidaat of kandidaten.  
 
 ### Artikel  6  
@@ -91,8 +91,8 @@ De leden en de plaatsvervangende leden van de Commissie worden benoemd op grond 
 
 ### Artikel  10  
 
-1.  De voorzitter van de Commissie ontvangt een vaste vergoeding per maand, afgeleid van het maximum van schaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), met een deeltijdfactor 0,4.   
-2.  De leden en de plaatsvervangende leden van de Commissie, niet zijnde de voorzitter, ontvangen een vaste vergoeding per maand, afgeleid van het maximum van schaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), met een deeltijdfactor 0,2.   
+1.  De voorzitter van de Commissie ontvangt een vaste vergoeding per maand, afgeleid van het maximum van schaal 18 van bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984, met een deeltijdfactor 0,4.   
+2.  De leden en de plaatsvervangende leden van de Commissie, niet zijnde de voorzitter, ontvangen een vaste vergoeding per maand, afgeleid van het maximum van schaal 18 van bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984, met een deeltijdfactor 0,2.   
 3.  Bij regeling van Onze Minister kan worden afgeweken van de deeltijdfactor, waarbij voor de plaatsvervangende leden een van de leden afwijkende deeltijdfactor kan worden vastgesteld.  
 
 ### §  5  
@@ -116,7 +116,7 @@ Wijzigt het Besluit bestuursorganen WNo en Wob.
 
 ### Artikel  14  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip en vervalt met ingang van 1 juli 2015. 
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip en vervalt met ingang van 1 juli 2016 of, indien het bij geleidende brief van 14 mei 2012 ingediende voorstel van wet van de leden Van Raak, Fokke, Schouw, Voortman, Segers, Ouwehand en Klein houdende de oprichting van een Huis voor klokkenluiders (Wet Huis voor klokkenluiders) (33 258) tot wet wordt verheven en eerder in werking treedt dan 1 juli 2016, met ingang van het tijdstip waarop die wet in werking treedt. 
 
 ### Artikel  15  
 

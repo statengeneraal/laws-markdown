@@ -116,7 +116,11 @@ dd. voor deelname aan operaties van de Noord Atlantische Verdrags Organisatie:
 
 5°. de maritieme operatie Ocean Shield voor zover deze deelname heeft plaatsgehad in de Rode Zee, Golf van Aden en het Somalië Bassin; 
 
-6°.de operatie Unified Protector, voor zover deelname heeft plaatsgehad vanaf de luchthaven Decimomannu in Italië, bij het hoofdkwartier van de Combined Force Air Component (CFAC) te Poggio Renatico in Italië boven het territorium van Libië en in de Middellandse Zee vanaf maart 2011: NAVO OPERATIES;  
+6°.de operatie Unified Protector, voor zover deelname heeft plaatsgehad vanaf de luchthaven Decimomannu in Italië, bij het hoofdkwartier van de Combined Force Air Component (CFAC) te Poggio Renatico in Italië boven het territorium van Libië en in de Middellandse Zee vanaf maart 2011;
+
+7°. de operatie Nato Support to African Union ‘NS2AU’, voor zover deelname heeft plaatsgehad in Ethiopië, vanaf 1 september 2009;  
+
+8°. de operatie Resolute Support Mission ‘RSM’, voor zover deelname heeft plaatsgehad in de Republiek Afghanistan, vanaf 1 januari 2015: NAVO-OPERATIES;   
 
 ee. voor deelname aan operaties van de Europese Unie: 
 
@@ -142,7 +146,9 @@ ee. voor deelname aan operaties van de Europese Unie:
 
 11°. de EU trainingsmissie in Somalië ‘EUTM Somalië’, voor zover deze deelname heeft plaatsgehad in Uganda en in Somalië vanaf 14 februari 2013;  
 
-12°. de EU missie in Zuid-Sudan ‘EUAVSEC South Sudan’, voor zover deze deelname heeft plaatsgehad in Zuid-Sudan vanaf 3 juni 2013: EU OPERATIES;   
+12°. de EU missie in Zuid-Sudan ‘EUAVSEC South Sudan’, voor zover deze deelname heeft plaatsgehad in Zuid-Sudan vanaf 3 juni 2013; 
+
+13°. de EU missie in de Hoorn van Afrika ‘EUCAP Nestor’, voor zover deze deelname heeft plaatsgehad in Djibouti, Somalië, Kenia en de Seychellen vanaf 16 juli 2012: EU-OPERATIES;   
 
 ff. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa: 
 
@@ -158,15 +164,23 @@ gg. voor deelname aan operaties in Multinationaal verband:
 
 3°. de operatie United States Security Coordinator Dayton ‘USSC Dayton’, voor zover deze heeft plaatsgehad in Ramallah, West Bank; 
 
-4°. het Africa Contingency Operations Training and Assistance programma ‘ACOTA’, voor zover deelname heeft plaatsgehad in Afrika vanaf januari 2011; 
+4°. het Africa Contingency Operations Training and Assistance programma ‘ACOTA’, voor zover deelname heeft plaatsgehad in Afrika vanaf 1 januari 2006; 
 
-5°.de Multinational Force and Observers ‘MFO’, voor zover deze deelname heeft plaatsgevonden in en rondom El Gorah, Egypte, vanaf 14 januari 2013: MULTINATIONALE OPERATIES; 
+5°.de Multinational Force and Observers ‘MFO’, voor zover deze deelname heeft plaatsgevonden in en rondom El Gorah, Egypte, vanaf 14 januari 2013;
+
+6°. de operatie (NLD) Capacity Building Mission Iraq ‘CBMI’, voor zover deze deelname heeft plaatsgevonden in Irak en Koeweit, vanaf 25 september 2014: MULTINATIONALE OPERATIES;  
 
 hh.voor deelname aan SSR operaties van Nederland:
 
 1°.SSR Burundi, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Burundi vanaf januari 2007;
 
-2°.SSR LAF, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Libanon vanaf januari 2008: NL SSR OPERATIES. 
+2°.SSR LAF, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Libanon vanaf januari 2008: NL SSR OPERATIES;
+
+ii. voor deelname aan Vessel Protection Detachments, vanaf 22 maart 2011, waarbij wordt afgeweken van de eis dat de inzet een aaneengesloten periode betreft: VPD;  
+
+jj. voor deelname aan Speciale Operaties, vanaf 1 januari 2001: SPECIALE OPERATIES;  
+
+kk. voor deelname aan Air Task Force Middle-East, voor zover deelname heeft plaatsgevonden in Jordanië, Koeweit en Qatar, vanaf 24 september 2014: ATFME.  
 
 ### Artikel  2  
 

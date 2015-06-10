@@ -17,8 +17,6 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepaling
 
-Treedt in werking per 01-01-2015 
-
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
 a.  *vergoeding:* de door de werkgever aan de werknemer verschuldigde vergoeding, op grond van artikel 668, derde lid, van Boek 7 van het Burgerlijk Wetboek;  
@@ -30,8 +28,6 @@ c. dit onderdeel is nog niet in werking getreden.
 ### Artikel  2  
 
 ####Loon
-
-Treedt in werking per 01-01-2015 
 
 1.  Voor de toepassing van artikel 668, derde lid, van Boek 7 van het Burgerlijk Wetboek wordt onder loon verstaan: het bruto uurloon vermenigvuldigd met de overeengekomen arbeidsduur per maand, of, indien geen of een wisselende arbeidsduur is overeengekomen, het bruto uurloon vermenigvuldigd met het gemiddelde aantal gewerkte uren per maand: 
 
@@ -69,15 +65,11 @@ Wijzigt dit besluit.
 
 ####Citeertitel
 
-Treedt in werking per 01-01-2015 
-
 Dit besluit wordt aangehaald als: Besluit loonbegrip vergoeding aanzegtermijn en transitievergoeding. 
 
 ### Artikel  6  
 
 ####Inwerkingtreding
-
-Treedt in werking per 01-01-2015 
 
 Dit besluit treedt in werking met ingang van 1 januari 2015, met uitzondering van de artikelen 1, onderdelen b en c, 3 en 4, die met ingang van 1 juli 2015 in werking treden. 
 
