@@ -30,15 +30,15 @@ b. de inspecteur: de inspecteur van de Rijksdienst voor Ondernemend Nederland;
 
 c. de ontvanger: de ontvanger van de Rijksdienst voor Ondernemend Nederland;  
 
-d. de ambtenaren van de rijksbelastingdienst: de ambtenaren die onder de directeur Kernprocessen EU en Klantcontact & Gegevens van het Ministerie van Economische Zaken ressorteren en de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit.     
-2.  De functionaris, bedoeld in artikel 93a, eerste, vierde en zesde lid, van de Gezondheids- en welzijnswet voor dieren is de directeur Kernprocessen EU en Klantcontact & Gegevens van het Ministerie van Economische Zaken.   
-3.  Als inspecteur van de Rijksdienst voor Ondernemend Nederland en als ontvanger van de Rijksdienst voor Ondernemend Nederland wordt aangewezen de directeur Kernprocessen EU en Klantcontact & Gegevens van het Ministerie van Economische Zaken.  
+d. de ambtenaren van de rijksbelastingdienst: de ambtenaren van de Rijksdienst voor Ondernemend Nederland en de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit.     
+2.  De functionaris, bedoeld in artikel 93a, eerste, vierde en zesde lid, van de Gezondheids- en welzijnswet voor dieren is de algemeen directeur van de Rijksdienst voor Ondernemend Nederland.   
+3.  Als inspecteur van de Rijksdienst voor Ondernemend Nederland en als ontvanger van de Rijksdienst voor Ondernemend Nederland wordt aangewezen de algemeen directeur van de Rijksdienst voor Ondernemend Nederland.  
 
 ### Artikel  3  
 
 ####Door de inspecteur aangewezen ambtenaren
 
-De verplichtingen die ingevolge de artikelen 47, 47b, 48, 49, 50, 53 en 55 van de Algemene wet inzake rijksbelastingen bestaan jegens de Inspecteur van de Rijksdienst voor Ondernemend Nederland gelden mede jegens de door die inspecteur aangewezen ambtenaren van de Rijksdienst voor Ondernemend Nederland en jegens de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit. 
+De verplichtingen die ingevolge de artikelen 47, 47b, 48, 49, 50, 53 en 55 van de Algemene wet inzake rijksbelastingen bestaan jegens de Inspecteur van de Rijksdienst voor Ondernemend Nederland gelden mede jegens de ambtenaren van de Rijksdienst voor Ondernemend Nederland en jegens de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit. 
 
 ### Artikel  4  
 
@@ -79,13 +79,13 @@ De berekening voor melkproducerende runderen als bedoeld in artikel 8, eerste li
 
 ####Overige runderen, ouder dan één jaar
 
-De berekening voor andere runderen dan melkproducerende runderen, ouder dan één jaar, als bedoeld in artikel 8, tweede lid, van het Besluit heffing bestrijding dierziekten en artikel 8, tweede lid, van het Besluit heffing preventie dierziekten geschiedt door voor elke dag het aantal andere runderen dan melkproducerende runderen, ouder dan één jaar, op te tellen en te delen door het aantal dagen van het kalenderjaar. Het totale aantal dagen van het kalenderjaar wordt verminderd met het aantal dagen dat op het bedrijf geen andere runderen dan melkproducerende runderen, ouder dan één jaar, aanwezig waren. 
+De berekening voor andere runderen dan melkproducerende runderen, ouder dan één jaar, als bedoeld in artikel 8, tweede lid, van het Besluit heffing bestrijding dierziekten en artikel 8, tweede lid, van het Besluit heffing preventie dierziekten geschiedt door voor elke dag het aantal andere runderen dan melkproducerende runderen, ouder dan één jaar, op te tellen en te delen door het aantal dagen van het kalenderjaar. 
 
 ### Artikel  10  
 
 ####Berekening kalveren
 
-De berekening voor andere runderen dan melkproducerende runderen, jonger dan 1 jaar, als bedoeld in artikel 8, derde lid, van het Besluit heffing bestrijding dierziekten en artikel 8, derde lid, van het Besluit heffing preventie dierziekten geschiedt door voor elke dag het aantal aanwezige andere runderen dan melkproducerende runderen, jonger dan 1 jaar, op te tellen en te delen door het aantal dagen van het kalenderjaar. Het totale aantal dagen van het kalenderjaar wordt verminderd met het aantal dagen dat op het bedrijf geen andere runderen dan melkproducerende runderen, jonger dan 1 jaar, aanwezig waren. 
+De berekening voor andere runderen dan melkproducerende runderen, jonger dan 1 jaar, als bedoeld in artikel 8, derde lid, van het Besluit heffing bestrijding dierziekten en artikel 8, derde lid, van het Besluit heffing preventie dierziekten geschiedt door voor elke dag het aantal aanwezige andere runderen dan melkproducerende runderen, jonger dan 1 jaar, op te tellen en te delen door het aantal dagen van het kalenderjaar. 
 
 ### Artikel  11  
 
@@ -103,7 +103,7 @@ De berekening voor geiten als bedoeld in de artikelen 9 en 10 van het Besluit he
 
 ####Berekening pluimvee
 
-De berekening voor de diercategorieën, bedoeld in de artikelen vier tot en met zeven van het Besluit heffing bestrijding dierziekten en de artikelen vier tot en met zeven van het Besluit heffing preventie dierziekten geschiedt door voor elke dag van het kalenderjaar het aantal aanwezige dieren van de diercategorie op te tellen en te delen door het aantal dagen van het kalenderjaar. Het totale aantal dagen van het kalenderjaar wordt verminderd met het aantal dagen dat op het bedrijf geen dieren van de diercategorie aanwezig waren. 
+De berekening voor de diercategorieën, bedoeld in de artikelen vier tot en met zeven van het Besluit heffing bestrijding dierziekten en de artikelen vier tot en met zeven van het Besluit heffing preventie dierziekten geschiedt door voor elke dag van het kalenderjaar het aantal aanwezige dieren van de diercategorie op te tellen en te delen door het aantal dagen van het kalenderjaar. 
 
 ### Artikel  14  
 

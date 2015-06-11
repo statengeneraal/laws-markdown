@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 juli 2002, nr. FO2002/U78569;
 
-Gelet op [artikel 190 van de Provinciewet](../../../../../../../../../wet/provinciewet/BWBR0005645/README.md) en [artikel 186 van de Gemeentewet](../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md);
+Gelet op artikel 190 van de Provinciewet en artikel 186 van de Gemeentewet;
 
 De Raad van State gehoord (advies van 4 december 2002, nr. W04.02.0300/1);
 
@@ -32,7 +32,7 @@ e. deelneming: een participatie in een besloten of naamloze vennootschap, waarin
 
 f. CBS: Centraal bureau voor de statistiek;  
 
-g. rentetypische looptijd; als gedefinieerd in de [Wet fido, artikel 1, onder b](../../../../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md);  
+g. rentetypische looptijd; als gedefinieerd in de Wet fido, artikel 1, onder b;  
 
 h. vaste schuld: het gezamenlijk bedrag van: 
 
@@ -40,9 +40,11 @@ h. vaste schuld: het gezamenlijk bedrag van:
 
 2°. de voor een termijn van één jaar of langer ontvangen waarborgsommen;    
 
-i. netto-vlottende schuld; als gedefinieerd in de [Wet fido, artikel 1, onder e](../../../../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md); 
+i. netto-vlottende schuld; als gedefinieerd in de Wet fido, artikel 1, onder e; 
 
-j.EMU-saldo: het vorderingsaldo van de sector overheid op transactiebasis. Het EMU-saldo wordt berekend overeenkomstig het Europees systeem van nationale en regionale rekeningen in de gemeenschap, ingevoerd bij Verordening (EG) nr. 2223/96 van de Raad van de Europese Unie van 25 juni 1996 inzake het Europees systeem van nationale en regionale rekeningen in de Gemeenschap. 
+j.EMU-saldo: het vorderingsaldo van de sector overheid op transactiebasis. Het EMU-saldo wordt berekend overeenkomstig het Europees systeem van nationale en regionale rekeningen in de gemeenschap, ingevoerd bij Verordening (EG) nr. 2223/96 van de Raad van de Europese Unie van 25 juni 1996 inzake het Europees systeem van nationale en regionale rekeningen in de Gemeenschap; 
+
+k. niet-effectieve positie: situatie waarin de onderliggende waarde en looptijd van een financieel derivaat niet overeenkomt met de financieringsbehoefte waar het derivaat betrekking op heeft. 
 2. In dit besluit wordt onder verbonden partij mede verstaan een Europese groepering voor territoriale samenwerking als bedoeld in artikel 1 van verordening (EG) nr. 1082/2006 van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 betreffende een Europese groepering voor territoriale samenwerking (EGTS) (PbEU L 210) waarin de provincie onderscheidenlijk gemeente een bestuurlijk en een financieel belang heeft. 
 
 ### Artikel  2  
@@ -172,7 +174,24 @@ a. een inventarisatie van de weerstandscapaciteit;
 
 b. een inventarisatie van de risico's;  
 
-c. het beleid omtrent de weerstandscapaciteit en de risico's.    
+c. het beleid omtrent de weerstandscapaciteit en de risico's;  
+
+d. een kengetal voor de: 
+
+1a°. netto schuldquote;  
+
+1b°. netto schuldquote gecorrigeerd voor alle verstrekte leningen;  
+
+2°. solvabiliteitsratio;  
+
+3°. grondexploitatie;  
+
+4°. structurele exploitatieruimte; en  
+
+5°. belastingcapaciteit.    
+
+e. een beoordeling van de onderlinge verhouding tussen de kengetallen in relatie tot de financiële positie.    
+3.  Bij ministeriële regeling worden nadere regels gesteld over de wijze waarop de kengetallen, genoemd in het tweede lid, onderdeel d, door provincies en gemeenten worden vastgesteld en in de begroting en het jaarverslag worden opgenomen. 
 
 ### Artikel  12  
 
@@ -218,11 +237,11 @@ a. de naam en de vestigingsplaats;
 
 b. het openbaar belang dat op deze wijze behartigd wordt;  
 
-c. de veranderingen die zich hebben voorgedaan gedurende het begrotingsjaar in het belang dat de gemeente onderscheidenlijk provincie in de verbonden partij heeft;  
+c. het belang dat de provincie onderscheidenlijk de gemeente in de verbonden partij heeft aan het begin en de verwachte omvang aan het einde van het begrotingsjaar;  
 
-d. het eigen vermogen en het vreemd vermogen van de verbonden partij aan het begin en aan het einde van het begrotingsjaar;  
+d. de verwachte omvang van het eigen vermogen en het vreemd vermogen van de verbonden partij aan het begin en aan het einde van het begrotingsjaar;  
 
-e. het resultaat van de verbonden partij.   
+e. de verwachte omvang van het financiële resultaat van de verbonden partij in het begrotingsjaar.   
 
 ### Artikel  16  
 
@@ -398,7 +417,7 @@ c. een overzicht van de incidentele baten en lasten per programma, waarbij per p
 
 d. een overzicht van de structurele toevoegingen en onttrekkingen aan de reserves;  
 
-e. de informatie, bedoeld in de [artikelen 4.1, eerste en tweede lid](../../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), en [4.2, eerste tot en met derde lid van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](../../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md).   
+e. de informatie, bedoeld in de artikelen 4.1, eerste en tweede lid, en 4.2, eerste tot en met derde lid van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector.   
 
 ### Artikel  29  
 
@@ -469,7 +488,7 @@ a. kapitaalverstrekkingen aan:
 
 b. leningen aan: 
 
-1. openbare lichamen als bedoeld in [artikel 1, onderdeel a, van de Wet financiering decentrale overheden](../../../../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md); 
+1. openbare lichamen als bedoeld in artikel 1, onderdeel a, van de Wet financiering decentrale overheden; 
 
 2. woningbouwcorporaties;  
 
@@ -517,7 +536,7 @@ In de balans worden onder de uitzettingen met een rentetypische looptijd korter 
 
 a. vorderingen op openbare lichamen;  
 
-b. verstrekte kasgeldleningen aan openbare lichamen als bedoeld in [artikel 1, onderdeel a, van de Wet financiering decentrale overheden](../../../../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md);  
+b. verstrekte kasgeldleningen aan openbare lichamen als bedoeld in artikel 1, onderdeel a, van de Wet financiering decentrale overheden;  
 
 c. overige verstrekte kasgeldleningen;  
 
@@ -599,7 +618,7 @@ b. onderhandse leningen van:
 
 3. binnenlandse bedrijven;  
 
-4. openbare lichamen als bedoeld in [artikel 1, onderdeel a, van de Wet financiering decentrale overheden](../../../../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md); 
+4. openbare lichamen als bedoeld in artikel 1, onderdeel a, van de Wet financiering decentrale overheden; 
 
 5. overige binnenlandse sectoren;  
 
@@ -621,7 +640,7 @@ Onder de vlottende passiva worden afzonderlijk opgenomen de netto-vlottende schu
 
 In de balans worden onder de netto-vlottende schulden afzonderlijk opgenomen: 
 
-a. kasgeldleningen aangegaan bij openbare lichamen als bedoeld in [artikel 1, onderdeel a, van de Wet financiering decentrale overheden](../../../../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md);  
+a. kasgeldleningen aangegaan bij openbare lichamen als bedoeld in artikel 1, onderdeel a, van de Wet financiering decentrale overheden;  
 
 b.overige kasgeldleningen;
 
@@ -707,9 +726,27 @@ d.het saldo aan het einde van het begrotingsjaar.
 
 De aard en omvang van de aangebrachte dan wel geraamde waardeverminderingen van de leningen en vorderingen, bedoeld in artikel 63, achtste lid, van de vaste activa, bedoeld in artikel 65, eerste lid, en van de deelnemingen en voorraden, bedoeld in artikel 65, tweede lid, worden in de toelichting op de balans opgenomen.
 
+### Artikel  52c  
+
+In de toelichting op de balans wordt vermeld: 
+
+a. het drempelbedrag voor het begrotingsjaar waarover verantwoording wordt afgelegd; en  
+
+b. voor ieder kwartaal van dat jaar, het bedrag aan middelen, bedoeld in artikel 2, vierde lid, van de Wet financiering decentrale overheden, dat in het kader van het drempelbedrag door de provincie onderscheidenlijk de gemeente buiten ’s Rijks schatkist is aangehouden.   
+
 ### Artikel  53  
 
-In de toelichting op de balans worden de niet in de balans opgenomen belangrijke financiële verplichtingen vermeld waaraan de provincie of de gemeente voor toekomstige jaren is verbonden. 
+In de toelichting op de balans wordt vermeld; 
+
+a. de niet in de balans opgenomen belangrijke financiële verplichtingen waaraan de provincie of de gemeente voor toekomstige jaren is verbonden, en  
+
+b. indien de provincie of de gemeente financiële derivaten hanteert, per derivaat: 
+
+1°. de naam en rating van de financiële onderneming waarbij het derivaat is afgesloten;  
+
+2°. het type en de belangrijkste kenmerken van het derivaat en de hoogte en de looptijd van de financieringsbehoefte waaraan het derivaat kan worden toegerekend, en  
+
+3°. in het geval van een niet-effectieve positie, als bedoeld in artikel 1, eerste lid, onderdeel k, in welk opzicht daarvan sprake is, de maatregelen die zijn genomen om die positie ongedaan te maken en de termijn die daarvoor naar verwachting nodig is.     
 
 ### Artikel  54  
 
@@ -822,7 +859,7 @@ d. de bijdrage kan worden teruggevorderd, indien de derde in gebreke blijft of d
 3.  De vervaardigingsprijs omvat de aanschaffingskosten van de gebruikte grond- en hulpstoffen en de overige kosten, welke rechtstreeks aan de vervaardiging kunnen worden toegerekend. In de vervaardigingsprijs kunnen voorts worden opgenomen een redelijk deel van de indirecte kosten en de rente over het tijdvak dat aan de vervaardiging van het actief kan worden toegerekend; in dat geval vermeldt de toelichting dat deze rente is geactiveerd.   
 4.  Voor in erfpacht uitgegeven gronden geldt de uitgifteprijs van eerste uitgifte als verkrijgingsprijs. Gronden in eeuwigdurende erfpacht worden gewaardeerd tegen registratiewaarde.   
 5.  Van activa waarvan de bestemming verandert, wordt de actuele waarde van de nieuwe bestemming in de toelichting op de balans opgenomen.   
-6.  In afwijking van het eerste lid is waardering tegen actuele waarde toegestaan voor de activa van de Nazorgfondsen bedoeld in [artikel 15.47 van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+6.  In afwijking van het eerste lid is waardering tegen actuele waarde toegestaan voor de activa van de Nazorgfondsen bedoeld in artikel 15.47 van de Wet milieubeheer.   
 7.  Passiva worden gewaardeerd tegen de nominale waarde, met uitzondering van voorzieningen die tegen contante waarde zijn gewaardeerd.   
 8.  Eventuele voorzieningen wegens oninbaarheid worden met de boekwaarde van leningen en vorderingen verrekend.  
 
@@ -1006,15 +1043,17 @@ e. twee leden werkzaam bij of voor de waterschappen;
 
 f. twee leden werkzaam bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;  
 
-g. één lid werkzaam bij het Ministerie van Financiën;  
+g. een lid werkzaam bij het Ministerie van Infrastructuur en Milieu; 
 
-h. één lid werkzaam bij het CBS;  
+h. één lid werkzaam bij het Ministerie van Financiën;  
 
-i. twee leden werkzaam in de provinciale of gemeentelijke accountancy, waarvan één verbonden aan een van de vier grootste gemeenten;  
+i. één lid werkzaam bij het CBS;  
 
-j. één lid werkzaam als gemeentesecretaris;  
+j. twee leden werkzaam in de provinciale of gemeentelijke accountancy, waarvan één verbonden aan een van de vier grootste gemeenten;  
 
-k. één lid werkzaam als raadsgriffier of statengriffier.     
+k. één lid werkzaam als gemeentesecretaris;  
+
+l. één lid werkzaam als raadsgriffier of statengriffier.     
 4.  De leden van de commissie hebben op persoonlijke titel zitting in de commissie en nemen deel aan de vergaderingen zonder last.   
 5.  Onze Minister benoemt en ontslaat de voorzitter, bedoeld in het derde lid, onder a.   
 6.  De voorzitter benoemt de leden, bedoeld in het derde lid, onder b tot en met k. De benoeming geschiedt op voordracht van: 
@@ -1029,17 +1068,19 @@ d. de Unie van Waterschappen voor de leden, bedoeld in het derde lid, onder e;
 
 e. Onze Minister voor de leden, bedoeld in het derde lid, onder f;  
 
-f. Onze Minister van Financiën voor het lid, bedoeld in het derde lid, onder g;  
+f. Onze Minister van Infrastructuur en Milieu voor het lid, bedoeld in het derde lid, onder g;  
 
-g. het CBS voor het lid, bedoeld in het derde lid, onder h;  
+g. Onze Minister van Financiën voor het lid, bedoeld in het derde lid, onder h;  
 
-h. het Koninklijk Nederlands Instituut van Registeraccountants voor de leden, bedoeld in het derde lid onder i;  
+h. het CBS voor het lid, bedoeld in het derde lid, onder i;  
 
-i. de Vereniging van Gemeentesecretarissen voor het lid, bedoeld in het derde lid onder j;  
+i. het Koninklijk Nederlands Instituut van Registeraccountants voor de leden, bedoeld in het derde lid onder j;  
 
-j. de Vereniging van Griffiers voor het lid, bedoeld in het derde lid, onderdeel k.   Bij het besluit tot benoeming houdt de voorzitter rekening met in de commissie noodzakelijke kennis en ervaring.   
+j. de Vereniging van Gemeentesecretarissen voor het lid, bedoeld in het derde lid onder k;  
+
+k. de Vereniging van Griffiers voor het lid, bedoeld in het derde lid onder l.   Bij het besluit tot benoeming houdt de voorzitter rekening met in de commissie noodzakelijke kennis en ervaring.   
 7.  In overleg met de commissie kan de voorzitter een adviseur aanstellen.   
-8.  Het lidmaatschap van de commissie vervalt zodra een lid niet langer werkzaam is op het terrein, aangegeven in het derde lid, dan wel een instantie als genoemd in het zesde lid, onder a tot en met j, een andere persoon voordraagt als lid aan de voorzitter van de commissie.  
+8.  Het lidmaatschap van de commissie vervalt zodra een lid niet langer werkzaam is op het terrein, aangegeven in het derde lid, dan wel een instantie als genoemd in het zesde lid, onder a tot en met k, een andere persoon voordraagt als lid aan de voorzitter van de commissie.  
 
 ### Hoofdstuk  IX  
 
@@ -1058,7 +1099,7 @@ j. de Vereniging van Griffiers voor het lid, bedoeld in het derde lid, onderdeel
 
 ### Artikel  77  
 
-Het [Besluit comptabiliteitsvoorschriften 1995](../../../../../../../../../AMvB/besluit/comptabiliteitsvoorschriften/1995/BWBR0006654/README.md) wordt ingetrokken, met dien verstande dat het voor de begrotingswijzigingen, de jaarrekening en het jaarverslag over het jaar 2003 nog van kracht blijft. 
+Het Besluit comptabiliteitsvoorschriften 1995 wordt ingetrokken, met dien verstande dat het voor de begrotingswijzigingen, de jaarrekening en het jaarverslag over het jaar 2003 nog van kracht blijft. 
 
 ### Artikel  78  
 

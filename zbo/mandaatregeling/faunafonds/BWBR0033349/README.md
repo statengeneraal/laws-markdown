@@ -16,11 +16,11 @@ b.verzoeken tot heroverweging van op bezwaarschrift genomen beslissingen.
 
 a.het bevorderen van maatregelen ter voorkoming en bestrijding van schade door dieren behorende tot bij algemene maatregel van bestuur aangewezen soorten;
 
-b.verzoeken tot het verlenen van een tegemoetkoming in geleden schade, aangericht door dieren behorende tot beschermde inheemse diersoorten als bedoeld in [artikel 83, eerste lid, van de Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);
+b.verzoeken tot het verlenen van een tegemoetkoming in geleden schade, aangericht door dieren behorende tot beschermde inheemse diersoorten als bedoeld in artikel 83, eerste lid, van de Flora- en faunawet;
 
-c.advisering van gedeputeerde staten van de provincies over de uitvoering van taken, hen bij of krachtens de [Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) opgedragen;
+c.advisering van gedeputeerde staten van de provincies over de uitvoering van taken, hen bij of krachtens de Flora- en faunawet opgedragen;
 
-d.advisering aan de Minister van Landbouw, Natuur en Voedselkwaliteit in verband met bestrijding van schade aangericht door dieren, waaronder begrepen advisering over het ontwerp van een algemene maatregel van bestuur als bedoeld in [artikel 65, eerste lid, van de Flora- en faunawet ](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md)en over het ontwerp van een ministeriële regeling als bedoeld in de artikelen 65, derde lid, en [67, eerste lid, van de Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md); 
+d.advisering aan de Minister van Landbouw, Natuur en Voedselkwaliteit in verband met bestrijding van schade aangericht door dieren, waaronder begrepen advisering over het ontwerp van een algemene maatregel van bestuur als bedoeld in artikel 65, eerste lid, van de Flora- en faunawet en over het ontwerp van een ministeriële regeling als bedoeld in de artikelen 65, derde lid, en 67, eerste lid, van de Flora- en faunawet; 
 
 e.het gegrond of ongegrond dan wel niet ontvankelijk verklaren van bezwaarschriften tegen besluiten van het bestuur dan wel de secretaris van het Faunafonds;
 
@@ -33,11 +33,11 @@ h.gemachtigden aan te wijzen die het bestuur in bestuursrechtelijke procedures v
 
 1. Aan de secretaris van het Faunafonds mandaat en volmacht te verlenen om namens het bestuur van het Faunafonds:
 
-a. te beslissen en stukken te ondertekenen betreffende verzoeken tot het verlenen van een tegemoetkoming in geleden schade, aangericht door dieren behorende tot beschermde inheemse diersoorten als bedoeld in [artikel 83, eerste lid, van de Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), indien de getaxeerde schade het bedrag van € 5.000 niet te boven gaat, of indien de aanvrager op grond van [artikel 7, vierde lid, van de Regeling vaststelling beleidsregels schadevergoeding Faunafonds](../../../../zbo/regeling/vaststelling/beleidsregels/schadevergoeding/faunafonds/BWBR0033317/README.md) niet gehouden is tot het treffen van preventieve afweermaatregelen en de getaxeerde schade het bedrag van € 10.000 niet te boven gaat; 
+a. te beslissen en stukken te ondertekenen betreffende verzoeken tot het verlenen van een tegemoetkoming in geleden schade, aangericht door dieren behorende tot beschermde inheemse diersoorten als bedoeld in artikel 83, eerste lid, van de Flora- en faunawet, indien de getaxeerde schade het bedrag van € 5.000 niet te boven gaat, of indien de aanvrager op grond van artikel 7, vierde lid, van de Regeling vaststelling beleidsregels schadevergoeding Faunafonds niet gehouden is tot het treffen van preventieve afweermaatregelen en de getaxeerde schade het bedrag van € 10.000 niet te boven gaat; 
 
-b.bestuursbesluiten te ondertekenen betreffende verzoeken tot het verlenen van een tegemoetkoming in geleden schade, aangericht door dieren behorende tot beschermde inheemse diersoorten als bedoeld in [artikel 83, eerst lid, van de Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), indien de getaxeerde schade het bedrag van € 5.000 te boven gaat;
+b.bestuursbesluiten te ondertekenen betreffende verzoeken tot het verlenen van een tegemoetkoming in geleden schade, aangericht door dieren behorende tot beschermde inheemse diersoorten als bedoeld in artikel 83, eerst lid, van de Flora- en faunawet, indien de getaxeerde schade het bedrag van € 5.000 te boven gaat;
 
-c.bestuursbesluiten te ondertekenen betreffende het uitbrengen van adviezen aan gedeputeerde staten van provincies met betrekking tot [artikel 68, eerste lid, van de Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);
+c.bestuursbesluiten te ondertekenen betreffende het uitbrengen van adviezen aan gedeputeerde staten van provincies met betrekking tot artikel 68, eerste lid, van de Flora- en faunawet;
 
 d.aan het bestuur van het Faunafonds gerichte individuele brieven te beantwoorden en te ondertekenen het werkterrein van het Faunafonds betreffende, voorzover het antwoord zich beperkt tot een beschrijving van het vigerende beleid van het fonds en de inhoud niet van bestuurlijke betekenis is, terwijl ook overigens uit de aard en de inhoud van de desbetreffende brieven niet voortvloeit dat de beantwoording door het bestuur dient te worden ondertekend;
 
@@ -54,7 +54,7 @@ i.betaalopdrachten aan de bank te verstrekken voor door het Faunafonds te verric
 
 ###Artikel 3 
 
-a. De algemeen directeur, de manager en de plaatsvervangend manager Recht en Rechtsbescherming van de Dienst Regelingen van het Ministerie van Economische Zaken, Landbouw en Innovatie zijn gemachtigd om namens het bestuur van het Faunafonds stukken te ondertekenen betreffende: het horen in het openbaar, bedoeld in [artikel 7:5, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), het instellen van hoger beroep of verzet, het indienen van een verzoek om een voorlopige voorziening of een verzoek om opheffing of schorsing van een voorlopige voorziening of het instellen van een ander rechtsmiddel tegen rechterlijke uitspraken in gedingen, waarin het Faunafonds partij was.  
+a. De algemeen directeur, de manager en de plaatsvervangend manager Recht en Rechtsbescherming van de Dienst Regelingen van het Ministerie van Economische Zaken, Landbouw en Innovatie zijn gemachtigd om namens het bestuur van het Faunafonds stukken te ondertekenen betreffende: het horen in het openbaar, bedoeld in artikel 7:5, tweede lid, van de Algemene wet bestuursrecht, het instellen van hoger beroep of verzet, het indienen van een verzoek om een voorlopige voorziening of een verzoek om opheffing of schorsing van een voorlopige voorziening of het instellen van een ander rechtsmiddel tegen rechterlijke uitspraken in gedingen, waarin het Faunafonds partij was.  
 
 b. Juristen werkzaam bij de afdeling Recht en Rechtsbescherming van de Dienst Regelingen te machtigen om het bestuur van het Faunafonds te vertegenwoordigen tijdens terechtzittingen bij de bestuursrechter inzake beroepen tegen besluiten genomen door het bestuur van het Faunafonds en het bestuur van het Faunafonds te vertegenwoordigen bij de afdeling Bestuursrechtspraak van de Raad van State inzake hoger beroepen tegen besluiten van een bestuursrechter.  
 

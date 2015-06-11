@@ -502,11 +502,13 @@ DONE in Paris, this nineteenth day of October 2005, in two authentic copies bear
 
 ###Annex I 
 
-####The 2014 prohibited list World Anti-Doping Code
+####The 2015 prohibited list
 
-Date of entry into force: 1 September 2014 
+World Anti-Doping Code 
 
-In accordance with Article 4.2.2 of the World Anti-Doping Code, all *Prohibited Substances* shall be considered as “Specified Substances” except Substances in classes S1, S2, S.4.4, S.4.5, S6.a, and *Prohibited Methods* M1, M2 and M3.  
+### Date of entry into force: 1 January 2015
+
+In accordance with Article 4.2.2 of the World Anti-Doping Code, all *Prohibited Substances *shall be considered as “*Specified Substances*” except Substances in classes S1, S2, S.4.4, S.4.5, S6.a, and *Prohibited Methods *M1, M2 and M3.  
 
 ####Substances and methods prohibited at all times (in- and out-of-competition)
 
@@ -516,7 +518,7 @@ In accordance with Article 4.2.2 of the World Anti-Doping Code, all *Prohibited 
 
 ####Non-approved substances
 
-Any pharmacological substance which is not addressed by any of the subsequent sections of the List and with no current approval by any governmental regulatory health authority for human therapeutic use (e.g. drugs under pre-clinical or clinical development or discontinued, designer drugs, substances approved only for veterinary use) is prohibited at all times. 
+Any pharmacological substance which is not addressed by any of the subsequent sections of the *List *and with no current approval by any governmental regulatory health authority for human therapeutic use (e.g drugs under pre-clinical or clinical development or discontinued, designer drugs, substances approved only for veterinary use) is prohibited at all times. 
 
 ### S1  
 
@@ -526,69 +528,91 @@ Anabolic agents are prohibited.
 
 1. Anabolic Androgenic Steroids (AAS) 
 
-a. Exogenous<sup> 2) “Exogenous” refers to a substance which is not ordinarily produced by the body naturally. </sup> AAS, including: 1-androstenediol (5α-androst-1-ene-3β,17β-diol); 1-androstenedione (5α-androst-1-ene-3,17-dione); bolandiol (estr-4-ene-3ß, 17ß-diol); bolasterone; boldenone; boldione (androsta-1,4-diene-3,17-dione); calusterone; clostebol; danazol ([1,2]oxazolo[4',5':2,3]pregna-4-en-20-yn-17α-ol); dehydrochlormethyltestosterone (4-chloro-17β-hydroxy-17α-methylandrosta-1,4-dien-3-one); desoxymethyltestosterone (17α-methyl-5α-androst-2-en-17β-ol); drostanolone; ethylestrenol (19- norpregna-4-en-17α-ol); fluoxymesterone; formebolone; furazabol (17α-methyl[1,2,5]oxadiazolo[3',4':2,3]-5α-androstan-17β-ol); gestrinone; 4-hydroxytestosterone (4,17β-dihydroxyandrost-4-en-3-one); mestanolone; mesterolone; metandienone (17β-hydroxy-17α-methylandrosta-1,4-dien-3-one); metenolone; methandriol; methasterone (17β-hydroxy-2α,17α-dimethyl-5α-androstan-3-one); methyldienolone (17β-hydroxy-17α-methylestra-4,9-dien-3-one); methyl-1-testosterone (17β-hydroxy-17α-methyl-5α-androst-1-en-3-one); methylnortestosterone (17β-hydroxy-17α-methylestr-4-en-3-one); methyltestosterone; metribolone (methyltrienolone, 17β-hydroxy-17α-methylestra-4,9,11-trien-3-one); mibolerone; nandrolone; 19-norandrostenedione (estr-4-ene-3,17-dione); norboletone; norclostebol; norethandrolone; oxabolone; oxandrolone; oxymesterone; oxymetholone; prostanozol (17β- [(tetrahydropyran-2-yl)oxy]-1'H-pyrazolo[3,4:2,3]-5α-androstane); quinbolone; stanozolol; stenbolone; 1- testosterone (17β-hydroxy-5α-androst-1-en-3-one); tetrahydrogestrinone (17-hydroxyestr-18a-homo-19- nor-17α-pregna-4,9,11-trien-3-one); trenbolone (17β-hydroxyestr-4,9,11-trien-3-one); and other substances with a similar chemical structure or similar biological effect(s).  
+a. Exogenous<sup> 1) “Exogenous” refers to a substance which is not ordinarily produced by the body naturally. </sup> AAS, including:  *1-androstenediol *(5α-androst-1-ene-3β,17β-diol ); *1-androstenedione *(5α-androst-1-ene-3,17-dione); *bolandiol *(estr-4-ene-3β,17β-diol ); *bolasterone*; *boldenone*; *boldione *(androsta-1,4-diene-3,17-dione); *calusterone*; *clostebol*; *danazol *([1,2]oxazolo[4',5':2,3]pregna-4-en-20-yn-17α-ol); *dehydrochlormethyltestosterone *(4-chloro-17β-hydroxy-17α-methylandrosta-1,4-dien-3-one); *desoxymethyltestosterone *(17α-methyl-5α-androst-2-en-17β-ol); *drostanolone*; *ethylestrenol *(19- norpregna-4-en-17α-ol); *fluoxymesterone*; *formebolone*; *furazabol *(17α-methyl [1,2,5]oxadiazolo[3',4':2,3]-5α-androstan-17β-ol); *gestrinone*; *4-hydroxytestosterone *(4,17β-dihydroxyandrost-4-en-3-one); *mestanolone*; *mesterolone*; *metandienone *(17β-hydroxy-17α-methylandrosta-1,4-dien-3-one); *metenolone*; *methandriol*; *methasterone *(17β-hydroxy-2α,17α-dimethyl-5α-androstan-3-one); *methyldienolone *(17β-hydroxy-17α-methylestra-4,9-dien-3-one); *methyl-1- testosterone *(17β-hydroxy-17α-methyl-5α-androst-1-en-3-one); *methylnortestosterone *(17β-hydroxy-17α-methylestr-4-en-3-one); *methyltestosterone*; *metribolone *(methyltrienolone, 17β-hydroxy-17α-methylestra-4,9,11-trien-3-one); *mibolerone*; *nandrolone*; *19-norandrostenedione *(estr-4-ene-3,17-dione); *norboletone*; *norclostebol*; *norethandrolone*; *oxabolone*; *oxandrolone*; *oxymesterone*; *oxymetholone*; *prostanozol *(17β-[(tetrahydropyran-2-yl)oxy]-1'H-pyrazolo[3,4:2,3]-5α-androstane); *quinbolone*; *stanozolol*; *stenbolone*; *1-testosterone *(17β-hydroxy-5α-androst-1-en-3-one); *tetrahydrogestrinone *(17-hydroxy-18a-homo-19-nor-17α-pregna-4,9,11-trien-3-one); *trenbolone *(17β-hydroxyestr-4,9,11-trien-3-one); and other substances with a similar chemical structure or similar biological effect(s).  
 
-b. Endogenous<sup> 3) “Endogenous” refers to a substance which is ordinarily produced by the body naturally. </sup> AAS when administered exogenously: androstenediol (androst-5-ene-3β,17β-diol); androstenedione (androst-4-ene-3,17-dione); dihydrotestosterone (17β-hydroxy-5α-androstan-3-one) ; prasterone (dehydroepiandrosterone, DHEA, 3β- hydroxyandrost-5-en-17-one); testosterone; and their metabolites and isomers, including but not limited to: 5α-androstane-3α,17α-diol; 5α-androstane-3α,17β-diol; 5α-androstane-3β,17α-diol; 5α-androstane-3β,17β-diol; androst-4-ene-3α,17α-diol; androst-4-ene-3α,17β-diol; androst-4-ene-3β,17α-diol; androst-5-ene-3α,17α-diol; androst-5-ene-3α,17β-diol; androst-5-ene-3β,17α-diol; 4-androstenediol (androst-4-ene-3β,17β-diol); 5-androstenedione (androst-5-ene-3,17-dione); epi-dihydrotestosterone; epitestosterone; etiocholanolone; 3α-hydroxy-5α-androstan-17-one; 3β-hydroxy-5α-androstan-17-one; 7α-hydroxy-DHEA; 7β-hydroxy-DHEA; 7-keto-DHEA; 19-norandrosterone; 19-noretiocholanolone.    
+b. Endogenous<sup> 2) “Endogenous” refers to a substance which is ordinarily produced by the body naturally. </sup> AAS when administered exogenously:  *Androstenediol *(androst-5-ene-3β,17β-diol)*; androstenedione *(androst-4-ene-3,17-dione)*; dihydrotestosterone *(17β-hydroxy-5α-androstan-3-one) *; prasterone *(dehydroepiandrosterone, DHEA, 3β- hydroxyandrost-5-en-17-one)*; testosterone;*  and their *metabolites *and *isomers*, including but not limited to:  *5α-androstane-3α,17α-diol*; *5α-androstane-3α,17β-diol*; *5α-androstane-3β,17α-diol*; *5α-androstane-3β,17β-diol*; *5β-androstane-3α,17β-diol*; *androst-4-ene-3α,17α-diol*; *androst-4-ene-3α,17β-diol*;  *androst-4-ene-3β,17α-diol*; *androst-5-ene-3α,17α-diol*; *androst-5-ene-3α,17β-diol*; *androst-5-ene-3β,17α* *-diol*; *4-androstenediol *(androst-4-ene-3β,17β-diol); *5-androstenedione *(androst-5-ene-3,17-dione); *androsterone *(3β-hydroxy-5α-androstan-17-one); *epi-dihydrotestosterone*; *epitestosterone*; *etiocholanolone*; *7* *α* *-hydroxy-DHEA*; *7* *β* *-hydroxy-DHEA*; *7-keto-DHEA*; *19-norandrosterone*; *19-noretiocholanolone*.    
 
-2. Other Anabolic Agents, including but not limited to: Clenbuterol, selective androgen receptor modulators (SARMs), tibolone, zeranol, zilpaterol.   
+2.  *Other Anabolic Agents, including but not limited to:*   *Clenbuterol*, *selective androgen receptor modulators *(SARMs, e.g. *andarine *and *ostarine*), *tibolone*, *zeranol *and *zilpaterol*.   
 
 ### S2  
 
-####Peptide hormones, growth factors and related substances
+####Peptide hormones, growth factors, related substances and mimetics
 
 The following substances, and other substances with similar chemical structure or similar biological effect(s), are prohibited: 
 
-1. Erythropoiesis-Stimulating Agents [e.g. erythropoietin (EPO), darbepoetin (dEPO), hypoxia-inducible factor (HIF) stabilizers and activators (e.g. xenon, argon), methoxy polyethylene glycol-epoetin beta (CERA), peginesatide (Hematide)];  
+1.  *Erythropoietin-Receptor agonists:*  
 
-2. Chorionic Gonadotrophin (CG) and Luteinizing Hormone (LH) and their releasing factors, in males;  
+1.1.  *Erythropoiesis-Stimulating Agents *(ESAs) including e.g. *darbepoietin *(dEPO); *erythropoietins *(EPO); *EPO-Fc*; *EPO-mimetic peptides *(EMP), e.g. *CNTO 530 *and *peginesatide*; and *methoxy polyethylene glycol-epoetin beta *(CERA);  
 
-3. Corticotrophins and their releasing factors;  
+1.2.  *Non-erythropoietic EPO-Receptor agonists*, e.g. *ARA-290*, *asialo EPO *and *carbamylated EPO*;    
 
-4. Growth Hormone (GH) and its releasing factors and Insulin-like Growth Factor-1 (IGF-1).   In addition, the following growth factors are prohibited Fibroblast Growth Factors (FGFs), Hepatocyte Growth Factor (HGF), Mechano Growth Factors (MGFs), Platelet-Derived Growth Factor (PDGF), Vascular-Endothelial Growth Factor (VEGF) as well as any other growth factor affecting muscle, tendon or ligament protein synthesis/degradation, vascularisation, energy utilisation, regenerative capacity or fibre type switching; and other substances with similar chemical structure or similar biological effect(s). 
+2.  * Hypoxia-inducible factor *(HIF) *stabilizers*, e.g. *cobalt *and *FG-4592*; and *HIF activators*, e.g. *argon*, *xenon*;  
+
+3.  * Chorionic Gonadotrophin *(CG) and *Luteinizing Hormone *(LH) and their releasing factors, e.g. *buserelin, gonadorelin *and *triptorelin*, in males;  
+
+4.   *Corticotrophins *and their releasing factors, e.g *corticorelin*;  
+
+5.  * Growth Hormone *(GH) and its releasing factors including *Growth Hormone Releasing Hormone *(GHRH) and its *analogues*, e.g. *CJC-1295*, *sermorelin *and *tesamorelin*; *Growth Hormone Secretagogues *(GHS), e.g. *ghrelin *and *ghrelin mimetics*, e.g. *anamorelin *and *ipamorelin*; and *GH- Releasing Peptides *(GHRPs), e.g. *alexamorelin*, *GHRP-6*, *hexarelin *and *pralmorelin *(GHRP-2).   Additional prohibited growth factors:  *Fibroblast Growth Factors *(FGFs); *Hepatocyte Growth Factor *(HGF); *Insulin-like Growth Factor-1 *(IGF-1) and its *analogues*; *Mechano Growth Factors *(MGFs); *Platelet-Derived Growth Factor *(PDGF); *Vascular-Endothelial Growth Factor *(VEGF) and any other growth factor affecting muscle, tendon or ligament protein synthesis/degradation, vascularisation, energy utilization, regenerative capacity or fibre type switching. 
 
 ### S3  
 
-####Beta-2 agonists
+####Beta-2-agonists
 
-All beta-2 agonists, including all optical isomers (e.g. *d- *and *l-*) where relevant, are prohibited except inhaled salbutamol (maximum 1600 micrograms over 24 hours), inhaled formoterol (maximum delivered dose 54 micrograms over 24 hours) and salmeterol when taken by inhalation in accordance with the manufacturers' recommended therapeutic regime. The presence in urine of salbutamol in excess of 1000 ng/mL or formoterol in excess of 40 ng/mL is presumed not to be an intended therapeutic use of the substance and will be considered as an *Adverse Analytical Finding *unless the *Athlet*e proves, through a controlled pharmacokinetic study, that the abnormal result was the consequence of the use of the therapeutic inhaled dose up to the maximum indicated above. 
+All *beta-2 agonists*, including all *optical isomers*, e.g. *d- *and *l- *where relevant, are prohibited. Except: 
+
+* Inhaled *salbutamol *(maximum 1600 micrograms over 24 hours);  
+
+* Inhaled *formoterol *(maximum delivered dose 54 micrograms over 24 hours); and  
+
+* Inhaled *salmeterol *in accordance with the manufacturers’ recommended therapeutic regimen.   The presence in urine of salbutamol in excess of 1000 ng/mL or formoterol in excess of 40 ng/mL is presumed not to be an intended therapeutic use of the substance and will be considered as an *Adverse Analytical Finding (AAF) *unless the *Athlete *proves, through a controlled pharmacokinetic study, that the abnormal result was the consequence of the use of the therapeutic inhaled dose up to the maximum indicated above. 
 
 ### S4  
 
 ####Hormone and metabolic modulators
 
-The following are prohibited: 
+The following *hormone *and *metabolic modulators *are prohibited: 
 
-1. Aromatase inhibitors including, but not limited to: aminoglutethimide, anastrozole, androsta-1,4,6-triene-3,17-dione (androstatrienedione), 4-androstene-3,6,17 trione (6-oxo), exemestane, formestane, letrozole, testolactone.  
+1.   *Aromatase inhibitors *including, but not limited to: *aminoglutethimide*; *anastrozole*; *androsta-* *1,4,6-triene-3,17-dione *(androstatrienedione); *4-androstene-3,6,17 trione *(6-oxo); *exemestane*;  *formestane*; *letrozole *and *testolactone.*   
 
-2. Selective estrogen receptor modulators (SERMs) including, but not limited to: raloxifene, tamoxifen, toremifene.  
+2.   *Selective estrogen receptor modulators *(SERMs) including, but not limited to: *raloxifene*;  *tamoxifen *and *toremifene.*   
 
-3. Other anti-estrogenic substances including, but not limited to: clomiphene, cyclofenil, fulvestrant.  
+3. Other *anti-estrogenic substances *including, but not limited to: *clomiphene*; *cyclofenil *and *fulvestrant.*   
 
-4. Agents modifying myostatin function(s) including, but not limited to: myostatin inhibitors.  
+4.  * Agents modifying myostatin function(s) *including, but not limited, to: *myostatin inhibitors.*   
 
-5. Metabolic modulators: 
+5.  *Metabolic modulators:*  
 
-a) Insulins  
+5.1.  *Activators of the AMP-activated protein kinase *(AMPK), e.g. *AICAR*; and *Peroxisome*   *Proliferator Activated Receptor δ *(PPARδ) *agonists*, e.g. *GW 1516*;  
 
-b) Peroxisome Proliferator Activated Receptor δ (PPARδ) agonists (e.g. GW 1516), PPARδ-AMP-activated protein kinase (AMPK) axis agonists (e.g. AICAR).     
+5.2.  *Insulins*;  
+
+5.3.  *Trimetazidine*.     
 
 ### S5  
 
-####Diuretics and other masking agents
+####Diuretics and masking agents
 
-Masking agents are prohibited. They include: Diuretics, desmopressin, plasma expanders (e.g. glycerol; intravenous administration of albumin, dextran, hydroxyethyl starch and mannitol) , probenecid; and other substances with similar biological effect(s). Local administration of felypressin in dental anaesthesia is not prohibited. Diuretics include: Acetazolamide, amiloride, bumetanide, canrenone, chlorthalidone, etacrynic acid, furosemide, indapamide, metolazone, spironolactone, thiazides (e.g. bendroflumethiazide, chlorothiazide, hydrochlorothiazide); triamterene, vaptans (e.g. tolvaptan); and other substances with a similar chemical structure or similar biological effect(s) (except drosperinone, pamabrom and topical dorzolamide and brinzolamide, which are not prohibited). The use *In-* and *Out-of Competition*, as applicable, of any quantity of a substance subject to threshold limits (i.e. formoterol, salbutamol, cathine, ephedrine, methylephedrine and pseudoephedrine) in conjuction with a diuretic or other masking agent requires the deliverance of a specific Therapeutic Use Exemption for that substance in addition to the one granted for the diuretic or other masking agent. 
+The following *diuretics *and *masking agents *are prohibited, as are other substances with a similar chemical structure or similar biological effect(s). Including, but not limited to: 
+
+*  *Desmopressin*; *probenecid*; *plasma expanders*, e.g. *glycerol *and intravenous administration of *albumin*, *dextran*, *hydroxyethyl starch *and *mannitol*.  
+
+*  *Acetazolamide*; *amiloride*; *bumetanide*; *canrenone*; *chlortalidone*; *etacrynic acid*;  *furosemide*; *indapamide*; *metolazone*; *spironolactone*; *thiazides*, e.g.  *bendroflumethiazide*, *chlorothiazide *and *hydrochlorothiazide*; *triamterene *and *vaptans*, e.g. *tolvaptan*.   Except: 
+
+* Drospirenone; pamabrom; and topical dorzolamide and brinzolamide.  
+
+* Local administration of felypressin in dental anaesthesia.   The detection in an *Athlete’s Sample *at all times or *In-Competition*, as applicable, of any quantity of the following substances subject to threshold limits: formoterol, salbutamol, cathine, ephedrine, methylephedrine and pseudoephedrine, in conjunction with a diuretic or masking agent, will be considered as an *Adverse Analytical Finding *unless the *Athlete *has an approved *TUE *for that substance in addition to the one granted for the diuretic or masking agent. 
 
 ####Prohibited methods
 
 ### M1  
 
-####Manipulation of blood and blood components
+#### manipulation of blood and blood components
 
 The following are prohibited: 
 
-1. The administration or reintroduction of any quantity of autologous, allogenic (homologous) or heterologous blood or red blood cell products of any origin into the circulatory system.  
+1. The *Administration *or reintroduction of any quantity of autologous, allogenic (homologous) or heterologous blood, or red blood cell products of any origin into the circulatory system.  
 
-2. Artificially enhancing the uptake, transport or delivery of oxygen, including, but not limited to, perfluorochemicals, efaproxiral (RSR13) and modified haemoglobin products (e.g. haemoglobin-based blood substitutes, microencapsulated haemoglobin products), excluding supplemental oxygen.  
+2. Artificially enhancing the uptake, transport or delivery of oxygen. Including, but not limited to:  *Perfluorochemicals*; *efaproxiral *(RSR13) and *modified haemoglobin products*, e.g. haemoglobin-based blood substitutes and microencapsulated haemoglobin products, excluding supplemental oxygen.  
 
 3. Any form of intravascular manipulation of the blood or blood components by physical or chemical means.   
 
@@ -598,9 +622,9 @@ The following are prohibited:
 
 The following are prohibited: 
 
-1.  *Tampering,* or attempting to tamper, in order to alter the integrity and validity of *Samples *collected during *Doping Control*. These include but are not limited to urine substitution and/or adulteration (e.g. proteases).  
+1.  *Tampering, *or *Attempting to Tamper*, to alter the integrity and validity of *Samples *collected during  *Doping Control*. Including, but not limited to: Urine substitution and/or adulteration, e.g. proteases.  
 
-2. Intravenous infusions and/or injections of more than 50 mL per 6 hours period except for those legitimately received in the course of hospital admissions or clinical investigations.   
+2. Intravenous infusions and/or injections of more than 50 mL per 6 hour period except for those legitimately received in the course of hospital admissions, surgical procedures or clinical investigations.   
 
 ### M3  
 
@@ -614,7 +638,7 @@ The following, with the potential to enhance sport performance, are prohibited:
 
 ####Substances and methods prohibited in-competition
 
-In addition to the categories S0 to S5 and M1 to M3 defined above, the following categories are prohibited *In-Competition*: 
+In addition to the categories S0 to S5 and M1 to M3 defined above, the following categories are prohibited *In-Competition:*  
 
 ####Prohibited substances
 
@@ -622,69 +646,73 @@ In addition to the categories S0 to S5 and M1 to M3 defined above, the following
 
 ####Stimulants
 
-All stimulants, including all optical isomers (e.g. *d-* and *l-*) where relevant, are prohibited, except imidazole derivatives for topical use and those stimulants included in the 2014 Monitoring Program<sup> 4) The following substances included in the 2014 Monitoring Program (bupropion, caffeine, nicotine, phenylephrine, phenylpropanolamine, pipradol, synephrine) are not considered as *Prohibited Substances*. </sup>. Stimulants include: 
+All *stimulants*, including all *optical isomers*, e.g. * *d*- *and * *l*- *where relevant, are prohibited. Stimulants include: 
 
-a. Non Specified Stimulants: Adrafinil; amfepramone; amfetamine; amfetaminil; amiphenazole; benfluorex; benzylpiperazine; bromantan; clobenzorex; cocaine; cropropamide; crotetamide; fencamine; fenetylline; fenfluramine; fenproporex; fonturacetam [4-phenylpiracetam (carphedon)]; furfenorex; mefenorex; mephentermine; mesocarb; metamfetamine(*d*-); *p-*methylamphetamine; modafinil; norfenfluramine; phendimetrazine; phenmetrazine; phentermine; prenylamine; prolintane. A stimulant not expressly listed in this section is a Specified Substance.  
+a:  Non-Specified Stimulants:  *Adrafinil*; *amfepramone*; *amfetamine*; *amfetaminil*; *amiphenazole*; *benfluorex*; *benzylpiperazine*; *bromantan*; *clobenzorex*; *cocaine*; *cropropamide*; *crotetamide*; *fencamine*; *fenetylline*; *fenfluramine*; *fenproporex*; *fonturacetam *[4-phenylpiracetam (carphedon)]; *furfenorex*; *mefenorex*; *mephentermine*; *mesocarb*; *metamfetamine(*d*-)*; *p-methylamphetamine*; *modafinil*; *norfenfluramine*; *phendimetrazine*; *phentermine*; *prenylamine *and *prolintane*. A stimulant not expressly listed in this section is a Specified Substance.  
 
-b. Specified Stimulants (examples): Benzfetamine; cathine<sup> 5) Cathine is prohibited when its concentration in urine is greater than 5 micrograms per milliliter. </sup>; cathinone and its analogues (e.g. mephedrone, methedrone, α-pyrrolidinovalerophenone); dimethylamphetamine; ephedrine<sup> 6) Each of ephedrine and methylephedrine is prohibited when its concentration in urine is greater than 10 micrograms per milliliter. </sup>; epinephrine<sup> 7) Local administration (e.g. nasal, ophtalmologic) of epinephrine (adrenaline) or co-administration with local anaesthetic agents is not prohibited. </sup> (adrenaline); etamivan; etilamfetamine; etilefrine; famprofazone; fenbutrazate; fencamfamin; heptaminol; hydroxyamfetamine (parahydroamphetamine); isometheptene; levmetamfetamine; meclofenoxate; methylenedioxymethamphetamine; methylephedrine<sup> 8) Each of ephedrine and methylephedrine is prohibited when its concentration in urine is greater than 10 micrograms per milliliter. </sup>; methylhexaneamine (dimethylpentylamine); methylphenidate; nikethamide; norfenefrine; octopamine; oxilofrine (methylsynephrine); pemoline; pentetrazol; phenpromethamine; propylhexedrine; pseudoephedrine<sup> 9) Pseudoephedrine is prohibited when its concentration in urine is greater than 150 micrograms per milliliter. </sup>; selegiline; sibutramine; strychnine; tenamfetamine (methylenedioxyamphetamine); trimetazidine; tuaminoheptane; and other substances with a similar chemical structure or similar biological effect(s).   
+b:  Specified Stimulants. Including, but not limited to:  *Benzfetamine*; *cathine* <sup> 3) Cathine: Prohibited when its concentration in urine is greater than 5 micrograms per milliliter. </sup>; *cathinone *and its *analogues*, e.g. *mephedrone*, *methedrone*, and *α-pyrrolidinovalerophenone*; *dimethylamphetamine*; *ephedrine* <sup> 4) Ephedrine and methylephedrine: Prohibited when the concentration of either in urine is greater than 10 micrograms per milliliter. </sup> ; *epinephrine* <sup> 5) Epinephrine (adrenaline): Not prohibited in local administration, e.g. nasal, ophthalmologic, or co-administration with local anaesthetic agents. </sup> (adrenaline); *etamivan*; *etilamfetamine*; *etilefrine*; *famprofazone*; *fenbutrazate*; *fencamfamin*; *heptaminol*; *hydroxyamfetamine *(parahydroxyamphetamine); *isometheptene*; *levmetamfetamine*; *meclofenoxate*; *methylenedioxymethamphetamine*; *methylephedrine<sup> 6) Ephedrine and methylephedrine: Prohibited when the concentration of either in urine is greater than 10 micrograms per milliliter. </sup> *; *methylhexaneamine *(dimethylpentylamine); *methylphenidate*; *nikethamide*; *norfenefrine*; *octopamine*; *oxilofrine *(methylsynephrine); *pemoline*;  *pentetrazol*; *phenethylamine *and its *derivatives*; *phenmetrazine*; *phenpromethamine*; *propylhexedrine*; *pseudoephedrine* <sup> 7) Pseudoephedrine*: *Prohibited when its concentration in urine is greater than 150 micrograms per milliliter. </sup> ; *selegiline*; *sibutramine*; *strychnine*; *tenamfetamine *(methylenedioxyamphetamine), *tuaminoheptane*; and other substances with a similar chemical structure or similar biological effect(s). Except: Imidazole derivatives for topical/ophthalmic use and those stimulants included in the 2015 Monitoring Program<sup> 8) Bupropion, caffeine, nicotine, phenylephrine, phenylpropanolamine, pipradrol, and synephrine: These substances are included in the 2015 Monitoring Program, and are not considered *Prohibited Substances*. </sup>.   
 
 ### S7  
 
 ####Narcotics
 
-The following are prohibited: Buprenorphine, dextromoramide, diamorphine (heroin), fentanyl and its derivatives, hydromorphone, methadone, morphine, oxycodone, oxymorphone, pentazocine, pethidine. 
+Prohibited:  *Buprenorphine*; *dextromoramide*; *diamorphine *(heroin); *fentanyl *and its *derivatives*; *hydromorphone*; *methadone*; *morphine*; *oxycodone*; *oxymorphone*; *pentazocine *and *pethidine*. 
 
 ### S8  
 
 ####Cannabinoids
 
-Natural (e.g. cannabis, hashish, marijuana) or synthetic delta 9-tetrahydrocannabinol (THC) and cannabimimetics (e.g. “Spice”, JWH018, JWH073, HU-210) are prohibited. 
+Prohibited: 
+
+*  *Natural*, e.g. *cannabis*, *hashish *and *marijuana*, or *synthetic *Δ*9-tetrahydrocannabinol *(THC).  
+
+*  *Cannabimimetics*, e.g. “*Spice”*, *JWH-018*, *JWH-073*, *HU-210*.   
 
 ### S9  
 
-####Glucocorticosteroids
+####Glucocorticoids
 
-All glucocorticosteroids are prohibited when administered by oral, intravenous, intramuscular or rectal routes. 
+All *glucocorticoids *are prohibited when administered by oral, intravenous, intramuscular or rectal routes. 
 
 ####Substances prohibited in particular sports
 
 ### P1  
 
-####Alcohol
+####Alcohol 
 
-Alcohol (ethanol) is prohibited *In-Competition* only, in the following sports. Detection will be conducted by analysis of breath and/or blood. The doping violation threshold is equivalent to a blood alcohol concentration of 0.10 g/L. 
+Alcohol (*ethanol*) is prohibited *In-Competition *only, in the following sports. Detection will be conducted by analysis of breath and/or blood. The doping violation threshold is equivalent to a blood alcohol concentration of 0.10 g/L. 
 
-− Air Sports (FAI)  
+* Air Sports (FAI)  
 
-− Archery (WA)  
+* Archery (WA)  
 
-− Automobile (FIA)  
+* Automobile (FIA)  
 
-− Karate (WKF)  
+* Motorcycling (FIM)  
 
-− Motorcycling (FIM)  
-
-− Powerboating (UIM)   
+* Powerboating (UIM)   
 
 ### P2  
 
 ####Beta-blockers
 
-Unless otherwise specified, beta-blockers are prohibited *In-Competition* only, in the following sports. 
+*Beta-blockers *are prohibited *In-Competition *only, in the following sports, and also prohibited *Out-of-Competition *where indicated. 
 
-− Archery (WA) (also prohibited *Out-of-Competition*)  
+* Archery (WA)<sup> 9) Also prohibited *Out-of-Competition*  </sup>   
 
-− Automobile (FIA)  
+* Automobile (FIA)  
 
-− Billiards (all disciplines) (WCBS)  
+* Billiards (all disciplines) (WCBS)  
 
-− Darts (WDF)  
+* Darts (WDF)  
 
-− Golf (IGF)  
+* Golf (IGF)  
 
-− Shooting (ISSF, IPC) (also prohibited *Out-of-Competition*)  
+* Shooting (ISSF, IPC)<sup> 10) Also prohibited *Out-of-Competition*  </sup>   
 
-− Skiing/Snowboarding (FIS) in ski jumping, freestyle aerials/halfpipe and snowboard halfpipe/big air   Beta-blockers include, but are not limited to, the following: Acebutolol, alprenolol, atenolol, betaxolol, bisoprolol, bunolol, carteolol, carvedilol, celiprolol, esmolol, labetalol, levobunolol, metipranolol, metoprolol, nadolol, oxprenolol, pindolol, propranolol, sotalol, timolol. 
+* Skiing/Snowboarding (FIS) in ski jumping, freestyle aerials/halfpipe and snowboard halfpipe/big air  
+
+* Underwater sports (CMAS) in constant-weight apnoea with or without fins, dynamic apnoea with and without fins, free immersion apnoea, Jump Blue apnoea, spearfishing, static apnoea, target shooting and variable weight apnoea.   Including, but not limited to:  *Acebutolol*; *alprenolol*; *atenolol*; *betaxolol*; *bisoprolol*; *bunolol*; *carteolol*; *carvedilol*; *celiprolol*; *esmolol*; *labetalol*; *levobunolol*; *metipranolol*; *metoprolol*; *nadolol*; *oxprenolol*; *pindolol*; *propranolol*; *sotalol *and *timolol.*  
 
 ### ANNEX  II  
 

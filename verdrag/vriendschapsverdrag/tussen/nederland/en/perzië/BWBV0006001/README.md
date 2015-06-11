@@ -67,7 +67,7 @@ De Hooge Verdragsluitende Partijen komen overeen om aan arbitrage te onderwerpen
 
 Dit verdrag zal bekrachtigd worden en de bekrachtigingsoorkonden zullen zoo spoedig mogelijk worden uitgewisseld. Het zal van kracht worden een maand na de uitwisseling der bekrachtigingsoorkonden.
 
-Ter oorkonde waarvan de wederzijdsche gevolmachtigden dit Verdrag hebben geteekend en er hun zegels aan hebben gehecht.Gedaan in Teheran den 12den Maart 1980 (21 esfand mah 1308 Zonnejaar).(*L.S.*) L. P. J. DE DECKER.(*L.S.*) M. FARZINE.
+Ter oorkonde waarvan de wederzijdsche gevolmachtigden dit Verdrag hebben geteekend en er hun zegels aan hebben gehecht.Gedaan in Teheran den 12den Maart 1930 (21 esfand mah 1308 Zonnejaar).(*L.S.*) L. P. J. DE DECKER.(*L.S.*) M. FARZINE.
 
 ####Onderteekeningsprotocol.
 

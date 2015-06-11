@@ -88,7 +88,7 @@ b. de voorwaarden dienen aanwezig te zijn voor een zodanige besluitvorming binne
 ### Artikel  7c  
 
 1.  Een waarborginstelling legt jaarlijks vóór 1 november de vanaf 1 februari daarop volgend te berekenen tarieven voor het onderzoek van werken met het oog op het verkrijgen van stempelmerken als bedoeld in artikel 9, eerste lid, en voor het plaatsen van deze merken ter goedkeuring aan Onze Minister van Economische Zaken voor. Zij worden na goedkeuring door de waarborginstelling in de Staatscourant bekendgemaakt.   
-2.  Onverminderd [artikel 17 van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) kan Onze Minister een goedkeuring als bedoeld in het eerste lid weigeren indien de tarieven hoger zijn dan, uitgaande van een redelijke toerekening van de aan het onderzoek en de stempeling van de desbetreffende werken verbonden kosten, noodzakelijk is.   
+2.  Onverminderd artikel 17 van de Kaderwet zelfstandige bestuursorganen kan Onze Minister een goedkeuring als bedoeld in het eerste lid weigeren indien de tarieven hoger zijn dan, uitgaande van een redelijke toerekening van de aan het onderzoek en de stempeling van de desbetreffende werken verbonden kosten, noodzakelijk is.   
 3.  Het in het eerste lid, eerste volzin, bedoelde besluit omtrent goedkeuring wordt binnen 8 weken na de verzending ter goedkeuring bekendgemaakt.   
 4.  Indien de vanaf 1 februari te berekenen tarieven niet vóór 1 januari daaraan voorafgaand zijn goedgekeurd, kan Onze Minister deze tarieven zelf vaststellen.    
 5.  Van een besluit tot vaststelling van tarieven als bedoeld in het vierde lid wordt door Onze Minister mededeling gedaan door plaatsing in de Staatscourant.   
@@ -104,7 +104,7 @@ Indien Onze Minister van Economische Zaken meer dan één rechtspersoon als bedo
 
 ### Artikel  8  
 
-De [Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is van toepassing, met uitzondering van [artikel 22 van die wet](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md). 
+De Kaderwet zelfstandige bestuursorganen is van toepassing, met uitzondering van artikel 22 van die wet. 
 
 ### HOOFDSTUK  III  
 
@@ -314,7 +314,7 @@ b. in andere gevallen dan bedoeld onder a, voor werken die voorzien zijn van een
 ### Artikel  52  
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de werknemers van een door Onze Minister van Economische Zaken aangewezen rechtspersoon, die daartoe door die rechtspersoon zijn aangewezen.  
-2.  De [Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is van toepassing, met uitzondering van [artikel 22 van die wet](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md). 
+2.  De Kaderwet zelfstandige bestuursorganen is van toepassing, met uitzondering van artikel 22 van die wet. 
 
 ### Artikel  52a  
 
@@ -339,7 +339,7 @@ b. de rechtspersoon is niet een krachtens artikel 7, eerste lid, aangewezen rech
 ### Artikel  54  
 
 1.  De krachtens artikel 52, eerste lid, aangewezen werknemers zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.    
-2.  Zo nodig oefenen zij de in [artikel 5:18 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) genoemde bevoegdheid uit met behulp van de sterke arm.   
+2.  Zo nodig oefenen zij de in artikel 5:18 van de Algemene wet bestuursrecht genoemde bevoegdheid uit met behulp van de sterke arm.   
 
 ### Artikel  55  
 

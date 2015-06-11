@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Verdrag tussen het Koninkrijk België, het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg inzake de integratie van de beveiliging van het luchtruim tegen dreigingen die uitgaan van niet-militaire luchtvaartuigen (renegades)
+##Verdrag tussen het Koninkrijk België, het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg inzake de integratie van de luchtruimbewaking tegen dreigingen die uitgaan van niet-militaire luchtvaartuigen (renegades)
 
 ####Agreement between the Kingdom of Belgium, the Kingdom of the Netherlands and the Grand Duchy of Luxembourg concerning the Integration of Air Security to Respond to Threats Posed by Non-Military (Renegade) Aircraft
 
