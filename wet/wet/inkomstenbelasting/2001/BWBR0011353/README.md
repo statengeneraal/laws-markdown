@@ -3030,12 +3030,12 @@ b.wordt met de houder van winstbewijzen gelijkgesteld degene die slechts gerecht
 
 Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen, met uitzondering van de artikelen 4.6 tot en met 4.8, wordt een recht om aandelen in of winstbewijzen van een vennootschap te verwerven (koopoptie) aangemerkt als een dergelijk aandeel respectievelijk een dergelijk winstbewijs.
 
-###Artikel 4.5 
+### Artikel  4.5  
 
 ####Participaties open fondsen voor gemene rekening
 
-1. Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen worden bewijzen van deelgerechtigdheid in fondsen voor gemene rekening als bedoeld in artikel 2, tweede lid, van de Wet op de vennootschapsbelasting 1969 gelijkgesteld met aandelen in vennootschappen met een in aandelen verdeeld kapitaal en worden de fondsen gelijkgesteld met vennootschappen.
-2. Voor de beoordeling van de vraag of een belastingplichtige een aanmerkelijk belang heeft in een fonds voor gemene rekening wordt zijn bezit aan bewijzen van deelgerechtigdheid in het fonds uitgedrukt als een percentage van de in omloop zijnde bewijzen van deelgerechtigdheid, waarbij andere dan enkelvoudige bewijzen van deelgerechtigdheid worden herleid tot een daarmee overeenstemmend aantal enkelvoudige bewijzen.
+1.  Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen worden bewijzen van deelgerechtigdheid in fondsen voor gemene rekening als bedoeld in artikel 2, derde lid, van de Wet op de vennootschapsbelasting 1969 gelijkgesteld met aandelen in vennootschappen met een in aandelen verdeeld kapitaal en worden de fondsen gelijkgesteld met vennootschappen.   
+2.  Voor de beoordeling van de vraag of een belastingplichtige een aanmerkelijk belang heeft in een fonds voor gemene rekening wordt zijn bezit aan bewijzen van deelgerechtigdheid in het fonds uitgedrukt als een percentage van de in omloop zijnde bewijzen van deelgerechtigdheid, waarbij andere dan enkelvoudige bewijzen van deelgerechtigdheid worden herleid tot een daarmee overeenstemmend aantal enkelvoudige bewijzen.  
 
 ### Artikel  4.5a  
 

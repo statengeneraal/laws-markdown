@@ -10,32 +10,26 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de Wet op het fin
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt de Wet op het financieel toezicht. 
 
 ### Artikel  Ia  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt het Burgerlijk Wetboek Boek 2. 
 
 ### Artikel  Ib  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt de Faillissementswet. 
 
 ### Artikel  II  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Een vergunning voor de uitoefening van het bedrijf van bank, verleend op grond van artikel 2:11 van de Wet op het financieel toezicht, zoals dat artikel luidde voor de inwerkingtreding van artikel I, onderdeel CC, wordt voor de toepassing van de Wet op het financieel toezicht gelijkgesteld met een door de Europese Centrale Bank verleende vergunning. 
 
 ### Artikel  III  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  IV  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Deze wet wordt aangehaald als: Uitvoeringswet verordening bankentoezicht. 
 

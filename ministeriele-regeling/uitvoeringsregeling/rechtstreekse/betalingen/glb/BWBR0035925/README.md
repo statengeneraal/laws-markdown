@@ -109,7 +109,8 @@ a. rechtspersonen als bedoeld in artikel 1, eerste en tweede lid, van Boek 2 van
 b. bestuursorganen als bedoeld in artikel 1:1, eerste lid, van de Algemene wet bestuursrecht, en  
 
 c. al dan niet als belastingplichtige aangemerkte lichamen als bedoeld in artikel 2, zevende lid, van de Wet op de vennootschapsbelasting 1969.     
-4.  De verifieerbare bewijzen, bedoeld in artikel 9, tweede lid, derde alinea, onderdelen a en b, van Verordening (EU) nr. 1307/2013 bestaan uit een accountantsverklaring dat het desbetreffende feit zich voordoet.  
+4.  De verifieerbare bewijzen, bedoeld in artikel 9, tweede lid, derde alinea, onderdelen a en b, van Verordening (EU) nr. 1307/2013 bestaan uit een accountantsverklaring dat het desbetreffende feit zich voordoet.   
+5.  In afwijking van het tweede lid worden voor 2015 geen rechtstreekse betalingen toegekend aan landbouwers die niet uiterlijk op 15 juni 2015 zijn ingeschreven of waarvan de onderneming niet uiterlijk op 15 juni 2015 is ingeschreven in het handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 2007, onder de vermelding van de verkorte omschrijving van een landbouwactiviteit, overeenkomstig artikel 11, onderdeel b, of artikel 15, eerste lid, onderdeel a, van het Handelsregisterbesluit 2008. 
 
 ### Artikel  2.4  
 
@@ -439,7 +440,8 @@ b. niet kan aantonen dat hij jaarlijks ten minste 20 uur opleiding heeft gevolgd
 2.  De verzamelaanvraag wordt volledig en naar waarheid door de landbouwer ingevuld, ondertekend en gedagtekend met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.   
 3.  Behoudens de toepassing van artikel 12, eerste alinea, van Verordening (EU) nr. 640/2014 wordt de verzamelaanvraag in de periode van 1 april tot en met 15 mei ingediend bij de minister.   
 4.  Bij de verzamelaanvraag legt de landbouwer alle bewijsstukken over die de minister nodig acht voor de beoordeling van de aanvraag.   
-5.  De landbouwer die aanspraak maakt op de steun, bedoeld in artikel 2.1, tweede lid, onderdeel d, verleent de minister toestemming om de gegevens die over zijn bedrijf zijn opgenomen in de I&R-systemen, bedoeld in artikel 14, onderdeel a, en artikel 34, onderdeel a, van de Regeling identificatie en registratie van dieren, te verwerken ten behoeve van de controle op de naleving van deze regeling.  
+5.  De landbouwer die aanspraak maakt op de steun, bedoeld in artikel 2.1, tweede lid, onderdeel d, verleent de minister toestemming om de gegevens die over zijn bedrijf zijn opgenomen in de I&R-systemen, bedoeld in artikel 14, onderdeel a, en artikel 34, onderdeel a, van de Regeling identificatie en registratie van dieren, te verwerken ten behoeve van de controle op de naleving van deze regeling.   
+6.  In afwijking van het derde lid wordt de verzamelaanvraag in het kalenderjaar 2015 bij de minister ingediend in de periode van 1 april tot en met 15 juni. 
 
 ### Artikel  4.3  
 

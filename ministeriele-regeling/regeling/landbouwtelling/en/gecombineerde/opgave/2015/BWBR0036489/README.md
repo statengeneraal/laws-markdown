@@ -53,7 +53,7 @@ In deze regeling wordt verstaan onder:
 ### Artikel  2  
 
 1.  Het formulier is een beschrijvingsbiljet als bedoeld in artikel 24, eerste lid, van de Landbouwwet.   
-2.  Degene aan wie de minister een beschrijvingsbiljet langs schriftelijke of elektronische weg heeft toegezonden dient dit uiterlijk op 15 mei 2015 ingevuld en ondertekend bij de minister in.   
+2.  Degene aan wie de minister een beschrijvingsbiljet langs schriftelijke of elektronische weg heeft toegezonden dient dit uiterlijk op 15 juni 2015 ingevuld en ondertekend bij de minister in.   
 3.  Een landbouwer verstrekt gegevens als bedoeld in artikel 26, eerste lid, van het Uitvoeringsbesluit Meststoffenwet door middel van het formulier.   
 4.  Ter uitvoering van de artikelen 28 en 36, eerste lid, onderdeel a, van Verordening (EU) nr. 1305/2013, artikel 72 van Verordening (EU) nr. 1306/2013 en de artikelen 12, 24, 30, 32 en 33 van Verordening (EU) nr. 1307/2013 dient het formulier voor: 
 
@@ -86,7 +86,7 @@ c. de naam van het gewas waarmee een perceel zal worden beteeld, als dat niet is
 ### Artikel  5  
 
 1.  Betalingen uit het Diergezondheidsfonds voor maatregelen en voorzieningen die verband houden met de preventie en de bestrijding van besmettelijke dierziekten worden verricht met inachtneming van Deel I en Deel II, onderdeel 1.2.1.3, van de staatssteunrichtsnoeren.   
-2.  Om aanspraak te kunnen maken op betalingen die verband houden met preventie van besmettelijke dierziekten als bedoeld in het eerste lid, in de periode die loopt van 15 mei 2015 tot 15 mei 2016, dient door de houder uiterlijk op 15 mei 2015 bij de minister een daartoe strekkende opgave te zijn ingediend door middel van het formulier Diergezondheidsfonds.   
+2.  Om aanspraak te kunnen maken op betalingen die verband houden met preventie van besmettelijke dierziekten als bedoeld in het eerste lid, in de periode die loopt van 15 mei 2015 tot 15 mei 2016, dient door de houder uiterlijk op 15 juni 2015 bij de minister een daartoe strekkende opgave te zijn ingediend door middel van het formulier Diergezondheidsfonds.   
 3.  De houder kan geen aanspraak maken op betalingen als bedoeld in het eerste lid, indien: 
 
 a. de onderneming die de houder drijft, een onderneming in moeilijkheden is als bedoeld in punt 35, onderdeel 15, van de staatssteunrichtsnoeren; of  
@@ -180,9 +180,9 @@ S.A.M. Dijksma
 ![255160](http://wetten.overheid.nl/Illustration/255160)
 ![255161](http://wetten.overheid.nl/Illustration/255161)
 ![255162](http://wetten.overheid.nl/Illustration/255162)
-![255163](http://wetten.overheid.nl/Illustration/255163)
-![255164](http://wetten.overheid.nl/Illustration/255164)
-![255165](http://wetten.overheid.nl/Illustration/255165)
+![255386](http://wetten.overheid.nl/Illustration/255386)
+![255389](http://wetten.overheid.nl/Illustration/255389)
+![255388](http://wetten.overheid.nl/Illustration/255388)
 ![255166](http://wetten.overheid.nl/Illustration/255166)
 ![255167](http://wetten.overheid.nl/Illustration/255167)
 ![255168](http://wetten.overheid.nl/Illustration/255168)

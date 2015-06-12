@@ -7,14 +7,10 @@ Ingangsdatum: 1 februari 2015
 
 ####Algemene bepalingen
 
-Materieel uitgewerkt per 14-01-2015 
-
 Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet op de Wet budgettering wachtgelden en instelling Participatiefonds (Stb. 1995, 155), het Besluit Participatiefonds (Stb. 1996, 384) en de statuten van de Stichting Participatiefonds voor het Onderwijs, het volgende reglement voor het Primair Onderwijs vast te stellen.   
 ### Paragraaf  1.1  
 
 ####Begripsbepalingen
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  *Afvloeiingsvolgorde:* de volgorde waarin werknemers conform hoofdstuk 10.4 van de CAO-PO voor afvloeiing in aanmerking komt. Hierin is tevens het niet voortzetten van een tijdelijk dienstverband betrokken. Hoofdregel is dat eerst alle werknemers met een tijdelijk dienstverband dienen te zijn afgevloeid voordat het dienstverband van werknemers met een vast dienstverband kan worden beëindigd.  
 
@@ -125,19 +121,13 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Premie
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Paragraaf  2.1  
 
 ####verplichting tot betaling van premie
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  2:1  
 
 ####Doel van de premie
-
-Materieel uitgewerkt per 14-01-2015 
 
 De werkgever is verplicht, op de wijze zoals bepaald in de bestuursvoorschriften, een door het Participatiefonds te bepalen bijdrage te voldoen in verband met de kosten voor werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de Ziektewet. 
 
@@ -145,13 +135,9 @@ De werkgever is verplicht, op de wijze zoals bepaald in de bestuursvoorschriften
 
 ####Restitutie van premie aan regionale transfercentra (onder voorbehoud van goedkeuring van het sectorplan door SZW)
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  2:2  
 
 ####Premierestitutie bij subsidie samenwerkende werkgevers
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Werkgevers die een subsidie ontvangen als bedoeld in de subsidieregeling Regionale Transfercentra PO, kunnen een verzoek indienen bij het Participatiefonds om eenmalig als samenwerkende werkgevers een restitutie van de premie van het Participatiefonds te ontvangen.   
 2.  De in het eerste lid bedoelde restitutie bedraagt € 50.000,-- en wordt bij toekenning uitgekeerd aan de penvoerder van het regionaal transfercentrum als bedoeld in artikel 5 van de subsidieregeling Regionale Transfercentra PO.   
@@ -169,19 +155,13 @@ c. Het regionaal transfercentrum heeft een door het Vervangingsfonds bekostigde 
 
 ####Vergoedingsverzoeken
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Paragraaf  3.1  
 
 ####Vergoedingsverzoeken
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  3:1  
 
 ####Vergoedingsverzoek
-
-Materieel uitgewerkt per 14-01-2015 
 
 De werkgever: 
 
@@ -193,15 +173,11 @@ b. die wenst dat de uitkeringskosten die op grond van artikel 138, tweede lid, v
 
 ####Wijze van indiening vergoedingsverzoek
 
-Materieel uitgewerkt per 14-01-2015 
-
 De werkgever maakt bij de indiening van het vergoedingsverzoek gebruik van de module ‘vergoedingsverzoeken’ op de website www.participatiefonds.nl. 
 
 ### Artikel  3:3  
 
 ####Vereisten vergoedingsverzoek
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever legt bij de indiening van het vergoedingsverzoek de gegevens en de documenten over die het Participatiefonds middels de module ‘vergoedingsverzoeken’ opvraagt.   
 2.  De werkgever die niet of niet volledig aan het bepaalde in het eerste lid kan voldoen deelt dit aan het Participatiefonds mee onder opgaaf van een deugdelijke motivering door toezending van ter zake overtuigende documenten  
@@ -209,8 +185,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  3:4  
 
 ####Onvolledig vergoedingsverzoek
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Als het Participatiefonds vaststelt, dat de gegevens en documenten die de werkgever bij het vergoedingsverzoek indient, onvoldoende zijn voor de beoordeling van het vergoedingsverzoek, stelt het Participatiefonds de werkgever in de gelegenheid het vergoedingsverzoek aan te vullen.   
 2.  De werkgever vult het vergoedingsverzoek aan binnen 8 weken.   
@@ -221,15 +195,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grond voor toewijzing vergoedingsverzoek
 
-Materieel uitgewerkt per 14-01-2015 
-
 Het Participatiefonds wijst een vergoedingsverzoek uitsluitend toe als de werkgever voldoet aan de voorwaarden die zijn gesteld in de bepalingen van dit reglement, behoudens het bepaalde in artikel 3:6. 
 
 ### Artikel  3:6  
 
 ####Gronden voor afwijzing vergoedingsverzoek
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Het Participatiefonds wijst een vergoedingsverzoek in ieder geval af als: 
 
@@ -248,8 +218,6 @@ e. het beëindigen van een dienstverband of het niet voortzetten van een tijdeli
 
 ####Beslistermijn
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Het Participatiefonds geeft binnen 8 weken nadat het vergoedingsverzoek is ontvangen een beschikking over het vergoedingsverzoek.   
 2.  Als een beschikking niet binnen 8 weken nadat het vergoedingsverzoek is ontvangen kan worden gegeven, deelt het Participatiefonds aan de werkgever mee, dat de beschikking uiterlijk binnen 16 weken nadat het vergoedingsverzoek is ontvangen tegemoet kan worden gezien.   
 3.  De beslistermijn wordt van rechtswege opgeschort met ingang van de dag waarop het Participatiefonds de werkgever op grond van artikel 3:4 uitnodigt het vergoedingsverzoek aan te vullen, tot de dag waarop het vergoedingsverzoek is aangevuld of de daarvoor gestelde termijn ongebruikt is verstreken.  
@@ -258,21 +226,15 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Uitkeringskosten
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  3:8  
 
 ####Uitnodiging tot verstrekken inlichtingen
-
-Materieel uitgewerkt per 14-01-2015 
 
 Als uitkeringskosten als bedoeld in artikel 138, tweede lid, van de WPO of artikel 132, tweede lid, van de WEC zijn ontstaan, waarvan het Participatiefonds niet kan vaststellen dat het Participatiefonds ermee heeft ingestemd dat de uitkeringskosten ten laste van het Participatiefonds komen, nodigt het Participatiefonds de werkgever uit inlichtingen te verstrekken. 
 
 ### Artikel  3:9  
 
 ####Indieningstermijn inlichtingen
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever verstrekt de inlichtingen, zoals bedoeld in artikel 3:8, binnen 8 weken.   
 2.  De termijn vangt aan met ingang van de dag na die waarop de uitnodiging is verzonden.   
@@ -282,8 +244,6 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Te late indiening inlichtingen
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Als de werkgever niet tijdig de gevraagde inlichtingen verstrekt, besluit het Participatiefonds dat de uitkeringskosten als bedoeld in artikel 138, tweede lid, van de WPO of artikel 132, tweede lid, van de WEC, niet ten laste van het Participatiefonds komen.   
 2.  Als het Participatiefonds de beschikking als bedoeld in het eerste lid neemt, deelt het de Minister van Onderwijs, Cultuur en Wetenschap mee, dat de uitkeringskosten als bedoeld in artikel 138, tweede lid, van de WPO of artikel 132, tweede lid, van de WEC, niet ten laste van het Participatiefonds komen.  
 
@@ -291,23 +251,17 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Verschoonbare termijnoverschrijding
 
-Materieel uitgewerkt per 14-01-2015 
-
 Het Participatiefonds werpt de werkgever overschrijding van de termijn als bedoeld in artikel 3:9 niet tegen als redelijkerwijs niet kan worden geoordeeld dat de werkgever in verzuim is geweest. 
 
 ### Artikel  3:12  
 
 ####Wijze van verstrekken van inlichtingen
 
-Materieel uitgewerkt per 14-01-2015 
-
 De werkgever maakt bij het verstrekken van de inlichtingen als bedoeld in artikel 3:8 gebruik van de module ‘uitkeringen’ op de website www.participatiefonds.nl 
 
 ### Artikel  3:13  
 
 ####Werkgever heeft reeds vergoedingsverzoek gedaan
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever die wenst, dat de uitkeringskosten die op grond van artikel 138, tweede lid, van de WPO of artikel 132, tweede lid, van de WEC voor rekening van de werkgever komen, ten laste van het Participatiefonds worden gebracht, en die daarvoor reeds een vergoedingsverzoek heeft ingediend, verstrekt de inlichtingen die het Participatiefonds verzoekt.   
 2.  De artikelen 3:4 tot en met 3:7 zijn van toepassing.  
@@ -316,16 +270,12 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Werkgever wenst dat de uitkeringskosten ten laste van Participatiefonds komen
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever die wenst, dat de uitkeringskosten die op grond van artikel 138, tweede lid, van de WPO of artikel 132, tweede lid, van de WEC voor rekening van de werkgever komen, ten laste van het Participatiefonds worden gebracht, dient alsnog een vergoedingsverzoek in.   
 2.  De artikelen 3:3 tot en met 3:7 zijn van toepassing.  
 
 ### Artikel  3:15  
 
 ####Werkgever wenst niet dat de uitkeringskosten ten laste van Participatiefonds komen
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever die niet wenst dat de uitkeringskosten als bedoeld in artikel 138, tweede lid, van de WPO of artikel 132, tweede lid, van de WEC, ten laste van het Participatiefonds komen, deelt dit aan het Participatiefonds mee.   
 2.  Het Participatiefonds geeft binnen 8 weken nadat de werkgever de mededeling doet een beschikking, inhoudende dat de uitkeringskosten als bedoeld in artikel 138, tweede lid, van de WPO of artikel 132, tweede lid, van de WEC, niet ten laste van het Participatiefonds komen.   
@@ -335,16 +285,12 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Gemoedsbezwaarden
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever aan wie de Minister van Onderwijs, Cultuur en Wetenschap op grond van artikel 184, derde lid, van de WPO ontheffing heeft verleend, deelt aan het Participatiefonds mee dat hij gemoedsbezwaarde is.   
 2.  Het Participatiefonds deelt het de Minister van Onderwijs, Cultuur en Wetenschap mee, dat de uitkeringskosten als bedoeld in artikel 138, tweede lid, van de WPO of artikel 132, tweede lid, van de WEC, niet ten laste van het Participatiefonds komen.  
 
 ### Artikel  3:17  
 
 ####Zelfstandig wachtgeldbeleid
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever die zelfstandig wachtgeld-beleid als bedoeld in artikel 2 van het Reglement Participatiefonds voor het Primair Onderwijs 1998-1999 voert, deelt aan het Participatiefonds mee dat hij zelfstandig wachtgeldbeleid voert.   
 2.  Het Participatiefonds deelt het de Minister van Onderwijs, Cultuur en Wetenschap mee, dat de uitkeringskosten als bedoeld in artikel 138, tweede lid, van de WPO of artikel 132, tweede lid, van de WEC, niet ten laste van het Participatiefonds komen.   
@@ -354,13 +300,9 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Rechtsmiddelen tegen ontslagbesluit
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  3:18  
 
 ####Mededeling bezwaar tegen ontslagbesluit en opschorting beslistermijn
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Als de werknemer tegen het ontslag een rechtsmiddel heeft aangewend, deelt de werkgever dit aan het Participatiefonds mee.   
 2.  Als het ontslagbesluit onherroepelijk is geworden, deelt de werkgever dit aan de Participatiefonds mee.   
@@ -370,13 +312,9 @@ Materieel uitgewerkt per 14-01-2015
 
 ####intrekking of wijziging van de beschikking
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  3:19  
 
 ####Gronden voor intrekking en wijziging
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Het Participatiefonds is bevoegd de beschikking te wijzigen of in te trekken ten nadele van de werkgever: 
 
@@ -391,13 +329,9 @@ c. als in verband met verandering van wetgeving, gewijzigde omstandigheden of ge
 
 ####toets re-integratieactiviteiten voorafgaand aan ontslag
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  3:20  
 
 ####Verzoek voorafgaande toets re-integratieactiviteiten
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Als de werkgever de werknemer andere activiteiten dan genoemd in Hoofdstuk 4 en 5 aanbiedt of reeds heeft aangeboden die de werknemer ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie, kan de werkgever het Participatiefonds vragen of deze andere activiteiten door het Participatiefonds worden aangemerkt als tenminste gelijkwaardig aan de activiteiten genoemd in Hoofdstuk 4 en 5, in welk geval de werkgever geacht wordt te hebben voldaan aan voorwaarde 4.   
 2.  Het Participatiefonds geeft het advies uiterlijk binnen 16 weken nadat het adviesverzoek is ontvangen.  
@@ -406,13 +340,9 @@ Materieel uitgewerkt per 14-01-2015
 
 ####medewerking controle
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  3:21  
 
 ####Medewerking rechtmatigheidscontroles
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever verleent medewerking aan een controle door of namens het Participatiefonds die gericht is op de beoordeling van de rechtmatigheid van een beschikking als bedoeld in dit hoofdstuk.   
 2.  De werkgever draagt gedurende een periode van 5 jaar zorg voor een deugdelijke administratie die op een centraal punt is in te zien en geeft hier desgevraagd inzage in.  
@@ -421,13 +351,9 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Hoofdelijke aansprakelijkheid
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  3:22  
 
 ####Hoofdelijke aansprakelijkheid
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever die participeert in een samenwerkingsverband waar na de beëindiging van een dienstverband of het niet verlengen van een tijdelijk dienstverband een werkloosheidsuitkering of een uitkering wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de Ziektewet van een school of een Centrale Dienst dan wel Samenwerkingsverband voortvloeit ten gevolge van de inzet of een wijziging van de inzet van de in artikel 120, vierde lid, en artikel 132 WPO bedoelde bekostiging ten opzichte van voorafgaande schooljaren, heeft voorafgaand aan de beëindiging van het dienstverband van dat personeel 
 
@@ -440,19 +366,13 @@ b. over de personele gevolgen volgens de strekking van de tripartiete overeenkom
 
 ####Beeindigingsgronden bijzonder onderwijs
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Paragraaf  4.1  
 
 ####Persoonsgebonden beëindigingsgronden bij een vast dienstverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  4:1  
 
 ####Grondslag vergoedingsverzoek: beëindiging van het dienstverband door opzegging (artikel 3.7, eerste lid, CAO PO)
-
-Materieel uitgewerkt per 14-01-2015 
 
 Als ontslag is genomen op grond van artikel 3.7, eerste lid, van de CAO PO, beëindiging van het dienstverband op verzoek van de werknemer, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:1:1 heeft voldaan en de in het artikel genoemde documenten heeft overgelegd. 
 
@@ -460,15 +380,11 @@ Als ontslag is genomen op grond van artikel 3.7, eerste lid, van de CAO PO, beë
 
 ####Meedelen reden ontslag
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever overlegt documenten, opgesteld voorafgaand aan de einddatum, waaruit blijkt dat de werknemer de werkgever heeft medegedeeld dat hij het dienstverband wenst te beëindigen.  
 
 ### Artikel  4:2  
 
 ####Grondslag vergoedingsverzoek: artikel 3.7, tweede lid, CAO PO: beëindiging van het dienstverband vanwege dringende reden
-
-Materieel uitgewerkt per 14-01-2015 
 
 Als het dienstverband is beëindigd wegens dringende reden (ontslag op staande voet) kan geen vergoedingsverzoek worden ingediend. De werkgever wordt geadviseerd om, in geval van beëindiging vanwege dringende reden, UWV daarover te informeren en van die melding aan UWV het Participatiefonds weer in kennis te stellen. 
 
@@ -476,15 +392,11 @@ Als het dienstverband is beëindigd wegens dringende reden (ontslag op staande v
 
 ####Grondslag vergoedingsverzoek: ontbinding arbeidsovereenkomst door Kantonrechter (artikel 3.7, derde lid, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het dienstverband is ontbonden op grond van 7:685 BW (uitspraak kantonrechter) conform artikel 3.7, derde lid, van de CAO PO, dan komt de werkgever voor toewijzing van het vergoedingsverzoeking in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:3:1 tot en met 4:3:2 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:3:1  
 
 ####ontbinding arbeidsovereenkomst door kantonrechter
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Het dienstverband van de werknemer is beëindigd door een uitspraak van de kantonrechter.   
 2.  De werkgever legt daartoe over de beschikking van de kantonrechter.   
@@ -493,8 +405,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:3:2  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -516,15 +426,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 3.7, vierde lid, CAO PO) vanwege onbekwaamheid/ongeschiktheid (artikel 3.8, tweede lid, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het dienstverband is beëindigd op grond artikel 3.7 vierde lid, van de CAO PO, te weten met wederzijds goedvinden met als reden dat er naar het oordeel van de werkgever sprake is van onbekwaamheid of ongeschiktheid van de werknemer voor de door hem uitgeoefende functie, zoals bedoeld in artikel 3.8, tweede lid, van de CAO PO, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden van artikel 4:4:1 tot en met 4:4:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:4:1  
 
 ####Meedelen reden beëindiging van het dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
@@ -532,8 +438,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:4:2  
 
 ####Inspanning behoud werknemer voor eigen functie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Voorafgaand aan de beëindiging dienstverband heeft de werkgever zich ingespannen om de werknemer voor zijn eigen functie te behouden. Uiteindelijk heeft hij geconcludeerd dat dit niet mogelijk is.   
 2.  De werkgever legt daartoe over de modelverklaring ‘gesprekkencyclus’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd: 
@@ -550,16 +454,12 @@ d. de conclusie dat het verbetertraject niet of onvoldoende tot de noodzakelijke
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.  
 
 ### Artikel  4:4:4  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -581,15 +481,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 3.7, vierde lid, CAO PO) vanwege ziekte/arbeidsongeschiktheid (artikel 3.8, vijfde lid, CAO PO) van de werknemer voor minder dan 35% WIA
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het dienstverband van de werknemer die minder dan 35% arbeidsongeschikt is verklaard door het UWV in het kader van de WIA is beëindigd op grond van artikel 3.7, vierde lid, van de CAO PO, te weten met wederzijds goedvinden met als reden dat er naar het oordeel van de werkgever sprake is van ziekte of arbeidsongeschiktheid, zoals bedoeld in artikel 3.8, vijfde lid, van de CAO PO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:5:1 tot en met 4:5:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:5:1  
 
 ####Meedelen reden beëindiging dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de beëindigingsovereenkomst.   
@@ -598,8 +494,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:5:2  
 
 ####Inspanning behoud werknemer voor eigen functie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Voorafgaand aan de beëindiging dienstverband heeft de werkgever zich ingespannen om de werknemer voor zijn eigen functie te behouden. Uiteindelijk heeft hij geconcludeerd dat dit niet mogelijk is.   
 2.  De werkgever legt daartoe over de modelverklaring ‘gesprekkencyclus ziekte en arbeidsongeschiktheid’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd: 
@@ -614,16 +508,12 @@ c. de conclusie dat het niet mogelijk is de eigen functie van de werknemer aan t
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘herplaatsingsonderzoek ziekte en arbeidsongeschiktheid’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.  
 
 ### Artikel  4:5:4  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -645,15 +535,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 3.7, vierde lid, CAO PO) vanwege gewichtige omstandigheden (artikel 3.8, zevende lid, CAO PO) te weten kwalitatieve fricties
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het dienstverband is beëindigd op grond van artikel 3.7, vierde lid, CAO PO, met als reden dat er naar het oordeel van de werkgever sprake is gewichtige omstandigheden, zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties omdat het naar het oordeel van de werkgever anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:6:1 tot en met 4:6:7 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:6:1  
 
 ####Meedelen reden beëindiging dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over de beëindigingsovereenkomst.   
@@ -662,8 +548,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:6:2  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -683,8 +567,6 @@ d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.6.2 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4.6.3.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.6.2 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
@@ -699,8 +581,6 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ####Toetsingsdatum
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet of beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten of beëindigen van het dienstverband.   
 3.  Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.7 en 10.4, zesde lid, van de CAO-PO niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.  
@@ -709,15 +589,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Afvloeiingsvolgorde
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betreft die in een vast dienstverband was of waren benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
 
 ### Artikel  4:6:6  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -739,15 +615,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (Artikel 3.7, vierde lid, CAO PO) vanwege gewichtige omstandigheden
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het dienstverband is beëindigd op grond van artikel 3.7 vierde lid, van de CAO PO, te weten met wederzijds goedvinden met als reden dat er naar het oordeel van de werkgever sprake is gewichtige omstandigheden, zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden van artikel 4:7:1 tot en met 4:7:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:7:1  
 
 ####Meedelen reden beëindiging van het dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
@@ -755,8 +627,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:7:2  
 
 ####Inspanning behoud werknemer voor eigen functie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Voorafgaand aan de beëindiging dienstverband heeft de werkgever zich ingespannen om de werknemer voor zijn eigen functie te behouden. Uiteindelijk heeft hij geconcludeerd dat dit niet mogelijk is.   
 2.  De werkgever legt daartoe over de modelverklaring ‘gesprekkencyclus’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd: 
@@ -773,16 +643,12 @@ d. de conclusie dat het verbetertraject niet of onvoldoende tot de noodzakelijke
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.  
 
 ### Artikel  4:7:4  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -804,15 +670,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: plichtsverzuim (Artikel 3.8, eerste lid, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als ontslag is verleend op grond van artikel 3.8, eerste lid, van de CAO PO, te weten op grond van plichtsverzuim als bedoeld in artikel 3.17, tweede lid, van de CAO PO, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:8:1 heeft voldaan en de in het artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:8:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit waaruit onderbouwd blijkt dat de werknemer zich schuldig heeft gemaakt aan plichtsverzuim.  
@@ -821,15 +683,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: onbekwaamheid/ongeschiktheid (Artikel 3.8, tweede lid, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als ontslag is verleend op grond van artikel 3.8, tweede lid, van de CAO PO, te weten op grond van onbekwaamheid of ongeschiktheid van de werknemer voor de door hem uitgeoefende functie, anders dan ten gevolge van ziekte of arbeidsongeschiktheid als bedoeld in artikel 3.8, vijfde lid, van de CAO PO, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:9:1 tot en met 4:9:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:9:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit.  
@@ -837,8 +695,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:9:2  
 
 ####Inspanning behoud werknemer voor eigen functie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Voorafgaand aan het ontslag heeft de werkgever zich ingespannen om de werknemer voor zijn eigen functie te behouden. Uiteindelijk heeft hij geconcludeerd dat dit niet mogelijk is.   
 2.  De werkgever legt daartoe over de modelverklaring ‘gesprekkencyclus’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd: 
@@ -864,8 +720,6 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.   
 3.  Weigert de werknemer de verklaring te ondertekenen, dan overlegt de werkgever andere ter zake overtuigende documenten zoals een brief aan de werknemer waarin de werkgever gemotiveerd meedeelt dat, en waarom, er geen herplaatsingsmogelijkheden zijn.  
@@ -873,8 +727,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:9:4  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -896,15 +748,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: geen vacature na afloop lang buitengewoon verlof (Artikel 3.8, vierde lid, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als ontslag is verleend op grond van artikel 3.8, vierde lid, van de CAO PO, omdat na afloop van het lang buitengewoon verlof de werknemer bij gebrek aan een vacature niet in actieve dienst binnen de instelling dan wel bij de werkgever kan worden geplaatst, komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:10:1 heeft voldaan en de in het artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:10:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit waaruit onderbouwd blijkt dat de werknemer na afloop van buitengewoon lang verlof niet geplaatst kan worden in een vacature.  
@@ -913,15 +761,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: ziekte/arbeidsongeschiktheid (Artikel 3.8, vijfde lid, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als aan de werknemer, die minder dan 35% arbeidsongeschikt is verklaard in het kader van de WIA, ontslag is verleend op grond van artikel 3.8, vijfde lid, van de CAO PO, te weten op grond van ziekte of arbeidsongeschiktheid met in achtneming van de bepalingen van de ZAPO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:11:1 tot en met 4:11:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:11:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van het ontslagbesluit.   
@@ -930,8 +774,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:11:2  
 
 ####Inspanning behoud werknemer voor eigen functie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Voorafgaand aan het ontslag heeft de werkgever zich ingespannen om de werknemer voor zijn eigen functie te behouden. Uiteindelijk heeft hij geconcludeerd dat dit niet mogelijk is.   
 2.  De werkgever legt daartoe over de modelverklaring ‘gesprekkencyclus ziekte en arbeidsongeschiktheid’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd: 
@@ -955,8 +797,6 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘herplaatsingsonderzoek ziekte en arbeidsongeschiktheid’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.   
 3.  Weigert de werknemer de verklaring te ondertekenen, dan overlegt de werkgever afschriften van andere ter zake overtuigende documenten zoals een brief aan de werknemer waarin de werkgever gemotiveerd meedeelt dat, en waarom, er geen herplaatsingsmogelijkheden zijn.  
@@ -964,8 +804,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:11:4  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -987,15 +825,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: gewichtige omstandigheden (Artikel 3.8, zevende lid, CAO PO) te weten kwalitatieve fricties
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als ontslag is verleend op grond van artikel 3.8, zevende lid, van de CAO PO, met als reden dat er naar het oordeel van de werkgever sprake is gewichtige omstandigheden, zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties omdat het naar het oordeel van de werkgever anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:12:1 tot en met 4:12:7 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:12:1  
 
 ####Meedelen reden ontslagaan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit.   
@@ -1004,8 +838,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:12:2  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -1025,8 +857,6 @@ d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:12:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4:12:2.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:12:2 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
@@ -1041,8 +871,6 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ####Toetsingsdatum
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet of beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten of beëindigen van het dienstverband.   
 3.  Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.7 en 10.4, zesde lid, van de CAO-PO niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.  
@@ -1051,15 +879,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Afvloeiingsvolgorde
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betreft die in een vast dienstverband was of waren benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
 
 ### Artikel  4:12:6  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -1081,15 +905,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: gewichtige omstandigheden (Artikel 3.8, zevende lid, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als ontslag is verleend op grond van artikel 3.8, zevende lid, van de CAO PO, te weten op grond van gewichtige omstandigheden, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:13:1 tot en met 4:13:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:13:1  
 
 ####Meedelen ontslagaan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit waaruit onderbouwd blijkt dat er sprake is van gewichtige omstandigheden op grond waarvan de werkgever van oordeel is dat redelijkerwijs niet gevergd kan worden dat het dienstverband van werknemer nog langer wordt voortgezet.  
@@ -1097,8 +917,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:13:2  
 
 ####Inspanning behoud werknemer voor eigen functie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Voorafgaand aan het ontslag heeft de werkgever zich ingespannen om de werknemer voor zijn eigen functie te behouden. Uiteindelijk heeft hij geconcludeerd dat dit niet mogelijk is.   
 2.  De werkgever legt daartoe over de modelverklaring ‘gesprekkencyclus’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd: 
@@ -1124,8 +942,6 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.   
 3.  Weigert de werknemer de verklaring te ondertekenen, dan overlegt de werkgever andere ter zake overtuigende documenten zoals een brief aan de werknemer waarin de werkgever gemotiveerd meedeelt dat, en waarom, er geen herplaatsingsmogelijkheden zijn.  
@@ -1133,8 +949,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:13:4  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -1156,15 +970,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: tussentijdse beëindiging (artikel 3.7, eerste lid, CAO PO) van een leerarbeidsovereenkomst van een leraar in opleiding (artikel 3.24 CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de opleidende instelling de leerarbeidsovereenkomst van de werknemer die als LIO is benoemd, tijdens de looptijd van de leerarbeidsovereenkomst, heeft beëindigd, komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:14:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:14:1  
 
 ####Meedelen reden tussentijdse beëindiging dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden van het tussentijds beëindigen van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over ter zake overtuigende documenten waaruit blijkt dat de opleidende instelling de leerarbeidsovereenkomst van de werknemer die als LIO is benoemd, heeft beëindigd.  
@@ -1173,15 +983,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: het niet meewerken aan re-integratie als bedoeld in artikel 20a ZAPO
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als ontslag is verleend op grond van artikel 20a ZAPO vanwege het niet meewerken aan re-integratie, komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:15:1 heeft voldaan en de in het artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:15:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit waaruit onderbouwd blijkt dat de werknemer zonder deugdelijke grond niet heeft meegewerkt aan zijn re-integratie.   
@@ -1191,21 +997,15 @@ Materieel uitgewerkt per 14-01-2015
 
 ####persoonsgebonden beëindigingsgronden bij tijdelijke dienstverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  4:16  
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO): waarbij werknemer dienstverband niet wil voortzetten als bedoeld in artikel 3.7, eerste lid, CAO PO
-
-Materieel uitgewerkt per 14-01-2015 
 
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werknemer geen voortzetting van het dienstverband wenst, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:16:1 heeft voldaan en de in het artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:16:1  
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever overlegt ter zake overtuigende documenten waaruit blijkt dat de werknemer geen voortzetting van het dienstverband wenst; of   
 2.  De werkgever overlegt documenten waaruit blijkt dat hij, voorafgaand aan de einddatum van het tijdelijk dienstverband, een passende reguliere betrekking heeft aangeboden met tenminste een gelijke omvang als de voorafgaande betrekking.  
@@ -1214,23 +1014,17 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO): vanwege dringende redenen (artikel 3.7, tweede lid, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het dienstverband is beëindigd wegens dringende reden (ontslag op staande voet) dan kan geen vergoedingsverzoek worden ingediend. De werkgever wordt geadviseerd om, in geval van beëindiging vanwege dringende reden, UWV daarover te informeren en van die melding aan UWV het Participatiefonds weer in kennis te stellen. 
 
 ### Artikel  4:18  
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO): vanwege plichtsverzuim als bedoeld in artikel 3.8, eerste lid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat sprake is van plichtsverzuim zoals bedoeld in artikel 3.8, tweede lid van de CAO PO, komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:18:1 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:18:1  
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de brief waarin de werkgever aan de werknemer heeft medegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten.  
@@ -1239,15 +1033,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO): vanwege onbekwaamheid/ongeschiktheid als bedoeld in artikel 3.8, tweede lid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat sprake is van onbekwaamheid of ongeschiktheid van de werknemer voor de door hem uitgeoefende functie zoals bedoeld in artikel 3.8, tweede lid, van de CAO PO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:19:1 tot en met 4:19:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:19:1  
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de brief waarin de werkgever aan de werknemer heeft medegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten.  
@@ -1255,8 +1045,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:19:2  
 
 ####Inspanning behoud werknemer voor eigen functie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Voordat het tijdelijke dienstverband is verstreken, heeft de werkgever zich ingespannen om de werknemer voor zijn eigen functie te behouden. Uiteindelijk heeft hij geconcludeerd dat dit niet mogelijk is.   
 2.  De werkgever legt daartoe over de modelverklaring ‘gesprekkencyclus’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd: 
@@ -1282,8 +1070,6 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
@@ -1302,15 +1088,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO) vanwege ziekte/arbeidsongeschiktheid (artikel 3.8, vijfde lid, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van de het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat er naar het oordeel van de werkgever sprake is van ziekte of arbeidsongeschiktheid zoals bedoeld in artikel 3.8, vijfde lid, van de CAO PO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:20:1 tot en met 4:20:3 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:20:1  
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de brief waarin de werkgever aan de werknemer heeft medegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten alsmede een afschrift van de brief van een onafhankelijke deskundige waaruit blijkt dat de werknemer op de einddatum van het dienstverband ziek was.  
@@ -1318,8 +1100,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:20:2  
 
 ####Inspanning behoud werknemer voor eigen functie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Voordat het tijdelijke dienstverband is verstreken, heeft de werkgever zich ingespannen om de werknemer voor zijn eigen functie te behouden. Uiteindelijk heeft hij geconcludeerd dat dit niet mogelijk is.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Gesprekkencyclus ziekte en arbeidsongeschiktheid’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd: 
@@ -1343,8 +1123,6 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
@@ -1363,15 +1141,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO): vanwege gewichtige omstandigheden zoals bedoeld in artikel 3.8 zevende lid vanwege kwalitatieve fricties
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat er sprake is gewichtige omstandigheden zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties omdat naar het oordeel van de werkgever het anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikelen 4:21:1 tot en met 4:21:7 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:21:1  
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de brief waarin de werkgever aan de werknemer heeft medegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten.   
@@ -1380,8 +1154,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:21:2  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -1399,8 +1171,6 @@ c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs w
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:21:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4:21:2.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:21:2 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
@@ -1411,8 +1181,6 @@ a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers die 
 
 ####Toetsingsdatum
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement dat van kracht is in dat volgende schooljaar.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
 3.  Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet of beëindigd dienstverband per een andere datum dan genoemd in het eerste of tweede lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten of beëindigen van het dienstverband.   
@@ -1421,8 +1189,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:21:5  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -1442,15 +1208,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO): vanwege gewichtige omstandigheden zoals bedoeld in artikel 3.8, zevende lid van de CAO PO
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat sprake is gewichtige omstandigheden zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikelen 4:22:1 tot en met 4:22:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:22:1  
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over ter zake doende documenten waaruit onderbouwd blijkt dat er sprake is van gewichtige omstandigheden op grond waarvan de werkgever van oordeel is dat redelijkerwijs niet verlangd kan worden dat het dienstverband van werknemer nog langer wordt voortgezet.  
@@ -1458,8 +1220,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:22:2  
 
 ####Inspanning behoud werknemer voor eigen functie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Voordat het tijdelijke dienstverband is verstreken heeft de werkgever zich ingespannen om de werknemer voor zijn eigen functie te behouden. Uiteindelijk heeft hij geconcludeerd dat dit niet mogelijk is.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Gesprekkencyclus’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd: 
@@ -1485,8 +1245,6 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.   
 3.  Als de werknemer de verklaring weigert te ondertekenen, dan overlegt de werkgever afschriften van andere ter zake overtuigende documenten zoals een brief aan de werknemer waarin de werkgever gemotiveerd meedeelt dat, en waarom, er geen herplaatsingsmogelijkheden zijn.  
@@ -1494,8 +1252,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:22:4  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -1515,15 +1271,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: einde van rechtswege (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO) van een leerarbeidsovereenkomst van een leraar in opleiding (artikel 3.22 CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband van een werknemer die als LIO is benoemd, na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:23:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:23:1  
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de leerarbeidsovereenkomst waaruit blijkt dat de einddatum van het tijdelijk dienstverband overeenkomt met de datum van beëindiging van het tijdelijk dienstverband zoals deze door de werkgever bij het vergoedingsverzoek is opgegeven.  
@@ -1532,15 +1284,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: einde van rechtswege (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO) van een leerarbeidsovereenkomst van een onderwijsassistent in opleiding (artikel 3.27 CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband van een werknemer die als onderwijsassistent in opleiding is benoemd, na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:24:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:24:1  
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de leerarbeidsovereenkomst waaruit blijkt dat de einddatum van het tijdelijk dienstverband overeenkomt met de datum van beëindiging van het tijdelijk dienstverband zoals deze door de werkgever bij het vergoedingsverzoek is opgegeven.  
@@ -1549,15 +1297,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO) vanwege ontbreken onderwijsbevoegdheid dan wel omdat enige wettelijke bepaling zich daartegen verzet (artikel 3.2 CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werknemer niet de bij wet voorgeschreven onderwijsbevoegdheid bezit of indien enige andere wettelijke bepaling zich tegen voortzetting van het dienstverband verzet zoals bedoeld in artikel 3.2 van de CAO PO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:25:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:25:1  
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  Indien de reden voor het niet voortzetten van een tijdelijk dienstverband ligt in het feit dat de werknemer de bij wet voorgeschreven onderwijsbevoegdheid niet bezit, dan overlegt de werkgever een afschrift van een document waaruit blijkt wat de gemaakte afspraken zijn omtrent de onderwijsbevoegdheid bij aanvang van het dienstverband alsmede een afschrift van een document waaruit blijkt dat deze afspraken niet zijn nagekomen.   
@@ -1571,15 +1315,11 @@ b. de werkgever de werknemer heeft meegedeeld dat het tijdelijk dienstverband ni
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband vanwege het niet meewerken aan re-integratie als bedoeld in artikel 20a ZAPO
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat sprake is van het niet meewerken aan re-integratie als bedoeld in artikel 20a ZAPO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:26:1 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:26:1  
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de brief waarin de werkgever aan de werknemer heeft medegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten.   
@@ -1589,15 +1329,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.4 onder b, CAO PO); vanwege vervanging afwezige met ziekteverlof op grond van ZAPO
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.4, onder b, van de CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:27:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:27:1  
 
 ####Aantonen vervanging wegens ziekte
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die ziekteverlof op grond van het ZAPO genoot.   
 2.  De werkgever legt daartoe over een akte van benoeming van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
@@ -1617,15 +1353,11 @@ b. andere ter zake overtuigende documenten waaruit blijkt dat de werknemer de we
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.4, onder b, CAO PO); vanwege vervanging afwezige wegensschorsing (artikel 3.13 t/m 3.17 CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.4, onder b, van de CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:28:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:28:1  
 
 ####Aantonen vervanging wegens schorsing
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die is geschorst op grond van artikel 3.13 tot en met 3.17 van de CAO PO.   
 2.  De werkgever legt daartoe over een afschrift van de akte van benoeming van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
@@ -1639,15 +1371,11 @@ b. de periode waarvoor de benoeming is aangegaan.
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.4, onder b, van de CAO PO); vanwege vervanging afwezige wegens gecompenseerd vakantieverlof (artikel 8.2, zesde lid, CAO PO) en verleend verlof indien werknemer door ziekte minder dan 20 dagen vakantieverlof heeft genoten (artikel 8.2, achtste lid, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.4, onder b, van de CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:29:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:29:1  
 
 ####Aantonen vervanging wegens gecompenseerd vakantieverlof
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die gecompenseerd vakantieverlof genoot op grond van artikel 8.2, zesde lid, of artikel 8.2, achtste lid van de CAO PO.   
 2.  De werkgever legt daartoe over een afschrift van de akte van benoeming van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
@@ -1667,15 +1395,11 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.4, onder b, van de CAO PO); vanwege vervanging afwezige wegens opnieuw verleend verlof (artikel 8.6 CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.4, onder b, van de CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:30:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:30:1  
 
 ####Aantonen vervanging wegens opnieuw verleend verlof
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die opnieuw verleend verlof genoot op grond van artikel 8.6 van de CAO PO.   
 2.  De werkgever legt daartoe over een afschrift van de akte van benoeming van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
@@ -1695,15 +1419,11 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.4, onder b, CAO PO); vanwege vervanging afwezig wegens buitengewoon verlof (artikel 8.7 tot en met 8.9, artikel 8.11 tot en met 8.13, artikel 8.15 of artikel 8.18 CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.4, onder b, van de CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:31:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:31:1  
 
 ####Aantonen vervanging wegens buitengewoon verlof
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die buitengewoon verlof genoot op grond van artikel 8.7 dan wel 8.8, 8.9, 8.11, 8.12, 8.13, 8.15 of 8.18 van de CAO PO.   
 2.  De werkgever legt daartoe over een afschrift van de akte van benoeming van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
@@ -1723,15 +1443,11 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.4, onder b, CAO PO); vanwege vervanging afwezige wegens zwangerschaps- en bevallingsverlof op grond van de Wet Arbeid en Zorg (WAZO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.4, onder b, van de CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:32:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:32:1  
 
 ####Aantonen vervanging wegens zwangerschaps- en bevallingsverlof
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die zwangerschaps- en bevallingsverlof genoot op grond van de WAZO.   
 2.  De werkgever legt daartoe over een afschrift van de akte van benoeming van de werknemer die de afwezig werknemer heeft vervangen, waarin is opgenomen: 
@@ -1751,15 +1467,11 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.4, onder b, CAO PO); vanwege vervanging afwezige wegens ouderschapsverlof (artikel 8.19 CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.4, onder b, van de CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:33:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:33:1  
 
 ####Aantonen vervanging wegens ouderschapsverlof
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die ouderschapsverlof genoot op grond van artikel 8.19 van de CAO PO.   
 2.  De werkgever legt daartoe over een afschrift van de akte van benoeming van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
@@ -1779,15 +1491,11 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.4, onder b, CAO PO); vanwege vervanging afwezige wegens spaarverlof (artikel 8.23 CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.4, onder b, van de CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:34:1 en 4:34:2 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:34:1  
 
 ####Aantonen vervanging wegens spaarverlof
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die spaarverlof genoot op grond van artikel 8.23 CAO PO.   
 2.  De werkgever legt daartoe over een afschrift van de akte van benoeming van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
@@ -1807,8 +1515,6 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.   
 3.  Als de werknemer de verklaring weigert te ondertekenen, overlegt de werkgever afschriften van andere ter zake overtuigende documenten met betrekking tot het herplaatsingsonderzoek zoals een brief aan de werknemer waarin de werkgever gemotiveerd meedeelt dat, en waarom, er geen herplaatsingsmogelijkheden zijn.  
@@ -1817,15 +1523,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.4, onder b, CAO PO); vanwege vervanging afwezige wegens levensloopverlof (artikel 8.24 CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.4, onder b, van de CAO PO, niet wordt voortgezet, komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:35:1 en 4:35:2 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:35:1  
 
 ####Aantonen vervanging wegens levensloopverlof
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die levensloopverlof genoot op grond van artikel 8.24 van de CAO PO.   
 2.  De werkgever legt daartoe over een afschrift van de akte van benoeming van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
@@ -1845,8 +1547,6 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor de eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.   
 3.  Als de werknemer de verklaring weigert te ondertekenen, dan overlegt de werkgever afschriften van andere ter zake overtuigende documenten met betrekking tot het herplaatsingsonderzoek zoals een brief aan de werknemer waarin de werkgever gemotiveerd meedeelt dat, en waarom, er geen herplaatsingsmogelijkheden zijn.  
@@ -1855,15 +1555,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.4, onder b, CAO PO); vanwege vervanging afwezige wegens studieverlof op grond van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.4, onder b, van de CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:36:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:36:1  
 
 ####Aantonen vervanging wegens studieverlof op grond van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die studieverlof genoot op grond van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008.   
 2.  De werkgever legt daartoe over een afschrift van de akte van benoeming van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
@@ -1883,21 +1579,15 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ####Formatieve beëindigingsgronden bij een vast dienstverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  4:37  
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 3.7 vierde lid CAO PO) vanwege opheffing betrekking (artikel 3.8 derde lid CAO PO) vanwege de daling of beëindiging van de gemeentelijke bijdrage voor in- en doorstroombanen (ID-banen) voor werkgevers met ontslagbeleid
-
-Materieel uitgewerkt per 14-01-2015 
 
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert het dienstverband beëindigt met wederzijds goedvinden op grond van artikel 3.7, vierde lid, met als reden dat er sprake is van opheffing betrekking, zoals bedoeld in artikel 3.8, derde lid CAO PO, vanwege daling of beëindiging van een gemeentelijke bijdrage voor in- en doorstroombanen, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:37:1 tot en met 4:37:3 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:37:1  
 
 ####Meedelen reden beëindiging dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft aan de werknemer de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
@@ -1906,16 +1596,12 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Daling of beëindiging van de gemeentelijke bijdrage voor ID-banen
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat de gemeentelijke bijdrage voor ID-banen is gedaald of beëindigd.   
 2.  De werkgever legt daartoe over ter zake overtuigende documenten waaruit blijkt dat de gemeente de bijdragen voor ID-banen heeft verminderd of beëindigd.  
 
 ### Artikel  4:37:3  
 
 ####Inspanning behoud werknemer voor eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.  
@@ -1924,15 +1610,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 3.7 vierde lid CAO PO) vanwege opheffing betrekking (artikel 3.8 derde lid CAO PO) voor werkgevers met ontslagbeleid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert het dienstverband eindigt met wederzijds goedvinden op grond van artikel 3.7, vierde lid, met als reden dat er sprake is van opheffing betrekking, zoals bedoeld in artikel 3.8, derde lid CAO PO wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:38:1 tot en met 4:38:9 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:38:1  
 
 ####Meedelen reden beëindiging dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft aan de werknemer de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
@@ -1940,8 +1622,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:38:2  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -1961,8 +1641,6 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.38.1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4.38.2.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.38.2 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
@@ -1976,8 +1654,6 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 ### Artikel  4:38:4  
 
 ####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Als het dienstverband op grond van een beëindigingsovereenkomst is beëindigd, dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
 
@@ -1995,15 +1671,11 @@ v. een vacature op de datum van beëindiging van het dienstverband.   Als van he
 
 ####Uitgestelde beëindiging van het dienstverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 4:38:2 in de schooljaren 2012–2013, 2013–2014 en 2014–2015 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2013 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
 
 ### Artikel  4:38:6  
 
 ####Afvloeiingsvolgorde
-
-Materieel uitgewerkt per 14-01-2015 
 
 Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een vast dienstverband was benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
 
@@ -2011,15 +1683,11 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een 
 
 ####Vergelijking per onderwijssoort
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 4:38:3 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
 ### Artikel  4:38:8  
 
 ####Toetsingsdatum
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per 1 augustus van het volgend schooljaar van kracht is.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het beëindigen van het dienstverband.   
@@ -2028,8 +1696,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:38:9  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de beëindigingsdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -2051,15 +1717,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 3.7 vierde lid CAO PO) vanwege opheffing betrekking (artikel 3.8 derde lid CAO PO) voor werkgevers met werkgelegenheidsbeleid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling werkgelegenheidsbeleid als bedoeld in artikel 10.3 van de CAO-PO voert, het dienstverband eindigt met wederzijds goedvinden op grond van artikel 3.7, vierde lid, met als reden dat er sprake is van opheffing betrekking, zoals bedoeld in artikel 3.8, derde lid CAO PO wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:39:1 tot en met 4:39:5 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:39:1  
 
 ####Meedelen reden beëindiging dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft aan de werknemer de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
@@ -2067,8 +1729,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:39:2  
 
 ####Sociaal Plan in geval daling bekostiging groter of gelijk aan loonkosten op jaarbasis
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat hij met de vakcentrales in het DGO het sociaal plan is overeengekomen omdat hij wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden de werkgelegenheidsgarantie niet meer kon garanderen.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Daling bekostiging bij werkgelegenheidsbeleid’ waaruit blijkt dat 
@@ -2083,8 +1743,6 @@ c. er derhalve aan het beëindigen van het dienstverband niet (mede) andere rede
 
 ####Sociaal Plan in geval van werknemers van wie het vaste dienstverband wordt beëindigd
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat: 
 
 a. hij met de bonden overeenstemming heeft bereikt over de omvang van het formatieve probleem dat zou kunnen leiden tot gedwongen ontslag na afloop van de tweede fase van het sociaal plan; en  
@@ -2097,8 +1755,6 @@ b. de beëindiging van het dienstverband met wederzijds goedvinden tijdens de lo
 
 ####Toetsingsdatum
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per 1 augustus van het volgend schooljaar van kracht is.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst.   
 3.  Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.7 en 10.4, zesde lid, van de CAO-PO niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.  
@@ -2107,8 +1763,6 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over het sociaal plan waaruit moet blijken dat de werknemer van minstens één van de in het sociaal plan overeengekomen mobiliteitsbevorderende maatregelen gebruik heeft kunnen maken.  
 
@@ -2116,15 +1770,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 3.7 vierde lid CAO PO) vanwege opheffing betrekking (artikel 3.8 derde lid CAO PO) vanwege reorganisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever met de centrales in het DGO overleg heeft gevoerd over de rechtspositionele gevolgen van een reorganisatie als bedoeld in artikel 13.2 lid 5 onder a van de CAO PO en in dat kader een met de bonden overeengekomen sociaal plan, zoals bedoeld in artikel 10.3 van de CAO PO uitvoert of heeft uitgevoerd, dan komt een vergoedingsverzoek, voor het dienstverband dat is beëindigd op grond van artikel 3.7 vierde lid, van de CAO PO, te weten met wederzijds goedvinden met als reden opheffing van de instelling of de dienst van de instelling of de betrekking, zoals bedoeld in artikel 3.8, derde lid CAO PO, voor toewijzing in aanmerking als de werkgever heeft voldaan aan de voorwaarden genoemd in artikel 4:40:1 tot en met 4:40:3 en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  4:40:1  
 
 ####Meedelen reden beëindiging dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft aan de werknemer de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
@@ -2132,8 +1782,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:40:2  
 
 ####Sociaal Plan
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat: 
 
@@ -2149,8 +1797,6 @@ c. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gem
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over het sociaal plan waaruit blijkt dat de werknemer gebruik heeft kunnen maken van minstens één van de in het sociaal plan overeengekomen mobiliteitsbevorderende maatregelen.  
 
@@ -2158,15 +1804,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 3.7 vierde lid CAO PO) vanwege opheffing betrekking (artikel 3.8 derde lid CAO PO) van schoonmaakpersoneel wegens daling van de materiele bekostiging
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO PO voert en er is sprake van daling van de rijksbekostiging materieel, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband voor schoonmaakpersoneel is beëindigd op grond van artikel 3.7 vierde lid, van de CAO PO, te weten met wederzijds goedvinden met als reden opheffing van de betrekking zoals bedoeld in artikel 3.8 derde lid CAO PO, vanwege daling van de materiele bekostiging en de werkgever heeft aan de voorwaarden genoemd in artikel 4:41:1 tot en met 4:41:5 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  4:41:1  
 
 ####Meedelen reden beëindiging dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
@@ -2175,16 +1817,12 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Daling materiele bekostiging per 1 januari 2015
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2015, vergeleken met de totale rijksbekostiging Materieel per 31 december 2013, zijn gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging Materieel. De werkgever gebruikt daarvoor de modelberekening ‘Kostenvergelijking materieel’ van het Participatiefonds.  
 
 ### Artikel  4:41:3  
 
 ####beëindiging dienstverband
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  In geval van een daling van de rijksbekostiging materiele instandhouding kan de werkgever op drie data het dienstverband van schoonmaakpersoneel beëindigen: 
 
@@ -2224,15 +1862,11 @@ C. beëindiging dienstverband per 1 augustus 2015
 
 ####Afvloeiingsvolgorde
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een vast dienstverband was benoemd, terwijl het tijdelijke dienstverband in dezelfde fucntie van één of meer werknemers niet wordt beëindigd. 
 
 ### Artikel  4:41:5  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -2254,15 +1888,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 3.7 vierde lid CAO PO) vanwege opheffing betrekking (artikel 3.8 derde lid CAO PO) Centrale Dienst dan wel Samenwerkingsverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van daling van de bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband is beëindigd op grond van artikel 3.7 vierde lid, van de CAO PO, te weten met wederzijds goedvinden met als reden opheffing van de instelling of de dienst van de instelling of de betrekking, zoals bedoeld in artikel 3.8, derde lid CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 4:42:1 tot en met 4:42:7 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  4:42:1  
 
 ####Meedelen reden beëindiging dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft aan de werknemer de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
@@ -2271,8 +1901,6 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Daling bekostiging volgens vergelijking
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband, direct voorafgaand aan de beëindiging van het dienstverband, vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband per de datum van de beëindiging van het dienstverband is gedaald.   
 2.  De werkgever legt daartoe over documenten waaruit blijkt dat de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband direct voorafgaand aan de datum van de beëindiging van het dienstverband, vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband per de datum van de datum van de beëindiging van het dienstverband is gedaald.   
 3.  Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.  
@@ -2280,8 +1908,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:42:3  
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:42:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4:42:2.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.42.2 aan de hand van de loonkostentool van het Participatiefonds.   
@@ -2296,8 +1922,6 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 ### Artikel  4:42:4  
 
 ####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
-
-Materieel uitgewerkt per 14-01-2015 
 
 Wanneer van een werknemer het dienstverband op grond van een beëindigingsovereenkomst is beëindigd, dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
 
@@ -2315,15 +1939,11 @@ v. een vacature op de datum van de datum van de beëindiging van het dienstverba
 
 ####Afvloeiingsvolgorde
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een vast dienstverband was benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
 
 ### Artikel  4:42:6  
 
 ####Toetsingsdatum
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de bekostiging van de Centrale Dienst dan wel Samenwerkingsverband zich heeft voorgedaan direct voorafgaand aan de datum van het beëindigen van het dienstverband.   
@@ -2332,8 +1952,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:42:7  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -2355,15 +1973,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 3.7 vierde lid CAO PO) vanwege opheffing betrekking (artikel 3.8 derde lid CAO PO) vanwege de daling of beëindiging van een landelijke door de overheid beschikbaar gestelde subsidie voor werkgever met ontslagbeleid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van een daling of beëindiging van een landelijke door de overheid beschikbaar gestelde subsidie, waaronder ook begrepen subsidie voor een combinatiefunctie als bedoeld in het document ‘bestuurlijke afspraken Impuls brede scholen’, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband is beëindigd op grond van artikel 3.7 vierde lid, CAO PO, te weten met wederzijds goedvinden met als reden opheffing van de instelling of de dienst van de instelling of de betrekking, zoals bedoeld in artikel 3.8, derde lid, CAO PO, en de werkgever heeft aan de voorwaarden genoemd in artikel 4:43:1 tot en met 4:43:3 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  4:43:1  
 
 ####Meedelen reden beëindiging dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
@@ -2372,16 +1986,12 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Daling of beëindiging van een landelijk door de overheid beschikbare gestelde subsidie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat de landelijke subsidie is gedaald of beëindigd.   
 2.  De werkgever legt daartoe over ter zake overtuigende documenten waaruit blijkt dat de landelijk door de overheid beschikbaar gestelde subsidie is gedaald of beëindigd.  
 
 ### Artikel  4:43:3  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de datum van de beëindiging van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -2403,15 +2013,11 @@ b. indien de werkgever geen gebruik heeft gemaakt van de modelbrief ‘aanbod ex
 
 ####Grondslag vergoedingsverzoek: ontslag vanwege opheffing betrekking (artikel 3.8 derde lid CAO PO) vanwege de daling of beëindiging van de gemeentelijke bijdrage voor in- en doorstroombanen (ID-banen) voor werkgevers met ontslagbeleid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van een daling of beëindiging van een gemeentelijke bijdrage voor in- en doorstroombanen, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:44:1 tot en met 4:44:3 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:44:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit.  
@@ -2420,16 +2026,12 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Daling of beëindiging van de gemeentelijke bijdrage voor ID-banen
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat de gemeentelijke bijdrage voor ID-banen is gedaald of beëindigd.   
 2.  De werkgever legt daartoe over ter zake overtuigende documenten waaruit blijkt dat de gemeente de bijdragen voor ID-banen heeft verminderd of beëindigd.  
 
 ### Artikel  4:44:3  
 
 ####Inspanning behoud werknemer voor eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.   
@@ -2439,15 +2041,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: ontslag vanwege opheffing betrekking (artikel 3.8 derde lid CAO PO) voor werkgevers met ontslagbeleid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO en er is ontslag verleend op grond van artikel 3.8, derde lid, CAO PO, te weten op grond van opheffing van de instelling of de dienst van de instelling of de betrekking wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:45:1 tot en met 4:45:9 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:45:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit.  
@@ -2455,8 +2053,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:45:2  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid is met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid is met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -2476,8 +2072,6 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.45.1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4.45.2.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.45.2 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
@@ -2491,8 +2085,6 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 ### Artikel  4:45:4  
 
 ####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Indien de werkgever een werknemer in vaste dienst heeft ontslagen dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
 
@@ -2510,8 +2102,6 @@ v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., i
 
 ####Uitgestelde beëindiging van het dienstverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Indien er sprake is van uitgesteld ontslag dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt.   
 2.  In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 4:45:2 in de schooljaren 2012–2013, 2013–2014 en 2014–2015 vergeleken.   
 3.  Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband.   
@@ -2521,23 +2111,17 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Afvloeiingsvolgorde
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een vast dienstverband was benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
 
 ### Artikel  4:45:7  
 
 ####Vergelijking per onderwijssoort
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 4:39:3 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
 ### Artikel  4:45:8  
 
 ####Toetsingsdatum
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus verleend ontslag wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een verleend ontslag per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het ontslag.   
@@ -2546,8 +2130,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:45:9  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -2569,15 +2151,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: ontslag vanwege opheffing betrekking (artikel 3.8 derde lid CAO PO) voor werkgevers met werkgelegenheidsbeleid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling werkgelegenheidsbeleid als bedoeld in artikel 10.2 van de CAO-PO en er is ontslag verleend op grond van artikel 3.8, derde lid, CAO PO, te weten op grond van opheffing van de instelling of de dienst van de instelling of de betrekking, wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:46:1 tot en met 4:46:5 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:46:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit.  
@@ -2585,8 +2163,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:46:2  
 
 ####Sociaal Plan in geval daling bekostiging groter of gelijk aan loonkosten op jaarbasis
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat hij met de vakcentrales in het DGO het sociaal plan is overeengekomen omdat hij wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden de werkgelegenheidsgarantie niet meer kon garanderen.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Daling bekostiging bij werkgelegenheidsbeleid’ waaruit blijkt dat 
@@ -2601,8 +2177,6 @@ c. er derhalve aan het beëindigen van het dienstverband niet (mede) andere rede
 
 ####Sociaal Plan in geval van werknemers van wie het vaste dienstverband wordt beëindigd
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat: 
 
 a. hij met de bonden overeenstemming heeft bereikt over de omvang van het formatieve probleem dat zou kunnen leiden tot gedwongen ontslag na afloop van de tweede fase van het sociaal plan, en  
@@ -2615,16 +2189,12 @@ b. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gem
 
 ####Toetsingsdatum
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Een vergoedingsverzoek op grond van dit artikel van een ontslag per 1 augustus wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een ontslag per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst.  
 
 ### Artikel  4:46:5  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over het sociaal plan waaruit moet blijken dat de werknemer van minstens één van de in het sociaal plan overeengekomen mobiliteitsbevorderende maatregelen gebruik heeft kunnen maken.  
@@ -2633,15 +2203,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: ontslag vanwege opheffing betrekking artikel 3.8 derde lid CAO PO) vanwege reorganisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever met de centrales in het DGO overleg heeft gevoerd over de rechtspositionele gevolgen van een reorganisatie als bedoeld in artikel 13.2 lid 5 onder a van de CAO PO en in dat kader een met de bonden overeengekomen sociaal plan, zoals bedoeld in artikel 10.3 van de CAO PO, uitvoert of heeft uitgevoerd, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als ontslag is verleend op grond van artikel 3.8, derde lid, van de CAO PO, te weten op grond van opheffing van de instelling of de dienst van de instelling of de betrekking en de werkgever heeft aan de voorwaarden genoemd in artikel 4:47:1 tot en met 4:47:3 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  4:47:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit.  
@@ -2649,8 +2215,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:47:2  
 
 ####Sociaal Plan
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat: 
 
@@ -2664,8 +2228,6 @@ b. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gem
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over het sociaal plan waaruit moet blijken dat de werknemer van minstens één van de in het sociaal plan overeengekomen mobiliteitsbevorderende maatregelen gebruik heeft kunnen maken.  
 
@@ -2673,15 +2235,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: ontslag vanwege opheffing betrekking (3.8 derde lid CAO PO) van schoonmaakpersoneel wegens daling van de materiele bekostiging
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van daling van de rijksbekostiging materieel, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband voor schoonmaakpersoneel is beëindigd op grond van artikel 3.8 derde lid, van de CAO PO, te weten ontslag vanwege opheffing van de betrekking vanwege daling van de materiele bekostiging en de werkgever heeft aan de voorwaarden genoemd in artikel 4:48:1 tot en met 4:48:5 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  4:48:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit.  
@@ -2690,16 +2248,12 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Daling materiele bekostiging per 1 januari 2015
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat de rijksbekostiging Materieel op 1 januari 2015, vergeleken met de totale rijksbekostiging Materieel per 31 december 2014, zijn gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging Materieel. De werkgever gebruikt daarvoor de modelberekening ‘Kostenvergelijking materieel’ van het Participatiefonds.  
 
 ### Artikel  4:48:3  
 
 ####beëindiging dienstverband
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  In geval van een daling van de rijksbekostiging materiele instandhouding kan op drie data het dienstverband van schoonmaakpersoneel beëindigen: 
 
@@ -2738,15 +2292,11 @@ C. beëindiging dienstverband per 1 augustus 2015
 
 ####Afvloeiingsvolgorde
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als er meerdere ontslagen gemeld worden, overlegt de werkgever de onderlinge volgorde van ontslag. Hierbij zijn voor personeel in vaste dienst de geldende regels t.a.v. de afvloeiingsvolgorde van de CAO PO van kracht. Een vergoedingsverzoek in geval van ontslag van personeel in vaste dienst, terwijl personeel in tijdelijke dienst gehandhaafd blijft, is niet mogelijk op grond van dit artikel. 
 
 ### Artikel  4:48:5  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -2768,15 +2318,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: ontslag vanwege opheffing betrekking Centrale Dienst dan wel Samenwerkingsverband (artikel 3.8 derde lid CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van daling van de bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als ontslag is verleend op grond van artikel 3.8, derde lid, van de CAO PO, te weten op grond van opheffing van de instelling of de dienst van de instelling of de betrekking en de werkgever heeft aan de voorwaarden genoemd in artikel 4:49:1 tot en met 4:49:7 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  4:49:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit.  
@@ -2785,8 +2331,6 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Daling bekostiging volgens vergelijking
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over documenten waaruit blijkt dat de totale bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband per de datum van het ontslag, is gedaald.   
 3.  Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag wordt op het bedrag dat gemoeid is met de daling bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband in mindering gebracht.  
@@ -2794,8 +2338,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:49:3  
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:49:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4:49:2.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.49.2 aan de hand van de loonkostentool van het Participatiefonds.   
@@ -2810,8 +2352,6 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 ### Artikel  4:49:4  
 
 ####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
-
-Materieel uitgewerkt per 14-01-2015 
 
 In geval van ontslag geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
 
@@ -2829,15 +2369,11 @@ v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., i
 
 ####Afvloeiingsvolgorde
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een vast dienstverband was benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
 
 ### Artikel  4:49:6  
 
 ####Toetsingsdatum
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een ontslag per 1 augustus wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een ontslag per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten of beëindigen van het dienstverband.   
@@ -2846,8 +2382,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:49:7  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -2869,15 +2403,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: Ontslag vanwege opheffing betrekking (artikel 3.8 derde lid CAO PO) vanwege de daling of beëindiging van een landelijke door de overheid beschikbaar gestelde subsidie voor werkgever met ontslagbeleid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van een daling of beëindiging van een landelijke door de overheid beschikbaar gestelde subsidie, waaronder ook begrepen subsidie voor een combinatiefunctie als bedoeld in het document ‘bestuurlijke afspraken Impuls brede scholen’, dan komen vergoedingsverzoeken voor toewijzing in aanmerking als ontslag is verleend op grond van artikel 3.8, derde lid, CAO PO, te weten op grond van opheffing van de instelling of de dienst van de instelling of de betrekking en de werkgever heeft aan de voorwaarden genoemd in artikel 4:50:1 tot en met 4:50:3 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  4:50:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit.  
@@ -2886,16 +2416,12 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Daling of beëindiging van een landelijk door de overheid beschikbare gestelde subsidie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat de landelijke subsidie is gedaald of beëindigd.   
 2.  De werkgever legt daartoe over ter zake overtuigende documenten waaruit blijkt dat de landelijk door de overheid beschikbaar gestelde subsidie is gedaald of beëindigd.  
 
 ### Artikel  4:50:3  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -2917,13 +2443,9 @@ b. indien de werkgever geen gebruik heeft gemaakt van de modelbrief ‘aanbod ex
 
 ####Formatieve beëindigingsgronden bij een tijdelijk dienstverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  4:51  
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO) vanwege opheffing van de betrekking zoals bedoeld in artikel 3.8, derde lid CAO PO, vanwege daling of beëindiging van een landelijke subsidie
-
-Materieel uitgewerkt per 14-01-2015 
 
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet vanwege de opheffing van de betrekking zoals bedoeld in artikel 3.8, derde lid CAO PO, vanwege daling of beëindiging van een landelijke subsidie, waaronder ook begrepen subsidie voor een combinatiefunctie als bedoeld in het document ‘bestuurlijke afspraken Impuls brede scholen’, dan komt de werkgever die de regeling werkgelegenheidsbeleid of ontslagbeleid, artikel 10.2 en 10.4 van de CAO PO, hanteert voor toewijzing van het vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden van artikel 4:51:1 tot en met 4:51:2 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
@@ -2931,16 +2453,12 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 ####Daling of beëindiging van een landelijk door de overheid beschikbare gestelde subsidie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat de landelijke subsidie is gedaald of beëindigd.   
 2.  De werkgever legt daartoe over ter zake overtuigende documenten waaruit blijkt dat de landelijke door de overheid beschikbaar gestelde subsidie of subsidie voor een combinatiefunctie als bedoeld in het document ‘bestuurlijke afspraken Impuls brede scholen’ is gedaald of beëindigd.  
 
 ### Artikel  4:51:2  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -2960,15 +2478,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO) vanwege opheffing van de betrekking voor werkgever met ontslagbeleid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO hanteert, en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 3.6 eerste lid, CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 3.8, derde lid CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 4:52:1 tot en met 4:52:7 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  4:52:1  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid is met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid is met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -2988,8 +2502,6 @@ d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, waarvan het tijdelijke dienstverband niet wordt voortgezet, op jaarbasis gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4.52.1.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.52.1 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
@@ -3004,15 +2516,11 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
 
-Materieel uitgewerkt per 14-01-2015 
-
 Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voortgezet, dan geeft hij aan dat er op de datum waarop het dienstverband van rechtswege eindigde, geen vacature voor de functie van werknemer was waarin de werknemer benoemd had kunnen worden. 
 
 ### Artikel  4:52:4  
 
 ####Uitgestelde beëindiging van het dienstverband
-
-Materieel uitgewerkt per 14-01-2015 
 
 Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 4:52:1 in de schooljaren 2012–2013, 2013–2014 en 2013–2014 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2013 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
 
@@ -3020,15 +2528,11 @@ Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan word
 
 ####Vergelijking per onderwijssoort
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 4:52:1 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
 ### Artikel  4:52:6  
 
 ####Toetsingsdatum
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement dat van kracht is in dat volgende schooljaar.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten van het dienstverband.   
@@ -3037,8 +2541,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:52:7  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -3058,15 +2560,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO) vanwege opheffing van de betrekking voor werkgever met werkgelegenheidsbeleid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de werkgelegenheidsbeleid als bedoeld in artikel 10.2 van de CAO-PO voert en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 3.6, eerste lid, CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 3.8, derde lid CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 4:53:1 tot en met 4:53:4 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  4:53:1  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking in geval van werknemers van wie het tijdelijk dienstverband niet wordt voortgezet
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont ten aanzien van een werknemer wiens tijdelijke dienstverband niet wordt voortgezet aan dat het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -3086,8 +2584,6 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis in geval van werknemers van wie het tijdelijke dienstverband niet wordt voortgezet
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers van wie het tijdelijke dienstverband niet wordt voortgezet, waarvan het tijdelijke dienstverband niet wordt voortgezet, op jaarbasis gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4:53:1.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, van wie het tijdelijke dienstverband niet wordt voortgezet, bedoeld in artikel 4:53:2 aan de hand van de loonkostentool van het Participatiefonds.  
 
@@ -3095,15 +2591,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Uitgestelde beëindiging van het dienstverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 4:52:1 in de schooljaren 2012–2013, 2013–2014 en 2014–2015 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2013 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
 
 ### Artikel  4:53:4  
 
 ####Toetsingsdatum
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement dat van kracht is in dat volgende schooljaar.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten van het dienstverband.  
@@ -3111,8 +2603,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:53:5  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over het sociaal plan waaruit moet blijken dat de werknemer van minstens één van de in het sociaal plan overeengekomen mobiliteitsbevorderende maatregelen gebruik heeft kunnen maken.   
@@ -3133,15 +2623,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO) vanwege reorganisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever met de centrales in het DGO overleg heeft gevoerd over de rechtspositionele gevolgen van een reorganisatie als bedoeld in artikel 13.2 lid 5 onder a van de CAO PO en in dat kader een met de bonden overeengekomen sociaal plan, zoals bedoeld in artikel 10.3 van de CAO PO uitvoert of heeft uitgevoerd, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 3.6 eerste lid van de CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 3.8, derde lid CAO PO wegens reorganisatie en de werkgever heeft aan de voorwaarden genoemd in artikel 4:54:1 tot en met 4:54:3 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  4:54:1  
 
 ####Reden niet voortzetten dienstverband aan werknemer meedelen
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van een brief waarin de werkgever aan de werknemer heeft medegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten.  
@@ -3149,8 +2635,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:54:2  
 
 ####Sociaal Plan
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat 
 
@@ -3164,8 +2648,6 @@ b. het niet voortzetten van het tijdelijk dienstverband tijdens de looptijd van 
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over het sociaal plan waaruit moet blijken dat de werknemer van minstens één van de in het sociaal plan overeengekomen mobiliteitsbevorderende maatregelen gebruik heeft kunnen maken.  
 
@@ -3173,15 +2655,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO) van schoonmaakpersoneel wegens daling van de materiele bekostiging
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van daling van de materiele bekostiging dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband voor schoonmaakpersoneel dat voor bepaalde tijd is aangegaan op grond van artikel 3.6 eerste lid van de CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 3.8, derde lid CAO PO vanwege daling van de materiele bekostiging en de werkgever heeft aan de voorwaarden genoemd in artikel 4:55:1 tot en met 4:55:3 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  4:55:1  
 
 ####Daling materiele bekostiging per 1 januari 2015
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2015, vergeleken met de totale rijksbekostiging Materieel per 31 december 2014, zijn gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging Materieel. De werkgever gebruikt daarvoor de modelberekening ‘kostenvergelijking materieel’ van het Participatiefonds.  
@@ -3189,8 +2667,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:55:2  
 
 ####beëindiging dienstverband
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  In geval van een daling van de rijksbekostiging materiele instandhouding kan op drie data het dienstverband van schoonmaakpersoneel beëindigen: 
 
@@ -3229,8 +2705,6 @@ C. beëindiging dienstverband per 1 augustus 2015
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
@@ -3249,15 +2723,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO) vanwege opheffing betrekking Centrale Dienst dan wel Samenwerkingsverband (artikel 3.8 derde lid CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van daling van de bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband, dan komen vergoedingsverzoeken voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 3.6 eerste lid van de CAO PO en dat na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 3.8, derde lid CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 4:56:1 tot en met 4:56:5 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  4:56:1  
 
 ####Daling bekostiging volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband, direct voorafgaand aan de datum van het niet voortzetten van het tijdelijk dienstverband, vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over documenten waaruit blijkt dat de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband direct voorafgaand aan de datum van het niet voortzetten van het tijdelijk dienstverband vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband per de datum van het van het niet voortzetten van het tijdelijk dienstverband is gedaald.   
@@ -3266,8 +2736,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:56:2  
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, waarvan het tijdelijke dienstverband niet wordt voortgezet, op jaarbasis gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4.56.1.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.56.1 aan de hand van de loonkostentool van het Participatiefonds.   
@@ -3283,15 +2751,11 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
 
-Materieel uitgewerkt per 14-01-2015 
-
 Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voortgezet, dan geeft hij aan dat er op de datum waarop het dienstverband van rechtswege eindigde, geen vacature voor de functie van werknemer was waarin de werknemer benoemd had kunnen worden. 
 
 ### Artikel  4:56:4  
 
 ####Toetsingsdatum
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement dat van kracht is in dat volgende schooljaar.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten van het dienstverband.   
@@ -3300,8 +2764,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:56:5  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -3321,21 +2783,15 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Beëindigingsgronden passend onderwijs bij een vast dienstverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  4:57  
 
 ####Grondslag vergoedingsverzoek: ontslag vanwege opheffing betrekking (artikel 3.8 derde lid CAO PO) voor werkgevers met ontslagbeleid wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden, als gevolg van de invoering van passend onderwijs
-
-Materieel uitgewerkt per 14-01-2015 
 
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO en er is ontslag verleend op grond van artikel 3.8, derde lid, CAO PO, te weten op grond van opheffing van de instelling of de dienst van de instelling of de betrekking wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden als gevolg van de invoering van passend onderwijs, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:57:1 tot en met 4:57:9 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:57:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit.  
@@ -3344,15 +2800,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol.
 
-Materieel uitgewerkt per 14-01-2015 
-
 1. De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de strekking van het tripartiet convenant over de personele gevolgen overleg heeft gevoerd met het samenwerkingsverband, de betrokken besturen en de vakorganisaties, gericht op overeenstemming conform de vigerende regels van het overlegprotocol. 
 
 ### Artikel  4:57:3  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid is met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid is met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -3372,8 +2824,6 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.57.1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4.57.2.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.57.2 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
@@ -3387,8 +2837,6 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 ### Artikel  4:57:5  
 
 ####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Indien de werkgever een werknemer in vaste dienst heeft ontslagen dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
 
@@ -3406,23 +2854,17 @@ v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., i
 
 ####Afvloeiingsvolgorde
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een vast dienstverband was benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
 
 ### Artikel  4:57:7  
 
 ####Vergelijking per onderwijssoort
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 4:57:3 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
 ### Artikel  4:57:8  
 
 ####Toetsingsdatum
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus verleend ontslag wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een verleend ontslag per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het ontslag.   
@@ -3431,8 +2873,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:57:9  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -3454,15 +2894,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: ontslag vanwege opheffing betrekking (artikel 3.8 derde lid CAO PO) voor werkgevers die ten behoeve van de personele gevolgen passend onderwijs een sociaal plan met de vakbonden overeengekomen zijn
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, ontslag verleend op grond van artikel 3.8, derde lid, CAO PO, te weten op grond van opheffing van de instelling of de dienst van de instelling of de betrekking, wegens daling van de financiële bijdragen van derden als gevolg van de invoering passend onderwijs, een sociaal plan is overeengekomen met de vakcentrales, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:58:1 tot en met 4:58:5 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:58:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit.  
@@ -3470,8 +2906,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:58:2  
 
 ####Sociaal Plan in geval daling bekostiging als gevolg van de invoering passend onderwijs
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat hij met de vakcentrales in het DGO het sociaal plan is overeengekomen omdat hij wegens daling van de financiële bijdragen van derden als gevolg van de invoering passend onderwijs de werkgelegenheidsgarantie niet meer kon garanderen.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Daling financiële bijdragen van derden als gevolg van de invoering passend onderwijs’ waaruit blijkt dat 
@@ -3483,8 +2917,6 @@ ii. er derhalve aan het beëindigen van het dienstverband niet (mede) andere red
 ### Artikel  4:58:3  
 
 ####Sociaal Plan in geval van werknemers van wie het vaste dienstverband wordt beëindigd
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat: 
 
@@ -3498,16 +2930,12 @@ b. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gem
 
 ####Toetsingsdatum
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Een vergoedingsverzoek op grond van dit artikel van een ontslag per 1 augustus wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een ontslag per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst.  
 
 ### Artikel  4:58:5  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over het sociaal plan waaruit moet blijken dat de werknemer van minstens één van de in het sociaal plan overeengekomen mobiliteitsbevorderende maatregelen gebruik heeft kunnen maken.  
@@ -3516,15 +2944,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: gewichtige omstandigheden (artikel 3.8, zevende lid, cao PO te weten kwalitatieve fricties, als gevolg van de invoering van passend onderwijs
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als ontslag is verleend op grond van artikel 3.8, zevende lid, van de CAO PO, met als reden dat er naar het oordeel van de werkgever sprake is gewichtige omstandigheden, zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties als gevolg van de invoering van passend onderwijs, omdat het naar het oordeel van de werkgever anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:59:1 tot en met 4:59:9 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:59:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor ontslag aan de werknemer meegedeeld.   
 2.  De werkgever overlegt daartoe het ontslagbesluit.  
@@ -3533,15 +2957,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol.
 
-Materieel uitgewerkt per 14-01-2015 
-
 De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de strekking van het tripartiet convenant over de personele gevolgen overleg heeft gevoerd met het samenwerkingsverband, de betrokken besturen en de vakorganisaties, gericht op overeenstemming conform de vigerende regels van het overlegprotocol. 
 
 ### Artikel  4:59:3 
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid is met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid is met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever overlegt daartoe de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -3560,8 +2980,6 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:59:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4:59:2.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:59:2 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
@@ -3575,8 +2993,6 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 ### Artikel  4:59:5  
 
 ####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Indien de werkgever een werknemer in vaste dienst heeft ontslagen dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
 
@@ -3594,15 +3010,11 @@ v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., i
 
 ####Afvloeiingsvolgorde
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een vast dienstverband was benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
 
 ### Artikel  4:59:7  
 
 ####Vergelijking per onderwijssoort
-
-Materieel uitgewerkt per 14-01-2015 
 
 Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 4:59:3 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
@@ -3610,15 +3022,11 @@ Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die 
 
 ####Toetsingsdatum
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus verleend ontslag wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.  
 
 ### Artikel  4:59:9  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever overlegt daartoe de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -3640,13 +3048,9 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####beëindigingsgronden passend onderwijs bij tijdelijk dienstverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  4:60  
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO) vanwege opheffing betrekking (artikel 3.8 derde lid CAO PO) wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden, als gevolg van de invoering van passend onderwijs
-
-Materieel uitgewerkt per 14-01-2015 
 
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO hanteert, en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden als gevolg van de invoering van passend onderwijs, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 3.6 eerste lid, CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 3.8, derde lid CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 4:60:1 tot en met 4:60:8 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
@@ -3654,15 +3058,11 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 ####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol.
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de strekking van het tripartiet convenant over de personele gevolgen overleg heeft gevoerd met het samenwerkingsverband, de betrokken besturen en de vakorganisaties, gericht op overeenstemming conform de vigerende regels van het overlegprotocol.  
 
 ### Artikel  4:60:2  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid is met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid is met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -3682,8 +3082,6 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, waarvan het tijdelijke dienstverband niet wordt voortgezet, op jaarbasis gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4:60:1.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:60:1 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
@@ -3698,15 +3096,11 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
 
-Materieel uitgewerkt per 14-01-2015 
-
 Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voortgezet, dan geeft hij aan dat er op de datum waarop het dienstverband van rechtswege eindigde, geen vacature voor de functie van werknemer was waarin de werknemer benoemd had kunnen worden. 
 
 ### Artikel  4:60:5  
 
 ####Afvloeiingsvolgorde
-
-Materieel uitgewerkt per 14-01-2015 
 
 Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een vast dienstverband was benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
 
@@ -3714,15 +3108,11 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een 
 
 ####Vergelijking per onderwijssoort
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 4:57:3 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
 ### Artikel  4:60:7  
 
 ####Toetsingsdatum
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement dat van kracht is in dat volgende schooljaar.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten van het dienstverband.   
@@ -3731,8 +3121,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  4:60:8  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -3752,15 +3140,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO) vanwege opheffing betrekking (artikel 3.8 derde lid CAO PO) wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden, voor werkgevers die ten behoeve van de personele gevolgen passend onderwijs een sociaal plan met de vakbonden overeengekomen zijn
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever met de centrales in het DGO overleg heeft gevoerd over de rechtspositionele gevolgen van de invoering van passend onderwijs, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 3.6 eerste lid van de CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 3.8, derde lid CAO PO wegens de invoering van passend onderwijs en de werkgever heeft aan de voorwaarden genoemd in artikel 4:61:1 tot en met 4:61:3 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  4:61:1  
 
 ####Sociaal Plan in geval daling bekostiging als gevolg van de invoering passend onderwijs
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat hij met de vakcentrales in het DGO het sociaal plan is overeengekomen omdat hij wegens daling van de financiële bijdragen van derden als gevolg van de invoering passend onderwijs de werkgelegenheidsgarantie niet meer kon garanderen.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Daling financiële bijdragen van derden als gevolg van de invoering passend onderwijs’ waaruit blijkt dat 
@@ -3772,8 +3156,6 @@ II. er derhalve aan het beëindigen van het dienstverband niet (mede) andere red
 ### Artikel  4:61:2  
 
 ####Sociaal Plan
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat: 
 
@@ -3787,8 +3169,6 @@ b. het niet voortzetten van het tijdelijk dienstverband tijdens de looptijd van 
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over het sociaal plan waaruit moet blijken dat de werknemer van minstens één van de in het sociaal plan overeengekomen mobiliteitsbevorderende maatregelen gebruik heeft kunnen maken.  
 
@@ -3796,15 +3176,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO) vanwege gewichtige omstandigheden (artikel 3.8, zevende lid, cao PO te weten kwalitatieve fricties, als gevolg van de invoering van passend onderwijs
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat er sprake is gewichtige omstandigheden zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties, als gevolg van de invoering van passend onderwijs, omdat naar het oordeel van de werkgever het anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikelen 4:62:1 tot en met 4:62:7 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:62:1  
 
 ####Meedelen reden niet voortzetten aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de brief waarin de werkgever aan de werknemer heeft medegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten.  
@@ -3813,15 +3189,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol
 
-Materieel uitgewerkt per 14-01-2015 
-
 De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de strekking van het tripartiet convenant over de personele gevolgen overleg heeft gevoerd met het samenwerkingsverband, de betrokken besturen en de vakorganisaties, gericht op overeenstemming conform de vigerende regels van het overlegprotocol. 
 
 ### Artikel  4:62:3 
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid is met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid is met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever overlegt daartoe de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -3841,8 +3213,6 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4;62:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4:62:2.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:62:2 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
@@ -3856,8 +3226,6 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 ### Artikel  4:62:5  
 
 ####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Indien de werkgever een werknemer in vaste dienst heeft ontslagen dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
 
@@ -3875,15 +3243,11 @@ v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., i
 
 ####Afvloeiingsvolgorde
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een vast dienstverband was benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
 
 ### Artikel  4:62:7  
 
 ####Vergelijking per onderwijssoort
-
-Materieel uitgewerkt per 14-01-2015 
 
 Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 4:62:3 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
@@ -3891,15 +3255,11 @@ Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die 
 
 ####Toetsingsdatum
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus verleend ontslag wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.  
 
 ### Artikel  4:62:9  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever overlegt daartoe de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -3919,19 +3279,13 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Beëindigingsgronden openbaar onderwijs
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Paragraaf  5.1  
 
 ####Persoonsgebonden beëindigingsgronden bij een vast dienstverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  5:1  
 
 ####Grondslag vergoedingsverzoek: artikel 4.7 onder a, CAO Primair Onderwijs: beëindiging dienstverband op verzoek van de werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 Als ontslag is verleend op grond van artikel 4.7 onder a, van de CAO PO, beëindiging van het dienstverband op verzoek van de werknemer, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:1:1 heeft voldaan en de in het artikel genoemde documenten heeft overgelegd. 
 
@@ -3939,23 +3293,17 @@ Als ontslag is verleend op grond van artikel 4.7 onder a, van de CAO PO, beëind
 
 ####Meedelen reden ontslag aan werknemer
 
-Materieel uitgewerkt per 14-01-2015 
-
 1. De werkgever overlegt documenten, opgesteld voorafgaand aan de einddatum, waaruit blijkt dat de werknemer de werkgever verzocht heeft het dienstverband te beëindigen. 
 
 ### Artikel  5:2  
 
 ####Grondslag vergoedingsverzoek: geen vacature na afloop lang buitengewoon verlof (Artikel 4.7 onder e, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als ontslag is verleend op grond artikel 4.7 onder e, van de CAO PO, omdat na afloop van het lang buitengewoon verlof de werknemer bij gebrek aan een vacature niet in actieve dienst binnen de instelling dan wel bij de werkgever kan worden geplaatst, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:2:1 heeft voldaan en de in het artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:2:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit waaruit onderbouwd blijkt dat de werknemer na afloop van buitengewoon lang verlof niet geplaatst kan worden in een vacature.  
@@ -3964,15 +3312,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: ziekte/arbeidsongeschiktheid (Artikel 4.7, onder f, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als aan de werknemer die minder dan 35% arbeidsongeschikt is verklaard door het UWV in het kader van de WIA ontslag is verleend op grond van artikel 4.7, onder f, van de CAO PO, te weten op grond van ziekte of arbeidsongeschiktheid met in achtneming van de bepalingen van de ZAPO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:3:1 tot en met 5:3:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:3:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van het ontslagbesluit.   
@@ -3981,8 +3325,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:3:2  
 
 ####Inspanning behoud werknemer voor eigen functie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Voorafgaand aan het ontslag heeft de werkgever zich ingespannen om de werknemer voor zijn eigen functie te behouden. Uiteindelijk heeft hij geconcludeerd dat dit niet mogelijk is.   
 2.  De werkgever legt daartoe over de modelverklaring ‘gesprekkencyclus ziekte en arbeidsongeschiktheid’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd: 
@@ -4006,8 +3348,6 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘herplaatsingsonderzoek ziekte en arbeidsongeschiktheid’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.   
 3.  Als de werknemer de verklaring weigert te ondertekenen, overlegt de werkgever afschriften van andere ter zake overtuigende documenten zoals een brief aan de werknemer waarin de werkgever gemotiveerd meedeelt dat, en waarom, er geen herplaatsingsmogelijkheden zijn.  
@@ -4015,8 +3355,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:3:4  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -4038,15 +3376,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: artikel 4.7, onder g, CAO PO: ernstige mate van onbekwaamheid/ongeschiktheid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als ontslag is verleend op grond artikel 4.7, onder g, CAO PO, te weten wegens ernstige mate van onbekwaamheid of ongeschiktheid van de werknemer voor het verrichten van zijn functie, uit andere hoofde dan genoemd onder artikel 4.7, onder f, van de CAO Primair Onderwijs, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:4:1 tot en met 5:4:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:4:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit.  
@@ -4054,8 +3388,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:4:2  
 
 ####Inspanning behoud werknemer voor eigen functie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Voorafgaand aan het ontslag heeft de werkgever zich ingespannen om de werknemer voor zijn eigen functie te behouden. Uiteindelijk heeft hij geconcludeerd dat dit niet mogelijk is.   
 2.  De werkgever legt daartoe over de modelverklaring ‘gesprekkencyclus’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd: 
@@ -4081,8 +3413,6 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.   
 3.  Als de werknemer de verklaring weigert te ondertekenen, overlegt de werkgever andere ter zake overtuigende documenten zoals een brief aan de werknemer waarin de werkgever gemotiveerd meedeelt dat, en waarom, er geen herplaatsingsmogelijkheden zijn.  
@@ -4090,8 +3420,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:4:4  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -4113,15 +3441,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: onherroepelijke veroordeling tot vrijheidsstraf (Artikel 4.7, onder h, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als ontslag is verleend op grond van artikel 4.7, onder h, van de CAO PO, wegens een onherroepelijk geworden veroordeling tot vrijheidsstraf wegens misdrijf, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:5:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:5:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van het ontslagbesluit waaruit onderbouwd blijkt dat de werknemer onherroepelijk is veroordeeld tot een vrijheidsstraf wegens misdrijf.  
@@ -4130,15 +3454,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: bij indiensttreding opzettelijk verstrekken van onjuiste of onvolledige inlichtingen (Artikel 4.7, onder i, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als ontslag is verleend op grond van artikel 4.7, onder i, van de CAO PO, te weten wegens het bij of in verband met indiensttreding en/of keuring opzettelijk verstrekken van onjuiste of onvolledige inlichtingen, zonder welke handelwijze niet tot indienstneming of geschiktverklaring zou zijn overgegaan, terwijl de termijn van zes maanden nog niet verstreken is sinds de vaststelling van dit feit, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:6:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:6:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van het ontslagbesluit.  
@@ -4147,15 +3467,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: disciplinaire maatregel wegens plichtsverzuim (Artikel 4.7, onder j, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als ontslag is verleend op grond artikel 4.7, onder j, van de CAO PO, als disciplinaire maatregels wegens plichtsverzuim, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:7:1 heeft voldaan en de in het artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:7:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit waaruit onderbouwd blijkt dat de werknemer zich schuldig heeft gemaakt aan plichtsverzuim.  
@@ -4164,15 +3480,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: andere met name genoemde redenen van gewichtige aard (Artikel 4.7, onder k, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als ontslag is verleend op grond artikel 4.7, onder k, van de CAO PO, vanwege redenen van gewichtige aard, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:8:1 tot en met 5:8:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:8:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van het ontslagbesluit.  
@@ -4180,8 +3492,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:8:2  
 
 ####Inspanning behoud werknemer voor eigen functie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Voorafgaand aan het ontslag heeft de werkgever zich ingespannen om de werknemer voor zijn eigen functie te behouden. Uiteindelijk heeft hij geconcludeerd dat dit niet mogelijk is.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Gesprekkencyclus’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd: 
@@ -4207,8 +3517,6 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.   
 3.  Als de werknemer de verklaring weigert te ondertekenen, overlegt de werkgever afschriften van andere ter zake overtuigende documenten zoals een brief aan de werknemer waarin de werkgever gemotiveerd meedeelt dat, en waarom, er geen herplaatsingsmogelijkheden zijn.  
@@ -4216,8 +3524,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:8:4  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -4239,15 +3545,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: redenen van gewichtige aard (Artikel 4.7, onder k, CAO PO) te weten kwalitatieve fricties
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als ontslag is verleend op grond artikel 4.7, onder k, CAO PO, met als reden dat er naar het oordeel van de werkgever sprake is gewichtige omstandigheden, zoals bedoeld in artikel 4.7, onder k, CAO PO, vanwege kwalitatieve fricties omdat het naar het oordeel van de werkgever anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:9:1 tot en met 5:9:6 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:9:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit.   
@@ -4256,8 +3558,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:9:2  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -4277,8 +3577,6 @@ d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.6.2 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4.6.3.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.6.2 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
@@ -4293,15 +3591,11 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ####Afvloeiingsvolgorde
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betreft die in een vast dienstverband was of waren benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
 
 ### Artikel  5:9:5  
 
 ####Toetsingsdatum
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet of beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten of beëindigen van het dienstverband.   
@@ -4310,8 +3604,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:9:6  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -4333,15 +3625,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: andere met name genoemde redenen van gewichtige aard (artikel 4.7, onder k, CAO PO), te weten het met wederzijds goedvinden beëindigen van het dienstverband vanwege ziekte/arbeidsongeschiktheid (artikel 4.7, onder f, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het dienstverband van de werknemer die minder dan 35% arbeidsongeschikt is verklaard door het UWV in het kader van de WIA is beëindigd op grond van artikel 4.7, onder k, CAO PO, te weten met wederzijds goedvinden vanwege redenen van gewichtige aard, zijnde ziekte of arbeidsongeschiktheid, met in achtneming van de bepalingen van het Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs (ZAPO), dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:10:1 tot en met 5:10:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:10:1  
 
 ####Meedelen reden beëindiging dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de beëindigingsovereenkomst.   
@@ -4350,8 +3638,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:10:2  
 
 ####Inspanning behoud werknemer voor eigen functie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Voorafgaand aan het beëindigen van het dienstverband heeft de werkgever zich ingespannen om de werknemer voor zijn eigen functie te behouden. Uiteindelijk heeft hij geconcludeerd dat dit niet mogelijk is.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Gesprekkencyclus ziekte en arbeidsongeschiktheid’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd: 
@@ -4366,16 +3652,12 @@ c. de conclusie dat het niet mogelijk is de eigen functie van de werknemer aan t
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Herplaatsingsonderzoek ziekte en arbeidsongeschiktheid’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.  
 
 ### Artikel  5:10:4 
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -4397,15 +3679,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: andere met name genoemde redenen van gewichtige aard (Artikel 4.7, onder k, CAO PO), te weten het met wederzijds goedvinden beëindigen van het dienstverband vanwege ernstige mate van onbekwaamheid of ongeschiktheid (artikel 4.7, onder g, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het dienstverband is beëindigd op grond artikel 4.7 onder k, CAO PO, zijnde andere met name genoemde en aan de werknemer schriftelijk meegedeelde redenen van gewichtige aard, namelijk dat werkgever en werknemer met wederzijds goedvinden het dienstverband willen beëindigen omdat werknemer naar het oordeel van de werkgever in ernstige mate onbekwaam of ongeschikt is voor zijn functie, zoals bedoeld in artikel 4.7 onder g, CAO PO, komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden van artikel 5:11:1 tot en met 5:11:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:11:1  
 
 ####Meedelen reden beëindiging van het dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
@@ -4413,8 +3691,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:11:2  
 
 ####Inspanning behoud werknemer voor eigen functie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Voorafgaand aan het beëindigen van het dienstverband heeft de werkgever zich ingespannen om de werknemer voor zijn eigen functie te behouden. Uiteindelijk heeft hij geconcludeerd dat dit niet mogelijk is.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Gesprekkencyclus’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd: 
@@ -4431,16 +3707,12 @@ d. de conclusie dat het verbetertraject niet of onvoldoende tot de noodzakelijke
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.  
 
 ### Artikel  5:11:4  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -4462,15 +3734,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: andere met name genoemde redenen van gewichtige aard (Artikel 4.7, onder k, CAO PO) te weten het met wederzijds goedvinden beëindigen van het dienstverband vanwege andere met name genoemde redenen van gewichtige aard (Artikel 4.7, onder k, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het dienstverband van de werknemer is beëindigd op grond van artikel 4.7, onder k, van de CAO PO, te weten met wederzijds goedvinden vanwege redenen van gewichtige aard, komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:12:1 tot en met 5:12:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:12:1  
 
 ####Meedelen reden beëindiging van het dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
@@ -4478,8 +3746,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:12:2  
 
 ####Inspanning behoud werknemer voor eigen functie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Voorafgaand aan het beëindigen van het dienstverband heeft de werkgever zich ingespannen om de werknemer voor zijn eigen functie te behouden. Uiteindelijk heeft hij geconcludeerd dat dit niet mogelijk is.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Gesprekkencyclus’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd: 
@@ -4496,16 +3762,12 @@ d. de conclusie dat het verbetertraject niet of onvoldoende tot de noodzakelijke
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.  
 
 ### Artikel  5:12:4  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -4527,15 +3789,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 4.7, onder k, CAO PO) vanwege redenen van gewichtige aard (artikel 4.7, onder k, CAO PO) te weten kwalitatieve fricties
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het dienstverband is beëindigd op grond artikel 4.7, onder k, CAO PO, met als reden dat er naar het oordeel van de werkgever sprake is redenen van gewichtige aard, zoals bedoeld in artikel 4.7, onder k, CAO PO, vanwege kwalitatieve fricties omdat het naar het oordeel van de werkgever anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:13:1 tot en met 5:13:6 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:13:1  
 
 ####Meedelen reden beëindiging dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over de beëindigingsovereenkomst.   
@@ -4544,8 +3802,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:13:2  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -4565,8 +3821,6 @@ d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.6.2 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4.6.3.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.6.2 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
@@ -4581,15 +3835,11 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ####Afvloeiingsvolgorde
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betreft die in een vast dienstverband was of waren benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
 
 ### Artikel  5:13:5  
 
 ####Toetsingsdatum
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet of beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten of beëindigen van het dienstverband.   
@@ -4598,8 +3848,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:13:6  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -4621,15 +3869,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: tussentijdse beëindiging van een leerarbeidsovereenkomst van een leraar in opleiding (artikel 4.23 CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de opleidende instelling de leerarbeidsovereenkomst van de werknemer die als LIO is benoemd, tijdens de looptijd van de leerarbeidsovereenkomst, heeft beëindigd, komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:14:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:14:1  
 
 ####Meedelen reden tussentijdse beëindiging dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden van het tussentijds beëindigen van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over ter zake overtuigende documenten waaruit blijkt dat de opleidende instelling de leerarbeidsovereenkomst van de werknemer die als LIO is benoemd, heeft beëindigd.  
@@ -4638,15 +3882,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: het niet meewerken aan re-integratie als bedoeld in artikel 20a ZAPO
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als ontslag is verleend op grond artikel 20a ZAPO vanwege het niet meewerken aan re-integratie, komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:15:1 heeft voldaan en de in het artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:15:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit waaruit onderbouwd blijkt dat de werknemer zonder deugdelijk grond niet heeft meegewerkt aan zijn re-integratie.   
@@ -4656,21 +3896,15 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Persoonsgebonden beëindigingsgronden bij tijdelijk dienstverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  5:17  
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO) waarbij werknemer dienstverband niet wil voortzetten als bedoeld in artikel 4.7, onder a, CAO PO
-
-Materieel uitgewerkt per 14-01-2015 
 
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werknemer geen voortzetting van het dienstverband wenst, komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:17:1 heeft voldaan en de in het artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:17:1  
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever overlegt ter zake overtuigende documenten waaruit blijkt dat de werknemer geen voortzetting van het dienstverband wenst; of   
 2.  De werkgever overlegt documenten waaruit blijk dat hij, voorafgaand aan de einddatum van het tijdelijk dienstverband, een passende reguliere betrekking heeft aangeboden met tenminste een gelijke omvang als de voorafgaande betrekking.  
@@ -4679,15 +3913,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO) vanwege ziekte/arbeidsongeschiktheid (artikel 4.7, onder f, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat er naar het oordeel van de werkgever sprake is van ziekte of arbeidsongeschiktheid zoals bedoeld in artikel 4.7, onder f, van de CAO PO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:18:1 tot en met 5:18:3 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:18:1  
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de brief waarin de werkgever aan de werknemer heeft meegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten alsmede een afschrift van de brief van een onafhankelijke deskundige waaruit blijkt dat de werknemer op de einddatum van het dienstverband ziek was.  
@@ -4695,8 +3925,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:18:2  
 
 ####Inspanning behoud werknemer voor eigen functie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Voordat het tijdelijk dienstverband is verstreken, heeft de werkgever zich ingespannen om de werknemer voor zijn eigen functie te behouden. Uiteindelijk heeft hij geconcludeerd dat dit niet mogelijk is.   
 2.  De werkgever legt daartoe over de modelverklaring ‘gesprekkencyclus ziekte en arbeidsongeschiktheid’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd: 
@@ -4711,8 +3939,6 @@ c. de conclusie dat het niet mogelijk is de eigen functie van de werknemer aan t
 ### Artikel  5:18:3  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het tijdelijk dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -4732,15 +3958,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO) vanwege ernstige mate van onbekwaamheid of ongeschiktheid als bedoeld in artikel 4.7, onder g, CAO PO
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat sprake is van ernstige mate van onbekwaamheid of ongeschiktheid voor het verrichten van de functie door de werknemer zoals bedoeld in artikel 4.7, onder g, CAO PO, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden van artikel 5:19:1 tot en met 5:19:3 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:19:1  
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de brief waarin de werkgever aan de werknemer heeft medegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten.  
@@ -4748,8 +3970,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:19:2  
 
 ####Inspanning behoud werknemer voor eigen functie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Voordat het tijdelijk dienstverband is verstreken, heeft de werkgever zich ingespannen om de werknemer voor zijn eigen functie te behouden. Uiteindelijk heeft hij geconcludeerd dat dit niet mogelijk is.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Gesprekkencyclus’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd: 
@@ -4775,8 +3995,6 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het tijdelijk dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
@@ -4795,15 +4013,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO) vanwege onherroepelijke veroordeling tot vrijheidsstraf (artikel 4.7, sub h, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat er naar het oordeel van de werkgever sprake is van een onherroepelijke veroordeling tot vrijheidsstraf zoals bedoeld in artikel 4.7, sub h, van de CAO PO, komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:20:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:20:1  
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de brief waarin de werkgever aan de werknemer heeft meegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten.  
@@ -4812,15 +4026,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO) vanwege bij indiensttreding opzettelijk verstrekken van onjuiste of onvolledige inlichtingen (artikel 4.7, onder i, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat er naar het oordeel van de werkgever sprake is van het bij of in verband met indiensttreding en/of keuring opzettelijk verstrekken van onjuiste of onvolledige inlichtingen, zonder welke handelwijze niet tot indienstneming of geschiktverklaring zou zijn overgegaan, terwijl de termijn van zes maanden nog niet verstreken is, sinds de vaststelling van dit feit zoals bedoeld in artikel 4.7, onder i, van de CAO PO, komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:21:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:21:1  
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de brief waarin de werkgever aan de werknemer heeft medegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten.  
@@ -4829,15 +4039,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO) vanwege plichtsverzuim als bedoeld in artikel 4.7 onder j
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat sprake is van plichtsverzuim zoals bedoeld in artikel 4.7, onder j, van de CAO Primair Onderwijs, komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:22:1 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:22:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de brief waarin de werkgever aan de werknemer heeft medegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten.  
@@ -4846,15 +4052,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO): vanwege redenen van gewichtige aard zoals bedoeld in artikel 4.7, onder k, vanwege kwalitatieve fricties
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat sprake is gewichtige omstandigheden zoals bedoeld in artikel 4.7, onder k, CAO PO, vanwege kwalitatieve fricties omdat het naar het oordeel van de werkgever anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikelen 5:23:1 tot en met 5:23:5 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:23:1  
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de brief waarin de werkgever aan de werknemer heeft medegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten.   
@@ -4863,8 +4065,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:23:2  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het niet voortzetten van het tijdelijke dienstverband, vergeleken met het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -4884,8 +4084,6 @@ d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:23:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:23:2.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:23:2 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
@@ -4900,8 +4098,6 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ####Toetsingsdatum
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement dat van kracht is in dat volgende schooljaar.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
 3.  Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet of beëindigd dienstverband per een andere datum dan genoemd in het eerste of tweede lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten of beëindigen van het dienstverband.   
@@ -4910,8 +4106,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:23:5  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het tijdelijk dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -4931,15 +4125,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO) vanwege redenen van gewichtige aard (artikel 4.7, onder k, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat er naar het oordeel van de werkgever sprake is van een reden van gewichtige aard zoals bedoeld in artikel 4.7, onder k, van de CAO PO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:24:1 tot en met 5:24:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:24:1  
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over ter zake doende documenten waaruit onderbouwd blijkt dat er sprake is van gewichtige omstandigheden op grond waarvan de werkgever van oordeel is dat redelijkerwijs niet verlangd kan worden dat het dienstverband van werknemer nog langer wordt voortgezet.  
@@ -4947,8 +4137,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:24:2  
 
 ####Inspanning behoud werknemer voor eigen functie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Voordat het tijdelijke dienstverband is verstreken, heeft de werkgever zich ingespannen om de werknemer voor zijn eigen functie te behouden. Uiteindelijk heeft hij geconcludeerd dat dit niet mogelijk is.   
 2.  De werkgever legt daartoe over de modelverklaring ‘gesprekkencyclus’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd: 
@@ -4974,8 +4162,6 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.   
 3.  Als de werknemer de verklaring weigert te ondertekenen, overlegt de werkgever afschriften van andere ter zake overtuigende documenten zoals een brief aan de werknemer waarin de werkgever gemotiveerd meedeelt dat, en waarom, er geen herplaatsingsmogelijkheden zijn.  
@@ -4983,8 +4169,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:24:4  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het tijdelijk dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -5004,15 +4188,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO) vanwege beëindiging van de leerarbeidsovereenkomst van een leraar in opleiding (artikel 4.23 CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de opleidende instelling de leerarbeidsovereenkomst van de leraar in opleiding heeft beëindigd zoals bedoeld in artikel 4.23 van de CAO PO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:25:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:25:1  
 
 ####Meedelen reden niet voortzetten tijdelijk dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de leerarbeidsovereenkomst waaruit blijkt dat de einddatum van het tijdelijk dienstverband overeenkomt met de datum van beëindiging van het tijdelijk dienstverband zoals deze door de werkgever bij het vergoedingsverzoek is opgegeven.  
@@ -5021,15 +4201,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO) vanwege beëindiging van de leerarbeidsovereenkomst van een onderwijsassistent in opleiding (artikel 4.26 CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet vanwege de beëindiging van de leerarbeidsovereenkomst van de onderwijsassistent in opleiding zoals bedoeld in artikel 4.26 van de CAO PO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:26:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:26:1  
 
 ####Meedelen reden niet voortzetten tijdelijk dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de leerarbeidsovereenkomst waaruit blijkt dat de einddatum van het tijdelijk dienstverband overeenkomt met de datum van beëindiging van het tijdelijk dienstverband zoals deze door de werkgever bij het vergoedingsverzoek is opgegeven.  
@@ -5038,15 +4214,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO) vanwege ontbreken onderwijsbevoegdheid dan wel het verzet van een wettelijke bepaling (artikel 4.2 CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werknemer niet de bij wet voorgeschreven onderwijsbevoegdheid bezit of indien enige overige wettelijke bepaling zich tegen voortzetting van het dienstverband verzet zoals bedoeld in artikel 4.2 van de CAO PO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:27:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:27:1  
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  Indien de reden voor het niet voortzetten van een tijdelijk dienstverband ligt in het feit dat de werknemer de bij wet voorgeschreven onderwijsbevoegdheid niet bezit, dan overlegt de werkgever een afschrift van een document waaruit blijkt wat de gemaakte afspraken zijn omtrent de onderwijsbevoegdheid bij aanvang van het dienstverband alsmede een afschrift van een document waaruit blijkt dat deze afspraken niet zijn nagekomen.   
@@ -5060,15 +4232,11 @@ b. de werkgever de werknemer heeft meegedeeld dat het tijdelijk dienstverband ni
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO): vanwege het niet meewerken aan re-integratie als bedoeld in artikel 20a ZAPO
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat sprake is van het niet meewerken aan re-integratie als bedoeld in artikel 20a ZAPO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:28:1 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:28:1  
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de brief waarin de werkgever aan de werknemer heeft medegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten.   
@@ -5078,15 +4246,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (Artikel 4.4, onder a, CAO PO); vanwege vervanging afwezige met ziekteverlof op grond van ZAPO
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 4.4, onder a, CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:29:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:29:1  
 
 ####Aantonen vervanging wegens ziekte
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die ziekteverlof op grond van het ZAPO genoot.   
 2.  De werkgever legt daartoe over een akte van aanstelling van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
@@ -5106,15 +4270,11 @@ b. andere ter zake overtuigende documenten waaruit blijkt dat de werknemer de we
 
 ####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (Artikel 4.4, onder a, CAO PO); vanwege vervanging afwezige wegens schorsing (Artikel 4.11 t/m 4.14 CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 4.4, onder a, CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:30:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:30:1  
 
 ####Aantonen vervanging wegens schorsing
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die is geschorst op grond van artikel 4.11 tot en met 4.14 van de CAO PO.   
 2.  De werkgever legt daartoe over een afschrift van de akte van aanstelling van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
@@ -5128,15 +4288,11 @@ b. de periode waarvoor de aanstelling is aangegaan.
 
 ####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (Artikel 4.4, onder a, van de CAO PO); vanwege vervanging afwezige wegens gecompenseerd vakantieverlof (Artikel 8.2, onder 6, CAO PO) en verleend verlof indien werknemer door ziekte minder dan 20 dagen vakantieverlof heeft genoten (artikel 8.2, achtste lid, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 4.4, onder a, van de CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:31:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:31:1  
 
 ####Aantonen vervanging wegens gecompenseerd vakantieverlof
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die gecompenseerd vakantieverlof genoot op grond van artikel 8.2, zesde lid, of artikel 8.2, achtste lid, van de CAO PO.   
 2.  De werkgever legt daartoe over een afschrift van de akte van aanstelling van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
@@ -5156,15 +4312,11 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (Artikel 4.4, onder a, van de CAO PO); vanwege vervanging afwezige wegens opnieuw verleend verlof (Artikel 8.6 CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 4.4, onder a, CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:32:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:32:1  
 
 ####Aantonen vervanging wegens opnieuw verleend verlof
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die opnieuw verleend verlof genoot op grond van artikel 8.6 van de CAO PO.   
 2.  De werkgever legt daartoe over een afschrift van de akte van aanstelling van de vervanger waarin is opgenomen: 
@@ -5184,15 +4336,11 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (Artikel 4.4, onder a, CAO PO); vanwege vervanging afwezige wegensbuitengewoon verlof (Artikel 8.7 tot en met 8.9, artikel 8.11 tot en met 8.13, artikel 8.15 of artikel 8.18 CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 4.4, onder a, CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:33:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:33:1  
 
 ####Aantonen vervanging wegens buitengewoon verlof
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die buitengewoon verlof genoot op grond van artikel 8.7 dan wel 8.8, 8.9, 8.11, 8.12, 8.13, 8.15 of 8.18 van de CAO PO.   
 2.  De werkgever legt daartoe over een afschrift van de akte van aanstelling van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
@@ -5212,15 +4360,11 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (Artikel 4.4, onder a, CAO PO); vanwege vervanging afwezige wegens zwangerschaps- en bevallingsverlof op grond van de Wet Arbeid en Zorg (WAZO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 4.4, onder a, CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:34:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:34:1  
 
 ####Aantonen vervanging wegens zwangerschaps- en bevallingsverlof
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die zwangerschaps- en bevallingsverlof genoot op grond van de WAZO.   
 2.  De werkgever legt daartoe over een afschrift van de akte van aanstelling van de werknemer die de afwezig werknemer heeft vervangen, waarin is opgenomen: 
@@ -5240,15 +4384,11 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (Artikel 4.4, onder a, CAO PO); vanwege vervanging afwezige wegens ouderschapsverlof (Artikel 8.19, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 4.4, onder a, CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:35:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:35:1  
 
 ####Aantonen vervanging wegens ouderschapsverlof
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die ouderschapsverlof genoot op grond van artikel 8.19 van de CAO PO.   
 2.  De werkgever legt daartoe over een afschrift van de akte van aanstelling van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
@@ -5268,15 +4408,11 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (Artikel 4.4, onder a, CAO PO); vanwege vervanging afwezige wegens spaarverlof (Artikel 8.23 CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 4.4, onder a, CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:36:1 en artikel 5:36:2 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:36:1  
 
 ####Aantonen vervanging wegens spaarverlof
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die spaarverlof genoot op grond van artikel 8.23 CAO PO.   
 2.  De werkgever legt daartoe over een afschrift van de akte van aanstelling van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
@@ -5296,8 +4432,6 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.   
 3.  Als de werknemer de verklaring weigert te ondertekenen, overlegt de werkgever afschriften van andere ter zake overtuigende documenten met betrekking tot het herplaatsingsonderzoek zoals een brief aan de werknemer waarin de werkgever gemotiveerd meedeelt dat, en waarom, er geen herplaatsingsmogelijkheden zijn.  
@@ -5306,15 +4440,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (Artikel 4.4, onder a, CAO PO); vanwege vervanging afwezige wegens levensloopverlof (Artikel 8.24 CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 4.4, onder a, CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:37:1 en 5:37:2 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:37:1  
 
 ####Aantonen vervanging wegens levensloopverlof
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die levensloopverlof genoot op grond van artikel 8.24 CAO PO.   
 2.  De werkgever legt daartoe over een afschrift van de akte van aanstelling van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
@@ -5334,8 +4464,6 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor de eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.   
 3.  Als de werknemer de verklaring weigert te ondertekenen, overlegt de werkgever afschriften van andere ter zake overtuigende documenten met betrekking tot het herplaatsingsonderzoek zoals een brief aan de werknemer waarin de werkgever gemotiveerd meedeelt dat, en waarom, er geen herplaatsingsmogelijkheden zijn  
@@ -5344,15 +4472,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (Artikel 4.4, onder a, CAO PO); vanwege vervanging afwezige wegens studieverlof op grond van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 4.4, onder a, van de CAO PO, niet wordt, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:38:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:38:1  
 
 ####Aantonen vervanging wegens studieverlof op grond van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die studieverlof genoot op grond van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008.   
 2.  De werkgever legt daartoe over een afschrift van de akte van aanstelling van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
@@ -5372,15 +4496,11 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband vanwege het niet meewerken aan re-integratie als bedoeld in artikel 20a ZAPO
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat sprake is van het niet meewerken aan re-integratie als bedoeld in artikel 20a ZAPO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:39:1 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:39:1 
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de brief waarin de werkgever aan de werknemer heeft medegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten.   
@@ -5390,13 +4510,9 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Formatieve beëindigingsgronden bij een vast dienstverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  5:40  
 
 ####Grondslag vergoedingsverzoek: Opheffing betrekking (artikel 4.7, onder d, CAO PO) voor werkgevers met ontslagbeleid
-
-Materieel uitgewerkt per 14-01-2015 
 
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO hanteert en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als ontslag is verleend op grond van artikel 4.7, onder d, CAO PO, te weten op grond van opheffing van de instelling of de dienst van de instelling of de betrekking en de werkgever heeft aan de voorwaarden genoemd in artikel 5:40:1 tot en met 5:40:9 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
@@ -5404,16 +4520,12 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 ####Reden ontslag aan werknemer meedelen
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever heeft de reden van het ontslag aan aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van het ontslagbesluit.  
 
 ### Artikel  5:40:2  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -5433,8 +4545,6 @@ d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:40:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:40:2.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:40:2 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
@@ -5448,8 +4558,6 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 ### Artikel  5:40:4  
 
 ####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voortgezet, dan geeft hij aan dat er op de datum waarop het dienstverband van rechtswege eindigde, geen vacature voor de functie van werknemer was waarin de werknemer benoemd had kunnen worden.   
 2.  Indien de werkgever een werknemer in vaste dienst heeft ontslagen of wanneer van een werknemer het dienstverband op grond van een beëindigingsovereenkomst is beëindigd, dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
@@ -5468,15 +4576,11 @@ v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., i
 
 ####Uitgestelde beëindiging van het dienstverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 5:40:2 in de schooljaren 2012–2013, 2013–2014 en 2014–2015 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2013 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
 
 ### Artikel  5:40:6  
 
 ####Afvloeiingsvolgorde
-
-Materieel uitgewerkt per 14-01-2015 
 
 Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betreft die in een vast dienstverband was of waren benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
 
@@ -5484,15 +4588,11 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betre
 
 ####Vergelijking per onderwijssoort
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 5:40:2 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
 ### Artikel  5:40:8  
 
 ####Toetsingsdatum
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de bekostiging van de Centrale Dienst dan wel Samenwerkingsverband zich heeft voorgedaan direct voorafgaand aan de datum van het beëindigen van het dienstverband.   
@@ -5501,8 +4601,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:40:9  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -5524,15 +4622,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: opheffing betrekking (artikel 4.7, onder d CAO PO) voor werkgevers met werkgelegenheidsbeleid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de werkgelegenheidsbeleid als bedoeld in artikel 10.2 van de CAO-PO voert en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt een vergoedingsverzoeken voor toewijzing in aanmerking als ontslag is verleend op grond van artikel 4.7, onder d, CAO PO, te weten op grond van opheffing van de instelling of de dienst van de instelling of de betrekking en de werkgever heeft aan de voorwaarden genoemd in artikel 5:41:1 tot en met 5:41:5 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:41:1  
 
 ####Reden ontslag aan werknemer meedelen
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden van het ontslag aan aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van het ontslagbesluit.  
@@ -5540,8 +4634,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:41:2  
 
 ####Sociaal Plan in geval daling bekostiging groter of gelijk aan loonkosten op jaarbasis
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat hij met de vakcentrales in het DGO het sociaal plan is overeengekomen omdat hij wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden de werkgelegenheidsgarantie niet meer kon garanderen.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Daling bekostiging bij werkgelegenheidsbeleid’ waaruit blijkt dat 
@@ -5555,8 +4647,6 @@ c. er derhalve aan het beëindigen van het dienstverband niet (mede) andere rede
 ### Artikel  5:41:3  
 
 ####Sociaal Plan in geval van werknemers van wie het vaste dienstverband wordt beëindigd
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat 
 
@@ -5576,8 +4666,6 @@ b. het ontslag na afloop van de tweede fase van het sociaal plan.
 
 ####Toetsingsdatum
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de bekostiging van de Centrale Dienst dan wel Samenwerkingsverband zich heeft voorgedaan direct voorafgaand aan de datum van het beëindigen van het dienstverband.   
 3.  Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van bekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.7 en 10.4, zesde lid, van de CAO-PO niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement dat per 1 augustus van het volgend schooljaar van kracht is.  
@@ -5586,8 +4674,6 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over het sociaal plan waaruit moet blijken dat de werknemer van minstens één van de in het sociaal plan overeengekomen mobiliteitsbevorderende maatregelen gebruik heeft kunnen maken.  
 
@@ -5595,15 +4681,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: Opheffing betrekking (artikel 4.7, onder d, CAO PO) vanwege reorganisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever met de centrales in het DGO overleg heeft gevoerd over de rechtspositionele gevolgen van een reorganisatie als bedoeld in artikel 13.2 lid 5 onder a van de CAO PO en in dat kader een met de bonden overeengekomen sociaal plan, zoals bedoeld in artikel 10.3 van de CAO PO uitvoert of heeft uitgevoerd, dan komt een vergoedingsverzoeken voor toewijzing in aanmerking als ontslag is verleend op grond van artikel 4.7, onder d, CAO PO, te weten op grond van opheffing van de instelling of de dienst van de instelling of de betrekking en de werkgever heeft aan de voorwaarden genoemd in artikel 5:42:1 tot en met 5:42:3 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:42:1  
 
 ####Reden ontslag aan werknemer meedelen
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden van het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van het ontslagbesluit.  
@@ -5611,8 +4693,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:42:2  
 
 ####Sociaal Plan
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat: 
 
@@ -5626,8 +4706,6 @@ b. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gem
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over het sociaal plan waaruit moet blijken dat de werknemer van minstens één van de in het sociaal plan overeengekomen mobiliteitsbevorderende maatregelen gebruik heeft kunnen maken.  
 
@@ -5635,15 +4713,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: Opheffing betrekking (artikel 4.7, onder d, CAO PO) van schoonmaakpersoneel wegens daling van de materiele bekostiging
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO hanteert en er is sprake van daling van de rijksbekostiging materieel, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als ontslag is verleend op grond van artikel 4.7, onder d, CAO PO, te weten op grond van opheffing van de betrekking vanwege daling van de materiele bekostiging en de werkgever heeft aan de voorwaarden genoemd in artikel 5:43:1 tot en met 5:43:5 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:43:1  
 
 ####Reden ontslag aan werknemer meedelen
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden van het ontslag aan aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van het ontslagbesluit.  
@@ -5652,16 +4726,12 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Daling materiele bekostiging per 1 januari 2015
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2015, vergeleken met de totale rijksbekostiging Materieel per 31 december 2014, zijn gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging materieel. De werkgever gebruikt daarvoor de modelberekening ‘kostenvergelijking materieel’ van het Participatiefonds.  
 
 ### Artikel  5:43:3  
 
 ####beëindiging dienstverband
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  In geval van een daling van de rijksbekostiging materiele instandhouding kan op drie data het dienstverband van schoonmaakpersoneel beëindigen: 
 
@@ -5700,15 +4770,11 @@ C. beëindiging dienstverband per 1 augustus 2015
 
 ####Afvloeiingsvolgorde bij vast en tijdelijk dienstverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als er meerdere ontslagen gemeld worden, overlegt de werkgever de onderlinge volgorde van ontslag. Hierbij zijn voor personeel in vaste dienst de geldende regels t.a.v. de afvloeiingsvolgorde van de CAO PO van kracht. Een vergoedingsverzoek in geval van ontslag van personeel in vaste dienst, terwijl personeel in tijdelijke dienst gehandhaafd blijft, is niet mogelijk op grond van dit artikel. 
 
 ### Artikel  5:43:5  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -5730,15 +4796,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: Opheffing betrekking (artikel 4.7, onder d, CAO PO) van medewerkers Centrale Dienst dan wel Samenwerkingsverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt een vergoedingsverzoek voor toewijzing in als ontslag is verleend op grond van artikel 4.7, onder d, CAO PO, te weten op grond van opheffing van de instelling of de dienst van de instelling of de betrekking en de werkgever heeft aan de voorwaarden genoemd in artikel 5:44:1 tot en met 5:44:8 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:44:1  
 
 ####Reden ontslag aan werknemer meedelen
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden van het ontslag aan aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van het ontslagbesluit.  
@@ -5747,8 +4809,6 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Daling bekostiging volgens vergelijking
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over documenten waaruit blijkt dat de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband per de datum van het ontslag, is gedaald.   
 3.  Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.  
@@ -5756,8 +4816,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:44:3  
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:44:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:44:2.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:44:2 aan de hand van de loonkostentool van het Participatiefonds.   
@@ -5772,8 +4830,6 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 ### Artikel  5:44:4  
 
 ####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voortgezet, dan geeft hij aan dat er op de datum waarop het dienstverband van rechtswege eindigde, geen vacature voor de functie van werknemer was waarin de werknemer benoemd had kunnen worden.   
 2.  Indien de werkgever een werknemer in vaste dienst heeft ontslagen of wanneer van een werknemer het dienstverband op grond van een beëindigingsovereenkomst is beëindigd, dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
@@ -5792,15 +4848,11 @@ v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., i
 
 ####Afvloeiingsvolgorde
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als er meerdere ontslagen gemeld worden, overlegt de werkgever de onderlinge volgorde van ontslag. Hierbij zijn voor personeel in vaste dienst de geldende regels t.a.v. de afvloeiingsvolgorde van de CAO PO van kracht. Een vergoedingsverzoek in geval van ontslag van personeel in vaste dienst, terwijl personeel in tijdelijke dienst gehandhaafd blijft, is niet mogelijk op grond van dit artikel. 
 
 ### Artikel  5:44:6  
 
 ####Toetsingsdatum
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus verleend ontslag wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een verleend ontslagper een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het ontslag.   
@@ -5810,8 +4862,6 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie en/of participerende organisaties binnen het samenwerkingsverband te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie en/of participerende organisaties binnen het samenwerkingsverband heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.   
 3.  Als de werknemer de verklaring weigert te ondertekenen, overlegt de werkgever andere ter zake overtuigende documenten zoals een brief aan de werknemer waarin de werkgever gemotiveerd meedeelt dat, en waarom, er geen herplaatsingsmogelijkheden zijn.  
@@ -5819,8 +4869,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:44:8  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -5842,15 +4890,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: Opheffing betrekking (artikel 4.7, onder d, CAO PO) vanwege daling of beëindiging van een landelijke door de overheid beschikbaar gestelde subsidie voor werkgever met ontslagbeleid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van een daling of beëindiging van een landelijke door de overheid beschikbaar gestelde subsidie, waaronder ook begrepen subsidie voor een combinatiefunctie als bedoeld in het document ‘bestuurlijke afspraken Impuls brede scholen’, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als ontslag is verleend op grond van artikel 4.7, onder d, CAO PO, te weten op grond van opheffing van de instelling of de dienst van de instelling of de betrekking en de werkgever heeft aan de voorwaarden genoemd in artikel 5:45:1 tot en met 5:45:4 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:45:1  
 
 ####Reden ontslag aan werknemer meedelen
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden van het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van het ontslagbesluit.  
@@ -5859,16 +4903,12 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Daling of beëindiging van een landelijk door de overheid beschikbare gestelde subsidie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat de landelijke subsidie is gedaald of beëindigd.   
 2.  De werkgever legt daartoe over ter zake overtuigende documenten waaruit blijkt dat de landelijk door de overheid beschikbaar gestelde subsidie is gedaald of beëindigd.  
 
 ### Artikel  5:45:3  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -5890,15 +4930,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: opheffing betrekking (Artikel 4.7, onder d, CAO PO) bij ontslagbeleid vanwege de daling of beëindiging van de gemeentelijke bijdrage voor in- en doorstroombanen (ID-banen)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van een daling of beëindiging van een gemeentelijke bijdrage voor in- en doorstroombanen, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als ontslag is verleend op grond van artikel 4.7, onder d, CAO PO, te weten op grond van opheffing van de instelling of de dienst van de instelling of de betrekking en de werkgever heeft aan de voorwaarden genoemd in artikel 5:46:1 tot en met 5:46:3 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:46:1  
 
 ####Reden beëindigen dienstverband aan werknemer meedelen
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit.  
@@ -5907,16 +4943,12 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Daling of beëindiging van de gemeentelijke bijdrage voor ID-banen
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat de gemeentelijke bijdrage voor ID-banen is gedaald of beëindigd.   
 2.  De werkgever legt daartoe over ter zake overtuigende documenten waaruit blijkt dat de gemeente de bijdragen voor ID-banen heeft verminderd of beëindigd.  
 
 ### Artikel  5:46:3  
 
 ####Inspanning behoud werknemer voor eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.   
@@ -5926,15 +4958,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 4.7, onder k, vierde lid CAO PO) vanwege opheffing betrekking (artikel 4.7, onder d, CAO PO) voor werkgevers met ontslagbeleid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO hanteert en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt een vergoedingsverzoeken voor toewijzing in aanmerking als het dienstverband is beëindigd op grond van artikel 4.7, onder k, CAO PO, te weten met wederzijds goedvinden met als reden opheffing van de instelling of de dienst van de instelling of de betrekking, zoals bedoeld in artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:47:1 tot en met 5:47:9 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:47:1  
 
 ####Meedelen reden beëindiging dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
@@ -5942,8 +4970,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:47:2  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -5963,8 +4989,6 @@ d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:47:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:47:2.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:47:2 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
@@ -5978,8 +5002,6 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 ### Artikel  5:47:4  
 
 ####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voortgezet, dan geeft hij aan dat er op de datum waarop het dienstverband van rechtswege eindigde, geen vacature voor de functie van werknemer was waarin de werknemer benoemd had kunnen worden.   
 2.  Indien de werkgever een werknemer in vaste dienst heeft ontslagen of wanneer van een werknemer het dienstverband op grond van een beëindigingsovereenkomst is beëindigd, dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
@@ -5998,15 +5020,11 @@ v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., i
 
 ####Uitgestelde beëindiging van het dienstverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 5:47:2 in de schooljaren 2012–2013, 2013–2014 en 2014–2015 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2013 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
 
 ### Artikel  5:47:6  
 
 ####Afvloeiingsvolgorde
-
-Materieel uitgewerkt per 14-01-2015 
 
 Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betreft die in een vast dienstverband was of waren benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
 
@@ -6014,15 +5032,11 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betre
 
 ####Vergelijking per onderwijssoort
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 5:47:2 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
 ### Artikel  5:47:8  
 
 ####Toetsingsdatum
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per 1 augustus van het volgend schooljaar van kracht is.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het beëindigen van het dienstverband.   
@@ -6031,8 +5045,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:47:9  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -6054,15 +5066,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 4.7, onder k, vierde lid CAO PO) vanwege opheffing betrekking (artikel 4.7, onder d, CAO PO) voor werkgevers met werkgelegenheidsbeleid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de werkgelegenheidsbeleid als bedoeld in artikel 10.2 van de CAO-PO voert en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband is beëindigd op grond van artikel 4.7, onder k, CAO PO, te weten met wederzijds goedvinden met als reden opheffing van de instelling of de dienst van de instelling of de betrekking, zoals bedoeld in artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:48:1 tot en met 5:48:5 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:48:1  
 
 ####Meedelen reden beëindiging dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
@@ -6070,8 +5078,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:48:2  
 
 ####Sociaal Plan in geval daling bekostiging groter of gelijk aan loonkosten op jaarbasis
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat hij met de vakcentrales in het DGO het sociaal plan is overeengekomen omdat hij wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden de werkgelegenheidsgarantie niet meer kon garanderen.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Daling bekostiging bij werkgelegenheidsbeleid’ waaruit blijkt dat 
@@ -6085,8 +5091,6 @@ c. er derhalve aan het beëindigen van het dienstverband niet (mede) andere rede
 ### Artikel  5:48:3  
 
 ####Sociaal Plan in geval van werknemers van wie het vaste dienstverband wordt beëindigd
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat 
 
@@ -6106,8 +5110,6 @@ b. het ontslag na afloop van de tweede fase van het sociaal plan.
 
 ####Toetsingsdatum
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per 1 augustus van het volgend schooljaar van kracht is.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het beëindigen van het dienstverband.   
 3.  Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.7 en 10.4, zesde lid, van de CAO-PO niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.  
@@ -6116,8 +5118,6 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over het sociaal plan waaruit moet blijken dat de werknemer van minstens één van de in het sociaal plan overeengekomen mobiliteitsbevorderende maatregelen gebruik heeft kunnen maken.  
 
@@ -6125,15 +5125,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 4.7, onder k, vierde lid CAO PO) vanwege opheffing betrekking (artikel 4.7, onder d, CAO PO) vanwege reorganisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever met de centrales in het DGO overleg heeft gevoerd over de rechtspositionele gevolgen van een reorganisatie als bedoeld in artikel 13.2 lid 5 onder a van de CAO PO en in dat kader een met de bonden overeengekomen sociaal plan, zoals bedoeld in artikel 10.3 van de CAO PO uitvoert of heeft uitgevoerd, dan komt een vergoedingsverzoeken voor toewijzing in aanmerking als het dienstverband is beëindigd op grond van artikel 4.7, onder k, CAO PO, te weten met wederzijds goedvinden met als reden opheffing van de instelling of de dienst van de instelling of de betrekking, zoals bedoeld in artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:49:1 tot en met 5:49:3 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:49:1  
 
 ####Meedelen reden beëindiging dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
@@ -6141,8 +5137,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:49:2  
 
 ####Sociaal Plan
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat: 
 
@@ -6158,8 +5152,6 @@ c. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gem
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over het sociaal plan waaruit moet blijken dat de werknemer van minstens één van de in het sociaal plan overeengekomen mobiliteitsbevorderende maatregelen gebruik heeft kunnen maken.  
 
@@ -6167,15 +5159,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 4.7, onder k, vierde lid CAO PO) vanwege opheffing betrekking (artikel 4.7, onder d, CAO PO) van schoonmaakpersoneel wegens daling van de materiele bekostiging
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO hanteert en er is sprake van daling van de rijksbekostiging materieel, dan komen vergoedingsverzoeken voor toewijzing in aanmerking als het dienstverband voor schoonmaakpersoneel is beëindigd op grond van artikel 4.7, onder k, CAO PO, te weten met wederzijds goedvinden met als reden opheffing van de betrekking vanwege daling van de materiele bekostiging, zoals bedoeld in artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:50:1 tot en met 5:50:5 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:50:1  
 
 ####Meedelen reden beëindiging dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
@@ -6184,16 +5172,12 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Daling materiele bekostiging per 1 januari 2014
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2014, vergeleken met de totale rijksbekostiging Materieel per 31 december 2013, zijn gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging materieel. De werkgever gebruikt daarvoor de modelberekening ‘kostenvergelijking materieel’ van het Participatiefonds.  
 
 ### Artikel  5:50:3  
 
 ####beëindiging dienstverband
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  In geval van een daling van de rijksbekostiging materiele instandhouding kan op drie data het dienstverband van schoonmaakpersoneel beëindigen: 
 
@@ -6232,15 +5216,11 @@ C. beëindiging dienstverband per 1 augustus 2015
 
 ####Afvloeiingsvolgorde bij vast en tijdelijk dienstverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een vast dienstverband was benoemd, terwijl het tijdelijke dienstverband van één of meer werknemers niet wordt beëindigd. 
 
 ### Artikel  5:50:5  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -6262,15 +5242,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 4.7, onder k, vierde lid CAO PO) vanwege opheffing betrekking (artikel 4.7, onder d, CAO PO) van medewerkers Centrale Dienst dan wel Samenwerkingsverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband is beëindigd op grond van artikel 4.7, onder k, CAO PO, te weten met wederzijds goedvinden met als reden opheffing van de instelling of de dienst van de instelling of de betrekking, zoals bedoeld in artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:51:1 tot en met 5:51:8 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:51:1  
 
 ####Meedelen reden beëindiging dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
@@ -6279,8 +5255,6 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Daling bekostiging volgens vergelijking
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband, direct voorafgaand aan de beëindiging van het dienstverband, vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband per de datum van de beëindiging van het dienstverband is gedaald.   
 2.  De werkgever legt daartoe over documenten waaruit blijkt dat de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband direct voorafgaand aan de datum van de beëindiging van het dienstverband, vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband per de datum van de datum van de beëindiging van het dienstverband is gedaald.   
 3.  Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.  
@@ -6288,8 +5262,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:51:3  
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:51:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:51:2.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:51:2 aan de hand van de loonkostentool van het Participatiefonds.   
@@ -6304,8 +5276,6 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 ### Artikel  5:51:4  
 
 ####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voortgezet, dan geeft hij aan dat er op de datum waarop het dienstverband van rechtswege eindigde, geen vacature voor de functie van werknemer was waarin de werknemer benoemd had kunnen worden.   
 2.  Indien de werkgever een werknemer in vaste dienst heeft ontslagen of wanneer van een werknemer het dienstverband op grond van een beëindigingsovereenkomst is beëindigd, dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
@@ -6324,15 +5294,11 @@ v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., i
 
 ####Afvloeiingsvolgorde
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betreft die in een vast dienstverband was of waren benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
 
 ### Artikel  5:51:6  
 
 ####Toetsingsdatum
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per 1 augustus van het volgend schooljaar van kracht is.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het beëindigen van het dienstverband.   
@@ -6342,8 +5308,6 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie en/of participerende organisaties binnen het samenwerkingsverband te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie en/of participerende organisaties binnen het samenwerkingsverband heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.   
 3.  Als de werknemer de verklaring weigert te ondertekenen, overlegt de werkgever andere ter zake overtuigende documenten zoals een brief aan de werknemer waarin de werkgever gemotiveerd meedeelt dat, en waarom, er geen herplaatsingsmogelijkheden zijn.  
@@ -6351,8 +5315,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:51:8  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -6374,15 +5336,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 4.7, onder k, vierde lid CAO PO) vanwege opheffing betrekking (artikel 4.7, onder d, CAO PO) vanwege daling of beëindiging van een landelijke door de overheid beschikbaar gestelde subsidie voor werkgever met ontslagbeleid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van een daling of beëindiging van een landelijke door de overheid beschikbaar gestelde subsidie, waaronder ook begrepen subsidie voor een combinatiefunctie als bedoeld in het document ‘bestuurlijke afspraken Impuls brede scholen’, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband is beëindigd op grond van artikel 4.7, onder k, CAO PO, te weten met wederzijds goedvinden met als reden opheffing van de instelling of de dienst van de instelling of de betrekking, zoals bedoeld in artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:52:1 tot en met 5:52:3 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:52:1  
 
 ####Meedelen reden beëindiging dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
@@ -6391,16 +5349,12 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Daling of beëindiging van een landelijk door de overheid beschikbare gestelde subsidie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat de landelijke subsidie is gedaald of beëindigd.   
 2.  De werkgever legt daartoe over ter zake overtuigende documenten waaruit blijkt dat de landelijk door de overheid beschikbaar gestelde subsidie is gedaald of beëindigd.  
 
 ### Artikel  5:52:3  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -6422,15 +5376,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 4.7, onder k, vierde lid CAO PO) vanwege opheffing betrekking (artikel 4.7, onder d, CAO PO) vanwege de daling of beëindiging van de gemeentelijke bijdrage voor in- en doorstroombanen (ID-banen) voor werkgevers met ontslagbeleid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van een daling of beëindiging van een gemeentelijke bijdrage voor in- en doorstroombanen, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband is beëindigd op grond van artikel 4.7, onder k, CAO PO, te weten met wederzijds goedvinden met als reden opheffing van de instelling of de dienst van de instelling of de betrekking, zoals bedoeld in artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:53:1 tot en met 5:53:3 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:53:1  
 
 ####Meedelen reden beëindiging dienstverband aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
@@ -6439,16 +5389,12 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Daling of beëindiging van de gemeentelijke bijdrage voor ID-banen
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat de gemeentelijke bijdrage voor ID-banen is gedaald of beëindigd.   
 2.  De werkgever legt daartoe over ter zake overtuigende documenten waaruit blijkt dat de gemeente de bijdragen voor ID-banen heeft verminderd of beëindigd.  
 
 ### Artikel  5:53:3  
 
 ####Inspanning behoud werknemer voor eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.  
@@ -6457,21 +5403,15 @@ Materieel uitgewerkt per 14-01-2015
 
 ####formatieve beëindigingsgronden bij een tijdelijk dienstverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  5.54  
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO) vanwege opheffing van de betrekking voor werkgever met ontslagbeleid
-
-Materieel uitgewerkt per 14-01-2015 
 
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO hanteert, en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 4.6, tweede lid, CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan niet is voortgezet op grond van artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:54:1 tot en met 5:54:7 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:54:1  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -6491,8 +5431,6 @@ d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, waarvan het tijdelijke niet wordt voortgezet, op jaarbasis gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:54:1.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:54.1 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
@@ -6507,15 +5445,11 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
 
-Materieel uitgewerkt per 14-01-2015 
-
 Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voortgezet, dan geeft hij aan dat er op de datum waarop het dienstverband van rechtswege eindigde, geen vacature voor de functie van werknemer was waarin de werknemer benoemd had kunnen worden. 
 
 ### Artikel  5:54:4  
 
 ####Uitgestelde beëindiging van het dienstverband
-
-Materieel uitgewerkt per 14-01-2015 
 
 Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 5:54:1 in de schooljaren 2012–2013, 2013–2014 en 2014–2015 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2013 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
 
@@ -6523,15 +5457,11 @@ Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan word
 
 ####Vergelijking per onderwijssoort
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 5:54:1 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
 ### Artikel  5:54:6  
 
 ####Toetsingsdatum
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement dat van kracht is in dat volgende schooljaar.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten van het dienstverband.   
@@ -6540,8 +5470,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:54:7  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -6561,15 +5489,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO) vanwege opheffing van de betrekking voor werkgever met werkgelegenheidsbeleid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de werkgelegenheidsbeleid als bedoeld in artikel 10.2 van de CAO-PO voert en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 4.6, tweede lid, CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:55:1 tot en met 5:55:4 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:55:1  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking in geval van werknemers van wie het tijdelijk dienstverband niet wordt voortgezet
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont ten aanzien van een werknemer wiens tijdelijke dienstverband niet wordt voortgezet aan dat het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid gaat met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -6589,8 +5513,6 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis in geval van werknemers van wie het tijdelijke dienstverband niet wordt voortgezet
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers van wie het tijdelijke dienstverband niet wordt voortgezet, waarvan het tijdelijke dienstverband niet wordt voortgezet, op jaarbasis gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:55:1;   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, van wie het tijdelijke dienstverband niet wordt voortgezet, bedoeld in artikel 5:55:1 aan de hand van de loonkostentool van het Participatiefonds.  
 
@@ -6598,15 +5520,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Uitgestelde beëindiging van het dienstverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 5:54:1 in de schooljaren 2012–2013, 2013–2014 en 2014–2015 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2013 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
 
 ### Artikel  5:55:4  
 
 ####Toetsingsdatum
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement dat van kracht is in dat volgende schooljaar.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten van het dienstverband.  
@@ -6614,8 +5532,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:55:5  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over het sociaal plan waaruit moet blijken dat de werknemer van minstens één van de in het sociaal plan overeengekomen mobiliteitsbevorderende maatregelen gebruik heeft kunnen maken.   
@@ -6636,15 +5552,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO) vanwege reorganisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever met de centrales in het DGO overleg heeft gevoerd over de rechtspositionele gevolgen van een reorganisatie als bedoeld in artikel 13.2 lid 5 onder a van de CAO PO en in dat kader een met de bonden overeengekomen sociaal plan, zoals bedoeld in artikel 10.3 van de CAO PO uitvoert of heeft uitgevoerd, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 4.6, tweede lid, van de CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:56:1 tot en met 5:56:4 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:56:1  
 
 ####Reden niet voortzetten dienstverband aan werknemer meedelen
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van een brief waarin de werkgever aan de werknemer heeft medegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten.  
@@ -6652,8 +5564,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:56:2  
 
 ####Sociaal Plan
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat 
 
@@ -6667,8 +5577,6 @@ b. het niet voortzetten van het tijdelijk dienstverband tijdens de looptijd van 
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over het sociaal plan waaruit moet blijken dat de werknemer van minstens één van de in het sociaal plan overeengekomen mobiliteitsbevorderende maatregelen gebruik heeft kunnen maken.  
 
@@ -6676,15 +5584,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 46, eerste lid, CAO PO) van schoonmaakpersoneel wegens daling van de materiele bekostiging
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband voor schoonmaakpersoneel dat voor bepaalde tijd is aangegaan op grond van artikel 4.6 tweede lid van de CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de betrekking (artikel 4.7, onder d, CAO PO vanwege daling van de materiele bekostiging en de werkgever heeft aan de voorwaarden genoemd in artikel 5:57:1 tot en met 5:57:3 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:57:1  
 
 ####Daling materiele bekostiging per 1 januari 2015
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2015, vergeleken met de totale rijksbekostiging Materieel per 31 december 2014, zijn gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging Materieel. De werkgever gebruikt daarvoor de modelberekening ‘kostenvergelijking materieel’ van het Participatiefonds.  
@@ -6692,8 +5596,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:57:2  
 
 ####beëindiging dienstverband
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  In geval van een daling van de rijksbekostiging materiele instandhouding kan op drie data het dienstverband van schoonmaakpersoneel beëindigen: 
 
@@ -6732,8 +5634,6 @@ C. beëindiging dienstverband per 1 augustus 2015
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
@@ -6752,15 +5652,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO) vanwege opheffing betrekking Centrale Dienst dan wel Samenwerkingsverband (artikel 4.7, onder d, CAO PO)
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van daling van de bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband, dan komen vergoedingsverzoeken voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 4.6 tweede lid van de CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:58:1 tot en met 5:58:6 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:58:1  
 
 ####Daling bekostiging volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband, direct voorafgaand aan de datum van het niet voortzetten van het tijdelijk dienstverband, vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over documenten waaruit blijkt dat de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband direct voorafgaand aan de datum van het niet voortzetten van het tijdelijk dienstverband vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband per de datum van het van het niet voortzetten van het tijdelijk dienstverband is gedaald.   
@@ -6769,8 +5665,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:58:2  
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, waarvan het tijdelijke dienstverband niet wordt voortgezet, op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:58:1.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:58:1 aan de hand van de loonkostentool van het Participatiefonds.   
@@ -6786,15 +5680,11 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
-Materieel uitgewerkt per 14-01-2015 
-
 Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voortgezet, dan geeft hij aan dat er op de datum waarop het dienstverband van rechtswege eindigde, geen vacature voor de functie van werknemer was waarin de werknemer benoemd had kunnen worden. 
 
 ### Artikel  5:58:4  
 
 ####Toetsingsdatum
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement dat van kracht is in dat volgende schooljaar.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten van het dienstverband.   
@@ -6804,8 +5694,6 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie en/of participerende organisaties binnen het samenwerkingsverband te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie en/of participerende organisaties binnen het samenwerkingsverband heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.   
 3.  Als de werknemer de verklaring weigert te ondertekenen, overlegt de werkgever andere ter zake overtuigende documenten zoals een brief aan de werknemer waarin de werkgever gemotiveerd meedeelt dat, en waarom, er geen herplaatsingsmogelijkheden zijn.  
@@ -6813,8 +5701,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:58:6  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -6834,15 +5720,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO) vanwege opheffing van de betrekking zoals bedoeld in artikel 4.7, onder d, CAO PO, vanwege daling of beëindiging van een landelijke subsidie
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 4.7, onder d, CAO PO vanwege daling of beëindiging van een landelijke subsidie, waaronder ook begrepen subsidie voor een combinatiefunctie als bedoeld in het document ‘bestuurlijke afspraken Impuls brede scholen’, dan komt de werkgever die de regeling werkgelegenheidsbeleid of ontslagbeleid, artikel 10.2 en 10.4 van de CAO PO, hanteert voor toewijzing van het vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden van artikel 5:59:1 tot en met 5:59:2 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:59:1  
 
 ####Beëindiging van een landelijk door de overheid beschikbare gestelde subsidie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat de landelijke subsidie is gedaald of beëindigd.   
 2.  De werkgever legt daartoe over ter zake overtuigende documenten waaruit blijkt dat de landelijk door de overheid beschikbaar gestelde subsidie of subsidie voor een combinatiefunctie als bedoeld in het document ‘bestuurlijke afspraken Impuls brede scholen’ is gedaald of beëindigd.  
@@ -6850,8 +5732,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:59:2  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het tijdelijk dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -6871,21 +5751,15 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Beëindigingsgronden passend onderwijs bij vast dienstverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  5:60  
 
 ####Grondslag vergoedingsverzoek: ontslag vanwege opheffing betrekking (artikel 4.7, onder d, CAO PO) voor werkgevers met ontslagbeleid wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden, als gevolg van de invoering van passend onderwijs
-
-Materieel uitgewerkt per 14-01-2015 
 
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO en er is ontslag verleend op grond van artikel 4.7, onder d, CAO PO, te weten op grond van opheffing van de instelling of de dienst van de instelling of de betrekking wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden als gevolg van de invoering van passend onderwijs, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:60:1 tot en met 5:60:9 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:60:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit.  
@@ -6894,15 +5768,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol.
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de strekking van het tripartiet convenant over de personele gevolgen overleg heeft gevoerd met het samenwerkingsverband, de betrokken besturen en de vakorganisaties, gericht op overeenstemming conform de vigerende regels van het overlegprotocol.  
 
 ### Artikel  5:60:3  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid is met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid is met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -6922,8 +5792,6 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:60:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:60:2.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:60:2 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
@@ -6937,8 +5805,6 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 ### Artikel  5:60:5  
 
 ####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Indien de werkgever een werknemer in vaste dienst heeft ontslagen dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
 
@@ -6956,23 +5822,17 @@ v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., i
 
 ####Afvloeiingsvolgorde
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een vast dienstverband was benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
 
 ### Artikel  5:60:7  
 
 ####Vergelijking per onderwijssoort
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 5:60:3 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
 ### Artikel  5:60:8  
 
 ####Toetsingsdatum
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus verleend ontslag wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een verleend ontslag per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het ontslag.   
@@ -6981,8 +5841,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:60:9  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -7004,15 +5862,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: ontslag vanwege opheffing betrekking (artikel 4.7, onder d, CAO PO) voor werkgevers die ten behoeve van de personele gevolgen passend onderwijs een sociaal plan met de vakbonden overeengekomen zijn
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever, ontslag verleend op grond van artikel 4.7, onder d, CAO PO, te weten op grond van opheffing van de instelling of de dienst van de instelling of de betrekking, wegens daling van de financiële bijdragen van derden als gevolg van de invoering passend onderwijs, een sociaal plan is overeengekomen met de vakcentrales, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:61:1 tot en met 5:61:5 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:61:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit.  
@@ -7020,8 +5874,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:61:2  
 
 ####Sociaal Plan in geval daling bekostiging als gevolg van de invoering passend onderwijs
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat hij met de vakcentrales in het DGO het sociaal plan is overeengekomen omdat hij wegens daling van de financiële bijdragen van derden als gevolg van de invoering passend onderwijs de werkgelegenheidsgarantie niet meer kon garanderen.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Daling financiële bijdragen van derden als gevolg van de invoering passend onderwijs’ waaruit blijkt dat 
@@ -7033,8 +5885,6 @@ II. er derhalve aan het beëindigen van het dienstverband niet (mede) andere red
 ### Artikel  5:61:3  
 
 ####Sociaal Plan in geval van werknemers van wie het vaste dienstverband wordt beëindigd
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat: 
 
@@ -7048,16 +5898,12 @@ b. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gem
 
 ####Toetsingsdatum
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Een vergoedingsverzoek op grond van dit artikel van een ontslag per 1 augustus wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een ontslag per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst.  
 
 ### Artikel  5:61:5  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over het sociaal plan waaruit moet blijken dat de werknemer van minstens één van de in het sociaal plan overeengekomen mobiliteitsbevorderende maatregelen gebruik heeft kunnen maken.  
@@ -7066,15 +5912,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: vanwege met name genoemde reden van gewichtige aard (artikel 4.7, onder k, cao PO te weten kwalitatieve fricties, als gevolg van de invoering van passend onderwijs
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als ontslag is verleend op grond van artikel 4.7, onder k, van de CAO PO, met als reden dat er naar het oordeel van de werkgever sprake is van met name genoemde redenen van gewichtige aard, zoals bedoeld in artikel 4.7, onder k, van de CAO PO, vanwege kwalitatieve fricties als gevolg van de invoering van passend onderwijs, omdat het naar het oordeel van de werkgever anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:62:1 tot en met 5:62:9 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:62:1  
 
 ####Meedelen reden ontslag aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor ontslag aan de werknemer meegedeeld.   
 2.  De werkgever overlegt daartoe het ontslagbesluit.  
@@ -7083,15 +5925,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol.
 
-Materieel uitgewerkt per 14-01-2015 
-
 De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de strekking van het tripartiet convenant over de personele gevolgen overleg heeft gevoerd met het samenwerkingsverband, de betrokken besturen en de vakorganisaties, gericht op overeenstemming conform de vigerende regels van het overlegprotocol. 
 
 ### Artikel  5:62:3  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid is met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid is met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever overlegt daartoe de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -7110,8 +5948,6 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:62:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:62:2.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:62:2 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
@@ -7125,8 +5961,6 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 ### Artikel  5:62:5  
 
 ####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Indien de werkgever een werknemer in vaste dienst heeft ontslagen dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
 
@@ -7144,15 +5978,11 @@ v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., i
 
 ####Afvloeiingsvolgorde
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een vast dienstverband was benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
 
 ### Artikel  5:62:7  
 
 ####Vergelijking per onderwijssoort
-
-Materieel uitgewerkt per 14-01-2015 
 
 Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 5:62:3 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
@@ -7160,15 +5990,11 @@ Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die 
 
 ####Toetsingsdatum
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus verleend ontslag wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.  
 
 ### Artikel  5:62:9  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever overlegt daartoe de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -7190,13 +6016,9 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####beëindigingsgronden passend onderwijs bij tijdelijk dienstverband
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  5:63  
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid vanwege opheffing betrekking (artikel 4.7, onder d, CAO PO) wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden, als gevolg van de invoering van passend onderwijs
-
-Materieel uitgewerkt per 14-01-2015 
 
 Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO hanteert, en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden als gevolg van de invoering van passend onderwijs, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 4.6 eerste lid, CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:63:1 tot en met 5:63:8 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
@@ -7204,15 +6026,11 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 ####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol.
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de strekking van het tripartiet convenant over de personele gevolgen overleg heeft gevoerd met het samenwerkingsverband, de betrokken besturen en de vakorganisaties, gericht op overeenstemming conform de vigerende regels van het overlegprotocol.  
 
 ### Artikel  5:63:2  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid is met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid is met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -7232,8 +6050,6 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, waarvan het tijdelijke dienstverband niet wordt voortgezet, op jaarbasis gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:63.1.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:63.1 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
@@ -7248,15 +6064,11 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
 
-Materieel uitgewerkt per 14-01-2015 
-
 Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voortgezet, dan geeft hij aan dat er op de datum waarop het dienstverband van rechtswege eindigde, geen vacature voor de functie van werknemer was waarin de werknemer benoemd had kunnen worden. 
 
 ### Artikel  5:63:5  
 
 ####Afvloeiingsvolgorde
-
-Materieel uitgewerkt per 14-01-2015 
 
 Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een vast dienstverband was benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
 
@@ -7264,15 +6076,11 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een 
 
 ####Vergelijking per onderwijssoort
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 5:63:3 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
 ### Artikel  5:63:7  
 
 ####Toetsingsdatum
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement dat van kracht is in dat volgende schooljaar.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten van het dienstverband.   
@@ -7281,8 +6089,6 @@ Materieel uitgewerkt per 14-01-2015
 ### Artikel  5:63:8  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -7302,15 +6108,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid en artikel 3.6, tweede lid CAO PO) vanwege opheffing betrekking (artikel 4.7, onder d, CAO PO) wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden, voor werkgevers die ten behoeve van de personele gevolgen passend onderwijs een sociaal plan met de vakbonden overeengekomen zijn
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als de werkgever met de centrales in het DGO overleg heeft gevoerd over de rechtspositionele gevolgen van de invoering van passend onderwijs, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 4.6, tweede lid, van de CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:64:1 tot en met 5:64:3 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:64:1  
 
 ####Sociaal Plan in geval daling bekostiging als gevolg van de invoering passend onderwijs
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat hij met de vakcentrales in het DGO het sociaal plan is overeengekomen omdat hij wegens daling van de financiële bijdragen van derden als gevolg van de invoering passend onderwijs de werkgelegenheidsgarantie niet meer kon garanderen.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Daling financiële bijdragen van derden als gevolg van de invoering passend onderwijs’ waaruit blijkt dat: 
@@ -7322,8 +6124,6 @@ II. er derhalve aan het beëindigen van het dienstverband niet (mede) andere red
 ### Artikel  5:64:2  
 
 ####Sociaal Plan in geval van werknemers van wie het vaste dienstverband wordt beëindigd
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat: 
 
@@ -7337,8 +6137,6 @@ b. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gem
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over het sociaal plan waaruit moet blijken dat de werknemer van minstens één van de in het sociaal plan overeengekomen mobiliteitsbevorderende maatregelen gebruik heeft kunnen maken.  
 
@@ -7346,15 +6144,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid CAO PO) vanwege met name genoemde redenenvan gewichtige aard (artikel 4.7, onder k, CAO PO te weten kwalitatieve fricties, als gevolg van de invoering van passend onderwijs
 
-Materieel uitgewerkt per 14-01-2015 
-
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat er sprake is van met name genoemde redenen van gewichtige aard zoals bedoeld in artikel 4.7, onder k, van de CAO PO, vanwege kwalitatieve fricties, als gevolg van de invoering van passend onderwijs, omdat naar het oordeel van de werkgever het anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikelen 5:65:1 tot en met 5:65:7 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:65:1  
 
 ####Meedelen reden niet voortzetten aan werknemer
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van de brief waarin de werkgever aan de werknemer heeft medegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten.  
@@ -7363,15 +6157,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol.
 
-Materieel uitgewerkt per 14-01-2015 
-
 De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de strekking van het tripartiet convenant over de personele gevolgen overleg heeft gevoerd met het samenwerkingsverband, de betrokken besturen en de vakorganisaties, gericht op overeenstemming conform de vigerende regels van het overlegprotocol. 
 
 ### Artikel  5:65:3  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid is met de totale rijksbekostiging van personeel en financiële bijdragen van derden, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid is met de totale rijksbekostiging van personeel en financiële bijdragen van derden per de datum van het ontslag, is gedaald.   
 2.  De werkgever overlegt daartoe de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden: 
@@ -7390,8 +6180,6 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:65:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:65:2.   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:65:2 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
@@ -7405,8 +6193,6 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 ### Artikel  5:65:5  
 
 ####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Indien de werkgever een werknemer in vaste dienst heeft ontslagen dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
 
@@ -7424,15 +6210,11 @@ v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., i
 
 ####Afvloeiingsvolgorde
 
-Materieel uitgewerkt per 14-01-2015 
-
 Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een vast dienstverband was benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
 
 ### Artikel  5:65:7  
 
 ####Vergelijking per onderwijssoort
-
-Materieel uitgewerkt per 14-01-2015 
 
 Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 5:65:3 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
@@ -7440,15 +6222,11 @@ Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die 
 
 ####Toetsingsdatum
 
-Materieel uitgewerkt per 14-01-2015 
-
 1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus verleend ontslag wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.  
 
 ### Artikel  5:65:9  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever overlegt daartoe de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
@@ -7468,13 +6246,9 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Slotbepalingen
 
-Materieel uitgewerkt per 14-01-2015 
-
 ### Artikel  6:1  
 
 ####Citeerregel
-
-Materieel uitgewerkt per 14-01-2015 
 
 Dit reglement kan worden aangehaald als het ‘Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra voor het schooljaar 2014–2015’. 
 
@@ -7482,15 +6256,11 @@ Dit reglement kan worden aangehaald als het ‘Reglement Participatiefonds voor 
 
 ####Inwerkingtreding
 
-Materieel uitgewerkt per 14-01-2015 
-
 Dit reglement treedt in werking met ingang van de dag volgend op die, waarop het in de Staatscourant is gepubliceerd en heeft betrekking op alle dienstverbanden die zijn of worden beëindigd dan wel niet worden voortgezet per of na 1 februari 2015. 
 
 ### Artikel  6:3  
 
 ####bekendmaking
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Dit reglement wordt bekendgemaakt middels publicatie in de Staatscourant.   
 2.  Het Participatiefonds plaatst dit reglement tevens op de internetsite van het Participatiefonds www.participatiefonds.nl  
@@ -7499,23 +6269,17 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Wijziging of afwijking van het reglement
 
-Materieel uitgewerkt per 14-01-2015 
-
 Het bestuur van het Participatiefonds is gerechtigd dit reglement op ieder moment aan te passen indien daar aanleiding toe is. Om zwaarwegende redenen kan het bestuur van het Participatiefonds afwijken van hetgeen in het reglement gesteld is. 
 
 ### Artikel  6:5  
 
 ####Onvoorziene omstandigheden
 
-Materieel uitgewerkt per 14-01-2015 
-
 In gevallen waarin het reglement niet voorziet, beslist het bestuur van het Participatiefonds. 
 
 ### Artikel  6:6  
 
 ####Toelichting en bestuursvoorschriften
-
-Materieel uitgewerkt per 14-01-2015 
 
 1.  Een toelichting op het reglement maakt deel uit van het reglement.   
 2.  Het Participatiefonds stelt bestuursvoorschriften vast waarin de uitvoeringstechnische verplichtingen voor werkgevers zijn neergelegd.   
@@ -7525,15 +6289,11 @@ Materieel uitgewerkt per 14-01-2015
 
 ####Wijziging voorgaand reglement
 
-Materieel uitgewerkt per 14-01-2015 
-
 Wijzigt het Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra voor het schooljaar 2014–2015. 
 
 ### Bijlage  1  
 
 ####: Modelverklaring gesprekkencyclus
-
-Materieel uitgewerkt per 14-01-2015 
 
 Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernummer: Naam werknemer: BSN: Werkgever en werknemer verklaren dat ze meerdere gesprekken met elkaar hebben gevoerd. Tijdens de gesprekken zijn tenminste de volgende onderwerpen aan de orde geweest: 
 
@@ -7559,8 +6319,6 @@ Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernumme
 
 ####: Modelverklaring gesprekkencyclus ziekte en arbeidsongeschiktheid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernummer: Naam werknemer: BSN: Werkgever en werknemer verklaren dat ze meerdere gesprekken met elkaar hebben gevoerd. Tijdens de gesprekken zijn tenminste de volgende onderwerpen aan de orde geweest: 
 
 * Welke beperkingen de werknemer heeft voor het uitoefenen van zijn eigen functie;  
@@ -7583,8 +6341,6 @@ Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernumme
 
 ####: Modelverklaring herplaatsingsonderzoek
 
-Materieel uitgewerkt per 14-01-2015 
-
 Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernummer: Naam werknemer: BSN: De werkgever en werknemer hebben met elkaar de herplaatsingsmogelijkheden binnen de eigen organisatie besproken. De werkgever heeft de werknemer tenminste geïnformeerd over: 
 
 * de wijze waarop de werkgever herplaatsingsmogelijkheden binnen de eigen organisatie heeft onderzocht;  
@@ -7605,8 +6361,6 @@ Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernumme
 
 ####: Modelverklaring herplaatsingsonderzoek ziekte en arbeidsongeschiktheid
 
-Materieel uitgewerkt per 14-01-2015 
-
 Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernummer: Naam werknemer: BSN: De werkgever en werknemer hebben met elkaar gesproken over herplaatsingsmogelijkheden binnen de eigen organisatie. De werkgever heeft de werknemer er tenminste over geïnformeerd dat: 
 
 * uit zorgvuldig onderzoek is gebleken dat voor de werknemer geen reële herplaatsingsmogelijkheden zijn;  
@@ -7626,8 +6380,6 @@ Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernumme
 ### Bijlage  5  
 
 ####: Modelverklaring aanbod ondersteuning extern
-
-Materieel uitgewerkt per 14-01-2015 
 
 Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernummer: Naam werknemer: BSN: De werkgever verklaart de volgende activiteiten te hebben ingekocht om de werknemer te begeleiden naar ander werk:  
 
@@ -7670,15 +6422,11 @@ b. tenminste € 1.000,-- bij een dienstverband van tenminste 6 maanden.
 
 ####: Modelbrief verlengd aanbod ondersteuning extern
 
-Materieel uitgewerkt per 14-01-2015 
-
 Geachte ......, Op (Vul in: datum einde dienstverband) wordt uw dienstverband als (Vul in: functie) bij (Vul in: naam van de school), een van de scholen van (vul in: naam werkgever) beëindigd. Op (Vul in: datum schriftelijk aanbod ondersteuning) hebben wij u schriftelijk ondersteuning aangeboden bij het verwerven van een werkkring buiten onze organisatie. Tot op heden heeft u nog geen gebruik gemaakt van ons aanbod. Hierbij bieden wij u wederom ondersteuning aan bij het verwerven van een werkkring buiten onze organisatie. Als u aanspraak maakt op een WW-uitkering dan blijft ons eerder aanbod voor de ondersteuning van kracht gedurende de eerste drie maanden na de eerste WW-dag. Voor informatie over ons aanbod verwijzen wij u naar de bijlage (Als bijlage toevoegen: schriftelijk aanbod externe ondersteuning). Wij wijzen u er op dat, indien u een recht op een WW-uitkering wordt toegekend, u verplicht bent mee te werken aan uw re-integratie op de arbeidsmarkt. Indien u niet meewerkt aan uw re-integratie dan kan het UWV hier consequenties aan verbinden in de vorm van een financiële sanctie. Hoogachtend,  *...*  
 
 ### Bijlage  7  
 
 ####: Modelverklaring daling bekostiging bij werkgelegenheidsbeleid
-
-Materieel uitgewerkt per 14-01-2015 
 
 Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernummer: De werkgever verklaart dat: 
 
@@ -7701,8 +6449,6 @@ c. er derhalve aan het beëindigen van het dienstverband niet (mede) andere rede
 ### Bijlage  8  
 
 ####: Modelverklaring daling financiele bijdrage van derden als gevolg van de invoering passend onderwijs
-
-Materieel uitgewerkt per 14-01-2015 
 
 Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernummer: De werkgever verklaart dat: 
 

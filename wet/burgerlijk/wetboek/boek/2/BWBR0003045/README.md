@@ -3637,7 +3637,7 @@ Tot het indienen van een verzoek als bedoeld in artikel 345 is voorts bevoegd ee
 
 ### Artikel  348  
 
-Indien de rechtspersoon wegens het bedrijf dat hij uitoefent, is onderworpen aan het toezicht van De Nederlandsche Bank N.V. of de Stichting Autoriteit Financiële Markten, doet de griffier een afschrift van het verzoekschrift ook aan de toezichthoudende instelling toekomen.  
+Indien de rechtspersoon wegens het bedrijf dat hij uitoefent, is onderworpen aan het toezicht van De Nederlandsche Bank N.V., de Stichting Autoriteit Financiële Markten of de Europese Centrale Bank, doet de griffier een afschrift van het verzoekschrift ook aan de toezichthoudende instelling toekomen. 
 
 ### Artikel  349  
 
@@ -3677,7 +3677,7 @@ De met het onderzoek belaste personen kunnen de ondernemingskamer verzoeken een 
 ### Artikel  353  
 
 1.  Het verslag van de uitkomst van het onderzoek wordt ter griffie van het gerechtshof Amsterdam nedergelegd. Uit het verslag moet blijken of aan het bepaalde in artikel 351 lid 4, tweede volzin is voldaan.   
-2.   De advocaat-generaal bij het ressortsparket, de rechtspersoon, alsmede de verzoekers en hun advocaten, ontvangen een exemplaar van het verslag. In het geval, bedoeld in artikel 348, ontvangt ook De Nederlandsche Bank N.V. onderscheidenlijk de Stichting Autoriteit Financiële Markten een exemplaar van het verslag. De ondernemingskamer kan bepalen dat het verslag voorts geheel of gedeeltelijk ter inzage ligt voor de door haar aan te wijzen andere personen of voor een ieder.    
+2.   De advocaat-generaal bij het ressortsparket, de rechtspersoon, alsmede de verzoekers en hun advocaten, ontvangen een exemplaar van het verslag. In het geval, bedoeld in artikel 348, ontvangt ook de in dat artikel genoemde, op de rechtspersoon toezichthoudende instelling een exemplaar van het verslag. De ondernemingskamer kan bepalen dat het verslag voorts geheel of gedeeltelijk ter inzage ligt voor de door haar aan te wijzen andere personen of voor een ieder.    
 3.   Het is aan anderen dan de rechtspersoon verboden mededelingen aan derden te doen uit het verslag, voor zover dat niet voor een ieder ter inzage ligt, tenzij zij daartoe op hun verzoek door de voorzitter van de ondernemingskamer zijn gemachtigd. Een vereniging van werknemers is echter zonder een zodanige machtiging bevoegd tot het verstrekken van mededelingen uit het verslag aan de ondernemingsraad, die aan een door de rechtspersoon gedreven onderneming is verbonden.    
 4.   Ten spoedigste na de nederlegging geeft de griffier daarvan kennis aan de verzoeker of verzoekers en aan de rechtspersoon; indien de ondernemingskamer dit beveelt, draagt hij voorts zorg voor de bekendmaking van de nederlegging en van de in het tweede lid bedoelde beschikking in de *Staatscourant*.   
 
@@ -3690,7 +3690,7 @@ De ondernemingskamer kan na kennisneming van het verslag op verzoek van de recht
 1.  Indien uit het verslag van wanbeleid is gebleken, kan de ondernemingskamer op verzoek van de oorspronkelijke verzoekers en, indien het verslag voor hen ter inzage ligt, op verzoek van anderen die aan de in artikel 346 of 347 van dit Boek gestelde vereisten voldoen, of op verzoek van de advocaat-generaal, ingesteld om redenen van openbaar belang, een of meer van de in het volgende artikel genoemde voorzieningen treffen, welke zij op grond van de uitkomst van het onderzoek geboden acht.    
 2.   Het verzoek moet worden gedaan binnen twee maanden na nederlegging van het verslag ter griffie.    
 3.  De artikelen 348 en 349a zijn van overeenkomstige toepassing.    
-4.   In het geval, bedoeld in artikel 348, neemt de ondernemingskamer geen beslissing, alvorens De Nederlandsche Bank N.V. onderscheidenlijk de Stichting Autoriteit Financiële Markten in de gelegenheid te hebben gesteld over het verzoek te worden gehoord.    
+4.   In het geval, bedoeld in artikel 348, neemt de ondernemingskamer geen beslissing, alvorens de in dat artikel genoemde, op de rechtspersoon toezichthoudende instelling in de gelegenheid te hebben gesteld over het verzoek te worden gehoord.    
 5.   De ondernemingskamer kan haar beslissing voor een door haar te bepalen termijn aanhouden, indien de rechtspersoon op zich neemt, bepaalde maatregelen te treffen die een einde maken aan het wanbeleid of die de gevolgen welke daaruit zijn voortgevloeid, zoveel mogelijk ongedaan maken of beperken.   
 
 ### Artikel  356  
@@ -3723,7 +3723,7 @@ f. ontbinding van de rechtspersoon.
 
 1.  De ondernemingskamer kan de voorlopige tenuitvoerlegging der voorzieningen genoemd in artikel 356 onder a-e bevelen.    
 2.   De griffier der ondernemingskamer doet ten kantore van het handelsregister een afschrift van de beschikkingen der ondernemingskamer nederleggen. Van beschikkingen die niet voorlopig ten uitvoer kunnen worden gelegd, geschiedt de nederlegging zodra zij in kracht van gewijsde zijn gegaan.    
-3.   In het geval, bedoeld in artikel 348, ontvangt De Nederlandsche Bank N.V. onderscheidenlijk de Stichting Autoriteit Financiële Markten van de griffier een afschrift van de beschikkingen van de ondernemingskamer.   
+3.   In het geval, bedoeld in artikel 348, ontvangt de in dat artikel genoemde, op de rechtspersoon toezichthoudende instelling van de griffier een afschrift van de beschikkingen van de ondernemingskamer.   
 
 ### Artikel  359  
 
@@ -4666,8 +4666,8 @@ In deze afdeling wordt onder bank verstaan: een financiële onderneming met zete
 
 1.  Voor zover in deze afdeling niet anders is bepaald, gelden de afdelingen 1, 2, 5 tot en met 10 en 13 van deze titel voor banken, alsmede de artikelen 365 lid 2, 366 lid 2, 368, 373 leden 2 tot en met 5, 374, leden 1, 2, en 4, 375 leden 5 en 7, 376, tweede volzin, 377 lid 7, en de artikelen 402, 403 en 404.    
 2.   Voor banken gelden de deelnemingen, de immateriële en de materiële activa als vaste activa. Andere effecten en verdere activa gelden als vaste activa, voor zover zij bestemd zijn om duurzaam voor de bedrijfsuitoefening te worden gebruikt.    
-3.   Over een ontwerp van een algemene maatregel van bestuur als bedoeld in artikel 363, zesde lid, voor zover deze strekt ter uitvoering van de bepalingen van deze afdeling, en over een ontwerp van een algemene maatregel van bestuur als bedoeld in artikel 417 wordt De Nederlandsche Bank N.V. gehoord.    
-4.   Ten aanzien van een bank geeft Onze Minister van Economische Zaken geen beslissing op een verzoek om ontheffing als bedoeld in de artikelen 58 lid 5, 101 lid 4, 210 lid 4, 379 lid 4 of 392 lid 4 dan nadat hij daarover De Nederlandsche Bank N.V. heeft gehoord.   
+3.   Over een ontwerp van een algemene maatregel van bestuur als bedoeld in artikel 363, zesde lid, voor zover deze strekt ter uitvoering van de bepalingen van deze afdeling, en over een ontwerp van een algemene maatregel van bestuur als bedoeld in artikel 417 wordt de Europese Centrale Bank of De Nederlandsche Bank N.V., al naar gelang de bevoegdheidsverdeling op grond van de artikelen 4 en 6 van de verordening bankentoezicht, bedoeld in artikel 1:1 van de Wet op het financieel toezicht, gehoord.    
+4.   Ten aanzien van een bank geeft Onze Minister van Economische Zaken geen beslissing op een verzoek om ontheffing als bedoeld in de artikelen 58 lid 5, 101 lid 4, 210 lid 4, 379 lid 4 of 392 lid 4 dan nadat hij daarover de Europese Centrale Bank of De Nederlandsche Bank N.V., al naar gelang de bevoegdheidsverdeling op grond van de artikelen 4 en 6 van de verordening bankentoezicht, bedoeld in artikel 1:1 van de Wet op het financieel toezicht, heeft gehoord.   
 
 ### Artikel  417  
 
@@ -5222,7 +5222,7 @@ b. de advocaat-generaal bij het ressortsparket in het openbaar belang.
 3.  Onverminderd de leden 4 tot en met 8 worden andere belanghebbenden dan de rechtpersoon, vennootschap, effectenuitgevende instelling of beleggingsinstelling, bedoeld in artikel 447, lid 1, waarop het verzoek betrekking heeft, niet opgeroepen en kunnen zij geen verweerschrift indienen. 
 4.  Indien het verzoek wordt gedaan ten aanzien van een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving en het verzoek niet is gedaan door de Stichting Autoriteit Financiële Markten, wordt deze in de gelegenheid gesteld te worden gehoord over de in het verzoek genoemde onderwerpen en, indien artikel 194 van het Wetboek van Burgerlijke rechtsvordering toepassing heeft gevonden, in de gelegenheid gesteld haar mening over het deskundigenbericht aan de ondernemingskamer kenbaar te maken. 
 5.  De ondernemingskamer beslist niet dan nadat zij de accountant die met het onderzoek van de jaarrekening is belast geweest, in de gelegenheid heeft gesteld te worden gehoord over de in het verzoek genoemde onderwerpen. 
-6. De ondernemingskamer geeft, indien het verzoek wordt gedaan ten aanzien van een verzekeraar of bank als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, geen beslissing zonder dat De Nederlandsche Bank N.V. in de gelegenheid is gesteld te worden gehoord over de in het verzoek genoemde onderwerpen. 
+6. De ondernemingskamer geeft, indien het verzoek wordt gedaan ten aanzien van een verzekeraar of bank als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, geen beslissing zonder dat De Nederlandsche Bank N.V. of de Europese Centrale Bank, indien deze bevoegd is toezicht uit te oefenen op grond van de artikelen 4 en 6 van de verordening bankentoezicht, bedoeld in artikel 1:1 van de Wet op het financieel toezicht, in de gelegenheid is gesteld te worden gehoord over de in het verzoek genoemde onderwerpen. 
 7.  De ondernemingskamer geeft, indien het verzoek wordt gedaan ten aanzien van een beleggingsonderneming als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, geen beslissing zonder De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten in de gelegenheid te hebben gesteld te worden gehoord over de in het verzoek genoemde onderwerpen. 
 8.  De ondernemingskamer geeft, indien het verzoek wordt gedaan ten aanzien van een beleggingsinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, geen beslissing zonder De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten in de gelegenheid te hebben gesteld te worden gehoord over de in het verzoek genoemde onderwerpen.
 

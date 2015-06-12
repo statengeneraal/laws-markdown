@@ -42,6 +42,7 @@ Besluit:
 | Titel 3.11: Borgstelling MKB-kredieten  | 3.11.2  | Bedrijfsborgstellingskredieten (door de minister aangewezen kredietverstrekkers)  | --- | 01-01-2015 t/m 31-12-2015  | 25.000.000  |
 | Titel 3.12: Groeifaciliteit  | 3.12.2  | --- | --- | 01-01-2015 t/m 31-12-2015  | 85.000.000  |
 | Titel 3.13: Garantie ondernemingsfinanciering  | 3.13.2 en 3.14.2  | --- | --- | 01-01-2015 t/m 31-12-2015  | 200.000.000  |
+| Titel 3.15: Garantieregeling scheepsnieuwbouwfinanciering  | 3.15.2  | --- | --- | Tijdstip waarop de regeling van de Minister van Economische Zaken van 10 juni 2015, tot wijziging van de Regeling openstelling EZ-subsidies 2015 in verband met openstelling van de garantieregeling scheepsnieuwbouwfinanciering (Stcrt. 2015, 15851) in werking is getreden tot en met 31-12-2015  | 400.000.000  |
 | Titel 3.16: Vroege fase financiering  | 3.16.2  | MKB-ondernemer  | --- | 01-01- 2015 t/m 01-07-2015  | 1.000.000  |
 | Titel 3.16: Vroege fase financiering  | 3.16.7  | Innovatieve starter  | --- | 01-01- 2015 t/m 01-07-2015  | 5.100.000  |
 | Titel 3.16: Vroege fase financiering  | 3.16.12  | Academische innovatieve starter  | --- | 15-01-2015 t/m 02-03-2015  | 1.900.000  |

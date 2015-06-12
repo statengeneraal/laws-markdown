@@ -1542,7 +1542,9 @@ j.  gegarandeerd deposito: een deposito voor zover dit voor vergoeding ingevolge
 
 k.  deposito-overeenkomst: de overeenkomst op grond waarvan een depositohouder een deposito houdt bij een bank;  
 
-l.  overnemer: degene die deposito-overeenkomsten, activa of passiva anders dan uit hoofde van deposito-overeenkomsten overneemt, degene die bereid is zulks te doen en degene die onderzoekt of hij daartoe bereid is.  
+l.  overnemer: degene die deposito-overeenkomsten, activa of passiva anders dan uit hoofde van deposito-overeenkomsten overneemt, degene die bereid is zulks te doen en degene die onderzoekt of hij daartoe bereid is; 
+
+m.  verordening bankentoezicht: verordening (EU) Nr. 1024/2013 van de Raad van 15 oktober 2013 waarbij aan de Europese Centrale Bank specifieke taken worden opgedragen betreffende het beleid inzake het prudentieel toezicht op kredietinstellingen (PbEU 2013, L 287).  
 2.  Voor de toepassing van deze afdeling is een bank gevestigd in:
 
 a.de staat waar de statutaire zetel is, indien het een rechtspersoon betreft die overeenkomstig het toepasselijke recht een statutaire zetel heeft; en
@@ -1562,12 +1564,12 @@ b. een in een staat die geen lidstaat is gevestigde kredietinstelling die haar b
 ### Artikel  212ha  
 
 1.  Ingeval De Nederlandsche Bank N.V. oordeelt dat er ten aanzien van een bank die een vergunning als bedoeld in artikel 2:11 van de Wet op het financieel toezicht heeft tekenen van een gevaarlijke ontwikkeling zijn met betrekking tot het eigen vermogen, de solvabiliteit of de liquiditeit en redelijkerwijs is te voorzien dat die ontwikkeling niet voldoende of niet tijdig ten goede zal keren, kan zij de rechtbank Amsterdam verzoeken ten aanzien van die bank het faillissement uit te spreken.   
-2.  Een ander dan De Nederlandsche Bank N.V. of een in een noodregeling benoemde bewindvoerder kan niet het faillissement van een bank die een door De Nederlandsche Bank N.V. verleende vergunning heeft aanvragen.   
-3.  Een bank die een door De Nederlandsche Bank N.V. verleende vergunning heeft kan aangifte doen van haar eigen faillissement. In dat geval stelt de rechtbank De Nederlandsche Bank N.V. in staat te worden gehoord alvorens te beslissen op de aangifte.  
+2.  Een ander dan De Nederlandsche Bank N.V. of een in een noodregeling benoemde bewindvoerder kan niet het faillissement van een bank die een door de Europese Centrale Bank of De Nederlandsche Bank N.V. verleende vergunning heeft aanvragen.   
+3.  Een bank die een door de Europese Centrale Bank of De Nederlandsche Bank N.V. verleende vergunning heeft kan aangifte doen van haar eigen faillissement. In dat geval stelt de rechtbank de Europese Centrale Bank of De Nederlandsche Bank N.V., al naar gelang de bevoegdheidsverdeling op grond van de artikelen 4 en 6 van de verordening bankentoezicht, in staat te worden gehoord alvorens te beslissen op de aangifte.  
 
 ### Artikel  212hb  
 
-Indien het belang van de gezamenlijke schuldeisers bij de afwikkeling van een bank met zetel in Nederland die niet een door De Nederlandsche Bank N.V. verleende vergunning heeft een bijzondere voorziening behoeft kan de rechtbank Amsterdam op verzoek van De Nederlandsche Bank N.V. het faillissement uitspreken. 
+Indien het belang van de gezamenlijke schuldeisers bij de afwikkeling van een bank met zetel in Nederland die niet een door de Europese Centrale Bank of De Nederlandsche Bank N.V. verleende vergunning heeft een bijzondere voorziening behoeft kan de rechtbank Amsterdam op verzoek van De Nederlandsche Bank N.V. het faillissement uitspreken. 
 
 ### Artikel  212hc  
 
@@ -1603,7 +1605,7 @@ d. het oordeel van De Nederlandsche Bank N.V. dat zich een situatie als bedoeld 
 ### Artikel  212hga  
 
 1.  Bij het uitspreken van het faillissement benoemt de rechtbank een van haar leden tot rechter-commissaris en benoemt zij een of meer curatoren. De Nederlandsche Bank N.V. kan voor de benoeming van de curator of curatoren voordrachten doen.   
-2.  Indien het verzoek wordt toegewezen, wordt de beschikking op een openbare terechtzitting uitgesproken en wordt een uittreksel ervan onverwijld door de curator bekendgemaakt in de Staatscourant, het Publicatieblad van de Europese Unie, alsmede in ten minste twee door de rechtbank aan te wijzen Nederlandse dagbladen en ten minste twee door de rechtbank aan te wijzen landelijke dagbladen van iedere lidstaat waar een bijkantoor van de bank is gelegen of waarnaar zij diensten verricht. De uittreksels vermelden naam en zetel van de bank, de woonplaats of het kantoor van de curator alsmede de datum van de beschikking. De publicatie in de landelijke dagbladen geschiedt in de officiële taal of talen van de betrokken lidstaat. In de bekendmaking in het Publicatieblad van de Europese Unie en de landelijke dagbladen van iedere lidstaat waar de bank een bijkantoor heeft of waarnaar zij diensten verricht wordt daarenboven vermeld dat op het faillissement, behoudens uitzonderingen, Nederlands recht van toepassing is, de rechtsgrondslag, dat De Nederlandsche Bank N.V. de bevoegde toezichthouder is, alsmede de uiterste datum waarop tegen de beschikking beroep in cassatie kan worden ingesteld met vermelding van het volledige adres van de Hoge Raad en het onderwerp van de beschikking.  
+2.  Indien het verzoek wordt toegewezen, wordt de beschikking op een openbare terechtzitting uitgesproken en wordt een uittreksel ervan onverwijld door de curator bekendgemaakt in de Staatscourant, het Publicatieblad van de Europese Unie, alsmede in ten minste twee door de rechtbank aan te wijzen Nederlandse dagbladen en ten minste twee door de rechtbank aan te wijzen landelijke dagbladen van iedere lidstaat waar een bijkantoor van de bank is gelegen of waarnaar zij diensten verricht. De uittreksels vermelden naam en zetel van de bank, de woonplaats of het kantoor van de curator alsmede de datum van de beschikking. De publicatie in de landelijke dagbladen geschiedt in de officiële taal of talen van de betrokken lidstaat. In de bekendmaking in het Publicatieblad van de Europese Unie en de landelijke dagbladen van iedere lidstaat waar de bank een bijkantoor heeft of waarnaar zij diensten verricht wordt daarenboven vermeld dat op het faillissement, behoudens uitzonderingen, Nederlands recht van toepassing is, de rechtsgrondslag, of de Europese Centrale Bank dan wel De Nederlandsche Bank N.V. de bevoegde toezichthouder is, alsmede de uiterste datum waarop tegen de beschikking beroep in cassatie kan worden ingesteld met vermelding van het volledige adres van de Hoge Raad en het onderwerp van de beschikking.  
 
 ### Artikel  212hi  
 
@@ -1637,7 +1639,7 @@ b. toe te staan dat de door De Nederlandsche Bank N.V. met name genoemde overnem
 4.  Artikel 1:89 van de Wet op het financieel toezicht is van overeenkomstige toepassing op personen die op grond van het tweede lid vertrouwelijke gegevens of inlichtingen hebben verkregen.   
 5.  Onverminderd het eerste lid, is het een ieder verboden, al dan niet op grond van de wet of enige overeenkomst, aan de voorbereiding van het overdrachtsplan bekendheid te geven.   
 6.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot hetgeen is bepaald in het derde, vierde en vijfde lid.   
-7.  De curator, de bank en een onderneming die tot de groep behoort waartoe ook de bank behoort waarop De Nederlandsche Bank N.V. toezicht houdt, alsmede de personen, bedoeld in het tweede lid, en de overnemer zijn uitgezonderd van alle bij of krachtens de wet geldende verplichtingen tot openbaarmaking van gegevens of inlichtingen, bedoeld in het tweede lid, tot aan het moment waarop het overdrachtsplan is goedgekeurd.  
+7.  De curator, de bank en een onderneming die tot de groep behoort waartoe ook de bank behoort waarop de Europese Centrale Bank of De Nederlandsche Bank N.V. toezicht houdt, alsmede de personen, bedoeld in het tweede lid, en de overnemer zijn uitgezonderd van alle bij of krachtens de wet geldende verplichtingen tot openbaarmaking van gegevens of inlichtingen, bedoeld in het tweede lid, tot aan het moment waarop het overdrachtsplan is goedgekeurd.  
 
 ### Artikel  212hm  
 
@@ -1681,7 +1683,7 @@ b.de toezichthoudende autoriteiten van de andere Lidstaten waarheen zij diensten
 
 ### Artikel 212k 
 
-De Nederlandsche Bank N.V. trekt de vergunning van de bank in, indien deze op het tijdstip van de faillietverklaring nog een vergunning heeft.
+De Nederlandsche Bank N.V. stelt een ontwerpbesluit als bedoeld in artikel 1:104, vijfde lid, van de Wet op het financieel toezicht op of trekt de vergunning van de bank in, indien deze op het tijdstip van de faillietverklaring nog een vergunning heeft.
 
 ### Artikel 212l 
 
@@ -1690,7 +1692,7 @@ De Nederlandsche Bank N.V. trekt de vergunning van de bank in, indien deze op he
 
 ### Artikel 212m 
 
-1. Nadat de rechtbank een noodregeling als bedoeld in artikel 3:160 van de Wet op het financieel toezicht heeft uitgesproken, kan zij in afwijking van artikel 1, de Nederlandsche Bank N.V. gehoord, op verzoek van de bewindvoerders, op voordracht van de rechter-commissaris of ambtshalve, de desbetreffende bank met zetel in Nederland in staat van faillissement verklaren indien blijkt dat deze een negatief eigen vermogen heeft en het met de verleende machtiging te bereiken doel is verwezenlijkt of niet meer kan worden verwezenlijkt of, indien geen machtiging is verleend, geen redelijk vooruitzicht meer bestaat dat het met een machtiging te bereiken doel alsnog kan worden verwezenlijkt. 
+1. Nadat de rechtbank een noodregeling als bedoeld in artikel 3:160 van de Wet op het financieel toezicht heeft uitgesproken, kan zij in afwijking van artikel 1, de Europese Centrale Bank of De Nederlandsche Bank N.V., al naar gelang de bevoegdheidsverdeling op grond van de artikelen 4 en 6 van de verordening bankentoezicht, gehoord, op verzoek van de bewindvoerders, op voordracht van de rechter-commissaris of ambtshalve, de desbetreffende bank met zetel in Nederland in staat van faillissement verklaren indien blijkt dat deze een negatief eigen vermogen heeft en het met de verleende machtiging te bereiken doel is verwezenlijkt of niet meer kan worden verwezenlijkt of, indien geen machtiging is verleend, geen redelijk vooruitzicht meer bestaat dat het met een machtiging te bereiken doel alsnog kan worden verwezenlijkt. 
 2. De noodregeling en de machtiging houden van rechtswege op van kracht te zijn ingeval de financiële onderneming, bedoeld in het eerste lid, in staat van faillissement wordt verklaard. 
 3. Alsdan, zomede indien de faillietverklaring wordt uitgesproken binnen vier weken na de beëindiging van de noodregeling, gelden de volgende bepalingen:
 

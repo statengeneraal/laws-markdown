@@ -10,73 +10,59 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de Advocatenwet en e
 Zo is het dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Advocatenwet. 
 
 ### Artikel  II  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de rechtsbijstand. 
 
 ### Artikel  III  
-Treedt in werking per 01-01-2015 
 
 De Wet tarieven in burgerlijke zaken wordt ingetrokken. 
 
 ### Artikel  IIIa  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme. 
 
 ### Artikel  IV  
-Treedt in werking per 01-01-2015 
 
 De artikelen 29 tot en met 40 van de Wet tarieven in burgerlijke zaken en artikel 38, vierde lid, van de Wet op de rechtsbijstand, zoals deze luidden vóór de inwerkingtreding van deze wet, blijven van toepassing op geschillen over het door de advocaat aan de cliënt berekende salaris, in gevallen waarin de rekening van de advocaat is begroot door de raad van toezicht vóór het tijdstip waarop deze wet in werking treedt. 
 
 ### Artikel  IVa  
-Treedt in werking per 01-01-2015 
 
 De paragrafen 4, 4a en 4b van de Advocatenwet, zoals deze luidden vóór de inwerkingtreding van deze wet, blijven van toepassing op klachten die tegen advocaten zijn ingediend vóór het tijdstip van inwerkingtreding van deze wet. 
 
 ### Artikel  IVb  
-Treedt in werking per 01-01-2015 
 
 1.  Op verzoeken tot inschrijving als advocaat, bedoeld in artikel 2, eerste lid, van de Advocatenwet, ingediend vóór de inwerkingtreding van artikel I, onderdeel B, van deze wet, blijft het recht van toepassing zoals dat op dat moment gold.   
 2.  Op besluiten krachtens artikel 9c van de Advocatenwet, die zijn genomen vóór de inwerkingtreding van artikel I, onderdeel Ka van deze wet, blijft het recht van toepassing zoals dat op dat moment gold.  
 
 ### Artikel  IVc  
-Treedt in werking per 01-01-2015 
 
 Het bepaalde in artikel 20 van de Advocatenwet is van toepassing vanaf de eerste verkiezing als bedoeld in het eerste lid van dat artikel op of na de datum van inwerkingtreding van artikel I, onderdeel P, van deze wet. 
 
 ### Artikel  V  
-Treedt in werking per 01-01-2015 
 
 *[Vervallen]* 
 
 ### Artikel  Va  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet rechtspositie rechterlijke ambtenaren. 
 
 ### Artikel  VI  
-Treedt in werking per 01-01-2015 
 
 Na de inwerkingtreding van deze wet berust het Kostuum- en titulatuurbesluit rechterlijke organisatie op artikel 70 van de Advocatenwet en artikel 54 van de Wet rechtspositie rechterlijke ambtenaren. 
 
 ### Artikel  VIa  
-Treedt in werking per 01-01-2015 
 
 Onze Minister van Veiligheid en Justitie zendt binnen vijf jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van artikel I, onderdelen H, I, La, Nd, R, S, T, Za, AAb, AAc, DD, DDa, DDb, FF, FFa, FFc, FFd, FFe, FFg en FFh van deze wet in de praktijk. 
 
 ### Artikel  VII  
-Treedt in werking per 01-01-2015 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  VIIa  
-Treedt in werking per 01-01-2015 
 
 Deze wet wordt aangehaald als: Wet positie en toezicht advocatuur. 
 

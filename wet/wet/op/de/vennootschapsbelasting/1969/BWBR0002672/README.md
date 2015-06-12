@@ -32,63 +32,16 @@ e. hiervoor niet genoemde verenigingen en stichtingen alsmede andere dan publiek
 
 f. fondsen voor gemene rekening;   
 
-g. in het derde lid vermelde ondernemingen van publiekrechtelijke rechtspersonen.     
-2.   Onder een fonds voor gemene rekening wordt verstaan een fonds ter verkrijging van voordelen voor de deelgerechtigden door het voor gemene rekening beleggen of anderszins aanwenden van gelden, mits van de deelgerechtigdheid in het fonds blijkt uit verhandelbare bewijzen van deelgerechtigdheid. Een fonds voor gemene rekening wordt als onderneming aangemerkt. De bewijzen van deelgerechtigdheid worden als verhandelbaar aangemerkt indien voor vervreemding niet de toestemming van alle deelgerechtigden is vereist, met dien verstande dat ingeval vervreemding uitsluitend kan plaatsvinden aan het fonds voor gemene rekening of aan bloed- en aanverwanten in de rechte linie de bewijzen niet als verhandelbaar worden aangemerkt.    
-3.   Als ondernemingen als bedoeld zijn in het eerste lid, onderdeel g, worden aangemerkt:  
-
-1°. landbouwbedrijven;   
-
-2°. nijverheidsbedrijven met uitzondering van die welke uitsluitend of nagenoeg uitsluitend water leveren;   
-
-3°. mijnbouwbedrijven;   
-
-4°. handelsbedrijven welke niet uitsluitend of nagenoeg uitsluitend de handel in onroerende zaken of daarop betrekking hebbende rechten tot voorwerp hebben;   
-
-5°. vervoersbedrijven met uitzondering van bedrijven welke uitsluitend of nagenoeg uitsluitend het vervoer van personen binnen de grenzen van een gemeente tot voorwerp hebben;   
-
-6°. bouwkassen.     Onder nijverheidsbedrijven worden mede begrepen bedrijven die gas, elektriciteit of warmte produceren, transporteren of leveren alsmede bedrijven die netten of leidingen aanleggen of beheren ten behoeve van het transport van gas, elektriciteit of warmte.   
+g. publiekrechtelijke rechtspersonen, niet zijnde de Staat, die niet al op grond van de onderdelen a, b, c, d en e belastingplichtig zijn, voor zover zij een onderneming drijven.     
+2.  Als binnenlandse belastingplichtigen zijn mede aan de belasting onderworpen de ondernemingen gedreven door de Staat. Voor de toepassing van deze wet worden alle ondernemingen gedreven door de Staat die behoren tot eenzelfde bij koninklijk besluit ingesteld ministerie als bedoeld in artikel 44 van de Grondwet, geacht tezamen één onderneming gedreven door de Staat te vormen.   
+3.  Onder een fonds voor gemene rekening wordt verstaan een fonds ter verkrijging van voordelen voor de deelgerechtigden door het voor gemene rekening beleggen of anderszins aanwenden van gelden, mits van de deelgerechtigdheid in het fonds blijkt uit verhandelbare bewijzen van deelgerechtigdheid. Een fonds voor gemene rekening wordt als onderneming aangemerkt. De bewijzen van deelgerechtigdheid worden als verhandelbaar aangemerkt indien voor vervreemding niet de toestemming van alle deelgerechtigden is vereist, met dien verstande dat ingeval vervreemding uitsluitend kan plaatsvinden aan het fonds voor gemene rekening of aan bloed- en aanverwanten in de rechte linie de bewijzen niet als verhandelbaar worden aangemerkt.   
 4.  Heeft de oprichting van een lichaam plaatsgevonden naar Nederlands recht, dan wordt voor de toepassing van deze wet, met uitzondering van de artikelen 13 tot en met 13d, 13i tot en met 13k, 14a, 14b, 15 en 15a, het lichaam steeds geacht in Nederland te zijn gevestigd. Bij een lichaam dat zonder toepassing van de eerste volzin niet een binnenlandse belastingplichtige zou zijn, wordt, in afwijking van hoofdstuk II, het voordeel uit hoofde van een aanmerkelijk belang als bedoeld in artikel 17, derde lid, onderdeel b, bepaald op de voet van hoofdstuk III. Een Europese naamloze vennootschap die bij haar oprichting werd beheerst door Nederlands recht, wordt voor de toepassing van de eerste volzin geacht te zijn opgericht naar Nederlands recht.   
 5.   De lichamen, vermeld in het eerste lid, onderdelen a, b, c en d, worden geacht hun onderneming te drijven met behulp van hun gehele vermogen.    
 6.   Voor de toepassing van deze wet wordt het bestaan van een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid steeds aangenomen, zodra en zolang een onderneming als behorende aan een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid in het handelsregister staat ingeschreven.    
-7.   Lichamen waarvan uitsluitend Nederlandse publiekrechtelijke rechtspersonen onmiddellijk of middellijk aandeelhouders, deelnemers of leden zijn, alsmede lichamen waarvan de bestuurders uitsluitend door Nederlandse publiekrechtelijke rechtspersonen onmiddellijk of middellijk worden benoemd en ontslagen en welker vermogen bij liquidatie uitsluitend ter beschikking van Nederlandse publiekrechtelijke rechtspersonen komt, zijn slechts aan de belasting onderworpen, voorzover zij een bedrijf uitoefenen als bedoeld is in het derde lid. Het bepaalde in de vorige volzin is niet van toepassing ten aanzien van:  
-
-a. het Nederlands Meetinstituut NV;   
-
-b. de N.V. Nederlands Inkoopcentrum (NIC);   
-
-c. de Stichting Exploitatie Nederlandse Staatsloterij;   
-
-d. De Koninklijke Nederlandse Munt N.V.;   
-
-e. lichamen waarin een rechtspersoon, aan wie een distributiebedrijf toebehoort in de zin van de Wet energiedistributie, een belang heeft, alsmede lichamen die met een zodanige rechtspersoon in een groep zijn verbonden in de zin van artikel 24b van boek 2 van het Burgerlijk Wetboek, welke lichamen activiteiten verrichten die eerstgenoemde rechtspersoon ingevolge artikel 12, eerste lid, van de Wet energiedistributie niet zelf mag verrichten, tenzij die lichamen uitsluitend of nagenoeg uitsluitend water leveren;  
-
-f. lichamen die een bedrijf uitoefenen als bedoeld in het derde lid, tweede volzin, met uitzondering van lichamen die uitsluitend of nagenoeg uitsluitend water leveren;   
-
-g. NOB Holding N.V.;  
-
-h. de N.V. Luchthaven Schiphol;  
-
-i. de N.V. KLIQ;  
-
-j.de N.V. Bank Nederlandse Gemeenten;
-
-k.de Nederlandse Waterschapsbank N.V.;
-
-l. Fortis Bank (Nederland) N.V.;  
-
-m. ASR Nederland N.V.;  
-
-n. ABN AMRO Group N.V.; 
-
-o. de Nederlandse Investeringsbank voor Ontwikkelingslanden N.V.; 
-
-p. Ultra Centrifuge Nederland N.V.; 
-
-q. SNS REAAL N.V.; 
-
-r. Propertize B.V.;  alsmede de lichamen waarin deze rechtspersonen een belang hebben en de lichamen waarvan deze rechtspersonen een bestuurder kunnen benoemen of ontslaan, met uitzondering van lichamen die uitsluitend of nagenoeg uitsluitend water leveren.    
+7.  De ondernemingen van een lichaam als bedoeld in het eerste lid, onderdelen e en g, worden voor de toepassing van deze wet geacht tezamen één onderneming te vormen.   
 8.  Voor de toepassing van deze wet worden op de BES eilanden gevestigde lichamen die door de toepassing van artikel 5.2 van de Belastingwet BES geacht worden niet op de BES eilanden te zijn gevestigd, geacht in Nederland te zijn gevestigd.  
-9.  Op schriftelijk verzoek en onder door Onze Minister te stellen voorwaarden staat de inspecteur toe dat een lichaam als bedoeld in het eerste lid, onderdeel e, geacht wordt zijn onderneming te drijven met behulp van zijn gehele vermogen, indien het lichaam als culturele instelling is aangemerkt. Het verzoek moet uiterlijk binnen zes maanden na afloop van het jaar waarop het verzoek voor het eerst betrekking heeft, worden ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking waarin de door Onze Minister te stellen voorwaarden zijn opgenomen. Bij inwilliging van het verzoek geldt dit tot wederopzegging door het lichaam, waarbij wederopzegging alleen mogelijk is met ingang van het tiende jaar of een veelvoud daarvan na het einde van het jaar waarvoor het verzoek voor het eerst is ingewilligd. 
+9.  Op schriftelijk verzoek en onder door Onze Minister te stellen voorwaarden staat de inspecteur toe dat een lichaam als bedoeld in het eerste lid, onderdeel e, geacht wordt zijn onderneming te drijven met behulp van zijn gehele vermogen, indien het lichaam als culturele instelling is aangemerkt. Het verzoek moet uiterlijk binnen zes maanden na afloop van het jaar waarop het verzoek voor het eerst betrekking heeft, worden ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking waarin de door Onze Minister te stellen voorwaarden zijn opgenomen. Bij inwilliging van het verzoek geldt dit tot wederopzegging door het lichaam, waarbij wederopzegging alleen mogelijk is met ingang van het tiende jaar of een veelvoud daarvan na het einde van het jaar waarvoor het verzoek voor het eerst is ingewilligd.  
+10.  Voor de toepassing van deze wet wordt onder een publiekrechtelijke rechtspersoon verstaan een Nederlandse publiekrechtelijke rechtspersoon alsmede een daarmee vergelijkbare buitenlandse rechtspersoon. 
 
 ### Artikel  3  
 
@@ -101,11 +54,12 @@ b. open commanditaire vennootschappen en andere niet rechtspersoonlijkheid bezit
 c. doelvermogens;   
 
 d. maar op Aruba, Curaçao of Sint Maarten gevestigde lichamen die een onderneming drijven met behulp van een vaste inrichting op de BES eilanden of een vaste vertegenwoordiger op de BES eilanden;  die Nederlands inkomen genieten.   
-2.  In afwijking in zoverre van het eerste lid zijn lichamen die vergelijkbaar zijn met een naar Nederlands recht opgerichte vereniging of stichting als bedoeld in artikel 2, eerste lid, onderdeel e, of die een kerkgenootschap zijn, slechts aan de belasting onderworpen voor zover zij een onderneming drijven. Artikel 2, negende lid, is van overeenkomstige toepassing.  
+2.  In afwijking in zoverre van het eerste lid zijn lichamen die vergelijkbaar zijn met een naar Nederlands recht opgerichte vereniging of stichting als bedoeld in artikel 2, eerste lid, onderdeel e, of die een kerkgenootschap zijn, slechts aan de belasting onderworpen voor zover zij een onderneming drijven. Artikel 2, negende lid, is van overeenkomstige toepassing.   
+3.  In afwijking in zoverre van het eerste lid zijn met Nederlandse publiekrechtelijke rechtspersonen vergelijkbare buitenlandse rechtspersonen slechts aan de belasting onderworpen voor zover zij een onderneming drijven. 
 
 ### Artikel  4  
 
-Onder het drijven van een onderneming als bedoeld in artikel 2, eerste lid, onderdeel e en in artikel 3, tweede lid, wordt mede verstaan:  
+Onder het drijven van een onderneming als bedoeld in artikel 2, eerste lid, onderdelen e en g, en tweede lid, en in artikel 3, tweede en derde lid, wordt mede verstaan:  
 
 a. een uiterlijk daarmee overeenkomende werkzaamheid waardoor in concurrentie wordt getreden met ondernemingen, gedreven door natuurlijke personen, dan wel door lichamen, vermeld in artikel 2, eerste lid, onderdelen a, b, c en d;   
 
@@ -168,6 +122,37 @@ b.banktegoeden.
 6. Het verzoek, bedoeld in het eerste lid, wordt uiterlijk ingediend in het jaar met ingang waarvan het lichaam als vrijgestelde beleggingsinstelling wil worden aangemerkt. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. 
 7. Indien een lichaam in de loop van een jaar niet langer voldoet aan de voorwaarden voor vrijstelling van de belasting, wordt het lichaam met ingang van dat jaar bij een voor bezwaar vatbare beschikking van de inspecteur niet meer als vrijgestelde beleggingsinstelling aangemerkt. 
 8. Op verzoek van de vrijgestelde beleggingsinstelling wordt zij niet meer als zodanig aangemerkt. Het verzoek, bedoeld in de eerste volzin, moet zijn ingediend voorafgaande aan het jaar met ingang waarvan het lichaam niet meer als vrijgestelde beleggingsinstelling wil worden aangemerkt. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
+
+### Artikel  6b  
+
+1.  Van de belasting zijn vrijgesteld lichamen die uitsluitend of nagenoeg uitsluitend: 
+
+a. als academisch ziekenhuis activiteiten verrichten als genoemd in artikel 1.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, of  
+
+b. onderwijs geven of onderzoek verrichten, mits dat onderwijs en dat onderzoek hoofdzakelijk worden bekostigd uit publieke middelen, uit wettelijk collegegeld of instellingscollegegeld als bedoeld in hoofdstuk 7, titel 3, paragraaf 2, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, uit lesgelden als bedoeld in artikel 3 van de Les- en cursusgeldwet, uit buitenlandse bijdragen die naar aard en strekking overeenkomen met genoemde college- of lesgelden of uit bijdragen van algemeen nut beogende instellingen waarvoor geen contractuele tegenprestatie wordt gevraagd.     
+2.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld voor de toepassing van het eerste lid op lichamen als bedoeld in artikel 2, eerste lid, onderdelen a, b en e, en artikel 3, eerste lid, niet zijnde een lichaam als bedoeld in artikel 3, derde lid.  
+
+### Artikel  6c  
+
+Van de belasting zijn vrijgesteld: 
+
+a. Groningen Seaports N.V.;  
+
+b. Havenbedrijf Amsterdam N.V.;  
+
+c. Havenbedrijf Rotterdam N.V.;  
+
+d. Havenschap Moerdijk;  
+
+e. N.V. Port of Den Helder;  
+
+f. Zeeland Seaports N.V., en  
+
+g. lichamen waarvan de activiteiten hoofdzakelijk bestaan uit het beheren, ontwikkelen of exploiteren van een zeehaven of uit werkzaamheden die daaraan dienstbaar zijn en waarvan: 
+
+1°. de bestuurders uitsluitend door de lichamen, bedoeld in de onderdelen a tot en met f, onmiddellijk of middellijk, worden benoemd en ontslagen en waarvan het vermogen bij liquidatie uitsluitend ter beschikking komt van de lichamen, bedoeld in de onderdelen a tot en met f, of  
+
+2°. uitsluitend de lichamen, bedoeld in de onderdelen a tot en met f, onmiddellijk of middellijk, aandeelhouder, vennoot, deelgerechtigde of lid zijn.     
 
 ### Hoofdstuk  II  
 
@@ -253,6 +238,71 @@ b. € 2 000 000.   De belastingplichtige dient aannemelijk te maken dat dit bed
 
 Bij het bepalen van de winst blijven buiten aanmerking de subsidies, bedoeld in artikel 71a, eerste lid, van de Woningwet, ontvangen door verenigingen en stichtingen die op de voet van de Woningwet bij koninklijk besluit zijn toegelaten als instellingen die in het belang van de volkshuisvesting werkzaam zijn. 
 
+### Artikel  8e  
+
+1.  Bij het bepalen van de winst van een lichaam als bedoeld in artikel 2, eerste lid, onderdeel g, of tweede lid, dan wel artikel 3, derde lid, blijven buiten aanmerking voordelen uit: 
+
+a. activiteiten verricht voor: 
+
+1°. het lichaam zelf;  
+
+2°. een privaatrechtelijk overheidslichaam van het lichaam, of  
+
+3°. een publiekrechtelijke rechtspersoon of een privaatrechtelijk overheidslichaam in het kader van een dienstverleningsovereenkomst, indien de voordelen uit deze activiteiten bij die publiekrechtelijke rechtspersoon of dat privaatrechtelijke overheidslichaam bij het bepalen van de winst buiten aanmerking zouden blijven ingevolge onderdeel b, indien deze activiteiten door die rechtspersoon of dat lichaam zelf zouden zijn verricht;    
+
+b. activiteiten verricht in verband met de uitoefening van een overheidstaak of van een publiekrechtelijke bevoegdheid van de publiekrechtelijke rechtspersoon, tenzij met die activiteiten in concurrentie wordt getreden met ondernemingen gedreven door natuurlijke personen dan wel door lichamen als bedoeld in artikel 2, eerste lid, onderdelen a, b, c, d en e;  
+
+c. activiteiten verricht in het kader van een samenwerkingsverband tussen publiekrechtelijke rechtspersonen of privaatrechtelijke overheidslichamen, mits: 
+
+1°. de activiteiten worden verricht voor de onmiddellijk of middellijk in het samenwerkingsverband deelnemende publiekrechtelijke rechtspersonen en privaatrechtelijke overheidslichamen, of voor privaatrechtelijke overheidslichamen van genoemde publiekrechtelijke rechtspersonen;  
+
+2°. de activiteiten niet tot belastingplicht zouden leiden of de voordelen hieruit zouden zijn vrijgesteld indien de activiteiten zouden zijn verricht door de onmiddellijk of middellijk deelnemende rechtspersonen of lichamen, en  
+
+3°. door deze rechtspersonen en lichamen naar evenredigheid van de afname van de activiteiten wordt bijgedragen in de kosten van het samenwerkingsverband.       
+2.  Op verzoek van het lichaam blijft de toepassing van het eerste lid achterwege.   
+3.  Het verzoek, bedoeld in het tweede lid, wordt gedaan voorafgaand aan het eerste jaar waarover het lichaam de toepassing van het eerste lid achterwege wil laten. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.   
+4.  Bij inwilliging van het verzoek, bedoeld in het tweede lid, geldt dit tot wederopzegging door het lichaam, waarbij wederopzegging alleen mogelijk is met ingang van het vijfde jaar na het einde van het eerste jaar waarop het verzoek betrekking heeft of een van de daaropvolgende jaren. Na wederopzegging kan voor een periode van vijf jaren vanaf het tijdstip waarop het eerste lid weer van toepassing is, geen verzoek worden gedaan als bedoeld in het tweede lid.   
+5.  Onder een privaatrechtelijk overheidslichaam worden voor de toepassing van deze wet verstaan: 
+
+a. een lichaam zonder aandeelhouders, vennoten, deelgerechtigden en leden waarvan de bestuurders uitsluitend door publiekrechtelijke rechtspersonen, onmiddellijk of middellijk, worden benoemd en ontslagen en waarvan het vermogen bij liquidatie uitsluitend ter beschikking van publiekrechtelijke rechtspersonen komt, en;  
+
+b. een lichaam waarvan uitsluitend publiekrechtelijke rechtspersonen of lichamen als bedoeld in onderdeel a, onmiddellijk of middellijk, aandeelhouders, vennoten, deelgerechtigden of leden zijn.     
+6.  Onder een privaatrechtelijk overheidslichaam van een publiekrechtelijke rechtspersoon wordt voor de toepassing van deze wet verstaan een privaatrechtelijk overheidslichaam waarvan: 
+
+a. de bestuurders uitsluitend, onmiddellijk of middellijk, door die publiekrechtelijke rechtspersoon worden benoemd en ontslagen en waarvan het vermogen bij liquidatie uitsluitend toekomt aan die publiekrechtelijke rechtspersoon, of  
+
+b. uitsluitend die publiekrechtelijke rechtspersoon of een of meer lichamen als bedoeld in onderdeel a onmiddellijk of middellijk aandeelhouder, vennoot, deelgerechtigde of lid is, onderscheidenlijk zijn.     
+7.  Het eerste lid is niet van toepassing op: 
+
+a. activiteiten als bedoeld in artikel 6b, en  
+
+b. het produceren, transporteren of leveren van gas, elektriciteit of warmte en het aanleggen of beheren van netten of leidingen ten behoeve van het transport van gas, elektriciteit of warmte.     
+8.  Het eerste lid, onderdeel a, vindt bij lichamen als bedoeld in artikel 2, tweede lid, toepassing op activiteiten verricht voor de Staat of voor een privaatrechtelijk overheidslichaam van de Staat.  
+
+### Artikel  8f  
+
+1.  Bij het bepalen van de winst van een privaatrechtelijk overheidslichaam blijven buiten aanmerking voordelen uit: 
+
+a. activiteiten verricht voor de publiekrechtelijke rechtspersoon tot wie dat privaatrechtelijke overheidslichaam in een relatie staat als bedoeld in artikel 8e, zesde lid, of voor een ander privaatrechtelijk overheidslichaam van die publiekrechtelijke rechtspersoon dan wel voor een publiekrechtelijke rechtspersoon of een privaatrechtelijk overheidslichaam in het kader van een dienstverleningsovereenkomst, indien de voordelen uit deze activiteiten bij die publiekrechtelijke rechtspersoon of dat privaatrechtelijke overheidslichaam bij het bepalen van de winst buiten aanmerking zouden blijven ingevolge onderdeel b, indien deze activiteiten door die rechtspersoon of dat lichaam zelf zouden zijn verricht;  
+
+b. activiteiten verricht in verband met de uitoefening van een overheidstaak of van een publiekrechtelijke bevoegdheid van dat privaatrechtelijke overheidslichaam, tenzij met die activiteiten in concurrentie wordt getreden met ondernemingen gedreven door natuurlijke personen, dan wel door lichamen als bedoeld in artikel 2, eerste lid, onderdelen a, b, c, d en e;  
+
+c. activiteiten verricht in het kader van een samenwerkingsverband tussen publiekrechtelijke rechtspersonen of privaatrechtelijke overheidslichamen, mits: 
+
+1°. de activiteiten worden verricht voor de onmiddellijk of middellijk in het samenwerkingsverband deelnemende publiekrechtelijke rechtspersonen en privaatrechtelijke overheidslichamen, of voor privaatrechtelijke overheidslichamen van genoemde publiekrechtelijke rechtspersonen;  
+
+2°. de activiteiten niet tot belastingplicht zouden leiden of de voordelen hieruit zouden zijn vrijgesteld indien de activiteiten zouden zijn verricht door de onmiddellijk of middellijk deelnemende rechtspersonen of lichamen, en  
+
+3°. door deze rechtspersonen en lichamen naar evenredigheid van de afname van de activiteiten wordt bijgedragen in de kosten van het samenwerkingsverband.       
+2.  Op verzoek van het privaatrechtelijke overheidslichaam blijft toepassing van het eerste lid achterwege.   
+3.  Artikel 8e, derde, vierde en zevende lid, is van overeenkomstige toepassing.  
+
+### Artikel  8g  
+
+1.  Bij het bepalen van de winst blijven buiten aanmerking voordelen uit als academisch ziekenhuis verrichte activiteiten als bedoeld in artikel 6b, eerste lid.   
+2.  Op verzoek van de belastingplichtige blijft toepassing van het eerste lid achterwege.   
+3.  De artikelen 6b, tweede lid, en 8e, derde en vierde lid, zijn van overeenkomstige toepassing.  
+
 ### Artikel  9  
 
 1.  Bij het bepalen van de winst komen mede in aftrek:  
@@ -267,7 +317,7 @@ d. oprichtingskosten, alsmede kosten van wijziging van het kapitaal;
 
 e. het gedeelte van de winst van een open commanditaire vennootschap dat toekomt aan de voor het geheel aansprakelijke vennoten als zodanig;   
 
-f. bij de in artikel 2, eerste lid, onderdeel g, bedoelde ondernemingen van publiekrechtelijke rechtspersonen: een door Onze Minister te bepalen redelijke rente berekend over het vermogen bij het begin van het jaar;   
+f. vervallen;  
 
 g. uitdelingen van een coöperatie of van een vereniging op coöperatieve grondslag uit de daartoe beschikbare over het jaar genoten winst, naar de maatstaf van de door of jegens de leden in dat jaar verrichte prestaties - daaronder niet begrepen kapitaalverstrekking door leden als zodanig - tot ten hoogste het bedrag van het op de voet van het tweede lid bepaalde gedeelte van de over het jaar genoten winst, voor zover die uitdelingen zijn toegekend aan leden, natuurlijke personen;  
 
@@ -1576,7 +1626,7 @@ Indien in het kader van een bedrijfsfusie artikel VII van de Wet van 28 december
 
 ### Artikel  33  
 
-1.  Indien immateriële activa die bij een publiekrechtelijke rechtspersoon of een lichaam als bedoeld in artikel 2, zevende lid, eerste volzin, deel uitmaken van vermogen waarmee geen belastbare winst wordt behaald omdat het niet wordt aangewend in het kader van de uitoefening van een bedrijf als bedoeld in artikel 2, derde lid, op enig tijdstip bij dezelfde rechtspersoon of hetzelfde lichaam of bij een verbonden lichaam deel gaan uitmaken van vermogen waarmee belastbare winst wordt behaald, worden zij op dat tijdstip te boek gesteld voor de in het derde tot en met vijfde lid bedoelde waarde.   
+1.  Indien immateriële activa die bij een publiekrechtelijke rechtspersoon of een privaatrechtelijk overheidslichaam deel uitmaken van vermogen waarmee geen belastbare winst wordt behaald, op enig tijdstip bij dezelfde rechtspersoon of hetzelfde lichaam of bij een verbonden lichaam deel gaan uitmaken van vermogen waarmee belastbare winst wordt behaald, worden zij op dat tijdstip te boek gesteld voor de in het derde tot en met vijfde lid bedoelde waarde.   
 2. Indien immateriële activa die bij een vereniging of stichting die op de voet van de Woningwet bij koninklijk besluit is toegelaten als instelling die in het belang van de volkshuisvesting werkzaam is, deel uitmaken van vermogen waarmee geen belastbare winst wordt behaald, op enig tijdstip bij hetzelfde lichaam of bij een verbonden lichaam deel gaan uitmaken van vermogen waarmee belastbare winst wordt behaald, worden zij op dat tijdstip te boek gesteld voor de in het derde tot en met vijfde lid bedoelde waarde. 
 3.  Ingeval de activa bij dezelfde rechtspersoon of hetzelfde lichaam gaan behoren tot vermogen waarmee belastbare winst wordt behaald, vindt de teboekstelling plaats voor de waarde die zou gelden als de activa bij de rechtspersoon of het lichaam altijd hadden behoord tot vermogen waarmee belastbare winst wordt behaald en op die activa was afgeschreven volgens artikel 3.30 van de Wet inkomstenbelasting 2001.   
 4.  Ingeval de activa bij een verbonden lichaam gaan behoren tot vermogen waarmee belastbare winst wordt behaald, vindt de teboekstelling bij dat verbonden lichaam plaats voor nihil.   
