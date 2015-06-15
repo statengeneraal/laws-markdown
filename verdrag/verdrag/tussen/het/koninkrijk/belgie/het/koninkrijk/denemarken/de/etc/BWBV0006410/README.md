@@ -1621,7 +1621,7 @@ Bij de wijziging die in artikel 2, lid 2, van deze richtlijn wordt aangebracht, 
 
 - indien het Statuut van de Postspaarkas wordt gewijzigd;  
 
-- indien het marktaandeel van deze instelling in Griekenland voor wat het totaal van haar deposito's, ihaar kredieten dan wel haar activa betreft met meer dan 1,5 % toeneemt ten opzichte van de situatie per 30 november 1978.     
+- indien het marktaandeel van deze instelling in Griekenland voor wat het totaal van haar deposito's, haar kredieten dan wel haar activa betreft met meer dan 1,5 % toeneemt ten opzichte van de situatie per 30 november 1978.     
 
 ####Verklaring van de Regering van de Bondsrepubliek Duitsland betreffende de toepassing op Berlijn van het besluit inzake de toetreding tot de Europese Gemeenschap voor Kolen en Staal en van het Verdrag inzake de toetreding tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie
 

@@ -436,7 +436,7 @@ Bij regeling van Onze Minister kan, zo nodig onder het stellen van aanvullende v
 
 1.  De toezichtautoriteit kan op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van: 
 
-a. de artikelen 2:3, eerste lid, aanhef en onderdeel a, 2:21, 2:22, 3:16 tot en met 3:18, 3:24, 3:33, 3:35, 3:36, 3:45, 3:46, 4:1, tweede lid, 4:4, tweede en derde lid, 4:5, 4:10, 4:11, 4:14, tweede lid, 4:31, 4:39, 5:4, 5:5, 5:6, 5:14, 5:19 en 5:22;  
+a. de artikelen 2:3, eerste lid, 2:21, 2:22, 3:16 tot en met 3:18, 3:24, 3:33, 3:35, 3:36, 3:45, 3:46, 4:1, tweede lid, 4:4, tweede en derde lid, 4:5, 4:10, 4:11, 4:14, tweede lid, 4:31, 4:39, 5:4, 5:5, 5:6, 5:14, 5:19 en 5:22;  
 
 b. in bij of krachtens algemene maatregel van bestuur te bepalen gevallen: de krachtens deze wet gestelde regels.     
 2.  Ontheffing wordt slechts verleend, indien de aanvrager aantoont dat de belangen die deze wet beoogt te beschermen, daardoor niet in het gedrang komen, dan wel dat de met de regels waarvan ontheffing wordt gevraagd, beoogde doeleinden anderszins kunnen worden bereikt.   
@@ -808,7 +808,7 @@ c. het tegengaan van strafbare feiten of andere wetsovertredingen door de ondern
 
 d. relaties met consumenten, cliënten of andere derden, die het vertrouwen in de onderneming of in de financiële markten kunnen schaden;  
 
-e. andere handelingen door de onderneming of haar werknemers, die zodanig ingaan tegen hetgeen volgens ongeschreven recht in het maatschappelijk verkeer betaamt dat daardoor het vertrouwen in de onderneming of in de financiële markten ernstig kan worden geschaad.    
+e. andere handelingen door de onderneming of haar werknemers, die zodanig ingaan tegen hetgeen volgens ongeschreven recht in het maatschappelijk verkeer betaamt dat daardoor het vertrouwen in de onderneming of in de financiële markten kan worden geschaad.    
 
 ### Artikel  3:9  
 

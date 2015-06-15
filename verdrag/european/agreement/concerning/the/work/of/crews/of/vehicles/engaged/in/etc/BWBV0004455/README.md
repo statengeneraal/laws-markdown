@@ -1058,7 +1058,7 @@ Requirements for the construction, testing, installation and inspection of the d
 
 2.4.1 The content of requirement 172 is deleted and replaced by ‘Reserved’.  
 
-2.4.2 Requirement 174 is changed as follows:‘the distinguishing sign of the Contracting Party issuing the card. The distinguishing signs of non EU Contracting Parties are those drawn up in accordance with the 1968 Vienna [Convention on Road Traffic](../../../../../../../../../../../../../../verdrag/convention/on/road/traffic/BWBV0003507/README.md) or the 1949 Geneva [Convention on Road Traffic](../../../../../../../../../../../../../../verdrag/convention/on/road/traffic/BWBV0005415/README.md)’.
+2.4.2 Requirement 174 is changed as follows:‘the distinguishing sign of the Contracting Party issuing the card. The distinguishing signs of non EU Contracting Parties are those drawn up in accordance with the 1968 Vienna Convention on Road Traffic or the 1949 Geneva Convention on Road Traffic’.
 
 2.4.3 The reference to the EU flag with the letters ‘MS’ meaning ‘Member State’ in requirement 178 is replaced by the letters ‘CP’ meaning ‘Contracting Party’, the flag of the non EU Contracting Party being optional.
 
@@ -1780,7 +1780,7 @@ e. Indien een Overeenkomstsluitende Partij een bestuurderskaart vervangt of omwi
 f. De Overeenkomstsluitende Partijen nemen alle maatregelen die nodig zijn om te voorkomen dat bestuurderskaarten worden vervalst.   
 5.  De Overeenkomstsluitende Partijen waarborgen dat de gegevens die nodig zijn om de naleving van deze Overeenkomst te volgen en die vastgelegd en opgeslagen kunnen worden door het controleapparaat in overeenstemming met aanhangsel 1B bij deze bijlage gedurende 365 dagen na de datum van vastlegging kunnen worden opgeslagen en toegankelijk gemaakt kunnen worden onder voorwaarden die de veiligheid en juistheid van de gegevens waarborgen. De Overeenkomstsluitende Partijen nemen alle maatregelen die nodig zijn om te waarborgen dat het doorverkopen of uitschakelen van een controleapparaat niet ten koste kan gaan van de correcte toepassing van dit lid.  
 
-### Article  12  
+### Artikel  12  
 
 1.  De bestuurders gebruiken geen vuile of beschadigde registratiebladen of bestuurderskaarten. De bladen of bestuurderskaarten worden daartoe op de juiste wijze beschermd. Bij beschadiging van een blad of bestuurderskaart waarop gegevens zijn geregistreerd, voegen de bestuurders het beschadigde blad of de beschadigde kaart bij een reserveblad of een tijdelijk blad dat ter vervanging wordt gebruikt. Indien de bestuurderskaart beschadigd is, slecht functioneert of verloren of ontvreemd is, verzoekt de bestuurder de bevoegde autoriteiten van de Overeenkomstsluitende Partij waar hij zijn normale woonplaats heeft binnen zeven kalenderdagen om een vervangend exemplaar. Indien een bestuurder zijn bestuurderskaart wenst te verlengen, dient hij uiterlijk 15 werkdagen voor het verstrijken van de geldigheid van de kaart een verzoek in bij de bevoegde autoriteiten van de Overeenkomstsluitende Partij waarin hij zijn normale woonplaats heeft.   
 2.  
@@ -2289,7 +2289,7 @@ b.De controle met betrekking tot de in hoofdstuk III, F, 3, genoemde bepalingen 
 
 2.4.1De inhoud van voorschrift 172 is geschrapt en vervangen door „Gereserveerd”.
 
-2.4.2Voorschrift 174 wordt als volgt gewijzigd: ‘het onderscheidingsteken van de Overeenkomstsluitende Partij die de kaart afgeeft. De onderscheidingstekens van Overeenkomstsluitende Partijen die geen EU-lidstaat zijn, zijn opgesteld in overeenstemming met het [Verdrag inzake het wegverkeer](../../../../../../../../../../../../../../verdrag/convention/on/road/traffic/BWBV0003507/README.md) van Wenen van 1968 of het [Verdrag van Genève inzake het wegverkeer](../../../../../../../../../../../../../../verdrag/convention/on/road/traffic/BWBV0005415/README.md) van 1949.
+2.4.2Voorschrift 174 wordt als volgt gewijzigd: ‘het onderscheidingsteken van de Overeenkomstsluitende Partij die de kaart afgeeft. De onderscheidingstekens van Overeenkomstsluitende Partijen die geen EU-lidstaat zijn, zijn opgesteld in overeenstemming met het Verdrag inzake het wegverkeer van Wenen van 1968 of het Verdrag van Genève inzake het wegverkeer van 1949.
 
 2.4.3De verwijzing naar de EU-vlag met de letters „MS” die betekenen „Member State” in voorschrift 178 wordt vervangen door de letters „CP”, hetgeen betekent „Contracting Party”, waarbij de vlag van een Overeenkomstsluitende Partij die geen EU-lidstaat is facultatief is.
 

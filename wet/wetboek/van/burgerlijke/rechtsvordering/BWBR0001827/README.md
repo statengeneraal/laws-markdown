@@ -2597,11 +2597,11 @@ Wanneer voor de tenuitvoerlegging van een rechterlijke beslissing een financiël
 
 ####Van executoriaal beslag op roerende zaken die geen registergoederen zijn 
 
-###Artikel 439 
+### Artikel  439  
 
-1. Het beslag op roerende zaken die geen registergoederen zijn, moet worden voorafgegaan door een exploit van een deurwaarder, houdende bevel om binnen twee dagen aan de executoriale titel te voldoen. Eerst na verloop van die termijn kan het beslag worden gelegd. Indien daartoe gronden zijn, kan de voorzieningenrechter van de rechtbank, ook op mondeling verzoek van de deurwaarder, die termijn inkorten. 
-2.  Indien bij het betekenen van de executoriale titel tevens het voorgeschreven bevel is gedaan, wordt geen afzonderlijk bevel vereist. 
-3.  Bij het bevel of de betekening moet de executant tot het uiteinde der executie woonplaats kiezen ten kantore van de deurwaarder, zulks op straffe van nietigheid van het exploit. Tevens kan woonplaats worden gekozen in Nederland ten kantore van een advocaat. 
+1.  Het beslag op roerende zaken die geen registergoederen zijn, moet worden voorafgegaan door een exploit van een deurwaarder, houdende bevel om binnen twee dagen aan de executoriale titel te voldoen. Eerst na verloop van die termijn kan het beslag worden gelegd. Indien daartoe gronden zijn, kan de voorzieningenrechter van de rechtbank, ook op mondeling verzoek van de deurwaarder, die termijn inkorten.    
+2.   Indien bij het betekenen van de executoriale titel tevens het voorgeschreven bevel is gedaan, wordt geen afzonderlijk bevel vereist.    
+3.   Bij het bevel of de betekening moet de executant tot het uiteinde der executie woonplaats kiezen ten kantore van de deurwaarder, zulks op straffe van nietigheid van het exploit. Tevens kan woonplaats worden gekozen in Nederland ten kantore van een advocaat.   
 
 ### Artikel  440  
 
