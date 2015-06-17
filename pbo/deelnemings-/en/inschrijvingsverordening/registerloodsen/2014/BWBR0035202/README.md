@@ -46,8 +46,7 @@ De inschrijving in het register, bedoeld in artikel 21, eerste lid, van de Loods
 ####Studievergoeding en betaling
 
 1.  De algemene raad draagt er zorg voor dat aan de aspirant onder de voorwaarden genoemd in een geldig bewijs tot deelname, waarvan een model bij deze verordening is toegevoegd in bijlage II, een studievergoeding van € 3.262,92 bruto per maand wordt uitgekeerd. Deze vergoeding wordt door een daartoe door de algemene raad aangewezen organisatie en in overeenstemming met het verantwoordelijke orgaan van die organisatie voor het eind van de maand waarover de betaling verschuldigd is uitgekeerd.   
-2.  De studievergoeding wordt jaarlijks op de eerste dag van het kalenderjaar, beginnend in 2015 geïndexeerd overeenkomstig de indexering bedoeld in artikel 3.1 van het Besluit Markttoezicht registerloodsen.   
-3.  De algemene raad draagt er zorg voor dat de aspirant onder de voorwaarden genoemd in het bewijs tot deelname aanspraak kan maken op de vangnetregeling bij arbeidsongeschiktheid tot aan het invaliditeitspensioen, het invaliditeitspensioen en daarop aansluitend ouderdomspensioen, volgens de bepalingen van het Pensioenreglement voor a spirant-registerloodsen van de Stichting Beroepspensioenfonds Loodsen, gevestigd te Rotterdam en in geval van overlijden de nabestaanden zich kunnen beroepen op het weduwen- en wezenpensioen, volgens de bepalingen van dat reglement.  
+2.  De studievergoeding wordt jaarlijks op de eerste dag van het kalenderjaar, beginnend in 2015 geïndexeerd overeenkomstig de indexering bedoeld in artikel 3.1 van het Besluit Markttoezicht registerloodsen.  
 
 ### Paragraaf  4  
 
@@ -56,12 +55,6 @@ De inschrijving in het register, bedoeld in artikel 21, eerste lid, van de Loods
 ### Artikel  5  
 
 De Deelnemings- en Inschrijvingsverordening wordt ingetrokken. 
-
-### Artikel  6  
-
-####Overgangsrecht
-
-In afwijking van artikel 5 blijven de artikelen van de Deelnemings- en inschrijvingsverordening zoals deze luidden op 1 januari 2014, tot 1 juni 2015 van toepassing, met uitzondering van artikel 4 dat van toepassing is met terugwerkende kracht vanaf 1 februari 2014, voor aspiranten die voor 1 februari 2014 een bewijs tot deelname als bedoeld in artikel 4 van de Deelnemings- en inschrijvingsverordening, zoals dat artikel op 1 januari 2014 luidde, hebben ontvangen. 
 
 ### Artikel  7  
 

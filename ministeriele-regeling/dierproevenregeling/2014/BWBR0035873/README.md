@@ -9,10 +9,7 @@ Besluit:
 
 ####Algemeen
 
-Treedt in werking per 18-12-2014 
-
 ### Artikel  1  
-Treedt in werking per 18-12-2014 
 
 1.  In deze regeling wordt verstaan onder: 
 
@@ -35,10 +32,7 @@ Treedt in werking per 18-12-2014
 
 ####Instellingsvergunning
 
-Treedt in werking per 18-12-2014 
-
 ### Artikel  2  
-Treedt in werking per 18-12-2014 
 
 1.  Een aanvraag om een instellingsvergunning wordt ingediend met gebruikmaking van het formulier in bijlage 1 bij deze regeling.   
 2.  Bij het indienen van een aanvraag is een bedrag van € 1.783,73 verschuldigd.   
@@ -52,10 +46,7 @@ b. elke significante wijziging van de structuur of de werking van een inrichting
 
 ####Projectvergunning
 
-Treedt in werking per 18-12-2014 
-
 ### Artikel  3  
-Treedt in werking per 18-12-2014 
 
 1.  Bij een aanvraag om een projectvergunning als bedoeld in artikel 10a, eerste lid, van de wet worden de volgende gegevens en bescheiden overlegd: 
 
@@ -85,7 +76,6 @@ h. de gegevens opgenomen in bijlage 4 bij deze regeling.
 4.  Bij de indiening van de aanvraag om een projectvergunning wordt een door de centrale commissie dierproeven vastgesteld en door de Minister goedgekeurd bedrag voldaan. Het bedrag is een vast bedrag dat de gemiddelde kosten die samenhangen met het behandelen van een aanvraag om een projectvergunning dekt. Van het in de eerste volzin bedoelde goedkeuringsbesluit wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
 ### Artikel  4  
-Treedt in werking per 18-12-2014 
 
 1.  Voor de niet-technische samenvatting van het project en eventuele aanvullingen hierop als gevolg van wijzigingen als bedoeld in artikel 10a5 van de wet, of een beoordeling van het project achteraf als bedoeld in artikel 10a1, eerste lid, onder d, van de wet, maakt de aanvrager respectievelijk vergunninghouder gebruik van het in bijlage 5 bij deze regeling opgenomen model.   
 2.  Onverminderd de bescherming van de intellectuele eigendom en vertrouwelijke informatie bevat de niet-technische samenvatting de volgende gegevens: 
@@ -100,17 +90,13 @@ b. onderbouwing dat aan het vereiste op het gebied van vervanging, vermindering 
 
 ####Deskundigheids- en bekwaamheidseisen
 
-Treedt in werking per 18-12-2014 
-
 ### Artikel  5  
-Treedt in werking per 18-12-2014 
 
 1.  De wetenschappelijke opleiding, bedoeld in artikel 2, eerste lid, van het besluit, bestaat uit een master in een relevante studierichting.   
 2.  De cursus proefdierkunde, bedoeld in artikel 2, eerste lid, van het besluit, voldoet aan de eisen in bijlage 6 bij deze regeling.   
 3.  De Minister kan op verzoek een ontheffing verlenen van het vereiste in het eerste lid, indien op andere wijze wordt aangetoond dat de persoon, bedoeld in artikel 9 van de wet, beschikt over een vergelijkbaar deskundigheids- en bekwaamheidsniveau.  
 
 ### Artikel  6  
-Treedt in werking per 18-12-2014 
 
 1.  De opleidingen bedoeld in artikel 8, eerste lid, van het besluit, voldoen aan de volgende minimumeisen: 
 
@@ -129,10 +115,7 @@ b. het uitvoeren van andere biotechnische werkzaamheden dan bedoeld onder a, zoa
 
 ####Vrijstelling instantie voor dierenwelzijn
 
-Treedt in werking per 18-12-2014 
-
 ### Artikel  7  
-Treedt in werking per 18-12-2014 
 
 In afwijking van artikel 14a, eerste lid, van de wet, zijn de volgende categorieën fokkers, leveranciers en gebruikers niet gehouden een instantie voor dierenwelzijn in te richten: 
 
@@ -154,10 +137,7 @@ c. gebruikers die:
 
 ####Registratie
 
-Treedt in werking per 18-12-2014 
-
 ### Artikel  8  
-Treedt in werking per 18-12-2014 
 
 1.  De fokker, de leverancier en de gebruiker houden aantekening van de volgende gegevens: 
 
@@ -180,7 +160,6 @@ h. voor gebruikers: de projecten waarin dieren worden gebruikt.
 3.  De fokker, de leverancier en de gebruiker verstrekken de Minister jaarlijks uiterlijk op 15 maart de in bijlage 7 bij deze regeling genoemde gegevens over het voorafgaande kalenderjaar.  
 
 ### Artikel  9  
-Treedt in werking per 18-12-2014 
 
 1.  In aanvulling op het bepaalde in artikel 8 houden de fokker, de leverancier en de gebruiker over elke hond, kat en niet-menselijke primaat die zij houden aantekening van de volgende gegevens: 
 
@@ -198,10 +177,7 @@ d. ingeval van niet-menselijke primaten, antwoord op de vraag of het dier een na
 
 ####Nationaal comité
 
-Treedt in werking per 18-12-2014 
-
 ### Artikel  10  
-Treedt in werking per 18-12-2014 
 
 In aanvulling op de taken, genoemd in artikel 19, tweede lid, onderdelen a tot en met c, van de wet, vervult het nationaal comité de volgende taken: 
 
@@ -217,21 +193,16 @@ d. ondersteunt de communicatie tussen en met professionals in het veld van dierp
 
 ####Slotbepalingen
 
-Treedt in werking per 18-12-2014 
-
 ### Artikel  11  
-Treedt in werking per 18-12-2014 
 
 1.  Met een ontheffing op grond van artikel 5, derde lid, wordt gelijkgesteld een vóór de inwerkingtreding van de wet tot wijziging van de Wet op de dierproeven in verband met implementatie van richtlijn 2010/63/EU op grond van artikel 16 van de wet verleende ontheffing, voor zover deze betrekking heeft op het vereiste dat de persoon bedoeld in artikel 9 van de wet beschikt over een master in een relevante studierichting.   
 2.  Met een ontheffing op grond van artikel 6, tweede lid, wordt gelijkgesteld een vóór de inwerkingtreding van de wet tot wijziging van de Wet op de dierproeven in verband met implementatie van richtlijn 2010/63/EU op grond van artikel 16 van de wet verleende ontheffing, voor zover deze ontheffing betrekking heeft op de opleidingsvereisten ten aanzien van personen die proefdieren verzorgen, biotechnische werkzaamheden uitvoeren of proefdieren doden.  
 
 ### Artikel  12  
-Treedt in werking per 18-12-2014 
 
 Deze regeling treedt in werking op het tijdstip waarop het Dierproevenbesluit 2014 in werking treedt. 
 
 ### Artikel  13  
-Treedt in werking per 18-12-2014 
 
 Deze regeling wordt aangehaald als: Dierproevenregeling 2014. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
@@ -246,8 +217,6 @@ S.A.M. Dijksma
 ### Bijlage 1 
 
 ####, behorende bij artikel 2, eerste lid , van de Dierproevenregeling 2014
-
-Treedt in werking per 18-12-2014 
 
 Aanvraagformulier voor instellingsvergunning: 
 
@@ -300,8 +269,6 @@ c. De persoon of personen ter plaatse die ervoor zorgen dat personeelsleden vold
 ### Bijlage 2 
 
 ####, behorend bij artikel 3, tweede lid , van de Dierproevenregeling 2014
-
-Treedt in werking per 18-12-2014 
 
 ####Aanvraagformulier Projectvergunning Dierproeven
 
@@ -380,8 +347,6 @@ Treedt in werking per 18-12-2014
 ### Bijlage 3 
 
 ####, behorend bij artikel 3, tweede lid , van de Dierproevenregeling 2014
-
-Treedt in werking per 18-12-2014 
 
 ####Format Projectvoorstel dierproeven
 
@@ -490,8 +455,6 @@ Treedt in werking per 18-12-2014
 
 ####, behorend bij artikel 3, derde lid, onderdeel h , van de Dierproevenregeling 2014
 
-Treedt in werking per 18-12-2014 
-
 Bij de aanvraag om een projectvergunning worden de volgende gegevens verstrekt: 
 
 1. relevantie en rechtvaardiging van: 
@@ -526,8 +489,6 @@ Bij de aanvraag om een projectvergunning worden de volgende gegevens verstrekt:
 
 ####, behorend bij artikel 4, eerste lid , van de Dierproevenregeling 2014
 
-Treedt in werking per 18-12-2014 
-
 ####Model voor een niet-technische samenvatting
 
 | --- | --- | --- | --- |
@@ -558,8 +519,6 @@ Treedt in werking per 18-12-2014
 
 ####, behorende bij artikel 5  van de Dierproevenregeling 2014
 
-Treedt in werking per 18-12-2014 
-
 ####Opleidingseisen met betrekking tot de persoon die het project en de dierproef opzet
 
 De cursus proefdierkunde bedoeld in artikel 2, eerste lid, van het Dierproevenbesluit 2014, voor de persoon die het project en de dierproef opzet als bedoeld in artikel 9 van de Wet op de dierproeven, voldoet aan de volgende minimumeisen:  
@@ -583,8 +542,6 @@ De cursus proefdierkunde bedoeld in artikel 2, eerste lid, van het Dierproevenbe
 ### Bijlage 7 
 
 ####, behorend bij artikel 8, derde lid , van de Dierproevenregeling 2014
-
-Treedt in werking per 18-12-2014 
 
 ![254442](http://wetten.overheid.nl/Illustration/254442)
 ![254443](http://wetten.overheid.nl/Illustration/254443)

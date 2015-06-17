@@ -332,9 +332,21 @@ d. de goede postale dienstverlening;
 e. de wijze waarop poststukken aan een verlener van de universele postdienst worden aangeboden.     
 2.  De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
 
+### Artikel  17a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Onze Minister onderzoekt iedere drie jaar of wanneer een verlener van de universele postdienst daartoe een gemotiveerd verzoek heeft ingediend, de universele postdienst en de eisen die gesteld worden aan een verlener van de universele postdienst. 
+
 ### §  4.4  
 
 ####Verplichtingen voor de universele postdienstverlener
+
+### Artikel  18a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De verlener van de universele postdienst vraagt advies aan consumentenorganisaties die de belangen behartigen van kwetsbare gebruikers van de universele postdienst over door hem voorgenomen wijzigingen in de uitvoering van de universele postdienst die het gevolg zijn van een wijziging van de eisen ten aanzien van het aantal en de spreiding van postvestigingen en brievenbussen.   
+2.  De verlener van de universele postdienst vraagt het advies, bedoeld in het eerste lid, ten minste vier maanden voorafgaand aan de datum waarop de voorgenomen wijziging wordt gerealiseerd, en stelt een termijn voor het uitbrengen van het advies van ten minste acht weken.   
+3.  De verlener van de universele postdienst geeft een schriftelijke reactie op het advies, bedoeld in het eerste lid, binnen zes weken na ontvangst van dat advies, met dien verstande dat de reactie in ieder geval wordt gegeven voorafgaand aan de datum waarop de voorgenomen wijziging wordt gerealiseerd. In de reactie geeft de verlener van de universele postdienst aan of het advies al dan niet wordt overgenomen en wat daarvan de redenen zijn.  
 
 ### Artikel  18  
 
@@ -393,6 +405,12 @@ b. op welke wijze de jaarlijks gemiddelde wijziging, bedoeld in onderdeel a, wor
 6.  Bij de ministeriële regeling, bedoeld in het derde lid, worden regels vastgesteld met betrekking tot de elementen van de tarieven, de wijze van berekening van de tarieven en de toerekening van de kosten.   
 7.  De Autoriteit Consument en Markt brengt advies uit over de ministeriële regeling, bedoeld in het derde lid.   
 8.  Het ontwerp voor een krachtens het derde lid vast te stellen ministeriële regeling en het advies van de Autoriteit Consument en Markt worden gelijktijdig aan beide kamers der Staten-Generaal overgelegd. De ministeriële regeling wordt niet eerder vastgesteld dan vier weken na de overlegging van het ontwerp.  
+
+### Artikel  25a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De Autoriteit Consument en Markt wordt gehoord over een ministeriële regeling als bedoeld in artikel 25, eerste, vierde of vijfde lid.   
+2.  Het ontwerp voor een krachtens artikel 25, eerste, vierde of vijfde lid, vast te stellen ministeriële regeling en de deskundige raad van de Autoriteit Consument en Markt worden gelijktijdig aan beide kamers der Staten-Generaal overgelegd. De ministeriële regeling wordt niet eerder vastgesteld dan vier weken na de overlegging van het ontwerp.  
 
 ### Artikel  26  
 

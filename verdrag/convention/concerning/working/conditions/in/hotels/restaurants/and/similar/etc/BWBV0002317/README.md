@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Verdrag betreffende arbeidsvoorwaarden en -omstandigheden in hotels, restaurants en soortgelijke instellingen
+##Verdrag betreffende arbeidsvoorwaarden en -omstandigheden in hotels, restaurants en soortgelijke bedrijven
 
 ####Convention concerning Working Conditions in Hotels, Restaurants and similar Establishments
 
@@ -69,8 +69,8 @@ The formal ratifications of this Convention shall be communicated to the Directo
 
 ### Article  11  
 
-1. A Member which has ratified this Convention may denounce it after the expiration often years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.
-2. Each Member which has ratified this Convention and which does not, within the year following the expiration of the period often years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of ten years and, thereafter, may denounce this Convention at the expiration of each period often years under the terms provided for in this Article.
+1. A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.
+2. Each Member which has ratified this Convention and which does not, within the year following the expiration of the period of ten years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of ten years and, thereafter, may denounce this Convention at the expiration of each period of ten years under the terms provided for in this Article.
 
 ### Article  12  
 
@@ -154,7 +154,7 @@ Voor zover een dergelijk gebruik bestaat, worden de koop en verkoop van banen in
 ### Artikel  8  
 
 1. De bepalingen van dit Verdrag kunnen worden toegepast door of krachtens nationale wetgeving, collectieve overeenkomsten, scheidsrechterlijke uitspraken of rechterlijke beslissingen, of op enige andere met de nationale praktijk verenigbare wijze.
-2. Ten.aanzien van Leden waar het bepaalde in dit Verdrag gewoonlijk wordt geregeld in overeenkomsten tussen werkgevers of organisaties van werkgevers en organisaties van werknemers, of gewoonlijk op andere wijze dan door wetgeving wordt toegepast, wordt het bepaalde geacht te zijn nagekomen, als het door middel van zodanige overeenkomsten of andere middelen wordt toegepast op de overgrote meerderheid der betrokken werknemers.
+2. Ten aanzien van Leden waar het bepaalde in dit Verdrag gewoonlijk wordt geregeld in overeenkomsten tussen werkgevers of organisaties van werkgevers en organisaties van werknemers, of gewoonlijk op andere wijze dan door wetgeving wordt toegepast, wordt het bepaalde geacht te zijn nagekomen, als het door middel van zodanige overeenkomsten of andere middelen wordt toegepast op de overgrote meerderheid der betrokken werknemers.
 
 ### Artikel  9  
 
