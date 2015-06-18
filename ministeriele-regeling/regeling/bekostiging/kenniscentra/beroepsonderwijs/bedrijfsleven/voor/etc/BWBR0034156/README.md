@@ -5,7 +5,7 @@
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
 handelende in overeenstemming met de staatssecretaris van Economische Zaken;
 
-Gelet op [artikel 15e van het Bekostigingsbesluit WVO](../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md):
+Gelet op artikel 15e van het Bekostigingsbesluit WVO:
 Besluit:    
 
 ### Artikel  1  
@@ -14,17 +14,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a.  *kenniscentrum beroepsonderwijs bedrijfsleven:* een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.5.1. van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+a.  *kenniscentrum beroepsonderwijs bedrijfsleven:* een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in artikel 1.5.1. van de Wet educatie en beroepsonderwijs;  
 
-b.  *leer-werktraject:* een leer-werktraject als bedoeld in [artikel 10b1 van de Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+b.  *leer-werktraject:* een leer-werktraject als bedoeld in artikel 10b1 van de Wet op het voortgezet onderwijs;  
 
-c.  *leer-werkovereenkomst:* een leer-werkovereenkomst als bedoeld in [artikel 10b3 van de Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
+c.  *leer-werkovereenkomst:* een leer-werkovereenkomst als bedoeld in artikel 10b3 van de Wet op het voortgezet onderwijs.   
 
 ### Artikel  2  
 
 ####Bekostiging voor de schooljaren 2012/2013, 2013/2014 en 2014/2015
 
-Aan een kenniscentrum beroepsonderwijs bedrijfsleven wordt voor de uitvoering van de taken als bedoeld in [artikel 10b4 van de Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) ten behoeve van de schooljaren 2012/2013, 2013/2014 en 2014/2015 een rijksbijdrage verstrekt van € 410,– per leer-werkovereenkomst, die betrekking heeft op de uitvoering van het buitenschoolse praktijkgedeelte van een leer-werktraject. 
+Aan een kenniscentrum beroepsonderwijs bedrijfsleven wordt voor de uitvoering van de taken als bedoeld in artikel 10b4 van de Wet op het voortgezet onderwijs ten behoeve van de schooljaren 2012/2013, 2013/2014 en 2014/2015 een rijksbijdrage verstrekt van € 410,– per leer-werkovereenkomst, die betrekking heeft op de uitvoering van het buitenschoolse praktijkgedeelte van een leer-werktraject. 
 
 ### Artikel  3  
 
@@ -39,7 +39,7 @@ Aan een kenniscentrum beroepsonderwijs bedrijfsleven wordt voor de uitvoering va
 
 ####Financiële verantwoording
 
-De besteding van de bekostiging voor de in artikel 3 genoemde schooljaren wordt door de kenniscentra beroepsonderwijs bedrijfsleven verantwoord in de jaarverslaggeving van 2013, 2014 en 2015, bedoeld in de [Regeling jaarverslaggeving onderwijs](../../../../../../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md). De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatigheid van de opgave van het aantal gesloten leer-werkovereenkomsten. 
+De besteding van de bekostiging voor de in artikel 3 genoemde schooljaren wordt door de kenniscentra beroepsonderwijs bedrijfsleven verantwoord in de jaarverslaggeving van 2013, 2014 en 2015, bedoeld in de Regeling jaarverslaggeving onderwijs. De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatigheid van de opgave van het aantal gesloten leer-werkovereenkomsten. 
 
 ### Artikel  5  
 

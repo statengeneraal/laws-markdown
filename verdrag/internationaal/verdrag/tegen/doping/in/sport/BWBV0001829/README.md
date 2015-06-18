@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Internationaal Verdrag tegen doping in sport 
+##Internationaal Verdrag tegen doping in de sport 
 
 ####International Convention Against Doping in Sport
 
-*Preamble*  The General Conference of the United Nations Educational, Scientific and Cultural Organization, hereinafter referred to as UNESCO, meeting in Paris from 3 to 21 October at its 33rd session, Considering that the aim of UNESCO is to contribute to peace and security by promoting collaboration among the nations through education, science and culture, Referring to the existing international instruments relating to human rights, Aware of the resolution 58/5 adopted by the General Assembly of the United Nations on 3 November 2003, concerning sport as a means to promote education, health, development and peace, notably its paragraph 7, Conscious that sport should play an important role in the protection of health, in moral, cultural and physical education and in promoting international understanding and peace, Noting the need to encourage and coordinate international cooperation towards the elimination of doping in sport,  Concerned by the use of doping by athletes in sport and the consequences thereof for their health, the principle of fair play, the elimination of cheating and the future of sport, Mindful that doping puts at risk the ethical principles and educational values embodied in the International Charter of Physical Education and Sport of UNESCO and in the Olympic Charter, Recalling that the Anti-Doping Convention and its Additional Protocol adopted within the framework of the Council of Europe are the public international law tools, which are at the origin of national anti-doping policies and of intergovernmental cooperation, Recalling the Recommendations on doping adopted by the second, third and fourth International Conferences of Ministers and Senior Officials responsible for Physical Education and Sport organized by UNESCO at Moscow (1988), at Punta del Este (1999) and Athens (2004) and of 32 C/Resolution 9 adopted by the UNESCO General Conference at its 32nd session (2003), Bearing in mind the World Anti-Doping Code adopted by the World Anti-Doping Agency at the World Conference on Doping in Sport, Copenhagen, 5 March 2003 and the Copenhagen Declaration on Anti-Doping in Sport, Mindful also of the influence that elite athletes have on youth, Aware of the ongoing need to conduct and promote research with the objectives of improving detection of doping and better understanding of the factors affecting use in order for prevention strategies to be most effective, Aware also of the importance of ongoing education of athletes, athlete support personnel and the community at large in preventing doping, Mindful of the need to build the capacity of States Parties to implement anti-doping programmes, Aware that public authorities and the organizations responsible for sport have complementary responsibilities to prevent and combat doping in sport, notably to ensure the proper conduct, on the basis of the principle of fair play, of sports events and to protect the health of those that take part in them, Recognizing that these authorities and organizations must work together for these purposes ensuring the highest degree of independence and transparency at all appropriate levels, Determined to take further and stronger cooperative action aimed at the elimination of doping in sport, Recognizing that the elimination of doping in sport is dependent in part upon progressive harmonization of anti-doping standards and practices in sport and cooperation at the national and global level,  Adopts this Convention on this nineteenth day of October 2005.     
+*Preamble*  The General Conference of the United Nations Educational, Scientific and Cultural Organization, hereinafter referred to as UNESCO, meeting in Paris from 3 to 21 October 2005, at its 33rd session, Considering that the aim of UNESCO is to contribute to peace and security by promoting collaboration among nations through education, science and culture, Referring to existing international instruments relating to human rights, Aware of resolution 58/5 adopted by the General Assembly of the United Nations on 3 November 2003, concerning sport as a means to promote education, health, development and peace, notably its paragraph 7, Conscious that sport should play an important role in the protection of health, in moral, cultural and physical education and in promoting international understanding and peace, Noting the need to encourage and coordinate international cooperation towards the elimination of doping in sport,  Concerned by the use of doping by athletes in sport and the consequences thereof for their health, the principle of fair play, the elimination of cheating and the future of sport, Mindful that doping puts at risk the ethical principles and educational values embodied in the International Charter of Physical Education and Sport of UNESCO and in the Olympic Charter, Recalling that the Anti-Doping Convention and its Additional Protocol adopted within the framework of the Council of Europe are the public international law tools, which are at the origin of national anti-doping policies and of intergovernmental cooperation, Recalling the Recommendations on doping adopted by the second, third and fourth International Conferences of Ministers and Senior Officials responsible for Physical Education and Sport organized by UNESCO at Moscow (1988), Punta del Este (1999) and Athens (2004) and 32 C/Resolution 9 adopted by the General Conference of UNESCO at its 32nd session (2003), Bearing in mind the World Anti-Doping Code adopted by the World Anti-Doping Agency at the World Conference on Doping in Sport, Copenhagen, 5 March 2003 and the Copenhagen Declaration on Anti-Doping in Sport, Mindful also of the influence that elite athletes have on youth, Aware of the ongoing need to conduct and promote research with the objectives of improving detection of doping and better understanding of the factors affecting use in order for prevention strategies to be most effective, Aware also of the importance of ongoing education of athletes, athlete support personnel and the community at large in preventing doping, Mindful of the need to build the capacity of States Parties to implement anti-doping programmes, Aware that public authorities and the organizations responsible for sport have complementary responsibilities to prevent and combat doping in sport, notably to ensure the proper conduct, on the basis of the principle of fair play, of sports events and to protect the health of those that take part in them, Recognizing that these authorities and organizations must work together for these purposes ensuring the highest degree of independence and transparency at all appropriate levels, Determined to take further and stronger cooperative action aimed at the elimination of doping in sport, Recognizing that the elimination of doping in sport is dependent in part upon progressive harmonization of anti-doping standards and practices in sport and cooperation at the national and global levels,  Adopts this Convention on this nineteenth day of October 2005.     
 ### PART  I  
 
 ####SCOPE
@@ -21,11 +21,11 @@ The purpose of this Convention, within the framework of the strategy and program
 
 These definitions are to be understood within the context of the World Anti-Doping Code. However, in case of conflict the provisions of the Convention will prevail. For the purposes of this Convention: 
 
-1.‘‘Accredited doping control laboratories’’ means laboratories accredited by the World Anti-Doping Agency.
+1.“Accredited doping control laboratories” means laboratories accredited by the World Anti-Doping Agency.
 
-2.‘‘Anti-doping organization’’ means an entity that is responsible for adopting rules for initiating, implementing or enforcing any part of the doping control process. This includes, for example, the International Olympic Committee, the International Paralympic Committee, other major event organizations that conduct testing at their events, the World Anti-Doping Agency, international federations, and national anti-doping organizations.
+2.“Anti-doping organization” means an entity that is responsible for adopting rules for initiating, implementing or enforcing any part of the doping control process. This includes, for example, the International Olympic Committee, the International Paralympic Committee, other major event organizations that conduct testing at their events, the World Anti-Doping Agency, international federations, and national anti-doping organizations.
 
-3.‘‘Anti-doping rule violation’’ in sport means one or more of the following:
+3.“Anti-doping rule violation” in sport means one or more of the following:
 
 a)the presence of a prohibited substance or its metabolites or markers in an athlete’s bodily specimen;
 
@@ -37,55 +37,55 @@ d)violation of applicable requirements regarding athlete availability for out-of
 
 e)tampering, or attempting to tamper, with any part of doping control; 
 
-f)possession of prohibited substances and methods;
+f)possession of prohibited substances or methods;
 
 g)trafficking in any prohibited substance or prohibited method;
 
 h)administration or attempted administration of a prohibited substance or prohibited method to any athlete, or assisting, encouraging, aiding, abetting, covering up or any other type of complicity involving an anti-doping rule violation or any attempted violation.
 
-4.‘Athlete’’ means, for the purposes of doping control, any person who participates in sport at the international or national level as defined by each national anti-doping organization and accepted by States Parties and any additional person who participates in a sport or event at a lower level accepted by States Parties. For the purposes of education and training programmes, ‘‘athlete’’ means any person who participates in sport under the authority of a sport organization.
+4.“Athlete” means, for the purposes of doping control, any person who participates in sport at the international or national level as defined by each national anti-doping organization and accepted by States Parties and any additional person who participates in a sport or event at a lower level accepted by States Parties. For the purposes of education and training programmes, “athlete” means any person who participates in sport under the authority of a sports organization.
 
-5.‘‘Athlete support personnel’’ means any coach, trainer, manager, agent, team staff, official, medical or paramedical personnel working with or treating athletes participating in or preparing for sports competition.
+5.“Athlete support personnel” means any coach, trainer, manager, agent, team staff, official, medical or paramedical personnel working with or treating athletes participating in or preparing for sports competition.
 
-6.‘‘Code’’ means the World Anti-Doping Code adopted by the World Anti-Doping Agency on 5 March 2003 at Copenhagen which is attached as Appendix 1 to this Convention.
+6.“Code” means the World Anti-Doping Code adopted by the World Anti-Doping Agency on 5 March 2003 at Copenhagen which is attached as Appendix 1 to this Convention.
 
-7.‘‘Competition’’ means a single race, match, game or singular athletic contest.
+7.“Competition” means a single race, match, game or singular athletic contest.
 
-8.‘‘Doping control’’ means the process including test distribution planning, sample collection and handling, laboratory analysis, results management, hearings and appeals.
+8.“Doping control” means the process including test distribution planning, sample collection and handling, laboratory analysis, results management, hearings and appeals.
 
-9.‘‘Doping in sport’’ means the occurrence of an anti-doping rule violation
+9.“Doping in sport” means the occurrence of an anti-doping rule violation
 
-10.‘‘Duly authorized doping control teams’’ means doping control teams operating under the authority of international or national anti-doping organizations.
+10.“Duly authorized doping control teams” means doping control teams operating under the authority of international or national anti-doping organizations.
 
-11.‘‘In-competition’’ testing means, for purposes of differentiating between in-competition and out-of-competition testing, unless provided otherwise in the rules of an international federation or other relevant anti-doping organization, a test where an athlete is selected for testing in connection with a specific competition.
+11.“In-competition” testing means, for purposes of differentiating between in-competition and out-of-competition testing, unless provided otherwise in the rules of an international federation or other relevant anti-doping organization, a test where an athlete is selected for testing in connection with a specific competition.
 
-12.‘‘International Standard for Laboratories’’ means the standard which is attached as Appendix 2 to this Convention
+12.“International Standard for Laboratories” means the standard which is attached as Appendix 2 to this Convention
 
-13.‘‘International Standard for Testing’’ means the standard which is attached as Appendix 3 to this Convention.
+13.“International Standard for Testing” means the standard which is attached as Appendix 3 to this Convention.
 
-14.‘‘No advance notice’’ means a doping control which takes place with no advance warning to the athlete and where the athlete is continuously chaperoned from the moment of notification through sample provision.
+14.“No advance notice” means a doping control which takes place with no advance warning to the athlete and where the athlete is continuously chaperoned from the moment of notification through sample provision.
 
-15.‘‘Olympic Movement’’ means all those who agree to be guided by the Olympic Charter and who recognize the authority of the International Olympic Committee, namely: the international federations of sports on the programme of the Olympic Games; the National Olympic Committees, the Organizing Committees of the Olympic Games, athletes, judges and referees, associations and clubs, as well as all the organizations and institutions recognized by the International Olympic Committee.
+15.“Olympic Movement” means all those who agree to be guided by the Olympic Charter and who recognize the authority of the International Olympic Committee, namely: the international federations of sports on the programme of the Olympic Games; the National Olympic Committees, the Organizing Committees of the Olympic Games, athletes, judges and referees, associations and clubs, as well as all the organizations and institutions recognized by the International Olympic Committee.
 
-16.‘‘Out-of-competition’’ doping control means any doping control which is not conducted in competition.
+16.“Out-of-competition” doping control means any doping control which is not conducted in competition.
 
-17.‘‘Prohibited List’’ means the list which appears in Annex 1 to this Convention identifying the prohibited substances and prohibited methods.
+17.“Prohibited List” means the list which appears in Annex I to this Convention identifying the prohibited substances and prohibited methods.
 
-18.‘‘Prohibited method’’ means any method so described on the Prohibited List, which appears in Annex 1 to this Convention.
+18.“Prohibited method” means any method so described on the Prohibited List, which appears in Annex I to this Convention.
 
-19.‘‘Prohibited substance’’ means any substance so described on the Prohibited List, which appears in Annex 1 to this Convention.
+19.“Prohibited substance” means any substance so described on the Prohibited List, which appears in Annex I to this Convention.
 
-20.‘‘Sports organization’’ means any organization that serves as the ruling body for an event for one or several sports.
+20.“Sports organization” means any organization that serves as the ruling body for an event for one or several sports.
 
-21.‘‘Standards for Granting Therapeutic Use Exemptions’’ means those standards that appear in Annex 2 to this Convention.
+21.“Standards for Granting Therapeutic Use Exemptions” means those standards that appear in Annex II to this Convention.
 
-22.‘‘Testing’’ means the parts of the doping control process involving test distribution planning, sample collection, sample handling, and sample transport to the laboratory.
+22.“Testing” means the parts of the doping control process involving test distribution planning, sample collection, sample handling, and sample transport to the laboratory.
 
-23.‘‘Therapeutic use exemption’’ means an exemption granted in accordance with Standards for Granting Therapeutic Use Exemptions.
+23.“Therapeutic use exemption” means an exemption granted in accordance with Standards for Granting Therapeutic Use Exemptions.
 
-24.‘‘Use’’ means the application, ingestion, injection or consumption by any means whatsoever of any prohibited substance or prohibited method.
+24.“Use” means the application, ingestion, injection or consumption by any means whatsoever of any prohibited substance or prohibited method.
 
-25.‘‘World Anti-Doping Agency (WADA)’’ means the foundation so named established under Swiss law on 10 November 1999. 
+25.“World Anti-Doping Agency (WADA)” means the foundation so named established under Swiss law on 10 November 1999. 
 
 ### Article  3  
 
@@ -93,17 +93,17 @@ h)administration or attempted administration of a prohibited substance or prohib
 
 In order to achieve the purpose of the Convention, States Parties undertake to: 
 
-1.adopt appropriate measures at the national and international level which are consistent with the principles of the Code;
+a.adopt appropriate measures at the national and international levels which are consistent with the principles of the Code;
 
-2.encourage all forms of international cooperation aimed at protecting athletes, ethics in sport, and sharing the results of research; 
+b.encourage all forms of international cooperation aimed at protecting athletes and ethics in sport, and at sharing the results of research; 
 
-3.foster international cooperation between States Parties and leading organizations in the fight against doping in sport, in particular with WADA. 
+c.foster international cooperation between States Parties and leading organizations in the fight against doping in sport, in particular with the World Anti-Doping Agency. 
 
 ### Article  4  
 
 ####Relationship of the Convention to the Code
 
-1.  In order to coordinate the implementation, at the national and international level, of the fight against doping in sport, the States Parties commit themselves to the principles of the Code, as the basis for the measures provided for in Article 5 of this Convention. Nothing in this Convention prevents the States Parties from adopting additional measures complementary to the Code.   
+1.  In order to coordinate the implementation, at the national and international levels, of the fight against doping in sport, States Parties commit themselves to the principles of the Code, as the basis for the measures provided for in Article 5 of this Convention. Nothing in this Convention prevents States Parties from adopting additional measures complementary to the Code.   
 2.  The Code and the most current version of Appendices 2 and 3 are reproduced for information purposes, and are not an integral part of this Convention. The Appendices as such do not create any binding obligations under international law for States Parties.   
 3.  The Annexes are an integral part of this Convention.  
 
@@ -127,7 +127,7 @@ This Convention shall not alter the rights and obligations of States Parties whi
 
 ####Domestic coordination
 
-States Parties shall ensure the application of the present Convention, notably through domestic coordination. To meet their obligations under this Convention, States Parties may rely on anti-doping organizations as well as sport authorities and organizations. 
+States Parties shall ensure the application of the present Convention, notably through domestic coordination. To meet their obligations under this Convention, States Parties may rely on anti-doping organizations as well as sports authorities and organizations. 
 
 ### Article  8  
 
@@ -141,7 +141,7 @@ States Parties shall ensure the application of the present Convention, notably t
 
 ####Measures against athlete support personnel
 
-States Parties shall themselves take measures or encourage sport organizations and anti-doping organizations to adopt measures, including sanctions or penalties, aimed at athlete support personnel who commit an anti-doping rule violation or other offence connected with doping in sport. 
+States Parties shall themselves take measures or encourage sports organization and anti-doping organizations to adopt measures, including sanctions or penalties, aimed at athlete support personnel who commit an anti-doping rule violation or other offence connected with doping in sport. 
 
 ### Article  10  
 
@@ -155,7 +155,7 @@ States Parties, where appropriate, shall encourage producers and distributors of
 
 States Parties shall, where appropriate: 
 
-a) provide funding within their respective budgets to support a national testing programme across all sports or assist sports organizations and anti-doping organizations to finance doping controls either by direct subsidies or grants, or by recognizing the costs of such controls when determining the overall subsidies or grants to be awarded to those organizations;  
+a) provide funding within their respective budgets to support a national testing programme across all sports or assist sports organizations and anti-doping organizations in financing doping controls either by direct subsidies or grants, or by recognizing the costs of such controls when determining the overall subsidies or grants to be awarded to those organizations;  
 
 b) take steps to withhold sport-related financial support to individual athletes or athlete support personnel who have been suspended following an anti-doping rule violation, during the period of their suspension;  
 
@@ -167,11 +167,11 @@ c) withhold some or all financial or other sport-related support from any sports
 
 States Parties shall, where appropriate: 
 
-a) encourage and facilitate the sports organizations and anti-doping organizations within their jurisdiction to carry out the doping controls in a manner consistent with the Code including no-advance notice, out-of-competition and in-competition testing;  
+a) encourage and facilitate the implementation by the sports organizations and anti-doping organizations within their jurisdiction of doping controls in a manner consistent with the Code including no-advance notice, out-of-competition and in-competition testing;  
 
 b) encourage and facilitate the negotiation by sports organizations and anti-doping organizations of agreements permitting their members to be tested by duly authorized doping control teams from other countries;  
 
-c) undertake to assist the sports organizations and anti-doping organizations within their jurisdiction to gain access to an accredited doping control laboratory for the purposes of doping control analysis.   
+c) undertake to assist the sports organizations and anti-doping organizations within their jurisdiction gaining access to an accredited doping control laboratory for the purposes of doping control analysis.   
 
 ### PART  III  
 
@@ -201,7 +201,7 @@ States Parties support the principle of equal funding of the World Anti-Doping A
 
 Recognizing that the fight against doping in sport can only be effective when athletes can be tested with no advance notice and samples can be transported in a timely manner to laboratories for analysis, States Parties shall, where appropriate and in accordance with domestic law and procedures: 
 
-a) facilitate the task of the World Anti-Doping Agency and anti-doping organizations operating in compliance with the Code, subject to relevant host countries’ regulations, to conduct in- or out-of-competition doping controls on their athletes, whether on their territory or elsewhere;  
+a) facilitate the task of the World Anti-Doping Agency and anti-doping organizations operating in compliance with the Code, subject to relevant host countries’ regulations, of conducting in- or out-of-competition doping controls on their athletes, whether on their territory or elsewhere;  
 
 b) facilitate the timely movement of duly authorized doping control teams across borders when conducting doping control activities;  
 
@@ -219,7 +219,7 @@ g) mutually recognize the doping control procedures and test results management,
 
 ####Voluntary Fund
 
-1.  A ‘‘Fund for the Elimination of Doping in Sport’’, hereinafter referred to as ‘‘the Voluntary Fund’’, is hereby established. The Voluntary Fund shall consist of funds-in-trust established in accordance with the Financial Regulations of UNESCO. All contributions by States Parties and other actors shall be voluntary.   
+1.  A “Fund for the Elimination of Doping in Sport”, hereinafter referred to as “the Voluntary Fund”, is hereby established. The Voluntary Fund shall consist of funds-in-trust established in accordance with the Financial Regulations of UNESCO. All contributions by States Parties and other actors shall be voluntary.   
 2.  The resources of the Voluntary Fund shall consist of: 
 
 a) contributions made by States Parties;  
@@ -228,7 +228,7 @@ b) contributions, gifts or bequests which may be made by:
 
 (i) other States;  
 
-(ii) organizations and programmes of the United Nations system, particularly the United Nations Development Programme, as well as other international organizations; or  
+(ii) organizations and programmes of the United Nations system, particularly the United Nations Development Programme, as well as other international organizations;   
 
 (iii) public or private bodies or individuals;   
 
@@ -237,13 +237,13 @@ c) any interest due on the resources of the Voluntary Fund;
 d) funds raised through collections, and receipts from events organized for the benefit of the Voluntary Fund;  
 
 e) any other resources authorized by the Voluntary Fund’s regulations, to be drawn up by the Conference of Parties.    
-3.  Contributions into the Voluntary Fund by States Parties shall not be considered as a replacement for States Parties’ commitment to pay their share of the World Anti-Doping Agency’s annual budget.  
+3.  Contributions into the Voluntary Fund by States Parties shall not be considered to be a replacement for States Parties’ commitment to pay their share of the World Anti-Doping Agency’s annual budget.  
 
 ### Article  18  
 
 ####Use and governance of the Voluntary Fund
 
-Resources in the Voluntary Fund shall be allocated by the Conference of Parties for the financing of activities approved by it, notably to assist States Parties to develop and implement anti-doping programmes, in accordance with the provisions of this Convention, taking into consideration the goals of the World Anti-Doping Agency, and may serve to cover functioning costs of this Convention. No political, economic or other conditions may be attached to contributions made to the Voluntary Fund. 
+Resources in the Voluntary Fund shall be allocated by the Conference of Parties for the financing of activities approved by it, notably to assist States Parties in developing and implementing anti-doping programmes, in accordance with the provisions of this Convention, taking into consideration the goals of the World Anti-Doping Agency, and may serve to cover functioning costs of this Convention. No political, economic or other conditions may be attached to contributions made to the Voluntary Fund. 
 
 ### PART  IV  
 
@@ -284,7 +284,7 @@ States Parties shall promote and, within their means, support active participati
 
 ####Sports organizations and ongoing education and training on anti-doping
 
-States Parties shall encourage sports organizations and anti-doping organizations to implement ongoing education and training programmes for all athletes and athlete support personnel on the subjects identified in Article 19 above. 
+States Parties shall encourage sports organizations and anti-doping organizations to implement ongoing education and training programmes for all athletes and athlete support personnel on the subjects identified in Article 19. 
 
 ### Article  23  
 
@@ -302,7 +302,7 @@ States Parties shall cooperate mutually and with the relevant organizations to s
 
 States Parties undertake, within their means, to encourage and promote anti-doping research in cooperation with sports and other relevant organizations on: 
 
-a) prevention, detection methods, behavioural and social aspects, and health consequences of doping;  
+a) prevention, detection methods, behavioural and social aspects, and the health consequences of doping;  
 
 b) ways and means of devising scientifically-based physiological and psychological training programmes respectful of the integrity of the person;  
 
@@ -312,7 +312,7 @@ c) the use of all emerging substances and methods resulting from scientific deve
 
 ####Nature of anti-doping research
 
-When promoting anti-doping research, as set out in Article 24 above, States Parties shall ensure that such research will: 
+When promoting anti-doping research, as set out in Article 24, States Parties shall ensure that such research will: 
 
 a) comply with internationally recognized ethical practices;  
 
@@ -344,9 +344,9 @@ b) sports organizations and athlete support personnel within their jurisdiction 
 
 ####Conference of Parties
 
-1.  A Conference of Parties is hereby established. The Conference of Parties is the sovereign body of this Convention.   
+1.  A Conference of Parties is hereby established. The Conference of Parties shall be the sovereign body of this Convention.   
 2.  The Conference of Parties shall meet in ordinary session in principle every two years. It may meet in extraordinary session if it so decides or at the request of at least one third of the States Parties.   
-3.  State Parties shall each have one vote at the Conference of Parties.   
+3.  Each State Party shall have one vote at the Conference of Parties.   
 4.  The Conference of Parties shall adopt its own Rules of Procedure.  
 
 ### Article  29  
@@ -363,22 +363,22 @@ The World Anti-Doping Agency shall be invited as an advisory organization to the
 
 a) promote the purpose of this Convention;  
 
-b) discuss the relationship with the World Anti-Doping Agency and study the mechanisms of funding of the Agency’s annual core budget. States non-Parties can be invited to the discussion;  
+b) discuss the relationship with the World Anti-Doping Agency and study the mechanisms of funding of the Agency’s annual core budget. States non-Parties may be invited to the discussion;  
 
 c) adopt a plan for the use of the resources of the Voluntary Fund, in accordance with Article 18;  
 
 d) examine the reports submitted by States Parties in accordance with Article 31;  
 
-e) examine, on an ongoing basis, the monitoring of compliance with this Convention in response to the development of anti-doping systems, in accordance with Article 31. Any monitoring mechanisms or measure that goes beyond Article 31 shall be funded through the Voluntary Fund established under Article 17;  
+e) examine, on an ongoing basis, the monitoring of compliance with this Convention in response to the development of anti-doping systems, in accordance with Article 31. Any monitoring mechanism or measure that goes beyond Article 31 shall be funded through the Voluntary Fund established under Article 17;  
 
 f) examine draft amendments to this Convention for adoption;  
 
 g) examine for approval, in accordance with Article 34 of the Convention, modifications to the Prohibited List and to the Standards for Granting Therapeutic Use Exemptions adopted by the World Anti-Doping Agency;  
 
-h) define and implement cooperation between the States Parties and the World Anti-Doping Agency within the framework of this Convention;  
+h) define and implement cooperation between States Parties and the World Anti-Doping Agency within the framework of this Convention;  
 
 i) request a report from the World Anti-Doping Agency on the implementation of the Code to each of its sessions for examination.     
-2.  The Conference of Parties, in fulfilling its functions, may do so in cooperation with other intergovernmental bodies.  
+2.  The Conference of Parties, in fulfilling its functions, may cooperate with other intergovernmental bodies.  
 
 ### Article  31  
 
@@ -392,16 +392,16 @@ States Parties shall forward every two years to the Conference of Parties throug
 
 1.  The Secretariat of the Conference of Parties shall be provided by the Director-General of UNESCO.   
 2.  At the request of the Conference of Parties the Director-General of UNESCO shall use to the fullest extent possible the services of the World Anti-Doping Agency on terms agreed upon by the Conference of Parties.   
-3.  Functioning costs related to the Convention will be funded from the regular budget of UNESCO within existing resources at an appropriate level, the Voluntary Fund established under Article 17 above or an appropriate combination thereof as determined every two years. The financing for the Secretariat from the regular budget shall be done on a strictly minimal basis, it being understood that voluntary funding should also be provided to support the Convention.   
+3.  Functioning costs related to the Convention will be funded from the regular budget of UNESCO within existing resources at an appropriate level, the Voluntary Fund established under Article 17 or an appropriate combination thereof as determined every two years. The financing for the Secretariat from the regular budget shall be done on a strictly minimal basis, it being understood that voluntary funding should also be provided to support the Convention.   
 4.  The Secretariat shall prepare the documentation of the Conference of Parties, as well as the draft agenda of its meetings, and shall ensure the implementation of its decisions.   
 
 ### Article  33  
 
-####Amendments to the Convention
+####Amendments
 
 1.  Each State Party may, by written communication addressed to the Director-General of UNESCO, propose amendments to this Convention. The Director-General shall circulate such communication to all States Parties. If, within six months from the date of the circulation of the communication, at least one half of the States Parties give their consent, the Director-General shall present such proposals to the following session of the Conference of Parties.   
 2.  Amendments shall be adopted by the Conference of Parties with a two-thirds majority of States Parties present and voting.   
-3.  Once adopted, amendments to this Convention shall be submitted for ratification, acceptance, approval or accession to the States Parties.   
+3.  Once adopted, amendments to this Convention shall be submitted for ratification, acceptance, approval or accession to States Parties.   
 4.  With respect to the States Parties that have ratified, accepted, approved or acceded to them, amendments to this Convention shall enter into force three months after the deposit of the instruments referred to in paragraph 3 of this Article by two thirds of the States Parties. Thereafter, for each State Party that ratifies, accepts, approves or accedes to an amendment, the said amendment shall enter into force three months after the date of deposit by that State Party of its instrument of ratification, acceptance, approval or accession.   
 5.  A State that becomes a Party to this Convention after the entry into force of amendments in conformity with paragraph 4 of this Article shall, failing an expression of different intention, be considered: 
 
@@ -415,7 +415,7 @@ b) a Party to the unamended Convention in relation to any State Party not bound 
 
 1.  If the World Anti-Doping Agency modifies the Prohibited List or the Standards for Granting Therapeutic Use Exemptions, it may, by written communication addressed to the Director-General of UNESCO, inform her/him of those changes. The Director-General shall notify such changes as proposed amendments to the relevant Annexes to this Convention to all States Parties expeditiously. Amendments to the Annexes shall be approved by the Conference of Parties either at one of its sessions or through a written consultation.   
 2.  States Parties have 45 days from the Director-General’s notification within which to express their objection to the proposed amendment either in writing, in case of written consultation, to the Director-General or at a session of the Conference of Parties. Unless two thirds of the States Parties express their objection, the proposed amendment shall be deemed to be approved by the Conference of Parties.   
-3.  Amendments approved by the Conference of Parties shall be notified to the States Parties by the Director-General. They shall enter into force 45 days after that notification, except for any State Party that has previously notified the Director-General that it does not accept these amendments.   
+3.  Amendments approved by the Conference of Parties shall be notified to States Parties by the Director-General. They shall enter into force 45 days after that notification, except for any State Party that has previously notified the Director-General that it does not accept these amendments.   
 4.  A State Party having notified the Director-General that it does not accept an amendment approved according to the preceding paragraphs remains bound by the Annexes as not amended.  
 
 ### PART  VII  
@@ -436,46 +436,46 @@ b) With regard to the provisions of this Convention, the implementation of which
 
 ####Ratification, acceptance, approval or accession
 
-This Convention shall be subject to ratification, acceptance, approval or accession by Member States of UNESCO in accordance with their respective constitutional procedures. The instruments of ratification, acceptance, approval or accession shall be deposited with the Director-General of UNESCO.  
+This Convention shall be subject to ratification, acceptance, approval or accession by States Members of UNESCO in accordance with their respective constitutional procedures. The instruments of ratification, acceptance, approval or accession shall be deposited with the Director-General of UNESCO.  
 
 ### Article  37  
 
 ####Entry into force
 
-1.  This Convention shall enter into force on the first day of the month following the expiration of a period of one month after the deposit of the thirtieth instrument of ratification, acceptance, approval or accession.   
-2.  For any State that subsequently expresses its consent to be bound by it, this Convention shall enter into force on the first day of the month following the expiration of a period of one month after the deposit of its instrument of ratification, acceptance, approval or accession.  
+1.  This Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date of the deposit of the thirtieth instrument of ratification, acceptance, approval or accession.   
+2.  For any State that subsequently expresses its consent to be bound by it, the Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date of the deposit of its instrument of ratification, acceptance, approval or accession.  
 
 ### Article  38  
 
 ####Territorial extension of the Convention
 
 1.  Any State may, when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories for whose international relations it is responsible and to which this Convention shall apply.   
-2.  Any State Party may, at any later date, by a declaration addressed to UNESCO, extend the application of this Convention to any other territory specified in the declaration. In respect of such territory the Convention shall enter into force on the first day following the expiration of a period of one month after the date of receipt of such a declaration by the depositary.   
-3.  Any declaration made under the two preceding paragraphs may, in respect of any territory mentioned in such declaration, be withdrawn by a notification addressed to UNESCO. Such withdrawal shall become effective on the first day following the expiration of a period of one month after the date of receipt of such a notification by the depositary.  
+2.  Any State Party may, at any later date, by a declaration addressed to UNESCO, extend the application of this Convention to any other territory specified in the declaration. In respect of such territory the Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date of receipt of such declaration by the depositary.   
+3.  Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn by a notification addressed to UNESCO. Such withdrawal shall become effective on the first day of the month following the expiration of a period of one month after the date of receipt of such a notification by the depositary.  
 
 ### Article  39  
 
 ####Denunciation
 
-Each State Party may denounce this Convention. The denunciation shall be notified by an instrument in writing, deposited with the Director-General of UNESCO. The denunciation shall take effect on the first day of the month following the expiration of a period of six months after the receipt of the instrument of denunciation. It shall in no way affect the financial obligations of the concerned State Party until the date on which the withdrawal takes effect. 
+Any State Party may denounce this Convention. The denunciation shall be notified by an instrument in writing, deposited with the Director-General of UNESCO. The denunciation shall take effect on the first day of the month following the expiration of a period of six months after the receipt of the instrument of denunciation. It shall in no way affect the financial obligations of the State Party concerned until the date on which the withdrawal takes effect. 
 
 ### Article  40  
 
 ####Depositary
 
-The Director-General of UNESCO shall be the Depositary of this Convention and amendments thereto. As the Depositary, the Director-General of UNESCO shall inform the States Parties of this Convention, as well as the other Member States of the Organization of: 
+The Director-General of UNESCO shall be the Depositary of this Convention and amendments thereto. As the Depositary, the Director-General of UNESCO shall inform the States Parties to this Convention, as well as the other States Members of the Organization of: 
 
 a) the deposit of any instrument of ratification, acceptance, approval or accession;  
 
-b) the date of entry into force of this Convention in accordance with Article 37 above;  
+b) the date of entry into force of this Convention in accordance with Article 37;  
 
-c) any report prepared in pursuance of the provisions of Article 31 above;  
+c) any report prepared in pursuance of the provisions of Article 31;  
 
-d) any amendment to the Convention or to the Annexes adopted in accordance with Articles 33 and 34 above and the date on which the amendment comes into force;  
+d) any amendment to the Convention or to the Annexes adopted in accordance with Articles 33 and 34 and the date on which the amendment comes into force;  
 
-e) any declaration or notification made under the provisions of Article 38 above;  
+e) any declaration or notification made under the provisions of Article 38;  
 
-f) any notification made under the provisions of Article 39 above and the date on which the denunciation takes effect;  
+f) any notification made under the provisions of Article 39 and the date on which the denunciation takes effect;  
 
 g) any other act, notification or communication relating to this Convention.   
 
@@ -490,7 +490,7 @@ In conformity with Article 102 of the Charter of the United Nations, this Conven
 ####Authoritative texts
 
 1.  This Convention including its Annexes has been drawn up in Arabic, Chinese, English, French, Russian and Spanish, the six texts being equally authoritative.   
-2.  The Appendices to this Convention are drawn up in Arabic, Chinese, English, French, Russian and Spanish.  
+2.  The Appendices to this Convention are provided in Arabic, Chinese, English, French, Russian and Spanish.  
 
 ### Article  43  
 
@@ -506,9 +506,9 @@ DONE in Paris, this nineteenth day of October 2005, in two authentic copies bear
 
 World Anti-Doping Code 
 
-### Date of entry into force: 1 January 2015
+#### Date of entry into force: 1 January 2015
 
-In accordance with Article 4.2.2 of the World Anti-Doping Code, all *Prohibited Substances *shall be considered as “*Specified Substances*” except Substances in classes S1, S2, S.4.4, S.4.5, S6.a, and *Prohibited Methods *M1, M2 and M3.  
+In accordance with Article 4.2.2 of the World Anti-Doping Code, all *Prohibited Substances *shall be considered as “*Specified Substances*” except Substances in classes S1, S2, S.4.4, S.4.5, S6.a, and *Prohibited Methods *M1, M2 and M3.
 
 ####Substances and methods prohibited at all times (in- and out-of-competition)
 
@@ -714,151 +714,163 @@ Alcohol (*ethanol*) is prohibited *In-Competition *only, in the following sports
 
 * Underwater sports (CMAS) in constant-weight apnoea with or without fins, dynamic apnoea with and without fins, free immersion apnoea, Jump Blue apnoea, spearfishing, static apnoea, target shooting and variable weight apnoea.   Including, but not limited to:  *Acebutolol*; *alprenolol*; *atenolol*; *betaxolol*; *bisoprolol*; *bunolol*; *carteolol*; *carvedilol*; *celiprolol*; *esmolol*; *labetalol*; *levobunolol*; *metipranolol*; *metoprolol*; *nadolol*; *oxprenolol*; *pindolol*; *propranolol*; *sotalol *and *timolol.*  
 
-### ANNEX  II  
+###Annex  II  
 
-####Standards for Granting Therapeutic use Exemptions
+####Standards and process for Granting Therapeutic Use Exemptions (TUES)
 
-*Extract from “INTERNATIONAL STANDARD FOR THERAPEUTIC USE EXEMPTIONS” of the World Anti-doping Agency (WADA); in force 1 january 2009*  
+Extract from “International Standard for Therapeutic Use Exemptions” of the World Anti-doping Agency (WADA); in force 1 January 2015 
 
-### 4.0  
+4. 0
+###Obtaining a *TUE*
 
-####Criteria for Granting a Therapeutic Use Exemption
+4.1 An *Athlete* may be granted a *TUE* if (and only if) he/she can show that each of the following conditions is met: 
 
-A therapeutic use exemption *(TUE)* may be granted to an *Athlete* permitting the *Use *of a *Prohibited Substance *or *Prohibited Method* contained in the *Prohibited List*. An application for a *TUE* will be reviewed by a *Therapeutic* Use Exemption Committee *(TUEC)*. The *TUEC* will be appointed by an *Anti-Doping Organization*. An exemption will be granted only in strict accordance with the following criteria:  *[Comment: This Standard can apply to all Athletes as defined by and subject to the Code, i.e. able-bodied Athletes and Athletes with disabilities. This Standard will be applied according to an individual’s circumstances. For example, an exemption that is appropriate for an Athlete with a disability may be inappropriate for other Athletes.]*  
+a) The *Prohibited Substance* or *Prohibited Method* in question is needed to treat an acute or chronic medical condition, such that the *Athlete* would experience a significant impairment to health if the *Prohibited Substance* or *Prohibited Method* were to be withheld.  
 
-4.1 The *Athlete *should submit an application for a *TUE* no less than twenty-one (21) days before he/she needs the approval for instance an *Event)*.  
+b) The *Therapeutic* *Use* of the *Prohibited Substance* or *Prohibited Method* is highly unlikely to produce any additional enhancement of performance beyond what might be anticipated by a return to the *Athlete’s* normal state of health following the treatment of the acute or chronic medical condition.  
 
-4.2 The *Athlete *would experience a significant impairment to health if the *Prohibited Substance *or *Prohibited Method *were to be withheld in the course of treating an acute or chronic medical condition.  
+c) There is no reasonable *Therapeutic* alternative to the *Use* of the *Prohibited Substance* or *Prohibited Method*.  
 
-4.3 The *therapeutic* * Use* of the *Prohibited Substance *or *Prohibited Method *would produce no additional enhancement of performance other than that which might be anticipated by a return to a state of normal health following the treatment of a legitimate medical condition. The *Use *of any *Prohibited Substance *or *Prohibited Method *to increase “low-normal” levels of any endogenous hormone is not considered an acceptable *therapeutic* intervention.  
+d) The necessity for the *Use *of the *Prohibited Substance *or *Prohibited Method *is not a consequence, wholly or in part, of the prior *Use *(without a *TUE*) of a substance or method which was prohibited at the time of such *Use*.    *[Comment to 4.1: The WADA documents titled “Medical Information to Support the Decisions of* **TUECs***”, posted on WADA’s website, should be used to assist in the application of these criteria in relation to particular medical conditions.]* 
 
-4.4 There is no reasonable *therapeutic* alternative to the *Use *of the otherwise *Prohibited Substance *or *Prohibited Method*.  
+4.2 Unless one of the exceptions set out in Article 4.3 applies, an *Athlete* who needs to *Use* a *Prohibited Substance* or *Prohibited Method* for *Therapeutic* reasons must obtain a *TUE* prior to *Using* or *Possessing* the substance or method in question. 
 
-4.5 The necessity for the *Use *of the otherwise *Prohibited Substance *or *Prohibited Method *cannot be a consequence, wholly or in part, of prior *nontherapeutic* *Use *of any substance from the *Prohibited List*.  
+4.3 An *Athlete* may only be granted retroactive approval for his/her *Therapeutic* *Use* of a *Prohibited Substance* or *Prohibited Method* (i.e., a retroactive *TUE*) if: 
 
-4.6 The *TUE* will be cancelled by the granting body, if: 
+a) Emergency treatment or treatment of an acute medical condition was necessary; or  
 
-a. The A*thlete *does not promptly comply with any requirements or conditions imposed by the *Anti-Doping Organization *granting the exemption.  
+b) Due to other exceptional circumstances, there was insufficient time or opportunity for the *Athlete* to submit, or for the *TUEC* to consider, an application for the *TUE* prior to *Sample* collection; or  
 
-b. The term for which the *TUE* was granted has expired.  
+c) The applicable rules required the *Athlete* (see comment to Article 5.1) or permitted the *Athlete* (see *Code* Article 4.4.5) to apply for a retroactive *TUE*; or   *[Comment to 4.3(c): Such Athletes are strongly advised to have a medical file prepared and ready to demonstrate their satisfaction of the TUE conditions set out at Article 4.1, in case an application for a retroactive TUE is necessary following Sample collection.]*
 
-c. The A*thlete *is advised that the *TUE* has been withdrawn by the *Anti-Doping Organization*.      *[Comment: Each *TUE* will have a specified duration as decided upon by the *TUEC*. There may be cases when a *TUE* has expired or has been withdrawn and the Prohibited Substance subject to the *TUE* is still present in the Athlete’s body. In such cases, the Anti-Doping Organization conducting the initial review of an adverse analytical finding will consider whether the finding is consistent with expiry or withdrawal of the *TUE*.]*  
+d)It is agreed, by *WADA* and by the *Anti-Doping Organization* to whom the application for a retroactive *TUE* is or would be made, that fairness requires the grant of a retroactive *TUE*.*[Comment to 4.3(d): If WADA and/or the Anti-Doping Organization do not agree to the application of Article 4.3(d), that may not be challenged either as a defense to proceedings for an anti-doping rule violation, or by way of appeal, or otherwise.]*
 
-4.7 An application for a *TUE* will not be considered for retroactive approval except in cases where: 
+5.0
+###*TUE* Responsibilities of *Anti-Doping Organizations*
 
-a. Emergency treatment or treatment of an acute medical condition was necessary, or  
+5.1 *Code* Article 4.4 specifies (a) which *Anti-Doping Organizations* have authority to make *TUE* decisions; (b) how those *TUE* decisions should be recognized and respected by other *Anti-Doping Organizations*; and (c) when *TUE* decisions may be reviewed and/or appealed. *[Comment to 5.1: See Annex 1 for a flow-chart summarizing the key provisions of Code Article 4.4.* *Code Article 4.4.2 specifies the authority of a National Anti-Doping Organization to make TUE decisions in respect of Athletes who are not International-Level Athletes. In case of dispute as to which National Anti-Doping Organization should deal with the TUE application of an Athlete who is not an International-Level Athlete, WADA will decide. WADA’s decision will be final and not subject to appeal.* *Where national policy requirements and imperatives lead a National Anti-Doping Organization to prioritize certain sports over others in its test distribution planning (as contemplated by Article 4.4.1 of the International Standard for Testing and Investigations), the National Anti-Doping Organization may decline to consider advance applications for TUEs from Athletes in some or all of the non-priority sports, but in that case it must permit any such Athlete from whom a Sample is subsequently collected to apply for a retroactive TUE. The National Anti-Doping Organization should publicize any such policy on its website for the benefit of affected Athletes.]* 
 
-b. due to exceptional circumstances, there was insufficient time or opportunity for an applicant to submit, or a *TUEC* to consider, an application prior to *Doping Control*, or  
+5.2 Each *National Anti-Doping Organization*, International Federation and *Major Event Organization* must establish a *TUEC* to consider whether applications for grant or recognition of *TUE*s meet the conditions set out in Article 4.1. *[Comment to 5.2: While a Major Event Organization may choose to recognize pre-existing TUEs automatically, there must be a mechanism for Athletes participating in the Event to obtain a new TUE if the need arises. It is up to each Major Event Organization whether it sets up its own *TUEC* for this purpose, or rather whether it outsources the task by agreement to a third party (such as Sport Accord). The aim in each case should be to ensure that Athletes competing in such Events have the ability to obtain TUEs quickly and efficiently before they compete.]*
 
-c. the conditions set forth under 7.13 apply.      *[Comment: Medical emergencies or acute medical situations requiring administration of an otherwise Prohibited Substance or Prohibited Method before an application for a *TUE* can be made, are uncommon. Similarly, circumstances requiring expedited consideration of an application for a *TUE* due to imminent competition are infrequent. Anti-Doping Organizations granting *TUE*s should have internal procedures which permit such situations to be addressed.]*  
+a) *TUECs* should include at least three physicians with experience in the care and treatment of *Athlete*s and a sound knowledge of clinical, sports and exercise medicine. In cases involving *Athlete*s with impairments, at least one *TUEC* member should possess general experience in the care and treatment of *Athlete*s with impairments, or possess specific experience in relation to the *Athlete’s* particular impairment(s).  
 
-### 5.0  
+b) In order to ensure a level of independence of decisions, at least a majority of the members of a *TUEC* should have no political responsibility in the *Anti-Doping Organization* that appoints them. All members of the *TUEC* must sign a conflict of interest and confidentiality declaration. (A template declaration is available on *WADA’s *website).  
 
-####Confidentiality of Information
+5.3 Each *National Anti-Doping Organization*, International Federation and *Major Event Organization* must establish a clear process for applying to its *TUEC* for a *TUE* that complies with the requirements of this *International Standard. *It must also publish details of that process by (at a minimum) posting the information in a conspicuous place on its website and sending the information to *WADA*. *WADA* may re-publish the same information on its own website. 
 
-5.1 The applicant must provide written consent for the transmission of all information pertaining to the application to members of the *TUEC* and, as required, other independent medical or scientific experts, or to all necessary staff involved in the management, review or appeal of *TUE*s . Should the assistance of external, independent experts be required, all details of the application will be circulated without identifying the *Athlete *concerned. The applicant must also provide written consent for the decisions of the *TUEC* to be distributed to other relevant *Anti-Doping Organizations *under the provisions of the *Code*.  
+5.4 Each *National Anti-Doping Organization*, International Federation and *Major Event Organization* must promptly report (in English or French) all decisions of its *TUEC* granting or denying *TUE*s, and all decisions to recognize or refusing to recognize other *Anti-Doping Organizations’ TUE* decisions, through *ADAMS* or any other system approved by *WADA*. In respect of *TUE*s granted, the information reported shall include (in English or French): 
 
-5.2 The members of the *TUEC*s and the administration of the *Anti-Doping Organization *involved will conduct all of their activities in strict confidence. All members of a *TUEC* and all staff involved will sign confidentiality agreements. In particular they will keep the following information confidential: 
+a) not only the approved substance or method, but also the dosage(s), frequency and route of *Administration* permitted, the duration of the *TUE*, and any conditions imposed in connection with the *TUE*; and  
 
-a. All medical information and data provided by the *Athlete *and physician(s) involved in the *Athlete*’s care.  
+b) the *TUE* application form and the relevant clinical information (translated into English or French) establishing that the Article 4.1 conditions have been satisfied in respect of such *TUE* (for access only by *WADA*, the *Athlete’s National Anti-Doping Organization* and International Federation, and the *Major Event Organization* organizing an *Event* in which the *Athlete* wishes to compete).   *[Comment to 5.4: The process of recognition of TUEs is greatly facilitated by use of ADAMS.]*
 
-b. All details of the application including the name of the physician(s) involved in the process.   Should the *Athlete *wish to revoke the right of the *TUEC* or the * *WADA *TUEC* to obtain any health information on his/her behalf, the *Athlete *must notify his/her medical practitioner in writing of the fact. As a consequence of such a decision, the *Athlete *will not receive approval for a *TUE* or renewal of an existing *TUE*.   
+5.5 When a *National Anti-Doping Organization* grants a *TUE* to an *Athlete*, it must warn him/her in writing (a) that that *TUE* is valid at national level only, and (b) that if the *Athlete* becomes an *International-Level Athlete* or competes in an *International Event*, that *TUE* will not be valid for those purposes unless it is recognized by the relevant International Federation or *Major Event Organization* in accordance with Article 7.1. Thereafter, the *National Anti-Doping Organization* should help the *Athlete* to determine when he/she needs to submit the *TUE* to an International Federation or *Major Event Organization* for recognition, and should guide and support the *Athlete* through the recognition process. 
 
-### 6.0  
+5.6 Each International Federation and *Major Event Organization* must publish a notice (at a minimum, by posting it in a conspicuous place on its website and sending it to *WADA*) that sets out clearly (1) which *Athletes* coming under its jurisdiction are required to apply to it for a *TUE*, and when; (2) which *TUE *decisions of other *Anti-Doping Organizations* it will automatically recognize in lieu of such application, in accordance with Article 7.1(a); and (3) which *TUE* decisions of other *Anti-Doping Organizations* will have to be submitted to it for recognition, in accordance with Article 7.1(b). *WADA* may re-publish the notice on its own website. 
 
-#### *Therapeutic* Use Exemption Committees *(TUEC*s)
+5.7 Any *TUE* that an *Athlete* has obtained from a *National Anti-Doping Organization* shall not be valid if the *Athlete* becomes an *International-Level Athlete* or competes in an *International Event* unless and until the relevant *International Federation* recognizes that *TUE* in accordance with Article 7.0. Any *TUE* that an *Athlete* has obtained from an International Federation shall not be valid if the *Athlete* competes in an *International Event* organized by a *Major Event Organization*, unless and until the relevant *Major Event Organization* recognizes that *TUE* in accordance with Article 7.0. As a result, if the International Federation or *Major Event Organization* (as applicable) declines to recognize that *TUE*, then (subject to the *Athlete’s* rights of review and appeal) that TUE may not be relied upon to excuse the presence, *Use*, *Possession* or *Administration* of the *Prohibited Substance* or *Prohibited Method* mentioned in the *TUE* vis-à-vis that International Federation or *Major Event Organization*. 
 
-*TUEC*s shall be constituted and act in accordance with the following guidelines: 
+6.0
+###*TUE* Application Process
 
-6.1  *TUECs* should include at least three (3) physicians with experience in the care and treatment of *Athlete*s and a sound knowledge of clinical, sports and exercise medicine. In order to ensure a level of independence of decisions, the majority of the members of any *TUEC* should be free of conflicts of interest or political responsibility in the *Anti-Doping Organization*. All members of a *TUEC* will sign a conflict of interest agreement. In applications involving *Athlete*s with disabilities, at least one *TUEC* member must possess specific experience with the care and treatment of *Athlete*s with disabilities.  
+6.1 An *Athlete* who needs a *TUE* should apply as soon as possible. For substances prohibited *In-Competition* only, the *Athlete* should apply for a *TUE* at least 30 days before his/her next *Competition*, unless it is an emergency or exceptional situation. The *Athlete* should apply to his/her *National Anti-Doping Organization*, International Federation and/or a *Major Event Organization* (as applicable), using the *TUE* application form provided. *Anti-Doping Organizations* shall make the application form they want *Athletes* to use available for download from their websites. That form must be based on the template set out in Annex 2. The template may be modified by *Anti-Doping Organizations* to include additional requests for information, but no sections or items may be removed.  
 
-6.2  *TUEC*s may seek whatever medical or scientific expertise they deem appropriate in reviewing the circumstances of any application for a *TUE*.  
+6.2 The *Athlete* should submit the *TUE* application form to the relevant *Anti-Doping Organization* via *ADAMS* or as otherwise specified by the *Anti-Doping Organization*. The form must be accompanied by: 
 
-6.3 The * *WADA *TUEC* shall be composed following the criteria set out in Article 6.1. The * *WADA *TUEC* is established to review on its own initiative *TUE* decisions granted by *Anti-Doping Organizations*. As specified in Article 4.4 of the *Code, *the **WADA *TUEC*, upon request by *Athlete*s who have been denied *TUE*s by an *Anti-Doping Organization*, will review such decisions with the power to reverse them.   
+a) a statement by an appropriately qualified physician, attesting to the need for the *Athlete* to *Use* the *Prohibited Substance* or *Prohibited Method* in question for *Therapeutic* reasons; and  
 
-### 7.0  
+b) a comprehensive medical history, including documentation from the original diagnosing physician(s) (where possible) and the results of all examinations, laboratory investigations and imaging studies relevant to the application.   *[Comment to 6.2(b): The information submitted in relation to the diagnosis, treatment and duration of validity should be guided by the WADA documents titled “Medical Information to Support the Decisions of *TUECs*”.]* 
 
-#### *Therapeutic* *Use *Exemption *(TUE)* Application Process
+6.3 The *Athlete* should keep a complete copy of the *TUE* application form and of all materials and information submitted in support of that application.  
 
-7.1 A *TUE* will only be considered following the receipt of a completed application form that must include all relevant documents (see Annex 2 – *TUE* form). The application process must be dealt with in accordance with the principles of strict medical confidentiality.  
+6.4 A *TUE *application will only be considered by the *TUEC* following the receipt of a properly completed application form, accompanied by all relevant documents. Incomplete applications will be returned to the *Athlete* for completion and re-submission.  
 
-7.2 The *TUE* application form(s), as set out in Annex 2, can be modified by *Anti-Doping Organization*s to include additional requests for information, but no sections or items shall be removed.  
+6.5 The *TUEC* may request from the *Athlete* or his/her physician any additional information, examinations or imaging studies, or other information that it deems necessary in order to consider the *Athlete’s* application; and/or it may seek the assistance of such other medical or scientific experts as it deems appropriate.  
 
-7.3 The *TUE* application form(s) may be translated into other language(s) by *Anti-Doping Organization*s, but English or French must remain on the application form(s).  
+6.6 Any costs incurred by the *Athlete* in making the *TUE* application and in supplementing it as required by the *TUEC* are the responsibility of the *Athlete*.  
 
-7.4 An *Athlete *may not apply to more than one *Anti-Doping Organization *for a *TUE*. The application must identify the *Athlete*’s sport and, where appropriate, discipline and specific position or role.  
+6.7 The *TUEC* shall decide whether or not to grant the application as soon as possible, and usually (i.e., unless exceptional circumstances apply) within no more than 21 days of receipt of a complete application. Where a *TUE* application is made a reasonable time prior to an *Event*, the *TUEC* must use its best endeavors to issue its decision before the start of the *Event*. 
 
-7.5 The application must list any previous and/or current requests for permission to use an otherwise *Prohibited Substance *or *Prohibited Method*, the body to whom that request was made, and the decision of that body.  
+6.8 The *TUEC*’s decision must be communicated in writing to the *Athlete* and must be made available to *WADA* and to other *Anti-Doping Organizations* via *ADAMS* or any other system approved by *WADA*, in accordance with Article 5.4. 
 
-7.6 The application must include a comprehensive medical history and the results of all examinations, laboratory investigations and imaging studies relevant to the application. The arguments related to the diagnosis and treatment, as well as duration of validity, should follow the *WADA *“Medical Information to Support the Decisions of *TUEC*s”. For asthma, the specific requirement(s) set out in Annex 1 must be fulfilled.  
+a) A decision to grant a *TUE* must specify the dosage(s), frequency, route and duration of *Administration* of the *Prohibited Substance* or *Prohibited Method* in question that the *TUEC* is permitting, reflecting the clinical circumstances, as well as any conditions imposed in connection with the *TUE*.  
 
-7.7 Any additional relevant investigations, examinations or imaging studies requested by the *TUEC* of the *Anti-Doping Organization *before approval will be undertaken at the expense of the applicant or his/her national sport governing body.  
+b) A decision to deny a *TUE* application must include an explanation of the reason(s) for the denial.   
 
-7.8 The application must include a statement by an appropriately qualified physician attesting to the necessity of the otherwise *Prohibited Substance *or *Prohibited Method *in the treatment of the *Athlete *and describing why an alternative, permitted medication cannot, or could not, be used in the treatment of this condition.  
+6.9 Each *TUE* will have a specified duration, as decided by the *TUEC*, at the end of which the *TUE* will expire automatically. If the *Athlete* needs to continue to *Use* the *Prohibited Substance* or *Prohibited Method* after the expiry date, he/she must submit an application for a new *TUE* well in advance of that expiry date, so that there is sufficient time for a decision to be made on the application before the expiry date. *[Comment to 6.9: The duration of validity should be guided by the WADA documents titled “Medical Information to Support the Decisions of  *TUECs*”.]*  
 
-7.9 The dose, frequency, route and duration of administration of the otherwise *Prohibited Substance *or *Prohibited Method *in question must be specified. In case of change, a new application should be submitted.  
+6.10 A *TUE* will be withdrawn prior to expiry if the *Athlete* does not promptly comply with any requirements or conditions imposed by the *Anti-Doping Organization* granting the *TUE*. Alternatively a *TUE* may be reversed upon review by *WADA* or on appeal.  
 
-7.10 In normal circumstances, decisions of the *TUEC* should be completed within thirty (30) days of receipt of all relevant documentation and will be conveyed in writing to the *Athlete *by the relevant *Anti-Doping Organization*. In case of a *TUE* application made in a reasonable time limit prior to an *Event *the *TUEC* should use its best endeavors to complete the *TUE* process before the start of the *Event*. Where a *TUE* has been granted to an *Athlete *in the *Anti-Doping Organization Registered Testing Pool*, the *Athlete *and *WADA *will be provided promptly with an approval which includes information pertaining to the duration of the exemption and any conditions associated with the *TUE*.  
+6.11 Where an *Adverse Analytical Finding* is issued shortly after a *TUE* for the *Prohibited Substance* in question has expired or has been withdrawn or reversed, the *Anti-Doping Organization* conducting the initial review of the *Adverse Analytical Finding* (*Code* Article 7.2) shall consider whether the finding is consistent with *Use* of the *Prohibited Substance* prior to the expiry, withdrawal or reversal of the *TUE*. If so, such *Use* (and any resulting presence of the *Prohibited Substance* in the *Athlete’s Sample*) is not an anti-doping rule violation. 
 
-7.11 
+6.12 In the event that, after his/her *TUE* is granted, the *Athlete* requires a materially different dosage, frequency, route or duration of *Administration* of the *Prohibited Substance* or *Prohibited Method* to that specified in the *TUE*, he/she must apply for a new *TUE*. If the presence, *Use*, *Possession* or *Administration* of the *Prohibited Substance* or *Prohibited Method* is not consistent with the terms of the *TUE* granted, the fact that the *Athlete* has the *TUE* will not prevent the finding of an anti-doping rule violation. 
 
-a. Upon receiving a request by an *Athlete *for review, the * *WADA *TUEC* will, as specified in Article 4.4 of the *Code, *be able to reverse a decision on a *TUE* denied by an *Anti-Doping Organization*. The *Athlete *shall provide to the * *WADA *TUEC* all the information for a *TUE* as submitted initially to the *Anti-Doping Organization *accompanied by an application fee. Until the review process has been completed, the original decision remains in effect. The process should not take longer than thirty (30) days following receipt of all the information by *WADA*.  
+7.0
+###*TUE* Recognition Process
 
-b.  *WADA *can, on its own initiative, undertake a review at any time.    
+7.1 *Code* Article 4.4 requires *Anti-Doping Organizations* to recognize *TUEs* granted by other *Anti-Doping Organizations* that satisfy the Article 4.1 conditions. Therefore, if an *Athlete* who becomes subject to the *TUE* requirements of an International Federation or *Major Event Organization* already has a *TUE*, he/she should not submit an application for a new *TUE* to the International Federation or *Major Event Organization*. Instead: 
 
-7.12 If the decision regarding the granting of a *TUE* is reversed by WADA upon review, the reversal shall not apply retroactively and shall not disqualify the *Athlete*'s results during the period that the *TUE* had been granted and shall take effect no later than fourteen (14) days following notification of the decision to the *Athlete*.  
+a) The International Federation or *Major Event Organization* may publish notice that it will automatically recognize *TUE* decisions made pursuant to *Code* Article 4.4 (or certain categories of such decisions, e.g., those made by specified *Anti-Doping Organizations*, or those relating to particular *Prohibited Substances*), provided that such *TUE* decisions have been reported in accordance with Article 5.4 and therefore are available for review by *WADA*. If the *Athlete’s TUE* falls into a category of *TUE*s that are automatically recognized in this way at the time the *TUE* is granted, he/she does not need to take any further action.   *[Comment to 7.1(a): To ease the burden on Athletes, automatic recognition of TUE decisions once they have been reported in accordance with Article 5.4 is strongly encouraged. If an International Federation or Major Event Organizer is not willing to grant automatic recognition of all such decisions, it should grant automatic recognition of as many such decisions as possible, e.g., by publishing a list of Anti-Doping Organizations whose TUE decisions it will recognize automatically, and/or a list of those Prohibited Substances for which it will automatically recognize TUEs. Publication should be in the same manner as is set out in Article 5.3, i.e., the notice should be posted on the International Federation’s website and sent to WADA and to National Anti-Doping Organizations.]*
 
-7.13 The *Use *of inhaled Beta-2 Agonists: 
+b)In the absence of such automatic recognition, the *Athlete* shall submit a request for recognition of the *TUE* to the International Federation or *Major Event Organization* in question, either via *ADAMS* or as otherwise specified by that International Federation or *Major Event Organization*. The request should be accompanied by a copy of the *TUE* and the original *TUE* application form and supporting materials referenced at Articles 6.1 and 6.2 (unless the *Anti-Doping Organization* that granted the *TUE* has already made the *TUE* and supporting materials available via *ADAMS* or other system approved by *WADA*, in accordance with Article 5.4).
 
-– The *Use *of inhaled formoterol, salbutamol, salmeterol, terbutaline reflects current clinical practice. The *Use *of these substances should be declared on *ADAMS *where reasonably feasible and in accordance with the *Code *as soon as the product is used and must as well be declared on the *Doping Control *form at the time of *Testing*. Failure to declare will be taken into account in the result management process in particular in case of application for a *Retroactive TUE*.  
+7.2 Incomplete requests for recognition of a *TUE* will be returned to the *Athlete* for completion and re-submission. In addition, the *TUEC* may request from the *Athlete* or his/her physician any additional information, examinations or imaging studies, or other information that it deems necessary in order to consider the *Athlete’s* request for recognition of the *TUE*; and/or it may seek the assistance of such other medical or scientific experts as it deems appropriate.  
 
-–  *Athlete*s using the substances listed above by inhalation must have a medical file justifying this *Use *and meeting the minimum requirements outlined in Annex 1.      *Depending upon the category of the Athlete, the medical file will be evaluated as follows:*  
+7.3 Any costs incurred by the *Athlete* in making the request for recognition of the *TUE* and in supplementing it as required by the *TUEC* are the responsibility of the *Athlete*.  
 
-– For all *Athlete*s included in an International Federation *Registered Testing Pool *a regular *TUE* approved before the *Use *of the substance.  
+7.4 The *TUEC* shall decide whether or not to recognize the *TUE* as soon as possible, and usually (i.e., unless exceptional circumstances apply) within no more than 21 days of receipt of a complete request for recognition. Where the request is made a reasonable time prior to an *Event*, the *TUEC* must use its best endeavors to issue its decision before the start of the *Event*. 
 
-– For *Athlete*s participating in an *International Event *but who are not included in an International Federation *Registered Testing Pool *either a *TUE*, or a *Retroactive TUE* in the case of an *Adverse Analytical Finding*, in accordance with the rule of the International Federation or of the *Major Event Organization*.  
+7.5 The *TUEC*’s decision will be notified in writing to the *Athlete* and will be made available to *WADA* and to other *Anti-Doping Organizations* via *ADAMS* or any other system approved by *WADA*. A decision not to recognize a *TUE* must include an explanation of the reason(s) for the non-recognition. 
 
-– For national-level *Athlete*s who are not included in an International Federation *Registered Testing Pool*, whether or not they are part of a national *Registered Testing Pool*, either a *TUE*, or a *Retroactive TUE* in the case of an *Adverse Analytical Finding*, in accordance with the rules of the *National Anti-Doping Organization*.  
+8.0
+###Review of *TUE* Decisions by *WADA*
 
-– No *Retroactive TUE* will be granted if the requirements of Annex 1 are not met meaning that any *Adverse Analytical Finding *reported by laboratory in these circumstances will result in an anti-doping rule violation.  
+8.1* Code* Article 4.4.6 provides that *WADA*, in certain cases, must review *TUE* decisions of International Federations, and that it may review any other *TUE* decisions, in each case to determine compliance with the Article 4.1 conditions. *WADA* shall establish a * *WADA* TUEC* that meets the requirements of Article 5.2 to carry out such reviews.
 
-– Any *Athlete *may apply for a *TUE* at any time if they wish.  
+8.2 Each request for review must be submitted to *WADA* in writing, and must be accompanied by payment of the application fee established by *WADA*, as well as copies of all of the information specified in Article 6.2 (or, in the case of review of a *TUE* denial, all of the information that the *Athlete* submitted in connection with the original *TUE* application). The request must be copied to the party whose decision would be the subject of the review, and to the *Athlete* (if he/she is not requesting the review).  
 
-– Any A*thlete *who has applied for a *TUE* or a *Retroactive TUE* and who was denied such *TUE* may not use the substance without the prior granting of a *TUE* (no *Retroactive TUE* will be permitted).   
+8.3 Where the request is for review of a *TUE* decision that *WADA* is not obliged to review, *WADA* shall advise the *Athlete* as soon as practicable following receipt of the request whether or not it will refer the *TUE* decision to the **WADA* TUEC* for review. If *WADA* decides not to refer the *TUE* decision, it will return the application fee to the *Athlete*. Any decision by *WADA* not to refer the *TUE *decision to the **WADA* TUEC* is final and may not be appealed. However, the *TUE* decision may still be appealable, as set out in *Code *Article 4.4.7. 
 
-### 8.0  
+8.4 Where the request is for review of a *TUE* decision of an International Federation that *WADA* is obliged to review, *WADA* may nevertheless refer the decision back to the International Federation (a) for clarification (for example, if the reasons are not clearly set out in the decision); and/or (b) for re-consideration by the International Federation (for example, if the *TUE* was only denied because medical tests or other information required to demonstrate satisfaction of the Article 4.1 conditions were missing).  
 
-####Declaration of Use Process
+8.5 Where a request for review is referred to the **WADA* TUEC*, the **WADA* TUEC* may seek additional information from the *Anti-Doping Organization* and/or the *Athlete*, including further studies as described in Article 6.5, and/or it may obtain the assistance of other medical or scientific experts as it deems appropriate. 
 
-8.1 It is acknowledged that some substances included on the List of *Prohibited Substances *are used to treat medical conditions frequently encountered in the athlete population. For monitoring purposes, these substances, for which the route of administration is not prohibited, will require a simple declaration of use. These are strictly limited to: Glucocorticosteroids used by non systemic routes, namely intraarticular, periarticular, peritendinous, epidural, intradermal injections and inhaled route.  
+8.6 The **WADA* TUEC* shall reverse any grant of a *TUE* that does not comply with the Article 4.1 conditions. Where the *TUE* reversed was a prospective *TUE* (rather than a retroactive *TUE*), such reversal shall take effect upon the date specified by *WADA* (which shall not be earlier than the date of *WADA’s* notification to the *Athlete*). The reversal shall not apply retroactively and the *Athlete’s* results prior to such notification shall not be *Disqualified*. Where the *TUE* reversed was a retroactive *TUE*, however, the reversal shall also be retroactive.  
 
-8.2 For the mentioned substances, the declaration of *Use *should be done through *ADAMS *where reasonably feasible and in accordance with the *Code *by the *Athlete *at the same time as the *Use *starts. This declaration should mention the diagnosis, the name of the substance, the dose undertaken, the name and the contact details of the physician. In addition, the *Athlete *must declare the *Use *of the substance in question on the *Doping Control *form.   
+8.7 The **WADA* TUEC* shall reverse any denial of a *TUE* where the *TUE* application met the Article 4.1 conditions, i.e., it shall grant the *TUE*.  
 
-### 9.0  
+8.8 Where the **WADA* TUEC* reviews a decision of an International Federation that has been referred to it pursuant to *Code* Article 4.4.3 (i.e., a mandatory review), it may require whichever *Anti-Doping Organization* “loses” the review (i.e., the *Anti-Doping Organization* whose view it does not uphold) (a) to reimburse the application fee to the party that referred the decision to *WADA* (if applicable); and/or (b) to pay the costs incurred by *WADA* in respect of that review, to the extent they are not covered by the application fee. 
 
-####Clearinghouse
+8.9 Where the **WADA* TUEC* reverses a *TUE* decision that *WADA* has decided in its discretion to review, *WADA* may require the *Anti-Doping Organization* that made the decision to pay the costs incurred by *WADA* in respect of that review. 
 
-9.1  *Anti-Doping Organisation*s are required to provide *WADA *with all *TUE*s approved for *Athlete*s who are part of a national or international *Registered Testing Pool*, and all supporting documentation, in accordance with section 7.  
+8.10 *WADA* shall communicate the reasoned decision of the **WADA* TUEC* promptly to the *Athlete* and to his/her *National Anti-Doping Organization* and International Federation (and, if applicable, the *Major Event Organization*). 
 
-9.2 The declarations of use should be available to *WADA *(*ADAMS*).  
+9.0
+###Confidentiality of Information
 
-9.3 The clearinghouse shall guarantee strict confidentiality of all the medical information.   
+9.1 The collection, storage, processing, disclosure and retention of *Personal Information* during the *TUE* process by *Anti-Doping Organizations* and *WADA* shall comply with the International Standard for the Protection of Privacy and Personal Information.  
 
-### 10.0  
+9.2 An *Athlete* applying for the grant of a *TUE* or for recognition of a *TUE* shall provide written consent: 
 
-####Transitional provision
+a) for the transmission of all information pertaining to the application to members of all *TUECs* with authority under this *International Standard* to review the file and, as required, other independent medical or scientific experts, and to all necessary staff (including *WADA* staff) involved in the management, review or appeal of *TUE* applications;  
 
-Abbreviated Therapeutic Use Exemptions (ATUEs) delivered prior to December 31, 2008 shall remain governed by the 2005 TUE Standard. These ATUEs shall remain valid after January 1, 2009 until the earliest of: 
+b) for the *Athlete’s* physician(s) to release to the *TUEC* upon request any health information that the *TUEC* deems necessary in order to consider and determine the *Athlete’s* application; and  
 
-(i) The date on which they are cancelled by the competent TUEC following review in accordance with art. 8.6 of the 2005 TUE Standard;  
+c) for the decision on the application to be made available to all *Anti-Doping Organizations* with *Testing* authority and/or results management authority over the *Athlete*.   *[Comment to 9.2: Prior to collecting *Personal Information* or obtaining consent from an Athlete, the Anti-Doping Organization shall communicate to the Athlete the information set out in Article 7.1 of the International Standard for the Protection of Privacy and Personal Information.]*
 
-(ii) Their expiry date as mentioned on the ATUE;  
+9.3 The *TUE* application shall be dealt with in accordance with the principles of strict medical confidentiality. The members of the *TUEC*, independent experts and the relevant staff of the *Anti-Doping Organization* shall conduct all of their activities relating to the process in strict confidence and shall sign appropriate confidentiality agreements. In particular they shall keep the following information confidential: 
 
-(iii) December 31, 2009.   
+a) All medical information and data provided by the *Athlete* and physician(s) involved in the *Athlete’s* care.  
+
+b) All details of the application, including the name of the physician(s) involved in the process.    
+
+9.4 Should the *Athlete* wish to revoke the right of the *TUEC* to obtain any health information on his/her behalf, the *Athlete* shall notify his/her medical practitioner in writing of such revocation; provided that, as a result of that revocation, the *Athlete’s* application for a *TUE* or for recognition of an existing *TUE* will be deemed withdrawn without approval/recognition having been granted.  
+
+9.5 *Anti-Doping Organizations* shall only use information submitted by an *Athlete* in connection with a *TUE* application to evaluate the application and in the context of potential anti-doping rule violation investigations and proceedings. 
 
 ####Internationaal Verdrag tegen doping in de sport
 
-*Preambule*  De Algemene Conferentie van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, hierna aangeduid als UNESCO, bijeengekomen te Parijs van 3 tot en met 21 oktober 2005 tijdens haar 33e zitting,  Overwegend dat het doel van UNESCO is een bijdrage te leveren aan vrede en veiligheid door samenwerking tussen de naties te bevorderen door middel van onderwijs, wetenschap en cultuur, Verwijzend naar bestaande internationale instrumenten inzake mensenrechten, Zich bewust van resolutie 58/5 aangenomen door de Algemene Vergadering van de Verenigde Naties op 3 november 2003, betreffende sport als middel om onderwijs, gezondheid, ontwikkeling en vrede te bevorderen, en met name paragraaf 7 daarvan, Zich er tevens van bewust dat sport een belangrijke rol dient te spelen bij de bescherming van de gezondheid, bij morele en culturele vorming en lichamelijke opvoeding en bij het bevorderen van wederzijds begrip en vrede in de wereld, Gelet op de noodzaak internationale samenwerking gericht op het uitbannen van doping in de sport te bevorderen en te coördineren, Bezorgd over het gebruik door sporters van dopingmiddelen in de sport en de gevolgen daarvan voor hun gezondheid, het beginsel van fair play, het uitbannen van bedrog en de toekomst van de sport, Indachtig het feit dat doping een bedreiging vormt voor de ethische beginselen en educatieve waarden vervat in het Internationale Handvest voor Lichamelijke Opvoeding en Sport van UNESCO en in het Olympisch Handvest, In herinnering roepend dat de Overeenkomst ter bestrijding van doping en het Aanvullend Protocol daarbij aangenomen in het kader van de Raad van Europa instrumenten van internationaal publiekrecht zijn, die ten grondslag liggen aan nationaal antidopingbeleid en aan intergouvernementele samenwerking, Herinnerend aan de Aanbevelingen inzake doping aangenomen tijdens de tweede, derde en vierde Internationale Conferentie van ministers en hoge ambtenaren verantwoordelijk voor lichamelijke opvoeding en sport, door UNESCO georganiseerd te Moskou (1988), Punta del Este (1999) en Athene (2004) en aan 32 C/Resolutie 9 aangenomen door de Algemene Conferentie van UNESCO tijdens haar 32e zitting (2003), Indachtig de Wereldantidopingcode aangenomen door het Mondiaal Antidopingagentschap tijdens de Wereldconferentie inzake doping in de sport, Kopenhagen, 5 maart 2003 en de Verklaring van Kopenhagen tegen het gebruik van doping in de sport, Tevens indachtig de invloed die topsporters hebben op de jeugd, Zich bewust van de permanente behoefte onderzoek uit te voeren en te bevorderen met als doel het verbeteren van de detectie van doping en een beter begrip van de factoren die van invloed zijn op het gebruik ervan teneinde tot zo doeltreffend mogelijke preventiestrategieën te komen,  Zich tevens bewust van het belang van voortdurende educatie van sporters, hun begeleiders en de maatschappij in het algemeen op het gebied van het voorkomen van doping, Indachtig de noodzaak de capaciteit van Staten die Partij zijn om antidopingprogramma’s te implementeren op te bouwen, Zich ervan bewust dat overheidsinstanties en sportorganisaties elkaar aanvullende verantwoordelijkheden hebben bij het voorkomen en bestrijden van doping in de sport, in het bijzonder het goede verloop, op basis van het beginsel van fair play, van sportevenementen, en bij het beschermen van de gezondheid van de deelnemers daaraan, Erkennend dat deze autoriteiten en organisaties daartoe dienen samen te werken en daarbij de hoogste mate van onafhankelijkheid en transparantie op alle van toepassing zijnde niveaus dienen te waarborgen, Vastbesloten nadere maatregelen te nemen, in hechtere samenwerking, gericht op de uitbanning van doping in de sport, Erkennend dat de uitbanning van doping in de sport ten dele afhankelijk is van de verdere harmonisatie van normen en praktijken op het gebied van de bestrijding van doping in de sport en samenwerking op nationaal en mondiaal niveau, Neemt dit Verdrag aan op 19 oktober 2005.     
+*Preambule*  De Algemene Conferentie van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, hierna aangeduid als UNESCO, bijeengekomen te Parijs van 3 tot en met 21 oktober 2005 tijdens haar 33e zitting,  Overwegend dat het doel van UNESCO is een bijdrage te leveren aan vrede en veiligheid door samenwerking tussen naties te bevorderen door middel van onderwijs, wetenschap en cultuur, Verwijzend naar bestaande internationale instrumenten inzake mensenrechten, Zich bewust van resolutie 58/5 aangenomen door de Algemene Vergadering van de Verenigde Naties op 3 november 2003, betreffende sport als middel om onderwijs, gezondheid, ontwikkeling en vrede te bevorderen, en met name paragraaf 7 daarvan, Zich er tevens van bewust dat sport een belangrijke rol dient te spelen bij de bescherming van de gezondheid, bij morele en culturele vorming en lichamelijke opvoeding en bij het bevorderen van wederzijds begrip en vrede in de wereld, Gelet op de noodzaak internationale samenwerking gericht op het uitbannen van doping in de sport te bevorderen en te coördineren, Bezorgd over het gebruik door sporters van dopingmiddelen in de sport en de gevolgen daarvan voor hun gezondheid, het beginsel van fair play, het uitbannen van bedrog en de toekomst van de sport, Indachtig het feit dat doping een bedreiging vormt voor de ethische beginselen en educatieve waarden vervat in het Internationale Handvest voor Lichamelijke Opvoeding en Sport van UNESCO en in het Olympisch Handvest, In herinnering roepend dat de Overeenkomst ter bestrijding van doping en het Aanvullend Protocol daarbij aangenomen in het kader van de Raad van Europa instrumenten van internationaal publiekrecht zijn, die ten grondslag liggen aan nationaal antidopingbeleid en aan intergouvernementele samenwerking, Herinnerend aan de Aanbevelingen inzake doping aangenomen tijdens de tweede, derde en vierde Internationale Conferentie van ministers en hoge ambtenaren verantwoordelijk voor lichamelijke opvoeding en sport, door UNESCO georganiseerd te Moskou (1988), Punta del Este (1999) en Athene (2004) en aan 32 C/Resolutie 9 aangenomen door de Algemene Conferentie van UNESCO tijdens haar 32e zitting (2003), Indachtig de Wereldantidopingcode aangenomen door het Mondiaal Antidopingagentschap tijdens de Wereldconferentie inzake doping in de sport, Kopenhagen, 5 maart 2003 en de Verklaring van Kopenhagen tegen het gebruik van doping in de sport, Tevens indachtig de invloed die topsporters hebben op de jeugd, Zich bewust van de permanente behoefte onderzoek uit te voeren en te bevorderen met als doel het verbeteren van de detectie van doping en een beter begrip van de factoren die van invloed zijn op het gebruik ervan teneinde tot zo doeltreffend mogelijke preventiestrategieën te komen,  Zich tevens bewust van het belang van voortdurende educatie van sporters, hun begeleiders en de maatschappij in het algemeen op het gebied van het voorkomen van doping, Indachtig de noodzaak de capaciteit van Staten die Partij zijn om antidopingprogramma’s te implementeren op te bouwen, Zich ervan bewust dat overheidsinstanties en sportorganisaties elkaar aanvullende verantwoordelijkheden hebben bij het voorkomen en bestrijden van doping in de sport, in het bijzonder het goede verloop, op basis van het beginsel van fair play, van sportevenementen, en bij het beschermen van de gezondheid van de deelnemers daaraan, Erkennend dat deze autoriteiten en organisaties daartoe dienen samen te werken en daarbij de hoogste mate van onafhankelijkheid en transparantie op alle van toepassing zijnde niveaus dienen te waarborgen, Vastbesloten nadere maatregelen te nemen, in hechtere samenwerking, gericht op de uitbanning van doping in de sport, Erkennend dat de uitbanning van doping in de sport ten dele afhankelijk is van de verdere harmonisatie van normen en praktijken op het gebied van de bestrijding van doping in de sport en samenwerking op nationaal en mondiaal niveau, Neemt dit Verdrag aan op 19 oktober 2005.     
 ### DEEL  I  
 
 ####REIKWIJDTE
@@ -891,7 +903,7 @@ d) schending van de toepasselijke vereisten inzake de beschikbaarheid van sporte
 
 e) manipuleren, of poging tot het manipuleren, van een onderdeel van een dopingcontrole;  
 
-f) bezit van verboden stoffen en methoden;  
+f) bezit van verboden stoffen of methoden;  
 
 g) handel in een verboden stof of een verboden methode;  
 
@@ -923,15 +935,15 @@ h) toediening of poging tot toediening van een verboden stof of verboden methode
 
 16.Dopingcontrole „buiten wedstrijdverband’’ elke dopingcontrole die niet binnen wedstrijdverband plaatsvindt.
 
-17.„Lijst van verboden stoffen en methoden’’ de lijst vervat in Bijlage 1 bij dit Verdrag waarin de verboden stoffen en verboden methoden vermeld staan. 
+17.„Lijst van verboden stoffen en methoden’’ de lijst vervat in Bijlage I bij dit Verdrag waarin de verboden stoffen en verboden methoden vermeld staan. 
 
-18.„Verboden methode’’ elke methode die als zodanig omschreven staat in de Lijst van verboden stoffen en methoden vervat in Bijlage 1 bij dit Verdrag.
+18.„Verboden methode’’ elke methode die als zodanig omschreven staat in de Lijst van verboden stoffen en methoden vervat in Bijlage I bij dit Verdrag.
 
-19.„Verboden stof’’ elke stof die als zodanig omschreven staat in de Lijst van verboden stoffen en methoden vervat in Bijlage 1 bij dit Verdrag.
+19.„Verboden stof’’ elke stof die als zodanig omschreven staat in de Lijst van verboden stoffen en methoden vervat in Bijlage I bij dit Verdrag.
 
 20.„Sportorganisatie’’ elke organisatie die de eindverantwoordelijkheid draagt voor een evenement met een of meer sporten. 
 
-21.„Normen voor het verlenen van dispensatie voor therapeutisch gebruik’’ de normen vervat in Bijlage 2 bij dit Verdrag.
+21.„Normen voor het verlenen van dispensatie voor therapeutisch gebruik’’ de normen vervat in Bijlage II bij dit Verdrag.
 
 22.„Controle’’ de onderdelen van het dopingcontroleproces inhoudende het plannen van de controles, het verzamelen en hanteren van monsters en het verzenden van monsters naar het laboratorium. 
 
@@ -947,11 +959,11 @@ h) toediening of poging tot toediening van een verboden stof of verboden methode
 
 Ter verwezenlijking van het doel van het Verdrag verplichten de Staten die Partij zijn zich tot het: 
 
-1.invoeren van passende maatregelen op nationaal en internationaal niveau die verenigbaar zijn met de beginselen van de Code; 
+a.invoeren van passende maatregelen op nationaal en internationaal niveau die verenigbaar zijn met de beginselen van de Code; 
 
-2.aanmoedigen van alle vormen van internationale samenwerking gericht op het beschermen van de sporters, de ethiek in de sport en het delen van onderzoeksresultaten;
+b.aanmoedigen van alle vormen van internationale samenwerking gericht op het beschermen van de sporters en de ethiek in de sport en op het delen van onderzoeksresultaten;
 
-3.bevorderen van internationale samenwerking tussen de Staten die Partij zijn en organisaties die een leidende rol hebben bij de bestrijding van doping in de sport, met name WADA. 
+c.bevorderen van internationale samenwerking tussen de Staten die Partij zijn en organisaties die een leidende rol hebben bij de bestrijding van doping in de sport, met name Mondiaal Antidopingagentschap. 
 
 ### Artikel  4  
 
@@ -1082,7 +1094,7 @@ b. bijdragen, giften of legaten die afkomstig kunnen zijn van:
 
 i. andere staten;  
 
-ii. organisaties en programma’s van het systeem van de Verenigde Naties, met name het Ontwikkelingsprogramma van de Verenigde Naties, alsmede andere internationale organisaties; of  
+ii. organisaties en programma’s van het systeem van de Verenigde Naties, met name het Ontwikkelingsprogramma van de Verenigde Naties, alsmede andere internationale organisaties;  
 
 iii. publieke of private instanties of individuen;   
 
@@ -1166,7 +1178,7 @@ c. het gebruik van alle nieuwe stoffen en methoden die uit wetenschappelijke ont
 
 ####De aard van onderzoek ten behoeve van dopingbestrijding
 
-Bij het bevorderen van onderzoek ten behoeve van dopingbestrijding, als vervat in het bovenstaande artikel 24, waarborgen de Staten die Partij zijn dat dergelijk onderzoek: 
+Bij het bevorderen van onderzoek ten behoeve van dopingbestrijding, als vervat in artikel 24, waarborgen de Staten die Partij zijn dat dergelijk onderzoek: 
 
 a. voldoet aan internationaal erkende ethische praktijken;   
 
@@ -1200,7 +1212,7 @@ b. sportorganisaties en begeleiders van sporters onder hun rechtsmacht aan sport
 
 1.  Hierbij wordt een Conferentie van Partijen ingesteld. De Conferentie van Partijen is het hoogste orgaan van dit Verdrag.   
 2.  De Conferentie van Partijen komt in beginsel eenmaal per twee jaar in gewone zitting bijeen. Zij kan in buitengewone zitting bijeenkomen indien zij daartoe beslist of op verzoek van ten minste een derde van de Staten die Partij zijn.   
-3.  De Staten die Partij zijn, hebben elk een stem bij de Conferentie van Partijen,    
+3.  Elke Staat die Partij is, heeft een stem bij de Conferentie van Partijen,    
 4.  De Conferentie stelt haar eigen reglement van orde vast.  
 
 ### Artikel  29  
@@ -1251,7 +1263,7 @@ De Staten die Partij zijn, zenden de Conferentie van Partijen elke twee jaar via
 
 ### Artikel  33  
 
-####Wijzigingen van het Verdrag
+####Wijzigingen
 
 1.  Elke Staat die Partij is, kan door middel van een schriftelijke mededeling gericht aan de Directeur-Generaal van UNESCO voorstellen doen tot wijziging van dit Verdrag. De Directeur-Generaal verzendt deze mededeling aan alle Staten die Partij zijn. Indien, binnen zes maanden na de datum van verzending van de mededeling, ten minste de helft van de Staten die Partij zijn ermee instemmen, legt de Directeur-Generaal dergelijke voorstellen voor aan de volgende zitting van de Conferentie van Partijen.    
 2.  Wijzigingen worden aangenomen door de Conferentie van Partijen met een tweederde meerderheid van de Staten die Partij zijn die aanwezig zijn en hun stem uitbrengen.   
@@ -1296,8 +1308,8 @@ Dit Verdrag dient te worden bekrachtigd, aanvaard, goedgekeurd of hiertoe dient 
 
 ####Inwerkingtreding
 
-1.  Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een maand na de nederlegging van de dertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.    
-2.  Ten aanzien van elke Staat die later zijn instemming door dit Verdrag te worden gebonden tot uitdrukking brengt, treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum van nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.  
+1.  Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een maand na de datum van nederlegging van de dertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.    
+2.  Ten aanzien van elke Staat die later zijn instemming door het Verdrag te worden gebonden tot uitdrukking brengt, treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum van nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.  
 
 ### Artikel  38  
 
@@ -1321,15 +1333,15 @@ De Directeur-Generaal van UNESCO is de Depositaris van dit Verdrag en de wijzigi
 
 a. de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;  
 
-b. de datum van inwerkingtreding van dit Verdrag overeenkomstig het bovenstaande artikel 37;  
+b. de datum van inwerkingtreding van dit Verdrag overeenkomstig artikel 37;  
 
-c. elk verslag opgesteld uit hoofde van de bepalingen van het bovenstaande artikel 31;  
+c. elk verslag opgesteld uit hoofde van de bepalingen van artikel 31;  
 
 d. elke wijziging van het Verdrag of van de Bijlagen aangenomen in overeenstemming met de bovenstaande artikelen 33 en 34 en de datum waarop de wijziging van kracht wordt;  
 
-e. elke uit hoofde van de bepalingen van het bovenstaande artikel 38 gedane verklaring of kennisgeving;  
+e. elke uit hoofde van de bepalingen van artikel 38 gedane verklaring of kennisgeving;  
 
-f. elke uit hoofde van de bepalingen van het bovenstaande artikel 39 gedane kennisgeving en de datum waarop de opzegging van kracht wordt;  
+f. elke uit hoofde van de bepalingen van artikel 39 gedane kennisgeving en de datum waarop de opzegging van kracht wordt;  
 
 g. elke andere akte, kennisgeving of mededeling met betrekking tot dit Verdrag.   
 
@@ -1358,7 +1370,7 @@ GEDAAN te Parijs, op 19 oktober 2005, in twee oorspronkelijke exemplaren voorzie
 
 ####De Lijst van verboden stoffen en methoden - Internationale norm
 
-De Lijst van verboden stoffen en methoden - 2005 is gepubliceerd in Trb. 2005, 67. De Lijst van verboden stoffen en methoden -2006 is gepubliceerd in Trb. 2006, 33.
+De tekst van de vertaling is niet beschikbaar.
 
 ### Bijlage  II 
 

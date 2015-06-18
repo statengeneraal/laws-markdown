@@ -15,31 +15,31 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Voor een inschrijving in het boedelregister, bedoeld in [artikel 186 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md), moeten de volgende stukken aan de griffier worden overgelegd, dan wel, in de gevallen bedoeld onder b, d, f, g, h en k, aan de griffier ter beschikking staan: 
+Voor een inschrijving in het boedelregister, bedoeld in artikel 186 van Boek 4 van het Burgerlijk Wetboek, moeten de volgende stukken aan de griffier worden overgelegd, dan wel, in de gevallen bedoeld onder b, d, f, g, h en k, aan de griffier ter beschikking staan: 
 
-a. ter inschrijving van de verklaring, bedoeld in [artikel 18 lid 1 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md): een authentiek afschrift of uittreksel van de desbetreffende notariële akte alsmede, indien de verklaring in naam van de echtgenoot is afgelegd, een afschrift van de in genoemde bepaling bedoelde uitdrukkelijke voor dit doel afgegeven schriftelijke volmacht;  
+a. ter inschrijving van de verklaring, bedoeld in artikel 18 lid 1 van Boek 4 van het Burgerlijk Wetboek: een authentiek afschrift of uittreksel van de desbetreffende notariële akte alsmede, indien de verklaring in naam van de echtgenoot is afgelegd, een afschrift van de in genoemde bepaling bedoelde uitdrukkelijke voor dit doel afgegeven schriftelijke volmacht;  
 
-b. ter inschrijving van de verlenging van de termijn, bedoeld in [artikel 185 lid 3 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md): een authentiek afschrift van de beschikking;  
+b. ter inschrijving van de verlenging van de termijn, bedoeld in artikel 185 lid 3 van Boek 4 van het Burgerlijk Wetboek: een authentiek afschrift van de beschikking;  
 
-c. ter inschrijving van een notaris die betrokken is bij de afwikkeling van een nalatenschap, als bedoeld in [artikel 186 lid 2 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md): de schriftelijke mededeling terzake van de desbetreffende notaris;  
+c. ter inschrijving van een notaris die betrokken is bij de afwikkeling van een nalatenschap, als bedoeld in artikel 186 lid 2 van Boek 4 van het Burgerlijk Wetboek: de schriftelijke mededeling terzake van de desbetreffende notaris;  
 
-d. ter inschrijving van de verklaring houdende zuivere aanvaarding of aanvaarding onder het voorrecht van boedelbeschrijving dan wel verwerping van een nalatenschap, als bedoeld in [artikel 191 lid 1 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md): de in artikel 3 lid 1 eerste volzin bedoelde akte, alsmede de volmacht, indien deze akte bij volmacht wordt ondertekend;  
+d. ter inschrijving van de verklaring houdende zuivere aanvaarding of aanvaarding onder het voorrecht van boedelbeschrijving dan wel verwerping van een nalatenschap, als bedoeld in artikel 191 lid 1 van Boek 4 van het Burgerlijk Wetboek: de in artikel 3 lid 1 eerste volzin bedoelde akte, alsmede de volmacht, indien deze akte bij volmacht wordt ondertekend;  
 
-e. ter inschrijving van de beschikking, onder vermelding van de daarvan gedane betekening, bedoeld in [artikel 192 lid 2 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md): een authentiek afschrift van de beschikking, alsmede het exploot van betekening;  
+e. ter inschrijving van de beschikking, onder vermelding van de daarvan gedane betekening, bedoeld in artikel 192 lid 2 van Boek 4 van het Burgerlijk Wetboek: een authentiek afschrift van de beschikking, alsmede het exploot van betekening;  
 
-f. ter inschrijving van de verlenging van de termijnen, bedoeld in de [artikelen 192 lid 2](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) en [193 lid 1 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md): een authentiek afschrift van de beschikking;  
+f. ter inschrijving van de verlenging van de termijnen, bedoeld in de artikelen 192 lid 2 en 193 lid 1 van Boek 4 van het Burgerlijk Wetboek: een authentiek afschrift van de beschikking;  
 
-g. ter inschrijving van de verklaring van beneficiaire aanvaarding of van verwerping door een wettelijke vertegenwoordiger van een erfgenaam, als bedoeld in [artikel 193 lid 1 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md): de in artikel 3 lid 1 tweede volzin bedoelde akte alsmede de volmacht, indien deze akte bij volmacht wordt ondertekend, en voorts, in het geval van verwerping, een authentiek afschrift van de beschikking houdende machtiging van de kantonrechter;  
+g. ter inschrijving van de verklaring van beneficiaire aanvaarding of van verwerping door een wettelijke vertegenwoordiger van een erfgenaam, als bedoeld in artikel 193 lid 1 van Boek 4 van het Burgerlijk Wetboek: de in artikel 3 lid 1 tweede volzin bedoelde akte alsmede de volmacht, indien deze akte bij volmacht wordt ondertekend, en voorts, in het geval van verwerping, een authentiek afschrift van de beschikking houdende machtiging van de kantonrechter;  
 
-h. ter inschrijving van het verlopen zijn van de termijn waardoor de nalatenschap als door de erfgenaam beneficiair aanvaard geldt, als bedoeld in [artikel 193 lid 2 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md): een authentiek afschrift van de beschikking;  
+h. ter inschrijving van het verlopen zijn van de termijn waardoor de nalatenschap als door de erfgenaam beneficiair aanvaard geldt, als bedoeld in artikel 193 lid 2 van Boek 4 van het Burgerlijk Wetboek: een authentiek afschrift van de beschikking;  
 
-i. ter inschrijving van een notaris als boedelnotaris voor een beneficiair aanvaarde nalatenschap, als bedoeld in [artikel 197 lid 1 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md): de schriftelijke mededeling terzake van de desbetreffende notaris;  
+i. ter inschrijving van een notaris als boedelnotaris voor een beneficiair aanvaarde nalatenschap, als bedoeld in artikel 197 lid 1 van Boek 4 van het Burgerlijk Wetboek: de schriftelijke mededeling terzake van de desbetreffende notaris;  
 
-j. ter inschrijving van de vervanging van de boedelnotaris, als bedoeld in [artikel 197 lid 2 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md): een authentiek afschrift van de beschikking;  
+j. ter inschrijving van de vervanging van de boedelnotaris, als bedoeld in artikel 197 lid 2 van Boek 4 van het Burgerlijk Wetboek: een authentiek afschrift van de beschikking;  
 
-k. ter inschrijving van de benoeming van een vereffenaar of van het eindigen van diens hoedanigheid, als bedoeld in [artikel 206 lid 6 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md), dan wel van de opheffing van de vereffening, als bedoeld in [artikel 209 lid 4 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md): een authentiek afschrift van de beschikking;  
+k. ter inschrijving van de benoeming van een vereffenaar of van het eindigen van diens hoedanigheid, als bedoeld in artikel 206 lid 6 van Boek 4 van het Burgerlijk Wetboek, dan wel van de opheffing van de vereffening, als bedoeld in artikel 209 lid 4 van Boek 4 van het Burgerlijk Wetboek: een authentiek afschrift van de beschikking;  
 
-l. ter inschrijving van de door een vereffenaar aangewezen boedelnotaris, als bedoeld in [artikel 211 lid 5 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md): de schriftelijke mededeling terzake van de desbetreffende notaris.   
+l. ter inschrijving van de door een vereffenaar aangewezen boedelnotaris, als bedoeld in artikel 211 lid 5 van Boek 4 van het Burgerlijk Wetboek: de schriftelijke mededeling terzake van de desbetreffende notaris.   
 
 ### Artikel  2  
 
@@ -65,11 +65,11 @@ De in artikel 1 genoemde stukken die voor een inschrijving in het boedelregister
 
 ### Artikel  7  
 
-De griffier is verplicht aan eenieder kosteloos inzage in het boedelregister te verstrekken. Het verzoek daartoe dient op een bepaalde nalatenschap betrekking te hebben. De griffier is, met inachtneming van de vorige volzin, voorts verplicht om met betrekking tot een of meer der in het boedelregister ingeschreven en door de verzoeker aangegeven feiten, een uittreksel uit het boedelregister te verstrekken, zulks met inachtneming van het bij of krachtens de [Wet griffierechten burgerlijke zaken](../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) bepaalde. 
+De griffier is verplicht aan eenieder kosteloos inzage in het boedelregister te verstrekken. Het verzoek daartoe dient op een bepaalde nalatenschap betrekking te hebben. De griffier is, met inachtneming van de vorige volzin, voorts verplicht om met betrekking tot een of meer der in het boedelregister ingeschreven en door de verzoeker aangegeven feiten, een uittreksel uit het boedelregister te verstrekken, zulks met inachtneming van het bij of krachtens de Wet griffierechten burgerlijke zaken bepaalde. 
 
 ### Artikel  8  
 
-Indien aan de griffier een verzoek als in artikel 7 bedoeld wordt gedaan en de nalatenschap voor het tijdstip van inwerkingtreding van dit besluit is opengevallen, gaat de griffier ambtshalve na of terzake van die nalatenschap feiten zijn ingeschreven in het daartoe bestemde register, bedoeld in [artikel 1070 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) zoals dat voor genoemd tijdstip gold. 
+Indien aan de griffier een verzoek als in artikel 7 bedoeld wordt gedaan en de nalatenschap voor het tijdstip van inwerkingtreding van dit besluit is opengevallen, gaat de griffier ambtshalve na of terzake van die nalatenschap feiten zijn ingeschreven in het daartoe bestemde register, bedoeld in artikel 1070 van Boek 4 van het Burgerlijk Wetboek zoals dat voor genoemd tijdstip gold. 
 
 ### Artikel  9  
 

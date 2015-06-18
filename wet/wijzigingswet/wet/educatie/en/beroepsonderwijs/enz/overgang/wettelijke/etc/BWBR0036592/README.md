@@ -13,15 +13,13 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ####Wijziging Wet educatie en beroepsonderwijs
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Wijzigt de Wet educatie en beroepsonderwijs. 
 
 ### Artikel  II  
 
 ####Wijziging Wet op het onderwijstoezicht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 Wijzigt de Wet op het onderwijstoezicht. 
 
@@ -29,7 +27,7 @@ Wijzigt de Wet op het onderwijstoezicht.
 
 ####Wijziging Wet op het voortgezet onderwijs
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 Wijzigt de Wet op het voortgezet onderwijs. 
 
@@ -44,8 +42,6 @@ Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke
 ### Artikel  V  
 
 ####Invoeringsbepaling Wet overgang van de wettelijke taken van de kenniscentra beroepsonderwijs bedrijfsleven naar een Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Onverminderd het derde, vierde en vijfde lid kan Onze Minister de eerste keer uitsluitend een rechtspersoon als bedoeld in artikel 1.5.1, eerste lid, van de Wet educatie en beroepsonderwijs aanwijzen, indien de rechtspersoon een door Onze Minister goedgekeurde overeenkomst heeft gesloten met alle kenniscentra beroepsonderwijs bedrijfsleven waarin een regeling is opgenomen voor 
 
@@ -66,8 +62,6 @@ d. de overige activa en de passiva van de kenniscentra, voor zover deze zijn toe
 
 ####Einde taken en bekostiging kenniscentra beroepsonderwijs bedrijfsleven
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De wettelijke taken en de aanspraak op bekostiging van de kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in artikel 1.5.1 van de Wet educatie en beroepsonderwijs zoals luidend op 31 juli 2015, vervallen met ingang van de datum waarop artikel I, met uitzondering van onderdeel B, en de artikelen II, III en IV van deze wet in werking treden.   
 2.  Indien op de dag waarop artikel I, met uitzondering van onderdeel B, en de artikelen II, III en IV in werking treden nog geen rechtspersoon als bedoeld in artikel I, onderdeel B, is aangewezen, blijven tot een bij koninklijk besluit te bepalen datum 
 
@@ -80,7 +74,7 @@ b. de artikelen 2.1.4, 2.1.5, 2.1.6, 2.4.1, 2.4.2, 2.4.3, 2.5.10, 4.3.1, 4.3.2, 
 
 ####Handhaving erkenning leerbedrijven
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 1.  Bedrijven en organisaties die op de datum voorafgaande aan de datum van inwerkingtreding van artikel I, onderdeel N, beschikken over een gunstige beoordeling op grond van artikel 7.2.10, eerste lid, van de Wet educatie en beroepsonderwijs zoals luidend op eerstbedoelde datum, worden aangemerkt als leerbedrijven met een erkenning als bedoeld in artikel 7.2.10, tweede lid, eerste volzin, van de Wet educatie en beroepsonderwijs.   
 2.  Bedrijven en organisaties die op de datum voorafgaande aan de datum van inwerkingtreding van artikel III, onderdeel B, beschikken over een gunstige beoordeling op grond van artikel 10b4, tweede lid, van de Wet op het voortgezet onderwijs zoals luidend op eerstbedoelde datum, worden aangemerkt als leerbedrijven met een erkenning als bedoeld in artikel 10b4, derde lid, eerste volzin, van de Wet op het voortgezet onderwijs.   
@@ -90,15 +84,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Evaluatiebepaling
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 Onze Minister van Onderwijs, Cultuur en Wetenschap zendt binnen drie jaar na de inwerkingtreding van deze wet, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  VIII  
 
 ####Inwerkingtreding
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld. 
 

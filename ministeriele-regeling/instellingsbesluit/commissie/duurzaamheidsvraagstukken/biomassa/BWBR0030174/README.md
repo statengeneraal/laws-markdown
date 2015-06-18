@@ -3,7 +3,7 @@
 ##Besluit van de Staatssecretaris van Infrastructuur en Milieu van 28 juni 2011, nr. BJZ2011046962, houdende instelling van de Commissie duurzaamheidsvraagstukken biomassa (Instellingsbesluit Commissie duurzaamheidsvraagstukken biomassa)
 
 De Staatssecretaris van Infrastructuur en Milieu,  
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](../../../../../../wet/wet/vergoedingen/adviescolleges/en/commissies/BWBR0024775/README.md);
+Gelet op artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies;
 Besluit:    
 
 ### Artikel  1  
@@ -33,7 +33,7 @@ In dit besluit wordt verstaan onder:
 ####Instelling commissie
 
 1.  Er is een Commissie Duurzaamheidsvraagstukken Biomassa.   
-2.  De commissie wordt ingesteld voor de periode van 1 juli 2011 tot 1 juli 2015.  
+2.  De commissie wordt ingesteld voor de periode van 1 juli 2011 tot 1 januari 2016.  
 
 ### Artikel  3  
 
@@ -102,22 +102,22 @@ De commissie verstrekt desgevraagd aan de minister de door hem gewenste inlichti
 
 1.  De minister stelt een budget beschikbaar waaruit de materiële kosten van de commissie worden vergoed, voor zover deze in redelijkheid gemaakt zijn bij de vervulling van haar taak, bedoeld in artikel 3. Onder kosten worden in ieder geval verstaan de kosten voor vergaderingen en voor de productie van adviezen.   
 2.  De minister stelt secretariële ondersteuning beschikbaar ten behoeve van de commissie. Het secretariaat is voor de inhoudelijke uitvoering van zijn taak uitsluitend verantwoording schuldig aan de commissie.   
-3.  Het secretariaat van de commissie handelt de declaraties in verband met de kosten, bedoeld in het eerste lid, af.   
-4.  De commissie rapporteert de minister voor het eind van elk kalenderjaar en voor 1 juli 2013 over de gemaakte kosten, in relatie tot het in artikel 5, tweede lid, bedoelde werkplan.  
+3.  Het secretariaat van de commissie handelt de declaraties in verband met de kosten, bedoeld in het eerste lid, af.  
+4. De commissie rapporteert de minister voor het eind van elk kalenderjaar over de gemaakte kosten, in relatie tot het in artikel 5, tweede lid, bedoelde werkplan. 
 
 ### Artikel  9  
 
 ####Vergoeding
 
-1.  De voorzitter ontvangt een vaste vergoeding op schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) met een arbeidsduurfactor van 0,2.   
-2.  De andere leden van de commissie ontvangen een vergoeding van 3% van het maximum van salarisschaal 17 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) per vergadering waaraan zij daadwerkelijk hebben deelgenomen.   
+1.  De voorzitter ontvangt een vaste vergoeding op schaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 met een arbeidsduurfactor van 0,2.   
+2.  De andere leden van de commissie ontvangen een vergoeding van 3% van het maximum van salarisschaal 17 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren1984 per vergadering waaraan zij daadwerkelijk hebben deelgenomen.   
 3.  Het secretariaat van de commissie handelt de declaraties af voor vergoedingen als bedoeld in het tweede lid.  
 
 ### Artikel  10  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 juli 2015. 
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2016. 
 
 ### Artikel  11  
 

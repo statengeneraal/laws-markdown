@@ -5,7 +5,7 @@
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
 Handelende in overeenstemming met de Staatssecretaris van Financiën;
 
-Gelet op de [artikelen 2](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), [14, eerste en tweede lid](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), [15, eerste lid](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), [16, tweede lid](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), en [20, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), de vaststelling en invoering van [titel 5 (Pacht) van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [artikel 58 van de Wet agrarisch grondverkeer](../../../../wet/wet/agrarisch/grondverkeer/BWBR0003386/README.md) en [artikel 2 van het Besluit grondbankstelsel](../../../../AMvB/besluit/grondbankstelsel/BWBR0003548/README.md), de [artikelen 2](../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md) en [4 van de Kaderwet LNV-subsidies](../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md), [artikel 19 van de Landbouwwet](../../../../wet/landbouwwet/BWBR0002252/README.md) en [artikel 18, derde lid, van de Wet waardering onroerende zaken](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md);
+Gelet op de artikelen 2, 14, eerste en tweede lid, 15, eerste lid, 16, tweede lid, en 20, eerste lid, van het Pachtprijzenbesluit 2007, de vaststelling en invoering van titel 5 (Pacht) van Boek 7 van het Burgerlijk Wetboek, artikel 58 van de Wet agrarisch grondverkeer en artikel 2 van het Besluit grondbankstelsel, de artikelen 2 en 4 van de Kaderwet LNV-subsidies, artikel 19 van de Landbouwwet en artikel 18, derde lid, van de Wet waardering onroerende zaken;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -15,32 +15,32 @@ Besluit:
 
 Met betrekking tot pachtovereenkomsten voor land zonder woningen of andere opstallen: 
 
-a. is de hoogst toelaatbare pachtprijs per jaar per hectare, bedoeld in [artikel 2, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), voor pachtovereenkomsten die worden aangegaan op of na 1 september 2007, voor de onderscheiden pachtprijsgebieden de prijs die is vermeld in bijlage 1, onder A;  
+a. is de hoogst toelaatbare pachtprijs per jaar per hectare, bedoeld in artikel 2, eerste lid, van het Pachtprijzenbesluit 2007, voor pachtovereenkomsten die worden aangegaan op of na 1 september 2007, voor de onderscheiden pachtprijsgebieden de prijs die is vermeld in bijlage 1, onder A;  
 
-b. is het percentage, bedoeld in [artikel 2, tweede lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd, voor de onderscheiden pachtprijsgebieden het percentage dat is vermeld in bijlage 1, onder B.   
+b. is het percentage, bedoeld in artikel 2, tweede lid, van het Pachtprijzenbesluit 2007, waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd, voor de onderscheiden pachtprijsgebieden het percentage dat is vermeld in bijlage 1, onder B.   
 
 ### Artikel  2  
 
 Met betrekking tot pachtovereenkomsten voor tuinland: 
 
-a. is de hoogst toelaatbare pachtprijs per jaar per hectare, bedoeld in [artikel 11](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md) in samenhang met [artikel 2, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), voor pachtovereenkomsten die worden aangegaan op of na 1 september 2007, in Westelijk Holland € 1.818,– en in de Rest van Nederland € 727,–;  
+a. is de hoogst toelaatbare pachtprijs per jaar per hectare, bedoeld in artikel 11 in samenhang met artikel 2, eerste lid, van het Pachtprijzenbesluit 2007, voor pachtovereenkomsten die worden aangegaan op of na 1 september 2007, in Westelijk Holland € 1.818,– en in de Rest van Nederland € 727,–;  
 
-b. is het percentage, bedoeld in [artikel 11](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md) in samenhang met [artikel 2, tweede lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd, in Westelijk Holland 35% en in de Rest van Nederland –4%.   
+b. is het percentage, bedoeld in artikel 11 in samenhang met artikel 2, tweede lid, van het Pachtprijzenbesluit 2007, waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd, in Westelijk Holland 35% en in de Rest van Nederland –4%.   
 
 ### Artikel  3  
 
 Met betrekking tot pachtovereenkomsten voor een tot een boerderij of tuinderij behorende woning of woongedeelte en voor een tot de boerderij behorende arbeiders- of dienstwoning: 
 
-a. is de hoogst toelaatbare pachtprijs per maand, bedoeld in [artikel 14, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), de, gegeven het aantal punten waarop de woning of het woongedeelte is gewaardeerd, toepasselijke prijs die is vermeld in bijlage 2, onder A;  
+a. is de hoogst toelaatbare pachtprijs per maand, bedoeld in artikel 14, eerste lid, van het Pachtprijzenbesluit 2007, de, gegeven het aantal punten waarop de woning of het woongedeelte is gewaardeerd, toepasselijke prijs die is vermeld in bijlage 2, onder A;  
 
-b. is het puntenstelsel, bedoeld in [artikel 14, tweede lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), aan de hand waarvan de hoogst toelaatbare pachtprijs als bedoeld in het eerste lid wordt vastgesteld, het puntenstelsel dat is vermeld als bijlage 2, onder B;  
+b. is het puntenstelsel, bedoeld in artikel 14, tweede lid, van het Pachtprijzenbesluit 2007, aan de hand waarvan de hoogst toelaatbare pachtprijs als bedoeld in het eerste lid wordt vastgesteld, het puntenstelsel dat is vermeld als bijlage 2, onder B;  
 
-c. is het percentage, bedoeld in [artikel 15, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd: 4%.   
+c. is het percentage, bedoeld in artikel 15, eerste lid, van het Pachtprijzenbesluit 2007, waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd: 4%.   
 
 ### Artikel  4  
 
-1.  De hoogst toelaatbare pachtprijs per hectare van een overeenkomst voor de bedrijfsgebouwen van akkerbouw- en melkveebedrijven en overige bedrijven, bedoeld in [artikel 16, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md) komt overeen met de bedragen, genoemd in de tabel, opgenomen in bijlage 2A.   
-2.  Met betrekking tot de bedrijfsgebouwen van akkerbouw- en veeteeltbedrijven en gemengde bedrijven is het percentage, bedoeld in [artikel 20, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), waarmee de tussen partijen geldende pachtprijs wordt gewijzigd: 1,2%. 
+1.  De hoogst toelaatbare pachtprijs per hectare van een overeenkomst voor de bedrijfsgebouwen van akkerbouw- en melkveebedrijven en overige bedrijven, bedoeld in artikel 16, eerste lid, van het Pachtprijzenbesluit 2007 komt overeen met de bedragen, genoemd in de tabel, opgenomen in bijlage 2A.   
+2.  Met betrekking tot de bedrijfsgebouwen van akkerbouw- en veeteeltbedrijven en gemengde bedrijven is het percentage, bedoeld in artikel 20, eerste lid, van het Pachtprijzenbesluit 2007, waarmee de tussen partijen geldende pachtprijs wordt gewijzigd: 1,2%. 
 
 ### Hoofdstuk  2  
 
@@ -56,11 +56,11 @@ b. de grondkamer Zuidwest van 21 september 2007 als opgenomen in bijlage 3, ond
 
 ### Artikel  6  
 
-Het bedrag, bedoeld in [artikel 23, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), dat door de verpachter aan de pachter kan worden doorberekend, indien op het verpachte land een ruilverkavelingsrente dan wel een landinrichtingsrente rust, bedraagt maximaal € 25,– per hectare per jaar. 
+Het bedrag, bedoeld in artikel 23, eerste lid, van het Pachtprijzenbesluit 2007, dat door de verpachter aan de pachter kan worden doorberekend, indien op het verpachte land een ruilverkavelingsrente dan wel een landinrichtingsrente rust, bedraagt maximaal € 25,– per hectare per jaar. 
 
 ### Artikel  7  
 
-Als model voor het formulier, bedoeld in [artikel 24 van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), wordt vastgesteld: 
+Als model voor het formulier, bedoeld in artikel 24 van het Pachtprijzenbesluit 2007, wordt vastgesteld: 
 
 a. voor de hoogst toelaatbare pachtprijs voor pachtovereenkomsten die zijn ingegaan op of na 1 september 2007, het model opgenomen in bijlage 4, onder A, en  
 
@@ -72,7 +72,7 @@ b. voor de hoogst toelaatbare pachtprijs voor pachtovereenkomsten die zijn ingeg
 
 ### Artikel  8  
 
-Deze regeling berust mede op [artikel 395 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), op de [artikelen 23](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md) en [24 van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md) en op [artikel 18, vierde lid, Wet waardering onroerende zaken](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md).
+Deze regeling berust mede op artikel 395 van Boek 7 van het Burgerlijk Wetboek, op de artikelen 23 en 24 van het Pachtprijzenbesluit 2007 en op artikel 18, vierde lid, Wet waardering onroerende zaken.
 
 ### Artikel  9  
 
@@ -296,25 +296,25 @@ Hoogst toelaatbare pachtprijs per hectare voor de bedrijfsgebouwen
 
 ####, behorend bij artikel 5 
 
-####A. Besluit grondkamer Noordwest op grond van [artikel 395 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md)
+####A. Besluit grondkamer Noordwest op grond van artikel 395 van Boek 7 van het Burgerlijk Wetboek
 
-Grondkamer Noordwest, Gelet op [artikel 395, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), Besluit: 
+Grondkamer Noordwest, Gelet op artikel 395, tweede lid, van Boek 7 van het Burgerlijk Wetboek, Besluit: 
 
 ####*Artikel 1*
 
-De in [artikel 395, lid 1, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) genoemde oppervlakte van 1 ha wordt voor de gehele provincie Noord-Holland verlaagd tot 50 are voor de tak van bodemcultuur, welke in [artikel 312 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) wordt omschreven als ‘tuinbouw, daaronder begrepen fruitteelt en het kweken van bomen, bloemen en bloembollen’. 
+De in artikel 395, lid 1, van Boek 7 van het Burgerlijk Wetboek genoemde oppervlakte van 1 ha wordt voor de gehele provincie Noord-Holland verlaagd tot 50 are voor de tak van bodemcultuur, welke in artikel 312 van Boek 7 van het Burgerlijk Wetboek wordt omschreven als ‘tuinbouw, daaronder begrepen fruitteelt en het kweken van bomen, bloemen en bloembollen’. 
 
 ####*Artikel 2*
 
 Dit besluit treedt in werking op de tweede dag nadat het in de Nederlandse Staatscourant is bekendgemaakt. Aldus gedaan op woensdag 5 september 2007 ter zitting van de grondkamer Noordwest bestaande uit mr. J.H. Huijzer (voorzitter), D. Schenk en A.J.J. Lips (leden), in tegenwoordigheid van mr. G.J.M. Krekel (secretaris). w.g. De voorzitter, De secretaris, 
 
-####B. Besluit grondkamer Zuidwest op grond van [artikel 395 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md)
+####B. Besluit grondkamer Zuidwest op grond van artikel 395 van Boek 7 van het Burgerlijk Wetboek
 
-Grondkamer Zuidwest, Gelet op [artikel 395, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), Besluit: 
+Grondkamer Zuidwest, Gelet op artikel 395, tweede lid, van Boek 7 van het Burgerlijk Wetboek, Besluit: 
 
 ####*Artikel 1*
 
-De in [artikel 395, lid 1, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) genoemde oppervlakte van 1 ha wordt voor de gehele provincie Zuid-Holland verlaagd tot 50 are voor de tak van bodemcultuur, welke in [artikel 312 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) wordt omschreven als ‘tuinbouw, daaronder begrepen fruitteelt en het kweken van bomen, bloemen en bloembollen’. 
+De in artikel 395, lid 1, van Boek 7 van het Burgerlijk Wetboek genoemde oppervlakte van 1 ha wordt voor de gehele provincie Zuid-Holland verlaagd tot 50 are voor de tak van bodemcultuur, welke in artikel 312 van Boek 7 van het Burgerlijk Wetboek wordt omschreven als ‘tuinbouw, daaronder begrepen fruitteelt en het kweken van bomen, bloemen en bloembollen’. 
 
 ####*Artikel 2.*
 
@@ -422,7 +422,7 @@ Handtekening eerste taxateur Handtekening tweede taxateur
 | Soort bedrijf:  |
 | Totale bedrijfsoppervlakte:  |
 | Voor welke oppervlakte geschikt?  |
-| Omschrijving bedrijfsgebouwen ([artikel 17 Pachtprijzenbesluit](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md)):  |
+| Omschrijving bedrijfsgebouwen (artikel 17 Pachtprijzenbesluit):  |
 | --- |
 | Omschrijving bedrijfsgebouwen (overig)  |
 | --- |
@@ -499,7 +499,7 @@ Grondkamer: Verzoeknummer:
 | Pachtprijs overige bedrijfsgebouwen  | €  |
 | Totale pachtprijs bedrijfsgebouwen  | €  |
 
-<sup>1</sup> Berekening pachtprijs volgens [artikel 17 Pachtprijzenbesluit](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md) bijvoegen.
+<sup>1</sup> Berekening pachtprijs volgens artikel 17 Pachtprijzenbesluit bijvoegen.
 
 ### 5 
 
@@ -537,7 +537,7 @@ Handtekening eerste taxateur Handtekening tweede taxateur
 | Soort bedrijf:  |
 | Totale bedrijfsoppervlakte:  |
 | Voor welke oppervlakte geschikt?  |
-| Omschrijving bedrijfsgebouwen ([artikel 17 Pachtprijzenbesluit](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md)):  |
+| Omschrijving bedrijfsgebouwen (artikel 17 Pachtprijzenbesluit):  |
 | --- |
 | Omschrijving bedrijfsgebouwen (overig):  |
 | --- |

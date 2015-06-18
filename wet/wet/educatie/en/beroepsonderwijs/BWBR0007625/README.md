@@ -322,22 +322,31 @@ f. de artikelen 8.3.1 tot en met 8.3.3.
 
 ### Titel  5  
 
-####Kenniscentra beroepsonderwijs bedrijfsleven
+####Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
 
-### Artikel  1.5.1  
+### Art.  1.5.1  
 
-####Aanspraak bekostiging kenniscentra beroepsonderwijs bedrijfsleven
+####Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
 
-De kenniscentra beroepsonderwijs bedrijfsleven die daartoe op voet van artikel 2.1.5 door Onze Minister in aanmerking zijn gebracht, hebben aanspraak op bekostiging uit ’s Rijks kas ten behoeve van het vervullen van hun bij deze wet opgedragen werkzaamheden, voor zover niet verricht in het kader van dienstverlening. 
+1.  Bij ministeriële regeling wordt een rechtspersoon aangewezen die is belast met de volgende taken: 
 
-### Artikel  1.5.2  
+a. het ontwikkelen en onderhouden van een landelijke kwalificatiestructuur, gericht op de aansluiting tussen het aanbod van beroepsonderwijs en de maatschappelijke behoeften daaraan, mede in het licht van de arbeidsmarkt voor afgestudeerden, en mede gelet op van belang zijnde ontwikkelingen in internationaal verband, onder meer door het doen van voorstellen aan Onze Minister voor de kwalificatiedossiers, bedoeld in artikel 7.2.4, tweede lid,  
 
-####Taken kenniscentra beroepsonderwijs bedrijfsleven
+b. het bijdragen aan een doelmatige en doelgerichte inzet van overheidsmiddelen door het ontwikkelen van voorstellen, welke beroepsopleidingen voor bekostiging uit ’s Rijks kas in aanmerking komen,  
 
-1.  Kenniscentra beroepsonderwijs bedrijfsleven dragen bij aan het ontwikkelen en onderhouden van een landelijke kwalificatiestructuur, gericht op de aansluiting tussen het aanbod van beroepsonderwijs en de maatschappelijke behoeften daaraan, mede in het licht van de arbeidsmarktperspectieven voor afgestudeerden, en mede gelet op van belang zijnde ontwikkelingen in internationaal verband.   
-2.   Kenniscentra beroepsonderwijs bedrijfsleven dragen bij aan een doelmatige en doelgerichte inzet van overheidsmiddelen door het ontwikkelen van voorstellen, welke beroepsopleidingen voor bekostiging uit ’s Rijks kas in aanmerking komen.   
-3.   Kenniscentra beroepsonderwijs bedrijfsleven dragen bij aan de bevordering van de kwaliteit van de plaatsen waar de beroepspraktijkvorming wordt verzorgd.   
-4.   Kenniscentra beroepsonderwijs bedrijfsleven dragen zoveel mogelijk zorg voor de beschikbaarheid van een toereikend aantal bedrijven en organisaties van voldoende kwaliteit die de beroepspraktijkvorming verzorgen. Kenniscentra beroepsonderwijs bedrijfsleven zijn voorts belast met een regelmatige beoordeling van die bedrijven en organisaties.  
+c. het bevorderen van de kwaliteit van de beroepspraktijkvorming,  
+
+d. het ontwikkelen en vaststellen van kwaliteitscriteria voor beroepspraktijkvormingsplaatsen en het ten minste een maal per vier jaar beoordelen van bedrijven en organisaties die de beroepspraktijkvorming verzorgen aan de hand van deze criteria en het openbaar maken van een overzicht van bedrijven en organisaties die voldoen aan deze criteria,  
+
+e. het zoveel mogelijk zorg dragen voor de beschikbaarheid van een toereikend aantal bedrijven en organisaties van voldoende kwaliteit die de beroepspraktijkvorming verzorgen,  
+
+f. het uitvoeren van onderzoek ter ondersteuning van de taken, genoemd in dit artikel, en  
+
+g. het uitvoeren van aanvullende activiteiten ter bevordering van de aansluiting onderwijs en arbeidsmarkt.     
+2.  De rechtspersoon, bedoeld in het eerste lid, wordt voor de toepassing van deze wet aangeduid als Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven.   
+3.  Onze Minister verstrekt de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven binnen het raam van de door de begrotingswetgever beschikbaar gestelde middelen subsidie voor de uitvoering van de taken, bedoeld in het eerste lid, onder a tot en met f.   
+4.  Onze Minister kan de Samenwerkingsorganisatie beroepsonderwijs op aanvraag subsidie verstrekken voor de uitvoering van taken als bedoeld in het eerste lid, onder g.   
+5.  Het is de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven niet toegestaan andere activiteiten uit te voeren dan de aan haar door de wet opgedragen taken.  
 
 ### Titel  6  
 
@@ -1399,7 +1408,7 @@ c. in het Centraal register wordt geregistreerd dat de rechten, genoemd in artik
 
 ####Beleidsregels en adviescommissie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 1.  Onze Minister stelt beleidsregels vast omtrent de uitoefening van de bevoegdheid, bedoeld in artikel 6.1.4, eerste lid, onder c.   
 2.  Onze Minister kan zich bij de toepassing van de beleidsregels laten adviseren door een onafhankelijke adviescommissie.  

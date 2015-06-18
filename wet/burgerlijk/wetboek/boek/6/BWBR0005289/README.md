@@ -1673,7 +1673,7 @@ Voldoet een overeenkomst aan de omschrijving van twee of meer door de wet gerege
 
 ### Artikel  216  
 
-Hetgeen in deze en de volgende vier afdelingen is bepaald, vindt overeenkomstige toepassing op andere meerzijdige vermogensrechtelijke rechtshandelingen, voor zover de strekking van de betrokken bepalingen in verband met de aard van de rechtshandeling zich daartegen niet verzet.  
+Hetgeen in deze en de volgende vijf afdelingen is bepaald, vindt overeenkomstige toepassing op andere meerzijdige vermogensrechtelijke rechtshandelingen, voor zover de strekking van de betrokken bepalingen in verband met de aard van de rechtshandeling zich daartegen niet verzet.  
 
 ### Afdeling  2  
 
@@ -1933,7 +1933,9 @@ o.  *financieel product, financiële dienst, financiële onderneming, krediet, l
 p.  *richtlijn:* Richtlijn 2011/83/EU van het Europees Parlement en de Raad van 25 oktober 2011 betreffende consumentenrechten, tot wijziging van Richtlijn 93/13/EEG van de Raad en van Richtlijn 1999/44/EG van het Europees Parlement en de Raad en tot intrekking van Richtlijn 85/577/EEG en van Richtlijn 97/7/EG van het Europees Parlement en de Raad (Pb EU L 304/64);  
 
 q.  *richtlijn nr. 2002/65/EG:* richtlijn nr. 2002/65/EG van het Europees Parlement en de Raad van de Europese Unie van 23 september 2002 betreffende de verkoop op afstand van financiële diensten aan consumenten (PbEG L 271/16).     
-2.  Voor de toepassing van deze afdeling gelden voor een overeenkomst die zowel de levering van roerende zaken als het verrichten van diensten betreft, met uitzondering van artikel 230s lid 4, slechts de bepalingen die van toepassing zijn op consumentenkoop.  
+2.  Voor de toepassing van deze afdeling gelden voor een overeenkomst die zowel de levering van roerende zaken als het verrichten van diensten betreft, met uitzondering van artikel 230s lid 4, slechts de bepalingen die van toepassing zijn op consumentenkoop.   
+3.  Indien een overeenkomst waarop deze afdeling van toepassing is tot stand is gekomen via een andere persoon, handelend in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit, die daarbij optreedt namens of voor rekening van een handelaar, kan de consument zich ook jegens die andere persoon beroepen op het in deze afdeling bepaalde.   
+4.  Het derde lid is van overeenkomstige toepassing voordat de consument is gebonden aan een overeenkomst waarop deze afdeling van toepassing is, dan wel aan een daartoe strekkend aanbod. 
 
 ### Artikel  230h  
 
@@ -2067,7 +2069,7 @@ t. voor zover van toepassing, de mogelijkheid van toegang tot buitengerechtelijk
 
 ### Artikel  230o  
 
-1.  De consument kan een overeenkomst op afstand of een overeenkomst buiten de verkoopruimte zonder opgave van redenen ontbinden tot een termijn van veertien dagen is verstreken, vanaf: 
+1.  De consument kan een overeenkomst op afstand of een overeenkomst buiten de verkoopruimte zonder opgave van redenen ontbinden tot een termijn van veertien dagen is verstreken, na: 
 
 a. bij een overeenkomst tot het verrichten van diensten: de dag waarop de overeenkomst wordt gesloten;  
 
@@ -2189,7 +2191,7 @@ Het is een handelaar verboden een aanbod tot het sluiten van een overeenkomst bu
 ### Artikel  230v  
 
 1.  Bij een overeenkomst op afstand verstrekt de handelaar de in artikel 230m lid 1 genoemde informatie aan de consument op een wijze die passend is voor de gebruikte middelen voor communicatie op afstand en in een duidelijke en begrijpelijke taal. Verstrekt de handelaar deze informatie op een duurzame gegevensdrager, dan is zij in leesbare vorm opgesteld.   
-2.  Voordat op elektronische wijze een overeenkomst op afstand wordt gesloten waaruit een betalingsverplichting voor de consument voortvloeit, wijst de handelaar de consument op een duidelijke en in het oog springende manier en onmiddellijk voordat de consument zijn bestelling plaatst, op de in artikel 230m lid 1, onderdelen a, e, o en p, genoemde informatie   
+2.  Voordat op elektronische wijze een overeenkomst op afstand wordt gesloten waaruit een betalingsverplichting voor de consument voortvloeit, wijst de handelaar de consument op een duidelijke en in het oog springende manier en onmiddellijk voordat de consument zijn bestelling plaatst, op de in artikel 230m lid 1, onderdelen a, e, o en p, genoemde informatie.   
 3.  De handelaar richt zijn elektronische bestelproces op zodanige wijze in dat de consument een aanbod niet kan aanvaarden dan nadat hem op niet voor misverstand vatbare wijze duidelijk is gemaakt dat de bestelling een betalingsverplichting inhoudt. Indien de aanvaarding geschiedt door gebruik van een knop of soortgelijke functie, is aan de vorige zin voldaan indien bij het plaatsen van de bestelling in niet voor misverstand vatbare termen en op goed leesbare wijze blijkt dat de aanvaarding een betalingsverplichting jegens de handelaar inhoudt. Een knop of soortgelijke functie wordt daartoe op een goed leesbare wijze aangemerkt met een ondubbelzinnige formulering waaruit blijkt dat het plaatsen van de bestelling een betalingsverplichting jegens de handelaar inhoudt. De enkele zinsnede «bestelling met betalingsverplichting» wordt aangemerkt als een dergelijke ondubbelzinnige verklaring. Een overeenkomst die in strijd met dit lid tot stand komt, is vernietigbaar.   
 4.  Op websites waarop zaken of diensten door de handelaar worden aangeboden wordt uiterlijk aan het begin van het bestelproces duidelijk en leesbaar aangegeven of er beperkingen gelden voor de levering en welke betaalmiddelen worden aanvaard.   
 5.  Voordat een overeenkomst op afstand wordt gesloten met behulp van een middel voor communicatie op afstand dat beperkte ruimte of tijd biedt voor het tonen van de informatie, verstrekt de handelaar, via dat specifieke middel, ten minste de precontractuele informatie over de voornaamste kenmerken van de zaken of diensten, de identiteit van de handelaar, de totale prijs, het recht van ontbinding, de duur van de overeenkomst en, bij een overeenkomst voor onbepaalde tijd, de voorwaarden om de overeenkomst op te zeggen, bedoeld in artikel 230m lid 1 onderdelen a, b, e, h en o. De overige in artikel 230m lid 1 bedoelde informatie wordt door de handelaar op passende wijze aan de consument verstrekt, overeenkomstig lid 1.   

@@ -152,8 +152,8 @@ b. een bestuurlijke boete opleggen;
 c. een last onder dwangsom opleggen.     
 3.  Artikel 4.3 is van overeenkomstige toepassing indien begrippen worden uitgelegd, die worden gehanteerd in een van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage bij deze wet.   
 4.  Met betrekking tot de toepassing van het tweede lid is artikel 2.24 van overeenkomstige toepassing.   
-5.  Met betrekking tot de toepassing van het tweede lid, onderdeel a, is artikel 2.15 van toepassing dan wel, indien het betreft een overtreding van onderdeel b van de bijlage bij deze wet, artikel 1:81 van de Wet op het financieel toezicht.   
-6.  Met betrekking tot de toepassing van het tweede lid, onderdeel b, zijn de artikelen 5:48 tot en met 5:51 van de Algemene wet bestuursrecht van overeenkomstige toepassing en is artikel 51 van het Wetboek van Strafrecht van overeenkomstige toepassing.   
+5.  Met betrekking tot de toepassing van het tweede lid, onderdeel b, is artikel 2.15 van toepassing dan wel, indien het betreft een overtreding van onderdeel b van de bijlage bij deze wet, artikel 1:81 van de Wet op het financieel toezicht.   
+6.  Met betrekking tot de toepassing van het tweede lid, onderdeel c, zijn de artikelen 5:48 tot en met 5:51 van de Algemene wet bestuursrecht van overeenkomstige toepassing en is artikel 51 van het Wetboek van Strafrecht van overeenkomstige toepassing.   
 7.  Een last onder dwangsom kan strekken tot verzekering van de medewerking die krachtens artikel 5:20 van de Algemene wet bestuursrecht kan worden gevorderd.   
 8.  Aan een last onder dwangsom kunnen voorschriften worden verbonden die redelijkerwijs noodzakelijk zijn om effectieve controle op de uitvoering van de last te verzekeren.  
 
@@ -383,12 +383,14 @@ c. pandhuis: een natuurlijke persoon of rechtspersoon die in de uitoefening van 
 1.  Degene die een dienst van de informatiemaatschappij verleent als bedoeld in artikel 15d, derde lid, van Boek 3 van het Burgerlijk Wetboek, neemt de artikelen 15a tot en met 15c, 15d, eerste en tweede lid, en 15f van Boek 3 van het Burgerlijk Wetboek in acht.   
 2.  Indien commerciële communicatie als bedoeld in artikel 15e, derde lid, van Boek 3 van het Burgerlijk Wetboek, deel uitmaakt van een dienst van de informatiemaatschappij of een dergelijke dienst vormt, zorgt degene in wiens opdracht de commerciële communicatie geschiedt, dat artikel 15e, eerste lid, van Boek 3 van het Burgerlijk Wetboek in acht wordt genomen.   
 3.  De dienstverlener, bedoeld in het eerste lid, neemt de artikelen 196c, 227a, 227b en 227c van Boek 6 van het Burgerlijk Wetboek in acht.   
-4.  Indien een wederpartij langs de elektronische weg een verklaring als bedoeld in artikel 227c, tweede lid, van het Burgerlijk Wetboek uitbrengt die door de in het eerste lid bedoelde dienstverlener mag worden opgevat hetzij als een aanvaarding van een door hem langs de elektronische weg gedaan aanbod, hetzij als een aanbod naar aanleiding van een door hem langs de elektronische weg gedane uitnodiging om in onderhandeling te treden, bevestigt de dienstverlener de ontvangst van deze verklaring zo spoedig mogelijk langs elektronische weg aan de wederpartij.   
+4.  Indien een wederpartij langs de elektronische weg een verklaring als bedoeld in artikel 227c, tweede lid, van Boek 6 van het Burgerlijk Wetboek uitbrengt die door de in het eerste lid bedoelde dienstverlener mag worden opgevat hetzij als een aanvaarding van een door hem langs de elektronische weg gedaan aanbod, hetzij als een aanbod naar aanleiding van een door hem langs de elektronische weg gedane uitnodiging om in onderhandeling te treden, bevestigt de dienstverlener de ontvangst van deze verklaring zo spoedig mogelijk langs elektronische weg aan de wederpartij.   
 5.  Het derde en vierde lid zijn niet van toepassing, indien een overeenkomst uitsluitend door middel van de uitwisseling van elektronische post of een soortgelijke vorm van individuele communicatie tot stand komt.  
 
 ### Artikel  8.2a  
 
-Een handelaar als bedoeld in artikel 230g, eerste lid, onderdeel b, van Boek 6 van het Burgerlijk Wetboek, die een overeenkomst aangaat als bedoeld in artikel 230g, eerste lid, onderdeel c, dan wel onderdeel d, van Boek 6 van het Burgerlijk Wetboek, neemt de bepalingen van Afdeling 2B van Titel 5 van Boek 6 van het Burgerlijk Wetboek in acht. 
+1.  Een handelaar als bedoeld in artikel 230g, eerste lid, onderdeel b, van Boek 6 van het Burgerlijk Wetboek, die een overeenkomst aangaat waarop Afdeling 2B van Titel 5 van Boek 6 van het Burgerlijk Wetboek van toepassing is, neemt de bepalingen van die afdeling in acht.   
+2.  Indien een overeenkomst waarop Afdeling 2B van Titel 5 van Boek 6 van het Burgerlijk Wetboek van toepassing is, tot stand komt via een andere persoon, handelend in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit, die daarbij optreedt namens of voor rekening van een handelaar, neemt ook die andere persoon de bepalingen van die afdeling in acht.   
+3.  Het eerste en tweede lid zijn van overeenkomstige toepassing voordat de consument is gebonden aan een overeenkomst, dan wel aan een daartoe strekkend aanbod.  
 
 ### Artikel  8.3  
 
@@ -400,11 +402,12 @@ Bij een consumentenkoop als bedoeld in artikel 5, eerste lid, van Boek 7 van het
 
 ### Artikel  8.4a  
 
-Bij een consumentenkoop als bedoeld in artikel 5, eerste lid, van Boek 7 van het Burgerlijk Wetboek, neemt de verkoper de artikelen 9, vierde lid, 11 en 19a van Boek 7 van het Burgerlijk Wetboek in acht. 
+1. Bij een consumentenkoop als bedoeld in artikel 5, eerste lid, van Boek 7 van het Burgerlijk Wetboek, neemt de als verkoper optredende handelaar de artikelen 9, vierde lid, 11 en 19a van Boek 7 van het Burgerlijk Wetboek in acht.  
+2.  Indien een consumentenkoop als bedoeld in artikel 5, eerste lid, van Boek 7 van het Burgerlijk Wetboek, tot stand komt via een andere persoon, handelend in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit, die daarbij optreedt namens of voor rekening van de als verkoper optredende handelaar, neemt ook die andere persoon de artikelen 9, 11 en 19a van Boek 7 van het Burgerlijk Wetboek in acht. 
 
 ### Artikel  8.5  
 
-De toezending van een niet bestelde zaak, of de ongevraagde levering van water, gas, elektriciteit, stadsverwarming of digitale inhoud, of het verrichten van een niet opgedragen dienst, met het verzoek tot betaling van een prijs, bedoeld in artikel 7, tweede lid, van Boek 7 van het Burgerlijk Wetboek, is niet toegestaan. 
+De toezending van een niet bestelde zaak, of de ongevraagde levering van water, gas, elektriciteit, stadsverwarming of digitale inhoud die niet op een materiële drager is geleverd, ongeacht of de digitale inhoud individualiseerbaar is en of er feitelijke macht over kan worden uitgeoefend, of het verrichten van een niet opgedragen dienst, met het verzoek tot betaling van een prijs, bedoeld in artikel 7, tweede lid, van Boek 7 van het Burgerlijk Wetboek, is niet toegestaan. 
 
 ### Artikel  8.6  
 

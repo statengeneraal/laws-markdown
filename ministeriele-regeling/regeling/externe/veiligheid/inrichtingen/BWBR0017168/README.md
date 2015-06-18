@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 8 september 2004, nr. EV2004084072, houdende regels met betrekking tot afstanden en de wijze van berekening van het plaatsgebonden risico en het groepsrisico ter uitvoering van het Besluit externe veiligheid inrichtingen (Regeling externe veiligheid inrichtingen)
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
-Gelet op de [artikelen 4, vijfde tot en met zevende lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [5, derde tot en met vijfde lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [10, eerste lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [11](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [14, tweede lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [15, eerste lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [16](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [17, tweede tot en met vijfde lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), en [18, tweede tot en met vierde lid, van het Besluit externe veiligheid inrichtingen](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md);
+Gelet op de artikelen 4, vijfde tot en met zevende lid, 5, derde tot en met vijfde lid, 10, eerste lid, 11, 14, tweede lid, 15, eerste lid, 16, 17, tweede tot en met vijfde lid, en 18, tweede tot en met vierde lid, van het Besluit externe veiligheid inrichtingen;
 Besluit:   
 ### §  1  
 
@@ -11,17 +11,17 @@ Besluit:
 
 ### Artikel  1  
 
-a. besluit: [Besluit externe veiligheid inrichtingen](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md);  
+a. besluit: Besluit externe veiligheid inrichtingen;  
 
 b. bijlage: de bij deze regeling behorende bijlage;  
 
-c. categoriale inrichting: inrichting als bedoeld in [artikel 4, vijfde lid, onderdelen a tot en met d, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md);  
+c. categoriale inrichting: inrichting als bedoeld in artikel 4, vijfde lid, onderdelen a tot en met d, van het besluit;  
 
 d. Handleiding Risicoberekeningen: Handleiding Risicoberekeningen Bevi, versie nr. 3.2, uitgave 2009;  
 
 e insluitsysteem: een of meer toestellen, waarvan de eventuele onderdelen blijvend met elkaar in open verbinding staan en die bestemd zijn om een of meer stoffen te omsluiten, waarbij een verlies van inhoud van een insluitsysteem niet leidt tot het vrijkomen van significante hoeveelheden gevaarlijke stof uit andere insluitsystemen;  
 
-f. licht ontvlambare stof: stof die overeenkomstig de [titel 9.2 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is aangeduid met het symbool F;  
+f. licht ontvlambare stof: stof die overeenkomstig de titel 9.2 van de Wet milieubeheer is aangeduid met het symbool F;  
 
 g. meststoffen groep 2: vaste minerale anorganische meststoffen behorende tot groep 2 als bedoeld in PGS 7;  
 
@@ -37,19 +37,19 @@ l. rekenmethodiek Bevi: rekenmethodiek, bestaande uit Safeti-NL en de Handleidin
 
 m. Safeti-NL: softwareprogramma voor de berekening van risico’s, getiteld Safeti-NL, versie nr. 6.54, uitgave 2009;  
 
-n. vergiftige stof: stof die overeenkomstig de [titel 9.2 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is aangeduid met het symbool T;  
+n. vergiftige stof: stof die overeenkomstig de titel 9.2 van de Wet milieubeheer is aangeduid met het symbool T;  
 
-o. zeer licht ontvlambare stof: stof die overeenkomstig de [titel 9.2 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is aangeduid met het symbool F+, en  
+o. zeer licht ontvlambare stof: stof die overeenkomstig de titel 9.2 van de Wet milieubeheer is aangeduid met het symbool F+, en  
 
-p. zeer vergiftige stof: stof die overeenkomstig de [titel 9.2 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is aangeduid met het symbool T+.   
+p. zeer vergiftige stof: stof die overeenkomstig de titel 9.2 van de Wet milieubeheer is aangeduid met het symbool T+.   
 
 ### Artikel 1a  
 
-Als spoorwegemplacement als bedoeld in [artikel 2, eerste lid, onderdeel c, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) worden aangewezen de spoorwegemplacementen, genoemd in bijlage 3. 
+Als spoorwegemplacement als bedoeld in artikel 2, eerste lid, onderdeel c, van het besluit worden aangewezen de spoorwegemplacementen, genoemd in bijlage 3. 
 
 ### Artikel  1b  
 
-Als inrichtingen als bedoeld in [artikel 2, eerste lid, onderdeel d, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) worden aangewezen: 
+Als inrichtingen als bedoeld in artikel 2, eerste lid, onderdeel d, van het besluit worden aangewezen: 
 
 a. inrichtingen waar meer dan 1.500 kg ammoniak in een insluitsysteem aanwezig is, niet zijnde een onderdeel van een koel- of vriesinstallatie met ammoniak;  
 
@@ -67,7 +67,7 @@ g.inrichtingen waar aardgasdruk gereduceerd wordt of aardgashoeveelheid gemeten 
 
 ### Artikel  1c  
 
-Als inrichtingen als bedoeld in [artikel 2, eerste lid, onderdeel h, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) worden aangewezen inrichtingen waar meer dan 100.000 kg meststoffen groep 2 worden opgeslagen. 
+Als inrichtingen als bedoeld in artikel 2, eerste lid, onderdeel h, van het besluit worden aangewezen inrichtingen waar meer dan 100.000 kg meststoffen groep 2 worden opgeslagen. 
 
 ###§ 2 
 
@@ -75,31 +75,31 @@ Als inrichtingen als bedoeld in [artikel 2, eerste lid, onderdeel h, van het bes
 
 ### Artikel  2  
 
-1.  De afstanden tot al dan niet geprojecteerde kwetsbare en beperkt kwetsbare objecten, bedoeld in de [artikelen 4, vijfde lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), en [5, derde lid, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), zijn de afstanden die zijn vermeld in of volgen uit: 
+1.  De afstanden tot al dan niet geprojecteerde kwetsbare en beperkt kwetsbare objecten, bedoeld in de artikelen 4, vijfde lid, en 5, derde lid, van het besluit, zijn de afstanden die zijn vermeld in of volgen uit: 
 
-a. bijlage 1, tabel 1, indien het risico wordt veroorzaakt door een LPG-tankstation als bedoeld in [artikel 4, vijfde lid, onderdeel a, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md);  
+a. bijlage 1, tabel 1, indien het risico wordt veroorzaakt door een LPG-tankstation als bedoeld in artikel 4, vijfde lid, onderdeel a, van het besluit;  
 
-b.bijlage 1, tabel 3, indien het risico wordt veroorzaakt door een inrichting waar verpakte gevaarlijke afvalstoffen of verpakte gevaarlijke stoffen, niet zijnde nitraathoudende kunstmeststoffen, worden opgeslagen als bedoeld in [artikel 4, vijfde lid, onderdeel b, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md); 
+b.bijlage 1, tabel 3, indien het risico wordt veroorzaakt door een inrichting waar verpakte gevaarlijke afvalstoffen of verpakte gevaarlijke stoffen, niet zijnde nitraathoudende kunstmeststoffen, worden opgeslagen als bedoeld in artikel 4, vijfde lid, onderdeel b, van het besluit; 
 
 c. vervallen;  
 
-d. bijlage 1, tabel 6, indien het risico wordt veroorzaakt door een inrichting waarin een koel- of vriesinstallatie aanwezig is als bedoeld in [artikel 4, vijfde lid, onderdeel c, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md);  
+d. bijlage 1, tabel 6, indien het risico wordt veroorzaakt door een inrichting waarin een koel- of vriesinstallatie aanwezig is als bedoeld in artikel 4, vijfde lid, onderdeel c, van het besluit;  
 
-e.bijlage 1, tabel 7, indien het risico wordt veroorzaakt door een inrichting waarin meerdere koel- of vriesinstallaties als bedoeld in [artikel 4, vijfde lid, onderdeel c, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) in een machinekamer aanwezig zijn, en
+e.bijlage 1, tabel 7, indien het risico wordt veroorzaakt door een inrichting waarin meerdere koel- of vriesinstallaties als bedoeld in artikel 4, vijfde lid, onderdeel c, van het besluit in een machinekamer aanwezig zijn, en
 
 f.bijlage 1, tabel 8, indien het risico wordt veroorzaakt door een inrichting als bedoeld in artikel 1c.  
 2. Voor de toepassing van bijlage 1, tabel 3, geldt dat:
 
 a. indien binnen een opslagvoorziening het zwavelgehalte, uitgedrukt in gewichtspercentage, danwel het gehalte van chloor, fluor en broom gezamenlijk, uitgedrukt in gewichtspercentage, hoger is dan de in tabel 3 genoemde stikstofcategorie, de afstand behorende bij de in de tabel 3 daarop volgende hogere stikstofcategorie wordt gehanteerd, en  
 
-b. indien er sprake is van een sterk wisselende, op het moment van de aanvraag om een vergunning als bedoeld in [artikel 4, eerste tot en met vierde lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), juncto [artikel 15 van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) onbekende, samenstelling van de aanwezige gevaarlijke stoffen, bij de toepassing van tabel 3 een stikstofgehalte van 10% wordt gehanteerd.  
+b. indien er sprake is van een sterk wisselende, op het moment van de aanvraag om een vergunning als bedoeld in artikel 4, eerste tot en met vierde lid, juncto artikel 15 van het besluit onbekende, samenstelling van de aanwezige gevaarlijke stoffen, bij de toepassing van tabel 3 een stikstofgehalte van 10% wordt gehanteerd.  
 3.  Voor de toepassing van bijlage 1, tabel 6: 
 
 a. is de hoogste afscheider- of verdampingstemperatuur bepalend. Indien die hoogste temperatuur wordt bepaald door een afscheidervat waarin minder dan 400 kg ammoniak aanwezig is, mag in afwijking van de vorige zin de afstand worden toegepast die behoort bij de werktemperatuur die heerst in het afscheidervat met de op een na hoogste werktemperatuur, en  
 
 b. wordt, indien de desbetreffende installatie niet is uitgerust met een pompbeveiliging, de bij de opstellingsuitvoeringen 2 en 3 vermelde afstand vermeerderd met 30 meter.    
 4.  Voor de toepassing van bijlage 1, tabel 7, wordt, indien een of meer van de installaties in opstellingsuitvoering 2 of 3 niet is uitgerust met een pompbeveiliging, de afstand die volgt uit tabel 7 vermeerderd met 30 meter.  
-5.  Indien bij de vaststelling van een besluit als bedoeld in de [artikelen 3.1, eerste tot en met derde lid](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [3.6, eerste lid](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [3.26, eerste lid](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [3.28, eerste lid](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [4.2, eerste lid](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), of [4.4, eerste lid, onder a, van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) en bij het verlenen van een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 2º of 3º, of tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan of de beheersverordening wordt afgeweken dan wel krachtens [artikel 11 van de Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md) van de bouwverordening wordt afgeweken zodanige voorschriften aan dat besluit zijn verbonden of op zodanige wijze toepassing is gegeven aan [artikel 2.30](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of [2.31, eerste lid, aanhef en onder b, of tweede lid, aanhef en onder b, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), dat binnen drie jaar na vaststelling van dat besluit aan de afstanden, bedoeld in het eerste lid, voorzover het betreft kwetsbare objecten, wordt voldaan, zijn, in afwijking van dat lid, gedurende die drie jaar de in acht te nemen afstanden tot de op het tijdstip van vaststelling van dat besluit aanwezige kwetsbare objecten, de op dat tijdstip bestaande afstanden, indien die afstanden groter zijn dan de afstanden die overeenkomen met de risicocontour 10<sup>–5</sup> per jaar.  
+5.  Indien bij de vaststelling van een besluit als bedoeld in de artikelen 3.1, eerste tot en met derde lid, 3.6, eerste lid, 3.26, eerste lid, 3.28, eerste lid, 4.2, eerste lid, of 4.4, eerste lid, onder a, van de Wet ruimtelijke ordening en bij het verlenen van een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 2º of 3º, of tweede lid, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan of de beheersverordening wordt afgeweken dan wel krachtens artikel 11 van de Woningwet van de bouwverordening wordt afgeweken zodanige voorschriften aan dat besluit zijn verbonden of op zodanige wijze toepassing is gegeven aan artikel 2.30 of 2.31, eerste lid, aanhef en onder b, of tweede lid, aanhef en onder b, van de Wet algemene bepalingen omgevingsrecht, dat binnen drie jaar na vaststelling van dat besluit aan de afstanden, bedoeld in het eerste lid, voorzover het betreft kwetsbare objecten, wordt voldaan, zijn, in afwijking van dat lid, gedurende die drie jaar de in acht te nemen afstanden tot de op het tijdstip van vaststelling van dat besluit aanwezige kwetsbare objecten, de op dat tijdstip bestaande afstanden, indien die afstanden groter zijn dan de afstanden die overeenkomen met de risicocontour 10<sup>–5</sup> per jaar.  
 
 ###§ 3 
 
@@ -107,12 +107,12 @@ b. wordt, indien de desbetreffende installatie niet is uitgerust met een pompbev
 
 ### Artikel  3  
 
-1.  De inrichtingen, bedoeld in [artikel 4, zesde lid, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), en de gevallen, bedoeld in [artikel 5, vierde lid, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), waarvoor het plaatsgebonden risico, in afwijking van [artikel 4, vijfde lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), onderscheidenlijk [artikel 5, derde lid, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), mag worden berekend, zijn de inrichtingen, bedoeld in [artikel 4, vijfde lid, onderdeel b, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), onderscheidenlijk de besluiten, bedoeld in [artikel 5, eerste en tweede lid, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), voorzover die besluiten betrekking hebben op een gebied dat geheel of gedeeltelijk ligt binnen het invloedsgebied van een inrichting als bedoeld in [artikel 4, vijfde lid, onderdeel b, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md).   
+1.  De inrichtingen, bedoeld in artikel 4, zesde lid, van het besluit, en de gevallen, bedoeld in artikel 5, vierde lid, van het besluit, waarvoor het plaatsgebonden risico, in afwijking van artikel 4, vijfde lid, onderscheidenlijk artikel 5, derde lid, van het besluit, mag worden berekend, zijn de inrichtingen, bedoeld in artikel 4, vijfde lid, onderdeel b, van het besluit, onderscheidenlijk de besluiten, bedoeld in artikel 5, eerste en tweede lid, van het besluit, voorzover die besluiten betrekking hebben op een gebied dat geheel of gedeeltelijk ligt binnen het invloedsgebied van een inrichting als bedoeld in artikel 4, vijfde lid, onderdeel b, van het besluit.   
 2.  Indien het bevoegd gezag toepassing geeft aan het eerste lid, wordt: 
 
 a. het plaatsgebonden risico berekend met gebruikmaking van de rekenmethodiek Bevi, en  
 
-b. in het belang van een doelmatige brandbestrijding en brandpreventie een zodanige afstand, gerekend vanaf de uitwendige scheidingsconstructie, bedoeld in [artikel 1.1 van het Bouwbesluit 2012](../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), van het gebouw of het onderdeel daarvan of van de buitenzijde van de opslagplaats in de buitenlucht, waar verpakte gevaarlijke afvalstoffen of verpakte gevaarlijke stoffen, niet zijnde nitraathoudende kunstmeststoffen worden opgeslagen, tot al dan niet geprojecteerde kwetsbare en beperkt kwetsbare objecten in acht genomen, dat dat gebouw of dat onderdeel daarvan of die opslagplaats bij brand voldoende bereikbaar is en dat het overslaan van brand naar andere gebouwen of opslagplaatsen wordt voorkomen.    
+b. in het belang van een doelmatige brandbestrijding en brandpreventie een zodanige afstand, gerekend vanaf de uitwendige scheidingsconstructie, bedoeld in artikel 1.1 van het Bouwbesluit 2012, van het gebouw of het onderdeel daarvan of van de buitenzijde van de opslagplaats in de buitenlucht, waar verpakte gevaarlijke afvalstoffen of verpakte gevaarlijke stoffen, niet zijnde nitraathoudende kunstmeststoffen worden opgeslagen, tot al dan niet geprojecteerde kwetsbare en beperkt kwetsbare objecten in acht genomen, dat dat gebouw of dat onderdeel daarvan of die opslagplaats bij brand voldoende bereikbaar is en dat het overslaan van brand naar andere gebouwen of opslagplaatsen wordt voorkomen.    
 
 ###§ 4 
 
@@ -120,14 +120,14 @@ b. in het belang van een doelmatige brandbestrijding en brandpreventie een zodan
 
 ### Artikel  4  
 
-1.  Aan de grenswaarden, genoemd in de [artikelen 6, eerste lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [7, eerste lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [8, eerste en derde lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [17, eerste lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [18, eerste lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), en [24, eerste lid, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), en aan de richtwaarden, genoemd in de [artikelen 6, tweede lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [7, tweede lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), en [8, tweede lid, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), wordt voldaan, onderscheidenlijk zoveel mogelijk voldaan, op de gevel van kwetsbare objecten en beperkt kwetsbare objecten.   
+1.  Aan de grenswaarden, genoemd in de artikelen 6, eerste lid, 7, eerste lid, 8, eerste en derde lid, 17, eerste lid, 18, eerste lid, en 24, eerste lid, van het besluit, en aan de richtwaarden, genoemd in de artikelen 6, tweede lid, 7, tweede lid, en 8, tweede lid, van het besluit, wordt voldaan, onderscheidenlijk zoveel mogelijk voldaan, op de gevel van kwetsbare objecten en beperkt kwetsbare objecten.   
 2.  In afwijking van het eerste lid wordt aan de grens- en richtwaarden, bedoeld in het eerste lid, voldaan, onderscheidenlijk zoveel mogelijk voldaan, op: 
 
 a. de grens van het gebied dat bestemd is voor het verblijf van zieken, ouderen, gehandicapten of minderjarigen, indien het desbetreffende object een ziekenhuis, bejaardenhuis, verpleeghuis, school, gebouw of een gedeelte van een gebouw dat bestemd is voor dagopvang van minderjarigen, openluchtzwembad of speeltuin is, en  
 
 b. de grens van het gebied dat bestemd is voor het verblijf van personen, indien het desbetreffende object een sportterrein of een kampeer- of ander recreatieterrein bestemd voor het verblijf van personen gedurende meerdere aaneengesloten dagen is.     
-3.  Met betrekking tot geprojecteerde kwetsbare en beperkt kwetsbare objecten wordt aan de grenswaarden, genoemd in de [artikelen 6, eerste lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [7, eerste lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), en [24, eerste lid, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) en de richtwaarden, genoemd in de [artikelen 6, tweede lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), en [7, tweede lid, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), voldaan, onderscheidenlijk zoveel mogelijk voldaan, op de plaats waar de gevel van het desbetreffende object gebouwd mag worden.   
-4.   Indien het desbetreffende object een object is als bedoeld in het tweede lid, onderdeel a of onderdeel b, wordt in afwijking van het derde lid aan de grenswaarden, genoemd in de [artikelen 6, eerste lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [7, eerste lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), en [24, eerste lid, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) en de richtwaarden, genoemd in de [artikelen 6, tweede lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), en [7, tweede lid, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), voldaan, onderscheidenlijk zoveel mogelijk voldaan, op de grens van het gebied waar een dergelijk object op grond van het bestemmingsplan is toegelaten.  
+3.  Met betrekking tot geprojecteerde kwetsbare en beperkt kwetsbare objecten wordt aan de grenswaarden, genoemd in de artikelen 6, eerste lid, 7, eerste lid, en 24, eerste lid, van het besluit en de richtwaarden, genoemd in de artikelen 6, tweede lid, en 7, tweede lid, van het besluit, voldaan, onderscheidenlijk zoveel mogelijk voldaan, op de plaats waar de gevel van het desbetreffende object gebouwd mag worden.   
+4.   Indien het desbetreffende object een object is als bedoeld in het tweede lid, onderdeel a of onderdeel b, wordt in afwijking van het derde lid aan de grenswaarden, genoemd in de artikelen 6, eerste lid, 7, eerste lid, en 24, eerste lid, van het besluit en de richtwaarden, genoemd in de artikelen 6, tweede lid, en 7, tweede lid, van het besluit, voldaan, onderscheidenlijk zoveel mogelijk voldaan, op de grens van het gebied waar een dergelijk object op grond van het bestemmingsplan is toegelaten.  
 
 ### Artikel  5  
 
@@ -135,7 +135,7 @@ b. de grens van het gebied dat bestemd is voor het verblijf van personen, indien
 
 a. het vulpunt voor LPG, het ondergrondse of ingeterpte, onderscheidenlijk bovengrondse, reservoir, gerekend vanaf de aansluitpunten van de leidingen alsmede het bovengrondse deel van de leidingen en de pomp bij het reservoir en, indien bijlage 1, tabel 1, van toepassing is, de afleverzuil;  
 
-b. de uitwendige scheidingsconstructie, bedoeld in [artikel 1.1 van het Bouwbesluit 2012](../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), van het gebouw of het onderdeel daarvan of van de buitenzijde van de opslagplaats in de buitenlucht, waar verpakte gevaarlijke afvalstoffen, meststoffen groep 2, of verpakte gevaarlijke stoffen, niet zijnde nitraathoudende kunstmeststoffen worden opgeslagen, en  
+b. de uitwendige scheidingsconstructie, bedoeld in artikel 1.1 van het Bouwbesluit 2012, van het gebouw of het onderdeel daarvan of van de buitenzijde van de opslagplaats in de buitenlucht, waar verpakte gevaarlijke afvalstoffen, meststoffen groep 2, of verpakte gevaarlijke stoffen, niet zijnde nitraathoudende kunstmeststoffen worden opgeslagen, en  
 
 c. de machinekamer van de koel- of vriesinstallatie en de bij die installatie behorende, met de buitenlucht in verbinding staande leidingen naar de verdamper of verdampers en het afscheidervat of vloeistofvat, tot de gevel van kwetsbare objecten en beperkt kwetsbare objecten.     
 2.  In afwijking van het eerste lid gelden de afstanden, bedoeld in de artikelen 2 en 9, tot: 
@@ -152,7 +152,7 @@ b. de grens van het gebied dat bestemd is voor het verblijf van personen, indien
 
 ### Artikel  6  
 
-1. Voor de toepassing van de [artikelen 12, eerste lid, aanhef en onderdeel a](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), en [13, eerste lid, aanhef en onderdeel a, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) met betrekking tot de verantwoording van het groepsrisico van een inrichting als bedoeld in [artikel 4, vijfde lid, onderdelen a tot en met c, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), worden de personen meegeteld die aanwezig zijn in het invloedsgebied dat in bijlage 2 is vermeld bij de desbetreffende inrichting en, in geval van geprojecteerde kwetsbare en beperkt kwetsbare objecten, de personen die na uitvoering van het bestemmingsplan voorzover dat plan betrekking heeft op dat invloedsgebied, in dat invloedsgebied aanwezig zijn.  
+1. Voor de toepassing van de artikelen 12, eerste lid, aanhef en onderdeel a, en 13, eerste lid, aanhef en onderdeel a, van het besluit met betrekking tot de verantwoording van het groepsrisico van een inrichting als bedoeld in artikel 4, vijfde lid, onderdelen a tot en met c, van het besluit, worden de personen meegeteld die aanwezig zijn in het invloedsgebied dat in bijlage 2 is vermeld bij de desbetreffende inrichting en, in geval van geprojecteerde kwetsbare en beperkt kwetsbare objecten, de personen die na uitvoering van het bestemmingsplan voorzover dat plan betrekking heeft op dat invloedsgebied, in dat invloedsgebied aanwezig zijn.  
 2.  De afstanden tot de grens van het invloedsgebied, bedoeld in bijlage 2, tabellen 1 tot en met 4, gelden onderscheidenlijk: 
 
 a. voor LPG-tankstations: vanaf het vulpunt voor LPG, het ondergrondse of ingeterpte, onderscheidenlijk bovengrondse, reservoir, gerekend vanaf de aansluitpunten van de leidingen alsmede het bovengrondse deel van de leidingen en de pomp bij het reservoir;  
@@ -167,7 +167,7 @@ c. voor koel- en vriesinstallaties met ammoniak: vanaf de machinekamer of, indie
 
 ### Artikel  7  
 
-In de gevallen, bedoeld in de [artikelen 14, eerste lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [15, eerste lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [16](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [17, eerste lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [18, eerste lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), en [24, eerste lid, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), worden het plaatsgebonden risico, onderscheidenlijk het groepsrisico, berekend met toepassing van de rekenmethodiek Bevi, met dien verstande dat voor de berekening van het groepsrisico in het gebied, gelegen tussen de risicocontour 10<sup>-5</sup> per jaar en de grens van het invloedsgebied, worden meegerekend: 
+In de gevallen, bedoeld in de artikelen 14, eerste lid, 15, eerste lid, 16, 17, eerste lid, 18, eerste lid, en 24, eerste lid, van het besluit, worden het plaatsgebonden risico, onderscheidenlijk het groepsrisico, berekend met toepassing van de rekenmethodiek Bevi, met dien verstande dat voor de berekening van het groepsrisico in het gebied, gelegen tussen de risicocontour 10<sup>-5</sup> per jaar en de grens van het invloedsgebied, worden meegerekend: 
 
 a. de in dat gebied op het tijdstip waarop de berekening wordt uitgevoerd aanwezige kwetsbare en beperkt kwetsbare objecten, en  
 
@@ -175,9 +175,9 @@ b. de in dat gebied op het tijdstip waarop de berekening wordt uitgevoerd geproj
 
 ### Artikel  8  
 
-1.  In de gevallen, bedoeld in de [artikelen 14, eerste lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [15, eerste lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [16](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [17, eerste lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [18, eerste lid](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), en [24, eerste lid, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), worden het plaatsgebonden risico, onderscheidenlijk het groepsrisico, berekend op basis van gegevens met betrekking tot: 
+1.  In de gevallen, bedoeld in de artikelen 14, eerste lid, 15, eerste lid, 16, 17, eerste lid, 18, eerste lid, en 24, eerste lid, van het besluit, worden het plaatsgebonden risico, onderscheidenlijk het groepsrisico, berekend op basis van gegevens met betrekking tot: 
 
-a. de aard en de hoeveelheid gevaarlijke stoffen die in een inrichting als bedoeld in [artikel 15, eerste lid, onderdelen a tot en met d, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), die het plaatsgebonden risico en het groepsrisico veroorzaakt of mede veroorzaakt, aanwezig kan zijn;  
+a. de aard en de hoeveelheid gevaarlijke stoffen die in een inrichting als bedoeld in artikel 15, eerste lid, onderdelen a tot en met d, van het besluit, die het plaatsgebonden risico en het groepsrisico veroorzaakt of mede veroorzaakt, aanwezig kan zijn;  
 
 b. de insluitsystemen waarin die gevaarlijke stoffen voorkomen;  
 
@@ -186,17 +186,17 @@ c. de toegepaste maatregelen ter beperking van het plaatsgebonden risico en het 
 d. het aantal personen en de spreiding van personen binnen het invloedsgebied van een inrichting als bedoeld in onderdeel a.     
 2.  Voor de berekening van het plaatsgebonden risico en het groepsrisico, bedoeld in het eerste lid, wordt uitsluitend gebruikgemaakt van gegevens die zijn opgenomen in: 
 
-a. de voor een inrichting als bedoeld in [artikel 15, eerste lid, onderdelen a tot en met d, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) geldende vergunning krachtens [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+a. de voor een inrichting als bedoeld in artikel 15, eerste lid, onderdelen a tot en met d, van het besluit geldende vergunning krachtens artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht;  
 
 b. de op een vergunning als bedoeld in onderdeel a betrekking hebbende aanvraag en de bij die aanvraag gevoegde stukken;  
 
-c. een met betrekking tot een inrichting waarop [paragraaf 3 van het Besluit risico’s zware ongevallen 1999](../../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) van toepassing is, ingediend veiligheidsrapport als bedoeld in [artikel 10 van dat besluit](../../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md), dat overeenkomstig [artikel 16 van dat besluit](../../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) door het bevoegd gezag is beoordeeld, en  
+c. een met betrekking tot een inrichting waarop paragraaf 3 van het Besluit risico’s zware ongevallen 1999 van toepassing is, ingediend veiligheidsrapport als bedoeld in artikel 10 van dat besluit, dat overeenkomstig artikel 16 van dat besluit door het bevoegd gezag is beoordeeld, en  
 
-d. de basisregistratie personen en, voor kwetsbare en beperkt kwetsbare objecten, niet zijnde een woning als bedoeld in [artikel 1, eerste lid, onderdeel s, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), de door de desbetreffende gemeente verstrekte documenten over het aantal personen en het redelijkerwijs te verwachten aantal personen en de spreiding van personen binnen het invloedsgebied van een inrichting als bedoeld in [artikel 15, eerste lid, onderdelen a tot en met d, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md).    
+d. de basisregistratie personen en, voor kwetsbare en beperkt kwetsbare objecten, niet zijnde een woning als bedoeld in artikel 1, eerste lid, onderdeel s, van het besluit, de door de desbetreffende gemeente verstrekte documenten over het aantal personen en het redelijkerwijs te verwachten aantal personen en de spreiding van personen binnen het invloedsgebied van een inrichting als bedoeld in artikel 15, eerste lid, onderdelen a tot en met d, van het besluit.    
 
 ### Artikel  8a  
 
-Indien toepassing van de rekenmethodiek Bevi voor een inrichting als bedoeld in [artikel 15, eerste lid, onderdeel c van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) leidt tot een afstand die kleiner is dan de bij een inrichting uit dezelfde categorie behorende grootste afstand genoemd in tabel 6 of 7 van bijlage 1, geldt de in die bijlage genoemde grootste afstand als minimaal aan te houden afstand. 
+Indien toepassing van de rekenmethodiek Bevi voor een inrichting als bedoeld in artikel 15, eerste lid, onderdeel c van het besluit leidt tot een afstand die kleiner is dan de bij een inrichting uit dezelfde categorie behorende grootste afstand genoemd in tabel 6 of 7 van bijlage 1, geldt de in die bijlage genoemde grootste afstand als minimaal aan te houden afstand. 
 
 ### Artikel  8b  
 
@@ -217,16 +217,16 @@ Indien in een geval als bedoeld in artikel 7 de rekenmethodiek Bevi vanwege spec
 
 ### Artikel  9  
 
-1. De afstanden tot kwetsbare objecten, bedoeld in [artikel 17, tweede en vijfde lid, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), zijn de afstanden die zijn vermeld in bijlage 1, tabel 2, indien het risico wordt veroorzaakt door een LPG-tankstation als bedoeld in [artikel 4, vijfde lid, onderdeel a, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md).
-2. De afstanden tot kwetsbare objecten, bedoeld in [artikel 18, tweede lid, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), zijn de afstanden die zijn vermeld in of volgen uit: 
+1. De afstanden tot kwetsbare objecten, bedoeld in artikel 17, tweede en vijfde lid, van het besluit, zijn de afstanden die zijn vermeld in bijlage 1, tabel 2, indien het risico wordt veroorzaakt door een LPG-tankstation als bedoeld in artikel 4, vijfde lid, onderdeel a, van het besluit.
+2. De afstanden tot kwetsbare objecten, bedoeld in artikel 18, tweede lid, van het besluit, zijn de afstanden die zijn vermeld in of volgen uit: 
 
-a. bijlage 1, tabel 2a, indien het risico wordt veroorzaakt door een LPG-tankstation als bedoeld in [artikel 4, vijfde lid, onderdeel a, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md); 
+a. bijlage 1, tabel 2a, indien het risico wordt veroorzaakt door een LPG-tankstation als bedoeld in artikel 4, vijfde lid, onderdeel a, van het besluit; 
 
-b.bijlage 1, tabel 3, indien het risico wordt veroorzaakt door een inrichting waar verpakte gevaarlijke afvalstoffen of verpakte gevaarlijke stoffen, niet zijnde nitraathoudende kunstmeststoffen worden opgeslagen als bedoeld in [artikel 4, vijfde lid, onderdeel b, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md); 
+b.bijlage 1, tabel 3, indien het risico wordt veroorzaakt door een inrichting waar verpakte gevaarlijke afvalstoffen of verpakte gevaarlijke stoffen, niet zijnde nitraathoudende kunstmeststoffen worden opgeslagen als bedoeld in artikel 4, vijfde lid, onderdeel b, van het besluit; 
 
-c. bijlage 1, tabel 6, indien het risico wordt veroorzaakt door een inrichting waarin een koel- of vriesinstallatie als bedoeld in [artikel 4, vijfde lid, onderdeel c, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), aanwezig is;  
+c. bijlage 1, tabel 6, indien het risico wordt veroorzaakt door een inrichting waarin een koel- of vriesinstallatie als bedoeld in artikel 4, vijfde lid, onderdeel c, van het besluit, aanwezig is;  
 
-d. bijlage 1, tabel 7, indien het risico wordt veroorzaakt door een inrichting waarin meerdere koel- of vriesinstallaties als bedoeld in [artikel 4, vijfde lid, onderdeel c, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) in een machinekamer aanwezig zijn, en 
+d. bijlage 1, tabel 7, indien het risico wordt veroorzaakt door een inrichting waarin meerdere koel- of vriesinstallaties als bedoeld in artikel 4, vijfde lid, onderdeel c, van het besluit in een machinekamer aanwezig zijn, en 
 
 e.bijlage 1, tabel 8, indien het risico wordt veroorzaakt door een inrichting als bedoeld in artikel 1c.  
 3. Artikel 2, tweede, derde en vierde lid, zijn van overeenkomstige toepassing.
@@ -237,7 +237,7 @@ e.bijlage 1, tabel 8, indien het risico wordt veroorzaakt door een inrichting al
 
 ###Artikel 10 
 
-Deze regeling treedt in werking op het tijdstip waarop het [besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) in werking treedt.
+Deze regeling treedt in werking op het tijdstip waarop het besluit in werking treedt.
 
 ###Artikel 11 
 
@@ -410,7 +410,7 @@ Tabel 8. Afstanden in meters tot al dan niet geprojecteerde kwetsbare en beperkt
 
 ### Bijlage 2  
 
-####Afstanden in meters tot de grens van het invloedsgebied in verband met de verantwoording van het groepsrisico, bedoeld in de [artikelen 12, eerste lid, aanhef en onderdeel a](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), en [13, eerste lid, aanhef en onderdeel a, van het besluit](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), met betrekking tot categoriale inrichtingen.
+####Afstanden in meters tot de grens van het invloedsgebied in verband met de verantwoording van het groepsrisico, bedoeld in de artikelen 12, eerste lid, aanhef en onderdeel a, en 13, eerste lid, aanhef en onderdeel a, van het besluit, met betrekking tot categoriale inrichtingen.
 
 ### *LPG-tankstations* 
 
