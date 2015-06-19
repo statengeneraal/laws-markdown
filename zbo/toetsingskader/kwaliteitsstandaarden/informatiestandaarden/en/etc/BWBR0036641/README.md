@@ -3,7 +3,7 @@
 ## Toetsingskader kwaliteitsstandaarden, informatiestandaarden en meetinstrumenten 2015
 
 Zorginstituut Nederland,  
-Gelet op artikel 66, tweede lid, van de Zorgverzekeringswet,
+Gelet op artikel 66b, tweede lid, van de Zorgverzekeringswet,
 
 Overwegende dat,
 
@@ -13,8 +13,6 @@ heeft in zijn vergadering van 26 mei 2015 besloten:
 ### Artikel  1  
 
 ####Criteria
-
-Treedt in werking per 01-06-2015 
 
 ### *Criteria voor kwaliteitsstandaarden* 
 
@@ -54,8 +52,6 @@ Het Zorginstituut toetst deze kwaliteitsstandaarden, informatiestandaarden en me
 ### Artikel  2  
 
 ####Slotbepalingen
-
-Treedt in werking per 01-06-2015 
 
 1.  Deze beleidsregel treedt in werking met ingang van 1 juni 2015.   
 2.  Deze beleidsregel wordt aangehaald als Toetsingskader kwaliteitsstandaarden, informatiestandaarden en meetinstrumenten 2015.   

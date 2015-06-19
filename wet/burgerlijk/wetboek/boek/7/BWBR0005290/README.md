@@ -56,12 +56,12 @@ Wanneer de koop is gesloten zonder dat de prijs is bepaald, is de koper een rede
 
 ### Artikel  5  
 
-1.  In deze titel wordt verstaan onder consumentenkoop: de koop met betrekking tot een roerende zaak die wordt gesloten door een verkoper die handelt in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit, al dan niet mede via een andere persoon die namens hem of voor zijn rekening optreedt, en een koper, natuurlijk persoon, die handelt voor doeleinden buiten zijn bedrijfs- of beroepsactiviteit.   
+1.  In deze titel wordt verstaan onder consumentenkoop: de koop met betrekking tot een roerende zaak die wordt gesloten door een verkoper die handelt in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit en een koper, natuurlijk persoon, die handelt voor doeleinden buiten zijn bedrijfs- of beroepsactiviteit.   
 2.   Wordt de zaak verkocht door een gevolmachtigde die handelt in de uitoefening van beroep of bedrijf, dan wordt de koop aangemerkt als een consumentenkoop, tenzij de koper ten tijde van het sluiten van de overeenkomst weet dat de volmachtgever niet handelt in de uitoefening van een beroep of bedrijf.    
 3.   De vorige leden zijn niet van toepassing indien de overeenkomst door leidingen naar de verbruiker aangevoerd water betreft.    
 4.  Indien de te leveren roerende zaak nog tot stand moet worden gebracht en de overeenkomst krachtens welke deze zaak moet worden geleverd voldoet aan de omschrijving van artikel 750, dan wordt de overeenkomst mede als een consumentenkoop aangemerkt indien de overeenkomst wordt gesloten door een aannemer die handelt in de uitoefening van een beroep of bedrijf, en een opdrachtgever, natuurlijk persoon, die niet handelt in de uitoefening van een beroep of bedrijf. De bepalingen van deze titel en die van afdeling 1 van titel 12 zijn naast elkaar van toepassing. In geval van strijd zijn de bepalingen van deze titel van toepassing.   
-5.  Met uitzondering van de artikelen 9, 11 en 19a, zijn de bepalingen over consumentenkoop van overeenkomstige toepassing op de levering van elektriciteit, warmte en koude en gas, voor zover deze niet voor verkoop gereed zijn gemaakt in een beperkt volume of in een bepaalde hoeveelheid, alsmede op de levering van stadsverwarming en de levering van digitale inhoud die niet op een materiële drager is geleverd, aan een natuurlijk persoon, die handelt voor doeleinden buiten zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit.   
-6.  Voor de toepassing van de artikelen 9, 11 en 19a wordt een overeenkomst tussen enig persoon die handelt in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit, al dan niet mede via een andere persoon die namens hem of voor zijn rekening optreedt, en de natuurlijk persoon, die handelt voor doeleinden buiten zijn bedrijfs- of beroepsactiviteit, die zowel de levering van roerende zaken als het verrichten van diensten betreft, uitsluitend aangemerkt als consumentenkoop. 
+5.  Met uitzondering van de artikelen 9, 11 en 19a, zijn de bepalingen over consumentenkoop van overeenkomstige toepassing op de levering van elektriciteit, warmte en koude en gas, voor zover deze niet voor verkoop gereed zijn gemaakt in een beperkt volume of in een bepaalde hoeveelheid, alsmede op de levering van stadsverwarming en op de levering van digitale inhoud die niet op een materiële drager is geleverd, maar die wel is geïndividualiseerd en waarover feitelijke macht kan worden uitgeoefend, aan een natuurlijk persoon, die handelt voor doeleinden buiten zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit.   
+6.  Voor de toepassing van de artikelen 9, 11 en 19a wordt een overeenkomst tussen enig persoon die handelt in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit en de natuurlijk persoon, die handelt voor doeleinden buiten zijn bedrijfs- of beroepsactiviteit, die zowel de levering van roerende zaken als het verrichten van diensten betreft, uitsluitend aangemerkt als consumentenkoop. 
 
 ### Artikel  6  
 
@@ -84,7 +84,7 @@ b.producent: de fabrikant van de zaak, degene die de zaak in de Europese Economi
 ### Artikel  7  
 
 1.  Degene aan wie een zaak is toegezonden en die redelijkerwijze mag aannemen dat deze toezending is geschied ten einde hem tot een koop te bewegen, is ongeacht enige andersluidende mededeling van de verzender jegens deze bevoegd de zaak om niet te behouden, tenzij het hem is toe te rekenen dat de toezending is geschied.    
-2.  Geen verplichting tot betaling ontstaat voor een natuurlijke persoon, die handelt voor doeleinden buiten zijn bedrijfs- of beroepsactiviteit, bij de ongevraagde levering van zaken, financiële producten, water, gas, elektriciteit, stadsverwarming of digitale inhoud, dan wel de ongevraagde verrichting van diensten, als bedoeld in artikel 193i onderdeel f van Boek 6. Het uitblijven van een reactie van een natuurlijk persoon, die handelt voor doeleinden buiten zijn bedrijfs- of beroepsactiviteit, op de ongevraagde levering of verstrekking wordt niet als aanvaarding aangemerkt. Wordt desalniettemin een zaak toegezonden als bedoeld in de eerste zin, dan is het in lid 1 bepaalde omtrent de bevoegdheid, de zaak om niet te behouden, van overeenkomstige toepassing.   
+2.  Geen verplichting tot betaling ontstaat voor een natuurlijke persoon, die handelt voor doeleinden buiten zijn bedrijfs- of beroepsactiviteit, bij de ongevraagde levering van zaken, financiële producten, water, gas, elektriciteit, stadsverwarming of digitale inhoud die niet op een materiële drager is geleverd, ongeacht of de digitale inhoud individualiseerbaar is en of er feitelijke macht over kan worden uitgeoefend, dan wel de ongevraagde verrichting van diensten, als bedoeld in artikel 193i onderdeel f van Boek 6. Het uitblijven van een reactie van een natuurlijk persoon, die handelt voor doeleinden buiten zijn bedrijfs- of beroepsactiviteit, op de ongevraagde levering of verstrekking wordt niet als aanvaarding aangemerkt. Wordt desalniettemin een zaak toegezonden als bedoeld in de eerste zin, dan is het in lid 1 bepaalde omtrent de bevoegdheid, de zaak om niet te behouden, van overeenkomstige toepassing. Dit lid is van toepassing ongeacht of de verzender wordt vertegenwoordigd.   
 3.  Indien de ontvanger in de gevallen, bedoeld in de leden 1–2, de zaak terugzendt, komen de kosten hiervan voor rekening van de verzender.  
 
 ### Artikel  8  
@@ -100,7 +100,8 @@ Wordt een nieuw gebouwde of te bouwen woning, bestaande uit een onroerende zaak 
 1.  De verkoper is verplicht de verkochte zaak met toebehoren in eigendom over te dragen en af te leveren. Onder toebehoren zijn de aanwezige titelbewijzen en bescheiden begrepen; voor zover de verkoper zelf daarbij belang behoudt, is hij slechts verplicht om aan de koper op diens verlangen en op diens kosten een afschrift of uittreksel af te geven.    
 2.   Onder aflevering wordt verstaan het stellen van de zaak in het bezit van de koper.    
 3.   In geval van koop met eigendomsvoorbehoud wordt onder aflevering verstaan het stellen van de zaak in de macht van de koper.    
-4.  Bij een consumentenkoop levert de verkoper de zaken onverwijld en in ieder geval binnen dertig dagen na het sluiten van de overeenkomst af. De partijen kunnen een andere termijn overeenkomen. Op de termijn van dertig dagen is Verordening (EEG, Euratom) nr. 1182/71 (PbEG L 124) van de Raad van 3 juni 1971 houdende vaststelling van de regels die van toepassing zijn op termijnen, data en aanvangs- en vervaltijden van overeenkomstige toepassing. 
+4.  Bij een consumentenkoop levert de verkoper de zaken onverwijld en in ieder geval binnen dertig dagen na het sluiten van de overeenkomst af. De partijen kunnen een andere termijn overeenkomen. Op de termijn van dertig dagen is Verordening (EEG, Euratom) nr. 1182/71 (PbEG L 124) van de Raad van 3 juni 1971 houdende vaststelling van de regels die van toepassing zijn op termijnen, data en aanvangs- en vervaltijden van overeenkomstige toepassing.  
+5.  Indien de consumentenkoop tot stand is gekomen via een andere persoon, handelend in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit, die daarbij optreedt namens of voor rekening van de verkoper, kan de consument zich ook jegens die andere persoon beroepen op het in de leden 1–4 bepaalde. 
 
 ### Artikel  10  
 
@@ -112,7 +113,8 @@ Wordt een nieuw gebouwde of te bouwen woning, bestaande uit een onroerende zaak 
 ### Artikel  11  
 
 1.  Bij een consumentenkoop waarbij de zaak bij de koper wordt bezorgd, is de zaak voor het risico van de koper vanaf het moment dat de koper of een door hem aangewezen derde, die niet de vervoerder is, de zaak heeft ontvangen.   
-2.  In geval de koper een vervoerder aanwijst en de keuze voor deze vervoerder niet door de verkoper wordt aangeboden, gaat het risico over op de koper op het moment van ontvangst van de zaak door de vervoerder.  
+2.  In geval de koper een vervoerder aanwijst en de keuze voor deze vervoerder niet door de verkoper wordt aangeboden, gaat het risico over op de koper op het moment van ontvangst van de zaak door de vervoerder.   
+3.  Indien de consumentenkoop tot stand is gekomen via een andere persoon, handelend in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit, die daarbij optreedt namens of voor rekening van de verkoper, kan de consument zich ook jegens die andere persoon beroepen op het in de leden 1–2 bepaalde. 
 
 ### Artikel  12  
 
@@ -162,7 +164,7 @@ Wanneer tegen de koper een vordering wordt ingesteld tot uitwinning of tot erken
 
 ### Artikel  19a  
 
-1.  Komt bij de verkoper bij een consumentenkoop de in artikel 9 lid 4 gestelde of overeengekomen termijn niet na, dan is hij in verzuim wanneer hij door de koper in gebreke wordt gesteld bij een aanmaning waarbij hem een redelijke termijn voor de aflevering wordt gesteld, en nakoming binnen deze termijn uitblijft.   
+1.  Komt de verkoper bij een consumentenkoop de in artikel 9 lid 4 gestelde of overeengekomen termijn niet na, dan is hij in verzuim wanneer hij door de koper in gebreke wordt gesteld bij een aanmaning waarbij hem een redelijke termijn voor de aflevering wordt gesteld, en nakoming binnen deze termijn uitblijft.   
 2.  Het verzuim van de verkoper treedt zonder ingebrekestelling in wanneer: 
 
 a. de verkoper heeft geweigerd de zaken te leveren;  
@@ -170,7 +172,8 @@ a. de verkoper heeft geweigerd de zaken te leveren;
 b. aflevering binnen de overeengekomen levertermijn essentieel is, alle omstandigheden rond de sluiting van de overeenkomst in aanmerking genomen; of  
 
 c. de koper aan de verkoper voor het sluiten van de overeenkomst heeft medegedeeld dat aflevering voor of op een bepaalde datum essentieel is.     
-3.  Bij de ontbinding van een consumentenkoop wegens een tekortkoming in de nakoming van de in artikel 9 lid 4 bedoelde verbintenis vergoedt de verkoper onverwijld alle van de koper ontvangen betalingen.  
+3.  Bij de ontbinding van een consumentenkoop wegens een tekortkoming in de nakoming van de in artikel 9 lid 4 bedoelde verbintenis vergoedt de verkoper onverwijld alle van de koper ontvangen betalingen.   
+4.  Indien de consumentenkoop tot stand is gekomen via een andere persoon, handelend in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit, die daarbij optreedt namens of voor rekening van de verkoper, kan de consument zich ook jegens die andere persoon beroepen op het in de leden 1–3 bepaalde. 
 
 ### Artikel  20  
 

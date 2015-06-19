@@ -59,7 +59,7 @@ In de gevallen als bedoeld in artikel 4 en 5 beslist Onze Minister van Binnenlan
 1.  Alvorens een verklaring wordt afgegeven of geweigerd, wordt ten aanzien van de betrokken persoon door de Algemene Inlichtingen- en Veiligheidsdienst een veiligheidsonderzoek ingesteld.   
 2.  Het veiligheidsonderzoek omvat het instellen van een onderzoek naar gegevens die uit het oogpunt van de nationale veiligheid van belang zijn voor de vervulling van de desbetreffende vertrouwensfunctie. Hierbij wordt uitsluitend gelet op:
 
-a.justitiële en strafvorderlijke gegevens als bedoeld in de [Wet justitiële en strafvorderlijke gegevens](../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en gegevens als bedoeld in de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES alsmede van gegevens als bedoeld in de [Wet politiegegevens](../../../../wet/wet/politiegegevens/BWBR0022463/README.md) en van gegevens verwerkt in het kader van de uitvoering van de politietaak op Bonaire, Sint Eustatius en Saba;
+a.justitiële en strafvorderlijke gegevens als bedoeld in de Wet justitiële en strafvorderlijke gegevens en gegevens als bedoeld in de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES alsmede van gegevens als bedoeld in de Wet politiegegevens en van gegevens verwerkt in het kader van de uitvoering van de politietaak op Bonaire, Sint Eustatius en Saba;
 
 b.gegevens betreffende deelneming of steunverlening aan activiteiten die de nationale veiligheid kunnen schaden;
 
@@ -75,7 +75,13 @@ d.gegevens betreffende overige persoonlijke gedragingen en omstandigheden, naar 
 ### Artikel  9  
 
 1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is bevoegd, na het verstrijken van een termijn van vijf jaren of een veelvoud daarvan sinds het afgeven van de verklaring of indien hem blijkt van feiten of omstandigheden die een hernieuwd veiligheidsonderzoek rechtvaardigen, een veiligheidsonderzoek te doen instellen naar een persoon die een vertrouwensfunctie vervult. Voor het instellen van een hernieuwd veiligheidsonderzoek is de instemming van de betrokkene niet vereist.  
-2. Onder feiten en omstandigheden als bedoeld in het eerste lid kunnen worden gerekend gegevens die de Algemene Inlichtingen- en Veiligheidsdienst heeft verkregen door het verzamelen van justitiële en strafvorderlijke gegevens als bedoeld in de [Wet justitiële en strafvorderlijke gegevens](../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en van gegevens als bedoeld in de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES alsmede van gegevens als bedoeld in de [Wet politiegegevens](../../../../wet/wet/politiegegevens/BWBR0022463/README.md) en van gegevens verwerkt in het kader van de uitvoering van de politietaak op Bonaire, Sint Eustatius en Saba.
+2. Onder feiten en omstandigheden als bedoeld in het eerste lid kunnen worden gerekend gegevens die de Algemene Inlichtingen- en Veiligheidsdienst heeft verkregen door het verzamelen van justitiële en strafvorderlijke gegevens als bedoeld in de Wet justitiële en strafvorderlijke gegevens en van gegevens als bedoeld in de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES alsmede van gegevens als bedoeld in de Wet politiegegevens en van gegevens verwerkt in het kader van de uitvoering van de politietaak op Bonaire, Sint Eustatius en Saba.
+
+### Artikel  9a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De kosten die samenhangen met het verrichten van een veiligheidsonderzoek als bedoeld in de artikelen 7 en 9 komen ten laste van de werkgever.   
+2.  De bedragen ter vergoeding van de kosten worden bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgesteld.  
 
 ### Artikel  10  
 
@@ -88,8 +94,8 @@ Deze wet is niet van toepassing op de leden van de rechterlijke macht met rechts
 
 ### Artikel  12  
 
-1.  Artikel 4, tweede lid, is niet van toepassing in gevallen waarin een persoon met een vertrouwensfunctie wordt belast in het kader van de vervulling van werkelijke dienst in de zin van [paragraaf 5 van hoofdstuk 1 van de Kaderwet dienstplicht](../../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md) of van [hoofdstuk VII van de Dienstplichtwet BES](../../../../wet-BES/dienstplichtwet/bes/BWBR0028468/README.md).   
-2.  In de gevallen, bedoeld in het eerste lid, wordt het veiligheidsonderzoek niet eerder ingesteld dan twaalf weken voordat de betrokkene dient op te komen voor het vervullen van werkelijke dienst in de zin van [paragraaf 5 van hoofdstuk 1 van de Kaderwet dienstplicht](../../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md) of van [hoofdstuk VII van de Dienstplichtwet BES](../../../../wet-BES/dienstplichtwet/bes/BWBR0028468/README.md). Van het instellen van een veiligheidsonderzoek wordt vooraf mededeling gedaan aan de betrokkene.  
+1.  Artikel 4, tweede lid, is niet van toepassing in gevallen waarin een persoon met een vertrouwensfunctie wordt belast in het kader van de vervulling van werkelijke dienst in de zin van paragraaf 5 van hoofdstuk 1 van de Kaderwet dienstplicht of van hoofdstuk VII van de Dienstplichtwet BES.   
+2.  In de gevallen, bedoeld in het eerste lid, wordt het veiligheidsonderzoek niet eerder ingesteld dan twaalf weken voordat de betrokkene dient op te komen voor het vervullen van werkelijke dienst in de zin van paragraaf 5 van hoofdstuk 1 van de Kaderwet dienstplicht of van hoofdstuk VII van de Dienstplichtwet BES. Van het instellen van een veiligheidsonderzoek wordt vooraf mededeling gedaan aan de betrokkene.  
 
 ### Artikel  13  
 
@@ -98,7 +104,7 @@ Deze wet is niet van toepassing op de leden van de rechterlijke macht met rechts
 3.  Indien Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties voornemens is mededelingen als bedoeld in het eerste lid te doen, wordt ten aanzien van de betrokken persoon door de Algemene Inlichtingen- en Veiligheidsdienst een veiligheidsonderzoek ingesteld, mits de betrokkene daarmee schriftelijk heeft ingestemd.   
 4.  Het veiligheidsonderzoek omvat het instellen van een onderzoek naar gegevens die uit het oogpunt van de nationale veiligheid of de veiligheid of andere gewichtige belangen van de verzoekende mogendheid of volkenrechtelijke organisatie van belang zijn. Hierbij wordt uitsluitend gelet op: 
 
-a.justitiële en strafvorderlijke gegevens als bedoeld in de [Wet justitiële en strafvorderlijke gegevens](../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en gegevens als bedoeld in de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES alsmede van gegevens als bedoeld in de [Wet politiegegevens](../../../../wet/wet/politiegegevens/BWBR0022463/README.md) en van gegevens verwerkt in het kader van de uitvoering van de politietaak op Bonaire, Sint Eustatius en Saba;
+a.justitiële en strafvorderlijke gegevens als bedoeld in de Wet justitiële en strafvorderlijke gegevens en gegevens als bedoeld in de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES alsmede van gegevens als bedoeld in de Wet politiegegevens en van gegevens verwerkt in het kader van de uitvoering van de politietaak op Bonaire, Sint Eustatius en Saba;
 
 b.gegevens betreffende deelneming of steunverlening aan activiteiten die de nationale veiligheid en van de verzoekende mogendheid of volkenrechtelijke organisatie kunnen schaden;
 

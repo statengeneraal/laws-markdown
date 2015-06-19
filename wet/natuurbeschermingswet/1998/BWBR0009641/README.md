@@ -926,7 +926,7 @@ De eigenaar en gebruiker zijn verplicht de kentekenen die op grond van artikel 1
 Ten aanzien van voor de datum van inwerkingtreding van deze wet genomen besluiten tot toepassing van bestuursdwang en de daaruit voortvloeiende uitvoering van werken als bedoeld in artikel 29, eerste en tweede lid, van de Natuurbeschermingswet, blijft genoemde wet van toepassing.  
 
 ### Artikel  67a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 De artikelen 19km, 19kn en 19ko zijn niet van toepassing op projecten, plannen en andere handelingen die stikstofdepositie op voor stikstof gevoelige habitats in een Natura 2000-gebied veroorzaken indien: 
 

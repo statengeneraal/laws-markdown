@@ -1058,7 +1058,7 @@ a. de laagste uitkering niet minder bedraagt dan 75% van de hoogste uitkering; e
 
 b. de mate van variatie uiterlijk op de ingangsdatum van het pensioen wordt vastgesteld.     
 2.  Voor de toepassing van het eerste lid blijft in de periode tussen de ingangsdatum van het pensioen en het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, van de uitkering buiten aanmerking het gedeelte dat overeenkomt met het bedrag bedoeld in artikel 18d, derde lid, van de Wet op de loonbelasting 1964.   
-3.  In afwijking in zoverre van het eerste lid, onderdeel b, kan de mate van variatie uiterlijk bij het bereiken van de 65-jarige leeftijd worden vastgesteld indien het pensioen is ingegaan vóór 1 januari 2013. 
+3.  In afwijking in zoverre van het eerste lid, onderdeel b, kan de mate van variatie uiterlijk bij het bereiken van de 65<sup>5</sup>/<sub>12</sub>-jarige leeftijd worden vastgesteld indien het pensioen is ingegaan vóór 1 januari 2016. 
 
 ### Artikel  64  
 

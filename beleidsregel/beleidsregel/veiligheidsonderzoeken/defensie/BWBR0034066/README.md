@@ -3,24 +3,24 @@
 ##Beleidsregel veiligheidsonderzoeken Defensie
 
 De Minister van Defensie,  
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) alsmede de [artikelen 2](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md), [8](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) en [10 van de Wet veiligheidsonderzoeken](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md);
+Gelet op artikel 4:81 van de Algemene wet bestuursrecht alsmede de artikelen 2, 8 en 10 van de Wet veiligheidsonderzoeken;
 Besluit:    
 
 ### Artikel  1  
 
 1.  In deze beleidsregel wordt verstaan onder: 
 
-a.  *wet:* [Wet veiligheidsonderzoeken](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md);  
+a.  *wet:* Wet veiligheidsonderzoeken;  
 
-b.  *verklaring:* verklaring van geen bezwaar als bedoeld in [artikel 1, eerste lid, onder b, van de wet](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md);  
+b.  *verklaring:* verklaring van geen bezwaar als bedoeld in artikel 1, eerste lid, onder b, van de wet;  
 
-c.  *vertrouwensfunctie:* functie die krachtens [artikel 3, eerste lid, van de wet](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) als zodanig is aangewezen;  
+c.  *vertrouwensfunctie:* functie die krachtens artikel 3, eerste lid, van de wet als zodanig is aangewezen;  
 
-d.  *veiligheidsonderzoek:* veiligheidsonderzoek als bedoeld in [artikel 7 van de wet](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md);  
+d.  *veiligheidsonderzoek:* veiligheidsonderzoek als bedoeld in artikel 7 van de wet;  
 
-e.  *betrokkene:* persoon die belast is met een vertrouwensfunctie, alsmede de persoon als bedoeld in [artikel 4, eerste lid, van de wet](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md), die wordt belast met de vervulling van een vertrouwensfunctie, alsmede de persoon als bedoeld in [artikel 5, eerste lid, van de wet](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) die is belast met de vervulling van een functie die nadien als vertrouwensfunctie is aangewezen;  
+e.  *betrokkene:* persoon die belast is met een vertrouwensfunctie, alsmede de persoon als bedoeld in artikel 4, eerste lid, van de wet, die wordt belast met de vervulling van een vertrouwensfunctie, alsmede de persoon als bedoeld in artikel 5, eerste lid, van de wet die is belast met de vervulling van een functie die nadien als vertrouwensfunctie is aangewezen;  
 
-f.  *gegevens:* gegeven of gegevens, als bedoeld in [artikel 7, tweede lid, van de wet](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md);  
+f.  *gegevens:* gegeven of gegevens, als bedoeld in artikel 7, tweede lid, van de wet;  
 
 g. *partner:*
 
@@ -30,23 +30,23 @@ g. *partner:*
 
 (3) degene ten aanzien van wie uit het veiligheidsonderzoek blijkt dat deze een affectieve relatie met betrokkene onderhoudt, tenzij het betreft een bloedverwant in de eerste of tweede graad;    
 
-h.  *commandant:* hoofd van het Defensieonderdeel als bedoeld in het [Algemeen Organisatiebesluit Defensie 2005](../../../../../ministeriele-regeling/algemeen/organisatiebesluit/defensie/2005/BWBR0017799/README.md);  
+h.  *commandant:* hoofd van het Defensieonderdeel als bedoeld in het Algemeen Organisatiebesluit Defensie 2005;  
 
 i.  *AIVD:* Algemene Inlichtingen- en Veiligheidsdienst;  
 
 j.  *MIVD:* Militaire Inlichtingen- en Veiligheidsdienst.     
-2.  Deze beleidsregel bevat regels die worden toegepast bij de uitoefening van de bevoegdheid van de Minister van Defensie tot het weigeren of intrekken van een verklaring op grond van de [artikelen 2](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md), [8](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) en [10 van de wet](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md).   
+2.  Deze beleidsregel bevat regels die worden toegepast bij de uitoefening van de bevoegdheid van de Minister van Defensie tot het weigeren of intrekken van een verklaring op grond van de artikelen 2, 8 en 10 van de wet.   
 3.  Deze beleidsregel is van toepassing op veiligheidsonderzoeken en hernieuwde veiligheidsonderzoeken naar personen die door de Minister van Defensie aangewezen vertrouwensfuncties vervullen dan wel wensen te vervullen.  
 
 ### Artikel  2  
 
-1.  Het weigeren van een verklaring als bedoeld in [artikel 8 van de wet](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) en het intrekken van een verklaring als bedoeld in [artikel 10 van de wet](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) vindt in de regel plaats indien het naar betrokkene ingestelde veiligheidsonderzoek gegevens heeft opgeleverd betreffende het feit dat betrokkene is veroordeeld voor het plegen van, dan wel deelnemen aan, dan wel een transactie heeft aanvaard dan wel jegens hem/haar een strafbeschikking is opgelegd voor: 
+1.  Het weigeren van een verklaring als bedoeld in artikel 8 van de wet en het intrekken van een verklaring als bedoeld in artikel 10 van de wet vindt in de regel plaats indien het naar betrokkene ingestelde veiligheidsonderzoek gegevens heeft opgeleverd betreffende het feit dat betrokkene is veroordeeld voor het plegen van, dan wel deelnemen aan, dan wel een transactie heeft aanvaard dan wel jegens hem/haar een strafbeschikking is opgelegd voor: 
 
-a. een strafbaar feit als omschreven in [artikel 13, tweede lid, van de Opiumwet](../../../../../wet/opiumwet/BWBR0001941/README.md);  
+a. een strafbaar feit als omschreven in artikel 13, tweede lid, van de Opiumwet;  
 
-b. een strafbaar feit als omschreven in titel XIV, tweede boek, met uitzondering van de [artikelen 239](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [240, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+b. een strafbaar feit als omschreven in titel XIV, tweede boek, met uitzondering van de artikelen 239 en 240, van het Wetboek van Strafrecht;  
 
-c. een misdrijf waarop naar de wettelijke omschrijving een mogelijke gevangenisstraf van drie jaar of meer is gesteld, met uitzondering van het misdrijf als bedoeld in [artikel 300, eerste lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+c. een misdrijf waarop naar de wettelijke omschrijving een mogelijke gevangenisstraf van drie jaar of meer is gesteld, met uitzondering van het misdrijf als bedoeld in artikel 300, eerste lid, van het Wetboek van Strafrecht;  
 
 d. een of meer misdrijven, indien de vertrouwensfunctie wordt vervuld bij de Koninklijke Marechaussee.     
 2.  Het weigeren van een verklaring als bedoeld in het eerste lid vindt eveneens plaats indien betrokkene wordt verdacht van een van de daar gestelde strafbare feiten.   
@@ -70,7 +70,7 @@ c. de zienswijze van de commandant, in het geval betrokkene reeds een functie bi
 
 ### Artikel  3  
 
-De commandant van betrokkene wordt geïnformeerd over een voornemen tot intrekking van een verklaring als bedoeld in [artikel 10 van de wet](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md). In de gevallen, bedoeld in artikel 2, vierde lid, raadpleegt de MIVD schriftelijk de commandant omtrent de persoon van betrokkene. In de overige gevallen waarin sprake is van een voornemen tot intrekking van een verklaring staat het de commandant vrij op eigen initiatief een zienswijze aan de MIVD te verstrekken. 
+De commandant van betrokkene wordt geïnformeerd over een voornemen tot intrekking van een verklaring als bedoeld in artikel 10 van de wet. In de gevallen, bedoeld in artikel 2, vierde lid, raadpleegt de MIVD schriftelijk de commandant omtrent de persoon van betrokkene. In de overige gevallen waarin sprake is van een voornemen tot intrekking van een verklaring staat het de commandant vrij op eigen initiatief een zienswijze aan de MIVD te verstrekken. 
 
 ### Artikel  4  
 
@@ -79,7 +79,7 @@ De commandant van betrokkene wordt geïnformeerd over een voornemen tot intrekki
 
 ### Artikel  5  
 
-Het weigeren van een verklaring als bedoeld in [artikel 8 van de wet](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) kan plaatsvinden: 
+Het weigeren van een verklaring als bedoeld in artikel 8 van de wet kan plaatsvinden: 
 
 a. indien de betrokkene of diens partner direct voorafgaand aan de aanmelding voor een veiligheidsonderzoek niet gedurende een aaneengesloten periode van respectievelijk tien dan wel acht jaar (voor betrokkene) of vijf jaar (voor de partner van betrokkene) in Nederland verbleef en  
 
@@ -87,7 +87,7 @@ b. het voor de MIVD niet mogelijk is over de ontbrekende periode, wegens het nie
 
 ### Artikel  6  
 
-Het weigeren van een verklaring als bedoeld in [artikel 8 van de wet](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) en het intrekken van een verklaring als bedoeld in [artikel 10 van de wet](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md), kan plaatsvinden indien overige persoonlijke gedragingen en omstandigheden van betrokkene of diens partner aanleiding geven te concluderen dat onvoldoende waarborgen aanwezig zijn dat betrokkene onder alle omstandigheden de uit de vertrouwensfunctie voortvloeiende plichten getrouwelijk zal volbrengen. Hierbij worden de criteria en indicatoren als genoemd in de ‘Leidraad persoonlijke gedragingen en omstandigheden’ gehanteerd. 
+Het weigeren van een verklaring als bedoeld in artikel 8 van de wet en het intrekken van een verklaring als bedoeld in artikel 10 van de wet, kan plaatsvinden indien overige persoonlijke gedragingen en omstandigheden van betrokkene of diens partner aanleiding geven te concluderen dat onvoldoende waarborgen aanwezig zijn dat betrokkene onder alle omstandigheden de uit de vertrouwensfunctie voortvloeiende plichten getrouwelijk zal volbrengen. Hierbij worden de criteria en indicatoren als genoemd in de ‘Leidraad persoonlijke gedragingen en omstandigheden’ gehanteerd. 
 
 ### Artikel  7  
 

@@ -51,9 +51,24 @@ b.de broeikasgasinstallatie waarin de activiteiten worden verricht, zich bevindt
 
 c.de broeikasgasinstallatie waarin de activiteiten worden verricht, bestemd is voor onderzoek, ontwikkeling of beproeving van nieuwe processen of producten;
 
-d. in de broeikasgasinstallatie uitsluitend biomassa wordt gebruikt.   
-3.  Indien in een broeikasgasinstallatie meerdere activiteiten als genoemd in de bij dit besluit behorende bijlage I worden uitgeoefend, blijft bij de toepassing van het eerste lid, onder a, de activiteit met een drempelwaarde uitgedrukt in totaal nominaal thermisch ingangsvermogen buiten beschouwing, indien de drempelwaarde van de andere activiteit of activiteiten is uitgedrukt in een ander criterium dan totaal nominaal thermisch ingangsvermogen en deze drempelwaarde wordt bereikt of overschreden.   
-4.  Indien een inrichting op grond van artikel 27 van de EG-richtlijn handel in broeikasgasemissierechten is uitgesloten van het systeem van handel in broeikasgasemissierechten, ziet de aanwijzing, bedoeld in het eerste lid, met betrekking tot de betrokken handelsperiode niet op activiteiten die in de broeikasgasinstallaties binnen die inrichting worden verricht. 
+d. in de broeikasgasinstallatie uitsluitend biomassa wordt gebruikt; 
+
+e. zich in de broeikasgasinstallatie waarin de activiteiten worden verricht, een reserve, achtervang of parallelle eenheid bevindt die niet gelijktijdig in werking kan zijn met andere eenheden en: 
+
+1°. de drempelwaarde, genoemd in bijlage I, niet wordt overschreden, als de activiteiten die plaatsvinden in de reserve, achtervang of parallelle eenheid van een broeikasgasinstallatie niet worden meegeteld;  
+
+2°. er een technische restrictie is waardoor de reserve, achtervang of parallelle eenheid niet tegelijkertijd in werking kan zijn met andere eenheden en de drempelwaarden, genoemd in bijlage 1, op geen enkel moment kunnen worden overschreden;  
+
+3°. de technische restrictie, bedoeld onder 2°, gemeld is aan het bestuur van de emissieautoriteit, en  
+
+4°. voldaan wordt aan de bij ministeriële regeling gestelde regels.     
+3.  De aanwijzing, bedoeld in het eerste lid, onder a, heeft geen betrekking op activiteiten binnen:
+
+a. een verbrandingseenheid die uitsluitend bedoeld is voor de verbranding van gevaarlijke afvalstoffen of van huishoudelijk afval, tenzij de activiteit een integraal deel uitmaakt van een andere activiteit binnen een broeikasgasinstallatie;  
+
+b. een eenheid voor onderzoek, ontwikkeling of het testen van nieuwe producten of processen.    
+4.  Indien in een broeikasgasinstallatie meerdere activiteiten als genoemd in de bij dit besluit behorende bijlage I worden uitgeoefend, blijft bij de toepassing van het eerste lid, onder a, de activiteit met een drempelwaarde uitgedrukt in totaal nominaal thermisch ingangsvermogen buiten beschouwing, indien de drempelwaarde van de andere activiteit of activiteiten is uitgedrukt in een ander criterium dan totaal nominaal thermisch ingangsvermogen en deze drempelwaarde wordt bereikt of overschreden.   
+5.  Indien een inrichting op grond van artikel 27 van de EG-richtlijn handel in broeikasgasemissierechten is uitgesloten van het systeem van handel in broeikasgasemissierechten, ziet de aanwijzing, bedoeld in het eerste lid, met betrekking tot de betrokken handelsperiode niet op activiteiten die in de broeikasgasinstallaties binnen die inrichting worden verricht. 
 
 ### Artikel  5  
 
@@ -62,8 +77,7 @@ d. in de broeikasgasinstallatie uitsluitend biomassa wordt gebruikt.
 
 a. bij het bepalen van de jaarvracht van een inrichting tevens rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas in de lucht, die worden veroorzaakt door activiteiten die in de inrichting worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende bijlage I is genoemd, indien de bron van die emissies zich buiten de inrichting bevindt;  
 
-b. bij het bepalen van de jaarvracht van een inrichting geen rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas in de lucht, die worden veroorzaakt door activiteiten die in de inrichting worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende bijlage I is genoemd, indien de bron van die emissies zich buiten de inrichting bevindt;     
-3.  Bij ministeriële regeling worden regels gesteld met betrekking tot de verdeling van taken, bevoegdheden en verantwoordelijkheden tussen de personen die met de uitvoering van het monitoringsplan en de controle op de naleving daarvan zijn belast.  
+b. bij het bepalen van de jaarvracht van een inrichting geen rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas in de lucht, die worden veroorzaakt door activiteiten die in de inrichting worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende bijlage I is genoemd, indien de bron van die emissies zich buiten de inrichting bevindt;    
 
 ### Artikel  12  
 
@@ -81,10 +95,6 @@ Deze paragraaf heeft het toepassingsgebied van afdeling 16.2.2 van de wet.
 ### Artikel  12c  
 
 Als broeikasgas, als bedoeld in artikel 16.39a, eerste lid, onder b, van de wet, wordt CO<sub>2</sub> aangewezen. 
-
-### Artikel  12d  
-
-Artikel 5, vierde lid, is van overeenkomstige toepassing op personen die met de uitvoering van het monitoringsplan en de controle op de naleving daarvan zijn belast. 
 
 ### Artikel  12g  
 

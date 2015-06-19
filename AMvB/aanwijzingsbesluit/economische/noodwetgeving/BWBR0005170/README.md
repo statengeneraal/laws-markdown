@@ -31,7 +31,7 @@ d. Financiën: de voorzitters van de managementteams van de Belastingdienst/Doua
 
 e. Defensie: de regionale militaire commandanten, ieder voor het gezagsgebied waarvoor hij is aangesteld;  
 
-f. Infrastructuur en Milieu: de hoofdingenieur-directeuren van de regionale diensten van het directoraat-generaal Rijkswaterstaat, ingesteld krachtens artikel 8 van het Organiek Besluit Rijkswaterstaat, ieder voor het gezagsgebied van de regionale dienst waarvoor hij is aangesteld;  
+f. Infrastructuur en Milieu: de hoofdingenieur-directeuren van de regionale organisatieonderdelen van het directoraat-generaal Rijkswaterstaat, ingesteld krachtens artikel 2, eerste lid, onder b, van het Instellingsbesluit directoraat-generaal Rijkswaterstaat 2013, ieder voor het gezagsgebied van het regionale organisatieonderdeel waarvoor hij is aangesteld;  
 
 g. Volksgezondheid, Welzijn en Sport: de inspecteurs van het Staatstoezicht op de volksgezondheid.   
 

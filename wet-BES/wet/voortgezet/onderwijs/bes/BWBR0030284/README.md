@@ -153,7 +153,7 @@ Onderwijs in lichamelijke opvoeding, bestaande uit praktische bewegingsactivitei
 
 ####Onderwijsdagen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 1.  In elk schooljaar wordt op ten minste 189 dagen onderwijs verzorgd.   
 2.  In afwijking van het in het eerste lid genoemde aantal dagen behoeft in het laatste leerjaar geen onderwijs te worden verzorgd vanaf de aanvang van het eerste tijdvak waarin het centraal eindexamen wordt afgenomen.   

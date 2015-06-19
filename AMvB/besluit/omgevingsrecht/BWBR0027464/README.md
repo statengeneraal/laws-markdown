@@ -574,7 +574,7 @@ b. tot het bewaren van de geregistreerde gegevens gedurende ten minste vijf jare
 ####Afwijkende geldingsduur voorschriften
 
 1.  In een omgevingsvergunning kan worden bepaald dat daarbij aangewezen voorschriften niet gelden gedurende een termijn van ten hoogste negen maanden voor het testen of gebruiken van technieken in opkomst.   
-2.  Onder techniek in opkomst wordt verstaan: nieuwe techniek die, als zij commercieel zou worden ontwikkeld, hetzij een hoger algemeen beschermingsniveau voor het milieu, hetzij ten minste hetzelfde beschermingsniveau voor het milieu, en grotere kostenbesparingen kan opleveren dan de voor de desbetreffende activiteit bestaande best beschikbare technieken. 
+2.  Onder techniek in opkomst wordt verstaan: nieuwe techniek die, als zij commercieel zou worden ontwikkeld, hetzij een hoger algemeen beschermingsniveau voor het milieu, hetzij ten minste hetzelfde beschermingsniveau voor het milieu, en grotere kostenbesparingen kan opleveren dan de voor de desbetreffende activiteit bestaande beste beschikbare technieken. 
 
 ### Artikel  5.10  
 

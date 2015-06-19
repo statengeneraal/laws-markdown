@@ -40,15 +40,7 @@ Wijzigt de Wet op de loonbelasting 1964.
 1.  De artikelen I, II en V van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip.   
 2.  Artikel III en artikel IV, onderdelen A, K, L, M, N, O en Z, treden in werking met ingang van 1 januari 2014.   
 3.  Artikel IV, onderdelen B, P en AA, treedt in werking met ingang van 1 januari 2015.   
-4.  Artikel IV, onderdelen C, Q en AB, treedt in werking met ingang van 1 januari 2016.   
-5.  Artikel IV, onderdelen D, R en AC, treedt in werking met ingang van 1 januari 2017.   
-6.  Artikel IV, onderdelen E, S en AD, treedt in werking met ingang van 1 januari 2018.   
-7.  Artikel IV, onderdelen F, T en AE, treedt in werking met ingang van 1 januari 2019.   
-8.  Artikel IV, onderdelen G, U en AF, treedt in werking met ingang van 1 januari 2020.   
-9.  Artikel IV, onderdelen H, V en AG, treedt in werking met ingang van 1 januari 2021.   
-10.  Artikel IV, onderdelen I, W en AH, treedt in werking met ingang van 1 januari 2022.   
-11.  Artikel IV, onderdelen J, X en AI, treedt in werking met ingang van 1 januari 2023.   
-12.  Artikel IV, onderdeel Y, treedt in werking met ingang van 1 januari 2024.  
+4.  Artikel IV, onderdeel Y, treedt in werking met ingang van 1 januari 2022.  
 
 ### Artikel  VII  
 

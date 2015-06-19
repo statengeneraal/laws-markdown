@@ -31,31 +31,23 @@ e. machtiging: de bevoegdheid om in naam van een bewindspersoon handelingen te v
 
 f. Directeuren-Generaal: 
 
-de Directeur-Generaal Consulaire Zaken en Bedrijfsvoering (DGCB),  
-
 de Directeur-Generaal Internationale Samenwerking (DGIS),  
 
 de Directeur-Generaal Politieke Zaken (DGPZ),  
 
 de Directeur-Generaal Europese Samenwerking (DGES),  
 
-de Directeur-Generaal Buitenlandse Economische Betrekkingen (BEB), 
-
-de project-Directeur-Generaal Internationaal Strafhof (DG ICC),  
+de Directeur-Generaal Buitenlandse Economische Betrekkingen (DGBEB),  
 
 andere bij het Ministerie van Buitenlandse Zaken (tijdelijk) benoemde project-Directeuren-Generaal;    
 
 g. directeuren: 
 
-de directeuren en de hoofddirecteuren van regiodirecties, forumdirecties, themadirecties en centrale directies, alsmede de projectdirecteuren van projectdirecties,  
+– de directeuren, hoofddirecteuren en projectdirecteuren,  
 
-de Ambassadeur(s) in Algemene Dienst en de Ambassadeurs in Algemene Dienst met bijzondere taken;    
+– de ambassadeurs in algemene dienst en de ambassadeurs in algemene dienst met bijzondere taken;    
 
-h. hoofden: 
-
-de hoofden van afdelingen van directies,  
-
-de hoofden van centrale dienstonderdelen, niet zijnde directies;    
+h.hoofden: de hoofden van afdelingen van directies; 
 
 i. Chefs de Poste: de hoofden van vertegenwoordigingen van het Koninkrijk in het buitenland, bedoeld in artikel 7 van het RDBZ;  
 
@@ -73,26 +65,25 @@ Aan de Secretaris-Generaal en de Plaatsvervangend Secretaris-Generaal wordt alge
 
 ### Artikel   4  
 
-####Algemeen mandaat Directeuren-Generaal, directeuren, hoofden van centrale dienstonderdelen, Chefs de Poste, plaatsvervangend Chefs de Poste en Hoofden van de Regionale Service Organisaties
+####Algemeen mandaat Directeuren-Generaal, directeuren, Chefs de Poste, plaatsvervangend Chefs de Poste en Hoofden van de Regionale Service Organisaties
 
-1.  De Secretaris-Generaal verleent aan de Directeuren-Generaal, de plaatsvervangend Directeuren-Generaal, de directeuren, de plaatsvervangend directeuren, de hoofden van centrale dienstonderdelen, niet zijnde directies, de Chefs de Poste, de plaatsvervangend Chefs de Poste en de Hoofden van de Regionale Service Organisaties mandaat voor het nemen van besluiten inzake aangelegenheden die verband houden met de taken, de verantwoordelijkheden en het werkterrein van de desbetreffende functionarissen.   
+1.  De Secretaris-Generaal verleent aan de Directeuren-Generaal, de plaatsvervangend Directeuren-Generaal, de directeuren, de plaatsvervangend directeuren, de Chefs de Poste, de plaatsvervangend Chefs de Poste en de Hoofden van de Regionale Service Organisaties mandaat voor het nemen van besluiten inzake aangelegenheden die verband houden met de taken, de verantwoordelijkheden en het werkterrein van de desbetreffende functionarissen.   
 2.  Het mandaat, bedoeld in het eerste lid, omvat in ieder geval: 
 
 a. de bevoegdheid tot het nemen van besluiten met betrekking tot subsidies;  
 
 b. de bevoegdheid te beslissen op bezwaarschriften tegen besluiten als bedoeld in het eerste lid.     
 3.  Voor zover het gaat om het vaststellen van beleidsregels, wordt het mandaat, bedoeld in het eerste lid, slechts verleend aan de Directeuren-Generaal en de plaatsvervangend Directeuren-Generaal.   
-4.  De directeuren, de plaatsvervangend directeuren, de hoofden van centrale dienstonderdelen, niet zijnde directies, de Chefs de Poste, de plaatsvervangend Chefs de Poste en de Hoofden van de Regionale Service Organisaties kunnen ondermandaat verlenen aan onder hen ressorterende functionarissen. Dit ondermandaat geschiedt schriftelijk.   
-5.  Van ondermandaten als bedoeld in het vierde lid wordt een afschrift gezonden naar de directie Juridische Zaken, afdeling Bestuursrecht.  
+4.  De directeuren, de plaatsvervangend directeuren, de Chefs de Poste, de plaatsvervangend Chefs de Poste en de Hoofden van de Regionale Service Organisaties kunnen ondermandaat verlenen aan onder hen ressorterende functionarissen. Dit ondermandaat geschiedt schriftelijk.   
+5.  Van ondermandaten als bedoeld in het vierde lid wordt een afschrift gezonden naar de directie Juridische Zaken, afdeling Nederlands recht.  
 
 ### Artikel  5  
 
-####Algemene volmacht en machtiging Directeuren-Generaal, directeuren, hoofden van centrale dienstonderdelen en, Chefs de Poste, voorzitters van Regioraden en Hoofden van de Regionale Service Organisaties
+####Algemene volmacht en machtiging Directeuren-Generaal, directeuren, Chefs de Poste en Hoofden van de Regionale Service Organisaties
 
-1.  De Secretaris-Generaal verleent aan de Directeuren-Generaal, de directeuren, de hoofden van centrale dienstonderdelen, niet zijnde directies, de Chefs de Poste, de voorzitters van Regioraden en de Hoofden van de Regionale Service Organisaties, volmacht en machtiging tot het verrichten van rechtshandelingen, respectievelijk tot het verrichten van handelingen die noch een besluit noch een privaatrechtelijke rechtshandeling zijn, op het aan de desbetreffende functionarissen toegewezen werkterrein en conform hun goedgekeurde jaarplan en budget.   
+1.  De Secretaris-Generaal verleent aan de Directeuren-Generaal, de directeuren, de Chefs de Poste en de Hoofden van de Regionale Service Organisaties, volmacht en machtiging tot het verrichten van rechtshandelingen, respectievelijk tot het verrichten van handelingen die noch een besluit noch een privaatrechtelijke rechtshandeling zijn, op het aan de desbetreffende functionarissen toegewezen werkterrein en conform hun goedgekeurde jaarplan en budget.   
 2.  De machtiging, bedoeld in het eerste lid, omvat in ieder geval het vaststellen en ondertekenen van stukken die betrekking hebben op de behandeling van klachten als bedoeld in artikel 9:1 van de Algemene wet bestuursrecht over gedragingen van onder hen ressorterende medewerkers.   
-3.  De functionarissen, genoemd in het eerste lid, kunnen de aan hen verleende volmacht en machtiging schriftelijk doorverlenen aan onder hen ressorterende functionarissen.   
-4.  De functionarissen, genoemd in het eerste lid, leggen in de competentietabel die onderdeel uitmaakt van de administratieve organisatie, vast welke functionarissen bevoegd zijn tot het verrichten van privaatrechtelijke rechtshandelingen, alsmede tot welk bedrag.  
+3.  De functionarissen, genoemd in het eerste lid, leggen in de competentietabel die onderdeel uitmaakt van de administratieve organisatie, vast welke functionarissen bevoegd zijn tot het verrichten van privaatrechtelijke rechtshandelingen, alsmede tot welk bedrag.  
 
 ### Artikel   6  
 
@@ -159,9 +150,7 @@ a. het toepassen van artikel 117 van de Ambtenarenwet betreffende verrekening me
 
 b. het bepalen van de muntsoort voor uitbetaling van schadeloosstelling, vergoedingen en tegemoetkomingen bij plaatsing buiten Nederland, bedoeld in artikel 77, vierde lid, van het RDBZ;  
 
-c. het opleggen van de verplichting een tekort aan te zuiveren of schade te vergoeden aan de ambtenaar, bedoeld in artikel 81, eerste, respectievelijk tweede lid, van het RDBZ.  
-
-d.het toepassen van het Reisbesluit binnenland, de Reisregeling binnenland, het Reisbesluit buitenland en de Reisregeling buitenland, voor zover het dienstreizen betreft die vanuit het departement in Den Haag worden gemaakt.  
+c. het opleggen van de verplichting een tekort aan te zuiveren of schade te vergoeden aan de ambtenaar, bedoeld in artikel 81, eerste, respectievelijk tweede lid, van het RDBZ.   
 
 ### Artikel   10  
 

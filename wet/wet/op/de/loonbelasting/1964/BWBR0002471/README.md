@@ -1597,7 +1597,7 @@ Artikel 19b, eerste lid, is niet van toepassing op een bij artikel 66 van de Inv
 
 ### Artikel  38l  
 
-In afwijking in zoverre van artikel 18d, eerste lid, onderdeel b, wordt de mate van variatie in de hoogte van een pensioen dat vóór 1 januari 2013 is ingegaan ten laatste bij het bereiken van de 65-jarige leeftijd vastgesteld. 
+In afwijking in zoverre van artikel 18d, eerste lid, onderdeel b, wordt de mate van variatie in de hoogte van een pensioen dat vóór 1 januari 2016 is ingegaan ten laatste bij het bereiken van de 65<sup>5</sup>/<sub>12</sub>-jarige leeftijd vastgesteld. 
 
 ### Artikel  38m  
 

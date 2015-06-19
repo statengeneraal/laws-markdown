@@ -9,16 +9,11 @@ Besluit:
 
 ####Algemene bepalingen
 
-Treedt in werking per 01-03-2015 
-
 ### Afdeling  1.1  
 
 #### *Reikwijdte* 
 
-Treedt in werking per 01-03-2015 
-
 ### Artikel  1  
-Treedt in werking per 01-03-2015 
 
 De volgende onderdelen van deze regeling gelden mede voor degene die een inrichting drijft als bedoeld in bijlage I, onderdeel C, categorie 21, van het Besluit omgevingsrecht: 
 
@@ -36,10 +31,7 @@ e. andere onderdelen van, en bijlagen bij, deze regeling, voor zover zij van bel
 
 #### *Begripsbepalingen* 
 
-Treedt in werking per 01-03-2015 
-
 ### Artikel  2  
-Treedt in werking per 01-03-2015 
 
 1.  In deze regeling wordt verstaan onder: 
 
@@ -132,10 +124,7 @@ b. voor de toepassing van hoofdstuk 3: vergunning als bedoeld in artikel 3.2 van
 
 #### *Overbrenging en vervoer* 
 
-Treedt in werking per 01-03-2015 
-
 ### Artikel  3  
-Treedt in werking per 01-03-2015 
 
 1.  Overbrenging van genetisch gemodificeerde organismen binnen een inrichting geschiedt overeenkomstig de bepalingen, vermeld in bijlage 1, onder 1.1, indien de overbrenging plaatsvindt: 
 
@@ -147,7 +136,6 @@ c. niet over de openbare weg.
 2.  Het eerste lid is van overeenkomstige toepassing op de overbrenging van genetisch gemodificeerde organismen aan boord van een schip, indien de overbrenging voldoet aan het eerste lid, aanhef en onder a en b.  
 
 ### Artikel  4  
-Treedt in werking per 01-03-2015 
 
 Vervoer van organismen als bedoeld in artikel 1.6 van het Besluit geschiedt overeenkomstig de bepalingen, vermeld in bijlage 1, onder 1.2, indien het vervoer plaatsvindt: 
 
@@ -159,10 +147,7 @@ b. binnen een inrichting, maar over de openbare weg.
 
 #### *Opslag bij schorsings- of stakingsbevel* 
 
-Treedt in werking per 01-03-2015 
-
 ### Artikel  5  
-Treedt in werking per 01-03-2015 
 
 1.  Ingeval genetisch gemodificeerde organismen worden opgeslagen naar aanleiding van een bevel dat is gegeven krachtens artikel 2.31, artikel 2.34, artikel 2.51 of artikel 2.54 van het Besluit, geschiedt de opslag overeenkomstig de van toepassing zijnde categorie van fysische inperking en de daarbij behorende voorschriften van bijlage 9.   
 2.  Indien genetisch gemodificeerde organismen worden opgeslagen naar aanleiding van een bevel krachtens artikel 3.28 van het Besluit, dan wel naar aanleiding van een besluit als bedoeld in artikel 5.3 van het Besluit, geschiedt de opslag zodanig dat de genetisch gemodificeerde organismen zich niet kunnen verspreiden of vermenigvuldigen en zij niet vermengd kunnen raken met niet genetisch gemodificeerde organismen. De opslag is herkenbaar door een aanduiding met het opschrift ‘opslag genetisch gemodificeerde organismen waarop een schorsings- of stakingsbevel van toepassing is’.  
@@ -171,16 +156,11 @@ Treedt in werking per 01-03-2015
 
 ####Ingeperkt gebruik
 
-Treedt in werking per 01-03-2015 
-
 ### Afdeling  2.1  
 
 #### *Interne organisatie, procedures en administratie* 
 
-Treedt in werking per 01-03-2015 
-
 ### Artikel  6  
-Treedt in werking per 01-03-2015 
 
 1.  De gebruiker stelt één of meer door de Minister overeenkomstig de artikelen 11 tot en met 14 toegelaten biologischeveiligheidsfunctionarissen aan.   
 2.  Voor elke categorie van fysische inperking waarin activiteiten met genetisch gemodificeerde organismen worden verricht, is voorafgaand aan de activiteiten in de betreffende categorie van fysische inperking een daarvoor toegelaten biologischeveiligheidsfunctionaris aangesteld.   
@@ -190,7 +170,6 @@ Treedt in werking per 01-03-2015
 6.  Indien meer dan één biologischeveiligheidsfunctionaris is aangesteld, voorziet de gebruiker, voor zover deze regeling daarin niet voorziet, in een verdeling van taken en verantwoordelijkheden tussen de biologischeveiligheidsfunctionarissen.  
 
 ### Artikel  7  
-Treedt in werking per 01-03-2015 
 
 1.  De gebruiker belast de biologischeveiligheidsfunctionaris binnen de grenzen van zijn toelating met: 
 
@@ -220,7 +199,6 @@ c. niet tevens optreedt als onderzoeksleider of verantwoordelijk medewerker voor
 4.  Indien een biologischeveiligheidsfunctionaris toeziet op personen die niet in dienst zijn bij de gebruiker die de biologischeveiligheidsfunctionaris heeft aangesteld, draagt de gebruiker er zorg voor dat de zeggenschap van de biologischeveiligheidsfunctionaris over deze medewerkers schriftelijk is vastgelegd.  
 
 ### Artikel  8  
-Treedt in werking per 01-03-2015 
 
 1.  De gebruiker voorziet in de aanwijzing van: 
 
@@ -233,7 +211,6 @@ b. een of meerdere verantwoordelijk medewerkers per te onderscheiden groep van a
 5.  Indien onder de verantwoordelijkheid van de gebruiker activiteiten met genetisch gemodificeerde organismen worden verricht door personen die niet in dienst zijn van de gebruiker, is de zeggenschap van de gebruiker over deze personen schriftelijk vastgelegd.  
 
 ### Artikel  9  
-Treedt in werking per 01-03-2015 
 
 1.  De gebruiker voorziet in het opstellen van procedures voor: 
 
@@ -270,7 +247,6 @@ g. de regeling van de toegang tot de werkruimten en overige ruimten;
 h. de adequate invulling van doelvoorschriften die op de uitgevoerde activiteiten met genetisch gemodificeerde organismen zijn toegesneden.    
 
 ### Artikel  10  
-Treedt in werking per 01-03-2015 
 
 1.  De gebruiker voorziet in een op één plaats binnen de inrichting gehouden toegankelijke administratie, waarin ten minste zijn opgenomen: 
 
@@ -345,10 +321,7 @@ i. de opslag van afval dat genetisch gemodificeerde organismen bevat of kan beva
 
 #### *Procedure voor toelating van een biologischeveiligheidsfunctionaris* 
 
-Treedt in werking per 01-03-2015 
-
 ### Artikel  11  
-Treedt in werking per 01-03-2015 
 
 1.  Een persoon kan op aanvraag door de Minister worden toegelaten als biologischeveiligheidsfunctionaris voor een of meer daarbij aangegeven categorieën van fysische inperking en inperkingsniveaus.   
 2.  Met het oog op een adequate uitvoering van de taken, bedoeld in artikel 7, eerste lid, beschikt de betrokkene in elk geval over: 
@@ -362,7 +335,6 @@ c. kennis van en ervaring met de gebruikte technieken en de toegepaste veilighei
 d. algemene kennis van inperkende apparatuur en technische voorzieningen die inperking bewerkstelligen.    
 
 ### Artikel  12  
-Treedt in werking per 01-03-2015 
 
 1.  Bij de aanvraag om toelating als biologischeveiligheidsfunctionaris wordt gebruik gemaakt van een door de Minister vastgesteld formulier.   
 2.  Bij de aanvraag worden de volgende gegevens overgelegd: 
@@ -376,7 +348,6 @@ c. de categorie of categorieën van fysische inperking en het inperkingsniveau o
 d. informatie waaruit blijkt dat de aanvrager voldoet aan het bepaalde in artikel 11, tweede lid.    
 
 ### Artikel  13  
-Treedt in werking per 01-03-2015 
 
 1.  De Minister beslist binnen acht weken na de ontvangst van de aanvraag.   
 2.  De Minister kan de toelating beperken tot een of meer daarbij aangegeven inperkingsniveaus en categorieën van fysische inperking. Hij kan daarbij afwijken van de aanvraag.   
@@ -392,7 +363,6 @@ c. een melding doet aan de Minister indien hij zijn werkzaamheden als biologisch
 6.  Tot de voorschriften en beperkingen, bedoeld in het vijfde lid, kan in elk geval behoren de beperking dat de toelating slechts geldt voor een daarbij aangegeven termijn.  
 
 ### Artikel  14  
-Treedt in werking per 01-03-2015 
 
 1.  De biologischeveiligheidsfunctionaris kan een aanvraag indienen om wijziging van zijn toelating.   
 2.  De artikelen 11 tot en met 13 zijn van overeenkomstige toepassing, met dien verstande dat eerder overgelegde gegevens die nog actueel zijn niet opnieuw behoeven te worden overgelegd.   
@@ -412,10 +382,7 @@ d. bij gebleken ongeschiktheid van de functionaris.
 
 #### *Aanwijzing van categorieën van fysische inperking, risicobeoordeling en inschaling* 
 
-Treedt in werking per 01-03-2015 
-
 ### Artikel  15  
-Treedt in werking per 01-03-2015 
 
 Als categorieën van fysische inperking worden, naast de categorieën van fysische inperking, genoemd in bijlage 4 bij het Besluit, onderscheiden: 
 
@@ -424,7 +391,6 @@ a. apparatuurruimten, bedoeld voor handelingen met genetisch gemodificeerde orga
 b. laboratoria, uitsluitend bedoeld voor activiteiten met genetisch gemodificeerde organismen die zijn vermeld in bijlage 11 of die voldoen aan de criteria in bijlage 6 voor S-I op inperkingsniveau I en III, genaamd S-I en S-III.   
 
 ### Artikel  16  
-Treedt in werking per 01-03-2015 
 
 1.  De gebruiker voert de risicobeoordeling, bedoeld in artikel 2.5 van het Besluit, uit overeenkomstig bijlage 5.   
 2.  Bij de risicobeoordeling geeft de gebruiker tevens toepassing aan: 
@@ -435,7 +401,6 @@ b. bijlage 7, voor wat betreft de inschaling van genetisch gemodificeerde plante
 3.  Bij de risicobeoordeling hanteert de gebruiker uitsluitend de indeling in klassen van pathogene micro-organismen die is aangegeven in bijlage 4.  
 
 ### Artikel  17  
-Treedt in werking per 01-03-2015 
 
 1.  De gebruiker kent, op basis van een risicobeoordeling die is uitgevoerd met toepassing van artikel 16, toe: 
 
@@ -445,7 +410,6 @@ b. als inperkingsniveau: het inperkingsniveau dat overeenkomt met het Romeinse c
 2.  Ingeperkt gebruik is ingeperkt gebruik op inperkingsniveau II-v, indien het als zodanig is aangewezen in bijlage 5, of door de Minister als zodanig is vastgesteld.  
 
 ### Artikel  18  
-Treedt in werking per 01-03-2015 
 
 1.  Het verslag van de risicobeoordeling, bedoeld in artikel 2.5 van het Besluit, bevat in ieder geval per groep van soortgelijke genetisch gemodificeerde organismen: 
 
@@ -472,7 +436,6 @@ a. een groep van samenhangende activiteiten binnen een kennisgeving die niet mee
 b. vergunde activiteiten die niet meer worden verricht.    
 
 ### Artikel  19  
-Treedt in werking per 01-03-2015 
 
 1.  Als de gebruiker voornemens is een verzoek in te dienen als bedoeld in artikel 2.8, tweede of derde lid, van het Besluit, voert hij een risicobeoordeling uit overeenkomstig de beginselen voor een risicobeoordeling, zoals aangegeven in bijlage 8, tenzij het een verzoek als bedoeld in artikel 2.8, tweede lid, betreft, en dit verzoek betrekking heeft op: 
 
@@ -485,7 +448,6 @@ b. inschaling op S-I.
 5.  In afwijking van artikel 18, derde lid, omvat de uitkomst van de risicobeoordeling als bedoeld in het eerste lid in elk geval de toegekende categorie van fysische inperking en het inperkingsniveau, waarbij een bijlage wordt gevoegd waarin de risicobeoordeling wordt omschreven.  
 
 ### Artikel  20  
-Treedt in werking per 01-03-2015 
 
 1.  Bij een verzoek als bedoeld in artikel 2.8, eerste lid, van het Besluit worden overgelegd: 
 
@@ -516,12 +478,10 @@ b. een toelichting op het verzoek;
 c. de gegevens, aangewezen in artikel 2.15 of artikel 2.36 van het Besluit en bijlage 5 van het Besluit met uitzondering van een risicobeoordeling als bedoeld in artikel 2.5 van het Besluit.    
 
 ### Artikel  21  
-Treedt in werking per 01-03-2015 
 
 De combinaties van lijsten, bedoeld in artikel 2.10, eerste lid, onder a, b en c, van het Besluit, zijn de combinaties van lijsten, opgenomen in bijlage 2. 
 
 ### Artikel  22  
-Treedt in werking per 01-03-2015 
 
 1.  Als over te leggen gegevens bij een verzoek als bedoeld in artikel 2.13, eerste lid, van het Besluit, tot vaststelling dat een gastheer in aanmerking komt voor opname op bijlage 2, lijst A1 van bijlage 2, worden aangewezen: 
 
@@ -548,7 +508,6 @@ f. gegevens waaruit blijkt dat de vector geen virale sequenties, afkomstig van v
 3.  Bij een verzoek als bedoeld in artikel 2.13, derde lid, van het Besluit tot vaststelling dat een insertie niet behoort tot de inserties die zijn opgenomen op lijst A3 van bijlage 2 als aangegeven in bijlage 2, worden gegevens overgelegd waaruit blijkt dat de insertie niet voldoet aan de criteria die zijn opgenomen in bijlage 2, lijst A3.  
 
 ### Artikel  23  
-Treedt in werking per 01-03-2015 
 
 1.  Een gebruiker kan de Minister verzoeken om een daarbij aangegeven genetisch gemodificeerd organisme op te nemen in bijlage 11.   
 2.  Bij het verzoek worden gegevens overgelegd waaruit blijkt dat het organisme voldoet aan de criteria, opgenomen in bijlage 6, voor activiteiten onder laboratoriumcondities op S-I dan wel aan de criteria, opgenomen in bijlage II, onderdeel B, van richtlijn 2009/41, zoals aangevuld met daarop betrekking hebbende besluiten of aanbevelingen van de Raad van de Europese Unie of van de Europese Commissie.   
@@ -558,15 +517,11 @@ Treedt in werking per 01-03-2015
 
 #### *De uitvoering van het ingeperkt gebruik* 
 
-Treedt in werking per 01-03-2015 
-
 ### Artikel  24  
-Treedt in werking per 01-03-2015 
 
 Aan de categorieën van fysische inperking zoals opgenomen in bijlage 4 bij het Besluit, en in artikel 15, zijn de voorschriften verbonden zoals die zijn aangegeven in bijlage 9. 
 
 ### Artikel  25  
-Treedt in werking per 01-03-2015 
 
 1.  Als categorieën van gevallen waarin kan worden volstaan met een melding in plaats van een aanvraag tot wijziging van een vergunning, als bedoeld in artikel 2.46, eerste lid, van het Besluit, worden aangewezen de toevoeging van een of meer: 
 
@@ -588,22 +543,15 @@ c. de uitkomst van de risicobeoordeling die ten grondslag ligt aan de reeds verl
 
 ####Doelbewuste introductie voor overige doeleinden
 
-Treedt in werking per 01-03-2015 
-
 ### Afdeling  3.1  
 
 #### *Algemene bepalingen inzake doelbewuste introductie voor overige doeleinden* 
-
-Treedt in werking per 01-03-2015 
 
 ### §  3.1.1  
 
 ####Interne organisatie, procedures en administratie
 
-Treedt in werking per 01-03-2015 
-
 ### Artikel  26  
-Treedt in werking per 01-03-2015 
 
 1.  De vergunninghouder stelt één of meer door de Minister overeenkomstig de artikelen 30 tot en met 33 toegelaten milieuveiligheidsfunctionarissen aan.   
 2.  Voor elke categorie van werkzaamheden waarin activiteiten met genetisch gemodificeerde organismen worden verricht, is een daarvoor toegelaten milieuveiligheidsfunctionaris aangesteld.   
@@ -611,7 +559,6 @@ Treedt in werking per 01-03-2015
 4.  Een milieuveiligheidsfunctionaris is aangesteld bij de instelling waarvoor hij zijn dagelijkse werkzaamheden uitvoert.  
 
 ### Artikel  27  
-Treedt in werking per 01-03-2015 
 
 1.  De vergunninghouder belast de milieuveiligheidsfunctionaris binnen de grenzen van zijn toelating met: 
 
@@ -643,7 +590,6 @@ c. deze niet tevens optreedt als de persoon die verantwoordelijk is voor de uitv
 4.  De milieuveiligheidsfunctionaris draagt er zorg voor dat medewerkers die uit hoofde van hun functie betrokken zijn bij de veldproef, op de hoogte zijn van de toepasselijke voorschriften. Hij verstrekt hen daartoe een exemplaar van de instructies, bedoeld in het eerste lid, onder a, voor zover deze betrekking hebben op hun werkzaamheden.  
 
 ### Artikel  28  
-Treedt in werking per 01-03-2015 
 
 1.  De vergunninghouder voorziet in een actuele en inzichtelijke administratie betreffende de werkzaamheden met genetisch gemodificeerde organismen, waarin ten minste zijn opgenomen: 
 
@@ -762,7 +708,6 @@ u. de datum waarop het verslag, als bedoeld in artikel 43, eerste lid, is gezond
 v. voor zover het betreft de op grond van artikel 39, eerste lid, aangewezen categorie van genetisch gemodificeerde organismen waarvoor een vergunning onder vaste voorschriften is verleend: de in bijlage 10 aangewezen gegevens.    
 
 ### Artikel  29  
-Treedt in werking per 01-03-2015 
 
 De Minister legt een openbaar register aan waarin de locatie van overeenkomstig hoofdstuk 3 van het Besluit geïntroduceerde genetisch gemodificeerde organismen wordt opgenomen. 
 
@@ -770,10 +715,7 @@ De Minister legt een openbaar register aan waarin de locatie van overeenkomstig 
 
 ####Procedure voor toelating van een milieuveiligheidsfunctionaris
 
-Treedt in werking per 01-03-2015 
-
 ### Artikel  30  
-Treedt in werking per 01-03-2015 
 
 1.  De aanvrager of houder van een vergunning kan bij de Minister een aanvraag indienen om een persoon toe te laten als milieuveiligheidsfunctionaris binnen zijn organisatie. De aanvrager of houder van een vergunning geeft daarbij aan voor welke categorie of categorieën van werkzaamheden de toelating wordt aangevraagd.   
 2.  Met het oog op een adequate uitvoering van de taken, bedoeld in artikel 27, eerste lid, beschikt de persoon waarvoor toelating wordt gevraagd in elk geval over: 
@@ -785,7 +727,6 @@ b. kennis van en ervaring met werkzaamheden met genetisch gemodificeerde organis
 c. kennis van en ervaring met de gebruikte technieken en de toegepaste veiligheidsmaatregelen.    
 
 ### Artikel  31  
-Treedt in werking per 01-03-2015 
 
 1.  Bij de aanvraag om toelating als milieuveiligheidsfunctionaris wordt gebruik gemaakt van een door de Minister vastgesteld formulier.   
 2.  Bij de aanvraag worden de volgende gegevens overgelegd: 
@@ -797,7 +738,6 @@ b. de categorie of categorieën van werkzaamheden;
 c. informatie waaruit blijkt dat de persoon waarvoor toelating wordt gevraagd voldoet aan artikel 30, tweede lid.    
 
 ### Artikel  32  
-Treedt in werking per 01-03-2015 
 
 1.  De Minister beslist binnen acht weken na de ontvangst van de aanvraag.   
 2.  De Minister kan de toelating beperken tot een of meer daarbij aangegeven categorieën van werkzaamheden. Hij kan daarbij afwijken van de aanvraag.   
@@ -807,7 +747,6 @@ Treedt in werking per 01-03-2015
 6.  Tot de voorschriften en beperkingen, bedoeld in het vijfde lid, kunnen in elk geval behoren de bepaling dat de toelating slechts geldt voor een daarbij aangegeven termijn.  
 
 ### Artikel  33  
-Treedt in werking per 01-03-2015 
 
 1.  De houder van een vergunning kan een aanvraag indienen om wijziging van een toelating.   
 2.  De artikelen 30 tot en met 32 zijn van overeenkomstige toepassing, met dien verstande dat eerder overgelegde gegevens die nog actueel zijn niet opnieuw behoeven te worden overgelegd.   
@@ -826,10 +765,7 @@ d. bij gebleken ongeschiktheid van de functionaris.
 
 ####Melding en wijziging van de vergunning
 
-Treedt in werking per 01-03-2015 
-
 ### Artikel  34  
-Treedt in werking per 01-03-2015 
 
 1.  Als categorie van gevallen waarin een verandering in de doelbewuste introductie voor overige doeleinden wordt aangemerkt als een verandering die geen gevolgen heeft voor een met betrekking tot die introductie uitgevoerde milieurisicobeoordeling, als bedoeld in artikel 3.15, onder a, van het Besluit, worden voor de toepassing van planten aangewezen: 
 
@@ -895,7 +831,6 @@ b. de volgende veranderingen in veldproeven met een vergunde maximale omvang van
 4.  Het tweede en derde lid zijn van overeenkomstige toepassing indien het een vergunning onder vaste voorschriften, als bedoeld in paragraaf 3.3.2 van het Besluit, betreft, mits de doelbewuste introductie voor overige doeleinden na de beoogde verandering nog steeds voldoet aan het bepaalde in artikel 39, eerste en tweede lid.  
 
 ### Artikel  35  
-Treedt in werking per 01-03-2015 
 
 Als medische of veterinaire categorie van gevallen waarin een verandering in de doelbewuste introductie voor overige doeleinden wordt aangemerkt als een verandering die geen gevolgen heeft voor een met betrekking tot die introductie uitgevoerde milieurisicobeoordeling, als bedoeld in artikel 3.15, onder a, van het Besluit, worden aangewezen: 
 
@@ -956,7 +891,6 @@ c. de volgende veranderingen in de introductie met betrekking tot de toepassing 
 4°. een verandering in de begindatum van een studie die in het kader van de betrokken introductie wordt uitgevoerd of in de einddatum van een zodanige studie, voor zover dit niet leidt tot overschrijding van de vergunde einddatum.     
 
 ### Artikel  36  
-Treedt in werking per 01-03-2015 
 
 Als over te leggen gegevens, als bedoeld in artikel 3.16, derde lid, van het Besluit, bij een melding van een voorgenomen verandering in de doelbewuste introductie voor overige doeleinden, worden aangewezen: 
 
@@ -970,10 +904,7 @@ c. een omschrijving van de verandering.
 
 #### *Bijzondere procedures voor een vergunning op verzoek* 
 
-Treedt in werking per 01-03-2015 
-
 ### Artikel  37  
-Treedt in werking per 01-03-2015 
 
 De aanvrager om een vergunning overeenkomstig de gedifferentieerde procedure voor de doelbewuste introductie van genetisch gemodificeerde planten in het milieu van beschikking 94/730/EG van de Commissie van de Europese Gemeenschappen, van toepassing op grond van artikel 3.23, eerste lid, van het Besluit, legt de volgende gegevens over: 
 
@@ -1008,7 +939,6 @@ v. de voorwaarden waaronder de introductie plaatsvindt;
 c. een gedetailleerde milieurisicobeoordeling voor in ieder geval de eerste introductie die in het kader van het werkprogramma wordt verricht, met een of meerdere globale milieurisicobeoordelingen voor de overige introducties die niet door de gedetailleerde milieurisicobeoordeling worden gedekt, voorzien van alle bibliografische verwijzingen en indicaties over de gebruikte methoden.   
 
 ### Artikel  38  
-Treedt in werking per 01-03-2015 
 
 1.  Een melding van een verandering in de doelbewuste introductie voor overige doeleinden waarvoor een vergunning is verleend overeenkomstig de gedifferentieerde procedure voor de doelbewuste introductie van genetisch gemodificeerde planten in het milieu vastgesteld bij beschikking 94/730/EG van de Commissie van de Europese Gemeenschappen, als bedoeld in artikel 3.23, zesde lid, van het Besluit, bevat de volgende gegevens: 
 
@@ -1033,7 +963,6 @@ a. de oorzaken van het niet behouden van de geldigheid van de milieurisicobeoord
 b. een nieuwe milieurisicobeoordeling van de eerste, na de verandering te verrichten introducties, waarin ook de in het eerste lid bedoelde gegevens zijn betrokken, en een globale beoordeling van de risico’s van alle verdere introducties.    
 
 ### Artikel  39  
-Treedt in werking per 01-03-2015 
 
 1.  Als categorie van genetisch gemodificeerde organismen als bedoeld in artikel 3.24, eerste lid, van het Besluit, met betrekking waartoe op verzoek van de aanvrager de procedure voor het verlenen van een vergunning onder vaste voorschriften wordt toegepast, wordt aangewezen: genetisch gemodificeerde aardappelzetmeelrassen met een amylosevrij fenotype dat het gevolg is van de aanwezigheid in de aardappelplant van één of meer van de volgende sequenties: 
 
@@ -1047,7 +976,6 @@ d. de NOS terminator van *R. radiobacter* (voorheen bekend als *A. tumefaciens)*
 2.  De toepassing van de procedure, aangegeven in de artikelen 3.25 en 3.26 van het Besluit, is voor de in het eerste lid aangewezen categorie van genetisch gemodificeerde organismen beperkt tot veldproeven met een totale omvang van ten hoogste 10 hectare per jaar.  
 
 ### Artikel  40  
-Treedt in werking per 01-03-2015 
 
 Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voorschriften, als bedoeld in artikel 3.25, derde lid, van het Besluit, die betrekking heeft op de categorie van genetisch gemodificeerde organismen, aangewezen in artikel 39, eerste lid, worden aangewezen: 
 
@@ -1070,7 +998,6 @@ h. maatregelen voor inperking en risicomanagement;
 i. een monitoringplan overeenkomstig bijlage IIIB, onderdeel G, bij richtlijn 2001/18.   
 
 ### Artikel  41  
-Treedt in werking per 01-03-2015 
 
 Activiteiten met genetisch gemodificeerde organismen aangewezen in artikel 39, eerste lid, waarvoor met toepassing van de procedure, aangegeven in de artikelen 3.25 en 3.26 van het Besluit, een vergunning onder vaste voorschriften is verleend, worden, onverminderd het elders in deze regeling bepaalde en het bepaalde in de vergunning, uitgevoerd in overeenstemming met de voorschriften, vermeld in bijlage 10, deel A. 
 
@@ -1078,15 +1005,11 @@ Activiteiten met genetisch gemodificeerde organismen aangewezen in artikel 39, e
 
 #### *Overige bepalingen* 
 
-Treedt in werking per 01-03-2015 
-
 ### Artikel  42  
-Treedt in werking per 01-03-2015 
 
 Indien de vergunninghouder op grond van een vergunning of van bijlage 10 een beschrijving van voorgenomen werkzaamheden zendt aan de Minister, maakt hij daarbij gebruik van een door de Minister vastgesteld formulier. 
 
 ### Artikel  43  
-Treedt in werking per 01-03-2015 
 
 1.  De vergunninghouder zendt jaarlijks uiterlijk op 1 januari voor werkzaamheden met planten en uiterlijk op 1 maart voor overige werkzaamheden aan de Minister aangetekend een verslag over de resultaten van de doelbewuste introductie voor overige doeleinden in het voorafgaande kalenderjaar.   
 2.  De vergunninghouder maakt daarbij gebruik van een door de Minister vastgesteld formulier.   
@@ -1106,10 +1029,7 @@ e. informatie over de resultaten van monitoring, herstelmethoden, afvalbehandeli
 
 ####Doelbewuste introductie door het in de handel brengen van genetisch gemodificeerde organismen alsmede bepalingen omtrent het gebruik van toegelaten producten
 
-Treedt in werking per 01-03-2015 
-
 ### Artikel  44  
-Treedt in werking per 01-03-2015 
 
 1.  Degene die een toegelaten product teelt of gaat telen in Nederland, doet daarvan melding aan de Minister. De melding wordt gedaan door inzending van een formulier zoals aangegeven op de website ‘www.drloket.nl/Registraties/RegisterGGO-teelt’, dat wordt ingediend bij de Dienst Regelingen.   
 2.  De melding wordt gedaan binnen dezelfde periode als die van de landbouwtelling als bedoeld in de artikelen 24 en 25 van de Landbouwwet.   
@@ -1120,16 +1040,11 @@ Treedt in werking per 01-03-2015
 
 ####Overige bepalingen
 
-Treedt in werking per 01-03-2015 
-
 ### Afdeling  5.1  
 
 #### *Bepalingen ter uitvoering van het Besluit omgevingsrecht* 
 
-Treedt in werking per 01-03-2015 
-
 ### Artikel  45  
-Treedt in werking per 01-03-2015 
 
 Als activiteiten met genetisch gemodificeerde organismen als bedoeld in categorie 21, onderdeel 21.2, onder b, van onderdeel C van bijlage I van het Besluit omgevingsrecht, die niet worden verstaan onder categorie 21, onderdeel 21.1, van onderdeel C van bijlage I van het Besluit omgevingsrecht, worden aangewezen: 
 
@@ -1141,10 +1056,7 @@ b. activiteiten met uitsluitend genetisch gemodificeerde organismen met betrekki
 
 #### *Bepalingen in verband met Europese verordeningen* 
 
-Treedt in werking per 01-03-2015 
-
 ### Artikel  46  
-Treedt in werking per 01-03-2015 
 
 Indien de uitvoerder, bedoeld in verordening 1946/2003, een administratie bijhoudt als bedoeld in artikel 10, eerste lid, of artikel 28, eerste lid, maakt het dossier, bedoeld in artikel 6 van verordening 1946/2003, onderdeel van die administratie uit. 
 
@@ -1152,22 +1064,17 @@ Indien de uitvoerder, bedoeld in verordening 1946/2003, een administratie bijhou
 
 #### *Overgangsbepalingen* 
 
-Treedt in werking per 01-03-2015 
-
 ### Artikel  47  
-Treedt in werking per 01-03-2015 
 
 1.  Na de inwerkingtreding van deze regeling berust de toelating van een biologischeveiligheidsfunctionaris, bedoeld in artikel 4, eerste lid, van de Regeling genetisch gemodificeerde organismen, op artikel 11, eerste lid, van deze regeling.   
 2.  Na de inwerkingtreding van deze regeling berust de toelating van een milieuveiligheidsfunctionaris, als bedoeld in artikel 11, eerste lid, van de Regeling genetisch gemodificeerde organismen, op artikel 30, eerste lid, van deze regeling.   
 3.  De Regeling genetisch gemodificeerde organismen zoals deze gold onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze regeling, blijft van toepassing op een besluit op een verzoek om toelating, gedaan aan de Minister op grond van artikel 4, eerste lid, of artikel 11, eerste lid, van de Regeling genetisch gemodificeerde organismen, totdat dat besluit onherroepelijk is geworden.  
 
 ### Artikel  48  
-Treedt in werking per 01-03-2015 
 
 Elke biologischeveiligheidsfunctionaris die als zodanig is toegelaten op het tijdstip van inwerkingtreding van deze regeling, is mede toegelaten voor de categorie van fysische inperking AP-I. 
 
 ### Artikel  49  
-Treedt in werking per 01-03-2015 
 
 1.  Het tweede, derde en vierde lid zijn van toepassing op de volgende besluiten: 
 
@@ -1182,7 +1089,6 @@ c. een toelating van een biologischeveiligheidsfunctionaris krachtens artikel 4,
 5.  Het bevoegd gezag kan, in afwijking van het tweede, derde en vierde lid, met ingang van of na het tijdstip van inwerkingtreding van deze regeling in het besluit een andere bijlage onderscheidenlijk een andere categorie van fysische inperking aangeven.  
 
 ### Artikel  50  
-Treedt in werking per 01-03-2015 
 
 1.  In aanvulling op artikel 49, tweede en derde lid en bijlage 12, wordt op ingeperkt gebruik: 
 
@@ -1192,7 +1098,6 @@ b. waarop categorie van fysische inperking ML-I wordt toegepast,   in plaats daa
 2.  Artikel 49, vijfde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  51  
-Treedt in werking per 01-03-2015 
 
 1.  Indien aan een beschikking als bedoeld in artikel 6.8 van het Besluit op het tijdstip van inwerkingtreding van deze regeling een voorschrift is verbonden dat betrekking heeft op handelingen buiten inperking, wordt voor de toepassing van die beschikking de locatie van deze handelingen voortaan aangemerkt als apparatuurruimte.   
 2.  Naast de in de betrokken beschikking opgenomen voorschriften en aanvullende voorschriften, verbonden aan de handelingen in de apparatuurruimte, bedoeld in het eerste lid, zijn mede van toepassing de voorschriften die zijn verbonden aan de categorie van fysische inperking AP-I, voor zover deze niet in strijd zijn met de in de betrokken beschikking opgenomen voorschriften en aanvullende voorschriften.  
@@ -1201,10 +1106,7 @@ Treedt in werking per 01-03-2015
 
 #### *Wijziging van andere regelingen* 
 
-Treedt in werking per 01-03-2015 
-
 ### Artikel  52  
-Treedt in werking per 01-03-2015 
 
 Wijzigt de Regeling omgevingsrecht.
 
@@ -1212,20 +1114,15 @@ Wijzigt de Regeling omgevingsrecht.
 
 #### *Slotbepalingen* 
 
-Treedt in werking per 01-03-2015 
-
 ### Artikel  53  
-Treedt in werking per 01-03-2015 
 
 De Regeling genetisch gemodificeerde organismen wordt ingetrokken. 
 
 ### Artikel  54  
-Treedt in werking per 01-03-2015 
 
 Deze regeling treedt in werking met ingang van het tijdstip waarop het Besluit genetisch gemodificeerde organismen milieubeheer 2013 in werking treedt. 
 
 ### Artikel  55  
-Treedt in werking per 01-03-2015 
 
 Deze regeling wordt aangehaald als: Regeling genetisch gemodificeerde organismen milieubeheer 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
@@ -1237,8 +1134,6 @@ W.J. Mansveld
 ### Bijlage 1 
 
 ####, behorende bij artikel 3  en artikel 4  van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
-
-Treedt in werking per 01-03-2015 
 
 #### *Overbrenging en vervoer van genetisch gemodificeerde organismen* 
 
@@ -1291,8 +1186,6 @@ i. voor het vervoer conform a tot en met h geldt dat op de verpakking of in de b
 ### Bijlage 2 
 
 ####, behorende bij artikel 21  van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
-
-Treedt in werking per 01-03-2015 
 
 #### *Combinaties van lijsten als bedoeld in artikel 2.10 van het Besluit* 
 
@@ -4429,15 +4322,12 @@ f. functies waardoor de insertie als virale vector kan functioneren;
 g. een antibioticumresistentie die van nature niet voorkomt in de soort waartoe de gastheer behoort, of in aanverwante soorten, indien daardoor de toepassing van medicijnen ter bestrijding van ziekteverwekkers in gevaar wordt gebracht.     
 
 ### Bijlage  3  
-Treedt in werking per 01-03-2015 
 
 *Gereserveerd voor de combinatie van lijsten, bedoeld in artikel 2.11 van het Besluit.*  
 
 ### Bijlage 4 
 
 ####, behorende bij artikel 16  van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
-
-Treedt in werking per 01-03-2015 
 
 #### *De indeling in klassen van pathogene micro-organismen* 
 
@@ -6032,8 +5922,6 @@ In onderstaande tabel is voor de opgenomen virussen ten behoeve van werkzaamhede
 
 ####, behorende bij artikel 16  en artikel 17, tweede lid , van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
 
-Treedt in werking per 01-03-2015 
-
 #### *Inschaling van activiteiten met genetisch gemodificeerde organismen* 
 
 In deze bijlage is de uitkomst van de risicobeoordeling, overeenkomstig artikel 2.5 van het Besluit en artikel 16 van deze regeling, omschreven voor een aantal individueel bepaalde groepen van soortgelijke genetisch gemodificeerde organismen. De uitkomst van de risicobeoordeling is daarbij vastgelegd in de vorm van inschalingsartikelen. De term ‘inschaling’ wordt daarbij gehanteerd voor een risicobeoordeling met toepassing van deze bijlage en die voor een specifieke activiteit met een bepaald genetisch gemodificeerd organisme leidt tot de vaststelling van de daarvoor van toepassing zijnde categorie van fysische inperking en inperkingsniveau. Met de term inschalingsartikel wordt bedoeld de in deze bijlage genummerde onderdelen 5.1 tot en met 5.15. Een inschalingsartikel is vervolgens onderverdeeld in leden, aangeduid met a, b, c, enzovoort, en eventueel in onderdelen, bijvoorbeeld als er onderscheid wordt gemaakt in micro-organismen van klasse 1, 2, 3 of 4. Deze bijlage bestaat uit twee delen.  *Deel I* geldt voor alle genetisch gemodificeerde organismen en bevat generieke inschalingartikelen die elk per groep van genetische gemodificeerde organismen als uitkomst van de risicobeoordeling een categorie van fysische inperking en een passend inperkingsniveau geven. De categorie van fysische inperking geeft hierbij aan in welk type werkruimte en onder welke voorschriften, zoals opgenomen in bijlage 9 van deze regeling, de genetisch gemodificeerde organismen op een veilige manier gehanteerd kunnen worden. Het inperkingsniveau geeft aan welk veiligheidsniveau en welke procedure van toepassing is. De omschrijving van het inschalingsartikel moet daarbij in zijn geheel passend zijn voor de voorgenomen activiteit met het genetisch gemodificeerde organisme om het in de daarbij behorende categorie van fysische inperking en het inperkingsniveau te mogen hanteren. Bij de toepassing van deel I is er altijd maar één inschalingsartikel van deel I van toepassing. Is de omschrijving niet geheel passend voor de voorgenomen activiteit of bestaat er twijfel welk inschalingsartikel van deel I van toepassing is, dan moet artikel 2.8 van het Besluit worden toegepast. Voor de toepassing van deel I kan het van belang zijn om te weten tot welke klasse een micro-organisme behoort dat als gastheer of donor wordt gebruikt. In een dergelijk geval wordt dit aangegeven in het inschalingsartikel en moet voor de van toepassing zijnde klasse van het betreffende micro-organisme worden gekeken naar bijlage 4 en lijst A1 van combinatie A zoals opgenomen in bijlage 2 van deze regeling. Indien de aanduiding van de klasse van het virus in bijlage 4, subonderdeel 4.1.1, van deze regeling is opgenomen in de meest rechtse kolom met het opschrift ‘strikt dier pathogene virussen’ wordt het virus *voor de toepassing van deze bijlage *aangemerkt als ‘strikt dierpathogeen virus’. Is de aanduiding van de klasse van het virus in bijlage 4, subonderdeel 4.1.1 van deze regeling opgenomen in de op één na rechtse kolom met het opschrift ‘dier- en humaan pathogene virussen’, dan wordt het virus voor de toepassing van deze bijlage als ‘humaan pathogeen’ aangemerkt. Indien het virus staat vermeld in de kolom ‘dier- en humaanpathogene virussen’ kan een gebruiker, indien gewenst, op grond van artikel 2.8 van het Besluit een verzoek indienen om het virus voor zijn werkzaamheden te laten classificeren als een strikt dierpathogeen. Met betrekking tot de toepassing van het inschalingsartikel 5.4.2 moet worden opgemerkt dat dit inschalingsartikel uitsluitend betrekking heeft op de in dat artikel aangegeven biologisch ingeperkt systemen. Overige virale systemen vallen onder inschalingsartikel 5.4.3, dus ook de biologisch ingeperkte systemen die niet zijn genoemd in artikel 5.4.2.  *Deel II* moet daarnaast altijd worden gehanteerd voor die genetisch gemodificeerde organismen waarvan de uitkomst blijkens deel I inperkingsniveau I of II-k is. Indien er sprake is van inperkingsniveau II-v, III of IV dan hoeft deel II niet te worden toegepast. In deel II wordt nagegaan of er naast de categorie van fysische inperking, zoals bepaald in deel I, nog aanvullende voorschriften toegepast moeten worden om de werkzaamheden in specifieke gevallen dan wel met specifieke genetisch gemodificeerde organismen veilig te kunnen uitvoeren op inperkingsniveau I of II-k. Ook deze categorieën van aanvullende voorschriften hebben de vorm van een inschalingsartikel. In deel II kunnen *meerdere* inschalingsartikelen van toepassing zijn op een bepaalde activiteit met een genetisch gemodificeerd organisme. In zo’n geval moeten alle aanvullende voorschriften in acht genomen worden om de genetisch gemodificeerde organismen op de daarbij vermelde categorie van fysische inperking en het inperkingsniveau I of II-k te mogen hanteren. 
@@ -6555,8 +6443,6 @@ a. Activiteiten met genetisch gemodificeerde organismen afkomstig van ML-I, D-I,
 
 ####, behorende bij artikel 20, derde en vierde lid , van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
 
-Treedt in werking per 01-03-2015 
-
 #### *Criteria voor de beoordeling van een verzoek op grond van artikel 2.8 van het Besluit voor een omlaagschaling van handelingen met genetisch gemodificeerde organismen naar categorie van fysische inperking MI-II of MI-I dan wel S-I* 
 
 Handelingen met genetisch gemodificeerde organismen, die normaliter onder laboratoriumcondities kunnen worden verricht in een ML-I of ML-II ruimte, worden met gebruikmaking van bijlage 5 van deze regeling ingeschaald op MI-III (op grond van respectievelijk inschalingsartikel 5.7.1.a en 5.7.1.b), maar kunnen bij toepassing in procesinstallaties in bepaalde gevallen op een lager inperkingsniveau dan MI-III worden uitgevoerd. Daartoe kan op grond van artikel 2.8 van het Besluit bij de Minister een verzoek om omlaagschaling worden ingediend. Het genetisch gemodificeerde organisme moet, om voor omlaagschaling in aanmerking te komen, voldoen aan een aantal criteria. In deze bijlage zijn indicatieve criteria opgenomen, zodat vooraf nagegaan kan worden of het genetisch gemodificeerde organisme voor een omlaagschaling in aanmerking zou kunnen komen. De criteria, die worden gehanteerd voor een omlaagschaling van MI-III naar MI-I, worden ook gehanteerd voor de beoordeling van een verzoek om omlaagschaling naar S-I van handelingen die overeenkomstig bijlage 5 van deze regeling worden ingeschaald op S-III. In dit geval moeten de handelingen met de genetisch gemodificeerde organismen zowel voldoen aan de criteria die zijn opgenomen onder 6.1 als aan die opgenomen onder 6.2. 
@@ -6650,8 +6536,6 @@ j. De insertie is in omvang zoveel mogelijk beperkt tot de voor het beoogde doel
 ### Bijlage 7 
 
 ####, behorende bij artikel 16  van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
-
-Treedt in werking per 01-03-2015 
 
 #### *Lijst van genetisch gemodificeerde planten die het stadium van bloei bereiken en geen genetische informatie bevatten die voor een schadelijk genproduct kan coderen, behorende bij inschalingsartikel 5.5.1, inschalingsartikel 5.5.2 en inschalingsartikel 5.5.3* 
 
@@ -6839,8 +6723,6 @@ De tabel van deze bijlage geeft een overzicht van planten, waarvoor de categorie
 ### Bijlage 8 
 
 ####, behorende bij artikel 19  van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
-
-Treedt in werking per 01-03-2015 
 
 #### *Risicobeoordeling overeenkomstig de beginselen voor een risicobeoordeling* 
 
@@ -7127,8 +7009,6 @@ Voor de situaties II en III van stap 4, worden, uitgaande van de toepassing van 
 ### Bijlage 9 
 
 ####, behorende bij artikel 5  en artikel 24  van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
-
-Treedt in werking per 01-03-2015 
 
 #### *Voorschriften verbonden aan de categorieën van fysische inperking en het ODG* 
 
@@ -10014,8 +9894,6 @@ s. De te kweken cultuurvloeistof bedraagt maximaal 10 liter.
 
 ####, behorende bij artikel 41  van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
 
-Treedt in werking per 01-03-2015 
-
 #### *Voorschriften voor activiteiten met genetisch gemodificeerde organismen waarvoor een vergunning onder vaste voorschriften is verleend* 
 
 In deze bijlage wordt verstaan onder: 
@@ -10137,15 +10015,12 @@ d. conform het bepaalde hieromtrent in de aanvraag, voor zover het desbetreffend
 De gebruikte planten, plantendelen, zaden van die planten, of producten afgeleid van die planten, worden niet voor menselijke of dierlijke consumptie aangewend. 
 
 ### Bijlage  11  
-Treedt in werking per 01-03-2015 
 
 *Gereserveerd voor de aanwijzing van genetisch gemodificeerde organismen, bedoeld in artikel 15, onder b.*  
 
 ### Bijlage 12 
 
 ####, behorende bij artikel 49, eerste, tweede en vierde lid , van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
-
-Treedt in werking per 01-03-2015 
 
 #### *Transponeringstabellen voor benamingen in besluiten als bedoeld in artikel 49, vierde lid* 
 

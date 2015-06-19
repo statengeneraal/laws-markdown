@@ -319,7 +319,7 @@ Bij de vaststelling van de grenzen van de bebouwde kom of kommen als bedoeld in 
 
 1.  Aan een gehandicapte kan, overeenkomstig de bij ministeriële regeling gestelde criteria, door het college van burgemeester en wethouders van de gemeente waar hij als ingezetene met een adres is ingeschreven in de basisregistratie personen, een gehandicaptenparkeerkaart worden verstrekt.   
 2.  Aan het bestuur van een instelling die is toegelaten op grond van artikel 5, eerste lid, van de Wet toelating zorginstellingen en die zorg verleent als bedoeld in artikel 3.1.1 van de Wet langdurige zorg kan, overeenkomstig de bij ministeriële regeling gestelde criteria, door het college van burgemeester en wethouders van de gemeente waar de instelling is gevestigd, een gehandicaptenparkeerkaart worden verstrekt ten behoeve van het vervoer van gehandicapten die in de betrokken instelling verblijven.   
-3.  Aan een gehandicapte die niet als ingezetene is ingeschreven in de basisregistratie personen kan, overeenkomstig de bij ministeriële regeling gestelde criteria, door Onze Minister een gehandicaptenparkeerkaart worden verstrekt.  
+3.  Aan een gehandicapte die niet als ingezetene is ingeschreven in de basisregistratie personen kan, overeenkomstig de bij ministeriële regeling gestelde criteria, door het CBR een gehandicaptenparkeerkaart worden verstrekt.  
 
 ### Artikel  50  
 
