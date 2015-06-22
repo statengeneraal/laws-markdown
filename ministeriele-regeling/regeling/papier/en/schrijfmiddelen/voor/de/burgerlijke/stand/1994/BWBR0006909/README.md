@@ -3,7 +3,7 @@
 ##Regeling betreffende het voor de akten van de burgerlijke stand en de dubbelen of de afschriften te gebruiken papier en de voor het opmaken van deze stukken te hanteren middelen
 
 De Staatssecretaris van Justitie,  
-Gelet op [artikel 10 van het Besluit burgerlijke stand 1994](../../../../../../../../../../../AMvB/besluit/burgerlijke/stand/1994/BWBR0006493/README.md), Stb. 1994, 160;
+Gelet op artikel 10 van het Besluit burgerlijke stand 1994, Stb. 1994, 160;
 Besluit:    
 
 ###Artikel 1 

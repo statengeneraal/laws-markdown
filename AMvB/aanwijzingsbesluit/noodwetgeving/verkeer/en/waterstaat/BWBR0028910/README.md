@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Ministers van Verkeer en Waterstaat en van Defensie van 14 juli 2010, nr. CEND/HDJZ-2010/1006 sector AWW, Hoofddirectie Juridische Zaken, mede namens Onze Minister van Economische Zaken;
 
-Gelet op de [artikelen 27, eerste lid, van de Vervoersnoodwet](../../../../../../../wet/vervoersnoodwet/BWBR0002391/README.md), [22, eerste lid, van de Havennoodwet](../../../../../../../wet/havennoodwet/BWBR0002410/README.md) en [16, tweede lid, van de Prijzennoodwet](../../../../../../../wet/prijzennoodwet/BWBR0003734/README.md);
+Gelet op de artikelen 27, eerste lid, van de Vervoersnoodwet, 22, eerste lid, van de Havennoodwet en 16, tweede lid, van de Prijzennoodwet;
 
 De Raad van State gehoord (advies van 17 augustus 2010, nr. W09.10.0351/IV);
 
@@ -15,18 +15,18 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder regionale dienst: regionale dienst van het directoraat-generaal Rijkswaterstaat, ingesteld door Onze Minister van Verkeer en Waterstaat krachtens [artikel 8 van het Organiek Besluit Rijkswaterstaat](../../../../../../../AMvB/organiek/besluit/rijkswaterstaat/BWBR0002743/README.md). 
+In dit besluit wordt verstaan onder het regionale organisatieonderdeel: het regionale organisatieonderdeel van het directoraat-generaal Rijkswaterstaat, ingesteld krachtens artikel 2, eerste lid, onder b, van het Instellingsbesluit directoraat-generaal Rijkswaterstaat 2013. 
 
 ### Artikel  2  
 
-1.  Als de autoriteiten, bedoeld in [artikel 27, eerste lid, van de Vervoersnoodwet](../../../../../../../wet/vervoersnoodwet/BWBR0002391/README.md) worden voor Onze Minister van Verkeer en Waterstaat aangewezen de hoofdingenieur-directeuren van de regionale diensten, ieder voor het gezagsgebied van de regionale dienst waarvoor hij is aangesteld.   
-2.  Als de autoriteiten, bedoeld in [artikel 27, eerste lid, van de Vervoersnoodwet](../../../../../../../wet/vervoersnoodwet/BWBR0002391/README.md) worden voor Onze Minister van Defensie aangewezen de regionale militaire commandanten, ieder voor het gezagsgebied waarvoor hij is aangesteld.  
+1.  Als de autoriteiten, bedoeld in artikel 27, eerste lid, van de Vervoersnoodwet worden voor Onze Minister van Infrastructuur en Milieu aangewezen de hoofdingenieur-directeuren van de regionale organisatieonderdelen, ieder voor het gezagsgebied van het regionale organisatieonderdeel waarvoor hij is aangesteld.   
+2.  Als de autoriteiten, bedoeld in artikel 27, eerste lid, van de Vervoersnoodwet worden voor Onze Minister van Defensie aangewezen de regionale militaire commandanten, ieder voor het gezagsgebied waarvoor hij is aangesteld.  
 
 ### Artikel  3  
 
-1.  Als de autoriteiten, bedoeld in [artikel 22, eerste lid, van de Havennoodwet](../../../../../../../wet/havennoodwet/BWBR0002410/README.md) worden voor Onze Minister van Verkeer en Waterstaat aangewezen: 
+1.  Als de autoriteiten, bedoeld in artikel 22, eerste lid, van de Havennoodwet worden voor Onze Minister van Infrastructuur en Milieu aangewezen: 
 
-a. de hoofdingenieur-directeuren van de regionale diensten, ieder voor de havens binnen het gezagsgebied van de regionale dienst waarvoor hij is aangesteld;  
+a. de hoofdingenieur-directeuren van de regionale organisatieonderdelen, ieder voor de havens binnen het gezagsgebied van het regionale organisatieonderdeel waarvoor hij is aangesteld;  
 
 b. de havenmeester van het Havenbedrijf Rotterdam N.V. voor: 
 
@@ -69,15 +69,15 @@ d. het Hoofd Facilitair Steunpunt Nieuwe Haven van de Koninklijke Marine te Den 
 13°. 52°57'.9 NB, 04°48'.1 OL;    
 
 e. de directeur Kustwacht voor de Nederlandse territoriale zee, behoudens de onder b, onderdeel 2°, de onder c, onderdeel 2°, en de onder d genoemde gebieden, voorzover die in de Noordzee zijn gelegen.     
-2.  Als de autoriteiten, bedoeld in [artikel 22, eerste lid, van de Havennoodwet](../../../../../../../wet/havennoodwet/BWBR0002410/README.md) worden voor Onze Minister van Defensie aangewezen de regionale militaire commandanten, ieder voor de havens binnen het gezagsgebied waarvoor hij is aangesteld.  
+2.  Als de autoriteiten, bedoeld in artikel 22, eerste lid, van de Havennoodwet worden voor Onze Minister van Defensie aangewezen de regionale militaire commandanten, ieder voor de havens binnen het gezagsgebied waarvoor hij is aangesteld.  
 
 ### Artikel  4  
 
-De in de artikelen 2 en 3 aangewezen autoriteiten oefenen de krachtens de [artikelen 27 van de Vervoersnoodwet](../../../../../../../wet/vervoersnoodwet/BWBR0002391/README.md) en [22 van de Havennoodwet](../../../../../../../wet/havennoodwet/BWBR0002410/README.md) gemandateerde bevoegdheden zoveel mogelijk uit na overleg met de voorzitters van de veiligheidsregio’s die binnen het gezagsgebied van de betrokken autoriteit zijn gelegen. 
+De in de artikelen 2 en 3 aangewezen autoriteiten oefenen de krachtens de artikelen 27 van de Vervoersnoodwet en 22 van de Havennoodwet gemandateerde bevoegdheden zoveel mogelijk uit na overleg met de voorzitters van de veiligheidsregio’s die binnen het gezagsgebied van de betrokken autoriteit zijn gelegen. 
 
 ### Artikel  5  
 
-De in de artikelen 2 en 3 aangewezen autoriteiten maken de regelingen die zij hebben vastgesteld krachtens [artikel 16 van de Vervoersnoodwet](../../../../../../../wet/vervoersnoodwet/BWBR0002391/README.md) en [artikel 8 van de Havennoodwet](../../../../../../../wet/havennoodwet/BWBR0002410/README.md) zo mogelijk bekend in een of meer in het betrokken gebied verschijnende dag- of weekbladen. De regelingen treden niet in werking alvorens zij op die wijze, dan wel indien dit niet mogelijk is, op een andere door hen bepaalde wijze, zijn bekendgemaakt. 
+De in de artikelen 2 en 3 aangewezen autoriteiten maken de regelingen die zij hebben vastgesteld krachtens artikel 16 van de Vervoersnoodwet en artikel 8 van de Havennoodwet zo mogelijk bekend in een of meer in het betrokken gebied verschijnende dag- of weekbladen. De regelingen treden niet in werking alvorens zij op die wijze, dan wel indien dit niet mogelijk is, op een andere door hen bepaalde wijze, zijn bekendgemaakt. 
 
 ### Artikel  6  
 
@@ -85,7 +85,7 @@ Wijzigt het Aanwijzingsbesluit economische noodwetgeving.
 
 ### Artikel  7  
 
-Dit besluit wordt aangehaald als: Aanwijzingsbesluit noodwetgeving Verkeer en Waterstaat. 
+Dit besluit wordt aangehaald als: Aanwijzingsbesluit noodwetgeving Infrastructuur en Milieu. 
 
 ### Artikel  8  
 

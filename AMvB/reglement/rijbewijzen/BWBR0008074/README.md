@@ -56,29 +56,27 @@ o.nascholing: periodiek opleidingstraject dat in de richtlijn vakbekwaamheid bes
 
 p.getuigschrift van nascholing: document dat dient als bewijs dat de houder de nascholing heeft afgerond;
 
-q.aangewezen exameninstantie: persoon of instelling als bedoeld in artikel 151f, eerste lid, van de Wegenverkeerswet 1994;
+q.verklaring van vakbekwaamheid: verklaring die het CBR in het rijbewijzenregister registreert nadat de aanvrager de basiskwalificatie heeft behaald;
 
-r.verklaring van vakbekwaamheid: verklaring die de aangewezen exameninstantie in het rijbewijzenregister registreert nadat de aanvrager de basiskwalificatie heeft behaald;
+r.verklaring van nascholing: verklaring die het CBR in het rijbewijzenregister registreert nadat de aanvrager de nascholing heeft afgerond;
 
-s.verklaring van nascholing: verklaring die de aangewezen exameninstantie in het rijbewijzenregister registreert nadat de aanvrager de nascholing heeft afgerond;
+s.Nederlands omwisselingscertificaat: certificaat als bedoeld in artikel 151g, vierde lid, van de Wegenverkeerswet 1994;
 
-t.Nederlands omwisselingscertificaat: certificaat als bedoeld in artikel 151g, vierde lid, van de Wegenverkeerswet 1994;
+t.buitenlands omwisselingscertificaat: certificaat afgegeven door de bevoegde autoriteit van een lidstaat van de Europese Gemeenschap overeenkomstig de richtlijn vakbekwaamheid bestuurders aantonende dat de bestuurder de basiskwalificatie heeft behaald of de nascholing heeft afgerond;
 
-u.buitenlands omwisselingscertificaat: certificaat afgegeven door de bevoegde autoriteit van een lidstaat van de Europese Gemeenschap overeenkomstig de richtlijn vakbekwaamheid bestuurders aantonende dat de bestuurder de basiskwalificatie heeft behaald of de nascholing heeft afgerond;
+u.bestuurdersattest: bestuurdersattest als bedoeld in artikel 151c, vierde lid, onderdeel a, van de Wegenverkeerswet 1994;
 
-v.bestuurdersattest: bestuurdersattest als bedoeld in artikel 151c, vierde lid, onderdeel a, van de Wegenverkeerswet 1994;
+v.nationaal certificaat: certificaat als bedoeld in artikel 151c, vierde lid, onderdeel b, van de Wegenverkeerswet 1994;
 
-w.nationaal certificaat: certificaat als bedoeld in artikel 151c, vierde lid, onderdeel b, van de Wegenverkeerswet 1994;
+w.kwalificatiekaart bestuurder: kaart afgegeven door de bevoegde autoriteit van een lidstaat van de Europese Gemeenschap overeenkomstig de richtlijn vakbekwaamheid bestuurders aantonende dat de bestuurder de basiskwalificatie heeft behaald of de nascholing heeft afgerond;
 
-x.kwalificatiekaart bestuurder: kaart afgegeven door de bevoegde autoriteit van een lidstaat van de Europese Gemeenschap overeenkomstig de richtlijn vakbekwaamheid bestuurders aantonende dat de bestuurder de basiskwalificatie heeft behaald of de nascholing heeft afgerond;
+x.deelcertificaat: certificaat aantonende dat de bestuurder een aantal uren nascholing heeft gevolgd, maar nog niet heeft afgerond;
 
-y.deelcertificaat: certificaat aantonende dat de bestuurder een aantal uren nascholing heeft gevolgd, maar nog niet heeft afgerond;
+y.  persoonssleutel: unieke code toegekend aan natuurlijke personen zonder burgerservicenummer om deze eenduidig te kunnen identificeren; 
 
-z.  persoonssleutel: unieke code toegekend aan natuurlijke personen zonder burgerservicenummer om deze eenduidig te kunnen identificeren; 
+z.  motorrijtuig met handschakeling: motorrijtuig, met een koppeling, die door de bestuurder moet worden bediend om weg te rijden, te stoppen en te schakelen; 
 
-aa.  motorrijtuig met handschakeling: motorrijtuig, met een koppeling, die door de bestuurder moet worden bediend om weg te rijden, te stoppen en te schakelen; 
-
-ab.  motorrijtuig met automatische schakeling: motorrijtuig, niet zijnde een motorrijtuig met handschakeling, al dan niet voorzien van een schakelaar of een hendel, waarmee de bestuurder invloed kan uitoefenen op de gangwissel van het motorrijtuig.  
+aa.  motorrijtuig met automatische schakeling: motorrijtuig, niet zijnde een motorrijtuig met handschakeling, al dan niet voorzien van een schakelaar of een hendel, waarmee de bestuurder invloed kan uitoefenen op de gangwissel van het motorrijtuig.  
 
 ### §  2  
 
@@ -536,7 +534,7 @@ Aan de aanvrager van een rijbewijs, die blijkens de ten behoeve van hem in het r
 
 ### Artikel  25  
 
-Aan de aanvrager van een rijbewijs, die blijkens de ten behoeve van hem in het rijbewijzenregister geregistreerde verklaring van geschiktheid de voor het besturen van motorrijtuigen vereiste geschiktheid slechts bezit voor een termijn die korter is dan de in artikel 122, eerste lid, van de wet voorziene geldigheidsduur van het rijbewijs, wordt een rijbewijs afgegeven dat slechts geldig is gedurende die kortere termijn.  
+Aan de aanvrager van een rijbewijs, die blijkens de ten behoeve van hem in het rijbewijzenregister geregistreerde verklaring van geschiktheid de voor het besturen van motorrijtuigen vereiste geschiktheid slechts bezit voor een termijn die korter is dan de in artikel 25a, eerste of tweede lid, voorziene geldigheidsduur van het rijbewijs, wordt een rijbewijs afgegeven dat slechts geldig is gedurende die kortere termijn.  
 
 ### §  7  
 
@@ -1846,7 +1844,7 @@ Het praktijkexamen voor het rijbewijs C1 bestaat uit het afleggen van een rijpro
 
 ### Artikel  73  
 
-1. Het praktijkexamen voor het rijbewijs C bestaat uit het afleggen van een rijproef met een motorrijtuig, niet zijnde een motorrijtuig bestemd voor het voortbewegen van een oplegger, dat niet is ingericht voor het vervoer van personen en waarvan de lengte ten minste 8 m, de breedte ten minste 2,40 m, de wielbasis ten minste 4,50 m en de toegestane maximum massa ten minste 12 000 kg bedraagt. Het motorrijtuig dient te zijn voorzien van een gesloten opbouw dan wel van een gesloten huif, ten minste even breed en hoog als de cabine, en dient met ten minste 3000 kg te zijn beladen. Het motorrijtuig dient te zijn uitgerust met een anti-blokkeersysteem, een versnellingsbak met ten minste acht voorwaartse versnellingen, waarbij de versnelling door de bestuurder met de hand wordt bediend, een toerenteller en een controle-apparaat als bedoeld in verordening (EEG) nr. 3821/85 van de Raad van de Europese Gemeenschappen van 20 december 1985 betreffende de invoering van een controle-apparaat bij het wegvervoer (PbEG L 370). Het motorrijtuig dient te zijn voorzien van een slaapcabine. Het motorrijtuig dient een snelheid te kunnen bereiken van ten minste 80 km per uur.  
+1. Het praktijkexamen voor het rijbewijs C bestaat uit het afleggen van een rijproef met een motorrijtuig, niet zijnde een motorrijtuig bestemd voor het voortbewegen van een oplegger, dat niet is ingericht voor het vervoer van personen en waarvan de lengte ten minste 8 m, de breedte ten minste 2,40 m, de wielbasis ten minste 4,50 m, de feitelijke totale massa ten minste 10.000 kg en de toegestane maximum massa ten minste 12 000 kg bedraagt. Het motorrijtuig dient te zijn voorzien van een gesloten opbouw dan wel van een gesloten huif, ten minste even breed en hoog als de cabine, en dient met ten minste 3000 kg te zijn beladen. Het motorrijtuig dient te zijn uitgerust met een anti-blokkeersysteem, een versnellingsbak met ten minste acht voorwaartse versnellingen, waarbij de versnelling door de bestuurder met de hand wordt bediend, een toerenteller en een controle-apparaat als bedoeld in verordening (EEG) nr. 3821/85 van de Raad van de Europese Gemeenschappen van 20 december 1985 betreffende de invoering van een controle-apparaat bij het wegvervoer (PbEG L 370). Het motorrijtuig dient te zijn voorzien van een slaapcabine. Het motorrijtuig dient een snelheid te kunnen bereiken van ten minste 80 km per uur.  
 2.  Indien het een praktijkexamen betreft voor de rijbewijscategorie C met het oog op de aanvraag van een rijbewijs voor die categorie, bedoeld in artikel 18a, eerste lid, is het in het eerste lid bedoelde motorrijtuig voorzien van een schakelaar of hendel, waarmee de bestuurder invloed kan uitoefenen op de gangwissel van het motorrijtuig. 
 
 ### Artikel  73a  
@@ -1976,7 +1974,8 @@ d. een bij ministeriële regeling vastgestelde aanduiding, aangebracht op de wij
 ### Artikel  82  
 
 1. Het motorrijtuig, het samenstel van trekkend motorrijtuig en aanhangwagen, dan wel het samenstel van trekkend motorrijtuig en oplegger, waarmee de rijproef wordt afgelegd, dient naar het oordeel van het CBR daartoe geschikt te zijn  
-2.  Aan de praktijkexamens voor de rijbewijscategorieën  A1, A2 en A mag slechts worden deelgenomen door kandidaten met een naar het oordeel van het CBR daartoe geschikte beschermende uitrusting, bestaande uit handschoenen, schoeisel, beschermende kleding en een helm. 
+2.  Aan de praktijkexamens voor de rijbewijscategorieën  A1, A2 en A mag slechts worden deelgenomen door kandidaten met een naar het oordeel van het CBR daartoe geschikte beschermende uitrusting, bestaande uit handschoenen, schoeisel, beschermende kleding en een helm.  
+3.  Indien in verband met lichamelijke beperkingen slechts bepaalde typen motorrijtuigen of alleen een aangepast motorrijtuig mag worden bestuurd, dan vindt het praktijkexamen plaats in zo’n motorrijtuig, dan wel in een samenstel van zo’n trekkend motorrijtuig en aanhangwagen of oplegger. 
 
 ### Artikel  83  
 
@@ -2125,7 +2124,7 @@ II. de afgifte van een rijbewijs aan een aanvrager die de leeftijd van 70 jaren
 III. de afgifte van een rijbewijs dat geldig is voor een of meer van de rijbewijscategorieën C, C1, D, D1, E bij C, E bij C1, E bij D of E bij D1.     
 3. Het in het eerste lid, aanhef, bedoelde technisch onderzoek en de daar bedoelde rijproef mogen slechts betrekking hebben op de bij ministeriële regeling aangewezen punten van onderzoek.  
 4.  De in het eerste lid bedoelde vordering wordt in de gevallen genoemd in het eerste lid, onderdelen a en b, zo spoedig mogelijk, doch uiterlijk binnen vier weken, na ontvangst van de eigen verklaring respectievelijk na het praktijkexamen in de gevallen genoemd in het eerste lid, onderdeel c, door het CBR gedaan.  
-5.  Indien betrokkene niet komt opdagen voor het in het eerste lid bedoelde technische onderzoek zonder dat hij daarvoor een naar het oordeel van het CBR geldige reden heeft opgegeven, is betrokkene een door het CBR vastgesteld bedrag verschuldigd. Een nieuwe datum voor bedoeld technisch onderzoek wordt eerst vastgesteld nadat betaling van dit bedrag aan het CBR heeft plaatsgevonden. 
+5.  Indien aanvrager niet komt opdagen voor het in het eerste lid bedoelde technische onderzoek of rijproef zonder dat hij daarvoor een naar het oordeel van het CBR geldige reden heeft opgegeven, is aanvrager een door het CBR vastgesteld bedrag verschuldigd. Een nieuwe datum voor bedoeld technisch onderzoek of rijproef wordt eerst vastgesteld nadat betaling van dit bedrag aan het CBR heeft plaatsgevonden. 
 
 ### §  3  
 
@@ -2134,7 +2133,7 @@ III. de afgifte van een rijbewijs dat geldig is voor een of meer van de rijbewij
 ### Artikel  102  
 
 1.  Door de aangewezen arts of artsen wordt zo spoedig mogelijk, doch uiterlijk acht weken na de aanvang van de keuring, bedoeld in artikel 101, eerste lid aan het CBR schriftelijk medegedeeld voor welke rijbewijscategorie of rijbewijscategorieën de aanvrager naar zijn of naar hun oordeel voldoet aan de bij ministeriële regeling vastgestelde eisen met betrekking tot de lichamelijke en geestelijke geschiktheid en voor welke rijbewijscategorie of rijbewijscategorieën hij aan die eisen niet voldoet.    
-2.  Indien naar het oordeel van de aangewezen arts of artsen redelijke grond bestaat voor de verwachting dat de aanvrager slechts aan de bij ministeriële regeling vastgestelde eisen met betrekking tot de lichamelijke en geestelijke geschiktheid voldoet voor een daarbij te bepalen termijn die korter is dan de in artikel 122, eerste lid, van de wet voorziene geldigheidsduur, wordt zulks door hem of door hen schriftelijk medegedeeld aan het CBR onder vermelding van de termijn waarvoor de aanvrager naar zijn of naar hun oordeel aan die eisen voldoet.    
+2.  Indien naar het oordeel van de aangewezen arts of artsen redelijke grond bestaat voor de verwachting dat de aanvrager slechts aan de bij ministeriële regeling vastgestelde eisen met betrekking tot de lichamelijke en geestelijke geschiktheid voldoet voor een daarbij te bepalen termijn die korter is dan de in artikel 25a, eerste of tweede lid, voorziene geldigheidsduur, wordt zulks door hem of door hen schriftelijk medegedeeld aan het CBR onder vermelding van de termijn waarvoor de aanvrager naar zijn of naar hun oordeel aan die eisen voldoet.    
 3.  Het CBR kan in bijzondere gevallen toestaan dat door de arts of artsen van de in het eerste lid bedoelde termijn wordt afgeweken. 
 
 ### Artikel  103  
@@ -2164,7 +2163,7 @@ c. de aanvraag mede betrekking heeft op een van de rijbewijscategorieën C, C1, 
 
 d. blijkens een aantekening in het rijbewijzenregister naar het oordeel van het CBR de registratie van een dergelijke verklaring noodzakelijk is op grond van bij het CBR bekend zijnde gegevens met betrekking tot de lichamelijke en geestelijke geschiktheid van de aanvrager.     
 7.  Op het geneeskundig verslag, bedoeld in het zesde lid, is artikel 100, vijfde lid, van overeenkomstige toepassing.  
-8.  Indien naar het oordeel van het CBR redelijke grond bestaat voor de verwachting dat de aanvrager slechts aan de bij ministeriële regeling vastgestelde eisen met betrekking tot de lichamelijke en geestelijke geschiktheid voldoet voor een daarbij te bepalen termijn die korter is dan de in artikel 122, eerste lid, van de wet voorziene geldigheidsduur, registreert het CBR die termijn in het rijbewijzenregister binnen de in het eerste lid aangegeven termijn.    
+8.  Indien naar het oordeel van het CBR redelijke grond bestaat voor de verwachting dat de aanvrager slechts aan de bij ministeriële regeling vastgestelde eisen met betrekking tot de lichamelijke en geestelijke geschiktheid voldoet voor een daarbij te bepalen termijn die korter is dan de in artikel 25a, eerste of tweede lid, voorziene geldigheidsduur, registreert het CBR die termijn in het rijbewijzenregister binnen de in het eerste lid aangegeven termijn.    
 9.  Indien de aanvrager naar het oordeel van het CBR aan de bij ministeriële regeling vastgestelde eisen ten aanzien van de lichamelijke en geestelijke geschiktheid tot het besturen van motorrijtuigen van de rijbewijscategorie of rijbewijscategorieën waarop de aanvraag betrekking heeft, slechts kan voldoen indien het door hem te besturen motorrijtuig aan bepaalde eisen voldoet dan wel indien de aanvrager bij het besturen gebruik maakt van kunst- of hulpmiddelen, is het, ten einde de aard van de mogelijke aanpassingen aan het motorrijtuig of van de door de aanvrager te gebruiken kunst- of hulpmiddelen vast te stellen, bevoegd technisch onderzoek te verrichten of te doen verrichten dan wel van de aanvrager te vorderen dat deze zich onderwerpt aan een rijproef.    
 10.  Indien de aanvrager naar het oordeel van het CBR aan de bij ministeriële regeling vastgestelde eisen met betrekking tot de lichamelijke en geestelijke geschiktheid tot het besturen van motorrijtuigen van de rijbewijscategorie of rijbewijscategorieën waarop de aanvraag betrekking heeft, slechts voldoet indien het door hem te besturen motorrijtuig aan bepaalde eisen voldoet dan wel indien de aanvrager bij het besturen gebruik maakt van kunst- of hulpmiddelen, registreert het CBR binnen de in het eerste lid aangegeven termijn de noodzakelijk geachte aanpassingen aan het motorrijtuig dan wel de door de bestuurder te gebruiken kunst- of hulpmiddelen in het rijbewijzenregister door middel van een bij ministeriële regeling vastgestelde codering.   
 11.  Indien de aanvrager naar het oordeel van het CBR aan de bij ministeriële regeling vastgestelde eisen met betrekking tot de lichamelijke en geestelijke geschiktheid tot het besturen van motorrijtuigen van de rijbewijscategorie of rijbewijscategorieën waarop de aanvraag betrekking heeft, slechts voldoet indien hij het motorrijtuig bestuurt binnen een geografisch beperkt gebied, registreert het CBR binnen de in het eerste lid aangegeven termijn dat gebied in het rijbewijzenregister door middel van een bij ministeriële regeling vastgestelde codering.   
@@ -2176,7 +2175,7 @@ d. blijkens een aantekening in het rijbewijzenregister naar het oordeel van het 
 1. Indien de aanvrager van een verklaring van geschiktheid een mededeling heeft ontvangen dat geen verklaring van geschiktheid in het rijbewijzenregister wordt geregistreerd, dat een verklaring van geschiktheid wordt geregistreerd voor minder categorieën dan waarop de aanvraag betrekking heeft, of dat in het rijbewijzenregister een termijn als bedoeld in artikel 103, tweede lid, dan wel een gecodeerde aanduiding als bedoeld in artikel 103, vierde, vijfde of zesde lid, is geregistreerd, kan hij binnen vier weken na ontvangst daarvan het CBR verzoeken een of meer artsen aan te wijzen voor een keuring of herkeuring op zijn eigen kosten.  
 2.  Zo spoedig mogelijk, doch uiterlijk vier weken na ontvangst van het in het eerste lid bedoelde verzoek om keuring of herkeuring wijst het CBR een of meer artsen aan en geeft het van die aanwijzing kennis aan de aanvrager en aan de aangewezen arts of artsen.   
 3.  De aanvrager geeft de aangewezen arts of artsen inzage van de in het eerste lid bedoelde mededeling.   
-4.  Door de aangewezen arts of artsen wordt zo spoedig mogelijk, doch uiterlijk acht weken na de aanvang van het onderzoek, dan wel van het eerste gedeelte daarvan, aan het CBR schriftelijk medegedeeld voor welke rijbewijscategorie of rijbewijscategorieën de aanvrager naar zijn of naar hun oordeel voldoet aan de bij ministeriële regeling vastgestelde eisen met betrekking tot de lichamelijke en geestelijke geschiktheid en voor welke categorie of categorieën hij aan die eisen niet voldoet. Indien naar het oordeel van de aangewezen arts of artsen redelijke grond bestaat voor de verwachting dat de aanvrager slechts aan de bij ministeriële regeling vastgestelde eisen met betrekking tot de lichamelijke en geestelijke geschiktheid voldoet voor een daarbij te bepalen termijn die korter is dan de in artikel 122, eerste lid, van de wet voorziene geldigheidsduur, wordt zulks door hem of door hen schriftelijk medegedeeld aan het CBR onder vermelding van de termijn waarvoor de aanvrager naar zijn of naar hun oordeel aan die eisen voldoet. Artikel 103 is verder van toepassing.    
+4.  Door de aangewezen arts of artsen wordt zo spoedig mogelijk, doch uiterlijk acht weken na de aanvang van het onderzoek, dan wel van het eerste gedeelte daarvan, aan het CBR schriftelijk medegedeeld voor welke rijbewijscategorie of rijbewijscategorieën de aanvrager naar zijn of naar hun oordeel voldoet aan de bij ministeriële regeling vastgestelde eisen met betrekking tot de lichamelijke en geestelijke geschiktheid en voor welke categorie of categorieën hij aan die eisen niet voldoet. Indien naar het oordeel van de aangewezen arts of artsen redelijke grond bestaat voor de verwachting dat de aanvrager slechts aan de bij ministeriële regeling vastgestelde eisen met betrekking tot de lichamelijke en geestelijke geschiktheid voldoet voor een daarbij te bepalen termijn die korter is dan de in artikel 25a, eerste of tweede lid, voorziene geldigheidsduur, wordt zulks door hem of door hen schriftelijk medegedeeld aan het CBR onder vermelding van de termijn waarvoor de aanvrager naar zijn of naar hun oordeel aan die eisen voldoet. Artikel 103 is verder van toepassing.    
 5.  Het CBR kan in bijzondere gevallen toestaan dat door de arts of artsen van de in het vierde lid bedoelde termijn wordt afgeweken.  
 6. Een op grond van artikel 103 genomen besluit van het CBR vervalt met ingang van het tijdstip waarop de aanvrager het CBR heeft verzocht om een keuring of een herkeuring als bedoeld in het eerste lid. 
 
@@ -2320,7 +2319,7 @@ De met de afgifte van rijbewijzen belaste autoriteiten vernietigen de in het kad
 ### Artikel  124  
 
 1. De met de afgifte van rijbewijzen belaste autoriteiten treffen maatregelen om de onder hen berustende rijbewijzen en de met de afgifte van rijbewijzen verband houdende materialen en apparatuur te beveiligen tegen ontvreemding dan wel vernietiging ten gevolge van inbraak, diefstal, verduistering, overvallen, brand of anderszins.   
-2. De met de afgifte van rijbewijzen belaste autoriteiten dragen er zorg voor dat toegangspassen en gebruikerscodes tot de met de afgifte van rijbewijzen verband houdende apparatuur alleen worden gebruikt door de onder hen ressorterende, met de afgifte van rijbewijzen belaste medewerkers aan wie de desbetreffende toegangspassen en gebruikerscodes zijn toegekend.
+2. De met de afgifte van rijbewijzen belaste autoriteiten dragen er zorg voor dat toegangspassen en gebruikerscodes tot de met de afgifte van rijbewijzen verband houdende apparatuur alleen worden gebruikt door de onder hen ressorterende, met de afgifte van rijbewijzen belaste medewerkers aan wie de desbetreffende toegangspassen en gebruikerscodes zijn toegekend en bij de Dienst Wegverkeer zijn geregistreerd met hun burgerservicenummer.
 
 ### Artikel  125  
 
@@ -2627,7 +2626,7 @@ ra. gegevens omtrent de ongeldigheid van het rijbewijs ingevolge artikel 123b va
 
 s. gegevens omtrent de toepassing van het dwangmiddel van inneming van het rijbewijs, bedoeld in de Wet administratiefrechtelijke handhaving verkeersvoorschriften;   
 
-t. gegevens omtrent autorisaties van medewerkers van de met de afgifte belaste autoriteit en omtrent aanvragen van rijbewijzen, waaronder het aanvraagnummer, de status van de aanvraag en inloggegevens van de bij de aanvraag betrokken medewerkers van de met de afgifte belaste autoriteit;  
+t. gegevens omtrent autorisaties van medewerkers van de met de afgifte belaste autoriteit, waaronder hun persoonsgegevens en burgerservicenummer, en omtrent aanvragen van rijbewijzen, waaronder het aanvraagnummer, de status van de aanvraag en inloggegevens van de bij de aanvraag betrokken medewerkers van de met de afgifte belaste autoriteit;  
 
 u.gegevens omtrent blanco rijbewijzen die ter beschikking zijn gesteld aan de met de afgifte van rijbewijzen belaste instanties;
 
@@ -2819,7 +2818,7 @@ b.Nederlandse omwisselingscertificaten;
 
 c.bestuurdersattesten en
 
-d.nationale certificaten, waarvan de houder zich heeft gevestigd in de betrokken staat en aldaar om omwisseling heeft verzocht. Daartoe verstrekken de aangewezen exameninstantie en de Stichting Nationale en Internationale Wegvervoerorganisatie gegevens aan de Dienst Wegverkeer. 
+d.nationale certificaten, waarvan de houder zich heeft gevestigd in de betrokken staat en aldaar om omwisseling heeft verzocht. Daartoe verstrekken het CBR en de Stichting Nationale en Internationale Wegvervoerorganisatie gegevens aan de Dienst Wegverkeer. 
 2. De Dienst Wegverkeer meldt de aangewezen exameninstantie de einddatum van in de vorm van een code op het rijbewijs vermelde getuigschriften van vakbekwaamheid en getuigschriften van nascholing.
 
 ### Artikel  156  
@@ -2858,19 +2857,19 @@ k. overige door Onze Minister aangewezen belanghebbenden ten behoeve van het bij
 
 ### Artikel 156a 
 
-1. Verklaringen van vakbekwaamheid en verklaringen van nascholing worden op aanvraag en tegen betaling van het daarvoor vastgestelde tarief door de aangewezen exameninstantie in het rijbewijzenregister geregistreerd ten behoeve van een ieder die de basiskwalificatie heeft behaald dan wel de nascholing heeft afgerond.
-2. Nederlandse omwisselingscertificaten worden op aanvraag en tegen betaling van het daarvoor vastgestelde tarief door de aangewezen exameninstantie afgegeven aan een ieder die de basiskwalificatie heeft behaald dan wel de nascholing heeft afgerond en deze op een in een andere lidstaat van de Europese Gemeenschap af te geven rijbewijs of kwalificatiekaart bestuurder wil laten vermelden.
-3. Deelcertificaten worden op aanvraag en tegen betaling van het daarvoor vastgestelde tarief door de aangewezen exameninstantie afgegeven aan een ieder die een nascholingsonderdeel heeft gevolgd en de nascholing in een andere lidstaat van de Europese Gemeenschap wil afronden.
+1. Verklaringen van vakbekwaamheid en verklaringen van nascholing worden op aanvraag en tegen betaling van het daarvoor vastgestelde tarief door het CBR in het rijbewijzenregister geregistreerd ten behoeve van een ieder die de basiskwalificatie heeft behaald dan wel de nascholing heeft afgerond.
+2. Nederlandse omwisselingscertificaten worden op aanvraag en tegen betaling van het daarvoor vastgestelde tarief door het CBR afgegeven aan een ieder die de basiskwalificatie heeft behaald dan wel de nascholing heeft afgerond en deze op een in een andere lidstaat van de Europese Gemeenschap af te geven rijbewijs of kwalificatiekaart bestuurder wil laten vermelden.
+3. Deelcertificaten worden op aanvraag en tegen betaling van het daarvoor vastgestelde tarief door het CBR afgegeven aan een ieder die een nascholingsonderdeel heeft gevolgd en de nascholing in een andere lidstaat van de Europese Gemeenschap wil afronden.
 4. In afwijking van het eerste lid worden verklaringen van vakbekwaamheid en verklaringen van nascholing tegen overlegging van een door de bevoegde autoriteit van een lidstaat van de Europese Gemeenschap overeenkomstig de richtlijn vakbekwaamheid bestuurders aan de aanvrager afgegeven geldige kwalificatiekaart bestuurder dan wel een buitenlands omwisselingscertificaat door de Dienst Wegverkeer in het rijbewijzenregister geregistreerd.
 
 ### Artikel 156b 
 
-1. Het voor de aanvraag van verklaringen van vakbekwaamheid, verklaringen van nascholing, Nederlandse omwisselingscertificaten of deelcertificaten verschuldigde tarief wordt vastgesteld door de aangewezen exameninstantie onder goedkeuring van Onze Minister.
-2. Het in het eerste lid bedoelde tarief dient vóór de indiening van de aanvraag te zijn voldaan door overmaking op een door de aangewezen exameninstantie aangewezen bankrekening.
+1. Het voor de aanvraag van verklaringen van vakbekwaamheid, verklaringen van nascholing, Nederlandse omwisselingscertificaten of deelcertificaten verschuldigde tarief wordt vastgesteld door het CBR onder goedkeuring van Onze Minister.
+2. Het in het eerste lid bedoelde tarief dient vóór de indiening van de aanvraag te zijn voldaan door overmaking op een door het CBR aangewezen bankrekening.
 
 ### Artikel 156c 
 
-1. De aangewezen exameninstantie is verantwoordelijk voor:
+1.  Het CBR is verantwoordelijk voor:
 
 a.het ontwikkelen van de vakbekwaamheidsexamens met inbegrip van de exameneisen;
 
@@ -2893,7 +2892,7 @@ i.het uitreiken van Nederlandse omwisselingscertificaten;
 j.het uitreiken van deelcertificaten;
 
 k.het ongeldig verklaren van getuigschriften van vakbekwaamheid, getuigschriften van nascholing en Nederlandse omwisselingscertificaten. 
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de taken, bevoegdheden en werkwijze van de aangewezen exameninstantie.
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de taken, bevoegdheden en werkwijze van het CBR.
 
 ### § 2 
 
@@ -2901,9 +2900,9 @@ k.het ongeldig verklaren van getuigschriften van vakbekwaamheid, getuigschriften
 
 ### Artikel 156d 
 
-1. De aanvraag van een verklaring van vakbekwaamheid, een verklaring van nascholing, een Nederlands omwisselingscertificaat of een deelcertificaat geschiedt op de door de aangewezen exameninstantie vastgestelde wijze.
+1. De aanvraag van een verklaring van vakbekwaamheid, een verklaring van nascholing, een Nederlands omwisselingscertificaat of een deelcertificaat geschiedt op de door het CBR vastgestelde wijze.
 2. De aanvraag van een verklaring van vakbekwaamheid dan wel een verklaring van nascholing als bedoeld in artikel 156a, vierde lid, geschiedt op de door de Dienst Wegverkeer vastgestelde wijze.
-3. Bij de aanvraag raadpleegt de aangewezen exameninstantie dan wel de Dienst Wegverkeer de in de basisregistratie personen opgenomen persoonsgegevens van de aanvrager.
+3. Bij de aanvraag raadpleegt het CBR dan wel de Dienst Wegverkeer de in de basisregistratie personen opgenomen persoonsgegevens van de aanvrager.
 
 ### § 3 
 
@@ -3034,9 +3033,9 @@ c.het op juiste en veilige wijze kunnen toepassen van kennis en vaardigheden met
 
 ### Artikel 156n 
 
-1. De aangewezen exameninstantie kan een rij-instructeur die ingevolge de Wet rijonderricht motorrijtuigen 1993 bevoegd is tot het geven van rijonderricht en die voldoet aan de door haar opgestelde eisen, aanwijzen tot het afnemen van praktijktoetsen vakbekwaamheid 1 en 2 voor de rijbewijscategorieën C1, C, D1 en D.
+1. Het CBR kan een rij-instructeur die ingevolge de Wet rijonderricht motorrijtuigen 1993 bevoegd is tot het geven van rijonderricht en die voldoet aan de door haar opgestelde eisen, aanwijzen tot het afnemen van praktijktoetsen vakbekwaamheid 1 en 2 voor de rijbewijscategorieën C1, C, D1 en D.
 2. Een rij-instructeur als bedoeld in het eerste lid neemt de praktijktoetsen af met gebruikmaking van de exameneisen.
-3. Een rij-instructeur als bedoeld in het eerste lid meldt aan de aangewezen exameninstantie binnen de door deze vastgestelde termijn of een aanvrager voldoet aan de exameneisen.
+3. Een rij-instructeur als bedoeld in het eerste lid meldt aan het CBR binnen de door deze vastgestelde termijn of een aanvrager voldoet aan de exameneisen.
 
 ### Artikel 156o 
 
@@ -3044,7 +3043,7 @@ Bij ministeriële regeling worden nadere regels gesteld ter uitvoering van de ar
 
 ### Artikel 156p 
 
-Op een praktijktoets vakbekwaamheid bedoeld in hoofdstuk VIIA zijn de artikelen 78, 81, 82, eerste lid, en 84 van overeenkomstige toepassing met dien verstande dat in plaats van «rijproef» telkens wordt gelezen «praktijktoets vakbekwaamheid», en dat in artikel 82, eerste lid, in plaats van «het CBR» wordt gelezen: de aangewezen exameninstantie.
+Op een praktijktoets vakbekwaamheid bedoeld in hoofdstuk VIIA zijn de artikelen 78, 81, 82, eerste lid, en 84 van overeenkomstige toepassing met dien verstande dat in plaats van «rijproef» telkens wordt gelezen «praktijktoets vakbekwaamheid».
 
 ### § 6 
 
@@ -3065,8 +3064,6 @@ a.een door het bevoegd gezag van de opleiding gewaarmerkte verklaring kan overle
 b.hij door middel van een geldig bewijs van inschrijving kan aantonen dat hij nog staat ingeschreven bij de opleiding. 
 4. Een bestuurder die houder is van een getuigschrift van vakbekwaamheid voor één van de in het eerste lid, onderdeel a, bedoelde rijbewijscategorieën is vrijgesteld van de verplichting een dergelijk getuigschrift te behalen voor de overige in genoemd onderdeel vermelde rijbewijscategorieën.
 5. Een bestuurder die houder is van een getuigschrift van vakbekwaamheid voor één van de in het eerste lid, onderdeel b, bedoelde rijbewijscategorieën is vrijgesteld van de verplichting een dergelijk getuigschrift te behalen voor de overige in genoemd onderdeel vermelde rijbewijscategorieën.
-6. Een bestuurder, geboren vóór 1 juli 1955, is vrijgesteld van de verplichting een getuigschrift van vakbekwaamheid te behalen.
-7. Bij ministeriële regeling kunnen nadere regels worden gesteld over de vrijstelling bedoeld in het zesde lid.
 
 ### § 7 
 
@@ -3080,19 +3077,19 @@ b.hij door middel van een geldig bewijs van inschrijving kan aantonen dat hij no
 ### Artikel 156s 
 
 1. De nascholing bestaat uit nascholingscursussen die worden aangeboden in eenheden van ten minste 7 uur, waarin de onderwerpen die zijn opgenomen in bijlage I van de richtlijn vakbekwaamheid bestuurders opnieuw worden bestudeerd en uitgediept.
-2. Het raamwerk van nascholingscursussen wordt periodiek vastgesteld door de aangewezen exameninstantie, die daarbij rekening houdt met de bij ministeriële regeling vastgestelde eisen voor nascholingscursussen.
+2. Het raamwerk van nascholingscursussen wordt periodiek vastgesteld door het CBR, die daarbij rekening houdt met de bij ministeriële regeling vastgestelde eisen voor nascholingscursussen.
 3. Bij de nascholingscursussen kan gebruik worden gemaakt van simulatoren.
 
 ### Artikel 156t 
 
-1. Een bestuurder die tegen overlegging van bewijsstukken, afgegeven door bevoegde autoriteiten van andere lidstaten van de Europese Gemeenschap, ten genoegen van de aangewezen exameninstantie kan aantonen dat hij een gedeelte van de nascholing aldaar heeft gevolgd, kan het voor hem nog resterende gedeelte van de nascholing in Nederland afronden.
-2. De aangewezen exameninstantie kan bij de toetsing van de in het eerste lid bedoelde bewijsstukken de hulp van de Dienst Wegverkeer inroepen.
+1. Een bestuurder die tegen overlegging van bewijsstukken, afgegeven door bevoegde autoriteiten van andere lidstaten van de Europese Gemeenschap, ten genoegen van het CBR kan aantonen dat hij een gedeelte van de nascholing aldaar heeft gevolgd, kan het voor hem nog resterende gedeelte van de nascholing in Nederland afronden.
+2. Het CBR kan bij de toetsing van de in het eerste lid bedoelde bewijsstukken de hulp van de Dienst Wegverkeer inroepen.
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de toekenning van de nascholing.
 
 ### Artikel 156u 
 
-1. Een erkend opleidingscentrum meldt binnen de door de aangewezen exameninstantie vastgestelde termijn voorafgaand aan de dag waarop een nascholingscursus wordt gehouden de voorgenomen cursus aan de aangewezen exameninstantie. De melding bevat de door de aangewezen exameninstantie bepaalde onderwerpen.
-2. Een erkend opleidingscentrum meldt binnen de door de aangewezen exameninstantie vastgestelde termijn aan deze het feit dat een bestuurder een nascholingsonderdeel heeft gevolgd.
+1. Een erkend opleidingscentrum meldt binnen de door het CBR vastgestelde termijn voorafgaand aan de dag waarop een nascholingscursus wordt gehouden de voorgenomen cursus aan het CBR. De melding bevat de door het CBR bepaalde onderwerpen.
+2. Een erkend opleidingscentrum meldt binnen de door het CBR vastgestelde termijn aan deze het feit dat een bestuurder een nascholingsonderdeel heeft gevolgd.
 
 ### § 8 
 
@@ -3100,8 +3097,7 @@ b.hij door middel van een geldig bewijs van inschrijving kan aantonen dat hij no
 
 ### Artikel 156v 
 
-1. Een bestuurder die houder is van een getuigschrift van nascholing voor één van de rijbewijscategorieën C, C1, D, D1, E bij C, E bij C1, E bij D of E bij D1 is vrijgesteld van de verplichting een getuigschrift van nascholing te behalen voor de overige genoemde rijbewijscategorieën.
-2. Een bestuurder, geboren vóór 1 juli 1955, is vrijgesteld van de verplichting een getuigschrift van nascholing te behalen.
+Een bestuurder die houder is van een getuigschrift van nascholing voor één van de rijbewijscategorieën C, C1, D, D1, E bij C, E bij C1, E bij D of E bij D1 is vrijgesteld van de verplichting een getuigschrift van nascholing te behalen voor de overige genoemde rijbewijscategorieën.
 
 ### § 9 
 
@@ -3109,12 +3105,12 @@ b.hij door middel van een geldig bewijs van inschrijving kan aantonen dat hij no
 
 ### Artikel 156w 
 
-1. De aangewezen exameninstantie kan aan een natuurlijke persoon of rechtspersoon een erkenning verlenen waardoor deze gerechtigd is nascholing te organiseren.
+1. Het CBR kan aan een natuurlijke persoon of rechtspersoon een erkenning verlenen waardoor deze gerechtigd is nascholing te organiseren.
 2. Bij ministeriële regeling kunnen voorschriften worden vastgesteld die aan een erkenning worden verbonden en kunnen met betrekking tot die voorschriften regels worden vastgesteld.
 
 ### Artikel 156x 
 
-1. Een erkenning als opleidingscentrum voor het verrichten van nascholing wordt op aanvraag en tegen betaling, op de door de aangewezen exameninstantie vastgestelde wijze, van het daarvoor door deze instantie vastgestelde tarief verleend indien is voldaan aan de bij ministeriële regeling gestelde eisen.
+1. Een erkenning als opleidingscentrum voor het verrichten van nascholing wordt op aanvraag en tegen betaling, op de door het CBR vastgestelde wijze, van het daarvoor door deze instantie vastgestelde tarief verleend indien is voldaan aan de bij ministeriële regeling gestelde eisen.
 2. De in het eerste lid bedoelde eisen kunnen onder meer betrekking hebben op:
 
 a.de certificering van de aangeboden nascholingscursussen;
@@ -3127,7 +3123,7 @@ d.het voor het praktijkgedeelte gebruikte wagenpark, en
 
 e.de omvang van het aantal deelnemers per nascholingscursus. 
 3. Een erkenning heeft een geldigheidsduur van maximaal vijf jaren.
-4. Een erkenning als bedoeld in het eerste lid kan door de aangewezen exameninstantie worden geschorst of ingetrokken indien:
+4. Een erkenning als bedoeld in het eerste lid kan door het CBR worden geschorst of ingetrokken indien:
 
 a.de handelingen waarvoor de erkenning is verleend, niet meer worden verricht, of
 
@@ -3149,7 +3145,7 @@ b.de bij ministeriële regeling bepaalde eisen.
 
 ### Artikel 156z 
 
-Indien bij een praktijkexamen vakbekwaamheid of bij een nascholingscursus gebruik wordt gemaakt van een simulator voldoet deze aan de door de aangewezen exameninstantie gestelde en door Onze Minister goedgekeurde eisen.
+Indien bij een praktijkexamen vakbekwaamheid of bij een nascholingscursus gebruik wordt gemaakt van een simulator voldoet deze aan de door het CBR gestelde en door Onze Minister goedgekeurde eisen.
 
 ### § 11 
 
@@ -3157,8 +3153,8 @@ Indien bij een praktijkexamen vakbekwaamheid of bij een nascholingscursus gebrui
 
 ### Artikel 156aa 
 
-1. Indien de aanvrager naar het oordeel van de aangewezen exameninstantie de basiskwalificatie heeft behaald, registreert de aangewezen exameninstantie in het rijbewijzenregister ten behoeve van de aanvrager een verklaring van vakbekwaamheid voor de rijbewijscategorieën waarvoor de aanvrager de basiskwalificatie heeft behaald.
-2. Nadat uit de in artikel 156u bedoelde meldingen is gebleken dat een bestuurder de nascholing heeft afgerond, registreert de aangewezen exameninstantie ten behoeve van de aanvrager in het rijbewijzenregister een verklaring van nascholing.
+1. Indien de aanvrager naar het oordeel van het CBR de basiskwalificatie heeft behaald, registreert het CBR in het rijbewijzenregister ten behoeve van de aanvrager een verklaring van vakbekwaamheid voor de rijbewijscategorieën waarvoor de aanvrager de basiskwalificatie heeft behaald.
+2. Nadat uit de in artikel 156u bedoelde meldingen is gebleken dat een bestuurder de nascholing heeft afgerond, registreert het CBR ten behoeve van de aanvrager in het rijbewijzenregister een verklaring van nascholing.
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de in dit artikel bedoelde registraties en meldingen.
 
 ### Artikel 156ab 

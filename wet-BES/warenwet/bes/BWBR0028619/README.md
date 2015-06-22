@@ -115,6 +115,19 @@ b. de gegevens, verstrekt ter verkrijging van de vrijstelling of ontheffing zoda
 c. de situatie met inachtneming van de belangen die deze wet dient, daartoe noopt.     
 9.  Een beslissing houdende weigering van een vrijstelling of ontheffing, dan wel houdende intrekking van een vrijstelling of ontheffing wordt aan de aanvrager schriftelijk medegedeeld onder opgave van redenen.  
 
+### Artikel  5a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Bij ministeriele regeling kunnen: 
+
+a. bepaalde verpakte artikelen worden aangewezen, waarop de netto-inhoud in metrieke maat of gewicht duidelijk moet zijn aangegeven;  
+
+b. bepaalde goederen worden aangewezen, welke niet anders dan bij maat of gewicht mogen worden verkocht;  
+
+c. voorschriften worden gegeven betreffende de mate waarin verpakkingen, die een bepaalde inhoud naar maat of gewicht doen veronderstellen, tenminste moeten zijn vervuld;  
+
+d. bepaalde goederen worden aangewezen, welke niet anders dan in voor te schrijven maat- of gewichtshoeveelheden mogen worden verkocht.   
+
 ### Artikel  6  
 
 1.  Bij ministeriële regeling kunnen vergoedingen worden vastgesteld, verschuldigd door degenen ten behoeve van wie werkzaamheden of diensten door of namens het Land zijn verricht of verleend.   
@@ -188,6 +201,11 @@ Het is verboden een etikettering op of bij waren aan te brengen of bij aanprijzi
 ### Artikel  16  
 
 Het is verboden waren te verhandelen die door hun ondeugdelijkheid de gezondheid of veiligheid van de mens in gevaar kunnen brengen. 
+
+### Artikel  16a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Het is verboden waren per maat of gewicht te verkopen, te koop aan te bieden of op welke wijze ook in de handel te brengen, anders dan bij netto-inhoud of netto-gewicht. 
 
 ### §  5  
 
@@ -271,6 +289,12 @@ b. eet- of drinkwaren die kennelijk in staat van bederf verkeren of die kennelij
 1.  Handelen in strijd met de voorschriften, gesteld bij of krachtens deze wet in de artikelen 2, vierde lid, 3, eerste, tweede, derde en vijfde lid, 4, eerste lid, 5, derde, vierde en vijfde lid, of, overtreding van de in de artikelen 8 tot en met 16 gestelde verboden, is, voor zover opzettelijk begaan, een misdrijf, en wordt gestraft met hetzij gevangenisstraf van ten hoogste vier jaren, hetzij met een geldboete van ten hoogste de zesde categorie, hetzij met beide straffen.   
 2.  Handelen in strijd met de voorschriften, gesteld bij of krachtens deze wet in de artikelen e, vierde lid, 3, eerste, tweede, derde en vijfde lid, 4, eerste lid, 5, derde, vierde en vijfde lid, of, overtreding van de in de artikelen 8 tot en met 16 gestelde verboden, is, voor zover niet opzettelijk begaan, een overtreding, en wordt gestraft met hetzij hechtenis van ten hoogste een jaar, hetzij met een geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.   
 3.  Het niet voldoen aan de vordering, bedoeld in artikel 21, eerste lid, onderdelen c en e, of de verplichting, bedoeld in de artikelen 21, eerste lid, onderdeel a, en 25, is een overtreding en wordt gestraft met hechtenis van ten hoogste twee maanden of een geldboete van ten hoogste de tweede categorie.  
+
+### Artikel  24a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Met hechtenis van ten hoogste een week of een geldboete van ten hoogste USD 500 wordt gestraft hij, die ten behoeve van handel of bedrijf, maat of gewicht der goederen heeft vastgesteld of op zijn last heeft doen vaststellen, indien de netto-hoeveelheid meer dan het dubbele van de afwijking, die voor het gebruikte meetinstrument bij herijk is toegestaan, in zijn voordeel of het voordeel van de lastgever afwijkt van de ware netto-hoeveelheid.   
+2.  Het in het eerste lid strafbaar gestelde feit wordt beschouwd als overtreding.  
 
 ### §  9  
 

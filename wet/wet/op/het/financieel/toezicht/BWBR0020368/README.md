@@ -11415,10 +11415,6 @@ b. ter uitvoering van een op grond van artikel 23 van de richtlijn transparantie
 1.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot in dit hoofdstuk geregelde onderwerpen ter uitvoering van een bindend besluit van de Europese Commissie dat gebaseerd is op de richtlijn transparantie.   
 2.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de wijze van opslag van gereglementeerde informatie door de instantie, bedoeld in artikel 5:25m, vijfde lid.  
 
-### Artikel  5:25x  
-
-In dit hoofdstuk en de daarop berustende bepalingen wordt onder gereglementeerde markt mede verstaan een platform voor de veiling van emissierechten als bedoeld in hoofdstuk VII van Verordening (EU) nr. 1031/2010 van de Europese Commissie van 12 november 2010 inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap (PbEU L 302). 
-
 ### Hoofdstuk  5.2  
 
 ####Regels voor toegang tot de Nederlandse financiële markten voor marktexploitanten en voor het exploiteren of beheren van een gereglementeerde markt
@@ -11426,6 +11422,10 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt onder gereglementeerde
 ### Afdeling  5.2.1  
 
 ####Toegang tot de Nederlandse financiële markten voor marktexploitanten
+
+### Artikel  5:25x  
+
+In dit hoofdstuk en de daarop berustende bepalingen wordt onder gereglementeerde markt mede verstaan een platform voor de veiling van emissierechten als bedoeld in hoofdstuk VII van Verordening (EU) nr. 1031/2010 van de Europese Commissie van 12 november 2010 inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap (PbEU L 302). 
 
 ### Artikel  5:26  
 

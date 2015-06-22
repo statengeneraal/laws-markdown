@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Milieu van 9 december 2013, nr. IenM/BSK-2013/268587, Hoofddirectie Bestuurlijke en Juridische Zaken, gedaan mede namens Onze Minister van Sociale Zaken en Werkgelegenheid en Onze Minister van Veiligheid en Justitie;
 
-Gelet op de [artikelen 2, vijfde lid](../../../../../wet/wet/lokaal/spoor/BWBR0034363/README.md), [14, eerste lid](../../../../../wet/wet/lokaal/spoor/BWBR0034363/README.md), [24, vierde lid](../../../../../wet/wet/lokaal/spoor/BWBR0034363/README.md), [25, eerste lid](../../../../../wet/wet/lokaal/spoor/BWBR0034363/README.md), [31, eerste lid](../../../../../wet/wet/lokaal/spoor/BWBR0034363/README.md), [36, derde lid](../../../../../wet/wet/lokaal/spoor/BWBR0034363/README.md), [42, achtste lid](../../../../../wet/wet/lokaal/spoor/BWBR0034363/README.md), en [48, tiende lid, van de Wet lokaal spoor](../../../../../wet/wet/lokaal/spoor/BWBR0034363/README.md), [artikel 163, tiende lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 110 van boek 8 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) en [artikel 5:12, tweede lid van de Arbeidstijdenwet](../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md);
+Gelet op de artikelen 2, vijfde lid, 14, eerste lid, 24, vierde lid, 25, eerste lid, 31, eerste lid, 36, derde lid, 42, achtste lid, en 48, tiende lid, van de Wet lokaal spoor, artikel 163, tiende lid, van de Wegenverkeerswet 1994, artikel 110 van boek 8 van het Burgerlijk Wetboek en artikel 5:12, tweede lid van de Arbeidstijdenwet;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 24 januari 2014, nr. W14.13.044g/IV);
 
@@ -27,13 +27,13 @@ In dit besluit en daarop berustende bepalingen wordt verstaan onder:
 
 *beweegbare brug:* beweegbare brug die uitsluitend bestemd is voor het gebruik door spoorvoertuigen;  
 
-*bijzondere spoorweg:* bijzondere spoorweg als bedoeld in [artikel 2, eerste lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+*bijzondere spoorweg:* bijzondere spoorweg als bedoeld in artikel 2, eerste lid, van de Spoorwegwet;  
 
-*hoofdspoorweg:* hoofdspoorweg als bedoeld in [artikel 2, eerste lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+*hoofdspoorweg:* hoofdspoorweg als bedoeld in artikel 2, eerste lid, van de Spoorwegwet;  
 
 *sein:* baken, bord of lichtsein;  
 
-*wet:* [Wet lokaal spoor](../../../../../wet/wet/lokaal/spoor/BWBR0034363/README.md).   
+*wet:* Wet lokaal spoor.   
 
 ### Artikel  2  
 Treedt in werking per 01-12-2015 
@@ -79,16 +79,16 @@ Treedt in werking per 01-12-2015
 ### Artikel  3  
 Treedt in werking per 01-12-2015 
 
-1.  De [artikelen 5](../../../../../AMvB/besluit/toegankelijkheid/van/het/openbaar/vervoer/BWBR0029974/README.md), [6 eerste tot en met derde lid](../../../../../AMvB/besluit/toegankelijkheid/van/het/openbaar/vervoer/BWBR0029974/README.md), en [9 van het Besluit toegankelijkheid van het openbaar vervoer](../../../../../AMvB/besluit/toegankelijkheid/van/het/openbaar/vervoer/BWBR0029974/README.md) zijn van overeenkomstige toepassing op gebouwen of werken als bedoeld in [artikel 14, eerste lid, van de wet](../../../../../wet/wet/lokaal/spoor/BWBR0034363/README.md).   
-2.  Het eerste lid geldt niet voor gebouwen of werken als bedoeld in [artikel 14, eerste lid, van de wet](../../../../../wet/wet/lokaal/spoor/BWBR0034363/README.md) die direct grenzen aan of zich bevinden op een weg als bedoeld in [artikel 1, onderdeel b, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), tenzij zij op het tijdstip van inwerkingtreding van dit besluit reeds voldoen aan de [artikelen 5](../../../../../AMvB/besluit/toegankelijkheid/van/het/openbaar/vervoer/BWBR0029974/README.md), [6](../../../../../AMvB/besluit/toegankelijkheid/van/het/openbaar/vervoer/BWBR0029974/README.md) of [9 van het Besluit toegankelijkheid van het openbaar vervoer](../../../../../AMvB/besluit/toegankelijkheid/van/het/openbaar/vervoer/BWBR0029974/README.md).   
-3.  De [artikelen 4, eerste lid](../../../../../AMvB/besluit/toegankelijkheid/van/het/openbaar/vervoer/BWBR0029974/README.md), en [10 van het Besluit toegankelijkheid van het openbaar vervoer](../../../../../AMvB/besluit/toegankelijkheid/van/het/openbaar/vervoer/BWBR0029974/README.md) zijn van overeenkomstige toepassing op een spoorvoertuig bestemd voor openbaar vervoer op de lokale spoorweg.   
+1.  De artikelen 5, 6 eerste tot en met derde lid, en 9 van het Besluit toegankelijkheid van het openbaar vervoer zijn van overeenkomstige toepassing op gebouwen of werken als bedoeld in artikel 14, eerste lid, van de wet.   
+2.  Het eerste lid geldt niet voor gebouwen of werken als bedoeld in artikel 14, eerste lid, van de wet die direct grenzen aan of zich bevinden op een weg als bedoeld in artikel 1, onderdeel b, van de Wegenverkeerswet 1994, tenzij zij op het tijdstip van inwerkingtreding van dit besluit reeds voldoen aan de artikelen 5, 6 of 9 van het Besluit toegankelijkheid van het openbaar vervoer.   
+3.  De artikelen 4, eerste lid, en 10 van het Besluit toegankelijkheid van het openbaar vervoer zijn van overeenkomstige toepassing op een spoorvoertuig bestemd voor openbaar vervoer op de lokale spoorweg.   
 4.  Van het eerste en tweede lid kan tijdelijk worden afgeweken bij onvoorziene omstandigheden waarin een ander maatschappelijk belang voor gaat boven het belang van toegankelijk openbaar vervoer, en de beschikbare toegankelijkheid van dat vervoer als gevolg van die omstandigheden redelijkerwijs niet in stand kan blijven.   
-5.  Spoorvoertuigen en gebouwen of werken als bedoeld in [artikel 14, eerste lid, van de wet](../../../../../wet/wet/lokaal/spoor/BWBR0034363/README.md) die op het tijdstip van inwerkingtreding van dit besluit in gebruik zijn, zijn met ingang van 1 januari 2020 aangepast.   
+5.  Spoorvoertuigen en gebouwen of werken als bedoeld in artikel 14, eerste lid, van de wet die op het tijdstip van inwerkingtreding van dit besluit in gebruik zijn, zijn met ingang van 1 januari 2020 aangepast.   
 6.  Bij ministeriële regeling kunnen regels gesteld worden over: 
 
-a. de mate of de aard van aanpassingen van spoorvoertuigen en gebouwen of werken als bedoeld in [artikel 14, eerste lid, van de wet](../../../../../wet/wet/lokaal/spoor/BWBR0034363/README.md); en  
+a. de mate of de aard van aanpassingen van spoorvoertuigen en gebouwen of werken als bedoeld in artikel 14, eerste lid, van de wet; en  
 
-b. het aandeel aangepaste spoorvoertuigen en gebouwen of werken als bedoeld in [artikel 14, eerste lid, van de wet](../../../../../wet/wet/lokaal/spoor/BWBR0034363/README.md).    
+b. het aandeel aangepaste spoorvoertuigen en gebouwen of werken als bedoeld in artikel 14, eerste lid, van de wet.    
 
 ### Hoofdstuk  3  
 
@@ -99,7 +99,7 @@ Treedt in werking per 01-12-2015
 ### Artikel  4  
 Treedt in werking per 01-12-2015 
 
-De verkeersleiding, bedoeld in [artikel 24 van de wet](../../../../../wet/wet/lokaal/spoor/BWBR0034363/README.md), heeft als taak: 
+De verkeersleiding, bedoeld in artikel 24 van de wet, heeft als taak: 
 
 a. zorg dragen voor een goede afwikkeling van het lokale spoorverkeer; en  
 
@@ -126,7 +126,7 @@ f. bij situaties waar de lokale spoorweg niet of niet geheel is te overzien binn
 g. indien er bij enkelspoor dat in beide richtingen bereden wordt een voor de bestuurder onoverzichtelijke situatie aanwezig is.     
 3.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur hoeven geen seinen te plaatsen, indien de verkeersveiligheid op de lokale spoorweg geborgd wordt door middel van een systeem van volledige automatische besturing van de spoorvoertuigen die op deze spoorweg rijden.   
 4.  Van het eerste en tweede lid kan worden afgeweken door gedeputeerde staten onderscheidenlijk het dagelijks bestuur, indien de verkeersveiligheid op de lokale spoorweg geborgd wordt door middel van een systeem van automatische spoorvoertuigbeïnvloeding die de plaatsing van seinen overbodig maakt.   
-5.  Het eerste en tweede lid zijn niet van toepassing indien tramlichten zijn geplaatst op grond van [artikel 1, onderdeel 60, van de Regeling verkeerslichten](../../../../../ministeriele-regeling/regeling/verkeerslichten/BWBR0009151/README.md), of op grond van het daarvoor in de plaatskomende voorschrift inhoudende dat tramlichten worden toegepast bij drie- of tweekleurige verkeerslichten indien: 
+5.  Het eerste en tweede lid zijn niet van toepassing indien tramlichten zijn geplaatst op grond van artikel 1, onderdeel 60, van de Regeling verkeerslichten, of op grond van het daarvoor in de plaatskomende voorschrift inhoudende dat tramlichten worden toegepast bij drie- of tweekleurige verkeerslichten indien: 
 
 a. ter plaatse voor lokale spoorwegen een eigen ruimte, gescheiden van het overige verkeer, beschikbaar is; of  
 
@@ -135,7 +135,7 @@ b. ter plaatse bestuurders van lokale spoorvoertuigen vanuit een rijstrook een r
 ### Artikel  6  
 Treedt in werking per 01-12-2015 
 
-1.  Onverminderd de [artikelen 22](../../../../../wet/wet/lokaal/spoor/BWBR0034363/README.md) en [23 van de wet](../../../../../wet/wet/lokaal/spoor/BWBR0034363/README.md) stellen gedeputeerde staten onderscheidenlijk het dagelijks bestuur per baanvak de toegestane maximumsnelheid vast: 
+1.  Onverminderd de artikelen 22 en 23 van de wet stellen gedeputeerde staten onderscheidenlijk het dagelijks bestuur per baanvak de toegestane maximumsnelheid vast: 
 
 a. na advies van de beheerder, voor zover de lokale spoorweg afgescheiden van het overige wegverkeer ligt;  
 
@@ -170,14 +170,14 @@ e. ten aanzien van welke beweegbare bruggen de beheerder door hem goed te keuren
 ### Artikel  9  
 Treedt in werking per 01-12-2015 
 
-1.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur dragen er zorg voor, dat bij de beweegbare bruggen tekens worden getoond overeenkomstig het bepaalde in de [artikelen 6.25](../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) en [6.26, vierde en vijfde lid, van het Binnenvaartpolitiereglement](../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md), met dien verstande dat het teken, bedoeld in artikel 6.26, onderdeel f, van het Binnenvaartpolitiereglement, alleen wordt gebruikt indien gedeputeerde staten onderscheidenlijk het dagelijks bestuur dat bepalen of goedkeuren.   
-2.  In het geval van gestoorde lichttekens dragen gedeputeerde staten onderscheidenlijk het dagelijks bestuur er zorg voor dat een bord als bedoeld in [artikel 6.26, zesde lid, van het Binnenvaartpolitiereglement](../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) wordt getoond.   
-3.  [Artikel 6.26 van het Binnenvaartreglement](../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) is van overeenkomstige toepassing.  
+1.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur dragen er zorg voor, dat bij de beweegbare bruggen tekens worden getoond overeenkomstig het bepaalde in de artikelen 6.25 en 6.26, vierde en vijfde lid, van het Binnenvaartpolitiereglement, met dien verstande dat het teken, bedoeld in artikel 6.26, onderdeel f, van het Binnenvaartpolitiereglement, alleen wordt gebruikt indien gedeputeerde staten onderscheidenlijk het dagelijks bestuur dat bepalen of goedkeuren.   
+2.  In het geval van gestoorde lichttekens dragen gedeputeerde staten onderscheidenlijk het dagelijks bestuur er zorg voor dat een bord als bedoeld in artikel 6.26, zesde lid, van het Binnenvaartpolitiereglement wordt getoond.   
+3.  Artikel 6.26 van het Binnenvaartreglement is van overeenkomstige toepassing.  
 
 ### Artikel  10  
 Treedt in werking per 01-12-2015 
 
-Gedeputeerde staten onderscheidenlijk het dagelijks bestuur stellen, na advies van de beheerder en de wegbeheerder, vast bij welke spoorwegovergangen gelegen in voor het openbaar verkeer openstaande wegen, aan beide zijden van de spoorwegovergang aan de rechterzijde van de weg een Andreaskruis volgens model J12 of J13 van [bijlage 1, van het RVV 1990](../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) wordt geplaatst. 
+Gedeputeerde staten onderscheidenlijk het dagelijks bestuur stellen, na advies van de beheerder en de wegbeheerder, vast bij welke spoorwegovergangen gelegen in voor het openbaar verkeer openstaande wegen, aan beide zijden van de spoorwegovergang aan de rechterzijde van de weg een Andreaskruis volgens model J12 of J13 van bijlage 1, van het RVV 1990 wordt geplaatst. 
 
 ### Hoofdstuk  4  
 
@@ -188,7 +188,7 @@ Treedt in werking per 01-12-2015
 ### Artikel  11  
 Treedt in werking per 01-12-2015 
 
-Als veiligheidsfunctie als bedoeld in [artikel 36, eerste lid, van de wet](../../../../../wet/wet/lokaal/spoor/BWBR0034363/README.md) wordt aangewezen de functie van een beheerder of een vervoerder voor zover die belast is met de verkeersleiding. 
+Als veiligheidsfunctie als bedoeld in artikel 36, eerste lid, van de wet wordt aangewezen de functie van een beheerder of een vervoerder voor zover die belast is met de verkeersleiding. 
 
 ### Hoofdstuk  5  
 
@@ -200,8 +200,7 @@ Treedt in werking per 01-12-2015
 Treedt in werking per 01-12-2015 
 
 1.  De jaarlijkse kosten voor het toezicht op de naleving van het bij of krachtens de wet bepaalde dat de toezichthouder uit eigen beweging verricht, bestaan uit een bij ministeriële regeling vastgesteld basistarief, vermeerderd met de kosten die worden berekend op basis van het product van de lengte van de lokale spoorweg in kilometers en het bij ministeriële regeling vastgestelde tarief per kilometer.   
-2.  De kosten voor het toezicht op de naleving van het bij of krachtens de wet bepaalde dat op verzoek van gedeputeerde staten onderscheidenlijk het dagelijks bestuur door de toezichthouder wordt verricht, worden op basis van een bij ministeriële regeling vastgesteld tarief berekend.   
-3.  De tarieven, bedoeld in het eerste en tweede lid, worden jaarlijks geïndexeerd met een bij ministeriële regeling vastgestelde index.  
+2.  De kosten voor het toezicht op de naleving van het bij of krachtens de wet bepaalde dat op verzoek van gedeputeerde staten onderscheidenlijk het dagelijks bestuur door de toezichthouder wordt verricht, worden op basis van een bij ministeriële regeling vastgesteld tarief berekend.  
 
 ### Hoofdstuk  6  
 
@@ -233,7 +232,7 @@ Wijzigt het Besluit ex artikel 110 van Boek 8 van het Burgerlijk Wetboek.
 ### Artikel  16  
 Treedt in werking per 01-12-2015 
 
-Het [Metroreglement](../../../../../AMvB/metroreglement/BWBR0003454/README.md) wordt ingetrokken.
+Het Metroreglement wordt ingetrokken.
 
 ### §  2  
 
@@ -244,7 +243,7 @@ Treedt in werking per 01-12-2015
 ### Artikel  17  
 Treedt in werking per 01-12-2015 
 
-Dit besluit treedt in werking op het tijdstip waarop de [hoofdstukken 2 tot en met 10 van de wet](../../../../../wet/wet/lokaal/spoor/BWBR0034363/README.md) in werking treden. 
+Dit besluit treedt in werking op het tijdstip waarop de hoofdstukken 2 tot en met 10 van de wet in werking treden. 
 
 ### Artikel  18  
 Treedt in werking per 01-12-2015 

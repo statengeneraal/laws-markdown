@@ -35,9 +35,9 @@ h. handmatig: met de hand, zonder gebruikmaking van enig hulpmiddel, dan wel lou
 
 i. merkje: door of vanwege de Minister verstrekt, bij een vergunning behorend merkteken;  
 
-j. verordening: verordening (EG) nr. 104/2000 van de Raad van de Europese Gemeenschappen van 17 december 1999 houdende een gemeenschappelijke ordening der markten in de sector visserijprodukten en produkten van de aquacultuur (Pb EG L 17);  
+j. verordening: verordening (EU) nr. 1379/2013 van het Europees parlement en de Raad van 11 december 2013 houdende een gemeenschappelijke marktordening voor visserijproducten en aquacultuurproducten, tot wijziging van Verordeningen (EG) nr. 1184/2006 en (EG) nr. 1224/2009 van de Raad en tot intrekking van de Verordening (EG) nr. 104/2000 van de Raad;  
 
-k. producentenorganisatie: organisatie als bedoeld in artikel 5, eerste lid, van de verordening;  
+k. producentenorganisatie: organisatie als bedoeld in artikel 14 van de verordening;  
 
 l. aangeslotene: aangeslotene bij een erkende producentenorganisatie voor het IJsselmeer;  
 
@@ -73,7 +73,9 @@ aa. wet: Visserijwet 1963;
 
 bb. vistuig van het type staand want: kieuwnetten en warrelnetten als bedoeld in bijlage I, tabel 3, van verordening (EG) nr. 26/2004 van de Commissie van de Europese Gemeenschappen van 30 december 2003 betreffende de communautaire gegevensbestand over de vissersvloot (PbEU L5); 
 
-cc.  haven: het water dat begrensd wordt door havendammen en de uiteinden van deze dammen met daarop het groene, respectievelijk rode havenlicht. De grens tussen het open water en de haven wordt gevormd door de lijn tussen deze havenlichten.  
+cc.  haven: het water dat begrensd wordt door havendammen en de uiteinden van deze dammen met daarop het groene, respectievelijk rode havenlicht. De grens tussen het open water en de haven wordt gevormd door de lijn tussen deze havenlichten; 
+
+dd. effectieve visduur: de periode tussen het in het water brengen van een vistuig en het lichten daarvan.  
 
 ### Artikel  1a  
 
@@ -163,7 +165,7 @@ Het tijdvak, bedoeld in artikel 2a, tweede lid, van de Visserijwet 1963, is
 
 ### Artikel  7  
 
-1.  Degene die vissen van de vissoorten alver, baars, barbeel, beekforel, blankvoorn, brasem, giebel, graskarper, karper, kolblei, kopvoorn, kroeskarper, pos, rietvoorn, riviergrondel, rivierprik, roofblei, snoek, snoekbaars, spiering, winde, witvingrondel, zeelt, niet inheemse rivierkreeft en wolhandkrab aanvoert, degene die in de uitoefening van een beroep of bedrijf deze vissoorten afneemt en degene die bemiddeling verleent bij het veilen van deze vissoorten als bedoeld in artikel 10a, eerste lid, van het Reglement voor de binnenvisserij 1985, zijn verplicht dagelijks een administratie bij te houden van de overdracht en de opslag van deze vissoorten.   
+1.  Degene die vissen van de vissoorten alver, baars, barbeel, beekforel, blankvoorn bot,, brasem, giebel, graskarper, karper, kolblei, kopvoorn, kroeskarper, pos, rietvoorn, riviergrondel, rivierprik, roofblei, snoek, snoekbaars, spiering, winde, witvingrondel, zeelt, niet inheemse rivierkreeft en wolhandkrab aanvoert, degene die in de uitoefening van een beroep of bedrijf deze vissoorten afneemt en degene die bemiddeling verleent bij het veilen van deze vissoorten als bedoeld in artikel 10a, eerste lid, van het Reglement voor de binnenvisserij 1985, zijn verplicht dagelijks een administratie bij te houden van de overdracht en de opslag van deze vissoorten.   
 2.  Degene die bemiddeling verleent bij het veilen van de vissoorten, genoemd in het eerste lid, is verplicht er voor zorg te dragen dat op bij de op de veiling aanwezige vissoorten de naam van de aanvoerder is vermeld alsmede de herkomst van de vissoorten.  
 
 ### Artikel  8  
@@ -233,7 +235,7 @@ c. ondernemingen waarin het hotel-, het pension-, het restaurant-, het café-, h
 
 ### Artikel  10a  
 
-1.  Een visser die in enig jaar gebruik maakt van de vistuigen, genoemd in artikel 32a, eerste lid, met uitzondering van onderdeel h, doet wekelijks uiterlijk op dinsdag om 24.00 uur opgave aan de Minister van zijn aalvangsten en zijn visserij-inspanning in de voorafgaande week. Uit deze opgave blijkt: 
+1.  Een visser die gebruik maakt van de vistuigen, genoemd in artikel 32a, eerste lid, met uitzondering van onderdeel h, doet wekelijks uiterlijk op dinsdag om 24.00 uur opgave aan de Minister van zijn aalvangsten en zijn visserij-inspanning in de voorafgaande week. Uit deze opgave blijkt: 
 
 a. de naam van de visser;  
 
@@ -245,6 +247,20 @@ d. het aantal en het soort vistuigen waarmee de visser in de betreffende week op
 2.  De opgave geschiedt op een door de Minister beschikbaar te stellen format.   
 3.  In afwijking van het eerste lid kan een visser die in een bepaalde periode geen gebruik maakt van de vistuigen genoemd in artikel 32a, eerste lid, hiervan voorafgaand aan die periode opgave doen.   
 4.  Van de verplichting uit het eerste lid zijn uitgezonderd diegenen, die op grond van artikel 104, tweede lid, van de Uitvoeringsregeling zeevisserij alle aalvangsten registreren.  
+
+### Artikel  10b  
+
+1.  Een visser die gebruik maakt van het staand net, grote fuik of de zegen, doet ten aanzien van de vissoorten baars, blankvoorn, bot, brasem en snoekbaars op verzoek van de Minister opgave van: 
+
+a. de naam van de vergunninghouder;  
+
+b. per aanlandingsdatum: 
+
+1°. de hoeveelheid aangelande vis in kilogram, onderscheiden naar het soort vis;  
+
+2°. de herkomst van de vis.       
+2.  De visser registreert de gegevens, bedoeld in het eerste lid, uiterlijk binnen 24 uren na de aanlandingsdatum.   
+3.  De opgave geschiedt uiterlijk op 31 december op een door de Minister beschikbaar te stellen format.  
 
 ### Hoofdstuk  3  
 
@@ -460,7 +476,7 @@ f. de aaskuil in de periode van 1 november tot en met 11 april, en
 g. de zegen in de periode van 16 maart tot en met 31 oktober.     
 2.  Het is verboden te vissen in het IJsselmeer met het staand net, het aalhoekwant of het aalkistje van vrijdagmiddag 16.00 uur tot de daaropvolgende maandagmorgen 8.00 uur.   
 3.  Het is verboden te vissen in het IJsselmeer met de aaskuil van donderdag zonsondergang tot de daaropvolgende maandag 8.00 uur en voorts dagelijks van zonsondergang tot de daaropvolgende morgen 8.00 uur.  
-4. Het is buiten de periode, bedoeld in het eerste lid onder g, eveneens verboden met de zegen te vissen in het IJsselmeer op acht of meer dagen.
+4. Het is buiten de periode, bedoeld in het eerste lid onder g, eveneens verboden met de zegen te vissen in het IJsselmeer op acht of meer, of ingeval van een overdracht als bedoeld in artikel 75, zesde lid, of 75a, een veelvoud van het aantal dagen, waarop het toegestaan is om met de zegen te vissen dagen.
 5. Het is verboden met de zegen te vissen in het IJsselmeer op een dag waarvoor door de vergunninghouder niet ten minste twee werkdagen daarvoor melding is gedaan aan de minister.
 
 ### Artikel  30  
@@ -893,7 +909,7 @@ Het verbod, bedoeld in artikel 30, geldt niet gedurende de door de Minister krac
 
 1.  Van het verbod, bedoeld in artikel 32, wordt vrijstelling verleend indien de Minister: 
 
-a. een producentenorganisatie voor het IJsselmeer heeft erkend overeenkomstig artikel 5, tweede lid, van de verordening;  
+a. een producentenorganisatie voor het IJsselmeer heeft erkend overeenkomstig artikel 14 van de verordening;  
 
 b. heeft vastgesteld dat het aantal bij de producentenorganisatie aangesloten producenten tenminste 59% bedraagt van het totaal aantal vergunninghouders, en  
 
@@ -1023,11 +1039,13 @@ a. De vrijstelling, bedoeld in artikel 67, eerste lid, van kracht is, en
 
 b. zowel degene die overdraagt als degene aan wie wordt overgedragen, aangeslotene zijn.     
 3.  In geval van een overdracht als bedoeld in het eerste lid, wijzigt een erkende producentenorganisatie voor het IJsselmeer namens de Minister de desbetreffende vergunningen dienovereenkomstig, op verzoek van de betrokken aangeslotenen, mits is voldaan aan het tweede lid.  
-4. In afwijking van het eerste en het tweede lid, aanhef en onderdeel a, is een overdracht van een deel van een vergunning mogelijk, indien niet is voorzien in een goedgekeurd visplan en indien de vrijstelling, bedoeld in artikel 67, eerste lid, niet van kracht is, voor zover die overdracht ziet op het gebruik van het aalkistje, de schietfuik, de grote fuik en het staand net.
-5. Een overdracht als bedoeld in het vierde lid dat op het gebruik ziet van het staand net, is slechts mogelijk, voor zover het een verhuur betreft die in de vergunningsperiode van 1 juni 2013 tot en met 31 mei 2014 plaatsvond, waarbij het aantal verhuurde staand netten in de periode van 1 juli 2014 tot en met 1 juni 2015 niet het aantal staand netten overschrijdt die de verhuurder maximaal mag inzetten in de vergunningsperiode van 1 juli 2014 tot en met 31 mei 2015.
+4. In afwijking van het eerste en het tweede lid is een overdracht van een deel van een vergunning mogelijk, indien niet is voorzien in een goedgekeurd visplan en indien de vrijstelling, bedoeld in artikel 67, eerste lid, niet van kracht is, voor zover die overdracht ziet op het gebruik van het aalkistje, de schietfuik, de grote fuik en het staand net.
+5. Een overdracht als bedoeld in het vierde lid dat op het gebruik ziet van het staand net, is slechts mogelijk, voor zover het aantal verhuurde staand netten in de periode van 1 juli tot en met 31 mei niet het aantal staand netten overschrijdt dat de verhuurder maximaal mag inzetten in deze vergunningsperiode. 
+6.  In afwijking van het eerste en tweede lid, is een overdracht van een deel van een vergunning mogelijk, indien niet is voorzien in een goedgekeurd visplan en indien de vrijstelling, bedoeld in artikel 67, eerste lid, niet van kracht is, voor zover deze overdracht ziet op het gebruik van de zegen en voor onbepaalde tijd wordt aangevraagd. Een overdracht krachtens dit lid betekent tevens een overdracht van de dagen, bedoeld in artikel 29, vierde lid.   
+7.  Een overdracht als bedoeld in het eerste, vierde en zesde lid, ongeacht of deze tijdelijk dan wel voor onbepaalde tijd is, is slechts mogelijk, indien daarvan uiterlijk op 1 april voorafgaand aan de eerstvolgende vergunningsperiode waarvoor de overdracht geldt, een aanvraag is ingediend bij de Minister.   
+8.  In afwijking van het zevende lid kan de aanvraag voor de vergunningsperiode van 1 juni 2015 tot en met 31 mei 2016 uiterlijk op 1 juni 2015 worden gedaan. 
 
 ### Artikel  75a  
-Treedt in werking per 01-06-2015 
 
 1.  Een overdracht van het aantal dagen, bedoeld in artikel 29, vierde lid, is slechts mogelijk, voor zover het totale aantal dagen wordt overgedragen en het een tijdelijke overdracht betreft voor een aaneengesloten periode van ten hoogste 12 maanden, gerekend vanaf 1 juni.   
 2.  Een overdracht als bedoeld in het eerste lid is slechts mogelijk, indien daarvan uiterlijk op 1 april voorafgaand aan de eerstvolgende vergunningsperiode waarvoor de overdracht geldt, een aanvraag is ingediend bij de Minister.   

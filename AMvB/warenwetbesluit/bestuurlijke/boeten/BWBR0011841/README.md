@@ -58,7 +58,7 @@ A. H. Korthals
 |  *A*   | Overtredingen Warenwet  |
 |  *B*   | Overtredingen van Warenwetbesluiten met algemene werking   |
 |  *B-1*   | Warenwetbesluit algemene productveiligheid  |
-|  *B-2*   | Hoeveelheidsaanduidingenbesluit (Warenwet)  |
+|  *B-2*   | Warenwetbesluit hoeveelheden voorverpakkingen  |
 |  *B-3*   | Warenwetbesluit Uitvoer van waren  |
 |  *C*   |  *Overtredingen van Warenwetbesluiten en -regelingen betrekking hebbend op niet-levensmiddelen*   |
 | --- |  *Verpakking en aanduiding*   |
@@ -116,6 +116,7 @@ vervallen  |
 |*C-43* | Warenwetbesluit tatoeëren en piercen |
 |*C-44* |Warenwetregeling kinderveiligheid aanstekers |
 |*C-45* |Warenwetbesluit Lucky Bamboo |
+|*C-46* |Tijdelijk warenwetbesluit elektronische sigaret |
 | D  | Overtredingen van Warenwetbesluiten en -regelingen betrekking hebbend op levensmiddelen  |
 | --- |  *Verpakking en aanduiding*   |
 |  *D-1*   | Voorwaarden gebruik aanduidingen «ongezouten» en« voor natriumarm dieet» voor boter  |
@@ -255,46 +256,15 @@ vervallen  |
 | A-6.1  | art. 32c  | € 795,–  | € 1590,–  |
 |  *B *   | --- | --- | --- | --- |
 |B-1 | Warenwetbesluit algemene productveiligheid  | --- | --- |
-| B-1.1.1  | art. 2 lid 1 sub a  | € 795,–  | € 1590,–   |
-| B-1.1.2  | art. 2 lid 1 sub b  | € 795,–  | € 1590,–   |
-| B-1.1.3  | art. 2 lid 2  | € 795,–  | € 1590,–  |
-| B-1.2.1  | art. 2a lid 1  | € 525,–  | €  1050,–  |
-|B-1.2.2 |art. 2a lid 2 |€ 525,– |€  1050,– |
-|B-1.2.3 |art. 2a lid 3 |€ 525,– |€ 1050,– |
-|  *B-2*   |  *Wijzigingswet 1988 Warenwet*   |  *Hoeveelheidsaanduidingenbesluit (Warenwet)*   | --- | --- |
-| B-2.1  | art. II lid 2 j°  | art. 2 lid 1  | € 525,–  | € 1050,–   |
-| B-2.2  | art. II lid 2 j°  | art. 3  | € 525,–  | € 1050,–   |
-| B-2.3  | art. II lid 2 j°  | art. 5 lid 1  | € 525,–  | € 1050,–   |
-| B-2.4  | art. II lid 2 j°  | art. 5 lid 1 j° art. 5 lid 2  | € 525,–  | € 1050,–  |
-| B-2.5  | art. II lid 2 j°  | art. 5 lid 1 j° art. 5 lid 3  | € 525,–  | € 1050,–   |
-| B-2.6  | art. II lid 2 j°  | art. 5 lid 4 j° art. 5 lid 1  | € 525,–  | € 1050,–   |
-| B-2.7  | art. II lid 2 j°  | art. 6   | € 525,–  | € 1050,–   |
-| B-2.8  | art. II lid 2 j°  | art. 9 lid 1  | € 525,–  | € 1050,–  |
-| B-2.9  | art. II lid 2 j°  | art. 9 lid 3  | € 525,–  | € 1050,–   |
-| B-2.10  | art. II lid 2 j°  | art. 9 lid 4  | € 525,–  | € 1050,–   |
-| B-2.11  | art. II lid 2 j°  | art. 9 lid 5  | € 525,–  | € 1050,–   |
-| B-2.12  | art. II lid 2 j°  | art. 9 lid 7  | € 525,–  | € 1050,–  |
-| B-2.13  | art. II lid 2 j°  | art. 10  | € 525,–  | € 1050,–  |
-| B-2.14  | art. II lid 2 j°  | art. 11  | € 525,–  | € 1050,–  |
-| B-2.15  | art. II lid 2 j°  | art. 12  | € 525,–  | € 1050,–  |
-| B-2.16  | art. II lid 2 j°  | art. 13  | € 525,–  | € 1050,–  |
-| B-2.17  | art. II lid 2 j°   | art. 14  | € 525,–  | € 1050,–   |
-| B-2.18  | art. II lid 2 j°  | art. 15  | € 525,–  | € 1050,–   |
-| B-2.19  | art. II lid 2 j°  | art. 20 lid 1  | € 525,–  | € 1050,–   |
-| B-2.20  | art. II lid 2 j°  | art. 20 lid 5  | € 525,–  | € 1050,–   |
-| B-2.21  | art. II lid 2 j°  | art. 21 lid 1  | € 525,–  | € 1050,–  |
-| B-2.22  | art. II lid 2 j°  | art. 22 lid 1  | € 525,–  | € 1050,–   |
-| B-2.23  | art. II lid 2 j°  | art. 23 lid 1   | € 525,–  | € 1050,–   |
-| B-2.24  | art. II lid 2 j°  | art. 25 lid 1  | € 525,–  | € 1050,–   |
-| B-2.25  | art. II lid 2 j°  | art. 25 lid 2  | € 525,–  | € 1050,–  |
-| B-2.26  | art. II lid 2 j°  | art. 25 lid 4  | € 525,–  | € 1050,–   |
-| B-2.27  | art. II lid 2 j°  | art. 25 lid 5  | € 525,–  | € 1050,–   |
-| B-2.28  | art. II lid 2 j°  | art. 26 lid 1  | € 525,–  | € 1050,–   |
-| B-2.29  | art. II lid 2 j°  | art. 26 lid 2  | € 525,–  | € 1050,–  |
-| B-2.30  | art. II lid 2 j°  | art.26 lid 3  | € 525,–  | € 1050,–   |
-| B-2.31  | art. II lid 2 j°  | art. 26 lid 4  | € 525,–  | € 1050,–   |
-| B-2.32  | art. II lid 2 j°  | art. 28 lid 1  | € 525,–  | € 1050,–  |
-| B-2.33  | art. II lid 2 j°  | art. 29  | € 525,–  | € 1050,–   |
+| B-1.1.1  | art. 2, lid 1, sub a, jo art. 2a, lid 1  | € 795,–  | € 1590,–   |
+| B-1.1.2  | art. 2, lid 1, sub b, jo art. 2a, lid 1  | € 795,–  | € 1590,–   |
+| B-1.1.3  | art. 2, lid 3, jo. art. 2a, lid 1  | € 525,–  | € 1050,–  |
+| B-1.2.1  | art. 2a, lid 2  | € 525,–  | € 1050,–  |
+|B-1.2.2 |art. 2a, lid 3 |€ 525,– |€ 1050,– |
+|  *B-2*   | Warenwetbesluit hoeveelheden voorverpakkingen | --- | --- |
+| B-2.1  | art. 2 lid 1 jo art. 3 |€ 525,– |€ 1.050,– |
+| B-2.2  |art. 2 lid 1 jo art. 11 |€ 525,– |€ 1.050,– |
+| B-2.3  |art. 2 lid 2 jo. art. 12 |€ 525,– |€ 1.050,– |
 |  *B-3*   | Warenwetbesluit Uitvoer van waren  | --- | --- |
 | B-3.1  | art. 1a  | € 525,–  | € 1050,–   |
 |  *C*   | --- | --- | --- | --- |
@@ -693,6 +663,41 @@ vervallen  |
 |C-45.1.1 |art. 2 jo. art. 3 |€ 1590 |€ 2100 |
 |C-45.2.1 |art. 2 jo. art. 4 lid 1 |€ 1590 |€ 2100 |
 |C-45.2.2 |art. 2 jo. art. 4 lid 2 |€ 1590 |€ 2100 |
+| C-46  | Tijdelijk warenwetbesluit elektronische sigaret  | --- | --- |
+| C-46.1.1  | Artikel 2 j° artikel 3, lid 1  | € 525,–  | € 1.050,–  |
+| C-46.1.2  | Artikel 2 j° artikel 3, lid 2  | € 525,–  | € 1.050,–  |
+| C-46.1.3  | Artikel 2 j° artikel 3, lid 3  | € 525,–  | € 1.050,–  |
+| C-46.1.4  | Artikel 2 j° artikel 4, lid 1  | € 525,–  | € 1.050,–  |
+| C-46.1.5  | Artikel 2 j° artikel 4, lid 2  | € 525,–  | € 1.050,–  |
+| C-46.1.6  | Artikel 2 j° artikel 4, lid 3  | € 525,–  | € 1.050,–  |
+| C-46.2.1.1  | Artikel 2 j° artikel 5, lid 1, onder a  | € 525,–  | € 1.050,–  |
+| C-46.2.1.2  | Artikel 2 j° artikel 5, lid 1, onder b  | € 525,–  | € 1.050,–  |
+| C-46.2.1.3  | Artikel 2 j° artikel 5, lid 1, onder c  | € 525,–  | € 1.050,–  |
+| C-46.2.1.4  | Artikel 2 j° artikel 5, lid 1, onder d  | € 525,–  | € 1.050,–  |
+| C-46.2.2.1  | Artikel 2 j° artikel 5, lid 2, onder a  | € 525,–  | € 1.050,–  |
+| C-46.2.2.2  | Artikel 2 j° artikel 5, lid 2, onder b  | € 525,–  | € 1.050,–  |
+| C-46.2.2.3  | Artikel 2 j° artikel 5, lid 2, onder c  | € 525,–  | € 1.050,–  |
+| C-46.2.2.4  | Artikel 2 j° artikel 5, lid 2, onder d  | € 525,–  | € 1.050,–  |
+| C.46.2.2.5  | Artikel 2 j° artikel 5, lid 2, onder e  | € 525,–  | € 1.050,–  |
+| C-46.3.1  | Artikel 2 j° artikel 6, onder a  | € 525,–  | € 1.050,–  |
+| C-46.3.2  | Artikel 2 j° artikel 6, onder b  | € 525,–  | € 1.050,–  |
+| C-46.3.3  | Artikel 2 j° artikel 6, onder c  | € 525,–  | € 1.050,–  |
+| C-46.3.4  | Artikel 2 j° artikel 6, onder d  | € 525,–  | € 1.050,–  |
+| C-46.3.5  | Artikel 2 j° artikel 6, onder e  | € 525,–  | € 1.050,–  |
+| C-46.4.1  | Artikel 2 j° artikel 7, lid 1  | € 525,–  | € 1.050,–  |
+| C-46.4.2  | Artikel 2 j° artikel 7, lid 2  | € 525,–  | € 1.050,–  |
+| C-46.4.3.1  | Artikel 2 j° artikel 7, lid 3, onder a  | € 525,–  | € 1.050,–  |
+| C-46.4.3.2  | Artikel 2 j° artikel 7, lid 3, onder b  | € 525,–  | € 1.050,–  |
+| C-46.4.3.3  | Artikel 2 j° artikel 7, lid 3, onder c  | € 525,–  | € 1.050,–  |
+| C-46.5.1  | Artikel 2 j° artikel 8, lid 1  | € 525,–  | € 1.050,–  |
+| C-46.5.2.1  | Artikel 2 j° artikel 8, lid 2, onder a  | € 525,–  | € 1.050,–  |
+| C-46.5.2.2  | Artikel 2 j° artikel 8, lid 2, onder b  | € 525,–  | € 1.050,–  |
+| C-46.5.2.3  | Artikel 2 j° artikel 8, lid 2, onder c  | € 525,–  | € 1.050,–  |
+| C-46.5.2.4  | Artikel 2 j° artikel 8, lid 2, onder d  | € 525,–  | € 1.050,–  |
+| C-46.5.2.5  | Artikel 2 j° artikel 8, lid 2, onder e  | € 525,–  | € 1.050,–  |
+| C-46.6.1  | Artikel 2 j° artikel 9, lid 1  | € 525,–  | € 1.050,–  |
+| C-46.6.2  | Artikel 2 j° artikel 9, lid 2, onder a  | € 525,–  | € 1.050,–  |
+| C-46.6.3  | Artikel 2 j° artikel 9, lid 2, onder b  | € 525,–  | € 1.050,–  |
 |  *D*   | --- | --- | --- | --- |
 |  *D-1*   |  *Wijzigingswet 1988 Warenwet*   |  Voorwaarden gebruik aanduidingen «ongezouten» en «voor natriumarm dieet» voor boter   | --- | --- |
 | D-1.1.1  | art. II lid 2 j°  | art. 1 lid 1  | € 525,–  | € 1050,–   |
@@ -762,6 +767,19 @@ vervallen  |
 | D-6.3  | art. 2 j° art. 5  | € 525,–  | € 1050,–   |
 | D-6.4  | art. 2 j° art. 6  | € 525,–  | € 1050,–   |
 | D-6.5  | art. 2 j° art. 7  | € 525,–  | € 1050,–   |
+|D-6.6  |art. 2 j° art. 7a  |€ 525,–  |€ 1.050,–  |
+|D-6.7  |art. 2 j° art. 7b  |€ 525,–  |€ 1.050,–  |
+|D-6.8  |art. 2 j° art. 7c  |€ 525,–  |€ 1.050,–  |
+|D-6.9  |art. 2 j° art. 7d  |€ 525,–  |€ 1.050,–  |
+|D-6.10  |art. 2 j° art. 7e  |€ 525,–  |€ 1.050,–  |
+|D-6.11  |art. 2 j° art. 7f  |€ 525,–  |€ 1.050,–  |
+|D-6.12  |art. 2 j° art. 7g  |€ 525,–  |€ 1.050,–  |
+|D-6.13  |art. 2 j° art. 7h  |€ 525,–  |€ 1.050,–  |
+|D-6.14  |art. 2 j° art. 7i  |€ 525,–  |€ 1.050,–  |
+|D-6.15  |art. 2 j° art. 7j  |€ 525,–  |€ 1.050,–  |
+|D-6.16  |art. 2 j° art. 7k  |€ 525,–  |€ 1.050,–  |
+|D-6.17  |art. 2 j° art. 7l  |€ 525,–  |€ 1.050,–  |
+|D-6.18  |art. 2 j° art. 7m  |€ 525,–  |€ 1.050,–  |
 |  *D-7*   |  Warenwetbesluit Voedingswaarde-informatie levensmiddelen   | --- | --- |
 | D-7.1  | art. 2 lid 1 j° art. 3 lid 1  | € 525,–  | € 1050,–   |
 | D-7.2  | art. 2 lid 1 j° art. 3 lid 2  | € 525,–  | € 1050,–   |
@@ -795,6 +813,8 @@ vervallen  |
 | D-11.1.2  | art. 2 lid 1 jo.  | --- | --- | --- |
 | --- |art. 4 onder a jo. |art.3 |€ 795,–,- |€ 1590,–,- |
 | --- | --- | Warenwetregeling Invoer eiproducten uit derde landen  | --- | --- |
+| D-11.1.3  | art. 2, lid 2, jo art. 4, onder a, jo  | art. 2  | € 795,–  | € 1590,–  |
+| D-11.1.4  | art. 2, lid 4  | --- | € 795,–  | € 1590,–  |
 |D-11.2.1 |art. 2 lid 1 jo. | --- | --- | --- |
 | --- | art. 4 onder b jo.  | art. 2  | € 795,–,-  | € 1590,–,-  |
 | --- | --- | Warenwetregeling noodmaatregelen invoer levensmiddelen uit derde landen (verordening (EG) 178/2002)  | --- | --- |
@@ -1171,6 +1191,7 @@ vervallen  |
 | D-63.1.13  | art. 2 lid 1 j° art. 10 lid 1  | € 525,–  | € 1050,–   |
 | D-63.1.14  | art. 2 lid 1 j° art. 11   | € 525,–  | € 1050,–   |
 | D-63.1.14a  | art. 2 lid 1 j° art. 11a lid 1  | € 525,–  | € 1050,–   |
+|D-63.1.14b  |art. 2, lid 1 j° art. 11b |€ 525,– |€ 1.050,– |
 | D-63.1.15  | art. 2 lid 1 j° art. 12 lid 1  | € 525,–  | € 1050,–   |
 | D-63.1.16  | art. 2 lid 1 j° art. 12 lid 2  | € 525,–  | € 1050,–   |
 | D-63.1.17  | art. 2 lid 1 j° art. 13  | € 525,–  | € 1050,–   |

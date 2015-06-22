@@ -239,6 +239,11 @@ a. andere dan in bijlage III, deel 1, van die richtlijn vermelde methoden gebrui
 
 b. voor de in bijlage III, delen 2 en 3, van die richtlijn genoemde parameters elke methode van onderzoek mag worden gebruikt die aan de aldaar gestelde eisen voldoet.   
 
+### Artikel  14b  
+Treedt in werking per 28-11-2015 
+
+Bij de vaststelling of al dan niet is voldaan aan artikel 14, voor zover het betrekking heeft op het voldoen aan de parameterwaarden voor radioactieve stoffen, wordt gecontroleerd volgens de in bijlage II en III bij richtlijn 2013/51/Euratom vastgestelde controlestrategieën en controlefrequenties. 
+
 ### §  6:  
 
 ####slotbepalingen 

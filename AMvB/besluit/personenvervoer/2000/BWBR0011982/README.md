@@ -107,7 +107,7 @@ De artikelen 41 tot en met 43, 45, eerste lid, onderdeel a, 46 en 50 zijn niet v
 
 ### Artikel  6  
 
-1.  De artikelen 14, 70 tot en met 74, 76 tot en met 79, 87, 88, eerste lid, 89 tot en met 93, 97 tot en met 99, 101, 103, 105 en 106 van de wet en de artikelen 12 tot en met 23, 26, 28 tot en met 30, tweede en vierde lid, hoofdstuk 4 met uitzondering van de artikelen 41, 42, 43 en 50, hoofdstuk 6, met uitzondering van de artikelen 73, 74 en 78, 118, 120, 121, 124 en 126 van dit besluit zijn van overeenkomstige toepassing op voor een ieder openstaand personenvervoer per auto dat niet volgens een dienstregeling wordt verricht: 
+1.  De artikelen 14, 70 tot en met 74, 76 tot en met 79, 87, 88, eerste lid, 89 tot en met 93, 97 tot en met 99, 101, 103, 105 en 106 van de wet en de artikelen 12 tot en met 23, 26, 28 tot en met 30, hoofdstuk 4 met uitzondering van de artikelen 41, 42, 43 en 50, hoofdstuk 6, met uitzondering van de artikelen 73, 74 en 78, 118, 120, 121, 124 en 126 van dit besluit zijn van overeenkomstige toepassing op voor een ieder openstaand personenvervoer per auto dat niet volgens een dienstregeling wordt verricht: 
 
 a. krachtens een door een bestuursorgaan als bedoeld in artikel 20 van de wet, met een vervoerder gesloten overeenkomst, welke tot stand is gekomen na een aanbestedingsprocedure krachtens de Raamwet EEG-voorschriften aanbestedingen voor het plaatsen van opdrachten voor dienstverlening,  
 
@@ -414,8 +414,7 @@ b. een voor het beroep van vervoerder die taxivervoer verricht afgegeven erkenni
 ### Artikel  30  
 
 1.  De vervoerder die taxivervoer verricht overlegt elke vijf jaar, gerekend vanaf de dag waarop de vergunning is verleend, aan Onze Minister een verklaring omtrent het gedrag als bedoeld in artikel 22, eerste lid, en toont aan dat hij voldoet aan de eis van vakbekwaamheid, bedoeld in artikel 28, eerste lid.   
-2.  Onze Minister kan de vervoerder die openbaar vervoer of besloten busvervoer verricht, ten hoogste een jaar uitstel verlenen ten behoeve van de vaststelling van het voldoen aan de eis van kredietwaardigheid indien de vervoerder heeft aangetoond dat het op grond van de algemene bedrijfseconomische situatie van zijn onderneming aannemelijk is dat hij voor afloop van het verleende uitstel zal voldoen aan de eis van kredietwaardigheid.   
-3.  Indien Onze Minister vermoedt dat een persoon als bedoeld in artikel 21 niet langer voldoet aan de eisen voor het afgeven van een verklaring omtrent het gedrag, kan Onze Minister verlangen dat, in afwijking van het eerste lid, die persoon binnen een door Onze Minister vast te stellen termijn opnieuw een verklaring omtrent het gedrag overlegt.  
+2.  Indien Onze Minister vermoedt dat een persoon als bedoeld in artikel 21 niet langer voldoet aan de eisen voor het afgeven van een verklaring omtrent het gedrag, kan Onze Minister verlangen dat, in afwijking van het eerste lid, die persoon binnen een door Onze Minister vast te stellen termijn opnieuw een verklaring omtrent het gedrag overlegt.  
 
 ### Hoofdstuk  3  
 

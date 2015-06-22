@@ -1092,6 +1092,8 @@ E. M. H. Hirsch Ballin
 
 – Spooldersluis;  
 
+– stormvloedkering Ramspol; 
+
 – Westelijke kanaaldijk Amsterdam-Rijnkanaal en Lekkanaal tussen Amsterdam en Nieuwegein, vanaf km 1.000 tot en met km 45.000;  
 
 – Prinses Beatrixsluizen; inclusief voorhavendijken (Nieuwegein);  
@@ -1104,7 +1106,7 @@ E. M. H. Hirsch Ballin
 
 – Prins Berhardsluizen (Tiel);  
 
-– Noordzeesluizencomplex (IJmuiden);  
+– Verbindende kering IJmuiden;  
 
 – sluizencomplex Schellingwoude (Amsterdam);  
 
@@ -1146,15 +1148,7 @@ E. M. H. Hirsch Ballin
 
 – Kreekrakpolder;  
 
-– kaden Handelshaven Breskens;  
-
 – waterkering sluizen Terneuzen;  
-
-– waterkering Scheldeboulevard Terneuzen;  
-
-– waterkering voormalige Veerhaven Terneuzen;  
-
-– waterkering Veerhaven Perkpolder;  
 
 – Marksluis;  
 
@@ -1185,8 +1179,6 @@ E. M. H. Hirsch Ballin
 – westelijke dijk Amsterdam Rijnkanaal vanaf splitsing Lekkanaal tot aan Wijk bij Duurstede;  
 
 – de westelijke en oostelijke dijk langs het Amsterdam Rijnkanaal, gelegen tussen de Lek en de Waal (tussen de Prinses Marijke- en de Prins Bernardsluizen);  
-
-– voorlanddijken Texel: Bolwerk Robbengat, Zanddijk polder Robbenjager, Dijk Polder ’t Horntje (NH);  
 
 – waterkeringen langs het Kanaal van Gent naar Terneuzen;  
 
@@ -1234,6 +1226,10 @@ E. M. H. Hirsch Ballin
 ![245836](http://wetten.overheid.nl/Illustration/245836)
 ![245837](http://wetten.overheid.nl/Illustration/245837)
 ![245838](http://wetten.overheid.nl/Illustration/245838)
+
+####Kaartblad nr. 035 Bergsche Maas
+
+Deze kaart ligt ter inzage op het Ministerie van Infrastructuur en Milieu en kan worden ingezien op en gedownload op www.waterwet.nl. 
 ![245839](http://wetten.overheid.nl/Illustration/245839)
 ![245841](http://wetten.overheid.nl/Illustration/245841)
 ![245840](http://wetten.overheid.nl/Illustration/245840)
@@ -1241,7 +1237,10 @@ E. M. H. Hirsch Ballin
 ![245843](http://wetten.overheid.nl/Illustration/245843)
 ![245872](http://wetten.overheid.nl/Illustration/245872)
 ![245844](http://wetten.overheid.nl/Illustration/245844)
-![245845](http://wetten.overheid.nl/Illustration/245845)
+
+####Kaartblad nr. 060 Nieuwe Merwede
+
+Deze kaart ligt ter inzage op het Ministerie van Infrastructuur en Milieu en kan worden ingezien op en gedownload op www.waterwet.nl.
 ![245846](http://wetten.overheid.nl/Illustration/245846)
 ![245847](http://wetten.overheid.nl/Illustration/245847)
 ![245848](http://wetten.overheid.nl/Illustration/245848)
