@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van het College van het Commissariaat voor de Media houdende mandatering, volmacht en machtiging van bevoegdheden van het Commissariaat aan leden van het College, onderscheidenlijk ambtenaren in dienst van het Commissariaat voor de Media (Besluit mandaat, volmacht en machtiging Commissariaat voor de Media)
+##Besluit van het College van het Commissariaat voor de Media houdende mandatering, volmacht en machtiging van bevoegdheden van het Commissariaat aan leden van het College, onderscheidenlijk ambtenaren in dienst van het Commissariaat voor de Media (Besluit mandaat, volmacht en machtiging Commissariaat voor de Media 2015)
 
 Het College van het Commissariaat voor de Media,  
 gelet op het bepaalde in afdeling 10.1.1 van de Algemene wet bestuursrecht (hierna: de Awb),
@@ -15,9 +15,12 @@ dat het Besluit van het College van het Commissariaat voor de Media houdende man
 Besluit:     
 ### Paragraaf  1  
 
-####begripsbepalingen
+####: begripsbepalingen
+
+Treedt in werking per 25-06-2015 
 
 ### Artikel  1  
+Treedt in werking per 25-06-2015 
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
@@ -31,34 +34,43 @@ d.  *machtiging:* de bevoegdheid op basis van artikel 10:12 Awb om in naam van h
 
 ### Paragraaf  2  
 
-####algemene mandatering van bevoegdheden, volmacht en machtiging
+####: algemene mandatering van bevoegdheden, volmacht en machtiging
+
+Treedt in werking per 25-06-2015 
 
 ### Artikel  2  
+Treedt in werking per 25-06-2015 
 
 Aan de onderscheiden leden van het College wordt mandaat, volmacht en machtiging verleend ten aanzien van aangelegenheden die tot hun aandachtsgebied behoren en die naar hun aard of inhoud niet een zodanig gewicht hebben dat zij door het College behoren te worden afgedaan. 
 
 ### Artikel  3  
+Treedt in werking per 25-06-2015 
 
-1.  Aan de managers van de afdelingen Onderzoek en Toegang en Handhavingsbeleid en -uitvoering, de secretaris van het College, het hoofd van de stafeenheid Externe Betrekkingen en Advisering en het hoofd van de stafeenheid Bedrijfsvoering wordt mandaat, volmacht en machtiging verleend ten aanzien van aangelegenheden die tot ieders werkterrein behoren. Bij afwezigheid van één van hen is één van de andere hierboven genoemde functionarissen in zijn of haar plaats gemandateerd en ge(vol)machtigd.   
-2.  Nadere aanduiding van mediawettelijke aangelegenheden waartoe het in het eerste lid bedoelde mandaat zich in ieder geval uitstrekt, zal geschieden door het College in een regeling die zal worden geplaatst op de internetsite van het Commissariaat voor de Media (www.cvdm.nl).  
+1.  Aan de algemeen directeur, de adjunct directeur en de managers van de afdelingen Onderzoek en Toegang en Handhavingsbeleid en Uitvoering (samen het Managementteam vormend), de secretaris van het College, het hoofd van de stafeenheid Externe Betrekkingen en Advisering en het hoofd van de stafeenheid Bedrijfsvoering dan wel bij hun afwezigheid de projectleiders van de afdelingen Onderzoek en Toegang en Handhavingsbeleid en Uitvoering wordt mandaat, volmacht en machtiging verleend ten aanzien van aangelegenheden die tot ieders werkterrein behoren. Bij afwezigheid van een van hen is een van de hierboven genoemde functionarissen in zijn of haar plaats gemandateerd en ge(vol)machtigd.   
+2.  Nadere aanduiding van mediawettelijke aangelegenheden waartoe het in het eerste lid bedoelde mandaat zich uitstrekt, zal geschieden door het College in een regeling die zal worden geplaatst op de internetsite van het Commissariaat voor de Media (www.cvdm.nl).  
 
 ### Artikel  4  
+Treedt in werking per 25-06-2015 
 
-Als aanvulling op en nadere explicatie van het bepaalde in artikel 3 geldt ten aanzien van de managers van de afdelingen Onderzoek en Toegang en Handhavingsbeleid en -uitvoering dat deze: 
+Als aanvulling op en nadere explicatie van het bepaalde in artikel 3 geldt ten aanzien van de algemeen directeur, de adjunct directeur en de managers van de afdelingen Onderzoek en Toegang e Handhavingsbeleid en Uitvoering dat deze: 
 
-a. samen optreden als ‘hoofd van dienst’ in de zin van artikel 4, eerste lid, onder b, van het ARAR, als ‘bestuurder’ in de zin van artikel 1, eerste lid, onder e, van de WOR, waarbij de betrokken functionarissen in onderling overleg bepalen wie van hen op welk moment het overleg met de ondernemingsraad voert en als ‘werkgever’ in de zin van artikel 1, eerste lid, onder a, van de ARBO wet ten aanzien van de medewerkers van het Commissariaat voor de Media;  
+a. optreden als ‘hoofd van dienst’ in de zin van artikel 4, eerste lid, onder b, van het ARAR, als ‘bestuurder’ in de zin van artikel 1, eerste lid, onder e, van de WOR waarbij zij in onderling overleg bepalen wie van hen op welk moment het overleg met de ondernemingsraad voert en als ‘werkgever’ in de zin van artikel 1, eerste lid, onder a, van de ARBO wet ten aanzien van de medewerkers van het Commissariaat voor de Media;  
 
-b. ieder bevoegd zijn tot het schorsen van een ambtenaar.   
+b. bevoegd zijn tot het schorsen van een ambtenaar.   
 
 ### Paragraaf  3  
 
-####bijzondere bepalingen
+####: bijzondere bepalingen
+
+Treedt in werking per 25-06-2015 
 
 ### Artikel  5  
+Treedt in werking per 25-06-2015 
 
-De uitoefening van bevoegdheden waardoor namens het College en binnen de kaders van de door het College vastgestelde begroting financiële verplichtingen tot een bedrag van € 10.000,00 worden aangegaan, is voorbehouden aan de managers van de afdelingen Onderzoek en Toegang, Handhavingsbeleid en -uitvoering, de secretaris van het College, het hoofd van de stafafdeling Externe Betrekkingen en Advisering en het hoofd van de stafafdeling Bedrijfsvoering dan wel bij hun afwezigheid een van de overige tot het aangaan van financiële verplichtingen bevoegde functionarissen. De uitoefening van bevoegdheden waardoor namens het College en binnen de kaders van de door het College vastgestelde begroting financiële verplichtingen tussen een bedrag van € 10.000,00 en € 50.000,00 worden aangegaan, is voorbehouden aan de managers van de afdelingen Onderzoek en Toegang en Handhavingsbeleid en -uitvoering. De uitoefening van bevoegdheden waardoor financiële verplichtingen boven een bedrag van € 50.000,00 worden aangegaan, is voorbehouden aan het College. 
+De uitoefening van bevoegdheden waardoor namens het College en binnen de kaders van de door het College vastgestelde begroting financiële verplichtingen tot een bedrag van € 10.000,00 worden aangegaan, is voorbehouden aan de individuele leden van het Managementteam, de algemeen directeur, de adjunct directeur, de managers van de afdelingen Onderzoek en Toegang, Handhavingsbeleid en Uitvoering, het hoofd van de stafafdeling Externe Betrekkingen en Advisering en het hoofd van de stafafdeling Bedrijfsvoering dan wel bij hun afwezigheid één van de overige tot het aangaan van financiële verplichtingen bevoegde functionarissen. De uitoefening van bevoegdheden waardoor namens het College en binnen de kaders van de door het College vastgestelde begroting financiële verplichtingen tussen een bedrag van € 10.000,00 en € 50.000,00 worden aangegaan, is voorbehouden aan de algemeen directeur, de adjunct directeur en de managers van de afdelingen Onderzoek en Toegang en Handhavingsbeleid en Uitvoering. De uitoefening van bevoegdheden waardoor financiële verplichtingen boven een bedrag van € 50.000,00 worden aangegaan, is voorbehouden aan het College. 
 
 ### Artikel  6  
+Treedt in werking per 25-06-2015 
 
 Onverminderd de mogelijkheid van mandatering overeenkomstig artikel 3 zijn de volgende handelingen voorbehouden aan het College: 
 
@@ -92,9 +104,9 @@ b. de hoofdlijnen van het algemene communicatiebeleid, waaronder begrepen de bek
 
 c. de hoofdlijnen van het formatiebeleid;  
 
-d. het aanstellen of ontslaan van een ambtenaar, daartoe gerekend het al dan niet verlengen van een tijdelijke aanstelling van deze, en het schorsen van een ambtenaar in geval het betreft de manager van de afdeling Onderzoek en Toegang en/of de afdeling Handhavingsbeleid en -uitvoering.    
+d. het aanstellen of ontslaan van een ambtenaar, daartoe gerekend het al dan niet verlengen van een tijdelijke aanstelling van deze, en het schorsen van een ambtenaar in geval het betreft de algemeen directeur, de adjunct directeur, de manager van de afdeling Onderzoek en Toegang en de manager van de afdeling Handhavingsbeleid en Uitvoering.    
 
-4. de afdoening en ondertekening van stukken: 
+4. de afdoening van stukken; 
 
 a. gericht aan ministers en staatssecretarissen;  
 
@@ -106,9 +118,12 @@ d. gericht aan de Nationale Ombudsman.
 
 ### Paragraaf  4  
 
-####Ondertekening
+####: Ondertekening
+
+Treedt in werking per 25-06-2015 
 
 ### Artikel  7  
+Treedt in werking per 25-06-2015 
 
 1.  Het in een document vastleggen van een besluit, een privaatrechtelijke rechtshandeling of een andere handeling door of namens het College, dient te geschieden op briefpapier van het Commissariaat voor de Media met het hoofd ‘Commissariaat voor de Media’ en onder vermelding aan het slot van ‘Commissariaat voor de Media’, gevolgd door de naam en functie van de voorzitter en het lid van het College wiens aandachtsgebied het betreft.   
 2.  Een document als bedoeld in het eerste lid, vastgesteld door het College, wordt ondertekend door de voorzitter en het lid van het College wiens aandachtsgebied het betreft. In het geval dat het onderwerp binnen het aandachtsgebied van de voorzitter valt, wordt het document ondertekend door de voorzitter en één van de twee andere leden van het College, ongeacht het aandachtsgebied.   
@@ -127,56 +142,34 @@ d. gericht aan de Nationale Ombudsman.
 
 ### Paragraaf  5  
 
-####Slotbepalingen
+####: Slotbepalingen
+
+Treedt in werking per 25-06-2015 
 
 ### Artikel  8  
+Treedt in werking per 25-06-2015 
 
-Dit besluit treedt met terugwerkende kracht in werking op 1 september 2013. 
+Dit besluit treedt met terugwerkende kracht in werking op 2 juni 2015 in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  9  
+Treedt in werking per 25-06-2015 
 
-Dit besluit vervangt het Besluit van het College van het Commissariaat voor de Media houdende mandatering, volmacht en machtiging van bevoegdheden van het Commissariaat voor de Media aan leden van het College, onderscheidenlijk ambtenaren in dienst van het Commissariaat voor de Media (Besluit mandaat, volmacht en machtiging Commissariaat voor de Media) van 30 november 2010. 
+Dit besluit vervangt het Besluit van het College van het Commissariaat voor de Media houdende mandatering, volmacht en machtiging van bevoegdheden van het Commissariaat voor de Media aan leden van het College, onderscheidenlijk ambtenaren in dienst van het Commissariaat voor de Media (Besluit mandaat, volmacht en machtiging Commissariaat voor de Media) van 24 september 2013. 
 
 ### Artikel  10  
+Treedt in werking per 25-06-2015 
 
-Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Commissariaat voor de Media 2013. 
+Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Commissariaat voor de Media 2015. 
 
 Hilversum 
-24 september 2013   
+2 juni 2015   
 
 Het Commissariaat voor de Media, 
-M. de Cock Buning,  
-voorzitter  
-
-J.G.C.M. Buné,  
-commissaris  
-
-E. Eljon,  
-commissaris   
-
-### Bijlage  
-
-####Regeling ex artikel 3, tweede lid, van het Besluit mandaat, volmacht en machting Commissariaat voor de Media 2013 
-
-Het College van het Commissariaat voor de Media, Overwegende: dat de aangelegenheden waartoe het in artikel 3, eerste, lid, van het Besluit mandaat, volmachtiging Commissariaat voor de Media 2013 verleende mandaat zich uitstrekt ingevolge lid van dat artikel nader moeten worden aangeduid in een interne regeling.  Besluit: Aan de in artikel 3 van voornoemd Besluit vermelde ambtenaren wordt, voor zover de aangelegenheid zich op hun werkterrein bevindt, mandaat verleend tot het afdoen van: 
-
-a. Meldingen van nevenactiviteiten als bedoeld in artikel 2.132, eerste lid, van de Mediawet 2008, die zijn ingediend door lokale en regionale omroepen;  
-
-b. Besluiten tot het opnemen in het register van nevenactiviteiten die als clustervervolgmeldingen zijn aangemeld;  
-
-c. Verzoeken om ontheffing van programmaquota als bedoeld in artikel 2.122, eerste lid, van de Mediawet 2008;  
-
-d. Besluiten tot het vaststellen van toezichtskosten als bedoeld in artikel 3.30, eerste lid, van de Mediawet 2008 voor commerciële media-instellingen;  
-
-e. Verzoeken om voor beperkte tijd een omroepzender met beperkt bereik als bedoeld in artikel 6.9, eerste lid, van de Mediawet 2008 te gebruiken ten behoeve van een evenement bedrijfsondersteunende dienst;  
-
-f. Het intrekken van een aanwijzing of een toestemming op eigen verzoek.      
-
-Hilversum 
-24 september 2013   
-
 M. de Cock Buning  
 voorzitter  
 
 E. Eljon  
-commissaris   
+commissaris  
+
+J.G.C.M. Buné  
+commissaris    

@@ -47,7 +47,7 @@ W. Sorgdrager
 
 ####bij artikel I, onderdeel  DD, van het koninklijk besluit van 22 oktober 1996, Stb. 536, tot wijziging van het Besluit beheer sociale-huursector 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Vervalt per 01-07-2015 
 
 Wijzigt het Besluit beheer sociale-huursector.   
 
@@ -55,7 +55,7 @@ Wijzigt het Besluit beheer sociale-huursector.
 
 ####bij artikel I, onderdeel  FF, van het koninklijk besluit van 22 oktober 1996, Stb. 536, tot wijziging van het Besluit beheer sociale-huursector 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Vervalt per 01-07-2015 
 
 Wijzigt het Besluit beheer sociale-huursector.   
 
@@ -63,6 +63,6 @@ Wijzigt het Besluit beheer sociale-huursector.
 
 ####bij artikel I, onderdeel  GG, van het koninklijk besluit van 22 oktober 1996, Stb. 536, tot wijziging van het Besluit beheer sociale-huursector 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Vervalt per 01-07-2015 
 
 Wijzigt het Besluit beheer sociale-huursector.   

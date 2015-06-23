@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Associatieovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en haar lidstaten, enerzijds, en Oekraïne, anderzijds 
+##Associatieovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en Oekraïne, anderzijds 
 
-####Associatieovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en haar lidstaten, enerzijds, en Oekraïne, anderzijds
+####Associatieovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en Oekraïne, anderzijds
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Partijen bij het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie, hierna „de lidstaten” genoemd, de Europese Unie, hierna „de Unie” of „de EU” genoemd, en de Europese Gemeenschap voor Atoomenergie, hierna „EURATOM” genoemd enerzijds, en Oekraïne anderzijds, hierna gezamenlijk „de partijen” genoemd, Rekening houdend met de nauwe historische betrekkingen en de steeds nauwere banden tussen de partijen, en met hun wens om de betrekkingen nog uit te breiden en te versterken op ambitieuze en innoverende wijze; Belang hechtend aan nauwe en duurzame betrekkingen op basis van gemeenschappelijke waarden als eerbiediging van de democratische beginselen, de rechtsstaat, goed bestuur, mensenrechten en fundamentele vrijheden, ook de rechten van personen die behoren tot nationale minderheden, niet-discriminatie van personen die behoren tot minderheden, respect voor diversiteit en menselijke waardigheid en gehechtheid aan de beginselen van de een vrijemarkteconomie, waardoor Oekraïne gemakkelijker kan deelnemen aan Europees beleid; Zich ervan bewust dat Oekraïne als Europees land een gezamenlijke geschiedenis en gemeenschappelijke waarden deelt met de lidstaten van de Europese Unie en bereid is deze waarden te bevorderen; Opmerkend dat Oekraïne belang hecht aan zijn Europese identiteit; Rekening houdend met de krachtige steun van het volk in Oekraïne voor de Europese koers van het land; Bevestigend dat de Europese Unie de Europese ambities van Oekraïne erkent en de keuze voor Europa toejuicht, ook inzake de verbintenis om een duurzame democratie en een markteconomie uit te bouwen; Erkennend dat de gemeenschappelijke waarden waarop de Europese Unie is gebouwd – democratie, eerbiediging van de mensenrechten en de fundamentele vrijheden en de rechtsstaat – ook essentiële elementen zijn van deze overeenkomst; Erkennend dat de politieke associatie en de economische integratie van Oekraïne in de Europese Unie zullen afhangen van de vooruitgang bij de uitvoering van deze overeenkomst en de mate waarin Oekraïne kan zorgen dat de gemeenschappelijke waarden worden gerespecteerd, en van de vooruitgang bij de afstemming op de EU op politiek, economisch en juridisch vlak; Zich ertoe verbindend uitvoering te geven aan alle beginselen en bepalingen van het Handvest van de Verenigde Naties, de Organisatie voor Veiligheid en Samenwerking in Europa (OVSE), met name de Slotakte van Helsinki van 1975 van de Conferentie over veiligheid en samenwerking in Europa, de slotdocumenten van de conferenties van Madrid en Wenen van 1991 en 1992, het Handvest van Parijs voor een Nieuw Europa van 1990, de Universele Verklaring van de Rechten van de Mens van de Verenigde Naties van 1948 en het Europees Verdrag betreffende de bescherming van de rechten van de mens en de fundamentele vrijheden van 1950; Strevend naar meer internationale vrede en veiligheid, en zich inzettend voor efficiënt multilateralisme en de vreedzame oplossing van conflicten, met name door nauw samen te werken binnen het kader van de Verenigde Naties (VN), de OVSE en de Raad van Europa; Zich inzettend voor onafhankelijkheid, soevereiniteit, territoriale integriteit en onschendbaarheid van de grenzen; Strevend naar het nader tot elkaar brengen van standpunten inzake bilaterale, regionale en internationale vraagstukken van wederzijds belang, rekening houdend met het gemeenschappelijk buitenlands en veiligheidsbeleid (GBVB) van de Europese Unie, met inbegrip van het gemeenschappelijk veiligheids- en defensiebeleid (GVDB); Herinnerend aan de internationale verplichtingen van de partijen, tot de bestrijding van de verspreiding van massavernietigingswapens en de overbrengingsmiddelen daarvoor en tot samenwerking inzake ontwapening en wapenbeheersing; Strevend naar vorderingen in de hervormingen en het toenaderingsproces van Oekraïne om zo bij te dragen tot de geleidelijke economische integratie en de verdieping van de politieke associatie; Overtuigd van de noodzaak voor Oekraïne om de politieke, sociaal-economische, juridische en institutionele heroveringen door te voeren die nodig zijn om deze overeenkomst efficiënt uit te voeren en bereid deze hervormingen in Oekraïne resoluut te ondersteunen; Strevend naar economische integratie, onder meer met een diepe en brede vrijhandelsruimte (Deep and Comprehensive Free Trade Area – DCFTA) die integraal deel uitmaakt van deze overeenkomst, met inachtneming van de rechten en plichten die voortvloeien uit het lidmaatschap van de Wereldhandelsorganisatie (WTO) van de partijen, en met een uitgebreide aanpassing van de regelgeving; Erkennend dat een dergelijke diepe en brede vrijhandelsruimte in combinatie met het bredere proces van de aanpassing van de regelgeving, zal bijdragen tot verdere economische integratie in de interne markt van de Europese Unie, als beoogd in deze overeenkomst; Zich inzettend voor de ontwikkeling van nieuw klimaat dat bevorderlijk is voor de economische relaties tussen de partijen en vooral ook voor de ontwikkeling van handel, investeringen en concurrentie, factoren die essentieel zijn voor de economische herstructurering en modernisering; Zich inzettend voor meer samenwerking op energiegebied, op basis van het engagement van de partijen om het Verdrag tot oprichting van de Energiegemeenschap uit te voeren; Zich inzettend voor de continuïteit van de energievoorziening, de vergemakkelijking van de ontwikkeling van geschikte infrastructuur, betere marktintegratie en aanpassing van de regelgeving aan kernaspecten van de Europese regelgeving, de stimulering van energie-efficiëntie en het gebruik van hernieuwbare energiebronnen, evenals het zorgen voor meer nucleaire veiligheid; Zich inzettend voor meer dialoog – op basis van de fundamentele beginselen solidariteit, wederzijds vertrouwen, medeverantwoordelijkheid en partnerschap – en samenwerking inzake migratie, asiel en grensbeheer, via een integrale aanpak met aandacht voor legale migratie en voor samenwerking bij het aanpakken van illegale migratie, mensenhandel en de doeltreffende uitvoering van de overnameovereenkomst; Erkennend dat het van belang is op termijn een visumvrije regeling in te voeren voor de burgers van Oekraïne, mits aan alle voorwaarden voor een goed beheerde en veilige mobiliteit wordt voldaan; Zich inzettend voor de bestrijding van georganiseerde misdaad en witwaspraktijken, tot het verminderen van de vraag naar en het aanbod van drugs en tot meer samenwerking bij terrorismebestrijding; Zich inzettend voor meer samenwerking inzake milieubescherming en tot de beginselen van duurzame ontwikkeling en de groene economie; Strevend naar meer contacten van mens tot mens; Zich inzettend voor de bevordering van grensoverschrijdende en interregionale samenwerking; Strevend naar geleidelijke afstemming van de wetgeving van Oekraïne op die van de Unie volgens de bepalingen van deze Overeenkomst en naar concrete uitvoering; In aanmerking nemend dat deze Overeenkomst geen afbreuk zal doen aan de betrekkingen tussen de EU en Oekraïne en ruimte laat voor verdere ontwikkelingen; Bevestigend dat de bepalingen van deze overeenkomst die binnen het toepassingsgebied van deel III, titel V, van het Verdrag betreffende de werking van de Europese Unie vallen, binden het Verenigd Koninkrijk en Ierland als afzonderlijke overeenkomstsluitende partijen, en niet als deel van de Europese Unie, totdat de Europese Unie tezamen met het Verenigd Koninkrijk en/of Ierland Oekraïne ervan in kennis heeft gesteld dat het Verenigd Koninkrijk en/of Ierland gebonden zijn als deel van de Europese Unie, overeenkomstig Protocol nr. 21 betreffende de positie van het Verenigd Koninkrijk en Ierland ten aanzien van de ruimte van vrijheid, veiligheid en recht, dat aan het Verdrag betreffende de werking van de Europese Unie is gehecht. Indien het Verenigd Koninkrijk en/of Ierland niet langer gebonden zijn als deel van de Europese Unie overeenkomstig artikel 4 bis van Protocol nr. 21 of artikel 10 van Protocol nr. 36 betreffende de overgangsbepalingen, die aan de Verdragen zijn gehecht, moet de Europese Unie tezamen met het Verenigd Koninkrijk en/of Ierland Oekraïne onmiddellijk in kennis stellen van iedere wijziging in hun positie; in dat geval blijven zij op persoonlijke titel gebonden door de bepalingen van de overeenkomst. Hetzelfde geldt voor Denemarken, overeenkomstig Protocol nr. 22 betreffende de positie van Denemarken, dat aan die verdragen is gehecht,   zijn het volgende overeengekomen<sup>[Red: De oorspronkelijke Bijlagen bij de Overeenkomst en de Protocollen liggen ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken, en zijn gepubliceerd in *Pb*EU 2014 L 161, blz. 3-2137.] </sup>:    
 
@@ -12,7 +12,7 @@ Het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Ko
 
 ####Doelstellingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Er wordt een associatie tot stand gebracht tussen de Unie en haar lidstaten, enerzijds, en Oekraïne, anderzijds.   
 2.  Deze associatie heeft ten doel: 
@@ -33,15 +33,15 @@ f. de voorwaarden te scheppen voor steeds nauwere samenwerking op andere gebiede
 
 ####ALGEMENE BEGINSELEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  2  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De eerbiediging van de democratische beginselen, de mensenrechten en de fundamentele vrijheden, inzonderheid als vastgelegd in de Slotakte van Helsinki van 1975 van de Conferentie over veiligheid en samenwerking in Europa en het Handvest van Parijs voor een Nieuw Europa van 1990, alsmede de relevante mensenrechteninstrumenten, waaronder de Universele Verklaring van de Rechten van de Mens van de Verenigde Naties en het Europees Verdrag betreffende de bescherming van de rechten van de mens en de fundamentele vrijheden, en het respect voor de rechtsstaat, vormen de grondslag van het binnenlands en buitenlands beleid van de partijen en zijn een essentieel onderdeel van het partnerschap en van deze Overeenkomst. De bevordering van respect voor de beginselen van soevereiniteit en territoriale integriteit, onschendbaarheid van de grenzen en onafhankelijkheid, evenals de strijd tegen massavernietigingswapens, daarmee samenhangende materialen en de overbrengingsmiddelen daarvoor, vormen essentiële elementen van deze Overeenkomst. 
 
 ### Artikel  3  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen erkennen dat de beginselen van een vrijemarkteconomie aan hun betrekkingen ten grondslag liggen. De rechtsstaat, goed bestuur, corruptiebestrijding, de strijd tegen de verschillende vormen van grensoverschrijdende georganiseerde misdaad en terrorisme, de bevordering van duurzame ontwikkeling en efficiënt multilateralisme zijn van wezenlijk belang om de betrekkingen tussen de partijen uit te bouwen. 
 
@@ -49,13 +49,13 @@ De partijen erkennen dat de beginselen van een vrijemarkteconomie aan hun betrek
 
 ####POLITIEKE DIALOOG EN HERVORMING, POLITIEKE INTEGRATIE, SAMENWERKING EN CONVERGENTIE OP HET VLAK VAN BUITENLANDS- EN VEILIGHEIDSBELEID 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  4  
 
 ####Doelstellingen van de politieke dialoog
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De politieke dialoog tussen de partijen over alle gebieden van wederzijds belang zal verder worden ontwikkeld en versterkt, als ondersteuning voor de geleidelijke convergentie op het vlak van buitenlands beleid en veiligheid, zodat Oekraïne nog meer wordt betrokken bij de Europese ruimte van veiligheid.   
 2.  De doelstellingen van de politieke dialoog zijn: 
@@ -78,7 +78,7 @@ g. bevordering van de beginselen van onafhankelijkheid, soevereiniteit, territor
 
 ####Fora voor de politieke dialoog
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen voeren regelmatig een politieke dialoog op topbijeenkomsten.   
 2.  Op het niveau van de ministers vindt een in overleg vast te stellen politieke dialoog plaats binnen de in artikel 460 van deze overeenkomst bedoelde Associatieraad en in het kader van regelmatige vergaderingen tussen vertegenwoordigers van de partijen op het niveau van de ministers van Buitenlandse Zaken.   
@@ -98,7 +98,7 @@ d. andere vormen, onder meer bijeenkomsten van deskundigen, die kunnen bijdragen
 
 ####Dialoog en samenwerking inzake binnenlandse hervormingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen werken samen om te waarborgen dat hun binnenlands beleid gebaseerd wordt op de gemeenschappelijke beginselen van de partijen, met name stabiliteit en doeltreffendheid van de democratische instellingen en de rechtsstaat, en het respect voor de mensenrechten en de fundamentele vrijheden, in het bijzonder als bepaald in artikel 14 van deze Overeenkomst. 
 
@@ -106,7 +106,7 @@ De partijen werken samen om te waarborgen dat hun binnenlands beleid gebaseerd w
 
 ####Buitenlands en veiligheidsbeleid
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen intensiveren hun dialoog en samenwerking en ondersteunen de geleidelijke convergentie op het vlak van buitenlands en veiligheidsbeleid, met inbegrip van het gemeenschappelijk veiligheids- en defensiebeleid (GVDB), en besteden bijzondere aandacht aan conflictpreventie en crisisbeheer, regionale stabiliteit, ontwapening, non-proliferatie, wapenbeheersing en wapenuitvoercontrole en aan een betere dialoog over ruimtevaart, die van wederzijds belang is. Samenwerking wordt gebaseerd op gemeenschappelijke waarden en gezamenlijke belangen, is gericht op meer convergentie en doeltreffendheid van het beleid, en stimuleert de gezamenlijke beleidsplanning. De partijen gebruiken hiervoor bilaterale, internationale en regionale fora.   
 2.  Oekraïne, de EU en de lidstaten bevestigen hun gehechtheid aan de beginselen van respect voor onafhankelijkheid, soevereiniteit, territoriale integriteit en onschendbaarheid van de grenzen als bepaald in het Handvest van de Verenigde Naties en in de Slotakte van Helsinki van 1975 van de Conferentie over veiligheid en samenwerking in Europa, en dat zij deze beginselen ondersteunen in de bilaterale en multilaterale betrekkingen.   
@@ -116,7 +116,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Internationaal Strafhof
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen werken samen aan de bevordering van vrede en internationale gerechtigheid door het Statuut van Rome van het Internationaal Strafhof van 1998 en de bijhorende instrumenten te ratificeren en ten uitvoer te leggen. 
 
@@ -124,7 +124,7 @@ De partijen werken samen aan de bevordering van vrede en internationale gerechti
 
 ####Regionale stabiliteit
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen voeren hun gezamenlijke inspanningen op voor meer stabiliteit, veiligheid en democratische ontwikkeling in hun gemeenschappelijk nabuurschapsgebied, en in het bijzonder om samen te werken aan een vreedzame oplossing voor de regionale conflicten.   
 2.  Deze inspanningen verlopen volgen de gezamenlijke beginselen voor handhaving van internationale vrede en veiligheid als bepaald in het Handvest van de VN, de Slotakte van Helsinki van 1975 van de Conferentie over veiligheid en samenwerking in Europa en andere relevante multilaterale documenten.  
@@ -133,7 +133,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Conflictpreventie, crisisbeheer en militair-technische samenwerking
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen intensiveren de praktische samenwerking op het vlak van conflictpreventie en crisisbeheer, in het bijzonder met het oog op versterkte deelname van Oekraïne aan civiele en militaire operaties inzake crisisbeheer onder leiding van de EU en aan oefeningen en opleidingen, ook die in het kader van het gemeenschappelijk veiligheids- en defensiebeleid (GVDB).   
 2.  Samenwerking op dit gebied wordt gebaseerd op regelingen en afspraken tussen de EU en Oekraïne over raadpleging en samenwerking op het vlak van crisisbeheer.   
@@ -143,7 +143,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Non-proliferatie van massavernietigingswapens
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen zijn van oordeel dat de verspreiding van massavernietigingswapens, daarmee samenhangende materialen en overbrengingsmiddelen daarvoor, onder zowel staten als niet-statelijke actoren, een van de ernstigste bedreigingen voor de internationale stabiliteit en veiligheid vormt. De partijen komen derhalve overeen samen te werken en een bijdrage te leveren aan de bestrijding van de proliferatie van massavernietigingswapens, daarmee samenhangende materialen en de overbrengingsmiddelen daarvoor, door de volledige naleving en de uitvoering op nationaal niveau van de verbintenissen die zij zijn aangegaan in het kader van de internationale verdragen en overeenkomsten op het gebied van ontwapening en non-proliferatie, alsmede van hun andere internationale verplichtingen op dat gebied. De partijen komen overeen dat deze bepaling een essentieel element van deze overeenkomst vormt.   
 2.  De partijen komen bovendien overeen samen te werken en bij te dragen aan de strijd tegen massavernietigingswapens, daarmee samenhangende materialen en de overbrengingsmiddelen daarvoor: 
@@ -157,7 +157,7 @@ b. door verdere verbeteringen aan het systeem van nationale exportcontroles, voo
 
 ####Ontwapening, wapenbeheersing, wapenuitvoercontrole en de strijd tegen illegale wapenhandel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen ontwikkelen hun samenwerking op het vlak van ontwapening, ook inzake de vermindering van hun voorraad overtollige handvuurwapens en lichte wapen en inzake de gevolgen voor de bevolking en voor het milieu van niet ontploft achtergelaten materieel als bedoeld in titel V, hoofdstuk 6 (Milieu) van deze overeenkomst. Samenwerking inzake ontwapening omvat ook wapenbeheersing, wapenuitvoercontrole en de strijd tegen illegale wapenhandel, met inbegrip van handvuurwapens en lichte wapens. De partijen bevorderen de universele onderschrijving en naleving van de relevante internationale instrumenten en streven naar efficiëntie, ook door de tenuitvoerlegging van de relevante resoluties van de Veiligheidsraad van de Verenigde Naties. 
 
@@ -165,7 +165,7 @@ De partijen ontwikkelen hun samenwerking op het vlak van ontwapening, ook inzake
 
 ####Bestrijding van terrorisme
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen komen overeen samen te werken op bilateraal, regionaal en internationaal niveau om terrorisme te voorkomen en te bestrijden, in overeenstemming met het internationale recht, de internationale mensenrechten, het vluchtelingenrecht en het humanitair recht. 
 
@@ -173,13 +173,13 @@ De partijen komen overeen samen te werken op bilateraal, regionaal en internatio
 
 ####JUSTITIE, VRIJHEID EN VEILIGHEID
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  14  
 
 ####De rechtsstaat, respect voor de mensenrechten en de fundamentele vrijheden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Bij de samenwerking op het gebied van justitie, vrijheid en veiligheid schenken de partijen bijzondere aandacht aan de consolidering van de rechtsstaat en institutionele versterking op alle niveaus, bij de overheid in het algemeen en bij politie en justitie in het bijzonder. De samenwerking is er met name op gericht het justitiële apparaat te versterken, de doeltreffendheid ervan te verbeteren, de onafhankelijkheid en onpartijdigheid te waarborgen en corruptie te bestrijden. Respect voor de mensenrechten en de fundamentele vrijheden is de leidraad voor alle samenwerking inzake justitie, vrijheid en veiligheid. 
 
@@ -187,7 +187,7 @@ Bij de samenwerking op het gebied van justitie, vrijheid en veiligheid schenken 
 
 ####Bescherming van persoonsgegevens
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen komen overeen samen te werken om de bescherming van persoonsgegevens op gepaste wijze te waarborgen, in overeenstemming met de hoogste Europese en internationale normen, met inbegrip van de relevante instrumenten van de Raad van Europa. De samenwerking inzake de bescherming van persoonsgegevens kan onder meer de uitwisseling van informatie en deskundigen inhouden. 
 
@@ -195,7 +195,7 @@ De partijen komen overeen samen te werken om de bescherming van persoonsgegevens
 
 ####Migratie, asiel en grensbeheer
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen herbevestigen het belang van het gezamenlijk beheer van migratiestromen tussen hun grondgebieden en verdiepen de brede dialoog over alle kwesties in verband met migratie, waaronder illegale migratie, vluchtelingenstromen, mensensmokkel en mensenhandel; het thema migratie moet worden geïntegreerd in de nationale strategieën voor economische en sociale ontwikkeling van de gebieden van herkomst van de migranten. Deze dialoog is gebaseerd op de fundamentele beginselen van solidariteit, wederzijds vertrouwen, medeverantwoordelijkheid en partnerschap.   
 2.  Overeenkomstig de desbetreffende EU- en nationale wetgeving is de samenwerking in het bijzonder gericht op: 
@@ -224,7 +224,7 @@ h. de uitwisseling van standpunten over informele werkgelegenheid voor migranten
 
 ####Behandeling van werknemers
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Met inachtneming van de in de lidstaten en in de EU geldende wetten, voorwaarden en bepalingen, worden werknemers die onderdaan zijn van Oekraïne en legaal op het grondgebied van een lidstaat werkzaam zijn, wat arbeidsvoorwaarden, salaris en ontslagregeling betreft, niet gediscrimineerd op grond van hun nationaliteit.   
 2.  Onverminderd de in Oekraïne geldende wettelijke regelingen, voorwaarden en procedures, behandelt Oekraïne ook onderdanen van een lidstaat die legaal op het grondgebied van Oekraïne werkzaam zijn, op de wijze zoals bepaald in lid 1 van dit artikel.  
@@ -233,7 +233,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Mobiliteit van werknemers
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Rekening houdend met de arbeidsmarktsituatie in de lidstaten, hun wetgeving en de voorschriften die in de lidstaten en in de EU gelden op het gebied van de mobiliteit van werknemers: 
 
@@ -246,7 +246,7 @@ b. dienen de overige lidstaten de mogelijkheid van het sluiten van soortgelijke 
 
 ####Verkeer van personen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen zorgen voor de volledige tenuitvoerlegging van 
 
@@ -260,7 +260,7 @@ b. de Overeenkomst tussen de Europese Gemeenschap en Oekraïne inzake de versoep
 
 ####Witwassen van geld en terrorismefinanciering
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen werken samen om witwassen van geld en terrorismefinanciering te voorkomen en te bestrijden. Hiertoe voeren de partijen hun bilaterale en internationale samenwerking op dit gebied nog op, ook op operationeel vlak. De partijen zorgen voor de tenuitvoerlegging van de relevante internationale normen, met name die van de Financial Action Task Force (FATF) en normen die gelijkwaardig zijn aan die van de Unie. 
 
@@ -268,7 +268,7 @@ De partijen werken samen om witwassen van geld en terrorismefinanciering te voor
 
 ####Samenwerking bij de bestrijding van drugs, voorlopers ervan en psychotrope stoffen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen werken samen op het gebied van illegale drugs, op basis van gezamenlijk afgesproken principes overeenkomstig de relevante internationale verdragen, alsmede de politieke verklaring en de speciale verklaring inzake richtsnoeren om de vraag naar drugs te verminderen, die zijn aangenomen door de twintigste speciale zitting inzake drugs van juni 1998 van de Algemene Vergadering van de Verenigde Naties.   
 2.  Deze samenwerking is gericht op de bestrijding van illegale drugs, het beperken van het aanbod aan, de handel in en de vraag naar illegale drugs, waarbij de gevolgen voor de gezondheid en de maatschappelijke consequenties van drugsgebruik worden aangepakt. Zij is tevens gericht op het doeltreffender voorkomen dat chemische stoffen onrechtmatig worden gebruikt voor de illegale productie van drugs en psychotrope stoffen.   
@@ -278,7 +278,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Bestrijding van misdaad en corruptie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen werken samen bij de voorkoming en bestrijding van al dan niet georganiseerde criminele en illegale activiteiten.   
 2.  De samenwerking betreft onder meer: 
@@ -309,7 +309,7 @@ d. slachtoffer- en getuigenbescherming.
 
 ####Bestrijding van terrorisme
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen komen overeen samen te werken aan preventie en bestrijding van terroristische daden in overeenstemming met het internationaal recht, het internationaal recht inzake de mensenrechten, het vluchtelingenrecht en het humanitair recht, en de respectievelijke wet- en regelgeving van de partijen. De partijen komen met name overeen samen te werken op basis van de volledige tenuitvoerlegging van resolutie 1373 van de Veiligheidsraad van de Verenigde Naties van 2001, de mondiale strategie voor terrorismebestrijding van de Verenigde Naties van 2006 en andere relevante resoluties van de Verenigde Naties, internationale afspraken en instrumenten.   
 2.  Zij doen dit in het bijzonder door het uitwisselen van: 
@@ -324,7 +324,7 @@ c. ervaringen met betrekking tot de voorkoming van terrorisme.   Alle uitwisseli
 
 ####Juridische samenwerking
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen komen overeen de juridische samenwerking in burgerlijke en strafzaken verder te ontwikkelen, daarbij ten volle gebruik te maken van de geschikte internationale en bilaterale instrumenten en zich te baseren op de beginselen van rechtszekerheid en het recht op een eerlijk proces.   
 2.  De partijen komen overeen juridische samenwerking tussen de EU en Oekraïne in burgerlijke zaken te vergemakkelijken op basis van de toepasselijke multilaterale rechtsinstrumenten, met name de verdragen van de Haagse Conferentie voor Internationaal Privaatrecht op het gebied van internationale juridische samenwerking en procesvoering alsmede de bescherming van kinderen.   
@@ -334,25 +334,25 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####HANDEL EN DAARMEE VERBAND HOUDENDE AANGELEGENHEDEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### HOOFDSTUK  1  
 
 ####NATIONALE BEHANDELING EN MARKTTOEGANG VOOR GOEDEREN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### AFDELING  1  
 
 ####GEMEENSCHAPPELĲKE BEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  25  
 
 ####Doel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Gedurende een overgangsperiode van maximaal 10 jaar die aanvangt bij de inwerkingtreding van deze overeenkomst<sup> 1) Tenzij in de bijlagen I en II bij deze overeenkomst anders is bepaald. </sup>, stellen de partijen geleidelijk een vrijhandelszone in, overeenkomstig het bepaalde in deze overeenkomst en in overeenstemming met artikel XXIV van de Algemene Overeenkomst betreffende tarieven en handel 1994, hierna de „GATT 1994” genoemd. 
 
@@ -360,7 +360,7 @@ Gedurende een overgangsperiode van maximaal 10 jaar die aanvangt bij de inwerkin
 
 ####Toepassingsgebied en betrokken producten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De bepalingen van dit hoofdstuk zijn van toepassing op de handel in goederen<sup> 2) In deze overeenkomst wordt onder goederen verstaan producten als bedoeld in de GATT 1994, tenzij in deze overeenkomst anders is bepaald. </sup> van oorsprong uit de grondgebieden van de partijen.   
 2.  Voor de toepassing van dit hoofdstuk worden als „van oorsprong” beschouwd de goederen die voldoen aan de oorsprongsregels in protocol I bij deze overeenkomst (betreffende de definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking).  
@@ -369,13 +369,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####AFSCHAFFING VAN DOUANERECHTEN, VERGOEDINGEN EN ANDERE HEFFINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  27  
 
 ####Definitie van douanerechten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Voor de toepassing van dit hoofdstuk worden onder „douanerechten” verstaan alle rechten en heffingen ter zake van of in verband met de invoer of uitvoer van goederen, met inbegrip van alle aanvullende belastingen of heffingen ter zake van of in verband met dergelijke invoer of uitvoer. Onder „douanerechten” worden niet verstaan: 
 
@@ -389,7 +389,7 @@ c. vergoedingen en andere heffingen die in overeenstemming met artikel 33 van de
 
 ####Indeling van goederen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De indeling van goederen in het handelsverkeer tussen de partijen geschiedt overeenkomstig de respectieve tariefnomenclatuur van elk van beide partijen, in overeenstemming met het geharmoniseerde systeem, hierna „GS” genoemd, dat is ingesteld bij het Internationaal Verdrag betreffende het geharmoniseerde systeem inzake de omschrijving en de codering van goederen van 1983, en latere wijzigingen daarvan. 
 
@@ -397,7 +397,7 @@ De indeling van goederen in het handelsverkeer tussen de partijen geschiedt over
 
 ####Afschaffing van invoerrechten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Elk van beide partijen komt tot verlaging of afschaffing van de douanerechten op goederen van oorsprong uit de andere partij in overeenstemming met de lijsten die zijn opgenomen in bijlage I-A bij deze overeenkomst, hierna „lijsten” genoemd. Onverminderd de eerste alinea schaft Oekraïne voor oude kleren en dergelijke artikelen, bedoeld bij post 6309 00 00 van het douanewetboek van Oekraïne, de douanerechten bij invoer af in overeenstemming met de voorwaarden die zijn opgenomen in bijlage I-B bij deze overeenkomst.   
 2.  Voor elk goed is het basisdouanerecht waarop ingevolge lid 1 van dit artikel de achtereenvolgende verlagingen moeten worden toegepast, het recht dat in bijlage I bij deze overeenkomst is vermeld.   
@@ -408,7 +408,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Status-quo
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Geen van de partijen mag bestaande douanerechten verhogen of nieuwe douanerechten vaststellen op een goed van oorsprong uit het grondgebied van de andere partij. Dit sluit niet uit dat elk van beide partijen: 
 
@@ -420,7 +420,7 @@ b. een douanerecht kan handhaven of verhogen als toegestaan door het Orgaan voor
 
 ####Uitvoerrechten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen stellen geen douanerechten, belastingen of andere maatregelen van gelijke werking in en handhaven deze evenmin, ter zake van of in verband met de uitvoer van goederen naar elkaars grondgebied.   
 2.  Door Oekraïne toegepaste bestaande douanerechten of maatregelen van gelijke werking, zoals vermeld in bijlage I-C bij deze overeenkomst, worden gedurende een overgangsperiode uitgefaseerd in overeenstemming met de lijst in bijlage I-C. Ingeval van een actualisering van het douanewetboek van Oekraïne blijven aangegane verplichtingen in het kader van de lijst in bijlage I-C van kracht, op basis van overeenstemming van de beschrijving van de goederen. Oekraïne kan vrijwaringsmaatregelen instellen wat uitvoerrechten betreft, zoals aangegeven in bijlage I-D. Dergelijke vrijwaringsmaatregelen vervallen aan het einde van de voor het desbetreffende goed in bijlage I-D aangegeven periode.  
@@ -429,7 +429,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Uitvoersubsidies en maatregelen van gelijke werking
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Na de inwerkingtreding van deze overeenkomst zal geen der partijen uitvoersubsidies of andere maatregelen van gelijke werking ten aanzien van voor het grondgebied van de andere partij bestemde landbouwproducten handhaven, invoeren of opnieuw invoeren.   
 2.  Voor de toepassing van dit artikel wordt onder „uitvoersubsidies” hetzelfde verstaan als in artikel 1, onder e, van de Overeenkomst inzake de landbouw, die is opgenomen in bijlage IA bij de WTO-overeenkomst, hierna „Landbouwovereenkomst” genoemd, met inbegrip van alle wijzigingen van dat artikel van die overeenkomst.  
@@ -438,7 +438,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Vergoedingen en andere heffingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Elk van beide partijen draagt er in overeenstemming met artikel VIII van de GATT 1994 en de aantekeningen erop zorg voor dat alle vergoedingen en heffingen van welke aard ook - niet zijnde douanerechten of andere maatregelen als bedoeld in artikel 27 van deze overeenkomst - ter zake van of in verband met de invoer of de uitvoer van goederen worden beperkt tot, bij benadering, de kosten van de verleende diensten, en geen indirecte bescherming van interne goederen of een belasting op de invoer of de uitvoer voor fiscale doeleinden vormen. 
 
@@ -446,13 +446,13 @@ Elk van beide partijen draagt er in overeenstemming met artikel VIII van de GATT
 
 ####NIET-TARIFAIRE MAATREGELEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  34  
 
 ####Nationale behandeling
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Elk van beide partijen behandelt de goederen van de andere partij als nationale goederen, in overeenstemming met artikel III van de GATT 1994, met inbegrip van de aantekeningen erop. Hiertoe worden artikel III van de GATT 1994 en de aantekeningen erop in deze overeenkomst opgenomen en maken zij hier integraal deel van uit. 
 
@@ -460,7 +460,7 @@ Elk van beide partijen behandelt de goederen van de andere partij als nationale 
 
 ####Invoer- en uitvoerbeperkingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Geen van beide partijen mag verboden, beperkingen of maatregelen van gelijke werking invoeren of handhaven ter zake van de invoer van een goed uit de andere partij of van de uitvoer of verkoop ten uitvoer van een goed dat voor het grondgebied van de andere partij is bestemd, tenzij in deze overeenkomst anders is bepaald of zulks in overeenstemming met artikel XI van de GATT 1994 en de aantekeningen erop is. Hiertoe worden artikel XI van de GATT 1994 en de aantekeningen erop in deze overeenkomst opgenomen en maken zij hier integraal deel van uit. 
 
@@ -468,13 +468,13 @@ Geen van beide partijen mag verboden, beperkingen of maatregelen van gelijke wer
 
 ####SPECIFIEKE BEPALINGEN MET BETREKKING TOT GOEDEREN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  36  
 
 ####Algemene uitzonderingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Geen enkele bepaling in deze overeenkomst wordt uitgelegd als beletsel voor de goedkeuring of handhaving door een partij van maatregelen overeenkomstig de artikelen XX en XXI van de GATT 1994 en de aantekeningen erop, die hierbij in deze overeenkomst worden opgenomen en daarvan integraal deel uitmaken. 
 
@@ -482,13 +482,13 @@ Geen enkele bepaling in deze overeenkomst wordt uitgelegd als beletsel voor de g
 
 ####ADMINISTRATIEVE SAMENWERKING EN COÖRDINATIE MET ANDERE LANDEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  37  
 
 ####Bijzondere bepalingen inzake administratieve samenwerking
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen zijn het erover eens dat administratieve samenwerking van essentieel belang is voor de tenuitvoerlegging van en de controle op de preferentiële tariefbehandeling die op grond van dit hoofdstuk wordt verleend, en zij benadrukken dat zij gebonden zijn om onregelmatigheden en fraude te bestrijden op het gebied van douaneaangelegenheden betreffende de invoer, uitvoer of doorvoer van goederen en de plaatsing daarvan onder andere douaneregelingen of -procedures, met inbegrip van verbods-, beperkings- en controlemaatregelen.   
 2.  Wanneer een partij op basis van objectieve gedocumenteerde informatie tot de bevinding komt dat geen administratieve medewerking is verleend en/of dat zich onregelmatigheden of fraude binnen het kader van dit hoofdstuk vanuit de andere partij hebben voorgedaan, kan de betrokken partij de desbetreffende preferentiële behandeling ten aanzien van het betrokken product of de betrokken producten in overeenstemming met dit artikel tijdelijk schorsen.   
@@ -512,7 +512,7 @@ c. tijdelijke schorsingen op grond van dit artikel blijven beperkt tot wat nodig
 
 ####Handelwijze bij administratieve fouten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Indien de bevoegde autoriteiten bij het beheer van de preferentiële uitvoerregelingen een fout hebben gemaakt, met name bij de toepassing van de bepalingen van het protocol bij deze overeenkomst betreffende de definitie van het begrip „producten van oorsprong” en de methoden van administratieve samenwerking, en deze fout gevolgen heeft voor de invoerrechten, kan de partij die met deze gevolgen wordt geconfronteerd, het Handelscomité verzoeken na te gaan of passende maatregelen kunnen worden genomen om de situatie te herstellen. 
 
@@ -520,7 +520,7 @@ Indien de bevoegde autoriteiten bij het beheer van de preferentiële uitvoerrege
 
 ####Overeenkomsten met derde landen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Deze overeenkomst belet niet de handhaving of oprichting dan wel invoering van douane-unies, vrijhandelsgebieden of regelingen betreffende grensverkeer, tenzij hierdoor de in deze overeenkomst neergelegde handelsregelingen worden ondermijnd.   
 2.  De partijen voeren in het Handelscomité overleg over overeenkomsten waarbij douane-unies of vrijhandelsgebieden worden opgericht dan wel regelingen betreffende grensverkeer worden ingevoerd, alsmede desgevraagd over andere belangrijke aangelegenheden met betrekking tot hun respectieve handelsbeleid jegens derde landen. Dergelijk overleg zal in het bijzonder plaatsvinden ingeval een derde land tot de Europese Unie toetreedt, opdat wordt gewaarborgd dat rekening wordt gehouden met de wederzijdse belangen van de EU-partij en Oekraïne zoals weergegeven in deze overeenkomst.  
@@ -529,19 +529,19 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####HANDELSMAATREGELEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### AFDELING  1  
 
 ####ALGEMENE VRIJWARINGSMAATREGELEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  40  
 
 ####Algemene bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen bevestigen hun rechten en verplichtingen ingevolge artikel XIX van de GATT 1994 en de Overeenkomst inzake vrijwaringsmaatregelen als opgenomen in bijlage 1A bij de WTO-overeenkomst, hierna „Overeenkomst inzake vrijwaringsmaatregelen” genoemd. De EU-partij behoudt haar rechten en verplichtingen ingevolge artikel 5 van de Overeenkomst inzake de landbouw als opgenomen in bijlage 1A bij de WTO-overeenkomst, hierna „Landbouwovereenkomst” genoemd, behalve voor de handel in landbouwproducten die ingevolge deze overeenkomst voorwerp van een preferentiële behandeling zijn.   
 2.  De preferentiële oorsprongsregels van hoofdstuk 1 (Nationale behandeling en markttoegang voor goederen) van titel IV van deze overeenkomst zijn niet van toepassing op deze afdeling.  
@@ -550,7 +550,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Transparantie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partij die een vrijwaringsonderzoek opent, stelt de andere partij, indien deze laatste daarbij een aanmerkelijk economisch belang heeft, van die opening in kennis door haar een officiële kennisgeving te sturen.   
 2.  Voor de toepassing van dit artikel wordt een partij geacht aanmerkelijk economisch belang te hebben wanneer zij, uitgedrukt in absoluut volume of waarde, in de drie voorgaande jaren tot de vijf grootste leveranciers van het ingevoerde product behoorde.   
@@ -560,7 +560,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Toepassing van maatregelen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Indien vrijwaringsmaatregelen worden ingesteld, streven de partijen ernaar deze op zodanige wijze in te stellen dat daardoor hun bilaterale handel zo min mogelijk wordt beïnvloed.   
 2.  Voor de toepassing van lid 1 van dit artikel en indien een partij van mening is dat aan de wettelijke vereisten voor de instelling van definitieve vrijwaringsmaatregelen is voldaan, geeft de partij die voornemens is dergelijke maatregelen in te stellen, daarvan kennis aan de andere partij en biedt zij deze de mogelijkheid tot het voeren van bilateraal overleg. Indien binnen dertig dagen na de kennisgeving geen aanvaardbare oplossing is gevonden, kan de partij van invoer passende maatregelen nemen om het probleem op te lossen.  
@@ -569,7 +569,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Ontwikkelingsland
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Voor zover Oekraïne voor de toepassing van artikel 9 van de Overeenkomst inzake vrijwaringsmaatregelen als ontwikkelingsland<sup> 3) Voor de toepassing van dit artikel wordt bij de vaststelling of het om een ontwikkelingsland gaat, acht geslagen op de lijsten die worden opgesteld door internationale organisaties als de Wereldbank, de Organisatie voor Economische Samenwerking en Ontwikkeling (hierna „OESO” genoemd) of het Internationale Monetaire Fonds (hierna „IMF” genoemd), enz. </sup> kan worden aangemerkt, kan de EU-partij, voor zover aan de voorwaarden van artikel 9 van die Overeenkomst wordt voldaan, geen vrijwaringsmaatregelen ten aanzien van Oekraïne toepassen. 
 
@@ -577,13 +577,13 @@ Voor zover Oekraïne voor de toepassing van artikel 9 van de Overeenkomst inzake
 
 ####VRIJWARINGSMAATREGELEN TEN AANZIEN VAN PERSONENAUTO'S
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  44  
 
 ####Vrijwaringsmaatregelen ten aanzien van personenauto's
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Oekraïne kan in overeenstemming met de bepalingen van deze afdeling op personenauto's van oorsprong uit<sup> 4) Volgens de definitie van oorsprong in protocol I bij deze overeenkomst betreffende de definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking. </sup> de EU-partij van tariefpost 8703, hierna „het product” genoemd, zoals omschreven in artikel 45 van deze overeenkomst, een vrijwaringsmaatregel in de vorm van een hoger invoerrecht toepassen, indien aan elk van de volgende voorwaarden is voldaan: 
 
@@ -611,7 +611,7 @@ c. het totale invoervolume (in eenheden) voor het product in Oekraïne<sup> 6) Z
 
 ####Definities
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Voor de toepassing van deze afdeling en bijlage II bij deze overeenkomst wordt verstaan onder: 
 
@@ -657,13 +657,13 @@ Voor de toepassing van deze afdeling en bijlage II bij deze overeenkomst wordt v
 
 ####NON-CUMULATIE
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  45 bis  
 
 ####Non-cumulatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Geen van beide partijen mag met betrekking tot hetzelfde product tegelijkertijd: 
 
@@ -675,13 +675,13 @@ b. een maatregel als bedoeld in artikel XIX van de GATT 1994 en de Overeenkomst 
 
 ####ANTIDUMPINGRECHTEN EN COMPENSERENDE RECHTEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  46  
 
 ####Algemene bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen bevestigen hun rechten en verplichtingen ingevolge artikel VI van de GATT 1994, de in bijlage 1A bij de WTO-overeenkomst opgenomen Overeenkomst inzake de toepassing van artikel VI van de GATT 1994, hierna „Antidumpingovereenkomst” genoemd, en de in bijlage 1A bij de WTO-overeenkomst opgenomen Overeenkomst inzake subsidies en compenserende maatregelen, hierna „SCM-overeenkomst” genoemd.   
 2.  De preferentiële oorsprongsregels van hoofdstuk 1 (Nationale behandeling en markttoegang voor goederen) van titel IV van deze overeenkomst zijn niet van toepassing op deze afdeling.  
@@ -690,7 +690,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Transparantie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen komen overeen dat bij gebruikmaking van antidumping- en compenserende maatregelen de vereisten van de Antidumpingovereenkomst en de SCM-overeenkomst volledig moeten worden gerespecteerd, en dat die maatregelen op een eerlijk en transparant systeem moeten worden gebaseerd.   
 2.  Nadat de bevoegde autoriteiten van een partij een naar behoren gestaafd antidumpingverzoek in verband met invoer uit de andere partij hebben ontvangen, stelt die partij uiterlijk 15 dagen vóór opening van een onderzoek de andere partij schriftelijk ervan in kennis dat zij het verzoek heeft ontvangen.   
@@ -701,7 +701,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Algemeen belang
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Antidumping- of compenserende maatregelen kunnen niet door een partij worden toegepast indien, op basis van de tijdens het onderzoek kenbaar gemaakte informatie duidelijk kan worden geconcludeerd dat de toepassing van dergelijke maatregelen niet in het algemeen belang is. Bij de vaststelling met betrekking tot het algemeen belang wordt uitgegaan van een waardering van alle verschillende belangen, in hun geheel beschouwd, met inbegrip van de belangen van de interne bedrijfstak, gebruikers, consumenten en importeurs, voor zover zij relevante informatie aan de onderzoeksautoriteiten hebben verstrekt. 
 
@@ -709,7 +709,7 @@ Antidumping- of compenserende maatregelen kunnen niet door een partij worden toe
 
 ####Regel van het laagste recht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Indien een partij besluit om een voorlopig of definitief antidumping- of compenserend recht in te stellen, overschrijdt het bedrag van dit recht niet de dumping- of subsidiemarge, en is het lager dan die marge wanneer door een lager recht de schade voor de interne bedrijfstak kan worden opgeheven. 
 
@@ -717,7 +717,7 @@ Indien een partij besluit om een voorlopig of definitief antidumping- of compens
 
 ####Toepassing van maatregelen en nieuwe onderzoeken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Voorlopige antidumping- of compenserende maatregelen mogen door de partijen alleen worden ingesteld als daaraan voorafgaand is vastgesteld dat er sprake is van dumping of subsidies waardoor de binnenlandse bedrijfstak schade lijdt.   
 2.  Alvorens een definitief antidumping- of compenserend recht in te stellen, onderzoeken de partijen of er constructieve oplossingen mogelijk zijn, waarbij naar behoren rekening wordt gehouden met de bijzondere omstandigheden van elk geval. Onverminderd de relevante nationale wettelijke bepalingen van elk van beide partijen, geven de partijen de voorkeur aan prijsverbintenissen, voor zover zij van exporteurs een passend aanbod hebben ontvangen en een dergelijk aanbod niet onpraktisch wordt geacht.   
@@ -727,13 +727,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####OVERLEG
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  50 bis  
 
 ####Overleg
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Een partij biedt de andere partij, op verzoek daarvan, de gelegenheid tot het voeren van overleg over specifieke aangelegenheden die zich met betrekking tot de toepassing van de handelsmaatregelen kunnen voordoen. Deze aangelegenheden kunnen met name, doch niet uitsluitend, betrekking hebben op de gevolgde methodologie om dumpingmarges te berekenen, met inbegrip van verschillende correcties, op het gebruik van statistieken, de ontwikkeling van de invoer, de vaststelling van schade en de toepassing van de regel van het laagste recht.   
 2.  Overleg vindt zo spoedig mogelijk plaats, doch normaal gesproken binnen 21 dagen na het verzoek.   
@@ -743,13 +743,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####INSTITUTIONELE BEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  51  
 
 ####Dialoog betreffende handelsmaatregelen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen komen overeen een dialoog betreffende handelsmaatregelen op deskundigenniveau op te zetten, als forum voor samenwerking in aangelegenheden betreffende handelsmaatregelen.   
 2.  De dialoog betreffende handelsmaatregelen wordt gevoerd met het oogmerk: 
@@ -769,13 +769,13 @@ e. bij andere aangelegenheden betreffende handelsmaatregelen samen te werken.
 
 ####GESCHILLENBESLECHTING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  52  
 
 ####Geschillenbeslechting
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Titel IV, hoofdstuk 14 (Geschillenbeslechting) van deze Overeenkomst is niet van toepassing op de afdelingen 1, 4, 5, 6 en 7 van dit hoofdstuk. 
 
@@ -783,13 +783,13 @@ Titel IV, hoofdstuk 14 (Geschillenbeslechting) van deze Overeenkomst is niet van
 
 ####TECHNISCHE HANDELSBELEMMERINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  53  
 
 ####Werkingssfeer en definities
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Dit hoofdstuk is van toepassing op het opstellen, het aannemen en de toepassing van technische voorschriften, normen en conformiteitsbeoordelingsprocedures zoals omschreven in de Overeenkomst inzake technische handelsbelemmeringen, hierna „TBT-overeenkomst” genoemd, die in bijlage 1A bij de WTO-overeenkomst is opgenomen, welke de handel in goederen tussen de partijen kunnen beïnvloeden.   
 2.  Onverminderd lid 1 van dit artikel is dit hoofdstuk noch op sanitaire en fytosanitaire maatregelen zoals omschreven in bijlage A bij de Overeenkomst inzake sanitaire en fytosanitaire maatregelen, hierna „SPS-overeenkomst” genoemd, die in bijlage 1A bij de WTO-overeenkomst is opgenomen, noch op de aankoopspecificaties die door overheidsinstanties zijn opgesteld om in hun eigen productie- of verbruiksbehoeften te voorzien, van toepassing.   
@@ -799,7 +799,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Bevestiging van de TBT-overeenkomst
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen bevestigen hun bestaande wederzijdse rechten en verplichtingen ingevolge de TBT-overeenkomst, die hierbij in deze overeenkomst is opgenomen en daarvan deel uitmaakt. 
 
@@ -807,7 +807,7 @@ De partijen bevestigen hun bestaande wederzijdse rechten en verplichtingen ingev
 
 ####Technische samenwerking
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen versterken hun samenwerking op het gebied van technische voorschriften, normen, metrologie, markttoezicht, accreditatie en conformiteitsbeoordelingsprocedures, teneinde het wederzijdse begrip van hun respectieve systemen te verbeteren en de toegang tot hun respectieve markten te vergemakkelijken. Hiertoe kunnen zij zowel op horizontaal als op sectorniveau dialogen over regelgeving tot stand brengen.   
 2.  Bij hun samenwerking streven de partijen ernaar om handelsbevorderende initiatieven in kaart te brengen, te ontwikkelen en te bevorderen die met name, doch niet uitsluitend, het volgende kunnen inhouden: 
@@ -828,7 +828,7 @@ f. afstemming van hun standpunten in internationale organisaties voor handel en 
 
 ####Aanpassing van technische voorschriften, normen en conformiteitsbeoordeling
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Oekraïne neemt de maatregelen die nodig zijn om geleidelijk te komen tot conformiteit met de technische voorschriften van de EU en de normalisatie, metrologie, accreditatie, conformiteitsbeoordelingsprocedures en het systeem voor markttoezicht van de EU, en verbindt zich tot naleving van de beginselen en de praktijken die in de desbetreffende EU-besluiten en EU-verordeningen zijn neergelegd<sup> 8) Met name Besluit nr. 768/2008/EG van het Europees Parlement en de Raad van 9 juli 2008 betreffende een gemeenschappelijk kader voor het verhandelen van producten en tot intrekking van Besluit 93/465/EEG van de Raad, en Verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93. </sup>.   
 2.  Met het oog op het bereiken van de in lid 1 bedoelde doelstellingen zal Oekraïne volgens het tijdschema in bijlage III bij deze overeenkomst: 
@@ -849,7 +849,7 @@ iii. het doeltreffende en transparante administratieve stelsel verschaffen dat v
 
 ####Overeenkomst inzake de conformiteitsbeoordeling en de aanvaarding van industrieproducten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen komen overeen aan deze overeenkomst een OCBA te hechten in de vorm van een protocol, inzake een of meer van de in bijlage III bij deze overeenkomst vermelde sectoren, zodra zij zijn overeengekomen dat de desbetreffende sectorspecifieke en horizontale wetgeving, instellingen en normen van Oekraïne volledig aan die van de EU zijn aangepast.   
 2.  De OCBA zal bepalen dat de handel tussen de partijen in goederen in de door haar bestreken sectoren plaatsvindt onder dezelfde voorwaarden als die welke op de handel in dergelijke goederen tussen de lidstaten van de Europese Unie van toepassing zijn.   
@@ -861,7 +861,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Merktekens en etikettering
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Onverminderd de artikelen 56 en 57 van deze overeenkomst bevestigen de partijen met betrekking tot de technische voorschriften voor de etikettering of voorschriften ten aanzien van merktekens, opnieuw de beginselen van artikel 2, lid 2.2, van de TBT-overeenkomst dat die voorschriften niet moeten worden opgesteld, vastgesteld of toegepast met het oogmerk of gevolg dat er onnodige belemmeringen voor de internationale handel ontstaan. Hiertoe mogen dergelijke voorschriften voor de etikettering of de merktekens de handel niet meer beperken dan voor het bereiken van een legitieme doelstelling noodzakelijk is, waarbij acht moet worden geslagen op de risico's die zouden ontstaan wanneer niet aan die voorschriften wordt voldaan.   
 2.  Met betrekking tot verplichte etikettering of merktekens komen de partijen met name overeen dat: 
@@ -876,13 +876,13 @@ c. dat partijen gerechtigd blijven te verlangen dat de informatie op etiketten o
 
 ####SANITAIRE EN FYTOSANITAIRE MAATREGELEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  59  
 
 ####Doel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Het doel van dit hoofdstuk is het bevorderen van de handel in handelsartikelen waarop tussen de partijen sanitaire en fytosanitaire maatregelen van toepassing zijn, en tegelijkertijd het leven of de gezondheid van mens, dier of plant te beschermen door: 
 
@@ -905,7 +905,7 @@ g. de communicatie en samenwerking tussen de partijen inzake sanitaire en fytosa
 
 ####Multilaterale verplichtingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen bevestigen opnieuw hun rechten en verplichtingen ingevolge de SPS-overeenkomst. 
 
@@ -913,7 +913,7 @@ De partijen bevestigen opnieuw hun rechten en verplichtingen ingevolge de SPS-ov
 
 ####Toepassingsgebied
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Dit hoofdstuk is van toepassing op alle sanitaire en fytosanitaire maatregelen van een partij die de handel tussen de partijen al dan niet rechtstreeks kunnen beïnvloeden, met inbegrip van de in bijlage IV bij deze overeenkomst vermelde maatregelen. 
 
@@ -921,7 +921,7 @@ Dit hoofdstuk is van toepassing op alle sanitaire en fytosanitaire maatregelen v
 
 ####Definities
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Voor de toepassing van dit hoofdstuk wordt verstaan onder: 
 
@@ -1007,7 +1007,7 @@ j. enten, stekken, knoppen;
 
 ####Bevoegde autoriteiten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen brengen elkaar op de hoogte van de structuur, organisatie en verdeling van bevoegdheden van hun bevoegde autoriteiten tijdens de eerste bijeenkomst van het in artikel 74 van deze overeenkomst bedoelde subcomité voor sanitaire en fytosanitaire maatregelen, hierna „SPS-subcomité” genoemd. De partijen stellen elkaar op de hoogte van elke verandering aangaande die bevoegde autoriteiten, met inbegrip van contactpunten. 
 
@@ -1015,7 +1015,7 @@ De partijen brengen elkaar op de hoogte van de structuur, organisatie en verdeli
 
 ####Aanpassing van regelgeving
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Oekraïne past zijn sanitaire en fytosanitaire wetgeving alsmede die op het gebied van dierenwelzijn aan aan die van de EU zoals vastgelegd in bijlage V bij deze overeenkomst.   
 2.  De partijen werken samen inzake aanpassing van wetgeving en capaciteitsopbouw.   
@@ -1026,7 +1026,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Erkenning van de diergezondheidsstatus en de status inzake plagen alsmede van regionale omstandigheden in het kader van het handelsverkeer
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 A.  
 ###Erkenning van de status inzake dierziekten, besmetting bij dieren of plagen
@@ -1074,7 +1074,7 @@ De partijen verbinden zich tot het voeren van verdere besprekingen met het oog o
 
 ####Bepaling van de gelijkwaardigheid
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Erkenning van gelijkwaardigheid kan geschieden ten aanzien van: 
 
@@ -1102,7 +1102,7 @@ b. in overeenstemming met artikel 67, lid 2, van deze overeenkomst stelt de part
 
 ####Transparantie en uitwisseling van informatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Onverminderd artikel 68 van deze overeenkomst werken de partijen samen ter versterking van het wederzijdse begrip van hun officiële controlestructuur en -mechanismen voor de uitvoering van SPS-maatregelen en hun respectieve prestaties op dit vlak. Dit kan onder meer worden bereikt door verslagen van internationale audits wanneer deze openbaar worden gemaakt; de partijen kunnen in voorkomend geval informatie over de resultaten van deze audits of andere informatie uitwisselen.   
 2.  In het kader van de in artikel 64 bedoelde aanpassing van wetgeving of de in artikel 66 van deze overeenkomst bedoelde bepaling van gelijkwaardigheid houden de partijen elkaar op de hoogte van wetswijzigingen en andere procedurele wijzigingen die voor de betrokken gebieden worden aangenomen of vastgesteld.   
@@ -1112,7 +1112,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Kennisgeving, overleg en bevordering van communicatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Elke partij stelt de andere partij binnen twee werkdagen schriftelijk in kennis van ieder ernstig of aanzienlijk gezondheidsrisico voor mens, dier of plant, met inbegrip van alle noodsituaties in verband met de voedselcontrole of situaties waarin een duidelijk ernstig gezondheidsrisico werd geconstateerd in verband met de consumptie van dierlijke of plantaardige producten, met name wat betreft: 
 
@@ -1137,7 +1137,7 @@ b. Schriftelijke kennisgeving gebeurt per post, per fax of per e-mail. Kennisgev
 
 ####Handelsvoorwaarden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Algemene invoervoorwaarden 
 
@@ -1166,7 +1166,7 @@ b. Voor de invoer van de in lid 2, onder a), bedoelde dierlijke producten doet d
 
 ####Certificeringsprocedure
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Voor certificeringsprocedures en de afgifte van certificaten en officiële documenten zijn de partijen het eens over de beginselen die in bijlage XII bij deze overeenkomst zijn uiteengezet.   
 2.  Het in artikel 74 van deze overeenkomst bedoelde SPS-subcomité kan regels vaststellen die moeten worden gevolgd in het geval van elektronische certificering, en de intrekking of vervanging van certificaten langs elektronische weg.   
@@ -1176,7 +1176,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Verificatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Om het vertrouwen in de doeltreffende tenuitvoerlegging van de bepalingen van dit hoofdstuk te bewaren, heeft elke partij het recht: 
 
@@ -1193,7 +1193,7 @@ c. in voorkomend geval, voor laboratoriumtests met betrekking tot in bijlage IV-
 
 ####Controles bij invoer en inspectievergoedingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen komen overeen dat de partij van invoer bij haar invoercontroles op zendingen uit de partij van uitvoer de in bijlage XI, deel A, bij deze overeenkomst vastgelegde beginselen in acht dient te nemen. De resultaten van deze controles kunnen worden gebruikt ten behoeve van de in artikel 71 van deze overeenkomst bedoelde verificaties.   
 2.  De frequentie waarmee elke partij materiële controles bij invoer verricht, zijn vastgesteld in bijlage XI, deel B, bij deze overeenkomst. Een partij kan deze frequentie binnen de grenzen van haar bevoegdheid en in overeenstemming met haar interne wetgeving wijzigen naar aanleiding van vooruitgang die werd geboekt in overeenstemming met de artikelen 64, 66 en 69 van deze overeenkomst, of naar aanleiding van de verificaties, het overleg of andere maatregelen waarin deze overeenkomst voorziet. Bijlage XI, deel B, bij deze overeenkomst wordt door het in artikel 74 van deze overeenkomst bedoelde SPS-subcomité bij besluit dienovereenkomstig gewijzigd.   
@@ -1206,7 +1206,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Vrijwaringsmaatregelen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Indien de partij van invoer op haar eigen grondgebied maatregelen neemt tegen een mogelijk ernstig gevaar of risico voor de gezondheid van mens, dier en plant, dient de partij van uitvoer, onverminderd lid 2 van dit artikel, gelijkwaardige maatregelen te nemen om insleep van dit gevaar of risico op het grondgebied van de partij van invoer te voorkomen.   
 2.  De partij van invoer kan, als daartoe ernstige redenen bestaan met betrekking tot de gezondheid van mens, dier of plant, voorlopige maatregelen vaststellen om de gezondheid van mens, dier of plant te beschermen. Voor zendingen die al onderweg zijn tussen de partijen, zoekt de partij van invoer de meest geschikte, aan het risico evenredige oplossing om onnodige verstoringen van het handelsverkeer te voorkomen.   
@@ -1216,7 +1216,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Subcomité voor sanitaire en fytosanitaire maatregelen (SPS-subcomité)
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Er wordt een subcomité opgericht voor sanitaire en fytosanitaire maatregelen (hierna „SPS-subcomité” genoemd). Het SPS-subcomité komt binnen drie maanden na de inwerkingtreding van deze overeenkomst bijeen, en daarna op verzoek van een van beide partijen, althans ten minste eens per jaar. Indien de partijen aldus overeenkomen, kan een bijeenkomst van het SPS-subcomité worden gehouden in de vorm van een video- of audiovergadering. Tussen twee vergaderingen door kan het SPS-subcomité bepaalde aangelegenheden ook schriftelijk behandelen.   
 2.  Het SPS-subcomité heeft de volgende taken: 
@@ -1237,13 +1237,13 @@ d. aan andere organen als omschreven in de Institutionele, algemene en slotbepal
 
 ####DOUANE EN HANDELSBEVORDERING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  75  
 
 ####Doelstellingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen erkennen het belang van douaneaangelegenheden en handelsbevordering bij de ontwikkeling van het bilaterale handelsstelsel. Zij komen in beginsel overeen op dit gebied nauwer samen te werken om ervoor te zorgen dat de wetgeving en procedures ter zake, alsook de bestuurlijke capaciteit van de desbetreffende diensten, voldoen aan de doelstellingen van een effectieve controle en bevordering van de legitieme handel. De partijen erkennen dat het grootst mogelijke belang moet worden gehecht aan de legitieme doelstellingen van het overheidsbeleid, met inbegrip van die met betrekking tot de handelsbevordering, de veiligheid en de fraudebestrijding en aan een evenwichtige benadering hiervan. 
 
@@ -1251,7 +1251,7 @@ De partijen erkennen het belang van douaneaangelegenheden en handelsbevordering 
 
 ####Wetgeving en procedures
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen komen overeen dat hun respectieve wet- en regelgeving op handels- en douanegebied in beginsel stabiel en allesomvattend moet zijn, en dat bepalingen en procedures evenredig, transparant, voorspelbaar, niet-discriminerend en onpartijdig zullen zijn alsook op eenvormige wijze doeltreffend moeten worden toegepast en dat zij onder meer: 
 
@@ -1306,7 +1306,7 @@ c. De partijen zien erop toe dat alle betrokken instanties op hun respectieve gr
 
 ####Relaties met het bedrijfsleven
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen komen overeen: 
 
@@ -1324,7 +1324,7 @@ e. erop toe te zien dat hun respectieve eisen en procedures op douanegebied en a
 
 ####Vergoedingen en heffingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen verbieden administratieve heffingen van gelijke werking als in- en uitvoerrechten en heffingen. Met betrekking tot alle door de douaneautoriteiten van elke partij opgelegde vergoedingen en heffingen van welke aard ook, met inbegrip van vergoedingen en heffingen voor taken die namens die autoriteiten door een andere instantie zijn verricht, op of in verband met de invoer of uitvoer en onverminderd de desbetreffende artikelen van hoofdstuk 1 (Nationale behandeling en markttoegang voor goederen) van titel IV van deze overeenkomst, komen de partijen overeen dat: 
 
@@ -1342,7 +1342,7 @@ e. nieuwe of gewijzigde vergoedingen en heffingen worden niet opgelegd totdat in
 
 ####Vaststelling van de douanewaarde
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De Overeenkomst inzake de toepassing van artikel VII van de GATT 1994, die in bijlage 1A bij de WTO-overeenkomst is opgenomen, met inbegrip van de daaropvolgende wijzigingen, is van toepassing op de vaststelling van de douanewaarde van de goederen in de handel tussen de partijen. De bepalingen van die overeenkomst worden hierbij in deze overeenkomst opgenomen en maken daarvan deel uit. Er worden geen minimumdouanewaarden gehanteerd.   
 2.  De partijen werken samen aan een gemeenschappelijke aanpak van problemen met betrekking tot de vaststelling van de douanewaarde.  
@@ -1351,7 +1351,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Samenwerking op douanegebied
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen versterken de samenwerking om te zorgen voor implementatie van de doelstellingen van dit hoofdstuk, waarbij een redelijk evenwicht moet worden gezocht tussen vereenvoudiging en bevordering enerzijds, en doeltreffende controle en veiligheid anderzijds. Hiertoe gebruiken de partijen in voorkomend geval de blauwdrukken die de EG voor de douane heeft opgesteld, als benchmarking-instrument. Om ervoor te zorgen dat de bepalingen van dit hoofdstuk worden nageleefd, zullen de partijen onder meer: 
 
@@ -1377,7 +1377,7 @@ i. wederzijds toegelaten handelaren alsmede douanecontroles in voorkomend geval 
 
 ####Wederzijdse administratieve bijstand in douaneaangelegenheden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Onverminderd artikel 80 van deze overeenkomst verlenen de overheden van de partijen elkaar administratieve bijstand in douaneaangelegenheden, in overeenstemming met de bepalingen die zijn neergelegd in protocol II bij deze overeenkomst inzake wederzijdse administratieve bijstand in douaneaangelegenheden. 
 
@@ -1385,7 +1385,7 @@ Onverminderd artikel 80 van deze overeenkomst verlenen de overheden van de parti
 
 ####Technische bijstand en capaciteitsopbouw
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen werken samen met het oog op het verlenen van technische bijstand en op capaciteitsopbouw voor de implementatie van de handelsbevordering en de hervormingen op douanegebied. 
 
@@ -1393,7 +1393,7 @@ De partijen werken samen met het oog op het verlenen van technische bijstand en 
 
 ####Subcomité douane
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er wordt een subcomité douane opgericht. Het subcomité brengt verslag over zijn activiteiten uit aan het Associatiecomité, in de samenstelling volgens artikel 465, lid 4, van deze overeenkomst. De taken van het subcomité douane omvatten regelmatig overleg en toezicht op de tenuitvoerlegging en het beheer in het kader van dit hoofdstuk, waaronder inzake aangelegenheden op het gebied van de douanesamenwerking, grensoverschrijdende douanesamenwerking en grensoverschrijdend beheer inzake douaneaangelegenheden, technische bijstand, oorsprongsregels, handelsbevordering alsmede wederzijdse administratieve bijstand in douaneaangelegenheden. Het subcomité douane zal onder meer: 
 
@@ -1411,7 +1411,7 @@ e. zijn interne reglement van orde vaststellen.
 
 ####Aanpassing van douanewetgeving
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De geleidelijke aanpassing aan de EU-douanewetgeving zoals deze is neergelegd in de EU-normen en de internationale normen zal plaatsvinden zoals uiteengezet in bijlage XV bij deze overeenkomst. 
 
@@ -1419,19 +1419,19 @@ De geleidelijke aanpassing aan de EU-douanewetgeving zoals deze is neergelegd in
 
 ####VESTIGING, HANDEL IN DIENSTEN EN ELEKTRONISCHE HANDEL
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### AFDELING  1  
 
 ####ALGEMENE BEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  85  
 
 ####Doelstelling en toepassingsgebied
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen herbevestigen hun respectieve rechten en verplichtingen ingevolge de WTO-overeenkomst, en leggen hierbij de noodzakelijke regels vast voor geleidelijke wederzijdse liberalisering van het recht van vestiging, en de handel in diensten en voor samenwerking op het gebied van elektronische handel.   
 2.  Overheidsopdrachten worden behandeld in hoofdstuk 8 (Overheidsopdrachten) van titel IV van deze overeenkomst en geen enkele bepaling van dit hoofdstuk kan zodanig worden uitgelegd dat zij een verplichting inhoudt met betrekking tot overheidsopdrachten.   
@@ -1443,7 +1443,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Definities
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Voor de toepassing van dit hoofdstuk: 
 
@@ -1525,13 +1525,13 @@ ii. specialisten: binnen een rechtspersoon werkzame personen die beschikken over
 
 ####VESTIGING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  87  
 
 ####Toepassingsgebied
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Deze afdeling is van toepassing op maatregelen die door de partijen zijn vastgesteld of worden gehandhaafd en die van invloed zijn op vestiging<sup> 15) Dit hoofdstuk is niet van toepassing op de bescherming van investeringen, anders dan de behandeling ingevolge artikel 88 (nationale behandeling), procedures voor de beslechting van geschillen tussen investeerders en de staat daaronder begrepen. </sup> met betrekking tot alle economische activiteiten, met uitzondering van: 
 
@@ -1559,7 +1559,7 @@ v. exploitatie van luchthavens.
 
 ####Nationale behandeling en behandeling als meest begunstigde natie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Behoudens de in bijlage XVI-D bij deze overeenkomst vermelde voorbehouden zal Oekraïne bij de inwerkingtreding van deze overeenkomst: 
 
@@ -1577,7 +1577,7 @@ ii. voor het exploiteren van eenmaal gevestigde dochterondernemingen, filialen e
 
 ####Herziening
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Met het oog op de geleidelijke liberalisering van de voorwaarden voor vestiging evalueren de partijen regelmatig het juridische kader voor vestiging<sup> 21) Dit omvat tevens dit hoofdstuk en de bijlagen XVI-A en XVI-D. </sup> en het vestigingsklimaat, in overeenstemming met hun uit internationale overeenkomsten voortvloeiende verbintenissen.   
 2.  In het kader van de in lid 1 van dit artikel bedoelde evaluatie onderzoeken de partijen welke belemmeringen voor vestiging zich hebben voorgedaan en treden zij in onderhandeling om dergelijke belemmeringen aan te pakken, met het oogmerk de bepalingen van dit hoofdstuk uit te diepen en nader te voorzien in bepalingen voor investeringsbescherming alsmede procedures voor de beslechting van geschillen tussen investeerders en de staat.  
@@ -1586,7 +1586,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Andere overeenkomsten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Geen enkele bepaling in dit hoofdstuk wordt zodanig uitgelegd dat de rechten van investeerders uit de partijen op een gunstigere behandeling waarin is voorzien in een bestaande of toekomstige internationale overeenkomst inzake investeringen waarbij een lidstaat van de Europese Unie en Oekraïne partij zijn, worden beperkt. 
 
@@ -1594,7 +1594,7 @@ Geen enkele bepaling in dit hoofdstuk wordt zodanig uitgelegd dat de rechten van
 
 ####Norm voor de behandeling van filialen en vertegenwoordigingskantoren
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Het bepaalde in artikel 88 van deze overeenkomst vormt geen beletsel voor de toepassing door een partij van bijzondere regels met betrekking tot de vestiging en exploitatie op haar grondgebied van filialen en vertegenwoordigingskantoren van rechtspersonen uit de andere partij die op het grondgebied van eerstgenoemde partij niet als rechtspersoon zijn erkend, wanneer deze bijzondere regels op grond van juridische of technische verschillen tussen bedoelde filialen en vertegenwoordigingskantoren en wel op het grondgebied van de eerste partij als rechtspersoon erkende filialen en vertegenwoordigingskantoren of, voor wat financiële diensten betreft, om prudentiële redenen gerechtvaardigd zijn.   
 2.  Het verschil in behandeling mag niet verder gaan dan hetgeen vanwege die juridische of technische verschillen of, voor wat financiële diensten betreft, om prudentiële redenen strikt noodzakelijk is.  
@@ -1603,13 +1603,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####GRENSOVERSCHRIJDENDE DIENSTVERLENING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  92  
 
 ####Toepassingsgebied
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Deze afdeling is van toepassing op maatregelen van de partijen die van invloed zijn op alle grensoverschrijdende dienstverlening, met uitzondering van: 
 
@@ -1633,7 +1633,7 @@ v. exploitatie van luchthavens.
 
 ####Markttoegang
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Ten aanzien van de markttoegang voor grensoverschrijdende dienstverlening behandelt elk van beide partijen diensten en dienstverleners uit de andere partij niet minder gunstig dan is voorzien in de specifieke verbintenissen die zijn neergelegd in de bijlagen XVI-B en XVI-E bij deze overeenkomst.   
 2.  Voor sectoren waarvoor verbintenissen betreffende markttoegang worden aangegaan, worden de maatregelen die een partij niet mag handhaven of vaststellen voor een bepaalde regio of voor haar gehele grondgebied, tenzij anderszins bepaald in de bijlagen XVI-B en XVI-E bij deze overeenkomst, omschreven als: 
@@ -1648,7 +1648,7 @@ c. beperkingen van het totale aantal dienstentransacties of het totale volume va
 
 ####Nationale behandeling
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Elk van beide partijen behandelt in de sectoren waarvoor verbintenissen inzake de markttoegang in de bijlagen XVI-B en XVI-E bij deze overeenkomst zijn opgenomen, met inachtneming van de daarin vermelde voorwaarden en kwalificaties, diensten en dienstverleners uit de andere partij in het kader van alle maatregelen die op de grensoverschrijdende dienstverlening van invloed zijn, niet minder gunstig dan haar eigen soortgelijke diensten en dienstverleners.   
 2.  Een partij kan aan het bepaalde in lid 1 van dit artikel voldoen door aan diensten en dienstverleners uit de andere partij een behandeling toe te kennen die naar de vorm identiek is aan of naar de vorm afwijkt van de behandeling die zij aan haar eigen diensten en dienstverleners toekent.   
@@ -1659,7 +1659,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Lijsten van verbintenissen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De door elk van beide partijen ingevolge dit hoofdstuk geliberaliseerde sectoren en de beperkingen, door middel van voorbehouden, ten aanzien van de markttoegang en van de nationale behandeling voor diensten en dienstverleners uit de andere partij in die sectoren, worden in de lijsten van verbintenissen in de bijlagen XVI-B en XVI-E bij deze overeenkomst vermeld.   
 2.  Onverminderd de bestaande of toekomstige rechten en verplichtingen van de partijen uit hoofde van het Verdrag van de Raad van Europa inzake grensoverschrijdende televisie van 1989 en het Europees Verdrag inzake cinematografische coproductie van 1992, omvatten de lijsten van verbintenissen in de bijlagen XVI-B en XVI-E bij deze overeenkomst geen verbintenissen inzake audiovisuele diensten.  
@@ -1668,7 +1668,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Herziening
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Met het oog op de geleidelijke liberalisering van de grensoverschrijdende dienstverlening tussen de partijen zal het Handelscomité regelmatig de in artikel 95 van deze overeenkomst bedoelde lijsten van verbintenissen herzien. Bij deze herziening zal rekening worden gehouden met de mate van vooruitgang wat de omzetting, de implementatie en de handhaving van het in bijlage XVII bij deze overeenkomst bedoelde EU-acquis betreft en de impact daarvan op de afschaffing van resterende belemmeringen voor de grensoverschrijdende dienstverlening tussen de partijen. 
 
@@ -1676,13 +1676,13 @@ Met het oog op de geleidelijke liberalisering van de grensoverschrijdende dienst
 
 ####TIJDELIJKE AANWEZIGHEID VAN NATUURLIJKE PERSONEN VOOR ZAKELIJKE DOELEINDEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  97  
 
 ####Toepassingsgebied
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Deze afdeling is van toepassing op de maatregelen van de partijen betreffende de toelating en het tijdelijke verblijf<sup> 25) Alle andere verplichtingen in de wet- en regelgeving van de partijen aangaande binnenkomst, verblijf, arbeid en sociale zekerheid blijven van toepassing, regelingen betreffende verblijfsperiode, minimumloon en collectieve loonovereenkomsten daaronder begrepen. Verbintenissen inzake personenverkeer zijn niet van toepassing in gevallen waarin het de bedoeling of het gevolg van dergelijk verkeer is in te grijpen in arbeids- of managementgeschillen of -onderhandelingen, dan wel het resultaat van dergelijke geschillen of onderhandelingen op andere wijze te beïnvloeden. </sup> op hun grondgebied van categorieën natuurlijke personen die diensten verlenen als omschreven in artikel 86, leden 17 tot en met 21, van deze overeenkomst. 
 
@@ -1690,7 +1690,7 @@ Deze afdeling is van toepassing op de maatregelen van de partijen betreffende de
 
 ####Stafpersoneel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Een rechtspersoon uit de EU-partij of uit Oekraïne mag, in overeenstemming met de in het gastland van vestiging geldende wetgeving, werknemers die onderdaan zijn van een lidstaat van de Europese Unie respectievelijk Oekraïne, in dienst hebben respectievelijk in dienst laten zijn van een van haar dochterondernemingen, filialen of vertegenwoordigingskantoren op het grondgebied van Oekraïne respectievelijk de EU-partij, mits die werknemers stafpersoneel in de zin van artikel 86 van deze overeenkomst zijn en uitsluitend in dienst zijn van rechtspersonen, dochterondernemingen, filialen en vertegenwoordigingskantoren. De verblijfs- en werkvergunningen van dergelijke werknemers bestrijken slechts het tijdvak van een dergelijke tewerkstelling. De binnenkomst en het tijdelijke verblijf van die werknemers worden toegestaan voor een periode van ten hoogste drie jaar.   
 2.  De binnenkomst en het tijdelijke verblijf van natuurlijke personen uit Oekraïne respectievelijk de EU-partij op het grondgebied van de EU-partij respectievelijk Oekraïne wordt toegestaan wanneer deze natuurlijke personen vertegenwoordiger van rechtspersonen en zakelijke bezoekers in de zin van artikel 86, lid 17, onder a), van deze overeenkomst zijn. Onverminderd lid 1 van dit artikel bestrijken de toelating en het tijdelijke verblijf van zakelijke bezoekers een periode van maximaal 90 dagen per 12 maanden.  
@@ -1699,7 +1699,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Afgestudeerde stagiairs
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Een rechtspersoon uit de EU-partij of uit Oekraïne mag in overeenstemming met de in het gastland van vestiging geldende wetgeving afgestudeerde stagiairs die onderdaan zijn van een lidstaat van de Europese Unie respectievelijk Oekraïne, in dienst hebben respectievelijk in dienst laten zijn van een van haar dochterondernemingen, filialen of vertegenwoordigingskantoren op het grondgebied van Oekraïne respectievelijk de EU-partij, mits die stagiairs uitsluitend in dienst zijn van rechtspersonen, dochterondernemingen, filialen en vertegenwoordigingskantoren. De tijdelijke toelating en het tijdelijke verblijf van afgestudeerde stagiairs bestrijken een periode van maximaal een jaar. 
 
@@ -1707,7 +1707,7 @@ Een rechtspersoon uit de EU-partij of uit Oekraïne mag in overeenstemming met d
 
 ####Verkopers van zakelijke diensten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Elk van beide partijen maakt de tijdelijke toelating en het tijdelijke verblijf van verkopers van zakelijke diensten mogelijk voor een periode van maximaal 90 dagen per 12 maanden. 
 
@@ -1715,7 +1715,7 @@ Elk van beide partijen maakt de tijdelijke toelating en het tijdelijke verblijf 
 
 ####Dienstverleners op contractbasis
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen herbevestigen hun respectieve verplichtingen ingevolge de door hen in het kader van de Algemene Overeenkomst inzake de handel in diensten van 1994 (hierna de „GATS” genoemd) aangegane verbintenissen ten aanzien van de toelating en het tijdelijke verblijf van dienstverleners op contractbasis.   
 2.  Voor elke hieronder vermelde sector staat elk van beide partijen toe dat op hun respectieve grondgebied dienstverleners op contractbasis uit de andere partij diensten verlenen, met inachtneming van de voorwaarden van lid 3 van dit artikel en de bijlagen XVI-C en XVI-F bij deze overeenkomst inzake voorbehouden ten aanzien van dienstverleners op contractbasis en beoefenaars van een vrij beroep: 
@@ -1781,7 +1781,7 @@ h. andere discriminerende beperkingen, waaronder die met betrekking tot het aant
 
 ####Beoefenaars van een vrij beroep
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen herbevestigen hun respectieve verplichtingen ingevolge de door hen in het kader van de GATS aangegane verbintenissen ten aanzien van de toelating en het tijdelijke verblijf van beoefenaars van een vrij beroep.   
 2.  Voor elke hieronder vermelde sector staan de partijen toe dat op hun respectieve grondgebied beoefenaars van een vrij beroep uit de andere partij diensten verlenen, met inachtneming van de voorwaarden van lid 3 van dit artikel en de bijlagen XVI-C en XVI-F bij deze overeenkomst inzake voorbehouden ten aanzien van dienstverleners op contractbasis en beoefenaars van een vrij beroep: 
@@ -1819,19 +1819,19 @@ f. andere discriminerende beperkingen, waaronder die met betrekking tot het aant
 
 ####REGELGEVINGSKADER
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### ONDERAFDELING  1  
 
 ####INTERNE REGELGEVING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  103  
 
 ####Werkingssfeer en definities
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De volgende voorschriften gelden voor maatregelen van de partijen inzake vergunningverlening die van invloed zijn op: 
 
@@ -1854,7 +1854,7 @@ c. „vergunningsprocedures”: de procedures die in het kader van vergunningver
 
 ####Voorwaarden voor vergunningverlening
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Vergunningverlening geschiedt op grond van criteria die uitsluiten dat de bevoegde autoriteiten hun bevoegdheid ter zake op arbitraire wijze kunnen uitoefenen.   
 2.  De in lid 1 van dit artikel bedoelde criteria zijn: 
@@ -1879,7 +1879,7 @@ f. transparant en toegankelijk.
 
 ####Vergunningsprocedures
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Vergunningsprocedures en -formaliteiten zijn duidelijk, worden vooraf bekendgemaakt en waarborgen voor aanvragers dat hun aanvraag op objectieve en onpartijdige wijze wordt behandeld.   
 2.  Vergunningsprocedures en -formaliteiten zijn zo eenvoudig mogelijk en compliceren of vertragen het verlenen van de dienst niet onnodig. Vergoedingen<sup> 29) Vergoedingen voor het verlenen van vergunningen omvatten niet vergoedingen voor het gebruik van natuurlijke hulpbronnen, betalingen in verband met veiling, aanbesteding of andere niet-discriminerende middelen om concessies te verlenen, noch verplichte bijdragen voor het verlenen van een universele dienst. </sup> in verband met vergunningen die de aanvragers eventueel in het kader van hun aanvraag moeten betalen, zijn redelijk en evenredig met de kosten van de desbetreffende vergunningsprocedures.   
@@ -1891,13 +1891,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####ALGEMENE BEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  106  
 
 ####Wederzijdse erkenning
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Geen enkele bepaling in dit hoofdstuk belet een partij te eisen dat natuurlijke personen de kwalificaties en/of de beroepservaring hebben die op het grondgebied waar de dienst wordt verleend, voor de betrokken sector van activiteit zijn voorgeschreven.   
 2.  De partijen moedigen de desbetreffende beroepsorganisaties op hun respectieve grondgebied aan aanbevelingen over wederzijdse erkenning aan het Handelscomité voor te leggen, opdat investeerders en dienstverleners volledig of gedeeltelijk voldoen aan de door elk van beide partijen toegepaste criteria voor het verlenen van vergunningen aan investeerders en dienstverleners en voor de werkzaamheden en de certificering van dezen, in het bijzonder beoefenaren van vrije beroepen.   
@@ -1909,7 +1909,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Transparantie en bekendmaking van vertrouwelijke informatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Elk van beide partijen beantwoordt zo spoedig mogelijk verzoeken van de andere partij om specifieke informatie over algemeen toegepaste maatregelen of internationale overeenkomsten die op deze overeenkomst betrekking hebben of daarvoor gevolgen hebben. De partijen richten ook een of meer informatiepunten in om op verzoek specifieke informatie aan investeerders en dienstverleners van de andere partij te verstrekken over alle aangelegenheden van dien aard. De partijen stellen elkaar binnen drie maanden na de inwerkingtreding van deze overeenkomst in kennis van hun informatiepunten. Het is niet nodig dat de informatiepunten depositaris zijn van wet- en regelgeving.   
 2.  Geen enkele bepaling van deze overeenkomst verplicht een partij tot verstrekking van vertrouwelijke informatie waarvan bekendmaking de rechtshandhaving zou belemmeren of anderszins in strijd zou zijn met het openbaar belang of schadelijk zou zijn voor de rechtmatige handelsbelangen van openbare of particuliere ondernemingen.  
@@ -1918,13 +1918,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####DIENSTEN IN VERBAND MET COMPUTERS
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  108  
 
 ####Afspraak over computerdiensten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Voor zover de handel in computerdiensten overeenkomstig de afdelingen 2, 3 en 4 van dit hoofdstuk is geliberaliseerd, en rekening houdend met het feit dat deze diensten vaak andere diensten, elektronisch of anderszins, mogelijk maken, maken de partijen een onderscheid tussen ondersteunende diensten en inhouds- of hoofddiensten die elektronisch worden geleverd, waardoor de inhouds- of hoofddienst niet als „dienst in verband met computers” als omschreven in lid 2 van dit artikel wordt gekwalificeerd.   
 2.  Onder „diensten in verband met computers” wordt verstaan diensten die zijn omschreven in de VN-code CPC 84, met inbegrip van zowel basisdiensten als basisfuncties, of combinaties van basisdiensten, ongeacht of zij worden verleend via een netwerk, internet daaronder begrepen. Onder basisdiensten vallen alle diensten waarbij sprake is van: 
@@ -1943,13 +1943,13 @@ e. opleidingen voor het personeel van klanten in verband met computerprogramma's
 
 ####POST- EN KOERIERSDIENSTEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  109  
 
 ####Werkingssfeer en definities
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Deze onderafdeling bevat de beginselen van het regelgevingskader voor alle post- en koeriersdiensten die in overeenstemming met de afdelingen 2, 3 en 4 van dit hoofdstuk zijn geliberaliseerd.   
 2.  Voor de toepassing van deze onderafdeling en van de afdelingen 2, 3 en 4 van dit hoofdstuk wordt verstaan onder: 
@@ -1962,7 +1962,7 @@ b. „universele dienst”: het op permanente basis verlenen van een postdienst 
 
 ####Voorkoming van concurrentiebeperkende praktijken in de post- en koeriersector
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er worden passende maatregelen gehandhaafd of genomen om te voorkomen dat leveranciers die, alleen of samen met anderen, de voorwaarden voor deelneming (wat prijs en aanbod betreft) in de relevante markt voor post- en koeriersdiensten door het gebruik van hun eigen marktpositie in belangrijke mate kunnen beïnvloeden, overgaan tot concurrentiebeperkende praktijken of deze voortzetten. 
 
@@ -1970,7 +1970,7 @@ Er worden passende maatregelen gehandhaafd of genomen om te voorkomen dat levera
 
 ####Universele dienst
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Elk van beide partijen heeft het recht de aard van de universeledienstverplichtingen vast te stellen die zij in stand wenst te houden. Dergelijke verplichtingen worden op zich niet als concurrentieverstorend gezien, mits zij worden geregeld op een transparante, niet-discriminerende en vanuit concurrentieoogpunt neutrale wijze en zij niet meer lasten met zich brengen dan voor de door de partij vastgestelde universele dienst noodzakelijk is. 
 
@@ -1978,7 +1978,7 @@ Elk van beide partijen heeft het recht de aard van de universeledienstverplichti
 
 ####Vergunningen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Drie jaar na de inwerkingtreding van deze overeenkomst kan een vergunning enkel worden vereist voor diensten die binnen het bereik van de universele dienst vallen.   
 2.  Indien een vergunning vereist is, worden de volgende zaken algemeen bekendgemaakt: 
@@ -1992,7 +1992,7 @@ b. de voorwaarden voor de betrokken vergunningen.
 
 ####Onafhankelijkheid van de regelgevende instantie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De regelgevende instantie is juridisch onafhankelijk van en niet aansprakelijk jegens verleners van post- en koeriersdiensten. De besluiten die de regelgevende instantie neemt en de procedures die zij volgt, zijn voor alle marktdeelnemers gelijk. 
 
@@ -2000,7 +2000,7 @@ De regelgevende instantie is juridisch onafhankelijk van en niet aansprakelijk j
 
 ####Aanpassing van regelgeving
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen erkennen het belang van de aanpassing van de bestaande wetgeving van Oekraïne aan die van de Europese Unie. Oekraïne draagt er zorg voor dat zijn bestaande wetten en toekomstige wetgeving geleidelijk in overeenstemming met het EU-acquis worden gebracht.   
 2.  Deze aanpassing vangt aan op de datum waarop deze overeenkomst wordt ondertekend, en wordt geleidelijk tot alle in bijlage XVII bij deze overeenkomst bedoelde onderdelen van het EU-acquis uitgebreid.  
@@ -2009,13 +2009,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####ELEKTRONISCHE COMMUNICATIE
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  115  
 
 ####Werkingssfeer en definities
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Deze onderafdeling bevat de beginselen van het regelgevingskader voor alle elektronische communicatiediensten die ingevolge de afdelingen 2, 3 en 4 van dit hoofdstuk zijn geliberaliseerd, met uitzondering van omroep.   
 2.  Voor de toepassing van deze onderafdeling en van de afdelingen 2, 3 en 4 van dit hoofdstuk: 
@@ -2044,7 +2044,7 @@ j. „aansluitnet”: fysiek circuit dat het netwerkaansluitpunt in het gebouw v
 
 ####Regelgevende autoriteit
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen dragen er zorg voor dat de regelgevende autoriteiten voor elektronische-communicatiediensten juridisch gescheiden en functioneel onafhankelijk zijn van verleners van elektronische-communicatiediensten. Indien een partij eigenaar is van of zeggenschap heeft over een dienstverlener die openbare communicatienetwerken exploiteert of openbare communicatiediensten verleent, zorgt deze partij voor een werkelijke structurele scheiding tussen de regelgevende taken en de met de eigendom of de zeggenschap verband houdende activiteiten.   
 2.  De partijen waarborgen dat de regelgevende autoriteit voldoende bevoegdheden heeft om de sector te reguleren. De taken van een regelgevende autoriteit worden op duidelijke wijze en gemakkelijk toegankelijk bekendgemaakt, in het bijzonder wanneer meer dan een instantie met die taken belast is.   
@@ -2059,7 +2059,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Toestemming voor het verlenen van elektronische-communicatiediensten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen waarborgen dat er voor het verlenen van diensten zoveel mogelijk toestemming wordt verleend na enkele kennisgeving en/of registratie.   
 2.  De partijen waarborgen dat een vergunning kan worden verlangd voor nummer- en frequentietoekenning. De desbetreffende vergunningsvoorwaarden worden algemeen bekendgemaakt.   
@@ -2077,7 +2077,7 @@ d. de door een partij verlangde vergoedingen voor het verlenen van een vergunnin
 
 ####Toegang en interconnectie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen waarborgen dat dienstverleners die elektronische-communicatiediensten aanbieden, gerechtigd en verplicht zijn tot het bedingen van interconnectie met andere aanbieders van openbare elektronische-communicatienetwerken en -diensten In beginsel worden afspraken over interconnectie gemaakt op basis van commerciële onderhandelingen tussen de betrokken rechtspersonen.   
 2.  De partijen zien erop toe dat dienstverleners die bij onderhandelingen over interconnectieregelingen informatie van een andere dienstverlener ontvangen, die informatie uitsluitend gebruiken voor het doel waarvoor die werd verstrekt en dat zij de vertrouwelijkheid van de verstrekte of opgeslagen informatie te allen tijde respecteren.   
@@ -2102,7 +2102,7 @@ g. verplichtingen inzake transparantie, waarbij van een exploitant wordt verlang
 
 ####Schaarse middelen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen waarborgen dat alle procedures voor de toewijzing en het gebruik van schaarse middelen, zoals frequenties, nummers en doorgangsrechten, worden toegepast op objectieve, evenredige, tijdige, transparante en niet-discriminerende wijze. De stand van zaken met betrekking tot toegewezen frequentiebanden wordt algemeen bekendgemaakt, maar een gedetailleerde vermelding van de frequenties die voor specifiek gebruik door de overheid zijn toegewezen, is niet vereist.   
 2.  De partijen zorgen voor het doeltreffende beheer van radiofrequenties voor telecommunicatiediensten op hun grondgebied, teneinde een doeltreffend en efficiënt gebruik van het spectrum te waarborgen. Indien de vraag naar bepaalde frequenties groter is dan de beschikbaarheid ervan, worden voor de toewijzing van deze frequenties passende en transparante procedures gevolgd ten einde het gebruik ervan te optimaliseren en de ontwikkeling van de mededinging te bevorderen.   
@@ -2113,7 +2113,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Universele dienst
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Elk van beide partijen heeft het recht vast te stellen welke universeledienstverplichtingen zij in stand wenst te houden.   
 2.  Deze verplichtingen worden op zich niet concurrentiebeperkend geacht, mits zij op transparante, objectieve en niet-discriminerende wijze worden uitgevoerd. De uitvoering van dergelijke verplichtingen is ook neutraal vanuit concurrentieoogpunt en niet belastender dan nodig is voor de soort universele dienst die door de partij wordt vastgesteld.   
@@ -2128,7 +2128,7 @@ b. organisaties die de hiervoor onder a) bedoelde diensten verlenen, het beginse
 
 ####Grensoverschrijdende verlening van elektronische-communicatiediensten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen stellen geen maatregelen in, noch handhaven zij maatregelen, wanneer deze de grensoverschrijdende verlening van elektronische-communicatiediensten beperken. 
 
@@ -2136,7 +2136,7 @@ De partijen stellen geen maatregelen in, noch handhaven zij maatregelen, wanneer
 
 ####Vertrouwelijke informatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Elk van beide partijen waarborgt het vertrouwelijke karakter van elektronische communicatie die via een openbaar elektronische-communicatienetwerk en via openbare elektronische-communicatiediensten plaatsvindt, alsmede van de gegevens over dat verkeer, zonder daardoor de handel in diensten te beperken. 
 
@@ -2144,7 +2144,7 @@ Elk van beide partijen waarborgt het vertrouwelijke karakter van elektronische c
 
 ####Geschillen tussen dienstverleners
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen dragen er zorg voor dat wanneer er in verband met de in dit hoofdstuk bedoelde rechten en verplichtingen een geschil rijst tussen aanbieders van elektronische-communicatienetwerken of verleners van elektronische-communicatiediensten, de regelgevende autoriteit op verzoek van een der partijen een bindende beslissing neemt om het geschil op zo kort mogelijke termijn, doch uiterlijk binnen vier maanden, tot een oplossing te brengen.   
 2.  De beslissing van de regelgevende autoriteit wordt openbaar gemaakt, met inachtneming van de vereisten inzake vertrouwelijke bedrijfsgegevens. De door de partijen te ontvangen beslissing wordt met redenen omkleed.   
@@ -2154,7 +2154,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Aanpassing van regelgeving
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen erkennen het belang van de aanpassing van de bestaande wetgeving van Oekraïne aan die van de Europese Unie. Oekraïne draagt er zorg voor dat zijn bestaande wetten en toekomstige wetgeving geleidelijk in overeenstemming met het EU-acquis worden gebracht.   
 2.  Deze aanpassing vangt aan op de datum waarop deze overeenkomst wordt ondertekend, en wordt geleidelijk tot alle in bijlage XVII bij deze overeenkomst bedoelde onderdelen van het EU-acquis uitgebreid.  
@@ -2163,13 +2163,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####FINANCIËLE DIENSTEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  125  
 
 ####Werkingssfeer en definities
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Deze onderafdeling bevat de beginselen van het regelgevingskader voor alle financiële diensten die ingevolge de afdelingen 2, 3 en 4 van dit hoofdstuk zijn geliberaliseerd.   
 2.  Voor de toepassing van deze onderafdeling en van de afdelingen 2, 3 en 4 van dit hoofdstuk wordt verstaan onder: 
@@ -2242,7 +2242,7 @@ d. „nieuwe financiële dienst”: een dienst van financiële aard, zoals diens
 
 ####Prudentiële uitzonderingsbepaling
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Elk van beide partijen kan maatregelen vaststellen of handhaven om prudentiële redenen, waaronder: 
 
@@ -2257,7 +2257,7 @@ b. het verzekeren van de integriteit en de stabiliteit van het financiële syste
 
 ####Doeltreffende en transparante regelgeving
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Elk van beide partijen stelt alles in het werk om alle belanghebbenden vooraf kennis te geven van een door haar beoogde maatregel van algemene strekking, zodat die belanghebbenden commentaar op die maatregel kunnen geven. Dergelijke maatregelen worden bekendgemaakt: 
 
@@ -2270,7 +2270,7 @@ b. in enige andere vorm, schriftelijk of elektronisch.
 
 ####Nieuwe financiële diensten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Elk van beide partijen staat verleners van financiële diensten uit de andere partij die op haar grondgebied zijn gevestigd, toe om nieuwe financiële diensten te verlenen indien zij krachtens haar interne wetgeving aan haar eigen verleners van financiële diensten voor soortgelijke diensten onder vergelijkbare omstandigheden toestemming zou geven. De betrokken partij kan de rechtsvorm vaststellen waarin de dienst kan worden verleend en kan de verlening van de betrokken dienst aan een vergunningsplicht onderwerpen. Wanneer een vergunning vereist is, wordt hieromtrent binnen een redelijke termijn een besluit genomen en kan de vergunning uitsluitend worden geweigerd om de in artikel 126 van deze overeenkomst bedoelde redenen. 
 
@@ -2278,7 +2278,7 @@ Elk van beide partijen staat verleners van financiële diensten uit de andere pa
 
 ####Gegevensverwerking
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen staan verleners van financiële diensten van de andere partij toe gegevens in elektronische of in andere vorm met het oog op gegevensverwerking van en naar hun grondgebied te verzenden, wanneer de verwerking van deze gegevens noodzakelijk is in het kader van de normale transacties van de betrokken verleners van financiële diensten.   
 2.  Elk van beide partijen neemt passende maatregelen ter bescherming van de privacy en de fundamentele rechten en vrijheden van natuurlijke personen, in het bijzonder met betrekking tot de overdracht van persoonsgegevens.  
@@ -2287,7 +2287,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Specifieke uitzonderingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Geen enkele bepaling van dit hoofdstuk kan zodanig worden uitgelegd dat zij voor een partij, met inbegrip van haar openbare instanties, een beletsel vormt om op haar grondgebied exclusief activiteiten of diensten aan te bieden in het kader van een pensioenregeling van de overheid of een wettelijk stelsel van sociale zekerheid, tenzij verleners van financiële diensten deze activiteiten krachtens de interne regelgeving van die partij in concurrentie met openbare instanties of particuliere instellingen kunnen aanbieden.   
 2.  Geen enkele bepaling in deze overeenkomst is van toepassing op de activiteiten van een centrale bank of een monetaire autoriteit of van enige andere openbare instantie die bevoegd is voor het monetaire beleid of het wisselkoersbeleid.   
@@ -2297,7 +2297,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Zelfregulerende organisaties
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Wanneer een partij het lidmaatschap van of deelneming aan, dan wel toegang tot een zelfregulerend lichaam, effecten- of termijnbeurs of effecten- of termijnmarkt, verrekenkantoor of een andere organisatie of vereniging als voorwaarde stelt voor verleners van financiële diensten uit de andere partij om op voet van gelijkheid met haar eigen verleners van financiële diensten financiële diensten te kunnen verlenen, of wanneer zij dergelijke entiteiten direct of indirect voorrechten of voordelen voor de verlening van financiële diensten toekent, waarborgt zij dat de verplichtingen van de artikelen 88 en 94 worden nageleefd. 
 
@@ -2305,7 +2305,7 @@ Wanneer een partij het lidmaatschap van of deelneming aan, dan wel toegang tot e
 
 ####Clearing- en betalingssystemen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Onder voorwaarden van nationale behandeling verschaft elk van beide partijen aan op zijn grondgebied gevestigde verleners van financiële diensten uit de andere partij toegang tot betalings- en clearingsystemen van openbare instanties, alsmede tot voor de normale bedrijfsvoering beschikbare officiële financierings- en herfinancieringsfaciliteiten. Dit artikel beoogt niet toegang te verschaffen tot de kredietfaciliteiten in laatste instantie van de partij. 
 
@@ -2313,7 +2313,7 @@ Onder voorwaarden van nationale behandeling verschaft elk van beide partijen aan
 
 ####Aanpassing van regelgeving
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen erkennen het belang van de aanpassing van de bestaande wetgeving van Oekraïne aan die van de Europese Unie. Oekraïne draagt er zorg voor dat zijn bestaande wetten en toekomstige wetgeving geleidelijk in overeenstemming met het EU-acquis worden gebracht.   
 2.  Deze aanpassing vangt aan op de datum waarop deze overeenkomst wordt ondertekend, en wordt geleidelijk tot alle in bijlage XVII bij deze overeenkomst bedoelde onderdelen van het EU-acquis uitgebreid.  
@@ -2322,13 +2322,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####VERVOER
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  134  
 
 ####Toepassingsgebied
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Deze onderafdeling bevat de beginselen van de liberalisering van vervoersdiensten ingevolge de afdelingen 2, 3 en 4 van dit hoofdstuk. 
 
@@ -2336,7 +2336,7 @@ Deze onderafdeling bevat de beginselen van de liberalisering van vervoersdienste
 
 ####Internationaal vervoer over zee
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Deze overeenkomst is van toepassing op internationaal zeevervoer tussen de havens van Oekraïne en die van de lidstaten van de Europese Unie en tussen de havens van de lidstaten van de Europese Unie. Deze overeenkomst is tevens van toepassing op het zeevervoer tussen de havens van Oekraïne en derde landen en tussen de havens van de lidstaten van de Europese Unie en derde landen.   
 2.  Deze overeenkomst is niet van toepassing op intern zeevervoer tussen de havens van Oekraïne of tussen havens van een van de lidstaten van de Europese Unie. Onverminderd de voorgaande zin wordt het vervoer van materieel, zoals lege containers, dat niet tegen betaling als vracht wordt vervoerd tussen de havens van Oekraïne of tussen de havens van een van de lidstaten van de Europese Unie, als onderdeel van internationaal zeevervoer beschouwd.   
@@ -2396,7 +2396,7 @@ g. het in eigendom hebben van het materieel dat nodig is om economisch actief te
 
 ####Vervoer over de weg, per spoor en over de binnenwateren
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Met het oog op een gecoördineerde ontwikkeling en een geleidelijke liberalisering van het vervoer tussen de partijen in overeenstemming met hun respectieve commerciële behoeften zullen de voorwaarden betreffende de wederzijdse toegang tot elkaars markten voor het vervoer over de weg, per spoor of over de binnenwateren worden vastgesteld in eventuele bijzondere overeenkomsten betreffende die verschillende vormen van vervoer.   
 2.  De partijen stellen voor het sluiten van de in lid 1 van dit artikel bedoelde overeenkomsten geen voorwaarden voor wederzijdse toegang tot de markt die een meer beperkende situatie tussen de partijen tot gevolg hebben dan de situatie op de dag die aan de datum van inwerkingtreding van deze overeenkomst voorafgaat.   
@@ -2406,7 +2406,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Luchtvervoer
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Met het oog op een gecoördineerde ontwikkeling en een geleidelijke liberalisering van het vervoer tussen de partijen in overeenstemming met hun respectieve commerciële behoeften, zullen de voorwaarden betreffende de wederzijdse toegang tot elkaars markten voor het luchtvervoer worden geregeld volgens de overeenkomst betreffende de gemeenschappelijke luchtvaartruimte tussen de EU en Oekraïne, hierna „CAA” genoemd.   
 2.  Voorafgaand aan de sluiting van de CAA zien de partijen af van maatregelen of handelingen welke een meer beperkende of discriminerende situatie tot gevolg hebben dan de situatie vóór de inwerkingtreding van deze overeenkomst.  
@@ -2415,7 +2415,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Aanpassing van regelgeving
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Oekraïne past zijn wetgeving, met inbegrip van zijn administratieve, technische en andere voorschriften, aan de op dat ogenblik op het gebied van het internationale zeevervoer bestaande wetgeving van de EU-partij aan, voor zover deze gericht is op de liberalisering en op de wederzijdse toegang tot de markten van de partijen alsmede het verkeer van reizigers en van goederen. Deze aanpassing vangt aan op de datum waarop de overeenkomst wordt ondertekend, en wordt geleidelijk tot alle in bijlage XVII bij deze overeenkomst bedoelde onderdelen van het EU-acquis uitgebreid. 
 
@@ -2423,13 +2423,13 @@ Oekraïne past zijn wetgeving, met inbegrip van zijn administratieve, technische
 
 ####ELEKTRONISCHE HANDEL
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  139  
 
 ####Doel en beginselen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen erkennen dat de elektronische handel de handelsmogelijkheden in vele sectoren verruimt en komen overeen de ontwikkeling van hun onderlinge elektronische handelsverkeer te bevorderen, met name door samenwerking op het gebied van de problemen die elektronische handel in het kader van dit hoofdstuk met zich meebrengt.   
 2.  De partijen zijn het erover eens dat de ontwikkeling van de elektronische handel volledig in overeenstemming moet zijn met de strengste internationale normen inzake gegevensbescherming, teneinde ervoor te zorgen dat de gebruikers vertrouwen in de elektronische handel hebben.   
@@ -2439,7 +2439,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Regelgevingsaspecten van elektronische handel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen onderhouden een dialoog over regelgevingskwesties in verband met de elektronische handel, onder meer over: 
 
@@ -2458,13 +2458,13 @@ e. andere kwesties die voor de ontwikkeling van de elektronische handel van bela
 
 ####UITZONDERINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  141  
 
 ####Algemene uitzonderingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Onverminderd de algemene uitzonderingen van artikel 472 van deze overeenkomst zijn de bepalingen van dit hoofdstuk en van de bijlagen XVI-A, XVI-B, XVI-C, XVI-D, XVI-E, XVI-F en XVI-I bij deze overeenkomst onderworpen aan de uitzonderingen van dit artikel.   
 2.  Onder voorbehoud dat de hieronder bedoelde maatregelen niet zodanig worden toegepast dat zij een middel tot een willekeurige of ongerechtvaardigde discriminatie tussen landen bij soortgelijke omstandigheden, of een verkapte beperking van het recht van vestiging of van grensoverschrijdende dienstverlening vormen, wordt geen bepaling van dit hoofdstuk uitgelegd als beletsel voor het vaststellen of toepassen door een van de partijen van maatregelen die: 
@@ -2492,7 +2492,7 @@ f. strijdig zijn met artikel 88, lid 1, en artikel 94 van deze overeenkomst, mit
 
 ####Belastingmaatregelen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De meestbegunstigingsbehandeling die ingevolge dit hoofdstuk wordt toegekend, is niet van toepassing op de belastingbehandeling die de partijen geven of in de toekomst zullen geven op basis van overeenkomsten tussen hen ter voorkoming van dubbele belasting. 
 
@@ -2500,7 +2500,7 @@ De meestbegunstigingsbehandeling die ingevolge dit hoofdstuk wordt toegekend, is
 
 ####Uitzonderingen met betrekking tot de veiligheid
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Geen enkele bepaling in deze overeenkomst wordt zodanig uitgelegd dat: 
 
@@ -2522,13 +2522,13 @@ c. de partijen belet worden maatregelen te nemen tot uitvoering van de verplicht
 
 ####BETALINGS- EN KAPITAALVERKEER
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  144  
 
 ####Lopende betalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen verbinden zich ertoe overeenkomstig artikel VIII van de Statuten van het Internationaal Monetair Fonds toe te staan dat alle betalingen en overboekingen op de lopende rekening van de betalingsbalans tussen de partijen worden verricht in vrij converteerbare valuta, en geen beperkingen dienaangaande vast te stellen. 
 
@@ -2536,7 +2536,7 @@ De partijen verbinden zich ertoe overeenkomstig artikel VIII van de Statuten van
 
 ####Kapitaalverkeer
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Met betrekking tot de verrichtingen op de kapitaalrekening en de financiële rekening van de betalingsbalans waarborgen de partijen vanaf de inwerkingtreding van deze overeenkomst het vrije verkeer van kapitaal met betrekking tot directe investeringen<sup> 35) Met inbegrip van de verwerving van onroerend goed in verband met directe investeringen. </sup> welke in overeenstemming met de wetten van het gastland zijn, en investeringen in overeenstemming met hoofdstuk 6 (Vestiging, handel in diensten en elektronische handel) van titel IV van deze overeenkomst, alsook de liquidatie of de repatriëring van die investeringen en van alle opbrengsten daarvan.   
 2.  Wat de andere verrichtingen op de kapitaalrekening en de financiële rekening van de betalingsbalans betreft, waarborgen de partijen vanaf de inwerkingtreding van deze overeenkomst en onverminderd de overige bepalingen van deze overeenkomst: 
@@ -2551,7 +2551,7 @@ b. het vrije verkeer van kapitaal in verband met beleggingen, leningen en kredie
 
 ####Vrijwaringsmaatregelen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Onverminderd hetgeen elders in deze overeenkomst is bepaald, kunnen de betrokken partijen, wanneer in uitzonderlijke omstandigheden betalingen of kapitaalbewegingen tussen de partijen ernstige moeilijkheden veroorzaken of dreigen te veroorzaken voor het wisselkoersbeleid of het monetair beleid<sup> 36) Met inbegrip van ernstige moeilijkheden met betrekking tot de betalingsbalans. </sup> in een of meer lidstaten van de Europese Unie of in Oekraïne, voor een periode van ten hoogste zes maanden strikt noodzakelijke vrijwaringsmaatregelen ten aanzien van kapitaalbewegingen tussen de EU-partij en Oekraïne treffen. De partij die de vrijwaringsmaatregelen neemt, stelt de andere partij daarvan onmiddellijk in kennis en legt zo spoedig mogelijk een tijdschema voor de opheffing van deze maatregelen voor. 
 
@@ -2559,7 +2559,7 @@ Onverminderd hetgeen elders in deze overeenkomst is bepaald, kunnen de betrokken
 
 ####Bepalingen inzake bevordering van het verkeer en verdere liberalisering
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen plegen overleg teneinde hun onderlinge kapitaalverkeer te vergemakkelijken met het oog op de verwezenlijking van de doelstellingen van deze overeenkomst.   
 2.  Gedurende de eerste vier jaar volgend op de inwerkingtreding van deze overeenkomst nemen de partijen maatregelen met het oog op de totstandbrenging van de voorwaarden die nodig zijn voor het verder geleidelijk toepasselijk maken van de voorschriften van de EU-partij op het vrije verkeer van kapitaal.   
@@ -2569,13 +2569,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####OVERHEIDSOPDRACHTEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  148  
 
 ####Doelstellingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen erkennen de bijdrage van transparante, niet-discriminerende, op concurrentie gebaseerde en openbare aanbestedingen aan een duurzame economische ontwikkeling en stellen zich een effectieve, wederzijdse en geleidelijke openstelling van hun respectieve markten voor overheidsopdrachten ten doel. Dit hoofdstuk voorziet in wederzijdse toegang tot markten voor overheidsopdrachten op basis van het beginsel van nationale behandeling op nationaal, regionaal en lokaal niveau voor overheidsopdrachten en concessies in zowel de traditionele als in de nutssector. Het voorziet in de geleidelijke aanpassing van de wetgeving inzake overheidsopdrachten in Oekraïne aan het EU-acquis inzake overheidsopdrachten, en in een institutionele hervorming alsmede de inrichting van een doeltreffend systeem voor overheidsopdrachten op basis van de voor overheidsopdrachten in de EU-partij geldende beginselen, en de voorwaarden en definities van Richtlijn 2004/18/EG van het Europees Parlement en de Raad van 31 maart 2004 betreffende de coördinatie van de procedures voor het plaatsen van overheidsopdrachten voor werken, leveringen en diensten, hierna „Richtlijn 2004/18/EG” genoemd, en van Richtlijn 2004/17/EG van het Europees Parlement en de Raad van 31 maart 2004 houdende coördinatie van de procedures voor het plaatsen van opdrachten in de sectoren water- en energievoorziening, vervoer en postdiensten, hierna „Richtlijn 2004/17/EG” genoemd. 
 
@@ -2583,7 +2583,7 @@ De partijen erkennen de bijdrage van transparante, niet-discriminerende, op conc
 
 ####Toepassingsgebied
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Dit hoofdstuk is van toepassing op werken, leveringen en diensten in de nutssector en op concessies voor werken en diensten.   
 2.  Dit hoofdstuk is van toepassing op aanbestedende diensten en aanbestedende entiteiten, hierna „aanbestedende diensten” genoemd, die voldoen aan de definities van het EU-acquis op het gebied van overheidsopdrachten. Het heeft tevens betrekking op publiekrechtelijke instellingen en openbare nutsbedrijven, zoals overheidsondernemingen die de desbetreffende activiteiten verrichten en particuliere ondernemingen die op basis van bijzondere en exclusieve rechten actief zijn in de nutssector.   
@@ -2593,7 +2593,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Institutionele achtergrond
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen brengen een passend institutioneel kader tot stand, alsmede de mechanismen die nodig zijn voor de juiste werking van het systeem voor overheidsopdrachten en de implementatie van de desbetreffende beginselen, en handhaven deze.   
 2.  In het kader van de institutionele hervorming wijst Oekraïne in het bijzonder de volgende organen aan: 
@@ -2607,7 +2607,7 @@ b. een onpartijdig en onafhankelijk orgaan dat is belast met de beoordeling van 
 
 ####Basisnormen voor de gunning van opdrachten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Uiterlijk 6 maanden na de inwerkingtreding van deze overeenkomst voldoen de partijen aan een serie basisnormen voor de gunning van alle opdrachten, zoals voorgeschreven door de leden 2 tot en met 15 van dit artikel. Deze basisnormen vloeien rechtstreeks voort uit de voorschriften en beginselen voor overheidsopdrachten als vervat in het EU-acquis voor overheidsopdrachten, met inbegrip van de beginselen van non-discriminatie, gelijke behandeling, transparantie en evenredigheid.  
 ###Publicatie
@@ -2643,7 +2643,7 @@ b. de selectie enkel op basis van objectieve criteria plaatsvindt, zoals ervarin
 
 ####Planning van aanpassing van wetgeving
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Vóór de aanvang van de aanpassing van wetgeving dient Oekraïne bij het Handelscomité een uitgebreid stappenplan voor de tenuitvoerlegging van dit hoofdstuk in, met tijdschema's en termijnen voor alle hervormingen in termen van aanpassing van wetgeving en institutionele capaciteitsopbouw. Dit stappenplan moet in overeenstemming zijn met de in bijlage XXI-A bij deze overeenkomst vermelde fasen en tijdschema's.   
 2.  Het stappenplan omvat alle aspecten van de hervorming en het algemene rechtskader voor de tenuitvoerlegging van activiteiten op het gebied van overheidsopdrachten, met name: aanpassing van wetgeving op het gebied van overheidsopdrachten, opdrachten in de nutssector, concessies voor werken en evaluatieprocedures, versterking van de administratieve capaciteit op alle niveaus, met inbegrip van beroepsinstanties en handhavingsmechanismen.   
@@ -2653,7 +2653,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Aanpassing van wetgeving
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Oekraïne draagt er zorg voor dat zijn bestaande en toekomstige wetgeving inzake overheidsopdrachten geleidelijk in overeenstemming met het EU-acquis op dit gebied worden gebracht.   
 2.  Aanpassing van wetgeving geschiedt in opeenvolgende fasen als vermeld in de bijlagen XXI-A, XXI-B tot en met XXI-E, XXI-G, XXI-H, en XXI-J bij deze overeenkomst. In de bijlagen XXI-F en XXI-I bij deze overeenkomst worden niet-bindende elementen vermeld die niet in nationaal recht hoeven te worden omgezet; de bijlagen XXI-K tot en met N bij deze overeenkomst bevatten elementen van het EU-acquis die buiten het bereik van de aanpassing van wetgeving vallen. Bij dit proces wordt naar behoren rekening gehouden met de desbetreffende jurisprudentie van het Hof van Justitie van de Europese Unie en met de door de Europese Commissie vastgestelde uitvoeringsmaatregelen, alsmede met, indien nodig, wijzigingen van het EU-acquis die zich tussentijds voordoen. De tenuitvoerlegging van elke fase wordt geëvalueerd door het Handelscomité, en na een positieve beoordeling door dit comité gekoppeld aan wederzijdse verlening van markttoegang als uiteengezet in bijlage XXI-A bij deze overeenkomst. De Europese Commissie stelt Oekraïne onverwijld in kennis van wijzigingen van het EU-acquis. Zij verstrekt passend advies en passende technische bijstand met het oog op de implementatie van die wijzigingen.   
@@ -2664,7 +2664,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Markttoegang
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen komen overeen dat zij hun respectieve markten geleidelijk en gelijktijdig daadwerkelijk en wederzijds zullen openstellen Tijdens het proces van aanpassing van wetgeving wordt de mate van de wederzijds verleende markttoegang gekoppeld aan de in dit proces geboekte vooruitgang, zoals voorgeschreven in bijlage XXI-A bij deze overeenkomst.   
 2.  Het besluit om over te gaan tot een volgende fase van marktopenstelling wordt genomen op basis van een beoordeling van de kwaliteit van de aangenomen wetgeving alsmede van de praktische tenuitvoerlegging ervan. Dergelijke beoordelingen worden op regelmatige basis door het Handelscomité gedaan.   
@@ -2676,7 +2676,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Informatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen waarborgen dat de aanbestedende diensten en de marktdeelnemers goed zijn geïnformeerd over procedures voor het plaatsen van overheidsopdrachten, onder meer door bekendmaking van alle wetgeving en administratieve uitspraken ter zake.   
 2.  De partijen waarborgen dat de informatie over mogelijkheden wat overheidsopdrachten betreft, daadwerkelijk wordt verspreid.  
@@ -2685,7 +2685,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Samenwerking
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen versterken hun samenwerking door de uitwisseling van ervaring en informatie over hun beste praktijken en regelgevingskaders.   
 2.  De EU-partij bevordert de tenuitvoerlegging van dit hoofdstuk, onder meer door technische bijstand in voorkomend geval. In overeenstemming met titel VI inzake samenwerking op financieel gebied (Samenwerking op financieel gebied en antifraudebepalingen) van deze overeenkomst, worden specifieke besluiten inzake financiële bijstand genomen door middel van de desbetreffende EU-mechanismen en -instrumenten voor het verlenen van financiële bijstand.   
@@ -2695,19 +2695,19 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####INTELLECTUELE EIGENDOM
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### AFDELING  1  
 
 ####ALGEMENE BEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  157  
 
 ####Doelstellingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De doelstellingen van dit hoofdstuk zijn: 
 
@@ -2719,7 +2719,7 @@ b. het bereiken van een adequaat en doeltreffend beschermings- en handhavingsniv
 
 ####Aard en toepassingsgebied van de verplichtingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen waarborgen een adequate en doeltreffende tenuitvoerlegging van de internationale verdragen inzake intellectuele eigendom waarbij zij partij zijn, met inbegrip van de Overeenkomst inzake de handelsaspecten van de intellectuele eigendom, die is opgenomen in bijlage 1C bij de WTO-overeenkomst, hierna de „TRIPs-overeenkomst” genoemd. De bepalingen van dit hoofdstuk vormen een aanvulling op en specificatie van de tussen de partijen geldende rechten en verplichtingen uit hoofde van de TRIPs-overeenkomst en andere internationale verdragen op het gebied van intellectuele eigendom.   
 2.  In het kader van deze overeenkomst omvatten intellectuele-eigendomsrechten het volgende: auteursrechten, met inbegrip van de auteursrechten op computerprogramma's en databanken, en naburige rechten, rechten in verband met octrooien, met inbegrip van octrooien voor biotechnologische uitvindingen, handelsmerken, handelsnamen voor zover deze in het betrokken interne recht als uitsluitende eigendomsrechten worden beschermd, tekeningen en modellen, schema's (topografieën) van geïntegreerde schakelingen, geografische aanduidingen, met inbegrip van benamingen van oorsprong, aanduidingen van herkomst, kwekersrechten, alsmede bescherming van niet openbaargemaakte informatie en bescherming tegen oneerlijke mededinging, als bedoeld in artikel 10 bis van het Verdrag van Parijs tot bescherming van de industriële eigendom (1967), hierna het „Verdrag van Parijs” genoemd.  
@@ -2728,7 +2728,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Overdracht van technologie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen komen overeen standpunten en informatie uit te wisselen over hun interne en internationale praktijk en beleid met betrekking tot de overdracht van technologie. Dit omvat in het bijzonder maatregelen om informatiestromen, zakelijke partnerschappen, de verlening van licenties en sublicenties op vrijwillige basis te vergemakkelijken. Er wordt bijzondere aandacht besteed aan de voorwaarden die nodig zijn voor het scheppen van een passend gunstig klimaat voor technologieoverdracht in de gastlanden, met inbegrip van kwesties als het desbetreffende juridische kader en de ontwikkeling van menselijk kapitaal.   
 2.  De partijen waarborgen dat de legitieme belangen van de houders van intellectuele-eigendomsrechten worden beschermd.  
@@ -2737,7 +2737,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Uitputting
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Het staat de partijen vrij hun eigen regeling voor de uitputting van intellectuele-eigendomsrechten vast te stellen, met inachtneming van de TRIPs-overeenkomst. 
 
@@ -2745,19 +2745,19 @@ Het staat de partijen vrij hun eigen regeling voor de uitputting van intellectue
 
 ####NORMEN BETREFFENDE INTELLECTUELE-EIGENDOMSRECHTEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### ONDERAFDELING  1  
 
 ####AUTEURSRECHT EN NABURIGE RECHTEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  161  
 
 ####Geboden bescherming
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen leven de volgende bepalingen na: 
 
@@ -2773,7 +2773,7 @@ d. de artikelen 1 tot en met 23 van het Verdrag van de WIPO inzake uitvoeringen 
 
 ####Duur van de rechten van de auteur
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Het auteursrecht op werken van letterkunde en kunst in de zin van artikel 2 van de Berner Conventie geldt gedurende het leven van de auteur en tot 70 jaar na zijn/haar dood, ongeacht op welk tijdstip het werk op geoorloofde wijze voor het publiek toegankelijk is gemaakt.   
 2.  In geval van een gemeenschappelijk auteursrecht op een zelfde werk wordt de in lid 1 vastgestelde termijn berekend vanaf de dag van overlijden van de langstlevende auteur.   
@@ -2785,7 +2785,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Duur van de bescherming van cinematografische of audiovisuele werken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De hoofdregisseur van een cinematografisch of audiovisueel werk wordt als de auteur of een van de auteurs beschouwd. Het staat de partijen vrij andere personen als coauteur aan te wijzen.   
 2.  De beschermingstermijn van een cinematografisch of audiovisueel werk bedraagt ten minste 70 jaar na de dood van de langstlevende van een groep van bepaalde personen, ongeacht of zij al dan niet als coauteur zijn aangewezen. Deze groep omvat ten minste de hoofdregisseur, de scenarioschrijver, de auteur van de dialogen en de componist van de muziek die specifiek voor gebruik in het cinematografische of audiovisuele werk is gemaakt.  
@@ -2794,7 +2794,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Duur van de naburige rechten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De rechten van uitvoerende kunstenaars vervallen niet eerder dan 50 jaar na de datum van de uitvoering. Indien echter binnen deze termijn een vastlegging van de uitvoering op geoorloofde wijze gepubliceerd of op geoorloofde wijze aan het publiek meegedeeld is, vervallen de rechten niet eerder dan 50 jaar na de datum van die eerste publicatie of, ingeval deze eerder valt, die eerste mededeling aan het publiek.   
 2.  De rechten van producenten van fonogrammen vervallen niet eerder dan 50 jaar na de vastlegging. Indien het fonogram echter binnen deze termijn op geoorloofde wijze gepubliceerd is, vervallen de rechten niet eerder dan 50 jaar na de datum van die eerste publicatie. Indien binnen de in de eerste zin bedoelde termijn geen geoorloofde publicatie heeft plaatsgevonden en het fonogram tijdens deze termijn op geoorloofde wijze aan het publiek is medegedeeld, vervallen de rechten 50 jaar na de datum van de eerste geoorloofde mededeling aan het publiek.   
@@ -2805,7 +2805,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Bescherming van niet eerder gepubliceerde werken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Eenieder die na het verstrijken van de auteursrechtelijke bescherming een niet eerder gepubliceerd werk voor het eerst op geoorloofde wijze publiceert of op geoorloofde wijze aan het publiek meedeelt, geniet een bescherming die gelijkwaardig is met de vermogensrechten van de auteur. De beschermingstermijn van deze rechten bedraagt 25 jaar vanaf het tijdstip waarop het werk voor het eerst op geoorloofde wijze gepubliceerd of op geoorloofde wijze aan het publiek meegedeeld is. 
 
@@ -2813,7 +2813,7 @@ Eenieder die na het verstrijken van de auteursrechtelijke bescherming een niet e
 
 ####Kritische en wetenschappelijke publicaties
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen kunnen tevens kritische en wetenschappelijke publicaties van publiek domein geworden werken beschermen. De beschermingstermijn van die rechten bedraagt maximaal 30 jaar vanaf het tijdstip waarop de publicatie voor het eerst op geoorloofde wijze gepubliceerd is. 
 
@@ -2821,7 +2821,7 @@ De partijen kunnen tevens kritische en wetenschappelijke publicaties van publiek
 
 ####Bescherming van foto's
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Foto's die oorspronkelijk zijn in de zin dat zij een eigen schepping van de auteur zijn, worden overeenkomstig artikel 162 van deze overeenkomst beschermd. De partijen kunnen voorzien in de bescherming van andere foto's. 
 
@@ -2829,7 +2829,7 @@ Foto's die oorspronkelijk zijn in de zin dat zij een eigen schepping van de aute
 
 ####Samenwerking bij het collectieve beheer van rechten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen erkennen de noodzaak van afspraken tussen hun respectieve auteursrechtenorganisaties teneinde de toegang tot en de levering van inhoud tussen de grondgebieden van de partijen te vergemakkelijken en de wederzijdse overdracht van royalty's voor het gebruik van werken of ander beschermd materiaal van de partijen te waarborgen. De partijen erkennen dat hun respectieve auteursrechtenorganisaties een hoog niveau van rationalisatie en transparantie met betrekking tot de uitvoering van hun taken moeten bereiken. 
 
@@ -2837,7 +2837,7 @@ De partijen erkennen de noodzaak van afspraken tussen hun respectieve auteursrec
 
 ####Recht met betrekking tot vastlegging
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Voor de toepassing van dit artikel wordt onder vastlegging verstaan de opname van geluiden en beelden ,of van de weergave daarvan, door middel waarvan deze kunnen worden waargenomen, gereproduceerd of medegedeeld door middel van een toestel.   
 2.  De partijen verlenen uitvoerende kunstenaars het exclusieve recht hun vastgelegde uitvoeringen toe te staan of te verbieden.   
@@ -2848,7 +2848,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Uitzending en mededeling aan het publiek
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Voor de toepassing van dit artikel wordt verstaan onder: 
 
@@ -2863,7 +2863,7 @@ b. „mededeling aan het publiek”: de overdracht aan het publiek door een medi
 
 ####Distributierecht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen verlenen aan auteurs wat hun oorspronkelijke werk of kopieën daarvan betreft, het uitsluitende recht op distributie aan het publiek door verkoop of anderszins.   
 2.  De partijen verlenen het uitsluitende recht om de onder a) tot en met d) van dit lid genoemde zaken, met inbegrip van kopieën ervan, door verkoop of anderszins ter beschikking van het publiek te stellen, ten behoeve van: 
@@ -2880,7 +2880,7 @@ d. omroeporganisaties, met betrekking tot vastleggingen van hun uitzendingen, al
 
 ####Beperkingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen kunnen voorzien in beperkingen van de in de artikelen 169, 170 en 171 van deze overeenkomst bedoelde rechten met betrekking tot: 
 
@@ -2898,7 +2898,7 @@ d. gebruik uitsluitend ten behoeve van onderwijs of wetenschappelijk onderzoek.
 
 ####Recht om te reproduceren
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen voorzien in het uitsluitende recht, de directe of indirecte, tijdelijke of duurzame, volledige of gedeeltelijke reproductie, met welke middelen en in welke vorm ook, toe te staan of te verbieden, ten behoeve van: 
 
@@ -2916,7 +2916,7 @@ e. omroeporganisaties, met betrekking tot de vastleggingen van hun uitzendingen,
 
 ####Recht van mededeling van werken aan het publiek en recht van beschikbaarstelling van ander materiaal voor het publiek
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen voorzien in het uitsluitende recht van auteurs, de mededeling van hun werken aan het publiek, per draad of draadloos, met inbegrip van de beschikbaarstelling van hun werken voor het publiek op zodanige wijze dat deze voor leden van het publiek op een door hen individueel gekozen plaats en tijd toegankelijk zijn, toe te staan of te verbieden.   
 2.  De partijen voorzien in het uitsluitende recht, de beschikbaarstelling van werken voor het publiek, per draad of draadloos, op zodanige wijze dat de leden van het publiek op een door hen individueel gekozen plaats en tijd toegang ertoe hebben, toe te staan of te verbieden, ten behoeve van: 
@@ -2934,7 +2934,7 @@ d. omroeporganisaties, met betrekking tot de vastleggingen van hun uitzendingen,
 
 ####Beperkingen en restricties
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen voorzien erin dat tijdelijke reproductiehandelingen als bedoeld in artikel 173 van deze overeenkomst, die van voorbijgaande of incidentele aard zijn, en die een integraal en essentieel onderdeel vormen van een technisch procedé en die worden toegepast met als enig doel: 
 
@@ -2948,7 +2948,7 @@ b. een geoorloofd gebruik   van een werk of ander materiaal mogelijk te maken, e
 
 ####Bescherming van technische voorzieningen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen voorzien in een passende rechtsbescherming tegen het omzeilen van doeltreffende technische voorzieningen door een persoon die weet of redelijkerwijs behoort te weten dat hij/zij aldus handelt.   
 2.  De partijen voorzien in een passende rechtsbescherming tegen de vervaardiging, invoer, distributie, verkoop, verhuur, reclame voor verkoop of verhuur, of het bezit voor commerciële doeleinden van inrichtingen, producten of onderdelen, of het verrichten van diensten die: 
@@ -2966,7 +2966,7 @@ c. in het bijzonder ontworpen, geproduceerd of aangepast zijn met het doel de om
 
 ####Bescherming van informatie over het beheer van rechten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen voorzien in een passende rechtsbescherming tegen eenieder die opzettelijk op ongeoorloofde wijze een van de volgende handelingen verricht: 
 
@@ -2979,7 +2979,7 @@ b. de verspreiding, de invoer ter verspreiding, de uitzending, de mededeling aan
 
 ####Houders van een recht en voorwerp van het verhuur- en uitleenrecht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen moeten voorzien in het uitsluitende recht verhuur en uitlening toe te staan of te verbieden, ten behoeve van: 
 
@@ -2999,7 +2999,7 @@ d. de producent van de eerste vastlegging van een film, met betrekking tot het o
 
 ####Niet voor afstand vatbaar recht op een billijke vergoeding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Wanneer een auteur of een uitvoerend kunstenaar zijn/haar verhuurrecht betreffende een fonogram of betreffende het origineel dan wel een kopie van een film heeft overgedragen of afgestaan aan een fonogram- of filmproducent, behoudt hij het recht op een billijke vergoeding voor de verhuur.   
 2.  Het recht op een billijke vergoeding voor verhuur is niet vatbaar voor afstand door de auteurs of uitvoerende kunstenaars.   
@@ -3010,7 +3010,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Bescherming van computerprogramma's
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen beschermen computerprogramma's auteursrechtelijk als werken van letterkunde in de zin van de Berner Conventie. Voor de toepassing van deze bepaling omvat de term „computerprogramma” ook het voorbereidend ontwerpmateriaal ervan.   
 2.  De bescherming overeenkomstig deze overeenkomst wordt verleend aan de uitdrukkingswijze, in welke vorm dan ook, van een computerprogramma. De ideeën en beginselen die aan enig element van een computerprogramma ten grondslag liggen, met inbegrip van de ideeën en beginselen die aan de interfaces daarvan ten grondslag liggen, worden krachtens deze overeenkomst niet auteursrechtelijk beschermd.   
@@ -3020,7 +3020,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Auteurschap van computerprogramma's
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De auteur van een computerprogramma is de natuurlijke persoon of de groep van natuurlijke personen die het programma gemaakt heeft of, indien de wetgeving van de partijen zulks toestaat, de rechtspersoon die door de nationale wetgeving als houder van een recht wordt aangemerkt.   
 2.  Indien een computerprogramma door een groep van natuurlijke personen gezamenlijk gemaakt is, zijn deze personen gezamenlijk houder van de uitsluitende rechten.   
@@ -3031,7 +3031,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Handelingen waarvoor toestemming nodig is in verband met computerprogramma's
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Onverminderd de artikelen 183 en 184 van deze overeenkomst omvatten de uitsluitende rechten van de houders van een recht in de zin van artikel 181 het recht de volgende handelingen te verrichten of het verrichten daarvan toe te staan: 
 
@@ -3045,7 +3045,7 @@ c. elke vorm van distributie, met inbegrip van het verhuren, van een oorspronkel
 
 ####Uitzonderingen voor handelingen waarvoor toestemming nodig is in verband met computerprogramma's
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Tenzij bij overeenkomst uitdrukkelijk anders bepaald is, is voor de in artikel 182, onder a) en b), van deze overeenkomst genoemde handelingen geen toestemming van de houder van een recht vereist wanneer deze handelingen voor de rechtmatige verkrijger noodzakelijk zijn om het computerprogramma te kunnen gebruiken voor het beoogde doel, onder meer om fouten te verbeteren.   
 2.  Het maken van een reservekopie door een rechtmatige gebruiker van het programma kan niet bij overeenkomst worden verhinderd indien die kopie voor bovenbedoeld gebruik nodig is.   
@@ -3055,7 +3055,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Decompilatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Er is geen toestemming van de houder van het recht vereist indien de reproductie van de code en de vertaling van de codevorm in de zin van artikel 182, onder a) en b), onmisbaar zijn om de informatie te verkrijgen die nodig is om de interoperabiliteit van een onafhankelijk gecreëerd computerprogramma met andere programma's tot stand te brengen, op voorwaarde dat: 
 
@@ -3077,7 +3077,7 @@ c. wordt gebruikt voor de ontwikkeling, productie of het in de handel brengen va
 
 ####Bescherming van databanken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Voor de toepassing van deze overeenkomst wordt onder „databank” verstaan een verzameling van werken, gegevens, of andere zelfstandige elementen, systematisch of methodisch geordend, en afzonderlijk met elektronische middelen of anderszins toegankelijk.   
 2.  De bescherming van deze overeenkomst geldt niet voor computerprogramma's die worden gebruikt bij het opzetten of de werking van met elektronische middelen toegankelijke databanken.  
@@ -3086,7 +3086,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Voorwerp van bescherming
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Volgens onderafdeling 1 worden databanken die door de keuze of de rangschikking van de inhoud een eigen schepping van de maker vormen, als zodanig door het auteursrecht beschermd. Om te bepalen of zij voor bescherming in aanmerking komen, mogen geen andere criteria worden aangelegd.   
 2.  De auteursrechtelijke bescherming van databanken in onderafdeling 1 betreft niet de inhoud van die databanken en laat de bestaande rechten op die inhoud onverlet.  
@@ -3095,7 +3095,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Auteurschap van databanken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De auteur van een databank is de natuurlijke persoon of de groep van natuurlijke personen die de databank heeft opgezet, of, indien toegestaan volgens de wetgeving van de partijen, de rechtspersoon die door de wetgeving als rechthebbende wordt aangemerkt.   
 2.  Indien collectieve werken door de wetgeving van de partijen worden erkend, is de auteursrechthebbende tevens houder van het vermogensrecht.   
@@ -3105,7 +3105,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Handelingen waarvoor toestemming nodig is
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De auteur van een databank heeft, met betrekking tot de voor auteursrechtelijke bescherming in aanmerking komende uitdrukkingsvorm van de databank, het uitsluitende recht de volgende handelingen te verrichten of toe te staan: 
 
@@ -3121,9 +3121,9 @@ e. elke reproductie, verspreiding, mededeling, voorstelling of demonstratie voor
 
 ### Artikel  189  
 
-####Uitzonderingen voor handelingen waarvoor toestemming nodig ismet betrekking tot databanken
+####Uitzonderingen voor handelingen waarvoor toestemming nodig is met betrekking tot databanken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De rechtmatige gebruiker van een databank of kopieën daarvan kan zonder toestemming van de auteur van de databank alle in artikel 188 van deze overeenkomst bedoelde handelingen verrichten die noodzakelijk zijn om toegang te krijgen tot en normaal gebruik te maken van de inhoud van de databank. Voor zover de rechtmatige gebruiker toestemming heeft om slechts een deel van de databank te gebruiken, geldt dit lid slechts voor dat deel.   
 2.  In de volgende gevallen kunnen de partijen de in artikel 188 bedoelde rechten beperken: 
@@ -3141,7 +3141,7 @@ d. onverminderd het bepaalde onder a), b) en c), wanneer het gaat om andere, doo
 
 ####Volgrecht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen stellen ten behoeve van de auteur van een oorspronkelijk kunstwerk een volgrecht in, dat wordt omschreven als een onvervreemdbaar recht waarvan geen afstand kan worden gedaan, zelfs niet op voorhand, om telkens wanneer het kunstwerk na de eerste overdracht door de auteur wordt doorverkocht, een op de doorverkoopprijs berekend recht te ontvangen.   
 2.  Het in lid 1 bedoelde recht is van toepassing op elke doorverkoop waarbij actoren uit de professionele kunsthandel, zoals veilinghuizen, kunstgalerijen of andere kunsthandelaren, betrokken zijn als verkoper, koper, of tussenpersoon.   
@@ -3152,7 +3152,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Satellietomroep
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Elk van beide partijen voorziet in een uitsluitend recht voor de auteur om communicatie van auteursrechtelijk beschermde werken per satelliet toe te staan. 
 
@@ -3160,7 +3160,7 @@ Elk van beide partijen voorziet in een uitsluitend recht voor de auteur om commu
 
 ####Doorgifte via de kabel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Elk van beide partijen draagt er zorg voor dat de doorgifte via de kabel van programma's uit de andere partij op hun grondgebied met inachtneming van de toepasselijke auteursrechten en naburige rechten geschiedt en plaatsvindt op grond van individuele of collectieve contractuele regelingen tussen de auteursrechthebbenden, de houders van naburige rechten en de kabelmaatschappijen. 
 
@@ -3168,13 +3168,13 @@ Elk van beide partijen draagt er zorg voor dat de doorgifte via de kabel van pro
 
 ####HANDELSMERKEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  193  
 
 ####Registratieprocedure
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De EU-partij en Oekraïne zorgen voor een systeem voor de registratie van handelsmerken waarbij de weigering van de desbetreffende handelsmerkinstantie om een handelsmerk te registreren, met redenen wordt omkleed. De redenen voor weigering worden schriftelijk aan de aanvrager medegedeeld; deze laatste heeft de mogelijkheid een dergelijke weigering aan te vechten en bij gerechtelijke autoriteiten beroep in te stellen tegen een definitieve weigering. De EU-partij en Oekraïne zien er ook op toe dat tegen de aanvraag van een handelsmerk verzet kan worden aangetekend. Een dergelijke verzetprocedure is contradictoir. De Europese Unie en Oekraïne voorzien in een openbaar toegankelijke elektronische databank voor aanvragen voor en de registratie van handelsmerken.   
 2.  De partijen voorzien in gronden van weigering of nietigheid van een registratie van een handelsmerk. Het volgende wordt niet geregistreerd of kan in geval van registratie nietig worden verklaard: 
@@ -3211,7 +3211,7 @@ b. wanneer het gelijk is aan of overeenstemt met het oudere handelsmerk en betre
 
 ####Algemeen bekende handelsmerken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen werken samen met het oog op een effectieve bescherming van bekende handelsmerken, zoals bedoeld in artikel 6 bis van het Verdrag van Parijs en artikel 16, leden 2 en 3, van de TRIPs-overeenkomst. 
 
@@ -3219,7 +3219,7 @@ De partijen werken samen met het oog op een effectieve bescherming van bekende h
 
 ####De rechten die zijn verbonden aan een handelsmerk
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Het geregistreerde handelsmerk geeft de houder een uitsluitend recht. Dit recht staat de houder toe iedere derde die niet zijn/haar toestemming hiertoe heeft verkregen, het gebruik van een teken in het economisch verkeer te verbieden: 
 
@@ -3231,7 +3231,7 @@ b. wanneer, doordat het teken dat gelijk is aan of vergelijkbaar is met het hand
 
 ####Uitzonderingen op de rechten verbonden aan een handelsmerk
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Elk van beide partijen voorziet in een eerlijk gebruik van beschrijvende termen, met inbegrip van geografische aanduidingen, als beperkte uitzondering op de rechten die verbonden zijn aan een handelsmerk, mits bij die beperkte uitzonderingen rekening wordt gehouden met de legitieme belangen van de houder van het handelsmerk en van derden. De partijen kunnen onder dezelfde voorwaarden in andere beperkte uitzonderingen voorzien.   
 2.  Het aan een handelsmerk verbonden recht staat de houder niet toe een derde te verbieden om in het economisch verkeer gebruik te maken van: 
@@ -3247,7 +3247,7 @@ c. het handelsmerk wanneer dat nodig is om het beoogde doel van een product of d
 
 ####Gebruik van handelsmerken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Een handelsmerk waarvan de houder vijf jaar na de afronding van de registratieprocedure geen normaal gebruik heeft gemaakt voor de waren of diensten waarvoor het met betrekking tot het desbetreffende grondgebied geregistreerd is, of waarvan gedurende een ononderbroken tijdvak van vijf jaar geen normaal gebruik is gemaakt, is vatbaar voor de sancties van deze onderafdeling, tenzij er geldige redenen zijn voor het niet gebruiken.   
 2.  Als gebruik in de zin van lid 1 wordt eveneens beschouwd: 
@@ -3261,7 +3261,7 @@ b. het aanbrengen van het handelsmerk op waren of de verpakking ervan, uitsluite
 
 ####Gronden van verval
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen zorgen ervoor dat een handelsmerk kan komen te vervallen wanneer het merk in een ononderbroken periode van vijf jaar niet normaal op het desbetreffende grondgebeid is gebruikt voor de waren of diensten waarvoor het ingeschreven is en er geen geldige reden is voor het niet gebruiken; vervallenverklaring van een handelsmerk kan echter niet worden gevorderd wanneer het merk in de periode tussen het verstrijken van de vijfjarige periode en de instelling van de vordering tot vervallenverklaring, voor het eerst of opnieuw normaal is gebruikt; begin van gebruik of hernieuwd gebruik binnen drie maanden vóór de instelling van de vordering tot vervallenverklaring, met dien verstande dat de periode van drie maanden ten vroegste na het verstrijken van de ononderbroken periode van vijf jaar van het niet gebruiken is ingegaan, wordt echter niet in aanmerking genomen indien de voorbereiding voor het begin van gebruik of het hernieuwd gebruik pas getroffen wordt nadat de merkhouder er kennis van heeft gekregen dat de vordering tot vervallenverklaring kan worden ingesteld.   
 2.  Een handelsmerk kan eveneens vervallen worden verklaard wanneer het, na de datum waarop het is ingeschreven: 
@@ -3274,7 +3274,7 @@ b. als gevolg van het gebruik dat ervan wordt gemaakt door de merkhouder of met 
 
 ####Gedeeltelijke weigering. vervallen- of nietigverklaring
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Indien een grond voor weigering van registratie, vervallen- of nietigverklaring van een handelsmerk slechts bestaat voor een deel van de waren of diensten waarvoor dit handelsmerk gedeponeerd of geregistreerd is, betreffen de weigering van registratie, de vervallen- of de nietigverklaring alleen die waren of diensten. 
 
@@ -3282,7 +3282,7 @@ Indien een grond voor weigering van registratie, vervallen- of nietigverklaring 
 
 ####Duur van de bescherming
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De duur van de bescherming die in de EU-partij en Oekraïne na de datum waarop een aanvraag is ingediend, wordt geboden, bedraagt ten minste tien jaar. De houder van een recht kan de beschermingsduur verlengen voor aansluitende perioden van 10 jaar. 
 
@@ -3290,13 +3290,13 @@ De duur van de bescherming die in de EU-partij en Oekraïne na de datum waarop e
 
 ####GEOGRAFISCHE AANDUIDINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  201  
 
 ####Toepassingsgebied van de onderafdeling
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Deze onderafdeling is van toepassing op de erkenning en bescherming van geografische aanduidingen die hun oorsprong hebben in het grondgebied van de partijen.   
 2.  Geografische aanduidingen uit een partij die door de andere partij moeten worden beschermd, vallen enkel onder deze overeenkomst indien zij binnen het toepassingsgebied van de in artikel 202 van deze overeenkomst bedoelde wetgeving vallen.  
@@ -3305,7 +3305,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Vaststelling van geografische aanduidingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Na de in bijlage XXII-A, deel A, bij deze overeenkomst vermelde wetgeving van Oekraïne te hebben onderzocht, concludeert de EU-partij dat de desbetreffende wetten in overeenstemming zijn met de in bijlage XXII-A, deel B, bij deze overeenkomst neergelegde elementen.   
 2.  Na de in bijlage XXII-A, deel A, bij deze overeenkomst vermelde wetgeving van de EU-partij te hebben onderzocht, concludeert Oekraïne dat de desbetreffende wetten in overeenstemming zijn met de in bijlage XXII-A, deel B, bij deze overeenkomst neergelegde elementen.   
@@ -3316,7 +3316,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Toevoeging van nieuwe geografische aanduidingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen komen overeen dat nieuwe te beschermen geografische aanduidingen in de bijlagen XXII-C en XXII-D bij deze overeenkomst kunnen worden opgenomen, in overeenstemming met artikel 211, lid 3, van deze overeenkomst na afronding van de bezwaarprocedure en na bestudering van de in artikel 202, leden 3 en 4, van deze overeenkomst bedoelde geografische aanduidingen naar tevredenheid van beide partijen.   
 2.  Van een partij wordt niet verlangd dat zij een geografische aanduiding beschermt, indien deze strijdig is met de naam van een planten- of een dierenras en de consument daardoor zou kunnen worden misleid met betrekking tot de werkelijke oorsprong van het product.  
@@ -3325,7 +3325,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Toepassingsgebied van de bescherming van geografische aanduidingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De in de bijlagen XXII-C en XXII-D bij deze overeenkomst vermelde geografische aanduidingen, met inbegrip van die welke worden toegevoegd ingevolge artikel 203 van deze overeenkomst, worden beschermd tegen: 
 
@@ -3346,7 +3346,7 @@ d. elke andere praktijk die de consument ten aanzien van de werkelijke oorsprong
 
 ####Gebruiksrecht van geografische aanduidingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Het staat elke entiteit vrij een ingevolge deze overeenkomst beschermde benaming voor landbouwproducten, levensmiddelen, gearomatiseerde wijnen of gedistilleerde dranken overeenkomstig de desbetreffende specificatie commercieel te gebruiken.   
 2.  Zodra een geografische aanduiding ingevolge deze overeenkomst is beschermd, hoeft het gebruik van een dergelijke benaming niet te worden geregistreerd door gebruikers en is dit evenmin onderworpen aan nadere verplichtingen.  
@@ -3355,7 +3355,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Relatie met handelsmerken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen weigeren de registratie of zorgen voor nietigverklaring van een handelsmerk in een van de in artikel 204, lid 1, van deze overeenkomst bedoelde situaties met betrekking tot een beschermde geografische aanduiding voor soortgelijke producten, mits een aanvraag om het handelsmerk te registreren wordt ingediend na de datum van het verzoek om registratie van de geografische aanduiding in het desbetreffende grondgebied.   
 2.  Voor de in artikel 202 van deze overeenkomst bedoelde geografische aanduidingen geldt als datum van indiening van een aanvraag voor registratie de datum waarop deze overeenkomst in werking treedt.   
@@ -3367,7 +3367,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Handhaving van bescherming
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen handhaven de in de artikelen 204 tot en met 206 van deze overeenkomst bedoelde bescherming door passend optreden van hun autoriteiten, onder meer aan de douanegrens. Ook handhaven zij die bescherming op verzoek van een belanghebbende. 
 
@@ -3375,7 +3375,7 @@ De partijen handhaven de in de artikelen 204 tot en met 206 van deze overeenkoms
 
 ####Tijdelijke maatregelen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Producten die vóór de inwerkingtreding van deze overeenkomst in overeenstemming met het interne recht zijn vervaardigd en zijn voorzien van een etiket, maar die niet aan de vereisten van deze overeenkomst voldoen, mogen worden verkocht totdat de voorraden zijn uitgeput.   
 2.  Producten die na de inwerkingtreding van deze overeenkomst maar vóór ommekomst van de in de leden 3 en 4 bedoelde termijnen, in overeenstemming met het interne recht zijn vervaardigd en van een etiket met de in de leden 3 en 4 vermelde geografische aanduidingen zijn voorzien, maar die niet voldoen aan de vereisten van deze overeenkomst, mogen op het grondgebied van de partij waaruit het product van oorsprong is, worden verkocht totdat de voorraden zijn uitgeput.   
@@ -3416,7 +3416,7 @@ c. Feta.
 
 ####Algemene bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De invoer, de uitvoer en het in de handel brengen van de in de artikelen 202 en 203 van deze overeenkomst bedoelde producten geschiedt in overeenstemming met de wet- en regelgeving die van toepassing zijn op het grondgebied van de partij waar de producten in de handel worden gebracht.   
 2.  Aangelegenheden die zich naar aanleiding van productspecificaties van geregistreerde geografische aanduidingen voordoen, worden door het krachtens artikel 211 van deze overeenkomst opgerichte subcomité geografische aanduidingen behandeld.   
@@ -3427,7 +3427,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Samenwerking en transparantie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen onderhouden hetzij rechtstreeks, hetzij via het krachtens artikel 211 van deze overeenkomst ingestelde subcomité geografische aanduidingen, contact over alle zaken betreffende de uitvoering en het functioneren van deze overeenkomst. Met name kan een partij de andere partij verzoeken om informatie betreffende productspecificaties en de wijziging daarvan, alsook betreffende contactpunten voor controlebepalingen.   
 2.  Elke partij kan de productspecificaties of een samenvatting daarvan alsmede de contactpunten voor controlebepalingen die betrekking hebben op krachtens deze overeenkomst beschermde geografische aanduidingen uit de andere partij, openbaar maken.  
@@ -3436,7 +3436,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Subcomité geografische aanduidingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Er wordt een subcomité voor geografische aanduidingen opgericht. Het subcomité brengt verslag over zijn activiteiten uit aan het Associatiecomité, in de samenstelling volgens artikel 465, lid 4, van deze overeenkomst. Het subcomité bestaat uit vertegenwoordigers van de EU en van Oekraïne, en heeft tot taak toezicht te houden op de ontwikkeling van deze overeenkomst en de samenwerking tussen de partijen en de dialoog over geografische aanduidingen te intensiveren.   
 2.  Het subcomité geografische aanduidingen besluit bij consensus. Het stelt zijn reglement van orde vast. Het komt bijeen op verzoek van een van beide partijen, afwisselend in de Europese Unie en in Oekraïne, op een tijdstip, plaats en wijze, waaronder eventueel per videoconferentie, die onderling door de partijen worden bepaald, doch uiterlijk binnen 90 dagen nadat het verzoek is gedaan.   
@@ -3458,13 +3458,13 @@ f. de uitwisseling van informatie over geografische aanduidingen met het oog op 
 
 ####TEKENINGEN EN MODELLEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  212  
 
 ####Definitie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Voor de toepassing van deze overeenkomst 
 
@@ -3478,7 +3478,7 @@ c. „samengesteld voortbrengsel”: een voortbrengsel dat bestaat uit meerdere 
 
 ####Vereisten voor bescherming
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De EU-partij en Oekraïne voorzien in de bescherming van onafhankelijk gecreëerde tekeningen en modellen die nieuw of oorspronkelijk zijn.   
 2.  Een tekening die of model dat is toegepast op of verwerkt in een voortbrengsel dat een onderdeel van een samengesteld voortbrengsel vormt, wordt slechts geacht nieuw te zijn en een eigen karakter te hebben: 
@@ -3509,7 +3509,7 @@ b. gedurende het tijdvak van twaalf maanden voorafgaande aan de datum van indien
 
 ####Duur van de bescherming
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Na inschrijving bieden de EU-partij en Oekraïne bescherming voor de duur van ten minste vijf jaar. De houder van het recht kan de beschermingsduur telkens met een of meer tijdvakken van vijf jaar laten verlengen, tot een totale termijn van 25 jaar vanaf de datum van indiening van de aanvraag.   
 2.  De duur van de in de EU-partij en Oekraïne geboden bescherming voor niet-ingeschreven tekeningen of modellen bedraagt ten minste drie jaar vanaf de datum waarop de tekening of het model op het grondgebied van een van de partijen voor het publiek beschikbaar werd gesteld.  
@@ -3518,7 +3518,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Nietigheid of weigering van inschrijving
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De EU-partij en Oekraïne kunnen alleen in de volgende gevallen bepalen dat de registratie van een tekening of model op materiële gronden wordt geweigerd of dat deze of dit op materiële gronden nietig wordt verklaard: 
 
@@ -3541,7 +3541,7 @@ g. indien de tekening of het model een oneigenlijk gebruik vormt van een van de 
 
 ####Verleende rechten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De houder van een beschermde tekening of een beschermd model heeft ten minste het uitsluitende recht om deze/dit te gebruiken en om derden die daartoe niet zijn/haar toestemming hebben, te beletten deze/dit te gebruiken, met name om producten waarin de tekening of het model is verwerkt of wordt toegepast, te vervaardigen, aan te bieden, in de handel te brengen, in of uit te voeren, te gebruiken of voor die doeleinden op te slaan. 
 
@@ -3549,7 +3549,7 @@ De houder van een beschermde tekening of een beschermd model heeft ten minste he
 
 ####Uitzonderingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De na inschrijving van door een tekening of model verleende rechten worden niet uitgeoefend met betrekking tot: 
 
@@ -3573,7 +3573,7 @@ c. de uitvoering van reparaties aan die vaartuigen.
 
 ####Verband met auteursrecht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Tekeningen of modellen die door een tekening- of modelrecht worden beschermd en overeenkomstig deze onderafdeling in een partij zijn ingeschreven, kunnen vanaf de datum waarop de tekening of het model is gecreëerd of in een vorm is vastgelegd, tevens beschermd worden krachtens de auteursrechtwetgeving van die partij. De mate waarin en de voorwaarden waaronder een dergelijke bescherming wordt verleend, met inbegrip van het vereiste oorspronkelijkheidsgehalte, wordt door elk van beide partijen vastgesteld. 
 
@@ -3581,13 +3581,13 @@ Tekeningen of modellen die door een tekening- of modelrecht worden beschermd en 
 
 ####OCTROOIEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  219  
 
 ####Octrooien en volksgezondheid
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen erkennen het belang van de Verklaring inzake de TRIPs-overeenkomst en de volksgezondheid, die op 14 november 2001 werd goedgekeurd door de ministeriële conferentie van de WTO, hierna de „Verklaring van Doha” genoemd. Voor de interpretatie en uitvoering van de rechten en verplichtingen uit hoofde van dit hoofdstuk waarborgen de partijen de consistentie met de Verklaring van Doha.   
 2.  De partijen dragen bij aan de uitvoering van het Besluit van de Algemene Raad van de WTO van 30 augustus 2003 over punt 6 van de Verklaring van de Doha en nemen dit in acht.  
@@ -3596,7 +3596,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Aanvullend beschermingscertificaat
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen erkennen dat geneesmiddelen en gewasbeschermingsmiddelen die op hun respectieve grondgebied door een octrooi worden beschermd, aan een administratieve vergunningsprocedure kunnen worden onderworpen voordat zij er in de handel mogen worden gebracht. Zij erkennen dat de termijn tussen de indiening van de octrooiaanvraag en de eerste toestemming om het product op hun respectieve grondgebied in de handel te brengen, zoals voor dat doel door de desbetreffende wetgeving omschreven, de termijn van daadwerkelijke bescherming uit hoofde van het octrooi kan bekorten.   
 2.  De partijen zorgen voor een verdere periode van bescherming voor geneesmiddelen of gewasbeschermingsmiddelen die door een octrooi worden beschermd en die aan een administratieve vergunningsprocedure waren onderworpen, waarbij die periode gelijk moet zijn aan de in lid 1 bedoelde periode, verminderd met vijf jaar.   
@@ -3606,7 +3606,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Bescherming van biotechnologische uitvindingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen beschermen biotechnologische uitvindingen onder nationaal octrooirecht. Voor zover nodig passen zij hun octrooirecht aan teneinde rekening te houden met de bepalingen van deze overeenkomst. Dit artikel laat de verplichtingen van de partijen ingevolge internationale overeenkomsten, met name de TRIPs-overeenkomst en het Verdrag inzake biodiversiteit van 1992, onverlet.   
 2.  Voor de toepassing van deze onderafdeling wordt verstaan onder: 
@@ -3651,7 +3651,7 @@ b. het plantenras of de uitvinding een belangrijke technische vooruitgang van aa
 
 ####Bescherming van gegevens die zijn ingediend ter verkrijging van een vergunning voor het in de handel brengen van een geneesmiddel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen voeren een alomvattend systeem in om te garanderen dat gegevens die zijn ingediend ter verkrijging van een vergunning voor het in de handel brengen van een geneesmiddel, geheim worden gehouden, niet openbaar worden gemaakt en dat de exclusiviteit ervan wordt gewaarborgd.   
 2.  Hiertoe zal een partij die verzoekt om indiening van testgegevens of studies inzake de veiligheid en werkzaamheid van een geneesmiddel voordat zij toestemming voor het in de handel brengen van dat product verleent, gedurende ten minste vijf jaar na de datum van de eerste toestemming in die partij andere aanvragers niet toestaan hetzelfde of een soortgelijk product in de handel te brengen, op basis van de toestemming voor het in de handel brengen die aan de aanvrager die de testgegevens of studies had ingediend, is verleend, tenzij laatstgenoemde hiermee heeft ingestemd. Gedurende die periode worden de voor de eerste toestemming ingediende gegevens of studies niet gebruikt ten behoeve van enige latere aanvrager die probeert toestemming voor het in de handel brengen van een geneesmiddel te verkrijgen, tenzij de eerste aanvrager hiermee heeft ingestemd.   
@@ -3661,7 +3661,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Gegevensbescherming met betrekking tot gewasbeschermingsmiddelen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen stellen veiligheids- en werkzaamheidsvereisten vast voordat zij vergunning verlenen voor het in de handel brengen van gewasbeschermingsmiddelen.   
 2.  De partijen kennen een tijdelijk recht toe aan de eigenaar van een test of studieverslag dat voor het eerst is ingediend ter verkrijging van een vergunning voor het in de handel brengen van een gewasbeschermingsmiddel. Gedurende die periode wordt het test- of studieverslag niet gebruikt ten behoeve van een andere persoon die een vergunning voor het in de handel brengen van een gewasbeschermingsmiddel tracht te verkrijgen, tenzij de eerste eigenaar hiermee uitdrukkelijk instemt. Dit recht wordt hierna „gegevensbescherming” genoemd.   
@@ -3679,13 +3679,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####TOPOGRAFIEËN VAN HALFGELEIDERPRODUCTEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  224  
 
 ####Definitie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Voor de toepassing van deze onderafdeling wordt verstaan onder: 
 
@@ -3699,7 +3699,7 @@ c. „commerciële exploitatie”: de verkoop, verhuur, leasing of het op andere
 
 ####Vereisten voor bescherming
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen beschermen topografieën van halfgeleiderproducten door middel van wettelijke bepalingen waarbij uitsluitende rechten worden verleend overeenkomstig het bepaalde in dit artikel.   
 2.  De partijen dragen slechts zorg voor de bescherming van de topografie van een halfgeleiderproduct voor zover deze voldoet aan de voorwaarden dat zij het voortbrengsel is van de eigen intellectuele inspanning van de maker en in de halfgeleiderindustrie niet algemeen bekend is. Indien de topografie van een halfgeleiderproduct bestaat uit in de halfgeleiderindustrie algemeen bekende bestanddelen, wordt zij slechts beschermd voor zover de combinatie van dergelijke bestanddelen, als één geheel bezien, aan bovengenoemde voorwaarden voldoet.  
@@ -3708,7 +3708,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Uitsluitende rechten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De in artikel 225, lid 1, van deze overeenkomst bedoelde uitsluitende rechten omvatten het recht om de volgende handelingen toe te staan of te verbieden: 
 
@@ -3723,7 +3723,7 @@ b. de commerciële exploitatie dan wel de invoer voor zodanige exploitatie van e
 
 ####Duur van de bescherming
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De uitsluitende rechten gelden ten minste tot tien jaar nadat de topografie voor het eerst ergens ter wereld commercieel is geëxploiteerd of, indien registratie een voorwaarde is voor het ontstaan of het voortbestaan van de uitsluitende rechten, tien jaar na het eerste van onderstaande tijdstippen: 
 
@@ -3735,13 +3735,13 @@ b. het verstrijken van het kalenderjaar waarin de registratieaanvraag in de voor
 
 ####OVERIGE BEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  228  
 
 ####Kwekersrechten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen werken samen om de bescherming van kwekersrechten in overeenstemming met het Internationaal Verdrag tot bescherming van kweekproducten van 1961, zoals herzien te Genève op 10 november 1972, 23 oktober 1978 en 19 maart 1991, met inbegrip van de facultatieve uitzondering op het kwekersrecht als bedoeld in artikel 15.2, lid 2, van dat verdrag, te bevorderen en te waarborgen. 
 
@@ -3749,7 +3749,7 @@ De partijen werken samen om de bescherming van kwekersrechten in overeenstemming
 
 ####Genetische hulpbronnen, traditionele kennis en folklore
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Met inachtneming van hun interne wetgeving zorgen de partijen voor de eerbiediging, bescherming en instandhouding van de kennis, vernieuwingen en gebruiken van autochtone en plaatselijke gemeenschappen waarop tradities zijn gebaseerd die van belang zijn voor het behoud en het duurzame gebruik van de biologische diversiteit en voor de bevordering van de toepassing daarvan op grotere schaal, met de deelname en instemming van de dragers van die kennis, vernieuwingen en gebruiken, alsmede voor de stimulering van een eerlijke verdeling van de voordelen die uit de toepassing van die kennis, vernieuwingen en gebruiken voortvloeien.   
 2.  De partijen erkennen het belang van passende maatregelen, onder voorbehoud van de nationale wetgeving, om de traditionele kennis te beschermen, en zij komen overeen te blijven werken aan de ontwikkeling van internationaal erkende sui generis modellen voor de wettelijke bescherming van traditionele kennis.   
@@ -3760,13 +3760,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####HANDHAVING VAN INTELLECTUELE-EIGENDOMSRECHTEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  230  
 
 ####Algemene verplichtingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Beide partijen herbevestigen hun verbintenissen op grond van de TRIPs-overeenkomst en in het bijzonder deel III daarvan, en voorzien in de volgende aanvullende maatregelen, procedures en rechtsmiddelen, die nodig zijn om te zorgen voor de handhaving van intellectuele-eigendomsrechten<sup> 38) Voor de toepassing van deze afdeling worden onder het begrip „intellectuele-eigendomsrechten” ten minste de volgende rechten verstaan: auteursrechten, naburige rechten; de *sui generis *rechten van de samensteller van een databank; rechten van de ontwerper van topografieën van halfgeleiderproducten; rechten op handelsmerken; rechten inzake tekeningen en modellen; octrooirechten, met inbegrip van rechten die van aanvullende beschermingscertificaten zijn afgeleid; geografische aanduidingen; rechten op gebruiksmodellen; kwekersrechten; handelsnamen voor zover deze beschermd worden als exclusieve eigendomsrechten in de desbetreffende interne wetgeving. </sup>. Deze maatregelen, procedures en rechtsmiddelen dienen eerlijk en billijk te zijn, mogen niet onnodig ingewikkeld of duur zijn en mogen geen onredelijke termijnen of nodeloze vertragingen inhouden.   
 2.  Deze maatregelen en rechtsmiddelen, die ook doeltreffend, evenredig en afschrikkend moeten zijn, worden zodanig toegepast dat het scheppen van belemmeringen voor rechtmatig handelsverkeer wordt vermeden en dat wordt voorzien in waarborgen tegen misbruik ervan.  
@@ -3775,7 +3775,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Rechthebbenden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen erkennen dat de volgende personen gerechtigd zijn te verzoeken om toepassing van de in deze afdeling en in deel III van de TRIPs-overeenkomst bedoelde maatregelen, procedures en rechtsmiddelen: 
 
@@ -3790,13 +3790,13 @@ c. organisaties voor de verdediging van beroepsbelangen die officieel erkend zij
 
 ####CIVIELE MAATREGELEN, PROCEDURES EN RECHTSMIDDELEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  232  
 
 ####Vermoeden van auteurschap of houderschap van rechten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen erkennen dat voor de toepassing van de in deze overeenkomst bedoelde maatregelen, procedures en rechtsmiddelen: 
 
@@ -3808,7 +3808,7 @@ b. het bepaalde onder a) van dit lid van overeenkomstige toepassing is op de hou
 
 ####Bewijsmateriaal
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Wanneer een partij redelijkerwijs beschikbaar bewijsmateriaal heeft overgelegd tot staving van haar beweringen, en bij de onderbouwing van haar stellingen bewijsmateriaal heeft gespecificeerd dat zich in de macht van de tegenpartij bevindt, zijn de rechterlijke instanties van de partijen bevoegd te gelasten dat de tegenpartij dit bewijs overlegt, mits de bescherming van vertrouwelijke gegevens wordt gewaarborgd.   
 2.  Onder dezelfde voorwaarden treffen de partijen de nodige maatregelen teneinde de bevoegde rechterlijke instanties in staat te stellen om, in geval van inbreuk op een intellectuele-eigendomsrecht op commerciële schaal, in voorkomend geval desgevraagd overlegging te kunnen gelasten van bancaire, financiële of handelsdocumenten die zich in de macht van de tegenpartij bevinden, mits de bescherming van vertrouwelijke informatie wordt gewaarborgd.  
@@ -3817,7 +3817,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Maatregelen ter bescherming van bewijsmateriaal
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen zorgen ervoor dat de bevoegde rechterlijke instanties, al voordat een bodemprocedure is begonnen, op verzoek van een partij die redelijkerwijs beschikbaar bewijsmateriaal heeft overgelegd tot staving van de stelling dat er inbreuk op haar intellectuele-eigendomsrecht is gemaakt of zal worden gemaakt, onmiddellijk afdoende voorlopige maatregelen kunnen gelasten om het relevante bewijsmateriaal in verband met de vermeende inbreuk te beschermen, mits de bescherming van vertrouwelijke informatie wordt gewaarborgd. Tot deze maatregelen kunnen behoren de gedetailleerde beschrijving, met of zonder monsterneming, dan wel de fysieke inbeslagneming van de litigieuze goederen en, in voorkomend geval, de bij de productie en/of distributie daarvan gebruikte materialen en werktuigen en de desbetreffende documenten. Die maatregelen worden met name genomen, zo nodig zonder dat de wederpartij wordt gehoord, wanneer het aannemelijk is dat uitstel de houder van het recht onherstelbare schade zal berokkenen, of indien er een aantoonbaar gevaar bestaat dat bewijsmateriaal wordt vernietigd.   
 2.  De partijen dragen er zorg voor dat de maatregelen ter bescherming van bewijsmateriaal op verzoek van de verweerder worden herroepen of anderszins ophouden gevolg te hebben, onverminderd de schadevergoeding die kan worden geëist, indien de eiser niet binnen een redelijke termijn bij de bevoegde rechterlijke instantie een bodemprocedure aanhangig heeft gemaakt.  
@@ -3826,7 +3826,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Recht op informatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen dragen er zorg voor dat de bevoegde rechterlijke instanties in het kader van procedures inzake inbreuk op een intellectuele-eigendomsrecht naar aanleiding van een met redenen omkleed en evenredig verzoek van de eiser kunnen gelasten dat informatie over de oorsprong en het distributienetwerk van de goederen of diensten die inbreuk op het intellectuele-eigendomsrecht maken, wordt verstrekt door de inbreukmaker en/of iedere andere persoon die: 
 
@@ -3858,7 +3858,7 @@ e. de bescherming van de vertrouwelijkheid van informatiebronnen of de verwerkin
 
 ####Voorlopige en conservatoire maatregelen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen zien erop toe dat de rechterlijke instanties, op verzoek van de eiser, een voorlopig bevel kunnen uitvaardigen dat bedoeld is om een dreigende inbreuk op een intellectuele-eigendomsrecht te voorkomen of om, indien wenselijk en indien het interne recht hierin voorziet op straffe van een dwangsom, tijdelijk voortzetting van de vermeende inbreuk op dat intellectuele-eigendomsrecht te verbieden, dan wel om aan deze voortzetting de voorwaarde te verbinden dat voor schadeloosstelling van de rechthebbende zekerheid wordt gesteld. Onder dezelfde voorwaarden kan een voorlopig bevel worden uitgevaardigd tegen een tussenpersoon wiens diensten door een derde worden gebruikt om inbreuk te maken op een intellectuele-eigendomsrecht.   
 2.  Een voorlopig bevel kan ook worden uitgevaardigd om de inbeslagneming of afgifte te kunnen gelasten van goederen waarvan wordt vermoed dat zij inbreuk maken op een intellectuele-eigendomsrecht, teneinde te voorkomen dat zij in het handelsverkeer worden gebracht of zich daarin bevinden.   
@@ -3871,7 +3871,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Corrigerende maatregelen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen zien erop toe dat de bevoegde rechterlijke instanties op verzoek van de eiser, onverminderd de aan de houder van het betrokken recht wegens de inbreuk verschuldigde schadevergoeding en zonder schadeloosstelling van welke aard ook, de terugroeping of de definitieve verwijdering uit het handelsverkeer dan wel de vernietiging kunnen gelasten van de goederen waarvan zij hebben vastgesteld dat zij inbreuk op een intellectuele-eigendomsrecht maken. In voorkomend geval kunnen de bevoegde rechterlijke instanties ook de vernietiging gelasten van materialen en werktuigen die hoofdzakelijk worden gebruikt voor het ontwerpen of vervaardigen van die goederen.   
 2.  De rechterlijke instanties gelasten dat deze maatregelen op kosten van de inbreukmaker worden uitgevoerd, tenzij bijzondere redenen dit beletten.  
@@ -3880,7 +3880,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Rechterlijke bevelen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen zorgen ervoor dat, wanneer bij rechterlijke uitspraak een inbreuk op een intellectuele-eigendomsrecht is vastgesteld, de rechterlijke instanties een bevel tot staking van de inbreuk tegen de inbreukmaker kunnen uitvaardigen. Wanneer het interne recht daarin voorziet, wordt bij niet-naleving van een rechterlijk bevel in deze in voorkomend geval een dwangsom tot naleving van het bevel opgelegd. De partijen zien er eveneens op toe dat houders van een recht kunnen verzoeken om een rechterlijk bevel tegen tussenpersonen waarvan diensten door een derde worden gebruikt om inbreuk op een intellectuele-eigendomsrecht te maken. 
 
@@ -3888,7 +3888,7 @@ De partijen zorgen ervoor dat, wanneer bij rechterlijke uitspraak een inbreuk op
 
 ####Alternatieve maatregelen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen kunnen bepalen dat de bevoegde rechterlijke instanties, in voorkomend geval en op verzoek van degene aan wie de in de artikelen 237 en/of 238 van deze overeenkomst vastgelegde maatregelen kunnen worden opgelegd, kunnen gelasten dat de maatregelen van de artikelen 237 en/of 238 van deze overeenkomst niet worden toegepast, maar in plaats daarvan aan de benadeelde partij een geldelijke schadeloosstelling wordt betaald wanneer de betrokkene zonder opzet en zonder nalatigheid heeft gehandeld, uitvoering van de maatregelen hem onevenredige schade zou berokkenen en geldelijke schadeloosstelling van de benadeelde partij redelijkerwijs toereikend lijkt. 
 
@@ -3896,7 +3896,7 @@ De partijen kunnen bepalen dat de bevoegde rechterlijke instanties, in voorkomen
 
 ####Schadevergoeding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen zien erop toe dat wanneer de rechterlijke instanties een schadevergoeding vaststellen: 
 
@@ -3909,7 +3909,7 @@ b. zij deze als alternatief voor het bepaalde onder a) van dit lid in voorkomend
 
 ####Aan de procedure verbonden kosten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen dragen er zorg voor dat, als algemene regel, redelijke en evenredige gerechtskosten en andere kosten die de in het gelijk gestelde partij heeft gemaakt, door de in het ongelijk gestelde partij zullen worden gedragen, tenzij de billijkheid zich daartegen verzet. 
 
@@ -3917,7 +3917,7 @@ De partijen dragen er zorg voor dat, als algemene regel, redelijke en evenredige
 
 ####Openbaarmaking van rechterlijke uitspraken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen dragen er zorg voor dat de rechterlijke instanties in rechtszaken wegens inbreuk op een intellectuele-eigendomsrecht op verzoek van de eiser kunnen gelasten dat op kosten van de inbreukmaker passende maatregelen tot verspreiding van de informatie over de uitspraak worden getroffen, met inbegrip van het ophangen en volledig of gedeeltelijk publiceren van de uitspraak. De partijen kunnen voorzien in andere bijkomende vormen van bekendmaking, zoals opvallende publiciteit, die passend zijn in de omstandigheden van het geval. 
 
@@ -3925,7 +3925,7 @@ De partijen dragen er zorg voor dat de rechterlijke instanties in rechtszaken we
 
 ####Administratieve procedures
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Voor zover een civiele corrigerende maatregel kan worden gelast als gevolg van een administratieve bodemprocedure, is deze procedure in overeenstemming met beginselen die in wezen gelijkwaardig zijn aan de beginselen die zijn neergelegd in de relevante bepalingen van deze onderafdeling. 
 
@@ -3933,13 +3933,13 @@ Voor zover een civiele corrigerende maatregel kan worden gelast als gevolg van e
 
 ####AANSPRAKELIJKHEID VAN AANBIEDERS VAN INTERMEDIAIRE DIENSTEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  244  
 
 ####Gebruik van diensten van intermediairs
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Beide partijen erkennen dat derden voor inbreuk makende activiteiten gebruik kunnen maken van de diensten van intermediairs. Om het vrije verkeer van informatiediensten te waarborgen en terzelfder tijd intellectuele-eigendomsrechten in de digitale omgeving te handhaven, voorziet elk van beide partijen in de in deze onderafdeling vervatte maatregelen met betrekking tot aanbieders van intermediaire diensten. Deze onderafdeling is alleen van toepassing op de aansprakelijkheid die kan voortvloeien uit inbreuken op het gebied van intellectuele-eigendomsrechten, met name auteursrechten<sup> 39) De in dit artikel vastgestelde vrijstellingen van aansprakelijkheid gelden uitsluitend voor gevallen waarin de activiteit van de aanbieder van diensten van de informatiemaatschappij beperkt is tot het technische proces van werking en het verschaffen van toegang tot een communicatienetwerk waarop door derden verstrekte informatie wordt doorgegeven of tijdelijk wordt opgeslagen, met als enig doel de doorgifte efficiënter te maken; deze activiteit heeft een louter technisch, automatisch en passief karakter, hetgeen inhoudt dat de aanbieder van diensten van de informatiemaatschappij noch kennis noch zeggenschap heeft over de informatie die wordt doorgegeven of opgeslagen </sup>. 
 
@@ -3947,7 +3947,7 @@ Beide partijen erkennen dat derden voor inbreuk makende activiteiten gebruik kun
 
 ####Aansprakelijkheid van aanbieders van intermediaire diensten: „mere conduit” (doorgeefluik)
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen zorgen ervoor dat, wanneer een dienst van de informatiemaatschappij bestaat in het doorgeven in een communicatienetwerk van door een afnemer van de dienst verstrekte informatie, of in het verschaffen van toegang tot een communicatienetwerk, de aanbieder van de dienst niet aansprakelijk is voor de doorgegeven informatie, op voorwaarde dat deze aanbieder: 
 
@@ -3963,7 +3963,7 @@ c. de doorgegeven informatie niet selecteert of wijzigt.
 
 ####Aansprakelijkheid van aanbieders van intermediaire diensten: „caching” (wijze van opslag)
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen zorgen ervoor dat, wanneer een dienst van de informatiemaatschappij bestaat in het doorgeven in een communicatienetwerk van door een afnemer van de dienst verstrekte informatie, de aanbieder van de dienst niet aansprakelijk is voor de automatische, tussentijdse en tijdelijke opslag van die informatie, wanneer deze opslag enkel geschiedt om latere doorgifte van die informatie aan andere afnemers van de dienst op hun verzoek doeltreffender te maken, op voorwaarde dat de aanbieder van de dienst: 
 
@@ -3982,7 +3982,7 @@ e. prompt handelt om de door hem opgeslagen informatie te verwijderen of de toeg
 
 ####Aansprakelijkheid van aanbieders van intermediaire diensten: „hosting”
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen zorgen ervoor dat, wanneer een dienst van de informatiemaatschappij bestaat in de opslag van de door een afnemer van de dienst verstrekte informatie, de aanbieder van de dienst niet aansprakelijk is voor de op verzoek van de afnemer van de dienst opgeslagen informatie, op voorwaarde dat de aanbieder van de dienst: 
 
@@ -3996,7 +3996,7 @@ b. zodra hij van het bovenbedoelde daadwerkelijk kennis heeft of besef krijgt, p
 
 ####Geen algemene toezichtverplichting
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen leggen de aanbieders van de in de artikelen 245, 246 en 247 van deze overeenkomst bedoelde diensten geen algemene verplichting op om toezicht te houden op de informatie die zij doorgeven of opslaan, noch om actief te gaan zoeken naar feiten of omstandigheden die op onwettige activiteiten duiden.   
 2.  De partijen kunnen aanbieders van diensten van de informatiemaatschappij verplichten om de bevoegde autoriteiten onverwijld in kennis te stellen van vermeende onwettige activiteiten of informatie van de afnemers van hun dienst, of verplichten om de bevoegde autoriteiten op hun verzoek informatie te verstrekken die kan dienen tot het achterhalen van afnemers van hun dienst waarmee zij een opslagovereenkomst hebben.  
@@ -4005,7 +4005,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Overgangsperiode
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Oekraïne legt de in deze onderafdeling bedoelde verplichtingen binnen 18 maanden na de inwerkingtreding van deze overeenkomst volledig ten uitvoer. 
 
@@ -4013,13 +4013,13 @@ Oekraïne legt de in deze onderafdeling bedoelde verplichtingen binnen 18 maande
 
 ####OVERIGE BEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  250  
 
 ####Maatregelen aan de grens
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Voor de toepassing van deze bepaling wordt onder „goederen waarmee inbreuk op een intellectuele-eigendomsrecht wordt gemaakt” verstaan: 
 
@@ -4054,7 +4054,7 @@ v. een geografische aanduiding.
 
 ####Gedragscodes en samenwerking op forensisch gebied
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen stimuleren: 
 
@@ -4066,7 +4066,7 @@ b. de indiening bij de bevoegde autoriteiten van de partijen van ontwerpgedragsc
 
 ####Samenwerking
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen komen overeen samen te werken ter ondersteuning van de tenuitvoerlegging van de verbintenissen en verplichtingen uit hoofde van dit hoofdstuk.   
 2.  Onverminderd het bepaalde in titel V (Economische en sectorale samenwerking) en in overeenstemming met het bepaalde in titel VI (Samenwerking op financieel gebied en antifraudebepalingen), strekt de samenwerking zich uit, maar is niet beperkt tot de volgende activiteiten: 
@@ -4090,19 +4090,19 @@ g. actieve voorlichting aan en scholing van het grote publiek over het beleid in
 
 ####MEDEDINGING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### AFDELING  1  
 
 ####MEDEDINGING EN FUSIES
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  253  
 
 ####Definities
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Voor de toepassing van deze afdeling wordt verstaan onder: 
 
@@ -4126,7 +4126,7 @@ c. alle wijzigingen van voornoemde instrumenten na de inwerkingtreding van deze 
 
 ####Beginselen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen erkennen het belang van een vrije en onvervalste mededinging voor hun handelsbetrekkingen. Zij erkennen dat concurrentiebeperkende praktijken en transacties de goede werking van de markten kunnen verstoren en in het algemeen de voordelen van de liberalisering van het handelsverkeer ondergraven. Zij komen derhalve overeen dat de volgende praktijken en transacties, zoals neergelegd in hun respectieve mededingingswetgeving, onverenigbaar zijn met deze overeenkomst, voor zover zij de handel tussen de partijen ongunstig kunnen beïnvloeden: 
 
@@ -4140,7 +4140,7 @@ c. concentraties tussen ondernemingen die een monopolisering of een aanzienlijke
 
 ####Tenuitvoerlegging
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De EU-partij en Oekraïne handhaven mededingingswetgeving waarmee de in artikel 254, onder a), b) en c), bedoelde praktijken en transacties daadwerkelijk worden aangepakt.   
 2.  De partijen houden autoriteiten in stand die verantwoordelijk zijn voor en goed zijn uitgerust voor de daadwerkelijke handhaving van de in lid 1 van dit artikel bedoelde mededingingswetgeving.   
@@ -4157,7 +4157,7 @@ b. een uit hoofde van het recht van die partij opgerichte rechtbank of andere on
 
 ####Aanpassing van wetgeving en handhavingspraktijk
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Oekraïne past zijn mededingingswetgeving en handhavingspraktijk aan het volgende gedeelte van het EU-acquis aan: 
 
@@ -4173,7 +4173,7 @@ Oekraïne past zijn mededingingswetgeving en handhavingspraktijk aan het volgend
 
 ####Openbare ondernemingen en ondernemingen waaraan bijzondere of uitsluitende rechten zijn toegekend
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Ten aanzien van openbare ondernemingen en ondernemingen waaraan bijzondere of uitsluitende rechten zijn toegekend: 
 
@@ -4186,7 +4186,7 @@ b. zien de partijen erop toe dat de in artikel 253, lid 2, van deze overeenkomst
 
 ####Staatsmonopolies
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Elk van beide partijen past binnen vijf jaar na de inwerkingtreding van deze overeenkomst commerciële staatsmonopolies zodanig aan dat wordt gewaarborgd dat er ten aanzien van de voorwaarden waaronder goederen worden ingekocht of in de handel worden gebracht, geen maatregelen bestaan die natuurlijke personen ten opzichte van rechtspersonen of rechtspersonen ten opzichte van natuurlijke personen uit de partijen discrimineren.   
 2.  Dit artikel doet geen afbreuk aan de rechten en verplichtingen van de partijen op grond van titel IV, hoofdstuk 8 (Overheidsopdrachten) van deze Overeenkomst.   
@@ -4196,7 +4196,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Uitwisseling van informatie en samenwerking bij de rechtshandhaving
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen erkennen het belang van samenwerking en coördinatie tussen hun respectieve mededingingsautoriteiten met het oog op het verder verbeteren van een doeltreffende handhaving van de mededingingswetgeving en het bereiken van de doelstellingen van deze overeenkomst door middel van de bevordering van mededinging en de inperking van concurrentieverstorende zakelijke activiteiten of transacties.   
 2.  Hiertoe kan de mededingingsautoriteit van een partij de mededingingsautoriteit van de andere partij in kennis stellen van haar bereidheid tot samenwerking ten aanzien van handhavingsactiviteiten. Deze samenwerking belet de partijen niet om onafhankelijke besluiten te nemen.   
@@ -4206,14 +4206,14 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Overleg
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Elk van beide partijen treedt op verzoek van de andere partij in overleg over bedenkingen van die andere partij, teneinde het wederzijdse begrip te bevorderen of specifieke aangelegenheden in verband met deze afdeling aan de orde te stellen. De verzoekende partij geeft aan in welk opzicht de aangelegenheid van invloed is op de handel tussen de partijen.   
 2.  Op verzoek van een partij bespreken de partijen terstond alle vraagstukken in verband met de interpretatie of de toepassing van deze afdeling.   
 3.  Ter vergemakkelijking van de bespreking van de aangelegenheid waarop het overleg betrekking heeft, streeft elk van beide partijen ernaar om de andere partij van relevante niet-vertrouwelijke informatie te voorzien, binnen de grenzen van hun respectieve wetgeving en met inachtneming van hun wezenlijke belangen.  
 
 ### Artikel  261  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Geen van beide partijen kan een beroep doen op de beslechting van geschillen uit hoofde van hoofdstuk 14 (Beslechting van geschillen) van titel IV van deze overeenkomst voor kwesties die zich in het kader deze afdeling voordoen, behoudens wat artikel 256 van deze overeenkomst aangaat. 
 
@@ -4221,13 +4221,13 @@ Geen van beide partijen kan een beroep doen op de beslechting van geschillen uit
 
 ####STAATSSTEUN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  262  
 
 ####Algemene beginselen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Steun die Oekraïne of de lidstaten van de Europese Unie door aanwending van overheidsmiddelen verlenen, en die de mededinging door begunstiging van bepaalde ondernemingen of de productie van bepaalde goederen vervalst of dreigt te vervalsen, is onverenigbaar met de goede werking van deze overeenkomst voor zover daardoor de handel tussen de partijen ongunstig wordt beïnvloed.   
 2.  Het volgende wordt echter verenigbaar met de goede werking van deze overeenkomst geacht: 
@@ -4254,7 +4254,7 @@ f. steun voor investeringen om aan de dwingende normen van de in bijlage XXIX bi
 
 ####Transparantie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Elk van beide partijen zorgt voor transparantie op het gebied van staatssteun. Daartoe stekt elk van beide partijen de andere partij jaarlijks in kennis van het totale bedrag aan staatssteun dat de handel tussen de partijen ongunstig kunnen beïnvloeden, de aard en de verdeling ervan over de verschillende sectoren. De respectieve kennisgevingen moeten informatie bevatten over het doel, de vorm, het bedrag of budget, de autoriteit die de staatssteun verleent en zo mogelijk de ontvanger van de staatssteun. Voor de toepassing van dit artikel behoeft steun onder de drempel van 200 000 EUR per onderneming gedurende een periode van drie jaar niet te worden aangemeld. De aanmelding wordt geacht te zijn geschied als de kennisgeving naar de andere partij is verzonden of als de desbetreffende informatie uiterlijk 31 december van het volgende kalenderjaar beschikbaar is gesteld op een openbaar toegankelijke internetsite.   
 2.  Op verzoek van een partij verstrekt de andere partij nadere informatie over staatssteunregelingen en over bijzondere individuele gevallen van staatssteun die de handel tussen de partijen ongunstig beïnvloeden. De partijen wisselen deze informatie uit met inachtneming van de beperkingen die voortvloeien uit het beroeps- of zakengeheim.   
@@ -4274,7 +4274,7 @@ b. alle aspecten van de methoden waarmee de kosten en inkomsten aan de verschill
 
 ####Interpretatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen komen overeen dat zij artikel 262, artikel 263, lid 3, of artikel 263, lid 4, van deze overeenkomst zullen gebruiken als bronnen voor de interpretatie van de criteria die voortvloeien uit de toepassing van de artikelen 106, 107 en 93 van het Verdrag betreffende de werking van de Europese Unie, met inbegrip van de relevante rechtspraak van het Hof van Justitie van de Europese Unie alsmede de relevante afgeleide wetgeving, kaders, richtsnoeren en andere administratieve handelingen die in de Europese Unie gelding hebben. 
 
@@ -4282,7 +4282,7 @@ De partijen komen overeen dat zij artikel 262, artikel 263, lid 3, of artikel 26
 
 ####Verhouding tot WTO
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Deze bepalingen laten het recht van de partijen onverlet om in overeenstemming met de desbetreffende WTO-bepalingen handelsmaatregelen toe te passen of andere passende maatregelen te treffen, dan wel een geschillenbeslechtingsprocedure in te leiden. 
 
@@ -4290,7 +4290,7 @@ Deze bepalingen laten het recht van de partijen onverlet om in overeenstemming m
 
 ####Toepassingsgebied
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Deze afdeling is van toepassing op goederen en op diensten die zijn vermeld in bijlage XVI bij hoofdstuk 6 (Vestiging, handel in diensten en elektronische handel) van titel IV van deze overeenkomst, in overeenstemming met het wederzijds overeengekomen besluit inzake markttoegang, maar met uitzondering van subsidies voor producten waarop bijlage 1 bij de WTO-overeenkomst inzake de landbouw en andere onder die overeenkomst vallende subsidies van toepassing is. 
 
@@ -4298,7 +4298,7 @@ Deze afdeling is van toepassing op goederen en op diensten die zijn vermeld in b
 
 ####Intern systeem voor controle met betrekking tot staatssteun
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Teneinde aan de verplichtingen van de artikelen 262 tot en met 266 van deze overeenkomst te voldoen: 
 
@@ -4316,13 +4316,13 @@ b. Oekraïne verstrekt binnen vier jaar na de inwerkingtreding van deze overeenk
 
 ####HANDELSGERELATEERDE ENERGIE
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  268  
 
 ####Definities
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Voor de toepassing van dit hoofdstuk en onverminderd het bepaalde in hoofdstuk 5 (Douane en handelsbevordering) van titel IV van deze overeenkomst wordt verstaan onder: 
 
@@ -4340,7 +4340,7 @@ Voor de toepassing van dit hoofdstuk en onverminderd het bepaalde in hoofdstuk 5
 
 ####Interne gereguleerde prijzen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De prijs voor de levering van gas en elektriciteit voor industriële verbruikers wordt enkel door vraag en aanbod bepaald.   
 2.  In afwijking van lid 1 van dit artikel kunnen de partijen in het algemeen economisch belang<sup> 42) Onder „algemeen economisch belang” moet hetzelfde worden begrepen als in artikel 106 van het Verdrag betreffende de werking van de Europese Unie en in het bijzonder als in de rechtspraak van de EU-partij. </sup> aan ondernemingen een verplichting opleggen met betrekking tot de prijs waartegen gas en elektriciteit worden geleverd, hierna „gereguleerde prijs” genoemd.   
@@ -4351,7 +4351,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Verbod van dubbele prijsstelling
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Onverminderd de mogelijkheid om in overeenstemming met artikel 269, leden 2 en 3, van deze overeenkomst interne gereguleerde prijzen op te leggen, treft noch handhaaft een van de partijen of een regelgevende autoriteit daarvan maatregelen die tot een hogere prijs voor de uitvoer van energiegoederen naar de andere partij leiden dan de prijzen die voor die goederen in rekening worden gebracht wanneer zij bestemd zijn voor intern gebruik.   
 2.  De partij van uitvoer levert op verzoek van de andere partij bewijsmateriaal aan waaruit blijkt dat een verschil in prijs tussen energiegoederen die op de interne markt worden verkocht en dezelfde goederen die voor de uitvoer zijn bestemd, niet het gevolg is van een ingevolge lid 1 van dit artikel verboden maatregel.  
@@ -4360,7 +4360,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Douanerechten en kwantitatieve beperkingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Douanerechten en kwantitatieve beperkingen bij in- en uitvoer van energiegoederen alsmede alle maatregelen van gelijke werking tussen de partijen zijn verboden. Dit verbod is ook van toepassing op douanerechten van fiscale aard.   
 2.  Lid 1 staat niet in de weg aan kwantitatieve beperkingen of maatregelen van gelijke werking die gerechtvaardigd zijn uit hoofde van de openbare orde of de openbare veiligheid, het leven en de gezondheid van personen, dieren of planten, of de bescherming van de industriële of commerciële eigendom. Deze beperkingen of maatregelen mogen echter geen middel tot willekeurige discriminatie, noch een verkapte beperking van de handel tussen de partijen vormen.  
@@ -4369,7 +4369,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Doorvoer
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen nemen de maatregelen die nodig zijn voor de bevordering van de doorvoer, in overeenstemming met het beginsel van de vrijheid van doorvoer, en met de artikelen V.2, V.4 en V.5 van de GATT 1994 en de artikelen 7.1en 7.3 van het Energiehandvestverdrag van 1994, die in deze overeenkomst zijn opgenomen en daarvan integraal deel uitmaken. 
 
@@ -4377,7 +4377,7 @@ De partijen nemen de maatregelen die nodig zijn voor de bevordering van de doorv
 
 ####Vervoer
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Wat het vervoer van elektriciteit en gas aangaat, en met name de toegang van derden tot vaste infrastructuur, passen de partijen hun wetgeving als bedoeld in bijlage XXVII bij deze overeenkomst en in het Verdrag tot oprichting van de Energiegemeenschap van 2005 aan, om te waarborgen dat de tarieven, die vóór de inwerkingtreding ervan bekend zijn gemaakt, de procedures voor capaciteitstoewijzing en alle overige voorwaarden objectief, redelijk en transparant zijn en niet discrimineren op grond van herkomst, eigendom of bestemming van de elektriciteit of het gas. 
 
@@ -4385,7 +4385,7 @@ Wat het vervoer van elektriciteit en gas aangaat, en met name de toegang van der
 
 ####Samenwerking op het gebied van infrastructuur
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen streven ernaar het gebruik van gastransmissie-infrastractuur en van gasopslaginstallaties te bevorderen, en plegen voor zover nodig overleg of coördineren met elkaar over ontwikkelingen op het gebied van de infrastructuur. De partijen werken samen in aangelegenheden die verband houden met de handel in aardgas, duurzaamheid en voorzieningszekerheid. Teneinde de markten voor energiegoederen verder te integreren, houdt elk van beide partijen bij het opstellen van beleidsstukken over vraag- en aanbodscenario's, interconnecties, energiestrategieën en plannen voor de ontwikkeling van infrastructuur rekening met de energienetwerken en de capaciteiten van de andere partij. 
 
@@ -4393,7 +4393,7 @@ De partijen streven ernaar het gebruik van gastransmissie-infrastractuur en van 
 
 ####Ongeoorloofde toe-eigening van energiegoederen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Elk van beide partijen neemt alle maatregelen die nodig zijn om de ongeoorloofde toe-eigening van energiegoederen die over haar grondgebied al dan niet in transit worden vervoerd, te verbieden en aan te pakken. 
 
@@ -4401,7 +4401,7 @@ Elk van beide partijen neemt alle maatregelen die nodig zijn om de ongeoorloofde
 
 ####Onderbreking
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Elk van beide partijen waarborgt dat de exploitanten van de transmissiesystemen de maatregelen treffen die nodig zijn om: 
 
@@ -4415,7 +4415,7 @@ b. de normale doorvoer die of het normale vervoer dat onopzettelijk werd onderbr
 
 ####Regelgevende autoriteit voor elektriciteit en gas
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Een regelgevende autoriteit moet juridisch gescheiden zijn en onafhankelijk functioneren van alle openbare of particuliere entiteiten, en voldoende bevoegdheden hebben om een daadwerkelijke mededinging en een efficiënte werking van de markt te kunnen waarborgen.   
 2.  De besluiten die een regelgevende autoriteit neemt en de procedures die zij toepast, zijn onpartijdig ten aanzien van alle marktdeelnemers.   
@@ -4425,7 +4425,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Verhouding tot Verdrag tot oprichting van de Energiegemeenschap
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Wanneer bepalingen van deze afdeling conflicteren met het Verdrag tot oprichting van de Energiegemeenschap van 2005 of met de EU-wetgeving die in het kader van dat Verdrag van toepassing is geworden, hebben het Verdrag tot oprichting van de Energiegemeenschap van 2005 of de desbetreffende EU-wetgeving voorrang voor zover er sprake is van een dergelijke strijdigheid.   
 2.  Bij de tenuitvoerlegging van deze afdeling wordt de voorkeur gegeven aan de vaststelling van wetgeving of andere handelingen die in overeenstemming zijn met het Verdrag tot oprichting van de Energiegemeenschap van 2005, of die gebaseerd zijn op de binnen de EU op deze sector toepasselijke wetgeving. Ingeval van een geschil met betrekking tot deze afdeling worden de wetgeving of andere handelingen die aan deze criteria voldoen, geacht met deze afdeling overeen te stemmen. Bij de beoordeling of de wetgeving of andere handelingen aan deze criteria voldoen, wordt acht geslagen op alle relevante besluiten die in het kader van artikel 91 van het Verdrag tot oprichting van de Energiegemeenschap van 2005 zijn genomen.   
@@ -4435,7 +4435,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Toegang tot en uitoefening van activiteiten op het gebied van prospectie, exploratie en productie van koolwaterstoffen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Elke partij<sup> 43) In dit artikel wordt onder „partij” verstaan: een lidstaat met verwijzing naar diens grondgebied of Oekraïne met verwijzing naar zijn grondgebied. </sup> is in overeenstemming met het internationale recht, het Verdrag van de Verenigde Naties inzake het recht van de zee van 1982 daaronder begrepen, volledig soeverein ten aanzien van de koolwaterstoffen die zich binnen haar grondgebied alsmede archipel- en territoriale wateren bevinden, in aanvulling op de soevereine rechten om zich binnen haar exclusieve economische zone en het continentale plat bevindende koolwaterstoffen te exploreren en te exploiteren.   
 2.  Elk van beide partijen behoudt het recht te bepalen welke gebieden binnen haar grondgebied, archipel- en territoriale wateren, exclusieve economische zone en continentale plat opengesteld worden voor de prospectie, de exploratie en de productie van koolwaterstoffen.   
@@ -4446,7 +4446,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Vergunningverlening en vergunningsvoorwaarden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen nemen de maatregelen die nodig zijn om te waarborgen dat vergunningen op grond waarvan een entiteit voor eigen rekening en risico het recht van prospectie, exploratie of productie van koolwaterstoffen in een geografisch gebied kan uitoefenen, worden verleend volgens een vooraf bekendgemaakte procedure, en zij nodigen potentiële belangstellenden door middel van een aankondiging uit om aanvragen voor een vergunning in te dienen.   
 2.  In deze aankondiging worden de soort vergunning, het desbetreffende geografische gebied of gedeelte ervan en de voorgestelde datum of uiterste datum waarop een vergunning kan worden verleend, gespecificeerd.   
@@ -4456,13 +4456,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####TRANSPARANTIE
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  281  
 
 ####Definities
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Voor de toepassing van dit hoofdstuk: 
 
@@ -4474,7 +4474,7 @@ Voor de toepassing van dit hoofdstuk:
 
 ####Doelstelling en toepassingsgebied
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen zijn zich bewust van de impact die hun respectieve regelgeving op de handel tussen hen kan hebben, en stellen een doeltreffend en voorspelbaar regelgevingskader in voor marktdeelnemers, in het bijzonder voor kleine marktdeelnemers, die zaken doen op hun grondgebied, waarbij naar behoren rekening wordt gehouden met de vereisten van rechtszekerheid en evenredigheid.   
 2.  De partijen bevestigen hun respectieve verbintenissen uit hoofde van de WTO-overeenkomst en leggen verduidelijkingen en verbeterde regelingen vast op het gebied van de transparantie, de raadpleging en een beter beheer van maatregelen van algemene strekking, voor zover deze gevolgen kunnen hebben voor onder deze overeenkomst vallende aangelegenheden.  
@@ -4483,7 +4483,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Publicatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Elk van beide partijen zorgt ervoor dat maatregelen van algemene strekking: 
 
@@ -4504,7 +4504,7 @@ c. streeft ernaar rekening te houden met het commentaar op de voorgestelde maatr
 
 ####Vragen en contactpunten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Elk van beide partijen voert passende mechanismen in, of handhaaft deze, om vragen van belanghebbenden over voorgestelde of van kracht zijnde maatregelen van algemene strekking en over de wijze waarop deze maatregelen in het algemeen worden toegepast, te beantwoorden. Teneinde de communicatie tussen de partijen over alle onder dit deel van de overeenkomst vallende aangelegenheden te vergemakkelijken, stelt elk van beide partijen met name een contactpunt in. Op verzoek van een van beide partijen geeft het contactpunt aan welke dienst of ambtenaar met het onderwerp is belast en verstrekt het de gevraagde hulp om de communicatie met de verzoekende partij te vergemakkelijken. De vragen kunnen worden ingediend via dergelijke uit hoofde van deze overeenkomst mechanismen.   
 2.  De partijen erkennen dat een antwoord zoals bedoeld in lid 1 van dit artikel niet definitief en juridisch bindend hoeft te zijn, maar alleen ter informatie wordt gegeven, tenzij in hun respectieve interne wet- en regelgeving anders wordt bepaald.   
@@ -4515,7 +4515,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Administratieve procedures
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Elk van beide partijen beheert alle in artikel 281 van deze overeenkomst bedoelde maatregelen van algemene strekking op consequente, onpartijdige en redelijke wijze. Hiertoe ziet elk van beide partijen erop toe dat zij in specifieke gevallen bij de toepassing van die maatregelen op bepaalde personen, goederen of diensten uit een andere partij: 
 
@@ -4529,7 +4529,7 @@ c. waarborgt dat haar procedures gebaseerd zijn op haar interne wetgeving en hie
 
 ####Toetsing en beroep
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Elk van beide partijen voert rechtbanken of andere onafhankelijke gerechten, met inbegrip van quasi-rechterlijke of administratieve instanties, of procedures in of handhaaft deze, met het oog op een onverwijlde toetsing en, indien gerechtvaardigd, correctie van het administratieve optreden met betrekking tot gebieden waarop deze overeenkomst van toepassing is. Deze rechtbanken, overige gerechten en procedures zijn onpartijdig en onafhankelijk van de dienst of de autoriteit die belast is met de administratieve handhaving en hebben geen materieel belang bij de uitkomst van de aangelegenheid.   
 2.  Elk van beide partijen zorgt ervoor dat de procespartijen bij dergelijke rechtbanken, overige gerechten of procedures recht krijgen op: 
@@ -4543,7 +4543,7 @@ b. een beslissing die is gebaseerd op bewijsmateriaal en ingediende stukken, of,
 
 ####Regelgevingskwaliteit en -efficiency en goed bestuur
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen komen overeen samen te werken bij de bevordering van de kwaliteit en efficiency van de regelgeving, onder meer door de uitwisseling van informatie en van optimale praktijken over de bij hen doorgevoerde hervorming van de regelgeving en de effectbeoordeling ter zake.   
 2.  De partijen onderschrijven de beginselen van goed bestuurlijk gedrag en komen overeen samen te werken bij de bevordering daarvan, onder meer door uitwisseling van informatie en van optimale praktijken.  
@@ -4552,7 +4552,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Discriminatieverbod
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Elk van beide partijen past op belanghebbenden van de andere partij normen inzake transparantie toe die niet minder gunstig zijn dan die welke gelden voor hun eigen belanghebbenden. 
 
@@ -4560,13 +4560,13 @@ Elk van beide partijen past op belanghebbenden van de andere partij normen inzak
 
 ####HANDEL EN DUURZAME ONTWIKKELING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  289  
 
 ####Context en doelstellingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen herinneren aan Agenda 21 over milieu en ontwikkeling van 1992, het Uitvoeringsplan van Johannesburg over duurzame ontwikkeling van 2002, de internationaal overeengekomen beleidsagenda's op het gebied van werkgelegenheids- en sociaal beleid, met name de agenda voor waardig werk van de Internationale Arbeidsorganisatie, hierna „ILO” genoemd, en de Ministeriële Verklaring van 2006 van de Economische en Sociale Raad van de VN over volledige werkgelegenheid en fatsoenlijk werk. De partijen herbevestigen hun verbintenis om de ontwikkeling van de internationale handel op zodanige wijze te bevorderen dat aan de doelstelling van duurzame ontwikkeling wordt bijgedragen, en om erop toe te zien dat deze doelstelling wordt geïntegreerd in en tot uitdrukking komt op elk niveau van hun handelsbetrekkingen.   
 2.  Hiertoe erkennen de partijen dat het belangrijk is om ten volle rekening te houden met de economische, sociale en milieubelangen van niet alleen hun respectieve bevolking, maar ook van toekomstige generaties, en dragen zij er zorg voor dat beleidsmaatregelen met betrekking tot de economische ontwikkeling, het milieu- en het sociale beleid elkaar ondersteunen.  
@@ -4575,7 +4575,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Reglementeringsrecht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Terwijl de partijen erkennen dat elk van hen het recht heeft zelf te bepalen tot welk niveau zij in overeenstemming met de hierop betrekking hebbende internationaal erkende beginselen en overeenkomsten regels vastlegt op het gebied van interne milieu- en werkgelegenheidsbescherming, en beleidsmaatregelen en prioriteiten met betrekking tot duurzame ontwikkeling, en haar relevante wetgeving dienovereenkomstig vast te stellen of te wijzigen, dragen zij er zorg voor dat hun respectieve wetgeving in een hoog beschermingsniveau voor milieu- en werkgelegenheidsbescherming voorziet en streven zij ernaar die wetgeving te blijven verbeteren.   
 2.  Om de doelstellingen van dit artikel te bereiken past Oekraïne haar wettelijke en bestuursrechtelijke bepalingen alsmede administratieve praktijken aan het EU-acquis aan.  
@@ -4584,7 +4584,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Multilaterale arbeidsnormen en -overeenkomsten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen erkennen volledige en productieve werkgelegenheid en fatsoenlijk werk voor allen als cruciale elementen voor de handel in de context van globalisering. De partijen herbevestigen dat zij zich inspannen om de handelsontwikkeling zodanig te bevorderen dat deze leidt tot volledige en productieve werkgelegenheid en fatsoenlijk werk voor allen, met inbegrip van mannen, vrouwen en jongeren.   
 2.  De partijen bevorderen en implementeren in hun wetten en praktijken de internationaal erkende fundamentele arbeidsnormen, te weten: 
@@ -4603,7 +4603,7 @@ d. de uitbanning van discriminatie met betrekking tot werk en beroep.
 
 ####Multilaterale milieuovereenkomsten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen erkennen de waarde van internationale governance en overeenkomsten op milieugebied als antwoord van de internationale gemeenschap op mondiale of regionale milieuproblemen.   
 2.  De partijen herbevestigen hun verbintenis om de multilaterale milieuovereenkomsten waarbij zij partij zijn daadwerkelijk in hun wetgeving en praktijk ten uitvoer te leggen.   
@@ -4615,7 +4615,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Handel ten behoeve van duurzame ontwikkeling
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen herbevestigen dat de handel de duurzame ontwikkeling in al haar aspecten moet bevorderen. De partijen erkennen de positieve rol die de fundamentele arbeidsnormen en fatsoenlijk werk kunnen hebben op de economische efficiëntie, innovatie en productiviteit, en zij benadrukken de waarde van een grotere coherentie tussen het handelsbeleid enerzijds en de werkgelegenheid en het sociale beleid anderzijds.   
 2.  De partijen streven ernaar de handel en de buitenlandse directe investeringen in milieugoederen, -diensten en -technologieën, duurzame energie, energie-efficiënte producten en diensten en goederen met een milieukeur te vergemakkelijken en te bevorderen, onder meer door de aanpak van niet-tarifaire belemmeringen ter zake.   
@@ -4625,7 +4625,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Handel in bosbouwproducten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Ter bevordering van een duurzaam bosbeheer zeggen de partijen toe samen te werken aan een betere handhaving van de wetgeving en governance op bosbouwgebied, alsmede aan de bevordering van de handel in rechtmatige duurzame bosbouwproducten. 
 
@@ -4633,7 +4633,7 @@ Ter bevordering van een duurzaam bosbeheer zeggen de partijen toe samen te werke
 
 ####Handel in visproducten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Met inachtneming van het belang van een verantwoord en duurzaam beheer van de visbestanden, alsmede van een goede governance in de handel, werken de partijen samen door: 
 
@@ -4647,7 +4647,7 @@ c. het onder meer invoeren van handelsmaatregelen ter bestrijding van illegale, 
 
 ####Handhaving van beschermingsniveaus
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen doen geen afbreuk aan de daadwerkelijke handhaving van hun milieu- en arbeidswetgeving door een onafgebroken of herhaald handelen of nalaten, op een wijze die van invloed is op de handel of de investeringen tussen de partijen.   
 2.  De partijen zwakken de in hun wetgeving verleende bescherming van het milieu of van de werknemers niet af om de handel of investeringen te bevorderen, noch verminderen zij deze bescherming door af te zien van toepassing van of anderszins af te wijken van, of door aan te bieden af te zien van toepassing van of anderszins af te wijken van hun wet- en regelgeving of normen, op een wijze die van invloed is op de handel of de investeringen tussen de partijen.  
@@ -4656,7 +4656,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Wetenschappelijke informatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen erkennen dat het belangrijk is om bij de opstelling, vaststelling en tenuitvoerlegging van maatregelen ter bescherming van het milieu, de volksgezondheid en de sociale omstandigheden die van invloed zijn op de handel tussen de partijen, rekening te houden met wetenschappelijke en technische informatie, en internationale normen, richtsnoeren en aanbevelingen ter zake. 
 
@@ -4664,7 +4664,7 @@ De partijen erkennen dat het belangrijk is om bij de opstelling, vaststelling en
 
 ####Evaluatie van effecten op de duurzaamheid
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen verbinden zich ertoe het effect van de tenuitvoerlegging van deze titel op de duurzame ontwikkeling te beoordelen en te volgen via hun bestaande participatieprocessen en participatieve instellingen en die welke in het kader van deze overeenkomst in het leven zijn geroepen, bijvoorbeeld door handelsgerelateerde beoordelingen van het effect op de duurzaamheid. 
 
@@ -4672,7 +4672,7 @@ De partijen verbinden zich ertoe het effect van de tenuitvoerlegging van deze ti
 
 ####Organisaties uit het maatschappelijke middenveld
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Elk van beide partijen wijst een nieuwe of bestaande adviesgroep voor duurzame ontwikkeling aan en roept deze groep bijeen die tot taak heeft advies over de tenuitvoerlegging van dit hoofdstuk te verlenen.   
 2.  De adviesgroep bestaat uit onafhankelijke representatieve organisaties uit het maatschappelijk middenveld, met een evenwichtige vertegenwoordiging van werkgevers en werknemersorganisaties, niet-gouvernementele organisaties en andere belanghebbenden.   
@@ -4684,7 +4684,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Institutioneel en toezichtmechanisme
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Er wordt een subcomité handel en duurzame ontwikkeling opgericht. Het subcomité brengt verslag over zijn activiteiten uit aan het Associatiecomité, in de samenstelling volgens artikel 465, lid 4, van deze overeenkomst. Het subcomité bestaat uit hoge ambtenaren van elk van beide partijen. Het subcomité ziet toe op de tenuitvoerlegging van dit hoofdstuk, met inbegrip van de resultaten van de toezichtactiviteiten en effectbeoordelingen, en bespreekt in goed vertrouwen problemen die zich in verband met de toepassing van dit hoofdstuk voordoen. Het subcomité stelt zijn eigen reglement van orde vast. Het subcomité komt bijeen binnen een jaar na de inwerkingtreding van deze overeenkomst en daarna ten minste een keer per jaar.   
 2.  Elke partij wijst binnen haar overheid een contactpunt aan om de communicatie tussen de partijen te vergemakkelijken over zaken die door dit hoofdstuk worden bestreken.   
@@ -4698,7 +4698,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Groep van deskundigen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Tenzij de partijen anders overeenkomen, kan een partij 90 dagen na de indiening van een verzoek om overleg ingevolge artikel 300, lid 4, van deze overeenkomst verzoeken een groep van deskundigen bijeen te roepen om een aangelegenheid, die tijdens het overleg op regeringsniveau niet op bevredigende wijze werd opgelost, te onderzoeken. Binnen 30 dagen nadat een partij heeft verzocht de groep van deskundigen bijeen te roepen, kan het subcomité handel en duurzame ontwikkeling op verzoek van een van de partijen worden bijeengeroepen om de aangelegenheid te bespreken. De partijen kunnen opmerkingen indienen bij de groep. De groep kan beide partijen, de adviesgroep(en) of internationale organisaties om informatie en advies verzoeken. De groep van deskundigen komt bijeen binnen 60 dagen nadat een partij een verzoek daartoe heeft ingediend.   
 2.  De groep, die wordt geselecteerd in overeenstemming met de in lid 3 van dit artikel uiteengezette procedures, geeft deskundig advies over de tenuitvoerlegging van dit hoofdstuk. Tenzij de partijen anders overeenkomen, legt de groep binnen 90 dagen nadat de laatste deskundige is geselecteerd, een verslag voor aan de partijen. De partijen doen al het mogelijke om zich naar het advies of de aanbevelingen van de groep over de tenuitvoerlegging van dit hoofdstuk te voegen. Het subcomité handel en duurzame ontwikkeling volgt de tenuitvoerlegging van de aanbevelingen van de groep. Het verslag van de groep wordt beschikbaar gesteld aan de adviesgroep(en) van de partijen. Ten aanzien van vertrouwelijke informatie en het reglement van orde zijn de beginselen van bijlage XXIV bij hoofdstuk 14 (Beslechting van geschillen) van titel IV van deze overeenkomst respectievelijk van toepassing.   
@@ -4708,7 +4708,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Samenwerking bij handel en duurzame ontwikkeling
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen werken samen met betrekking tot handelsgerelateerde aspecten van het werkgelegenheids- en het milieubeleid, teneinde de doelstellingen van deze overeenkomst te bereiken. 
 
@@ -4716,13 +4716,13 @@ De partijen werken samen met betrekking tot handelsgerelateerde aspecten van het
 
 ####<sup> 44)  Ter voorkoming van twijfel wordt deze titel niet aldus uitgelegd dat daaraan rechten kunnen worden ontleend of dat deze verplichtingen bevat waarop bij de rechterlijke instanties van de partijen een rechtstreeks beroep kan worden gedaan.  </sup>BESLECHTING VAN GESCHILLEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  303  
 
 ####Doel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Het doel van dit hoofdstuk is geschillen tussen de partijen over de toepassing van de in artikel 304 van deze overeenkomst bedoelde bepalingen van deze overeenkomst te goeder trouw te vermijden en te beslechten en zoveel mogelijk een onderling overeengekomen oplossing te vinden<sup> 45) Ter voorkoming van twijfel vallen besluiten en litigieus nalaten van bij deze overeenkomst opgerichte lichamen niet onder dit hoofdstuk. </sup> . 
 
@@ -4730,7 +4730,7 @@ Het doel van dit hoofdstuk is geschillen tussen de partijen over de toepassing v
 
 ####Toepassingsgebied
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De bepalingen van dit hoofdstuk zijn van toepassing op geschillen over de interpretatie en toepassing van titel IV van deze overeenkomst, behalve voor zover uitdrukkelijk anders is bepaald. 
 
@@ -4738,7 +4738,7 @@ De bepalingen van dit hoofdstuk zijn van toepassing op geschillen over de interp
 
 ####Overleg
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen streven ernaar elk geschil over de interpretatie en toepassing van de in artikel 304 van deze overeenkomst bedoelde bepalingen op te lossen door te goeder trouw overleg te voeren, teneinde een onderling overeengekomen oplossing te vinden.   
 2.  Een partij verzoekt de andere partij schriftelijk om overleg, met kopie aan het Handelscomité, waarbij zij aangeeft om welke maatregel het gaat en welke van de in artikel 304 van deze overeenkomst bedoelde bepalingen van deze overeenkomst volgens haar van toepassing zijn.   
@@ -4751,13 +4751,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####ARBITRAGEPROCEDURE
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  306  
 
 ####Inleiding van de arbitrageprocedure
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Wanneer de partijen er niet in zijn geslaagd het geschil door middel van het in artikel 305 van deze overeenkomst bedoelde overleg op te lossen, kan de klagende partij verzoeken om de instelling van een arbitragepanel.   
 2.  Het verzoek om instelling van een arbitragepanel wordt schriftelijk gedaan bij de partij waartegen de klacht gericht is en bij het Handelscomité. De klagende partij vermeldt in haar verzoek de specifieke maatregel die in het geding is en geeft de rechtsgronden voor de klacht bondig aan doch zodanig dat het probleem helder wordt weergegeven. Ingeval de klagende partij verlangt dat een panel wordt ingesteld dat een andere taakomschrijving heeft dan de standaard-taakomschrijving, wordt de voorgestelde tekst van de bijzondere taakomschrijving in het schriftelijke verzoek opgenomen.   
@@ -4767,7 +4767,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Samenstelling van het arbitragepanel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Een arbitragepanel bestaat uit drie scheidsrechters.   
 2.  De partijen voeren binnen 10 dagen na de datum van indiening bij het Handelscomité van het verzoek tot instelling van een arbitragepanel overleg over de samenstelling van dat panel.   
@@ -4786,7 +4786,7 @@ b. wanneer de partijen overeenstemming hebben bereikt over één lid van het arb
 
 ####Tussentijds panelverslag
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Het arbitragepanel legt binnen 90 dagen na zijn instelling een tussentijds verslag aan de partijen voor, dat de resultaten van het feitenonderzoek, de toepasbaarheid van de desbetreffende bepalingen, alsmede de beweeggronden die aan de conclusies en aanbevelingen van het panel ten grondslag liggen, vermeldt. Wanneer het van oordeel is dat deze termijn niet kan worden gehaald, stelt de voorzitter van het arbitragepanel de partijen en het Handelscomité hiervan schriftelijk in kennis, met opgave van de redenen voor de vertraging en de datum waarop het panel zijn tussentijds verslag denkt te kunnen overleggen. In geen geval mag het tussentijds verslag later dan 120 dagen na de instelling van het arbitragepanel worden uitgebracht.   
 2.  De partijen kunnen binnen 14 dagen nadat het tussentijds verslag is uitgebracht het arbitragepanel schriftelijk verzoeken bepaalde aspecten van dat verslag te heroverwegen.   
@@ -4798,7 +4798,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Verzoening in geval van urgente energiegeschillen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Met betrekking tot een geschil in het kader van hoofdstuk 11 (Handelsgerelateerde energie) van titel IV van deze overeenkomst dat door een van de partijen urgent wordt geacht wegens een volledige of gedeeltelijke onderbreking van vervoer van aardgas, olie of elektriciteit of een dreiging van een dergelijke onderbreking, tussen Oekraïne en de EU-partij, kan elke partij de voorzitter van het panel verzoeken als verzoener op te treden met betrekking tot aangelegenheden in verband met het geschil, door een verzoek tot het panel te richten.   
 2.  De verzoener tracht overeenstemming te bereiken over een oplossing van het geschil of over een procedure om een dergelijke oplossing tot stand te brengen. Indien de verzoener niet binnen 15 dagen na zijn benoeming een dergelijke overeenstemming bereikt, beveelt hij een oplossing van het geschil of een procedure om tot een dergelijke oplossing te komen, aan en bepaalt hij welke voorwaarden in acht moeten worden genomen vanaf een bepaalde datum totdat het geschil tot een oplossing is gebracht.   
@@ -4809,7 +4809,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Uitspraak van het arbitragepanel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Het arbitragepanel stelt de partijen en het Handelscomité binnen 120 dagen na zijn instelling in kennis van zijn uitspraak. Wanneer het van oordeel is dat deze termijn niet kan worden gehaald, stelt de voorzitter van het arbitragepanel de partijen en het Handelscomité hiervan schriftelijk in kennis, met opgave van de redenen voor de vertraging en de datum waarop het panel zijn werk denkt te kunnen voltooien. In geen geval mag later dan 150 dagen na de datum van instelling van het arbitragepanel van de uitspraak worden kennisgegeven.   
 2.  In dringende gevallen, zoals wanneer de zaak betrekking heeft op bederfelijke waren of seizoensgebonden goederen, stelt het arbitragepanel alles in het werk om binnen 60 dagen na zijn instelling uitspraak te doen. De uitspraak mag in geen geval later dan 75 dagen na de instelling worden gedaan. Het arbitragepanel kan binnen 10 dagen na zijn instelling een voorlopige uitspraak doen over de vraag of het een zaak dringend acht.   
@@ -4819,13 +4819,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####NALEVING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  311  
 
 ####Naleving van de uitspraak van het arbitragepanel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Elk van beide partijen neemt de nodige maatregelen om de uitspraak van het arbitragepanel te goeder trouw na te leven; zij streven ernaar overeenstemming te bereiken over de termijn waarbinnen zij de uitspraak zullen naleven. 
 
@@ -4833,7 +4833,7 @@ Elk van beide partijen neemt de nodige maatregelen om de uitspraak van het arbit
 
 ####Redelijke termijn voor naleving
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Uiterlijk 30 dagen na de kennisgeving van de uitspraak van het arbitragepanel aan de partijen stelt de partij waartegen de klacht gericht is de klagende partij en het Handelscomité in kennis van de tijd die zij nodig denkt te hebben om de uitspraak na te leven, hierna „redelijke termijn” genoemd.   
 2.  Indien de partijen het niet eens worden over de redelijke termijn voor naleving van de uitspraak van het arbitragepanel, kan de klagende partij het oorspronkelijke arbitragepanel binnen 20 dagen na de kennisgeving krachtens lid 1 van dit artikel schriftelijk verzoeken om de lengte van de redelijke termijn vast te stellen. Dit verzoek wordt tegelijkertijd medegedeeld aan de andere partij en aan het Handelscomité. Het arbitragepanel stelt de partijen en het Handelscomité binnen 20 dagen na de indiening van het verzoek in kennis van zijn besluit ter zake.   
@@ -4845,7 +4845,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Onderzoek van de maatregelen die zijn getroffen om de uitspraak van het arbitragepanel na te leven
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partij waartegen de klacht gericht is, stelt de klagende partij en het Handelscomité voor afloop van de redelijke termijn in kennis van de maatregelen die zij heeft getroffen om de uitspraak van het arbitragepanel na te leven.   
 2.  Wanneer er tussen de partijen onenigheid bestaat over de vraag of een maatregel waarvan overeenkomstig lid 1 van dit artikel is kennisgegeven daadwerkelijk bestaat dan wel of een dergelijke maatregel in overeenstemming is met de overeenkomst, kan de klagende partij het oorspronkelijke arbitragepanel schriftelijk verzoeken hierover uitspraak te doen. In dat verzoek wordt aangegeven om welke specifieke maatregel het gaat en met welke bepalingen van de overeenkomst de maatregel niet in overeenstemming zou zijn, en dit op zodanige wijze dat de rechtsgronden voor de klacht voldoende duidelijk worden aangegeven. Het arbitragepanel deelt zijn uitspraak binnen 45 dagen na de datum van indiening van het verzoek mede.   
@@ -4855,7 +4855,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Corrigerende maatregelen in geval van urgente energiegeschillen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Met betrekking tot een geschil in het kader van hoofdstuk 11 (Handelsgerelateerde energie) van titel IV van deze overeenkomst dat door een van de partijen urgent wordt geacht wegens een volledige of gedeeltelijke onderbreking van het vervoer van aardgas, olie of elektriciteit of een dreiging van een dergelijke onderbreking, tussen Oekraïne en de EU-partij, zijn de volgende bepalingen op corrigerende maatregelen van toepassing.   
 2.  In afwijking van de artikelen 311, 312 en 313 van deze overeenkomst kan de klagende partij haar uit deze overeenkomst voortvloeiende verplichtingen opschorten in een mate die overeenkomt met de mate waarin de schending de voordelen voor de klagende partij tenietdoet of beperkt. De opschorting kan direct ingaan. Deze opschorting mag maximaal drie maanden duren, tenzij de partij waartegen de klacht gericht is, niet aan het verslag van het panel heeft voldaan.   
@@ -4865,7 +4865,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Tijdelijke maatregelen bij niet-naleving
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Indien de partij waartegen de klacht gericht is niet voor afloop van de redelijke termijn kennisgeeft van maatregelen die zij heeft getroffen om de uitspraak van het arbitragepanel na te leven, of indien het arbitragepanel oordeelt dat maatregelen waarvan overeenkomstig artikel 313, lid 1, van deze overeenkomst is kennisgegeven, niet in overeenstemming zijn met de verplichtingen van de partij uit hoofde van de in artikel 304 van deze overeenkomst bedoelde bepalingen, biedt de partij waartegen de klacht gericht is de klagende partij, op haar verzoek, een tijdelijke compensatie aan.   
 2.  Indien de partijen geen overeenstemming over compensatie bereiken binnen 30 dagen na afloop van de redelijke termijn of na de in artikel 313 van deze overeenkomst bedoelde uitspraak van het arbitragepanel dat een maatregel die is getroffen om de uitspraak na te leven niet in overeenstemming is met de in artikel 304 van deze overeenkomst bedoelde bepalingen, is de klagende partij gerechtigd om, na de partij waartegen de klacht gericht is en het Handelscomité hiervan in kennis te hebben gesteld, de verplichtingen die voortvloeien uit het hoofdstuk inzake de vrijhandelszone op te schorten in een mate die overeenkomst met de mate waarin de schending de voordelen voor de klagende partij tenietdoet of beperkt. De klagende partij kan de opschorting 10 dagen na de datum van kennisgeving op elk gewenst tijdstip laten ingaan, tenzij de partij waartegen de klacht gericht is, overeenkomstig lid 4 van dit artikel om arbitrage heeft verzocht.   
@@ -4878,7 +4878,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Onderzoek van nalevingsmaatregelen getroffen na de opschorting van verplichtingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partij waartegen de klacht gericht is, stelt de klagende partij en het Handelscomité in kennis van elke maatregel die zij heeft getroffen om de uitspraak van het arbitragepanel na te leven, alsmede van haar verzoek om beëindiging van de opschorting van verplichtingen door de klagende partij.   
 2.  Indien de partijen binnen 30 dagen na de datum van kennisgeving geen overeenstemming bereiken over de vraag of de maatregel waarvan is kennisgegeven, ertoe leidt dat de partij waartegen de klacht gericht is, in overeenstemming met de in artikel 304 van deze overeenkomst bedoelde bepalingen handelt, kan de klagende partij het arbitragepanel schriftelijk verzoeken hierover uitspraak te doen. De partij waartegen de klacht gericht is en het Handelscomité worden tegelijkertijd van dit verzoek in kennis gesteld. Het arbitragepanel stelt de partijen en het Handelscomité binnen 45 dagen na de indiening van het verzoek in kennis van zijn uitspraak. Indien het arbitragepanel oordeelt dat de partij waartegen de klacht gericht is, zich aan de overeenkomst heeft geconformeerd, of indien de klagende partij niet binnen 45 dagen na de indiening van de in lid 1 van dit artikel bedoelde kennisgeving het arbitragepanel verzoekt om uitspraak in de zaak te doen, wordt de opschorting van verplichtingen binnen 15 dagen na hetzij de uitspraak van het arbitragepanel hetzij het einde van de periode van 45 dagen beëindigd.   
@@ -4888,13 +4888,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####GEMEENSCHAPPELĲKE BEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  317  
 
 ####Onderling overeengekomen oplossing
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen kunnen te allen tijde onderling een oplossing voor een onder dit hoofdstuk vallend geschil overeenkomen. Zij stellen het Handelscomité en de voorzitter van het arbitragepanel in voorkomend geval gezamenlijk in kennis van een dergelijke oplossing. Indien de oplossing ingevolge de desbetreffende interne procedures van een van beide partijen goedkeuring vergt, verwijst de kennisgeving naar dit vereiste en wordt de arbitrageprocedure opgeschort. Indien een dergelijke goedkeuring niet vereist is, of nadat is kennisgegeven van de afronding van die interne procedures, wordt de arbitrageprocedure beëindigd. 
 
@@ -4902,7 +4902,7 @@ De partijen kunnen te allen tijde onderling een oplossing voor een onder dit hoo
 
 ####Reglement van orde
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Op de geschillenbeslechtingsprocedures in het kader van dit hoofdstuk is het in bijlage XXIV bij deze overeenkomst opgenomen reglement van orde van toepassing.   
 2.  Overeenkomstig het in bijlage XXIV bij deze overeenkomst opgenomen reglement van orde zijn de zittingen van het arbitragepanel openbaar.  
@@ -4911,7 +4911,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Inlichtingen en technisch advies
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Het arbitragepanel kan op verzoek van een partij of op eigen initiatief bij alle bronnen, met inbegrip van de bij het geschil betrokken partijen, de inlichtingen inwinnen die het nuttig acht voor de arbitrageprocedure. Het arbitragepanel heeft tevens het recht deskundigen om advies te vragen wanneer het dat nuttig acht. Alle op deze manier verkregen informatie moet voor commentaar aan beide partijen worden voorgelegd. Op het grondgebied van de partijen gevestigde belanghebbende natuurlijke of rechtspersonen kunnen overeenkomstig het in bijlage XXIV bij deze overeenkomst opgenomen reglement van orde als amicus curiae opmerkingen bij het arbitragepanel indienen. 
 
@@ -4919,7 +4919,7 @@ Het arbitragepanel kan op verzoek van een partij of op eigen initiatief bij alle
 
 ####Interpretatieregels
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Arbitragepanels leggen de in artikel 304 van deze overeenkomst bedoelde bepalingen uit volgens de gebruikelijke regels voor de uitlegging van het internationaal publiekrecht, met inbegrip van die in het Verdrag van Wenen inzake het verdragenrecht van 1969. Wanneer een verplichting uit hoofde van deze overeenkomst identiek is aan een verplichting uit hoofde van de WTO-overeenkomst, legt het arbitragepanel zich vast op een interpretatie die in overeenstemming is met een eventuele relevante interpretatie die is vastgesteld in uitspraken van het Orgaan voor geschillenbeslechting van de WTO, hierna „het DSB” (Dispute Settlement Body) genoemd. Uitspraken van een arbitragepanel kunnen de rechten en verplichtingen uit hoofde van deze overeenkomst niet verruimen of beperken. 
 
@@ -4927,7 +4927,7 @@ Arbitragepanels leggen de in artikel 304 van deze overeenkomst bedoelde bepaling
 
 ####Besluiten en uitspraken van het arbitragepanel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Het arbitragepanel stelt alles in het werk om elk besluit bij consensus te nemen. Wanneer het evenwel niet mogelijk is bij consensus tot een besluit te komen, wordt een besluit bij meerderheid van stemmen genomen. In geen geval worden echter afwijkende meningen van scheidsrechters gepubliceerd.   
 2.  De uitspraken van het arbitragepanel zijn bindend voor de partijen en scheppen geen rechten of verplichtingen voor natuurlijke of rechtspersonen. De uitspraak vermeldt de resultaten van het feitenonderzoek, de toepasbaarheid van de desbetreffende bepalingen van de overeenkomst, alsmede de beweeggronden die aan de conclusies en aanbevelingen van het panel ten grondslag liggen. Het Handelscomité maakt de volledige uitspraak van het arbitragepanel openbaar, maar kan besluiten dat niet te doen.  
@@ -4936,7 +4936,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Beslechting van geschillen over de aanpassing van regelgeving
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De in dit artikel uiteengezette procedures zijn van toepassing op geschillen over de interpretatie en de toepassing van de bepalingen van deze overeenkomst inzake de aanpassing van regelgeving van hoofdstuk 3 (Technische handelsbelemmeringen), hoofdstuk 4 (Sanitaire en fytosanitaire maatregelen), hoofdstuk 5 (Douane en handelsbevordering), hoofdstuk 6 (Vestiging, handel in diensten en elektronische handel), hoofdstuk 8 (Overheidsopdrachten) en hoofdstuk 10 (Mededinging) van deze overeenkomst.   
 2.  Voor zover een geschil vragen opwerpt over de interpretatie van bepalingen van de in lid van dit artikel bedoelde EU-wetgeving, zal het arbitragepanel zich onthouden van een uitspraak over deze vraag, en het Hof van Justitie van de Europese Unie verzoeken over die vraag uitspraak te doen. In die gevallen worden de termijnen voor het doen van een uitspraak door het arbitragepanel opgeschort totdat het Hof van Justitie van de Europese Unie uitspraak heeft gedaan. De uitspraak van het Hof van Justitie van de Europese Unie is bindend voor het arbitragepanel.  
@@ -4945,13 +4945,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####ALGEMENE BEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  323  
 
 ####Scheidsrechters
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Het Handelscomité stelt uiterlijk zes maanden na de inwerkingtreding van deze overeenkomst een lijst op van 15 personen die bereid en in staat zijn om als scheidsrechter op te treden. Elk van de partijen draagt vijf personen voor die als scheidsrechter kunnen optreden. De twee partijen kiezen in onderling overleg bovendien vijf personen die geen onderdaan van een van de partijen zijn en die als voorzitter van het arbitragepanel kunnen fungeren. Het Handelscomité ziet erop toe dat de lijst te allen tijde uit dit aantal personen blijft bestaan.   
 2.  De ingevolge lid 1 van dit artikel opgestelde lijst dient voor de samenstelling van de arbitragepanels in overeenstemming met artikel 307 van deze overeenkomst. Deze lijst omvat scheidsrechters met gespecialiseerde kennis of ervaring op het gebied van het recht en de internationale handel.   
@@ -4961,7 +4961,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Relatie tot WTO-verplichtingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Een beroep op de bepalingen in dit hoofdstuk over de beslechting van geschillen doet geen afbreuk aan enige rechtsvordering in het kader van de WTO, met inbegrip van die tot beslechting van een geschil.   
 2.  Wanneer echter een partij in verband met een specifieke maatregel een procedure voor geschillenbeslechting heeft ingeleid, hetzij krachtens artikel 306, lid 1, van deze overeenkomst, hetzij krachtens de WTO-overeenkomst, kan deze partij in verband met dezelfde maatregel geen procedure voor geschillenbeslechting in het andere forum inleiden totdat de eerste procedure is afgesloten. Bovendien kan een partij in verband met een identieke verplichting uit hoofde van deze overeenkomst en de WTO-overeenkomst niet in beide fora een procedure inleiden. In dat geval kan de partij, zodra een procedure voor geschillenbeslechting is ingeleid, geen procedure ten aanzien van de identieke verplichting uit hoofde van de andere overeenkomst meer inleiden in het andere forum, tenzij het gekozen forum om procedurele of bevoegdheidsredenen geen uitspraak doet.   
@@ -4976,7 +4976,7 @@ b. procedures voor geschillenbeslechting krachtens dit hoofdstuk geacht te zijn 
 
 ####Termijnen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Alle in dit hoofdstuk vastgestelde termijnen, met inbegrip van die waarbinnen arbitragepanels hun uitspraken moeten bekendmaken, worden gerekend in kalenderdagen waarbij de eerste dag de dag is volgende op die waarop de desbetreffende handeling of het desbetreffende feit plaatsvond.   
 2.  Alle in dit hoofdstuk vermelde termijnen kunnen in onderling overleg tussen de partijen worden verlengd.  
@@ -4985,7 +4985,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Wijziging van het hoofdstuk
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Het Handelscomité kan besluiten over te gaan tot wijziging van dit hoofdstuk, van het in bijlage XXIV bij deze overeenkomst bedoelde reglement van orde voor arbitrage en van de in bijlage XXV bij deze overeenkomst bedoelde gedragscode voor leden van arbitragepanels en bemiddelaars. 
 
@@ -4993,13 +4993,13 @@ Het Handelscomité kan besluiten over te gaan tot wijziging van dit hoofdstuk, v
 
 ####BEMIDDELINGSMECHANISME
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  327  
 
 ####Doelstelling en toepassingsgebied
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Het doel van dit hoofdstuk is door een alomvattende en snelle procedure met behulp van een bemiddelaar het bereiken van een wederzijds aanvaardbare oplossing te vergemakkelijken.   
 2.  Dit hoofdstuk is van toepassing op maatregelen die binnen het toepassingsgebied van hoofdstuk I (Nationale behandeling en markttoegang voor goederen) van titel IV van deze overeenkomst vallen en die de handel tussen de partijen ongunstig beïnvloeden.   
@@ -5009,13 +5009,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####PROCEDURE OP GROND VAN HET BEMIDDELINGSMECHANISME
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  328  
 
 ####Verzoek om informatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Vóór de aanvang van de bemiddelingsprocedure kan een partij te allen tijde om informatie verzoeken over een maatregel die de handel of investeringen tussen de partijen ongunstig beïnvloedt. De partij waaraan een dergelijk verzoek wordt gedaan, verstrekt binnen 20 dagen na de datum van ontvangst van het verzoek een antwoord dat haar opmerkingen over de informatie in het verzoek bevat. Voor zover mogelijk wordt het verzoek schriftelijk gedaan en het antwoord schriftelijk gegeven.   
 2.  Wanneer de antwoordende partij van mening is dat een antwoord binnen 20 dagen niet haalbaar is, stelt zij de verzoekende partij op de hoogte van de redenen voor de vertraging, en geeft zij haar een schatting van de kortst mogelijke termijn waarbinnen zij zal kunnen antwoorden.  
@@ -5024,7 +5024,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Inleiding van de procedure
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Een partij kan te allen tijde verzoeken dat de andere partij deelneemt aan een bemiddelingsprocedure. Een dergelijk verzoek wordt aan de andere partij schriftelijk gedaan. Het bevat voldoende details om de zorgen van de verzoekende partij daarin duidelijk tot uitdrukking te laten komen en: 
 
@@ -5039,7 +5039,7 @@ c. legt uit wat volgens de verzoekende partij het verband tussen die gevolgen en
 
 ####Selectie van de bemiddelaar
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Na instelling van de bemiddelingsprocedure streven de partijen ernaar uiterlijk 15 dagen na de ontvangst van het antwoord op het verzoek overeenstemming over een bemiddelaar te bereiken.   
 2.  Indien de partijen binnen het aangegeven tijdpad geen overeenstemming ter zake kunnen bereiken, kan een van hen de voorzitter van het Handelscomité of diens vertegenwoordiger verzoeken een bemiddelaar uit de in overeenstemming met artikel 323 van deze overeenkomst opgestelde lijst door loting aan te wijzen. Vertegenwoordigers van beide partijen bij het geschil worden tijdig uitgenodigd om bij de loting aanwezig te zijn. In elk geval vindt de loting plaats in tegenwoordigheid van de partij/de partijen die daarbij aanwezig zijn.   
@@ -5052,7 +5052,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Regels van de bemiddelingsprocedure
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Binnen 10 dagen na de aanstelling van de bemiddelaar legt de partij die de bemiddelingsprocedure heeft ingeleid, schriftelijk een gedetailleerde beschrijving van het probleem voor aan de bemiddelaar en de andere partij, in het bijzonder van de werking van de maatregel in kwestie en de effecten daarvan op de handel. Binnen 20 dagen na de datum van indiening van deze uiteenzetting kan de andere partij schriftelijk opmerkingen over de beschrijving van het probleem indienen. Elke partij kan in haar beschrijving of commentaar alle informatie opnemen die zij van belang acht.   
 2.  De bemiddelaar kan besluiten wat de meest geëigende wijze is om duidelijkheid te scheppen over de maatregel en de mogelijke gevolgen ervan voor de handel. De bemiddelaar kan met name vergaderingen tussen de partijen organiseren, met hen gezamenlijk of afzonderlijk overleggen, verzoeken om bijstand van of overleg met relevante deskundigen en belanghebbenden alsmede aanvullende ondersteuning bieden waarom de partijen hebben verzocht. Alvorens om bijstand van of overleg met relevante deskundigen of belanghebbenden te verzoeken, overlegt de bemiddelaar met de partijen.   
@@ -5074,13 +5074,13 @@ d. in elk stadium van de procedure, wanneer de partijen in onderlinge overeenste
 
 ####TENUITVOERLEGGING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  332  
 
 ####Tenuitvoerlegging van een onderling overeengekomen oplossing
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Wanneer de partijen overeenstemming over een oplossing hebben bereikt, neemt elk van beide partijen de maatregelen die nodig zijn om de onderling overeengekomen oplossing binnen de overeengekomen termijnen ten uitvoer te leggen.   
 2.  De tenuitvoerleggende partij stelt de andere partij schriftelijk in kennis van ter uitvoering van de onderling overeengekomen oplossing gedane stappen of genomen maatregelen.   
@@ -5096,13 +5096,13 @@ c. in voorkomend geval, de onderling overeengekomen oplossing waartoe die proced
 
 ####ALGEMENE BEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  333  
 
 ####Verhouding tot beslechting van geschillen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De procedure in het kader van dit bemiddelingsmechanisme is niet bedoeld om als basis voor geschillenbeslechtingsprocedures in het kader van deze of een andere overeenkomst te dienen. Wat bewijsmateriaal in geschillenbeslechtingsprocedures betreft, beroept een partij zich niet op de volgende zaken, noch voert zij deze als bewijsmateriaal aan, en zal een panel evenmin rekening houden met: 
 
@@ -5118,7 +5118,7 @@ c. door de bemiddelaar gedane voorstellen of gegeven adviezen.
 
 ####Termijnen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De bij deze procedures betrokken partijen kunnen in onderling overleg alle in dit hoofdstuk vermelde termijnen wijzigen. 
 
@@ -5126,7 +5126,7 @@ De bij deze procedures betrokken partijen kunnen in onderling overleg alle in di
 
 ####Kosten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Elke partij draagt haar eigen kosten die voortvloeien uit deelname aan de bemiddelingsprocedure.   
 2.  De partijen dragen de kosten voor organisatorische aangelegenheden, met inbegrip van de beloning en de kosten van de bemiddelaar, eventuele assistenten van de bemiddelaar en voor zover de partijen het niet eens worden over een gemeenschappelijke taal, de vertaalkosten, gezamenlijk en elk voor een gelijk deel. De beloning van de bemiddelaar zal in overeenstemming zijn met de beloning die is voorzien voor de voorzitter van een arbitragepanel als bedoeld in punt 8 van bijlage XXIV bij deze overeenkomst.  
@@ -5135,7 +5135,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Herziening
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Vijf jaar na de inwerkingtreding van deze overeenkomst treden de partijen met elkaar in overleg over de eventuele noodzaak tot wijziging van het bemiddelingsmechanisme tegen de achtergrond van de opgedane ervaringen en de ontwikkeling van een dienovereenkomstig mechanisme in de WTO. 
 
@@ -5143,16 +5143,16 @@ Vijf jaar na de inwerkingtreding van deze overeenkomst treden de partijen met el
 
 ####ECONOMISCHE EN SECTORALE SAMENWERKING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### HOOFDSTUK  1  
 
 ####SAMENWERKING INZAKE ENERGIE, MET INBEGRIP VAN KERNENERGIE
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  337  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen komen overeen hun huidige samenwerking inzake energie voort te zetten en te intensiveren met het oog op vergroting van de energiezekerheid, het concurrentievermogen en de duurzaamheid, wat een cruciale voorwaarde is voor het stimuleren van economische groei en het toewerken naar marktintegratie, onder meer door geleidelijke aanpassing van de wetgeving in de energiesector en participatie in regionale samenwerking op energiegebied. Bij de samenwerking op regelgevingsgebied wordt rekening gehouden met de desbetreffende verplichtingen tot openbare dienstverlening, onder meer door maatregelen om afnemers te informeren over en te beschermen tegen oneerlijke handelspraktijken, en met de noodzaak om de toegang tot betaalbare energie te waarborgen voor de consumenten, ook voor de kwetsbaarste burgers.   
 2.  Deze samenwerking wordt gebaseerd op een breed partnerschap en wordt geleid door de beginselen van wederzijds belang, wederkerigheid, transparantie en voorspelbaarheid, in overeenstemming met de markteconomie, het verdrag inzake het Energiehandvest van 1994, het memorandum van overeenstemming inzake samenwerking op het gebied van energie en andere multilaterale en aanverwante bilaterale overeenkomsten.  
@@ -5161,7 +5161,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####De onderlinge samenwerking bestrijkt onder meer de volgende gebieden:
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 a.  tenuitvoerlegging van energiestrategieën en energiebeleid en ontwikkeling/uitwerking van prognoses en scenario’s; verbetering van het statistische registratiesysteem in de energiesector op basis van passende uitwisseling van informatie over energiebalansen en energiestromen, overeenkomstig de internationale praktijk, en ontwikkeling van infrastructuur;   
 b.  instelling van effectieve mechanismen om potentiële crisissituaties op energiegebied op te vangen in een geest van solidariteit;   
@@ -5178,22 +5178,22 @@ l.  samenwerking inzake wetenschap en technologie en uitwisseling van informatie
 m.  samenwerking in het kader van de Europese en internationale normalisatie-instanties op het gebied van energie.  
 
 ### Artikel  339  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen wisselen informatie en ervaring uit en verlenen passende steun aan het proces van hervorming van de regelgeving, waaronder de herstructurering van de steenkoolsector (magerkool, cokeskool en bruinkool) om het concurrentievermogen ervan te versterken, de veiligheid van de mijnen en de gezondheid en veiligheid op het werk te vergroten en de milieu-impact ervan te verminderen, waarbij rekening wordt gehouden met de regionale en sociale gevolgen. Ter vergroting van de efficiëntie, het concurrentievermogen en de duurzaamheid dient het proces van herstructurering de gehele steenkoolwaardeketen te bestrijken, dat wil zeggen van de exploratie, via de productie en de verwerking, tot de conversie en de behandeling van residuen van steenkoolverwerking en -verbranding. Deze aanpak omvat tevens de terugwinning en het gebruik van de methaanuitstoot van steenkoolmijnen, alsook van die van de olie- en gaswinning, stortplaatsen en de landbouwsector, zoals onder andere aangegeven in het mondiale methaaninitiatief, waarbij de partijen partners zijn. 
 
 ### Artikel  340  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen stellen een mechanisme voor vroegtijdige waarschuwing in, zoals bedoeld in bijlage XXVI bij hoofdstuk 1 (Samenwerking inzake energie, met inbegrip van kernenergie) van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
 ### Artikel  341  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De geleidelijke aanpassing geschiedt overeenkomstig een tijdschema als bedoeld in bijlage XXVII bij deze overeenkomst. 
 
 ### Artikel  342  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Met inachtneming van de respectieve bevoegdheden van de Europese Unie en haar lidstaten dan wel de Europese Gemeenschap voor Atoomenergie en haar lidstaten vindt de samenwerking in de civiele kernenergiesector plaats via de tenuitvoerlegging van specifieke tussen de partijen gesloten of te sluiten overeenkomsten, overeenkomstig de wettelijke procedures van elke partij.   
 2.  Deze samenwerking is gericht op een hoog niveau van nucleaire veiligheid en een schoon en vreedzaam gebruik van kernenergie, en bestrijkt alle civiele kernenergieactiviteiten en alle stadia van de splijtstofcyclus, waaronder de productie van en de handel in nucleaire materialen, de veiligheids- en beveiligingsaspecten van kernenergie en rampenparaatheid, alsmede vraagstukken met betrekking tot gezondheid en milieu, en non-proliferatie. De samenwerking in deze context omvat tevens de verdere ontwikkeling van beleid en van wet- en regelgevingskaders op basis van de wetgeving en de praktijk in de EU alsmede de normen van de Internationale Organisatie voor Atoomenergie (IAEA). De partijen bevorderen het wetenschappelijk onderzoek op het gebied van nucleaire veiligheid en beveiliging, onder meer door gezamenlijke activiteiten op het gebied van onderzoek en ontwikkeling, en de opleiding en mobiliteit van wetenschappers.   
@@ -5215,15 +5215,15 @@ f. andere wederzijds overeen te komen gebieden, zoals de medische, wetenschappel
 
 ####MACRO-ECONOMISCHE SAMENWERKING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  343  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De Europese Unie en Oekraïne vergemakkelijken het proces van economische hervormingen door middel van samenwerking die beoogt het inzicht in de basiselementen van hun respectieve economieën en het formuleren en uitvoeren van economisch beleid in een markteconomie te verbeteren. Oekraïne streeft ernaar een goed functionerende markteconomie tot stand te brengen en zijn beleid geleidelijk aan te passen aan het beleid van de Europese Unie, overeenkomstig de leidende beginselen van macro-economische stabiliteit, gezonde overheidsfinanciën en een houdbare betalingsbalans. 
 
 ### Artikel  344  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Om de in artikel 343 van deze overeenkomst vermelde doelstellingen te bereiken werken de partijen werken samen op de volgende terreinen: 
 
@@ -5236,7 +5236,7 @@ c. uitwisseling van macro-economische deskundigheid;
 d. uitwisseling van informatie over de beginselen en de werking van de Europese Economische en Monetaire Unie (EMU).   
 
 ### Artikel  345  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 2 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
@@ -5244,15 +5244,15 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####BEHEER VAN DE OVERHEIDSFINANCIËN: BEGROTINGSBELEID, INTERNE CONTROLE EN EXTERNE AUDIT
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  346  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De samenwerking inzake het beheer van de overheidsfinanciën is gericht op de ontwikkeling van begrotingsbeleid en solide systemen voor interne controle van de overheidsfinanciën en externe audit die op internationale normen zijn gebaseerd en verenigbaar zijn met de fundamentele beginselen van verantwoording, transparantie, spaarzaamheid, doelmatigheid en doeltreffendheid. 
 
 ### Artikel  347  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen wisselen informatie, ervaring en goede praktijken uit en nemen andere maatregelen voor met name het volgende: 
 
@@ -5273,7 +5273,7 @@ c. verbetering van de uitwisseling van informatie en ervaringen inzake de planni
 4. Op het gebied van fraudebestrijding: verbetering van de methoden voor de bestrijding en voorkoming van fraude en corruptie op de gebieden die vallen onder hoofdstuk 3 van titel V (Economische en sectorale samenwerking) van deze overeenkomst, met inbegrip van samenwerking tussen relevante bestuursinstanties.   
 
 ### Artikel  348  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 3 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
@@ -5281,35 +5281,35 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####BELASTINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  349  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen werken samen ter versterking van goed bestuur op fiscaal gebied, teneinde de economische betrekkingen, handel, investeringen en eerlijke concurrentie verder te verbeteren. 
 
 ### Artikel  350  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Ten aanzien van artikel 349 van deze overeenkomst erkennen de partijen de beginselen van goed bestuur op fiscaal gebied, dat wil zeggen de beginselen van transparantie, uitwisseling van informatie en eerlijke belastingconcurrentie, zoals de lidstaten die op EU-niveau onderschrijven, en verbinden de partijen zich tot tenuitvoerlegging van deze beginselen. De partijen streven daartoe naar betere internationale samenwerking op fiscaal gebied, vergemakkelijking van het innen van legitieme belastingen en het opzetten van maatregelen voor de doelmatige uitvoering van deze beginselen, zonder afbreuk te doen aan de bevoegdheden van de Europese Unie en de lidstaten. 
 
 ### Artikel  351  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen intensiveren en versterken tevens hun samenwerking tot verbetering en ontwikkeling van het Oekraïense belastingstelsel en de Oekraïense belastingdienst, met inbegrip van verbetering van de capaciteit voor belastinginning en -controle, waarbij zij specifieke aandacht schenken aan de procedures voor de terugbetaling van belasting over de toegevoegde waarde (btw), teneinde de opeenhoping van achterstallen te vermijden, doeltreffende belastinginning te verzekeren en de strijd tegen belastingfraude en belastingontwijking te versterken. De partijen streven ernaar beter samen te werken en ervaringen uit te wisselen ter bestrijding van belastingfraude, in het bijzonder carrouselfraude. 
 
 ### Artikel  352  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen ontwikkelen hun samenwerking en harmoniseren hun beleid om fraude met en smokkel van accijnsproducten te voorkomen en te bestrijden. Deze samenwerking omvat onder meer de geleidelijke onderlinge aanpassing van de accijnstarieven voor tabaksproducten, waarbij zo veel mogelijk rekening wordt gehouden met de beperkingen die de regionale context met zich meebrengt, onder meer door middel van een dialoog op regionaal niveau en in overeenstemming met het kaderverdrag van de Wereldgezondheidsorganisatie inzake tabaksontmoediging van 2003. De partijen zullen hiertoe streven naar versterking van hun samenwerking in regionaal verband. 
 
 ### Artikel  353  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De geleidelijke aanpassing aan de belastingstructuur zoals deze is neergelegd in het acquis van de EU zal plaatsvinden zoals uiteengezet in bijlage XXVIII bij deze overeenkomst. 
 
 ### Artikel  354  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 4 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
@@ -5317,15 +5317,15 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####STATISTIEK
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  355  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen ontwikkelen en versterken hun samenwerking inzake statistische aangelegenheden, en dragen zo bij tot hun langetermijndoelstelling om tijdig internationaal vergelijkbare en betrouwbare statistische gegevens te verstrekken. Hun verwachting is dat een duurzaam, efficiënt en professioneel onafhankelijk nationaal statistisch stelsel informatie oplevert die relevant is voor burgers, bedrijven en besluitvormers in Oekraïne en in de EU en hen in staat stelt gefundeerde besluiten te nemen. Het nationale statistische stelsel dient de grondbeginselen van de officiële statistiek van de Verenigde Naties te respecteren en rekening te houden met het acquis van de EU op statistisch gebied, waaronder de Praktijkcode Europese statistieken, teneinde het nationale statistische stelsel met de Europese normen te harmoniseren. Het acquis op statistisch gebied is opgenomen in het jaarlijks bijgewerkte compendium voor de statistiek, dat door de partijen als bijlage bij deze overeenkomst (bijlage XXIX) wordt beschouwd. 
 
 ### Artikel  356  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De samenwerking is gericht op: 
 
@@ -5342,7 +5342,7 @@ e. uitwisseling tussen de partijen van ervaringen betreffende de ontwikkeling va
 f. bevordering van integrale kwaliteitszorg voor alle statistische productieprocessen en de verspreiding van statistische gegevens.   
 
 ### Artikel  357  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen werken samen in het kader van het Europees statistisch systeem, waarbinnen Eurostat de EU-autoriteit voor de statistiek is. Deze samenwerking wordt onder meer op de volgende terreinen gericht: 
 
@@ -5363,12 +5363,12 @@ g. regionale statistieken;
 h. integrale kwaliteitszorg voor alle statistische productieprocessen en de verspreiding van statistische gegevens.   
 
 ### Artikel  358  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen wisselen onder meer informatie en deskundigheid uit en zien toe op de verdere ontwikkeling van hun samenwerking, waarbij zij rekening houden met de in het kader van de diverse bijstandsprogramma’s reeds opgebouwde ervaring met de hervorming van het statistische stelsel. Zij richten hun inspanningen op de verdere geleidelijke aanpassing aan het acquis van de EU op statistisch gebied, op basis van de nationale strategie voor de ontwikkeling van het Oekraïense statistische stelsel, waarbij zij rekening houden met de ontwikkeling van het Europees statistisch systeem. In het kader van het productieproces voor statistische gegevens wordt nadruk gelegd op de verdere ontwikkeling van steekproefenquêtes, rekening houdende met de noodzaak om de belasting voor de respondenten te verminderen. De gegevens moeten relevant zijn voor de opzet en de monitoring van het beleid op alle sleutelgebieden van het sociale en economische leven. 
 
 ### Artikel  359  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 5 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. De binnen het Europees statistisch systeem ondernomen activiteiten dienen zo veel mogelijk open te staan voor deelname van Oekraïne overeenkomstig de gebruikelijke voorschriften voor de deelname van derde landen. 
 
@@ -5376,15 +5376,15 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####MILIEU
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  360  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen ontwikkelen en versterken hun samenwerking inzake milieuaangelegenheden en dragen zo bij tot de langetermijndoelstelling van duurzame ontwikkeling en de groene economie. Verwacht wordt dat betere bescherming van het milieu voordelen zal bieden voor burgers en bedrijven in Oekraïne en in de EU, onder meer door verbetering van de volksgezondheid, behoud van natuurlijke hulpbronnen, grotere economische en milieuefficiëntie, integratie van het milieu in andere beleidsgebieden en hogere productie door toepassing van moderne technologieën. De partijen werken samen in hun beider belang op basis van gelijkheid en wederzijds voordeel, waarbij zij rekening houden met hun onderlinge afhankelijkheid op het gebied van milieubescherming en de multilaterale overeenkomsten op dat gebied. 
 
 ### Artikel  361  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De samenwerking is gericht op behoud, bescherming, verbetering en herstel van de kwaliteit van het milieu, bescherming van de menselijke gezondheid, verstandig en rationeel gebruik van natuurlijke hulpbronnen en bevordering van maatregelen op internationaal niveau voor het aanpakken van regionale of mondiale milieuproblemen, onder andere op het gebied van: 
 
@@ -5415,7 +5415,7 @@ l. de stedelijke omgeving;
 m. milieuheffingen.   
 
 ### Artikel  362  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen zorgen voor onder meer het volgende: 
 
@@ -5429,12 +5429,12 @@ d. uitvoering van gezamenlijke activiteiten op regionaal en internationaal nivea
 2.  De partijen schenken bijzondere aandacht aan grensoverschrijdende vraagstukken.  
 
 ### Artikel  363  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De geleidelijke aanpassing van de Oekraïense wetgeving aan de milieuwetgeving en het milieubeleid van de EU geschiedt overeenkomstig bijlage XXX bij deze overeenkomst. 
 
 ### Artikel  364  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Met inachtneming van de respectieve bevoegdheden van de Europese Unie en haar lidstaten vindt de samenwerking op het gebied van civiele bescherming plaats via de tenuitvoerlegging van specifieke tussen de partijen gesloten overeenkomsten, overeenkomstig de wettelijke procedures van elke partij. De samenwerking is onder meer gericht op: 
 
@@ -5451,7 +5451,7 @@ e. de uitnodiging, per geval, van waarnemers voor specifieke oefeningen en oplei
 f. de versterking van reeds bestaande samenwerking inzake de doeltreffendste wijze om de beschikbare civielebeschermingscapaciteit in te zetten.   
 
 ### Artikel  365  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De samenwerking bestrijkt onder meer de volgende doelstellingen: 
 
@@ -5462,7 +5462,7 @@ b. ontwikkeling van sectorale strategieën inzake luchtkwaliteit, beheer van de 
 c. ontwikkeling en uitvoering van beleid inzake klimaatverandering, zoals met name omschreven in bijlage XXXI bij deze overeenkomst.   
 
 ### Artikel  366  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 6 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
@@ -5470,10 +5470,10 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####VERVOER
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  367  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen: 
 
@@ -5484,14 +5484,14 @@ b. bevorderen efficiënt, veilig en betrouwbaar vervoer, alsmede de intermodalit
 c. streven naar verbetering van de belangrijkste vervoersverbindingen tussen hun grondgebieden.   
 
 ### Artikel  368  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De samenwerking tussen de partijen beoogt de herstructurering en modernisering van de Oekraïense vervoerssector te vergemakkelijken en is gericht op geleidelijke invoering van beleid en bedrijfsnormen die vergelijkbaar zijn met die van de EU, in het bijzonder door uitvoering van de maatregelen van bijlage XXXI bij deze overeenkomst, onverminderd tussen de partijen gesloten of te sluiten specifieke vervoersovereenkomsten. De uitvoering van de genoemde maatregelen mag niet in strijd zijn met de rechten en verplichtingen die voor de partijen voortvloeien uit internationale overeenkomsten waarbij zij partij zijn, of hun deelname aan internationale organisaties belemmeren.   
 2.  Met de samenwerking wordt tevens gestreefd naar verbetering van het verkeer van personen en goederen en de doorstroming van het vervoer tussen Oekraïne, de EU en derde landen in de regio door administratieve en technische al dan niet grensoverschrijdende belemmeringen weg te nemen, de vervoersnetwerken te verbeteren en de infrastructuur te moderniseren, met name van de belangrijkste verkeersassen tussen de partijen. De samenwerking omvat maatregelen ter vergemakkelijking van grensoverschrijdend verkeer.   
 3.  De samenwerking omvat informatie-uitwisseling en gezamenlijke activiteiten: op regionaal niveau, in het bijzonder met inachtneming en met integratie van de vooruitgang die bereikt is in het kader van diverse regionale regelingen voor vervoerssamenwerking, zoals het Vervoerspanel voor het oostelijk partnerschap, de Transportcorridor Europa-Kaukasus-Azië (Traceca), het proces van Bakoe en andere vervoersinitiatieven; op internationaal niveau, onder meer ten aanzien van internationale vervoersorganisaties en internationale overeenkomsten en verdragen die door de partijen zijn geratificeerd in het kader van de verschillende vervoersinstanties van de EU.  
 
 ### Artikel  369  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De samenwerking richt zich onder meer op de volgende gebieden: 
 
@@ -5508,7 +5508,7 @@ e. wetenschappelijke en technische samenwerking en uitwisseling van informatie m
 f. bevordering van het gebruik van intelligente vervoerssystemen en informatietechnologie bij het beheer en het gebruik van alle vervoerswijzen, alsmede ondersteuning van intermodaliteit en samenwerking bij het gebruik van ruimtesystemen en commerciële toepassingen ter vergemakkelijking van het vervoer.   
 
 ### Artikel  370  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 7 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
@@ -5516,10 +5516,10 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####RUIMTEVAART
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  371  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen bevorderen wederzijds voordelige samenwerking inzake civiel ruimteonderzoek en civiele ruimtetoepassingen, met name op de volgende gebieden: 
 
@@ -5533,14 +5533,14 @@ d. toegepaste ruimtetechnologieën, waaronder lanceer- en voortstuwingstechnolog
 2.  De partijen bevorderen de uitwisseling van ervaringen inzake beleid, bestuur en juridische aspecten op het gebied van de ruimte en industriële herstructurering en de commercialisering van ruimtetechnologieën.  
 
 ### Artikel  372  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De samenwerking omvat de uitwisseling van informatie over elkaars beleid en programma’s en de desbetreffende mogelijkheden voor samenwerking en gezamenlijke projecten, onder meer wat betreft de deelname van Oekraïense organisaties aan relevante ruimte- en vervoersonderwerpen van het Kaderprogramma van de Europese Gemeenschap voor onderzoek en technologische ontwikkeling.   
 2.  De partijen moedigen de uitwisseling van wetenschappers en de totstandkoming van relevante netwerken aan en verlenen daarvoor steun.   
 3.  De samenwerking kan ook de uitwisseling van ervaringen inzake het beheer van ruimteonderzoek en wetenschappelijke instellingen omvatten, alsmede de ontwikkeling van een omgeving die bevorderlijk is voor onderzoek en de toepassing van nieuwe technologieën en de passende bescherming van de desbetreffende intellectuele-, industriële- en commerciële-eigendomsrechten.  
 
 ### Artikel  373  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 8 van titel V (Economische en sectorale samenwerking) van deze overeenkomst, waar passend met inbegrip van coördinatie en samenwerking met de Europese Ruimtevaartorganisatie over dit onderwerp en andere relevante onderwerpen. 
 
@@ -5548,22 +5548,22 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####WETENSCHAP EN TECHNOLOGIE
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  374  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen ontwikkelen en versterken hun samenwerking op het gebied van wetenschap en technologie teneinde bij te dragen tot de ontwikkeling van de wetenschap zelf en hun mogelijkheden te vergroten om op wetenschapsgebied bij te dragen tot de oplossing van nationale en mondiale problemen. De partijen streven ernaar bij te dragen tot de vooruitgang bij de verwerving van wetenschappelijke en technologische kennis die voor duurzame ontwikkeling relevant is, door hun onderzoekscapaciteit en hun menselijk potentieel te versterken. Door wetenschappelijke kennis te delen en te bundelen, wordt bijgedragen tot het concurrentievermogen van de partijen ten gevolge van de vergrote capaciteit van hun economieën om kennis te genereren en toe te passen voor de commercialisering van nieuwe producten en diensten. Voorts zullen de partijen hun potentieel op wetenschapsgebied ontwikkelen teneinde te voldoen aan hun mondiale verantwoordelijkheden en verbintenissen op gebieden als gezondheidsvraagstukken, milieubescherming en klimaatverandering en andere mondiale uitdagingen. 
 
 ### Artikel  375  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Bij de samenwerking wordt rekening gehouden met het huidige formele samenwerkingskader dat is ingesteld bij de Overeenkomst voor samenwerking op wetenschappelijk en technologisch gebied tussen de Europese Gemeenschap en Oekraïne, en met het streven van Oekraïne naar geleidelijke aanpassing aan het beleid en de wetgeving van de EU op wetenschappelijk en technologisch gebied.   
 2.  De samenwerking beoogt vergemakkelijking van de participatie van Oekraïne in de Europese Onderzoeksruimte.   
 3.  De samenwerking helpt Oekraïne bij de hervorming en reorganisatie van zijn stelsel voor wetenschapsbeheer en zijn onderzoeksinstellingen (met inbegrip van de ontwikkeling van de capaciteit voor onderzoek en technologische ontwikkeling), als basis voor de ontwikkeling van een concurrerende economie en kennismaatschappij.  
 
 ### Artikel  376  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De samenwerking geschiedt in het bijzonder door middel van: 
 
@@ -5586,7 +5586,7 @@ h. intensivering van de samenwerking op regionaal en internationaal niveau, met 
 i. uitwisseling van expertise over het beheer van onderzoeks- en wetenschapsinstellingen om de mogelijkheden ervan voor het verrichten van en deelnemen aan wetenschappelijk onderzoek te ontwikkelen en te verbeteren.   
 
 ### Artikel  377  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 9 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
@@ -5594,15 +5594,15 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####INDUSTRIE- EN ONDERNEMINGSBELEID
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  378  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen ontwikkelen en versterken hun samenwerking inzake het industrie- en ondernemingsbeleid en verbeteren zo het ondernemingsklimaat voor alle marktdeelnemers, maar met bijzondere nadruk op het midden- en kleinbedrijf. De versterkte samenwerking moet leiden tot een beter administratief en regelgevingsnetwerk voor Oekraïense en EU-bedrijven die in Oekraïne en in de EU actief zijn en moet gebaseerd zijn op het industriebeleid en het mkb-beleid van de EU, rekening houdende met internationaal erkende beginselen en praktijken op dit gebied. 
 
 ### Artikel  379  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen werken daartoe samen op de volgende terreinen: 
 
@@ -5621,7 +5621,7 @@ f. ondersteuning van activiteiten op het gebied van exportpromotie in Oekraïne;
 g. facilitering van de modernisering en herstructurering van bepaalde sectoren van het bedrijfsleven in Oekraïne en de EU.   
 
 ### Artikel  380  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 10 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. Hierbij zullen vertegenwoordigers van het bedrijfsleven in de EU en in Oekraïne worden betrokken. 
 
@@ -5629,15 +5629,15 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####MIJNBOUW EN METAALINDUSTRIE
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  381  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen ontwikkelen en versterken hun samenwerking inzake de mijnbouw en de metaalindustrie om het wederzijds begrip te bevorderen, het ondernemingsklimaat te verbeteren en informatie-uitwisseling en samenwerking inzake vraagstukken op ander dan energiegebied te bevorderen, met name wat betreft de winning van metaalertsen en industriële mineralen. Deze samenwerking doet geen afbreuk aan de bepalingen inzake steenkool die in artikel 339 van deze overeenkomst zijn opgenomen. 
 
 ### Artikel  382  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen werken daartoe samen op de volgende terreinen: 
 
@@ -5653,10 +5653,10 @@ d. uitwisseling van informatie en beste praktijken over de duurzame ontwikkeling
 
 ####FINANCIËLE DIENSTEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  383  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen erkennen dat voor het tot stand brengen van een volwaardig functionerende markteconomie en voor het stimuleren van hun onderlinge handelsverkeer doeltreffende voorschriften en werkwijzen op het gebied van financiële diensten noodzakelijk zijn, en komen daartoe overeen samen te werken op het gebied van financiële diensten teneinde: 
 
@@ -5671,18 +5671,18 @@ d. de samenwerking tussen de verschillende actoren van het financiële stelsel, 
 e. onafhankelijk en doeltreffend toezicht te waarborgen.   
 
 ### Artikel  384  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen moedigen de samenwerking tussen bevoegde regelgevende en toezichthoudende autoriteiten aan, inclusief de uitwisseling van informatie en expertise inzake de financiële markten en dergelijke maatregelen.   
 2.  Bijzondere aandacht gaat daarbij uit naar de ontwikkeling van de administratieve capaciteit van dergelijke autoriteiten, onder meer door middel van de uitwisseling van personeel en gezamenlijke opleiding.  
 
 ### Artikel  385  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen bevorderen de geleidelijke aanpassing aan erkende internationale normen inzake regelgeving en toezicht op het gebied van financiële diensten. De desbetreffende onderdelen van het acquis van de EU inzake financiële diensten worden behandeld in hoofdstuk 6 (Vestiging, handel in diensten en elektronische handel) van titel IV (Handel en daarmee verband houdende aangelegenheden) van deze overeenkomst. 
 
 ### Artikel  386  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 12 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
@@ -5690,10 +5690,10 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####VENNOOTSCHAPSRECHT, CORPORATE GOVERNANCE, BOEKHOUDING EN BOEKHOUDKUNDIGE CONTROLE
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  387  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen erkennen dat voor het tot stand brengen van een volwaardig functionerende markteconomie en voor het stimuleren van het handelsverkeer doeltreffende voorschriften en werkwijzen op het gebied van vennootschapsrecht en corporate governance noodzakelijk zijn, en komen daartoe overeen samen te werken: 
 
@@ -5705,7 +5705,7 @@ c. inzake de verdere ontwikkeling van het beleid voor corporate governance overe
 2.  De partijen streven ernaar informatie en expertise uit te wisselen over zowel de bestaande systemen als relevante nieuwe ontwikkelingen op dit gebied. Bovendien streven de partijen naar verbetering van de uitwisseling van informatie tussen het nationale register van Oekraïne en de handelsregisters van de lidstaten van de EU.  
 
 ### Artikel  388  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 13 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
@@ -5713,20 +5713,20 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####INFORMATIEMAATSCHAPPIJ
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  389  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen intensiveren hun samenwerking inzake de ontwikkeling van de informatiemaatschappij om burgers en bedrijven voordelen te brengen door de brede beschikbaarheid van informatie- en communicatietechnologie (ICT) en hoogwaardiger diensten tegen betaalbare prijzen. Deze samenwerking faciliteert tevens de toegang tot de markten voor elektronische-communicatiediensten en stimuleert daarmee concurrentie en investeringen in de sector. 
 
 ### Artikel  390  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De samenwerking beoogt de tenuitvoerlegging van nationale strategieën voor de informatiemaatschappij, de ontwikkeling van een omvattend regelgevingskader voor elektronische communicatie en de uitbreiding van de deelname van Oekraïne aan de onderzoeksactiviteiten van de EU op ICT-gebied. 
 
 ### Artikel  391  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De samenwerking omvat de volgende onderwerpen: 
 
@@ -5739,23 +5739,23 @@ c. versterking van de onafhankelijkheid en de administratieve capaciteit van de 
 d. bevordering van gezamenlijke projecten voor onderzoek op het gebied van informatie- en communicatietechnologie binnen het Kaderprogramma van de Europese Unie voor onderzoek en technologische ontwikkeling.   
 
 ### Artikel  392  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen wisselen informatie, beste praktijken en ervaringen uit, ondernemen gezamenlijk actie om een omvattend regelgevingskader op te zetten en zien toe op de efficiënte werking van de markten voor elektronische communicatie en de afwezigheid van concurrentievervalsing op die markten. 
 
 ### Artikel  393  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen stimuleren de samenwerking tussen de nationale regelgevende instantie van Oekraïne op communicatiegebied en de nationale regelgevende instanties van de EU. 
 
 ### Artikel  394  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen bevorderen de geleidelijke aanpassing aan het wet- en regelgevingskader van de EU op het gebied van de informatiemaatschappij en elektronische communicatie.   
 2.  De desbetreffende bepalingen, alsmede het acquis van de EU inzake de informatiemaatschappij en elektronische communicatie, worden vermeld in aanhangsel XVII-3 (Regels ten aanzien van telecommunicatiediensten) bij hoofdstuk 6 (Vestiging, handel in diensten en elektronische handel) van titel IV (Handel en daarmee verband houdende aangelegenheden) van deze overeenkomst.  
 
 ### Artikel  395  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 14 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
@@ -5763,21 +5763,21 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####AUDIOVISUEEL BELEID
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  396  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen werken samen ter bevordering van de audiovisuele bedrijfstak in Europa en ter aanmoediging van coproducties voor film en televisie.   
 2.  De samenwerking kan onder meer betrekking hebben op de opleiding van journalisten en anderen die werkzaam zijn bij zowel de gedrukte als de elektronische media, alsmede steun voor zowel de publieke als de particuliere media ter versterking van hun onafhankelijkheid, hun professionele vaardigheden en hun contacten met Europese media overeenkomstig de Europese normen, met inbegrip van de normen van de Raad van Europa.  
 
 ### Artikel  397  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De geleidelijke aanpassing aan de wetgeving en het wet- en regelgevingskader van de EU inzake het audiovisueel beleid geschiedt met name zoals uiteengezet in bijlage XXXVI bij deze overeenkomst. 
 
 ### Artikel  398  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 15 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
@@ -5785,15 +5785,15 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####TOERISME
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  399  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen werken samen op het gebied van het toerisme, met het oog op de ontwikkeling van een beter concurrerende toerismebedrijfstak die economische groei en emancipatie bevordert en werkgelegenheid en buitenlandse deviezen genereert. 
 
 ### Artikel  400  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De samenwerking op bilateraal, regionaal en Europees niveau wordt gebaseerd op de volgende beginselen: 
 
@@ -5805,7 +5805,7 @@ c. een positieve interactie tussen toerisme en milieubehoud.
 2.  De relevante bepalingen inzake touroperators zijn vervat in hoofdstuk 6 (Vestiging, handel in diensten en elektronische handel) van titel IV (Handel en daarmee verband houdende aangelegenheden) van deze overeenkomst. De relevante bepalingen inzake het personenverkeer zijn vervat in artikel 19 van deze overeenkomst.  
 
 ### Artikel  401  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De samenwerking wordt in het bijzonder gericht op de volgende aspecten: 
 
@@ -5822,7 +5822,7 @@ e. opleiding en capaciteitsopbouw op toeristisch gebied met als doel het niveau 
 f. ontwikkeling en promotie van in de gemeenschappen wortelend toerisme.   
 
 ### Artikel  402  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 16 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
@@ -5830,15 +5830,15 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####LANDBOUW EN PLATTELANDSONTWIKKELING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  403  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen bevorderen de ontwikkeling van de landbouw en het platteland, met name door hun beleid en wetgeving geleidelijk op elkaar af te stemmen. 
 
 ### Artikel  404  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De samenwerking op het gebied van landbouw en plattelandsontwikkeling omvat onder andere: 
 
@@ -5863,12 +5863,12 @@ i. uitwisselen van beste praktijken inzake steunmechanismen voor landbouwbeleid 
 j. bevorderen van beleid inzake de kwaliteit van landbouwproducten met betrekking tot productnormen, productie-eisen en kwaliteitsregelingen.   
 
 ### Artikel  405  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Zonder afbreuk te doen aan titel IV (Handel en daarmee verband houdende aangelegenheden) van deze overeenkomst streven de partijen in het kader van deze samenwerking naar geleidelijke aanpassing aan de wet- en regelgeving van de EU, met name de wet- en regelgeving als vermeld in bijlage XXXVII bij deze overeenkomst. 
 
 ### Artikel  406  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 17 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
@@ -5876,22 +5876,22 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####VISSERIJBELEID EN MARITIEM BELEID
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### AFDELING  1  
 
 ####VISSERIJBELEID
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  407  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen werken samen op de terreinen van het visserijbeleid die van gemeenschappelijk belang zijn en waarop samenwerking voor elk van hen voordeel oplevert, zoals instandhouding en beheer van levende aquatische hulpbronnen, inspectie en controle, gegevensverzameling en de bestrijding van illegale, niet-aangegeven en niet-gereglementeerde visvangst.   
 2.  Bij deze samenwerking worden de internationale verplichtingen met betrekking tot de instandhouding en het beheer van levende aquatische hulpbronnen in acht genomen.  
 
 ### Artikel  408  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen ondernemen gezamenlijke acties, wisselen informatie uit en helpen elkaar ter bevordering van: 
 
@@ -5902,12 +5902,12 @@ b. verantwoorde visvangst en verantwoord visserijbeheer in overeenstemming met d
 c. samenwerking via regionale organisaties voor visserijbeheer.   
 
 ### Artikel  409  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 In het kader van artikel 408 van deze overeenkomst en rekening houdend met het beste wetenschappelijke advies versterken de partijen de samenwerking en coördinatie met betrekking tot hun activiteiten inzake de instandhouding en het beheer van de levende aquatische hulpbronnen in de Zwarte Zee. De partijen bevorderen bredere internationale samenwerking in het Zwarte Zeegebied teneinde betrekkingen te ontwikkelen binnen een passende regionale organisatie voor visserijbeheer. 
 
 ### Artikel  410  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen ondersteunen initiatieven zoals de uitwisseling van ervaringen en het verlenen van steun om te zorgen voor de uitvoering van een duurzaam visserijbeleid op basis van prioritaire gebieden van het acquis op dit gebied, zoals: 
 
@@ -5927,10 +5927,10 @@ f. ontwikkeling van een structureel beleid voor de visserijsector, waarbij met n
 
 ####MARITIEM BELEID
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  411  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Rekening houdend met hun samenwerking op het gebied van visserij, vervoer, milieu en andere beleidsterreinen die verband houden met de zee, ontwikkelen de partijen ook samenwerking inzake een geïntegreerd maritiem beleid, met name: 
 
@@ -5947,7 +5947,7 @@ e. streven naar verbetering van de maatregelen met betrekking tot maritieme veil
 f. tot stand brengen van een regelmatige dialoog en bevorderen van verschillende netwerken tussen maritieme actoren.   
 
 ### Artikel  412  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De samenwerking omvat onder andere: 
 
@@ -5961,10 +5961,10 @@ c. bevordering van de samenwerking tussen de partijen in de relevante internatio
 
 ####REGELMATIGE DIALOOG OVER VISSERIJ EN MARITIEM BELEID
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  413  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder de afdelingen 1 en 2 van hoofdstuk 18 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
@@ -5972,10 +5972,10 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder de
 
 ####DE DONAU
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  414  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Gezien het grensoverschrijdende karakter van het stroomgebied van de Donau en het historische belang van deze rivier voor de bevolkingsgroepen die langs de rivier wonen, streven de partijen naar: 
 
@@ -5987,15 +5987,15 @@ b. waar nodig ondersteuning van initiatieven tot ontwikkeling van bilaterale en 
 
 ####CONSUMENTENBESCHERMING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  415  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen streven samen naar een hoog niveau van consumentenbescherming en verenigbaarheid van hun systemen voor consumentenbescherming. 
 
 ### Artikel  416  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Om deze doelstellingen te verwezenlijken omvat de samenwerking met name: 
 
@@ -6010,12 +6010,12 @@ d. opleidingsactiviteiten voor ambtenaren en vertegenwoordigers van consumentenb
 e. bevordering van de oprichting van onafhankelijke consumentenorganisaties en contacten tussen vertegenwoordigers van consumenten.   
 
 ### Artikel  417  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Oekraïne brengt zijn wetgeving geleidelijk in overeenstemming met de Europese wet- en regelgeving, zoals beschreven in bijlage XXXVIII bij deze overeenkomst, waarbij handelsbelemmeringen moeten worden voorkomen. 
 
 ### Artikel  418  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 20 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
@@ -6023,15 +6023,15 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####WERKGELEGENHEID, SOCIAAL BELEID EN GELIJKE KANSEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  419  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Rekening houdend met hoofdstuk 13 (Handel en duurzame ontwikkeling) van titel IV (Handel en daarmee verband houdende aangelegenheden) versterken de partijen hun dialoog en samenwerking ter bevordering van de agenda voor fatsoenlijk werk, het werkgelegenheidsbeleid, gezondheid en veiligheid op het werk, de sociale dialoog, sociale bescherming, sociale inclusie, gelijkheid van mannen en vrouwen en bestrijding van discriminatie. 
 
 ### Artikel  420  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Met de samenwerking op de door artikel 419 van deze overeenkomst bestreken gebieden wordt gestreefd naar: 
 
@@ -6064,27 +6064,27 @@ m. bestrijding van discriminatie op alle gronden;
 n. meer capaciteit voor de sociale partners en bevordering van de sociale dialoog.   
 
 ### Artikel  421  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen moedigen de participatie aan van alle belanghebbenden, met name de sociale partners en het maatschappelijk middenveld, in de beleidshervormingen van Oekraïne en in de samenwerking tussen de partijen in het kader van deze overeenkomst. 
 
 ### Artikel  422  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen bevorderen de maatschappelijke verantwoordelijkheid en verantwoordingsplicht van bedrijven en moedigen verantwoorde zakelijke praktijken aan, zoals bepleit in het Global Compact van de Verenigde Naties van 2000, de tripartiete beginselverklaring betreffende multinationale ondernemingen en sociaal beleid van de Internationale Arbeidsorganisatie (IAO) van 1977, zoals gewijzigd in 2006, en de OESO-richtsnoeren voor multinationale ondernemingen van 1976, zoals gewijzigd in 2000. 
 
 ### Artikel  423  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen streven naar meer samenwerking op het gebied van werkgelegenheid en sociaal beleid binnen alle relevante regionale, multilaterale en internationale fora en organisaties. 
 
 ### Artikel  424  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Oekraïne brengt zijn wetgeving geleidelijk in overeenstemming met de EU-wetgeving, -normen en -praktijken op het gebied van werkgelegenheid, sociaal beleid en gelijke kansen, zoals beschreven in bijlage XXXIX bij deze overeenkomst. 
 
 ### Artikel  425  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 21 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
@@ -6092,15 +6092,15 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####VOLKSGEZONDHEID
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  426  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen ontwikkelen samenwerking op het gebied van de volksgezondheid om het niveau van de bescherming van de volksgezondheid en de gezondheid van de mens te verhogen, als basisvoorwaarde voor duurzame ontwikkeling en economische groei. 
 
 ### Artikel  427  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De samenwerking omvat met name: 
 
@@ -6116,12 +6116,12 @@ e. informatie over en kennis van gezondheid, onder andere de integratie van gezo
 2.  Daartoe wisselen de partijen gegevens en goede praktijken uit en ondernemen zij gezamenlijke activiteiten, onder andere door gezondheid in alle beleidsterreinen te integreren en Oekraïne geleidelijk te integreren in de Europese netwerken op het gebied van de volksgezondheid.  
 
 ### Artikel  428  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Oekraïne brengt zijn wetgeving en praktijken geleidelijk in overeenstemming met de Europese wet- en regelgeving, met name wat betreft overdraagbare ziekten, bloed, weefsel en cellen en tabak. Een overzicht van de belangrijkste Europese wet- en regelgeving op dit vlak is opgenomen in bijlage XL bij deze overeenkomst. 
 
 ### Artikel  429  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 22 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
@@ -6129,15 +6129,15 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####ONDERWIJS, OPLEIDING EN JEUGD
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  430  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen bevorderen de samenwerking op het gebied van onderwijs, opleiding en jeugdzaken, waarbij zij de inhoud van elkaars curriculum, de organisatie van elkaars onderwijssysteem en hun culturele en linguïstische diversiteit volledig eerbiedigen, teneinde het wederzijdse begrip te vergroten, de interculturele dialoog te stimuleren en de kennis van elkaars cultuur te versterken. 
 
 ### Artikel  431  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen intensiveren hun samenwerking op het gebied van het hoger onderwijs, vooral met het oog op: 
 
@@ -6154,7 +6154,7 @@ e. meer capaciteit voor instellingen voor hoger onderwijs;
 f. meer mobiliteit van studenten en docenten; vergemakkelijking van de toegang tot het hoger onderwijs.   
 
 ### Artikel  432  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen streven naar meer uitwisseling van informatie en deskundigheid ter bevordering van nauwere samenwerking op het gebied van beroepsonderwijs en opleiding, vooral met het oog op: 
 
@@ -6163,12 +6163,12 @@ a. de ontwikkeling van systemen voor beroepsonderwijs en opleiding en na- en bij
 b. de oprichting van een nationaal kader ter verbetering van de transparantie en de erkenning van kwalificaties en competenties, waarbij waar mogelijk gebruik wordt gemaakt van de ervaring van de EU.   
 
 ### Artikel  433  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen onderzoeken of zij hun samenwerking op andere terreinen kunnen ontwikkelen, bijvoorbeeld met betrekking tot het middelbaar onderwijs, onderwijs op afstand en een leven lang leren. 
 
 ### Artikel  434  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen streven naar nauwere samenwerking en de uitwisseling van ervaringen op het gebied van het jeugdbeleid en informele opleiding door: 
 
@@ -6183,12 +6183,12 @@ d. samenwerking tussen jongerenorganisaties in Oekraïne, de EU en haar lidstate
 e. een gezonde levensstijl aan te moedigen, met name voor jongeren.   
 
 ### Artikel  435  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen houden bij hun samenwerking rekening met de aanbevelingen van bijlage XLI bij deze overeenkomst. 
 
 ### Artikel  436  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 23 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
@@ -6196,25 +6196,25 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####CULTUUR
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  437  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen bevorderen de culturele samenwerking teneinde het wederzijds begrip te vergroten, en bevorderen culturele uitwisselingen en de mobiliteit van kunst en kunstenaars uit de EU en Oekraïne. 
 
 ### Artikel  438  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen moedigen interculturele dialoog aan tussen personen en organisaties die het maatschappelijk middenveld en culturele instellingen uit de EU en Oekraïne vertegenwoordigen. 
 
 ### Artikel  439  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen werken nauw samen in relevante internationale fora, bijvoorbeeld de organisatie van de Verenigde Naties voor onderwijs, wetenschap en cultuur (Unesco) en de Raad van Europa, onder andere om de culturele diversiteit te ontwikkelen en het cultureel en historisch erfgoed te behouden en op te waarderen. 
 
 ### Artikel  440  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen streven naar een regelmatige beleidsdialoog over cultuur ter bevordering van de ontwikkeling van de cultuurindustrie in de EU en Oekraïne. Daartoe zorgen de partijen voor passende uitvoering van het Unesco-verdrag betreffende de bescherming en de bevordering van de diversiteit van cultuuruitingen van 2005. 
 
@@ -6222,10 +6222,10 @@ De partijen streven naar een regelmatige beleidsdialoog over cultuur ter bevorde
 
 ####SPORT EN BEWEGING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  441  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen werken samen op het gebied van sport en beweging om een gezonde levensstijl onder alle leeftijdsgroepen te ontwikkelen, de sociale en educatieve waarde van sport te bevorderen en bedreigingen voor de sport, zoals doping, wedstrijdvervalsing, racisme en geweld, te bestrijden.   
 2.  De samenwerking omvat onder andere de uitwisseling van informatie en goede praktijken op de volgende gebieden: 
@@ -6245,7 +6245,7 @@ f. bestrijding van wedstrijdvervalsing;
 g. beveiliging tijdens grote internationale sportevenementen.    
 
 ### Artikel  442  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 25 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
@@ -6253,10 +6253,10 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####MAATSCHAPPELIJKE SAMENWERKING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  443  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen bevorderen de samenwerking tussen maatschappelijke organisaties, met het oog op: 
 
@@ -6269,7 +6269,7 @@ c. meer kennis van en inzicht in Oekraïne in de EU-lidstaten, onder meer wat be
 d. meer kennis van en inzicht in de Europese Unie in Oekraïne, onder meer wat betreft de waarden waarop de EU is gegrondvest, de werking en het beleid.   
 
 ### Artikel  444  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen bevorderen dialoog en samenwerking tussen vertegenwoordigers van het maatschappelijk middenveld van beide partijen als integraal onderdeel van de betrekkingen tussen de EU en Oekraïne, door: 
 
@@ -6280,7 +6280,7 @@ b. de institutionele opbouw en consolidatie van het maatschappelijk middenveld t
 c. vertegenwoordigers van het maatschappelijk middenveld uit Oekraïne vertrouwd te maken met het proces van overleg en dialoog tussen de sociale en maatschappelijke partners in de EU, met het oog op de integratie van het maatschappelijk middenveld in de beleidsdialoog in Oekraïne.   
 
 ### Artikel  445  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 26 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
@@ -6288,25 +6288,25 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####GRENSOVERSCHRIJDENDE EN REGIONALE SAMENWERKING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  446  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen bevorderen wederzijds begrip en bilaterale samenwerking op het gebied van het regionaal beleid, de methoden voor formulering en uitvoering van regionaal beleid, waaronder bestuur en partnerschap op meerdere niveaus, met bijzondere aandacht voor de ontwikkeling van kansarme gebieden en territoriale samenwerking, teneinde communicatiekanalen tot stand te brengen en de uitwisseling van informatie te bevorderen tussen nationale, regionale en lokale overheden, sociaal-economische actoren en het maatschappelijk middenveld. 
 
 ### Artikel  447  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen ondersteunen en versterken de betrokkenheid van lokale en regionale overheden bij grensoverschrijdende en regionale samenwerking en de daarmee verband houdende beheersstructuren, bevorderen de samenwerking door een passend wetgevend kader tot stand te brengen, ondersteunen en ontwikkelen maatregelen voor capaciteitsopbouw en bevorderen de versterking van grensoverschrijdende en regionale economische en zakelijke netwerken. 
 
 ### Artikel  448  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen versterken en stimuleren de ontwikkeling van de grensoverschrijdende en regionale dimensie van onder andere vervoer, energie, communicatienetwerken, cultuur, onderwijs, toerisme, gezondheid en andere terreinen die onder deze overeenkomst vallen en die van invloed zijn op de grensoverschrijdende en regionale samenwerking. De partijen moedigen met name de ontwikkeling van grensoverschrijdende samenwerking aan met betrekking tot de modernisering, uitrusting en coördinatie van noodhulpdiensten. 
 
 ### Artikel  449  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder hoofdstuk 27 van titel V (Economische en sectorale samenwerking) van deze overeenkomst. 
 
@@ -6314,20 +6314,20 @@ Er vindt een regelmatige dialoog plaats over de vraagstukken die vallen onder ho
 
 ####DEELNAME AAN EU-AGENTSCHAPPEN EN -PROGRAMMA'S
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  450  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Oekraïne mag deelnemen aan EU-agentschappen die relevant zijn voor de uitvoering van deze overeenkomst en aan alle andere EU-agentschappen, indien dat mogelijk is op grond van de oprichtingsverordening en op de daarin vastgelegde voorwaarden. Oekraïne sluit voor elk agentschap een aparte overeenkomst met de EU inzake de deelname en de financiële bijdrage. 
 
 ### Artikel  451  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Oekraïne mag deelnemen aan alle huidige en toekomstige programma’s van de Unie die overeenkomstig de bepalingen tot vaststelling van die programma’s voor het land openstaan. Deelname van Oekraïne aan de programma's van de Unie vindt plaats volgens de bepalingen van het in de bijlage opgenomen protocol III inzake een kaderovereenkomst tussen de Europese Unie en Oekraïne inzake de algemene beginselen voor deelname van Oekraïne aan EU-programma's van 2010. 
 
 ### Artikel  452  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De EU stelt Oekraïne in kennis van de oprichting van nieuwe EU-agentschappen en -programma's en van veranderingen in de voorwaarden voor deelname aan deze agentschappen en programma's zoals beschreven in de artikelen 450 en 451 van deze overeenkomst. 
 
@@ -6335,40 +6335,40 @@ De EU stelt Oekraïne in kennis van de oprichting van nieuwe EU-agentschappen en
 
 ####FINANCIËLE SAMENWERKING EN FRAUDEBESTRIJDING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  453  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Oekraïne komt in aanmerking voor financiële bijstand via de relevante EU-mechanismen en -instrumenten voor financiering. De financiële bijstand moet bijdragen aan de verwezenlijking van de doelstellingen van deze overeenkomst en wordt verstrekt overeenkomstig de onderstaande bepalingen. 
 
 ### Artikel  454  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De belangrijkste beginselen inzake de financiële bijstand worden vastgelegd in de relevante reglementen voor de financiële instrumenten van de EU. 
 
 ### Artikel  455  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De prioritaire gebieden voor de financiële bijstand van de EU worden door de partijen bepaald en vastgelegd in indicatieve programma's die overeenstemmen met de overeengekomen beleidsprioriteiten. De indicatieve bedragen van deze bijstand worden vastgesteld op basis van de behoeften van Oekraïne, de sectorale capaciteit en de vorderingen met betrekking tot de hervormingen. 
 
 ### Artikel  456  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Om de beschikbare middelen optimaal te benutten streven de partijen ernaar de bijstand uit te voeren in nauwe samenwerking en coördinatie met andere donorlanden, donororganisaties en internationale financiële instellingen en overeenkomstig de internationale beginselen inzake doeltreffendheid van hulp. 
 
 ### Artikel  457  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De fundamentele juridische, administratieve en technische grondslag van de financiële bijstand wordt vastgelegd in specifieke overeenkomsten tussen de partijen. 
 
 ### Artikel  458  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De Associatieraad wordt op de hoogte gehouden van de voortgang en de uitvoering van de financiële bijstand en de impact op de verwezenlijking van de doelstellingen van de overeenkomst. Daartoe zorgen de relevante organen van de partijen op passende wijze en op wederzijdse en permanente basis voor toezicht en evaluatie van informatie. 
 
 ### Artikel  459  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen voeren de financiële steun uit volgens de beginselen van goed financieel beheer en werken samen om de financiële belangen van de Europese Unie en van Oekraïne te beschermen, zoals beschreven in bijlage XLII bij deze overeenkomst. De partijen nemen doeltreffende maatregelen om fraude, corruptie en andere illegale activiteiten te voorkomen en te bestrijden, onder andere door middel van wederzijdse administratieve en juridische bijstand op de terreinen waarop de overeenkomst van toepassing is.   
 2.  Daartoe brengt Oekraïne zijn wetgeving ook geleidelijk in overeenstemming met de bepalingen van bijlage XLIII bij deze overeenkomst.   
@@ -6378,29 +6378,29 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####INSTITUTIONELE, ALGEMENE EN SLOTBEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### HOOFDSTUK  1  
 
 ####INSTITUTIONEEL KADER
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  460  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Het hoogste niveau van de politieke en beleidsdialoog tussen de partijen is de topbijeenkomst. Topbijeenkomsten vinden in beginsel eenmaal per jaar plaats. Tijdens topbijeenkomsten worden de algemene richtsnoeren voor de uitvoering van deze overeenkomst vastgesteld en worden bilaterale of internationale vraagstukken van wederzijds belang besproken.   
 2.  Op het niveau van de ministers vindt een regelmatige politieke en beleidsdialoog plaats binnen de bij artikel 461 van deze overeenkomst opgerichte Associatieraad en in het kader van in overleg vast te stellen regelmatige vergaderingen tussen vertegenwoordigers van beide partijen.  
 
 ### Artikel  461  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Er wordt een Associatieraad opgericht. De Associatieraad houdt toezicht op en volgt de toepassing en tenuitvoerlegging van deze overeenkomst en toetst regelmatig de werking van de overeenkomst in het licht van de doelstellingen.   
 2.  De Associatieraad komt regelmatig bijeen op ministerieel niveau, ten minste eenmaal per jaar en verder wanneer de omstandigheden zulks vereisen. De Associatieraad komt bijeen in de noodzakelijke samenstelling, die in onderling overleg wordt bepaald.   
 3.  Naast het toezicht op de toepassing en tenuitvoerlegging van deze overeenkomst onderzoekt de Associatieraad alle belangrijke vraagstukken in het kader van de overeenkomst en alle andere bilaterale of internationale vraagstukken van wederzijds belang.  
 
 ### Artikel  462  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De Associatieraad bestaat uit de leden van de Raad van de Europese Unie en leden van de Europese Commissie, enerzijds, en leden van de regering van Oekraïne, anderzijds.   
 2.  De Associatieraad stelt zijn eigen reglement van orde vast.   
@@ -6408,21 +6408,21 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Indien nodig en in overleg kunnen andere organen als waarnemer deelnemen aan de werkzaamheden van de Associatieraad.  
 
 ### Artikel  463  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Om de doelstellingen van de overeenkomst te bereiken, heeft de Associatieraad de bevoegdheid besluiten te nemen binnen de toepassingssfeer van deze overeenkomst voor de in de overeenkomst vermelde gevallen. Deze besluiten zijn bindend voor de partijen, die de nodige maatregelen treffen voor de uitvoering ervan, waaronder indien noodzakelijk optreden door in het kader van deze overeenkomst ingestelde specifieke organen. De Associatieraad kan tevens aanbevelingen doen. De Associatieraad stelt zijn besluiten en aanbevelingen vast in overleg tussen de partijen, na voltooiing van hun interne procedures.   
 2.  Overeenkomstig de in deze overeenkomst vastgelegde doelstelling van geleidelijke aanpassing van de wetgeving van Oekraïne aan die van de Unie vormt de Associatieraad een forum voor de uitwisseling van informatie over de wetgeving van de Europese Unie en Oekraïne, zowel wetgeving die wordt voorbereid als wetgeving die van kracht is, en over de maatregelen met betrekking tot tenuitvoerlegging, handhaving en naleving.   
 3.  Daartoe kan de Associatieraad de bijlagen bij deze overeenkomst wijzigen, rekening houdend met de ontwikkeling van de EU-wetgeving en toepasselijke normen die worden vastgesteld in internationale instrumenten die de partijen relevant achten, zonder afbreuk te doen aan specifieke bepalingen van titel IV (Handel en daarmee verband houdende aangelegenheden) van deze overeenkomst.  
 
 ### Artikel  464  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Er wordt een Associatiecomité opgericht. Het Associatiecomité staat de Associatieraad bij in de uitvoering van zijn taken. Dit doet geen afbreuk aan de verantwoordelijkheden van de verschillende fora voor de politieke dialoog als beschreven in artikel 5 van deze overeenkomst.   
 2.  Het Associatiecomité bestaat uit vertegenwoordigers van beide partijen, gewoonlijk op het niveau van hoge ambtenaren.   
 3.  Het voorzitterschap van het Associatiecomité wordt bij toerbeurt bekleed door een vertegenwoordiger van de Unie en een vertegenwoordiger van Oekraïne.  
 
 ### Artikel  465  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De Associatieraad stelt in zijn reglement van orde de taken en de werking van het Associatiecomité vast; in ieder geval behoort de voorbereiding van de vergaderingen van de Associatieraad tot de taken van het Associatiecomité. Het Associatiecomité komt ten minste eenmaal per jaar bijeen.   
 2.  De Associatieraad kan bevoegdheden overdragen aan het Associatiecomité, waaronder de bevoegdheid om bindende besluiten te nemen.   
@@ -6430,7 +6430,7 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Het Associatiecomité komt in een specifieke samenstelling bijeen voor de bespreking van alle onderwerpen met betrekking tot titel IV (Handel en daarmee verband houdende aangelegenheden) van deze overeenkomst. Het Associatiecomité komt in deze samenstelling ten minste eenmaal per jaar bijeen.  
 
 ### Artikel  466  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Het Associatiecomité wordt bijgestaan door de in het kader van deze overeenkomst opgerichte subcomités.   
 2.  De Associatieraad kan besluiten op specifieke terreinen andere comités of organen in te stellen wanneer dat noodzakelijk is voor de uitvoering van de overeenkomst; de Associatieraad bepaalt de samenstelling, taken en werking van die organen. Daarnaast kunnen dergelijke bijzondere comités en organen alle aangelegenheden bespreken die zij relevant achten, zonder afbreuk te doen aan de specifieke bepalingen van titel IV (Handel en daarmee verband houdende aangelegenheden) van deze overeenkomst.   
@@ -6440,7 +6440,7 @@ Treedt in werking op een nader te bepalen tijdstip
 6.  Het bestaan van subcomités belet partijen niet een aangelegenheid rechtstreeks aan het bij artikel 464 van deze overeenkomst opgerichte Associatiecomité voor te leggen, ook in zijn specifieke samenstelling voor handel.  
 
 ### Artikel  467  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Er wordt een Parlementair Associatiecomité ingesteld. Dit dient als forum voor leden van de Verchovna Rada van Oekraïne en het Europees Parlement om elkaar te ontmoeten en van gedachten te wisselen. Het Comité komt met zelf te bepalen tussenpozen bijeen.   
 2.  Het Parlementair Associatiecomité bestaat uit leden van het Europees Parlement enerzijds en leden van de Verchovna Rada van Oekraïne anderzijds.   
@@ -6448,7 +6448,7 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Het voorzitterschap van het Parlementair Associatiecomité wordt bij toerbeurt bekleed door een vertegenwoordiger van het Europees Parlement en een vertegenwoordiger van de Verchovna Rada van Oekraïne, overeenkomstig de in het reglement van orde vast te stellen bepalingen.  
 
 ### Artikel  468  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Het Parlementair Associatiecomité kan bij de Associatieraad inlichtingen inwinnen over de tenuitvoerlegging van deze overeenkomst; de Associatieraad verstrekt het Associatiecomité de verlangde informatie.   
 2.  Het Parlementair Associatiecomité wordt ingelicht over de besluiten en aanbevelingen van de Associatieraad.   
@@ -6456,7 +6456,7 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Het Parlementair Associatiecomité kan subcomités instellen.  
 
 ### Artikel  469  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen moedigen regelmatige bijeenkomsten tussen vertegenwoordigers van hun maatschappelijk middenveld aan om hen te informeren over of hun input te verzamelen voor de uitvoering van deze overeenkomst.   
 2.  Er wordt een platform voor het maatschappelijk middenveld opgericht. Dit platform bestaat uit en dient als forum voor leden van het Europees Economisch en Sociaal Comité enerzijds en vertegenwoordigers van het maatschappelijk middenveld van Oekraïne anderzijds om elkaar te ontmoeten en van gedachten te wisselen. Het platform komt met zelf te bepalen tussenpozen bijeen.   
@@ -6464,7 +6464,7 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Het voorzitterschap van het platform voor het maatschappelijk middenveld wordt bij toerbeurt bekleed door een vertegenwoordiger van het Europees Economisch en Sociaal Comité en een vertegenwoordiger van het maatschappelijk middenveld van Oekraïne, overeenkomstig de in het reglement van orde vast te stellen bepalingen.  
 
 ### Artikel  470  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Het platform voor het maatschappelijk middenveld wordt ingelicht over de besluiten en aanbevelingen van de Associatieraad.   
 2.  Het platform voor het maatschappelijk middenveld kan aanbevelingen doen aan de Associatieraad.   
@@ -6474,15 +6474,15 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####ALGEMENE EN SLOTBEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  471  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Toegang tot gerechtelijke en administratieve instanties Binnen het toepassingsgebied van deze overeenkomst zorgt elke partij ervoor dat natuurlijke personen en rechtspersonen van de andere partij, zonder discriminatie ten opzichte van haar eigen onderdanen, toegang hebben tot de bevoegde gerechtelijke en administratieve instanties, ter verdediging van hun individuele rechten en eigendomsrechten. 
 
 ### Artikel  472  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Maatregelen in verband met wezenlijke veiligheidsbelangen Niets in deze overeenkomst belet een partij maatregelen te nemen: 
 
@@ -6496,7 +6496,7 @@ c. die zij van vitaal belang acht voor haar eigen veiligheid, in geval van ernst
 
 ####Non-discriminatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Op de door de overeenkomst bestreken terreinen en onverminderd eventueel daarin neergelegde bijzondere bepalingen mogen: 
 
@@ -6509,7 +6509,7 @@ b. de regelingen die de Unie of de lidstaten ten opzichte van Oekraïne toepasse
 
 ####Geleidelijke aanpassing
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Overeenkomstig de in artikel 1 van deze overeenkomst beschreven doelstellingen van deze overeenkomst brengt Oekraïne zijn wetgeving geleidelijk in overeenstemming met de in de bijlagen I tot en met XLIII bij deze overeenkomst beschreven EU-wetgeving, op basis van de verbintenissen die zijn beschreven in de titels IV, V en VI van deze overeenkomst en de bepalingen van de genoemde bijlagen. Deze bepaling doet geen afbreuk aan eventuele specifieke beginselen en verplichtingen inzake aanpassing van de regelgeving uit hoofde van titel IV (Handel en daarmee verband houdende aangelegenheden) van deze overeenkomst. 
 
@@ -6517,7 +6517,7 @@ Overeenkomstig de in artikel 1 van deze overeenkomst beschreven doelstellingen v
 
 ####Toezicht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Toezicht houdt in dat de vorderingen met betrekking tot de uitvoering en handhaving van alle maatregelen in het kader van de overeenkomst voortdurend worden geëvalueerd.   
 2.  Het toezicht omvat onder andere toetsing van de mate waarin de wetgeving van Oekraïne is aangepast aan die van de Europese Unie, zoals bepaald in deze overeenkomst, ook met betrekking tot de uitvoering en handhaving. Deze toetsing kan individueel of, in overleg, door de partijen gezamenlijk worden uitgevoerd. Om de toetsing te vergemakkelijken brengt Oekraïne aan de EU verslag uit over de aanpassing, waar nodig vóór het einde van de overgangsperioden die in de overeenkomst zijn vastgesteld. Bij de verslaglegging en toetsing, onder andere wat betreft de wijze van uitvoering en de frequentie van de toetsingen, wordt rekening gehouden met de bepalingen ter zake van deze overeenkomst en met besluiten van institutionele organen die op grond van deze overeenkomst worden opgericht.   
@@ -6530,7 +6530,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Voldoen aan verplichtingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen treffen alle algemene en bijzondere maatregelen die nodig zijn om aan hun verplichtingen krachtens deze overeenkomst te voldoen. Zij zorgen ervoor dat de in de overeenkomst vastgelegde doelstellingen worden bereikt.   
 2.  De partijen komen overeen op verzoek van elk van de partijen onmiddellijk overleg te plegen via passende kanalen om kwesties met betrekking tot de interpretatie, de tenuitvoerlegging of de toepassing te goeder trouw van deze overeenkomst en andere relevante aspecten van de betrekkingen tussen de partijen te bespreken.   
@@ -6540,7 +6540,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Beslechting van geschillen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Wanneer tussen de partijen een meningsverschil ontstaat over de interpretatie, de tenuitvoerlegging of de toepassing te goeder trouwe van de overeenkomst, dient de ene partij bij de andere partij en bij de Associatieraad een formeel verzoek tot geschillenbeslechting in. Op geschillen over de interpretatie, de tenuitvoerlegging of de toepassing te goeder trouw van titel IV (Handel en daarmee verband houdende aangelegenheden) van deze overeenkomst is bij wijze van uitzondering alleen hoofdstuk 14 (Beslechting van geschillen) van titel IV (Handel en daarmee verband houdende aangelegenheden) van deze overeenkomst van toepassing.   
 2.  De partijen streven ernaar geschillen op te lossen via overleg te goeder trouw binnen de Associatieraad en de andere in de artikelen 461, 465 en 466 van deze overeenkomst bedoelde organen, teneinde zo snel mogelijk tot een wederzijds aanvaardbare oplossing te komen.   
@@ -6552,7 +6552,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Passende maatregelen bij niet-nakoming van verplichtingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Een partij kan passende maatregelen treffen als een kwestie niet is opgelost binnen drie maanden na indiening van een formeel verzoek tot geschillenbeslechting overeenkomstig artikel 477 van deze overeenkomst en als de klagende partij van mening is dat de andere partij een verplichting uit hoofde van de overeenkomst niet nakomt. De overlegperiode van drie maanden is niet verplicht in uitzonderlijke gevallen als beschreven in lid 3 van dit artikel.   
 2.  Bij voorrang moeten passende maatregelen worden gekozen die de werking van de overeenkomst het minst verstoren. Behalve de in lid 3 van dit artikel beschreven gevallen mogen dergelijke maatregelen niet de opschorting behelzen van rechten of plichten in het kader van deze overeenkomst die worden genoemd in titel IV (Handel en daarmee verband houdende aangelegenheden) van deze overeenkomst. Dergelijke maatregelen moeten onverwijld aan de Associatieraad worden gemeld en vallen onder de overlegprocedure van artikel 476, lid 2 en de geschillenbeslechtingsprocedure van artikel 476, lid 3 en artikel 477 van deze overeenkomst.   
@@ -6566,7 +6566,7 @@ b. schending door de andere partij van de essentiële elementen van de overeenko
 
 ####Verband met andere overeenkomsten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partnerschaps- en samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en Oekraïne, anderzijds, die op 14 juni 1994 werd ondertekend in Luxemburg en op 1 maart 1998 in werking trad, alsmede de daarbij behorende protocollen, worden ingetrokken.   
 2.  Deze associatieovereenkomst komt in de plaats van bovengenoemde overeenkomst. Verwijzingen naar bovengenoemde overeenkomst in alle andere overeenkomsten tussen de partijen worden gelezen als verwijzingen naar deze overeenkomst.   
@@ -6579,7 +6579,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Bijlagen en protocollen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De bijlagen en protocollen vormen een integrerend onderdeel van deze overeenkomst. 
 
@@ -6587,7 +6587,7 @@ De bijlagen en protocollen vormen een integrerend onderdeel van deze overeenkoms
 
 ####Looptijd
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Deze overeenkomst wordt voor onbepaalde tijd gesloten. Binnen vijf jaar na de inwerkingtreding en op enig ander moment dat de partijen onderling overeenkomen, wordt de verwezenlijking van de doelstellingen in het kader van deze overeenkomst grondig geëvalueerd.   
 2.  Elk van beide partijen kan deze overeenkomst opzeggen door de andere partij van deze opzegging in kennis te stellen. De overeenkomst verstrijkt zes maanden na de datum van ontvangst van die kennisgeving.  
@@ -6596,7 +6596,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Definitie van de partijen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Voor de toepassing van deze overeenkomst wordt onder „partijen” verstaan de Unie, of haar lidstaten, of de Unie en haar lidstaten, in overeenstemming met hun respectieve bevoegdheden krachtens het Verdrag betreffende de werking van de Europese Unie, enerzijds, en Oekraïne, anderzijds. Waar van toepassing wordt Euratom bedoeld, overeenkomstig de bevoegdheden krachtens het Euratomverdrag. 
 
@@ -6604,7 +6604,7 @@ Voor de toepassing van deze overeenkomst wordt onder „partijen” verstaan de 
 
 ####Territoriale toepassing
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Deze overeenkomst is van toepassing, enerzijds, op elk grondgebied waarop het Verdrag betreffende de Europese Unie (VEU), het Verdrag betreffende de werking van de Europese Unie (VWEU) en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie van toepassing zijn, onder de in die verdragen neergelegde voorwaarden, en, anderzijds, op het grondgebied van Oekraïne. 
 
@@ -6612,7 +6612,7 @@ Deze overeenkomst is van toepassing, enerzijds, op elk grondgebied waarop het Ve
 
 ####Depositaris van de overeenkomst
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De secretaris-generaal van de Raad van de Europese Unie is de depositaris van deze overeenkomst. 
 
@@ -6620,7 +6620,7 @@ De secretaris-generaal van de Raad van de Europese Unie is de depositaris van de
 
 ####Authentieke teksten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Deze overeenkomst wordt opgesteld in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische, de Zweedse en de Oekraïnse taal, zijnde alle teksten gelijkelijk authentiek. 
 
@@ -6628,7 +6628,7 @@ Deze overeenkomst wordt opgesteld in de Bulgaarse, de Deense, de Duitse, de Enge
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Deze overeenkomst wordt door de partijen volgens hun eigen procedures geratificeerd of goedgekeurd. De akten van bekrachtiging of goedkeuring worden neergelegd bij het secretariaat-generaal van de Raad van de Europese Unie.   
 2.  Deze overeenkomst treedt in werking op de eerste dag van de tweede maand volgende op de datum waarop de laatste akte van ratificatie of van goedkeuring is neergelegd.   
@@ -6644,7 +6644,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Lijst van Bijlagen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 |  *BIJLAGEN BIJ TITEL IV*   |
 |:---|
@@ -6756,19 +6756,19 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####betreffende de definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### TITEL  I  
 
 ####ALGEMENE BEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  1  
 
 ####Definities
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Voor de toepassing van dit protocol wordt verstaan onder: 
 
@@ -6802,13 +6802,13 @@ m.„gebieden”: met inbegrip van de territoriale wateren.
 
 ####DEFINITIE VAN HET BEGRIP „PRODUCTEN VAN OORSPRONG”
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  2  
 
 ####Algemene voorwaarden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Voor de toepassing van deze overeenkomst worden de volgende producten beschouwd als van oorsprong uit de Europese Unie: 
 
@@ -6825,7 +6825,7 @@ b. in Oekraïne verkregen producten waarin materialen zijn verwerkt die daar nie
 
 ####Cumulatie in de Europese Unie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Onverminderd het bepaalde in artikel 2, lid 1, van dit protocol worden producten als van oorsprong uit de Europese Unie beschouwd als zij daar verkregen zijn, en in die producten materialen zijn verwerkt die, in overeenstemming met de bepalingen van het aan deze overeenkomst gehechte protocol inzake de oorsprongsregels, van oorsprong zijn uit Oekraïne, mits de be- of verwerking in de Europese Unie ingrijpender is dan de in artikel 7 van dit protocol genoemde be- of verwerkingen. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan. 
 
@@ -6833,7 +6833,7 @@ Onverminderd het bepaalde in artikel 2, lid 1, van dit protocol worden producten
 
 ####Cumulatie in Oekraïne
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Onverminderd het bepaalde in artikel 2, lid 2, van dit protocol worden producten als van oorsprong uit Oekraïne beschouwd als zij daar verkregen zijn, en in die producten materialen zijn verwerkt die, in overeenstemming met de bepalingen van het aan deze overeenkomst gehechte protocol inzake de oorsprongsregels, van oorsprong zijn uit de Europese Unie, mits de be- of verwerking in Oekraïne ingrijpender is dan de in artikel 7 van dit protocol genoemde be- of verwerkingen. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan. 
 
@@ -6841,7 +6841,7 @@ Onverminderd het bepaalde in artikel 2, lid 2, van dit protocol worden producten
 
 ####Volledig verkregen producten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Als volledig in de Europese Unie of in Oekraïne verkregen worden beschouwd: 
 
@@ -6882,7 +6882,7 @@ e. waarvan de bemanning voor ten minste 75 % bestaat uit onderdanen van een lids
 
 ####Toereikende be- of verwerking
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Voor de toepassing van artikel 2 van dit protocol worden niet volledig verkregen producten geacht een toereikende bewerking of verwerking te hebben ondergaan wanneer aan de voorwaarden van de lijst in bijlage II bij dit protocol is voldaan. Die voorwaarden geven voor alle onder de overeenkomst vallende producten aan welke be- of verwerkingen bij de vervaardiging gebruikte, niet van oorsprong zijnde materialen moeten ondergaan, en zijn slechts op die materialen van toepassing. Dit betekent dat indien een product dat de oorsprong heeft verkregen doordat het aan de in de lijst genoemde voorwaarden heeft voldaan, als materiaal bij de vervaardiging van een ander product wordt gebruikt, de voorwaarden die van toepassing zijn op het product waarin het is verwerkt daarvoor niet gelden; er wordt dan geen rekening gehouden met de niet van oorsprong zijnde materialen die bij de vervaardiging ervan kunnen zijn gebruikt.   
 2.  In afwijking van lid 1 kunnen niet van oorsprong zijnde materialen die volgens de voorwaarden in de lijst bij de vervaardiging van een product niet mogen worden gebruikt, in de volgende gevallen toch worden gebruikt: 
@@ -6896,7 +6896,7 @@ b. de in de lijst vermelde maximumwaarden voor niet van oorsprong zijnde materia
 
 ####Ontoereikende be- of verwerking
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Onverminderd lid 2 van dit artikel worden de volgende be- of verwerkingen als ontoereikend beschouwd om de oorsprong te verlenen, ongeacht of aan de voorwaarden van artikel 6 van dit protocol is voldaan: 
 
@@ -6920,7 +6920,7 @@ i. het aanscherpen of het eenvoudig vermalen of versnijden;
 
 j. het zeven, sorteren, classificeren, assorteren (daaronder begrepen het samenstellen van stellen of assortimenten van artikelen);  
 
-k. het eenvoudig verpakken in flessen, flacons, blikken, zakken, kratten of dozen, het bevestigen op kaarten of platen en alle andere eenvoudige handelingen in verben met de verpakking;  
+k. het eenvoudig verpakken in flessen, flacons, blikken, zakken, kratten of dozen, het bevestigen op kaarten of platen en alle andere eenvoudige handelingen in verband met de verpakking;  
 
 l. het aanbrengen of opdrukken van merken, etiketten, beeldmerken of andere soortgelijke onderscheidingstekens op de producten zelf of op de verpakking;  
 
@@ -6937,7 +6937,7 @@ p. het slachten van dieren.
 
 ####In aanmerking te nemen eenheid
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De voor de toepassing van dit protocol in aanmerking te nemen eenheid is het product dat bij het vaststellen van de indeling in de nomenclatuur van het geharmoniseerd systeem als de basiseenheid wordt beschouwd. Hieruit volgt dat: 
 
@@ -6950,7 +6950,7 @@ b. wanneer een zending uit een aantal identieke producten bestaat die onder deze
 
 ####Toebehoren, vervangingsonderdelen en gereedschappen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Toebehoren, vervangingsonderdelen en gereedschappen die samen met materieel, machines, apparaten of voertuigen worden verzonden en die deel uitmaken van de normale uitrusting daarvan en in de prijs ervan zijn begrepen of niet afzonderlijk in rekening worden gebracht, worden geacht een geheel te vormen met het materieel of de machines, apparaten of voertuigen in kwestie. 
 
@@ -6958,7 +6958,7 @@ Toebehoren, vervangingsonderdelen en gereedschappen die samen met materieel, mac
 
 ####Stellen en assortimenten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Stellen en assortimenten in de zin van algemene regel 3 voor de interpretatie van het geharmoniseerd systeem worden als van oorsprong beschouwd wanneer alle samenstellende delen van oorsprong zijn. Een stel of assortiment bestaande uit producten van oorsprong en producten die niet van oorsprong zijn, wordt als van oorsprong beschouwd wanneer de waarde van de producten die niet van oorsprong zijn niet meer dan 15% van de prijs af fabriek van het stel of assortiment bedraagt. 
 
@@ -6966,7 +6966,7 @@ Stellen en assortimenten in de zin van algemene regel 3 voor de interpretatie va
 
 ####Neutrale elementen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Om de oorsprong van een product te bepalen, behoeft niet te worden nagegaan wat de oorsprong is van de bij de vervaardiging van dat product gebruikte: 
 
@@ -6982,20 +6982,20 @@ d. goederen die in de uiteindelijke samenstelling van het product niet voorkomen
 
 ####TERRITORIALE VOORWAARDEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  12  
 
 ####Territorialiteitsbeginsel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Behoudens het bepaalde in de artikelen 3 en 4 van dit protocol en in lid 3 van dit artikel moet zonder onderbreking zijn voldaan aan de in titel II genoemde voorwaarden met betrekking tot het verkrijgen van de oorsprongsstatus in de Europese Unie of in Oekraïne.   
-2.  Behoudens het bepaalde in de artikelen 3 en 4 van dit protocol worden goederen van oorsprong die uit de Europese Unie of uit Oekraïne naar een ander len zijn uitgevoerd en dan terugkeren, geacht geen goederen van oorsprong meer te zijn, tenzij ten genoegen van de douaneautoriteiten kan worden aangetoond dat: 
+2.  Behoudens het bepaalde in de artikelen 3 en 4 van dit protocol worden goederen van oorsprong die uit de Europese Unie of uit Oekraïne naar een ander land zijn uitgevoerd en dan terugkeren, geacht geen goederen van oorsprong meer te zijn, tenzij ten genoegen van de douaneautoriteiten kan worden aangetoond dat: 
 
 a. de terugkerende goederen dezelfde zijn als de eerder uitgevoerde goederen, en  
 
-b. de goederen, terwijl zij in het andere len waren of toen zij werden uitgevoerd, geen andere be- of verwerkingen hebben ondergaan dan die welke nodig waren om ze in goede staat te bewaren.     
+b. de goederen, terwijl zij in het andere land waren of toen zij werden uitgevoerd, geen andere be- of verwerkingen hebben ondergaan dan die welke nodig waren om ze in goede staat te bewaren.     
 3.  De be- of verwerking buiten de Europese Unie of buiten Oekraïne van materialen die uit de Europese Unie of uit Oekraïne zijn uitgevoerd en er vervolgens weer zijn ingevoerd, is niet van invloed op het verkrijgen van de oorsprongsstatus in overeenstemming met de in titel II van dit protocol genoemde voorwaarden mits: 
 
 a. die materialen volledig in de Europese Unie of in Oekraïne verkregen zijn of voor de uitvoer een be- of verwerking hebben ondergaan die ingrijpender was dan de in artikel 7 van dit protocol genoemde be- of verwerkingen; en  
@@ -7015,20 +7015,20 @@ ii. de totale toegevoegde waarde die door toepassing van dit artikel buiten de E
 
 ####Rechtstreeks vervoer
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
-1.  De preferentiële behandeling waarin de overeenkomst voorziet, is uitsluitend van toepassing op producten die aan de voorwaarden van dit protocol voldoen en die rechtstreeks tussen de Europese Unie en Oekraïne zijn vervoerd. Producten die een enkele zending vormen, kunnen evenwel via een ander gebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dat gebied, mits ze in het len van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren. Het is evenwel toegestaan producten van oorsprong per pijpleiding door een ander gebied dan dat van de Europese Unie of Oekraïne te vervoeren.   
-2.  Het bewijs dat aan de voorwaarden van lid 1 is voldaan, wordt geleverd door overlegging van de volgende stukken aan de douaneautoriteiten van het len van invoer: 
+1.  De preferentiële behandeling waarin de overeenkomst voorziet, is uitsluitend van toepassing op producten die aan de voorwaarden van dit protocol voldoen en die rechtstreeks tussen de Europese Unie en Oekraïne zijn vervoerd. Producten die een enkele zending vormen, kunnen evenwel via een ander gebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dat gebied, mits ze in het land van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren. Het is evenwel toegestaan producten van oorsprong per pijpleiding door een ander gebied dan dat van de Europese Unie of Oekraïne te vervoeren.   
+2.  Het bewijs dat aan de voorwaarden van lid 1 is voldaan, wordt geleverd door overlegging van de volgende stukken aan de douaneautoriteiten van het land van invoer: 
 
-a. een enkel vervoersdocument voor het vervoer van het len van uitvoer door het len van doorvoer; of  
+a. een enkel vervoersdocument voor het vervoer van het land van uitvoer door het land van doorvoer; of  
 
-b. een door de douaneautoriteiten van het len van doorvoer afgegeven certificaat waarin: 
+b. een door de douaneautoriteiten van het land van doorvoer afgegeven certificaat waarin: 
 
 i. de producten nauwkeurig zijn omschreven;  
 
 ii. de data zijn vermeld waarop de producten gelost en opnieuw geladen zijn, in voorkomend geval onder vermelding van de scheepsnamen of van de andere gebruikte vervoermiddelen; en  
 
-iii. wordt verklaard onder welke omstandigheden de producten in het len van doorvoer verbleven; of    
+iii. wordt verklaard onder welke omstandigheden de producten in het land van doorvoer verbleven; of    
 
 c. bij gebreke van bovengenoemde stukken, enig ander bewijsstuk.    
 
@@ -7036,31 +7036,31 @@ c. bij gebreke van bovengenoemde stukken, enig ander bewijsstuk.
 
 ####Tentoonstellingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
-1.  Op producten van oorsprong die naar een tentoonstelling in een ander len dan een lidstaat van de Europese Unie of Oekraïne zijn verzonden en die na de tentoonstelling voor invoer in de Europese Unie of in Oekraïne zijn verkocht, zijn bij die invoer de bepalingen van de overeenkomst van toepassing voor zover ten genoegen van de douaneautoriteiten wordt aangetoond dat: 
+1.  Op producten van oorsprong die naar een tentoonstelling in een ander land dan een lidstaat van de Europese Unie of Oekraïne zijn verzonden en die na de tentoonstelling voor invoer in de Europese Unie of in Oekraïne zijn verkocht, zijn bij die invoer de bepalingen van de overeenkomst van toepassing voor zover ten genoegen van de douaneautoriteiten wordt aangetoond dat: 
 
-a. een exporteur deze producten vanuit de Europese Unie of vanuit Oekraïne naar het len van de tentoonstelling heeft verzonden en deze daar heeft tentoongesteld;  
+a. een exporteur deze producten vanuit de Europese Unie of vanuit Oekraïne naar het land van de tentoonstelling heeft verzonden en deze daar heeft tentoongesteld;  
 
 b. die exporteur de producten aan een persoon in de Europese Unie of in Oekraïne heeft verkocht of op andere wijze heeft afgestaan;  
 
 c. de producten tijdens of onmiddellijk na de tentoonstelling in dezelfde staat zijn verzonden als waarin zij naar de tentoonstelling zijn gegaan; en  
 
 d. de producten vanaf het moment dat zij naar de tentoonstelling werden verzonden, niet voor andere doeleinden zijn gebruikt dan om op die tentoonstelling te worden vertoond.     
-2.  Overeenkomstig titel V van dit protocol wordt een bewijs van oorsprong afgegeven of opgesteld, dat op de gebruikelijke wijze bij de douaneautoriteiten van het len van invoer wordt ingediend. Op dit bewijs moeten de naam en het adres van de tentoonstelling vermeld zijn. Zo nodig kunnen aanvullende bewijsstukken worden gevraagd ten aanzien van de omstandigheden waaronder de producten werden tentoongesteld.   
+2.  Overeenkomstig titel V van dit protocol wordt een bewijs van oorsprong afgegeven of opgesteld, dat op de gebruikelijke wijze bij de douaneautoriteiten van het land van invoer wordt ingediend. Op dit bewijs moeten de naam en het adres van de tentoonstelling vermeld zijn. Zo nodig kunnen aanvullende bewijsstukken worden gevraagd ten aanzien van de omstandigheden waaronder de producten werden tentoongesteld.   
 3.  Lid 1 is van toepassing op alle tentoonstellingen, beurzen of soortgelijke openbare evenementen met een commercieel, industrieel, agrarisch of ambachtelijk karakter die niet voor particuliere doeleinden in winkels of bedrijfsruimten met het oog op de verkoop van buitenlandse producten worden gehouden, en gedurende welke de producten onder douanetoezicht zijn gebleven.  
 
 ### TITEL  IV  
 
 ####TERUGGAVE OF VRIJSTELLING VAN RECHTEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  15  
 
 ####Verbod op teruggave of vrijstelling van douanerechten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Niet van oorsprong zijnde materialen die bij de vervaardiging van producten van oorsprong uit de Unie of Oekraïne gebruikt zijn en waarvoor overeenkomstig de bepalingen van titel V van dit protocol een bewijs van oorsprong is afgegeven of opgesteld, komen in de Europese Unie of in Oekraïne niet in aanmerking voor de teruggave of kwijtschelding van invoerrechten, in welke vorm dan ook.   
 2.  Het verbod in lid 1 is van toepassing op elke regeling voor terugbetaling of algehele of gedeeltelijke vrijstelling van douanerechten of heffingen van gelijke werking die in de Europese Unie of in Oekraïne van toepassing is op materialen die bij de vervaardiging worden gebruikt, indien een dergelijke terugbetaling of vrijstelling uitdrukkelijk of feitelijk wordt toegekend wanneer de producten die uit genoemde materialen zijn verkregen, worden uitgevoerd, doch niet van toepassing is indien deze producten voor binnenlands gebruik bestemd zijn.   
@@ -7072,13 +7072,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####BEWIJS VAN OORSPRONG
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  16  
 
 ####Algemene voorwaarden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Producten van oorsprong uit de Europese Unie komen bij invoer in Oekraïne en producten van oorsprong uit Oekraïne komen bij invoer in de Europese Unie voor de voordelen van de overeenkomst in aanmerking op vertoon van: 
 
@@ -7091,11 +7091,11 @@ b. in de in artikel 22, lid 1, van dit protocol bedoelde gevallen, een verklarin
 
 ####Procedure voor de afgifte van een certificaat inzake goederenverkeer EUR.1
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
-1.  Een certificaat inzake goederenverkeer EUR.1 wordt door de douaneautoriteiten van het len van uitvoer afgegeven op schriftelijke aanvraag van de exporteur of, onder diens verantwoordelijkheid, van zijn gemachtigde.   
-2.  Te dien einde vult de exporteur of diens gemachtigde zowel het certificaat inzake goederenverkeer EUR.1 als het aanvraagformulier in; modellen van beide formulieren zijn in bijlage III opgenomen. Deze formulieren worden in een van de talen waarin de overeenkomst is opgesteld, ingevuld overeenkomstig de bepalingen van het nationale recht van het len van uitvoer. Indien zij met de hen worden ingevuld, moet dit met inkt en in blokletters gebeuren. De producten moeten worden omschreven in het daartoe bestemde vak zonder dat regels worden opengelaten. Indien het vak niet volledig wordt ingevuld, wordt onder de laatste regel een horizontale lijn getrokken en wordt het niet-ingevulde gedeelte doorgekruist.   
-3.  Exporteurs die om de afgifte van een certificaat inzake goederenverkeer EUR.1 verzoeken, moeten op verzoek van de douaneautoriteiten van het len van uitvoer waar dit certificaat wordt afgegeven, steeds de nodige documenten kunnen overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan alle andere voorwaarden van dit protocol is voldaan.   
+1.  Een certificaat inzake goederenverkeer EUR.1 wordt door de douaneautoriteiten van het land van uitvoer afgegeven op schriftelijke aanvraag van de exporteur of, onder diens verantwoordelijkheid, van zijn gemachtigde.   
+2.  Te dien einde vult de exporteur of diens gemachtigde zowel het certificaat inzake goederenverkeer EUR.1 als het aanvraagformulier in; modellen van beide formulieren zijn in bijlage III opgenomen. Deze formulieren worden in een van de talen waarin de overeenkomst is opgesteld, ingevuld overeenkomstig de bepalingen van het nationale recht van het land van uitvoer. Indien zij met de hen worden ingevuld, moet dit met inkt en in blokletters gebeuren. De producten moeten worden omschreven in het daartoe bestemde vak zonder dat regels worden opengelaten. Indien het vak niet volledig wordt ingevuld, wordt onder de laatste regel een horizontale lijn getrokken en wordt het niet-ingevulde gedeelte doorgekruist.   
+3.  Exporteurs die om de afgifte van een certificaat inzake goederenverkeer EUR.1 verzoeken, moeten op verzoek van de douaneautoriteiten van het land van uitvoer waar dit certificaat wordt afgegeven, steeds de nodige documenten kunnen overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan alle andere voorwaarden van dit protocol is voldaan.   
 4.  Een certificaat inzake goederenverkeer EUR.1 wordt door de douaneautoriteiten van een lidstaat van de Europese Unie of van Oekraïne afgegeven indien de betrokken producten kunnen worden beschouwd als producten van oorsprong uit de Europese Unie of uit Oekraïne, en aan de andere voorwaarden van dit protocol is voldaan.   
 5.  De met de afgifte van het certificaat inzake goederenverkeer EUR.1 belaste douaneautoriteiten nemen de nodige maatregelen om te controleren of de producten van oorsprong zijn en of aan de andere voorwaarden van dit protocol is voldaan. Met het oog hierop zijn zij gerechtigd bewijsstukken op te vragen, de administratie van de exporteur in te zien en alle andere controles te verrichten die zij dienstig achten. Zij zien er ook op toe dat de in lid 2 van dit artikel bedoelde formulieren correct zijn ingevuld. Zij gaan met name na of het voor de omschrijving van de producten bestemde vak zodanig is ingevuld dat frauduleuze toevoegingen niet mogelijk zijn.   
 6.  De datum van afgifte van het certificaat inzake goederenverkeer EUR.1 wordt vermeld in vak 11 van het certificaat.   
@@ -7105,7 +7105,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Afgifte achteraf van het certificaat inzake goederenverkeer EUR.1
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  In afwijking van artikel 17, lid 7, van dit protocol kan een certificaat inzake goederenverkeer EUR.1 bij wijze van uitzondering worden afgegeven na de uitvoer van de producten waarop het betrekking heeft, indien: 
 
@@ -7121,7 +7121,7 @@ b. ten genoegen van de douaneautoriteiten wordt aangetoond dat er wel een certif
 
 ####Afgifte van een duplicaat van het certificaat inzake goederenverkeer EUR.1
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  In geval van diefstal, verlies of vernietiging van een certificaat inzake goederenverkeer EUR.1 kan de exporteur de douaneautoriteiten die het certificaat hebben afgegeven, verzoeken een duplicaat op te maken aan de hen van de uitvoerdocumenten die in hun bezit zijn.   
 2.  Op het aldus afgegeven duplicaat wordt in de Engelse taal de volgende vermelding aangebracht: „DUPLICATE”.   
@@ -7132,7 +7132,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Afgifte van een certificaat inzake goederenverkeer EUR.1 aan de hen van een eerder opgesteld of afgegeven bewijs van oorsprong
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Voor producten van oorsprong die in de Europese Unie of in Oekraïne onder toezicht van een douanekantoor zijn geplaatst, kan het oorspronkelijke bewijs van oorsprong bij verzending van deze producten of van een gedeelte daarvan naar een andere plaats binnen de Europese Unie of Oekraïne door een of meer certificaten inzake goederenverkeer EUR.1 worden vervangen. Dergelijke certificaten worden afgegeven door het douanekantoor dat toezicht houdt op de producten. 
 
@@ -7140,12 +7140,12 @@ Voor producten van oorsprong die in de Europese Unie of in Oekraïne onder toezi
 
 ####Gescheiden boekhouding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Wanneer het met aanzienlijke kosten of moeilijkheden gepaard gaat om afzonderlijke voorraden aan te houden van identieke en onderling verwisselbare materialen die van oorsprong en die niet van oorsprong zijn, kunnen de douaneautoriteiten, op schriftelijk verzoek van de betrokkenen, toestaan dat voor het beheer van deze voorraden de methode van de gescheiden boekhouding wordt gebruikt.   
 2.  Met behulp van deze gescheiden boekhouding moet het mogelijk zijn dat in een bepaalde referentieperiode eenzelfde aantal als van oorsprong te beschouwen producten wordt verkregen als verkregen zou zijn indien de voorraden fysiek waren gescheiden.   
 3.  De douaneautoriteiten kunnen vergunning verlenen voor het gebruik van deze methode op de door hen wenselijk geachte voorwaarden.   
-4.  Deze methode wordt geregistreerd en toegepast op basis van de algemeen aanvaarde boekhoudbeginselen die van toepassing zijn in het len waar het product was vervaardigd.   
+4.  Deze methode wordt geregistreerd en toegepast op basis van de algemeen aanvaarde boekhoudbeginselen die van toepassing zijn in het land waar het product was vervaardigd.   
 5.  Het bedrijf dat deze vergunning heeft verkregen kan bewijzen van de oorsprong afgeven of aanvragen, al naargelang van het geval, voor de hoeveelheid producten die als van oorsprong kunnen worden beschouwd. De vergunninghouder verstrekt op verzoek van de douaneautoriteiten een verklaring over de wijze waarop de hoeveelheden zijn beheerd.   
 6.  De douaneautoriteiten houden toezicht op het gebruik van de vergunning en kunnen deze steeds intrekken wanneer de vergunninghouder deze niet correct gebruikt of niet aan een van de andere in dit protocol omschreven voorwaarden voldoet.  
 
@@ -7153,7 +7153,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Voorwaarden voor het opstellen van een factuurverklaring
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De in artikel 16, lid 1, onder b), van dit protocol genoemde factuurverklaring kan worden opgesteld: 
 
@@ -7161,18 +7161,18 @@ a. door een toegelaten exporteur in de zin van artikel 23 van dit protocol; of
 
 b. voor zendingen bestaande uit een of meer colli met producten van oorsprong waarvan de totale waarde niet meer dan 6 000 euro bedraagt, door elke exporteur.     
 2.  Een factuurverklaring kan worden opgesteld indien de betrokken producten als van oorsprong uit de Europese Unie of uit Oekraïne kunnen worden beschouwd en aan de andere voorwaarden van dit protocol is voldaan.   
-3.  De exporteur die een factuurverklaring opstelt, moet op verzoek van de douaneautoriteiten van het len van uitvoer steeds de nodige documenten kunnen overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan de andere voorwaarden van dit protocol is voldaan.   
-4.  De factuurverklaring, waarvan de tekst in bijlage IV bij dit protocol is opgenomen, wordt door de exporteur op de factuur, de pakbon of een ander handelsdocument getypt, gestempeld of gedrukt in een van de in die bijlage opgenomen taalversies, overeenkomstig de bepalingen van het nationale recht van het len van uitvoer. Indien de factuurverklaring met de hen wordt geschreven, moet dit met inkt en in blokletters geschieden.   
-5.  Factuurverklaringen worden door de exporteur eigenhandig ondertekend. Een toegelaten exporteur in de zin van artikel 23 van dit protocol behoeft deze verklaring echter niet te ondertekenen, mits hij de douaneautoriteiten van het len van uitvoer een schriftelijke verklaring doet toekomen waarin hij de volle verantwoordelijkheid op zich neemt voor alle factuurverklaringen waaruit zijn identiteit blijkt alsof hij deze met de hen had ondertekend.   
-6.  Een factuurverklaring kan door de exporteur worden opgesteld bij of na de uitvoer van de producten waarop zij betrekking heeft, maar moet uiterlijk twee jaar na de invoer van de producten waarop zij betrekking heeft in het len van invoer worden aangeboden.  
+3.  De exporteur die een factuurverklaring opstelt, moet op verzoek van de douaneautoriteiten van het land van uitvoer steeds de nodige documenten kunnen overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan de andere voorwaarden van dit protocol is voldaan.   
+4.  De factuurverklaring, waarvan de tekst in bijlage IV bij dit protocol is opgenomen, wordt door de exporteur op de factuur, de pakbon of een ander handelsdocument getypt, gestempeld of gedrukt in een van de in die bijlage opgenomen taalversies, overeenkomstig de bepalingen van het nationale recht van het land van uitvoer. Indien de factuurverklaring met de hen wordt geschreven, moet dit met inkt en in blokletters geschieden.   
+5.  Factuurverklaringen worden door de exporteur eigenhandig ondertekend. Een toegelaten exporteur in de zin van artikel 23 van dit protocol behoeft deze verklaring echter niet te ondertekenen, mits hij de douaneautoriteiten van het land van uitvoer een schriftelijke verklaring doet toekomen waarin hij de volle verantwoordelijkheid op zich neemt voor alle factuurverklaringen waaruit zijn identiteit blijkt alsof hij deze met de hen had ondertekend.   
+6.  Een factuurverklaring kan door de exporteur worden opgesteld bij of na de uitvoer van de producten waarop zij betrekking heeft, maar moet uiterlijk twee jaar na de invoer van de producten waarop zij betrekking heeft in het land van invoer worden aangeboden.  
 
 ### Artikel  23  
 
 ####Toegelaten exporteur
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
-1.  De douaneautoriteiten van het len van uitvoer kunnen een exporteur die veelvuldig producten verzendt waarop deze overeenkomst van toepassing is, hierna „toegelaten exporteur” genoemd, vergunning verlenen factuurverklaringen op te stellen, ongeacht de waarde van de betrokken producten. Een exporteur die een dergelijke vergunning aanvraagt, moet ten genoegen van de douaneautoriteiten alle waarborgen bieden die nodig zijn voor de controle op de oorsprongsstatus van de producten en de naleving van de andere voorwaarden van dit protocol.   
+1.  De douaneautoriteiten van het land van uitvoer kunnen een exporteur die veelvuldig producten verzendt waarop deze overeenkomst van toepassing is, hierna „toegelaten exporteur” genoemd, vergunning verlenen factuurverklaringen op te stellen, ongeacht de waarde van de betrokken producten. Een exporteur die een dergelijke vergunning aanvraagt, moet ten genoegen van de douaneautoriteiten alle waarborgen bieden die nodig zijn voor de controle op de oorsprongsstatus van de producten en de naleving van de andere voorwaarden van dit protocol.   
 2.  De douaneautoriteiten kunnen het verlenen van de status van toegelaten exporteur afhankelijk stellen van alle voorwaarden die zij dienstig achten.   
 3.  De douaneautoriteiten kennen de toegelaten exporteur een vergunningnummer toe, dat op de factuurverklaringen moet worden vermeld.   
 4.  De douaneautoriteiten houden toezicht op het gebruik van de vergunning door de toegelaten exporteur.   
@@ -7182,33 +7182,33 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Geldigheid van het bewijs van oorsprong
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
-1.  Een bewijs van oorsprong is vanaf de datum van afgifte in het len van uitvoer vier maanden geldig en moet binnen deze periode worden ingediend bij de douaneautoriteiten van het len van invoer.   
-2.  Bewijzen van oorsprong die na het verstrijken van de in lid 1 van dit artikel genoemde termijn bij de douaneautoriteiten van het len van invoer worden ingediend, kunnen met het oog op de toepassing van de preferentiële behandeling worden aanvaard wanneer de verlate indiening het gevolg is van buitengewone omstandigheden.   
-3.  In andere gevallen van verlate indiening kunnen de douaneautoriteiten van het len van invoer de bewijzen van oorsprong aanvaarden wanneer de producten vóór het verstrijken van genoemde termijn bij hen zijn aangebracht.  
+1.  Een bewijs van oorsprong is vanaf de datum van afgifte in het land van uitvoer vier maanden geldig en moet binnen deze periode worden ingediend bij de douaneautoriteiten van het land van invoer.   
+2.  Bewijzen van oorsprong die na het verstrijken van de in lid 1 van dit artikel genoemde termijn bij de douaneautoriteiten van het land van invoer worden ingediend, kunnen met het oog op de toepassing van de preferentiële behandeling worden aanvaard wanneer de verlate indiening het gevolg is van buitengewone omstandigheden.   
+3.  In andere gevallen van verlate indiening kunnen de douaneautoriteiten van het land van invoer de bewijzen van oorsprong aanvaarden wanneer de producten vóór het verstrijken van genoemde termijn bij hen zijn aangebracht.  
 
 ### Artikel  25  
 
 ####Overlegging van het bewijs van oorsprong
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
-Bewijzen van oorsprong worden bij de douaneautoriteiten van het len van invoer ingediend overeenkomstig de aldaar geldende procedures. Deze douaneautoriteiten kunnen eisen dat het bewijs van oorsprong wordt vertaald en dat de aangifte ten invoer vergezeld gaat van een verklaring van de importeur dat de producten aan de voorwaarden voor de toepassing van de overeenkomst voldoen. 
+Bewijzen van oorsprong worden bij de douaneautoriteiten van het land van invoer ingediend overeenkomstig de aldaar geldende procedures. Deze douaneautoriteiten kunnen eisen dat het bewijs van oorsprong wordt vertaald en dat de aangifte ten invoer vergezeld gaat van een verklaring van de importeur dat de producten aan de voorwaarden voor de toepassing van de overeenkomst voldoen. 
 
 ### Artikel  26  
 
 ####Invoer in deelzendingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
-Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het len van invoer vastgestelde voorwaarden, gedemonteerde of niet-gemonteerde producten in de zin van algemene regel 2 a) voor de interpretatie van het geharmoniseerd systeem, vallende onder de afdelingen XVI of XVII of de posten 7308 of 9406 van het geharmoniseerd systeem, in deelzendingen worden ingevoerd, wordt bij de invoer van de eerste deelzending een enkel bewijs van oorsprong bij de douaneautoriteiten ingediend. 
+Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het land van invoer vastgestelde voorwaarden, gedemonteerde of niet-gemonteerde producten in de zin van algemene regel 2 a) voor de interpretatie van het geharmoniseerd systeem, vallende onder de afdelingen XVI of XVII of de posten 7308 of 9406 van het geharmoniseerd systeem, in deelzendingen worden ingevoerd, wordt bij de invoer van de eerste deelzending een enkel bewijs van oorsprong bij de douaneautoriteiten ingediend. 
 
 ### Artikel  27  
 
 ####Vrijstelling van het bewijs van oorsprong
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Producten die in kleine colli door particulieren aan particulieren worden verzonden of die deel uitmaken van de persoonlijke bagage van reizigers, worden als producten van oorsprong toegelaten zonder dat een bewijs van oorsprong behoeft te worden overgelegd, voor zover deze producten niet als handelsgoederen worden ingevoerd en bij hun aangifte verklaard is dat zij aan de voorwaarden van dit protocol voldoen en er over de juistheid van deze verklaring geen twijfel bestaat. Voor postzendingen kan deze verklaring op het douaneaangifteformulier CN22/CN23 of op een daaraan gehecht blad worden gesteld.   
 2.  Invoer van incidentele aard van producten die uitsluitend bestemd zijn voor persoonlijk gebruik door de ontvanger of de reiziger of de leden van diens gezin, worden niet als invoer van handelsgoederen aangemerkt indien noch de aard, noch de hoeveelheid van de producten op commerciële doeleinden wijst.   
@@ -7218,7 +7218,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Bewijsstukken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De in artikel 17, lid 3, en artikel 22, lid 3, van dit protocol bedoelde documenten aan de hen waarvan wordt aangetoond dat producten die door een certificaat inzake goederenverkeer EUR.1 of een factuurverklaring worden gedekt, als producten van oorsprong uit de Europese Unie of uit Oekraïne kunnen worden aangemerkt en aan de andere voorwaarden van dit protocol voldoen, kunnen onder meer de volgende zijn: 
 
@@ -7236,18 +7236,18 @@ e. passende bewijsstukken inzake be- of verwerking buiten de Europese Unie of Oe
 
 ####Bewaring van het bewijs van oorsprong en de bewijsstukken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Exporteurs die om de afgifte van een certificaat inzake goederenverkeer EUR.1 verzoeken, bewaren de in artikel 17, lid 3, van dit protocol bedoelde documenten gedurende ten minste drie jaar.   
 2.  Exporteurs die een factuurverklaring opstellen, bewaren een kopie van deze factuurverklaring alsmede de in artikel 22, lid 3, van dit protocol bedoelde documenten gedurende ten minste drie jaar.   
-3.  De douaneautoriteiten van het len van uitvoer die een certificaat inzake goederenverkeer EUR.1 afgeven, bewaren het in artikel 17, lid 2, van dit protocol bedoelde aanvraagformulier gedurende ten minste drie jaar.   
-4.  De douaneautoriteiten van het len van invoer bewaren de certificaten inzake goederenverkeer EUR.1 en de factuurverklaringen die bij hen worden ingediend gedurende ten minste drie jaar.  
+3.  De douaneautoriteiten van het land van uitvoer die een certificaat inzake goederenverkeer EUR.1 afgeven, bewaren het in artikel 17, lid 2, van dit protocol bedoelde aanvraagformulier gedurende ten minste drie jaar.   
+4.  De douaneautoriteiten van het land van invoer bewaren de certificaten inzake goederenverkeer EUR.1 en de factuurverklaringen die bij hen worden ingediend gedurende ten minste drie jaar.  
 
 ### Artikel  30  
 
 ####Verschillen en vormfouten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Geringe verschillen tussen de gegevens op het bewijs van oorsprong en die op de documenten die voor het vervullen van de invoerformaliteiten bij het douanekantoor worden ingediend, maken het bewijs van oorsprong niet automatisch ongeldig indien blijkt dat dit document wel degelijk met de aangebrachte producten overeenstemt.   
 2.  Kennelijke vormfouten, zoals typefouten op een bewijs van oorsprong, mogen niet tot weigering van dit document leiden indien deze fouten niet van dien aard zijn dat zij twijfel doen rijzen over de juistheid van de daarin vermelde gegevens.  
@@ -7256,39 +7256,39 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####In euro uitgedrukte bedragen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Voor de toepassing van artikel 22, lid 1, onder b), en artikel 27, lid 3, van dit protocol wordt, wanneer de producten gefactureerd zijn in een andere valuta dan de euro, de tegenwaarde van de in euro uitgedrukte bedragen in de nationale valuta van de lidstaten van de Europese Unie of van Oekraïne jaarlijks door elk van de betrokken landen vastgesteld.   
-2.  Artikel 22, lid 1, onder b), en artikel 27, lid 3, van dit protocol zijn van toepassing op zendingen op basis van de valuta waarin de factuur is opgesteld, overeenkomstig het bedrag dat door het betrokken len is vastgesteld.   
+2.  Artikel 22, lid 1, onder b), en artikel 27, lid 3, van dit protocol zijn van toepassing op zendingen op basis van de valuta waarin de factuur is opgesteld, overeenkomstig het bedrag dat door het betrokken land is vastgesteld.   
 3.  De in een bepaalde nationale valuta te gebruiken bedragen zijn de tegenwaarde in die valuta van de in euro uitgedrukte bedragen op de eerste werkdag van oktober. De bedragen worden de Europese Commissie uiterlijk op 15 oktober medegedeeld en zijn van toepassing vanaf 1 januari van het daaropvolgende jaar. De Europese Commissie stelt alle betrokken landen in kennis van de desbetreffende bedragen.   
-4.  Een len mag het bedrag dat het resultaat is van de omrekening in zijn nationale valuta van een in euro uitgedrukt bedrag naar boven of beneden afronden. Het afgeronde bedrag mag niet meer dan 5 procent afwijken van het door omrekening verkregen bedrag. Een len mag de tegenwaarde in zijn nationale valuta van een in euro uitgedrukt bedrag ongewijzigd handhaven indien bij de omrekening van dat bedrag, ten tijde van de in lid 3 bedoelde jaarlijkse aanpassing, vóór afronding, een stijging van minder dan 15 procent van die tegenwaarde wordt verkregen. De tegenwaarde in nationale valuta kan ongewijzigd blijven indien de omrekening tot een daling van de tegenwaarde leidt.   
-5.  De in euro uitgedrukte bedragen worden op verzoek van de Europese Unie of van Oekraïne door het subcomité Douane herzien. Bij deze herziening onderzoekt dit comité of het wenselijk is de effecten van de betreffende limieten in reële termen te handhaven. Het kan in dat verben besluiten de in euro uitgedrukte bedragen te wijzigen.  
+4.  Een land mag het bedrag dat het resultaat is van de omrekening in zijn nationale valuta van een in euro uitgedrukt bedrag naar boven of beneden afronden. Het afgeronde bedrag mag niet meer dan 5 procent afwijken van het door omrekening verkregen bedrag. Een land mag de tegenwaarde in zijn nationale valuta van een in euro uitgedrukt bedrag ongewijzigd handhaven indien bij de omrekening van dat bedrag, ten tijde van de in lid 3 bedoelde jaarlijkse aanpassing, vóór afronding, een stijging van minder dan 15 procent van die tegenwaarde wordt verkregen. De tegenwaarde in nationale valuta kan ongewijzigd blijven indien de omrekening tot een daling van de tegenwaarde leidt.   
+5.  De in euro uitgedrukte bedragen worden op verzoek van de Europese Unie of van Oekraïne door het subcomité Douane herzien. Bij deze herziening onderzoekt dit comité of het wenselijk is de effecten van de betreffende limieten in reële termen te handhaven. Het kan in dat verband besluiten de in euro uitgedrukte bedragen te wijzigen.  
 
 ### TITEL  VI  
 
 ####REGELINGEN VOOR ADMINISTRATIEVE SAMENWERKING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  32  
 
 ####Wederzijdse bijstand
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De douaneautoriteiten van de lidstaten van de Europese Unie en van Oekraïne doen elkaar via de Europese Commissie de afdrukken van de stempels toekomen die in hun douanekantoren voor de afgifte van certificaten inzake goederenverkeer EUR.1 worden gebruikt, alsmede de adressen van de douaneautoriteiten die belast zijn met de controle van die certificaten en van factuurverklaringen.   
-2.  Met het oog op de correcte toepassing van dit protocol verlenen de Europese Unie en Oekraïne elkaar via de bevoegde douaneautoriteiten bijsten bij de controle van de echtheid van de certificaten inzake goederenverkeer EUR.1 of de factuurverklaringen en de juistheid van de in die documenten verstrekte inlichtingen.  
+2.  Met het oog op de correcte toepassing van dit protocol verlenen de Europese Unie en Oekraïne elkaar via de bevoegde douaneautoriteiten bijstand bij de controle van de echtheid van de certificaten inzake goederenverkeer EUR.1 of de factuurverklaringen en de juistheid van de in die documenten verstrekte inlichtingen.  
 
 ### Artikel  33  
 
 ####Controle van de bewijzen van oorsprong
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
-1.  De bewijzen van oorsprong worden achteraf door middel van steekproeven gecontroleerd of wanneer de douaneautoriteiten van het len van invoer gegronde redenen hebben om te twijfelen aan de echtheid van deze documenten, de oorsprong van de betrokken producten of de naleving van de andere voorwaarden van dit protocol.   
-2.  Voor de toepassing van lid 1 van dit artikel zenden de douaneautoriteiten van het len van invoer het certificaat inzake goederenverkeer EUR.1, de factuur, indien deze werd voorgelegd, en de factuurverklaring of een kopie van deze documenten, terug aan de douaneautoriteiten van het len van uitvoer, eventueel onder vermelding van de redenen waarom een onderzoek wordt aangevraagd. Zij verstrekken bij deze controleaanvraag alle documenten en gegevens die het vermoeden hebben doen rijzen dat de gegevens op het bewijs van oorsprong onjuist zijn.   
-3.  De controle wordt verricht door de douaneautoriteiten van het len van uitvoer. Met het oog hierop zijn deze gerechtigd bewijsstukken op te vragen, de administratie van de exporteur in te zien en alle andere controles te verrichten die zij dienstig achten.   
-4.  Indien de douaneautoriteiten van het len van invoer besluiten voor de betrokken producten geen preferentiële behandeling toe te kennen zolang de uitslag van de controle niet bekend is, stellen zij de importeur voor de producten vrij te geven onder voorbehoud van de noodzakelijk geachte conservatoire maatregelen.   
+1.  De bewijzen van oorsprong worden achteraf door middel van steekproeven gecontroleerd of wanneer de douaneautoriteiten van het land van invoer gegronde redenen hebben om te twijfelen aan de echtheid van deze documenten, de oorsprong van de betrokken producten of de naleving van de andere voorwaarden van dit protocol.   
+2.  Voor de toepassing van lid 1 van dit artikel zenden de douaneautoriteiten van het land van invoer het certificaat inzake goederenverkeer EUR.1, de factuur, indien deze werd voorgelegd, en de factuurverklaring of een kopie van deze documenten, terug aan de douaneautoriteiten van het land van uitvoer, eventueel onder vermelding van de redenen waarom een onderzoek wordt aangevraagd. Zij verstrekken bij deze controleaanvraag alle documenten en gegevens die het vermoeden hebben doen rijzen dat de gegevens op het bewijs van oorsprong onjuist zijn.   
+3.  De controle wordt verricht door de douaneautoriteiten van het land van uitvoer. Met het oog hierop zijn deze gerechtigd bewijsstukken op te vragen, de administratie van de exporteur in te zien en alle andere controles te verrichten die zij dienstig achten.   
+4.  Indien de douaneautoriteiten van het land van invoer besluiten voor de betrokken producten geen preferentiële behandeling toe te kennen zolang de uitslag van de controle niet bekend is, stellen zij de importeur voor de producten vrij te geven onder voorbehoud van de noodzakelijk geachte conservatoire maatregelen.   
 5.  De resultaten van de controle worden zo spoedig mogelijk medegedeeld aan de douaneautoriteiten die de controle hebben aangevraagd. Hierbij moet duidelijk worden aangegeven of de documenten echt zijn, of de betrokken producten als producten van oorsprong uit de Europese Unie of Oekraïne kunnen worden beschouwd en of aan de andere voorwaarden van dit protocol is voldaan.   
 6.  Indien bij gegronde twijfel binnen tien maanden na de controleaanvraag geen antwoord is ontvangen of indien het antwoord onvoldoende gegevens bevat om de echtheid van het betrokken document of de werkelijke oorsprong van de producten vast te stellen, kennen de douaneautoriteiten die de controle hebben aangevraagd, de preferentiële behandeling niet toe, behoudens in buitengewone omstandigheden.  
 
@@ -7296,15 +7296,15 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Geschillenbeslechting
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
-Geschillen ten aanzien van de in artikel 33 van dit protocol bedoelde controleprocedures die de douaneautoriteiten die om de controle verzoeken en de douaneautoriteiten die de controle moeten uitvoeren niet onderling kunnen regelen, alsmede problemen in verben met de interpretatie van dit protocol worden voorgelegd aan het Handelscomité. Op de regeling van geschillen tussen de importeur en de douaneautoriteiten van het len van invoer is in alle gevallen de wetgeving van dat len van toepassing. 
+Geschillen ten aanzien van de in artikel 33 van dit protocol bedoelde controleprocedures die de douaneautoriteiten die om de controle verzoeken en de douaneautoriteiten die de controle moeten uitvoeren niet onderling kunnen regelen, alsmede problemen in verband met de interpretatie van dit protocol worden voorgelegd aan het Handelscomité. Op de regeling van geschillen tussen de importeur en de douaneautoriteiten van het land van invoer is in alle gevallen de wetgeving van dat land van toepassing. 
 
 ### Artikel  35  
 
 ####Sancties
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Er worden sancties getroffen tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen met het doel een preferentiële behandeling voor producten te verkrijgen. 
 
@@ -7312,7 +7312,7 @@ Er worden sancties getroffen tegen eenieder die een document met onjuiste gegeve
 
 ####Vrije zones
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De Europese Unie en Oekraïne nemen alle nodige maatregelen om te voorkomen dat producten die onder geleide van een bewijs van oorsprong worden verhandeld en die tijdens het vervoer in een op hun grondgebied gelegen vrije zone verblijven, door andere goederen worden vervangen of andere behandelingen ondergaan dan die welke gebruikelijk zijn om ze in goede staat te bewaren.   
 2.  In afwijking van lid 1 van dit artikel geven de bevoegde autoriteiten, wanneer producten van oorsprong uit de Europese Unie of uit Oekraïne onder geleide van een bewijs van oorsprong in een vrije zone worden ingevoerd en er een be- of verwerking ondergaan, op verzoek van de exporteur een nieuw certificaat inzake goederenverkeer EUR.1 af, mits de be- of verwerking in overeenstemming is met de bepalingen van dit protocol.  
@@ -7321,13 +7321,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####CEUTA EN MELILLA
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  37  
 
 ####Toepassing van het protocol
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De in artikel 2 van dit protocol gebruikte term „Europese Unie” omvat niet Ceuta en Melilla.   
 2.  Producten van oorsprong uit Oekraïne die in Ceuta of Melilla worden ingevoerd, vallen in elk opzicht onder dezelfde douaneregeling als die welke op grond van protocol nr. 2 van de Akte van Toetreding van het Koninkrijk Spanje en de Republiek Portugal tot de Europese Gemeenschappen van toepassing is op producten van oorsprong uit het douanegebied van de Europese Unie. Oekraïne past op onder de overeenkomst vallende producten van oorsprong uit Ceuta en Melilla dezelfde douaneregeling toe als op producten van oorsprong uit de Europese Unie die uit de Europese Unie worden ingevoerd.   
@@ -7337,7 +7337,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Bijzondere voorwaarden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Mits zij rechtstreeks zijn vervoerd overeenkomstig het bepaalde in artikel 13 van dit protocol, worden beschouwd als: 
 
@@ -7368,20 +7368,20 @@ ii. die producten van oorsprong zijn uit Ceuta en Melilla of uit de Europese Uni
 
 ####SLOTBEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  39  
 
 ####Wijzigingen van het protocol
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Het subcomité Douane kan besluiten dit protocol te wijzigen.   
 2.  Het subcomité Douane kan na toetreding van Oekraïne tot de Regionale Conventie betreffende de pan-Euro-mediterrane preferentiële oorsprongsregels ook besluiten de in dit protocol neergelegde oorsprongsregels te vervangen door die welke aan de conventie zijn gehecht.  
 
 ####Gezamenlijke verklaring betreffende het Vorstendom Andorra
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1. Producten van oorsprong uit het Vorstendom Andorra die vallen onder de hoofdstukken 25 tot en met 97 van het geharmoniseerd systeem worden door Oekraïne aanvaard als producten van oorsprong uit de Unie in de zin van deze overeenkomst.  
 
@@ -7389,7 +7389,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Gezamenlijke verklaring betreffende de Republiek San Marino
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1. Producten van oorsprong uit de Republiek San Marino worden door Oekraïne aanvaard als producten van oorsprong uit de Unie in de zin van deze overeenkomst.  
 
@@ -7397,7 +7397,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Gezamenlijke verklaring betreffende de herziening van de oorsprongsregels in Protocol 1
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1. De partijen komen overeen om, wanneer een van hen daarom verzoekt en in geen geval later dan vijf jaar na de inwerkingtreding van deze overeenkomst, de oorsprongsregels in dit protocol opnieuw te onderzoeken en overleg te plegen over de noodzakelijke wijzigingen. In dit overleg houden de partijen rekening met de technologische ontwikkeling, de productieprocessen en alle andere factoren, met inbegrip van de lopende hervormingen van de oorsprongsregels, die de wijziging van de regels kunnen rechtvaardigen.  
 
@@ -7407,13 +7407,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####betreffende wederzijdse administratieve bijstand in douaneaangelegenheden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 ### Artikel  1  
 
 ####Definities
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Voor de toepassing van dit protocol wordt verstaan onder: 
 
@@ -7431,7 +7431,7 @@ e.„met de douanewetgeving strijdige handeling”: elke overtreding of poging t
 
 ####Toepassingsgebied
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De partijen verlenen elkaar bijstand om op de onder hun bevoegdheid vallende gebieden en op de wijze en voorwaarden die bij dit protocol zijn vastgesteld, de correcte toepassing van de douanewetgeving te waarborgen, in het bijzonder door met die wetgeving strijdige handelingen te voorkomen, op te sporen en te bestrijden.   
 2.  De in dit protocol bedoelde bijstand in douaneaangelegenheden geldt voor alle overheidsinstanties van de partijen die voor de toepassing van dit protocol bevoegd zijn. Deze bijstand laat de regels inzake wederzijdse bijstand in strafzaken onverlet. Hij geldt evenmin voor informatie die is verkregen krachtens bevoegdheden die op verzoek van een rechterlijke instantie worden uitgeoefend, tenzij deze ermee instemt dat die informatie wordt verstrekt.   
@@ -7441,7 +7441,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Bijstand op verzoek
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Op aanvraag van de verzoekende autoriteit verstrekt de aangezochte autoriteit eerstgenoemde alle ter zake dienende informatie die deze nodig heeft om erop toe te zien dat de douanewetgeving correct wordt toegepast, met inbegrip van informatie betreffende vastgestelde of voorgenomen activiteiten die met deze wetgeving strijdige handelingen zijn of kunnen zijn.   
 2.  Op aanvraag van de verzoekende autoriteit deelt de aangezochte autoriteit haar mede: 
@@ -7463,7 +7463,7 @@ d. vervoermiddelen die op zodanige wijze worden of kunnen worden gebruikt dat re
 
 ####Ongevraagde bijstand
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen verlenen elkaar, in overeenstemming met hun wettelijke bepalingen, op eigen initiatief bijstand indien zij dit noodzakelijk achten voor de correcte toepassing van de douanewetgeving, in het bijzonder door informatie te verstrekken die zij hebben verkregen over: 
 
@@ -7481,7 +7481,7 @@ De partijen verlenen elkaar, in overeenstemming met hun wettelijke bepalingen, o
 
 ####Verstrekking van documenten en kennisgeving van besluiten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, in overeenstemming met haar wettelijke bepalingen, alle maatregelen die nodig zijn voor 
 
@@ -7489,13 +7489,13 @@ Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, in ov
 
 – de kennisgeving van besluiten  
 
-– van de verzoekende autoriteit in verben met de toepassing van dit protocol aan adressaten die op het grondgebied van de aangezochte autoriteit verblijven of gevestigd zijn.   Verzoeken om de verstrekking van documenten of de kennisgeving van besluiten worden schriftelijk aan de aangezochte autoriteit gericht in een officiële taal van die autoriteit of in een voor die autoriteit aanvaardbare taal. 
+– van de verzoekende autoriteit in verband met de toepassing van dit protocol aan adressaten die op het grondgebied van de aangezochte autoriteit verblijven of gevestigd zijn.   Verzoeken om de verstrekking van documenten of de kennisgeving van besluiten worden schriftelijk aan de aangezochte autoriteit gericht in een officiële taal van die autoriteit of in een voor die autoriteit aanvaardbare taal. 
 
 ### Artikel  6  
 
 ####Vorm en inhoud van verzoeken om bijstand
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Verzoeken in het kader van dit protocol worden schriftelijk gedaan. Zij gaan vergezeld van de documenten die voor de behandeling van het verzoek noodzakelijk zijn. In spoedeisende gevallen kunnen verzoeken ook mondeling worden gedaan, mits zij onmiddellijk schriftelijk worden bevestigd.   
 2.  De overeenkomstig lid 1 van dit artikel ingediende verzoeken bevatten de volgende gegevens: 
@@ -7518,7 +7518,7 @@ f. een samenvatting van de feiten en van het reeds uitgevoerde onderzoek.
 
 ####Uitvoering van verzoeken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Binnen de grenzen van haar bevoegdheden en de haar beschikbare middelen behandelt de aangezochte autoriteit een verzoek om bijstand van de verzoekende autoriteit door de informatie te verstrekken waarover zij al beschikt, of door het nodige onderzoek te verrichten of te laten verrichten naar handelingen die strijdig met de douanewetgeving zijn of dit in de ogen van de verzoekende autoriteit lijken te zijn. Voor dit administratieve onderzoek gaat de aangezochte autoriteit, of de andere bevoegde autoriteit tot wie deze zich heeft gericht, te werk als handelde zij ten eigen behoeve of op verzoek van een andere autoriteit van dezelfde partij. De aangezochte autoriteit deelt de resultaten van dit administratieve onderzoek mede aan de verzoekende autoriteit.   
 2.  Indien de aangezochte autoriteit niet de juiste autoriteit is om aan het verzoek om bijstand te voldoen, geeft zij het verzoek door aan de bevoegde autoriteit, en vraagt zij deze autoriteit om medewerking. In een dergelijk geval zijn de bepalingen van deze overeenkomst van dienovereenkomstige toepassing op die autoriteit. De verzoekende autoriteit wordt hiervan in kennis gesteld.   
@@ -7529,7 +7529,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Vorm waarin de informatie moet worden verstrekt
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  De aangezochte autoriteit deelt de uitslag van het ingestelde onderzoek schriftelijk aan de verzoekende autoriteit mede en voegt daarbij de relevante documenten, gewaarmerkte afschriften of andere stukken.   
 2.  Deze informatie mag in de vorm van computerbestanden worden verstrekt, tenzij de verzoekende autoriteit om een andere wijze van mededeling verzoekt.   
@@ -7539,7 +7539,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Gevallen waarin geen bijstand behoeft te worden verleend
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Bijstand kan worden geweigerd of van bepaalde voorwaarden of eisen afhankelijk worden gesteld wanneer een partij van oordeel is dat bijstand op grond van dit protocol: 
 
@@ -7556,7 +7556,7 @@ c. een inbreuk zou betekenen op wettelijk beschermde industriële, handels- of b
 
 ####Doorgifte van informatie en geheimhoudingsplicht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Alle informatie die, in welke vorm dan ook, op grond van dit protocol wordt verstrekt, heeft een vertrouwelijk karakter of is alleen bestemd voor beperkte verspreiding, afhankelijk van de toepasselijke voorschriften van elk van de partijen. De verstrekte gegevens vallen onder de geheimhoudingsplicht en genieten de bescherming die door de desbetreffende wetgeving van de ontvangende partij, dan wel door de desbetreffende bepalingen die op de autoriteiten van de EU-partij van toepassing zijn, aan dergelijke gegevens wordt geboden.   
 2.  Persoonsgegevens mogen uitsluitend worden doorgegeven wanneer de partij die de gegevens ontvangt, zich ertoe verbindt deze gegevens een passend beschermingsniveau toe te kennen, in overeenstemming met de normen en juridische instrumenten die zijn bedoeld in artikel 15 van titel III, Justitie, vrijheid en veiligheid, van deze overeenkomst.   
@@ -7567,7 +7567,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Deskundigen en getuigen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Een onder een aangezochte autoriteit ressorterende ambtenaar kan worden gemachtigd om, binnen de grenzen van de hem verleende machtiging, als deskundige of getuige te verschijnen in gerechtelijke of administratieve procedures betreffende onder dit protocol vallende aangelegenheden en daarbij de voor de procedure noodzakelijke voorwerpen, documenten of gewaarmerkte afschriften voor te leggen. In de dagvaarding dient uitdrukkelijk te worden vermeld voor welke rechterlijke of administratieve instantie de ambtenaar moet verschijnen en over welke aangelegenheid en in welke functie of hoedanigheid hij zal worden ondervraagd. 
 
@@ -7575,7 +7575,7 @@ Een onder een aangezochte autoriteit ressorterende ambtenaar kan worden gemachti
 
 ####Kosten van de bijstand
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen brengen elkaar geen kosten in rekening voor uitgaven die op grond van dit protocol worden gedaan, met uitzondering van eventuele uitgaven voor deskundigen en getuigen en voor tolken en vertalers die niet in overheidsdienst zijn. 
 
@@ -7583,7 +7583,7 @@ De partijen brengen elkaar geen kosten in rekening voor uitgaven die op grond va
 
 ####Tenuitvoerlegging
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Dit protocol wordt ten uitvoer gelegd door de centrale douaneautoriteit van Oekraïne, enerzijds, en de bevoegde diensten van de Europese Commissie en, in voorkomend geval, de douaneautoriteiten van de lidstaten van de Europese Unie, anderzijds. Zij stellen alle voor de toepassing van dit protocol noodzakelijke praktische maatregelen en regelingen vast, rekening houdend met de geldende voorschriften, met name op het gebied van de gegevensbescherming. Zij kunnen de bevoegde instanties aanbevelingen doen over wijzigingen die naar hun oordeel in dit protocol moeten worden aangebracht.   
 2.  De partijen verstrekken elkaar de lijsten van de autoriteiten die door hen gemachtigd zijn dit protocol uit te voeren, en werken deze regelmatig bij.   
@@ -7593,7 +7593,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Andere overeenkomsten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 1.  Met inachtneming van de respectieve bevoegdheden van de Europese Unie en haar lidstaten, en onverminderd lid 2 van dit artikel: 
 
@@ -7610,61 +7610,61 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Overleg
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
-Ten aanzien van vraagstukken in verben met de toepassing van dit protocol plegen de partijen onderling overleg om deze op te lossen in het kader van het bij artikel 83 van hoofdstuk 5 (Douane en handelsbevordering) van titel IV van deze overeenkomst ingestelde subcomité Douane. 
+Ten aanzien van vraagstukken in verband met de toepassing van dit protocol plegen de partijen onderling overleg om deze op te lossen in het kader van het bij artikel 83 van hoofdstuk 5 (Douane en handelsbevordering) van titel IV van deze overeenkomst ingestelde subcomité Douane. 
 
 ### Protocol III 
 
 ####inzake een Kaderovereenkomst tussen de Europese Unie en Oekraïne inzake de algemene beginselen voor deelname van Oekraïne aan EU-programma’s
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De partijen komen het volgende overeen:  
 
 ### Artikel  1  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Oekraïne mag deelnemen aan alle huidige en toekomstige programma’s van de Unie die overeenkomstig de bepalingen tot vaststelling van die programma’s voor het land openstaan. 
 
 ### Artikel  2  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Oekraïne levert een financiële bijdrage aan de algemene begroting van de Unie in overeenstemming met de specifieke programma’s waaraan het deelneemt. 
 
 ### Artikel  3  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Vertegenwoordigers van Oekraïne mogen als waarnemers de vergaderingen bijwonen van de beheerscomités die belast zijn met het toezicht op de programma’s waaraan Oekraïne een financiële bijdrage levert, voor zover deze betrekking hebben op onderwerpen die Oekraïne aangaan. 
 
 ### Artikel  4  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Ten aanzien van projecten en initiatieven die door deelnemers uit Oekraïne worden ingediend, gelden in het kader van de betrokken programma’s voor zover mogelijk dezelfde voorwaarden, regels en procedures als voor de lidstaten. 
 
 ### Artikel  5  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De specifieke voorwaarden betreffende de deelname van Oekraïne aan de verschillende programma’s, met name de verschuldigde financiële bijdrage en de rapportage- en evaluatieprocedures, worden vastgesteld in een memorandum van overeenstemming tussen de Commissie en de bevoegde autoriteiten van Oekraïne, op basis van de criteria die in het kader van de betrokken programma’s zijn bepaald. Als Oekraïne op grond van artikel 3 van Verordening (EG) nr. 1638/2006 van het Europees Parlement en de Raad van 24 oktober 2006 houdende algemene bepalingen tot invoering van een Europees nabuurschaps- en partnerschapsinstrument of van een soortgelijke toekomstige verordening betreffende externe bijstand van de Unie aan Oekraïne, de Unie om externe bijstand voor deelname aan een EU-programma verzoekt, worden de voorwaarden voor het gebruik door Oekraïne van de externe bijstand van de Unie in een financieringsovereenkomst vastgesteld, waarbij met name artikel 20 van Verordening (EG) nr. 1638/2006 in acht wordt genomen. 
 
 ### Artikel  6  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Overeenkomstig Verordening (EG, Euratom) nr. 1605/2002 van de Raad van 25 juni 2002 houdende het Financieel Reglement van toepassing op de algemene begroting van de Europese Gemeenschappen wordt in de krachtens artikel 5 gesloten memoranda van overeenstemming bepaald dat financiële controles of audits en andere controles, zoals administratieve onderzoeken, worden verricht door of onder toezicht van de Europese Commissie, het Europees Bureau voor Fraudebestrijding (OLAF) en de Rekenkamer. Er worden gedetailleerde bepalingen in opgenomen inzake financiële controle en audits, administratieve maatregelen, sancties en invordering, waarbij aan de Europese Commissie, OLAF en de Rekenkamer bevoegdheden worden toegekend die gelijkwaardig zijn met hun bevoegdheden ten aanzien van begunstigden of contractanten die in de Unie zijn gevestigd. 
 
 ### Artikel  7  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Dit protocol is van toepassing gedurende de looptijd van de overeenkomst. Elk van beide partijen kan dit protocol opzeggen door schriftelijke kennisgeving aan de andere partij. Dit protocol verstrijkt zes maanden na de datum van die kennisgeving. Beëindiging van dit protocol als gevolg van opzegging door een van de partijen is niet van invloed op de controles die overeenkomstig de artikelen 5 en 6 worden uitgevoerd. 
 
 ### Artikel  8  
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Uiterlijk drie jaar na de inwerkingtreding van dit protocol, en vervolgens iedere drie jaar, kunnen de partijen de tenuitvoerlegging van het protocol evalueren aan de hand van de werkelijke deelname van Oekraïne aan een of meer EU-programma’s. 
 
 ####Gezamenlijke verklaring
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De Europese Unie, hierna de „EU” genoemd, wijst erop dat landen die met de EU een douane-unie tot stand hebben gebracht, hun handelsregeling moeten aanpassen aan die van de EU en dat sommige van hen een preferentiële overeenkomst moeten sluiten met landen die met de EU een preferentiële overeenkomst hebben gesloten. De partijen nemen er in dit verband nota van dat Oekraïne onderhandelingen moet openen met landen 
 
@@ -7674,7 +7674,7 @@ b. waarvan de producten niet in aanmerking komen voor de tariefconcessies ingevo
 
 ####Slotakte tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en Oekraïne, anderzijds, wat de Associatieovereenkomst  betreft
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 De vertegenwoordigers van; het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Europese Unie, de Europese Gemeenschap voor Atoomenergie, enerzijds, en Oekraïne, anderzijds, (hierna gezamenlijk „de ondertekenende partijen” genoemd), bijeengekomen te Brussel op zevenentwintig 27 juni tweeduizend veertien, voor de ondertekening van die delen van de Associatieovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en Oekraïne, anderzijds (hierna „de Overeenkomst” genoemd) die niet op 21 maart 2014 werden ondertekend, herinneren eraan dat zij tijdens de topbijeenkomst te Brussel op 21 maart 2014 de tekst van de volgende politieke bepalingen van de overeenkomst hebben ondertekend: 
 
@@ -7689,7 +7689,7 @@ GEDAAN te Brussel, op zevenentwintig juni tweeduizend veertien.
 
 ####Slotakte van de topbijeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Oekraïne, anderzijds, betreffende de Associatieovereenkomst 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Op 21 maart 2014 heeft in Brussel een topbijeenkomst plaatsgevonden tussen de Europese Unie en haar lidstaten, enerzijds, en Oekraïne, anderzijds. De vertegenwoordigers van: het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Europese Unie, enerzijds, en Oekraïne, anderzijds, deelnemende aan de topbijeenkomst (hierna „de Ondertekenende Partijen” genoemd), hebben de tekst van de volgende politieke bepalingen van de aangehechte Associatieovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en Oekraïne, anderzijds (hierna „de Overeenkomst” genoemd), ondertekend: 
 
@@ -7702,6 +7702,6 @@ GEDAAN te Brussel, op 21 maart 2014.
 
 ####Statement of Ukraine on Article 8 of the Association Agreement between Ukraine, of the One Part, the European Union and the European Atomic Energy Community and their Member States, of the Other Part 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Wordt voorlopig toegepast per 01-11-2014 
 
 Ukraine declares that the obligations arising from Article 8 of the Association Agreement between Ukraine, of the one part, the European Union and the European Atomic Energy Community and their Member States, of the other part, on the ratification of the Rome Statute of the International Criminal Court of 1998 will be fulfilled after introducing relevant amendments to the Constitution of Ukraine.   

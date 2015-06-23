@@ -10,7 +10,7 @@ Besluit:
 
 ### Artikel  1  
 
-Voor subsidieverlening op grond van artikel 4.8 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 in het kader van de derde openstelling van de PPP faciliteit Ghana WASH Window van het Fonds Duurzaam Water (GWW-FDW) gelden vanaf 16 oktober 2014 tot en met 31 december 2015 de in de bijlage bij dit besluit opgenomen beleidsregels (Subsidiebeleidskader GWW-FDW, derde call) en geldt een subsidieplafond van € 20 miljoen. 
+Voor subsidieverlening op grond van artikel 4.8 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 in het kader van de derde openstelling van de PPP faciliteit Ghana WASH Window van het Fonds Duurzaam Water (GWW-FDW) gelden vanaf 16 oktober 2014 tot en met 31 december 2015 de in de bijlage bij dit besluit opgenomen beleidsregels (Subsidiebeleidskader GWW-FDW, derde call) en geldt een subsidieplafond van € 29.600.000. 
 
 ### Artikel  2  
 

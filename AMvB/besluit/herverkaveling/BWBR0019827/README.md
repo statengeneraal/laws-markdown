@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit van 17 november 2005, nr. TRCJZ/2005/3429, Directie Juridische Zaken;
 
-Gelet op [artikel 74 van de Reconstructiewet concentratiegebieden](../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md);
+Gelet op artikel 74 van de Reconstructiewet concentratiegebieden;
 
 De Raad van State gehoord (advies van 9 februari 2006, no. W11.05.0527/V);
 
@@ -22,23 +22,23 @@ In dit besluit wordt verstaan onder:
 
 | --- | --- | --- |
 |:---|:---|:---|
-| a.  | wet:  | [Wet inrichting landelijk gebied](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md);  |
-| b.  | landbouwgrond:  | landbouwgrond als bedoeld in [artikel 1 van de Wet agrarisch grondverkeer](../../../../wet/wet/agrarisch/grondverkeer/BWBR0003386/README.md);  |
-| c.  | bureau beheer landbouwgronden:  | bureau, bedoeld in [artikel 28 van de Wet agrarisch grondverkeer](../../../../wet/wet/agrarisch/grondverkeer/BWBR0003386/README.md);  |
+| a.  | wet:  | Wet inrichting landelijk gebied;  |
+| b.  | landbouwgrond:  | landbouwgrond als bedoeld in artikel 1 van de Wet agrarisch grondverkeer;  |
+| c.  | bureau beheer landbouwgronden:  | bureau, bedoeld in artikel 28 van de Wet agrarisch grondverkeer;  |
 | d.  | huiskavel:  | kavel met een woonhuis;  |
 | e.  | bedrijfskavel:  | kavel met een gebouw of een complex van gebouwen, dienende voor de uitoefening van een landbouwbedrijf;  |
 | f.  | veldkavel:  | kavel, die geen huis- of bedrijfskavel is;  |
-| g.  | gebouw:  | gebouw als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Woningwet](../../../../wet/woningwet/BWBR0005181/README.md);  |
+| g.  | gebouw:  | gebouw als bedoeld in artikel 1, eerste lid, onderdeel c, van de Woningwet;  |
 | h.  | vlakligging:  | mate van egaliteit van het maaiveld;  |
-| i.  | natuurterrein:  | natuurterrein als bedoeld in [artikel 1 van de Wet agrarisch grondverkeer](../../../../wet/wet/agrarisch/grondverkeer/BWBR0003386/README.md);  |
-| j.  | particuliere terreinbeherende natuurbeschermings-organisaties:  | organisaties aangewezen bij koninklijk besluit als bedoeld in [artikel 388 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  |
+| i.  | natuurterrein:  | natuurterrein als bedoeld in artikel 1 van de Wet agrarisch grondverkeer;  |
+| j.  | particuliere terreinbeherende natuurbeschermings-organisaties:  | organisaties aangewezen bij koninklijk besluit als bedoeld in artikel 388 van Boek 7 van het Burgerlijk Wetboek;  |
 | k.  | LAC-signaalwaarde:  | laagste gehalte van een stof in de bodem dat bij overschrijding aanleiding kan geven tot het optreden van nadelige effecten voor de opbrengst en kwaliteit van agrarische producten en de gezondheid van mens en dier;  |
-|l. |inrichtingsplan: |inrichtingsplan als bedoeld in [artikel 17, eerste lid, van de wet](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md); |
-|m. |reconstructie: |voorbereiding, vaststelling en uitvoering van een onderling samenhangend complex van maatregelen en voorzieningen ter verwezenlijk van de doelstellingen van de [Reconstructiewet concentratiegebieden](../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md). |
+|l. |inrichtingsplan: |inrichtingsplan als bedoeld in artikel 17, eerste lid, van de wet; |
+|m. |reconstructie: |voorbereiding, vaststelling en uitvoering van een onderling samenhangend complex van maatregelen en voorzieningen ter verwezenlijk van de doelstellingen van de Reconstructiewet concentratiegebieden. |
 
 ###Artikel 1a 
 
-Dit besluit berust op de [artikelen 63](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md) en [88 van de wet](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md).
+Dit besluit berust op de artikelen 63 en 88 van de wet.
 
 ### Hoofdstuk  2  
 
@@ -50,12 +50,12 @@ Dit besluit berust op de [artikelen 63](../../../../wet/wet/inrichting/landelijk
 
 ### Artikel  2  
 
-1.  Gedeputeerde staten bepalen de agrarische verkeerswaarde van gronden op basis van het prijsniveau van de landbouwgronden die in het blok in het jaar voorafgaand aan de terinzagelegging van het ruilplan, overeenkomstig [artikel 64, eerste lid, van de wet](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md), zijn verkocht.   
+1.  Gedeputeerde staten bepalen de agrarische verkeerswaarde van gronden op basis van het prijsniveau van de landbouwgronden die in het blok in het jaar voorafgaand aan de terinzagelegging van het ruilplan, overeenkomstig artikel 64, eerste lid, van de wet, zijn verkocht.   
 2.  In afwijking van het eerste lid bepalen gedeputeerde staten de agrarische verkeerswaarde van gronden op basis van de prijs waarvoor vergelijkbare gronden buiten het desbetreffende blok zijn verkocht in het jaar, bedoeld in het eerste lid, indien in dat jaar geen of onvoldoende verkopen van landbouwgronden in het desbetreffende blok hebben plaatsgevonden.  
 
 ### Artikel  3  
 
-Gedeputeerde staten stellen in verband met de toepassing van [artikel 58, tweede lid, van de wet](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md) vast tot welke grootte van de inbreng een eigenaar in plaats van toedeling van grond een algehele vergoeding in geld ontvangt. 
+Gedeputeerde staten stellen in verband met de toepassing van artikel 58, tweede lid, van de wet vast tot welke grootte van de inbreng een eigenaar in plaats van toedeling van grond een algehele vergoeding in geld ontvangt. 
 
 ### Artikel  4  
 
@@ -89,7 +89,7 @@ De grens van een perceel waarop zich een gebouw bevindt, kan bij toewijzing van 
 
 ### Artikel  7  
 
-Gronden die ingevolge een vastgesteld bestemmingsplan, een ontwerpbestemmingsplan of een vastgesteld inrichtingsplan een bestemming hebben of krijgen die overeenkomt met de functie van landbouw, natuur, bos of landschap zijn uitruilbaar, voor zover [artikel 23 van de wet](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md) niet anders bepaalt. 
+Gronden die ingevolge een vastgesteld bestemmingsplan, een ontwerpbestemmingsplan of een vastgesteld inrichtingsplan een bestemming hebben of krijgen die overeenkomt met de functie van landbouw, natuur, bos of landschap zijn uitruilbaar, voor zover artikel 23 van de wet niet anders bepaalt. 
 
 ### Artikel  8  
 
@@ -111,11 +111,11 @@ c. een lijnvormig landschapselement bestaande uit een houtopstand met een gemidd
 
 ### Artikel  9  
 
-Een openbare weg als bedoeld in [artikel 4 van de Wegenwet](../../../../wet/wegenwet/BWBR0001948/README.md) alsmede een weg die anderszins een openbaar karakter heeft is in zijn geheel uitruilbaar tegen een nihil inbreng.
+Een openbare weg als bedoeld in artikel 4 van de Wegenwet alsmede een weg die anderszins een openbaar karakter heeft is in zijn geheel uitruilbaar tegen een nihil inbreng.
 
 ### Artikel  10  
 
-Gronden waarop zich een openbare weg als bedoeld in [artikel 4 van de Wegenwet](../../../../wet/wegenwet/BWBR0001948/README.md) bevindt, die op grond van het inrichtingsplan het openbare karakter verliest, zijn uitruilbaar. 
+Gronden waarop zich een openbare weg als bedoeld in artikel 4 van de Wegenwet bevindt, die op grond van het inrichtingsplan het openbare karakter verliest, zijn uitruilbaar. 
 
 ### Artikel  11  
 
@@ -123,7 +123,7 @@ Wanneer de openbare functie van een waterloop volgens het inrichtingsplan verval
 
 ### Artikel  12  
 
-1.  Gronden die zijn gelegen in een gebied waar krachtens [artikel 2 van de Kaderwet LNV-subsidies](../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md) dan wel krachtens een provinciale verordening subsidie kan worden verstrekt voor natuurbeheer of agrarisch natuurbeheer, zijn uitruilbaar.   
+1.  Gronden die zijn gelegen in een gebied waar krachtens artikel 2 van de Kaderwet LNV-subsidies dan wel krachtens een provinciale verordening subsidie kan worden verstrekt voor natuurbeheer of agrarisch natuurbeheer, zijn uitruilbaar.   
 2.  Indien geen subsidie als bedoeld in het eerste lid is verstrekt, worden de desbetreffende gronden geruild met inachtneming van de volgende rangorde: 
 
 a. ruil met landbouwgronden die door bureau beheer landbouwgronden zijn verworven ten behoeve van de veiligstelling, aanleg of ontwikkeling van bos of natuurterreinen of waarvoor een eigenaar of pachter bereid is om een aanvraag in te dienen voor subsidie als bedoeld in het eerste lid;  
@@ -136,17 +136,17 @@ a. ruil met landbouwgronden, die door bureau beheer landbouwgronden zijn verworv
 b. ruil met landbouwgronden, die door particuliere terreinbeherende natuurbeschermingsorganisaties zijn verworven ten behoeve van de veiligstelling, aanleg of ontwikkeling van bos of natuurterreinen;  
 
 c. ruil met landbouwgronden waarvoor aan een eigenaar of pachter subsidie als bedoeld in het eerste lid is verstrekt.     
-4.  In afwijking van het derde lid worden de desbetreffende gronden, ingeval daarvoor door een eigenaar een overeenkomst tot ontwikkeling of instandhouding van bos of natuur is aangegaan met een verplichting als bedoeld in [artikel 252 van boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) ten behoeve van de Staat der Nederlanden of bureau beheer landbouwgronden, geruild met gronden ten aanzien waarvan eveneens een dergelijke overeenkomst is afgesloten of met gronden die in eigendom zijn van de Staat der Nederlanden, bureau beheer landbouwgronden of particuliere terreinbeherende natuurbeschermingsorganisaties.  
+4.  In afwijking van het derde lid worden de desbetreffende gronden, ingeval daarvoor door een eigenaar een overeenkomst tot ontwikkeling of instandhouding van bos of natuur is aangegaan met een verplichting als bedoeld in artikel 252 van boek 6 van het Burgerlijk Wetboek ten behoeve van de Staat der Nederlanden of bureau beheer landbouwgronden, geruild met gronden ten aanzien waarvan eveneens een dergelijke overeenkomst is afgesloten of met gronden die in eigendom zijn van de Staat der Nederlanden, bureau beheer landbouwgronden of particuliere terreinbeherende natuurbeschermingsorganisaties.  
 
 ### Artikel  13  
 
-1.  Gronden die deel uitmaken van een onderzoeksgeval als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) zijn niet uitruilbaar.   
-2.  Gronden die deel uitmaken van een geval van verontreiniging als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) zijn niet uitruilbaar, indien de LAC-signaalwaarden worden overschreden.   
-3.  Gronden die deel uitmaken van een geval van ernstige verontreiniging als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) zijn niet uitruilbaar, tenzij het bevoegd gezag op grond van de [Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) heeft vastgesteld dat 
+1.  Gronden die deel uitmaken van een onderzoeksgeval als bedoeld in artikel 1 van de Wet bodembescherming zijn niet uitruilbaar.   
+2.  Gronden die deel uitmaken van een geval van verontreiniging als bedoeld in artikel 1 van de Wet bodembescherming zijn niet uitruilbaar, indien de LAC-signaalwaarden worden overschreden.   
+3.  Gronden die deel uitmaken van een geval van ernstige verontreiniging als bedoeld in artikel 1 van de Wet bodembescherming zijn niet uitruilbaar, tenzij het bevoegd gezag op grond van de Wet bodembescherming heeft vastgesteld dat 
 
-a. het geval van ernstige verontreiniging op grond van [artikel 38, eerste lid, van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) voldoende is gesaneerd en geen LAC-signaalwaarden worden overschreden; of  
+a. het geval van ernstige verontreiniging op grond van artikel 38, eerste lid, van de Wet bodembescherming voldoende is gesaneerd en geen LAC-signaalwaarden worden overschreden; of  
 
-b. er met betrekking tot het geval van ernstige verontreiniging op grond van [artikel 38, derde lid, van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) voldoende maatregelen zijn genomen en geen LAC-signaalwaarden worden overschreden.    
+b. er met betrekking tot het geval van ernstige verontreiniging op grond van artikel 38, derde lid, van de Wet bodembescherming voldoende maatregelen zijn genomen en geen LAC-signaalwaarden worden overschreden.    
 
 ### Artikel  14  
 
@@ -164,7 +164,7 @@ e. gronden waarop zich sport- of recreatieterreinen bevinden;
 
 f. gronden waarop zich spoorwegen bevinden;  
 
-g. gronden met een houtopstand die groter is dan 10 are of gronden waarop een houtopstand die groter is dan 10 are heeft gestaan en waarvoor een herbeplantingsplicht als bedoeld in [artikel 3, eerste lid, van de Boswet](../../../../wet/boswet/BWBR0002357/README.md) geldt, of  
+g. gronden met een houtopstand die groter is dan 10 are of gronden waarop een houtopstand die groter is dan 10 are heeft gestaan en waarvoor een herbeplantingsplicht als bedoeld in artikel 3, eerste lid, van de Boswet geldt, of  
 
 h. boomgaarden en andere gronden met meerjarige gewassen.   
 
@@ -195,7 +195,7 @@ De grens van een huis- of bedrijfskavel kan bij toedeling slechts na overeenstem
 
 ### Artikel  18  
 
-Gedeputeerde staten vermelden in het plan van toedeling met welk percentage op grond van [artikel 56, eerste lid, van de wet](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md) de totale oppervlakte van alle in het blok opgenomen gronden is verminderd. 
+Gedeputeerde staten vermelden in het plan van toedeling met welk percentage op grond van artikel 56, eerste lid, van de wet de totale oppervlakte van alle in het blok opgenomen gronden is verminderd. 
 
 ### Artikel  19  
 
@@ -203,7 +203,7 @@ Indien een eigenaar met betrekking tot een onroerende zaak een recht krijgt toeg
 
 ### Artikel  20  
 
-1.  Gedeputeerde staten handhaven in het plan van toedeling zakelijke rechten als bedoeld in [artikel 150, eerste lid, van de Overgangswet nieuw Burgerlijk Wetboek](../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) indien het belang van de landinrichting of de reconstructie zich daar niet tegen verzet.   
+1.  Gedeputeerde staten handhaven in het plan van toedeling zakelijke rechten als bedoeld in artikel 150, eerste lid, van de Overgangswet nieuw Burgerlijk Wetboek indien het belang van de landinrichting of de reconstructie zich daar niet tegen verzet.   
 2.  Gedeputeerde staten handhaven of vestigen in het plan van toedeling erfdienstbaarheden indien niet door herverkaveling of uitvoering van inrichtingswerken aan de behoefte waarin deze rechten voorzien kan worden tegemoet gekomen.  
 
 ### Paragraaf  5  
@@ -232,7 +232,7 @@ De lijst der geldelijke regelingen vermeldt alle aan de betrokken eigenaren toe 
 
 ### Artikel  25  
 
-1.  De toestand van de grond en de overige onroerende zaken wordt bij de schatting, bedoeld in [artikel 68 van de wet](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md), vastgelegd aan de hand van een of meer objectieve factoren en een of meer subjectieve factoren.   
+1.  De toestand van de grond en de overige onroerende zaken wordt bij de schatting, bedoeld in artikel 68 van de wet, vastgelegd aan de hand van een of meer objectieve factoren en een of meer subjectieve factoren.   
 2.  De objectieve factoren, bedoeld in het eerste lid, betreffen: 
 
 a. de ontsluiting van huiskavels, bedrijfskavel of veldkavels en  
@@ -259,31 +259,31 @@ a. de aanwezigheid van opstallen, opstanden en obstakels, waaronder bunkers, hoo
 
 b. de waarde van gebouwen, werken, beplantingen en houtopstanden;  
 
-c. de algehele vergoeding in geld voor inbreng van gronden ten behoeve van de korting, bedoeld in [artikel 56, eerste lid, onderdeel c of d, van de wet](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md);  
+c. de algehele vergoeding in geld voor inbreng van gronden ten behoeve van de korting, bedoeld in artikel 56, eerste lid, onderdeel c of d, van de wet;  
 
 d. de algehele vergoeding in geld voor de inbreng van kavels met een te kleine oppervlakte;  
 
-e. de afkoop van renten als bedoeld in [artikel 60, eerste lid, van de wet](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md);  
+e. de afkoop van renten als bedoeld in artikel 60, eerste lid, van de wet;  
 
-f. de regeling en de opheffing van beperkte rechten, huren en lasten als bedoeld in [artikel 60, eerste lid, van de wet](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md);  
+f. de regeling en de opheffing van beperkte rechten, huren en lasten als bedoeld in artikel 60, eerste lid, van de wet;  
 
-g. de vestiging van beperkte rechten als bedoeld in [artikel 60, tweede lid, van de wet](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md);  
+g. de vestiging van beperkte rechten als bedoeld in artikel 60, tweede lid, van de wet;  
 
 h. andere dan agrarische waarden;  
 
-i. het verhaal van kosten in verband met een geval van verontreiniging als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md), en  
+i. het verhaal van kosten in verband met een geval van verontreiniging als bedoeld in artikel 1 van de Wet bodembescherming, en  
 
 j. schadevergoeding wanneer bij de uitvoering van werken geen gronden ter vervanging in tijdelijk gebruik gegeven kunnen worden.    
 
 ### Artikel  27  
 
-1.  Bij de verrekenposten, die betrekking hebben op een ingeschreven recht alsmede de waardering van de objectieve en subjectieve factoren, wordt uitgegaan van de situatie op het in het [artikel 65, tweede lid, van de wet](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md) laatstbedoelde tijdstip.   
+1.  Bij de verrekenposten, die betrekking hebben op een ingeschreven recht alsmede de waardering van de objectieve en subjectieve factoren, wordt uitgegaan van de situatie op het in het artikel 65, tweede lid, van de wet laatstbedoelde tijdstip.   
 2.  Bij de waardering van verrekenposten, die verband houden met de cultuurtoestand van de grond, wordt uitgegaan van de situatie op het tijdstip van de kavelovergang.   
-3.  Bij de waardering van de overige verrekenposten wordt, voor zover de hoogte van de verrekenpost niet is overeengekomen, uitgegaan van de situatie bij de terinzagelegging van het ontwerpruilplan, bedoeld in [artikel 64, derde lid, van de wet](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md).  
+3.  Bij de waardering van de overige verrekenposten wordt, voor zover de hoogte van de verrekenpost niet is overeengekomen, uitgegaan van de situatie bij de terinzagelegging van het ontwerpruilplan, bedoeld in artikel 64, derde lid, van de wet.  
 
 ### Artikel  28  
 
-Gedeputeerde staten waarderen de objectieve en subjectieve factoren teneinde de bijdrage van een eigenaar in de kosten, bedoeld in [artikel 90, derde lid, van de wet](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md) te berekenen. 
+Gedeputeerde staten waarderen de objectieve en subjectieve factoren teneinde de bijdrage van een eigenaar in de kosten, bedoeld in artikel 90, derde lid, van de wet te berekenen. 
 
 ### Artikel  29  
 
@@ -308,7 +308,7 @@ b. het totaal van de geldbedragen, die aan de desbetreffende eigenaar worden toe
 
 ### Artikel  31a  
 
-Een overeenkomst als bedoeld in [artikel 85, eerste lid, van de wet](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md) heeft geen betrekking op: 
+Een overeenkomst als bedoeld in artikel 85, eerste lid, van de wet heeft geen betrekking op: 
 
 a. kavels die deel uitmaken van de bebouwde kom;  
 
@@ -316,7 +316,7 @@ b. kavels die deel uitmaken van een ruimtelijk aaneengesloten of functioneel ver
 
 1°. in gebruik is voor woningbouw, daaronder begrepen recreatiewoningen, of de huisvesting van bedrijven met een niet-agrarische bestemming;  
 
-2°. voor een dergelijk gebruik is bestemd ingevolge plannen of besluiten op grond van de [Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md); of  
+2°. voor een dergelijk gebruik is bestemd ingevolge plannen of besluiten op grond van de Wet ruimtelijke ordening; of  
 
 3°. daarvoor zal worden bestemd blijkens bekendgemaakte ontwerpen voor dergelijke plannen of besluiten;    
 

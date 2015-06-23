@@ -165,11 +165,11 @@ Minister van Binnenlandse Zaken en Koninkrijksrelaties,
 J.W.E. Spies    
 
 ###Bijlage I 
-Treedt in werking op een nader te bepalen tijdstip 
+Vervalt per 01-07-2015 
 
 Niet opgenomen.
 
 ###Bijlage II 
-Treedt in werking op een nader te bepalen tijdstip 
+Vervalt per 01-07-2015 
 
 Niet opgenomen.

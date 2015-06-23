@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 30 november 1984, Directoraat-Generaal voor Algemene Beleidsaangelegenheden, Directie Bijzondere Vraagstukken van Arbeidsverhoudingen, nr. BVA/84/4963/M&O;, gedaan mede namens Onze Minister van Justitie;
 
-Gelet op [artikel 31*a*, vijfde lid, van de Wet op de ondernemingsraden](../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md), zoals deze laatstelijk is gewijzigd bij de Wet van 7 december 1983 (*Stb.* 1983, 663);
+Gelet op artikel 31*a*, vijfde lid, van de Wet op de ondernemingsraden, zoals deze laatstelijk is gewijzigd bij de Wet van 7 december 1983 (*Stb.* 1983, 663);
 
 De Raad van State gehoord (advies van 12 februari 1985, No. W12.84.0727/12.5.06);
 
@@ -20,25 +20,25 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:  
 
-a. ondernemer: de ondernemer, bedoeld in de [Wet op de ondernemingsraden](../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) (*Stb.* 1979, 449) die een ondernemingsraad heeft ingesteld, met uitzondering van de coöperatieve vereniging, de onderlinge waarborgmaatschappij, de naamloze vennootschap en de besloten vennootschap met beperkte aansprakelijkheid;  
+a. ondernemer: de ondernemer, bedoeld in de Wet op de ondernemingsraden (*Stb.* 1979, 449) die een ondernemingsraad heeft ingesteld, met uitzondering van de coöperatieve vereniging, de onderlinge waarborgmaatschappij, de naamloze vennootschap en de besloten vennootschap met beperkte aansprakelijkheid;  
 
-b. ondernemingsraad: de door de ondernemer ingestelde ondernemingsraad waarop de bepalingen van de [Wet op de ondernemingsraden](../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) van toepassing zijn;  
+b. ondernemingsraad: de door de ondernemer ingestelde ondernemingsraad waarop de bepalingen van de Wet op de ondernemingsraden van toepassing zijn;  
 
 c. jaarstukken: de balans en de staat van baten en lasten, beide met toelichting.   
 
 ### Artikel  2  
 
-De ondernemer die een natuurlijk persoon is, verstrekt jaarlijks binnen zes maanden na afloop van het boekjaar ter bespreking aan de ondernemingsraad jaarstukken betreffende de werkzaamheden die hij verricht door middel van de onderneming waarvoor de ondernemingsraad is ingesteld. De ondernemer verstrekt daarbij tevens de gegevens en mededelingen als bedoeld in de [artikelen 31*a* ](../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md), eerste, zesde en zevende lid, en [31*b* van de Wet op de ondernemingsraden](../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md). 
+De ondernemer die een natuurlijk persoon is, verstrekt jaarlijks binnen zes maanden na afloop van het boekjaar ter bespreking aan de ondernemingsraad jaarstukken betreffende de werkzaamheden die hij verricht door middel van de onderneming waarvoor de ondernemingsraad is ingesteld. De ondernemer verstrekt daarbij tevens de gegevens en mededelingen als bedoeld in de artikelen 31*a* , eerste, zesde en zevende lid, en 31*b* van de Wet op de ondernemingsraden. 
 
 ### Artikel  3  
 
 1.  De ondernemer die een rechtspersoon is, verstrekt jaarlijks binnen zes maanden na afloop van het boekjaar ter bespreking aan de ondernemingsraad jaarstukken betreffende die rechtspersoon.   
 2.   Is de ondernemer een kerkgenootschap of een zelfstandig onderdeel daarvan, of een ander genootschap op geestelijke grondslag, dan kan hij in plaats van jaarstukken betreffende die rechtspersoon, ter bespreking aan de ondernemingsraad jaarstukken verstrekken betreffende de werkzaamheden die hij verricht door middel van de onderneming waarvoor de ondernemingsraad is ingesteld.   
-3.   De ondernemer verstrekt daarbij tevens de gegevens en mededelingen als bedoeld in de [artikelen 31*a* ](../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md), eerste, zesde en zevende lid, en [31*b* van de Wet op de ondernemingsraden](../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md).  
+3.   De ondernemer verstrekt daarbij tevens de gegevens en mededelingen als bedoeld in de artikelen 31*a* , eerste, zesde en zevende lid, en 31*b* van de Wet op de ondernemingsraden.  
 
 ### Artikel  4  
 
-1.  Indien twee of meer personen te zamen werkzaamheden verrichten in de vorm van een maatschap of een niet rechtspersoonlijkheid bezittende vennootschap, draagt ieder van hen zorg dat jaarlijks binnen zes maanden na afloop van het boekjaar ter bespreking aan de ondernemingsraad jaarstukken worden verstrekt betreffende die maatschap of vennootschap. Daarbij worden tevens de gegevens en mededelingen als bedoeld in de [artikelen 31*a* ](../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md), eerste, zesde en zevende lid, en [31*b* van de Wet op de ondernemingsraden](../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md), verstrekt.   
+1.  Indien twee of meer personen te zamen werkzaamheden verrichten in de vorm van een maatschap of een niet rechtspersoonlijkheid bezittende vennootschap, draagt ieder van hen zorg dat jaarlijks binnen zes maanden na afloop van het boekjaar ter bespreking aan de ondernemingsraad jaarstukken worden verstrekt betreffende die maatschap of vennootschap. Daarbij worden tevens de gegevens en mededelingen als bedoeld in de artikelen 31*a* , eerste, zesde en zevende lid, en 31*b* van de Wet op de ondernemingsraden, verstrekt.   
 2.   Indien de maatschap of de niet rechtspersoonlijkheid bezittende vennootschap een bestuur heeft, dan rusten de in dit besluit vermelde verplichtingen op het bestuur.  
 
 ### Artikel  5  
@@ -54,7 +54,7 @@ Indien de jaarstukken zijn onderzocht door een accountant, die daaromtrent een v
 
 ### Artikel  7  
 
-Indien de ondernemer deel uitmaakt van in een groep verbonden ondernemers, verstrekt hij ter bespreking aan de ondernemingsraad tevens schriftelijke gegevens waaruit de ondernemingsraad zich een verantwoord oordeel kan vormen omtrent het gemeenschappelijk vermogen en het gezamenlijke resultaat van de ondernemingen van die groep ondernemers. Indien deze gegevens zijn opgenomen in een groepsjaarrekening als bedoeld in [artikel 379, zesde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), dan verstrekt de ondernemer deze groepsjaarrekening met het groepsjaarverslag en de daarbij te voegen overige gegevens, bedoeld in [artikel 392 van dat boek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), ter bespreking aan de ondernemingsraad. 
+Indien de ondernemer deel uitmaakt van in een groep verbonden ondernemers, verstrekt hij ter bespreking aan de ondernemingsraad tevens schriftelijke gegevens waaruit de ondernemingsraad zich een verantwoord oordeel kan vormen omtrent het gemeenschappelijk vermogen en het gezamenlijke resultaat van de ondernemingen van die groep ondernemers. Indien deze gegevens zijn opgenomen in een groepsjaarrekening als bedoeld in artikel 379, zesde lid, van Boek 2 van het Burgerlijk Wetboek, dan verstrekt de ondernemer deze groepsjaarrekening met het groepsjaarverslag en de daarbij te voegen overige gegevens, bedoeld in artikel 392 van dat boek, ter bespreking aan de ondernemingsraad. 
 
 ### Artikel  8  
 
@@ -146,9 +146,9 @@ c. de afschrijvingen en waardeveranderingen ten laste van de immateriële, mater
 
 ### Artikel  13  
 
-1.  De ondernemer die een krachtens [artikel 5 van de Wet toelating zorginstellingen](../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) als ziekenhuis toegelaten instelling beheert en die krachtens [artikel 15 van die wet](../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) een balans en een resultatenrekening heeft vastgesteld, verstrekt deze stukken ter bespreking aan de ondernemingsraad in plaats van jaarstukken die zijn ingericht volgens de voorschriften van de hoofdstukken 2 en 3.   
-2.   De ondernemer die een toegelaten instelling is als bedoeld in [artikel 59, eerste lid, van de Woningwet](../../../../../../../../../wet/woningwet/BWBR0005181/README.md), en op grond van het Besluit toegelaten instellingen volkshuisvesting een beredeneerd verslag van de werkzaamheden en een jaarrekening heeft vastgesteld, verstrekt deze stukken ter bespreking aan de ondernemingsraad in plaats van jaarstukken die zijn ingericht volgens de voorschriften van de hoofdstukken 2 en 3.   
-3.   De ondernemer die het kredietbedrijf uitoefent en op grond van [artikel 3:71 van de Wet op het financieel toezicht](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) een jaarrekening heeft vastgesteld, verstrekt deze jaarrekening ter bespreking aan de ondernemingsraad in plaats van jaarstukken die zijn ingericht volgens de voorschriften van de hoofdstukken 2 en 3. Indien de ondernemer zijn bedrijf ook buiten Nederland uitoefent, verstrekt hij tevens schriftelijke gegevens waaruit de ondernemingsraad zich een verantwoord oordeel kan vormen omtrent het vermogen en het resultaat van het gehele bedrijf van de ondernemer.   
+1.  De ondernemer die een krachtens artikel 5 van de Wet toelating zorginstellingen als ziekenhuis toegelaten instelling beheert en die krachtens artikel 15 van die wet een balans en een resultatenrekening heeft vastgesteld, verstrekt deze stukken ter bespreking aan de ondernemingsraad in plaats van jaarstukken die zijn ingericht volgens de voorschriften van de hoofdstukken 2 en 3.   
+2.   De ondernemer die een toegelaten instelling is als bedoeld in artikel 59, eerste lid, van de Woningwet, en op grond van het Besluit toegelaten instellingen volkshuisvesting een beredeneerd verslag van de werkzaamheden en een jaarrekening heeft vastgesteld, verstrekt deze stukken ter bespreking aan de ondernemingsraad in plaats van jaarstukken die zijn ingericht volgens de voorschriften van de hoofdstukken 2 en 3.   
+3.   De ondernemer die het kredietbedrijf uitoefent en op grond van artikel 3:71 van de Wet op het financieel toezicht een jaarrekening heeft vastgesteld, verstrekt deze jaarrekening ter bespreking aan de ondernemingsraad in plaats van jaarstukken die zijn ingericht volgens de voorschriften van de hoofdstukken 2 en 3. Indien de ondernemer zijn bedrijf ook buiten Nederland uitoefent, verstrekt hij tevens schriftelijke gegevens waaruit de ondernemingsraad zich een verantwoord oordeel kan vormen omtrent het vermogen en het resultaat van het gehele bedrijf van de ondernemer.   
 4.   De ondernemer die het levens- of schadeverzekeringsbedrijf uitoefent en krachtens wettelijke verplichting een verslag heeft opgemaakt, verstrekt dit verslag ter bespreking aan de ondernemingsraad in plaats van jaarstukken die zijn ingericht volgens de voorschriften van de hoofdstukken 2 en 3. Indien de ondernemer zijn bedrijf ook buiten Nederland uitoefent, verstrekt hij tevens schriftelijke gegevens waaruit de ondernemingsraad zich een verantwoord oordeel kan vormen omtrent het vermogen en het resultaat van het gehele bedrijf van de ondernemer.  
 
 ### Hoofdstuk  5  

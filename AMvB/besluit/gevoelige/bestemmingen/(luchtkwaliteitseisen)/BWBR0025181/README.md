@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 14 juli 2008, BJZ2008069974, Directie Bestuurlijke en Juridische Zaken, Afdeling Wetgeving;
 
-Gelet op [artikel 5.16a, eerste en tweede lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op artikel 5.16a, eerste en tweede lid, van de Wet milieubeheer;
 
 De Raad van State gehoord (advies van 14 augustus 2008, No. W08.08.0289/IV);
 
@@ -20,15 +20,15 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-*gebouw:* gebouw als bedoeld in [artikel 1, eerste lid, onder c, van de Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md), met inbegrip van de daarbij behorende terreinen;  
+*gebouw:* gebouw als bedoeld in artikel 1, eerste lid, onder c, van de Woningwet, met inbegrip van de daarbij behorende terreinen;  
 
-*provinciale weg:* autoweg als bedoeld in [artikel 1 van het Reglement verkeersregels en verkeerstekens 1990](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) of andere voor motorvoertuigen bestemde weg, voorzover in beheer bij een provincie;  
+*provinciale weg:* autoweg als bedoeld in artikel 1 van het Reglement verkeersregels en verkeerstekens 1990 of andere voor motorvoertuigen bestemde weg, voorzover in beheer bij een provincie;  
 
-*rijksweg:* autoweg of autosnelweg als bedoeld in [artikel 1 van het Reglement verkeersregels en verkeerstekens 1990](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), voor zover in beheer bij het Rijk;  
+*rijksweg:* autoweg of autosnelweg als bedoeld in artikel 1 van het Reglement verkeersregels en verkeerstekens 1990, voor zover in beheer bij het Rijk;  
 
-*uitoefening van een bevoegdheid of toepassing van een wettelijk voorschrift:* uitoefening van een bevoegdheid of toepassing van een wettelijk voorschrift als bedoeld in [artikel 5.16, eerste lid, van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+*uitoefening van een bevoegdheid of toepassing van een wettelijk voorschrift:* uitoefening van een bevoegdheid of toepassing van een wettelijk voorschrift als bedoeld in artikel 5.16, eerste lid, van de wet;  
 
-*wet:* [Wet milieubeheer.](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md)   
+*wet:* Wet milieubeheer.   
 
 ### §  2  
 
@@ -40,8 +40,8 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 a. minder dan 300 meter vanaf de rand van een rijksweg, of  
 
-b. minder dan 50 meter vanaf de rand van een provinciale weg,   en op die locatie sprake is van een overschrijding of dreigende overschrijding op of na het daarbij behorende tijdstip van een in [voorschrift 2.1 of 4.1 van bijlage 2 van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) opgenomen grenswaarde, vindt die uitoefening of toepassing op een zodanige wijze plaats dat deze niet leidt tot een toename van het aantal ter plaatse verblijvende personen.   
-2.  Bij de uitvoering van dit besluit blijven op de [voorschriften 2.1a en 4.2 van bijlage 2 van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) berustende bepalingen buiten toepassing.  
+b. minder dan 50 meter vanaf de rand van een provinciale weg,   en op die locatie sprake is van een overschrijding of dreigende overschrijding op of na het daarbij behorende tijdstip van een in voorschrift 2.1 of 4.1 van bijlage 2 van de wet opgenomen grenswaarde, vindt die uitoefening of toepassing op een zodanige wijze plaats dat deze niet leidt tot een toename van het aantal ter plaatse verblijvende personen.   
+2.  Bij de uitvoering van dit besluit blijven op de voorschriften 2.1a en 4.2 van bijlage 2 van de wet berustende bepalingen buiten toepassing.  
 
 ### Artikel  3  
 
@@ -67,7 +67,7 @@ Bij ministeriële regeling kunnen, indien dat in het bijzonder noodzakelijk is v
 
 ### Artikel  5  
 
-Dit besluit is niet van toepassing op een besluit dat met toepassing van [artikel 5.16 van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is genomen vóór de inwerkingtreding van dit besluit, noch op de ter uitvoering daarvan strekkende besluiten, overige rechtshandelingen en feitelijke handelingen. 
+Dit besluit is niet van toepassing op een besluit dat met toepassing van artikel 5.16 van de wet is genomen vóór de inwerkingtreding van dit besluit, noch op de ter uitvoering daarvan strekkende besluiten, overige rechtshandelingen en feitelijke handelingen. 
 
 ### Artikel  6  
 

@@ -20,7 +20,7 @@ For the purposes of this Agreement
 
 (d) “semi-trailer” means any trailer designed to be coupled to a motor vehicle in such a way that part of it rests on the motor vehicle and that a substantial part of its weight and of the weight of its load is borne by the motor vehicle;  
 
-(e) “combination of vehicles” means coupled vehicles which travel road as a unit;  
+(e) “combination of vehicles” means coupled vehicles which travel on the road as a unit;  
 
 (f) ‘Permissible maximum mass’ means the maximum mass of the laden vehicle declared permissible by the competent authority of the State in which the vehicle is registered;  
 
@@ -34,7 +34,7 @@ For the purposes of this Agreement
 
 (k) “crew member” means the driver or either of the following, whether wage-earning or not 
 
-(i) driver's mate, i.e. any person accompanying the driver in order to assist him in certain manoeuvres and habitually taking an effective part in the transport operations, though not a driver in the sense of paragraph (*j*) of this article;  
+(i) a driver's mate, i.e. any person accompanying the driver in order to assist him in certain manoeuvres and habitually taking an effective part in the transport operations, though not a driver in the sense of paragraph (*j*) of this article;  
 
 (ii) a conductor, i.e. any person who accompanies the driver of a vehicle engaged in the carriage of passengers and is responsible in particular for the issue or checking of tickets or other documents entitling passengers to travel on the vehicle;    
 
@@ -178,9 +178,9 @@ b) By way of derogation from paragraph 6 (a), a driver engaged in a single servi
 
 (ii) the driver takes after the use of the derogation: 
 
-a. either two regular weekly rest periods,  
+a. either two regular weekly rest periods, or  
 
-b. or one regular weekly rest period and one reduced weekly rest period of at least 24 hours. However, the reduction shall be compensated by an equivalent period of rest taken *en bloc* before the end of the third week following the end of the derogation period,   and  
+b. one regular weekly rest period and one reduced weekly rest period of at least 24 hours. However, the reduction shall be compensated by an equivalent period of rest taken *en bloc* before the end of the third week following the end of the derogation period,   and  
 
 (iii) four years after the country of registration has implemented the digital tachograph, the vehicle is equipped with recording equipment in accordance with the requirements of Appendix 1B of the Annex, and  
 
@@ -1262,6 +1262,9 @@ When signing the European Agreement concerning the Work of Crews of Vehicles eng
 The provisions of article 4, paragraph 1, shall not be construed as rendering applicable, outside the State in which the vehicle performing the transport operation is registered, any prohibition of traffic on certain days or at certain hours which may apply in that State to certain categories of vehicles. The provisions of article 4, paragraph 2, shall not be construed as preventing a Contracting Party from enforcing in its territory the provisions of its domestic laws and regulations which prohibit certain categories of vehicle traffic on certain days or at certain hours. Every Contracting Party which, being a Party to a special agreement as referred to in article 4, paragraph 2, of this Agreement, authorizes international transport operations beginning and ending in the territories of the Parties to the said special agreement by vehicles registered in the territory of a State which, being a Contracting Party to this Agreement, is not a Party to the said special agreement may make it a condition for the conclusion of bilateral or multilateral agreements authorizing such transport operations that the crews performing those operations shall, in the territories of States Parties to the said special agreement, comply with the provisions of the said special agreement.
 ###*ad article 12 of the Agreement*
 
+The undersigned undertake to discuss after the Agreement has entered into force the insertion therein, by means of an amendment, of a clause providing for the use of a control device of approved type which when placed on the vehicle would so far as possible replace the individual control book.
+###*ad article 14 of the Agreement*
+
 The Contracting Parties recognize that it would be desirable for: 
 
 - each Contracting Party to adopt the measures necessary to enable it to institute proceedings on account of breaches of the provisions of the Agreement not only if the breaches are committed in its territory, but also if they are committed in the territory of another State during an international road transport operation performed by a vehicle which the Contracting Party has registered;  
@@ -1269,7 +1272,7 @@ The Contracting Parties recognize that it would be desirable for:
 - them to afford one another assistance for the purpose of imposing penalties for breaches committed.  
 ###*ad annex to the Agreement*
 
-Notwithstanding paragraph 4 of the general provisions of the annex to this Agreement, Switzerland may dispense with the requirement that employers must sign the weekly reports in the individual control book.IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed this Protocol. DONE at Geneva this first day of July nineteen hundred and seventy, in a single copy, in the English and French languages, the two texts being equally authentic.  
+Notwithstanding paragraph 4 of the general provisions of the annex to this Agreement, Switzerland may dispense with the requirement that employers must sign the weekly reports in the individual control book.IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed this Protocol. DONE at Geneva this first day of July nineteen hundred and seventy, in a single copy, in the English and French languages, the two texts being equally authentic,  
 
 ####Europese Overeenkomst nopens de arbeidsvoorwaarden voor de bemanningen van motorrijtuigen in het internationale vervoer over de weg (AETR)
 
@@ -2495,11 +2498,14 @@ Bij de ondertekening van de Europese Overeenkomst nopens de arbeidsvoorwaarden v
 Het bepaalde in het eerste lid van artikel 4 mag niet zodanig worden uitgelegd dat het buiten de Staat waar het voertuig dat het vervoer verricht is ingeschreven, rijverboden voor bepaalde dagen of uren, die in die Staat voor bepaalde soorten voertuigen van kracht zijn, van toepassing zou verklaren. Het bepaalde in het tweede lid van artikel 4 mag niet zodanig worden uitgelegd als zou dit een Overeenkomstsluitende Partij verhinderen op haar grondgebied de naleving op te leggen van bepalingen van haar nationale wetgeving die op bepaalde dagen of uren het verkeer met bepaalde soorten voertuigen verbieden. Elke Overeenkomstsluitende Partij die, partij zijnde bij een bijzondere overeenkomst als bedoeld in het tweede lid van artikel 4 van deze Overeenkomst, vergunning verleent voor internationaal wegvervoer, dat aanvangt en eindigt op de grondgebieden van de partijen bij bedoelde bijzondere overeenkomst en dat wordt uitgevoerd met voertuigen, ingeschreven in de Staat die, Partij zijnde bij deze Overeenkomst, geen partij is bij bedoelde bijzondere overeenkomst, kan als voorwaarde voor het sluiten van bilaterale of multilaterale overeenkomsten ter goedkeuring van dergelijke vervoeren stellen, dat de bemanningen die deze vervoeren verrichten zich op de grondgebieden van de Staten die partij zijn bij bedoelde bijzondere overeenkomst, zich houden aan de bepalingen van bedoelde bijzondere overeenkomst.
 ###*bij artikel 12 van de Overeenkomst*
 
+De ondergetekenden verbinden zich, wanneer de Overeenkomst in werking zal zijn getreden, besprekingen te wijden aan het opnemen in de Overeenkomst door middel van een wijziging, van een bepaling, die voorziet in het gebruik van een in het voertuig geplaatst controleapparaat van een goedgekeurd type dat, voor zover mogelijk, het persoonlijke controleboekje zal vervangen.
+###*bij artikel 14 van de Overeenkomst*
+
 De Overeenkomstsluitende Partijen erkennen, dat het gewenst is: 
 
 - dat elke Overeenkomstsluitende Partij de noodzakelijke maatregelen neemt ten einde in staat te zijn overtredingen van de bepalingen van de Overeenkomst niet alleen te vervolgen wanneer deze zijn begaan op haar grondgebied, maar ook wanneer zij zijn begaan op het grondgebied van een andere Staat gedurende het uitvoeren van internationaal wegvervoer, verricht met een voertuig dat door de Overeenkomstsluitende Partij is ingeschreven;  
 
 - dat zij elkaar wederzijds bijstand zullen verlenen ten einde begane overtredingen te bestraffen.  
-###*bij de Bijlage van de Overeenkomst*
+###*bij artikel Bijlage van de Overeenkomst*
 
 In afwijking van het bepaalde in paragraaf 4 van de algemene bepalingen van de Bijlage bij deze Overeenkomst, zal Zwitserland kunnen afzien van de eis dat de bemanningsleden de weekstaten van het individuele controleboekje moeten ondertekenen.TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Protocol hebben ondertekend. GEDAAN te Genève, de eerste juli negentienhonderd zeventig, in een enkel exemplaar, in de Engelse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.

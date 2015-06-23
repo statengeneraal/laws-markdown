@@ -27,7 +27,7 @@ e.  *wijzigingsformulier:* een door het UWV aan de werknemer ter beschikking ges
 
 f.  * inkomstenformulier:* een door het UWV aan de werknemer periodiek ter beschikking gesteld formulier, waarop deze de voor de beoordeling van het recht op uitkering noodzakelijke gegevens vermeldt. Dit formulier kan ook worden verstrekt onder de benaming werkbriefje;  
 
-g.  *DigiD:* de voorziening bedoeld in artikel 1, onder c, van het Tijdelijk besluit nummergebruik overheidstoegangsvoorziening.  
+g.  *DigiD:* de voorziening bedoeld in artikel 1, onder b, van het Tijdelijk besluit nummergebruik overheidstoegangsvoorziening.  
 
 ### §  2  
 
@@ -35,25 +35,25 @@ g.  *DigiD:* de voorziening bedoeld in artikel 1, onder c, van het Tijdelijk bes
 
 ### Artikel  2  
 
-####Aangifte van werkloosheid en aanvraag van werkloosheidsuitkering
+####Aanvraag werkloosheidsuitkering
 
-1. De werknemer doet aangifte van zijn werkloosheid en dient de aanvraag in op een daarvoor door het UWV beschikbaar gesteld formulier. De werknemer vult dit formulier volledig in. Tenzij de werknemer de aangifte en aanvraag via DigiD doet, ondertekent hij deze.
-2. De werknemer legt desgevraagd aan het UWV een verklaring over, waarin hij voor zover hij dat kan beoordelen de juistheid bevestigt van de bij de aanvraag geleverde gegevens, die afkomstig zijn van de werkgever of de werkgevers, bij wie hij voorafgaand aan het intreden van zijn werkloosheid werkzaam was.
+1. De werknemer dient binnen één week na het intreden van de werkloosheid bij het UWV een aanvraag voor een uitkering in op de wijze zoals beschreven in de Beleidsregel elektronische communicatie UWV en de daarbij behorende bijlage.
+2. De aanvraag wordt door de werknemer ondertekend. Indien de aanvraag elektronisch wordt ingediend, vindt ondertekening plaats via DigiD.
 
 ### Artikel  3  
 
 ####Gegevensverstrekking werknemer
 
-1. De werknemer doet op het wijzigingsformulier onverwijld en uit eigen beweging opgave van de feiten en omstandigheden, waarvan het hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op de uitkering.
-2. Indien het UWV daarom verzoekt, vult de werknemer een inkomstenformulier in. De werknemer stuurt dit inkomstenformulier aan het UWV binnen een door het UWV aangegeven redelijke termijn.
-3. Gedurende de periode, waarover de werknemer deze inkomstenformulieren invult, is hij ontheven van de verplichting bedoeld in het eerste lid, voor zover deze verplichting ziet op de gegevens die op het inkomstenformulier uitgevraagd worden.
-4. Ingevulde wijzigingsformulieren en inkomstenformulieren worden door de werknemer ondertekend, tenzij de werknemer deze verstuurt via DigiD.
+1. De werknemer geeft onverwijld en uit eigen beweging aan het UWV alle feiten en omstandigheden door, waarvan het hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op de uitkering. De werknemer gebruikt hiervoor het door het UWV beschikbaar gestelde wijzigingsformulier en stuurt dit formulier aan het UWV op de wijze zoals beschreven in de Beleidsregel elektronische communicatie UWV en de daarbij behorende bijlage.
+2. Indien het UWV daarom verzoekt vult de werknemer een inkomstenformulier in. De werknemer stuurt het ingevulde inkomstenformulier aan het UWV binnen de door het UWV aangegeven redelijke termijn en op de wijze zoals beschreven in de Beleidsregel elektronische communicatie UWV en de daarbij behorende bijlage.
+3. Gedurende de periode, waarover de werknemer de in het tweede lid bedoelde inkomstenformulieren invult en aan het UWV stuurt, is hij ontheven van de verplichting bedoeld in het eerste lid, voor zover deze verplichting ziet op het onverwijld en uit eigen beweging doorgeven van de gegevens die op het inkomstenformulier uitgevraagd worden.
+4. Ingevulde wijzigingsformulieren en inkomstenformulieren worden door de werknemer ondertekend. Indien een formulier elektronisch aan het UWV wordt gestuurd, vindt ondertekening plaats via DigiD.
 
 ### Artikel  4  
 
 ####Overige controlevoorschriften
 
-1. De werknemer, ten aanzien van wie aangifte van werkloosheid is gedaan: 
+1. De werknemer, die een aanvraag voor een werkloosheidsuitkering heeft gedaan: 
 
 a. verschijnt op verzoek van het UWV op een aangewezen plaats en tijd;  
 
@@ -63,11 +63,11 @@ c. maakt controle door een daartoe door het UWV gemachtigde persoon mogelijk;
 
 d. neemt, indien hij niet bereikbaar is op zijn woon- of verblijfplaats, de aanwijzingen in acht die zijn achtergelaten door de in onderdeel c van dit lid bedoelde persoon;  
 
-e. geeft van een wijziging in zijn woon- of verblijfplaats onverwijld kennis aan het UWV;  
+e. verleent op verzoek van het UWV inzage en verstrekt tegen kostprijs informatie voor zover deze betekenis kan hebben voor het recht op uitkering, de hoogte of de duur van de uitkering of het bedrag van de uitkering dat aan de werknemer wordt betaald;  
 
-f. verleent op verzoek van het UWV inzage en verstrekt tegen kostprijs informatie voor zover deze betekenis kan hebben voor het recht op uitkering, de hoogte of de duur van de uitkering of het bedrag van de uitkering dat aan de werknemer wordt betaald.  
-2. De werknemer bewaart de in het eerste lid onderdeel f bedoelde informatie tot het einde van het kalenderjaar volgend op het kalenderjaar waarop de informatie betrekking heeft.
-3. De werknemer is verplicht ten behoeve van de uitvoering van de Werkloosheidswet het bepaalde in het eerste lid, onderdelen a en f en het bepaalde in het tweede lid ook na te komen als het recht op uitkering (geheel of gedeeltelijk) is beëindigd.
+f. is verplicht om op verzoek van het UWV via het daarvoor aangewezen kanaal binnen de door het UWV vastgestelde termijn alle informatie te verstrekken die noodzakelijk is voor de beoordeling van het recht op uitkering, het geldend maken van het recht op uitkering, de hoogte of de duur van de uitkering of op het bedrag van de uitkering dat aan de werknemer wordt betaald. 
+2. De werknemer bewaart de informatie, bedoeld in het eerste lid, onderdeel e, tot het einde van het kalenderjaar volgend op het kalenderjaar waarop de informatie betrekking heeft.
+3. De werknemer is verplicht ten behoeve van de uitvoering van de Werkloosheidswet het bepaalde in het eerste lid, onderdelen a en e en het bepaalde in het tweede lid ook na te komen als het recht op uitkering (geheel of gedeeltelijk) is beëindigd.
 
 ### §  3  
 
@@ -77,7 +77,7 @@ f. verleent op verzoek van het UWV inzage en verstrekt tegen kostprijs informati
 
 ####Melding van vakantie
 
-1. De werknemer, ten aanzien van wie aangifte van werkloosheid is gedaan en die voornemens is tijdens de duur van de uitkering met vakantie te gaan, doet voor de aanvang van die vakantie op het wijzigingsformulier mededeling van de voorgenomen duur van de vakantie en van de periode waarin deze zal plaatsvinden.
+1. De werknemer, die een aanvraag voor een werkloosheidsuitkering heeft gedaan en die voornemens is tijdens de duur van de uitkering met vakantie te gaan, doet voor de aanvang van die vakantie op het wijzigingsformulier mededeling van de voorgenomen duur van de vakantie en van de periode waarin deze zal plaatsvinden.
 2. De werknemer doet onverwijld op het wijzigingsformulier mededeling aan het UWV van wijziging van de eerder opgegeven duur van de vakantie.
 
 ### §  4  
@@ -92,22 +92,21 @@ Als de werknemer
 
 a. werkloos is geworden uitsluitend als gevolg van vorst, sneeuwval, hoog water of andere buitengewone natuurlijke omstandigheden, of  
 
-b.  werkloos is geworden als gevolg van een werktijdverkorting, waarvoor ingevolge artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945 vergunning is verleend,   en de dienstbetrekking tijdens die werkloosheid blijft voortbestaan, kan het UWV toestaan dat de aangifte en de aanvraag, bedoeld in artikel 2, namens de werknemer door de werkgever wordt gedaan en dat de betaling van de uitkering door tussenkomst van de werkgever plaatsvindt.
+b.  werkloos is geworden als gevolg van een werktijdverkorting, waarvoor ingevolge artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945 vergunning is verleend,   en de dienstbetrekking tijdens die werkloosheid blijft voortbestaan, kan het UWV toestaan dat de aanvraag, bedoeld in artikel 2, namens de werknemer door de werkgever wordt gedaan en dat de betaling van de uitkering door tussenkomst van de werkgever plaatsvindt.
 
 ### Artikel  7  
 
 ####Verplichtingen werkgever
 
-1.  De werkgever, aan wie is toegestaan aangifte te doen van werkloosheid als bedoeld in artikel 6, houdt een administratie bij van de dagen waarop en de uren gedurende welke de werknemer of werknemers, namens wie hij genoemde aangifte heeft gedaan, uitsluitend als gevolg van de in het eerste lid genoemde omstandigheden niet hebben gewerkt. Deze administratie voldoet aan de door het UWV daaraan gestelde eisen.
-2.  Het bepaalde in artikel 2 is op de aangifte en de aanvraag als bedoeld in artikel 6 van overeenkomstige toepassing.
-3.  In afwijking van het bepaalde in artikel 26, eerste lid, onder a, van de Werkloosheidswet, wordt de aangifte bij werkloosheid als bedoeld in artikel 6, onder a, gedaan op de eerste dag van werkloosheid.
-4.  Als het UWV daarom verzoekt zendt de werkgever aan wie de in artikel 6 bedoelde toestemming is verleend, de inkomstenformulieren van ieder van de werknemers, namens wie hij aangifte van werkloosheid heeft gedaan, overeenkomstig het bepaalde in artikel 4 tegen een door het UWV aan te geven tijdstip aan het UWV.
+1. De werkgever, aan wie is toegestaan de aanvraag te doen als bedoeld in artikel 6, houdt een administratie bij van de dagen waarop en de uren gedurende welke de werknemer of werknemers, namens wie hij genoemde aanvraag heeft gedaan, uitsluitend als gevolg van de in artikel 6 genoemde omstandigheden niet hebben gewerkt. Deze administratie voldoet aan de door het UWV daaraan gestelde eisen.
+2. Artikel 2 is op de aanvraag als bedoeld in artikel 6 van overeenkomstige toepassing.
+3. Als het UWV daarom verzoekt stuurt de werkgever aan wie de in artikel 6 bedoelde toestemming is verleend, de inkomstenformulieren van ieder van de werknemers, namens wie hij de aanvraag heeft gedaan, overeenkomstig artikel 4 tegen een door het UWV aan te geven tijdstip aan het UWV.
 
 ### Artikel  8  
 
 ####Sanctie op overtreding verplichtingen werkgever
 
-Als de werkgever aan wie de in artikel 7, eerste lid bedoelde toestemming is verleend, één of meer verplichtingen, bedoeld in artikel 7, eerste, derde en vierde lid niet naar behoren nakomt, kan het UWV besluiten om de door de werkgever als voorschot op de uitkering aan de werknemer gedane betalingen, geheel of gedeeltelijk niet te vergoeden.
+Als de werkgever aan wie de in artikel 7, eerste lid bedoelde toestemming is verleend, één of meer verplichtingen, bedoeld in artikel 7, eerste en derde lid niet naar behoren nakomt, kan het UWV besluiten om de door de werkgever als voorschot op de uitkering aan de werknemer gedane betalingen, geheel of gedeeltelijk niet te vergoeden.
 
 ### §  5  
 
@@ -117,22 +116,17 @@ Als de werkgever aan wie de in artikel 7, eerste lid bedoelde toestemming is ver
 
 ####Voorwaarden bij betaling van voorschotten
 
-1.  De werknemer op wie het bepaalde in artikel 31 van de Werkloosheidswet van toepassing is, maakt op verzoek van het UWV zijn eventuele aanspraak naar burgerlijk recht geldend.
+1. De werknemer aan wie het UWV een voorschot op de uitkering heeft verleend, maakt op verzoek van het UWV zijn eventuele aanspraak naar burgerlijk recht geldend.
 2.  De in het eerste lid bedoelde werknemer dient, op verzoek van het Uitvoeringsinstituut werknemersverzekeringen, zo spoedig mogelijk bij de bevoegde gemeente een aanvraag om bijstand ingevolge de Wet werk en bijstand in.
 3.  De in het eerste lid bedoelde werknemer machtigt het UWV desgevraagd tot het in ontvangst nemen van de gelden die hij, over de periode waarover voorschotten zijn verleend, ontvangt van degene jegens wie hij zijn aanspraak naar burgerlijk recht tracht geldend te maken tot ten hoogste het bedrag van de verleende voorschotten.
 4.  De in het eerste lid bedoelde werknemer machtigt het UWV desgevraagd tot het in ontvangst nemen van de bijstand ingevolge de Wet werk en bijstand die hij van de in het tweede lid bedoelde gemeente ontvangt, indien en voor zover deze bijstand betrekking heeft op de periode waarover voorschotten zijn verleend tot ten hoogste het bedrag van de verleende voorschotten.
-5.  Het UWV kan aan de betaling van voorschotten als bedoeld in artikel 31 van de Werkloosheidswet andere voorschriften verbinden.
+5. Het UWV kan aan de betaling van voorschotten andere voorschriften verbinden.
 
 ### §  5  
 
 ####Samenloop met inkomsten uit of in verband met arbeid
 
-### Artikel  10  
-
-####Aftrek loon zonder werken
-
-1.  Onverminderd hetgeen elders bij of krachtens de Werkloosheidswet is bepaald omtrent loondoorbetaling, wordt op de uitkering geheel in mindering gebracht, loon uit dienstbetrekking dat de werknemer geniet zonder hiervoor te werken.
-2.  Het tweede en zesde lid van artikel 34 van de Werkloosheidswet zijn van overeenkomstige toepassing.
+Vervallen per 24-06-2015 
 
 ### §  6  
 
