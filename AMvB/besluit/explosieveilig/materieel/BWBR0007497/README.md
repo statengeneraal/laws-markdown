@@ -8,7 +8,7 @@ Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid va
 
 Gelet op richtlijn nr. 94/9/EG van het Europees Parlement en de Raad van de Europese Unie van 23 maart 1994 inzake de onderlinge aanpassing van de wetgevingen van de Lid-Staten betreffende apparaten en beveiligingssystemen bedoeld voor gebruik op plaatsen waar ontploffingsgevaar kan heersen (*PbEG* L 100);
 
-Gelet op de [artikelen 1, eerste lid, onderdelen *a* en *b*](../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md),[ 2](../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [3, eerste en tweede lid](../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md),[ 6](../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [12, derde lid](../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), en [25*a* van de Wet op de gevaarlijke werktuigen](../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md);
+Gelet op de artikelen 1, eerste lid, onderdelen *a* en *b*, 2, 3, eerste en tweede lid, 6, 12, derde lid, en 25*a* van de Wet op de gevaarlijke werktuigen;
 
 De Raad van State gehoord (advies van 19 april 1995, kenmerk W12.95.0059);
 
@@ -22,7 +22,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop gebaseerde bepalingen wordt verstaan onder:  
 
-a. wet: [Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md);  
+a. wet: Warenwet;  
 
 b. apparaten: machines, materieel, vaste of mobiele inrichtingen, bedieningsorganen en instrumenten alsmede detectie- en preventiesystemen die, alleen of in combinatie, bestemd zijn voor produktie, transport, opslag, meting, regeling, energieomzetting of grondstoffenverwerking en die door hun inherente potentiële ontstekingsbronnen in een explosieve atmosfeer een explosie kunnen veroorzaken;  
 
@@ -46,7 +46,7 @@ k. bedoeld gebruik: gebruik van apparaten, beveiligingssystemen en voorzieningen
 
 l. Europese Economische Ruimte: het grondgebied waarop de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is;  
 
-m. aangewezen aangemelde instelling: een krachtens [artikel 7a van de wet](../../../../../wet/warenwet/BWBR0001969/README.md) in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen aangemelde instelling, dan wel een door een andere staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen in het kader van de richtlijn aangemelde instelling;  
+m. aangewezen aangemelde instelling: een krachtens artikel 7a van de wet in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen aangemelde instelling, dan wel een door een andere staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen in het kader van de richtlijn aangemelde instelling;  
 
 n. richtlijn: richtlijn nr. 94/9/EG van het Europees Parlement en de Raad van de Europese Unie van 23 maart 1994 inzake de onderlinge aanpassing van de wetgevingen van de Lid-Staten betreffende apparaten en beveiligingssystemen bedoeld voor gebruik op plaatsen waar ontploffingsgevaar kan heersen (*PbEG* L 100).   
 
@@ -64,7 +64,7 @@ b. apparaten en beveiligingssystemen wanneer het explosiegevaar uitsluitend voor
 
 c. apparaten, bedoeld voor gebruik in een huiselijke, niet-commerciële sfeer;  
 
-d. persoonlijke beschermingsmiddelen die onder het [Warenwetbesluit persoonlijke beschermingsmiddelen](../../../../../AMvB/warenwetbesluit/persoonlijke/beschermingsmiddelen/BWBR0005570/README.md) vallen;  
+d. persoonlijke beschermingsmiddelen die onder het Warenwetbesluit persoonlijke beschermingsmiddelen vallen;  
 
 e. zeeschepen en mobiele offshore-installaties alsmede de uitrusting aan boord van deze schepen of installaties;  
 
@@ -217,7 +217,7 @@ b. ten hoogste twaalf maanden voorafgaand aan de datum van indiening van de aanv
 2.  De aanvraag wordt in het geval, genoemd in het eerste lid, onder b, eerst in behandeling genomen nadat twaalf maanden, te rekenen vanaf de dag na de datum van de weigering respectievelijk van de intrekking, zijn verstreken.   
 3.  Een aanwijzing kan worden geschorst, ten nadele van de aangemelde instelling worden gewijzigd of ingetrokken: 
 
-a. op grond van feiten of omstandigheden waarvan Onze Minister bij de aanwijzing redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij de aanwijzing niet of alleen met voorschriften bedoeld in [artikel 7a, vierde lid, van de wet](../../../../../wet/warenwet/BWBR0001969/README.md) zou hebben gegeven;  
+a. op grond van feiten of omstandigheden waarvan Onze Minister bij de aanwijzing redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij de aanwijzing niet of alleen met voorschriften bedoeld in artikel 7a, vierde lid, van de wet zou hebben gegeven;  
 
 b. op grond van door de aangewezen aangemelde instelling verstrekte onjuiste inlichtingen over feiten of omstandigheden, mits de onjuistheid daarvan aan deze instelling bekend was of kon zijn;  
 
@@ -245,7 +245,7 @@ b. haar wettelijke verplichtingen naar behoren nakomt en de taken waarvoor zij i
 ####Verstrekken van gegevens
 
 1.  De aangewezen aangemelde instelling verstrekt de Stichting Raad voor Accreditatie te Utrecht desgevraagd kosteloos alle informatie die deze nodig heeft bij de uitvoering van het bepaalde bij of krachtens artikel 17c.   
-2.  Bij ministeriele regeling worden nadere regels gesteld betreffende het kosteloos verstrekken van gegevens en inlichtingen door een aangewezen instelling aan Onze Minister of de toezichthouder respectievelijk door Onze Minister of de toezichthouder aan de in het eerste lid genoemde Stichting Raad voor Accreditatie of een aangewezen instelling, die zijn verkregen door de uitvoering of het toezicht op de naleving van het bepaalde bij of krachtens de [wet](../../../../../wet/warenwet/BWBR0001969/README.md), welke noodzakelijk zijn voor de uitvoering van hun wettelijke taken.  
+2.  Bij ministeriele regeling worden nadere regels gesteld betreffende het kosteloos verstrekken van gegevens en inlichtingen door een aangewezen instelling aan Onze Minister of de toezichthouder respectievelijk door Onze Minister of de toezichthouder aan de in het eerste lid genoemde Stichting Raad voor Accreditatie of een aangewezen instelling, die zijn verkregen door de uitvoering of het toezicht op de naleving van het bepaalde bij of krachtens de wet, welke noodzakelijk zijn voor de uitvoering van hun wettelijke taken.  
 
 ### Hoofdstuk  VI  
 
@@ -277,7 +277,7 @@ Een wijziging van een van de bijlagen van de richtlijn waarnaar in dit besluit w
 
 ### Artikel  24  
 
-Dit besluit berust op de [artikelen 1](../../../../../wet/warenwet/BWBR0001969/README.md), [3 tot en met 11](../../../../../wet/warenwet/BWBR0001969/README.md), [11a](../../../../../wet/warenwet/BWBR0001969/README.md), [13](../../../../../wet/warenwet/BWBR0001969/README.md), [14](../../../../../wet/warenwet/BWBR0001969/README.md), [16](../../../../../wet/warenwet/BWBR0001969/README.md) en [32b, eerste lid, van de wet](../../../../../wet/warenwet/BWBR0001969/README.md). 
+Dit besluit berust op de artikelen 1, 3 tot en met 11, 11a, 13, 14, 16 en 32b, eerste lid, van de wet. 
 
 ### Artikel  25  
 
@@ -294,9 +294,9 @@ Dit besluit berust op de [artikelen 1](../../../../../wet/warenwet/BWBR0001969/R
 
 Dit besluit treedt in werking met ingang van 1 maart 1996 met uitzondering van:  
 
-a. artikel 24, onderdeel A en onderdeel B, voorzover het betreft [artikel 4, onderdeel f, van het Liftenbesluit I](../../../../../AMvB/liftenbesluit/i/BWBR0002212/README.md) dat in werking treedt met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin dit besluit wordt geplaatst en dat terugwerkt tot en met 1 januari 1995,  
+a. artikel 24, onderdeel A en onderdeel B, voorzover het betreft artikel 4, onderdeel f, van het Liftenbesluit I dat in werking treedt met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin dit besluit wordt geplaatst en dat terugwerkt tot en met 1 januari 1995,  
 
-b. artikel 24, onderdeel B, voorzover het betreft [artikel 4, onderdeel g, van het Liftenbesluit I](../../../../../AMvB/liftenbesluit/i/BWBR0002212/README.md) dat in werking treedt met ingang van 1 januari 1997,  
+b. artikel 24, onderdeel B, voorzover het betreft artikel 4, onderdeel g, van het Liftenbesluit I dat in werking treedt met ingang van 1 januari 1997,  
 
 c. artikel 24, onderdeel C, en artikel 26 die in werking treden met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin dit besluit wordt geplaatst.   
 

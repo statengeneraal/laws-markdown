@@ -3,24 +3,24 @@
 ##Regeling politie-legitimatiebewijs
 
 De Minister van Binnenlandse Zaken,  
-Gelet op [artikel 13 van het Besluit beheer regionale politiekorpsen](../../../../AMvB/besluit/beheer/regionale/politiekorpsen/BWBR0006560/README.md);
+Gelet op artikel 13 van het Besluit beheer regionale politiekorpsen;
 Besluit:    
 
 ### Artikel  1  
 
 Tijdens de uitoefening van de dienst dragen de volgende ambtenaren van politie een politielegitimatiebewijs volgens het model, bedoeld in bijlage 1 bij deze regeling, bij zich: 
 
-a. de ambtenaar, bedoeld in [artikel 2, onderdelen a en c, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md), voor zover zij zijn aangesteld voor de uitvoering van de politietaak en werkzaam zijn bij een eenheid, met uitzondering van de aspirant gedurende het theoretische opleidingsdeel;  
+a. de ambtenaar, bedoeld in artikel 2, onderdelen a en c, van de Politiewet 2012, voor zover zij zijn aangesteld voor de uitvoering van de politietaak en werkzaam zijn bij een eenheid, met uitzondering van de aspirant gedurende het theoretische opleidingsdeel;  
 
-b. de door de korpschef aangewezen ambtenaren, bedoeld in [artikel 2, onderdeel b, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md), die over opsporingsbevoegdheden beschikken.   
+b. de door de korpschef aangewezen ambtenaren, bedoeld in artikel 2, onderdeel b, van de Politiewet 2012, die over opsporingsbevoegdheden beschikken.   
 
 ### Artikel  2  
 
-De politie, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md) is eigenaar van het politielegitimatiebewijs. 
+De politie, bedoeld in artikel 1, eerste lid, onderdeel b, van de Politiewet 2012 is eigenaar van het politielegitimatiebewijs. 
 
 ### Artikel  3  
 
-De korpschef, bedoeld in [artikel 1, eerste lid, onder c, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md) draagt zorg voor een behoorlijk toezicht op de bewaring van het te verstrekken politielegitimatiebewijs. 
+De korpschef, bedoeld in artikel 1, eerste lid, onder c, van de Politiewet 2012 draagt zorg voor een behoorlijk toezicht op de bewaring van het te verstrekken politielegitimatiebewijs. 
 
 ### Artikel  4  
 
@@ -44,7 +44,7 @@ Deze regeling treedt in werking met ingang van 1 april 1994.
 
 ### Artikel  8a  
 
-Deze regeling berust op [artikel 30, tweede lid, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md).  
+Deze regeling berust op artikel 30, tweede lid, van de Politiewet 2012.  
 
 ### Artikel  9  
 

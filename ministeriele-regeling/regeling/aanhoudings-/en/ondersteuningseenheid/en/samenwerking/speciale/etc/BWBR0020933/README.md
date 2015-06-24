@@ -3,18 +3,18 @@
 ##Regeling van 15 december 2006, nr. 2006-0000405012, houdende de organisatie van aanhoudings- en ondersteuningseenheden en bepalingen over de samenwerking tussen speciale eenheden (Regeling aanhoudings- en ondersteuningseenheid en samenwerking speciale eenheden)
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties, de Minister van Justitie en de Minister van Defensie,  
-Gelet op [artikel 46, eerste, tweede en derde lid](../../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) en [artikel 60, tweede lid, van de Politiewet 1993](../../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) en [artikel 8, tweede lid, van het Besluit beheer regionale politiekorpsen](../../../../../../../../../../AMvB/besluit/beheer/regionale/politiekorpsen/BWBR0006560/README.md);
+Gelet op artikel 46, eerste, tweede en derde lid en artikel 60, tweede lid, van de Politiewet 1993 en artikel 8, tweede lid, van het Besluit beheer regionale politiekorpsen;
 Besluiten:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a. aanhoudings- en ondersteuningseenheid: onderdeel als bedoeld in [artikel 18 van de Regeling beheer politie](../../../../../../../../../../ministeriele-regeling/regeling/beheer/politie/BWBR0032673/README.md);  
+a. aanhoudings- en ondersteuningseenheid: onderdeel als bedoeld in artikel 18 van de Regeling beheer politie;  
 
 b. aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee: aanhoudings- en ondersteuningseenheid die is ondergebracht bij de Brigade Speciale Beveiligingsopdrachten van de Koninklijke marechaussee;  
 
-c. de Dienst Speciale Interventies: de dienst, bedoeld in [artikel 2 van de Regeling Dienst speciale interventies](../../../../../../../../../../ministeriele-regeling/regeling/dienst/speciale/interventies/BWBR0026381/README.md);  
+c. de Dienst Speciale Interventies: de dienst, bedoeld in artikel 2 van de Regeling Dienst speciale interventies;  
 
 d. regionale eenheid: de regionale eenheid waar een aanhoudings- en ondersteuningseenheid organisatorisch is ondergebracht.   
 
@@ -54,11 +54,11 @@ b. stages door het personeel van de Dienst Speciale Interventies bij de aanhoudi
 
 ### Artikel  10  
 
-De [Organisatieregeling aanhoudings- en ondersteuningseenheden](../../../../../../../../../../ministeriele-regeling/organisatieregeling/aanhoudings-/en/ondersteuningseenheid/BWBR0006551/README.md) wordt ingetrokken.
+De Organisatieregeling aanhoudings- en ondersteuningseenheden wordt ingetrokken.
 
 ### Artikel  10a  
 
-Deze regeling berust op de [artikelen 5](../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), [30, tweede lid](../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en [57 van de Politiewet 2012](../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
+Deze regeling berust op de artikelen 5, 30, tweede lid, en 57 van de Politiewet 2012.  
 
 ### Artikel  11  
 

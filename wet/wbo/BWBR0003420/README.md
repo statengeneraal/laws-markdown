@@ -147,6 +147,25 @@ d. een andere speciale school voor basisonderwijs in het onder c bedoelde samenw
 4.  Het bevoegd gezag of de natuurlijke persoon dan wel de rechtspersoon die een school in stand houdt die niet uit de openbare kas wordt bekostigd, bevordert de kennis en het gebruik van de meldcode.   
 5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.  
 
+### Artikel  4c  
+
+####Zorgplicht veiligheid op school
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het bevoegd gezag draagt zorg voor de veiligheid op school, waarbij het bevoegd gezag in ieder geval: 
+
+a. beleid met betrekking tot de veiligheid voert,  
+
+b. de veiligheid van leerlingen op school monitort met een instrument dat een representatief en actueel beeld geeft, en  
+
+c. er zorg voor draagt dat bij een persoon ten minste de volgende taken zijn belegd: 
+
+1°. het coördineren van het beleid in het kader van het tegengaan van pesten, en  
+
+2°. het fungeren als aanspreekpunt in het kader van pesten.       
+2.  Onder veiligheid, bedoeld in het eerste lid, wordt verstaan de sociale, psychische en fysieke veiligheid van leerlingen.  
+
 ###Artikel 5 
 
 ####Niet uit de openbare kas bekostigd bijzonder schoolonderwijs
@@ -3103,6 +3122,14 @@ Onze minister zendt binnen vijf jaar na de inwerkingtreding van de artikelen 10a
 ####Evaluatie centrale eindtoets en leerling- en onderwijsvolgsysteem
 
 Onze minister zendt binnen vier jaar na de inwerkingtreding van artikel I van de Wet van 11 december 2013 tot wijziging van onder meer de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet College voor examens in verband met de invoering van een centrale eindtoets, de invoering van een leerling- en onderwijsvolgsysteem en invoering van bekostigingsvoorschriften voor minimumleerresultaten voor speciale scholen voor basisonderwijs en scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs (centrale eindtoets en leerling- en onderwijsvolgsysteem primair onderwijs) (Stb. 2014, 13) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van artikel 8, zesde lid, en artikel 9b van de wet in de praktijk. 
+
+### Artikel  188c  
+
+####Evaluatie zorgplicht veiligheid op school
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Onze Minister zendt binnen vijf jaar na de inwerkingtreding van artikel I van de Wet van 4 juni 2015 tot wijziging van enige onderwijswetten in verband met het invoeren van de verplichting voor scholen om zorg te dragen voor de veiligheid op school (Stb. 238) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van de artikelen 4c en 13, eerste lid, onderdeel n, in de praktijk. 
 
 ###Hoofdstuk  IV  
 

@@ -3,7 +3,7 @@
 ##Regeling houdende nadere regels met betrekking tot de veiligheid en certificering van in Nederland geregistreerde zeeschepen, alsmede regels met betrekking tot de veiligheid van buitenlandse schepen in Nederlandse wateren (Regeling veiligheid zeeschepen)
 
 De Minister van Verkeer en Waterstaat,
-Gelet op de [artikelen 12](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), [22](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), [32](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), [46](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md),[ 48, eerste lid](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md),[ 51](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), [54](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), [58](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) en [65 van het Schepenbesluit 2004](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), de [artikelen 5, eerste lid](../../../../../rijkswet/schepenwet/BWBR0001876/README.md), [26e, tweede lid](../../../../../rijkswet/schepenwet/BWBR0001876/README.md), en [26f van de Schepenwet](../../../../../rijkswet/schepenwet/BWBR0001876/README.md) en de [artikelen 3, eerste lid](../../../../../wet/wet/buitenlandse/schepen/BWBR0016993/README.md), [7, eerste lid](../../../../../wet/wet/buitenlandse/schepen/BWBR0016993/README.md), en [11, tweede lid, van de Wet buitenlandse schepen](../../../../../wet/wet/buitenlandse/schepen/BWBR0016993/README.md), op richtlijn nr. 92/29/EEG van de Raad van de Europese Gemeenschappen van 31 maart 1992 betreffende de minimumvoorschriften inzake veiligheid en gezondheid ter bevordering van een betere medische hulpverlening aan boord van schepen (PbEG L 113), alsmede op de in artikel 1 van deze regeling genoemde Codes, richtlijnen en verordeningen;
+Gelet op de artikelen 12, 22, 32, 46, 48, eerste lid, 51, 54, 58 en 65 van het Schepenbesluit 2004, de artikelen 5, eerste lid, 26e, tweede lid, en 26f van de Schepenwet en de artikelen 3, eerste lid, 7, eerste lid, en 11, tweede lid, van de Wet buitenlandse schepen, op richtlijn nr. 92/29/EEG van de Raad van de Europese Gemeenschappen van 31 maart 1992 betreffende de minimumvoorschriften inzake veiligheid en gezondheid ter bevordering van een betere medische hulpverlening aan boord van schepen (PbEG L 113), alsmede op de in artikel 1 van deze regeling genoemde Codes, richtlijnen en verordeningen;
 Besluit:  
 ###Hoofdstuk 1 
 
@@ -13,9 +13,15 @@ Besluit:
 
 ####Begripsbepalingen
 
-1.  In deze regeling wordt verstaan onder: 
+In deze regeling wordt verstaan onder: 
 
-–  *besluit:* [Schepenbesluit 2004](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md);  
+–  *besluit:* Schepenbesluit 2004;  
+
+–  *Caribisch-Nederlands schip:* een schip dat op grond van de Vaartuigenwet 1930 BES is geregistreerd in de openbare lichamen Bonaire, Sint Eustatius of Saba;  
+
+–  *Caribische handelszone:* de Caribische handelszone (Caribbean Trading Area) als omschreven in de CCSS-Code;  
+
+–  *CCSS-Code:* de in het kader van het op 9 februari 1996 te Barbados tot stand gekomen Memorandum van overeenstemming inzake toezicht op schepen door de havenstaat vastgestelde Code voor de veiligheid van vrachtschepen waarmee reizen worden ondernomen in het Caribisch gebied (Code of Safety for Caribbean Cargo Ships); 
 
 –  *DSC-Code:* de bij resolutie A.373(X) van de Algemene Vergadering van de Intergouvernementele Maritieme Consultatieve Organisatie (IMCO) van de Verenigde Naties aangenomen Code voor de veiligheid van dynamisch ondersteunde schepen (Dynamically Supported Craft Code);  
 
@@ -37,7 +43,7 @@ Besluit:
 
 –  *MODU-Code 1989:* de bij resolutie A.649(16) van de Algemene Vergadering van de IMO aangenomen Code voor de bouw en uitrusting van verplaatsbare offshore booreenheden 1989 (Mobile Offshore Drilling Units Code, 1989);  
 
-–  *MODU-Code 2009:* de bij resolutie A.1023(26) van de Algemene Vergadering van de IMO aangenomen Code voor de bouw en uitrusting van verplaatsbare offshore booreenheden 2009 (Mobile Offshore Drilling Units Code, 2009);. 
+–  *MODU-Code 2009:* de bij resolutie A.1023(26) van de Algemene Vergadering van de IMO aangenomen Code voor de bouw en uitrusting van verplaatsbare offshore booreenheden 2009 (Mobile Offshore Drilling Units Code, 2009); 
 
 –  * resolutie A.673(16):* de bij resolutie A.673(16) van de Algemene Vergadering van de IMO aangenomen Richtlijnen voor het vervoer en de behandeling van beperkte hoeveelheden gevaarlijke en schadelijke vloeistoffen in bulk door offshore ondersteuningsschepen (Guidelines for the transport and handling of limited amounts of hazardous and noxious liquid substances in bulk on offshore support vessels);  
 
@@ -61,6 +67,8 @@ Besluit:
 
 –  * ruimten voor machines van categorie A:* ruimten als bedoeld in voorschrift II-2/3, onderdeel 31, van het SOLAS-verdrag;  
 
+–  *SCV-Code:* de in februari 2001 onder auspiciën van de IMO opgestelde, in december 2007 herziene en bij circulaire SLS.14/Circ.396, als voor het Koninkrijk der Nederlanden geldende equivalente regeling, aangemelde Code voor de veiligheid van kleine commerciële schepen waarmee reizen worden ondernomen in het Caribisch gebied (Code of Safety for Small Commercial Vessels); 
+
 –  *SPS-Code:* de bij resolutie A.534(13) van de Algemene Vergadering van de IMO aangenomen Code voor de veiligheid van schepen voor bijzondere doeleinden (Special Purpose Ships Code);  
 
 –  * SPS-Code 2008:* de bij resolutie MSC.266(84) van de Maritieme Veiligheidscommissie aangenomen Code voor de veiligheid van schepen met bijzondere doeleinden 2008 (Special Purpose Ships Code, 2008);  
@@ -69,20 +77,19 @@ Besluit:
 
 –  *verordening (EG) 725/2004:* verordening (EG) nr. 725/2004 van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 betreffende de verbetering van de beveiliging van schepen en havenfaciliteiten (PbEU L 129);  
 
-–  *verordening (EG) 336/2006:* verordening (EG) nr. 336/2006 van het Europees Parlement en de Raad van de Europese Unie van 15 februari 2006 inzake de implementatie van de Internationale Veiligheidsmanagementcode in de Gemeenschap en tot intrekking van verordening (EG) nr. 3051/95 van de Raad van de Europese Unie (PbEU L 64).    
-2.  Voor de toepassing van het besluit en deze regeling wordt met een internationale reis gelijkgesteld een trans-Atlantische reis tussen landen van het Koninkrijk of delen daarvan.  
+–  *verordening (EG) 336/2006:* verordening (EG) nr. 336/2006 van het Europees Parlement en de Raad van de Europese Unie van 15 februari 2006 inzake de implementatie van de Internationale Veiligheidsmanagementcode in de Gemeenschap en tot intrekking van verordening (EG) nr. 3051/95 van de Raad van de Europese Unie (PbEU L 64).   
 
 ### Artikel  2  
 
 ####Bouwdatum van een schip
 
-Als bouwdatum van een schip wordt aangemerkt de dag waarop de kiel van het schip is gelegd, dan wel de dag waarop met inachtneming van hetgeen dienaangaande in de op grond van deze regeling toepasselijke Codes, resoluties of richtlijnen is bepaald, een met de kiellegging vergelijkbaar stadium is bereikt. [Artikel 2, tweede lid, van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) is van overeenkomstige toepassing. 
+Als bouwdatum van een schip wordt aangemerkt de dag waarop de kiel van het schip is gelegd, dan wel de dag waarop met inachtneming van hetgeen dienaangaande in de op grond van deze regeling toepasselijke Codes, resoluties of richtlijnen is bepaald, een met de kiellegging vergelijkbaar stadium is bereikt. Artikel 2, tweede lid, van het besluit is van overeenkomstige toepassing. 
 
-###Artikel 3 
+### Artikel  3  
 
 ####Toepassingsbereik
 
-Deze regeling is, tenzij uitdrukkelijk anders bepaald, van toepassing op schepen die op grond van Nederlandse rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren.
+Deze regeling is, tenzij uitdrukkelijk anders bepaald, van toepassing op schepen die op grond van Nederlandse rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren en op Caribisch-Nederlandse schepen. 
 
 ###Hoofdstuk 2 
 
@@ -104,8 +111,11 @@ b. een vrachtschip met een lengte van minder dan 24 meter, niet zijnde een schip
 
 c. een schip dat niet van middelen tot werktuiglijke voortstuwing is voorzien;  
 
-d. een vrachtschip van 500 GT of meer, uitsluitend bestemd en gebruikt voor nationale reizen.     
-2.  Als nationaal veiligheidscertificaat wordt vastgesteld het in bijlage 1 bij deze regeling opgenomen model, met dien verstande dat verschillende opschriften worden gehanteerd afhankelijk van de categorie waartoe een schip op grond van het eerste lid behoort.  
+d. een vrachtschip van 500 GT of meer, uitsluitend bestemd en gebruikt voor nationale reizen;  
+
+e. een passagiersschip waarmee uitsluitend nationale reizen binnen de Caribische handelszone worden ondernomen.    
+2.  Als nationaal veiligheidscertificaat wordt vastgesteld het in bijlage 1 bij deze regeling opgenomen model, met dien verstande dat verschillende opschriften worden gehanteerd afhankelijk van de categorie waartoe een schip op grond van het eerste lid behoort.   
+3.  Het eerste lid is tevens van toepassing op Caribisch-Nederlandse vrachtschepen met een lengte van minder dan 12 meter. 
 
 ### Artikel  4  
 
@@ -132,7 +142,7 @@ a. voor booreenheden, gebouwd voor 1 mei 1991: het veiligheidscertificaat voor 
 b. voor booreenheden, gebouwd op of na 1 mei 1991 maar voor 1 januari 2012: het veiligheidscertificaat voor verplaatsbare offshore booreenheden, behorend bij de MODU-Code 1989;  
 
 c. voor booreenheden, gebouwd op of na 1 januari 2012: het veiligheidscertificaat voor verplaatsbare offshore booreenheden, behorend bij de MODU-Code 2009.    
-2.  Voor schepen als bedoeld in [artikel 6 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) treden de in het eerste lid bedoelde certificaten in de plaats van het voor die schepen benodigde nationaal veiligheidscertificaat. 
+2.  Voor schepen als bedoeld in artikel 6 van het besluit treden de in het eerste lid bedoelde certificaten in de plaats van het voor die schepen benodigde nationaal veiligheidscertificaat. 
 
 ### Artikel  5a  
 
@@ -147,13 +157,11 @@ c. voor booreenheden, gebouwd op of na 1 januari 2012: het veiligheidscertificaa
 ####Certificaat van overeenstemming (LY2-Code)
 
 1.  Voor een schip ten aanzien waarvan op grond van artikel 12a is gekozen voor toepassing van de LY2-Code is een certificaat van overeenstemming als bedoeld in de LY2-Code benodigd.   
-2.  Voor een schip als bedoeld in [artikel 6 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) treedt het certificaat van overeenstemming in de plaats van het nationaal veiligheidscertificaat.  
+2.  Voor een schip als bedoeld in artikel 6 van het besluit treedt het certificaat van overeenstemming in de plaats van het nationaal veiligheidscertificaat.  
 
 ### Artikel  5c  
 
 ####Certificaten op grond van CCSS-Code (CMOU)
-
-Treedt in werking per 01-07-2014 
 
 1.  Voor vrachtschepen ten aanzien waarvan op grond van artikel 12b voor toepassing van de CCSS-Code is gekozen, is het bij die Code behorende veiligheidscertificaat benodigd.   
 2.  Het in het eerste lid bedoelde certificaat treedt in de plaats van het nationaal veiligheidscertificaat.  
@@ -161,8 +169,6 @@ Treedt in werking per 01-07-2014
 ### Artikel  5d  
 
 ####Certificaten voor passagiersschepen op grond van SCV-Code (IMO)
-
-Treedt in werking per 01-07-2014 
 
 1.  Voor een passagiersschip waarmee internationale reizen worden ondernomen en ten aanzien waarvan op grond van artikel 12c voor toepassing van de SCV-Code is gekozen, is tezamen met een veiligheidscertificaat voor passagiersschepen een afschrift van de kennisgeving aan de IMO met betrekking tot de gelijkwaardigheid van de SCV-Code (*notification of equivalency*) benodigd.   
 2.  Voor een passagiersschip waarmee nationale reizen worden ondernomen, is, indien ten aanzien van dat schip op grond van artikel 12c voor toepassing van de SCV-Code is gekozen, het certificaat van inspectie, behorend bij de SCV-Code, benodigd.   
@@ -172,8 +178,6 @@ Treedt in werking per 01-07-2014
 
 ####Certificaten voor vrachtschepen op grond van SCV-Code (IMO)
 
-Treedt in werking per 01-07-2014 
-
 1.  Voor een vrachtschip van minder dan 24 meter waarmee uitsluitend reizen worden ondernomen in de Caribische handelszone, is het certificaat van inspectie, behorend bij de SCV-Code, benodigd.   
 2.  Het in het eerste lid bedoelde certificaat treedt in de plaats van het nationaal veiligheidscertificaat.  
 
@@ -182,20 +186,20 @@ Treedt in werking per 01-07-2014
 ####Certificaten op grond van DSC-Code, SPS-Code en SPS-Code 2008 (IMO)
 
 1.  Voor een schip ten aanzien waarvan op grond van artikel 12 is gekozen voor toepassing van de DSC-Code, de SPS-Code of de SPS-Code 2008, is het bij de desbetreffende Code behorende certificaat benodigd. Indien is gekozen voor toepassing van de DSC-Code, is voor het schip tevens de bij die Code behorende exploitatievergunning benodigd.   
-2.  Voor schepen als bedoeld in [artikel 6 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) treden de in het eerste lid bedoelde certificaten in de plaats van het voor die schepen benodigde nationaal veiligheidscertificaat. 
+2.  Voor schepen als bedoeld in artikel 6 van het besluit treden de in het eerste lid bedoelde certificaten in de plaats van het voor die schepen benodigde nationaal veiligheidscertificaat. 
 
 ###Artikel 7 
 
 ####Aanvullend certificaat voor ro-ro-passagiersschepen in Europese vaart (EU)
 
 1. Voor ro-ro-passagiersschepen als bedoeld in artikel 2 van richtlijn 2003/25/EG waarmee in het kader van een geregelde dienst internationale reizen worden ondernomen van of naar een haven in de Europese Unie, is een certificaat als bedoeld in artikel 8 van richtlijn 2003/25/EG benodigd, waaruit blijkt dat zij aan de specifieke stabiliteitsvereisten van die richtlijn voldoen.
-2. Het in het eerste lid bedoelde certificaat wordt gecombineerd met het ingevolge [artikel 5 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) benodigde internationaal veiligheidscertificaat voor passagiersschepen.
+2. Het in het eerste lid bedoelde certificaat wordt gecombineerd met het ingevolge artikel 5 van het besluit benodigde internationaal veiligheidscertificaat voor passagiersschepen.
 
 ###Artikel 7a 
 
 #### Veiligheidsmanagementcertificaat (EU)
 
-1. [Artikel 9, eerste lid, aanhef en onderdeel a, en het tweede lid, van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) is van overeenkomstige toepassing op passagiersschepen als bedoeld in artikel 2, vierde lid, van verordening (EG) 336/2006, vrachtschepen van 500 GT of meer en verplaatsbare offshore booreenheden van 500 GT of meer voor zover deze schepen gebruikt worden voor nationale reizen.
+1. Artikel 9, eerste lid, aanhef en onderdeel a, en het tweede lid, van het besluit is van overeenkomstige toepassing op passagiersschepen als bedoeld in artikel 2, vierde lid, van verordening (EG) 336/2006, vrachtschepen van 500 GT of meer en verplaatsbare offshore booreenheden van 500 GT of meer voor zover deze schepen gebruikt worden voor nationale reizen.
 2. Het eerste lid is niet van toepassing op de volgende schepen:
 
 a. voor andere dan handelsdoeleinden gebruikte overheidsschepen;  
@@ -208,7 +212,7 @@ c. andere passagiersschepen dan ro-ro-passagiersveerboten als bedoeld in artikel
 
 ####Scheepsbeveiligingscertificaat passagiersschepen in nationale vaart (EU)
 
-1.  [Artikel 9, eerste lid, aanhef en onderdeel b, van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) is met ingang van 1 juli 2005 van overeenkomstige toepassing op passagiersschepen, behorende tot klasse A als bedoeld in artikel 4 van richtlijn 2009/45/EG, waarmee nationale reizen worden ondernomen van of naar een haven in de Europese Unie.   
+1.  Artikel 9, eerste lid, aanhef en onderdeel b, van het besluit is met ingang van 1 juli 2005 van overeenkomstige toepassing op passagiersschepen, behorende tot klasse A als bedoeld in artikel 4 van richtlijn 2009/45/EG, waarmee nationale reizen worden ondernomen van of naar een haven in de Europese Unie.   
 2.  Het eerste lid is niet van toepassing op schepen die niet zijn voorzien van middelen tot werktuiglijke voortstuwing en op houten of primitief gebouwde schepen.  
 
 ### Artikel  9  
@@ -271,39 +275,33 @@ a. voor dynamisch ondersteunde schepen als bedoeld in de DSC-Code, gebouwd voor 
 b. voor schepen, bestemd voor bijzondere doeleinden als bedoeld in de SPS-Code en de SPS-Code 2008, gebouwd voor 2 juli 2009: de voorschriften van de SPS-Code of de SPS-Code 2008;  
 
 c.voor schepen, bestemd voor bijzondere doeleinden als bedoeld in de SPS-Code 2008, gebouwd op of na 2 juli 2009: de voorschriften van de SPS-Code 2008.   
-2.  Indien ten aanzien van een schip is gekozen voor toepassing van een in het eerste lid genoemde Code, treden de in de desbetreffende Code voorgeschreven onderzoeken in de plaats van de in [artikel 14](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) of [15 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) bedoelde onderzoeken.  
+2.  Indien ten aanzien van een schip is gekozen voor toepassing van een in het eerste lid genoemde Code, treden de in de desbetreffende Code voorgeschreven onderzoeken in de plaats van de in artikel 14 of 15 van het besluit bedoelde onderzoeken.  
 
 ### Artikel  12a  
 
 ####Onderzoeken op grond van de LY2-Code
 
 1.  De eigenaar van een beroepsmatig gebruikt, zeegaand schip van minder dan 3000 GT met een loodlijnlengte van 24 meter of meer en dat ontworpen en gebouwd is en gebruikt wordt voor uitsluitend het vervoer van niet meer dan 12 passagiers kan ervoor kiezen om dat te schip te laten onderzoeken en certificeren met inachtneming van de LY2-Code, die als bijlage 2 bij deze regeling is gevoegd.   
-2.  Indien ten aanzien van een schip overeenkomstig het eerste lid is gekozen voor toepassing van de LY2-Code, strekken de in de [artikelen 13 tot en met 15 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) bedoelde onderzoeken er mede toe om na te gaan of aan de eisen van die Code is voldaan.  
+2.  Indien ten aanzien van een schip overeenkomstig het eerste lid is gekozen voor toepassing van de LY2-Code, strekken de in de artikelen 13 tot en met 15 van het besluit bedoelde onderzoeken er mede toe om na te gaan of aan de eisen van die Code is voldaan.  
 
 ### Artikel  12b  
 
 ####Onderzoeken op grond van CCSS-Code (CMOU)
 
-Treedt in werking per 01-07-2014 
-
 1.  De eigenaar van een vrachtschip, van minder dan 500 GT en met een lengte van 24 meter of meer, waarmee uitsluitend reizen worden ondernomen in de Caribische handelszone, kan er voor kiezen om dat schip te laten onderzoeken en certificeren met inachtneming van de voorschriften van de CCSS-Code.   
-2.  Indien ten aanzien van een vrachtschip is gekozen voor toepassing van de CCSS-Code, treden de in die Code voorgeschreven onderzoeken in de plaats van de in [artikel 15, eerste lid, van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) voorgeschreven onderzoeken.  
+2.  Indien ten aanzien van een vrachtschip is gekozen voor toepassing van de CCSS-Code, treden de in die Code voorgeschreven onderzoeken in de plaats van de in artikel 15, eerste lid, van het besluit voorgeschreven onderzoeken.  
 
 ### Artikel  12c  
 
 ####Onderzoeken van passagiersschepen op grond van SCV-Code (IMO)
 
-Treedt in werking per 01-07-2014 
-
 1.  De eigenaar van een passagiersschip met een lengte van minder dan 24 meter, waarmee uitsluitend reizen in de Caribische handelszone worden ondernomen, kan er voor kiezen om dat schip te laten onderzoeken en certificeren met inachtneming van de voorschriften van de SCV-Code.   
 2.  Het eerste lid is niet van toepassing op schepen, gebruikt voor het vervoer van meer dan 150 passagiers, en schepen met nachtaccommodatie voor meer dan 50 passagiers.   
-3.  Indien ten aanzien van een passagiersschip is gekozen voor toepassing van de SCV-Code, treden de in die Code voorgeschreven onderzoeken in de plaats van de in [artikel 14, eerste lid](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), of [15, eerste lid, van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) bedoelde onderzoeken.  
+3.  Indien ten aanzien van een passagiersschip is gekozen voor toepassing van de SCV-Code, treden de in die Code voorgeschreven onderzoeken in de plaats van de in artikel 14, eerste lid, of 15, eerste lid, van het besluit bedoelde onderzoeken.  
 
 ### Artikel  12d  
 
 ####Onderzoeken van vrachtschepen tot 24 m op grond van SCV-Code (IMO)
-
-Treedt in werking per 01-07-2014 
 
 Een vrachtschip waarvoor het certificaat van inspectie, behorend bij de SCV-Code, benodigd is, wordt ter verkrijging van dat certificaat en tijdens de geldigheidsduur daarvan onderworpen aan de in die Code voorgeschreven onderzoeken. 
 
@@ -337,16 +335,16 @@ e. een onderzoek nadat herstellingen en vernieuwingen aan een schip hebben plaat
 
 ####Uitvoering onderzoeken door erkende organisaties
 
-1.  De onderzoeken, bedoeld in de [artikelen 18](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) en [19 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), worden uitgevoerd door een daartoe krachtens artikel 23 van het besluit aangewezen organisatie naar keuze van de eigenaar.   
-2.  De onderzoeken waaraan een schip ingevolge de [artikelen 13](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), [14](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), [16](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) en [17 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) of de artikelen 11, 12 en 12a van deze regeling wordt onderworpen, worden voor schepen waarvoor een internationaal veiligheidscertificaat als bedoeld in de [artikelen 5, eerste lid, onderdeel a of b](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), of [7 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) benodigd is, uitgevoerd door een krachtens [artikel 23 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) aangewezen organisatie waar het schip is geklasseerd.   
-3.  De onderzoeken waaraan een schip, niet zijnde een schip als bedoeld in het tweede lid, ingevolge de [artikelen 13](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), [14](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), [15](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) of [17 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) of de artikelen 9a tot en met 12a van deze regeling wordt onderworpen, worden uitgevoerd door een krachtens [artikel 23 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) aangewezen organisatie waar het schip is geklasseerd of, indien het schip niet is geklasseerd, door ambtenaren van de Scheepvaartinspectie.   
-4.  Indien krachtens [artikel 23 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) voor bepaalde onderzoeken ook andere organisaties dan de in het tweede en derde lid bedoelde organisaties zijn aangewezen, mogen de desbetreffende onderzoeken in afwijking van het tweede en derde lid ook door deze andere organisaties worden uitgevoerd.  
+1.  De onderzoeken, bedoeld in de artikelen 18 en 19 van het besluit, worden uitgevoerd door een daartoe krachtens artikel 23 van het besluit aangewezen organisatie naar keuze van de eigenaar.   
+2.  De onderzoeken waaraan een schip ingevolge de artikelen 13, 14, 16 en 17 van het besluit of de artikelen 11, 12, 12a en 12c van deze regeling wordt onderworpen, worden voor schepen waarvoor een internationaal veiligheidscertificaat als bedoeld in de artikelen 5, eerste lid, onderdeel a of b, of 7 van het besluit benodigd is, uitgevoerd door een krachtens artikel 23 van het besluit aangewezen organisatie waar het schip is geklasseerd.   
+3.  De onderzoeken waaraan een schip, niet zijnde een schip als bedoeld in het tweede lid, ingevolge de artikelen 13, 14, 15 of 17 van het besluit of de artikelen 9a tot en met 12d van deze regeling wordt onderworpen, worden uitgevoerd door een krachtens artikel 23 van het besluit aangewezen organisatie waar het schip is geklasseerd of, indien het schip niet is geklasseerd, door ambtenaren van de Scheepvaartinspectie.   
+4.  Indien krachtens artikel 23 van het besluit voor bepaalde onderzoeken ook andere organisaties dan de in het tweede en derde lid bedoelde organisaties zijn aangewezen, mogen de desbetreffende onderzoeken in afwijking van het tweede en derde lid ook door deze andere organisaties worden uitgevoerd.  
 
 ### Artikel  16  
 
 ####Aantekening van onderzoeken
 
-Van de onderzoeken waaraan een schip ingevolge de artikelen 9a tot en met 12a en 13, derde lid, tijdens de geldigheidsduur van een certificaat wordt onderworpen, wordt door degene die het onderzoek heeft verricht, aantekening geplaatst op het certificaat. 
+Van de onderzoeken waaraan een schip ingevolge de artikelen 9a tot en met 12d en 13, derde lid, tijdens de geldigheidsduur van een certificaat wordt onderworpen, wordt door degene die het onderzoek heeft verricht, aantekening geplaatst op het certificaat. 
 
 ###§ 3 
 
@@ -357,15 +355,15 @@ Van de onderzoeken waaraan een schip ingevolge de artikelen 9a tot en met 12a en
 ####Certificaten voor passagiersschepen in nationale vaart (EU)
 
 1.  Het veiligheidscertificaat voor passagiersschepen, behorend bij richtlijn 2009/45/EG, heeft een geldigheidsduur van een jaar. Het certificaat mag, met inachtneming van hetgeen dienaangaande in artikel 13 van de richtlijn is bepaald, met ten hoogste een maand worden verlengd.   
-2.  De [artikelen 29, tweede lid](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), en [30, aanhef en onderdeel a, van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) zijn van overeenkomstige toepassing op certificaten als bedoeld in het eerste lid.  
+2.  De artikelen 29, tweede lid, en 30, aanhef en onderdeel a, van het besluit zijn van overeenkomstige toepassing op certificaten als bedoeld in het eerste lid.  
 
 ### Artikel  18  
 
-####Certificaten op grond van MODU-Codes, DSC-Code en SPS-Codes (IMO)
+####Certificaten op grond van bijzondere Codes en resoluties (IMO, CMOU, MCA)
 
-1.  De in artikel 6 bedoelde certificaten hebben, indien zij zijn afgegeven voor een passagiersschip, een geldigheidsduur van een jaar. De in artikel 5 bedoelde certificaten hebben, evenals de in artikel 6 bedoelde certificaten die zijn afgegeven voor vrachtschepen, een geldigheidsduur van vijf jaren.   
+1.  De in de artikelen 5, 5a tot en met 5e en 6 bedoelde certificaten hebben, indien zij zijn afgegeven voor een passagiersschip, een geldigheidsduur van een jaar. Indien zij zijn afgegeven voor een vrachtschip, hebben zij een geldigheidsduur van vijf jaren.   
 2.  De geldigheidsduur van een certificaat als bedoeld in artikel 7 is gelijk aan de geldigheidsduur van het internationale veiligheidscertificaat voor passagiersschepen waarmee het wordt gecombineerd.   
-3.  De [artikelen 29, tweede lid](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), [30](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) en [31 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) zijn van overeenkomstige toepassing op certificaten als bedoeld in het eerste lid.  
+3.  De artikelen 29, tweede lid, 30 en 31 van het besluit zijn van overeenkomstige toepassing op certificaten als bedoeld in het eerste lid.  
 
 ###Hoofdstuk 3 
 
@@ -382,12 +380,6 @@ Van de onderzoeken waaraan een schip ingevolge de artikelen 9a tot en met 12a en
 1.  Schepen als bedoeld in artikel 3a, eerste lid, onderdelen b en c, voldoen aan de eisen, bedoeld in paragraaf 1 onderscheidenlijk 2 van bijlage 3.   
 2.  In afwijking van het eerste lid behoeven schepen, bedoeld in artikel 3a, eerste lid, onderdeel c, en gebouwd voor de datum van inwerkingtreding van deze regeling tot 1 januari 2013 niet te voldoen aan de eisen, bedoeld in paragraaf 2, onderdeel b, van bijlage 3, mits voor de aan boord tewerkgestelde bijzondere opvarenden voldoende reddingmiddelen aanwezig zijn en radiocommunicatie met het begeleidende schip mogelijk is.  
 
-### Artikel  18b  
-
-####Eisen aan schepen, gecertificeerd onder de LY2-Code
-
-Indien ten aanzien van een schip overeenkomstig artikel 12a is gekozen voor toepassing van de LY2-Code voldoet dat schip aan de eisen van die Code. 
-
 ### Artikel  19  
 
 ####Eisen aan passagiersschepen in nationale vaart (EU)
@@ -399,10 +391,12 @@ Indien ten aanzien van een schip overeenkomstig artikel 12a is gekozen voor toep
 
 ### Artikel  20  
 
-####Eisen op grond van MODU-Codes, DSC-Code en SPS-Codes (IMO)
+####Eisen op grond van bijzondere Codes (IMO, CMOU, MCA)
 
-1.  Een schip waarvoor een certificaat, behorende bij de MODU-Code 1979, de MODU-Code 1989, de MODU-Code 2009, de DSC-Code, de SPS-Code of de SPS-Code 2008, benodigd is, voldoet aan de eisen van de desbetreffende Code.   
-2.  Indien in een Code als bedoeld in het eerste lid wordt verwezen naar het Uitwateringsverdrag of het SOLAS-verdrag, wordt dat verdrag toegepast met inachtneming van alle op grond van [artikel 71 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) toepasselijke wijzigingen van dat verdrag.  
+1.  Een schip waarvoor op grond van de artikelen 5 of 5e het certificaat, behorende bij de MODU-Code 1979, de MODU-Code 1989, de MODU-Code 2009 of de SCV-Code benodigd is, of ten aanzien waarvan op grond van de artikelen 5b, 5c, 5d of 6 voor toepassing van de LY2-Code, de CCSS-Code, de SCV-Code, de DSC-Code, de SPS-Code of de SPS-Code 2008 is gekozen, voldoet aan de eisen van de desbetreffende Code.   
+2.  Indien in een Code als bedoeld in het eerste lid wordt verwezen naar het Uitwateringsverdrag of het SOLAS-verdrag, wordt dat verdrag toegepast met inachtneming van alle op grond van artikel 71 van het besluit toepasselijke wijzigingen van dat verdrag.   
+3.  In afwijking van het eerste lid zijn op een Caribisch-Nederlands schip, gebouwd voor 1 juli 2014, de eisen van de CCSS-Code en de SCV-Code, voor zover het schip daaraan niet reeds voldoet, slechts van toepassing voorzover dat praktisch uitvoerbaar en redelijk is.   
+4.  Voor Caribisch-Nederlandse schepen is artikel 37 van het besluit slechts van toepassing voorzover dat praktisch uitvoerbaar en redelijk is. 
 
 ### Artikel  21  
 
@@ -418,16 +412,17 @@ Indien ten aanzien van een schip overeenkomstig artikel 12a is gekozen voor toep
 1.  Op een schip, gebouwd voor 1 juli 2010, zijn de op dat schip toepasselijke stabiliteitseisen in onbeschadigde toestand van de IS-Code van overeenkomstige toepassing.   
 2.  Het eerste lid is niet van toepassing op passagiersschepen waarvoor het veiligheidscertificaat voor passagiersschepen, behorend bij richtlijn 2009/45/EG, benodigd is, en op vrachtschepen met een lengte van minder dan 12 meter waarvoor geen certificaat benodigd is.   
 3.  Ro-ro-passagiersschepen waarvoor een certificaat als bedoeld in artikel 8 van richtlijn 2003/25/EG benodigd is, voldoen tevens aan de ingevolge de artikelen 6 en 7 van die richtlijn toepasselijke stabiliteitseisen voor schepen in beschadigde toestand.   
-4.  Op schepen als bedoeld in artikel 3a, eerste lid, onderdelen b en c, met een lengte van minder dan 24 meter, gebouwd op of na 1 juli 2010, zijn de op die schepen toepasselijke stabiliteitseisen voor schepen in onbeschadigde toestand van de IS-Code 2008 van overeenkomstige toepassing. 
+4.  Op schepen als bedoeld in artikel 3a, eerste lid, onderdelen b en c, met een lengte van minder dan 24 meter, gebouwd op of na 1 juli 2010, zijn de op die schepen toepasselijke stabiliteitseisen voor schepen in onbeschadigde toestand van de IS-Code 2008 van overeenkomstige toepassing.  
+5.  Dit artikel is niet van toepassing op schepen die overeenkomstig de SCV-Code of de CCSS-Code zijn gecertificeerd. 
 
 ### Artikel  23  
 
 ####Nadere regels betreffende werktuiglijke en elektrische installaties
 
-1.  De elektrische installaties aan boord van een schip voldoen aan de normen in Publicatie 92 (Elektrische installaties aan boord van schepen) van de Internationale Elektrotechnische Commissie of daaraan gelijkwaardige normen van een krachtens [artikel 36 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) aangewezen klassenbureau.   
+1.  De elektrische installaties aan boord van een schip voldoen aan de normen in Publicatie 92 (Elektrische installaties aan boord van schepen) van de Internationale Elektrotechnische Commissie of daaraan gelijkwaardige normen van een krachtens artikel 36 van het besluit aangewezen klassenbureau.   
 2.  De bouw en inrichting en het onderhoud van elektrische personenliften voldoen aan: 
 
-a. de regels van een krachtens [artikel 36 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) aangewezen klassenbureau, of:  
+a. de regels van een krachtens artikel 36 van het besluit aangewezen klassenbureau, of:  
 
 b. de door het Nederlands Normalisatie-Instituut te Delft uitgegeven norm NEN 28 383.     
 3.  In aanvulling op voorschrift II-1/42.2, onderscheidenlijk II-1/43.2, van het SOLAS-verdrag is de aan boord van een schip aanwezige elektrische noodkrachtbron tevens in staat om gedurende ten minste 36 uur, indien het een passagiersschip betreft, en ten minste 18 uur, indien het een vrachtschip betreft, stroom te leveren ten behoeve van de noodverlichting in kombuizen, eetzalen en andere ruimten voor algemeen gebruik.   
@@ -435,7 +430,8 @@ b. de door het Nederlands Normalisatie-Instituut te Delft uitgegeven norm NEN 28
 5.  Aan boord van een schip worden de in resolutie A.468(XII) van de Algemene Vergadering van de IMO voorgeschreven maatregelen ter beperking van geluidhinder getroffen (Code on noise levels on board ships).   
 6.  Indien een acetyleen las- en snij-installatie, bestaande uit acetyleen- en zuurstofflessen met inbegrip van de ruimte voor opslag, distributieleidingen, slangen en appandages aan boord van een schip is, is deze installatie periodiek gekeurd, goed onderhouden, zodanig opgesteld en ingericht dat het risico van brand of explosie bij zowel een in gebruik zijnde als buiten gebruik zijnde installatie tot een minimum is teruggebracht.   
 7.  Indien een elektrisch lastoestel met bijbehorende apparatuur aan boord van een schip is, is dit toestel periodiek gekeurd, goed onderhouden en zodanig ingericht dat deze geen gevaar voor personen of voor de omgeving kan opleveren met inachtneming van de bijzondere omstandigheden aan boord.  
-8.  Aan boord van een schip worden de werkzaamheden met acetyleen las- en snij-installaties en elektrische lastoestellen zodanig uitgevoerd dat deze geen gevaar voor personen of voor de omgeving kunnen opleveren met inachtneming van de bijzondere omstandigheden aan boord. 
+8.  Aan boord van een schip worden de werkzaamheden met acetyleen las- en snij-installaties en elektrische lastoestellen zodanig uitgevoerd dat deze geen gevaar voor personen of voor de omgeving kunnen opleveren met inachtneming van de bijzondere omstandigheden aan boord.  
+9.  Het eerste, derde en vierde lid zijn niet van toepassing op schepen die overeenkomstig de CCSS-Code of de SCV-Code zijn gecertificeerd. 
 
 ### Artikel  24  
 
@@ -443,7 +439,8 @@ b. de door het Nederlands Normalisatie-Instituut te Delft uitgegeven norm NEN 28
 
 1.  De voorschriften V/19.2.3.1 en V/19.2.3.4 van het SOLAS-verdrag zijn van overeenkomstige toepassing op vrachtschepen van minder dan 300 GT.   
 2.  Voorschrift V/19.2.5.4 van het SOLAS-verdrag is van overeenkomstige toepassing op schepen van minder dan 500 GT, met uitzondering van passagiersschepen waarvoor het veiligheidscertificaat voor passagiersschepen, behorend bij richtlijn 2009/45/EG, benodigd is.   
-3.  Indien een vrachtschip met een lengte van 24 meter of meer of een passagiersschip op of na 1 juli 2009 maar voor 1 juli 2011 is uitgerust met een wachtalarminstallatie op de brug, voldoet deze aan de eisen van resolutie MSC.128(75) van de Maritieme Veiligheidscommissie van de IMO, inhoudende uitvoeringsnormen betreffende de wachtalarminstallatie op de brug (Performance standards for a bridge navigational watch alarm system (BNWAS)). 
+3.  Indien een vrachtschip met een lengte van 24 meter of meer of een passagiersschip op of na 1 juli 2009 maar voor 1 juli 2011 is uitgerust met een wachtalarminstallatie op de brug, voldoet deze aan de eisen van resolutie MSC.128(75) van de Maritieme Veiligheidscommissie van de IMO, inhoudende uitvoeringsnormen betreffende de wachtalarminstallatie op de brug (Performance standards for a bridge navigational watch alarm system (BNWAS)).  
+4.  Het eerste en tweede lid zijn niet van toepassing op schepen die overeenkomstig de CCSS-Code of de SCV-Code zijn gecertificeerd. 
 
 ### Artikel  25  
 
@@ -452,27 +449,28 @@ b. de door het Nederlands Normalisatie-Instituut te Delft uitgegeven norm NEN 28
 1.  Aan boord van een schip is de in bijlage 5 bij deze regeling voorgeschreven medische uitrusting met de daarbij behorende handleidingen en controlelijsten aanwezig. De eigenaar van een schip draagt voor eigen rekening zorg voor de levering en de vernieuwing van de medische uitrusting.  
 2.  Aan boord van een schip waarmee gevaarlijke stoffen als bedoeld in hoofdstuk VII van het SOLAS-verdrag worden vervoerd, is een Nederlandstalige uitgave van de bij circulaire MSC/Circ.857 van de Maritieme Veiligheidscommissie van de IMO vastgestelde Medische Eerste Hulp Gids bij ongevallen met gevaarlijke stoffen (*Medical First Aid Guide for use in accidents involving dangerous goods; MFAG*) aanwezig.   
 3.  Aan boord van schepen waarop de in voorschrift V/14.3 van het SOLAS-verdrag bedoelde werktaal niet het Nederlands is, is in plaats van een Nederlandstalige uitgave een Engelstalige uitgave van de in het tweede lid bedoelde Gids aanwezig.   
-4.  Het eerste lid is eveneens van toepassing op vissersvaartuigen. 
+4.  Het eerste lid is eveneens van toepassing op vissersvaartuigen.  
+5.  In afwijking van het eerste lid is aan boord van schepen als bedoeld in de artikelen 5d, eerste en tweede lid, of 5e, eerste lid, waarmee wordt gevaren in kustwateren of beschutte wateren (*coastal* of *protected* waters), als bedoeld in voorschrift I/2.7 onderscheidenlijk I.2.42 van de SCV-Code, de in bijlage 8 bij die Code voorgeschreven medische uitrusting met de daarbij behorende handleiding aanwezig. 
 
 ### Artikel  26  
 
 ####Nadere regels in relatie tot benodigde certificaten
 
-1.  Een schip waarvoor een internationaal veiligheidscertificaat, een nationaal veiligheidscertificaat of een certificaat als bedoeld in artikel 5, 5a of 6 benodigd is, voldoet ter verkrijging van dat certificaat tevens aan de ingevolge de artikelen 21, 22, eerste lid, 23, 24 en 25 toepasselijke eisen.   
-2.  Een schip waarvoor een certificaat als bedoeld in artikel 5, 5a of 6 benodigd is, voldoet ter verkrijging van dat certificaat bovendien aan de ingevolge [artikel 40, derde lid, van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) toepasselijke eisen van hoofdstuk V van het SOLAS-verdrag.  
+1.  Een schip waarvoor een internationaal veiligheidscertificaat, een nationaal veiligheidscertificaat of een certificaat als bedoeld in artikel 5, 5a tot en met 5e of 6 benodigd is, voldoet ter verkrijging van dat certificaat tevens aan de ingevolge de artikelen 21, 22, eerste lid, 23, 24 en 25 toepasselijke eisen.   
+2.  Een schip waarvoor een certificaat als bedoeld in artikel 5, 5a tot en met 5e of 6 benodigd is, voldoet ter verkrijging van dat certificaat bovendien aan de ingevolge artikel 40, derde lid, van het besluit toepasselijke eisen van hoofdstuk V van het SOLAS-verdrag.  
 
 ### Artikel  27  
 
 ####Gelijkwaardige voorzieningen
 
-Het Hoofd van de Scheepvaartinspectie kan, met inachtneming van hetgeen dienaangaande in de op grond van deze regeling toepasselijke Europese richtlijnen of IMO-resoluties is bepaald, afwijking toestaan van de in de artikelen 18a tot en met 24 bedoelde eisen, indien aan boord van het schip een voorziening wordt getroffen die naar zijn oordeel ten minste gelijkwaardig is aan de in het voorschrift waarvan wordt afgeweken, geëiste voorziening. 
+Het Hoofd van de Scheepvaartinspectie kan, met inachtneming van hetgeen dienaangaande in de op grond van deze regeling toepasselijke Europese richtlijnen, Codes, resoluties en circulaires is bepaald, afwijking toestaan van de in de artikelen 18a tot en met 24 bedoelde eisen, indien aan boord van het schip een voorziening wordt getroffen die naar zijn oordeel ten minste gelijkwaardig is aan de in het voorschrift waarvan wordt afgeweken, geëiste voorziening. 
 
-###Artikel 28 
+### Artikel  28  
 
 ####Wederzijdse erkenning
 
-1. Dit artikel is van toepassing op schepen die vanuit een scheepsregister in een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte, zijn overgeschreven naar een Nederlands scheepsregister.
-2. Met de in de artikelen 20, 21, 22, eerste lid, 23 en 24 bedoelde technische normen of technische eisen worden gelijkgesteld daaraan gelijkwaardige technische normen of technische eisen, vastgesteld door of vanwege een andere lidstaat van de Europese Unie of een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
+1.  Dit artikel is van toepassing op schepen die vanuit een scheepsregister in een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte, zijn overgeschreven naar een register in het Europese deel van Nederland.   
+2.  Met de in de artikelen 20, 21, 22, eerste lid, 23 en 24 bedoelde technische normen of technische eisen worden gelijkgesteld daaraan gelijkwaardige technische normen of technische eisen, vastgesteld door of vanwege een andere lidstaat van de Europese Unie of een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.  
 
 ###§ 2 
 
@@ -484,36 +482,39 @@ Het Hoofd van de Scheepvaartinspectie kan, met inachtneming van hetgeen dienaang
 
 1. De veiligheidscommissie aan boord van een schip met een bemanning van meer dan vijftien personen bestaat uit ten minste twee bevaren schepelingen. In de commissie zijn zowel de scheepsofficieren als de scheepsgezellen vertegenwoordigd.
 2. Aan boord van een schip met een bemanning van ten hoogste vijftien personen wordt ten minste één veiligheidscommissaris benoemd.
-3. De verplichting, bedoeld in [artikel 26e, eerste lid, van de Schepenwet](../../../../../rijkswet/schepenwet/BWBR0001876/README.md), geldt niet voor vissersvaartuigen en schepen met een bemanning van minder dan vijf personen.
+3. De verplichting, bedoeld in artikel 26e, eerste lid, van de Schepenwet, geldt niet voor vissersvaartuigen en schepen met een bemanning van minder dan vijf personen.
 
-###Artikel 30 
+### Artikel  30  
 
 ####Registratie van opvarenden aan boord van passagiersschepen (EU)
 
-1. De eigenaar van een passagiersschip voorziet in een systeem voor de registratie van passagiersgegevens, dat voldoet aan richtlijn 98/41/EG.
-2. Voorts draagt de eigenaar zorg voor de aanstelling van een passagiersregistratiebeambte als bedoeld in artikel 2 van richtlijn 98/41/EG, die is belast met de in artikel 8 van die richtlijn genoemde taken.
-3. De eigenaar draagt er zorg voor dat de passagiersgegevens te allen tijde onmiddellijk beschikbaar zijn om aan de aangewezen instantie te worden doorgegeven voor opsporings- en reddingsoperaties in een noodgeval of na een ongeluk.
-4. De eigenaar draagt er tevens zorg voor dat nadere gegevens over personen die hebben verklaard in noodsituaties speciale zorg of bijstand nodig te hebben, naar behoren worden geregistreerd en aan de kapitein worden doorgegeven voordat het passagiersschip vertrekt.
-5. Persoonsgegevens van passagiers worden niet langer bewaard dan noodzakelijk is in verband met opsporings- en reddingsactiviteiten.
+1.  De eigenaar van een passagiersschip voorziet in een systeem voor de registratie van passagiersgegevens, dat voldoet aan richtlijn 98/41/EG.   
+2.  Voorts draagt de eigenaar zorg voor de aanstelling van een passagiersregistratiebeambte als bedoeld in artikel 2 van richtlijn 98/41/EG, die is belast met de in artikel 8 van die richtlijn genoemde taken.   
+3.  De eigenaar draagt er zorg voor dat de passagiersgegevens te allen tijde onmiddellijk beschikbaar zijn om aan de aangewezen instantie te worden doorgegeven voor opsporings- en reddingsoperaties in een noodgeval of na een ongeluk.   
+4.  De eigenaar draagt er tevens zorg voor dat nadere gegevens over personen die hebben verklaard in noodsituaties speciale zorg of bijstand nodig te hebben, naar behoren worden geregistreerd en aan de kapitein worden doorgegeven voordat het passagiersschip vertrekt.   
+5.  Persoonsgegevens van passagiers worden niet langer bewaard dan noodzakelijk is in verband met opsporings- en reddingsactiviteiten.   
+6.  Dit artikel is niet van toepassing op schepen die overeenkomstig de SCV-Code zijn gecertificeerd. 
 
 ### Artikel  31  
 
 ####Nadere regels betreffende de beveiliging van schepen (SOLAS, EU)
 
-1.  De nationale instantie waartoe de in voorschrift XI-2/6.2.1 van het SOLAS-verdrag bedoelde, door het Ship Security Alert System gegenereerde alarmmeldingen kunnen worden gericht, is het Kustwachtcentrum te Den Helder.   
+1.  De nationale instantie waartoe de in voorschrift XI-2/6.2.1 van het SOLAS-verdrag bedoelde, door het Ship Security Alert System gegenereerde alarmmeldingen kunnen worden gericht, is, voor zover het het Europese deel van Nederland betreft, het Kustwachtcentrum te Den Helder, en voor zover het het Caribische deel van Nederland betreft, de Kustwacht voor het Koninkrijk der Nederlanden in het Caribisch Gebied.   
 2.  Toepassing van de ISPS-Code geschiedt met inachtneming van de ingevolge artikel 3, vijfde lid, van verordening (EG) 725/2004 verplichte bepalingen van deel B van die Code.   
-3.  Beveiligingsverklaringen als bedoeld in voorschrift XI-2/1.15 van het SOLAS-verdrag worden minimaal 3 maanden bewaard, of zoveel langer als nodig is om aan voorschrift XI-2/9.2.3 van dat verdrag te voldoen. De minimumtermijn voor het bewaren van de in voorschrift A/10.1 van de ISPS-Code bedoelde documentatie bedraagt drie jaren.  
+3.  Beveiligingsverklaringen als bedoeld in voorschrift XI-2/1.15 van het SOLAS-verdrag worden minimaal 3 maanden bewaard, of zoveel langer als nodig is om aan voorschrift XI-2/9.2.3 van dat verdrag te voldoen. De minimumtermijn voor het bewaren van de in voorschrift A/10.1 van de ISPS-Code bedoelde documentatie bedraagt drie jaren.   
+4.  Het tweede lid is niet van toepassing op schepen die overeenkomstig de CCSS-Code of de SCV-Code zijn gecertificeerd. 
 
 ### §  3  
 
 ####Toelatingseisen voor scheepsuitrusting
 
-###Artikel 32 
+### Artikel  32  
 
 ####Toepassingsbereik
 
-1. Deze paragraaf is van toepassing op uitrusting waarvoor bij plaatsing aan boord van een schip, gelet op de op dat schip toepasselijke eisen, een typegoedkeuring is vereist.
-2. Onder uitrusting waarvoor een typegoedkeuring is vereist, wordt mede verstaan uitrusting als bedoeld in voorschrift V/18.7 van het SOLAS-verdrag.
+1.  Deze paragraaf is van toepassing op uitrusting waarvoor bij plaatsing aan boord van een schip, gelet op de op dat schip toepasselijke eisen, een typegoedkeuring is vereist.   
+2.  Onder uitrusting waarvoor een typegoedkeuring is vereist, wordt mede verstaan uitrusting als bedoeld in voorschrift V/18.7 van het SOLAS-verdrag.   
+3.  Deze paragraaf is met uitzondering van artikel 34a niet van toepassing op Caribisch-Nederlandse schepen. 
 
 ###Artikel 33 
 
@@ -523,7 +524,7 @@ Het Hoofd van de Scheepvaartinspectie kan, met inachtneming van hetgeen dienaang
 
 a.is voorzien van het in bijlage D van richtlijn 96/98/EG weergegeven merk van overeenstemming, of
 
-b.vergezeld gaat van een certificaat van gelijkwaardigheid of een certificaat ten behoeve van beproeving als bedoeld in de [artikelen 20](../../../../../wet/wet/scheepsuitrusting/BWBR0011301/README.md) en [21 van de Wet scheepsuitrusting](../../../../../wet/wet/scheepsuitrusting/BWBR0011301/README.md).
+b.vergezeld gaat van een certificaat van gelijkwaardigheid of een certificaat ten behoeve van beproeving als bedoeld in de artikelen 20 en 21 van de Wet scheepsuitrusting.
 2. Gebruik van uitrusting waarvoor een certificaat van gelijkwaardigheid of een certificaat ten behoeve van beproeving is afgegeven, is slechts toegestaan met inachtneming van de aan het desbetreffende certificaat verbonden voorschriften of beperkingen.
 3. Indien een schip zich in een haven buiten de Europese Unie bevindt en het vanuit het oogpunt van tijd, vertraging en kosten redelijkerwijs niet uitvoerbaar is om uitrusting aan boord te plaatsen waarvoor overeenkomstig richtlijn 96/98/EG een EG-typegoedkeuring is verleend, mogen noodzakelijke vervangingen van uitrusting in afwijking van het eerste lid geschieden door het aan boord plaatsen van niet overeenkomstig richtlijn 96/98/EG goedgekeurde uitrusting, mits daarbij wordt voldaan aan de in artikel 16, eerste en tweede lid, van die richtlijn genoemde voorwaarden.
 
@@ -532,14 +533,12 @@ b.vergezeld gaat van een certificaat van gelijkwaardigheid of een certificaat te
 ####Nationale typegoedkeuringen voor scheepsuitrusting
 
 1. Uitrusting, niet zijnde uitrusting als bedoeld in bijlage A.1 van richtlijn 96/98/EG, is van een door het Hoofd van de Scheepvaartinspectie goedgekeurd type.
-2. Het Hoofd van de Scheepvaartinspectie kan in afwijking van artikel 33 toestaan dat aan boord van bepaalde categorieën schepen, niet zijnde schepen waarvoor een internationaal veiligheidscertificaat als bedoeld in [artikel 5 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) benodigd is, uitrusting wordt geplaatst die niet aan de prestatie- en beproevingsnormen uit bijlage A.1 van richtlijn 96/98/EG voldoet, en voor die uitrusting een typegoedkeuring verlenen, mits zulks zonder gevaar voor die schepen en hun opvarenden mogelijk is.
+2. Het Hoofd van de Scheepvaartinspectie kan in afwijking van artikel 33 toestaan dat aan boord van bepaalde categorieën schepen, niet zijnde schepen waarvoor een internationaal veiligheidscertificaat als bedoeld in artikel 5 van het besluit benodigd is, uitrusting wordt geplaatst die niet aan de prestatie- en beproevingsnormen uit bijlage A.1 van richtlijn 96/98/EG voldoet, en voor die uitrusting een typegoedkeuring verlenen, mits zulks zonder gevaar voor die schepen en hun opvarenden mogelijk is.
 3. Aan een typegoedkeuring als bedoeld in het eerste of tweede lid kunnen beperkingen met betrekking tot het gebruik van de desbetreffende uitrusting worden verbonden.
 
 ### Artikel  34a  
 
 ####Typegoedkeuringen voor scheepsuitrusting op Caribisch-Nederlandse schepen
-
-Treedt in werking per 01-07-2014 
 
 1.  Uitrusting waarvoor bij plaatsing aan boord van een Caribisch-Nederlands schip, gelet op de op dat schip toepasselijk eisen, een typegoedkeuring vereist is, is van een door het Hoofd van de Scheepvaartinspectie goedgekeurd type.   
 2.  Onder uitrusting waarvoor een typegoedkeuring vereist is, wordt mede verstaan uitrusting als bedoeld in voorschrift V/18.7 van het SOLAS-verdrag.   
@@ -566,8 +565,8 @@ Met een door het Hoofd van de Scheepvaartinspectie verleende typegoedkeuring wor
 
 ####Vrijwaringsclausule
 
-1. Indien ten aanzien van uitrusting die is voorzien van het merk van overeenstemming, bedoeld in bijlage D van richtlijn 96/98/EG, toepassing is gegeven aan [artikel 23, eerste lid, van de Wet scheepsuitrusting](../../../../../wet/wet/scheepsuitrusting/BWBR0011301/README.md), neemt het Hoofd van de Scheepvaartinspectie passende voorlopige maatregelen om te voorkomen dat die uitrusting aan boord van schepen wordt geplaatst of gebruikt. Zonodig verbiedt hij de plaatsing of het gebruik aan boord van schepen.
-2. [Artikel 23, tweede lid, van de Wet scheepsuitrusting](../../../../../wet/wet/scheepsuitrusting/BWBR0011301/README.md) is van overeenkomstige toepassing.
+1. Indien ten aanzien van uitrusting die is voorzien van het merk van overeenstemming, bedoeld in bijlage D van richtlijn 96/98/EG, toepassing is gegeven aan artikel 23, eerste lid, van de Wet scheepsuitrusting, neemt het Hoofd van de Scheepvaartinspectie passende voorlopige maatregelen om te voorkomen dat die uitrusting aan boord van schepen wordt geplaatst of gebruikt. Zonodig verbiedt hij de plaatsing of het gebruik aan boord van schepen.
+2. Artikel 23, tweede lid, van de Wet scheepsuitrusting is van overeenkomstige toepassing.
 
 ### §  4  
 
@@ -626,29 +625,25 @@ c. met betrekking tot Hoofdstuk III:
 
 ### Artikel  39  
 
-####Vrijstellingen op grond van MODU-Codes, DSC-Code en SPS-Codes (IMO)
+####Vrijstellingen op grond van bijzondere Codes (IMO, CMOU, MCA)
 
-Schepen waarvoor een internationaal veiligheidscertificaat als bedoeld in [artikel 5, eerste lid, onderdeel a of b, van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) benodigd is, zijn vrijgesteld van: 
+Schepen waarvoor een internationaal veiligheidscertificaat als bedoeld in artikel 5, eerste lid, onderdeel a of b, van het besluit benodigd is, zijn vrijgesteld van: 
 
 a. indien zij voldoen aan de MODU-Code 1979, de MODU-Code 1989, de MODU-Code 2009 of de DSC-Code: de in de hoofdstukken II-1, II-2, III en IV van het SOLAS-verdrag opgenomen eisen;  
 
-b. indien zij voldoen aan de SPS-Code of de SPS-Code 2008: de in de SPS-Code onderscheidenlijk de SPS-Code 2008 aangegeven eisen van het SOLAS-verdrag.   
+b. indien zij voldoen aan de SPS-Code of de SPS-Code 2008: de in de SPS-Code onderscheidenlijk de SPS-Code 2008 aangegeven eisen van het SOLAS-verdrag;  
 
-### Artikel  39a  
-
-####Vrijstellingen op grond van LY2-Code
-
-Schepen van 500 GT of meer ten aanzien waarvan op grond van artikel 12a is gekozen voor de toepassing van de LY2-Code zijn vrijgesteld van de in de hoofdstukken II-1, II-2, III en IV van het SOLAS-verdrag opgenomen eisen, mits zij voldoen aan de LY2-Code. 
+c. indien zij voldoen aan de LY2-Code of de SCV-Code: de in het SOLAS-verdrag opgenomen eisen.  
 
 ### Artikel  40  
 
 ####Sportvissersvaartuigen
 
-1.  Schepen die bedrijfsmatig worden gebruikt voor recreatieve visserij met meer dan 12 passagiers, zijn, indien zij op 17 augustus 2000 waren voorzien van een op grond van het [Schepenbesluit 1965](../../../../../rijksKB/schepenbesluit/1965/BWBR0002501/README.md) afgegeven geldig certificaat van deugdelijkheid, bij het ondernemen van nationale reizen vrijgesteld van: 
+1.  Schepen die bedrijfsmatig worden gebruikt voor recreatieve visserij met meer dan 12 passagiers, zijn, indien zij op 17 augustus 2000 waren voorzien van een op grond van het Schepenbesluit 1965 afgegeven geldig certificaat van deugdelijkheid, bij het ondernemen van nationale reizen vrijgesteld van: 
 
 a. de stabiliteitseisen voor schepen in beschadigde toestand, opgenomen in hoofdstuk II-1, deel B, van de bijlage bij richtlijn 2009/45/EG, mits ten minste wordt voldaan aan de stabiliteitseisen voor schepen in onbeschadigde toestand, opgenomen in de IS-Code;  
 
-b. de eisen inzake constructieve brandbescherming, opgenomen in hoofdstuk II-2 van de bijlage bij richtlijn 2009/45/EG, mits is voldaan aan de voorwaarde dat in elk geval de verblijven voor passagiers voldoen aan de eisen inzake constructieve brandbescherming voor vrachtschepen uit [bijlage IV van het Schepenbesluit 1965](../../../../../rijksKB/schepenbesluit/1965/BWBR0002501/README.md), zoals die luidden op 31 december 2004, of aan de voorwaarde dat de vluchtwegen uit die verblijven naar het open dek voldoende breed zijn en korter dan vijf meter.     
+b. de eisen inzake constructieve brandbescherming, opgenomen in hoofdstuk II-2 van de bijlage bij richtlijn 2009/45/EG, mits is voldaan aan de voorwaarde dat in elk geval de verblijven voor passagiers voldoen aan de eisen inzake constructieve brandbescherming voor vrachtschepen uit bijlage IV van het Schepenbesluit 1965, zoals die luidden op 31 december 2004, of aan de voorwaarde dat de vluchtwegen uit die verblijven naar het open dek voldoende breed zijn en korter dan vijf meter.     
 2.  Aan de in het eerste lid bedoelde vrijstelling zijn de navolgende beperkingen verbonden: 
 
 a. de vrijstelling geldt uitsluitend voor reizen in een vaargebied van maximaal 35 mijl uit de Nederlandse kust;  
@@ -666,7 +661,7 @@ a. de eisen van hoofdstuk V van het SOLAS-verdrag, met uitzondering van voorschr
 
 b. de eisen van artikel 24, en  
 
-c. indien van toepassing: [artikel 41, eerste lid, van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md).   
+c. indien van toepassing: artikel 41, eerste lid, van het besluit.   
 
 ### Artikel  41a  
 
@@ -678,9 +673,7 @@ Wachtalarminstallaties op de brug, die voor 1 juli 2009 zijn geplaatst, zijn vri
 
 ####Vaart rond de eilanden van Caribisch-Nederland
 
-Treedt in werking per 01-07-2014 
-
-1.  Caribisch-Nederlandse schepen die niet buiten de gebiedsbegrenzingen, bedoeld in het tweede lid, worden gebracht zijn vrijgesteld van de bepalingen van de [hoofdstukken 3 tot en met 5 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) en hoofdstuk 3 van deze regeling, mits voldaan wordt aan de eisen, bedoeld in bijlage 6.   
+1.  Caribisch-Nederlandse schepen die niet buiten de gebiedsbegrenzingen, bedoeld in het tweede lid, worden gebracht zijn vrijgesteld van de bepalingen van de hoofdstukken 3 tot en met 5 van het besluit en hoofdstuk 3 van deze regeling, mits voldaan wordt aan de eisen, bedoeld in bijlage 6.   
 2.  De gebiedsbegrenzingen, bedoeld in het eerste lid zijn: 
 
 a. voor Bonaire: het gebied, begrensd door de lijnen gaande van de meest oostelijke punt van Bonaire (68-12'W) in de richting zuid tot de parallel van 12-00' noorderbreedte, vandaar in de richting west tot de meridiaan van 68-17' westerlengte, vandaar in de richting 327 naar een punt op 12-15' noorderbreedte en 68-27' westerlengte, vandaar in de richting 022 naar een punt op 12-20' noorderbreedte en 68-25' westerlengte en vandaar in de richting van de vuurtoren Seroe Ventana.  
@@ -756,9 +749,9 @@ De kapitein van een passagiersschip waarvoor het veiligheidscertificaat voor pas
 
 ### Artikel  48  
 
-####Voorschriften voor bijzondere scheepstypen (IMO)
+####Voorschriften voor bijzondere scheepstypen (IMO, CMOU, MCA)
 
-De kapitein van een schip waarvoor een certificaat, behorende bij de MODU-Code 1979, de MODU-Code 1989, de MODU-Code 2009, de DSC-Code, de SPS-Code of de SPS-Code 2008, benodigd is, draagt er zorg voor dat aan boord van het schip de in de desbetreffende Code opgenomen voorschriften en verplichtingen worden nageleefd. 
+De kapitein van een schip waarvoor op grond van artikel 5e of 6 het certificaat, behorende bij de SCV-Code, de MODU-Code 1979, de MODU-Code 1989, of de MODU-Code 2009 benodigd is, of ten aanzien waarvan op grond van artikel 12, 12a, 12b of 12c gekozen is voor toepassing van de DSC-Code, de SPS-Code, de SPS-Code 2008, de LY2-Code, de CCSS-Code of de SCV-Code, draagt ervoor zorg dat aan boord van het schip de in de desbetreffende Code opgenomen voorschriften en verplichtingen worden nageleefd. 
 
 ### Artikel  49  
 
@@ -769,22 +762,23 @@ De kapitein van een schip waarvoor een certificaat, behorende bij de MODU-Code 1
 3.  De kapitein inspecteert jaarlijks, met inachtneming van hetgeen dienaangaande in bijlage 5 bij deze regeling is bepaald, de aan boord van het schip aanwezige medische uitrusting.  
 4.  Dit artikel is eveneens van toepassing op vissersvaartuigen, met dien verstande dat de in het eerste tot en met derde lid bedoelde verplichtingen in dat geval op de schipper van het vaartuig rusten.  
 
-###Artikel 50 
+### Artikel  50  
 
 ####Aantal en persoonsgegevens opvarenden (EU)
 
-1. De kapitein van een passagiersschip draagt er zorg voor dat het aantal opvarenden van het schip voor het vertrek uit de haven wordt geteld, en dat dit aantal zowel aan hem als aan de in artikel 30 bedoelde passagiersregistratiebeambte of het in dat artikel bedoelde passagiersregistratiesysteem wordt medegedeeld.
-2. De kapitein van een passagiersschip waarmee een reis van meer dan 20 zeemijlen vanaf de plaats van vertrek wordt ondernomen, draagt er tevens zorg voor dat voor het vertrek de navolgende gegevens worden verzameld en uiterlijk 30 minuten na het vertrek aan de passagiersregistratiebeambte of aan het passagiersregistratiesysteem worden doorgegeven:
+1.  De kapitein van een passagiersschip draagt er zorg voor dat het aantal opvarenden van het schip voor het vertrek uit de haven wordt geteld, en dat dit aantal zowel aan hem als aan de in artikel 30 bedoelde passagiersregistratiebeambte of het in dat artikel bedoelde passagiersregistratiesysteem wordt medegedeeld.   
+2.  De kapitein van een passagiersschip waarmee een reis van meer dan 20 zeemijlen vanaf de plaats van vertrek wordt ondernomen, draagt er tevens zorg voor dat voor het vertrek de navolgende gegevens worden verzameld en uiterlijk 30 minuten na het vertrek aan de passagiersregistratiebeambte of aan het passagiersregistratiesysteem worden doorgegeven: 
 
-a.de achternamen van de opvarenden;
+a. de achternamen van de opvarenden;  
 
-b.de voornamen of de initialen;
+b. de voornamen of de initialen;  
 
-c.het geslacht;
+c. het geslacht;  
 
-d.de leeftijdscategorie (volwassene, kind of zuigeling) waartoe de persoon behoort, dan wel leeftijd of geboortejaar;
+d. de leeftijdscategorie (volwassene, kind of zuigeling) waartoe de persoon behoort, dan wel leeftijd of geboortejaar;  
 
-e.door passagiers op eigen initiatief verstrekte informatie in verband met behoefte aan speciale zorg of bijstand in noodsituaties.
+e. door passagiers op eigen initiatief verstrekte informatie in verband met behoefte aan speciale zorg of bijstand in noodsituaties.     
+3.  Dit artikel is niet van toepassing op schepen die overeenkomstig de SCV-Code zijn gecertificeerd. 
 
 ###Artikel 51 
 
@@ -821,7 +815,7 @@ Schepen waarmee geregeld korte reizen als bedoeld in voorschrift III/3.22 van he
 ####Niet-werktuiglijk voortbewogen schepen
 
 1. Schepen die niet zijn voorzien van middelen tot werktuiglijke voortstuwing, zijn vrijgesteld van de voorschriften V/26 tot en met V/28 van het SOLAS-verdrag.
-2. De [artikelen 64 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) en 52 van deze regeling zijn niet van toepassing op schepen als bedoeld in het eerste lid.
+2. De artikelen 64 van het besluit en 52 van deze regeling zijn niet van toepassing op schepen als bedoeld in het eerste lid.
 
 ###Hoofdstuk 6 
 
@@ -831,23 +825,23 @@ Schepen waarmee geregeld korte reizen als bedoeld in voorschrift III/3.22 van he
 
 ####Toepassingsbereik
 
-1. Dit hoofdstuk is van toepassing op buitenlandse schepen als bedoeld in de [Wet buitenlandse schepen](../../../../../wet/wet/buitenlandse/schepen/BWBR0016993/README.md).
-2. Voor de toepassing van dit hoofdstuk wordt onder ‘buitenlandse schepen’ mede verstaan: daarmee op grond van de [Wet buitenlandse schepen](../../../../../wet/wet/buitenlandse/schepen/BWBR0016993/README.md) gelijkgestelde schepen.
+1. Dit hoofdstuk is van toepassing op buitenlandse schepen als bedoeld in de Wet buitenlandse schepen.
+2. Voor de toepassing van dit hoofdstuk wordt onder ‘buitenlandse schepen’ mede verstaan: daarmee op grond van de Wet buitenlandse schepen gelijkgestelde schepen.
 
 ### Artikel  57  
 
 ####Voorschriften met betrekking tot buitenlandse schepen
 
-1.  [Artikel 9, aanhef en eerste lid, onderdeel a, en het tweede lid, van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) en de artikelen 4, eerste en tweede lid, 7, eerstelid, 7a, 9, 13, 19, 22, derde lid, 30, 47 en 50 zijn van overeenkomstige toepassing op buitenlandse schepen, voorzover met die schepen reizen worden ondernomen van of naar een Nederlandse haven, met dien verstande dat artikel 50 wordt toegepast met inachtneming van artikel 6, tweede lid, van richtlijn 98/41/EG.   
-2.  Voorts zijn op buitenlandse schepen de [artikelen 40, eerste en derde lid](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), en [61, eerste lid, van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) van overeenkomstige toepassing, voorzover die artikelen betrekking hebben op de voorschriften V/19.2.4 en V/20 van het SOLAS-verdrag.  
+1.  Artikel 9, aanhef en eerste lid, onderdeel a, en het tweede lid, van het besluit en de artikelen 4, eerste en tweede lid, 7, eerstelid, 7a, 9, 13, 19, 22, derde lid, 30, 47 en 50 zijn van overeenkomstige toepassing op buitenlandse schepen, voorzover met die schepen reizen worden ondernomen van of naar een haven in het Europese deel van Nederland, met dien verstande dat artikel 50 wordt toegepast met inachtneming van artikel 6, tweede lid, van richtlijn 98/41/EG.   
+2.  Voorts zijn op buitenlandse schepen de artikelen 40, eerste en derde lid, en 61, eerste lid, van het besluit van overeenkomstige toepassing, voorzover die artikelen betrekking hebben op de voorschriften V/19.2.4 en V/20 van het SOLAS-verdrag.  
 
 ### Artikel  58  
 
 ####Handhaving
 
-Een op grond van [artikel 5, eerste lid, van de Wet buitenlandse schepen](../../../../../wet/wet/buitenlandse/schepen/BWBR0016993/README.md) aangewezen toezichthouder is bevoegd een buitenlands schip aan te houden, indien: 
+Een op grond van artikel 5, eerste lid, van de Wet buitenlandse schepen aangewezen toezichthouder is bevoegd een buitenlands schip aan te houden, indien: 
 
-a. het schip niet is voorzien van een ingevolge [artikel 9, eerste lid, aanhef en onderdeel a, en het tweede lid, van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), artikel 4, eerste lid, 7, eerste lid of 7a benodigd certificaat;  
+a. het schip niet is voorzien van een ingevolge artikel 9, eerste lid, aanhef en onderdeel a, en het tweede lid, van het besluit, artikel 4, eerste lid, 7, eerste lid of 7a benodigd certificaat;  
 
 b. de controles en onderzoeken, bedoeld in artikel 13, niet tijdig hebben plaatsgevonden of indien uit die controles of onderzoeken is gebleken dat niet aan de voorschriften, bedoeld in richtlijn 1999/35/EG, wordt voldaan;  
 
@@ -865,81 +859,24 @@ Overtreding van de voorschriften, bedoeld in artikel 57, is een strafbaar feit.
 
 ####Schepen in de openbare lichamen Bonaire, Sint Eustatius en Saba 
 
-### Artikel  59a  
-
-1.  In dit hoofdstuk wordt verstaan onder ‘BES-schip’, onderscheidenlijk ‘BES-schepen’: een zeilschip, een werktuiglijk voortbewogen vaartuig kleiner dan 50 m<sup>3</sup> bruto inhoud, dat in de openbare lichamen Bonaire, Sint Eustatius of Saba thuishoort, of een werktuiglijk voortbewogen vaartuig dat gebruikt wordt voor de vaart tussen de landen en openbare lichamen van het Caraïbisch deel van het Koninkrijk, zeegaande jachten daaronder niet begrepen.   
-2.  Dit hoofdstuk is uitsluitend van toepassing op BES-schepen.  
-
-### Artikel  59b  
-
-BES-schepen zijn voorzien van een certificaat van deugdelijkheid. 
-
-### Artikel  59c  
-
-Een certificaat van deugdelijkheid wordt slechts afgegeven indien het BES-schip en uitrusting voldoen aan de volgende voorwaarden: 
-
-a. het BES-schip verkeert in zeewaardige toestand en is voorzien van de nodige hulpmiddelen bij de navigatie, waaronder zeekaarten, een goed bruikbaar kompas en middelen tot het geven van seinen, de nodige middelen ter voorkoming van aanvaring, waaronder deugdelijke navigatiemiddelen en middelen tot het geven van uitwijksignalen en een deugdelijke stuurinrichting;  
-
-b. voor elke opvarende is tenminste één goedgekeurd zwemvest, benevens kinderzwemvesten voor het aantal te vervoeren kinderen aan boord;  
-
-c. ieder BES-schip heeft tenminste twee reddingboeien aan boord waarvan één voorzien van een lijn met zelfontbrandend licht;  
-
-d. het BES-schip heeft, afhankelijk van de inrichting of lading, de nodige brandblusmiddelen aan boord;  
-
-e. indien het BES-schip werktuiglijk wordt voortbewogen is tenminste één goedgekeurd brandblusapparaat aan boord;  
-
-f. het BES-schip is uitgerust met goedwerkende middelen tot lenspompen van het schip;  
-
-g. het BES-schip is voorzien van de nodige uitrusting, waaronder voor zeilschepen voldoende bruikbare zeilen en touwwerk, alsmede de nodige materialen en gereedschappen voor reparatie;  
-
-h. indien het BES-schip werktuiglijk wordt voortbewogen zijn de nodige reserveonderdelen, materialen en gereedschappen voor het uitvoeren van eenvoudige reparaties aan boord;  
-
-i. de voortstuwingswerktuigen van het BES-schip zijn geen benzinemotoren.   
-
-### Artikel  59d  
-
-1.  Een BES-schip, uitgerust met een benzinemotor, heeft geen benzineproducten van dezelfde of meerdere gevarenklasse als lading aan boord.   
-2.  Een BES-schip uitgerust met een benzinemotor vervoert geen passagiers.   
-3.  Indien een schip benzine of producten van dezelfde of meerdere gevarenklasse als lading vervoert zijn er geen passagiers aan boord.  
-
-### Artikel  59e  
-
-De geldigheidsduur van het certificaat van deugdelijkheid bedraagt één jaar. 
-
-### Artikel  59f  
-
-Overtreding van de voorschriften, bedoeld in de artikelen 59b, 59c of 59d, is een strafbaar feit. 
-
-### Artikel  59g  
-
-BES-schepen die niet buiten de onderstaande gebiedsbegrenzingen worden gebracht zijn vrijgesteld van de verplichtingen van het besluit en deze regeling: 
-
-a. Bonaire: het gebied, begrensd door de lijnen gaande van de meest oostelijke punt van Bonaire (68-12'W) in de richting zuid tot de parallel van 12-00' noorderbreedte, vandaar in de richting west tot de meridiaan van 68-17' westerlengte, vandaar in de richting 327 naar een punt op 12-15' noorderbreedte en 68-27' westerlengte, vandaar in de richting 022 naar een punt op 12-20' noorderbreedte en 68-25' westerlengte en vandaar in de richting van de vuurtoren Seroe Ventana;  
-
-b. Sint Eustatius: het gebied, begrensd door de parallellen 17-27' en 17-33' noorderbreedte en de meridianen van 62-55' en 63-01' westerlengte;  
-
-c. Saba: het gebied, begrensd door de parallellen van 17-35' en 17-41' noorderbreedte en de meridiaan van 63-11' en 63-17' westerlengte.   
-
-### Artikel  59h  
-
-Certificaten van deugdelijkheid, afgegeven op grond van de Landsverordening veiligheidsvoorschriften voor kleine schepen (P.B. 191, no. 185, laatstelijk gewijzigd bij P.B. 1997, no. 251) gelden voor de duur, aangegeven op het betreffende certificaat, als een certificaat van deugdelijkheid als bedoeld in artikel 59b, onder toepassing van dit hoofdstuk. 
+Vervallen per 01-07-2014 
 
 ### Hoofdstuk  7  
 
 ####Slotbepalingen
 
-###Artikel 60 
+### Artikel  60  
 
 ####Bekendmaking van Codes e.d.
 
-Van de wijze van bekendmaking van de op grond van deze regeling toepasselijke Codes, resoluties en circulaires van de IMO wordt mededeling gedaan in de Staatscourant.
+Van de wijze van bekendmaking van de op grond van deze regeling toepasselijke Codes, resoluties en circulaires wordt mededeling gedaan in de Staatscourant. 
 
-###Artikel 61 
+### Artikel  61  
 
 ####Wijzigingen van Codes e.d.
 
-1. [Artikel 71, eerste tot en met derde lid, van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) is van overeenkomstige toepassing op de ingevolge deze regeling toepasselijke Codes, resoluties en circulaires van de IMO.
-2. Ministeriële besluiten op grond van het eerste lid worden bekendgemaakt in de Staatscourant.
+1.  Artikel 71, eerste tot en met derde lid, van het besluit is van overeenkomstige toepassing op de ingevolge deze regeling toepasselijke Codes, resoluties en circulaires.   
+2.  Ministeriële besluiten op grond van het eerste lid worden bekendgemaakt in de Staatscourant.  
 
 ### Artikel  62  
 
@@ -952,8 +889,6 @@ Van de wijze van bekendmaking van de op grond van deze regeling toepasselijke Co
 
 ####Overgangsrecht voor Caribisch-Nederlandse schepen
 
-Treedt in werking per 01-07-2014 
-
 1.  In afwijking van artikel 3a worden op een Caribisch-Nederlands schip waarvoor op grond van hoofdstuk 6a een certificaat van deugdelijkheid is afgegeven, de bepalingen van hoofdstuk 6a, zoals dat luidde tot 1 juli 2014, toegepast tot de geldigheidsduur van het certificaat op grond van artikel 59e afloopt.   
 2.  Een Caribisch-Nederlands schip dat niet buiten de in artikel 41b, tweede lid, bedoelde gebiedsbegrenzingen wordt gebracht, is tot 1 januari 2016 vrijgesteld van de in artikel 3a bedoelde verplichting alsmede de in bijlage 6 opgenomen eisen.  
 
@@ -961,7 +896,7 @@ Treedt in werking per 01-07-2014
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking op 1 januari 2005, met uitzondering van de artikelen 4, derde lid, 5, tweede lid, en 6, tweede lid, die in werking treden op het tijdstip waarop [artikel 6 van het Schepenbesluit 2004](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) in werking treedt.
+Deze regeling treedt in werking op 1 januari 2005, met uitzondering van de artikelen 4, derde lid, 5, tweede lid, en 6, tweede lid, die in werking treden op het tijdstip waarop artikel 6 van het Schepenbesluit 2004 in werking treedt.
 
 ###Artikel 64 
 
@@ -1012,7 +947,7 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 ####*Artikel 4. Bewaren van de medische uitrusting*
 
-1. De in artikel 2 bedoelde medische uitrusting wordt in daarvoor geschikte kisten of in daarvoor ingerichte kasten of ruimten bewaard. 2. Onder de [Opiumwet](../../../../../wet/opiumwet/BWBR0001941/README.md) vallende preparaten die deel uitmaken van de medische uitrusting, worden bewaard in een kluis, waarvan de sleutel berust bij de kapitein of bij de schepeling aan wie de kapitein het gebruik en beheer van de medische uitrusting heeft overgedragen. 
+1. De in artikel 2 bedoelde medische uitrusting wordt in daarvoor geschikte kisten of in daarvoor ingerichte kasten of ruimten bewaard. 2. Onder de Opiumwet vallende preparaten die deel uitmaken van de medische uitrusting, worden bewaard in een kluis, waarvan de sleutel berust bij de kapitein of bij de schepeling aan wie de kapitein het gebruik en beheer van de medische uitrusting heeft overgedragen. 
 
 ####*Artikel 5. Levering en verpakking van geneesmiddelen en antidota*
 
@@ -1020,15 +955,15 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 ####*Artikel 6. Jaarlijkse inspectie medische uitrusting*
 
-1. De jaarlijkse inspectie van de medische uitrusting vindt plaats voorafgaand aan de onderzoeken waaraan het schip wordt onderworpen in verband met de voor dat schip benodigde certificaten. De inspectie heeft geen betrekking op de in artikel 3 bedoelde medische uitrusting voor reddingsvlotten. 2. De kapitein stelt bij de inspectie een controlelijst op met daarop de benamingen en codes van alle geneesmiddelen, verplegingsartikelen en antidota die ingevolge deze bijlage aan boord van het schip zijn vereist, en vermeldt daarbij zowel de voorgeschreven hoeveelheden als de daadwerkelijk aan boord aanwezige hoeveelheden. In voorkomend geval wordt tevens de houdbaarheidsdatum van die middelen vermeld. De controlelijst vermeldt voorts de naam, de vlag en de thuishaven van het schip. 3. Indien de inspectie uitwijst dat de medische uitrusting van het schip in overeenstemming is met deze bijlage, ondertekent de kapitein de controlelijst en biedt hij deze aan de Scheepvaartinspectie of, indien het onderzoek door een krachtens [artikel 23 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) aangewezen rechtspersoon wordt verricht, aan die rechtspersoon ter visering aan.  Betekenis van de kolommen in tabellen 1 en 2 
+1. De jaarlijkse inspectie van de medische uitrusting vindt plaats voorafgaand aan de onderzoeken waaraan het schip wordt onderworpen in verband met de voor dat schip benodigde certificaten. De inspectie heeft geen betrekking op de in artikel 3 bedoelde medische uitrusting voor reddingsvlotten. 2. De kapitein stelt bij de inspectie een controlelijst op met daarop de benamingen en codes van alle geneesmiddelen, verplegingsartikelen en antidota die ingevolge deze bijlage aan boord van het schip zijn vereist, en vermeldt daarbij zowel de voorgeschreven hoeveelheden als de daadwerkelijk aan boord aanwezige hoeveelheden. In voorkomend geval wordt tevens de houdbaarheidsdatum van die middelen vermeld. De controlelijst vermeldt voorts de naam, de vlag en de thuishaven van het schip. 3. Indien de inspectie uitwijst dat de medische uitrusting van het schip in overeenstemming is met deze bijlage, ondertekent de kapitein de controlelijst en biedt hij deze aan de Scheepvaartinspectie of, indien het onderzoek door een krachtens artikel 23 van het besluit aangewezen rechtspersoon wordt verricht, aan die rechtspersoon ter visering aan.  Betekenis van de kolommen in tabellen 1 en 2 
 
 | --- | --- |
 |:---|:---|
 | Kolom A:  | vrachtschepen, zeilschepen en vissersvaartuigen met een onbeperkt vaargebied;  |
-| Kolom B:  | vrachtschepen, zeilschepen en vissersvaartuigen met een vaargebied dat zich niet verder uitstrekt dan GMDSS-zeegebied A2 als bedoeld in voorschrift IV/2 van het SOLAS-verdrag;  |
-| Kolom C:  | vrachtschepen, zeilschepen en vissersvaartuigen met een vaargebied dat zich niet verder uitstrekt dan GMDSS-zeegebied A1 als bedoeld in voorschrift IV/2 van het SOLAS-verdrag tot 30 mijl uit de kust van een Europees land;  |
+| Kolom B:  | vrachtschepen, zeilschepen en vissersvaartuigen met een vaargebied dat zich niet verder uitstrekt dan GMDSS-zeegebied A2 als bedoeld in voorschrift IV/2 van het SOLAS-verdrag en vrachtschepen gecertificeerd overeenkomstig de CCSS-Code;  |
+| Kolom C:  | vrachtschepen, zeilschepen en vissersvaartuigen met een vaargebied dat zich niet verder uitstrekt dan GMDSS-zeegebied A1 als bedoeld in voorschrift IV/2 van het SOLAS-verdrag tot 30 mijl uit de kust van een Europees land en vrachtschepen gecertificeerd overeenkomstig de SCV-Code waarmee reizen worden ondernomen in onbeschutte wateren (*exposed waters*) als bedoeld in voorschrift I/2.15 van die Code;  |
 | Kolom D:  | passagiersschepen, niet zijnde schepen waarmee korte internationale of nationale reizen als bedoeld in voorschrift III/3 van het SOLAS-verdrag worden gemaakt;  |
-| Kolom E:  | passagiersschepen waarmee korte internationale of nationale reizen als bedoeld in voorschrift III/3 van het SOLAS-verdrag worden gemaakt;  |
+| Kolom E:  | passagiersschepen waarmee korte internationale of nationale reizen als bedoeld in voorschrift III/3 van het SOLAS-verdrag worden gemaakt en passagiersschepen gecertificeerd overeenkomstig de SCV-Code waarmee reizen worden ondernomen in onbeschutte wateren (*exposed waters*) als bedoeld in voorschrift I/2.15 van die Code;  |
 | Max.:  | Maximumhoeveelheden;  |
 | Kolom R:  | reddingsboten, reddingsvlotten en hulpverleningsboten per 50 personen.  |
 
@@ -1284,8 +1219,6 @@ Tabel 2. Verpleeg- en verbandmiddelen
 ### Bijlage  6  
 
 ####Eisen met betrekking tot de vaart rond de eilanden van Caribisch-Nederland
-
-Treedt in werking per 01-07-2014 
 
 ####Bijlage behorend bij artikel 41b, eerste lid , van de Regeling veiligheid zeeschepen
 

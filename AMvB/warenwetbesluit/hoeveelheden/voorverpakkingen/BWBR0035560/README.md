@@ -21,10 +21,7 @@ Hebben goedgevonden en verstaan:
 
 ####Algemene bepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  1  
-Treedt in werking per 01-01-2015 
 
 1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
@@ -52,7 +49,6 @@ Treedt in werking per 01-01-2015
 2.  Dit besluit is van toepassing op voorverpakkingen als bedoeld in artikel 1 van Richtlijn 76/211/EEG.  
 
 ### Artikel  2  
-Treedt in werking per 01-01-2015 
 
 1.  Het is verboden voorverpakkingen in de handel te brengen anders dan met inachtneming van de bij dit besluit gestelde voorschriften.   
 2.  Het is verboden gedistilleerde drank in een voorverpakking in de handel te brengen anders dan met inachtneming van artikel 12.  
@@ -61,20 +57,15 @@ Treedt in werking per 01-01-2015
 
 ####Voorverpakkingen met een ℮-teken
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  3  
-Treedt in werking per 01-01-2015 
 
 Het in de handel brengen van voorverpakkingen met daarop het ℮-teken geschiedt met inachtneming van de bij de artikelen 3, eerste lid, en 4, eerste tot en met derde lid, van Richtlijn 76/211/EEG gestelde voorschriften. 
 
 ### Artikel  4  
-Treedt in werking per 01-01-2015 
 
 Een geregeld meetinstrument als bedoeld in de Metrologiewet is een wettig meetmiddel als bedoeld in bijlage I, punt 4, tweede alinea, van Richtlijn 76/211/EEG. 
 
 ### Artikel  5  
-Treedt in werking per 01-01-2015 
 
 1.  Indien een vulbedrijf niet de werkelijke inhoud van elke voorverpakking met daarop een ℮-teken meet, beschikt het vulbedrijf over een door Onze Minister erkend bedrijfscontrolesysteem.   
 2.  Onze Minister verleent de erkenning van een bedrijfscontrolesysteem indien de controle door het vulbedrijf dusdanig geschiedt dat de waarde van de inhoud van de voorverpakking met daarop een ℮-teken gegarandeerd is.   
@@ -83,20 +74,17 @@ Treedt in werking per 01-01-2015
 5.  De voorlopige erkenning voor de betrokkene van een bedrijfscontrolesysteem vervalt van rechtswege na een periode van zes maanden, of, indien dit eerder is, met ingang van de inwerkingtreding van een besluit tot verlening of tot weigering van een definitieve erkenning van een bedrijfscontrolesysteem.  
 
 ### Artikel  6  
-Treedt in werking per 01-01-2015 
 
 1.  Indien de importeur niet de werkelijke inhoud van elke voorverpakking met daarop een ℮-teken meet, beschikt de importeur over een door Onze Minister erkend bedrijfscontrolesysteem dan wel een verklaring waaruit blijkt dat de werkelijke inhoud van voorverpakkingen met daarop het ℮-teken is gegarandeerd.   
 2.  Een verklaring als bedoeld in het eerste lid wordt afgegeven als voldaan is aan bijlage I, punt 4, zesde alinea, van Richtlijn 76/211/EEG. Voordat de verklaring wordt afgegeven wordt de metrologische instantie gehoord.   
 3.  Indien een importeur gebruik maakt van een bedrijfscontrolesysteem is artikel 5, tweede tot en met vijfde lid, van overeenkomstige toepassing op de erkenning van het bedrijfscontrolesysteem.  
 
 ### Artikel  7  
-Treedt in werking per 01-01-2015 
 
 1.  De aanvrager is aan Onze Minister een retributie verschuldigd voor elke ingediende aanvraag voor en afgifte van een voorlopige of definitieve erkenning van een bedrijfscontrolesysteem en voor de aanvraag voor en de afgifte van een verklaring als bedoeld in artikel 6.   
 2.  Onze Minister stelt ter uitvoering van het eerste lid nadere regels. Deze regels hebben in elk geval betrekking op de hoogte van de retributies voor de voorlopige of definitieve erkenning van een bedrijfscontrolesysteem en de afgifte van een verklaring als bedoeld in artikel 6.  
 
 ### Artikel  8  
-Treedt in werking per 01-01-2015 
 
 De voorlopige of definitieve erkenning van een bedrijfscontrolesysteem, of een verklaring als bedoeld in artikel 6, kan door Onze Minister worden ingetrokken indien: 
 
@@ -107,12 +95,10 @@ b. bij een onderzoek van een partij voorverpakkingen met daarop een ℮-teken do
 c. het vulbedrijf of de importeur een voorverpakking met daarop een ℮-teken verhandelt ten aanzien waarvan niet is voldaan aan dit besluit.   
 
 ### Artikel  9  
-Treedt in werking per 01-01-2015 
 
 De termijn gedurende welke de in bijlage I, punt 4, vijfde alinea, van Richtlijn 76/211/EEG, bedoelde documenten ter beschikking van de met het toezicht op de naleving van dit besluit belaste ambtenaren of personen worden gehouden, bedraagt ten minste één jaar. 
 
 ### Artikel  10  
-Treedt in werking per 01-01-2015 
 
 Onze Minister van Economische Zaken wijst een rechtspersoon aan die tot taak heeft metrologische onderzoeken te verrichten ten behoeve van de uitvoering van dit besluit. 
 
@@ -120,10 +106,7 @@ Onze Minister van Economische Zaken wijst een rechtspersoon aan die tot taak hee
 
 ####Voorverpakkingen zonder ℮-teken
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  11  
-Treedt in werking per 01-01-2015 
 
 Indien op een voorverpakking geen ℮-teken is aangebracht bevat de voorverpakking in elk geval de hoeveelheid van de waar die op de verpakking wordt aangegeven. 
 
@@ -131,10 +114,7 @@ Indien op een voorverpakking geen ℮-teken is aangebracht bevat de voorverpakki
 
 ####Nominale hoeveelheden voor gedistilleerde dranken
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  12  
-Treedt in werking per 01-01-2015 
 
 1.  Gedistilleerde drank dat in een voorverpakking binnen het in punt 1 van de bijlage bij Richtlijn 2007/45/EG vermelde interval voor gedistilleerde drank is verpakt, wordt uitsluitend in de handel gebracht indien het is voorverpakt in de in punt 1 van die bijlage voor gedistilleerde dranken vermelde nominale hoeveelheden.   
 2.  Het eerste lid is niet van toepassing op voorverpakte gedistilleerde drank die in belastingvrije winkels wordt verkocht voor consumptie buiten de Europese Unie.   
@@ -145,30 +125,23 @@ Treedt in werking per 01-01-2015
 
 ####Slotbepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  13  
-Treedt in werking per 01-01-2015 
 
 Een wijziging van Richtlijn 76/211/EEG of Richtlijn 2007/45/EEG gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld. 
 
 ### Artikel  14  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten. 
 
 ### Artikel  15  
-Treedt in werking per 01-01-2015 
 
 Het Hoeveelheidsaanduidingenbesluit (Warenwet) wordt ingetrokken. 
 
 ### Artikel  16  
-Treedt in werking per 01-01-2015 
 
 Dit besluit treedt in werking met ingang van 1 januari 2015. 
 
 ### Artikel  17  
-Treedt in werking per 01-01-2015 
 
 Dit besluit wordt aangehaald als: Warenwetbesluit hoeveelheden voorverpakkingen. 
 

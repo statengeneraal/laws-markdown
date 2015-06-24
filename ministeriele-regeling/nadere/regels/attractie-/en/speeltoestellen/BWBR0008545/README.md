@@ -126,7 +126,7 @@ f. NEN-EN 1176-6: 2008: Speeltoestellen – Deel 6 Aanvullende bijzondere veilig
 
 g. NEN-EN 1176-7: 2008: Speeltoestellen – Deel 7 Leidraad voor de plaatsing, controle, onderhoud en gebruik;  
 
-h. NEN-EN 1176-10: 2008: Speeltoestellen en bodemoppervlakken – Deel 10: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor geheel omheinde toestellen;  
+h. NEN-EN 1176-10: 2008: Speeltoestellen en bodemoppervlakken – Deel 10: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor geheel omsloten toestellen;  
 
 i. NEN-EN 1176-11: 2008: Speeltoestellen en bodemoppervlakken – Deel 11: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor ruimtelijke netstructuren;  
 

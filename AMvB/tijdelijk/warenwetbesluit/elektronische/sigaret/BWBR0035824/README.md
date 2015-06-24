@@ -14,7 +14,6 @@ Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
-Treedt in werking per 01-02-2015 
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
@@ -43,27 +42,23 @@ k.  *verordening (EG) nr. 1272/2008:* Verordening (EG) nr. 1272/2008 van het Eu
 l.  *kinderveilige sluiting:* een sluiting die is aangebracht overeenkomstig bijlage II, punten 3.1.2, 3.1.3 en 3.1.4.2 van verordening (EG) nr. 1272/2008.   
 
 ### Artikel  2  
-Treedt in werking per 01-02-2015 
 
 1.  Het is verboden een elektronische sigaret of een navulverpakking in de handel te brengen indien dit product niet voldoet aan de bij of krachtens dit besluit gestelde eisen, onverminderd het bepaalde bij of krachtens de Wet milieubeheer en het overigens bij of krachtens de Warenwet bepaalde.   
 2.  Het verbod, bedoeld in het eerste lid, is niet van toepassing op een elektronische sigaret of navulverpakking waarvoor een handelsvergunning is vereist op grond van artikel 40, eerste lid, van de Geneesmiddelenwet of een elektronische sigaret waarvoor een CE-markering is vereist op grond van artikel 7 van het Besluit medische hulpmiddelen.  
 
 ### Artikel  3  
-Treedt in werking per 01-02-2015 
 
 1.  Een elektronische sigaret wordt slechts in de handel gebracht indien deze in de vorm is van een wegwerpproduct, of indien deze door middel van een navulverpakking en een reservoir navulbaar is of herlaadbaar is met een patroon voor eenmalig gebruik.   
 2.  Een elektronische sigaret geeft per merk en type bij gebruik onder normale en vergelijkbare omstandigheden, op vergelijkbare wijze nicotinedoses af.   
 3.  Een navulreservoir van een navulbare elektronische sigaret heeft een volume van ten hoogste 2 ml.  
 
 ### Artikel  4  
-Treedt in werking per 01-02-2015 
 
 1.  Een elektronische sigaret en een navulverpakking zijn kindveilig, beschermd tegen manipulatie, breken en lekken en beschikken, indien van toepassing, over een mechanisme dat lekvrij navullen mogelijk maakt.   
 2.  In aanvulling op het bepaalde in verordening (EG) nr. 1272/2008 beschikt een navulverpakking, voor zover daarvoor een kinderveilige sluiting op grond van de voornoemde verordening niet verplicht is, over een kinderveilige sluiting.   
 3.  Onze Minister kan nadere regels stellen met betrekking tot de kindveiligheid van een elektronische sigaret en een navulverpakking.  
 
 ### Artikel  5  
-Treedt in werking per 01-02-2015 
 
 1.  Nicotinehoudende vloeistof wordt slechts in de handel gebracht, indien: 
 
@@ -87,7 +82,6 @@ d. additieven die de inhalatie of opname van nicotine faciliteren; en
 e. additieven die in onverhitte vorm kankerverwekkend, mutageen of reprotoxisch zijn.    
 
 ### Artikel  6  
-Treedt in werking per 01-02-2015 
 
 Een verpakkingseenheid bevat een bijsluiter met: 
 
@@ -102,7 +96,6 @@ d. informatie over verslavende werking en toxiciteit; en
 e. contactgegevens van de producent in de Europese Unie of importeur in de Europese Unie.   
 
 ### Artikel  7  
-Treedt in werking per 01-02-2015 
 
 1.  Op een verpakkingseenheid en een eventuele buitenverpakking is, indien van toepassing, een lijst van alle ingrediënten van het product naar afnemend gewicht aangebracht, alsmede een vermelding van het nicotinegehalte van het product in mg per ml en het nummer van de partij.   
 2.  Voor zover de aanbeveling om een product buiten bereik van kinderen te houden niet verplicht is op grond van verordening (EG) nr. 1272/2008, bevat een verpakkingseenheid en een eventuele buitenverpakking in aanvulling op deze verordening de voornoemde aanbeveling.   
@@ -115,7 +108,6 @@ b. de suggestie wekt dat een bepaalde elektronische sigaret of navulverpakking m
 c. de suggestie wekt dat een elektronische sigaret of een navulverpakking een levensmiddel of een cosmetisch product is.    
 
 ### Artikel  8  
-Treedt in werking per 01-02-2015 
 
 1.  Op een verpakkingseenheid en een eventuele buitenverpakking wordt, indien van toepassing, de volgende waarschuwing aangebracht: «Dit product bevat de zeer verslavende stof nicotine. Het gebruik ervan wordt afgeraden voor niet-rokers».   
 2.  De waarschuwing, genoemd in het eerste lid: 
@@ -131,7 +123,6 @@ d. wordt aangebracht in zwarte, vetgedrukte Helvetica-letters op een witte achte
 e. wordt gecentreerd gedrukt op het voor de waarschuwing bestemde oppervlak en, op balkvormige verpakkingseenheden en buitenverpakkingen, evenwijdig met de zijrand van de verpakkingseenheid of van de buitenverpakking.    
 
 ### Artikel  9  
-Treedt in werking per 01-02-2015 
 
 1.  Het is een ieder verboden om in de uitoefening van beroep of bedrijf een elektronische sigaret of een navulverpakking aan te prijzen via enig op het publiek gericht reclamemedium anders dan met gebruikmaking van de waarschuwing, genoemd in artikel 8, eerste lid.   
 2.  Het is een ieder verboden om in de uitoefening van beroep of bedrijf een elektronische sigaret of een navulverpakking aan te prijzen via enig op het publiek gericht reclamemedium en terwijl daarbij de indruk wordt gewekt dat: 
@@ -141,28 +132,23 @@ a. het product zonder schadelijke gevolgen gebruikt kan worden; of
 b. het product kan helpen bij het stoppen met roken van tabaksproducten.    
 
 ### Artikel  10  
-Treedt in werking per 01-02-2015 
 
 Met een elektronische sigaret en navulverpakking als bedoeld in dit besluit wordt gelijkgesteld een elektronische sigaret of navulverpakking die rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot een douane-unie strekkend Verdrag, dan wel rechtmatig is vervaardigd in een staat die partij is bij een tot een vrijhandelszone strekkend Verdrag dat Nederland bindt, en die voldoet aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met nationale eisen wordt nagestreefd. 
 
 ### Artikel  11  
-Treedt in werking per 01-02-2015 
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten. 
 
 ### Artikel  12  
-Treedt in werking per 01-02-2015 
 
 1.  Een elektronische sigaret en een navulverpakking waarvan de buitenverpakking of de verpakkingseenheid niet voldoet aan de artikelen 6 en 7 mag tot zes maanden na inwerkingtreding van dit besluit in de handel worden gebracht.   
 2.  Een elektronische sigaret en een navulverpakking waarvan de buitenverpakking of de verpakkingseenheid niet voldoet aan artikel 8 mag tot drie maanden na inwerkingtreding van dit besluit in de handel worden gebracht.  
 
 ### Artikel  13  
-Treedt in werking per 01-02-2015 
 
 Dit besluit treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin het is geplaatst. 
 
 ### Artikel  14  
-Treedt in werking per 01-02-2015 
 
 Dit besluit wordt aangehaald als: Tijdelijk warenwetbesluit elektronische sigaret. 
 

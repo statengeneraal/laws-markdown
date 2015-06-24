@@ -73,7 +73,7 @@ c. prof. dr. A.L.M Lagro-Janssen te Nijmegen.
 
 ####Vergoeding
 
-De voorzitter en de andere leden ontvangen een vaste vergoeding per maand. De toepasselijke salarisschaal voor de voorzitter en de andere leden is schaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. De arbeidsduurfactor voor de voorzitter en de andere leden is 2/36. 
+De voorzitter en de andere leden ontvangen een vaste vergoeding per maand. De toepasselijke salarisschaal voor de voorzitter en de andere leden is schaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. De arbeidsduurfactor voor de voorzitter en de andere leden is 1/5. 
 
 ### Artikel  7  
 

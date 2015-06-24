@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie van 15 februari 2007, nr. 2006/361778, houdende nieuwe regels voor de mobiele eenheid (Regeling mobiele eenheid 2007)
 
 De Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie,  
-Gelet op de [artikelen 48, eerste lid](../../../../../../wet/politiewet/1993/BWBR0006299/README.md), en [48a van de Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md) en de [artikelen 6, tweede lid](../../../../../../AMvB/besluit/beheer/regionale/politiekorpsen/BWBR0006560/README.md), en [17, tweede lid, van het Besluit beheer regionale politiekorpsen](../../../../../../AMvB/besluit/beheer/regionale/politiekorpsen/BWBR0006560/README.md);
+Gelet op de artikelen 48, eerste lid, en 48a van de Politiewet 1993 en de artikelen 6, tweede lid, en 17, tweede lid, van het Besluit beheer regionale politiekorpsen;
 Besluiten:     
 ### Paragraaf  1  
 
@@ -76,7 +76,7 @@ Besluiten:
 
 ### Artikel  10  
 
-1.  Een regionale eenheid beschikt over een uit een peloton van de basiseenheid samengestelde eenheid of zelfstandige eenheden specialistische schutters, die geoefend zijn in het gebruik van een vuurwapen als bedoeld in [artikel 10 van het Besluit bewapening en uitrusting politie](../../../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md).   
+1.  Een regionale eenheid beschikt over een uit een peloton van de basiseenheid samengestelde eenheid of zelfstandige eenheden specialistische schutters, die geoefend zijn in het gebruik van een vuurwapen als bedoeld in artikel 10 van het Besluit bewapening en uitrusting politie.   
 2.  De in het eerste lid bedoelde schutters zijn daarnaast bekwaam in verspreiden van CS-traangas al of niet met behulp van een vuurwapen.   
 3.  Het aantal eenheden minimaal gelijk is aan het aantal eenheden zoals vermeld in de bijlage 3 van deze regeling.   
 4.  Eenheden specialistische schutters zijn organisatorisch opgebouwd uit een groep, bestaande uit elf leden, onder wie een groepscommandant en een voor zijn taak opgeleide chauffeur.  
@@ -87,11 +87,11 @@ Besluiten:
 
 ### Artikel  11  
 
-1.  Een ambtenaar van politie in de zin van [artikel 2, eerste lid, onder a, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md), kan deel uitmaken van een basiseenheid of een bijzondere eenheid, indien hij voldoet aan: 
+1.  Een ambtenaar van politie in de zin van artikel 2, eerste lid, onder a, van de Politiewet 2012, kan deel uitmaken van een basiseenheid of een bijzondere eenheid, indien hij voldoet aan: 
 
 a. eindtermen zoals voorgeschreven voor de opleiding basispolitiemedewerker niveau 3;  
 
-b. de eisen die op grond van de [Regeling toetsing geweldsbeheersing](../../../../../../ministeriele-regeling/regeling/toetsing/geweldsbeheersing/politie/BWBR0013200/README.md) politie aan hem worden gesteld; en  
+b. de eisen die op grond van de Regeling toetsing geweldsbeheersing politie aan hem worden gesteld; en  
 
 c. de voor die taak ontwikkelde en voorgeschreven eindtermen.     
 2.  De opleiding voor de specifieke taak, bedoeld in het eerste lid, onder c, is met succes afgerond indien de deelnemer heeft voldaan aan de competentiegerichte eindtermen van de daartoe strekkende opleiding en is gecertificeerd door het Bureau examinering van de LSOP.  
@@ -114,11 +114,11 @@ De korpschef draagt voor wat betreft het materieel zorg voor dat:
 
 3. De ruiters de beschikking hebben over voor hun taak getrainde paarden.  
 
-4. Iedere hondengeleider de beschikking heeft over een gecertificeerde hond zoals voorgeschreven in de [Regeling politiehonden](../../../../../../ministeriele-regeling/regeling/politiehonden/BWBR0019728/README.md).  
+4. Iedere hondengeleider de beschikking heeft over een gecertificeerde hond zoals voorgeschreven in de Regeling politiehonden.  
 
 5. De leden van de in deze regeling genoemde eenheden en BRATRA-groep zijn uitgerust met adequate beschermings- en veiligheidsmiddelen.  
 
-6. De aangewezen leden van de in deze regeling genoemde eenheden en BRATRA-groep zijn uitgerust met een vuurwapen als bedoeld in [artikel 10 van het Besluit bewapening en uitrusting politie](../../../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md).   
+6. De aangewezen leden van de in deze regeling genoemde eenheden en BRATRA-groep zijn uitgerust met een vuurwapen als bedoeld in artikel 10 van het Besluit bewapening en uitrusting politie.   
 
 ### Artikel  14  
 
@@ -168,7 +168,7 @@ Vervallen per 01-01-2013
 
 ### Artikel  19a  
 
-Deze regeling berust op [artikel 30, tweede lid, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md) en [artikel 28 van het Besluit bewapening en uitrusting politie](../../../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md). 
+Deze regeling berust op artikel 30, tweede lid, van de Politiewet 2012 en artikel 28 van het Besluit bewapening en uitrusting politie. 
 
 ### Paragraaf  10  
 
@@ -176,7 +176,7 @@ Deze regeling berust op [artikel 30, tweede lid, van de Politiewet 2012](../../.
 
 ### Artikel  20  
 
-De [Regeling mobiele eenheid](../../../../../../ministeriele-regeling/regeling/mobiele/eenheid/BWBR0006554/README.md) wordt ingetrokken. 
+De Regeling mobiele eenheid wordt ingetrokken. 
 
 ### Artikel  21  
 

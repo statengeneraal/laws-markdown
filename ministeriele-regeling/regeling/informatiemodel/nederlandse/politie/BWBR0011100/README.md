@@ -3,12 +3,12 @@
 ##Regeling Informatiemodel Nederlandse Politie
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie,   
-Gelet op [artikel 17, derde lid, van het Besluit beheer regionale politiekorpsen](../../../../../../AMvB/besluit/beheer/regionale/politiekorpsen/BWBR0006560/README.md); 
+Gelet op artikel 17, derde lid, van het Besluit beheer regionale politiekorpsen; 
 Besluiten;    
 
 ### Artikel  1  
 
-Ten behoeve van een uniforme aanlevering van gegevens over de werkdruk en taakuitvoering door de regionale politiekorpsen aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties, als bedoeld in [artikel 17, eerste lid, van het Besluit beheer regionale politiekorpsen](../../../../../../AMvB/besluit/beheer/regionale/politiekorpsen/BWBR0006560/README.md) wordt het in de bijlage bij deze regeling opgenomen Informatiemodel Nederlandse Politie vastgesteld.  
+Ten behoeve van een uniforme aanlevering van gegevens over de werkdruk en taakuitvoering door de regionale politiekorpsen aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties, als bedoeld in artikel 17, eerste lid, van het Besluit beheer regionale politiekorpsen wordt het in de bijlage bij deze regeling opgenomen Informatiemodel Nederlandse Politie vastgesteld.  
 
 ### Artikel  2  
 

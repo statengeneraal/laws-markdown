@@ -6,9 +6,9 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 15 juni 1992, nr. VVP/L-U-921386, gedaan in overeenstemming met Onze Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
 
-Gelet op [artikel 1, vijfde lid, van de Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md) (*Stb.* 1988, 360);
+Gelet op artikel 1, vijfde lid, van de Warenwet (*Stb.* 1988, 360);
 
-Gezien het advies van de Adviescommissie [Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md) (advies van 22 maart 1990, nr. 14169/035);
+Gezien het advies van de Adviescommissie Warenwet (advies van 22 maart 1990, nr. 14169/035);
 
 De Raad van State gehoord (advies van 3 maart 1993, nr. W13.92.0263);
 
@@ -33,7 +33,7 @@ Het is verboden ten aanzien van eet- en drinkwaren te handelen in strijd met art
 
 ### Artikel  2  
 
-De krachtens de [artikelen 4 tot en met 9 van de Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md) (*Stb.* 1988, 360) gestelde voorschriften zijn niet van toepassing ten aanzien van waren die kennelijk bestemd zijn voor uitvoer:  
+De krachtens de artikelen 4 tot en met 9 van de Warenwet (*Stb.* 1988, 360) gestelde voorschriften zijn niet van toepassing ten aanzien van waren die kennelijk bestemd zijn voor uitvoer:  
 
 a. voor zover die waren voldoen aan door het land van bestemming ter zake gestelde specifieke voorschriften, dan wel aan ter zake welbepaalde internationale regelingen, aan de totstandkoming waarvan de Nederlandse regering heeft meegewerkt, en die voorschriften onderscheidenlijk regelingen desgevraagd door de belanghebbende zijn overgelegd ten behoeve van de met het toezicht ter zake belaste autoriteit;  
 

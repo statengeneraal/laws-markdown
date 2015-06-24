@@ -808,6 +808,24 @@ De toezichthouders zijn, behoudens tegenover hen aan wier gezag zij uit hoofde v
 4.  De gegevensverstrekking, bedoeld in het eerste en tweede lid, vindt niet plaats indien de persoonlijke levenssfeer van de betrokkene daardoor onevenredig wordt geschaad.   
 5.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de gevallen waarin en de wijze waarop in ieder geval gegevens worden verstrekt.  
 
+### §  8.6  
+
+####Openbaarmaking van door toezicht op de naleving verkregen gegevens
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  8:8  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De toezichthouder of de door Onze Minister aangewezen ambtenaar, bedoeld in artikel 10:5, eerste lid, maken het feit dat een bestuurlijke boete is opgelegd wegens overtreding van deze wet als bedoeld in artikel 10:1, dat een besluit is genomen als bedoeld in artikel 8:2, eerste en tweede lid, en 8:3a, tweede lid, of dat na een afgerond onderzoek geen overtreding is geconstateerd openbaar teneinde de naleving van deze wet te bevorderen en inzicht te geven in het uitvoeren van toezicht op grond van deze wet.   
+2.  Bij de openbaarmaking, bedoeld in het eerste lid, is artikel 10, eerste lid, onderdelen c en d, van de Wet openbaarheid van bestuur van overeenkomstige toepassing.   
+3.  Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de openbaar te maken gegevens, waaronder de mogelijke reactie van een belanghebbende in verband met de openbaarmaking van zijn gegevens, de termijn waarop deze gegevens beschikbaar worden gesteld en de wijze waarop de openbaarmaking plaatsvindt.   
+4.  Indien geen overtreding is geconstateerd als bedoeld in het eerste lid, is op dat besluit tot openbaarmaking artikel 4:8 van de Algemene wet bestuursrecht niet van toepassing.   
+5.  De openbaarmaking, bedoeld in het eerste lid, geschiedt niet eerder dan nadat tien werkdagen zijn verstreken na de dag waarop het besluit aan belanghebbende bekend is gemaakt.   
+6.  Bij de openbaarmaking wordt vermeld of tegen een besluit tot oplegging van een bestuurlijke boete of een besluit als bedoeld in artikel 8:2, eerste en tweede lid, of 8:3a, tweede lid, een rechtsmiddel is ingesteld dan wel of daartoe de mogelijkheid bestaat.   
+7.  Indien wordt verzocht om een voorlopige voorziening als bedoeld in artikel 8:81 van de Algemene wet bestuursrecht, wordt de openbaarmaking opgeschort totdat de voorzieningenrechter een uitspraak heeft gedaan.   
+8.  Indien de openbaarmaking, bedoeld in het eerste lid, in strijd is of zou kunnen komen met het doel van het toezicht op de naleving van deze wet dat door de toezichthouders wordt uitgeoefend, blijft openbaarmaking achterwege.  
+
 ### Hoofdstuk  9  
 
 ####Zelfstandige bestuursorganen 

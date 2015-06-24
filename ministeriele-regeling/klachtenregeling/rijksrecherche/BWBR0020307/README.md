@@ -35,10 +35,10 @@ f. wet: de Politiewet 2012.
 
 1.  Er is een klachtencommissie Rijksrecherche, die het College gevraagd of ongevraagd adviseert over de afdoening van klachten over een gedraging van een ambtenaar van de rijksrecherche.   
 2.  De klachtencommissie bestaat uit een oneven aantal, doch ten minste drie onafhankelijke leden.   
-3.  De klachtencommissie bestaat uit leden die zijn benoemd in de commissie die adviseert over de afdoening van klachten over het optreden van ambtenaren als bedoeld in artikel 2, onderdelen a tot en met c, van de wet, werkzaam bij de Landelijke eenheid politiediensten, bedoeld in artikel 2, eerste lid, van de Regeling beheer politie.   
+3.  De klachtencommissie bestaat uit leden die zijn benoemd in de commissie die adviseert over de afdoening van klachten over het optreden van ambtenaren als bedoeld in artikel 2, onderdelen a tot en met c, van de wet, werkzaam bij de Landelijke eenheid, bedoeld in artikel 2, eerste lid, van de Regeling beheer politie.   
 4.  In afwijking van het gestelde in het derde lid, kan het College besluiten dat de klachtencommissie bestaat uit leden die zijn benoemd in de commissie die, adviseert over de afdoening van klachten over het optreden van ambtenaren als bedoeld in artikel 2, onderdelen a tot en met c, van de wet, werkzaam bij de regionale eenheden.   
 5.  Het College wijst een ambtelijk secretaris aan. De ambtelijk secretaris neemt niet deel aan de besluitvorming van de klachtencommissie en is niet betrokken bij de behandeling of coördinatie van klachten over gedragingen van ambtenaren van de rijksrecherche.   
-6.  Artikel 3, vijfde lid, van de Regeling klachtenbehandeling politie is van toepassing op de leden van de klachtencommissie.   
+6.  Artikel 3, negende lid, van de Regeling klachtbehandeling politie is van toepassing op de leden van de klachtencommissie.   
 7.  Tot 1 januari 2015 blijft het vijfde lid, tweede volzin, buiten toepassing. 
 
 ### Artikel  4  

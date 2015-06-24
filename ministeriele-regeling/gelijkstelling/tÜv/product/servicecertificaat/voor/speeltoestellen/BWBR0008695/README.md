@@ -3,12 +3,12 @@
 ##Gelijkstelling TÜV Product Servicecertificaat voor speeltoestellen
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 4, zesde lid, van de Wet op de gevaarlijke werktuigen](../../../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md);
+Gelet op artikel 4, zesde lid, van de Wet op de gevaarlijke werktuigen;
 Besluit:     
 
 ###Artikel  1  
 
-De onder verantwoordelijkheid van TÜV Product Service, Ridlerstrasse 31 te München, Duitsland, door de daartoe bevoegde instellingen afgegeven geldige certificaten voor speeltoestellen, worden gelijkgesteld met het in [artikel 4 van de Wet op de gevaarlijke werktuigen](../../../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md) bedoelde certificaat van goedkeuring.  
+De onder verantwoordelijkheid van TÜV Product Service, Ridlerstrasse 31 te München, Duitsland, door de daartoe bevoegde instellingen afgegeven geldige certificaten voor speeltoestellen, worden gelijkgesteld met het in artikel 4 van de Wet op de gevaarlijke werktuigen bedoelde certificaat van goedkeuring.  
 
 ###Artikel  2  
 

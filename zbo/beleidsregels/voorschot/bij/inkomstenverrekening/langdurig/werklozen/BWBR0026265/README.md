@@ -3,7 +3,7 @@
 ##Beleidsregels voorschot bij inkomstenverrekening langdurig werklozen
 
 Het Uitvoeringsinstituut werknemersverzekeringen,  
-Gelet op het bepaalde in [artikel 31, eerste lid, van de Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);
+Gelet op het bepaalde in artikel 31, eerste lid, van de Werkloosheidswet;
 Besluit:    
 
 ### Artikel  1  
@@ -12,17 +12,17 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a.  *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+a.  *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
-b.  *WW:* [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+b.  *WW:* Werkloosheidswet;  
 
-c.  *langdurig werkloze:* de werknemer, bedoeld in [artikel 20, zesde lid, onderdeel b, van de WW](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md).   
+c.  *langdurig werkloze:* de werknemer, bedoeld in artikel 20, zesde lid, onderdeel b, van de WW.   
 
 ### Artikel  2  
 
 ####Methodiek inkomstenverrekening langdurig werklozen
 
-1.  De langdurig werkloze, die recht heeft op een uitkering op grond van de [WW](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en die op grond van [artikel 20, zesde lid, van de WW](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), in aanmerking komt voor inkomstenverrekening, ontvangt vanaf het moment waarop hij daarvoor in aanmerking komt voorschotten. Bij de vaststelling van de hoogte van het voorschot per kalenderweek wordt rekening gehouden met de in die week te verwachten gemiddelde inkomsten uit arbeid als bedoeld in [artikel 2, eerste lid, onder a, Inkomstenbesluit Werkloosheidswet](../../../../../../../../AMvB/inkomstenbesluit/werkloosheidswet/BWBR0026038/README.md).   
+1.  De langdurig werkloze, die recht heeft op een uitkering op grond van de WW en die op grond van artikel 20, zesde lid, van de WW, in aanmerking komt voor inkomstenverrekening, ontvangt vanaf het moment waarop hij daarvoor in aanmerking komt voorschotten. Bij de vaststelling van de hoogte van het voorschot per kalenderweek wordt rekening gehouden met de in die week te verwachten gemiddelde inkomsten uit arbeid als bedoeld in artikel 2, eerste lid, onder a, Inkomstenbesluit Werkloosheidswet.   
 2.  Het UWV zal na afloop van elke voorschotperiode van 52 kalenderweken de definitieve hoogte van de uitkering over die periode vaststellen.   
 3.  Indien het recht op uitkering of de dienstbetrekking die ten grondslag lag aan de toepassing van de regeling tot inkomstenverrekening vóór het verstrijken van 52 kalenderweken eindigt, stelt het UWV in afwijking van het tweede lid de definitieve hoogte van de uitkering over de alsdan verstreken periode vast.  
 

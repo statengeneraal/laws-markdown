@@ -3,20 +3,20 @@
 ##Regeling uitvoering Wet gevaarlijke werktuigen en Besluit drukvaten van eenvoudige vorm
 
 De minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 4, vijfde en zesde lid](../../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [5, eerste en derde lid](../../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [12, eerste lid, eerste zin](../../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), en [25a van de Wet op de gevaarlijke werktuigen](../../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md) (Stb. 1952, 104) en [artikel 11, derde lid, van het Besluit Drukvaten van eenvoudige vorm](../../../../../../../AMvB/besluit/drukvaten/van/eenvoudige/vorm/BWBR0005627/README.md);
+Gelet op de artikelen 4, vijfde en zesde lid, 5, eerste en derde lid, 12, eerste lid, eerste zin, en 25a van de Wet op de gevaarlijke werktuigen (Stb. 1952, 104) en artikel 11, derde lid, van het Besluit Drukvaten van eenvoudige vorm;
 Besluit:    
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: a. besluit:   het [Warenwetbesluit drukvaten van eenvoudige vorm](../../../../../../../AMvB/besluit/drukvaten/van/eenvoudige/vorm/BWBR0005627/README.md);  b. drukvat, aangewezen aangemelde instelling, richtlijn en wet:   hetgeen het besluit daaronder verstaat.   
+In deze regeling wordt verstaan onder: a. besluit:   het Warenwetbesluit drukvaten van eenvoudige vorm;  b. drukvat, aangewezen aangemelde instelling, richtlijn en wet:   hetgeen het besluit daaronder verstaat.   
 
 ### Artikel  3  
 
-De dossiers en de briefwisseling die betrekking hebben op de keuringsprocedures, bedoeld in [het besluit](../../../../../../../AMvB/besluit/drukvaten/van/eenvoudige/vorm/BWBR0005627/README.md), worden gesteld in de Nederlandse taal, of in een andere door de Nederlandse aangewezen aangemelde instelling aanvaarde taal. 
+De dossiers en de briefwisseling die betrekking hebben op de keuringsprocedures, bedoeld in het besluit, worden gesteld in de Nederlandse taal, of in een andere door de Nederlandse aangewezen aangemelde instelling aanvaarde taal. 
 
 ### Artikel  4  
 
-In het jaarverslag, bedoeld in [artikel 7c, tweede lid, van de Warenwet](../../../../../../../wet/warenwet/BWBR0001969/README.md), worden door de aangewezen aangemelde instelling ten minste de volgende onderwerpen behandeld: 
+In het jaarverslag, bedoeld in artikel 7c, tweede lid, van de Warenwet, worden door de aangewezen aangemelde instelling ten minste de volgende onderwerpen behandeld: 
 
 a. de door de instelling afgegeven, ingetrokken dan wel geweigerde certificaten;  
 

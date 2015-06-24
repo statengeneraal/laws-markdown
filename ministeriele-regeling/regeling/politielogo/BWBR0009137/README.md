@@ -3,8 +3,8 @@
 ##Regeling Politielogo
 
 De Minister van Binnenlandse Zaken,  
-Gelet op [artikel 13 van het Besluit beheer regionale politiekorpsen](../../../../AMvB/besluit/beheer/regionale/politiekorpsen/BWBR0006560/README.md),
-Besluit: De Minister van Binnenlandse Zaken, Gelet op [artikel 13 van het Besluit beheer regionale politiekorpsen](../../../../AMvB/besluit/beheer/regionale/politiekorpsen/BWBR0006560/README.md), Besluit:    
+Gelet op artikel 13 van het Besluit beheer regionale politiekorpsen,
+Besluit: De Minister van Binnenlandse Zaken, Gelet op artikel 13 van het Besluit beheer regionale politiekorpsen, Besluit:    
 
 ### Artikel  1  
 
@@ -43,7 +43,7 @@ Deze regeling wordt aangehaald als: Regeling politielogo.
 
 ### Artikel  7a  
 
-Deze regeling berust op [artikel 30, tweede lid, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md).  
+Deze regeling berust op artikel 30, tweede lid, van de Politiewet 2012.  
 
 ### Artikel  8  
 

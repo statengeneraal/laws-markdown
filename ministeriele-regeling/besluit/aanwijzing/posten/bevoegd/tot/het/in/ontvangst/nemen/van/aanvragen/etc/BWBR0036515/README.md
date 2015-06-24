@@ -7,7 +7,6 @@ Gelet op artikel 26, eerste lid, onderdeel d, derde lid en vierde lid, en artike
 Besluit:    
 
 ### Artikel  1  
-Treedt in werking per 04-05-2015 
 
 1.  De hoofden van de in bijlage A genoemde consulaire posten zijn bevoegd tot het in ontvangst nemen van aanvragen voor, alsmede het uitreiken van: 
 
@@ -24,17 +23,14 @@ e. tweede paspoorten.
 3.  De hoofden van alle consulaire posten zijn bevoegd tot het in ontvangst nemen van aanvragen voor, alsmede het uitreiken van laissez-passers en noodpaspoorten.  
 
 ### Artikel  2  
-Treedt in werking per 04-05-2015 
 
 De hoofden van honorair consulaire posten zijn bevoegd tot het uitreiken van paspoorten, zoals bedoeld in artikel 1, indien veilige verzending van het reisdocument niet mogelijk is. 
 
 ### Artikel  3  
-Treedt in werking per 04-05-2015 
 
 Het besluit van de Minister van Buitenlandse Zaken van 2 februari 2015, met nr. DCV/RL-0037/2015 tot aanwijzing van posten bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten en identiteitskaarten wordt ingetrokken. 
 
 ### Artikel  4  
-Treedt in werking per 04-05-2015 
 
 Dit besluit treedt in werking met ingang van 4 mei 2015. 
 Dit besluit zal met de bijlagen in de Staatscourant worden geplaatst.  
@@ -45,7 +41,6 @@ W.A. van Ee
 Directeur Consulaire Zaken en Visumbeleid   
 
 ### Bijlage  A  
-Treedt in werking per 04-05-2015 
 
 | Land  | Plaats  | Type  |
 |:---|:---|:---|
@@ -181,7 +176,6 @@ Treedt in werking per 04-05-2015
 | Zwitserland  | Bern  | Ambassade  |
 
 ### Bijlage  B  
-Treedt in werking per 04-05-2015 
 
 | Land  | Plaats  | Type  |
 |:---|:---|:---|

@@ -105,6 +105,25 @@ e. niet krachtens rechterlijke uitspraak is uitgesloten van het verrichten van d
 2.  Indien uit het overleg, bedoeld in het eerste lid, moet worden geconcludeerd dat er sprake is van een redelijk vermoeden dat de desbetreffende persoon zich schuldig heeft gemaakt aan een misdrijf als bedoeld in het eerste lid jegens een leerling van de school, doet het bevoegd gezag onverwijld aangifte bij een opsporingsambtenaar als bedoeld in artikel 1 juncto artikel 184 van het Wetboek van Strafvordering BES, en stelt het bevoegd gezag de vertrouwensinspecteur daarvan onverwijld in kennis. Voordat het bevoegd gezag overgaat tot het doen van aangifte, stelt het de ouders van de betrokken leerling, onderscheidenlijk de betreffende ten behoeve van de school met taken belaste persoon, hiervan op de hoogte.   
 3.  Indien een personeelslid op enigerlei wijze bekend is geworden dat een ten behoeve van de school met taken belast persoon zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf als bedoeld in het eerste lid jegens een leerling van de school, stelt het personeelslid het bevoegd gezag daarvan onverwijld in kennis.  
 
+### Artikel  6a  
+
+####Zorgplicht veiligheid op school
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het bevoegd gezag draagt zorg voor de veiligheid op school, waarbij het bevoegd gezag in ieder geval: 
+
+a. beleid met betrekking tot de veiligheid voert,  
+
+b. de veiligheid van leerlingen op school monitort met een instrument dat een representatief en actueel beeld geeft, en  
+
+c. er zorg voor draagt dat bij een persoon ten minste de volgende taken zijn belegd: 
+
+1°. het coördineren van het beleid in het kader van het tegengaan van pesten, en  
+
+2°. het fungeren als aanspreekpunt in het kader van pesten.       
+2.  Onder veiligheid, bedoeld in het eerste lid, wordt verstaan de sociale, psychische en fysieke veiligheid van leerlingen.  
+
 ### Artikel  7  
 
 ####Niet uit de openbare kas bekostigd bijzonder schoolonderwijs
@@ -2166,6 +2185,14 @@ Op het tijdstip waarop artikel 16 in werking treedt, vervalt het tweede lid van 
 ####Inwerkingtreding
 
 De artikelen die niet bij Besluit van 3 februari 2011, houdende vaststelling van het tijdstip van inwerkingtreding van een aantal onderdelen van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba (Stb. 2011, 34) in werking zijn getreden, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld. 
+
+### Artikel  167d  
+
+####Evaluatie zorgplicht veiligheid op school
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Onze Minister zendt binnen vijf jaar na de inwerkingtreding van artikel IV van de Wet van 4 juni 2015 tot wijziging van enige onderwijswetten in verband met het invoeren van de verplichting voor scholen om zorg te dragen voor de veiligheid op school (Stb. 238) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van de artikelen 6a en 16, eerste lid, onderdeel k, in de praktijk. 
 
 ### Artikel  168  
 

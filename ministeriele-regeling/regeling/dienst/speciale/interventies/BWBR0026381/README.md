@@ -3,14 +3,14 @@
 ##Regeling houdende bepalingen over de organisatie en inzet van de Dienst speciale interventies (Regeling Dienst speciale interventies)
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties, de Minister van Justitie en de Minister van Defensie,  
-Gelet op de [artikelen 48a, eerste lid](../../../../../../wet/politiewet/1993/BWBR0006299/README.md), [49](../../../../../../wet/politiewet/1993/BWBR0006299/README.md), [59, tweede lid](../../../../../../wet/politiewet/1993/BWBR0006299/README.md), en [60 van de Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md), [artikel 10:3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [artikel 3a van de Wet wapens en munitie](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md);
+Gelet op de artikelen 48a, eerste lid, 49, 59, tweede lid, en 60 van de Politiewet 1993, artikel 10:3 van de Algemene wet bestuursrecht en artikel 3a van de Wet wapens en munitie;
 Besluiten:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-*aanhoudings- en ondersteuningseenheden:* eenheden als bedoeld in [artikel 18 van de Regeling beheer politie](../../../../../../ministeriele-regeling/regeling/beheer/politie/BWBR0032673/README.md) en eenheden van de Koninklijke marechaussee die met dezelfde taken zijn belast.   
+*aanhoudings- en ondersteuningseenheden:* eenheden als bedoeld in artikel 18 van de Regeling beheer politie en eenheden van de Koninklijke marechaussee die met dezelfde taken zijn belast.   
 
 ### Artikel  2  
 
@@ -29,7 +29,7 @@ b. de Unit expertise & operationele ondersteuning;
 
 c. de Unit interventie mariniers.     
 3.  De Dienst speciale interventies wordt geleid door het hoofd van de Dienst speciale interventies. Het hoofd kan worden vervangen door het plaatsvervangend hoofd.   
-4.  De Dienst speciale interventies is een bijstandseenheid als bedoeld in [artikel 59, eerste lid, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md) en bestaat uit ambtenaren van de krijgsmacht en ambtenaren van politie.   
+4.  De Dienst speciale interventies is een bijstandseenheid als bedoeld in artikel 59, eerste lid, van de Politiewet 2012 en bestaat uit ambtenaren van de krijgsmacht en ambtenaren van politie.   
 5.  Het beheer van de Dienst speciale interventies berust bij de Landelijke eenheid politiediensten, met uitzondering van de Unit interventie mariniers waarvan het beheer berust bij de Minister van Defensie.  
 
 ### Artikel  3  
@@ -72,11 +72,11 @@ b. de situatie van de dreiging.
 
 ### Artikel  9a  
 
-Deze regeling berust op [artikel 59, vierde lid, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
+Deze regeling berust op artikel 59, vierde lid, van de Politiewet 2012.  
 
 ### Artikel  10  
 
-De [Regeling bijzondere bijstandseenheden](../../../../../../ministeriele-regeling/regeling/bijzondere/bijstandseenheden/BWBR0011952/README.md) wordt ingetrokken. 
+De Regeling bijzondere bijstandseenheden wordt ingetrokken. 
 
 ### Artikel  11  
 

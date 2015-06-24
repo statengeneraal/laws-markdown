@@ -2,9 +2,9 @@
 
 ##Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers
 
-De Staatssecretaris van Defensie,
-Gelet op artikel X 5, vierde lid, van de Algemene militaire pensioenwet;
-Besluit:    
+De Staatssecretaris van Defensie,  
+Gelet op artikel 21 van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen;
+Besluit:      
 ### Hoofdstuk 1 
 
 ####Begripsomschrijvingen 
@@ -31,35 +31,39 @@ g.*begeleider:* degene die de betrokkene begeleidt, omdat de toestand van de bet
 
 ####Voorzieningenpakket 
 
-###Artikel 2 
+### Artikel  2  
 
-Voorzieningen worden verleend in de vorm van:
+Voorzieningen worden verleend in de vorm van: 
 
-a. leefvoorzieningen als bedoeld in hoofdstuk 3;deze voorzieningen kunnen betrekking hebben op:
+a. leefvoorzieningen als bedoeld in hoofdstuk 3; deze voorzieningen kunnen betrekking hebben op: 
 
-1. verplaatsing per taxi of auto;
+1. verplaatsing per taxi of auto;  
 
-2. verplaatsing binnenshuis en buitenshuis per rolstoel;
+2. verplaatsing binnenshuis en buitenshuis per rolstoel;  
 
-3. wonen;
+3. wonen;  
 
-4. kosten verbonden aan op zich normale huishoudelijke uitgaven;
+4. kosten verbonden aan op zich normale huishoudelijke uitgaven; 
 
-5.ontspanning of ontwikkeling;
+5.ontspanning of ontwikkeling; 
 
-6.conditietraining;
+6.conditietraining; 
 
-7.verplaatsing per fiets;
+7.verplaatsing per fiets; 
 
-8.kosten verbonden aan alarmeringstoestellen;
+8.kosten verbonden aan alarmeringstoestellen; 
 
 9.algemene dagelijkse levensverrichtingen;
 
-b. werkvoorzieningen als bedoeld in hoofdstuk 4;
+10. kinderopvang;
 
-c. voorzieningen ter zake van de kosten van geneeskundige verzorging als bedoeld in hoofdstuk 4a;
+11.Gezinsbegeleiding.  
 
-d. bijzondere voorzieningen als bedoeld in hoofdstuk 5. 
+b. werkvoorzieningen als bedoeld in hoofdstuk 4; 
+
+c. voorzieningen ter zake van de kosten van geneeskundige verzorging als bedoeld in hoofdstuk 4a; 
+
+d. bijzondere voorzieningen als bedoeld in hoofdstuk 5.    
 
 ### Artikel  3  
 
@@ -85,62 +89,65 @@ f. deze de meest goedkope adequate is. De verstrekking kan hierdoor afwijken van
 
 Onder leefvoorzieningen die betrekking hebben op verplaatsing per taxi of auto worden verstaan: 
 
-a. de financiële tegemoetkoming in de kosten van het gebruik van: 
+a.de financiële tegemoetkoming in de kosten van het gebruik van: 
 
-1. een (rolstoel)taxi;  
+1.een (rolstoel)taxi;  
 
-2. een taxi in geval van slechtziendheid;  
+2.vervoer door derden;    
 
-3. vervoer door derden;    
+b.de financiële vergoeding van de kosten van: 
 
-b. de financiële vergoeding van de kosten van: 
+1.een standaard auto;  
 
-1. een standaard auto;  
+2.een duurdere auto dan de standaard auto indien de standaard auto niet geschikt is; de meerprijs van de duurdere auto ten opzichte van de standaard auto wordt aangemerkt als aanpassingskosten als bedoeld in onderdeel d;   De meerkosten die op grond van dit onderdeel worden vergoed, worden niet buiten beschouwing gelaten bij de vaststelling van de restwaarde van de auto op het moment van inruil. 
 
-2. een duurdere auto dan de standaard auto indien de standaard auto niet geschikt is; de meerprijs van de duurdere auto ten opzichte van de standaard auto wordt aangemerkt als aanpassingskosten als bedoeld in onderdeel d;   De meerkosten die op grond van dit onderdeel worden vergoed, worden niet buiten beschouwing gelaten bij de vaststelling van de restwaarde van de auto op het moment van inruil. 
+c.de verstrekking van een al dan niet aangepaste auto in bruikleen indien de standaard auto bedoeld in onderdeel b, onder 1, of de duurdere auto, bedoeld in onderdeel b, onder 2, niet geschikt is;  
 
-c. de verstrekking van een al dan niet aangepaste auto in bruikleen indien de standaard auto bedoeld in onderdeel b, onder 1, of de duurdere auto, bedoeld in onderdeel b, onder 2, niet geschikt is;  
+d.de financiële vergoeding van de kosten van de noodzakelijke aanpassingen van een auto als bedoeld in onderdeel b en c die als beperking op het rijbewijs staan vermeld;  
 
-d. de financiële vergoeding van de kosten van de noodzakelijke aanpassingen van een auto als bedoeld in onderdeel b en c die als restraint op het rijbewijs staan vermeld;  
+e.de financiële tegemoetkoming in de kosten van een automatische transmissie die als beperking op het rijbewijs staat vermeld;
 
-e. de financiële tegemoetkoming in de kosten van het gebruik van: 
+f.de financiële tegemoetkoming in de kosten van het gebruik van: 
 
-1. een eigen auto;  
+1.een eigen auto;  
 
-2. een standaard auto als bedoeld in onderdeel b, onder 1;  
+2.een standaard auto als bedoeld in onderdeel b, onder 1;  
 
-3. een duurdere auto als bedoeld in onderdeel b, onder 2;  
+3.een duurdere auto als bedoeld in onderdeel b, onder 2;  
 
-4. een auto in bruikleen als bedoeld in onderdeel c;    
+4.een auto in bruikleen als bedoeld in onderdeel c;    
 
-f. de financiële vergoeding van de kosten van: 
+g.de financiële vergoeding van de kosten van: 
 
-1. de aanleg alsmede de huur van een gehandicaptenparkeerplaats en/of Europese parkeerontheffing in verband met de invaliditeit van de betrokkene;  
+1.de aanleg alsmede de huur van een gehandicaptenparkeerplaats en/of Europese parkeerontheffing in verband met de invaliditeit van de betrokkene;  
 
 2.het verlengen van het rijbewijs van de betrokkene in verband met de invaliditeit van de betrokkene;  
 
-3. de keuring met het oog op het aanbrengen van noodzakelijke aanpassingen van een auto als bedoeld in onderdeel b en c in verband met de invaliditeit van de betrokkene;    
+3.de keuring met het oog op het aanbrengen van noodzakelijke aanpassingen van een auto als bedoeld in onderdeel b en c in verband met de invaliditeit van de betrokkene;    
 
-g. de financiële tegemoetkoming in de kosten van: 
+h.de financiële tegemoetkoming in de kosten van: 
 
-1. autorijlessen en proef- en gewenningslessen; deze tegemoetkomingen kunnen worden toegekend aan de betrokkene of aan diens begeleider in de meerijsituatie.  
+1.autorijlessen en proef- en gewenningslessen; deze tegemoetkomingen kunnen worden toegekend aan de betrokkene of aan diens begeleider in de meerijsituatie.  
 
-2. aflevering van een auto als bedoeld in onderdeel b en c;  
+2.aflevering van een auto als bedoeld in onderdeel b en c;  
 
-3. de woonplaatsservice bij een organisatie die deze hulp biedt.   
+3. de woonplaatsservice bij een organisatie die deze hulp biedt; 
 
-h. de financiële vergoeding van de kosten van het rij-examen; deze vergoeding kan worden toegekend aan de betrokkene of aan diens begeleider in de meerijsituatie.    
+4.een kaartkluis.  
+
+i.de financiële vergoeding van de kosten van het rij-examen; deze vergoeding kan worden toegekend aan de betrokkene of aan diens begeleider in de meerijsituatie.    
 
 ### Artikel  5  
 
-1.  De in artikel 4, onderdeel a, onder 1 en 3, en onderdeel e, bedoelde voorzieningen worden toegekend tot maximaal 10.000 kilometers. De in artikel 4, onderdeel a, onder 2, bedoelde voorziening wordt toegekend tot maximaal 5.000 kilometers.   
+1.  De in artikel 4, onderdeel a, , en onderdeel f, bedoelde voorzieningen worden toegekend tot maximaal 10.000 kilometers.   
 2.  Bij het vaststellen van de in het eerste lid bedoelde voorzieningen wordt geen rekening gehouden met bespaarde kosten op het openbaar vervoer.   
-3.  De in artikel 4, onderdeel a en e, onder 1 tot en met 3, bedoelde voorzieningen worden toegekend voor een periode van vijf jaren. Deze periode kan worden verlengd met maximaal twee jaren.   
+3.  De in artikel 4, onderdeel a b, c en f, onder 1 tot en met 3, bedoelde voorzieningen worden toegekend voor een periode van vijf jaren. Deze periode kan worden verlengd met maximaal twee jaren.   
 4.  Indien de medische dan wel sociaal-medische redenen voor deze voorzieningen vervallen kunnen deze voorzieningen voor elke toegekende periode van vijf jaren gedurende een termijn van één jaar worden voortgezet doch ten hoogste voor de duur van drie jaar. 
+5. De in artikel 4 onderdeel b, bedoelde voorzieningen worden toegekend indien op grond van psychische klachten invaliditeit is aangenomen en het niet toekennen van die voorziening medisch aantoonbaar zou leiden tot mobiliteitsbeperkingen met dreigende psychische decompensatie tot gevolg, dan wel tot een ernstige bestaansverschraling met een verstoring van het psychische evenwicht. Voor toekenning is een medische onderbouwing met medewerking van psychiatrische expertise noodzakelijk.
 
 ### Artikel  6  
 
-1.  Voor de vaststelling van het recht op een voorziening als bedoeld in artikel 4, onderdeel a tot en met c, en onderdeel e, is de hoogte van het inkomen van de betrokkene bepalend.   
+1.  Voor de vaststelling van het recht op een voorziening als bedoeld in artikel 4, onderdeel a tot en met c, en onderdeel f, is de hoogte van het inkomen van de betrokkene bepalend.   
 2.  Bij de vaststelling van het inkomen van de betrokkene wordt een pensioen ter zake van invaliditeit in aanmerking genomen, met dien verstande dat de toegekende bijzondere invaliditeitsverhoging ingevolge artikel 8 van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen dan wel artikel 3 van het Besluit bijzondere militaire pensioenen buiten beschouwing blijft.   
 3.  Bij de vaststelling van het overige inkomen van de betrokkene zijn de Regeling inkomenstoets vervoersvoorzieningen REA, zoals die luidde op de dag voorafgaande aan de dag waarop de regeling vervalt als gevolg van de inwerkingtreding van artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen of paragraaf 2 van de Reïntegratieregeling, voorzover daarvan in het navolgende niet wordt afgeweken, van overeenkomstige toepassing.   
 4.  De in het eerste lid bedoelde voorzieningen worden toegekend indien het inkomen van de betrokkene in het kalenderjaar waarin het verzoek tot toekenning van de voorziening is gedaan niet meer bedraagt dan 261 x 80% van het bedrag, bedoeld in de artikelen 17, eerste lid, en 18, vierde lid, van de Wet financiering sociale verzekeringen met betrekking tot een loontijdvak van een dag.   
@@ -175,79 +182,77 @@ indien de overschrijding f 11.250 te boven gaat wordt geen tegemoetkoming verstr
 
 Onder leefvoorzieningen die betrekking hebben op verplaatsing binnenshuis en buitenshuis per rolstoel worden verstaan: 
 
-a. de verstrekking van een rolstoel in bruikleen;  
+a.de verstrekking van een rolstoel in bruikleen;  
 
-b. de financiële vergoeding van de kosten van: 
+b.de financiële vergoeding van de kosten van: 
 
-1. de noodzakelijke aanpassingen van een rolstoel;  
+1.de noodzakelijke aanpassingen van een rolstoel;  
 
-2. de accessoires van een rolstoel;  
+2.de accessoires van een rolstoel;  
 
-3. het onderhoud, de reparatie en de keuring van een rolstoel;  
+3.het onderhoud, de reparatie en de keuring van een rolstoel;  
 
-4. een rolstoeltraining;  
+4.een rolstoeltraining;  
 
-5. de premie van de verzekering van een buitenrolstoel;  
+5.de premie van de verzekering van een buitenrolstoel.    
 
-6. een weer beschermende rolstoelkleding;    
+c.de financiële tegemoetkoming in de kosten van: 
 
-c. de financiële tegemoetkoming in de kosten van: 
+1.weerbestendige rolstoelkleding;  
 
-1. een rolstoelgarderobe;  
+2.rolstoelbestendige vloerbedekking;
 
-2. een sportrolstoel of andere sportattributen, exclusief afleveringskosten;  
+3.een sportrolstoel, exclusief afleveringskosten;  
 
-3. het onderhoud en de reparatie van een sportrolstoel of andere sportattributen.      
+4.het onderhoud en de reparatie van een sportrolstoel.      
 
 ### Artikel  8  
 
 Onder leefvoorzieningen die betrekking hebben op wonen wordt verstaan: 
 
-a. de financiële vergoeding van de kosten van de verhuizing door een erkende verhuizer;  
+a.de financiële vergoeding van de kosten van de verhuizing door een erkende verhuizer;  
 
-b. de financiële tegemoetkoming in de kosten van: 
+b.de financiële vergoeding van de eigen bijdrage voor een woonvoorziening krachtens de Wet maatschappelijke ondersteuning;
 
-1. de inrichting van de nieuwe woning; 
+c.de financiële tegemoetkoming in de kosten van: 
 
-2. de herinrichting van de woning;  
+1.de inrichting van de nieuwe woning; 
 
-3. de bijdrage voor een woningaanpassing krachtens de Wet maatschappelijke ondersteuning 2015.     
+2.de herinrichting van de woning.     
 
 ### Artikel  9  
 
 Onder leefvoorzieningen die betrekking hebben op de kosten verbonden aan op zich normale huishoudelijke uitgaven worden verstaan: 
 
-a.  de financiële vergoeding van de kosten van: 
+a. de financiële vergoeding van de kosten van: 
 
-1.  de eigen bijdrage voor huishoudelijke hulp voor zover deze hulp door een instelling voor gezinsverzorging kan worden verleend;  
+1. de eigen bijdrage voor huishoudelijke hulp voor zover deze hulp door een instelling voor gezinsverzorging kan worden verleend;  
 
-2.  de factuur in verband met de indicatiestelling van de onder 1, bedoelde instelling;  
+2. de factuur in verband met de indicatiestelling van de onder 1, bedoelde instelling;  
 
-3.  het abonnement, alsmede de aanschaf en aansluiting van de telefoon;  
+3. de extra huurkosten van een woning indien betrokkene voor het eerst zelfstandig gaat wonen en deze kosten een bedrag van 12% van het bruto jaarinkomen overschrijden. Voor verlenging van de voorziening kan betrokkene jaarlijks een verzoek hiertoe indienen.   
 
-4. de extra huurkosten van een woning indien betrokkene voor het eerst zelfstandig gaat wonen en deze kosten een bedrag van 12% van het bruto jaarinkomen overschrijden. Voor verlenging van de voorziening kan betrokkene jaarlijks een verzoek hiertoe indienen.   
+b. de financiële tegemoetkoming in de kosten van: 
 
-b.  de financiële tegemoetkoming in de kosten van: 
+1. het zelf inhuren van huishoudelijke hulp volgens een jaarlijks vast te stellen uurloon indien de in onderdeel a, onder 1, bedoelde instelling deze hulp niet kan leveren;  
 
-1.  het zelf inhuren van huishoudelijke hulp volgens een jaarlijks vast te stellen uurloon indien de in onderdeel a, onder 1, bedoelde instelling deze hulp niet kan leveren;  
+2. de extra slijtage van de kleding, schoeisel en het beddengoed;  
 
-2.  de extra slijtage van de kleding, schoeisel en het beddegoed;  
+3. de vervanging van een garderobe in verband met de invaliditeit van de betrokkene;  
 
-3.  de vervanging van een garderobe in verband met de invaliditeit van de betrokkene;  
+4. de extra verwarming en elektriciteit;    
 
-4.  de extra verwarming en elektriciteit;    
+c. de financiële tegemoetkoming in de premiekosten met betrekking tot: 
 
-c.  de financiële tegemoetkoming in de premiekosten met betrekking tot: 
+1. een ongevallenverzekering, voor zover deze de risico’s, verbonden aan het uitgeoefende beroep, dekt;  
 
-1.  een ongevallenverzekering, voor zover deze de risico’s, verbonden aan het uitgeoefende beroep, dekt;  
+2. een verzekering ter verkrijging van een periodieke uitkering wegens inkomstenderving als gevolg van arbeidsongeschiktheid;  
 
-2.  een verzekering ter verkrijging van een periodieke uitkering wegens inkomstenderving als gevolg van arbeidsongeschiktheid;  
+3. een levensverzekering ten behoeve van nabestaanden;  
 
-3.  een levensverzekering ten behoeve van nabestaanden;  
+4. een pensioenverzekering ten behoeve van een nabestaandenpensioen;  
 
-4.  een pensioenverzekering ten behoeve van een nabestaandenpensioen;  
-
-5.  een verzekering van het WAO-hiaat.      
+5. een verzekering van het WAO-hiaat.      
 
 ### Artikel  9a  
 
@@ -255,19 +260,26 @@ c.  de financiële tegemoetkoming in de premiekosten met betrekking tot:
 
 a. een financiële tegemoetkoming in de kosten van hobbybeoefening;  
 
-b. een financiële tegemoetkoming in de kosten van de aanpassing van een attribuut benodigd voor het uitoefenen van de hobby.    
-2.   Onder leefvoorzieningen die betrekking hebben op conditietraining wordt verstaan een financiële tegemoetkoming in de kosten van apparatuur t.b.v. conditietraining.   
-3.  Onder leefvoorzieningen die betrekking hebben op het verplaatsen per fiets wordt verstaan: 
+b. een financiële tegemoetkoming in de kosten van de aanpassing van een attribuut benodigd voor het uitoefenen van de hobby;  
 
-a. een financiële tegemoetkoming in de meerkosten van een van de standaardfiets afwijkende fiets;  
+c. een aan de invaliditeit aangepast sportattribuut ten behoeve van instandhouding of verbetering van de conditie;  
 
-b. een financiële tegemoetkoming in de meerkosten van het onderhoudscontract.    
-4.   Onder leefvoorzieningen die betrekking hebben op kosten verbonden aan alarmeringstoestellen wordt verstaan: 
+d. het onderhoud en de reparatie van het aangepast sportattribuut, bedoeld onder c.;  
 
-a. een financiële vergoeding van de kosten van een aansluiting dan wel de abonnementskosten op het hulpnet draagbare alarminstallatie;  
+e. een financiële tegemoetkoming in de kosten van apparatuur t.b.v. conditietraining.    
+2.  Onder leefvoorzieningen die betrekking hebben op het verplaatsen per fiets wordt verstaan: 
 
-b. een financiële tegemoetkoming in de aanschafkosten van een mobiele telefoon, alsmede een tegemoetkoming in de kosten in verband met het inroepen van hulp.     
-5.  Onder leefvoorzieningen die betrekking hebben op algemene dagelijkse levensverrichtingen wordt verstaan een financiële tegemoetkoming in de kosten van middelen dan wel behandelingen betrekking hebbend op ondersteuning voor het verrichten van dagelijkse levensverrichtingen noodzakelijk tengevolge van de invaliditeit.  
+a. een financiële tegemoetkoming in de meerkosten van een aan de invaliditeit aangepaste, van een standaardfiets afwijkende fiets;  
+
+b. een financiële tegemoetkoming in de aanschafkosten van een elektrische fiets, inclusief accu;  
+
+c. een financiële tegemoetkoming in de onderhoudskosten van de onder a. of b. genoemde fiets;  
+
+d. een financiële tegemoetkoming in de verzekeringskosten van de onder a. of b. genoemde fiets.    
+3.  Onder de leefvoorziening die betrekking heeft op kosten, verbonden aan alarmeringstoestellen wordt verstaan: een financiële vergoeding van de kosten van een aansluiting dan wel de abonnementskosten op het hulpnet draagbare alarminstallatie.   
+4.  Onder leefvoorzieningen die betrekking hebben op algemene dagelijkse levensverrichtingen wordt verstaan een financiële tegemoetkoming in de kosten van middelen dan wel behandelingen betrekking hebbend op ondersteuning voor het verrichten van dagelijkse levensverrichtingen noodzakelijk tengevolge van de invaliditeit.  
+5. Onder de leefvoorziening die betrekking heeft op kinderopvang wordt verstaan een financiële tegemoetkoming in de enkel door invaliditeit veroorzaakte kosten van opvang van kinderen tot 13 jaar die tot het normale huishouden van betrokkene behoren, waarbij de opvang plaatsvindt door een professionele, geregistreerde en gecertificeerde kinderopvangaanbieder.
+6. Onder de leefvoorziening die betrekking heeft op gezinsbegeleiding wordt verstaan een financiële vergoeding van professionele begeleiding op relationeel, sociaal, maatschappelijk of financieel gebied.
 
 ### Hoofdstuk 4 
 
@@ -327,23 +339,27 @@ b. de financiële tegemoetkoming in de kosten van:
 
 9. psychologische hulp;  
 
-10. gezinsbegeleiding;  
+10. zelfverzorgingsproducten voor brandwonden;  
 
-11. zelfverzorgingsproducten voor brandwonden;  
+11. geïndiceerde contactlenzen; 
 
-12. geïndiceerde contactlenzen; 
+12. geïndiceerde brillenglazen;  
 
-13. geïndiceerde brillenglazen;  
+13. een brilmontuur;  
 
-14. een brilmontuur;  
+14. een sportprothese; 
 
-15. een sportprothese.  
+15.braces en aanpassingen van sportschoeisel;
+
+16.Een veteranen hulphond. 
 
 c.de financiële tegemoetkoming in de kosten van kleine medische hulpmiddelen dan wel behandelingen noodzakelijk tengevolge van de invaliditeit;
 
 d. de financiële tegemoetkoming in de kosten van de hogere premie voor een ziektekosten-verzekering indien deze extra kosten in redelijkheid niet te zijnen laste kunnen blijven.  
 
 e. de financiële tegemoetkoming in de kosten van het eigen risico van een zorgverzekering. 
+
+f.de vergoeding van de eigen bijdrage als bedoeld in de Wet langdurige zorg (Wlz) bij tijdelijk verblijf in een AWBZ-instelling, indien betrokkene tevens een eigen huishouding voert.
 
 ### Hoofdstuk 5 
 
@@ -381,124 +397,144 @@ In individuele gevallen, waarin de regeling niet of niet in redelijkheid voorzie
 
 ### Artikel  16  
 
-1.  De in artikel 4, onderdeel g, onder 1, bedoelde financiële tegemoetkoming betreft maximaal 100 autorijlessen en 25 proef- en gewenningslessen.   
-2.  De financiële tegemoetkoming in de afleveringskosten, bedoeld in artikel 4, onderdeel g, onder 2, bedraagt maximaal € 329,–.   
-3.  De financiële tegemoetkoming voor de woonplaatsservice, bedoeld in artikel 4, onderdeel g, onder 3, bedraagt € 43,–. 
+1. De in artikel 4, onderdeel e, bedoelde financiële tegemoetkoming bedraagt € 2.500,– per zeven jaar. 
+2.  De in artikel 4, onderdeel h, onder 1, bedoelde financiële tegemoetkoming betreft maximaal 100 autorijlessen en 25 proef- en gewenningslessen.   
+3.  De financiële tegemoetkoming in de afleveringskosten, bedoeld in artikel 4, onderdeel h, onder 2, bedraagt maximaal € 366,–.   
+4.  De financiële tegemoetkoming voor de woonplaatsservice, bedoeld in artikel 4, onderdeel h, onder 3, bedraagt € 50,–. 
+5. De financiële tegemoetkoming voor de kaartkluis, bedoeld in artikel 4, onderdeel h, onder 4, bedraagt € 67,–.
 
-###Artikel 17 
+### Artikel  17  
 
-1. Voor elk kalenderjaar bedraagt in geval van leefvervoer de financiële tegemoetkoming in de kosten van:
+1.  Voor elk kalenderjaar bedraagt in geval van leefvervoer de financiële tegemoetkoming in de kosten van: 
 
-1. het gebruik van een rolstoeltaxi als bedoeld in artikel 4, onderdeel a, onder 1, ten hoogste 10.000 X f 1,00 per kilometer, alsmede van een taxi als bedoeld in artikel 4, onderdeel a, onder 1, ten hoogste 10.000 X f 0,65 per kilometer;
+1. het gebruik van een rolstoeltaxi als bedoeld in artikel 4, onderdeel a, onder 1, ten hoogste 10.000 X f 1,00 per kilometer, alsmede van een taxi als bedoeld in artikel 4, onderdeel a, onder 1, ten hoogste 10.000 X f 0,65 per kilometer;  
 
-b. het gebruik van een taxi ingeval van slechtziendheid als bedoeld in artikel 4, onderdeel a, onder 2, ten hoogste 5.000 X f 0,65 per kilometer;
+b. het vervoer door derden, bedoeld in artikel 4, onderdeel a, onder 2, ten hoogste 10.000 X f 0,65 per kilometer;  
 
-c. het vervoer door derden, bedoeld in artikel 4, onderdeel a, onder 3, ten hoogste 10.000 X f 0,65 per kilometer;
+c. het gebruik van een eigen auto als bedoeld in artikel 4, onderdeel f, onder 1, ten hoogste 10.000 X f 0,65 per kilometer;  
 
-d. het gebruik van een eigen auto als bedoeld in artikel 4, onderdeel e, onder 1, ten hoogste 10.000 X f 0,65 per kilometer;
+d. het gebruik van een standaard auto als bedoeld in artikel 4, onderdeel f, onder 2, of een duurdere auto dan de standaard auto, bedoeld in artikel 4, onderdeel f, onder 3, ten hoogste 10.000 X f 0,49 per kilometer;  
 
-e. het gebruik van een standaard auto als bedoeld in artikel 4, onderdeel e, onder 2, of een duurdere auto dan de standaard auto, bedoeld in artikel 4, onderdeel e, onder 3, ten hoogste 10.000 X f 0,49 per kilometer;
+e. het gebruik van een auto in bruikleen als bedoeld in artikel 4, onderdeel f, onder 4, ten hoogste 10.000 kilometers X de kilometervergoeding die afgestemd is op het merk en type auto.     
+2.  Ingeval van woon-werkvervoer worden de in het eerste lid bedoelde financiële tegemoetkomingen in de kosten van het gebruik van bedoelde (rolstoel)taxi of auto toegekend tot maximaal 80 werkkilometers vice versa per werkdag.   
+3.  In afwijking van het eerste en tweede lid bedraagt voor elk kalenderjaar ingeval van een combinatie van het woon-werkvervoer en leefvervoer de financiële tegemoetkoming in de kosten van: 
 
-f. het gebruik van een auto in bruikleen als bedoeld in artikel 4, onderdeel e, onder 4, ten hoogste 10.000 kilometers X de kilometervergoeding die afgestemd is op het merk en type auto.
-2. Ingeval van woon-werkvervoer worden de in het eerste lid bedoelde financiële tegemoetkomingen in de kosten van het gebruik van bedoelde (rolstoel)taxi of auto toegekend tot maximaal 80 werkkilometers vice versa per werkdag.
-3. In afwijking van het eerste en tweede lid bedraagt voor elk kalenderjaar ingeval van een combinatie van het woon-werkvervoer en leefvervoer de financiële tegemoetkoming in de kosten van:
+a. het vervoer door derden, bedoeld in artikel 4, onderdeel a, onder 2, of het gebruik van een eigen auto als bedoeld in artikel 4, onderdeel f, onder 1: 
 
-a. het vervoer door derden, bedoeld in artikel 4, onderdeel a, onder 3, of het gebruik van een eigen auto als bedoeld in artikel 4, onderdeel e, onder 1:
+tot 15.000 kilometers f 0,46 per kilometer; 
 
-tot 15.000 kilometers f 0,46 per kilometer;
+tot 20.000 kilometers f 0,36 per kilometer; 
 
-tot 20.000 kilometers f 0,36 per kilometer;
+bij meer dan 25.000 kilometers f 0,32 per kilometer;  
 
-bij meer dan 25.000 kilometers f 0,32 per kilometer;
+b. het gebruik van een standaard auto als bedoeld in artikel 4, onderdeel f, onder 2, of een duurdere auto als bedoeld in artikel 4, onderdeel f, onder 3: 
 
-b. het gebruik van een standaard auto als bedoeld in artikel 4, onderdeel e, onder 2, of een duurdere auto als bedoeld in artikel 4, onderdeel e, onder 3:
+tot 15.000 kilometers f 0,49 per kilometer; 
 
-tot 15.000 kilometers f 0,49 per kilometer;
+tot 20.000 kilometers f 0,38 per kilometer; 
 
-tot 20.000 kilometers f 0,38 per kilometer;
+tot 25.000 kilometers f 0,34 per kilometer; 
 
-tot 25.000 kilometers f 0,34 per kilometer;
+tot 30.000 kilometers f 0,32 per kilometer; 
 
-tot 30.000 kilometers f 0,32 per kilometer;
+tot 33.000 kilometers f 0,29 per kilometer; 
 
-tot 33.000 kilometers f 0,29 per kilometer;
+bij meer dan 33.000 kilometers f 0,27 per kilometer;  
 
-bij meer dan 33.000 kilometers f 0,27 per kilometer;
-
-c. het gebruik van een auto in bruikleen als bedoeld in artikel 4, onderdeel e, onder 4, bij meer dan 10.000 kilometers het feitelijk aantal kilometers X de kilometervergoeding die is afgestemd op het merk en type auto. 
+c. het gebruik van een auto in bruikleen als bedoeld in artikel 4, onderdeel f, onder 4, bij meer dan 10.000 kilometers het feitelijk aantal kilometers X de kilometervergoeding die is afgestemd op het merk en type auto.     
 
 ### Artikel  18  
 
-1.  De in artikel 7, onderdeel c, onder 1, bedoelde financiële tegemoetkoming in de kosten van een rolstoelgarderobe bedraagt maximaal € 2182,-.   
-2.  De in artikel 7, onderdeel c, onder 2, bedoelde financiële tegemoetkoming in de kosten van een sportrolstoel of een ander sporttoestel bedraagt maximaal € 2509,-.   
-3.  De in artikel 7, onderdeel c, onder 3, bedoelde financiële tegemoetkoming in de kosten van het onderhoud en de reparatie van een sportrolstoel bedraagt voor een periode van drie jaar maximaal € 547,-.   
+1.  De in artikel 7, onderdeel c, onder 1, bedoelde financiële tegemoetkoming in de kosten van weerbestendige rolstoelkleding bedraagt eenmalig maximaal € 170,–.  
+2. De in artikel 7, onderdeel b, bedoelde financiële tegemoetkoming in de kosten van rolstoelbestendige vloerbedekking bedraagt maximaal € 30,– per strekkende meter. 
+3.  De in artikel 7, onderdeel c, onder 3, bedoelde financiële tegemoetkoming in de kosten van een sportrolstoel bedraagt maximaal € 2770,-.   
+4.  De in artikel 7, onderdeel c, onder 4, bedoelde financiële tegemoetkoming in de kosten van het onderhoud en de reparatie van een sportrolstoel bedraagt voor een periode van drie jaar maximaal € 606,-.   
 
 ### Artikel  19  
 
-De berekening van de in artikel 8, onderdeel b onder 1 en 2 bedoelde financiële tegemoetkoming in de kosten van inrichting van de woning vindt plaats overeenkomstig het Verplaatsingskostenbesluit militairen. 
+De berekening van de in artikel 8, onderdeel c, onder 1 en 2 bedoelde tegemoetkoming in de kosten van inrichting van de woning vindt plaats overeenkomstig het Verplaatsingskostenbesluit Defensie. 
 
 ### Artikel  20  
 
-1. Bij de vaststelling van het jaarinkomen als bedoeld in artikel 9, onderdeel a, punt wordt een pensioen ter zake van invaliditeit in aanmerking genomen, met dien verstande dat de toegekende bijzondere invaliditeitsverhoging ingevolge artikel 8 van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen dan wel artikel 3 van het Besluit bijzondere militaire pensioenen buiten beschouwing blijft. 
-2.  De in artikel 9, onderdeel b, onder 1, bedoelde vergoeding bedraagt maximaal € 15,– per geïndiceerd uur.   
-3.  De in artikel 9, onderdeel b, onder 2, bedoelde financiële tegemoetkoming in de kosten van de extra slijtage van kleding en beddegoed wordt bepaald aan de hand van de orthobanda-lijst.   
-4.  De in artikel 9, onderdeel b, onder 3, bedoelde financiële tegemoetkoming in de kosten van de vervanging van een garderobe wordt bepaald aan de hand van de door het Nationaal instituut voor budgetvoorlichting vastgestelde normen.   
-5.  De in artikel 9, onderdeel b, onder 4, bedoelde financiële tegemoetkoming in de verwarmings- en elektriciteitskosten wordt slechts toegekend, voorzover die meer bedragen dan hetgeen, gegeven de situering en toestand van de woning van de betrokkene, gebruikelijk is.   
+1. Bij de vaststelling van het jaarinkomen als bedoeld in artikel 9, onderdeel a, onder 3 wordt een pensioen ter zake van invaliditeit in aanmerking genomen, met dien verstande dat de toegekende bijzondere invaliditeitsverhoging ingevolge artikel 8 van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen dan wel artikel 3 van het Besluit bijzondere militaire pensioenen buiten beschouwing blijft. 
+2.  De in artikel 9, onderdeel b, onder 1, bedoelde tegemoetkoming bedraagt maximaal € 19,– per geïndiceerd uur.   
+3.  De in artikel 9, onderdeel b, onder 2, bedoelde financiële tegemoetkoming in de kosten van de extra slijtage van kleding en beddengoed wordt bepaald aan de hand van de orthobanda-lijst. Indien de extra slijtage is veroorzaakt door overmatige transpiratie bedraagt de financiële tegemoetkoming in de kledingkosten maximaal € 491,– per jaar en de financiële tegemoetkoming in de kosten van beddengoed maximaal € 262,– per jaar.   
+4.  De in artikel 9, onderdeel b, onder 3, bedoelde financiële tegemoetkoming in de kosten van de vervanging van een garderobe is eenmalig en bedraagt maximaal € 816,–.   
+5.  De in artikel 9, onderdeel b, onder 4, bedoelde financiële tegemoetkoming in de verwarmings- en elektriciteitskosten wordt slechts toegekend indien een hogere dan gebruikelijke omgevingstemperatuur is vereist en, voorzover de kosten die meer bedragen dan hetgeen, gegeven de situering en toestand van de woning van de betrokkene, gebruikelijk is.   
 6.  De in artikel 9, onderdeel c, bedoelde financiële tegemoetkoming betreft het premiedeel dat vanwege de invaliditeit van de betrokkene boven het gebruikelijke tarief in rekening wordt gebracht, tenzij deze verhoging onredelijk is. De financiële tegemoetkoming bedraagt niet meer dan de extra premie.   
 
 ### Artikel  20a  
 
-1.  De in artikel 9a, eerste lid onderdeel a, bedoelde financiële tegemoetkoming bedraagt rekening houdend met de eigen bijdrage maximaal € 2182,- per jaar. De hoogte van de eigen bijdrage bedraagt: 
+1.  De in artikel 9a, eerste lid onderdeel a, bedoelde financiële tegemoetkoming bedraagt, rekening houdend met de eigen bijdrage, éénmalig maximaal € 2408-. Dit bedrag kan over vijf jaar verspreid worden uitgekeerd. De hoogte van de eigen bijdrage bedraagt: 
 
-a. bij een inkomen tot het bruto minimumloon 1% van het inkomen;  
+a. bij een inkomen tot het bruto minimumloon: 1% van het inkomen;  
 
-b. bij een inkomen hoger dan het bruto minimumloon, maar lager dan het bruto inkomen ingevolge de Regeling inkomenstoets vervoersvoorzieningen REA, zoals die luidde op de dag voorafgaande aan de dag waarop de regeling vervalt als gevolg van de inwerkingtreding van artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen of paragraaf 2 van de Reïntegratieregeling, 1,5% van het inkomen;  
+b. bij een inkomen hoger dan het bruto minimumloon, maar lager dan het bruto inkomen ingevolge de Regeling inkomenstoets vervoersvoorzieningen REA, zoals die luidde op de dag voorafgaand aan de dag waarop de regeling is vervallen: 1,5% van het inkomen;  
 
-c. bij een inkomen hoger dan het bruto inkomen ingevolge de Regeling inkomenstoets vervoersvoorzieningen REA, zoals die luidde op de dag voorafgaande aan de dag waarop de regeling vervalt als gevolg van de inwerkingtreding van artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen of paragraaf 2 van de Reïntegratieregeling, 2% van het inkomen.  Bij de vaststelling van het inkomen is het bepaalde in artikel 6, tweede en derde lid van overeenkomstige toepassing.
-2.  De in artikel 9a, eerste lid onderdeel b, bedoelde financiële tegemoetkoming bedraagt maximaal € 547,- per jaar.
-3.  De in artikel 9a, tweede lid, bedoelde financiële tegemoetkoming bedraagt maximaal € 547,- per jaar. 
-4.  De in artikel 9a, derde lid, onder a, bedoelde financiële tegemoetkoming bedraagt, rekening houdende met een eigen bijdrage van € 399,– maximaal € 547,–. De in artikel 9a, derde lid, onder b, bedoelde financiële tegemoetkoming bedraagt maximaal € 219,– per jaar.  
-5.  De in artikel 9a, vierde lid, onder b, bedoelde financiële tegemoetkomingen bedragen maximaal € 165,– per vijf jaar, respectievelijk maximaal € 46,– per jaar.  
-6.  De in artikel 9a, vijfde lid, bedoelde financiële tegemoetkoming bedraagt maximaal € 492,- per middel dan wel behandeling per jaar. 
+c. bij een inkomen hoger dan het bruto inkomen ingevolge de Regeling inkomenstoets vervoersvoorzieningen REA, zoals die luidde op de dag voorafgaand aan de dag waarop de regeling is vervallen: 2% van het inkomen.   Bij de vaststelling van het inkomen is het bepaalde in artikel 6, tweede en derde lid, van overeenkomstige toepassing. 
+2. De in artikel 9a, eerste lid, onderdeel b, d en e, bedoelde financiële tegemoetkoming bedraagt maximaal € 606,– per vijf jaar.
+3. De in artikel 9a, eerste lid, onderdeel c, bedoelde financiële tegemoetkoming bedraagt maximaal € 2745,– per vijf jaar.
+4. De in artikel 9a, tweede lid, onder a, bedoelde financiële tegemoetkoming bedraagt, rekening houdende met een eigen bijdrage van € 441,– maximaal € 606,– per vijf jaar.
+5. De in artikel 9a, tweede lid, onder b, bedoelde financiële tegemoetkoming bedraagt maximaal € 2500,– per vijf jaar.
+6. De in artikel 9a, tweede lid, onder c, bedoelde financiële tegemoetkomingen bedragen maximaal € 500,– per vijf jaar, respectievelijk maximaal € 100,– per jaar.
+7. De in artikel 9a, tweede lid, onder d, bedoelde financiële tegemoetkoming bedraagt maximaal € 60,– per jaar.
+8. De in artikel 9a, derde lid, bedoelde financiële tegemoetkoming bedraagt maximaal € 245,– per jaar.
+9. De in artikel 9a, vierde lid, bedoelde financiële tegemoetkoming bedraagt maximaal € 544,– per middel dan wel per behandeling per jaar.
+10. De in artikel 9a, vijfde lid, bedoelde financiële tegemoetkoming bedraagt de kosten van kinderopvang voor de dagen waarop een behandeling plaatsvindt almede, indien medisch geïndiceerd, voor één extra hersteldag per week. De tegemoetkoming wordt verstrekt indien betrokkene voorheen de kinderopvang verzorgde. De tegemoetkoming wordt verlaagd met het recht op kinderopvangtoeslag.
+11. De in artikel 9a, zesde lid, bedoelde financiële vergoeding, wordt verlaagd met aanspraken op vergoeding van ziektekostenverzekering en wordt hooguit tweemaal voor een jaar toegekend.*Voorwaarden voor toekenning* 
+
+a. er is t.a.v. cliënt sprake van de dienstverbandaandoening PTSS,  
+
+b. vanuit de behandelende sector wordt aangegeven dat begeleiding in het betreffende geval noodzakelijk is, en  
+
+c. de zorgcoördinator/casemanager (ZC/CM) geeft een onderbouwd advies af waaruit blijkt dat begeleiding noodzakelijk is om ernstige gevolgen (financieel, relationeel, sociaal maatschappelijk e.d.) te voorkomen.   *Duur van de toekenning* 
+
+a. De onderhavige vergoeding wordt toegekend voor de duur van maximaal 1 jaar (korter indien de ZC/CM een kortere periode voldoende acht).  
+
+b. De vergoeding kan maximaal 1 jaar worden verlengd (indien de ZC/CM het noodzakelijk acht en indien dit vanuit de behandelende sector wordt ondersteund).  
+
+c. Indien de zorgcoördinator de begeleiding na 2 jaar alsnog noodzakelijk acht, wordt deze aanvraag in het kader van art. 11 VZR aan de VA/SMO ter beoordeling voorgelegd (er is op dat moment voldoende informatie beschikbaar op grond waarvan de VA zich een beeld kan vormen van de situatie van cliënt (en zijn gezin). De VA dient de duur van de eventuele verlenging aan te geven.  
 
 ### Artikel  20b  
 
 1.   De in artikel 10a, onderdeel b, onder 1, bedoelde financiële tegemoetkoming in de kosten van een hoortoestel bestaat ten hoogste uit de aanschaffingskosten van het hoortoestel minus de vergoeding van de ziektenkostenverzekering dan wel het ziekenfonds, minus de eventuele aanvullende vergoeding, bedoeld in artikel 4.7.4. van de bijlage van de Regeling ziektekostenverzekering militairen (PAV 7315/94029383).  
 2.   De in artikel 10a, onderdeel b, onder 2, bedoelde financiële tegemoetkoming in de kosten van een prothese bestaat ten hoogste uit de aanschaffingskosten van de prothese minus de vergoeding van de ziektenkostenverzekering dan wel het ziekenfonds minus de eventuele aanvullende vergoeding, bedoeld in artikel 4.7.1. van de bijlage van de Regeling ziektekostenverzekering militairen (PAV 7315/94029383). Naast het hiervoor gestelde bestaat de financiële tegemoetkoming voor gecompliceerde en dure protheses tevens uit een financiële vergoeding voor de kosten van een servicepakket behorende bij de desbetreffende prothese.   
-3.  De in het artikel 10a, onderdeel b, onder 3 tot en met 8 en 12 tot en met 15, bedoelde financiële tegemoetkomingen bestaan ten hoogste uit de aanschafkosten van de onder die punten vermelde verstrekkingen verminderd met de aanspraken op vergoedingen zoals een vergoeding van de zorgverzekering of een vergoeding op grond van de Regeling ziektekostenverzekering militairen en bedragen ten hoogste voor: 
+3.  De in het artikel 10a, onderdeel b, onder 3 tot en met 15, bedoelde financiële tegemoetkomingen bestaan ten hoogste uit de aanschafkosten van de onder die punten vermelde verstrekkingen verminderd met de aanspraken op vergoedingen zoals een vergoeding van de zorgverzekering of een vergoeding op grond van de Regeling ziektekostenverzekering militairen en bedragen ten hoogste voor: 
 
-– een sta-op-stoel € 2726,–;  
+– een sta-op-stoel € 3008,–;  
 
-– een sta-stoel € 1092,–;  
+– een sta-stoel € 1206,–;  
 
-– een bureaustoel i.v.m. thuis te verrichten werkzaamheden € 1638,–;  
+– een bureaustoel i.v.m. thuis te verrichten werkzaamheden € 1809,–;  
 
-– twee eenpersoonsbedden inclusief de eerste aankleding € 2182,–;  
+– twee eenpersoonsbedden inclusief de eerste aankleding € 2408,–;  
 
-– een speciaal bed inclusief de eerste aankleding en of bodem en of matras € 2182,–;  
+– een speciaal bed inclusief de eerste aankleding en of bodem en of matras € 2408,–;  
 
-– een douche - toiletstoel € 3272,–;  
+– een douche - toiletstoel € 3611,–;  
 
-– psychologische hulp € 2182,– ;  
+– psychologische hulp € 2408,– ;  
 
-– gezinsbegeleiding € 2182,– ;  
+–  € 2408,– ;  
 
-– zelfverzorgingsproducten voor brandwonden € 1092,–;  
+– zelfverzorgingsproducten voor brandwonden € 1206,–;  
 
 – geïndiceerde contactlenzen: de kostprijs;  
 
 – geïndiceerde brillenglazen: de kostprijs maximaal één maal per vier jaar;  
 
-– een brilmontuur: één maal per vier jaar een maximum bedrag van € 146,–;  
+– een brilmontuur: één maal per vier jaar € 164,–;  
 
-– een sportprothese: € 10.593,-.     
-4.  De in artikel 10a, onder c, bedoelde financiële tegemoetkoming bedraagt maximaal € 492,– per middel dan wel behandeling per jaar.  
+– een sportprothese: € 11.685,– ; braces en aanpassingen aan sportschoeisel: de kostprijs;  
+
+–veteranen hulphond € 1050,–.   
+4.  De in artikel 10a, onder c, bedoelde financiële tegemoetkoming bedraagt maximaal € 544,– per middel dan wel behandeling per jaar.  
 5.   De in artikel 10a, onderdeel c, bedoelde financiële tegemoetkoming in de extra kosten van de premie van een ziektekostenverzekering bestaat ten hoogste uit het verschil tussen de verschuldigde hogere premie en de gemiddelde premie voor particuliere ziektekostenverze-keringen die als uitgangspunt wordt genomen voor de toepassing van het Interimbesluit ziektekosten burgerlijke ambtenaren defensie.   
 6.  De in artikel 10a, onderdeel e, bedoelde financiële tegemoetkoming bedraagt maximaal het bedrag van het eigen risico genoemd in artikel 19 van de Zorgverzekeringswet, in voorkomend geval verminderd met het bedrag aan compensatie verplicht eigen risico voor chronisch zieken en gehandicapten ingevolge artikel 118a van de Zorgverzekeringswet. 
 
 ### Artikel  20c  
 
-De in de artikelen 16, tweede en derde lid, 18, 20, tweede, derde en vierde lid, 20a en 20b genoemde bedragen aan financiële tegemoetkomingen worden per 1 januari van elk kalenderjaar geïndexeerd aan de hand van het consumentenprijsindexcijfer. De geïndexeerde bedragen worden afgerond naar boven op gehele bedragen. 
+De in de artikelen 16,, 18, 20,, 20a en 20b genoemde bedragen aan financiële tegemoetkomingen worden per 1 januari van elk kalenderjaar geïndexeerd aan de hand van het consumentenprijsindexcijfer. De geïndexeerde bedragen worden afgerond naar boven op gehele bedragen met uitzondering van de tegemoetkoming voor de veteranen hulphond. De tegemoetkoming veteranen hulphond van art. 20b lid 3 volgt de hoogte van het bedrag zoals dat jaarlijks vanuit SZVK-polis /Reglement Hulpmiddelen kan worden toegekend voor onderhoudskosten van ADL- en blindengeleidehonden. 
 
 ### Hoofdstuk 8 
 

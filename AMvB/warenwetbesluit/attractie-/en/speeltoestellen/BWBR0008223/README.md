@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 2 februari 1996, nr DGVgz/VVP/P 9696;
 
-Gelet op de [artikelen 1, eerste lid, onderdeel a](../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [2](../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [3](../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [6](../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [9](../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [10](../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [12, derde lid](../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), en [24 van de Wet op de gevaarlijke werktuigen](../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md);
+Gelet op de artikelen 1, eerste lid, onderdeel a, 2, 3, 6, 9, 10, 12, derde lid, en 24 van de Wet op de gevaarlijke werktuigen;
 
 Gezien het advies van de Commissie Regeling Attractieveiligheid van 12 december 1995;
 
@@ -28,13 +28,13 @@ b. attractietoestel van een eenvoudig ontwerp: al dan niet roterend attractietoe
 
 c. speeltoestel: een inrichting bestemd voor vermaak of ontspanning waarbij uitsluitend van zwaartekracht of van fysieke kracht van de mens gebruik wordt gemaakt;  
 
-d. aangewezen instelling: een krachtens [artikel 7a van de wet](../../../../../../wet/warenwet/BWBR0001969/README.md) met betrekking tot de keuring van attractie- en speeltoestellen aangewezen instelling;  
+d. aangewezen instelling: een krachtens artikel 7a van de wet met betrekking tot de keuring van attractie- en speeltoestellen aangewezen instelling;  
 
 e. norm: een document, uitgegeven door een deskundig, onafhankelijk instituut, waarin wordt omschreven aan welke eisen een attractie- of speeltoestel moet voldoen, dan wel waarin een omschrijving wordt gegeven van een keurings-, meet- of berekeningsmethode;  
 
 f. bijlage I, II, III: de bij dit besluit behorende bijlagen;  
 
-g. wet: [Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md).   
+g. wet: Warenwet.   
 
 ###Artikel 2 
 
@@ -137,7 +137,7 @@ De aangewezen instelling stelt bij attractietoestellen de voor het veilig gebrui
 
 ### Artikel  12  
 
-1.  De aangewezen instelling geeft aan de in [artikel 25 van de wet](../../../../../../wet/warenwet/BWBR0001969/README.md) bedoelde ambtenaren bericht van de uitslagen van keuringen en de datum waarop een tweede of volgende keuring van het bewuste toestel nodig is.   
+1.  De aangewezen instelling geeft aan de in artikel 25 van de wet bedoelde ambtenaren bericht van de uitslagen van keuringen en de datum waarop een tweede of volgende keuring van het bewuste toestel nodig is.   
 2.  De aangewezen instelling die het afgeven van een certificaat of merk van goedkeuring weigert, doet hiervan mededeling aan de overige aangewezen instellingen.  
 
 ### Artikel  13  
@@ -260,7 +260,7 @@ Onze Minister van Volksgezondheid, Welzijn en Sport zendt binnen 5 jaar na de in
 
 ### Artikel  27  
 
-Dit besluit berust op de [artikelen 1](../../../../../../wet/warenwet/BWBR0001969/README.md), [3 tot en met 11](../../../../../../wet/warenwet/BWBR0001969/README.md), [11a](../../../../../../wet/warenwet/BWBR0001969/README.md), [13](../../../../../../wet/warenwet/BWBR0001969/README.md), [14](../../../../../../wet/warenwet/BWBR0001969/README.md), [16](../../../../../../wet/warenwet/BWBR0001969/README.md) en [32b, eerste lid, van de wet](../../../../../../wet/warenwet/BWBR0001969/README.md). 
+Dit besluit berust op de artikelen 1, 3 tot en met 11, 11a, 13, 14, 16 en 32b, eerste lid, van de wet. 
 
 ### Artikel  28  
 

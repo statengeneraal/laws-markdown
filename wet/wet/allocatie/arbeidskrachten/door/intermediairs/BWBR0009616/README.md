@@ -220,6 +220,21 @@ De toezichthouder is te allen tijde bevoegd tot inbeslagneming van daarvoor vatb
 
 De door Onze Minister aangewezen ambtenaren, bedoeld in artikel 13, eerste lid, kunnen aan een naar zijn oordeel daarvoor in aanmerking komende rechtspersoon met volledige rechtsbevoegdheid die door de organisaties van werkgevers en werknemers is belast of mede is belast met het toezicht op de naleving van collectieve arbeidsovereenkomsten kosteloos de gegevens verstrekken, die zijn verkregen uit andere landen van de Europese Unie, van de Europese economische ruimte en uit Zwitserland en die noodzakelijk zijn voor het toezicht op de naleving van collectieve arbeidsovereenkomsten. 
 
+### Artikel  15b  
+
+####Openbaarmaking van door toezicht op de naleving verkregen gegevens
+
+Treedt in werking per 01-07-2015 
+
+1.  De door Onze Minister aangewezen ambtenaren, bedoeld in artikel 13, eerste lid, of 18, eerste lid, maken het feit dat een bestuurlijke boete is opgelegd wegens overtreding van deze wet als bedoeld in artikel 16, dat een besluit is genomen als bedoeld in artikel 22, tweede lid, of dat na een afgerond onderzoek geen overtreding is geconstateerd openbaar teneinde de naleving van deze wet te bevorderen en inzicht te geven in het uitvoeren van toezicht op grond van deze wet.   
+2.  Bij de openbaarmaking, bedoeld in het eerste lid, is artikel 10, eerste lid, onderdelen c en d, van de Wet openbaarheid van bestuur van overeenkomstige toepassing.   
+3.  Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de openbaar te maken gegevens, waaronder de mogelijke reactie van een belanghebbende in verband met de openbaarmaking van zijn gegevens, de termijn waarop deze gegevens beschikbaar worden gesteld en de wijze waarop de openbaarmaking plaatsvindt.   
+4.  Indien geen overtreding is geconstateerd als bedoeld in het eerste lid, is op dat besluit tot openbaarmaking artikel 4:8 van de Algemene wet bestuursrecht niet van toepassing.   
+5.  De openbaarmaking, bedoeld in het eerste lid, geschiedt niet eerder dan nadat tien werkdagen zijn verstreken na de dag waarop het besluit aan belanghebbende bekend is gemaakt.   
+6.  Bij de openbaarmaking wordt vermeld of tegen een besluit tot oplegging van een bestuurlijke boete of een besluit als bedoeld in artikel 22, tweede lid, een rechtsmiddel is ingesteld dan wel of daartoe de mogelijkheid bestaat.   
+7.  Indien wordt verzocht om een voorlopige voorziening als bedoeld in artikel 8:81 van de Algemene wet bestuursrecht, wordt de openbaarmaking opgeschort totdat de voorzieningenrechter een uitspraak heeft gedaan.   
+8.  Indien de openbaarmaking, bedoeld in het eerste lid, in strijd is of zou kunnen komen met het doel van het toezicht op de naleving van deze wet dat door de door Onze Minister aangewezen ambtenaren wordt uitgeoefend, blijft openbaarmaking achterwege.  
+
 ### Hoofdstuk  5  
 
 ####Bestuursrechtelijke handhaving

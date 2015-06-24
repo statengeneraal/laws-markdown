@@ -54,7 +54,7 @@ In het in artikel 1, lid (2), onder *a*) genoemde steenkolenveld mogen schachten
 
 ###Artikel 9 
 
-Het Nederlandse Toezicht op de mijnen stelt het Duitse Toezicht op de mijnen de volgens de Nederlandse mijnpolitionele bepalingen voorgeschreven werkplannen betreffende de geprojecteerde ontginning in het verdragsgebied telkenmale tèr beschikking.
+Het Nederlandse Toezicht op de mijnen stelt het Duitse Toezicht op de mijnen de volgens de Nederlandse mijnpolitionele bepalingen voorgeschreven werkplannen betreffende de geprojecteerde ontginning in het verdragsgebied telkenmale ter beschikking.
 
 ###Artikel 10 
 

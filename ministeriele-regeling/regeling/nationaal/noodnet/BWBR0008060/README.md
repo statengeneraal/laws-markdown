@@ -3,7 +3,7 @@
 ##Regeling Nationaal Noodnet 
 
 De Minister van Binnenlandse Zaken,  
-Gelet op [artikel 45 van de Politiewet 1993](../../../../../wet/politiewet/1993/BWBR0006299/README.md),
+Gelet op artikel 45 van de Politiewet 1993,
 Besluit:     
 
 ###Artikel  1  
@@ -19,11 +19,11 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  3  
 
-De gelden voor de jaarlijkse abonnementskosten van twee aansluitingen per regionale of landelijke eenheid worden toegevoegd aan en opgenomen in de algemene bijdrage, bedoeld in [artikel 14 van de Regeling financieel beheer politie](../../../../../ministeriele-regeling/regeling/financieel/beheer/politie/BWBR0032664/README.md). 
+De gelden voor de jaarlijkse abonnementskosten van twee aansluitingen per regionale of landelijke eenheid worden toegevoegd aan en opgenomen in de algemene bijdrage, bedoeld in artikel 14 van de Regeling financieel beheer politie. 
 
 ### Artikel  3a  
 
-Deze regeling berust op [artikel 23, eerste lid, onder a, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md). 
+Deze regeling berust op artikel 23, eerste lid, onder a, van de Politiewet 2012. 
 
 ###Artikel  4  
 

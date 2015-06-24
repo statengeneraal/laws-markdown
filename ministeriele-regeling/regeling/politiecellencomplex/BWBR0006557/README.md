@@ -3,7 +3,7 @@
 ##Regeling van de Ministers van Binnenlandse Zaken en van Justitie. (nrs. EA 94/U891 en 430272/594/GBJ) houdende regels over de inrichting van een politiecellencomplex en de registratie van gegevens van ingeslotenen
 
 De Ministers van Binnenlandse Zaken en van Justitie,  
-Gelet op [artikel 15, vijfde en zesde lid, van het Besluit beheer regionale politiekorpsen](../../../../AMvB/besluit/beheer/regionale/politiekorpsen/BWBR0006560/README.md);
+Gelet op artikel 15, vijfde en zesde lid, van het Besluit beheer regionale politiekorpsen;
 
 Gezien het advies van de Registratiekamer van 17 maart 1994, nr. 94.A.5.01;
 Besluiten:     
@@ -11,7 +11,7 @@ Besluiten:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: a. *politiecellencomplex:*   een ruimte als bedoeld in [artikel 1, onder m, van de Regeling beheer politie](../../../../ministeriele-regeling/regeling/beheer/politie/BWBR0032673/README.md);  b. *cel:*   een afsluitbare ruimte geschikt voor het dag- en nachtverblijf van een persoon;  c. *ingeslotene:*   een persoon als bedoeld in [artikel 1, onder k, van de Regeling beheer politie](../../../../ministeriele-regeling/regeling/beheer/politie/BWBR0032673/README.md).   
+In deze regeling wordt verstaan onder: a. *politiecellencomplex:*   een ruimte als bedoeld in artikel 1, onder m, van de Regeling beheer politie;  b. *cel:*   een afsluitbare ruimte geschikt voor het dag- en nachtverblijf van een persoon;  c. *ingeslotene:*   een persoon als bedoeld in artikel 1, onder k, van de Regeling beheer politie.   
 
 ### Hoofdstuk  2  
 
@@ -24,7 +24,7 @@ In deze regeling wordt verstaan onder: a. *politiecellencomplex:*   een ruimte a
 1.  De korpschef draagt er zorg voor dat een politiecellencomplex zodanig is ingericht dat ingeslotenen geen gelegenheid wordt gegeven tot ontvluchting, vernieling, brandstichting of zelfdoding.   
 2.  De korpschef draagt er zorg voor dat voldoende maatregelen zijn genomen om: 
 
-a. de bedrijfshulpverleningtaken, bedoeld in [artikel 15, tweede lid, van de Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) op adequate wijze te vervullen, en 
+a. de bedrijfshulpverleningtaken, bedoeld in artikel 15, tweede lid, van de Arbeidsomstandighedenwet op adequate wijze te vervullen, en 
 
 b. de veiligheid van de ingeslotene te waarborgen.    
 3.  Er is voor het politiecellencomplex een ontruimingsplan dat is goedgekeurd door de commandant van de brandweer.  
@@ -91,7 +91,7 @@ De cel is voorzien van een communicatie-installatie waarmee vanuit de cel te all
 
 ### Artikel  12  
 
-1.  De korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md), draagt er zorg voor dat ten aanzien van personen die zijn ingesloten in een politiecellencomplex, onverminderd het bepaalde in de [Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren](../../../../AMvB/ambtsinstructie/voor/de/politie/de/koninklijke/marechaussee/en/andere/etc/BWBR0006589/README.md), tenminste de volgende gegevens worden geregisteerd: 
+1.  De korpschef, bedoeld in artikel 27 van de Politiewet 2012, draagt er zorg voor dat ten aanzien van personen die zijn ingesloten in een politiecellencomplex, onverminderd het bepaalde in de Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren, tenminste de volgende gegevens worden geregisteerd: 
 
 a. volledige personalia en aliassen; 
 
@@ -141,7 +141,7 @@ b. de temperatuur in een observatiecel is ten minste 22°C en in de andere celle
 
 ### Artikel  14a  
 
-Deze regeling berust op [artikel 30, tweede lid, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md).  
+Deze regeling berust op artikel 30, tweede lid, van de Politiewet 2012.  
 
 ### Artikel  15  
 

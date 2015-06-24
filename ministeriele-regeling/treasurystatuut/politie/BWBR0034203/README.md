@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Veiligheid en Justitie van 1 november 2013, houdende de vaststelling van het treasurystatuut voor de politie
 
 De Minister van Veiligheid en Justitie,  
-Gelet op [artikel 19, vijfde lid, van de Regeling financieel beheer politie](../../../../ministeriele-regeling/regeling/financieel/beheer/politie/BWBR0032664/README.md);
+Gelet op artikel 19, vijfde lid, van de Regeling financieel beheer politie;
 Besluit:    
 
 ### Artikel  1  
@@ -33,7 +33,7 @@ I.W. Opstelten
 
 ####Inleiding
 
-Directe aanleiding voor het opstellen van dit nieuwe statuut is de vorming van één landelijk politie per 1 januari 2013. De politie bestaat uit 10 regionale eenheden, een landelijke eenheid en ondersteunende diensten conform [artikel 25, eerste lid, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md). De politie neemt, op grond van [artikel 45, eerste lid van de Comptabiliteitswet 2001](../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), deel aan het geïntegreerd middelenbeheer (GMB) bij het Ministerie van Financiën. In de Regeling financieel beheer politie<sup> 1 De Regeling financieel beheer politie zal op korte termijn worden vervangen door het Besluit financieel beheer politie. </sup> is vastgelegd dat de politie gebruik maakt van een treasurystatuut. Het treasurystatuut bevat de (beleids)richtlijnen voor de uitvoering van de treasuryfunctie binnen de politie. Het betreft de beleidsmatige vaststelling van de uitgangspunten, doeleinden, de organisatorische en financiële kaders, de informatievoorziening en de administratieve organisatie c.q. interne beheersing. De invulling ervan bepaalt de kaders waarbinnen de treasuryfunctie dient te opereren. De inhoud van het nu voorliggende treasurystatuut moet in het licht worden gezien van de eerste stap in de transitie naar een centrale treasuryfunctie met decentrale kassen en zal in de komende tijd van toepassing zijn in het kader van de transitiefase waarin de politie zich nu bevindt. De nog te ontwikkelen punten zullen in een nieuwe versie nader uitgewerkt worden. Deze nieuwe versie zal beschikbaar komen op het moment dat de organisatie van de politie zich verder bevindt in het veranderproces. Op dit moment beperken de te ontwikkelen punten zich tot de behoefte van de termijn van liquiditeitsprognose, het aflossen van de oude leningen en de Europese aanbesteding van de keuze voor een bankrelatie. Omdat de politie, zoals verderop in dit treasurystatuut aangegeven, volledig meedoet met het GMB bij het Ministerie van Financiën, en daardoor al de treasurytransacties van de politie met het Ministerie van Financiën plaatsvinden, zijn de risico’s op treasuryterrein voor de politie uiterst beperkt. 
+Directe aanleiding voor het opstellen van dit nieuwe statuut is de vorming van één landelijk politie per 1 januari 2013. De politie bestaat uit 10 regionale eenheden, een landelijke eenheid en ondersteunende diensten conform artikel 25, eerste lid, van de Politiewet 2012. De politie neemt, op grond van artikel 45, eerste lid van de Comptabiliteitswet 2001, deel aan het geïntegreerd middelenbeheer (GMB) bij het Ministerie van Financiën. In de Regeling financieel beheer politie<sup> 1 De Regeling financieel beheer politie zal op korte termijn worden vervangen door het Besluit financieel beheer politie. </sup> is vastgelegd dat de politie gebruik maakt van een treasurystatuut. Het treasurystatuut bevat de (beleids)richtlijnen voor de uitvoering van de treasuryfunctie binnen de politie. Het betreft de beleidsmatige vaststelling van de uitgangspunten, doeleinden, de organisatorische en financiële kaders, de informatievoorziening en de administratieve organisatie c.q. interne beheersing. De invulling ervan bepaalt de kaders waarbinnen de treasuryfunctie dient te opereren. De inhoud van het nu voorliggende treasurystatuut moet in het licht worden gezien van de eerste stap in de transitie naar een centrale treasuryfunctie met decentrale kassen en zal in de komende tijd van toepassing zijn in het kader van de transitiefase waarin de politie zich nu bevindt. De nog te ontwikkelen punten zullen in een nieuwe versie nader uitgewerkt worden. Deze nieuwe versie zal beschikbaar komen op het moment dat de organisatie van de politie zich verder bevindt in het veranderproces. Op dit moment beperken de te ontwikkelen punten zich tot de behoefte van de termijn van liquiditeitsprognose, het aflossen van de oude leningen en de Europese aanbesteding van de keuze voor een bankrelatie. Omdat de politie, zoals verderop in dit treasurystatuut aangegeven, volledig meedoet met het GMB bij het Ministerie van Financiën, en daardoor al de treasurytransacties van de politie met het Ministerie van Financiën plaatsvinden, zijn de risico’s op treasuryterrein voor de politie uiterst beperkt. 
 
 ### 1.2  
 
@@ -87,7 +87,7 @@ Voor uitzettingen gelden de volgende specifieke uitgangspunten en richtlijnen:
 
 * De enige mogelijke vorm van kortlopende financiering is een krediet in de rekening-courant bij het ministerie van Financiën;  
 
-* De politie mag conform [artikel 19 tweede lid van de regeling financieel beheer politie](../../../../ministeriele-regeling/regeling/financieel/beheer/politie/BWBR0032664/README.md) voor maximaal € 250 miljoen een rekening-courantkrediet aanhouden bij het ministerie van Financiën, hierna te noemen de kasgeldlimiet.   
+* De politie mag conform artikel 19 tweede lid van de regeling financieel beheer politie voor maximaal € 250 miljoen een rekening-courantkrediet aanhouden bij het ministerie van Financiën, hierna te noemen de kasgeldlimiet.   
 
 ### 1.4.3  
 
@@ -203,7 +203,7 @@ In dit statuut wordt verstaan onder:
 
 –  *Geldstromenbeheer* Al die activiteiten die nodig zijn om liquiditeiten te transfereren zowel binnen de organisatie zelf als tussen de organisatie en derden (betalingsverkeer);  
 
-–  *GMB* Geïntegreerd middelenbeheer (in het verdere vervolg van dit statuut aangeduid als GMB) is het aanhouden van gelden in de schatkist door de rijksoverheid en door aan de rijksoverheid gerelateerde rechtspersonen met een wettelijke taak. De wettelijke basis voor het schatkistbankieren is [artikel 45 van de Comptabiliteitswet](../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md). Hiertoe is een rekening-courantrekening geopend bij het Ministerie van Financiën.  
+–  *GMB* Geïntegreerd middelenbeheer (in het verdere vervolg van dit statuut aangeduid als GMB) is het aanhouden van gelden in de schatkist door de rijksoverheid en door aan de rijksoverheid gerelateerde rechtspersonen met een wettelijke taak. De wettelijke basis voor het schatkistbankieren is artikel 45 van de Comptabiliteitswet. Hiertoe is een rekening-courantrekening geopend bij het Ministerie van Financiën.  
 
 –  *Intern liquiditeitsrisico* De risico’s van mogelijke wijzigingen in de liquiditeitsplanning en meerjaren investeringsplanning waardoor financiële resultaten kunnen afwijken van de verwachtingen;  
 
@@ -277,5 +277,5 @@ In dit statuut wordt verstaan onder:
 
 ####Overzicht plannings- en verantwoordingsdocumenten met betrekking tot de treasury
 
-Treasurystatuut Treasuryparagraaf (o.a. financieringsparagraaf) begroting en jaarrekening Managementrapportages conform de voorgeschreven cyclus in de [Regeling financieel beheer politie](../../../../ministeriele-regeling/regeling/financieel/beheer/politie/BWBR0032664/README.md) met de periodiciteit zoals in de regeling is opgenomen. Rentevisie Liquiditeitsplanning Treasuryjaarplan zal onderdeel zijn van het beheersplan. 
+Treasurystatuut Treasuryparagraaf (o.a. financieringsparagraaf) begroting en jaarrekening Managementrapportages conform de voorgeschreven cyclus in de Regeling financieel beheer politie met de periodiciteit zoals in de regeling is opgenomen. Rentevisie Liquiditeitsplanning Treasuryjaarplan zal onderdeel zijn van het beheersplan. 
 

@@ -70,6 +70,13 @@ g. gelijke behandeling van mannen en vrouwen, alsmede andere bepalingen inzake n
 4.  Onze Minister kan omtrent het verzoek tot verbindendverklaring in overleg treden met de Stichting van de Arbeid.   
 5.   Voor de behandeling van een verzoek tot verbindendverklaring is door den aanvrager eene vergoeding verschuldigd, volgens een door Onzen Minister vast te stellen tarief. Onze Minister kan vorderen, dat de aanvrager voor de voldoening van die kosten eene waarborgsom stort.   
 
+### Artikel  4a  
+Treedt in werking per 01-07-2015 
+
+1.  De verlenging van de verbindendverklaring, bedoeld in artikel 2, tweede lid, eerste zin, kan alleen geschieden op verzoek van alle werkgevers of verenigingen van werkgevers en werknemers, die partij zijn bij de collectieve arbeidsovereenkomst.   
+2.  De verlenging van de verbindendverklaring geschiedt voor ten hoogste een jaar.   
+3.  De artikelen 4, tweede lid en derde lid, eerste zin, en 5, tweede lid, zijn van overeenkomstige toepassing.  
+
 ### Artikel  5  
 
 1.   Het besluit, waarbij de verbindendverklaring wordt uitgesproken, houdt in:  

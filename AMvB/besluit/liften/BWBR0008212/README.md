@@ -7,7 +7,7 @@ Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid va
 
 Gelet op richtlijn nr. 95/16/EG van het Europees Parlement en de Raad van de Europese Unie van 29 juni 1995 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten betreffende liften (*PbEG* L 213);
 
-Gelet op de artikelen 1, eerste lid, aanhef, en onderdelen *a* en *b*, 2, 3, eerste en tweede lid, 6, 12, derde lid, en 25*a* van de [Wet op de gevaarlijke werktuigen](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [artikel 9, eerste lid, onder *a*, van de Mijnwet 1903](../../../../wet/mijnwet/1903/BWBR0001870/README.md) en [artikel 26, eerste lid, onder *b*, van de Mijnwet continentaal plat](../../../../wet/mijnwet/continentaal/plat/BWBR0002504/README.md), alsmede de [artikelen 2](../../../../wet/woningwet/BWBR0005181/README.md) en [120 van de Woningwet](../../../../wet/woningwet/BWBR0005181/README.md);
+Gelet op de artikelen 1, eerste lid, aanhef, en onderdelen *a* en *b*, 2, 3, eerste en tweede lid, 6, 12, derde lid, en 25*a* van de Wet op de gevaarlijke werktuigen, artikel 9, eerste lid, onder *a*, van de Mijnwet 1903 en artikel 26, eerste lid, onder *b*, van de Mijnwet continentaal plat, alsmede de artikelen 2 en 120 van de Woningwet;
 
 De Raad van State gehoord (advies van 21 juni 1996, nr. W12.96.0174);
 
@@ -21,7 +21,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-a. wet: [Warenwet](../../../../wet/warenwet/BWBR0001969/README.md);  
+a. wet: Warenwet;  
 
 b. richtlijn: richtlijn nr. 95/16/EG van het Europees Parlement en de Raad van de Europese Unie van 29 juni 1995 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten betreffende liften (PbEG L 213);  
 
@@ -41,9 +41,9 @@ f. veiligheidscomponenten: de in bijlage IV van de richtlijn genoemde onderdelen
 
 g. Europese Economische Ruimte: het grondgebied waarop de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is;  
 
-h. aangewezen aangemelde instelling: een krachtens [artikel 7a van de wet](../../../../wet/warenwet/BWBR0001969/README.md) in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen aangemelde instelling, dan wel een door een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen aangemelde instantie;  
+h. aangewezen aangemelde instelling: een krachtens artikel 7a van de wet in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen aangemelde instelling, dan wel een door een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen aangemelde instantie;  
 
-i.aangewezen instelling: een krachtens [artikel 7a van de wet](../../../../wet/warenwet/BWBR0001969/README.md) met betrekking tot de keuring van liften aangewezen instelling;
+i.aangewezen instelling: een krachtens artikel 7a van de wet met betrekking tot de keuring van liften aangewezen instelling;
 
 j.N, NEN of NEN-EN: door de Stichting Nederlands Normalisatie-Instituut uitgegeven norm, onderscheidenlijk Europese norm.
 
@@ -184,7 +184,7 @@ De aangewezen aangemelde instelling trekt een door haar afgegeven certificaat va
 2.  Liften als bedoeld in het eerste lid, die zullen worden gebruikt tijdens de bouwfase van het gebouw of bouwwerk worden vóór de eerste ingebruikneming en vervolgens telkens na verloop van ten hoogste drie maanden door een aangewezen instelling gekeurd. Het eerste lid, tweede volzin, is van overeenkomstige toepassing.   
 3.  Liften worden vóór de ingebruikneming na elke herstelling of wijziging door een aangewezen instelling gekeurd.   
 4. Bij de keuring vóór de eerste ingebruikneming, bedoeld in het tweede lid, wordt gecontroleerd of de documenten van de voorgeschreven procedures, bedoeld in artikel 8, aanwezig zijn en juist zijn. Bij de keuring voor de ingebruikneming na herstelling of wijziging, bedoeld in het derde lid, wordt getoetst of ten minste is voldaan aan de voor het desbetreffende hefwerktuig geldende vervaardigingsvoorschriften, bedoeld in artikel 5.  
-5.  Bij de vervolgkeuringen, bedoeld in het eerste en tweede lid, wordt getoetst of nog ten minste is voldaan aan de voor het desbetreffende hefwerktuig geldende vervaardigingsvoorschriften van artikel 5 en, voor wat betreft liften als bedoeld in het eerste lid, aan [artikel 7.21, eerste lid, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md).   
+5.  Bij de vervolgkeuringen, bedoeld in het eerste en tweede lid, wordt getoetst of nog ten minste is voldaan aan de voor het desbetreffende hefwerktuig geldende vervaardigingsvoorschriften van artikel 5 en, voor wat betreft liften als bedoeld in het eerste lid, aan artikel 7.21, eerste lid, van het Arbeidsomstandighedenbesluit.   
 6.  Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van het vierde en vijfde lid.   
 7.  Als blijk van goedkeuring brengt de instelling, bedoeld in het eerste tot en met vierde lid, op een duidelijk zichtbare plaats in de kooi of op het hefwerktuig een kenmerk aan, waarop tevens de herkeuringstermijn, genoemd in het eerste en tweede lid, wordt aangegeven.   
 8.  De certificaathouder verstrekt Onze Minister of, indien Onze Minister een aangewezen instelling heeft aangewezen, deze instelling, desgevraagd kosteloos alle informatie die nodig is voor de uitvoering van het bepaalde bij of krachtens dit artikel. 
@@ -204,7 +204,7 @@ De aangewezen aangemelde instelling trekt een door haar afgegeven certificaat va
 1.  De afgifte van een certificaat van goedkeuring als bedoeld in artikel 17a, wordt geweigerd indien de verzoeker niet heeft voldaan aan het bij of krachtens dit besluit met betrekking het certificaat gestelde eisen.   
 2.  Een certificaat van goedkeuring kan worden geschorst, ten nadele van de certificaathouder worden gewijzigd of ingetrokken: 
 
-a. op grond van feiten of omstandigheden waarvan Onze Minister of, indien Onze Minister een aangewezen instelling dan wel aangewezen aangemelde instelling heeft aangewezen, deze instelling, bij het afgeven van het certificaat redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij respectievelijk zij het certificaat niet of alleen met voorschriften, bedoeld in [artikel 7a, vierde lid, van de wet](../../../../wet/warenwet/BWBR0001969/README.md), zou hebben gegeven;  
+a. op grond van feiten of omstandigheden waarvan Onze Minister of, indien Onze Minister een aangewezen instelling dan wel aangewezen aangemelde instelling heeft aangewezen, deze instelling, bij het afgeven van het certificaat redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij respectievelijk zij het certificaat niet of alleen met voorschriften, bedoeld in artikel 7a, vierde lid, van de wet, zou hebben gegeven;  
 
 b. op grond van door de certificaathouder verstrekte onjuiste inlichtingen over feiten en omstandigheden, mits de onjuistheid daarvan aan de certificaathouder bekend was of kon zijn;  
 
@@ -220,7 +220,7 @@ d. indien de certificaathouder met zijn werkzaamheden, voor zover die door het c
 
 1.  Een lift gaat vergezeld van een instructieboek en een liftboek als bedoeld in punt 6.2 van bijlage I van de richtlijn. Deze zijn gesteld in de Nederlandse taal.   
 2.  Een veiligheidscomponent gaat vergezeld van een instructieboek als bedoeld in punt 6.1 van bijlage I van de richtlijn.  
-3. Het certificaat van goedkeuring, bedoeld in artikel 17a, eerste lid, en het liftboek, bedoeld in het eerste lid, of een afschrift daarvan worden desgevraagd getoond aan een ambtenaar als bedoeld in [artikel 25 van de wet](../../../../wet/warenwet/BWBR0001969/README.md).
+3. Het certificaat van goedkeuring, bedoeld in artikel 17a, eerste lid, en het liftboek, bedoeld in het eerste lid, of een afschrift daarvan worden desgevraagd getoond aan een ambtenaar als bedoeld in artikel 25 van de wet.
 
 ### Artikel  18a  
 
@@ -315,7 +315,7 @@ b. ten hoogste twaalf maanden voorafgaand aan de datum van indiening van de aanv
 2.  De aanvraag wordt in het geval, bedoeld in het eerste lid, onder b, eerst in behandeling genomen nadat twaalf maanden, te rekenen vanaf de dag na de datum van de weigering respectievelijk van de intrekking, zijn verstreken.   
 3.  Een aanwijzing kan worden geschorst, ten nadele van de aangewezen instelling of aangewezen aangemelde instelling worden gewijzigd of ingetrokken: 
 
-a. op grond van feiten of omstandigheden waarvan Onze Minister bij de aanwijzing redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij de aanwijzing niet of alleen met voorschriften, bedoeld in [artikel 7, vierde lid, van de wet](../../../../wet/warenwet/BWBR0001969/README.md) zou hebben gegeven;  
+a. op grond van feiten of omstandigheden waarvan Onze Minister bij de aanwijzing redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij de aanwijzing niet of alleen met voorschriften, bedoeld in artikel 7, vierde lid, van de wet zou hebben gegeven;  
 
 b. op grond van door de aangewezen instelling of aangewezen aangemelde instelling verstrekte onjuiste inlichtingen over feiten of omstandigheden, mits de onjuistheid daarvan aan de instelling bekend was of kon zijn;  
 
@@ -394,13 +394,13 @@ De artikelen 5 en 8 zijn niet van toepassing op liften die tussen 16 augustus 1
 
 ### Artikel  28e  
 
-Door de Arbeidsinspectie op grond van [artikel 11 van de Wet op de gevaarlijke werktuigen](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md) verleende ontheffingen van het [Liftenbesluit I](../../../../AMvB/liftenbesluit/i/BWBR0002212/README.md) ten aanzien van liften en bouwliften voor personenvervoer berusten na de inwerkingtreding van dit besluit op [artikel 16, tweede lid, van de wet](../../../../wet/warenwet/BWBR0001969/README.md). 
+Door de Arbeidsinspectie op grond van artikel 11 van de Wet op de gevaarlijke werktuigen verleende ontheffingen van het Liftenbesluit I ten aanzien van liften en bouwliften voor personenvervoer berusten na de inwerkingtreding van dit besluit op artikel 16, tweede lid, van de wet. 
 
 ### Artikel  29  
 
 ####Certificaat van goedkeuring
 
-Een certificaat van goedkeuring afgegeven op grond van de [wet](../../../../wet/warenwet/BWBR0001969/README.md), en geldend op dag, voorafgaand aan de datum van inwerkingtreding van het besluit van 7 september 2009, Stb. 395, wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, zoals die luiden met ingang van de datum van inwerkingtreding van evengenoemd besluit, onverminderd het bepaalde bij of krachtens de artikelen 17 en 17b. 
+Een certificaat van goedkeuring afgegeven op grond van de wet, en geldend op dag, voorafgaand aan de datum van inwerkingtreding van het besluit van 7 september 2009, Stb. 395, wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, zoals die luiden met ingang van de datum van inwerkingtreding van evengenoemd besluit, onverminderd het bepaalde bij of krachtens de artikelen 17 en 17b. 
 
 ### Artikel  30  
 
@@ -415,7 +415,7 @@ Een certificaat van goedkeuring afgegeven op grond van de [wet](../../../../wet/
 
 ### Artikel  31  
 
-Dit besluit berust op de [artikelen 1](../../../../wet/warenwet/BWBR0001969/README.md), [3 tot en met 11](../../../../wet/warenwet/BWBR0001969/README.md), [11a](../../../../wet/warenwet/BWBR0001969/README.md), [13](../../../../wet/warenwet/BWBR0001969/README.md), [14](../../../../wet/warenwet/BWBR0001969/README.md), [16](../../../../wet/warenwet/BWBR0001969/README.md) en [32b, eerste lid, van de wet](../../../../wet/warenwet/BWBR0001969/README.md) en de [artikelen 2](../../../../wet/woningwet/BWBR0005181/README.md) en [120 van de Woningwet](../../../../wet/woningwet/BWBR0005181/README.md). 
+Dit besluit berust op de artikelen 1, 3 tot en met 11, 11a, 13, 14, 16 en 32b, eerste lid, van de wet en de artikelen 2 en 120 van de Woningwet. 
 
 ### Artikel  33  
 

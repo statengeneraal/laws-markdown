@@ -177,12 +177,8 @@ Drukapparatuur, samenstellen en druksystemen zijn zodanig ontworpen en vervaardi
 
 ### Artikel  6  
 
-1.  De drukapparatuur en samenstellen, bedoeld in artikel 7, onderscheidenlijk artikel 8, worden overeenkomstig bijlage II bij de richtlijn naar toenemend risico in categorieën ingedeeld. Indien drukapparatuur uit verschillende ruimten bestaat, wordt het ingedeeld in de hoogste van de verschillende categorieën van de afzonderlijke ruimten. Wanneer een ruimte verschillende stoffen bevat, vindt de indeling plaats op grond van de stof die in de hoogste categorie valt.   
-2.  Met het oog op de categorie-indeling, bedoeld in het eerste lid, worden stoffen ingedeeld in: 
-
-a. groep 1: gevaarlijke stoffen, dat wil zeggen stoffen of preparaten, die op grond van artikel 9.2.3.1 van de Wet milieubeheer moeten worden ingedeeld in de categorie ontplofbaar, zeer licht ontvlambaar, licht ontvlambaar, ontvlambaar, zeer vergiftig, vergiftig of oxyderend;  
-
-b. groep 2: overige stoffen.     
+1.  De drukapparatuur en samenstellen, bedoeld in artikel 7, onderscheidenlijk artikel 8, worden overeenkomstig bijlage II bij de richtlijn naar toenemend gevaar in categorieën ingedeeld. Indien drukapparatuur uit verschillende ruimten bestaat, wordt het ingedeeld in de hoogste van de verschillende categorieën van de afzonderlijke ruimten. Wanneer een ruimte verschillende stoffen bevat, vindt de indeling plaats op grond van de stof die in de hoogste categorie valt.   
+2.  Met het oog op de categorie-indeling, bedoeld in het eerste lid, worden stoffen onderverdeeld in groepen overeenkomstig artikel 13, eerste lid, van Richtlijn 2014/68/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van drukapparatuur (PbEU 2014, L 189).  
 3.  Het eerste en tweede lid ten aanzien van samenstellen, zijn van overeenkomstige toepassing op druksystemen.  
 
 ####Veiligheidseisen drukapparatuur 

@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Veiligheid en Justitie van 1 november 2013, houdende de vaststelling van het controleprotocol voor de jaarrekening van de politie (Controleprotocol voor de jaarrekening politie)
 
 De Minister van Veiligheid en Justitie,  
-Gelet op de [artikel 14, tweede lid, van de Regeling financieel beheer politie](../../../../../../../ministeriele-regeling/regeling/financieel/beheer/politie/BWBR0032664/README.md);
+Gelet op de artikel 14, tweede lid, van de Regeling financieel beheer politie;
 Besluit:    
 
 ### Artikel  1  
@@ -34,19 +34,19 @@ I.W. Opstelten
 
 ####Inleiding
 
-[Hoofdstuk 5 van de Regeling financieel beheer politie](../../../../../../../ministeriele-regeling/regeling/financieel/beheer/politie/BWBR0032664/README.md) regelt de verantwoording over de besteding van rijksbijdragen en overige baten door de politie. Dit controleprotocol geeft invulling aan het [tweede lid van artikel 14 van deze regeling](../../../../../../../ministeriele-regeling/regeling/financieel/beheer/politie/BWBR0032664/README.md), waarmee de Minister van Veiligheid en Justitie nadere regels stelt aan de reikwijdte van de controle, de jaarrekening en de financiële onderdelen van het jaarverslag en aan de inhoud van de controleverklaring die de accountant naar aanleiding van zijn controle moet afgeven. 
+Hoofdstuk 5 van de Regeling financieel beheer politie regelt de verantwoording over de besteding van rijksbijdragen en overige baten door de politie. Dit controleprotocol geeft invulling aan het tweede lid van artikel 14 van deze regeling, waarmee de Minister van Veiligheid en Justitie nadere regels stelt aan de reikwijdte van de controle, de jaarrekening en de financiële onderdelen van het jaarverslag en aan de inhoud van de controleverklaring die de accountant naar aanleiding van zijn controle moet afgeven. 
 
 ### 1.2  
 
 ####Doelstelling
 
-Het controleprotocol heeft als doel nadere aanwijzingen te geven aan de accountant over de reikwijdte van de accountantscontrole, de daarvoor geldende normstellingen en de daarbij verder te hanteren materialiteit voor de controle van de jaarrekening van de politie. De accountant gaat bij zijn controle uit van hetgeen gebruikelijk is bij de controle van een jaarrekening. De accountant stelt vast of de jaarrekening voldoet aan de eisen zoals gesteld in de [Regeling financieel beheer politie](../../../../../../../ministeriele-regeling/regeling/financieel/beheer/politie/BWBR0032664/README.md). Bij het jaarverslag toetst de accountant eveneens, voor zover hij dat kan beoordelen, of deze verenigbaar is met de jaarrekening. De accountant volgt bij het vaststellen van de verenigbaarheid van het jaarverslag met de jaarrekening de aanwijzingen uit Standaard 720 ‘De verantwoordelijkheid van de accountant met betrekking tot andere informatie in documenten waarin gecontroleerde financiële overzichten zijn opgenomen’. 
+Het controleprotocol heeft als doel nadere aanwijzingen te geven aan de accountant over de reikwijdte van de accountantscontrole, de daarvoor geldende normstellingen en de daarbij verder te hanteren materialiteit voor de controle van de jaarrekening van de politie. De accountant gaat bij zijn controle uit van hetgeen gebruikelijk is bij de controle van een jaarrekening. De accountant stelt vast of de jaarrekening voldoet aan de eisen zoals gesteld in de Regeling financieel beheer politie. Bij het jaarverslag toetst de accountant eveneens, voor zover hij dat kan beoordelen, of deze verenigbaar is met de jaarrekening. De accountant volgt bij het vaststellen van de verenigbaarheid van het jaarverslag met de jaarrekening de aanwijzingen uit Standaard 720 ‘De verantwoordelijkheid van de accountant met betrekking tot andere informatie in documenten waarin gecontroleerde financiële overzichten zijn opgenomen’. 
 
 ### 1.3  
 
 ####Dossiervorming
 
-De accountant hanteert bij de documentatie van verrichte controlewerkzaamheden, de bevindingen en de conclusie de eisen zoals opgenomen in Standaard 230 ‘Controledocumentatie’. De Minister is bevoegd inzage te vorderen in de controledossiers van de accountant om te bepalen of hij kan steunen op de door de accountant uitgevoerde controle ([artikelen 43](../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) en [43a van de Comptabiliteitswet 2001](../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md)). De Minister kan hiervoor de Auditdienst Rijk, een onderdeel van het Ministerie van Financiën, vragen een review uit te voeren om een verantwoord oordeel te vormen over de grondslagen, de uitvoering en de resultaten van de accountantscontrole. 
+De accountant hanteert bij de documentatie van verrichte controlewerkzaamheden, de bevindingen en de conclusie de eisen zoals opgenomen in Standaard 230 ‘Controledocumentatie’. De Minister is bevoegd inzage te vorderen in de controledossiers van de accountant om te bepalen of hij kan steunen op de door de accountant uitgevoerde controle (artikelen 43 en 43a van de Comptabiliteitswet 2001). De Minister kan hiervoor de Auditdienst Rijk, een onderdeel van het Ministerie van Financiën, vragen een review uit te voeren om een verantwoord oordeel te vormen over de grondslagen, de uitvoering en de resultaten van de accountantscontrole. 
 
 ### Hoofdstuk  2  
 
@@ -85,13 +85,13 @@ De voorgeschreven controle van de jaarrekening door de accountant is gericht op 
 
 – Een getrouw beeld van de financiële rechtmatigheid als onderdeel van de bedrijfsvoeringsparagraaf in de jaarrekening  
 
-– De verenigbaarheid van het jaarverslag met de jaarrekening.   De Nederlandse Beroepsorganisatie van Accountants (NBA) heeft een modeltekst<sup> 1 Verklaring 10.1: Basis voorbeeldtekst goedkeurende controleverklaring in de publieke sector bij een enkelvoudige jaarrekening, met een expliciete financiële rechtmatigheidsverantwoording door het bestuur. </sup> uitgebracht die als uitgangspunt gebruikt moet worden voor de controleverklaring bij de jaarrekening van de politie. Voor de actuele versie van deze verklaring wordt verwezen naar de betreffende themapagina’s op www.nba.nl. In de controleverklaring neemt de accountant aanvullend op dat de controle heeft plaatsgevonden met inachtneming van het controleprotocol en dat de verslaglegging, mits daaraan voldaan is, in overeenstemming is met de [Regeling financieel beheer politie](../../../../../../../ministeriele-regeling/regeling/financieel/beheer/politie/BWBR0032664/README.md). In bijlage III is een modelverklaring opgenomen. 
+– De verenigbaarheid van het jaarverslag met de jaarrekening.   De Nederlandse Beroepsorganisatie van Accountants (NBA) heeft een modeltekst<sup> 1 Verklaring 10.1: Basis voorbeeldtekst goedkeurende controleverklaring in de publieke sector bij een enkelvoudige jaarrekening, met een expliciete financiële rechtmatigheidsverantwoording door het bestuur. </sup> uitgebracht die als uitgangspunt gebruikt moet worden voor de controleverklaring bij de jaarrekening van de politie. Voor de actuele versie van deze verklaring wordt verwezen naar de betreffende themapagina’s op www.nba.nl. In de controleverklaring neemt de accountant aanvullend op dat de controle heeft plaatsgevonden met inachtneming van het controleprotocol en dat de verslaglegging, mits daaraan voldaan is, in overeenstemming is met de Regeling financieel beheer politie. In bijlage III is een modelverklaring opgenomen. 
 
 ### 3.2  
 
 ####Verslag van bevindingen
 
-Het verslag van bevindingen ([artikel 14, lid 3 Regeling financieel beheer politie](../../../../../../../ministeriele-regeling/regeling/financieel/beheer/politie/BWBR0032664/README.md)) bevat minimaal de volgende aspecten: 
+Het verslag van bevindingen (artikel 14, lid 3 Regeling financieel beheer politie) bevat minimaal de volgende aspecten: 
 
 * Een tabel met geconstateerde fouten en onzekerheden per post groter dan 30% van de goedkeuringstolerantie, alsmede de onderbouwing van een eventueel niet goedkeurend oordeel. In de jaarrekening dient de ontvangst en de besteding van rijksbijdragen op zichtbare wijze verantwoord te zijn. Bestedingsvoorwaarden, op basis waarvan wordt afgerekend, zijn beschreven in relevante wet- en regelgeving (zie bijlage II), in specifieke bepalingen, in toekenningbrieven, in voorgaande circulaires en/of in de jaaraanschrijving.  
 
@@ -111,9 +111,9 @@ De jaarrekening voldoet aan de volgende wet- en regelgeving:
 
 | Wet- en regelgeving  | Relevante artikelen  |
 |:---|:---|
-| [Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md)  [stb. 2012, 315 en 660]  | [Art. 30 lid 1](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md)  [Art. 35](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md)  |
-| [Ministeriële regeling financieel beheer politie](../../../../../../../ministeriele-regeling/regeling/financieel/beheer/politie/BWBR0032664/README.md)  [stb. 2012] of rechtsopvolgers  | [Art. 3](../../../../../../../ministeriele-regeling/regeling/financieel/beheer/politie/BWBR0032664/README.md): jaaraanschrijving  [Hfd. 4](../../../../../../../ministeriele-regeling/regeling/financieel/beheer/politie/BWBR0032664/README.md): Bijdragen (art. 9 t/m art. 13)  [Hfd. 5](../../../../../../../ministeriele-regeling/regeling/financieel/beheer/politie/BWBR0032664/README.md): De jaarrekening (art. 14 t/m art. 18)  [Art. 19 lid 5](../../../../../../../ministeriele-regeling/regeling/financieel/beheer/politie/BWBR0032664/README.md): Treasurystatuut  [Art. 22](../../../../../../../ministeriele-regeling/regeling/financieel/beheer/politie/BWBR0032664/README.md): overgangsbepaling t.a.v. activeringsregels  [Art. 23](../../../../../../../ministeriele-regeling/regeling/financieel/beheer/politie/BWBR0032664/README.md): Bestemmingsreserves  |
-| [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) (WNT)  | [Paragraaf 2](../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md)  [Paragraaf 4](../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md)  [Artikel 5.2](../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md)  |
+| Politiewet 2012  [stb. 2012, 315 en 660]  | Art. 30 lid 1  Art. 35  |
+| Ministeriële regeling financieel beheer politie  [stb. 2012] of rechtsopvolgers  | Art. 3: jaaraanschrijving  Hfd. 4: Bijdragen (art. 9 t/m art. 13)  Hfd. 5: De jaarrekening (art. 14 t/m art. 18)  Art. 19 lid 5: Treasurystatuut  Art. 22: overgangsbepaling t.a.v. activeringsregels  Art. 23: Bestemmingsreserves  |
+| Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector (WNT)  | Paragraaf 2  Paragraaf 4  Artikel 5.2  |
 
 ####Kader financiële rechtmatigheid
 
@@ -123,7 +123,7 @@ Uiteraard zijn alleen internationale regelgeving, Nederlandse wetten, algemene m
 
 – Wet- en regelgeving waarin nadere voorschriften zijn opgenomen op het gebied van specifieke uitkeringen en subsidies vanuit de EU, het Rijk en andere subsidieverstrekkende instanties;  
 
-– [Ministeriële regeling financieel beheer politie](../../../../../../../ministeriele-regeling/regeling/financieel/beheer/politie/BWBR0032664/README.md).  
+– Ministeriële regeling financieel beheer politie.  
 
 – Van belang hierbij is de mogelijkheid van de Minister om bijdragen – bij niet voldoen aan de voorwaarden – terug te vorderen. De voorwaarden zijn te vinden in de jaaraanschrijving, voorgaande circulaires en in de toekenningsbrieven.  
 
@@ -131,27 +131,27 @@ Uiteraard zijn alleen internationale regelgeving, Nederlandse wetten, algemene m
 
 – Cao-akkoorden politie;  
 
-– [Besluit algemene rechtspositie politie](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+– Besluit algemene rechtspositie politie;  
 
-– [Besluit bezoldiging politie](../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md);  
+– Besluit bezoldiging politie;  
 
-– [Besluit reis-,verblijf- en verhuiskosten politie](../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md);  
+– Besluit reis-,verblijf- en verhuiskosten politie;  
 
-– [Regeling landelijk sociaal statuut politie](../../../../../../../ministeriele-regeling/regeling/landelijk/sociaal/statuut/politie/BWBR0029961/README.md)[regeling teveel en te weinig gewerkte uren politie](../../../../../../../ministeriele-regeling/regeling/teveel/en/te/weinig/gewerkte/uren/politie/BWBR0026670/README.md).  
+– Regeling landelijk sociaal statuut politieregeling teveel en te weinig gewerkte uren politie.  
 
-– [Besluit bovenwettelijke werkloosheidsuitkering politie](../../../../../../../AMvB/besluit/bovenwettelijke/werkloosheidsuitkering/politie/BWBR0012022/README.md)  
+– Besluit bovenwettelijke werkloosheidsuitkering politie  
 
-– [Regeling bijzondere ontslaguitkering politie](../../../../../../../ministeriele-regeling/regeling/bijzondere/ontslaguitkering/politie/BWBR0012103/README.md)  
+– Regeling bijzondere ontslaguitkering politie  
 
-– [Besluit rechtspositie vrijwillige politie, hoofdstuk III: financiële rechtspositie](../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md)  
+– Besluit rechtspositie vrijwillige politie, hoofdstuk III: financiële rechtspositie  
 
-– [Besluit suppletieregeling gedeeltelijk arbeidsongeschikten sector politie](../../../../../../../AMvB/besluit/suppletieregeling/gedeeltelijk/arbeidsongeschikten/sector/politie/BWBR0008099/README.md)  
+– Besluit suppletieregeling gedeeltelijk arbeidsongeschikten sector politie  
 
-– [Regeling compensatie inkomensgevolgen WIA sector Politie](../../../../../../../ministeriele-regeling/regeling/compensatie/inkomensgevolgen/wia/sector/politie/BWBR0020276/README.md)  
+– Regeling compensatie inkomensgevolgen WIA sector Politie  
 
 – ABP pensioenreglement 2013  
 
-– [Besluit melden vermoeden van misstand bij Rijk en Politie, hoofdstuk 4: Financiële tegemoetkoming](../../../../../../../AMvB/besluit/melden/vermoeden/van/misstand/bij/rijk/en/politie/BWBR0026951/README.md)   
+– Besluit melden vermoeden van misstand bij Rijk en Politie, hoofdstuk 4: Financiële tegemoetkoming   
 
 ### Bijlage III 
 
@@ -167,7 +167,7 @@ Wij hebben de jaarrekening 20XX van de politie te Den Haag gecontroleerd<sup> 2 
 
 ####Verantwoordelijkheid van de korpschef
 
-De korpschef legt aan de Minister verantwoording af over de financiële rechtmatigheid en stelt in dat kader de financiële rechtmatigheidsverantwoording op die onderdeel uitmaakt van de bedrijfvoeringsparagraaf. De bedrijfsvoeringsparagraaf maakt onderdeel uit van de jaarrekening waarop de accountant zijn controlewerkzaamheden baseert. De jaarrekening geeft het vermogen, het resultaat en de financiële rechtmatigheid getrouw weer en wordt tevens als het jaarverslag, opgesteld in overeenstemming met de [Regeling financieel beheer politie](../../../../../../../ministeriele-regeling/regeling/financieel/beheer/politie/BWBR0032664/README.md).<sup> 3 Deze verslaggevingcriteria hebben ook betrekking op de verantwoording van de financiële rechtmatigheid. </sup>  Daarnaast legt de korpschef verantwoording af over het voldoen aan de eisen zoals gesteld in [paragraaf 4 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md). De korpschef is tevens verantwoordelijk voor een zodanige interne beheersing als hij noodzakelijk acht om het opmaken van de jaarrekening mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten. 
+De korpschef legt aan de Minister verantwoording af over de financiële rechtmatigheid en stelt in dat kader de financiële rechtmatigheidsverantwoording op die onderdeel uitmaakt van de bedrijfvoeringsparagraaf. De bedrijfsvoeringsparagraaf maakt onderdeel uit van de jaarrekening waarop de accountant zijn controlewerkzaamheden baseert. De jaarrekening geeft het vermogen, het resultaat en de financiële rechtmatigheid getrouw weer en wordt tevens als het jaarverslag, opgesteld in overeenstemming met de Regeling financieel beheer politie.<sup> 3 Deze verslaggevingcriteria hebben ook betrekking op de verantwoording van de financiële rechtmatigheid. </sup>  Daarnaast legt de korpschef verantwoording af over het voldoen aan de eisen zoals gesteld in paragraaf 4 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector. De korpschef is tevens verantwoordelijk voor een zodanige interne beheersing als hij noodzakelijk acht om het opmaken van de jaarrekening mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten. 
 
 ####Verantwoordelijkheid van de accountant
 
@@ -175,7 +175,7 @@ Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op b
 
 ####Oordeel betreffende de jaarrekening
 
-Naar ons oordeel<sup> 6 Indien niet wordt voldaan aan paragraaf 4 WNT vervalt de optie van een goedkeurend getrouwheidsoordeel, waarbij in de onderbouwing het relevante bedrag wordt meegenomen (zie ook voorbeeldtekst 1.9.1 en Praktijkhandreiking 1115). </sup> geeft de jaarrekening een getrouw beeld van de grootte en de samenstelling van het vermogen van de politie per 31 december 20XX en van het resultaat en van de financiële rechtmatigheid over 20XX in overeenstemming met [Regeling financieel beheer politie](../../../../../../../ministeriele-regeling/regeling/financieel/beheer/politie/BWBR0032664/README.md) en met [paragraaf 4 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md). 
+Naar ons oordeel<sup> 6 Indien niet wordt voldaan aan paragraaf 4 WNT vervalt de optie van een goedkeurend getrouwheidsoordeel, waarbij in de onderbouwing het relevante bedrag wordt meegenomen (zie ook voorbeeldtekst 1.9.1 en Praktijkhandreiking 1115). </sup> geeft de jaarrekening een getrouw beeld van de grootte en de samenstelling van het vermogen van de politie per 31 december 20XX en van het resultaat en van de financiële rechtmatigheid over 20XX in overeenstemming met Regeling financieel beheer politie en met paragraaf 4 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector. 
 
 ####Benadrukking van de financiële rechtmatigheidsverantwoording<sup> 7  Indien geen sprake is van onrechtmatigheden vervalt deze paragraaf  </sup> 
 

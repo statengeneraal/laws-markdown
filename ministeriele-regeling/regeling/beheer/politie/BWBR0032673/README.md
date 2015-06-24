@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Veiligheid en Justitie van 13 december 2012, nr. 333191, houdende de aanwijzing van landelijke eenheden en ondersteunende diensten, de aanwijzing van ambtenaren van politie die deel uitmaken van de leiding van de politie alsmede regels over het beheer van de politie door de korpschef (Regeling beheer politie)
 
 De Minister van Veiligheid en Justitie,  
-Gelet op de [artikelen 25, eerste lid, onder b en c](../../../../../wet/politiewet/2012/BWBR0031788/README.md), [28, derde lid](../../../../../wet/politiewet/2012/BWBR0031788/README.md), en [30, tweede lid, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md);
+Gelet op de artikelen 25, eerste lid, onder b en c, 28, derde lid, en 30, tweede lid, van de Politiewet 2012;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -21,9 +21,9 @@ c.  *horizontale fraude:* fraude in het particuliere geld- en goederenverkeer, m
 
 d.  *taakaccent:* gebied binnen de horizontale fraude, waarop expertise is ontwikkeld;  
 
-e.  *beheersplan:* het beheersplan, bedoeld in [artikel 37, eerste lid, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
+e.  *beheersplan:* het beheersplan, bedoeld in artikel 37, eerste lid, van de Politiewet 2012;  
 
-f.  *jaarverslag:* het jaarverslag, bedoeld in [artikel 37, eerste lid, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
+f.  *jaarverslag:* het jaarverslag, bedoeld in artikel 37, eerste lid, van de Politiewet 2012;  
 
 g.  *jaaraanschrijving:* jaaraanschrijving van de minister waarin aanwijzingen worden gegeven aan de korpschef;  
 
@@ -45,12 +45,12 @@ m.  *politiecellencomplex:* een in een gebouw te onderscheiden ruimte waarin é�
 
 ### Artikel  2  
 
-1.  Er is één landelijke eenheid als bedoeld in [artikel 25, eerste lid, onder b van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md), genaamd: Landelijke eenheid.   
-2.  Er zijn twee ondersteunende diensten als bedoeld in [artikel 25, eerste lid, onder c van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md), genaamd: Politiedienstencentrum en Staf korpsleiding.  
+1.  Er is één landelijke eenheid als bedoeld in artikel 25, eerste lid, onder b van de Politiewet 2012, genaamd: Landelijke eenheid.   
+2.  Er zijn twee ondersteunende diensten als bedoeld in artikel 25, eerste lid, onder c van de Politiewet 2012, genaamd: Politiedienstencentrum en Staf korpsleiding.  
 
 ### Artikel  3  
 
-1.  Naast de korpschef bestaat de leiding van de politie, bedoeld in [artikel 28, derde lid, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md) uit de volgende leden: 
+1.  Naast de korpschef bestaat de leiding van de politie, bedoeld in artikel 28, derde lid, van de Politiewet 2012 uit de volgende leden: 
 
 a. drie directeuren, van wie er één tevens plaatsvervangend korpschef is;  
 
@@ -153,17 +153,17 @@ e. het beheer van de informatiekanalen, genoemd in bijlage 1.
 
 ### Artikel  9  
 
-Bij de dienst IPOL is een onderdeel ondergebracht dat is belast met het, ten behoeve van de recherchefunctie, verwerken van gegevens die noodzakelijk zijn voor de opsporing van misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](../../../../../wet/wet/politiegegevens/BWBR0022463/README.md). 
+Bij de dienst IPOL is een onderdeel ondergebracht dat is belast met het, ten behoeve van de recherchefunctie, verwerken van gegevens die noodzakelijk zijn voor de opsporing van misdrijven als bedoeld in artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens. 
 
 ### Artikel  10  
 
 1.  Bij de dienst Specialistische recherche toepassingen zijn infiltratieteams en een team operationele ondersteuning ondergebracht.   
-2.  De infiltratieteams zijn belast met de uitvoering van een bevel tot infiltratie als bedoeld in [artikel 126h, eerste lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [artikel 126p, eerste lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), of [artikel 126ze, eerste lid, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en met de begeleiding van personen die op grond van [artikel 126w, eerste lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [126x, eerste lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), of [artikel 126zu, eerste lid, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bijstand verlenen aan de opsporing.   
+2.  De infiltratieteams zijn belast met de uitvoering van een bevel tot infiltratie als bedoeld in artikel 126h, eerste lid, artikel 126p, eerste lid, of artikel 126ze, eerste lid, van het Wetboek van Strafvordering en met de begeleiding van personen die op grond van artikel 126w, eerste lid, 126x, eerste lid, of artikel 126zu, eerste lid, van het Wetboek van Strafvordering bijstand verlenen aan de opsporing.   
 3.  De infiltratieteams kunnen worden belast met: 
 
-a. de uitvoering van een bevel tot pseudo-koop of pseudo-dienstverlening als bedoeld in [artikel 126i, eerste lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), of [artikel 126q, eerste lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [126zd, eerste lid, onder b van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en met de begeleiding van personen die op grond van [artikel 126ij, eerste lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [artikel 126z, eerste lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), of [artikel 126zt, eerste lid, onder a, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bijstand verlenen aan de opsporing;  
+a. de uitvoering van een bevel tot pseudo-koop of pseudo-dienstverlening als bedoeld in artikel 126i, eerste lid, of artikel 126q, eerste lid, 126zd, eerste lid, onder b van het Wetboek van Strafvordering en met de begeleiding van personen die op grond van artikel 126ij, eerste lid, artikel 126z, eerste lid, of artikel 126zt, eerste lid, onder a, van het Wetboek van Strafvordering bijstand verlenen aan de opsporing;  
 
-b. de uitvoering van een bevel tot stelselmatige inwinning van informatie als bedoeld in [artikel 126j, eerste lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), of [artikel 126qa, eerste lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), of [artikel 126zd, eerste lid, onder c, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en met de begeleiding van personen die op grond van [artikel 126v, eerste lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [artikel 126zt, eerste lid, onder b, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bijstand verlenen aan de opsporing.     
+b. de uitvoering van een bevel tot stelselmatige inwinning van informatie als bedoeld in artikel 126j, eerste lid, of artikel 126qa, eerste lid, of artikel 126zd, eerste lid, onder c, van het Wetboek van Strafvordering en met de begeleiding van personen die op grond van artikel 126v, eerste lid, en artikel 126zt, eerste lid, onder b, van het Wetboek van Strafvordering bijstand verlenen aan de opsporing.     
 4.  Het team operationele ondersteuning heeft tot taak: 
 
 a. de selectie en de opleiding van kandidaat-leden van een infiltratieteam;  
@@ -219,9 +219,9 @@ e. informatievoorziening.
 
 ### Artikel  14  
 
-1.  De regionale eenheden beschikken elk ten minste over een onderdeel dat is belast met het, ten behoeve van de recherchefunctie, verwerken van gegevens die noodzakelijk zijn voor de opsporing van misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](../../../../../wet/wet/politiegegevens/BWBR0022463/README.md).   
-2.  De onderdelen, bedoeld in het eerste lid, houden, zelfstandig of samen met andere onderdelen, bedoeld in het eerste lid, ten behoeve van de recherchefunctie een gegevensbestand voor de verwerking van politiegegevens, bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](../../../../../wet/wet/politiegegevens/BWBR0022463/README.md).   
-3.  De regionale eenheden beschikken zelfstandig of samen met één of meer andere regionale eenheden over één of meer eenheden die zijn belast met de uitvoering van een bevel tot observatie als bedoeld in de [artikelen 126g](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [126o van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).  
+1.  De regionale eenheden beschikken elk ten minste over een onderdeel dat is belast met het, ten behoeve van de recherchefunctie, verwerken van gegevens die noodzakelijk zijn voor de opsporing van misdrijven als bedoeld in artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens.   
+2.  De onderdelen, bedoeld in het eerste lid, houden, zelfstandig of samen met andere onderdelen, bedoeld in het eerste lid, ten behoeve van de recherchefunctie een gegevensbestand voor de verwerking van politiegegevens, bedoeld in artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens.   
+3.  De regionale eenheden beschikken zelfstandig of samen met één of meer andere regionale eenheden over één of meer eenheden die zijn belast met de uitvoering van een bevel tot observatie als bedoeld in de artikelen 126g en 126o van het Wetboek van Strafvordering.  
 
 ### Artikel  15  
 
@@ -329,7 +329,7 @@ De minister zendt de korpschef jaarlijks vóór 1 december een jaaraanschrijving
 
 ### Artikel  21  
 
-1.  In het beheersplan zijn, naast de indeling van de eenheden, bedoeld in [artikel 25, eerste lid, onder a, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md), in districten en basisteams, ten minste opgenomen: 
+1.  In het beheersplan zijn, naast de indeling van de eenheden, bedoeld in artikel 25, eerste lid, onder a, van de Politiewet 2012, in districten en basisteams, ten minste opgenomen: 
 
 a. het sterktebeleid waaronder de sterkteverdeling, de organisatie en formatie en de bezetting;  
 
@@ -348,7 +348,7 @@ d. het beleid op het gebied van materieel, waaronder inkoop en huisvesting.
 1. De korpschef verstrekt aan de minister een 3-maandsmanagementrapportage over de maanden januari tot en met maart, een 6-maandsmanagementrapportage over de maanden januari tot en met juni, een 9-maandsmanagementrapportage over de maanden januari tot en met september en een 12-maandsmanagementrapportage over de maanden januari tot en met december over de uitvoering van het beheersplan. Deze managementrapportages worden telkens uiterlijk op respectievelijk 1 mei, 1 augustus, 1 november en 1 februari verstrekt aan de minister.  
 2.  De in het eerste lid bedoelde rapportages en het jaarverslag bevatten in ieder geval de onderstaande informatie: 
 
-a. de omvang van de operationele sterkte, bedoeld in [artikel 1, onder b, van het Besluit verdeling sterkte en middelen politie](../../../../../AMvB/besluit/verdeling/sterkte/en/middelen/politie/BWBR0032333/README.md), en de niet-operationele sterkte alsmede de verdeling van de operationele en de niet-operationele sterkte over de onderdelen van de politie;  
+a. de omvang van de operationele sterkte, bedoeld in artikel 1, onder b, van het Besluit verdeling sterkte en middelen politie, en de niet-operationele sterkte alsmede de verdeling van de operationele en de niet-operationele sterkte over de onderdelen van de politie;  
 
 b. het aantal aspiranten alsmede de verdeling van de aspiranten over de onderdelen van de politie.     
 3.  De minister stelt jaarlijks voor 15 mei het jaarverslag over het voorafgaande jaar vast.  
@@ -367,7 +367,7 @@ b. het aantal aspiranten alsmede de verdeling van de aspiranten over de onderdel
 ### Artikel  24  
 
 1.  De korpschef wijst de ambtenaren van politie aan die worden belast met de leiding van de politiecellencomplexen en het toezicht op de ingeslotenen.   
-2.  Met inachtneming van de [artikelen 26](../../../../../AMvB/ambtsinstructie/voor/de/politie/de/koninklijke/marechaussee/en/andere/etc/BWBR0006589/README.md), [27](../../../../../AMvB/ambtsinstructie/voor/de/politie/de/koninklijke/marechaussee/en/andere/etc/BWBR0006589/README.md) en [32 tot en met 36 van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren](../../../../../AMvB/ambtsinstructie/voor/de/politie/de/koninklijke/marechaussee/en/andere/etc/BWBR0006589/README.md) stelt de korpschef een instructie vast voor het personeel, niet zijnde ambtenaren van politie, dat is belast met de zorg voor ingeslotenen.  
+2.  Met inachtneming van de artikelen 26, 27 en 32 tot en met 36 van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren stelt de korpschef een instructie vast voor het personeel, niet zijnde ambtenaren van politie, dat is belast met de zorg voor ingeslotenen.  
 
 ### Artikel  25  
 

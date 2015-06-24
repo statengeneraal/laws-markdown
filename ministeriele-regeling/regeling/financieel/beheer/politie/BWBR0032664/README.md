@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Veiligheid en Justitie van 13 december 2012, nr. 333192, betreffende het financieel beheer van de politie (Regeling financieel beheer politie)
 
 De Minister van Veiligheid en Justitie,  
-Gelet op [artikel 30, eerste lid, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md);
+Gelet op artikel 30, eerste lid, van de Politiewet 2012;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -23,17 +23,17 @@ d.  *begrotingsjaar:* het kalenderjaar waarvoor de begroting dient;
 
 e.  *verslagjaar:* het kalenderjaar waarover verslag wordt uitgebracht;  
 
-f.  *begroting:* de begroting, bedoeld in [artikel 34 van de wet](../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
+f.  *begroting:* de begroting, bedoeld in artikel 34 van de wet;  
 
-g.  *meerjarenraming:* de meerjarenraming, bedoeld in [artikel 34 van de wet](../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
+g.  *meerjarenraming:* de meerjarenraming, bedoeld in artikel 34 van de wet;  
 
 h.  *managementrapportage:* rapportage van de korpschef aan de Minister waarin wordt ingegaan op de financiële stand van zaken van de politie;  
 
-i.  *jaarrekening:* de jaarrekening, bedoeld in [artikel 35 van de wet](../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
+i.  *jaarrekening:* de jaarrekening, bedoeld in artikel 35 van de wet;  
 
 j.  *jaaraanschrijving:* jaarlijkse aanschrijving van de Minister waarin aanwijzingen worden gegeven;  
 
-k.  *wet:* [Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md).   
+k.  *wet:* Politiewet 2012.   
 
 ### Artikel  2  
 
@@ -56,8 +56,8 @@ De begroting en de meerjarenraming geven duidelijk en stelselmatig inzicht in de
 
 ### Artikel  5  
 
-1.   De korpschef verstrekt jaarlijks uiterlijk 1 januari aan de Minister de informatie die van belang is voor de Voorjaarsnota, bedoeld in [artikel 15, eerste lid, van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).    
-2.   De korpschef verstrekt jaarlijks uiterlijk 1 september aan de Minister de informatie die van belang is voor de Najaarsnota, bedoeld in [artikel 15, derde lid, van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).   
+1.   De korpschef verstrekt jaarlijks uiterlijk 1 januari aan de Minister de informatie die van belang is voor de Voorjaarsnota, bedoeld in artikel 15, eerste lid, van de Comptabiliteitswet 2001.    
+2.   De korpschef verstrekt jaarlijks uiterlijk 1 september aan de Minister de informatie die van belang is voor de Najaarsnota, bedoeld in artikel 15, derde lid, van de Comptabiliteitswet 2001.   
 
 ### Artikel  6  
 
@@ -86,11 +86,11 @@ De begroting en de meerjarenraming geven duidelijk en stelselmatig inzicht in de
 
 ### Artikel  9  
 
-De politie ontvangt uitsluitend bijdragen als bedoeld in [artikel 33 van de wet](../../../../../../wet/politiewet/2012/BWBR0031788/README.md). 
+De politie ontvangt uitsluitend bijdragen als bedoeld in artikel 33 van de wet. 
 
 ### Artikel  10  
 
-De bijdragen, bedoeld in [artikel 33 van de wet](../../../../../../wet/politiewet/2012/BWBR0031788/README.md), zijn een voorschot. 
+De bijdragen, bedoeld in artikel 33 van de wet, zijn een voorschot. 
 
 ### Artikel  11  
 
@@ -105,7 +105,7 @@ De bijdragen, bedoeld in [artikel 33 van de wet](../../../../../../wet/politiewe
 ### Artikel  13  
 
 1.  In de jaarrekening wordt verantwoording afgelegd over de besteding van de bijdragen.   
-2.  Op basis van de jaarrekening en de bijbehorende verklaring, bedoeld in [artikel 35 van de wet](../../../../../../wet/politiewet/2012/BWBR0031788/README.md), stelt de Minister de als voorschot verstrekte bijdragen vast.   
+2.  Op basis van de jaarrekening en de bijbehorende verklaring, bedoeld in artikel 35 van de wet, stelt de Minister de als voorschot verstrekte bijdragen vast.   
 3.  De Minister kan de toegekende algemene of bijzondere bijdragen geheel of gedeeltelijk terugvorderen indien uit de jaarrekening blijkt dat de bijdragen niet in overeenstemming met de gestelde voorwaarden zijn besteed.  
 
 ### Hoofdstuk  5  
@@ -114,7 +114,7 @@ De bijdragen, bedoeld in [artikel 33 van de wet](../../../../../../wet/politiewe
 
 ### Artikel  14  
 
-1.  Voor zover in deze regeling niet anders is bepaald, zijn de [artikelen 361 tot en met 388](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), met uitzondering van [artikelen 363, zesde lid](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [artikel 380](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [artikel 381a](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [381b](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [383](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [383a tot en met 383e, van Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van toepassing, met dien verstande dat in die titel 
+1.  Voor zover in deze regeling niet anders is bepaald, zijn de artikelen 361 tot en met 388, met uitzondering van artikelen 363, zesde lid, artikel 380, artikel 381a, 381b, 383, 383a tot en met 383e, van Titel 9 van Boek 2 van het Burgerlijk Wetboek van toepassing, met dien verstande dat in die titel 
 
 a. voor ‘winst- en verliesrekening’ wordt gelezen: exploitatierekening;  
 
@@ -123,7 +123,7 @@ b. voor ‘bestuur’ wordt gelezen: korpschef;
 c. voor ‘leden of aandeelhouders’ wordt gelezen: Minister; en  
 
 d. voor de inrichting van de jaarrekening, de modellen, bedoeld in artikel 3, worden gebruikt.     
-2.  Ten behoeve van de controle van de jaarrekening door de accountant, bedoeld in [artikel 35 van de wet](../../../../../../wet/politiewet/2012/BWBR0031788/README.md), wordt het door de Minister vastgestelde controleprotocol gebruikt. De accountant wordt benoemd door de Minister, die de korpschef kan verzoeken daarvoor voorbereidende werkzaamheden te verrichten.   
+2.  Ten behoeve van de controle van de jaarrekening door de accountant, bedoeld in artikel 35 van de wet, wordt het door de Minister vastgestelde controleprotocol gebruikt. De accountant wordt benoemd door de Minister, die de korpschef kan verzoeken daarvoor voorbereidende werkzaamheden te verrichten.   
 3.  Het verslag van de accountant bevat bevindingen over de vraag of het beheer van de politie heeft voldaan aan de eisen van rechtmatigheid.   
 4.  Het verslag van de accountant, bedoeld in het derde lid, wordt ter beschikking gesteld aan de Minister.  
 
@@ -147,7 +147,7 @@ Het eigen vermogen bestaat uitsluitend uit een algemene reserve.
 
 ### Artikel  18  
 
-De Minister kan in de jaaraanschrijving, bedoeld in artikel 3, aanwijzingen geven met betrekking tot het vormen van voorzieningen met inachtneming van [artikel 374, vierde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). 
+De Minister kan in de jaaraanschrijving, bedoeld in artikel 3, aanwijzingen geven met betrekking tot het vormen van voorzieningen met inachtneming van artikel 374, vierde lid, van Boek 2 van het Burgerlijk Wetboek. 
 
 ### Hoofdstuk  6  
 
@@ -155,7 +155,7 @@ De Minister kan in de jaaraanschrijving, bedoeld in artikel 3, aanwijzingen geve
 
 ### Artikel  19  
 
-1.  De politie neemt, gelet op [artikel 29, derde lid, onder a, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md), deel aan het schatkistbankieren bij de Minister van Financiën.   
+1.  De politie neemt, gelet op artikel 29, derde lid, onder a, van de Politiewet 2012, deel aan het schatkistbankieren bij de Minister van Financiën.   
 2.  De maximale limiet op het rekening-courantkrediet bij het ministerie van Financiën bedraagt € 250 miljoen.   
 3.  De begroting bevat naast de meerjarenraming een financieringsparagraaf met daarin opgenomen een investeringsplan.   
 4.  Leningen worden slechts aangegaan voor investeringen in vaste activa, voorzover deze onderdeel zijn van het investeringsplan, bedoeld in het derde lid.   
@@ -180,17 +180,17 @@ In afwijking van artikel 6, tweede lid, kan de Minister, op voorstel van de korp
 
 ### Artikel  22  
 
-Activa aangeschaft vóór de datum van inwerkingtreding van de [Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md) worden afgeschreven overeenkomstig [artikel 1 van de Regeling HAP](../../../../../../ministeriele-regeling/regeling/hap/BWBR0016223/README.md). 
+Activa aangeschaft vóór de datum van inwerkingtreding van de Politiewet 2012 worden afgeschreven overeenkomstig artikel 1 van de Regeling HAP. 
 
 ### Artikel  23  
 
-1.  In afwijking van artikel 17 zijn in de balans van de politie bestemmingsreserves toegestaan voor ICT tot € 365,6 miljoen en voor groot onderhoud van gebouwen tot maximaal de som van de bedragen die, onder de aanduiding voorziening groot onderhoud van gebouwen, in de eindbalansen van de regionale politiekorpsen, bedoeld in [artikel 4 van de Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md), zoals [deze wet](../../../../../../wet/politiewet/1993/BWBR0006299/README.md) luidde voor 1 januari 2013, zijn opgenomen.   
+1.  In afwijking van artikel 17 zijn in de balans van de politie bestemmingsreserves toegestaan voor ICT tot € 365,6 miljoen en voor groot onderhoud van gebouwen tot maximaal de som van de bedragen die, onder de aanduiding voorziening groot onderhoud van gebouwen, in de eindbalansen van de regionale politiekorpsen, bedoeld in artikel 4 van de Politiewet 1993, zoals deze wet luidde voor 1 januari 2013, zijn opgenomen.   
 2.  De bestemmingsreserves, bedoeld in het eerste lid, worden niet meegenomen in de vaststelling van de omvang van het eigen vermogen, bedoeld in artikel 20.   
 3.  De bestemmingsreserve ICT blijft uiterlijk in stand tot en met de balans per ultimo 2017. De bestemmingsreserve groot onderhoud van gebouwen blijft uiterlijk in stand tot en met de balans per ultimo 2013.  
 
 ### Artikel  24  
 
-1.  In afwijking van artikel 20, eerste lid, mag het eigen vermogen van de politie gedurende de eerste vijf jaar na inwerkingtreding van de [Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md) maximaal 7,5% van de gemiddelde bijdragen als bedoeld in artikel 20, eerste lid, bedragen.   
+1.  In afwijking van artikel 20, eerste lid, mag het eigen vermogen van de politie gedurende de eerste vijf jaar na inwerkingtreding van de Politiewet 2012 maximaal 7,5% van de gemiddelde bijdragen als bedoeld in artikel 20, eerste lid, bedragen.   
 2.  Voor de toepassing van artikel 20, eerste lid, wordt de bijdrage vastgesteld op € 5,075 miljard voor 2010; € 5,182 miljard voor 2011, en € 4,928 miljard voor 2012.  
 
 ### Artikel  25  
@@ -199,7 +199,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Artikel  26  
 
-Deze regeling treedt in werking met ingang van het tijdstip waarop de [Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md) in werking treedt. 
+Deze regeling treedt in werking met ingang van het tijdstip waarop de Politiewet 2012 in werking treedt. 
 
 ### Artikel  27  
 

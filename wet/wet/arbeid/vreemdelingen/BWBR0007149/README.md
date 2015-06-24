@@ -268,6 +268,11 @@ b. het niet naleven van een aan de tewerkstellingsvergunning verbonden voorschri
 4.  De werkgever, bedoeld in het tweede lid, bewaart het afschrift tot tenminste vijf jaren na het einde van het kalenderjaar waarin de arbeid door de vreemdeling is beëindigd.   
 5.  De vreemdeling verstrekt een op hem betrekking hebbend document als bedoeld in artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht aan de werkgever, die het afschrift van het document, bedoeld in het eerste lid, ontvangt, en stelt die werkgever in de gelegenheid een afschrift van dit document te maken.  
 
+### Artikel  15a  
+Treedt in werking per 01-07-2015 
+
+De werkgever is verplicht om binnen 48 uren na een daartoe strekkende vordering van de toezichthouder de identiteit vast te stellen van een persoon van wie op grond van feiten en omstandigheden het vermoeden bestaat dat hij arbeid voor hem verricht of heeft verricht, aan de hand van een document als bedoeld in artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht en de toezichthouder te informeren door een afschrift van dit document te verstrekken. 
+
 ### Artikel  16  
 
 1.  De door Onze Minister aangewezen ambtenaren, bedoeld in artikel 14, zijn bevoegd bij het verwerken van persoonsgegevens gebruik te maken van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer.   

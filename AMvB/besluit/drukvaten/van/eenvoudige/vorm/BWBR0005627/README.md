@@ -8,7 +8,7 @@ Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 9 ap
 
 Overwegende dat regels dienen te worden gesteld ter uitvoering van de Richtlijn van de Raad van de Europese Gemeenschappen van 25 juni 1987 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake drukvaten van eenvoudige vorm (87/404/EEG, *PbEG* 1987, L220/48);
 
-Gelet op de artikelen 1, eerste lid, onder *a*, 2, 3, eerste en tweede lid, 4, derde lid, 6, 12, derde lid, 24 en 25*a* van de [Wet op de gevaarlijke werktuigen](../../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md) (*Stb.* 1952, 104);
+Gelet op de artikelen 1, eerste lid, onder *a*, 2, 3, eerste en tweede lid, 4, derde lid, 6, 12, derde lid, 24 en 25*a* van de Wet op de gevaarlijke werktuigen (*Stb.* 1952, 104);
 
 De Raad van State gehoord (advies van 24 juni 1992, No. W12.92.0157);
 
@@ -44,9 +44,9 @@ b. de Gemeenschap: het grondgebied waarop het Verdrag betreffende de Europese Un
 
 c. richtlijn: de Richtlijn van de Raad van de Europese Gemeenschappen van 25 juni 1987 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake drukvaten van eenvoudige vorm (87/404/EEG, *PbEG* 1987, L 220/48);  
 
-d. aangewezen aangemelde instelling: een krachtens [artikel 7a van de wet](../../../../../../../wet/warenwet/BWBR0001969/README.md) in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen aangemelde instelling, dan wel een door een andere staat die partij is bij Overeenkomst betreffende de Europese Economische Ruimte in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen aangemelde instelling;  
+d. aangewezen aangemelde instelling: een krachtens artikel 7a van de wet in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen aangemelde instelling, dan wel een door een andere staat die partij is bij Overeenkomst betreffende de Europese Economische Ruimte in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen aangemelde instelling;  
 
-e. wet: [Warenwet](../../../../../../../wet/warenwet/BWBR0001969/README.md).   
+e. wet: Warenwet.   
 
 ###Artikel 2 
 
@@ -191,7 +191,7 @@ b. ten hoogste twaalf maanden, voorafgaand aan de datum van indiening van de aan
 2.  De aanvraag wordt in het geval, bedoeld in het eerste lid, onder b, eerst in behandeling genomen nadat twaalf maanden, te rekenen vanaf de dag na de datum van de weigering respectievelijk van de intrekking, zijn verstreken.   
 3.  Een aanwijzing kan worden geschorst, ten nadele van de aangemelde instelling worden gewijzigd of ingetrokken: 
 
-a. op grond van feiten of omstandigheden waarvan Onze Minister bij de aanwijzing redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij de aanwijzing niet of alleen met voorschriften, bedoeld in [artikel 7, vierde lid, van de wet](../../../../../../../wet/warenwet/BWBR0001969/README.md) zou hebben gegeven.  
+a. op grond van feiten of omstandigheden waarvan Onze Minister bij de aanwijzing redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij de aanwijzing niet of alleen met voorschriften, bedoeld in artikel 7, vierde lid, van de wet zou hebben gegeven.  
 
 b. op grond van door de aangewezen aangemelde instelling verstrekte onjuiste inlichtingen over feiten of omstandigheden, mits de onjuistheid daarvan aan de instelling bekend was of kon zijn;  
 
@@ -233,7 +233,7 @@ c.indien zij niet ouder zijn dan 25 jaar.
 
 ###Artikel 16a 
 
-Dit besluit berust op de [artikelen 1](../../../../../../../wet/warenwet/BWBR0001969/README.md), [3 tot en met 11](../../../../../../../wet/warenwet/BWBR0001969/README.md), [11a](../../../../../../../wet/warenwet/BWBR0001969/README.md), [13](../../../../../../../wet/warenwet/BWBR0001969/README.md), [14](../../../../../../../wet/warenwet/BWBR0001969/README.md), [16](../../../../../../../wet/warenwet/BWBR0001969/README.md) en [32b, eerste lid, van de wet](../../../../../../../wet/warenwet/BWBR0001969/README.md).
+Dit besluit berust op de artikelen 1, 3 tot en met 11, 11a, 13, 14, 16 en 32b, eerste lid, van de wet.
 
 ### Artikel  17  
 

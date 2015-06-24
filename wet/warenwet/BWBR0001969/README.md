@@ -273,27 +273,17 @@ b. eet- of drinkwaren, dan wel waren, behorende tot een hiertoe bij algemene maa
 
 ### Artikel  19  
 
-1.  Het is voorts verboden:  
-
-a. eet- of drinkwaren te verhandelen met gebruikmaking van vermeldingen of voorstellingen, die aan de waar eigenschappen toeschrijven inzake het voorkomen, behandelen of genezen van een ziekte van de mens, of die toespelingen maken op zodanige eigenschappen;   
-
-b. waren, niet zijnde eet- of drinkwaren, te verhandelen met gebruikmaking van vermeldingen of voorstellingen met betrekking tot de veiligheid van de waar of de uitwerking van de waar op de gezondheid van de mens, die, doordat zij onjuist zijn of een onjuiste indruk wekken, tot gevolg kunnen hebben dat de veiligheid of gezondheid van de mens in gevaar wordt gebracht.      
-2.  Onverminderd het eerste lid, onder b, is het verboden technische voortbrengselen te verhandelen met gebruikmaking van vermeldingen of voorstellingen met betrekking tot de uitwerking van het technisch voortbrengsel op de veiligheid van zaken die, doordat zij onjuist zijn of een onjuiste indruk wekken, tot gevolg kunnen hebben dat die veiligheid in gevaar wordt gebracht.   
-3.  Het eerste lid is niet van toepassing op geneesmiddelen die overeenkomstig de Geneesmiddelenwet rechtmatig worden verhandeld.    
-4.  Bij algemene maatregel van bestuur kunnen vermeldingen of voorstellingen worden aangewezen, die in elk geval worden beschouwd als vermeldingen of voorstellingen, bedoeld in het eerste en tweede lid.   
+1.  Het is een ieder voorts verboden waren, niet zijnde eet- of drinkwaren, te verhandelen met gebruikmaking van vermeldingen of voorstellingen met betrekking tot de veiligheid van de waar of de uitwerking van de waar op de gezondheid van de mens, die, doordat zij onjuist zijn of een onjuiste indruk wekken, tot gevolg kunnen hebben dat de veiligheid of gezondheid van de mens in gevaar wordt gebracht.   
+2.  Onverminderd het eerste lid is het verboden technische voortbrengselen te verhandelen met gebruikmaking van vermeldingen of voorstellingen met betrekking tot de uitwerking van het technisch voortbrengsel op de veiligheid van zaken die, doordat zij onjuist zijn of een onjuiste indruk wekken, tot gevolg kunnen hebben dat die veiligheid in gevaar wordt gebracht.   
+3.  Bij algemene maatregel van bestuur kunnen vermeldingen of voorstellingen worden aangewezen, die in elk geval worden beschouwd als vermeldingen of voorstellingen, bedoeld in het eerste en tweede lid.   
 
 ### Artikel  20  
 
 1.  Het is een ieder verboden in de uitoefening van een beroep of bedrijf een waar aan te prijzen op een wijze waarvan hij weet of redelijkerwijs moet vermoeden dat zij strijdig is met het ter zake van het verhandelen van die waar, met betrekking tot het daarbij bezigen van aanduidingen, vermeldingen of voorstellingen, krachtens artikel 8, eerste lid, onder a tot en met e, bepaalde.    
-2.  Het is een ieder voorts verboden in de uitoefening van een beroep of bedrijf:  
-
-a. eet- of drinkwaren aan te prijzen met gebruikmaking van vermeldingen of voorstellingen, die aan de waar eigenschappen toeschrijven inzake het voorkomen, behandelen of genezen van een ziekte van de mens, of die toespelingen maken op zodanige eigenschappen;   
-
-b. waren, niet zijnde eet- of drinkwaren, aan te prijzen met gebruikmaking van vermeldingen of voorstellingen met betrekking tot de veiligheid van de waar of de uitwerking van de waar op de gezondheid van de mens, waarvan hij weet of redelijkerwijs moet vermoeden, dat zij, doordat zij onjuist zijn of een onjuiste indruk wekken, tot gevolg kunnen hebben dat de veiligheid of gezondheid van de mens in gevaar wordt gebracht.      
-3.  Onverminderd het tweede lid, onder b, is het verboden in de uitoefening van een beroep of bedrijf technische voortbrengselen aan te prijzen met gebruikmaking van vermeldingen of voorstellingen met betrekking tot de uitwerking van het technisch voortbrengsel op de veiligheid van zaken, waarvan hij weet of redelijkerwijs moet vermoeden, dat zij, doordat zij onjuist zijn of een onjuiste indruk wekken, tot gevolg kunnen hebben dat die veiligheid in gevaar wordt gebracht.   
-4.  Het tweede lid is niet van toepassing op geneesmiddelen die overeenkomstig de Geneesmiddelenwet rechtmatig worden verhandeld.    
-5.  Bij algemene maatregel van bestuur kunnen vermeldingen of voorstellingen worden aangewezen, die in elk geval worden beschouwd als vermeldingen of voorstellingen, bedoeld in het tweede of derde lid.    
-6.  Ten behoeve van de bescherming van de gezondheid en de veiligheid van de mens, alsmede ter uitvoering van internationale verplichtingen kan bij algemene maatregel van bestuur worden verboden waren, behorende tot een bij de maatregel aangewezen categorie, met betrekking waartoe krachtens artikel 8, onder a tot en met e, voorschriften zijn gegeven, in de uitoefening van een beroep of bedrijf op een bij de maatregel aangewezen wijze aan te prijzen, anders dan met gebruikmaking van bij de maatregel aangewezen aanduidingen, vermeldingen of voorstellingen.   
+2.  Het is een ieder voorts verboden in de uitoefening van een beroep of bedrijf waren, niet zijnde eet- of drinkwaren, aan te prijzen met gebruikmaking van vermeldingen of voorstellingen met betrekking tot de veiligheid van de waar of de uitwerking van de waar op de gezondheid van de mens, waarvan hij weet of redelijkerwijs moet vermoeden, dat zij, doordat zij onjuist zijn of een onjuiste indruk wekken, tot gevolg kunnen hebben dat de veiligheid of gezondheid van de mens in gevaar wordt gebracht.   
+3.  Onverminderd het tweede lid is het verboden in de uitoefening van een beroep of bedrijf technische voortbrengselen aan te prijzen met gebruikmaking van vermeldingen of voorstellingen met betrekking tot de uitwerking van het technisch voortbrengsel op de veiligheid van zaken, waarvan hij weet of redelijkerwijs moet vermoeden, dat zij, doordat zij onjuist zijn of een onjuiste indruk wekken, tot gevolg kunnen hebben dat die veiligheid in gevaar wordt gebracht.   
+4.  Bij algemene maatregel van bestuur kunnen vermeldingen of voorstellingen worden aangewezen, die in elk geval worden beschouwd als vermeldingen of voorstellingen, bedoeld in het tweede of derde lid.    
+5.  Ten behoeve van de bescherming van de gezondheid en de veiligheid van de mens, alsmede ter uitvoering van internationale verplichtingen kan bij algemene maatregel van bestuur worden verboden waren, behorende tot een bij de maatregel aangewezen categorie, met betrekking waartoe krachtens artikel 8, eerste lid, onder a tot en met e, voorschriften zijn gegeven, in de uitoefening van een beroep of bedrijf op een bij de maatregel aangewezen wijze aan te prijzen, anders dan met gebruikmaking van bij de maatregel aangewezen aanduidingen, vermeldingen of voorstellingen.   
 
 ### Artikel  21  
 

@@ -3,7 +3,7 @@
 ##Regeling, houdende vaststelling van regels omtrent de medische geschiktheid en de medische keuring van zeevarenden (Keuringsreglement voor de Zeevaart 2005)
 
 De Minister van Verkeer en Waterstaat,
-Gelet op [artikel 48, tweede lid, van de Zeevaartbemanningswet](../../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), alsmede de [artikelen 104, derde lid](../../../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md), en [106, eerste, tweede en derde lid, van het Besluit zeevaartbemanning handelsvaart en zeilvaart](../../../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md) en de [artikelen 60, derde lid](../../../../../../../AMvB/besluit/zeevisvaartbemanning/BWBR0012790/README.md), en [62, eerste, tweede en derde lid, van het Besluit zeevisvaartbemanning](../../../../../../../AMvB/besluit/zeevisvaartbemanning/BWBR0012790/README.md);
+Gelet op artikel 48, tweede lid, van de Zeevaartbemanningswet, alsmede de artikelen 104, derde lid, en 106, eerste, tweede en derde lid, van het Besluit zeevaartbemanning handelsvaart en zeilvaart en de artikelen 60, derde lid, en 62, eerste, tweede en derde lid, van het Besluit zeevisvaartbemanning;
 Besluit:  
 
 ### Artikel  1  
@@ -12,9 +12,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. wet: [Wet zeevarenden](../../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md);  
+a. wet: Wet zeevarenden;  
 
-b. keuring: medisch onderzoek als bedoeld in [artikel 105, eerste lid, van het Besluit zeevarenden handelsvaart en zeilvaart](../../../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md) of [artikel 61, eerste lid, van het Besluit zeevisvaartbemanning](../../../../../../../AMvB/besluit/zeevisvaartbemanning/BWBR0012790/README.md);  
+b. keuring: medisch onderzoek als bedoeld in artikel 105, eerste lid, van het Besluit zeevarenden handelsvaart en zeilvaart of artikel 61, eerste lid, van het Besluit zeevisvaartbemanning;  
 
 c. keurling: natuurlijke persoon die zich aan een keuring onderwerpt;  
 
@@ -31,7 +31,7 @@ d. risicogebied: gebied buiten Nederland, waar het risico van besmetting met tub
 
 1.  Voorafgaand aan de keuring controleert de keuringsarts: 
 
-a. het monsterboekje of het in [artikel 38, eerste lid, van de wet](../../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md) bedoelde document van de keurling, of  
+a. het monsterboekje of het in artikel 38, eerste lid, van de wet bedoelde document van de keurling, of  
 
 b. ingeval de keurling nog niet in het bezit is van een monsterboekje of een document als bedoeld in onderdeel a, de verklaring door of namens de scheepsbeheerder dat de keurling in dienst is of komt, vergezeld van een geldig identiteitsbewijs, of  
 
@@ -44,7 +44,7 @@ b. de uitslag van een onderzoek op tuberculose (thoraxfoto of Mantoux-test);
 
 c. de aanwezigheid van een verklaring van de bloedgroep en de rhesusfactor, en  
 
-d. indien van toepassing, een geldige ontheffing, afgegeven door de Medisch Adviseur Scheepvaart als bedoeld in [Hoofdstuk 6 van het Besluit zeevarenden handelsvaart en zeilvaart](../../../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md), onderscheidenlijk in [Hoofdstuk 7 van het Besluit zeevisvaartbemanning](../../../../../../../AMvB/besluit/zeevisvaartbemanning/BWBR0012790/README.md).    
+d. indien van toepassing, een geldige ontheffing, afgegeven door de Medisch Adviseur Scheepvaart als bedoeld in Hoofdstuk 6 van het Besluit zeevarenden handelsvaart en zeilvaart, onderscheidenlijk in Hoofdstuk 7 van het Besluit zeevisvaartbemanning.    
 
 ### Artikel  3  
 
@@ -77,7 +77,7 @@ d. indien van toepassing, een geldige ontheffing, afgegeven door de Medisch Advi
 3.  De keuringsarts deelt tevens mede dat de keurling recht heeft op een herkeuring.   
 4.  Van iedere afkeuring voor de zeevaart doet de keuringsarts onverwijld mededeling aan de Medisch Adviseur Scheepvaart door middel van een verklaring van medische ongeschiktheid, waarin de reden of redenen tot afkeuring zijn vermeld.   
 5.  De keuringsarts overhandigt aan de keurling een exemplaar van het de verklaring van medische ongeschiktheid en vermeldt daarop de reden of redenen tot afkeuring.   
-6.  Indien de keuringsarts bij een tussentijds onderzoek op grond van [artikel 23 van de wet](../../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md) bemerkt dat de keurling tijdelijk dan wel blijvend ongeschikt is voor de zeevaart, handelt hij als beschreven in het eerste tot en met vijfde lid van dit artikel.   
+6.  Indien de keuringsarts bij een tussentijds onderzoek op grond van artikel 23 van de wet bemerkt dat de keurling tijdelijk dan wel blijvend ongeschikt is voor de zeevaart, handelt hij als beschreven in het eerste tot en met vijfde lid van dit artikel.   
 7.  De keurling die een herkeuring wenst, richt zich daartoe tot een scheidsrechter onder overlegging van diens exemplaar van het de verklaring van medische ongeschiktheid.  
 
 ### Artikel  7  
@@ -107,19 +107,19 @@ d. indien van toepassing, een geldige ontheffing, afgegeven door de Medisch Advi
 
 ### Artikel  10  
 
-De resultaten van de keuringen van zeevarenden die een functie uitoefenen als bedoeld in [artikel 18, tweede lid, van de wet](../../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), en van zeevarenden met veiligheids- of beveiligingstaken, worden door de keuringsarts onverwijld aangetekend in het daarvoor bestemde register. Instructies van de Medisch Adviseur Scheepvaart worden opgevolgd. 
+De resultaten van de keuringen van zeevarenden die een functie uitoefenen als bedoeld in artikel 18, tweede lid, van de wet, en van zeevarenden met veiligheids- of beveiligingstaken, worden door de keuringsarts onverwijld aangetekend in het daarvoor bestemde register. Instructies van de Medisch Adviseur Scheepvaart worden opgevolgd. 
 
 ### Artikel  11  
 
 ####Formulieren
 
 1.  Het model voor de geneeskundige verklaring zeevaart is het model zoals opgenomen in bijlage 3.   
-2.  Het model voor de verklaring van medische ongeschiktheid is het model, opgenomen in [bijlage 6.3 van de Binnenvaartregeling](../../../../../../../ministeriele-regeling/binnenvaartregeling/BWBR0025958/README.md).  
+2.  Het model voor de verklaring van medische ongeschiktheid is het model, opgenomen in bijlage 6.3 van de Binnenvaartregeling.  
 3.  De keuringsarts maakt uitsluitend gebruik van de formulieren voor de geneeskundige verklaring, de verklaring van medische ongeschiktheid en het keuringsformulier die hem door de Medisch Adviseur Scheepvaart worden verstrekt.  
 
 ### Artikel  12  
 
-Deze regeling berust op de [artikelen 104](../../../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md), [106, eerste, tweede en derde lid](../../../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md), en [110, zevende lid, van het Besluit zeevarenden handelsvaart en zeilvaart](../../../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md) en de [artikelen 60, derde lid](../../../../../../../AMvB/besluit/zeevisvaartbemanning/BWBR0012790/README.md), en [62, eerste, tweede en derde lid, van het Besluit zeevisvaartbemanning](../../../../../../../AMvB/besluit/zeevisvaartbemanning/BWBR0012790/README.md). 
+Deze regeling berust op de artikelen 104, 106, eerste, tweede en derde lid, en 110, zevende lid, van het Besluit zeevarenden handelsvaart en zeilvaart en de artikelen 60, derde lid, en 62, eerste, tweede en derde lid, van het Besluit zeevisvaartbemanning. 
 
 ### Artikel  13  
 
@@ -188,7 +188,7 @@ Zeevarenden leven gedurende langere tijd dicht op elkaar. Besmettelijke aandoeni
 
 #### *Veiligheid* 
 
-Met betrekking tot de keuring van een zeevarende die een functie uitoefent (of gaat uitoefenen) als bedoeld in [artikel 18, tweede lid, van de wet](../../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), is het volgende van belang:Het dragen van persoonlijke beschermingsmiddelen moet zonder bezwaar mogelijk zijn en niet worden belemmerd door lichamelijke aandoeningen of beperkingen. Hierbij moet worden gedacht aan veiligheidshelmen en -brillen, maskers, gehoorbescherming, veiligheidsschoenen en beschermende kleding. Het dragen van een persluchttoestel van 15 kg gedurende minimaal 20 minuten vereist een goede lichamelijke conditie. Hierbij wordt speciale beschermende kleding gedragen. Tijdens het bestrijden van een brand wordt onder grote spanning gewerkt in een warme omgeving, waarbij mogelijk door nauwe openingen of gangen gemanoeuvreerd moet worden. 
+Met betrekking tot de keuring van een zeevarende die een functie uitoefent (of gaat uitoefenen) als bedoeld in artikel 18, tweede lid, van de wet, is het volgende van belang:Het dragen van persoonlijke beschermingsmiddelen moet zonder bezwaar mogelijk zijn en niet worden belemmerd door lichamelijke aandoeningen of beperkingen. Hierbij moet worden gedacht aan veiligheidshelmen en -brillen, maskers, gehoorbescherming, veiligheidsschoenen en beschermende kleding. Het dragen van een persluchttoestel van 15 kg gedurende minimaal 20 minuten vereist een goede lichamelijke conditie. Hierbij wordt speciale beschermende kleding gedragen. Tijdens het bestrijden van een brand wordt onder grote spanning gewerkt in een warme omgeving, waarbij mogelijk door nauwe openingen of gangen gemanoeuvreerd moet worden. 
 
 #### *Keuringsaanwijzingen, algemene uitgangspunten voor afkeuring, medische maatstaven* 
 
@@ -222,7 +222,7 @@ b. de gekeurde is *blijvend ongeschikt*, indien op medische gronden wordt verwac
 
 #### *I. Algemene lichamelijke conditie en fysieke vaardigheden* 
 
-Zeevarenden moeten voldoende lichamelijke conditie en fysieke vaardigheid hebben om hun functie naar behoren te kunnen uitoefenen. Zeevarenden die een functie uitoefenen (of gaan uitoefenen) als bedoeld in [artikel 18, tweede lid, van de wet](../../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), moeten bovendien voldoende lichamelijke conditie en fysieke vaardigheid hebben om te allen tijde adequaat te kunnen handelen aan boord (ref. STCW-Code, tabel B-I/9-2). Hiertoe is vereist dat de zeevarende: 1. voldoende en zonder assistentie ladders en trappen kan op- en afgaan; 2. voldoende en zonder assistentie over een 60 cm hoge drempel kan stappen; 3. voldoende kan grijpen en tillen, alsmede ongestoord gereedschap kan hanteren, afsluiters kan open- en dichtdraaien, kan werken met lijnen en trossen; 4. voldoende kan reiken boven schouderhoogte; 5. voldoende kan bukken, hurken, knielen en kruipen; 6. voldoende kan staan en lopen tenminste gedurende een wachtperiode; 7. zonder assistentie zich door een opening van 60x60 cm kan bewegen. 
+Zeevarenden moeten voldoende lichamelijke conditie en fysieke vaardigheid hebben om hun functie naar behoren te kunnen uitoefenen. Zeevarenden die een functie uitoefenen (of gaan uitoefenen) als bedoeld in artikel 18, tweede lid, van de wet, moeten bovendien voldoende lichamelijke conditie en fysieke vaardigheid hebben om te allen tijde adequaat te kunnen handelen aan boord (ref. STCW-Code, tabel B-I/9-2). Hiertoe is vereist dat de zeevarende: 1. voldoende en zonder assistentie ladders en trappen kan op- en afgaan; 2. voldoende en zonder assistentie over een 60 cm hoge drempel kan stappen; 3. voldoende kan grijpen en tillen, alsmede ongestoord gereedschap kan hanteren, afsluiters kan open- en dichtdraaien, kan werken met lijnen en trossen; 4. voldoende kan reiken boven schouderhoogte; 5. voldoende kan bukken, hurken, knielen en kruipen; 6. voldoende kan staan en lopen tenminste gedurende een wachtperiode; 7. zonder assistentie zich door een opening van 60x60 cm kan bewegen. 
 
 #### *II. Geneesmiddelengebruik* 
 
