@@ -94,7 +94,7 @@ d. disciplinary procedures, applying agreed international principles of natural 
 
 (iii)  clear and enforceable provisions for appealing against an judgment made;    
 
-e. procedures for the imposition of effective penalties for officials, doctors, veterinary doctors, coaches, physiotherapists and other officials or accessories associated with infringements of the antidoping regulations by sportsmen and sportswomen;  
+e. procedures for the imposition of effective penalties for officials, doctors, veterinary doctors, coaches, physiotherapists and other officials or accessories associated with infringements of the anti-doping regulations by sportsmen and sportswomen;  
 
 f. procedures for the mutual recognition of suspensions and other penalties imposed by other sports organisations in the same or other countries.     
 3.  Moreover, the Parties shall encourage their sports organisations: 

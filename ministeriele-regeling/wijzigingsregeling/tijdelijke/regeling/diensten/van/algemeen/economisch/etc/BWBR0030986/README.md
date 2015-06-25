@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 december 2011, nr. 2011-2000581818, tot wijziging van de Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting (wijziging toewijzingsvereiste met betrekking tot personen met een zware zorgindicatie en enkele andere wijzigingen)
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op [artikel 2, eerste lid, van het Besluit beheer sociale-huursector](../../../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md),
+Gelet op artikel 2, eerste lid, van het Besluit beheer sociale-huursector,
 Besluit:    
 
 ### Artikel  I  
@@ -12,7 +12,7 @@ Wijzigt de Tijdelijke regeling diensten van algemeen economisch belang toegelate
 
 ### Artikel  II  
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties betrekt de [artikelen 4, eerste, tweede en vierde lid](../../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/diensten/van/algemeen/economisch/belang/toegelaten/etc/BWBR0028918/README.md), [4a](../../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/diensten/van/algemeen/economisch/belang/toegelaten/etc/BWBR0028918/README.md) en [6 van de Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting](../../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/diensten/van/algemeen/economisch/belang/toegelaten/etc/BWBR0028918/README.md), zoals die artikelen door artikel I van deze regeling zijn komen te luiden, voor het eerst in 2013 bij de beoordeling, bedoeld in [artikel 7](../../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/diensten/van/algemeen/economisch/belang/toegelaten/etc/BWBR0028918/README.md) van genoemde regeling. 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties betrekt de artikelen 4, eerste, tweede en vierde lid, 4a en 6 van de Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting, zoals die artikelen door artikel I van deze regeling zijn komen te luiden, voor het eerst in 2013 bij de beoordeling, bedoeld in artikel 7 van genoemde regeling. 
 
 ### Artikel  III  
 

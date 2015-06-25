@@ -6,7 +6,7 @@ Toegelaten instellingen (hierna te noemen t.i.’s) hanteren diverse (financiël
 
 a. de financiering welke benodigd is voor de verwerving van de woning wordt uitsluitend verstrekt door een of meerdere instellingen die onder toezicht staan van de Nederlandse Bank danwel door SVn (Stimuleringsfonds Volkshuisvesting Nederlandse gemeenten);  
 
-b. een startende koper is degene die voor de eerste maal een eigen woning koopt en tevens tot de doelgroep van beleid van de t.i. conform het [Bbsh](../../../../../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md) hoort;  
+b. een startende koper is degene die voor de eerste maal een eigen woning koopt en tevens tot de doelgroep van beleid van de t.i. conform het Bbsh hoort;  
 
 c. de ondersteuning in de financieringslasten van de startende koper wordt alleen gegeven voorzover en zolang de startende koper deze lasten niet geheel zelf kan dragen: het inkomen van de koper wordt op door de t.i. vastgestelde momenten getoetst en indien in dat geval het inkomen het toelaat, wordt de ondersteuning in de financieringslasten aangepast of gestaakt;  
 
@@ -14,7 +14,7 @@ d. de ondersteuning in de financieringslasten heeft uitsluitend betrekking op he
 
 e. de hypothecaire financiering ter verwerving van de woning dient geheel onder Nationale Hypotheek Garantie (NHG) te worden verstrekt;  
 
-f. de ondersteuning in de financieringslasten wordt niet verstrekt in combinatie met een koopsubsidie op grond van de [Wet bevordering eigenwoningbezit](../../../../../../../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md) en tevens niet in combinatie met andere inkomensafhankelijke regelingen van het Rijk;   Voor het overige blijft de tekst van Bijlage 1 onder 6. onverkort gelden.’   
+f. de ondersteuning in de financieringslasten wordt niet verstrekt in combinatie met een koopsubsidie op grond van de Wet bevordering eigenwoningbezit en tevens niet in combinatie met andere inkomensafhankelijke regelingen van het Rijk;   Voor het overige blijft de tekst van Bijlage 1 onder 6. onverkort gelden.’   
 
 ####Toelichting
 

@@ -9,15 +9,11 @@ Besluit:
 
 ####Reikwijdte
 
-Treedt in werking per 01-01-2015 
-
 Deze regeling is van toepassing op zorgaanbieders die generalistische basis geestelijke gezondheidszorg (hierna Basis GGZ) leveren. 
 
 ### 2  
 
 ####Doel
-
-Treedt in werking per 01-01-2015 
 
 Het doel van deze regeling is om voorschriften te stellen voor de Basis GGZ over: 
 
@@ -30,8 +26,6 @@ Het doel van deze regeling is om voorschriften te stellen voor de Basis GGZ over
 ### 3  
 
 ####Begripsbepalingen
-
-Treedt in werking per 01-01-2015 
 
 In deze regeling wordt verstaan onder: 
 
@@ -149,13 +143,9 @@ d. de overige prestaties als genoemd in artikel 7 van de beleidsregel Generalist
 
 ####Registreren
 
-Treedt in werking per 01-01-2015 
-
 ### 4  
 
 ####Registratieverplichtingen
-
-Treedt in werking per 01-01-2015 
 
 4.1. De hoofdbehandelaar is verantwoordelijk voor de juiste registratie.  
 
@@ -178,8 +168,6 @@ Treedt in werking per 01-01-2015
 ### 5  
 
 ####Minimale Dataset Basis GGZ
-
-Treedt in werking per 01-01-2015 
 
 5.1.  De minimale dataset Basis GGZ omvat per gedeclareerde prestatie de volgende gegevens: 
 
@@ -305,13 +293,9 @@ o Overig
 
 ####Informeren
 
-Treedt in werking per 01-01-2015 
-
 ### 6  
 
 ####Aanlevering
-
-Treedt in werking per 01-01-2015 
 
 6.1 De in artikel 5 bedoelde minimale dataset wordt door de zorgaanbieder over alle gedeclareerde prestaties per patiënt elektronisch aangeleverd.  
 
@@ -328,8 +312,6 @@ Treedt in werking per 01-01-2015
 ### 7  
 
 ####Transparantie
-
-Treedt in werking per 01-01-2015 
 
 7.1  De factuur van de zorgaanbieder aan de patiënt/verzekeraar vermeldt minimaal de navolgende gegevens als onderdeel van de prestatiebeschrijving: 
 
@@ -405,13 +387,9 @@ n. Indeling in prestatie op basis van zorgvraagzwaarte na intake en diagnostiek<
 
 ####Declareren
 
-Treedt in werking per 01-01-2015 
-
 ### 8  
 
 ####Declaratiebepalingen
-
-Treedt in werking per 01-01-2015 
 
 8.1 De prestaties in de Basis GGZ worden in rekening gebracht mits er sprake is van betrokkenheid van een hoofdbehandelaar bij het behandeltraject van de patiënt.  
 
@@ -451,23 +429,17 @@ Treedt in werking per 01-01-2015
 
 ####Uitzondering
 
-Treedt in werking per 01-01-2015 
-
 De verplichtingen als gesteld in de artikelen 4, 5, 6, 7, 8.1 t/m 8.7 en 8.9 van deze regeling zijn niet van toepassing op de OVP niet-basispakketzorg Consult, de OVP niet-basispakketzorg Verblijf en de Overige prestaties als bedoeld in artikel 8.12. 
 
 ### 10  
 
 ####Verplichting
 
-Treedt in werking per 01-01-2015 
-
 De verplichtingen als genoemd in deze regeling zijn van toepassing op het moment dat sprake is van levering van de prestatie(s). 
 
 ### 11  
 
 ####Inwerkingtreding en citeertitel
-
-Treedt in werking per 01-01-2015 
 
 De regeling ‘Generalistische Basis GGZ’, met kenmerk NR/CU-543, wordt per 1 januari 2015 ingetrokken. Deze regeling treedt in werking op 1 januari 2015. De regeling Generalistische basis GGZ (NR/CU-543) blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die regeling en die betrekking hebben op de periode waarvoor die regeling gold. Deze regeling vervangt de reeds eerder door de NZa gepubliceerde, maar nog niet in werking getreden Nadere Regel generalistische basis GGZ met kenmerk NR/CU-544. Ingevolge artikel 20, tweede lid, onderdeel a, van de Wet marktordening gezondheidszorg (Wmg) zal deze regeling in de Staatscourant worden geplaatst. De regeling kan worden aangehaald als de ‘Regeling Generalistische Basis GGZ’. 
 
@@ -478,8 +450,6 @@ voorzitter Raad van Bestuur a.i.
 ### Bijlage  I  
 
 ####- Privacyverklaring
-
-Treedt in werking per 01-01-2015 
 
 Ondergetekenden:  
 

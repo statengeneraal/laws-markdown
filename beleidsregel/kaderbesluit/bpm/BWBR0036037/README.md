@@ -9,7 +9,7 @@ De Staatssecretaris van Financiën heeft het volgende besloten.     *Dit besluit
 
 In dit besluit is de volgende goedkeuring ingeperkt om oneigenlijk gebruik tegen te gaan: 
 
-* Bestelauto met bovenbouwvermelding '(opleg)trekker' of 'voor verwisselbare opbouw'/’afneembare bovenbouw’ (2.2.4.2).   Daarnaast is de goedkeuring voor stoelen en/of bank in de laadruimte ten behoeve van werkzaamheden op locatie verplaatst. Hier is geen inhoudelijke wijziging mee beoogd. Dit besluit werd gewijzigd bij besluit van 26 februari 2015, nr. 2015/151M. De wijziging betrof het opnemen van een overgangsregeling die is getroffen in verband met de inperking van de goedkeuring in onderdeel 2.2.4.2. Daarnaast werd de tekst van onderdeel 8.1 in overeenstemming gebracht met de tekst van onderdeel 11.5.1 van het kaderbesluit motorrijtuigenbelasting (BLKB2014/2068M).  
+* Bestelauto met bovenbouwvermelding '(opleg)trekker' of 'voor verwisselbare opbouw'/’afneembare bovenbouw’ (2.2.4.2).   Daarnaast is de goedkeuring voor stoelen en/of bank in de laadruimte ten behoeve van werkzaamheden op locatie verplaatst. Hier is geen inhoudelijke wijziging mee beoogd. Dit besluit werd gewijzigd bij besluit van 26 februari 2015, nr. 2015/151M. De wijziging betrof het opnemen van een overgangsregeling die is getroffen in verband met de inperking van de goedkeuring in onderdeel 2.2.4.2. Daarnaast werd de tekst van onderdeel 8.1 in overeenstemming gebracht met de tekst van onderdeel 11.5.1 van het kaderbesluit motorrijtuigenbelasting (BLKB2014/2068M).Dit besluit werd gewijzigd bij besluit van [DATUM ONDERTEKENING], nr. 2015/642M. De wijziging betrof de opname van beleid ten aanzien van het op een praktische wijze vaststellen van de waardevermindering van een motorrijtuig tussen het tijdstip van aangifte/melding en het belastbaar feit.  
 ### 1.1  
 
 ####Gebruikte begrippen en afkortingen
@@ -531,14 +531,26 @@ Om deze ongelijkheid weg te nemen, keur ik met toepassing van artikel 63 van de 
 
 ####Gebruikte motorrijtuigen
 
+Voor gebruikte motorrijtuigen wordt de bpm vastgesteld met inachtneming van een vermindering. De vermindering is de afschrijving van het motorrijtuig uitgedrukt in procenten van de som van de catalogusprijs en de bpm op het tijdstip waarop het voertuig voor het eerst in gebruik werd genomen. De dag van de tenaamstelling is de laatste dag van de termijn waarover het verminderingspercentage wordt vastgesteld.  
 ### 6.1  
 
-####Vaststellen termijn
+####Vermindering bij aangifte
 
-Het forfaitaire verminderingspercentage voor gebruikte motorrijtuigen is afhankelijk van de tijdsduur die is verstreken tussen het tijdstip waarop het motorvoertuig voor het eerst in gebruik is genomen en de datum waarop het kenteken te naam wordt gesteld. Aangevers van personenauto’s en motorrijwielen die niet in het bezit zijn van een vergunning (artikel 8 van de wet) moeten aangifte doen vóórdat het kenteken op naam wordt gesteld. Het moment van het doen van aangifte en het moment van tenaamstelling, kunnen daardoor gelegen zijn in twee verschillende maanden. Als op het moment van het doen van aangifte hiermee geen rekening wordt gehouden, wordt in sommige situaties een te hoog bedrag aan bpm vastgesteld. 
-### *Goedkeuring* 
+Het moment van het doen van aangifte (bij de aanvraag om inschrijving van een motorrijtuig in het register) en het moment van tenaamstelling, kunnen in twee verschillende maanden gelegen zijn. Als op het moment van het doen van aangifte hiermee geen rekening wordt gehouden, wordt in sommige situaties een te hoog bedrag aan bpm vastgesteld. 
+### *Goedkeuring*
 
-Om tot een voor de praktijk werkbare oplossing te komen, keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) het volgende goed. Bij het bepalen van het forfaitaire verminderingspercentage mag rekening gehouden worden met een periode die is gelegen tussen het moment waarop aangifte wordt gedaan en het moment waarop het te naam wordt gesteld. Ik stel deze periode op 5 werkdagen.     
+Om tot een voor de praktijk werkbare oplossing te komen, keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) het volgende goed. Bij het bepalen van het forfaitaire verminderingspercentage mag rekening gehouden worden met een periode die is gelegen tussen het moment waarop aangifte wordt gedaan en het moment waarop het motorrijtuig te naam wordt gesteld. Ik stel deze periode op 5 werkdagen.  
+### 6.2  
+
+####Extra vermindering na aangifte/melding
+
+Het komt voor dat de registratie van een gebruikt motorrijtuig bij de Dienst Wegverkeer (RDW) plaatsvindt in twee fases. Eerst wordt een motorrijtuig op aanvraag van een importeur of handelaar opgenomen in het register aan de hand van technische gegevens (het chassis-nummer etc.). Tenaamstelling van het motorrijtuig heeft dan nog niet plaatsgevonden. Pas bij de verkoop wordt de tenaamstelling afgerond. Omdat aangifte/melding wordt gedaan bij de eerste fase van registratie is de op aangifte/bij melding berekende bpm veelal niet gelijk aan de bpm die verschuldigd zou zijn als dezelfde berekening zou worden gemaakt ten tijde van de tenaamstelling. Door het tijdsverloop kan sprake zijn van een waardedaling. De belastingplichtige heeft dan mogelijk recht op een extra vermindering. Deze extra vermindering kan op de volgende wijze worden aangetoond. Als bij de aangifte/melding voor het vaststellen van de vermindering gebruik is gemaakt van de forfaitaire tabel (art. 10, lid 6, van de wet), kan op het moment dat het motorrijtuig te naam wordt gesteld de extra leeftijdskorting aan de hand van de forfaitaire tabel worden vastgesteld. Door het maken van bezwaar tegen de betaling op eigen aangifte kan rekening worden gehouden met de tabelafschrijving zoals deze geldt op het moment van tenaamstellen. De artikel 8 bpm-vergunninghouder kan bij de maandaangifte rekening houden met de extra leeftijdskorting. Is bij de aangifte/melding gebruik gemaakt van een taxatierapport of koerslijst om de afschrijving vast te stellen, dan kan de extra afschrijving worden aangetoond door bij het bezwaar tegen de aangifte (niet-vergunninghouders) of bij de maandaangifte (artikel 8 bpm-vergunninghouders) een nieuw taxatierapport c.q. herziene koerslijstberekening in te dienen waaruit een lagere waarde blijkt. Het indienen van een nieuw taxatierapport c.q koerslijst is een bewerkelijke methode. Als tegemoetkoming in de bewijslast (art. 64 AWR) is daarom de volgende praktische werkwijze toegestaan. 
+### *Praktische werkwijze* 
+
+Bij het bezwaar tegen de eigen aangifte c.q. bij de maandaangifte kan onder voorwaarde, de extra afschrijving tussen het moment van aangifte/melding en het moment van tenaamstelling, aan de hand van de forfaitaire tabel (art. 8, lid 5, van de regeling) worden berekend. De extra afschrijving wordt dan bepaald door het bij de aangifte/melding verkregen herrekende bruto-bpm bedrag te vermenigvuldigen met het procentuele verschil van de tabel op het moment van aangifte/melding en tenaamstelling. Deze praktische werkwijze kan worden toegepast op aangiften die op of na 10 november 2014 zijn ingediend. 
+### *Voorwaarde* 
+
+Bij de aangiften waarbij een taxatierapport of een koerslijst is overgelegd, kan de praktische werkwijze slechts worden toegepast als de staat van het motorrijtuig, zoals die staat is opgenomen in het taxatierapport c.q. de koerslijst, tussen het moment van aangifte/melding en tenaamstelling niet is gewijzigd.   
 ### 7  
 
 ####Vrijstellingen

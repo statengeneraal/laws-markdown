@@ -3,16 +3,16 @@
 ##Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 december 2004, nr. MJZ 2004100399, Directie Juridische Zaken/Afdeling Wetgeving, tot wijziging van de bijlagen II en IV bij het Besluit beheer sociale-huursector
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
-Gelet op de [artikelen 26, vijfde lid](../../../../../../../../../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md), en [39a, eerste lid, van het Besluit beheer sociale-huursector](../../../../../../../../../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md);
+Gelet op de artikelen 26, vijfde lid, en 39a, eerste lid, van het Besluit beheer sociale-huursector;
 Besluit:
 
 ###Artikel I 
 
-De [aanhangsels A, B, C, D en E van bijlage II bij het Besluit beheer sociale-huursector](../../../../../../../../../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md) worden vervangen door de aanhangsels A, B, C, D en E als opgenomen in bijlage A bij deze regeling.
+De aanhangsels A, B, C, D en E van bijlage II bij het Besluit beheer sociale-huursector worden vervangen door de aanhangsels A, B, C, D en E als opgenomen in bijlage A bij deze regeling.
 
 ###Artikel II 
 
-[Bijlage IV bij het Besluit beheer sociale-huursector](../../../../../../../../../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md) wordt vervangen door de bijlage als opgenomen in bijlage B bij deze regeling.
+Bijlage IV bij het Besluit beheer sociale-huursector wordt vervangen door de bijlage als opgenomen in bijlage B bij deze regeling.
 
 ###Artikel III 
 

@@ -288,7 +288,7 @@ b. The Secretary General and Deputy Secretary General shall be appointed by the 
 c. The remaining staff of the Secretariat shall be appointed by the Secretary General, in accordance with the administrative regulations.
 d. No member of the Secretariat shall hold any salaried office from any Government or be a member of the Consultative Assembly or of any national legislature or engage in any occupation incompatible with his duties.
 e. Every member of the staff of the Secretariat shall make a solemn declaration affirming that his duty is to the Council of Europe and that he will perform his duties conscientiously, uninfluenced by any national considerations, and that he will not seek or receive instructions in connexion with the performance of his duties from any Government or any authority external to the Council and will refrain from any action which might reflect on his position as an international official responsible only to the Council. In the case of the Secretary General and the Deputy Secretary General this declaration shall be made before the Committee, and in the case of all other members of the staff, before the Secretary General.
-f. Every Member shall respect the exclusively international character of the responsibilities of the Secretary General and the staff the Secretariat and not seek to influence them in the discharge their responsibilities. 
+f. Every Member shall respect the exclusively international character of the responsibilities of the Secretary General and the staff of the Secretariat and not seek to influence them in the discharge of their responsibilities. 
 
 ### Article  37  
 

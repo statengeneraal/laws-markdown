@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Defensie mede namens de Staatssecretaris van Sociale Zaken en Werkgelegenheid, A. E. Verstand-Bogaert, van 10 mei 2000, nr. P/2000001073;
 
-Gelet op [artikel 2, tweede lid, van de Wet aanpassing arbeidsduur](../../../../../../wet/wet/aanpassing/arbeidsduur/BWBR0011173/README.md);
+Gelet op artikel 2, tweede lid, van de Wet aanpassing arbeidsduur;
 
 De Raad van State gehoord (advies van 23 juni 2000, no. W07.00.0192/II);
 
@@ -19,7 +19,7 @@ In dit besluit wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Defensie;  
 
-b. militair: militair in werkelijke dienst, als bedoeld in [artikel 1 van de Militaire ambtenarenwet 1931](../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md).   
+b. militair: militair in werkelijke dienst, als bedoeld in artikel 1 van de Militaire ambtenarenwet 1931.   
 
 ### Artikel  2  
 
@@ -30,12 +30,12 @@ b. militair: militair in werkelijke dienst, als bedoeld in [artikel 1 van de Mil
 ### Artikel  3  
 
 1.  Onze Minister kan een verzoek om aanpassing van de arbeidsduur afwijzen of een verleend buitengewoon verlof, als bedoeld in artikel 2, tweede en derde lid, tijdelijk opschorten, als naar zijn oordeel zwaarwegende dienstbelangen dat vereisen.   
-2.  Onverminderd hetgeen is bepaald in [artikel 2, achtste lid, van de Wet aanpassing arbeidsduur](../../../../../../wet/wet/aanpassing/arbeidsduur/BWBR0011173/README.md) is van een zwaarwegend dienstbelang in ieder geval sprake bij varen, vliegen, oefenen, alsmede de daadwerkelijke inzet van de krijgsmacht, de voorbereiding daarop en voltijdse opleidingen in verband met het functioneren van de krijgsmacht.   
+2.  Onverminderd hetgeen is bepaald in artikel 2, achtste lid, van de Wet aanpassing arbeidsduur is van een zwaarwegend dienstbelang in ieder geval sprake bij varen, vliegen, oefenen, alsmede de daadwerkelijke inzet van de krijgsmacht, de voorbereiding daarop en voltijdse opleidingen in verband met het functioneren van de krijgsmacht.   
 3.  Onze Minister kan het buitengewoon verlof, als bedoeld in artikel 2, tweede lid, in geval van buitengewone omstandigheden beëindigen.  
 
 ### Artikel  4  
 
-De [artikelen 2, derde en vierde lid, alsmede het zesde tot en met twaalfde lid](../../../../../../wet/wet/aanpassing/arbeidsduur/BWBR0011173/README.md), en [3 van de Wet aanpassing arbeidsduur](../../../../../../wet/wet/aanpassing/arbeidsduur/BWBR0011173/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 2, derde en vierde lid, alsmede het zesde tot en met twaalfde lid, en 3 van de Wet aanpassing arbeidsduur zijn van overeenkomstige toepassing. 
 
 ### Artikel  5  
 

@@ -45,8 +45,6 @@ Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
 ####Arbeidsomstandighedenwet
 
-Treedt in werking per 01-06-2015 
-
 Wijzigt de Arbeidsomstandighedenwet. 
 
 ### Artikel  VI  
@@ -303,7 +301,7 @@ Wijzigt de Wet ziekteverzekering BES.
 
 ####Wetboek van Burgerlijke Rechtsvordering
 
-Treedt in werking per 01-07-2015 
+Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering. 
 
