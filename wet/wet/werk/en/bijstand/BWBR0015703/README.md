@@ -701,7 +701,7 @@ Voor belanghebbenden van 21 jaar of ouder doch jonger dan de pensioengerechtigde
 
 a. een alleenstaande of een alleenstaande ouder die niet met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft: € 926,47 per 1 januari 2015: € 960,83;  
 
-b. gehuwden die niet met een andere meerderjarige persoon dan de echtgenoot in dezelfde woning hun hoofdverblijf hebben, en waarvan beide echtgenoten jonger zijn dan de pensioengerechtigde leeftijd: € 1 336,87 per 1 januari 2015: € 1.372,62.  
+b. gehuwden die niet met een andere meerderjarige persoon dan de echtgenoot in dezelfde woning hun hoofdverblijf hebben, en waarvan beide echtgenoten jonger zijn dan de pensioengerechtigde leeftijd: € 1.372,62.  
 
 ### Artikel  22  
 
@@ -709,11 +709,11 @@ b. gehuwden die niet met een andere meerderjarige persoon dan de echtgenoot in d
 
 Voor belanghebbenden die de pensioengerechtigde leeftijd hebben bereikt is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande of een alleenstaande ouder die niet met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft: € 1 026,66 per 1 januari 2015: € 1.077,63;  
+a. een alleenstaande of een alleenstaande ouder die niet met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft: € 1.077,63;  
 
-b. gehuwden die niet met een andere meerderjarige persoon dan de echtgenoot in dezelfde woning hun hoofdverblijf hebben, en waarvan beide echtgenoten de pensioengerechtigde leeftijd hebben bereikt: € 1 413,13 per 1 januari 2015: € 1.471,68;  
+b. gehuwden die niet met een andere meerderjarige persoon dan de echtgenoot in dezelfde woning hun hoofdverblijf hebben, en waarvan beide echtgenoten de pensioengerechtigde leeftijd hebben bereikt: € 1.471,68;  
 
-c. gehuwden die niet met een andere meerderjarige persoon dan de echtgenoot in dezelfde woning hun hoofdverblijf hebben, en waarvan een echtgenoot de pensioengerechtigde leeftijd heeft bereikt en de andere echtgenoot 21 jaar of ouder, doch de pensioengerechtigde leeftijd nog niet heeft bereikt: € 1 413,13 per 1 januari 2015: € 1.471,68.  
+c. gehuwden die niet met een andere meerderjarige persoon dan de echtgenoot in dezelfde woning hun hoofdverblijf hebben, en waarvan een echtgenoot de pensioengerechtigde leeftijd heeft bereikt en de andere echtgenoot 21 jaar of ouder, doch de pensioengerechtigde leeftijd nog niet heeft bereikt: € 1.471,68.  
 
 ### Artikel  22a  
 
@@ -755,14 +755,14 @@ d. de persoon die onderwijs volgt waarvoor aanspraak op studiefinanciering kan b
 
 1.  Bij een verblijf in een inrichting is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande of een alleenstaande ouder: € 296,35 per 1 januari 2015: € 304,18;  
+a. een alleenstaande of een alleenstaande ouder: € 304,18;  
 
-b. gehuwden: € 460,93 per 1 januari 2015: € 473,13.     
+b. gehuwden: € 473,13.     
 2.  Het bedrag van de norm, bedoeld in het eerste lid, wordt verhoogd met: 
 
-a. voor een alleenstaande of een alleenstaande ouder € 49,00 per 1 januari 2015: € 39,00;  
+a. voor een alleenstaande of een alleenstaande ouder € 39,00;  
 
-b. voor gehuwden € 93,00 per 1 januari 2015: € 85,00.     
+b. voor gehuwden € 85,00.     
 3.  Indien een van de gehuwden in een inrichting verblijft, is de norm de som van de normen die voor ieder van hen als alleenstaande of alleenstaande ouder zouden gelden.  
 
 ### Artikel  24  
@@ -816,7 +816,7 @@ h. inkomsten uit arbeid van de tot zijn last komende kinderen, alsmede door hen 
 
 i. rente ontvangen over op grond van artikel 34, tweede lid, onderdelen b en c, niet in aanmerking genomen vermogen en spaargelden;  
 
-j.een een- of tweemalige premie van ten hoogste € 1984,00 per 1 januari 2015: € 2.339,00 per kalenderjaar, voor zover dit naar het oordeel van het college bijdraagt aan zijn arbeidsinschakeling; 
+j.een een- of tweemalige premie van ten hoogste € 2.339,00 per kalenderjaar, voor zover dit naar het oordeel van het college bijdraagt aan zijn arbeidsinschakeling; 
 
 k.een kostenvergoeding voor het verrichten van vrijwilligerswerk van ten hoogste een bij ministeriële regeling vast te stellen bedrag; 
 
@@ -824,7 +824,7 @@ l. bij ministeriële regeling aan te wijzen uitkeringen en vergoedingen voor mat
 
 m. giften en andere dan de in onderdeel l bedoelde vergoedingen voor materiële en immateriële schade voorzover deze naar het oordeel van het college uit een oogpunt van bijstandsverlening verantwoord zijn;  
 
-n. inkomsten uit arbeid tot 25 procent van deze inkomsten, met een maximum van € 183,00 per 1 januari 2015: € 196,00 per maand, voor zover hij algemene bijstand ontvangt, waarbij voor een persoon die de pensioengerechtigde leeftijd nog niet heeft bereikt geldt dat die inkomsten gedurende ten hoogste zes aaneengesloten maanden niet tot de middelen worden gerekend en dat dit naar het oordeel van het college moet bijdragen aan zijn arbeidsinschakeling;  
+n. inkomsten uit arbeid tot 25 procent van deze inkomsten, met een maximum van € 196,00 per maand, voor zover hij algemene bijstand ontvangt, waarbij voor een persoon die de pensioengerechtigde leeftijd nog niet heeft bereikt geldt dat die inkomsten gedurende ten hoogste zes aaneengesloten maanden niet tot de middelen worden gerekend en dat dit naar het oordeel van het college moet bijdragen aan zijn arbeidsinschakeling;  
 
 o. de ten behoeve van een levensloopregeling als bedoeld in artikel 39d van de Wet op de loonbelasting 1964 bij een uitvoerder als bedoeld in artikel 19g, derde lid, van die wet, zoals dit artikellid op 31 december 2011 luidde opgebouwde voorziening; 
 
@@ -832,7 +832,7 @@ p. een tegemoetkoming als bedoeld in artikel 29a van de Algemene nabestaandenwet
 
 q.een uitkering als bedoeld in artikel 118a, eerste lid, van de Zorgverzekeringswet of een tegemoetkoming als bedoeld in artikel 2:52 of 3:10 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;
 
-r. inkomsten uit arbeid van een alleenstaande ouder tot 12,5 procent van deze inkomsten, met een maximum van € 120,00 per 1 januari 2015: € 122,26 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij algemene bijstand ontvangt, ingeval: 
+r. inkomsten uit arbeid van een alleenstaande ouder tot 12,5 procent van deze inkomsten, met een maximum van € 122,26 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij algemene bijstand ontvangt, ingeval: 
 
 1°. hij de volledige zorg heeft voor een tot zijn last komend kind tot 12 jaar,  
 
@@ -893,9 +893,9 @@ b. betrekking hebben op een periode waarover beroep op bijstand wordt gedaan.
 4.  Indien de belanghebbende de woning bewoont met een of meer huurders, onderhuurders of kostgangers, worden de daaruit voortvloeiende lagere algemene noodzakelijke kosten van het bestaan als inkomen in aanmerking genomen indien daarmee nog geen rekening is gehouden bij de vaststelling van de norm, bedoeld in artikel 22a, eerste tot en met derde lid.    
 5.  Indien de alleenstaande, de alleenstaande ouder of een van de echtgenoten de pensioengerechtigde leeftijd heeft bereikt, wordt voor de vaststelling van de hoogte van de algemene bijstand een in de vorm van een periodieke uitkering ontvangen particuliere oudedagsvoorziening buiten beschouwing gelaten tot een bedrag van: 
 
-a. voor een alleenstaande en een alleenstaande ouder: € 18,80 per 1 januari 2015: € 19,50 per kalendermaand;  
+a. voor een alleenstaande en een alleenstaande ouder: € 19,50 per kalendermaand;  
 
-b. voor de gehuwden tezamen: € 37,60 per 1 januari 2015: € 39,00 per kalendermaand.    
+b. voor de gehuwden tezamen: € 39,00 per kalendermaand.    
 
 ### Artikel  34  
 
@@ -914,18 +914,18 @@ b. het bij de aanvang van de bijstand aanwezige vermogen voorzover dit minder be
 
 c. spaargelden opgebouwd tijdens de periode waarin bijstand wordt ontvangen;  
 
-d. het vermogen gebonden in de woning met bijbehorend erf, bedoeld in artikel 50, eerste lid, voorzover dit minder bedraagt dan  € 42 000,00 per 1 januari 2015: € 49.700;  
+d. het vermogen gebonden in de woning met bijbehorend erf, bedoeld in artikel 50, eerste lid, voorzover dit minder bedraagt dan  € 49.700;  
 
 e. vergoedingen voor immateriële schade als bedoeld in artikel 31, tweede lid, onderdelen l en m;  
 
 f.de voorziening, bedoeld in artikel 31, tweede lid, onderdeel o.   
 3.  De in het tweede lid, onderdeel b, bedoelde vermogensgrens is: 
 
-a. voor een alleenstaande:  € 4975,00 per 1 januari 2015: € 5.895;  
+a. voor een alleenstaande:  € 5.895;  
 
-b. voor een alleenstaande ouder:  € 9950,00 per 1 januari 2015: € 11.790;  
+b. voor een alleenstaande ouder:  € 11.790;  
 
-c. voor de gehuwden tezamen:  € 9950,00 per 1 januari 2015: € 11.790.     
+c. voor de gehuwden tezamen: € 11.790.     
 4.  Het tweede lid is van overeenkomstige toepassing op bezittingen die worden verworven in de periode waarover algemene bijstand is toegekend en op middelen als bedoeld in het eerste lid, onderdeel b, met dien verstande dat de van toepassing zijnde vermogensgrens, bedoeld in het derde lid, daarbij wordt verminderd met het vermogen dat:  
 
 a. bij aanvang van de bijstandsverlening niet in aanmerking is genomen op grond van het tweede lid, onderdeel b; 
@@ -945,7 +945,7 @@ b. tijdens de bijstandsverlening niet in aanmerking is genomen op grond van dit 
 ####Individuele en categoriale bijzondere bijstand
 
 1.  Onverminderd paragraaf 2.2, heeft de alleenstaande of het gezin recht op bijzondere bijstand voorzover de alleenstaande of het gezin niet beschikt over de middelen om te voorzien in de uit bijzondere omstandigheden voortvloeiende noodzakelijke kosten van het bestaan en deze kosten naar het oordeel van het college niet kunnen worden voldaan uit de bijstandsnorm, de individuele inkomenstoeslag, de individuele studietoeslag, het vermogen en het inkomen voorzover dit meer bedraagt dan de bijstandsnorm, waarbij artikel 31, tweede lid, en artikel 34, tweede lid, niet van toepassing zijn. Het college bepaalt het begin en de duur van de periode waarover het vermogen en het inkomen in aanmerking wordt genomen.   
-2.  Het college kan bijzondere bijstand weigeren, indien de in het eerste lid bedoelde kosten binnen twaalf maanden een bedrag van  € 107,00 per 1 januari 2015: € 129,00 niet te boven gaan.   
+2.  Het college kan bijzondere bijstand weigeren, indien de in het eerste lid bedoelde kosten binnen twaalf maanden een bedrag van  € 129,00 niet te boven gaan.   
 3.  In afwijking van het eerste lid kan bijzondere bijstand ook aan een persoon worden verleend in de vorm van een collectieve aanvullende zorgverzekering of in de vorm van een tegemoetkoming in de kosten van de premie van een dergelijke verzekering zonder dat wordt nagegaan of ten aanzien van die persoon de kosten van die verzekering of die premie ook daadwerkelijk noodzakelijk zijn of gemaakt zijn.   
 4.  Voor de toepassing van dit artikel wordt onder bijzondere bijstand niet verstaan individuele inkomenstoeslag als bedoeld in artikel 36 en individuele studietoeslag als bedoeld in artikel 36b.  
 5.  Voorzover de gemeente krachtens de Wet op de loonbelasting 1964 inhoudingsplichtige is, wordt de bijzondere bijstand verhoogd met de loonbelasting en premies volksverzekeringen.  

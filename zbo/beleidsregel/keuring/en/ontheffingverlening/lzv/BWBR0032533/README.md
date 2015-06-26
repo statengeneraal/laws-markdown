@@ -396,7 +396,7 @@ De Directie van de Dienst Wegverkeer namens deze, Divisie Voertuigtechniek,  *Pl
 
 2. Een LZV heeft ten hoogste 2 draaipunten;  
 
-3. Een LZV heeft een totale lengte van ten hoogste 25.25 m. met inbegrip van de lading en met inachtneming van de in artikel 5.1a.1, tweede lid, onder a, onderdeel 1° tot en met 14° van de Regeling voertuigen bepaalde meetmethode.   
+3. Een LZV heeft een totale lengte van ten hoogste 25.25 m. met inbegrip van de lading en met inachtneming artikel 5.1a.1 van de Regeling voertuigen.   
 
 ### Artikel  B  
 
@@ -480,7 +480,7 @@ Voor een LZV geldt een inhaalverbod van alle motorvoertuigen die sneller mogen r
 
 1. Elk uit een LZV te vormen samenstel van voertuigen moet voldoen aan de gebruikseisen van hoofdstuk 5 afdeling 18 van de Regeling voertuigen.  
 
-2. Elk afzonderlijk voertuig moet voldoen aan hoofdstuk 5 afdeling 3 voor bedrijfswagens respectievelijk afdeling 12 voor getrokken voertuigen.  
+2. Elk afzonderlijk voertuig moet voldoen aan hoofdstuk 5 afdeling 3 van de Regeling voertuigen voor bedrijfswagens respectievelijk afdeling 12 voor getrokken voertuigen.  
 
 3. Het trekkende motorvoertuig dient zodanig te zijn belast, dat tenminste 1/5 deel van de totale massa van de LZV onder de aangedreven as(sen) rust met als maximum, de maximale toegestane aslast(en), zoals vermeld op het kentekenbewijs dan wel in het kentekenregister.  
 

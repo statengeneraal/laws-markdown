@@ -3,7 +3,7 @@
 ##Beleidsregel ontheffingverlening ten behoeve van de proef met langere of langere en zwaardere vrachtautocombinaties (Beleidsregel ontheffingverlening LZV 2006)
 
 De Directie van de Dienst Wegverkeer,  
-Gelet op [artikel 149a, tweede lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), het [Besluit ontheffingverlening exceptionele transporten](../../../../../../AMvB/besluit/ontheffingverlening/exceptionele/transporten/BWBR0018680/README.md);
+Gelet op artikel 149a, tweede lid, van de Wegenverkeerswet 1994, het Besluit ontheffingverlening exceptionele transporten;
 Besluit:    
 
 ### Artikel  1  
@@ -12,11 +12,11 @@ In deze beleidsregel wordt verstaan onder: vrachtautocombinatie: bepaald samenst
 
 ### Artikel  2  
 
-Deze beleidsregel is van toepassing op vrachtautocombinaties waarvoor door de Ambtelijke adviescommissie LZV een positief advies, als bedoeld in [artikel 4, eerste lid, van het Instellingsbesluit Ambtelijke adviescommissie LZV](../../../../../../ministeriele-regeling/instellingsbesluit/ambtelijke/adviescommissie/lzv/BWBR0016098/README.md)<sup>1Stcrt. 2003, 245.</sup>, is gegeven of ingetrokken. 
+Deze beleidsregel is van toepassing op vrachtautocombinaties waarvoor door de Ambtelijke adviescommissie LZV een positief advies, als bedoeld in artikel 4, eerste lid, van het Instellingsbesluit Ambtelijke adviescommissie LZV<sup>1Stcrt. 2003, 245.</sup>, is gegeven of ingetrokken. 
 
 ### Artikel  3  
 
-1.  Op basis van een positief advies van de Ambtelijke adviescommissie LZV, als bedoeld in [artikel 4, eerste lid, van het instellingsbesluit Ambtelijke adviescommissie LZV](../../../../../../ministeriele-regeling/instellingsbesluit/ambtelijke/adviescommissie/lzv/BWBR0016098/README.md), keurt de Dienst Wegverkeer de vrachtautocombinatie overeenkomstig de in het tweede lid van dit artikel opgenomen eisen.   
+1.  Op basis van een positief advies van de Ambtelijke adviescommissie LZV, als bedoeld in artikel 4, eerste lid, van het instellingsbesluit Ambtelijke adviescommissie LZV, keurt de Dienst Wegverkeer de vrachtautocombinatie overeenkomstig de in het tweede lid van dit artikel opgenomen eisen.   
 2.  Eisen waaraan een vrachtautocombinatie moet voldoen: 
 
 a. Een te vormen vrachtautocombinatie bestaat uit een trekkende eenheid van de categorie N2 of N3 en een of meerdere eenheden van de categorie O3 of O4 als bedoeld in bijlage II, van richtlijn nr. 70/156/EEG;  
@@ -35,7 +35,7 @@ g. De breedte van het zichtveld, aansluitend aan de rechterzijde van een vrachta
 
 h. Een vrachtautocombinatie is geschikt voor de in de combinatie optredende krachten en belastingen. Indien de totale massa van de vrachtautocombinatie meer bedraagt dan 50.000 kg, zijn de trekkende voertuigen voorzien van een ontheffingsattest, waaruit de geschiktheid van het voertuig moet blijken voor de opgegeven waarde van de aangevraagde ontheffing.  
 
-i. De totale massa van de vrachtautocombinatie mag niet meer bedragen dan bedoeld in [artikel 5.18.18, tweede lid, onderdeel b, van het Voertuigreglement](../../../../../../AMvB/voertuigreglement/BWBR0006746/README.md), tenzij het trekkende motorvoertuig is voorzien van een hulpwegrij-inrichting, bedoeld in bijlage I. punt 2.14, van richtlijn nr. 97/27/EG.  
+i. De totale massa van de vrachtautocombinatie mag niet meer bedragen dan bedoeld in artikel 5.18.18, tweede lid, onderdeel b, van het Voertuigreglement, tenzij het trekkende motorvoertuig is voorzien van een hulpwegrij-inrichting, bedoeld in bijlage I. punt 2.14, van richtlijn nr. 97/27/EG.  
 
 j. Een samenstel van voertuigen beschikt over ten hoogste twee draaipunten.  
 
@@ -67,14 +67,14 @@ v. De voertuigen die deel uitmaken van een vrachtautocombinatie zijn zonder aanp
 ### Artikel  4  
 
 1.  Naar aanleiding van een positief advies van de Ambtelijke adviescommissies LZV en het bewijs van keuring als bedoeld in artikel 3, derde lid, van deze beleidsregel kan een ontheffing worden verleend.   
-2.  De in het eerste lid genoemde ontheffing wordt verleend indien door de wegbeheerders toestemming als bedoeld in [artikel 149b, tweede lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) wordt verleend   
+2.  De in het eerste lid genoemde ontheffing wordt verleend indien door de wegbeheerders toestemming als bedoeld in artikel 149b, tweede lid, van de Wegenverkeerswet 1994 wordt verleend   
 3.  De RDW verbindt aan de ontheffing bijzondere voorschriften.   
 4.  De aanvrager van een ontheffing dient zijn aanvraag schriftelijk in te dienen op het door de Dienst Wegverkeer vastgesteld model aanvraagformulier.   
 5.  Het aanvraagformulier wordt schriftelijk beschikbaar gesteld.  
 
 ### Artikel  5  
 
-Indien een positief advies van de Ambtelijke adviescommissie LZV, zoals bedoeld in [artikel 4 van het Instellingsbesluit Ambtelijke adviescommissie LZV](../../../../../../ministeriele-regeling/instellingsbesluit/ambtelijke/adviescommissie/lzv/BWBR0016098/README.md), wordt ingetrokken, wordt de ontheffing, bedoeld in artikel 3 van deze beleidsregel, op overeenkomstige wijze ingetrokken. 
+Indien een positief advies van de Ambtelijke adviescommissie LZV, zoals bedoeld in artikel 4 van het Instellingsbesluit Ambtelijke adviescommissie LZV, wordt ingetrokken, wordt de ontheffing, bedoeld in artikel 3 van deze beleidsregel, op overeenkomstige wijze ingetrokken. 
 
 ### Artikel  6  
 

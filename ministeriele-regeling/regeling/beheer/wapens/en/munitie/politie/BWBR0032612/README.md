@@ -3,12 +3,12 @@
 ##Regeling van de Minister van Veiligheid en Justitie van 13 december 2012, nr. 331102, houdende voorschriften omtrent het dragen, het onderhoud en het in inbraakvrije ruimten bewaren van wapens en munitie door ambtenaren van politie (Regeling beheer wapens en munitie politie)
 
 De Minister van Veiligheid en Justitie,  
-Gelet op [artikel 21, eerste lid, van het Besluit bewapening en uitrusting politie](../../../../../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md);
+Gelet op artikel 21, eerste lid, van het Besluit bewapening en uitrusting politie;
 Besluit:    
 
 ### Artikel  1  
 
-Het in de in de linkerkolom vermelde voorschrift omtrent het dragen, het onderhoud en het in inbraakvrije ruimten bewaren van wapens en munitie, opgenomen in bijlage 1 tot en met 26 van dit besluit, is van toepassing op de krachtens het [Besluit bewapening en uitrusting politie](../../../../../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md) bewapende ambtenaren van politie als bedoeld in [artikel 2, onderdelen a, b en c, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) die werkzaam zijn in het gebied van een in de rechterkolom genoemd politiekorps als bedoeld in [artikel 4 van de Politiewet 1993](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), zoals deze wet luidde voor 1 januari 2013.  
+Het in de in de linkerkolom vermelde voorschrift omtrent het dragen, het onderhoud en het in inbraakvrije ruimten bewaren van wapens en munitie, opgenomen in bijlage 1 tot en met 26 van dit besluit, is van toepassing op de krachtens het Besluit bewapening en uitrusting politie bewapende ambtenaren van politie als bedoeld in artikel 2, onderdelen a, b en c, van de Politiewet 2012 die werkzaam zijn in het gebied van een in de rechterkolom genoemd politiekorps als bedoeld in artikel 4 van de Politiewet 1993, zoals deze wet luidde voor 1 januari 2013.  
 
 | regeling  | politiekorps  |
 |:---|:---|
@@ -41,7 +41,7 @@ Het in de in de linkerkolom vermelde voorschrift omtrent het dragen, het onderho
 
 ### Artikel  2  
 
-Bijlage 27 bij dit besluit, houdende het *Dienstvoorschrift Geweldsbeheersing, Profcheck en Vuurwapenbeheer Rijksrecherche 2008*, is van toepassing op de krachtens het [Besluit bewapening en uitrusting politie](../../../../../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md) bewapende ambtenaren van politie als bedoeld in [artikel 2, onderdeel d, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md). 
+Bijlage 27 bij dit besluit, houdende het *Dienstvoorschrift Geweldsbeheersing, Profcheck en Vuurwapenbeheer Rijksrecherche 2008*, is van toepassing op de krachtens het Besluit bewapening en uitrusting politie bewapende ambtenaren van politie als bedoeld in artikel 2, onderdeel d, van de Politiewet 2012. 
 
 ### Artikel  3  
 

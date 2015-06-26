@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 22 juni 2005, nr. HDJZ/AWW/2005-1392, Hoofddirectie Juridische Zaken;
 
-Gelet op [artikel 149a, tweede en derde lid](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en [artikel 149b, eerste en tweede lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
+Gelet op artikel 149a, tweede en derde lid, en artikel 149b, eerste en tweede lid, van de Wegenverkeerswet 1994;
 
 De Raad van State gehoord (advies van 14 juli 2005, nr. W09.05.0260/V);
 
@@ -20,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. aanhangwagen, bedrijfsauto, personenauto of voertuig: hetgeen daaronder in [artikel 1.1 van de Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) wordt verstaan;  
+a. aanhangwagen, bedrijfsauto, personenauto of voertuig: hetgeen daaronder in artikel 1.1 van de Regeling voertuigen wordt verstaan;  
 
-b. aslasten: de som van de last onder de wielen van een as als bedoeld in [artikel 1.1 van de Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  
+b. aslasten: de som van de last onder de wielen van een as als bedoeld in artikel 1.1 van de Regeling voertuigen;  
 
-c. exceptioneel transport: een transport met een voertuig of een samenstel van voertuigen, met inbegrip van de daarmee vervoerde lading, dat niet voldoet aan in de [Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) voorgeschreven eisen met betrekking tot breedte, hoogte, lengte, massa of aslasten.   
+c. exceptioneel transport: een transport met een voertuig of een samenstel van voertuigen, met inbegrip van de daarmee vervoerde lading, dat niet voldoet aan in de Regeling voertuigen voorgeschreven eisen met betrekking tot breedte, hoogte, lengte, massa of aslasten.   
 
 ### §  2  
 
@@ -32,12 +32,19 @@ c. exceptioneel transport: een transport met een voertuig of een samenstel van v
 
 ### Artikel  2  
 
-1.  De Dienst Wegverkeer kan in verband met de uitvoering van een of meer exceptionele transporten, voor zover het betreft personenauto’s, bedrijfsauto’s of aanhangwagens achter personenauto’s of bedrijfsauto’s ontheffing verlenen van [artikel 5.1.1, eerste lid, aanhef en onderdeel c, en tweede lid](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), [artikel 5.1.2](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) en [artikel 5.1.3 van de Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md).   
+1.  De Dienst Wegverkeer kan in verband met de uitvoering van een of meer exceptionele transporten, voor zover het betreft personenauto’s, bedrijfsauto’s of aanhangwagens achter personenauto’s of bedrijfsauto’s ontheffing verlenen van artikel 5.1.1, eerste lid, aanhef en onderdeel c, en tweede lid, artikel 5.1.2 en artikel 5.1.3 van de Regeling voertuigen.   
 2.  Indien de verlening van een ontheffing als bedoeld in het eerste lid dat rechtvaardigt, kan de Dienst Wegverkeer eveneens ontheffing verlenen van: 
 
-a. de overige bepalingen van [hoofdstuk 5 van de Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  
+a. de overige bepalingen van hoofdstuk 5 van de Regeling voertuigen;  
 
-b. de [artikelen 3, eerste lid](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [10](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [14](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [23, eerste lid](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [24](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [42](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [43](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [62](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), voor zover het betreft de verkeerstekens C1, C2, C4, C6 tot en met C10 en C12, C17 tot en met 21, D1, D2, D4 tot en met D7, E1, E2, E5 tot en met E9, F7, en de verkeerstekens genoemd in de artikelen [73](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [76](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [77](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [78](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) en [81 van het Reglement verkeersregels en verkeerstekens 1990](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md).    
+b. de artikelen 3, eerste lid, 10, 14, 23, eerste lid, 24, 42, 43, 62, voor zover het betreft de verkeerstekens C1, C2, C4, C6 tot en met C10 en C12, C17 tot en met 21, D1, D2, D4 tot en met D7, E1, E2, E5 tot en met E9, F7, en de verkeerstekens genoemd in de artikelen 73, 76, 77, 78 en 81 van het Reglement verkeersregels en verkeerstekens 1990.    
+
+### Artikel  2a  
+Treedt in werking per 01-07-2015 
+
+1.  De Dienst Wegverkeer kan voor voertuigen waarvoor op grond van artikel 3.5 of 3.8 van de Regeling voertuigen goedkeuring is vereist, ontheffing verlenen van overige bepalingen van hoofdstuk 3 van de Regeling voertuigen en van hoofdstuk 5 van die regeling, voor zover en voor zolang dat nuttig is voor het testen van verder geautomatiseerde functies in voertuigen en het daarmee ervaring opdoen in het verkeer.   
+2.  De Dienst Wegverkeer kan voor wijzigingen in de constructie van voertuigen, waarvoor op grond van artikel 6.1, eerste lid, van de Regeling voertuigen goedkeuring is vereist voor toelating van het gewijzigde voertuig tot het verkeer op de weg, ontheffing verlenen van artikel 6.4, eerste lid, onder a en b, van die regeling, voor de in het eerste lid genoemde doelen.   
+3.  Voor zover dat voor het gebruik van de in het eerste en tweede lid bedoelde ontheffing noodzakelijk is, kan de Dienst Wegverkeer bij die ontheffing tevens ontheffing verlenen van daarbij aangegeven bepalingen van het Reglement verkeersregels en verkeerstekens 1990.  
 
 ### Artikel  3  
 
@@ -51,7 +58,7 @@ c. voertuigtechnische gegevens in relatie tot het verlenen van een ontheffing.
 
 ### Artikel  4  
 
-De Dienst Wegverkeer vraagt toestemming als bedoeld in [artikel 149b, tweede lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), aan de wegbeheerder: 
+De Dienst Wegverkeer vraagt toestemming als bedoeld in artikel 149b, tweede lid, van de Wegenverkeerswet 1994, aan de wegbeheerder: 
 
 a. indien geen gegevens beschikbaar zijn in het gegevensbestand als bedoeld in artikel 3, onderdeel a, of  
 
@@ -70,7 +77,7 @@ a. indien gegevens betreffende de infrastructuur en overige informatie uit het i
 
 b. indien de voertuigtechnische gegevens als bedoeld in artikel 3, onderdeel c, hiertoe aanleiding geven;  
 
-c. indien dit gerechtvaardigd is in verband met de bescherming van de in [artikel 2, eerste en tweede lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aangegeven belangen.    
+c. indien dit gerechtvaardigd is in verband met de bescherming van de in artikel 2, eerste en tweede lid, van de Wegenverkeerswet 1994 aangegeven belangen.    
 
 ### §  3  
 
@@ -88,7 +95,7 @@ c. indien dit gerechtvaardigd is in verband met de bescherming van de in [artike
 
 ### Artikel  7  
 
-1.  Aan het overleg, bedoeld in [artikel 149a, derde lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), over de uitvoering van de [artikelen 149a](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [149b van die wet](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) nemen deel: 
+1.  Aan het overleg, bedoeld in artikel 149a, derde lid, van de Wegenverkeerswet 1994, over de uitvoering van de artikelen 149a en 149b van die wet nemen deel: 
 
 a. twee vertegenwoordigers van de Dienst Wegverkeer, van wie er een optreedt als voorzitter;  
 
@@ -119,7 +126,7 @@ Wijzigt het Voertuigreglement.
 
 ### Artikel  9  
 
-Dit besluit treedt in werking op het tijdstip waarop [artikel I, onderdelen A, B, F tot en met H](../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/(verlenen/ontheffingen/door/dienst/etc/BWBR0017665/README.md), en [artikel IV van de wet van 9 december 2004 tot wijziging van de Wegenverkeerswet 1994 met betrekking tot het verlenen van ontheffingen in bepaalde gevallen door de Dienst Wegverkeer en enkele technische wijzigingen](../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/(verlenen/ontheffingen/door/dienst/etc/BWBR0017665/README.md) (Stb. 687) in werking treden. 
+Dit besluit treedt in werking op het tijdstip waarop artikel I, onderdelen A, B, F tot en met H, en artikel IV van de wet van 9 december 2004 tot wijziging van de Wegenverkeerswet 1994 met betrekking tot het verlenen van ontheffingen in bepaalde gevallen door de Dienst Wegverkeer en enkele technische wijzigingen (Stb. 687) in werking treden. 
 
 ### Artikel  10  
 

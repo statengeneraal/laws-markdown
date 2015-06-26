@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet op het financieel toezicht](../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en enige andere wetten te wijzigen in verband met de implementatie van richtlijn nr. 2004/109/EG van het Europees Parlement en de Raad van de Europese Unie van 15 december 2004 betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten en tot wijziging van Richtlijn 2001/34/EG (PbEU L 390);
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de Wet op het financieel toezicht en enige andere wetten te wijzigen in verband met de implementatie van richtlijn nr. 2004/109/EG van het Europees Parlement en de Raad van de Europese Unie van 15 december 2004 betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten en tot wijziging van Richtlijn 2001/34/EG (PbEU L 390);
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -31,9 +31,9 @@ Wijzigt het Burgerlijk Wetboek Boek 2.
 
 ### Artikel  VI  
 
-1.  [Artikel 5:25c van de Wet op het financieel toezicht](../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is niet van toepassing op jaarlijkse financiële verslaggeving die betrekking heeft op boekjaren die vóór 1 januari 2008 zijn aangevangen.   
-2.  [Artikel 5:25d van de Wet op het financieel toezicht](../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is niet van toepassing op boekjaren die vóór 1 januari 2008 zijn aangevangen.   
-3.  [Artikel 5:25e van de Wet op het financieel toezicht](../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft geen betrekking op perioden van een boekjaar die op het tijdstip van inwerkingtreding van deze wet al zijn aangevangen.  
+1.  Artikel 5:25c van de Wet op het financieel toezicht is niet van toepassing op jaarlijkse financiële verslaggeving die betrekking heeft op boekjaren die vóór 1 januari 2008 zijn aangevangen.   
+2.  Artikel 5:25d van de Wet op het financieel toezicht is niet van toepassing op boekjaren die vóór 1 januari 2008 zijn aangevangen.   
+3.  Artikel 5:25e van de Wet op het financieel toezicht heeft geen betrekking op perioden van een boekjaar die op het tijdstip van inwerkingtreding van deze wet al zijn aangevangen.  
 
 ### Artikel  VII  
 

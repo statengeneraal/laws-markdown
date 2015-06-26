@@ -158,7 +158,7 @@ b. de weigering tot bekrachtiging en de intrekking der toestemming of bekrachtig
 ### Artikel  15  
 
 1.  De plaats van vestiging van een in enig deel van het Koninkrijk der Nederlanden gevestigde rechtspersoon die geen vennootschap in de zin van het eerste lid van de algemene bepaling is, kan worden overgebracht naar een ander deel van het Koninkrijk of naar een andere plaats in hetzelfde deel.   
-2.   Bevoegd tot deze beslissing is het bestuur van de rechtspersoon. [Artikel 1, vierde lid](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), is van overeenkomstige toepassing.   
+2.   Bevoegd tot deze beslissing is het bestuur van de rechtspersoon. Artikel 1, vierde lid, is van overeenkomstige toepassing.   
 3.   Eveneens zijn tot deze beslissing bevoegd een of meer hiertoe door het bestuur van de rechtspersoon bij notariële akte in de Nederlandse taal aangewezen personen. Het bestuur van de rechtspersoon kan de aanwijzing te allen tijde intrekken.   
 4.   Het bestuur van de rechtspersoon kan van een aanwijzing als bedoeld in het vorige lid, te allen tijde mededeling doen aan Onze Ministers van Justitie van de onderscheidene delen van het Koninkrijk of aan een of meer hunner onder bijvoeging van een afschrift der aanwijzing. Van een intrekking der aanwijzing wordt op dezelfde wijze onverwijld mededeling gedaan aan Onze Ministers, tot wie de vorige mededeling was gericht. Onze voornoemde Ministers zenden onverwijld aan de rechtspersoon een ontvangstbevestiging van deze mededelingen.   
 5.   Een beslissing, strekkende tot overbrenging van de plaats van vestiging naar een deel van het Koninkrijk, waar zich geen mededeling bevindt betreffende een niet ingetrokken aanwijzing, als bedoeld in het vorige lid, kan ook tot stand worden gebracht:  
@@ -212,7 +212,7 @@ b. door hen die volgens de statuten en reglementen van de rechtspersoon tot haar
 ### Artikel  21  
 
 1.  De notariële akten, voorgeschreven in deze rijkswet, kunnen bestaan in een notarieel proces-verbaal van de bestuursvergadering of van de algemene vergadering, waarin het desbetreffende besluit is genomen.   
-2.   Voor de toepassing van [artikel 1, vierde lid der Consulaire wet](../../../../../../../rijkswet/consulaire/wet/BWBR0001847/README.md) worden met Nederlanders gelijkgesteld de personen en de organen van de rechtspersoon, die een handeling verrichten waarvoor de onderhavige rijkswet een notariële akte voorschrijft.  
+2.   Voor de toepassing van artikel 1, vierde lid der Consulaire wet worden met Nederlanders gelijkgesteld de personen en de organen van de rechtspersoon, die een handeling verrichten waarvoor de onderhavige rijkswet een notariële akte voorschrijft.  
 
 ### Artikel  22  
 

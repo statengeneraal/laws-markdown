@@ -30,11 +30,9 @@ d.de Kaderwet: de Kaderwet zelfstandige bestuursorganen.
 2.   Het Bureau bezit rechtspersoonlijkheid.   
 3.   Het Bureau is belast met de hem:  
 
-a. bij of krachtens Boek 1 van het Burgerlijk Wetboek opgedragen taken ter zake van de inning van onderhoudsbijdragen voor minderjarigen en meerderjarigen die de leeftijd van eenentwintig jaar nog niet hebben bereikt en ter zake van de inning van uitkeringen tot levensonderhoud ten behoeve van een echtgenoot of geregistreerd partner;  
+a. bij of krachtens Boek 1 van het Burgerlijk Wetboek opgedragen taken ter zake van de inning van onderhoudsbijdragen voor minderjarigen en meerderjarigen die de leeftijd van eenentwintig jaar nog niet hebben bereikt en ter zake van de inning van uitkeringen tot levensonderhoud ten behoeve van een echtgenoot of geregistreerd partner; en  
 
-b. bij of krachtens de Wet op de jeugdzorg opgedragen taken ter zake van de vaststelling en inning van ouderbijdragen; en  
-
-c. bij andere wetten opgedragen taken.     
+b. bij andere wetten opgedragen taken.     
 4.   Het Bureau treedt op als ontvangende en verzendende instelling als bedoeld in artikel 2 van het Verdrag inzake het verhaal in het buitenland van uitkeringen tot onderhoud en als bedoeld in artikel 11, derde lid, van het Europees Verdrag inzake de rechtspositie van migrerende werknemers. Het Bureau treedt op als centrale autoriteit, bedoeld in artikel 4 van het op 23 november 2007 te ’s-Gravenhage tot stand gekomen Verdrag inzake de internationale inning van levensonderhoud voor kinderen en andere familieleden (PbEU 2011, L 192/51) en artikel 49 van verordening (EG) nr. 4/2009 van de Raad van 18 december 2008 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen, en de samenwerking op het gebied van onderhoudsverplichtingen (PbEU L 7/1).   
 5.   Bij algemene maatregel van bestuur kan worden bepaald dat het Bureau daarbij aangegeven andere taken kan verrichten dan die, bedoeld in het derde en vierde lid, indien deze taken:  
 
@@ -45,7 +43,7 @@ b. toepassing met zich brengen van de produktiemiddelen die het Bureau voor de v
 c. niet leiden tot concurrentievervalsing ten opzichte van private aanbieders van vergelijkbare diensten, en  
 
 d. tegen kostendekkende tarieven worden verricht.     
-6.  De Kaderwet is van toepassing op het Bureau. Onze minister oefent de bevoegdheden, bedoeld in de artikelen 11, 12, eerste lid, 14, tweede lid, 20 eerste lid, 21, eerste lid, 22, eerste lid, 23, eerste lid, 29, 32, aanhef en onder a, 34, tweede en derde lid, van de Kaderwet uit in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport. 
+6.  De Kaderwet is van toepassing op het Bureau. 
 
 ### Hoofdstuk  2  
 
@@ -66,7 +64,7 @@ Het Bureau heeft een directie.
 ### Artikel  4  
 
 1.  De directie bestaat uit ten hoogste drie leden.   
-2.  De rechtspositie van de leden van de directie, voor zover niet geregeld in de Kaderwet zelfstandige bestuursorganen, van de leden van de directie wordt geregeld bij regeling van Onze minister in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport.  
+2.  De rechtspositie van de leden van de directie, voor zover niet geregeld in de Kaderwet zelfstandige bestuursorganen, van de leden van de directie wordt geregeld bij regeling van Onze minister.  
 
 ### Artikel  5  
 
@@ -102,10 +100,10 @@ a. de opbrengsten uit de opslag van kosten, bedoeld in artikel 408, derde lid, v
 b. de opbrengsten uit vergoedingen voor andere bij of krachtens de wet aan het Bureau opgedragen taken;  
 
 c. andere baten, hoe ook genoemd.     
-2.  Onze minister en Onze Minister van Volksgezondheid, Welzijn en Sport verstrekken jaarlijks aan het Bureau een subsidie voor de kosten van de uitvoering van de taken, bedoeld in artikel 2, derde lid, onder b.   
+2.  Onze Minister verstrekt jaarlijks aan het Bureau een subsidie voor de kosten van de uitvoering van de taken, bedoeld in artikel 2, derde lid, onder b.   
 3.  Onze minister verstrekt jaarlijks aan het Bureau een subsidie voor de kosten van de uitvoering van de taken, bedoeld in artikel 2, derde lid, onder a. Eveneens wordt jaarlijks aan het Bureau een subsidie verstrekt voor de kosten van de uitvoering van de taken, bedoeld in artikel 2, vierde lid.   
 4.  In afwijking van artikel 4:21, derde lid, van de Algemene wet bestuursrecht is titel 4.2 van die wet van toepassing op de subsidies, bedoeld in het tweede en derde lid.    
-5.  Onze minister en Onze Minister van Volksgezondheid, Welzijn en Sport geven jaarlijks voor 1 september van enig kalenderjaar, doch niet dan nadat zij daarover met het Bureau hebben overlegd, het bedrag van de subsidie aan dat voor het daaropvolgende kalenderjaar aan het Bureau zal worden verstrekt en nemen dit bedrag op in de voorstellen van wet tot vaststelling van de begroting van onderscheidenlijk het Ministerie van Veiligheid en Justitie en het Ministerie van Volksgezondheid, Welzijn en Sport.   
+5.  Onze Minister geeft jaarlijks voor 1 september, nadat hij daarover met het Bureau heeft overlegd, het bedrag van de subsidie aan dat in het daarop volgende kalenderjaar aan het Bureau zal worden verstrekt en neemt dit bedrag op in het voorstel van wet tot vaststelling van de begroting van het Ministerie van Veiligheid en Justitie.   
 6.  Indien de subsidie wordt verstrekt ten laste van een begroting die nog niet is vastgesteld, wordt zij verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht.   
 7. Het Bureau trekt geen gelden aan die dagelijks of op termijn opvorderbaar zijn. In afwijking van de vorige volzin is het aan het Bureau toegestaan ter overbrugging van tijdelijke kastekorten bij een bank die ingevolge de Wet op het financieel toezicht in Nederland haar bedrijf mag uitoefenen tijdelijke kredieten in rekening-courant op te nemen. 
 
@@ -130,12 +128,12 @@ b. een overzicht van de voorgenomen andere werkzaamheden van het Bureau, als bed
 
 ### Artikel  19  
 
-1.  De directie zendt de vastgestelde begroting en het vastgestelde meerjarenbeleidsplan voor 1 juli van het daaraan voorafgaande boekjaar toe aan Onze minister en aan Onze Minister van Volksgezondheid, Welzijn en Sport.   
+1.  De directie zendt de vastgestelde begroting en het vastgestelde meerjarenbeleidsplan voor 1 juli van het daaraan voorafgaande boekjaar toe aan Onze minister.   
 2.   Bij toezending van de in het eerste lid bedoelde stukken kan de directie aan Onze minister een beredeneerd voorstel doen tot wijziging van de kostenopslag, bedoeld in artikel 408 van Boek 1 van het Burgerlijk Wetboek.  
 
 ### Artikel  20  
 
-Het meerjarenbeleidsplan behoeft de goedkeuring van Onze minister die deze niet verleent dan in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport. Onze minister kan het meerjarenbeleidsplan gedeeltelijk goedkeuren of aan de goedkeuring voorwaarden verbinden. 
+Het meerjarenbeleidsplan behoeft de goedkeuring van Onze minister. Onze minister kan het meerjarenbeleidsplan gedeeltelijk goedkeuren of aan de goedkeuring voorwaarden verbinden. 
 
 ### §  2  
 

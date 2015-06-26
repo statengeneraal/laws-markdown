@@ -9,13 +9,9 @@ Besluit:
 
 ####Algemeen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  1  
 
 ####Definities
-
-Treedt in werking per 01-01-2015 
 
 Voor de toepassing van deze beleidsregel worden de begripsbepalingen van de Regeling voertuigen overgenomen. Voorts wordt verstaan onder: 
 
@@ -43,23 +39,17 @@ j.  *VIN:* voertuigidentificatienummer als bedoeld in verordening nr. 19/2011/EU
 
 ####Toepassingsgebied
 
-Treedt in werking per 01-01-2015 
-
 Deze beleidsregel is van toepassing op de behandeling van aanvragen voor ontheffingen voor een exceptioneel transport op basis van artikel 149a, tweede lid Wegenverkeerswet 1994. 
 
 ### Artikel  3  
 
 ####Soorten ontheffingen
 
-Treedt in werking per 01-01-2015 
-
 Ontheffingen worden onderscheiden in langlopende ontheffingen en incidentele ontheffingen. 
 
 ### Artikel  4  
 
 ####Langlopende ontheffing
-
-Treedt in werking per 01-01-2015 
 
 1.  Een langlopende ontheffing wordt verleend voor: 
 
@@ -83,8 +73,6 @@ e. een maximale aslast van 12.000 kg.
 ### Artikel  5  
 
 ####Incidentele ontheffing
-
-Treedt in werking per 01-01-2015 
 
 1.  Een incidentele ontheffing kan worden verleend voor een bepaalde route en voor maximaal vier voertuigen of vier samenstellen van voertuigen.   
 2.  Incidentele ontheffingen kunnen worden verleend met een geldigheidsduur van: 
@@ -111,8 +99,6 @@ b. plaats moet vinden ten behoeve van de opleiding en examinering voor het getui
 
 ####Ontheffingen voor lengte bij onbeladen voertuigen
 
-Treedt in werking per 01-01-2015 
-
 1.  Een langlopende ontheffing voor een samenstel van voertuigen bestemd voor het vervoer van ondeelbare lading, waarbij in onbeladen toestand niet wordt voldaan aan artikel 5.18.11 van de Regeling voertuigen, kan worden verleend: 
 
 a. tot een lengte van 27,50 meter indien het een voertuig betreft dat voldoet aan het bepaalde in artikel 13, eerste lid, onder a en c en tweede lid van de Beleidsregel ontheffing gerelateerde voertuigdocumenten dan wel waarvoor een principeakkoord is afgegeven als bedoeld in de Beleidsregel ontheffing gerelateerde voertuig documenten;  
@@ -135,8 +121,6 @@ b. het een samenstel van een trekker en oplegger betreft, waarbij de afzonderlij
 ### Artikel  7  
 
 ####Ontheffingen voor lengte bij beladen voertuigen
-
-Treedt in werking per 01-01-2015 
 
 1.  Een langlopende ontheffing voor een samenstel van voertuigen bestemd voor het vervoer van ondeelbare lading, waarbij in beladen toestand niet wordt voldaan aan artikel 5.18.11 respectievelijk artikel 5.18.13 van de Regeling voertuigen kan worden verleend: 
 
@@ -164,8 +148,6 @@ b. het een samenstel betreft, waarbij de afzonderlijke voertuigen voldoen aan he
 ### Artikel  8  
 
 ####Ontheffingsdocument met bijlagen
-
-Treedt in werking per 01-01-2015 
 
 1.  In het ontheffingsdocument wordt voor het voertuig of het samenstel van voertuigen vermeld: 
 
@@ -195,13 +177,9 @@ b. diverse bijlagen die een routebeschrijving, beperkingen, algemene voorschrift
 
 ####Aanvragen ontheffingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  9  
 
 ####Aanvraagformulier Ontheffing
-
-Treedt in werking per 01-01-2015 
 
 1.  De aanvrager van een ontheffing dient zijn aanvraag te doen op het door de Dienst Wegverkeer vastgestelde model aanvraagformulier.   
 2.  Het aanvraagformulier wordt schriftelijk beschikbaar gesteld.  
@@ -210,15 +188,11 @@ Treedt in werking per 01-01-2015
 
 ####Wijze van indienen van de aanvraag
 
-Treedt in werking per 01-01-2015 
-
 Indiening van aanvragen kan uitsluitend schriftelijk plaatsvinden. 
 
 ### Artikel  11  
 
 ####Intrekken van de aanvraag
-
-Treedt in werking per 01-01-2015 
 
 1.  Een ontheffingsaanvraag kan uitsluitend schriftelijk door de indiener worden ingetrokken.   
 2.  Het annuleren van een ingediende aanvraag wordt uitsluitend conform de actuele Regeling tarieven Dienst Wegverkeer<sup> 1 Jaarlijks gepubliceerd in de Staatscourant </sup> behandeld indien de intrekking binnen 24 uur na registratie van de aanvraag is gedaan en op dat moment nog en niet de status in behandeling heeft.  
@@ -227,8 +201,6 @@ Treedt in werking per 01-01-2015
 
 ####Duur van de behandeling van de ontheffingsaanvraag
 
-Treedt in werking per 01-01-2015 
-
 1.  Aanvragen die binnen de autonome beslisruimte van de Dienst Wegverkeer vallen, worden in beginsel afgehandeld binnen 2 werkdagen.   
 2.  Voor aanvragen die buiten de autonome beslisruimte van de Dienst Wegverkeer vallen, geldt in beginsel een termijn van meer dan 2 werkdagen.   
 3.  Uitsluitend op last van de politie kan een ontheffingsaanvraag met spoed worden behandeld.  
@@ -236,8 +208,6 @@ Treedt in werking per 01-01-2015
 ### Artikel  13  
 
 ####Beoordeling route aanvraag
-
-Treedt in werking per 01-01-2015 
 
 1.  De Dienst Wegverkeer hanteert bij de beoordeling van aanvragen ten aanzien van de hoogte bij in de route gelegen kunstwerken een speling van minimaal 0,15 meter ten opzichte van de hoogte van het exceptioneel transport.   
 2.  Van het eerste lid kan worden afgeweken, indien: 
@@ -253,8 +223,6 @@ d. geen voertuig technische oplossingen mogelijk zijn.
 ### Artikel  14  
 
 ####Beoordeling beperking rijtijden en voorschrift transportbegeleiding wegbeheerder Rijk
-
-Treedt in werking per 01-01-2015 
 
 1.  Bij de beoordeling van de aanvraag of een en welke rijtijdbeperking zal gaan gelden, of het voorschrift transportbegeleiding aan de ontheffing wordt verbonden, en welk aantal transportbegeleiders wordt voorgeschreven, geldt ten aanzien van de breedte van het transport op autosnelwegen, alsmede op nader door de wegbeheerder benoemde N-wegen, in beginsel het volgende toetsingskader: 
 
@@ -290,8 +258,6 @@ b. ter plaatse van een bijzondere verrichting geldt ten minste twee transportbeg
 ### Artikel  15  
 
 ####Beoordeling beperking rijtijden en voorschrift transportbegeleiding overige wegbeheerders en wegbeheerder Rijk voor N-wegen
-
-Treedt in werking per 01-01-2015 
 
 1.  Bij de beoordeling van de aanvraag of een en welke rijtijdbeperking zal gaan gelden, of het voorschrift transportbegeleiding aan de ontheffing wordt verbonden, en welk aantal transportbegeleiders wordt voorgeschreven, geldt in beginsel ten aanzien van de breedte van het transport bij wegen, niet zijnde autosnelwegen, alsmede nader door de wegbeheerder benoemde N-wegen het volgende toetsingskader: 
 
@@ -330,8 +296,6 @@ b. indien een bijzondere verrichting vereist is, ter plaatse ten minste twee tra
 
 ####Nadere gegevens ontheffingsaanvraag
 
-Treedt in werking per 01-01-2015 
-
 1.  Naar aanleiding van een ontheffingsaanvraag kunnen nadere gegevens worden opgevraagd ten behoeve van de beoordeling van: 
 
 a. het voertuig of samenstel van voertuigen;  
@@ -367,13 +331,9 @@ b. een gedetailleerde routebeschrijving van wegen of weggedeeltes indien:
 
 ####Voorschriften verbonden aan ontheffingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  17  
 
 ####Voorschriften verbonden aan de ontheffing
-
-Treedt in werking per 01-01-2015 
 
 1.  De Dienst Wegverkeer verbindt aan iedere ontheffing algemene voorschriften, zoals opgenomen in bijlage A.   
 2.  De Dienst Wegverkeer kan aan iedere ontheffing bijzondere voorschriften verbinden.  
@@ -382,13 +342,9 @@ Treedt in werking per 01-01-2015
 
 ####Slotbepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  18  
 
 ####Overgangsbepaling
-
-Treedt in werking per 01-01-2015 
 
 De voor inwerkingtreding van deze beleidsregel aangevraagde en verleende ontheffingen behouden hun geldigheid voor de geldigheidsduur van de desbetreffende ontheffing. 
 
@@ -396,23 +352,17 @@ De voor inwerkingtreding van deze beleidsregel aangevraagde en verleende ontheff
 
 ####Intrekking
 
-Treedt in werking per 01-01-2015 
-
 De Beleidsregel Ontheffingverlening exceptionele transporten Dienst Wegverkeer 2013 (Stct. 2013, nr. 7573) wordt ingetrokken. 
 
 ### Artikel  20  
 
 ####Inwerkingtreding
 
-Treedt in werking per 01-01-2015 
-
 Deze beleidsregel treedt in werking met ingang van 1 januari 2015. 
 
 ### Artikel  21  
 
 ####Citeertitel
-
-Treedt in werking per 01-01-2015 
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Ontheffingverlening exceptionele transporten RDW 2015. 
 Deze beleidsregel zal met bijlagen en de toelichting in de Staatcourant worden geplaatst.  
@@ -424,8 +374,6 @@ Algemeen Directeur
 ### Bijlage  A  
 
 ####Bij artikel 17, eerste en tweede lid 
-
-Treedt in werking per 01-01-2015 
 
 ####Algemene voorschriften
 

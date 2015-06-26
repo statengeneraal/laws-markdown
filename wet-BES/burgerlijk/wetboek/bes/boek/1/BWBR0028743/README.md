@@ -134,11 +134,11 @@ Het bestuurscollege bepaalt de uren, waarop het bureau van de burgerlijke stand 
 ### Artikel  17  
 
 1.  Er bestaan voor elk van de openbare lichamen Bonaire, Sint Eustatius en Saba registers van geboorten, van huwelijken en van overlijden.   
-2.  Er bestaat in de gemeente ‘s-Gravenhage, naast de in het eerste lid genoemde registers, een register voor de inschrijving van de in afdeling 6 bedoelde rechterlijke uitspraken. Ten aanzien van het in de eerste zin bedoelde register zijn in plaats van de artikelen 17a, 17b en 17c de [artikelen 17a](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [17b](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [17c van het Nederlandse Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) van toepassing.  
+2.  Er bestaat in de gemeente ‘s-Gravenhage, naast de in het eerste lid genoemde registers, een register voor de inschrijving van de in afdeling 6 bedoelde rechterlijke uitspraken. Ten aanzien van het in de eerste zin bedoelde register zijn in plaats van de artikelen 17a, 17b en 17c de artikelen 17a, 17b en 17c van het Nederlandse Burgerlijk Wetboek van toepassing.  
 
 ### Artikel  17a  
 
-1.  De registers van de burgerlijke stand worden in het daartoe door het bestuurscollege bestemde gebouw bewaard totdat zij naar een archiefbewaarplaats voor de bewaring van archiefbescheiden van openbare lichamen in de zin van de [Archiefwet BES](../../../../../../../wet-BES/archiefwet/bes/BWBR0028369/README.md) worden overgebracht.   
+1.  De registers van de burgerlijke stand worden in het daartoe door het bestuurscollege bestemde gebouw bewaard totdat zij naar een archiefbewaarplaats voor de bewaring van archiefbescheiden van openbare lichamen in de zin van de Archiefwet BES worden overgebracht.   
 2.  De overbrenging naar de archiefbewaarplaats van de in het daartoe bestemde gebouw berustende registers van geboorten, van huwelijken en van overlijden kan eerst plaats vinden onderscheidenlijk ten minste honderd jaar, ten minste vijfenzeventig jaar en ten minste vijftig jaar na de afsluiting van deze registers.  
 
 ### Artikel  17b  
@@ -234,8 +234,8 @@ In geval van overlijden tijdens een zeereis tussen twee van de openbare lichamen
 ### Artikel  19h  
 
 1.  Tot de aangifte van een overlijden is bevoegd wie daarvan uit eigen wetenschap kennis draagt.   
-2.  Binnen de in de [Begrafeniswet BES](../../../../../../../wet-BES/begrafeniswet/bes/BWBR0028363/README.md) en de [Crematiewet BES](../../../../../../../wet-BES/crematiewet/bes/BWBR0028203/README.md) gestelde termijn voor de begraving of verbranding, kan de persoon die in de lijkbezorging voorziet, door een in het eerste lid bedoelde persoon worden gemachtigd tot het doen van de aangifte.   
-3.  Wanneer tot de aangifte bevoegde personen ontbreken of nalaten binnen de in de [Begrafeniswet BES](../../../../../../../wet-BES/begrafeniswet/bes/BWBR0028363/README.md) en de [Crematiewet BES](../../../../../../../wet-BES/crematiewet/bes/BWBR0028203/README.md) gestelde termijn voor de begraving of verbranding de aangifte te doen, geschiedt deze door of vanwege de officier van justitie binnen wiens rechtsgebied de akte van overlijden moet worden opgemaakt.   
+2.  Binnen de in de Begrafeniswet BES en de Crematiewet BES gestelde termijn voor de begraving of verbranding, kan de persoon die in de lijkbezorging voorziet, door een in het eerste lid bedoelde persoon worden gemachtigd tot het doen van de aangifte.   
+3.  Wanneer tot de aangifte bevoegde personen ontbreken of nalaten binnen de in de Begrafeniswet BES en de Crematiewet BES gestelde termijn voor de begraving of verbranding de aangifte te doen, geschiedt deze door of vanwege de officier van justitie binnen wiens rechtsgebied de akte van overlijden moet worden opgemaakt.   
 4.  In de gevallen, bedoeld in artikel 19f, tweede en derde lid, geschiedt de aangifte schriftelijk door de officier van justitie of hulpofficier van justitie.  
 
 ### Artikel  19i  
@@ -385,7 +385,7 @@ De rechter in eerste aanleg kan, op verzoek of ambtshalve, bij de in artikel 26,
 
 ### Artikel  26d  
 
-De overlegging van een authentiek afschrift van de buitenlandse akte of uitspraak waarop het verzoek betrekking heeft, kan worden verlangd. [Artikel 986, derde en vierde lid, van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) is van overeenkomstige toepassing. 
+De overlegging van een authentiek afschrift van de buitenlandse akte of uitspraak waarop het verzoek betrekking heeft, kan worden verlangd. Artikel 986, derde en vierde lid, van het Wetboek van Burgerlijke Rechtsvordering BES is van overeenkomstige toepassing. 
 
 ### Artikel  26e  
 
@@ -558,7 +558,7 @@ Een huwelijk kan worden gestuit, wanneer partijen niet de vereisten in zich vere
 
 ### Artikel  52  
 
-Hij die met een der partijen door huwelijk verbonden is dan wel met een der partijen op de voet van het [Nederlandse Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) een geregistreerd partnerschap is aangegaan, kan op grond van het bestaan van dat huwelijk of dat geregistreerd partnerschap een nieuw aan te gaan huwelijk stuiten. 
+Hij die met een der partijen door huwelijk verbonden is dan wel met een der partijen op de voet van het Nederlandse Burgerlijk Wetboek een geregistreerd partnerschap is aangegaan, kan op grond van het bestaan van dat huwelijk of dat geregistreerd partnerschap een nieuw aan te gaan huwelijk stuiten. 
 
 ### Artikel  53  
 
@@ -643,7 +643,7 @@ b. ieder der echtgenoten;
 c. alle overige personen die daarbij een onmiddellijk rechtsbelang hebben, echter deze alleen na de ontbinding van het huwelijk;  
 
 d. het Openbaar Ministerie, echter alleen zolang het huwelijk niet is ontbonden.     
-2.  Hij die met een der echtgenoten nog door een vroeger huwelijk dan wel door een eerder op de voet van het [Nederlandse Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) gesloten geregistreerd partnerschap is verbonden, is eveneens bevoegd op grond van het bestaan van dat huwelijk of die registratie de nietigverklaring van het daarna gesloten huwelijk te verzoeken.  
+2.  Hij die met een der echtgenoten nog door een vroeger huwelijk dan wel door een eerder op de voet van het Nederlandse Burgerlijk Wetboek gesloten geregistreerd partnerschap is verbonden, is eveneens bevoegd op grond van het bestaan van dat huwelijk of die registratie de nietigverklaring van het daarna gesloten huwelijk te verzoeken.  
 
 ### Artikel  70  
 
@@ -688,7 +688,7 @@ Behoudens het in artikel 56 bepaalde, verklaart de rechter een huwelijk alleen n
 
 a. ten aanzien van de kinderen der echtgenoten, tenzij de nietigverklaring is geschied ingevolge artikel 71a;  
 
-b. ten aanzien van de te goeder trouw zijnde echtgenoot; deze kan echter niet op een gemeenschap van goederen aanspraak maken wanneer het huwelijk dan wel op de voet van het [Nederlandse Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) gesloten geregistreerd partnerschap wegens het bestaan van een vroeger huwelijk is nietig verklaard;  
+b. ten aanzien van de te goeder trouw zijnde echtgenoot; deze kan echter niet op een gemeenschap van goederen aanspraak maken wanneer het huwelijk dan wel op de voet van het Nederlandse Burgerlijk Wetboek gesloten geregistreerd partnerschap wegens het bestaan van een vroeger huwelijk is nietig verklaard;  
 
 c. ten aanzien van andere personen dan de echtgenoten en hun kinderen, voor zover zij te goeder trouw vóór de inschrijving der nietigverklaring rechten hebben verkregen.    
 
@@ -714,11 +714,11 @@ Wordt in een geding betwist dat een kind, dat uiterlijk bezit van staat heeft, u
 
 ### Artikel  80a  
 
-Een huwelijk, voltrokken op grond van het in het Europese deel van Nederland geldende Burgerlijk Wetboek, heeft in de openbare lichamen Bonaire, Sint Eustatius en Saba de rechtsgevolgen die het Europees Nederlandse burgerlijk recht aan het betreffende huwelijk verbindt, ongeacht de wettelijke regelingen en voorschriften die van toepassing zijn in deze lichamen. De [artikelen 5 tot en met 7 van de Wet conflictenrecht huwelijk](../../../../../../../wet/wet/conflictenrecht/huwelijk/BWBR0004619/README.md) zijn van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba. 
+Een huwelijk, voltrokken op grond van het in het Europese deel van Nederland geldende Burgerlijk Wetboek, heeft in de openbare lichamen Bonaire, Sint Eustatius en Saba de rechtsgevolgen die het Europees Nederlandse burgerlijk recht aan het betreffende huwelijk verbindt, ongeacht de wettelijke regelingen en voorschriften die van toepassing zijn in deze lichamen. De artikelen 5 tot en met 7 van de Wet conflictenrecht huwelijk zijn van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  80b  
 
-Een geregistreerd partnerschap, voltrokken op grond van het in het Europese deel van Nederland geldende Burgerlijk Wetboek, heeft in de openbare lichamen Bonaire, Sint Eustatius en Saba de rechtsgevolgen die het Europees Nederlandse burgerlijk recht aan het geregistreerd partnerschap verbindt, ongeacht de wettelijke regelingen en voorschriften die van toepassing zijn in deze lichamen. In de openbare lichamen Bonaire, Sint Eustatius en Saba is de [Wet conflictenrecht](../../../../../../../wet/wet/conflictenrecht/huwelijk/BWBR0004619/README.md) geregistreerd partnerschap van toepassing op een buiten het Koninkrijk aangegaan geregistreerd partnerschap. 
+Een geregistreerd partnerschap, voltrokken op grond van het in het Europese deel van Nederland geldende Burgerlijk Wetboek, heeft in de openbare lichamen Bonaire, Sint Eustatius en Saba de rechtsgevolgen die het Europees Nederlandse burgerlijk recht aan het geregistreerd partnerschap verbindt, ongeacht de wettelijke regelingen en voorschriften die van toepassing zijn in deze lichamen. In de openbare lichamen Bonaire, Sint Eustatius en Saba is de Wet conflictenrecht geregistreerd partnerschap van toepassing op een buiten het Koninkrijk aangegaan geregistreerd partnerschap. 
 
 ### Titel  6  
 
@@ -781,8 +781,8 @@ d. overeenkomsten van koop op afbetaling, behalve van zaken welke kennelijk uits
 
 1.  Een rechtshandeling die een echtgenoot in strijd met artikel 88, heeft verricht, is vernietigbaar; slechts de andere echtgenoot kan een beroep op de vernietigingsgrond doen.   
 2.  Het eerste lid geldt niet voor een andere handeling dan een gift, indien de wederpartij te goeder trouw was.   
-3.  Het einde van het huwelijk en scheiding van tafel en bed hebben geen invloed op de bevoegdheid om ter vernietiging van een rechtshandeling van een echtgenoot een beroep op de vernietigingsgrond te doen, die voordien was ontstaan. Indien de andere echtgenoot dientengevolge schuldenaar uit die rechtshandeling wordt, geldt [artikel 51, derde lid, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) voor hem slechts zolang de termijn van [artikel 52, eerste lid, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) niet is verstreken.   
-4.  De verklaring of rechtsvordering tot vernietiging behoeft, in afwijking van de [artikelen 50, eerste lid](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md), en [51, tweede lid, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md), niet mede te worden gericht tot de echtgenoot die de handeling heeft verricht.   
+3.  Het einde van het huwelijk en scheiding van tafel en bed hebben geen invloed op de bevoegdheid om ter vernietiging van een rechtshandeling van een echtgenoot een beroep op de vernietigingsgrond te doen, die voordien was ontstaan. Indien de andere echtgenoot dientengevolge schuldenaar uit die rechtshandeling wordt, geldt artikel 51, derde lid, van Boek 3 voor hem slechts zolang de termijn van artikel 52, eerste lid, van Boek 3 niet is verstreken.   
+4.  De verklaring of rechtsvordering tot vernietiging behoeft, in afwijking van de artikelen 50, eerste lid, en 51, tweede lid, van Boek 3, niet mede te worden gericht tot de echtgenoot die de handeling heeft verricht.   
 5.  De echtgenoot die een beroep op de vernietingsgrond heeft gedaan, kan tevens alle uit de nietigheid voortvloeiende rechtsvorderingen instellen.  
 
 ### Artikel  90  
@@ -790,7 +790,7 @@ d. overeenkomsten van koop op afbetaling, behalve van zaken welke kennelijk uits
 1.  Een echtgenoot is bevoegd tot het bestuur van zijn eigen goederen en, volgens de regels van artikel 97, tot het bestuur van goederen van een gemeenschap.   
 2.  Het bestuur van een echtgenoot over een goed omvat de uitoefening, met uitsluiting van de andere echtgenoot, van de daaraan verbonden bevoegdheden, daaronder begrepen de bevoegdheid tot beschikking en de bevoegdheid om ten aanzien van dat goed feitelijke handelingen te verrichten en toe te laten, onverminderd de bevoegdheden tot genot en gebruik die de andere echtgenoot overeenkomstig de huwelijksverhouding toekomen.   
 3.  Tussen de echtgenoot die het hem toekomend bestuur overlaat aan de andere echtgenoot, en deze laatste zijn de bepalingen omtrent opdracht van overeenkomstige toepassing, met inachtneming van de aard van de huwelijksverhouding en de aard der goederen.   
-4.  De echtgenoot die een goed bestuurt, kan als partij naast de andere echtgenoot toetreden tot een rechtshandeling die deze laatste met betrekking tot dat goed heeft verricht. De verklaring van toetreding wordt gericht tot hen die partij bij de rechtshandeling zijn; [artikel 56 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) is van overeenkomstige toepassing. Is voor het verrichten van de rechtshandeling een bepaalde vorm voorgeschreven, dan geldt voor de toetreding hetzelfde vereiste. De echtgenoot kan toetreding tot bijkomstige en tot reeds opeisbare rechten en verplichtingen uitsluiten; hij wordt geacht zich slechts te hebben verbonden onder eerbiediging van tevoren aan derden verleende rechten.  
+4.  De echtgenoot die een goed bestuurt, kan als partij naast de andere echtgenoot toetreden tot een rechtshandeling die deze laatste met betrekking tot dat goed heeft verricht. De verklaring van toetreding wordt gericht tot hen die partij bij de rechtshandeling zijn; artikel 56 van Boek 3 is van overeenkomstige toepassing. Is voor het verrichten van de rechtshandeling een bepaalde vorm voorgeschreven, dan geldt voor de toetreding hetzelfde vereiste. De echtgenoot kan toetreding tot bijkomstige en tot reeds opeisbare rechten en verplichtingen uitsluiten; hij wordt geacht zich slechts te hebben verbonden onder eerbiediging van tevoren aan derden verleende rechten.  
 
 ### Artikel  91  
 
@@ -865,7 +865,7 @@ b. door scheiding van tafel en bed;
 c. door een beschikking die de gemeenschap opheft;  
 
 d. door opheffing bij latere huwelijkse voorwaarden.     
-2.  Te zamen met een verzoek waarvan toewijzing ontbinding tot gevolg zal hebben kan reeds overeenkomstig [titel 7 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) een vordering worden ingesteld tot verdeling van de gemeenschap, tot gelasten van de wijze van verdeling en tot vaststelling van de verdeling, telkens voor het geval de gemeenschap wordt ontbonden.  
+2.  Te zamen met een verzoek waarvan toewijzing ontbinding tot gevolg zal hebben kan reeds overeenkomstig titel 7 van Boek 3 een vordering worden ingesteld tot verdeling van de gemeenschap, tot gelasten van de wijze van verdeling en tot vaststelling van de verdeling, telkens voor het geval de gemeenschap wordt ontbonden.  
 
 ### Artikel  100  
 
@@ -912,7 +912,7 @@ De rechter in eerste aanleg van de zittingsplaats waar de akte van afstand moet 
 
 1.  Afstand van de gemeenschap, door een echtgenoot of een erfgenaam van een echtgenoot gedaan nadat door de andere echtgenoot of een of meer van diens erfgenamen afstand werd gedaan, heeft niet de gevolgen, omschreven in artikel 103, tweede en derde lid, en verplicht hen die tot de gemeenschap gerechtigd zijn, haar te vereffenen. De wetsbepalingen betreffende de vereffening van een onder voorrecht van boedelbeschrijving aanvaarde nalatenschap zijn zoveel mogelijk van overeenkomstige toepassing.   
 2.  Indien hij die tot vereffening van de gemeenschap gehouden is, na tot het afleggen van de rekening en verantwoording te zijn aangemaand, in gebreke blijft aan deze verplichting te voldoen, verliest hij de bevoegdheid artikel 103, vierde lid, in te roepen.   
-3.  De termijn van drie maanden, genoemd in [artikel 1062 van Boek 4](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/4/BWBR0028746/README.md), begint met de aanvang van de dag waarop hij aan artikel 104, eerste lid, heeft voldaan. De rechter in eerste aanleg kan de termijn op zijn verzoek op grond van bijzondere omstandigheden verlengen; deze verlenging kan ook na verloop van de termijn nog worden verzocht.  
+3.  De termijn van drie maanden, genoemd in artikel 1062 van Boek 4, begint met de aanvang van de dag waarop hij aan artikel 104, eerste lid, heeft voldaan. De rechter in eerste aanleg kan de termijn op zijn verzoek op grond van bijzondere omstandigheden verlengen; deze verlenging kan ook na verloop van de termijn nog worden verzocht.  
 
 ### Afdeling  4  
 
@@ -925,7 +925,7 @@ Een echtgenoot kan opheffing van de gemeenschap verzoeken, wanneer de andere ech
 ### Artikel  110  
 
 1.  Het verzoek moet in het huwelijksgoederenregister, aangewezen in artikel 116, worden ingeschreven, en moet openlijk worden bekend gemaakt in een veelgelezen dagblad of in een dagblad, verschijnend in het openbaar lichaam waar de tot kennisneming van het verzoek bevoegde rechter zitting houdt. De bekendmaking vermeldt de datum van het verzoek en de naam, de voornamen, het beroep en de woonplaats van ieder der echtgenoten. De beschikking mag niet worden gegeven binnen een maand nadat de bekendmaking heeft plaatsgehad.   
-2.  De echtgenoot die de opheffing van de gemeenschap vraagt, kan tot behoud van zijn recht de maatregelen nemen die in het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) nader zijn aangegeven.  
+2.  De echtgenoot die de opheffing van de gemeenschap vraagt, kan tot behoud van zijn recht de maatregelen nemen die in het Wetboek van Burgerlijke Rechtsvordering BES nader zijn aangegeven.  
 
 ### Artikel  111  
 
@@ -1392,7 +1392,7 @@ a. indien het kind en de ouder niet of nauwelijks in gezinsverband hebben sameng
 
 b. indien de ouder het gezag over het kind heeft misbruikt of de verzorging en opvoeding van het kind op grove wijze heeft verwaarloosd; of  
 
-c. indien de ouder onherroepelijk is veroordeeld wegens het plegen tegen de minderjarige van een van de misdrijven, omschreven in de [titels XIII tot en met XV](../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) en [XVIII tot en met XX van Boek 2 van het Wetboek van Strafrecht BES](../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md).    
+c. indien de ouder onherroepelijk is veroordeeld wegens het plegen tegen de minderjarige van een van de misdrijven, omschreven in de titels XIII tot en met XV en XVIII tot en met XX van Boek 2 van het Wetboek van Strafrecht BES.    
 
 ### Artikel  229  
 
@@ -1463,8 +1463,8 @@ d.*Onze Minister:* de Minister van Justitie.
 
 ###Artikel 232d 
 
-1. De centrale autoriteit verleent de voogdijraad op diens verzoek machtiging als bedoeld in de [Wet opneming buitenlandse kinderen ter adoptie](../../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md) om in een andere staat die partij is bij het verdrag, of in een bepaald gebiedsdeel van die staat, op te treden. De machtiging wordt slechts verleend indien een eensluidende machtiging van de bevoegde autoriteit van die andere staat is verkregen.
-2. De voogdijraadtreedt, onder door Onze Minister nader te bepalen voorwaarden, op alsvergunninghoudende instelling in de zin van het verdrag en als vergunninghouder in de zin van de [Wet opneming buitenlandse kinderen ter adoptie](../../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md).
+1. De centrale autoriteit verleent de voogdijraad op diens verzoek machtiging als bedoeld in de Wet opneming buitenlandse kinderen ter adoptie om in een andere staat die partij is bij het verdrag, of in een bepaald gebiedsdeel van die staat, op te treden. De machtiging wordt slechts verleend indien een eensluidende machtiging van de bevoegde autoriteit van die andere staat is verkregen.
+2. De voogdijraadtreedt, onder door Onze Minister nader te bepalen voorwaarden, op alsvergunninghoudende instelling in de zin van het verdrag en als vergunninghouder in de zin van de Wet opneming buitenlandse kinderen ter adoptie.
 
 ###Hoofdstuk 3 
 
@@ -1476,7 +1476,7 @@ Personen die hun gewone verblijfplaats in een van de openbare lichamen Bonaire, 
 
 ###Artikel 232f 
 
-1. Het rapport, bedoeld in artikel 15 van het verdrag, wordt door de vergunninghouder wiens bemiddeling door de aspirant-adoptiefouders is ingeroepen – in deze Titel verder aan te duiden als ‘de vergunninghouder’ – samengesteld en toegezonden aan de centrale autoriteit van de staat van herkomst, onder mededeling dat bij de binnenkomst van het kind in een openbaar lichaam moet zijn voldaan aan de voorwaarde van [artikel 8, onder a, van de Wet opneming buitenlandse kinderen ter adoptie](../../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md).
+1. Het rapport, bedoeld in artikel 15 van het verdrag, wordt door de vergunninghouder wiens bemiddeling door de aspirant-adoptiefouders is ingeroepen – in deze Titel verder aan te duiden als ‘de vergunninghouder’ – samengesteld en toegezonden aan de centrale autoriteit van de staat van herkomst, onder mededeling dat bij de binnenkomst van het kind in een openbaar lichaam moet zijn voldaan aan de voorwaarde van artikel 8, onder a, van de Wet opneming buitenlandse kinderen ter adoptie.
 2. Ingeval de adoptie in de staat van herkomst wordt uitgesproken en deze adoptie niet tot gevolg zal hebben dat de voordien bestaande familierechtelijke betrekkingen worden verbroken, roept de vergunninghouder de tussenkomst van de centrale autoriteit van de staat van herkomst in met het oog op de verkrijging van de in artikel 4, onder c en d, van het verdrag bedoelde toestemmingen voor de omzetting van de adoptie in een adoptie naar deze wet.
 
 ###Artikel 232g 
@@ -1527,11 +1527,11 @@ d.door de centrale autoriteit bescheiden zijn ontvangen waaruit blijkt dat overe
 
 ###Hoofdstuk 5 
 
-####Toepassing [Wet opneming buitenlandse kinderen ter adoptie](../../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md)
+####Toepassing Wet opneming buitenlandse kinderen ter adoptie
 
 ###Artikel 232n 
 
-1. De [artikelen 1 tot en met 14](../../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md), met uitzondering van de [artikelen 7](../../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md) en [10, derde lid, laatste volzin](../../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md), van de voor het Europese deel van Nederland geldende [Wet opneming buitenlandse kinderen ter adoptie](../../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md) zijn, voor zover in deze Titel niet anders is bepaald, van overeenkomstige toepassing op de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat:
+1. De artikelen 1 tot en met 14, met uitzondering van de artikelen 7 en 10, derde lid, laatste volzin, van de voor het Europese deel van Nederland geldende Wet opneming buitenlandse kinderen ter adoptie zijn, voor zover in deze Titel niet anders is bepaald, van overeenkomstige toepassing op de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat:
 
 a.de aan de raad voor de kinderbescherming toekomende taken worden opgedragen aan de voogdijraad;
 
@@ -1539,11 +1539,11 @@ b.voor ‘Nederland’ zonodig wordt gelezen: een openbaar lichaam;
 
 c.voorlopige voogdij als bedoeld in artikel 10 van deze wet wordt beschouwd als voorlopige toevertrouwing aan de voogdijraad, bedoeld in afdeling zes van titel veertien van Boek 1 van het Burgerlijk wetboek BES;
 
-d.voor ‘[Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)’ wordt gelezen: [Wet toelating en uitzetting BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md);
+d.voor ‘Vreemdelingenwet 2000’ wordt gelezen: Wet toelating en uitzetting BES;
 
-e.de verwijzing naar [Titel 17 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) wordt beschouwd als een verwijzing naar: Titel 17 van Boek 1 van het Burgerlijk Wetboek BES.
-2. De zesde afdeling van titel veertien van Boek 1 van het Burgerlijk Wetboek BES inzake voogdij is niet van toepassing op de uitoefening van de voorlopige toevertrouwing als bedoeld in de artikelen 241, 271, 272, 331 en 332 van dit Boek. [Artikel 813, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) is bij een voorlopige toevertrouwing van overeenkomstige toepassing.
-3. Tegen een besluit van Onze Minister is bezwaar mogelijk overeenkomstig de [Wet administratieve rechtspraak BES](../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md). Onverminderd de bevoegdheid van de rechter in kort geding, is beroep mogelijk bij het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba. Tegen een beslissing van dit Gerecht in eerste aanleg kan hoger beroep worden ingesteld bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
+e.de verwijzing naar Titel 17 van Boek 1 van het Burgerlijk Wetboek wordt beschouwd als een verwijzing naar: Titel 17 van Boek 1 van het Burgerlijk Wetboek BES.
+2. De zesde afdeling van titel veertien van Boek 1 van het Burgerlijk Wetboek BES inzake voogdij is niet van toepassing op de uitoefening van de voorlopige toevertrouwing als bedoeld in de artikelen 241, 271, 272, 331 en 332 van dit Boek. Artikel 813, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering BES is bij een voorlopige toevertrouwing van overeenkomstige toepassing.
+3. Tegen een besluit van Onze Minister is bezwaar mogelijk overeenkomstig de Wet administratieve rechtspraak BES. Onverminderd de bevoegdheid van de rechter in kort geding, is beroep mogelijk bij het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba. Tegen een beslissing van dit Gerecht in eerste aanleg kan hoger beroep worden ingesteld bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
 
 ###Artikel 232o 
 
@@ -1954,7 +1954,7 @@ c. onherroepelijke veroordeling:
 
 1° wegens opzettelijke deelneming aan enig misdrijf met een onder zijn gezag staande minderjarige;  
 
-2° wegens het plegen tegen de minderjarige van een van de misdrijven, omschreven in de [titels XIII tot en met XV](../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) en [XVIII tot en met XX van Boek 2 van het Wetboek van Strafrecht BES](../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md);  
+2° wegens het plegen tegen de minderjarige van een van de misdrijven, omschreven in de titels XIII tot en met XV en XVIII tot en met XX van Boek 2 van het Wetboek van Strafrecht BES;  
 
 3° tot een vrijheidsstraf van twee jaar of langer;    
 
@@ -2026,7 +2026,7 @@ De kosten die de voogdijraad maakt ten behoeve van het hem toevertrouwde kind, k
 
 De voogdij begint: 
 
-a. voor de voogd die door een ouder is benoemd: op het tijdstip waarop hij zich na het overlijden van deze ouder bereid verklaart de voogdij te aanvaarden; de verklaring moet door de betrokkene in persoon of bij bijzondere gevolmachtigde worden afgelegd ter griffie van het gerecht in eerste aanleg dat overeenkomstig [artikel 429c van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) in zaken betreffende minderjarigen bevoegd is; de verklaring moet worden afgelegd binnen veertien dagen, of – indien de persoon die de verklaring moet afleggen, zich buiten de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt – binnen vier weken nadat de benoeming is betekend; tot betekening kan iedere belanghebbende, alsmede de voogdijraad opdracht geven;  
+a. voor de voogd die door een ouder is benoemd: op het tijdstip waarop hij zich na het overlijden van deze ouder bereid verklaart de voogdij te aanvaarden; de verklaring moet door de betrokkene in persoon of bij bijzondere gevolmachtigde worden afgelegd ter griffie van het gerecht in eerste aanleg dat overeenkomstig artikel 429c van het Wetboek van Burgerlijke Rechtsvordering BES in zaken betreffende minderjarigen bevoegd is; de verklaring moet worden afgelegd binnen veertien dagen, of – indien de persoon die de verklaring moet afleggen, zich buiten de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt – binnen vier weken nadat de benoeming is betekend; tot betekening kan iedere belanghebbende, alsmede de voogdijraad opdracht geven;  
 
 b. voor de voogd die – nadat hij zich bereid heeft verklaard de voogdij te aanvaarden – door de rechter is benoemd: op de dag waarop de beslissing die de benoeming inhoudt, in kracht van gewijsde is gegaan, of – zo deze uitvoerbaar bij voorraad is verklaard – daags nadat de benoeming van de voogd is verstrekt of verzonden;   een mondelinge bereidverklaring geschiedt ten overstaan van de rechter die benoemt; een schriftelijke bereidverklaring wordt neergelegd ter griffie waar de benoeming zal geschieden. 
 
@@ -2212,7 +2212,7 @@ f. onherroepelijke veroordeling:
 
 1° wegens opzettelijke deelneming aan enig misdrijf met een onder zijn gezag staande minderjarige;  
 
-2° wegens het plegen tegen de minderjarige van een der misdrijven, omschreven in de [titels XIII tot en met XV](../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) en [XVIII tot en met XX van het tweede boek van het Wetboek van Strafrecht BES](../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md);  
+2° wegens het plegen tegen de minderjarige van een der misdrijven, omschreven in de titels XIII tot en met XV en XVIII tot en met XX van het tweede boek van het Wetboek van Strafrecht BES;  
 
 3° tot een vrijheidsstraf van twee jaar of langer;    
 
@@ -2220,7 +2220,7 @@ g. het in ernstige mate veronachtzamen van de aanwijzingen van de gezinsvoogd of
 
 h. het bestaan van gegronde vrees voor verwaarlozing van de belangen van een onder zijn gezag staande minderjarige, doordat hij de minderjarige terugeist of terugneemt van anderen, die diens verzorging en opvoeding op zich hebben genomen;  
 
-i.de omstandigheid dat hij niet beschikt over de ingevolge [artikel 2 van de Wet opneming buitenlandse kinderen ter adoptie](../../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md) vereiste beginseltoestemming.  
+i.de omstandigheid dat hij niet beschikt over de ingevolge artikel 2 van de Wet opneming buitenlandse kinderen ter adoptie vereiste beginseltoestemming.  
 ### *Gronden voor ontzetting* 
 
 2.  Onder misdrijf wordt in het eerste lid begrepen medeplichtigheid aan en poging tot misdrijf.  
@@ -2309,7 +2309,7 @@ De voogd draagt zorg dat de minderjarige overeenkomstig diens vermogen wordt ver
 ### Artikel  342  
 
 1.  De artikelen 338 tot en met 341 zijn van overeenkomstige toepassing wanneer de minderjarige gedurende de voogdij door schenking, erfopvolging of making vermogen krijgt.   
-2.  De ontvanger, bedoeld in [artikel 1.3, onderdeel k, van de Belastingwet BES](../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) aan wie ambtshalve bekend is dat de minderjarige vermogen heeft verkregen, is verplicht de rechter in eerste aanleg van diens woonplaats hiervan te verwittigen.  
+2.  De ontvanger, bedoeld in artikel 1.3, onderdeel k, van de Belastingwet BES aan wie ambtshalve bekend is dat de minderjarige vermogen heeft verkregen, is verplicht de rechter in eerste aanleg van diens woonplaats hiervan te verwittigen.  
 
 ### Artikel  343  
 
@@ -2317,9 +2317,9 @@ De voogd kan, onverminderd zijn aansprakelijkheid voor de door zijn slecht bewin
 
 ### Artikel  344  
 
-1.  Voor zover de rechter in eerste aanleg niet anders bepaalt, geeft de voogd de effecten aan toonder van de minderjarige in bewaring bij de Nederlandsche Bank N.V. of een ingevolge de [Wet financiële markten BES](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) in het register financiële markten ingeschreven kredietinstelling.   
-2.  De rechter kan aanwijzingen geven omtrent de wijze waarop spaarbankboekjes en gelden van de minderjarige moeten worden bewaard. De rechter onder wiens goedkeuring een verdeling tot stand komt, kan ter gelegenheid daarvan aanwijzingen als hier bedoeld geven. Overigens is de rechter, aangewezen in [artikel 429c van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md), bevoegd.   
-3.  Voor effecten aan toonder, spaarbankboekjes en gelden, die de minderjarige te zamen met een of meer andere personen toekomen, geldt het eerste en tweede lid, wanneer de voogd die onder zijn berusting heeft. De rechter in eerste aanleg onder wiens goedkeuring een verdeling tot stand komt, kan ter gelegenheid daarvan aanwijzingen geven. Overigens is de rechter in eerste aanleg, aangewezen in [artikel 429c van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md), bevoegd.  
+1.  Voor zover de rechter in eerste aanleg niet anders bepaalt, geeft de voogd de effecten aan toonder van de minderjarige in bewaring bij de Nederlandsche Bank N.V. of een ingevolge de Wet financiële markten BES in het register financiële markten ingeschreven kredietinstelling.   
+2.  De rechter kan aanwijzingen geven omtrent de wijze waarop spaarbankboekjes en gelden van de minderjarige moeten worden bewaard. De rechter onder wiens goedkeuring een verdeling tot stand komt, kan ter gelegenheid daarvan aanwijzingen als hier bedoeld geven. Overigens is de rechter, aangewezen in artikel 429c van het Wetboek van Burgerlijke Rechtsvordering BES, bevoegd.   
+3.  Voor effecten aan toonder, spaarbankboekjes en gelden, die de minderjarige te zamen met een of meer andere personen toekomen, geldt het eerste en tweede lid, wanneer de voogd die onder zijn berusting heeft. De rechter in eerste aanleg onder wiens goedkeuring een verdeling tot stand komt, kan ter gelegenheid daarvan aanwijzingen geven. Overigens is de rechter in eerste aanleg, aangewezen in artikel 429c van het Wetboek van Burgerlijke Rechtsvordering BES, bevoegd.  
 
 ### Artikel  345  
 
@@ -2335,7 +2335,7 @@ d. geld lenen of de minderjarige als borg of hoofdelijke medeschuldenaar verbind
 
 e. overeenkomen dat een boedel waartoe de minderjarige gerechtigd is, voor een bepaalde tijd onverdeeld wordt gelaten.     
 2.  De rechter in eerste aanleg kan bepalen dat de voogd zijn machtiging behoeft voor het innen van vorderingen van de minderjarige, het disponeren over saldi bij giro- of kredietinstellingen daaronder begrepen.   
-3.  Voor het aangaan van een overeenkomst tot beëindiging van een geschil waarbij de minderjarige is betrokken, behoeft de voogd geen machtiging in het geval van [artikel 20 van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) of indien het voorwerp van de onzekerheid of het geschil een waarde van USD 840,– niet te boven gaat, noch indien de overeenkomst als een beheersdaad is te beschouwen.   
+3.  Voor het aangaan van een overeenkomst tot beëindiging van een geschil waarbij de minderjarige is betrokken, behoeft de voogd geen machtiging in het geval van artikel 20 van het Wetboek van Burgerlijke Rechtsvordering BES of indien het voorwerp van de onzekerheid of het geschil een waarde van USD 840,– niet te boven gaat, noch indien de overeenkomst als een beheersdaad is te beschouwen.   
 4.  Bij algemene maatregel van bestuur kan het bedrag, genoemd in het derde lid, worden aangepast aan de geldontwaarding.  
 
 ### Artikel  346  
@@ -2362,7 +2362,7 @@ e. overeenkomen dat een boedel waartoe de minderjarige gerechtigd is, voor een b
 ### Artikel  350  
 
 1.  De voogd draagt zorg voor een doelmatige belegging van het vermogen van de minderjarige.   
-2.  Hij behoeft voor elke belegging van gelden van de minderjarige machtiging van de rechter in eerste aanleg. Nochtans mag hij, voor zover de rechter niet anders bepaalt, zonder diens machtiging gelden ten name van de minderjarige beleggen bij een ingevolge de [Wet financiële markten BES](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) in het register financiële markten ingeschreven kredietinstelling op rekeningen, bestemd voor de belegging van gelden van minderjarigen, met het beding dat de gelden alleen worden terugbetaald met machtiging van de rechter.  
+2.  Hij behoeft voor elke belegging van gelden van de minderjarige machtiging van de rechter in eerste aanleg. Nochtans mag hij, voor zover de rechter niet anders bepaalt, zonder diens machtiging gelden ten name van de minderjarige beleggen bij een ingevolge de Wet financiële markten BES in het register financiële markten ingeschreven kredietinstelling op rekeningen, bestemd voor de belegging van gelden van minderjarigen, met het beding dat de gelden alleen worden terugbetaald met machtiging van de rechter.  
 
 ### Artikel  351  
 
@@ -2476,7 +2476,7 @@ De voogdijraad die van de rechter in eerste aanleg zodanige mededeling ontvangt,
 5.  De bewindvoerder is verplicht aan de rechter te allen tijde alle door deze gewenste inlichtingen te verstrekken.   
 6.  Hij is voorts verplicht jaarlijks en aan het einde van zijn bewind aan de voogd, de meerderjarig gewordene of de erfgenamen van de minderjarige, wanneer deze overleden is, ten overstaan van de rechter rekening en verantwoording af te leggen.   
 7.  Geschillen die bij de rekening en verantwoording rijzen, beslist de rechter.   
-8.  Blijft een der partijen in gebreke tot deze aflegging van rekening en verantwoording mede te werken, dan zijn de [artikelen 771 en volgende van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) van toepassing.   
+8.  Blijft een der partijen in gebreke tot deze aflegging van rekening en verantwoording mede te werken, dan zijn de artikelen 771 en volgende van het Wetboek van Burgerlijke Rechtsvordering BES van toepassing.   
 9.  De rechter kan te allen tijde op verzoek van de bewindvoerder, de voogd of ambtshalve het bewind opheffen of de bewindvoerder ontslaan en door een ander vervangen.  
 
 ### Artikel  371  
@@ -2504,7 +2504,7 @@ Deze rekening en verantwoording doet de voogd hetzij aan de meerderjarig geworde
 
 1.  Bedoelde rekening en verantwoording wordt afgelegd ten overstaan van de rechter in eerste aanleg binnen wiens rechtsgebied de voogd wiens bewind eindigt, woonplaats heeft.   
 2.  Over geschillen die bij de aflegging van de rekening en verantwoording mochten rijzen, beslist de rechter.   
-3.  Blijft een der partijen in gebreke tot deze aflegging van rekening en verantwoording mede te werken, dan zijn de [artikelen 771 en volgende van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) van toepassing.  
+3.  Blijft een der partijen in gebreke tot deze aflegging van rekening en verantwoording mede te werken, dan zijn de artikelen 771 en volgende van het Wetboek van Burgerlijke Rechtsvordering BES van toepassing.  
 
 ### Artikel  375  
 
@@ -2653,11 +2653,11 @@ De in artikel 377s bedoelde zaken worden ingeleid met een verzoekschrift.
 ### Artikel  377u  
 
 1.  De gedwongen afgifte van een internationaal ontvoerd kind aan degene aan wie het gezag daarover toekomt en de teruggeleiding van een zodanig kind over de Nederlandse grens van een openbaar lichaam is slechts mogelijk op grond van een daartoe strekkend bevel van de rechter.   
-2.  De rechter behandelt het verzoek bij voorrang. Het verzoek wordt met gesloten deuren behandeld. De rechter beslist niet dan na het kind in de gelegenheid te hebben gesteld hem zijn mening kenbaar te maken, althans na het daartoe behoorlijk te hebben opgeroepen, tenzij dit in verband met de lichamelijke of geestelijke toestand van het kind onmogelijk is of toepassing moet worden gegeven aan artikel 8 of 9 van het Europese verdrag. Het bepaalde in [artikel 802 van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) is van toepassing.   
+2.  De rechter behandelt het verzoek bij voorrang. Het verzoek wordt met gesloten deuren behandeld. De rechter beslist niet dan na het kind in de gelegenheid te hebben gesteld hem zijn mening kenbaar te maken, althans na het daartoe behoorlijk te hebben opgeroepen, tenzij dit in verband met de lichamelijke of geestelijke toestand van het kind onmogelijk is of toepassing moet worden gegeven aan artikel 8 of 9 van het Europese verdrag. Het bepaalde in artikel 802 van het Wetboek van Burgerlijke Rechtsvordering BES is van toepassing.   
 3.  In de gevallen waarin geen verdrag toepasselijk is kan de rechter het verzoek afwijzen op de gronden vermeld in de artikelen 12, tweede lid, 13 en 20 van het Haagse verdrag.   
 4.  De rechter kan op verzoek of ambtshalve de voogdijraad belasten met de voorlopige toevertrouwing over het kind, indien gevaar bestaat dat het wordt onttrokken aan de tenuitvoerlegging van een bevel als bedoeld in het vijfde lid. De beschikking verliest haar kracht van rechtswege als het verzoek wordt afgewezen. De zesde afdeling van titel veertien van Boek 1 van het Burgerlijk Wetboek BES inzake voogdij is niet van toepassing op de uitoefening van de voorlopige toevertrouwing als bedoeld in de artikelen 241, 271, 272, 331 en 332 van dit Boek.   
 5.  Als de rechter het verzoek toewijst, beveelt hij de afgifte van het kind aan degene aan wie het gezag erover toekomt, of, indien zulks niet aanstonds mogelijk is, voorlopig aan de voogdijraad. Hij kan tevens op verzoek of ambtshalve elke persoon die voor de internationale ontvoering van het kind verantwoordelijk is, of medeverantwoordelijk is, veroordelen tot betaling aan de centrale autoriteit, of aan de persoon aan wie het gezag over het kind toekomt, van de door deze in verband met de ontvoering en de teruggeleiding van het kind gemaakte kosten. Indien meer personen bij de ontvoering zijn betrokken, zijn zij hoofdelijk voor het geheel aansprakelijk. De beschikking is uitvoerbaar bij voorraad, tenzij de rechter in het belang van het kind op verzoek of ambtshalve anders bepaalt.   
-6.  [Artikel 813, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) is van toepassing op de tenuitvoerlegging van een bevel als bedoeld in het vijfde lid.   
+6.  Artikel 813, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering BES is van toepassing op de tenuitvoerlegging van een bevel als bedoeld in het vijfde lid.   
 7.  Hoger beroep van een eindbeslissing moet worden ingesteld binnen twee weken na de dagtekening van die beslissing.   
 8.  Tegen de beschikking van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba staat geen gewoon rechtsmiddel open.  
 
@@ -2678,7 +2678,7 @@ De rechter die moet beslissen met betrekking tot het gezag over een kind ten aan
 
 ### Artikel  377x  
 
-1.  Ieder die in verband met de toepassing van een verdrag als bedoeld in artikel 377i van dit Boek of in verband met de toepassing van deze regeling in rechte wil optreden en daartoe rechtsbijstand behoeft, kan zonodig daarop recht doen gelden op de voet van de [Wet kosteloze rechtskundige bijstand BES](../../../../../../../wet-BES/wet/kosteloze/rechtskundige/bijstand/bes/BWBR0028200/README.md).   
+1.  Ieder die in verband met de toepassing van een verdrag als bedoeld in artikel 377i van dit Boek of in verband met de toepassing van deze regeling in rechte wil optreden en daartoe rechtsbijstand behoeft, kan zonodig daarop recht doen gelden op de voet van de Wet kosteloze rechtskundige bijstand BES.   
 2.  De in het eerste lid bedoelde personen zijn vrijgesteld van het stellen van zekerheid voor de betaling van kosten, schaden en interessen waarin zij zouden kunnen worden verwezen.  
 
 ### Artikel  377y  
@@ -2774,7 +2774,7 @@ c. indien van toepassing, bescheiden waaruit blijkt dat het kind toestemming hee
 ###Artikel 377kk 
 
 1. Indien de voorschriften van artikel 377jj van dit Boek niet in acht zijn genomen, kan de officier van justitie of de centrale autoriteit de rechter verzoeken de voogdijraad te belasten met de voorlopige toevertrouwing over het kind. Dit verzoek kan ook worden gedaan door de voogdijraad. Tenzij de rechter een langere termijn van verval van de voorlopige toevertrouwing heeft bepaald, wendt de raad zich binnen zes weken na de beslissing over de voorlopige voogdij tot de rechter om een voorziening in het gezag over de minderjarige te verkrijgen.
-2. De zesde afdeling van titel veertien van Boek 1 van het Burgerlijk Wetboek BES inzake voogdij is niet van toepassing op de uitoefening van de voorlopige toevertrouwing als bedoeld in de artikelen 241, 271, 272, 331 en 332 van dit Boek. [Artikel 813, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) is bij een voorlopige toevertrouwing van overeenkomstige toepassing.
+2. De zesde afdeling van titel veertien van Boek 1 van het Burgerlijk Wetboek BES inzake voogdij is niet van toepassing op de uitoefening van de voorlopige toevertrouwing als bedoeld in de artikelen 241, 271, 272, 331 en 332 van dit Boek. Artikel 813, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering BES is bij een voorlopige toevertrouwing van overeenkomstige toepassing.
 3. De voorlopige toevertrouwing eindigt, behoudens eerdere opheffing, op het tijdstip waarop hetzij de voogdij over het kind, dan wel diens plaatsing bij andere personen of een andere instelling, een aanvang neemt, of zijn terugkeer naar het land van herkomst is geregeld.
 4. De kosten die de voogdijraad of, in voorkomend geval, de gezinsvoogdij-instelling ten behoeve van het kind moet maken, komen ten laste van degene bij wie het kind in strijd met artikel 377jj van dit Boek is geplaatst.
 
@@ -2784,7 +2784,7 @@ c. indien van toepassing, bescheiden waaruit blijkt dat het kind toestemming hee
 
 ###Artikel 377ll 
 
-Tegen een besluit van Onze Minister is bezwaar mogelijk overeenkomstig de [Wet administratieve rechtspraak BES](../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md). Onverminderd de bevoegdheid van de rechter in kort geding, is het Gerecht in eerste aanleg bevoegd tot kennisneming van alle zaken met betrekking tot de regeling en de uitoefening van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen in internationale gevallen, behoudens voor zover het betreft de erkenning, de niet-erkenning en de tenuitvoerlegging van buitenlandse beslissingen.
+Tegen een besluit van Onze Minister is bezwaar mogelijk overeenkomstig de Wet administratieve rechtspraak BES. Onverminderd de bevoegdheid van de rechter in kort geding, is het Gerecht in eerste aanleg bevoegd tot kennisneming van alle zaken met betrekking tot de regeling en de uitoefening van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen in internationale gevallen, behoudens voor zover het betreft de erkenning, de niet-erkenning en de tenuitvoerlegging van buitenlandse beslissingen.
 
 ###Artikel 377mm 
 
@@ -2800,7 +2800,7 @@ Artikel 377v van dit Boek is van overeenkomstige toepassing in gevallen die door
 
 ###Artikel 377oo 
 
-1. De voorzieningenrechter van het Gerecht in eerste aanleg is bevoegd tot kennisneming van alle verzoeken die betrekking hebben op de erkenning, de niet-erkenning en de tenuitvoerlegging van beslissingen inzake ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen die op grond van het verdrag zijn gegeven. Ten aanzien van het verlof tot tenuitvoerlegging zijn de [artikelen 985 tot en met 990 van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) niet van toepassing.
+1. De voorzieningenrechter van het Gerecht in eerste aanleg is bevoegd tot kennisneming van alle verzoeken die betrekking hebben op de erkenning, de niet-erkenning en de tenuitvoerlegging van beslissingen inzake ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen die op grond van het verdrag zijn gegeven. Ten aanzien van het verlof tot tenuitvoerlegging zijn de artikelen 985 tot en met 990 van het Wetboek van Burgerlijke Rechtsvordering BES niet van toepassing.
 2. Een beslissing op een verzoek als bedoeld in het eerste lid, wordt gevraagd bij verzoekschrift. Het wordt ingediend door een advocaat.
 
 ###Artikel 377pp 
@@ -3063,7 +3063,7 @@ Een op artikel 394 gegrond verzoek kan ten behoeve van een minderjarig kind door
 
 a. ingevolge een der artikelen 262, 263 of 326 de plaatsing van een minderjarige in een van de daarbedoelde inrichtingen of elders dan in een inrichting wordt bevolen,  
 
-b. ingevolge [artikel 823, derde lid, van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) of een der artikelen 271, 272, 331 of 332 een minderjarige voorlopig aan de voogdijraad wordt toevertrouwd, dan wel  
+b. ingevolge artikel 823, derde lid, van het Wetboek van Burgerlijke Rechtsvordering BES of een der artikelen 271, 272, 331 of 332 een minderjarige voorlopig aan de voogdijraad wordt toevertrouwd, dan wel  
 
 c. de gezinsvoogd machtiging wordt verleend om aanwijzing te geven tot een maatregel, als bedoeld in artikel 260, derde lid, stelt de rechter tevens vast welk bedrag de ouders of – indien deze onvermogend dan wel overleden zijn -de minderjarige ter bestrijding van de kosten van bedoelde maatregelen aan de voogdijraad moeten betalen.     
 2.  De in het eerste lid bedoelde beslissing omtrent de kosten is uitvoerbaar bij voorraad.  
@@ -3145,7 +3145,7 @@ c. wanneer de dood van de rechthebbende komt vast te staan.
 
 ### Artikel  414  
 
-1.  De rechter in eerste aanleg stelt dag en uur vast waartegen de vermiste moet worden opgeroepen. De oproep loopt op een termijn van een maand of zoveel langer als de rechter mocht bevelen. De oproeping geschiedt overeenkomstig [Boek 1, titel 10, afdeling 3, van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md).   
+1.  De rechter in eerste aanleg stelt dag en uur vast waartegen de vermiste moet worden opgeroepen. De oproep loopt op een termijn van een maand of zoveel langer als de rechter mocht bevelen. De oproeping geschiedt overeenkomstig Boek 1, titel 10, afdeling 3, van het Wetboek van Burgerlijke Rechtsvordering BES.   
 2.  Indien de vermiste niet verschijnt, noch iemand voor hem opkomt die behoorlijk van het in leven zijn van de vermiste doet blijken, verklaart de rechter dat er rechtsvermoeden van overlijden bestaat, onverminderd zijn bevoegdheid de beschikking, bedoeld in het eerste lid, eerst nog eenmaal te herhalen alsmede het horen van getuigen en de overlegging van bewijsstukken te gelasten, ten bewijze dat is voldaan aan de vereisten die artikel 413 stelt.   
 3.  De beschikking, houdende verklaring dat er rechtsvermoeden van overlijden bestaat, noemt de dag waarop de vermiste wordt vermoed te zijn overleden; als zodanig geldt de dag, volgende op die van de laatste tijding van zijn leven, tenzij voldoende vermoedens bestaan dat hij daarna nog enige tijd in leven was.   
 4.  De rechter kan tevens bepalen, dat de kosten die een verzoeker als bedoeld in artikel 413, eerste lid, heeft gemaakt, ten laste van het vermogen van de vermiste worden gebracht.  
@@ -3271,10 +3271,10 @@ De akten, opgemaakt volgens artikel 429, gelden als akten van overlijden in de z
 
 ### Artikel  436  
 
-1.  De bewindvoerder is verplicht zo spoedig mogelijk een beschrijving van de aan het bewind onderworpen goederen op te maken en een afschrift daarvan in te leveren ter griffie van het ingevolge [artikel 429c, vijfde lid, van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) bevoegde gerecht in eerste aanleg.   
+1.  De bewindvoerder is verplicht zo spoedig mogelijk een beschrijving van de aan het bewind onderworpen goederen op te maken en een afschrift daarvan in te leveren ter griffie van het ingevolge artikel 429c, vijfde lid, van het Wetboek van Burgerlijke Rechtsvordering BES bevoegde gerecht in eerste aanleg.   
 2.  De artikelen 339, 363 en 364 zijn van overeenkomstige toepassing.   
-3.  Indien tot het bewind registergoederen behoren, is de bewindvoerder verplicht zo spoedig mogelijk de desbetreffende rechterlijke beschikkingen en zijn benoeming in de openbare registers, bedoeld in [titel 1, afdeling 2, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md), te doen inschrijven. Is een onderneming of een aandeel in een vennootschap onder firma onder bewind gesteld, dan is de bewindvoerder verplicht de desbetreffende rechterlijke beschikkingen en zijn benoeming in het handelsregister te doen inschrijven.   
-4.  Tenzij de rechter anders bepaalt, is de bewindvoerder verplicht zo spoedig mogelijk een rekening te openen bij een ingevolge de [Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md) geregistreerde kredietinstelling; de bewindvoerder is voorts verplicht om uitsluitend voor de betalingen die hij bij de vervulling van zijn taak verricht of ontvangt, zoveel mogelijk van deze rekening gebruik te maken.   
+3.  Indien tot het bewind registergoederen behoren, is de bewindvoerder verplicht zo spoedig mogelijk de desbetreffende rechterlijke beschikkingen en zijn benoeming in de openbare registers, bedoeld in titel 1, afdeling 2, van Boek 3, te doen inschrijven. Is een onderneming of een aandeel in een vennootschap onder firma onder bewind gesteld, dan is de bewindvoerder verplicht de desbetreffende rechterlijke beschikkingen en zijn benoeming in het handelsregister te doen inschrijven.   
+4.  Tenzij de rechter anders bepaalt, is de bewindvoerder verplicht zo spoedig mogelijk een rekening te openen bij een ingevolge de Wet toezicht bank- en kredietwezen 1994 BES geregistreerde kredietinstelling; de bewindvoerder is voorts verplicht om uitsluitend voor de betalingen die hij bij de vervulling van zijn taak verricht of ontvangt, zoveel mogelijk van deze rekening gebruik te maken.   
 5.  De rechter kan te allen tijde de bewindvoerder ten verhore doen oproepen. Deze is verplicht alle door de rechter gewenste inlichtingen te verstrekken.  
 
 ### Artikel  437  
@@ -3311,18 +3311,18 @@ c. geld lenen of de rechthebbende als borg of hoofdelijke medeschuldenaar verbin
 
 d. overeenkomen dat een boedel waartoe de rechthebbende gerechtigd is, voor een bepaalde tijd onverdeeld wordt gelaten;  
 
-e. het aangaan, buiten het geval van [artikel 20 van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md), van een overeenkomst tot het beëindigen van een geschil, tenzij het voorwerp van het geschil een waarde van USD 840,– niet te boven gaat;  
+e. het aangaan, buiten het geval van artikel 20 van het Wetboek van Burgerlijke Rechtsvordering BES, van een overeenkomst tot het beëindigen van een geschil, tenzij het voorwerp van het geschil een waarde van USD 840,– niet te boven gaat;  
 
 f. andere bij de instelling van het bewind of nadien aangewezen handelingen.     
 3.  De rechter in eerste aanleg kan ook aan de bewindvoerder een doorlopende machtiging met zodanige voorwaarden als hij geraden acht, verlenen om handelingen als in het tweede lid bedoeld, te verrichten, en een verleende machtiging te allen tijde wijzigen of intrekken.   
-4.  De bewindvoerder is, met uitsluiting van de rechthebbende, bevoegd de verdeling te vorderen van goederen waarvan een onverdeeld aandeel tot zijn bewind behoort. Tot een verdeling, ook al geschiedt zij krachtens rechterlijk bevel, behoeft de bewindvoerder toestemming of machtiging overeenkomstig het tweede lid. De rechter in eerste aanleg kan, in stede van machtiging te verlenen, met overeenkomstige toepassing van [artikel 181 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) een onzijdig persoon benoemen, die in plaats van de bewindvoerder de rechthebbende bij de verdeling vertegenwoordigt.   
+4.  De bewindvoerder is, met uitsluiting van de rechthebbende, bevoegd de verdeling te vorderen van goederen waarvan een onverdeeld aandeel tot zijn bewind behoort. Tot een verdeling, ook al geschiedt zij krachtens rechterlijk bevel, behoeft de bewindvoerder toestemming of machtiging overeenkomstig het tweede lid. De rechter in eerste aanleg kan, in stede van machtiging te verlenen, met overeenkomstige toepassing van artikel 181 van Boek 3 een onzijdig persoon benoemen, die in plaats van de bewindvoerder de rechthebbende bij de verdeling vertegenwoordigt.   
 5.  De bewindvoerder is, met uitsluiting van de rechthebbende, bevoegd een aan de rechthebbende opgekomen erfenis te aanvaarden. Tenzij de aanvaarding geschiedt met toestemming van de rechthebbende, kan de bewindvoerder niet anders aanvaarden dan onder het voorrecht van boedelbeschrijving.   
 6.  Bij algemene maatregel van bestuur kan het bedrag genoemd in het tweede lid, onderdeel e, worden aangepast aan de geldontwaarding.  
 
 ### Artikel  442  
 
-1.  Heeft iemand als bewindvoerder een rechtshandeling verricht, dan richten de rechten en verplichtingen van de wederpartij zich naar hetgeen dienaangaande is bepaald [Boek 3, titel 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md). Regels die de bevoegdheid van een bewindvoerder betreffen en feiten die voor een oordeel omtrent zijn bevoegdheid van belang zijn, kunnen niet aan de wederpartij worden tegengeworpen, indien deze daarmee niet bekend was of had behoren te zijn.   
-2.  De rechthebbende is, onverminderd [artikel 172 van Boek 6](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md), aansprakelijk voor alle schulden die voortspruiten uit rechtshandelingen die de bewindvoerder in zijn hoedanigheid in naam van de rechthebbende verricht. Wanneer hij onder bewind staande goederen aanwijst die voor de schuld voldoende verhaal bieden, is hij niet verplicht de schuld ten laste van zijn overige vermogen te voldoen.  
+1.  Heeft iemand als bewindvoerder een rechtshandeling verricht, dan richten de rechten en verplichtingen van de wederpartij zich naar hetgeen dienaangaande is bepaald Boek 3, titel 3. Regels die de bevoegdheid van een bewindvoerder betreffen en feiten die voor een oordeel omtrent zijn bevoegdheid van belang zijn, kunnen niet aan de wederpartij worden tegengeworpen, indien deze daarmee niet bekend was of had behoren te zijn.   
+2.  De rechthebbende is, onverminderd artikel 172 van Boek 6, aansprakelijk voor alle schulden die voortspruiten uit rechtshandelingen die de bewindvoerder in zijn hoedanigheid in naam van de rechthebbende verricht. Wanneer hij onder bewind staande goederen aanwijst die voor de schuld voldoende verhaal bieden, is hij niet verplicht de schuld ten laste van zijn overige vermogen te voldoen.  
 
 ### Artikel  443  
 
@@ -3432,7 +3432,7 @@ e. personen behorende tot de leiding of tot het personeel van de instelling waar
 
 ### Artikel  455  
 
-Degene ten behoeve van wie het mentorschap is ingesteld, is, onverminderd [artikel 172 van Boek 6](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md), aansprakelijk voor alle schulden die voortspruiten uit rechtshandelingen die de mentor in zijn hoedanigheid in naam van de betrokkene verricht. 
+Degene ten behoeve van wie het mentorschap is ingesteld, is, onverminderd artikel 172 van Boek 6, aansprakelijk voor alle schulden die voortspruiten uit rechtshandelingen die de mentor in zijn hoedanigheid in naam van de betrokkene verricht. 
 
 ### Artikel  456  
 

@@ -32,7 +32,8 @@ f.  de Wet gelijke behandeling van mannen en vrouwen;
 g.  de Wet minimumloon en minimumvakantiebijslag;  
 
 h.  de Wet op de loonvorming.    
-2.  Het Hoofd van de Afdeling Boete, Dwangsom en Inning van de Inspectie SZW wordt niet belast met het toezicht op de naleving, bedoeld in het eerste lid. 
+2.  Het Hoofd van de Afdeling Boete, Dwangsom en Inning van de Inspectie SZW en de door het Hoofd aangewezen, onder hem ressorterende plaatsvervangers, worden niet belast met het toezicht op de naleving, bedoeld in het eerste lid.  
+3.  De Directie Opsporing van de Inspectie SZW wordt niet belast met het toezicht op de naleving, bedoeld in het eerste lid. 
 
 ####Aanwijzing ambtenaren met specifieke uitvoeringstaken
 

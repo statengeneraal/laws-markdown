@@ -1264,8 +1264,7 @@ De publieke media-instellingen brengen jaarlijks via de jaarrekening verslag uit
 
 ### Artikel  2.114  
 
-1.  Als een gesponsord programma uit het buitenland is aangekocht en daar als programma naar het publiek is verspreid, zijn de artikelen 2.106 tot en met 2.113 van toepassing voor zover sponsorbijdragen worden gegeven voor de aankoop van het programma.   
-2.  De artikelen 2.107 tot en met 2.113 zijn van overeenkomstige toepassing als een andere instelling dan bedoeld in de begripsomschrijving van sponsoring in artikel 1.1 een bijdrage heeft gegeven voor de productie of aankoop van media-aanbod om de verspreiding daarvan te bevorderen of mogelijk te maken.  
+De artikelen 2.107 tot en met 2.113 zijn van overeenkomstige toepassing als een andere instelling dan bedoeld in de begripsomschrijving van sponsoring in artikel 1.1 een bijdrage heeft gegeven voor de productie of aankoop van media-aanbod om de verspreiding daarvan te bevorderen of mogelijk te maken. 
 
 ### Afdeling  2.5.4  
 
@@ -1484,8 +1483,8 @@ b. gebruikelijk zijn in een actief functionerende stichting om de band met en tu
 
 ### Artikel  2.137  
 
-1.  Het Commissariaat stelt regels over het verstrekken van op geld waardeerbare voordelen aan leden en over activiteiten in het kader van ledenwerving.   
-2.  De regels behoeven de goedkeuring van Onze Minister.   
+1.  Het is omroepverenigingen niet toegestaan in het kader van ledenwerving op geld waardeerbare voordelen aan leden te verstrekken.   
+2.  Onverminderd het eerste lid kan het Commissariaat regels stellen over het verstrekken van op geld waardeerbare voordelen aan leden en over activiteiten in het kader van ledenwerving. De regels behoeven de goedkeuring van Onze Minister.   
 3.  De landelijke publieke media-instelling die samenwerkingsomroep is, draagt ervoor zorg dat de omroepverenigingen die hij vertegenwoordigt de regels in acht nemen. 
 
 ### Artikel  2.138  
@@ -1545,7 +1544,7 @@ c. voor overige elektronische programmagidsen: per jaar € 2.500 per elektroni
 
 ### Artikel  2.142a  
 
-1.  De NPO, de landelijke publieke media-instellingen en de instellingen die door Onze Minister zijn aangewezen voor het in stand houden en exploiteren van omroeporkesten en omroepkoren, van een media-archief en van een expertisecentrum voor media-educatie, richten hun bestuurlijke organisatie zodanig in dat overeenkomstig hun statuten en reglementen: 
+1.  De NPO, de landelijke en regionale publieke media-instellingen en de instellingen die door Onze Minister zijn aangewezen voor het in stand houden en exploiteren van omroeporkesten en omroepkoren, van een media-archief en van een expertisecentrum voor media-educatie, richten hun bestuurlijke organisatie zodanig in dat overeenkomstig hun statuten en reglementen: 
 
 a. er een helder onderscheid is tussen het dagelijks bestuur en het toezichthoudende orgaan;  
 
@@ -2146,8 +2145,7 @@ b. in de titel de naam, het (beeld)merk, producten of diensten van sponsors word
 
 ### Artikel  3.18  
 
-1.  Als gesponsord programma-aanbod uit het buitenland is aangekocht en daar als programma naar het publiek is verspreid, zijn de artikelen 3.15 tot en met 3.17 van toepassing voor zover sponsorbijdragen worden verstrekt voor de aankoop van het programma.   
-2.  Artikel 3.16, eerste tot en met derde lid, is van overeenkomstige toepassing als een andere instelling dan bedoeld in de begripsomschrijving van sponsoring in artikel 1.1 een bijdrage heeft gegeven voor de productie of aankoop van programma-aanbod om de verspreiding daarvan te bevorderen of mogelijk te maken.  
+Artikel 3.16, eerste tot en met derde lid, is van overeenkomstige toepassing als een andere instelling dan bedoeld in de begripsomschrijving van sponsoring in artikel 1.1 een bijdrage heeft gegeven voor de productie of aankoop van programma-aanbod om de verspreiding daarvan te bevorderen of mogelijk te maken. 
 
 ### Artikel  3.19  
 
@@ -2187,10 +2185,6 @@ a. medische behandelingen; en
 b. alcoholhoudende dranken tussen 06.00 uur en 21.00 uur.     
 4.  Bij programma-aanbod waarin productplaatsing is opgenomen wordt ter informatie van het publiek duidelijk vermeld dat het programma-aanbod voorzien is van productplaatsing. De vermelding geschiedt op passende wijze en vindt plaats aan het begin en het einde van het programma en eveneens aan het begin of het einde van de in het programma opgenomen reclameboodschap of reclameboodschappen.   
 5.  Het Commissariaat kan nadere regels stellen over de toepassing van productplaatsing in programma-aanbod, welke regels de goedkeuring behoeven van Onze Minister.  
-
-### Artikel  3.19c  
-
-Als programma-aanbod waarin productplaatsing is opgenomen uit het buitenland is aangekocht en daar als programma naar het publiek is verspreid, is artikel 3.19b, eerste tot en met derde lid, niet van toepassing als dat aanbod niet is geproduceerd door of in opdracht van de commerciële media-instelling dan wel door of in opdracht van een aan haar verbonden onderneming die het programma-aanbod heeft aangekocht. 
 
 ### Afdeling  3.2.4  
 

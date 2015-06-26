@@ -413,6 +413,14 @@ Bij ministeriële regeling kunnen nadere voorschriften worden gegeven over de im
 2.  Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een installatie is wat betreft hoofdstuk 6 het rechtens verkregen niveau van toepassing.   
 3.  Op het geheel vernieuwen van een installatie zijn wat betreft hoofdstuk 6 de voorschriften van een te bouwen bouwwerk van toepassing. 
 
+### Artikel  1.12a  
+
+####Uitzonderingen woonfunctie voor particulier eigendom
+
+Treedt in werking per 01-07-2015 
+
+Op het bouwen van een woonfunctie voor particulier eigendom zijn de afdelingen 4.3, 4.4, 4.5 en 4.6, en onverminderd het bepaalde in artikel 9.2, 10e lid, artikel 6.10 niet van toepassing. Wat betreft de afdelingen 2.3, 2.4, 2.5, 2.6, 3.11, 4.1, 4.2 en 4.7 zijn de voorschriften voor een bestaand bouwwerk van toepassing. 
+
 ### Artikel  1.13  
 
 ####Monumenten
@@ -785,6 +793,23 @@ f. NEN 6707, indien de constructie van de bevestiging van de dakbedekking is ve
 ####Verbouw
 
 Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk zijn de artikelen 2.2 tot en met 2.4 van overeenkomstige toepassing, waarbij in plaats van het in die artikelen aangegeven niveau van eisen wordt uitgegaan van het niveau zoals aangegeven in NEN 8700. 
+
+### Artikel  2.5a  
+
+####Tijdelijke bouw
+
+Treedt in werking per 01-07-2015 
+
+1.  Op het bouwen van een tijdelijk bouwwerk met een ontwerplevensduur van 5 jaar als bedoeld in NEN-EN 1990 zijn de artikelen 2.2 en 2.4 van overeenkomstige toepassing.   
+2.  Op het bouwen van een tijdelijk bouwwerk met een ontwerplevensduur van 15 jaar als bedoeld in NEN-EN 1990 zijn de artikelen 2.2 tot en met 2.4 van overeenkomstige toepassing.  
+
+### Artikel  2.5b  
+
+####Aardbevingen
+
+Treedt in werking per 01-07-2015 
+
+In aanvulling op het bepaalde in de artikelen 2.2 tot en met 2.5a kunnen met betrekking tot de belastingen op bouwwerken door aardbevingen als gevolg van de gaswinning in de provincie Groningen bij ministeriële regeling nadere voorschriften worden gegeven. 
 
 ### §  2.1.2  
 
@@ -5217,6 +5242,15 @@ b. bij brand een gevaarlijke situatie wordt veroorzaakt.
 | --- | a  | wegtunnel met een tunnellengte van meer dan 250 m  | 1  | –  | –  | –  | 5  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | *  |
 | --- | b  | ander bouwwerk geen gebouw zijnde  | 1  | –  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
 
+### Artikel  7.11a  
+
+####Hulp bij ontruiming bij brand
+
+Treedt in werking per 01-07-2015 
+
+1.  In een gebruiksfunctie met een brandmeldinstallatie als bedoeld in artikel 6.20, in een bouwwerk met een vergunning voor brandveilig gebruik en in een bouwwerk waarvoor een gebruiksmelding als bedoeld in artikel 1.18 is gedaan zijn voldoende personen aangewezen om de ontruiming bij brand voldoende snel te laten verlopen.   
+2.  Het eerste lid is niet van toepassing op een woonfunctie voor zorg met zorg op afspraak of met zorg op afroep, als bedoeld in bijlage I.  
+
 ### Artikel  7.12  
 
 ####Deuren in vluchtroutes
@@ -5337,6 +5371,15 @@ b. overlast wordt of kan worden veroorzaakt voor de gebruikers van het bouwwerk,
 c. op voor de omgeving hinderlijke of schadelijke wijze stank, stof of vocht of irriterend materiaal wordt verspreid of overlast wordt veroorzaakt door geluid en trilling, elektrische trilling daaronder begrepen, of door schadelijk of hinderlijk gedierte, dan wel door verontreiniging van het bouwwerk, open erf of terrein, of  
 
 d. instortings-, omval- of ander gevaar wordt veroorzaakt.   
+
+### Artikel  7.23  
+
+####Kooldioxidemeter
+
+Treedt in werking per 01-07-2015 
+
+1.  Een verblijfsruimte in een onderwijsfunctie voor basisonderwijs heeft een kooldioxidemeter.   
+2.  Bij ministeriële regeling kunnen voorschriften worden gegeven over het in het eerste lid bepaalde.  
 
 ### Hoofdstuk  8  
 

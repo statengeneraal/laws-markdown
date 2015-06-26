@@ -72,27 +72,25 @@ j.een digitale foto.
 1.  Uit PROBAS worden, voor zover zulks voortvloeit uit het doel van PROBAS, persoonsgegevens verstrekt aan afnemers. De verstrekking vindt slechts plaats op een verzoek dat de grondslag voor de verstrekking vermeldt. Het persoonsgegeven, genoemd in artikel 4, onder j, wordt uitsluitend verstrekt aan de afnemers, genoemd in het tweede lid, onder c en d.  
 2. Een verzoek, bedoeld in het eerste lid, is niet nodig ten aanzien van een verstrekking aan de volgende afnemers: 
 
-a. De Belastingdienst Douane, ondernemingen en particulieren,  
+a. Het Ministerie van Financiën (de Belastingdienst),  
 
-b. De Basisregistratie personen,  
+b. Het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (AIVD),  
 
-c. Het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (AIVD),  
+c. Het Ministerie van Defensie (MIVD en de Koninklijke Marechaussee),  
 
-d. Het Ministerie van Defensie (MIVD),  
+d. De gemeenten,  
 
-e. De gemeenten in verband met gemeentelijke belastingen,  
+e. De Nationale Politie,  
 
-f. De staf van de Koninklijke Marechaussee,  
+f. De Immigratie- en Naturalisatiedienst,  
 
-g. De korpschef van de politie,  
+g. De Sociale Verzekeringsbank,  
 
-h. De politiediensten van Nederland,  
+h. Het Rijksinstituut voor Volksgezondheid en Milieu,  
 
-i. De vreemdelingendiensten,  
+i. De waterschappen, en  
 
-j. De Sociale Verzekeringsbank, en  
-
-k. Het Rijksinstituut voor Volksgezondheid en Milieu.    
+j. De RDW.    
 3.  Uit PROBAS kunnen op verzoek persoonsgegevens worden verstrekt aan derden indien zulks wordt vereist ingevolge een wettelijk voorschrift of indien zulks geschiedt met toestemming van de geprivilegieerde. Vanaf 15 jaar na het overlijden van de geprivilegieerde kunnen slechts diens bloedverwanten tot en met de tweede graad en diens aanverwanten tot en met de eerste graad om persoonsgegevens verzoeken.   
 4.  Van iedere verstrekking wordt aangetekend de datum van verstrekking, de identiteit van de verzoeker en een omschrijving van de verstrekte persoonsgegevens.   
 5.  Aantekening blijft achterwege in geval van een verstrekking als bedoeld in het tweede lid.  
