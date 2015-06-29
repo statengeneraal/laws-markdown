@@ -134,7 +134,7 @@ De inspecteur-generaal, de hoofddirecteur Uitvoering en de directeuren-inspecteu
 
 ### Artikel  8a  
 
-De ambtenaren werkzaam bij de afdeling Toezicht en handhaving van de Nederlandse emissieautoriteit in oprichting, zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de artikelen 9.2.2.1, eerste lid, voor zover dat betrekking heeft op het aan een ander ter beschikking stellen van brandstoffen ten behoeve van vervoer, 9.2.2.6a en 9.2.3.4, derde lid, titel 12.4 en hoofdstuk 16 van de Wet milieubeheer.
+De ambtenaren werkzaam bij de afdeling Toezicht en handhaving van de Nederlandse emissieautoriteit in oprichting, zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de artikelen 9.2.2.1, eerste lid, voor zover dat betrekking heeft op het aan een ander ter beschikking stellen van brandstoffen ten behoeve van vervoer, 9.2.2.6a en 9.2.3.4, derde lid, titel 9.7 en hoofdstuk 16 van de Wet milieubeheer.
 
 ### Artikel  9  
 

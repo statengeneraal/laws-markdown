@@ -150,11 +150,13 @@ q. loon dat uit een vroegere dienstbetrekking wordt genoten.
 
 a. het bedrag waarmee de uitkering of inkomensvoorziening op grond van de Wet op de arbeidsongeschiktheidsverzekering, de Wet werk en inkomen naar arbeidsvermogen, de Wet arbeidsongeschiktheidsverzekering zelfstandigen of de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten is verhoogd wegens hulpbehoevendheid op grond van artikel 22 van de Wet op de arbeidsongeschiktheidsverzekering, de artikelen 53 of 63 van de Wet werk en inkomen naar arbeidsvermogen, artikel 10 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de artikelen 2:51 of 3:9 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten of een combinatie van deze artikelen;  
 
-b. een eenmalige uitkering die na beëindiging van de dienstbetrekking aan een werknemer in verband met die beëindiging wordt betaald; en  
+b. een eenmalige uitkering die na beëindiging van de dienstbetrekking aan een werknemer in verband met die beëindiging wordt betaald;  
 
 c. periodieke uitkeringen uit hoofde van een stamrecht, dat is verkregen uit een eenmalige uitkering welke na beëindiging van de dienstbetrekking aan de werknemer in verband met die beëindiging is toegekend, mits de werknemer aantoont dat de eenmalige uitkering door de werkgever betaalbaar is gesteld om naar eigen inzicht van de werknemer te besteden;  
 
-d. een uitkering ingevolge een voorziening op grond van een levensloopregeling als bedoeld in artikel 39d van de Wet op de loonbelasting 1964.    
+d. een uitkering ingevolge een voorziening op grond van een levensloopregeling als bedoeld in artikel 39d van de Wet op de loonbelasting 1964; 
+
+e. de uitbetaalde afkoopwaarde van een klein pensioen als bedoeld in artikel 66 van de Pensioenwet en artikel 78 van de Wet verplichte beroepspensioenregeling.    
 3.  Indien een uitkering, toeslag of beurs als bedoeld in het eerste lid, geheel of gedeeltelijk wordt geweigerd in verband met enig handelen of nalaten van betrokkene dat hem redelijkerwijs kan worden verweten, wordt voor de toepassing van dit artikel de uitkering, toeslag of beurs in aanmerking genomen als ware deze niet geheel of gedeeltelijk geweigerd.   
 4.  In afwijking van artikel 2:2, eerste lid, onderdeel a, wordt onder overig inkomen mede verstaan een uitkering op grond van hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg, indien het recht op die uitkering is ontstaan omdat recht op een uitkering als bedoeld in het eerste lid bestond.   
 5.  Indien een recht op uitkering op grond van de Werkloosheidswet geheel of gedeeltelijk is geëindigd omdat de uitkeringsgerechtigde minder beschikbaar is voor arbeid dan het aantal arbeidsuren dat hij heeft verloren wordt die uitkering in aanmerking genomen alsof die eindiging niet heeft plaatsgevonden. 
@@ -579,6 +581,14 @@ b. voor de uitkeringsgerechtigde zowel het Algemeen inkomensbesluit socialezeker
 
 c. inkomen, verrekend zou worden met een andere uitkering op grond van het Algemeen inkomensbesluit socialezekerheidswetten, zoals dat luidde voor het tijdstip van inwerkingtreding van artikel XXVI, onderdeel S, van de Wet werk en zekerheid dan op grond van het eveneens van toepassing zijnde Algemeen inkomensbesluit socialezekerheidswetten, zoals dat luidde na dat tijdstip,   dan wordt de op de samenloop betrekking hebbende bepaling uit Algemeen inkomensbesluit socialezekerheidswetten toegepast, zoals die bepaling luidde voor het tijdstip van inwerkingtreding van artikel XXVI, onderdeel S, van de Wet werk en zekerheid.   
 2.  Het eerste lid is niet langer van toepassing als er sprake is van een recht op uitkering op grond van hoofdstuk II van de Werkloosheidswet, niet zijnde een uitkering op grond van artikel 18 van die wet, dat op grond van artikel 130z of 130aa van de Werkloosheidswet is omgezet.  
+
+### Artikel  5:1b  
+
+####Overgangsrecht in verband met het vaststellen van inkomen in verband met artikel 8 BBA 1945
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Artikel 2:3, eerste lid, onderdeel c, zoals dat luidde voor de inwerkingtreding van artikel I, onderdeel A, van het besluit van 18 juni 2015, houdende wijziging van enige algemene maatregelen van bestuur in verband met de Wet werk en zekerheid, het invoeren van een ontheffing in verband met de zorg voor een pasgeboren kind bij overlijden van de moeder, een wijziging van het Remigratiebesluit in verband met de berekenwijze van de jaarlijkse indexatie van de remigratie-uitkeringen, het vrijlaten van de afkoopsom klein pensioen voor verschillende uitkeringen in het Algemeen inkomensbesluit socialezekerheidswetten alsmede enkele technische wijzigingen in enkele besluiten (Stb. 242), blijft van toepassing op de uitkeringsgerechtigde die recht heeft op een uitkering in verband met werkloosheid die uitsluitend het gevolg is van verkorting van de werktijd, waarvoor op grond van artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945 ontheffing is verleend. 
 
 ### Artikel  5:2  
 

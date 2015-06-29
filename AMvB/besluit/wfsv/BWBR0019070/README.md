@@ -86,11 +86,11 @@ waarbij:
 
 ####Overgangsbepaling WGA-staartlasten flexibele dienstbetrekkingen
 
-Treedt in werking per 01-01-2016 
+Treedt in werking per 01-01-2017 
 
 In afwijking van artikel 2.1b komen de volgende lasten ten laste van een sectorfonds: 
 
-a. de WGA-uitkeringen, bedoeld in artikel 117b, derde lid, onderdeel h, van de Wfsv, die zijn toegekend aan werknemers, die uit de dienstbetrekking waaruit de WGA-uitkering is ontstaan vóór 1 januari 2016 ongeschikt zijn geworden tot het verrichten van hun arbeid als bedoeld in artikel 19 of 19aa van de Ziektewet en uit dien hoofde recht hadden op een uitkering op grond van artikel 29, tweede lid, onderdeel a, b en c, van de Ziektewet en die op de eerste dag van ongeschiktheid tot werken in een dienstbetrekking stonden van een eigenrisicodrager als bedoeld in artikel 40, eerste lid, onderdeel b, van de Wfsv waarbij die dag is gelegen vóór de dag van ingang van het eigenrisicodragen, en de uitvoeringskosten en andere kosten in verband met deze uitkeringen;  
+a. de WGA-uitkeringen, bedoeld in artikel 117b, derde lid, onderdeel h, van de Wfsv, die zijn toegekend aan werknemers, die uit de dienstbetrekking waaruit de WGA-uitkering is ontstaan vóór 1 januari 2017 ongeschikt zijn geworden tot het verrichten van hun arbeid als bedoeld in artikel 19 of 19aa van de Ziektewet en uit dien hoofde recht hadden op een uitkering op grond van artikel 29, tweede lid, onderdeel a, b en c, van de Ziektewet en die op de eerste dag van ongeschiktheid tot werken in een dienstbetrekking stonden van een eigenrisicodrager als bedoeld in artikel 40, eerste lid, onderdeel b, van de Wfsv waarbij die dag is gelegen vóór de dag van ingang van het eigenrisicodragen, en de uitvoeringskosten en andere kosten in verband met deze uitkeringen;  
 
 b. de overlijdensuitkeringen, bedoeld in artikel 74, eerste lid, van de Wet WIA, in verband met het overlijden van de werknemer, bedoeld onder a, en de uitvoeringskosten en andere kosten in verband met deze uitkeringen,   met dien verstande dat indien deze WGA-uitkeringen zijn toegekend aan de personen, bedoeld in artikel 24 van de Wfsv, onderscheidenlijk de overlijdensuitkering aan de rechthebbende of rechthebbenden, bedoeld in artikel 74, eerste lid, van de Wet WIA in verband met het overlijden van deze personen, deze lasten ten laste komen van het Uitvoeringsfonds voor de overheid. 
 
@@ -371,11 +371,38 @@ Indien een werkgever, zonder dat er sprake is van een overgang van een ondernemi
 
 Artikel 47, eerste lid, van de Wfsv is van overeenkomstige toepassing bij een dienstbetrekking met een werknemer die onmiddellijk voorafgaand aan de aanvang van de dienstbetrekking gedurende tenminste twee jaar recht heeft op een nabestaandenuitkering op grond van de Algemene nabestaandenwet en gedurende die twee jaar geen inkomen uit arbeid als bedoeld in de artikelen 2:2, eerste lid, onderdelen a tot en met d, en 2:6, eerste lid, onderdeel b, onder 1° en 2°, van het Algemeen inkomensbesluit socialezekerheidswetten heeft genoten. 
 
-### §  4  
+### Hoofdstuk  2a  
 
-####Eigenrisicodragen Ziektewet
+####Quotumheffing
 
-Vervallen per 01-07-2014 
+### Artikel  2.20  
+
+####Gemiddeld aantal verloonde uren
+
+1.  Voor de toepassing van artikel 34, vierde en zesde lid, van de Wfsv wordt met ingang van het kalenderjaar 2013 het gemiddeld aantal verloonde uren per werknemer op jaarbasis bepaald op 1.623 verloonde uren.   
+2.  Bij ministeriële regeling kan het aantal verloonde uren, bedoeld in het eerste lid, worden gewijzigd met ingang van het bij die regeling te bepalen kalenderjaar.  
+
+### Artikel  2.21  
+
+####Aantal verloonde uren voor quotumheffing
+
+1.  Voor de toepassing van artikel 34, vierde en zesde lid, van de Wfsv is een werkgever geen quotumheffing verschuldigd indien hij in de in die leden genoemde kalenderjaren minder dan 40.575 verloonde uren in de loonaangifte op grond van de Wet op de loonbelasting 1964 heeft verantwoord.   
+2.  Bij ministeriële regeling kan het aantal verloonde uren, bedoeld in het eerste lid, worden gewijzigd met ingang van het bij die regeling te bepalen kalenderjaar.  
+
+### Artikel  2.22  
+
+####Variabelen formule quotumpercentage
+
+1.  Voor de toepassing van artikel 38f, tweede lid, van de Wfsv worden het totaal aantal banen, het aantal extra banen en de verloonde uren, waarnaar wordt verwezen in de variabelen van de formule voor de berekening van de quotumpercentages, bedoeld in dat lid, bij ministeriële regeling vastgesteld met ingang van het bij die regeling te bepalen kalenderjaar.   
+2.  De vaststelling van de variabelen van de formule, bedoeld in artikel 38f, tweede lid, van de Wfsv wordt naar beneden afgerond op twee cijfers achter de komma.  
+
+### Artikel  2.23  
+
+####Bepaling quotumtekort
+
+1.  Voor de toepassing van artikel 38g, derde lid, van de Wfsv wordt het gemiddeld aantal verloonde uren van arbeidsbeperkten in de sector overheid en de sector niet-overheid tezamen, bij ministeriële regeling vastgesteld met ingang van het bij die regeling te bepalen kalenderjaar.   
+2.  De vaststelling van de variabelen, bedoeld in artikel 38g, derde lid, van de Wfsv wordt naar beneden afgerond op twee cijfers achter de komma.   
+3.  Het quotumtekort, bedoeld in artikel 38g, derde lid, van de Wfsv wordt naar beneden afgerond op één decimaal.  
 
 ### Hoofdstuk  3  
 

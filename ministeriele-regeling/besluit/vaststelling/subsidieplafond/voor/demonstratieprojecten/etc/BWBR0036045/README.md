@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Voor subsidieverlening op grond van de artikelen 3.1, 4.1 en 5.19 van de Subsidieregeling internationaal excelleren (demonstratieprojecten, haalbaarheidsstudies en kennisverwerving) geldt voor de periode vanaf inwerkingtreding van dit besluit tot en met 30 juni 2015 een subsidieplafond van: 
+1.  Voor subsidieverlening op grond van de artikelen 3.1, 4.1 en 5.19 van de Subsidieregeling internationaal excelleren (demonstratieprojecten, haalbaarheidsstudies en kennisverwerving) geldt voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 augustus 2015 een subsidieplafond van: 
 
 a. € 4 miljoen voor activiteiten met betrekking tot Argentinië, Azerbeidzjan, Bahrein, Brazilië, Chili, China<sup> 1 Inclusief Taiwan </sup>, Irak, Kazachstan, Koeweit, Maleisië, Mexico, Oekraïne, Panama, Oman, Qatar, Saudi-Arabië, Servië, Singapore, Turkije, Verenigde Arabische Emiraten, Zuid-Korea;  
 

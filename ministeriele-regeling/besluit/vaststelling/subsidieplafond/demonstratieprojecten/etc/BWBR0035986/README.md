@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Voor subsidieverlening op grond van de artikelen 3.11, 4.10 en 5.26 van de Subsidieregeling internationaal excelleren (demonstratieprojecten, haalbaarheidsstudies en kennisverwerving; dggf) in de periode van 1 januari 2015 tot en met 30 juni 2015 is een subsidieplafond van € 3 miljoen beschikbaar.   
+1.  Voor subsidieverlening op grond van de artikelen 3.11, 4.10 en 5.26 van de Subsidieregeling internationaal excelleren (demonstratieprojecten, haalbaarheidsstudies en kennisverwerving; dggf) in de periode van 1 januari 2015 tot en met 31 augustus 2015 is een subsidieplafond van € 3 miljoen beschikbaar.   
 2.  Het subsidieplafond, vermeld in het eerste lid, wordt uitgeput in volgorde van binnenkomst van de aanvragen met dien verstande dat aanvragen voor activiteiten, bedoeld in het eerste lid, die voor inwerkingtreding van dit besluit zijn ingediend en waarop nog niet is beslist, het eerst voor subsidieverstrekking in aanmerking komen. De volgorde van aanvragen die op dezelfde dag zijn binnengekomen kan worden vastgesteld door loting.  
 
 ### Artikel  2  

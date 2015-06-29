@@ -258,6 +258,37 @@ An  = het geprojecteerde oppervlak van een raam, deur of kozijn bepaald volgens 
 
 At  = het totale geprojecteerde oppervlak van alle ramen, deuren en kozijnen van een bouwwerk   
 
+### Artikel  3.5  
+Treedt in werking per 01-07-2015 
+
+Een kooldioxidemeter als bedoeld in artikel 7.23 van het besluit voldoet aan het volgende: 
+
+a. functioneert continu op de gangbare elektrische netspanning en een tijdelijke onderbreking van de elektrische aansluiting verstoort de ingestelde signaalniveaus niet;  
+
+b. kalibreert zichzelf automatisch;  
+
+c. heeft ten minste een CO<sub>2</sub>-meetfunctie met: 
+
+1° een meetbereik van tenminste 300 tot 5.000 ppm;  
+
+2° een bedrijfstemperatuur van 0 – 50 ˚C;  
+
+3° een nauwkeurigheid in temperatuurbereik van +15 tot + 35 ˚C: bij CO<sub>2</sub> van 300-1.000 ppm : < 10% van meetwaarde en bij CO<sub>2</sub> van 1.000-5.000 ppm : < 100 ppm;  
+
+4° een resolutie van 1 ppm;    
+
+d. waarschuwt bijtijds voor ventilatieproblemen door middel van een duidelijke indicatie betreffende de mate waarin een vertrek wordt geventileerd;  
+
+e. heeft 3 signaalniveaus met een eigen kleurcode: 
+
+1° CO<sub>2</sub>-concentratie van minder dan 1.000 ppm;  
+
+2° CO<sub>2</sub>-concentratie van 1.001 t/m 1.400 ppm;  
+
+3° CO<sub>2</sub>-concentratie van 1.401 ppm en hoger;    
+
+f. de CO<sub>2</sub>-concentratie moet afleesbaar zijn op een duidelijk display, waarbij de hoogte van cijfers en letters in het display minimaal 8 mm bedraagt.   
+
 ### Hoofdstuk  4  
 
 ####Scheiden bouw- en sloopafval
@@ -496,6 +527,30 @@ Bij de toepassing van NEN 7120 gelden voor de in onderdeel 5.3.2 opgenomen formu
 | 9  | Sportfunctie  | 0,86  |
 | 10  | Winkelfunctie  | 0,85  |
 
+### Artikel  5.8a  
+
+####NEN-EN 1838
+
+Treedt in werking per 01-07-2015 
+
+Waar in artikel 6.24, eerste en vierde lid, van het besluit wordt verwezen naar NEN-EN 1838 is bedoeld de artikelen 5.4.5 en 5.4.6 van die norm. 
+
+### Artikel  5.8b  
+
+####NEN-EN 1990
+
+Treedt in werking per 01-07-2015 
+
+Bij toepassing van NEN-EN 1990 wordt tabel NB. 1- 2.1 gelezen als:  
+
+| Ontwerplevensduur  | Toepassing  | Klasse  | Jaren  |
+|:---|:---|:---|:---|
+| 1A  | 5  | Tijdelijke bouwwerken, anders dan een woonfunctie:  waarbij de termijn genoemd in de omgevingsvergunning als bedoeld in het eerste lid van art 5.16 van het Besluit omgevingsrecht niet langer is dan 5 jaar of  die vergunningsvrij zijn voor de activiteit bouwen als bedoeld in bijlage II van het Besluit omgevingsrecht.  Voor bouwwerken in gevolgklasse CC2 of CC3: binnen deze klasse moeten de in rekening te brengen belastingen zijn gebaseerd op een referentieperiode van 15 jaar. Voor CC1 is dit 5 jaar.  |
+| 1B  | 15  | Tijdelijke bouwwerken, anders dan de bouwwerken die vallen in klasse 1A.  |
+| 2  | 15  | Constructies en bouwwerken voor landbouw en tuinbouw en soortgelijke toepassingen, uitsluitend voor productiedoeleinden, waarbij het aantal personen dat in het gebouw aanwezig is, beperkt is;  Industriebouwwerken, al dan niet tijdelijk, met 1 of 2 bouwlagen.  |
+| 3  | 50  | Bouwwerken anders dan bedoeld onder 1A, 1B en 2.  |
+| 4  | 100  | Monumentale bouwwerken. De beslissing om een bouwwerk als monumentaal aan te merken is ter beoordeling van de opdrachtgever.  |
+
 ### Paragraaf  5.2  
 
 ####Bestaande bouw
@@ -511,6 +566,24 @@ Bij de toepassing van NEN 2057 geldt het volgende: Onderdeel 6.1 wordt gelezen a
 ####NEN 2535 en NEN 2575
 
 Bij de toepassing van NEN 2535 en NEN 2575 is het in die normen bedoelde akkoord van de bevoegde autoriteit verkregen met een vergunning voor het bouwen of voor brandveilig gebruik of een melding als bedoeld in artikel 1.18, eerste lid, van het besluit. 
+
+### Artikel  5.9b  
+
+####NEN 2575
+
+Treedt in werking per 01-07-2015 
+
+1.  Bij de toepassing van NEN 2575 is het in die norm bedoelde akkoord van de bevoegde autoriteit verkregen met een vergunning voor het bouwen of brandveilig gebruik of een melding als bedoeld in artikel 1.18, eerste lid, van het besluit.   
+2.  Waar in artikel 6.23 van het besluit wordt verwezen naar NEN2575 geldt het volgende: 
+
+a. het in onderdeel 4, tabel 1, onder algemeen, bedoelde minimaal toelaatbaar geluidniveau van toonsignalen van 65 dB geldt alleen voor verkeersruimten. Voor verblijfsruimten geldt alleen het in die tabel bedoelde geluidsniveau toonsignaal dat minimaal 6dB boven het gemiddelde omgevingsgeluid uitkomt;  
+
+b. het in onderdeel 4, tabel 2, onder algemeen, bedoelde minimaal toelaatbaar geluidniveau van gesproken berichten van 60 dB geldt alleen voor verkeerruimten. Voor verblijfsruimten geldt alleen het in die tabel bedoelde geluidsniveau toonsignaal dat minimaal 6dB boven het gemiddelde omgevingsgeluid uitkomt;  
+
+c. onderdeel 12.4.2 Specificatie Luidsprekers is niet van toepassing;  
+
+d. onderdeel 17 Bekabeling is niet van toepassing.     
+3.  Het tweede lid is niet van toepassing op een ontruimingsalarminstallatie die behoort bij een brandmeldinstallatie met doormelding als bedoeld in artikel 6.20 van het besluit, en op een ontruimingsalarminstallatie die behoort bij een brandmeldinstallatie zonder doormelding die na 1 november 2008 is opgeleverd of gewijzigd.  
 
 ### Artikel  5.10  
 
