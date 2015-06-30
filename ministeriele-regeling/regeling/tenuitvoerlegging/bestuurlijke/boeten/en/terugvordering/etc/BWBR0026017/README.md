@@ -68,7 +68,7 @@ v.  *SVB:* de Sociale verzekeringsbank, genoemd in hoofdstuk 6 van de Wet struct
 
 ### Artikel  1a  
 
-Deze regeling berust mede op de artikelen 22, 24, vijfde lid, 35, vierde lid, en 37 van de IOW. 
+Deze regeling berust mede op de artikelen 27a, elfde lid, van de WW en 22, 24, vijfde lid, 35, vierde lid, en 37 van de IOW. 
 
 ### Artikel  2  
 

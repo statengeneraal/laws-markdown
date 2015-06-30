@@ -3,7 +3,7 @@
 ##Besluit aanmelding van collectieve arbeidsovereenkomsten en het aanvragen van algemeen verbindend verklaring
 
 De Minister van Sociale Zaken en Werkgelegenheid;  
-Gelet op de [artikelen 4, tweede lid, van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](../../../../../../../../../../../wet/wet/op/het/algemeen/verbindend/en/het/onverbindend/verklaren/van/etc/BWBR0001987/README.md) en 14 van de [Wet op de loonvorming](../../../../../../../../../../../wet/wet/op/de/loonvorming/BWBR0002698/README.md);
+Gelet op de artikelen 4, tweede lid, van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten en 14 van de Wet op de loonvorming;
 Besluit:      
 ### §  1  
 
@@ -13,8 +13,8 @@ Besluit:
 
 ###Artikel 1:1 
 
-1. De mededeling van het sluiten of wijzigen van een collectieve arbeidsovereenkomst, bedoeld in [artikel 4 van de Wet op de loonvorming](../../../../../../../../../../../wet/wet/op/de/loonvorming/BWBR0002698/README.md), wordt ondertekend door of namens partijen bij de collectieve arbeidsovereenkomst.
-2. Voor het opzeggen van een collectieve arbeidsovereenkomst, bedoeld in [artikel 4 van de Wet op de loonvorming](../../../../../../../../../../../wet/wet/op/de/loonvorming/BWBR0002698/README.md), is het eerste lid van overeenkomstige toepassing.
+1. De mededeling van het sluiten of wijzigen van een collectieve arbeidsovereenkomst, bedoeld in artikel 4 van de Wet op de loonvorming, wordt ondertekend door of namens partijen bij de collectieve arbeidsovereenkomst.
+2. Voor het opzeggen van een collectieve arbeidsovereenkomst, bedoeld in artikel 4 van de Wet op de loonvorming, is het eerste lid van overeenkomstige toepassing.
 3. De mededeling, bedoeld in het eerste en tweede lid, vermeldt dat een collectieve arbeidsovereenkomst is afgesloten, gewijzigd of opgezegd.
 4. De mededeling, bedoeld in de eerste lid, vermeldt:
 
@@ -22,7 +22,7 @@ a. door welke partijen een collectieve arbeidsovereenkomst is afgesloten dan wel
 
 b. het tijdvak waarvoor de collectieve arbeidsovereenkomst als geheel is gesloten, alsmede, indien de collectieve arbeidsovereenkomst bepalingen kent met uit een lopende expiratiedata, de expiratiedatum van de meerderheid van die bepalingen.
 
-c. het aantal werknemers dat onder de werkingssfeer van de collectieve arbeidsovereenkomst valt, met inbegrip van de werknemers, bedoeld in [artikel 14 van de Wet op de collectieve arbeidsovereenkomst](../../../../../../../../../../../wet/wet/op/de/collectieve/arbeidsovereenkomst/BWBR0001937/README.md). 
+c. het aantal werknemers dat onder de werkingssfeer van de collectieve arbeidsovereenkomst valt, met inbegrip van de werknemers, bedoeld in artikel 14 van de Wet op de collectieve arbeidsovereenkomst. 
 
 ####Bijlagen bij de mededeling
 
@@ -30,7 +30,7 @@ c. het aantal werknemers dat onder de werkingssfeer van de collectieve arbeidsov
 
 1.  Bij de mededeling van het sluiten van een eerste collectieve arbeidsovereenkomst met een werkingssfeer waarvoor nog geen collectieve arbeidsovereenkomst bestond, wordt gevoegd:
 
-a. de digitale tekst van de integrale collectieve arbeidsovereenkomst, met inbegrip van alle daarbij behorende bijlagen, waaronder de rechtens geldende statuten en reglementen van fondsen, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur<sup>1Zie [artikel II van de Wijziging Besluit aanmelding van collectieve arbeidsovereenkomsten en het aanvragen van algemeen verbindend verklaring](../../../../../../../../../../../ministeriele-regeling/wijziging/besluit/aanmelding/collectieve/arbeidsovereenkomsten/en/het/etc/BWBR0012911/README.md), AV/A&M/2001/60856, 23 oktober 2001.</sup>;
+a. de digitale tekst van de integrale collectieve arbeidsovereenkomst, met inbegrip van alle daarbij behorende bijlagen, waaronder de rechtens geldende statuten en reglementen van fondsen, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur<sup>1Zie artikel II van de Wijziging Besluit aanmelding van collectieve arbeidsovereenkomsten en het aanvragen van algemeen verbindend verklaring, AV/A&M/2001/60856, 23 oktober 2001.</sup>;
 
 b. de letterlijke tekst van de integrale collectieve arbeidsovereenkomst bedoeld in onderdeel a;
 
@@ -39,7 +39,7 @@ c. een toelichting op de collectieve arbeidsovereenkomst, bedoeld in onderdeel a
 d. een overzicht van de geschatte loonkosten van de collectieve arbeidsovereenkomst, bedoeld in onderdeel a, tenzij een schatting niet mogelijk is door gebrek aan kennis van de loonkosten voorafgaand aan deze collectieve arbeidsovereenkomst.
 2.  Indien de mededeling, bedoeld in artikel 1:1, eerste lid, betrekking heeft op een collectieve arbeidsovereenkomst welke in vergelijking met de daaraan voorafgaande collectieve arbeidsovereenkomst wijzigingen heeft ondergaan, wordt bij de mededeling, bedoeld in dat lid, gevoegd;
 
-a. de digitale tekst van de integrale collectieve arbeidsovereenkomst, met inbegrip van alle daarbij behorende bijlagen, waaronder de rechtens geldende statuten en reglementen van fondsen, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur <sup>2Zie [artikel II van de Wijziging Besluit aanmelding van collectieve arbeidsovereenkomsten en het aanvragen van algemeen verbindend verklaring](../../../../../../../../../../../ministeriele-regeling/wijziging/besluit/aanmelding/collectieve/arbeidsovereenkomsten/en/het/etc/BWBR0012911/README.md), AV/A&M/2001/60856, 23 oktober 2001.</sup>;
+a. de digitale tekst van de integrale collectieve arbeidsovereenkomst, met inbegrip van alle daarbij behorende bijlagen, waaronder de rechtens geldende statuten en reglementen van fondsen, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur <sup>2Zie artikel II van de Wijziging Besluit aanmelding van collectieve arbeidsovereenkomsten en het aanvragen van algemeen verbindend verklaring, AV/A&M/2001/60856, 23 oktober 2001.</sup>;
 
 b. de letterlijke tekst van de in de collectieve arbeidsovereenkomst aangebrachte wijzigingen in de vorm van een nota van wijzigingen dan wel de letterlijke tekst van de integrale collectieve arbeidsovereenkomst in tweevoud waarbij de wijzigingen door middel van markeringen zijn aangegeven;
 
@@ -51,7 +51,8 @@ d. een overzicht van de geschatte loonkosten van de wijzigingen, bedoeld in onde
 
 ### Artikel  1:3  
 
-Indien een of meer verenigingen van werkgevers of een of meer verenigingen van werknemers, voor de eerste keer in hun bestaan een collectieve arbeidsovereenkomst hebben afgesloten, wordt bij de mededeling, bedoeld in artikel 1:1, een afschrift van de statuten van die vereniging of verenigingen gevoegd. 
+1. Indien een of meer verenigingen van werkgevers of een of meer verenigingen van werknemers, voor de eerste keer in hun bestaan een collectieve arbeidsovereenkomst hebben afgesloten, wordt bij de mededeling, bedoeld in artikel 1:1, een afschrift van de statuten van die vereniging of verenigingen gevoegd.  
+2.  Indien de statuten van een vereniging van werkgevers of een vereniging van werknemers, bedoeld in het eerste lid, zijn gewijzigd wordt bij gelegenheid van de eerst daarop volgende mededeling van het afsluiten van een collectieve arbeidsovereenkomst, bedoeld in artikel 1:1, waarbij die vereniging partij is, een afschrift van de gewijzigde statuten van die vereniging gevoegd. 
 
 ### §  2  
 
@@ -114,7 +115,11 @@ b. een op papier geprinte versie van de digitale tekst, bedoeld in onderdeel a, 
 
 c. een opgave van de representativiteitsgegevens en een toelichting op de wijze van verzameling daarvan, bedoeld in artikel 2:2 onderdeel c en d, indien de tussentijdse wijziging van de collectieve arbeidsovereenkomst betrekking heeft op de werkingssfeer daarvan;  
 
-d. de digitale tekst, bedoeld in onderdeel a, en de op papier geprinte versie, bedoeld in onderdeel b, omvat tevens de integrale tekst van de werkingssfeerbepaling of werkingssfeerbepalingen, indien sprake is van een collectieve arbeidsovereenkomst waarin tevens fondsbepalingen zijn opgenomen welke voor een langer tijdvak algemeen verbindend zijn verklaard dan de overige bepalingen en het verzoek betrekking heeft op die overige bepalingen vanwege het verstrijken van de duur daarvan.  
+d. de digitale tekst, bedoeld in onderdeel a, en de op papier geprinte versie, bedoeld in onderdeel b, omvat tevens de integrale tekst van de werkingssfeerbepaling of werkingssfeerbepalingen, indien sprake is van een collectieve arbeidsovereenkomst: 
+
+1°. waarin tevens fondsbepalingen zijn opgenomen welke voor een langer tijdvak algemeen verbindend zijn verklaard dan de overige bepalingen en het verzoek betrekking heeft op die overige bepalingen vanwege het verstrijken van de duur ervan; en  
+
+2°. welke ingevolge artikel 19 van de Wet op de collectieve arbeidsovereenkomst is verlengd en het verzoek betrekking heeft op een wijziging van een in duur verlengd besluit tot algemeen verbindend verklaring als bedoeld in artikel 2:9.    
 
 ### Artikel  2:6  
 
@@ -139,7 +144,18 @@ a. naar aanleiding van een verzoek om algemeenverbindendverklaring van een wijzi
 
 b. naar aanleiding van een verzoek om algemeenverbindendverklaring als bedoeld in artikel 2:4, onderdeel d.   
 
-###§ 3 
+### §  2b  
+
+####Verzoek tot ongewijzigde verlenging van de verbindend verklaring
+
+### Artikel  2:9  
+
+1.  Een verzoek om eenmalige verlenging van de duur van een besluit tot algemeen verbindend verklaring van bepalingen van een collectieve arbeidsovereenkomst dat eindigt direct voorafgaand aan het tijdstip waarop de stilzwijgende verlenging van die collectieve arbeidsovereenkomst ingaat, wordt uiterlijk een maand voorafgaand aan dat tijdstip ingediend.   
+2.  Het verzoek, bedoeld in het eerste lid, wordt schriftelijk ingediend en ondertekend door of namens alle partijen die de rechtsgeldige collectieve arbeidsovereenkomst hebben afgesloten. Het in de eerste zin bedoelde verzoek vermeldt de periode waarvoor de collectieve arbeidsovereenkomst stilzwijgend wordt verlengd en tot welk tijdstip om verlenging van het besluit tot algemeen verbindend verklaring wordt gevraagd.   
+3.  Een verzoek om verlenging dat binnen een maand voorafgaand aan het tijdstip, bedoeld in het eerste lid, wordt gedaan, wordt niet gehonoreerd.   
+4.  Van de indiening van het verzoek, bedoeld in het eerste lid, wordt mededeling gedaan in de Staatscourant. Tegen het verzoek ingediende bedenkingen worden niet gehonoreerd. Verzoeken om dispensatie van een besluit tot verlenging van een besluit tot algemeen verbindend verklaring worden niet worden gehonoreerd.  
+
+### §  3  
 
 ####Elektronische aanmelding
 
@@ -148,6 +164,12 @@ b. naar aanleiding van een verzoek om algemeenverbindendverklaring als bedoeld i
 1.  Indien de mededeling, bedoeld in artikel 1:1, eerste en tweede lid, elektronisch wordt verzonden, wordt daarbij gebruik gemaakt van de daarvoor door de Minister van Sociale Zaken en Werkgelegenheid ter beschikking gestelde elektronische formulieren en een door hem erkende elektronische handtekening.  
 2.  Indien de mededeling van het sluiten van een collectieve arbeidsovereenkomst elektronisch is verzonden als bedoeld in het eerste lid, worden mededelingen van het wijzigen of opzeggen daarvan eveneens elektronisch verzonden.  
 3.  De Minister van Sociale Zaken en Werkgelegenheid draagt zorg voor de voor elektronische mededelingen noodzakelijke elektronische infrastructuur met behulp waarvan die mededelingen betrouwbaar en vertrouwelijk kunnen worden verzonden. 
+
+### Artikel  3:2  
+
+1.  Indien het verzoek, bedoeld in artikel 2:9, elektronisch wordt verzonden, wordt daarbij gebruik gemaakt van een speciaal daarvoor bestemd e-mailadres.   
+2.  Indien het verzoek, bedoeld in artikel 2:9, elektronisch wordt verzonden, wordt een verzoek tot tussentijdse wijziging van bepalingen van dat verlengde besluit tot algemeen verbindend verklaring eveneens elektronisch verzonden.   
+3.  De Minister van Sociale Zaken en Werkgelegenheid zorgt voor de noodzakelijke elektronische infrastructuur met behulp waarvan de verzoeken, bedoeld in artikel 2:9, betrouwbaar en vertrouwelijk kunnen worden verzonden.  
 
 ### §  4  
 

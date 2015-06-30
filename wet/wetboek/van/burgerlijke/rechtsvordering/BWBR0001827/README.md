@@ -406,9 +406,9 @@ c. aan de persoon of de woonplaats van een van de erfgenamen, mits binnen een ja
 ### Artikel  54  
 
 1.  Ten aanzien van hen die geen bekende woonplaats in Nederland hebben, geschiedt de betekening ter plaatse van hun werkelijk verblijf.   
-2.  Indien de woonplaats en het werkelijk verblijf onbekend zijn en het exploot een te voeren of aanhangige procedure betreft, alsmede indien in rechte worden opgeroepen houders van aandelen of andere effecten, welke niet op naam staan of waarvan de houders niet bij name bekend zijn, geschiedt de betekening aan het parket van de ambtenaar van het openbaar ministerie bij het gerecht waar de zaak moet dienen of dient. Indien de zaak dient of moet dienen bij de Hoge Raad, geschiedt de betekening aan het parket van de procureur-generaal bij de Hoge Raad. Voorts wordt een uittreksel van het exploot zo spoedig mogelijk bekend gemaakt in een landelijk dagblad of in een dagblad verschijnend in de streek waar voormeld gerecht zitting houdt onder vermelding van naam en kantooradres van de deurwaarder of van de advocaat van wie afschrift van het exploot kan worden verkregen.   
+2.  Indien de woonplaats en het werkelijk verblijf onbekend zijn en het exploot een te voeren of aanhangige procedure betreft, alsmede indien in rechte worden opgeroepen houders van aandelen of andere effecten, welke niet op naam staan of waarvan de houders niet bij name bekend zijn, geschiedt de betekening aan het parket van de ambtenaar van het openbaar ministerie bij het gerecht waar de zaak moet dienen of dient. Indien de zaak dient of moet dienen bij de Hoge Raad, geschiedt de betekening aan het parket van de procureur-generaal bij de Hoge Raad. Voorts wordt een uittreksel van het exploot zo spoedig mogelijk bekend gemaakt in de Staatscourant onder vermelding van naam en kantooradres van de deurwaarder of van de advocaat van wie afschrift van het exploot kan worden verkregen.   
 3.  Gelijkelijk wordt gehandeld ten aanzien van rechtspersonen, bestaande of ontbonden, bij gebreke van kantoor, bestuurder of vereffenaar, of wanneer de bestuurder of vereffenaar geen bekend kantoor, bekende woonplaats of bekend werkelijk verblijf heeft.   
-4.  Indien het exploot niet een te voeren of aanhangige procedure betreft, geschiedt de betekening aan het parket van de ambtenaar van het openbaar ministerie bij de rechtbank binnen het rechtsgebied waarvan de verzoeker zijn woonplaats of, bij gebreke daarvan, zijn werkelijk verblijf heeft, terwijl een uittreksel van het exploot voorts bekend wordt gemaakt in een landelijk dagblad of in een dagblad verschijnend in de streek waar de verzoeker woonplaats of werkelijk verblijf heeft, onder vermelding van naam en kantooradres van de deurwaarder of van de advocaat van wie afschrift van het exploot kan worden verkregen. Heeft de verzoeker geen bekende woonplaats of bekend werkelijk verblijf in Nederland, dan geschiedt de betekening aan het parket van de ambtenaar van het openbaar ministerie bij de rechtbank Den Haag.   
+4.  Indien het exploot niet een te voeren of aanhangige procedure betreft, geschiedt de betekening aan het parket van de ambtenaar van het openbaar ministerie bij de rechtbank binnen het rechtsgebied waarvan de verzoeker zijn woonplaats of, bij gebreke daarvan, zijn werkelijk verblijf heeft, terwijl een uittreksel van het exploot voorts bekend wordt gemaakt in de Staatscourant, onder vermelding van naam en kantooradres van de deurwaarder of van de advocaat van wie afschrift van het exploot kan worden verkregen. Heeft de verzoeker geen bekende woonplaats of bekend werkelijk verblijf in Nederland, dan geschiedt de betekening aan het parket van de ambtenaar van het openbaar ministerie bij de rechtbank Den Haag.   
 5.  Indien het exploot ten verzoeke van de ene echtgenoot of geregistreerde partner aan de andere wordt gedaan, houdt het de naam van de raadsman van die andere echtgenoot of geregistreerde partner in, indien deze bekend is.  
 
 ### Artikel  55  
@@ -1846,7 +1846,7 @@ De oproeping van verzoekers of van in de procedure verschenen belanghebbenden ge
 
 ### Artikel  272  
 
-De oproeping van niet in de procedure verschenen belanghebbenden geschiedt door de griffier bij aangetekende brief, tenzij de rechter anders bepaalt. 
+De oproeping van niet in de procedure verschenen belanghebbenden van wie de woonplaats of het werkelijk verblijf onbekend zijn geschiedt door plaatsing van de oproeping in de Staatscourant. De rechter kan bepalen dat de oproeping tevens op andere wijze geschiedt. De oproeping van overige niet in de procedure verschenen belanghebbenden geschiedt door de griffier bij aangetekende brief, tenzij de rechter anders bepaalt. 
 
 ### Artikel  273  
 
@@ -2526,7 +2526,7 @@ Voor zover uit deze afdeling niet anders voortvloeit, is artikel 284 van overeen
 ### Artikel  430  
 
 1.  De grossen van in Nederland gewezen vonnissen, van beschikkingen van de Nederlandse rechter en van in Nederland verleden authentieke akten alsmede van andere bij de wet als executoriale titel aangewezen stukken kunnen in geheel Nederland worden ten uitvoer gelegd.    
-2.   Zij moeten aan het hoofd voeren de woorden: In naam des Konings.    
+2.   Zij moeten aan het hoofd voeren de woorden: In naam van de Koning.    
 3.   Zij kunnen niet worden ten uitvoer gelegd dan na betekening aan de partij tegen wie de executie zich zal richten.   
 
 ### Artikel  431  

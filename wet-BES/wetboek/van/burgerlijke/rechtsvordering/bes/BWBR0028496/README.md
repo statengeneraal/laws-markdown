@@ -1943,7 +1943,7 @@ De verzoeker en iedere belanghebbende hebben recht op inzage en afschrift van he
 ### Artikel  430  
 
 1.  De grossen van hier te lande gewezen vonnissen, van beschikkingen van de rechter hier te lande en van hier te lande verleden authentieke akten, alsmede van andere bij de wet als executoriale titel aangewezen stukken, kunnen hier te lande worden ten uitvoer gelegd.   
-2.  Zij moeten aan het hoofd voeren de woorden: In naam des Konings.   
+2.  Zij moeten aan het hoofd voeren de woorden: In naam van de Koning.   
 3.  Zij kunnen niet worden ten uitvoer gelegd dan na betekening aan de partij tegen wie de executie zich zal richten.  
 
 ### Artikel  431  

@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Veiligheid en Justitie van 3 februari 2014, nr. 474374, houdende regeling van de rechtspositie van de leden van de Commissie toezicht bescherming persoonsgegevens BES
 
 De Minister van Veiligheid en Justitie,  
-Gelet op [artikel 47 van de Wet bescherming persoonsgegevens BES](../../../../../../../../../wet-BES/wet/bescherming/persoonsgegevens/bes/BWBR0028067/README.md);
+Gelet op artikel 47 van de Wet bescherming persoonsgegevens BES;
 Besluit:    
 
 ### Artikel  1  
@@ -11,7 +11,7 @@ Besluit:
 1.  De leden van de Commissie toezicht bescherming persoonsgegevens BES ontvangen een vergoeding ten laste van de Minister.   
 2.  Om aanspraak te kunnen maken op deze vergoeding, ondertekenen de leden van de commissie een presentielijst en dienen zij een gespecificeerde declaratie in bij de Minister.   
 3.  De vergoeding voor de voorzitter bedraagt USD 306 per vergadering. Voor de overige leden van de commissie bedraagt de vergoeding USD 272 per vergadering.   
-4.  De leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten overeenkomstig de [Reis- verblijf- en verhuiskostenregeling ambtenaren BES](../../../../../../../../../ministeriele-regeling-BES/reis-/verblijf-/en/verhuiskostenregeling/ambtenaren/bes/BWBR0029422/README.md), met dien verstande dat alleen de werkelijk gedane uitgaven worden vergoed.  
+4.  De leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten overeenkomstig de Reis- verblijf- en verhuiskostenregeling ambtenaren BES.  
 
 ### Artikel  2  
 

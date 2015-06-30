@@ -2456,7 +2456,9 @@ c. inhoudende een technische beoordeling van een voertuig of een luchtvaartuig, 
 
 a. inzake de nummering van kandidatenlijsten, de geldigheid van lijstverbindingen, het verloop van de stemming, de stemopneming, de vaststelling van de stemwaarden en de vaststelling van de uitslag bij verkiezingen van de leden van vertegenwoordigende organen, de benoemdverklaring in opengevallen plaatsen, alsmede de toelating van nieuwe leden van provinciale staten, van de gemeenteraad en van het algemeen bestuur van een waterschap, alsmede de verlening van tijdelijk ontslag wegens zwangerschap en bevalling of ziekte,  
 
-b. houdende een ambtshandeling van een gerechtsdeurwaarder of notaris.    
+b. houdende een ambtshandeling van een gerechtsdeurwaarder of notaris,  
+
+c. bij een referendum op grond van de Wet raadgevend referendum inzake het verloop van de stemming en de stemopneming, van het stembureau, het hoofdstembureau en de burgemeester inzake de vaststelling van de uitkomsten van de stemming bij een referendum en van de referendumcommissie tot vaststelling van de datum waarop een referendum wordt gehouden.   
 
 ### Artikel  8:5  
 
@@ -4154,7 +4156,7 @@ a. hoofdstuk 5.1 en de artikelen 5:77, eerste lid, en 5:81, derde lid
 
 b. een besluit terzake van het ingevolge artikel 5:76, tweede lid, of 5:80b, vijfde lid, bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 1:80  
 
-c. de artikelen 6:1 en 6:2    Wet politiegegevens: artikelen 25 en 28  Wet ruimtelijke ordening: 
+c. de artikelen 6:1 en 6:2    Wet politiegegevens: artikelen 25 en 28  Wet raadgevend referendum: de artikelen 6, 14, 21b, derde lid, 22 juncto D 6 respectievelijk D 8 van de Kieswet, 32, eerste lid, 44, eerste lid, 60 juncto K 8 van de Kieswet, 61 juncto L 11 van de Kieswet, 62 juncto M 4 van de Kieswet, 79, 80 en 81 Wet ruimtelijke ordening: 
 
 a. een besluit op een verzoek om een kostenvergoeding als bedoeld in artikel 6.8 of 6.9  
 
@@ -4184,15 +4186,17 @@ b. artikel 126, tweede lid, betreffende de toepassing van hoofdstuk XVIII van de
 
 a. artikel 38, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten  
 
-b. artikel 38, betreffende de toepassing van hoofdstuk XVII van de Gemeentewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen   Buitengewoon Besluit Arbeidsverhoudingen 1945: artikel 6  Burgerlijk Wetboek, voor zover de aanvraag is toegewezen: 
+b. artikel 38, betreffende de toepassing van hoofdstuk XVII van de Gemeentewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen    Burgerlijk Wetboek, voor zover de aanvraag is toegewezen: 
 
 a. Boek 1: 
 
-1. artikel 7, eerste en tweede lid  
+1. artikel 7, eerste en tweede lid, voor zover de aanvraag is toegewezen  
 
-2. titel 14, afdeling 4    
+2. titel 14, afdeling 4, voor zover de aanvraag is toegewezen    
 
-b. Boek 2: de artikelen 63d, tweede lid, 156 en 266    Elektriciteitswet 1998: de artikelen 9b, vierde lid, 9c, derde lid, 9d, tweede en derde lid, 9f, zesde lid, 20a, derde lid, 20b, derde lid, en 20c, tweede en derde lid  Faillissementswet: artikel 285  Financiële-verhoudingswet: artikel 9  Gaswet: de artikelen 39b, derde lid, 39c, derde lid, en 39d, tweede en derde lid  Gemeentewet:  
+b. Boek 2: de artikelen 63d, tweede lid, 156 en 266, voor zover de aanvraag is toegewezen  
+
+c. Boek 7: artikel 671a.   Elektriciteitswet 1998: de artikelen 9b, vierde lid, 9c, derde lid, 9d, tweede en derde lid, 9f, zesde lid, 20a, derde lid, 20b, derde lid, en 20c, tweede en derde lid  Faillissementswet: artikel 285  Financiële-verhoudingswet: artikel 9  Gaswet: de artikelen 39b, derde lid, 39c, derde lid, en 39d, tweede en derde lid  Gemeentewet:  
 
 a. artikel 49  
 
@@ -4220,7 +4224,7 @@ a. artikel 15, eerste lid, voor zover het betreft een weigering van de vergunnin
 
 b. artikel 15, negende lid, voor zover het betreft een afwijzing van het verzoek tot verlenging  
 
-c. artikel 16, tiende lid, eerste volzin, en elfde lid, eerste volzin    Mijnbouwwet: de artikelen 141a, derde lid, 141b, derde lid, en 141c, tweede en derde lid  Natuurbeschermingswet 1998: de artikelen 17, 19kg en 23  Onteigeningswet   Ontgrondingenwet: mededeling als bedoeld in artikel 10, tweede en derde lid  Participatiewet: de artikelen 52 en 81 en paragraaf 6.5Politiewet 2012: de artikelen 18, 20, 34, 35, 37, eerste lid, 39, derde en vijfde lid, en 52  Provinciewet:  
+c. artikel 16, tiende lid, eerste volzin, en elfde lid, eerste volzin    Mijnbouwwet: de artikelen 141a, derde lid, 141b, derde lid, en 141c, tweede en derde lid  Natuurbeschermingswet 1998: de artikelen 17 en 23  Onteigeningswet   Ontgrondingenwet: mededeling als bedoeld in artikel 10, tweede en derde lid  Participatiewet: de artikelen 52 en 81 en paragraaf 6.5Politiewet 2012: de artikelen 18, 20, 34, 35, 37, eerste lid, 39, derde en vijfde lid, en 52  Provinciewet:  
 
 a. artikel 49  
 
@@ -4310,7 +4314,7 @@ f. artikel 4.4, eerste lid, tenzij de aanwijzing betrekking heeft op een daarbij
 
 g. artikel 4.4, derde lid  
 
-h. artikel 6.15, eerste lid, voor zover de herziening uitsluitend betrekking heeft op onderdelen als bedoeld in het derde lid    Wet toezicht financiële verslaggeving: de artikelen 2, eerste lid, 3, eerste en tweede lid, 4, 9, 12 en 30 Wet van 18 december 2008 tot wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens) (Stb. 2008, 561): artikel X  Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: artikel 30, tweede lid Wet vervoer gevaarlijke stoffen: de artikelen 13, eerste lid, en 14, eerste, tweede en vierde lid  Wet werk en inkomen kunstenaars: artikel 14  Zorgverzekeringswet:  
+h. artikel 6.15, eerste lid, voor zover de herziening uitsluitend betrekking heeft op onderdelen als bedoeld in het derde lid    Wet toezicht financiële verslaggeving: de artikelen 2, eerste lid, 3, eerste en tweede lid, 4, 9, 12 en 30 Wet van 18 december 2008 tot wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens) (Stb. 2008, 561): artikel X  Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: artikel 30, tweede lid Wet vervoer gevaarlijke stoffen: de artikelen 13, eerste lid, en 14, eerste, tweede en vierde lid  Wet werk en inkomen kunstenaars: artikel 14 Wet windenergie op zee: artikel 9, eerste lid Zorgverzekeringswet:  
 
 a. artikel 9a  
 
@@ -4412,7 +4416,7 @@ d. artikel 5.2a, vierde lid, betreffende de toepassing van hoofdstuk XVII van de
 
 a. artikel 2, eerste lid  
 
-b. een besluit tot wijziging van een besluit als bedoeld in artikel 2, eerste lid    Wet balansverkorting geldelijke steun volkshuisvesting, voor zover het betreft een beschikking  Wet bereikbaarheid en mobiliteit: artikel 3, eerste lid  Wet bescherming Antarctica   Wet bodembescherming, met uitzondering van artikel 43, voor zover het betreft de afwijzing van een verzoek  Wet educatie en beroepsonderwijs:  
+b. een besluit tot wijziging van een besluit als bedoeld in artikel 2, eerste lid    Wet bereikbaarheid en mobiliteit: artikel 3, eerste lid  Wet bescherming Antarctica   Wet bodembescherming, met uitzondering van artikel 43, voor zover het betreft de afwijzing van een verzoek  Wet educatie en beroepsonderwijs:  
 
 a. de artikelen 1.4.1, 1.4a.1, 1.6.1, 2.1.1, eerste lid, 2.1.2, eerste lid, onderdeel b, 2.1.3, tweede en derde lid, 2.1.5, eerste lid, 2.1.6, 2.1.7, 2.2.3, eerste en derde lid, en 2.5.9   
 
@@ -4468,7 +4472,7 @@ d. artikel 185, tweede lid, tweede volzin, voor zover het betreft een besluit op
 
 a. titel III: de afdelingen I, met uitzondering van artikel 74, en III  
 
-b. de artikelen 85a, 89 en 104    Wet ruimtelijke ordening:  
+b. de artikelen 85a, 89 en 104    Wet raadgevend referendum: de artikelen 6, 14, 21b, derde lid, 22 juncto D 6 respectievelijk D 8 van de Kieswet, 32, eerste lid, 44, eerste lid, 60 juncto K 8 van de Kieswet, 61 juncto L 11 van de Kieswet, 62 juncto M 4 van de Kieswet, 79, 80, 81 en 90, tweede lid  Wet ruimtelijke ordening:  
 
 a. een besluit omtrent vaststelling van een bestemmingsplan, een inpassingsplan of een rijksbestemmingsplan als bedoeld in artikel 10.3, eerste lid  
 
@@ -4486,7 +4490,7 @@ g. de artikelen 6.8, eerste lid, en 6.9
 
 h. een besluit omtrent vaststelling van een exploitatieplan voor gronden, begrepen in een gelijktijdig bekendgemaakt bestemmingsplan, inpassingsplan of wijzigingsplan als bedoeld in artikel 3.6, eerste lid, alsmede herzieningen van het desbetreffende exploitatieplan en besluiten omtrent de afrekening en herberekende exploitatiebijdragen van het desbetreffende exploitatieplan  
 
-i. een ontheffing als bedoeld in artikel 4.1a of 4.3a, voor zover die ontheffing betrekking heeft op een bestemmingsplan of een provinciaal inpassingsplan   Wet toelating zorginstellingen   Woningwet: artikel 70, voor zover het betreft de intrekking van een toelating  Zorgverzekeringswet: voor zover het betreft een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport of van het College zorgverzekeringen, met uitzondering van: 
+i. een ontheffing als bedoeld in artikel 4.1a of 4.3a, voor zover die ontheffing betrekking heeft op een bestemmingsplan of een provinciaal inpassingsplan   Wet toelating zorginstellingen  Wet windenergie op zee: artikelen 3, eerste lid en 11, eerste lid Woningwet: artikel 19, voor zover het betreft de intrekking van een toelating  Zorgverzekeringswet: voor zover het betreft een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport of van het College zorgverzekeringen, met uitzondering van: 
 
 a. een beschikking op grond van artikel 9b, 9c, 18d tot en met 18g, 69 of 70   
 
@@ -4548,7 +4552,7 @@ b. artikel 3.52a, eerste, tweede en elfde lid, voor zover het betreft een beslui
 
 a. artikel 1:26, eerste en tweede lid, hoofdstuk 5.1 en de artikelen 5:77, eerste lid, en 5:81, derde lid  
 
-b. een besluit terzake van het ingevolge artikel 5:76, tweede lid, of 5:80b, vijfde lid, bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 1:80    Wet personenvervoer 2000, met uitzondering van de artikelen 56, eerste lid, 59, eerste lid, 94, eerste lid, en 96, eerste lid  Wet privatisering FVP   Wet uitvoering Internationaal Energieprogramma Wet verbod pelsdierhouderij Wet van 22 juni 1994 tot wijziging van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering, het Wetboek van Koophandel en de Wet nationaliteit zeeschepen in rompbevrachting (wijziging voorwaarden nationaliteitsverlening en registratie zeeschepen) (Stb. 1994, 507) : een verklaring als bedoeld in artikel V, eerste lid  Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: een besluit genomen door een van de in artikel 30, eerste lid, genoemde bestuursorganen, tenzij toepassing of mede toepassing is gegeven aan artikel 26  Wet vervoer over zee   Wet voorraadvorming aardolieproducten 2012, met uitzondering van artikel 26 en met inbegrip van een besluit van Onze Minister van Economische Zaken, Landbouw en Innovatie dat is genomen op grond van een bilateraal akkoord en betrekking heeft op het niet in Nederland aanhouden van een wettelijke voorraad  Wet wegvervoer goederen   Wetboek van Koophandel: artikel 311a  Winkeltijdenwet  Zaaizaad- en plantgoedwet 2005   Zorgverzekeringswet: artikel 122a Zorgverzekeringswet, voor zover het betreft beschikkingen van de Nederlandse Zorgautoriteit, bedoeld in artikel 66d
+b. een besluit terzake van het ingevolge artikel 5:76, tweede lid, of 5:80b, vijfde lid, bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 1:80    Wet personenvervoer 2000, met uitzondering van de artikelen 56, eerste lid, 59, eerste lid, 94, eerste lid, en 96, eerste lid  Wet privatisering FVP   Wet uitvoering Internationaal Energieprogramma Wet verbod pelsdierhouderij Wet van 22 juni 1994 tot wijziging van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering, het Wetboek van Koophandel en de Wet nationaliteit zeeschepen in rompbevrachting (wijziging voorwaarden nationaliteitsverlening en registratie zeeschepen) (Stb. 1994, 507) : een verklaring als bedoeld in artikel V, eerste lid  Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: een besluit genomen door een van de in artikel 30, eerste lid, genoemde bestuursorganen, tenzij toepassing of mede toepassing is gegeven aan artikel 26  Wet vervoer over zee   Wet voorraadvorming aardolieproducten 2012, met uitzondering van artikel 26 en met inbegrip van een besluit van Onze Minister van Economische Zaken, Landbouw en Innovatie dat is genomen op grond van een bilateraal akkoord en betrekking heeft op het niet in Nederland aanhouden van een wettelijke voorraad  Wet wegvervoer goederen  Wet windenergie op zee: artikelen 15, vierde lid, 16, 17, 21, tweede lid, en 25 Wetboek van Koophandel: artikel 311a  Winkeltijdenwet  Zaaizaad- en plantgoedwet 2005   Zorgverzekeringswet: artikel 122a Zorgverzekeringswet, voor zover het betreft beschikkingen van de Nederlandse Zorgautoriteit, bedoeld in artikel 66d
 
 ### Artikel  5  
 
@@ -4574,7 +4578,7 @@ Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift o
 
 a. Boek 2: de artikelen 63d, tweede lid, 156 en 266  
 
-b. Boek 8: titel 6, afdeling 5    Drinkwaterwet: artikel 50, derde lid, in samenhang met artikel 70a van de Mededingingswet Elektriciteitswet 1998: de artikelen 77h en 77i  Gaswet: de artikelen 16, 60ac en 60ad  Gezondheids- en welzijnswet voor dieren: artikel 120b, eerste lid  Instellingswet Autoriteit Consument en Markt  Invoerings- en aanpassingswet Pensioenwet   Loodsenwet, met uitzondering van de artikelen 21, derde lid, 27b, vierde lid, 27d, 27e, 27f, 27h en 27l Mededingingswet Muntwet 2002: artikel 11, eerste en tweede lid Pensioenwet   Postwet 2009, met uitzondering van hoofdstuk 3A en artikel 58  Sanctiewet 1977 Spoorwegwet, met uitzondering van de artikelen 19, 21 en 71, derde lid Tabakswet   Telecommunicatiewet, met uitzondering van: 
+b. Boek 8: titel 6, afdeling 5    Drinkwaterwet: artikel 50, derde lid, in samenhang met artikel 70a van de Mededingingswet Elektriciteitswet 1998: de artikelen 77h en 77i  Gaswet: de artikelen 16, 60ac en 60ad  Gezondheids- en welzijnswet voor dieren: artikel 120b, eerste lid  Instellingswet Autoriteit Consument en Markt  Invoerings- en aanpassingswet Pensioenwet   Loodsenwet, met uitzondering van de artikelen 21, derde lid, 27b, vierde lid, 27d, 27e, 27f, 27h en 27l Mededingingswet Muntwet 2002: artikel 11, eerste en tweede lid Pensioenwet   Postwet 2009, met uitzondering van hoofdstuk 3A en artikel 58  Sanctiewet 1977 Spoorwegwet, met uitzondering van de artikelen 19 en 71, derde lid Tabakswet   Telecommunicatiewet, met uitzondering van: 
 
 a. artikel 3.4, eerste lid, onderdeel b, voor zover het betreft een aanwijzing  
 

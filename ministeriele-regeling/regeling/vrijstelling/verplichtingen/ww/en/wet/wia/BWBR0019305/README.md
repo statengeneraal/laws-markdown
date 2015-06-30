@@ -12,15 +12,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-*mantelzorg*: noodzakelijke zorg voor een zieke of gehandicapte;
-
 *resterende verdiencapaciteit*: de resterende verdiencapaciteit, bedoeld in paragraaf 7.2 van de Wet WIA;
 
 *uitkeringsgerechtigde*: de verzekerde die zijn resterende verdiencapaciteit als bedoeld in paragraaf 7.2 van de Wet WIA niet volledig benut, de werknemer, de IOW-gerechtigde, of de persoon die ziekengeld ontvangt op grond van de ZW;
 
 *verzekerde*: de verzekerde, bedoeld in de Wet WIA, die recht heeft op een WGA-uitkering;
-
-*vrijwilligerswerk*: onbetaalde en onverplichte activiteiten binnen een organisatie die een ideële doelstelling heeft of een maatschappelijk nut nastreeft, welke activiteiten doorgaans een aanvullend karakter hebben op bestaande maatschappelijke voorzieningen;
 
 *werknemer*: de werknemer, bedoeld in hoofdstuk 1, paragraaf 2, van de WW, die recht heeft op een WW-uitkering;
 
@@ -100,6 +96,17 @@ b. niet verklaard heeft vakantie te genieten, maar daar, gelet op de feitelijke 
 ####Vrijstelling Wajongers tijdens studie of scholing
 
 De artikelen 2:31, eerste lid, tweede lid, onderdelen b en c, en derde lid, 2:32 en 2:39, tweede, derde en vierde lid, van de Wajong zijn niet van toepassing op de jonggehandicapte, bedoeld in artikel 2:43, eerste lid, van de Wajong, tot twee maanden voor het beëindigen van de studie of scholing in verband waarmee hij inkomensondersteuning als bedoeld in artikel 2:37 ontvangt. 
+
+### Artikel  6b  
+
+####Vrijstelling in verband met een werkweek met evenveel uren als het gemiddeld aantal arbeidsuren
+
+1.  Van de verplichtingen, bedoeld in artikel 24, eerste lid, onderdeel b, onder 1°, 2° en 4°, van de WW, is de werknemer drie maanden vrijgesteld indien hij evenveel: 
+
+a. arbeidsuren als bedoeld in artikel 1a van de WW, per week heeft; of  
+
+b. uren per week heeft waarover hij de hoedanigheid van werknemer verliest of heeft verloren als bedoeld in artikel 1b, vijfde lid, of artikel 8, vierde lid, van de WW, als het gemiddeld aantal arbeidsuren als bedoeld in artikel 16, tweede lid van de WW en verwacht wordt dat deze werkzaamheden gedurende ten minste drie maanden zullen plaatsvinden.     
+2.  De vrijstelling wordt slechts eenmaal verleend gedurende een WW-recht.  
 
 ### Artikel  7  
 

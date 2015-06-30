@@ -74,7 +74,7 @@ De onderdelen van het beheerplan, bedoeld in artikel 17b, eerste lid, van de wet
 
 a. de maatregelen die de beheerder gedurende de eerstvolgende subsidieperiode zal nemen ingevolge veiligheids- en milieuregelgeving en het daarop gebaseerde overheidsbeleid, voor zover deze ruimte bieden voor nadere uitwerking door de beheerder;  
 
-b. de prestatie-indicatoren, bedoeld in artikel 17, eerste lid, van de wet, alsmede de uitwerking daarvan door de beheerder in nadere prestatie-indicatoren, die de beheerder gedurende de eerstvolgende subsidieperiode zal hanteren;  
+b. de prestaties, bedoeld in artikel 17, eerste lid, van de wet, alsmede de uitwerking daarvan door de beheerder in prestatie-indicatoren, die de beheerder gedurende de eerstvolgende subsidieperiode zal hanteren;  
 
 c. de grenswaarde die de beheerder voor de uitwerking van de prestatie-indicatoren, bedoeld in onderdeel b, zal hanteren;  
 

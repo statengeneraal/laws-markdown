@@ -10,7 +10,7 @@ Besluit:
 
 ####Buiten toepassing verklaring maximale herlevingstermijn
 
-De termijn van zes maanden, bedoeld in artikel 21, derde lid, van de Werkloosheidswet blijft buiten toepassing ten aanzien van de werknemer, bedoeld in de artikelen 7 en 8, eerste lid, van de Regeling vrijstelling verplichtingen sociale zekerheidswetten. 
+De termijn van zes maanden, bedoeld in artikel 21, derde lid, van de Werkloosheidswet blijft buiten toepassing ten aanzien van de werknemer, bedoeld in artikel 7 van de Regeling vrijstelling verplichtingen sociale zekerheidswetten. 
 
 ### Artikel  2  
 

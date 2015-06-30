@@ -30,7 +30,6 @@ Wijzigt de Algemene wet bestuursrecht.
 Wijzigt de Beginselenwet justitiële jeugdinrichtingen. 
 
 ### Artikel  V  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt de Belastingwet BES. 
 
@@ -199,17 +198,14 @@ Wijzigt de Wet op het voortgezet onderwijs.
 Wijzigt de Wet rechtspositie rechterlijke ambtenaren. 
 
 ### Artikel  XLII  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt de Wet houdende aanwijzing van een rechter op grond van artikel 54 van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten. 
 
 ### Artikel  XLIII  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt de Wet gedwongen tenuitvoerlegging van uitspraken en beschikkingen ingevolge Verdrag tot oprichting van de Europese Gemeenschappen voor kolen en staal. 
 
 ### Artikel  XLIV  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt de Wet vaststelling van regelen betreffende de gedwongen tenuitvoerlegging van uitspraken van het Benelux-Gerechtshof. 
 

@@ -79,6 +79,11 @@ d. het uitzenden, het heruitzenden, het beschikbaar stellen voor het publiek of 
 1.  Indien een uitvoerende kunstenaar het verhuurrecht, bedoeld in artikel 2, eerste lid, onder *c* , met betrekking tot een op een fonogram opgenomen uitvoering heeft overgedragen aan de producent daarvan, is de producent de uitvoerende kunstenaar een billijke vergoeding verschuldigd voor de verhuur.   
 2.   Van het in het eerste lid bedoelde recht op een billijke vergoeding kan geen afstand worden gedaan.  
 
+### Artikel  2b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Hoofdstuk 1a van de Auteurswet is van overeenkomstige toepassing op de uitvoerende kunstenaar.
+
 ### Artikel  3  
 
 De werkgever is bevoegd de rechten van de uitvoerende kunstenaar, bedoeld in artikel 2, te exploiteren, voor zover dit tussen partijen is overeengekomen dan wel voortvloeit uit de aard van de tussen hen gesloten arbeidsovereenkomst, de gewoonte of de eisen van redelijkheid en billijkheid. Tenzij anders is overeengekomen of uit de aard van de overeenkomst, de gewoonte of de eisen van redelijkheid en billijkheid anders voortvloeit, is de werkgever aan de uitvoerende kunstenaar of zijn rechtverkrijgende een billijke vergoeding verschuldigd voor iedere vorm van exploitatie van diens rechten. De werkgever eerbiedigt de in artikel 5 bedoelde rechten van de uitvoerende kunstenaar. 

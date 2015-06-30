@@ -4780,7 +4780,7 @@ De tenuitvoerlegging van rechterlijke beslissingen geschiedt op last van het ope
 
 ### Artikel  606  
 
-1.  De benadeelde partij, die zich in het geding over de strafzaak gevoegd heeft, doet zelf het vonnis, voor zover haar vordering aangaat, tenuitvoerleggen, op de wijze bepaald voor vonnissen in burgerlijke zaken. Indien het een mondeling vonnis geldt, geschiedt de tenuitvoerlegging uit kracht van een mededeling van de griffier, houdende afschrift van de aantekening van het vonnis, vermeldende de benadeelde partij, degene tegen wie en de rechter door wie het vonnis is gewezen, en dragende aan het hoofd de woorden: «In naam des Konings».   
+1.  De benadeelde partij, die zich in het geding over de strafzaak gevoegd heeft, doet zelf het vonnis, voor zover haar vordering aangaat, tenuitvoerleggen, op de wijze bepaald voor vonnissen in burgerlijke zaken. Indien het een mondeling vonnis geldt, geschiedt de tenuitvoerlegging uit kracht van een mededeling van de griffier, houdende afschrift van de aantekening van het vonnis, vermeldende de benadeelde partij, degene tegen wie en de rechter door wie het vonnis is gewezen, en dragende aan het hoofd de woorden: «In naam van de Koning».   
 2.  Allen die ter zake van hetzelfde strafbare feit bij hetzelfde vonnis veroordeeld zijn tot schadevergoeding aan de benadeelde partij, zijn hoofdelijk daarvoor aansprakelijk.  
 
 ### Artikel  607  

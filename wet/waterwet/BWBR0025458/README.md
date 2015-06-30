@@ -766,6 +766,10 @@ b. grondwater te onttrekken of water te infiltreren in andere gevallen dan als b
 
 c. gebruik te maken van een waterstaatswerk of een daartoe behorende beschermingszone door, anders dan in overeenstemming met de functie, daarin, daarop, daarboven, daarover of daaronder werkzaamheden te verrichten, werken te maken of te behouden, dan wel vaste substanties of voorwerpen te storten, te plaatsen of neer te leggen, of deze te laten staan of liggen.   
 
+### Artikel  6.5a  
+
+Een verbod bij of krachtens algemene maatregel van bestuur als bedoeld in artikel 6.5, aanhef en onderdeel c, is niet van toepassing op windparken waarop de Wet windenergie op zee van toepassing is. 
+
 ### Artikel  6.6  
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het verrichten van handelingen als bedoeld in de artikelen 6.2 tot en met 6.5, met dien verstande dat voor regionale wateren, voor zover het handelingen als bedoeld in artikel 6.4 of 6.5 betreft, slechts regels worden gesteld met het oog op internationale verplichtingen of bovenregionale belangen.   
@@ -1206,7 +1210,7 @@ a. aanleg, verbetering, beheer, onderhoud en bediening van waterstaatswerken die
 b. maatregelen en voorzieningen ter bescherming of verbetering van de chemische of ecologische kwaliteit van watersystemen;  
 
 c. met de onderdelen a en b samenhangende onderzoeken.     
-3.  Op subsidies die ten laste komen van het deltafonds zijn de artikelen 3 tot en met 6 van de Kaderwet subsidies Verkeer en Waterstaat van toepassing.   
+3.  Op subsidies die ten laste komen van het deltafonds zijn de artikelen 2 en 4 tot en met 7 van de Kaderwet subsidies I en M van toepassing.   
 4.  Subsidies als bedoeld in het tweede lid die worden verleend ten laste van een begroting die nog niet is vastgesteld, worden verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht.   
 5.  Ten laste van het deltafonds kunnen eveneens uitgaven worden gebracht ten behoeve van maatregelen en voorzieningen als bedoeld in artikel 7.22a, tweede lid, onderdelen a en b, alsmede ten behoeve van het inwinnen, verspreiden en bewerken van gegevens en het doen van onderzoek als bedoeld in artikel 7.22a, tweede lid, onderdeel c, met betrekking tot buiten het Nederlandse grondgebied gelegen delen van de stroomgebieddistricten Eems, Maas, Rijn en Schelde.   
 6.  Ten laste van het deltafonds komen tevens uitgaven ten behoeve van het bureau ter ondersteuning van de werkzaamheden van de deltacommissaris, de huisvestingskosten van het bureau en verdere aan de taakvervulling van de deltacommissaris verbonden uitgaven.   
@@ -1221,7 +1225,7 @@ c. met de onderdelen a en b samenhangende onderzoeken.
 
 1.  Onze Minister verleent op aanvraag een subsidie aan de beheerder die vanwege wijziging van de krachtens artikel 2.2, 2.3 of 2.12, vierde lid, gestelde regels maatregelen dient te treffen, indien de desbetreffende maatregelen voor het kalenderjaar waarin de subsidie wordt verstrekt zijn opgenomen in een jaarlijks door Onze Minister vast te stellen programma.   
 2.  De subsidie, bedoeld in het eerste lid, wordt verleend voor negentig procent van de geraamde kosten van een sober en doelmatig ontwerp van de maatregelen. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de kostenraming en de subsidiabele kosten.   
-3.  De artikelen 3 tot en met 6 van de Kaderwet subsidies Verkeer en Waterstaat zijn van toepassing.  
+3.  De artikelen 2 en 4 tot en met 7 van de Kaderwet subsidies I en M zijn van toepassing.  
 4. Bij de voorbereiding van het programma, bedoeld in het eerste lid, en van de regeling, bedoeld in het tweede lid, worden de besturen van de waterschappen gehoord.
 5. Bij algemene maatregel van bestuur worden de maatregelen aangewezen waarvoor in afwijking van het tweede lid subsidie wordt verleend voor honderd procent van de kosten van uitvoering. Daarbij worden de aard en omvang van deze maatregelen aangeduid en de locaties en de betrokken beheerders vermeld.
 
@@ -1361,7 +1365,7 @@ E. M. H. Hirsch Ballin
 
 ####Dijkringen en primaire waterkeringen als bedoeld in artikel 1.3, eerste lid 
 
-![244196](http://wetten.overheid.nl/Illustration/244196)
+![255083](http://wetten.overheid.nl/Illustration/255083)
 
 ### Bijlage  IA  
 

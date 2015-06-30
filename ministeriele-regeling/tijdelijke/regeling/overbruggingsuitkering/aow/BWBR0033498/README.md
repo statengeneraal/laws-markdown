@@ -49,7 +49,7 @@ c. buitengewoon pensioen als bedoeld in de Wet buitengewoon pensioen 1940-1945, 
 
 d. een uitkering als bedoeld in de Wet uitkeringen vervolgingsslachtoffers 1940-1945 en de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945 met uitzondering van toeslagen als bedoeld in artikel 21b van de Wet uitkeringen vervolgingsslachtoffers 1940-1945 zoals dat luidde tot 1 januari 1992, alsmede toeslagen als bedoeld in artikel 19 van de Wet uitkeringen burgeroorlogsslachtoffers 1940-1945;  
 
-e. een uitkering op grond van een regeling als bedoeld in artikel 5 voor zover niet begrepen onder inkomen als bedoeld in de onderdelen a tot en met d.     
+e. een uitkering op grond van een regeling als bedoeld in artikel 5 voor zover niet begrepen onder inkomen als bedoeld in de onderdelen a tot en met d, tenzij het betreft de uitbetaalde afkoopwaarde van een klein pensioen als bedoeld in artikel 66 van de Pensioenwet en artikel 78 van de Wet verplichte beroepspensioenregeling.     
 2.  De artikelen 2:5,  2:7, eerste lid, aanhef en onderdelen b en c, 4:1 en 4:3 van het Algemeen inkomensbesluit socialezekerheidswetten zijn van overeenkomstige toepassing.  
 
 ### Artikel  3  
@@ -79,16 +79,17 @@ d. een bedrag van € 118.771,00 ten behoeve van aanvullende pensioenvoorzienin
 
 ####Recht op overbruggingsuitkering
 
-1.  Recht op een overbruggingsuitkering heeft de persoon die is verzekerd of verzekerd is geweest op grond van de artikelen 6 en 6a van de AOW, alsmede de persoon, bedoeld in artikel 48, eerste lid, van de AOW, of de persoon, bedoeld in de regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Financiën van 23 april 1985, nr. SZ/SV/VV/85/914, houdende spaarregeling gemoedsbezwaarden ex artikel 48 AOW (Stcrt. 87), indien hij: 
+1.  Recht op een overbruggingsuitkering heeft de persoon die minimaal één kalenderjaar vóór het bereiken van de leeftijd van 65 jaar is verzekerd of verzekerd is geweest op grond van de artikelen 6 en 6a van de AOW, alsmede de persoon, bedoeld in artikel 48, eerste lid, van de AOW, of de persoon, bedoeld in de regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Financiën van 23 april 1985, nr. SZ/SV/VV/85/914, houdende spaarregeling gemoedsbezwaarden ex artikel 48 AOW (Stcrt. 87), indien hij: 
 
 a. op of na 1 januari 2013 de leeftijd van 65 jaar bereikt en op die dag of de eerste dag van de maand voor of na die dag als gevolg van een in een regeling als bedoeld in artikel 5 genoemde leeftijdsgrens van 65 jaar, geen recht meer heeft, of een lager recht heeft op een op 1 januari 2013 reeds lopende uitkering op grond van een regeling als bedoeld in artikel 5 dan wel na het bereiken van de volledige duur daarvan, een daarop aansluitende uitkering of uitkeringen op grond van een regeling als bedoeld in artikel 5;  
 
 b. over de zesde kalendermaand voorafgaande aan de maand waarin hij de leeftijd van 65 jaar bereikt een inkomen heeft dat gelijk is aan of lager dan 200% van het bruto-minimumloon, of indien hij een echtgenoot heeft, tezamen met die echtgenoot een gezamenlijk inkomen heeft dat gelijk is aan of lager is dan 300% van het bruto-minimumloon, en  
 
 c. op 1 januari van het jaar waarin hij de leeftijd van 65 jaar bereikt een vermogen heeft dat niet meer bedraagt dan het bedrag, genoemd in artikel 5.5 van de Wet inkomstenbelasting 2001 of indien hij een echtgenoot heeft, tezamen met die echtgenoot een gezamenlijk vermogen heeft dat niet meer bedraagt dan tweemaal dat bedrag.     
-2.  In afwijking van artikel 2 worden voor de toepassing van het eerste lid, onderdeel b, niet als inkomen aangemerkt een eenmalige uitkering, een eenmalige tegemoetkoming of een eenmalige vergoeding.   
-3.  Voor een persoon die de leeftijd van 65 jaar bereikt in de periode die aanvangt op 1 januari 2013 en eindigt voor 1 juli 2013, wiens uitkering op grond van een regeling als bedoeld in artikel 5 ingaat vóór of op 1 januari 2013 maar in of na de zesde kalendermaand voorafgaand aan de maand waarin de persoon de leeftijd van 65 jaar bereikt, wordt in afwijking van het eerste lid, onderdeel b, het inkomen van de persoon en zijn echtgenoot in aanmerking genomen over de kalendermaand volgend op de maand waarin het recht op een uitkering op grond van die regeling ingaat.   
-4.  De SVB stelt op verzoek het inkomen, bedoeld in het eerste lid, onderdeel b, vast op het gemiddelde inkomen per maand, gerekend over een periode van de twaalfde tot de zesde kalendermaand voorafgaand aan de maand waarin de leeftijd van 65 jaar wordt bereikt.  
+2.  In afwijking van artikel 2 worden voor de toepassing van het eerste lid, onderdeel b, niet als inkomen aangemerkt een eenmalige uitkering, een eenmalige tegemoetkoming of een eenmalige vergoeding.  
+3. Gedeelten van kalenderjaren, na het bereiken van de aanvangsleeftijd, doch vóór het bereiken van de leeftijd van 65 jaar, waarvoor rechthebbende verzekerd is geweest, worden voor de vaststelling of de rechthebbende minimaal één kalenderjaar verzekerd is geweest als bedoeld in het eerste lid, aanhef, samengesteld en herleid tot gehele kalenderjaren. Artikel 1, derde lid, van de Regeling herleiding gedeelten van kalenderjaren en jaarpremies is van overeenkomstige toepassing. 
+4.  Voor een persoon die de leeftijd van 65 jaar bereikt in de periode die aanvangt op 1 januari 2013 en eindigt voor 1 juli 2013, wiens uitkering op grond van een regeling als bedoeld in artikel 5 ingaat vóór of op 1 januari 2013 maar in of na de zesde kalendermaand voorafgaand aan de maand waarin de persoon de leeftijd van 65 jaar bereikt, wordt in afwijking van het eerste lid, onderdeel b, het inkomen van de persoon en zijn echtgenoot in aanmerking genomen over de kalendermaand volgend op de maand waarin het recht op een uitkering op grond van die regeling ingaat.   
+5.  De SVB stelt op verzoek het inkomen, bedoeld in het eerste lid, onderdeel b, vast op het gemiddelde inkomen per maand, gerekend over een periode van de twaalfde tot de zesde kalendermaand voorafgaand aan de maand waarin de leeftijd van 65 jaar wordt bereikt.  
 
 ### Artikel  5  
 

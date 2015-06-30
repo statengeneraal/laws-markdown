@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 30 juni 2014, 2014-0000087456, ter stimulering van activiteiten die een duurzame bijdrage leveren aan het tegengaan van armoede- en schuldenproblematiek
 
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 3, eerste lid](../../../../../../../../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md), en [5 van de Kaderwet SZW-subsidies](../../../../../../../../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md);
+Gelet op de artikelen 3, eerste lid, en 5 van de Kaderwet SZW-subsidies;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -41,7 +41,7 @@ De minister stelt in de jaren 2014 en 2015 middelen beschikbaar ten behoeve van 
 
 ### Artikel  3  
 
-Op deze regeling is de [Algemene regeling SZW-subsidies](../../../../../../../../../../../../ministeriele-regeling/algemene/regeling/szw-subsidies/BWBR0009211/README.md) van toepassing voor zover daar in deze regeling niet van wordt afgeweken. 
+Op deze regeling is de Algemene regeling SZW-subsidies van toepassing voor zover daar in deze regeling niet van wordt afgeweken. 
 
 ### Artikel  4  
 
@@ -59,11 +59,11 @@ b. voor aanvragen, ingediend in 2015: € 4.000.000,–.
 ### Artikel  5  
 
 1.  Voor het bepalen van het bereiken van het subsidieplafond worden de subsidieaanvragen op volgorde van binnenkomst behandeld, waarbij alleen een volledige subsidieaanvraag in behandeling wordt genomen.   
-2.  Wanneer de aanvrager op grond van [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in de gelegenheid is gesteld om zijn aanvraag aan te vullen, geldt als datum van binnenkomst en behandeling de datum van ontvangst van de volledige subsidieaanvraag.  
+2.  Wanneer de aanvrager op grond van artikel 4:5 van de Algemene wet bestuursrecht in de gelegenheid is gesteld om zijn aanvraag aan te vullen, geldt als datum van binnenkomst en behandeling de datum van ontvangst van de volledige subsidieaanvraag.  
 
 ### Artikel  6  
 
-1.  Aan de directeur van de directie Re-integratie en Participatie van het Ministerie van Sociale Zaken en Werkgelegenheid wordt mandaat verleend tot het nemen van besluiten met betrekking tot de uitvoering van deze regeling, waaronder begrepen: 
+1.  Aan de directeur van de directie Participatie en Decentrale Voorzieningen van het Ministerie van Sociale Zaken en Werkgelegenheid wordt mandaat verleend tot het nemen van besluiten met betrekking tot de uitvoering van deze regeling, waaronder begrepen: 
 
 a. het verlenen van de subsidies;  
 
@@ -72,7 +72,7 @@ b. het wijzigen van de subsidies;
 c. het vaststellen van de subsidies; en  
 
 d. het intrekken van de beschikking tot subsidieverlening.     
-2.  De directeur van de directie Re-integratie en Participatie kan de bevoegdheid, bedoeld in het eerste lid, onderdelen a, b, c, en d, in een door hem te bepalen omvang mandateren aan onder hem ressorterende functionarissen.  
+2.  De directeur van de directie Participatie en Decentrale Voorzieningen kan de bevoegdheid, bedoeld in het eerste lid, onderdelen a, b, c, en d, in een door hem te bepalen omvang mandateren aan onder hem ressorterende functionarissen.  
 
 ### Hoofdstuk  2  
 
@@ -196,7 +196,7 @@ Voor zover de uitvoering van het projectplan een periode beslaat die langer is d
 
 ### Artikel  17  
 
-1.  Onverminderd het bepaalde in [artikel 4:48 van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de beschikking tot subsidieverlening geheel worden ingetrokken indien: 
+1.  Onverminderd het bepaalde in artikel 4:48 van de Algemene wet bestuursrecht kan de beschikking tot subsidieverlening geheel worden ingetrokken indien: 
 
 a. de subsidie niet is besteed aan de in de beschikking tot subsidieverlening toegekende subsidiabele kosten, of  
 

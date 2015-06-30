@@ -963,7 +963,7 @@ c. de Wet milieubeheer, ten aanzien van gevaarlijke afvalstoffen,
 
 d. de Wet ruimtelijke ordening en  
 
-e. de hoofdstukken I tot en met IV van de Woningwet,   zijn bevoegd, met medeneming van de benodigde apparatuur, een woning te betreden zonder toestemming van de bewoner. 
+e. de hoofdstukken I tot en met III van de Woningwet,   zijn bevoegd, met medeneming van de benodigde apparatuur, een woning te betreden zonder toestemming van de bewoner. 
 
 ### §  5.4  
 
@@ -1182,7 +1182,8 @@ b. voor zover de voorbereiding van de beschikking betrekking heeft op een activi
 
 1.  Deze wet is, voor zover deze betrekking heeft op activiteiten als bedoeld in artikel 2.1, eerste lid, onder e, niet van toepassing op inrichtingen waarvoor een vergunning is vereist krachtens artikel 15, onder b, van de Kernenergiewet, behoudens voor zover uit de bepalingen van die wet anders blijkt. Deze wet is evenmin van toepassing op inrichtingen, voor zover daarvoor bij of krachtens andere dan in de eerste volzin genoemde bepalingen van die wet vergunning is vereist of algemene voorschriften gelden, behoudens voor zover uit de bij of krachtens die wet gestelde bepalingen anders blijkt.   
 2.  Deze wet is, voor zover deze betrekking heeft op activiteiten als bedoeld in artikel 2.1, eerste lid, onder e, niet van toepassing op inrichtingen of mijnbouwwerken, voor zover daarvoor een vergunning is vereist of algemene voorschriften gelden krachtens de artikelen 3.1, 3.3 tot en met 3.6, 6.4 en 7.1 van de Wet dieren met betrekking tot dierlijke bijproducten of de Waterwet, behoudens voor zover uit de bepalingen van die wetten anders blijkt.  
-3.  Deze wet is, voor zover deze betrekking heeft op activiteiten als bedoeld in artikel 2.1, eerste lid, onder e, niet van toepassing op inrichtingen waarin van buiten de inrichting afkomstige dierlijke meststoffen in de zin van de Meststoffenwet worden bewaard, bewerkt, verwerkt of vernietigd, voor zover het een doelmatig beheer van die stoffen betreft.  
+3.  Deze wet is, voor zover deze betrekking heeft op activiteiten als bedoeld in artikel 2.1, eerste lid, onder e, niet van toepassing op inrichtingen waarin van buiten de inrichting afkomstige dierlijke meststoffen in de zin van de Meststoffenwet worden bewaard, bewerkt, verwerkt of vernietigd, voor zover het een doelmatig beheer van die stoffen betreft.   
+4.  Deze wet is niet van toepassing op activiteiten als bedoeld in artikel 2.1 met betrekking tot windparken in de territoriale zee op een plaats die niet deel uitmaakt van een gemeente of een provincie en waarop de Wet windenergie op zee op van toepassing is. 
 
 ### Artikel  8.4  
 

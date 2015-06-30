@@ -201,10 +201,10 @@ Het in artikel 19, tweede, vierde en vijfde lid en het in artikel 20, derde en v
 
 ####De inhoud van den legger
 
-###Artikel 27 
+### Artikel  27  
 
-1. In iedere gemeente wordt van de buiten de bebouwde kom, of kommen gelegen wegen alsmede van de toegangswegen naar stations als bedoeld in artikel 26, tweede lid, van de Spoorwegwet, ook al zijn deze binnen een bebouwde kom gelegen, een legger opgemaakt.
-2.  Gedeputeerde Staten stellen vast, welke voor de toepassing van deze wet de grenzen van de bebouwde kom of kommen der gemeente zijn.
+1.  In iedere gemeente wordt van de buiten de bebouwde kom, of kommen gelegen wegen alsmede van de toegangswegen naar stations als bedoeld in artikel 26, derde lid, van de Spoorwegwet, ook al zijn deze binnen een bebouwde kom gelegen, een legger opgemaakt.   
+2.   Gedeputeerde Staten stellen vast, welke voor de toepassing van deze wet de grenzen van de bebouwde kom of kommen der gemeente zijn.  
 
 ###Artikel 28 
 

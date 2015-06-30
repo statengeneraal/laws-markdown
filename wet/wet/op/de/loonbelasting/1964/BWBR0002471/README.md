@@ -297,7 +297,9 @@ r. aanspraken:
 
 3°. op verlof tijdens rust- en feestdagen.    
 
-s. hetgeen wordt genoten ter zake van het verrichten van arbeid in de onderneming van de partner van de werknemer, indien bij het bepalen van de winst uit die onderneming de kosten en lasten die verband houden met de vergoeding voor die arbeid op grond van artikel 3.16, vierde lid, van de Wet inkomstenbelasting 2001 niet in aftrek komen.     
+s. hetgeen wordt genoten ter zake van het verrichten van arbeid in de onderneming van de partner van de werknemer, indien bij het bepalen van de winst uit die onderneming de kosten en lasten die verband houden met de vergoeding voor die arbeid op grond van artikel 3.16, vierde lid, van de Wet inkomstenbelasting 2001 niet in aftrek komen;  
+
+t. aanspraken op een transitievergoeding als bedoeld in de artikelen 673 en 673a van Boek 7 van het Burgerlijk Wetboek.    
 2.  Bij of krachtens ministeriële regeling kan, in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, worden bepaald dat eveneens niet tot het loon behoren andere aanspraken dan bedoeld in het eerste lid, indien zulks tot vergemakkelijking van de heffing van de belasting kan leiden.    
 3.  Voorzover de aanspraken op vakantieverlof en compensatieverlof aan het einde van het kalenderjaar in totaal de in het eerste lid, onderdeel r, onder 1°, opgenomen begrenzingen overschrijden, wordt het meerdere geacht te zijn genoten bij het einde van het kalenderjaar of het einde van de dienstbetrekking zo deze in de loop van het kalenderjaar eindigt.  
 

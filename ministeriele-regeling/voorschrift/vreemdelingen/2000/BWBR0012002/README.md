@@ -433,11 +433,10 @@ d. de overige staten die op de landenlijst van het KNCV Tuberculosefonds zijn ui
 
 ### Artikel  3.19  
 
-1.  Voor alleenstaanden in de zin van artikel 4, onderdeel a, van de Participatiewet zijn de in artikel 16, eerste lid, onder c, van de Wet bedoelde middelen van bestaan in ieder geval voldoende, indien de som van het loon, bedoeld in artikel 16 van de Wet financiering sociale verzekeringen, uit arbeid in loondienst, het bruto inkomen uit een inkomensvervangende uitkering krachtens een socialeverzekeringswet waarvoor premies zijn afgedragen, de bruto-winst uit arbeid als zelfstandige en het inkomen uit eigen vermogen ten minste gelijk is aan 70 procent van het minimumloon, bedoeld in de artikelen 8, eerste lid, onder a, en 14, van de Wet minimumloon en minimumvakantiebijslag, met inbegrip van de vakantiebijslag, bedoeld in artikel 15 van die wet.   
-2.  Voor alleenstaande ouders in de zin van artikel 4, onderdeel b, van de Participatiewet zijn de in artikel 16, eerste lid, onder c, van de Wet bedoelde middelen van bestaan in ieder geval voldoende, indien de in het eerste lid bedoelde som ten minste gelijk is aan 90 procent van het in het eerste lid bedoelde minimumloon.   
-3.  Voor degene die het verblijf in Nederland financiert van een vreemdeling die in Nederland verblijft of wil verblijven in het kader van uitwisseling, voor zover de vreemdeling als au pair verblijft of wil verblijven of van medische behandeling, zijn de middelen van bestaan in ieder geval voldoende, indien de in het eerste lid bedoelde som ten minste gelijk is aan het in het eerste of tweede lid of artikel 3.74, eerste lid, onderdeel a, van het Besluit bedoelde bedrag voor de categorie waartoe die persoon behoort, aangevuld met 50 procent van het in het eerste lid bedoelde minimumloon.   
-4.  Voor degene die het verblijf in Nederland financiert van een vreemdeling die in Nederland verblijft of wil verblijven in het kader van studie, zijn de middelen van bestaan voldoende, indien de in het eerste lid bedoelde som ten minste gelijk is aan het normbedrag voor uitwonende studenten, bedoeld in de Wet op de Studiefinanciering 2000, aangevuld met het eerste of tweede lid of artikel 3.74, eerste lid, onderdeel a, van het Besluit bedoelde bedrag voor de categorie waartoe de persoon behoort die het verblijf financiert.   
-5.  Voor degene die het verblijf in Nederland financiert van een vreemdeling die in Nederland verblijft of wil verblijven in het kader van medische behandeling en van zijn gezinsleden, zijn de middelen van bestaan in ieder geval voldoende, indien de in het eerste lid bedoelde som ten minste gelijk is aan het in het eerste of tweede lid of artikel 3.74, eerste lid, onderdeel a, van het Besluit bedoelde bedrag voor de categorie waartoe die persoon behoort, aangevuld met: 
+1.  Voor alleenstaanden in de zin van artikel 4, onderdeel a, van de Participatiewet en alleenstaande ouders in de zin van artikel 4, onderdeel b, van de Participatiewet zijn de in artikel 16, eerste lid, onder c, van de Wet bedoelde middelen van bestaan in ieder geval voldoende, indien de som van het loon, bedoeld in artikel 16 van de Wet financiering sociale verzekeringen, uit arbeid in loondienst, het bruto inkomen uit een inkomensvervangende uitkering krachtens een socialeverzekeringswet waarvoor premies zijn afgedragen, de bruto-winst uit arbeid als zelfstandige en het inkomen uit eigen vermogen ten minste gelijk is aan 70 procent van het minimumloon, bedoeld in de artikelen 8, eerste lid, onder a, en 14, van de Wet minimumloon en minimumvakantiebijslag, met inbegrip van de vakantiebijslag, bedoeld in artikel 15 van die wet.   
+2.  Voor degene die het verblijf in Nederland financiert van een vreemdeling die in Nederland verblijft of wil verblijven in het kader van uitwisseling, voor zover de vreemdeling als au pair verblijft of wil verblijven of van medische behandeling, zijn de middelen van bestaan in ieder geval voldoende, indien de in het eerste lid bedoelde som ten minste gelijk is aan het in het eerste lid of artikel 3.74, eerste lid, onderdeel a, van het Besluit bedoelde bedrag voor de categorie waartoe die persoon behoort, aangevuld met 50 procent van het in het eerste lid bedoelde minimumloon.   
+3.  Voor degene die het verblijf in Nederland financiert van een vreemdeling die in Nederland verblijft of wil verblijven in het kader van studie, zijn de middelen van bestaan voldoende, indien de in het eerste lid bedoelde som ten minste gelijk is aan het normbedrag voor uitwonende studenten, bedoeld in de Wet op de Studiefinanciering 2000, aangevuld met het eerste lid of artikel 3.74, eerste lid, onderdeel a, van het Besluit bedoelde bedrag voor de categorie waartoe de persoon behoort die het verblijf financiert.   
+4.  Voor degene die het verblijf in Nederland financiert van een vreemdeling die in Nederland verblijft of wil verblijven in het kader van medische behandeling en van zijn gezinsleden, zijn de middelen van bestaan in ieder geval voldoende, indien de in het eerste lid bedoelde som ten minste gelijk is aan het in het eerste lid of artikel 3.74, eerste lid, onderdeel a, van het Besluit bedoelde bedrag voor de categorie waartoe die persoon behoort, aangevuld met: 
 
 a. 90 procent van het in het eerste lid bedoelde minimumloon in het geval dat hij het verblijf van de vreemdeling die alleenstaande ouder is financiert of  
 
@@ -468,9 +467,11 @@ b. 100 procent in het geval dat de derde het verblijf van een gezin financiert.
 
 Als opleiding of studie, bedoeld in artikel 3.41, eerste lid, onder c, van het Besluit zijn aangewezen: 
 
-a. opleidingen die worden verzorgd in het kader van het ontwikkelingssamenwerkingsbeleid van het Ministerie van Buitenlandse Zaken, en  
+a. opleidingen die worden verzorgd in het kader van het ontwikkelingssamenwerkingsbeleid van het Ministerie van Buitenlandse Zaken;  
 
-b. opleidingsactiviteiten in het kader van de Wet op het specifiek cultuurbeleid.   
+b. opleidingsactiviteiten in het kader van de Wet op het specifiek cultuurbeleid, en  
+
+c. een opleiding aan een Academie voor Bouwkunst waarbij werkervaring en studie worden gecombineerd.  
 
 ### Artikel  3.22  
 
@@ -509,9 +510,11 @@ a. op welke wijze de vreemdeling gedurende het tijdelijk verblijf in Nederland k
 
 b. de wijze waarop de referent invulling geeft aan de zorgplicht;  
 
-c. de aard en omvang van de werkzaamheden die de vreemdeling gaat verrichten, en  
+c. de aard en omvang van de werkzaamheden die de vreemdeling gaat verrichten;  
 
-d. indien het een uitwisselingsprogramma voor au pairs betreft, dat de au pair en het gastgezin de dagindeling overeenkomen.     
+d. indien het een uitwisselingsprogramma voor au pairs betreft, dat de au pair en het gastgezin de dagindeling overeenkomen, en  
+
+e. indien het een uitwisselingsprogramma voor au pairs betreft, dat de au pair en het gastgezin de bewustverklaring ondertekenen. De bewustverklaring is opgenomen in bijlage 10a van deze regeling.    
 4.  Indien de vreemdeling de Zuid-Koreaanse nationaliteit heeft, wordt de aanvraag niet afgewezen op de grond, bedoeld in artikel 3.43, eerste lid, onder a, van het Besluit. 
 
 ### Artikel  3.24a  
@@ -926,7 +929,7 @@ c. de ambtenaren van de Dienst Vervoer en Ondersteuning die tevens zijn aangewez
 
 ### Artikel  4.1a  
 
-Met het toezicht op de naleving van de wettelijke voorschriften met betrekking tot referenten zijn belast de ambtenaren van de Klantdirecties Regulier Economisch en Regulier Sociaal en de Directie Specialistische Diensten van de Immigratie- en Naturalisatiedienst in de functie van: 
+1. Met het toezicht op de naleving van de wettelijke voorschriften met betrekking tot referenten zijn belast de ambtenaren van de Klantdirecties Regulier Economisch en Regulier Sociaal en de Directie Specialistische Diensten van de Immigratie- en Naturalisatiedienst in de functie van: 
 
 1. medewerker of senior medewerker behandelen en ontwikkelen;  
 
@@ -936,7 +939,8 @@ Met het toezicht op de naleving van de wettelijke voorschriften met betrekking t
 
 4. operationeel manager; en  
 
-5. middenmanager.   
+5. middenmanager.    
+2.  Bij de uitoefening van zijn taak draagt de ambtenaar, bedoeld in het eerste lid, een legitimatiebewijs als opgenomen in bijlage 12a, bij zich. 
 
 ### Artikel  4.2  
 
@@ -1069,7 +1073,7 @@ d. er geen aansluiting meer is bij een voor erkenning als referent verplicht ges
 
 1.  De referent van een vreemdeling, die in Nederland verblijft of wil verblijven in het kader van uitwisseling verstrekt inlichtingen over de vreemdeling wiens referent hij is indien: 
 
-a. de tussen het gastgezin en de au pair overeengekomen dagindeling niet wordt nageleefd of is gewijzigd;  
+a. de tussen het gastgezin en de au pair overeengekomen dagindeling niet wordt nageleefd of zodanig is gewijzigd dat niet meer wordt voldaan aan de voorwaarden, bedoeld in artikel 1j, eerste lid, aanhef en onderdeel a, onder 3 tot en met 5, van het Besluit uitvoering Wet arbeid vreemdelingen;  
 
 b. de vreemdeling arbeid in strijd met de Wet arbeid vreemdelingen verricht;  
 
@@ -1211,7 +1215,9 @@ a. de tussen de au pair en gastgezin overeengekomen dagindeling;
 
 b. de naam en het adres van de hoofdpersonen van alle gastgezinnen waarbij de vreemdeling verblijft of heeft verbleven, de periode waarin de vreemdeling bij deze gastgezinnen heeft verbleven en de gezinssamenstelling van deze gastgezinnen;  
 
-c. bewijsmiddelen waaruit blijkt dat het gastgezin, voor zover het een gastgezin van een au pair betreft, zelfstandig en duurzaam beschikt over voldoende duurzame middelen van bestaan.     
+c. bewijsmiddelen waaruit blijkt dat het gastgezin, voor zover het een gastgezin van een au pair betreft, zelfstandig en duurzaam beschikt over voldoende duurzame middelen van bestaan;  
+
+d. de door het gastgezin en au pair ondertekende bewustverklaring.    
 2.  De referent, bedoeld in het eerste lid, neemt met betrekking tot de nakoming van zijn verplichtingen als referent in de administratie op: 
 
 a. een overzicht, voorzien van data en handelingen, van de meldingen van de vreemdeling aan de referent over het gastgezin en de gevolgen die hij daaraan heeft verbonden;  
@@ -1494,7 +1500,7 @@ Indien de referent of gewezen referent niet aan de op hem ingevolge artikel 4.53
 
 ### Artikel  5.1  
 
-Indien de korpschef of de bevelhebber van de Koninklijke marechaussee de bevoegdheid, bedoeld in artikel 50, vierde lid, van de Wet, mandateert, doet hij dat niet dan aan een ambtenaar, belast met het toezicht op vreemdelingen, die tevens hulpofficier van justitie is.  
+Indien de korpschef of de bevelhebber van de Koninklijke marechaussee de bevoegdheid, bedoeld in artikel 50, vierde lid, van de Wet, mandateert, doet hij dat niet dan aan een ambtenaar, belast met het toezicht op vreemdelingen, die tevens hulpofficier van justitie is, of de ambtenaar van politie met ter zake voldoende kennis en kunde die daartoe is aangewezen door de korpschef. 
 
 ### Artikel  5.2  
 
@@ -1504,13 +1510,13 @@ Indien de korpschef of de bevelhebber van de Koninklijke marechaussee de bevoegd
 
 ### Artikel  5.3  
 
-1.  De maatregel, bedoeld in artikel 59 of 59a van de Wet, wordt opgelegd door de ambtenaar bedoeld in artikel 47, eerste lid, onder a en b, van de Wet die tevens hulpofficier van justitie is, of door de ambtenaar van de Dienst Terugkeer en Vertrek die daartoe is aangewezen door de Minister.   
-2.  De maatregel, bedoeld in artikel 59 of 59a van de Wet, wordt gewijzigd en opgeheven door de ambtenaar van Dienst Terugkeer en Vertrek, die daartoe bevoegd is, of door de ambtenaar bedoeld in artikel 47, eerste lid, onder a en b, van de Wet die tevens hulpofficier van justitie is.   
-3.  De maatregel, bedoeld in artikel 59, eerste lid, van de Wet, wordt verlengd als bedoeld in artikel 59, zesde lid, van de Wet, door de ambtenaar van de Dienst Terugkeer en Vertrek die daartoe bevoegd is, of door de ambtenaar, bedoeld in artikel 47, eerste lid, onder a of b, van de Wet, die tevens hulpofficier van justitie is. 
+1.  De maatregel, bedoeld in artikel 59 of 59a van de Wet, wordt opgelegd door de ambtenaar bedoeld in artikel 47, eerste lid, onder a en b, van de Wet, die tevens hulpofficier van justitie is, door de ambtenaar van politie met ter zake voldoende kennis en kunde die daartoe is aangewezen door de korpschef, of door de ambtenaar van de Dienst Terugkeer en Vertrek die daartoe is aangewezen door de Minister.   
+2.  De maatregel, bedoeld in artikel 59 of 59a van de Wet, wordt gewijzigd en opgeheven door de ambtenaar van Dienst Terugkeer en Vertrek, die daartoe bevoegd is, of door de ambtenaar bedoeld in artikel 47, eerste lid, onder a en b, van de Wet die tevens hulpofficier van justitie is of door de ambtenaar van politie met ter zake voldoende kennis en kunde die daartoe is aangewezen door de korpschef.   
+3.  De maatregel, bedoeld in artikel 59, eerste lid, van de Wet, wordt verlengd als bedoeld in artikel 59, zesde lid, van de Wet, door de ambtenaar van de Dienst Terugkeer en Vertrek die daartoe bevoegd is, of door de ambtenaar, bedoeld in artikel 47, eerste lid, onder a of b, van de Wet, die tevens hulpofficier van justitie is of door de ambtenaar van politie met ter zake voldoende kennis en kunde die daartoe is aangewezen door de korpschef. 
 
 ### Artikel  5.4  
 
-De ambtenaar van de Dienst Terugkeer en Vertrek en de hulpofficier van justitie die bevoegd is tot inbewaringstelling, zijn bevoegd tot het nemen van het besluit, bedoeld in artikel 5.5, eerste lid, van het Besluit en tot het doen van de kennisgeving, bedoeld in artikel 5.5, tweede lid, van het Besluit.
+De ambtenaar van de Dienst Terugkeer en Vertrek die bevoegd is tot inbewaringstelling en de hulpofficier van justitie of de ambtenaar van politie met ter zake voldoende kennis en kunde die die daartoe is aangewezen door de korpschef, zijn bevoegd tot het nemen van het besluit, bedoeld in artikel 5.5, eerste lid, van het Besluit en tot het doen van de kennisgeving, bedoeld in artikel 5.5, tweede lid, van het Besluit.
 
 ### Hoofdstuk 6  
 
@@ -1562,7 +1568,7 @@ De hoogte van de kosten van uitzetting worden vastgesteld aan de hand van de kos
 
 ### Artikel  6.5  
 
-1.  Het inreisverbod, bedoeld in artikel 66a van de Wet, wordt uitgevaardigd, gewijzigd of opgeheven door de daartoe bevoegde ambtenaar van de Immigratie- en Naturalisatiedienst, de daartoe bevoegde ambtenaar van de Dienst Terugkeer en Vertrek of de ambtenaar, bedoeld in artikel 47, eerste lid, onder a en b, van de Wet, die tevens hulpofficier van justitie is.   
+1.  Het inreisverbod, bedoeld in artikel 66a van de Wet, wordt uitgevaardigd, gewijzigd of opgeheven door de daartoe bevoegde ambtenaar van de Immigratie- en Naturalisatiedienst, de daartoe bevoegde ambtenaar van de Dienst Terugkeer en Vertrek of de ambtenaar, bedoeld in artikel 47, eerste lid, onder a en b, van de Wet, die tevens hulpofficier van justitie is, of door de ambtenaar van politie met ter zake voldoende kennis en kunde die daartoe is aangewezen door de korpschef.   
 2.  Het inreisverbod wordt uitgevaardigd, gewijzigd of opgeheven door de ambtenaar van de Immigratie- en Naturalisatiedienst die daartoe bevoegd is, indien daaraan de rechtgevolgen, bedoeld in artikel 66a, zevende lid, van de Wet, zijn verbonden.   
 3.  Indien het inreisverbod wordt uitgevaardigd, wordt in een taal die de vreemdeling begrijpt of redelijkerwijze geacht mag worden te begrijpen mondeling of schriftelijk op de inhoud en de rechtsgevolgen daarvan gewezen, en wordt de vreemdeling gewezen op de mogelijkheid daartegen rechtsmiddelen aan te wenden.  
 
@@ -1638,7 +1644,7 @@ a. de toegang tot de gegevens in het persoonsgebonden dossier en het geautomatis
 b. de verantwoordelijke stelt een Functionaris voor de Gegevensbescherming aan, die toeziet op de naleving van de Wet bescherming persoonsgegevens;  
 
 c. de verantwoordelijke verricht integriteits- en kwaliteitsaudits ten aanzien van de verwerking van de persoonsgegevens en rapporteert deze aan de Functionaris voor de Gegevensbescherming.   
-2. De vernietiging van de gezichtsopnames en vingerafdrukken na afloop van de bewaartermijn, bedoeld in artikel 8.35 van het Besluit, en de verwijdering en de vernietiging van de gezichtsopname en vingerafdrukken op verzoek van de vreemdeling, op grond dat deze de hoedanigheid heeft gekregen van gemeenschapsonderdaan anders dan door verkrijging van het Nederlanderschap, geschiedt op de wijze als voorgeschreven in artikel 8 van de WPB-regeling Basisvoorziening vreemdelingen en paragraaf 8.2 van het Protocol Identificatie en Labeling.
+2. De vernietiging van de gezichtsopnames en vingerafdrukken na afloop van de bewaartermijn, bedoeld in artikel 8.35 van het Besluit, en de verwijdering en de vernietiging van de gezichtsopname en vingerafdrukken op verzoek van de vreemdeling, op grond dat deze de hoedanigheid heeft gekregen van gemeenschapsonderdaan anders dan door verkrijging van het Nederlanderschap, geschiedt op de wijze als voorgeschreven in artikel 8 van de Wbp-regeling Basisvoorziening vreemdelingen en paragraaf 8.2 van het Protocol Identificatie en Labeling.
 
 ### Artikel  7.1e  
 
@@ -1791,8 +1797,9 @@ Als documenten, bedoeld in artikel 8.32, eerste lid, van het Besluit, zijn aange
 
 ### Artikel  7.1l  
 
-1.  Als gemachtigden, bedoeld in artikel 8.34, eerste lid, van het Besluit, zijn aangewezen de ambtenaren, bedoeld in artikel 9 van de WPB-regeling Basisvoorziening vreemdelingen.   
-2.  Als gemachtigden, bedoeld in artikel 8.34, derde lid, van het Besluit, zijn aangewezen de ambtenaar of medewerker van de ketenpartners, bedoeld in hoofdstuk 2.2 van het Protocol Identificatie en Labeling die uit hoofde van hun functie de verificatie van persoonsgegevens uitvoeren.  
+1.  Als gemachtigden, bedoeld in artikel 8.34, eerste lid, van het Besluit, zijn aangewezen de ambtenaren, bedoeld in artikel 9 van de Wbp-regeling Basisvoorziening vreemdelingen.   
+2.  Als gemachtigden, bedoeld in artikel 8.34, derde lid, van het Besluit, zijn aangewezen de ambtenaar of medewerker van de ketenpartners, bedoeld in hoofdstuk 2.2 van het Protocol Identificatie en Labeling die uit hoofde van hun functie de verificatie van persoonsgegevens uitvoeren.   
+3.  Ten behoeve van de verstrekking van gegevens uit de vreemdelingenadministratie, bedoeld in artikel 107 van de Wet, op basis van vergelijking van vingerafdruksporen met vingerafdrukken uit het biometrieregister in de vreemdelingenadministratie, zijn slechts de ambtenaren van politie bevoegd die uit hoofde van hun functie als dactyloscopisch expert werkzaam of aangesteld zijn. 
 
 ### Artikel  7.2  
 
@@ -2122,9 +2129,9 @@ Lidstaten van de EU Lidstaten van de EER Australië Canada Japan Monaco Nieuw-Ze
 
 ###Bijlage 7g 
 
-####sticker Verblijfsaantekeningen Algemeen
+####sticker Verblijfsaantekening Algemeen
 
-![79873](http://wetten.overheid.nl/Illustration/79873)
+![255547](http://wetten.overheid.nl/Illustration/255547)
 
 ###Bijlage 7h 
 
@@ -2287,11 +2294,94 @@ Puntenstelsel:
 | --- | • Bachelor, Master of Doctorgraad behaald aan opleiding in land aangesloten bij Bolognaverklaring  | 5  | • Diploma  |
 | --- |  *Maximaal aantal punten*   |  *40*   | --- |
 
+### Bijlage 10a 
+
+####, behorend bij artikel 3.24, derde lid, onderdeel e , Voorschrift Vreemdelingen 2000
+
+###Bewustverklaring au pair
+
+####Inleiding
+
+Het doel van de au-pairregeling is dat de au pair in Nederland verblijft om kennis te maken met de Nederlandse cultuur en samenleving. Het gastgezin biedt de au pair kost en inwoning en een maandelijks onderling overeen te komen bedrag aan zakgeld. In ruil voor de faciliteiten die het gastgezin biedt, verleent de au pair hulp in de huishouding van alleen het gastgezin, en/of bij het opvangen en verzorgen van eventuele kinderen van dit gezin. Het gaat dan om lichte werkzaamheden in de huishouding en/of de opvang en verzorging van eventuele kinderen, niet om werk waarvoor een tewerkstellingsvergunning (twv) of gecombineerde vergunning voor verblijf en arbeid vereist is. Dit betekent dat de au pair alleen die werkzaamheden mag verrichten waarvoor in zijn/haar aanwezigheid steeds een aantoonbaar alternatief voorhanden is. Dat betekent dus dat een au pair niet alleen verantwoordelijk mag zijn voor de opvang van kinderen maar dat er bijvoorbeeld een ouder of grootouder aanwezig (of direct beschikbaar) is die verantwoordelijk is. Het ondersteunende karakter van het werk houdt tevens in dat de au pair niet volledig verantwoordelijk is voor de huishoudelijke taken. De au pair verblijft immers op basis van gelijkheid (met de gezinsleden) in het gastgezin.  *In dit kader verklaart de ondergetekende, verder te noemen gastgezin, als volgt:*  Het gastgezin is ermee bekend dat verblijf als au pair in Nederland slechts wordt toegestaan als: 
+
+* De au pair 18 jaar of ouder maar jonger dan 31 is.  
+
+* De au pair niet eerder in Nederland een verblijfsvergunning voor uitwisseling heeft gehad.  
+
+* De au pair nog niet eerder voor het gastgezin (in het buitenland) heeft gewerkt.  
+
+* De au pair geen geldbedrag als borg heeft betaald aan een (Nederlands of buitenlands) bemiddelingsbureau of au-pairbureau.  
+
+* De au pair niet meer dan € 34 heeft betaald aan kosten voor de voorbereiding op het verblijf in Nederland.  
+
+* De au pair geen contract met een gastgezin of een (Nederlands of buitenlands) bemiddelingsbureau of au-pairbureau heeft ondertekend waarmee de au pair zich verplicht tot het betalen van geld of een geldboete als sanctie wegens het niet nakomen van een of meerdere bepalingen van dit contract.  
+
+* De au pair geen taken gaat verrichten voor mensen die meer bijzondere zorg nodig hebben, die een specifieke vaardigheid vereist.  
+
+* De au pair geen familierechtelijke relatie tot in de derde graad heeft met een van de leden van het gastgezin.  
+
+* De au pair gaat wonen op het adres van het gastgezin en daarop ook ingeschreven staat in de Basisregistratie persoonsgegevens.  
+
+* Het gastgezin uit 2 of meer personen bestaat.  
+
+* De au pair maximaal 8 uur per dag en maximaal 30 uur per week lichte ondersteunende huishoudelijke werkzaamheden verricht. Daarnaast heeft de au pair minimaal 2 vrije dagen per week.  
+
+* De au pair alleen lichte ondersteunende huishoudelijke werkzaamheden verricht.  
+
+* Het gastgezin en de au pair een dagindeling maken voor alle 7 dagen van de week. Het gastgezin en de au pair hebben deze dagindeling ondertekend. In de dagindeling moet minimaal staan: 
+
+− hoeveel uur lichte ondersteunende huishoudelijke werkzaamheden de au pair gaat doen (tijden/tijdstippen),  
+
+− hoeveel uur opvang en verzorging van kinderen de au pair gaat doen (tijden/tijdstippen),  
+
+− welke 2 dagen in de week de au pair vrij is en wie het alternatief is van de au pair voor het doen van de lichte huishoudelijke werkzaamheden en het opvangen en verzorgen van eventuele kinderen van het gezin.    
+
+* Het gastgezin voldoende inkomen heeft als bedoeld in het Voorschrift Vreemdelingen 2000 (zie website IND voor normbedragen).    *In het kader van het toezicht op de au-pairregeling verklaart het gastgezin als volgt:*  Het gastgezin is zich ervan bewust dat in het kader van het toezicht op naleving van de Vreemdelingenwet en de Wet arbeid vreemdelingen (Wav) de Vreemdelingenpolitie, de Inspectie SZW of de IND de au pair en/of het gastgezin hetzij met een concrete aanleiding, hetzij steekproefsgewijs aan huis kunnen bezoeken of uitnodigen voor een gesprek. Als het gastgezin de au pair werkzaamheden laat verrichten die niet voldoen aan de voorwaarden die de wet- en regelgeving stellen, is het gastgezin in overtreding en kan een bestuurlijke boete volgen. 
+
+1. Gegevens au pair 
+
+1.1 Achternaam  
+
+1.2 Voornaam  
+
+1.3 Geboortedatum  
+
+1.4 Geboorteplaats  
+
+1.5 Nationaliteit   (zoals in het document voor grensoverschrijding)  
+
+2. Gegevens beide hoofden/het hoofd van het gastgezin 
+
+2.1 Naam persoon 1.................................  
+
+2.2 Naam persoon 2.................................  
+
+2.3 Woonadres....................................    
+
+3. Ondertekening Ik heb de verklaring naar waarheid ingevuld 
+
+3.1 Plaats en datum..............................  
+
+3.2 Handtekening au pair .....................................  
+
+3.3 Plaats en datum............................  
+
+3.4  Handtekening gastgezin persoon 1 ...........................................  
+
+3.5 Handtekening gastgezin persoon 2 ........................................     
+
 ###Bijlage 12 
 
 ####, behorend bij artikel 3.25  Voorschrift Vreemdelingen
 
 ![242993](http://wetten.overheid.nl/Illustration/242993)
+
+###Bijlage 12a 
+
+####, behorend bij artikel 4.1a, tweede lid , Voorschrift Vreemdelingen 2000
+
+![255548](http://wetten.overheid.nl/Illustration/255548)
+![255549](http://wetten.overheid.nl/Illustration/255549)
 
 ###Bijlage 14a 
 

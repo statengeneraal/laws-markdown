@@ -3,24 +3,24 @@
 ##Besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 20 augustus 2012, nr. WJZ/12105085, houdende de verlenging van de aanwijzing van de beheerder van het bel-me-niet-register, bedoeld in artikel 11.7, zesde lid, van de Telecommunicatiewet (Aanwijzingsbesluit beheerder bel-me-niet-register 2012–2015)
 
 De Minister van Economische Zaken, Landbouw en Innovatie;  
-Gelet op [artikel 11.7, zesde lid, van de Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);
+Gelet op artikel 11.7, zesde lid, van de Telecommunicatiewet;
 Besluit:    
 
 ### Artikel  1  
 
 In dit besluit wordt verstaan onder: 
 
-–  *wet:* [Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+–  *wet:* Telecommunicatiewet;  
 
-–  *beheerder:* beheerder, bedoeld in [artikel 11.7, zesde lid, van de wet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+–  *beheerder:* beheerder, bedoeld in artikel 11.7, zesde lid, van de wet;  
 
 –  *Minister:* Minister van Economische Zaken, Landbouw en Innovatie;  
 
-–  *register:* register, bedoeld in [artikel 11.7, zesde lid, van de wet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);   
+–  *register:* register, bedoeld in artikel 11.7, zesde lid, van de wet;   
 
 ### Artikel  2  
 
-1.  De Stichting Infofilter, gevestigd te ‘s-Gravenhage, wordt aangewezen als beheerder van het register, voor een periode van drie jaar.   
+1.  De Stichting Infofilter, gevestigd te ‘s-Gravenhage, wordt aangewezen als beheerder van het register, tot en met 31 december 2016.   
 2.  Deze aanwijzing vindt plaats onder de voorwaarden en verplichtingen, bedoeld in de artikelen 3 tot en met 6.  
 
 ### Artikel  3  
@@ -43,13 +43,13 @@ a. het register dusdanig wordt beheerd dat er continuïteit is in de uitvoering 
 
 b. de gegevens in het register nauwkeurig en volledig zijn;  
 
-c. er geen sprake is van belangenverstrengeling tussen de persoon of personen die de dagelijkse werkzaamheden verricht of verrichten en degene die de communicatie, bedoeld in [artikel 11.7, vijfde lid, van de wet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) overbrengt, waarbij in ieder geval geen sprake mag zijn van formele banden, en  
+c. er geen sprake is van belangenverstrengeling tussen de persoon of personen die de dagelijkse werkzaamheden verricht of verrichten en degene die de communicatie, bedoeld in artikel 11.7, vijfde lid, van de wet overbrengt, waarbij in ieder geval geen sprake mag zijn van formele banden, en  
 
 d. er een klachten- en geschillenregeling is.   
 
 ### Artikel  6  
 
-1.  De beheerder draagt er zorg voor dat er aparte websites zijn voor abonnees en voor het gebruik van het register door degene die de communicatie, bedoeld in [artikel 11.7, vijfde lid, van de wet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) overbrengen.   
+1.  De beheerder draagt er zorg voor dat er aparte websites zijn voor abonnees en voor het gebruik van het register door degene die de communicatie, bedoeld in artikel 11.7, vijfde lid, van de wet overbrengen.   
 2.  De website voor abonnees voldoet binnen 3 maanden na inwerkingtreding van dit besluit aan het waarmerk Drempelvrij.  
 
 ### Artikel  7  
@@ -69,7 +69,7 @@ Indien de aanwijzing wordt beëindigd op basis van artikel 7, tweede lid, of in
 
 ### Artikel  10  
 
-Het [Aanwijzingsbesluit beheerder bel-me-niet-register](../../../../../../ministeriele-regeling/aanwijzingsbesluit/beheerder/bel-me-niet-register/BWBR0025829/README.md) wordt ingetrokken. 
+Het Aanwijzingsbesluit beheerder bel-me-niet-register wordt ingetrokken. 
 
 ### Artikel  11  
 
@@ -77,7 +77,7 @@ Dit besluit treedt in werking met ingang van 1 oktober 2012.
 
 ### Artikel  12  
 
-Dit besluit wordt aangehaald als: Aanwijzingsbesluit beheerder bel-me-niet-register 2012–2015. 
+Dit besluit wordt aangehaald als: Aanwijzingsbesluit beheerder bel-me-niet-register 2012–2016. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 

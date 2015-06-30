@@ -24,40 +24,106 @@ e.*WW:*Werkloosheidswet;
 
 f.*verlof:* een tussen de werkgever en de werknemer voor een gedeelte of het geheel van de arbeidstijd overeengekomen periode, waarin de werknemer geen arbeid jegens de werkgever verricht;
 
-g.*pensioen of prepensioen:* een uit een dienstbetrekking voortvloeiende periodieke uitkering bij wijze van oudedagsvoorziening, dan wel een uitkering die voorafgaat aan die uitkering of het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet. 
+g.*pensioen of prepensioen:* een uit een dienstbetrekking voortvloeiende periodieke uitkering bij wijze van oudedagsvoorziening, dan wel een uitkering die voorafgaat aan die uitkering of het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet;
+
+h. *loondervingsuitkeringen:* 
+
+1°. uitkeringen op grond van de Werkloosheidswet;  
+
+2°. uitkeringen op grond van de Ziektewet;  
+
+3°. hetgeen wordt genoten op grond van artikel 629 van Boek 7 van het Burgerlijk Wetboek of de bezoldiging op grond van artikel 76a van de Ziektewet;  
+
+4°. uitkeringen op grond van de artikelen 6, 51 en 131 van de Algemene pensioenwet politieke ambtsdragers;  
+
+5°. uitkeringen bij ziekte of werkloosheid op grond van een regeling die geldt voor personen die op grond van artikel 6, eerste lid, onderdeel a of onderdeel b, van de Ziektewet onderscheidenlijk artikel 6, eerste lid, onderdeel a of onderdeel b, van de Werkloosheidswet, niet op grond van die wet verzekerd zijn;  
+
+6°. een uit een dienstbetrekking voortvloeiende periodieke uitkering bij wijze van oudedagsvoorziening, dan wel een uitkering die voorafgaat aan die uitkering of het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet;  
+
+7°. uitkeringen op grond van de wetgeving van Aruba, Curaçao, Sint Maarten, of van Nederland ten behoeve van de openbare lichamen Bonaire, Sint Eustatius en Saba, een andere Mogendheid of een volkenrechtelijke organisatie die naar aard en strekking overeenkomen met de uitkeringen, bedoeld onder 1° tot en met 6°;  
+
+8°. uitkeringen en inkomensvoorzieningen op grond van de Wet WIA, de WAO, de Waz en de Wajong en arbeidsongeschiktheidsuitkeringen, die daarmee naar hun strekking overeenkomen.    
 
 ### Artikel  2  
 
-1. Onder inkomen als bedoeld in artikel 44, eerste lid, van de WAO, artikel 58, eerste lid, van de Waz en artikel 3:48, eerste lid, van de Wajong, worden mede verstaan de volgende uitkeringen, indien deze ter zake van die arbeid worden verleend: 
+1.  Onder loon als bedoeld in de artikelen 44, tweede lid, van de WAO, 58, tweede lid, van de Waz en 3:48, tweede lid, van de Wajong wordt verstaan het loon in de zin van artikel 16 van de Wet financiering sociale verzekeringen voor de werknemer in de zin van die wet, met uitzondering van: 
 
-a. een uitkering krachtens de ZW, waaronder begrepen een uitkering op grond van artikel 46 van die wet;  
+a. het loon uit vroegere dienstbetrekking in de zin van de Wet op de loonbelasting 1964;  
 
-b. een uitkering bij ziekte krachtens een regeling, welke geldt voor personen, die op grond van artikel 6, eerste lid, onderdeel a of b, van de ZW niet ingevolge die wet verzekerd zijn;  
+b. loondervingsuitkeringen, al dan niet vermeerderd met een toeslag op grond van de Toeslagenwet en de door de werkgever betaalde aanvullingen op die uitkeringen;  
 
-c. een uitkering bij ziekte krachtens de sociale wetgeving van een ander land;  
+c. de eindheffingsbestanddelen, bedoeld in artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964;  
 
-d. een uitkering krachtens de WW;  
+d. een uitkering die de werknemer heeft genoten op grond van de aanspraak, bedoeld in artikel 39d, van de Wet op de loonbelasting 1964, zonder dat er sprake is van onbetaald extra verlof.     
+2.  Onder loon als bedoeld in de artikelen 44, tweede lid, van de WAO, 58, tweede lid, van de Waz en 3:48, tweede lid, van de Wajong, wordt tevens verstaan een van de volgende uitkeringen, indien deze wordt genoten omdat de betrokkene arbeid in dienstbetrekking verricht of heeft verricht: 
 
-e. een uitkering bij werkloosheid krachtens een regeling, welke geldt voor personen, die op grond van artikel 6, onderdeel a of b, van de WW, niet ingevolge die wet verzekerd zijn;  
+a. een uitkering bij ziekte krachtens een regeling, die geldt voor personen, die op grond van artikel 6, eerste lid, onderdeel a of b, van de ZW niet op grond van die wet verzekerd zijn;  
 
-f. een uitkering bij werkloosheid krachtens de sociale wetgeving van een ander land;  
+b. een uitkering bij ziekte krachtens de sociale wetgeving van een ander land;  
 
-g. een uitkering als bedoeld in de artikelen 6, 51 en 131 van de Algemene pensioenwet politieke ambtsdragers;  
+c. een uitkering bij werkloosheid krachtens een regeling, die geldt voor personen, die op grond van artikel 6, onderdeel a of b, van de WW, niet op grond van die wet verzekerd zijn;  
 
-h. een uitkering op grond van hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg;  
+d. een uitkering bij werkloosheid krachtens de sociale wetgeving van een ander land;  
 
-i. een uitkering bij zwangerschap, bevalling, adoptie of pleegzorg krachtens de sociale wetgeving van een ander land.    
-2.  Ingeval recht ontstaat op doorbetaling van loon als bedoeld in artikel 629 van Boek 7 van het Burgerlijk Wetboek of van bezoldiging als bedoeld in artikel 76a van de Ziektewet, wordt tevens onder inkomen verstaan het inkomen dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin recht ontstond op die doorbetaling van loon of bezoldiging. 
+e. een uitkering als bedoeld in de artikelen 6, 51 en 131 van de Algemene pensioenwet politieke ambtsdragers;  
+
+f. een uitkering bij zwangerschap, bevalling, adoptie of pleegzorg krachtens de sociale wetgeving van een ander land;     
+3.  Indien de uitkering, bedoeld in het tweede lid, of een uitkering op grond van de ZW, de WW of hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg wegens het verrichten van arbeid in dienstbetrekking, door toedoen van de betrokkene of in verband met het doormaken van een wachtperiode geheel of gedeeltelijk niet wordt uitbetaald, wordt voor de vaststelling van het loon gehandeld alsof die uitkering wel volledig is uitbetaald.   
+4.  Indien betrokkene recht heeft op een uitkering op grond van de ZW, de WW of hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg wegens het verrichten van arbeid in dienstbetrekking, wordt, vanaf de eerste dag van het aangiftetijdvak waarin de uitkering aanvangt, tevens onder loon verstaan het loon dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin het recht ontstond op die uitkering.   
+5.  Ingeval recht ontstaat op doorbetaling van loon als bedoeld in artikel 629 van Boek 7 van het Burgerlijk Wetboek of van bezoldiging als bedoeld in artikel 76a van de ZW, wordt vanaf de eerste dag van het aangiftetijdvak waarin dat recht is ontstaan, tevens onder loon verstaan het loon dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin recht ontstond op die doorbetaling van loon of bezoldiging. Indien geen recht op doorbetaling van het loon of bezoldiging bestaat door toepassing van artikel 629, derde of negende lid, van Boek 7 van het Burgerlijk Wetboek of een algemeen verbindend voorschrift als bedoeld in artikel 76b, eerste tot en met derde lid, van de ZW, wordt het loon of bezoldiging in aanmerking genomen als ware er wel recht op doorbetaling.   
+6.  Indien recht bestaat op doorbetaling van het loon of bezoldiging die naar aard en strekking overeenkomt met loon als bedoeld in artikel 629 van Boek 7 van het Burgerlijk Wetboek of bezoldiging als bedoeld in artikel 76a van de ZW, wordt vanaf de eerste dag van het aangiftetijdvak waarin dat recht is ontstaan, tevens onder loon verstaan het loon dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin recht ontstond op die doorbetaling van loon of bezoldiging. Indien geen recht op doorbetaling van het loon of bezoldiging bestaat op gronden die naar aard en strekking overeenkomen met artikel 629, derde of negende lid, van Boek 7 van het Burgerlijk Wetboek of artikel 76b, eerste tot en met derde lid, van de ZW, wordt het loon of bezoldiging in aanmerking genomen als ware er wel recht op doorbetaling.   
+7.  Indien betrokkene met verlof is dan wel pensioen of prepensioen ontvangt, wordt vanaf de eerste dag van het aangiftetijdvak waarin het verlof is aangevangen dan wel waarin het recht ontstond op pensioen of prepensioen, tevens onder loon verstaan het loon dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin het verlof is aangevangen dan wel waarin het recht op pensioen of prepensioen ontstond.   
+8.  Bij de vaststelling van het loon kan het in de relevante aangiftetijdvakken opgebouwde bedrag aan vakantie bijslag en extra periodiek salaris in aanmerking worden genomen in plaats van het in de relevante aangiftetijdvakken betaalde bedrag aan vakantiebijslag en extra periodiek salaris. 
+
+### Artikel  2a  
+
+1.  Onder inkomen als bedoeld in de artikelen 44, eerste lid, van de WAO, 58, eerste lid, van de Waz en 3:48, eerste lid, van de Wajong wordt verstaan: 
+
+a. het loon, bedoeld in artikel 2;  
+
+b. de volgende uitkeringen die worden genoten omdat betrokkene anders dan in dienstbetrekking arbeid verricht of heeft verricht: 
+
+1°. een uitkering bij ziekte krachtens een regeling, die geldt voor personen, die op grond van artikel 6, eerste lid, onderdeel a of b, van de ZW niet op grond van die wet verzekerd zijn;  
+
+2°. een uitkering bij ziekte krachtens de sociale wetgeving van een ander land;  
+
+3°. een uitkering bij werkloosheid krachtens een regeling, die geldt voor personen, die op grond van artikel 6, onderdeel a of b, van de WW, niet op grond van die wet verzekerd zijn;  
+
+4°. een uitkering bij werkloosheid krachtens de sociale wetgeving van een ander land;  
+
+5°. een uitkering als bedoeld in de artikelen 6, 51 en 131 van de Algemene pensioenwet politieke ambtsdragers;  
+
+6°. een uitkering bij zwangerschap, bevalling, adoptie of pleegzorg krachtens de sociale wetgeving van een ander land;    
+
+c. het loon in de zin van de Wet op de loonbelasting 1964, voor zover de verzekerde of de jonggehandicapte niet als werknemer als bedoeld in artikel 1, onderdeel o, van de Wet financiering sociale verzekeringen, inkomen verdient, met uitzondering van: 
+
+1°. het loon uit vroegere dienstbetrekking in de zin van de Wet op de loonbelasting 1964;  
+
+2°. loondervingsuitkeringen, al dan niet vermeerderd met een toeslag op grond van de Toeslagenwet en de door de werkgever betaalde aanvullingen op die uitkeringen;  
+
+3°. de eindheffingsbestanddelen, bedoeld in artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964;  
+
+4°. een uitkering die de werknemer heeft genoten op grond van de aanspraak, bedoeld in artikel 39d, van de Wet op de loonbelasting 1964, zonder dat er sprake is van onbetaald extra verlof;    
+
+d. het belastbaar loon of het belastbaar resultaat uit overige werkzaamheden, bedoeld in paragraaf 3.3.1, onderscheidenlijk paragraaf 3.4.1 van de Wet inkomstenbelasting 2001, behoudens voor zover het een werkzaamheid betreft als bedoeld in de artikelen 3.91, eerste lid, onderdelen a en b, en artikel 3.92 van die wet, voor zover de verzekerde of de jonggehandicapte geen werknemer is als bedoeld in de artikel 2, eerste lid, of onderdeel b;  
+
+e. de belastbare winst uit onderneming, bedoeld in paragraaf 3.2.1 van de Wet inkomstenbelasting 2001, vermeerderd met de ondernemersaftrek, bedoeld in artikel 3.74 van die wet en vermeerderd met de MKB-winstvrijstelling, bedoeld in artikel 3.79a van die wet, met dien verstande dat de bestanddelen van de winst, bedoeld in artikel 3.78, derde lid, onderdelen a, b en c, van die wet, niet geacht worden te behoren tot de winst.     
+2.  Indien een uitkering als bedoeld in het eerste lid, onderdeel b, of een uitkering op grond van de ZW, de WW of hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg die niet wordt genoten in verband met het verrichten van arbeid in dienstbetrekking, door toedoen van de betrokkene of in verband met het doormaken van een wachtperiode geheel of gedeeltelijk niet wordt uitbetaald, wordt voor de vaststelling van het inkomen gehandeld alsof die uitkering wel volledig is uitbetaald.   
+3.  Indien de berekening van het resultaat uit overige werkzaamheden, bedoeld in het eerste lid, onderdeel d, of de winst, bedoeld in het eerste lid, onderdeel e, leidt tot een negatief bedrag, wordt het resultaat, onderscheidenlijk de winst op nihil gesteld.   
+4.  Indien betrokkene recht heeft op een uitkering op grond van de ZW, de WW of hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg, wordt, indien deze niet wordt genoten in verband met het verrichten van arbeid in dienstbetrekking, tevens onder inkomen verstaan het inkomen dat laatstelijk werd genoten voor aanvang van de ongeschiktheid tot werken, de werkloosheid of het ontstaan van het recht op uitkering op grond van hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg.   
+5.  Indien betrokkene met verlof is dan wel pensioen of prepensioen ontvangt, wordt, indien betrokkene geen werknemer is in de zin van artikel 2, eerste lid, tevens onder inkomen verstaan het inkomen dat laatstelijk werd genoten voor aanvang van dat verlof, pensioen of prepensioen.   
+6.  Bij de vaststelling van het inkomen kan het in de relevante aangiftetijdvakken opgebouwde bedrag aan vakantiebijslag en extra periodiek salaris in aanmerking worden genomen in plaats van het in de relevante aangiftetijdvakken betaalde bedrag aan vakantiebijslag en extra periodiek salaris.  
 
 ### Artikel  3  
 
-1.  Indien de uitkering, bedoeld in artikel 2, door toedoen van de betrokkene of in verband met het doormaken van een wachtperiode niet wordt uitbetaald, wordt voor de toepassing van artikel 44, eerste lid, van de WAO, artikel 58, eerste lid, van de Waz en artikel 3:48, eerste lid, van de Wajong gehandeld alsof die uitkering wel is uitbetaald.   
-2.  Indien degene op wie artikel 44 van de WAO, artikel 58 van de Waz of artikel 3:48 van de Wajong van toepassing is recht heeft op een uitkering als bedoeld in artikel 2, eerste lid, onderdeel a, d of h, wordt voor de toepassing van genoemde artikelen 44, 58 en 3:48 gehandeld alsof hij een uitkering krachtens de ZW, onderscheidenlijk de WW, onderscheidenlijk hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg, ontvangt, gelijk aan het inkomen, waarmee laatstelijk vóór de aanvang van de ongeschiktheid tot werken, onderscheidenlijk de werkloosheid, onderscheidenlijk het ontstaan van het recht op uitkering op grond van hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg bij de toepassing van laatstgenoemde artikelen rekening is gehouden.   
-3.  Het aan de persoon, bedoeld in het eerste, tweede, vijfde of zesde lid, uit te betalen bedrag aan arbeidsongeschiktheidsuitkering wordt niet verder beperkt dan tot het volle bedrag van de arbeidsongeschiktheidsuitkering, verminderd met het bedrag van de in artikel 2, eerste lid, onderdeel a, d of h, bedoelde uitkering dan wel het op grond van artikel 629 van Boek 7 van het Burgerlijk Wetboek ontvangen loon.   
-4.  Indien degene op wie artikel 44 van de WAO, artikel 58 van de WAZ of artikel 3:48 van de Wajong van toepassing is, met verlof is dan wel pensioen of prepensioen ontvangt wordt voor de toepassing van genoemde artikelen 44, 58 en 3:48 gehandeld alsof hij tijdens dat verlof dan wel tijdens het ontvangen van dat pensioen of prepensioen een inkomen heeft dat gelijk is aan het inkomen waarmee laatstelijk vóór de aanvang van het verlof dan wel het ontvangen van pensioen of prepensioen bij de toepassing van die artikelen rekening is gehouden.   
-5.  Indien geen recht op doorbetaling van loon of bezoldiging bestaat door toepassing van artikel 629, derde of negende lid, van Boek 7 van het Burgerlijk Wetboek of een algemeen verbindend voorschrift als bedoeld in artikel 76b, eerste tot en met derde lid, van de ZW, wordt voor de toepassing van artikel 44, eerste lid, van de WAO, artikel 58, eerste lid, van de Waz en artikel 3:48, eerste lid, van de Wajong het loon of bezoldiging in aanmerking genomen als ware er wel recht op doorbetaling.   
-6.  Indien geen recht bestaat op doorbetaling van loon of bezoldiging die naar aard en strekking overeenkomt met loon als bedoeld in artikel 629 van Boek 7 van het Burgerlijk Wetboek of bezoldiging als bedoeld in artikel 76a van de ZW, op gronden die naar aard en strekking overeenkomen met artikel 629, derde of negende lid, van Boek 7 van het Burgerlijk Wetboek of artikel 76b, eerste tot en met derde lid, van de ZW, wordt voor de toepassing van artikel 44, eerste lid, van de WAO, artikel 58, eerste lid, van de Waz en artikel 3:48, eerste lid, van de Wajong het loon of bezoldiging in aanmerking genomen als ware er wel recht op doorbetaling.   
-7.  Voor de toepassing van artikel 2, tweede lid, het tweede, vierde, vijfde of zesde lid, wordt bij een per aangiftetijdvak wisselend inkomen in afwijking van het tweede, vierde, vijfde of zesde lid als inkomen aangemerkt het gemiddelde van het inkomen in de drie aangiftetijdvakken voor het aangiftetijdvak waarin recht ontstond op loondoorbetaling, bedoeld in artikel 2, tweede lid, het vijfde of zesde lid, recht ontstond op uitkering, bedoeld in het tweede lid dan wel, waarin het pensioen, prepensioen of verlof, bedoeld in het vierde lid, aanving.  
+1.  Het aan de persoon uit te betalen bedrag aan arbeidsongeschiktheidsuitkering, bedoeld in de artikelen 2, derde, vierde, vijfde of zesde lid en 2a, tweede of vierde lid, wordt niet verder beperkt dan tot het volle bedrag van de arbeidsongeschiktheidsuitkering, verminderd met het bedrag van een in artikel 2, vierde lid, of artikel 2a, vierde lid, bedoelde uitkering dan wel het op grond van artikel 629 van Boek 7 van het Burgerlijk Wetboek ontvangen loon.   
+2.  In afwijking van artikel 2, vierde, vijfde, zesde of zevende lid, en artikel 2a, vierde of vijfde lid, wordt bij een per aangiftetijdvak wisselend loon of inkomen, als loon of inkomen aangemerkt het gemiddelde van het loon of inkomen in de drie aangiftetijdvakken voor het aangiftetijdvak waarin: 
+
+a. recht ontstond op loondoorbetaling als bedoeld in artikel 2, vijfde of zesde lid,  
+
+b. recht ontstond op uitkering als bedoeld in artikel 2, vierde lid, of artikel 2a, vierde lid; of  
+
+c. waarin het pensioen, prepensioen of verlof, bedoeld in artikel 2, zevende lid of artikel 2a, vijfde lid, aanving.    
 
 ### Artikel  4  
 
@@ -87,11 +153,11 @@ Indien artikel 4, eerste of derde lid, van toepassing is, is artikel 44, eerste 
 
 ### Artikel  6  
 
-Artikel 3, vierde lid, is niet van toepassing op uitkeringen die zijn verleend voor de datum van inwerkingtreding van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 6 april 2009, nr. IVV/I/09/5652 tot wijziging van de Regeling samenloop arbeidsongeschiktheidsuitkering met inkomsten uit arbeid in verband met de bepaling van inkomsten uit arbeid tijdens een verlofperiode (Stcrt. 2009, 81) als degene die recht heeft op een arbeidsongeschiktheidsuitkering met verlof is dan wel pensioen of prepensioen ontvangt, met dien verstande dat in geval van verlof artikel 3, vierde lid, buiten toepassing blijft tot het einde van die verlofperiode. 
+De artikelen 2, vierde lid, en 2a, vierde lid, zijn niet van toepassing op uitkeringen die zijn verleend voor de datum van inwerkingtreding van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 6 april 2009, nr. IVV/I/09/5652 tot wijziging van de Regeling samenloop arbeidsongeschiktheidsuitkering met inkomsten uit arbeid in verband met de bepaling van inkomsten uit arbeid tijdens een verlofperiode (Stcrt. 2009, 81) als degene die recht heeft op een arbeidsongeschiktheidsuitkering met verlof is dan wel pensioen of prepensioen ontvangt, met dien verstande dat in geval van verlof de artikelen 2, vierde lid, en 2a, vierde lid, buiten toepassing blijven tot het einde van die verlofperiode. 
 
 ### Artikel  7  
 
-Artikel 3, vierde lid, is niet van toepassing op de werknemer die een arbeidsovereenkomst als bedoeld in de hoofdstukken 2 of 3 van de Wet sociale werkvoorziening is aangegaan en die: 
+De artikelen 2, vierde lid, en 2a, vierde lid, zijn niet van toepassing op de werknemer die een arbeidsovereenkomst als bedoeld in de hoofdstukken 2 of 3 van de Wet sociale werkvoorziening is aangegaan en die: 
 
 a. in de periode van 1 mei 2009 tot 1 juli 2012 prepensioen is gaan ontvangen of  
 
@@ -101,6 +167,10 @@ b. in de periode van 1 mei 2009 tot 1 juli 2012 de normpensioenleeftijd, bedoeld
 
 1.  Deze regeling, zoals die luidde op de dag voor inwerkingtreding van de regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 12 december 2011, nr IVV/I/2011/22179, blijft van toepassing op de persoon op wie artikel 44 van de WAO, artikel 58 van de WAZ of artikel 3:48 van de Wajong van toepassing was op die dag tot het moment dat dat artikel niet meer van toepassing is.   
 2.  Ten aanzien van de persoon, bedoeld in het eerste lid, wordt tot het tijdstip, bedoeld in het eerste lid voor ‘inkomsten uit arbeid’ gelezen: inkomen.  
+
+### Artikel  8a  
+
+Deze regeling berust op de artikelen 44, achtste lid, van de WAO, 58, zevende lid van de Waz en 3:48, achtste lid van Wajong. 
 
 ### Artikel  9  
 

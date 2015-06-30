@@ -24,6 +24,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 *bevoegdheidsbewijs:* bevoegdheidsbewijs als bedoeld in artikel 3, onderdeel j, van richtlijn 2007/59/EG;  
 
+*bijzondere spoorweg:* spoorweg die niet is aangewezen als lokale spoorweg op grond van artikel 2, tweede lid, van de Wet lokaal spoor, en niet als hoofdspoorweg op grond van artikel 2 van deze wet; 
+
 *capaciteit:* capaciteit van de hoofdspoorweginfrastructuur;  
 
 *gebruik van een hoofdspoorweg:* het met een spoorvoertuig rijden over of stilstaan op een hoofdspoorweg;  
@@ -35,6 +37,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 *hoofdspoorweg:* op grond van artikel 2 als hoofdspoorweg aangewezen spoorweg;  
 
 *hoofdspoorweginfrastructuur:* spoorweginfrastructuur, waarbij de spoorwegen als hoofdspoorwegen zijn aangewezen;  
+
+*houder van het spoorvoertuig:* de persoon of entiteit die eigenaar is van een spoorvoertuig of het recht heeft het te gebruiken, het exploiteert als vervoermiddel en als houder in het register, bedoeld in artikel 37, tweede lid, is ingeschreven; 
 
 *interoperabiliteitsonderdeel:* interoperabiliteitsonderdeel als bedoeld in artikel 2, onderdeel f, van richtlijn 2008/57/EG;  
 
@@ -73,21 +77,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 *vernieuwing:* vernieuwing als bedoeld in artikel 2, onderdeel n, van richtlijn 2008/57/EG.     
 2.  In deze wet en de daarop berustende bepalingen wordt voorts verstaan onder: 
 
-*richtlijn 91/440/EEG:* richtlijn nr. 91/440/EEG van de Raad van de Europese Gemeenschappen van 29 juli 1991 betreffende de ontwikkeling van de spoorwegen in de Gemeenschap (PbEG L 237);  
+*richtlijn 91/440/EEG:* richtlijn nr. 91/440/EEG van de Raad van de Europese Gemeenschappen van 29 juli 1991 betreffende de ontwikkeling van de spoorwegen in de Gemeenschap (PbEG L 237/25);  
 
-*richtlijn 95/18/EG:* richtlijn nr. 95/18/EG van de Raad van de Europese Unie van 19 juni 1995 betreffende de verlening van vergunningen aan spoorwegondernemingen (PbEG L 143);  
+*richtlijn 95/18/EG:* richtlijn nr. 95/18/EG van de Raad van de Europese Unie van 19 juni 1995 betreffende de verlening van vergunningen aan spoorwegondernemingen (PbEG L 143/70);  
 
-*richtlijn 96/48/EG:* richtlijn nr. 96/48/EG van de Raad van de Europese Unie van 23 juli 1996 betreffende de interoperabiliteit van het transeuropees hogesnelheidsspoorwegsysteem (PbEG L 235);  
+*richtlijn 96/48/EG:* richtlijn nr. 96/48/EG van de Raad van de Europese Unie van 23 juli 1996 betreffende de interoperabiliteit van het transeuropees hogesnelheidsspoorwegsysteem (PbEG L 235/6);  
 
-*richtlijn 2001/14/EG:* richtlijn nr. 2001/14/EG van het Europees Parlement en de Raad van de Europese Unie van 26 februari 2001 inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur (PbEG L 75);  
+*richtlijn 2001/14/EG:* richtlijn nr. 2001/14/EG van het Europees parlement en de Raad van de Europese Unie van 26 februari 2001 inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur (PbEG L 75/29);  
 
-*richtlijn 2001/16/EG:* richtlijn nr. 2001/16/EG van het Europees Parlement en de Raad van de Europese Unie van 19 maart 2001 betreffende de interoperabiliteit van het conventionele trans-Europese spoorwegsysteem (PbEG L 110);  
+*richtlijn 2001/16/EG:* richtlijn nr. 2001/16/EG van het Europees parlement en de Raad van de Europese Unie van 19 maart 2001 betreffende de interoperabiliteit van het conventionele trans-Europese spoorwegsysteem (PbEG L 110/1);  
 
-*richtlijn 2004/49/EG:* richtlijn nr. 2004/49/EG van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake de veiligheid op communautaire spoorwegen en tot wijziging van Richtlijn 95/18/EG van de Raad betreffende de verlening van vergunningen aan spoorwegondernemingen en van Richtlijn 2001/14/EG van de Raad inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur alsmede inzake veiligheidscertificering (Spoorwegveiligheidsrichtlijn) (PbEU L 220);  
+*richtlijn 2004/49/EG:* richtlijn nr. 2004/49/EG van het Europees parlement en de Raad van de Europese Unie van 29 april 2004 inzake de veiligheid op communautaire spoorwegen en tot wijziging van Richtlijn 95/18/EG van de Raad betreffende de verlening van vergunningen aan spoorwegondernemingen en van Richtlijn 2001/14/EG van de Raad inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur alsmede inzake veiligheidscertificering (Spoorwegveiligheidsrichtlijn) (PbEU L 220/44);  
 
-*richtlijn 2007/59/EG:* richtlijn nr. 2007/59/EG van het Europees Parlement en de Raad van de Europese Unie van 23 oktober 2007 inzake de certificering van machinisten die locomotieven en treinen op het spoorwegsysteem van de Gemeenschap besturen (PbEU L 315);  
+*richtlijn 2007/59/EG:* richtlijn nr. 2007/59/EG van het Europees parlement en de Raad van de Europese Unie van 23 oktober 2007 inzake de certificering van machinisten die locomotieven en treinen op het spoorwegsysteem van de Gemeenschap besturen (PbEU L 315/51);  
 
-*richtlijn 2008/57/EG:* richtlijn nr. 2008/57/EG van het Europees Parlement en de Raad van de Europese Unie van 17 juni 2008 betreffende de interoperabiliteit van het spoorwegsysteem in de Gemeenschap (PbEU L 191).    
+*richtlijn 2008/57/EG:* richtlijn nr. 2008/57/EG van het Europees parlement en de Raad van de Europese Unie van 17 juni 2008 betreffende de interoperabiliteit van het spoorwegsysteem in de Gemeenschap (PbEU L 191/1);  
+
+*richtlijn 2012/34/EU:* richtlijn 2012/34/EU van het Europees parlement en de Raad van 21 november 2012 tot instelling van één Europese spoorwegruimte (PbEU 2012, L 343/32).    
 
 ###Artikel 2 
 
@@ -180,9 +186,10 @@ d. voldoen aan de krachtens artikel 6, eerste lid, vastgestelde regels, die bij 
 
 e. voldoen aan de eisen, bedoeld in artikel 15, eerste en tweede lid, van richtlijn 2008/57/EG.     
 3.  Onze Minister kan op aanvraag, met inachtneming van artikel 9 van richtlijn 2008/57/EG, een of meer technische specificaties inzake interoperabiliteit geheel of gedeeltelijk buiten toepassing laten.   
-4.  Het voldoen aan de specificaties, bedoeld in het tweede lid, onderdeel a, en aan de regels, bedoeld in het tweede lid, onderdeel b, blijkt uit een geldig afgegeven EG-keuringsverklaring als bedoeld in artikel 18 van richtlijn 2008/57/EG.   
-5.  Het voldoen aan de regels, bedoeld in het tweede lid, onderdelen c en d, blijkt uit een geldige verklaring van een aangemelde instantie of van een keuringsinstantie.   
-6.  Onze Minister kan op aanvraag onder bij ministeriële regeling te geven voorwaarden en beperkingen, met inachtneming van artikel 1, derde lid, van richtlijn 2008/57/EG, ontheffing verlenen van het tweede lid. 
+4.  Onze Minister kan op aanvraag voorafgaand aan vergunningverlening als bedoeld in het eerste lid ontheffing verlenen van het in het eerste lid genoemde verbod. De ontheffing kan onder beperkingen worden verleend. Aan de ontheffing kunnen voorschriften worden verbonden.  
+5.  Het voldoen aan de specificaties, bedoeld in het tweede lid, onderdeel a, en aan de regels, bedoeld in het tweede lid, onderdeel b, blijkt uit een geldig afgegeven EG-keuringsverklaring als bedoeld in artikel 18 van richtlijn 2008/57/EG.   
+6.  Het voldoen aan de regels, bedoeld in het tweede lid, onderdelen c en d, blijkt uit een geldige verklaring van een aangemelde instantie of van een keuringsinstantie.   
+7.  Onze Minister kan op aanvraag, met inachtneming van artikel 1, derde lid, van richtlijn 2008/57/EG, ontheffing verlenen van de technische specificaties, de regels of de eisen, bedoeld in het tweede lid. De ontheffing kan onder beperkingen worden verleend. Aan de ontheffing kunnen voorschriften worden verbonden. Bij ministeriële regeling kunnen regels worden gesteld ter omschrijving van hoofdspoorwegen waarvoor de ontheffing mogelijk is, met het oog op het veilig gebruik van hoofdspoorwegen en over de procedures die bij ontheffingverlening kunnen gelden. 
 
 ### Artikel  9  
 
@@ -193,41 +200,42 @@ a. voorafgaande indiening van een informatiedossier als bedoeld in het tweede li
 b. een vergunning dan wel nieuwe vergunning voor indienststelling, indien Onze Minister die krachtens het derde lid heeft geëist.     
 2.  Degene die de verbetering of vernieuwing bij hoofdspoorweginfrastructuur aanbesteedt, dient bij Onze Minister een informatiedossier in waarin het project beschreven wordt.   
 3.  Onze Minister eist op basis van het informatiedossier, bedoeld in het tweede lid, een vergunning respectievelijk een nieuwe vergunning voor indienststelling, indien de omvang van de voorgenomen verbetering of vernieuwing of de mogelijke gevolgen voor de veiligheid van een betrokken subsysteem dat noodzakelijk maakt of maken.   
-4.  Artikel 8, tweede, derde en zesde lid en het krachtens artikel 8, zesde lid, bepaalde zijn van toepassing op de verlening van de vergunning respectievelijk van de nieuwe vergunning voor indienststelling, bedoeld in het derde lid, met dien verstande dat die leden van dat artikel toepassing vinden op de verbetering of vernieuwing.   
+4.  Artikel 8, tweede, derde en zevende lid en het krachtens artikel 8, zevende lid, bepaalde zijn van toepassing op de verlening van de vergunning respectievelijk van de nieuwe vergunning voor indienststelling, bedoeld in het derde lid, met dien verstande dat die leden van dat artikel toepassing vinden op de verbetering of vernieuwing.   
 5.  Onze Minister kan op aanvraag op andere gronden dan genoemd in artikel 9, eerste lid, van richtlijn 2008/57/EG, met inachtneming van artikel 20 van die richtlijn, een of meer technische specificaties inzake interoperabiliteit, geheel of gedeeltelijk buiten toepassing laten.   
-6.  Het voldoen van het verbeterde of vernieuwde subsysteem aan de krachtens het vierde lid geldende eisen blijkt uit de toetsing van een aangemelde instantie of van een keuringsinstantie. 
+6.  Onze Minister kan op aanvraag voorafgaand aan vergunningverlening als bedoeld in het eerste lid ontheffing verlenen van het in het eerste lid genoemde verbod. De ontheffing kan onder beperkingen worden verleend. Aan de ontheffing kunnen voorschriften worden verbonden.  
+7.  Het voldoen van het verbeterde of vernieuwde subsysteem aan de krachtens het vierde lid geldende eisen blijkt uit de toetsing van een aangemelde instantie of van een keuringsinstantie. 
 
 ### Artikel  12  
 
-1.  Een EG-keuringsverklaring als bedoeld in artikel 8, vierde lid, voldoet aan bijlage V van richtlijn 2008/57/EG.   
-2.  De afgifte van een EG-keuringsverklaring als bedoeld in artikel 8, vierde lid, geschiedt in overeenstemming met artikel 18 en bijlage VI van richtlijn 2008/57/EG.   
-3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de afgifte van de EG-keuringsverklaring, bedoeld in artikel 8, vierde lid en de verklaring, bedoeld in artikel 8, vijfde lid.   
+1.  Een EG-keuringsverklaring als bedoeld in artikel 8, vijfde lid, voldoet aan bijlage V van richtlijn 2008/57/EG.   
+2.  De afgifte van een EG-keuringsverklaring als bedoeld in artikel 8, vijfde lid, geschiedt in overeenstemming met artikel 18 en bijlage VI van richtlijn 2008/57/EG.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de afgifte van de EG-keuringsverklaring, bedoeld in artikel 8, vijfde lid en de verklaring, bedoeld in artikel 8, zesde lid.   
 4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de verlening en regels over de aanvraag van de vergunning voor indienststelling, bedoeld in artikel 8, eerste lid, en van de vergunning of nieuwe vergunning voor indienststelling, bedoeld in artikel 9, derde lid.   
 5.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over het registeren of bewaren van gegevens over: 
 
-a. de afgifte van de EG-keuringsverklaring, bedoeld in artikel 8, vierde lid;  
+a. de afgifte van de EG-keuringsverklaring, bedoeld in artikel 8, vijfde lid;  
 
-b. de afgifte van de verklaring, bedoeld in artikel 8, vijfde lid, of artikel 9, zesde lid, en  
+b. de afgifte van de verklaring, bedoeld in artikel 8, zesde lid, of artikel 9, zevende lid, en  
 
 c. de aanvraag en de verlening van de vergunning voor indienststelling, bedoeld in artikel 8, eerste lid, en van de vergunning voor indienststelling of van de nieuwe vergunning voor indienststelling, bedoeld in artikel 9, derde lid.   
 
 ### Artikel  13  
 
-Het is verboden een EG-keuringsverklaring als bedoeld in artikel 8, vierde lid, af te geven indien de desbetreffende subsystemen niet blijkens een geldige verklaring van een aangemelde instantie voldoen aan artikel 8, tweede lid, onderdelen a en b.
+Het is verboden een EG-keuringsverklaring als bedoeld in artikel 8, vijfde lid, af te geven indien de desbetreffende subsystemen niet blijkens een geldige verklaring van een aangemelde instantie voldoen aan artikel 8, tweede lid, onderdelen a en b.
 
 ### §  4  
 
-####Beheer van hoofdspoorwegen
+####Beheer van hoofdspoorweginfrastructuur
 
 ### Artikel  16  
 
 1.  Onze Minister verleent een of meer concessies voor het beheer van de hoofdspoorweginfrastructuur. Het beheer omvat de zorg voor: 
 
-a. de kwaliteit, betrouwbaarheid en beschikbaarheid van de infrastructuur;  
+a. de kwaliteit, betrouwbaarheid en beschikbaarheid van die infrastructuur;  
 
-b. een eerlijke, niet-discriminerende verdeling van de capaciteit van de infrastructuur zowel ten behoeve van de beheerder als ten behoeve van spoorwegondernemingen;  
+b. een eerlijke, niet-discriminerende verdeling van de capaciteit van die infrastructuur zowel ten behoeve van de beheerder als ten behoeve van spoorwegondernemingen;  
 
-c. het leiden van het verkeer over de infrastructuur.     
+c. het leiden van het verkeer over die infrastructuur.     
 2.  Een concessie bevat een beschrijving van de werkzaamheden waarvoor de concessie wordt verleend.   
 3.  Een concessie wordt verleend voor ten minste drie jaar.   
 4.  Een concessie wordt niet verleend aan een spoorwegonderneming dan met inachtneming van artikel 6, derde lid, van richtlijn 91/440/EEG en de artikelen 4, tweede lid, en 14, tweede lid, van richtlijn 2001/14/EG.  
@@ -237,12 +245,13 @@ c. het leiden van het verkeer over de infrastructuur.
 1.  Een beheerder beschikt bij de uitvoering van de taken, bedoeld in artikel 16, eerste lid, anders dan ten behoeve van de aanleg van hoofdspoorweginfrastructuur over een geldige veiligheidsvergunning als bedoeld in artikel 11 van richtlijn 2004/49/EG.   
 2.  Onze Minister verleent op aanvraag een veiligheidsvergunning aan de beheerder, indien hij beschikt over een veiligheidsbeheersysteem dat: 
 
-a. voldoet aan artikel 9, tweede lid, en bijlage III van richtlijn 2004/49/EG, en  
+a. voldoet aan artikel 9, eerste, tweede en derde lid, van richtlijn 2004/49/EG;  
 
 b. op zodanige wijze is geoperationaliseerd dat het een veilig beheer en gebruik van hoofdspoorweginfrastructuur mogelijk maakt.     
 3.  Een veiligheidsvergunning is ten hoogste vijf jaar geldig.   
 4.  Onze Minister trekt een veiligheidsvergunning in, indien het veiligheidsbeheersysteem van de beheerder niet meer voldoet aan het tweede lid.   
-5.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven over de uitvoering van dit artikel, waaronder: 
+5.  De beheerder gebruikt het veiligheidsbeheersysteem, bedoeld in het tweede lid, bij de uitvoering van de taken, bedoeld in het eerste lid, ter beheersing van alle uit die taken voortvloeiende risico’s.  
+6.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven over de uitvoering van dit artikel, waaronder: 
 
 a. regels ten aanzien van de aanvraag van een veiligheidsvergunning, en  
 
@@ -250,12 +259,13 @@ b. nadere regels ten aanzien het veiligheidsbeheersysteem.
 
 ### Artikel  16b  
 
-1.  Een beheerder houdt een register van infrastructuurvoorzieningen dat voldoet aan artikel 35 van richtlijn 2008/57/EG.   
-2.  Een beheerder stelt jaarlijks een verslag op met betrekking tot de spoorwegveiligheid dat voldoet aan artikel 9, vierde lid, van richtlijn 2004/49/EG en zendt dat verslag voor 1 juli aan Onze Minister.  
+1.  Een beheerder houdt een register van de spoorweginfrastructuur dat voldoet aan artikel 35 van richtlijn 2008/57/EG.   
+2.  Een beheerder houdt en publiceert het register, bedoeld in het eerste lid, overeenkomstig bij ministeriële regeling te bepalen regels.  
+3.  Een beheerder stelt jaarlijks een verslag op met betrekking tot de spoorwegveiligheid dat voldoet aan artikel 9, vierde lid, van richtlijn 2004/49/EG en zendt dat verslag voor 1 juli aan Onze Minister.  
 
 ### Artikel  17  
 
-1.  Aan de concessie worden in elk geval voorschriften, onder meer houdende prestatie-indicatoren, verbonden om te waarborgen dat: 
+1.  Aan de concessie worden in elk geval voorschriften verbonden om te waarborgen dat: 
 
 a. de hoofdspoorweginfrastructuur in goede staat verkeert en geschikt is voor het verkeer of ander gebruik waarvoor zij bestemd is;  
 
@@ -265,7 +275,7 @@ c. de risico's van het gebruik en beheer voor de veiligheid van de hoofdspoorweg
 
 d. voldaan wordt aan de richtlijnen 91/440/EEG en 2001/14/EG;  
 
-e. de beheerder financieel draagkrachtig en beroepsbekwaam is.     
+e. de beheerder financieel draagkrachtig en beroepsbekwaam is;   De voorschriften, bedoeld in de onderdelen a tot en met e, kunnen betrekking hebben op door de beheerder op grond van de concessie te leveren prestaties.  
 2.  Aan de concessie worden voorts in elk geval voorschriften verbonden ten aanzien van: 
 
 a. door de beheerder te berekenen tarieven voor diensten aan derden;  
@@ -395,10 +405,11 @@ Deze paragraaf geldt onverkort voor de rechthebbende ten aanzien van de onder of
 
 ### Artikel  26  
 
-1.  De rechthebbende ten aanzien van een rechtstreeks aan de hoofdspoorweg gelegen station draagt ervoor zorg dat reizigers, gehandicapten daaronder begrepen, via de in het station aanwezige hallen, tunnels, trappen en liften, met logische en overzichtelijke routes, een veilige en adequate toegang hebben tot perrons en spoorvoertuigen.   
-2.  Onder station wordt in het eerste lid verstaan: een gebouw of werk dat blijkens zijn constructie en inrichting geheel of gedeeltelijk is bestemd voor aankomst en vertrek van spoorvoertuigen met het oog op het in-, uit- of overstappen van reizigers.   
-3.  Indien de veilige en adequate toegang tot perrons, laad- of losplaatsen of spoorvoertuigen in het gedrang komt of dreigt te komen, geeft Onze Minister aan de betrokken rechthebbende een bindende aanwijzing ter waarborging van die toegang. Tevens kan Onze Minister aan de betrokken rechthebbende een bindende aanwijzing geven met betrekking tot fysieke voorzieningen ter bevordering van de sociale veiligheid op de stations.   
-4.  Desgevraagd adviseert de beheerder Onze Minister over de toepassing van het derde lid.  
+1.  De rechthebbende ten aanzien van een rechtstreeks aan de hoofdspoorweg gelegen station draagt ervoor zorg dat reizigers via de in het station aanwezige hallen, tunnels, trappen en liften, met logische en overzichtelijke routes, een veilige en adequate toegang hebben tot perrons en spoorvoertuigen.   
+2.  De verplichtingen van een rechthebbende op grond van het eerste lid omvatten met betrekking tot gehandicapte personen en personen met beperkte mobiliteit de naleving van artikel 21 van Verordening (EU) nr. 1371/ 2007 van het Europees parlement en de Raad van 23 oktober 2007 betreffende de rechten en verplichtingen van reizigers in het treinverkeer (PbEU 2007, L 315).  
+3.  Onder station wordt in het eerste lid verstaan: een gebouw of werk dat blijkens zijn constructie en inrichting geheel of gedeeltelijk is bestemd voor aankomst en vertrek van spoorvoertuigen met het oog op het in-, uit- of overstappen van reizigers.   
+4.  Indien de veilige en adequate toegang tot perrons, laad- of losplaatsen of spoorvoertuigen in het gedrang komt of dreigt te komen, geeft Onze Minister aan de betrokken rechthebbende een bindende aanwijzing ter waarborging van die toegang. Tevens kan Onze Minister aan de betrokken rechthebbende een bindende aanwijzing geven met betrekking tot fysieke voorzieningen ter bevordering van de sociale veiligheid op de stations.   
+5.  Desgevraagd adviseert de beheerder Onze Minister over de toepassing van het vierde lid.  
 
 ### Hoofdstuk  3  
 
@@ -485,25 +496,24 @@ b. een B-certificaat voor de voorzieningen die de spoorwegonderneming overeenkom
 ### Artikel  33  
 
 1.  Het veiligheidscertificaat is ten hoogste vijf jaar geldig.   
-2.  Aan het veiligheidscertificaat kunnen beperkingen en voorschriften worden verbonden in het belang van de veiligheid op en in de directe nabijheid van de spoorweg.   
+2.  Aan het veiligheidscertificaat kunnen beperkingen en voorschriften worden verbonden in het belang van de veiligheid op en in de directe nabijheid van de hoofdspoorweg.   
 3.  Onze Minister kan het veiligheidscertificaat schorsen of intrekken: 
 
 a. wegens handelen in strijd met dit hoofdstuk;  
 
-b. in het belang van de veiligheid op en in de directe nabijheid van de spoorweg;  
+b. in het belang van de veiligheid op en in de directe nabijheid van de hoofdspoorweg;  
 
 c. indien de bedrijfsvergunning van de certificaathouder is geschorst of ingetrokken;  
 
 d. indien het certificaat, bedoeld in artikel 32, tweede lid, door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie is ingetrokken.    
-4.  Onze Minister kan het veiligheidscertificaat of de daaraan verbonden beperkingen en voorschriften ambtshalve of op aanvraag wijzigen, met inachtneming van het belang van de veiligheid op en in de directe nabijheid van de spoorweg.   
-5.  Overtreding van de voorschriften, bedoeld in het tweede lid, is verboden.  
+4.  Onze Minister kan het veiligheidscertificaat of de daaraan verbonden beperkingen en voorschriften ambtshalve of op aanvraag wijzigen, met inachtneming van het belang van de veiligheid op en in de directe nabijheid van de hoofdspoorweg.  
 
 ### Artikel  34  
 
 1.  Onze Minister kan aan degene die een veiligheidscertificaat heeft aangevraagd of aan de certificaathouder die een wijziging van het veiligheidscertificaat heeft aangevraagd een proefcertificaat verlenen.   
 2.  Het proefcertificaat wordt verleend met het oog op het opdoen van ervaring of het testen van procedures of spoorvoertuigen ten behoeve van verlening of wijziging van een veiligheidscertificaat.   
 3.  Het proefcertificaat is ten hoogste dertien weken geldig en vervalt van rechtswege bij de verlening of de wijziging, bedoeld in het tweede lid. Indien toepassing is gegeven aan artikel 32, tweede lid, tweede volzin, vervalt het proefcertificaat met ingang van de dag na de laatste dag van de krachtens die bepaling gestelde termijn.   
-4.   Artikel 33, vierde en vijfde lid, is op het proefcertificaat van overeenkomstige toepassing.  
+4.   Artikel 33, tweede en derde lid, is op het proefcertificaat van overeenkomstige toepassing.  
 
 ### Artikel  35  
 
@@ -521,7 +531,7 @@ c. de bedrijfsprocessen die ten minste in het veiligheidsbeheersysteem zijn opge
 
 ### Artikel  36  
 
-1.  Het is een spoorwegonderneming verboden om, anders dan voor het testen, van hoofdspoorweginfrastructuur gebruik te maken, met een spoorvoertuig waarvoor Onze Minister geen vergunning voor indienststelling als bedoeld in het derde lid respectievelijk aanvullende vergunning voor indienststelling als bedoeld in het vijfde lid heeft verleend.   
+1.  Het is een spoorwegonderneming verboden om van hoofdspoorweginfrastructuur gebruik te maken, met een spoorvoertuig waarvoor Onze Minister geen vergunning voor indienststelling als bedoeld in het derde lid respectievelijk aanvullende vergunning voor indienststelling als bedoeld in het vijfde lid heeft verleend. Onze Minister kan op aanvraag, na de beheerder te hebben gehoord, ontheffing verlenen van dit verbod. De ontheffing kan onder beperkingen worden verleend. Aan de ontheffing kunnen voorschriften worden verbonden. Bij ministeriële regeling kunnen regels worden gesteld over voor welke spoorvoertuigen en in welke gevallen een ontheffing mogelijk is.   
 2.  Het eerste lid geldt niet voor bij algemene maatregel van bestuur met inachtneming van artikel 21 van richtlijn 2008/57/EG, aangewezen spoorvoertuigen.   
 3.  Onze Minister verleent, na de beheerder te hebben gehoord, een vergunning voor indienststelling, indien: 
 
@@ -547,25 +557,24 @@ d. het spoorvoertuig voldoet aan de voorschriften, bedoeld in het derde lid, ond
 6.  Het voldoen aan de voorschriften, bedoeld in het derde lid, onderdelen a en b, blijkt uit een geldige EG-keuringsverklaring als bedoeld in artikel 18 van richtlijn 2008/57/EG.   
 7.  Het voldoen aan de voorschriften, bedoeld in het derde lid, onderdelen c en e, blijkt uit een geldige verklaring van een aangemelde instantie of van een keuringsinstantie.   
 8.  Onze Minister kan aan de vergunning voor indienststelling respectievelijk aanvullende vergunning voor indienststelling ten behoeve van de verenigbaarheid van het spoorvoertuig met de hoofdspoorweginfrastructuur voorschriften en beperkingen verbinden.   
-9.  Onze Minister kan op aanvraag ontheffing verlenen van de voorschriften, bedoeld in het derde lid, onderdelen c en e.   
-10.  Onze Minister kan op aanvraag met inachtneming van artikel 1, derde lid, van richtlijn 2008/57/EG, onder daartoe bij ministeriële regeling gestelde voorwaarden en beperkingen, ontheffing verlenen van het derde lid, onderdelen a en b, en van het vijfde lid, onderdeel b. 
+9.  Onze Minister kan op aanvraag, na de beheerder te hebben gehoord, ontheffing verlenen van de voorschriften, bedoeld in het derde lid, onderdelen c en e. De ontheffing kan onder beperkingen worden verleend. Aan de ontheffing kunnen voorschriften worden verbonden.   
+10.  Onze Minister kan op aanvraag, met inachtneming van artikel 1, derde lid, van richtlijn 2008/57/EG, ontheffing verlenen van de technische specificaties respectievelijk de voorschriften, bedoeld in het derde lid, onderdelen a respectievelijk b, en van de voorschriften, bedoeld in het vijfde lid, onderdeel b. De ontheffing kan onder beperkingen worden verleend. Aan de ontheffing kunnen voorschriften worden verbonden. Bij ministeriële regeling kunnen regels worden gesteld ter omschrijving van spoorvoertuigen waarmee op omschreven hoofdspoorwegen gebruik gemaakt mag worden en met het oog op het veilig gebruik van die spoorvoertuigen op die hoofdspoorwegen alsmede over de procedures die bij ontheffingverlening kunnen gelden. 
 
 ### Artikel  37  
 
-1.  Het is een spoorwegonderneming verboden om van hoofdspoorweginfrastructuur gebruik te maken met een spoorvoertuig dat niet in het register, bedoeld in het tweede lid, dan wel in het register van een andere staat is ingeschreven.   
+1.  Het is een spoorwegonderneming verboden om van hoofdspoorweginfrastructuur gebruik te maken met een spoorvoertuig, waarvoor een vergunning voor indienststelling is afgegeven, dat niet in het register, bedoeld in het tweede lid, dan wel in het register van een andere staat is ingeschreven.   
 2.  Onze Minister houdt het register, bedoeld in artikel 33 van richtlijn 2008/57/EG.   
-3.  Onze Minister draagt op aanvraag zorg voor de inschrijving van spoorvoertuigen in het register, bedoeld in het tweede lid.   
+3.  Onze Minister draagt op aanvraag zorg voor de inschrijving van spoorvoertuigen, waarvoor een vergunning voor indienststelling is afgegeven, in het register, bedoeld in het tweede lid.   
 4.  De aanvrager voegt bij de aanvraag voor de inschrijving de bij regeling van Onze Minister bepaalde gegevens.   
-5.  De houder meldt de wijzigingen met betrekking tot de gegevens, bedoeld in het vierde lid, die na de inschrijving optreden, binnen twee weken aan Onze Minister.   
-6.  Onze Minister kent aan een in te schrijven spoorvoertuig dat niet volledig in een register van een andere staat is ingeschreven een Europees voertuignummer toe. De houder brengt het toegekende voertuignummer aan op het spoorvoertuig.   
+5.  De houder van het spoorvoertuig meldt de wijzigingen met betrekking tot de gegevens, bedoeld in het vierde lid, die na de inschrijving optreden, binnen twee weken aan Onze Minister.   
+6.  Onze Minister kent aan een in te schrijven spoorvoertuig dat niet volledig in een register van een andere staat is ingeschreven een Europees voertuignummer toe. De houder van het spoorvoertuig brengt het toegekende voertuignummer aan op het spoorvoertuig.   
 7.  Onze Minister schrapt de inschrijving van een spoorvoertuig: 
 
-a. op verzoek van de houder;  
+a. op verzoek van de houder van het spoorvoertuig;  
 
 b. indien het spoorvoertuig definitief buiten gebruik wordt gesteld, of  
 
-c. in andere bij regeling van Onze Minister aangegeven gevallen.     
-8.  De houder van een spoorvoertuig is degene die als houder in het register, bedoeld in het tweede lid, is ingeschreven.  
+c. in andere bij regeling van Onze Minister aangegeven gevallen.    
 
 ### Artikel  37a  
 
@@ -617,7 +626,7 @@ d. de aanvraag en de verlening van de aanvullende vergunning voor indienststelli
 
 ### Artikel  39  
 
-1.  Het is verboden een interoperabiliteitsonderdeel voor het gebruik binnen het spoorwegsysteem in de handel te brengen, indien ten aanzien daarvan niet een EG-verklaring van conformiteit of geschiktheid voor gebruik als bedoeld in artikel 13, eerste lid, van richtlijn 2008/57/EG, is afgegeven.   
+1.  Het is verboden een interoperabiliteitsonderdeel voor het gebruik binnen het hoofdspoorwegsysteem in de handel te brengen, indien ten aanzien daarvan niet een EG-verklaring van conformiteit of geschiktheid voor gebruik als bedoeld in artikel 13, eerste lid, van richtlijn 2008/57/EG, is afgegeven.   
 2.  Degene die de interoperabiliteitsonderdelen gebruikt zorgt dat deze binnen hun toepassingsgebied worden gebruikt overeenkomstig hun bestemming, en dat zij naar behoren worden geïnstalleerd en onderhouden.  
 
 ### Artikel  40  
@@ -667,7 +676,7 @@ Indien Onze Minister vaststelt dat een interoperabiliteitsonderdeel, ondanks het
 
 ### Artikel  47  
 
-1.  De spoorwegonderneming of de houder dragen er zorg voor dat een door hen gebruikt spoorvoertuig dat volledig in het register, bedoeld in artikel 37, tweede lid, is ingeschreven, overeenkomstig de geldende specificaties inzake interoperabiliteit wordt geëxploiteerd.   
+1.  De spoorwegonderneming of de houder van het spoorvoertuig dragen er zorg voor dat een door hen gebruikt spoorvoertuig dat volledig in het register, bedoeld in artikel 37, tweede lid, is ingeschreven, overeenkomstig de geldende specificaties inzake interoperabiliteit wordt geëxploiteerd.   
 2.  Onze Minister kan het gebruik met een spoorvoertuig van hoofdspoorweginfrastructuur verbieden indien ter zake van het spoorvoertuig niet voldaan is aan het eerste lid.   
 3.  Het is verboden om met een spoorvoertuig dat niet overeenkomstig de essentiële eisen van richtlijn 2008/57/EG is geëxploiteerd en onderhouden, van hoofdspoorweginfrastructuur gebruik te maken.  
 
@@ -676,7 +685,7 @@ Indien Onze Minister vaststelt dat een interoperabiliteitsonderdeel, ondanks het
 1.  Het is verboden onderhoud en herstel van spoorvoertuigen die beschikken over een volledige inschrijving in het register, bedoeld in artikel 37, tweede lid te laten uitvoeren door anderen dan daartoe door Onze Minister erkende natuurlijke personen of rechtspersonen.   
 2.  Een erkenning wordt verleend indien wordt voldaan aan de daarvoor bij regeling van Onze Minister gestelde eisen.   
 3.  Met een erkenning als bedoeld in het eerste lid wordt gelijkgesteld een erkenning, afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een andere staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe of mede daartoe strekkend verdrag dat Nederland bindt, welke erkenning is afgegeven op basis van onderzoekingen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale onderzoekingen wordt nagestreefd.  
-4.  De eisen of nadere eisen, bedoeld in het tweede lid, onderdeel c, kunnen onder meer betrekking hebben op: 
+4.  De eisen of nadere eisen, bedoeld in het tweede lid kunnen onder meer betrekking hebben op: 
 
 a. de voor het onderhoud of herstel beschikbare ruimte en de gebruikte apparatuur;  
 
@@ -732,7 +741,7 @@ a. één of meer beoordelingen van Onze Minister waaruit blijkt dat hij voldoet 
 
 b. een geldige machinistenvergunning die in een andere lidstaat van de Europese Unie is afgegeven.     
 3.  Een persoon die binnen het hoofdspoorwegverkeerssysteem de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid uitoefent beschikt over een geldige machinistenvergunning en een geldig bevoegdheidsbewijs dat betrekking heeft op de spoorvoertuigen waarmee en op de hoofdspoorweginfrastructuur waarvan gebruik wordt gemaakt.  
-4.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de afgifte, de inhoud en de geldigheid van de in het eerste lid, onderdeel a, en het tweede lid, onderdeel a bedoelde beoordelingen en verklaringen alsmede over de erkenning van keuringsinstituten.  
+4.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de aanvraag, afgifte en geldigheid van de in het eerste lid, onderdeel a, en het tweede lid, onderdeel a, bedoelde beoordelingen, verklaringen van medische en psychologische geschiktheid alsmede over de erkenningen van keuringsinstituten.  
 
 ### Artikel  51  
 
@@ -798,7 +807,6 @@ h. de voor de veiligheidsfunctie van machinist met volledige bevoegdheid en van 
 3.  Bij of krachtens algemene maatregel van bestuur worden met inachtneming van artikel 20 van richtlijn 2007/59/EG regels gegeven voor de erkenning van de opleidingsinstituten, bedoeld in het eerste lid.  
 
 ### Artikel  51c  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Bij de beoordelingen, bedoeld in de artikelen 50, eerste lid, onderdeel a, en tweede lid, onderdeel a, en 51a, vierde lid, onderdeel b, maakt Onze Minister gebruik van door Onze Minister erkende examinatoren.   
 2.  Onze Minister houdt een register van erkende examinatoren.   
@@ -806,7 +814,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ### Artikel  52  
 
-Bij of krachtens algemene maatregel van bestuur kunnen, met het oog op de veiligheid, regels worden gesteld over de bedrijfsvoering en de organisatiestructuur van degene onder wiens gezag binnen het hoofdspoorwegverkeerssysteem een veiligheidsfunctie wordt uitgeoefend. 
+Bij of krachtens algemene maatregel van bestuur kunnen, met het oog op de veiligheid, regels worden gesteld over de bedrijfsvoering en de organisatiestructuur van degene die personen met een veiligheidsfunctie binnen het hoofdspoorwegverkeerssysteem beschikbaar stelt. 
 
 ### Artikel  53  
 
@@ -834,7 +842,6 @@ c. die niet beschikt over een bevoegdheidsbewijs dat betrekking heeft op de spoo
 Degene onder wiens gezag een persoon die binnen het hoofdspoorwegverkeerssysteem een functie, niet zijnde een veiligheidsfunctie, uitoefent die van invloed kan zijn op de veiligheid van het verkeer over hoofdspoorwegen, draagt er zorg voor dat die persoon daartoe geschikt is en de nodige kennis en bekwaamheid bezit. 
 
 ### Artikel  54a  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Onze Minister kan, met inachtneming van artikel 2, derde lid, van richtlijn 2007/59/EG, ontheffing of vrijstelling verlenen van bepalingen van paragraaf 5 van dit hoofdstuk. De ontheffing of vrijstelling kan onder beperkingen worden verleend. Aan de ontheffing of vrijstelling kunnen voorschriften worden verbonden. Bij ministeriële regeling kunnen regels worden gesteld over op welke hoofdspoorwegen en voor welke spoorvoertuigen deze ontheffing of vrijstelling mogelijk is. 
 
@@ -844,13 +851,13 @@ Onze Minister kan, met inachtneming van artikel 2, derde lid, van richtlijn 2007
 
 ### Artikel  55  
 
-1.  De spoorwegonderneming die van de hoofdspoorweg gebruik maakt, is verplicht ter zake van dat gebruik een verzekering te sluiten en in stand te houden, waarmee haar uit wettelijke aansprakelijkheid voortvloeiende financiële risico's voldoende zijn gedekt.   
+1.  De spoorwegonderneming die van de hoofdspoorweginfrastructuur gebruik maakt, is verplicht ter zake van dat gebruik een verzekering te sluiten en in stand te houden, waarmee haar uit wettelijke aansprakelijkheid voortvloeiende financiële risico's voldoende zijn gedekt.   
 2.  Bij algemene maatregel van bestuur worden bedragen vastgesteld waarboven de verzekeringsplicht zich niet uitstrekt. Afzonderlijke bedragen kunnen worden bepaald naar gelang van onder meer de aard van de gebeurtenis, de aard van de schade, de grond van de aansprakelijkheid en de aard van de onderneming.   
 3.   Artikel 6 van de Wet aansprakelijkheidsverzekering motorrijtuigen is van overeenkomstige toepassing.  
 
 ### Hoofdstuk  4  
 
-####Het gebruik van hoofdspoorwegen
+####Het gebruik van hoofdspoorweginfrastructuur
 
 ### §  1  
 
@@ -861,7 +868,7 @@ Onze Minister kan, met inachtneming van artikel 2, derde lid, van richtlijn 2007
 1.  Gerechtigd tot het sluiten van een toegangsovereenkomst en een kaderovereenkomst met de beheerder zijn de partijen, bedoeld in het tweede lid.   
 2.  Als aanvrager als bedoeld in artikel 2, onderdeel b, van richtlijn 2001/14/EG worden aangemerkt: 
 
-a. spoorwegondernemingen die in het bezit zijn van een bedrijfsvergunning of deze hebben aangevraagd, voorzover zij daarmee gerechtigd zijn van de hoofdspoorwegen gebruik te maken op de wijze waarvoor zij de overeenkomst willen sluiten;  
+a. spoorwegondernemingen die in het bezit zijn van een bedrijfsvergunning of deze hebben aangevraagd, voorzover zij daarmee gerechtigd zijn van de hoofdspoorweginfrastructuur gebruik te maken op de wijze waarvoor zij de overeenkomst willen sluiten;  
 
 b. concessieverleners als bedoeld in artikel 20 van de Wet personenvervoer 2000 ten behoeve van openbaar vervoer per trein;  
 
@@ -1024,7 +1031,7 @@ b. voor de dienst of voorziening een afzonderlijke boekhouding voert en deze ter
 ### Artikel  70  
 
 1.  De Autoriteit Consument en Markt is de toezichthoudende instantie, bedoeld in artikel 10, zevende lid, van richtlijn 91/440/EEG en de artikelen 30 en 31 van richtlijn 2001/14/EG.   
-2.  De Autoriteit Consument en Markt is belast met het toezicht op de naleving van het bepaalde krachtens artikel 17, eerste lid, onderdeel d, en het bepaalde bij of krachtens de artikelen 27, eerste lid, 57 tot en met 63, 67, 68 en 95, eerste volzin.  
+2.  De Autoriteit Consument en Markt is belast met het toezicht op de naleving van het bepaalde krachtens artikel 17, eerste lid, onderdeel d, en het bepaalde bij of krachtens de artikelen 27, eerste lid, 57 tot en met 63, 67 en 68.  
 
 ### Artikel  71  
 
@@ -1042,10 +1049,7 @@ Indien door Onze Minister vast te stellen beleidsregels betrekking hebben op de 
 
 ####Vrijstelling, ontheffing of vergunning
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  74a  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Het is verboden te handelen in strijd met de aan een op grond van deze wet verleende vrijstelling, ontheffing of vergunning verbonden voorschriften. 
 
@@ -1056,7 +1060,7 @@ Het is verboden te handelen in strijd met de aan een op grond van deze wet verle
 ### Artikel  76  
 
 1.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen met uitzondering van de verplichtingen als bedoeld in het tweede lid.   
-2.  In geval van overtreding van het bepaalde krachtens artikel 17, eerste lid, onderdeel d, of het bepaalde bij of krachtens de artikelen 27, eerste lid, 57 tot en met 62, 63, eerste lid, 67, 68 en 95, eerste volzin, kan de Autoriteit Consument en Markt de overtreder: 
+2.  In geval van overtreding van het bepaalde krachtens artikel 17, eerste lid, onderdeel d, of het bepaalde bij of krachtens de artikelen 27, eerste lid, 57 tot en met 62, 63, eerste lid, 67 en 68, kan de Autoriteit Consument en Markt de overtreder: 
 
 a. een bestuurlijke boete opleggen;  
 
@@ -1131,7 +1135,7 @@ Vervallen per 01-01-2013
 
 ### Artikel  91  
 
-1.  Bij ministeriële regeling kan worden bepaald dat aan het betrokken bestuursorgaan een vergoeding verschuldigd is volgens de daarbij vast te stellen tarieven ter zake van het overeenkomstig deze wet aanvragen of verstrekken van een bij of krachtens deze wet te nemen besluit, te verstrekken certificaat, ander document, beoordeling of verklaring of te verrichten inschrijving of wijziging van die inschrijving in het register, bedoeld in artikel 37, tweede lid.   
+1.  Bij ministeriële regeling kan worden bepaald dat aan het betrokken bestuursorgaan een vergoeding verschuldigd is volgens de daarbij vast te stellen tarieven ter zake van het overeenkomstig deze wet aanvragen of verstrekken van een bij of krachtens deze wet te nemen besluit, te verstrekken certificaat, ander document, beoordeling of verklaring of te verrichten inschrijving of wijziging van die inschrijving in het register, bedoeld in artikel 37, tweede lid. Voorgaande volzin is van overeenkomstige toepassing indien de handeling voortvloeit uit een bindende verordening als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie.   
 2.  De hoogte van de krachtens het eerste lid vastgestelde tarieven wordt zodanig vastgesteld dat de geraamde baten van de vergoedingen voor het betrokken bestuursorgaan niet uitgaan boven de geraamde lasten van het betrokken bestuursorgaan ter zake van de behandelingen van de aanvragen en het verstrekken van de besluiten en documenten, bedoeld in het eerste lid.  
 
 ### §  7  
@@ -1144,21 +1148,21 @@ Een wijziging van richtlijn 91/440/EEG, richtlijn 95/18/EG, richtlijn 2001/14/EG
 
 ### §  8  
 
-####Aanwijzing van keuringsinstanties
+####Erkenning van keuringsinstanties
 
 ### Artikel  93  
 
-1.  Onze Minister wijst op aanvraag aan: 
+1.  Onze Minister erkent op aanvraag: 
 
 a. aangemelde instanties;  
 
-b. de instanties, belast met de toetsing, bedoeld in artikel 8, vijfde lid, artikel 9, zesde lid, artikel 36, zevende lid, en artikel 37b, negende lid.    
+b. de instanties, belast met de toetsing, bedoeld in artikel 8, zesde lid, artikel 9, zevende lid, artikel 36, zevende lid, en artikel 37b, negende lid.    
 2.  De instanties, de directeur en het personeel daarvan voldoen ten minste aan de toepasselijke eisen, neergelegd in bijlage VIII van richtlijn 2008/57/EG, en aan de bij ministeriële regeling vastgestelde eisen.   
-3.  Aan de aanwijzing kunnen voorschriften en beperkingen worden verbonden.   
+3.  Aan de erkenning kunnen voorschriften en beperkingen worden verbonden.   
 4.  De instanties verrichten hun werkzaamheden met inachtneming van de toepasselijke bepalingen in bijlage VI van richtlijn 2008/57/EG en het Besluit nr. 93/465/EEG van de Raad van de Europese Gemeenschappen van 22 juli 1993 betreffende de modules voor de verschillende fasen van de overeenstemmingsbeoordelingsprocedures en de voorschriften inzake het aanbrengen en het gebruik van de CE-markering van overeenstemming (PbEG L 220).   
 5.  De instanties stellen na elk onderzoek een onderzoekscertificaat op, in voorkomend geval met vermelding van de geldigheidsduur en van de voorwaarden waaronder het geldig is.   
-6.  Onze Minister trekt de aanwijzing, bedoeld in het eerste lid, in indien de betrokken instantie niet langer voldoet aan de toepasselijke eisen van bijlage VIII van richtlijn 2008/57/EG onderscheidenlijk bijlage VI van richtlijn 2008/57/EG. Onze Minister kan de aanwijzing intrekken, indien de betrokken instantie niet langer voldoet aan bijlage VIII van richtlijn 2008/57/EG onderscheidenlijk bijlage VI van richtlijn 2008/57/EG of de bij ministeriële regeling vastgestelde eisen, bedoeld in het tweede lid.   
-7.  Onze Minister doet mededeling van een aanwijzing of van een intrekking van een aanwijzing door kennisgeving in de Staatscourant.  
+6.  Onze Minister trekt de erkenning, bedoeld in het eerste lid, in indien de betrokken instantie niet langer voldoet aan de toepasselijke eisen van bijlage VIII van richtlijn 2008/57/EG onderscheidenlijk bijlage VI van richtlijn 2008/57/EG. Onze Minister kan de erkenning intrekken, indien de betrokken instantie niet langer voldoet aan bijlage VIII van richtlijn 2008/57/EG onderscheidenlijk bijlage VI van richtlijn 2008/57/EG of de bij ministeriële regeling vastgestelde eisen, bedoeld in het tweede lid.   
+7.  Onze Minister doet mededeling van een erkenning of van een intrekking van een erkenning door kennisgeving in de Staatscourant.  
 
 ### §  9  
 
@@ -1222,7 +1226,7 @@ Vervallen per 16-03-2005
 
 De volgende wetten worden ingetrokken op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld: 
 
-a. de Spoorwegwet (Stb. 1875, 67);  
+a. de Spoorwegwet 1875;  
 
 b. de wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd (Stb. 118);  
 
@@ -1331,7 +1335,7 @@ Hoofdspoorweginfrastructuur die in overeenstemming met de daarvoor geldende voor
 
 ### Artikel  122  
 
-Een spoorvoertuig dat in overeenstemming met de daarvoor geldende voorschriften die gelden op de dag voorafgaande aan de dag waarop artikel 36 in werking treedt, kan worden gebruikt op de hoofdspoorweg, wordt met ingang van de dag waarop dat artikel in werking treedt, aangemerkt als in overeenstemming met de onderdelen a en b van dat artikel. 
+Artikel 39, eerste lid, is niet van toepassing op spoorvoertuigen en uitrusting daarvan die voor 1 januari 2005 in gebruik zijn genomen. 
 
 ### Artikel  123  
 

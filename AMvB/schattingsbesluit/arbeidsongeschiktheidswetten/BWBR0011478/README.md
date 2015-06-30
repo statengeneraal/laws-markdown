@@ -230,13 +230,11 @@ d.de belastbare winst uit onderneming, bedoeld in paragraaf 3.2.1 van de Wet ink
 
 a.het loon uit vroegere dienstbetrekking in de zin van de Wet op de loonbelasting 1964;
 
-b.loondervingsuitkeringen, alsmede de door de werkgever betaalde aanvullingen op die uitkeringen;
+b. loondervingsuitkeringen, al dan niet vermeerderd met een toeslag op grond van de Toeslagenwet en de door de werkgever betaalde aanvullingen op die uitkeringen; 
 
-c.een vergoeding voor de inkomensafhankelijke bijdrage als bedoeld in artikel 46 van de Zorgverzekeringswet;
+c.de eindheffingsbestanddelen als bedoeld in artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964;
 
-d.de eindheffingsbestanddelen als bedoeld in artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964;
-
-e. een uitkering die de werknemer heeft genoten op grond van de aanspraak, bedoeld in artikel 39d, van de Wet op de loonbelasting 1964, zonder dat er sprake is van onbetaald extra verlof.  
+d. een uitkering die de werknemer heeft genoten op grond van de aanspraak, bedoeld in artikel 39d, van de Wet op de loonbelasting 1964, zonder dat er sprake is van onbetaald extra verlof.  
 
 ###Artikel 7a 
 
@@ -303,6 +301,23 @@ b. indien betrokkene nog tot arbeid in dezelfde omvang in staat is als de in art
 5. Voor zover het niet gaat om feitelijke inkomsten uit arbeid, wordt onder het loon, bedoeld in dit artikel, verstaan: het loon in de zin van artikel 16 van de Wet financiering sociale verzekeringen voor de werknemer in de zin van die wet, dat voor de desbetreffende functie gebruikelijk is. Hierbij wordt geen rekening gehouden met incidentele loonbestanddelen of loonbestanddelen die op de persoon van de werknemer betrekking hebben.
 6. De feitelijke inkomsten uit arbeid in dit artikel worden vastgesteld door hetgeen daarvoor op grond van artikel 7 in aanmerking wordt genomen.
 
+### §  2a  
+
+####Vaststelling van het arbeidsongeschiktheidspercentage waarnaar uitbetaald wordt bij anticumulatie
+
+### Artikel  10a  
+
+####Vaststelling van het arbeidsongeschiktheidspercentage waarnaar uitbetaald wordt bij anticumulatie
+
+1.  Dit artikel is van toepassing bij de uitvoering van de artikelen 44, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering, 58, eerste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen of 3:48, eerste lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, indien er sprake is van loon als bedoeld in het tweede lid van de genoemde artikelen.   
+2.  De artikelen 9 en 10 zijn niet van toepassing.   
+3.  Het maatmaninkomen per uur, bedoeld in hoofdstuk 2, paragraaf 1, wordt herleid naar een maatmaninkomen per aangiftetijdvak. Dit gebeurt door het maatmaninkomen per uur te vermenigvuldigen met: 
+
+a. de urenomvang per week van de maatgevende arbeid en het quotiënt van 52,2 en 12, indien het aangiftetijdvak een kalendermaand betreft; of  
+
+b. de urenomvang per week van de maatgevende arbeid en 4, indien het aangiftetijdvak vier weken betreft.     
+4.  Het arbeidsongeschiktheidspercentage wordt als volgt berekend: (M–L) / M * 100% Hierbij staat L voor het loon, bedoeld in de artikelen 44, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering, 58, tweede lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen of 3:48, tweede lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, per aangiftetijdvak; en M voor het maatmaninkomen zoals berekend op grond van het derde lid.  
+
 ### §  3  
 
 ####Overige regels
@@ -347,6 +362,13 @@ Indien de mate van arbeidsongeschiktheid voor de eerste maal is vastgesteld op e
 2. Indien het inkomen, de inkomsten uit arbeid en de verdiensten, bedoeld in artikel 7, betrekking hebben op aangiftetijdvakken, die zijn gelegen voor 1 januari 2006, wordt voor de bepaling van het inkomen, de inkomsten uit arbeid of de verdiensten uitgegaan van het loon waarnaar de premies met toepassing van de Coördinatiewet Sociale Verzekering, met uitzondering van artikel 9 van die wet, zoals die wet luidde ten tijde van die aangiftetijdvakken, zou zijn geheven. Hierbij wordt geen rekening gehouden met het betaalde bedrag aan vakantiebijslag en periodieke loonelementen, maar met een evenredig deel van de vakantiebijslag en periodieke loonelementen. 
 3. Tot 1 juli 2010 is artikel 10, vijfde lid, niet van toepassing op niet door het Uitvoeringsinstituut werknemersverzekeringen geactualiseerde functies, die worden gebruikt bij de bepaling van hetgeen betrokkene nog met arbeid kan verdienen als bedoeld in de artikelen 9 en 10. 
 4. Op de persoon die op 30 juni 2008 recht had op uitkering op grond van de WAO, Waz, Wajong of Wet WIA, en inkomsten uit arbeid had, wordt artikel 10, zesde lid, pas van toepassing, indien na 30 juni 2008 een onderzoek plaatsvindt als bedoeld in artikel 5 bij gelegenheid van dat onderzoek, dan wel indien de inkomsten uit arbeid op of na 1 januari 2013 wijzigen.
+
+### Artikel  12c  
+
+####Overgangsbepaling wijzigingsbesluit in verband met het invoeren van periodeloonvergelijking
+
+1.  Op de uitkeringsgerechtigde die in het eerste aangiftetijdvak na inwerkingtreding van artikel 10a ten minste één arbeidsongeschiktheidsklasse zou dalen vanwege de invoering van de periodeloonvergelijking, is artikel 10a gedurende twaalf maanden vanaf de dag van inwerkingtreding van dat artikel niet van toepassing.   
+2.  Dit artikel vervalt twaalf maanden na de dag van inwerkingtreding van artikel 10a.  
 
 ### Artikel  13  
 

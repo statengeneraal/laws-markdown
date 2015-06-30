@@ -31,6 +31,14 @@ a. de ouder aanspraak heeft op kindgebonden budget voor meer dan een kind; en
 b. voor een of meer van die kinderen voor de toepassing van de Algemene Kinderbijslagwet een ander land dan een van de in artikel 1, onder a tot en met d, bedoelde landen als woonland in aanmerking wordt genomen,   wordt voor de vaststelling van de hoogte van het kindgebonden budget het hoogste bedrag aan kindgebonden budget op grond van artikel 2, tweede, vierde en vijfde lid, van de Wet op het kindgebonden budget en de verhoging, bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget gekoppeld aan het kind dat woont in het land met het hoogste percentage, bedoeld in artikel 1, en wordt vervolgens steeds het daarop volgende hoogste bedrag aan kindgebonden budget gekoppeld aan het kind dat woont in het land met het daarop volgende hoogste percentage. Bij een gelijk percentage wordt het hoogste bedrag aan kindgebonden budget gekoppeld aan het kind met de hoogste leeftijd.   
 2.  Voor de toepassing van het eerste lid hebben de landen, bedoeld in artikel 1, onder a tot en met d, een percentage van 100.  
 
+### Artikel  2a  
+
+####Grondslag
+
+Treedt in werking per 01-01-2016 
+
+Deze regeling berust mede op artikel 2, twaalfde lid, van de Wet op het kindgebonden budget. 
+
 ### Artikel  3  
 
 ####Inwerkingtreding

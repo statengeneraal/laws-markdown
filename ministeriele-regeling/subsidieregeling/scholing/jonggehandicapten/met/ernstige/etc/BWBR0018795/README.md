@@ -14,7 +14,7 @@ In deze regeling wordt verstaan onder:
 
 a. de minister: de Minister van Sociale Zaken en Werkgelegenheid;  
 
-b. persoon met ernstige scholingsbelemmeringen: persoon die nog geen diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen b tot en met e, van de Wet educatie en beroepsonderwijs heeft verworven, die geen uitkering ontvangt op basis van de Wet werk en inkomen naar arbeidsvermogen of de Wet op de arbeidsongeschiktheidsverzekering, die de leeftijd van 18 jaar heeft bereikt en kenmerken heeft zoals opgenomen in de bij deze regeling behorende bijlage die: 
+b. persoon met ernstige scholingsbelemmeringen: persoon als bedoeld in de artikelen 2:3 of 3:2 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten of artikel 7, eerste lid, onderdeel a, van de Participatiewet, die nog geen diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen b tot en met e, van de Wet educatie en beroepsonderwijs heeft verworven, die de leeftijd van 18 jaar heeft bereikt en kenmerken heeft zoals opgenomen in de bij deze regeling behorende bijlage die: 
 
 1°. na scholing of opleiding, die strekt tot behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid, in staat is om algemeen geaccepteerde arbeid te verrichten als bedoeld in de artikelen 2:5 en 3:1 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en 6, eerste lid, onderdeel b, van de Participatiewet, en  
 
@@ -34,7 +34,7 @@ g. het college: het college van burgemeester en wethouders.
 
 ####Vaststelling persoon met ernstige scholingsbelemmeringen
 
-1.  Het Uitvoeringsinstituut werknemersverzekeringen oordeelt of een persoon een persoon met ernstige scholingsbelemmeringen is als bedoeld in artikel 1, onderdeel b, met dien verstande dat het Uitvoeringsinstituut werknemersverzekeringen de persoon alleen beoordeelt op de sociaal-medische criteria van de bij deze regeling behorende bijlage.   
+1.  Het Uitvoeringsinstituut werknemersverzekeringen oordeelt of een persoon waarvoor het college verantwoordelijk is een persoon met ernstige scholingsbelemmeringen is als bedoeld in artikel 1, onderdeel b, met dien verstande dat het Uitvoeringsinstituut werknemersverzekeringen de persoon alleen beoordeelt op de sociaal-medische criteria van de bij deze regeling behorende bijlage.   
 2.  Voor de beoordeling van een persoon waarvoor het college verantwoordelijk is, maakt de persoon gebruik van een daartoe door het Uitvoeringsinstituut werknemersverzekeringen te verstrekken formulier. Bij de aanvraag overlegt de persoon op verzoek van het Uitvoeringsinstituut werknemersverzekeringen alle gegevens die nodig zijn om vast te stellen of hij een persoon met ernstige scholingsbelemmeringen is als bedoeld in artikel 1, onderdeel b.   
 3.  Indien het college verantwoordelijk is voor de re-integratie van een persoon, neemt het Uitvoeringsinstituut werknemersverzekeringen de aanvraag, bedoeld in het tweede lid, niet in behandeling, dan nadat deze persoon schriftelijk instemming heeft verkregen van het college.  
 

@@ -606,7 +606,9 @@ k. onverminderd artikel 79, eerste lid, het openbaar maken van informatie die no
 
 l. de taken te vervullen die voortvloeien uit verordening 714/2009;  
 
-m. samen te werken met het Agentschap.    
+m. samen te werken met het Agentschap; 
+
+n. ten behoeve van het transport van elektriciteit die wordt opgewekt door middel van windenergie binnen de Nederlandse exclusieve economische zone of binnen de territoriale zee, het treffen van de voorbereidingshandelingen voor de aanleg van verbindingen voor het transport van elektriciteit, waaronder begrepen het voorbereiden van vergunningaanvragen en een netontwikkelingsplan.    
 3.  Het is anderen dan de desbetreffende netbeheerder verboden een taak uit te voeren als bedoeld in het eerste of tweede lid, behoudens voor zover het betreft het realiseren van de aansluiting van een afnemer als bedoeld in artikel 16c, het aanleggen van een landsgrensoverschrijdend net of het aanleggen, beheren en onderhouden van een net als bedoeld in artikel 15, eerste lid, dan wel ter uitvoering van een procedure als bedoeld in artikel 20, derde lid.    
 4. Producenten, leveranciers en handelaren onthouden zich van iedere bemoeiing met de uitvoering van de taken die op grond van het eerste of tweede lid aan een netbeheerder zijn opgedragen.  
 5.  Vervallen.   
@@ -1281,6 +1283,11 @@ g. het totaal van de gemaakte kosten voor een verwerving van een bestaand net wa
 3.  De geschatte kosten die de netbeheerder van het landelijk hoogspanningsnet voor de uitvoering van de taken, genoemd in artikel 16, tweede lid, maakt, worden zonder toepassing van de formule, bedoeld in het eerste lid, onderdeel d, en met toepassing van het besluit, bedoeld in artikel 41, eerste lid, onderdeel b, toegevoegd aan de totale inkomsten uit de tarieven van de netbeheerder van het landelijk hoogspanningsnet.  
 4.  De Autoriteit Consument en Markt stelt een beleidsregel vast betreffende de beoordeling van doelmatigheid, bedoeld in het eerste lid, onder e en g. 
 
+### Artikel  41ba  
+
+1.  De kosten die de netbeheerder van het landelijk hoogspanningsnet maakt tussen 6 september 2013 en de datum van inwerkingtreding van de Wet windenergie op zee voor de uitvoering van de taak, genoemd in artikel 16, tweede lid, onderdeel n, worden in het jaar dat volgt op de inwerkingtreding van de Wet windenergie op zee zonder toepassing van de formule, bedoeld in artikel 41b, eerste lid, onder d, toegevoegd aan de totale inkomsten uit de tarieven van deze netbeheerder, bedoeld in artikel 41b, eerste lid.   
+2.  De geschatte kosten die de netbeheerder van het landelijk hoogspanningsnet maakt tussen de datum van inwerkingtreding van de Wet windenergie op zee en 31 december 2016 voor de uitvoering van de taak, genoemd in artikel 16, tweede lid, onderdeel n, worden zonder toepassing van de formule, bedoeld in artikel 41b, eerste lid, onder d, toegevoegd aan de totale inkomsten uit de tarieven van deze netbeheerder, bedoeld in artikel 41b, eerste lid. Het verschil tussen de geschatte en gerealiseerde kosten wordt betrokken bij de vaststelling van de totale inkomsten uit de tarieven van deze netbeheerder in een volgend jaar.  
+
 ### Artikel  41c  
 
 1.  De Autoriteit Consument en Markt stelt de tarieven, die kunnen verschillen voor de verschillende netbeheerders en voor onderscheiden tariefdragers, jaarlijks vast.   
@@ -1929,13 +1936,19 @@ b.de betrouwbaarheid van de informatie van de leverancier aan de eindafnemer ten
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld over: 
 
-a. de inrichting van facturen inzake het verbruik van elektriciteit,  
+a. de inrichting van energiekostenramingen en facturen inzake het verbruik van elektriciteit,  
 
 b. de frequentie van facturen inzake het verbruik van elektriciteit,  
 
-c. het verstrekken van gegevens over het verbruik van elektriciteit en  
+c. het verstrekken van gegevens over het verbruik van elektriciteit,  
 
-d. degenen die de informatie, bedoeld in de onderdelen a, b en c, verstrekken, welke regels kunnen verschillen per categorie van ontvangers van de informatie, bedoeld in de onderdelen a, b en c.   
+d. degenen die de informatie, bedoeld in de onderdelen a, b en c, verstrekken, welke regels kunnen verschillen per categorie van ontvangers van de informatie, bedoeld in de onderdelen a, b en c,  
+
+e. het op verzoek van een afnemer toesturen van facturen, factureringsinformatie en energiekostenramingen, eventueel langs elektronische weg,  
+
+f. de kosten van toegang tot meetgegevens en van facturatie en  
+
+g. degenen die om de informatie, bedoeld in onderdeel e, kunnen verzoeken.  
 
 ### Artikel  95lc  
 

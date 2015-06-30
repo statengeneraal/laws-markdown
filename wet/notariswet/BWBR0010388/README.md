@@ -636,7 +636,7 @@ Treedt in werking per 17-08-2015
 
 ### Artikel  50  
 
-1.  De notaris kan aan iedere partij bij een akte daarvan een grosse afgeven. Deze moet tot hoofd hebben de woorden: In naam des Konings, en tot slot: Uitgegeven voor eerste grosse. Van elke afgifte van een grosse stelt de notaris op de akte een gewaarmerkte aantekening, behelzende de dag van de afgifte, de rang van de grosse en de aanduiding van de partij, aan welke zij werd uitgereikt. De notaris geeft desverlangd een tweede of verdere grosse af aan iedere partij bij de akte, dan wel aan hun rechtverkrijgenden onder algemene titel.   
+1.  De notaris kan aan iedere partij bij een akte daarvan een grosse afgeven. Deze moet tot hoofd hebben de woorden: In naam van de Koning, en tot slot: Uitgegeven voor eerste grosse. Van elke afgifte van een grosse stelt de notaris op de akte een gewaarmerkte aantekening, behelzende de dag van de afgifte, de rang van de grosse en de aanduiding van de partij, aan welke zij werd uitgereikt. De notaris geeft desverlangd een tweede of verdere grosse af aan iedere partij bij de akte, dan wel aan hun rechtverkrijgenden onder algemene titel.   
 2.  Uittreksels mogen slechts als grossen worden uitgegeven van: 
 
 a. akten van verdeling van gemeenschappen;  

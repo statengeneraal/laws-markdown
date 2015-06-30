@@ -388,7 +388,7 @@ De notaris mag, met uitzondering van een aan hem in bewaring gegeven olografisch
 ### Artikel  49  
 
 1.  Aan iedere onmiddellijk belanghebbende bij een notariële akte en aan diens erfgenamen of rechtverkrijgenden kan daarvan een grosse worden afgegeven.   
-2.  Deze moet tot hoofd hebben de woorden: «In naam des Konings» en tot slot: «Uitgegeven voor eerste grosse», met vermelding van de naam van degene op wiens verzoek en van de datum waarop de uitgifte is geschied.   
+2.  Deze moet tot hoofd hebben de woorden: «In naam van de Koning» en tot slot: «Uitgegeven voor eerste grosse», met vermelding van de naam van degene op wiens verzoek en van de datum waarop de uitgifte is geschied.   
 3.  Uittreksels of gedeelten van akten mogen niet als grosse worden uitgegeven, met uitzondering echter van akten van verdeling van een gemeenschap en van processen-verbaal van openbare verkoop, verhuur, verpachting en aanbesteding, waarvan het geoorloofd is voor iedere afzonderlijke toedeling, koop, huur, pacht of aanneming, of voor alle door een en dezelfde persoon of personen gezamenlijk gedane kopen, huren, pachten of aannemingen een uittreksel als grosse uit te geven, voor zover die personen het proces-verbaal mede-ondertekend of bij verhindering verklaard hebben door daarin genoemde beletselen niet te hebben kunnen tekenen; de voorwaarden van verkoop, verhuur, verpachting of aanbesteding moeten echter voor zover zij de betrokken kopen, huren, pachten of aannemingen aangaan, in hun geheel in dit uittreksel worden opgenomen.  
 
 ### Artikel  50  

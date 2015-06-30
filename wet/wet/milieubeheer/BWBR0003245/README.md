@@ -4211,42 +4211,7 @@ Bij algemene maatregel van bestuur kunnen nadere regelen worden gesteld met betr
 
 ####Voorschriften omtrent het verstrekken van subsidies 
 
-### Artikel  15.12  
-
-In afwijking van artikel 4:21, derde lid, van de Algemene wet bestuursrecht, is titel 4.2 van de Algemene wet bestuursrecht van toepassing op subsidies die krachtens deze titel uitsluitend worden verstrekt aan rechtspersonen die krachtens publiekrecht zijn ingesteld.  
-
-### Artikel  15.13  
-
-1.  Onze Minister kan voor bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling aangewezen activiteiten op het gebied van het milieubeheer subsidie verstrekken.    
-2.  Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling kunnen in ieder geval regels worden gesteld omtrent:  
-
-a. criteria voor de verstrekking;   
-
-b. het tijdvak waarvoor de subsidie wordt verleend;   
-
-c. de voorwaarden waaronder de subsidie wordt verleend;   
-
-d. de aanvraag van een subsidie en de besluitvorming daarover;   
-
-e. de verplichtingen voor de subsidie-ontvanger;   
-
-f. het bedrag van de subsidie dan wel de wijze waarop dit wordt bepaald;   
-
-g. de betaling van de subsidie en het verlenen van voorschotten.      
-3.  Onze Minister kan ieder jaar bij ministeriële regeling subsidieplafonds vaststellen voor de verschillende activiteiten waarvoor subsidie kan worden verstrekt. Daarbij bepaalt hij de wijze van verdeling van het beschikbare bedrag.    
-4.  Een aanvraag kan worden afgewezen en een beschikking inhoudende de verstrekking van een subsidie op grond van deze wet kan worden ingetrokken of gewijzigd voor zover subsidieverstrekking in strijd zou zijn respectievelijk in strijd is met ingevolge een verdrag voor de staat geldende verplichtingen. Bij de intrekking of wijziging kan worden bepaald, dat over onverschuldigd betaalde subsidiebedragen een rentevergoeding verschuldigd is. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is verstrekt, tenzij bij de intrekking of wijziging anders is bepaald. De artikelen 4:49, derde lid, en 4:57, vierde lid, van de Algemene wet bestuursrecht zijn niet van toepassing op de intrekking of wijziging.   
-
-### Artikel  15.14  
-
-1.  De door Onze Minister aangewezen personen zijn bevoegd van de aanvrager van een subsidie inlichtingen te vorderen. De artikelen 5:13, 5:15, voor zover het door de aanvrager gebruikte plaatsen betreft, en 5:17 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.    
-2.  Een aanvraag kan worden afgewezen, indien de aanvrager geen medewerking verleent bij de uitoefening van de in het eerste lid bedoelde bevoegdheden.   
-
-### Artikel  15.15  
-
-1.  Met het toezicht op de naleving van de aan de subsidie-ontvanger opgelegde verplichtingen zijn belast de bij besluit van Onze Minister aangewezen personen.    
-2.  De toezichthouder beschikt niet over de bevoegdheden, genoemd in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht.    
-3.  Van een besluit als bedoeld in het eerste lid, wordt mededeling gedaan door plaatsing in de Staatscourant.    
-4.  Aan de krachtens deze wet verstrekte subsidies is de verplichting verbonden dat de subsidie-ontvanger aan een toezichthouder alle medewerking verleent die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.   
+Vervallen per 01-07-2015 
 
 ### Titel  15.4  
 
@@ -5712,7 +5677,7 @@ Tot de bevoegdheid tot oplegging van een last onder bestuursdwang krachtens arti
 
 ### Artikel  18.16a  
 
-1. In geval van overtreding van het bepaalde bij of krachtens de artikel 16.5, artikel 16.12, eerste, tweede en derde lid, artikel 16.12, tweede lid, aanhef en onder a, in verbinding met artikel 16.39h, artikel 16.12, eerste, tweede en derde lid, in verbinding met artikel 16.49, tweede lid, 16.13, 16.13 in verbinding met artikel 16.39h, 16.13a, 16.14, artikel 16.19, artikel 16.20c, tweede lid, 16.21, 16.21 in verbinding met artikel 16.39h, artikel 16.29, de onderdelen b en c, artikel 16.34, of van de artikelen 18.5 en 18.6 of van artikel 18.18, voorzover het een voorschrift betreft dat is verbonden aan een vergunning krachtens hoofdstuk 16, kan het bestuur van de emissieautoriteit de overtreder een bestuurlijke boete opleggen. 
+1. In geval van overtreding van het bepaalde bij of krachtens de artikel 16.5, 16.12, 16.12 in verbinding met artikel 16.39h, 16.13, 16.13 in verbinding met artikel 16.39h, 16.13a, 16.14, artikel 16.19, artikel 16.20c, tweede lid, 16.21, 16.21 in verbinding met artikel 16.39h, artikel 16.29, de onderdelen b en c, artikel 16.34, of van de artikelen 18.5 en 18.6 of van artikel 18.18, voorzover het een voorschrift betreft dat is verbonden aan een vergunning krachtens hoofdstuk 16, kan het bestuur van de emissieautoriteit de overtreder een bestuurlijke boete opleggen. 
 2.  Het bestuur van de emissieautoriteit legt een bestuurlijke boete op in geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste lid. Artikel 5:41 van de Algemene wet bestuursrecht is niet van toepassing.   
 3.  In geval van overtreding van het bepaalde bij of krachtens artikel 16.21 of van artikel 18.18, voorzover het een voorschrift betreft dat is verbonden aan een vergunning krachtens hoofdstuk 16, kunnen een bestuurlijke boete en een last onder dwangsom tezamen worden opgelegd.   
 4. In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, wordt een bestuurlijke boete als bedoeld in het tweede lid, onderscheidenlijk kan een bestuurlijke boete als bedoeld in het eerste lid worden opgelegd naast een verhoging van het aantal broeikasgasemissierechten dat degene die de betrokken inrichting drijft, met betrekking tot een kalenderjaar overeenkomstig artikel 16.39 dient in te leveren. In geval van overtreding van het bepaalde bij artikel 16.39t, eerste lid, wordt een bestuurlijke boete als bedoeld in het tweede lid en kan een bestuurlijke boete als bedoeld in het eerste lid worden opgelegd naast een verhoging van het aantal broeikasgasemissierechten dat de vliegtuigexploitant met betrekking tot een kalenderjaar overeenkomstig artikel 16.39w dient in te leveren. 

@@ -64,11 +64,13 @@ n.  *belastingplichtige:* de natuurlijke persoon of rechtspersoon van wie op gro
 
 o.  *belastingschuldige:* degene te wiens naam de belastingaanslag is gesteld;  
 
-p.  *de Raad:* de Raad van Beroep voor belastingzaken, bedoeld in artikel 8.97  
+p.  *het Hof:* het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;  
 
-q.  *bevoegde autoriteit:* de door een staat tot het uitwisselen van inlichtingen aangewezen persoon of instantie;  
+q.  *het Gerecht in eerste aanleg:* het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba; 
 
-r.  *USD:* dollar van de Verenigde Staten van Amerika.   
+r.  *bevoegde autoriteit:* de door een staat tot het uitwisselen van inlichtingen aangewezen persoon of instantie;  
+
+s.  *USD:* dollar van de Verenigde Staten van Amerika.   
 
 ### Artikel  1.4  
 
@@ -1673,7 +1675,7 @@ De belastingaanslag, de bestuurlijke boete, de interest en de kosten van vervolg
 
 ####Eisen aan dwangschrift
 
-1.  De dwangschriften dragen aan het hoofd de woorden: «In naam van de Koningin» en bevatten: 
+1.  De dwangschriften dragen aan het hoofd de woorden: «In naam van de Koning» en bevatten: 
 
 a. een zo volledig mogelijke aanduiding van degene tegen wie de vordering gericht wordt;  
 
@@ -2046,7 +2048,7 @@ e. het alsnog voldoen aan een bij deze wet gestelde verplichting.
 
 ####Uittreksels van vonnissen
 
-De griffier van het Gemeenschappelijk Hof van Justitie Aruba, Curaçao, Sint Maarten en Bonaire, Sint Eustatius en Saba verstrekt aan de directeur desgevraagd kosteloos afschrift of uittreksel van vonnissen, in belastingstrafzaken gewezen. 
+De griffier van het Hof verstrekt aan de directeur desgevraagd kosteloos afschrift of uittreksel van vonnissen, in belastingstrafzaken gewezen. 
 
 ### Titel  7  
 
@@ -2182,7 +2184,7 @@ a. de belanghebbende niet of niet volledig voldoet aan het verzoek van de inspec
 
 b. de belanghebbende niet of niet volledig voldoet aan het verzoek van de inspecteur gegevens en inlichtingen te verstrekken welke voor de afhandeling van het bezwaarschrift van belang kunnen zijn;  
 
-c. de inspecteur met betrekking tot het geschil waartegen het bezwaar is gericht, de uitkomst van een vergelijkbare procedure door de Raad wil afwachten;  
+c. de inspecteur met betrekking tot het geschil waartegen het bezwaar is gericht, de uitkomst van een vergelijkbare procedure door het Gerecht in eerste aanleg wil afwachten;  
 
 d. de inspecteur een verzoek om inlichtingen, welke voor de afhandeling van het bezwaarschrift van belang kan zijn, aan een bevoegde autoriteit van een andere staat heeft gedaan;  
 
@@ -2208,27 +2210,7 @@ De verplichting tot betaling wordt niet geschorst door de indiening van een bezw
 
 ####Raad van beroep voor belastingzaken
 
-### Artikel  8.97  
-
-1.  De Raad is gevestigd in de zittingsplaats van het Gerecht in Eerste Aanleg van Bonaire, Sint Eustatius en Saba. De Raad kan ook elders zitting houden.   
-2.  De Raad doet uitspraak op beroepschriften inzake belastingen.  
-
-### Artikel  8.98  
-
-1.  De Raad bestaat uit een voorzitter en twee leden.   
-2.  Voorzitter is de President van het Gemeenschappelijk Hof van Justitie Aruba, Curaçao, Sint Maarten en Bonaire, Sint Eustatius en Saba of zijn aangewezen plaatsvervanger.   
-3.  De leden worden door de voorzitter gekozen uit de bezoldigde met rechtspraak belaste leden, waaruit het Gemeenschappelijk Hof van Justitie Aruba, Curaçao, Sint Maarten en Bonaire, Sint Eustatius en Saba is samengesteld, hetzij voor een bepaalde termijn, hetzij voor een bepaalde zaak.  
-
-### Artikel  8.99  
-
-Als secretaris van de Raad treedt op de griffier van het Gemeenschappelijk Hof van Justitie Aruba, Curaçao, Sint Maarten en Bonaire, Sint Eustatius en Saba, die zo nodig wordt vervangen door de substituut-griffier van het Gemeenschappelijk Hof van Justitie Aruba, Curaçao, Sint Maarten en Bonaire, Sint Eustatius en Saba. 
-
-### Artikel  8.100  
-
-1.  De Raad vergadert op plaats en tijd door de voorzitter te bepalen.   
-2.  De vergaderingen zijn niet openbaar.   
-3.  De Raad beslist bij meerderheid van stemmen.   
-4.  Zijn meer dan twee verschillende gevoelens uitgebracht, dan wordt besloten in de zin, die het meest overeenkomt met het gevoelen van de meerderheid.  
+Vervallen per 30-06-2015 
 
 ### Afdeling  3  
 
@@ -2238,7 +2220,7 @@ Als secretaris van de Raad treedt op de griffier van het Gemeenschappelijk Hof v
 
 ####Beroep
 
-1.  De belanghebbende kan tegen een uitspraak op bezwaar beroep instellen bij de Raad.   
+1.  De belanghebbende kan tegen een uitspraak op bezwaar beroep instellen bij het Gerecht in eerste aanleg.   
 2.  De termijn voor het instellen van beroep bedraagt twee maanden na dagtekening van de uitspraak op bezwaar.   
 3.  Het beroep kan slechts worden ingesteld door: 
 
@@ -2250,7 +2232,7 @@ c. degene tot wie de voor bezwaar vatbare beschikking zich richt, of
 
 d. degene van wie inkomens- of vermogensbestanddelen zijn begrepen in het voorwerp van belasting waarop de belastingaanslag of de voor bezwaar vatbare beschikking betrekking heeft.     
 4.  De inspecteur stelt de in het derde lid bedoelde belanghebbende desgevraagd op de hoogte van de gegevens met betrekking tot de belastingaanslag of de beschikking voor zover deze gegevens voor het instellen van beroep of het maken van bezwaar redelijkerwijs van belang kunnen worden geacht.   
-5.  De Raad bevestigt de ontvangst van het beroepschrift schriftelijk.  
+5.  Het Gerecht in eerste aanleg bevestigt de ontvangst van het beroepschrift schriftelijk.  
 
 ### Artikel  8.102  
 
@@ -2262,8 +2244,6 @@ De verplichting tot betaling wordt niet geschorst door het instellen van beroep.
 
 ####Behandeling door een enkelvoudige en een meervoudige kamer
 
-Treedt in werking per 30-06-2015 
-
 1.  Zaken die bij het Gerecht in eerste aanleg aanhangig worden gemaakt, worden in behandeling genomen door een enkelvoudige kamer.   
 2.  De enkelvoudige kamer kan een zaak naar een meervoudige kamer verwijzen.   
 3.  Verwijzing kan geschieden in elke stand van het geding. Een verwezen zaak wordt voortgezet in de stand waarin zij zich bevindt.  
@@ -2272,8 +2252,6 @@ Treedt in werking per 30-06-2015
 
 ####Gelijke toepassing voorschriften en bevoegdheden
 
-Treedt in werking per 30-06-2015 
-
 1.  De voorschriften omtrent de behandeling van het beroep zijn op de behandeling zowel door een enkelvoudige als door een meervoudige kamer van toepassing.   
 2.  Degene die zitting heeft in een enkelvoudige kamer heeft tevens de bevoegdheden en de verplichtingen die de voorzitter van een meervoudige kamer heeft.  
 
@@ -2281,7 +2259,7 @@ Treedt in werking per 30-06-2015
 
 ####Indienen en vereisten beroepschrift
 
-1.  Het instellen van beroep geschiedt door het indienen van een beroepschrift bij de Raad.   
+1.  Het instellen van beroep geschiedt door het indienen van een beroepschrift bij het Gerecht in eerste aanleg.   
 2.  Het beroepschrift wordt ondertekend en bevat ten minste: 
 
 a. de naam en het adres van de indiener;  
@@ -2302,34 +2280,32 @@ d. de gronden van het beroep.
 ####Griffierecht
 
 1.  Van de indiener van het beroepschrift wordt ten behoeve van ’s Rijks schatkist een griffierecht geheven ten bedrage van USD 30.   
-2.  De secretaris wijst de indiener van het beroepschrift op de verschuldigdheid van het griffierecht en deelt hem mee dat het griffierecht binnen zes weken na de verzending van zijn mededeling dient te zijn betaald aan de Raad.   
+2.  De griffier wijst de indiener van het beroepschrift op de verschuldigdheid van het griffierecht en deelt hem mee dat het griffierecht binnen zes weken na de verzending van zijn mededeling dient te zijn betaald aan het Gerecht in eerste aanleg.   
 3.  Indien het griffierecht niet tijdig is betaald, wordt het beroep niet-ontvankelijk verklaard, tenzij redelijkerwijs niet kan worden geoordeeld dat de indiener van het beroepschrift in verzuim is geweest.   
-4.  Indien de Raad het beroep geheel of gedeeltelijk gegrond verklaart, vergoedt de inspecteur het door de indiener van het beroepschrift betaalde griffierecht.  
+4.  Indien het Gerecht in eerste aanleg het beroep geheel of gedeeltelijk gegrond verklaart, vergoedt de inspecteur het door de indiener van het beroepschrift betaalde griffierecht.  
 
 ### Artikel  8.104a  
 
-####Doorzendverplichting secretaris
+####Doorzendverplichting griffier
 
-De secretaris zendt zo spoedig mogelijk een kopie van alle door een partij toegezonden stukken aan de wederpartij. 
+De griffier zendt zo spoedig mogelijk een kopie van alle door een partij toegezonden stukken aan de wederpartij. 
 
 ### Artikel  8.105  
 
 ####Reactie inspecteur
 
-1.  Binnen vier weken na verzending van het beroepschrift aan de inspecteur zendt deze de op de zaak betrekking hebbende stukken aan de Raad en dient hij een verweerschrift in.   
-2.  De Raad kan de in het eerste lid bedoelde termijn verlengen.  
+1.  Binnen vier weken na verzending van het beroepschrift aan de inspecteur zendt deze de op de zaak betrekking hebbende stukken aan het Gerecht in eerste aanleg en dient hij een verweerschrift in.   
+2.  Het Gerecht in eerste aanleg kan de in het eerste lid bedoelde termijn verlengen.  
 
 ### Artikel  8.106  
 
 ####Repliek en dupliek
 
-De Raad kan de indiener van het beroepschrift in de gelegenheid stellen schriftelijk te repliceren. In dat geval wordt de inspecteur in de gelegenheid gesteld schriftelijk te dupliceren. De Raad stelt de termijnen voor repliek en dupliek vast. 
+Het Gerecht in eerste aanleg kan de indiener van het beroepschrift in de gelegenheid stellen schriftelijk te repliceren. In dat geval wordt de inspecteur in de gelegenheid gesteld schriftelijk te dupliceren. Het Gerecht in eerste aanleg stelt de termijnen voor repliek en dupliek vast. 
 
 ### Artikel  8.106a  
 
 ####Vereenvoudigde behandeling
-
-Treedt in werking per 30-06-2015 
 
 Het Gerecht in eerste aanleg kan onmiddellijk uitspraak doen indien een nader onderzoek het Gerecht niet nodig voorkomt, omdat: 
 
@@ -2345,8 +2321,6 @@ d. de inspecteur kennelijk aan de bezwaren van de belanghebbende tegemoet is gek
 
 ####Verzet
 
-Treedt in werking per 30-06-2015 
-
 1.  Tegen de in artikel 8.106a bedoelde uitspraak kunnen partijen schriftelijk verzet doen bij het Gerecht in eerste aanleg. Artikel 8.103 is van overeenkomstige toepassing.   
 2.  Alvorens een uitspraak te doen op het verzet, kan het Gerecht in eerste aanleg de partij die het verzet deed in de gelegenheid stellen te worden gehoord. Is het Gerecht in eerste aanleg van oordeel dat het verzet ongegrond is, dan gaat het niet tot ongegrondverklaring over dan na de indiener van het verzetschrift die daarom vroeg in de gelegenheid te hebben gesteld te worden gehoord.   
 3.  Is het Gerecht in eerste aanleg van oordeel dat het verzet gegrond is, dan vervalt de in artikel 8.106a bedoelde uitspraak en wordt de zaak alsnog in behandeling genomen.  
@@ -2355,52 +2329,52 @@ Treedt in werking per 30-06-2015
 
 ####Onderzoek ter zitting
 
-1.  Zodra het verweerschrift of de dupliek is ingediend, dan wel de termijn daarvoor is verstreken, worden partijen ten minste zes weken van tevoren uitgenodigd om op een in de uitnodiging te vermelden plaats en tijdstip op een zitting van de Raad te verschijnen.   
-2.  Als partijen daarvoor toestemming hebben verleend, kan de Raad bepalen dat het onderzoek ter zitting achterwege blijft.   
+1.  Zodra het verweerschrift of de dupliek is ingediend, dan wel de termijn daarvoor is verstreken, worden partijen ten minste zes weken van tevoren uitgenodigd om op een in de uitnodiging te vermelden plaats en tijdstip op een zitting van het Gerecht in eerste aanleg te verschijnen.   
+2.  Als partijen daarvoor toestemming hebben verleend, kan het Gerecht in eerste aanleg bepalen dat het onderzoek ter zitting achterwege blijft.   
 3.  Tot tien dagen voor de zitting kunnen partijen nadere stukken indienen. Op deze bevoegdheid worden partijen in de uitnodiging gewezen.   
-4.  Behoudens voor zover het beroep is gericht tegen een uitspraak waarbij een boete geheel of gedeeltelijk is gehandhaafd, vindt het onderzoek ter zitting plaats met gesloten deuren. De Raad kan bepalen dat het onderzoek openbaar is, mits de belangen van partijen daardoor niet worden geschaad.  
+4.  Behoudens voor zover het beroep is gericht tegen een uitspraak waarbij een boete geheel of gedeeltelijk is gehandhaafd, vindt het onderzoek ter zitting plaats met gesloten deuren. Het Gerecht in eerste aanleg kan bepalen dat het onderzoek openbaar is, mits de belangen van partijen daardoor niet worden geschaad.  
 
 ### Artikel  8.108  
 
 ####Vertegenwoordiging en bijstand
 
 1.  Partijen kunnen zich laten bijstaan of door een gemachtigde laten vertegenwoordigen.   
-2.  De Raad kan een partij oproepen om in persoon dan wel in persoon of bij gemachtigde te verschijnen, al dan niet voor het geven van inlichtingen.   
-3.  Partijen die door de Raad zijn opgeroepen om in persoon dan wel in persoon of bij gemachtigde te verschijnen, al dan niet voor het geven van inlichtingen, zijn verplicht te verschijnen en de verlangde inlichtingen te geven. Partijen worden hierop gewezen.   
-4.  Indien een partij niet voldoet aan de verplichting te verschijnen of inlichtingen te verstrekken, kan de Raad daaruit de gevolgtrekkingen maken die hem geraden voorkomen.  
+2.  Het Gerecht in eerste aanleg kan een partij oproepen om in persoon dan wel in persoon of bij gemachtigde te verschijnen, al dan niet voor het geven van inlichtingen.   
+3.  Partijen die door het Gerecht in eerste aanleg zijn opgeroepen om in persoon dan wel in persoon of bij gemachtigde te verschijnen, al dan niet voor het geven van inlichtingen, zijn verplicht te verschijnen en de verlangde inlichtingen te geven. Partijen worden hierop gewezen.   
+4.  Indien een partij niet voldoet aan de verplichting te verschijnen of inlichtingen te verstrekken, kan het Gerecht in eerste aanleg daaruit de gevolgtrekkingen maken die hem geraden voorkomen.  
 
 ### Artikel  8.109  
 
-####Getuigen, deskundigen en tolken van de Raad
+####Getuigen, deskundigen en tolken van het Gerecht in eerste aanleg
 
-1.  De Raad kan getuigen oproepen en deskundigen en tolken benoemen.   
-2.  De opgeroepen getuige en de deskundige of de tolk die zijn benoeming heeft aanvaard en door de Raad wordt opgeroepen, zijn verplicht aan de oproeping gevolg te geven. In de oproeping van de deskundige wordt vermeld de opdracht die moet worden vervuld, en de plaats en het tijdstip waarop de opdracht moet worden vervuld.   
+1.  Het Gerecht in eerste aanleg kan getuigen oproepen en deskundigen en tolken benoemen.   
+2.  De opgeroepen getuige en de deskundige of de tolk die zijn benoeming heeft aanvaard en door het Gerecht in eerste aanleg wordt opgeroepen, zijn verplicht aan de oproeping gevolg te geven. In de oproeping van de deskundige wordt vermeld de opdracht die moet worden vervuld, en de plaats en het tijdstip waarop de opdracht moet worden vervuld.   
 3.  Namen en woonplaatsen van de opgeroepen getuigen en deskundigen en de feiten waarop het horen betrekking zal hebben onderscheidenlijk de opdracht die moet worden vervuld, worden bij de uitnodiging, bedoeld in artikel 8.107, aan partijen zo veel mogelijk medegedeeld.   
 4.  Alvorens zijn taak te aanvaarden legt de deskundige of tolk de eed of belofte af, dat hij de hem opgedragen werkzaamheden eerlijk, nauwgezet en naar beste weten zal verrichten en geheim zal houden, wat geheim behoort te blijven.   
-5.  Aan door de Raad opgeroepen deskundigen en tolken worden een vergoeding toegekend volgens bij of krachtens algemene maatregel van bestuur te stellen regels.  
+5.  Aan door het Gerecht in eerste aanleg opgeroepen deskundigen en tolken worden een vergoeding toegekend volgens bij of krachtens algemene maatregel van bestuur te stellen regels.  
 
 ### Artikel  8.110  
 
 ####Getuigen en deskundigen van partijen
 
-1.  Partijen kunnen getuigen en deskundigen meebrengen of bij aangetekende brief of deurwaardersexploit oproepen, mits daarvan uiterlijk een week voor de dag van de zitting aan de Raad mededeling is gedaan, met vermelding van namen en woonplaatsen. Op deze bevoegdheid worden partijen in de uitnodiging, bedoeld in artikel 8.107, gewezen.   
-2.  De Raad kan afzien van het horen van door een partij meegebrachte of opgeroepen getuigen en deskundigen indien hij van oordeel is dat dit redelijkerwijs niet kan bijdragen aan de beoordeling van de zaak.  
+1.  Partijen kunnen getuigen en deskundigen meebrengen of bij aangetekende brief of deurwaardersexploit oproepen, mits daarvan uiterlijk een week voor de dag van de zitting aan het Gerecht in eerste aanleg mededeling is gedaan, met vermelding van namen en woonplaatsen. Op deze bevoegdheid worden partijen in de uitnodiging, bedoeld in artikel 8.107, gewezen.   
+2.  Het Gerecht in eerste aanleg kan afzien van het horen van door een partij meegebrachte of opgeroepen getuigen en deskundigen indien hij van oordeel is dat dit redelijkerwijs niet kan bijdragen aan de beoordeling van de zaak.  
 
 ### Artikel  8.111  
 
 ####Schorsing, sluiting en heropening van het onderzoek
 
-1.  De Raad kan het onderzoek ter zitting schorsen. Indien bij de schorsing geen tijdstip van een nadere zitting is bepaald, bepaalt de Raad dit zo spoedig mogelijk. Artikel 8.107, tweede lid, is van overeenkomstige toepassing.   
-2.  De Raad sluit het onderzoek, wanneer hij van oordeel is dat het is voltooid.   
+1.  Het Gerecht in eerste aanleg kan het onderzoek ter zitting schorsen. Indien bij de schorsing geen tijdstip van een nadere zitting is bepaald, bepaalt het Gerecht in eerste aanleg dit zo spoedig mogelijk. Artikel 8.107, tweede lid, is van overeenkomstige toepassing.   
+2.  Het Gerecht in eerste aanleg sluit het onderzoek, wanneer hij van oordeel is dat het is voltooid.   
 3.  Zodra het onderzoek is gesloten, deelt de voorzitter mee wanneer uitspraak gedaan zal worden.   
-4.  Indien de Raad van oordeel is dat het onderzoek ter zitting niet volledig is geweest, kan hij het onderzoek heropenen. De Raad bepaalt daarbij op welke wijze het onderzoek wordt voortgezet.   
-5.  De secretaris doet zo spoedig mogelijk mededeling aan partijen van de heropening van het onderzoek en de wijze waarop dit wordt voortgezet.  
+4.  Indien het Gerecht in eerste aanleg van oordeel is dat het onderzoek ter zitting niet volledig is geweest, kan hij het onderzoek heropenen. Het Gerecht in eerste aanleg bepaalt daarbij op welke wijze het onderzoek wordt voortgezet.   
+5.  De griffier doet zo spoedig mogelijk mededeling aan partijen van de heropening van het onderzoek en de wijze waarop dit wordt voortgezet.  
 
 ### Artikel  8.112  
 
 ####Schriftelijke uitspraak
 
-1.  Tenzij mondeling uitspraak wordt gedaan, doet de Raad binnen zes weken na de sluiting van het onderzoek schriftelijk uitspraak. In bijzondere omstandigheden kan de Raad deze termijn met ten hoogste zes weken verlengen, van welke verlenging mededeling wordt gedaan aan partijen.   
+1.  Tenzij mondeling uitspraak wordt gedaan, doet het Gerecht in eerste aanleg binnen zes weken na de sluiting van het onderzoek schriftelijk uitspraak. In bijzondere omstandigheden kan het Gerecht in eerste aanleg deze termijn met ten hoogste zes weken verlengen, van welke verlenging mededeling wordt gedaan aan partijen.   
 2.  De schriftelijke uitspraak vermeldt: 
 
 a. de namen van partijen en van hun vertegenwoordigers of gemachtigden;  
@@ -2412,30 +2386,30 @@ c. de beslissing;
 d. de naam van de rechter of de namen van de rechters die de zaak heeft onderscheidenlijk hebben behandeld; en  
 
 e. de dag waarop de beslissing is uitgesproken.     
-3.  De uitspraak wordt ondertekend door de voorzitter en de secretaris. Bij verhindering van de voorzitter of de secretaris wordt dit in de uitspraak vermeld.   
-4.  De Raad spreekt de beslissing, bedoeld in het tweede lid, onderdeel c, in het openbaar uit, in tegenwoordigheid van de secretaris.  
+3.  De uitspraak wordt ondertekend door de voorzitter en de griffier. Bij verhindering van de voorzitter of de griffier wordt dit in de uitspraak vermeld.   
+4.  Het Gerecht in eerste aanleg spreekt de beslissing, bedoeld in het tweede lid, onderdeel c, in het openbaar uit, in tegenwoordigheid van de griffier.  
 
 ### Artikel  8.113  
 
 ####Mondelinge uitspraak
 
-1.  De Raad kan na de sluiting van het onderzoek ter zitting onmiddellijk mondeling uitspraak doen. De uitspraak kan voor ten hoogste twee weken worden verdaagd onder aanzegging aan partijen van het tijdstip van de uitspraak.   
+1.  Het Gerecht in eerste aanleg kan na de sluiting van het onderzoek ter zitting onmiddellijk mondeling uitspraak doen. De uitspraak kan voor ten hoogste twee weken worden verdaagd onder aanzegging aan partijen van het tijdstip van de uitspraak.   
 2.  De mondelinge uitspraak bestaat uit de beslissing en de gronden van de beslissing.   
-3.  Van de mondelinge uitspraak wordt door de secretaris een proces-verbaal opgemaakt.   
-4.  Het proces-verbaal van de mondelinge uitspraak wordt door de voorzitter en de secretaris ondertekend. Bij verhindering van de voorzitter of de secretaris wordt dit in het proces-verbaal vermeld.   
-5.  De Raad spreekt de beslissing, bedoeld in het tweede lid, in het openbaar uit, in tegenwoordigheid van de secretaris.  
+3.  Van de mondelinge uitspraak wordt door de griffier een proces-verbaal opgemaakt.   
+4.  Het proces-verbaal van de mondelinge uitspraak wordt door de voorzitter en de griffier ondertekend. Bij verhindering van de voorzitter of de griffier wordt dit in het proces-verbaal vermeld.   
+5.  Het Gerecht in eerste aanleg spreekt de beslissing, bedoeld in het tweede lid, in het openbaar uit, in tegenwoordigheid van de griffier.  
 
 ### Artikel  8.114  
 
 ####Omkering bewijslast
 
-Indien het beroep is gericht tegen een belastingaanslag met betrekking tot welke ten onrechte de vereiste aangifte niet is gedaan, of niet volledig is voldaan aan de verplichting ingevolge de artikelen 8.83, 8.84 en 8.86 verklaart de Raad het beroep tegen de belastingaanslag ongegrond, tenzij gebleken is dat, en zo ja in hoeverre, de uitspraak op bezwaar onjuist is. 
+Indien het beroep is gericht tegen een belastingaanslag met betrekking tot welke ten onrechte de vereiste aangifte niet is gedaan, of niet volledig is voldaan aan de verplichting ingevolge de artikelen 8.83, 8.84 en 8.86 verklaart het Gerecht in eerste aanleg het beroep tegen de belastingaanslag ongegrond, tenzij gebleken is dat, en zo ja in hoeverre, de uitspraak op bezwaar onjuist is. 
 
 ### Artikel  8.115a  
 
 ####Proceskostenveroordeling
 
-1.  De Raad is bij uitsluiting bevoegd een partij te veroordelen in de kosten die een andere partij in verband met de behandeling van het beroep bij de Raad en van het bezwaar redelijkerwijs heeft moeten maken. Artikel 8.95, tweede en derde lid, is van overeenkomstige toepassing.   
+1.  Het Gerecht in eerste aanleg is bij uitsluiting bevoegd een partij te veroordelen in de kosten die een andere partij in verband met de behandeling van het beroep bij het Gerecht in eerste aanleg en van het bezwaar redelijkerwijs heeft moeten maken. Artikel 8.95, tweede en derde lid, is van overeenkomstige toepassing.   
 2.  Een natuurlijk persoon kan slechts in de kosten worden veroordeeld in geval van kennelijk onredelijk gebruik van procesrecht.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels gesteld worden over de kosten waarop een veroordeling als bedoeld in het eerste lid uitsluitend betrekking kan hebben en over de wijze waarop bij de uitspraak het bedrag van de kosten wordt vastgesteld.  
 
@@ -2443,26 +2417,22 @@ Indien het beroep is gericht tegen een belastingaanslag met betrekking tot welke
 
 ####Schadevergoeding
 
-1.  Indien de Raad het beroep gegrond verklaart, kan hij, indien daarvoor gronden zijn, op verzoek van een partij het bestuursorgaan veroordelen tot vergoeding van de schade die die partij lijdt.   
-2.  Indien de Raad de omvang van de schadevergoeding bij zijn uitspraak niet of niet volledig kan vaststellen, bepaalt hij in zijn uitspraak dat ter voorbereiding van een nadere uitspraak daarover de behandeling van de zaak wordt heropend. De Raad bepaalt daarbij op welke wijze de behandeling wordt voortgezet.  
+1.  Indien het Gerecht in eerste aanleg het beroep gegrond verklaart, kan hij, indien daarvoor gronden zijn, op verzoek van een partij het bestuursorgaan veroordelen tot vergoeding van de schade die die partij lijdt.   
+2.  Indien het Gerecht in eerste aanleg de omvang van de schadevergoeding bij zijn uitspraak niet of niet volledig kan vaststellen, bepaalt hij in zijn uitspraak dat ter voorbereiding van een nadere uitspraak daarover de behandeling van de zaak wordt heropend. Het Gerecht in eerste aanleg bepaalt daarbij op welke wijze de behandeling wordt voortgezet.  
 
 ### Artikel  8.116  
 
 ####Toezending afschrift
 
-Binnen twee weken na de dagtekening van de uitspraak zendt de secretaris kosteloos een afschrift van de uitspraak of van het proces-verbaal van de mondelinge uitspraak aan partijen. 
+Binnen twee weken na de dagtekening van de uitspraak zendt de griffier kosteloos een afschrift van de uitspraak of van het proces-verbaal van de mondelinge uitspraak aan partijen. 
 
 ### Afdeling  3a  
 
 #### Hoger beroep 
 
-Treedt in werking per 30-06-2015 
-
 ### Artikel  8.116a  
 
 ####Hoger beroep
-
-Treedt in werking per 30-06-2015 
 
 1.  Partijen kunnen bij het Hof hoger beroep instellen tegen een uitspraak van het Gerecht in eerste aanleg als bedoeld in de artikelen 8.112 en 8.113.   
 2.  De termijn voor het instellen van hoger beroep bedraagt twee maanden na de dag van de toezending van de uitspraak van het Gerecht in eerste aanleg overeenkomstig artikel 8.116.   
@@ -2472,15 +2442,11 @@ Treedt in werking per 30-06-2015
 
 ####Overeenkomstige toepassing
 
-Treedt in werking per 30-06-2015 
-
 Op het hoger beroep zijn de artikelen van afdeling 3, met uitzondering van de artikelen 8.102a en 8.102b, van overeenkomstige toepassing, voor zover in deze afdeling niet anders is bepaald. 
 
 ### Artikel  8.116c  
 
 ####Griffierecht
-
-Treedt in werking per 30-06-2015 
 
 1.  Van de indiener van het beroepschrift in hoger beroep wordt ten behoeve van ’s Rijks schatkist een griffierecht geheven ten bedrage van USD 60.   
 2.  De griffier wijst de indiener van het beroepschrift op de verschuldigdheid van het griffierecht en deelt hem mee dat het griffierecht binnen zes weken na de verzending van zijn mededeling dient te zijn betaald aan het Hof.   
@@ -2490,8 +2456,6 @@ Treedt in werking per 30-06-2015
 ### Artikel  8.116d  
 
 ####Strekking uitspraak
-
-Treedt in werking per 30-06-2015 
 
 1.  Het Hof bevestigt de uitspraak van het Gerecht in eerste aanleg, hetzij met overneming hetzij met verbetering van de gronden, of doet, met gehele of gedeeltelijke vernietiging van die uitspraak, hetgeen het Gerecht in eerste aanleg had behoren te doen.   
 2.  Wanneer het Gerecht in eerste aanleg de niet-ontvankelijkheid heeft uitgesproken en het Hof deze uitspraak vernietigt met een ontvankelijkverklaring, wordt de zaak terugverwezen naar het Gerecht in eerste aanleg om te worden hervat in de stand waarin de behandeling zich bevond. Tegen de nieuwe uitspraak van het Gerecht in eerste aanleg staat hoger beroep open overeenkomstig deze afdeling.   
@@ -2505,7 +2469,7 @@ Treedt in werking per 30-06-2015
 
 ####Bevoegdheid in burgerlijke en strafzaken
 
-Alle rechtsvorderingen tot betaling van belastingen, alsmede alle strafvervolgingen wegens misdrijven in belastingzaken behoren tot de kennisneming van de rechter in eerste aanleg op de zittingsplaats, waar de ontvanger waaronder de belastingschuldige ressorteert is gevestigd of het misdrijf is gepleegd en in hoger beroep tot de kennisneming van het Gemeenschappelijk Hof van Justitie Aruba, Curaçao, Sint Maarten en Bonaire, Sint Eustatius en Saba. 
+Alle rechtsvorderingen tot betaling van belastingen, alsmede alle strafvervolgingen wegens misdrijven in belastingzaken behoren tot de kennisneming van de rechter in eerste aanleg op de zittingsplaats, waar de ontvanger waaronder de belastingschuldige ressorteert is gevestigd of het misdrijf is gepleegd en in hoger beroep tot de kennisneming van het Hof. 
 
 ### Artikel  8.118  
 

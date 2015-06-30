@@ -302,7 +302,7 @@ De beschikking op een verzoek om herziening is niet vatbaar voor verzet of enige
 ### Artikel  40  
 
 1.  De schuldenaar wordt tot betaling genoodzaakt krachtens bevelschrift van de raad van toezicht of van de raad van appèl.   
-2.  Het in het eerste lid van dit artikel bedoelde bevelschrift wordt gesteld aan het slot van de rekening, onder het bedrag op hetwelk de rekening in eerste instantie door de raad van toezicht of in herziening door de raad van appèl is begroot. Het bevelschrift voert aan het hoofd de woorden: «IN NAAM DER KONINGIN». Het kan op de minuut ten uitvoer worden gelegd.  
+2.  Het in het eerste lid van dit artikel bedoelde bevelschrift wordt gesteld aan het slot van de rekening, onder het bedrag op hetwelk de rekening in eerste instantie door de raad van toezicht of in herziening door de raad van appèl is begroot. Het bevelschrift voert aan het hoofd de woorden: «In naam van de Koning». Het kan op de minuut ten uitvoer worden gelegd.  
 
 ### Artikel  41  
 

@@ -1096,14 +1096,14 @@ b. een ieder die de stortplaats exploiteert zonder dat voor hem een zodanige ver
 
 1.  De exploitant van een mijnbouwwerk als bedoeld in artikel 1, onderdeel n, van de Mijnbouwwet is aansprakelijk voor de schade die ontstaat door: 
 
-uitstroming van delfstoffen als bedoeld in artikel 1, onderdeel a, van de Mijnbouwwet als gevolg van het niet beheersen van de ondergrondse natuurkrachten die door de aanleg of bij de exploitatie van het werk zijn ontketend;  
+a.uitstroming van delfstoffen als bedoeld in artikel 1, onderdeel a, van de Mijnbouwwet als gevolg van het niet beheersen van de ondergrondse natuurkrachten die door de aanleg of bij de exploitatie van het werk zijn ontketend;  
 
-beweging van de bodem als gevolg van de aanleg of de exploitatie van dat werk.     
+b.beweging van de bodem als gevolg van de aanleg of de exploitatie van dat werk.     
 2.  In dit artikel wordt onder exploitant van een mijnbouwwerk verstaan: 
 
-de houder van een vergunning als bedoeld in artikel 6 of 25 van de Mijnbouwwet, die een mijnbouwwerk aanlegt of doet aanleggen dan wel in gebruik heeft;  
+a.de houder van een vergunning als bedoeld in artikel 6 of 25 van de Mijnbouwwet, die een mijnbouwwerk aanlegt of doet aanleggen dan wel in gebruik heeft;  
 
-een ieder die, anders dan als ondergeschikte, een mijnbouwwerk aanlegt of doet aanleggen dan wel in gebruik heeft zonder dat hij houder is van een vergunning als bedoeld in onderdeel a, tenzij hij in opdracht van een ander handelt die houder is van een vergunning als vorenbedoeld dan wel, indien die ander dat niet is, hij daarmee niet bekend was of behoorde te zijn.     
+b.een ieder die, anders dan als ondergeschikte, een mijnbouwwerk aanlegt of doet aanleggen dan wel in gebruik heeft zonder dat hij houder is van een vergunning als bedoeld in onderdeel a, tenzij hij in opdracht van een ander handelt die houder is van een vergunning als vorenbedoeld dan wel, indien die ander dat niet is, hij daarmee niet bekend was of behoorde te zijn.     
 3.  Voor schade door uitstroming van delfstoffen is aansprakelijk degene die ten tijde van de gebeurtenis waardoor de uitstroming plaatsvindt, exploitant van een mijnbouwwerk is. Indien na deze gebeurtenis een ander exploitant wordt van het mijnbouwwerk, blijft de aansprakelijkheid voor deze schade rusten op degene die ten tijde van die gebeurtenis exploitant was. Indien de gebeurtenis plaatsvindt nadat het mijnbouwwerk is verlaten, rust de aansprakelijkheid op degene die de laatste exploitant van het werk was, tenzij op het tijdstip van die gebeurtenis meer dan vijf jaren waren verstreken nadat het werk was verlaten met inachtneming van de geldende overheidsvoorschriften.   
 4.  Voor schade door beweging van de bodem is aansprakelijk degene die ten tijde van het bekend worden van deze schade exploitant is. Indien na het bekend worden een ander exploitant wordt, blijft de aansprakelijkheid rusten op degene die ten tijde van dit bekend worden exploitant was. Indien deze schade bekend wordt na sluiting van het mijnbouwwerk, rust de aansprakelijkheid op degene die de laatste exploitant was.   
 5.  Indien op de gebeurtenis waardoor de uitstroming of de beweging van de bodem is ontstaan, tevens een aansprakelijkheid uit artikel 173, 174 of 175 kan worden gegrond, rust die aansprakelijkheid, wat betreft de door die uitstroming of beweging van de bodem veroorzaakte schade, op dezelfde persoon als op wie de aansprakelijkheid ter zake van het mijnbouwwerk rust.  
