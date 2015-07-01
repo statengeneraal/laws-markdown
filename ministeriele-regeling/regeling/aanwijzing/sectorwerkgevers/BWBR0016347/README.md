@@ -3,16 +3,16 @@
 ##Regeling aanwijzing sectorwerkgevers
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op [artikel 1, onderdeel q, onder 9c van de Wet privatisering ABP](../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) (Stb. 1995, 639):
+Gelet op artikel 1, onderdeel q, onder 9c van de Wet privatisering ABP (Stb. 1995, 639):
 Besluit:    
 
 ### Artikel  1  
 
-Sectorwerkgever van het personeel dat werkzaam is in de sector Academische Ziekenhuizen is: de Vereniging Academische Ziekenhuizen. 
+Sectorwerkgever van het personeel dat werkzaam is in de sector Academische Ziekenhuizen is: de Nederlandse Federatie van Universitair Medische Centra. 
 
 ### Artikel  2  
 
-Sectorwerkgever van het personeel dat werkzaam is in de sector Hoger Beroepsonderwijs is: de HBO-raad, vereniging van hogescholen. 
+Sectorwerkgever van het personeel dat werkzaam is in de sector Hoger Beroepsonderwijs is: de Vereniging Hogescholen. 
 
 ### Artikel  3  
 
@@ -25,6 +25,14 @@ Sectorwerkgever van het personeel dat werkzaam is in de sector Onderzoekinstelli
 ### Artikel  5  
 
 Sectorwerkgever van het personeel dat werkzaam is in de sector Beroepsonderwijs en volwasseneneducatie: de Bve-raad en Colo. 
+
+### Artikel  5a  
+
+Sectorwerkgever van het personeel dat werkzaam is in de sector primair onderwijs: de vereniging PO-raad. 
+
+### Artikel  5b  
+
+Sectorwerkgever van het personeel dat werkzaam is in de sector voortgezet onderwijs: de vereniging VO-raad. 
 
 ### Artikel  6  
 

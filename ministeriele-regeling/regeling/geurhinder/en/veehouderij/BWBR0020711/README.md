@@ -5,12 +5,12 @@
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-Gelet op de [artikelen 1](../../../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md), [4, tweede lid](../../../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md), en [10 van de Wet geurhinder en veehouderij](../../../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md);
+Gelet op de artikelen 1, 4, tweede lid, en 10 van de Wet geurhinder en veehouderij;
 Besluit:    
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: bijlage: bij deze regeling behorende bijlage; wet: [Wet geurhinder en veehouderij](../../../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md); emissiepunt: punt waar een relevante hoeveelheid geur buiten: 
+In deze regeling wordt verstaan onder: bijlage: bij deze regeling behorende bijlage; wet: Wet geurhinder en veehouderij; emissiepunt: punt waar een relevante hoeveelheid geur buiten: 
 
 a. het geheel overdekt dierenverblijf treedt, dan wel wordt gebracht; of  
 
@@ -28,16 +28,16 @@ b. het overdekte gedeelte van het gedeeltelijk overdekt dierenverblijf treedt, d
 
 ### Artikel  3  
 
-De afstand, bedoeld in [artikel 4, tweede lid, van de wet](../../../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md) is opgenomen in bijlage 2. 
+De afstand, bedoeld in artikel 4, tweede lid, van de wet is opgenomen in bijlage 2. 
 
 ### Artikel  4  
 
-1.  De afstand, bedoeld in de [artikelen 3, tweede en derde lid](../../../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md), en [4, eerste lid, van de wet](../../../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md) wordt gemeten vanaf de buitenzijde van het geurgevoelig object tot het dichtstbijzijnde emissiepunt.   
+1.  De afstand, bedoeld in de artikelen 3, tweede en derde lid, en 4, eerste lid, van de wet wordt gemeten vanaf de buitenzijde van het geurgevoelig object tot het dichtstbijzijnde emissiepunt.   
 2.  Indien het dierenverblijf niet is overdekt, wordt de afstand gemeten vanaf de buitenzijde van een geurgevoelig object tot het punt van de begrenzing van het dierenverblijf dat het dichtst is gelegen bij het desbetreffende geurgevoelig object.  
 
 ### Artikel  5  
 
-Deze regeling treedt in werking op het tijdstip waarop de [wet](../../../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop de wet in werking treedt. 
 
 ### Artikel  6  
 

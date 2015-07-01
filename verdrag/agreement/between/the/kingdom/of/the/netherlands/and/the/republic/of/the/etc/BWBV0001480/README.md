@@ -10,30 +10,34 @@ The Kingdom of the Netherlands and the Republic of the Philippines, Desiring to 
 
 ####Definitions
 
+Wordt voorlopig toegepast per 01-07-2015 
+
 1.   For the purpose of this Agreement: 
 
-a) ``contracting parties" means the Kingdom of the Netherlands and the Republic of the Philippines;  
+a) “contracting parties” means the Kingdom of the Netherlands and the Republic of the Philippines;  
 
-b) ``territory" means in relation to the Kingdom of the Netherlands the territory of the Kingdom in Europe, and in relation to the Republic of the Philippines, the territory as defined in the 1987 Constitution;  
+b) “territory” means in relation to the Kingdom of the Netherlands the territory of the Kingdom in Europe, and in relation to the Republic of the Philippines, the territory as defined in the 1987 Constitution;  
 
-c) ``legislation" means the laws, ordinances and administrative regulations relating to the social insurance schemes mentioned under Article 2;  
+c) “legislation” means the laws, ordinances and administrative regulations relating to the social insurance schemes mentioned under Article 2;  
 
-d) ``competent authority" means in relation to the Kingdom of the Netherlands the Minister of Social Affairs and Employment of the Netherlands; in relation to the Republic of the Philippines, the President and Chief Executive Officer of the Social Security System;  
+d) “competent authority” means in relation to the Kingdom of the Netherlands the Minister of Social Affairs and Employment of the Netherlands; in relation to the Republic of the Philippines, the President and Chief Executive Officer of the Social Security System;  
 
-e) ``competent institution" means in relation to the Kingdom of the Netherlands regarding the legislation meant in Article 2, paragraph 1, under a, b, and c: the ``Landelijk instituut sociale verzekeringen" (National Institute for Social Insurance) c/o Gak Nederland bv or its legal successor and regarding the legislation meant in Article 2, paragraph 1, under d, e, and f: the ``Sociale Verzekeringsbank" (Social Insurance Bank); in relation to the Republic of the Philippines, the Social Security System for the private sector workers and the Government Service Insurance System for the public sector workers;  
+e) “competent institution” means in relation to the Kingdom of the Netherlands regarding the legislation referred to in Article 2, paragraph 1, under A) (i), (ii) and (iii): the “Landelijk instituut sociale verzekeringen” (National Social Insurance Institute) c/o Gak Nederland bv or its legal successor and regarding the legislation referred to in Article 2, paragraph 1, under A) (iv) and (v): the “Sociale Verzekeringsbank” (Social Insurance Bank); in relation to the Republic of the Philippines, the Social Security System for the private sector workers and the Government Service Insurance System for the public sector workers;  
 
-f) ``agency" means every organization that is involved in the implementation of this Agreement, including the population registers, tax authorities, marriage registers, employment agencies, schools and other educational institutes, trade authorities, police, prison service and immigration offices;  
+f) “agency” means every organization that is involved in the implementation of this Agreement, including the population registers, tax authorities, marriage registers, employment agencies, schools and other educational institutes, trade authorities, police, prison service and immigration offices;  
 
-g) ``benefit" means every cash benefit or pension under the legislation referred to under Article 2;  
+g) “benefit” means every cash benefit or pension under the legislation referred to under Article 2;  
 
-h) ``beneficiary" means every person who applies for or who is entitled to a benefit;  
+h) “beneficiary” means every person who applies for or who is entitled to a benefit;  
 
-i) ``member of the family" means a person defined, or recognized as such by the legislation applied by the Netherlands' competent institutions.     
+i) “member of the family” means a person defined, or recognized as such by the legislation applied by the Netherlands' competent institutions.     
 2.   Other terms used in this Agreement shall have the meaning given to them under the legislation which is being applied.  
 
 ### Article  2  
 
 ####Material scope
+
+Wordt voorlopig toegepast per 01-07-2015 
 
 1.   This Agreement shall apply 
 
@@ -45,11 +49,9 @@ A) With respect to the Kingdom of the Netherlands, to the Netherlands legislatio
 
 (iii) disablement insurance for self-employed persons;  
 
-(iv) old age insurance;  
+(iv) old age insurance: and  
 
-(v) survivors' insurance; and  
-
-(vi) children's allowances.   
+(v) survivors’ insurance.   
 
 B) With respect to the Republic of the Philippines, to the Philippine legislation on: 
 

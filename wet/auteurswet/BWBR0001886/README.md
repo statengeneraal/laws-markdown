@@ -23,8 +23,10 @@ Het auteursrecht is het uitsluitend recht van den maker van een werk van letterk
 ### Artikel  2  
 
 1.  Het auteursrecht gaat over bij erfopvolging en is vatbaar voor gehele of gedeeltelijke overdracht.   
-2.  De levering vereist voor gehele of gedeeltelijke overdracht, geschiedt door een daartoe bestemde akte. De overdracht omvat alleen die bevoegdheden waarvan dit in de akte is vermeld of uit de aard of strekking van de titel noodzakelijk voortvloeit.   
-3.  Het auteursrecht, hetwelk toekomt aan den maker van het werk, zoomede, na het overlijden des makers, het auteursrecht op niet openbaar gemaakte werken, hetwelk toekomt aan dengene, die het als erfgenaam of legataris van den maker verkregen heeft, is niet vatbaar voor beslag.  
+2.  De maker, of zijn rechtverkrijgende, kan aan een derde een licentie verlenen voor het geheel of een gedeelte van het auteursrecht.   
+3.  De levering vereist voor gehele of gedeeltelijke overdracht, alsmede de verlening van een exclusieve licentie, geschiedt bij een daartoe bestemde akte. De overdracht of de verlening van een exclusieve licentie omvat alleen die bevoegdheden die in de akte staan vermeld of die uit de aard en de strekking van de titel of licentieverlening noodzakelijkerwijs voortvloeien.   
+4.  Het auteursrecht dat toekomt aan de maker van een werk, alsmede, na het overlijden van de maker, het auteursrecht op niet openbaar gemaakte werken dat toekomt aan degene die het als erfgenaam of legataris van de maker heeft verkregen, is niet vatbaar voor beslag.   
+5.  Het derde lid, tweede volzin, en het vierde lid zijn niet van toepassing op een maker als bedoeld in artikel 7 en 8.  
 
 ### §  2  
 
@@ -460,10 +462,7 @@ In deze paragraaf worden onder nabestaanden verstaan de ouders, de echtgenoot of
 
 ####De exploitatieovereenkomst
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  25b  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Dit hoofdstuk is van toepassing op een overeenkomst die de verlening van exploitatiebevoegdheid ten aanzien van het auteursrecht van de maker aan een wederpartij tot hoofddoel heeft, tenzij artikel 3.28 Beneluxverdrag voor de Intellectuele Eigendom van toepassing is.   
 2.  Artikel 25f is van toepassing op een overeenkomst waarbij de maker het auteursrecht geheel of gedeeltelijk overdraagt of waarbij door de maker een exclusieve licentie is verleend.   
@@ -471,7 +470,6 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Dit hoofdstuk is van overeenkomstige toepassing op de natuurlijke persoon die het auteursrecht als erfgenaam of legataris van de maker heeft verkregen.  
 
 ### Artikel  25c  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De maker heeft recht op een in de overeenkomst te bepalen billijke vergoeding voor de verlening van exploitatiebevoegdheid.   
 2.  Onze Minister van Onderwijs, Cultuur en Wetenschap kan, een bij algemene maatregel van bestuur aan te wijzen adviesorgaan gehoord, de hoogte van een billijke vergoeding vaststellen voor een specifieke branche en voor een bepaalde periode na overleg met Onze Minister van Veiligheid en Justitie. De vaststelling van een billijke vergoeding geschiedt met inachtneming van het belang van het behoud van de culturele diversiteit, de toegankelijkheid van cultuur, een doelstelling van sociaal beleid en het belang van de consument.   
@@ -481,13 +479,11 @@ Treedt in werking op een nader te bepalen tijdstip
 6.  Indien de maker exploitatiebevoegdheden heeft verleend ten aanzien van een exploitatie op een ten tijde van sluiting van de overeenkomst nog onbekende wijze en de wederpartij gaat hiertoe over, is hij de maker hiervoor een aanvullende billijke vergoeding verschuldigd. Is de bevoegdheid door de wederpartij van de maker overgedragen aan een derde die tot de bedoelde exploitatie overgaat, dan kan de maker de aanvullende billijke vergoeding van de derde vorderen.  
 
 ### Artikel  25d  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De maker kan in rechte een aanvullende billijke vergoeding vorderen van zijn wederpartij, indien de overeengekomen vergoeding gelet op de wederzijdse prestaties een ernstige onevenredigheid vertoont in verhouding tot de opbrengst van de exploitatie van het werk.   
 2.  Indien de ernstige onevenredigheid tussen de vergoeding van de maker en de opbrengst van de exploitatie van het werk is ontstaan nadat het auteursrecht door de wederpartij van de maker aan een derde is overgedragen, kan de maker de vordering als bedoeld in het eerste lid tegen de derde instellen.  
 
 ### Artikel  25e  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De maker kan de overeenkomst geheel of gedeeltelijk ontbinden indien de wederpartij het auteursrecht op het werk niet binnen een redelijke termijn na het sluiten van de overeenkomst in voldoende mate exploiteert of, na het aanvankelijk verrichten van exploitatiehandelingen, het auteursrecht niet langer in voldoende mate exploiteert. De voorgaande zin is niet van toepassing indien het aan de maker is toe te rekenen dat het auteursrecht binnen de termijn niet in voldoende mate wordt geëxploiteerd of indien de wederpartij een zodanig zwaarwichtig belang heeft bij instandhouding van de overeenkomst dat het belang van de maker daarvoor naar maatstaven van redelijkheid en billijkheid moet wijken.   
 2.  Indien het auteursrecht aan meerdere makers toebehoort en de bijdrage van de maker geen scheidbaar werk vormt, kan de maker de overeenkomst alleen ontbinden met instemming van de andere makers. Indien een maker zijn instemming onthoudt en de overige makers hierdoor onevenredig worden benadeeld, kan de ontbinding van de overeenkomst uitsluitend in rechte geschieden.   
@@ -498,19 +494,16 @@ Treedt in werking op een nader te bepalen tijdstip
 7.  Indien de wederpartij of de derde niet binnen een hem gestelde redelijke termijn tot teruglevering van het auteursrecht overgaat, kan de rechter op vordering van de maker een in de gegeven omstandigheden redelijk bedrag vaststellen dat de wederpartij dan wel de derde aan de maker dient te vergoeden, naast de mogelijk aan de maker verschuldigde schadevergoeding.  
 
 ### Artikel  25f  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een beding dat voor een onredelijk lange of onvoldoende bepaalde termijn aanspraken op de exploitatie van toekomstige werken van de maker inhoudt, is vernietigbaar.   
 2.  Een beding dat, gelet op de aard en inhoud van de overeenkomst, de wijze waarop de overeenkomst tot stand is gekomen, de wederzijds kenbare belangen van partijen of de overige omstandigheden van het geval, voor de maker onredelijk bezwarend is, is vernietigbaar.   
 3.  Indien door de wederpartij is bedongen dat de overeenkomst tussentijds kan worden opgezegd, geldt deze bevoegdheid onder gelijke voorwaarden eveneens voor de maker.  
 
 ### Artikel  25fa  
-Treedt in werking op een nader te bepalen tijdstip 
 
 De maker van een kort werk van wetenschap waarvoor het onderzoek geheel of gedeeltelijk met Nederlandse publieke middelen is bekostigd, heeft het recht om dat werk na verloop van een redelijke termijn na de eerste openbaarmaking ervan, om niet beschikbaar te stellen voor het publiek, mits de bron van de eerste openbaarmaking daarbij op duidelijke wijze wordt vermeld. 
 
 ### Artikel  25g  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Onze Minister van Veiligheid en Justitie kan een geschillencommissie aanwijzen voor de beslechting van geschillen tussen een maker en zijn wederpartij of een derde inzake de toepassing van artikel 25c, eerste en zesde lid, 25d, 25e of 25f.   
 2.  Wordt het geschil niet binnen drie maanden nadat afschrift van de uitspraak van de geschillencommissie aan partijen werd verzonden bij de rechter aanhangig gemaakt, dan wordt hetgeen in de uitspraak is vastgesteld na het verstrijken van deze termijn geacht te zijn overeengekomen tussen partijen.   
@@ -518,7 +511,6 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de financiering, samenstelling, inrichting, procedures, bekostiging, werkwijze van en toezicht op de geschillencommissie.  
 
 ### Artikel  25h  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Van het bepaalde in dit hoofdstuk kan door de maker geen afstand worden gedaan.   
 2.  Ongeacht het recht dat de overeenkomst beheerst, zijn de bepalingen van dit hoofdstuk van toepassing indien: 
@@ -829,9 +821,15 @@ Indien een van de makers zijn bijdrage tot het filmwerk niet geheel tot stand wi
 
 Het filmwerk geldt als voltooid op het tijdstip waarop het vertoningsgereed is. Tenzij schriftelijk anders overeengekomen is, beslist de producent wanneer het filmwerk vertoningsgereed is. 
 
-###Artikel 45d 
+### Artikel  45d  
 
-Tenzij de makers en de producent schriftelijk anders overeengekomen zijn, worden de makers geacht aan de producent het recht overgedragen te hebben om vanaf het in artikel 45c bedoelde tijdstip het filmwerk openbaar te maken, dit te verveelvoudigen in de zin van artikel 14, er ondertitels bij aan te brengen en de teksten ervan na te synchroniseren. Het vorenstaande geldt niet ten aanzien van degene die ten behoeve van het filmwerk de muziek gemaakt heeft en degene die de bij de muziek behorende tekst gemaakt heeft. De producent is aan de makers of hun rechtverkrijgenden een billijke vergoeding verschuldigd voor iedere vorm van exploitatie van het filmwerk. De producent is eveneens aan de makers of hun rechtverkrijgenden een billijke vergoeding verschuldigd indien hij overgaat tot exploitatie in een vorm die ten tijde van het in artikel 45c bedoelde tijdstip nog niet bestond of niet rederlijkerwijs voorzienbaar was of indien hij aan een derde het recht verleent tot zo’n exploitatie over te gaan. De in dit artikel bedoelde vergoedingen worden schriftelijk overeengekomen. Van het recht op een billijke vergoeding voor verhuur kan door de maker geen afstand worden gedaan.
+1.  Tenzij de makers en de producent van een filmwerk schriftelijk anders zijn overeengekomen, worden de makers geacht aan de producent het recht overgedragen te hebben om vanaf het in artikel 45c bedoelde tijdstip het filmwerk te verhuren en anderszins openbaar te maken, dit te verveelvoudigen in de zin van artikel 14, er ondertitels bij aan te brengen en de teksten ervan na te synchroniseren. Het vorenstaande geldt niet ten aanzien van degene die ten behoeve van het filmwerk de muziek heeft gemaakt en degene die de bij de muziek behorende tekst heeft gemaakt. Ongeacht de wijze van overdracht is de producent aan de makers voor de overdracht van rechten en de exploitatie van het filmwerk een billijke vergoeding verschuldigd. Van het recht op een billijke vergoeding kan geen afstand worden gedaan.   
+2.  Onverminderd het in artikel 26a bepaalde is een ieder die het filmwerk uitzendt of doet uitzenden of op enige andere wijze mededeelt aan het publiek, per draad of draadloos, met uitzondering van de beschikbaarstelling van het filmwerk op zodanige wijze dat het filmwerk voor de leden van het publiek op een door hen individueel gekozen plaats en tijd toegankelijk is, aan de hoofdregisseur en de scenarioschrijver van het filmwerk die deze rechten aan de producent heeft overgedragen een proportionele billijke vergoeding verschuldigd. Van het recht op een proportionele billijke vergoeding kan geen afstand worden gedaan.   
+3.  Het recht op de vergoeding bedoeld in het tweede lid wordt uitgeoefend door representatieve rechtspersonen die zich ingevolge hun statuten ten doel stellen de belangen van hoofdregisseurs of scenarioschrijvers te behartigen door de uitoefening van dat recht. Artikel 26a, tweede en derde lid, is van overeenkomstige toepassing.   
+4.  Degene die de in het tweede lid bedoelde vergoeding verschuldigd is, is gehouden aan de rechtspersonen bedoeld in het derde lid de bescheiden of andere informatiedragers ter inzage te geven, waarvan de kennisneming noodzakelijk is voor de vaststelling van de verschuldigdheid, de hoogte en de verdeling van de vergoeding.   
+5.  Bij algemene maatregel van bestuur kunnen nadere regels worden gegeven over de uitoefening van het recht bedoeld in het tweede lid.   
+6.  Het recht op een proportionele billijke vergoeding bedoeld in het tweede lid is niet van toepassing op een filmwerk waarvan de exploitatie als zodanig niet het hoofddoel is.   
+7.  Artikel 25d en artikel 25e zijn van overeenkomstige toepassing. Artikel 25c, tweede tot en met zesde lid, en artikel 25g zijn van overeenkomstige toepassing op de billijke vergoeding bedoeld in het eerste lid.  
 
 ###Artikel 45e 
 

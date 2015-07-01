@@ -6796,15 +6796,13 @@ ii) Vermijding en behandeling van ongewenste bijvangsten leidt tot onevenredige 
 
 1. De blackbox bestaat uit een gesloten behuizing.  
 
-2. De blackbox registreert: 
+2. De blackbox registreert adequaat: 
 
 a. de positie waar het vissersvaartuig zich bevindt (positiedata);  
 
 b. of er wordt gevist (visserijdata).    
 
-3a. De positiedata worden real time geregistreerd met behulp van het Global Positioning System.  
-
-3b. De visserijdata worden geregistreerd middels het aanbrengen van sensoren aan de vislieren (trommels) ten einde het af- en opdraaien van de vislijnen (vieren en halen) van het visnet te registreren.  
+3. De positiedata worden real time geregistreerd met behulp van het Global Positioning System.  
 
 4. De blackbox genereert de datagegevens met: 
 

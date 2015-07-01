@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 27 april 2004, nr. MJZ2004041833, Centrale Directie Juridische Zaken, Afdeling Wetgeving, gedaan in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-Gelet op [artikel 8.44 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op artikel 8.44 van de Wet milieubeheer;
 
 De Raad van State gehoord (advies van 27 juli 2004, nr. W08.04.0181/V);
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  In dit besluit wordt verstaan onder:  *ammoniakemissie*: emissie van ammoniak, uitgedrukt in kg NH<sub>3</sub> per jaar;  *bouwvergunning*: vergunning krachtens [artikel 40, eerste lid, van de Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md);  *bijlage*: bij dit besluit behorende bijlage;  *diercategorie*: in de bijlagen gehanteerde aanduiding, binnen hoofdcategorieën, van dieren;  *dierenverblijf*: al dan niet overdekte ruimte waarbinnen dieren worden gehouden;  *dierplaats*: deel van een huisvestingssysteem, bestemd voor het houden van één dier;  *emissiefactor*: ammoniakemissie per dierplaats, zoals bepaald krachtens [artikel 1, eerste lid, van de Wet ammoniak en veehouderij](../../../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md);  *Groen-Labelstalsysteem*: huisvestingssysteem dat voldoet aan de omschrijving van een stalsysteem waarvoor een Groen Label als bedoeld in artikel 1, eerste lid, onder a, van het Convenant Groen Label (Stcrt. 1993, 21) is verleend;  *huisvestingssysteem*: gedeelte van een dierenverblijf waarin dieren van één diercategorie op dezelfde wijze worden gehouden;  *veehouderij*: inrichting die tot een krachtens [artikel 1.1, derde lid, van de Wet milieubeheer ](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md)aangewezen categorie behoort en is bestemd voor het kweken, fokken, mesten, houden, verhandelen, verladen of wegen van dieren;  *vergunning*: omgevingsvergunning voor een inrichting.   
+1.  In dit besluit wordt verstaan onder:  *ammoniakemissie*: emissie van ammoniak, uitgedrukt in kg NH<sub>3</sub> per jaar;  *bouwvergunning*: vergunning krachtens artikel 40, eerste lid, van de Woningwet;  *bijlage*: bij dit besluit behorende bijlage;  *diercategorie*: in de bijlagen gehanteerde aanduiding, binnen hoofdcategorieën, van dieren;  *dierenverblijf*: al dan niet overdekte ruimte waarbinnen dieren worden gehouden;  *dierplaats*: deel van een huisvestingssysteem, bestemd voor het houden van één dier;  *emissiefactor*: ammoniakemissie per dierplaats, zoals bepaald krachtens artikel 1, eerste lid, van de Wet ammoniak en veehouderij;  *Groen-Labelstalsysteem*: huisvestingssysteem dat voldoet aan de omschrijving van een stalsysteem waarvoor een Groen Label als bedoeld in artikel 1, eerste lid, onder a, van het Convenant Groen Label (Stcrt. 1993, 21) is verleend;  *huisvestingssysteem*: gedeelte van een dierenverblijf waarin dieren van één diercategorie op dezelfde wijze worden gehouden;  *veehouderij*: inrichting die tot een krachtens artikel 1.1, derde lid, van de Wet milieubeheer aangewezen categorie behoort en is bestemd voor het kweken, fokken, mesten, houden, verhandelen, verladen of wegen van dieren;  *vergunning*: omgevingsvergunning voor een inrichting.   
 2.  Voor de toepassing van dit besluit wordt onder een bestaand huisvestingssysteem verstaan: 
 
 a. een huisvestingssysteem dat op het tijdstip van inwerkingtreding van dit besluit in de veehouderij aanwezig was;  
@@ -37,8 +37,8 @@ e. een huisvestingssysteem dat ontstaat door verandering van een huisvestingssys
 
 ###Artikel 2a 
 
-1. Indien tot een in artikel 2, eerste lid, bedoelde veehouderij een IPPC-installatie behoort en met de in artikel 2, eerste lid, bedoelde maximale emissiewaarde niet wordt voldaan aan het bepaalde bij of krachtens de [artikelen 2.14](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [2.22 van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), stelt het bevoegd gezag voor een tot de IPPC-installatie behorend huisvestingssysteem een strengere emissiewaarde vast. 
-2. Indien tot een in artikel 2, eerste lid, bedoelde veehouderij een IPPC-installatie behoort en met de in artikel 4, eerste lid, bedoelde tijdstippen voor de aanpassing van een bestaand huisvestingssysteem niet wordt voldaan aan het bepaalde bij of krachtens de [artikelen 2.14](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [2.22 van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), stelt het bevoegd gezag voor een tot de IPPC-installatie behorend huisvestingssysteem een eerder tijdstip vast.
+1. Indien tot een in artikel 2, eerste lid, bedoelde veehouderij een IPPC-installatie behoort en met de in artikel 2, eerste lid, bedoelde maximale emissiewaarde niet wordt voldaan aan het bepaalde bij of krachtens de artikelen 2.14 en 2.22 van de Wet algemene bepalingen omgevingsrecht, stelt het bevoegd gezag voor een tot de IPPC-installatie behorend huisvestingssysteem een strengere emissiewaarde vast. 
+2. Indien tot een in artikel 2, eerste lid, bedoelde veehouderij een IPPC-installatie behoort en met de in artikel 4, eerste lid, bedoelde tijdstippen voor de aanpassing van een bestaand huisvestingssysteem niet wordt voldaan aan het bepaalde bij of krachtens de artikelen 2.14 en 2.22 van de Wet algemene bepalingen omgevingsrecht, stelt het bevoegd gezag voor een tot de IPPC-installatie behorend huisvestingssysteem een eerder tijdstip vast.
 
 ### Artikel  3  
 
@@ -107,7 +107,7 @@ J. P. H. Donner
 | --- | --- | --- |
 | vleeskuikens  | 0,045  | --- |
 
-<sup>1</sup> Voor de bepaling van het aantal dieren worden de bij de kraamzeugen behorende biggen (de niet-gespeende biggen) niet meegeteld.  <sup>2</sup> Indien het een huisvestingssysteem betreft waarbij de mestdroging in het huisvestingssysteem is geïntegreerd, bedraagt de maximale emissiewaarde 0,016.  <sup>3</sup> Indien het een huisvestingssysteem betreft waarbij de mestdroging in het huisvestingssysteem is geïntegreerd, bedraagt de maximale emissiewaarde 0,028.  <sup>4</sup> De maximale emissiewaarde geldt niet voor aangepaste kooien als bedoeld in [paragraaf 3.1 van het Legkippenbesluit 2003](../../../../../../AMvB/legkippenbesluit/2003/BWBR0015138/README.md).
+<sup>1</sup> Voor de bepaling van het aantal dieren worden de bij de kraamzeugen behorende biggen (de niet-gespeende biggen) niet meegeteld.  <sup>2</sup> Indien het een huisvestingssysteem betreft waarbij de mestdroging in het huisvestingssysteem is geïntegreerd, bedraagt de maximale emissiewaarde 0,016.  <sup>3</sup> Indien het een huisvestingssysteem betreft waarbij de mestdroging in het huisvestingssysteem is geïntegreerd, bedraagt de maximale emissiewaarde 0,028.  <sup>4</sup> De maximale emissiewaarde geldt niet voor aangepaste kooien als bedoeld in de artikelen 2.71 en 2.72 van het Besluit houders van dieren.
 
 ###Bijlage 2 
 

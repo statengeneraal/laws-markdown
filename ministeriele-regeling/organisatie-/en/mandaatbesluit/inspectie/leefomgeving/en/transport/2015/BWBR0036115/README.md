@@ -35,13 +35,18 @@ a. de inspecteur-generaal;
 
 b. domeinen onderverdeeld in afdelingen;  
 
-c. directies onderverdeeld in afdelingen; en  
+c. directies onderverdeeld in afdelingen;  
 
-d. het team Juridische Zaken, rechtstreeks ressorterend onder de inspecteur-generaal.     
+d. teams, voor zover de omvang van een afdeling daartoe aanleiding geeft;  
+
+e. het team Interne Audit, rechtstreeks ressorterend onder de directeur Bedrijfsvoering, en 
+
+f. het team Juridische Zaken, rechtstreeks ressorterend onder de inspecteur-generaal.     
 2.  De directies en domeinen staan elk onder leiding van een directeur.   
 3.  De afdelingen staan elk onder leiding van een afdelingshoofd.   
-4.  De inspecteur-generaal en de directeuren vormen het directieteam van de Inspectie Leefomgeving en Transport.   
-5.  De directeur en de afdelingshoofden van een directie of domein vormen het managementteam van die directie of dat domein.  
+4.  De teams, bedoeld in het eerste lid, onder d, staan elk onder leiding van een teamleider.  
+5.  De inspecteur-generaal en de directeuren vormen het directieteam van de Inspectie Leefomgeving en Transport.   
+6.  De directeur en de afdelingshoofden van een directie of domein vormen het managementteam van die directie of dat domein.  
 
 ### Artikel  3  
 
@@ -50,7 +55,8 @@ d. het team Juridische Zaken, rechtstreeks ressorterend onder de inspecteur-gene
 1.  Bij afwezigheid of verhindering van de inspecteur-generaal is de directeur ILT/Handhavingsbeleid bevoegd om als diens plaatsvervanger op te treden.   
 2.  Bij afwezigheid of verhindering van een directeur zijn de overige directeuren en de afdelingshoofden binnen een domein of directie bevoegd om als plaatsvervanger op te treden.   
 3.  Bij afwezigheid of verhindering van een afdelingshoofd zijn de overige afdelingshoofden binnen een domein of directie bevoegd om als plaatsvervanger op te treden.   
-4.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de inspecteur-generaal en de functionaris die bij afwezigheid of verhindering wordt vervangen.  
+4.  Bij afwezigheid of verhindering van een teamleider is het afdelingshoofd van de desbetreffende afdeling bevoegd om als plaatsvervanger op te treden.  
+5.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de inspecteur-generaal en de functionaris die bij afwezigheid of verhindering wordt vervangen.  
 
 ### Paragraaf  2  
 
@@ -60,7 +66,7 @@ d. het team Juridische Zaken, rechtstreeks ressorterend onder de inspecteur-gene
 
 ####Mandaat van aan de inspecteur-generaal gemandateerde bevoegdheden
 
-1.  Aan de directeuren en afdelingshoofden worden de aan de inspecteur-generaal gemandateerde bevoegdheden, die behoren bij de uitoefening van hun taken, in mandaat verleend.   
+1.  Aan de directeuren, afdelingshoofden, teamleiders en de coördinerend specialistisch adviseur, tevens Hoofd Team Criminele Inlichtingen worden de aan de inspecteur-generaal gemandateerde bevoegdheden, die behoren bij de uitoefening van hun taken, in mandaat verleend.   
 2.  Aan de volgende functionarissen worden de aan de inspecteur-generaal gemandateerde bevoegdheden, die behoren bij de uitoefening van hun taken, eveneens in mandaat verleend: 
 
 a. de inspecteurs ILT;  
@@ -94,7 +100,7 @@ c. de inspecteur ILT belast met de coördinatie van de algemeen opsporingsambten
 
 ####Mandaat personele aangelegenheden
 
-In afwijking van de artikelen 4 en 5 wordt mandaat van personele aangelegenheden slechts verleend aan de directeuren en de afdelingshoofden. 
+In afwijking van de artikelen 4 en 5 wordt mandaat van personele aangelegenheden slechts verleend aan de directeuren, afdelingshoofden en teamleiders. 
 
 ### Artikel  7  
 
@@ -155,9 +161,9 @@ J. Thunnissen
 
 ####, bedoeld in artikel 2, eerste lid 
 
-*Algemene leiding*  
+Algemene leiding 
 
-– inspecteur-generaal    *Domeinen met daaronder ressorterende afdelingen zijn:*  
+– inspecteur-generaal   Domeinen met daaronder ressorterende afdelingen zijn: 
 
 1. ILT/Afval, Industrie en Bedrijven: 
 
@@ -167,11 +173,15 @@ J. Thunnissen
 
 – afdeling Handhaving Industrie en Ruimte;  
 
-– afdeling Handhaving Afval  
+– afdeling Handhaving Afval;  
 
 – afdeling Vergunningverlening Afval, Industrie en Bedrijven;  
 
-– ILT/Inlichtingen- en Opsporingsdienst.    
+– ILT/Inlichtingen- en Opsporingsdienst onderverdeeld in: 
+
+* Team Opsporing;  
+
+* Team Informatie en Expertise.      
 
 2. ILT/Rail- en Wegvervoer: 
 
@@ -223,25 +233,41 @@ J. Thunnissen
 
 – afdeling Handhaving Explosiegevaarlijke Stoffen;  
 
-– afdeling Handhaving Wonen;  
-
 – afdeling Handhaving Drinkwater en Legionella;  
+
+– afdeling Handhaving Wonen;  
 
 – afdeling Handhaving Water en Bodem;  
 
-– afdeling Vergunningverlening, Analyse en Ontwikkeling.      *Directies met daaronder ressorterende afdelingen zijn:*  
+– afdeling Vergunningverlening, Analyse en Ontwikkeling.   
+
+6. ILT/Autoriteit woningcorporaties: De ILT/Autoriteit woningcorporaties wordt met ingang van 1 juli 2015 tot 1 januari 2016 gevormd door de Tijdelijke werkorganisatie Autoriteit woningcorporaties, die bestaat uit de volgende afdelingen: 
+
+– Toezicht Woningcorporaties vestiging Utrecht.  
+
+– Toezicht Woningcorporaties vestiging Baarn, onderverdeeld in: 
+
+* Team Informatiemanagement en Bedrijfsvoering;  
+
+* Team Beleid en Juridische Zaken;  
+
+* Team Toezicht;  
+
+* Team Bijzonder Toezicht.   De functie van directeur van de Tijdelijke werkorganisatie Autoriteit woningcorporaties wordt uitgeoefend door de directeur ILT/Wonen, Water en Producten.   Directies met daaronder ressorterende afdelingen zijn: 
 
 1. ILT/Bedrijfsvoering: 
 
 – afdeling Planning en Control;  
 
-– afdeling HRM en Organisatieadvies;  
+– afdeling Personeel en Organisatie;  
 
-– afdeling Informatiemanagement;  
+– afdeling Informatievoorziening;  
 
 – afdeling Documentmanagement;  
 
-– afdeling Middelen en Faciliteiten.    
+– afdeling Interne Dienstverlening.   Rechtstreeks ressorterend onder de directeur Bedrijfsvoering 
+
+– team Interne Audit    
 
 2. ILT/Handhavingsbeleid: 
 
@@ -251,6 +277,6 @@ J. Thunnissen
 
 – afdeling Procesontwerp en Vernieuwing;  
 
-– afdeling Meld- en Informatiecentrum.      *Rechtstreeks ressorterend onder inspecteur-generaal*  
+– afdeling Meld- en Informatiecentrum.   Rechtstreeks ressorterend onder inspecteur-generaal 
 
-– team Juridische Zaken.   
+– team Juridische Zaken.     

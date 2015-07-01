@@ -72,7 +72,11 @@ Een beveiligingsorganisatie of recherchebureau treft maatregelen om te voorkomen
 1.   Een beveiligingsorganisatie belast uitsluitend een persoon met beveiligingswerkzaamheden, indien deze in het bezit is van een op zijn naam gesteld diploma Beveiliger van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties en de Stichting Ecabo.   
 2.   De verplichting in het eerste lid geldt niet voor een periode van maximaal 12 maanden, te rekenen van af de dag dat de betrokkene voor het eerst bij een particuliere beveiligingsorganisatie met beveiligingswerkzaamheden wordt belast, indien betrokkene door middel van een verklaring van de Stichting Ecabo kan aantonen, dat hij in de periode waarop de aanvraag betrekking heeft, de praktijkopleiding voor het diploma Beveiliger van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties en de Stichting Ecabo volgt.   
 3.   Op de uitvoering van de praktijkopleiding wordt toezicht uitgeoefend door de Stichting Ecabo. Leerbedrijven zijn aan de Stichting Ecabo een bedrag verschuldigd voor de uitoefening van dit toezicht. De hoogte van dit bedrag wordt jaarlijks in overleg tussen de Stichting Ecabo en de Stichting Opleidingsfonds Beveiligingsbranche (SOBB) vastgesteld.   
-4.   De in het tweede lid genoemde periode van maximaal 12 maanden wordt op geen enkele wijze onderbroken, verlengd of geschorst.   
+4.  De in het tweede lid genoemde periode van maximaal 12 maanden wordt niet onderbroken of verlengd. In afwijking hiervan kan de korpschef de periode van 12 maanden 
+
+a. onderbreken;  
+
+b. eenmalig met maximaal 12 maanden verlengen voor aspiranten die beschikken over het certificaat Beveiliger B.   Aan de onderbreking of verlenging kunnen voorwaarden worden verbonden.   
 5.   Het bepaalde in het eerste lid is niet van toepassing indien de betrokkene is geboren vóór 1 december 1937 en van 1 december 1980 tot en met 30 november 1982 onafgebroken werkzaam is geweest bij een op grond van de wet toegelaten beveiligingsorganisatie.   
 6.   Als gelijkwaardig aan het diploma bedoeld in het eerste lid worden erkend: 
 
@@ -152,7 +156,7 @@ c. het betreft beveiligingswerkzaamheden kort voor, tijdens of kort na de wedstr
 
 1.  Een recherchebureau belast uitsluitend een persoon met recherchewerkzaamheden, indien deze in het bezit is van een op naam gesteld diploma particulier onderzoeker van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties en de Stichting Ecabo.   
 2.  Als gelijkwaardig aan het diploma, bedoeld in het eerste lid, worden erkend een erkenning van beroepskwalificaties als bedoeld in artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties, voor werkzaamheden als particulier rechercheur.  
-3.  Het eerste lid geldt niet voor een periode van maximaal 12 maanden, te rekenen vanaf de dag dat de betrokkene voor het eerst bij een particulier recherchebureau dat beschikt over het keurmerk particulier onderzoeksbureau van de Vereniging van Particuliere Beveiligingsorganisaties met recherchewerkzaamheden wordt belast, indien betrokkene door middel van een verklaring van de opleidende instelling kan aantonen dat hij in de periode waarop de aanvraag betrekking heeft, de opleiding voor het diploma particulier onderzoeker van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties en de Stichting Ecabo volgt.   
+3.  Het eerste lid geldt niet voor een periode van maximaal 12 maanden, te rekenen vanaf de dag dat de betrokkene voor het eerst bij een particulier recherchebureau dat beschikt over een keurmerk van de Nederlandse Veiligheidsbranche of van de Branchevereniging voor Particuliere Onderzoeksbureaus van de de Nederlandse Veiligheidsbranche met recherchewerkzaamheden wordt belast, indien betrokkene door middel van een verklaring van de opleidende instelling kan aantonen dat hij in de periode waarop de aanvraag betrekking heeft, de opleiding voor het diploma particulier onderzoeker van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties en de Stichting Ecabo volgt.   
 4.  De in het derde lid genoemde periode van maximaal 12 maanden wordt op geen enkele wijze onderbroken, verlengd of geschorst. 
 
 ### Artikel  11  
@@ -514,9 +518,13 @@ De korpschef, bedoeld in artikel 27 van de Politiewet 2012, is de autoriteit, be
 
 ####(kosten vergunning, toestemming en legitimatiebewijs)
 
-1.  De vergoeding van kosten, bedoeld in artikel 4, zevende lid, van de wet, bedraagt voor: het verlenen en verlengen van een vergunning: € 492,–. Deze kosten worden voldaan aan de minister.   
+1.  De vergoeding van kosten, bedoeld in artikel 4, zevende lid, van de wet, bedraagt voor: het verlenen en verlengen van een vergunning: € 600,–. Deze kosten worden voldaan aan de minister.   
 2.  De vergoeding van kosten, bedoeld in artikel 6, eerste lid, aanhef en onderdeel e, van de wet, bedraagt voor: de afgifte van een legitimatiebewijs: € 26,–. Deze kosten worden voldaan aan de korpschef of de commandant, die op grond van artikel 13, tweede lid, van deze regeling bevoegd is tot het afgeven van het legitimatiebewijs.   
-3.  De vergoeding van kosten, bedoeld in artikel 7, zesde lid, van de wet, bedraagt voor: het verlenen van toestemming als bedoeld in artikel 7, eerste, tweede en derde lid, van de wet: € 60,–. Deze kosten worden voldaan aan de korpschef, commandant of de minister die op grond van artikel 7, eerste, tweede of derde lid, van de wet bevoegd is tot het verlenen van toestemming.    
+3.  De vergoeding van kosten, bedoeld in artikel 7, zesde lid, van de wet, bedraagt voor: 
+
+het verlenen van toestemming als bedoeld in artikel 7, eerste lid, van de wet: € 92,–.
+
+het verlenen van toestemming als bedoeld in artikel 7, tweede en derde lid, van de wet: € 60,–. Deze kosten worden voldaan aan de korpschef, commandant of de minister die op grond van artikel 7, eerste, tweede of derde lid, van de wet bevoegd is tot het verlenen van toestemming.  
 4.  Indien een beveiligingsorganisatie of recherchebureau is gevestigd in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en de beroepseisen waaraan in het land van vestiging reeds is voldaan aanleiding geven tot een vereenvoudigde procedure, worden in afwijking van het eerste en derde lid, slechts de kosten vergoed die voortvloeien uit die vereenvoudigde procedure.  
 5.  De vergoeding van kosten wordt jaarlijks aangepast overeenkomstig het voor de maand december van het voorgaande jaar vastgestelde percentage voor de ontwikkeling in de kosten van de arbeidsvoorwaardenontwikkeling bij de overheid. Het basisbedrag wordt rekenkundig afgerond op euro’s. 
 

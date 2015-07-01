@@ -3,7 +3,7 @@
 ##Regeling houdende eisen betreffende de beoordeling en de afgifte van het veiligheidsattest (Regeling veiligheidsattest hoofdspoorwegen)
 
 De Minister van Verkeer en Waterstaat,
-Gelet op artikel 32 van richtlijn 2001/14/EG van het Europees Parlement en de Raad van de Europese Unie van 26 februari 2001 inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur alsmede inzake veiligheidscertificering (PbEG L 75) en [artikel 18 van het Besluit bedrijfsvergunning en veiligheidsattest hoofdspoorwegen](../../../../../AMvB/besluit/bedrijfsvergunning/en/veiligheidsattest/hoofdspoorwegen/BWBR0017623/README.md);
+Gelet op artikel 32 van richtlijn 2001/14/EG van het Europees Parlement en de Raad van de Europese Unie van 26 februari 2001 inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur alsmede inzake veiligheidscertificering (PbEG L 75) en artikel 18 van het Besluit bedrijfsvergunning en veiligheidsattest hoofdspoorwegen;
 Besluit: 
 ### §  1  
 
@@ -121,7 +121,7 @@ De uit de beoordeling, bedoeld in artikel 10, voortvloeiende maatregelen worden 
 
 ### Artikel  12  
 
-1.  De gevolgen van de uitgevoerde maatregelen worden opgenomen in het jaarverslag met betrekking tot de spoorwegveiligheid, bedoeld in [artikel 19 van het Besluit bedrijfsvergunning en veiligheidscertificaat hoofdspoorwegen](../../../../../AMvB/besluit/bedrijfsvergunning/en/veiligheidsattest/hoofdspoorwegen/BWBR0017623/README.md).   
+1.  De gevolgen van de uitgevoerde maatregelen worden opgenomen in het jaarverslag met betrekking tot de spoorwegveiligheid, bedoeld in artikel 19 van het Besluit bedrijfsvergunning en veiligheidscertificaat hoofdspoorwegen.   
 2.  In het jaarverslag wordt tevens de registratie van incidenten en non-conformiteiten ten aanzien van het veiligheidsbeheersysteem en de controle op de uitvoering van vastgestelde maatregelen opgenomen.  
 
 ###§ 4 
@@ -130,7 +130,7 @@ De uit de beoordeling, bedoeld in artikel 10, voortvloeiende maatregelen worden 
 
 ###Artikel 13 
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit bedrijfsvergunning en veiligheidsattest hoofdspoorwegen](../../../../../AMvB/besluit/bedrijfsvergunning/en/veiligheidsattest/hoofdspoorwegen/BWBR0017623/README.md) in werking treedt.
+Deze regeling treedt in werking op het tijdstip waarop het Besluit bedrijfsvergunning en veiligheidsattest hoofdspoorwegen in werking treedt.
 
 ### Artikel  14  
 

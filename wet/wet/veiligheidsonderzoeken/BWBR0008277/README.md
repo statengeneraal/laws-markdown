@@ -78,7 +78,7 @@ d.gegevens betreffende overige persoonlijke gedragingen en omstandigheden, naar 
 2. Onder feiten en omstandigheden als bedoeld in het eerste lid kunnen worden gerekend gegevens die de Algemene Inlichtingen- en Veiligheidsdienst heeft verkregen door het verzamelen van justitiële en strafvorderlijke gegevens als bedoeld in de Wet justitiële en strafvorderlijke gegevens en van gegevens als bedoeld in de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES alsmede van gegevens als bedoeld in de Wet politiegegevens en van gegevens verwerkt in het kader van de uitvoering van de politietaak op Bonaire, Sint Eustatius en Saba.
 
 ### Artikel  9a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  De kosten die samenhangen met het verrichten van een veiligheidsonderzoek als bedoeld in de artikelen 7 en 9 komen ten laste van de werkgever.   
 2.  De bedragen ter vergoeding van de kosten worden bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgesteld.  

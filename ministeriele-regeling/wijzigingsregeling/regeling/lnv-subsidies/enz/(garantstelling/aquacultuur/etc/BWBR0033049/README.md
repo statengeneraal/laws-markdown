@@ -9,9 +9,9 @@ Gelet op
 
 –  verordening (EG) nr. 736/2008 van de Commissie van 22 juli 2008 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op staatssteun voor kleine en middelgrote ondernemingen die visserijproducten produceren, verwerken en afzetten (PbEU L 201);  
 
-– de artikelen 2, [4](../../../../../../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md) en [7 van de Kaderwet LNV-subsidies](../../../../../../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md);  
+– de artikelen 2, 4 en 7 van de Kaderwet LNV-subsidies;  
 
-– [artikel 1:3 van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md);     Besluit:    
+– artikel 1:3 van de Regeling LNV-subsidies;     Besluit:    
 
 ### Artikel  I  
 
@@ -23,7 +23,7 @@ Wijzigt het Openstellingsbesluit LNV-subsidies 2013.
 
 ### Artikel  III  
 
-De [Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) zoals deze luidde voor inwerkingtreding van deze regeling blijft van toepassing op aanvragen die voor 21 juli 2012 zijn ingediend op grond van [hoofdstuk 4, titel 4, paragraaf 4, van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md). 
+De Regeling LNV-subsidies zoals deze luidde voor inwerkingtreding van deze regeling blijft van toepassing op aanvragen die voor 21 juli 2012 zijn ingediend op grond van hoofdstuk 4, titel 4, paragraaf 4, van de Regeling LNV-subsidies. 
 
 ### Artikel  IV  
 

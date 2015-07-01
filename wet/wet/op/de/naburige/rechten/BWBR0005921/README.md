@@ -80,7 +80,6 @@ d. het uitzenden, het heruitzenden, het beschikbaar stellen voor het publiek of 
 2.   Van het in het eerste lid bedoelde recht op een billijke vergoeding kan geen afstand worden gedaan.  
 
 ### Artikel  2b  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Hoofdstuk 1a van de Auteurswet is van overeenkomstige toepassing op de uitvoerende kunstenaar.
 
@@ -90,7 +89,8 @@ De werkgever is bevoegd de rechten van de uitvoerende kunstenaar, bedoeld in art
 
 ### Artikel  4  
 
-Op de uitvoering van een uitvoerende kunstenaar, die bestemd is als bijdrage voor de totstandkoming van een filmwerk als bedoeld in artikel 45a van de Auteurswet, zijn de artikelen 45a tot en met 45g van voornoemde wet van overeenkomstige toepassing. 
+1. Op de uitvoering van een uitvoerende kunstenaar, die bestemd is als bijdrage voor de totstandkoming van een filmwerk als bedoeld in artikel 45a van de Auteurswet, zijn de artikelen 45a tot en met 45g van voornoemde wet van overeenkomstige toepassing.  
+2.  Op een uitvoerend kunstenaar als bedoeld in het eerste lid die in het filmwerk een hoofdrol vervult, is artikel 45d, tweede lid tot en met zesde lid, van de Auteurswet van overeenkomstige toepassing. 
 
 ### Artikel  5  
 
@@ -164,16 +164,17 @@ e. het beschikbaar stellen voor het publiek of op andere wijze openbaar maken va
 
 ### Artikel  9  
 
-De rechten die deze wet verleent gaan over bij erfopvolging. Deze rechten zijn, met uitzondering van die welke genoemd zijn in het eerste lid van artikel 5, vatbaar voor gehele of gedeeltelijke overdracht. Levering vereist voor gehele of gedeeltelijke overdracht, geschiedt door een daartoe bestemde akte. De overdracht omvat alleen die bevoegdheden waarvan dit in de akte is vermeld of uit de aard of strekking van de titel noodzakelijk voortvloeit. Ten aanzien van het verlenen van toestemming als bedoeld in de artikelen 2, 6, 7*a*  en 8 is het bepaalde in de derde en vierde volzin van dit artikel van overeenkomstige toepassing. 
+1.  De rechten die deze wet verleent gaan over bij erfopvolging. Deze rechten zijn vatbaar voor gehele of gedeeltelijke overdracht. Voor het verrichten van handelingen als bedoeld in de artikelen 2, 6, 7a en 8 kan voor het geheel of een gedeelte van het uitsluitend recht een licentie worden verleend.   
+2.  De levering vereist voor gehele of gedeeltelijke overdracht, alsmede het verlenen van een exclusieve licentie, geschiedt door een daartoe bestemde akte.   
+3.  De overdracht of het verlenen van een exclusieve licentie door de uitvoerende kunstenaar of de natuurlijke persoon die het uitsluitend recht als bedoeld in artikel 2 als erfgenaam of legataris heeft verkregen omvat alleen die bevoegdheden waarvan dit in de akte is vermeld of uit de aard of de strekking van de titel noodzakelijkerwijs voortvloeit.  
 
 ### Artikel  9a  
 
-1.  Indien de producent van een fonogram na verloop van 50 jaar nadat dat fonogram is openbaar gemaakt dan wel op rechtmatige wijze in het verkeer is gebracht, dat fonogram niet of niet langer in voldoende mate exploiteert, kan de uitvoerende kunstenaar de overeenkomst houdende overdracht van zijn rechten op de vastlegging van zijn uitvoering aan die producent geheel of gedeeltelijk ontbinden.   
-2.  Indien de door deze wet verleende rechten toekomen aan meerdere uitvoerende kunstenaars, kan de in het eerste lid bedoelde ontbinding slechts plaatsvinden indien de andere uitvoerende kunstenaars daarmee instemmen. Indien een uitvoerende kunstenaar zijn instemming onthoudt, kan de ontbinding van de overeenkomst slechts door de rechter geschieden indien de overige uitvoerende kunstenaars door het onthouden van de toestemming onevenredig worden benadeeld.   
-3.  De in het eerste lid bedoelde bevoegdheid tot ontbinding ontstaat eerst nadat de producent van het fonogram door de uitvoerende kunstenaar schriftelijk van zijn voornemen tot ontbinding in kennis is gesteld en sindsdien minimaal één jaar is verstreken waarin exploitatie is uitgebleven.   
-4.  Op verzoek van de uitvoerende kunstenaar verstrekt de producent van het fonogram hem voor het verstrijken van de in het derde lid bedoelde termijn een schriftelijke opgave van de exploitatie.   
-5.  Van het in het eerste lid genoemde recht tot ontbinding kan de uitvoerende kunstenaar geen afstand doen.   
-6.  Een ontbinding op grond van het eerste lid heeft tot gevolg dat de rechten van de producent van het fonogram overgaan op de uitvoerende kunstenaar.  
+De in artikel 25e, derde lid van de Auteurswet genoemde termijn bedraagt ten minste één jaar indien:
+
+a.de in artikel 9, eerste lid bedoelde overdracht behelst een overdracht door een uitvoerende kunstenaar van zijn rechten op de uitvoering van een muziekwerk aan de producent van een fonogram, en
+
+b.sinds het fonogram is openbaar gemaakt dan wel op rechtmatige wijze in het verkeer is gebracht ten minste 50 jaar zijn verstreken.
 
 ### Artikel  9b  
 

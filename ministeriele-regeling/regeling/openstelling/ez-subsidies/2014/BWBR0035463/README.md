@@ -121,7 +121,7 @@ d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nr.  | Artikel  | Project  | Prioriteitsthema / programmalijn uit de bijlage  | Openstelling  | Subsidieplafond  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | 4.2.9  | BBE Innovatieproject  | --- | t/m 7 oktober  | 3,1 mln  |
+| 1  | 4.2.9  | BBE Innovatieproject  | --- | t/m 7 oktober  | 3.172.580  |
 | 2  | 4.2.16  | BBE-KEW project  | --- | t/m 7 oktober  | 6,8 mln  |
 | 3  | 4.2.23  | STEM-project  | --- | t/m 17 juni  | 1,5 mln  |
 | 4  | 4.2.30  | GG-project  | --- | t/m 24 juni  | 6,7 mln  |
@@ -141,13 +141,13 @@ d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
 | 12  | --- | PV-project  | 1.1: Wafergebaseerde kristallijn silicium PV technologieën  | 1 juni t/m 16 september  | 2,676 mln  |
 | 1.2: Dunne film PV technologieën  | 1 juni t/m 16 september  | 2,704 mln  |
 | 13  | 4.2.65  | DEI-project  | --- | t/m 4 november  | 24,285 mln  |
-| 14  | 4.2.72  | Systeemintegratieproject  | 1. Hybride energie-infrastructuren en energieopslag  | t/m 21 oktober  | 2,0 mln  |
-| 2. Keteninteracties  | t/m 21 oktober  | 0,8 mln  |
-| 15  | 4.2.79  | Jip-energiebesparing industrieproject  | Nieuwe generatie scheidingstechnologie als vervanging van energie-intensieve destillatie  | t/m 21 oktober  | 1,0 mln  |
+| 14  | 4.2.72  | Systeemintegratieproject  | 1. Hybride energie-infrastructuren en energieopslag  | t/m 21 oktober  | 2.083.301  |
+| 2. Keteninteracties  | t/m 21 oktober  | 864.917  |
+| 15  | 4.2.79  | Jip-energiebesparing industrieproject  | Nieuwe generatie scheidingstechnologie als vervanging van energie-intensieve destillatie  | t/m 21 oktober  | 1.588.919  |
 | Intensifiëren van processen en optimaliseren van warmte- en stofoverdracht  | t/m 21 oktober  | 0,4 mln  |
 | Energie-efficiënte manier van gasscheiding en gasbehandeling  | t/m 21 oktober  | 0,3 mln  |
 | Verwijderen van waardevolle componenten uit waterstromen, en ontwikkelen van alternatieven voor huidige energie-intensieve behandelingsmethoden zoals verdamping  | t/m 21 oktober  | 0,8 mln  |
-| Nieuwe generatie warmtegebruik systemen  | t/m 21 oktober  | 1 mln  |
+| Nieuwe generatie warmtegebruik systemen  | t/m 21 oktober  | 1.111.081  |
 | 16  | 4.2.86  | Wind op zee jip  | --- | t/m 16 september  | 4,5 mln  |
 | 4.2.93  | EnerGO CCO-project  | --- | t/m 9 september  | 3,7 mln  |
 | 17  | 4.2.100  | Smart grids-project  | 1. Energiemanagement voor flexibiliteit in het energiesysteem  | t/m 21 oktober  | 2,22 mln  |

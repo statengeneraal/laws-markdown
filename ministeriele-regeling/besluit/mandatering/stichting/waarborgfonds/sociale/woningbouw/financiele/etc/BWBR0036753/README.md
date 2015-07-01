@@ -7,7 +7,7 @@ Gelet op afdeling 10.1.1 van de Algemene wet bestuursrecht,
 
 Gelet op artikel 59, tweede lid, van de Woningwet,
 
-Gelet op de schriftelijke instemming van de directie van WSW, d.d. *pm* 
+Gelet op de schriftelijke instemming van de directie van WSW, d.d. 29 juni 2015 
 Besluit:    
 
 ### Artikel  1  

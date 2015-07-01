@@ -3,7 +3,7 @@
 ##Deelregeling projectsubsidies Fonds Podiumkunsten
 
 Het bestuur van het Fonds Podiumkunsten  
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) en [artikel 4 van het Algemeen Reglement van het Nederlands Fonds voor Podiumkunsten+](../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/podiumkunsten+/BWBR0022753/README.md) 
+Gelet op artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid en artikel 4 van het Algemeen Reglement van het Nederlands Fonds voor Podiumkunsten+ 
 Besluit:    
 
 ### Artikel  1.1  
@@ -26,7 +26,7 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  1.2  
 
-Het bestuur kan subsidie verstrekken in de vorm van een productiesubsidie, een subsidie nieuwe maker of een subsidie voor het verlenen van een opdracht voor activiteiten die bijdragen aan de kwaliteit en diversiteit in de podiumkunsten in Nederland en het opbouwen en bereiken van een publiek daarvoor. 
+Het bestuur kan subsidie verstrekken in de vorm van een productiesubsidie, een subsidie nieuwe maker of een subsidie doorstroom nieuwe maker (reprise grote zaal) voor activiteiten die bijdragen aan de kwaliteit en diversiteit in de podiumkunsten in Nederland en het opbouwen en bereiken van een publiek daarvoor. 
 
 ### Artikel  1.3  
 
@@ -71,7 +71,7 @@ C: niet honoreren.
 
 ####Algemene weigeringsgronden
 
-1.  Het bestuur kan, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), subsidie weigeren: 
+1.  Het bestuur kan, onverminderd het bepaalde in artikel 4:35 van de Algemene wet bestuursrecht, subsidie weigeren: 
 
 a. als de aanvraag onvoldoende concreet is met betrekking tot de uit te voeren activiteiten;  
 
@@ -215,43 +215,43 @@ d. bijdrage aan de pluriformiteit van het podiumkunstenaanbod in Nederland.
 ####Hoogte subsidie
 
 1.  Het subsidie bedraagt nooit meer dan 50 % van de subsidiabele kosten als deze € 100.000 of meer bedragen en nooit meer dan 80% van de subsidiabele kosten als deze minder dan € 100.000 bedragen.   
-2.  Bij het bepalen van de subsidiabele kosten is het bepaalde in artikel 2.6 van overeenkomstige toepassing.   
-3.  Het bestuur kan bepalen dat een subsidie nieuwe maker nooit meer bedraagt dan een bepaald bedrag.  
+2.  Als een aanvraag mede betrekking heeft op een productie die overwegend zal worden uitgevoerd in zalen met meer dan 400 stoelen, dan kan voor die specifieke productie een aanvullend subsidie worden verstrekt tot maximaal 80% van de subsidiabele kosten. Het aanvullend subsidie wordt alleen definitief toegekend als de aanvrager kan aantonen dat de productie ten minste tien keer zal worden uitgevoerd in zalen met meer dan 400 stoelen. In alle andere gevallen wordt het aanvullend subsidie voorwaardelijk toegekend en dient de aanvrager uiterlijk een maand voor de eerste uitvoering van de productie, maar niet later dan twaalf maanden na de beschikkingsdatum aan de hand van schriftelijke bewijsstukken aan te tonen dat de productie ten minste tien keer zal worden uitgevoerd in zalen met meer dan 400 stoelen.   
+3.  Het bestuur kan besluiten een aanvraag die niet voldoet aan de vereisten uit het tweede lid te honoreren als de activiteiten een bijzondere bijdrage kunnen leveren aan het doel van deze subsidievorm.  
+4.  Bij het bepalen van de subsidiabele kosten is het bepaalde in artikel 2.6 van overeenkomstige toepassing.   
+5.  Het bestuur kan bepalen dat een subsidie nieuwe maker nooit meer bedraagt dan een bepaald bedrag.  
 
 ### Paragraaf  4:  
 
-####Subsidie voor het verlenen van een opdracht
+####Subsidie doorstroom nieuwe maker (reprise grote zaal)
 
 ### Artikel  4.1  
 
 ####Doel
 
-Het bestuur verstrekt subsidies voor het verlenen van een opdracht tot het vervaardigen van een compositie, libretto of theatertekst om bij te dragen aan de kwaliteit en diversiteit in de podiumkunsten in Nederland en het opbouwen en bereiken van een publiek daarvoor. 
+Het bestuur verstrekt subsidies doorstroom nieuwe maker (reprise grote zaal) voor het hernemen van een eerder ontwikkelde productie die wordt uitgevoerd in de grote zaal om bij te dragen aan de ontwikkeling van nieuwe makers en aan de kwaliteit en diversiteit in de podiumkunsten in Nederland. 
 
 ### Artikel  4.2  
 
 ####Aanvrager
 
-1.  Een subsidie voor het verlenen van een opdracht kan worden aangevraagd door een instelling die voornemens is vanuit een artistiek-inhoudelijk uitgangspunt activiteiten te organiseren die zullen leiden tot voorstellingen of concerten en in dat kader een compositie, libretto of theatertekst wil laten vervaardigen.   
-2.  Een aanvrager kan per aanvraagronde maximaal 3 aanvragen indienen.  
+Een subsidie doorstroom nieuwe maker (reprise grote zaal) kan uitsluitend worden aangevraagd door een instelling die primair gericht is op het zelf ontwikkelen en produceren van voorstellingen of concerten door professionele podiumkunstenaars of het presenteren daarvan. 
 
 ### Artikel  4.3  
 
 ####Subsidieaanvraag
 
-1.  Een aanvraag heeft betrekking op één opdracht aan een door de aanvrager gekozen componist of auteur.   
-2.  Als er sprake is van samenhangende opdrachten kunnen deze door middel van een gebundelde aanvraag worden ingediend, rekening houdend met het maximum aantal aanvragen per aanvrager per aanvraagronde. 
+1.  Een aanvraag heeft betrekking op de herneming van een eerder ontwikkelde productie die overwegend zal worden uitgevoerd in zalen met meer dan 400 stoelen.   
+2.  Een aanvrager kan per aanvraagronde maximaal 1 aanvraag indienen. 
 
 ### Artikel  4.4  
 
 ####Vereisten
 
-1.  Een subsidie voor het verlenen van een opdracht kan worden verstrekt als: 
-
-a) een nieuw werk tot stand komt dat onder de naam van de componist of auteur wordt gepresenteerd;  
-
-b) de aanvraag aannemelijk maakt dat het werk meermalen zal worden uitgevoerd.     
-2.  Het bestuur kan in bijzondere gevallen besluiten een aanvraag die niet voldoet aan de vereisten uit het eerste lid in behandeling te nemen als de aanvrager niet kan worden tegengeworpen dat niet aan het vereiste wordt voldaan en het resultaat van de opdracht een bijzondere bijdrage kan leveren aan het doel van deze subsidievorm. 
+1.  De aanvraag voor een subsidie doorstroom nieuwe maker (reprise grote zaal) kan alleen worden verstrekt als de verantwoordelijke maker of makers minimaal twee jaar actief zijn en meerdere producties hebben voortgebracht, maar nog geen productie hebben gemaakt die overwegend is uitgevoerd in zalen met meer dan 400 stoelen.   
+2.  Subsidie kan alleen worden verstrekt als de activiteiten waarvoor subsidie wordt aangevraagd overwegend in Nederland plaatsvinden.   
+3.  Subsidie wordt niet verstrekt als het gevraagde subsidie niet in een redelijke verhouding staat tot het aantal te realiseren activiteiten of de te behalen eigen inkomsten. Hiervan is in elk geval sprake als niet minimaal 20% van de subsidiabele kosten worden gedekt door eigen inkomsten.   
+4.  Subsidie wordt alleen verstrekt als de aanvrager op het moment van het indienen van de aanvraag aan de hand van schriftelijke bewijsstukken kan aantonen dat de productie ten minste tien keer zal worden uitgevoerd in zalen met meer dan 400 stoelen.   
+5.  Het bestuur kan besluiten een aanvraag die niet voldoet aan het vereiste uit het vierde lid in behandeling te nemen als de activiteiten een bijzondere bijdrage kunnen leveren aan het doel van deze subsidievorm. 
 
 ### Artikel  4.5  
 
@@ -259,20 +259,21 @@ b) de aanvraag aannemelijk maakt dat het werk meermalen zal worden uitgevoerd.
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria: 
 
-a) motivering van de keuze voor de componist of auteur;  
+a. motivering voor de herneming van de eerder ontwikkelde productie;  
 
-b) programmering(sbeleid) waarbinnen de opdracht tot stand komt;  
+b. verwachte bijdrage aan de ontwikkeling van de maker of groep makers;  
 
-c) verwachte uitvoeringsmogelijkheden;  
+c. verwachte bijdrage aan de positionering van de maker of groep makers;  
 
-d) bijdrage aan de pluriformiteit van het podiumkunstenrepertoire in Nederland.  
+d. ondernemerschap.  
 
 ### Artikel  4.6  
 
 ####Hoogte subsidie
 
-1.  Het bestuur kan richtlijnen vaststellen aan de hand waarvan de hoogte van de subsidie wordt bepaald.   
-2.  Het bestuur kan bepalen dat een subsidie nooit meer bedraagt dan een bepaald bedrag. 
+1.  Het subsidie bedraagt nooit meer dan 50% van de subsidiabele kosten.   
+2.  Bij het bepalen van de subsidiabele kosten is het bepaalde in artikel 2.6 van overeenkomstige toepassing.   
+3.  Het bestuur kan bepalen dat een subsidie doorstroom nieuwe maker (reprise grote zaal) nooit meer bedraagt dan een bepaald bedrag.  
 
 ### Paragraaf  5:  
 
@@ -306,7 +307,7 @@ c. er aanzienlijke wijzigingen zijn ten opzichte van het plan op basis waarvan s
 ####Verantwoording bij subsidies van € 25.000 en groter
 
 1.  Als de verstrekte subsidie € 25.000 of meer bedraagt, stuurt de ontvanger van het subsidie binnen 3 maanden na het verstrijken van de in de beschikking opgenomen einddatum een korte verantwoording in over de verrichte activiteiten waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.   
-2.  Als de verstrekte subsidie € 125.000 of meer bedraagt, stuurt de ontvanger van het subsidie binnen 3 maanden na het verstrijken van de in de beschikking opgenomen einddatum tevens een financiële verantwoording met daarbij een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).  
+2.  Als de verstrekte subsidie € 125.000 of meer bedraagt, stuurt de ontvanger van het subsidie binnen 3 maanden na het verstrijken van de in de beschikking opgenomen einddatum tevens een financiële verantwoording met daarbij een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.  
 
 ### Artikel  5.4  
 
