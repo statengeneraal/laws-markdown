@@ -839,7 +839,7 @@ c.de toeslagverlening.
 
 ####Informatie over uitvoeringskosten
 
-1.  Een beroepspensioenfonds neemt in zijn jaarverslag informatie op over de uitvoeringskosten over het voorafgaande verslagjaar, waarbij worden onderscheiden: administratieve uitvoeringskosten, de kosten van vermogensbeheer en transactiekosten.   
+1.  Een beroepspensioenfonds neemt in zijn jaarverslag informatie op over de uitvoeringskosten over het verslagjaar, waarbij worden onderscheiden: administratieve uitvoeringskosten, de kosten van vermogensbeheer en transactiekosten.   
 2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot dit artikel.  
 
 ### Artikel 57 
@@ -869,24 +869,22 @@ e.informatie over andere bij algemene maatregel van bestuur te bepalen onderwerp
 1. De pensioenuitvoerder verstrekt deelnemers, gewezen deelnemers en gepensioneerden die zich in een andere lidstaat vestigen informatie over hun pensioenaanspraken en pensioenrechten en over de mogelijkheden die hun op grond van de pensioenregeling worden geboden. 
 2. De informatie die op grond van het eerste lid wordt verstrekt is ten minste overeenkomstig de informatie die wordt verstrekt aan deelnemers, gewezen deelnemers en gepensioneerden die in Nederland blijven.
 
-### Artikel 59 
+### Artikel  59  
 
-####Informatie tijdig en duidelijk
+####Eisen aan informatieverstrekking
 
-1. De pensioenuitvoerder verstrekt de informatie, bedoeld in de artikelen 48 tot en met 58, tijdig en de informatie, bedoeld in de artikelen 48 tot en met 56, 57, eerste lid, onderdeel d, tweede tot en met vierde lid, en 58 in duidelijke en begrijpelijke bewoordingen. 
-2. De informatie over toeslagverlening, bedoeld in de artikelen 48 tot en met 56, wordt in ieder geval uitgedrukt in een kwalitatieve en beeldende maatstaf. 
-3. De in het tweede lid bedoelde maatstaf houdt in ieder geval rekening met:
+1.  De informatie die de pensioenuitvoerder verstrekt of beschikbaar stelt is correct, duidelijk en evenwichtig. De informatie wordt tijdig verstrekt of beschikbaar gesteld.   
+2.  De pensioenuitvoerder bevordert dat persoonlijke informatie aansluit bij de informatiebehoefte en kenmerken van de deelnemer, gewezen deelnemer, gewezen partner of pensioengerechtigde.   
+3.  De pensioenuitvoerder bevordert dat de informatie de deelnemer, gewezen deelnemer, gewezen partner of pensioengerechtigde inzicht geeft in de keuzemogelijkheden die er zijn in de beroepspensioenregeling en de gevolgen van belangrijke gebeurtenissen voor het pensioen.  
 
-a.de verwachtingen ten aanzien van de toekomstige toeslagverlening, zoals deze uit de continuïteitsanalyse volgen en welke onderdeel zijn van de voorwaardelijkheidsverklaring, bedoeld in artikel 103; en
+### Artikel  60  
 
-b.de te verwachten toeslagverlening in de pensioenregeling afgezet tegen het minimale percentage van het gemiddelde prijsindexcijfer, bedoeld in artikel 139, eerste lid, onderdeel a. 
-4. Onze Minister kan regels stellen ten aanzien van het tweede en derde lid. 
+####Informatie elektronisch of schriftelijk
 
-### Artikel 60 
-
-####Informatie schriftelijk tenzij
-
-De pensioenuitvoerder verstrekt de informatie schriftelijk, tenzij de deelnemer, gewezen deelnemer, pensioengerechtigde of gewezen partner instemt met elektronische verstrekking.
+1.  De pensioenuitvoerder verstrekt de informatie elektronisch of schriftelijk. Er wordt ten hoogste eenmaal per jaar gewisseld tussen schriftelijke verstrekking en elektronische verstrekking van de informatie.   
+2.  De pensioenuitvoerder informeert de deelnemer, gewezen deelnemer, gewezen partner of pensioengerechtigde schriftelijk over het voornemen tot elektronische verstrekking.   
+3.  Indien de deelnemer, gewezen deelnemer, gewezen partner of pensioengerechtigde bezwaar maakt tegen elektronische verstrekking, verstrekt de pensioenuitvoerder de informatie schriftelijk.   
+4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot dit artikel. 
 
 ### Artikel  61  
 
@@ -899,15 +897,18 @@ De pensioenuitvoerder verstrekt de informatie schriftelijk, tenzij de deelnemer,
 
 ### Artikel 62 
 
-1.  Er is een pensioenregister, ingericht en in stand gehouden door de pensioenuitvoerders, dat tot doel heeft op duidelijke en begrijpelijke wijze de aanspraakgerechtigde in de gelegenheid te stellen gegevens over zijn pensioenaanspraken te raadplegen. Onder pensioenaanspraken in de zin van dit artikel wordt tevens verstaan aanspraken op ouderdomspensioen op grond van de Algemene Ouderdomswet.   
-2.  De pensioenuitvoerder verstrekt op verzoek van de aanspraakgerechtigde tijdig zijn gegevens met betrekking tot pensioenaanspraken door middel van het pensioenregister.   
-3.  De Sociale verzekeringsbank, genoemd in hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen, verstrekt op verzoek van de aanspraakgerechtigde tijdig zijn gegevens over verzekeringstijdvakken en daarop gebaseerde aanspraak op ouderdomspensioen op grond van de Algemene Ouderdomswet door middel van het pensioenregister.   
+####Pensioenregister
+
+1.  Er is een pensioenregister, ingericht en in stand gehouden door de pensioenuitvoerders, dat tot doel heeft op duidelijke en begrijpelijke wijze de aanspraakgerechtigde of de pensioengerechtigde in de gelegenheid te stellen gegevens over zijn pensioenaanspraken en pensioenrechten te raadplegen, waarbij deze gegevens, voor zover het ouderdomspensioen betreft, tevens weergegeven worden op basis van een pessimistisch scenario, een verwacht scenario en een optimistisch scenario. Het pensioenregister heeft verder tot doel inzicht te geven in de hoogte van het te bereiken pensioen, de keuzes ten aanzien van het pensioen en de gevolgen van deze keuzes en van belangrijke gebeurtenissen op het pensioen van de aanspraakgerechtigde of de pensioengerechtigde. Onder pensioenaanspraken en pensioenrechten in de zin van dit artikel worden tevens verstaan aanspraken op ouderdomspensioen en recht op ouderdomspensioen op grond van de Algemene Ouderdomswet.   
+2.  De pensioenuitvoerder verstrekt op verzoek van de aanspraakgerechtigde of de pensioengerechtigde tijdig zijn gegevens met betrekking tot pensioenaanspraken en pensioenrechten door middel van het pensioenregister.   
+3.  De Sociale verzekeringsbank, genoemd in hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen, verstrekt op verzoek van de aanspraakgerechtigde of de pensioengerechtigde tijdig zijn gegevens over verzekeringstijdvakken en daarop gebaseerde aanspraak op ouderdomspensioen en recht op ouderdomspensioen op grond van de Algemene Ouderdomswet door middel van het pensioenregister.   
 4.  De gegevens die op grond van het tweede en derde lid worden verstrekt door middel van het pensioenregister worden in dat kader uitsluitend gebruikt voor het in het eerste lid omschreven doel.   
 5.  Een door Onze Minister aan te wijzen instelling ontwikkelt en beheert het pensioenregister en draagt zorg voor de tijdige verwerking van de gegevens, bedoeld in het tweede en derde lid, en het goed functioneren van het pensioenregister.   
 6.  De instelling, bedoeld in het vijfde lid, is bewerker in de zin van de Wet bescherming persoonsgegevens voor het verwerken van de gegevens die door de pensioenuitvoerders en de Sociale verzekeringsbank, genoemd in hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen, door middel van het pensioenregister worden verstrekt.   
 7.  De instelling, bedoeld in het vijfde lid, stelt in verband met haar rol als bewerker als bedoeld in het zesde lid een reglement vast waarin regels worden gesteld met betrekking tot het ontwikkelen en beheren van het pensioenregister. Dit reglement bevat in ieder geval regels over de gegevens die verstrekt worden, de wijze waarop deze gegevens verstrekt worden en de bekostiging en beveiliging van het pensioenregister.   
 8.  Het reglement alsmede elke wijziging daarvan behoeft de goedkeuring van Onze Minister.   
-9.  Hetgeen bij of krachtens hoofdstuk 6 van toepassing is bij het toezicht op de uitvoering van dit artikel door pensioenuitvoerders is van overeenkomstige toepassing op de uitvoering van dit artikel door de instelling, bedoeld in het vijfde lid. 
+9.  Hetgeen bij of krachtens hoofdstuk 6 van toepassing is bij het toezicht op de uitvoering van dit artikel door pensioenuitvoerders is van overeenkomstige toepassing op de uitvoering van dit artikel door de instelling, bedoeld in het vijfde lid.  
+10.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot dit artikel over onder meer de scenario’s, de actualisatie van de te verstrekken gegevens, het opnemen van gegevens met betrekking tot de keuzes ten aanzien van het pensioen en de gevolgen van deze keuzes en van belangrijke gebeurtenissen op het pensioen en de fasering van het opnemen van deze gegevens. 
 
 ### §  3  
 
@@ -1209,7 +1210,7 @@ b. dat op het tijdstip onmiddellijk voorafgaand aan het tijdstip waarop de deeln
 
 a.er sprake is van een individuele beëindiging van de deelneming; en
 
-b.die waardeoverdracht ertoe strekt het de gewezen deelnemer mogelijk te maken pensioenaanspraken te verwerven bij de ontvangende pensioenuitvoerder van de nieuwe beroepspensioenregeling of de werkgever;tenzij sprake is van een van de in de artikelen 83, 83a en 84 omschreven situaties.Indien het verzoek van de gewezen deelnemer tot waardeoverdracht partnerpensioen betreft is voor de waardeoverdracht van dit partnerpensioen tevens vereist dat de partner die begunstigde is voor het partnerpensioen met de waardeoverdracht instemt. 
+b.die waardeoverdracht ertoe strekt het de gewezen deelnemer mogelijk te maken pensioenaanspraken te verwerven bij de ontvangende pensioenuitvoerder van de nieuwe beroepspensioenregeling of de werkgever;tenzij sprake is van een van de in de artikelen 83, 83a en 84 omschreven situaties.Indien het verzoek van de gewezen deelnemer tot waardeoverdracht partnerpensioen betreft is voor de waardeoverdracht van dit partnerpensioen tevens vereist dat de partner die begunstigde is voor het partnerpensioen met de waardeoverdracht instemt. Indien het verzoek van de gewezen deelnemer tot waardeoverdracht nettopensioen betreft is voor de waardeoverdracht van dit nettopensioen tevens vereist dat de ontvangende pensioenuitvoerder een regeling voor nettopensioen uitvoert. 
 2. De ontvangende pensioenuitvoerder is verplicht om na een verzoek tot waardeoverdracht van een deelnemer de overdrachtswaarde aan te wenden ter verwerving van pensioenaanspraken voor die deelnemer. 
 3. De plicht van de overdragende pensioenuitvoerder om de waarde rechtstreeks over te dragen en de plicht van de ontvangende pensioenuitvoerder om de waarde aan te wenden ontstaat indien de deelnemer na aanvang van de verwerving van pensioenaanspraken in de door de ontvangende pensioenuitvoerder uitgevoerde pensioenregeling een opgave heeft gevraagd van zijn pensioenaanspraken aan de ontvangende pensioenuitvoerder en daarna het verzoek tot waardeoverdracht doet aan de ontvangende pensioenuitvoerder. 
 4. De ontvangende pensioenuitvoerder waarborgt dat de actuariële waarde van de door de deelnemer te verwerven pensioenaanspraken ten minste gelijk is aan de op dezelfde grondslagen berekende waarde van de over te dragen pensioenaanspraken. 
@@ -1269,7 +1270,7 @@ a.de deelnemer niet voldaan heeft aan een in de algemene maatregel van bestuur o
 b.sprake is van de in artikel 84 bedoelde situatie, is de pensioenuitvoerder bevoegd tot waardeoverdracht indien voldaan wordt aan de in artikel 82, eerste lid en vierde lid genoemde voorwaarden. 
 2. Indien in de in artikel 82 bedoelde situatie geen plicht tot waardeoverdracht bestaat, omdat er geen sprake is van een individuele beëindiging, is de pensioenuitvoerder bevoegd tot waardeoverdracht indien:
 
-a.wordt voldaan aan de in artikel 82, eerste lid, onderdeel b en tweede zin en vierde lid, genoemde voorwaarden;
+a.wordt voldaan aan de in artikel 82, eerste lid, onderdeel b, tweede en derde zin en vierde lid, genoemde voorwaarden;
 
 b.de overdragende en de ontvangende pensioenuitvoerders aan wie door een groep gewezen deelnemers verzoeken tot waardeoverdracht worden gedaan, dit schriftelijk hebben gemeld aan de toezichthouder; en
 
@@ -1516,7 +1517,7 @@ b. in contacten met personen en instanties voor zover deze zelf bevoegd zijn geb
 1. Bij voorwaardelijke toeslagverlening door een verzekeraar dient er een consistent geheel te zijn tussen de gewekte verwachtingen, de financiering en het realiseren van voorwaardelijke toeslagen. 
 2.  Bij regeling van Onze Minister wordt invulling gegeven aan de consistentie, bedoeld in het eerste lid.  
 3. Een toeslag is alleen voorwaardelijk indien in de beroepspensioenregeling, de uitvoeringsovereenkomst, het pensioenreglement, de opgaven op grond van de artikelen 48 tot en met 57 en in de overige informatieverstrekking door de pensioenuitvoerder een voorwaardelijkheidsverklaring is opgenomen. 
-4. Bij regeling van Onze Minister worden regels gesteld over de inhoud van de voorwaardelijkheidsverklaring. 
+4. Bij regeling van Onze Minister kunnen regels worden gesteld over de inhoud van de voorwaardelijkheidsverklaring. 
 
 ### Artikel 104 
 
@@ -2608,7 +2609,9 @@ Wanneer de toezichthouder blijkt dat een pensioeninstelling uit een andere lidst
 ####Geheimhoudingsplicht
 
 1. Het is een ieder die uit hoofde van de toepassing van deze wet of van ingevolge deze wet genomen besluiten enige taak vervult of heeft vervuld, verboden van vertrouwelijke gegevens of inlichtingen die ingevolge deze wet dan wel ingevolge afdeling 5.2 van de Algemene wet bestuursrecht zijn verstrekt of verkregen of van een persoon of instantie als bedoeld in artikel 197, derde lid, onderscheidenlijk 199, eerste lid, zijn ontvangen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitvoering van zijn taak of door deze wet wordt geëist. 
-2. In afwijking van het eerste lid kan de toezichthouder met gebruikmaking van vertrouwelijke gegevens of inlichtingen verkregen bij de uitvoering van zijn taak op grond van deze wet, mededelingen doen, indien deze niet kunnen worden herleid tot afzonderlijke personen. 
+2. In afwijking van het eerste lid kan de toezichthouder met gebruikmaking van vertrouwelijke gegevens of inlichtingen verkregen bij de uitvoering van zijn taak op grond van deze wet, mededelingen doen, indien deze niet kunnen worden herleid tot afzonderlijke personen.  
+3.  In afwijking van het eerste lid kan de toezichthouder met gebruikmaking van vertrouwelijke gegevens of inlichtingen verkregen bij de uitvoering van zijn taak op grond van deze wet, vergelijkbare, niet geaggregeerde statistische gegevens van beroepspensioenfondsen publiceren, teneinde inzicht te geven in de financiële situatie van deze beroepspensioenfondsen.   
+4.  Bij algemene maatregel van bestuur worden nadere regels gesteld over de gegevens die door de toezichthouder gepubliceerd kunnen worden, over de procedure bij publicatie en de te hanteren termijnen voorafgaand daaraan. 
 
 ### Artikel  199  
 
@@ -2827,8 +2830,9 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 5.  Indien een beroepspensioenfonds voor de datum van inwerkingtreding van artikel II, onderdeel E, van de Verzamelwet pensioenen 2012 is overgegaan tot verzekering bij een verzekeraar op basis van een kapitaalcontract als bedoeld in artikel 143a geldt het verbod tot verzekering op basis van een kapitaalcontract, bedoeld in artikel 143a, na afloop van het contract of een verlenging daarvan doch uiterlijk vijf jaar na het tijdstip van inwerkingtreding van artikel II, onderdeel E, van de Verzamelwet pensioenen 2012.  
 6.  De personen die op het tijdstip van inwerkingtreding van artikel VI van de Wet versterking bestuur pensioenfondsen deel uitmaken van de raad van toezicht van een beroepspensioenfonds, worden tot het einde van hun op dat tijdstip lopende benoemingstermijn, doch uiterlijk tot 1 januari 2017, geacht geschikt te zijn als bedoeld in artikel 110, derde lid, en, vanaf het tijdstip van inwerkingtreding van artikel II, onderdeel C, van de Wet versterking bestuur pensioenfondsen, artikel 110c, eerste lid, en betrouwbaar als bedoeld in artikel 110, vijfde lid, en vanaf het tijdstip van inwerkingtreding van artikel II, onderdeel C, van de Wet versterking bestuur pensioenfondsen, artikel 110c, derde lid, zolang niet een wijziging in de relevante feiten, omstandigheden of antecedenten een redelijke aanleiding geeft tot een beoordeling van die geschiktheid of betrouwbaarheid.   
 7.  Indien een persoon die het beleid van een beroepspensioenfonds bepaalt of mede bepaalt voorafgaand aan het tijdstip van inwerkingtreding van artikel VI van de Wet versterking bestuur pensioenfondsen deskundig is in verband met de uitoefening van het bedrijf van het beroepspensioenfonds wordt die persoon vanaf dat tijdstip geacht geschikt te zijn als bedoeld in artikel 110, derde lid, en vanaf het tijdstip van inwerkingtreding van artikel II, onderdeel C, van de Wet versterking bestuur pensioenfondsen, artikel 110c, eerste lid, zolang niet een wijziging in de relevante feiten en omstandigheden een redelijke aanleiding geeft tot een beoordeling of herbeoordeling van die geschiktheid.  
-8.  Een beroepspensioenfonds dat in het eerste jaar na het tijdstip van inwerkingtreding van artikel II, onderdeel N, van de Wet aanpassing financieel toetsingskader niet voldoet aan de bij of krachtens artikel 127 gestelde eisen, dient een herstelplan in op grond van artikel 133, waarbij het beroepspensioenfonds, in afwijking van artikel 133, tweede lid, uitwerkt hoe het binnen 12 jaar zal voldoen aan artikel 127. Een beroepspensioenfonds dat in het tweede jaar na het tijdstip van inwerkingtreding van artikel II, onderdeel N, van de Wet aanpassing financieel toetsingskader niet voldoet aan de bij of krachtens artikel 127 gestelde eisen, dient een herstelplan in op grond van artikel 133 of artikel 134, waarbij het beroepspensioenfonds, in afwijking van artikel 133, tweede lid, of artikel 134, tweede lid, uitwerkt hoe het binnen 11 jaar zal voldoen aan artikel 132. Indien een beroepspensioenfonds een herstelplan heeft vastgesteld met een termijn van 12 of 11 jaar is artikel 134, tweede lid, voor zover het betreft het hanteren van een gelijke termijn voor herstelplannen, van toepassing vanaf het vierde jaar na het tijdstip van inwerkingtreding van artikel II, onderdeel N, van de Wet aanpassing financieel toetsingskader.   
+8.  Een beroepspensioenfonds dat in het eerste jaar na het tijdstip van inwerkingtreding van artikel II, onderdeel N, van de Wet aanpassing financieel toetsingskader niet voldoet aan de bij of krachtens artikel 127 gestelde eisen, dient een herstelplan in op grond van artikel 133, waarbij het beroepspensioenfonds, in afwijking van artikel 133, tweede lid, uitwerkt hoe het binnen 12 jaar zal voldoen aan artikel 127. Een beroepspensioenfonds dat in het tweede jaar na het tijdstip van inwerkingtreding van artikel II, onderdeel N, van de Wet aanpassing financieel toetsingskader niet voldoet aan de bij of krachtens artikel 127 gestelde eisen, dient een herstelplan in op grond van artikel 133 of artikel 134, waarbij het beroepspensioenfonds, in afwijking van artikel 133, tweede lid, of artikel 134, tweede lid, uitwerkt hoe het binnen 11 jaar zal voldoen aan artikel 127. Indien een beroepspensioenfonds een herstelplan heeft vastgesteld met een termijn van 12 of 11 jaar is artikel 134, tweede lid, voor zover het betreft het hanteren van een gelijke termijn voor herstelplannen, van toepassing vanaf het vierde jaar na het tijdstip van inwerkingtreding van artikel II, onderdeel N, van de Wet aanpassing financieel toetsingskader.   
 9.  Artikel 135 is van toepassing op beleidsdekkingsgraden die zijn vastgesteld vanaf het tijdstip van inwerkingtreding van artikel II, onderdeel P, van de Wet aanpassing financieel toetsingskader. 
+10. Artikel 62 is vanaf een bij koninklijk besluit te bepalen tijdstip van toepassing op pensioengerechtigden die vanaf dat tijdstip pensioengerechtigd geworden zijn.
 
 ### Artikel  215  
 

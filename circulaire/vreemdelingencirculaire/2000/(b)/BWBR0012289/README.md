@@ -1941,7 +1941,7 @@ De IND verleent de verblijfsvergunning op grond van artikel 3.42, eerste lid, Vb
 
 ### *Looncriterium* 
 
-De IND willigt de aanvraag voor wijziging van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘zoeken en verrichten van arbeid al dan niet in loondienst’ naar een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘arbeid als kennismigrant’ in als de hoogopgeleide voldoet aan het looncriterium voor afgestudeerde buitenlandse studenten, bedoeld in artikel 1d, eerste lid, onder a, sub 2, Buwav en als aan alle overige voorwaarden wordt voldaan. De IND wijst de aanvraag voor verlenging van de geldigheidsduur van de verblijfsvergunning regulier bepaalde tijd onder de beperking ‘arbeid als kennismigrant’ niet af op grond van artikel 3.30a, eerste lid, Vb omdat niet aan het looncriterium als bedoeld in artikel 1d, eerste lid, Buwav wordt voldaan als aan de volgende voorwaarden wordt voldaan: 
+Voor de hoogte van het looncriterium wordt verwezen naar artikel 1d, eerste en derde lid, Buwav. De IND willigt de aanvraag voor wijziging van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘zoeken en verrichten van arbeid al dan niet in loondienst’ naar een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘arbeid als kennismigrant’ in als de hoogopgeleide voldoet aan het looncriterium voor afgestudeerde buitenlandse studenten, bedoeld in artikel 1d, eerste lid, onder a, sub 2, Buwav en als aan alle overige voorwaarden wordt voldaan. De IND wijst de aanvraag voor verlenging van de geldigheidsduur van de verblijfsvergunning regulier bepaalde tijd onder de beperking ‘arbeid als kennismigrant’ niet af op grond van artikel 3.30a, eerste lid, Vb omdat niet aan het looncriterium als bedoeld in artikel 1d, eerste lid, Buwav wordt voldaan als aan de volgende voorwaarden wordt voldaan: 
 
 * voor de vreemdeling gold bij de eerste verlening van de verblijfsvergunning als kennismigrant het looncriterium voor afgestudeerde buitenlandse studenten, bedoeld in artikel 1d, eerste lid, onder a, sub 2, Buwav; en  
 
@@ -1955,13 +1955,11 @@ De IND willigt de aanvraag voor wijziging van een verblijfsvergunning regulier v
 De IND wijst de aanvraag voor een verblijfsvergunning onder de beperking arbeid als kennismigrant af of trekt deze achteraf in als het loon naar het oordeel van de Minister van Sociale Zaken en Werkgelegenheid sterk afwijkt van het loon dat voor te verrichten werkzaamheden in overeenkomstige functies gebruikelijk is. De Minister van Sociale Zaken en Werkgelegenheid beoordeelt of er sprake van is van een marktconform loon en beoordeelt tevens of er daarmee in het concrete geval sprake is van een sterk afwijkend loon. 
 ### *Bestanddelen bruto maandloon kennismigranten* 
 
-De IND telt bij het bruto maandloon mee: 
+De IND telt bij het bruto maandloon de onkostenvergoedingen en toeslagen mee, mits deze elke maand giraal worden overgemaakt op een bankrekening die op naam is gesteld van de vreemdeling en contractueel zijn vastgelegd. De IND telt niet mee in het bruto maandloon: 
 
-* Vaste toeslagen zoals de vakantietoeslag en een dertiende maand en;  
+* (de waarde van) in natura uitgekeerd loon;  
 
-* onkostenvergoedingen mits deze elke maand giraal worden overgemaakt op een bankrekening die op naam is gesteld van de vreemdeling;   De IND telt niet mee in het bruto maandloon: 
-
-* (de waarde van) in natura uitgekeerd loon en;  
+* de vakantietoeslag; en  
 
 * de waarde van onzekere, niet vaste, loonbestanddelen als overwerkvergoedingen, fooien en uitkeringen uit fondsen.   
 ### *Registratie BIG* 

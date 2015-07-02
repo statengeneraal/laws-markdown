@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:  
 
-a.Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;
+a.Onze Minister: Onze Minister van Economische Zaken;
 
 b.natuurmonument: terrein of water, dan wel samenstel van terreinen of wateren, dat van algemeen belang is om zijn natuurwetenschappelijke betekenis of zijn natuurschoon;
 
@@ -44,7 +44,7 @@ m.bestaand gebruik: gebruik dat op 31 maart 2010 bekend is, of redelijkerwijs b
 
 n. Natura 2000-gebied: 
 
-1°. gebied dat is aangewezen op grond van artikel 10a, eerste lid,  
+1°. gebied dat door de bevoegde autoriteit van het land waarin het gebied is gelegen is aangewezen als speciale beschermingszone, ter uitvoering van de artikelen 3, tweede lid, onderdeel a, en 4, eerste en tweede lid, van richtlijn 2009/147/EG of de artikelen 3, tweede lid, en 4, vierde lid, van richtlijn 92/43/EEG,  
 
 2°. gebied dat voorlopig is aangewezen als bedoeld in artikel 12, derde lid, of  
 
@@ -52,7 +52,13 @@ n. Natura 2000-gebied:
 
 o. omgevingsvergunning: omgevingsvergunning als bedoeld in artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht; 
 
-p. exclusieve economische zone: exclusieve economische zone van Nederland als bedoeld in de Rijkswet instelling exclusieve economische zone.  
+p. exclusieve economische zone: exclusieve economische zone van Nederland als bedoeld in de Rijkswet instelling exclusieve economische zone; 
+
+q. programma: programma als bedoeld in artikel 19kg, eerste lid;  
+
+r. ontwikkelingsruimte: stikstofdepositie die in het kader van het programma met betrekking tot een daarin opgenomen Natura 2000-gebied kan worden toegedeeld in of gereserveerd voor besluiten als bedoeld in artikel 19km, eerste lid;  
+
+s. voor stikstof gevoelige habitats in een Natura 2000-gebied: voor stikstof gevoelige natuurlijke habitats of habitats van voor stikstof gevoelige soorten in een Natura 2000-gebied waarvoor een instandhoudingsdoelstelling geldt.  
 
 ### Artikel  1a  
 
@@ -64,14 +70,16 @@ Deze wet is mede van toepassing in de exclusieve economische zone, met uitzonder
 2.  Gedeputeerde staten wijzen landschapsgezichten, die mede zijn gelegen in een andere provincie, niet aan als beschermd landschapsgezicht dan in overeenstemming met gedeputeerde staten van die andere provincies.    
 3.  Gedeputeerde staten beslissen niet op een aanvraag van een vergunning als bedoeld in artikel 16 dan wel stellen een beheerplan als bedoeld in artikel 17 niet vast, dan in overeenstemming met gedeputeerde staten van de andere provincies waarin het beschermd natuurmonument mede is gelegen.    
 4. Gedeputeerde staten stellen een beheerplan als bedoeld in artikel 19a niet vast dan in overeenstemming met gedeputeerde staten van de andere provincies waarin het Natura 2000-gebied mede is gelegen. 
-5. Gedeputeerde staten beslissen niet op een aanvraag voor een vergunning als bedoeld in artikel 19d, eerste lid, dan in overeenstemming met gedeputeerde staten van de andere provincies waarin het Natura 2000-gebied mede is gelegen voorzover die vergunning betrekking heeft op delen van het gebied, gelegen in die andere provincies.
+5. Gedeputeerde staten beslissen niet op een aanvraag voor een vergunning als bedoeld in artikel 19d, eerste lid, dan in overeenstemming met gedeputeerde staten van de andere provincies waarin Natura 2000-gebieden, of delen daarvan, zijn gelegen waarvoor het project of de andere handeling waarvoor vergunning wordt verleend gevolgen kan hebben. 
+6.  Bij een besluit op een aanvraag voor een vergunning als bedoeld in artikel 19d, eerste lid, betrekken gedeputeerde staten tevens de gevolgen die het project of de andere handeling kan hebben voor een in een andere provincie of een buiten Nederland gelegen Natura 2000-gebied. 
 
 ### Artikel  2a  
 
 1.  Indien een aanvraag van een vergunning als bedoeld in artikel 16, eerste lid, betrekking heeft op een handeling die hoofdzakelijk gevolgen kan hebben voor een deel van een beschermd natuurmonument dat is gelegen binnen de grenzen van één provincie, beslissen gedeputeerde staten van de provincie waarin dat deel van het beschermd natuurmonument is gelegen over de aanvraag.   
-2.  Indien een aanvraag van een vergunning als bedoeld in artikel 19d, eerste lid, betrekking heeft op een project dat of andere handeling die hoofdzakelijk gevolgen kan hebben voor een deel van een Natura 2000-gebied dat is gelegen binnen de grenzen van één provincie, beslissen gedeputeerde staten van de provincie waarin dat deel van het Natura 2000-gebied is gelegen over de aanvraag.   
+2.  Indien een aanvraag van een vergunning als bedoeld in artikel 19d, eerste lid, betrekking heeft op een project dat of andere handeling die hoofdzakelijk gevolgen kan hebben voor een Natura 2000-gebied of gedeelte daarvan in één van de provincies, beslissen gedeputeerde staten van die provincie over de aanvraag. Artikel 2, zesde lid, is van overeenkomstige toepassing.   
 3.  Indien op het moment van het indienen van een aanvraag als bedoeld in artikel 16, eerste lid, of artikel 19d, eerste lid, redelijkerwijs niet of nog niet kan worden vastgesteld in welke provincie hoofdzakelijk de gevolgen zullen plaatsvinden van een handeling, onderscheidenlijk een project of andere handeling, nemen gedeputeerde staten van de provincie waarin het beschermd natuurmonument of het Natura 2000-gebied geheel of grotendeels is gelegen de aanvraag in behandeling en beslissen die gedeputeerde staten op de aanvraag.   
-4.  Artikel 2, derde onderscheidenlijk vijfde lid, is van overeenkomstige toepassing op de voorgaande leden. 
+4.  Artikel 2, derde onderscheidenlijk vijfde lid, is van overeenkomstige toepassing op de besluiten, bedoeld in het eerste, tweede en derde lid.  
+5.  Indien een aanvraag van een vergunning als bedoeld in artikel 19d, eerste lid, betrekking heeft op een project dat of andere handeling die uitsluitend gevolgen kan hebben voor een Natura 2000-gebied dat buiten Nederland is gelegen, beslissen gedeputeerde staten van de provincie waarin het project of de andere handeling wordt gerealiseerd, onderscheidenlijk verricht, op de aanvraag. 
 
 ### Hoofdstuk  II  
 
@@ -312,12 +320,12 @@ b. gedeputeerde staten, in andere gevallen dan die, bedoeld in onderdeel a.
 
 ### Artikel 19d 
 
-1. Het is verboden zonder vergunning, of in strijd met aan die vergunning verbonden voorschriften of beperkingen, van gedeputeerde staten of, ten aanzien van projecten of andere handelingen als bedoeld in het vierde lid, van Onze Minister, projecten of andere handelingen te realiseren onderscheidenlijk te verrichten die gelet op de instandhoudingsdoelstelling, met uitzondering van de doelstellingen, bedoeld in artikel 10a, derde lid, de kwaliteit van de natuurlijke habitats en de habitats van soorten in een Natura 2000-gebied kunnen verslechteren of een significant verstorend effect kunnen hebben op de soorten waarvoor het gebied is aangewezen. Zodanige projecten of andere handelingen zijn in ieder geval projecten of handelingen die de natuurlijke kenmerken van het desbetreffende gebied kunnen aantasten. 
+1. Het is verboden zonder vergunning, of in strijd met aan die vergunning verbonden voorschriften of beperkingen, van gedeputeerde staten of, ten aanzien van projecten of andere handelingen als bedoeld in het vijfde lid, van Onze Minister, projecten of andere handelingen te realiseren onderscheidenlijk te verrichten die gelet op de instandhoudingsdoelstelling, met uitzondering van de doelstellingen, bedoeld in artikel 10a, derde lid, de kwaliteit van de natuurlijke habitats en de habitats van soorten in een Natura 2000-gebied kunnen verslechteren of een significant verstorend effect kunnen hebben op de soorten waarvoor het gebied is aangewezen. Zodanige projecten of andere handelingen zijn in ieder geval projecten of handelingen die de natuurlijke kenmerken van het desbetreffende gebied kunnen aantasten. 
 2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op het realiseren van projecten of het verrichten van andere handelingen, waaronder bestaand gebruik, alsmede de wijzigingen daarvan, overeenkomstig een beheerplan als bedoeld in de artikelen 19a of 19b. 
 3.  Het verbod, bedoeld in het eerste lid, is niet van toepassing op bestaand gebruik, behoudens indien dat gebruik een project is dat niet direct verband houdt met of nodig is voor het beheer van een Natura 2000-gebied maar dat afzonderlijk of in combinatie met andere projecten of plannen significante gevolgen kan hebben voor het desbetreffende Natura 2000-gebied.  
 4.  Het verbod, bedoeld in het eerste lid, is niet van toepassing op het realiseren van projecten of het verrichten van andere handelingen die zijn toegestaan krachtens een omgevingsvergunning die met toepassing van hoofdstuk IX is verleend.  
 5. Bij algemene maatregel van bestuur kunnen projecten of andere handelingen of categorieën van gebieden worden aangewezen waarvoor een vergunning als bedoeld in het eerste lid wordt verleend door Onze Minister. 
-6. De voordracht voor een krachtens het vierde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+6. De voordracht voor een krachtens het vijfde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
 ###Artikel 19da 
 
@@ -419,7 +427,7 @@ b. met het op grond van artikel 19a of artikel 19b voor dat gebied vastgestelde 
 
 ### Artikel  19kb  
 
-1.  Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop wordt vastgesteld of projecten, andere handelingen of plannen een verslechterend of significant verstorend effect kunnen hebben als bedoeld in artikel 19d, eerste lid, of artikel 19j, eerste lid, alsmede over de wijze waarop wordt bepaald of projecten of plannen significante gevolgen kunnen hebben als bedoeld in artikel 19f, eerste lid, of artikel 19j, tweede lid.   
+1.  Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop wordt vastgesteld of projecten, andere handelingen of plannen een verslechterend of significant verstorend effect kunnen hebben als bedoeld in artikel 19d, eerste lid, of artikel 19j, eerste lid, alsmede over de wijze waarop wordt bepaald of projecten of plannen significante gevolgen kunnen hebben als bedoeld in artikel 19a, tiende lid, artikel 19f, eerste lid, of artikel 19j, tweede lid.   
 2.  De regels, bedoeld in het eerste lid, kunnen onder meer betrekking hebben op rekenmodellen, onderzoeksmethoden of meetmethoden waarmee effecten of gevolgen als bedoeld in het eerste lid kunnen worden bepaald.  
 
 ### Artikel  19kc  
@@ -437,32 +445,154 @@ c. de wijze waarop de gegevens worden verstrekt.
 
 ### §  2a  
 
-####Nadere regels met betrekking tot stikstofdepositie
+####Programmatische aanpak stikstof
 
-### §  2a.1  
+### Artikel  19kg  
 
-####Regels met betrekking tot de vergunningplicht en de aanschrijvingsbevoegdheid
+1.  Onze Minister en Onze Minister van Infrastructuur en Milieu stellen een programma vast voor de daarin opgenomen Natura 2000-gebieden ter vermindering van de stikstofdepositie in die gebieden en ter verwezenlijking van de instandhoudingsdoelstellingen voor de voor stikstof gevoelige habitats in die gebieden binnen afzienbare termijn.   
+2.  Het programma beoogt een ambitieuze en realistische vermindering van de stikstofdepositie, afkomstig van in Nederland aanwezige bronnen.   
+3.  Het programma wordt vastgesteld in overeenstemming met de bestuursorganen die voor de daarin opgenomen Natura 2000-gebieden het beheerplan, bedoeld in artikel 19a of 19b, vaststellen en de ingevolge artikel 2, vierde lid, medebetrokken bestuursorganen.   
+4.  Na de vaststelling van het programma kunnen Onze Minister en Onze Minister van Infrastructuur en Milieu daarin een Natura 2000-gebied opnemen in overeenstemming met de bestuursorganen die voor dat gebied het beheerplan, bedoeld in artikel 19a of 19b, vaststellen en de ingevolge artikel 2, vierde lid, medebetrokken bestuursorganen.   
+5.  Het programma wordt ten minste eenmaal in de zes jaar vastgesteld en geldt voor een tijdvak van zes jaar.   
+6.  Op de voorbereiding van de vaststelling of wijziging van een programma, uitgezonderd een wijziging als bedoeld in artikel 19ki, eerste lid, is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
+7.  Onverminderd artikel 3:42, eerste lid, van de Algemene wet bestuursrecht maakt Onze Minister het programma of een wijziging van het programma als bedoeld in het vierde lid of in artikel 19ki, eerste lid, op elektronische wijze bekend.  
 
-### Artikel  19kd  
+### Artikel  19kh  
 
-1.  Onder significante gevolgen als bedoeld in de artikelen 19d, eerste lid, en 19j, tweede lid, worden niet verstaan de gevolgen van een handeling, onderscheidenlijk de in een plan voorziene activiteiten, door het veroorzaken van stikstofdepositie op voor stikstofgevoelige habitats in een Natura 2000-gebied in de volgende gevallen: 
+1.  In een programma als bedoeld in artikel 19kg worden voor de betrokken Natura 2000-gebieden in elk geval beschreven of genoemd: 
 
-a. de handeling is gebruik dat op de referentiedatum werd verricht, onderscheidenlijk het plan was van toepassing op de referentiedatum en is sedertdien niet of niet in betekenende mate gewijzigd, en heeft sedertdien per saldo geen toename van stikstofdepositie op de voor stikstof gevoelige habitats in een Natura 2000-gebied veroorzaakt;  
+a. de omvang van de stikstofdepositie aan het begin van het tijdvak van het programma, onderscheiden naar: 
 
-b. de handeling is een activiteit die na de referentiedatum is begonnen, of een gebruik dat na de referentiedatum in betekenende mate is gewijzigd, onderscheidenlijk het plan is van toepassing geworden na de referentiedatum, of is nadien in betekenende mate gewijzigd, waarbij is verzekerd dat, in samenhang met voor die activiteit getroffen maatregelen, de stikstofdepositie op de voor stikstof gevoelige habitats in een Natura 2000-gebied als gevolg van die activiteit of dat gebruik of dat plan, per saldo niet is toegenomen of zal toenemen.     
-2.  Met betrekking tot de bepaling van de door handelingen en maatregelen als bedoeld in het eerste lid veroorzaakte of te veroorzaken stikstofdepositie kunnen bij ministeriële regeling regels worden gesteld. Daarbij kan onder meer worden geregeld dat hiervoor bij of krachtens andere wetten bijgehouden of aan een bevoegd gezag overgelegde gegevens kunnen worden gebruikt.   
-3.  Onder «referentiedatum» als bedoeld in het eerste lid wordt verstaan: 
+1°. depositie, veroorzaakt door factoren in de gebieden;  
 
-a. voor gebieden ter uitvoering van richtlijn 92/43/EEG: 
+2°. depositie, veroorzaakt door factoren buiten de gebieden;    
 
-1°. 7 december 2004, of  
+b. de verwachte autonome ontwikkelingen ten aanzien van de stikstofemissie door de factoren, bedoeld in onderdeel a, en de effecten daarvan op de omvang van stikstofdepositie in de gebieden;  
 
-2°. de datum waarop het desbetreffende gebied door de Europese Commissie tot een gebied van communautair belang is verklaard ter uitvoering van artikel 4, tweede lid, van richtlijn 92/43/EEG, voor zover die verklaring plaatsvindt na 7 december 2004;    
+c. de getroffen of te treffen maatregelen die bijdragen aan een vermindering van de stikstofdepositie, of die op een andere wijze bijdragen aan het bereiken van een goede staat van instandhouding van de voor stikstof gevoelige habitats, en de verwachte effecten van die maatregelen op de omvang van de depositie, onderscheidenlijk het bereiken van een goede staat van instandhouding in de gebieden;  
 
-b. voor gebieden ter uitvoering van richtlijn 2009/147/EG de datum waarop het desbetreffende gebied is aangewezen ter uitvoering van richtlijn 2009/147/EG.     
-4.  Onder «voor stikstof gevoelige habitats in een Natura 2000-gebied» wordt voor de toepassing van dit artikel en de artikelen 19ke en 19kf verstaan: voor stikstof gevoelige natuurlijke habitats en habitats van soorten in een Natura 2000-gebied ten aanzien waarvan op grond van artikel 6, tweede lid, van richtlijn 92/43/EEG een verplichting geldt tot het treffen van instandhoudingsmaatregelen.  
+d. de sociaal-economische evaluatie en weging van haalbaarheid en betaalbaarheid van maatregelen als bedoeld in de onderdelen c en g;  
 
-### Artikel  19ke  
+e. de doelstellingen ten aanzien van de omvang van de stikstofdepositie, al dan niet met tussendoelstellingen, of de indicatoren waaruit kan worden afgeleid of een doelstelling al dan niet is behaald welke noodzakelijk zijn met het oog op het bereiken van een gunstige staat van instandhouding;  
+
+f. de wijze waarop en frequentie waarmee de rapportage plaatsvindt over de voortgang en uitvoering van de getroffen of te treffen in het programma beschreven en genoemde maatregelen en de effecten daarvan op de depositie;  
+
+g. de getroffen of te treffen maatregelen ter verwezenlijking van de instandhoudingsdoelstellingen voor de voor stikstof gevoelige habitats in de Natura 2000-gebieden die in het programma zijn opgenomen;  
+
+h. de resultaten van een beoordeling voor elk Natura 2000-gebied dat in het programma is opgenomen, in hoeverre de maatregelen, bedoeld in de onderdelen c en g, rekening houdend met de verwachte algemene ontwikkeling van de stikstofdepositie, in het bijzonder het totaal van de stikstofdeposities, bedoeld in het zevende en negende lid, en de ontwikkelingsruimte: 
+
+1°. bijdragen aan de verwezenlijking van de instandhoudingsdoelstellingen voor de voor stikstof gevoelige habitats in het gebied;  
+
+2°. voorkomen dat verslechtering optreedt van de kwaliteit van de natuurlijke habitats en de habitats van soorten in het gebied;  
+
+3°. voorkomen dat storende factoren optreden voor de soorten waarvoor het gebied is aangewezen voor zover die factoren, gelet op de instandhoudingsdoelstellingen van het gebied, een significant effect kunnen hebben, en  
+
+4°. de verwezenlijking van de instandhoudingsdoelstellingen van het gebied die geen betrekking hebben op voor stikstof gevoelige habitats, niet in gevaar brengen.      
+2.  In het programma kan onderscheid worden gemaakt tussen de depositie van ammoniak en andere stikstofverbindingen.   
+3.  Tot de maatregelen, bedoeld in het eerste lid, onderdelen c en g, behoren in elk geval: 
+
+a. maatregelen van bestuursorganen van het Rijk;  
+
+b. maatregelen voorzien in bindende besluiten van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen;  
+
+c. gebiedsgerichte of effectgerichte maatregelen van bestuursorganen van het Rijk, provincies, gemeenten, of waterschappen.     
+4.  In het programma worden de uitgangspunten opgenomen voor de bepaling van de ontwikkelingsruimte en voor de toedeling en reservering van ontwikkelingsruimte. In het programma wordt de op het tijdstip van vaststelling van het programma beschikbare ontwikkelingsruimte vermeld.   
+5.  Bij ministeriële regeling kan, overeenkomstig de uitgangspunten die in het programma zijn opgenomen op grond van het vierde lid, worden bepaald op welke wijze voor de Natura 2000-gebieden die in het programma zijn opgenomen de ontwikkelingsruimte wordt bepaald en ontwikkelingsruimte wordt toegedeeld en gereserveerd.  
+6.  In het programma kunnen projecten worden beschreven of genoemd waarvan op grond van een passende beoordeling de zekerheid is verkregen dat, mede in het licht van de ontwikkelingsruimte die ontstaat als gevolg van de maatregelen, bedoeld in het eerste lid, onderdelen c en g, en de autonome ontwikkelingen, bedoeld in het eerste lid, onderdeel b, de natuurlijke kenmerken van Natura 2000-gebieden niet zullen worden aangetast. Het verbod, bedoeld in artikel 19d, eerste lid, is niet van toepassing op projecten als bedoeld in de eerste volzin.   
+7.  Het verbod, bedoeld in artikel 19d, eerste lid, is met betrekking tot een Natura 2000-gebied niet van toepassing op een project of andere handeling dat voldoet aan elk van de volgende voorwaarden: 
+
+a. het project of de handeling: 
+
+1°. veroorzaakt een stikstofdepositie op voor stikstof gevoelige habitats in het Natura 2000-gebied die afzonderlijk en, ingeval het project of de handeling betrekking heeft op een inrichting als bedoeld in artikel 1.1, derde lid, van de Wet milieubeheer, in cumulatie met andere projecten of handelingen met betrekking tot dezelfde inrichting in de periode waarvoor het programma geldt, niet een waarde die is vastgesteld bij algemene maatregel van bestuur overschrijdt, of,  
+
+2°. behoort tot een bij algemene maatregel van bestuur aangewezen categorie van projecten of handelingen en wordt gerealiseerd, onderscheidenlijk verricht op een grotere afstand gerekend tot het Natura 2000-gebied dan voor de desbetreffende categorie van projecten of handelingen bij die maatregel is vastgesteld;    
+
+b. het project of de handeling kan voor het desbetreffende Natura 2000-gebied geen andere gevolgen veroorzaken dan stikstofdepositie die, gelet op de instandhoudingsdoelstellingen, de kwaliteit van de natuurlijke habitats en de habitats van soorten in een Natura 2000-gebied kunnen verslechteren of een significant verstorend effect kunnen hebben op de soorten waarvoor het gebied is aangewezen.     
+8.  De waarde, onderscheidenlijk de afstand, bedoeld in het zevende lid, onderdeel a, kan voor de onderscheiden Natura 2000-gebieden verschillend worden vastgesteld. De waarde, onderscheidenlijk de afstand wordt zodanig vastgesteld dat: 
+
+1°. geen afbreuk wordt gedaan aan het oogmerk, bedoeld in artikel 19kg, tweede lid, en  
+
+2°. op voorhand op grond van objectieve gegevens kan worden uitgesloten dat projecten of andere handelingen als bedoeld in het zevende lid afzonderlijk of in combinatie met andere plannen of projecten de natuurlijke kenmerken van een Natura 2000-gebied zullen aantasten.     
+9.  Bij het nemen van een besluit als bedoeld in artikel 19km, eerste lid, betrekt het bevoegd gezag niet de stikstofdepositie die het project of de andere handeling veroorzaakt op voor stikstof gevoelige habitats in een Natura 2000-gebied, indien de stikstofdepositie de in het zevende lid, onderdeel a, bedoelde waarde niet overschrijdt, onderscheidenlijk indien het project of de handeling wordt gerealiseerd, onderscheidenlijk verricht op een grotere afstand dan de op grond van het zevende lid, onderdeel a, vastgestelde afstand.   
+10.  De voordracht voor een krachtens het zevende lid, onderdeel a, vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. 
+
+### Artikel  19kha  
+
+In het programma wordt, ter uitvoering van artikel 19kh, eerste lid, onderdeel f, in elk geval beschreven dat drie jaar nadat het programma is vastgesteld, Onze Minister en Onze Minister van Infrastructuur en Milieu, na overleg met de bestuursorganen, bedoeld in artikel 19kg, derde lid, de ontwikkelingsruimte inzichtelijk maken die: 
+
+a. de tweede helft van het programma beschikbaar zal zijn;  
+
+b. naar verwachting in het daarop volgende programma beschikbaar zal zijn, in het bijzonder in de eerste helft van het tijdvak van dat programma.   
+
+### Artikel  19ki  
+
+1.  Onze Minister en Onze Minister van Infrastructuur en Milieu kunnen in het programma maatregelen als bedoeld in artikel 19kh, eerste lid, onderdeel c of g, wijzigen of door andere maatregelen vervangen, dan wel maatregelen toevoegen. Zij stellen voor de Natura 2000-gebieden waarop de maatregelen betrekking hebben in het programma vast wat daarvan de gevolgen zijn voor de ontwikkelingsruimte en voor de beoordeling, bedoeld in artikel 19kh, eerste lid, onderdeel h. Ingeval het wijzigen, vervangen of toevoegen van maatregelen leidt tot minder ontwikkelingsruimte met betrekking tot een Natura 2000-gebied, geschiedt dit in overeenstemming met de bestuursorganen die het beheerplan, bedoeld in artikel 19a of 19b, voor dat gebied vaststellen.   
+2.  De Minister van Defensie of bestuursorganen van provincies, gemeenten of waterschappen kunnen in het programma opgenomen maatregelen als bedoeld in artikel 19kh, eerste lid, onderdeel c of g, voor de uitvoering waarvan zij zorg dragen, gewijzigd uitvoeren of vervangen door andere maatregelen, indien de bestuursorganen die voor het desbetreffende gebied het beheerplan, bedoeld in artikel 19a of 19b, vaststellen, daarmee instemmen, en dit niet leidt tot minder ontwikkelingsruimte met betrekking tot enig Natura 2000-gebied. 
+
+### Artikel  19kj  
+
+De bestuursorganen die het aangaat dragen zorg voor een tijdige uitvoering van de in het programma opgenomen maatregelen, bedoeld in artikel 19kh, eerste lid, onderdelen c en g. 
+
+### Artikel  19kk  
+
+Bij ministeriële regeling kunnen nadere regels worden gesteld over de inpassing van onderdelen van het programma, bedoeld in artikel 19kg, die betrekking hebben op, of van belang zijn voor een in het programma, bedoeld in artikel 19kg, eerste lid, opgenomen Natura 2000-gebied, in het desbetreffende beheerplan. 
+
+### Artikel  19kl  
+
+1.  Onze Minister en Onze Minister van Infrastructuur en Milieu stellen uiterlijk vier maanden na inwerkingtreding van de Crisis- en herstelwet een voorlopig programma vast ter vermindering van de stikstofdepositie.  
+2.  In het voorlopige programma, bedoeld in het eerste lid, worden in elk geval beschreven of genoemd de maatregelen en effecten, bedoeld in artikel 19kh, eerste lid, onderdeel c, in samenhang met het derde lid, onderdeel a.   
+3.  Het voorlopige programma vervalt op het moment dat een eerste programma als bedoeld in artikel 19kg, eerste lid, wordt vastgesteld.   
+4.  De artikelen 19kh, eerste lid, onderdeel f, 19ki en 19kj zijn van overeenkomstige toepassing.  
+
+### Artikel  19km  
+
+1.  De ontwikkelingsruimte voor een in het programma opgenomen Natura 2000-gebied, kan, met uitzondering van de ruimte die is toegedeeld aan projecten als bedoeld in artikel 19kh, zesde lid, overeenkomstig de uitgangspunten, bedoeld in artikel 19kh, vierde lid, door het bestuursorgaan dat bevoegd is tot het nemen van het desbetreffende besluit, worden toegedeeld in: 
+
+a. een beheerplan als bedoeld in artikel 19a, voor zover daarin een project of andere handeling is opgenomen als bedoeld in artikel 19d, tweede lid;  
+
+b. een vergunning als bedoeld in artikel 19d, eerste lid;  
+
+c. een bestemmingsplan als bedoeld in artikel 19db, eerste lid;  
+
+d. een omgevingsvergunning waarop hoofdstuk IX van toepassing is;  
+
+e. een tracébesluit waarop artikel 13, zevende lid, van de Tracéwet van toepassing is;  
+
+f. een wegaanpassingsbesluit waarop artikel 9, vierde lid, van de Spoedwet wegverbreding van toepassing is, of  
+
+g. een ander besluit dat bij ministeriële regeling is aangewezen.     
+2.  Bij het nemen van een besluit als bedoeld in het eerste lid neemt het bevoegd gezag de reserveringen in acht, die krachtens artikel 19kn, eerste lid, zijn gedaan. Daarbij draagt het bevoegd gezag er zorg voor dat in de eerste helft van het tijdvak van het programma voldoende ontwikkelingsruimte beschikbaar blijft om, met inachtneming van artikel 19kn, derde lid, en het bepaalde krachtens artikel 19kn, vierde lid, te worden toegedeeld in besluiten waarvoor krachtens artikel 19kn, eerste lid, ontwikkelingsruimte is gereserveerd.   
+3.  Voor een project dat of een andere handeling die betrekking heeft op een inrichting als bedoeld in artikel 1.1, derde lid, van de Wet milieubeheer en stikstofdepositie veroorzaakt op een in het programma opgenomen Natura 2000-gebied wordt een vergunning als bedoeld in artikel 19d, eerste lid, niet verleend op grond van het feit dat onmiddellijk in verband met dit project of deze andere handeling een afname van de stikstofdepositie plaatsvindt als gevolg van de beëindiging of beperking van een of meer bepaalde andere handelingen buiten die inrichting.   
+4.  Het derde lid is niet van toepassing op een besluit op een aanvraag om een vergunning als bedoeld in artikel 19d, eerste lid, die is ingediend vóór het tijdstip van inwerkingtreding van het derde lid.   
+5.  Het bestuursorgaan dat bevoegd is tot het nemen van een besluit als bedoeld in het eerste lid waarin ontwikkelingsruime is toegedeeld kan dit besluit intrekken of wijzigen indien het project of de andere handeling waarop dit besluit betrekking heeft, nadat het besluit onherroepelijk is geworden, niet is gerealiseerd, onderscheidenlijk is verricht.  
+
+### Artikel  19kn  
+
+1.  Bij ministeriële regeling kan ter uitvoering van het programma voor daarbij aangegeven Natura 2000-gebieden gedurende het tijdvak van het programma ontwikkelingsruimte worden gereserveerd voor de toedeling daarvan in besluiten als bedoeld in artikel 19km, eerste lid, die betrekking hebben op bij die regeling afzonderlijk of per categorie genoemde of beschreven projecten of andere handelingen, waarbij een voorkeursvolgorde voor de toedeling kan worden aangegeven.   
+2.  Een reservering vervalt voor zover het bevoegd gezag voor het nemen van een besluit waarvoor de ontwikkelingsruimte is gereserveerd, aan Onze Minister heeft verklaard dat het de reservering of een deel daarvan gedurende het tijdvak van het programma niet zal toedelen. Nadat de eerste helft van het tijdvak van het programma is verstreken, gaan de bevoegde gezagen, bedoeld in de eerste volzin, na of er reserveringen zijn ten aanzien waarvan de eerste volzin wordt toegepast.   
+3.  Onze Minister en Onze Minister van Infrastructuur en Milieu stellen in overeenstemming met de bestuursorganen die de beheerplannen voor de in het programma opgenomen Natura 2000-gebieden vaststellen, vast welk deel van de ontwikkelingsruimte in de eerste helft en welk deel in de tweede helft van het tijdvak van het programma wordt toegedeeld en gereserveerd. Deze verdeling is zodanig dat een evenwichtige toedeling en reservering van de ontwikkelingsruimte gedurende het tijdvak van het programma is verzekerd.   
+4.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de toepassing van het derde lid.   
+5.  Als projecten of andere handelingen als bedoeld in het eerste lid kunnen worden genoemd of beschreven projecten of andere handelingen die voldoen aan elk van de volgende voorwaarden: 
+
+a. het project of de andere handeling is aantoonbaar van nationaal of provinciaal maatschappelijk belang;  
+
+b. het is aannemelijk dat voor het project of de andere handeling in het tijdvak, bedoeld in artikel 19kg, vijfde lid, ontwikkelingsruimte wordt toegedeeld in een besluit als bedoeld in artikel 19km, eerste lid.     
+6.  De omvang van de ontwikkelingsruimte die voor projecten en andere handelingen als bedoeld in het eerste lid wordt gereserveerd, is zodanig dat er niet onnodig inbreuk wordt gedaan op de omvang van de ontwikkelingsruimte die resteert voor toedeling aan andere projecten of handelingen dan die bedoeld in het eerste lid.  
+
+### Artikel  19ko  
+
+1.  Een bestuursorgaan dat ontwikkelingsruimte toedeelt in een besluit als bedoeld in artikel 19km, eerste lid, onderdeel a, b, c, e, f of g, draagt tijdig zorg voor een nauwkeurige en volledige registratie van de afschrijving van de toegedeelde ontwikkelingsruimte van de ontwikkelingsruimte die beschikbaar is voor projecten en andere handelingen die stikstofdepositie veroorzaken in de Natura 2000-gebieden waarop het besluit betrekking heeft. Ingeval ontwikkelingsruimte wordt toegedeeld in een besluit als bedoeld in artikel 19km, eerste lid, onderdeel d, draagt het bestuursorgaan, bedoeld in artikel 47b, eerste lid, zorg voor de nauwkeurige en volledige registratie van de afschrijving van de toegedeelde ontwikkelingsruimte.   
+2.  Het bestuursorgaan, bedoeld in het eerste lid, draagt tevens tijdig zorg voor een nauwkeurige en volledige registratie van de bijschrijving van ontwikkelingsruimte die na het intrekken of vervallen van een besluit als bedoeld in artikel 19km, eerste lid, beschikbaar komt voor projecten en andere handelingen die stikstofdepositie veroorzaken in de Natura 2000-gebieden waarop het besluit betrekking had.   
+3.  Het eerste lid is van overeenkomstige toepassing op een reservering van ontwikkelingsruimte op grond van artikel 19kn, eerste lid, met dien verstande dat Onze Minister zorg draagt voor de registratie van een reservering.   
+4.  Indien in een besluit als bedoeld in artikel 19km, eerste lid, ontwikkelingsruimte wordt toegedeeld die is gereserveerd krachtens artikel 19kn, eerste lid, vervalt de reservering en draagt het bestuursorgaan dat zorg draagt voor de registratie, bedoeld in het eerste lid, tevens zorg voor de registratie van het vervallen van de reservering.   
+5.  Bij ministeriële regeling worden regels gesteld ten aanzien van de registratie van afschrijvingen, bijschrijvingen of reserveringen van ontwikkelingsruimte en ten aanzien van het vervallen van reserveringen van ontwikkelingsruimte.  
+
+### Artikel  19koa  
+
+1.  Bij ministeriële regeling kan aan degenen die projecten realiseren of andere handelingen verrichten waarop artikel 19kh, zevende of negende lid, van toepassing is, een verplichting worden opgelegd tot het melden van het project of de andere handeling bij het bij die regeling aan te wijzen bestuursorgaan, indien het project of de andere handeling behoort tot een bij die regeling aangewezen categorie van projecten, onderscheidenlijk andere handelingen.   
+2.  Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop een melding als bedoeld in het eerste lid wordt gedaan en over de bij de melding te verstrekken gegevens.  
+
+### Artikel  19kp  
 
 1.  Het bevoegd gezag draagt er zorg voor dat passende maatregelen worden genomen om verslechtering van de kwaliteit van de voor stikstof gevoelige habitats in een Natura 2000-gebied te voorkomen, en om de in het beheerplan voor het desbetreffende Natura 2000-gebied ten aanzien van die habitats beschreven resultaten, bedoeld in artikel 19a, derde lid, onderdeel a, te verwezenlijken.   
 2.  Ter uitvoering van het eerste lid kan het bevoegd gezag aan degene wiens handelen stikstofdepositie veroorzaakt op voor stikstofgevoelige habitats in een Natura 2000-gebied de verplichting opleggen om binnen een door het bevoegd gezag te stellen termijn: 
@@ -476,92 +606,52 @@ c. informatie over de handeling te verstrekken.
 
 – afzonderlijke gevallen bij beschikking, dan wel  
 
-– categorieën van gevallen bij algemeen verbindend voorschrift, voor zover de verplichting betrekking heeft op inrichtingen als bedoeld in artikel 1.1, eerste lid, van de Wet milieubeheer, of het drijven daarvan, en zij geen betrekking heeft op handelingen waarvoor Onze Minister het bevoegd gezag is.     
-4.  Het bevoegd gezag stelt belanghebbenden in de gelegenheid hun zienswijze uit te brengen over een voornemen tot het opleggen van een verplichting als bedoeld in het derde lid, tenzij de verslechtering het opleggen van een verplichting terstond noodzakelijk maakt.   
+– categorieën van gevallen bij algemeen verbindend voorschrift, voor zover de verplichting betrekking heeft op inrichtingen als bedoeld in artikel 1.1, derde lid, van de Wet milieubeheer, of het drijven daarvan, en zij geen betrekking heeft op handelingen waarvoor Onze Minister het bevoegd gezag is.     
+4.  Het bevoegd gezag stelt belanghebbenden in de gelegenheid hun zienswijze uit te brengen over een voornemen tot het opleggen van een verplichting als bedoeld in het tweede lid, tenzij de verslechtering het opleggen van een verplichting terstond noodzakelijk maakt.   
 5.  Het is verboden in strijd te handelen met een verplichting als bedoeld in het tweede lid.   
-6.  Onder «bevoegd gezag» als bedoeld in het eerste, tweede, derde en vierde lid, wordt verstaan: 
+6.  Onder «bevoegd gezag» als bedoeld in het eerste lid wordt verstaan: 
 
-a. Onze Minister, indien de handeling een krachtens artikel 19d, vierde lid, aangewezen project of andere handeling is, of de handeling plaatsvindt in of gevolgen heeft voor categorieën van gebieden die krachtens dat lid zijn aangewezen;  
+a. Onze Minister, indien de handeling een krachtens artikel 19d, vijfde lid, aangewezen project of andere handeling is, of de handeling plaatsvindt in of gevolgen heeft voor categorieën van gebieden die krachtens dat vijfde lid zijn aangewezen;  
 
 b. in andere gevallen dan die, bedoeld in onderdeel a: 
 
 – gedeputeerde staten, ingeval de verplichting voor één of meer afzonderlijke gevallen wordt voorgeschreven;  
 
-– provinciale staten, ingeval de verplichting voor categorieën van gevallen wordt voorgeschreven. De artikelen 2, vijfde lid, en 2a, tweede lid, zijn van overeenkomstige toepassing, met dien verstande dat voor «gedeputeerde staten» wordt gelezen: provinciale staten.      
+– provinciale staten, ingeval de verplichting voor categorieën van gevallen wordt voorgeschreven. De artikelen 2, vijfde en zesde lid, en 2a, tweede en derde lid, zijn van overeenkomstige toepassing, met dien verstande dat voor «gedeputeerde staten» wordt gelezen: provinciale staten.      
 
-### Artikel  19kf  
+### Artikel  19kq  
 
-1.  Gedeputeerde staten kunnen ter vermindering van de stikstofdepositie in een Natura 2000-gebied in elk geval, indien artikel 19kd niet van toepassing is, aan het verlenen van een vergunning als bedoeld in artikel 19d, eerste lid, de voorwaarde verbinden dat de stikstofdepositie op de voor stikstof gevoelige habitats in een Natura 2000-gebied die wordt veroorzaakt door de handeling waarop de aanvraag van de vergunning betrekking heeft, niet groter is dan de door gedeputeerde staten geregistreerde en voor die handeling beschikbaar gestelde afname van stikstofdepositie op deze habitats als gevolg van de beëindiging van een of meer bepaalde andere handelingen.   
-2.  Gedeputeerde staten, onderscheidenlijk provinciale staten, kunnen bij het toepassen van artikel 19ke, tweede lid, in elk geval de verplichting opleggen dat de stikstofdepositie op de voor stikstof gevoelige habitats in een Natura 2000-gebied die wordt veroorzaakt door het desbetreffende handelen, geheel dan wel voor een bepaald deel, niet groter is dan de door gedeputeerde staten geregistreerde en voor dit handelen beschikbaar gestelde afname van stikstofdepositie op deze habitats als gevolg van de beëindiging van een of meer bepaalde andere handelingen.  
+1.  Een ministeriële regeling als bedoeld in artikel 19kh, vijfde of zevende lid, 19kk, 19kn, eerste of vierde lid, 19ko, vijfde lid, of 19koa, eerste lid, wordt vastgesteld door de Minister van Economische Zaken en de Minister van Infrastructuur en Milieu.   
+2.  Een ministeriële regeling als bedoeld in artikel 19kh, vijfde of zevende lid, 19kk, 19kn, vierde lid, 19ko, vijfde lid, of 19koa, eerste lid, wordt vastgesteld na overleg met de bestuursorganen, bedoeld in artikel 19kg, derde lid.   
+3.  Een ministeriële regeling als bedoeld in artikel 19kn, eerste lid, wordt vastgesteld in overeenstemming met de bestuursorganen die het beheerplan, bedoeld in artikel 19a of 19b, vaststellen voor de in het programma opgenomen Natura 2000-gebieden waarin de stikstofdepositie die de in artikel 19kn, eerste lid, bedoelde projecten of andere handelingen veroorzaken hoofdzakelijk plaatsvindt.  
 
-### §  2a.2  
+### Artikel  19kr  
 
-####Programmatische aanpak vermindering stikstofdepositie
+1.  In dit artikel en de daarop berustende bepalingen wordt verstaan onder: 
 
-### Artikel  19kg  
+a. *referentiedatum:*
 
-1.  Onze Minister en Onze Minister van Infrastructuur en Milieu stellen een programma vast ter vermindering van de stikstofdepositie, afkomstig van in Nederland aanwezige bronnen, in de in het programma opgenomen Natura 2000-gebieden, met het oog op de realisatie van de instandhoudingsdoelstelling, bedoeld in artikel 10a, tweede lid.  
-2.  Ingeval het beheerplan voor een Natura 2000-gebied als bedoeld in het eerste lid wordt vastgesteld door gedeputeerde staten, vindt de opname van dat gebied in het programma, bedoeld in het eerste lid niet plaats dan op voordracht van desbetreffende gedeputeerde staten. Het programma, bedoeld in het eerste lid, wordt vastgesteld in overeenstemming met desbetreffende gedeputeerde staten.   
-3.  Indien een Natura 2000-gebied wordt opgenomen in het programma, bedoeld in het eerste lid, zal in het beheerplan een doelstelling ten aanzien van stikstofdepositie worden opgenomen die strekt tot een ambitieuze en realistische daling, in een gelijkmatige reductie per beheerplanperiode, van de stikstofdepositie in het Natura 2000-gebied met het oog op de realisatie binnen afzienbare termijn van de instandhoudingsdoelstelling in dat gebied. Hierbij kan onderscheid worden gemaakt tussen de depositie van ammoniak en andere stikstofverbindingen.   
-4.  Het programma wordt ten minste eenmaal in de zes jaar en voor de eerste keer uiterlijk twee jaar na inwerkingtreding van de Crisis- en herstelwet vastgesteld. Na het verstrijken van de eerste drie jaar van de geldingsduur kan naar aanleiding van een beoordeling van de in die periode opgedane ervaringen het programma door Onze Minister en Onze Minister van Infrastructuur en Milieu in overeenstemming met de provincies, worden aangepast.  
+1°. voor gebieden ter uitvoering van richtlijn 92/43/EEG: 
 
-### Artikel  19kh  
+– 7 december 2004, of  
 
-1.  In een programma als bedoeld in artikel 19kg is voor de betrokken Natura 2000-gebieden in elk geval beschreven of genoemd: 
+– de datum waarop het desbetreffende gebied door de Europese Commissie tot een gebied van communautair belang is verklaard ter uitvoering van artikel 4, tweede lid, van richtlijn 92/43/EEG, voor zover die verklaring plaatsvindt na 7 december 2004;    
 
-a. de omvang van de stikstofdepositie aan het begin van het tijdvak van het programma, onderscheiden naar: 
+2°. voor gebieden ter uitvoering van richtlijn 2009/147/EG: 10 juni 1994 of de datum waarop het desbetreffende gebied is aangewezen ter uitvoering van richtlijn 2009/147/EG, voor zover die aanwijzing plaatsvindt na 10 juni 1994.    
 
-1°. depositie, veroorzaakt door factoren in de gebieden;  
+b.  *voor stikstof gevoelige habitats in een Natura 2000-gebied:* voor stikstof gevoelige natuurlijke habitats en habitats van soorten in een Natura 2000-gebied ten aanzien waarvan op grond van artikel 6, tweede lid, van richtlijn 92/43/EEG een verplichting geldt tot het treffen van instandhoudingsmaatregelen.     
+2.  Dit artikel is uitsluitend van toepassing op projecten en andere handelingen: 
 
-2°. depositie, veroorzaakt door factoren buiten de gebieden;    
+a. die stikstofdepositie veroorzaken op voor stikstofgevoelige habitats in een Natura 2000-gebied dat niet is opgenomen in het programma, of  
 
-b. de verwachte autonome ontwikkelingen ten aanzien van de stikstofemissie door de factoren, bedoeld in onderdeel a, en de effecten daarvan op de omvang van stikstofdepositie in de gebieden;  
-
-c. de getroffen of te treffen maatregelen die bijdragen aan een vermindering van de stikstofdepositie, of die op een andere wijze bijdragen aan het bereiken van een goede staat van instandhouding van de voor stikstof gevoelige habitats, en de verwachte effecten van die maatregelen op de omvang van de depositie, onderscheidenlijk het bereiken van een goede staat van instandhouding in de gebieden;  
-
-d. de sociaal-economische evaluatie en weging van haalbaarheid en betaalbaarheid van maatregelen als bedoeld in onderdeel c;  
-
-e. de doelstellingen ten aanzien van de omvang van de stikstofdepositie, al dan niet met tussendoelstellingen, of de indicatoren waaruit kan worden afgeleid of een doelstelling al dan niet is behaald welke noodzakelijk zijn met het oog op het bereiken van een goede staat van instandhouding;  
-
-f. de wijze waarop en frequentie waarmee de rapportage plaatsvindt over de voortgang en uitvoering van de getroffen of te treffen in het programma beschreven en genoemde maatregelen en de effecten daarvan op de depositie.     
-2.  In het programma kan onderscheid worden gemaakt tussen de depositie van ammoniak en andere stikstofverbindingen.   
-3.  Tot de maatregelen, bedoeld in het eerste lid, onderdeel c, behoren in elk geval: 
-
-a. maatregelen van bestuursorganen van het Rijk;  
-
-b. maatregelen voorzien in bindende besluiten van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen;  
-
-c. gebiedsgerichte of effectgerichte maatregelen van bestuurorganen van het Rijk, provincies, gemeenten, of waterschappen.     
-4.  In het programma worden de uitgangspunten opgenomen voor de bepaling van ontwikkelingsruimte die als gevolg van de maatregelen, eerste lid, onderdeel c, ontstaat en de toedeling van die ruimte aan handelingen in en buiten de in het programma opgenomen Natura 2000-gebieden.   
-5.  In het programma kunnen projecten worden beschreven of genoemd waarvan op grond van een passende beoordeling de zekerheid is verkregen dat, mede in het licht van de ontwikkelingsruimte die ontstaat als gevolg van de maatregelen, bedoeld in het derde lid, onderdeel a, de natuurlijke kenmerken van Natura 2000-gebieden niet zullen worden aangetast. Het verbod, bedoeld in artikel 19d, eerste lid, is niet van toepassing op projecten als bedoeld in de eerste volzin.  
-
-### Artikel  19ki  
-
-1. Onze Minister en Onze Minister van Infrastructuur en Milieu in overeenstemming met de provincies, wijzigen of vervangen op verzoek van een bestuursorgaan dat het aangaat, in het programma opgenomen maatregelen als bedoeld in artikel 19kh, eerste lid, onderdeel c, indien het desbetreffende bestuursorgaan ten genoegen van Onze voornoemde Ministers en de provincies heeft aangetoond dat die wijziging of de vervangende maatregel per saldo een vergelijkbaar of positiever effect zal hebben op de vermindering van de stikstofdepositie.  
-2.  Onze Minister, in overeenstemming met het betrokken bevoegd gezag, kan een in het programma opgenomen project als bedoeld in artikel 19kh, vijfde lid, wijzigen of een project toevoegen, overeenkomstig de voorwaarden van artikel 19kh, vijfde lid, indien is aangetoond dat die wijziging of toevoeging per saldo een vergelijkbaar of positiever effect zal hebben op de vermindering van de stikstofdepositie. 
-
-### Artikel  19kj  
-
-1.  De daartoe bevoegde bestuursorganen dragen zorg voor een tijdige uitvoering van de in het programma beschreven of genoemde maatregelen, bedoeld in artikel 19kh, eerste lid, onderdeel c.   
-2.  Ingeval Onze Minister en Onze Minister van Infrastructuur en Milieu in overeenstemming met de provincies van oordeel zijn dat een in het programma benoemde of beschreven maatregel niet meer nodig is, nemen zij het besluit dat het eerste lid niet meer van toepassing is op de desbetreffende maatregel.  
-
-### Artikel  19kk  
-
-Bij ministeriële regeling van Onze Minister en Onze Minister van Infrastructuur en Milieu kunnen nadere regels worden gesteld over de inpassing van onderdelen van het programma, bedoeld in artikel 19kg, die betrekking hebben op, of van belang zijn voor een in het programma, bedoeld in artikel 19kg, eerste lid, opgenomen Natura 2000-gebied, in het desbetreffende beheerplan. 
-
-### Artikel  19kl  
-
-1.  Onze Minister en Onze Minister van Infrastructuur en Milieu stellen uiterlijk vier maanden na inwerkingtreding van de Crisis- en herstelwet een voorlopig programma vast ter vermindering van de stikstofdepositie.  
-2.  In het voorlopige programma, bedoeld in het eerste lid, worden in elk geval beschreven of genoemd de maatregelen en effecten, bedoeld in artikel 19kh, eerste lid, onderdeel c, in samenhang met het derde lid, onderdeel a.   
-3.  Het voorlopige programma vervalt op het moment dat een eerste programma als bedoeld in artikel 19kg, eerste lid, wordt vastgesteld.   
-4.  De artikelen 19kh, eerste lid, onderdeel f, 19ki en 19kj zijn van overeenkomstige toepassing.  
-
-### Artikel  19km  
-
-1.  Het bevoegd gezag dat het beheerplan vaststelt deelt de overeenkomstig artikel 19kh, vierde lid, vastgestelde ruimte, uitgezonderd de ruimte die is toegedeeld aan projecten als bedoeld in artikel 19kh, vijfde lid, uitsluitend toe aan handelingen in het gebied en daarbuiten die in het beheerplan zijn of worden opgenomen.   
-2.  Een hoeveelheid van ten minste 10% van de ontwikkelingsruimte mag uitsluitend worden toegedeeld aan handelingen die eerst aanvangen in de tweede helft van het tijdvak waarvoor het beheerplan is vastgesteld.   
-3.  De toedeling, bedoeld in het tweede lid, vindt plaats nadat door het bevoegd gezag is vastgesteld dat de reductiedoelstellingen worden gehaald.   
-4.  Het bevoegd gezag dat het beheerplan vaststelt, draagt er zorg voor dat de handelingen waaraan ontwikkelingsruimte is toegedeeld, en de eventueel daarbij aangegeven voorwaarden en beperkingen, worden opgenomen in het beheerplan.  
+b. ten aanzien waarvan het bestuursorgaan dat met betrekking tot dat project of die andere handeling bevoegd is tot het nemen van een besluit, genoemd in artikel 19km, eerste lid, in overeenstemming met het bestuursorgaan dat voor de Natura 2000-gebieden waar het project of de andere handeling stikstofdepositie veroorzaakt, het beheerplan, bedoeld in artikel 19a of 19b, vaststelt en de ingevolge artikel 2, vierde lid, medebetrokken bestuursorganen, het besluit heeft genomen dat artikel 19km, derde lid, niet van toepassing is.     
+3.  Onder significante gevolgen als bedoeld in artikel 19f, eerste lid, worden niet verstaan de gevolgen van een project door het veroorzaken van stikstofdepositie op voor stikstofgevoelige habitats in een Natura 2000-gebied, wanneer het project een activiteit is die na de referentiedatum is begonnen, of een gebruik dat na de referentiedatum in betekenende mate is gewijzigd, waarbij is verzekerd dat, in samenhang met voor die activiteit getroffen maatregelen, de stikstofdepositie op de voor stikstof gevoelige habitats in een Natura 2000-gebied als gevolg van die activiteit of dat gebruik per saldo niet is toegenomen of zal toenemen.   
+4.  Gedeputeerde staten kunnen ter vermindering van de stikstofdepositie in het Natura 2000-gebied, in elk geval aan het verlenen van een vergunning als bedoeld in artikel 19d, eerste lid, de voorwaarde verbinden dat de stikstofdepositie op de voor stikstof gevoelige habitats in een Natura 2000-gebied die wordt veroorzaakt door het project of de andere handeling waarop de aanvraag van de vergunning betrekking heeft, niet groter is dan de door gedeputeerde staten geregistreerde en voor dat project of die andere handeling beschikbaar gestelde afname van stikstofdepositie op deze habitats als gevolg van de beëindiging van een of meer bepaalde andere projecten of andere handelingen.   
+5.  Gedeputeerde staten, onderscheidenlijk provinciale staten, kunnen bij het toepassen van artikel 19kp, tweede lid, in elk geval de verplichting opleggen dat de stikstofdepositie op de voor stikstof gevoelige habitats in het Natura 2000-gebied geheel dan wel voor een bepaald deel, niet groter is dan de door gedeputeerde staten geregistreerde en voor het project of de andere handeling beschikbaar gestelde afname van stikstofdepositie op deze habitats als gevolg van de beëindiging van een of meer bepaalde andere projecten of andere handelingen.   
+6.  Met betrekking tot de bepaling van de door projecten, andere handelingen en maatregelen als bedoeld in het tweede of derde lid veroorzaakte of te veroorzaken stikstofdepositie kunnen bij ministeriële regeling regels worden gesteld. Daarbij kan onder meer worden geregeld dat hiervoor bij of krachtens andere wetten bijgehouden of aan een bevoegd gezag overgelegde gegevens kunnen worden gebruikt.   
+7.  De bestuursorganen die beheerplannen als bedoeld in artikel 19a of 19b vaststellen voor Natura 2000-gebieden waar projecten of andere handelingen stikstofdepositie veroorzaken op voor stikstofgevoelige habitats, hebben een actueel overzicht van de gevolgen van deze projecten en andere handelingen voor de stikstofdepositie, en rapporteren hierover. De beschrijving in het programma van de wijze waarop en de frequentie waarmee rapportage plaatsvindt als bedoeld in artikel 19kh, eerste lid, onderdeel f, is van overeenkomstige toepassing. De gevolgen worden betrokken bij toepassing van artikel 19kh, eerste lid, onderdeel b.   
+8.  Een besluit als bedoeld in het tweede lid, onderdeel b, kan alleen genomen worden als na toepassing van het zevende lid ontwikkelruimte beschikbaar blijft.   
+9.  Maatregelen als bedoeld in artikel 19kh, eerste lid, onderdelen c en g, worden onverkort uitgevoerd.  
 
 ###§ 3 
 
@@ -724,7 +814,8 @@ De kosten van de schadebeoordelingscommissie worden de verzoeker niet in rekenin
 ### Artikel  39  
 
 1.   De werking van een besluit als bedoeld in artikel 15, eerste lid, wordt geschorst totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.    
-2.  Een beroep tegen een besluit tot vaststelling van een beheerplan als bedoeld in artikel 19a heeft uitsluitend betrekking op de beschrijvingen van handelingen die het bereiken van de instandhoudingsdoelstelling niet in gevaar brengen, en de daarbij in voorkomend geval aangegeven voorwaarden en beperkingen.  
+2.  Een beroep tegen de vaststelling van een beheerplan als bedoeld in artikel 19a heeft uitsluitend betrekking op de beschrijvingen van handelingen die het bereiken van de instandhoudingsdoelstelling niet in gevaar brengen, en de daarbij in voorkomend geval aangegeven voorwaarden en beperkingen.   
+3.  Een beroep tegen de vaststelling van een programma als bedoeld in artikel 19kg, eerste lid, heeft uitsluitend betrekking op de beschrijving of vermelding van projecten als bedoeld in artikel 19kh, zesde lid. 
 
 ###Hoofdstuk VIII 
 
@@ -825,7 +916,7 @@ b. die tevens zijn aan te merken als projecten of andere handelingen waarvoor he
 
 1.  Een omgevingsvergunning die betrekking heeft op handelingen als bedoeld in artikel 47, eerste lid, wordt niet verleend dan nadat het bestuursorgaan dat ten aanzien van de betrokken handelingen bevoegd is te beslissen op een aanvraag om een vergunning als bedoeld in artikel 19d, eerste lid, heeft verklaard dat het daartegen geen bedenkingen heeft als bedoeld in artikel 2.27, eerste lid, van de Wet algemene bepalingen omgevingsrecht.   
 2.  Het eerste lid is niet van toepassing indien gedeputeerde staten zowel bevoegd gezag zijn om te beslissen op een aanvraag om een omgevingsvergunning als ten aanzien van de betrokken handelingen bevoegd zijn te beslissen op een aanvraag om een vergunning als bedoeld in artikel 19d, eerste lid. In dit geval zijn afdeling 3.4 van de Algemene wet bestuursrecht en paragraaf 3.3 van de Wet algemene bepalingen omgevingsrecht van toepassing op de voorbereiding van de beschikking op een aanvraag om een omgevingsvergunning.   
-3.  Met betrekking tot de verklaring onderscheidenlijk, in het in het tweede lid bedoelde geval, de beschikking op de aanvraag voor zover deze betrekking heeft op handelingen als bedoeld in artikel 47a, eerste lid, zijn de artikelen 19e tot en met 19g, 19ia en 19kd, en 19k, eerste en derde lid en het bepaalde krachtens artikel 19kb, van overeenkomstige toepassing.   
+3.  Met betrekking tot de verklaring onderscheidenlijk, in het in het tweede lid bedoelde geval, de beschikking op de aanvraag voor zover deze betrekking heeft op handelingen als bedoeld in artikel 47a, eerste lid, zijn de artikelen 19e tot en met 19g, 19ia, 19k, eerste en derde lid, 19kh, negende lid, en 19km, derde en vierde lid en het bepaalde krachtens artikel 19kb, van overeenkomstige toepassing. De verklaring geeft in voorkomend geval aan welke ontwikkelingsruimte overeenkomstig artikel 19km bij de omgevingsvergunning wordt toegedeeld.   
 4.  Indien een omgevingsvergunning om dwingende redenen van groot openbaar belang wordt verleend voor het realiseren van projecten als bedoeld in artikel 19h, eerste lid, bepaalt het bestuursorgaan dat de verklaring geeft, dat aan de omgevingsvergunning in ieder geval het voorschrift wordt verbonden inhoudende de verplichting compenserende maatregelen te treffen. In het in het tweede lid bedoelde geval verbindt het bevoegd gezag dit voorschrift aan de omgevingsvergunning.   
 5.  Met betrekking tot de compenserende maatregelen is artikel 19h, tweede tot en met vijfde lid, van toepassing, met dien verstande dat in het in het eerste lid bedoelde geval de krachtens artikel 19h, tweede lid, gestelde verplichting geldt voor het bestuursorgaan dat de verklaring geeft.   
 6.  Artikel 19k, eerste lid, is voor zover het betreft de in dat lid gestelde verplichting met betrekking tot het in kennis stellen van Onze Minister en de in dat lid gestelde verplichting met betrekking tot het zenden van een afschrift van vergunningen van overeenkomstige toepassing, met dien verstande dat deze verplichtingen in het in het eerste lid bedoelde geval gelden voor het bestuursorgaan dat de verklaring geeft en niet gelden in gevallen dat Onze Minister de verklaring geeft.  
@@ -892,7 +983,7 @@ Besluiten die zijn genomen op grond van de artikelen 7, 11, 12, 14, 18, 21, eers
 9.  Besluiten die zijn genomen op basis van artikel 19d, derde lid, (oud) gelden als besluiten die zijn genomen op basis van artikel 19d, vierde lid (nieuw).  
 10.  Artikel 19d is niet van toepassing op handelingen in de exclusieve economische zone waarvoor op grond van andere wetten en met inachtneming van artikel 6, derde en vierde lid, van richtlijn 92/43/EEG, een vergunning is of zal worden verleend.   
 11.  Artikel 19d is niet van toepassing op handelingen waarvoor een aanvraag tot wijziging van de in het tiende lid bedoelde vergunning is of wordt aangevraagd en deze vergunning met inachtneming van artikel 6, derde en vierde lid, van richtlijn 92/42/EEG, zal worden gewijzigd, dan wel ambtshalve een besluit tot wijziging van die vergunning met inachtneming van de voornoemde richtlijnbepaling is of zal worden vastgesteld.   
-12.  De vergunning, bedoeld in het tiende en elfde lid, kan door het bevoegde gezag dat de vergunning heeft verleend, worden gewijzigd of ingetrokken in de gevallen, bedoeld in artikel 43, vierde lid, in het bijzonder indien dit noodzakelijk is om de instandhoudingsdoelstelling voor het desbetreffende Natura 2000-gebied te realiseren. 
+12.  De vergunning, bedoeld in het tiende en elfde lid, kan door het bevoegde gezag dat de vergunning heeft verleend, worden gewijzigd of ingetrokken in de gevallen, bedoeld in artikel 43, tweede lid, in het bijzonder indien dit noodzakelijk is om de instandhoudingsdoelstelling voor het desbetreffende Natura 2000-gebied te realiseren. 
 
 ### Artikel  61  
 
@@ -926,7 +1017,6 @@ De eigenaar en gebruiker zijn verplicht de kentekenen die op grond van artikel 1
 Ten aanzien van voor de datum van inwerkingtreding van deze wet genomen besluiten tot toepassing van bestuursdwang en de daaruit voortvloeiende uitvoering van werken als bedoeld in artikel 29, eerste en tweede lid, van de Natuurbeschermingswet, blijft genoemde wet van toepassing.  
 
 ### Artikel  67a  
-Treedt in werking per 01-07-2015 
 
 De artikelen 19km, 19kn en 19ko zijn niet van toepassing op projecten, plannen en andere handelingen die stikstofdepositie op voor stikstof gevoelige habitats in een Natura 2000-gebied veroorzaken indien: 
 

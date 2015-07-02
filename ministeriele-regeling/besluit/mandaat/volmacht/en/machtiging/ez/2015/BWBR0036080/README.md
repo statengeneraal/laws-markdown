@@ -39,21 +39,23 @@ d. *de hoofden van dienst:*
 
 9°. de directeur Wetgeving en Juridische Zaken;  
 
-10°. de directeur van PIANOo;  
+10°. de Nationaal Coördinator Groningen; 
 
-11°. de directeur van het Centraal Planbureau;  
+11°. de directeur van PIANOo;  
 
-12°. de algemeen directeur van de Dienst ICT Uitvoering;  
+12°. de directeur van het Centraal Planbureau;  
 
-13°. de directeur van de Dienst Landelijk Gebied;  
+13°. de algemeen directeur van de Dienst ICT Uitvoering;  
 
-14°. de inspecteur-generaal der mijnen;  
+14°. de directeur van de Dienst Landelijk Gebied;  
 
-15°. de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit;  
+15°. de inspecteur-generaal der mijnen;  
 
-16°.  de algemeen directeur Rijksdienst voor Ondernemend Nederland;  
+16°. de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit;  
 
-17°. de directeur-hoofdinspecteur van het Agentschap Telecom;    
+17°.  de algemeen directeur Rijksdienst voor Ondernemend Nederland;  
+
+18°. de directeur-hoofdinspecteur van het Agentschap Telecom;    
 
 e.  *de P&O-aangelegenheden:* de aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;  
 
@@ -136,7 +138,7 @@ h. aangelegenheden op het gebied van personeel, financiën, organisatie en bedri
 i.  aangelegenheden op het gebied van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector (WNT), waaronder begrepen het nemen van beslissingen op bezwaarschriften.    
 2.  Tot de aangelegenheden, bedoeld in het eerste lid, onderdeel h, behoren in ieder geval: 
 
-a. het vaststellen van de organisatie en formatie van de diensten, bedoeld in artikel 1, onderdeel d, onder 1° tot en met 10°;  
+a. het vaststellen van de organisatie en formatie van de diensten, bedoeld in artikel 1, onderdeel d, onder 1° tot en met 11°;  
 
 b. het vaststellen van de apparaatskosten van de diensten;  
 
@@ -193,7 +195,7 @@ a. benoeming, ontslag en vergoeding van de leden van de Gemeenschappelijke Raadg
 
 b. benoeming, ontslag en vergoeding van de leden van de Adviesraad programmaonderzoek MKB en ondernemerschap;  
 
-c. benoeming en ontslag van de leden van de Stelselraad eHerkenning, de voorzitter van het Tactisch Overleg en de leden van de Klachten- en geschillencommissie;  
+c. benoeming, schorsing en ontslag van de voorzitter van het Strategisch Beraad en van de voorzitter van het Tactisch Beraad alsmede benoeming en ontslag van de afgevaardigden van de deelnemers, dienstverleners en de gebruikers van het Strategisch Beraad;  
 
 d. benoeming, ontslag en vergoeding van de leden van topteams als genoemd in het Instellingsbesluit topteams in de implementatiefase topsectorenbeleid.   
 
@@ -238,12 +240,12 @@ h. het verlenen van ontslag op grond van artikel 99 van het ARAR en het verlenen
 a. bezwaar- en beroepschriften inzake personeelsaangelegenheden;  
 
 b. bezwaar- en beroepschriften tegen besluiten die in mandaat zijn genomen of behandeld door een functionaris of door die functionaris aangewezen medewerkers die mandaat, volmacht en machtiging heeft verkregen voor het behandelen van bezwaar- en beroepschriften tegen die besluiten.     
-2.  Aan de directeur Wetgeving en Juridische Zaken wordt voorts volmacht en machtiging verleend voor het aangaan van verplichtingen inzake het verlenen van opdrachten aan externe juridische dienstverleners, met uitzondering van verplichtingen op het werkterrein van de hoofden van dienst, genoemd in artikel 1, onderdeel d, onder 13°, 15°, 16° en 17° en op het werkterrein van het hoofd van dienst, genoemd in artikel 1, onderdeel d, onder 1°, voor zover het betreft het Programma Juridisch instrumentarium Natuur en Gebiedsinrichting.  
+2.  Aan de directeur Wetgeving en Juridische Zaken wordt voorts volmacht en machtiging verleend voor het aangaan van verplichtingen inzake het verlenen van opdrachten aan externe juridische dienstverleners, met uitzondering van verplichtingen op het werkterrein van de hoofden van dienst, genoemd in artikel 1, onderdeel d, onder 14°, 16°, 17° en 18° en op het werkterrein van het hoofd van dienst, genoemd in artikel 1, onderdeel d, onder 1°, voor zover het betreft het Programma Juridisch instrumentarium Natuur en Gebiedsinrichting.  
 
 ### Artikel  13  
 
 1.  Aan de algemeen directeur Rijksdienst voor Ondernemend Nederland en aan de directeur-hoofdinspecteur van het Agentschap Telecom wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het behandelen van niet op personeelsaangelegenheden betrekking hebbende bezwaar- en beroepschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep, tegen besluiten die in mandaat zijn genomen of behandeld door hem of door onder hem ressorterende medewerkers.   
-2.  Aan de algemeen directeur Rijksdienst voor Ondernemend Nederland wordt tevens mandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep tegen besluiten op het terrein van landbouw, natuur en voedselkwaliteit. Dit mandaat, volmacht en machtiging voor het behandelen van bezwaar en beroepszaken tegen besluiten op Wob-verzoeken is beperkt tot besluiten die zijn genomen of behandeld door een hoofd van dienst of door hem aangewezen medewerkers als genoemd in artikel 1, onderdeel d, onder 12°, 13°, 15°, 16°.  
+2.  Aan de algemeen directeur Rijksdienst voor Ondernemend Nederland wordt tevens mandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep tegen besluiten op het terrein van landbouw, natuur en voedselkwaliteit. Dit mandaat, volmacht en machtiging voor het behandelen van bezwaar en beroepszaken tegen besluiten op Wob-verzoeken is beperkt tot besluiten die zijn genomen of behandeld door een hoofd van dienst of door hem aangewezen medewerkers als genoemd in artikel 1, onderdeel d, onder 13°, 14°, 16° en 17°.  
 
 ### Artikel  14  
 
@@ -369,7 +371,7 @@ H.G.J. Kamp
 
 ### I  
 
-####I. Hoofdstructuur van de organisatie
+####Hoofdstructuur van de organisatie
 
 1. Het Ministerie van Economische Zaken bestaat uit het kernministerie en de buitendiensten.  
 
@@ -399,7 +401,11 @@ c. de stafdirecties:
 
 6°. de directie Wetgeving en Juridische Zaken;    
 
-d. het overige onderdeel: PIANOo.    
+d. de overige onderdelen: 
+
+1°. de Overheidsdienst Groningen;  
+
+2°. PIANOo.      
 
 3. Onder het Ministerie van Economische Zaken ressorteren de volgende buitendiensten: 
 
@@ -917,55 +923,73 @@ j. het bijdragen aan het internationale oliecrisisbeleid.
 
 3. Het directoraat-generaal bestaat uit: 
 
-a. de directie Energie en Duurzaamheid;  
+a. de directie Energie en Omgeving;  
 
-b. de directie Energiemarkt;  
+b. de directie Energiemarkt en Innovatie;  
 
-c. de directie Mededinging en Consumenten;  
+c. de programmadirectie Energie-Uitdagingen 2020;  
 
-d. de directie Telecommarkt.     
+d. de directie Mededinging en Consumenten;  
+
+e. de directie Telecommarkt.     
 
 ### B  
 
-####De directie Energie en Duurzaamheid
+####De directie Energie en Omgeving
 
-1. De directie Energie en Duurzaamheid staat onder leiding van een directeur.  
+1. De directie Energie en Omgeving staat onder leiding van een directeur.  
 
 2. De directie heeft tot taak: 
 
-a. het stimuleren van duurzame energie;  
+a. het zorg dragen voor een goed mijnbouwklimaat;  
 
-b. het zorg dragen voor energiebesparing, met name in de industrie;  
+b. het uitvoeren van de mijnbouwwetgeving;  
 
-c. het zorg dragen voor emissiehandel en CCS;  
+c. het waarborgen van een veilige delfstoffenwinning;  
 
-d. het zorg dragen voor energie-innovatie;  
+d. het uitvoeren van de rijkscoördinatieregeling voor energieprojecten;  
 
-e. het zorgdragen voor de positie van kernenergie als onderdeel van het energiebeleid en een goede nucleaire (kennis) infrastructuur.     
+e. het zorg dragen voor maatschappelijke betrokkenheid bij energieprojecten;  
+
+f. het faciliteren van concrete energieprojecten door middel van onder andere green deals.     
 
 ### C  
 
-####De directie Energiemarkt
+####De directie Energiemarkt en Innovatie
 
-1. De directie Energiemarkt staat onder leiding van een directeur.  
+1. De directie Energiemarkt en Innovatie staat onder leiding van een directeur.  
 
 2. De directie heeft tot taak: 
 
-a. het monitoren en toezicht houden op de energiemarkt;  
+a. het stimuleren van duurzame energieproductie, energiebesparing en energie-innovatie;  
 
-b. het zorg dragen voor een adequate marktordening;  
+b. het zorg dragen voor een goede nucleaire (kennis)infrastructuur;  
 
-c. het bevorderen van een internationaal level playing field;  
+c. het bevorderen van de leverings- en voorzieningszekerheid van energie;  
 
-d. het bevorderen van de leverings- en voorzieningszekerheid;  
+d. het zorg dragen voor goed werkende energiemarkten;  
 
-e. het zorg dragen voor het gasgebouw;  
-
-f. het zorg dragen voor het mijnbouwklimaat;  
-
-g. het uitvoeren van de mijnbouwwetgeving.     
+e. het monitoren van de energiemarkten.     
 
 ### D  
+
+####De programmadirectie Energie-uitdagingen 2020
+
+1. De directie Energie-uitdagingen 2020 staat onder leiding van een directeur.  
+
+2. De directie heeft tot taak: 
+
+a. het zorg dragen voor een goede uitvoering van de afspraken uit het Energieakkoord;  
+
+b. het zorg dragen voor de realisatie van de doelen voor hernieuwbare energie in 2020 en 2023;  
+
+c. het implementeren van de warmtevisie en het herzien van de Warmtewet;  
+
+d. het versnellen van de energiebesparing, in het bijzonder in de industrie;  
+
+e. het zorg dragen voor een versnelde uitrol van windenergie op zee.    
+
+### E  
 
 ####De directie Mededinging en Consumenten
 
@@ -983,7 +1007,7 @@ d. het zorg dragen voor het metrologiebeleid, accreditatie, normalisatie en de r
 
 e. het zorg dragen voor een optimale marktordening door onder meer de Winkeltijdenwet, de Dienstenwet en de Postwet 2009.     
 
-### E  
+### F  
 
 ####De directie Telecommarkt
 
@@ -1037,7 +1061,7 @@ j. het coördineren van de inkoop van het ministerie;
 
 k. het aangaan van overeenkomsten op het terrein van roerende goederen en dienstverlening, alsmede het materiele beheer van roerende goederen;  
 
-l. het voeren van regie en het zorg dragen van uitvoering op het gebied van huisvesting, waaronder begrepen huur, koop en beheer van vastgoed, werkplekinrichting, technisch onderhoud, ruimtebeheer en verhuizingen;  
+l. het voeren van EZ brede regie op het gebied van kantoorhuisvesting, zoals opgenomen in de masterplannen Rijkshuisvesting en op de pied-à-terres van de politieke top, waaronder begrepen het bepalen van de huisvestingsbehoefte en het sturen op regionale vestiging en volume op het gebied van huisvesting en huur van vastgoed;  
 
 m. het voorzien in overige facilitaire zaken, waaronder begrepen personenvervoer, vertaaldiensten, telefooncentrale en uitvoering van evenementen;  
 
@@ -1225,13 +1249,77 @@ d. de interdepartementale staatssteuncoördinatie, inclusief het voorzitterschap
 
 ### XII  
 
+####De Overheidsdienst Groningen
+
+###A. Algemeen
+
+1. De Overheidsdienst Groningen staat onder leiding van de National Coördinator Groningen.  
+
+2. De Overheidsdienst Groningen heeft tot taak: 
+
+a. het jaarlijks doen van een voorstel voor het Programma Aardbevingbestendig en Kansrijk Groningen aan de betrokken ministers;  
+
+b. het adviseren van de betrokken bestuursorganen over de uitvoering van het Programma Aardbevingbestendig en Kansrijk Groningen, waaronder het doen van voorstellen aan de betrokken bestuursorganen om hun bevoegdheden in te zetten;  
+
+c. het doen van voorstellen voor de agenda van de betrokken onderraad van de Ministerraad, Gedeputeerde Staten van Groningen of de Colleges van Burgemeester en Wethouders van de betrokken gemeenten en het op verzoek bijstaan van betrokken bestuurders in het parlement, Provinciale Staten van de provincie Groningen respectievelijk de gemeenteraad van de betrokken gemeenten en in andere gremia;  
+
+d. het coördineren en faciliteren van en het bijdragen aan de uitvoering van het Programma Aardbevingbestendig en Kansrijk Groningen;  
+
+e. het bewaken van de voortgang van de uitvoering van het Programma Aardbevingsbestendig en Kansrijk Groningen en het rapporteren daarover aan de betrokken bestuursorganen;  
+
+f. het bevorderen en voeren van overleg tussen en met bestuurders;  
+
+g. het bevorderen van maatschappelijk, politiek en bestuurlijk draagvlak voor het Programma Aardbevingbestendig en Kansrijk Groningen en van maatschappelijke participatie in de uitvoering daarvan en het bijdragen aan herstel van vertrouwen, waarbij de Nationaal Coördinator Groningen de Dialoogtafel betrekt;  
+
+h. het bevorderen van de communicatie over het Programma Aardbevingbestendig en Kansrijk Groningen.    
+
+3. De Overheidsdienst Groningen bestaat uit: 
+
+a. de directie Groningen;  
+
+b. de directie Den Haag.    
+###B. De directie Groningen
+
+1. De directie Groningen staat onder leiding van een directeur.  
+
+2. De directie Groningen heeft tot taak: 
+
+a. het zorg dragen voor een samenhangend voorstel voor het Programma Aardbevingbestendig en Kansrijk Groningen, zowel inhoudelijk als procesmatig;  
+
+b. het aansturen van kennisontwikkeling en het faciliteren van gebiedsteams met kennis en methoden;  
+
+c. het vaststellen van kaders en het stroomlijnen, ontwikkelen en het initiëren van aanpassingen van procedures en regelingen voor de uitvoering van het Programma Aardbevingbestendig en Kansrijk Groningen;  
+
+d. het uitvoeren van voorwaardenscheppende projecten op regionaal niveau;  
+
+e. het faciliteren van het beslechten van geschillen die ten gevolge van aardbevingen in Groningen zijn ontstaan;  
+
+f. het faciliteren van het inbrengen van ruimtelijke kwaliteit in de gebiedsteams en de uitvoering.    
+###C. De directie Den Haag
+
+1. De directie Den Haag staat onder leiding van een directeur.  
+
+2. De directie Den Haag heeft tot taak: 
+
+a. de beleidsmatige coördinatie van Rijksinbreng in het Programma Aardbevingbestendig en Kansrijk Groningen;  
+
+b. het vanuit het rijksbeleid faciliteren van (beleids)uitvoering van het jaarlijks Programma Aardbevingbestendig en Kansrijk Groningen waaronder het oplossen van knelpunten en dilemma’s gerelateerd aan of door middel van rijksbeleid of -instrumenten;  
+
+c. de politiek-bestuurlijke advisering van de betrokken ministers inclusief de coördinerende Minister van Economische Zaken bij het Programma Aardbevingbestendig en Kansrijk Groningen;  
+
+d. het zorg dragen voor financiële regelingen en de inzet van middelen voor de bekostiging van het jaarlijkse integrale Programma Aardbevingbestendig en Kansrijk Groningen;  
+
+e. de beleidsmatige coördinatie van (juridische) vragen, waar nodig het laten opstellen of aanpassen van rijksbrede kaders en het adviseren over het toepassen van bestaande rijksbrede kaders.    
+
+### XIII  
+
 ####Pianoo
 
 1. PIANOo staat onder leiding van een directeur.  
 
 2. PIANOo heeft tot taak de professionaliteit van het aanbesteden en de naleving van de aanbestedingsregels in Nederland te verbeteren.   
 
-### XIII  
+### XIV  
 
 ####Het Centraal Planbureau (CPB)
 
@@ -1255,7 +1343,7 @@ f. afdeling Informatietechnologie en Onderzoeksondersteuning;
 
 g. afdeling Interne Zaken en Beheer.     
 
-### XIV  
+### XV  
 
 ####De dienst ICT Uitvoering
 
@@ -1283,7 +1371,7 @@ h. Afdeling Bestuurszaken;
 
 i. Afdeling Business Support.     
 
-### XV  
+### XVI  
 
 ####De Dienst Landelijk Gebied
 
@@ -1291,7 +1379,7 @@ i. Afdeling Business Support.
 
 2.  De Dienst Landelijk Gebied heeft tot taak de aangelegenheden inzake afwikkeling van het baten-lastenagentschap Dienst Landelijk Gebied.   
 
-### XVI  
+### XVII  
 
 ####Het Staatstoezicht op de mijnen
 
@@ -1321,7 +1409,7 @@ c. de afdeling Operaties;
 
 d. het Bedrijfsbureau.     
 
-### XVII  
+### XVIII  
 
 ####De Nederlandse Voedsel- en Warenautoriteit
 
@@ -1357,7 +1445,9 @@ m. het verrichten van taken waaronder het verlenen, schorsen en intrekken van on
 
 n. het ontwikkelen van de kennisagenda en ondersteunen divisies bij strategische kennisontwikkeling;  
 
-o. het verzorgen van opleidingen voor managers en (bij)scholing voor handhavers op het gebied van toezicht en opsporing.    
+o. het verzorgen van opleidingen voor managers en (bij)scholing voor handhavers op het gebied van toezicht en opsporing;  
+
+p. het voeren van de EZ brede regie en het zorg dragen van de opdrachtverstrekking en de uitvoering op het gebied van ‘specialties’ huisvesting, zoals inspectiekantoren, archiefopslag, laboratoria, waaronder begrepen het bepalen van de huisvestingsbehoefte en het op basis van rijksbeleid sturen van behoeftestellers op regionale vestiging en volume op het gebied van huisvesting en huur van vastgoed met uitzondering van de pied-à-terres van de politieke top.   
 
 3. De Nederlandse Voedsel- en Warenautoriteit bestaat uit: 
 
@@ -1375,7 +1465,7 @@ f. de divisie Consument & Veiligheid;
 
 g. de Inlichtingen- en Opsporingsdienst (IOD).     
 
-### XVIII  
+### XIX  
 
 ####Rijksdienst voor Ondernemend Nederland
 
@@ -1459,7 +1549,7 @@ kk.  het behandelen van schadeverzoeken in het kader van een rijksinpassingsplan
 
 ll.  het beoordelen van en het besluiten over projecten voor decentrale duurzame elektriciteitsopwekking.      
 
-### XIX  
+### XX  
 
 ####Agentschap Telecom
 

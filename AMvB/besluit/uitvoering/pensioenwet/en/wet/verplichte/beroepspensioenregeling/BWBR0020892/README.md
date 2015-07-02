@@ -181,7 +181,7 @@ b. het recht op waardeoverdracht, bedoeld in artikel 71 van de Pensioenwet dan w
 
 c. de consequenties van arbeidsongeschiktheid;  
 
-d. het actueel zijn van een korte- of langetermijnherstelplan; en  
+d. het actueel zijn van een herstelplan of geactualiseerd herstelplan; en  
 
 e. het vervallen van de dekking tegen het risico op overlijden indien nabestaandenpensioen werd verworven op basis van risicofinanciering.   
 
@@ -190,6 +190,31 @@ e. het vervallen van de dekking tegen het risico op overlijden indien nabestaand
 ####Verstrekken informatie aan gewezen partner bij scheiding
 
 De uitvoerder verstrekt de gewezen partner bij scheiding informatie over de mogelijkheid van afkoop, bedoeld in artikel 68 van de Pensioenwet dan wel artikel 80 van de Wet verplichte beroepspensioenregeling, voor zover sprake is van een pensioenaanspraak onder de afkoopgrens. 
+
+### Artikel  7a  
+
+####Verstrekken informatie voorafgaand aan of bij pensioeningang
+
+Treedt in werking per 01-01-2016 
+
+De uitvoerder verstrekt degene die pensioengerechtigde wordt voorafgaand aan of bij de pensioeningang in ieder geval informatie over: 
+
+a. het recht te kiezen voor een hoger of eerder ingaand ouderdomspensioen, bedoeld in artikel 60 van de Pensioenwet dan wel artikel 72 van de Wet verplichte beroepspensioenregeling, voor zover sprake is van opbouw van ouderdomspensioen en partnerpensioen;  
+
+b. de mogelijkheid van afkoop, bedoeld in artikel 66 tot en met 69 van de Pensioenwet dan wel artikel 78 tot en met 80a van de Wet verplichte beroepspensioenregeling, voor zover sprake is van een pensioenaanspraak onder de afkoopgrens of een fiscaal bovenmatige pensioenaanspraak;  
+
+c. de mogelijkheid tot of het recht op waardeoverdracht, bedoeld in de artikelen 80, 81, 81a, tweede lid, en 81b, van de Pensioenwet dan wel de artikelen 88, 89, 89a, tweede lid, en 89b van de Wet verplichte beroepspensioenregeling, voor zover sprake is van een aan te wenden kapitaal op de pensioendatum; en  
+
+d. andere keuzemogelijkheden die de pensioenregeling biedt.   
+
+### Artikel  7b  
+
+####Rekenregels
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Voor de weergave op basis van een pessimistisch scenario, een verwacht scenario en een optimistisch scenario, bedoeld in artikel 45, tweede lid, artikel 46, eerste en derde lid, en artikel 51, eerste lid, van de Pensioenwet dan wel artikel 56, tweede lid, artikel 57, eerste en derde lid, en artikel 62, eerste lid, van de Wet verplichte beroepspensioenregeling wordt gebruik gemaakt van de scenariosets, bedoeld in artikel 23b van het Besluit financieel toetsingskader pensioenfondsen en de rekenmethodiek die omschreven is op de website van De Nederlandsche Bank.   
+2.  Bij ministeriële regeling worden regels gesteld met betrekking tot de rekenmethodiek.  
 
 ### Artikel  8  
 
@@ -222,6 +247,84 @@ d. informatie over het van toepassing zijn van een aanwijzing als bedoeld in art
 
 e. informatie over de aanstelling van een bewindvoerder als bedoeld in artikel 173 van de Pensioenwet dan wel artikel 168 van de Wet verplichte beroepspensioenregeling.     
 8.  De uitvoerder verstrekt de deelnemer of gewezen deelnemer op verzoek informatie over de consequenties van uitruil als bedoeld in artikel 60, 61 of 62 van de Pensioenwet dan wel de artikelen 72, 73 of 74 van de Wet verplichte beroepspensioenregeling voor de deelnemer.  
+
+### Artikel  9a  
+
+####Overige informatie op verzoek
+
+Treedt in werking per 01-07-2016 
+
+1.  Indien sprake is van een premieovereenkomst dan wel premieregeling waarbij de deelnemer tijdens de opbouwperiode de verantwoordelijkheid voor de beleggingen heeft overgenomen verstrekt de uitvoerder op verzoek van de deelnemer en de gewezen deelnemer informatie over alle beleggingsmogelijkheden, de feitelijke beleggingsportefeuille, de risicopositie en de kosten in verband met de beleggingen.   
+2.  De uitvoerder verstrekt de deelnemer, de gewezen deelnemer, de gewezen partner of de pensioengerechtigde op verzoek: 
+
+a. informatie over het van toepassing zijn van een aanwijzing als bedoeld in artikel 171 van de Pensioenwet dan wel artikel 166 van de Wet verplichte beroepspensioenregeling; en  
+
+b. informatie over de aanstelling van een bewindvoerder als bedoeld in artikel 173 van de Pensioenwet dan wel artikel 168 van de Wet verplichte beroepspensioenregeling.     
+3.  De uitvoerder verstrekt de deelnemer of gewezen deelnemer op verzoek informatie over de consequenties van uitruil als bedoeld in artikel 60, 61 of 62 van de Pensioenwet dan wel de artikelen 72, 73 of 74 van de Wet verplichte beroepspensioenregeling voor de deelnemer.  
+
+### Artikel  9b  
+
+####Beschikbare informatie over uitvoeringskosten
+
+Treedt in werking per 01-07-2016 
+
+1.  De informatie over uitvoeringskosten, bedoeld in artikel 46a, eerste lid, onderdeel c, van de Pensioenwet dan wel artikel 57a, eerste lid, onderdeel c, van de Wet verplichte beroepspensioenregeling, betreft: 
+
+a. de administratieve uitvoeringskosten, bedoeld in artikel 10a, eerste lid;  
+
+b. de kosten van vermogensbeheer, bedoeld in artikel 10a, tweede lid; en  
+
+c. de transactiekosten, bedoeld in artikel 10a, derde lid.     
+2.  De informatie over uitvoeringskosten die op de website wordt geplaatst betreft: 
+
+a. voor fondsen en premiepensioeninstellingen: de administratieve uitvoeringskosten als bedrag per deelnemer of pensioengerechtigde en de kosten van vermogensbeheer en de transactiekosten als percentage van het gemiddeld belegd vermogen;  
+
+b. voor verzekeraars: de administratieve uitvoeringskosten als bedrag per deelnemer of pensioengerechtigde en de kosten van vermogensbeheer en de transactiekosten: 
+
+1°. bij uitkeringsovereenkomsten en kapitaalovereenkomsten dan wel uitkeringsregelingen en kapitaalregelingen, indien de kosten van invloed zijn op de pensioenaanspraak of het pensioenrecht als percentage van het gemiddeld belegd vermogen, en indien de kosten niet van invloed zijn op de pensioenaanspraak of het pensioenrecht, met vermelding dat deze kosten niet zijn opgenomen omdat zij niet van invloed zijn op de pensioenaanspraak of het pensioenrecht;  
+
+2°. bij premieovereenkomsten of premieregelingen waarbij de premie wordt belegd tot de pensioendatum als percentage van het gemiddeld belegd vermogen en bij overige premieovereenkomsten of premieregelingen, indien de kosten van invloed zijn op de pensioenaanspraak of het pensioenrecht als percentage van het gemiddeld belegd vermogen, en indien de kosten niet van invloed zijn op de pensioenaanspraak of het pensioenrecht, met vermelding dat deze kosten niet zijn opgenomen omdat zij niet van invloed zijn op de pensioenaanspraak of het pensioenrecht;       
+3.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot dit artikel.  
+
+### Artikel  9c  
+
+####Het uniform pensioenoverzicht
+
+Treedt in werking per 01-01-2016 
+
+1.  Op voordracht van de uitvoerders en na advies van de Autoriteit Financiële Markten stelt Onze Minister de modellen voor het uniform pensioenoverzicht vast.   
+2.  De modellen voor het uniform pensioenoverzicht worden beschikbaar gesteld op de website van de Pensioenfederatie en het Verbond van Verzekeraars.   
+3.  Een uitvoerder verstrekt een uniform pensioenoverzicht voor deelnemers aan een ieder die in de gehele of in een deel van de voor het uniform pensioenoverzicht relevante periode deelnemer bij die pensioenuitvoerder was.  
+
+### Artikel  9d  
+
+####Elektronische informatieverstrekking
+
+1.  Voor de elektronische verstrekking van informatie door middel van een externe berichtenbox wordt MijnOverheid.nl gebruikt.   
+2.  Bij ministeriële regeling kunnen regels worden gesteld over de elektronische informatieverstrekking.  
+
+### Artikel  9e  
+
+####Pensioenregister
+
+1.  Een vermindering van de pensioenaanspraken en pensioenrechten wordt door de uitvoerders binnen vier maanden verwerkt in de gegevens die door middel van het pensioenregister worden verstrekt.   
+2.  Een andere wijziging van de pensioenaanspraken en pensioenrechten dan bedoeld in het eerste lid wordt door de uitvoerders binnen vier maanden nadat de wijziging in de administratie van de uitvoerders is doorgevoerd verwerkt in de gegevens die door middel van het pensioenregister worden verstrekt.   
+3.  Het pensioenregister geeft in ieder geval inzicht in de hoogte van het te bereiken pensioen door: 
+
+a. weergave in netto bedragen per maand en in bruto bedragen per jaar;  
+
+b. de mogelijkheid om ter vergelijking het huidige netto inkomen per maand in te voeren.     
+4.  Met betrekking tot de keuzes ten aanzien van ouderdomspensioen worden in ieder geval de indicatieve gevolgen op het pensioeninkomen getoond van het vervroegen of uitstellen van de pensioeningangsdatum.   
+5.  Met betrekking tot belangrijke gebeurtenissen worden in ieder geval bij nabestaandenpensioen de gevolgen getoond van overlijden op het moment van de uitvraag, na beëindiging van de deelneming en na pensionering.  
+
+### Artikel  9f  
+
+####Fasering pensioenregister
+
+1.  Artikel 9e, derde lid, onderdeel b, wordt gerealiseerd met ingang van 1 januari 2016.   
+2.  Artikel 9e, eerste lid, en tweede lid, voor zover het betreft een collectieve wijziging, worden gerealiseerd met ingang van 1 maart 2016.   
+3.  Artikel 9e, vierde en vijfde lid, worden gerealiseerd met ingang van 1 juli 2016.   
+4.  Artikel 9e, tweede lid, voor zover het betreft een individuele wijziging, wordt gerealiseerd met ingang van 1 juli 2017.  
 
 ### Artikel  10  
 
@@ -461,7 +564,7 @@ Overschrijding van de in dit hoofdstuk gestelde termijnen door de overdragende o
 
 a. partnerpensioen dat is verzekerd op risicobasis, wezenpensioen en arbeidsongeschiktheidspensioen; en  
 
-b. aanspraken op partnerpensioen die achterblijven bij de overdragende uitvoerder.     
+b. aanspraken op partnerpensioen of nettopensioen die achterblijven bij de overdragende uitvoerder.     
 4.  De overdrachtswaarde wordt, in afwijking van het eerste lid, niet berekend op basis van het standaardtarief indien de pensioenaanspraken voortvloeien uit: 
 
 a. een kapitaalovereenkomst of kapitaalregeling;  
@@ -593,13 +696,13 @@ c. de aard van de nadere gegevens of inlichtingen.
 
 1.  De betrouwbaarheid van een persoon als bedoeld in artikel 31 staat niet buiten twijfel indien: 
 
-a. deze onherroepelijk veroordeeld is ter zake van een misdrijf, genoemd in onderdeel 1 van bijlage A, waarbij sinds het onherroepelijk worden van de uitspraak minder dan acht jaren zijn verstreken;  
+a. deze onherroepelijk veroordeeld is ter zake van een misdrijf, genoemd in onderdeel 1 van de bijlage bij dit besluit, waarbij sinds het onherroepelijk worden van de uitspraak minder dan acht jaren zijn verstreken;  
 
-b. deze veroordeeld is ter zake van een misdrijf, genoemd in onderdeel 1 van bijlage A, waarbij de uitspraak nog niet onherroepelijk is of waarbij sinds het onherroepelijk worden van de uitspraak acht of meer jaren zijn verstreken;  
+b. deze veroordeeld is ter zake van een misdrijf, genoemd in onderdeel 1 van de bijlage bij dit besluit, waarbij de uitspraak nog niet onherroepelijk is of waarbij sinds het onherroepelijk worden van de uitspraak acht of meer jaren zijn verstreken;  
 
 c. deze veroordeeld is ter zake van een overtreding van artikel 69 van de Algemene wet inzake de rijksbelastingen of artikel 65 van de Invorderingswet 1990, waarbij betrokkene veroordeeld is tot een gevangenisstraf of boete; of  
 
-d. deze een vergrijpboete van meer dan € 62.500 opgelegd heeft gekregen ter zake van een feit, genoemd in onderdeel 5 van bijlage A, en het besluit waarbij de vergrijpboete is opgelegd onherroepelijk is geworden of waarbij ten minste de rechter in eerste aanleg uitspraak heeft gedaan.     
+d. deze een vergrijpboete van meer dan € 62.500 opgelegd heeft gekregen ter zake van een feit, genoemd in onderdeel 5 van de bijlage bij dit besluit, en het besluit waarbij de vergrijpboete is opgelegd onherroepelijk is geworden of waarbij ten minste de rechter in eerste aanleg uitspraak heeft gedaan.     
 2.  De Nederlandsche Bank kan op grond van de omstandigheden of belangen, genoemd in artikel 35, afwijken van het eerste lid, ten aanzien van de onderdelen b, c en d. 
 
 ### Artikel  35  
@@ -663,7 +766,7 @@ f. geldt een tijdelijke aanstelling overeenkomstig artikel 349a, tweede lid, of 
 
 ####Toedeling taken toezichthouders
 
-Bepalingen ter uitvoering van de artikelen 108a, tweede lid en 151, zevende lid, van de Pensioenwet en de artikelen 113a, tweede lid, en 146, zevende lid, van de Wet verplichte beroepspensioenregeling  
+Bepalingen ter uitvoering van de artikelen 114, tweede lid, 151, zevende lid en 204, vierde lid, van de Pensioenwet  en de artikelen 113a, tweede lid, 146, zevende lid en 198, vierde lid, van de Wet verplichte beroepspensioenregeling  
 
 ### Artikel  35b  
 
@@ -680,7 +783,7 @@ b. de schriftelijk vastgelegde afspraken over de besteding van het vermogen van 
 
 ####Toedeling van taken
 
-1.  De Stichting Autoriteit Financiële Markten houdt toezicht op de naleving van de regels, gesteld bij of krachtens de artikelen 21, eerste lid, tweede lid, tweede zin, vierde lid, 29, eerste lid, 29, zevende lid, voor zover het betreft de overeenkomstige toepassing van artikel 29, eerste lid, 33, voor zover het betreft communicatie en de klachtenregeling van verzekeraars en premiepensioeninstellingen, 36, 38 tot en met 47, 48, met uitzondering van de berekeningen ten behoeve van de kwalitatieve en beeldende maatstaf, 49 tot en met 51, 52, tweede tot en met zesde lid, 66, derde en vierde lid, 67, tweede lid, 68, tweede lid, 71, derde lid, voor zover het de opgave van pensioenaanspraken betreft, 74, tweede en derde lid, 76, derde en negende lid, voor zover het de opgave van pensioenaanspraken betreft, 83, tweede, lid, onderdeel a, voor zover het betrekking heeft op het informeren van de daarin genoemde personen en 134, tweede lid van de Pensioenwet.   
+1.  De Stichting Autoriteit Financiële Markten houdt toezicht op de naleving van de regels, gesteld bij of krachtens de artikelen 21, eerste lid, tweede lid, tweede zin, vierde lid, 29, eerste lid, 29, zevende lid, voor zover het betreft de overeenkomstige toepassing van artikel 29, eerste lid, 33, voor zover het betreft communicatie en de klachtenregeling van verzekeraars en premiepensioeninstellingen, 36, 38 tot en met 51, met uitzondering van de berekeningen ten behoeve van de weergave op basis van scenario’s, 52, tweede tot en met zesde lid, 66, derde en vierde lid, 67, tweede lid, 68, tweede lid, 71, derde lid, voor zover het de opgave van pensioenaanspraken betreft, 74, tweede en derde lid, 76, derde en negende lid, voor zover het de opgave van pensioenaanspraken betreft, 83, tweede, lid, onderdeel a, voor zover het betrekking heeft op het informeren van de daarin genoemde personen en 134, tweede lid van de Pensioenwet.   
 2.  De Stichting Autoriteit Financiële Markten houdt toezicht op de naleving van de regels, gesteld bij of krachtens de artikelen 38, 39, eerste lid, 39, zevende lid, voor zover het betreft de overeenkomstige toepassing van artikel 39, eerste lid, 42, voor zover het betreft communicatie en de klachtenregeling van verzekeraars en premiepensioeninstellingen, 44, 48 tot en met 58, 59, met uitzondering van de berekeningen ten behoeve van de kwalitatieve en beeldende maatstaf, 60 tot en met 62, 63, tweede tot en met zesde lid, 78, derde en vierde lid, 79, tweede lid, 80, tweede lid, 82, derde lid, voor zover het de opgave van pensioenaanspraken betreft, 85, tweede en derde lid, 91, tweede, lid, onderdeel a, voor zover het betrekking heeft op het informeren van de daarin genoemde personen en 129, tweede lid, van de Wet verplichte beroepspensioenregeling.   
 3.  De Nederlandsche Bank houdt toezicht op de naleving van de regels, gesteld bij of krachtens de Pensioenwet en de Wet verplichte beroepspensioenregeling, met uitzondering van de regels genoemd in het eerste en tweede lid.  
 
@@ -720,6 +823,35 @@ d. het overnemen van elkaars oordeel.
 2.  De toezichthouder beschikt over een beleid met betrekking tot het vervullen van nevenbetrekkingen. Dit beleid richt zich op het voorkomen van nevenbetrekkingen die ongewenst zijn met het oog op een goede vervulling van de functie of de handhaving van de onafhankelijkheid.   
 3.  De toezichthouder besteedt de oordeelsvorming en de toepassing van handhavinginstrumenten niet uit.   
 4.  De toezichthouder beschikt over een beschrijving van de administratieve organisatie en over een systeem van periodieke interne controle.  
+
+### Artikel  40a  
+
+####Publicatie gegevens
+
+1.  De gegevens van fondsen die door de Nederlandsche Bank op grond van artikel 204, derde lid, van de Pensioenwet dan wel artikel 198, derde lid, van de Wet verplichte beroepspensioenregeling, kunnen worden gepubliceerd, hebben betrekking op 
+
+a. de beleidsdekkingsgraad;  
+
+b. de reële dekkingsgraad;  
+
+c. het vereist eigen vermogen;  
+
+d. het belegd vermogen;  
+
+e. kwartaalrendementen;  
+
+f. de premie;  
+
+g. het aantal deelnemers, gewezen deelnemers en pensioengerechtigden;  
+
+h. de toeslagverlening;  
+
+i. de vermindering van pensioenaanspraken en pensioenrechten; en  
+
+j. de uitvoeringskosten, bedoeld in artikel 9b, tweede lid, onderdeel a.     
+2.  De publicatie van de gegevens, bedoeld in het eerste lid, geschiedt niet eerder dan nadat tien werkdagen zijn verstreken na de dag waarop aan het fonds het besluit tot publicatie bekend is gemaakt.   
+3.  Bij periodieke publicatie van de gegevens, bedoeld in het eerste lid, wordt jaarlijks aan het fonds, voorafgaand aan de eerste publicatie in dat jaar, het besluit tot publicatie bekend gemaakt, waarbij vermeld wordt op welke data de gegevens in dat jaar gepubliceerd zullen worden.   
+4.  Indien wordt verzocht om een voorlopige voorziening als bedoeld in artikel 8:81 van de Algemene wet bestuursrecht, wordt de publicatie opgeschort totdat de voorzieningenrechter een uitspraak heeft gedaan.  
 
 ### Hoofdstuk  9  
 
@@ -842,7 +974,6 @@ De door de toezichthouder met toepassing van artikel 48 vast te stellen bestuurl
 | 87  | 2  |
 | 91  | 1  |
 | 94, tweede lid  | 1  |
-| 95  | 2  |
 | 96  | 1  |
 | 98  | 1  |
 | 100  | 1  |
@@ -941,7 +1072,6 @@ De door de toezichthouder met toepassing van artikel 48 vast te stellen bestuurl
 | 95  | 2  |
 | 99  | 1  |
 | 102, tweede lid  | 1  |
-| 103  | 2  |
 | 104  | 1  |
 | 105  | 1  |
 | 106  | 1  |
@@ -1042,6 +1172,34 @@ De door de toezichthouder met toepassing van artikel 48 vast te stellen bestuurl
 ####Overgangsrecht in verband met artikel 35a 
 
 Artikel 35a is niet van toepassing op benoemingen tot bestuurder of lid van de raad van toezicht van een fonds voor 1 juli 2014. 
+
+### Artikel  52b  
+
+####Overgangsrecht artikel 9, tweede lid 
+
+Treedt in werking per 01-07-2016 
+
+Wijzigt dit besluit.
+
+### Artikel  52c  
+
+####Overgangsrecht artikel 4 
+
+Treedt in werking per 01-01-2016 
+
+1.  Tot 1 juli 2016 blijft artikel 4, zoals dat luidde voor 1 januari 2016, van toepassing indien informatie over toeslagverlening wordt verstrekt op grond van de artikelen 21 en 45 van de Pensioenwet en 48 en 56 van de Wet verplichte beroepspensioenregeling.   
+2.  Tot 1 januari 2017 blijft artikel 4, zoals dat luidde voor 1 januari 2016, van toepassing indien informatie over toeslagverlening wordt verstrekt op grond van de artikelen 40, 42 en 44 van de Pensioenwet en 51, 53 en 55 van de Wet verplichte beroepspensioenregeling.   
+3.  Dit artikel vervalt met ingang van 1 januari 2017.  
+
+### Artikel  52d  
+
+####Overgangsrecht reglementair te bereiken pensioenaanspraken
+
+Treedt in werking per 01-01-2016 
+
+1.  Tussen 1 januari 2016 en 1 juli 2016 verstrekt de pensioenuitvoerder op verzoek van de deelnemer een opgave van de reglementair te bereiken pensioenaanspraken. Artikel 5, tweede en derde lid, zoals dat luidde voor 1 januari 2016, is daarbij van toepassing.   
+2.  Tot 1 juli 2016 blijft artikel 5, tweede lid, zoals dat luidde voor 1 januari 2016, van toepassing indien informatie over reglementair te bereiken pensioenaanspraken wordt verstrekt op grond van artikel 8, tweede lid.   
+3.  Dit artikel vervalt met ingang van 1 juli 2016.  
 
 ###Artikel 53 
 

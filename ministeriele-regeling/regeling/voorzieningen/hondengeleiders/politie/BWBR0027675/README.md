@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 mei 2010, nr. DCB/CZW/WVOB 2010-0000225178, houdende bepalingen betreffende voorzieningen voor hondengeleiders bij de politie (Regeling voorzieningen hondengeleiders politie)
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op de [artikelen 21](../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) en [48 van het Besluit bezoldiging politie](../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md);
+Gelet op de artikelen 21 en 48 van het Besluit bezoldiging politie;
 Besluit:     
 ### Paragraaf  1  
 
@@ -13,17 +13,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a.  *geleider:* ambtenaar als bedoeld in [artikel 1, onder e, van de Regeling politiehonden](../../../../../../ministeriele-regeling/regeling/politiehonden/BWBR0019728/README.md) die de diensthond op het woonadres van de geleider verzorgt;  
+a.  *geleider:* ambtenaar als bedoeld in artikel 1, onder e, van de Regeling politiehonden die de diensthond op het woonadres van de geleider verzorgt;  
 
 b. *diensthond:*
 
-– AOE-hond als bedoeld in [artikel 1, onder c, van de Regeling politiehonden](../../../../../../ministeriele-regeling/regeling/politiehonden/BWBR0019728/README.md);  
+– AOE-hond als bedoeld in artikel 1, onder c, van de Regeling politiehonden;  
 
-– politiespeurhond als bedoeld in [artikel 1, onder h, van de Regeling politiehonden](../../../../../../ministeriele-regeling/regeling/politiehonden/BWBR0019728/README.md);  
+– politiespeurhond als bedoeld in artikel 1, onder h, van de Regeling politiehonden;  
 
-– politiesurveillancehond als bedoeld in [artikel 1, onder i, van de Regeling politiehonden](../../../../../../ministeriele-regeling/regeling/politiehonden/BWBR0019728/README.md);    
+– politiesurveillancehond als bedoeld in artikel 1, onder i, van de Regeling politiehonden;    
 
-c.  *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1, lid 1 onderdeel l, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md)   
+c.  *bevoegd gezag:* bevoegd gezag als bedoeld in artikel 1, lid 1 onderdeel l, van het Besluit algemene rechtspositie politie   
 
 ### Paragraaf  2  
 
@@ -31,19 +31,19 @@ c.  *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1, lid 1 onderdeel l,
 
 ### Artikel  2  
 
-Voor de kosten ten behoeve van het verzorgen van een diensthond heeft de geleider aanspraak op een maandelijkse tegemoetkoming van € 106,38 per diensthond. 
+Voor de kosten ten behoeve van het verzorgen van een diensthond heeft de geleider aanspraak op een maandelijkse tegemoetkoming van € 106,98 per diensthond. 
 
 ### Artikel  3  
 
 1.  Voor de permanente verantwoordelijkheid voor de diensthond heeft de geleider aanspraak op een compensatie in tijd of in geld.   
 2.  Het bevoegd gezag bepaalt of een geleider aanspraak heeft op een compensatie in tijd of in geld.   
 3.  De compensatie in tijd bedraagt achttien uren per maand. De uren worden door het bevoegd gezag ingeroosterd.   
-4.  De compensatie in geld bedraagt € 255,30 per maand.   
+4.  De compensatie in geld bedraagt € 256,75 per maand.   
 5.  De compensatie heeft geen betrekking op de noodzakelijke verzorging van de diensthond binnen werktijd.  
 
 ### Artikel  4  
 
-De tegemoetkoming, bedoeld in artikel 2, en de compensatie, bedoeld in artikel 3, vierde lid, worden jaarlijks gewijzigd overeenkomstig de door het Centraal Planbureau in het Centraal Economisch Plan gepubliceerde geschoonde consumentenprijsindex. 
+De tegemoetkoming, bedoeld in artikel 2, en de compensatie, bedoeld in artikel 3, vierde lid, worden jaarlijks gewijzigd overeenkomstig de door het Centraal Planbureau in het Centraal Economisch Plan gepubliceerde afgeleide consumentenprijsindex. 
 
 ### Artikel  5  
 
@@ -53,7 +53,7 @@ a. dierenartskosten en door een dierenarts voorgeschreven medicatie en voeding;
 
 b. hondenbelasting, voor zover diensthonden daarvoor niet zijn vrijgesteld in de gemeente waar de geleider woonachtig is;  
 
-c. de kosten voor keuring en herkeuring als bedoeld in de [Regeling politiehonden](../../../../../../ministeriele-regeling/regeling/politiehonden/BWBR0019728/README.md);  
+c. de kosten voor keuring en herkeuring als bedoeld in de Regeling politiehonden;  
 
 d. de kosten voor het onderbrengen van een diensthond bij een dierenpension;  
 
@@ -71,9 +71,9 @@ a. tijdens vakantie de aan hem toegewezen diensthond niet verzorgt;
 
 b. tijdens ziekte de aan hem toegewezen diensthond niet verzorgt;  
 
-c. als gevolg van plichtsverzuim als bedoeld in [artikel 76 van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), niet langer een diensthond toegewezen krijgt;  
+c. als gevolg van plichtsverzuim als bedoeld in artikel 76 van het Besluit algemene rechtspositie politie, niet langer een diensthond toegewezen krijgt;  
 
-d. een andere functie of andere taken als bedoeld in [artikel 64 van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) verricht en niet langer een diensthond verzorgt.     
+d. een andere functie of andere taken als bedoeld in artikel 64 van het Besluit algemene rechtspositie politie verricht en niet langer een diensthond verzorgt.     
 2.  De aanspraak op de afbouwvoorziening, bedoeld in artikel 6, vervalt indien de geleider de diensthond niet meer verzorgt.  
 
 ### Paragraaf  3  
@@ -104,7 +104,7 @@ Het bevoegd gezag voorziet in een geschikte kennel voor de diensthond op het woo
 
 ### Artikel  12  
 
-De uitrusting, bedoeld in de artikelen 9, derde lid en 10, en de kennel, bedoeld in artikel 11, blijven eigendom van de politie, bedoeld in [artikel 1, onder b, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md). Indien de geleider zijn functie niet meer vervult, kan het bevoegd gezag bepalen dat de kennel niet wordt teruggevorderd. 
+De uitrusting, bedoeld in de artikelen 9, derde lid en 10, en de kennel, bedoeld in artikel 11, blijven eigendom van de politie, bedoeld in artikel 1, onder b, van de Politiewet 2012. Indien de geleider zijn functie niet meer vervult, kan het bevoegd gezag bepalen dat de kennel niet wordt teruggevorderd. 
 
 ### Paragraaf  5  
 

@@ -10,27 +10,22 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de communicatie over
 Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt de Pensioenwet. 
 
 ### Artikel  II  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt de Wet verplichte beroepspensioenregeling. 
 
 ### Artikel  IIA  
-Treedt in werking op een nader te bepalen tijdstip 
 
 In afwijking van artikel I, onderdelen J, K en O en artikel II, onderdelen I, J en N, geldt de verplichting om de opgaven, indicaties en gegevens, bedoeld in de artikelen 45, 46 en 51 van de Pensioenwet en de artikelen 56, 57 en 62 van de Wet verplichte beroepspensioenregeling, weer te geven op basis van een pessimistisch scenario, een verwacht scenario en een optimistisch scenario, niet tot een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  III  
-Treedt in werking op een nader te bepalen tijdstip 
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  IV  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Deze wet wordt aangehaald als: Wet pensioencommunicatie. 
 

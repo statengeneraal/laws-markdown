@@ -131,7 +131,7 @@ e. de programmadirectie Beter Benutten;
 f. de unit Strategie; en  
 
 g. het stafbureau directoraat-generaal Bereikbaarheid.     
-3.  De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d, staan onder leiding van een directeur. Het dienstonderdeel, genoemd in het tweede lid, onder e, staat onder leiding van een programmadirecteur. De dienstonderdelen, genoemd in het tweede lid, onder f en g, staan onder leiding van een afdelingshoofd. De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d bestaan uit afdelingen die onder leiding staan van een afdelingshoofd.   
+3.  De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d, staan onder leiding van een directeur. Onder het dienstonderdeel, genoemd in het tweede lid, onder c, ressorteert tevens de programmadirecteur European Rail Traffic Management System. Het dienstonderdeel, genoemd in het tweede lid, onder e, staat onder leiding van een programmadirecteur. De dienstonderdelen, genoemd in het tweede lid, onder f en g, staan onder leiding van een afdelingshoofd. De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d bestaan uit afdelingen die onder leiding staan van een afdelingshoofd.   
 4.  Bij afwezigheid of verhindering van de directeur-generaal Bereikbaarheid zijn de directeuren-generaal Milieu en Internationaal en Ruimte en Water, bedoeld in de artikelen 5 en 6, en de directeuren en de programmadirecteur bevoegd om als plaatsvervanger op te treden.   
 5.  Bij afwezigheid of verhindering van een directeur of de programmadirecteur zijn de overige directeuren, de programmadirecteur en de afdelingshoofden binnen de directie bevoegd om als plaatsvervanger op te treden.   
 6.  Bij afwezigheid of verhindering van een afdelingshoofd binnen een directie zijn de overige afdelingshoofden binnen de directie bevoegd om als plaatsvervanger op te treden.   
@@ -207,13 +207,13 @@ e. de programmadirectie Eenvoudig Beter.
 7.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de directeur-generaal Milieu en Internationaal.   
 8.  Het directoraat-generaal Milieu en Internationaal heeft tot doel de zorg voor een gezonde en veilige leefomgeving alsmede het beheer van schaarse hulpbronnen en milieuruimte. Daarmee hebben het directoraat-generaal Milieu en Internationaal en zijn dienstonderdelen de volgende taken: 
 
-a. de directie Duurzaamheid: het ontwikkelen en implementeren van beleid met betrekking tot: 
+a. de directie Duurzaamheid: het ontwikkelen en implementeren van beleid met betrekking tot de transitie naar een circulaire economie door: 
 
-i. duurzaamheid, waaronder duurzame productketens en duurzame landbouw;  
+i. het vitaal houden van het natuurlijk kapitaal;  
 
-ii. duurzaam afval- en grondstoffenbeheer; en  
+ii. het verduurzamen van afval- en grondstoffenbeleid; en  
 
-iii. biodiversiteit en ecosysteemdiensten, waaronder het behoud en gebruik van natuurlijke hulpbronnen;    
+iii. het versterken van een op de transitie gericht instrumentarium;    
 
 b. de directie Internationaal: 
 
@@ -235,17 +235,23 @@ iii. luchtemissies industrie en verhandelbare emissierechten; en
 
 iv. verkeersemissies en brandstoffen;    
 
-d. de directie Veiligheid en Risico’s: het ontwikkelen en implementeren van beleid met betrekking tot veiligheid en risico’s op het gebied van: 
+d. de directie Veiligheid en Risico’s: 
 
-i. vervoer van gevaarlijke stoffen via weg, water, spoor en buisleidingen;  
+1°. het ontwikkelen en implementeren van beleid met betrekking tot omgevingsveiligheid en milieurisico’s op het gebied van: 
+
+i. vervoer van gevaarlijke stoffen via weg, water, spoor en buisleidingen en door tunnels;  
 
 ii. gevaarlijke stoffen en nieuwe risico’s, waaronder chemische stoffen, nanodeeltjes, genetisch gemodificeerde organismen, elektromagnetische velden en asbest;  
 
-iii. gevaarlijke stoffen in bedrijven en inrichtingen en de omgeving daarvan;  
+iii. gevaarlijke stoffen in risicovolle bedrijven en de omgeving daarvan; en  
 
-iv. nationale veiligheid en bescherming van de vitale infrastructuur; en  
+iv. biociden en gewasbeschermingsmiddelen buiten de landbouw; en    
 
-v. biociden en gewasbeschermingsmiddelen; en   
+2°. het coördineren van activiteiten met betrekking tot de relatie tussen milieubeleid en: 
+
+i. nationale veiligheid; en  
+
+ii. nucleaire veiligheid en stralingsbescherming; en      
 
 e. de programmadirectie Eenvoudig Beter: het ontwikkelen en implementeren van beleid met betrekking tot een eenvoudiger en beter omgevingsrecht.    
 
@@ -265,10 +271,10 @@ c. de directie Algemeen Waterbeleid en Veiligheid;
 d. de directie Water en Bodem; en  
 
 e. het stafbureau directoraat-generaal Ruimte en Water.     
-3.  De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d, staan onder leiding van een directeur. Het dienstonderdeel, genoemd in het tweede lid, onder e, staat onder leiding van een afdelingshoofd. De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d, bestaan uit afdelingen die onder leiding staan van een afdelingshoofd. Onder het dienstonderdeel, genoemd in het tweede lid, onder a, ressorteert tevens een programmamanager.   
+3.  De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d, staan onder leiding van een directeur. Het dienstonderdeel, genoemd in het tweede lid, onder e, staat onder leiding van een afdelingshoofd. De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d, bestaan uit afdelingen die onder leiding staan van een afdelingshoofd. Onder het dienstonderdeel, genoemd in het tweede lid, onder a, ressorteren tevens programmamanagers.   
 4.  Bij afwezigheid of verhindering van de directeur-generaal Ruimte en Water zijn de directeuren-generaal Bereikbaarheid en Milieu en Internationaal, bedoeld in de artikelen 4 en 5, en de directeuren bevoegd om als plaatsvervanger op te treden.   
-5.  Bij afwezigheid van een directeur zijn de overige directeuren, de afdelingshoofden en de programmamanager binnen de directie bevoegd om als plaatsvervanger op te treden.   
-6.  Bij afwezigheid of verhindering van een afdelingshoofd of de programmamanager binnen een directie zijn de overige afdelingshoofden of de programmamanager binnen de directie bevoegd om als plaatsvervanger op te treden.   
+5.  Bij afwezigheid van een directeur zijn de overige directeuren, de afdelingshoofden en de programmamanagers binnen de directie bevoegd om als plaatsvervanger op te treden.   
+6.  Bij afwezigheid of verhindering van een afdelingshoofd of programmamanager binnen een directie zijn de overige afdelingshoofden of programmamanagers binnen de directie bevoegd om als plaatsvervanger op te treden.   
 7.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de directeur-generaal Ruimte en Water.   
 8.  Het directoraat-generaal Ruimte en Water heeft tot doel de verdere ontwikkeling van Nederland als een veilige, leefbare, bereikbare en concurrerende delta. Daarmee hebben directoraat-generaal Ruimte en Water en zijn dienstonderdelen de volgende taken: 
 
@@ -288,7 +294,7 @@ vi. ruimtelijk ontwerp en geo-analyse in ruimtelijke plannen, programma’s en p
 
 b. de directie Gebieden en Projecten: het ontwikkelen en implementeren van beleid met betrekking tot: 
 
-i. rijkswateren, gebieden van nationaal belang en de gebiedsgerichte deelprogramma’s van het Deltaprogramma IJsselmeergebied en Rijnmond-Drechtsteden;  
+i. rijkswateren en gebieden van nationaal belang;  
 
 ii. waterprojecten en ruimteprojecten van nationaal belang alsmede instrumenten voor ruimte en water ter ondersteuning van gebiedsgerichte projecten;  
 
@@ -298,7 +304,7 @@ iv. de ruimtelijke en economische ontwikkeling van de mainport Schiphol in relat
 
 c. de directie Algemeen Waterbeleid en Veiligheid: het ontwikkelen en implementeren van beleid met betrekking tot: 
 
-i. waterveiligheid en de gebiedsgerichte deelprogramma’s van het Deltaprogramma Rivieren en Kust;  
+i. waterveiligheid;  
 
 ii. bestuur en instrumentatie van het waterbeheer en de coördinatie van het opdrachtgeverschap van het Deltaprogramma; en  
 
@@ -308,9 +314,11 @@ d. de directie Water en Bodem: het ontwikkelen en implementeren van beleid met b
 
 i. het gebruik van de ondergrond, waaronder de infrastructuur van buisleidingen, alsmede het instrumentarium van milieueffectrapportage en de ruimtelijke knelpunten voor de energievoorziening;  
 
-ii. waterkwaliteit en waterkwantiteit en zoetwater; en  
+ii. waterkwaliteit en waterkwantiteit en zoetwater;  
 
-iii. het instrumentarium van bodembeheer, drinkwatervoorziening en rioleringsbeheer; en    
+iii. het instrumentarium van bodembeheer, drinkwatervoorziening en rioleringsbeheer; en  
+
+iv. de uitvoering van de internationale wateraanpak; en   
 
 e. het stafbureau directoraat-generaal Ruimte en Water: het ondersteunen van het directoraat-generaal Ruimte en Water.    
 
@@ -421,7 +429,7 @@ a. de directie Concern Informatievoorziening;
 
 b. de directie Financiën en Inkoop; en  
 
-c. de directie Human Resource Management.     
+c. de directie Human Resources Management en Facilitair Management.     
 3.  De dienstonderdelen, genoemd in het tweede lid, staan onder leiding van een directeur en bestaan uit afdelingen die onder leiding staan van een afdelingshoofd.   
 4.  Bij afwezigheid of verhindering van de algemeen directeur Integrale Bedrijfsvoering IenM zijn de directeuren bevoegd om als plaatsvervanger op te treden.   
 5.  Bij afwezigheid of verhindering van een directeur zijn de overige directeuren en de afdelingshoofden binnen de directie bevoegd om als plaatsvervanger op te treden.   
@@ -437,7 +445,7 @@ i. financiën en inkoop, waaronder het betaalproces, buitenlandse dienstreizen, 
 
 ii. documentair informatiemanagement; en    
 
-c. de directie Human Resource Management: het verzorgen van dienstverlening en advies op het gebied van: 
+c. de directie Human Resources Management en Facilitair Management: het verzorgen van dienstverlening en advies op het gebied van: 
 
 i. human resource management, waaronder de personeels- en salarisadministratie; en  
 
@@ -449,7 +457,7 @@ ii. facilitair management en huisvesting.
 
 1.  De directie Kennis, Innovatie en Strategie staat onder leiding van de directeur Kennis, Innovatie en Strategie.   
 2.  Plaatsvervanging geschiedt overeenkomstig daartoe strekkende instructies van de directeur Kennis, Innovatie en Strategie.   
-3.  De directie Kennis, Innovatie en Strategie heeft tot taak de maatschappelijke prestaties van het ministerie te verbeteren door het gebruiken van kennis, het benutten van innovaties en het bepalen van een gezamenlijke strategie.  
+3.  De directie Kennis, Innovatie en Strategie heeft tot taak de maatschappelijke prestaties van het ministerie te verbeteren door het benutten van kennis, het stimuleren van innovaties en het ontwikkelen van een gezamenlijke strategie.  
 
 ### Artikel  16  
 
@@ -498,10 +506,10 @@ e. het ontwikkelen van beleidsvarianten en scenario’s.
 ####: Koninklijk Nederlands Meteorologisch Instituut
 
 1.  Het Koninklijk Nederlands Meteorologisch Instituut (KNMI) staat overeenkomstig de Wet op het Koninklijk Nederlands Meteorologisch Instituut onder leiding van de hoofddirecteur KNMI.   
-2.  Onder de hoofddirecteur KNMI ressorteren directeuren.   
+2.  Onder de hoofddirecteur KNMI ressorteert de directeur KNMI.   
 3.  Het KNMI bestaat uit dienstonderdelen die onder leiding staan van een hoofd.   
-4.  Bij afwezigheid of verhindering van de hoofddirecteur KNMI zijn de directeuren en de hoofden bevoegd om als plaatsvervanger op te treden.   
-5.  Bij afwezigheid of verhindering van een directeur zijn de overige directeur en de hoofden bevoegd om als plaatsvervanger op te treden.   
+4.  Bij afwezigheid of verhindering van de hoofddirecteur KNMI zijn de directeur KNMI en de hoofden bevoegd om als plaatsvervanger op te treden.   
+5.  Bij afwezigheid of verhindering van de directeur KNMI zijn de hoofden bevoegd om als plaatsvervanger op te treden.   
 6.  Bij afwezigheid of verhindering van een hoofd zijn de overige hoofden bevoegd om als plaatsvervanger op te treden.   
 7.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de hoofddirecteur KNMI.   
 8.  Het KNMI heeft de taken, genoemd in de Wet op het Koninklijk Nederlands Meteorologisch Instituut.  
@@ -520,7 +528,7 @@ a. het bestuur van de Nederlandse emissieautoriteit, bedoeld in artikel 2.1 van 
 
 b. de uitvoering van de handel in emissierechten, bedoeld in hoofdstuk 16 van de Wet milieubeheer;  
 
-c. de uitvoering van de regelgeving hernieuwbare energie vervoer;  
+c. de uitvoering van de hernieuwbare energie vervoer, bedoeld in titel 9.7 van de Wet milieubeheer;  
 
 d. de uitvoering van de regelgeving brandstoffen luchtverontreiniging; en  
 

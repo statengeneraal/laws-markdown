@@ -1435,48 +1435,6 @@ i. voor personeelsleden die bij de uitoefening van hun functie kennis nemen van 
 4.  Het bevoegd gezag draagt zorg dat afschriften van de bewijsstukken waarmee de bekwaamheid wordt aangetoond, de geschiktheidsverklaringen, van de verklaringen omtrent het gedrag, alsmede van de akten van benoeming van het aan de school verbonden personeel worden bewaard.    
 5.  Het tweede lid, aanhef en onder i, en het vierde lid, zijn van overeenkomstige toepassing op personeel dat is tewerkgesteld zonder benoeming.  
 
-### Artikel  63  
-
-####Beroepsrecht personeel
-
-1.  Het bevoegd gezag is aangesloten bij een commissie van beroep. Het personeel kan bij die commissie beroep instellen tegen een beslissing van het bevoegd gezag inhoudende:  
-
-a. een disciplinaire maatregel;   
-
-b. schorsing;   
-
-c. het direct of indirect onthouden van promotie;   
-
-d. ontslag anders dan op eigen verzoek, voordat de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, is bereikt;   
-
-e. de beslissing van het bevoegd gezag ten aanzien van een personeelslid op basis waarvan op termijn opheffing van zijn betrekking kan plaatsvinden;  
-
-f. de beëindiging van een verlengd tijdelijk dienstverband;   
-
-g. de aanwijzing als personeelslid boven de reguliere formatie voortvloeiend uit een algemeen verbindend voorschrift welke aanwijzing op termijn kan leiden tot ontslag of beëindiging van een verlengd tijdelijk dienstverband;  
-
-h. de aanwijzing van een andere school of andere scholen waaraan een personeelslid werkzaamheden zal verrichten.     
-2. Zolang een of meer nevenvestigingen als bedoeld in het tweede lid van artikel 89 aan een instelling zijn verbonden, wordt met betrekking tot die instelling in het eerste lid, onder i, voor «een andere school of andere scholen» gelezen «een andere school, instelling, hoofdvestiging of nevenvestiging, dan wel andere scholen, instellingen, hoofdvestigingen of nevenvestigingen». 
-3.  Een beslissing als bedoeld in het eerste lid, aanhef, wordt schriftelijk aan de betrokkene medegedeeld. Daarbij wordt tevens vermeld de beroepstermijn en het adres van de commissie waar het beroep kan worden ingesteld.    
-4.  Het bevoegd gezag onderwerpt zich aan de uitspraak van de commissie.   
-
-### Artikel  64  
-
-####Beroepstermijn
-
-1.  Het beroep bedoeld in artikel 63, wordt schriftelijk ingesteld binnen 6 weken, nadat de beslissing aan betrokkene is medegedeeld. Bij overschrijding van deze termijn ten gevolge van omstandigheden die de betrokkene niet kunnen worden verweten, laat de commissie niet-ontvankelijkverklaring op die grond achterwege.    
-2.  Tijdens de behandeling door de commissie van beroep loopt geen verjaring met betrekking tot rechtsvorderingen ter zake van beslissingen die aan het oordeel van de commissie zijn onderworpen.   
-
-### Artikel  65  
-
-####Commissie van beroep personeel
-
-1.  Een commissie van beroep strekt haar werkzaamheden uit over ten minste 50 bijzondere scholen. Onze minister kan dit aantal lager stellen.    
-2.  Tot scholen bedoeld in het eerste lid, kunnen ook scholen voor basisonderwijs en scholen voor voortgezet onderwijs behoren.    
-3.  De commissie bestaat uit 5 leden en 5 plaatsvervangende leden, waarvan 2 leden en 2 plaatsvervangende leden worden gekozen door het bevoegd gezag en 2 leden en 2 plaatsvervangende leden door het personeel van de aangesloten scholen. Deze 4 leden kiezen het vijfde lid, tevens voorzitter, en diens plaatsvervanger.    
-4.  De leden en plaatsvervangende leden mogen niet behoren tot het bevoegd gezag of het personeel van een aangesloten school of tot de inspectie van het onderwijs.    
-5.  Bij algemene maatregel van bestuur worden nadere voorschriften gegeven omtrent de samenstelling en de werkwijze van de commissie van beroep.   
-
 ### Titel  III  
 
 ####Overige bepalingen met betrekking tot het uit de openbare kassen bekostigd onderwijs
@@ -1591,10 +1549,10 @@ d. wordt gefinancierd met behulp van bijdragen van de bevoegde gezagsorganen waa
 
 e. Onze minister heeft medegedeeld als rechtspersoon in de zin van dit artikel werkzaam te willen zijn,    zijn van toepassing de in artikel 33 bedoelde voorschriften en regels.   
 2.  Onder bevoegd gezag en bevoegde gezagsorganen in het eerste lid onderdeel a wordt mede verstaan burgemeester en wethouders.   
-3.  Het bestuur van de rechtspersoon is aangesloten bij een commissie van beroep als bedoeld in artikel 63. De leden en plaatsvervangende leden van een commissie van beroep mogen niet behoren tot het bestuur of het personeel van de rechtspersoon.   
+3.  Vervallen.   
 4.  De in het eerste lid onder a bedoelde bevoegde gezagsorganen delen Onze minister mede dat zij het bestuur vormen van een rechtspersoon in de zin van dit artikel. Voorts verschaffen zij Onze minister en de door hem aangewezen personen desgevraagd alle inlichtingen omtrent de rechtspersoon en zijn activiteiten. De in het eerste lid onder a bedoelde bevoegde gezagsorganen kunnen Onze minister mededelen dat zij erin toestemmen dat de gevraagde inlichtingen rechtstreeks door het bestuur van de rechtspersoon zelf aan Onze minister en de door hem aangewezen personen worden verschaft.   
 5.  Burgemeester en wethouders en het bevoegd gezag dat deel uitmaakt van het bestuur van de rechtspersoon, zijn verplicht op de naleving van de in de voorgaande leden genoemde voorschriften toe te zien.   
-6.  De artikelen 38, 63 en 64 zijn van overeenkomstige toepassing ten aanzien van het personeel van de rechtspersoon met dien verstande dat een commissie als bedoeld in artikel 63 haar werkzaamheden uitstrekt over ten minste vijf rechtspersonen als bedoeld in dit artikel. 
+6.  Artikel 38 is van overeenkomstige toepassing ten aanzien van het personeel van de rechtspersoon. 
 
 ### Titel  IV  
 

@@ -39,7 +39,7 @@ c. een samenwerkingsschool als bedoeld in artikel 53d: het bestuur van de samenw
 
 a. de benoemde rector, directeur, conrector, adjunct-directeur of leraar, en overig personeel benoemd in een andere functie dan het geven van onderwijs, waaronder begrepen de leden van het bestuur van die scholen die zijn benoemd door een raad van toezicht als bedoeld in artikel 24e1, derde lid, voor zover die leden mede zijn benoemd op basis van een arbeidsovereenkomst of een akte van aanstelling;  
 
-b. het onder a bedoelde personeel dat zonder benoeming is tewerkgesteld, tenzij het betreft de toepassing van de artikelen 38a tot en met 39a, 40a, 43a, eerste en tweede lid, 51, eerste tot en met derde lid, 52, 52a, 53, 53b en 96o, voor zover niet anders is bepaald, en de toepassing van daarmee verband houdende wettelijke bepalingen;   «nascholing»: een vorm van scholing, gegeven aan leden van het personeel om hun kennis, inzicht, vaardigheden en beroepshoudingen direct verband houdend met de uitoefening van hun beroep, voortbouwend op de in de initiële opleiding verworven aanvangsbekwaamheid te verdiepen en uit te breiden; «kerndoelen»: de op grond van artikel 11b vastgestelde na te streven inhoudelijke doelstellingen voor het onderwijsprogramma voor de eerste twee leerjaren, bedoeld in artikel 11c, gericht op het verwerven door leerlingen van kennis, inzicht en vaardigheden;  maatschappelijke stage: stage gericht op het verwerven van vaardigheden ten behoeve van het functioneren in de maatschappij, bestaande uit onbezoldigde vrijwilligersactiviteiten, niet zijnde de stage bedoeld in artikel 22, derde lid, onderdeel b;meldingsregister relatief verzuim: meldingsregister relatief verzuim als bedoeld in artikel 24h van de Wet op het onderwijstoezicht;«College voor toetsen en examens»: het College voor toetsen en examens, bedoeld in artikel 2, eerste lid, van de Wet College voor toetsen en examens;«basisregister onderwijs»: het basisregister onderwijs, bedoeld in artikel 24b van de Wet op het onderwijstoezicht;«schoolondersteuningsprofiel»: een beschrijving van de voorzieningen die zijn getroffen voor leerlingen die extra ondersteuning behoeven;«samenwerkingsverband»: een samenwerkingsverband als bedoeld in artikel 17a, tweede lid of een landelijk samenwerkingsverband als bedoeld in artikel 17a, zestiende lid, tenzij het tegendeel blijkt.
+b. het onder a bedoelde personeel dat zonder benoeming is tewerkgesteld, tenzij het betreft de toepassing van de artikelen 38a tot en met 39a, 40a, 43a, eerste en tweede lid, 51, eerste tot en met derde lid, 53b en 96o, voor zover niet anders is bepaald, en de toepassing van daarmee verband houdende wettelijke bepalingen;   «nascholing»: een vorm van scholing, gegeven aan leden van het personeel om hun kennis, inzicht, vaardigheden en beroepshoudingen direct verband houdend met de uitoefening van hun beroep, voortbouwend op de in de initiële opleiding verworven aanvangsbekwaamheid te verdiepen en uit te breiden; «kerndoelen»: de op grond van artikel 11b vastgestelde na te streven inhoudelijke doelstellingen voor het onderwijsprogramma voor de eerste twee leerjaren, bedoeld in artikel 11c, gericht op het verwerven door leerlingen van kennis, inzicht en vaardigheden;  maatschappelijke stage: stage gericht op het verwerven van vaardigheden ten behoeve van het functioneren in de maatschappij, bestaande uit onbezoldigde vrijwilligersactiviteiten, niet zijnde de stage bedoeld in artikel 22, derde lid, onderdeel b;meldingsregister relatief verzuim: meldingsregister relatief verzuim als bedoeld in artikel 24h van de Wet op het onderwijstoezicht;«College voor toetsen en examens»: het College voor toetsen en examens, bedoeld in artikel 2, eerste lid, van de Wet College voor toetsen en examens;«basisregister onderwijs»: het basisregister onderwijs, bedoeld in artikel 24b van de Wet op het onderwijstoezicht;«schoolondersteuningsprofiel»: een beschrijving van de voorzieningen die zijn getroffen voor leerlingen die extra ondersteuning behoeven;«samenwerkingsverband»: een samenwerkingsverband als bedoeld in artikel 17a, tweede lid of een landelijk samenwerkingsverband als bedoeld in artikel 17a, zestiende lid, tenzij het tegendeel blijkt.
 
 ###Artikel 2 
 
@@ -1195,7 +1195,7 @@ d. het aanwijzen van een accountant als bedoeld in artikel 393, eerste lid, van 
 
 e. het jaarlijks afleggen van verantwoording over de uitvoering van de taken en de uitoefening van de bevoegdheden, bedoeld onder a tot en met d, in het jaarverslag.     
 2.  De taken en bevoegdheden van de interne toezichthouder of het interne toezichthoudend orgaan zijn zodanig dat hij een deugdelijk en onafhankelijk intern toezicht kan uitoefenen. Indien sprake is van meer dan een toezichthouder of van een toezichthoudend orgaan is de eerste volzin van overeenkomstige toepassing met betrekking tot de combinatie van de toezichthouders of de samenstelling van het toezichthoudend orgaan.   
-3.  Indien het intern toezicht wordt uitgeoefend door een raad van toezicht, zijn het eerste lid en het tweede lid van overeenkomstige toepassing ten aanzien van de raad van toezicht. Een raad van toezicht is tevens belast met het benoemen, schorsen en ontslaan van de leden van het bestuur, alsmede de toepassing van de artikelen 38a, 39, 39a, 40a, 43a, 51, 52 en de daarmee verband houdende wettelijke bepalingen op leden van het bestuur die mede tot het personeel behoren.   
+3.  Indien het intern toezicht wordt uitgeoefend door een raad van toezicht, zijn het eerste lid en het tweede lid van overeenkomstige toepassing ten aanzien van de raad van toezicht. Een raad van toezicht is tevens belast met het benoemen, schorsen en ontslaan van de leden van het bestuur, alsmede de toepassing van de artikelen 38a, 39, 39a, 40a, 43a, 51 en de daarmee verband houdende wettelijke bepalingen op leden van het bestuur die mede tot het personeel behoren.   
 4.  Dit artikel is van overeenkomstige toepassing op een samenwerkingsverband. 
 
 ###Artikel 24f 
@@ -1913,46 +1913,6 @@ h. de bepaling dat de betrokkene werkzaam zal zijn in algemene dienst van het be
 3.  Het bevoegd gezag draagt zorg dat afschriften van de bewijsstukken waarmee de bekwaamheid wordt aangetoond, van de geschiktheidsverklaringen, van de verklaringen omtrent het gedrag, alsmede van de akten van benoeming van het aan de school verbonden personeel worden bewaard.    
 4.  Het derde lid is van overeenkomstige toepassing op personeel dat is tewerkgesteld zonder benoeming.  
 
-### Artikel  52  
-
-####Beroepsrecht personeel bijzondere scholen 
-
-1.  Het bevoegd gezag van een bijzondere school is aangesloten bij een commissie van beroep. De rector of de directeur, de conrectoren, de adjunct-directeuren, de leden van de centrale directie, de leraren en het overige personeel, bedoeld in artikel 38a, kunnen bij die commissie beroep instellen tegen een beslissing van het bevoegd gezag inhoudende:  
-
-a. een disciplinaire maatregel,   
-
-b. schorsing,   
-
-c. het direct of indirect onthouden van promotie,   
-
-d. het verminderen van de omvang van de betrekking,   
-
-e. ontslag anders dan op eigen verzoek, voordat de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, is bereikt,   
-
-f. de beslissing van het bevoegd gezag ten aanzien van een personeelslid op basis waarvan op termijn vermindering van diens betrekkingsomvang kan plaatsvinden,   
-
-g. de beëindiging van een verlengd tijdelijk dienstverband,   
-
-h. de aanwijzing als personeelslid boven de reguliere formatie voortvloeiend uit een algemeen verbindend voorschrift welke aanwijzing op termijn kan leiden tot ontslag, vermindering van de betrekkingsomvang of beëindiging van een verlengd tijdelijk dienstverband, of   
-
-i. de aanwijzing van een andere school of andere scholen waaraan een personeelslid werkzaamheden zal verrichten.      
-2.  Een beslissing als bedoeld in het eerste lid, aanhef wordt schriftelijk aan de betrokkene medegedeeld. Daarbij wordt tevens vermeld de beroepstermijn en het adres van de commissie waar het beroep kan worden ingesteld.    
-3.  Het bevoegd gezag onderwerpt zich aan de uitspraak van de commissie.   
-
-###Artikel 52a 
-
-####Beroepstermijn 
-
-1. Het beroep, bedoeld in artikel 52, wordt schriftelijk ingesteld binnen zes weken, nadat de beslissing aan betrokkene is medegedeeld. Bij overschrijding van deze termijn ten gevolge van omstandigheden die de betrokkene niet kunnen worden verweten, laat de commissie niet-ontvankelijkverklaring op die grond achterwege. 
-2. Tijdens de behandeling door de commissie van beroep loopt geen verjaring met betrekking tot rechtsvorderingen ter zake van beslissingen die aan het oordeel van de commissie zijn onderworpen. 
-
-###Artikel 53 
-
-1. Een commissie van beroep strekt haar werkkring uit over ten minste twintig bijzondere scholen. Onze minister kan het in de vorige volzin bedoelde aantal scholen lager stellen. 
-2. Zij bestaat uit vijf leden en vijf plaatsvervangende leden, waarvan twee leden en twee plaatsvervangende leden worden gekozen door de schoolbesturen en twee leden en twee plaatsvervangende leden door het personeel van de in het vorige lid bedoelde scholen. Deze vier leden kiezen het vijfde lid, tevens voorzitter, en diens plaatsvervanger. 
-3. De leden en plaatsvervangende leden mogen niet zitting hebben in het schoolbestuur, noch deel uitmaken van het personeel van een school, waarover de commissie haar werkkring uitstrekt. 
-4. Omtrent de verdere samenstelling en de werkwijze van de commissies van beroep worden nadere voorschriften gegeven bij algemene maatregel van bestuur. 
-
 ###Artikel 53a 
 
 ####Bestuurlijke voorschriften bijzonder onderwijs 
@@ -1979,10 +1939,9 @@ d. wordt gefinancierd met behulp van bijdragen van de bevoegde gezagsorganen waa
 
 e. Onze minister heeft medegedeeld als rechtspersoon in de zin van dit artikel werkzaam te willen zijn,    zijn van toepassing de in artikel 38a bedoelde voorschriften en regels. Voor de toepassing van de eerste volzin, onderdeel b, wordt onder «het geven van onderwijs» niet begrepen het geven van leerwegondersteunend onderwijs, bedoeld in artikel 10e.   
 2.  Onder bevoegd gezag en bevoegde gezagsorganen in het eerste lid onderdeel a wordt mede verstaan de gemeenteraad.    
-3.  Het bestuur van de rechtspersoon is aangesloten bij een commissie van beroep als bedoeld in artikel 52. De leden en plaatsvervangende leden van een commissie van beroep mogen niet behoren tot het bestuur of het personeel van de rechtspersoon.    
+3.  Vervallen.   
 4.  De in het eerste lid onder a bedoelde bevoegde gezagsorganen delen Onze minister mede dat zij het bestuur vormen van een rechtspersoon in de zin van dit artikel. Voorts verschaffen zij Onze minister en de door hem aangewezen personen desgevraagd alle inlichtingen omtrent de rechtspersoon en zijn activiteiten. De in het eerste lid onder a bedoelde bevoegde gezagsorganen kunnen Onze minister mededelen dat zij erin toestemmen dat de gevraagde inlichtingen rechtstreeks door het bestuur van de rechtspersoon zelf aan Onze minister en de door hem aangewezen personen worden verschaft.    
-5.  De gemeente en het bevoegd gezag dat deel uitmaakt van het bestuur van de rechtspersoon, zijn verplicht op de naleving van de in de voorgaande leden genoemde voorschriften toe te zien.    
-6.  De artikelen 52 en 52a zijn van overeenkomstige toepassing ten aanzien van het personeel van de rechtspersoon met dien verstande dat een geschillencommissie haar werkzaamheden uitstrekt over ten minste vijf rechtspersonen als bedoeld in dit artikel.   
+5.  De gemeente en het bevoegd gezag dat deel uitmaakt van het bestuur van de rechtspersoon, zijn verplicht op de naleving van de in de voorgaande leden genoemde voorschriften toe te zien.   
 
 ### Artikel  53c  
 
