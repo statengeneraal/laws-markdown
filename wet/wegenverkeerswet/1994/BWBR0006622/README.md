@@ -2180,21 +2180,21 @@ c. behoorlijk leesbaar te zijn.
 
 1.  Artikel 107 is niet van toepassing op bestuurders van:  
 
-a. bromfietsen als bedoeld in artikel 1, eerste lid, onderdeel e, subonderdeel d, en gehandicaptenvoertuigen die zijn uitgerust met een motor, landbouw- of bosbouwtrekkers en motorrijtuigen met beperkte snelheid;   
+a. bromfietsen als bedoeld in artikel 1, eerste lid, onderdeel e, subonderdeel d, en gehandicaptenvoertuigen die zijn uitgerust met een motor en bij algemene maatregel van bestuur aangewezen landbouw- of bosbouwtrekkers en motorrijtuigen met beperkte snelheid;   
 
 b. motorrijtuigen, gedurende de tijd dat aan die bestuurders rijonderricht in de zin van de Wet rijonderricht motorrijtuigen 1993 wordt gegeven, voor zover het motorrijtuig daarbij niet onder toezicht wordt bestuurd en overigens is voldaan aan de bij algemene maatregel van bestuur gestelde voorwaarden;   
 
 c. motorrijtuigen, gedurende de tijd dat door die bestuurders een rijproef wordt afgelegd in het kader van een onderzoek, door of vanwege de overheid ingesteld, naar hun rijvaardigheid of geschiktheid, voor zover het motorrijtuig daarbij niet onder toezicht wordt bestuurd en overigens is voldaan aan de bij algemene maatregel van bestuur gestelde voorwaarden;   
 
-d. motorrijtuigen, indien die bestuurders vreemdelingen in de zin van de Vreemdelingenwet 2000 zijn, die op grond van hun hoedanigheid van of betrekking tot diplomatiek of consulair personeel dan wel op grond van hun hoedanigheid van of betrekking tot personeel in dienst van een in Nederland gevestigde internationale organisatie houder zijn van een door Onze Minister van Buitenlandse Zaken verstrekt identiteitsbewijs voor geprivilegieerden en aan wie, tenzij het een bestuurder van een bromfiets betreft, door het daartoe bevoegde gezag buiten Nederland een rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig als waarmee wordt gereden;  
+d. motorrijtuigen, indien die bestuurders vreemdelingen in de zin van de Vreemdelingenwet 2000 zijn, die op grond van hun hoedanigheid van of betrekking tot diplomatiek of consulair personeel dan wel op grond van hun hoedanigheid van of betrekking tot personeel in dienst van een in Nederland gevestigde internationale organisatie houder zijn van een door Onze Minister van Buitenlandse Zaken verstrekt identiteitsbewijs voor geprivilegieerden en aan wie, tenzij het een bestuurder van een bromfiets of een andere dan bij algemene maatregel van bestuur aangewezen landbouw- of bosbouwtrekker of motorrijtuig met beperkte snelheid betreft, door het daartoe bevoegde gezag buiten Nederland een rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig als waarmee wordt gereden;  
 
-e. motorrijtuigen, indien die bestuurders lid zijn van een krijgsmacht of behoren tot de civiele dienst van een krijgsmacht die in het kader van het op 19 juni 1951 te Londen gesloten Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag nopens de rechtspositie van hun krijgsmachten, in Nederland is gelegerd, dan wel behoren tot het gezin van een lid van een krijgsmacht als hiervoor bedoeld of tot het gezin van een tot de civiele dienst van zodanige krijgsmacht behorende persoon, en aan wie, tenzij het een bestuurder van een bromfiets betreft, door het daartoe bevoegde gezag in de Staat van herkomst of één van zijn samenstellende delen een rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig als waarmee wordt gereden;   
+e. motorrijtuigen, indien die bestuurders lid zijn van een krijgsmacht of behoren tot de civiele dienst van een krijgsmacht die in het kader van het op 19 juni 1951 te Londen gesloten Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag nopens de rechtspositie van hun krijgsmachten, in Nederland is gelegerd, dan wel behoren tot het gezin van een lid van een krijgsmacht als hiervoor bedoeld of tot het gezin van een tot de civiele dienst van zodanige krijgsmacht behorende persoon, en aan wie, tenzij het een bestuurder van een bromfiets of een andere dan bij algemene maatregel van bestuur aangewezen landbouw- of bosbouwtrekker of motorrijtuig met beperkte snelheid betreft, door het daartoe bevoegde gezag in de Staat van herkomst of één van zijn samenstellende delen een rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig als waarmee wordt gereden;   
 
-f. motorrijtuigen, anders dan bromfietsen, indien die bestuurders buiten Nederland woonachtig zijn en zij zich bevinden in het internationaal verkeer, mits aan hen door het daartoe bevoegde gezag buiten Nederland een rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig als waarmee wordt gereden alsmede, in de gevallen waarin zulks is vereist op grond van internationale overeenkomsten die Nederland binden, aan hen buiten Nederland een internationaal rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig als waarmee wordt gereden;   
+f. motorrijtuigen, anders dan bromfietsen of andere dan bij algemene maatregel van bestuur aangewezen landbouw- of bosbouwtrekkers of motorrijtuigen met beperkte snelheid, indien die bestuurders buiten Nederland woonachtig zijn en zij zich bevinden in het internationaal verkeer, mits aan hen door het daartoe bevoegde gezag buiten Nederland een rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig als waarmee wordt gereden alsmede, in de gevallen waarin zulks is vereist op grond van internationale overeenkomsten die Nederland binden, aan hen buiten Nederland een internationaal rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig als waarmee wordt gereden;   
 
-g. motorrijtuigen, anders dan bromfietsen, indien die bestuurders in Nederland woonachtig zijn en aan hen door het daartoe bevoegde gezag buiten Nederland, anders dan in een andere Lid-Staat van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, een rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig als waarmee wordt gereden, zo lang sedert de dag waarop zij zich in Nederland hebben gevestigd, nog geen 185 dagen zijn verstreken;   
+g. motorrijtuigen, anders dan bromfietsen of andere dan bij algemene maatregel van bestuur aangewezen landbouw- of bosbouwtrekkers of motorrijtuigen met beperkte snelheid, indien die bestuurders in Nederland woonachtig zijn en aan hen door het daartoe bevoegde gezag buiten Nederland, anders dan in een andere Lid-Staat van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, een rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig als waarmee wordt gereden, zo lang sedert de dag waarop zij zich in Nederland hebben gevestigd, nog geen 185 dagen zijn verstreken;   
 
-h. motorrijtuigen, indien die bestuurders in Nederland woonachtig zijn en aan hen door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of Zwitserland een rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig van de categorie waarmee wordt gereden: 
+h. motorrijtuigen, anders dan andere dan bij algemene maatregel van bestuur aangewezen landbouw- of bosbouwtrekkers of motorrijtuigen met beperkte snelheid, indien die bestuurders in Nederland woonachtig zijn en aan hen door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of Zwitserland een rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig van de categorie waarmee wordt gereden: 
 
 1°. indien het een rijbewijs betreft dat is afgegeven overeenkomstig richtlijn nr. 2006/126/EG van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende het rijbewijs (PbEU L 403), gedurende de periode die is gelegen tussen de datum van vestiging van die bestuurders in Nederland en de datum waarop sedert de datum van afgifte van dat rijbewijs maximaal vijftien jaren zijn verstreken, dan wel;  
 
@@ -2213,8 +2213,13 @@ a. rijbewijs dat geldig is voor de categorie AM, of
 b. rijbewijs dat geldig is voor een andere categorie dan AM, of    
 
 4°. die bestuurders in Nederland woonachtig zijn en aan hen door het daartoe bevoegd gezag in een andere lidstaat van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende Europese Economische Ruimte of Zwitserland, een rijbewijs is afgegeven dat geldig is voor een andere categorie dan AM, gedurende de in onderdeel h bedoelde periode.       
-2.  Bij ministeriële regeling worden voorschriften vastgesteld ter uitvoering van de in het eerste lid, onderdelen *b* en *c*, bedoelde algemene maatregel van bestuur.    
-3.  In afwijking van het eerste lid, onderdeel i, onder 3°, is artikel 107 niet van toepassing op bestuurders van bromfietsen die in een andere lidstaat van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, woonachtig zijn en die zich bevinden in het internationaal verkeer, indien het een bromfiets betreft waarop richtlijn nr. 2006/126/EG van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende het rijbewijs (PbEU L 403) niet van toepassing is. 
+2.  In aanvulling op het eerste lid, onderdelen d tot en h, is artikel 107 niet van toepassing op bestuurders van andere dan bij algemene maatregel van bestuur aangewezen landbouw- of bosbouwtrekkers of motorrijtuigen met beperkte snelheid, indien de bestuurder beschikt over: 
+
+a. een door het daartoe bevoegd gezag buiten Nederland afgegeven rijbewijs dat geldig is voor de categorie C, of  
+
+b. een bij ministeriële regeling aangegeven rijbewijs dat door het bevoegd gezag in een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland is afgegeven voor het besturen van deze landbouw- of bosbouwtrekkers of motorrijtuigen met beperkte snelheid.    
+3.  Bij ministeriële regeling worden voorschriften vastgesteld ter uitvoering van de in het eerste lid, onderdelen *b* en *c*, bedoelde algemene maatregel van bestuur.    
+4.  In afwijking van het eerste lid, onderdeel i, onder 3°, is artikel 107 niet van toepassing op bestuurders van bromfietsen die in een andere lidstaat van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, woonachtig zijn en die zich bevinden in het internationaal verkeer, indien het een bromfiets betreft waarop richtlijn nr. 2006/126/EG van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende het rijbewijs (PbEU L 403) niet van toepassing is. 
 
 ### Artikel  110  
 
@@ -2894,25 +2899,7 @@ Voor zover dit noodzakelijk is voor de toepassing van deze paragraaf verwerkt he
 
 ####Bromfietscertificaat 
 
-### Artikel  142  
-
-1.  De Dienst Wegverkeer houdt een register betreffende de afgifte van bromfietscertificaten.    
-2.  In het kader van het register verwerkt de Dienst Wegverkeer gegevens omtrent afgegeven bromfietscertificaten.   
-3.   Bij algemene maatregel van bestuur worden regels vastgesteld omtrent de inrichting en het beheer van het register.   
-
-### Artikel  143  
-
-1.   Aan autoriteiten die betrokken zijn bij de uitvoering van deze wet of die zijn belast met de handhaving van de bij of krachtens deze wet vastgestelde voorschriften, worden op de door de Dienst Wegverkeer te bepalen wijze uit het register desgevraagd de gegevens verstrekt die zij voor de uitoefening van hun taak behoeven.   
-2.   De autoriteiten, bedoeld in het eerste lid, zijn gehouden om in bij algemene maatregel van bestuur te bepalen gevallen aan de Dienst Wegverkeer op de door deze dienst te bepalen wijze mededeling te doen van feiten die van belang zijn voor het bijhouden van het register.  
-
-### Artikel  144  
-
-1.  Aan belanghebbenden kunnen, overeenkomstig bij algemene maatregel van bestuur vastgestelde regels, op aanvraag en tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het door deze dienst voor de behandeling van de aanvraag vastgestelde tarief, uit het register gegevens worden verstrekt.    
-2.   Bij ministeriële regeling kan worden bepaald dat het verstrekken van gegevens aan belanghebbenden niet of slechts tot een beperkt aantal of in beperkte vorm of omvang geschiedt.   
-
-###Artikel 145 
-
-De Dienst Wegverkeer stelt ten aanzien van het verwerken van gegevens als bedoeld in artikel 142, tweede lid, een reglement vast.
+Vervallen per 01-07-2015 
 
 ###Hoofdstuk VIA 
 

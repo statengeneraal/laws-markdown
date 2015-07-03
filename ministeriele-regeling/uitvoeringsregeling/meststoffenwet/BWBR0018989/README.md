@@ -577,7 +577,7 @@ De landbouwer stelt in Nederland zijn administratie voor controle beschikbaar aa
 
 1.  De gegevens, bedoeld in artikel 32, tweede lid, onderdeel c, van het besluit, betreffen uitsluitend die percelen landbouwgrond die bij het bedrijf in het kader van normale bedrijfsvoering in gebruik zijn en die al dan niet gedeeltelijk zijn gelegen in Duitsland of in België, tot 20, onderscheidenlijk tot 25 kilometer uit de Nederlandse grens.   
 2.  De gegevens, bedoeld in artikel 32, tweede lid, onderdeel e, van het besluit, worden onderscheiden naar diersoorten en diercategorieën per soort overeenkomstig de omschrijvingen in bijlage D, tabel I.   
-3.  De gegevens, bedoeld in artikel 32, tweede lid, onderdeel g, van het besluit, worden per afzonderlijke opslagruimte weergegeven.   
+3.  De gegevens, bedoeld in artikel 32, tweede lid, onderdeel i, van het besluit, worden per afzonderlijke opslagruimte weergegeven.   
 4.  Indien op een bedrijf ‘covergiste mest’ als bedoeld in bijlage Aa, onder IV wordt geproduceerd, worden de gegevens, bedoeld in artikel 33, derde lid, onderdeel c, van het besluit, onderscheiden naar de tezamen met de dierlijke meststoffen vergiste stoffen overeenkomstig de aanduiding en de daarbij behorende omschrijving van de desbetreffende stof in bijlage Aa, onder IV, en bevat de administratie behalve de gegevens, bedoeld in artikel 33, derde lid, van het besluit, gegevens over het bedrijf of de onderneming waar de desbetreffende stof als reststof is vrijgekomen. 
 
 ### Artikel  39  
@@ -1149,9 +1149,11 @@ b. compost naar een particulier in leveringen tot een maximum van 3000 kilogram 
 
 Als eindproduct als bedoeld in artikel 1, eerste lid, onderdeel dd, onder 1°, van de wet, voldoet: 
 
-1. as waarin maximaal 10% organische stof aanwezig is;  
+a. as waarin maximaal 10% organische stof aanwezig is;  
 
-2. mestkorrels.  
+b. mestkorrels;  
+
+c. mengsel van gedroogd digestaat en verwerkt categorie 1-materiaal, bedoeld in artikel 8 van verordening (EG) nr. 1069/2009.  
 
 ### Artikel  71  
 
@@ -1291,7 +1293,7 @@ b. het verschil in gewicht tussen de grootste en de kleinste vracht bedraagt bij
 
 ### Artikel  78  
 
-1.  De bemonstering van een vracht drijfmest geschiedt automatisch tijdens het laden van het transportmiddel met behulp van bemonsteringsapparatuur die voldoet aan de prestatiekenmerken die zijn vermeld in bijlage E, onderdeel A, en behoort tot een type waarvan bij keuring door Livestock Research, onderdeel van Wageningen UR, te Wageningen of een vergelijkbare instelling, is vastgesteld dat het voldoet aan die prestatiekenmerken.   
+1.  De bemonstering van een vracht drijfmest vindt plaats onder de verantwoordelijkheid van de vervoerder en geschiedt automatisch tijdens het laden van het transportmiddel met behulp van bemonsteringsapparatuur die voldoet aan de prestatiekenmerken die zijn vermeld in bijlage E, onderdeel A, en behoort tot een type waarvan bij keuring door Livestock Research, onderdeel van Wageningen UR, te Wageningen of een vergelijkbare instelling, is vastgesteld dat het voldoet aan die prestatiekenmerken.   
 2.  De bemonstering van een vracht vaste mest geschiedt door de vervoerder. Hij stelt een representatief monster samen met een gewicht van minimaal 500 gram en maximaal 800 gram, bestaande uit deelmonsters die handmatig evenredig verspreid uit de betrokken vracht meststoffen worden genomen.   
 3.  Indien de vaste mest bestemd is om buiten Nederland te worden gebracht, geschiedt de in het tweede lid bedoelde bemonstering tijdens het laden van het transportmiddel.   
 4.  Indien de vaste mest binnen Nederland is gebracht, geschiedt de in het tweede lid bedoelde bemonstering tijdens het lossen van het transportmiddel.  
@@ -1312,7 +1314,8 @@ b. het verschil in gewicht tussen de grootste en de kleinste vracht bedraagt bij
 2.  Indien bij ontvangst van een toegezonden monster wordt geconstateerd dat de monsterverpakking is beschadigd, rapporteert het laboratorium aan de meldkamer van de Nederlandse Voedsel- en Warenautoriteit de gegevens ter identificatie van de monsterverpakking en het nummer van het op de desbetreffende vracht betrekking hebbende vervoersbewijs dierlijke meststoffen. Het laboratorium volgt de door de Nederlandse Voedsel- en Warenautoriteit ter zake verstrekte aanwijzingen op.   
 3.  Het laboratorium voldoet aan de eisen van het accreditatieprogramma AP05, dat is opgenomen in bijlage H.   
 4.  Uiterlijk tien werkdagen na verzending van de analyseresultaten door het laboratorium, kan door de betrokkenen heranalyse worden aangevraagd. Er vindt ten hoogste éénmaal een heranalyse plaats die wordt uitgevoerd door het laboratorium dat de analyse heeft uitgevoerd.   
-5.  Indien een laboratorium het fosfaatgehalte of stikstofgehalte van een monster niet kan vaststellen, omdat het monster na ontvangst door het laboratorium in het ongerede is geraakt, wordt de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van artikel 68, eerste en vijfde lid, van het besluit bepaald op basis van de in bijlage I voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.  
+5.  Indien een laboratorium het fosfaatgehalte of stikstofgehalte van een monster niet kan vaststellen, omdat het monster na ontvangst door het laboratorium in het ongerede is geraakt, wordt de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van artikel 68, eerste en vijfde lid, van het besluit bepaald op basis van de in bijlage I voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.   
+6.  Indien een laboratorium bij ontvangst van een toegezonden monster constateert dat het monster niet voldoet aan de eisen van Hoofdstuk 4, paragraaf 4.2 van het Accreditatieprogramma dierlijke mest (AP05) zoals opgenomen in bijlage H, wordt de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van artikel 68, eerste en vijfde lid, van het besluit bepaald op basis van de in bijlage I voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten. 
 
 ### Artikel  82  
 
@@ -1977,7 +1980,7 @@ De voldoening aan de voorwaarden 30, 35, 43, 44, 92a, derde lid, en 126, tweede 
 
 ### Artikel  129  
 
-Met het toezicht op de naleving van het bepaalde bij of krachtens de Meststoffenwet zijn belast de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit van het Minister van Economische Zaken. 
+Met het toezicht op de naleving van het bepaalde bij of krachtens de Meststoffenwet zijn belast de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken. 
 
 ### Artikel  130  
 
@@ -2189,6 +2192,7 @@ I. Stoffen die als meststof kunnen worden verhandeld
 |30 |Reststof die is vrijgekomen bij de productie van alcohol uit vergist beslag van graan nadat de alcohol (ethanol, bioethanol) door destillatie is verwijderd en dat in hoofdzaak bestaat uit de vaste residuen van granen al dan niet gedroogd (graanspoeling, gedroogde graanspoeling). |
 |31 |Reststof verkregen bij de verwerking van geschoonde, gebrande en gemalen koffiebonen tot koffie-extract en die bestaat uit het bezinksel van gemalen geëxtraheerde gebrande en gemalen koffiebonen (koffiedik). |
 |32 |Reststof die is vrijgekomen bij de fabrieksmatige verwerking van cichoreiwortelen tot inuline en fructosestroop en die uitsluitend bestaat uit de gewassen afgebroken wortelpunten van wortelen met enig aanhangend blad van cichorei (cichoreipunten). |
+|33 | reststof die vrijkomt bij de productie van gehydrolyseerde eiwitten uit de hoofdgrondstof soja (met daarnaast maïsglutenmeel, tarweglutenmeel, zonnebloemschroot, raapschroot) door autoclaveren, als bestanddeel voor soep (Voedings- en Genotsmiddelenindustrie) en die bestaat uit de dikke fractie vrijkomend bij filtratie over een trommelscheider (reststof van hydrolyse van plantaardige eiwitten). |
 |  *C2*   |  *Stoffen van dierlijke herkomst al dan niet gecombineerd met stoffen van plantaardige herkomst*   |
 | 1  | Reststof die is vrijgekomen bij het fabrieksmatig uitpakken door een daartoe gespecialiseerd bedrijf van uitsluitend verpakte vloeibare zuivelproducten die afkomstig zijn van detailhandel, groothandel of producenten en uitsluitend wegens overschrijding van de houdbaarheidsdatum, verpakkingsfouten of verkeerde bewaring ongeschikt zijn geworden voor humane consumptie. De reststof bestaat uit uitgepakte vloeibare zuivelproducten of mengsels daarvan en is vrij van verpakkingsmateriaal en reinigingswater (uitgepakte vloeibare zuivelproducten en mengsels daarvan).  |
 | 2  | Reststof die is vrijgekomen bij de fabrieksmatige bereiding van consumptie-ijs en die bestaat uit grondstofresten, ijsmixresten en afgekeurde ijsproducten en vrij is van verpakkingsmateriaal en reinigingswater (ijsafval).  |
@@ -2834,7 +2838,7 @@ Tabel 5 consumptieaardappelrassen als bedoeld in artikel 28a
 
 ####Principe
 
-De bouwvoor of zode van een perceel landbouwgrond wordt volgens een gestratificeerde aselecte steekproef bemonsterd met behulp van een speciaal daarvoor opgesteld softwareprogramma dat digitaal te verkrijgen is bij het Minister van Economische Zaken. In onderdeel I van dit protocol wordt aangegeven hoe de bemonstering van een perceel bouwland of grasland dient plaats te vinden. De grond van de verschillende bemonsteringspunten wordt gemengd tot één mengmonster. Het mengmonster wordt vervolgens voorbehandeld en in duplo geanalyseerd op fosfaattoestand volgens de werkvoorschriften voor de bepaling van het PAL-getal en het Pw-getal, die respectievelijk staan omschreven in onderdeel II en III van dit protocol. Het gemiddelde van de duplo-bepalingen is de uitslag van de test die vergeleken moet worden met de waarden die opgenomen zijn in artikel 30, eerste en tweede lid van de regeling. Een heranalyse van het genomen bodemmonster is niet mogelijk. Voor een nieuwe analyse dient een nieuw monster gestoken te worden om het mengmonster te verkrijgen. 
+De bouwvoor of zode van een perceel landbouwgrond wordt volgens een gestratificeerde aselecte steekproef bemonsterd met behulp van een speciaal daarvoor opgesteld softwareprogramma dat digitaal te verkrijgen is bij het Ministerie van Economische Zaken. In onderdeel I van dit protocol wordt aangegeven hoe de bemonstering van een perceel bouwland of grasland dient plaats te vinden. De grond van de verschillende bemonsteringspunten wordt gemengd tot één mengmonster. Het mengmonster wordt vervolgens voorbehandeld en in duplo geanalyseerd op fosfaattoestand volgens de werkvoorschriften voor de bepaling van het PAL-getal en het Pw-getal, die respectievelijk staan omschreven in onderdeel II en III van dit protocol. Het gemiddelde van de duplo-bepalingen is de uitslag van de test die vergeleken moet worden met de waarden die opgenomen zijn in artikel 30, eerste en tweede lid van de regeling. Een heranalyse van het genomen bodemmonster is niet mogelijk. Voor een nieuwe analyse dient een nieuw monster gestoken te worden om het mengmonster te verkrijgen. 
 
 ### Onderdeel  I  
 
@@ -3059,7 +3063,7 @@ De stikstofexcreties van staldieren moeten berekend worden conform de stalbalans
 | Jongvee van ouder dan 1 jaar (alle runderen van 1 jaar en ouder inclusief overig vleesvee, maar met uitzondering van roodvleesstieren en fokstieren)  | 102  | drijfmest  vaste mest  | 9,5  4,7  | 66,9  61,3  | 21,9  21,9  | –  |
 | Fokstieren (stieren van 2 jaar en ouder)  | 104  | alle  | 7,6  | 74,2  | 25,8  | –  |
 | Witvleeskalveren van ca. 14 dagen tot ca. 8 maanden (kalveren van ca. 14 dagen en ouder die gehouden worden op een rantsoen van hoofdzakelijk melk en op een leeftijd van ca. 8 maanden worden geslacht)  | 112  | alle  | 1,6  | 10,9  | –  | 2,7  |
-| Startkalveren voor rosevlees of roodvlees (kalveren van ca. 14 dagen tot ca. 3 maanden die op gespecialiseerde bedrijven worden gehouden en vervolgens op een ander bedrijf als rosevleeskalf worden gehouden)  | 115  | alle  | 1,2  | 9,2  | 2,6  | –  |
+| Startkalveren voor rosevlees of roodvlees (kalveren van ca. 14 dagen tot ca. 3 maanden die op gespecialiseerde bedrijven worden gehouden en vervolgens op een ander bedrijf als rosevleeskalf dan wel roodvleesstier worden gehouden)  | 115  | alle  | 1,2  | 9,2  | 2,6  | –  |
 | Rosevleeskalveren van ca.3 maanden tot ca. 8 maanden (kalveren van ca. 3 maanden en ouder die hiervoor zijn gehouden als startkalf, gehouden worden op een rantsoen van melk en andere voeders en op een leeftijd van ca. 8 maanden worden geslacht)  | 116  | alle  | 3,3  | 24,6  | 10,9  | –  |
 | Rosevleeskalveren van ca. 14 dagen tot ca. 8 maanden (kalveren van ca. 14 dagen en ouder die gehouden worden op een rantsoen van melk en andere voeders en op een leeftijd van ca. 8 maanden worden geslacht)  | 117  | alle  | 2,6  | 24,6  | 8,2  | –  |
 | Weide- en zoogkoeien (koeien die ten minste éénmaal hebben gekalfd niet zijnde melk- en kalfkoeien)  | 120  | drijfmest  vaste mest  | 11,2  5,3  | 76,3  72,4  | 27,1  27,1  | –  –  |
@@ -3151,7 +3155,7 @@ De stikstofexcreties van staldieren moeten berekend worden conform de stalbalans
 |  *Mesocricetus auratus (Goudhamster)*   Goudhamsters (alle geslachtsrijpe vrouwelijke goudhamsters)  | 18  | alle  | 0,015  | 0,18  | –  | 50%<sup>7</sup>   |
 |  *Meriones unguiculatus (Gerbil)*   Gerbils (alle geslachtsrijpe vrouwelijke gerbils)  | 19  | Alle  | 0,005  | 0,057  | –  | 50%<sup>7</sup>   |
 |  *Anas plathyrhynchos (Peking eend)*   | 81  | --- |
-| Ouderdieren van vleeseenden (opfokperiode tot 18 weken)  | 802  | vaste mest  drijfmest  | 0,037  0,110  | 0,0531  0,853  | –  –  | 0,588  0,266  |
+| Ouderdieren van vleeseenden (opfokperiode tot 18 weken)  | 802  | vaste mest  drijfmest  | 0,037  0,110  | 0,531  0,853  | –  –  | 0,588  0,266  |
 | Ouderdieren van vleeseenden (legperiode vanaf 18 weken)  | 803  | vaste mest  drijfmest  | 0,045  0,130  | 0,627  1,007  | –  –  | 0,695  0,315  |
 | Vleeseenden (eenden die worden gehouden voor de slacht)  | 801  | vaste mest  drijfmest  | 0,028  0,081  | 0,399  0,630  | –  –  | 0,405  0,174  |
 |  *Struthio camelus (Struisvogel)*   Struisvogels (alle geslachtsrijpe vrouwelijke struisvogels)  | 25  | alle  | 0,56  | 12,3  | –  | 50%<sup>7</sup>   |
@@ -3209,7 +3213,7 @@ Vervolg Tabel IIA. Excretieforfaits per melkkoe drijfmest
 | 6.625 – 6.874  | 105,5  | 107,5  | 109,0  | 110,5  | 112,5  | 114,0  | 115,5  | 117,0  | 119,0  | 120,5  |
 | 6.875 – 7.124  | 108,0  | 109,5  | 111,0  | 113,0  | 114,5  | 116,0  | 117,5  | 119,5  | 121,0  | 122,5  |
 | 7.125 – 7.374  | 110,0  | 111,5  | 113,5  | 115,0  | 116,5  | 118,5  | 120,0  | 121,5  | 123,0  | 125,0  |
-| 7.375 – 7.624  | 112,0  | 114,0  | 115,5  | 117,5  | 119,0  | 120,5  | 122,0  | 123,5  | 125,5  | 127,0  |
+| 7.375 – 7.624  | 112,0  | 114,0  | 115,5  | 117,0  | 119,0  | 120,5  | 122,0  | 123,5  | 125,5  | 127,0  |
 | 7.625 – 7.874  | 114,5  | 116,0  | 117,5  | 119,5  | 121,0  | 122,5  | 124,0  | 126,0  | 127,5  | 129,0  |
 | 7.875 – 8.124  | 116,5  | 118,0  | 120,0  | 121,5  | 123,0  | 124,5  | 126,5  | 128,0  | 129,5  | 131,5  |
 | 8.125 – 8.374  | 118,5  | 120,5  | 122,0  | 123,5  | 125,0  | 127,0  | 128,5  | 130,0  | 132,0  | 133,5  |
@@ -3247,7 +3251,7 @@ Vervolg Tabel IIA. Excretieforfaits per melkkoe drijfmest
 | 9.375 – 9.624  | 146,0  | 147,5  | 149,0  | 151,0  | 152,5  | 154,0  | 155,5  | 157,5  | 159,0  | --- |
 | 9.625 – 9.874  | 148,0  | 149,5  | 151,5  | 153,0  | 154,5  | 156,0  | 158,0  | 159,5  | 161,0  | --- |
 | 9.875 – 10.124  | 150,0  | 152,0  | 153,5  | 155,0  | 156,5  | 158,5  | 160,0  | 161,5  | 163,5  | --- |
-| 10.125 – 10.374  | 152,5  | 154,0  | 155,5  | 157,5  | 159,0  | 160,5  | 162,0  | 164,0  | 165,5  | --- |
+| 10.125 – 10.374  | 152,5  | 154,0  | 155,5  | 157,0  | 159,0  | 160,5  | 162,0  | 164,0  | 165,5  | --- |
 | 10.375 – 10.624  | 154,5  | 156,0  | 157,5  | 159,5  | 161,0  | 162,5  | 164,5  | 166,0  | 167,5  | --- |
 | > 10.624  | 158,5  | 160,5  | 162,0  | 163,5  | 165,5  | 167,0  | 168,5  | 170,5  | 172,0  | --- |
 
@@ -3313,7 +3317,7 @@ Vervolg Tabel IIB. Excretieforfaits per melkkoe vaste mest
 
 | Melkproductie in kg melk per koe per jaar  | Stikstofexcretie (kg)  Ureumgehalte in mg/100 g  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  | 32  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| < 5.624  | 79,0  | 80,5  | 82,0  | 83,5  | 85,0  | 86,5  | 88,0  | 89,0  | 90,5  | 92,0  |
+| < 5.624  | 79,5  | 80,5  | 82,0  | 83,5  | 85,0  | 86,5  | 88,0  | 89,0  | 90,5  | 92,0  |
 | 5.625 – 5.874  | 83,5  | 85,0  | 86,0  | 87,5  | 89,0  | 90,5  | 92,0  | 93,5  | 94,5  | 96,0  |
 | 5.875 – 6.124  | 85,0  | 86,5  | 88,0  | 89,5  | 91,0  | 92,5  | 93,5  | 95,0  | 96,5  | 98,0  |
 | 6.125 – 6.374  | 87,0  | 88,5  | 90,0  | 91,5  | 92,5  | 94,0  | 95,5  | 97,0  | 98,5  | 100,0  |
@@ -3350,7 +3354,7 @@ Vervolg Tabel IIB. Excretieforfaits per melkkoe vaste mest
 | 7.125 – 7.374  | 108,5  | 110,0  | 111,5  | 113,0  | 114,5  | 115,5  | 117,0  | 118,5  | 120,0  | --- |
 | 7.375 – 7.624  | 110,5  | 112,0  | 113,5  | 114,5  | 116,0  | 117,5  | 119,0  | 120,5  | 122,0  | --- |
 | 7.625 – 7.874  | 112,5  | 113,5  | 115,0  | 116,5  | 118,0  | 119,5  | 121,0  | 122,0  | 123,5  | --- |
-| 7.875 – 8.124  | 114,0  | 115,5  | 117,0  | 118,5  | 120,0  | 121,0  | 132,5  | 124,0  | 125,5  | --- |
+| 7.875 – 8.124  | 114,0  | 115,5  | 117,0  | 118,5  | 120,0  | 121,0  | 122,5  | 124,0  | 125,5  | --- |
 | 8.125 – 8.374  | 116,0  | 117,5  | 119,0  | 120,0  | 121,5  | 123,0  | 124,5  | 126,0  | 127,5  | --- |
 | 8.375 – 8.624  | 118,0  | 119,0  | 120,5  | 122,0  | 123,5  | 125,0  | 126,5  | 127,5  | 129,0  | --- |
 | 8.625 – 8.874  | 119,5  | 121,0  | 122,5  | 124,0  | 125,5  | 126,5  | 128,0  | 129,5  | 131,0  | --- |
@@ -3490,7 +3494,7 @@ Vervolg Tabel IIB. Excretieforfaits per melkkoe vaste mest
 
 2. De bemonstering geschiedt door het geautomatiseerd nemen van een monster met behulp van bemonsteringsapparatuur die voldoet aan de volgende voorwaarden: 
 
-a. per vracht wordt een monster verzameld van ten minste 650 milliliter of 650 gram;  
+a. per vracht wordt een monster verzameld van ten minste 650 milliliter;  
 
 b. de samenstelling van het monster ten aanzien van fosfor en stikstof wijkt niet systematisch af van de gemiddelde samenstelling van de vracht;  
 
@@ -3872,6 +3876,7 @@ Behorende bij artikel 61
 | Afvoer uit covergistingsinstallatie  | 93  |
 | Vervoer van mestkorrels  | 94  |
 | Export van behandelde vaste mest  | 95  |
+|Afgekeurd digestaat | 96  |
 | *Verwerking*  | --- |
 | VDM geldt als mestverwerkingsovereenkomst: afvoer direct naar verwerker of export, in het kader van de verwerkingsplicht  | 61  |
 | Uitzonderingen verwerkingsplicht  | --- |
@@ -4003,7 +4008,7 @@ Het laboratorium controleert bij ontvangst of de verpakking van een monster vold
 
 Het laboratorium controleert of de inkomende monsters 
 
-– drijfmest de vereiste minimale hoeveelheid bedoeld in bijlage E, letters A en B bij de Uitvoeringsregeling Meststoffenwet bevatten;  
+– drijfmest de vereiste minimale hoeveelheid bedoeld in NEN 7430 bevatten;  
 
 – vaste mest de vereiste minimale hoeveelheid bedoeld in artikel 78, tweede lid, van de Uitvoeringsregeling Meststoffenwet bevatten.   Het laboratorium weegt elk monster en registreert het gewicht. Het gewicht wordt tegelijk met de analyseresultaten gerapporteerd aan de vervoerder en in de periodieke rapportage aan de minister. Indien het gewicht van het monster te laag is, wordt dit monster niet geanalyseerd en mag niet worden gemengd in een mengmonster.
 
@@ -4635,7 +4640,7 @@ De in deze bijlage opgenomen toleranties betreft het maximale acceptabele versch
 
 ####Principe
 
-De bouwvoor of zode van een perceel landbouwgrond wordt bij voorkeur volgens een gestratificeerde aselecte steekproef bemonsterd met behulp van een speciaal daarvoor opgesteld softwareprogramma dat digitaal te verkrijgen is bij het Minister van Economische Zaken. Indien gebruik gemaakt wordt van de gestratificeerde aselecte steekproef dient de procedure gevolgd te worden zoals beschreven in bijlage C, onderdeel I, van onderhavige regeling. Indien geen gebruik gemaakt wordt van de gestratificeerde aselecte steekproef dient de bemonstering van een perceel dan wel perceelsdeel plaats te vinden volgens het onderhavige protocol. De grond van de verschillende bemonsteringspunten wordt gemengd tot één mengmonster. Het mengmonster wordt vervolgens voorbehandeld en in duplo geanalyseerd op fosfaattoestand volgens de onderdelen II en III van het onderhavige protocol. Het is toegestaan een afwijkende methode voor de bepaling van het PAL-getal (onderdeel II) en voor de bepaling van het Pw-getal (onderdeel III) te hanteren mits die methode ten minste dezelfde waarborgen omvat ten aanzien van betrouwbaarheid en nauwkeurigheid. Het gemiddelde van de duplo-bepalingen is de uitslag van de test. Een heranalyse van het genomen bodemmonster is niet mogelijk. Voor een nieuwe analyse dienen nieuwe monsters te worden gestoken om het mengmonster te verkrijgen. 
+De bouwvoor of zode van een perceel landbouwgrond wordt bij voorkeur volgens een gestratificeerde aselecte steekproef bemonsterd met behulp van een speciaal daarvoor opgesteld softwareprogramma dat digitaal te verkrijgen is bij het Ministerie van Economische Zaken. Indien gebruik gemaakt wordt van de gestratificeerde aselecte steekproef dient de procedure gevolgd te worden zoals beschreven in bijlage C, onderdeel I, van onderhavige regeling. Indien geen gebruik gemaakt wordt van de gestratificeerde aselecte steekproef dient de bemonstering van een perceel dan wel perceelsdeel plaats te vinden volgens het onderhavige protocol. De grond van de verschillende bemonsteringspunten wordt gemengd tot één mengmonster. Het mengmonster wordt vervolgens voorbehandeld en in duplo geanalyseerd op fosfaattoestand volgens de onderdelen II en III van het onderhavige protocol. Het is toegestaan een afwijkende methode voor de bepaling van het PAL-getal (onderdeel II) en voor de bepaling van het Pw-getal (onderdeel III) te hanteren mits die methode ten minste dezelfde waarborgen omvat ten aanzien van betrouwbaarheid en nauwkeurigheid. Het gemiddelde van de duplo-bepalingen is de uitslag van de test. Een heranalyse van het genomen bodemmonster is niet mogelijk. Voor een nieuwe analyse dienen nieuwe monsters te worden gestoken om het mengmonster te verkrijgen. 
 
 ####Onderdeel I Protocol voor bemonstering van een perceel bouwland of grasland
 
@@ -4942,7 +4947,9 @@ De uitkomst van de bepaling, het Pw-getal bij volumeverhouding 1:60 wordt uitged
 | --- | --- | --- | --- | --- | --- |
 | --- | Art. 52  | Art. 53 lid 2  | Apparatuur voor automatische gegevensregistratie of satellietvolgapparatuur niet elektronisch verbonden aan de automatische bemonsterings- en verpakkingsapparatuur bij het vervoer van drijfmest  | M262  | € 300  |
 | --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 53 lid 3  | Satellietvolgapparatuur niet elektronisch verbonden aan apparatuur voor automatische gegevensregistratie bij het vervoer van vaste mest  | M263  | € 300  |
+| --- | --- | Art. 53, lid 3, onderdeel a  | AGR-apparatuur is niet onlosmakelijk verbonden aan het chassis van het transportmiddel en/of aan het chassis van de aanhangwagen  | M263  | € 300  |
+| --- | --- |Artikel 53 lid 3 onderdeel b | satellietvolgapparatuur is niet elektronisch verbonden aan de AGR-apparatuur  | M265  | € 300  |
+| --- | --- |Art. 53 lid 4 | Sensordeel AGR-apparatuur niet onlosmakelijk verbonden met vaste as van het chassis van het transportmiddel en/of de aanhangwagen  | M266  | € 300  |
 | --- | --- | --- | --- | --- | --- |
 | --- | --- | Art. 54 lid 1  | Apparatuur genoemd in art. 53 UR functioneert niet op adequate wijze tijdens het vervoer van dierlijke meststoffen  | M264  | € 300  |
 | --- | --- | --- | --- | --- | --- |
@@ -4962,8 +4969,8 @@ De uitkomst van de bepaling, het Pw-getal bij volumeverhouding 1:60 wordt uitged
 | Art. 15 en 34  | Art. 53 lid 1  | --- | Niet opmaken van een vervoersbewijs dierlijke meststoffen door de leverancier, de vervoerder en de afnemer  | M300  | € 300  |
 | --- | --- | --- | --- | --- | --- |
 | --- | Art. 53 lid 2 en 3,  art. 54  | Art. 61 en 62  | Niet tijdig opmaken van een vervoersbewijs dierlijke meststoffen door de leverancier, de vervoerder en de afnemer  | M301  | € 100  |
-| --- | --- | --- | Niet volledig opmaken van een vervoersbewijs dierlijke meststoffen door de vervoerder  | M302  | € 200  |
-| --- | --- | --- | Niet naar waarheid opmaken van een vervoersbewijs dierlijke meststoffen door de vervoerder  | M303  | € 300  |
+| --- | --- | --- | Niet volledig opmaken van een vervoersbewijs dierlijke meststoffen door de vervoerder, de leverancier of de afnemer  | M302  | € 200  |
+| --- | --- | --- | Niet naar waarheid opmaken van een vervoersbewijs dierlijke meststoffen door de vervoerder, de leverancier of de afnemer  | M303  | € 300  |
 | --- | --- | --- | Niet ondertekenen van een vervoersbewijs dierlijke meststoffen door de leverancier, de vervoerder en de afnemer  |  M304  |  € 200  |
 | --- | --- | --- | --- | --- | --- |
 | --- | Art. 53 lid 3  | Art. 60 lid 1 en 2  | Niet gebruikmaken door de leverancier, de vervoerder en de afnemer van het voorgeschreven model voor het vervoersbewijs dierlijke meststoffen dat door de minister is verstrekt en is voorzien van een uniek nummer  | M306  | € 100  |
@@ -5037,7 +5044,7 @@ De uitkomst van de bepaling, het Pw-getal bij volumeverhouding 1:60 wordt uitged
 | --- | --- | --- | --- | --- | --- |
 | --- | --- | Art. 77 lid 1  | Niet of niet op juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen, niet zijnde mineralenconcentraat, d.m.v. analyse van het monster door een laboratorium  | M502  | € 300  |
 | --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 78 lid 1  | Niet bemonsteren van een vracht drijfmest tijdens het laden van het transportmiddel door de vervoerder  | M505  | € 300  |
+| --- | --- | Art. 78 lid 1  | Niet of niet op juiste wijze bemonsteren van een vracht drijfmest tijdens het laden van het transportmiddel door de vervoerder  | M505  | € 300  |
 | --- | --- | --- | --- | --- | --- |
 | --- | --- | Art. 78 lid 2  | Niet of niet op juiste wijze bemonsteren van een vracht vaste mest door de vervoerder  | M507  | € 300  |
 | --- | --- | --- | --- | --- | --- |

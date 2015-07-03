@@ -72,7 +72,7 @@ De gegevensverwerking bij de meldingen, bedoeld in de artikelen 21, 22 en 25, al
 
 a. als behorende tot categorie A: de burgerhaven van de gemeente Rotterdam,  
 
-b. als behorende tot categorie B: de burgerhavens van de gemeenten Amsterdam, Beverwijk, Den Helder, Delfzijl, Dordrecht, Eemsmond, Harlingen, Maassluis, Schiedam, Terneuzen, Velsen, Vlaardingen, Vlissingen en Zaandam, alsmede Bonaire, Sint Eustatius en Saba.     
+b. als behorende tot categorie B: de burgerhavens van de gemeenten Amsterdam, Beverwijk, Den Helder, Delfzijl, Dordrecht, Eemsmond, Harlingen, Maassluis, Moerdijk, Schiedam, Terneuzen, Velsen, Vlaardingen, Vlissingen en Zaandam, alsmede Bonaire, Sint Eustatius en Saba.     
 2.  Ter uitvoering van artikel 48 van de wet worden de volgende burgerluchthavens aangewezen: 
 
 a. als behorende tot categorie A: de burgerluchthaven van de gemeente Haarlemmermeer (Schiphol),  
@@ -81,7 +81,7 @@ b. als behorende tot categorie B: de burgerluchthavens van de gemeenten Beek (Ma
 
 ### Artikel  7  
 
-De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot afgifte van het certificaat van sanitaire controle van schepen en van het certificaat tot vrijstelling van sanitaire controle van schepen: Amsterdam, Beverwijk, Den Helder, Delfzijl, Dordrecht, Eemsmond, Harlingen, Maassluis, Rotterdam, Schiedam, Terneuzen, Velsen, Vlaardingen, Vlissingen en Zaandam, alsmede Bonaire, Sint Eustatius en Saba. 
+De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot afgifte van het certificaat van sanitaire controle van schepen en van het certificaat tot vrijstelling van sanitaire controle van schepen: Amsterdam, Beverwijk, Den Helder, Delfzijl, Dordrecht, Eemsmond, Harlingen, Maassluis, Moerdijk, Rotterdam, Schiedam, Terneuzen, Velsen, Vlaardingen, Vlissingen en Zaandam, alsmede Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  8  
 
@@ -92,11 +92,11 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 1.  Het tarief voor het onderzoek ter verkrijging van een certificaat tot vrijstelling van sanitaire controle van schepen of een certificaat van sanitaire controle van schepen als bedoeld in artikel 57 van de wet, bedraagt: 
 
-a. € 98,63 per uur, indien het onderzoek plaatsvindt op maandag tot en met vrijdag tussen 06.00 uur en 20.00 uur,  
+a.  € 99,02 per uur, indien het onderzoek plaatsvindt op maandag tot en met vrijdag tussen 06.00 uur en 20.00 uur,  
 
-b. € 147,95 per uur, indien het onderzoek plaatsvindt op maandag tot en met vrijdag tussen 20.00 uur en 06.00 uur, alsmede op zaterdag,  
+b. € 148,54 per uur, indien het onderzoek plaatsvindt op maandag tot en met vrijdag tussen 20.00 uur en 06.00 uur, alsmede op zaterdag,  
 
-c. € 197,25 per uur, indien het onderzoek plaatsvindt op zondag.     
+c. € 198,04 per uur, indien het onderzoek plaatsvindt op zondag.     
 2.  Het aantal uren, bedoeld in het eerste lid, dat in rekening wordt gebracht, bedraagt niet meer dan: 
 
 – 4 uur bij schepen met minder dan 50 opvarenden, anders dan bemanningsleden,  
@@ -104,8 +104,8 @@ c. € 197,25 per uur, indien het onderzoek plaatsvindt op zondag.
 – 8 uur bij schepen met 50–500 opvarenden, anders dan bemanningsleden,  
 
 – 12 uur bij schepen met 500 en meer opvarenden, anders dan bemanningsleden.     
-3.  Het tarief voor het verlengen van het certificaat, bedoeld in artikel 8, tweede lid, bedraagt € 98,63.   
-4.  De in het eerste lid genoemde bedragen worden vermeerderd met voorrijkosten van € 24,66 per kwartier.  
+3.  Het tarief voor het verlengen van het certificaat, bedoeld in artikel 8, tweede lid, bedraagt € 99,02.   
+4.  De in het eerste lid genoemde bedragen worden vermeerderd met voorrijkosten van € 24,76 per kwartier.  
 
 ### §  3  
 

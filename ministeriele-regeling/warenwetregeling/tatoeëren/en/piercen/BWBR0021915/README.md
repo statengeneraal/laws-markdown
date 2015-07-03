@@ -61,30 +61,30 @@ In de vergunning worden de materialen vermeld, waarvoor de vergunning wordt verl
 
 1.  De retributie voor het in behandeling nemen van een aanvraag bedraagt: 
 
-a. €  394,51 voor een vergunning voor het gebruik van tatoeagemateriaal, waarbij geen gebruik wordt gemaakt van wegwerpartikelen;  
+a. € 396,09 voor een vergunning voor het gebruik van tatoeagemateriaal, waarbij geen gebruik wordt gemaakt van wegwerpartikelen;  
 
-b. € 345,20 voor een vergunning voor het gebruik van tatoeagemateriaal, waarbij gebruik wordt gemaakt van wegwerpartikelen;  
+b. € 346,58 voor een vergunning voor het gebruik van tatoeagemateriaal, waarbij gebruik wordt gemaakt van wegwerpartikelen;  
 
-c. € 197,25 voor een vergunning voor het gebruik van piercingmateriaal ten behoeve van het aanbrengen van een piercing in het vlakke gedeelte van het kraakbeen van het oor of de neusvleugel;  
+c. € 198,04 voor een vergunning voor het gebruik van piercingmateriaal ten behoeve van het aanbrengen van een piercing in het vlakke gedeelte van het kraakbeen van het oor of de neusvleugel;  
 
-d. €  394,51 voor een vergunning voor het gebruik van een naald ten behoeve van het aanbrengen van een piercing;  
+d. € 396,09 voor een vergunning voor het gebruik van een naald ten behoeve van het aanbrengen van een piercing;  
 
-e. € 493,13, indien: 
+e. € 495,10, indien: 
 
 – de aanvraag betrekking heeft op twee of meer vormen van gebruik van tatoeage- of piercingmateriaal als bedoeld in de onderdelen a tot en met e, en  
 
 – die vormen van gebruik betrekking hebben op dezelfde ruimte.       
-2.  De retributie wordt vermeerderd met € 24,66 voor elk kwartier of gedeelte van een kwartier die de toezichthouder besteedt:
+2.  De retributie wordt vermeerderd met € 24,76 voor elk kwartier of gedeelte van een kwartier die de toezichthouder besteedt:
 
 a. aan de werkzaamheden die nodig zijn in verband met bij het onderzoek, bedoeld in artikel 4, derde lid, van het besluit geconstateerde gebreken die aanleiding geven tot vervolgonderzoek, voordat tot het verlenen van de vergunning kan worden overgegaan; of  
 
 b. om te reizen, teneinde het onderzoek, bedoeld in artikel 4, derde lid, van het besluit, en indien van toepassing het vervolgonderzoek bedoeld onder a, in te stellen.     
-3.  Indien het onderzoek, bedoeld in artikel 4, derde lid, van het besluit, in overleg met de aanvrager op een later tijdstip wordt voortgezet, wordt de retributie verhoogd met een bedrag van € 24,66 voor elk kwartier of gedeelte van een kwartier: 
+3.  Indien het onderzoek, bedoeld in artikel 4, derde lid, van het besluit, in overleg met de aanvrager op een later tijdstip wordt voortgezet, wordt de retributie verhoogd met een bedrag van € 24,76 voor elk kwartier of gedeelte van een kwartier: 
 
 a. dat de voortzetting duurt, en  
 
 b. voor de reistijd die nodig is om het onderzoek te kunnen voortzetten.     
-4.  De retributie wordt verminderd met een bedrag van € 98,63, indien: 
+4.  De retributie wordt verminderd met een bedrag van € 99,02, indien: 
 
 a. de aanvrager op het moment van aanvraag voor een andere ruimte dan waarop de aanvraag is gericht beschikt over een vergunning voor gelijksoortige activiteiten;  
 
