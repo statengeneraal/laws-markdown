@@ -2,21 +2,21 @@
 
 ##Inkomstenbelasting, aftrek van uitgaven voor monumentenpanden
 
-De staatssecretaris van Financiën heeft het volgende besloten.     *In dit besluit is het beleid geactualiseerd over de toepassing van de aftrek van monumentenpanden. In onderdeel 3.2.3 is een nieuwe goedkeuring opgenomen voor de aftrek van kosten van monumentale tuinen en parken waarvan het bezit is vrijgesteld in box 3. Daarnaast zijn er enkele redactionele wijzigingen doorgevoerd, waarmee geen inhoudelijke wijziging is beoogd.*    
+De staatssecretaris van Financiën heeft het volgende besloten.     *In dit besluit is het beleid geactualiseerd over de toepassing van de aftrek van monumentenpanden. In onderdeel 2.2 is een goedkeuring vooruitlopend op wetgeving opgenomen voor op het grondgebied van een andere lidstaat van de Europese Unie of staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte gelegen monumentenpanden, welke panden verband houden met het Nederlands cultureel erfgoed. Deze goedkeuring geldt met ingang van 18 december 2014. In onderdeel 3.2.3 is een nieuwe goedkeuring opgenomen voor de aftrek van kosten van monumentale tuinen en parken waarvan het bezit is vrijgesteld in box 3. Daarnaast zijn er enkele redactionele wijzigingen doorgevoerd, waarmee geen inhoudelijke wijziging is beoogd.*   
 ### 1  
 
 ####Inleiding
 
-In dit besluit zijn de standpunten opgenomen over de aftrek van uitgaven voor monumentenpanden ([artikel 6.31 van de Wet IB 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)).   
+In dit besluit zijn de standpunten opgenomen over de aftrek van uitgaven voor monumentenpanden (artikel 6.31 van de Wet IB 2001).   
 ### 1.1  
 
 ####Gebruikte begrippen en afkortingen
 
 *Bureau Monumentenpanden:* Belastingdienst/Utrecht-Gooi/kantoor Amersfoort/Bureau Monumentenpanden  
 
-*Brim:* [Besluit rijkssubsidiëring instandhouding monumenten](../../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/BWBR0019439/README.md)  
+*Brim:* Besluit rijkssubsidiëring instandhouding monumenten  
 
-*Monumentenregister:* Register, bedoeld in [artikel 6](../../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) of [7 van de Monumentenwet 1988](../../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md)  
+*Monumentenregister:* Register, bedoeld in artikel 6 of 7 van de Monumentenwet 1988  
 
 *Monumentenpand:* Beschermd rijksmonument dat is ingeschreven in het Monumentenregister       
 ### 2  
@@ -32,7 +32,28 @@ Uitgaven voor monumentenpanden die betrekking hebben op de periode vóór de ins
 
 ####Goedkeuring
 
-Ik keur met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (hardheidsclausule) goed dat ook aftrekbaar zijn de uitgaven voor monumentenpanden die zijn gedaan in de periode vanaf het moment dat de aanwijzing definitief is geworden tot de datum van inschrijving in het monumentenregister.      
+Ik keur met toepassing van artikel 63 van de Algemene wet inzake rijksbelastingen (hardheidsclausule) goed dat ook aftrekbaar zijn de uitgaven voor monumentenpanden die zijn gedaan in de periode vanaf het moment dat de aanwijzing definitief is geworden tot de datum van inschrijving in het monumentenregister.    
+### 2.2  
+
+####Op het grondgebied van een andere lidstaat gelegen monumentenpand verband houdend met het Nederlands cultureel erfgoed
+
+In de uitspraak van 18 december 2014 (C-87/13, ECLI:EU:C:2014:2459) heeft het Europese Hof van Justitie in antwoord op prejudiciële vragen van de Hoge Raad geoordeeld dat de mogelijkheid tot aftrek van uitgaven voor monumentenpanden die in Nederland gelegen zijn, ook open moet staan voor eigenaren van monumentenpanden die op het grondgebied van een andere lidstaat zijn gelegen en verband houden met het Nederlands cultureel erfgoed. De Hoge Raad heeft in de desbetreffende zaak op 1 mei 2015 (ECLI:NL:HR:2015:1174) conform het oordeel van het Hof van Justitie arrest gewezen. Om voornoemde uitspraken te effectueren en vooruitlopend op wetgeving, keur ik het volgende goed. 
+### *Goedkeuring*
+
+Ik keur onder de volgende voorwaarde goed, en mits aan de overige voorwaarden van artikel 6.31 van de Wet IB 2001 is voldaan, dat de aftrek van uitgaven voor monumentenpanden ook openstaat voor monumentenpanden die op het grondgebied van een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte zijn gelegen, mits aan de overige voorwaarden van artikel 6.31 van de Wet IB 2001 is voldaan. Deze goedkeuring geldt met ingang van 18 december 2014. 
+### *Voorwaarde*
+
+Voor deze goedkeuring geldt de voorwaarde dat de eigenaar van het monumentenpand een erkenning heeft van de minister van Onderwijs, Cultuur en Wetenschap dat: 
+
+– het monumentenpand een element vormt van het Nederlands cultureel erfgoed, en  
+
+– het monumentenpand voor aanwijzing op grond van de Monumentenwet 1988 in aanmerking zou komen als het op Nederlands grondgebied zou zijn gelegen.   De volgende elementen worden nader vastgesteld in een beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap: 
+
+– de criteria aan de hand waarvan een verzoek om erkenning wordt beoordeeld;  
+
+– de wijze waarop een eigenaar een aanvraag kan indienen en  
+
+– de wijze waarop een eigenaar kan aantonen dat het monumentenpand een element vormt van het Nederlands cultureel erfgoed en in aanmerking zou komen voor aanwijzing als beschermd monument als het op Nederlands grondgebied zou zijn gelegen.    
 ### 3  
 
 ####Huurderslasten
@@ -73,20 +94,20 @@ Ik keur met toepassing van de hardheidsclausule goed dat uitgaven voor een tuin 
 
 ####Ambtshalve vermindering
 
-De uitgaven komen in aftrek in het jaar waarin zij zijn betaald of anderszins in aanmerking worden genomen op grond van [artikel 6.40 van de Wet IB 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). Op verzoek kan ambtshalve vermindering worden verleend voor de aftrek van uitgaven voor monumentale tuinen en parken. Hierbij gelden de gebruikelijke voorwaarden voor ambtshalve vermindering.     
+De uitgaven komen in aftrek in het jaar waarin zij zijn betaald of anderszins in aanmerking worden genomen op grond van artikel 6.40 van de Wet IB 2001. Op verzoek kan ambtshalve vermindering worden verleend voor de aftrek van uitgaven voor monumentale tuinen en parken. Hierbij gelden de gebruikelijke voorwaarden voor ambtshalve vermindering.     
 ### 3.2.3  
 
 ####Aftrek van tuinkosten als de bezitting is vrijgesteld in box 3
 
-Monumentale tuinen en parken, die onder de [Natuurschoonwet 1928](../../../../../../../../wet/natuurschoonwet/1928/BWBR0001939/README.md) vallen, komen niet voor monumentenaftrek in aanmerking als de tuin of het park niet behoort tot een eigen woning. Deze tuinen behoren immers tot de vrijgestelde bezittingen in box 3. Door de wijze waarop [artikel 6.31 van de Wet IB 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is geformuleerd, bestaat geen recht op monumentenaftrek. In mijn brief van 16 juni 2009, nr. AFP09-347 heb ik aangegeven dat deze uitwerking niet is beoogd.   
+Monumentale tuinen en parken, die onder de Natuurschoonwet 1928 vallen, komen niet voor monumentenaftrek in aanmerking als de tuin of het park niet behoort tot een eigen woning. Deze tuinen behoren immers tot de vrijgestelde bezittingen in box 3. Door de wijze waarop artikel 6.31 van de Wet IB 2001 is geformuleerd, bestaat geen recht op monumentenaftrek. In mijn brief van 16 juni 2009, nr. AFP09-347 heb ik aangegeven dat deze uitwerking niet is beoogd.   
 
 ####Goedkeuring
 
-Ik keur met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat de kosten van monumentale tuinen en parken die zijn vrijgesteld op grond van [artikel 5.7 van de Wet IB 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), kunnen worden aangemerkt als monumentuitgaven. Voor aftrek van de kosten moet uiteraard zijn voldaan aan de overige eisen van [artikel 6.31 van de Wet IB 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).    
+Ik keur met toepassing van artikel 63 van de Algemene wet inzake rijksbelastingen (de hardheidsclausule) goed dat de kosten van monumentale tuinen en parken die zijn vrijgesteld op grond van artikel 5.7 van de Wet IB 2001, kunnen worden aangemerkt als monumentuitgaven. Voor aftrek van de kosten moet uiteraard zijn voldaan aan de overige eisen van artikel 6.31 van de Wet IB 2001.    
 
 ####Ambtshalve vermindering
 
-De uitgaven komen in aftrek in het jaar waarin zij zijn betaald of anderszins in aanmerking worden genomen op grond van [artikel 6.40 van de Wet IB 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). Op verzoek kan ambtshalve vermindering worden verleend voor de aftrek van uitgaven voor monumentale tuinen en parken. Hierbij gelden de gebruikelijke voorwaarden voor ambtshalve vermindering.       
+De uitgaven komen in aftrek in het jaar waarin zij zijn betaald of anderszins in aanmerking worden genomen op grond van artikel 6.40 van de Wet IB 2001. Op verzoek kan ambtshalve vermindering worden verleend voor de aftrek van uitgaven voor monumentale tuinen en parken. Hierbij gelden de gebruikelijke voorwaarden voor ambtshalve vermindering.       
 ### 4  
 
 ####Meegekochte onderhoudskosten/verplichtingen
@@ -101,7 +122,7 @@ De drempel is een jaarbedrag. Ook als de woning niet het gehele jaar in bezit is
 
 ####Drempel bij een tweede woning
 
-De tweede woning die in belangrijke mate ter beschikking staat, wordt gewaardeerd op de WOZ-waarde ([artikel 5.20 van de Wet IB 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)). Voor de drempelberekening geldt echter de waarde in het economische verkeer van [artikel 5.19 Wet IB 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) op 1 januari van het desbetreffende jaar ([artikel 6.31, eerste lid, onderdeel *b*, van de Wet IB 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)).    
+De tweede woning die in belangrijke mate ter beschikking staat, wordt gewaardeerd op de WOZ-waarde (artikel 5.20 van de Wet IB 2001). Voor de drempelberekening geldt echter de waarde in het economische verkeer van artikel 5.19 Wet IB 2001 op 1 januari van het desbetreffende jaar (artikel 6.31, eerste lid, onderdeel *b*, van de Wet IB 2001).    
 ### 5.2  
 
 ####Drempel bij gesplitst gebruik
@@ -115,7 +136,7 @@ De begane grond van een monumentenpand is verhuurd (box 3). De waarde in het eco
 
 ####Fiscale duidelijkheid vooraf bij restauratie
 
-Eigenaren van een rijksmonument met plannen voor de restauratie of (groot) onderhoud van hun monument kunnen vooraf duidelijkheid verkrijgen over de fiscale gevolgen van deze voorgenomen werkzaamheden. De eigenaar doet daarvoor een verzoek bij het Bureau Monumentenpanden. Deze regeling heeft alleen betrekking op monumentenpanden en -tuinen die zijn ingeschreven in het monumentenregister. Het Bureau Monumentenpanden stelt voor de uitgaven voor monumentenpanden en monumentale tuinen en parken de hoogte van de fiscaal aftrekbare onderhoudskosten vast voor de heffing van de inkomsten- en vennootschapsbelasting. Door het [Brim](../../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/BWBR0019439/README.md) kan de vaststelling door het Bureau Monumentenpanden ook niet-fiscale gevolgen hebben. Via het Nationaal Restauratiefonds kan de eigenaar met een beroep op het [Brim](../../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/BWBR0019439/README.md) een laagrentende lening krijgen. Die lening is gekoppeld aan het begrip fiscale onderhoudskosten dat vooraf wordt vastgesteld door het Bureau Monumentenpanden. Het Nationaal Restauratiefonds verstrekt ook leningen aan eigenaren voor wie aftrek van monumentuitgaven niet mogelijk is, zoals niet-belastingplichtige eigenaren of als fiscaal sprake is van een nieuwe bron van inkomen. Het Bureau Monumentenpanden stelt dan vast welk deel van de kosten – fictief – als onderhoudskosten zou worden aangemerkt bij aftrek van monumentenuitgaven. Deze pro forma vaststelling van de onderhoudskosten heeft weliswaar fiscaal geen gevolg, maar het Nationaal Restauratiefonds gebruikt de vaststelling wel voor het verstrekken van een lening op grond van het [Brim](../../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/BWBR0019439/README.md).   
+Eigenaren van een rijksmonument met plannen voor de restauratie of (groot) onderhoud van hun monument kunnen vooraf duidelijkheid verkrijgen over de fiscale gevolgen van deze voorgenomen werkzaamheden. De eigenaar doet daarvoor een verzoek bij het Bureau Monumentenpanden. Deze regeling heeft alleen betrekking op monumentenpanden en -tuinen die zijn ingeschreven in het monumentenregister. Het Bureau Monumentenpanden stelt voor de uitgaven voor monumentenpanden en monumentale tuinen en parken de hoogte van de fiscaal aftrekbare onderhoudskosten vast voor de heffing van de inkomsten- en vennootschapsbelasting. Door het Brim kan de vaststelling door het Bureau Monumentenpanden ook niet-fiscale gevolgen hebben. Via het Nationaal Restauratiefonds kan de eigenaar met een beroep op het Brim een laagrentende lening krijgen. Die lening is gekoppeld aan het begrip fiscale onderhoudskosten dat vooraf wordt vastgesteld door het Bureau Monumentenpanden. Het Nationaal Restauratiefonds verstrekt ook leningen aan eigenaren voor wie aftrek van monumentuitgaven niet mogelijk is, zoals niet-belastingplichtige eigenaren of als fiscaal sprake is van een nieuwe bron van inkomen. Het Bureau Monumentenpanden stelt dan vast welk deel van de kosten – fictief – als onderhoudskosten zou worden aangemerkt bij aftrek van monumentenuitgaven. Deze pro forma vaststelling van de onderhoudskosten heeft weliswaar fiscaal geen gevolg, maar het Nationaal Restauratiefonds gebruikt de vaststelling wel voor het verstrekken van een lening op grond van het Brim.   
 ### 6.1  
 
 ####Aanvraagformulier
@@ -140,7 +161,7 @@ Ik heb het Bureau Monumentenpanden gemachtigd om een standpunt in te nemen namen
 
 ####Ingetrokken regelingen
 
-Het [besluit van 16 juni 2008](../../../../../../../../beleidsregel/inkomstenbelasting/aftrek/van/uitgaven/voor/monumentenpanden/BWBR0024050/README.md), nr. CPP2008/68M is ingetrokken met ingang van de inwerkingtreding van dit besluit.    
+Het besluit van 16 juni 2008, nr. CPP2008/68M is ingetrokken met ingang van de inwerkingtreding van dit besluit.    
 ### 8  
 
 ####Inwerkingtreding

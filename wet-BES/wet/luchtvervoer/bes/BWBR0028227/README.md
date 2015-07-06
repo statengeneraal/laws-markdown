@@ -8,7 +8,7 @@
 
 ### Artikel  1  
 
-De bepalingen van deze wet vinden toepassing voor zover niet ingevolge een overeenkomst als bedoeld in [artikel 66 der Grondwet voor het Koninkrijk der Nederlanden](../../../../../wet/grondwet/BWBR0001840/README.md) een andere voorziening geldt. 
+De bepalingen van deze wet vinden toepassing voor zover niet ingevolge een overeenkomst als bedoeld in artikel 66 der Grondwet voor het Koninkrijk der Nederlanden een andere voorziening geldt. 
 
 ### Artikel  2  
 

@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder 
 
-a.  *tijdstip van transitie:* het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](../../../../../../../../../../rijkswet/rijkswet/wijziging/statuut/in/verband/met/de/opheffing/van/de/nederlandse/etc/BWBR0028249/README.md) in werking treedt;  
+a.  *tijdstip van transitie:* het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt;  
 
 b.  *eilandgebieden:* de eilandgebieden Bonaire, Sint Eustatius en Saba, genoemd in artikel 1, onderdeel a, d en c, van de Staatsregeling van de Nederlandse Antillen, zoals die tot het tijdstip van transitie gold;  
 
@@ -39,16 +39,16 @@ b. op andere wijze onmiskenbaar uit enig wettelijk voorschrift volgt dat die wet
 
 ### Artikel  3  
 
-1.  De [Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van [hoofdstuk 9](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is niet van toepassing op besluiten en handelingen van bestuursorganen die hun zetel hebben in het Europese deel van Nederland, ter uitvoering van: 
+1.  De Algemene wet bestuursrecht, met uitzondering van hoofdstuk 9, is niet van toepassing op besluiten en handelingen van bestuursorganen die hun zetel hebben in het Europese deel van Nederland, ter uitvoering van: 
 
 a. een wettelijke regeling die uitsluitend in de openbare lichamen van toepassing is;  
 
 b. een wettelijke regeling die op grond van artikel 2, tweede lid, mede van toepassing is in de openbare lichamen, voor zover het besluit of de handeling gericht is tot een natuurlijk persoon of een rechtspersoon die ten tijde van het nemen van het besluit of het verrichten van de handeling ingezetene is van onderscheidenlijk gevestigd is in de openbare lichamen.     
-2.  De [hoofdstukken 6 tot en met 8 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing op besluiten en handelingen van bestuursorganen die hun zetel hebben in het Europese deel van Nederland, ter uitvoering van een wettelijk voorschrift als bedoeld in artikel 2, derde lid, voor zover het desbetreffende besluit of de handeling gericht is tot een natuurlijk persoon of een rechtspersoon die ten tijde van het nemen van het besluit of het verrichten van de handeling ingezetene is van onderscheidenlijk gevestigd is in de openbare lichamen.   
-3.  [Hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is tevens van toepassing op gedragingen van in [artikel 1a, eerste lid, onder d en e, van de Wet Nationale ombudsman](../../../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md) bedoelde bestuursorganen met een zetel in de openbare lichamen.   
-4.  In de gevallen, bedoeld in het eerste en tweede lid, is de [Wet administratieve rechtspraak BES](../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) van toepassing voor zover sprake is van een beschikking in de zin van die wet.   
-5.  Indien een beroepschrift tegen een beschikking op grond van een wettelijke regeling als bedoeld in het eerste lid, wordt ingediend bij een onbevoegde administratieve rechter, wordt het, nadat daarop de datum van ontvangst is aangetekend, zo spoedig mogelijk doorgezonden aan het bevoegde orgaan, onder gelijktijdige mededeling hiervan aan de afzender. [Artikel 6:15, derde lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
-6.  Het tweede lid is niet van toepassing op besluiten en handelingen ten aanzien van ambtenaren als bedoeld in [artikel 1 van de Ambtenarenwet](../../../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) als zodanig, die hun werkzaamheden verrichten in de openbare lichamen.   
+2.  De hoofdstukken 6 tot en met 8 van de Algemene wet bestuursrecht zijn niet van toepassing op besluiten en handelingen van bestuursorganen die hun zetel hebben in het Europese deel van Nederland, ter uitvoering van een wettelijk voorschrift als bedoeld in artikel 2, derde lid, voor zover het desbetreffende besluit of de handeling gericht is tot een natuurlijk persoon of een rechtspersoon die ten tijde van het nemen van het besluit of het verrichten van de handeling ingezetene is van onderscheidenlijk gevestigd is in de openbare lichamen.   
+3.  Hoofdstuk 9 van de Algemene wet bestuursrecht is tevens van toepassing op gedragingen van in artikel 1a, eerste lid, onder d en e, van de Wet Nationale ombudsman bedoelde bestuursorganen met een zetel in de openbare lichamen.   
+4.  In de gevallen, bedoeld in het eerste en tweede lid, is de Wet administratieve rechtspraak BES van toepassing voor zover sprake is van een beschikking in de zin van die wet.   
+5.  Indien een beroepschrift tegen een beschikking op grond van een wettelijke regeling als bedoeld in het eerste lid, wordt ingediend bij een onbevoegde administratieve rechter, wordt het, nadat daarop de datum van ontvangst is aangetekend, zo spoedig mogelijk doorgezonden aan het bevoegde orgaan, onder gelijktijdige mededeling hiervan aan de afzender. Artikel 6:15, derde lid, van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
+6.  Het tweede lid is niet van toepassing op besluiten en handelingen ten aanzien van ambtenaren als bedoeld in artikel 1 van de Ambtenarenwet als zodanig, die hun werkzaamheden verrichten in de openbare lichamen.   
 7.  Het eerste en tweede lid zijn evenmin van toepassing op de heffing en inning van belastingen of van rechten bij invoer. 
 
 ### Artikel  4  
@@ -61,7 +61,7 @@ Indien in een wettelijk voorschrift dat niet ingevolge artikel 2, eerste of twee
 
 ### Artikel  4a  
 
-In wettelijke regelingen en voorschriften zoals deze van toepassing zijn in de openbare lichamen wordt geen onderscheid gemaakt ten aanzien van de publiekrechtelijke rechtsgevolgen van huwelijken of geregistreerd partnerschappen voltrokken op grond van het in het Europese deel van Nederland geldende Burgerlijk Wetboek, en huwelijken, gesloten op grond van [Boek 1 van het Burgerlijk Wetboek BES](../../../../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md) in een van de openbare lichamen. 
+In wettelijke regelingen en voorschriften zoals deze van toepassing zijn in de openbare lichamen wordt geen onderscheid gemaakt ten aanzien van de publiekrechtelijke rechtsgevolgen van huwelijken of geregistreerd partnerschappen voltrokken op grond van het in het Europese deel van Nederland geldende Burgerlijk Wetboek, en huwelijken, gesloten op grond van Boek 1 van het Burgerlijk Wetboek BES in een van de openbare lichamen. 
 
 ### Hoofdstuk  2b  
 
@@ -187,7 +187,7 @@ b. de behandeling van een vóór dat tijdstip bij het bestuursorgaan van het eil
 
 ### Artikel  7  
 
-Onverminderd de [artikelen 215](../../../../../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) en [216 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md), worden eilandsverordeningen en eilandsbesluiten, houdende algemene maatregelen, die door de eilandsraad, onderscheidenlijk het bestuurscollege van een eilandgebied zijn vastgesteld ten behoeve van een openbaar lichaam, met ingang van het tijdstip van transitie aangemerkt als door de eilandsraad onderscheidenlijk het bestuurscollege van het desbetreffende openbaar lichaam vastgestelde eilandsverordeningen onderscheidenlijk eilandsbesluiten, houdende algemene maatregelen. 
+Onverminderd de artikelen 215 en 216 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba, worden eilandsverordeningen en eilandsbesluiten, houdende algemene maatregelen, die door de eilandsraad, onderscheidenlijk het bestuurscollege van een eilandgebied zijn vastgesteld ten behoeve van een openbaar lichaam, met ingang van het tijdstip van transitie aangemerkt als door de eilandsraad onderscheidenlijk het bestuurscollege van het desbetreffende openbaar lichaam vastgestelde eilandsverordeningen onderscheidenlijk eilandsbesluiten, houdende algemene maatregelen. 
 
 ### Artikel  8  
 
@@ -201,12 +201,12 @@ Onverminderd de [artikelen 215](../../../../../../../../../../wet-BES/wet/openba
 
 ### Artikel  10  
 
-Op vragen van overgangsrecht waartoe, als gevolg van invoering van deze wet en de [Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/aanpassingswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028129/README.md), de aanpassing van wetgeving van Nederlands-Antilliaanse oorsprong op het terrein van het privaatrecht aanleiding geeft, zijn de [Overgangswet nieuw Burgerlijk Wetboek BES](../../../../../../../../../../wet-BES/overgangswet/nieuw/burgerlijk/wetboek/bes/BWBR0028466/README.md) en de [Overgangswet nieuw Burgerlijk Wetboek BES, tweede gedeelte](../../../../../../../../../../wet-BES/overgangswet/nieuw/burgerlijk/wetboek/bes/tweede/gedeelte/BWBR0028301/README.md), van overeenkomstige toepassing. 
+Op vragen van overgangsrecht waartoe, als gevolg van invoering van deze wet en de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba, de aanpassing van wetgeving van Nederlands-Antilliaanse oorsprong op het terrein van het privaatrecht aanleiding geeft, zijn de Overgangswet nieuw Burgerlijk Wetboek BES en de Overgangswet nieuw Burgerlijk Wetboek BES, tweede gedeelte, van overeenkomstige toepassing. 
 
 ### Artikel  11  
 
 1.  Ten aanzien van rechten en verplichtingen naar burgerlijk recht van de eilandgebieden treden de openbare lichamen op het tijdstip van transitie voor de eilandgebieden in de plaats.   
-2.  Wettelijke procedures en rechtsgedingen waarbij een eilandgebied betrokken was, worden met ingang van het tijdstip van transitie voortgezet door of tegen het desbetreffende openbaar lichaam, voor zover dat openbaar lichaam op grond van het eerste lid in de plaats treedt voor dat eilandgebied. Ten aanzien van de rechtsgedingen is de [elfde afdeling van titel 2 van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) van overeenkomstige toepassing.  
+2.  Wettelijke procedures en rechtsgedingen waarbij een eilandgebied betrokken was, worden met ingang van het tijdstip van transitie voortgezet door of tegen het desbetreffende openbaar lichaam, voor zover dat openbaar lichaam op grond van het eerste lid in de plaats treedt voor dat eilandgebied. Ten aanzien van de rechtsgedingen is de elfde afdeling van titel 2 van het Wetboek van Burgerlijke Rechtsvordering BES van overeenkomstige toepassing.  
 
 ### Artikel  12  
 
@@ -222,7 +222,7 @@ Indien in regelingen als bedoeld in artikel 2, eerste lid, sprake is van een bev
 
 ### Artikel  14  
 
-De bepalingen die voorkomen op de bij de [Coördinatiewet uitzonderingstoestanden behorende lijst A](../../../../../../../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) zijn van overeenkomstige toepassing in de openbare lichamen, voor zover deze bepalingen niet reeds van toepassing zijn in de openbare lichamen, met dien verstande dat telkens in die bepalingen wordt gelezen voor: 
+De bepalingen die voorkomen op de bij de Coördinatiewet uitzonderingstoestanden behorende lijst A zijn van overeenkomstige toepassing in de openbare lichamen, voor zover deze bepalingen niet reeds van toepassing zijn in de openbare lichamen, met dien verstande dat telkens in die bepalingen wordt gelezen voor: 
 
 a. «burgemeester»: gezaghebber;  
 
@@ -230,7 +230,7 @@ b. «Onze Commissaris van de Koning», «Onze Commissaris in de provincie» en �
 
 ### Artikel  15  
 
-1.  Onverminderd de [artikelen 7, eerste lid](../../../../../../../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../../../../../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), kunnen, indien buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, bepalingen die voorkomen op de bij de [Coördinatiewet uitzonderingstoestanden behorende lijst A](../../../../../../../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) voor de openbare lichamen gezamenlijk of ieder afzonderlijk in werking worden gesteld.   
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden, kunnen, indien buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, bepalingen die voorkomen op de bij de Coördinatiewet uitzonderingstoestanden behorende lijst A voor de openbare lichamen gezamenlijk of ieder afzonderlijk in werking worden gesteld.   
 2.  Indien een koninklijk besluit als bedoeld in het eerste lid is vastgesteld, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.   
 3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge het eerste lid in werking zijn gesteld, onverwijld buiten werking gesteld.   
 4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, worden bepalingen die ingevolge het eerste lid in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.   
@@ -438,7 +438,7 @@ Onze Minister kan, wanneer de toepassing van 18.2.4c tot onbillijkheden aanleidi
 
 1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze paragraaf zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.   
 2.  Onze Minister wijst ambtenaren aan die zijn belast met onderzoek naar de aanwezigheid van besmettelijke dierziekten.   
-3.  Met de opsporing van de bij de artikelen 18.2.7 en 18.2.8, strafbaar gestelde feiten zijn, onverminderd [artikel 184 Wetboek van Strafvordering BES](../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), belast de daartoe aangewezen buitengewone opsporingsambtenaren.   
+3.  Met de opsporing van de bij de artikelen 18.2.7 en 18.2.8, strafbaar gestelde feiten zijn, onverminderd artikel 184 Wetboek van Strafvordering BES, belast de daartoe aangewezen buitengewone opsporingsambtenaren.   
 4.  Van een besluit als bedoeld in dit artikel wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
 ### Artikel  18.2.10  
@@ -464,7 +464,7 @@ e. vaartuigen, stilstaande voertuigen en de lading daarvan te onderzoeken.
 
 ### Artikel  18.2.11  
 
-De [artikelen 12 tot en met 35 van de Wet voorschriften bestrijdingsmiddelen BES](../../../../../../../../../../wet-BES/wet/voorschriften/bestrijdingsmiddelen/bes/BWBR0028176/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 12 tot en met 35 van de Wet voorschriften bestrijdingsmiddelen BES zijn van overeenkomstige toepassing. 
 
 ### §  3  
 
@@ -484,9 +484,9 @@ b. het door Onze Minister van Sociale Zaken en Werkgelegenheid aan derden verstr
 
 c. het verwerken van persoonsgegevens bij de uitvoering van dit artikel en de krachtens het vierde lid gestelde regels;  
 
-d. het van toepassing worden van onderdelen van de [Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bij de uitvoering van dit artikel en de krachtens het vierde lid gestelde regels.     
-6.  Een besluit van Onze Minister van Sociale Zaken en Werkgelegenheid tot terugvordering van kosten van onderstand levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md).   
-7.  Terugvordering van kosten van onderstand door Onze Minister van Sociale Zaken en Werkgelegenheid is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in [artikel 288 van het Burgerlijk Wetboek BES](../../../../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md).   
+d. het van toepassing worden van onderdelen van de Algemene wet bestuursrecht bij de uitvoering van dit artikel en de krachtens het vierde lid gestelde regels.     
+6.  Een besluit van Onze Minister van Sociale Zaken en Werkgelegenheid tot terugvordering van kosten van onderstand levert een executoriale titel op in de zin van het Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering BES.   
+7.  Terugvordering van kosten van onderstand door Onze Minister van Sociale Zaken en Werkgelegenheid is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in artikel 288 van het Burgerlijk Wetboek BES.   
 8.  De eilandbesturen van de openbare lichamen kunnen Onze Minister van Sociale Zaken en Werkgelegenheid voorstellen doen betreffende het beleid met betrekking tot de uitvoering van dit artikel.   
 9.  Het ontwerp van een krachtens het eerste, vierde of vijfde lid vast te stellen algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. De voordracht voor de vast te stellen algemene maatregel van bestuur kan worden gedaan nadat vier weken na de overlegging zijn verstreken, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen worden gegeven dat het onderwerp van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend.  
 
@@ -521,7 +521,7 @@ a.zorg:
 
 1°. zorg of dienst als omschreven bij of krachtens het Besluit zorgverzekering BES;  
 
-2°. handelingen op het gebied van de gezondheidszorg als bedoeld in [artikel 1, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), voor zover uitgevoerd, al dan niet onder eigen verantwoordelijkheid, door personen, ingeschreven in een register als bedoeld in [artikel 3 van die wet](../../../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) of door personen als bedoeld in [artikel 34 van die wet](../../../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) en voor zover die handelingen niet zijn begrepen onder 1°;    
+2°. handelingen op het gebied van de gezondheidszorg als bedoeld in artikel 1, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg, voor zover uitgevoerd, al dan niet onder eigen verantwoordelijkheid, door personen, ingeschreven in een register als bedoeld in artikel 3 van die wet of door personen als bedoeld in artikel 34 van die wet en voor zover die handelingen niet zijn begrepen onder 1°;    
 
 b.zorgaanbieder:
 
@@ -609,13 +609,13 @@ De voordracht voor een krachtens de artikelen 18.4.6, 18.4.7 en 18.4.7a vast te 
 
 ### Artikel  18.4.11  
 
-De [afdelingen 5.3](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5.4 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing. 
+De afdelingen 5.3 en 5.4 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing. 
 
 ### Artikel  18.4.12  
 
 1.  Met het toezicht op de naleving van de krachtens de artikelen 18.4.4, 18.4.6 en 18.4.7 gestelde regels zijn belast de ambtenaren van het Staatstoezicht op de volksgezondheid. Met het toezicht op de naleving van de krachtens artikel 18.4.7a gestelde regels zijn belast de ambtenaren van de Inspectie jeugdzorg.   
-2.  Artikel 16.3.10 en de [artikelen 155 tot en met 163 van het Wetboek van Strafvordering BES](../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) zijn van overeenkomstige toepassing.   
-3.  Met het opsporen van de bij artikel 18.4.4 strafbaar gestelde feiten zijn, naast de bij [artikel 184 van het Wetboek van Strafvordering BES](../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) aangewezen personen, belast de daartoe bij ministeriële regeling aangewezen medewerkers van de Inspectie voor de Volksgezondheid. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant. 
+2.  Artikel 16.3.10 en de artikelen 155 tot en met 163 van het Wetboek van Strafvordering BES zijn van overeenkomstige toepassing.   
+3.  Met het opsporen van de bij artikel 18.4.4 strafbaar gestelde feiten zijn, naast de bij artikel 184 van het Wetboek van Strafvordering BES aangewezen personen, belast de daartoe bij ministeriële regeling aangewezen medewerkers van de Inspectie voor de Volksgezondheid. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant. 
 
 ### Artikel  18.4.13  
 

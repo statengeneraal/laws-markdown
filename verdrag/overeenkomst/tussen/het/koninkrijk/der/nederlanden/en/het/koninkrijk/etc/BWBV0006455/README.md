@@ -14,7 +14,7 @@ Les consuls généraux, consuls, vice-consuls et agents consulaires belges sont 
 
 ###Art. 3 
 
-Les consuls généraux, consuls et vice-consuls, avant d'être admis à l'exercice de leurs fonctions, et de jouir des immunités qui y sont attachées, doivent produire une commission en dûe forme au Gouvernement de sa Majesté le Roi des Pays-Bas.Après savoir obtenu l'éxéquatur, qui sera aussi promptement que possible, contresigné par le gouverneur de la colonie, les dits fonctionnaires consulaires de tous grades auront droit à la protection du gouvernement, et à l'assistance des autorités locales pour le libre exercice de leurs fontions.Le gouvernement, en accordant l'exéquatur, se réserve la faculté de le retirer ou faire retirer par le gouverneur de la colonie, en indiquant les motifs de cette mesure.
+Les consuls généraux, consuls et vice-consuls, avant d'être admis à l'exercice de leurs fonctions, et de jouir des immunités qui y sont attachées, doivent produire une commission en dûe forme au Gouvernement de sa Majesté le Roi des Pays-Bas.Après avoir obtenu l'éxéquatur, qui sera aussi promptement que possible, contresigné par le gouverneur de la colonie, les dits fonctionnaires consulaires de tous grades auront droit à la protection du gouvernement, et à l'assistance des autorités locales pour le libre exercice de leurs fontions.Le gouvernement, en accordant l'exéquatur, se réserve la faculté de le retirer ou faire retirer par le gouverneur de la colonie, en indiquant les motifs de cette mesure.
 
 ###Art. 4 
 

@@ -46,7 +46,7 @@ De tolk, krachtens het voorgaande artikel benoemd of aangewezen, legt, alvorens 
 
 1.  Grossen van overeenkomstig artikel 17 opgemaakte akten voeren aan het hoofd de woorden "In naam des Konings".   
 2.   Deze grossen en grossen van uit kracht van de wet door een consulaire ambtenaar gedane uitspraken zijn in het Koninkrijk uitvoerbaar, mits in behoorlijke vorm opgemaakt.   
-3.   Na het wijzen van een scheidsrechterlijke uitspraak zendt de consulaire ambtenaar deze uitspraak, met een afschrift van zijn schriftelijke benoeming als scheidsman door de partijen of met een authentiek afschrift daarvan, aan de president van de arrondissementsrechtbank te ’s-Gravenhage die daarop een bevelschrift stelt als bedoeld in [artikel 642 van het Nederlandse Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), dan wel een overeenkomstige regeling in de openbare lichamen Bonaire, Sint Eustatius en Saba.  
+3.   Na het wijzen van een scheidsrechterlijke uitspraak zendt de consulaire ambtenaar deze uitspraak, met een afschrift van zijn schriftelijke benoeming als scheidsman door de partijen of met een authentiek afschrift daarvan, aan de president van de arrondissementsrechtbank te ’s-Gravenhage die daarop een bevelschrift stelt als bedoeld in artikel 642 van het Nederlandse Wetboek van Burgerlijke Rechtsvordering, dan wel een overeenkomstige regeling in de openbare lichamen Bonaire, Sint Eustatius en Saba.  
 
 ### Artikel  8  
 
@@ -64,7 +64,7 @@ Bij de uitoefening van rechtspraak en het verrichten van andere handelingen van 
 
 ### Artikel  11  
 
-1.  Een consulaire ambtenaar kan worden gewraakt op een of meer der in [artikel 30 van het Nederlandse Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) genoemde gronden, dan wel een overeenkomstige regeling in de openbare lichamen Bonaire, Sint Eustatius en Saba.   
+1.  Een consulaire ambtenaar kan worden gewraakt op een of meer der in artikel 30 van het Nederlandse Wetboek van Burgerlijke Rechtsvordering genoemde gronden, dan wel een overeenkomstige regeling in de openbare lichamen Bonaire, Sint Eustatius en Saba.   
 2.   Op de wraking beslist de onmiddellijk boven hem gestelde ambtenaar of bij gebreke daarvan de secretaris-generaal van het Departement van Buitenlandse Zaken, zonder mogelijkheid van beroep.   
 3.   Indien een consulaire ambtenaar zich verschoont of indien zijn wraking gegrond bevonden wordt, voorziet de onmiddellijk boven hem gestelde ambtenaar of bij gebreke daarvan de secretaris-generaal van het Departement van Buitenlandse Zaken in zijn vervanging door een andere consulaire ambtenaar die niet aan de eerstgenoemde ondergeschikt mag zijn.  
 
@@ -108,7 +108,7 @@ Ten opzichte van de in het vorig artikel bedoelde registers worden aan de griffi
 ### Artikel  16a  
 
 1.  Van de verzoeken tot doorhaling van een akte in of tot aanvulling of verbetering van de registers van de burgerlijke stand die binnen een consulair ressort zijn of hadden moeten worden gehouden, neemt de arrondissements-rechtbank te ’s-Gravenhage kennis, behoudens hoger beroep.   
-2.   [Artikel 29 van boek 1 van het Nederlands Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) is van overeenkomstige toepassing.  
+2.   Artikel 29 van boek 1 van het Nederlands Burgerlijk Wetboek is van overeenkomstige toepassing.  
 
 ### Artikel  17  
 

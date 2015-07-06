@@ -82,6 +82,6 @@ Den Haag
 25 juni 2015   
 
 De 
-Staatssecretaris van Veiligheid en Justitie namens deze, 
+Staatssecretaris van Veiligheid en Justitie, namens deze, 
 S.M.A.C. van Weert  
 Afdelingsmanager V&T    

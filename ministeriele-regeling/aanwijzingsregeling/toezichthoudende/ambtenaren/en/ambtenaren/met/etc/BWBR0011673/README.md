@@ -68,11 +68,11 @@ a. de Arbeidsomstandighedenwet: de artikelen 9, eerste lid, 28a, eerste lid, 28b
 
 b. de Arbeidstijdenwet: de artikelen 3:3, eerste lid, 4:1, vijfde lid, en 8:2, eerste en tweede lid,8:3a, eerste lid;  
 
-c. de Wet arbeid vreemdelingen: artikel 17b, eerste lid;  
+c. de Wet arbeid vreemdelingen: artikel 17b, eerste lid en 19g, eerste lid, voor zover het betreft het besluit tot openbaarmaking van het feit dat een besluit is genomen als bedoeld in artikel 17b, tweede lid;  
 
-d. de Wet minimumloon en minimumvakantiebijslag: artikel 18i, eerste lid;  
+d. de Wet minimumloon en minimumvakantiebijslag: artikel 18i, eerste lid en 18pa, eerste lid, voor zover het betreft het besluit tot openbaarmaking van het feit dat een besluit is genomen als bedoeld in artikel 18i, tweede lid;  
 
-e. de Wet allocatie arbeidskrachten door intermediairs: artikel 22, eerste lid; 
+e. de Wet allocatie arbeidskrachten door intermediairs: artikel 22, eerste lid en 15b, eerste lid, voor zover het betreft het besluit tot openbaarmaking van het feit dat een besluit is genomen als bedoeld in artikel 22, tweede lid; 
 
 f. het Arbeidsomstandighedenbesluit: artikel 9.5b, tweede lid;  
 

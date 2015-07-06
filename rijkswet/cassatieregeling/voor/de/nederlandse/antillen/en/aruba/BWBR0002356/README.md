@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is overeenkomstig [artikel 23 van het Statuut voor het Koninkrijk der Nederlanden](../../../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md) een regeling te geven voor cassatie door de Hoge Raad der Nederlanden ten aanzien van burgerlijke en strafzaken in de Nederlandse Antillen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is overeenkomstig artikel 23 van het Statuut voor het Koninkrijk der Nederlanden een regeling te geven voor cassatie door de Hoge Raad der Nederlanden ten aanzien van burgerlijke en strafzaken in de Nederlandse Antillen;
 Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### §  1  
 
@@ -76,7 +76,7 @@ De zaak kan bij de Hoge Raad ook worden bepleit door advocaten, ingeschreven bij
 
 1.  Voor het instellen van het beroep in cassatie staat de verdachte en een procureur-generaal bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba een termijn open van veertien vrije dagen. Bij algemene maatregel van rijksbestuur kan een langere termijn worden vastgesteld voor de gevallen, waarin de verdachte geen woonplaats heeft op het eiland waar de beslissing, waartegen beroep in cassatie wordt ingesteld, is uitgesproken.   
 2.  Alvorens de stukken van het geding aan de griffier van de Hoge Raad worden gezonden, wordt aan de raadsman van de verdachte, indien hij dit verzoekt, gelegenheid gegeven de stukken in te zien.   
-3.   Aanzeggingen en kennisgevingen als voorgeschreven in [titel III van het derde Boek van het Wetboek van Strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van het Europese deel van het Koninkrijk geschieden op de in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba gebruikelijke wijze, en, voor zover zij moeten uitgaan van de procureur-generaal bij de Hoge Raad, op diens uitnodiging door de zorg van een procureur-generaal bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.  
+3.   Aanzeggingen en kennisgevingen als voorgeschreven in titel III van het derde Boek van het Wetboek van Strafvordering van het Europese deel van het Koninkrijk geschieden op de in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba gebruikelijke wijze, en, voor zover zij moeten uitgaan van de procureur-generaal bij de Hoge Raad, op diens uitnodiging door de zorg van een procureur-generaal bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.  
 
 ### Artikel  12  
 
@@ -108,7 +108,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 1.  De belanghebbende die bevoegd was in belastingzaken hoger beroep in te stellen bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba en Onze Minister van Financiën van Aruba, Curaçao, Sint Maarten of Nederland kunnen bij de Hoge Raad beroep in cassatie instellen tegen uitspraken in belastingzaken van het Gemeenschappelijk Hof. Tegen andere beslissingen van het Gemeenschappelijk Hof kan slechts tegelijkertijd met het beroep in cassatie tegen de uitspraak beroep in cassatie worden ingesteld.   
 2.  Het beroep kan worden ingesteld binnen twee maanden na dagtekening van het afschrift van de uitspraak van het Gemeenschappelijk Hof.   
-3.  [Afdeling 4 van hoofdstuk V](../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van [artikel 28, van de Algemene wet inzake rijksbelastingen](../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van overeenkomstige toepassing.   
+3.  Afdeling 4 van hoofdstuk V, met uitzondering van artikel 28, van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing.   
 4.  Indien verwijzing naar een andere rechter moet plaats hebben, geschiedt deze steeds naar het Gemeenschappelijk Hof.   
 5.  Het Gemeenschappelijk Hof is in het geval, bedoeld in het vierde lid, zoveel mogelijk samengesteld uit rechters die nog niet over de zaak hebben geoordeeld.  
 
@@ -118,7 +118,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ### Artikel  16  
 
-In het geval bedoeld in [artikel 456, laatste lid, van het Wetboek van Strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van het Europese deel van het Koninkrijk zendt de procureur-generaal bij de Hoge Raad het aldaar bedoelde uittreksel aan een procureur-generaal bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba. 
+In het geval bedoeld in artikel 456, laatste lid, van het Wetboek van Strafvordering van het Europese deel van het Koninkrijk zendt de procureur-generaal bij de Hoge Raad het aldaar bedoelde uittreksel aan een procureur-generaal bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba. 
 
 ### §  5  
 

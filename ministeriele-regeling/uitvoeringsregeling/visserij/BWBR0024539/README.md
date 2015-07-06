@@ -644,7 +644,7 @@ c. bij aanlanding in een Nederlandse haven is de ondernemer verplicht onverwijld
 
 1.  Van het verbod in artikel 13, onderdeel a, is degene die op 15 april 2007 in het bezit was van een vergunning als bedoeld in artikel 36, vrijgesteld onder de voorwaarden dat: 
 
-a. eidragende en pas verschaalde kreeften, als kreeften gevangen in de periode vanaf de laatste donderdag van maart tot en met 15 juli, onmiddellijk worden teruggezet, en  
+a. eidragende zeekreeften, pas verschaalde zeekreeften en zeekreeften die zijn gevangen tussen 15 juli en de laatste donderdag van maart, worden onmiddellijk na de vangst teruggezet, en  
 
 b. bijgevangen ondermaatse vis dan wel garnalen met behulp van water automatisch naar buitenboord worden afgevoerd via een uit glad materiaal bestaande glijgoot of afvoerpijp;     
 2.  Indien degene als bedoeld in het eerste lid, met een ander vissersvaartuig vist dan met het vaartuig waarvoor de in het eerste lid bedoelde vergunning is verleend, maakt hij hiervan twee weken van tevoren schriftelijk melding bij de Minister.  
@@ -806,7 +806,9 @@ c. de melding, bedoeld in onderdeel b, vergezeld heeft doen gaan van een assuran
 
 d. voorts telkens éénmaal in de vier jaar, te rekenen vanaf de melding, bedoeld in onderdeel b, de Minister een rapport heeft doen toekomen als bedoeld in onderdeel c, waaruit blijkt dat in het kalenderjaar voorafgaande aan de toezending van het assurance-rapport nog steeds is voldaan aan het criterium, bedoeld in onderdeel a.     
 2.  Het verbod, bedoeld in artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985, is niet van toepassing op het vissen in een binnen een afgesloten erf gelegen viswater, dat geen voor het doorlaten van vis geschikte verbinding met andere wateren bezit, alsmede op het vissen in een viskwekerij.   
-3.  Bij de bepaling van het areaal, bedoeld in het eerste lid, onderdeel a, wordt mede begrepen het oppervlak aan viswater waarvoor vergunning is verleend ingevolge de artikelen 12 en 36, met uitzondering van het viswater waarvoor vergunning is verleend voor recreatief vissen voor uitsluitend eigen gebruik met maximaal twee fuiken of met beperkte lengte hoekwant tot maximaal 200 meter, of met beperkte lengte staand want tot maximaal 150 meter.  
+3.  Bij de bepaling van het areaal, bedoeld in het eerste lid, onderdeel a, wordt mede begrepen het oppervlak aan viswater waarvoor vergunning is verleend ingevolge de artikelen 12 en 36, met uitzondering van het viswater waarvoor vergunning is verleend voor recreatief vissen voor uitsluitend eigen gebruik met maximaal twee fuiken of met beperkte lengte hoekwant tot maximaal 200 meter, of met beperkte lengte staand want tot maximaal 150 meter.   
+4.  In afwijking van het eerste lid, aanhef en onderdelen c en d, kan een rapport als bedoeld in die onderdelen gezamenlijk voor ten minste tien verschillende meldingen worden ingediend, indien uit dat rapport blijkt dat ten aanzien van ten minste 25% van degenen waarop de aanvraag ziet door de accountant bij wijze van steekproef is vastgesteld dat aan de criteria, bedoeld in het eerste lid, onderdeel a, is voldaan.   
+5.  Het aantal personen waarvan op grond van het vierde lid bij wijze van steekproef de gegevens wordt gecontroleerd, wordt, in voorkomend geval, afgerond op het naaste hele getal. 
 
 ### Artikel  56  
 
@@ -823,7 +825,9 @@ c. de melding, bedoeld in onderdeel b, vergezeld heeft doen gaan van:
 2°. een assurance-rapport als bedoeld in artikel 55, eerste lid, onderdeel c, waaruit blijkt dat op het tijdstip van de melding is voldaan aan het areaalcriterium, bedoeld in artikel 55, eerste lid, onderdeel a, en    
 
 d. gedurende een periode van twee jaren voorafgaande aan de melding, bedoeld in onderdeel b, niet heeft gevist op basis van de in het eerste lid bedoelde vrijstelling.     
-2.  De in het eerste lid bedoelde vrijstelling van het in artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985 bedoelde verbod, geldt gedurende een periode van twee jaren, te rekenen vanaf de melding, bedoeld in onderdeel b.  
+2.  De in het eerste lid bedoelde vrijstelling van het in artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985 bedoelde verbod, geldt gedurende een periode van twee jaren, te rekenen vanaf de melding, bedoeld in onderdeel b.   
+3.  In afwijking van het eerste lid, aanhef en onderdeel c, onder 2˚, kan een rapport als bedoeld in dat onderdeel gezamenlijk voor ten minste tien verschillende meldingen worden ingediend, indien uit dat rapport blijkt dat ten aanzien van ten minste 25% van degenen waarop de aanvraag ziet door de accountant bij wijze van steekproef is vastgesteld dat aan het criterium, bedoeld in het eerste lid, onderdeel a, is voldaan.   
+4.  Het aantal personen waarvan op grond van het vierde lid bij wijze van steekproef de gegevens wordt gecontroleerd, wordt, in voorkomend geval, afgerond op het naaste hele getal. 
 
 ### Artikel  57  
 
