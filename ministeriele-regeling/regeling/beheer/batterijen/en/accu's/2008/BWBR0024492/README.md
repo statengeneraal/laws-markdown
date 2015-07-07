@@ -3,7 +3,7 @@
 ## Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 september 2008, nr. K&K 2008088170, houdende regels met betrekking tot het afvalbeheer en het gebruik van bepaalde gevaarlijke stoffen in batterijen en accu’s (Regeling beheer batterijen en accu’s 2008)
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op richtlijn nr. 2006/66/EG van het Europees Parlement en de Raad van de Europese Unie van 6 september 2006 inzake batterijen en accu’s, alsook afgedankte batterijen en accu’s en tot intrekking van Richtlijn 91/157/EEG (PbEU L 266) en de [artikelen 9.2.2.1](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [10.15 tot en met 10.18](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [21.6, zesde lid, van de Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op richtlijn nr. 2006/66/EG van het Europees Parlement en de Raad van de Europese Unie van 6 september 2006 inzake batterijen en accu’s, alsook afgedankte batterijen en accu’s en tot intrekking van Richtlijn 91/157/EEG (PbEU L 266) en de artikelen 9.2.2.1, 10.15 tot en met 10.18 en 21.6, zesde lid, van de Wet milieubeheer;
 Besluit:     
 ### §  1  
 
@@ -31,7 +31,7 @@ e. industriële batterij of accu: batterij of accu die uitsluitend voor gebruik 
 
 f. autobatterij of -accu: batterij of accu gebruikt voor het starten, de verlichting of het ontstekingsvermogen van een voertuig niet zijnde een elektrisch voertuig;  
 
-g. apparatuur: elektrische en elektronische apparatuur als bedoeld in [artikel 1, eerste lid, onderdeel d, van het Besluit beheer elektrische en elektronische apparatuur](../../../../../../../../AMvB/besluit/beheer/elektrische/en/elektronische/apparatuur/BWBR0016990/README.md) die gedeeltelijk of volledig van energie kan worden voorzien door een batterij of een accu;  
+g. apparatuur: elektrische en elektronische apparatuur als bedoeld in artikel 1, eerste lid, onderdeel d, van het Besluit beheer elektrische en elektronische apparatuur die gedeeltelijk of volledig van energie kan worden voorzien door een batterij of een accu;  
 
 h. op de markt brengen: het ter beschikking stellen, al dan niet tegen betaling, aan een derde in Nederland;  
 
@@ -185,8 +185,8 @@ e. de betekenis van de symbolen, bedoeld in artikel 9.
 ### Artikel  11  
 
 1.  De producent draagt zorg voor de financiering van alle kosten die verbonden zijn aan de uitvoering van de artikelen 5, 7 en 10.   
-2.  In afwijking van het eerste lid draagt de producent, bedoeld in [artikel 1, eerste lid, onderdeel j, van de Regeling beheer elektrische en elektronische apparatuur](../../../../../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md), geen zorg voor de kosten voor een batterij of accu, ingebouwd in een apparaat, voor zover de producent voor die batterij of accu ter uitvoering van [artikel 11, eerste lid](../../../../../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md), of [artikel 12, eerste lid, van die regeling](../../../../../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md) zorg heeft gedragen voor de kosten verbonden aan die batterij of accu.   
-3.  In afwijking van het eerste lid draagt de producent of de importeur, bedoeld in [artikel 1, onderdeel c, respectievelijk onderdeel d, van het Besluit beheer autowrakken](../../../../../../../../AMvB/besluit/beheer/autowrakken/BWBR0013707/README.md) geen zorg voor de kosten voor een batterij of accu, aanwezig in een autowrak als bedoeld in [artikel 1, onderdeel b, van het Besluit beheer autowrakken](../../../../../../../../AMvB/besluit/beheer/autowrakken/BWBR0013707/README.md), voor zover de producent of importeur ter uitvoering van [artikel 8, onderdelen a en b, van dat besluit](../../../../../../../../AMvB/besluit/beheer/autowrakken/BWBR0013707/README.md) zorg heeft gedragen voor de kosten verbonden aan die batterij of accu.   
+2.  In afwijking van het eerste lid draagt de producent, bedoeld in artikel 1, eerste lid, onderdeel j, van de Regeling beheer elektrische en elektronische apparatuur, geen zorg voor de kosten voor een batterij of accu, ingebouwd in een apparaat, voor zover de producent voor die batterij of accu ter uitvoering van artikel 11, eerste lid, of artikel 12, eerste lid, van die regeling zorg heeft gedragen voor de kosten verbonden aan die batterij of accu.   
+3.  In afwijking van het eerste lid draagt de producent of de importeur, bedoeld in artikel 1, onderdeel c, respectievelijk onderdeel d, van het Besluit beheer autowrakken geen zorg voor de kosten voor een batterij of accu, aanwezig in een autowrak als bedoeld in artikel 1, onderdeel b, van het Besluit beheer autowrakken, voor zover de producent of importeur ter uitvoering van artikel 8, onderdelen a en b, van dat besluit zorg heeft gedragen voor de kosten verbonden aan die batterij of accu.   
 4.  De kosten, bedoeld in het eerste lid, worden bij de verkoop van nieuwe draagbare batterijen of accu’s niet afzonderlijk getoond aan de eindgebruiker.  
 
 ### §  7  
@@ -195,7 +195,7 @@ e. de betekenis van de symbolen, bedoeld in artikel 9.
 
 ### Artikel  12  
 
-De producent laat zich bij de Minister van Infrastructuur en Milieu registreren. Hieraan is voldaan indien de producent een mededeling als bedoeld in [artikel 2, eerste lid, van het Besluit beheer batterijen en accu’s 2008](../../../../../../../../AMvB/besluit/beheer/batterijen/en/accu's/2008/BWBR0024491/README.md) bij de Minister van Infrastructuur en Milieu heeft ingediend. 
+De producent laat zich bij de Minister van Infrastructuur en Milieu registreren. Hieraan is voldaan indien de producent een mededeling als bedoeld in artikel 2, eerste lid, van het Besluit beheer batterijen en accu’s 2008 bij de Minister van Infrastructuur en Milieu heeft ingediend. 
 
 ### Artikel  13  
 
@@ -216,7 +216,7 @@ Wijzigt de Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen.
 
 ### Artikel  16  
 
-De [Nadere regels aanduiding van batterijen en accu’s die kwik, cadmium of lood bevatten](../../../../../../../../ministeriele-regeling/nadere/regels/aanduiding/van/batterijen/en/accu's/die/kwik/cadmium/of/lood/etc/BWBR0006253/README.md) worden ingetrokken. 
+De Nadere regels aanduiding van batterijen en accu’s die kwik, cadmium of lood bevatten worden ingetrokken. 
 
 ### §  9  
 

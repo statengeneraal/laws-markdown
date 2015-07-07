@@ -5,12 +5,12 @@
 De Minister van Financiën,  
 Handelend in overeenstemming met het gevoelen van de Ministerraad;
 
-Gelet op [artikel 10, eerste lid van de Comptabiliteitswet 2001](../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md);
+Gelet op artikel 10, eerste lid van de Comptabiliteitswet 2001;
 Besluit:    
 
 ### Artikel  1  
 
-1.  Aan Domeinen Roerende Zaken te Apeldoorn wordt de status van baten-lastendienst als bedoeld in [artikel 10, eerste lid van de Comptabiliteitswet 2001](../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), verleend.   
+1.  Aan Domeinen Roerende Zaken te Apeldoorn wordt de status van baten-lastendienst als bedoeld in artikel 10, eerste lid van de Comptabiliteitswet 2001, verleend.   
 2.  De tenaamstelling van de baten-lastendienst komt te luiden: Domeinen Roerende Zaken.  
 
 ### Artikel  2  

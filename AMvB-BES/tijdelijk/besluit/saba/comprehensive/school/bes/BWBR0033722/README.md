@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 1 maart 2013, nr. WJZ/488582(3846), directie Wetgeving en Juridische Zaken;
 
-Gelet op [artikel 117 van de Wet voortgezet onderwijs BES](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);
+Gelet op artikel 117 van de Wet voortgezet onderwijs BES;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 4 april 2013, nr. W05.13.0051/I);
 
@@ -28,25 +28,37 @@ Dit besluit verstaat onder: bevoegd gezag: het bevoegd gezag van de school,
 
 *HTF:* Heart Trust Foundation, vestiging Jamaica,  
 
-*Inspectie:* inspectie, bedoeld in de [Wet op het onderwijstoezicht](../../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md)  
+*Inspectie:* inspectie, bedoeld in de Wet op het onderwijstoezicht  
 
 *school:* de Saba Comprehensive School, tenzij het tegendeel blijkt,  
 
 *TVET1-examen:* examen van technical and vocational education and training-programma, niveau 1,  
 
-*wet:* [Wet voortgezet onderwijs BES](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md).   
+*wet:* Wet voortgezet onderwijs BES.   
 
 ### Artikel  2  
 
 ####Reikwijdte
 
-Dit besluit is van toepassing op de Saba Comprehensive School, bedoeld in [artikel 207, aanhef en onderdeel d, van de wet](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md). 
+Dit besluit is van toepassing op de Saba Comprehensive School, bedoeld in artikel 207, aanhef en onderdeel d, van de wet. 
+
+### Artikel  2a  
+
+####Gwendoline van Puttenschool
+
+Treedt in werking per 01-08-2015 
+
+Tot een bij koninklijk besluit te bepalen tijdstip wordt de Gwendoline van Puttenschool aangewezen als inrichting voor voortgezet onderwijs als bedoeld in artikel 117 van de wet, en aansluitend daarop wordt de school bij beschikking aangemerkt als: 
+
+a. een school als bedoeld in één van de artikelen 13, 14, 15, 17 of 31 van de wet, of  
+
+b. een scholengemeenschap als bedoeld in artikel 123 van de wet, waarbij in de beschikking tevens wordt aangegeven welke scholen als bedoeld in de artikelen 13, 14, 15, 17 of 31 de scholengemeenschap omvat.   
 
 ### Artikel  3  
 
 ####Bekostigingsvoorwaarden
 
-1.  Het bij en krachtens de [wet](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) bepaalde is van toepassing op de Saba Comprehensive School, behoudens voor zover daarvan in dit besluit wordt afgeweken.   
+1.  Het bij en krachtens de wet bepaalde is van toepassing op de Saba Comprehensive School, behoudens voor zover daarvan in dit besluit wordt afgeweken.   
 2.  De bepalingen in dit besluit zijn voorwaarden voor bekostiging.  
 
 ### Hoofdstuk  2  
@@ -81,14 +93,14 @@ Beroepsgericht onderwijs is het onderwijs met een cursusduur van vier jaren, dat
 
 ####Praktijkonderwijs
 
-1.  Praktijkonderwijs is praktijkonderwijs als bedoeld in [artikel 31 van de wet](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md). Het ten aanzien van praktijkonderwijs bij en krachtens de [wet](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) bepaalde is van toepassing.   
-2.  Onverminderd [artikel 19 van het Inrichtingsbesluit WVO BES](../../../../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md) omvat het onderwijsprogramma Engelse taal.  
+1.  Praktijkonderwijs is praktijkonderwijs als bedoeld in artikel 31 van de wet. Het ten aanzien van praktijkonderwijs bij en krachtens de wet bepaalde is van toepassing.   
+2.  Onverminderd artikel 19 van het Inrichtingsbesluit WVO BES omvat het onderwijsprogramma Engelse taal.  
 
 ### Artikel  8  
 
 ####Taal
 
-In afwijking van [artikel 8 van de wet](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) wordt het onderwijs aan de school gegeven en worden de examens afgenomen in het Engels. Een andere taal kan worden gebezigd: 
+In afwijking van artikel 8 van de wet wordt het onderwijs aan de school gegeven en worden de examens afgenomen in het Engels. Een andere taal kan worden gebezigd: 
 
 a. wanneer het onderwijs met betrekking tot die taal betreft,  
 
@@ -100,13 +112,13 @@ c. indien de specifieke aard, de inrichting of de kwaliteit van het onderwijs da
 
 ####Bestrijding (taal)achterstand
 
-In afwijking van [artikel 10, tweede lid, van de wet](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) is de aandacht voor de bestrijding van taalachterstanden in het bijzonder gericht op de Engelse taal. 
+In afwijking van artikel 10, tweede lid, van de wet is de aandacht voor de bestrijding van taalachterstanden in het bijzonder gericht op de Engelse taal. 
 
 ### Artikel  10  
 
 ####Algemene voorschriften eerste twee leerjaren
 
-In afwijking van [artikel 33 van de wet](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) wordt het onderwijs in de eerste twee leerjaren van het algemeen vormend onderwijs en het beroepsgericht onderwijs zodanig algemeen ingericht, dat met behoud van keuzevrijheid de doorstroming van leerlingen naar beide onderwijssoorten mogelijk is. 
+In afwijking van artikel 33 van de wet wordt het onderwijs in de eerste twee leerjaren van het algemeen vormend onderwijs en het beroepsgericht onderwijs zodanig algemeen ingericht, dat met behoud van keuzevrijheid de doorstroming van leerlingen naar beide onderwijssoorten mogelijk is. 
 
 ### Artikel  11  
 
@@ -135,11 +147,11 @@ In afwijking van [artikel 33 van de wet](../../../../../../../../wet-BES/wet/voo
 1.  Het bevoegd gezag draagt er zorg voor dat aan de school een aantal leraren is verbonden dat nodig is om onderwijs van voldoende kwaliteit aan te bieden.   
 2.  Aan de school zijn slechts leraren verbonden die: 
 
-a. in het bezit zijn van een verklaring omtrent het gedrag, afgegeven volgens de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES](../../../../../../../../wet-BES/wet/op/de/justitiële/documentatie/en/op/de/verklaringen/omtrent/het/gedrag/etc/BWBR0028258/README.md), die op het tijdstip van overlegging aan het bevoegd gezag niet ouder is dan 6 maanden,  
+a. in het bezit zijn van een verklaring omtrent het gedrag, afgegeven volgens de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES, die op het tijdstip van overlegging aan het bevoegd gezag niet ouder is dan 6 maanden,  
 
 b. niet krachtens rechterlijke uitspraak van het geven van onderwijs zijn uitgesloten, en  
 
-c. benoembaar zijn op grond van de [wet](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), of  
+c. benoembaar zijn op grond van de wet, of  
 
 d. blijkens een getuigschrift bekwaam kunnen worden geacht om onderwijs van voldoende kwaliteit te geven.     
 3.  Het bevoegd gezag legt ten aanzien van elke leraar vast over welke opleiding en ervaring deze beschikt. Een overzicht wordt aan het begin van elk schooljaar aan de inspectie overgelegd. Wijzigingen worden binnen een maand aan de inspectie gemeld.  
@@ -192,7 +204,7 @@ Het bevoegd gezag benoemt, schorst en ontslaat de directeur, de leraren en het o
 
 1.  De besluiten tot weigering van de toelating van een kandidaat-leerling of tot definitieve verwijdering van een leerling worden schriftelijk en met opgave van redenen aan de leerling en, indien deze nog niet meerderjarig is, ook aan diens ouders, voogden of verzorgers, bekendgemaakt, waarbij tevens de inhoud van het tweede lid wordt vermeld.   
 2.  Binnen zes weken na de bekendmaking kunnen belanghebbenden bezwaar maken bij het bevoegd gezag.   
-3.  Het bevoegd gezag beslist in overeenstemming met [artikel 64 van de wet](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) binnen vier weken na ontvangst van het bezwaarschrift, doch niet eerder dan nadat de kandidaat-leerling, onderscheidenlijk de leerling en, indien deze nog niet meerderjarig is, ook diens ouders, voogden of verzorgers, in de gelegenheid is, onderscheidenlijk zijn gesteld, te worden gehoord en kennis heeft onderscheidenlijk hebben kunnen nemen van de op die besluiten betrekking hebbende adviezen of rapporten.   
+3.  Het bevoegd gezag beslist in overeenstemming met artikel 64 van de wet binnen vier weken na ontvangst van het bezwaarschrift, doch niet eerder dan nadat de kandidaat-leerling, onderscheidenlijk de leerling en, indien deze nog niet meerderjarig is, ook diens ouders, voogden of verzorgers, in de gelegenheid is, onderscheidenlijk zijn gesteld, te worden gehoord en kennis heeft onderscheidenlijk hebben kunnen nemen van de op die besluiten betrekking hebbende adviezen of rapporten.   
 4.  Het bevoegd gezag kan de desbetreffende leerling, gedurende de behandeling van het bezwaar tegen een besluit tot definitieve verwijdering de toegang tot de school ontzeggen.  
 
 ### Artikel  20  
@@ -213,9 +225,9 @@ b. koningsdag en koninkrijksdag.
 
 ### Artikel  21  
 
-####Toepassing [Inrichtingsbesluit WVO BES](../../../../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md) en [Eindexamenbesluit VO BES](../../../../../../../../AMvB-BES/eindexamenbesluit/vo/bes/BWBR0029990/README.md)
+####Toepassing Inrichtingsbesluit WVO BES en Eindexamenbesluit VO BES
 
-Het [Inrichtingsbesluit WVO BES](../../../../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md) en het [Eindexamenbesluit VO](../../../../../../../../AMvB-BES/eindexamenbesluit/vo/bes/BWBR0029990/README.md) zijn niet van toepassing, behoudens de bepalingen die betrekking hebben op het praktijkonderwijs. 
+Het Inrichtingsbesluit WVO BES en het Eindexamenbesluit VO zijn niet van toepassing, behoudens de bepalingen die betrekking hebben op het praktijkonderwijs. 
 
 ### Artikel  22  
 

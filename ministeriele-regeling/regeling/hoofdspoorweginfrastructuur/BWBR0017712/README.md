@@ -3,7 +3,7 @@
 ##Regeling houdende vaststelling van eisen ten aanzien van inrichting, uitrusting en technische eigenschappen van de hoofdspoorweginfrastructuur en het onderhoud daarvan (Regeling hoofdspoorweginfrastructuur)
 
 De Minister van Verkeer en Waterstaat,
-Gelet op [artikel 6, eerste lid, onderdeel b](../../../../wet/spoorwegwet/BWBR0015007/README.md), en [artikel 7, eerste lid, van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md) en [artikel 2 van het Besluit spoorweginfrastructuur](../../../../AMvB/besluit/spoorweginfrastructuur/BWBR0017626/README.md);
+Gelet op artikel 6, eerste lid, onderdeel b, en artikel 7, eerste lid, van de Spoorwegwet en artikel 2 van het Besluit spoorweginfrastructuur;
 Besluit:  
 ###§ 1 
 
@@ -17,7 +17,7 @@ In deze regeling wordt verstaan onder:
 
 *bewaakte overweg:* actief beveiligde spoorwegovergang waarbij de daarnaar toe leidende seinen pas uit de stand ‘stop’ kunnen komen als de overwegbomen gesloten zijn;  
 
-*wet:* [Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md).   
+*wet:* Spoorwegwet.   
 
 ###§ 2 
 
@@ -27,7 +27,7 @@ In deze regeling wordt verstaan onder:
 
 1.  Behoudens hoofdspoorwegen waarover minder dan eenmaal per week een spoorvoertuig rijdt, zijn openbare niet-actief beveiligde overwegen voorzien van: 
 
-a. ten minste aan de rechterzijde van de weg geplaatste Andreaskruisen volgens model J12 of J13 van [bijlage 1, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md);  
+a. ten minste aan de rechterzijde van de weg geplaatste Andreaskruisen volgens model J12 of J13 van bijlage 1, van het RVV 1990;  
 
 b. aan weerszijden van de weg geplaatste schrikhekken.    
 
@@ -66,7 +66,7 @@ Hoofdspoorweginfrastructuur is buiten overwegen voorzien van een afscherming waa
 
 ###Artikel 6 
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit spoorweginfrastructuur](../../../../AMvB/besluit/spoorweginfrastructuur/BWBR0017626/README.md) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop het Besluit spoorweginfrastructuur in werking treedt. 
 
 ###Artikel 7 
 

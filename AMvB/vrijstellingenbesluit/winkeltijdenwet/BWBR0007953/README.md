@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken van 18 januari 1996, nr. 96003321 WJA/W;
 
-Gelet op de [artikelen 5 en 8 van de Winkeltijdenwet](../../../../wet/winkeltijdenwet/BWBR0007952/README.md);
+Gelet op de artikelen 5 en 8 van de Winkeltijdenwet;
 
 De Raad van State gehoord (advies van 19 februari 1996, nr. W10.96.0019);
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder: wet: de [Winkeltijdenwet](../../../../wet/winkeltijdenwet/BWBR0007952/README.md); feestdagen: Nieuwjaarsdag, tweede Paasdag, Hemelvaartsdag, tweede Pinksterdag en eerste en tweede Kerstdag; automaat: een toestel, waaruit goederen, hetzij door inwerping van geldstukken, hetzij door betaling op andere wijze, kunnen worden betrokken, zonder dat daartoe onmiddellijke medewerking van andere personen dan degene, die de goederen betrekt, vereist is. 
+In dit besluit wordt verstaan onder: wet: de Winkeltijdenwet; feestdagen: Nieuwjaarsdag, tweede Paasdag, Hemelvaartsdag, tweede Pinksterdag en eerste en tweede Kerstdag; automaat: een toestel, waaruit goederen, hetzij door inwerping van geldstukken, hetzij door betaling op andere wijze, kunnen worden betrokken, zonder dat daartoe onmiddellijke medewerking van andere personen dan degene, die de goederen betrekt, vereist is. 
 
 ### Artikel  2  
 
@@ -27,15 +27,15 @@ De in artikel 2, eerste lid, van de wet vervatte verboden gelden niet ten aanzie
 
 ####(ziekenhuizen en verpleeghuizen)
 
-1.  De in [artikel 2, eerste lid, van de wet](../../../../wet/winkeltijdenwet/BWBR0007952/README.md) vervatte verboden gelden niet ten aanzien van winkels in of op het terrein van ziekenhuizen en verpleeghuizen, waar uitsluitend of hoofdzakelijk eet- en drinkwaren, prentbriefkaarten, nieuwsbladen en tijdschriften alsmede bloemen en planten plegen te worden verkocht.   
-2.  De in [artikel 2, tweede lid, van de wet](../../../../wet/winkeltijdenwet/BWBR0007952/README.md) vervatte verboden gelden in of op het terrein van ziekenhuizen en verpleeghuizen niet ten aanzien van het te koop aanbieden en verkopen van eet- en drinkwaren, prentbriefkaarten, nieuwsbladen en tijdschriften alsmede bloemen en planten.  
+1.  De in artikel 2, eerste lid, van de wet vervatte verboden gelden niet ten aanzien van winkels in of op het terrein van ziekenhuizen en verpleeghuizen, waar uitsluitend of hoofdzakelijk eet- en drinkwaren, prentbriefkaarten, nieuwsbladen en tijdschriften alsmede bloemen en planten plegen te worden verkocht.   
+2.  De in artikel 2, tweede lid, van de wet vervatte verboden gelden in of op het terrein van ziekenhuizen en verpleeghuizen niet ten aanzien van het te koop aanbieden en verkopen van eet- en drinkwaren, prentbriefkaarten, nieuwsbladen en tijdschriften alsmede bloemen en planten.  
 
 ### Artikel  4  
 
 ####(stations)
 
-1.  De in [artikel 2, eerste lid, van de wet](../../../../wet/winkeltijdenwet/BWBR0007952/README.md) vervatte verboden gelden niet ten aanzien van winkels in een station als bedoeld in [artikel 26, tweede lid, van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md).   
-2.  De in [artikel 2, tweede lid, van de wet](../../../../wet/winkeltijdenwet/BWBR0007952/README.md) vervatte verboden gelden niet ten aanzien van het te koop aanbieden of verkopen van bloemen en planten in een station als bedoeld in [artikel 26, tweede lid, van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md) dan wel op een afstand van ten hoogste honderd meter daarvan.  
+1.  De in artikel 2, eerste lid, van de wet vervatte verboden gelden niet ten aanzien van winkels in een station als bedoeld in artikel 26, derde lid, van de Spoorwegwet.   
+2.  De in artikel 2, tweede lid, van de wet vervatte verboden gelden niet ten aanzien van het te koop aanbieden of verkopen van bloemen en planten in een station als bedoeld in artikel 26, derde lid, van de Spoorwegwet dan wel op een afstand van ten hoogste honderd meter daarvan.  
 
 ### Artikel  5  
 
@@ -48,17 +48,17 @@ De in artikel 2, eerste lid, van de wet vervatte verboden gelden niet ten aanzie
 
 ####(benzinestations)
 
-De in [artikel 2, eerste lid, van de wet](../../../../wet/winkeltijdenwet/BWBR0007952/README.md) vervatte verboden gelden niet ten aanzien van een winkel in een benzinestation, mits in die winkel de omzet uit de verkoop van goederen grotendeels wordt behaald uit de verkoop van brandstof en smeermiddelen voor voer- of vaartuigen en van benodigdheden voor gebruik, reiniging of spoedeisende reparaties van voer- of vaartuigen alsmede accessoires daarvoor. 
+De in artikel 2, eerste lid, van de wet vervatte verboden gelden niet ten aanzien van een winkel in een benzinestation, mits in die winkel de omzet uit de verkoop van goederen grotendeels wordt behaald uit de verkoop van brandstof en smeermiddelen voor voer- of vaartuigen en van benodigdheden voor gebruik, reiniging of spoedeisende reparaties van voer- of vaartuigen alsmede accessoires daarvoor. 
 
 ### Artikel  7  
 
 ####(wegrestaurants)
 
-De in [artikel 2, eerste lid, van de wet](../../../../wet/winkeltijdenwet/BWBR0007952/README.md) vervatte verboden gelden niet ten aanzien van een winkel in een restaurant, dat is gelegen aan een autosnelweg als bedoeld in [artikel 1, onder *c*, van het Reglement verkeersregels en verkeerstekens 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), mits in dat restaurant de omzet grotendeels wordt behaald met het verstrekken van maaltijden, dranken en kleine eetwaren voor directe consumptie ter plaatse en het aanbieden van logiesaccommodatie. 
+De in artikel 2, eerste lid, van de wet vervatte verboden gelden niet ten aanzien van een winkel in een restaurant, dat is gelegen aan een autosnelweg als bedoeld in artikel 1, onder *c*, van het Reglement verkeersregels en verkeerstekens 1990, mits in dat restaurant de omzet grotendeels wordt behaald met het verstrekken van maaltijden, dranken en kleine eetwaren voor directe consumptie ter plaatse en het aanbieden van logiesaccommodatie. 
 
 ### Artikel  7a  
 
-De in [artikel 2, eerste lid, van de wet](../../../../wet/winkeltijdenwet/BWBR0007952/README.md) vervatte verboden gelden niet ten aanzien van een winkel in een aan een autosnelweg gelegen onderneming waarin de functie van een benzinestation als bedoeld in artikel 6 en van een restaurant als bedoeld in artikel 7, wordt gecombineerd, mits in die winkel of in relatie tot die winkel de omzet grotendeels wordt behaald uit het totaal van de verkoop van goederen als bedoeld in artikel 6 alsmede het verstrekken van eet- en drinkwaren en het aanbieden van logiesaccommodatie als bedoeld in artikel 7.
+De in artikel 2, eerste lid, van de wet vervatte verboden gelden niet ten aanzien van een winkel in een aan een autosnelweg gelegen onderneming waarin de functie van een benzinestation als bedoeld in artikel 6 en van een restaurant als bedoeld in artikel 7, wordt gecombineerd, mits in die winkel of in relatie tot die winkel de omzet grotendeels wordt behaald uit het totaal van de verkoop van goederen als bedoeld in artikel 6 alsmede het verstrekken van eet- en drinkwaren en het aanbieden van logiesaccommodatie als bedoeld in artikel 7.
 
 ### Artikel  8  
 

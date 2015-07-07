@@ -3,20 +3,20 @@
 ##Regeling houdende nadere eisen aan keuringsinstanties als bedoeld in artikel 93 van de Spoorwegwet (Regeling eisen keuringsinstanties Spoorwegwet)
 
 De Minister van Verkeer en Waterstaat,
-Gelet op het Besluit nr. 93/465/EEG van de Raad van de Europese Unie van 22 juli 1993 betreffende de modules voor de verschillende fasen van de overeenstemmingsbeoordelingsprocedures en de voorschriften inzake het aanbrengen en het gebruik van de CE-markering van overeenstemming (PbEG L 220), [artikel 93, tweede lid, van de Spoorwegwet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) en [artikel 30, derde lid, van het Besluit spoorweginfrastructuur](../../../../../../AMvB/besluit/spoorweginfrastructuur/BWBR0017626/README.md);
+Gelet op het Besluit nr. 93/465/EEG van de Raad van de Europese Unie van 22 juli 1993 betreffende de modules voor de verschillende fasen van de overeenstemmingsbeoordelingsprocedures en de voorschriften inzake het aanbrengen en het gebruik van de CE-markering van overeenstemming (PbEG L 220), artikel 93, tweede lid, van de Spoorwegwet en artikel 30, derde lid, van het Besluit spoorweginfrastructuur;
 Besluit:
 
 ###Artikel 1 
 
 In deze regeling wordt verstaan onder:
 
-a.wet: [Spoorwegwet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md);
+a.wet: Spoorwegwet;
 
-b.instantie: instantie als bedoeld in [artikel 93 van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md).
+b.instantie: instantie als bedoeld in artikel 93 van de wet.
 
 ###Artikel 2 
 
-De instantie legt, onverminderd [artikel 4:2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), bij de aanvraag voor een aanwijzing als bedoeld in [artikel 93 van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md), een volledig ingevuld aanvraagformulier overeenkomstig de bijlage van deze regeling over.
+De instantie legt, onverminderd artikel 4:2 van de Algemene wet bestuursrecht, bij de aanvraag voor een aanwijzing als bedoeld in artikel 93 van de wet, een volledig ingevuld aanvraagformulier overeenkomstig de bijlage van deze regeling over.
 
 ###Artikel 3 
 
@@ -34,7 +34,7 @@ c.procedures om te voldoen aan bestaande, nieuwe en gewijzigde technische normen
 
 d.programma's voor de opleiding van het met de keuringen belaste personeel en systemen om ervoor te zorgen dat dit personeel terzake kundig blijft en dat taken dienovereenkomstig worden uitgevoerd;
 
-e.procedures om de kwaliteit voor uitbestede werkzaamheden inzake de beoordeling van de overeenstemming op grond van [artikel 93, eerste lid, onderdelen a en b van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) te waarborgen;
+e.procedures om de kwaliteit voor uitbestede werkzaamheden inzake de beoordeling van de overeenstemming op grond van artikel 93, eerste lid, onderdelen a en b van de wet te waarborgen;
 
 f.procedures om de onafhankelijkheid van de instantie, van de directie daarvan en van het met de keuringen belaste personeel te waarborgen;
 
@@ -46,7 +46,7 @@ i.voorzieningen voor periodieke interne controles met betrekking tot het kwalite
 
 ###Artikel 5 
 
-Het is de instantie verboden haar werkzaamheden inzake de beoordeling van de overeenstemming op grond van [artikel 93, eerste lid, onderdelen a en b van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) uit te besteden aan ondernemingen, die:
+Het is de instantie verboden haar werkzaamheden inzake de beoordeling van de overeenstemming op grond van artikel 93, eerste lid, onderdelen a en b van de wet uit te besteden aan ondernemingen, die:
 
 a.niet voldoen aan de Europese normen van de EN 45000-serie;
 
@@ -56,7 +56,7 @@ b.deze werkzaamheden aan derden uitbesteden.
 
 1. De instantie voert een deugdelijke registratie terzake van:
 
-a.de door haar uitbestede werkzaamheden inzake de beoordeling van de overeenstemming op grond van [artikel 93, eerste lid, onderdelen a en b van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md);
+a.de door haar uitbestede werkzaamheden inzake de beoordeling van de overeenstemming op grond van artikel 93, eerste lid, onderdelen a en b van de wet;
 
 b.de ondernemingen waaraan de werkzaamheden zijn uitbesteed;
 
@@ -67,17 +67,17 @@ c.de wijze waarop zij heeft geverifieerd dat de ondernemingen voldoen aan de Eur
 
 De instantie zendt aan de Minister afschrift van:
 
-a.afgegeven documenten als bedoeld in [artikel 93, eerste lid, onderdelen a tot en met d, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md);
+a.afgegeven documenten als bedoeld in artikel 93, eerste lid, onderdelen a tot en met d, van de wet;
 
-b.besluiten tot weigering van afgifte van documenten als bedoeld in [artikel 93, eerste lid, onderdelen a tot en met d, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md);
+b.besluiten tot weigering van afgifte van documenten als bedoeld in artikel 93, eerste lid, onderdelen a tot en met d, van de wet;
 
 c.ontvangen bezwaar- en beroepschriften;
 
 d.besluiten op bezwaarschriften en door de instantie ter zake opgestelde verweerschriften;
 
-e.verzoekschriften en schriftelijke toelichtingen als bedoeld in [artikel 12, tweede lid](../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md), respectievelijk [18, eerste lid, van de Wet Nationale ombudsman](../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md);
+e.verzoekschriften en schriftelijke toelichtingen als bedoeld in artikel 12, tweede lid, respectievelijk 18, eerste lid, van de Wet Nationale ombudsman;
 
-f.schriftelijke verzoeken om informatie en schriftelijke beslissingen daarop als bedoeld in [artikel 3, eerste lid](../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), respectievelijk [5, eerste lid, van de Wet openbaarheid van bestuur](../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).
+f.schriftelijke verzoeken om informatie en schriftelijke beslissingen daarop als bedoeld in artikel 3, eerste lid, respectievelijk 5, eerste lid, van de Wet openbaarheid van bestuur.
 
 ###Artikel 8 
 
@@ -85,7 +85,7 @@ De instantie brengt jaarlijks voor 1 maart schriftelijk verslag uit aan de Mini
 
 ###Artikel 9 
 
-De instantie voert ten minste eenmaal in de vijf jaar een activiteit zoals genoemd in [artikel 93, eerste lid, van de wet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) uit.
+De instantie voert ten minste eenmaal in de vijf jaar een activiteit zoals genoemd in artikel 93, eerste lid, van de wet uit.
 
 ###Artikel 10 
 

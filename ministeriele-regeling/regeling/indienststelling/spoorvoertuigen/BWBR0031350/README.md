@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Infrastructuur en Milieu, van 5 maart 2012, nr. IENM/BSK-2012/28591, houdende vaststelling van regels met betrekking tot de indienststelling van spoorvoertuigen op hoofdspoorweginfrastructuur (Regeling indienststelling spoorvoertuigen)
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op richtlijn nr. 2008/57/EG van het Europees Parlement en de Raad van de Europese Unie van 17 juni 2008 betreffende de interoperabiliteit van het spoorwegsysteem in de Gemeenschap (PbEU L 191), richtlijn nr. 2008/110/EG van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 (PbEU L 345) tot wijziging van richtlijn nr. 2004/49/EG inzake de veiligheid op de communautaire spoorwegen, [artikel 36, derde lid, onderdelen b, c en e, en tiende lid](../../../../../wet/spoorwegwet/BWBR0015007/README.md), [artikel 37, vierde lid](../../../../../wet/spoorwegwet/BWBR0015007/README.md), [artikel 37a, vierde en vijfde lid](../../../../../wet/spoorwegwet/BWBR0015007/README.md), [artikel 38, vierde lid](../../../../../wet/spoorwegwet/BWBR0015007/README.md), [artikel 46, tweede en vijfde lid](../../../../../wet/spoorwegwet/BWBR0015007/README.md), en [artikel 91, eerste lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) en [artikel 39b, eerste en tweede lid, van het Besluit spoorverkeer](../../../../../AMvB/besluit/spoorverkeer/BWBR0017624/README.md);
+Gelet op richtlijn nr. 2008/57/EG van het Europees Parlement en de Raad van de Europese Unie van 17 juni 2008 betreffende de interoperabiliteit van het spoorwegsysteem in de Gemeenschap (PbEU L 191), richtlijn nr. 2008/110/EG van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 (PbEU L 345) tot wijziging van richtlijn nr. 2004/49/EG inzake de veiligheid op de communautaire spoorwegen, artikel 36, derde lid, onderdelen b, c en e, en tiende lid, artikel 37, vierde lid, artikel 37a, vierde en vijfde lid, artikel 38, vierde lid, artikel 46, tweede en vijfde lid, en artikel 91, eerste lid, van de Spoorwegwet en artikel 39b, eerste en tweede lid, van het Besluit spoorverkeer;
 Besluit:     
 ### §  1  
 
@@ -81,7 +81,7 @@ In deze regeling wordt verstaan onder:
 
 * wagen:* spoorvoertuig zonder eigen voortbewegingsinrichting bestemd voor het vervoer van goederen;  
 
-* wet:* [Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).   
+* wet:* Spoorwegwet.   
 
 ### Artikel  2  
 
@@ -443,7 +443,7 @@ Spoorvoertuigen die gebruik maken van grensbaanvakken met België voldoen aan de
 
 ### Artikel  25  
 
-De aanvrager voor een inschrijving in het register, bedoeld in [artikel 37, tweede lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), voegt bij de aanvraag de gegevens, bedoeld in aanhangsel 4 van de bijlage behorende bij beschikking 2007/756/EG. 
+De aanvrager voor een inschrijving in het register, bedoeld in artikel 37, tweede lid, van de wet, voegt bij de aanvraag de gegevens, bedoeld in aanhangsel 4 van de bijlage behorende bij beschikking 2007/756/EG. 
 
 ### §  6  
 
@@ -460,24 +460,24 @@ De aanvrager voor een inschrijving in het register, bedoeld in [artikel 37, twee
 
 ### Artikel  27  
 
-1.  Bij de aanvraag voor een vergunning voor indienststelling als bedoeld in [artikel 36, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) worden in ieder geval de EG-keuringsverklaring en de verklaring van een aangemelde instantie of een keuringsinstantie, bedoeld in artikel 36, zevende lid, van de wet, gevoegd.   
-2.  Bij de aanvraag voor een aanvullende vergunning van indienststelling als bedoeld in [artikel 36, vijfde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) worden in ieder geval bijgevoegd: 
+1.  Bij de aanvraag voor een vergunning voor indienststelling als bedoeld in artikel 36, derde lid, van de wet worden in ieder geval de EG-keuringsverklaring en de verklaring van een aangemelde instantie of een keuringsinstantie, bedoeld in artikel 36, zevende lid, van de wet, gevoegd.   
+2.  Bij de aanvraag voor een aanvullende vergunning van indienststelling als bedoeld in artikel 36, vijfde lid, van de wet worden in ieder geval bijgevoegd: 
 
 a. de bewijsstukken dat in een andere staat een vergunning voor indienststelling is verleend; en  
 
-b. de verklaring van de aangemelde instantie of keuringsinstantie, bedoeld in [artikel 36, zevende lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).     
-3.  Een aanvraag voor een vergunning voor indienststelling als bedoeld in [artikel 36, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) respectievelijk van een aanvullende vergunning voor indienststelling, bedoeld in artikel 36, vijfde lid, van de wet wordt niet eerder in behandeling genomen dan na betaling van het voor het daarvoor verschuldigde tarief.   
-4.  Een vergunning voor indienststelling als bedoeld in [artikel 36, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) respectievelijk een aanvullende vergunning voor indienststelling, als bedoeld in artikel 36, vijfde lid, van de wet wordt niet eerder verstrekt dan na betaling van het daarvoor verschuldigde tarief.   
+b. de verklaring van de aangemelde instantie of keuringsinstantie, bedoeld in artikel 36, zevende lid, van de wet.     
+3.  Een aanvraag voor een vergunning voor indienststelling als bedoeld in artikel 36, derde lid, van de wet respectievelijk van een aanvullende vergunning voor indienststelling, bedoeld in artikel 36, vijfde lid, van de wet wordt niet eerder in behandeling genomen dan na betaling van het voor het daarvoor verschuldigde tarief.   
+4.  Een vergunning voor indienststelling als bedoeld in artikel 36, derde lid, van de wet respectievelijk een aanvullende vergunning voor indienststelling, als bedoeld in artikel 36, vijfde lid, van de wet wordt niet eerder verstrekt dan na betaling van het daarvoor verschuldigde tarief.   
 5.  Bij toepassing van artikel 3 worden de bij het subsysteem behorende parameters, bedoeld in het bijlage VII, punt 1 van richtlijn 2008/57/EG, ten behoeve van de vergunning voor indienststelling, respectievelijk aanvullende vergunning voor indienststelling geverifieerd.  
 
 ### Artikel  28  
 
-1.  Bij de aanvraag voor een vergunning als bedoeld in [artikel 37b, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) wordt de verklaring van de aangemelde instantie of de keuringsinstantie als bedoeld in artikel 37b, negende lid, van de wet, gevoegd.   
-2.  Bij de aanvraag voor een vergunning als bedoeld in [artikel 37b, zesde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), wordt de verklaring van de keuringsinstantie dan wel aangemelde instantie, bedoeld in artikel 37b, negende lid, van de wet, gevoegd waaruit blijkt dat de vernieuwing of verbetering in overeenstemming met de eisen voor de verenigbaarheid van het spoorvoertuig met de hoofdspoorweginfrastructuur.   
-3.   Indien een risico-evaluatie volgens Verordening Nr. 352/2009 is uitgevoerd, wordt deze bij de aanvraag voor een vergunning als bedoeld in [artikel 37b, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) gevoegd.  
-4.  Een aanvraag voor een vergunning als bedoeld in [artikel 37b, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), wordt niet eerder in behandeling genomen dan na betaling van het daarvoor verschuldigde tarief.   
-5.  Een aanvraag voor een vergunning als bedoeld in [artikel 37b, zesde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), wordt niet eerder in behandeling dan na betaling van het daarvoor verschuldigde tarief.   
-6.  Een vergunning als bedoeld in [artikel 37b, derde lid](../../../../../wet/spoorwegwet/BWBR0015007/README.md), respectievelijk artikel 37b, zesde lid, wordt niet eerder verleend dan na betaling van het daarvoor verschuldigde tarief.  
+1.  Bij de aanvraag voor een vergunning als bedoeld in artikel 37b, derde lid, van de wet wordt de verklaring van de aangemelde instantie of de keuringsinstantie als bedoeld in artikel 37b, negende lid, van de wet, gevoegd.   
+2.  Bij de aanvraag voor een vergunning als bedoeld in artikel 37b, zesde lid, van de wet, wordt de verklaring van de keuringsinstantie dan wel aangemelde instantie, bedoeld in artikel 37b, negende lid, van de wet, gevoegd waaruit blijkt dat de vernieuwing of verbetering in overeenstemming met de eisen voor de verenigbaarheid van het spoorvoertuig met de hoofdspoorweginfrastructuur.   
+3.   Indien een risico-evaluatie volgens Verordening Nr. 352/2009 is uitgevoerd, wordt deze bij de aanvraag voor een vergunning als bedoeld in artikel 37b, derde lid, van de wet gevoegd.  
+4.  Een aanvraag voor een vergunning als bedoeld in artikel 37b, derde lid, van de wet, wordt niet eerder in behandeling genomen dan na betaling van het daarvoor verschuldigde tarief.   
+5.  Een aanvraag voor een vergunning als bedoeld in artikel 37b, zesde lid, van de wet, wordt niet eerder in behandeling dan na betaling van het daarvoor verschuldigde tarief.   
+6.  Een vergunning als bedoeld in artikel 37b, derde lid, respectievelijk artikel 37b, zesde lid, wordt niet eerder verleend dan na betaling van het daarvoor verschuldigde tarief.  
 
 ### §  8  
 
@@ -485,8 +485,8 @@ b. de verklaring van de aangemelde instantie of keuringsinstantie, bedoeld in [a
 
 ### Artikel  29  
 
-1.  [Artikel 46, eerste lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), geldt niet voor de spoorvoertuigen, bedoeld in artikel 2, tweede lid, van richtlijn 2004/49/EG.   
-2.  De eisen, bedoeld in [artikel 46, vijfde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), zijn: 
+1.  Artikel 46, eerste lid, van de wet, geldt niet voor de spoorvoertuigen, bedoeld in artikel 2, tweede lid, van richtlijn 2004/49/EG.   
+2.  De eisen, bedoeld in artikel 46, vijfde lid, van de wet, zijn: 
 
 a. indien het een certificaat betreft voor een met onderhoud belaste entiteit: 
 
@@ -501,7 +501,7 @@ b.indien het een certificaat betreft voor een door een met onderhoud belaste ent
 2˚.voor de functie van het beheer van de onderhoudsplanning, de eisen genoemd in bijlage III, onderdeel III, van verordening 445/2011; of
 
 3˚.voor de functie van uitvoering van het onderhoud, de eisen genoemd in bijlage III, onderdeel IV, van verordening 445/2011.  
-3.  De eisen, bedoeld in [artikel 48, tweede lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), zijn de eisen van bijlage I, onder 2, van verordening 445/2011. 
+3.  De eisen, bedoeld in artikel 48, tweede lid, van de wet, zijn de eisen van bijlage I, onder 2, van verordening 445/2011. 
 
 ### §  8a  
 
@@ -509,7 +509,7 @@ b.indien het een certificaat betreft voor een door een met onderhoud belaste ent
 
 ### Artikel  29a  
 
-1.  Tot 1 juni 2017 voldoen in afwijking van deze regeling spoorvoertuigen die zijn ontwikkeld of vervaardigd op basis van een contract van vóór 1 april 2012 aan de [Regeling keuring spoorvoertuigen](../../../../../ministeriele-regeling/regeling/keuring/spoorvoertuigen/BWBR0017710/README.md) zoals die luidde op 31 maart 2012 voor zover de voor die spoorvoertuigen geldende technische specificaties inzake interoperabiliteit niet voorzien in het onderwerp van die regeling en voor zover de in die technische specificaties inzake interoperabiliteit vervatte overgangsbepalingen zich daartegen niet verzetten. Dit is tevens van toepassing op verbeteringen of vernieuwingen als bedoeld in [artikel 37b van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).   
+1.  Tot 1 juni 2017 voldoen in afwijking van deze regeling spoorvoertuigen die zijn ontwikkeld of vervaardigd op basis van een contract van vóór 1 april 2012 aan de Regeling keuring spoorvoertuigen zoals die luidde op 31 maart 2012 voor zover de voor die spoorvoertuigen geldende technische specificaties inzake interoperabiliteit niet voorzien in het onderwerp van die regeling en voor zover de in die technische specificaties inzake interoperabiliteit vervatte overgangsbepalingen zich daartegen niet verzetten. Dit is tevens van toepassing op verbeteringen of vernieuwingen als bedoeld in artikel 37b van de wet.   
 2.  De minister kan het eerste lid op aanvraag buiten toepassing laten.  
 
 ### §  9  
@@ -518,11 +518,11 @@ b.indien het een certificaat betreft voor een door een met onderhoud belaste ent
 
 ### Artikel  30  
 
-De [Regeling keuring spoorvoertuigen](../../../../../ministeriele-regeling/regeling/keuring/spoorvoertuigen/BWBR0017710/README.md) wordt ingetrokken. 
+De Regeling keuring spoorvoertuigen wordt ingetrokken. 
 
 ### Artikel  31  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel 8 van de wet van 16 december 2010 tot wijziging van de Spoorwegwet, de Wet personenvervoer 2000 en de Wet op de economische delicten ter implementatie van de richtlijnen 2007/58/EG, 2007/59/EG, 2008/57/EG en 2008/110/EG](../../../../../wet/wijzigingswet/spoorwegwet/enz./(implementatie/richtlijn/200758eg/enz.)/BWBR0029963/README.md) (Stb. 218) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop artikel 8 van de wet van 16 december 2010 tot wijziging van de Spoorwegwet, de Wet personenvervoer 2000 en de Wet op de economische delicten ter implementatie van de richtlijnen 2007/58/EG, 2007/59/EG, 2008/57/EG en 2008/110/EG (Stb. 218) in werking treedt. 
 
 ### Artikel  32  
 
@@ -532,6 +532,353 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 De 
 Minister van Infrastructuur en Milieu, 
 M.H. Schultz van Haegen-Maas Geesteranus    
+
+### Bijlage 1 
+
+####, behorende bij artikel 3, eerste lid, onderdelen a en c 
+
+### Hoofdstuk  1  
+
+####Verwerking van het ATBEG-baansignaal
+
+Het geïnstalleerde systeem van automatische treinbeïnvloeding is in staat het ATBEG-baansignaal te verwerken zoals gespecificeerd in tabel 1.  Tabel 1. Specificatie van het ATBEG-baansignaal 
+
+| Nr.   | Aspect   |
+|:---|:---|
+| 1.  | De ATB-code wordt gevormd door een amplitude gemoduleerde 75Hz stroom die voor de eerste as van de trein door de spoorstaven loopt. De stroomrichting in de linker spoorstaaf is tegengesteld aan de stroomrichting in de rechter spoorstaaf (figuur 1).  |
+| 2.  | De draaggolffrequentie is 75Hz +/– 3Hz.  |
+| 3.  | Deze draaggolf wordt gemoduleerd. Daarbij wordt het niveau van de draaggolf geschakeld tussen een hoog niveau en een laag niveau.  De frequentie waarmee dat gebeurt (de modulatiefrequentie) staat voor de ‘code’. Deze code representeert het seinbeeld van de seinen (en/of borden) langs de baan.  |
+| 4.  | De modulatiefrequenties zijn:  75 pulsen/minuut (code75)  96 pulsen/minuut (code96)  120 pulsen/minuut (code120)  147 pulsen/minuut (code147)  180 pulsen/minuut (code180)  220 pulsen/minuut (code220)  270 pulsen/minuut (code270)  allen +/– 3 pulsen/minuut  |
+| 5.  | Het niveau van de draaggolf bedraagt tussen 6,5A en 25A. Ook wanneer de draaggolf is uitgeschakeld, kan tot maximaal 3A stroom met de draaggolf frequentie door de spoorstaven lopen.  |
+| 6.  | Het niveauverschil tussen de ATB-stroom door de linker- en rechterspoorstaaf kan verschillen. Dit verschil bedraagt maximaal ca. 3,5A.  |
+| 7.  | Voor het bepalen van de storingsgevoeligheid van de decodering kan voor de duty cycle het volgende worden aangenomen:  duty cycle tussen 40/60 en 60/40: 99%  duty cycle tussen 30/70 en 70/30: 99,9%  duty cycle tussen 20/80 en 80/20: 99,99%  duty cycle buiten 20/80 en 80/20 verwerpen  |
+| 8.  | De ATB-infrastructuur is verdeeld in secties:  Deze zijn minimaal zo lang dat een trein bij de ter plaatse geldende maximumsnelheid altijd ten minste 4 perioden van de ATB-code ontvangt. In geval van inschakelsecties is dat ten minste 10s, in geval van code96 en 8s in geval van andere codes. In geval van een uitschakelsectie is de code (code75) minimaal 12s aanwezig. Deze minimumtijden worden gevormd door een minimumafstand waarover de code aanwezig is en een maximumsnelheid waarmee het materieel passeert.  Na het passeren van een ‘sectiescheiding’ kan gedurende 1,4s geen code aanwezig zijn *(inschakelen van de code)*   De fase van de draaggolf kan op de sectiescheidingen 180 graden draaien.  De fase van het gemoduleerde signaal kan op de sectiescheidingen tussen –180 en +180 draaien.  Bij codeveranderingen is de start fase van de nieuwe code onafhankelijk van de eindfase van de oude code.  Bij het passeren van een sectiescheiding is iedere willekeurige overgang tussen ‘codes’ (modulatiefrequenties) mogelijk.  De veranderingen van de baancode bij sectiescheidingen kunnen gelijktijdig met andere verstoringen optreden. Daarnaast kan de baancode op ieder moment veranderen.  Incidenteel is de afstand tussen sectiescheidingen korter dan nodig om 4 gehele perioden ATB-code te ontvangen. In die gevallen zijn meestal maatregelen genomen om een inschakelvertraging te voorkomen (‘voorcodering’). Fasedraaiingen in draaggolf en code zijn in die gevallen echter wel mogelijk.  |
+| 9.  | Via materieel en onderstations kunnen ATB-codestromen uit andere secties door de spoorstaven lopen.  De grootte van deze stromen is maximaal 3,5A en kan ATB-code bevatten.  |
+| 10.  | Door de spoorstaven lopen behalve ATB-codestromen ook tractieretourstromen. Deze stromen zijn verdeeld tussen de beide spoorstaven of lopen (in geval van enkelbenige isolatie) in één spoorstaaf.  De tractie retourstroom door de spoorstaven kan de volgende componenten bevatten:  • een DC component tot 4000A;  • een 50Hz component tot 250A (parallel loop 25kV);  • weerstand tractie-installaties: deze produceren harmonischen van de motorfrequentie met een grootte van max. 3A;  • chopper tractie-installaties: deze produceren harmonischen van de motorfrequentie met een grootte van max. 1A. Daarnaast produceren deze installaties een stroom met de schakelfrequentie van de chopper. Voorkomende frequenties zijn: 66⅔ Hz, 100Hz, 300Hz, ca. 315Hz, 400Hz en 450Hz. De stromen bij deze frequenties bedragen maximaal 5A;  • invertorinstallaties: deze produceren een breed spectrum aan harmonischen van de motor/invertor frequentie en mengfrequenties van deze harmonische met de schakelfrequenties van de halfgeleiders. In het frequentiegebied tussen 68 en 82Hz is deze stroom maximaal 2A per trein.  |
+| --- | Naast deze door het spoorvoertuig veroorzaakte componenten zijn in eventuele tractie retourstromen altijd harmonischen van de gelijkrichters aanwezig:  • 50 en 100 Hz bij asymmetrie van de gelijkrichter.  • 300Hz bij 6 pulsige en semi 12 pulsige gelijkrichting  • 600Hz bij 12 pulsige en semi 24 pulsige gelijkrichting  |
+| --- | --- |
+| --- | De ATB dient immuun te zijn voor door het spoorvoertuig zelf gegenereerde stroorstromen, de minimale waarden voor deze immuniteit is aangegeven in hoofdstuk 6.2 van bijlage 6 .  |
+| --- | --- |
+| --- | Daarnaast kunnen in het spoor de volgende frequentie worden aangetroffen:  1145Hz.+/– 0,2Hz met een minimale veldsterkte van 4,75 Am/m +/–10% en 1445Hz, 1744,5Hz, 2353Hz en 2670,5Hz +/– 0,2% met een minimale veldsterkte van 15,75 Am/m +/–10%.  |
+| 11.  | De kleinst voorkomende boogstralen zijn:  • in bogen: 350m;  • in wissels: 460m.  |
+
+### Hoofdstuk  2  
+
+####Atbeg-functies
+
+### 2.1  
+
+####Definities
+
+In dit hoofdstuk wordt verstaan onder: 
+
+* adequaat handelen:* het verlagen van de snelheid door de machinist bij een remopdracht.   
+
+### 2.1.1  
+
+####Functionele toestanden in ATBEG-gebied
+
+Het spoorvoertuig kent bij het rijden op de `eerste generatie baanvakken’ ten aanzien van de in dit hoofdstuk opgenomen eisen de volgende functionele toestanden: 
+
+1. ‘stand-by’: in de trein wordt geen cabine bediend. De snelheidsbewaking indien geen enkele cabine bediendis, is geen ATB-functie;  
+
+2. ‘uitgeschakeld’: de trein is bediend, maar er is geen snelheidsbewaking mogelijk omdat het initiëren van een remming door de ATB onmogelijk is of is gemaakt. Bij ATB-EG (fase3), ATB-EG (fase4), ATBNG en ATBL-NL gebeurt dit door het sluiten van de remafsluitkraan;  
+
+3. ‘BD’: ATBEG bewaakt de snelheid niet (buiten dienst);  
+
+4. ‘I’: ATBEG initieert een remming (interventie);  
+
+5. ‘Const’: bewaking van een constante snelheid (door in de baan aanwezige ATB code aangegeven);  
+
+6. ‘REM’: bewaking van de door in de baan aanwezige ATB-code aangegeven snelheid na een codewisseling.   ![249946](http://wetten.overheid.nl/Illustration/249946)
+diagram De cijfers in het diagram verwijzen naar de transitienummers in paragraaf 2.2 van deze bijlage. De prioriteit van de transities wordt bepaald door de nummering (een lager nummer betekent een hogere prioriteit). Bij transitie geldt verder het volgende: 
+
+1. alle tijden die worden gemeten voor het activeren van een functie worden op nul gezet (resetten van alle timers). Dat betekent ook dat functies die op het moment van de transitie nog niet door het aflopen van een gespecificeerde tijd zijn gestart, niet meer op grond van de oude voorwaarden worden gestart (timers worden onderbroken door een toestandsovergang);  
+
+2. het weergeven van een incidenteel akoestisch signaal met een gespecificeerde lengte (‘gong’, ‘losbel’ en ‘BD-signaal’) wordt niet door transities of welke verandering dan ook onderbroken. Continue auditieve signalen (‘rembel’) worden afgebroken zodra de voorwaarden vervallen.   
+
+### 2.2  
+
+####Functies
+
+Het geïnstalleerde systeem van automatische treinbeïnvloeding vervult ATB-functies die verschillen per functionele toestand. Een tabel met functies per functionele toestand is opgenomen in paragraaf 2.2.9. 
+
+### 2.2.1  
+
+####Meerdere toestanden
+
+| Eis nr.  | Beschrijving   |
+|:---|:---|
+| 1.1  | In de bediendecabine moet de treinsnelheid worden getoond.De weergegeven actuele treinsnelheid mag niet meer dan 3km/h afwijken van de bewaakte snelheid.  |
+
+| Transitie  | Beschrijving   |
+|:---|:---|
+| 1.2  | Als de ATB-functie wordt uitgeschakeld m.b.v. het bedieningsmiddel ‘ATB uit’ als bedoeld in paragraaf 2.8 dan wordt overgegaan naar de toestand ‘uitgeschakeld’. Dit mag alleen mogelijk zijn bij stilstand. Het buiten bedrijf zetten van de ATB met het bedieningsmiddel ‘ATB uit’ moet ook na inschakelen nog herkenbaar zijn voor onderhoudspersoneel. Dit kan onder meer worden gerealiseerd door af te dwingen dat een zegel wordt verbroken of digitale registratie.  Voor de machinist moet herkenbaar zijn dat geen ATB beschikbaar is. Dit kan onder meer worden gerealiseerd door het tonen van een (rode) lamp of een melding op een display, zoals het diagnosedisplay of het ETCS-display.  |
+| 1.3  | Als in de trein geen cabine is bediend, dan moet worden overgegaan naar de toestand ‘stand-by’.Deze eis is geldig in de toestanden CONST, REM en BD. Het voorkomen van rijden en rollen, indien de trein niet of niet op juiste wijze wordt bediend, is geen ATBEG- functie. Rijdend wegnemen van de cabine selectie moet leiden tot een veilige toestand. Dit is echter geen ATB-functie.  |
+
+### 2.2.2  
+
+####Stand-by
+
+| Eis nr.  | Beschrijving  |
+|:---|:---|
+| 2.1  | Er worden geen ATB-cabineseinen in getoond.  |
+| 2.2  | Er wordt geen snelremming geïnitieerd en tractie is vrijgegeven.  |
+
+| Transitie  | Beschrijving   |
+|:---|:---|
+| 2.3  | Als een cabine wordt bediend, dan wordt overgegaan naar de toestand ‘CONST’.  |
+
+### 2.2.3  
+
+####Uitgeschakeld
+
+| Eis nr.  | Beschrijving  |
+|:---|:---|
+| 3.1  | Er worden geen ATB-cabineseinen in getoond.  |
+| 3.2  | Er wordt geen snelremming geïnitieerd en tractie is vrijgegeven.  |
+
+| Transitie  | Beschrijving  |
+|:---|:---|
+| 3.3  | Als de ATB-functie bij stilstand wordt ingeschakeld en er is een cabine bediend, dan wordt overgegaan naar de toestand ‘CONST’.  |
+| 3.4  | Als de ATB-functie bij stilstand wordt ingeschakeld en er is geen cabine bediend, dan wordt overgegaan naar de toestand ‘stand-by’.  |
+| 3.5  | Als de ATB-functie wordt ingeschakeld terwijl de trein niet stilstaat, dan wordt overgegaan naar de toestand ‘I’.  |
+
+### 2.2.4  
+
+####Buiten dienst
+
+| Eis nr.  | Beschrijving  |
+|:---|:---|
+| 4.1  | Er worden geen ATB cabineseinen in getoond.  |
+| 4.2  | In de bediende cabine wordt aan de machinist getoond dat de snelheidsbewaking niet actief is (optische signaleringen, ‘blauwe lamp’), dit tot het moment dat de attentieknop wordt bediend.  |
+| 4.3  | Er wordt geen snelremming geïnitieerd en tractie is vrijgegeven.  |
+
+| Transitie  | Beschrijving   |
+|:---|:---|
+| 4.4  | Indien de attentieknop of -knoppen in de bediende cabine wordt ingedrukt terwijl de trein rijdt, dan wordt zodra een baancode anders dan code75 is gesignaleerd de snelheidsbewaking ingeschakeld. Overgang naar de toestand ‘CONST’.  |
+| 4.5  | In de toestand ‘BD’ moet een tijd Tinschakel nadat de attentieknop of -knoppen in de bediende cabine wordt ingedrukt terwijl de trein rijdt, worden ingegrepen, tenzij de toestand binnen een tijd Tinschakel na het bedienen van de knop is veranderd in ‘CONST’ . Overgang naar toestand ‘I’.  |
+| 4.6  | In de toestand ‘BD’ moet indien voor de eerste as van de trein een tijd Ton onafgebroken code, anders dan code75, aanwezig is, een snelremming worden ingezet, tenzij de toestand binnen een tijd Tinschakel na het bedienen van de knop is veranderd in ‘CONST’. Overgang naar toestand ‘I’.  |
+| 4.7  | Indien bij stilstand  a. de attentieknop of -knoppen in de bediende cabine een tijd ‘Tbd’ (constanten) wordt ingedrukt; of  b. indien code wordt ontvangen wordt de snelheidsbewaking ingeschakeld.  Overgang naar de toestand ‘CONST’.  |
+
+*Toelichting:*   *De functies 4.4 t/m 4.6 zorgen samen voor het gecontroleerd inschakelen van ATBEG indien rijdend code wordt gevonden en het bewaken op de aanwezigheid van code en antennes. De functies hangen in die zin samen, maar kunnen onafhankelijk van elkaar worden gerealiseerd.*  
+
+### 2.2.5  
+
+####Interventie (‘I’)
+
+| Eis nr.  | Beschrijving  |
+|:---|:---|
+| 5.1  | Er wordt een snelremming geïnitieerd.  |
+| 5.2  | De tractie wordt afgeschakeld.  |
+| 5.3  | In de bediende cabine wordt met een rode lamp aan de machinist getoond dat het ATB-systeem heeft ingegrepen.   |
+
+| Transitie  | Beschrijving  |
+|:---|:---|
+| 5.4  | Indien in de bediendecabine bij stilstand van de trein de ontgrendelknop of -knoppen wordt bediend of worden bediend, wordt de snelremming ongedaan gemaakt, de rode lamp gedoofd en de tractie vrijgegeven.  |
+
+### 2.2.6  
+
+####Functies en toestandsovergangen in de toestanden Const en REM
+
+| Eis nr.  | Beschrijving  |
+|:---|:---|
+| 6.1  | Indien ten opzichte van de bediendecabine vooruit wordt gereden, wordt in die cabine het in paragraaf 2.7 bedoelde cabinesein behorend bij de voor de eerste as aanwezige baancode weergegeven. Indien achteruit wordt gereden, wordt 40 km/h als maximumsnelheid getoond en bewaakt.  |
+| 6.2  | Indien de machinist adequaat handelt, is dat voor de machinist herkenbaar middels een witte lamp.  |
+| 6.3  | Bij wijziging van het cabinesein wordt in de bediendecabine een akoestisch signaal (‘gong’, auditieve signaleringen) gegeven op zodanige wijze dat de machinist de wijziging van het cabinesein en het klinken van de ‘gong’ als gelijktijdig ervaart. Dit betekent dat de ‘gong’ maximaal een tijd ‘Tgong’ voorafgaand aan of later dan de wijziging van het ‘cabinesein’ mag worden gegeven.  |
+
+| Transitie  | Beschrijving  |
+|:---|:---|
+| 6.4   | Indien gedurende een aaneengesloten periode Tblauw, de baancode code75 wordt ontvangen, dan wordt de ATB-snelheidsbewaking beëindigd, en wordt een akoestisch uitschakelsignaal gegeven. (Overgang naar de functionele toestand ‘BD’)  |
+| 6.5   | Indien de ‘BD-knop’ in de bediende cabine bij stilstand en met de rem bediend, een tijd ‘Tbd’ wordt ingedrukt, terwijl geen baancode of code75 aanwezig is, dan wordt de ATB snelheidsbewaking beëindigd. (Overgang naar de functionele toestand ‘BD’)  |
+
+### 2.2.7  
+
+####Functies en toestandsovergangen tijdens constante snelheidsbewaking (CONST)
+
+| Eis nr.  | Beschrijving  |
+|:---|:---|
+| 7.1  | Indien de treinsnelheid hoger is dan de snelheid die correspondeert met de baancode (‘VcodeX’, paragraaf 2.4) plus ‘V_marge’, en de machinist handelt niet adequaat, dan klinkt de ‘rembel’ in de bediende cabine (auditieve signaleringen).  |
+| 7.2  | Als de treinsnelheid daalt tot de snelheid die correspondeert met de baancode (‘VcodeX’, paragraaf 2.4) plus ‘V_marge’, terwijl de machinist adequaat handelt in de bediendecabine een ‘losindicatie’ gegeven (auditieve signaleringen).  |
+
+| Transitie  | Beschrijving  |
+|:---|:---|
+| 7.3  | Indien de treinsnelheid gedurende ‘Twarning’ hoger is dan de snelheid die correspondeert met de baancode als bedoeld in paragraaf 2.4 plus ‘V_marge’, terwijl de machinist niet of niet adequaat handelt, dan wordt een snelremming ingezet.  |
+| 7.4  | Indien de treinsnelheid bij wijziging van het cabinesein in de cabine hoger is dan de snelheid die correspondeert met de nieuwe code plus ‘V_marge’, dan wordt overgegaan naar de subtoestand ‘REM’.  |
+
+### 2.2.8  
+
+####Snelheidsbewaking na een codewisseling (REM)
+
+| Eis nr.  | Beschrijving  |
+|:---|:---|
+| 8.1  | Indien  a. na de overgang naar de toestand ‘REM’ een tijd langer dan ‘Trembel’ (constanten) is verstreken;  b. de machinist niet adequaat handelt als bedoeld in paragraaf 2.1; en  c. de treinsnelheid hoger is dan de snelheid die correspondeert met de baancode (‘VcodeX’, paragraaf 2.4) plus ‘Vlos’ (constanten), klinkt de ‘rembel’ (auditieve signaleringen) in de bediendecabine.  |
+| 8.2  | Na het klinken van de rembel heeft de machinist nog een tijd ‘Treactie’ beschikbaar om adequaat te reageren en daarmee een ingreep te voorkomen.  |
+| 8.3  | Als de treinsnelheid daalt tot de snelheid die correspondeert met de baancode plus Vlos, terwijl de machinist adequaat handelt, wordt in de bediende cabine een ‘losindicatie’ gegeven.  |
+
+| Transitie  | Beschrijving  |
+|:---|:---|
+| 8.4  | Indien de machinist niet adequaat handelt, wordt uiterlijk ‘Tintervention_yellow’ (timing requirements) na het wegvallen van de baancode, of ‘Tintervention’ (timing requirements) na het veranderen van de baancode naar een baancode, die correspondeert met een snelheid lager dan de huidige snelheid plus V_marge, een snelremming ingezet. (overgang naar de functionele toestand ‘I’)  |
+| 8.5  | Indien de treinsnelheid lager is dan de snelheid die correspondeert met de baancode (‘VcodeX’, paragraaf 2.4) plus ‘V_marge’, wordt overgegaan naar de toestand ‘CONST’.  |
+| 8.6  | Indien de treinsnelheid na de overgang naar de toestand ‘REM’ gedurende een tijd ‘Tlos’ (constanten) lager is dan de snelheid die correspondeert met de baancode (‘VcodeX’, paragraaf 2.4) plus ‘Vlos’ (constanten), wordt overgegaan naar de toestand ‘CONST’.  |
+
+### 2.2.9  
+
+####Functies per functionele toestand
+
+In onderstaande tabel worden de functies per functionele toestand gegeven. Een ‘J’ betekent dat de functie in die toestand gerealiseerd moet zijn; een ‘N’ betekent dat de functie niet gerealiseerd mag zijn; en een ‘O’ betekent dat de eis optioneel is, dus dat de functie gerealiseerd mag zijn.  
+
+| Eis   | Uitgeschakeld   | Stand-by   | REM   | CONST   | I   | BD   |
+|:---|:---|:---|:---|:---|:---|:---|
+| 2.1/3.1/4.1  | J  | J  | N  | N  | N  | J  |
+| 3.3  | J  | N  | N  | N  | N  | N  |
+| 3.4  | J  | N  | N  | N  | N  | N  |
+| 1.1  | J  | O  | J  | J  | J  | J  |
+| 2.2/3.2/4.3  | J  | J  | N  | N  | N  | J  |
+| 2.3  | N  | J  | N  | N  | N  | J  |
+| 1.2  | N  | J  | J  | J  | J  | J  |
+| 1.3  | N  | N  | J  | J  | N  | J  |
+| 6.1  | N  | N  | J  | J  | O  | N  |
+| 6.2  | N  | N  | J  | J  | N  | N  |
+| 6.3  | N  | N  | J  | J  | O  | N  |
+| 8.1  | N  | N  | J  | N  | N  | N  |
+| 8.2  | N  | N  | J  | N  | N  | N  |
+| 8.4  | N  | N  | J  | N  | N  | N  |
+| 8.3  | N  | N  | J  | N  | N  | N  |
+| 8.5  | N  | N  | J  | N  | N  | N  |
+| 8.6  | N  | N  | J  | N  | N  | N  |
+| 7.1  | N  | N  | N  | J  | N  | N  |
+| 7.2  | N  | N  | N  | J  | N  | N  |
+| 7.3  | N  | N  | N  | J  | N  | N  |
+| 7.4  | N  | N  | N  | J  | N  | N  |
+| 6.4  | N  | N  | J  | J  | N  | N  |
+| 6.5  | N  | N  | N  | J  | N  | N  |
+| 5.1  | N  | N  | N  | N  | J  | N  |
+| 5.2  | N  | N  | N  | N  | J  | N  |
+| 5.3  | N  | N  | N  | N  | J  | N  |
+| 5.4  | N  | N  | N  | N  | J  | N  |
+| 4.2  | N  | N  | N  | N  | N  | J  |
+| 4.4  | N  | N  | N  | N  | N  | J  |
+| 4.5  | N  | N  | N  | N  | N  | J  |
+| 4.6  | N  | N  | N  | N  | N  | J  |
+| 4.7  | N  | N  | N  | N  | N  | J  |
+
+### 2.3  
+
+####Timing requirements
+
+Het geïnstalleerde systeem van automatische treinbeïnvloeding voldoet aan de onderstaande timing requirements.  
+
+| Naam  | Beschrijving  | Eis  |
+|:---|:---|:---|
+| Tintervention_yellow  | Maximum tijd tussen wegvallen van de baancode en het inzetten van een snelremming indien de machinist niet adequaat handelt.  • Ssnelrem- SATBis verkorting van de remweg door een eventueel snellere opbouw van remkracht in geval van een ATB-interventie, ten opzichte van de UIC remkrachtopbouwtijd na ontluchting van de treinleiding.  • v is de maximum-ATB-snelheid (in m/s) die de trein mag rijden bij de voorgaande baancode.  De nominale waarde is de gemiddelde waarde, waarbij in 80% van Timing de gevallen de afwijking ten opzichte van deze gemiddelde waarde niet meer bedraagt dan 0,1s en in 95% van de gevallen niet meer dan 0,15s.  | Nominaal:  4,6s +  (Ssnelrem-SATB)/v  worst case:  4,8s +  (Ssnelrem-SATB)/v   |
+| Tintervention  | Maximumtijd tussen het wijzigen van de baancode (anders dan geen code) en het inzetten van een snelremming indien de machinist niet adequaat handelt (definities) en de treinsnelheid te hoog is.  • Ssnelrem- SATBis verkorting van de remweg door een eventueel snellere opbouw van remkracht in geval van een ATB-interventie, ten opzichte van de UIC remkrachtopbouwtijd na ontluchting van de treinleiding.  • v is de maximum-ATB-snelheid (in m/s) die de trein mag rijden bij de voorgaande baancode.  | 8,3s +  (Ssnelrem-SATB)/v   |
+| Tblauw  | Tijd dat code75 in het spoor aanwezig moet zijn voordat naar BD wordt overgegaan.  | 6s (+/–1s)  |
+| Tinschakel  | Tijd tussen het bedienen van de attentieknop en de overgang van ‘BD’ naar ‘I’ indien geen code (anders dan ‘geen code’ en ‘code75’) voor de eerste as van de trein aanwezig is.  | 5s (+/–1s)  |
+| Ton  | Tijd beschikbaar voor de machinist voor het bedienen van de ‘attentieknop’, nadat in de toestand ‘BD’ code (anders dan ‘geen code’ en ‘code75’) voor de eerste as van de trein aanwezig is gekomen.  Opmerking: samen met Tinschakel definieert Ton het venster waarbinnen de machinist de attentieknop moet bedienen in een inschakelsectie:   *‘De machinist dient de attentieknop te bedienen in het tijdvenster van Tinschakel voor het binnenrijden van de inschakelsectie tot Ton na het binnenrijden van de inschakelsectie.*   | 5s (+/–1s)  |
+| Tgong  | Maximum tijdverschil tussen de wisseling van het cabinesein en het klinken van de ‘gong’. *toelichting: de gong mag zowel maximaal Tgong voor als Tgong na de cabinesein wisseling klinken*.  | 0,3s  |
+| Trembe  | Tijd tussen de ‘gong’ en de ‘rembel’. *toelichting: De gong dient een tijd Trembel voor de rembel te klinken*.  | 0,3s–0,7s  |
+| Treactie  | Minimale tijd die voor de reactie van de machinist beschikbaar moet zijn.  | 1,7s  |
+| Twarning  | Maximum tijd dat de maximumsnelheid (VcodeX + V_marge ) tijdens constante snelheidsbewaking bij niet adequaat handelen door de machinist mag worden overschreden voordat een snelremming moet worden ingezet.  | 5s  |
+
+### 2.4  
+
+####Configureren van de bewaakte snelheden
+
+Het geïnstalleerde systeem van automatische treinbeïnvloeding configureert de bewaakte snelheden op onderstaande wijze.   
+
+| Naam  | beschrijving  | default waarde/range  |
+|:---|:---|:---|
+| Vcode96  | Snelheid corresponderend met code96  | 140 km/h (140km/h of 160km/h)  |
+| Vcode120  | Snelheid corresponderend met code120  | 130 km/h  |
+| Vcode147  | Snelheid corresponderend met code147  | 80 km/h (10, 80, 100 en 160km/h)  |
+| Vcode180  | Snelheid corresponderend met code180  | 80 km/h  |
+| Vcode220  | Snelheid corresponderend met code220  | 60 km/h  |
+| Vgeen code  | Snelheid corresponderend met geen code  | 40 km/h  |
+
+Het systeem moet ingesteld zijn op de aangegeven default-waarde en moet instelbaar zijn op alle waarden in de range. De minister kan een andere default-waarde uit de range voorschrijven en bepalen dat binnen de door hem vast te stellen termijn de default-waarde van in gebruik zijnde systemen moet worden ingesteld op die andere waarde. 
+
+### 2.5  
+
+####Constanten
+
+Het geïnstalleerde systeem van automatische treinbeïnvloeding voldoet aan onderstaande eisen.  
+
+| Naam  | beschrijving  | default waarde/range  |
+|:---|:---|:---|
+| V_marge  | Toegestane snelheidsmarge boven de door de baancode aangegeven snelheid.  | 3 km/h voor locomotieven  5 km/h voor treinstellen  |
+| Tlos  | Tijd dat de hogere snelheidsmarge Vlos wordt  | 20s  |
+| Vlos  | Snelheidsmarge boven de door de baancode aangegeven snelheid waarbij tijdens remmen een losindicatie wordt gegeven.  | 5 km/h voor reizigersmaterieel  12 km/h voor locomotieven  |
+| Tbd  | Tijd dat de attentieknop moet worden ingedrukt om van de toestand ‘BD’ naar de toestand ‘CONST’ over te gaan,  en  tijd dat de BD knop moet worden ingedrukt om van de toestand ‘CONST’ naar ‘BD’ te gaan.  | 2s  |
+
+### 2.6  
+
+####Auditieve signaleringen naar de machinist
+
+Het geïnstalleerde systeem van automatische treinbeïnvloeding is in staat om de onderstaande auditieve signaleringen naar de machinist voort te brengen.  
+
+| Naam  | Beschrijving  |
+|:---|:---|
+| ‘gong’  | Signalering die aangeeft dat het in de cabine weergegeven cabinesein verandert.  Specificatie: Éénmaal weergave van het geluid ‘gong’ (‘gong.wav’).  |
+| ‘rembel’  | Signalering die aangeeft dat de machinist dient te remmen.  Specificatie: Continue weergave van het geluid ‘bel’ (‘bel.wav’).  |
+| ‘losindicatie’  | Signalering die aangeeft dat de machinist de remmen mag lossen.  Specificatie: Drie maal weergave van het geluid ‘bel’ (‘bel.wav’):  300ms ‘bel’, 300ms stil, 300ms ‘bel’, 300ms stil, 300ms ‘bel’.  |
+| ‘BD-signaal’/uitschakelsignaal  | Signalering die aangeeft dat verder in ATB loos gebied wordt gereden.  Specificatie: Tenminste vijf maal weergave van het geluid ‘gong’ (‘gong.wav’):  Tijd tussen de start van de opéénvolgende weergaven van het geluid ‘gong’ *(tijd tussen de ‘gongslagen’)*: 800ms.  |
+
+(*) Alle in de bovenstaande tabel genoemde tijden zijn gespecificeerd +/– 10%. (**) De genoemde geluidsbestanden ‘gong.wav’, ‘bel.wav’ en ‘zoemer.wav’ worden door de Minister van Infrastructuur en Milieu verstrekt.  
+
+### 2.7  
+
+####Optische signaleringen naar de machinist
+
+Het geïnstalleerde systeem van automatische treinbeïnvloeding is in staat om onderstaande optische signaleringen naar de machinist voort te brengen.  
+
+| Naam  | Beschrijving  |
+|:---|:---|
+| ‘snelheid’  | De actuele snelheid van de trein.  |
+| ‘cabinesein’  | Seinbeeld dat aan de machinist wordt getoond.  |
+| ‘witte lamp’  | Witte indicator die aangeeft dat de rem voldoende wordt bediend om een ATB ingreep te voorkomen.  |
+| ‘rode lamp’  | Rode indicator die aangeeft dat de ATB heeft ingegrepen.  |
+| ‘blauwe lamp’  | Blauwe indicator die aangeeft dat de ATB functie niet actief is, maar dat het systeem gereed is om in te schakelen zodra code in de baan beschikbaar komt.  |
+
+Daarbij gelden de volgende eisen:  
+
+| eis nr.  | Beschrijving  |
+|:---|:---|
+| 4.7.1  | Bij iedere code die correspondeert met een snelheid groter of gelijk aan de maximum materieelsnelheid wordt als cabinesein ‘groen’ getoond. Bij de code die correspondeert met de hoogste gecodeerde snelheid, wordt altijd ‘groen’ getoond.  Indien de trein beschikt over ERMTS/ETCS- apparatuur, dan wordt als maximum materieelsnelheid de door de machinist ingevoerde snelheid ook voor ATBEG gebruikt. In andere gevallen wordt een vaste waarde gebruikt.  |
+| 4.7.2  | Bij iedere code die correspondeert met een snelheid kleiner dan de maximum materieelsnelheid, en kleiner dan de hoogste gecodeerde snelheid (140km/h of 160km/h) wordt als cabinesein ‘geel’ getoond.  |
+| 4.7.3  | Per bewaakt snelheidsniveau (het minimum van de materieelsnelheid en de snelheid die correspondeert met de ATB code), moet een apart cabinesein op fysiek verschillende plaatsen worden voorzien. *Ter verduidelijking: alle codes die corresponderen met een snelheid groter of gelijk aan de maximum. materieelsnelheid, en dus allen leiden tot bewaking van dezelfde snelheid, leiden tot hetzelfde cabinesein (‘groen’) op dezelfde plaats. Bij de code die correspondeert met de hoogste gecodeerde snelheid, wordt altijd ‘groen’ getoond.*   |
+| 4.7.4  | De maximum snelheid behorend bij het cabinesein moet erop worden aangegeven, mits de aangegeven snelheid niet hoger is dan de maximum materieelsnelheid.  |
+| 4.7.5  | De cabine seinen dienen in oplopende snelheid (van links naar rechts of met de snelheidsmeter mee) te worden geplaatst  |
+| 4.7.6  | De maat van de cabineseinen dient tenminste 15mm x 12 mm (hxb) te bedragen  |
+| 4.7.7  | De op de cabineseinen gebruikte tekst om de snelheid mee aan te duiden moet goed zichtbaar zijn.  |
+| 4.7.8  | Optische signaleringen moeten voldoen aan de eisen geformuleerd in CENELEC: CLC/prTR 50549-7), tenzij dit een conflict oplevert met het bovenstaande. In dat geval geldt het bovenstaande.  |
+
+### 2.8  
+
+####Knoppen
+
+Het geïnstalleerde systeem van automatische treinbeïnvloeding beschikt ten minste over de onderstaande knoppen.  
+
+| Naam  | Beschrijving  |
+|:---|:---|
+| BD knop  | Knop op de stuurtafel om te schakelen van de toestand ‘CONST’ naar de toestand ‘BD’ (te gebruiken bij stilstand).  |
+| Ontgrendelknop  | Knop op de stuurtafel om een ATB ingreep ongedaan te maken nadat de trein tot stilstand is gekomen.  Deze knop mag met de snelrem bediening worden gecombineerd. Kiezen van de snelremstand geeft dan ook bediening van de ontgrendelknop.  |
+| Attentieknop  | Knop op de stuurtafel om aan te geven dat ATB gebied wordt binnengereden.  Met dezelfde knop kan bij stilstand direct vanuit de toestand ‘BD’ naar de toestand ‘CONST’ worden geschakeld.  |
+| ATB uit  | Een bedieningsmiddel om de ATB functie uit te schakelen.  |
+
+De knoppen moeten voldoen aan de eisen geformuleerd in CENELEC: CLC/prTR 50549-7. 
+
+### 2.9  
+
+####Veiligheids- en beschikbaarheidseisen
+
+Het geïnstalleerde systeem van automatische treinbeïnvloeding aan de onderstaande veiligheidseisen en beschikbaarheids. De kans op een veiligheidsstoring die korter dan drie seconden duurt is kleiner dan 2 x 10<sup>-6</sup>/uur. De kans op een veiligheidsstoring die langer dan drie seconden duurt is kleiner dan 2 x 10<sup>-8</sup>/uur. De kans op storingen die uitsluitend leiden tot onveilige foutieve informatie aan de bestuurder is indien de Driver Machine Interface (DMI) niet aan SIL 1 voldoet, kleiner dan 3 x 10<sup>-5</sup>/uur De kans op een beschikbaarheidsstoring is kleiner dan 2,2 x 10<sup>-4</sup>/uur.  
+
+### Hoofdstuk  3  
+
+####Installatievoorschriften
+
+Het ATB systeem dient te worden geïnstalleerd conform de voorschriften van de leverancier van het systeem. Voor de initiële ATB versies: ATB Fase 4, ATBNG Classic en ATBL-NL zijn de installatievoorschriften opvraagbaar bij de Railfinfra-beheerder. 
 
 ### Bijlage 2 
 

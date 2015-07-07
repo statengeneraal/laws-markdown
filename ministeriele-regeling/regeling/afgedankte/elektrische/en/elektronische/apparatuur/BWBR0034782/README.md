@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 3 februari 2014, nr. IENM/BSK-2014/14758, houdende vaststelling regels met betrekking tot afgedankte elektrische en elektronische apparatuur (Regeling afgedankte elektrische en elektronische apparatuur)
 
 De Staatssecretaris van Infrastructuur en Milieu,  
-Gelet op richtlijn nr. 2012/19/EU van het Europees Parlement en de Raad van 4 juli 2012 betreffende afgedankte elektrische en elektronische apparatuur (PbEU 2012, L 197), de [artikelen 9.2.2.1](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [9.5.2](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [10.29](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [10.41](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [10.43](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [21.6, zesde lid, van de Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [artikel 5.8, tweede lid, van het Besluit omgevingsrecht](../../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md);
+Gelet op richtlijn nr. 2012/19/EU van het Europees Parlement en de Raad van 4 juli 2012 betreffende afgedankte elektrische en elektronische apparatuur (PbEU 2012, L 197), de artikelen 9.2.2.1, 9.5.2, 10.29, 10.41, 10.43 en 21.6, zesde lid, van de Wet milieubeheer en artikel 5.8, tweede lid, van het Besluit omgevingsrecht;
 BESLUIT:    
 
 ### Artikel  1  
@@ -221,12 +221,12 @@ Het bevoegd gezag verbindt zodanige voorschriften aan een omgevingsvergunning vo
 
 ### Artikel  17  
 
-####Ingebouwde batterijen en accu’s moeten eenvoudig uit afgedankte elektrische en elektronische apparatuur verwijderd kunnen worden
+####Ingebouwde batterijen en accu’s
 
-1.  Het is verboden elektrische en elektronische apparatuur in te voeren, voor handelsdoeleinden voorhanden te hebben, aan een ander ter beschikking te stellen of uit te voeren indien de ingebouwde batterijen en accu’s niet eenvoudig uit de apparatuur gehaald kunnen worden.   
+1.  Het is verboden elektrische en elektronische apparatuur in te voeren, voor handelsdoeleinden voorhanden te hebben, aan een ander ter beschikking te stellen of uit te voeren indien de ingebouwde batterijen en accu’s niet eenvoudig door van de producent onafhankelijke gekwalificeerde vaklieden uit de apparatuur gehaald kunnen worden voor zover deze niet eenvoudig door de eindgebruiker uit de apparatuur gehaald kunnen worden.   
 2.  Een gebruiksaanwijzing bij apparatuur vermeldt: 
 
-a. de wijze waarop de batterijen en accu’s uit de elektrische en elektronische apparatuur gehaald kunnen worden;  
+a. de wijze waarop de batterijen en accu’s door de eindgebruiker dan wel door van de producent onafhankelijke gekwalificeerde vaklieden uit de elektrische en elektronische apparatuur gehaald kunnen worden;  
 
 b. informatie over het type batterij of accu, dat in de elektrische en elektronische apparatuur is ingebouwd.     
 3.  Een producent of distributeur levert bij de elektrische en elektronische apparatuur, waarin batterijen of accu’s zijn ingebouwd, een gebruiksaanwijzing die voldoet aan het tweede lid.   
@@ -290,7 +290,7 @@ Een wijziging van de bijlagen bij richtlijn nr. 2012/19/EU gaat voor de toepassi
 
 ### Artikel  24  
 
-De [Regeling beheer elektrische en elektronische apparatuur](../../../../../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md) wordt ingetrokken met dien verstande dat [artikel 16 van die regeling](../../../../../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md) van toepassing blijft ten aanzien van de resultaten van de uitvoering van de artikelen 7, 8, 9, 10, 11, 12 en 13 alsmede over de hoeveelheid op de markt gebrachte elektrische en elektronische apparatuur in 2013. 
+De Regeling beheer elektrische en elektronische apparatuur wordt ingetrokken met dien verstande dat artikel 16 van die regeling van toepassing blijft ten aanzien van de resultaten van de uitvoering van de artikelen 7, 8, 9, 10, 11, 12 en 13 alsmede over de hoeveelheid op de markt gebrachte elektrische en elektronische apparatuur in 2013. 
 
 ### Artikel  25  
 

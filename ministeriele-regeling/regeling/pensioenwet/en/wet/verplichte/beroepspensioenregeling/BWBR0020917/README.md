@@ -45,16 +45,17 @@ Als instelling als bedoeld in artikel 70, tweede lid, van de Pensioenwet dan wel
 
 ####Gelijkstelling met pensioen
 
-1. De uitkeringen, bedoeld in artikel 2, negende lid, van de Pensioenwet of artikel 2, vierde lid, van de Wet verplichte beroepspensioenregeling worden gelijkgesteld met pensioen in de zin van artikel 1 van de Pensioenwet of artikel 1 van de Wet verplichte beroepspensioenregeling indien wordt voldaan aan de artikelen 3b en 3c en de pensioendatum ligt voor 1 januari 2014.
+1. De uitkeringen, bedoeld in artikel 2, negende lid, van de Pensioenwet of artikel 2, vierde lid, van de Wet verplichte beroepspensioenregeling worden gelijkgesteld met pensioen in de zin van artikel 1 van de Pensioenwet of artikel 1 van de Wet verplichte beroepspensioenregeling indien wordt voldaan aan de artikelen 3b en 3c en de pensioendatum ligt voor 1 januari 2017.
 2. Indien het pensioen, bedoeld in het eerste lid, ouderdomspensioen is, voldoet dit ouderdomspensioen aan artikel 15 van de Pensioenwet of artikel 31 van de Wet verplichte beroepspensioenregeling.
 
 ### 3b  
 
 ####De tijdelijke uitkering
 
-1. De duur van de tijdelijke uitkering, bedoeld in artikel 2, negende lid, van de Pensioenwet of artikel 2, vierde lid, van de Wet verplichte beroepspensioenregeling, bedraagt ten hoogste vijf jaar.
+1. De duur van de tijdelijke uitkering, bedoeld in artikel 2, negende lid, van de Pensioenwet of artikel 2, vierde lid, van de Wet verplichte beroepspensioenregeling, bedraagt ten hoogste twee jaar.
 2. De hoogte van de tijdelijke uitkering wordt vastgesteld op de hoogte die een levenslange uitkering op de pensioendatum zou hebben.
 3. Indien bij het vaststellen van de hoogte van de tijdelijke uitkering artikel 63, eerste lid, onderdeel a, van de Pensioenwet of artikel 75, eerste lid, onderdeel a, van de Wet verplichte beroepspensioenregeling in acht is genomen, voldoet het pensioen aan artikel 63 van de Pensioenwet of artikel 75 van de Wet verplichte beroepspensioenregeling.
+4. In afwijking van het eerste lid bedraagt de duur van de tijdelijke uitkering ten hoogste vijf jaar indien de pensioendatum was gelegen voor 1 januari 2014.
 
 ### 3c  
 
