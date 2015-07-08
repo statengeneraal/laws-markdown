@@ -8793,13 +8793,13 @@ c.worden regels gesteld met betrekking tot de tussen een beheerder van een beleg
 
 a. beschikt de financiële onderneming over een interne klachtenprocedure, gericht op een spoedige en zorgvuldige behandeling van klachten; en  
 
-b. is de financiële onderneming aangesloten bij een door Onze Minister erkende geschilleninstantie die geschillen behandelt met betrekking tot betaaldiensten, financiële diensten of financiële producten van de financiële onderneming, tenzij er geen zodanige geschilleninstantie is.     
+b. is de financiële onderneming aangesloten bij een door Onze Minister op grond van artikel 16, eerste lid, van de Implementatiewet buitengerechtelijke geschillenbeslechting consumenten aangewezen instantie tot beslechting van geschillen met betrekking tot betaaldiensten, financiële diensten of financiële producten van de financiële onderneming, tenzij er geen zodanige instantie is.     
 2.  Het eerste lid, onderdeel b, is niet van toepassing op financiële ondernemingen voorzover zij: 
 
 a. beleggingsdiensten uitsluitend voor professionele beleggers verlenen; of  
 
 b. optreden als clearinginstelling.     
-3.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de afhandeling van klachten en worden regels gesteld met betrekking tot de erkenning van geschilleninstanties, de behandeling van geschillen door erkende geschilleninstanties en de door erkende geschilleninstanties aan Onze Minister te verstrekken informatie.  
+3.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de afhandeling van klachten. Voorts kunnen, in aanvulling op de Implementatiewet buitengerechtelijke geschillenbeslechting consumenten gestelde regels, bij algemene maatregel van bestuur nadere regels worden gesteld met betrekking tot de aan instanties of procedures tot buitengerechtelijke beslechting van geschillen als bedoeld in het eerste lid, onderdeel b, te stellen eisen, alsmede regels met betrekking tot de door die instanties aan Onze Minister te verstrekken informatie. 
 
 ### Afdeling  4.2.3  
 

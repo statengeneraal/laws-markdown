@@ -890,4 +890,4 @@ J. P. H. Donner
 
 –artikel 23, derde lid, tweede volzin, van de Wet voorraadvorming aardolieproducten 2012; 
 
-– artikelen 70c, tweede lid, onderdeel h, en 71g, eerste lid, van de Woningwet. 
+– artikelen 35 tot en met 36a van de Woningwet. 

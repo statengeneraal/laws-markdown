@@ -448,13 +448,13 @@ c. verricht door burgerpersoneel, werkzaam bij het Ministerie van Defensie, met 
 
 ####Politie en brandweer
 
-Op arbeid verricht in de burgerlijke openbare dienst, welke gericht is op het daadwerkelijk uitoefenen van de taken, bedoeld in artikel 3 van de Politiewet 2012, artikel 141 of 142 van het Wetboek van Strafvordering, of artikel 3, eerste lid, van de Wet veiligheidsregio’s voor zover deze taak betrekking heeft op het repressief optreden bij brand, ongevallen en rampen, zijn de artikelen 10, 27, 28, 28a en 29 van de wet van toepassing voor zover door de toepassing van deze artikelen een goede taakuitoefening niet wordt belemmerd. 
+Op arbeid verricht in de burgerlijke openbare dienst, welke gericht is op het daadwerkelijk uitoefenen van de taken, bedoeld in artikel 3 van de Politiewet 2012, artikel 141 of 142 van het Wetboek van Strafvordering, of artikel 3, eerste lid, van de Wet veiligheidsregio’s voor zover deze taak betrekking heeft op het repressief optreden bij brand, ongevallen en rampen, zijn de artikelen 10, 27, 28, 28a, 28b en 29 van de wet van toepassing voor zover door de toepassing van deze artikelen een goede taakuitoefening niet wordt belemmerd. 
 
 ### Artikel  1.18  
 
 ####Veiligheid van de staat
 
-1.  Ten aanzien van arbeid verricht in de burgerlijke openbare dienst, welke gericht is op het daadwerkelijk uitoefenen van taken, bedoeld in artikel 6, tweede lid, onder a, van de Wet op de inlichtingen- en veiligheidsdiensten 2002, zijn de artikelen 27, 28, 28a en 29 van de wet van toepassing voor zover door de toepassing van deze artikelen een goede taakuitoefening niet wordt belemmerd.   
+1.  Ten aanzien van arbeid verricht in de burgerlijke openbare dienst, welke gericht is op het daadwerkelijk uitoefenen van taken, bedoeld in artikel 6, tweede lid, onder a, van de Wet op de inlichtingen- en veiligheidsdiensten 2002, zijn de artikelen 27, 28, 28a, 28b en 29 van de wet van toepassing voor zover door de toepassing van deze artikelen een goede taakuitoefening niet wordt belemmerd.   
 2.  Op arbeid verricht in rijksdienst geschiedt de toepassing van de wet met inachtneming van de voor de rijksdienst geldende nationale en internationale voorschriften ter beveiliging van gegevens, waarvan de geheimhouding door het belang van de staat of van zijn bondgenoten wordt geboden.   
 3.  Op arbeid verricht in de burgerlijke openbare dienst door of ten behoeve van de inlichtingen- en veiligheidsdiensten geschiedt de toepassing van de wet bovendien met inachtneming van de aan de hoofden van deze diensten opgedragen zorg voor geheimhouding van de door hen verkregen gegevens en van de bronnen waaruit zij afkomstig zijn en voor het naar behoren waarborgen van de veiligheid van de personen van wier diensten bij het inwinnen van gegevens gebruik wordt gemaakt.  
 
@@ -491,8 +491,8 @@ b. het betreft laden en lossen, aanbouw, verbouwing, herstelling of sloping dan 
 
 ####Veiligheid in justitiële inrichtingen
 
-1.  De artikelen 10, 27, 28, 28a en 29 van de wet zijn van toepassing op de in de justitiële inrichting door het justitieel personeel verrichte arbeid voor zover geen inbreuk wordt gemaakt op de orde, de veiligheid of de goede gang van zaken in de inrichting of op het ongestoord verloop van de tenuitvoerlegging van de vrijheidsbeneming en andere beperkingen die krachtens enige wettelijke bepaling door de daartoe bevoegde autoriteiten zijn opgelegd.   
-2.  Het eerste lid is van overeenkomstige toepassing op gedetineerden, verpleegden en jeugdigen met dien verstande, dat in plaats van de artikelen 10, 27, 28 en 29 van de wet wordt gelezen de artikelen 24, zevende lid, 27, 28, 28a en 29 van de wet.  
+1.  De artikelen 10, 27 tot en met 29 van de wet zijn van toepassing op de in de justitiële inrichting door het justitieel personeel verrichte arbeid voor zover geen inbreuk wordt gemaakt op de orde, de veiligheid of de goede gang van zaken in de inrichting of op het ongestoord verloop van de tenuitvoerlegging van de vrijheidsbeneming en andere beperkingen die krachtens enige wettelijke bepaling door de daartoe bevoegde autoriteiten zijn opgelegd.   
+2.  Het eerste lid is van overeenkomstige toepassing op gedetineerden, verpleegden en jeugdigen.  
 
 ### Artikel  1.23  
 
@@ -587,20 +587,20 @@ c. op aangelegenheden die rechtstreeks betrekking hebben op de arbeid, bedoeld i
 
 ### Artikel  1.33  
 
-####Partiële uitzondering artikelen 27, 28 en 28a van de wet
+####Partiële uitzondering artikelen 27 tot en met 28b van de wet
 
-1.  De artikelen 27, 28 en 28a van de wet zijn niet van toepassing: 
+1.  De artikelen 27 tot en met 28b van de wet zijn niet van toepassing: 
 
 a. tijdens, direct voor en direct na oefeningen;  
 
 b. op eenheden met gereedstelling.     
-2.  De artikelen 27, 28 en 28a van de wet zijn niet van toepassing op militaire vaartuigen, militaire luchtvaartuigen en bemande wapensystemen: 
+2.  De artikelen 27 tot en met 28b van de wet zijn niet van toepassing op militaire vaartuigen, militaire luchtvaartuigen en bemande wapensystemen: 
 
 a. indien oorlogsschepen varen en indien militaire luchtvaartuigen en bemande wapensystemen als zodanig in gebruik zijn;  
 
 b. in de gevallen, bedoeld in artikel 1.30, onder b, sub 3°.     
-3.  De artikelen 27, 28 en 28a van de wet zijn van toepassing op het personeel van de Koninklijke Marechaussee, behoudens indien dit personeel daadwerkelijk bezig is met de uitvoering van de specifieke taken, die de Koninklijke Marechaussee in artikel 4, eerste lid, van de Politiewet 2012 zijn opgedragen.   
-4.  In aanvulling op het derde lid, zijn de artikelen 27, 28 en 28a van de wet van toepassing op de arbeid verricht door personeel van de Koninklijke Marechaussee in geval van de verlening van bijstand, bedoeld in artikel 1.29, onder b, voor zover door de toepassing van die artikelen een goede uitoefening van die bijstandsverlening niet wordt belemmerd.  
+3.  De artikelen 27 tot en met 28b van de wet zijn van toepassing op het personeel van de Koninklijke Marechaussee, behoudens indien dit personeel daadwerkelijk bezig is met de uitvoering van de specifieke taken, die de Koninklijke Marechaussee in artikel 4, eerste lid, van de Politiewet 2012 zijn opgedragen.   
+4.  In aanvulling op het derde lid, zijn artikelen 27 tot en met 28b van de wet van toepassing op de arbeid verricht door personeel van de Koninklijke Marechaussee in geval van de verlening van bijstand, bedoeld in artikel 1.29, onder b, voor zover door de toepassing van die artikelen een goede uitoefening van die bijstandsverlening niet wordt belemmerd.  
 
 ### Artikel  1.34  
 
@@ -891,12 +891,12 @@ m.scenario: de reeks van gebeurtenissen en omstandigheden die nodig zijn voor of
 
 1.  Deze afdeling is: 
 
-a. met uitzondering van artikel 2.5f, niet van toepassing op bedrijven of inrichtingen waarop paragraaf 3 van het Besluit risico's zware ongevallen 1999 van toepassing is;  
+a. met uitzondering van artikel 2.5f, niet van toepassing op lagedrempelinrichtingen als bedoeld in artikel 1, eerste lid, van het Besluit risico’s zware ongevallen 2015;  
 
 b. niet van toepassing op bedrijven en inrichtingen waarop het Besluit opslag- en transportbedrijven van toepassing is;  
 
 c. niet van toepassing op arbeid verricht in de ondergrondse winningsindustrie en de winningsindustrie die delfstoffen wint met behulp van boringen.    
-2.  De artikelen 2.5a, eerste en tweede lid, en 2.5d, eerste lid, onder a, zijn niet van toepassing op bedrijven of inrichtingen waarop paragraaf 2 van het Besluit risico's zware ongevallen 1999 van toepassing is.  
+2.  De artikelen 2.5a, eerste en tweede lid, en 2.5d, eerste lid, onder a, zijn niet van toepassing op hogedrempelinrichtingen als bedoeld in artikel 1, eerste lid, van het Besluit risico’s zware ongevallen 2015.  
 
 ### Artikel  2.4  
 
@@ -1548,7 +1548,7 @@ f. laagspanning: een spanning met een waarde lager dan hoogspanning.
 
 ####Toepasselijkheid
 
-De artikelen 3.3, eerste lid, 3.4, eerste lid, wat betreft het ontwerp en de inrichting van tot een gebouw als bedoeld in artikel 1, eerste lid, onder c, van de Woningwet behorende elektrische installaties, 3.6, tweede lid, 3.7, vijfde lid, 3.11, eerste lid, wat betreft het voorschrift dat vloeren van arbeidsplaatsen zoveel mogelijk vrij van gevaarlijke hellingen zijn en voorts zoveel mogelijk vast en stabiel, en derde lid, 3.18, tweede lid, tweede zin, en derde lid, en 3.24, eerste lid, en tweede lid, eerste zin, zijn niet van toepassing op arbeidsplaatsen in een gebouw als bedoeld in artikel 1, eerste lid, onder c, van de Woningwet. 
+De artikelen 3.3, eerste lid, 3.4, eerste lid, wat betreft het ontwerp en de inrichting van tot een gebouw als bedoeld in artikel 1, eerste lid, van de Woningwet behorende elektrische installaties, 3.6, tweede lid, 3.7, vijfde lid, 3.11, eerste lid, wat betreft het voorschrift dat vloeren van arbeidsplaatsen zoveel mogelijk vrij van gevaarlijke hellingen zijn en voorts zoveel mogelijk vast en stabiel, en derde lid, 3.18, tweede lid, tweede zin, en derde lid, en 3.24, eerste lid, en tweede lid, eerste zin, zijn niet van toepassing op arbeidsplaatsen in een gebouw als bedoeld in artikel 1, eerste lid, van de Woningwet. 
 
 ### §  2  
 
@@ -1558,7 +1558,7 @@ De artikelen 3.3, eerste lid, 3.4, eerste lid, wat betreft het ontwerp en de inr
 
 ####Gebruiksvoorschrift
 
-Een arbeidsplaats in een gebouw als bedoeld in artikel 1, eerste lid, onder c, van de Woningwet wordt slechts gebruikt indien het gebouw voldoet aan de bij of krachtens het Bouwbesluit 2012 gegeven voorschriften met betrekking tot de van toepassing zijnde gebruiksfunctie in de zin van dat besluit. 
+Een arbeidsplaats in een gebouw als bedoeld in artikel 1, eerste lid, van de Woningwet wordt slechts gebruikt indien het gebouw voldoet aan de bij of krachtens het Bouwbesluit 2012 gegeven voorschriften met betrekking tot de van toepassing zijnde gebruiksfunctie in de zin van dat besluit. 
 
 ### Artikel  3.2  
 
@@ -2384,7 +2384,7 @@ c.ongewilde gebeurtenis: een plotselinge situatie, ongeval, voorval of noodsitua
 ####Toepasselijkheid
 
 1. De artikelen 4.1c, eerste lid, onderdeel h, 4.3, 4.4 en 4.10a, vijfde lid, zijn niet van toepassing op kankerverwekkende of mutagene stoffen en kankerverwekkende processen als bedoeld in afdeling 2 van dit hoofdstuk en op asbest of asbesthoudende producten als bedoeld in afdeling 5 van dit hoofdstuk. 
-2. Artikel 4.7 is niet van toepassing op bedrijven, inrichtingen of delen daarvan waarop het Besluit risico’s zware ongevallen 1999 of afdeling 2 van hoofdstuk 2 van toepassing is. 
+2. Artikel 4.7 is niet van toepassing op bedrijven, inrichtingen of delen daarvan waarop het Besluit risico’s zware ongevallen 2015 of afdeling 2 van hoofdstuk 2 van toepassing is. 
 3. Artikel 4.4 is niet van toepassing op loodwit als bedoeld in artikel 4.61b. 
 4. Artikel 4.10d is niet van toepassing op asbest of asbesthoudende producten als bedoeld in afdeling 5 van dit hoofdstuk. 
 
@@ -3878,8 +3878,8 @@ Vervallen per 01-07-2012
 2.  Luchtverversingsinstallaties zijn altijd bedrijfsklaar.  
 3. Luchtverversingsinstallaties functioneren zodanig dat werknemers niet aan hinderlijke tocht worden blootgesteld. 
 4.  Luchtverversingsinstallaties zijn voorzien van een controlesysteem dat storingen in de installatie signaleert voor zover dat noodzakelijk is voor de gezondheid van de werknemers.   
-5.  Het eerste lid is niet van toepassing op arbeidsplaatsen in een gebouw als bedoeld in artikel 1, eerste lid, onder c, van de Woningwet.   
-6.  Een arbeidsplaats in een gebouw als bedoeld in artikel 1, eerste lid, onder c, van de Woningwet wordt slechts gebruikt indien het gebouw voldoet aan de bij of krachtens het Bouwbesluit 2012 gegeven voorschriften met betrekking tot de van toepassing zijnde gebruiksfunctie in de zin van dat besluit.  
+5.  Het eerste lid is niet van toepassing op arbeidsplaatsen in een gebouw als bedoeld in artikel 1, eerste lid, van de Woningwet.   
+6.  Een arbeidsplaats in een gebouw als bedoeld in artikel 1, eerste lid, van de Woningwet wordt slechts gebruikt indien het gebouw voldoet aan de bij of krachtens het Bouwbesluit 2012 gegeven voorschriften met betrekking tot de van toepassing zijnde gebruiksfunctie in de zin van dat besluit.  
 
 ### Afdeling  2  
 
@@ -5615,9 +5615,7 @@ g. van hoofdstuk 7: de artikelen 7.2, eerste lid, 7.3 tot en met 7.4a, eerste to
 
 h. van hoofdstuk 8: de artikelen 8.1 tot en met 8.4, eerste lid;  
 
-i. van hoofdstuk 9: artikel 9.36, eerste lid;  
-
-j. de artikelen van de op grond van de wet en dit besluit vastgestelde ministeriële regeling, voor zover en op de wijze als bij die regeling is bepaald.     
+i. de artikelen van de op grond van de wet en dit besluit vastgestelde ministeriële regeling, voor zover en op de wijze als bij die regeling is bepaald.     
 2.  Voor zover van de artikelen, bedoeld in het eerste lid, ontheffing onder voorschriften is verleend, wordt het handelen of nalaten in strijd met die voorschriften aangemerkt als overtreding ter zake waarvan een bestuurlijke boete kan worden opgelegd.  
 
 ### Afdeling  3  
@@ -5646,7 +5644,7 @@ a. een overtreding waarbij de werkgever willens en wetens handelingen verricht o
 
 b. een handelen of nalaten in strijd met de volgende artikelen: 
 
-1°. van hoofdstuk 4: de artikelen 4.54d, eerste lid, 4.58, 4.59, eerste en tweede lid, 4.60, eerste en tweede lid, en 4.61, tweede lid, 4.61a, eerst en derde lid, 4.61b, 4.105, 4.108 en 4.109;  
+1°. van hoofdstuk 4: de artikelen 4.54d, eerste lid, 4.58, 4.59, eerste en tweede lid, 4.60, eerste en derde lid en 4.61, tweede lid, 4.61a, eerste en derde lid, 4.61b, eerste lid, 4.105, 4.108 en 4.109;  
 
 2°. van hoofdstuk 6: de artikelen 6:27, 6.29 en 6.29a.       
 4.  Indien de aard van de overtreding of de met de overtreding samenhangende omstandigheden dan wel de gevolgen van een stillegging van de werkzaamheden daartoe aanleiding geven, kan worden afgezien van een waarschuwing als bedoeld in het eerste en tweede lid en kan worden afgezien van een bevel als bedoeld in het eerste en tweede lid.   
@@ -5861,11 +5859,6 @@ Vervallen per 01-01-2007
 2.  Ten aanzien van bedrijven of inrichtingen waar op de dag van de inwerkingtreding van het besluit, bedoeld in het eerste lid, over een arbeidsveiligheidsrapport als bedoeld in artikel 2.2b, zoals dat artikel luidde op de dag voor de inwerkingtreding van voornoemd besluit, wordt beschikt, is, in afwijking van het eerste lid, het voornoemde besluit niet van toepassing tot het tijdstip waarop het arbeidsveiligheidsrapport had behoren te worden herzien op grond van artikel 2.2b, tweede lid, zoals dat artikel luidde op de dag voor de inwerkingtreding van voornoemd besluit, doch uiterlijk tot vijf jaar na het tijdstip waarop het arbeidsveiligheidsrapport volledig is herzien en in zijn geheel aan de daartoe aangewezen toezichthouder is toegezonden, tenzij dat besluit voor dat tijdstip wordt toegepast.   
 3.  De melding, bedoeld in artikel 2.5g, eerste lid, ten aanzien van bedrijven of inrichtingen die in bedrijf zijn op de dag waarop het besluit, bedoeld in het eerste lid, ingevolge het eerste of het tweede lid wordt toegepast, vindt plaats binnen zes weken na de toepassing van voornoemd besluit.   
 4.  Het Arbeidsomstandighedenbesluit zoals dat luidde op de dag voor de inwerkingtreding van het besluit, bedoeld in het eerste lid, is van toepassing tot het tijdstip waarop ingevolge het eerste of het tweede lid het laatstgenoemde besluit wordt toegepast.  
-
-### Artikel  9.36  
-
-1.  Indien jeugdige werknemers arbeid verrichten bestaande in het op de openbare weg besturen van trekkers en het in rechtstreeks verband daarmee aan- of afkoppelen van aanhangwagens of werktuigen, zijn zij in aanvulling op artikel 7.39, onder a, in het bezit van een certificaat van vakbekwaamheid, dat is afgegeven door een door Onze Minister daartoe aangewezen instelling.    
-2.  Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.  
 
 ### Artikel  9.37  
 

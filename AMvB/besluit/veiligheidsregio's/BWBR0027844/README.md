@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 26 april 2010, nr. 2010-0000286048, CZW/WVOB;
 
-Gelet op richtlijn nr. 96/82/EG van de Raad van de Europese Unie van 9 december 1996 (PbEG 1997 L 10) betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (Seveso-II), laatst gewijzigd bij Verordening (EG) nr. 1137/2008 (PbEU L 311), richtlijn nr. 2006/21/EG van het Europees Parlement en de Raad van de Europese Unie van 15 maart 2006 betreffende het beheer van afval van winningsindustrieën (PbEU L 102), de [artikelen 17, eerste en tweede lid](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), [18, eerste lid](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), [31, vierde lid](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), [33, vierde lid](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), en [55, vijfde lid, van de Wet veiligheidsregio’s](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) en [artikel 45, eerste lid, van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md);
+Gelet op richtlijn nr. 96/82/EG van de Raad van de Europese Unie van 9 december 1996 (PbEG 1997 L 10) betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (Seveso-II), laatst gewijzigd bij Verordening (EG) nr. 1137/2008 (PbEU L 311), richtlijn nr. 2006/21/EG van het Europees Parlement en de Raad van de Europese Unie van 15 maart 2006 betreffende het beheer van afval van winningsindustrieën (PbEU L 102), de artikelen 17, eerste en tweede lid, 18, eerste lid, 31, vierde lid, 33, vierde lid, en 55, vijfde lid, van de Wet veiligheidsregio’s en artikel 45, eerste lid, van de Politiewet 1993;
 
 De Raad van State gehoord (advies van 3 juni 2010, nr. W04.10.0063/I);
 
@@ -28,25 +28,25 @@ In dit besluit wordt verstaan onder:
 
 *hoofdstructuur van de rampenbestrijding en crisisbeheersing:* hoofdstructuur van de rampenbestrijding en crisisbeheersing als bedoeld in artikel 2.1.1;  
 
-*meldkamer:* gemeenschappelijke meldkamer, bedoeld in [artikel 35, eerste lid, van de wet](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md);  
+*meldkamer:* gemeenschappelijke meldkamer, bedoeld in artikel 35, eerste lid, van de wet;  
 
-*omgevingsvergunning:* omgevingsvergunning voor een activiteit met betrekking tot een inrichting als bedoeld in [artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+*omgevingsvergunning:* omgevingsvergunning voor een activiteit met betrekking tot een inrichting als bedoeld in artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht;  
 
 *opkomsttijd:* de tijd tussen aanname van de melding door de meldkamer en de aankomst van de eerste brandweereenheid op de plaats van het incident;  
 
 *rapport:* rapport inzake de bedrijfsbrandweer, bedoeld in artikel 7.2, eerste lid;  
 
-*regionaal beleidsteam:* regionaal beleidsteam als bedoeld in [artikel 39, tweede lid, van de wet](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md);  
+*regionaal beleidsteam:* regionaal beleidsteam als bedoeld in artikel 39, tweede lid, van de wet;  
 
 *regionaal operationeel team:* regionaal operationeel team als bedoeld in artikel 2.1.4;  
 
-*risicoprofiel:* risicoprofiel als bedoeld in [artikel 15 van de wet](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md);  
+*risicoprofiel:* risicoprofiel als bedoeld in artikel 15 van de wet;  
 
 *team bevolkingszorg:* team bevolkingszorg als bedoeld in artikel 2.1.3;  
 
-*veiligheidsrapport:* rapport als bedoeld in [artikel 10 van het Besluit risico’s zware ongevallen 1999](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md);  
+*veiligheidsrapport:* rapport als bedoeld in artikel 1, eerste lid, van het Besluit risico’s zware ongevallen 2015;  
 
-*wet:* [Wet veiligheidsregio’s](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md).   
+*wet:* Wet veiligheidsregio’s.   
 
 ### Hoofdstuk  2  
 
@@ -87,7 +87,7 @@ d. een officier van dienst van de politie of van de Koninklijke marechaussee;
 e. een informatiemanager commando plaats incident, en  
 
 f. een voorlichtingsfunctionaris commando plaats incident.     
-2.  Een commando plaats incident is belast met de operationele leiding ter plaatse, de afstemming met andere betrokken partijen als bedoeld in [artikel 16, tweede lid, van de wet](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), en het adviseren van het regionaal operationeel team.  
+2.  Een commando plaats incident is belast met de operationele leiding ter plaatse, de afstemming met andere betrokken partijen als bedoeld in artikel 16, tweede lid, van de wet, en het adviseren van het regionaal operationeel team.  
 
 ### Artikel  2.1.3  
 
@@ -145,7 +145,7 @@ Het bestuur van de veiligheidsregio stelt criteria vast voor de situaties waarin
 
 ### Artikel  2.2.3  
 
-1.  Binnen twee minuten nadat is vastgesteld dat is voldaan aan de criteria voor grootschalige alarmering, begint de meldkamer met de alarmering van de onderdelen van de hoofdstructuur van de rampenbestrijding en crisisbeheersing, bedoeld in artikel 2.1.1, onderdelen b tot en met e,en wordt de burgemeester of in het geval [artikel 39 van de wet](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) van toepassing is, de voorzitter van de veiligheidsregio en de betrokken burgemeesters geïnformeerd.   
+1.  Binnen twee minuten nadat is vastgesteld dat is voldaan aan de criteria voor grootschalige alarmering, begint de meldkamer met de alarmering van de onderdelen van de hoofdstructuur van de rampenbestrijding en crisisbeheersing, bedoeld in artikel 2.1.1, onderdelen b tot en met e,en wordt de burgemeester of in het geval artikel 39 van de wet van toepassing is, de voorzitter van de veiligheidsregio en de betrokken burgemeesters geïnformeerd.   
 2.  Afhankelijk van de aard en omstandigheden van de ramp of crisis, alarmeert de meldkamer andere functionarissen en eenheden die nodig zijn voor de rampenbestrijding en crisisbeheersing.  
 
 ### Artikel  2.2.4  
@@ -275,7 +275,7 @@ Het bestuur van de veiligheidsregio draagt er zorg voor dat de onderdelen van de
 
 ### Artikel  3.1.1  
 
-Ten behoeve van de uitvoering van de taken, genoemd in [artikel 25, eerste lid, onderdelen a en b](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), respectievelijk [artikel 26, eerste lid, van de wet](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), draagt het bestuur van de veiligheidsregio dan wel het college van burgemeester en wethouders er zorg voor dat de brandweer basisbrandweereenheden, ondersteuningseenheden voor redden en blussen op hoogte en ondersteuningseenheden voor hulpverlening heeft. 
+Ten behoeve van de uitvoering van de taken, genoemd in artikel 25, eerste lid, onderdelen a en b, respectievelijk artikel 26, eerste lid, van de wet, draagt het bestuur van de veiligheidsregio dan wel het college van burgemeester en wethouders er zorg voor dat de brandweer basisbrandweereenheden, ondersteuningseenheden voor redden en blussen op hoogte en ondersteuningseenheden voor hulpverlening heeft. 
 
 ### Artikel  3.1.2  
 
@@ -332,7 +332,7 @@ c. ondersteuning bij waterongevallen.
 ### Artikel  3.1.5  
 
 1.  In afwijking van artikel 3.1.2, eerste lid, kan het bestuur van de veiligheidsregio dan wel het college van burgemeester en wethouders besluiten tot een andere samenstelling van basisbrandweereenheden, mits daarmee wordt voorzien in een gelijkwaardig niveau van brandweerzorg en geen afbreuk wordt gedaan aan de veiligheid en gezondheid van het brandweerpersoneel.   
-2.  Toepassing van het eerste lid doet geen afbreuk aan de afspraken, bedoeld in [artikel 51, vijfde lid, van de wet](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md).  
+2.  Toepassing van het eerste lid doet geen afbreuk aan de afspraken, bedoeld in artikel 51, vijfde lid, van de wet.  
 
 ### §  2  
 
@@ -378,7 +378,7 @@ Bij ministeriële regeling kunnen ten behoeve van de standaardisatie en uitwisse
 
 ### Artikel  4.1.1  
 
-Ten behoeve van de taak, bedoeld in [artikel 25, eerste lid, onderdelen b, c en d, van de wet](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) draagt het bestuur van de veiligheidsregio er zorg voor dat de brandweer een eenheid voor het verkennen van gevaarlijke stoffen en een eenheid voor de bestrijding van ongevallen met gevaarlijke stoffen heeft en beschikt over een adviseur gevaarlijke stoffen. 
+Ten behoeve van de taak, bedoeld in artikel 25, eerste lid, onderdelen b, c en d, van de wet draagt het bestuur van de veiligheidsregio er zorg voor dat de brandweer een eenheid voor het verkennen van gevaarlijke stoffen en een eenheid voor de bestrijding van ongevallen met gevaarlijke stoffen heeft en beschikt over een adviseur gevaarlijke stoffen. 
 
 ### Artikel  4.1.2  
 
@@ -422,7 +422,7 @@ c. het adviseren van de operationeel leidinggevende van de brandweer over de maa
 
 ### Artikel  4.1.5  
 
-1.  In geval van bedreiging van de gezondheid van de bevolking werken een eenheid voor het verkennen van gevaarlijke stoffen, een eenheid bestrijding van ongevallen met gevaarlijke stoffen en een adviseur gevaarlijke stoffen samen met de in de regio werkzame instellingen, zorgaanbieders, ambulancevervoerders en gezondheidsdiensten, bedoeld in [artikel 33, eerste lid, van de wet](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md).   
+1.  In geval van bedreiging van de gezondheid van de bevolking werken een eenheid voor het verkennen van gevaarlijke stoffen, een eenheid bestrijding van ongevallen met gevaarlijke stoffen en een adviseur gevaarlijke stoffen samen met de in de regio werkzame instellingen, zorgaanbieders, ambulancevervoerders en gezondheidsdiensten, bedoeld in artikel 33, eerste lid, van de wet.   
 2.  Een eenheid voor de bestrijding van ongevallen met gevaarlijke stoffen en een adviseur gevaarlijke stoffen treden op in aanvulling op de basisbrandweereenheden, bedoeld in artikel 3.1.1.   
 3.  Voor de bestrijding van ongevallen met gevaarlijke stoffen beschikt de regionale brandweer over beschreven procedures voor: 
 
@@ -453,7 +453,7 @@ a. het leveren van middelen en kennis ten behoeve van de bestrijding van chemisc
 b. het leveren van ondersteuning aan een eenheid bestrijding van ongevallen met gevaarlijke stoffen bij het redden van mensen en dieren, en  
 
 c. voor zover het grootschalige chemische, biologische, radiologische en nucleaire incidenten betreft, het ontsmetten van besmette personen.     
-4.  In geval van bedreiging van de gezondheid van de bevolking werkt een ontsmettingseenheid voor grootschalige chemische, biologische, radiologische en nucleaire incidenten samen met de in de regio werkzame instellingen, zorgaanbieders, ambulancevervoerders en gezondheidsdiensten, bedoeld in [artikel 33, eerste lid, van de wet](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md).  
+4.  In geval van bedreiging van de gezondheid van de bevolking werkt een ontsmettingseenheid voor grootschalige chemische, biologische, radiologische en nucleaire incidenten samen met de in de regio werkzame instellingen, zorgaanbieders, ambulancevervoerders en gezondheidsdiensten, bedoeld in artikel 33, eerste lid, van de wet.  
 
 ### §  2  
 
@@ -490,7 +490,7 @@ Bij ministeriële regeling kunnen ten behoeve van de standaardisatie en uitwisse
 
 ### Artikel  5.1  
 
-De schriftelijke afspraken over de geneeskundige hulpverlening tussen het bestuur van de veiligheidsregio en de in die veiligheidsregio werkzame instellingen, zorgaanbieders, ambulancevervoerders en gezondheidsdiensten, bedoeld in [artikel 33, eerste lid, van de wet](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), betreffen: 
+De schriftelijke afspraken over de geneeskundige hulpverlening tussen het bestuur van de veiligheidsregio en de in die veiligheidsregio werkzame instellingen, zorgaanbieders, ambulancevervoerders en gezondheidsdiensten, bedoeld in artikel 33, eerste lid, van de wet, betreffen: 
 
 a. de procedures die gevolgd worden bij een ramp of crisis, waarbij het in ieder geval gaat over grootschalige alarmering, opschaling, coördinatie, informatiemanagement en evaluatie;  
 
@@ -520,12 +520,12 @@ f. het onderhoud en beheer van materieel voor de geneeskundige hulpverlening bij
 
 ### Artikel  6.1.1  
 
-1.  Het bestuur van de veiligheidsregio stelt een rampbestrijdingsplan vast voor een ramp in een inrichting als bedoeld in [artikel 8 van het Besluit risico’s zware ongevallen 1999](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md).   
+1.  Het bestuur van de veiligheidsregio stelt een rampbestrijdingsplan vast voor een ramp in een hogedrempelinrichting als bedoeld in artikel 1, eerste lid, van het Besluit risico’s zware ongevallen 2015.   
 2.  Het eerste lid is van overeenkomstige toepassing ten aanzien van een calamiteit in een inrichting die in een andere staat is gelegen, welke calamiteit tot een ramp in Nederland kan leiden. De artikelen in deze paragraaf worden daarbij voor zover mogelijk toegepast.  
 
 ### Artikel  6.1.2  
 
-Onverminderd artikel 6.1.7, tweede lid, worden het rampbestrijdingsplan of wijzigingen daarvan vastgesteld uiterlijk een jaar na het tijdstip waarop het bestuur van de veiligheidsregio, op grond van [artikel 6.15, eerste lid, van het Besluit omgevingsrecht](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), de delen van het veiligheidsrapport waarvan een aanvraag om een omgevingsvergunning vergezeld gaat, heeft ontvangen. 
+Onverminderd artikel 6.1.7, tweede lid, worden het rampbestrijdingsplan of wijzigingen daarvan vastgesteld uiterlijk een jaar na het tijdstip waarop het bestuur van de veiligheidsregio, op grond van artikel 6.15, eerste lid, van het Besluit omgevingsrecht, de delen van het veiligheidsrapport waarvan een aanvraag om een omgevingsvergunning vergezeld gaat, heeft ontvangen. 
 
 ### Artikel  6.1.3  
 
@@ -547,8 +547,8 @@ g. de maatregelen en voorzieningen die zijn getroffen om de hulpverleningsdienst
 
 ### Artikel  6.1.4  
 
-1.  [Afdeling 3:4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing op de vaststelling van het rampbestrijdingsplan.   
-2.  Indien met betrekking tot de inrichting met toepassing van [artikel 19.3 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van een document een tweede tekst is overgelegd waaruit vertrouwelijke gegevens als in dat artikel bedoeld zijn weggelaten, wordt alleen deze tekst ter inzage gelegd.  
+1.  Afdeling 3:4 van de Algemene wet bestuursrecht is van overeenkomstige toepassing op de vaststelling van het rampbestrijdingsplan.   
+2.  Indien met betrekking tot de inrichting met toepassing van artikel 19.3 van de Wet milieubeheer van een document een tweede tekst is overgelegd waaruit vertrouwelijke gegevens als in dat artikel bedoeld zijn weggelaten, wordt alleen deze tekst ter inzage gelegd.  
 
 ### Artikel  6.1.5  
 
@@ -573,7 +573,7 @@ b. de burgemeester van de gemeente waarin de inrichting is gelegen;
 
 c. het bestuursorgaan dat bevoegd is voor de inrichting een omgevingsvergunning te verlenen;  
 
-d. de daartoe door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouder, bedoeld in [artikel 1, derde lid, onderdeel d, van de Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), en  
+d. de daartoe door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouder, bedoeld in artikel 1, derde lid, onderdeel d, van de Arbeidsomstandighedenwet, en  
 
 e. Onze Minister.     
 2.  Indien het besluit van het bestuur van de veiligheidsregio een inrichting betreft die geheel of gedeeltelijk is gelegen in een aan een andere staat grenzende gemeente, zendt Onze Minister een afschrift van het besluit aan de andere staat.  
@@ -586,7 +586,7 @@ e. Onze Minister.
 
 1.  Het bestuur van de veiligheidsregio stelt, na overleg met de exploitant van een burgerluchthaven, respectievelijk de basiscommandant van een militaire luchthaven, een rampbestrijdingsplan vast voor een vliegtuigongeval op een luchthaven binnen de veiligheidsregio, dat op grond van onderdeel 9.2.5. en tabel 9-1 in bijlage 14, volume 1 van het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109) is ingedeeld in brandrisicoklasse 3 of hoger, of in geval van een militaire luchthaven, het terrein dat in overleg met Onze Minister van Defensie is aangewezen.   
 2.  Het rampbestrijdingsplan ziet mede op de onmiddellijke omgeving van een luchthaven. Het bestuur van de veiligheidsregio stelt in overleg met de exploitant van een burgerluchthaven, respectievelijk de basiscommandant van een militaire luchthaven vast welk gebied tot de onmiddellijke omgeving wordt gerekend.   
-3.  [Afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing op de vaststelling van het rampbestrijdingsplan.   
+3.  Afdeling 3.4 van de Algemene wet bestuursrecht is van overeenkomstige toepassing op de vaststelling van het rampbestrijdingsplan.   
 4.  Het bestuur van de veiligheidsregio zendt het rampbestrijdingsplan aan Onze Minister van Infrastructuur en Milieu.  
 
 ### Artikel  6.2.2  
@@ -627,7 +627,7 @@ j. een overzichtskaart van de indeling van de luchthaven en de onmiddellijke omg
 
 ### Artikel  6.3.1  
 
-1.  Het bestuur van de veiligheidsregio stelt een rampbestrijdingsplan vast voor een ramp in een afvalvoorziening categorie A als bedoeld in [artikel 1.1, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+1.  Het bestuur van de veiligheidsregio stelt een rampbestrijdingsplan vast voor een ramp in een afvalvoorziening categorie A als bedoeld in artikel 1.1, eerste lid, van de Wet milieubeheer.   
 2.  Artikel 6.1.3 is van overeenkomstige toepassing op het rampbestrijdingsplan, bedoeld in het eerste lid.   
 3.  Een rampbestrijdingsplan, bedoeld in het eerste lid, wordt vastgesteld uiterlijk een jaar na het tijdstip waarop het bevoegd gezag een afschrift van een aanvraag om een omgevingsvergunning voor een afvalvoorziening categorie A heeft ontvangen.  
 
@@ -647,15 +647,15 @@ Op de vaststelling van een rampbestrijdingsplan als bedoeld in artikel 6.3.1 of 
 
 Voor een aanwijzing als inrichting die over een bedrijfsbrandweer moeten beschikken, komen in aanmerking: 
 
-a. inrichtingen als bedoeld in [artikel 4 van het Besluit risico’s zware ongevallen 1999](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md);  
+a. inrichtingen als bedoeld in artikel 1, eerste lid, van het Besluit risico’s zware ongevallen 2015;  
 
-b. inrichtingen met installaties waarop [hoofdstuk 2, afdeling 2, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) van toepassing is voor zover het betreft: 
+b. inrichtingen met installaties waarop hoofdstuk 2, afdeling 2, van het Arbeidsomstandighedenbesluit van toepassing is voor zover het betreft: 
 
 1°. inrichtingen die geheel of nagenoeg geheel zijn bestemd voor de opslag in verband met vervoer van in die afdeling genoemde stoffen, al dan niet in combinatie met andere stoffen en producten;  
 
-2°. spoorwegemplacementen voor zover zij geen onderdeel zijn van een inrichting waarop [artikel 4 van het Besluit risico’s zware ongevallen 1999](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) van toepassing is, en    
+2°. spoorwegemplacementen voor zover zij geen onderdeel zijn van een inrichting als bedoeld in artikel 1, eerste lid, van het Besluit risico’s zware ongevallen 2015, en    
 
-c. inrichtingen, bedoeld in [artikel 15, onderdeel b, van de Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md), met uitzondering van de inrichtingen waarop [artikel 44 van het Besluit kerninstallaties, splijtstoffen en ertsen](../../../../AMvB/besluit/kerninstallaties/splijtstoffen/en/ertsen/BWBR0002667/README.md) van toepassing is.   
+c. inrichtingen, bedoeld in artikel 15, onderdeel b, van de Kernenergiewet, met uitzondering van de inrichtingen waarop artikel 44 van het Besluit kerninstallaties, splijtstoffen en ertsen van toepassing is.   
 
 ### Artikel  7.2  
 
@@ -679,13 +679,13 @@ e. een beschrijving van de organisatie van de nodig geachte bedrijfsbrandweer, w
 2.  Indien gegevens als bedoeld in het eerste lid reeds zijn opgenomen in een veiligheidsrapport, kan in het rapport worden volstaan met een verwijzing naar de desbetreffende gegevens.   
 3.  Het bestuur van de veiligheidsregio zendt een exemplaar van het rapport aan: 
 
-a. de toezichthouder, bedoeld in [artikel 1, derde lid, onderdeel d, van de Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);  
+a. de toezichthouder, bedoeld in artikel 1, derde lid, onderdeel d, van de Arbeidsomstandighedenwet;  
 
 b. het college van burgemeester en wethouders van de gemeente waarin de inrichting is gelegen;  
 
-c. het bestuursorgaan dat overeenkomstig [artikel 2.4 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) bevoegd is een omgevingsvergunning voor de inrichting te verlenen, en  
+c. het bestuursorgaan dat overeenkomstig artikel 2.4 van de Wet algemene bepalingen omgevingsrecht bevoegd is een omgevingsvergunning voor de inrichting te verlenen, en  
 
-d. Onze Minister van Infrastructuur en Milieu, indien de inrichting is gelegen op of deel uitmaakt van een luchthaven als bedoeld in [artikel 1.1, eerste lid, van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md).     
+d. Onze Minister van Infrastructuur en Milieu, indien de inrichting is gelegen op of deel uitmaakt van een luchthaven als bedoeld in artikel 1.1, eerste lid, van de Wet luchtvaart.     
 4.  Het bestuur van de veiligheidsregio kan het hoofd of de bestuurder van de inrichting verzoeken om aan het bestuur aanvullende gegevens te verschaffen.  
 
 ### Artikel  7.3  
@@ -696,7 +696,7 @@ d. Onze Minister van Infrastructuur en Milieu, indien de inrichting is gelegen o
 4.  Het bestuur van de veiligheidsregio stuurt een afschrift van de aanwijzing aan de bestuursorganen, bedoeld in artikel 7.2, derde lid.   
 5.  Het bestuur van de veiligheidsregio kan in de aanwijzing, bedoeld in het eerste en derde lid, slechts eisen stellen aan: 
 
-a. de geoefendheid en de samenstelling van de bedrijfsbrandweer waarbij de functies genoemd in het [Besluit personeel veiligheidsregio’s](../../../../AMvB/besluit/personeel/veiligheidsregio's/BWBR0027841/README.md), kunnen worden aangewezen;  
+a. de geoefendheid en de samenstelling van de bedrijfsbrandweer waarbij de functies genoemd in het Besluit personeel veiligheidsregio’s, kunnen worden aangewezen;  
 
 b. de voorzieningen inzake bluswater, melding, alarmering en verbindingen;  
 
@@ -757,7 +757,7 @@ De betaling van de ingevolge de artikelen 8.1 en 8.2 berekende bijdrage voor de 
 
 ### Artikel  8.5  
 
-Het bestuur van de veiligheidsregio besteedt de bijdrage voor de doeluitkering aan de uitvoering van taken die aan het bestuur op grond van [artikel 10 van de wet](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) zijn toegekend. 
+Het bestuur van de veiligheidsregio besteedt de bijdrage voor de doeluitkering aan de uitvoering van taken die aan het bestuur op grond van artikel 10 van de wet zijn toegekend. 
 
 ### Artikel  8.6  
 
@@ -769,16 +769,16 @@ Indien de accountant een afkeurende verklaring of een verklaring met beperking o
 
 ### Artikel  9.1  
 
-1.  De rampbestrijdingsplannen die op grond van het [Besluit rampbestrijdingsplannen inrichtingen](../../../../AMvB/besluit/rampbestrijdingsplannen/inrichtingen/BWBR0010506/README.md) zijn vastgesteld door de burgemeester, blijven van kracht. Onverminderd het bepaalde in artikel 6.1.7, tweede lid, worden zij door het bestuur van de veiligheidsregio opnieuw vastgesteld indien deze dit nodig oordeelt.   
-2.  De rampbestrijdingsplannen die op grond van het [Besluit rampbestrijdingsplannen luchtvaartterreinen](../../../../AMvB/besluit/rampbestrijdingsplannen/luchtvaartterreinen/BWBR0012703/README.md) zijn vastgesteld door de burgemeester, blijven van kracht. Zij worden door het bestuur van de veiligheidsregio opnieuw vastgesteld indien deze dit nodig oordeelt.  
+1.  De rampbestrijdingsplannen die op grond van het Besluit rampbestrijdingsplannen inrichtingen zijn vastgesteld door de burgemeester, blijven van kracht. Onverminderd het bepaalde in artikel 6.1.7, tweede lid, worden zij door het bestuur van de veiligheidsregio opnieuw vastgesteld indien deze dit nodig oordeelt.   
+2.  De rampbestrijdingsplannen die op grond van het Besluit rampbestrijdingsplannen luchtvaartterreinen zijn vastgesteld door de burgemeester, blijven van kracht. Zij worden door het bestuur van de veiligheidsregio opnieuw vastgesteld indien deze dit nodig oordeelt.  
 
 ### Artikel  9.2  
 
-Een aanwijzing, vastgesteld op grond van [artikel 4 van het Besluit bedrijfsbrandweren](../../../../AMvB/besluit/bedrijfsbrandweren/BWBR0004694/README.md), blijft van kracht met dien verstande dat de aanwijzing kan worden ingetrokken of de bij de aanwijzing gestelde eisen kunnen worden gewijzigd met toepassing van de artikelen 7.4 tot en met 7.6. 
+Een aanwijzing, vastgesteld op grond van artikel 4 van het Besluit bedrijfsbrandweren, blijft van kracht met dien verstande dat de aanwijzing kan worden ingetrokken of de bij de aanwijzing gestelde eisen kunnen worden gewijzigd met toepassing van de artikelen 7.4 tot en met 7.6. 
 
 ### Artikel  9.3  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet veiligheidsregio’s](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) in werking treedt. 
+Dit besluit treedt in werking op het tijdstip waarop de Wet veiligheidsregio’s in werking treedt. 
 
 ### Artikel  9.4  
 
@@ -817,7 +817,7 @@ E. M. H. Hirsch Ballin
 
 Het voor het vaste en variabele deel van de doeluitkering beschikbare bedrag wordt verdeeld op grond van de volgende formule: vast bedrag + (*woonruim* * € 0,97) + (*oppbe*b * € 46,10) – (*OAD* * € 0,195) + (*kernen* * € 447,00) + (*opptot* * € 1,60) + (*hoofdvaar* * € 5.125,422) + (*BRZO* * € 4.967,021) + (inwo * € 0,21)]*uitkeringsfactor  
 
-| Structuurkenmerk of maatstaf  | Betekenis  | Vindplaats structuurkenmerk in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) of andere bronnen  |
+| Structuurkenmerk of maatstaf  | Betekenis  | Vindplaats structuurkenmerk in bijlage 2 van het Besluit financiële verhouding 2001 of andere bronnen  |
 |:---|:---|:---|
 | vast bedrag  | een gelijk bedrag per veiligheidsregio  | --- |
 | opptot  | totale oppervlakte van gemeente land en binnenwater (biwa) in hectaren + oppervlakte buitenwater (buiwa) in hectaren  | tabelnummers 16, 19 en 20  |
@@ -827,7 +827,7 @@ Het voor het vaste en variabele deel van de doeluitkering beschikbare bedrag wor
 | oad  | omgevingsadressendichtheid woonruimten  | tabelnummer 32  |
 | kernen  | aantal woonkernen in de gemeente  | tabelnummer 36  |
 | hoofdvaar  | lengte van hoofdvaarwegen per kilometer in het hoofdvaarwegennet  | Ministerie van Infrastructuur en Milieu, database Vaarwegen in Nederland (VIN)  |
-| Brzo  | bedrijven met een bepaalde hoeveelheid gevaarlijke stoffen, genoemd in [artikel 8 van het Besluit risico’s zware ongevallen 1999](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) (Brzo)  | Ministerie van VWS, RIVM-bestand Brzo-bedrijven  |
+| Brzo  | hogedrempelinrichtingen als bedoeld in artikel 1, eerste lid, van het Besluit risico’s zware ongevallen 2015  | Ministerie van VWS, RIVM-bestand Brzo-bedrijven  |
 | uitkeringsfactor  | het quotiënt van het beschikbare totaalbedrag verminderd met de bedragen bedoeld in artikel 8.2  en de som van a) de producten die wordt verkregen door voor iedere verdeelmaatstaf het aantal eenheden te vermenigvuldigen met het bedrag per eenheid en b) de vaste bedragen  | --- |
 
 De vaststelling van het aantal eenheden per structuurkenmerk of maatstaf geschiedt naar de toestand op 1 januari voorafgaand aan het uitkeringsjaar. 

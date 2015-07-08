@@ -40,6 +40,8 @@ Hebben goedgevonden en verstaan:
 
 *open bodemenergiesysteem:* installatie waarmee van de bodem gebruik wordt gemaakt voor de levering van warmte of koude ten behoeve van de verwarming of koeling van ruimten in bouwwerken, door grondwater te onttrekken en na gebruik in de bodem terug te brengen, met inbegrip van bijbehorende bronpompen en warmtewisselaar en, voor zover aanwezig, warmtepomp en regeneratievoorziening; 
 
+*Seveso III-richtlijn:* Richtlijn 2012/18/EU van het Europees Parlement en de Raad van 4 juli 2012 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken, houdende wijziging en vervolgens intrekking van Richtlijn 96/82/EG van de Raad (PbEU 2012, L 197); 
+
 *wet:* Wet algemene bepalingen omgevingsrecht.     
 2.  In dit besluit en de daarop berustende bepalingen wordt, behoudens voor zover daarin gesproken wordt van strafrechtelijke handhaving, onder «handhaving» verstaan bestuursrechtelijke handhaving van het bij of krachtens de betrokken wetten bepaalde.   
 3.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder onderscheidenlijk afvalstoffen, afvalwater, doelmatig beheer van afvalstoffen, EG-verordening overbrenging van afvalstoffen, EG-verordening PRTR, EG-verordening registratie, evaluatie en autorisatie van chemische stoffen, emissie, emissiegrenswaarde, hergebruik, inspecteur, kaderrichtlijn water, nuttige toepassing, preparaten, recycling, stoffen en verwijdering, hetgeen daaronder wordt verstaan in artikel 1.1 van de Wet milieubeheer.  
@@ -249,7 +251,7 @@ b. artikel 2.1, eerste lid, onder c, en waarbij ten behoeve van de verwezenlijki
 
 ####Inrichting en mijnbouwwerk
 
-1.  Gedeputeerde staten van de provincie waar het betrokken project in hoofdzaak zal worden of wordt uitgevoerd, zijn bevoegd te beslissen op een aanvraag die betrekking heeft op activiteiten met betrekking tot een inrichting die behoort tot een categorie ten aanzien waarvan dat in bijlage I, onderdeel C, is bepaald. De eerste volzin geldt slechts voor activiteiten met betrekking tot een inrichting waartoe een IPPC-installatie behoort of waarop het Besluit risico’s zware ongevallen 1999 van toepassing is.   
+1.  Gedeputeerde staten van de provincie waar het betrokken project in hoofdzaak zal worden of wordt uitgevoerd, zijn bevoegd te beslissen op een aanvraag die betrekking heeft op activiteiten met betrekking tot een inrichting die behoort tot een categorie ten aanzien waarvan dat in bijlage I, onderdeel C, is bepaald. De eerste volzin geldt slechts voor activiteiten met betrekking tot een inrichting waartoe een IPPC-installatie behoort of waarop het Besluit risico’s zware ongevallen 2015 van toepassing is.   
 2.  Onze Minister is bevoegd te beslissen op een aanvraag die betrekking heeft op activiteiten met betrekking tot een inrichting als bedoeld in categorie 29 van bijlage I, onderdeel C.   
 3.  Onze Minister van Verkeer en Waterstaat is bevoegd, in overeenstemming met Onze Minister, te beslissen op een aanvraag die betrekking heeft op activiteiten met betrekking tot een inrichting die behoort tot een categorie die in bijlage I, onderdeel C, is aangewezen en die geheel of in hoofdzaak zal zijn of is gelegen op of in de territoriale zee op een plaats die niet deel uitmaakt van een gemeente of provincie, tenzij het vierde lid van toepassing is.   
 4.  Onze Minister van Economische Zaken is bevoegd te beslissen op een aanvraag die betrekking heeft op: 
@@ -325,7 +327,7 @@ Indien de bevoegdheid te beslissen op een aanvraag overgaat naar een ander bestu
 
 ####Inrichtingen waarop BRZO van toepassing is
 
-Indien de aanvraag betrekking heeft op een inrichting waarop paragraaf 2 en niet tevens paragraaf 3 van het Besluit risico's zware ongevallen 1999 van toepassing is, kan Onze Minister in overeenstemming met Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Sociale Zaken en Werkgelegenheid nadere regels stellen met betrekking tot de gegevens en bescheiden die bij de aanvraag worden verstrekt. 
+Indien de aanvraag betrekking heeft op een lagedrempelinrichting als bedoeld in artikel 1, eerste lid, van het Besluit risico’s zware ongevallen 2015, kan Onze Minister in overeenstemming met Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Sociale Zaken en Werkgelegenheid nadere regels stellen met betrekking tot de gegevens en bescheiden die bij de aanvraag worden verstrekt. 
 
 ### Artikel  4.7  
 
@@ -601,7 +603,7 @@ d. aan een nieuwe of herziene grenswaarde als bedoeld in artikel 2.14, eerste li
 
 ####Relatie BRZO – bedrijven – natuurgebieden
 
-Als categorie inrichtingen als bedoeld in artikel 2.14, tweede lid, van de wet, worden aangewezen de inrichtingen waarop het Besluit risico’s zware ongevallen 1999 van toepassing is. 
+Als categorie inrichtingen als bedoeld in artikel 2.14, tweede lid, van de wet, worden aangewezen de inrichtingen waarop het Besluit risico’s zware ongevallen 2015 van toepassing is. 
 
 ### §  5.2.2  
 
@@ -855,7 +857,7 @@ b. die plaatsvindt in een A- of B-veiligheidszone rondom een munitieopslag en be
 
 ####BRZO-inrichting
 
-1.  Voor zover een aanvraag betrekking heeft op activiteiten als bedoeld in artikel 2.1, eerste lid, onder e, van de wet, waarop paragraaf 3 van het Besluit risico's zware ongevallen 1999 van toepassing is, zendt het bevoegd gezag uiterlijk twee weken na ontvangst van de aanvraag, een afschrift daarvan en van de daarbij behorende gegevens en bescheiden, aan: 
+1.  Voor zover een aanvraag betrekking heeft op activiteiten als bedoeld in artikel 2.1, eerste lid, onder e, van de wet, binnen een hogedrempelinrichting als bedoeld in artikel 1, eerste lid, Besluit risico’s zware ongevallen 2015, zendt het bevoegd gezag uiterlijk twee weken na ontvangst van de aanvraag, een afschrift daarvan en van de daarbij behorende gegevens en bescheiden, aan: 
 
 a. Onze Minister;  
 
@@ -870,14 +872,15 @@ e. voor zover de onderdelen van het veiligheidsrapport betrekking hebben op de r
 
 a. Onze Minister;  
 
-b. de inspecteur;  
+b. de daartoe door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouder, bedoeld in artikel 1, derde lid, onderdeel d, van de Arbeidsomstandighedenwet;
 
 c. de arbeidsinspectie;  
 
 d. het college van burgemeester en wethouders van de gemeente waarin de inrichting geheel of gedeeltelijk is gelegen;  
 
 e. het bestuur van de veiligheidsregio.     
-3.  Het bevoegd gezag zendt, indien tijdens de behandeling van de aanvraag een aanvulling op het veiligheidsrapport, bedoeld in artikel 10 van het Besluit risico's zware ongevallen 1999, is ontvangen, deze aanvulling uiterlijk twee weken na ontvangst aan de in het eerste lid genoemde bestuursorganen en aan de daar bedoelde toezichthouder.  
+3.  Het bevoegd gezag zendt, indien tijdens de behandeling van de aanvraag een aanvulling op het veiligheidsrapport, bedoeld in artikel 1, eerste lid, Besluit risico’s zware ongevallen 2015, is ontvangen, deze aanvulling uiterlijk twee weken na ontvangst aan de in het eerste lid genoemde bestuursorganen en aan de daar bedoelde toezichthouder.   
+4.  Het bevoegd gezag stelt het bestuursorgaan dat zorg draagt voor het beheer van een zuiveringstechnisch werk waarop, of van een oppervlaktewaterlichaam waarin als gevolg van een zwaar ongeval, al dan niet door middel van een voorziening voor de inzameling en het transport van afvalwater of een ander werk, kan worden geloosd, in de gelegenheid advies uit te brengen over die onderdelen van het veiligheidsrapport, die betrekking hebben op de risico’s voor dat zuiveringstechnisch werk of dat oppervlaktewaterlichaam. 
 
 ### Artikel  6.16  
 
@@ -897,15 +900,15 @@ c. het bestuur van de veiligheidsregio waar een gemeente als bedoeld onder a is 
 
 1.  Het bevoegd gezag zendt in een geval als bedoeld in artikel 6.15 met het oog op de voorbereiding van de bestrijding van rampen en zware ongevallen de daarin bedoelde onderdelen van het veiligheidsrapport en, indien tijdens de behandeling van de aanvraag een aanvulling op het veiligheidsrapport is ontvangen, deze aanvulling aan: 
 
-a. de burgemeester van de gemeenten waarvan het grondgebied is gelegen binnen de lijn van 10<sup>-8</sup> individueel risico, bedoeld in bijlage III, onder 2, onder c, van het Besluit risico's zware ongevallen 1999;  
+a. de burgemeester van de gemeente die kan worden getroffen door een zwaar ongeval bij een inrichting waarop het veiligheidsrapport betrekking heeft;  
 
 b. de commissaris van de Koningin in de provincie waar een gemeente is gelegen waarin de inrichting geheel of gedeeltelijk zal zijn of is gelegen;  
 
 c. de commissaris van de Koningin in de provincie waarin een gemeente als bedoeld onder a is gelegen;  
 
 d. het bestuur van de veiligheidsregio binnen wier gebied een gemeente als bedoeld onder a of c is gelegen.     
-2.  Het bevoegd gezag zendt een exemplaar van de stukken, bedoeld in het eerste lid, aan Onze Minister.   
-3.  Onze Minister zendt een exemplaar van de stukken, bedoeld in het eerste lid, indien de lijn van 10<sup>-8</sup> individueel risico, bedoeld in bijlage III, onder 2, onder c, van het Besluit risico's zware ongevallen 1999 zich uitstrekt over het grondgebied van een andere staat, aan die staat. In dat geval zendt hij tevens een exemplaar aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties. In afwijking van de eerste volzin zendt Onze Minister, indien krachtens artikel 19.3 van de Wet milieubeheer een tweede tekst is overgelegd, een exemplaar van deze tekst aan de betrokken staat.  
+2.  Het bevoegd gezag zendt een exemplaar van de stukken, bedoeld in het eerste lid, aan de aangrenzende staat, indien een zwaar ongeval bij de inrichting waarop het veiligheidsrapport betrekking heeft de aangrenzende staat kan treffen. In dat geval zendt hij tevens een exemplaar aan Onze Minister van Veiligheid en Justitie.   
+3.  In afwijking van het tweede lid zendt het bevoegd gezag, indien krachtens artikel 19.3 van de Wet milieubeheer een tweede tekst is overgelegd, een exemplaar van deze tekst aan de betrokken staat.  
 
 ### Artikel  6.18  
 
@@ -1143,7 +1146,7 @@ a. inrichtingen waarop een van de onderstaande besluiten en regelingen van toepa
 
 – Besluit LPG-tankstations milieubeheer;  
 
-– Besluit risico’s zware ongevallen 1999;  
+– Besluit risico’s zware ongevallen 2015;  
 
 – Regeling grenswaarde VCM-luchtemissies-PVC-inrichtingen milieubeheer;  
 
@@ -1689,7 +1692,7 @@ g. de productie van alcohol.
 
 10.1. Inrichtingen waar gewasbeschermingsmiddelen of biociden, als bedoeld in artikel 1 van de Wet gewasbeschermingsmiddelen en biociden, worden vervaardigd, bewerkt, opgeslagen of overgeslagen.  
 
-10.2. Voor de toepassing van onderdeel 10.1 blijven buiten beschouwing het opslaan van 10 kg of minder gewasbeschermingsmiddelen of biociden, tenzij bij het opslaan van de gewasbeschermingsmiddelen of biociden sprake is of zou zijn van het aanwezig hebben van een gevaarlijke stof, als bedoeld in artikel 8 van het Besluit risico's zware ongevallen 1999.   
+10.2. Voor de toepassing van onderdeel 10.1 blijven buiten beschouwing het opslaan van 10 kg of minder gewasbeschermingsmiddelen of biociden, tenzij bij het opslaan van de gewasbeschermingsmiddelen of biociden sprake is of zou zijn van het aanwezig hebben van een gevaarlijke stof, in een hoeveelheid gelijk aan of hoger dan de hoeveelheden genoemd in kolom 3 van deel 1 of in kolom 3 van deel 2 van bijlage I bij de Seveso III-richtlijn.   
 
 ####Categorie 11
 
@@ -2957,5 +2960,5 @@ c. explosieven,   met een verwerkings- of productiecapaciteit van 20.000 ton per
 
 22. Inrichtingen waarin zich een verbrandingsinstallatie bevindt als bedoeld in artikel 12, tweede lid, eerste volzin, van richtlijn nr. 2000/76/EG van het Europees Parlement en de Raad van de Europese Unie van 4 december 2000 betreffende de verbranding van afval (PbEG L 332).  
 
-23. Inrichtingen als bedoeld in artikel 4 of aangewezen krachtens artikel 7 van het Besluit risico’s zware ongevallen 1999.   
+23. Inrichtingen als bedoeld in artikel 4 of aangewezen krachtens artikel 8 van het Besluit risico’s zware ongevallen 2015.   
 

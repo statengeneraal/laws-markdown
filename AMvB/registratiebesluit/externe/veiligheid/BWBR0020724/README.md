@@ -28,7 +28,7 @@ c. groepsrisico: cumulatieve kansen per jaar dat ten minste 10, 100 of 1000 pers
 
 d. invloedsgebied: gebied waarin volgens door Onze Minister bij ministeriële regeling op grond van artikel 15, eerste lid, van het Besluit externe veiligheid inrichtingen personen worden meegeteld voor de berekening van het groepsrisico;  
 
-e. opslag in verband met vervoer van gevaarlijke stoffen: opslag in verband met vervoer van gevaarlijke stoffen als bedoeld in artikel 1, onderdeel c, van het Besluit risico’s zware ongevallen 1999;  
+e.  opslag in verband met vervoer van gevaarlijke stoffen: opslag van verpakte gevaarlijke stoffen gedurende korte tijd en in afwachting van aansluitend vervoer naar een vooraf bekende ontvanger, met inbegrip van het laden en lossen van die stoffen en de overbrenging daarvan naar of van een andere tak van vervoer, voor zover daadwerkelijk in aansluitend vervoer is voorzien en de betrokken gevaarlijke stoffen in hun oorspronkelijke verpakking blijven;  
 
 f. plaatsgebonden risico: risico op een plaats buiten een inrichting, een transportroute of een buisleiding, uitgedrukt als de kans per jaar dat een persoon die onafgebroken en onbeschermd op die plaats zou verblijven, overlijdt als rechtstreeks gevolg van een ongewoon voorval binnen die inrichting, op die transportroute of met die buisleiding, waarbij een gevaarlijke stof betrokken is; 
 
@@ -38,7 +38,15 @@ h. register: register als bedoeld in artikel 12.12 van de wet;
 
 i. bijlage A van het ADR: de door Onze Minister ingevolge artikel 5.4.1 van het Vuurwerkbesluit aangewezen of bekendgemaakte vertaling van bijlage A bij de op 30 september 1957 te Genève tot stand gekomen Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen over de weg (Trb. 1959, 171);  
 
-j. wet: Wet milieubeheer.     
+j. wet: Wet milieubeheer;  
+
+k.vervallen;
+
+l.vervallen;
+
+m.vervallen;
+
+n. Seveso III-richtlijn: Richtlijn 2012/18/EU van het Europees Parlement en de Raad van 4 juli 2012 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken, houdende wijziging en vervolgens intrekking van Richtlijn 96/82/EG van de Raad (PbEU 2012, L 197).    
 2.  Voor de berekening van het groepsrisico en het plaatsgebonden risico van inrichtingen en spoorwegemplacementen als bedoeld in artikel 2 van het Besluit externe veiligheid inrichtingen alsmede voor de wijze van toepassing van de afstanden waarbij wordt voldaan aan het plaatsgebonden risico, indien deze afstanden door Onze Minister zijn voorgeschreven op grond van het Besluit externe veiligheid inrichtingen, zijn de daarvoor krachtens het Besluit externe veiligheid inrichtingen vastgestelde regels van overeenkomstige toepassing.   
 3.  Voor de berekening van het groepsrisico en het plaatsgebonden risico van buisleidingen waarop het Besluit externe veiligheid buisleidingen van toepassing is, zijn de daarvoor krachtens dat besluit gestelde regels van overeenkomstige toepassing. 
 
@@ -46,7 +54,7 @@ j. wet: Wet milieubeheer.
 
 Als gevaarlijke stoffen als bedoeld in artikel 12.11, tweede lid, van de wet worden aangewezen: 
 
-a. de in bijlage I, deel 1, van het Besluit risico’s zware ongevallen 1999 onder de nummers 2a tot en met 2d en 15 genoemde stoffen;  
+a. de in bijlage I, deel 2, bij de Seveso III-richtlijn onder de nummers 1 tot en met 4 en 29 genoemde stoffen;  
 
 b. distikstofoxide;  
 
