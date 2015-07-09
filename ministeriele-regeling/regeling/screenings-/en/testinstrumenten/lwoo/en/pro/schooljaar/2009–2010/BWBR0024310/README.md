@@ -5,7 +5,7 @@
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-Gelet op [artikel 3, vierde lid, van het Besluit RVC’s en regionaal zorgbudget](../../../../../../../../../../../AMvB/besluit/rvc's/en/regionaal/zorgbudget/BWBR0015137/README.md);
+Gelet op artikel 3, vierde lid, van het Besluit RVC’s en regionaal zorgbudget;
 Besluit:    
 
 ### Artikel  1  

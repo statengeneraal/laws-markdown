@@ -2632,17 +2632,15 @@ b. de inspectie voor zover deze gegevens noodzakelijk zijn voor het uitoefenen v
 
 ####Gebruik persoonsgebonden nummer BES door openbaar lichaam
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
-Onverminderd het overigens bij of krachtens de wet bepaalde omtrent het gebruik van het burgerservicenummer door het openbaar lichaam, gebruikt het openbaar lichaam het persoonsgebonden nummer BES van een leerling of een voortijdige schoolverlater als bedoeld in artikel 193 uitsluitend ten behoeve van: 
+Onverminderd het overigens bij of krachtens de wet bepaalde omtrent het gebruik van het burgerservicenummer door het openbaar lichaam, gebruikt het openbaar lichaam het persoonsgebonden nummer BES van een leerplichtige of kwalificatieplichtige leerling of een persoon als bedoeld in artikel 66, eerste lid, uitsluitend ten behoeve van: 
 
-a. een registratie van leerplichtige jongeren in het belang van het toezicht op de naleving van de Leerplichtwet BES;  
+a. het toezicht op de naleving van de Leerplichtwet BES;  
 
-b. de registratie van gegevens van voortijdige schoolverlaters, bedoeld in artikel 194, eerste lid, en tweede lid, eerste volzin;  
+b. de uitvoering van de Wet sociale kanstrajecten;  
 
-c. het systeem van doorverwijzing van voortijdige schoolverlaters naar onderwijs of arbeidsmarkt, bedoeld in artikel 194, tweede lid;  
-
-d. verwerking van de gegevens, bedoeld in 24f, derde en vierde lid, van de Wet op het onderwijstoezicht en in artikel 62, eerste lid, bij de registraties, bedoeld in de onderdelen a en b, en het systeem van doorverwijzing, bedoeld in onderdeel c.   
+c. de verwerking van de gegevens, bedoeld in 24f, derde en vierde lid, van de Wet op het onderwijstoezicht.  
 
 ### Artikel  183  
 

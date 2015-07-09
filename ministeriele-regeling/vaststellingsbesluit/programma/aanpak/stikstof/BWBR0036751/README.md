@@ -22,7 +22,7 @@ S.A.M. Dijksma
 
 De 
 Minister van Infrastructuur en Milieu, 
-M.H. Schultz van Haegen-Maas Geesternaus    
+M.H. Schultz van Haegen-Maas Geesteranus    
 
 ####Programma Aanpak Stikstof 2015–2021
 

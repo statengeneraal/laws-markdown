@@ -151,7 +151,7 @@ d. een andere speciale school voor basisonderwijs in het onder c bedoelde samenw
 
 ####Zorgplicht veiligheid op school
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 1.  Het bevoegd gezag draagt zorg voor de veiligheid op school, waarbij het bevoegd gezag in ieder geval: 
 
@@ -3110,7 +3110,7 @@ Onze minister zendt binnen vier jaar na de inwerkingtreding van artikel I van de
 
 ####Evaluatie zorgplicht veiligheid op school
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van artikel I van de Wet van 4 juni 2015 tot wijziging van enige onderwijswetten in verband met het invoeren van de verplichting voor scholen om zorg te dragen voor de veiligheid op school (Stb. 238) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van de artikelen 4c en 13, eerste lid, onderdeel n, in de praktijk. 
 

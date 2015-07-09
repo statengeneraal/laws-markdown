@@ -3,7 +3,7 @@
 ##Regeling, houdende regels met betrekking tot taken van het KNMI, onderzoek door het KNMI, algemeen weerbericht, de beschikbaarstelling en prijs van KNMI-gegevens, en de rechtspositie van de leden van de KNMI-raad
 
 De Staatssecretaris van Verkeer en Waterstaat,  
-Gelet op de [artikelen 3, tweede lid](../../../../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md), [4](../../../../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md), [5, vijfde lid](../../../../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md), [6, tweede en derde lid](../../../../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md), [10, vierde lid](../../../../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md), en [11, vijfde lid, van de Wet op het Koninklijk Nederlands Meteorologisch Instituut](../../../../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md);
+Gelet op de artikelen 3, tweede lid, 4, 5, vijfde lid, 6, tweede en derde lid, 10, vierde lid, en 11, vijfde lid, van de Wet op het Koninklijk Nederlands Meteorologisch Instituut;
 Besluit:     
 ### Hoofdstuk 1 
 
@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: a.*wet:* [Wet op het Koninklijk Nederlands Meteorologisch Instituut](../../../../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md);b.*de minister:* de minister van Verkeer en Waterstaat;c.*onderdeel van het algemeen weerbericht:* een onderdeel als bedoeld in [artikel 5, tweede lid, van de wet](../../../../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md);d.*licentie:* een recht tot gebruik van KNMI-gegevens op grond een overeenkomst als bedoeld in artikel 22, onder a;e.*particulier weerbureau:* rechtspersoon met winstoogmerk die als doel heeft van KNMI-gegevens gebruik te maken om daarmee meteorologische producten en diensten voort te brengen ten behoeve van aan hem bekende afnemers;f.*omroep of uitgever:* rechtspersoon die ten doel heeft via openbare media KNMI-gegevens openbaar te maken aan een onbepaald publiek;g.*eindgebruiker:* natuurlijke of rechtspersoon die beoogt KNMI-gegevens voor eigen niet-meteorologische doeleinden te gebruiken;h.*bewerkte KNMI-gegevens:* gegevens die een nadere bewerking hebben ondergaan in de vorm van figuren, teksten, tabellen, gesproken woord of anderszins, waarbij de oorspronkelijke gegevens nog als zodanig herkenbaar en reproduceerbaar zijn;i.*onbewerkte gegevens:* meteorologische gegevens die geen bewerking hebben ondergaan als bedoeld onder h;j.*producten en diensten met toegevoegde waarde:* producten en diensten waarin de oorspronkelijk gebruikte gegevens niet meer als zodanig herkenbaar zijn;k.*meteorologische infrastructuur:* geheel van systemen en apparatuur voor meteorologische waarnemingen en rekenmodellen, activiteiten en bijdragen aan organisaties;l.*de KNMI-raad:* de raad, bedoeld in [artikel 11 van de wet](../../../../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md). 
+In deze regeling wordt verstaan onder: a.*wet:* Wet op het Koninklijk Nederlands Meteorologisch Instituut;b.*de minister:* de minister van Verkeer en Waterstaat;c.*onderdeel van het algemeen weerbericht:* een onderdeel als bedoeld in artikel 5, tweede lid, van de wet;d.*licentie:* een recht tot gebruik van KNMI-gegevens op grond een overeenkomst als bedoeld in artikel 22, onder a;e.*particulier weerbureau:* rechtspersoon met winstoogmerk die als doel heeft van KNMI-gegevens gebruik te maken om daarmee meteorologische producten en diensten voort te brengen ten behoeve van aan hem bekende afnemers;f.*omroep of uitgever:* rechtspersoon die ten doel heeft via openbare media KNMI-gegevens openbaar te maken aan een onbepaald publiek;g.*eindgebruiker:* natuurlijke of rechtspersoon die beoogt KNMI-gegevens voor eigen niet-meteorologische doeleinden te gebruiken;h.*bewerkte KNMI-gegevens:* gegevens die een nadere bewerking hebben ondergaan in de vorm van figuren, teksten, tabellen, gesproken woord of anderszins, waarbij de oorspronkelijke gegevens nog als zodanig herkenbaar en reproduceerbaar zijn;i.*onbewerkte gegevens:* meteorologische gegevens die geen bewerking hebben ondergaan als bedoeld onder h;j.*producten en diensten met toegevoegde waarde:* producten en diensten waarin de oorspronkelijk gebruikte gegevens niet meer als zodanig herkenbaar zijn;k.*meteorologische infrastructuur:* geheel van systemen en apparatuur voor meteorologische waarnemingen en rekenmodellen, activiteiten en bijdragen aan organisaties;l.*de KNMI-raad:* de raad, bedoeld in artikel 11 van de wet. 
 
 ### Artikel  1a  
 
@@ -23,7 +23,7 @@ Deze regeling is, met uitzondering van de artikelen 9 tot en met 21, mede van to
 
 ### Artikel  2  
 
-1.  Tot internationale organisaties als bedoeld in [artikel 3, eerste lid, onderdeel f, van de wet](../../../../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md) behoren: 
+1.  Tot internationale organisaties als bedoeld in artikel 3, eerste lid, onderdeel f, van de wet behoren: 
 
 a.  de Wereld Meteorologische Organisatie, 
 
@@ -453,7 +453,7 @@ Indien licenties verleend zijn aan afnemers, behorend tot de Staat, wordt aan di
 
 ### Artikel  41  
 
-Niet ambtelijke leden van de KNMI-raad ontvangen een vergoeding voor hun werkzaamheden voor de KNMI-raad overeenkomstig [artikel 1, tweede lid, van het Vacatiegeldenbesluit 1988](../../../../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md). 
+Niet ambtelijke leden van de KNMI-raad ontvangen een vergoeding voor hun werkzaamheden voor de KNMI-raad overeenkomstig artikel 1, tweede lid, van het Vacatiegeldenbesluit 1988. 
 
 ### Hoofdstuk 8 
 

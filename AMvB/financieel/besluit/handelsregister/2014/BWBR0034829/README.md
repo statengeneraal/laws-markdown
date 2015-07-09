@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Op de voordracht van Onze Minister van Economische Zaken van 13 januari 2014, nr. WJZ / 13208946;
 
-Gelet op de [artikelen 49, eerste, tweede en vijfde lid](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), en [50, eerste en vierde lid, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md);
+Gelet op de artikelen 49, eerste, tweede en vijfde lid, en 50, eerste en vierde lid, van de Handelsregisterwet 2007;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 29 januari 2014, nr. W15.14.0005/IV);
 
@@ -46,14 +46,14 @@ e. het verstrekken van een elektronisch gewaarmerkt uittreksel.
 
 ### Artikel  3  
 
-1.  Indien de opgave ter eerste inschrijving in het handelsregister wordt gedaan ten kantore van de Kamer van Koophandel, is de betalingstermijn, bedoeld in [artikel 49, vijfde lid, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), gelijk aan de termijn van de opgave tot eerste inschrijving.   
-2.  Indien de opgave ter eerste inschrijving in het handelsregister wordt ingediend via een notaris, wordt de betalingstermijn, bedoeld in [artikel 49, vijfde lid, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) vastgesteld op vier weken, gerekend vanaf de dag van de opgave tot eerste inschrijving.   
-3.  De betalingstermijn, bedoeld in [artikel 50, vierde lid, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), is gelijk aan de termijn voor de levering van de dienst, genoemd in artikel 2, eerste lid, onderdelen a, b en e, en het tweede lid.   
-4.  De betalingstermijn, bedoeld in [artikel 50, vierde lid, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) wordt vastgesteld op vier weken voor de diensten en producten, genoemd in artikel 2, eerste lid, onderdelen c en d, en het derde lid.  
+1.  Indien de opgave ter eerste inschrijving in het handelsregister wordt gedaan ten kantore van de Kamer van Koophandel, is de betalingstermijn, bedoeld in artikel 49, vijfde lid, van de Handelsregisterwet 2007, gelijk aan de termijn van de opgave tot eerste inschrijving.   
+2.  Indien de opgave ter eerste inschrijving in het handelsregister wordt ingediend via een notaris, wordt de betalingstermijn, bedoeld in artikel 49, vijfde lid, van de Handelsregisterwet 2007 vastgesteld op vier weken, gerekend vanaf de dag van de opgave tot eerste inschrijving.   
+3.  De betalingstermijn, bedoeld in artikel 50, vierde lid, van de Handelsregisterwet 2007, is gelijk aan de termijn voor de levering van de dienst, genoemd in artikel 2, eerste lid, onderdelen a, b en e, en het tweede lid.   
+4.  De betalingstermijn, bedoeld in artikel 50, vierde lid, van de Handelsregisterwet 2007 wordt vastgesteld op vier weken voor de diensten en producten, genoemd in artikel 2, eerste lid, onderdelen c en d, en het derde lid.  
 
 ### Artikel  4  
 
-Het [Financieel besluit handelsregister](../../../../../../AMvB/financieel/besluit/handelsregister/BWBR0024062/README.md) wordt ingetrokken. 
+Het Financieel besluit handelsregister wordt ingetrokken. 
 
 ### Artikel  5  
 

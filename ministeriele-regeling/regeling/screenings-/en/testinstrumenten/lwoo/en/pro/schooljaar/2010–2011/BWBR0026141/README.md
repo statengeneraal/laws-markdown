@@ -5,7 +5,7 @@
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-Gelet op [artikel 3, vierde lid, van het Besluit RVC’s en regionaal zorgbudget](../../../../../../../../../../../AMvB/besluit/rvc's/en/regionaal/zorgbudget/BWBR0015137/README.md);
+Gelet op artikel 3, vierde lid, van het Besluit RVC’s en regionaal zorgbudget;
 Besluit:    
 
 ### Artikel  1  
@@ -16,7 +16,7 @@ De screenings- en testinstrumenten ten behoeve van de indicatiestelling voor lee
 
 ### Artikel  2  
 
-####Wijziging [Regeling lerarenbeurs voor scholing en zij-instroom 2009–2011](../../../../../../../../../../../ministeriele-regeling/regeling/lerarenbeurs/voor/scholing/en/zij-instroom/2009–2017/BWBR0025844/README.md)
+####Wijziging Regeling lerarenbeurs voor scholing en zij-instroom 2009–2011
 
 Wijzigt de Regeling lerarenbeurs voor scholing en zij-instroom 2009–2011. 
 

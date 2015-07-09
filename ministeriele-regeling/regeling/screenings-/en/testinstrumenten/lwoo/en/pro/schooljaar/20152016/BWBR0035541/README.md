@@ -12,15 +12,11 @@ Besluit:
 
 ####Vaststelling screenings- en testinstrumenten
 
-Treedt in werking per 01-10-2014 
-
 De screenings- en testinstrumenten ten behoeve van de indicatiestelling voor leerwegondersteunend onderwijs en praktijkonderwijs voor het schooljaar 2015–2016 worden vastgesteld conform de bijlage bij deze regeling. 
 
 ### Artikel  2  
 
 ####Intrekking eerdere regelingen
-
-Treedt in werking per 01-10-2014 
 
 De Regeling screenings- en testinstrumenten LWOO en PrO schooljaar 2014-2015 wordt ingetrokken. 
 
@@ -28,15 +24,11 @@ De Regeling screenings- en testinstrumenten LWOO en PrO schooljaar 2014-2015 wor
 
 ####Inwerkingtreding
 
-Treedt in werking per 01-10-2014 
-
 Deze regeling treedt in werking met ingang van 1 oktober 2014. 
 
 ### Artikel  4  
 
 ####Citeertitel
-
-Treedt in werking per 01-10-2014 
 
 Deze regeling wordt aangehaald als: Regeling screenings- en testinstrumenten LWOO en PrO schooljaar 2015–2016. 
 Deze regeling zal met de toelichting en bijlage in de Staatscourant worden geplaatst.  
@@ -48,8 +40,6 @@ S. Dekker
 ### Bijlage 
 
 ####bij artikel 1  van de Regeling screenings- en testinstrumenten LWOO en PrO schooljaar 2015–2016
-
-Treedt in werking per 01-10-2014 
 
 ####Lijst toegestane instrumenten Criterium Intelligentie
 
