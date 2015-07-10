@@ -288,7 +288,7 @@ b. het personeel, en
 
 c. het bestuur en de inrichting.     
 
-###Artikel 1.15 
+### Artikel  1.15  
 
 ####Aard bepalingen 
 
@@ -296,9 +296,9 @@ c. het bestuur en de inrichting.
 
 a.de artikelen 2.10, 2.12 en 2.13 en de bepalingen van titel 5 van hoofdstuk 2,
 
-b.de bepalingen van hoofdstuk 4, met uitzondering van artikel 4.7, en
+b.de bepalingen van hoofdstuk 4, en
 
-c.de bepalingen van hoofdstuk 12, met uitzondering van artikel 12.18.
+c.de bepalingen van hoofdstuk 12, met uitzondering van artikel 12.18. 
 2. De volgende bepalingen zijn met betrekking tot de academische ziekenhuizen bij de bijzondere universiteiten voorwaarden voor bekostiging van het bijzonder onderwijs:
 
 a.de artikelen 2.10, 2.12 en 2.13 en de bepalingen van titel 5 van hoofdstuk 2,
@@ -662,40 +662,6 @@ b. rechten en plichten van het personeel en het instellingsbestuur bij ziekte, b
 3.   Bij algemene maatregel van bestuur kunnen voorschriften worden vastgesteld betreffende algemene arbeidsduur.    
 4.   Onder regeling van de rechtspositie als bedoeld in het eerste lid wordt tevens begrepen het vaststellen van bepalingen inzake benoeming, schorsing, disciplinaire maatregelen en ontslag van personeel. De bepalingen omtrent ontslag mogen het personeel van de openbare instellingen niet minder rechten verschaffen dan die welke voor werknemers met een arbeidsovereenkomst voortvloeien uit de bepalingen van dwingend recht van titel 10 van Boek 7 van het Burgerlijk Wetboek.    
 5.   Over de regelingen, bedoeld in het eerste en vierde lid, alsmede over andere aangelegenheden van algemeen belang voor de bijzondere rechtstoestand van het personeel van de desbetreffende instelling, wordt door of namens het instellingsbestuur overleg gevoerd met de daarvoor in aanmerking komende vakorganisaties van overheids- en onderwijspersoneel, op een met deze schriftelijk overeengekomen wijze. In geval van een geschil over de deelneming aan het overleg, bedoeld in de vorige volzin, alsmede in geval van een geschil over de aard, de inhoud en de organisatie van het overleg leggen de betrokken partijen het geschil voor aan een geschillencommissie. Deze geschillencommissie bestaat uit drie personen, die door de partijen gezamenlijk worden aangewezen. De uitspraak van de geschillencommissie heeft bindende kracht.   
-
-### Artikel  4.7  
-
-####Commissies van beroep personeel bijzondere instellingen 
-
-1.  Elke bijzondere instelling is aangesloten bij een commissie van beroep, waarbij door elk personeelslid van die instelling dat rechtstreeks in zijn belang is getroffen, beroep kan worden ingesteld tegen een beslissing, door of namens het instellingsbestuur genomen, inhoudende:  
-
-a. een disciplinaire maatregel,   
-
-b. schorsing,   
-
-c. ontslag anders dan op eigen verzoek, voordat de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, is bereikt,   
-
-d. het direct of indirect onthouden van bevordering, of   
-
-e. de beëindiging van een verlengd tijdelijk dienstverband.      
-2.   Een commissie van beroep strekt haar werkzaamheden uit over een of meer instellingen.    
-3.   De commissie bestaat uit een even aantal gewone leden en, wanneer dit in het beroepsreglement is bepaald, evenveel plaatsvervangende leden, een voorzitter, tevens lid, en, wanneer dit in het beroepsreglement is bepaald, een of meer plaatsvervangende voorzitters. De besturen en het personeel van de aangesloten instellingen benoemen onderscheidenlijk kiezen elk de helft van het aantal gewone leden en plaatsvervangende leden. De gewone leden kiezen de voorzitter en de plaatsvervangende voorzitter of voorzitters. De voorzitter, de plaatsvervangend voorzitter of voorzitters en de overige leden en de eventuele plaatsvervangende leden worden benoemd voor een termijn van ten minste drie en ten hoogste vijf jaar.    
-4.   De leden en de eventuele plaatsvervangende leden van de commissie van beroep mogen geen lid zijn van het bestuur van een aangesloten instelling noch deel uitmaken van het personeel van de vereniging of stichting waarvan die instelling uitgaat.    
-5.   Op eigen verzoek wordt aan de leden en plaatsvervangende leden van de commissie van beroep ontslag verleend. Bij het bereiken van de leeftijd van zeventig jaar wordt hun ontslag verleend met ingang van de eerstvolgende maand. Zij worden ontslagen indien zij uit hoofde van ziekte of gebreken ongeschikt zijn hun functie te vervullen alsmede indien zij bij onherroepelijk geworden rechterlijke uitspraak wegens misdrijf zijn veroordeeld. Alvorens het ontslag op grond van het in de derde volzin bepaalde wordt verleend, wordt de betrokkene van het voornemen tot ontslag in kennis gesteld en wordt hem de gelegenheid geboden zich terzake te doen horen.    
-6.   De uitspraak van de commissie van beroep is voor het instellingsbestuur bindend.    
-7.   De besturen van de aangesloten instellingen stellen voor de commissie van beroep een beroepsreglement vast, dat erin voorziet dat een onpartijdig en onafhankelijk functioneren van de commissie is gewaarborgd. Bij of krachtens het beroepsreglement worden geregeld:  
-
-a. de omvang en samenstelling van de commissie van beroep,   
-
-b. de zittingstermijn van de leden en eventuele plaatsvervangende leden van de commissie van beroep,   
-
-c. de wijze waarop het lidmaatschap of plaatsvervangend lidmaatschap eindigt,   
-
-d. de rechtsgang bij de commissie van beroep, daaronder begrepen de inhoud en indiening van het beroepschrift, de behandeling ter zitting en de voorbereiding daarvan, de uitspraak alsmede de mogelijkheden van verzet, voorlopige voorziening en herziening van uitspraken, alsmede   
-
-e. de wijze waarop in het secretariaat van de commissie van beroep wordt voorzien.       
-8.   Het beroepsreglement wordt niet gewijzigd dan nadat de commissie van beroep over de voorgenomen wijziging is gehoord.    
-9.   Tijdens de behandeling door de commissie van beroep loopt geen verjaring met betrekking tot rechtsvorderingen terzake van beslissingen die aan het oordeel van de commissie van beroep zijn onderworpen.   
 
 ### Hoofdstuk  5  
 

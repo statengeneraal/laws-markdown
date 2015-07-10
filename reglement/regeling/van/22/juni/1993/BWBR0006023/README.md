@@ -513,13 +513,13 @@ In een mondeling overleg kunnen met instemming van de desbetreffende minister in
 
 ####Presentielijst
 
-Ieder aanwezig lid tekent voor het begin van de vergadering de presentielijst. De lijst blijft op de tafel van de Griffier liggen voor ondertekening door later komende leden. 
+Ieder aanwezig lid meldt zijn aanwezigheid voor het begin van de vergadering aan op de presentielijst. Later komende leden melden hun aanwezigheid eveneens aan op deze wijze. 
 
 ### Artikel  49  
 
 ####Quorum
 
-De Voorzitter opent de vergadering indien op het uur van bijeenroeping de presentielijst door meer dan de helft van het aantal zitting hebbende leden is getekend. 
+De Voorzitter opent de vergadering indien op het uur van bijeenroeping meer dan de helft van het aantal zitting hebbende leden hun aanwezigheid op de presentielijst hebben aangemeld. 
 
 ### Artikel  50  
 
@@ -1310,16 +1310,17 @@ e.zaken die in strijd zijn met de Grondwet en de goede zeden.
 
 ####Aanwijzing van kabinets(in)formateur(s)
 
-1. Onverwijld na de installatie van een nieuw verkozen Tweede Kamer, maar uiterlijk een week na de installatie, beraadslaagt de Kamer in plenaire zitting over de verkiezingsuitslag. Het doel van de beraadslaging is een of meer informateurs onderscheidenlijk formateurs te benoemen en de door hen uit te voeren opdracht vast te stellen. Indien dat doel niet in de desbetreffende vergadering kan worden bereikt, besluit de Kamer daarover in een volgende vergadering, zo spoedig als dat mogelijk is. 
+1. Onverwijld na de installatie van een nieuw verkozen Tweede Kamer, maar uiterlijk een week na de installatie, beraadslaagt de Kamer in plenaire zitting over de verkiezingsuitslag. Het doel van de beraadslaging is een of meer informateurs onderscheidenlijk formateurs aan te wijzen en de door hen uit te voeren opdracht vast te stellen. Indien dat doel niet in de desbetreffende vergadering kan worden bereikt, besluit de Kamer daarover in een volgende vergadering, zo spoedig als dat mogelijk is. 
 2. Indien een informatieopdracht wordt afgerond, formuleert de Kamer in beginsel binnen een week na de dag van afronding een formatieopdracht, en wijst zij voor de uitvoering daarvan een of meer formateurs aan.
 3. Indien de aangewezen informateurs of formateurs hun opdracht teruggeven, formuleert de Kamer in beginsel binnen een week na de dag van teruggave een nieuwe opdracht, en wijst zij voor de uitvoering daarvan een of meer informateurs onderscheidenlijk formateurs aan.
 4. Na een tussentijdse val van het kabinet kan de Kamer beraadslagen over de wenselijkheid of richting van een nieuwe kabinetsformatie. Het eerste tot en met het derde lid zijn van overeenkomstige toepassing.
+5. De aanwijzing van een informateur dan wel formateur geschiedt onder toepassing van de artikelen 69 tot en met 73.
 
 ### Artikel  139b  
 
 ####Vragen van inlichtingen aan kabinets(in)formateur(s)
 
-De Kamer kan na afronding van een opdracht tot kabinets(in)formatie besluiten om een formateur of informateur dan wel formateurs of informateurs uit te nodigen om over het verloop van die kabinets(in)formatie inlichtingen te verschaffen. 
+De Kamer kan tijdens de uitvoering en na afronding van een opdracht tot kabinets(in)formatie besluiten om een formateur of informateur dan wel formateurs of informateurs uit te nodigen om over het verloop van die kabinets(in)formatie inlichtingen te verschaffen. 
 
 ### Hoofdstuk  XII  
 

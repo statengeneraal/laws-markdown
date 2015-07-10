@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 17 februari 1998, nr. CSZ/BO 982107, tot instelling van de Commissie buitenslands gediplomeerden
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op de [artikelen 41, vijfde lid, en 45, derde lid, van de Wet op de beroepen in de individuele gezondheidszorg, artikel 2 van het Besluit buitenslands gediplomeerden volksgezondheid](../../../../../../AMvB/besluit/buitenslands/gediplomeerden/volksgezondheid/BWBR0007397/README.md) en [artikel 1, tweede lid, van het Vacatiegeldenbesluit 1988](../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md);
+Gelet op de artikelen 41, vijfde lid, en 45, derde lid, van de Wet op de beroepen in de individuele gezondheidszorg, artikel 2 van het Besluit buitenslands gediplomeerden volksgezondheid en artikel 1, tweede lid, van het Vacatiegeldenbesluit 1988;
 Besluit:     
 
 ###Artikel  1  
@@ -329,9 +329,9 @@ Er is een Commissie buitenslands gediplomeerden.
 3.  Als secretaris wordt aan de commissie toegevoegd de heer mr.drs. W. Davidse.   
 4.  Als adviserend lid wordt aan de commissie toegevoegd de hoofdinspecteur voor de gezondheidszorg of diens vertegenwoordiger.  
 
-###Artikel  3  
+### Artikel  3  
 
-De leden en de plaatsvervangend leden van de commissie, de voorzitter daaronder niet begrepen, ontvangen een vacatiegeld van € 190,59 voor iedere dag waarop zij één of meer vergaderingen van de commissie hebben bijgewoond. Tevens hebben zij recht op een reiskostenvergoeding volgens het [Reisbesluit binnenland](../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md). 
+De leden en plaatsvervangend leden van de commissie, de voorzitter daaronder niet begrepen, ontvangen een vergoeding per vergadering ter hoogte van de maximaal toegestane vergoeding voor de andere leden als bedoeld in artikel 2 van het Besluit vergoedingen adviescolleges en commissies. Tevens hebben zij recht op een reiskostenvergoeding volgens het Reisbesluit binnenland. 
 
 ###Artikel  4  
 

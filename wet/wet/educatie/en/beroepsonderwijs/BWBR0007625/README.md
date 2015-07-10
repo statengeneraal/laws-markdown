@@ -104,7 +104,7 @@ z.personeel:
 
 1. de benoemde docenten, en overig personeel dat is benoemd aan de instelling of het kenniscentrum beroepsonderwijs bedrijfsleven; 
 
-2. het onder a bedoelde personeel dat zonder benoeming is tewerkgesteld aan de instelling of het kenniscentrum beroepsonderwijs bedrijfsleven, tenzij het betreft de toepassing van de artikelen 3.1.2, 3.2.1, 3.3.1, 4.1.1, 4.1.2 tot en met 4.1.6, 4.3.1 tot en met 4.3.5, en de toepassing van daarmee verband houdende wettelijke bepalingen; 
+2. het onder a bedoelde personeel dat zonder benoeming is tewerkgesteld aan de instelling of het kenniscentrum beroepsonderwijs bedrijfsleven, tenzij het betreft de toepassing van de artikelen 3.1.2, 3.2.1, 3.3.1, 4.1.1, 4.1.2, 4.1.3, 4.3.1 en 4.3.2, en de toepassing van daarmee verband houdende wettelijke bepalingen; 
 
 aa. vervallen; 
 
@@ -121,7 +121,7 @@ ee. ondernemingsraad: een ondernemingsraad als bedoeld in de Wet op de ondernemi
 ####Aard bepalingen
 
 1.  De bepalingen vastgesteld bij of krachtens de artikelen 1.3.6, 1.3.7, 1.3.8, 1.3.9, 1.7.1, 2.8.1 tot en met 2.8.3, 3.2.1, 4.1.1 tot en met 4.1.4, 4.2.1 tot en met 4.2.5, 6.4.1 tot en met 6.4.4, hoofdstuk 7, met uitzondering van artikel 7.4.7 en met uitzondering van titel 6, de artikelen 8.1.1 tot en met 8.1.1d, 8.1.2, tweede lid, 8.1.3, eerste tot en met derde lid, 8.1.4 tot en met 8.2.1, 8.4.1, 8.4.2, 8.5.1, 8.5.2 en 9.1.2, alsmede de bepalingen vastgesteld in hoofdstuk 8a voor zover zij de instellingen betreffen, zijn regels voor openbare instellingen voor educatie en beroepsonderwijs.   
-2.   De bepalingen vastgesteld bij of krachtens de artikelen 1.3.6, 1.3.8, 1.3.9, 1.7.1, 2.1.9, 2.8.1 tot en met 2.8.3, 3.2.1, 4.1.1, 4.1.2, 4.1.4, 4.1.5, eerste lid, 4.1.6 tot en met 4.2.5, 6.4.1 tot en met 6.4.4, hoofdstuk 7, met uitzondering van artikel 7.4.7 en met uitzondering van titel 6, de artikelen 8.1.1 tot en met 8.1.1d, 8.1.2, eerste lid, 8.1.3 tot en met 8.2.1, 8.4.1, 8.4.2, 8.5.1, 8.5.2, 9.1.1, 9.1.3, eerste lid, 9.1.4, 9.1.7 en 9.1.8, alsmede de bepalingen vastgesteld in hoofdstuk 8a voor zover zij de instellingen betreffen, zijn voorwaarden voor bekostiging voor bijzondere instellingen voor educatie en beroepsonderwijs.  
+2.   De bepalingen vastgesteld bij of krachtens de artikelen 1.3.6, 1.3.8, 1.3.9, 1.7.1, 2.1.9, 2.8.1 tot en met 2.8.3, 3.2.1, 4.1.1, 4.1.2, 4.1.4, 4.2.1 tot en met 4.2.5, 6.4.1 tot en met 6.4.4, hoofdstuk 7, met uitzondering van artikel 7.4.7 en met uitzondering van titel 6, de artikelen 8.1.1 tot en met 8.1.1d, 8.1.2, eerste lid, 8.1.3 tot en met 8.2.1, 8.4.1, 8.4.2, 8.5.1, 8.5.2, 9.1.1, 9.1.3, eerste lid, 9.1.4, 9.1.7 en 9.1.8, alsmede de bepalingen vastgesteld in hoofdstuk 8a voor zover zij de instellingen betreffen, zijn voorwaarden voor bekostiging voor bijzondere instellingen voor educatie en beroepsonderwijs.  
 
 ### Titel  2  
 
@@ -1172,50 +1172,7 @@ Met het oog op de voortdurende verbetering van de professionaliteit van het pers
 
 ####Commissie van beroep
 
-### Artikel  4.1.5  
-
-####Beroepsmogelijkheid personeel bijzondere instellingen
-
-1.  Elke bijzondere instelling is aangesloten bij een commissie van beroep, waarbij door elk personeelslid van die instelling dat rechtstreeks in zijn belang is getroffen, beroep kan worden ingesteld tegen een beslissing, door het bevoegd gezag genomen, inhoudende:  
-
-a. een disciplinaire maatregel,  
-
-b. schorsing,  
-
-c. ontslag anders dan op eigen verzoek, voordat de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, is bereikt,  
-
-d. het direct of indirect onthouden van bevordering,  
-
-e. het verminderen van de omvang van de betrekking, of  
-
-f. de beëindiging van een verlengd tijdelijk dienstverband.     
-2.   Tijdens de behandeling door de commissie van beroep loopt geen verjaring met betrekking tot rechtsvorderingen ter zake van beslissingen die aan het oordeel van de commissie zijn onderworpen.  
-
-### Artikel  4.1.6  
-
-####Commissie van beroep
-
-1.  Een commissie van beroep strekt haar werkzaamheden uit over een of meer bijzondere instellingen.   
-2.   De commissie bestaat uit een even aantal gewone leden en evenveel plaatsvervangende leden. De bevoegde gezagsorganen en het personeel van de aangesloten instellingen kiezen elk de helft van het aantal gewone leden en plaatsvervangende leden. De gewone leden kiezen de voorzitter, tevens lid, en de plaatsvervangend voorzitter. De voorzitter, de plaatsvervangend voorzitter, de gewone leden en de plaatsvervangende leden worden benoemd voor een termijn van ten minste drie en ten hoogste vijf jaren. Zij zijn opnieuw benoembaar.   
-3.   De leden en de plaatsvervangende leden, alsmede de voorzitter en de plaatsvervangend voorzitter mogen niet behoren tot het bevoegd gezag noch deel uitmaken van het personeel van een aangesloten instelling.   
-4.   Op eigen verzoek wordt aan de leden en plaatsvervangende leden van de commissie van beroep ontslag verleend. Bij het bereiken van de leeftijd van zeventig jaar wordt hun ontslag verleend met ingang van de eerstvolgende maand. Zij worden ontslagen indien zij uit hoofde van ziekte of gebreken ongeschikt zijn hun functie te vervullen, alsmede indien zij bij onherroepelijk geworden rechterlijke uitspraak wegens misdrijf zijn veroordeeld. Alvorens het ontslag op grond van de derde volzin wordt verleend, wordt de betrokkene van het voornemen tot ontslag in kennis gesteld en wordt hem de gelegenheid gegeven zich ter zake te doen horen.   
-5.   De uitspraak van de commissie van beroep bindt het bevoegd gezag.   
-6.   De bevoegde gezagsorganen van de aangesloten instellingen stellen voor de commissie van beroep een beroepsreglement vast, dat erin voorziet dat een onpartijdig en onafhankelijk functioneren van de commissie is gewaarborgd. In het beroepsreglement worden geregeld:  
-
-a. de omvang van de commissie van beroep,  
-
-b. de zittingstermijn van de leden en plaatsvervangende leden van de commissie,  
-
-c. de rechtsgang bij de commissie van beroep, daaronder begrepen de inhoud en indiening van het beroepschrift, de behandeling ter zitting en de voorbereiding daarvan, de uitspraak alsmede de mogelijkheden van verzet, voorlopige voorziening en herziening van uitspraken, alsmede  
-
-d. de wijze waarop in het secretariaat wordt voorzien.     
-7.   Het beroepsreglement wordt niet gewijzigd dan nadat de commissie van beroep over de voorgenomen wijziging is gehoord.  
-
-### Artikel  4.1.7  
-
-####Inlichtingen
-
-Het bevoegd gezag en het personeel van de instelling verstrekken aan de commissie van beroep de inlichtingen die zij voor de uitvoering van haar taak nodig oordeelt. 
+Vervallen per 01-07-2015 
 
 ### Titel  2  
 
@@ -1346,12 +1303,6 @@ Het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven stelt jaarlijks
 ####Rechtspositie personeel kenniscentra beroepsonderwijs bedrijfsleven
 
 Artikel 4.1.2 is van overeenkomstige toepassing op de rechtspositie van het personeel van kenniscentra beroepsonderwijs bedrijfsleven, met dien verstande dat het gaat om kenniscentra beroepsonderwijs bedrijfsleven en de besturen daarvan in plaats van om instellingen en de bevoegde gezagsorganen daarvan. 
-
-### Artikel  4.3.3  
-
-####Beroepsmogelijkheid personeel kenniscentra beroepsonderwijs bedrijfsleven
-
-Op een kenniscentrum beroepsonderwijs bedrijfsleven zijn de artikelen 4.1.5, 4.1.6 en 4.1.7 van overeenkomstige toepassing, met dien verstande dat de desbetreffende commissie van beroep haar werkzaamheden uitstrekt over ten minste drie kenniscentra beroepsonderwijs bedrijfsleven. 
 
 ### Titel  4  
 

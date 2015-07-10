@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet op de Registeraccountants](../../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md) en de [Wet op de Accountants-Administratieconsulenten](../../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) te vervangen door de Wet op het accountantsberoep, waarin het Nederlands Instituut van Registeraccountants en de Nederlandse Orde van Accountants-Administratieconsulenten worden samengevoegd tot één Nederlandse beroepsorganisatie van accountants;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de Wet op de Registeraccountants en de Wet op de Accountants-Administratieconsulenten te vervangen door de Wet op het accountantsberoep, waarin het Nederlands Instituut van Registeraccountants en de Nederlandse Orde van Accountants-Administratieconsulenten worden samengevoegd tot één Nederlandse beroepsorganisatie van accountants;
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  1  
 
@@ -18,9 +18,9 @@ In deze wet en de daarop berustende bepalingen wordt, voor zover niet anders is 
 
 –  * accountant:* een Registeraccountant of Accountant-Administratieconsulent;  
 
-–  * accountantskamer:* de accountantskamer te Zwolle, bedoeld in [artikel 10 van de Wet tuchtrechtspraak accountants](../../../../../../wet/wet/tuchtrechtspraak/accountants/BWBR0024238/README.md);  
+–  * accountantskamer:* de accountantskamer te Zwolle, bedoeld in artikel 10 van de Wet tuchtrechtspraak accountants;  
 
-–  * accountantsorganisatie:* een accountantsorganisatie als bedoeld in [artikel 1, onderdeel a, van de Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md);  
+–  * accountantsorganisatie:* een accountantsorganisatie als bedoeld in artikel 1, onderdeel a, van de Wet toezicht accountantsorganisaties;  
 
 –  * accountantsregister:* het register, bedoeld in artikel 36, eerste lid, waarin de accountants zijn ingeschreven;  
 
@@ -32,7 +32,7 @@ In deze wet en de daarop berustende bepalingen wordt, voor zover niet anders is 
 
 –  *Onze Minister:* Onze Minister van Financiën;  
 
-–  * wettelijke controle:* een wettelijke controle als bedoeld in [artikel 1, onderdeel p, van de Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md).   
+–  * wettelijke controle:* een wettelijke controle als bedoeld in artikel 1, onderdeel p, van de Wet toezicht accountantsorganisaties.   
 
 ### Hoofdstuk  2  
 
@@ -44,7 +44,7 @@ In deze wet en de daarop berustende bepalingen wordt, voor zover niet anders is 
 
 ### Artikel  2  
 
-1.  Er is een Nederlandse beroepsorganisatie van accountants. De beroepsorganisatie is een openbaar lichaam als bedoeld in [artikel 134 van de Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md).   
+1.  Er is een Nederlandse beroepsorganisatie van accountants. De beroepsorganisatie is een openbaar lichaam als bedoeld in artikel 134 van de Grondwet.   
 2.  De beroepsorganisatie is gevestigd te Amsterdam.   
 3.  Accountants zijn lid van de beroepsorganisatie, tenzij artikel 39, tweede lid van toepassing is en de accountant een wens tot lidmaatschap niet schriftelijk aan het bestuur kenbaar heeft gemaakt.  
 
@@ -247,19 +247,19 @@ Het bestuur, de ledengroep en het ledengroepbestuur kunnen nadere voorschriften 
 
 ### Artikel  24  
 
-De beroepsorganisatie werkt samen met de Autoriteit Financiële Markten, voor zover dat noodzakelijk is ten behoeve van de uitoefening van het toezicht ingevolge de [Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md). 
+De beroepsorganisatie werkt samen met de Autoriteit Financiële Markten, voor zover dat noodzakelijk is ten behoeve van de uitoefening van het toezicht ingevolge de Wet toezicht accountantsorganisaties. 
 
 ### Artikel  25  
 
-1.  De beroepsorganisatie kan, in afwijking van [artikel 2:5 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), vertrouwelijke gegevens of inlichtingen verkregen bij de uitoefening van de ingevolge deze wet opgedragen taken, verstrekken aan: 
+1.  De beroepsorganisatie kan, in afwijking van artikel 2:5 van de Algemene wet bestuursrecht, vertrouwelijke gegevens of inlichtingen verkregen bij de uitoefening van de ingevolge deze wet opgedragen taken, verstrekken aan: 
 
 a. de Autoriteit Financiële Markten;  
 
-b. een organisatorisch verband van marktpartijen, dat zich ten doel stelt een doeltreffende bijdrage te leveren aan de uitvoering door de Autoriteit Financiële Markten van het toezicht op de naleving van de [Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) en daartoe met de Autoriteit Financiële Markten een convenant heeft afgesloten;  
+b. een organisatorisch verband van marktpartijen, dat zich ten doel stelt een doeltreffende bijdrage te leveren aan de uitvoering door de Autoriteit Financiële Markten van het toezicht op de naleving van de Wet toezicht accountantsorganisaties en daartoe met de Autoriteit Financiële Markten een convenant heeft afgesloten;  
 
 c. de accountantskamer; of  
 
-d. het College van Beroep voor het bedrijfsleven;   voor zover de verstrekking nodig is voor de vervulling van hun taak ingevolge de Wet toezicht accountantsorganisatie, of de [Wet tuchtrechtspraak accountants](../../../../../../wet/wet/tuchtrechtspraak/accountants/BWBR0024238/README.md).   
+d. het College van Beroep voor het bedrijfsleven;   voor zover de verstrekking nodig is voor de vervulling van hun taak ingevolge de Wet toezicht accountantsorganisatie, of de Wet tuchtrechtspraak accountants.   
 2.  Indien de beroepsorganisatie vertrouwelijke gegevens of inlichtingen op grond van het eerste lid heeft verstrekt aan een in dat lid bedoelde instantie en die instantie verzoekt om die gegevens of inlichtingen te mogen gebruiken voor een ander doel dan waarvoor zij zijn verstrekt, willigt de beroepsorganisatie dat verzoek slechts in: 
 
 a. indien het beoogde gebruik niet in strijd is met het eerste lid; of  
@@ -383,8 +383,8 @@ k. de datum van een doorhaling van een ingeschrevene.
 
 a. één of meerdere getuigschriften waaruit blijkt dat hij een opleiding als bedoeld in artikel 46, die passend is bij de door hem aangevraagde beroepstitel, met goed gevolg heeft afgerond, of een verklaring van vakbekwaamheid als bedoeld in artikel 54, eerste lid; en  
 
-b. een verklaring omtrent het gedrag op grond van de [Wet justitiële en strafvorderlijke gegevens](../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md).     
-3.  Op de voorbereiding van de beschikking op de aanvraag tot inschrijving is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+b. een verklaring omtrent het gedrag op grond van de Wet justitiële en strafvorderlijke gegevens.     
+3.  Op de voorbereiding van de beschikking op de aanvraag tot inschrijving is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
 4.  Bij ministeriële regeling kunnen regels worden gesteld over de gegevens die worden verstrekt bij de aanvraag tot inschrijving.  
 
 ### Artikel  39  
@@ -400,7 +400,7 @@ c. de aanvrager ingevolge een in kracht van gewijsde gegane rechterlijke uitspra
 d. indien de aanvrager ingevolge een rechterlijke uitspraak is ontzet van het recht het accountantsberoep uit te oefenen;  
 
 e. er, gelet op de antecedenten van de aanvrager, gegronde vrees bestaat dat de aanvrager zal handelen of nalaten in strijd met wettelijke voorschriften, de accountant betreffende, of dat zijn inschrijving in het accountantsregister op andere wijze de eer van de stand van accountants zal schaden.     
-2.  Het eerste lid, onderdeel e, is niet van toepassing op een aanvrager, die beschikt over een verklaring van vakbekwaamheid als bedoeld in artikel 54, eerste lid, indien hij zonder zich in Nederland te vestigen onderzoeken als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) bij wijze van dienstverlening wil verrichten, mits hij bevoegd is tot het wettelijk voorgeschreven onderzoek van jaarrekeningen in een lidstaat van de Europese Unie, anders dan Nederland, of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte (Trb. 1992, 132).  
+2.  Het eerste lid, onderdeel e, is niet van toepassing op een aanvrager, die beschikt over een verklaring van vakbekwaamheid als bedoeld in artikel 54, eerste lid, indien hij zonder zich in Nederland te vestigen onderzoeken als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek bij wijze van dienstverlening wil verrichten, mits hij bevoegd is tot het wettelijk voorgeschreven onderzoek van jaarrekeningen in een lidstaat van de Europese Unie, anders dan Nederland, of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte (Trb. 1992, 132).  
 
 ### Artikel  40  
 
@@ -419,7 +419,7 @@ e. er, gelet op de antecedenten van de aanvrager, gegronde vrees bestaat dat de 
 
 ### Artikel  42  
 
-1.  Ten aanzien van de uitoefening van zijn beroep is de accountant onderworpen aan tuchtrechtspraak op grond van de [Wet tuchtrechtspraak accountants](../../../../../../wet/wet/tuchtrechtspraak/accountants/BWBR0024238/README.md) ter zake van: 
+1.  Ten aanzien van de uitoefening van zijn beroep is de accountant onderworpen aan tuchtrechtspraak op grond van de Wet tuchtrechtspraak accountants ter zake van: 
 
 a. enig handelen of nalaten in strijd met het bij of krachtens deze wet bepaalde; en  
 
@@ -438,7 +438,7 @@ c. indien de ingeschrevene in een van de omstandigheden, genoemd in artikel 39, 
 
 d. ter tenuitvoerlegging van een daartoe strekkende tuchtrechtelijke maatregel;  
 
-e. ter uitvoering van een voorlopige voorziening als bedoeld in [artikel 41](../../../../../../wet/wet/tuchtrechtspraak/accountants/BWBR0024238/README.md) of [44 van de Wet tuchtrechtspraak accountants](../../../../../../wet/wet/tuchtrechtspraak/accountants/BWBR0024238/README.md);  
+e. ter uitvoering van een voorlopige voorziening als bedoeld in artikel 41 of 44 van de Wet tuchtrechtspraak accountants;  
 
 f. indien de ingeschrevene na de tenuitvoerlegging van een dwangbevel in gebreke blijft de jaarlijkse bijdrage, bedoeld in artikel 30, eerste lid, te voldoen.     
 2.  Doorhaling van de inschrijving leidt tot verlies van de betrekkingen binnen de beroepsorganisatie waarvoor het lidmaatschap een vereiste is.  
@@ -488,7 +488,7 @@ De beroepsorganisatie beoordeelt aan de hand van de vastgestelde eindtermen, bed
 
 a. het vaststellen van de eindtermen, met inachtneming van de vakgebieden, bedoeld in artikel 46, en de beroepsprofielen, bedoeld in artikel 19, tweede lid, onderdeel k;  
 
-b. het aanwijzen van opleidingen die geheel of gedeeltelijk voldoen aan de in onderdeel a bedoelde eindtermen, met uitzondering van de eindtermen die betrekking hebben op de praktijkopleiding, voor zover deze opleidingen niet zijn geaccrediteerd overeenkomstig [artikel 5a.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of niet de toets nieuwe opleiding overeenkomstig [artikel 5a.11 van de Wet op het hoger en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) met positief gevolg hebben ondergaan;  
+b. het aanwijzen van opleidingen die geheel of gedeeltelijk voldoen aan de in onderdeel a bedoelde eindtermen, met uitzondering van de eindtermen die betrekking hebben op de praktijkopleiding, voor zover deze opleidingen niet zijn geaccrediteerd overeenkomstig artikel 5a.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek of niet de toets nieuwe opleiding overeenkomstig artikel 5a.11 van de Wet op het hoger en wetenschappelijk onderzoek met positief gevolg hebben ondergaan;  
 
 c. het toetsen of de praktijkopleidingen voldoen aan de eindtermen, bedoeld in onderdeel a die gelden voor de praktijkopleiding.     
 3.  De commissie maakt de vastgestelde eindtermen bekend door plaatsing in de Staatscourant.  
@@ -543,13 +543,13 @@ d. met goed gevolg een examen heeft afgelegd waarbij de kennis van de betrokkene
 
 1.  Met het toezicht op de naleving van artikel 41, tweede lid, van deze wet, zijn belast de bij besluit van Onze Minister aangewezen personen.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
-3.  De toezichthouder beschikt niet over de bevoegdheden, genoemd in de [artikelen 5:18](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+3.  De toezichthouder beschikt niet over de bevoegdheden, genoemd in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht.  
 
 ### Artikel  56  
 
-1.  Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhaving van artikel 41, tweede lid, van deze wet en [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  Onze Minister is bevoegd tot oplegging van een bestuurlijke boete wegens overtreding van artikel 41, tweede lid, van deze wet en [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-3.  De op grond van het tweede lid op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).  
+1.  Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhaving van artikel 41, tweede lid, van deze wet en artikel 5:20 van de Algemene wet bestuursrecht.   
+2.  Onze Minister is bevoegd tot oplegging van een bestuurlijke boete wegens overtreding van artikel 41, tweede lid, van deze wet en artikel 5:20 van de Algemene wet bestuursrecht.   
+3.  De op grond van het tweede lid op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de tweede categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.  
 
 ### §  8.2  
 
@@ -563,7 +563,7 @@ Vervallen per 01-01-2013
 
 ### Artikel  58  
 
-De [Wet op de Registeraccountants](../../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md), de [Wet op de Accountants-Administratieconsulenten](../../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) en de [Wet van 6 augustus 1993, tot wijziging van de Wet op de Registeraccountants en de Wet op de Accountants-Administratieconsulenten (wijziging in verband met de invoering van de Achtste Richtlijn van de Raad van de Europese Gemeenschappen inzake het vennootschapsrecht)](../../../../../../wet/wijzigingswet/wet/op/de/registeraccountants/en/wet/op/de/etc/BWBR0006107/README.md) (Stb. 1993, 465) worden ingetrokken. 
+De Wet op de Registeraccountants, de Wet op de Accountants-Administratieconsulenten en de Wet van 6 augustus 1993, tot wijziging van de Wet op de Registeraccountants en de Wet op de Accountants-Administratieconsulenten (wijziging in verband met de invoering van de Achtste Richtlijn van de Raad van de Europese Gemeenschappen inzake het vennootschapsrecht) (Stb. 1993, 465) worden ingetrokken. 
 
 ### Artikel  59  
 
@@ -632,11 +632,11 @@ b. het vaststellen van de begroting.
 
 ### Artikel  72  
 
-Degenen die op het moment van de inwerkingtreding van deze wet zijn ingeschreven in de registers, bedoeld in [artikel 55, eerste lid, van de Wet op de Registeraccountants](../../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md) of [artikel 36, eerste lid van de Wet op de Accountant-Administratieconsulenten](../../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md), zoals die artikelen luidden op het moment van inwerkingtreding van artikel 58 van deze wet, worden vanaf dat moment geacht op overeenkomstige wijze te zijn ingeschreven in het accountantsregister. Artikel 36, tweede en derde lid, is van overeenkomstige toepassing. 
+Degenen die op het moment van de inwerkingtreding van deze wet zijn ingeschreven in de registers, bedoeld in artikel 55, eerste lid, van de Wet op de Registeraccountants of artikel 36, eerste lid van de Wet op de Accountant-Administratieconsulenten, zoals die artikelen luidden op het moment van inwerkingtreding van artikel 58 van deze wet, worden vanaf dat moment geacht op overeenkomstige wijze te zijn ingeschreven in het accountantsregister. Artikel 36, tweede en derde lid, is van overeenkomstige toepassing. 
 
 ### Artikel  73  
 
-De [Wet op de Registeraccountants](../../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md), de [Wet op de Accountants-Administratieconsulenten](../../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) en de daarop berustende bepalingen, blijven van kracht op handelingen en gedragingen van natuurlijke en rechtspersonen, die hebben plaatsgevonden voorafgaand aan het intrekken of vervallen van die bepalingen. 
+De Wet op de Registeraccountants, de Wet op de Accountants-Administratieconsulenten en de daarop berustende bepalingen, blijven van kracht op handelingen en gedragingen van natuurlijke en rechtspersonen, die hebben plaatsgevonden voorafgaand aan het intrekken of vervallen van die bepalingen. 
 
 ### Artikel  74  
 

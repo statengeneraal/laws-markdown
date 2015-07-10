@@ -26,18 +26,18 @@ De bestuurders van een formeel buitenlandse vennootschap zijn verplicht ter insc
 
 ### Artikel  4  
 
-1.  Ten aanzien van een formeel buitenlandse vennootschap zijn de [artikelen 9](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [216, derde lid](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en [248 van boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van overeenkomstige toepassing ingeval van uitkeringen aan aandeelhouders, inkoop van aandelen en vermindering van het geplaatste kapitaal met terugbetaling op aandelen.   
+1.  Ten aanzien van een formeel buitenlandse vennootschap zijn de artikelen 9, 216, derde lid, en 248 van boek 2 van het Burgerlijk Wetboek van overeenkomstige toepassing ingeval van uitkeringen aan aandeelhouders, inkoop van aandelen en vermindering van het geplaatste kapitaal met terugbetaling op aandelen.   
 2.  De bestuurders zijn naast de vennootschap hoofdelijk aansprakelijk voor elke tijdens hun bestuur verrichte rechtshandeling waardoor de vennootschap wordt verbonden in het tijdvak voordat is voldaan aan artikel 2, eerste lid.  
 
 ### Artikel  5  
 
-1.  Onverminderd het tweede lid is op een formeel buitenlandse vennootschap [artikel 10 van boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van overeenkomstige toepassing. De daarin bedoelde verplichtingen rusten op de bestuurders van de vennootschap.    
-2.  De bestuurders zijn verplicht jaarlijks binnen vijf maanden na afloop van het boekjaar, behoudens verlenging van deze termijn met ten hoogste zes maanden krachtens een bevoegd, op grond van bijzondere omstandigheden genomen besluit, een jaarrekening en een jaarverslag op te maken. Op de jaarrekening, het jaarverslag en de overige gegevens is [titel 9 van boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van overeenkomstige toepassing, met dien verstande dat de openbaarmaking ingevolge [artikel 394 van dat boek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) geschiedt door nederlegging ten kantore van het handelsregister, bedoeld in artikel 2, tweede lid.    
+1.  Onverminderd het tweede lid is op een formeel buitenlandse vennootschap artikel 10 van boek 2 van het Burgerlijk Wetboek van overeenkomstige toepassing. De daarin bedoelde verplichtingen rusten op de bestuurders van de vennootschap.    
+2.  De bestuurders zijn verplicht jaarlijks binnen vijf maanden na afloop van het boekjaar, behoudens verlenging van deze termijn met ten hoogste zes maanden krachtens een bevoegd, op grond van bijzondere omstandigheden genomen besluit, een jaarrekening en een jaarverslag op te maken. Op de jaarrekening, het jaarverslag en de overige gegevens is titel 9 van boek 2 van het Burgerlijk Wetboek van overeenkomstige toepassing, met dien verstande dat de openbaarmaking ingevolge artikel 394 van dat boek geschiedt door nederlegging ten kantore van het handelsregister, bedoeld in artikel 2, tweede lid.    
 3.  De bestuurders zijn verplicht ieder kalenderjaar vóór 1 april van dat jaar ten kantore van het handelsregister neer te leggen een bewijs van inschrijving in het register waar de vennootschap krachtens het op haar toepasselijke recht moet zijn ingeschreven. Het bewijs mag niet eerder dan vier weken voor de datum van nederlegging zijn afgegeven.   
 
 ### Artikel  6  
 
-Ten aanzien van een formeel buitenlandse vennootschap zijn de [artikelen 249](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [260](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [261 van boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van overeenkomstige toepassing.
+Ten aanzien van een formeel buitenlandse vennootschap zijn de artikelen 249, 260 en 261 van boek 2 van het Burgerlijk Wetboek van overeenkomstige toepassing.
 
 ### Artikel  7  
 

@@ -20,9 +20,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 *centraal instituut:* als zodanig door Onze Minister aangewezen rechtspersoon;  
 
-*effect:* financieel instrument als bedoeld in onderdeel a, b of c van de definitie van financieel instrument in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en een ander financieel instrument waarvan het centraal instituut heeft bepaald dat het tot een girodepot kan behoren;  
+*effect:* financieel instrument als bedoeld in onderdeel a, b of c van de definitie van financieel instrument in artikel 1:1 van de Wet op het financieel toezicht en een ander financieel instrument waarvan het centraal instituut heeft bepaald dat het tot een girodepot kan behoren;  
 
-*intermediair:* aangesloten instelling, beleggingsonderneming of bank in de zin van [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) waaraan het op grond van die wet is toegestaan beleggingsdiensten te verlenen respectievelijk het bedrijf van bank uit te oefenen en die in Nederland ten name van cliënten rekeningen in effecten administreert;  
+*intermediair:* aangesloten instelling, beleggingsonderneming of bank in de zin van artikel 1:1 van de Wet op het financieel toezicht waaraan het op grond van die wet is toegestaan beleggingsdiensten te verlenen respectievelijk het bedrijf van bank uit te oefenen en die in Nederland ten name van cliënten rekeningen in effecten administreert;  
 
 *Onze Minister:* Onze Minister van Financiën;  
 
@@ -64,7 +64,7 @@ b. ten name van een intermediair worden bewaard door een instelling in het buite
 
 ### Artikel  8a  
 
-Tot een verzameldepot en een girodepot kunnen niet behoren effecten op naam voor de levering waarvan een notariële akte is voorgeschreven en waarvan tevens de overdraagbaarheid bij de statuten respectievelijk de voorwaarden van uitgifte is beperkt of uitgesloten, tenzij deze zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit als bedoeld in artikel 1:1 van de Wet op het financieel toezicht als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). 
+Tot een verzameldepot en een girodepot kunnen niet behoren effecten op naam voor de levering waarvan een notariële akte is voorgeschreven en waarvan tevens de overdraagbaarheid bij de statuten respectievelijk de voorwaarden van uitgifte is beperkt of uitgesloten, tenzij deze zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit als bedoeld in artikel 1:1 van de Wet op het financieel toezicht als bedoeld in artikel 1:1 van de Wet op het financieel toezicht. 
 
 ### Artikel  8b  
 
@@ -103,7 +103,7 @@ f. alle overige goederen die geacht moeten worden in de plaats te zijn getreden 
 
 1.  De intermediair is belast met het beheer van het verzameldepot.   
 2.   Hij kan tegenover derden de rechten van degenen aan wie het verzameldepot toebehoort, uitoefenen, indien dit voor een goed beheer dienstig kan zijn.   
-3.   Het tweede lid is niet van toepassing op het recht tot bijeenroeping van een vergadering van aandeelhouders of houders van andere effecten, tot het bijwonen van en het woordvoeren in een zodanige vergadering, tot het uitoefenen van stemrecht en tot het doen instellen van een onderzoek naar het beleid en de gang van zaken van een rechtspersoon als bedoeld in [artikel 345 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+3.   Het tweede lid is niet van toepassing op het recht tot bijeenroeping van een vergadering van aandeelhouders of houders van andere effecten, tot het bijwonen van en het woordvoeren in een zodanige vergadering, tot het uitoefenen van stemrecht en tot het doen instellen van een onderzoek naar het beleid en de gang van zaken van een rechtspersoon als bedoeld in artikel 345 van Boek 2 van het Burgerlijk Wetboek.   
 4.  De intermediair is bevoegd tot een door hem gehouden verzameldepot behorende toonderstukken, te vervangen door een door de instelling die de effecten heeft uitgegeven terzake van die effecten af te geven verzamelbewijs. Op het verzamelbewijs wordt, indien van toepassing, vermeld dat de intermediair door een aantekening op het verzamelbewijs te plaatsen dit mede betrekking kan doen hebben op andere effecten van dezelfde soort, en kan bewerkstelligen dat het verzamelbewijs niet langer betrekking heeft op een of meer effecten waarop het voorafgaand aan de plaatsing van de aantekening betrekking had.   
 5.  De intermediair is bevoegd effecten aan toonder als bedoeld in het vierde lid op naam te doen stellen.   
 6.  De intermediair oefent de in het vierde en vijfde lid genoemde bevoegdheden uitsluitend uit met instemming van de instelling die de effecten heeft uitgegeven. 
@@ -163,7 +163,7 @@ Voor zover een bijschrijving van effecten geschiedt tot een grotere hoeveelheid 
 
 ### Artikel  22  
 
-Onverminderd het bepaalde in [artikel 54 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), is de pandhouder in geval van verzuim van de schuldenaar bevoegd effecten van de desbetreffende soort en hoeveelheid, overeenkomstig de op de uitoefening van pandrecht op de betreffende soort effecten toepasselijke wettelijke bepalingen, te doen verkopen en vervolgens het daarmee corresponderende aandeel in het verzameldepot te doen leveren door bijschrijving als in deze wet bedoeld. 
+Onverminderd het bepaalde in artikel 54 van Boek 7 van het Burgerlijk Wetboek, is de pandhouder in geval van verzuim van de schuldenaar bevoegd effecten van de desbetreffende soort en hoeveelheid, overeenkomstig de op de uitoefening van pandrecht op de betreffende soort effecten toepasselijke wettelijke bepalingen, te doen verkopen en vervolgens het daarmee corresponderende aandeel in het verzameldepot te doen leveren door bijschrijving als in deze wet bedoeld. 
 
 ### Artikel  23  
 
@@ -191,7 +191,7 @@ b. ter opname in een verzameldepot van een andere intermediair of, indien de ins
 ### Artikel  27  
 
 1.   De verdeling van een verzameldepot dat niet toereikend is om aan iedere deelgenoot de hoeveelheid effecten, waarvoor hij deelgenoot is, te leveren, geschiedt overeenkomstig de volgende regels.   
-2.   Aan ieder der deelgenoten worden naar evenredigheid van zijn aandeel zoveel effecten geleverd als in verband met de rechten van de andere deelgenoten mogelijk is. Blijft een hoeveelheid effecten over die voor een zodanige verdeling te klein is, dan worden zij, tenzij de deelgenoten anders overeenkomen en voor zover mogelijk, verkocht op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en wordt de opbrengst onder de deelgenoten naar evenredigheid van ieders aandeel verdeeld.   
+2.   Aan ieder der deelgenoten worden naar evenredigheid van zijn aandeel zoveel effecten geleverd als in verband met de rechten van de andere deelgenoten mogelijk is. Blijft een hoeveelheid effecten over die voor een zodanige verdeling te klein is, dan worden zij, tenzij de deelgenoten anders overeenkomen en voor zover mogelijk, verkocht op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is als bedoeld in artikel 1:1 van de Wet op het financieel toezicht en wordt de opbrengst onder de deelgenoten naar evenredigheid van ieders aandeel verdeeld.   
 3.   Andere tot het verzameldepot behorende goederen worden op de daartoe meest geschikte wijze te gelde gemaakt en de opbrengst wordt onder de deelgenoten naar evenredigheid van ieders aandeel verdeeld.  
 
 ### Artikel  28  
@@ -223,8 +223,8 @@ Degene die overeenkomstig artikel 12, eerste lid, een hoeveelheid effecten in be
 
 ### Artikel  33  
 
-1.  In geval van faillissement van de intermediair is de curator belast met het beheer van het verzameldepot. Hij brengt het verzameldepot tot verdeling met inachtneming van de bepalingen van deze wet. Indien het bedrijf van de gefailleerde instelling overeenkomstig [artikel 98 van de Faillissementswet](../../../../../wet/faillissementswet/BWBR0001860/README.md) wordt voortgezet, is de curator bevoegd tot verdeling van het verzameldepot over te gaan.   
-2.  Het eerste lid is van overeenkomstige toepassing ingeval de schuldsaneringsregeling natuurlijke personen ten aanzien van de intermediair van toepassing is, met dien verstande dat in de plaats van [artikel 98 van de Faillissementswet](../../../../../wet/faillissementswet/BWBR0001860/README.md) wordt gelezen [artikel 311 van die wet](../../../../../wet/faillissementswet/BWBR0001860/README.md).   
+1.  In geval van faillissement van de intermediair is de curator belast met het beheer van het verzameldepot. Hij brengt het verzameldepot tot verdeling met inachtneming van de bepalingen van deze wet. Indien het bedrijf van de gefailleerde instelling overeenkomstig artikel 98 van de Faillissementswet wordt voortgezet, is de curator bevoegd tot verdeling van het verzameldepot over te gaan.   
+2.  Het eerste lid is van overeenkomstige toepassing ingeval de schuldsaneringsregeling natuurlijke personen ten aanzien van de intermediair van toepassing is, met dien verstande dat in de plaats van artikel 98 van de Faillissementswet wordt gelezen artikel 311 van die wet.   
 
 ### Hoofdstuk  3  
 
@@ -258,7 +258,7 @@ d. alle overige goederen die geacht moeten worden in de plaats te zijn getreden 
 
 1.  Het centraal instituut is belast met het beheer van de girodepots.   
 2.   Het centraal instituut kan tegenover derden de rechten van degenen aan wie een girodepot toebehoort, uitoefenen, indien dit voor een goed beheer dienstig kan zijn.   
-3.   Het tweede lid is niet van toepassing op het recht tot bijeenroeping van een vergadering van aandeelhouders of houders van andere effecten, tot het bijwonen van en het woord voeren in een zodanige vergadering, tot het uitoefenen van stemrecht en tot het doen instellen van een onderzoek naar het beleid en de gang van zaken van een rechtspersoon, als bedoeld in [artikel 345 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+3.   Het tweede lid is niet van toepassing op het recht tot bijeenroeping van een vergadering van aandeelhouders of houders van andere effecten, tot het bijwonen van en het woord voeren in een zodanige vergadering, tot het uitoefenen van stemrecht en tot het doen instellen van een onderzoek naar het beleid en de gang van zaken van een rechtspersoon, als bedoeld in artikel 345 van Boek 2 van het Burgerlijk Wetboek.   
 4.  Het centraal instituut is bevoegd effecten aan toonder die tot een girodepot behoren te vervangen door een verzamelbewijs. Het centraal instituut kan bepalen dat in de tekst van een aldus door hem te verkrijgen verzamelbewijs een regeling is opgenomen als bedoeld in het vijfde lid.   
 5.  Indien in de tekst van een verzamelbewijs dat tot een girodepot behoort een daartoe strekkende regeling is opgenomen, kan het centraal instituut door een aantekening op het stuk te plaatsen dit mede betrekking doen hebben op een of meer andere effecten van dezelfde soort, dan wel bewerkstelligen dat het stuk niet langer betrekking heeft op een of meer van de effecten waarop het voorafgaand aan de plaatsing van de aantekening betrekking had.   
 6.  Het centraal instituut is bevoegd tot een girodepot behorende effecten die aan toonder luiden, op naam te doen stellen.   
@@ -350,7 +350,7 @@ Voor de toepassing van het ingevolge dit hoofdstuk bepaalde wordt verstaan onder
 
 a. *effecten met een aandelenkarakter:*
 
-1°. verhandelbare aandelen als bedoeld in [artikel 79, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+1°. verhandelbare aandelen als bedoeld in artikel 79, eerste lid, van Boek 2 van het Burgerlijk Wetboek;  
 
 2°. verhandelbare aandelen die zijn uitgegeven door een rechtspersoon, opgericht naar het recht van een andere staat dan Nederland, die gelijk te stellen zijn met aandelen als bedoeld onder 1°;  
 
@@ -362,9 +362,9 @@ c.*aandeelhouder:*
 
 1°. degene die voor eigen rekening een tegoed, luidend in effecten met een aandelenkarakter aanhoudt bij een aangesloten instelling, intermediair of instelling in het buitenland, of  
 
-2°. beheerder van een belegginginstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).    
+2°. beheerder van een belegginginstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.    
 
-d.  *uitgevende instelling:* naamloze vennootschap naar Nederlands recht of een rechtspersoon opgericht naar het recht van een andere staat dan Nederland, niet zijnde een beleggingsinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt waarvoor een vergunning als bedoeld in [artikel 5:26, eerste lid, van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is verleend, of op een multilaterale handelsfaciliteit waarvoor een vergunning als bedoeld in [artikel 2:96 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is verleend.   
+d.  *uitgevende instelling:* naamloze vennootschap naar Nederlands recht of een rechtspersoon opgericht naar het recht van een andere staat dan Nederland, niet zijnde een beleggingsinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt waarvoor een vergunning als bedoeld in artikel 5:26, eerste lid, van de Wet op het financieel toezicht is verleend, of op een multilaterale handelsfaciliteit waarvoor een vergunning als bedoeld in artikel 2:96 van de Wet op het financieel toezicht is verleend.   
 
 ### Artikel  49b  
 
@@ -376,7 +376,7 @@ b. een aangesloten instelling of intermediair van wie de uitgevende instelling w
 
 c. een instelling in het buitenland van wie de uitgevende instelling weet of redelijkerwijs mag aannemen dat zij, beroepsmatig en anders dan als aandeelhouder, door de uitgevende instelling of met haar medewerking uitgegeven effecten met een aandelenkarakter administreert of aanhoudt, schriftelijk verzoeken tot verstrekking van de naam, het adres, het tegoed luidend in zodanige effecten en, indien aanwezig, het emailadres van iedere cliënt voor wie zij een tegoed luidend in effecten met een aandelenkarakter administreert of aanhoudt alsmede van het tegoed van iedere cliënt luidend in zodanige effecten dat bij de instelling wordt aangehouden; of  
 
-d. een bewaarder van een beleggingsinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van wie de uitgevende instelling weet of redelijkerwijs mag aannemen dat hij door de uitgevende instelling of met haar medewerking uitgegeven effecten met een aandelenkarakter administreert of aanhoudt, schriftelijk verzoeken tot verstrekking van de naam, het adres en, indien aanwezig, het emailadres van de beheerder van die beleggingsinstelling alsmede van het tegoed van de beheerder luidend in zodanige effecten dat door de bewaarder wordt bewaard.     
+d. een bewaarder van een beleggingsinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht van wie de uitgevende instelling weet of redelijkerwijs mag aannemen dat hij door de uitgevende instelling of met haar medewerking uitgegeven effecten met een aandelenkarakter administreert of aanhoudt, schriftelijk verzoeken tot verstrekking van de naam, het adres en, indien aanwezig, het emailadres van de beheerder van die beleggingsinstelling alsmede van het tegoed van de beheerder luidend in zodanige effecten dat door de bewaarder wordt bewaard.     
 2.  Degene tot wie het verzoek als bedoeld in het eerste lid zich richt, verstrekt geen informatie over aandeelhouders die elk minder dan een tweehonderdste deel van het geplaatste kapitaal van een uitgevende instelling vertegenwoordigen.   
 3.  De uitgevende instelling doet een verzoek als bedoeld in het eerste lid alleen in een periode vanaf zestig dagen tot en met de dag van een algemene vergadering van aandeelhouders. De uitgevende instelling vermeldt in het verzoek de peildatum waarop het verzoek, bedoeld in het eerste lid, is gericht.   
 4.  Degene tot wie het verzoek, bedoeld in het eerste lid, is gericht, beantwoordt dit binnen drie werkdagen na ontvangst door middel van verstrekking van de verzochte gegevens of een verklaring dat hij geen door of met medewerking van de verzoeker uitgegeven effecten met een aandelenkarakter administreert of aanhoudt. Indien de geadresseerde wegens omstandigheden die buiten zijn macht liggen niet in staat is tot beantwoording binnen de genoemde termijn informeert hij de verzoeker daarover binnen drie werkdagen na ontvangst van het verzoek, onder vermelding van de reden en de termijn waarbinnen het verzoek beantwoord zal worden. De termijn bedraagt maximaal zeven werkdagen gerekend vanaf het moment van ontvangst van het verzoek.   
@@ -397,7 +397,7 @@ b. die van zodanige aard is dat verzending naar maatstaven van redelijkheid en b
 5.  De uitgevende instelling plaatst informatie die zij uit eigen beweging of op schriftelijk verzoek van een aandeelhouder heeft verzonden onverwijld na verzending op haar website. De uitgevende instelling houdt de informatie gedurende tenminste een jaar op de website toegankelijk.   
 6.  Voor de toepassing van dit artikel wordt als aandeelhouder beschouwd degene die aandeelhouder is op de peildatum die is vermeld in het laatst gedane verzoek, bedoeld in artikel 49b, eerste lid.   
 7.  Indien door de aandeelhouder, bedoeld in het zesde lid, een overeenkomst is gesloten met een derde op grond waarvan deze derde naar eigen goeddunken stemmen kan uitbrengen en de aandeelhouder informatie van de uitgevende instelling ontvangt, verstrekt hij de naam, het adres en het emailadres van de derde aan de uitgevende instelling en stuurt hij de informatie die van de uitgevende instelling is ontvangen onverwijld door aan de derde.   
-8.  Indien door de aandeelhouder, bedoeld in het zesde lid, toepassing is gegeven aan [artikel 88, derde lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), onderscheidenlijk [89, derde lid, van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en de aandeelhouder informatie van de uitgevende instelling ontvangt, verstrekt hij de naam, het adres en het emailadres van de vruchtgebruiker of pandhouder aan de uitgevende instelling en stuurt hij de informatie die van de uitgevende instelling is ontvangen onverwijld door aan de vruchtgebruiker of pandhouder.   
+8.  Indien door de aandeelhouder, bedoeld in het zesde lid, toepassing is gegeven aan artikel 88, derde lid, onderscheidenlijk 89, derde lid, van boek 2 van het Burgerlijk Wetboek en de aandeelhouder informatie van de uitgevende instelling ontvangt, verstrekt hij de naam, het adres en het emailadres van de vruchtgebruiker of pandhouder aan de uitgevende instelling en stuurt hij de informatie die van de uitgevende instelling is ontvangen onverwijld door aan de vruchtgebruiker of pandhouder.   
 9.  Bij ministeriële regeling kunnen regels worden gesteld voor de wijze waarop het in het eerste lid bedoelde verzoek wordt gedaan en de wijze waarop een uitgevende instelling hieraan uitvoering geeft.  
 
 ### Artikel  49d  
@@ -420,7 +420,7 @@ b. die van zodanige aard is dat verzending naar maatstaven van redelijkheid en b
 
 1.  Indien ten aanzien vaneffecten een verzameldepot kan bestaan, en zodanige effecten op dat tijdstip worden bewaard door een bewaarbedrijf, is dit bewaarbedrijf bevoegd deze effecten aan de bewaargever uit te leveren door ze namens hem in bewaring te geven aan de met het bewaarbedrijf verbonden intermediair.   
 2.  Beperkte rechten die rusten op de vordering van de bewaargever op hetbewaarbedrijf tot uitlevering van niet afzonderlijk voor de bewaargever bewaarde effecten, komen te rusten op de overeenkomstig het eerste lid uitgeleverde effecten. Is op een zodanige vordering beslag gelegd, dan is het bewaarbedrijf niet bevoegd tot uitlevering van effecten overeenkomstig het eerste lid.   
-3.  In dit artikel wordt onder een bewaarbedrijf verstaan een rechtspersoon die krachtens haar statuten uitsluitend of hoofdzakelijk ten doel heeft de bewaring van financiële instrumenten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  
+3.  In dit artikel wordt onder een bewaarbedrijf verstaan een rechtspersoon die krachtens haar statuten uitsluitend of hoofdzakelijk ten doel heeft de bewaring van financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.  
 
 ### Artikel  50c  
 

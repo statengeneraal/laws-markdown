@@ -35,9 +35,9 @@ c.reglement: het reglement, bedoeld in artikel 16.
 
 ### Artikel  2a  
 
-####Toepassing [Kaderwet zbo's](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md)
+####Toepassing Kaderwet zbo's
 
-Op de organisatie is de [Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing met uitzondering van [artikel 15 van die wet](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md). 
+Op de organisatie is de Kaderwet zelfstandige bestuursorganen van toepassing met uitzondering van artikel 15 van die wet. 
 
 ### Artikel  3  
 
@@ -68,8 +68,8 @@ Op de organisatie is de [Kaderwet zelfstandige bestuursorganen](../../../../../.
 ####Samenstelling algemeen bestuur
 
 1.  Het algemeen bestuur bestaat uit een voorzitter en ten hoogste zes overige leden. Het aantal leden wordt door Onze Minister vastgesteld.   
-2.  Onverminderd [artikel 12 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), worden de voorzitter en de overige leden van het algemeen bestuur benoemd door Onze Minister, het algemeen bestuur gehoord. De benoeming geschiedt voor een termijn van ten hoogste vijf jaren. De leden kunnen éénmaal opnieuw worden benoemd.   
-3.   Onze Minister stelt de Koninklijke Nederlandse Akademie van Wetenschappen en de universiteiten, genoemd in de bijlage bij de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), gezamenlijk, in de gelegenheid van hun gevoelens te doen blijken over een voornemen tot benoeming als bedoeld in het tweede lid.   
+2.  Onverminderd artikel 12 van de Kaderwet zelfstandige bestuursorganen, worden de voorzitter en de overige leden van het algemeen bestuur benoemd door Onze Minister, het algemeen bestuur gehoord. De benoeming geschiedt voor een termijn van ten hoogste vijf jaren. De leden kunnen éénmaal opnieuw worden benoemd.   
+3.   Onze Minister stelt de Koninklijke Nederlandse Akademie van Wetenschappen en de universiteiten, genoemd in de bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek, gezamenlijk, in de gelegenheid van hun gevoelens te doen blijken over een voornemen tot benoeming als bedoeld in het tweede lid.   
 4.   Het lidmaatschap van het algemeen bestuur is onverenigbaar met dat van een gebiedsbestuur. Een lid van het personeel kan niet worden benoemd tot lid van het algemeen bestuur.  
 
 ### Artikel  7  
@@ -121,7 +121,7 @@ Het algemeen bestuur voert het personeelsbeleid en personeelsbeheer, daar onder 
 
 ####Rechtspositie personeel
 
-Voor zover bij algemene maatregel van bestuur niet anders is bepaald, is op het personeel van de organisatie het bij of krachtens [artikel 4.5. van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) bepaalde van overeenkomstige toepassing. 
+Voor zover bij algemene maatregel van bestuur niet anders is bepaald, is op het personeel van de organisatie het bij of krachtens artikel 4.5. van de Wet op het hoger onderwijs en wetenschappelijk onderzoek bepaalde van overeenkomstige toepassing. 
 
 ### §  5  
 
@@ -137,7 +137,7 @@ Het bestuur en de inrichting van de organisatie alsmede de bestuurlijke betrekki
 
 ####Vaststelling reglement
 
-Onverminderd [artikel 11 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) wordt het reglement vastgesteld door het algemeen bestuur.
+Onverminderd artikel 11 van de Kaderwet zelfstandige bestuursorganen wordt het reglement vastgesteld door het algemeen bestuur.
 
 ### Hoofdstuk  III  
 
@@ -211,25 +211,25 @@ Het algemeen bestuur is belast met het doelmatig beheer van de financiën en de 
 ####Begroting
 
 1.  Het algemeen bestuur zendt jaarlijks voor 1 november aan Onze Minister de begroting voor het daaropvolgende jaar.   
-2.  Onverminderd de [artikelen 26 tot en met 30 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), is in de begroting een allocatie van middelen opgenomen die in overeenstemming is met het instellingsplan, bedoeld in artikel 18. In de begroting wordt rekening gehouden met de voorstellen van de gebiedsbesturen. 
+2.  Onverminderd de artikelen 26 tot en met 30 van de Kaderwet zelfstandige bestuursorganen, is in de begroting een allocatie van middelen opgenomen die in overeenstemming is met het instellingsplan, bedoeld in artikel 18. In de begroting wordt rekening gehouden met de voorstellen van de gebiedsbesturen. 
 
 ### Artikel  24  
 
 ####Jaarverslag
 
-Onverminderd [artikel 18 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) geeft het jaarverslag aan in hoeverre de doelstellingen uit het instellingsplan, bedoeld in artikel 18, zijn verwezenlijkt. 
+Onverminderd artikel 18 van de Kaderwet zelfstandige bestuursorganen geeft het jaarverslag aan in hoeverre de doelstellingen uit het instellingsplan, bedoeld in artikel 18, zijn verwezenlijkt. 
 
 ### Artikel  25  
 
 ####Jaarrekening
 
-De goedkeuring, bedoeld in [artikel 34, derde lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), kan tevens worden onthouden op de grond dat de jaarrekening naar het oordeel van Onze Minister niet of niet voldoende in overeenstemming is met het instellingsplan, bedoeld in artikel 18. [Artikel 10:30 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.
+De goedkeuring, bedoeld in artikel 34, derde lid, van de Kaderwet zelfstandige bestuursorganen, kan tevens worden onthouden op de grond dat de jaarrekening naar het oordeel van Onze Minister niet of niet voldoende in overeenstemming is met het instellingsplan, bedoeld in artikel 18. Artikel 10:30 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.
 
 ### Artikel  26  
 
 ####Aanvullende eis jaarrekening
 
-Onverminderd [artikel 35 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) kan Onze Minister, indien uitgaven zijn geschied in strijd met het bepaalde bij of krachtens de wet, dan wel indien werkzaamheden ten behoeve waarvan de rijksbijdrage is verleend, niet behoorlijk zijn uitgevoerd of de rijksbijdrage ondoelmatig is aangewend, bepalen dat de daarmee gemoeide bedragen in mindering worden gebracht op de rijksbijdrage. Hij maakt dit binnen een jaar na ontvangst van de jaarrekening bekend aan het algemeen bestuur.
+Onverminderd artikel 35 van de Kaderwet zelfstandige bestuursorganen kan Onze Minister, indien uitgaven zijn geschied in strijd met het bepaalde bij of krachtens de wet, dan wel indien werkzaamheden ten behoeve waarvan de rijksbijdrage is verleend, niet behoorlijk zijn uitgevoerd of de rijksbijdrage ondoelmatig is aangewend, bepalen dat de daarmee gemoeide bedragen in mindering worden gebracht op de rijksbijdrage. Hij maakt dit binnen een jaar na ontvangst van de jaarrekening bekend aan het algemeen bestuur.
 
 ###§ 4 
 
