@@ -3,7 +3,7 @@
 ##Regeling van de directeur-generaal Rechtspleging en Rechtshandhaving van het Ministerie van Veiligheid en Justitie van 3 augustus 2012, nr 287000, houdende verlening van ondermandaat en het doorgegeven van volmacht en machtiging ten aanzien van beheeraangelegenheden op het terrein van het openbaar ministerie aan het College van procureurs-generaal (Mandaatbesluit beheer openbaar ministerie 2012)
 
 De directeur-generaal Rechtspleging en Rechtshandhaving van het Ministerie van Veiligheid en Justitie,  
-Gelet op [artikel 42, eerste lid van de Organisatieregeling Ministerie van Veiligheid en Justitie 2011](../../../../../../../ministeriele-regeling/organisatieregeling/ministerie/van/veiligheid/en/justitie/2011/BWBR0030837/README.md), [artikel 3, tweede en derde lid van de Mandaatregeling Ministerie van Veiligheid en Justitie 2011](../../../../../../../ministeriele-regeling/mandaatregeling/ministerie/van/veiligheid/en/justitie/2011/BWBR0030842/README.md) en [artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);
+Gelet op artikel 42, eerste lid van de Organisatieregeling Ministerie van Veiligheid en Justitie 2011, artikel 3, tweede en derde lid van de Mandaatregeling Ministerie van Veiligheid en Justitie 2011 en artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement;
 Besluit:    
 
 ### Artikel  1  
@@ -12,7 +12,7 @@ Van het ingevolge artikel 1 van de Mandaatregeling hoofden clusters Ministerie v
 
 ### Artikel  2  
 
-Het College van procureurs-generaal wordt aangewezen als hoofd van dienst in de zin van [artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) ten aanzien van bij het openbaar ministerie werkzame ambtenaren, niet zijnde rechterlijke ambtenaren. 
+Het College van procureurs-generaal wordt aangewezen als hoofd van dienst in de zin van artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement ten aanzien van bij het openbaar ministerie werkzame ambtenaren, niet zijnde rechterlijke ambtenaren. 
 
 ### Artikel  3  
 
@@ -20,7 +20,7 @@ Het College van procureurs-generaal wordt aangewezen als bevoegd om het onderman
 
 ### Artikel  4  
 
-De [Mandaatregeling beheer openbaar ministerie](../../../../../../../ministeriele-regeling/mandaatregeling/beheer/openbaar/ministerie/BWBR0026644/README.md) wordt ingetrokken. 
+De Mandaatregeling beheer openbaar ministerie wordt ingetrokken. 
 
 ### Artikel  5  
 

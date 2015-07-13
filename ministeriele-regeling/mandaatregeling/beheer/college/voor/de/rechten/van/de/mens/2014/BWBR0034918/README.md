@@ -3,16 +3,16 @@
 ##Regeling van de minister van Veiligheid en Justitie van 6 maart 2014, nr 476900 houdende verlening van mandaat en het geven van volmacht en machtiging ten aanzien van de beheersaangelegenheden van het College voor de rechten van de mens (Mandaatregeling beheer College voor de rechten van de mens 2014)
 
 De Minister van Veiligheid en Justitie,  
-Gelet op [artikel 44, tweede lid, van de Organisatieregeling Ministerie van Veiligheid en Justitie 2011](../../../../../../../../../../../../ministeriele-regeling/organisatieregeling/ministerie/van/veiligheid/en/justitie/2011/BWBR0030837/README.md), [artikelen 10:3](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [10:4](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [10:6](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [10:9](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [10:12 van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [artikel 32, vierde lid, van de Comptabiliteitswet](../../../../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md);
+Gelet op artikel 44, tweede lid, van de Organisatieregeling Ministerie van Veiligheid en Justitie 2011, artikelen 10:3, 10:4, 10:6, 10:9 en 10:12 van de Algemene wet bestuursrecht en artikel 32, vierde lid, van de Comptabiliteitswet;
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a.  *College:* College voor de rechten van de mens als bedoeld in [artikel 1 van de Wet College voor de rechten van de mens](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md);  
+a.  *College:* College voor de rechten van de mens als bedoeld in artikel 1 van de Wet College voor de rechten van de mens;  
 
-b.  *beheersaangelegenheid:* taak die in het kader van het beheer wordt verricht binnen het bureau als bedoeld in [artikel 18, eerste lid, van de Wet College voor de rechten van de mens](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md);  
+b.  *beheersaangelegenheid:* taak die in het kader van het beheer wordt verricht binnen het bureau als bedoeld in artikel 18, eerste lid, van de Wet College voor de rechten van de mens;  
 
 c.  *mandaat:* bevoegdheid om namens de Minister van Veiligheid en Justitie besluiten te nemen;  
 
@@ -35,7 +35,7 @@ Voor de toepassing van deze regeling en de op grond daarvan verleende en doorgeg
 
 ### Artikel  5  
 
-De [Mandaatregeling beheer CBP, CGB, CJD en bureau NVvR](../../../../../../../../../../../../ministeriele-regeling/mandaatregeling/beheer/cbp/BWBR0019538/README.md) wordt ingetrokken. 
+De Mandaatregeling beheer CBP, CGB, CJD en bureau NVvR wordt ingetrokken. 
 
 ### Artikel  6  
 

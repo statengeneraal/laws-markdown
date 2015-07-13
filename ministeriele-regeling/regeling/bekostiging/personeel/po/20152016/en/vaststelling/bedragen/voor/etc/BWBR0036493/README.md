@@ -405,7 +405,7 @@ Treedt in werking per 01-08-2015
 
 Treedt in werking per 01-08-2015 
 
-Het bedrag per leerling, bedoeld in artikel 132, derde lid, van de WPO, is € 310,59. 
+Het bedrag per leerling, bedoeld in artikel 132, derde lid, van de WPO, is € 308,58. 
 
 ### Artikel  22  
 
@@ -413,7 +413,7 @@ Het bedrag per leerling, bedoeld in artikel 132, derde lid, van de WPO, is € 
 
 Treedt in werking per 01-08-2015 
 
-Het bedrag per leerling, bedoeld in artikel 85b, tweede lid, van de WVO, is € 498,48. 
+Het bedrag per leerling, bedoeld in artikel 85b, tweede lid, van de WVO, is € 496,47. 
 
 ### Paragraaf  3  
 
@@ -745,6 +745,25 @@ Treedt in werking per 01-08-2015
 3.  Het bevoegd gezag, bedoeld in het eerste lid, ontvangt bijzondere bekostiging voor personeel en aanvullende bekostiging voor materiële instandhouding, indien er op de eerste van de maand door de Minister van Veiligheid en Justitie, indien het een justitiële jeugdinrichting betreft, respectievelijk de door de Minister van Volksgezondheid, Welzijn en Sport in overleg met de Vereniging van Nederlandse Gemeenten richtinggevend berekende capaciteit als het een instelling voor gesloten jeugdhulp betreft, meer capaciteit, uitgedrukt in leerlingen, aan de vestiging is toegekend dan het aantal leerlingen van de vestiging op grond waarvan de personele bekostiging voor het schooljaar is bepaald. Onder personele bekostiging, bedoeld in de eerste volzin, wordt mede verstaan, indien dit artikel reeds eerder is toegepast, de bijzondere bekostiging op grond van dit artikel.   
 4.  De bijzondere bekostiging respectievelijk aanvullende bekostiging, bedoeld in het derde lid, bedraagt het verschil tussen de capaciteit, uitgedrukt in leerlingen, en het aantal leerlingen waarvoor personele bekostiging is toegekend, vermenigvuldigd met € 13.587,20 voor personeel en € 1.348,47 voor materiële instandhouding, gedeeld door 12 en vermenigvuldigd met het aantal resterende maanden van het schooljaar waarvoor de bekostiging is toegekend.  
 
+### Artikel  39a  
+
+####Bijzondere bekostiging voor leerlingen met een ernstige meervoudige beperking
+
+Treedt in werking per 01-08-2015 
+
+1.  Voor de toepassing van dit artikel wordt verstaan onder een leerling met een ernstige meervoudige beperking: een leerling met een combinatie van een (zeer) ernstige verstandelijke beperking (IQ tot 35), een lichamelijke beperking en bijkomende stoornissen, voor wie naast extra ondersteuning in het onderwijs ook extra zorg nodig is, die op 1 oktober 2014 ingeschreven stond op een school voor (voortgezet) speciaal onderwijs en voor wie het bevoegd gezag bekostiging categorie 3 (hoog) ontvangt.   
+2.  Het bevoegd gezag van een school voor (voortgezet) speciaal onderwijs waar op 1 oktober 2014 leerlingen met een ernstige meervoudige beperking waren ingeschreven, ontvangt op aanvraag bijzondere bekostiging voor personeel.   
+3.  De aanvraag voor de bijzondere bekostiging wordt ingediend bij DUO door middel van het formulier, nummer DUO 60102, te downloaden via www.duo.nl, en gaat vergezeld van de volgende gegevens: 
+
+a. naam, brinnummer, postcode en plaats van de school;  
+
+b. het aantal op 1 oktober 2014 ingeschreven leerlingen met een ernstige meervoudige beperking als bedoeld in het eerste lid.     
+4.  De aanvraag, bedoeld in het tweede lid, dient uiterlijk op 15 september 2015 ontvangen te zijn. Aanvragen die na die datum worden ontvangen, worden afgewezen.   
+5.  De in het tweede lid bedoelde bekostiging bedraagt per ingeschreven leerling met een ernstige meervoudige beperking maximaal € 4000,00.   
+6.  Voor de bijzondere bekostiging op grond van dit artikel is voor het schooljaar 2015–2016 een bedrag van maximaal € 5 miljoen beschikbaar.   
+7.  Indien het bekostigingsplafond, als bedoeld in het zesde lid, wordt overschreden, wordt het bedrag per leerling met een ernstige meervoudige beperking, als bedoeld in het vijfde lid, verlaagd naar rato van het aantal leerlingen met een ernstige meervoudige beperking waarvoor de bekostiging wordt toegekend.   
+8.  De Minister van Onderwijs, Cultuur en Wetenschap beslist uiterlijk in november 2015 op de aanvraag.  
+
 ### Artikel   40  
 
 #### vaststelling bedrag prestatiebox primair onderwijs.
@@ -795,7 +814,8 @@ Treedt in werking per 01-08-2015
 | Juni  | 9,20%  |
 | Juli  | 9,20%  |
 
-3.  Het bekostigingsbedrag bedoeld in artikel 40 wordt uitbetaald in twee termijnen, te weten voor 28,2% in november 2015 en 71,8% in maart 2016.  
+3.  De bijzondere bekostiging voor personeel, bedoeld in artikel 39a, wordt uitbetaald in maandelijkse termijnen van gelijke omvang. De eerste betaling vindt plaats in november 2015. Dan wordt ook de bekostiging voor de maanden augustus, september en oktober betaald.  
+4.  Het bekostigingsbedrag bedoeld in artikel 40 wordt uitbetaald in twee termijnen, te weten voor 28,2% in november 2015 en 71,8% in maart 2016.  
 
 ### Hoofdstuk  7  
 

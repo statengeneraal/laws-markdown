@@ -2,7 +2,7 @@
 
 ##Regeling van de Minister van Veiligheid en Justitie van 25 juni 2012, nr. 2012-194220, houdende verlening van mandaat, volmacht en machtiging met betrekking tot het beheer van het politiekorps en het brandweerkorps van Bonaire, Sint Eustatius en Saba (Mandaatregeling korpsbeheer politie en brandweer BES 2012)
 
-Gelet op de [artikelen 38, eerste en derde lid](../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md), en [47, derde lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md), [artikel 27, vierde lid van de Veiligheidswet BES](../../../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md), de [Regeling politielegitimatiebewijs BES](../../../../../../../../../ministeriele-regeling-BES/regeling/politielegitimatiebewijs/bes/BWBR0028800/README.md), de [Organisatieregeling Ministerie van Veiligheid en Justitie](../../../../../../../../../ministeriele-regeling/organisatieregeling/ministerie/van/veiligheid/en/justitie/2011/BWBR0030837/README.md) en de [Mandaatregeling Ministerie van Veiligheid en Justitie 2011](../../../../../../../../../ministeriele-regeling/mandaatregeling/ministerie/van/veiligheid/en/justitie/2011/BWBR0030842/README.md);
+Gelet op de artikelen 38, eerste en derde lid, en 47, derde lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba, artikel 27, vierde lid van de Veiligheidswet BES, de Regeling politielegitimatiebewijs BES, de Organisatieregeling Ministerie van Veiligheid en Justitie en de Mandaatregeling Ministerie van Veiligheid en Justitie 2011;
 Besluit:     
 ### Paragraaf  1  
 
@@ -18,7 +18,7 @@ b.  *secretaris-generaal:* de secretaris-generaal van het Ministerie van Veiligh
 
 c.  *directeur-generaal Politie:* de directeur-generaal Politie van het Ministerie van Veiligheid en Justitie;  
 
-d.  *Rijkswet politie:* de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md);  
+d.  *Rijkswet politie:* de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba;  
 
 e.  *het politiekorps:* het korps politie Bonaire, Sint Eustatius en Saba;  
 
@@ -51,17 +51,17 @@ d. de vice-president van de Raad van State van het Koninkrijk of de vice-preside
 e. de president van de Algemene Rekenkamer; of  
 
 f. de Nationale ombudsman, indien de strekking daarvan is dat aan een aanbeveling van de Nationale ombudsman geen gevolg wordt gegeven.     
-2.  Van het mandaat van de secretaris-generaal zijn met betrekking tot het beheer van het politiekorps tevens uitgesloten de bevoegdheden op grond van de [artikelen 48, vierde lid, van de Rijkswet politie](../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) en [23, vierde lid, van de Veiligheidswet BES](../../../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md), alsmede [artikel 13 van het Besluit bewapening en overige uitrusting politie BES](../../../../../../../../../AMvB-BES/besluit/bewapening/en/overige/uitrusting/politie/bes/BWBR0028588/README.md).  
+2.  Van het mandaat van de secretaris-generaal zijn met betrekking tot het beheer van het politiekorps tevens uitgesloten de bevoegdheden op grond van de artikelen 48, vierde lid, van de Rijkswet politie en 23, vierde lid, van de Veiligheidswet BES, alsmede artikel 13 van het Besluit bewapening en overige uitrusting politie BES.  
 
 ### Artikel  4  
 
 1.  Het mandaat van de secretaris-generaal op grond van artikel 3 strekt zich in ieder geval uit tot: 
 
-a. het uitreiken, registreren en innemen van politielegitimatiebewijzen als bedoeld in de [Regeling politielegitimatiebewijs BES](../../../../../../../../../ministeriele-regeling-BES/regeling/politielegitimatiebewijs/bes/BWBR0028800/README.md);  
+a. het uitreiken, registreren en innemen van politielegitimatiebewijzen als bedoeld in de Regeling politielegitimatiebewijs BES;  
 
-b. het doen van een verzoek om bijstand op grond van [artikel 38 van de Rijkswet politie](../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md), alsmede het beslissen op een verzoek om bijstand op grond van artikel 38 van de Rijkswet politie in geval van een verzoek daartoe van de Minister van Justitie van Curaçao of van Sint Maarten;  
+b. het doen van een verzoek om bijstand op grond van artikel 38 van de Rijkswet politie, alsmede het beslissen op een verzoek om bijstand op grond van artikel 38 van de Rijkswet politie in geval van een verzoek daartoe van de Minister van Justitie van Curaçao of van Sint Maarten;  
 
-c. het voeren van het overleg als bedoeld in [artikel 48, vijfde lid, van de Rijkswet politie](../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) met de procureur-generaal, bedoeld in [artikel 2, tweede lid, van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../../../rijkswet/rijkswet/openbare/ministeries/van/curaçao/van/sint/maarten/en/van/bonaire/etc/BWBR0028072/README.md), en de korpschef over het beheer van de politie;  
+c. het voeren van het overleg als bedoeld in artikel 48, vijfde lid, van de Rijkswet politie met de procureur-generaal, bedoeld in artikel 2, tweede lid, van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba, en de korpschef over het beheer van de politie;  
 
 d. het sluiten van dienstverleningsovereenkomsten met derden ten behoeve van het politiekorps.     
 2.  De secretaris-generaal wordt toegestaan ten aanzien van de bevoegdheden genoemd in het eerste lid, onderdelen a tot en met e, en in artikel 2, en de overige bevoegdheden bedoeld in artikel 3, ondermandaat te verlenen aan de directeur-generaal Politie.   
@@ -78,7 +78,7 @@ Ondertekening van besluiten en stukken door de secretaris-generaal met betrekkin
 ### Artikel  6  
 
 1.  Aan de secretaris-generaal wordt mandaat verleend ten aanzien van de tot de verantwoordelijkheid van de bewindspersoon behorende aangelegenheden op het terrein van het beheer van het brandweerkorps.   
-2.  Van het mandaat van de secretaris-generaal zijn met betrekking tot het beheer van het brandweerkorps uitgesloten de bevoegdheden op grond van [artikel 29, tweede lid, van de Veiligheidswet BES](../../../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md).  
+2.  Van het mandaat van de secretaris-generaal zijn met betrekking tot het beheer van het brandweerkorps uitgesloten de bevoegdheden op grond van artikel 29, tweede lid, van de Veiligheidswet BES.  
 
 ### Artikel  7  
 

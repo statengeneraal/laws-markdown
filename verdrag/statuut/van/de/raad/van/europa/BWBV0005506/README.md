@@ -173,52 +173,52 @@ Members shall be entitled to the number of Representatives given below:
 
 | --- | --- |
 |:---|:---|
-| Albania  |  4   |
-| Andorra  |  2   |
-| Armenia  |  4  |
-| Austria  |  6   |
-| Azerbaijan  |  6   |
-| Belgium  |  7   |
-| Bosnia and Herzegovina  |  5   |
-| Bulgaria  |  6   |
-| Croatia  |  5  |
-| Cyprus  |  3   |
-| Czech Republic  |  7   |
-| Denmark  |  5  |
-| Estonia  |  3   |
-| Finland  |  5   |
+| Albania  | 4  |
+| Andorra  | 2  |
+| Armenia  | 4  |
+| Austria  | 6  |
+| Azerbaijan  | 6  |
+| Belgium  | 7  |
+| Bosnia and Herzegovina  | 5  |
+| Bulgaria  | 6  |
+| Croatia  | 5  |
+| Cyprus  | 3  |
+| Czech Republic  | 7  |
+| Denmark  | 5  |
+| Estonia  | 3  |
+| Finland  | 5  |
 | France  | 18  |
-| Géorgie  |  5   |
-| Germany  | 18   |
-| Greece  |  7  |
-| Hungary  |  7   |
-| Iceland  |  3   |
-| Ireland  |  4  |
-| Italy  | 18   |
-| Latvia  |  3   |
-| Liechtenstein  |  2  |
-| Lithuania  |  4   |
-| Luxembourg  |  3   |
-| Malta  |  3  |
-| Moldova  |  5   |
-| Monaco  |  2   |
-| Montenegro  |  3   |
-| Netherlands  |  7   |
-| Norway  |  5   |
+| Georgia  | 5  |
+| Germany  | 18  |
+| Greece  | 7  |
+| Hungary  | 7  |
+| Iceland  | 3  |
+| Ireland  | 4  |
+| Italy  | 18  |
+| Latvia  | 3  |
+| Liechtenstein  | 2  |
+| Lithuania  | 4  |
+| Luxembourg  | 3  |
+| Malta  | 3  |
+| Republic of Moldova  | 5  |
+| Monaco  | 2  |
+| Montenegro  | 3  |
+| Netherlands  | 7  |
+| Norway  | 5  |
 | Poland  | 12  |
-| Portugal  |  7   |
-| Romania  | 10   |
-| Russia  | 18   |
-| San Marino  |  2   |
-| Serbia and Montenegro  |  7   |
-| Slovak Republic  |  5   |
-| Slovenia  |  3   |
-| Spain  | 12   |
-| Sweden  |  6  |
-| Switzerland  |  6   |
-| ‘the former Yugoslav Republic of Macedonia’  |  3   |
-| Turkey  | 12   |
-| Ukraine  | 12   |
+| Portugal  | 7  |
+| Romania  | 10  |
+| Russian Federation  | 18  |
+| San Marino  | 2  |
+| Serbia  | 7  |
+| Slovak Republic  | 5  |
+| Slovenia  | 3  |
+| Spain  | 12  |
+| Sweden  | 6  |
+| Switzerland  | 6  |
+| “The former Yugoslav Republic of Macedonia”  | 3  |
+| Turkey  | 18  |
+| Ukraine  | 12  |
 | United Kingdom of Great Britain and Northern Ireland  | 18  |
 
 ### Article  27  
@@ -338,7 +338,7 @@ d.  Notwithstanding the provisions of the preceding paragraphs of this Article, 
 ### Article  42  
 
 a.  This Statute shall be ratified. Ratifications shall be deposited with the Government of the United Kingdom of Great Britain and Northern Ireland.
-b.  The present Statute shall come into force as soon as seven instruments of ratification have been desposited. The Government of the United Kingdom shall transmit to all signatory Governments a certificate declaring that the Statute has entered into force and giving the names of the Members of the Council of Europe on that date.
+b.  The present Statute shall come into force as soon as seven instruments of ratification have been deposited. The Government of the United Kingdom shall transmit to all signatory Governments a certificate declaring that the Statute has entered into force and giving the names of the Members of the Council of Europe on that date.
 c.  Thereafter each other signatory shall become a party to this Statute as from the date of the deposit of its instrument of ratification. 
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed the present Statute.DONE at London, this 5th day of May, 1949, in English and French, both texts being equally authentic, in a single copy which shall remain deposited in the archives of the Government of the United Kingdom which shall transmit certified copies to the other signatory Governments.  
@@ -514,53 +514,53 @@ De Leden hebben recht op het volgende aantal vertegenwoordigers:
 
 | --- | --- |
 |:---|:---|
-| Albanië  |  4   |
-| Andorra  |  2   |
-| Armenië  |  4  |
-| Oostenrijk  |  6   |
-| Azerbeidzjan  |  6   |
-| België  |  7  |
-| Bosnië en Herzegovina  |  5   |
-| Bulgarije  |  6  |
-| Kroatië  |  5   |
-| Cyprus  |  3   |
-| De Tsjechische Republiek  |  7   |
-| Denemarken  |  5   |
-| Estland  |  3  |
-| Finland  |  5   |
-| Frankrijk  | 18   |
-| Georgië  |  5  |
-| Duitsland  | 18   |
-| Griekenland  |  7   |
-| Hongarije  |  7  |
-| IJsland  |  3   |
-| Ierland  |  4   |
+| Albanië  | 4  |
+| Andorra  | 2  |
+| Armenië  | 4  |
+| Oostenrijk  | 6  |
+| Azerbeidzjan  | 6  |
+| België  | 7  |
+| Bosnië en Herzegovina  | 5  |
+| Bulgarije  | 6  |
+| Kroatië  | 5  |
+| Cyprus  | 3  |
+| De Tsjechische Republiek  | 7  |
+| Denemarken  | 5  |
+| Estland  | 3  |
+| Finland  | 5  |
+| Frankrijk  | 18  |
+| Georgië  | 5  |
+| Duitsland  | 18  |
+| Griekenland  | 7  |
+| Hongarije  | 7  |
+| IJsland  | 3  |
+| Ierland  | 4  |
 | Italië  | 18  |
-| Letland  |  3   |
-| Liechtenstein  |  2   |
-| Litouwen  |  4  |
-| Luxemburg  |  3   |
-| Malta  |  3   |
-| Moldavië  |  5  |
-| Monaco  |  2   |
-| Montenegro  |  3   |
-| Nederland  |  7  |
-| Noorwegen  |  5   |
-| Polen  | 12   |
-| Portugal  |  7  |
-| Roemenië  | 10   |
-| Rusland  | 18   |
-| San Marino  |  2  |
-| Servië  |  7   |
-| De Slowaakse Republiek  |  5   |
-| Slovenië  |  3   |
-| Spanje  | 12   |
-| Zweden  |  6  |
-| Zwitserland  |  6   |
-| De Voormalige Joegoslavische Republiek Macedonië  |  3   |
-| Turkije  | 12   |
-| Oekraïne  | 12   |
-| Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland  | 18  |
+| Letland  | 3  |
+| Liechtenstein  | 2  |
+| Litouwen  | 4  |
+| Luxemburg  | 3  |
+| Malta  | 3  |
+| De Republiek Moldavië  | 5  |
+| Monaco  | 2  |
+| Montenegro  | 3  |
+| Nederland  | 7  |
+| Noorwegen  | 5  |
+| Polen  | 12  |
+| Portugal  | 7  |
+| Roemenië  | 10  |
+| Russische Federatie  | 18  |
+| San Marino  | 2  |
+| Servië  | 7  |
+| De Slowaakse Republiek  | 5  |
+| Slovenië  | 3  |
+| Spanje  | 12  |
+| Zweden  | 6  |
+| Zwitserland  | 6  |
+| „De Voormalige Joegoslavische Republiek Macedonië”  | 3  |
+| Turkije  | 18  |
+| Oekraïne  | 12  |
+| Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland  | 18  |
 
 ### Artikel  27  
 

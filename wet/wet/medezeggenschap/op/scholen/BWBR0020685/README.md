@@ -236,7 +236,7 @@ r. vaststelling of wijziging van het schoolondersteuningsprofiel, bedoeld in art
 
 ####Adviesbevoegdheid ondersteuningsplanraad
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 De ondersteuningsplanraad wordt vooraf in de gelegenheid gesteld om advies uit te brengen over elk door het samenwerkingsverband te nemen besluit met betrekking tot in ieder geval de vaststelling van de competentieprofielen van toezichthouders en het toezichthoudend orgaan van het samenwerkingsverband. 
 
