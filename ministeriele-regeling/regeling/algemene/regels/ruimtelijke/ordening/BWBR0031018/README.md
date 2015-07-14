@@ -1423,6 +1423,18 @@ Kaart reserveringsgebied nieuwe hoofdweg – A6/A7 Knooppunt Joure
 ![250817](http://wetten.overheid.nl/Illustration/250817)
 Kaart reserveringsgebied nieuwe hoofdweg – Rotterdam vooruit (Nieuwe westelijke oeververbinding)
 
+###Bijlage 17.7a 
+
+####bij de Regeling algemene regels ruimtelijke ordening
+
+Treedt in werking per 01-10-2015 
+
+![255822](http://wetten.overheid.nl/Illustration/255822)
+Overzichtskaart reserveringsgebied nieuwe hoofdweg N35 Nijverdal – Wierden![255823](http://wetten.overheid.nl/Illustration/255823)
+Detailkaart 1 reserveringsgebied nieuwe hoofdweg N35 Nijverdal – Wierden![255824](http://wetten.overheid.nl/Illustration/255824)
+Detailkaart 2 reserveringsgebied nieuwe hoofdweg N35 Nijverdal – Wierden![255825](http://wetten.overheid.nl/Illustration/255825)
+Detailkaart 3 reserveringsgebied nieuwe hoofdweg N35 Nijverdal – Wierden
+
 ###Bijlage 17.8 
 
 ####bij de Regeling algemene regels ruimtelijke ordening

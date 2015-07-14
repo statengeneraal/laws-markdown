@@ -4,7 +4,7 @@
 
 ####Accord entre le Royaume des Pays-Bas et la République Gabonaise relatif au statut du personnel civil et militaire de leurs Ministères de la Défense, qui sera présent sur leurs territoires respectifs, en veu de la coopération en matière de la défense
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 Preambule Le Royaume des Pays-Bas, d’une part, et La République Gabonaise, d’autre part. Conjointement appelés « les Parties », Désireux de renforcer la coopération militaire entre les deux pays,   Ont convenu de ce qui suit :    
 
@@ -12,7 +12,7 @@ Preambule Le Royaume des Pays-Bas, d’une part, et La République Gabonaise, d�
 
 ####Définitions
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 Aux fins du présent accord et de sa mise en œuvre, il faut entendre par : 
 
@@ -28,7 +28,7 @@ Aux fins du présent accord et de sa mise en œuvre, il faut entendre par :
 
 ####Critères d’entrée et de sortie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 Les autorités de l’État hôte permettront au personnel de l’État d’envoi et aux personnes à leur charge la libre entrée et sortie du territoire de l’État hôte en accord avec les lois nationales et les obligations découlant de traités internationaux de l’État hôte. 
 
@@ -36,7 +36,7 @@ Les autorités de l’État hôte permettront au personnel de l’État d’envo
 
 ####Discipline et juridiction
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 1.  La juridiction disciplinaire sur le personnel de l’État d’envoi restera la prérogative des autorités compétentes de l’État d’envoi.   
 2.  Les autorités compétentes de l’État d’envoi exercent leur droit de juridiction en cas d’infractions résultant de tout acte ou négligence d’un membre du personnel accompli dans l’exercice de ses fonctions officielles, et dans les cas suivants : 
@@ -71,7 +71,7 @@ c) lorsque l’infraction porte uniquement atteinte aux biens de l’État d’e
 
 ####Importation et exportation
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 1.  La loi nationale en vigueur sur le territoire de l’État hôte, et si applicable, la législation de l’Union européenne sur l’importation, l’exportation et le transfert des biens sont applicables pour l’équipement, les matériels, les fournitures et autres biens importés dans le territoire ou exportés du territoire de l’État hôte par l’État d’envoi ainsi que pour les bagages, effets personnels, produits ou autres biens destinés à l’usage personnel du personnel de l’État d’envoi et des personnes à leur charge, importés dans le territoire ou exportés du territoire de l’État hôte dans le cadre de la mise en œuvre du présent accord.   
 2.  L’équipement du personnel de l’État d’envoi, ainsi que des quantités raisonnables de provisions, approvisionnements et autres biens à l’usage exclusif dudit personnel peuvent être importés en franchise de droits, en accord avec la loi nationale en vigueur sur le territoire de l’État hôte, et, si applicable, la législation de l’Union européenne.   
@@ -86,7 +86,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Armes et uniformes
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 1.  L’État d’envoi est tenu de respecter les règles et les restrictions que l’État hôte fixera en matière d’utilisation et d’entreposage des armes et munitions.   
 2.  Le personnel militaire de l’État d’envoi est autorisé à porter son uniforme militaire national dans l’exercice de sa mission officielle.  
@@ -95,7 +95,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Permis de conduire
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 L’État hôte peut : 
 
@@ -107,7 +107,7 @@ b) soit délivrer, sans exiger d’examen, son propre permis de conduire au pers
 
 ####Demande d’indemnités
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 1.  Chaque Partie renonce à tout recours qu’elle pourrait avoir contre l’autre Partie ou un membre du personnel de cette Partie pour les dommages causés à ses biens ou à son personnel, y compris ceux ayant entraîné la mort, en raison d’actes ou de négligences dans l’exercice des fonctions officielles qui découlent du présent Accord.   
 2.  Les dispositions précédentes ne s’appliquent pas en cas de faute lourde ou intentionnelle. Par faute lourde, il convient d’entendre l’erreur grossière ou la négligence grave. Par faute intentionnelle, il convient d’entendre la faute commise avec l’intention délibérée de son auteur de causer un préjudice.   
@@ -123,7 +123,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Assistance médicale et dentaire
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 1.  Le personnel de l’État d’envoi devra au préalable avoir été déclaré apte sur le plan médical et dentaire avant de prendre part aux activités dans l’État hôte.   
 2.  Le personnel de l’État d’envoi recevra une assistance médicale et dentaire d’urgence gratuite dans les établissements médicaux militaires pendant toute la durée de son séjour dans l’État hôte, dans le cadre du présent accord.   
@@ -133,7 +133,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Décès
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 1.  Les autorités de l’État d’envoi présentes dans l’État hôte ont le droit de prendre en charge le rapatriement du corps de tout membre décédé du personnel de l’État d’envoi ou d’une personne à charge, ainsi que de ses biens personnels, et pourront prendre, pour ce faire, les dispositions appropriées.   
 2.  II ne sera pas pratiqué d’autopsie sur le corps de tout membre décédé du personnel de l’État d’envoi ou d’une personne à charge sans l’accord des autorités de cet État et en dehors de la présence d’un de ses représentants.   
@@ -143,7 +143,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Arrangements détaillés
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 Des arrangements détaillés concernant l’exécution d’une activité peuvent être conclus entre les Ministres de la Défense des deux Parties. 
 
@@ -151,7 +151,7 @@ Des arrangements détaillés concernant l’exécution d’une activité peuvent
 
 ####Règlement des différends
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 Tout différend survenant à la suite de l’interprétation, l’application ou de la mise en œuvre des dispositions du présent accord sera réglé en consultation entre les autorités compétentes des Parties, y compris, le cas échéant, par la voie diplomatique. 
 
@@ -159,7 +159,7 @@ Tout différend survenant à la suite de l’interprétation, l’application ou
 
 ####Application pour les Pays-Bas
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 En ce qui concerne le Royaume des Pays-Bas, le présent accord ne s’appliquera qu’au territoire européen du Royaume. 
 
@@ -167,7 +167,7 @@ En ce qui concerne le Royaume des Pays-Bas, le présent accord ne s’appliquera
 
 ####Entrée en vigueur et résiliation
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 1.  Cet accord entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de deux mois après la date à laquelle les Parties se sont informées mutuellement par écrit que les dispositions constitutionnelles requises pour l’entrée en vigueur de cet accord ont été appliquées.   
 2.  Les Parties peuvent mettre fin au présent accord à tout moment, par notification écrite à l’autre Partie, et par voie diplomatique, en respectant un délai de préavis de six (6) mois, à compter de la notification.  
@@ -176,7 +176,7 @@ EN FOI DE QUOI les soussignés, dûment autorisés à cet effet par leurs gouver
 
 ####Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Gabon betreffende de status van civiel en militair personeel van hun ministeries van Defensie, dat aanwezig zal zijn op elkaars grondgebied in het kader van militaire samenwerking
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 Preambule Het Koninkrijk der Nederlanden, enerzijds, en de Republiek Gabon, anderzijds, Gezamenlijk „de partijen” genoemd, Geleid door de wens de militaire samenwerking tussen beide landen te versterken,   Zijn het volgende overeengekomen:    
 
@@ -184,7 +184,7 @@ Preambule Het Koninkrijk der Nederlanden, enerzijds, en de Republiek Gabon, ande
 
 ####Begripsomschrijvingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 Voor de toepassing van dit Verdrag wordt verstaan onder: „Personeel”: het civiel en militair personeel van de ministeries van Defensie van de partijen; „Militair personeel”: het militair personeel van het ministerie van Defensie van de zendstaat, met inbegrip van buitenlands militair personeel dat een integrerend onderdeel uitmaakt van militaire eenheden van de zendstaat op basis van een uitwisselingsprogramma; „Ten laste komende persoon”: de echtgenoot van een lid van het personeel van de zendstaat of de hem ten laste komende kinderen; „Echtgenoot”: tevens elke persoon die met een lid van het personeel van de zendstaat samenleeft als waren zij gehuwd, in de mate waarin een dergelijke situatie in de zendstaat wettelijk wordt erkend. 
 
@@ -192,7 +192,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder: „Personeel”: het ci
 
 ####Vereisten in verband met binnenkomst en vertrek
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 De autoriteiten van de ontvangende staat verlenen het personeel van de zendstaat en de hun ten laste komende personen de vrije binnenkomst in en het vrije vertrek uit het grondgebied van de ontvangende staat in overeenstemming met de nationale wetgeving en de verplichtingen die voortvloeien uit de internationale verdragen van de ontvangende staat. 
 
@@ -200,7 +200,7 @@ De autoriteiten van de ontvangende staat verlenen het personeel van de zendstaat
 
 ####Tucht en rechtsmacht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 1.  De disciplinaire rechtsmacht over het personeel van de zendstaat blijft voorbehouden aan de bevoegde autoriteiten van de zendstaat.   
 2.  De bevoegde autoriteiten van de zendstaat oefenen hun rechtsbevoegdheid uit bij strafbare feiten die het gevolg zijn van handelen of nalaten van een lid van het personeel bij het vervullen van zijn officiële taken en in de volgende gevallen: 
@@ -235,7 +235,7 @@ c. wanneer het strafbare feit uitsluitend de goederen van de zendstaat raakt.
 
 ####Invoer en uitvoer
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 1.  Ten aanzien van uitrusting, materialen, voorraden en overige goederen die de zendstaat in verband met de tenuitvoerlegging van dit Verdrag op het grondgebied van de ontvangende staat invoert of daaruit uitvoert alsmede bagage, persoonlijke eigendommen, producten of overige goederen voor persoonlijk gebruik van het personeel van de zendstaat en ten laste komende personen die in verband met de tenuitvoerlegging van dit Verdrag op het grondgebied van de ontvangende staat worden ingevoerd of daarvan worden uitgevoerd, is de op het grondgebied van de ontvangende staat van kracht zijnde nationale wetgeving van toepassing, alsmede, indien van toepassing, de wetgeving van de Europese Unie inzake invoer, uitvoer en overdracht van goederen.   
 2.  De uitrusting van het personeel van de zendstaat alsmede redelijke hoeveelheden voedingsmiddelen, bevoorradingen en overige goederen die uitsluitend bestemd zijn voor gebruik door dergelijk personeel mogen vrij van heffingen worden ingevoerd, in overeenstemming met de op het grondgebied van de ontvangende staat van kracht zijnde nationale wetgeving, alsmede, indien van toepassing, de wetgeving van de Europese Unie.   
@@ -250,7 +250,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Wapens en uniformen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 1.  De zendstaat is gehouden tot inachtneming van de regels en beperkingen die de ontvangende staat stelt aan het gebruik en de opslag van wapens en munitie.   
 2.  Het is het militaire personeel van de zendstaat toegestaan tijdens het vervullen van officiële taken zijn nationale militaire uniform te dragen.  
@@ -259,7 +259,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Rijbewijzen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 De ontvangende staat kan: 
 
@@ -271,7 +271,7 @@ b. zonder een rijexamen te vereisen, zijn eigen rijbewijs afgeven aan personeel 
 
 ####Vorderingen tot schadevergoeding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 1.  Elke partij ziet af van het instellen van vorderingen tegen de andere partij of tegen een lid van het personeel van deze partij tot vergoeding van schade die aan haar goederen of personeel wordt toegebracht, met inbegrip van schade de dood tot gevolg hebbende, vanwege handelen of nalaten bij het vervullen van officiële taken die voortvloeien uit dit Verdrag.   
 2.  De voorgaande bepalingen zijn niet van toepassing in het geval van grove schuld of opzet. Onder grove schuld dient te worden verstaan een grove fout of grove nalatigheid. Onder opzet dient te worden verstaan een fout begaan met het oogmerk van de dader schade toe te brengen.   
@@ -287,7 +287,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Geneeskundige en tandheelkundige zorg
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 1.  Het personeel van de zendstaat dient voorafgaand aan activiteiten in de ontvangende staat in geneeskundig en tandheelkundig opzicht gezond te zijn verklaard.   
 2.  Het personeel van de zendstaat ontvangt tijdens de gehele duur van zijn verblijf in de ontvangende staat in het kader van dit Verdrag kosteloos spoedeisende geneeskundige en tandheelkundige hulp in de militaire medische instellingen.   
@@ -297,7 +297,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Overlijden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 1.  De autoriteiten van de zendstaat die aanwezig zijn in de ontvangende staat zijn bevoegd zorg te dragen voor de repatriëring van het stoffelijk overschot van een overleden lid van het personeel van de zendstaat of van een ten laste komende persoon, alsmede van zijn persoonlijke bezittingen, en mogen daartoe passende maatregelen nemen.   
 2.  Autopsie op het stoffelijk overschot van een overleden lid van het personeel van de zendstaat of van een ten laste komende persoon mag uitsluitend worden uitgevoerd na toestemming van de autoriteiten van de zendstaat en in aanwezigheid van een vertegenwoordiger daarvan.   
@@ -307,7 +307,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Nadere regelingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 Tussen de ministers van Defensie van beide partijen kunnen nadere regelingen worden getroffen voor de uitvoering van een activiteit. 
 
@@ -315,7 +315,7 @@ Tussen de ministers van Defensie van beide partijen kunnen nadere regelingen wor
 
 ####Beslechting van geschillen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 Elk geschil dat voortvloeit uit de uitlegging, toepassing of uitvoering van de bepalingen van dit Verdrag wordt beslecht door overleg tussen de bevoegde autoriteiten van de partijen, waaronder, in voorkomend geval, langs diplomatieke weg. 
 
@@ -323,7 +323,7 @@ Elk geschil dat voortvloeit uit de uitlegging, toepassing of uitvoering van de b
 
 ####Toepassing op Nederland
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 Wat betreft het Koninkrijk der Nederlanden, is dit Verdrag slechts van toepassing op het grondgebied van het Koninkrijk in Europa. 
 
@@ -331,7 +331,7 @@ Wat betreft het Koninkrijk der Nederlanden, is dit Verdrag slechts van toepassin
 
 ####Inwerkingtreding en opzegging
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 1.  Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van twee maanden na de datum waarop de partijen elkaar er schriftelijk van in kennis hebben gesteld dat is voldaan aan de vereiste grondwettelijke procedures voor de inwerkingtreding van het Verdrag.   
 2.  De partijen kunnen dit Verdrag te allen tijde opzeggen door middel van een schriftelijke kennisgeving aan de andere partij langs diplomatieke weg, met inachtneming van een opzegtermijn van zes (6) maanden, te rekenen vanaf de kennisgeving.  

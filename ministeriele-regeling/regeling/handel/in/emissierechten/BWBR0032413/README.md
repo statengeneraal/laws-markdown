@@ -27,6 +27,8 @@ In deze regeling wordt verstaan onder:
 
 *Kyotorekening:* rekening in het PK-register, bedoeld in artikel 5 van Verordening EU-register handel in emissierechten;  
 
+*meetverantwoordelijke gas:* meetverantwoordelijke als bedoeld in de Begrippenlijst gas, zijnde een onderdeel van de voorwaarden, bedoeld in artikel 12b van de Gaswet;
+
 *minister:* Minister van Infrastructuur en Milieu;  
 
 *multilaterale ontwikkelingsbank:* African Development Bank, Asian Development Bank, Caribbean Development Bank, Council of Europe Development Bank, Europees Investeringsfonds, Europese Bank voor Wederopbouw en Ontwikkeling, Europese Investeringsbank, Inter American Development Bank, Inter-American Investment Corporation, International Bank for Reconstruction and Development en International Finance Corporation, Multilateral Investment Guarantee Agency of Nordic Investment Bank; 
@@ -464,10 +466,11 @@ f. het doen van een verzoek als bedoeld in het derde lid.
 ####Toewijzing aan nieuwkomers
 
 1.  Voor de aanvraag om kosteloze toewijzing van broeikasgasemissierechten, bedoeld in artikel 16.32, eerste lid, van de wet, wordt gebruikgemaakt van een door het bestuur van de emissieautoriteit vastgesteld en elektronisch beschikbaar gesteld standaardformulier.   
-2.  De bij de aanvraag verstrekte gegevens gaan vergezeld van een verificatierapport van een verificateur. De artikelen 38 tot en met 41 zijn van overeenkomstig toepassing.   
-3.  Degene die een aanvraag om kosteloze toewijzing doet, kan de benodigde gegevens per afzonderlijke broeikasgasinstallatie binnen de inrichting verstrekken.   
-4.  Het derde lid geldt niet voor broeikasgasinstallaties waarvoor al eerder gegevens zijn aangeleverd ter uitvoering van dit artikel of van artikel 33.   
-5.  De minister beslist binnen vier maanden na ontvangst op de aanvraag.  
+2.  De bij de aanvraag verstrekte gegevens gaan vergezeld van een verificatierapport van een verificateur. De artikelen 38 tot en met 41 zijn van overeenkomstig toepassing.  
+3. Bij een aanvraag als bedoeld in het eerste lid wordt een methodologieverslag als bedoeld in artikel 34 gevoegd. De artikelen 34, tweede en derde lid, en 35 zijn van overeenkomstige toepassing. 
+4.  Degene die een aanvraag om kosteloze toewijzing doet, kan de benodigde gegevens per afzonderlijke broeikasgasinstallatie binnen de inrichting verstrekken.   
+5.  Het vierde lid geldt niet voor broeikasgasinstallaties waarvoor al eerder gegevens zijn aangeleverd ter uitvoering van dit artikel of van artikel 33.   
+6.  De minister beslist binnen vier maanden na ontvangst op de aanvraag.  
 
 ### §  3.4  
 
@@ -485,13 +488,9 @@ f. het doen van een verzoek als bedoeld in het derde lid.
 
 ####Toepassing artikel 16.35c, vijfde lid, van de wet
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  43a  
 
 ####De wijze waarop de gemiddelde marktprijs van een broeikasgasemissierecht wordt bepaald
-
-Treedt in werking per 01-01-2015 
 
 De gemiddelde marktprijs van een broeikasgasemissierecht, bedoeld in artikel 16.35c, vijfde lid, van de wet, wordt bepaald door de hoeveelheid terug te vorderen broeikasgasemissierechten te vermenigvuldigen met het gemiddelde van de veilingprijs van de tien veilingen waarin de vraag naar broeikasemissierechten in ieder geval leidt tot een veilingprijs boven de reserveprijs, onmiddellijk voorafgaand aan de dagtekening van het dwangbevel, bedoeld in artikel 16.35c, tweede lid, van de wet, waarin Nederland broeikasgasemissierechten heeft aangeboden. 
 
@@ -527,12 +526,40 @@ De gemiddelde marktprijs van een broeikasgasemissierecht, bedoeld in artikel 16.
 
 1.  Indien de vergunninghouder voornemens is om wijzigingen aan de broeikasgasinstallatie door te voeren, die kunnen leiden tot een aanzienlijke vermindering van de capaciteit van de broeikasgasinstallatie als bedoeld in artikel 3, onder j, van Besluit 2011/278/EU, meldt hij dit voornemen zo spoedig mogelijk schriftelijk aan het bestuur van de emissieautoriteit.   
 2.  Indien de capaciteit van de broeikasgasinstallatie aanzienlijk wordt verminderd als bedoeld in artikel 3, onder j, van Besluit 2011/278/EU, meldt de vergunninghouder dit schriftelijk aan het bestuur van de emissieautoriteit onder vermelding van de ingangsdatum van de productievermindering. De melding wordt gedaan binnen zes weken nadat de gewijzigde capaciteit is vastgesteld.  
+3. Bij een melding als bedoeld in het tweede lid wordt een methodologieverslag als bedoeld in artikel 34 gevoegd. De artikelen 34, tweede en derde lid, en 35 zijn van overeenkomstige toepassing.
+
+###Artikel 48 
+
+#### Melding en regels inzake activiteiten in reserve, achtervang of parallelle eenheid (artikel 2, tweede lid, onderdeel e, onder 4°, van het Besluit handel in emissierechten)
+
+1. Een melding als bedoeld in artikel 2, tweede lid, onderdeel e, van het Besluit handel in emissierechten, gaat vergezeld van:
+
+aeen bewijs waaruit blijkt dat de reserve, achtervang of parallelle eenheid door een identificeerbare en handhaafbare technische restrictie niet tegelijkertijd in werking kan zijn met andere eenheden, zodanig dat de drempelwaarde, bedoeld in bijlage I bij het Besluit handel in emissierechten, op geen enkel moment kan worden overschreden, en
+
+b.een bewijs dat de technische restrictie, bedoeld in onderdeel a, geplaatst is door een meetverantwoordelijke gas indien de technische restrictie is gericht op de toevoer van gas.
+2. Indien de technische restrictie, bedoeld in het eerste lid, onderdeel a, niet gericht is op de toevoer van gas:
+
+a.wordt voorafgaand aan de melding contact opgenomen met het bestuur van de emissieautoriteit;
+
+b.geeft het bestuur van de emissieautoriteit aan wie of welke instantie de technische restrictie dient te plaatsen en controleren, en
+
+c.gaat de melding in afwijking van het eerste lid, onderdeel b, vergezeld van een bewijs waaruit blijkt dat de technische restrictie geplaatst is door de persoon of instantie, bedoeld in onderdeel b.
+3. In een geval als bedoeld in artikel 2, tweede lid, onderdeel e, van het Besluit handel in emissierechten, wordt na de melding, bedoeld in het eerste lid, al dan niet in samenhang met het tweede lid, jaarlijks bij het bestuur van de emissieautoriteit ingediend:
+
+a.een rapport waarin in ieder geval de gegevens zijn opgenomen van een continue meting van de werking van de technische restrictie, bedoeld in het eerste lid, onderdeel a, waarbij de gegevens met een frequentie van een uur worden opgeslagen. Uit de gegevens blijkt wanneer eenheden die in verbinding staan met de technische restrictie in gebruik zijn geweest;
+
+b.een bewijs dat de technische restrictie, bedoeld in het eerste lid, onderdeel a, in dat jaar is gecontroleerd door een Meetverantwoordelijke gas als bedoeld in het eerste lid, onderdeel b, of door de persoon of instantie als bedoeld in het tweede lid, onderdeel b, en tijdens die controle een test van de werking van de technische restrictie is uitgevoerd.
+4. In afwijking van het derde lid, aanhef en onderdeel a, kan het bestuur van de emissieautoriteit aangeven welke gegevens opgenomen moeten worden in het rapport, indien:
+
+1°.het betreft een technische restrictie, bedoeld in het eerste lid, onderdeel a, die niet gericht is op de toevoer van gas, en
+
+2°.het niet mogelijk is om in het rapport de gegevens aan te leveren, bedoeld in het derde lid, aanhef en onderdeel a.
 
 ### Artikel  49  
 
 ####Formulier en verificatierapport van de verificateur
 
-1.  Voor de meldingen, bedoeld in de artikelen 44 tot en met 48, wordt gebruikgemaakt van een door het bestuur van de emissieautoriteit vastgesteld en elektronisch beschikbaar gesteld standaardformulier.   
+1.  Voor de meldingen, bedoeld in de artikelen 44 tot en met 47, wordt gebruikgemaakt van een door het bestuur van de emissieautoriteit vastgesteld en elektronisch beschikbaar gesteld standaardformulier.   
 2.  De meldingen, bedoeld in de artikelen 45, 46 en 47, tweede lid, gaan vergezeld van een verificatierapport van een verificateur. De artikelen 38 tot en met 41 zijn van overeenkomstige toepassing.  
 
 ### Artikel  50  

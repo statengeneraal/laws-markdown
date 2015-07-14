@@ -464,19 +464,21 @@ A.  *Als gebieden, als bedoeld in artikel 5, eerste lid, worden aangewezen:*
 *Bijlage 6, onder A4:*  Het gebied ten noordoosten van Barger Compascuum, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart ‘Kerngebied Barger Compascuum’) Watergang (A), Limietweg (B), Limietweg-Oost (C), watergang (D), BRD-grens (E), (zand)weg (F), Limietweg (G), Postweg (H) en Oosterdiep O.Z. (I). ![253769](http://wetten.overheid.nl/Illustration/253769)
 *Bijlage 6, onder A5:*  Het gebied ten zuidoosten van Mantinge, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart ‘Kerngebied Mantinge’) Schiphorsten (A), Heirweg (B), (zand)weg (C), K. Brokweg (D), mr. J.B. Kanweg (E), Mantingerdijk (F), heide/bos (G), perceelsscheiding (H), Steendervalsweg (I) en Wijsterseweg (J). ![253770](http://wetten.overheid.nl/Illustration/253770)
 
-B.  *Als rassen, als bedoeld in artikel 5, eerste lid, worden aangewezen:*   
+*Als rassen, als bedoeld in artikel 5, eerste lid, worden aangewezen:*   *Bijlage 6 onder B, behorende bij artikel 5, eerste lid: toegelaten zetmeelaardappelrassen*
 
-| 10  | 9  | 8  | 7  | 6  |
-|:---|:---|:---|:---|:---|
-| Adam  | Kuba  | Achilles  | Plasstärke  | Actaro  | Aurora  | Allure  |
-| Andante  | Novano  | Aventra  | Plasuno  | Altus  | Sofista  | Annabelle  |
-| Avarna  | Panda  | Averia  | Robény  | Axion  | Stefano  | Aveo  |
-| Belita  | Plasettie  | Katinka  | Signum  | Festien  | Valiant  | Avito  |
-| Cekin  | Seresta  | Merano  | Vebeca  | Karakter  | --- | Starga  |
-| Dartiest  | Stefanie  | Plasent  | Vebesta  | Supporter  | --- | --- |
-| Django  | Sarion  | Plasinka  | --- | --- | --- | --- |
-| Gunda  | Transit  | --- | --- | --- | --- | --- |
-| Ibis  | Ulme  | --- | --- | --- | --- | --- |
+| (10= (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar)  |--- | 10  | 9  | 8  | 7  | 6  |
+|:---|:---|:---|:---|:---|:---|:---|
+| Adam  | Kuba  | Achilles  | Plasuno  | Actaro  | Aurora  | Allure  |
+| Andante  | Novano  | Aventra  | Robény  | Altus  | Sofista  | Annabelle  |
+| Avarna  | Panda  | Averia  | Signum  | Axion  | Stefano  | Aveo  |
+| Belita  | Plasettie  | Katinka  | Supporter  | Festien  | Valiant  | Avito  |
+| Cekin  | Saprodi  | Merano  | Toronto  | Karakter  | --- | Starga  |
+| Dartiest  | Sarion  | Plasent  | Vebeca  | Lindita  | --- | --- |
+| Django  | Seresta  | Plasinka  | Vebesta  | Messina  | --- | --- |
+| Eurotonda  | Stefanie  | Plasstärke  | --- | --- | --- | --- |
+| Euroviva  | Transit  | --- | --- | --- | --- | --- |
+| Gunda  | Ulme  | --- | --- | --- | --- | --- |
+| Ibis  | --- | --- | --- | --- | --- | --- |
 
 ###Bijlage 7 
 
@@ -488,54 +490,55 @@ B.  *Als gebieden als bedoeld in artikel 5, tweede lid, worden aangewezen:*  De 
 
 C.  *Als rassen als bedoeld in artikel 5, tweede lid, worden aangewezen:*  
 
-C 1.  
+*Bijlage 7 onder C1, behorende bij artikel 5, tweede en derde lid: toegelaten (zetmeel)aardappelrassen*
 
-| 10  | 9  | 8  | 7  | 6  |
-|:---|:---|:---|:---|:---|
+| (10= (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar)  | 10  | 9  | 8  | 7  | 6  |
+|:---|:---|:---|:---|:---|:---|
 | Actaro  | Achilles  | Allure  | Albas  | Agria  |
 | Adam  | Altus  | Aveka  | Annabelle  | Amora  |
 | Amanda  | Amorosa  | Courage  | Antina  | Amyla  |
 | Andante  | Ampera  | Dayana  | Astarte  | Arizona  |
 | Avano  | Aurora  | Dinky  | Asterix  | Bintje  |
 | Avaya  | Avarna  | Escort  | Baraka  | Cardinal  |
-| Aventra  | Aveo  | Euronova*  | Benno Vrizo  | Diamant  |
-| Averia  | Aviala  | Evita  | Burren  | Eba  |
-| Axion*  | Aviron  | Fontane  | Donald  | Euroflora  |
-| Belita  | Avito  | Kondor  | Eurobona  | Lindita  |
-| Bonza  | Cecile  | Leandra  | Fresco  | Ostara  |
-| Cekin  | Certo  | Mercury  | Karnico  | Raja  |
-| Dartiest  | Cleopatra  | Messina  | Mercator  | Realist  |
-| Delcora  | Desiree  | Nicola  | Mirakel  | Rumba  |
-| Django  | Dirigent  | Royal  | Nomade  | --- |
-| Eurobravo  | Energie  | Rudolph  | Origo  | --- |
-| Fabiola  | Eurotango*  | Sarion  | Parel  | --- |
-| Gandawa  | Festien  | Saturna  | Plasuno  | --- |
-| Gunda  | Hansa  | Savona  | Shannon  | Eigenheimer*  |
-| Ibis  | Irene  | Sophytra  | Stefano  | Gloria*  |
-| Ikone*  | Kantara  | Stratos  | Sylvana  | --- |
-| Karakter  | Kuroda  | Supporter  | --- | --- |
-| Katinka  | Marlen  | Timate  |
-| Kuba  | Merano  | Ukama  |
-| Logo  | Plasandes  | Vebesta  |
-| Novano  | Plasent  | Vectra  |
-| Panda  | Plasstärke  | --- |
-| Plasettie  | Progress  | --- |
-| Plasinka  | Robény  |
-| Provento  | Romano  |
-| Scarlet  | Sassy  |
-| Seresta  | Smaragd  |
-| Signum  | Sofista  |
-| Silla  | Starga  |
-| Simphony  | Taurus  |
-| Stefanie  | Valiant  |
-| Stemster  | --- |
-| Talent  |
-| Tivoli  |
-| Transit  |
-| Ulme  |
-| Vebeca  |
-
-* Van deze rassen is bekend dat de veldresistentie minimaal 6 bedraagt. Een exact cijfer ontbreekt. 
+| Aventra  | Aveo  | Euronova  | Benno Vrizo  | Diamant  |
+| Averia  | Aviala  | Eurotonda  | Burren  | Eba  |
+| Axion  | Aviron  | Evita  | Donald  | Eigenheimer  |
+| Belita  | Avito  | Fontane  | Eurobona  | Euroflora  |
+| Bonza  | Cecile  | Kondor  | Fresco  | Gloria  |
+| Cekin  | Certo  | Leandra  | Karnico  | Ostara  |
+| Celandine  | Cleopatra  | Lindita  | Mercator  | Raja  |
+| Dartiest  | Désirée  | Mercury  | Mirakel  | Realist  |
+| Delcora  | Dirigent  | Messina  | Nomade  | Rumba  |
+| Django  | Energie  | Nicola  | Origo  | --- |
+| Eurobravo  | Eurotango  | Royal  | Parel  | --- |
+| Fabiola  | Euroviva  | Rudolph  | Plasuno  | --- |
+| Gandawa  | Festien  | Sarion  | Shannon  | --- |
+| Gunda  | Hansa  | Saturna  | Stefano  | --- |
+| Ibis  | Irene  | Savona  | Sylvana  | --- |
+| Ikone  | Kantara  | Sophytra  | --- | --- |
+| Karakter  | Kuroda  | Stratos  | --- | --- |
+| Katinka  | Marlen  | Supporter  | --- | --- |
+| Kuba  | Merano  | Timate  | --- | --- |
+| Logo  | Monte Carlo  | Ukama  | --- | --- |
+| Novano  | Plasandes  | Vebesta  | --- | --- |
+| Panda  | Plasent  | Vectra  | --- | --- |
+| Plasettie  | Plasstärke  | --- | --- | --- |
+| Plasinka  | Progress  | --- | --- | --- |
+| Provento  | Robény  | --- | --- | --- |
+| Saprodi  | Romano  | --- | --- | --- |
+| Scarlet  | Sassy  | --- | --- | --- |
+| Seresta  | Smaragd  | --- | --- | --- |
+| Signum  | Sofista  | --- | --- | --- |
+| Silla  | Starga  | --- | --- | --- |
+| Simphony  | Taurus  | --- | --- | --- |
+| Stefanie  | Toronto  | --- | --- | --- |
+| Stemster  | Valiant  | --- | --- | --- |
+| Talent  | --- | --- | --- | --- |
+| Tivoli  | --- | --- | --- | --- |
+| Transit  | --- | --- | --- | --- |
+| Ulme  | --- | --- | --- | --- |
+| Vebeca  | --- |
+| Vitabella  | --- |
 
 C 2.  
 
@@ -561,167 +564,123 @@ A.  *Als gebieden als bedoeld in artikel 5, derde lid, worden aangewezen:*
 
 2.  *Omschrijving gebied Bergeijk: *Het gebied rondom Bergeijk, dat door België en de volgende straten is begrensd: Postelsedijk, Sleutelstraat, Weijereind, Kleine Hoeven, Ambachtsweg, De Hoeven/Rondweg (N284) bij Bladel, Lange Trekken, Molenweg/De Vloed, De Gagelvelden, Hemelrijken, Dorpsstraat in Casteren, Casterseweg, Hoofdstraat in Hoogeloon, Heuvelseweg, Heuvel, Broekenseind, Umenweg, D’ekkersrijte, Eerselseweg, Het Groen bij Knegsel, Steenselseweg, Knegselseweg, Riethovenseweg/Stevert, Nedermolen, fietspad/veldweg in zuidelijke richting en uitlopend op De Kuningen, Broekhovenseweg, Schoolstraat en Molenstraat bij Riethoven, Keersopperdreef, Dommelsedijk (N397), Monseigneur Smetstraat, Pastoor Bolsiusstraat, Venbergseweg, Luikerweg (N69), (Oude) Dorpsstraat bij Hoek, Borkel en Schaft, en De Schafterekker.    
 
-B.  *Als rassen, als bedoeld in artikel 5, derde lid, worden aangewezen:*   
+*Bijlage 8 onder B, behorende bij artikel 5, vierde lid: toegelaten aardappelrassen*
 
-| --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
-| Abbott  | Compass  | Kenita  | Platina  | Vanessa  |
-| Abby  | Concorde  | Kiebitz  | Pomqueen  | Vasko  |
-| Acapella  | Connect  | Kiwi  | Ponto  | Vebebe  |
-| Accent  | Constantina  | Kondor  | Prefect  | Vebeca  |
-| Achilles  | Cornado  | Koopmans blauwe  | Premiere  | Vebesta  |
-| Acronet  | Coronada  | Kormoran  | Premium  | Vectra  |
-| Actaro  | Cosmos  | Kristalla  | Prestige  | Velox  |
-| Activa  | Costella  | Krometa  | Prima  | Venouska  |
-| Actrice  | Countessa  | Krostar  | Primadonna  | Verdi  |
-| Adam  | Courage  | Kuba  | Primavera  | Veronica  |
-| Adretta  | Crisp4all  | Kuras  | Primura  | Victoria  |
-| Afra  | Crisper  | Kuroda  | Printaline  | Vienna  |
-| Agata  | Cronos  | Kurola  | Prior  | Vineta  |
-| Agnes  | Cyrano  | Labadia  | Probaat  | Virgo  |
-| Agria  | Daisy  | Labella  | Procura  | Vision  |
-| Agrinova  | Danva  | Lacetta  | Producent  | Vitabella  |
-| Aiko  | Dartiest  | Lady Amarilla  | Profit  | Vital  |
-| Ajax  | Darwina  | Lady Anna  | Promesse  | Vitalia  |
-| Ajiba  | Defender  | Lady Blanca  | Prominent  | Vitara  |
-| Akira  | Delcora  | Lady Britta  | Provento  | Vitesse  |
-| Albas  | Delianne  | Lady Christl  | Provita  | Vivaks  |
-| Albatros  | Delikat  | Lady Claire  | Prudenta  | Volare  |
-| Alberta  | Delista  | Lady Jo  | Quarta  | Volumia  |
-| Albino  | Derby  | Lady Lenora  | Quincy  | Vr 808  |
-| Alcmaria  | Désirée  | Lady Olympia  | Raisa  | Vulkano  |
-| Alexia  | Destiny  | Lady Rosetta  | Raja  | Wilja  |
-| Alkon  | Diamant  | Lady Sara  | Ramos  | Wisent  |
-| Allard  | Diana  | Lady Valora  | Ramses  | Zelinda  |
-| Allure  | Dido  | Lambada  | Rapido  | Zuzanna  |
-| Almera  | Dinamo  | Lamia  | Realist  | --- |
-| Almonda  | Dinky  | Lanorma  | Rebecca  | --- |
-| Alpha  | Dione  | Laperla  | Red Fantasy  | --- |
-| Altus  | Disco  | Latona  | Red Lady  |
-| Alwara  | Ditta  | Leandra  | Red One  |
-| Amalia  | Django  | Lekkerlander  | Red Scarlet  |
-| Amanda  | Dolly  | Leonardo  | Red Sonia  |
-| Amarin  | Donald  | Leyla  | Red Sun  |
-| Amati  | Donata  | Lido  | Red Valentine  |
-| Amazone  | Donna  | Likaria  | Redstar  |
-| Ambassador  | Dorado  | Lindita  | Regina  |
-| Ambra  | Doré  | Linzer delikatess  | Remarka  |
-| Amigo  | Draga  | Linzer gelbe  | Rembrandt  |
-| Aminca  | Drop  | Logita  | Resonant  |
-| Amora  | Eba  | Logo  | Resy  |
-| Amorosa  | El Mundo  | Lola  | Revelino  |
-| Ampera  | Eldena  | Louise  | Rex  |
-| Amyla  | Element  | Lucilla  | Ribera  |
-| Andante  | Elkana  | Lucinda  | Rikea  |
-| Annabelle  | Elles  | Luciole  | Roberta  |
-| Anosta  | Elvira  | Ludmilla  | Rode Pipo  |
-| Antina  | Empire  | Lusa  | Rodeo  |
-| Antoinet  | Endeavour  | Lutetia  | Rodriga  |
-| Apart  | Energie  | Lydia  | Romano  |
-| Apollonia  | Eos  | Lyra  | Romeo  |
-| Appassionato  | Erntestolz  | Madeleine  | Romina  |
-| Aprilia  | Escort  | Madeira  | Romula  |
-| Aranka  | Esmee  | Madison  | Rosagold  |
-| Arcade  | Estima  | Magenta Love  | Rosanna  |
-| Arcona  | Estrella  | Majestic  | Rosara  |
-| Arielle  | Eurobeta  | Manitou  | Rosella  |
-| Aristo  | Eurobona  | Manna  | Roxana  |
-| Arizona  | Eurobravo  | Mansour  | Roxy  |
-| Arkula  | Euroflora  | Maradonna  | Royal  |
-| Arno  | Eurogrande  | Maranca  | Rudolph  |
-| Arosa  | Euroluna  | Marco Polo  | Rumba  |
-| Aromata  | Euronova  | Marfona  | Russet Burbank  |
-| Arrabona  | Europrima  | Margarita  | Rustica  |
-| Arran Banner  | Eurostar  | Margit  | Sagitta  |
-| Arrow  | Eurostarch  | Maria Sarah  | Saline  |
-| Arsenal  | Eurotango  | Mariette  | Salome  |
-| Artemis  | Evelin  | Mariska  | Salsa  |
-| Astarte  | Evita  | Marlen  | Sanira  |
-| Asterix  | Evolution  | Marosso  | Santana  |
-| Athlete  | Ewelina  | Marrakech  | Sante  |
-| Atillo  | Excellency  | Marylou  | Saphire  |
-| Atsona  | Excellent  | Mascotte  | Saskia  |
-| Augusta  | Exklusiv  | Maxilla  | Sassy  |
-| Aula  | Exquisa  | Meerlander  | Satellite  |
-| Aurora  | Fabula  | Melanie  | Satina  |
-| Avano  | Fambo  | Melanto  | Saturna  |
-| Avanti  | Famosa  | Melody  | Sava  |
-| Avarna  | Farmer  | Mentor  | Saviola  |
-| Avaya  | Fasan  | Mercator  | Savona  |
-| Aveka  | Favorita  | Mercury  | Scarlet  |
-| Avenance  | Felsina  | Meridian  | Secura  |
-| Avenue  | Feska  | Merlot  | Selma  |
-| Aveo  | Festien  | Messi  | Semena  |
-| Averia  | Festival  | Messina  | Senaria  |
-| Aviala  | Fianna  | Michelle  | Senator  |
-| Aviron  | Finessa  | Minerva  | Senna  |
-| Avito  | Fioretta  | Mirakel  | Sensor  |
-| Axion  | Flamenco  | Miranda  | Serenade  |
-| Barcelona  | Floky  | Mirka  | Seresta  |
-| Bafana  | Florida  | Miss Bianka  | Shakira  |
-| Ballade  | Folva  | Miss Blush  | Sheida  |
-| Bartina  | Fontane  | Miss Mignonne  | Sieglinde  |
-| Bedalin  | Forelle  | Modena  | Sifra  |
-| Belita  | Franca  | Molli  | Signal  |
-| Bellaprima  | Fresco  | Monalisa  | Signum  |
-| Bellarosa  | Frieslander  | Mondeo  | Silla  |
-| Bellefleur  | Fritelle  | Mondial  | Silverster  |
-| Bellinda  | Gala  | Monitor  | Simone  |
-| Bellini  | Gandawa  | Monte Carlo  | Simphony  |
-| Bellona  | Garant  | Mozart  | Simply Red  |
-| Benno Vrizo  | Gazelle  | Mungo  | Sirco  |
-| Berber  | Gioconda  | Murillo  | Sirius  |
-| Bernadette  | Gigant  | Musica  | Sirtema  |
-| Bernina  | Gloria  | Mustang  | Sissi  |
-| Bettina  | Glorietta  | Nafida  | Sjamero  |
-| Bevelander  | Golf  | Nandina  | Skawa  |
-| Bildtstar  | Grandeur  | Naturo  | Smart  |
-| Bimonda  | Grata  | Navigator  | Sofia  |
-| Binella  | Grenadine  | Nelson  | Solanda  |
-| Bingo  | Gunda  | New Tarzan  | Solara  |
-| Biogold  | Hansa  | Nicola  | Solist  |
-| Biologica  | Hativa  | Nika  | Soltana  |
-| Bionica  | Hela  | Nikita  | Sommergold  |
-| Blanka  | Hercules  | Nomade  | Sonate  |
-| Blue Star  | Hermes  | Nora  | Sophie  |
-| Bolero  | Heros  | Novano  | Sophytra  |
-| Bolesta  | Hertha  | Novella  | Soprano  |
-| Bonell  | Holde  | Novita  | Spartaan  |
-| Bonita  | Horizon  | Obama  | Spirit  |
-| Bonus  | Ibis  | Odin  | Sprint  |
-| Bonza  | Idole  | Okapi  | Spunta  |
-| Bridget  | Ikone  | Oleva  | Stabilo  |
-| Bright  | Impala  | Omega  | Starter  |
-| Briljant  | Inara  | Opera  | Stayer  |
-| Bronko  | Indira  | Orchestra  | Stefanie  |
-| Caesar  | Ingrid  | Origo  | Stefano  |
-| Calla  | Inka  | Ostara  | Stemster  |
-| Canberra  | Innovator  | Ottena  | Stratos  |
-| Captiva  | Inova  | Ovatio  | Supporter  |
-| Cardinal  | Irene  | Pallas  | Surprise  |
-| Carlita  | Irida  | Palma  | Sylvana  |
-| Carolus  | Isabel  | Panda  | Talent  |
-| Cascada  | Isabelia  | Pandora  | Talentine  |
-| Catania  | Isna  | Panther  | Tamira  |
-| Cecile  | Ivory Russet  | Paola  | Target  |
-| Cekin  | Jady  | Parel  | Tella  |
-| Celine  | Jaerla  | Pasha  | Tempora  |
-| Certo  | Janine  | Penta  | Texla  |
-| Challenger  | Janke  | Pentland Crown  | Thomana  |
-| Charisma  | Jazzy  | Pentland Dell  | Timate  |
-| Charmante  | Jelly  | Pentland Ivory  | Toccata  |
-| Christa  | Jessica  | Performer  | Tonia  |
-| Citadel  | Junior  | Perline  | Transit  |
-| Claudia  | Kantara  | Picasso  | Triplo  |
-| Claustar  | Karakter  | Piccolo star  | Turbo  |
-| Cleopatra  | Karatop  | Picobello  | Turdus  |
-| Climax  | Kardal  | Pimpernel  | Ukama  |
-| Clivia  | Karlena  | Pirol  | Ulme  |
-| Colette  | Karnico  | Planta  | Ulster Sceptre  |
-| Collina  | Kartel  | Plasettie  | Valetta  |
-| Colomba  | Katinka  | Plasinka  | Valiant  |
-| Columbus  | Katja  | Plasstärke  | Valisa  |
-| Combi  | Kea  | Plasuno  | Van Gogh  |
+| (10= (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar)  |--- | 10  |
+|:---|:---|:---|
+| 7four7  | Anouk  | Bartina  | Challenger  | Donata  | Fasan  | Isabelia  |
+| Abby  | Antina  | Belita  | Charisma  | Donna  | Favorita  | Isna  |
+| Acapella  | Antoinet  | Bellaprima  | Charmante  | Dorado  | Feska  | Jady  |
+| Accent  | Apart  | Bellarosa  | Christa  | Doré  | Festival  | Jaerla  |
+| Achilles  | Apollonia  | Bellefleur  | Citadel  | Double fun  | Fianna  | Janine  |
+| Acronet  | Appassionato  | Bellinda  | Claudia  | Draga  | Finessa  | Jazzy  |
+| Actaro  | Aprilia  | Bellini  | Claustar  | Drop  | Fioretta  | Jelly  |
+| Activa  | Aranka  | Bellona  | Climax  | Eba  | Flamenco  | Jessica  |
+| Adam  | Arcade  | Benno Vrizo  | Clivia  | El Mundo  | Floky  | Junior  |
+| Adretta  | Arcona  | Bernadette  | Colette  | Eldena  | Folva  | Kantara  |
+| Afra  | Ariata kws  | Bernina  | Colomba  | Element  | Forelle  | Karatop  |
+| Agata  | Aristo  | Bettina  | Columbus  | Elkana  | Franca  | Kardal  |
+| Agnes  | Arizona  | Bevelander  | Combi  | Elles  | Fresco  | Karlena  |
+| Aiko  | Arkula  | Bildtstar  | Concorde  | Elvira  | Frieslander  | Karnico  |
+| Ajax  | Arno  | Bimonda  | Connect  | Empire  | Gala  | Kartel  |
+| Ajiba  | Aromata  | Binella  | Constantina  | Energie  | Gandawa  | Katinka  |
+| Akira  | Arosa  | Bingo  | Cornado  | Eos  | Garant  | Katja  |
+| Albas  | Arrabona  | Biogold  | Cosmos  | Erntestolz  | Gazelle  | Kea  |
+| Albatros  | Arran Banner  | Bionica  | Costella  | Escort  | Gigant  | Kenita  |
+| Alberta  | Arrow  | Blanka  | Countessa  | Esmee  | Gioconda  | Kiebitz  |
+| Albino  | Arsenal  | Bolero  | Courage  | Estima  | Gloria  | Kiwi  |
+| Alcmaria  | Artemis  | Bolesta  | Crisper  | Estrella  | Golf  | Kondor  |
+| Alexia  | Astarte  | Bonell  | Crisps4all  | Eurobeta  | Grandeur  | Koopmans blauwe  |
+| Alkon  | Asterix  | Bonita  | Cronos  | Eurobona  | Grata  | Kormoran  |
+| Allard  | Athlete  | Bonnata kws  | Cyrano  | Eurobravo  | Gunda  | Kristalla  |
+| Allure  | Atillo  | Bonus  | Danva  | Euroflora  | Hativa  | Krometa  |
+| Almera  | Atsona  | Bonza  | Dartiest  | Eurogrande  | Hela  | Krostar  |
+| Almonda  | Augusta  | Bordeaux  | Darwina  | Euroluna  | Hercules  | Kuba  |
+| Alouette  | Aula  | Bright  | Defender  | Euronova  | Hermes  | Kuras  |
+| Alpha  | Aurora  | Briljant  | Delcora  | Europrima  | Heros  | Kuroda  |
+| Altus  | Avano  | Briosa  | Delianne  | Eurostar  | Hertha  | Kurola  |
+| Alwara  | Avanti  | Bronko  | Delikat  | Eurostarch  | Holde  | Labadia  |
+| Amalia  | Avarna  | Caesar  | Delista  | Eurotango  | Horizon  | Labella  |
+| Amanda  | Avaya  | Calla  | Désirée  | Eurotonda  | Ibis  | Lacetta  |
+| Amarin  | Aveka  | Canberra  | Destiny  | Euroviva  Evelin  | Idole  | Lady Amarilla  |
+| Amati  | Avenance  | Captiva  | Diamant  | Evita  | Ikone  | Lady Anna  |
+| Amazone  | Avenue  | Cardinal  | Diana  | Ewelina  | Impala  | Lady Blanca  |
+| Ambassador  | Aveo  | Carlita  | Dido  | Excellency  | Inara  | Lady Britta  |
+| Ambra  | Averia  | Carolus  | Dinamo  | Excellent  | Indira  | Lady Christl  |
+| Amigo  | Aviala  | Cascada  | Dione  | Exklusiv  | Ingrid  | Lady Claire  |
+| Aminca  | Aviron  | Cayenne  | Dirosso  | Exquisa  | Inka  | Lady Lenora  |
+| Amora  | Axion  | Cecile  | Disco  | Fabula  | Innovator  | Lady Olympia  |
+| Andante  | Bafana  | Cekin  | Ditta  | Fado  | Irene  | Lady Sara  |
+| Annabelle  | Ballade  | Celine  | Django  | Fambo  | Irida  | Lady Valora  |
+| Anosta  | Barcelona  | Certo  | Donald  | Famosa  | Isabel  | Lambada  |
+
+| 10 (vervolg)  |
+|:---|
+| Lamia  | Mascotte  | Novella  | Primavera  | Romano  | Sheida  | Thomana  |
+| Lanorma  | Maxilla  | Novita  | Primura  | Romeo  | Sieglinde  | Timate  |
+| Laperla  | Meerlander  | Obama  | Printaline  | Romina  | Sifra  | Toccata  |
+| Latona  | Melanie  | Odin  | Prior  | Romula  | Signal  | Toronto  |
+| Leandra  | Melody  | Okapi  | Probaat  | Rosagold  | Signum  | Transit  |
+| Lekkerlander  | Mentor  | Oleva  | Procura  | Rosanna  | Silla  | Triplo  |
+| Leonardo  | Mercator  | Omega  | Producent  | Rosara  | Silverster  | Turbo  |
+| Leonata kws  | Mercury  | Opera  | Profit  | Rosella  | Simone  | Turdus  |
+| Leyla  | Meridian  | Orchestra  | Promesse  | Rosemara  | Simphony  | Ukama  |
+| Lido  | Merlot  | Origo  | Prominent  | Roxana  | Simply Red  | Ulme  |
+| Likaria  | Messi  | Ostara  | Provento  | Roxy  | Sirco  | Ulster Sceptre  |
+| Lindita  | Messina  | Ovatio  | Provita  | Royal  | Sirius  | Valetta  |
+| Linzer Delikatess  | Metro  | Pallas  | Prudenta  | Rudolph  | Sirtema  | Valiant  |
+| Linzer Gelbe  | Michelle  | Palma  | Quarta  | Rumba  | Sissi  | Valisa  |
+| Logita  | Minerva  | Panamera  | Quincy  | Russet Burbank  | Sjamero  | Vanessa  |
+| Logo  | Mirakel  | Panda  | Raisa  | Rustica  | Skawa  | Vebebe  |
+| Lola  | Miranda  | Pandora  | Raja  | Sagitta  | Smart  | Vebeca  |
+| Lorena  | Mirka  | Panther  | Ramses  | Saline  | Solanda  | Vebesta  |
+| Louise  | Miss Bianka  | Paola  | Ranomi  | Salome  | Solara  | Vectra  |
+| Lucilla  | Modena  | Parel  | Rapido  | Salsa  | Solist  | Velox  |
+| Lucinda  | Molli  | Pasha  | Realist  | Sanibel  | Soltana  | Venouska  |
+| Luciole  | Monalisa  | Penta  | Rebecca  | Sanira  | Sommergold  | Verdi  |
+| Ludmilla  | Mondeo  | Pentland Crown  | Red Fantasy  | Santana  | Sonate  | Veronica  |
+| Lusa  | Mondial  | Pentland Dell  | Red Lady  | Sante  | Sophie  | Victoria  |
+| Lutetia  | Monitor  | Pentland Ivory  | Red One  | Saphire  | Sophytra  | Vienna  |
+| Lydia  | Mont Blanc  | Performer  | Red Scarlett  | Saprodi  | Spartaan  | Vineta  |
+| Lyra  | Monte Carlo  | Perline  | Red Sonia  | Sarion  | Spirit  | Violet Queen  |
+| Madeleine  | Mozart  | Picasso  | Red Sun  | Saskia  | Sprint  | Virgo  |
+| Majestic  | Mungo  | Piccolo Star  | Red Valentine  | Sassy  | Spunta  | Vision  |
+| Manitou  | Murillo  | Picobello  | Redstar  | Satellite  | Stabilo  | Vital  |
+| Manna  | Musica  | Pimpernel  | Regina  | Satina  | Stayer  | Vitalia  |
+| Mansour  | Mustagata kws  | Pirol  | Remarka  | Saturna  | Stefanie  | Vitara  |
+| Maradonna  | Mustang  | Planta  | Resonant  | Sava  | Stefano  | Vitesse  |
+| Maranca  | Nafida  | Plasettie  | Resy  | Saviola  | Stemster  | Vivaks  |
+| Marco polo  | Nandina  | Plasinka  | Revelino  | Savona  | Stratos  | Volare  |
+| Marfona  | Naturo  | Plasure  | Rex  | Scarlet  | Supporter  | Volumia  |
+| Margarita  | Navigator  | Platina  | Ribera  | Secura  | Surprise  | VR 808  |
+| Margit  | Nelson  | Pomqueen  | Rikea  | Selma  | Sylvana  | Vulkano  |
+| Maria Sarah  | New Tarzan  | Ponto  | Riviera  | Semena  | Talent  | Wilja  |
+| Mariska  | Nicola  | Prefect  | Roberta  | Senaria  | Talentine  | Wisent  |
+| Marlen  | Nika  | Premiëre  | Rock  | Senator  | Tamira  | Zuzanna  |
+| Marosso  | Nikita  | Premium  | Rode Pipo  | Senna  | Target  | --- |
+| Marrakech  | Nomade  | Prestige  | Rodeo  | Sensor  | Tella  | --- |
+| Marylou  | Nora  | Prima  | Rodriga  | Seresta  | Tempora  | --- |
+| Masai  | Novano  | Primadonna  | Roko  | Shakira  | Texla  | --- |
+
+| 9  | 8  | 7  | 6  |
+|:---|:---|:---|:---|
+| Actrice  | Heraclea  | Abbot  | Grenadine  | Ampera  | Plasstärke  | Fontane  |
+| Agria  | Inova  | Amorosa  | Hansa  | Berber  | Rembrandt  | --- |
+| Agrinova  | Janke  | Amyla  | Ivory Russet  | Derby  | Serenade  | --- |
+| Avito  | Lady Jo  | Arielle  | Karakter  | --- | --- | --- |
+| Baby Rose  | Lady Rosetta  | Biologica  | Miss Blush  | --- | --- | --- |
+| Bedalin  | Madeira  | Cleopatra  | Miss Mignonne  | --- | --- | --- |
+| --- | Madison  | Collina  | Royata kws  | --- | --- | --- |
+| Blue Star  | Magenta Love  | Compass  | Sofia  | --- | --- | --- |
+| Bridget  | Mariette  | Dinky  | Soprano  | --- | --- | --- |
+| Catania  | Melanto  | Endeavour  | Vasko  | --- | --- | --- |
+| Coronada  | Ottena  | Evolution  | Vitabella  | --- | --- | --- |
+| Daisy  | Plasuno  | Festien  | Zorba  | --- | --- | --- |
+| Dolly  | Ramos  | Fritelle  | --- | --- | --- | --- |
+| Farmer  | Starter  | --- | --- | --- | --- | --- |
+| Felsina  | Tonia  | --- | --- | --- | --- | --- |
+| Florida  | Van Gogh  | --- | --- | --- | --- | --- |
+| Glorietta  | Zelinda  | --- | --- | --- | --- | --- |
 
 ###Bijlage 9 
 
@@ -733,15 +692,15 @@ De volgende zetmeelaardappelrassen mogen onder het TBM-regime vermeerderd worden
 
 | --- | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|:---|
-| Achilles *  | Avarna *  | Dirigent  | Karnico  | Plasandes  | Sassy  | Starga *  |
-| Actaro *  | Avaya  | Energie  | Katinka *  | Plasent *  | Savona  | Stefano *  |
-| Albas  | Aveka  | Eurobona  | Kuba *  | Plasettie *  | Scarlet  | Stratos  |
-| Allure *  | Aventra *  | Euroflora  | Merano *  | Plasinka *  | Seresta *  | Supporter *  |
-| Altus *  | Averia *  | Euronova  | Mercator  | Plasstärke *  | Signum *  | Valiant *  |
-| Amyla  | Axion *  | Eurotango  | Mercury  | Plasuno *  | Simphony  | Vebeca *  |
-| Astarte  | Belita *  | Festien *  | Messina  | Realist  | Smaragd  | Vebesta *  |
-| Aurora *  | Benno Vrizo  | Kantara  | Nomade  | Robény *  | Sofista *  | Vectra  |
-| Avano  | Dartiest *  | Karakter *  | Novano *  | Sarion *  | Sophytra  | --- |
+| Achilles *  | Avarna *  | Dirigent  | Karnico  | Plasandes  | Sarion * | Sophytra |
+| Actaro *  | Avaya  | Energie  | Katinka *  | Plasent *  | Sassy | Starga * |
+| Albas  | Aveka  | Eurobona  | Kuba *  | Plasettie *  | Savona | Stefano * |
+| Allure *  | Aventra *  | Euroflora  | Merano *  | Plasinka *  | Scarlet | Stratos |
+| Altus *  | Averia *  | Euronova  | Mercator  | Plasstärke *  | Seresta * | Supporter * |
+| Amyla  | Axion *  | Eurotango  | Mercury  | Plasuno *  | Signum * | Valiant * |
+| Astarte  | Belita *  | Festien *  | Messina  | Realist  | Simphony | Vebeca * |
+| Aurora *  | Benno Vrizo  | Kantara  | Nomade  | Robény *  | Smaragd | Vebesta * |
+| Avano  | Dartiest *  | Karakter *  | Novano *  | Saprodi | Sofista * |Vectra |
 
 *Let op:* In de wratziektekerngebieden in de omgeving van Barger Compascuüm, Foxel, Mantinge, Ter Apel en Veendam (zie www.productschapakkerbouw.nl/teelt/wratziekte) mogen alleen rassen worden geteeld die ook voldoende resistent zijn tegen fysio 18. Deze rassen zijn aangeduid met een *.
 

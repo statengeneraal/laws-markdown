@@ -36,7 +36,7 @@ d. CCS: de Centrale commissie voor de statistiek.
 
 1.  Er is een Centraal bureau voor de statistiek.   
 2.  Het CBS bezit rechtspersoonlijkheid.   
-3.  De [Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is van toepassing. 
+3.  De Kaderwet zelfstandige bestuursorganen is van toepassing. 
 
 ### Artikel  3  
 
@@ -195,7 +195,7 @@ Ter uitvoering van haar taak kan de CCS zich rechtstreeks tot derden wenden tot 
 ### Artikel  29  
 
 1.  De CCS kan de voorbereiding van bepaalde beslissingen en taken opdragen aan al dan niet uit haar midden ingestelde subcommissies of aan de directeur-generaal.   
-2.  [Artikel 14 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is van overeenkomstige toepassing op de leden van subcommissies die geen lid zijn van de CCS.  
+2.  Artikel 14 van de Kaderwet zelfstandige bestuursorganen is van overeenkomstige toepassing op de leden van subcommissies die geen lid zijn van de CCS.  
 
 ### Artikel  30  
 
@@ -215,7 +215,7 @@ Beslissingen van de CCS worden genomen overeenkomstig het standpunt van de meerd
 
 ### Artikel  32a  
 
-Deze wet, met uitzondering van de artikelen 4, 38a tot en met 39, en artikel 41, tweede lid, onderdeel d, is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat Hoofdstuk 5, paragraaf 4, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van de [Aanpassingswet vierde tranche Awb](../../../../../../../../../../wet/aanpassingswet/vierde/tranche/awb/BWBR0026055/README.md), in genoemde openbare lichamen van toepassing blijft. 
+Deze wet, met uitzondering van de artikelen 4, 38a tot en met 39, 41, tweede lid, onderdeel d, en 52a tot en met 52c, is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat Hoofdstuk 5, paragraaf 4, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van de Aanpassingswet vierde tranche Awb, in genoemde openbare lichamen van toepassing blijft. 
 
 ###Hoofdstuk 5 
 
@@ -239,9 +239,9 @@ a. instellingen en diensten van:
 
 4º. waterschappen;  
 
-5º. openbare lichamen, gevormd ingevolge de [Wet gemeenschappelijke regelingen](../../../../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md);    
+5º. openbare lichamen, gevormd ingevolge de Wet gemeenschappelijke regelingen;    
 
-b. openbare lichamen als bedoeld in [artikel 134 van de Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md);  
+b. openbare lichamen als bedoeld in artikel 134 van de Grondwet;  
 
 c. zelfstandige bestuursorganen op het niveau van de centrale overheid.     
 2.  De directeur-generaal is voorts bevoegd ten behoeve van statistische doeleinden gebruik te maken van gegevens uit registraties die worden bijgehouden door bij algemene maatregel van bestuur, gehoord de CCS, aangewezen rechtspersonen die een bij of krachtens de wet geregelde taak uitoefenen of geheel of gedeeltelijk, direct of indirect, worden bekostigd uit middelen van de Staat of uit de opbrengst van bij of krachtens de wet ingestelde heffingen.   
@@ -255,7 +255,7 @@ De directeur-generaal kan het burgerservicenummer opnemen in een registratie en 
 
 ### Artikel  35  
 
-De directeur-generaal kan ten behoeve van statistische doeleinden persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) verwerken. 
+De directeur-generaal kan ten behoeve van statistische doeleinden persoonsgegevens als bedoeld in artikel 16 van de Wet bescherming persoonsgegevens verwerken. 
 
 ### Artikel  36  
 
@@ -317,16 +317,16 @@ Het in artikel 13, tweede lid, van verordening 638/2004 bedoelde verslag wordt o
 
 ### Artikel  40  
 
-1.  In afwijking van artikel 37 kan de directeur-generaal, uitsluitend ten behoeve van statistische doeleinden in het kader van de uitvoering van de [Wet financiële betrekkingen buitenland 1994](../../../../../../../../../../wet/wet/financiële/betrekkingen/buitenland/1994/BWBR0006547/README.md), gegevens verstrekken aan De Nederlandsche Bank NV.   
+1.  In afwijking van artikel 37 kan de directeur-generaal, uitsluitend ten behoeve van statistische doeleinden in het kader van de uitvoering van de Wet financiële betrekkingen buitenland 1994, gegevens verstrekken aan De Nederlandsche Bank NV.   
 2.  De in het eerste lid bedoelde gegevens worden aangewezen in een door Onze Minister, na overleg met Onze Minister van Financiën en gehoord de CCS, vast te stellen regeling.   
-3.  De op grond van het eerste lid verstrekte gegevens worden door De Nederlandsche Bank NV uitsluitend gebruikt voor werkzaamheden in het kader van de [Wet financiële betrekkingen buitenland 1994](../../../../../../../../../../wet/wet/financiële/betrekkingen/buitenland/1994/BWBR0006547/README.md).  
+3.  De op grond van het eerste lid verstrekte gegevens worden door De Nederlandsche Bank NV uitsluitend gebruikt voor werkzaamheden in het kader van de Wet financiële betrekkingen buitenland 1994.  
 
 ### Artikel  41  
 
 1.  In afwijking van artikel 37 kan de directeur-generaal op verzoek, ten behoeve van statistisch of wetenschappelijk onderzoek, een verzameling van gegevens met betrekking tot het gebruik waarvan passende maatregelen zijn genomen om herkenning van afzonderlijke personen, huishoudens, ondernemingen of instellingen te voorkomen, verstrekken aan een dienst, organisatie of instelling als bedoeld in het tweede lid, dan wel daartoe toegang verlenen.   
 2.  Een verzameling van gegevens als bedoeld in het eerste lid kan worden verstrekt, dan wel daartoe kan toegang worden verleend aan: 
 
-a. een universiteit in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+a. een universiteit in de zin van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
 b. een bij wet ingestelde organisatie of instelling voor wetenschappelijk onderzoek;  
 
@@ -342,7 +342,7 @@ De directeur-generaal willigt een verzoek als bedoeld in artikel 41 slechts in, 
 
 ### Artikel  42a  
 
-1.  In afwijking van artikel 37 kan de directeur-generaal op verzoek, ten behoeve van wetenschappelijk onderzoek op het terrein van de volksgezondheid, gegevens verstrekken die het CBS ten behoeve van statistisch onderzoek op grond van [artikel 12a van de Wet op de lijkbezorging](../../../../../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md) heeft verzameld, van personen die in een wetenschappelijk onderzoek waren betrokken.   
+1.  In afwijking van artikel 37 kan de directeur-generaal op verzoek, ten behoeve van wetenschappelijk onderzoek op het terrein van de volksgezondheid, gegevens verstrekken die het CBS ten behoeve van statistisch onderzoek op grond van artikel 12a van de Wet op de lijkbezorging heeft verzameld, van personen die in een wetenschappelijk onderzoek waren betrokken.   
 2.  De directeur-generaal willigt een verzoek als bedoeld in het eerste lid slechts in, indien de betrokkene tot een zodanige verstrekking zijn uitdrukkelijke toestemming heeft gegeven dan wel, indien de betrokkene tot een zodanige verstrekking geen uitdrukkelijke toestemming heeft kunnen geven, voor zover verzoeker voldoende aantoont dat: 
 
 a. het vragen van toestemming bij leven van de betrokkene in redelijkheid niet mogelijk was of kon worden gevergd;  
@@ -381,6 +381,23 @@ De directeur-generaal kan in plaats van een bestuurlijke boete aan de in artikel
 1.  Aan een last onder dwangsom kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de directeur-generaal.   
 2.  Een last geldt voor een door de directeur-generaal te bepalen termijn van ten hoogste twee jaren.  
 
+### Hoofdstuk  5a  
+
+####Het verlenen van bijstand bij inspecties
+
+### Artikel  52a  
+
+Het CBS verleent op verzoek van de Europese Commissie bijstand bij een inspectie op grond van artikel 5, vierde lid, van Gedelegeerd besluit 2012/678/EU van de Commissie van 29 juni 2012 betreffende onderzoeken en boeten in verband met de manipulatie van statistieken als bedoeld in Verordening (EU) nr. 1173/2011 van het Europees Parlement en de Raad inzake de effectieve handhaving van het begrotingstoezicht in het eurogebied (Pb EU 2012, L 306). 
+
+### Artikel  52b  
+
+1.  De directeur-generaal wijst, in geval van een verzoek om bijstand als bedoeld in artikel 52a, bij besluit de ambtenaren aan die zijn belast met het verlenen van deze bijstand.   
+2.  De ambtenaren, bedoeld in het eerste lid, hebben de bevoegdheden, genoemd in artikel 5, eerste lid, onderdelen a tot en met e, van Gedelegeerd besluit 2012/678/EU van de Commissie van 29 juni 2012 betreffende onderzoeken en boeten in verband met de manipulatie van statistieken als bedoeld in Verordening (EU) nr. 1173/2011 van het Europees Parlement en de Raad inzake de effectieve handhaving van het begrotingstoezicht in het eurogebied (Pb EU 2012, L 306).  
+
+### Artikel  52c  
+
+Op gegevens die verkregen zijn bij het verlenen van bijstand als bedoeld in artikel 52a is artikel 37 niet van toepassing, met dien verstande dat deze gegevens alleen aan de Europese Commissie verstrekt worden. 
+
 ### Hoofdstuk  6  
 
 ####Informatievoorziening
@@ -405,7 +422,7 @@ Onze Minister kan regels stellen over de inrichting van het jaarverslag, bedoeld
 
 ### Artikel  57  
 
-Onze Minister kan nadere regels stellen met betrekking tot de gegevensuitwisseling, bedoeld in [artikel 20, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md). 
+Onze Minister kan nadere regels stellen met betrekking tot de gegevensuitwisseling, bedoeld in artikel 20, eerste lid, van de Kaderwet zelfstandige bestuursorganen. 
 
 ### Hoofdstuk  7  
 
@@ -421,7 +438,7 @@ De kosten voor de uitoefening van de taken ter uitvoering van deze wet komen ten
 
 ### Artikel  61  
 
-In afwijking van [artikel 26 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) geldt de verplichting jaarlijks aan Onze Minister een begroting voor het daaropvolgende jaar te zenden niet voor de CCS. 
+In afwijking van artikel 26 van de Kaderwet zelfstandige bestuursorganen geldt de verplichting jaarlijks aan Onze Minister een begroting voor het daaropvolgende jaar te zenden niet voor de CCS. 
 
 ### Artikel  63  
 
@@ -435,11 +452,11 @@ Onze Minister kan regels stellen over de inrichting van de begroting.
 
 ### Artikel  65  
 
-Onverminderd [artikel 29, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) kan de goedkeuring worden onthouden indien Onze Minister bezwaar heeft tegen de hoogte van het voorgestelde bedrag dat in de rijksbegroting zal worden opgenomen. 
+Onverminderd artikel 29, tweede lid, van de Kaderwet zelfstandige bestuursorganen kan de goedkeuring worden onthouden indien Onze Minister bezwaar heeft tegen de hoogte van het voorgestelde bedrag dat in de rijksbegroting zal worden opgenomen. 
 
 ### Artikel  66  
 
-In de situatie, bedoeld in [artikel 30 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), doet de directeur-generaal tevens onverwijld mededeling aan de CCS onder vermelding van de oorzaak van de verschillen. 
+In de situatie, bedoeld in artikel 30 van de Kaderwet zelfstandige bestuursorganen, doet de directeur-generaal tevens onverwijld mededeling aan de CCS onder vermelding van de oorzaak van de verschillen. 
 
 ### Paragraaf  2  
 
@@ -456,7 +473,7 @@ In de situatie, bedoeld in [artikel 30 van de Kaderwet zelfstandige bestuursorga
 
 ### Artikel  68  
 
-De directeur-generaal behoeft voorafgaande instemming van Onze Minister voor de handelingen, bedoeld in [artikel 32 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md). 
+De directeur-generaal behoeft voorafgaande instemming van Onze Minister voor de handelingen, bedoeld in artikel 32 van de Kaderwet zelfstandige bestuursorganen. 
 
 ### Artikel  70  
 
@@ -483,15 +500,15 @@ Wijzigt de Handelsregisterwet 1996.
 
 ### Artikel  75  
 
-De [wet van 28 december 1936, houdende maatregelen tot het verkrijgen van juiste economische statistieken](../../../../../../../../../../wet/wet/economische/statistieken/BWBR0001982/README.md) (Stb. 639DD), wordt ingetrokken.
+De wet van 28 december 1936, houdende maatregelen tot het verkrijgen van juiste economische statistieken (Stb. 639DD), wordt ingetrokken.
 
 ### Artikel  76  
 
-De [Wet verstrekking gegevens CBS voor statistische doeleinden](../../../../../../../../../../wet/wet/verstrekking/gegevens/cbs/voor/statistische/doeleinden/BWBR0004339/README.md) wordt ingetrokken.
+De Wet verstrekking gegevens CBS voor statistische doeleinden wordt ingetrokken.
 
 ### Artikel  77  
 
-De [Wet op het Centraal bureau en de Centrale commissie voor de statistiek](../../../../../../../../../../wet/wet/op/het/centraal/bureau/en/de/centrale/commissie/voor/de/statistiek/BWBR0008005/README.md) wordt ingetrokken.
+De Wet op het Centraal bureau en de Centrale commissie voor de statistiek wordt ingetrokken.
 
 ### Hoofdstuk  9  
 
@@ -512,16 +529,16 @@ De [Wet op het Centraal bureau en de Centrale commissie voor de statistiek](../.
 
 1.  Onze Minister bepaalt in overeenstemming met Onze Minister van Financiën welke vermogensbestanddelen van de Staat die aan het onder Onze Minister ressorterende CBS worden toegerekend, worden toebedeeld aan het verzelfstandigde CBS.   
 2.  De in het eerste lid bedoelde vermogensbestanddelen gaan met ingang van het tijdstip van verzelfstandiging van het CBS onder algemene titel over op het verzelfstandigde CBS tegen een door Onze Minister in overeenstemming met Onze Minister van Financiën te bepalen waarde.   
-3.  Ingeval krachtens het eerste en het tweede lid registergoederen overgaan, zal verandering in de tenaamstelling in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) plaatsvinden. De daartoe nodige opgaven worden door de zorg van Onze Minister van Financiën aan de bewaarders van de desbetreffende registers gedaan.  
+3.  Ingeval krachtens het eerste en het tweede lid registergoederen overgaan, zal verandering in de tenaamstelling in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek plaatsvinden. De daartoe nodige opgaven worden door de zorg van Onze Minister van Financiën aan de bewaarders van de desbetreffende registers gedaan.  
 
 ### Artikel  80  
 
-Archiefbescheiden van het onder Onze Minister ressorterende CBS gaan met ingang van het tijdstip van verzelfstandiging van het CBS over naar het verzelfstandigde CBS, voor zover zij niet overeenkomstig de [Archiefwet 1995](../../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) zijn overgebracht naar een archiefbewaarplaats. 
+Archiefbescheiden van het onder Onze Minister ressorterende CBS gaan met ingang van het tijdstip van verzelfstandiging van het CBS over naar het verzelfstandigde CBS, voor zover zij niet overeenkomstig de Archiefwet 1995 zijn overgebracht naar een archiefbewaarplaats. 
 
 ###Artikel 81 
 
 1. In wettelijke procedures en rechtsgedingen, waarbij het onder Onze Minister ressorterende CBS is betrokken, treedt met ingang van het tijdstip van verzelfstandiging van het CBS het verzelfstandigde CBS dan wel de directeur-generaal in de plaats van de Staat dan wel Onze Minister.
-2. In zaken waarin voor het tijdstip van verzelfstandiging van het CBS aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan het onder Onze Minister ressorterende CBS, treedt de directeur-generaal op dat tijdstip als bestuursorgaan in de zin van de [Wet Nationale ombudsman](../../../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md) in de plaats van Onze Minister.
+2. In zaken waarin voor het tijdstip van verzelfstandiging van het CBS aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan het onder Onze Minister ressorterende CBS, treedt de directeur-generaal op dat tijdstip als bestuursorgaan in de zin van de Wet Nationale ombudsman in de plaats van Onze Minister.
 
 ### Paragraaf  2  
 

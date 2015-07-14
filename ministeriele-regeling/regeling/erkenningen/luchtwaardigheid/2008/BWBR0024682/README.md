@@ -19,7 +19,7 @@ Besluit:
 
 *BvL-verlengingsinspectie:* inspectie zoals gedefinieerd in artikel 1 van de Regeling bewijzen van luchtwaardigheid; 
 
-*CAMO-erkenning:* erkenning voor het beheren van de blijvende luchtwaardigheid van luchtvaartuigen en de onderdelen daarvan, als bedoeld in verordening (EG) nr. 2042/2003, Part M, section A, subpart G;
+*CAMO-erkenning:* erkenning voor het beheren van de blijvende luchtwaardigheid van luchtvaartuigen en de onderdelen daarvan, als bedoeld in verordening (EU) nr. 1321/2014, Part M, section A, subpart G;
 
 *certificeringspersoneel:* personeel dat door de houder van een erkenning volgens een door de Minister aanvaarde procedure is gemachtigd luchtvaartuigen of onderdelen daarvan als geschikt voor gebruik te certificeren;  
 
@@ -37,11 +37,11 @@ Besluit:
 
 *minister:* Minister van Infrastructuur en Milieu; 
 
-*MOA:* erkenning voor het onderhoud van vliegtuigen, helikopters en luchtschepen of onderdelen daarvan, als bedoeld in bijlage II bij verordening (EG) nr. 2042/2003, (Maintenance Organisation Approval);
+*MOA:* erkenning voor het onderhoud van vliegtuigen, helikopters en luchtschepen of onderdelen daarvan, als bedoeld in bijlage II bij verordening (EU) nr. 1321/2014, (Maintenance Organisation Approval);
 
-*MOA-F:* erkenning voor het onderhoud van vliegtuigen, helikopters en ballonnen of onderdelen daarvan, als bedoeld in verordening (EG) nr. 2042/2003, Part M, section A, subpart F (Maintenance Organisation Approval-F);
+*MOA-F:* erkenning voor het onderhoud van vliegtuigen, helikopters en ballonnen of onderdelen daarvan, als bedoeld in verordening (EU) nr. 1321/2014, Part M, section A, subpart F (Maintenance Organisation Approval-F); 
 
-*orphan aircraft:* luchtvaartuig als bedoeld in artikel 1 van de Regeling bewijzen van luchtwaardigheid.    
+*verordening (EU) nr. 1321/2014:* verordening van de Commissie van 26 november 2014 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen.    
 2.  In deze regeling wordt onder productie mede verstaan: het verrichten van diensten.  
 
 ### Artikel  1a  
@@ -54,7 +54,7 @@ Deze regeling is gebaseerd op de artikelen 1.5 en 3.25 van de Wet luchtvaart en 
 
 ### Artikel  2  
 
-1. De aanvraag voor een erkenning als bedoeld in verordening (EG) nr. 2042/2003 en verordening (EU) nr. 748/2012 wordt ingediend door de functionaris van het bedrijf, die de eindverantwoordelijkheid draagt ten aanzien van het door het bedrijf gevoerde beleid.  
+1. De aanvraag voor een erkenning als bedoeld in verordening (EU) nr. 1321/2014 en verordening (EU) nr. 748/2012 wordt ingediend door de functionaris van het bedrijf, die de eindverantwoordelijkheid draagt ten aanzien van het door het bedrijf gevoerde beleid.  
 2.  Bij de aanvraag verstrekt de aanvrager naast de in de van toepassing zijnde Parts genoemde gegevens de volgende gegevens 
 
 a. een uittreksel, niet ouder dan drie maanden, uit het Handelsregister; en  
@@ -176,16 +176,20 @@ Vervallen per 01-10-2011
 
 ### Artikel  29a  
 
-1.  De minister kan op aanvraag aan een bedrijf op basis van Nederlandse eisen een of meer van de volgende erkenningen afgeven: 
+1.  De minister kan op aanvraag aan een bedrijf de volgende erkenningen afgeven: 
 
-a. een erkenning tot het onderhoud van een Nederlands luchtvaartuig voorzien van een ICAO-standaard-BvL, dan wel een orphan aircraft; en  
+a. een erkenning tot het onderhoud van een Nederlands luchtvaartuig;  
 
-b. een erkenning tot het onderhoudsmanagement van een Nederlands luchtvaartuig voorzien van een ICAO-standaard-BvL, dan wel een orphan aircraft.     
-2.  De minister kan op aanvraag de houder van een erkenning als bedoeld in het eerste lid de bevoegdheid verlenen tot het aanvullend erkennen voor: 
+b. een erkenning tot het onderhoudsmanagement van een Nederlands luchtvaartuig;  
 
-a. het uitvoeren van een BvL-verlengingsinspectie aan een Nederlands luchtvaartuig voorzien van een ICAO-standaard-BvL, dan wel een orphan aircraft; en  
+c. een erkenning voor het verrichten van ontwerpwerkzaamheden voor een Nederlands luchtvaartuig, en  
 
-b. het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een EASA-standaard-BvL, een EASA-beperkt-BvL, een ICAO-standaard-BvL dan wel een export-BvL en de daarbij behorende verklaringen.    
+d. een erkenning tot het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een speciaal-BvL voor een RPA.   De erkenning voor de activiteiten, bedoeld onder a tot en met c, is slechts mogelijk voor zover het een luchtvaartuig betreft als bedoeld in de onderdelen a, b en d van bijlage II bij de basisverordening of dat volledig wordt ingezet voor niet-militaire staatsactiviteiten of diensten.   
+2.  De minister kan op aanvraag de houder van een erkenning als bedoeld in het eerste lid, onderdelen a en b, de bevoegdheid verlenen tot het aanvullend erkennen voor: 
+
+a. het uitvoeren van een BvL-verlengingsinspectie aan een luchtvaartuig als bedoeld in de onderdelen a, b en d van bijlage II bij de basisverordening of dat volledig wordt ingezet voor niet-militaire staatsactiviteiten of diensten, en dat is ingeschreven in het Nederlands register voor burgerluchtvaartuigen; en  
+
+b. het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een EASA-standaard-BvL, een EASA-beperkt-BvL, een ICAO-standaard-BvL dan wel een export-BvL en de daarbij behorende verklaringen.   
 
 ### Artikel  30  
 
@@ -195,19 +199,35 @@ a. dat hij in Nederland is gevestigd; en
 
 b. dat hij aan de erkenningsvoorwaarden opgenomen in de bij deze regeling behorende bijlage C voldoet; of  
 
-c. indien hij een MOA of MOA-F bezit, zijn handboek voorziet van een aanvulling waarin het verschil tussen zijn MOA of MOA-F en de erkenning als bedoeld in artikel 29a, eerste lid, onderdeel a, is opgenomen.     
-2.  De minister geeft een erkenning als bedoeld in artikel 29a, eerste lid, onderdeel b, af nadat de aanvrager heeft aangetoond, dat: 
+c. indien hij een MOA of MOA-F bezit, zijn handboek voorziet van een aanvulling waarin het verschil tussen zijn MOA of MOA-F en de erkenning als bedoeld in artikel 29a, eerste lid, onderdeel a, is opgenomen.     
+2.  De minister geeft een erkenning als bedoeld in artikel 29a, eerste lid, onderdeel b, af nadat de aanvrager heeft aangetoond, dat: 
 
 a. hij in Nederland is gevestigd;  
 
-b. hij voldoet aan de overeenkomstig van toepassing zijnde voorwaarden van Part M, subpart G, van verordening (EG) nr. 2042/2003; en  
+b. hij voldoet aan de overeenkomstig van toepassing zijnde voorwaarden van Part M, subpart G, van verordening (EU) nr. 1321/2014 en  
 
 c. zijn handboek voorziet van een aanvulling waarin de verschillen ten opzichte van Part M en de Regeling onderhoud luchtvaartuigen worden vermeld.     
-3.  De minister geeft een aanvullende onderhoudserkenning als bedoeld in artikel 29a, tweede lid, onderdelen a en b, af indien de aanvrager zijn handboek heeft aangevuld met een procedure met betrekking tot deze keuringen, inspecties en verklaringen. 
+3.  De minister geeft een aanvullende onderhoudserkenning als bedoeld in artikel 29a, tweede lid, onderdelen a en b, af indien de aanvrager zijn handboek heeft aangevuld met een procedure met betrekking tot deze keuringen, inspecties en verklaringen.   
+4.  De minister geeft een erkenning als bedoeld in artikel 29a, eerste lid, onderdeel c, af nadat de aanvrager heeft aangetoond, dat: 
+
+a. hij in Nederland is gevestigd en  
+
+b. hij voldoet aan: 
+
+1°. de overeenkomstig van toepassing zijnde voorwaarden van Part 21, subpart J, van verordening (EU) nr. 748/2012; en  
+
+2°. de aanvullende of afwijkende voorwaarden opgenomen in de bij deze regeling behorende bijlage E.       
+5.  De minister geeft een erkenning als bedoeld in artikel 29a, eerste lid, onderdeel d, af nadat de aanvrager heeft aangetoond dat: 
+
+a. hij een vestiging in Nederland heeft;  
+
+b. hij aan de criteria voor gekwalificeerde instanties, opgenomen in Bijlage V van de basisverordening voldoet en  
+
+c. zijn handboek een door de minister goedgekeurde keuringsmethodiek bevat voor de keuring van RPA’s tot 150 kg.   
 
 ### Artikel  31  
 
-Bij de aanvraag verstrekt de aanvrager de volgende gegevens: 
+1. Bij de aanvraag voor een erkenning als bedoeld in artikel 29a, eerste lid, onderdelen a en b, verstrekt de aanvrager de volgende gegevens: 
 
 a. een korte levensbeschrijving van de aanvrager, het hoofd van de kwaliteitsafdeling, de gemachtigden, alsmede overige leden van het personeel die met betrekking tot de erkenning van het bedrijf een belangrijke functie vervullen, waarin in ieder geval opleiding, ervaring en vroegere functies zijn opgenomen;  
 
@@ -221,7 +241,16 @@ e. een exemplaar van te gebruiken modellen van het certificaat van vrijgave en h
 
 f. een uittreksel, niet ouder dan drie maanden, uit het Handelsregister;  
 
-g. een zelfevaluatie, waarin is opgenomen op welke wijze de aanvrager aan de in de van toepassing zijnde regelgeving bedoelde eisen voldoet, en waar dit in het handboek staat beschreven.   
+g. een zelfevaluatie, waarin is opgenomen op welke wijze de aanvrager aan de in de van toepassing zijnde regelgeving bedoelde eisen voldoet, en waar dit in het handboek staat beschreven.    
+2.  Bij de aanvraag voor een erkenning als bedoeld in artikel 29a, eerste lid, onderdeel c, verstrekt de aanvrager de volgende gegevens: 
+
+a. een korte levensbeschrijving van de aanvrager, het hoofd van de kwaliteitsafdeling, de gemachtigden, alsmede overige leden van het personeel die met betrekking tot de erkenning van het bedrijf een belangrijke functie vervullen, waarin in ieder geval opleiding, ervaring en vroegere functies zijn opgenomen;  
+
+b. een exemplaar van het handboek, als bedoeld in onderdeel 21.A.243 van Part 21 bij verordening (EU) nr. 748/2012;  
+
+c. een uittreksel, niet ouder dan drie maanden, uit het Handelsregister;  
+
+d. een zelfevaluatie betreffende de aanvrager, waarin is opgenomen op welke wijze de aanvrager aan de in de van toepassing zijnde regelgeving bedoelde eisen voldoet, onder verwijzing naar de passages in het handboek waar dit staat beschreven.   
 
 ### Artikel  32  
 
@@ -279,19 +308,21 @@ b. positieve adviezen zijn uitgebracht die op onderdelen onjuist zijn, zonder da
 
 ### Artikel  38  
 
-1.  Het handboek van de aanvrager bevat in ieder geval de informatie die is voorgeschreven in de bij deze regeling behorende bijlage C.   
-2.  In door de minister te bepalen gevallen beschikt de aanvrager over een centraal handboek. Het centrale handboek bevat de hoofdlijnen van en verwijzingen naar het handboek.   
-3.  De aanvrager zendt wijzigingen in het handboek zo spoedig mogelijk aan de minister.  
+1.  Het handboek van de aanvrager van een erkenning als bedoeld in artikel 29a, eerste lid, onderdelen a en b, bevat in ieder geval de informatie die is voorgeschreven in de bij deze regeling behorende bijlage C.   
+2.  Het handboek van de aanvrager van een erkenning als bedoeld in artikel 29a, eerste lid, onderdeel c, bevat de informatie die is voorgeschreven in onderdeel 21.A.243 van Part 21 bij verordening (EU) nr. 748/2012, met in achtneming van de van toepassing zijnde aanvullingen en afwijkingen als bedoeld in de bij deze regeling behorende bijlage E.  
+3.  In door de minister te bepalen gevallen beschikt de aanvrager over een centraal handboek. Het centrale handboek bevat de hoofdlijnen van en verwijzingen naar het handboek.   
+4.  De aanvrager zendt wijzigingen in het handboek zo spoedig mogelijk aan de minister.  
 
 ### Artikel  39  
 
-De houder van een erkenning bewaart de volgende gegevens ten minste gedurende de aangegeven termijn: 
+1. De houder van een erkenning als bedoeld in artikel 29a, eerste lid, onderdelen a en b, bewaart de volgende gegevens ten minste gedurende de aangegeven termijn: 
 
 a. de gegevens met betrekking tot onderhoud van onderdelen of producten: tien jaren na het beëindigen van de werkzaamheden;  
 
 b. de administratie betreffende de afgegeven certificaten van vrijgave en certificaten van vrijgave voor gebruik: tien jaren na de autorisatie daarvan;  
 
-c. de ontvangen certificaten van vrijgave voor gebruik of verklaringen van conformiteit voor materialen of onderdelen, welke van derden zijn betrokken: tien jaren na de verwerking van deze materialen of onderdelen.   
+c. de ontvangen certificaten van vrijgave voor gebruik of verklaringen van conformiteit voor materialen of onderdelen, welke van derden zijn betrokken: tien jaren na de verwerking van deze materialen of onderdelen.    
+2.  De houder van een erkenning als bedoeld in artikel 29a, eerste lid, onderdeel c, bewaart de verklaring van goedkeuring, de ontwerpgegevens en de technische onderbouwing ten minste tot 2 jaar na het uit dienst nemen van het goedgekeurde ontwerp. 
 
 ### Artikel  40  
 
@@ -1102,7 +1133,6 @@ c. de wijzigingsprocedure van het handboek.
 ####, bedoeld in artikel 30, onderdeel c, 2° , en artikel 38, tweede lid , van de Regeling erkenningen luchtwaardigheid 2008
 
 Aanvullende en afwijkende erkenningsvoorwaarden voor een nationale ontwerperkenning 
-Treedt in werking per 01-07-2015 
 
 De minister geeft een nationale ontwerperkenning af overeenkomstig verordening Bijlage I (Part 21) van verordening (EU) nr. 748/2012, en bijbehorend AMC en GM materiaal, met dien verstande dat: 
 
