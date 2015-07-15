@@ -822,12 +822,6 @@ Een besluit omtrent een afgeleide vergunning voor het in de handel brengen van e
 
 ####Vrijstellingen
 
-### Artikel  3.6  
-
-####Werkzame substanties
-
-Vrijstelling wordt verleend tot 1 januari 2015 van het verbod in artikel 2.19, eerste lid van de wet inzake het in de handel brengen van een diergeneesmiddel voor toepassing van de in bijlage 2 vermelde werkzame substanties onder de voorwaarden, genoemd in artikel 3.16 van het besluit. 
-
 ### Artikel  3.7  
 
 ####Vrijstelling diergeneesmiddelen voor specifieke diersoorten
@@ -895,8 +889,9 @@ In bijlage 4 bij deze regeling zijn de vrijstellingen opgenomen die krachtens ho
 
 ####Aanvraag van een vergunning voor vervaardiging, voor het bezit van een substantie die een werkzame stof bevat en een vergunning voor invoer
 
-1.  Aanvragen om een vergunning voor vervaardiging van een diergeneesmiddel, vergunning voor het bezit van een substantie die een werkzame stof bevat en een vergunning voor invoer worden ingediend bij Bureau diergeneesmiddelen met een door de minister vastgesteld formulier of een op de website van Bureau diergeneesmiddelen beschikbaar gestelde elektronische wijze van aanvragen.   
-2.  Een aanvraag met betrekking tot een substantie als bedoeld in artikel 4.1, eerste lid, van het besluit wordt aangemerkt als een melding als bedoeld in artikel 4.1, tweede lid, van het besluit, indien de aanvraag is ingediend met het daartoe vastgestelde volledig ingevulde formulier en de aanvrager de substantie, bedoeld in artikel 4.1, eerste lid, onderdelen a en b, van het besluit: 
+1.  Aanvragen om een vergunning voor vervaardiging van een diergeneesmiddel en een vergunning voor invoer worden ingediend bij Bureau diergeneesmiddelen met een door de minister vastgesteld formulier of een op de website van Bureau diergeneesmiddelen beschikbaar gestelde elektronische wijze van aanvragen.  
+2. Aanvragen om een vergunning voor het bezit van een substantie die een werkzame stof bevat worden ingediend bij het CIBG met een door de minister vastgesteld formulier of een op de website van het CIBG beschikbaar gestelde elektronische wijze van aanvragen. 
+3.  Een aanvraag met betrekking tot een substantie als bedoeld in artikel 4.1, eerste lid, van het besluit wordt aangemerkt als een melding als bedoeld in artikel 4.1, tweede lid, van het besluit, indien de aanvraag is ingediend met het daartoe vastgestelde volledig ingevulde formulier en de aanvrager de substantie, bedoeld in artikel 4.1, eerste lid, onderdelen a en b, van het besluit: 
 
 a. op voorraad heeft, voorhanden heeft, uitvoert in overeenstemming met de artikelen 4.22 en 4.23 van het besluit of na invoer overeenkomstig de artikelen 4.19, 4.20 en 4.21 van het besluit in de handel heeft of vervoert,  
 
@@ -909,7 +904,7 @@ c. niet in de handel brengt, aanprijst, aanbiedt of aflevert aan andere personen
 ####Documenten
 
 1.  Het formulier, bedoeld in artikel 4.1, wordt gevoegd bij de documenten, bedoeld in artikel 4.2, eerste lid, aanhef, van het besluit.   
-2.  Het formulier is verkrijgbaar bij Bureau diergeneesmiddelen.  
+2.  Het formulier is verkrijgbaar bij de instantie waar de aanvraag wordt ingediend.  
 
 ### Artikel  4.3  
 
@@ -1034,7 +1029,7 @@ c. alle informatie die krachtens hoofdstuk 2, paragraaf 4, op de bijsluiter word
 ####Autovaccin
 
 1.  Het is uitsluitend aan een houder van een vergunning voor vervaardiging die diergeneesmiddel bereidt dat een serum, entstof of biologisch diagnosticum bevat, toegestaan een ziekteverwekker, voorhanden of in voorraad te houden voor de bereiding van, of de controle op dat diergeneesmiddel, indien voor dat diergeneesmiddel een vergunning voor het in de handel brengen is verstrekt of een vrijstelling is verleend, onverminderd artikel 2.22, vierde lid, van de wet en de artikelen 3.9, 3.10 en 3.11.   
-2.  In afwijking van het eerste lid is het een dierenarts toegestaan een autovaccin te vervaardigen of bij een apotheek of een houder van een vergunning voor vervaardiging te doen vervaardigen voor dieren die de dierenarts onder zijn hoede heeft , indien bij toepassing van de artikelen 8A.1 en 8A.2 van het besluit slechts een ex tempore bereiding toepasbaar of beschikbaar is en het vaccin geen ziekteverwekker als bedoeld in artikel 2.11, onderdelen a of c, bevat.  
+2.  In afwijking van het eerste lid is het een dierenarts toegestaan een autovaccin te vervaardigen of bij een apotheek of een houder van een vergunning voor vervaardiging te doen vervaardigen voor dieren die de dierenarts onder zijn hoede heeft , indien bij toepassing van de artikelen 5.1 en 5.2 van het Besluit diergeneeskundigen slechts een ex tempore bereiding toepasbaar of beschikbaar is en het vaccin geen ziekteverwekker als bedoeld in artikel 2.11, onderdelen a of c, bevat.  
 
 ### Artikel  4.11  
 
@@ -1050,11 +1045,11 @@ Een bereiding als bedoeld in artikel 4.18, eerste lid, onderdeel b, van het besl
 
 a. er is in Nederland geen diergeneesmiddel beschikbaar, waarvoor een vergunning voor het in de handel brengen is verstrekt of een vrijstelling of ontheffing als bedoeld in hoofdstuk 3, paragraaf 5 van het besluit of artikel 10.1 van de wet is verleend om een aandoening, dierziekte, zoönose, ziekteverschijnsel, gebrek, in- of uitwendig letsel of pijn bij een dier te voorkomen, te genezen, te verzachten, te onderkennen of op te heffen;  
 
-b. bij toepassing van de artikelen 8A.1 en 8A.2 van het besluit blijkt dat een behandeling met een ex tempore bereid diergeneesmiddel noodzakelijk is;  
+b. bij toepassing van de artikelen 5.1 en 5.2 van het Besluit diergeneeskundigen blijkt dat een behandeling met een ex tempore bereid diergeneesmiddel noodzakelijk is;  
 
 c. het diergeneesmiddel bevat, indien het is bestemd om te worden toegepast bij een dier dat voor de productie van levensmiddelen bestemd is, uitsluitend farmacologisch werkzame stoffen die voldoen aan de voorwaarden in bijlage, tabel 1, Toegestane stoffen, bij Verordening (EU) nr. 37/2010;  
 
-d. ingeval het diergeneesmiddel door een apotheker wordt bereid, wordt het diergeneesmiddel uitsluitend afgeleverd aan de dierenarts op wiens recept het middel is bereid, tenzij het diergeneesmiddel met toepassing van artikel 8A.1, vierde lid, of 8A.2, vierde lid, van het besluit onder verantwoordelijkheid van de dierenarts door een ander wordt toegepast, onverminderd artikel 8A.2, negende lid, van het besluit;  
+d. ingeval het diergeneesmiddel door een apotheker wordt bereid, wordt het diergeneesmiddel uitsluitend afgeleverd aan de dierenarts op wiens recept het middel is bereid, tenzij het diergeneesmiddel met toepassing van artikel 5.1, vierde lid, of 5.2, vierde lid, van het Besluit diergeneeskundigen onder verantwoordelijkheid van de dierenarts door een ander wordt toegepast, onverminderd artikel 5.2, negende lid, van het Besluit diergeneeskundigen;  
 
 e. de dierenarts schrijft een wachttermijn voor, indien het diergeneesmiddel wordt bereid voor toepassing bij een dier dat voor de productie van levensmiddelen bestemd is;  
 
@@ -1882,8 +1877,10 @@ b. landbouwhuisdieren of aquacultuurdieren in de handel te brengen waarbij op en
 
 2°. farmacologisch werkzame substanties die in een lijst zijn ingedeeld overeenkomstig artikel 14, tweede lid, onderdeel d, van verordening (EG) nr. 470/2009;    
 
-c. verwerkte producten of vlees van dieren als bedoeld in de onderdelen a en b in de handel te brengen.     
-2.  Het eerste lid is niet van toepassing op dieren als bedoeld in het eerste lid, onderdeel a, en verwerkte producten of vlees van die dieren, indien bij die dieren diergeneesmiddelen zijn toegepast overeenkomstig bij of krachtens artikel 2.19 van de wet gestelde regels.   
+c.  landbouwhuisdieren of aquacultuurdieren in de handel te brengen waarvoor in het geval van toediening van toegestane stoffen of producten de daarvoor voorgeschreven wachttijd niet in acht is genomen; 
+
+d. verwerkte producten of vlees van dieren als bedoeld in de onderdelen a en b in de handel te brengen.     
+2.  Het eerste lid, onderdelen a, b en d, is niet van toepassing op dieren als bedoeld in het eerste lid, onderdeel a, en verwerkte producten of vlees van die dieren, indien bij die dieren diergeneesmiddelen zijn toegepast overeenkomstig bij of krachtens artikel 2.19 van de wet gestelde regels.   
 3.  Het eerste lid, aanhef en onderdeel b, is niet van toepassing op dieren als bedoeld in het eerste lid, onderdeel a, en verwerkte producten of vlees van die dieren, indien overeenkomstig de artikelen 18 en 19 van verordening (EG) nr. 470/2009 een actiedrempel voor een farmacologisch werkzame substantie is vastgesteld en deze actiedrempel niet is overschreden.  
 
 ### Artikel  8.9  
@@ -1904,8 +1901,8 @@ b. om zich ervan te vergewissen dat landbouwhuisdieren of producten van die dier
 
 ####Kwaliteitscontrole
 
-1.  Met het oog op de uitvoering van artikel 9 van richtlijn nr. 96/23/EG kunnen de verschillende betrokken partners in de veehouderijsector zelf kwaliteitscontrole uitoefenen.   
-2.  Indien kwaliteitscontrole als bedoeld in het eerste lid plaatsvindt: 
+1.  Met het oog op de uitvoering van artikel 9 van richtlijn nr. 96/23/EG voeren de verschillende betrokken partners in de veehouderijsector zelf kwaliteitscontrole uit.   
+2.  Bij kwaliteitscontrole als bedoeld in het eerste lid: 
 
 a. worden de zelfcontrolemaatregelen opgenomen in daarvoor in aanmerking komende algemene voorwaarden voor merken en labels;  
 
@@ -2307,7 +2304,7 @@ De kosten van verrichtingen als bedoeld in artikel 9.1, eerste lid, onderdeel g,
 
 ####Retributie vergunning voor vervaardiging van een diergeneesmiddel, vergunning voor het bezit van een substantie die een werkzame stof bevat en vergunning voor invoer
 
-1.  De kosten voor het in behandeling nemen van een aanvraag als bedoeld in bedoeld in artikel 9.1, eerste lid, onderdeel a, van de wet, voor een aanvraag van een vergunning, bedoeld in artikelen 4.1 of 4.21 van het besluit bedragen € 261.   
+1.  De kosten voor het in behandeling nemen van een aanvraag als bedoeld in bedoeld in artikel 9.1, eerste lid, onderdeel a, van de wet, voor een aanvraag van een vergunning, bedoeld in de artikelen 4.1, 4.21 of 5.1 van het besluit bedragen € 261.   
 2.  De kosten van een aanvraag tot wijziging van een vergunning, als bedoeld in het eerste lid, bedragen € 104.  
 
 ### §  5  
@@ -2425,12 +2422,6 @@ De artikelen 15a, 16, eerste en tweede lid, 17 tot en met 20, 21, eerste lid, 22
 1.  In overeenstemming met artikel 16, eerste lid, aanhef, van richtlijn 2001/82/EG in samenhang met artikel 2.20, eerste lid en 11.1, eerste lid, tweede volzin, van de wet en artikel 9.3 van het besluit is het toegestaan een homeopathisch diergeneesmiddel dat is vermeld op de Lijst van homeopathische diergeneesmiddelen 1993, bedoeld in artikel 2, eerste lid, van het Besluit uitzonderingen registratieregime diergeneesmiddelen, zoals die gold voor 13 januari 2006 bij de inwerkingtreding van de Diergeneesmiddelenregeling, in de handel te brengen tot 1 januari 2014.   
 2.  Indien voor 1 januari 2014 een aanvraag als bedoeld in artikel 2.1 in samenhang met de artikelen 3.4 of 3.5 van het besluit wordt ingediend, blijft het na 1 januari 2014 toegestaan het diergeneesmiddel, bedoeld in het eerste lid, in de handel te brengen tot een besluit op de aanvraag is genomen en het diergeneesmiddel met betrekking tot de samenstelling, verpakking en informatie in, op of bij de verpakking voldoet aan het dossier dat bij de aanvraag is ingediend.   
 3.  Een vergoeding als bedoeld in artikel 9.2, tweede en derde lid, wordt niet geheven tot een besluit als bedoeld in het tweede lid is genomen.  
-
-### Artikel  10.5  
-
-####Overgangsrecht lijst van instellingen in bezit van verboden substanties
-
-In afwijking van artikel 3.8 tot en met artikel 3.10 beschikken de instellingen vermeld in bijlage V van de Diergeneesmiddelenregeling, zoals die bijlage luidde bij de inwerkingtreding van deze regeling tot 1 januari 2015, over een ontheffing als bedoeld in artikel 3.22, derde lid, van het besluit, voor het voorhanden en op voorraad hebben alsmede toepassen van een substantie als bedoeld in artikel 2.12, onderdelen d en e. Zij worden opgenomen in het register, bedoeld in artikel 4.17, tweede lid, van het besluit onder vermelding van de aard van de ontheffing. 
 
 ### Artikel  10.5a  
 
@@ -2581,12 +2572,6 @@ j. diergeneesmiddelen die als werkzaam bestanddeel β-agonisten bevatten, voor z
 
 k. antimicrobiële diergeneesmiddelen met uitzondering van antimicrobiële diergeneesmiddelen die krachtens een voorschrift als bedoeld in artikel 2.19, derde lid, onderdeel a, van de wet intraveneus mogen worden toegepast of die de werkzame stof tilmicosine bevatten en parenteraal mogen worden toegepast, voor zover wordt voldaan aan de voorwaarden in bijlage 9.    
 
-### Bijlage  2  
-
-####Substanties als bedoeld in artikel 3.6 
-
-Acium aceticum (tot en met 30%) Acidum hydrochloricum dilutum Adeps lanae hydrosus Aether cum Spritu Alcohol alle sterkten Ammonia (tot en met 10%) Aqua Aurantil Ploris Aqua Foeniculi Aquz Hamamelidis Aqua Menthae pipertae Aqua Rosae Argenti Nitra in bacilis Collodium Collodium cum Oleo Ricini Glycerium Glycerium cum Solutio Camphorae spirituosa Liquor Formaldehydi saponatus Lotio contra Pytyriasin Paraformaldehydi tabletten Pulvis Acidi Salicylici cum Talco Sapo aromaticus Solutio Camphorae spirituosa Solutio Formaldehydi (tot en met 10%) Solutio Hydrogenii Peroxydi (tot en met 3%) Solutio Iodii spirituosa 2% (buisje max. 3 ml.) Spiritus dilitus cum Acido salicylico 1% Spiritus Ketonatus dilitus cum Mentholo 2% Spiritus saponatus Succus Liquiritiae Succus Liquiritiae of Succus Liquiritiae deglycyrrhizinatus gemengd met Amomonii Chloridum Talcum cum Mentholo 2% 
-
 ### Bijlage  3  
 
 ####Lijst van instellingen als bedoeld in artikel 3.10, tweede lid 
@@ -2615,13 +2600,21 @@ c. Rijksinstituut voor volksgezondheid en milieuhygiëne.
 
 1. Van het verbod, bedoeld in artikel 2.19, eerste lid, van de wet, wordt vrijstelling verleend voor het toepassen bij biggen van het gasmengsel CO<sub>2</sub>/O<sub>2</sub> als diergeneesmiddel ter algehele verdoving van biggen en voor het met het oog daarop voorhanden of in voorraad hebben en afleveren van dit middel onder de voorschriften, gesteld in het derde lid.  
 
-2. De vrijstelling, bedoeld in het eerste lid, geldt tot 1 januari 2015.  
+2. De vrijstelling, bedoeld in het eerste lid, geldt tot 1 januari 2019.  
 
 3. Aan de vrijstelling zijn de volgende voorschriften verbonden: 
 
-a. het gasmengsel, bedoeld in het eerste lid, bestaat uit een gasmengsel van 70% CO<sub>2</sub> en 30% O<sub>2</sub>,  
+a. het gasmengsel, bedoeld in het eerste lid, bestaat uit een gasmengsel van 70% CO<sub>2</sub> en 30% O<sub>2</sub>;  
 
-b. de voorschriften, gesteld in de artikelen 2 tot en met 6 van de Tijdelijke vrijstellingsregeling gasverdoving biggen 2008.     
+b. het toepassen van het gasmengsel, bedoeld in het eerste lid, geschiedt ten behoeve van castratie van biggen die niet ouder zijn dan zeven dagen en voorafgaand aan die castratie;  
+
+c. de castratie wordt uitgevoerd onder volledige verdoving;  
+
+d. het gasmengsel, bedoeld in het eerste lid, wordt toegepast door middel van een gasverdovingsapparaat. Het gasverdovingsapparaat is voorzien van een zodanige beveiliging dat biggen voldoende lang aan het gasmengsel worden blootgesteld om de castratie onder volledige verdoving te kunnen uitvoeren en dat biggen niet langer dan twee minuten aan het gasmengsel worden blootgesteld;  
+
+e. degene die het gasverdovingsapparaat, bedoeld in onderdeel d, bedient, heeft zich voorafgaand laten scholen in het verantwoord toepassen van het gasmengsel, bedoeld in het eerste lid, bij biggen met dit apparaat;  
+
+f. de eigenaar of houder van biggen meldt vermoedelijke bijwerkingen aan het Bureau Diergeneesmiddelen bedoeld in artikel 1.1.     
 
 ### C  
 
@@ -2663,42 +2656,6 @@ c. de dierenarts past het diergeneesmiddel toe overeenkomstig de voorschriften o
 
 ### E  
 
-####Tijdelijke vrijstelling vaccin ter voorkoming van Q-koorts bij schapen en geiten
-
-1. Van het verbod, bedoeld in artikel 2.19, eerste lid, van de wet, wordt vrijstelling verleend voor het toepassen bij schapen of geiten van het diergeneesmiddel ‘Coxevac’ van de firma CEVA SANTE ANIMALE B.V. te Naaldwijk ten behoeve van het voorkomen van Q-koorts en met het oog daarop het voorhanden hebben of in voorraad hebben en het afleveren van het middel onder de voorschriften, gesteld in het derde lid.  
-
-2. De vrijstelling, bedoeld in het eerste lid, geldt tot 1 januari 2015.  
-
-3. Aan de vrijstelling zijn de volgende voorschriften verbonden: 
-
-a. het diergeneesmiddel wordt uitsluitend verstrekt door toepassing door de dierenarts als bedoeld in artikel 2.17,  
-
-b. de vermeldingen op de verpakking en de bijsluiter zijn in de Nederlandse taal gesteld, en  
-
-c. de dierenarts past het diergeneesmiddel toe overeenkomstig de voorschriften op, bij of in de verpakking van het middel.    
-
-4. Het eerste lid is tevens van toepassing op andere diergeneesmiddelen met identieke farmacologisch werkzame stoffen en toepassing, waarvoor in de Europese Economische Ruimte door een lidstaat een vergunning voor het in de handel brengen is verleend, onverminderd de artikelen 3.14 en 4.20, tweede lid, van het besluit.   
-
-### F  
-
-####Tijdelijke vrijstelling van vaccin Gudair
-
-1. Van het verbod, bedoeld in artikel 2.19, eerste lid, van de wet, wordt vrijstelling verleend voor het toepassen bij schapen en geiten van het diergeneesmiddel Gudair van CZ Veterinaira S.A., ten behoeve van behandeling van paratuberculose en met het oog daarop het voorhanden hebben of in voorraad hebben van het middel onder de voorschriften, gesteld in het derde lid.  
-
-2. De vrijstelling, bedoeld in het eerste lid, geldt tot 1 oktober 2014.  
-
-3. Aan de vrijstelling zijn de volgende voorschriften verbonden: 
-
-a. het diergeneesmiddel wordt uitsluitend verstrekt door toepassing door de dierenarts als bedoeld in artikel 2.17.  
-
-b. de vermeldingen op de verpakking en de bijsluiter zijn in de Nederlandse taal gesteld, en  
-
-c. de dierenarts past het diergeneesmiddel toe overeenkomstig de voorschriften op, bij of in de verpakking van het middel.    
-
-4. Het eerste lid is tevens van toepassing op andere diergeneesmiddelen met identieke farmacologisch werkzame stoffen en toepassing, waarvoor in de Europese Economische Ruimte door een lidstaat een vergunning voor het in de handel brengen is verleend, onverminderd de artikelen 3.14 en 4.20, tweede lid, van het besluit.   
-
-### G  
-
 ####Tijdelijke vrijstelling van het tocolyticum Planipart
 
 1. Van het verbod, bedoeld in art. 2.19, eerste lid, van de wet, wordt vrijstelling verleend voor het toepassen bij runderen van het diergeneesmiddel ‘Planipart’ van de firma Boehringer Ingelheim, dat is geregistreerd in België onder nummer BE-V122516, ten behoeve van uterusrelaxatie bij koeien en met het oog daarop het in Nederland brengen, vervoeren, voorhanden hebben of in voorraad hebben en het afleveren van het middel onder de voorschriften, gesteld in het derde lid.  
@@ -2714,6 +2671,32 @@ b. de vermeldingen op de verpakking en de bijsluiter zijn in de Nederlandse taal
 c. de dierenarts past het middel toe overeenkomstig de voorschriften op, bij of in de verpakking van het middel.    
 
 4. Het eerste lid is tevens van toepassing op andere diergeneesmiddelen met identieke farmacologische werkzame stoffen en toepassing, waarvoor in de Europese Economische Ruimte door een lidstaat een vergunning voor het in de handel brengen is verleend, onverminderd de artikelen 3.14 en 4.20, tweede lid, van het besluit.  
+
+###F 
+
+#### Tijdelijke vrijstelling diagnostica op niet levend materiaal van dierlijke herkomst
+
+1. Van het verbod, bedoeld in art. 2.19, eerste lid, van de wet, wordt vrijstelling verleend voor diergeneesmiddelen die bestemd zijn en uitsluitend worden gebruikt als diagnosticum op niet levend materiaal van dierlijke herkomst, ter onderkenning van een ziekte of de immunologische status van dieren.  
+
+2. De vrijstelling, bedoeld in het eerste lid, geldt tot 1 januari 2020.  
+
+### F  
+
+####Vrijstelling vaccin ter voorkoming van Q-koorts bij schapen
+
+1. Van het verbod, bedoeld in artikel 2.19, eerste lid, van de wet, wordt vrijstelling verleend voor het toepassen bij schapen van het diergeneesmiddel ‘Coxevac’ van de firma CEVA SANTE ANIMALE B.V. te Naaldwijk ten behoeve van het voorkomen van Q-koorts en met het oog daarop het voorhanden hebben of in voorraad hebben en het afleveren van het middel onder de voorschriften, gesteld in het derde lid.  
+
+2. De vrijstelling, bedoeld in het eerste lid, geldt voor onbepaalde tijd.  
+
+3. Aan de vrijstelling zijn de volgende voorschriften verbonden: 
+
+a. het diergeneesmiddel wordt uitsluitend verstrekt door toepassing door de dierenarts als bedoeld in artikel 2.17,  
+
+b. de vermeldingen op de verpakking en de bijsluiter zijn in de Nederlandse taal gesteld, en  
+
+c. de dierenarts past het diergeneesmiddel toe overeenkomstig de voorschriften op, bij of in de verpakking van het middel, voor zover deze niet betrekking hebben op het uitsluiten van schapen als doeldiersoort.    
+
+4. Het eerste lid is tevens van toepassing op andere diergeneesmiddelen met identieke farmacologisch werkzame stoffen en toepassing, waarvoor in de Europese Economische Ruimte door een lidstaat een vergunning voor het in de handel brengen is verleend, onverminderd de artikelen 3.14 en 4.20, tweede lid, van het besluit.  
 
 ### Bijlage  5  
 
@@ -2795,7 +2778,7 @@ b. verplicht de houder ertoe om:
 
 1°. De entstoffen, antimicrobiële diergeneesmiddelen onderscheidenlijk de immunologische diergeneesmiddelen uitsluitend af te nemen van de dierenarts of een apotheker op recept van de dierenarts;  
 
-2°. De dierenarts toegang te verschaffen tot alle lokaliteiten waar door de houder varkens worden gehouden en inzage te verschaffen in de administratie, bedoeld in artikel 9A.8;    
+2°. De dierenarts toegang te verschaffen tot alle lokaliteiten waar door de houder varkens worden gehouden en inzage te verschaffen in de administratie, bedoeld in artikel 3.1 van de Regeling houders van dieren;    
 
 c. verplicht beide partijen ertoe om zich ten minste eenmaal per jaar te laten controleren op het nakomen van de in deze bijlage opgenomen voorwaarden door een instelling die: 
 
@@ -2815,7 +2798,7 @@ b. bezoekt ten minste eenmaal per vier weken alle lokaliteiten waar door de houd
 
 1°. de noodzaak tot het toepassen van de entstoffen, antimicrobiële diergeneesmiddelen, onderscheidenlijk immunologische diergeneesmiddelen;  
 
-2°. nakoming van de verplichting, bedoeld in artikel 9A.8;    
+2°. nakoming van de verplichting, bedoeld in artikel 3.1 van de Regeling houders van dieren;    
 
 c. maakt een verslag van elk bezoek als bedoeld in onderdeel b en bewaart dat verslag tot ten minste één jaar na de datum van het bezoek;  
 
@@ -2883,7 +2866,7 @@ a. neemt alle diergeneeskundige zorg die ingevolge het bepaalde bij of krachtens
 
 b. verschaft de dierenarts toegang tot alle ruimten waar de houder dieren houdt waar de overeenkomst betrekking op heeft;  
 
-c. verschaft de dierenarts inzage in de administratie, bedoeld in artikel 9A.8.   
+c. verschaft de dierenarts inzage in de administratie, bedoeld in artikel 3.1 van de Regeling houders van dieren.   
 
 ### 5  
 

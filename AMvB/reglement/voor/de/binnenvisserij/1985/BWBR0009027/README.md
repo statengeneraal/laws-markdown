@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Landbouw, Natuurbeheer en Visserij, van 23 juli 1997, no. J. 977964, Directie Juridische Zaken; 
 
-Gelet op [artikel 16 van de Visserijwet 1963](../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md); 
+Gelet op artikel 16 van de Visserijwet 1963; 
 
 De Raad van State gehoord (advies van 12 augustus 1997, no. W11.97.0503); 
 
@@ -53,7 +53,8 @@ q. «kreeftenkorf»: vistuig bestaande uit een frame van kunststof of een ander 
 
 r. «schepnet»: vistuig bestaande uit een aan een stok of steel gemonteerd frame dat voorzien is van een zakvormig knoop- of strikwerk waarvan de diepte ten hoogste 150 cm bedraagt, en een framebreedte heeft van ten hoogste 100 cm, een framehoogte van ten hoogste 80 cm, dan wel een frameoppervlak van ten hoogste 0,8 m<sup>2</sup>.    
 2.  In dit besluit en de daarop berustende bepalingen wordt onder het IJsselmeer mede verstaan de daaraan gelegen open havens.    
-3.  Waar het IJsselmeer in verbinding staat met andere binnenwateren geldt als grens:  
+3.  In dit besluit en de daarop berustende bepalingen wordt onder het IJsselmeer mede verstaan het Markermeer en het IJmeer.  
+4.  Waar het IJsselmeer in verbinding staat met andere binnenwateren geldt als grens:  
 
 a. waar geen open verbinding is, de dichtst bij het IJsselmeer gelegen waterkering;   
 
@@ -116,8 +117,9 @@ a. de aalzegen en het kruisnet: 20 mm
 b. de ankerkuil: 25 mm   
 
 c. het staand net: 101 mm      
-2.  Het is verboden met de aalfuik te vissen, indien de maaswijdte kleiner is dan 20 mm tenzij in de buitenwand daarvan een aantal zuiver ronde ringetjes van metaal of enige andere niet rekbare stof met een middellijn van tenminste 13 mm binnenwerks zijn geplaatst binnen 20 mazen achter de aanhechting van de laatste inkeling of de laatste hoepel aan de bovenzijde van de fuik. Dit aantal bedraagt bij 300 of minder mazen opzet om de eerste hoepel achter de vleugels tenminste twee en bij meer dan 300 mazen opzet om de eerste hoepel achter de vleugels tenminste vier.    
-3.  Het is verboden te vissen met een vistuig,, indien met betrekking tot dat vistuig enige handeling is verricht of enig middel is aangewend, waardoor het ontsnappen van vis kan worden bemoeilijkt of belet.   
+2.  In afwijking van het eerste lid, onderdeel c, kan bij ministeriële regeling worden bepaald dat het in een daarbij te bepalen periode verboden is met het staand net te vissen, indien de maaswijdte kleiner is dan het in die regeling genoemde aantal millimeters.  
+3.  Het is verboden met de aalfuik te vissen, indien de maaswijdte kleiner is dan 20 mm tenzij in de buitenwand daarvan een aantal zuiver ronde ringetjes van metaal of enige andere niet rekbare stof met een middellijn van tenminste 13 mm binnenwerks zijn geplaatst binnen 20 mazen achter de aanhechting van de laatste inkeling of de laatste hoepel aan de bovenzijde van de fuik. Dit aantal bedraagt bij 300 of minder mazen opzet om de eerste hoepel achter de vleugels tenminste twee en bij meer dan 300 mazen opzet om de eerste hoepel achter de vleugels tenminste vier.    
+4.  Het is verboden te vissen met een vistuig,, indien met betrekking tot dat vistuig enige handeling is verricht of enig middel is aangewend, waardoor het ontsnappen van vis kan worden bemoeilijkt of belet.   
 
 ### Artikel  5  
 
@@ -168,7 +170,7 @@ e. voor het vissen in de Rijn, de Maas, de IJssel en alle andere stromende water
 ### Artikel  7a  
 
 1.  Het is verboden te vissen met de vistuigen genoemd in artikel 2, eerste lid, onderdelen c tot en met q, tenzij dat vissen plaatsvindt in het IJsselmeer.   
-2.  Het verbod is niet van toepassing op de visrechthebbende en de houder van een schriftelijke toestemming, als bedoeld in [artikel 21, tweede lid, onderdeel a, van de Visserijwet 1963](../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md), die beroepsmatig de visserij uitoefent en voldoet aan bij ministeriële regeling gestelde voorwaarden.  
+2.  Het verbod is niet van toepassing op de visrechthebbende en de houder van een schriftelijke toestemming, als bedoeld in artikel 21, tweede lid, onderdeel a, van de Visserijwet 1963, die beroepsmatig de visserij uitoefent en voldoet aan bij ministeriële regeling gestelde voorwaarden.  
 
 ### Artikel  8  
 
@@ -188,12 +190,13 @@ a. het gebruik daarvan in het betrokken water bij of krachtens de artikelen 2 to
 b. men niet bevoegd is daarmee te vissen;   
 
 c. men niet gerechtigd is in het betrokken water daarmee te vissen.    2. Het verbod, bedoeld in het eerste lid, geldt niet, indien het vistuig zodanig verpakt of in zodanige toestand is, dat dadelijk gebruik daarvan niet mogelijk is.    
-3.  Het is verboden op het IJsselmeer, anders dan in een haven, vistuig aan boord van een vissersvaartuig als bedoeld in [artikel 1, onderdeel b, van het Besluit registratie vissersvaartuigen 1998](../../../../../../../AMvB/besluit/registratie/vissersvaartuigen/1998/BWBR0009353/README.md) te hebben, indien het gebruik daarvan, ingevolge het bij of krachtens dit besluit bepaalde, verboden is.  
+3.  Het is verboden op het IJsselmeer, anders dan in een haven, vistuig aan boord van een vissersvaartuig als bedoeld in artikel 1, onderdeel b, van het Besluit registratie vissersvaartuigen 1998 te hebben, indien het gebruik daarvan, ingevolge het bij of krachtens dit besluit bepaalde, verboden is.  
 
 ### Artikel  10a  
 
-1.  Een ieder die vis van de door Onze Minister aangewezen soorten aanvoert, aan- of verkoopt of onder zich houdt, of die bemiddeling verleent bij het veilen van die vis, is verplicht een administratie te voeren en aan Onze Minister periodiek opgave te doen van de hoeveelheden vis door hem aangevoerd, aan- of verkocht, onder zich gehouden, dan wel aan hem ter veiling aangeboden.   
-2.  Onze Minister stelt nadere regels ten aanzien van de eisen waaraan de in het eerste lid bedoelde administratie dient te voldoen en de wijze waarop de in dat lid bedoelde opgave dient te geschieden, en kan voorschriften geven in het belang van de naleving van deze regels.  
+1.  Een ieder die vis van de door Onze Minister aangewezen soorten aanvoert, aan- of verkoopt of onder zich houdt, of die bemiddeling verleent bij het veilen van die vis, is verplicht een administratie te voeren en aan Onze Minister periodiek of op verzoek opgave te doen van de hoeveelheden vis door hem aangevoerd, aan- of verkocht, onder zich gehouden, dan wel aan hem ter veiling aangeboden.   
+2.  In aanvulling op het eerste lid, is een ieder die vis van de door Onze Minister aangewezen soorten aanvoert, tevens verplicht een administratie te voeren en aan Onze Minister periodiek of op verzoek opgave te doen van andere bij ministeriële regeling aangewezen gegevens betreffende visserij-inspanning, dan wel andere gegevens die van belang kunnen zijn voor het bepalen van de visstand in het IJsselmeer.  
+3.  Onze Minister stelt nadere regels ten aanzien van de eisen waaraan de in het eerste lid bedoelde administratie dient te voldoen en de wijze waarop de in dat lid bedoelde opgave dient te geschieden, en kan voorschriften geven in het belang van de naleving van deze regels.  
 
 ###Artikel 10b 
 

@@ -352,21 +352,28 @@ e. niet leerplichtig of kwalificatieplichtig is, dan wel een opleiding volgt waa
 
 ### Artikel  4.1a  
 
-1.  Aan de inburgeringsplichtige kan eenmalig op aanvraag een lening van ten hoogste € 5.000,– worden verstrekt ten behoeve van: 
+1.  Aan de inburgeringsplichtige kan eenmalig op aanvraag een lening van ten hoogste € 10.000,– worden verstrekt ten behoeve van: 
 
 a. het volgen bij een cursusinstelling van een cursus die opleidt tot het inburgeringsexamen of het staatsexamen Nederlands als tweede taal I of II als bedoeld in artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs;  
 
-b. het afleggen van een examen als bedoeld onder a.     
+b. het afleggen van een examen als bedoeld onder a; of  
+
+c. het volgen van een alfabetiseringscursus.    
 2.  De hoogte van de lening wordt bepaald aan de hand van de hoogte van het overeenkomstig artikel 8, eerste tot en met derde lid, van de Algemene wet inkomensafhankelijke regelingen te berekenen toetsingsinkomen van de inburgeringsplichtige en diens partner als bedoeld in artikel 3 van die wet.   
-3.  In afwijking van het eerste lid kan een lening worden verstrekt van ten hoogste € 10.000,–, aan de inburgeringsplichtige en kan hij de lening tevens aanwenden voor het volgen van een alfabetiseringscursus, indien hij: 
+3.  Het tweede lid is niet van toepassing op de inburgeringsplichtige, bedoeld in het eerste lid, die rechtmatig verblijf heeft op grond van een: 
 
-a. rechtmatig verblijf heeft op grond van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Vreemdelingenwet 2000, of  
+a. verblijfsvergunning asiel voor bepaalde tijd; of  
 
-b. als gezinslid van een houder van een verblijfsvergunning als bedoeld in artikel 28 of 33 van de Vreemdelingenwet 2000 rechtmatig verblijf houdt als bedoeld in artikel 8, onderdeel a, van die wet.     
-4.  Het tweede lid is niet van toepassing op de inburgeringsplichtige, bedoeld in het derde lid.   
-5.  De lening ten behoeve van het volgen van een cursus wordt slechts verstrekt indien de inburgeringsplichtige een cursus volgt bij een cursusinstelling die in het bezit is van een bij regeling van Onze Minister aan te wijzen keurmerk of van het in artikel 9, eerste lid, van de wet bedoelde certificaat.   
-6.  De lening wordt niet verstrekt, indien de inburgeringsplichtige op grond van artikel 4.1 zoals dat luidde voor het tijdstip van inwerkingtreding van het besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 432) een lening is verstrekt en deze nog niet geheel is terugbetaald of kwijtgescholden.   
-7.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de toepassing van het eerste, tweede, derde en vijfde lid.  
+b. verblijfsvergunning regulier voor bepaalde tijd, verleend onder een beperking verband houdend met verblijf als familie- of gezinslid, voor verblijf bij: 
+
+1°. een houder van een verblijfsvergunning asiel voor bepaalde tijd,  
+
+2°. een houder van een verblijfsvergunning asiel voor onbepaalde tijd, of  
+
+3°. een houder van een EU-verblijfsvergunning voor langdurig ingezetenen die is verleend met een aantekening inzake internationale bescherming als bedoeld in artikel 45c, eerste lid, van de Vreemdelingenwet 2000.       
+4.  De lening ten behoeve van het volgen van een cursus wordt slechts verstrekt indien de inburgeringsplichtige een cursus volgt bij een cursusinstelling die in het bezit is van een bij regeling van Onze Minister aan te wijzen keurmerk of van het in artikel 9, eerste lid, van de wet bedoelde certificaat.   
+5.  De lening wordt niet verstrekt, indien de inburgeringsplichtige op grond van artikel 4.1 zoals dat luidde voor het tijdstip van inwerkingtreding van het besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 432) een lening is verstrekt en deze nog niet geheel is terugbetaald of kwijtgescholden.   
+6.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de toepassing van het eerste, tweede, derde en vijfde lid.  
 
 ### Artikel  4.2  
 
@@ -437,7 +444,7 @@ Bij regeling van Onze Minister worden regels gesteld omtrent verzuim, aanmaning 
 
 1.  De schuld kan op verzoek van de inburgeringsplichtige door Onze Minister in bij regeling van Onze Minister aan te wijzen gevallen geheel of gedeeltelijk worden kwijtgescholden.   
 2.  Onze Minister geeft binnen acht weken na ontvangst van de aanvraag van een debiteur om gehele of gedeeltelijke kwijtschelding een beschikking.   
-3.  Aan vreemdelingen die rechtmatig verblijf in Nederland hebben verkregen op grond van artikel 8, onderdeel c, van de Vreemdelingenwet 2000 en op of na 1 januari 2013 inburgeringsplichtig zijn geworden, wordt volledige kwijtschelding van de opgebouwde schuld ambtshalve verleend indien:
+3.  Aan vreemdelingen als bedoeld in artikel 4.1a, derde lid, die op of na 1 januari 2013 inburgeringsplichtig zijn geworden, wordt volledige kwijtschelding van de schuld ambtshalve verleend indien:
 
 a. voldaan is aan de inburgeringsplicht binnen de termijn, bedoeld in artikel 7, eerste lid, van de wet of gedurende de verlengde termijn, bedoeld in artikel 7, derde en vierde lid, aanhef en onderdeel a, van de wet; of  
 

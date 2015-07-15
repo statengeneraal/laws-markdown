@@ -36,21 +36,23 @@ j.Richtlijn: Richtlijn 2002/98/EG van het Europees Parlement en de Raad van 27 j
 1. De Bloedvoorzieningsorganisatie deelt de Minister de gegevens mede, bedoeld in Bijlage I.
 2. De Bloedvoorzieningsorganisatie behoeft voor ingrijpende wijziging in haar werkzaamheden de schriftelijke toestemming van de Minister.
 
-###Artikel 3 
+### Artikel  3  
 
-1. De Bloedvoorzieningsorganisatie zorgt ervoor dat:
+1.  De Bloedvoorzieningsorganisatie zorgt ervoor dat: 
 
-–bij het inzamelen en testen van elke eenheid bloed of bloedbestanddelen, ongeacht het beoogde gebruik, en bij het bewerken, opslaan en distribueren ervan indien zij voor transfusie bestemd zijn, de daarvoor geldende regels worden nageleefd;
+– bij het inzamelen en testen van elke eenheid bloed of bloedbestanddelen, ongeacht het beoogde gebruik, en bij het bewerken, opslaan en distribueren ervan indien zij voor transfusie bestemd zijn, de daarvoor geldende regels worden nageleefd;  
 
-–de Minister ter zake van de aanwijzingsprocedure, bedoeld in artikel 3 van de Wet inzake bloedvoorziening, de nodige informatie ontvangt.
-2. De Bloedvoorzieningsorganisatie draagt de uitvoering van de in het eerste lid genoemde taken op aan een persoon die ten minste:
+– de Minister ter zake van de aanwijzingsprocedure, bedoeld in artikel 3 van de Wet inzake bloedvoorziening, de nodige informatie ontvangt;  
 
-a.houder is van een diploma, certificaat of ander bewijsstuk ter afsluiting van een universitaire opleiding op het gebied van geneeskunde of biologie, of van een door de Minister als gelijkwaardig erkende opleiding;
+– de voorschriften van de artikelen 4 tot met 8 in de Bloedvoorzieningsorganisatie worden toegepast.    
+2.  De Bloedvoorzieningsorganisatie draagt de uitvoering van de in het eerste lid genoemde taken op aan een persoon die ten minste: 
 
-b.na het behalen van het diploma tenminste twee jaar praktijkervaring op relevante gebieden heeft opgedaan in een of meer instellingen die activiteiten mogen verrichten met betrekking tot het inzamelen of testen van bloed en bloedbestanddelen van menselijke oorsprong of met betrekking tot het bewerken, opslaan en distribueren daarvan.
-3. De in het tweede lid bedoelde persoon kan zijn taken delegeren aan andere personen die door hun opleiding of ervaring gekwalificeerd zijn om die taken uit te voeren.
-4. De Bloedvoorzieningsorganisatie deelt de Minister de naam van de in het tweede lid bedoelde persoon en de in het derde lid bedoelde personen mee, onder opgave van de specifieke taken waarmee zij zijn belast.
-5. Wanneer de personen, bedoeld in het tweede of derde lid, tijdelijk of definitief vervangen worden, deelt de Bloedvoorzieningsorganisatie de Minister onmiddellijk de naam van de nieuwe persoon en de datum van diens infunctietreding mee.
+a. houder is van een diploma, certificaat of ander bewijsstuk ter afsluiting van een universitaire opleiding op het gebied van geneeskunde, biologie of farmacie, of van een door de Minister als gelijkwaardig erkende opleiding;  
+
+b. na het behalen van het diploma tenminste twee jaar praktijkervaring op relevante gebieden heeft opgedaan in een of meer instellingen die activiteiten mogen verrichten met betrekking tot het inzamelen of testen van bloed en bloedbestanddelen van menselijke oorsprong of met betrekking tot het bewerken, opslaan en distribueren daarvan.     
+3.  De in het tweede lid bedoelde persoon kan zijn taken delegeren aan andere personen die door hun opleiding of ervaring gekwalificeerd zijn om die taken uit te voeren.   
+4.  De Bloedvoorzieningsorganisatie deelt de Minister de naam van de in het tweede lid bedoelde persoon en de in het derde lid bedoelde personen mee, onder opgave van de specifieke taken waarmee zij zijn belast.   
+5.  Wanneer de personen, bedoeld in het tweede of derde lid, tijdelijk of definitief vervangen worden, deelt de Bloedvoorzieningsorganisatie de Minister onmiddellijk de naam van de nieuwe persoon en de datum van diens infunctietreding mee.  
 
 ###Artikel 4 
 
@@ -113,7 +115,6 @@ De Bloedvoorzieningsorganisatie zorgt ervoor dat de in het kader van deze regeli
 –voorkomt zij ongeoorloofde bekendmaking van dergelijke informatie, waarbij de donaties echter wel traceerbaar moeten blijven.
 
 ### Artikel  14a  
-Treedt in werking per 01-07-2015 
 
 De Minister van Defensie neemt bij het uitvoeren van de taken bedoeld in artikel 11a van de Wet inzake bloedvoorziening de volgende voorschriften in acht, met dien verstande dat voor ‘Bloedvoorzieningsorganisatie’ wordt verstaan de organisatie belast met de militaire bloedvoorziening: 
 
@@ -124,7 +125,6 @@ b. het bij of krachtens de artikelen 3, eerste lid, eerste onderdeel, en tweede,
 c. het bij artikel 2, tweede lid, bepaalde voor zover het wijzigingen betreft die gevolgen hebben voor de kwaliteit en de veiligheid van bloed- en tussenproducten.   
 
 ### Artikel  14b  
-Treedt in werking per 01-07-2015 
 
 Een wijziging van de Richtlijn en EU-richtlijnen vastgesteld ter uitvoering van de Richtlijn gaan voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijziging of EU-richtlijn uitvoering moet zijn gegeven. 
 

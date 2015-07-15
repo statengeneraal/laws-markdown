@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschappen van 12 februari 2002, nr. WJZ 2002/5881 (2908), directie Wetgeving en Juridische Zaken, gedaan na overleg met Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-Gelet op de [artikelen 33, tweede lid](../../../../wet/wbo/BWBR0003420/README.md),[ 64](../../../../wet/wbo/BWBR0003420/README.md), [120](../../../../wet/wbo/BWBR0003420/README.md), [123](../../../../wet/wbo/BWBR0003420/README.md) en [185 van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md), de [artikelen 33, tweede lid](../../../../wet/isovso/BWBR0003549/README.md), [66](../../../../wet/isovso/BWBR0003549/README.md), [117](../../../../wet/isovso/BWBR0003549/README.md) en [120 van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md), de [artikelen 38a, tweede lid](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [153, tweede lid](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [184](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [233](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [235 van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de [artikelen 3, eerste en negende lid](../../../../wet/ziekenfondswet/BWBR0002460/README.md), [5, derde lid](../../../../wet/ziekenfondswet/BWBR0002460/README.md), en [18 van de Ziekenfondswet](../../../../wet/ziekenfondswet/BWBR0002460/README.md) en de [artikelen 125, eerste lid](../../../../wet/ambtenarenwet/BWBR0001947/README.md), en [134 van de Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md);
+Gelet op de artikelen 33, tweede lid, 64, 120, 123 en 185 van de Wet op het primair onderwijs, de artikelen 33, tweede lid, 66, 117 en 120 van de Wet op de expertisecentra, de artikelen 38a, tweede lid, 153, tweede lid, 184, 233 en 235 van de Wet op het voortgezet onderwijs, de artikelen 3, eerste en negende lid, 5, derde lid, en 18 van de Ziekenfondswet en de artikelen 125, eerste lid, en 134 van de Ambtenarenwet;
 
 De Raad van State gehoord (advies van 29 maart 2002, nr. WO5.02.0075/III);
 
@@ -34,11 +34,11 @@ c. vaste dienst: het dienstverband van onbepaalde duur;
 
 d. instelling: 
 
-1°. een openbare of uit de openbare kas bekostigde bijzondere basisschool of speciale school voor basisonderwijs in de zin van de [Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md);   
+1°. een openbare of uit de openbare kas bekostigde bijzondere basisschool of speciale school voor basisonderwijs in de zin van de Wet op het primair onderwijs;   
 
-2°. een openbare of uit de openbare kas bekostigde bijzondere instelling voor speciaal onderwijs, zijnde een school voor speciaal onderwijs, voortgezet speciaal onderwijs dan wel speciaal en voortgezet speciaal onderwijs in de zin van de [Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md);  
+2°. een openbare of uit de openbare kas bekostigde bijzondere instelling voor speciaal onderwijs, zijnde een school voor speciaal onderwijs, voortgezet speciaal onderwijs dan wel speciaal en voortgezet speciaal onderwijs in de zin van de Wet op de expertisecentra;  
 
-3°. een centrale dienst als bedoeld in [artikel 68 van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md) of [artikel 69 van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md);    
+3°. een centrale dienst als bedoeld in artikel 68 van de Wet op het primair onderwijs of artikel 69 van de Wet op de expertisecentra;    
 
 e. betrokkene: 
 
@@ -76,11 +76,11 @@ j. bezoldiging: de som van het salaris en de toelagen, genoemd in de artikelen 9
 
 k. pensioenreglement: het pensioenreglement van de Stichting Pensioenfonds ABP;  
 
-l. pensioen: een pensioen als bedoeld in en vastgesteld bij of krachtens de [Wet privatisering ABP](../../../../wet/wet/privatisering/abp/BWBR0007791/README.md);  
+l. pensioen: een pensioen als bedoeld in en vastgesteld bij of krachtens de Wet privatisering ABP;  
 
 m. schooljaar: het administratieve schooljaar, zijnde het tijdvak van 1 augustus tot en met 31 juli;  
 
-n. benoeming of aanstelling: de benoeming in algemene dienst van een bevoegd gezag, bedoeld in [artikel 34, eerste lid, van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md) dan wel [artikel 34, eerste lid, van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md);  
+n. benoeming of aanstelling: de benoeming in algemene dienst van een bevoegd gezag, bedoeld in artikel 34, eerste lid, van de Wet op het primair onderwijs dan wel artikel 34, eerste lid, van de Wet op de expertisecentra;  
 
 o. akte van benoeming: de akte van benoeming bij het bijzonder onderwijs dan wel de akte van aanstelling bij het openbaar onderwijs, bedoeld in titel 2 van hoofdstuk 1;  
 
@@ -236,7 +236,7 @@ q. salarisschaal: de bij een functie horende schaal.
 
 ####Begripsbepalingen
 
-In deze titel wordt onder commissie verstaan: de commissie van beroep, bedoeld in [ artikel 62, vijfde lid, van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md), dan wel de commissie van beroep, bedoeld in [ artikel 65, vijfde lid, van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md). 
+In deze titel wordt onder commissie verstaan: de commissie van beroep, bedoeld in  artikel 62, vijfde lid, van de Wet op het primair onderwijs, dan wel de commissie van beroep, bedoeld in  artikel 65, vijfde lid, van de Wet op de expertisecentra. 
 
 ### Artikel  237  
 
@@ -263,7 +263,7 @@ Een commissie wordt ingesteld door de besturen van de bijzondere instellingen wa
 
 a. zitting heeft in of in dienst is van het instellingsbestuur of het bestuur van een vereniging van instellingsbesturen, of deel uitmaakt van het personeel van een instelling waarover de commissie waarvan hij deel uitmaakt, haar werkkring uitstrekt;  
 
-b. in dienst is van een vereniging van onderwijzend personeel dan wel zitting heeft in een bestuur van een vereniging als bedoeld in [ artikel 64 van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md) of [artikel 66 van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md), waarvan het lidmaatschap open staat voor personeel van instellingen waarvoor de commissie waarvan hij deel uitmaakt, is ingesteld;  
+b. in dienst is van een vereniging van onderwijzend personeel dan wel zitting heeft in een bestuur van een vereniging als bedoeld in  artikel 64 van de Wet op het primair onderwijs of artikel 66 van de Wet op de expertisecentra, waarvan het lidmaatschap open staat voor personeel van instellingen waarvoor de commissie waarvan hij deel uitmaakt, is ingesteld;  
 
 c. deel uitmaakt van de rijksinspectie.     
 2.  Voorzitter en plaatsvervangend voorzitter kan slechts zijn hij die de hoedanigheid van meester in de rechten heeft verkregen op grond van een met goed gevolg afgelegd doctoraal examen in het Nederlands recht aan een Nederlandse universiteit of hogeschool.  
@@ -424,7 +424,7 @@ De kosten van de commissie komen ten laste van de bij haar aangesloten instellin
 
 ####Commissies van beroep voortgezet onderwijs
 
-Dit hoofdstuk is van overeenkomstige toepassing op de commissies van beroep, bedoeld in [artikel 52, eerste lid, van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).
+Dit hoofdstuk is van overeenkomstige toepassing op de commissies van beroep, bedoeld in artikel 52, eerste lid, van de Wet op het voortgezet onderwijs.
 
 ### Hoofdstuk  4  
 
@@ -472,7 +472,7 @@ Dit hoofdstuk is van overeenkomstige toepassing op de commissies van beroep, bed
 
 ### §  3  
 
-####Overgangsrecht leraren aan scholen als bedoeld in de [WPO](../../../../wet/wbo/BWBR0003420/README.md) en de [WEC](../../../../wet/isovso/BWBR0003549/README.md).
+####Overgangsrecht leraren aan scholen als bedoeld in de WPO en de WEC.
 
 ### §  4  
 
@@ -492,7 +492,7 @@ Dit hoofdstuk is van overeenkomstige toepassing op de commissies van beroep, bed
 
 ### §  3  
 
-####Scholen als bedoeld in de [WPO](../../../../wet/wbo/BWBR0003420/README.md) en de [WEC](../../../../wet/isovso/BWBR0003549/README.md).
+####Scholen als bedoeld in de WPO en de WEC.
 
 ### §  4  
 

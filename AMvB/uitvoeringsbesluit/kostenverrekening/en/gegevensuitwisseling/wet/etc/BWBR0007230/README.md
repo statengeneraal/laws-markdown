@@ -135,7 +135,7 @@ b. het Centraal bureau voor de statistiek ten behoeve van statistische doeleinde
 
 c. het Bureau Ontnemingswetgeving van het Openbaar Ministerie ten behoeve van het zicht krijgen op waarden van inbeslaggenomen onroerende zaken;  
 
-d. de Minister voor Wonen en Rijksdienst ten behoeve van de uitoefening van zijn wettelijke taken, bedoeld in artikel 70l van de Woningwet;  
+d. de Minister voor Wonen en Rijksdienst ten behoeve van de uitoefening van zijn wettelijke taken, bedoeld in het bepaalde bij en krachtens de artikelen 27, eerste lid, aanhef en onderdeel a, en tweede, derde en vijfde lid, 49, zesde lid, en 58, tweede lid, van de Woningwet, en artikel II, twaalfde lid, van de Herzieningswet toegelaten instellingen volkshuisvesting;  
 
 e. Staatsbosbeheer ten behoeve van de vaststelling van de waarde van onroerende zaken die in erfpacht of opstal zijn of worden uitgegeven;  
 

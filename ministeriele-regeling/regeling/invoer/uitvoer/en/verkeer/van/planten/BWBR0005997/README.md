@@ -323,13 +323,20 @@ e. voorzien zijn van een etiket dat voldoet aan de eisen, genoemd in artikel 6 v
 
 1.  Onverminderd artikel 1 wordt voor de toepassing van dit artikel verstaan onder: 
 
-a. *schadelijk organisme:* Xylella fastidiosa (Well et Raju);  
+a.  *schadelijk organisme:* Europese en niet-Europese isolaten van Xylella fastidiosa (Wells et al.);  
 
-b. *gevoelige planten:* planten van het geslacht Catharanthus G. Don, Nerium L., Olea L., Prunus L., Vinca L., Malva L., Portulaca L., Quercus L. en Sorghum L., bestemd voor opplant, met uitzondering van zaad;  
+b.  *gevoelige planten:* alle voor opplant bestemde planten, met uitzondering van zaden, van de in bijlage I van uitvoeringsbesluit nr. 2015/789/EU opgenomen geslachten of soorten;  
 
-c. *uitvoeringsbesluit nr. 2014/497/EU:* uitvoeringsbesluit nr. 2014/497/EU van de Commissie van 23 juli 2014 betreffende maatregelen om het binnenbrengen en de verspreiding in de Unie van Xylella fastidiosa (Well et Raju) te voorkomen (PbEG L 219).     
-2.  Gevoelige planten worden slechts op het grondgebied van de Europese Unie binnengebracht indien zij voldoen aan afdeling 1 van bijlage I bij uitvoeringsbesluit nr. 2014/497/EU, en indien zij bij binnenkomst in de Europese Unie overeenkomstig afdeling 2 van bijlage I bij uitvoeringsbesluit nr. 2014/497/EU zijn onderzocht op het schadelijke organisme en daarvan vrij worden bevonden.   
-3.  Gevoelige planten van oorsprong uit gebieden in de Europese Unie die overeenkomstig artikel 5 van uitvoeringsbesluit nr. 2014/497/EU zijn afgebakend mogen alleen binnen de Europese Unie in het verkeer worden gebracht als zij voldoen aan de voorwaarden van bijlage II.  
+c.  *professionele marktdeelnemer:* een professionele marktdeelnemer als bedoeld in artikel 1, onderdeel d, van uitvoeringsbesluit nr. 2015/789/EU;  
+
+d.  *uitvoeringsbesluit nr. 2015/789/EU:* uitvoeringsbesluit nr. 2015/789/EU van de Commissie van 18 mei 2015 betreffende maatregelen om het binnenbrengen en de verspreiding in de Unie van Xylella fastidiosa (Wells et al.) te voorkomen (PbEG 2015, L 125).     
+2.  Gevoelige planten worden slechts op het grondgebied van de Europese Unie binnengebracht indien zij voldoen aan artikel 16 of artikel 17 van uitvoeringsbesluit nr. 2015/789/EU en zij, onverminderd artikel 12, bij binnenkomst in de Europese Unie overeenkomstig artikel 18 van het uitvoeringsbesluit nr. 2015/789/EU officieel zijn gecontroleerd en het schadelijk organisme niet is aangetroffen.   
+3.  Gevoelige planten, die gedurende ten minste een deel van hun leven in een afgebakend gebied als bedoeld in artikel 5 van het uitvoeringsbesluit 2015/789/EU zijn geteeld, mogen niet worden vervoerd, tenzij wordt voldaan aan de voorwaarden van artikel 9 van uitvoeringsbesluit 2015/789/EU.   
+4.  Van de ontvangst en levering van de in het derde lid bedoelde gevoelige planten en de gevoelige planten die door een overeenkomstig artikel 5 van uitvoeringsbesluit 2015/789/EU afgebakend gebied zijn vervoerd houdt de professionele marktdeelnemer een register bij overeenkomstig artikel 10 van uitvoeringsbesluit 2015/789/EU. De gegevens worden tenminste drie jaar bewaard.   
+5.  De professionele marktdeelnemer meldt de levering en ontvangst van partijen planten als bedoeld in artikel 10, eerste en tweede lid, van uitvoeringsbesluit nr. 2015/789/EU onverwijld aan de Minister overeenkomstig artikel 10, vierde lid, van uitvoeringsbesluit nr. 2015/789/EU.   
+6.  Gevoelige planten afkomstig uit derde landen waarvan bekend is dat het schadelijk organisme er voorkomt, mogen slechts in de Europese Unie worden binnengebracht als zij, onverminderd artikel 12, overeenkomstig artikel 18 van uitvoeringsbesluit nr. 2015/789/EU worden geïnspecteerd op de aanwezigheid van het schadelijk organisme en geen tekenen van aanwezigheid van het schadelijk organisme zijn gevonden.   
+7.  Het binnenbrengen in de Europese Unie van voor opplant bestemde planten van Coffea, met uitzondering van zaden, van oorsprong uit Costa Rica of Honduras, is verboden.   
+8.  Voor opplant bestemde planten van Coffea, met uitzondering van zaden, van oorsprong uit Costa Rica of Honduras, die vóór de datum van inwerkingtreding van dit artikel in de Europese Unie zijn binnengebracht, mogen worden verplaatst nadat de Minister hiervan op de hoogte is gebracht.  
 
 ###Artikel 13 
 
