@@ -41,7 +41,7 @@ c. een aanduiding van de postcodes, de adressen, dan wel de kadastrale aanduidin
 
 d. een reële raming van de investeringskosten per huurwoning van de voorgenomen investering, en  
 
-e. indien van toepassing: een opgave van de datum waarop het bevoegd gezag de ten behoeve van een voorgenomen investering afgegeven vergunning, bedoeld in artikel 1, onderdelen b, c of d, heeft verstrekt.     
+e. indien van toepassing: een opgave van de datum waarop het bevoegd gezag de ten behoeve van een voorgenomen investering afgegeven vergunning, bedoeld in artikel 1, onderdelen b, c of d, heeft verstrekt of schriftelijk kenbaar heeft gemaakt die vergunning te zullen verstrekken.     
 2.  De belastingplichtige verklaart dat de voorgenomen investering betrekking heeft op een of meerdere huurwoningen.  
 
 ### Hoofdstuk  3  

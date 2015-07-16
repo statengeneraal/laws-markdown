@@ -740,7 +740,7 @@ d.maatschappijleer,
 
 e.algemene natuurwetenschappen,
 
-[e].culturele en kunstzinnige vorming, en
+[e]. culturele en kunstzinnige vorming, met dien verstande dat indien Latijnse taal en cultuur of Griekse taal en cultuur, dan wel beide, deel uitmaken van het profiel, de leerling is vrijgesteld van het volgen van het vak culturele en kunstzinnige vorming, en 
 
 g.lichamelijke opvoeding. 
 2. Het gemeenschappelijk deel van elk profiel in het gymnasium omvat:

@@ -6256,7 +6256,7 @@ Dit reglement kan worden aangehaald als het ‘Reglement Participatiefonds voor 
 
 ####Inwerkingtreding
 
-Dit reglement treedt in werking met ingang van de dag volgend op die, waarop het in de Staatscourant is gepubliceerd en heeft betrekking op alle dienstverbanden die zijn of worden beëindigd dan wel niet worden voortgezet per of na 1 februari 2015. 
+Dit reglement treedt in werking met ingang van de dag volgend op die, waarop het in de Staatscourant is gepubliceerd en heeft betrekking op alle dienstverbanden die zijn of worden beëindigd dan wel niet worden voortgezet in de periode van 1 februari 2015 tot en met 31 juli 2015, evenals op alle dienstverbanden die niet worden voortgezet omdat de functie van de werknemer per 1 februari 2015 wordt opgeheven. 
 
 ### Artikel  6:3  
 

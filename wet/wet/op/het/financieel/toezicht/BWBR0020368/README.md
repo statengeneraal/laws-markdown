@@ -3066,17 +3066,6 @@ b. artikel 4:70, tweede lid, met betrekking tot de schaderegelaar.
 1.  De Nederlandsche Bank verleent op aanvraag een vergunning voor de uitoefening van het bedrijf van schadeverzekeraar in de branche Rechtsbijstand indien de aanvrager, onverminderd artikel 2:31, aantoont dat zal worden voldaan aan het bepaalde in artikel 4:65 met betrekking tot het voorkomen van belangenconflicten.   
 2.  De aanvraag van de vergunning geschiedt onder opgave van bij of krachtens algemene maatregel van bestuur te bepalen gegevens.  
 
-###  §  2.2.3.1a  
-
-####Vrijstelling
-
-Treedt in werking op een nader te bepalen tijdstip 
-
-### Artikel  2:33a  
-Treedt in werking op een nader te bepalen tijdstip 
-
-Bij ministeriële regeling kan vrijstelling worden verleend van het bepaalde in artikel 2:27, eerste lid. Aan deze vrijstelling kunnen voorschriften worden verbonden. 
-
 ### §   2.2.3.2  
 
 ####Bijkantoor en verrichten van diensten door levensverzekeraars en schadeverzekeraars met zetel in een andere lidstaat
@@ -3259,17 +3248,6 @@ j. artikel 3:57, eerste tot en met vierde lid, met betrekking tot de solvabilite
 k. artikel 3:70, eerste lid, met betrekking tot het boekjaar.     
 2.  De aanvraag van de vergunning geschiedt onder opgave van bij of krachtens algemene maatregel van bestuur te bepalen gegevens.   
 3.  De Nederlandsche Bank kan op aanvraag geheel of gedeeltelijk ontheffing verlenen van het eerste lid, aanhef en onderdeel c, d, f, g of k, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die de in het eerste lid genoemde artikelen beogen te bereiken anderszins worden bereikt.  
-
-### §  2.2.4.1a  
-
-####Vrijstelling
-
-Treedt in werking op een nader te bepalen tijdstip 
-
-### Artikel  2:49a  
-Treedt in werking op een nader te bepalen tijdstip 
-
-Bij ministeriële regeling kan vrijstelling worden verleend van het bepaalde in artikel 2:48, eerste lid. Aan deze vrijstelling kunnen voorschriften worden verbonden. 
 
 ### §   2.2.4.2  
 
@@ -5750,12 +5728,6 @@ a. het bepaalde in het eerste en derde lid; en
 b. de lokalisatie van de waarden, bedoeld in het eerste en derde lid, en de muntsoort waarin die waarden luiden.     
 5.  De Nederlandsche Bank kan op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van het op grond van het vierde lid, onderdeel a, voor zover het regels betreft met betrekking tot de dekking door waarden van de technische voorzieningen en de verplichtingen, bedoeld in het derde lid, of onderdeel b, bepaalde, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die dit artikel beoogt te bereiken anderszins worden bereikt.  
 
-### Artikel  3:67a  
-Treedt in werking op een nader te bepalen tijdstip 
-
-1.  Een entiteit voor risico-acceptatie houdt technische voorzieningen aan voor al zijn aangegane verplichtingen uit herverzekeringen.   
-2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het in het eerste lid bepaalde.  
-
 ### §   3.3.8.2  
 
 ####Levensverzekeraars en schadeverzekeraars met zetel in een staat die geen lidstaat is
@@ -5794,7 +5766,7 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  3:69a  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Een verzekeraar met zetel in Nederland waardeert, tenzij anders vermeld, activa en passiva als volgt: 
+1.  Een verzekeraar, niet zijnde een verzekeraar met beperkte risico-omvang, met zetel in Nederland waardeert, tenzij anders vermeld, activa en passiva als volgt: 
 
 a. activa worden gewaardeerd tegen het bedrag waarvoor ze kunnen worden verhandeld tussen ter zake goed geïnformeerde, tot een transactie bereid zijnde partijen die onafhankelijk van elkaar zijn;  
 
@@ -5910,7 +5882,7 @@ Artikel 3:75 is van overeenkomstige toepassing op banken, levensverzekeraars en 
 ### Artikel  3:82a  
 Treedt in werking op een nader te bepalen tijdstip 
 
-Artikel 3:73b is van overeenkomstige toepassing op in Nederland gelegen bijkantoren van levensverzekeraars en schadeverzekeraars met zetel in een staat die geen lidstaat is. 
+Artikel 3:73c is van overeenkomstige toepassing op in Nederland gelegen bijkantoren van levensverzekeraars en schadeverzekeraars, niet zijnde verzekeraars met beperkte risico-omvang, met zetel in een staat die geen lidstaat is. 
 
 ### Artikel  3:83  
 
@@ -5943,7 +5915,7 @@ De artikelen 3:75 en 3:81 zijn van overeenkomstige toepassing op clearinginstell
 ### Artikel  3:86a  
 Treedt in werking op een nader te bepalen tijdstip 
 
-Artikel 3:73b is van overeenkomstige toepassing op in Nederland gelegen bijkantoren van herverzekeraars en natura-uitvaartverzekeraars met zetel in een niet-aangewezen staat. 
+Artikel 3:73c is van overeenkomstige toepassing op in Nederland gelegen bijkantoren van herverzekeraars en verzekeraars met beperkte risico-omvang met zetel in een niet-aangewezen staat. 
 
 ### Artikel  3:87  
 

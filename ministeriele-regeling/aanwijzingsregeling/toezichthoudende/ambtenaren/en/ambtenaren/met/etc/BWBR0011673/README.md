@@ -76,7 +76,7 @@ e. de Wet allocatie arbeidskrachten door intermediairs: artikel 22, eerste lid e
 
 f. het Arbeidsomstandighedenbesluit: artikel 9.5b, tweede lid;  
 
-g.  het Besluit risico's zware ongevallen 1999: de artikelen 6, tweede lid, onderdeel c, 7, eerste lid, onderdeel a, 10, vierde lid, onderdeel a, 15, derde lid, onderdeel a, 16, eerste lid, 18, tweede lid, 24, eerste lid, 28, derde lid, onderdeel a, en vierde lid, en 29;  
+g. het Besluit risico’s zware ongevallen 2015: de artikelen 5, tweede lid, 13, 15, tweede lid, en 18, eerste lid;  
 
 h. het Vuurwerkbesluit: artikel 3.3.4.     
 5.  De ambtenaren, bedoeld in artikel 1.1, eerste lid, voor zover belast met het toezicht op de naleving van het bepaalde bij of krachtens de Arbeidsomstandighedenwet, worden aangewezen als toezichthouders als bedoeld in de artikelen 27, eerste lid, en artikel 28, eerste lid, van de Arbeidsomstandighedenwet. 
@@ -280,7 +280,9 @@ c.  de Arbeidsomstandighedenregeling: de artikelen 3.11, 3.12, eerste lid en 3.1
 
 a. de Arbeidsomstandighedenwet: artikel 30, tweede lid;  
 
-b. het Arbeidsomstandighedenbesluit: de artikelen 4.47c, eerste lid, en 9.5b, tweede lid.    
+b. het Arbeidsomstandighedenbesluit: de artikelen 4.47c, eerste lid, en 9.5b, tweede lid;  
+
+c. het Besluit risico’s zware ongevallen 2015: de artikelen 5, tweede lid, 13 en 15, tweede lid.   
 
 ### § 7a  
 

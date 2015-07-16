@@ -3,16 +3,16 @@
 ##Nummerplan telefoon- en ISDN-diensten
 
 De Staatssecretaris van Verkeer en Waterstaat,  
-Gelet op [artikel 4.1 van de Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);
+Gelet op artikel 4.1 van de Telecommunicatiewet;
 Besluit:    
 
 ### Artikel 1  
 
-In dit besluit wordt verstaan onder:  a. wet:   [Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);   b.nummer met een geografische bestemming:   een nummer dat uitsluitend uit cijfers bestaat en dat bestemd is voor: 
+In dit besluit wordt verstaan onder:  a. wet:   Telecommunicatiewet;   b.nummer met een geografische bestemming:   een nummer dat uitsluitend uit cijfers bestaat en dat bestemd is voor: 
 
 1°. het bereiken van gebruikers van een openbare elektronische communicatiedienst op een vaste locatie, waarbij die dienst wordt geboden via een netwerkaansluitpunt dat zich bevindt in het bij het nummer behorende netnummergebied, of  
 
-2°. het bereiken van gebruikers van een openbare elektronische communicatiedienst waarbij de abonnee van die dienst een woon- of vestigingsplaats heeft in het bij het nummer behorende netnummergebied.     c.geografisch nummer:  een nummer met een geografische bestemming;   d. niet-geografisch nummer:  een nummer dat uitsluitend uit cijfers bestaat met een andere bestemming dan een geografische bestemming;   e.netnummer:   de eerste cijfers van een geografisch nummer, waarmee een netnummergebied wordt bepaald;   f.dienstcode:   de eerste cijfers van een niet-geografisch nummer, waarmee een categorie van elektronische communicatiediensten wordt bepaald;   g.abonneenummer:   het deel van een geografisch nummer achter het netnummer of het deel van een niet-geografisch nummer achter de dienstcode;   h. college:   college, genoemd in [artikel 2, eerste lid, van de Wet Onafhankelijke post- en telecommunicatieautoriteit](../../../../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md);   i.geharmoniseerd nummer:   een nummer dat voor dezelfde dienst en met dezelfde nummerlengte tegelijkertijd meerdere keren kan worden toegekend;   j.elektronische communicatiedienst voor een geautomatiseerde toepassing:   elektronische communicatiedienst waarbij normaliter het nummer door de gebruiker niet of automatisch wordt opgeroepen.    
+2°. het bereiken van gebruikers van een openbare elektronische communicatiedienst waarbij de abonnee van die dienst een woon- of vestigingsplaats heeft in het bij het nummer behorende netnummergebied.     c.geografisch nummer:  een nummer met een geografische bestemming;   d. niet-geografisch nummer:  een nummer dat uitsluitend uit cijfers bestaat met een andere bestemming dan een geografische bestemming;   e.netnummer:   de eerste cijfers van een geografisch nummer, waarmee een netnummergebied wordt bepaald;   f.dienstcode:   de eerste cijfers van een niet-geografisch nummer, waarmee een categorie van elektronische communicatiediensten wordt bepaald;   g.abonneenummer:   het deel van een geografisch nummer achter het netnummer of het deel van een niet-geografisch nummer achter de dienstcode;   h. college:   college, genoemd in artikel 2, eerste lid, van de Wet Onafhankelijke post- en telecommunicatieautoriteit;   i.geharmoniseerd nummer:   een nummer dat voor dezelfde dienst en met dezelfde nummerlengte tegelijkertijd meerdere keren kan worden toegekend;   j.elektronische communicatiedienst voor een geautomatiseerde toepassing:   elektronische communicatiedienst waarbij normaliter het nummer door de gebruiker niet of automatisch wordt opgeroepen.    
 
 ###Artikel 1a 
 
@@ -63,7 +63,7 @@ Een geografisch of niet-geografisch nummer mag niet zijn opgebouwd uit een ander
 
 ### Artikel 6  
 
-Het [Nummerplan telefoon- en ISDN-diensten](../../../../../../ministeriele-regeling/nummerplan/telefoon-/en/isdn-diensten/BWBR0010198/README.md) (Stcrt. 1996, 144) wordt ingetrokken. 
+Het Nummerplan telefoon- en ISDN-diensten (Stcrt. 1996, 144) wordt ingetrokken. 
 
 ### Artikel 7  
 
@@ -487,7 +487,7 @@ J.M. deVries
 | --- | --- | --- | --- | --- |
 | 16  | --- | Carrierselectiedienst  Nummer dat een gebruiker van een openbare telefoondienst de mogelijkheid biedt om het voor die dienst noodzakelijke transport van de uitgaande gegevens door een andere aanbieder van een openbare telefoondienst te laten verzorgen.  De gebruiker kan van deze mogelijkheid gebruikmaken door het hier bedoelde nummer te kiezen onmiddellijk voorafgaand aan het nummer waarmee hij normaliter had kunnen volstaan.  | 4  | Nee  |
 | --- | 17  | --- | --- | --- |
-| 18  | 1818  | Toegang tot gratis of betaalde abonnee-informatiediensten, waarmee primair en tenminste telefoonnummers kunnen worden opgevraagd aan de hand van gegevens betreffende de naam in combinatie met gegevens betreffende het adres en huisnummer, postcode of de woonplaats van de abonnee, en waarmee aanvullend openbaar beschikbare algemene informatie over de naam, het adres dan wel de locatie, de bereikbaarheid en de dienstverlening van abonnees opgevraagd kan worden aan de hand van door de oproeper verstrekte zoektermen.  | 4  | --- |
+| 18  | 1818  | Toegang tot gratis of betaalde abonnee-informatiediensten, waarmee tenminste telefoonnummers kunnen worden opgevraagd aan de hand van gegevens betreffende de naam in combinatie met gegevens betreffende het adres en huisnummer, postcode of de woonplaats van de abonnee, en waarmee aanvullende openbaar beschikbare algemene informatie over de naam, het adres dan wel de locatie, de bereikbaarheid en de dienstverlening van abonnees opgevraagd kan worden aan de hand van door de oproeper verstrekte zoektermen.  | 4  | --- |
 | --- | 19  | Geharmoniseerde Europese korte nummers  | --- | --- |
 | --- | 2  | Gebruik wordt uitgefaseerd  | --- | --- |
 | --- | 3  | Gebruik wordt uitgefaseerd  | --- | --- |

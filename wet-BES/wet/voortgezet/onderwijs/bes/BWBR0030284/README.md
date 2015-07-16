@@ -184,7 +184,7 @@ Treedt in werking per 01-08-2015
 ####Voorbereidend wetenschappelijk onderwijs
 
 1.  Voorbereidend wetenschappelijk onderwijs is het onderwijs dat is ingericht ter voorbereiding op aansluitend wetenschappelijk onderwijs en dat mede algemene vorming omvat. Voorbereidend wetenschappelijk onderwijs wordt gegeven aan scholen voor voorbereidend wetenschappelijk onderwijs. Deze worden onderscheiden in gymnasia en athenea, elk met een cursusduur van zes jaren.   
-2.  Aan de gymnasia wordt in elk geval onderwijs verzorgd in Latijnse taal en literatuur en Griekse taal en literatuur.  
+2.  Aan de gymnasia wordt in elk geval onderwijs verzorgd in Latijnse taal en cultuur en Griekse taal en cultuur.  
 
 ### Artikel  14  
 
@@ -695,7 +695,7 @@ d. maatschappijleer,
 
 e. algemene natuurwetenschappen,  
 
-[e]. culturele en kunstzinnige vorming, en  
+[e]. culturele en kunstzinnige vorming, met dien verstande dat indien Latijnse taal en cultuur of Griekse taal en cultuur, dan wel beide, deel uitmaken van het profiel, de leerling is vrijgesteld van het volgen van het vak culturele en kunstzinnige vorming, en  
 
 g. lichamelijke opvoeding.     
 2.  Het gemeenschappelijk deel van elk profiel in het gymnasium omvat: 

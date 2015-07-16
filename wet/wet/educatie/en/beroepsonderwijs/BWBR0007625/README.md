@@ -607,6 +607,14 @@ b. zij in Nederland, België of een van de bondsstaten Noord-Rijnland-Westfalen,
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van de besteding van de rijksbijdrage aan private activiteiten ten behoeve van het onderwijs. 
 
+### Artikel  2.2.4b  
+
+####Beleggen en belenen
+
+Treedt in werking per 01-08-2015 
+
+Bij ministeriële regeling kunnen regels worden gesteld over het door het bevoegd gezag uitzetten van gelden, het aangaan van geldleningen en het aangaan van verbintenissen voor financiële producten. 
+
 ### §  2  
 
 ####Grondslag vermindering bekostiging vbo-groen in een AOC in verband met passend onderwijs

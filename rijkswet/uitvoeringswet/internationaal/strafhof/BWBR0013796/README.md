@@ -161,13 +161,13 @@ b.ter tenuitvoerlegging van een door het Strafhof opgelegde gevangenisstraf.
 1. De rechter-commissaris, belast met de behandeling van strafzaken, kan op vordering van de officier van justitie de bewaring van de opgeëiste persoon bevelen.
 2. Alvorens een bevel ingevolge het eerste lid te geven hoort de rechter-commissaris zo mogelijk de opgeëiste persoon.
 
-###Artikel 16 
+### Artikel  16  
 
-1. Ambtshalve, op de vordering van de officier van justitie of op het verzoek van de opgeëiste persoon of diens raadsman kan de rechter-commissaris bevelen dat de vrijheidsbeneming krachtens de bepalingen van deze paragraaf wegens dringende en uitzonderlijke omstandigheden wordt beëindigd of voorwaardelijk wordt opgeschort of geschorst. De te stellen voorwaarden strekken in ieder geval ter voorkoming van vlucht.
-2. De rechter-commissaris gaat niet over tot het bevel, bedoeld in het eerste lid, dan nadat het Strafhof, daartoe door tussenkomst van Onze Minister geconsulteerd, binnen een door Onze Minister te stellen termijn, aanbevelingen ingevolge artikel 59, vijfde lid, van het Statuut heeft gegeven.
-3. De opschorting of schorsing eindigt van rechtswege zodra de officier van justitie overeenkomstig artikel 32 in kennis is gesteld van de beslissing van Onze Minister waarbij de overlevering is toegestaan.
-4. Op bevelen tot voorwaardelijke opschorting en schorsing, krachtens het eerste lid gegeven, zijn de artikelen 80, eerste en derde tot en met vijfde lid, en 81 tot en met 88, met uitzondering van artikel 86, vijfde lid, van het Wetboek van Strafvordering van overeenkomstige toepassing.
-5. De rechter-commissaris kan ambtshalve, op de vordering van de officier van justitie of op het verzoek van de opgeëiste persoon of diens raadsman het bevel tot bewaring opheffen indien binnen zestig dagen na de dag van de voorlopige aanhouding van het Strafhof geen verzoek tot overlevering, met de daarbij behorende stukken, is ontvangen.
+1.  Ambtshalve, op de vordering van de officier van justitie of op het verzoek van de opgeëiste persoon of diens raadsman kan de rechter-commissaris bevelen dat de vrijheidsbeneming krachtens de bepalingen van deze paragraaf wegens dringende en uitzonderlijke omstandigheden wordt beëindigd of voorwaardelijk wordt opgeschort of geschorst. De te stellen voorwaarden strekken in ieder geval ter voorkoming van vlucht.   
+2.  De rechter-commissaris gaat niet over tot het bevel, bedoeld in het eerste lid, dan nadat het Strafhof, daartoe door tussenkomst van Onze Minister geconsulteerd, binnen een door Onze Minister te stellen termijn, aanbevelingen ingevolge artikel 59, vijfde lid, van het Statuut heeft gegeven.   
+3.  De opschorting of schorsing eindigt van rechtswege zodra de officier van justitie overeenkomstig artikel 32 in kennis is gesteld van de beslissing van Onze Minister waarbij de overlevering is toegestaan.   
+4.  Op bevelen tot voorwaardelijke opschorting en schorsing, krachtens het eerste lid gegeven, zijn de artikelen 80, eerste en derde tot en met vijfde lid, en 81 tot en met 88, met uitzondering van artikel 86, vijfde lid, van het Wetboek van Strafvordering van overeenkomstige toepassing.   
+5.  De rechter-commissaris kan ambtshalve, op de vordering van de officier van justitie of op het verzoek van de opgeëiste persoon of diens raadsman het bevel tot bewaring opheffen indien binnen zestig dagen na de dag van de voorlopige aanhouding van het Strafhof geen verzoek tot overlevering, met de daarbij behorende stukken, is ontvangen.  
 
 ### Artikel  17  
 

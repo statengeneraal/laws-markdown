@@ -30,6 +30,8 @@ In deze regeling wordt verstaan onder:
 
 *  *directe loonkosten projectcoördinatie en -administratie:* loonkosten van personeel welke direct zijn te relateren aan coördinatie en administratie van een project en waarbij het desbetreffende personeelslid voor 50% of meer van diens contractuele werktijd werkzaam is voor een of meer projecten in het kader van bijlage 1, hoofdstukken I, II, en III;  
 
+* *duurzame inzetbaarheid:* het productief, gemotiveerd en gezond houden van werknemers om hen in staat te stellen tot aan pensionering binnen of buiten de organisatie te blijven werken;
+
 *  *externe kosten:* kosten die in rekening gebracht worden door derden voor het uitvoeren van direct aan deelnemers gerelateerde activiteiten, dan wel voor het uitvoeren van subsidiabele activiteiten als bedoeld in bijlage 1;  
 
 *  *externe kosten projectcoördinatie en -administratie:* kosten die in rekening gebracht worden door derden en direct te relateren zijn aan het beheer van het project;  
@@ -442,11 +444,11 @@ f. leerlingen, die vijftien jaar of ouder zijn of in het derde leerjaar of hoger
 
 1. Per aanvraagtijdvak kan een centrumgemeente maximaal twee aanvragen indienen, te weten een regio-aanvraag gemeenten en een regio-aanvraag leerlingen voortgezet speciaal onderwijs en praktijkonderwijs waarbij in elk geval sprake is van een regio-aanvraag leerlingen voortgezet speciaal onderwijs en praktijkonderwijs.  
 
-2. In aanvulling op artikel 7, derde lid en vierde lid, bevat de projectbeschrijving en de begroting van de regio-aanvraag gemeenten een beschrijving van de wijze waarop de subprojecten in maximaal vijf clusters worden onderverdeeld ten behoeve van de verantwoording en de controle hierop. Projectcoördinatie en- administratie is hierbij één cluster.  
+2. De projectbeschrijving en de begroting van de regio-aanvraag gemeenten bevatten een beschrijving van de wijze waarop de subprojecten in maximaal vijf clusters worden onderverdeeld ten behoeve van de verantwoording en de controle hierop. Projectcoördinatie en- administratie is hierbij één cluster.  
 
-3. In aanvulling op artikel 7, derde lid en vierde lid, bevat de projectbeschrijving en de begroting van de regio-aanvraag leerlingen voortgezet speciaal onderwijs en praktijkonderwijs een beschrijving van de wijze waarop de subprojecten in maximaal drie clusters worden onderverdeeld ten behoeve van de verantwoording en de controle hierop. Projectcoördinatie en- administratie is hierbij één cluster.  
+3. De projectbeschrijving en de begroting van de regio-aanvraag leerlingen voortgezet speciaal onderwijs en praktijkonderwijs bevatten een beschrijving van de wijze waarop de subprojecten in maximaal drie clusters worden onderverdeeld ten behoeve van de verantwoording en de controle hierop. Projectcoördinatie en- administratie is hierbij één cluster.  
 
-4. In aanvulling op artikel 15, tweede lid, is de volledige administratie per cluster beschikbaar op één locatie.   
+4. De volledige administratie is per cluster beschikbaar op één locatie.   
 
 ### Artikel  A6  
 
@@ -474,7 +476,7 @@ b. activiteiten direct gericht op de bevordering van de aansluiting praktijkonde
 
 c. activiteiten direct gericht op het vergroten van de mogelijkheden tot arbeidsinpassing.    
 
-2. In aanvulling op artikel 12, eerste lid, onderdeel a, zijn enkel de volgende externe kosten subsidiabel: de kosten van extern ingekochte trajecten voor zover de relatie met de activiteiten, genoemd in het eerste lid, voldoende aannemelijk is.   
+2. In afwijking van artikel 12, eerste lid, onderdeel a, zijn enkel de volgende externe kosten subsidiabel: de kosten van extern ingekochte trajecten voor zover de relatie met de activiteiten, genoemd in het eerste lid, voldoende aannemelijk is.   
 
 ### Artikel  A8  
 
@@ -488,7 +490,7 @@ c. activiteiten direct gericht op het vergroten van de mogelijkheden tot arbeids
 
 ####Voorschot
 
-In aanvulling op artikel 14 verleent de minister, indien de subsidieontvanger dit in zijn subsidieaanvraag heeft aangegeven, na ontvangst en beoordeling van de voortgangsrapportage, bedoeld in artikel A8 eerste lid, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, mits uit de beoordeling van de voortgangsrapportage blijkt dat de gerapporteerde kosten zijn gespecificeerd en financieel en inhoudelijk voldoende zijn onderbouwd. 
+De minister verleent, indien de subsidieontvanger dit in zijn subsidieaanvraag heeft aangegeven, na ontvangst en beoordeling van de voortgangsrapportage, bedoeld in artikel A8, eerste lid, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, mits uit de beoordeling van de voortgangsrapportage blijkt dat de gerapporteerde kosten zijn gespecificeerd en financieel en inhoudelijk voldoende zijn onderbouwd. 
 
 ### Artikel  A10  
 
@@ -556,7 +558,7 @@ b. het project een duur heeft van ten hoogste 24 maanden, gerekend vanaf de datu
 
 1. Voor subsidie komen slechts in aanmerking activiteiten direct gericht op het vergroten van de mogelijkheden tot arbeidsinpassing, voor zover zij de doelstelling uit artikel A13 ondersteunen.  
 
-2. In aanvulling op artikel 12, eerste lid, onderdeel a, zijn enkel de volgende externe kosten subsidiabel: de kosten van extern ingekochte trajecten voor zover de relatie met de activiteiten genoemd in het eerste lid voldoende aannemelijk is.   
+2. In afwijking van artikel 12, eerste lid, onderdeel a, zijn enkel de volgende externe kosten subsidiabel: de kosten van extern ingekochte trajecten voor zover de relatie met de activiteiten genoemd in het eerste lid voldoende aannemelijk is.   
 
 ### Artikel  A17  
 
@@ -570,7 +572,7 @@ b. het project een duur heeft van ten hoogste 24 maanden, gerekend vanaf de datu
 
 ####Voorschot
 
-In aanvulling op artikel 14 verleent de minister, indien de subsidieontvanger dit in zijn subsidieaanvraag heeft aangegeven, na ontvangst en beoordeling van de voortgangsrapportage, bedoeld in artikel A17 eerste lid, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, mits uit de beoordeling van de voortgangsrapportage blijkt dat de gerapporteerde kosten zijn gespecificeerd en financieel en inhoudelijk voldoende zijn onderbouwd. 
+De minister verleent, indien de subsidieontvanger dit in zijn subsidieaanvraag heeft aangegeven, na ontvangst en beoordeling van de voortgangsrapportage, bedoeld in artikel A17, eerste lid, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, mits uit de beoordeling van de voortgangsrapportage blijkt dat de gerapporteerde kosten zijn gespecificeerd en financieel en inhoudelijk voldoende zijn onderbouwd. 
 
 ####Hoofdstuk III. De Minister van Veiligheid en Justitie
 
@@ -584,13 +586,13 @@ De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt 
 
 ####Aanvraagtijdvak
 
-Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 1 oktober 2014, 09.00 uur, tot en met 31 oktober 2014, 17.00 uur. 
+Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 1 oktober 2015, 09.00 uur, tot en met 30 oktober 2015, 17.00 uur. 
 
 ### Artikel  A20  
 
 ####Subsidieplafond
 
-Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel A19, € 8.000.000,–. 
+Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel A19, € 9.000.000,–. 
 
 ### Artikel  A21  
 
@@ -626,7 +628,7 @@ b. het project een duur heeft van ten hoogste vijftien maanden, gerekend vanaf d
 
 1. Voor subsidie komen slechts in aanmerking activiteiten direct gericht op het vergroten van de mogelijkheden tot arbeidsinpassing, respectievelijk gericht op het volgen van scholing of een opleiding, voor zover zij de doelstelling uit artikel A21 ondersteunen.  
 
-2. In aanvulling op artikel 12, eerste lid, onderdeel a, zijn enkel de volgende externe kosten subsidiabel:   De kosten van extern ingekochte trajecten voor zover de relatie met de activiteiten, genoemd in het eerste lid, voldoende aannemelijk is. 
+2. In afwijking van artikel 12, eerste lid, onderdeel a, zijn enkel de volgende externe kosten subsidiabel: de kosten van extern ingekochte trajecten voor zover de relatie met de activiteiten, genoemd in het eerste lid, voldoende aannemelijk is.   
 
 ####Hoofdstuk IV. Sociale innovatie en transnationale samenwerking
 
@@ -780,7 +782,7 @@ e. verblijf in het geval van een internationale reis binnen Europa: de bedragen 
 
 ####Niet-subsidiabele kosten
 
-Onverminderd artikel 13 komen niet voor subsidie in aanmerking: 
+Niet voor subsidiering komen in aanmerking: 
 
 a. overhead- en exploitatiekosten, waaronder in ieder geval huisvestingskosten, kosten voor een werkplek, afschrijvingskosten en relatiegeschenken;  
 
@@ -798,7 +800,7 @@ In afwijking van artikel 15, tweede lid, is de projectadministratie van de subsi
 
 ####Bevoorschotting
 
-Onverminderd artikel 14 verleent de minister, in het kader van dit hoofdstuk, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, indien: 
+De minister verleent, in het kader van dit hoofdstuk, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, indien: 
 
 a. de subsidieontvanger dit heeft verzocht in zijn subsidieaanvraag;  
 
@@ -830,7 +832,7 @@ De subsidie met betrekking tot een project in het kader van investeringspriorite
 
 ####Aanvraagtijdvak
 
-Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 15 oktober 2014, 9.00 uur, tot en met 7 november 2014, 17.00 uur. 
+Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 19 oktober 2015, 9.00 uur, tot en met 13 november 2015, 17.00 uur. 
 
 ### Artikel  B3 
 
@@ -842,21 +844,21 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het
 
 ####Doel
 
-Een project heeft tot doel het verkrijgen van advies met een implementatieplan, dan wel het begeleiden van de implementatie van een advies, op het terrein van duurzame inzetbaarheid van werknemers. Het project dient een bijdrage te leveren aan het bevorderen van gezond, competent, gemotiveerd en productief werken van indiensttreding tot aan pensionering en is gericht op één of meerdere van onderstaande thema’s of activiteiten: 
+Een project heeft tot doel het verkrijgen van advies met een implementatieplan, dan wel het begeleiden van de implementatie van een advies, op het terrein van duurzame inzetbaarheid en is in dit kader gericht op: 
 
 – het maken van een bedrijfs- of organisatiescan;  
 
-– het uitvoeren van (periodiek) onderzoek naar duurzame inzetbaarheid van werknemers;  
+– het uitvoeren van (periodiek) onderzoek;  
 
 – het bevorderen van gezond en veilig werken;  
 
 – het bevorderen van een leercultuur voor werknemers;  
 
-– het in dialoog met medewerkers aanpassen van de organisatie van het werk, gericht op het verhogen van de betrokkenheid en productiviteit;  
+– het in dialoog met medewerkers aanpassen van de organisatie van het werk, gericht op het verhogen van de betrokkenheid;  
 
 – het stimuleren van interne en externe mobiliteit van werknemers, waaronder het begeleiden van werknemers naar ondernemerschap;  
 
-– het bevorderen van een flexibele werkcultuur met het oog op het beter kunnen combineren van arbeid en zorg;  
+– het bevorderen van een flexibele werkcultuur met het oog op het beter kunnen combineren van arbeid en zorg; of  
 
 – het invoeren van arbeidstijdenmanagement.   
 
@@ -872,27 +874,27 @@ Per aanvrager wordt slechts één subsidieaanvraag in behandeling genomen.
 
 Een project komt slechts voor subsidie in aanmerking indien: 
 
-a. Het project past binnen het in artikel B4 omschreven doel en een advies met implementatieplan oplevert of een verslag van de implementatie van een advies gericht op een van de thema’s of activiteiten uit artikel B4;  
+a. Het project past binnen het in artikel B4 omschreven doel, een toelichting bevat op de relevantie voor de aanvrager en een advies met implementatieplan oplevert of een verslag van de implementatie van een advies gericht op een van de thema’s of activiteiten uit artikel B4;  
 
 b. Bij de aanvraag tevens wordt aangetoond dat de aanvrager tenminste twee werknemers in dienst heeft;  
 
-c. De subsidiabele kosten worden gemaakt in een door de minister aangewezen periode. Deze periode start de dag na dagtekening van het besluit tot verlening van de subsidie en eindigt ten hoogste tien maanden daarna;  
+c. De subsidiabele kosten worden gemaakt in een door de minister aangewezen periode. Deze periode start de dag na dagtekening van het besluit tot verlening van de subsidie en eindigt ten hoogste twaalf maanden daarna;  
 
 d. In het advies met implementatieplan dan wel in het verslag van de begeleiding bij de implementatie van een advies wordt aangegeven op welke wijze de werknemers zijn betrokken bij het project;  
 
-e. Per adviseur drie referenties worden ingediend, afkomstig van drie verschillende opdrachtgevers. Deze hebben betrekking op de kennis en ervaring van de beoogde adviseur op het terrein van duurzame inzetbaarheid. Ter vervanging van bovengenoemde drie referenties per adviseur, kan er ook één referentie van een O&O-fonds worden ingediend. Geen referentie hoeft te worden ingediend wanneer wordt aangetoond dat de beoogde adviseur in dienst is bij een O&O-fonds, dan wel een deskundige persoon is als bedoeld in artikel 14, eerste lid, van de Arbeidsomstandighedenwet.   
+e. Per adviseur investeringsprioriteit B drie referenties worden ingediend, afkomstig van drie verschillende opdrachtgevers. Deze hebben betrekking op de kennis en ervaring van de beoogde adviseur investeringsprioriteit B op het terrein van duurzame inzetbaarheid. Ter vervanging van bovengenoemde drie referenties per adviseur investeringsprioriteit B, kan er ook één referentie van een O&O-fonds worden ingediend. Geen referentie hoeft te worden ingediend wanneer wordt aangetoond dat de beoogde adviseur investeringsprioriteit B in dienst is bij een O&O-fonds, dan wel een deskundige persoon is als bedoeld in artikel 14, eerste lid, van de Arbeidsomstandighedenwet.   
 
 ### Artikel  B7 
 
 ####Weigering van de subsidie
 
-In aanvulling op artikel 10 wordt geen subsidie verleend aan subsidieaanvragers aan wie op grond van enige andere subsidieregeling voor het project of vergelijkbare doeleinden subsidie is verstrekt. 
+Er wordt geen subsidie verleend aan subsidieaanvragers aan wie op grond van enige andere subsidieregeling voor het project of vergelijkbare doeleinden subsidie is verstrekt. 
 
 ### Artikel  B8 
 
 ####Subsidiabele kosten
 
-In afwijking van artikel 12 komen slechts voor subsidie in aanmerking de kosten van de door de adviseur werkelijk gerealiseerde uren voor ten minste een van onderstaande activiteiten, aantoonbaar gericht op een of meer thema’s of activiteiten uit artikel B4: 
+In afwijking van artikel 12 komen slechts voor subsidie in aanmerking de kosten van de door de adviseur investeringsprioriteit B werkelijk gerealiseerde uren voor ten minste een van onderstaande activiteiten, aantoonbaar gericht op een of meer thema’s of activiteiten uit artikel B4: 
 
 a. het opstellen van een advies met implementatieplan;  
 
@@ -902,17 +904,36 @@ b. het begeleiden bij het implementeren van een advies.
 
 ####Hoogte subsidie
 
-1.  Wanneer de aanvraag aan de eisen van dit hoofdstuk voldoet, verleent de minister een subsidie van maximaal € 10.000,–. Voor de berekening van de subsidie wordt het uurtarief van de ingehuurde adviseur bepaald op maximaal € 100,– exclusief btw.   
+1.  Wanneer de aanvraag aan de eisen van dit hoofdstuk voldoet, verleent de minister een subsidie van maximaal € 10.000,–. Voor de berekening van de subsidie wordt het uurtarief van de ingehuurde adviseur investeringsprioriteit B bepaald op maximaal € 100,– exclusief btw.   
 2.  Voor aan de subsidieaanvrager in rekening gebrachte btw wordt geen subsidie verleend, ook niet wanneer de aanvrager niet btw-plichtig is.  
 
 ### Artikel  B10 
 
 ####Einddeclaratie en subsidievaststelling
 
-1.  In afwijking van artikel 18, eerste lid, dient de subsidieontvanger binnen vier weken na beëindiging van het project, een verzoek tot vaststelling in bij de minister.   
-2.  In afwijking van artikel 18 derde lid wordt het maximale subsidiepercentage bedoeld in artikel 11, eerste lid, vastgesteld op 0% indien bij het indienen, dan wel na het controleren van de einddeclaratie respectievelijk na overig onderzoek door daartoe bevoegde instanties, blijkt dat minder dan € 12.000 aan subsidiabele kosten is gerealiseerd.   
-3.  Bij het verzoek tot vaststelling van de subsidie wordt het door de adviseur opgestelde advies met implementatieplan of een verslag van de begeleiding van de implementatie van een advies gevoegd en de factuur of facturen van de adviseur(s) en de bijbehorende algemeen aanvaarde betalingsbewijzen.   
-4.  De minister beslist, in afwijking van artikel 18, zesde lid, binnen dertien weken na ontvangst van het verzoek tot vaststelling.  
+1.  In afwijking van artikel 18, eerste lid, dient de subsidieontvanger binnen zes weken na beëindiging van het project, een verzoek tot vaststelling in bij de minister.   
+2.  In afwijking van artikel 18, derde lid, wordt het maximale subsidiepercentage bedoeld in artikel 11, eerste lid, vastgesteld op 0% indien bij het indienen, dan wel na het controleren van de einddeclaratie respectievelijk na overig onderzoek door daartoe bevoegde instanties, blijkt dat minder dan € 12.000,– aan subsidiabele kosten is gerealiseerd.   
+3.  Bij het verzoek tot vaststelling van de subsidie wordt het door de adviseur investeringsprioriteit B opgestelde advies met implementatieplan of een verslag van de begeleiding van de implementatie van een advies gevoegd en de factuur of facturen van de adviseur investeringsprioriteit B en de bijbehorende algemeen aanvaarde betalingsbewijzen.   
+4.   In het advies of het verslag, bedoeld in het derde lid, wordt vermeld: 
+
+a. het projectnummer, de naam van het bedrijf en het bedrijfslogo;  
+
+b. de naam van de adviseur investeringsprioriteit B;  
+
+c. de aanleiding voor de subsidieaanvraag;  
+
+d. op welk thema of activiteit het project gericht is geweest;  
+
+e. welke activiteiten in het kader van het project zijn uitgevoerd en voor welke doelgroep;  
+
+f. de uitkomsten of opbrengsten van het project en in hoeverre de beoogde doelstellingen zijn bereikt;  
+
+g. op welke wijze werknemers betrokken zijn geweest bij het project;  
+
+h. op welke wijze de organisatie het advies kan implementeren, dan wel vorm is gegeven aan de begeleiding bij de implementatie;  
+
+i. met welke partijen binnen of buiten de organisatie is samengewerkt.    
+5.  De minister beslist, in afwijking van artikel 18, zesde lid, binnen dertien weken na ontvangst van het verzoek tot vaststelling.  
 
 ### Artikel  B11 
 

@@ -541,7 +541,7 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 3.7, vierde lid, CAO PO) vanwege gewichtige omstandigheden (artikel 3.8, zevende lid, CAO PO) te weten kwalitatieve fricties
 
-Als het dienstverband is beëindigd op grond van artikel 3.7, vierde lid, CAO PO, met als reden dat er naar het oordeel van de werkgever sprake is gewichtige omstandigheden, zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties omdat het naar het oordeel van de werkgever anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:6:1 tot en met 4:6:7 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als het dienstverband is beëindigd op grond van artikel 3.7, vierde lid, CAO PO, met als reden dat er naar het oordeel van de werkgever sprake is gewichtige omstandigheden, zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties omdat het naar het oordeel van de werkgever anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:6:1 tot en met 4:6:6 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:6:1  
 
@@ -831,7 +831,7 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: gewichtige omstandigheden (artikel 3.8, zevende lid, CAO PO) te weten kwalitatieve fricties
 
-Als ontslag is verleend op grond van artikel 3.8, zevende lid, van de CAO PO, met als reden dat er naar het oordeel van de werkgever sprake is gewichtige omstandigheden, zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties omdat het naar het oordeel van de werkgever anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:12:1 tot en met 4:12:7 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als ontslag is verleend op grond van artikel 3.8, zevende lid, van de CAO PO, met als reden dat er naar het oordeel van de werkgever sprake is gewichtige omstandigheden, zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties omdat het naar het oordeel van de werkgever anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:12:1 tot en met 4:12:6 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:12:1  
 
@@ -1039,7 +1039,7 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO): vanwege onbekwaamheid/ongeschiktheid als bedoeld in artikel 3.8, tweede lid
 
-Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat sprake is van onbekwaamheid of ongeschiktheid van de werknemer voor de door hem uitgeoefende functie zoals bedoeld in artikel 3.8, tweede lid, van de CAO PO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:19:1 tot en met 4:19:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat sprake is van onbekwaamheid of ongeschiktheid van de werknemer voor de door hem uitgeoefende functie zoals bedoeld in artikel 3.8, tweede lid, van de CAO PO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:19:1 tot en met 4:19:3 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:19:1  
 
@@ -1147,7 +1147,7 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO): vanwege gewichtige omstandigheden zoals bedoeld in artikel 3.8 zevende lid vanwege kwalitatieve fricties
 
-Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat er sprake is gewichtige omstandigheden zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties omdat naar het oordeel van de werkgever het anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikelen 4:21:1 tot en met 4:21:7 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat er sprake is gewichtige omstandigheden zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties omdat naar het oordeel van de werkgever het anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:21:1 tot en met 4:21:5 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:21:1  
 
@@ -1938,7 +1938,7 @@ iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen de datum 
 
 iv. personeel dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst en de beëindiging van het dienstverband, in vaste dienst is getreden;  
 
-v. een vacature op de datum van de datum van de beëindiging van het dienstverband.   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van werknemer/werknemers van wie het dienstverband beëindigd is, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:43:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met v. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de werknemer van wie het dienstverband beëindigd is en die niet in de vacature, genoemd onder v. is benoemd. 
+v. een vacature op de datum van de beëindiging van het dienstverband.   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van werknemer/werknemers van wie het dienstverband beëindigd is, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:42:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met iv. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de werknemer van wie het dienstverband beëindigd is en die niet in de vacature, genoemd onder v. is benoemd. 
 
 ### Artikel  4:42:5  
 
@@ -2101,7 +2101,7 @@ iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaa
 
 iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:45:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
+v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:45:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met iv. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
 
 ### Artikel  4:45:5  
 
@@ -2367,7 +2367,7 @@ iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen de datum 
 
 iv. personeel dat, in de periode tussen de datum van ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:49:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v. is benoemd. 
+v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:49:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met iv. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v. is benoemd. 
 
 ### Artikel  4:49:5  
 
@@ -2564,7 +2564,7 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO) vanwege opheffing van de betrekking voor werkgever met werkgelegenheidsbeleid
 
-Als de werkgever, die de werkgelegenheidsbeleid als bedoeld in artikel 10.2 van de CAO-PO voert en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 3.6, eerste lid, CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 3.8, derde lid CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 4:53:1 tot en met 4:53:4 voldaan en de in die artikelen genoemde documenten overgelegd. 
+Als de werkgever, die de werkgelegenheidsbeleid als bedoeld in artikel 10.2 van de CAO-PO voert en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 3.6, eerste lid, CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 3.8, derde lid CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 4:53:1 tot en met 4:53:5 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  4:53:1  
 
@@ -2828,8 +2828,8 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.57.1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4.57.2.   
-2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.57.2 aan de hand van de loonkostentool van het Participatiefonds.   
+1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.57.1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4:57:3.   
+2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:57:3 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
 
 a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.  
@@ -2852,7 +2852,7 @@ iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaa
 
 iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:57:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
+v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:57:3 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met iv. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
 
 ### Artikel  4:57:6  
 
@@ -2984,8 +2984,8 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4;59:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4:59:2.   
-2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:59:2 aan de hand van de loonkostentool van het Participatiefonds.   
+1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4;59:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4:59:3.   
+2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:59:3 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
 
 a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.  
@@ -3008,7 +3008,7 @@ iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaa
 
 iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:59:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
+v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:59:3 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met iv. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
 
 ### Artikel  4:59:6  
 
@@ -3180,7 +3180,7 @@ b. het niet voortzetten van het tijdelijk dienstverband tijdens de looptijd van 
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO) vanwege gewichtige omstandigheden (artikel 3.8, zevende lid, cao PO te weten kwalitatieve fricties, als gevolg van de invoering van passend onderwijs
 
-Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat er sprake is gewichtige omstandigheden zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties, als gevolg van de invoering van passend onderwijs, omdat naar het oordeel van de werkgever het anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikelen 4:62:1 tot en met 4:62:7 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat er sprake is gewichtige omstandigheden zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties, als gevolg van de invoering van passend onderwijs, omdat naar het oordeel van de werkgever het anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:62:1 tot en met 4:62:9 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:62:1  
 
@@ -3217,8 +3217,8 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4;62:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4:62:2.   
-2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:62:2 aan de hand van de loonkostentool van het Participatiefonds.   
+1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4;62:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4:62:3.   
+2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:62:3 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
 
 a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.  
@@ -3241,7 +3241,7 @@ iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaa
 
 iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:45:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
+v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:62:3 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met iv. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
 
 ### Artikel  4:62:6  
 
@@ -4894,7 +4894,7 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: Opheffing betrekking (artikel 4.7, onder d, CAO PO) vanwege daling of beëindiging van een landelijke door de overheid beschikbaar gestelde subsidie voor werkgever met ontslagbeleid
 
-Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van een daling of beëindiging van een landelijke door de overheid beschikbaar gestelde subsidie, waaronder ook begrepen subsidie voor een combinatiefunctie als bedoeld in het document ‘bestuurlijke afspraken Impuls brede scholen’, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als ontslag is verleend op grond van artikel 4.7, onder d, CAO PO, te weten op grond van opheffing van de instelling of de dienst van de instelling of de betrekking en de werkgever heeft aan de voorwaarden genoemd in artikel 5:45:1 tot en met 5:45:4 voldaan en de in die artikelen genoemde documenten overgelegd. 
+Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van een daling of beëindiging van een landelijke door de overheid beschikbaar gestelde subsidie, waaronder ook begrepen subsidie voor een combinatiefunctie als bedoeld in het document ‘bestuurlijke afspraken Impuls brede scholen’, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als ontslag is verleend op grond van artikel 4.7, onder d, CAO PO, te weten op grond van opheffing van de instelling of de dienst van de instelling of de betrekking en de werkgever heeft aan de voorwaarden genoemd in artikel 4:45:1 tot en met 4:45:3 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:45:1  
 
@@ -5493,7 +5493,7 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO) vanwege opheffing van de betrekking voor werkgever met werkgelegenheidsbeleid
 
-Als de werkgever, die de werkgelegenheidsbeleid als bedoeld in artikel 10.2 van de CAO-PO voert en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 4.6, tweede lid, CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:55:1 tot en met 5:55:4 voldaan en de in die artikelen genoemde documenten overgelegd. 
+Als de werkgever, die de werkgelegenheidsbeleid als bedoeld in artikel 10.2 van de CAO-PO voert en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 4.6, tweede lid, CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:55:1 tot en met 5:55:5 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:55:1  
 
@@ -5556,7 +5556,7 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO) vanwege reorganisatie
 
-Als de werkgever met de centrales in het DGO overleg heeft gevoerd over de rechtspositionele gevolgen van een reorganisatie als bedoeld in artikel 13.2 lid 5 onder a van de CAO PO en in dat kader een met de bonden overeengekomen sociaal plan, zoals bedoeld in artikel 10.3 van de CAO PO uitvoert of heeft uitgevoerd, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 4.6, tweede lid, van de CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:56:1 tot en met 5:56:4 voldaan en de in die artikelen genoemde documenten overgelegd. 
+Als de werkgever met de centrales in het DGO overleg heeft gevoerd over de rechtspositionele gevolgen van een reorganisatie als bedoeld in artikel 13.2 lid 5 onder a van de CAO PO en in dat kader een met de bonden overeengekomen sociaal plan, zoals bedoeld in artikel 10.3 van de CAO PO uitvoert of heeft uitgevoerd, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 4.6, tweede lid, van de CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:56:1 tot en met 5:56:3 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:56:1  
 
@@ -5796,8 +5796,8 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:60:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:60:2.   
-2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:60:2 aan de hand van de loonkostentool van het Participatiefonds.   
+1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:60:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:60:3.   
+2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:60:3 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
 
 a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.  
@@ -5820,7 +5820,7 @@ iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaa
 
 iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:60:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
+v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:60:3 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met iv. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
 
 ### Artikel  5:60:6  
 
@@ -5952,8 +5952,8 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:62:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:62:2.   
-2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:62:2 aan de hand van de loonkostentool van het Participatiefonds.   
+1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:62:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:62:3.   
+2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:62:3 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
 
 a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.  
@@ -5976,7 +5976,7 @@ iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaa
 
 iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:62:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
+v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:62:3 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met iv. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
 
 ### Artikel  5:62:6  
 
@@ -6148,7 +6148,7 @@ b. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gem
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid CAO PO) vanwege met name genoemde redenenvan gewichtige aard (artikel 4.7, onder k, CAO PO te weten kwalitatieve fricties, als gevolg van de invoering van passend onderwijs
 
-Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat er sprake is van met name genoemde redenen van gewichtige aard zoals bedoeld in artikel 4.7, onder k, van de CAO PO, vanwege kwalitatieve fricties, als gevolg van de invoering van passend onderwijs, omdat naar het oordeel van de werkgever het anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikelen 5:65:1 tot en met 5:65:7 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat er sprake is van met name genoemde redenen van gewichtige aard zoals bedoeld in artikel 4.7, onder k, van de CAO PO, vanwege kwalitatieve fricties, als gevolg van de invoering van passend onderwijs, omdat naar het oordeel van de werkgever het anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:56:1 tot en met 5:65:9 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:65:1  
 
@@ -6184,8 +6184,8 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:65:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:65:2.   
-2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:65:2 aan de hand van de loonkostentool van het Participatiefonds.   
+1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:65:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:65:3.   
+2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:65:3 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
 
 a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.  
@@ -6208,7 +6208,7 @@ iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaa
 
 iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:65:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
+v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:65:3 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met iv. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
 
 ### Artikel  5:65:6  
 
@@ -6293,7 +6293,7 @@ In gevallen waarin het reglement niet voorziet, beslist het bestuur van het Part
 
 ####Wijziging voorgaand reglement
 
-Wijzigt het Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra voor het schooljaar 2015–2016. 
+Wijzigt het Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra voor het schooljaar 2014–2015. 
 
 ### Bijlage  1  
 
