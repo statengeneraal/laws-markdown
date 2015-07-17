@@ -72,7 +72,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *afsluit
 
 5°. rechtspersoon waarin een bestuurder van een beheerder van een icbe, maatschappij voor collectieve belegging in effecten of bewaarder van een icbe of een natuurlijke persoon als bedoeld onder 3° of 4°, direct of indirect stemrecht kan uitoefenen of anderszins bepaalde rechten kan uitoefenen waardoor sprake is van invloed van betekenis op het zakelijk of financieel beleid van die rechtspersoon; of  
 
-6°. natuurlijke persoon die onderdeel is van een orgaan dat belast is met toezicht op het beleid en de algemene gang van zaken van een beheerder van een icbe, maatschappij voor collectieve belegging in effecten of bewaarder van een icbe;  *gelieerd financieel instrument:* een financieel instrument waarvan de prijs sterk wordt beïnvloed door prijsschommelingen van een ander financieel instrument dat het onderwerp van onderzoek op beleggingsgebied is of van een van dit andere financiële instrument afgeleid financieel instrument;*hypothecair krediet*: overeenkomst inzake krediet met een consument, bij het aangaan waarvan een recht van hypotheek wordt gevestigd, strekkende tot verhaal bij voorrang van de vordering tot voldoening van de door de consument verschuldigde betaling, dan wel met betrekking waartoe reeds een zodanig recht is gevestigd en waarbij het krediet wordt verleend tegen een voor hypothecaire financieringen van de aanbieder gebruikelijk jaarlijks kostenpercentage;*incident*: gedraging of gebeurtenis die een ernstig gevaar vormt voor de integere uitoefening van het bedrijf van een financiële onderneming;*integriteitgevoelige functie*: 
+6°. natuurlijke persoon die onderdeel is van een orgaan dat belast is met toezicht op het beleid en de algemene gang van zaken van een beheerder van een icbe, maatschappij voor collectieve belegging in effecten of bewaarder van een icbe;  *gelieerd financieel instrument:* een financieel instrument waarvan de prijs sterk wordt beïnvloed door prijsschommelingen van een ander financieel instrument dat het onderwerp van onderzoek op beleggingsgebied is of van een van dit andere financiële instrument afgeleid financieel instrument; *geschilleninstantie:* instantie tot beslechting van geschillen met betrekking tot betaaldiensten, financiële diensten of financiële producten van een financiële onderneming;*hypothecair krediet*: overeenkomst inzake krediet met een consument, bij het aangaan waarvan een recht van hypotheek wordt gevestigd, strekkende tot verhaal bij voorrang van de vordering tot voldoening van de door de consument verschuldigde betaling, dan wel met betrekking waartoe reeds een zodanig recht is gevestigd en waarbij het krediet wordt verleend tegen een voor hypothecaire financieringen van de aanbieder gebruikelijk jaarlijks kostenpercentage;*incident*: gedraging of gebeurtenis die een ernstig gevaar vormt voor de integere uitoefening van het bedrijf van een financiële onderneming;*integriteitgevoelige functie*: 
 
 1°. leidinggevende functie direct onder de personen die het beleid van de financiële onderneming bepalen of mede bepalen; of  
 
@@ -1141,13 +1141,13 @@ d. een beschrijving van de wijze waarop zij de klacht heeft behandeld.
 
 ### Artikel  42  
 
-De financiële onderneming informeert de klager bij een gehele of een gedeeltelijke afwijzing van diens klacht over financiële diensten of financiële producten over de mogelijkheid om de klacht voor te leggen aan de erkende geschilleninstantie waarbij zij is aangesloten, onder vermelding van de geldende termijnen. Daarbij wordt tevens vermeld dat een geschil ook direct bij een burgerlijke rechter aanhangig kan worden gemaakt. Indien de afwijzing schriftelijk geschiedt, wordt de desbetreffende informatie eveneens schriftelijk verstrekt. 
+De financiële onderneming informeert de klager bij een gehele of een gedeeltelijke afwijzing van diens klacht over financiële diensten of financiële producten over de mogelijkheid om de klacht voor te leggen aan de de op grond van artikel 16 van de Implementatiewet buitengerechtelijke geschillenbeslechting consumenten aangewezen geschilleninstantie waarbij zij is aangesloten, onder vermelding van de geldende termijnen. Daarbij wordt tevens vermeld dat een geschil ook direct bij een burgerlijke rechter aanhangig kan worden gemaakt. 
 
 ### Artikel  43  
 
 1.  De financiële onderneming draagt er zorg voor dat klachten binnen een redelijke termijn worden afgehandeld.   
 2.  De financiële onderneming bevestigt de ontvangst van de klacht en bericht de klager binnen twee weken na ontvangst van de klacht binnen welke termijn de klacht zal worden afgehandeld.   
-3.  De klager kan vanaf zes weken na ontvangst van de ontvangstbevestiging of acht weken na het indienen van de klacht, de klacht rechtstreeks voorleggen aan de erkende geschilleninstantie waarbij de financiële onderneming is aangesloten.   
+3.  De klager kan vanaf zes weken na ontvangst van de ontvangstbevestiging of acht weken na het indienen van de klacht, de klacht rechtstreeks voorleggen aan de de in artikel 42 bedoelde aangewezen geschilleninstantie waarbij de financiële onderneming is aangesloten.   
 4.  Indien de financiële onderneming voor de afwikkeling van de klacht nadere informatie nodig heeft van de klager, verzoekt zij deze informatie van de klager en geeft een termijn voor de beantwoording. De termijnen als bedoeld in het derde lid worden verlengd met de termijn voor beantwoording, of met de termijn waarbinnen de verzochte informatie wordt ontvangen door de financiële onderneming.  
 
 ### Artikel  44  
@@ -1156,62 +1156,48 @@ De financiële onderneming voorziet in procedures en maatregelen die waarborgen 
 
 ### §  7.2  
 
-####Erkende geschilleninstantie
+####Aangewezen geschilleninstantie
 
 Bepalingen ter uitvoering van artikel 4:17, derde lid, van de wet 
 
+### Artikel  44a  
+
+Voor zover een cliënt of deelnemer als bedoeld in artikel 4:17, eerste lid, van de wet niet tevens een consument is in de zin van de Implementatiewet buitengerechtelijke geschillenbeslechting consumenten, geschiedt de beslechting van geschillen als bedoeld in artikel 4:17, eerste lid, onderdeel b, van de wet met overeenkomstige toepassing van de bepalingen van de Implementatiewet buitengerechtelijke geschillenbeslechting consumenten. Voorts staat de geschillenbeslechting tevens open voor cliënten, consumenten en deelnemers die buiten de Europese Unie woonachtig of gevestigd zijn. 
+
 ### Artikel  45  
 
-1.  Onze Minister kan een geschilleninstantie als bedoeld in artikel 4:17, eerste lid, onderdeel b, van de wet, slechts erkennen indien: 
+1.  Een geschilleninstantie voldoet, in aanvulling op de uit de Implementatiewet buitengerechtelijke geschillenbeslechting voortvloeiende vereisten, tevens aan de volgende vereisten: 
 
-a. de bij die geschilleninstantie aangesloten financiële ondernemingen een groep van voldoende betekenis en veelsoortigheid vormen of aannemelijk gemaakt kan worden dat dit op korte termijn na erkenning het geval zal zijn;  
+a. de bij die geschilleninstantie aangesloten financiële ondernemingen vormen een groep van voldoende betekenis en veelsoortigheid of er kan aannemelijk gemaakt worden dat dit op korte termijn na erkenning het geval zal zijn;  
 
-b. de geschilleninstantie in voldoende mate bijdraagt tot het oplossen van geschillen die hun oorsprong vinden in klachten over financiële producten en diensten;  
+b. de geschilleninstantie draagt in voldoende mate bij tot het oplossen van geschillen die hun oorsprong vinden in klachten over financiële producten en diensten;  
 
-c. de geschilleninstantie over een adequate financieringssystematiek beschikt en een adequate bezettingsgraad kan realiseren; en  
+c. de geschilleninstantie beschikt over een adequate financieringssystematiek en realiseert een adequate bezettingsgraad;  
 
-d. de geschilleninstantie heeft aangetoond te kunnen voldoen aan de artikelen 45 tot en met 48f.     
-2.  Onze Minister beslist op een aanvraag om erkenning binnen vier maanden nadat de aanvraag is ingediend. De beslissingstermijn kan ten hoogste tweemaal met twee maanden worden verlengd.   
-3.  Aan een erkenning kunnen voorschriften worden verbonden.   
-4.  Onze Minister kan een erkenning intrekken: 
-
-a. op verzoek van de geschilleninstantie;  
-
-b. indien naar zijn oordeel de geschillencommissie niet in voldoende mate bijdraagt tot het oplossen van geschillen die hun oorsprong vinden in klachten over financiële producten en diensten;  
-
-c. indien de geschilleninstantie niet over een adequate financieringssystematiek beschikt of geen adequate bezettingsgraad weet te realiseren;  
-
-d. indien de bij de geschilleninstantie aangesloten financiële ondernemingen niet langer een groep van voldoende betekenis vormen;  
-
-e. indien de gegevens en bescheiden die zijn verstrekt ter verkrijging van de erkenning zodanig onjuist of onvolledig blijken, dat de erkenning zou zijn geweigerd, dan wel niet zonder het verbinden van voorschriften zou zijn verleend, indien bij de behandeling van de aanvraag de juiste gegevens volledig bekend waren geweest; of  
-
-f. indien de geschilleninstantie niet voldoet aan het eerste of derde lid, de artikelen 45 tot en met 48f of een voorschrift, verbonden aan de erkenning.     
-5.  Van een beslissing tot erkenning of tot intrekking van de erkenning van een geschilleninstantie wordt door Onze Minister mededeling gedaan in de Staatscourant.   
-6.  Onze Minister kan bij de beoordeling van een aanvraag tot erkenning als een geschilleninstantie in de zin van de wet een uitzondering maken op het eerste lid, onderdeel a, indien de groep financiële ondernemingen dezelfde financiële producten of financiële diensten aanbiedt en deze niet verweven zijn met andere financiële producten of financiële diensten.  
+d. de implementatiewet buitengerechtelijke geschillenbeslechting consumenten en de artikelen 45 tot en met 48f.     
+2.  Aan de aanwijzing van een geschilleninstantie kunnen door Onze Minister voorschriften worden verbonden.   
+3.  Onze Minister kan bij de beoordeling van een aanvraag om te worden aangewezen een uitzondering maken op het eerste lid, onderdeel a, indien de in dat onderdeel bedoelde groep financiële ondernemingen dezelfde financiële producten of financiële diensten aanbiedt en deze niet verweven zijn met andere financiële producten of financiële diensten.  
 
 ### Artikel  46  
 
-1.  Een erkende geschilleninstantie heeft een onafhankelijk en naar behoren samengesteld bestuur.   
+1.  Een geschilleninstantie heeft een onafhankelijk en naar behoren samengesteld bestuur.   
 2.  De onafhankelijkheid van het bestuur vereist ten minste dat de leden vanaf de aanvaarding van hun functie en gedurende een jaar voorafgaande aan de aanvaarding van hun functie niet werkzaam zijn of zijn geweest voor of enige functie bekleden of bekleed hebben bij een financiële onderneming of een beroepsorganisatie daarvan.   
 3.  De bij de benoeming van bestuursleden te volgen procedure is schriftelijk vastgelegd. De procedure wordt ter goedkeuring aan Onze Minister voorgelegd.  
 
 ### Artikel  47  
 
-1.  Een erkende geschilleninstantie draagt zorg voor de onafhankelijkheid en deskundigheid van het orgaan dat binnen haar organisatie verantwoordelijk is voor de behandeling van het geschil.   
-2.  De onafhankelijkheid van het orgaan vereist ten minste dat de leden vanaf de aanvaarding van hun functie en gedurende een jaar voorafgaande aan de aanvaarding van hun functie niet werkzaam zijn of gewerkt hebben voor of enige functie bekleden of bekleed hebben bij een financiële onderneming of een beroepsorganisatie daarvan.   
-3.  Binnen het orgaan is voldoende kennis en ervaring aanwezig op het gebied van geschillenbeslechting, toepasselijke wet- en regelgeving en financiële producten en diensten.   
-4.  De bij de benoeming van een lid van het orgaan, bedoeld in het eerste lid, te volgen procedure is schriftelijk vastgelegd. De procedure wordt ter goedkeuring aan Onze Minister voorgelegd.   
-5.  Indien de erkende geschilleninstantie een bemiddelende voorfase kent, is het eerste tot en met vierde lid van overeenkomstige toepassing.  
+1.  De geschilleninstantie draagt er zorg voor dat de met buitengerechtelijke geschillenbeslechting belaste personen vanaf de aanvaarding van hun functie en gedurende een jaar voorafgaande aan de aanvaarding van hun functie niet werkzaam zijn of zijn geweest voor of enige functie bekleden of bekleed hebben bij een financiële onderneming of beroepsorganisatie van financiële ondernemingen.   
+2.  De bij de benoeming van een persoon, bedoeld in het eerste lid, te volgen procedure is schriftelijk vastgelegd. De procedure behoeft de goedkeuring van Onze Minister.  
 
 ### Artikel  48  
 
-1.  Een erkende geschilleninstantie beschikt over en handelt in overeenstemming met een reglement voor de behandeling van geschillen dat ten minste omvat: 
+1.  Een geschilleninstantie beschikt over en handelt in overeenstemming met een reglement voor de behandeling van geschillen dat ten minste omvat: 
 
 a. een duidelijke omschrijving van de geschillen die ter behandeling aan de geschilleninstantie kunnen worden voorgelegd;  
 
 b. regels met betrekking tot het aanhangig maken van een geschil en een duidelijke omschrijving van de partijen die een geschil aanhangig kunnen maken;  
 
-c. indien de mogelijkheid daartoe wordt geboden: regels met betrekking tot wraking van een lid van het orgaan, bedoeld in artikel 47, eerste lid, door partijen, op grond van feiten of omstandigheden die een onpartijdig of onafhankelijk oordeel van dat lid zouden bemoeilijken;  
+c. regels met betrekking tot wraking van een met buitengerechtelijke geschillenbeslechting belaste persoon, op grond van feiten of omstandigheden die een onpartijdig of onafhankelijk oordeel van die persoon zouden bemoeilijken;  
 
 d. regels met betrekking tot de behandeling van een geschil door de geschilleninstantie;  
 
@@ -1242,15 +1228,7 @@ p. indien beroep tegen een uitspraak mogelijk is: regels met betrekking tot het 
 
 ### Artikel  48a  
 
-Een erkende geschilleninstantie kan voorgenomen wijzigingen in de samenstelling van het bestuur, het orgaan bedoeld in artikel 47, eerste lid, of het reglement, bedoeld in artikel 48, niet doorvoeren dan na instemming van Onze Minister. Bij voorgenomen wijzigingen in de samenstelling van het bestuur of het orgaan, bedoeld in artikel 47, eerste lid, vermeldt de geschilleninstantie de leeftijd, genoten opleidingen en professionele achtergrond van de nieuwe leden. 
-
-### Artikel  48b  
-
-Een erkende geschilleninstantie draagt er zorg voor dat de kosten voor het aanhangig maken van een geschil zodanig beperkt blijven dat de toegang tot de geschilleninstantie niet onredelijk wordt belemmerd. 
-
-### Artikel  48c  
-
-Een erkende geschilleninstantie draagt er zorg voor dat de behandeling van een geschil binnen een redelijke termijn wordt voltooid. 
+Een geschilleninstantie kan voorgenomen wijzigingen in de samenstelling van het bestuur, de personen belast met buitengerechtelijke geschillenbeslechting of het reglement, bedoeld in artikel 48, niet doorvoeren dan na instemming van Onze Minister. Bij voorgenomen wijzigingen in de samenstelling van het bestuur of de personen belast met buitengerechtelijke geschillenbeslechting vermeldt de geschilleninstantie de leeftijd, genoten opleidingen en professionele achtergrond van de nieuwe leden. 
 
 ### Artikel  48d  
 
@@ -1258,22 +1236,18 @@ Een erkende geschilleninstantie stelt aan een financiële onderneming die zich b
 
 ### Artikel  48e  
 
-Een erkende geschilleninstantie publiceert de bindende adviezen, bedoeld in artikel 48, eerste lid, onderdeel l, en houdt deze elektronisch beschikbaar en algemeen toegankelijk. 
+Een geschilleninstantie publiceert de bindende adviezen, bedoeld in artikel 48, eerste lid, onderdeel i, en houdt deze elektronisch beschikbaar en algemeen toegankelijk. 
 
 ### Artikel  48f  
 
-1.  Een erkende geschilleninstantie verstrekt aan Onze Minister jaarlijks voor 1 juli een opgave van: 
-
-a. de in het afgelopen kalenderjaar bij de geschilleninstantie aangesloten financiële ondernemingen;  
-
-b. het aantal in het afgelopen kalenderjaar ingediende en behandelde geschillen, alsmede een algemene weergave van de aard van de geschillen en de uitkomst van de geschilbeslechting.     
-2.  Een erkende geschilleninstantie verstrekt aan Onze Minister op diens verzoek de gegevens en inlichtingen die Onze Minister nodig heeft voor de uitoefening van diens in deze paragraaf omschreven taken.   
-3.  Een erkende geschilleninstantie verstrekt de Autoriteit Financiële Markten en de Nederlandsche Bank de gegevens en inlichtingen die zij nodig hebben voor de uitoefening van hun taken.   
-4.  Een erkende geschilleninstantie stelt jaarlijks een begroting op en zendt deze voor 1 december van het aan het begrotingsjaar voorafgaande jaar ter instemming aan Onze Minister.   
-5.  Een erkende geschilleninstantie stelt jaarlijks een jaarverslag en een jaarrekening op. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de geschilleninstantie aangewezen accountant.   
-6.  Een erkende geschilleninstantie zendt de jaarrekening voor 1 mei van het op het boekjaar volgende jaar ter instemming aan Onze Minister.   
-7.  Een erkende geschilleninstantie laat iedere vijf jaar een evaluatieonderzoek uitvoeren door een onafhankelijke onderzoeksinstantie en voert periodiek klanttevredenheidsonderzoeken uit. Van deze onderzoeken wordt een afschrift aan Onze Minister versterkt.   
-8.  Onze minister kan de termijn van vijf jaar, bedoeld in het zevende lid, verkorten en, op kosten van de erkende geschilleninstantie, het opdrachtgeverschap van het evaluatieonderzoek, bedoeld in het zevende lid, overnemen.  
+1.  Een geschilleninstantie verstrekt aan Onze Minister jaarlijks voor 1 juli een opgave van de in het afgelopen kalenderjaar bij de geschilleninstantie aangesloten financiële ondernemingen.   
+2.  Een geschilleninstantie verstrekt aan Onze Minister op diens verzoek de gegevens en inlichtingen die Onze Minister nodig heeft voor de uitoefening van diens in deze paragraaf omschreven taken.   
+3.  Een geschilleninstantie verstrekt de Autoriteit Financiële Markten en de Nederlandsche Bank de gegevens en inlichtingen die zij nodig hebben voor de uitoefening van hun taken.   
+4.  Een geschilleninstantie stelt jaarlijks een begroting op en zendt deze voor 1 december van het aan het begrotingsjaar voorafgaande jaar ter instemming aan Onze Minister.   
+5.  Een geschilleninstantie stelt jaarlijks een jaarverslag en een jaarrekening op. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de geschilleninstantie aangewezen accountant.   
+6.  Een geschilleninstantie zendt de jaarrekening voor 1 mei van het op het boekjaar volgende jaar ter instemming aan Onze Minister.   
+7.  De evaluatie die een geschilleninstantie ingevolge artikel 18, onderdeel h, van de Implementatiewet buitengerechtelijke geschillenbeslechting aan Onze Minister verstrekt wordt ten minste iedere vier jaar uitgevoerd door een onafhankelijke onderzoeksinstantie. De aangewezen geschilleninstantie voert periodiek een klanttevredenheidsonderzoek uit.   
+8.  Onze minister kan de termijn van vier jaar, bedoeld in het zevende lid, verkorten en, op kosten van de geschilleninstantie, het opdrachtgeverschap van het evaluatieonderzoek, bedoeld in het zevende lid, overnemen.  
 
 ### Hoofdstuk  8  
 
@@ -2446,6 +2420,21 @@ b. een geldig postadres of nummer waaraan de ontvanger een verzoek tot beëindig
 ### Artikel  81a  
 
 Een aanbieder van een hypothecair krediet offreert voor een consument die voornemens is een overeenkomst inzake een hypothecair krediet aan te gaan dezelfde debetrentevoet bij dezelfde rentevastperiode als voor een consument aan wie op dat moment een aanbod wordt gedaan voor de komende rentevastperiode bij een vergelijkbaar risicoprofiel. 
+
+### Artikel  81b  
+
+1.  Een levensverzekeraar spant zich jegens cliënten met een levensverzekering die een beleggingscomponent bevat en voor 1 januari 2013 is afgesloten, aantoonbaar in om hen een weloverwogen keuze te laten maken tot voortzetting, wijziging of stopzetting van die verzekering. Daartoe draagt hij er zorg voor dat bedoelde cliënten: 
+
+a. over adequate informatie beschikken met betrekking tot: 
+
+1°. de kenmerken alsmede de huidige en verwachte toekomstige financiële gevolgen van de verzekering in relatie tot het doel van de cliënt bij het afsluiten van de verzekering;  
+
+2°. de mogelijkheden om de verzekering te wijzigen, zodat deze meer aansluit bij het in onderdeel a bedoelde doel van de cliënt;    
+
+b. uitdrukkelijk de keuze, en consequenties van die keuze, tot voortzetting, wijziging of stopzetting van de in het eerste lid bedoelde verzekering wordt voorgelegd.     
+2.  Tevens legt de levensverzekeraar de aan de cliënt verstrekte, alsmede de van de cliënt ontvangen, informatie en de door de cliënt gemaakte keuze vast.   
+3.  De Autoriteit Financiële Markten kan regels stellen met betrekking tot het bepaalde in het eerste en tweede lid, waarbij de met betrekking tot de in het eerste lid bedoelde inspanningsverplichting te stellen regels zowel betrekking kunnen hebben op de inspanningen die in de relatie met individuele cliënten van een levensverzekeraar worden gevergd, als op minimale omvang van de inspanningen ten aanzien van de totale groep cliënten met een verzekering als bedoeld in het eerste lid.   
+4.  De levensverzekeraar maakt, per groep cliënten binnen een bepaalde categorie levensverzekering met een beleggingscomponent, de resultaten van de in het eerste lid bedoelde inspanningen openbaar. De Autoriteit Financiële Markten kan dienaangaande nadere regels stellen.  
 
 ### Artikel  82  
 

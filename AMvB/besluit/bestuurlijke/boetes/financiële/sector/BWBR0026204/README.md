@@ -921,6 +921,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de We
 |80e, eerste, tweede en derde lid |2 |
 | 81, eerste tot en met vierde lid  | 2  |
 |81a |2 |
+|artikel 81b |2 |
 | 82, eerste lid  | 1  |
 | 83, eerste tot en met derde lid  | 2  |
 |83a, eerste lid |2 |
@@ -1211,7 +1212,7 @@ De toezichthouder maakt een besluit tot het opleggen van een bestuurlijke boete 
 
 a. artikel 14, vijfde lid, 81, vijfde lid, of 103, vierde lid van het Besluit prudentiële regels Wft;  
 
-b. artikel 19, derde lid, 22, eerste en tweede lid, 24, derde lid, 26, eerste tot en met derde lid, 27, eerste en tweede lid, 29, derde lid, 35, tweede, derde en vijfde lid, 35a, eerste, derde en vierde lid, 35b, 39, 40, 51a, vijfde lid, 58b, tweede lid, 80a, eerste lid, 80b, eerste lid, 81, eerste tot en met derde lid, 130, 132, 133, tweede tot en met vierde lid, 134, eerste tot en met vierde lid, 135, eerste en tweede lid, 136, eerste lid, 137, tweede lid, 138, eerste lid, 139, eerste en tweede lid, 140, tweede lid, 156, 159, tweede lid, 160, tweede lid, 164, eerste lid, of 164b, eerste en tweede lid, van het Besluit Gedragstoezicht financiële ondernemingen Wft; of  
+b. artikel 19, derde lid, 22, eerste en tweede lid, 24, derde lid, 26, eerste tot en met derde lid, 27, eerste en tweede lid, 29, derde lid, 35, tweede, derde en vijfde lid, 35a, eerste, derde en vierde lid, 35b, 39, 40, 51a, vijfde lid, 58b, tweede lid, 80a, eerste lid, 80b, eerste lid, 81, eerste tot en met derde lid, artikel 81b 130, 132, 133, tweede tot en met vierde lid, 134, eerste tot en met vierde lid, 135, eerste en tweede lid, 136, eerste lid, 137, tweede lid, 138, eerste lid, 139, eerste en tweede lid, 140, tweede lid, 156, 159, tweede lid, 160, tweede lid, 164, eerste lid, of 164b, eerste en tweede lid, van het Besluit Gedragstoezicht financiële ondernemingen Wft; of  
 
 c. artikel 3, 5, eerste, vierde en vijfde lid, 6, 7, 10 tot en met 14, 15, eerste tot en met vierde lid, 16, eerste, tweede en vierde lid, 17, 18, eerste tot en met derde lid, 19 tot en met 24, 25, eerste lid, of 27 van het Besluit openbare biedingen.   
 

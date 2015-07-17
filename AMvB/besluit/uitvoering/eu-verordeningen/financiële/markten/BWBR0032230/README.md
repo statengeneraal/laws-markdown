@@ -49,7 +49,7 @@ In dit besluit wordt verstaan onder:
 
 ### Artikel  2  
 
-Als bevoegde autoriteit in de zin van de hierna genoemde verordeningen, belast met de uitvoering en handhaving van de bij of krachtens die verordeningen gestelde regels, worden aangewezen: 
+1. Als bevoegde autoriteit in de zin van de hierna genoemde verordeningen, belast met de uitvoering en handhaving van de bij of krachtens die verordeningen gestelde regels, worden aangewezen: 
 
 a. voor verordening (EG) nr. 809/2004 (prospectus): de Autoriteit Financiële Markten;  
 
@@ -91,7 +91,8 @@ m. voor verordening (EU) nr. 909/2014 (centrale effectenbewaarinstelllingen):
 
 1°. ten aanzien van de artikelen 9, voor zover het een bank betreft, 39 tot en met 47, 54 tot en met 57 en 59 en 60: de Nederlandsche Bank;  
 
-2°. ten aanzien van de artikelen 3 tot en met 7, 9, voor zover het een andere onderneming dan een bank betreft, 16 tot en met 20, 23, 26 tot en met 38 en 48 tot en met 53: de Autoriteit Financiële Markten.    
+2°. ten aanzien van de artikelen 3 tot en met 7, 9, voor zover het een andere onderneming dan een bank betreft, 16 tot en met 20, 23, 26 tot en met 38 en 48 tot en met 53: de Autoriteit Financiële Markten.     
+2.  De Europese Centrale Bank treedt in de plaats van de Nederlandsche Bank als bevoegde autoriteit als bedoeld in het eerste lid, indien dit volgt uit de artikelen 4, 5 en 6 van verordening (EU) nr. 1024/2013 van de Raad van 15 oktober 2013 waarbij aan de Europese Centrale Bank specifieke taken worden opgedragen betreffende het beleid inzake het prudentieel toezicht op kredietinstellingen (PbEU 2013, L 287). 
 
 ### Artikel  2a  
 

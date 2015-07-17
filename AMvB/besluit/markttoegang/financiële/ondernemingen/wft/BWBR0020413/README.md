@@ -369,11 +369,11 @@ g. de naam en het privé-adres van de personen die het beleid van het bijkantoor
 
 ####Uitoefenen van een bedrijf van bank
 
-Bepalingen ter uitvoering van de artikelen 2:12, vijfde lid, 2:13, tweede lid, 2:17, tweede lid, 2:21, tweede lid, en 2:22, tweede lid, van de wet 
+Bepalingen ter uitvoering van de artikelen 2:12, vierde lid, 2:13, tweede lid, 2:17, tweede lid, 2:21, tweede lid, en 2:22, tweede lid, van de wet 
 
 ### Artikel  8  
 
-1.  De gegevens, bedoeld in artikel 2:12, vijfde lid, van de wet zijn: 
+1.  De gegevens, bedoeld in artikel 2:12, vierde lid, van de wet zijn: 
 
 a. een opgave van de naam, het adres en het telefoon- en faxnummer van de bank;  
 
@@ -409,7 +409,7 @@ n. indien van toepassing:
 
 3°. bescheiden waaruit de financiële positie en de juridische groepsstructuur van de aanvrager of houder van een verklaring van geen bezwaar blijken; en    
 
-o. indien de bank een dochtermaatschappij is van een bank met zetel in een andere staat: een verklaring van de toezichthoudende instantie van de staat waar die bank haar zetel heeft, waaruit blijkt dat deze toezichthoudende instantie goedgekeurd heeft dat laatstbedoelde bank een dochtermaatschappij heeft die voornemens is in Nederland het bedrijf van bank uit te oefenen.     
+o. indien de bank een dochtermaatschappij is van een bank met zetel in een andere staat: een verklaring van de toezichthoudende instantie van de staat waar die bank haar zetel heeft of de Europese Centrale Bank, waaruit blijkt dat deze toezichthoudende instantie of de Europese Centrale Bank goedgekeurd heeft dat laatstbedoelde bank een dochtermaatschappij heeft die voornemens is in Nederland het bedrijf van bank uit te oefenen.     
 2.  De gegevens, bedoeld in het eerste lid, onderdeel g, zijn: 
 
 a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;  
@@ -2411,11 +2411,11 @@ f. een beschrijving van de inrichting van de voorgenomen bedrijfsvoering met bet
 
 ####Uitoefenen van bedrijf van bank en financiële instelling
 
-Bepalingen ter uitvoering van de artikelen 2:108, tweede lid, 2:111, tweede lid, en 2:112, tweede lid, van de wet 
+Bepalingen ter uitvoering van de artikelen 2:108, derde lid, 2:111, tweede lid, en 2:112, tweede lid, van de wet 
 
 ### Artikel  44  
 
-De gegevens, bedoeld in artikel 2:108, tweede lid, van de wet zijn: 
+De gegevens, bedoeld in artikel 2:108, derde lid, van de wet zijn: 
 
 a. een opgave van de lidstaat waar de bank voornemens is vanuit een bijkantoor haar bedrijf uit te oefenen;  
 

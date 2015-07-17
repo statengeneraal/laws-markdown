@@ -12,13 +12,9 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ####Algemene bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  1  
 
 ####Begripsbepalingen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
@@ -37,8 +33,6 @@ f.  *bibliotheek:* voor een ieder toegankelijke bibliotheekvoorziening die in ov
 ### Artikel  2  
 
 ####Toepassingsbereik
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Deze wet is niet van toepassing op: 
 
@@ -61,13 +55,9 @@ g. informatie die betrekking heeft op openbare persoonsgegevens waarvan hergebru
 
 ####Verzoeken om hergebruik
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  3  
 
 ####Indienen en afwijzen van verzoeken
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een ieder kan een verzoek om hergebruik richten tot een met een publieke taak belaste instelling of een onder verantwoordelijkheid van een met een publieke taak belaste instelling werkzame instelling, dienst of bedrijf.   
 2.  De verzoeker vermeldt bij zijn verzoek welke informatie hij wenst te hergebruiken.   
@@ -82,8 +72,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Behandeling van verzoeken
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Indien het verzoek betrekking heeft op gegevens in documenten die berusten bij een andere met een publieke taak belaste instelling dan die waarbij het verzoek is ingediend, wordt de verzoeker zo nodig naar die instelling verwezen. Is het verzoek schriftelijk gedaan, dan wordt het doorgezonden onder mededeling van de doorzending aan de verzoeker.   
 2.  De beslissing op een verzoek om hergebruik wordt mondeling of schriftelijk genomen.   
 3.  Een gehele of gedeeltelijke afwijzing van een schriftelijk verzoek om hergebruik vindt schriftelijk plaats. In geval van een mondeling verzoek vindt een afwijzing schriftelijk plaats, indien de verzoeker daarom vraagt. De verzoeker wordt op deze mogelijkheid gewezen.   
@@ -97,13 +85,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Ter beschikking stellen van informatie voor hergebruik
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  5  
 
 ####Beschikbare formaten
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De voor hergebruik beschikbare informatie wordt verstrekt zoals de informatie bij de met een publieke taak belaste instelling aanwezig is en voor zover mogelijk langs elektronische weg, in een open en machinaal leesbaar formaat, samen met de metadata, waarbij het formaat en de metadata voor zover mogelijk voldoen aan formele open standaarden, overeenkomstig artikel 5, eerste lid, van de richtlijn.   
 2.  Een met een publieke taak belaste instelling is niet verplicht vervaardiging van documenten voort te zetten en deze documenten op te blijven slaan, enkel met het oog op hergebruik.  
@@ -112,16 +96,12 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Voorwaarden
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De voorwaarden voor hergebruik zijn voor vergelijkbare categorieën van hergebruik gelijk.   
 2.  Een met een publieke taak belaste instelling verbindt aan de toestemming voor hergebruik geen licentievoorwaarden die de mogelijkheden tot hergebruik nodeloos beperken of waardoor de mededinging wordt beperkt.  
 
 ### Artikel  7  
 
 ####Exclusieve rechten
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een exclusief recht tot hergebruik wordt niet verleend, tenzij dat noodzakelijk is voor het verlenen van een dienst van algemeen belang.   
 2.  Indien een exclusief recht wordt verleend voor een dienst van algemeen belang, niet betreffende de digitalisering van verzamelingen overheidsinformatie die berusten bij musea of bibliotheken, wordt minstens elke drie jaar door de met een publieke taak belaste instelling die het exclusieve recht heeft verleend, bezien of de reden voor het verlenen van het exclusieve recht nog aanwezig is.   
@@ -133,16 +113,12 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Uitfasering exclusieve rechten
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Exclusieve rechten tot hergebruik, die vóór 20 januari 2006 en niet voor een dienst van algemeen belang zijn verleend, worden na afloop van het desbetreffende contract niet opnieuw verleend, of vervallen, indien het contract een langere looptijd heeft dan tot en met 31 december 2008, met ingang van 31 december 2008 van rechtswege.   
 2.  Onverminderd hetgeen bepaald in het eerste lid, worden exclusieve rechten tot hergebruik, die vóór de inwerkingtreding van deze wet en niet voor een dienst van algemeen belang of voor de digitalisering van verzamelingen van overheidsinformatie van musea of bibliotheken zijn verleend, na afloop van het desbetreffende contract niet opnieuw verleend, of vervallen, indien het contract een langere looptijd heeft dan tot en met 18 juli 2043, met ingang van 18 juli 2043 van rechtswege.  
 
 ### Artikel  9  
 
 ####Tarifering
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De met een publieke taak belaste instelling brengt voor het hergebruik van informatie ten hoogste de marginale kosten van vermenigvuldiging, verstrekking en verspreiding in rekening.   
 2.  In afwijking van het eerste lid brengen musea en bibliotheken voor het hergebruik van informatie ten hoogste de gemaakte kosten voor verzameling, productie, vermenigvuldiging en verspreiding, conservering en vereffening van rechten in rekening, vermeerderd met een redelijk rendement op investeringen.   
@@ -154,13 +130,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Wijziging van enige wetten
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  10  
 
 ####Wijziging Wet openbaarheid van bestuur
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt de Wet openbaarheid van bestuur. 
 
@@ -168,15 +140,11 @@ Wijzigt de Wet openbaarheid van bestuur.
 
 ####Wijziging Archiefwet 1995
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Wijzigt de Archiefwet 1995. 
 
 ### Artikel  12  
 
 ####Wijziging Kadasterwet
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt de Kadasterwet. 
 
@@ -184,15 +152,11 @@ Wijzigt de Kadasterwet.
 
 ####Wijziging Wegenverkeerswet 1994
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Wijzigt de Wegenverkeerswet 1994. 
 
 ### Artikel  14  
 
 ####Wijziging Handelsregisterwet 2007
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt de Handelsregisterwet 2007. 
 
@@ -200,21 +164,15 @@ Wijzigt de Handelsregisterwet 2007.
 
 ####Wijziging Wet op het Koninklijk Nederlands Meteorologisch Instituut
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Wijzigt de Wet op het Koninklijk Nederlands Meteorologisch Instituut. 
 
 ### Hoofdstuk  IV-A  
 
 ####Samenloopbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  14b  
 
 ####Samenloop Reparatiewet Infrastructuur en milieu 2014
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt deze wet. 
 
@@ -222,15 +180,11 @@ Wijzigt deze wet.
 
 ####Wijziging Wet taken meteorologie en seismologie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Wijzigt de Wet taken meteorologie en seismologie. 
 
 ### Artikel  14d  
 
 ####Samenloop Wijziging van de Wet openbaarheid van bestuur in verband met aanvullingen ter voorkoming van misbruik
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt deze wet. 
 
@@ -238,21 +192,15 @@ Wijzigt deze wet.
 
 ####Slotbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  15  
 
 ####Inwerkingtreding
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  16  
 
 ####Citeertitel
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Deze wet wordt aangehaald als: Wet hergebruik van overheidsinformatie. 
 

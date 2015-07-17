@@ -28,15 +28,7 @@ e. ambtelijke of gemengd samengestelde adviescommissie: een instantie, met als t
 
 f. persoonlijke beleidsopvatting: een opvatting, voorstel, aanbeveling of conclusie van een of meer personen over een bestuurlijke aangelegenheid en de daartoe door hen aangevoerde argumenten;  
 
-g. milieu-informatie: hetgeen daaronder wordt verstaan in artikel 19.1a van de Wet milieubeheer;  
-
-h.hergebruik: het gebruik van informatie die openbaar is op grond van deze of een andere wet en die is neergelegd in documenten berustend bij een overheidsorgaan, voor andere doeleinden dan het oorspronkelijke doel binnen de publieke taak waarvoor de informatie is geproduceerd;
-
-i.overheidsorgaan:
-
-1°.een orgaan van een rechtspersoon die krachtens publiekrecht is ingesteld, of
-
-2°.een ander persoon of college, met enig openbaar gezag bekleed. 
+g. milieu-informatie: hetgeen daaronder wordt verstaan in artikel 19.1a van de Wet milieubeheer.   
 
 ###Artikel 1a 
 
@@ -188,58 +180,7 @@ b.de beveiliging van bedrijven en het voorkomen van sabotage.
 
 ####Hergebruik
 
-### Artikel 11a 
-
-1. Dit hoofdstuk is niet van toepassing op:
-
-a.informatie, zijnde een werk van letterkunde, wetenschap of kunst in de zin van de Auteurswet, een opname van uitvoering, fonogram, eerste vastlegging van een film of een opname van een programma in de zin van de Wet op de naburige rechten of een databank in de zin van de Databankenwet en waarvan een overheidsorgaan niet de maker, uitvoerend kunstenaar, producent van fonogrammen, producent van de eerste vastlegging van films, omroeporganisatie of producent van een databank dan wel rechtverkrijgende is;
-
-b.informatie in het bezit van openbare omroepen of hun dochterondernemingen, of van andere overheidsorganen of hun dochterondernemingen ten behoeve van de vervulling van een publieke omroeptaak;
-
-c.informatie in het bezit van onderwijs- en onderzoeksinstellingen;
-
-d.informatie in het bezit van culturele instellingen;
-
-e.informatie die tussen overheidsorganen uitsluitend met het oog op de vervulling van hun openbare taken wordt uitgewisseld. 
-2. In afwijking van artikel 1a, eerste lid, onder d, is dit hoofdstuk van toepassing op de krachtens die bepaling uitgezonderde bestuursorganen voor zover het gaat om hergebruik.
-
-###Artikel 11b 
-
-1. Een ieder kan een verzoek om hergebruik richten tot een overheidsorgaan of een onder verantwoordelijkheid van een overheidsorgaan werkzame instelling, dienst of bedrijf.
-2. De verzoeker vermeldt bij zijn verzoek de informatie die hij wenst te hergebruiken.
-3. De verzoeker behoeft bij zijn verzoek geen belang te stellen.
-4. Indien een verzoek te algemeen geformuleerd is, verzoekt het overheidsorgaan de verzoeker zo spoedig mogelijk om zijn verzoek te preciseren en is het hem daarbij behulpzaam.
-
-###Artikel 11c 
-
-De artikelen 4 tot en met 7 zijn van overeenkomstige toepassing.
-
-###Artikel 11d 
-
-Voor hergebruik beschikbare documenten worden zoveel mogelijk langs elektronische weg beschikbaar gesteld.
-
-###Artikel 11e 
-
-Een overheidsorgaan is niet verplicht vervaardiging van documenten voort te zetten, enkel met het oog op hergebruik.
-
-###Artikel 11f 
-
-De voorwaarden voor hergebruik zijn voor vergelijkbare categorieën van hergebruik gelijk.
-
-###Artikel 11g 
-
-1. Een exclusief recht tot hergebruik wordt niet verleend, tenzij dat noodzakelijk is voor het verlenen van een dienst van algemeen belang.
-2. Indien een exclusief recht wordt verleend voor een dienst van algemeen belang, wordt minstens elke drie jaar door het overheidsorgaan dat het exclusieve recht heeft verleend, bezien of de reden voor het verlenen van het exclusieve recht nog aanwezig is.
-3. Elk exclusief recht op hergebruik dat wordt verleend, wordt op de voorgeschreven wijze bekendgemaakt.
-
-###Artikel 11h 
-
-1. De totale inkomsten uit het verstrekken en het verlenen van toestemming voor hergebruik zijn niet hoger dan de kosten van verzameling, productie, vermenigvuldiging en verspreiding van de informatie, vermeerderd met een redelijk rendement op investeringen.
-2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels gesteld worden met betrekking tot de totale inkomsten van het eerste lid.
-
-###Artikel 11i 
-
-Ten aanzien van overheidsorganen die geen bestuursorgaan zijn, zijn titel 1.1, hoofdstuk 2, de afdelingen 3.1, 3.2, 3.6 en 3.7, titel 4.1, hoofdstuk 6, de afdelingen 7.1 en 7.2, hoofdstuk 8 en titel 10.1 van de Algemene wet bestuursrecht van overeenkomstige toepassing.
+Vervallen per 18-07-2015 
 
 ### Hoofdstuk  VI  
 
@@ -260,10 +201,6 @@ Nadere regels omtrent de uitvoering van het bij of krachtens deze wet bepaalde k
 a. voor de centrale overheid bij of krachtens een besluit van Onze Minister-President in overeenstemming met het gevoelen van de ministerraad;  
 
 b. voor de provincies, gemeenten, waterschappen en de andere in artikel 1a, onder c en d, bedoelde bestuursorganen door hun besturen.   
-
-### Artikel  16  
-
-Exclusieve rechten tot hergebruik, die vóór de inwerkingtreding van deze wet zijn verleend, worden na afloop van het desbetreffende contract niet opnieuw verleend, of vervallen, indien het contract een langere looptijd heeft dan tot en met 31 december 2008, met ingang van die datum van rechtswege.
 
 ### Artikel  17  
 

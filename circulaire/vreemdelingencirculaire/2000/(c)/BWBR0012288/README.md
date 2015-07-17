@@ -3489,12 +3489,12 @@ Geen bijzonderheden.
 
 ### 20.3.1  
 
-####Groepsvervolging in de zin van C2/3.2
+####Groepsvervolging in de zin van C2/3.2 
 
 Geen bijzonderheden.   
 ### 20.3.2  
 
-####Risicogroepen in de zin van C2/3.2
+####Risicogroepen in de zin van C2/3.2 
 
 De IND merkt voor Pakistan uitsluitend de volgende categorieën als risicogroepen aan: 
 
@@ -3507,12 +3507,12 @@ De IND merkt voor Pakistan uitsluitend de volgende categorieën als risicogroepe
 
 ### 20.4.1  
 
-####Uitzonderlijke situatie in de zin van C2/3.3
+####Uitzonderlijke situatie in de zin van C2/3.3 
 
 Geen bijzonderheden.   
 ### 20.4.2  
 
-####Systematische blootstelling in de zin van C2/3.3
+####Systematische blootstelling in de zin van C2/3.3 
 
 Geen bijzonderheden.   
 ### 20.4.3  
@@ -3526,7 +3526,7 @@ Geen bijzonderheden.
 
 ### 20.5.1  
 
-####Bescherming door autoriteiten en/of internationale organisaties in de zin van C2/6
+####Bescherming door autoriteiten en/of internationale organisaties in de zin van C2/6 
 
 De IND neemt in ieder geval aan dat het niet mogelijk is de bescherming van de autoriteiten te verkrijgen voor: 
 
@@ -3535,7 +3535,7 @@ De IND neemt in ieder geval aan dat het niet mogelijk is de bescherming van de a
 * christenen.     
 ### 20.5.2  
 
-####Vlucht- en vestigingsalternatief in de zin van C2/6
+####Vlucht- en vestigingsalternatief in de zin van C2/6 
 
 Geen bijzonderheden.    
 ### 20.6  
@@ -3577,12 +3577,12 @@ Geen bijzonderheden.
 
 ### 21.3.1  
 
-####Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+####Groepsvervolging in de zin van paragraaf C2/3.2  Vc
 
 Geen bijzonderheden.   
 ### 21.3.2  
 
-####Risicogroepen in de zin van paragraaf C2/3.2 Vc
+####Risicogroepen in de zin van paragraaf C2/3.2  Vc
 
 Geen bijzonderheden.    
 ### 21.4  
@@ -3591,17 +3591,17 @@ Geen bijzonderheden.
 
 ### 21.4.1  
 
-####Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+####Uitzonderlijke situatie in de zin van paragraaf C2/3.3  Vc
 
 Geen bijzonderheden.   
 ### 21.4.2  
 
-####Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+####Systematische blootstelling in de zin van paragraaf C2/3.3  Vc
 
 Geen bijzonderheden.   
 ### 21.4.3  
 
-####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3  Vc
 
 Geen bijzonderheden.    
 ### 21.5  
@@ -3610,12 +3610,12 @@ Geen bijzonderheden.
 
 ### 21.5.1  
 
-####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6  Vc
 
 De IND neemt in ieder geval aan dat het voor LHBT’s niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen.   
 ### 21.5.2  
 
-####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
+####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6  Vc
 
 Geen bijzonderheden.    
 ### 21.6  
@@ -3657,12 +3657,12 @@ Geen bijzonderheden.
 
 ### 22.3.1  
 
-####Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+####Groepsvervolging in de zin van paragraaf C2/3.2  Vc
 
 Geen bijzonderheden.   
 ### 22.3.2  
 
-####Risicogroepen in de zin van paragraaf C2/3.2 Vc
+####Risicogroepen in de zin van paragraaf C2/3.2  Vc
 
 Geen bijzonderheden.    
 ### 22.4  
@@ -3671,17 +3671,17 @@ Geen bijzonderheden.
 
 ### 22.4.1  
 
-####Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+####Uitzonderlijke situatie in de zin van paragraaf C2/3.3  Vc
 
 Geen bijzonderheden.   
 ### 22.4.2  
 
-####Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+####Systematische blootstelling in de zin van paragraaf C2/3.3  Vc
 
 Geen bijzonderheden.   
 ### 22.4.3  
 
-####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3  Vc
 
 Geen bijzonderheden.    
 ### 22.5  
@@ -3690,7 +3690,7 @@ Geen bijzonderheden.
 
 ### 22.5.1  
 
-####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6  Vc
 
 De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen: 
 
@@ -3699,7 +3699,7 @@ De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogel
 * vreemdelingen die aannemelijk hebben gemaakt dat zij hebben te vrezen voor vervolging door geheime genootschappen.     
 ### 22.5.2  
 
-####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
+####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6  Vc
 
 De IND neemt in ieder geval aan dat in Sierra Leone een vlucht- en vestigingsalternatief aanwezig is voor de volgende categorieën: 
 
@@ -3747,12 +3747,12 @@ Geen bijzonderheden.
 
 ### 23.3.1  
 
-####Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+####Groepsvervolging in de zin van paragraaf C2/3.2  Vc
 
 Geen bijzonderheden.   
 ### 23.3.2  
 
-####Risicogroepen in de zin van paragraaf C2/3.2 Vc
+####Risicogroepen in de zin van paragraaf C2/3.2  Vc
 
 De IND merkt voor Somalië uitsluitend aan als risicogroepen: 
 
@@ -3773,12 +3773,12 @@ f. journalisten.   Dit beleid geldt voor geheel Zuid- en Centraal Somalië, incl
 
 ### 23.4.1  
 
-####Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+####Uitzonderlijke situatie in de zin van paragraaf C2/3.3  Vc
 
 In Somalië (inclusief Mogadishu) is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM. De IND herbeoordeelt vooralsnog niet de verblijfsvergunningen asiel voor bepaalde tijd die aan Somaliërs verleend zijn op grond van de uitzonderlijke situatie zoals bedoeld in artikel 3 EVRM die heeft gegolden ten aanzien van personen afkomstig uit Mogadishu. De IND zal pas overgaan tot intrekking als is gebleken van een wijziging van omstandigheden die een voldoende ingrijpend en niet-voorbijgaand karakter heeft (zie artikel 3.37e VV). De IND wijst om diezelfde reden niet aanvragen tot verlenging van de verblijfsvergunning asiel voor bepaalde tijd of een verblijfsvergunning asiel voor onbepaalde tijd af van vreemdelingen die op grond van de uitzonderlijke situatie zoals bedoeld in artikel 3 EVRM in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd.   
 ### 23.4.2  
 
-####Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+####Systematische blootstelling in de zin van paragraaf C2/3.3  Vc
 
 In Somalië is geen sprake van systematische blootstelling van een specifieke groep aan een behandeling in strijd met artikel 3 EVRM. De IND herbeoordeelt vooralsnog niet de verblijfsvergunning asiel voor bepaalde tijd die aan Somaliërs verleend zijn op grond van het behoren tot de Benadiri/Reer Hamar. De IND zal pas overgaan tot intrekking, als is gebleken van een wijziging van omstandigheden die een voldoende ingrijpend en niet-voorbijgaand karakter heeft (zie artikel 3.37e VV). De IND wijst om diezelfde reden niet aanvragen tot verlenging van de verblijfsvergunning asiel voor bepaalde tijd of een verblijfsvergunning asiel voor onbepaalde tijd af van vreemdelingen die op grond van het behoren tot de Benadiri/Reer Hamar in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd.   
 ### 23.4.3  
@@ -3792,7 +3792,7 @@ De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van ar
 * zij ongehuwd is en de gezinsband waartoe zij ten tijde van haar vertrek uit Somalië behoorde is verbroken.     
 ### 23.4.4  
 
-####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3  Vc
 
 Geen bijzonderheden.   
 ### 23.4.5  
@@ -3827,7 +3827,7 @@ De IND betrekt bij de beoordeling van de vraag of de vreemdeling zich kan handha
 
 ### 23.5.1  
 
-####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6  Vc
 
 De IND neemt in ieder geval aan dat het voor de volgende categorieën in Somalië (inclusief Noord-Somalië) niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen: 
 
@@ -3838,7 +3838,7 @@ De IND neemt in ieder geval aan dat het voor de volgende categorieën in Somali�
 * vrouwen die aannemelijk hebben gemaakt dat zij hebben te vrezen voor genitale verminking.     
 ### 23.5.2  
 
-####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
+####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6  Vc
 
 De IND neemt in zijn algemeenheid geen binnenlands vlucht- en of/vestigingsalternatief aan, tenzij de vreemdeling onder naar plaatselijke maatstaven gemeten redelijke omstandigheden minstens zes maanden voorafgaand aan zijn vertrek heeft verbleven in: 
 
@@ -3896,12 +3896,12 @@ Geen bijzonderheden.
 
 ### 24.3.1  
 
-####Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+####Groepsvervolging in de zin van paragraaf C2/3.2  Vc
 
 Geen bijzonderheden.   
 ### 24.3.2  
 
-####Risicogroepen in de zin van paragraaf C2/3.2 Vc
+####Risicogroepen in de zin van paragraaf C2/3.2  Vc
 
 Geen bijzonderheden.    
 ### 24.4  
@@ -3910,17 +3910,17 @@ Geen bijzonderheden.
 
 ### 24.4.1  
 
-####Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+####Uitzonderlijke situatie in de zin van paragraaf C2/3.3  Vc
 
 Geen bijzonderheden.   
 ### 24.4.2  
 
-####Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+####Systematische blootstelling in de zin van paragraaf C2/3.3  Vc
 
 Geen bijzonderheden.   
 ### 24.4.3  
 
-####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3  Vc
 
 Geen bijzonderheden.   
 ### 24.4.4  
@@ -3956,7 +3956,7 @@ De IND beoordeelt een verzoek om een verblijfsvergunning asiel voor bepaalde tij
 
 ### 24.5.1  
 
-####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6  Vc
 
 De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen: 
 
@@ -3965,7 +3965,7 @@ De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogel
 * vrouwen die aannemelijk hebben gemaakt dat zij hebben te vrezen voor (seksuele) geweldpleging.     
 ### 24.5.2  
 
-####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
+####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6  Vc
 
 Geen bijzonderheden.    
 ### 24.6  
@@ -4007,12 +4007,12 @@ Geen bijzonderheden.
 
 ### 25.3.1  
 
-####Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+####Groepsvervolging in de zin van paragraaf C2/3.2  Vc
 
 Geen bijzonderheden.   
 ### 25.3.2  
 
-####Risicogroepen in de zin van paragraaf C2/3.2 Vc
+####Risicogroepen in de zin van paragraaf C2/3.2  Vc
 
 De IND merkt voor Sudan uitsluitend aan als risicogroepen: 
 
@@ -4027,7 +4027,7 @@ De IND merkt voor Sudan uitsluitend aan als risicogroepen:
 
 ### 25.4.1  
 
-####Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+####Uitzonderlijke situatie in de zin van paragraaf C2/3.3  Vc
 
 In Sudan is sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM voor uitsluitend: 
 
@@ -4042,12 +4042,12 @@ In Sudan is sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM
 * (vermeend) aanhanger zijn van SPLM/Noord in Zuid-Kordofan (inclusief Abyei) en Blue Nile.   Uitzondering hierop is de situatie dat de vreemdelingen minstens zes maanden zonder problemen hebben verbleven in de gebieden waar geen sprake is van een uitzonderlijke situatie.   
 ### 25.4.2  
 
-####Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+####Systematische blootstelling in de zin van paragraaf C2/3.3  Vc
 
 Geen bijzonderheden.   
 ### 25.4.3  
 
-####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3  Vc
 
 De IND merkt uitsluitend aan als kwetsbare minderheidsgroepen: 
 
@@ -4060,7 +4060,7 @@ De IND merkt uitsluitend aan als kwetsbare minderheidsgroepen:
 
 ### 25.5.1  
 
-####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6  Vc
 
 De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming van de autoriteiten en/of internationale organisaties te verkrijgen: 
 
@@ -4075,7 +4075,7 @@ De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogel
 * vreemdelingen, die (vermeend) aanhanger zijn van SPLM/Noord in Sudan.     
 ### 25.5.2  
 
-####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
+####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6  Vc
 
 De IND neemt geen binnenlands vlucht- of vestigingsalternatief aan, behoudens de situatie als vermeld in paragraaf C7/25.4.1 Vc.    
 ### 25.6  
@@ -4117,12 +4117,12 @@ Geen bijzonderheden.
 
 ### 26.3.1  
 
-####Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+####Groepsvervolging in de zin van paragraaf C2/3.2  Vc
 
 Geen bijzonderheden.   
 ### 26.3.2  
 
-####Risicogroepen in de zin van paragraaf C2/3.2 Vc
+####Risicogroepen in de zin van paragraaf C2/3.2 Vc 
 
 Geen bijzonderheden.    
 ### 26.4  
@@ -4131,17 +4131,17 @@ Geen bijzonderheden.
 
 ### 26.4.1  
 
-####Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+####Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc 
 
 Geen bijzonderheden.   
 ### 26.4.2  
 
-####Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+####Systematische blootstelling in de zin van paragraaf C2/3.3 Vc 
 
 Geen bijzonderheden.   
 ### 26.4.3  
 
-####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc 
 
 Geen bijzonderheden.   
 ### 26.4.4  
@@ -4155,19 +4155,19 @@ De IND neemt aan dat vreemdelingen uit Syrië die vanuit het buitenland terugker
 
 ### 26.5.1  
 
-####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc 
 
 Geen bijzonderheden.   
 ### 26.5.2  
 
-####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
+####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc 
 
 Geen bijzonderheden.    
 ### 26.6  
 
 ####Adequate opvang alleenstaande minderjarige vreemdelingen
 
-*De IND beoordeelt aan de hand van paragraaf B8/6 Vc of adequate opvang voor* *amv’s aanwezig is.*  Voor Syrië geldt in ieder geval dat: 
+*De IND beoordeelt aan de hand van* paragraaf B8/6 Vc* of adequate opvang voor amv’s aanwezig is.*  Voor Syrië geldt in ieder geval dat: 
 
 * algemene opvangvoorzieningen niet beschikbaar en/of toereikend zijn; en  
 
@@ -4202,12 +4202,12 @@ Geen bijzonderheden.
 
 ### 27.3.1  
 
-####Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+####Groepsvervolging in de zin van paragraaf C2/3.2 Vc 
 
 Geen bijzonderheden.   
 ### 27.3.2  
 
-####Risicogroepen in de zin van paragraaf C2/3.2 Vc
+####Risicogroepen in de zin van paragraaf C2/3.2 Vc 
 
 Geen bijzonderheden.   
 ### 27.3.3  
@@ -4225,17 +4225,17 @@ Het algemene beleid in de zin van paragraaf C2/4.1 Vc is van toepassing. De IND 
 
 ### 27.4.1  
 
-####Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+####Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc 
 
 Geen bijzonderheden.   
 ### 27.4.2  
 
-####Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+####Systematische blootstelling in de zin van paragraaf C2/3.3 Vc 
 
 Geen bijzonderheden.   
 ### 27.4.3  
 
-####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc 
 
 Geen bijzonderheden.    
 ### 27.5  
@@ -4244,12 +4244,12 @@ Geen bijzonderheden.
 
 ### 27.5.1  
 
-####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc 
 
 Geen bijzonderheden.   
 ### 27.5.2  
 
-####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
+####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc 
 
 Geen bijzonderheden.    
 ### 27.6  
@@ -4287,12 +4287,12 @@ Geen bijzonderheden.
 
 ### 28.3.1  
 
-####Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+####Groepsvervolging in de zin van paragraaf C2/3.2  Vc
 
 Geen bijzonderheden.   
 ### 28.3.2  
 
-####Risicogroepen in de zin van paragraaf C2/3.2 Vc
+####Risicogroepen in de zin van paragraaf C2/3.2  Vc
 
 Geen bijzonderheden.   
 ### 28.3.3  
@@ -4306,17 +4306,17 @@ De IND beoordeelt de aanvraag voor een verblijfsvergunning asiel voor bepaalde t
 
 ### 28.4.1  
 
-####Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+####Uitzonderlijke situatie in de zin van paragraaf C2/3.3  Vc
 
 Geen bijzonderheden.   
 ### 28.4.2  
 
-####Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+####Systematische blootstelling in de zin van paragraaf C2/3.3  Vc
 
 Geen bijzonderheden.   
 ### 28.4.3  
 
-####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3  Vc
 
 Geen bijzonderheden.    
 ### 28.5  
@@ -4325,12 +4325,12 @@ Geen bijzonderheden.
 
 ### 28.5.1  
 
-####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6  Vc
 
 De IND neemt aan dat het in ieder geval voor LHBT’s niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen.   
 ### 28.5.2  
 
-####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
+####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6  Vc
 
 De IND neemt ten aanzien van de Ugandese LHBT geen binnenlands vlucht- of vestigingsalternatief aan in Uganda.    
 ### 28.6  

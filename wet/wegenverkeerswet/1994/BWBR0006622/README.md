@@ -244,7 +244,8 @@ r. het voldoen aan de verplichting tot het opstellen van een gids betreffende he
 a. de bij of krachtens andere wetten opgedragen taken, en  
 
 b. andere door Onze Minister opgedragen taken.      
-3.  Met inachtneming van artikel 4q worden de op grond van het tweede lid aan de Dienst Wegverkeer opgedragen taken, verstrekkingen of dienstverleningen die voortvloeien uit de uitvoering van deze taken, verricht tegen betaling op een door deze dienst vastgestelde wijze van door deze dienst vastgestelde tarieven. 
+3.  Met inachtneming van artikel 4q worden de op grond van het tweede lid aan de Dienst Wegverkeer opgedragen taken, verstrekkingen of dienstverleningen die voortvloeien uit de uitvoering van deze taken, verricht tegen betaling op een door deze dienst vastgestelde wijze van door deze dienst vastgestelde tarieven.  
+4.  Artikel 9, derde lid, van de Wet hergebruik van overheidsinformatie is van toepassing op de tarieven, bedoeld in het eerste lid, onderdeel n. 
 
 ### Artikel  4c  
 
@@ -842,7 +843,7 @@ e. de consequenties van het ontwerp voor de bewegwijzering op andere wegen.
 a. die nodig zijn om het ontwerp, bedoeld in artikel 16a, eerste lid, tot stand te kunnen brengen, en  
 
 b. inzake de uitvoering van die ontwerpen, zoals gerealiseerd.     
-3.  Onze Minister verstrekt gegevens uit het register aan de in het tweede lid bedoelde openbare lichamen of eigenaren voor de uitvoering van hun publieke taken. Openbare gegevens uit het register waarop geen intellectuele eigendomsrechten van derden rusten, worden tevens beschikbaar gesteld voor hergebruik als bedoeld in de Wet openbaarheid van bestuur, zonder dat een daartoe strekkend verzoek als bedoeld in die wet hoeft te worden ingediend.   
+3.  Onze Minister verstrekt gegevens uit het register aan de in het tweede lid bedoelde openbare lichamen of eigenaren voor de uitvoering van hun publieke taken. Openbare gegevens uit het register waarop geen intellectuele eigendomsrechten van derden rusten, worden tevens beschikbaar gesteld voor hergebruik als bedoeld in de Wet hergebruik van overheidsinformatie, zonder dat een daartoe strekkend verzoek als bedoeld in die wet hoeft te worden ingediend.   
 4.  Bij ministeriële regeling kunnen ter uitvoering van het eerste tot en met het derde lid nadere regels worden gesteld.  
 
 ###Artikel 17 

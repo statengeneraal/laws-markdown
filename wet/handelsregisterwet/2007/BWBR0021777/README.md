@@ -560,9 +560,10 @@ De Kamer draagt zorg voor een procedure voor de behandeling van klachten over de
 ### Artikel  50  
 
 1.  Voor de inzage of de verstrekking van gegevens is een bij of krachtens algemene maatregel van bestuur te bepalen vergoeding verschuldigd, welke kan variëren naar de wijze van inzage of verstrekking van gegevens en de hoeveelheid gegevens.   
-2.  De verplichting tot betaling van een vergoeding als bedoeld in het eerste lid geldt niet indien het verzoek om gegevens wordt gedaan door de directeur-generaal van de statistiek op grond van artikel 33, vierde lid, van de Wet op het Centraal bureau voor de statistiek.   
-3.  De in het eerste lid bedoelde vergoeding is verschuldigd zonder dat dit bij beschikking is vastgesteld.   
-4.  Bij algemene maatregel van bestuur wordt de betalingstermijn vastgesteld. 
+2.  Artikel 9, derde lid, van de Wet hergebruik van overheidsinformatie is van toepassing op de vergoeding, bedoeld in het eerste lid.  
+3.  De verplichting tot betaling van een vergoeding als bedoeld in het eerste lid geldt niet indien het verzoek om gegevens wordt gedaan door de directeur-generaal van de statistiek op grond van artikel 33, vierde lid, van de Wet op het Centraal bureau voor de statistiek.   
+4.  De in het eerste lid bedoelde vergoeding is verschuldigd zonder dat dit bij beschikking is vastgesteld.   
+5.  Bij algemene maatregel van bestuur wordt de betalingstermijn vastgesteld. 
 
 ### Artikel  50a  
 

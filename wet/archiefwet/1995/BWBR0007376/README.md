@@ -60,8 +60,6 @@ d. het beheer van archiefbescheiden die in een archiefbewaarplaats berusten, met
 
 ####Hergebruik
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Onder gebruik in de zin van de artikelen 14 en 17 van deze wet wordt ook het hergebruik verstaan in de zin van Richtlijn 2003/98/EG van het Europees parlement en de Raad van 17 november 2003 inzake het hergebruik van overheidsinformatie (PbEG 2003 L 345).   
 2.  De Wet hergebruik van overheidsinformatie is niet van toepassing op het ter beschikking stellen van naar een archiefbewaarplaats overgebrachte archiefbescheiden voor gebruik, tenzij bij deze wet anders is bepaald.  
 
@@ -169,7 +167,7 @@ c. het anderszins voorkomen van onevenredige bevoordeling of benadeling van betr
 
 ### Artikel  17  
 
-1.  De beheerder van een archiefbewaarplaats stelt de daar berustende archiefbescheiden aan de verzoeker ter raadpleging of gebruik beschikbaar met inachtneming van de aan de openbaarheid gestelde beperkingen.    
+1.  De beheerder van een archiefbewaarplaats stelt de daar berustende archiefbescheiden aan de verzoeker ter raadpleging of gebruik beschikbaar met inachtneming van de aan de openbaarheid gestelde beperkingen en overeenkomstig de artikelen 5 en 6 van de Wet hergebruik van overheidsinformatie.    
 2.   De beheerder is bevoegd een verzoek tot raadpleging of gebruik van archiefbescheiden af te wijzen, indien naar zijn oordeel de toestand van de archiefbescheiden zich daartegen verzet of deze aan de verzoeker niet veilig kunnen worden toevertrouwd.    
 3.   Een gehele of gedeeltelijke afwijzing van een schriftelijk verzoek tot raadpleging of gebruik vindt schriftelijk plaats. In geval van een mondeling verzoek vindt een afwijzing schriftelijk plaats, indien de verzoeker daarom vraagt. De verzoeker wordt op deze mogelijkheid gewezen.    
 4.   Indien de aard of de mate van raadpleging of gebruik van archiefbescheiden een ernstige bedreiging vormt voor hun toestand, is de beheerder bevoegd te bepalen dat in de plaats van die archiefbescheiden reprodukties, niet zijnde archiefbescheiden als bedoeld in artikel 1, onder *c* 4°, ter beschikking worden gesteld.   
@@ -185,7 +183,7 @@ c. het anderszins voorkomen van onevenredige bevoordeling of benadeling van betr
 
 ### Artikel  19  
 
-De zorgdrager stelt, indien de kosten, bedoeld in de artikelen 14 en 18, zesde lid, in rekening worden gebracht, regels omtrent die kosten.  
+De zorgdrager stelt, indien de kosten, bedoeld in artikel 14 en in artikel 18, zesde lid, in rekening worden gebracht, regels omtrent die kosten. Voor de kosten die in rekening worden gebracht is artikel 9, eerste en vierde lid, van de Wet hergebruik van overheidsinformatie van overeenkomstige toepassing. 
 
 ### Artikel  20  
 

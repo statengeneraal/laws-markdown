@@ -463,11 +463,17 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 *emissiegrenswaarde:* emissiegrenswaarde als bedoeld in artikel 2, onderdeel 40, van de kaderrichtlijn water;
 
+*exploitant:* natuurlijke of rechtspersoon die een windpark opricht of exploiteert; 
+
+*exportkabel:* kabel die het transformatorstation van een windpark verbindt met een net als bedoeld in artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998; 
+
 *huishoudelijk afvalwater: *afvalwater dat overwegend afkomstig is van menselijke stofwisseling en huishoudelijke werkzaamheden;
 
 *inwoner-equivalent (i.e.):* biochemisch zuurstofverbruik van 54 gram per etmaal;
 
 *totaal-stikstof:* om van totaal Kjeldahl-stikstof (organisch N + NH<sub>3</sub>), nitraat (NO<sub>3</sub>)-stikstof en nitriet (NO<sub>2</sub>)-stikstof;
+
+*windpark:* samenstel van voorzieningen waarmee elektriciteit met behulp van wind wordt geproduceerd, waarbij onder een samenstel van voorzieningen wordt verstaan alle aanwezige middelen die onderling met elkaar zijn verbonden voor de productie van elektriciteit met behulp van wind; 
 
 *zuiveringsrendement:* percentage van het totaal-fosfaat onderscheidenlijk totaal-stikstof dat uit het stedelijk afvalwater wordt verwijderd dat op de onder de zorg van eenzelfde bestuursorgaan staande gezamenlijke zuiveringtechnische werken wordt aangevoerd. 
 
@@ -688,6 +694,125 @@ b. het melden en registreren van gegevens ten aanzien van het gebruik en de opga
 
 1.  Deze paragraaf is niet van toepassing op de in bijlage IV bij dit besluit aangewezen gebieden binnen de begrenzing van de rivieren.   
 2.  Bij ministeriële regeling kunnen voor andere waterstaatswerken dan de rivieren gebieden worden aangewezen waarop, vanwege het ondergeschikte waterstaatkundige belang van die gebieden, deze paragraaf niet van toepassing is.  
+
+### §  6a  
+
+####Windparken op zee
+
+### Artikel  6.16a  
+
+Deze paragraaf is van toepassing in de territoriale zee en de Nederlandse exclusieve economische zone. 
+
+### Artikel  6.16b  
+
+1.  Indien bij of krachtens deze paragraaf is bepaald dat een maatregel ter bescherming van de Noordzee moet worden getroffen, kan een andere maatregel worden getroffen, indien Onze Minister heeft beslist dat met die maatregel ten minste een gelijkwaardig niveau van bescherming van de Noordzee wordt bereikt.   
+2.  Diegene die het voornemen heeft om een andere maatregel te treffen dient daartoe bij Onze Minister een aanvraag in, welke gegevens bevat waaruit blijkt dat met die andere maatregel ten minste een gelijkwaardig niveau van bescherming van de Noordzee wordt bereikt.   
+3.  Onze Minister beslist binnen acht weken over de gelijkwaardigheid van een andere maatregel. Onze Minister kan deze termijn eenmaal met ten hoogste zes weken verlengen.  
+
+### Artikel  6.16c  
+
+Artikel 1.3 van het Activiteitenbesluit milieubeheer is van overeenkomstige toepassing op bij of krachtens deze paragraaf gestelde regels. 
+
+### Artikel  6.16d  
+
+1.  De exploitant meldt het voornemen tot het oprichten of veranderen van een windpark ten minste acht weken voor de aanvang van de bouwperiode aan Onze Minister en verstrekt daarbij de volgende gegevens: 
+
+a. de locatie en het ontwerp van de turbines en andere installaties die deel uitmaken van het windpark;  
+
+b. het tracé van de exportkabel en de van het windpark deeluitmakende kabels;  
+
+c. een verklaring van een onafhankelijke deskundige dat het ontwerp van de windturbines en andere installaties die deel uitmaken van het windpark voldoet aan de in artikel 6.16g, eerste lid, gestelde eisen;  
+
+d. een beschrijving van de aan te brengen veiligheidsvoorzieningen en de plaatsing daarvan aan de windturbines en andere installaties in overeenstemming met artikel 6.16h;  
+
+e. een plan als bedoeld in artikel 6.16e, derde lid, met betrekking tot de aanleg van het windpark;  
+
+f. een plan als bedoeld in artikel 6.16k, tweede lid.     
+2.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de wijze waarop de in het eerste lid bedoelde gegevens worden gemeld.   
+3.  Wijzigingen met betrekking tot werkzaamheden waarop het plan, bedoeld in het eerste lid, onder e, betrekking heeft, worden ten minste vier weken voor de verrichting van de desbetreffende werkzaamheden gemeld aan Onze Minister.   
+4.  De exploitant verstrekt aan Onze Minister binnen drie maanden na het aanbrengen van de funderingen de gegevens van de feitelijke positie van de funderingen en de overige van het windpark deel uitmakende voorzieningen.   
+5.  De exploitant verstrekt aan Onze Minister binnen drie maanden na de aanleg van een exportkabel de gegevens van de feitelijke ligging van de kabel.   
+6.  De in dit artikel bedoelde gegevens behoeven niet te worden verstrekt voor zover de exploitant die gegevens reeds aan Onze Minister heeft verstrekt.  
+
+### Artikel  6.16e  
+
+1.  Bij het verrichten van werkzaamheden in het kader van de aanleg, het onderhoud of het verwijderen van een windpark of van een exportkabel worden maatregelen genomen ter voorkoming van het optreden van nadelige gevolgen voor het veilig en doelmatig gebruik van de zee.   
+2.  Het verrichten van werkzaamheden als bedoeld in het eerste lid gebeurt zodanig dat in de zeebodem aanwezige leidingen en kabels niet worden beschadigd.   
+3.  De werkzaamheden worden uitgevoerd volgens een door de exploitant opgesteld plan, dat tenminste de volgende gegevens bevat: 
+
+a. een omschrijving van de werkzaamheden;  
+
+b. een tijdschema voor het uitvoeren van de werkzaamheden;  
+
+c. een opgave van de bij de werkzaamheden in te zetten vaartuigen; en  
+
+d. een beschrijving van de maatregelen om het scheepvaartverkeer te waarschuwen.     
+4.  Indien bij het verrichten van de in het eerste lid bedoelde werkzaamheden ernstige nadelige gevolgen voor het veilig of doelmatig gebruik van de zee dreigen op te treden of zijn opgetreden, wordt hiervan onmiddellijk mededeling gedaan aan Onze Minister en het Kustwachtcentrum.  
+
+### Artikel  6.16f  
+
+1.  Indien bij de oprichting van een windpark of bij andere werkzaamheden met betrekking tot windturbines in de Nederlandse exclusieve economische zone een monument dan wel een vermoedelijk monument in de zin van de Monumentenwet 1988 wordt gevonden, zijn de artikelen 53, 56, 58, eerste lid, en 59 van die wet van overeenkomstige toepassing.   
+2.  De exploitant stelt de gegevens voortvloeiend uit onderzoek naar de aanleg van een windpark ter beschikking aan Onze Minister van Onderwijs, Cultuur en Wetenschap, voor zover die gegevens informatie kunnen verschaffen over de aanwezigheid van archeologische monumenten dan wel vermoedelijke archeologische monumenten in of op de bodem van de territoriale zee of de Nederlandse exclusieve economische zone.  
+
+### Artikel  6.16g  
+
+1.  Een windturbine alsmede een andere installatie die deel uitmaakt van een windpark is voldoende sterk om de als gevolg van windsterkte, golfslag, zeestroming en gebruik van de turbine te verwachten krachten te weerstaan.   
+2.  De exploitant verstrekt ten minste vier weken voor de ingebruikname van het windpark aan Onze Minister een verklaring dat de constructie en de bouw van de windturbines en andere installaties die deel uitmaken van het windpark voldoen aan het eerste lid.   
+3.  Een verklaring als bedoeld in het tweede lid wordt opgesteld door een onafhankelijke deskundige die toetst aan een in de praktijk beproefd stelsel van normen die betrekking hebben op het ontwerp van installaties in een windpark.   
+4.  Bij ministeriële regeling kunnen regels worden gesteld over de inhoud van een verklaring als bedoeld in het tweede lid.  
+
+### Artikel  6.16h   
+
+1.  Een windpark is ter waarborging van de veiligheid van het lucht- en scheepvaartverkeer voorzien van herkenningstekens en bakens.   
+2.  De in het eerste lid bedoelde herkenningstekens en bakens voldoen aan IALA-aanbeveling O-139 (markering van kunstmatige offshore constructies) en aan de door de Britse luchtvaartautoriteit uitgegeven richtlijn CAP 764 (beleid en richtlijnen voor windturbines).   
+3.  De ononderbroken werking van de in het eerste lid bedoelde bakens is gewaarborgd.   
+4.  Het windpark is voorzien van controle-, waarschuwings- en besturingssytemen, inclusief de noodvoorziening voor het zowel ter plaatse als vanaf de wal kunnen bedienen en bewaken van het windpark.   
+5.  De elektrische installaties en de kabels van het windpark voldoen aan NEN 1010, NEN-EN-IEC 61936-1 en NEN-EN 50522.   
+6.  Bij ministeriële regeling worden regels gesteld omtrent de bij de toepassing van dit artikel in acht te nemen tekst van de in dit artikel genoemde niet-publiekrechtelijke regelingen.  
+
+### Artikel  6.16i  
+
+1.  De exploitant zorgt voor een goede staat van onderhoud van het windpark en onderzoekt daartoe periodiek de windturbines en overige voorzieningen, alsmede de veiligheidsvoorzieningen.   
+2.  Onderhoud en onderzoek worden uitgevoerd volgens NEN 3840 en NEN 3140.   
+3.  Indien wordt geconstateerd of het redelijk vermoeden bestaat dat een onderdeel of onderdelen van het windpark een gebrek bezitten, waardoor de veiligheid voor de omgeving in het geding is, neemt de exploitant passende maatregelen en, indien sprake is van direct gevaar voor de veiligheid van personen, wordt het windpark of het betreffende deel van het windpark onmiddellijk buiten werking gesteld.   
+4.  De exploitant meldt een gebrek als bedoeld in het derde lid onmiddellijk aan Onze Minister.   
+5.  Artikel 6.16h, zesde lid, is van overeenkomstige toepassing.  
+
+### Artikel  6.16j  
+
+1.  Een exportkabel ligt: 
+
+a. op een diepte van ten minste drie meter in de zeebodem voor dat deel van de kabel dat zich binnen een afstand van drie kilometer vanaf de laagwaterlijn, bedoeld in artikel 1 van de Wet grenzen Nederlandse territoriale zee, of de basislijn, bedoeld in artikel 2 van die wet, bevindt;  
+
+b. op een diepte van ten minste één meter in de zeebodem voor dat deel van de kabel dat zich op drie kilometer of meer van de in onderdeel a bedoelde lijn bevindt;  
+
+c. bij kruising van een vaargeul ten minste één meter beneden de door de beheerder van de vaargeul vastgestelde onderhoudsdiepte.     
+2.  De exploitant onderzoekt periodiek de ligging van een exportkabel.  
+
+### Artikel  6.16k  
+
+1.  Indien zich een ongewoon voorval voordoet in of in de nabijheid van een windpark, welke een gevaar oplevert voor het milieu of voor de veiligheid op zee, treft de exploitant passende maatregelen ter bescherming van het milieu of de veiligheid.   
+2.  De exploitant beschikt over een actueel plan dat een beschrijving bevat van de in het eerste lid bedoelde maatregelen.   
+3.  Een plan als bedoeld in het tweede lid, bevat in ieder geval: 
+
+a. een vermelding van de in te zetten materialen;  
+
+b. de aanwijzing van de natuurlijke persoon of rechtspersoon die is belast met het verrichten van de in onderdeel a bedoelde werkzaamheden; en  
+
+c. de aanwijzing van de natuurlijke persoon of rechtspersoon die is belast is met het toezicht op het verrichten van de in onderdeel a bedoelde werkzaamheden.     
+4.  De exploitant meldt een ongewoon voorval als bedoeld in het eerste lid onmiddellijk aan Onze Minister en het Kustwachtcentrum.   
+5.  Onze Minister kan in geval van gevaar voor de veiligheid van personen een bevel geven tot het stil leggen van het windpark.   
+6.  De exploitant verstrekt een plan binnen vier weken na actualisatie daarvan aan Onze Minister.  
+
+### Artikel  6.16l  
+
+1.  Een niet meer in gebruik zijnd windpark of een niet meer in gebruik zijnde exportkabel wordt verwijderd.   
+2.  Het eerste lid is van overeenkomstige toepassing op schroot en ander materiaal, dat ter plaatse of in de naaste omgeving is terechtgekomen bij het plaatsen, het onderhoud, het gebruik of het verwijderen van het windpark.   
+3.  Het eerste lid is niet van toepassing, indien op grond van artikel 6.3, eerste lid, aanhef en onderdeel b, een vergunning is verleend.   
+4.  Onze Minister kan in een voorschrift bepalen dat, in afwijking van het eerste lid, een exportkabel geheel of gedeeltelijk niet wordt verwijderd, indien verwijdering zou leiden tot schade aan het milieu of aan ander rechtmatig gebruik van de zeebodem.   
+5.  Onze Minister kan een termijn vaststellen, waarbinnen aan de verplichting tot verwijdering moet zijn voldaan.   
+6.  De exploitant verstrekt een plan als bedoeld in artikel 6.16e, derde lid, dat betrekking heeft op de verwijdering van een windpark of een exportkabel ten minste vier weken voor de aanvang van de werkzaamheden.   
+7.  Nadat een windpark, kabels en schroot en ander materiaal zijn verwijderd, doet de exploitant daarvan onmiddellijk mededeling aan Onze Minister en overlegt daarbij gegevens waaruit dit blijkt.  
 
 ### §  7  
 

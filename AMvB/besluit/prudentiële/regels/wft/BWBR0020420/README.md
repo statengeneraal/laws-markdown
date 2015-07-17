@@ -297,9 +297,9 @@ De Nederlandsche Bank kan ter uitvoering van internationaal aanvaarde standaarde
 
 ### Artikel  17d  
 
-Een bank is, mede voor de toepassing van artikel 3:8, derde lid, van de wet, significant, indien: 
+Een bank is, mede voor de toepassing van artikel 3:8, vierde lid, van de wet, significant, indien: 
 
-a. zij een instelling van groot belang is waarop ingevolge artikel 6 van verordening (EU) nr. 1024/2013 van de Raad van 15 oktober 2013 waarbij aan de Europese Centrale Bank specifieke taken worden opgedragen betreffende het beleid inzake het prudentieel toezicht op kredietinstellingen (PbEU 2013, L 287) de Europese Centrale Bank rechtstreeks toezicht houdt; of  
+a. zij op individuele basis een instelling van groot belang is op grond van de voorwaarden ingevolge artikel 6 van de verordening bankentoezicht; of  
 
 b. zij door de Nederlandsche Bank, gelet op haar omvang, interne organisatie en de aard, reikwijdte en complexiteit van haar activiteiten als significant wordt aangemerkt.   
 
@@ -1590,7 +1590,7 @@ b. als anderzins systeemrelevant worden aangemerkt, aan de hand van de volgende 
 
 1.  De systeemrelevantiebuffer is van toepassing op banken en beleggingsondernemingen die ingevolge artikel 105c als systeemrelevant zijn aangemerkt. Indien de Nederlandsche Bank een Nederlandse financiële EU-moederholding of Nederlandse gemengde financiële EU-moederholding als systeemrelevant heeft aangemerkt, is de systeemrelevantiebuffer van toepassing op de banken en beleggingsondernemingen die dochteronderneming van die holding zijn, op basis van de geconsolideerde financiële positie van de holding.   
 2.  De Nederlandsche Bank stelt de vereiste omvang van de systeemrelevantiebuffer vast. Deze buffer bedraagt een, anderhalf of twee procent, al naar gelang de mate waarin, gelet op de criteria, bedoeld in artikel 105c, eerste lid, naar het oordeel van de Nederlandsche Bank het risico bestaat dat de situatie waarin de als systeemrelevant aangemerkte onderneming op enig moment zou kunnen komen te verkeren, de stabiliteit van het financiële stelsel in gevaar kan brengen. Indien de onderneming als mondiaal systeemrelevant is aangemerkt, kan de vereiste omvang van de buffer overeenkomstig artikel 131, negende tot en met elfde lid, van de richtlijn kapitaalvereisten en met inachtneming van artikel 131, veertiende tot en met zeventiende lid, van de richtlijn tevens worden vastgesteld op tweeënhalf of drieënhalf procent.   
-3.  De Nederlandsche Bank stelt ten minste dertig dagen voordat zij een besluit tot vaststelling van een systeemrelevantiebuffervereiste als bedoeld in het tweede lid neemt, Onze Minister op de hoogte van haar voornemen. Hetzelfde geldt ten aanzien van het voornemen tot wijziging of intrekking van een zodanig besluit.  
+3.  De Nederlandsche Bank stelt ten minste dertig dagen voordat zij een besluit tot vaststelling van een systeemrelevantiebuffervereiste als bedoeld in het tweede lid neemt, Onze Minister op de hoogte van haar voornemen. Hetzelfde geldt ten aanzien van het voornemen tot wijziging of intrekking van een zodanig besluit. De verplichting tot kennisgeving aan Onze Minister is niet van toepassing indien de Europese Centrale Bank de bevoegdheid, bedoeld in het tweede lid, uitoefent.  
 
 ### Artikel  105e  
 

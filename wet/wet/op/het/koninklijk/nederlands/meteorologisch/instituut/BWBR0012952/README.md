@@ -121,15 +121,15 @@ k. berichten bij calamiteiten waarbij het weer een belangrijke rol speelt
 
 ### Artikel  6  
 
-1.  Desgevraagd worden KNMI-gegevens beschikbaar gesteld. De beschikbaarstelling geschiedt voorzover het betreft een afnemer niet behorend tot de Staat, in de vorm van een overeenkomst waarin afspraken worden gemaakt over beschikbaarstelling en gebruik van die gegevens.   
-2.  Bij regeling van Onze Minister: 
+1.  KNMI-gegevens die door het KNMI zijn verkregen uit eigen waarneming, worden op verzoek beschikbaar gesteld.   
+2.  Het KNMI kan aanvullende dienstverlening overeenkomen.   
+3.  Bij regeling van Onze Minister kunnen voor de beschikbaarstelling en het gebruik van KNMI-gegevens regels worden vastgesteld, met betrekking tot: 
 
-a. worden de gevallen waarin een prijs verschuldigd is voor de beschikbaarstelling en het gebruik van KNMI-gegevens vastgesteld;  
+a. de mogelijkheid van het afgeven van licenties;  
 
-b. worden de grondslagen voor de berekening van de prijs vastgesteld waarbij ten aanzien van de beschikbaarstelling van KNMI-gegevens wordt uitgegaan van de integrale kosten van de beschikbaarstelling en ten aanzien van het gebruik van die gegevens van een prijs die strekt tot een bijdrage in de kosten van de productie van de KNMI-gegevens, tenzij uit internationale verplichtingen anders voortvloeit, en  
+b. de vaststelling van licentietarieven;  
 
-c. kunnen andere regels inzake de inhoud van de overeenkomst en regels voor de voor het sluiten ervan benodigde informatie en bescheiden worden gesteld.     
-3.  De regels, bedoeld in het tweede lid, kunnen verschillen al naar gelang het soort gebruik van de KNMI-gegevens of de soort afnemer.  
+c. overige aspecten van het afsluiten en de inhoud van overeenkomsten, waaronder de benodigde informatie en bescheiden.    
 
 ### Artikel  7  
 

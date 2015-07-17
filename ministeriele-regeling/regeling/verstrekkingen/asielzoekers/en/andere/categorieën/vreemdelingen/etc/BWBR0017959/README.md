@@ -45,7 +45,7 @@ j. rust- en voorbereidingstermijn: de termijn van tenminste zes dagen waarin de 
 
 ### Artikel  2  
 
-1.  Deze regeling heeft uitsluitend betrekking op een asielzoeker en de daarmee gelijkgestelde categorieën, als bedoeld in artikel 3 derde en vierde lid van deze regeling, die niet beschikt over voldoende middelen om in de noodzakelijke kosten van het bestaan te voorzien, als bedoeld in de Wet Werk en Bijstand.   
+1.  Deze regeling heeft uitsluitend betrekking op een asielzoeker en de daarmee gelijkgestelde categorieën, als bedoeld in artikel 3 derde en vierde lid van deze regeling, die niet beschikt over voldoende middelen om in de noodzakelijke kosten van het bestaan te voorzien, als bedoeld in de Participatiewet.   
 2.  Het COA kan deze regeling tevens van toepassing verklaren op een asielzoeker die beschikt over voldoende middelen om in de noodzakelijke kosten van het bestaan te voorzien, indien dringende redenen daartoe noodzaken.   
 3.  Het COA verstrekt aan de asielzoeker, als bedoeld in artikel 3 van deze regeling, binnen een termijn van ten hoogste 10 dagen na plaatsing in een opvangvoorziening: 
 
@@ -242,18 +242,18 @@ b. niet heeft voldaan aan de verplichting in artikel 19, eerste lid, onder e.
 1.  De door de asielzoeker te ontvangen wekelijkse financiële toelage, bedoeld in artikel 9, eerste lid, aanhef en onder b, van deze regeling, bestaat uit een bedrag ten behoeve van voedsel en een bedrag ten behoeve van kleding en andere persoonlijke uitgaven.   
 2.  De hoogte van het bedrag ten behoeve van voedsel, bedoeld in het eerste lid, in de opvangvoorziening waarin de bewoners volledig zelf het eigen eten verzorgen, wordt berekend aan de hand van de volgende bedragen per persoon, per week: 
 
-a. bij een één- of tweepersoonshuishouden: volwassene en alleenstaande minderjarige vreemdeling: € 42,56, kind tot 18 jaar: € 33,25;  
+a. bij een één- of tweepersoonshuishouden: volwassene en alleenstaande minderjarige vreemdeling: € 44,66, kind tot 18 jaar: € 34, 86;  
 
-b. bij een driepersoonshuishouden: volwassene: € 35,35, kind tot 18 jaar: € 27,51;  
+b. bij een driepersoonshuishouden: volwassene: € 37,07, kind tot 18 jaar: € 28,93;  
 
-c. bij een huishouden van vier of meer personen: volwassene: € 31,57, kind tot 18 jaar: € 24,57.     
+c. bij een huishouden van vier of meer personen: volwassene: € 33,05, kind tot 18 jaar: € 25,80.     
 3.  De hoogte van het bedrag ten behoeve van voedsel, bedoeld in het eerste lid, in de opvangvoorziening waarin de bewoners het ontbijt en een tweede maaltijd zelf verzorgen en niet de hoofdmaaltijd, wordt berekend aan de hand van het volgende bedrag per persoon, per week: 
 
-a. bij een één- of tweepersoonshuishouden: volwassene en alleenstaande minderjarige vreemdeling: € 26,25, kind tot 18 jaar: € 18,13;  
+a. bij een één- of tweepersoonshuishouden: volwassene en alleenstaande minderjarige vreemdeling: € 27,72, kind tot 18 jaar: € 19,11;  
 
-b. bij een driepersoonshuishouden: volwassene: € 21,77, kind tot 18 jaar: € 15,03;  
+b. bij een driepersoonshuishouden: volwassene: € 23,01, kind tot 18 jaar: € 15,86;  
 
-c. bij een huishouden van vier of meer personen: volwassene: € 19,44, kind tot 18 jaar: € 13,43.     
+c. bij een huishouden van vier of meer personen: volwassene: € 20,51, kind tot 18 jaar: € 14,14.     
 4.  De hoogte van het bedrag voor kleding en andere persoonlijke uitgaven, bedoeld in het eerste lid, is: € 12,95 per persoon, per week.   
 5.  De financiële toelage wordt iedere week bij vooruitbetaling op een door het COA vastgestelde tijd (en plaats) aan de asielzoeker beschikbaar gesteld.   
 6.  Geen financiële toelage wordt verstrekt aan een kind drie maanden nadat het recht op een uitkering op grond van de Algemene Kinderbijslagwet is ontstaan.   
@@ -279,7 +279,7 @@ a. de leges ter zake van de afdoening van een aanvraag om verlenging van de verb
 
 b. de leges ter zake van de afdoening van een aanvraag om wijziging van de verblijfsvergunning regulier voor bepaalde tijd onder de beperking verband houdend met tijdelijke humanitaire gronden in een verblijfsvergunning regulier voor bepaalde tijd onder de beperking verband houdend met niet-tijdelijke humanitaire gronden, mits betrokkene voor het bereiken van de leeftijd van 15 jaar in het bezit is gesteld van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking verband houdend met tijdelijke humanitaire gronden en nog niet de leeftijd van 18 jaar heeft bereikt;  
 
-c. de leges ter zake van de afdoening van de aanvraag om verlening van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking verband houdend met verblijf als familie- of gezinslid, in de gevallen waarin de statushouder de ouder is van de aanvrager en deze op het moment van de aanvraag niet minimaal evenveel verdient als de normbedragen uit de Wet werk en bijstand;  
+c. de leges ter zake van de afdoening van de aanvraag om verlening van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking verband houdend met verblijf als familie- of gezinslid, in de gevallen waarin de statushouder de ouder is van de aanvrager en deze op het moment van de aanvraag niet minimaal evenveel verdient als de normbedragen uit de Participatiewet;  
 
 d. de leges ter zake van de afdoening van een aanvraag om verlening van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking verband houdend met verblijf als familie- of gezinslid ingediend door of namens een in Nederland geboren kind dat op grond van artikel 3, derde lid, onder d, opvang wordt geboden.     
 7.  Onder buitengewone kosten als bedoeld in artikel 9, eerste lid onder g, wordt niet verstaan de kosten voor een contra-expertise indien het een asielzoeker betreft wiens asielaanvraag in het Aanmeldcentrum wordt behandeld of is afgewezen dan wel indien het een vreemdeling betreft die in zijn rust- en voorbereidingstermijn voor verstrekkingen in aanmerking komt.  
@@ -289,7 +289,40 @@ d. de leges ter zake van de afdoening van een aanvraag om verlening van een verb
 
 1.  Een asielzoeker kan door het COA nader aan te wijzen werkzaamheden verrichten in en rondom de opvangvoorziening, voor de uitvoering waarvan een vergoeding kan worden gegeven.   
 2.  Het COA zorgt voor een evenredige verdeling van het aanbod van werkzaamheden bedoeld in het eerste lid over de in de opvangvoorziening verblijvende asielzoekers die daarvoor in aanmerking wensen te komen.   
-3.  De vergoeding die een asielzoeker ontvangt voor het verrichten van werkzaamheden als bedoeld in het eerste lid, bedraagt in totaal niet meer dan € 13,80 per week.  
+3.  De vergoeding die een asielzoeker ontvangt voor het verrichten van werkzaamheden als bedoeld in het eerste lid, bedraagt in totaal niet meer dan € 14,– per week.  
+
+### Hoofdstuk  IVa  
+
+####Kwetsbare personen
+
+Treedt in werking per 20-07-2015 
+
+### Artikel  18a  
+Treedt in werking per 20-07-2015 
+
+1.  Het COA zorgt ervoor dat tijdens het verblijf in de opvangvoorziening rekening wordt gehouden met de specifieke situatie van kwetsbare personen als bedoeld in artikel 21 van de Opvangrichtlijn.   
+2.  Ter uitvoering van het eerste lid beoordeelt het COA of de asielzoeker bijzondere opvangbehoeften heeft.   
+3.  Indien de asielzoeker overeenkomstig het tweede lid bijzondere opvangbehoeften heeft, wordt naast de verstrekkingen, bedoeld in artikel 9, eerste lid, specifieke steun en begeleiding geboden.  
+
+### Artikel  18b  
+Treedt in werking per 20-07-2015 
+
+Bij de uitoefening van de bevoegdheid, bedoeld in artikel 11, eerste lid, zorgt het COA ervoor dat: 
+
+a. minderjarige kinderen van asielzoekers of minderjarige asielzoekers worden gehuisvest bij hun ouders, bij hun ongehuwde broers of zussen of bij de volwassene die krachtens het recht of de praktijk van Nederland voor hen verantwoordelijk is, mits het in het belang van de betrokken minderjarige is;  
+
+b. afhankelijke volwassen asielzoekers met bijzondere opvangbehoeften in de regel worden ondergebracht bij volwassen nauwe verwanten die zich reeds in Nederland bevinden en die volgens het recht of de praktijk voor hen verantwoordelijk zijn.   
+
+### Artikel  18c  
+Treedt in werking per 20-07-2015 
+
+Het COA zorgt er tijdens het verblijf in de opvangvoorziening voor dat: 
+
+a. minderjarigen kunnen deelnemen aan vrijetijdsactiviteiten, met inbegrip van spel- en recreatieve activiteiten die passen bij hun leeftijd en aan activiteiten in de open lucht;  
+
+b. minderjarigen die het slachtoffer zijn geweest van enige vorm van mishandeling, verwaarlozing, uitbuiting, foltering of wrede, onmenselijke of vernederende behandeling of die hebben geleden onder gewapende conflicten, toegang hebben tot de rehabilitatiediensten en waar nodig gekwalificeerde begeleiding wordt verstrekt;  
+
+c. personen die foltering, verkrachting of andere ernstige vormen van geweld hebben ondergaan, voor hun daardoor veroorzaakte letsel de vereiste behandeling ontvangen, met name door hen toegang te geven tot passende medische en psychische behandeling en verzorging.   
 
 ###Hoofdstuk V 
 
@@ -313,7 +346,7 @@ e. te voldoen aan de COA inhuisregistratie door zich wekelijks te melden bij het
 ### Artikel  20  
 
 1.  De asielzoeker is verplicht onverwijld uit eigen beweging, of op verzoek van het COA, mededeling te doen van alle feiten of omstandigheden waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op verstrekkingen, het geldend maken van het recht op verstrekkingen, de duur van verstrekkingen of de hoogte van de toelagen die aan hem worden betaald. Indien deze feiten of omstandigheden betrekking hebben op een kind dan wordt de mededeling gedaan door de asielzoeker te wiens laste het kind komt en in het geval dit meer dan één asielzoeker betreft, door één van die asielzoekers.   
-2.  Indien een asielzoeker die verblijft in een opvangvoorziening beschikt over een vermogen groter dan de vermogensgrens ex artikel 34 van de Wet Werk en Bijstand of inkomsten heeft, anders dan een uitkering op grond van de Kinderbijslagwet of op basis van deze regeling, is die asielzoeker aan het COA een vergoeding verschuldigd in de kosten van zijn opvang alsmede van de opvang van zijn gezinsleden. De tegemoetkoming bedraagt per maand ten hoogste de economische waarde van de aan een asielzoeker feitelijk geboden verstrekkingen, vermeerderd met de economische waarde van de aan ieder gezinslid feitelijk geboden verstrekkingen, met dien verstande dat de vergoeding niet meer bedraagt dan het bedrag van het in de eerste volzin bedoelde vermogen of de in de eerste volzin bedoelde inkomsten.   
+2.  Indien een asielzoeker die verblijft in een opvangvoorziening beschikt over een vermogen groter dan de vermogensgrens ex artikel 34 van de Participatiewet of inkomsten heeft, anders dan een uitkering op grond van de Kinderbijslagwet of op basis van deze regeling, is die asielzoeker aan het COA een vergoeding verschuldigd in de kosten van zijn opvang alsmede van de opvang van zijn gezinsleden. De tegemoetkoming bedraagt per maand ten hoogste de economische waarde van de aan een asielzoeker feitelijk geboden verstrekkingen, vermeerderd met de economische waarde van de aan ieder gezinslid feitelijk geboden verstrekkingen, met dien verstande dat de vergoeding niet meer bedraagt dan het bedrag van het in de eerste volzin bedoelde vermogen of de in de eerste volzin bedoelde inkomsten.   
 3.  Indien na zijn verblijf in een opvangvoorziening blijkt dat een vreemdeling tijdens dit verblijf beschikte over een vermogen of inkomsten, bedoeld in het tweede lid, kan het COA de kosten van de opvang van deze vreemdeling alsmede de kosten van opvang van zijn gezinsleden van hem terugvorderen. De terug te vorderen kosten per maand zijn niet hoger dan de economische waarde van de aan de vreemdeling feitelijk geboden verstrekkingen, vermeerderd met de economische waarde van de aan ieder gezinslid feitelijk geboden verstrekkingen, met dien verstande dat het terug te vorderen bedrag niet meer bedraagt dan het bedrag van het in het tweede lid bedoelde vermogen of de in het tweede lid bedoelde inkomsten.  
 
 ### Artikel  21  

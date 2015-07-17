@@ -70,7 +70,7 @@ o. die in het kader van een ontwikkelingssamenwerkingsproject voor maximaal vier
 
 a. onder 1°, 3°, 9° en 10°, arbeid met een maximale duur van 12 aaneengesloten weken binnen een tijdbestek van 36 weken;  
 
-b. onder 2°, arbeid met een maximale duur van 13 aaneengesloten weken binnen een tijdsbestek van 52 weken;  
+b. onder 2°, arbeid met een maximale duur van 13 weken binnen een tijdsbestek van 52 weken;  
 
 c. onder 4°, 5°, 6° en 7°, arbeid met een maximale duur van 6 aaneengesloten weken binnen een tijdbestek van 13 weken;  
 
@@ -142,7 +142,19 @@ a. rechtmatig verblijf heeft op grond van artikel 8, onder e, van de Vreemdeling
 
 b. beschikt over een verblijfsvergunning regulier voor bepaalde tijd voor studie als bedoeld in artikel 3.4, eerste lid, onder l, van het Vreemdelingenbesluit 2000 en als stagiair wordt tewerkgesteld; of  
 
-c. vóór zijn achttiende levensjaar is gestart met een beroepsopleiding bij een instelling als bedoeld in artikel 1.1.1, onder b, van de Wet educatie en beroepsonderwijs, of bij een instelling die een beroepsopleiding verzorgt waarvan op grond van artikel 1.4.1 van de Wet educatie en beroepsonderwijs aan de met goed gevolg afgelegde examens of onderdelen van examens een diploma of certificaat is verbonden, en die in het kader van de beroepsopleidende leerweg, bedoeld in artikel 7.2.2, tweede lid, onder a, van de Wet educatie en beroepsonderwijs onbezoldigd te werk wordt gesteld op grond van een beroepspraktijkvormingsovereenkomst als bedoeld in artikel 7.2.8, tweede lid, van de Wet educatie en beroepsonderwijs.  
+c. vóór zijn achttiende verjaardag is gestart: 
+
+1°. met een beroepsopleiding bij een instelling als bedoeld in artikel 1.1.1, onder b, van de Wet educatie en beroepsonderwijs, of bij een instelling die een beroepsopleiding verzorgt waarvan op grond van artikel 1.4.1 van de Wet educatie en beroepsonderwijs aan de met goed gevolg afgelegde examens of onderdelen van examens een diploma of certificaat is verbonden, en die in het kader van de beroepsopleidende leerweg, bedoeld in artikel 7.2.2, tweede lid, van de Wet educatie en beroepsonderwijs onbezoldigd te werk wordt gesteld op grond van een beroepspraktijkvormingsovereenkomst als bedoeld in artikel 7.2.8, tweede lid, van de Wet educatie en beroepsonderwijs;  
+
+2°. met praktijkonderwijs als bedoeld in artikel 10f, eerste lid van de Wet op het voortgezet onderwijs, en die in het kader van de voorbereiding op het uitoefenen van functies op de arbeidsmarkt, bedoeld in artikel 10f, derde lid, van de Wet op het voortgezet onderwijs, onbezoldigd te werk wordt gesteld;  
+
+3°. met een leer-werktraject als bedoeld in artikel 10b1, eerste lid, van de Wet op het voortgezet onderwijs, en die in het kader van een beroepsgericht programma als bedoeld in artikel 10b1, tweede lid, onder b, van de Wet op het voortgezet onderwijs op grond van een leer-werkovereenkomst als bedoeld in artikel 10b3, eerste lid, van de Wet op het voortgezet onderwijs of een maatschappelijke stage als bedoeld in artikel 10b1, vierde lid, van de Wet op het voortgezet onderwijs op grond van een stageovereenkomst als bedoeld in artikel 6f, tweede lid, van de Wet op het voortgezet onderwijs onbezoldigd te werk wordt gesteld;  
+
+4°. met een entreeopleiding als bedoeld in artikel 10b8 van de Wet op het voortgezet onderwijs, en die in het kader van de kwalificatie voor het eerste niveau van beroepsuitoefening onbezoldigd te werk wordt gesteld op grond van een samenwerkingsovereenkomst als bedoeld in artikel 10b9, tweede lid, van de Wet op het voortgezet onderwijs;  
+
+5°. met het arbeidsmarktgerichte uitstroomprofiel van het voortgezet speciaal onderwijs als bedoeld in artikel 14, eerste lid, onder b, van de Wet op de expertisecentra, en die in het kader van het getuigschrift onbezoldigd te werk wordt gesteld op grond van een stageovereenkomst als bedoeld in artikel 9 van het Onderwijskundig besluit WEC; of  
+
+6°. met het uitstroomprofiel vervolgonderwijs van het voortgezet speciaal onderwijs als bedoeld in artikel 14, eerste lid, onder a, van de Wet op de expertisecentra, en die in het kader van een leer-werktraject of een beroepsgericht programma als bedoeld in artikel 10b1 van de Wet op het voortgezet onderwijs, een entreeopleiding als bedoeld in artikel 10b8 van de Wet op het voortgezet onderwijs, of de kwalificatie voor het eerste niveau van beroepsuitoefening onbezoldigd te werk wordt gesteld op grond van een leer-werkovereenkomst als bedoeld in artikel 10b3, van Wet op het voortgezet onderwijs.    
 
 ### Artikel  1g  
 
@@ -171,15 +183,17 @@ Het verbod, bedoeld in artikel 2, eerste lid, van de Wet arbeid vreemdelingen is
 
 a. het een au pair betreft die: 
 
-1°. verblijft in het gastgezin, bestaande uit minimaal 2 personen, voor wie de vreemdeling niet eerder werkzaamheden heeft verricht,  
+1°. verblijft in een gastgezin, bestaande uit minimaal twee personen, tot wie de vreemdeling niet in familierechtelijke betrekking staat tot in de derde graad en voor wie deze niet eerder werkzaamheden heeft verricht,  
 
 2°. kost en inwoning geniet van het gastgezin,  
 
 3°. maximaal 8 uur per dag tot een maximum van 30 uur per week in het gastgezin slechts lichte ondersteunende huishoudelijke werkzaamheden mag verrichten, waarvoor een aantoonbaar alternatief voorhanden is,  
 
-4°. minimaal 2 dagen per week vrij heeft, en  
+4°. minimaal 2 dagen per week vrij heeft,  
 
-5°. een dagindeling met het gastgezin schriftelijk en in een voor de au pair begrijpelijke taal heeft vastgesteld op grond waarvan de au pair licht ondersteunende huishoudelijke werkzaamheden verricht;    
+5°. een dagindeling met het gastgezin schriftelijk en in een voor de au pair begrijpelijke taal heeft vastgesteld op grond waarvan de au pair licht ondersteunende huishoudelijke werkzaamheden verricht, en  
+
+6°. kan aantonen dat een verklaring is ondertekend, waaruit blijkt dat het gastgezin zich er van bewust is, dat de toezichthouders de bevoegdheid, bedoeld in artikel 17 van de wet, hebben;   
 
 b. er sprake is van werkzaamheden in het kader van een Working Holiday Scheme (WHS) of een Working Holiday Programme (WHP), dat in een Memorandum of Understanding geformuleerd is dat is goedgekeurd door Onze Minister van Sociale Zaken en Werkgelegenheid en Onze Minister van Veiligheid en Justitie;  
 
@@ -293,8 +307,8 @@ Bij ministeriële regeling kan het aantal werkenden, bedoeld in artikel 4b, derd
 
 ### Artikel  4e  
 
-1.  Als soortgelijke verplichtingen en verboden als bedoeld in artikel 19d, tweede en vierde lid, van de wet worden aangewezen de verplichtingen en verboden op grond van de artikelen 2, eerste lid, en 18, tweede lid, van de wet.   
-2.  Als een soortgelijke overtreding als bedoeld in artikel 4b, eerste en tweede lid, wordt beschouwd een overtreding van de artikelen 2, eerste lid, en 18, tweede lid, van de wet.  
+1.  Als soortgelijke verplichtingen en verboden als bedoeld in artikel 19d, tweede en vierde lid, van de wet worden aangewezen de verplichtingen en verboden op grond van de artikelen 2, eerste lid, 15a en 18, tweede lid, zoals dat artikel luidde op 30 juni 2015, van de wet.   
+2.  Als een soortgelijke overtreding als bedoeld in artikel 4b, eerste en tweede lid, wordt beschouwd een overtreding van de artikelen 2, eerste lid, 15a en 18, tweede lid, zoals dat artikel luidde op 30 juni 2015, van de wet.  
 
 ### Artikel  4f  
 

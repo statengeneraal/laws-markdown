@@ -1565,7 +1565,8 @@ De Dienst kan slechts een verzameling van persoonsgegevens verstrekken in een zo
 
 1.  Onder de naam van kadastraal recht zijn betrokkenen aan de Dienst wegens het verrichten door de Dienst van werkzaamheden ter uitvoering van de taken, bedoeld in artikel 3, vergoedingen verschuldigd overeenkomstig de bij regeling van Onze Minister te stellen regels.   
 2.   De tarieven van het kadastraal recht worden tot geen hoger bedrag vastgesteld dan wordt vereist tot dekking van de ten laste van de Dienst komende kosten van het verrichten van de werkzaamheden, bedoeld in het eerste lid.    
-3.   Het bestuur van de Dienst stelt regelen vast omtrent de wijze waarop het kadastraal recht wordt verrekend met de door de betrokkene betaalde of nog te betalen andere vergoedingen.   
+3.  Artikel 9, derde lid, van de Wet hergebruik van overheidsinformatie is van toepassing op de vergoedingen bedoeld in het eerste lid.  
+4.   Het bestuur van de Dienst stelt regelen vast omtrent de wijze waarop het kadastraal recht wordt verrekend met de door de betrokkene betaalde of nog te betalen andere vergoedingen.   
 
 ### Artikel  109  
 
