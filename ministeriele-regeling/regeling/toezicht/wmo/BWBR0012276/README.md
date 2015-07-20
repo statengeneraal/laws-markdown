@@ -3,12 +3,12 @@
 ##Regeling toezicht WMO 
 
 De Minister van Volksgezondheid, Welzijn en Sport;  
-Gelet op [artikel 28 van de Wet medisch-wetenschappelijk onderzoek met mensen](../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md),
+Gelet op artikel 28 van de Wet medisch-wetenschappelijk onderzoek met mensen,
 Besluit:     
 
 ### Artikel  1  
 
-De hoofdinspecteurs, de inspecteurs en de onder hun bevelen werkzame ambtenaren van de Inspectie voor de Gezondheidszorg zijn belast met het toezicht, bedoeld in [artikel 28 van de Wet medisch-wetenschappelijk onderzoek met mensen](../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md).  
+De hoofdinspecteurs, de inspecteurs en de onder hun bevelen werkzame ambtenaren van de Inspectie voor de Gezondheidszorg zijn belast met het toezicht, bedoeld in artikel 28 van de Wet medisch-wetenschappelijk onderzoek met mensen.  
 
 ### Artikel  2  
 

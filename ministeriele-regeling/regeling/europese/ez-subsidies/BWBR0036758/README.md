@@ -465,6 +465,16 @@ De subsidieontvanger blijft gedurende ten minste vijf jaar na de datum van de la
 
 Indien subsidie wordt verstrekt aan een eigenaar van een vissersvaartuig als bedoeld in artikel 25 van verordening 508/2014, wordt de beschikking tot subsidievaststelling onverminderd artikel 4:49 van de Algemene wet bestuursrecht ingetrokken of ten nadele van de subsidieontvanger gewijzigd indien het vissersvaartuig binnen vijf jaar te rekenen vanaf de datum van de laatste betaling naar buiten de Europese Unie wordt overgedragen. 
 
+### Artikel  3.1.8  
+
+####Adviescommissie
+
+Treedt in werking per 01-09-2015 
+
+1.  Er is een adviescommissie EFMZV die tot taak heeft de minister te adviseren over de afwijzingsgrond, bedoeld in artikel 2.11, tweede lid, onderdeel d, en de rangschikking van aanvragen tot subsidieverlening, indien de verdeling van een subsidieplafond overeenkomstig artikel 2.4, onderdeel b, wordt bepaald.   
+2.  De commissie bestaat uit ten minste zeven en ten hoogste tien leden.   
+3.  De voorzitter en de leden worden voor een periode van drie jaar benoemd.  
+
 ### Titel  3.2  
 
 ####Jonge vissers
@@ -591,6 +601,239 @@ b. een afschrift van het eigendomsbewijs of het betalingsbewijs.
 ### Artikel  3.2.11  
 
 Deze titel vervalt met ingang van 1 juli 2020. 
+
+### Titel  3.3  
+
+####Aanlandplichtinnovatieprojecten
+
+Treedt in werking per 01-09-2015 
+
+### Artikel  3.3.1  
+
+####Begripsbepalingen
+
+Treedt in werking per 01-09-2015 
+
+In deze titel wordt verstaan onder: 
+
+*aanlandplicht:* aanlandingsplicht als bedoeld in artikel 15 van verordening 1380/2013;  
+
+*aanlandplichtinnovatieproject:* project dat 
+
+a. tot doel heeft nieuwe technische of organisatorische kennis te ontwikkelen of te ontwikkelen en in te voeren;  
+
+b. past binnen een van de doelen, bedoeld in artikel 39, eerste lid, van verordening 508/2014, en  
+
+c. in het kader van de aanlandplicht gericht is op: 
+
+1°. verbeteren van de selectiviteit (aanlandplichtinnovatieproject selectiviteit), of  
+
+2°. het aantonen van en vergroten van de overlevingskans van vissoorten (aanlandplichtinnovatieproject overlevingskans);      
+
+*algemeen nut beogende instelling:* een instelling als bedoeld in artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen;  
+
+*visserijorganisatie:* een organisatie waarvan uit de doelstelling in de statuten blijkt dat zij het collectief belang van vissers of visserijondernemingen behartigt.   
+
+### Artikel  3.3.2  
+
+####Subsidiabele activiteiten
+
+Treedt in werking per 01-09-2015 
+
+De minister verstrekt op aanvraag subsidie voor de uitvoering van een aanlandplichtinnovatieproject aan: 
+
+a. een visserijorganisatie;  
+
+b. deelnemers in een samenwerkingsverband van visserijorganisaties, of  
+
+c. deelnemers in een samenwerkingsverband van één of meer visserijorganisaties en één of meer algemeen nut beogende instellingen, gericht op de bescherming van de biologische rijkdommen van de zee.   
+
+### Artikel  3.3.3  
+
+####Betrokkenheid van een technische of wetenschappelijke organisatie
+
+Treedt in werking per 01-09-2015 
+
+Een aanlandplichtinnovatieproject wordt uitgevoerd met actieve betrokkenheid van een wetenschappelijke of technische organisatie, die de resultaten van het project en het wetenschappelijk of technisch rapport, bedoeld in artikel 3.3.11, derde lid, valideert. 
+
+### Artikel  3.3.4  
+
+####Indiening aanvraag tot subsidieverlening
+
+Treedt in werking per 01-09-2015 
+
+Onverminderd de artikelen 2.9 en 3.1.4, bevat een aanvraag tot subsidieverlening in ieder geval: 
+
+a. gegevens waaruit blijkt hoe de actieve betrokkenheid, bedoeld in artikel 3.3.3, van een technische of wetenschappelijke organisatie bij het aanlandplichtinnovatieproject geborgd zal worden;  
+
+b. het nummer waaronder een vissersvaartuig dat wordt ingezet in het kader van een aanlandplichtinnovatieproject geregistreerd staat in het vlootregister, of indien dit niet mogelijk is, het maximum aantal vissersvaartuigen van de nationale vloot dat zal worden ingezet voor het project en het maximum brutotonnage van deze vissersvaartuigen;  
+
+c. een raming van de te verwachten netto-inkomsten, bedoeld in artikel 39, zesde en zevende lid, van verordening 508/2014;  
+
+d. een beschrijving van de communicatieactiviteiten, bedoeld in Bijlage V, paragraaf 3.1, tweede lid, onderdeel e, van verordening 508/2014 die de subsidieontvanger of het samenwerkingsverband wil gaan ondernemen;  
+
+e. een kopie van de op het moment van de subsidieaanvraag geldende statuten, waaruit de doelstelling van de subsidieaanvrager blijkt;  
+
+f. een verklaring van een wetenschappelijke of technische organisatie waaruit blijkt dat deze bereid is om de in artikel 3.3.3 omschreven rol te vervullen, overeenkomstig de gegevens, bedoeld in onderdeel a.   
+
+### Artikel  3.3.5  
+
+####Verdeling van het subsidieplafond
+
+Treedt in werking per 01-09-2015 
+
+De minister verdeelt de subsidieplafonds voor aanlandplichtinnovatieprojecten selectiviteit of aanlandplichtinnovatieprojecten overlevingskans op volgorde van rangschikking van de aanvragen als bedoeld in artikel 2.4, onderdeel b. 
+
+### Artikel  3.3.6  
+
+####Rangschikkingscriteria
+
+Treedt in werking per 01-09-2015 
+
+1.  De minister rangschikt een aanvraag voor een aanlandplichtinnovatieproject selectiviteit, waarop niet afwijzend is beslist, hoger naarmate deze: 
+
+a. een meer innovatief karakter heeft (10%);  
+
+b. meer economisch of technisch perspectief heeft op toepassing op praktijkschaal (5%);  
+
+c. een groter uitstralingseffect heeft voor toepassing door ondernemingen (5%);  
+
+d. minder negatieve effecten heeft op de natuur (5%);  
+
+e. meer bijdraagt aan de uitvoerbaarheid en naleefbaarheid voor vissers of visserijondernemingen van de aanlandplicht (35%);  
+
+f. meer bijdraagt aan het vergroten van de selectiviteit van vismethoden (40%).     
+2.  De minister rangschikt een aanvraag voor een aanlandplichtinnovatieproject overlevingskans, waarop niet afwijzend is beslist, hoger naarmate deze: 
+
+a. een meer innovatief karakter heeft (10%);  
+
+b. meer economisch of technisch perspectief heeft op toepassing op praktijkschaal (5%);  
+
+c. een groter uitstralingseffect heeft voor toepassing door ondernemingen (5%);  
+
+d. minder negatieve effecten heeft op de natuur (5%);  
+
+e. meer bijdraagt aan de uitvoerbaarheid en naleefbaarheid voor vissers of visserijondernemingen van de aanlandplicht (35%);  
+
+f. meer bijdraagt aan het aantonen of verbeteren van de overlevingskans van vissoorten (40%).    
+
+### Artikel  3.3.7  
+
+####Beschikkingen onder opschortende voorwaarde
+
+Treedt in werking per 01-09-2015 
+
+1.  Indien bij subsidieverlening één van de in artikel 39, vierde lid, van verordening 508/2013 vastgestelde maxima zou worden overschreden, wordt subsidie aan aanlandinnovatieprojecten die op basis van de rangschikking en de hoogte van het subsidieplafond in aanmerking zouden komen voor subsidie, verleend onder de opschortende voorwaarde van goedkeuring door de Europese Commissie.   
+2.  De overige gerangschikte aanlandplichtinnovatieprojecten worden afgewezen, maar komen alsnog voor subsidie in aanmerking indien: 
+
+a. er budget beschikbaar komt doordat een of meerdere hoger gerangschikte aanlandinnovatieprojecten niet worden goedgekeurd door de Europese Commissie, en  
+
+b. deze worden goedgekeurd door de Europese Commissie.     
+3.  De minister stelt de subsidieaanvrager zo spoedig mogelijk nadat het oordeel van de Europese Commissie bekend is op de hoogte van dit oordeel en eventuele gevolgen voor de eerder afgegeven beschikking.  
+
+### Artikel  3.3.8  
+
+####Niet subsidiabele kosten
+
+Treedt in werking per 01-09-2015 
+
+Onverminderd de artikelen 1.5 en 3.1.2, komen operationele kosten als bedoeld in artikel 25, tweede lid, van verordening 508/2014 niet in aanmerking voor subsidie. 
+
+### Artikel  3.3.9  
+
+####Hoogte van de subsidie
+
+Treedt in werking per 01-09-2015 
+
+1.  De subsidie bedraagt 75 procent van de subsidiabele kosten.   
+2.  Indien de subsidie wordt aangevraagd door een samenwerkingsverband als bedoeld in artikel 3.3.2, onderdeel c, bedraagt de subsidie 85 procent van de subsidiabele kosten.   
+3.  De subsidie bedraagt ten hoogste € 600 000 per aanlandplichtinnovatieproject.  
+
+### Artikel  3.3.10  
+
+####Start- en realisatietermijn
+
+Treedt in werking per 01-09-2015 
+
+1.  Met de uitvoering van de op grond van deze titel gesubsidieerde aanlandplichtinnovatieprojecten wordt gestart binnen 6 maanden na de subsidieverlening.   
+2.  De op grond van deze titel gesubsidieerde aanlandplichtinnovatieprojecten worden uitgevoerd binnen 36 maanden na subsidieverlening.   
+3.  Indien er sprake is van een subsidieverlening onder opschortende voorwaarde als bedoeld in artikel 3.3.7, eerste lid, beginnen de termijnen, bedoeld in het eerste en tweede lid, te lopen vanaf de datum waarop de minister de subsidieaanvrager op de hoogte heeft gesteld van het oordeel, bedoeld in artikel 3.3.7, derde lid, indien het aanlandinnovatieproject is goedgekeurd door de Europese Commissie.  
+
+### Artikel  3.3.11  
+
+####Verplichtingen subsidieontvanger
+
+Treedt in werking per 01-09-2015 
+
+1.  De subsidieontvanger of het samenwerkingsverband zet niet meer vissersvaartuigen in en overschrijdt niet de bruttotonnage, zoals aangegeven bij de aanvraag op grond van artikel 3.3.4, onderdeel b.   
+2.  De subsidieontvanger of het samenwerkingsverband zorgt dat de onderzoeksopzet die aan het aanlandplichtinnovatieproject ten grondslag ligt, voldoet aan de algemeen aanvaarde wetenschappelijke standaarden en dat de resultaten voldoende wetenschappelijk worden onderbouwd.   
+3.  De subsidieontvanger of het samenwerkingsverband stelt een wetenschappelijk of technisch rapport op of laat deze opstellen door de technische of wetenschappelijke organisatie, waarin de onderzoeksopzet, de resultaten van het aanlandplichtinnovatieproject en de bijdrage van de technische of wetenschappelijke organisatie aan het project wordt beschreven.   
+4.  De subsidieontvanger of het samenwerkingsverband, dan wel een van de deelnemers aan een samenwerkingsverband, stelt het wetenschappelijk of technisch rapport, bedoeld in het derde lid, gelijktijdig met het indienen van de aanvraag tot subsidievaststelling, gedurende een periode van drie jaar, beschikbaar op zijn website.   
+5.  De subsidieontvanger of het samenwerkingsverband voert de communicatieactiviteiten uit, bedoeld in artikel 3.3.4, onderdeel d.  
+
+### Artikel  3.3.12  
+
+####Afwijzingsgrond
+
+Treedt in werking per 01-09-2015 
+
+De minister beslist afwijzend op een aanvraag tot subsidieverlening voor zover de subsidiabele kosten, bedoeld in artikel 1.3, minder dan € 500 000 bedragen. 
+
+### Artikel  3.3.13  
+
+####Intellectuele eigendomsrechten
+
+Treedt in werking per 01-09-2015 
+
+Op de resultaten van een aanlandplichtinnovatieproject worden geen intellectuele eigendomsrechten gevestigd. 
+
+### Artikel  3.3.14  
+
+####Voorschot
+
+Treedt in werking per 01-09-2015 
+
+1.  Er kan een voorschot worden verstrekt als bedoeld in artikel 2.14.   
+2.  Een aanvraag om een voorschot wordt in ieder geval ingediend tegelijkertijd met een tussenrapportage als bedoeld in artikel 2.18, eerste lid.   
+3.  Aanvullend op het tweede lid kan een aanvraag om een voorschot op een ander moment worden ingediend. In dit geval gaat zij vergezeld van een beschrijving van de voorgang van het aanlandplichtinnovatieproject.   
+4.  Een aanvraag om een voorschot gaat vergezeld van gegevens over de gegenereerde netto-inkomsten, bedoeld in artikel 39, zesde en zevende lid, van verordening 508/2014.  
+
+### Artikel  3.3.15  
+
+####Verrekening van netto-inkomsten
+
+Treedt in werking per 01-09-2015 
+
+1.  Bij de subsidieverlening worden de geraamde netto-inkomsten, bedoeld in artikel 3.3.4, onderdeel c, van de subsidiabele kosten afgetrokken.   
+2.  Indien bij de verstrekking van een voorschot als bedoeld in artikel 3.3.14, eerste lid, of bij de subsidievaststelling blijkt dat de netto-inkomsten, bedoeld in artikel 39, zesde en zevende lid, van verordening 508/2013, eerder met de subsidiabele kosten verrekende netto-inkomsten te boven gaan, worden deze van de subsidiabele kosten afgetrokken.  
+
+### Artikel  3.3.16  
+
+####Indienen aanvraag tot subsidievaststelling
+
+Treedt in werking per 01-09-2015 
+
+Onverminderd de artikelen 2.20 en 3.1.5, bevat de aanvraag tot subsidievaststelling in ieder geval: 
+
+a. een wetenschappelijk of technisch rapport als bedoeld in artikel 3.3.11, derde lid;  
+
+b. een verklaring van de technische of wetenschappelijke organisatie dat de onderzoeksopzet aan wetenschappelijke standaarden voldoet die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd en dat de resultaten voldoende wetenschappelijk zijn onderbouwd;  
+
+c. gegevens over de gegenereerde netto-inkomsten, bedoeld in artikel 39, zesde en zevende lid, van verordening 508/2014;  
+
+d. het nummer waaronder een vissersvaartuig dat is ingezet in het kader van een aanlandplichtinnovatieproject geregistreerd staat in het vlootregister;  
+
+e. het adres van de website, bedoeld in artikel 3.3.11, vierde lid, waarop het wetenschappelijk of technisch rapport beschikbaar wordt gesteld;  
+
+f. gegevens die aantonen dat de communicatieactiviteiten, bedoeld in artikel 3.3.4, onderdeel d, zijn uitgevoerd.   
+
+### Artikel  3.3.17  
+
+####Vervaltermijn
+
+Treedt in werking per 01-09-2015 
+
+Deze titel vervalt met ingang van 1 september 2020, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend. 
 
 ### Hoofdstuk  4  
 

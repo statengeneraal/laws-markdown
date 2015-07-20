@@ -210,7 +210,8 @@ b.  een andere vreemdeling gebruik gemaakt van het model, dat als bijlage 6c bij
 
 1.  De ambtenaren, bedoeld in artikel 46, eerste lid, onder a en b, dan wel 47, eerste lid, onder a en b, van de Wet, zijn bevoegd een machtiging tot voorlopig verblijf dan wel terugkeervisum in te trekken dan wel te annuleren op de gronden en in de gevallen, bedoeld in artikel 2m, derde en vierde lid, van de Wet.  
 2.  De ambtenaren belast met de grensbewaking zijn bevoegd de vreemdeling aan wie de toegang is geweigerd, de maatregel, bedoeld in artikel 6, eerste lid, van de Wet, op te leggen dan wel deze in overeenstemming met artikel 6a van de Wet voort te zetten.   
-3.  De bevoegde ambtenaren van de Immigratie- en Naturalisatiedienst kunnen besluiten de maatregel, bedoeld in artikel 6, eerste en tweede lid, voort te zetten in overeenstemming met artikel 6a van de Wet.  
+3.  De bevoegde ambtenaren van de Immigratie- en Naturalisatiedienst kunnen besluiten de maatregel, bedoeld in artikel 6, eerste en tweede lid, voort te zetten in overeenstemming met artikel 6a van de Wet.   
+4.  De oplegging of opheffing van de maatregel, bedoeld in artikel 6, eerste en tweede lid, van de Wet, met toepassing van artikel 6, zesde lid, van de Wet vindt plaats door de bevoegde ambtenaren van de Immigratie- en Naturalisatiedienst. 
 
 ### Hoofdstuk 3  
 
@@ -681,32 +682,6 @@ Indien de referent de eigen verklaring, bedoeld in artikel 24a, tweede lid, van 
 
 ####Inhoudelijke bepalingen
 
-### Artikel  3.35 
-
-1.  De beoordeling of een vreemdeling op grond van artikel 29, eerste lid, onder a dan wel b, van de Wet in aanmerking komt voor een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Wet vindt plaats op individuele basis en houdt onder meer rekening met: 
-
-a. alle relevante feiten in verband met het land van herkomst op het tijdstip waarop een beslissing inzake de aanvraag wordt genomen met inbegrip van wettelijke en bestuursrechtelijke bepalingen van het land van herkomst en de wijze waarop deze worden toegepast;  
-
-b. de door de vreemdeling afgelegde verklaring en overgelegde documenten, samen met informatie over de vraag of de vreemdeling is blootgesteld, dan wel blootgesteld zou kunnen worden aan vervolging in de zin van het Vluchtelingenverdrag, dan wel aan ernstige schade;  
-
-c. de individuele situatie en persoonlijke omstandigheden van de vreemdeling, waartoe factoren behoren zoals achtergrond, geslacht en leeftijd, teneinde te beoordelen of op basis van de persoonlijke omstandigheden van de vreemdeling, de daden waaraan hij blootgesteld is of blootgesteld zou kunnen worden, overeenkomen met vervolging in de zin van het Vluchtelingenverdrag, dan wel aan ernstige schade;  
-
-d. de vraag of zijn activiteiten, sedert hij zijn land heeft verlaten, uitsluitend ten doel hadden de nodige voorwaarden te scheppen om een aanvraag te kunnen indienen, teneinde na te gaan of de vreemdeling, in geval van terugkeer naar dat land, door die activiteiten zal worden blootgesteld aan vervolging in de zin van het Vluchtelingenverdrag, dan wel aan ernstige schade;  
-
-e. de vraag of in redelijkheid kan worden verwacht dat de vreemdeling zich onder de bescherming kan stellen van een ander land waar hij zich op zijn staatsburgerschap kan beroepen.     
-2.  Het feit dat de vreemdeling in het verleden reeds is blootgesteld aan vervolging in de zin van het Vluchtelingenverdrag, dan wel aan ernstige schade, of dat hij hiermee rechtstreeks is bedreigd, is een duidelijke aanwijzing dat de vrees van de vreemdeling voor vervolging in de zin van het Vluchtelingenverdrag gegrond is en het risico om te worden onderworpen aan ernstige schade reëel is, tenzij er goede redenen zijn om aan te nemen dat die vervolging of ernstige schade zich niet opnieuw zullen voordoen.   
-3.  Indien de vreemdeling zijn verklaringen of een deel van zijn verklaringen niet met documenten kan onderbouwen, worden deze verklaringen geloofwaardig geacht en wordt de vreemdeling het voordeel van de twijfel gegund, wanneer aan de volgende voorwaarden is voldaan: 
-
-a. de vreemdeling heeft een oprechte inspanning geleverd om zijn aanvraag te staven;  
-
-b. alle relevante gegevens, als bedoeld in artikel 3.111, eerste lid van het Besluit, waarover de vreemdeling beschikt, zijn overgelegd, en er is een bevredigende verklaring gegeven omtrent het ontbreken van andere relevante gegevens;  
-
-c. de verklaringen van de vreemdeling zijn samenhangend en aannemelijk bevonden en zijn niet in strijd met beschikbare algemene en specifieke informatie die relevant is voor zijn aanvraag;  
-
-d. de vreemdeling heeft zijn aanvraag zo spoedig mogelijk ingediend, tenzij hij goede redenen kan aanvoeren waarom hij dit heeft nagelaten; en  
-
-e. vast is komen te staan dat de vreemdeling in grote lijnen als geloofwaardig kan worden beschouwd.    
-
 ### Artikel  3.36 
 
 1.  Daden van vervolging in de zin van artikel 1A van het Vluchtelingenverdrag moeten: 
@@ -781,9 +756,34 @@ b. partijen of organisaties, met inbegrip van internationale organisaties, die d
 a. geen gegronde vrees heeft voor vervolging of geen reëel risico op ernstige schade loopt; of  
 
 b. toegang heeft tot bescherming als bedoeld in artikel 3.37c tegen vervolging of tegen ernstige schade,   en hij op een veilige en wettige manier kan reizen naar en zich toegang verschaffen tot dat deel van het land, en redelijkerwijs kan worden verwacht dat hij er zich vestigt.   
-2.  Bij de beoordeling of de vreemdeling een gegronde vrees heeft voor vervolging of een reëel risico op ernstige schade loopt, of toegang heeft tot bescherming tegen vervolging of tegen ernstige schade in een deel van het land van herkomst overeenkomstig het eerste lid, wordt rekening gehouden met de algemene omstandigheden in dat deel van het land en met de persoonlijke omstandigheden van de vreemdeling in overeenstemming met de artikelen 3.35 en 3.45 en met artikel 3.111, eerste lid, van het Besluit. Daartoe wordt ervoor gezorgd dat wordt beschikt over nauwkeurige en actuele informatie uit relevante bronnen, zoals de Hoge Commissaris van de Verenigde Naties voor vluchtelingen en het Europees Ondersteuningsbureau voor asielzaken. 
+2.  Bij de beoordeling of de vreemdeling een gegronde vrees heeft voor vervolging of een reëel risico op ernstige schade loopt, of toegang heeft tot bescherming tegen vervolging of tegen ernstige schade in een deel van het land van herkomst overeenkomstig het eerste lid, wordt rekening gehouden met de algemene omstandigheden in dat deel van het land en met de persoonlijke omstandigheden van de vreemdeling in overeenstemming met artikel 31 van de Wet. Daartoe wordt ervoor gezorgd dat wordt beschikt over nauwkeurige en actuele informatie uit relevante bronnen, zoals de Hoge Commissaris van de Verenigde Naties voor vluchtelingen en het Europees Ondersteuningsbureau voor asielzaken. 
 
-### Artikel  3.37e 
+### Artikel  3.37e  
+
+1.  De beoordeling of een derde land een veilig derde land is, als bedoeld in artikel 30a, eerste lid, onder c, van de Wet, dient te stoelen op een reeks informatiebronnen, waaronder in het bijzonder informatie uit andere lidstaten, het Europees Ondersteuningsbureau voor asielzaken (EASO), de UNHCR, de Raad van Europa en andere relevante internationale organisaties.   
+2.  De Minister onderzoekt de situatie in derde landen die zijn aangemerkt als veilige derde landen regelmatig opnieuw.   
+3.  Bij de beoordeling of de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd, als bedoeld in artikel 28 van de Wet, niet-ontvankelijk wordt verklaard op grond van artikel 30a, eerste lid, onder c, van de Wet, worden betrokken de verklaringen van de vreemdeling inhoudende dat: 
+
+a. hij in het derde land zal worden blootgesteld aan vervolging of ernstige schade;  
+
+b. de band tussen hem en het derde land niet zodanig is dat het voor hem redelijk zou zijn naar dat land te gaan.     
+4.  Eerder verblijf, als bedoeld in artikel 3.106a, derde lid, van het Besluit wordt in ieder geval aangenomen indien uit objectieve feiten of omstandigheden blijkt dat de vreemdeling in het land van herkomst niet de intentie had om naar Nederland te reizen.   
+5.  Bij de uitvoering van een uitsluitend op artikel 30a, eerste lid, onder c, van de Wet gebaseerde beslissing, wordt aan de vreemdeling een document verschaft waarin de autoriteiten van het derde land in de taal van dat land ervan in kennis gesteld worden dat de asielaanvraag niet inhoudelijk is onderzocht.  
+
+### Artikel  3.37f  
+
+1.  Een land wordt als veilig land van herkomst beschouwd als bedoeld in artikel 30b, eerste lid, onder b, van de Wet, wanneer op basis van de rechtstoestand, de toepassing van de rechtsvoorschriften in een democratisch stelsel en de algemene politieke omstandigheden kan worden aangetoond dat er algemeen gezien en op duurzame wijze geen sprake is van vervolging, noch van foltering of onmenselijke of onterende behandeling of bestraffing, noch van bedreiging door willekeurig geweld in het kader van een internationaal of intern gewapend conflict.   
+2.  Bij de beoordeling of een land als veilig land van herkomst wordt beschouwd, wordt onder meer rekening gehouden met de mate waarin bescherming wordt geboden tegen vervolging of mishandeling door middel van: 
+
+a. de desbetreffende wetten en andere voorschriften van het betrokken land en de wijze waarop die worden toegepast;  
+
+b. de naleving van de rechten en vrijheden die zijn neergelegd in het EVRM en/of het Internationaal Verdrag inzake burgerrechten en politieke rechten en/of het Verdrag van de Verenigde Naties tegen foltering, in het bijzonder de rechten waarop geen afwijkingen uit hoofde van artikel 15, lid 2, van het EVRM zijn toegestaan;  
+
+c. de naleving van het beginsel van non-refoulement overeenkomstig het Vluchtelingenverdrag;  
+
+d. het beschikbaar zijn van een systeem van daadwerkelijke rechtsmiddelen tegen schendingen van voornoemde rechten en vrijheden.    
+
+### Artikel  3.37g 
 
 Bij de beoordeling of een verblijfsvergunning voor bepaalde tijd, die is verleend op grond van artikel 29, eerste lid, onder a of b, van de Wet, wordt ingetrokken op grond van artikel 32, eerste lid, onder c, van de Wet, of de aanvraag voor verlenging van de geldigheidsduur ervan wordt afgewezen op die grond, wordt in aanmerking genomen of de wijziging van de omstandigheden een voldoende ingrijpend en niet-voorbijgaand karakter heeft om de gegronde vrees voor vervolging dan wel het reële risico op ernstige schade weg te nemen. De rechtsgrond voor verlening van de desbetreffende verblijfsvergunning heeft niet opgehouden te bestaan indien de vreemdeling dwingende redenen kan aanvoeren die voorvloeien uit vroegere vervolging dan wel uit vroegere ernstige schade, om te weigeren de bescherming in te roepen van het land waarvan hij de nationaliteit bezit, of, in het geval van een staatloze, van het land waar hij vroeger zijn gewone verblijfsplaats had. 
 
@@ -794,20 +794,6 @@ Bij de beoordeling of een verblijfsvergunning voor bepaalde tijd, die is verleen
 ### Artikel  3.41  
 
 Bij de indiening van de aanvraag, bedoeld in de artikelen 28 en 33 van de Wet, verklaart de vreemdeling of de wettelijk vertegenwoordiger ermee bekend te zijn dat de verblijfsrechtelijke gegevens via de koppelingen tussen het IND-informatiesysteem en de BRP worden doorgegeven aan instanties die deze gegevens voor de beoordeling van voorzieningen nodig hebben. 
-
-### Artikel 3.43a  
-
-Aan de vreemdeling die te kennen geeft de aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28 van de Wet, in te willen dienen wordt een brochure uitgereikt waarin hij, in een taal waarvan redelijkerwijze kan worden aangenomen dat hij die begrijpt, wordt ingelicht over: 
-
-a. de te volgen procedure;  
-
-b. zijn rechten en verplichtingen tijdens de procedure;  
-
-c. de gevolgen die kunnen ontstaan indien hij zijn verplichtingen niet nakomt of niet met de autoriteiten samenwerkt;  
-
-d. de termijnen die gelden binnen de procedure;  
-
-e. de wijze waarop hij kan voldoen aan zijn verplichting tot het indienen van de gegevens als bedoeld in artikel 3.111, eerste lid van het Besluit.   
 
 ### Artikel  3.43b  
 
@@ -838,7 +824,16 @@ In afwijking van de artikelen 3.43b, eerste lid, en 3.43c, eerste en tweede lid,
 
 ### Artikel 3.45  
 
-De gegevens, bedoeld in artikel 3.111, eerste lid, van het Besluit, bestaan uit de verklaringen van de vreemdeling en alle in zijn bezit zijnde documentatie over zijn achtergrond en die van relevante familieleden, zijn leeftijd, identiteit, nationaliteit(en), land(en) en plaats(en) van eerder verblijf, eerdere asielaanvragen, reisroutes, identiteits- en reisdocumenten en de redenen waarom hij een aanvraag voor een verblijfsvergunning als bedoeld in artikel 28 van de Wet indient. 
+De persoon die de in Hoofdstuk 3, Afdeling 5, Paragraaf 2 van het Besluit bedoelde gehoren afneemt, draagt geen militair uniform of politie-uniform.
+
+### Artikel  3.45a  
+
+De in Hoofdstuk 3, Afdeling 5, Paragraaf 2 van het Besluit bedoelde gehoren van een minderjarige worden afgenomen op een kindvriendelijke manier. 
+
+### Artikel  3.45b  
+
+1.  De aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28 van de Wet, kan buiten behandeling worden gesteld op grond van artikel 30c, eerste lid, onder a, van de Wet, indien de vreemdeling twee keer heeft nagelaten te antwoorden op verzoeken om informatie te verstrekken over de elementen ter staving van zijn aanvraag, bedoeld in artikel 31, tweede en derde lid, van de Wet.   
+2.  De termijn van twee weken, bedoeld in artikel 30c, eerste lid, onder b en c, van de Wet, vangt aan met ingang van de dag na die waarop bekend is geworden dat de vreemdeling niet is verschenen bij een gehoor onderscheidenlijk is verdwenen of zonder toestemming van de Minister is vertrokken.  
 
 ### Artikel 3.46  
 
@@ -854,6 +849,22 @@ Indien de aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in de ar
 2.  Bij een beroep op artikel 3.107a, derde lid, van het Besluit overlegt de aanvrager het advies, bedoeld in artikel 2.8, eerste lid, van het Besluit inburgering, dat niet ouder is dan zes maanden.  
 3. Het derde en vierde lid van artikel 3.16 zijn van overeenkomstige toepassing.
 
+### Artikel  3.49  
+
+Duidelijke aanwijzingen dat de vreemdeling de eerste opvolgende asielaanvraag heeft ingediend louter teneinde de uitvoering van het terugkeerbesluit te vertragen of te verhinderen als bedoeld in artikel 3.1, tweede lid, onder e, van het Besluit, zijn in ieder geval dat: 
+
+a. de vreemdeling bekend is met de datum waarop hij wordt uitgezet en de aanvraag indient kort voorafgaand aan zijn uitzetting terwijl: 
+
+1° hij voldoende mogelijkheid heeft gehad om de aanvraag eerder in te dienen, maar hij daarvan geen gebruikt heeft gemaakt;  
+
+2° hij de aanvraag niet heeft onderbouwd;  
+
+3° de argumenten of bewijzen die hij heeft voorgelegd, evident niet relevant zijn voor de beoordeling van de aanvraag of evident niet kunnen leiden tot inwilliging van de aanvraag; of  
+
+4° hij zijn eerder afgelegde verklaringen essentieel wijzigt of aanvult;    
+
+b. de vreemdeling eerst na aanhouding of een periode van feitelijk verblijf te kennen geeft dat hij een aanvraag wil indienen, en er duidelijke aanwijzingen zijn dat hij daarvoor niet de bedoeling had zich uit vrije wil bij de autoriteiten te melden en een aanvraag te doen.   
+
 ### Artikel  3.50  
 
 Artikel 3.118b van het Besluit is niet van toepassing op de vreemdeling: 
@@ -864,7 +875,7 @@ b. die aannemelijk heeft gemaakt dat hij na afwijzing van de eerdere aanvraag is
 
 c. die door de Minister is geïnformeerd over de datum van de vlucht ter fine van zijn verwijdering, of 
 
-d. wiens eerdere aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Wet is afgewezen op grond van artikel 30, eerste lid, van de Wet en: 
+d. wiens eerdere aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Wet niet in behandeling is genomen op grond van artikel 30 van de Wet of niet-ontvankelijk is verklaard op grond van artikel 30a, eerste lid, onder a, b, c of e, van de Wet en: 
 
 1°. deze afwijzingsgrond niet meer van toepassing is; of  
 
@@ -1510,13 +1521,13 @@ Indien de korpschef of de bevelhebber van de Koninklijke marechaussee de bevoegd
 
 ### Artikel  5.3  
 
-1.  De maatregel, bedoeld in artikel 59 of 59a van de Wet, wordt opgelegd door de ambtenaar bedoeld in artikel 47, eerste lid, onder a en b, van de Wet, die tevens hulpofficier van justitie is, door de ambtenaar van politie met ter zake voldoende kennis en kunde die daartoe is aangewezen door de korpschef, of door de ambtenaar van de Dienst Terugkeer en Vertrek die daartoe is aangewezen door de Minister.   
+1.  De maatregel, bedoeld in artikel 59, 59a of 59b van de Wet, wordt opgelegd en opgeheven door de ambtenaar bedoeld in artikel 47, eerste lid, onder a en b, van de Wet, die tevens hulpofficier van justitie is, door de ambtenaar van politie met ter zake voldoende kennis en kunde die daartoe is aangewezen door de korpschef, of door de daartoe door de Minister aangewezen ambtenaar van de Dienst Terugkeer en Vertrek of de Immigratie- en Naturalisatiedienst.   
 2.  De maatregel, bedoeld in artikel 59 of 59a van de Wet, wordt gewijzigd en opgeheven door de ambtenaar van Dienst Terugkeer en Vertrek, die daartoe bevoegd is, of door de ambtenaar bedoeld in artikel 47, eerste lid, onder a en b, van de Wet die tevens hulpofficier van justitie is of door de ambtenaar van politie met ter zake voldoende kennis en kunde die daartoe is aangewezen door de korpschef.   
 3.  De maatregel, bedoeld in artikel 59, eerste lid, van de Wet, wordt verlengd als bedoeld in artikel 59, zesde lid, van de Wet, door de ambtenaar van de Dienst Terugkeer en Vertrek die daartoe bevoegd is, of door de ambtenaar, bedoeld in artikel 47, eerste lid, onder a of b, van de Wet, die tevens hulpofficier van justitie is of door de ambtenaar van politie met ter zake voldoende kennis en kunde die daartoe is aangewezen door de korpschef. 
 
 ### Artikel  5.4  
 
-De ambtenaar van de Dienst Terugkeer en Vertrek die bevoegd is tot inbewaringstelling en de hulpofficier van justitie of de ambtenaar van politie met ter zake voldoende kennis en kunde die die daartoe is aangewezen door de korpschef, zijn bevoegd tot het nemen van het besluit, bedoeld in artikel 5.5, eerste lid, van het Besluit en tot het doen van de kennisgeving, bedoeld in artikel 5.5, tweede lid, van het Besluit.
+De ambtenaren genoemd in artikel 5.3, eerste lid, zijn bevoegd tot het nemen van het besluit, bedoeld in artikel 5.5, eerste lid, van het Besluit en tot het doen van de kennisgeving, bedoeld in artikel 5.5, tweede lid, van het Besluit.
 
 ### Hoofdstuk 6  
 

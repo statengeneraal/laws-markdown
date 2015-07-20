@@ -96,14 +96,21 @@ b. persoonlijk beschermingsmiddel: iedere uitrusting die bestemd is om door de w
 4°. draagbare apparaten voor het opsporen en signaleren van gevaren en belastingsfactoren;    
 
 c. veiligheids- of gezondheidssignalering: een signalering die, toegepast op een bepaald object, een bepaalde activiteit of een bepaalde situatie door middel van een bord, een kleur, een lichtsignaal, een akoestisch signaal, een mondelinge mededeling of een hand- of armsein een aanwijzing of een voorschrift verstrekt met betrekking tot de veiligheid of gezondheid op het werk.     
-5.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  
+5.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
+
+a.  *EG-verordening indeling, etikettering en verpakking van stoffen en mengsels:* verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEG 2008, L 353);  
+
+b.  *gevaarlijke stoffen:* stoffen of mengsels waaraan werknemers bij de arbeid worden of kunnen worden blootgesteld die vanwege de eigenschappen van of de omstandigheden waaronder die stoffen of mengsels voorkomen gevaar voor de veiligheid of gezondheid kunnen opleveren;  
+
+c.  *mengsel:* een mengsel of oplossing bestaande uit twee of meer stoffen.    
+6.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  
 
 a. jeugdige werknemer: een werknemer jonger dan 18 jaar;  
 
 b. zwangere werknemer: de werknemer die zwanger is en de werkgever hiervan in kennis heeft gesteld;  
 
 c. werknemer tijdens de lactatie: de werknemer die haar kind borstvoeding geeft en haar werkgever hiervan in kennis heeft gesteld.     
-6.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder certificerende instelling: een door Onze Minister krachtens artikel 20, tweede lid, van de wet aangewezen instelling die beslist over de afgifte van een certificaat als bedoeld in artikel 20, eerste lid, van de wet.  
+7.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder certificerende instelling: een door Onze Minister krachtens artikel 20, tweede lid, van de wet aangewezen instelling die beslist over de afgifte van een certificaat als bedoeld in artikel 20, eerste lid, van de wet.  
 
 ### Artikel  1.2  
 
@@ -723,31 +730,53 @@ Op plaatsonafhankelijke arbeid zijn van overeenkomstige toepassing de afdelingen
 
 ####Toepasselijkheid hoofdstuk 4 
 
-1.  Het verrichten van plaatsonafhankelijke arbeid met gevaarlijke stoffen is alleen toegestaan met de volgende stoffen: 
+1.  Het verrichten van plaatsonafhankelijke arbeid met gevaarlijke stoffen is alleen toegestaan met: 
 
-a. stoffen die bij uitsluiting voldoen aan de krachtens artikel 9.2.3.1 van de Wet milieubeheer vastgestelde criteria voor indeling in de categorieën «schadelijk», «irriterend», «ontvlambaar» en «milieugevaarlijk», tenzij deze stoffen voldoen aan de bij of krachtens die wet vastgestelde criteria voor toekenning van de R-zinnen 1, 4, 5, 6, 14, 19, 29, 30, 31, 32, 33, 40, 44, 48, 64 of 68;  
+a. stoffen die aan geen criteria voldoen voor een of meer gevarenaanduidingen als bedoeld in EG-verordening indeling, etikettering en verpakking van stoffen en mengsels;  
 
-b. stoffen die aan geen van de krachtens artikel 9.2.3.1 van de Wet milieubeheer vastgestelde criteria voor indeling voldoen, tenzij deze stoffen de bijzondere gevaaraanduidingen dragen, genoemd in bijlage V, deel B, onderdeel 2 of 6 bij richtlijn nr. 1999/45/EG van het Europees Parlement en de Raad van de Europese Unie van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (PbEG 1999 L 200).     
-2.  Met betrekking tot de in het eerste lid, onder a, genoemde stoffen, met uitzondering van stoffen die alleen voldoen aan de krachtens artikel 9.2.3.1 van de Wet milieubeheer vastgestelde criteria voor indeling in de categorie «milieugevaarlijk», wordt in het kader van de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, in ieder geval vastgesteld aan welke stoffen de werknemers worden of kunnen worden blootgesteld en welke de gevaren zijn die aan die stoffen zijn verbonden.   
-3.  Met betrekking tot de verpakking van een stof die gevaar voor de veiligheid of gezondheid kan opleveren alsmede met betrekking tot de sluiting van die verpakking, is artikel 9.2.3.3, eerste tot en met derde lid, van de Wet milieubeheer van overeenkomstige toepassing.   
-4.  Op de verpakking van een stof, bedoeld in het derde lid, worden de aanduidingen die voor die stof op grond van het voldoen aan de criteria voor indeling in de categorieën, bedoeld in het eerste lid, onder a, ten behoeve van de aflevering van die stof bij of krachtens de Wet milieubeheer zijn voorgeschreven, opvallend en goed leesbaar vermeld, met uitzondering van de aanduidingen die betrekking hebben op de categorie «milieugevaarlijk».   
+b. stoffen die een bijzondere aanduiding bevatten zoals vermeld in Bijlage II, deel 1 en 2, van de onder a genoemde verordening met uitzondering van de bijzondere aanduidingen: EUH001, EUH006, EUH014, EUH018, EUH019, EUH029, EUH031, EUH032, EUH044, EUH070, EUH071, EUH202 of EUH207; en  
+
+c. stoffen die uitsluitend voldoen aan de criteria voor een of meer van de volgende gevarenaanduidingen als bedoeld in de onder a genoemde verordening: H-zinnen 223, 226, 227, 228, 302, 312, 315, 318, 319, 332, 335, 336, 400, 410, 411, 412, 413 of 420.     
+2.  Met betrekking tot de in het eerste lid, onder c, genoemde stoffen, met uitzondering van stoffen die uitsluitend voldoen aan de criteria voor een of meer van de volgende H-zinnen: 400, 410, 411, 412, 413 of 420, wordt in het kader van de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, in ieder geval vastgesteld aan welke stoffen de werknemers worden of kunnen worden blootgesteld en welke de gevaren zijn die aan die stoffen zijn verbonden.   
+3.  Bij de verpakking en sluiting van gevaarlijke stoffen worden de volgende voorschriften in acht genomen: 
+
+a. de verpakking is zodanig ontworpen en uitgevoerd dat verlies van de inhoud wordt voorkomen, behalve als andere meer specifieke veiligheidsvoorzieningen zijn voorgeschreven;  
+
+b. het materiaal van de verpakking en sluiting mag niet door de inhoud kunnen worden beschadigd of daarmee een gevaarlijke verbinding kunnen vormen;  
+
+c. de verpakking en sluiting zijn in alle onderdelen zo stevig en sterk dat zij niet losraken en afdoende bestand zijn tegen elke normale behandeling; en  
+
+d. verpakking die voorzien is van een herbruikbare sluiting is zodanig ontworpen dat de verpakking herhaalde malen opnieuw kan worden gesloten zonder verlies van inhoud.   De verpakking en sluiting van gevaarlijke stoffen wordt vermoed te voldoen aan de hiervoor genoemde voorschriften indien ze voldoen aan de betreffende, bij of krachtens de Wet vervoer gevaarlijke stoffen of de Wet luchtvaart gestelde, eisen voor vervoer van gevaarlijke goederen door de lucht, over zee, over de weg, per spoor of over de binnenwateren.   
+4.  Op de verpakking, bedoeld in het derde lid, van een gevaarlijke stof wordt opvallend en goed leesbaar vermeld: 
+
+a. de officiële naam van de gevaarlijke stof en de relevante gevaarlijke bestanddelen; en  
+
+b. de gevarenpictogrammen, signaalwoorden en gevaarsaanduidingen als bedoeld in EG-verordening indeling, etikettering en verpakking van stoffen en mengsels.     
 5.  Doeltreffende maatregelen zijn genomen om te voorkomen dat de werknemers bij hun arbeid kunnen worden blootgesteld aan stoffen in zodanige mate dat schade kan worden toegebracht aan hun gezondheid.   
-6.  Huidcontact is voorkomen of geminimaliseerd door het dragen van doelmatige persoonlijke beschermingsmiddelen bij mogelijke blootstelling aan een enkelvoudige of samengestelde stof: 
+6.  Huidcontact is voorkomen of geminimaliseerd door het dragen van doelmatige persoonlijke beschermingsmiddelen bij mogelijke blootstelling aan een gevaarlijke stof: 
 
-a. die voldoet aan de criteria voor classificatie met een effect op de huid of de ogen, inclusief de classificatie kankerverwekkend voor de huid, volgens Richtlijn 67/548/EEG van de Raad van de Europese Gemeenschappen van 27 juni 1967 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (PbEG 1967, 196) of Richtlijn 1999/45/EG van het Europees Parlement en de Raad van de Europese Unie van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (PbEG 1999, L 200); of  
+a. die voldoet aan criteria voor een of meer van de volgende gevarenaanduidingen als bedoeld in EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: H-zinnen 312 of 315;  
 
-b. als bedoeld in artikel 4.3, eerste of tweede lid, of 4.16, eerste of tweede lid.     
-7.  Indien met brandgevaarlijke stoffen wordt gewerkt, zijn aan de werknemer deugdelijke en doelmatige middelen voor het blussen of doven van een brand ter beschikking gesteld.   
-8.  Indien stoffen aanwezig zijn die gevaar voor de veiligheid of de gezondheid van de werknemer kunnen opleveren, zijn zodanige maatregelen getroffen dat het gevaar, dat zich met betrekking tot die stoffen een ongewilde gebeurtenis voordoet, zoveel mogelijk is vermeden.   
-9.  Bij het verrichten van arbeid met stoffen als bedoeld in het achtste lid, zijn zodanige maatregelen getroffen dat het gevaar, dat zich bij die arbeid een ongewilde gebeurtenis voordoet, zoveel mogelijk is vermeden.   
-10.  Voorts zijn zodanige maatregelen getroffen dat, in geval zich een ongewilde gebeurtenis als bedoeld in het achtste of negende lid voordoet, de gevolgen daarvan zoveel mogelijk worden beperkt.   
-11.  In alle gevallen waarin arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan gevaarlijke stoffen, wordt in overeenstemming met artikel 8 van de wet voorlichting en onderricht gegeven waarbij ten minste aandacht wordt besteed aan: 
+b. als bedoeld in artikel 4.3, eerste of tweede lid en waarbij is aangegeven dat die gevaarlijke stof door de huid kan worden opgenomen; of  
+
+c. indien dit voortvloeit uit de risico-inventarisatie en -evaluatie, bedoeld in artikel 5, van de wet.     
+7.  Oogcontact is voorkomen of geminimaliseerd door het dragen van doelmatige persoonlijke beschermingsmiddelen bij mogelijke blootstelling aan een gevaarlijke stof: 
+
+a. die voldoet aan criteria voor een of meer van de volgende gevarenaanduidingen als bedoeld in EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: H-zinnen: 318, 319, of de bijzondere aanduiding: EUH070; of  
+
+b. indien dit voortvloeit uit de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet.    
+8.  Indien met stoffen wordt gewerkt die voldoen aan criteria voor een of meer van de volgende gevarenaanduidingen als bedoeld in EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: H-zinnen 223, 226 of 228, dan zijn aan de werknemer deugdelijke en doelmatige middelen voor het blussen of doven van een brand ter beschikking gesteld.   
+9.  Indien stoffen aanwezig zijn die gevaar voor de veiligheid of de gezondheid van de werknemer kunnen opleveren, zijn zodanige maatregelen getroffen dat het gevaar, dat zich met betrekking tot die stoffen een ongewilde gebeurtenis voordoet, zoveel mogelijk is vermeden.   
+10.  Bij het verrichten van arbeid met stoffen als bedoeld in het negende lid, zijn zodanige maatregelen getroffen dat het gevaar, dat zich bij die arbeid een ongewilde gebeurtenis voordoet, zoveel mogelijk is vermeden.   
+11.  Voorts zijn zodanige maatregelen getroffen dat, in geval zich een ongewilde gebeurtenis als bedoeld in het negende of tiende lid voordoet, de gevolgen daarvan zoveel mogelijk worden beperkt.   
+12.  In alle gevallen waarin arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan gevaarlijke stoffen, wordt in overeenstemming met artikel 8 van de wet voorlichting en onderricht gegeven waarbij ten minste aandacht wordt besteed aan: 
 
 a. de uitkomsten van de risico-inventarisatie en -evaluatie, bedoeld in het tweede lid;  
 
 b. de maatregelen die zijn getroffen op grond van het vijfde lid; en  
 
-c. de maatregelen die zijn getroffen voor het voorkomen of beperken van ongewilde gebeurtenissen overeenkomstig het zevende, achtste, negende of tiende lid.    
+c. de maatregelen die zijn getroffen voor het voorkomen of beperken van ongewilde gebeurtenissen overeenkomstig het achtste, negende, tiende of elfde lid.     
+13.  Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van het vierde lid. 
 
 ### Artikel  1.47  
 
@@ -2369,21 +2398,19 @@ Voor zwangere werknemers en werknemers tijdens de lactatie is een geschikte, af 
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
-a.gevaarlijke stoffen: stoffen, mengsels of oplossingen van stoffen waaraan werknemers bij de arbeid worden of kunnen worden blootgesteld die vanwege de eigenschappen van of de omstandigheden waaronder die stoffen, mengsels of oplossingen voorkomen gevaar voor de veiligheid of gezondheid kunnen opleveren;
-
-b.grenswaarde:
+a.grenswaarde:
 
 1°.de limiet van de concentratie of van het tijdgewogen gemiddelde van de concentratie voor een gevaarlijke stof in de individuele ademhalingszone van een werknemer gedurende een gespecificeerde referentieperiode;
 
 2°.de limiet van de concentratie in het passende biologische medium van een gevaarlijke stof, de metabolieten daarvan of een indicator van het effect van de betreffende stof gedurende een gespecificeerde referentieperiode;
 
-c.ongewilde gebeurtenis: een plotselinge situatie, ongeval, voorval of noodsituatie die gevaar oplevert voor veiligheid en gezondheid van de werknemer of zijn omgeving, en die gelet op de toegepaste stoffen, procédés en maatregelen niet is voorzien. 
+b.ongewilde gebeurtenis: een plotselinge situatie, ongeval, voorval of noodsituatie die gevaar oplevert voor veiligheid en gezondheid van de werknemer of zijn omgeving, en die gelet op de toegepaste stoffen, procédés en maatregelen niet is voorzien. 
 
 ### Artikel  4.1a  
 
 ####Toepasselijkheid
 
-1. De artikelen 4.1c, eerste lid, onderdeel h, 4.3, 4.4 en 4.10a, vijfde lid, zijn niet van toepassing op kankerverwekkende of mutagene stoffen en kankerverwekkende processen als bedoeld in afdeling 2 van dit hoofdstuk en op asbest of asbesthoudende producten als bedoeld in afdeling 5 van dit hoofdstuk. 
+1. De artikelen 4.1c, eerste lid, onder i, 4.3, 4.4 en 4.10a, vijfde lid, zijn niet van toepassing op kankerverwekkende of mutagene stoffen en kankerverwekkende processen als bedoeld in afdeling 2 van dit hoofdstuk en op asbest of asbesthoudende producten als bedoeld in afdeling 5 van dit hoofdstuk. 
 2. Artikel 4.7 is niet van toepassing op bedrijven, inrichtingen of delen daarvan waarop het Besluit risico’s zware ongevallen 2015 of afdeling 2 van hoofdstuk 2 van toepassing is. 
 3. Artikel 4.4 is niet van toepassing op loodwit als bedoeld in artikel 4.61b. 
 4. Artikel 4.10d is niet van toepassing op asbest of asbesthoudende producten als bedoeld in afdeling 5 van dit hoofdstuk. 
@@ -2421,21 +2448,29 @@ d.het aantal werknemers, dat wordt of kan worden blootgesteld te minimaliseren;
 
 e.de mate en duur van de blootstelling te minimaliseren;
 
-f. huidcontact te voorkomen of te minimaliseren door het dragen van doelmatige persoonlijke beschermingsmiddelen bij mogelijke blootstelling aan een enkelvoudige of samengestelde stof: 
+f. huidcontact is voorkomen of geminimaliseerd door het dragen van doelmatige persoonlijke beschermingsmiddelen bij mogelijke blootstelling aan een gevaarlijke stof: 
 
-1°. die voldoet aan de criteria voor classificatie met een effect op de huid of ogen, inclusief de classificatie kankerverwekkend voor de huid, volgens Richtlijn 67/548/EEG van de Raad van de Europese Gemeenschappen van 27 juni 1967 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (PbEG 1967, 196) of Richtlijn 1999/45/EG van het Europees Parlement en de Raad van de Europese Unie van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (PbEG 1999, L 200);  
+1°. die voldoet aan criteria voor een of meer van de volgende gevarenaanduidingen als bedoeld in EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: H-zinnen 310, 311, 312, 314, 315 of 317;  
 
-2°. als bedoeld in artikel 4.3, eerste lid, of artikel 4.16, eerste lid, en waarbij is aangegeven dat die door de huid kan worden opgenomen;   
+2°. als bedoeld in artikel 4.3, eerste of tweede lid, of artikel 4.16, eerste of tweede lid, en waarbij is aangegeven dat die gevaarlijke stof door de huid kan worden opgenomen; of  
 
-g.de grootst mogelijke zorgvuldigheid, ordelijkheid en zindelijkheid in acht te nemen;
+3°. indien dit voortvloeit uit de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet;   
 
-h.de hoeveelheid gevaarlijke stoffen op de werkplek zoveel mogelijk te beperken;
+g. oogcontact is voorkomen of geminimaliseerd door het dragen van doelmatige persoonlijke beschermingsmiddelen bij mogelijke blootstelling aan een gevaarlijke stof: 
 
-i.passende werkmethoden in te voeren, met inbegrip van regelingen voor de veilige behandeling, opslag en vervoer op de werkplek van gevaarlijke stoffen en van afvalstoffen die gevaarlijke stoffen bevatten;
+1°. die voldoet aan criteria voor een of meer van de volgende gevarenaanduidingen als bedoeld in EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: H-zinnen: 314, 318, 319, of de bijzondere aanduiding: EUH070; of  
 
-j.arbeid slechts te laten verrichten door personen die in een zodanige lichamelijke en geestelijke toestand verkeren en op het gebied van die arbeid over een zodanige basiskennis beschikken, dat zij voldoende in staat zijn de daaraan verbonden gevaren te onderkennen en te voorkomen;
+2°. indien dit voortvloeit uit de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet;   
 
-k.te zorgen dat op plaatsen waar gevaarlijke stoffen aanwezig zijn, niet wordt gerookt, gegeten, gedronken, geslapen of voedsel wordt bewaard. 
+h.de grootst mogelijke zorgvuldigheid, ordelijkheid en zindelijkheid in acht te nemen;
+
+i.de hoeveelheid gevaarlijke stoffen op de werkplek zoveel mogelijk te beperken;
+
+j.passende werkmethoden in te voeren, met inbegrip van regelingen voor de veilige behandeling, opslag en vervoer op de werkplek van gevaarlijke stoffen en van afvalstoffen die gevaarlijke stoffen bevatten;
+
+k.arbeid slechts te laten verrichten door personen die in een zodanige lichamelijke en geestelijke toestand verkeren en op het gebied van die arbeid over een zodanige basiskennis beschikken, dat zij voldoende in staat zijn de daaraan verbonden gevaren te onderkennen en te voorkomen;
+
+l.te zorgen dat op plaatsen waar gevaarlijke stoffen aanwezig zijn, niet wordt gerookt, gegeten, gedronken, geslapen of voedsel wordt bewaard. 
 2. De maatregelen, bedoeld in het eerste lid, zijn in overeenstemming met de stand van de wetenschap en techniek.
 
 ### Artikel  4.1d  
@@ -2446,16 +2481,21 @@ k.te zorgen dat op plaatsen waar gevaarlijke stoffen aanwezig zijn, niet wordt g
 
 a. de officiële naam van de gevaarlijke stof en de relevante gevaarlijke bestanddelen; en  
 
-b. de gevaarsymbolen, gevaarbenamingen en de waarschuwingszinnen.     
-2.  In afwijking van het eerste lid hoeven op laboratoriumhulpmiddelen die voor steeds wisselende chemicaliën worden gebruikt, niet steeds alle verplichte aanduidingen te zijn aangebracht. Worden deze hulpmiddelen alleen gebruikt voor kortdurende handelingen dan zijn geen aanduidingen verplicht. Worden deze hulpmiddelen gebruikt voor andere dan kortdurende handelingen dan zijn op deze hulpmiddelen opvallend en goed leesbaar vermeld: 
+b. de gevarenpictogrammen, signaalwoorden en gevaarsaanduidingen als bedoeld in EG-verordening indeling, etikettering en verpakking van stoffen en mengsels.     
+2.  In afwijking van het eerste lid hoeven op laboratoriumhulpmiddelen die worden gebruikt voor kortdurende handelingen of met steeds wisselende chemicaliën niet steeds alle verplichte aanduidingen te zijn aangebracht, indien er toereikende alternatieve maatregelen zijn genomen, met name op het gebied van voorlichting of opleiding, die hetzelfde beschermingsniveau als bedoeld in het eerste lid garanderen.   
+3.  Bij de verpakking en sluiting van gevaarlijke stoffen worden de volgende voorschriften in acht genomen: 
 
-a. voor een enkelvoudige stof: de officiële naam van de gevaarlijke stof; en  
+a. de verpakking is zodanig ontworpen en uitgevoerd dat verlies van de inhoud wordt voorkomen, behalve als andere meer specifieke veiligheidsvoorzieningen zijn voorgeschreven;  
 
-b. voor een meervoudige stof: de officiële naam of namen van de relevante gevaarlijke bestanddelen.     
-3.  In het geval van opslag van gevaarlijke stoffen in grotere hoeveelheden in speciale opslagruimten wordt aan het eerste lid voldaan als de verplichte aanduidingen voor meerdere identieke verpakkingen door middel van één etiketafdruk opvallend en goed leesbaar zijn aangebracht. De aanduidingen zijn zodanig aangebracht dat voor elke afzonderlijk opgeslagen verpakking te allen tijde ter plekke duidelijk is dat de aanduidingen van toepassing zijn. Als gevaarlijke stoffen uitsluitend voor de handel zijn opgeslagen, kan worden volstaan met het aanbrengen van de bij aflevering in Nederland wettelijk verplichte aanduidingen.   
-4.  In geval van vervoer en laden en lossen van gevaarlijke stoffen wordt aan het eerste lid voldaan als de vervoerders en de laders en lossers tijdens hun werkzaamheden ter plekke beschikken over de gegevens die op grond van het bij of krachtens de Wet milieubeheer bepaalde op het etiket zouden moeten worden vermeld.   
-5.  Het eerste en tweede lid zijn niet van toepassing voor zover de Wet vervoer gevaarlijke stoffen of de Wet gewasbeschermingsmiddelen en biociden van toepassing zijn.   
-6.  Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van het eerste, tweede of derde lid.  
+b. het materiaal van de verpakking en sluiting mag niet door de inhoud kunnen worden beschadigd of daarmee een gevaarlijke verbinding kunnen vormen;  
+
+c. de verpakking en sluiting zijn in alle onderdelen zo stevig en sterk dat zij niet losraken en afdoende bestand zijn tegen elke normale behandeling; en  
+
+d. verpakking die voorzien is van een herbruikbare sluiting is zodanig ontworpen dat de verpakking herhaalde malen opnieuw kan worden gesloten zonder verlies van inhoud.   De verpakking en sluiting van gevaarlijke stoffen wordt vermoed te voldoen aan de hiervoor genoemde voorschriften indien ze voldoen aan de betreffende, bij of krachtens de Wet vervoer gevaarlijke stoffen of de Wet luchtvaart gestelde, eisen voor vervoer van gevaarlijke goederen door de lucht, over zee, over de weg, per spoor of over de binnenwateren.  
+4.  In het geval van opslag van gevaarlijke stoffen in grotere hoeveelheden in speciale opslagruimten wordt aan het eerste lid voldaan als de verplichte aanduidingen voor meerdere identieke verpakkingen door middel van één etiketafdruk opvallend en goed leesbaar zijn aangebracht. De aanduidingen zijn zodanig aangebracht dat voor elke afzonderlijk opgeslagen verpakking te allen tijde ter plekke duidelijk is dat de aanduidingen van toepassing zijn. Als gevaarlijke stoffen uitsluitend voor de handel zijn opgeslagen, kan worden volstaan met het aanbrengen van de bij aflevering in Nederland wettelijk verplichte aanduidingen.   
+5.  In geval van vervoer en laden en lossen van gevaarlijke stoffen wordt aan het eerste lid voldaan als de vervoerders en de laders en lossers tijdens hun werkzaamheden ter plekke beschikken over de gegevens die op grond van het eerste lid op het etiket zouden moeten worden vermeld.   
+6.  Het eerste en tweede lid zijn niet van toepassing voor zover de Wet vervoer gevaarlijke stoffen of de Wet luchtvaart van toepassing zijn.   
+7.  Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van het eerste, tweede of vierde lid.  
 
 ### Artikel  4.2  
 
@@ -2485,7 +2525,7 @@ e.voor zover van toepassing, de resultaten van de arbeidsgezondheidskundige onde
 
 ####Nadere voorschriften risico-inventarisatie en -evaluatie, aanvullende registratie
 
-Indien op de arbeidsplaats in verband met de aard van de werkzaamheden die daar worden uitgevoerd, gevaarlijke stoffen plegen voor te komen die bij of krachtens de Wet milieubeheer worden ingedeeld in de categorie «voor de voortplanting vergiftig», bedoeld in artikel 9.2.3.1, tweede lid, onder n, van die wet, alsmede stoffen als bedoeld in richtlijn nr. 67/548/EEG van de Raad van de Europese Economische Gemeenschap van 27 juni 1967 betreffende de aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (PbEG L 196) die met de waarschuwingszin R64 worden gekenmerkt overeenkomstig de criteria in paragraaf 3.2.8 van bijlage VI bij deze richtlijn, worden met betrekking tot die stoffen in de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, in aanvulling op artikel 4.2, de volgende gegevens vermeld:
+Indien op de arbeidsplaats in verband met de aard van de werkzaamheden die daar worden uitgevoerd, gevaarlijke stoffen plegen voor te komen die voldoen aan criteria voor een of meer van de volgende gevarenaanduidingen als bedoeld in EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: H-zinnen 360, 360F, 360D, 360FD, 360Fd, 360Df, 361, 361f, 361d, 361fd, 362, worden met betrekking tot die stoffen in de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, in aanvulling op artikel 4.2, de volgende gegevens vermeld:
 
 a.de hoeveelheid van de stof die per jaar pleegt te worden vervaardigd of gebruikt dan wel aanwezig pleegt te zijn in verband met opslag;
 
@@ -2530,7 +2570,7 @@ a.kankerverwekkende en mutagene stoffen als bedoeld in artikel 4.11, onderdelen 
 
 b.een stof die vrijkomt bij een kankerverwekkend proces als bedoeld in artikel 4.11, onderdeel c;
 
-c.stoffen die voldoen aan de criteria, vastgesteld op grond van artikel 9.2.3.1, derde lid, van de Wet milieubeheer voor toekenning van de R-zin «kan overgevoeligheid veroorzaken bij inademing (R42)». 
+c. een stof die voldoet aan de volgende gevarenaanduiding als bedoeld in EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: H-zin 334.  
 
 ### §  4  
 
@@ -2700,13 +2740,13 @@ h.de te nemen maatregelen in geval zich een ongewilde gebeurtenis voordoet met g
 
 In deze afdeling en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. richtlijn: Richtlijn nr. 2004/37/EG van het Europees Parlement en de Raad van 29 april 2004 betreffende de bescherming van de werknemers tegen de risico’s van blootstelling aan carcinogene of mutagene agentia op het werk (zesde bijzondere richtlijn in de zin van artikel 16, lid 1, van Richtlijn 89/391/EEG van de Raad)(gecodificeerde versie) (Pb EU L 158);  
+a. richtlijn: Richtlijn nr. 2004/37/EG van het Europees Parlement en de Raad van 29 april 2004 betreffende de bescherming van de werknemers tegen de risico’s van blootstelling aan carcinogene of mutagene agentia op het werk (zesde bijzondere richtlijn in de zin van artikel 16, lid 1, van Richtlijn 89/391/EEG van de Raad) (Pb EU L 158);  
 
-b. kankerverwekkende stof: 
+b.kankerverwekkende stof: 
 
-1°. een enkelvoudige stof die moet worden geclassificeerd als een categorie 1 of 2 carcinogeen volgens de criteria van bijlage VI bij Richtlijn nr. 67/548/EEG van de Raad van de Europese Gemeenschappen van 27 juni 1967 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (*PbEG* 196), alsmede een stof als bedoeld in bijlage I bij de richtlijn;  
+1°. gevaarlijke stof die voldoet aan de criteria om als kankerverwekkend te worden ingedeeld in categorie 1A of 1B als bedoeld in bijlage I bij EG-verordening indeling, etikettering en verpakking van stoffen en mengsels; of  
 
-2°. een meervoudige stof die bestaat uit een of meer stoffen als bedoeld onder 1°, waarbij de concentratiegrens is vastgesteld in bijlage I bij Richtlijn nr. 67/548/EEG van de Raad van de Europese Gemeenschappen van 27 juni 1967 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (*PbEG* 196) en, voor zover het een stof betreft die in laatstbedoelde bijlage niet is opgenomen of zonder concentratiegrens is opgenomen, een stof waarbij de concentratiegrens is vastgesteld in bijlage II, deel B, bij richtlijn nr. 1999/45/EG van het Europees Parlement en de Raad van de Europese Unie van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (*PbEG* L 200) alsmede een meervoudige stof als bedoeld in bijlage I bij de richtlijn;    
+2°. gevaarlijke stof of procedé als bedoeld in bijlage I bij de richtlijn, alsmede een gevaarlijke stof die vrijkomt bij een in die bijlage bedoeld procedé;    
 
 c. kankerverwekkend proces:
 
@@ -2714,11 +2754,7 @@ c. kankerverwekkend proces:
 
 2°. een bij ministeriële regeling aan te wijzen proces waarbij meervoudige stoffen vrijkomen die worden ingedeeld in één van de in onderdeel b, onder 1°, genoemde categorieën waarvoor voor de afzonderlijke stoffen geen concentratiegrenzen gelden.  
 
-d. mutagene stof: 
-
-een enkelvoudige stof die moet worden geclassificeerd als een categorie 1 of 2 mutageen volgens de criteria van bijlage VI bij richtlijn nr. 67/548/EEG van de Raad van de Europese Economische Gemeenschap van 27 juni 1967 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (PbEG L 196);
-
-een meervoudige stof die bestaat uit een of meer stoffen als bedoeld onder 1°, waarbij de concentratiegrens is vastgesteld in bijlage I bij richtlijn nr. 67/548/EEG van de Raad van de Europese Economische Gemeenschap van 27 juni 1967 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (PbEG L 196) en, voor zover het een stof betreft die in laatstbedoelde bijlage niet is opgenomen of zonder concentratiegrens is opgenomen, een stof waarbij de concentratiegrens is vastgesteld in bijlage II, deel B, bij richtlijn nr. 1999/45/EG van het Europees Parlement en de Raad van de Europese Unie van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (PbEG L 200); 
+d.  *mutagene stof:* gevaarlijke stof die voldoet aan de criteria om als mutageen in geslachtscellen te worden ingedeeld in categorie 1A of 1B als bedoeld in bijlage I bij EG-verordening indeling, etikettering en verpakking van stoffen en mengsels;  
 
 e. gevarenzone: plaats binnen een bedrijf of inrichting waar werknemers worden of kunnen worden blootgesteld aan mutagene of kankerverwekkende stoffen, of stoffen die vrijkomen bij kankerverwekkende processen.   
 
@@ -3063,7 +3099,7 @@ c.het voorkomen van de verspreiding van stof afkomstig van asbest of asbesthoude
 3. In het werkplan wordt voorgeschreven dat de werkgever van het bedrijf, bedoeld in artikel 4.54d, eerste lid, zich ervan vergewist dat na de eindbeoordeling, bedoeld in artikel 4.51a, er geen risico’s van bloostelling aan asbest of asbesthoudende producten meer zijn. 
 4. In het werkplan worden de volgende gegevens opgenomen:
 
-a.een beschrijving van de maatregelen, bedoeld in de artikelen 4.1c, eerste lid, aanhef en onderdelen d en g, 4.7, derde lid, onderdelen b, c en e, 4.18, 4.19, aanhef en onderdelen b en c, 4.20, eerste tot en met vierde lid, 4.45, eerste en tweede lid, onderdelen a, b, en d, 4.48a, tweede en vierde lid, en 4.51.
+a.een beschrijving van de maatregelen, bedoeld in de artikelen 4.1c, eerste lid, aanhef en onderdelen d en h, 4.7, derde lid, onderdelen b, c en e, 4.18, 4.19, aanhef en onderdelen b en c, 4.20, eerste tot en met vierde lid, 4.45, eerste en tweede lid, onderdelen a, b, en d, 4.48a, tweede en vierde lid, en 4.51.
 
 b.een beschrijving van de aard, duur en plaats van de werkzaamheden alsmede van de werkmethode;
 
@@ -3652,7 +3688,7 @@ In aanvulling op het bepaalde bij of krachtens dit hoofdstuk, gelden voor jeugdi
 
 ####Arbeidsverboden voor gevaarlijke stoffen en biologische agentia
 
-1.  Jeugdige werknemers verrichten geen arbeid met of worden niet blootgesteld aan stoffen die voldoen aan de krachtens artikel 9.2.3.1 van de Wet milieubeheer vastgestelde criteria voor indeling in een of meer van de categorieën «zeer vergiftig», «vergiftig», «sensibiliserend», «kankerverwekkend», «mutageen» en «voor de voortplanting vergiftig», alsmede stoffen die voldoen aan de bij of krachtens die wet vastgestelde criteria voor toekenning van de R-zinnen 33 en 48.   
+1.  Jeugdige werknemers verrichten geen arbeid met of worden niet blootgesteld aan een gevaarlijke stof die voldoet aan criteria voor een of meer van de volgende gevarenaanduidingen als bedoeld in EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: H-zinnen 300, 301, 310, 311, 317, 330, 331, 334, 340, 341, 350, 350i, 351, 360, 360F, 360D, 360FD, 360Fd, 360Df, 361, 361f, 361d, 361fd, 362, 370, 371, 372 of 373.   
 2.  Jeugdige werknemers verrichten geen arbeid met of worden niet blootgesteld aan biologische agentia van categorie 3 of 4, bedoeld in afdeling 9 van dit hoofdstuk.   
 3.  Voorts verrichten jeugdige werknemers geen arbeid aan of met kuipen, bassins, leidingen of reservoirs waarin zich een of meer van de in het eerste of tweede lid bedoelde stoffen of biologische agentia bevinden.  
 
@@ -3662,11 +3698,7 @@ In aanvulling op het bepaalde bij of krachtens dit hoofdstuk, gelden voor jeugdi
 
 Artikel 1.37, tweede lid, is van overeenkomstige toepassing op jeugdige werknemers die: 
 
-a. arbeid verrichten met stoffen die voldoen aan de krachtens artikel 9.2.3.1 van de Wet milieubeheer vastgestelde criteria voor indeling: 
-
-1. in een of meer van de categorieën, «ontplofbaar», «bijtend» en «irriterend»;  
-
-2. in de categorie «schadelijk», indien deze stoffen tevens voldoen aan de bij of krachtens de Wet milieubeheer vastgestelde criteria voor toekenning van R-zin 40 of 68;    
+a. arbeid verrichten met een gevaarlijke stof die voldoet aan een van de volgende gevarenaanduidingen als bedoeld in EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: H-zinnen 200, 201, 202, 203, 204, 205, 220, 221, 222, 224, 225, 240, 241, 242, 314, 315, 318, 319 of 335, of de bijzondere aanduidingen: EUH070 of EUH071;  
 
 b. arbeid verrichten met persgassen, onder druk vloeibaar gemaakte gassen, door sterke temperatuurverlaging vloeibaar gemaakte gassen en opgeloste gassen;  
 
@@ -5448,7 +5480,7 @@ b.van hoofdstuk 2: artikel 2.42g;
 
 c.van hoofdstuk 3: de artikelen 3.5, 3.5g, eerste lid, en 3.5h, tweede, vierde en vijfde lid;
 
-d.van hoofdstuk 4: de artikelen 4.1c, eerste lid, onder g, j en k, 4.7, derde lid, onder c en d, 4.8, tweede, derde en vierde lid, 4.9, tweede en derde lid, 4.19, onder a, 4.45, eerste lid, 4.47a, derde lid, 4.48a, eerste en vierde lid, 4.50, vijfde en zesde lid, 4.51, 4.54d, vierde, zesde en achtste lid, voorzover het de certificaten uit het vierde en zesde lid betreft, 4.58, eerste lid, 4.59, eerste lid, 4.60, eerste lid, 4.61, tweede tot en met vijfde lid, 4.61a, eerste lid, 4.61b, eerste lid, 4.86, derde lid, 4.87a, derde lid, onder d, 4.89, eerste en vierde lid, 4.97, tweede lid, onder d, 4.108 en 4.109, alsmede ten aanzien van arbeid met asbest of asbesthoudende producten, als bedoeld in artikel 4.37, de artikelen 4.19, aanhef en onder a, en 4.20, derde lid;
+d.van hoofdstuk 4: de artikelen 4.1c, eerste lid, onder h, k en l, 4.7, derde lid, onder c en d, 4.8, tweede, derde en vierde lid, 4.9, tweede en derde lid, 4.19, onder a, 4.45, eerste lid, 4.47a, derde lid, 4.48a, eerste en vierde lid, 4.50, vijfde en zesde lid, 4.51, 4.54d, vierde, zesde en achtste lid, voorzover het de certificaten uit het vierde en zesde lid betreft, 4.58, eerste lid, 4.59, eerste lid, 4.60, eerste lid, 4.61, tweede tot en met vijfde lid, 4.61a, eerste lid, 4.61b, eerste lid, 4.86, derde lid, 4.87a, derde lid, onder d, 4.89, eerste en vierde lid, 4.97, tweede lid, onder d, 4.108 en 4.109, alsmede ten aanzien van arbeid met asbest of asbesthoudende producten, als bedoeld in artikel 4.37, de artikelen 4.19, aanhef en onder a, en 4.20, derde lid;
 
 e.van hoofdstuk 6: de artikelen 6.14, 6.14a, vijfde lid, 6.15, eerste lid, onder c, 6.16, eerste tot en met derde lid en vijfde tot en met achtste lid, 6.18, vierde lid, 6.19, eerste lid, 6.20, vierde lid, en 6.29;
 
@@ -5599,7 +5631,7 @@ De eigenaar of beheerder van een lift is verplicht tot naleving van de voorschri
 
 1.  Als overtreding ter zake waarvan een bestuurlijke boete kan worden opgelegd, wordt aangemerkt de handeling of het nalaten in strijd met de voorschriften welke zijn opgenomen in de volgende artikelen: 
 
-a. van hoofdstuk 1: de artikelen 1.5ha, 1.36, 1.37, eerste en tweede lid, 1.38, 1.41, 1.42, 1.42a, 1.46, tweede tot en met elfde lid, 1.48, 1.49, tweede tot en met zesde lid, 1.51 tot en met 1.53;  
+a. van hoofdstuk 1: de artikelen 1.5ha, 1.36, 1.37, eerste en tweede lid, 1.38, 1.41, 1.42, 1.42a, 1.46, tweede tot en met dertiende lid, 1.48, 1.49, tweede tot en met zesde lid, 1.51 tot en met 1.53;  
 
 b. van hoofdstuk 2: de artikelen 2.1, 2.13, 2.14a, eerste en tweede lid, 2.15, 2.26 tot en met 2.29, 2.32 tot en met 2.35, 2.41, 2.42, tweede tot en met vierde en zesde lid, 2.42a tot en met 2.42c, 2.42e, eerste lid, 2.42f, eerste tot en met derde lid, 2.42g, 2.42h en 2.43, tweede lid;  
 
@@ -5823,7 +5855,7 @@ Vrijstellingen of ontheffingen worden slechts verleend voor beperkte duur en wor
 
 a. van hoofdstuk 1: de artikelen 1.26 tot en met 1.32 en 1.34;  
 
-b. van hoofdstuk 4: de artikelen 4.1c, eerste lid, onderdeel k, 4.58, 4.59, 4.60, eerste en derde lid, 4.61, tweede lid, 4.61b, 4.105, 4.108, 4.109 en 4.110;  
+b. van hoofdstuk 4: de artikelen 4.1c, eerste lid, onder l, 4.58, 4.59, 4.60, eerste en derde lid, 4.61, tweede lid, 4.61b, 4.105, 4.108, 4.109 en 4.110;  
 
 c. van hoofdstuk 6: de artikelen 6.27, 6.29 en 6.29a.     
 4.  Bij het stellen van een eis aan een werkgever of werknemer, waarop zowel afdeling 2 als afdeling 4 of 6 van hoofdstuk 1 van toepassing is, wordt het ter zake in afdeling 4 of 6 bepaalde in acht genomen.   
@@ -5853,12 +5885,9 @@ Vervallen per 01-01-2007
 
 ### Artikel  9.34  
 
-####Aanvullende inventarisatie en evaluatie van veiligheidsrisico's; arbeidsveiligheidsrapportage
+####Etikettering van mengsels op de arbeidsplaats
 
-1.  Artikel I, onderdelen A tot en met I, O, P, T en V van het Koninklijk besluit van 7 februari 2004 tot wijziging van het Arbeidsomstandighedenbesluit ter vervanging van de bepalingen met betrekking tot de arbeidsveiligheidsrapportage door aanvullende voorschriften met betrekking tot de risico-inventarisatie en -evaluatie en enige andere wijzigingen (Stb. 2004, 69) is tot twee jaar na de inwerkingtreding niet van toepassing tenzij dat besluit voor dat tijdstip wordt toegepast.   
-2.  Ten aanzien van bedrijven of inrichtingen waar op de dag van de inwerkingtreding van het besluit, bedoeld in het eerste lid, over een arbeidsveiligheidsrapport als bedoeld in artikel 2.2b, zoals dat artikel luidde op de dag voor de inwerkingtreding van voornoemd besluit, wordt beschikt, is, in afwijking van het eerste lid, het voornoemde besluit niet van toepassing tot het tijdstip waarop het arbeidsveiligheidsrapport had behoren te worden herzien op grond van artikel 2.2b, tweede lid, zoals dat artikel luidde op de dag voor de inwerkingtreding van voornoemd besluit, doch uiterlijk tot vijf jaar na het tijdstip waarop het arbeidsveiligheidsrapport volledig is herzien en in zijn geheel aan de daartoe aangewezen toezichthouder is toegezonden, tenzij dat besluit voor dat tijdstip wordt toegepast.   
-3.  De melding, bedoeld in artikel 2.5g, eerste lid, ten aanzien van bedrijven of inrichtingen die in bedrijf zijn op de dag waarop het besluit, bedoeld in het eerste lid, ingevolge het eerste of het tweede lid wordt toegepast, vindt plaats binnen zes weken na de toepassing van voornoemd besluit.   
-4.  Het Arbeidsomstandighedenbesluit zoals dat luidde op de dag voor de inwerkingtreding van het besluit, bedoeld in het eerste lid, is van toepassing tot het tijdstip waarop ingevolge het eerste of het tweede lid het laatstgenoemde besluit wordt toegepast.  
+Mengsels die vóór 1 juni 2015 op de arbeidsplaats aanwezig zijn of op of na die datum met inachtneming van artikel 61, vierde lid, tweede zin, van de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels aan de werkgever of de werkgever die werknemers plaatsonafhankelijke arbeid laat verrichten worden geleverd voor gebruik op de arbeidsplaats mogen in afwijking van de artikelen 1.46, vierde lid, of 4.1d, eerste lid, tot en met 31 mei 2017 zijn voorzien van de gevarencategorieën, bedoeld in richtlijn 1999/45/EG van het Europees Parlement en de Raad van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (PbEG 1999, L 200). 
 
 ### Artikel  9.37  
 

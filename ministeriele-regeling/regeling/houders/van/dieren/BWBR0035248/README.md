@@ -547,7 +547,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ####Verschuldigde bedragen
 
-Voor de aanmelding, bedoeld in art. 3.8, eerste lid, van het besluit en de melding bedoeld in artikel 3.8, vijfde lid, van het besluit, is jaarlijks een bedrag verschuldigd van € 19,00. 
+Voor de aanmelding, bedoeld in art. 3.8, eerste lid, van het besluit is jaarlijks een bedrag verschuldigd van € 19,00. 
 
 ### Artikel  8.3  
 
@@ -612,7 +612,7 @@ De volgende diergroepen, bedoeld in artikel 3.11, eerste lid, van het besluit, w
 
 ####Vermelden diergroep op diploma
 
-De resultatenlijst behorend bij een diploma van het kwalificatiedossier, Crebocode 97790 en 97791, bedoeld in bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012, vermeldt de diergroep, bedoeld in artikel 6 van deze regeling, waarvoor het onderwijs is genoten. 
+De resultatenlijst behorend bij een diploma van het kwalificatiedossier, Crebocode 97790 en 97791, bedoeld in bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012, vermeldt de diergroep, bedoeld in artikel 8.6 van deze regeling, waarvoor het onderwijs is genoten. 
 
 ### Artikel  8.8  
 
@@ -687,15 +687,33 @@ e. Siberian husky, mits bij de honden geen pijn of letsel wordt veroorzaakt en d
 
 ### Artikel  9.2  
 
-####Verbodsbepaling
+####Toelating krachttoestel
 
-Als voorschrift van een EU-verordening als bedoeld in artikel 6.2, eerste lid, van de wet wordt aangewezen: artikel 18 van verordening (EG) nr. 178/2002 van het Europees Parlement en de Raad van 28 januari 2002, tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden, voor houders van productiedieren die gehouden worden voor de voedselproductie (PbEG 2002 L 31). 
+1.  Als krachttoestel als bedoeld in artikel 2.1, tweede lid, onderdeel c, van de wet is toegelaten een krachttoestel dat voldoet aan de volgende eisen: 
+
+a. het toestel is te stabiliseren tegen de achterhand van een staande of liggende koe;  
+
+b. het toestel beschikt over een flexibele tweedelige beugel die om de achterhand van de koe past;  
+
+c. de bevestiging van de stang aan de beugel maakt variatie in trekrichting mogelijk;  
+
+d. de lengte van de stang bedraagt 1,8 tot 2 meter;  
+
+e. de trekkracht van de stang is tijdelijk te verminderen zonder afkoppelen of afglijden van het toestel;  
+
+f. het toestel is eenvoudig te reinigen en te desinfecteren, en  
+
+g. het toestel bevat een trekkrachtindicator.     
+2.  Het gebruik van het in het eerste lid bedoelde krachttoestel is uitsluitend toegestaan bij een niet vorderende partus bij een normale voorwaartse of achterwaartse ligging van het kalf, indien: 
+
+a. de koe niet eigenmachtig de geboorte kan voltooien, en  
+
+b. redelijkerwijs vaginale verlossing mogelijk is.     
+3.  In afwijking van het eerste lid, is tot 1 januari 2025 een krachttoestel toegelaten dat voldoet aan de eisen, genoemd in onderdelen a tot en met f, indien deze is aangeschaft vóór 1 juli 2015.  
 
 ### Artikel  9.3  
 
 ####Verbodsbepaling
-
-Treedt in werking per 01-07-2015 
 
 Als voorschrift van een EU-verordening als bedoeld in artikel 6.2, eerste lid, van de wet wordt aangewezen: artikel 18 van verordening (EG) nr. 178/2002 van het Europees Parlement en de Raad van 28 januari 2002, tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden, voor houders van productiedieren die gehouden worden voor de voedselproductie (PbEG 2002 L 31). 
 

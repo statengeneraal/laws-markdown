@@ -43,11 +43,11 @@ d. de overige rechtspersonen met een wettelijke taak.
 
 *Individuele referentiewaarde:* de waarde van het voor een individuele gemeente, provincie en waterschap geldende aandeel in het EMU-saldo.  
 
-*Meerjarencijfers:* de ramingen van de uitgaven en de ontvangsten van de vier op het begrotingsjaar aansluitende jaren, bedoeld in [artikel 13, onder c, van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).  
+*Meerjarencijfers:* de ramingen van de uitgaven en de ontvangsten van de vier op het begrotingsjaar aansluitende jaren, bedoeld in artikel 13, onder c, van de Comptabiliteitswet 2001.  
 
 *MTO voor het structureel EMU-saldo:* de middellangetermijndoelstelling voor het structureel EMU-saldo van de lidstaat Nederland.  
 
-*Overige rechtspersonen met een wettelijke taak:* de rechtspersonen, voor zover die een bij of krachtens de wet geregelde taak uitoefenen en daartoe geheel of gedeeltelijk worden bekostigd uit de opbrengst van bij of krachtens de wet ingestelde heffingen, bedoeld in [artikel 91, eerste lid, onder d, van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), met uitzondering van de decentrale overheden en de sociale fondsen.  
+*Overige rechtspersonen met een wettelijke taak:* de rechtspersonen, voor zover die een bij of krachtens de wet geregelde taak uitoefenen en daartoe geheel of gedeeltelijk worden bekostigd uit de opbrengst van bij of krachtens de wet ingestelde heffingen, bedoeld in artikel 91, eerste lid, onder d, van de Comptabiliteitswet 2001, met uitzondering van de decentrale overheden en de sociale fondsen.  
 
 *Rijksdienst:* het organisatorische geheel van de ministeries en de andere staatsorganen waarvan de uitgaven en de ontvangsten worden opgenomen in de Rijksbegroting.  
 
@@ -62,7 +62,7 @@ d. de overige rechtspersonen met een wettelijke taak.
 1.  Onze Minister van Financiën voert trendmatig begrotingsbeleid met betrekking tot de uitgaven en de ontvangsten van de rijksdienst en de sociale fondsen.   
 2.  Het trendmatig begrotingsbeleid wordt gevoerd: 
 
-a. met inachtneming van vaste kaders voor de uitgaven en de niet-belastingontvangsten binnen de budgetdisciplinesectoren, bedoeld in [artikel 13, onder a, van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md);  
+a. met inachtneming van vaste kaders voor de uitgaven en de niet-belastingontvangsten binnen de budgetdisciplinesectoren, bedoeld in artikel 13, onder a, van de Comptabiliteitswet 2001;  
 
 b. met inachtneming van het uitgangspunt van automatische stabilisatie voor de belastingontvangsten en sociale premies, en  
 
@@ -145,11 +145,11 @@ b. het gerealiseerde collectieve aandeel kleiner is dan nul en;
 c. meerjarig geen zicht is op niet overschrijden van het in artikel 3, zesde lid, bedoelde collectieve aandeel.     
 2.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan op voorstel van Onze Minister van Financiën en na bestuurlijk overleg een korting toepassen op de algemene uitkering van het provinciefonds respectievelijk het gemeentefonds met betrekking tot het jaar volgend op het jaar waarin de korting wordt opgelegd, indien in enig jaar het gerealiseerde collectieve aandeel in het EMU-tekort van de provincies gezamenlijk respectievelijk van de gemeenten gezamenlijk het vastgestelde aandeel, bedoeld in artikel 3, zesde lid, overschrijdt.   
 3.  Artikel 7, tweede tot en met vijfde lid, zijn van overeenkomstige toepassing op de korting, bedoeld in het tweede lid.   
-4.  De korting, bedoeld in het tweede lid, heeft gedurende maximaal drie jaar het karakter van een renteloos depot, bedraagt maximaal het bedrag van de geconstateerde overschrijding en wordt aangehouden als een begrotingsreserve als bedoeld in [artikel 5, vierde lid, van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).   
+4.  De korting, bedoeld in het tweede lid, heeft gedurende maximaal drie jaar het karakter van een renteloos depot, bedraagt maximaal het bedrag van de geconstateerde overschrijding en wordt aangehouden als een begrotingsreserve als bedoeld in artikel 5, vierde lid, van de Comptabiliteitswet 2001.   
 5.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties geeft, op voorstel van Onze Minister van Financiën en na bestuurlijk overleg, de begrotingsreserve vrij in het vierde jaar na het jaar waarin de korting aan het gemeentefonds of provinciefonds werd opgelegd, indien er gedurende de periode van drie jaar twee jaar geen sprake is van een overschrijding.   
 6.  Indien de begrotingsreserve niet wordt vrijgegeven, vervalt de reserve aan ’s Rijks schatkist.   
 7.  Onze Minister van Infrastructuur en Milieu kan, op voorstel van Onze Minister van Financiën en na bestuurlijk overleg, een boete opleggen aan de waterschappen die aan de overschrijding hebben bijgedragen, indien in enig jaar het gerealiseerde collectieve aandeel in het EMU-tekort van de waterschappen gezamenlijk het vastgestelde aandeel, bedoeld in artikel 3, zesde lid, overschrijdt.   
-8.  De boete, bedoeld in het zevende lid, heeft gedurende maximaal drie jaar het karakter van een renteloos depot, bedraagt maximaal het bedrag van de geconstateerde overschrijding en wordt aangehouden als een begrotingsreserve als bedoeld in [artikel 5, vierde lid, van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md). Het vijfde lid en het zesde lid zijn met betrekking tot de bedoelde begrotingsreserve van overeenkomstige toepassing.  
+8.  De boete, bedoeld in het zevende lid, heeft gedurende maximaal drie jaar het karakter van een renteloos depot, bedraagt maximaal het bedrag van de geconstateerde overschrijding en wordt aangehouden als een begrotingsreserve als bedoeld in artikel 5, vierde lid, van de Comptabiliteitswet 2001. Het vijfde lid en het zesde lid zijn met betrekking tot de bedoelde begrotingsreserve van overeenkomstige toepassing.  
 
 ### Artikel  7  
 
@@ -163,14 +163,14 @@ b. het collectieve aandeel van de decentrale overheden in het EMU-saldo meer bed
 2.  Na bestuurlijk overleg wordt bij een wet tot vaststelling of tot wijziging van de begrotingsstaat van het provinciefonds, van het gemeentefonds dan wel van het Ministerie van Infrastructuur en Milieu vastgesteld welk deel van de boete dan wel van de rentedervingskosten van de in het eerste lid bedoelde sancties wordt toegerekend aan de provincies gezamenlijk, de gemeenten gezamenlijk, dan wel de waterschappen gezamenlijk. Bij de toerekening wordt in ieder geval gelet op hoogte en de duur van het EMU-tekort van Nederland en op de mate en de duur van de overschrijding van de in artikel 3, zesde lid, bedoelde collectieve aandelen.   
 3.  De boete dan wel de rentedervingskosten voor de provincies gezamenlijk onderscheidenlijk de gemeenten gezamenlijk worden ten laste gebracht van de algemene uitkering van het provinciefonds respectievelijk het gemeentefonds. Voor de waterschappen wordt de boete dan wel worden de rentedervingskosten ten laste gebracht van de individuele waterschappen.   
 4.  Onze betrokken Ministers, kunnen, na bestuurlijk overleg, besluiten een in het eerste lid bedoelde boete geheel of gedeeltelijk toe te rekenen aan een provincie, een gemeente of een waterschap.   
-5.  Het toegerekende deel van de in het vierde lid bedoelde boete, wordt in mindering gebracht op de uitkering waar de desbetreffende provincie dan wel gemeente op grond van de [Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) aanspraak op heeft, dan wel ten laste gebracht van het desbetreffende waterschap.  
+5.  Het toegerekende deel van de in het vierde lid bedoelde boete, wordt in mindering gebracht op de uitkering waar de desbetreffende provincie dan wel gemeente op grond van de Financiële-verhoudingswet aanspraak op heeft, dan wel ten laste gebracht van het desbetreffende waterschap.  
 
 ### Artikel  8  
 
 ####: NL-sanctie voor overige rechtspersonen met een wettelijke taak
 
 1.  Onze Minister van Financiën kan, in overeenstemming met Onze betrokken Minister, bedoeld in artikel 4, tweede lid, een boete opleggen aan een rechtspersoon als bedoeld in dat artikellid, indien de rechtspersoon ondanks de onthouden instemming zijn voornemen tot het aantrekken van een lening uitvoert.   
-2.  De boete heeft het karakter van een renteloos depot, bedraagt maximaal het bedrag van de aangetrokken lening en wordt aangehouden als een begrotingsreserve als bedoeld in [artikel 5, vierde lid, van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), gekoppeld aan een begrotingsartikel van de begroting van het Ministerie van Financiën.   
+2.  De boete heeft het karakter van een renteloos depot, bedraagt maximaal het bedrag van de aangetrokken lening en wordt aangehouden als een begrotingsreserve als bedoeld in artikel 5, vierde lid, van de Comptabiliteitswet 2001, gekoppeld aan een begrotingsartikel van de begroting van het Ministerie van Financiën.   
 3.  Onze Minister van Financiën beoordeelt jaarlijks, in overeenstemming met Onze in het eerste lid bedoelde betrokken Minister, of het vrijgeven van het depot past in het beleid ten aanzien van de gelijkwaardige inspanning die de betrokken rechtspersoon op grond van artikel 3, eerste lid, geacht wordt te leveren aan het respecteren van de normen, bedoeld in artikel 2, derde lid. Het vrijgeven van het depot vindt plaats zo spoedig mogelijk als passend is in het hier bedoelde beleid.  
 
 ### Artikel  9  

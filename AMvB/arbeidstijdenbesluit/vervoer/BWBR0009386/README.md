@@ -103,7 +103,7 @@ c. een taxi, niet zijnde een ambulance.
 
 ### Artikel  2.3:2  
 
-1.  Dit hoofdstuk is niet van toepassing op vervoer met voertuigen als bedoeld in artikel 3, onder b tot en met i, van verordening (EG) nr. 561/2006.  
+1.  Dit hoofdstuk is niet van toepassing op vervoer met voertuigen als bedoeld in artikel 3, onder a bis tot en met i, van verordening (EG) nr. 561/2006.  
 2.  Dit hoofdstuk is, behoudens artikel 2.7:4, niet van toepassing op arbeid, verricht door een jeugdige werknemer.    
 3.  De artikelen 2.4:1, derde lid, 2.4:13, tweede tot en met vierde lid, 2.5:1, 2.5:3 en 2.5:6 zijn niet van toepassing op vervoer als bedoeld in artikel 13, eerste lid, onder a, b, c, d, g, h, j, k, l, m, n en p, van verordening (EG) nr. 561/2006.  
 4. De artikelen 2.4:1, derde lid, 2.5:1, 2.5:3 en 2.5:6 zijn niet van toepassing op vervoer als bedoeld in artikel 13, eerste lid, onderdeel o, van verordening (EG) nr. 561/2006 voor zover het betreft voertuigen binnen hubfaciliteiten voor zover dit vervoer binnen een straal van 5 kilometer plaatsvindt. 

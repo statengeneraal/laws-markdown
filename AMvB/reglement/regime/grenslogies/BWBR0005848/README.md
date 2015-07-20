@@ -19,15 +19,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Dit besluit heeft betrekking op de ruimten als bedoeld in [artikel 6, derde lid, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) die door Onze Minister als zodanig zijn aangewezen en zijn bestemd voor de opname van vreemdelingen als bedoeld in het eerste lid van voornoemd artikel. 
+Dit besluit heeft betrekking op de ruimten als bedoeld in artikel 6, derde lid, van de Vreemdelingenwet 2000 die door Onze Minister als zodanig zijn aangewezen en zijn bestemd voor de opname van vreemdelingen als bedoeld in het eerste lid van voornoemd artikel. 
 
 ### Artikel  2  
 
 Voor de toepassing van dit besluit wordt verstaan onder:  
 
-1. «Grenslogies»: een ruimte als bedoeld in [artikel 6, derde lid, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).  
+1. «Grenslogies»: een ruimte als bedoeld in artikel 6, derde lid, van de Vreemdelingenwet 2000.  
 
-2. «Vreemdeling»: een persoon als bedoeld in [artikel 1 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) die ingevolge artikel 6, eerste lid, dan wel enige andere bepaling bij of krachtens deze wet is gehouden te verblijven in een grenslogies.  
+2. «Vreemdeling»: een persoon als bedoeld in artikel 1 van de Vreemdelingenwet 2000 die ingevolge artikel 6, eerste lid, dan wel enige andere bepaling bij of krachtens deze wet is gehouden te verblijven in een grenslogies.  
 
 3. "Onze Minister": Onze Minister van Justitie.   
 
@@ -79,7 +79,7 @@ d. voor eigen rekening te telefoneren.
 a. indien hij hierom verzoekt;  
 
 b. indien en voor zolang als dit volstrekt noodzakelijk is teneinde zijn verblijf te verzekeren dan wel de veiligheid en orde in het grenslogies te handhaven.     
-3.   Indien de tenuitvoerlegging van de in het tweede lid onder *b* bedoelde afzondering in het grenslogies op ernstige bezwaren stuit kan de directeur bevelen dat de afzondering in een andere ruimte als bedoeld in [artikel 6, eerste lid, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) wordt ondergaan.   
+3.   Indien de tenuitvoerlegging van de in het tweede lid onder *b* bedoelde afzondering in het grenslogies op ernstige bezwaren stuit kan de directeur bevelen dat de afzondering in een andere ruimte als bedoeld in artikel 6, eerste lid, van de Vreemdelingenwet 2000 wordt ondergaan.   
 4.   Alvorens de vreemdeling in afzondering wordt geplaatst op de grond als bedoeld onder *b* van het tweede lid, hoort de directeur hem, tenzij de veiligheid en orde in de inrichting dit niet toelaten of communicatie met hem niet mogelijk is.  
 
 ### Artikel  8  

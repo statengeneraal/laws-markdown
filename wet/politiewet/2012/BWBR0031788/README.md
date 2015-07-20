@@ -314,8 +314,8 @@ b. overeenkomsten aan te gaan waarbij hij zich verbindt tot zekerheidstelling me
 
 ### Artikel  30  
 
-1.  Bij ministeriële regeling worden regels gesteld over het financieel beheer van de politie.   
-2.  Bij ministeriële regeling worden regels gesteld over het beheer van de politie door de korpschef.  
+1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het beheer van de politie. De voordracht voor een krachtens dit lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
+2.  Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister in overeenstemming met Onze Minister van Financiën, worden regels gesteld over het financieel beheer van de politie. De voordracht voor een krachtens dit lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
 
 ### Artikel  31  
 

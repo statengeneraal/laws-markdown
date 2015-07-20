@@ -69,7 +69,7 @@ Wijzigt de Wet luchtvaart.
 
 ####(Wijziging Wet luchtvaart i.v.m. regionaliseren van de luchthaven Twenthe)
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 Wijzigt de Wet luchtvaart. 
 

@@ -37,10 +37,10 @@ De deelnemende instellingen van onderwijs, zoals genoemd in het convenant, bepal
 
 ####Toekenning studiefinanciering
 
-a. De student komt alleen in aanmerking voor 12 maanden extra prestatiebeurs als aan de overige vereisten van de [WSF 2000](../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) wordt voldaan.
+a. De student komt alleen in aanmerking voor 12 maanden extra prestatiebeurs als aan de overige vereisten van de WSF 2000 wordt voldaan.
 b. Indien de student zich -naar later blijkt- niet heeft ingeschreven voor de betreffende opleiding of zich tussentijds uitschrijft voor die opleiding, vervalt het recht op de extra 12 maanden prestatiebeurs in zijn geheel.
 c. De student komt alleen in aanmerking voor omzetting van de extra 12 maanden prestatiebeurs indien binnen de diplomatermijn het afsluitende examen van de kopopleiding wordt gehaald.
-d. In afwijking van [artikel 5.2, tweede lid, WSF 2000](../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) is omzetting van de extra 12 maanden ook mogelijk indien reeds eerder een omzetting van prestatiebeurs in een gift heeft plaatsgevonden.
+d. In afwijking van artikel 5.2, tweede lid, WSF 2000 is omzetting van de extra 12 maanden ook mogelijk indien reeds eerder een omzetting van prestatiebeurs in een gift heeft plaatsgevonden.
 
 ###Artikel 5 
 
