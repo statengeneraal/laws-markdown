@@ -53,7 +53,7 @@ f. overheadkosten, welke ten hoogste 50% van de personeelskosten mogen bedragen.
 
 ### Artikel  3  
 
-1.  Het bedrag, bedoeld in artikel 2, tweede lid, bedraagt met ingang van 1 januari 1999 ten hoogste € 41 per 1 januari 2014: € 58.    
+1.  Het bedrag, bedoeld in artikel 2, tweede lid, bedraagt met ingang van 1 januari 1999 ten hoogste € 41 per 1 januari 2015: € 59.    
 2.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties past jaarlijks het bedrag, bedoeld in het eerste lid, aan overeenkomstig de procentuele wijziging die de consumentenprijsindex over de maand april van het lopende kalenderjaar heeft ondergaan ten opzichte van dit prijsindexcijfer over de maand april van het daaraan voorafgaande jaar. De uitkomst van die berekening wordt naar boven afgerond op hele euro’s. Het aldus berekende bedrag wordt door Onze voornoemde Minister voor 1 september in de Staatscourant bekend gemaakt en geldt voor het daarop volgende kalenderjaar.    
 3.  Onder de consumentenprijsindex wordt verstaan de consumentenprijsindexcijfer reeks: Alle Huishoudens, totaal, op meest recente tijdsbasis, zoals dat wordt berekend door het Centraal Bureau voor de Statistiek en gepubliceerd in het Statistisch bulletin van het Centraal Bureau voor de Statistiek.   
 

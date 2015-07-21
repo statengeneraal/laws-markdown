@@ -62,12 +62,12 @@ Het Mandaatbesluit DGJS Ministerie van Veiligheid en Justitie 2015 wordt ingetro
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. 
 
-### Artikel  8*  
+### Artikel  9  
 
 Dit besluit wordt aangehaald als: Mandaatbesluit DGSenB Ministerie van Veiligheid en Justitie 2015. 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst. Bijlage 1 en 2 bij dit besluit liggen bij het Ministerie van Veiligheid en Justitie ter inzage.  
 
-De directeur-generaal Straffen en Beschermen van het Ministerie van Veiligheid en Justitie, 
+De directeur-generaal Straffen en Beschermen van het Ministerie van Veiligheid en Justitie 
 M.C.A. Blom    
 
 ###Bijlage 1 

@@ -42,8 +42,6 @@ luchtvaartuig: hetgeen daaronder wordt verstaan in artikel 1, eerste lid, onder 
 
 mijnbouwinstallatie: hetgeen daaronder wordt verstaan in artikel 1, onderdeel o, van de Mijnbouwwet;  
 
-minderjarigheid: hetgeen daaronder wordt verstaan in artikel 233 van Boek 1 van het Burgerlijk Wetboek;  
-
 richtlijn langdurig ingezetenen: richtlijn nr. 2003/109/EG van de Raad van de Europese Unie van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU 2004, L16), zoals gewijzigd door richtlijn 2011/51/EU van het Europees Parlement en de Raad teneinde haar werkingssfeer uit te breiden tot personen die internationale bescherming genieten (PbEU 2011, L 132);  
 
 richtlijn 2005/71/EG: richtlijn 2005/71/EG van de Raad van 12 oktober 2005 betreffende een specifieke procedure voor de toelating van onderdanen van derde landen met het oog op wetenschappelijk onderzoek (PbEU L 289);  
@@ -520,8 +518,35 @@ d. een garantstelling door een derde die daartoe solvabel is.
 
 ### Artikel  3.1  
 
-1.  Het indienen van een aanvraag tot het verlenen, wijzigen of verlengen van een verblijfsvergunning heeft tot gevolg dat de uitzetting achterwege blijft, tenzij de aanvraag naar het voorlopig oordeel van Onze Minister een herhaalde aanvraag betreft.   
-2.  Uitzetting blijft niet achterwege, indien de aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 14 van de Wet, naar het voorlopig oordeel van Onze Minister, op grond van de Wet kan worden afgewezen op de grond dat de vreemdeling een gevaar vormt voor de openbare orde of nationale veiligheid.  
+1.  Het indienen van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 14 van de Wet, alsmede het indienen van een aanvraag tot het wijzigen of verlengen van een verblijfsvergunning als bedoeld in artikel 14 of 28 van de Wet heeft tot gevolg dat de uitzetting achterwege blijft, tenzij: 
+
+a. de aanvraag naar het voorlopig oordeel van Onze Minister een herhaalde aanvraag betreft; of  
+
+b. de aanvraag naar het voorlopig oordeel van Onze Minister kan worden afgewezen op de grond dat de vreemdeling een gevaar vormt voor de openbare orde of nationale veiligheid.     
+2.  Het indienen van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 28 van de Wet heeft tot gevolg dat de uitzetting achterwege blijft, tenzij: 
+
+a. de vreemdeling een opvolgende aanvraag heeft ingediend nadat een eerdere opvolgende aanvraag definitief niet-ontvankelijk is verklaard met toepassing van artikel 30a, eerste lid, onderdeel d, van de Wet of definitief als kennelijk ongegrond of als ongegrond is afgewezen met toepassing van artikel 30b of 31 van de Wet, en geen nieuwe elementen of bevindingen aan de orde zijn gekomen die relevant kunnen zijn voor de beoordeling van de aanvraag;  
+
+b. een eerdere aanvraag niet in behandeling is genomen op grond van artikel 30 van de Wet en geen nieuwe elementen of bevindingen aan de orde zijn gekomen die relevant kunnen zijn voor de beoordeling van de aanvraag;  
+
+c. de vreemdeling die de aanvraag heeft ingediend, wordt overgeleverd of uitgeleverd hetzij aan een andere lidstaat uit hoofde van verplichtingen overeenkomstig een Europees aanhoudingsbevel of anderszins, hetzij aan internationale strafhoven of tribunalen;  
+
+d. de vreemdeling die de aanvraag heeft ingediend, wordt overgeleverd of uitgeleverd aan een derde land; of  
+
+e. de vreemdeling een eerste opvolgende aanvraag heeft ingediend louter teneinde de uitvoering van het terugkeerbesluit te vertragen of te verhinderen en de aanvraag niet-ontvankelijk kan worden verklaard op grond van artikel 30a, eerste lid, onderdeel d, van de Wet.     
+3.  De uitzonderingen, bedoeld in het tweede lid zijn niet van toepassing, indien uitzetting zou leiden tot een schending van het Vluchtelingenverdrag, Unierechtelijke verplichtingen, het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden of het Verdrag tegen foltering en andere wrede onmenselijke of onterende behandeling of bestraffing.   
+4.  Bij de beoordeling of sprake is van een aanvraag die louter is ingediend teneinde de uitvoering van het terugkeerbesluit te vertragen of te verhinderen als bedoeld in het tweede lid, onderdeel e, worden alle omstandigheden van het geval betrokken, waaronder met name: 
+
+a. de termijn waarbinnen de vreemdeling zijn aanvraag om een verblijfsvergunning als bedoeld in artikel 28 van de Wet kenbaar heeft gemaakt in het licht van zijn verklaringen hieromtrent;  
+
+b. de omstandigheden waaronder de vreemdeling is aangetroffen dan wel zijn aanvraag kenbaar heeft gemaakt;  
+
+c. of de vreemdeling in het Schengeninformatiesysteem ter zake van een inreisverbod gesignaleerd staat;  
+
+d. de gestelde nationaliteit in het licht van de toepassing van artikel 30b, eerste lid, onder b van de Wet;  
+
+e. de onderbouwing van de aanvraag.     
+5.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de wijze waarop wordt beoordeeld of sprake is van een situatie als bedoeld in het tweede lid en de wijze waarop een beslissing hieromtrent bekend wordt gemaakt.  
 
 ###Artikel 3.1a 
 
@@ -538,7 +563,7 @@ d.een ander naast familielid is van de vreemdeling, bedoeld onder a, die ten tij
 e.behoort tot de bij regeling van Onze Minister aan te wijzen groep vreemdelingen uit hetzelfde land of dezelfde regio als de vreemdeling, bedoeld onder a, die om dezelfde reden ontheemd zijn en die niet reeds bescherming genieten in een ander land dat partij is bij het Verdrag betreffende de werking van de Europese Unie of de Overeenkomst betreffende de Europese Economische Ruimte. 
 2. In afwijking van het eerste lid kan Onze Minister bepalen dat uitzetting niet achterwege blijft, indien:
 
-a.de aanvraag met toepassing van artikel 30, eerste lid, onder a, van de wet wordt afgewezen;
+a. de aanvraag met toepassing van artikel 30 van de Wet niet in behandeling is genomen; 
 
 b.de vreemdeling reeds tijdelijke bescherming geniet in een ander land dat partij is bij het Verdrag betreffende de werking van de Europese Unie of de Overeenkomst betreffende de Europese Economische Ruimte;
 
@@ -724,7 +749,7 @@ a. aan de vreemdeling wiens uitzetting in strijd zou zijn met artikel 8 van het 
 b. onder een beperking verband houdend met tijdelijke humanitaire gronden aan de vreemdeling die slachtoffer-aangever, slachtoffer of getuige-aangever is van mensenhandel, bedoeld in artikel 3.48, eerste lid, onder a, b of c; of  
 
 c. onder een beperking verband houdend met tijdelijke humanitaire gronden als bedoeld in artikel 3.48, tweede lid, onder b.     
-2.  Het eerste lid is niet van toepassing, indien sprake is van afwijzing van de aanvraag ingevolge artikel 30, eerste lid, van de Wet.   
+2.  Het eerste lid is niet van toepassing, indien de aanvraag niet in behandeling is genomen op grond van artikel 30 van de Wet, niet-ontvankelijk is verklaard op grond van artikel 30a van de Wet of buiten behandeling is gesteld op grond van artikel 30c van de Wet.   
 3.  Indien de vreemdeling de eerste aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28 van de Wet, niet binnen zes maanden na de eerste inreis in Nederland heeft ingediend, kan een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 van de Wet uitsluitend op grond van het eerste lid, onder b, alsnog ambtshalve worden verleend.   
 4.  De verblijfsvergunning wordt verleend op de in het eerste lid als eerste genoemde van toepassing zijnde grond.   
 5.  Het eerste en het vierde lid zijn van overeenkomstige toepassing, indien de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28 van de Wet, wordt ingetrokken of de aanvraag tot het verlengen van de geldigheidsduur ervan wordt afgewezen.  
@@ -2041,6 +2066,12 @@ De verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28 van de Wet, wor
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de beoordeling of sprake is van omstandigheden als bedoeld in artikel 31, eerste lid, van de Wet.
 
+### Artikel  3.105ba  
+
+1.  Bij ministeriële regeling kan een lijst worden opgesteld van veilige landen van herkomst in de zin van de artikelen 36 en 37 van de Procedurerichtlijn.   
+2.  De beoordeling of een land een veilig land van herkomst is dient te stoelen op een reeks informatiebronnen, waaronder in het bijzonder informatie uit andere lidstaten, het Europees Ondersteuningsbureau voor asielzaken (EASO), de UNHCR, de Raad van Europa en andere relevante internationale organisaties.   
+3.  Onze Minister onderzoekt de situatie in derde landen die zijn aangemerkt als veilige landen van herkomst als bedoeld in het eerste lid regelmatig opnieuw.  
+
 ### Artikel 3.105c 
 
 Aan de vreemdeling die aannemelijk heeft gemaakt dat hij verdragsvluchteling als bedoeld in artikel 29, eerste lid, onder a, van de Wet is, kan verlening van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Wet op grond van die toelatingsgrond slechts worden geweigerd, indien:
@@ -2098,18 +2129,29 @@ e.de vreemdeling heeft aangezet tot of anderszins heeft deelgenomen aan de onder
 
 ###Artikel 3.106a 
 
-1. De aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Wet wordt slechts afgewezen op grond van artikel 30, eerste lid, onder d en e, of met toepassing van artikel 31, tweede lid, onder h, van de Wet indien, naar het oordeel van Onze Minister, alle relevante feiten en omstandigheden in aanmerking nemend, de vreemdeling in het betrokken derde land overeenkomstig de volgende beginselen zal worden behandeld:
+1. De aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Wet wordt slechts niet-ontvankelijk verklaard op grond van artikel 30a, eerste lid, onder a, b of c, van de Wet indien, naar het oordeel van Onze Minister, alle relevante feiten en omstandigheden in aanmerking nemend, de vreemdeling in het betrokken derde land overeenkomstig de volgende beginselen zal worden behandeld:
 
 a.het leven en de vrijheid worden niet bedreigd om redenen van ras, religie, nationaliteit, lidmaatschap van een bepaalde sociale groep of politieke overtuiging, en
 
-b.het beginsel van non-refoulement overeenkomstig het Vluchtelingenverdrag wordt nageleefd, en
+b. er bestaat geen risico op ernstige schade als bedoeld in artikel 29, eerste lid, onder b, van de Wet, en 
 
-c.het verbod op verwijdering in strijd met het recht op vrijwaring tegen foltering en andere wrede, onmenselijke of vernederende behandeling, zoals neergelegd in het internationaal recht, wordt nageleefd, en
+c.het beginsel van non-refoulement overeenkomstig het Vluchtelingenverdrag wordt nageleefd, en
 
-d.de mogelijkheid bestaat om om de vluchtelingenstatus te verzoeken en, indien hij als vluchteling wordt erkend, bescherming te ontvangen overeenkomstig het Vluchtelingenverdrag. 
-2. De aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Wet wordt slechts afgewezen op grond van artikel 30, eerste lid, onder d en e, of met toepassing van artikel 31, tweede lid, onder h, van de Wet indien de vreemdeling een zodanige band heeft met het betrokken derde land dat het voor hem redelijk zou zijn naar dat land te gaan. 
+d.het verbod op verwijdering in strijd met het recht op vrijwaring tegen foltering en andere wrede, onmenselijke of vernederende behandeling, zoals neergelegd in het internationaal recht, wordt nageleefd, en
+
+e.de mogelijkheid bestaat om om de vluchtelingenstatus te verzoeken en, indien hij als vluchteling wordt erkend, bescherming te ontvangen overeenkomstig het Vluchtelingenverdrag. 
+2. De aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Wet wordt slechts niet-ontvankelijk verklaard op grond van artikel 30a, eerste lid, onder a, b of c, van de Wet indien de vreemdeling een zodanige band heeft met het betrokken derde land dat het voor hem redelijk zou zijn naar dat land te gaan. 
 3. Bij de beoordeling of sprake is van een band als bedoeld in het tweede lid, worden alle relevante feiten en omstandigheden betrokken, waaronder begrepen de aard, duur en omstandigheden van het eerder verblijf. 
-4. Bij de beoordeling of de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Wet wordt afgewezen op grond van artikel 30, eerste lid, onder d en e, van de Wet, wordt mede betrokken het beroep van de vreemdeling inhoudende dat hij in het derde land zal worden blootgesteld aan foltering, wrede, onmenselijke of vernederende behandeling of bestraffing.
+4.  Bij ministeriële regeling worden nadere regels gesteld omtrent de toepassing van het eerste tot en met derde lid. 
+
+### Artikel  3.106b  
+
+1.  Een derde land kan voor een vreemdeling alleen als een veilig land van herkomst worden aangemerkt wanneer hij: 
+
+a. ofwel de nationaliteit van dat land heeft, ofwel staatloos is en voorheen in dat land zijn gewone verblijfplaats had; en  
+
+b. niet heeft onderbouwd dat het land in zijn specifieke omstandigheden niet als een veilig land van herkomst kan worden beschouwd ten aanzien van de vraag of hij voor internationale bescherming in aanmerking komt.     
+2.  Bij ministeriële regeling worden nadere regels gesteld omtrent de toepassing van het eerste lid.  
 
 ### Artikel  3.107  
 
@@ -2143,6 +2185,11 @@ e.op grond van artikel 6, eerste lid, onder a of b, van de Wet inburgering of da
 
 ####Procedurele bepalingen
 
+### Artikel  3.107b  
+
+1.  Wanneer een vreemdeling een verzoek om internationale bescherming als bedoeld in artikel 2, onder b, van de Procedurerichtlijn doet bij Onze Minister of bij een ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen, vindt de registratie plaats binnen drie werkdagen nadat het verzoek is gedaan.   
+2.  Wanneer het verzoek wordt gedaan bij een andere autoriteit, dient de registratie plaats te vinden binnen zes werkdagen nadat het verzoek is gedaan.  
+
 ### Artikel  3.108  
 
 1.  De aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 8, onder c en d, van de Wet, wordt door de vreemdeling of zijn wettelijk vertegenwoordiger in persoon ingediend op een door Onze Minister te bepalen plaats.   
@@ -2154,12 +2201,34 @@ e.op grond van artikel 6, eerste lid, onder a of b, van de Wet inburgering of da
 2.  De termijn voor het geven van de beschikking, bedoeld in het eerste lid, kan ten hoogste voor zes maanden worden verlengd indien naar het oordeel van Onze Minister voor de beoordeling van de aanvraag advies van of onderzoek door derden of het openbaar ministerie nodig is.   
 3.  De artikelen 43 en 43a van de Wet zijn van overeenkomstige toepassing.  
 
+### Artikel  3.108b  
+
+1.  Voorafgaand aan of tijdens het onderzoek naar de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28 van de Wet, wordt beoordeeld of de vreemdeling bijzondere procedurele waarborgen behoeft als bedoeld in artikel 24 van de Procedurerichtlijn.   
+2.  Indien de vreemdeling bijzondere procedurele waarborgen behoeft, wordt gedurende het onderzoek passende steun geboden.  
+
+### Artikel  3.108c  
+
+1.  De aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28 van de Wet, wordt door de vreemdeling onverwijld ingediend nadat hij op een door Onze Minister te bepalen wijze te kennen heeft gegeven die aanvraag in te willen dienen.   
+2.  De vreemdeling wordt in een taal die hij begrijpt of waarvan redelijkerwijze kan worden aangenomen dat hij deze begrijpt, ingelicht over: 
+
+a. de te volgen procedure;  
+
+b. zijn rechten en verplichtingen tijdens de procedure;  
+
+c. de gevolgen die kunnen ontstaan indien hij zijn verplichtingen niet nakomt of niet met Onze Minister samenwerkt;  
+
+d. de geldende termijnen;  
+
+e. de middelen waarover hij beschikt om te voldoen aan zijn verplichting tot het naar voren brengen van de in artikel 31, tweede tot en met vierde lid, van de Wet bedoelde elementen, en  
+
+f. de gevolgen van een intrekking van zijn aanvraag.    
+
 ### Artikel  3.109  
 
-1.  De aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28 van de Wet, wordt door de vreemdeling onverwijld ingediend nadat hij op een door Onze Minster te bepalen wijze, te kennen heeft gegeven die aanvraag in te willen dienen. Na de indiening van de aanvraag wordt de vreemdeling een rust- en voorbereidingstermijn gegeven van ten minste zes dagen. Het onderzoek, bedoeld in artikel 3.110, vangt na de rust- en voorbereidingstermijn aan.  
+1.   Na de indiening van de aanvraag, bedoeld in artikel 3.108c, eerste lid, wordt de vreemdeling een rust- en voorbereidingstermijn gegeven van ten minste zes dagen. Het onderzoek, bedoeld in artikel 3.110, vangt na de rust- en voorbereidingstermijn aan.  
 2.  Gedurende de rust- en voorbereidingstermijn wordt de vreemdeling in de gelegenheid gesteld om te worden voorgelicht over de asielprocedure en om zich op de asielprocedure voor te bereiden en zich daartoe te laten bijstaan. Aan de vreemdeling die de in het eerste lid bedoelde aanvraag heeft ingediend wordt tijdig mededeling gedaan van de hem toekomende bevoegdheid zich bij een gehoor als bedoeld in de artikelen 3.112, eerste lid en 3.113, tweede lid, te doen bijstaan.   
 3.  Gedurende de rust- en voorbereidingstermijn worden de vreemdeling van overheidswege geen vragen gesteld naar zijn asielmotieven.   
-4.  Gedurende de rust- en voorbereidingstermijn kan onderzoek plaatsvinden naar de identiteit, vingerafdrukken en nationaliteit van de vreemdeling, naar de bij hem aangetroffen of door hem overgelegde documenten en bescheiden, dan wel naar de vraag of artikel 30, eerste lid kan worden toegepast.  
+4.  Gedurende de rust- en voorbereidingstermijn kan onderzoek plaatsvinden naar de identiteit, vingerafdrukken en nationaliteit van de vreemdeling, naar de bij hem aangetroffen of door hem overgelegde documenten en bescheiden, dan wel naar de mogelijkheid van toepassing van artikel 30 of 30a, eerste lid, onderdeel a, b, c of e van de Wet.  
 5.  Van de vreemdeling die de in het eerste lid bedoelde aanvraag heeft ingediend, worden door Onze Minister een gezichtsopname gemaakt en vingerafdrukken afgenomen en opgeslagen. De vreemdeling verleent hieraan zijn medewerking.   
 6.  De vreemdeling die de in het eerste lid bedoelde aanvraag heeft ingediend wordt een medisch onderzoek aangeboden. Voor dit onderzoek is de schriftelijke toestemming van de vreemdeling vereist.   
 7.  In afwijking van het eerste lid wordt geen rust- en voorbereidingstermijn gegeven indien: 
@@ -2168,21 +2237,61 @@ a. de vreemdeling een gevaar vormt voor de openbare orde of nationale veiligheid
 
 b. de vreemdeling overlast bezorgt aan vreemdelingen die in een opvangvoorziening verblijven, aan personen die werkzaam zijn in de voorziening of aan anderen;  
 
-c. de vreemdeling rechtens zijn vrijheid is ontnomen op grond van artikel 59 of 59a van de Wet, tenzij de aanvraag wordt ingediend in een Aanmeldcentrum; of  
+c. de vreemdeling rechtens zijn vrijheid is ontnomen op grond van artikel 59b van de Wet, tenzij de aanvraag wordt ingediend in een Aanmeldcentrum; of  
 
 d. de vreemdeling de aanvraag heeft ingediend nadat tegen hem een overdrachtsbesluit is uitgevaardigd en hem rechtens zijn vrijheid is ontnomen op grond van artikel 6a of 59a van de Wet.   
+
+### Artikel  3.109a  
+
+1.  De vreemdeling kan gebruik maken van de diensten van een tolk tijdens de in deze paragraaf bedoelde gehoren en op andere momenten waarop dat noodzakelijk is om zijn zaak voor te leggen, indien een goede communicatie zonder die diensten niet kan worden gewaarborgd.   
+2.  De vreemdeling kan tijdens de procedure, indien gewenst, contact opnemen met de UNHCR of met een andere organisatie die juridisch advies of andere ondersteuning biedt.   
+3.  De vreemdeling en degene die hem vertegenwoordigt hebben toegang tot de informatie in het dossier op grond waarvan een beslissing is of zal worden genomen.   
+4.  Het derde lid is niet van toepassing wanneer de openbaarmaking van informatie of bronnen de nationale veiligheid, de veiligheid van de organisaties of personen die de informatie hebben verstrekt dan wel de veiligheid van de persoon of personen op wie de informatie betrekking heeft, in gevaar zou brengen, of wanneer het belang van het onderzoek in verband met de behandeling van aanvragen tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Wet door de bevoegde autoriteiten van de lidstaten of de internationale betrekkingen van de lidstaten zouden worden geschaad.  
+
+### Artikel  3.109b  
+
+1.  Indien een vreemdeling die niet voldoet aan de voorwaarden voor toegang tot Nederland, aan de grens te kennen geeft een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 28 van de Wet te willen indienen, vindt behandeling van de aanvraag in een grensprocedure plaats zolang redelijkerwijs kan worden aangenomen dat hierop kan worden besloten met toepassing van artikel 30, 30a of 30b van de Wet.   
+2.  Indien de aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in artikel 28 van de Wet, wordt behandeld in een grensprocedure, kan Onze Minister, in afwijking van artikel 3.109, eerste lid, het onderzoek na een kortere rust- en voorbereidingstermijn dan zes dagen aanvangen, mits de vreemdeling te kennen heeft gegeven hier prijs op te stellen.   
+3.  Indien naar het oordeel van Onze Minister geen sprake is van een aanvraag waarop vermoedelijk zal worden besloten tot toepassing van artikel 30, 30a of 30b van de Wet, wordt de behandeling van de aanvraag voortgezet onder opheffing van de maatregel, bedoeld in artikel 6, derde lid, van de Wet.   
+4.  Indien er sprake is van een situatie als bedoeld in het derde lid, wordt het onderzoek naar de aanvraag opgeschort.   
+5.  Indien het onderzoek naar de aanvraag is opgeschort als bedoeld in het vierde lid, wordt ten minste een dag voor hervatting van het onderzoek daarvan mededeling gedaan aan de vreemdeling.   
+6.  Het onderzoek wordt hervat op het punt waarop het is afgebroken.   
+7.  Aanvragen van alleenstaande minderjarige vreemdelingen worden niet behandeld in de grensprocedure.  
+
+### Artikel  3.109c  
+
+1.  Indien de aanvraag vermoedelijk niet in behandeling zal worden genomen op grond van artikel 30 van de Wet, zijn de artikelen 3.109, eerste, tweede, zesde en zevende lid, en 3.110 tot en met 3.118 niet van toepassing.   
+2.  Het schriftelijk voornemen om de aanvraag niet in behandeling te nemen wordt meegedeeld door uitreiking of toezending daarvan.   
+3.  De vreemdeling brengt zijn zienswijze op het in het tweede lid bedoelde voornemen schriftelijk naar voren uiterlijk binnen twee weken. Indien de vreemdeling rechtens zijn vrijheid is ontnomen wordt de zienswijze uiterlijk binnen een week schriftelijk naar voren gebracht.   
+4.  De termijn, bedoeld in het derde lid, vangt aan met ingang van de dag na die waarop het voornemen is uitgereikt of toegezonden.   
+5.  De schriftelijke zienswijze is tijdig bij Onze Minister ingediend, indien deze voor het einde van de termijn is ontvangen.   
+6.  Onze Minister houdt rekening met een na afloop van de termijn ontvangen schriftelijke zienswijze, indien de beschikking nog niet bekend is gemaakt en de afdoening van de zaak daardoor niet ontoelaatbaar wordt vertraagd. Het ontbreken van de schriftelijke zienswijze, na het verstrijken van de termijn waarbinnen de vreemdeling zijn zienswijze schriftelijk naar voren kan brengen, staat aan het geven van de beschikking niet in de weg.   
+7.  De beschikking wordt bekendgemaakt door uitreiking of toezending ervan.  
+
+### Artikel  3.109d  
+
+1.  De alleenstaande minderjarige vreemdeling wordt onmiddellijk in kennis gesteld van de aanwijzing van een persoon die hem bijstaat en vertegenwoordigt.   
+2.  Onze Minister kan in het kader van de behandeling van de aanvraag van een alleenstaande minderjarige vreemdeling tot het verlenen van een verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28 van de Wet, besluiten om door middel van een medisch onderzoek zijn gestelde minderjarigheid vast te stellen, wanneer Onze Minister, nadat er een algemene verklaring is afgelegd of andere relevante aanwijzingen zijn, twijfels heeft over diens leeftijd. Voor dit onderzoek is de schriftelijke toestemming van de vreemdeling vereist. Als het onderzoek deze twijfels niet wegneemt, wordt ervan uitgegaan dat de aanvrager minderjarig is.   
+3.  Indien een alleenstaande minderjarige vreemdeling weigert het in het eerste lid bedoelde medisch onderzoek te ondergaan, wordt de beslissing tot afwijzing van de aanvraag niet enkel op die weigering gebaseerd.   
+4.  Indien de aanvraag wordt ingediend door een alleenstaande minderjarige vreemdeling, wordt zijn wettelijk vertegenwoordiger, juridische adviseur of andere raadsman in de gelegenheid gesteld om bij het nader gehoor aanwezig te zijn.   
+5.  De wettelijk vertegenwoordiger, juridische adviseur of andere raadsman is bij het gehoor aanwezig en wordt in de gelegenheid gesteld aan het einde van het nader gehoor vragen te stellen of opmerkingen te maken.   
+6.  De aanvraag van een alleenstaande minderjarige vreemdeling kan uitsluitend met toepassing van artikel 30a, eerste lid, aanhef en onder c, van de Wet niet-ontvankelijk worden verklaard indien dit in het belang van de minderjarige is.  
+
+### Artikel  3.109e  
+
+1.  Indien Onze Minister het voor de beoordeling van de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28 van de Wet, relevant acht, biedt hij ook een medisch onderzoek aan naar aanwijzingen van vroegere vervolging of ernstige schade. Dit onderzoek wordt verricht door gekwalificeerde medische beroepsbeoefenaars. De vreemdeling wordt ervan in kennis gesteld dat hij op eigen initiatief en kosten een dergelijk onderzoek kan regelen.   
+2.  Het medisch onderzoek wordt niet uitgevoerd dan met toestemming van de vreemdeling.   
+3.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de uitvoering van het medisch onderzoek, bedoeld in het eerste lid.   
+4.  Indien de vreemdeling op eigen initiatief een medisch onderzoek naar aanwijzingen van vroegere vervolging of ernstige schade heeft laten verrichten, betrekt Onze Minister de resultaten ervan bij de beoordeling van de aanvraag.   
+5.  De resultaten van de in het eerste en vierde lid bedoelde medische onderzoeken worden door Onze Minister beoordeeld samen met de andere elementen van de aanvraag.   
+6.  Indien de vreemdeling een medisch onderzoek weigert of belemmert, dan wel geen inzage in het medisch onderzoek verleent aan Onze Minister, kan Onze Minister niettemin op de aanvraag beslissen.  
 
 ### Artikel  3.110  
 
 1.  Voor het onderzoek naar de aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28 van de Wet, zijn in een Aanmeldcentrum acht dagen beschikbaar.   
-2.  Onze Minister kan de in het eerste lid genoemde termijn verlengen. In dat geval zijn voor het onderzoek in een Aanmeldcentrum ten hoogste veertien dagen beschikbaar.   
+2.  Onze Minister kan de in het eerste lid genoemde termijn verlengen. In dat geval zijn voor het onderzoek in een Aanmeldcentrum ten hoogste veertien, zestien of tweeëntwintig dagen beschikbaar.   
 3.  Voor de termijnen, genoemd in het eerste en tweede lid, met uitzondering van het Aanmeldcentrum Schiphol, tellen de dagen gedurende het weekeinde en de dagen die bij of krachtens de Algemene termijnenwet zijn aangemerkt als algemeen erkende feestdagen niet mee, tenzij bij ministeriële regeling wordt bepaald dat deze wel meetellen.  
 4.  Onze Minister bepaalt met inachtneming van artikel 3.109, eerste lid, wanneer het onderzoek als bedoeld in het eerste lid aanvangt en deelt de dag van aanvang mede aan de vreemdeling. 
-
-### Artikel  3.111  
-
-1.  Bij de aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28 van de Wet, worden door de vreemdeling in persoon alle gegevens verstrekt, waaronder begrepen de relevante documenten, op basis waarvan in samenwerking met de vreemdeling beoordeeld kan worden of er een rechtsgrond voor verlening van de vergunning aanwezig is.   
-2.  Bij ministeriële regeling kunnen regels worden gesteld omtrent de verstrekking van de in het eerste lid bedoelde gegevens.  
 
 ### Artikel  3.112  
 
@@ -2194,15 +2303,18 @@ d. de vreemdeling de aanvraag heeft ingediend nadat tegen hem een overdrachtsbes
 ### Artikel  3.113  
 
 1.  Gedurende de tweede dag wordt de vreemdeling in staat gesteld zich op het nader gehoor voor te bereiden.   
-2.  Op de derde dag wordt de vreemdeling door Onze Minister aan een nader gehoor onderworpen.   
-3.  Van het nader gehoor wordt een schriftelijk verslag gemaakt. Een afschrift van het verslag van nader gehoor wordt op de derde dag aan de vreemdeling ter kennis gebracht.   
-4.  De vreemdeling kan uit eigen beweging of desgevraagd nadere gegevens verstrekken uiterlijk op de vierde dag. Het verslag van nader gehoor vermeldt deze termijn.   
-5.  In afwijking van het tweede lid blijft een nader gehoor in een Aanmeldcentrum achterwege: 
+2.  Op de derde dag wordt de vreemdeling door Onze Minister aan een nader gehoor onderworpen. Bij het afnemen van het nader gehoor wordt de vreemdeling in de gelegenheid gesteld om zo volledig mogelijk de tot staving van zijn aanvraag noodzakelijke elementen aan te voeren. Dit houdt onder meer in dat de vreemdeling in de gelegenheid wordt gesteld om uitleg te geven over eventueel ontbrekende elementen of over inconsistenties of tegenstrijdigheden in zijn verklaringen.   
+3.  Indien Onze Minister voornemens is de aanvraag niet-ontvankelijk te verklaren op grond van artikel 30a van de Wet, wordt de vreemdeling tijdens het nader gehoor in de gelegenheid gesteld zijn standpunt uiteen te zetten over de toepassing van de in artikel 30a, eerste lid, van de Wet bedoelde gronden op zijn specifieke omstandigheden.   
+4.  Van het nader gehoor wordt een schriftelijk verslag gemaakt. Een afschrift van het verslag van nader gehoor wordt op de derde dag aan de vreemdeling ter kennis gebracht.   
+5.  De vreemdeling wordt in de gelegenheid gesteld om uiterlijk op de vierde dag opmerkingen te maken of opheldering te verschaffen over verkeerd vertaalde passages of misvattingen in het verslag van het nader gehoor en nadere gegevens te verstrekken. De vreemdeling wordt daartoe volledig geïnformeerd over de inhoud van het verslag, zo nodig met bijstand van een tolk. De vreemdeling wordt verzocht uiterlijk op de vierde dag schriftelijk te bevestigen dat de inhoud van het verslag een correcte afspiegeling is van het nader gehoor. Het verslag van nader gehoor vermeldt deze termijn.   
+6.  Indien de vreemdeling weigert te bevestigen dat de inhoud van het verslag een correcte afspiegeling van het nader gehoor vormt, worden de redenen voor deze weigering in zijn dossier opgenomen. Die weigering belet Onze Minister niet om een beslissing op de aanvraag te nemen.   
+7.  In afwijking van het tweede lid blijft een nader gehoor in een Aanmeldcentrum achterwege: 
 
 a. indien de vreemdeling om medische redenen niet aan een nader gehoor kan worden onderworpen, of  
 
 b. ten aanzien van een alleenstaande minderjarige vreemdeling beneden de leeftijd van twaalf jaar.   Bij ministeriële regeling kunnen andere gevallen worden aangewezen waarin een nader gehoor in een Aanmeldcentrum achterwege blijft.   
-6.  Indien een nader gehoor in een Aanmeldcentrum achterwege is gebleven wordt de vreemdeling door Onze Minister zo spoedig mogelijk aan een nader gehoor onderworpen. Van het nader gehoor wordt een schriftelijk verslag gemaakt. Een afschrift van het verslag van nader gehoor wordt zo spoedig mogelijk aan de vreemdeling ter kennis gebracht. Het verslag van nader gehoor vermeldt de termijn waarbinnen de vreemdeling uit eigen beweging of desgevraagd nadere gegevens kan verstrekken. Deze termijn bedraagt ten minste twee dagen.  
+8.  Indien een nader gehoor in een Aanmeldcentrum achterwege is gebleven wordt de vreemdeling door Onze Minister zo spoedig mogelijk aan een nader gehoor onderworpen. Van het nader gehoor wordt een schriftelijk verslag gemaakt. Een afschrift van het verslag van nader gehoor wordt zo spoedig mogelijk aan de vreemdeling ter kennis gebracht. Het verslag van nader gehoor vermeldt de termijn waarbinnen de vreemdeling uit eigen beweging of desgevraagd nadere gegevens kan verstrekken. Deze termijn bedraagt ten minste twee dagen.   
+9.  Bij ministeriële regeling worden voorschriften gesteld omtrent het afnemen van het nader gehoor. 
 
 ### Artikel  3.114  
 
@@ -2217,27 +2329,31 @@ b. ten aanzien van een alleenstaande minderjarige vreemdeling beneden de leeftij
 
 1.  Onze Minister kan de in artikel 3.110, eerste lid, genoemde termijn verlengen: 
 
-a. in geval van overschrijding van de termijnen, bedoeld in de artikelen 3.112, eerste en derde lid, 3.113, tweede en derde lid, en 3.114, eerste en zesde lid, tenzij de overschrijding aan Onze Minister kan worden toegerekend;  
+a. in geval van overschrijding van de termijnen, bedoeld in de artikelen 3.112, eerste en derde lid, 3.113, tweede en vierde lid, en 3.114, eerste en zesde lid, tenzij de overschrijding aan Onze Minister kan worden toegerekend;  
 
-b. in geval van overschrijding van de termijnen, bedoeld in de artikelen 3.113, eerste en vierde lid, of 3.114, tweede lid, en de vreemdeling een met redenen omkleed verzoek om verlenging heeft ingediend, tenzij de overschrijding aan de vreemdeling kan worden toegerekend;  
+b. in geval van overschrijding van de termijnen, bedoeld in de artikelen 3.113, eerste en vijfde lid, of 3.114, tweede lid, en de vreemdeling een met redenen omkleed verzoek om verlenging heeft ingediend, tenzij de overschrijding aan de vreemdeling kan worden toegerekend;  
 
 c. indien naar het oordeel van Onze Minister nader onderzoek naar de identiteit of nationaliteit van de vreemdeling noodzakelijk is;  
 
-d. indien de vreemdeling zijn eerder tijdens het onderzoek afgelegde verklaringen essentieel wijzigt of aanvult; of  
+d. indien de vreemdeling zijn eerder tijdens het onderzoek afgelegde verklaringen essentieel wijzigt of aanvult;  
 
-e.indien naar het oordeel van Onze Minister nader onderzoek noodzakelijk is naar omstandigheden die verband houden met de gronden, bedoeld in de artikelen 3.6a, eerste lid, en 6.1e.   
+e.indien naar het oordeel van Onze Minister nader onderzoek noodzakelijk is naar omstandigheden die verband houden met de gronden, bedoeld in de artikelen 3.6a, eerste lid, en 6.1e;
+
+f. indien Onze Minister een medisch onderzoek heeft aangeboden als bedoeld in artikel 3.109e; of  
+
+g. indien de vreemdeling niet is verschenen bij een gehoor, dan wel is verdwenen of vertrokken zonder toestemming van Onze Minister.    
 2.  De vreemdeling wordt van de verlenging schriftelijk in kennis gesteld. Bij de kennisgeving wordt de reden van de verlenging aangegeven alsmede op welk moment de verlengde termijn eindigt.   
-3.  Indien Onze Minister de in artikel 3.110, eerste lid, genoemde termijn heeft verlengd en voornemens is de aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in artikel 28 van de Wet, af te wijzen binnen veertien dagen, wordt het schriftelijk voornemen daartoe aan de vreemdeling uitgereikt of toegezonden.   
+3.  Indien Onze Minister de in artikel 3.110, eerste lid, genoemde termijn heeft verlengd en voornemens is de aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in artikel 28 van de Wet, af te wijzen binnen veertien, zestien of tweeëntwintig dagen, wordt het schriftelijk voornemen daartoe aan de vreemdeling uitgereikt of toegezonden.   
 4.  De vreemdeling brengt zijn zienswijze uiterlijk op de dag na de uitreiking of toezending van het voornemen naar voren, tenzij een met redenen omkleed verzoek om verlenging van deze termijn wordt ingewilligd.   
 5.  Artikel 3.114, derde tot en met vijfde lid, is van toepassing.   
-6.  Onze Minister maakt de beschikking uiterlijk op de veertiende dag bekend door uitreiking of toezending ervan.   
+6.  Indien er sprake is van een situatie als bedoeld in het eerste lid, onderdeel a tot en met e maakt Onze Minister de beschikking uiterlijk op de veertiende dag bekend door uitreiking of toezending ervan. Indien er sprake is van een situatie als bedoeld in het eerste lid, onderdeel f, maakt Onze Minister de beschikking uiterlijk op de zestiende dag bekend door uitreiking of toezending ervan. Indien er sprake is van een situatie als bedoeld in het eerste lid, onderdeel g, maakt Onze Minister de beschikking uiterlijk op de tweeëntwintigste dag bekend door uitreiking of toezending ervan.   
 7.  Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent de toepassing van het eerste lid alsmede de wijze waarop het onderzoek naar de aanvraag wordt vervolgd indien de in artikel 3.110, eerste lid, genoemde termijn wordt verlengd.  
 
 ### Artikel  3.116  
 
 1.  Het schriftelijke voornemen om: 
 
-a. de aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in artikel 28 van de Wet, af te wijzen indien de termijnen, bedoeld in de artikelen 3.112, eerste en derde lid, 3.113, tweede en derde lid, of 3.114, eerste en zesde lid, dan wel de op grond van artikel 3.115, eerste lid, verlengde termijn, zijn overschreden;  
+a. de aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in artikel 28 van de Wet, af te wijzen indien de termijnen, bedoeld in de artikelen 3.112, eerste en derde lid, 3.113, tweede en vierde lid, of 3.114, eerste en zesde lid, dan wel de op grond van artikel 3.115, eerste lid, verlengde termijn, zijn overschreden;  
 
 b. de aanvraag tot het verlengen van de geldigheidsduur van de verblijfsvergunning, bedoeld in artikel 28 van de Wet, af te wijzen;  
 
@@ -2256,14 +2372,16 @@ b. in de gevallen, bedoeld in het eerste lid, onder b, c en d: zes weken.
 
 ### Artikel  3.117  
 
-1.  De termijnen, genoemd in de artikelen 3.112, 3.113, eerste tot en met vierde lid, en 3.114, zijn niet van toepassing op de aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in artikel 28 van de Wet, van de vreemdeling aan wie rechtens zijn vrijheid is ontnomen op grond van artikel 59 of 59a van de Wet terwijl de vrijheidsontneming voortduurt, tenzij de aanvraag is ingediend in een Aanmeldcentrum.   
+1.  De termijnen, genoemd in de artikelen 3.112, 3.113, eerste, tweede, vierde en vijfde lid, en 3.114, zijn niet van toepassing op de aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in artikel 28 van de Wet, van de vreemdeling aan wie rechtens zijn vrijheid is ontnomen op grond van artikel 59b van de Wet terwijl de vrijheidsontneming voortduurt, tenzij de aanvraag is ingediend in een Aanmeldcentrum.   
 2.  De vreemdeling wordt door Onze Minister zo spoedig mogelijk na de indiening van de aanvraag aan een eerste gehoor onderworpen.   
-3.  De vreemdeling wordt door Onze Minister zo spoedig mogelijk nadat een afschrift van de ingevulde vragenlijst, bedoeld in artikel 3.112, derde lid, aan hem ter kennis is gebracht, aan een nader gehoor onderworpen.   
-4.  Indien Onze Minister voornemens is de aanvraag af te wijzen, wordt het schriftelijk voornemen daartoe zo spoedig mogelijk uitgereikt of toegezonden.   
-5.  De vreemdeling brengt zijn zienswijze binnen twee weken schriftelijk naar voren.   
-6.  De termijn, bedoeld in het vijfde lid, vangt aan met ingang van de dag na die waarop het voornemen is uitgereikt of toegezonden.   
-7.  De schriftelijke zienswijze is tijdig bij Onze Minister ingediend, indien deze voor het einde van de termijn is ontvangen.   
-8.  Artikel 3.116, vijfde en zesde lid, zijn van toepassing.  
+3.  De vreemdeling wordt door Onze Minister zo spoedig mogelijk nadat een afschrift van de ingevulde vragenlijst, bedoeld in artikel 3.112, derde lid, aan hem ter kennis is gebracht, aan een nader gehoor onderworpen, waarbij wordt voldaan aan de in artikel 3.113, vierde tot en met zesde lid, gestelde vereisten.   
+4.  Het verslag van het nader gehoor vermeldt de termijn waarbinnen de vreemdeling in de gelegenheid wordt gesteld te voldoen aan het in artikel 3.113, vijfde lid, bepaalde.  
+5.  Indien Onze Minister voornemens is de aanvraag af te wijzen, wordt het schriftelijk voornemen daartoe zo spoedig mogelijk uitgereikt of toegezonden.   
+6.  De vreemdeling brengt zijn zienswijze binnen twee weken schriftelijk naar voren.   
+7.  De termijn, bedoeld in het vijfde lid, vangt aan met ingang van de dag na die waarop het voornemen is uitgereikt of toegezonden.   
+8.  De schriftelijke zienswijze is tijdig bij Onze Minister ingediend, indien deze voor het einde van de termijn is ontvangen.   
+9.  Artikel 3.116, vijfde en zesde lid, zijn van toepassing.   
+10.  Indien de vreemdeling rechtens zijn vrijheid is ontnomen op grond van artikel 59a, is artikel 3.109c van overeenkomstige toepassing. 
 
 ### Artikel  3.118  
 
@@ -2273,40 +2391,13 @@ a. de aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in artikel 2
 
 b. de aanvraag tot het verlengen van de geldigheidsduur van de verblijfsvergunning, bedoeld in artikel 28 van de Wet, af te wijzen, of  
 
-c. de aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in artikel 8, onder d, van de Wet, af te wijzen, terwijl de vreemdeling rechtens zijn vrijheid is ontnomen op grond van artikel 6, 6a, 59 of 59a van de Wet en de vrijheidsontneming voortduurt, wordt het schriftelijk voornemen daartoe uitgereikt of toegezonden.     
-2.  De artikelen 3.117, vijfde tot en met zevende lid, en 3.116, vijfde en zesde lid, zijn van toepassing.  
-
-### Artikel  3.118a  
-
-1.  Indien Onze Minister oordeelt dat een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Wet dient te worden afgewezen ingevolge artikel 30, eerste lid, van de Wet, kan het nader gehoor, bedoeld in artikel 3.113, achterwege worden gelaten.   
-2.  Bij achterwegelating van het nader gehoor: 
-
-a. zijn, in afwijking van artikel 3.110, eerste lid, voor het onderzoek in een Aanmeldcentrum zes dagen beschikbaar;  
-
-b. wordt de vreemdeling tijdens het eerste gehoor, bedoeld in artikel 3.112, gevraagd naar zijn eventuele bezwaren tegen de afwijzing;  
-
-c. kan de vreemdeling uit eigen beweging of desgevraagd uiterlijk op de tweede dag nadere gegevens verstrekken;  
-
-d. wordt, in afwijking van artikel 3.114, eerste lid, het schriftelijk voornemen om de aanvraag af te wijzen op de derde dag aan de vreemdeling aan de vreemdeling toegezonden of op de vierde dag aan de vreemdeling uitgereikt;  
-
-e. brengt de vreemdeling, in afwijking van artikel 3.114, tweede lid, zijn zienswijze uiterlijk op de vierde dag schriftelijk naar voren;  
-
-f. maakt Onze Minister, in afwijking van artikel 3.114, zesde lid, de beschikking uiterlijk op de zesde dag bekend door uitreiking of toezending ervan.     
-3.  Onze Minister kan de in het tweede lid, onder a, bedoelde termijn verlengen. In dat geval zijn, in afwijking van artikel 3.110, tweede lid, voor het onderzoek in een Aanmeldcentrum ten hoogste twaalf dagen beschikbaar.   
-4.  Indien Onze Minister de in het tweede lid, onder a, bedoelde termijn heeft verlengd: 
-
-a. brengt de vreemdeling, in afwijking van het tweede lid, onder e, zijn zienswijze naar voren uiterlijk op de dag na de toezending van het voornemen of op de dag van de uitreiking ervan, tenzij een met redenen omkleed verzoek om verlenging van deze termijn wordt ingewilligd;  
-
-b. maakt Onze Minister, in afwijking van het tweede lid, onder f, zijn beschikking uiterlijk op de twaalfde dag bekend door uitreiking of toezending ervan.     
-5.  Indien Onze Minister het voornemen na het verstrijken van de in het tweede lid, onder a, of derde lid genoemde termijn aan de vreemdeling uitreikt of toezendt, brengt de vreemdeling zijn zienswijze binnen een week schriftelijk naar voren, tenzij een met redenen omkleed verzoek om verlenging van deze termijn wordt ingewilligd. Deze termijn vangt aan met ingang van de dag na die waarop het voornemen is uitgereikt of toegezonden.   
-6.  De schriftelijke zienswijze is tijdig bij Onze Minister ingediend, indien deze voor het einde van de termijn is ontvangen.   
-7.  In het geval, bedoeld in het tweede of het vierde lid, worden het tijdstip van uitreiken of toezenden van het voornemen en de ontvangst van de schriftelijke zienswijze door Onze Minister vastgelegd. In het geval, bedoeld in het vijfde lid, wordt de ontvangst van de schriftelijke zienswijze door Onze Minister bevestigd.   
-8.  Onze Minister houdt rekening met een na afloop van de termijn ontvangen schriftelijke zienswijze, indien de beschikking nog niet bekend is gemaakt. Met een na afloop van de termijn ontvangen aanvulling op een eerder ingediende zienswijze wordt rekening gehouden, indien de beschikking nog niet bekend is gemaakt en de afdoening van de zaak daardoor niet ontoelaatbaar wordt vertraagd. Het ontbreken van de schriftelijke zienswijze, na het verstrijken van de termijn waarbinnen de vreemdeling zijn zienswijze schriftelijk naar voren kan brengen, staat niet aan het verzoek om overname in de weg, en evenmin aan het nemen van de beschikking bij aanvaarding van het verzoek tot overname. 
+c. de aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in artikel 8, onder d, van de Wet, af te wijzen, terwijl de vreemdeling rechtens zijn vrijheid is ontnomen op grond van artikel 6, 6a, 59a of 59b van de Wet en de vrijheidsontneming voortduurt, wordt het schriftelijk voornemen daartoe uitgereikt of toegezonden.     
+2.  De artikelen 3.117, zesde tot en met achtste lid, en 3.116, vijfde en zesde lid, zijn van toepassing.  
 
 ### Artikel  3.118b  
 
 1.  Indien de vreemdeling reeds eerder een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Wet heeft ingediend welke is afgewezen, wordt een volgende aanvraag niet ingediend dan nadat de vreemdeling schriftelijk, op een door Onze Minister te bepalen wijze, te kennen heeft gegeven die aanvraag in te willen dienen.   
-2.  In het geval, bedoeld in het eerste lid, zijn de artikelen 3.109, 3.113, eerste tot en met vierde lid, en 3.114, eerste, tweede en zesde lid, niet van toepassing. In plaats daarvan: 
+2.  In het geval, bedoeld in het eerste lid, zijn de artikelen 3.109, 3.113, eerste tot en met achtste lid, en 3.114, eerste, tweede en zesde lid, niet van toepassing. In plaats daarvan: 
 
 a. wordt de vreemdeling op de eerste dag door Onze Minister aan een nader gehoor onderworpen;  
 
@@ -2317,7 +2408,7 @@ c. wordt, indien Onze Minister voornemens is de aanvraag af te wijzen binnen dri
 d. brengt de vreemdeling zijn zienswijze op het voornemen uiterlijk op de tweede dag naar voren, waarbij hij tevens nadere gegevens kan verstrekken;  
 
 e. maakt Onze Minister de beschikking uiterlijk op de derde dag bekend door uitreiking of toezending ervan.     
-3.  Het tweede lid, onder c tot en met e, is niet van toepassing, indien zulks schriftelijk door Onze Minister aan de vreemdeling wordt meegedeeld. Bij de mededeling wordt aangegeven of het onderzoek naar de aanvraag al dan niet wordt voortgezet in een Aanmeldcentrum.   
+3.  Het tweede lid, onder c tot en met e, is niet van toepassing, indien zulks schriftelijk door Onze Minister aan de vreemdeling wordt meegedeeld. Bij de mededeling wordt aangegeven of het onderzoek naar de aanvraag al dan niet wordt voortgezet in een Aanmeldcentrum, dan wel de in artikel 3.109c beschreven procedure zal worden gevolgd.   
 4.  Bij voortzetting van het onderzoek in een Aanmeldcentrum: 
 
 a. zijn, in afwijking van artikel 3.110, eerste lid, voor het onderzoek zes dagen beschikbaar;  
@@ -2329,7 +2420,7 @@ c. wordt het schriftelijk voornemen tot afwijzing van de aanvraag toegezonden op
 d. brengt de vreemdeling zijn zienswijze op het voornemen uiterlijk op de vierde dag naar voren;  
 
 e. maakt Onze Minister zijn beschikking uiterlijk op de zesde dag bekend door uitreiking of toezending ervan.     
-5.  Onze Minister kan de in het vierde lid, onder a, bedoelde termijn verlengen. In dat geval zijn, in afwijking van artikel 3.110, tweede lid, voor het onderzoek in een Aanmeldcentrum ten hoogste twaalf dagen beschikbaar.   
+5.  Onze Minister kan de in het vierde lid, onder a, bedoelde termijn verlengen. In dat geval zijn, in afwijking van artikel 3.110, tweede lid, voor het onderzoek in een Aanmeldcentrum ten hoogste twaalf, veertien of twintig dagen beschikbaar.   
 6.  Indien Onze Minister de in het vierde lid, onder a, bedoelde termijn heeft verlengd: 
 
 a. brengt de vreemdeling, in afwijking van het vierde lid, onder d, zijn zienswijze uiterlijk op de dag na de toezending van het voornemen of op de dag van de uitreiking ervan naar voren, tenzij een met redenen omkleed verzoek om verlenging van deze termijn wordt ingewilligd;  
@@ -2354,9 +2445,17 @@ Indien de termijn voor het geven van de beschikking op grond van artikel 42, vie
 
 Bij ministeriele regeling worden voorschriften gesteld omtrent:
 
-a.het verstrekken van inlichtingen aan de vreemdeling over de te volgen procedure, en
+a.het verstrekken van inlichtingen aan de vreemdeling over de te volgen procedure,
 
-b.het stellen van aantekeningen in het dossier van de vreemdeling ingeval van intrekking van diens aanvraag.
+b.het stellen van aantekeningen in het dossier van de vreemdeling ingeval van intrekking van diens aanvraag, en
+
+c. de toepassing van artikel 30c van de Wet. 
+
+### Artikel  3.121a  
+
+1.  Indien de aanvraag wordt afgewezen, voor wat betreft de vluchtelingenstatus of de subsidiaire beschermingsstatus, wordt dit feitelijk en juridisch gemotiveerd.   
+2.  Indien de aanvraag mede is gedaan namens personen die ten laste van de aanvrager komen en de aanvraag op dezelfde gronden gebaseerd is, kan één beslissing worden genomen die geldt voor alle personen, tenzij dat handelen zou leiden tot de bekendmaking van specifieke omstandigheden van een aanvrager die zijn belangen zou kunnen schaden, met name in gevallen van vervolging op grond van gender, seksuele geaardheid, genderidentiteit of leeftijd.   
+3.  Indien een vreemdeling niet wordt bijgestaan of vertegenwoordigd door een juridisch adviseur of een andere raadsman, wordt hij in een taal die hij begrijpt of waarvan redelijkerwijze kan worden aangenomen dat hij die begrijpt, in kennis gesteld van de beslissing. Daarbij wordt ook informatie verstrekt over de wijze waarop een negatieve beslissing kan worden aangevochten.  
 
 ###Artikel 3.122 
 
@@ -3034,12 +3133,15 @@ b. een verplichting zich te houden aan een verbod om zich in een bepaald gedeelt
 
 ### Artikel  5.1a  
 
-1.  De vreemdeling die geen rechtmatig verblijf heeft, kan in bewaring worden gesteld op grond dat het belang van de openbare orde of nationale veiligheid zulks vordert, indien: 
+1.  Een vreemdeling als bedoeld in artikel 59, eerste lid, van de Wet kan in bewaring worden gesteld op grond dat het belang van de openbare orde of nationale veiligheid zulks vordert, indien: 
 
 a. een risico bestaat dat de vreemdeling zich aan het toezicht zal onttrekken, of  
 
-b. de vreemdeling de voorbereiding van het vertrek of de uitzettingsprocedure ontwijkt of belemmert.     
-2.  De vreemdeling kan eveneens in bewaring worden gesteld of een vrijheidsontnemende maatregel worden opgelegd omdat het belang van de openbare orde of de nationale veiligheid zulks vordert, indien: 
+b. de vreemdeling de voorbereiding van het vertrek of de uitzettingsprocedure ontwijkt of belemmert.    
+2. Een vreemdeling als bedoeld in artikel 59b, eerste lid, van de Wet kan in bewaring worden gesteld omdat het belang van de openbare orde zulks vordert, indien een van de gronden als bedoeld in artikel 59b, eerste lid van de Wet zich voordoet. Artikel 5.1c is van toepassing.
+3. Een vrijheidsontnemende maatregel op grond van artikel 6, derde lid, van de Wet wordt opgelegd in het kader van het grensbewakingsbelang. Deze wordt niet opgelegd of voortgezet indien sprake is van bijzondere individuele omstandigheden die vrijheidsontneming onevenredig bezwarend maken.
+4. Het eerste lid is van overeenkomstige toepassing in geval van oplegging van de vrijheidsontnemende maatregel op grond van artikel 6, zesde lid, van de Wet. 
+5.  Aan de vreemdeling kan op grond van artikel 6a van de Wet een vrijheidsontnemende maatregel worden opgelegd of de vreemdeling kan op grond van artikel 59a van de Wet in bewaring worden gesteld, indien: 
 
 a. een concreet aanknopingspunt bestaat voor een overdracht als bedoeld in de Dublinverordening; en  
 
@@ -3047,9 +3149,9 @@ b. een significant risico bestaat dat de vreemdeling zich aan het toezicht zal o
 
 ### Artikel  5.1b  
 
-1.  Aan de voorwaarden voor inbewaringstelling, bedoeld in artikel 5.1a, eerste lid, is slechts voldaan indien ten minste twee van de gronden, bedoeld in het derde en vierde lid zich voordoen.   
-2.  Aan de voorwaarden voor inbewaringstelling, bedoeld in artikel 5.1a, tweede lid, wordt slechts voldaan indien ten minste twee van de gronden, bedoeld in het derde en vierde lid zich voordoen, waarvan ten minste één van de gronden, bedoeld in het derde lid.   
-3.  Er is sprake van een zware grond voor inbewaringstelling indien de vreemdeling: 
+1.  Aan de voorwaarden voor inbewaringstelling, bedoeld in artikel 5.1a, eerste lid, of voor het opleggen van een vrijheidsontnemende maatregel, bedoeld in artikel 5.1a, vierde lid, is slechts voldaan indien ten minste twee van de gronden, bedoeld in het derde en vierde lid zich voordoen.   
+2.  Aan de voorwaarden voor inbewaringstelling of voor het opleggen van een vrijheidsontnemende maatregel, bedoeld in artikel 5.1a, vijfde lid, wordt slechts voldaan indien ten minste twee van de gronden, bedoeld in het derde en vierde lid zich voordoen, waarvan ten minste één van de gronden, bedoeld in het derde lid.   
+3.  Er is sprake van een zware grond voor inbewaringstelling of voor het opleggen van een vrijheidsontnemende maatregel indien de vreemdeling: 
 
 a. Nederland niet op de voorgeschreven wijze is binnengekomen, dan wel een poging daartoe heeft gedaan;  
 
@@ -3065,10 +3167,12 @@ f. zich zonder noodzaak heeft ontdaan van zijn reis- of identiteitsdocumenten;
 
 g. in het Nederlandse rechtsverkeer gebruik heeft gemaakt van valse of vervalste documenten;  
 
-h. tot ongewenst vreemdeling is verklaard als bedoeld in artikel 67 van de Wet of tegen hem een inreisverbod is uitgevaardigd met toepassing van artikel 66a, zevende lid, van de Wet; dan wel  
+h. tot ongewenst vreemdeling is verklaard als bedoeld in artikel 67 van de Wet of tegen hem een inreisverbod is uitgevaardigd met toepassing van artikel 66a, zevende lid, van de Wet;   
 
-i. heeft te kennen gegeven dat hij geen gevolg zal geven aan zijn verplichting tot terugkeer of aan zijn verplichting tot vertrek naar de lidstaat die verantwoordelijk is voor de behandeling van zijn asielverzoek.     
-4.  Er is sprake van een lichte grond voor inbewaringstelling indien de vreemdeling: 
+i. heeft te kennen gegeven dat hij geen gevolg zal geven aan zijn verplichting tot terugkeer of aan zijn verplichting tot vertrek naar de lidstaat die verantwoordelijk is voor de behandeling van zijn asielverzoek; dan wel  
+
+j. aan de grens te kennen heeft gegeven een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 28 van de Wet te willen indienen, en zijn aanvraag met toepassing van de grensprocedure niet in behandeling is genomen, niet-ontvankelijk is verklaard of is afgewezen als kennelijk ongegrond.    
+4.  Er is sprake van een lichte grond voor inbewaringstelling of voor het opleggen van een vrijheidsontnemende maatregel indien de vreemdeling: 
 
 a. zich niet aan een of meer andere voor hem geldende verplichtingen van hoofdstuk 4 heeft gehouden;  
 
@@ -3082,32 +3186,55 @@ e. verdachte is van enig misdrijf dan wel daarvoor is veroordeeld; of
 
 f. arbeid heeft verricht in strijd met de Wet arbeid vreemdelingen.   
 
+### Artikel  5.1c  
+
+1.  De grond voor bewaring, bedoeld in artikel 59b, eerste lid, onderdeel a, van de Wet, is aanwezig, indien de identiteit of de nationaliteit van de vreemdeling met onvoldoende zekerheid bekend is en zich ten minste twee van de gronden, bedoeld in artikel 5.1b, derde en vierde lid, voordoen.   
+2.  De grond voor bewaring, bedoeld in artikel 59b, eerste lid, onderdeel b, van de Wet, is aanwezig, indien door middel van bewaring de gegevens die noodzakelijk zijn voor beoordeling van een aanvraag tot het verkrijgen van een verblijfsvergunning kunnen worden verkregen, en zich ten minste twee van de gronden, bedoeld in artikel 5.1b, derde en vierde lid, voordoen.   
+3.  Bij de beoordeling of sprake is van een aanvraag die louter is ingediend teneinde de uitvoering van het terugkeerbesluit uit te stellen of te verijdelen als bedoeld artikel 59b, eerste lid, onderdeel c, ten derde, van de Wet worden alle omstandigheden van het geval betrokken, waaronder met name: 
+
+a. of de vreemdeling eerder een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 28 van de Wet heeft gedaan;  
+
+b. de termijn waarbinnen de vreemdeling zijn aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 28 van de Wet kenbaar heeft gemaakt in het licht van zijn verklaringen hieromtrent;  
+
+c. de omstandigheden waaronder de vreemdeling is aangetroffen dan wel zijn aanvraag kenbaar heeft gemaakt;  
+
+d. of de vreemdeling in het Schengeninformatiesysteem ter zake van een inreisverbod gesignaleerd staat;  
+
+e. de gestelde nationaliteit in het licht van de toepassing van artikel 30b, eerste lid, onder b van de Wet,  
+
+f. de onderbouwing van de aanvraag.     
+4.  De grond voor bewaring, bedoeld in artikel 59b, eerste lid, onderdeel d, van de Wet, is in ieder geval aanwezig, indien er is sprake van een aanvraagprocedure waarin vermoedelijk artikel 1F van het Vluchtelingenverdrag kan worden tegengeworpen.  
+
 ### Artikel  5.2  
 
-1.  Voordat de vreemdeling op grond van artikel 59 of 59a van de Wet in bewaring wordt gesteld, wordt hij gehoord.   
+1.  Voordat de vreemdeling op grond van artikel 59, 59a of 59b van de Wet in bewaring wordt gesteld, wordt hij gehoord.   
 2.  Het eerste lid is niet van toepassing indien: 
 
-a. de vreemdeling reeds op een andere grond in bewaring gesteld is, of  
+a. de bewaring van de vreemdeling die in bewaring is gesteld op grond van artikel 59, eerste lid, onder a, van de Wet wordt voorgezet op grond van artikel 59, eerste lid, onder b, van de Wet, of andersom;  
 
-b. het voorafgaande gehoor van de vreemdeling niet kan worden afgewacht.     
-3.  Slechts in het geval bedoeld in het tweede lid, onder b, wordt de vreemdeling zo spoedig mogelijk na de tenuitvoerlegging van de bewaring gehoord.   
+b. de vreemdeling onmiddellijk voorafgaand aan het besluit om hem opnieuw in bewaring te stellen op grond van artikel 59 van de Wet, reeds in bewaring is gesteld op grond van artikel 59a of 59b van de Wet;  
+
+c. de vreemdeling onmiddellijk voorafgaand aan het besluit om hem opnieuw in bewaring te stellen op grond van artikel 59b van de Wet, reeds in bewaring is gesteld op grond van artikel 59 of 59a van de Wet; of  
+
+d. het voorafgaande gehoor van de vreemdeling niet kan worden afgewacht.     
+3.  Slechts in het geval bedoeld in het tweede lid, onder d, wordt de vreemdeling zo spoedig mogelijk na de tenuitvoerlegging van de bewaring gehoord.   
 4.  Van het gehoor wordt proces-verbaal opgemaakt.   
 5.  Aan de vreemdeling wordt tijdig mededeling gedaan van de hem toekomende bevoegdheid zich bij het gehoor te doen bijstaan door zijn raadsman.  
 
 ### Artikel  5.3  
 
-1.  De maatregel waarbij de bewaring op grond van artikel 59 of 59a van de Wet wordt opgelegd wordt gedagtekend en ondertekend; de maatregel wordt met redenen omkleed. Aan de vreemdeling op wie de maatregel betrekking heeft, wordt onmiddellijk een afschrift daarvan uitgereikt.   
-2.  Op de voortzetting van de bewaring op een andere grond is het eerste lid van overeenkomstige toepassing.  
+1.  De maatregel waarbij de bewaring op grond van artikel 59, 59a of 59b van de Wet wordt opgelegd wordt gedagtekend en ondertekend; de maatregel wordt met redenen omkleed. Aan de vreemdeling op wie de maatregel betrekking heeft, wordt onmiddellijk een afschrift daarvan uitgereikt. De vreemdeling wordt daarbij schriftelijk, in een taal die hij verstaat of waarvan redelijkerwijs kan worden aangenomen dat hij deze verstaat, op de hoogte gebracht van de redenen van bewaring en van de in het nationale recht vastgestelde procedures om het bevel tot bewaring aan te vechten, alsook van de mogelijkheid om gratis rechtsbijstand en vertegenwoordiging aan te vragen.   
+2.  Het eerste lid is van overeenkomstige toepassing in geval van oplegging van de vrijheidsontnemende maatregel op grond van artikel 6, derde of zesde lid, van de Wet en in situaties waarin de bewaring van de vreemdeling op een andere wettelijke grondslag wordt voortgezet.  
 
 ### Artikel  5.4  
 
-1.  De bewaring op grond van artikel 59 of 59a van de Wet wordt ten uitvoer gelegd op een politiebureau, een cel van de Koninklijke marechaussee, in een huis van bewaring of een ruimte of plaats als bedoeld in artikel 6, tweede lid, of artikel 58, eerste lid van de Wet. Bij de tenuitvoerlegging van de bewaring wordt de vreemdeling niet verder beperkt in de uitoefening van grondrechten dan wordt gevorderd door het doel van deze maatregel en de handhaving van de orde en de veiligheid op de plaats van tenuitvoerlegging.   
+1.  De bewaring op grond van artikel 59, 59a of 59b van de Wet wordt ten uitvoer gelegd op een politiebureau, een cel van de Koninklijke marechaussee, in een huis van bewaring of een ruimte of plaats als bedoeld in artikel 6, tweede lid, of artikel 58, eerste lid van de Wet. Bij de tenuitvoerlegging van de bewaring wordt de vreemdeling niet verder beperkt in de uitoefening van grondrechten dan wordt gevorderd door het doel van deze maatregel en de handhaving van de orde en de veiligheid op de plaats van tenuitvoerlegging.    
 2.  Indien de tenuitvoerlegging van de bewaring een aanvang neemt op een politiebureau of in een cel van de Koninklijke marechaussee, wordt zodra dit redelijkerwijs mogelijk is de tenuitvoerlegging voortgezet in een huis van bewaring of een ruimte of plaats als bedoeld in artikel 6, tweede lid of artikel 58, eerste lid, van de Wet.   
 3.  De bewaring wordt opgeheven zodra er geen grond meer aanwezig is.  
 
 ### Artikel  5.5  
 
-1.  Gedurende de tenuitvoerlegging van een vrijheidsontnemende maatregel ingevolge de artikelen 6, tweede lid, 58, eerste lid, of 59, eerste lid, van de Wet, kan de vreemdeling voor korte duur naar elders worden gebracht, wanneer dit redelijkerwijs nodig is voor de toepassing van de Wet.   
+1.  Gedurende de tenuitvoerlegging van een vrijheidsontnemende maatregel ingevolge de artikelen 6, tweede lid, 58, eerste lid, of 59, 59a of 59b, van de Wet, kan de vreemdeling voor korte duur naar elders worden gebracht, wanneer dit redelijkerwijs nodig is voor de toepassing van de Wet.   
 2.  Van de tenuitvoerlegging van een vrijheidsontnemende maatregel als bedoeld in het eerste lid, wordt op verzoek van de vreemdeling zo spoedig mogelijk kennis gegeven aan diens naaste verwanten of aan een in Nederland gevestigde diplomatieke of consulaire vertegenwoordiging van de staat waarvan hij onderdaan is.   
 3.  In geval de vrijheidsontnemende maatregel een minderjarige betreft wordt daarvan, zo daartoe de gelegenheid bestaat, ambtshalve zo spoedig mogelijk kennis gegeven aan degenen die de ouderlijke macht of de voogdij over die minderjarige uitoefenen.  
 
@@ -3159,7 +3286,7 @@ Een risico als bedoeld in artikel 62, tweede lid, onder a, van de Wet kan worden
 ### Artikel  6.1e  
 
 1.  Bij afwijzing van de eerste aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28 van de Wet, wordt ambtshalve beoordeeld of er reden is voor toepassing van artikel 64 van de Wet, tenzij op grond van artikel 3.6a, eerste lid, alsnog ambtshalve een verblijfsvergunning is verstrekt.   
-2.  Het eerste lid is niet van toepassing, indien sprake is van afwijzing van de aanvraag ingevolge artikel 30, eerste lid, van de Wet.   
+2.  Het eerste lid is niet van toepassing, indien de aanvraag niet in behandeling is genomen op grond van artikel 30 van de Wet, niet-ontvankelijk is verklaard op grond van artikel 30a van de Wet, is afgewezen als kennelijk ongegrond op grond van artikel 30b, eerste lid onder g, j of k van de Wet of buiten behandeling is gesteld op grond van artikel 30c van de Wet.   
 3.  Het eerste lid is van overeenkomstige toepassing, indien de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28 van de Wet, wordt ingetrokken of de aanvraag tot het verlengen van de geldigheidsduur ervan wordt afgewezen, met dien verstande dat in dat geval de ambtshalve beoordeling uitsluitend plaatsvindt indien de vreemdeling de voor die beoordeling relevante medische gegevens en overige bescheiden heeft overgelegd.  
 
 ### Artikel  6.1f  
@@ -3326,6 +3453,16 @@ c. zijn hoofdverblijf niet buiten Nederland heeft gevestigd, en
 
 d. tijdig bezwaar heeft gemaakt dan wel administratief beroep heeft ingesteld tegen een beschikking waarbij het rechtmatig verblijf is beëindigd.     
 2.  Het eerste lid blijft buiten toepassing, indien de uitzetting van de vreemdeling wegens dwingende redenen van nationale veiligheid gerechtvaardigd is.  
+
+### Artikel  7.3  
+
+1.  Indien een verzoek om een voorlopige voorziening is gedaan teneinde uitzetting te voorkomen voordat is beslist op een beroep gericht tegen een besluit dat is genomen naar aanleiding van een aanvraag om een verblijfsvergunning als bedoeld in artikel 28 van de Wet, is het de vreemdeling toegestaan de uitspraak op dit verzoek hier te lande af te wachten.   
+2.  Van het eerste lid kan worden afgeweken indien uitzetting niet achterwege wordt gelaten op de in artikel 3.1, tweede lid, onder a en e bedoelde gronden.  
+
+### Artikel  7.4  
+
+1.  Aan een alleenstaande minderjarige vreemdeling wiens beroep geen reële kans van slagen heeft wordt alleen kosteloze rechtsbijstand onthouden, indien de vertegenwoordiger van de minderjarige overeenkomstig het nationale recht over juridische kwalificaties beschikt.   
+2.  Indien een rechterlijke instantie oordeelt over het recht van een alleenstaande minderjarige vreemdeling om in afwachting van de beslissing op beroep in Nederland te blijven, dient de alleenstaande minderjarige vreemdeling tenminste over tolkdiensten en rechtsbijstand te beschikken en minstens een week de tijd te hebben om het daartoe strekkende verzoek op te stellen.  
 
 ### Hoofdstuk  8  
 

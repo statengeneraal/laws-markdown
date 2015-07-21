@@ -38,7 +38,7 @@ c) The term “related installations" shall refer to terminals in ports which ar
 
 ####Technical and operational minimum requirements
 
-In order to facilitate combined transport services on the international inland waterway network for combined transport, Contracting Parties shall undertake appropriate measures in order to achieve the technical and operational minimum requirements referred to in Annex II to this Protocol.  
+In order to facilitate combined transport services on the international inland waterway network for combined transport, Contracting Parties shall undertake appropriate measures in order to achieve the technical and operational minimum requirements referred to in Annex III to this Protocol.  
 
 ### Article  4  
 

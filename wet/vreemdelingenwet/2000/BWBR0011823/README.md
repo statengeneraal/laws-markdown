@@ -40,7 +40,7 @@ erkende referent: de referent die krachtens artikel 2c als zodanig is erkend;
 
 Europese verordeningen die betrekking hebben op biometrische gegevens:
 
-1° Verordening (EG) 2725/2000 van de Raad van 11 december 2000 betreffende de instelling van «Eurodac» voor de vergelijking van vingerafdrukken ten behoeve van een doeltreffende toepassing van de Overeenkomst van Dublin (PbEU L316);  
+1° Verordening (EU) nr. 603/2013 van het Europees Parlement en de Raad van 26 juni 2013 betreffende de instelling van „Eurodac» voor de vergelijking van vingerafdrukken ten behoeve van een doeltreffende toepassing van Verordening (EU) nr. 604/2013 tot vaststelling van de criteria en instrumenten om te bepalen welke lidstaat verantwoordelijk is voor de behandeling van een verzoek om internationale bescherming dat door een onderdaan van een derde land of een staatloze bij een van de lidstaten wordt ingediend en betreffende verzoeken van rechtshandhavingsinstanties van de lidstaten en Europol om vergelijkingen van Eurodac-gegevens ten behoeve van rechtshandhaving, en tot wijziging van Verordening (EU) nr. 1077/2011 tot oprichting van een Europees Agentschap voor het operationeel beheer van grootschalige IT- systemen op het gebied van vrijheid, veiligheid en recht (PBEU L 180/1);  
 
 2° Verordening (EG) 767/2008 van het Europees Parlement en de Raad van 9 juli 2008 betreffende het visuminformatiesysteem (VIS) en de uitwisseling tussen de lidstaten van gegevens op het gebied van visa voor kort verblijf (PbEU L218);  
 
@@ -64,29 +64,41 @@ gemeenschapsonderdanen:
 
 6°.  familieleden van de onder 5° genoemden die de nationaliteit van een derde staat bezitten en die krachtens de onder 5° genoemde Overeenkomst gerechtigd zijn een lidstaat binnen te komen en er te verblijven;    
 
+grensprocedure: de asielprocedure, bedoeld in artikel 43 van de Procedurerichtlijn; 
+
 herhaalde aanvraag: een aanvraag, die op grond van artikel 4:6, tweede lid, van de Algemene wet bestuursrecht kan worden afgewezen;  
 
-inreisverbod: het inreisverbod, bedoeld in artikel 3, punt 6, van de richtlijn, bedoeld onder s;  
+inreisverbod: het inreisverbod, bedoeld in artikel 3, punt 6, van de Terugkeerrichtlijn;  
+
+internationale bescherming: internationale bescherming als bedoeld in artikel 2, onder a, van de Kwalificatierichtlijn; 
 
 Kwalificatierichtlijn: de richtlijn nr. 2011/95/EU van het Europees Parlement en de Raad van 13 december 2011 inzake normen voor de erkenning van onderdanen van derde landen of staatlozen als personen die internationale bescherming genieten, voor een uniforme status voor vluchtelingen of voor personen die in aanmerking komen voor subsidiaire bescherming, en voor de inhoud van de verleende bescherming (PbEU 2011, L 337); 
 
 langdurig ingezetene: houder van een EU-verblijfsvergunning voor langdurig ingezetenen als bedoeld in richtlijn nr. 2003/109/EG van de Raad van de Europese Unie van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU 2004, L16), zoals gewijzigd door richtlijn 2011/51/EU van het Europees Parlement en de Raad teneinde haar werkingssfeer uit te breiden tot personen die internationale bescherming genieten (PbEU 2011, L 132), dan wel van een door een andere lidstaat van de Europese Unie op grond van deze richtlijn afgegeven EU-verblijfsvergunning voor langdurig ingezetenen; 
 
+minderjarige: eenieder die de leeftijd van 18 jaar nog niet heeft bereikt; 
+
 Onze Minister: Onze Minister van Justitie;  
+
+Opvangrichtlijn: Richtlijn 2013/33/EU van het Europees Parlement en de Raad van 26 juni 2013 tot vaststelling van normen voor de opvang van verzoekers om internationale bescherming (PbEU 2013, L 180); 
+
+opvolgende aanvraag: een volgend verzoek als bedoeld in artikel 2, onderdeel q, van de Procedurerichtlijn; 
 
 overdrachtsbesluit: het besluit, bedoeld in artikel 26 van de Dublinverordening; 
 
 persoonsgegevens en verwerking van persoonsgegevens: hetgeen daaronder wordt verstaan in artikel 1 van de Wet bescherming persoonsgegevens; 
 
-referent: degene die overeenkomstig artikel 2a een verklaring heeft afgelegd of als zodanig is aangewezen; 
+Procedurerichtlijn: Richtlijn 2013/32/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende gemeenschappelijke procedures voor de toekenning en intrekking van internationale bescherming (PbEU 2013, L 180); 
 
-richtlijn asielprocedures: Richtlijn nr. 2005/85/EG van de Raad van de Europese Unie van 1 december 2005 betreffende minimumnormen voor de procedures in lidstaten voor de toekenning of intrekking van de vluchtelingenstatus (PbEU L 326);
+referent: degene die overeenkomstig artikel 2a een verklaring heeft afgelegd of als zodanig is aangewezen; 
 
 richtlijn tijdelijke bescherming: richtlijn nr. 2001/55/EG van de Raad van 20 juli 2001 betreffende minimumnormen voor het verlenen van tijdelijke bescherming in geval van massale toestroom van ontheemden en maatregelen ter bevordering van een evenwicht tussen de inspanning van de lidstaten voor de opvang en het dragen van de consequentie van de opvang van deze personen (PbEG L 212);
 
 Schengengrenscode: Verordening (EG) nr. 562/2006 van het Europees Parlement en de Raad van 15 maart 2006 tot vaststelling van een communautaire code betreffende de overschrijding van de grenzen door personen (Schengengrenscode) (PbEU L 105);
 
-terugkeerbesluit: het terugkeerbesluit, bedoeld in artikel 3, punt 4, van de richtlijn nr. 2008/115/EG van het Europees Parlement en de Raad van 16 december 2008 over de gemeenschappelijke normen en procedures in de lidstaten voor de terugkeer van onderdanen van derde landen die illegaal op hun grondgebied verblijven (PbEU L 348/98); 
+terugkeerbesluit: het terugkeerbesluit, bedoeld in artikel 3, punt 4, van de Terugkeerrichtlijn; 
+
+Terugkeerrichtlijn: Richtlijn 2008/115/EG van het Europees Parlement en de Raad van 16 december 2008 over gemeenschappelijke normen en procedures in de lidstaten voor de terugkeer van onderdanen van derde landen die illegaal op hun grondgebied verblijven (PbEU 2008, L 348); 
 
 tijdelijke bescherming: rechtmatig verblijf in de zin van artikel 8, onder f of h, van de vreemdeling wiens uitzetting in verband met een aanvraag als bedoeld in artikel 28 op grond van de richtlijn tijdelijke bescherming achterwege blijft;
 
@@ -464,7 +476,18 @@ c.niet beschikt over voldoende middelen om te voorzien zowel in de kosten van ve
 
 d.niet voldoet aan de voorwaarden die bij of krachtens algemene maatregel van bestuur zijn gesteld. 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de weigering van toegang op grond van deze wet of ter uitvoering van de Schengengrenscode. 
-3. De ambtenaren belast met de grensbewaking weigeren niet dan ingevolge een bijzondere aanwijzing van Onze Minister de toegang aan de vreemdeling die te kennen geeft dat hij asiel wenst. 
+3.  Indien de vreemdeling, bedoeld in het eerste lid, aan de grens te kennen geeft een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 28 te willen indienen, wordt de aanvraag in de grensprocedure getoetst aan: 
+
+a. de grond voor het niet in behandeling nemen als bedoeld in artikel 30;  
+
+b. de gronden voor niet-ontvankelijkverklaring, genoemd in artikel 30a; en  
+
+c. de gronden voor afwijzing wegens kennelijke ongegrondheid, genoemd in artikel 30b.     
+4.  Indien de grensprocedure wordt toegepast, wordt een besluit omtrent de weigering van toegang tot Nederland uitgesteld of opgeschort voor ten hoogste vier weken.   
+5.  Het besluit tot uitstel of opschorting, bedoeld in het vierde lid, wordt onverwijld uitgereikt aan de vreemdeling.   
+6.  De beschikking waarbij een aanvraag met toepassing van de grensprocedure niet in behandeling wordt genomen, niet-ontvankelijk wordt verklaard of wordt afgewezen als kennelijk ongegrond, geldt tevens als weigering van toegang in het eerste lid dan wel de herleving hiervan.   
+7.  De duur van de grensprocedure bedraagt ten hoogste vier weken, te rekenen vanaf het tijdstip van uitreiking van het besluit, bedoeld in het vijfde lid. Indien vier weken na de uitreiking van het besluit, bedoeld in het vijfde lid, nog niet is beslist over het in behandeling nemen, de ontvankelijkheid of kennelijke ongegrondheid van de aanvraag, verkrijgt de vreemdeling van rechtswege toegang tot Nederland.   
+8.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de grensprocedure.  
 
 ### Artikel  4  
 
@@ -477,15 +500,17 @@ d.niet voldoet aan de voorwaarden die bij of krachtens algemene maatregel van be
 ### Artikel  5  
 
 1.  De vreemdeling aan wie toegang is geweigerd, dient Nederland onmiddellijk te verlaten, met inachtneming van de aanwijzingen welke hem daartoe door een ambtenaar belast met de grensbewaking, zijn gegeven.   
-2.  Indien de vreemdeling, bedoeld in het eerste lid, Nederland is binnengekomen aan boord van een vaartuig of luchtvaartuig in gebruik bij een vervoersonderneming, dient hij Nederland onmiddellijk te verlaten met dat vervoer of een hem door een ambtenaar belast met de grensbewaking aangewezen vervoermiddel.   
-3.  De verplichtingen, bedoeld in het eerste en tweede lid, gelden niet indien de vreemdeling een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in de artikelen 28 of 33 heeft ingediend en daarop nog niet is beslist.  
+2.  Indien de vreemdeling, bedoeld in het eerste lid, Nederland is binnengekomen aan boord van een vaartuig of luchtvaartuig in gebruik bij een vervoersonderneming, dient hij Nederland onmiddellijk te verlaten met dat vervoer of een hem door een ambtenaar belast met de grensbewaking aangewezen vervoermiddel.  
 
 ### Artikel  6  
 
 1.  De vreemdeling aan wie toegang is geweigerd kan worden verplicht zich op te houden in een door de ambtenaar belast met grensbewaking aangewezen ruimte of plaats.   
 2.  Een ruimte of plaats, bedoeld in het eerste lid, kan worden beveiligd tegen ongeoorloofd vertrek.   
-3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het voor de beveiligde ruimte of plaats, bedoeld in het eerste lid, geldende regime, waaronder begrepen de nodige beheersmaatregelen. Hoofdstuk 9 van de Algemene wet bestuursrecht is niet van toepassing.   
-4.  Een krachtens het derde lid vastgestelde algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. Hij treedt in werking op een tijdstip dat, nadat vier weken na de overlegging zijn verstreken, bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het onderwerp bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van beide kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur ingetrokken.  
+3.  De vreemdeling wiens aanvraag overeenkomstig artikel 3, derde lid, wordt behandeld in de grensprocedure, kan eveneens worden verplicht zich op te houden in een door de ambtenaar belast met grensbewaking aangewezen ruimte of plaats, die kan worden beveiligd tegen ongeoorloofd vertrek.  
+4.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het voor de beveiligde ruimte of plaats, bedoeld in het eerste lid, geldende regime, waaronder begrepen de nodige beheersmaatregelen. Hoofdstuk 9 van de Algemene wet bestuursrecht is niet van toepassing.   
+5.  Een krachtens het vierde lid vastgestelde algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. Hij treedt in werking op een tijdstip dat, nadat vier weken na de overlegging zijn verstreken, bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het onderwerp bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van beide kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur ingetrokken.   
+6.  Onze Minister kan de maatregel, bedoeld in het eerste en tweede lid, opleggen aan de vreemdeling wiens aanvraag als bedoeld in artikel 28 in de grensprocedure is afgewezen indien het belang van de openbare orde of de nationale veiligheid zulks vordert.   
+7.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over toepassing van het derde en het zesde lid. 
 
 ### Artikel  6a  
 
@@ -532,7 +557,7 @@ k. gedurende de periode waarin de vreemdeling door Onze Minister in de gelegenhe
 
 l. indien de vreemdeling verblijfsrecht ontleent aan het Associatiebesluit 1/80 van de Associatieraad EEG/Turkije;  
 
-m. na afwijzing van de aanvraag tot het verlenen van een verblijfsvergunning op grond van artikel 30, eerste lid, onderdeel a, terwijl hij in afwachting is van de feitelijke overdracht naar een verantwoordelijke lidstaat in de zin van de Dublinverordening.  
+m. indien de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 niet in behandeling is genomen op grond van artikel 30 terwijl hij in afwachting is van de feitelijke overdracht naar een verantwoordelijke lidstaat in de zin van de Dublinverordening.  
 
 ### Artikel  9  
 
@@ -717,7 +742,7 @@ i. de vreemdeling niet heeft voldaan aan de inburgeringsplicht, bedoeld in artik
 
 ### Artikel  19  
 
-De verblijfsvergunning voor bepaalde tijd kan worden ingetrokken op de gronden bedoeld in artikel 18, eerste lid, met uitzondering van onderdeel b, en wordt ingetrokken indien aan de houder daarvan ambtshalve een verblijfsvergunning als bedoeld in artikel 28, onderdeel d, wordt verleend. 
+De verblijfsvergunning voor bepaalde tijd kan worden ingetrokken op de gronden bedoeld in artikel 18, eerste lid, met uitzondering van onderdeel b, en wordt ingetrokken indien aan de houder daarvan ambtshalve een verblijfsvergunning als bedoeld in artikel 28, eerste lid, onderdeel d, wordt verleend. 
 
 ### Paragraaf  2  
 
@@ -874,7 +899,7 @@ c. een verblijfsvergunning is ingetrokken of de geldigheidsduur ervan niet is ve
 
 1.  Onze Minister is bevoegd: 
 
-a. de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd in te willigen, af te wijzen dan wel niet in behandeling te nemen;   
+a. de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd in te willigen, af te wijzen, niet in behandeling te nemen, niet-ontvankelijk te verklaren dan wel buiten behandeling te stellen;   
 
 b. de aanvraag tot het verlengen van de geldigheidsduur ervan in te willigen, af te wijzen dan wel niet in behandeling te nemen;  
 
@@ -892,7 +917,7 @@ e. ambtshalve een verblijfsvergunning voor bepaalde tijd te verlenen aan de lang
 
 a. die verdragsvluchteling is; of  
 
-b. die aannemelijk heeft gemaakt dat hij gegronde redenen heeft om aan te nemen dat hij bij uitzetting een reëel risico loopt om te worden onderworpen aan: 
+b. die aannemelijk heeft gemaakt dat hij gegronde redenen heeft om aan te nemen dat hij bij uitzetting een reëel risico loopt op ernstige schade, bestaande uit: 
 
 1°. doodstraf of executie;  
 
@@ -911,61 +936,96 @@ c. de ouders van de in het eerste lid bedoelde vreemdeling, indien die vreemdeli
 
 ### Artikel  30  
 
-1.  Een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 wordt afgewezen indien: 
+1.  Een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 wordt niet in behandeling genomen, indien op grond van de Dublinverordening is vastgesteld dat een andere lidstaat verantwoordelijk is voor de behandeling van de aanvraag.   
+2.  De vreemdeling wordt gehoord over zijn eventuele bezwaren tegen overdracht naar de verantwoordelijke lidstaat.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de toepassing van het eerste en tweede lid. 
 
-a. een ander land, partij bij het Vluchtelingenverdrag ingevolge een verdrag of een dit land en Nederland bindend besluit van een volkenrechtelijke organisatie verantwoordelijk is voor de behandeling van de aanvraag;  
+### Artikel  30a  
 
-b. de vreemdeling reeds rechtmatig verblijf heeft, als bedoeld in artikel 8, onder a tot en met e of l;  
+1.  Een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 kan niet-ontvankelijk worden verklaard in de zin van artikel 33 van de Procedurerichtlijn, indien: 
 
-c. de vreemdeling eerder een aanvraag voor verlening van een verblijfsvergunning heeft ingediend waarop nog niet onherroepelijk is beslist en hij op grond van die aanvraag rechtmatig verblijf heeft als bedoeld in artikel 8 onder f, g en h;  
+a. de vreemdeling in een andere lidstaat van de Europese Unie internationale bescherming geniet;  
 
-d. de vreemdeling in een andere lidstaat van de Europese Unie, in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of in Zwitserland internationale bescherming geniet in de zin van artikel 2, eerste lid onder a van de kwalificatierichtlijn, dan wel een gelijkwaardige status bezit op basis van het Vluchtelingenverdrag of artikel 3 van het Europees Verdrag voor de Rechten van de Mens en de fundamentele vrijheden; of 
+b. de vreemdeling erkend is als vluchteling in een derde land en hij die bescherming nog kan genieten of anderszins voldoende bescherming geniet in dat land, met inbegrip van het beginsel van non-refoulement, en opnieuw tot het grondgebied van dat land wordt toegelaten;  
 
-e. de vreemdeling op grond van een verdragsverplichting tussen Nederland en een ander land zal worden overgedragen aan dat land van eerder verblijf, terwijl dat land partij is bij het Vluchtelingenverdrag, het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (Trb. 1951, 154) en het Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing (Trb. 1985, 69), dan wel zich anderszins heeft verplicht artikel 33 van het Vluchtelingenverdrag, artikel 3 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden en artikel 3 van het Verdrag tegen foltering en andere wrede onmenselijke of onterende behandeling of bestraffing, na te leven.    
-2.  Het eerste lid, onder b, is niet van toepassing, indien naar aanleiding van een aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in artikel 28, ambtshalve de verblijfsvergunning, bedoeld in artikel 14, is verleend. 
-3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het eerste lid, onder d en e.
+c. een derde land voor de vreemdeling als veilig derde land wordt beschouwd;  
+
+d. de vreemdeling een opvolgende aanvraag heeft ingediend waaraan door de vreemdeling geen nieuwe elementen of bevindingen ten grondslag zijn gelegd of waarin geen nieuwe elementen of bevindingen aan de orde zijn gekomen die relevant kunnen zijn voor de beoordeling van de aanvraag; of  
+
+e. aan de vreemdeling reeds een verblijfsvergunning is verleend op grond van artikel 29, eerste lid.     
+2.  Het besluit een aanvraag niet-ontvankelijk te verklaren, wordt voor de toepassing van het bepaalde bij of krachtens deze wet gelijkgesteld met een afwijzing.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de toepassing van het eerste lid.  
+
+### Artikel  30b  
+
+1.  Een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 kan worden afgewezen als kennelijk ongegrond in de zin van artikel 32, tweede lid, van de Procedurerichtlijn, indien: 
+
+a. de vreemdeling bij de indiening van zijn aanvraag en de toelichting van de feiten alleen aangelegenheden aan de orde heeft gesteld die niet ter zake doen met betrekking tot de vraag of hij in aanmerking komt voor verlening van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28;  
+
+b. de vreemdeling afkomstig is uit een veilig land van herkomst in de zin van de artikelen 36 en 37 van de Procedurerichtlijn;  
+
+c. de vreemdeling Onze Minister heeft misleid door omtrent zijn identiteit of nationaliteit valse informatie of documenten te verstrekken of door relevante informatie of documenten die een negatieve invloed op de beslissing hadden kunnen hebben, achter te houden;  
+
+d. de vreemdeling waarschijnlijk, te kwader trouw, een identiteits- of reisdocument dat ertoe kon bijdragen dat zijn identiteit of nationaliteit werd vastgesteld, heeft vernietigd of zich daarvan heeft ontdaan;  
+
+e. de vreemdeling kennelijk inconsequente en tegenstrijdige, kennelijk valse of duidelijk onwaarschijnlijke verklaringen heeft afgelegd die strijdig zijn met voldoende geverifieerde informatie over het land van herkomst, waardoor zijn verklaringen alle overtuigingskracht wordt ontnomen met betrekking tot de vraag of hij in aanmerking komt voor verlening van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28;  
+
+f. de vreemdeling zijn aanvraag enkel heeft ingediend teneinde zijn uitzetting of overdracht uit te stellen of te verijdelen;  
+
+g. de vreemdeling een opvolgende aanvraag heeft ingediend en deze niet overeenkomstig artikel 30a, eerste lid, onderdeel d of e, niet-ontvankelijk is verklaard;  
+
+h. de vreemdeling Nederland onrechtmatig is binnengekomen of zijn verblijf op onrechtmatige wijze heeft verlengd en zich, gezien de omstandigheden van zijn binnenkomst, zonder gegronde reden niet zo snel mogelijk bij een ambtenaar belast met de grensbewaking of het toezicht op vreemdelingen heeft aangemeld, en daar kenbaar heeft gemaakt dat hij internationale bescherming wenst;  
+
+i. de vreemdeling weigert te voldoen aan de verplichting zijn vingerafdrukken te laten nemen;  
+
+j. de vreemdeling op ernstige gronden een gevaar vormt voor de openbare orde of nationale veiligheid; of  
+
+k. de vreemdeling onder dwang is uitgezet om ernstige redenen van openbare veiligheid of openbare orde.     
+2.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de toepassing van het eerste lid.  
+
+### Artikel  30c  
+
+1.  Een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 kan buiten behandeling worden gesteld in de zin van artikel 28 van de Procedurerichtlijn, indien: 
+
+a. de vreemdeling heeft nagelaten te antwoorden op verzoeken om informatie te verstrekken die van wezenlijk belang is voor zijn aanvraag;  
+
+b. de vreemdeling niet is verschenen bij een gehoor en hij niet binnen een termijn van twee weken heeft aangetoond dat dit niet aan hem is toe te rekenen; of  
+
+c. de vreemdeling is verdwenen of zonder toestemming van Onze Minister is vertrokken en hierover toerekenbaar niet binnen een termijn van twee weken contact heeft opgenomen met de bevoegde autoriteiten.     
+2.  Indien de vreemdeling een nieuwe aanvraag indient nadat zijn aanvraag buiten behandeling is gesteld, wordt deze behandeld als een eerste aanvraag, tenzij de vreemdeling eerder een aanvraag heeft gedaan die is afgewezen.   
+3.  Het besluit een aanvraag buiten behandeling te stellen, wordt voor de toepassing van het bepaalde bij of krachtens deze wet gelijkgesteld met een afwijzing.   
+4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de toepassing van het eerste en tweede lid.  
 
 ### Artikel  31  
 
-1.  Een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 wordt afgewezen indien de vreemdeling niet aannemelijk heeft gemaakt dat zijn aanvraag is gegrond op omstandigheden die, hetzij op zich zelf, hetzij in verband met andere feiten, een rechtsgrond voor verlening vormen.   
-2.  Bij het onderzoek naar de aanvraag wordt mede betrokken de omstandigheid dat: 
+1.  Een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 wordt afgewezen als ongegrond in de zin van artikel 32, eerste lid, van de Procedurerichtlijn, indien de vreemdeling niet aannemelijk heeft gemaakt dat zijn aanvraag is gegrond op omstandigheden die, hetzij op zichzelf, hetzij in verband met andere feiten, een rechtsgrond voor verlening vormen.   
+2.  De vreemdeling brengt alle elementen ter staving van zijn aanvraag zo spoedig mogelijk naar voren. Onze Minister beoordeelt in samenwerking met de vreemdeling de relevante elementen.   
+3.  De elementen, bedoeld in het tweede lid, omvatten de verklaringen van de vreemdeling en alle relevante documentatie in het bezit van de vreemdeling.   
+4.  Bij de beoordeling van de aanvraag wordt onder meer rekening gehouden met: 
 
-a. de vreemdeling reeds eerder, onder een andere naam, een aanvraag voor een verblijfsvergunning in Nederland heeft ingediend;  
+a. alle relevante feiten in verband met het land van herkomst op het tijdstip waarop een beslissing inzake de aanvraag wordt genomen, met inbegrip van wettelijke en bestuursrechtelijke bepalingen van het land van herkomst en de wijze waarop deze worden toegepast;  
 
-b. de vreemdeling zonder geldige reden niet heeft voldaan aan de aanwijzingen, bedoeld in artikel 55;  
+b. de door de vreemdeling afgelegde verklaring en overgelegde documenten, samen met informatie over de vraag of de vreemdeling aan vervolging in de zin van het Vluchtelingenverdrag of ernstige schade als bedoeld in artikel 29, eerste lid, onder b, blootgesteld is dan wel blootgesteld zou kunnen worden;  
 
-c. de vreemdeling niet beschikt over een voor toegang tot Nederland vereist document voor grensoverschrijding, tenzij hij zich onverwijld onder opgave van de plaats waar of waarlangs hij Nederland is binnengekomen heeft vervoegd bij een ambtenaar, belast met de grensbewaking of het toezicht op vreemdelingen, en daar kenbaar heeft gemaakt dat hij asiel wenst;  
+c. de individuele situatie en persoonlijke omstandigheden van de vreemdeling, waartoe factoren behoren als achtergrond, geslacht en leeftijd, teneinde te beoordelen of op basis van de persoonlijke omstandigheden van de vreemdeling, de daden waaraan hij blootgesteld is of blootgesteld zou kunnen worden, met vervolging in de zin van het Vluchtelingenverdrag of ernstige schade als bedoeld in artikel 29, eerste lid, onder b, overeenkomen;  
 
-d. de vreemdeling ter staving van zijn aanvraag valse of vervalste reis- of identiteitspapieren dan wel andere bescheiden heeft overgelegd en, hoewel daaromtrent ondervraagd, opzettelijk de echtheid daarvan heeft volgehouden;  
+d. de vraag of zijn activiteiten, sinds hij zijn land van herkomst of een land van eerder verblijf heeft verlaten, uitsluitend ten doel hadden de nodige voorwaarden te scheppen om een verzoek om internationale bescherming te kunnen indienen, teneinde na te gaan of de vreemdeling, in geval van terugkeer naar dat land, door die activiteiten aan vervolging in de zin van het Vluchtelingenverdrag of ernstige schade als bedoeld in artikel 29, eerste lid, onder b, zou worden blootgesteld;  
 
-e. de vreemdeling ter staving van zijn aanvraag opzettelijk reis- of identiteitspapieren dan wel andere bescheiden heeft overgelegd die niet op hem betrekking hebben;  
+e. de vraag of in redelijkheid kan worden verwacht dat de vreemdeling zich onder de bescherming kan stellen van een ander land waar hij zich op zijn nationaliteit kan beroepen.     
+5.  Het feit dat de vreemdeling in het verleden reeds is blootgesteld aan vervolging in de zin van het Vluchtelingenverdrag of ernstige schade als bedoeld in artikel 29, eerste lid, onder b, of dat hij hiermee rechtstreeks is bedreigd, is een duidelijke aanwijzing dat de vrees van de vreemdeling voor die vervolging gegrond is en het risico op die ernstige schade reëel is, tenzij er goede redenen zijn om aan te nemen dat die vervolging of die ernstige schade zich niet opnieuw zal voordoen.   
+6.  Indien de vreemdeling zijn verklaringen of een deel van zijn verklaringen niet met documenten kan onderbouwen, worden deze verklaringen geloofwaardig geacht en wordt de vreemdeling het voordeel van de twijfel gegund, wanneer aan de volgende voorwaarden is voldaan: 
 
-f. de vreemdeling ter staving van zijn aanvraag geen reis- of identiteitspapieren dan wel andere bescheiden kan overleggen die noodzakelijk zijn voor de beoordeling van zijn aanvraag, tenzij de vreemdeling aannemelijk kan maken dat het ontbreken van deze bescheiden niet aan hem is toe te rekenen;  
+a. de vreemdeling heeft een oprechte inspanning geleverd om zijn aanvraag te staven;  
 
-g. de vreemdeling afkomstig is uit een land dat partij is bij het Vluchtelingenverdrag en één van de andere in artikel 30, onder d, bedoelde verdragen en de vreemdeling niet aannemelijk heeft gemaakt dat het die verdragsverplichtingen ten aanzien van hem niet nakomt;  
+b. alle relevante elementen waarover de vreemdeling beschikt, zijn overgelegd, en er is een bevredigende verklaring gegeven omtrent het ontbreken van andere relevante elementen;  
 
-h. de vreemdeling heeft verbleven in een derde land dat partij is bij het Vluchtelingenverdrag en één van de in artikel 30, onder d, bedoelde verdragen en de vreemdeling niet aannemelijk heeft gemaakt dat het die verdragsverplichtingen ten aanzien van hem niet nakomt;  
+c. de verklaringen van de vreemdeling zijn samenhangend en aannemelijk bevonden en zijn niet in strijd met beschikbare algemene en specifieke informatie die relevant is voor zijn aanvraag;  
 
-i. de vreemdeling in een land van eerder verblijf zal worden toegelaten totdat hij elders duurzame bescherming zal hebben gevonden;  
+d. de vreemdeling heeft zijn aanvraag zo spoedig mogelijk ingediend, tenzij hij goede redenen kan aanvoeren waarom hij dit heeft nagelaten; en  
 
-j. de vreemdeling elders een verblijfsalternatief heeft omdat hij voorafgaand aan zijn komst naar Nederland heeft verbleven in een ander land dan het land van herkomst;  
-
-k. de vreemdeling een gevaar vormt voor de openbare orde of nationale veiligheid;  
-
-l.de vreemdeling afkomstig is uit een land dat ingevolge artikel 29 van de richtlijn asielprocedures door de Raad is opgenomen in de in dat artikel bedoelde gemeenschappelijke minimumlijst van derde landen die als veilig land van herkomst worden beschouwd.  
-3. Een aanvraag van een gezinslid als bedoeld in artikel 29, tweede lid, tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 kan worden afgewezen, indien gezinshereniging mogelijk is in een derde land waarmee de vreemdeling, bedoeld in artikel 29, eerste lid, of het desbetreffende gezinslid bijzondere banden heeft.
-4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het eerste lid, het tweede lid, onder g tot en met l, en het derde lid. 
-
-###Artikel 31a 
-
-1.  De aanvraag wordt niet aangemerkt als herhaalde aanvraag als bedoeld in artikel 4:6 van de Algemene wet bestuursrecht, indien:
-
-a)een eerdere aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 is afgewezen op grond van artikel 30, eerste lid, onder d, of met toepassing van artikel 31, tweede lid, onder h, en
-
-b)het betrokken derde land de vreemdeling niet tot zijn grondgebied heeft toegelaten, en
-
-c)de vreemdeling wederom een aanvraag indient tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28. 
-2.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste lid.
+e. vast is komen te staan dat de vreemdeling in grote lijnen als geloofwaardig kan worden beschouwd.     
+7.  Een aanvraag wordt niet onder verwijzing naar een eerdere afwijzende beslissing afgewezen indien de door de vreemdeling bij de aanvraag aangevoerde elementen en bevindingen grond bieden voor het vermoeden dat sprake is van bijzondere, op de individuele zaak betrekking hebbende, feiten en omstandigheden die hieraan in de weg staan.   
+8.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van het eerste tot en met zevende lid.  
 
 ### Artikel  32  
 
@@ -1000,7 +1060,7 @@ d. ambtshalve een verblijfsvergunning voor onbepaalde tijd te verlenen aan de la
 
 ### Artikel  34  
 
-1. De aanvraag tot het verlenen van een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 33 van de vreemdeling die direct voorafgaande aan de aanvraag, gedurende vijf achtereenvolgende jaren rechtmatig verblijf heeft genoten als bedoeld in artikel 8, onder c, kan slechts worden afgewezen indien zich op het moment waarop de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28, afloopt, een grond als bedoeld in artikel 32 voordoet, dan wel indien de vreemdeling het examen, bedoeld in artikel 7, tweede lid, onderdeel a, van de Wet inburgering, of een diploma, certificaat of ander document, bedoeld in artikel 5, eerste lid, onderdeel c, van die wet, niet heeft behaald. De periode van verblijf op grond van artikel 14, van de vreemdeling aan wie op grond van artikel 28, onderdeel e, ambtshalve een verblijfsvergunning voor bepaalde tijd is verleend, wordt aangemerkt als rechtmatig verblijf als bedoeld in artikel 8, onder c.  
+1. De aanvraag tot het verlenen van een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 33 van de vreemdeling die direct voorafgaande aan de aanvraag, gedurende vijf achtereenvolgende jaren rechtmatig verblijf heeft genoten als bedoeld in artikel 8, onder c, kan slechts worden afgewezen indien zich op het moment waarop de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28, afloopt, een grond als bedoeld in artikel 32 voordoet, dan wel indien de vreemdeling het examen, bedoeld in artikel 7, tweede lid, onderdeel a, van de Wet inburgering, of een diploma, certificaat of ander document, bedoeld in artikel 5, eerste lid, onderdeel c, van die wet, niet heeft behaald. De periode van verblijf op grond van artikel 14, van de vreemdeling aan wie op grond van artikel 28, eerste lid, onderdeel e, ambtshalve een verblijfsvergunning voor bepaalde tijd is verleend, wordt aangemerkt als rechtmatig verblijf als bedoeld in artikel 8, onder c.  
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van het inburgeringsvereiste, bedoeld in het eerste lid.
 
 ### Artikel  35  
@@ -1044,7 +1104,9 @@ d. de wijze waarop beschikkingen bij of krachtens deze wet ten aanzien van de vr
 
 ### Artikel  38  
 
-Indien de vreemdeling in de gelegenheid wordt gesteld zich omtrent de aanvraag tot het verlenen van een verblijfsvergunning of het verlengen van de geldigheidsduur ervan te doen horen, wordt de vreemdeling gehoord in een taal waarvan redelijkerwijze kan worden aangenomen dat hij die kan verstaan. 
+1. Indien de vreemdeling in de gelegenheid wordt gesteld zich omtrent de aanvraag tot het verlenen van een verblijfsvergunning of het verlengen van de geldigheidsduur ervan te doen horen, wordt de vreemdeling gehoord in een taal waaraan de vreemdeling de voorkeur geeft, tenzij er een andere taal kan worden gebruikt die hij begrijpt en waarin hij helder kan communiceren.  
+2.  Bij of direct na de indiening van de aanvraag tot het verlenen van een verblijfsvergunning wijst Onze Minister de vreemdeling erop dat hij elementen en bevindingen aannemelijk moet maken die hetzij op zichzelf, hetzij in verband met andere elementen en bevindingen, een rechtsgrond voor de verlening of verlenging van de vergunning vormen. Daarbij wordt hij erop gewezen dat hij daartoe verklaringen moet afleggen en alle bewijsmiddelen waarover hij beschikt of redelijkerwijs de beschikking kan krijgen moet overleggen.  
+3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het tweede lid. 
 
 ### Artikel  39  
 
@@ -1070,18 +1132,27 @@ De aanvraag tot het verlenen van een verblijfsvergunning voor onbepaalde tijd al
 1.  Op de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28, dan wel een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 33, wordt binnen zes maanden na ontvangst van de aanvraag een beschikking gegeven.   
 2.  De inwilliging van de aanvraag is mede afgestemd op het beleid dat Onze Minister na overleg met Onze Minister van Buitenlandse Zaken dienaangaande voert.   
 3.  Indien de aanvraag wordt afgewezen, wordt in de beschikking ingegaan op de zienswijze van de vreemdeling. In de beschikking wordt tevens ingegaan op de zienswijze van de vreemdeling op het voornemen om niet ambtshalve een verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 14, te verlenen, dan wel op het voornemen om de uitzetting of overdracht niet op grond van artikel 64 achterwege te laten indien hem van dat voornemen mededeling is gedaan.   
-4.  De termijn voor het geven van de beschikking, bedoeld in het eerste lid, kan ten hoogste voor zes maanden worden verlengd indien naar het oordeel van Onze Minister voor de beoordeling van de aanvraag advies van of onderzoek door derden of het openbaar ministerie nodig is.   
-5.  Onze Minister stelt de vreemdeling in kennis van de verlenging.  
+4.  De termijn, bedoeld in het eerste lid, kan met ten hoogste negen maanden worden verlengd, indien: 
+
+a. complexe feitelijke of juridische kwesties aan de orde zijn;  
+
+b. een groot aantal vreemdelingen tegelijk een aanvraag indient waardoor het in de praktijk zeer moeilijk is de procedure binnen de termijn van zes maanden af te ronden; of  
+
+c. de vertraging van de behandeling van de aanvraag aan de vreemdeling is toe te schrijven.     
+5.  Indien dit noodzakelijk is met het oog op een behoorlijke en volledige behandeling van de aanvraag, kan de termijn na de verlenging, bedoeld in het vierde lid, nogmaals verlengd worden met ten hoogste drie maanden.   
+6.  Indien in het kader van de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 wordt onderzocht of de aanvraag op grond van artikel 30 niet in behandeling dient te worden genomen, vangt de termijn, bedoeld in het eerste lid, aan op het tijdstip waarop overeenkomstig de Dublinverordening wordt vastgesteld dat Nederland verantwoordelijk is voor de behandeling van het verzoek.   
+7.  Onze Minister stelt de vreemdeling in kennis van de verlenging van de termijn en geeft, indien de vreemdeling daarom verzoekt, informatie over de reden van de verlenging en een indicatie van het tijdsbestek waarbinnen de beschikking, bedoeld in het eerste lid, te verwachten valt. 
 
 ### Artikel  43  
 
-Onverminderd artikel 42, vierde lid, en artikel 4:5 van de Algemene wet bestuursrecht kan bij besluit van Onze Minister voor bepaalde categorieën vreemdelingen die een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 hebben ingediend de termijn, bedoeld in artikel 42 worden verlengd met ten hoogste één jaar indien: 
+1.  Bij besluit van Onze Minister kan voor bepaalde categorieën vreemdelingen die een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 hebben ingediend, de termijn, bedoeld in artikel 42, eerste lid, worden verlengd tot ten hoogste eenentwintig maanden, indien naar verwachting voor een korte periode onzekerheid zal bestaan over de situatie in het land van herkomst en op grond daarvan redelijkerwijs niet kan worden beslist of de aanvraag op een van de gronden genoemd in artikel 29 kan worden ingewilligd.   
+2.  Indien Onze Minister een besluit neemt als bedoeld in het eerste lid, wordt: 
 
-a. naar verwachting voor een korte periode onzekerheid zal bestaan over de situatie in het land van herkomst en op grond daarvan redelijkerwijs niet kan worden beslist of de aanvraag op een van de gronden genoemd in artikel 29 kan worden toegewezen;  
+a. ten minste elke zes maanden de situatie in het betreffende land van herkomst beoordeeld;  
 
-b. naar verwachting de situatie in het land van herkomst op grond waarvan ingevolge artikel 29 de aanvraag kan worden toegewezen, van korte duur zal zijn, of,  
+b. binnen een redelijke termijn mededeling van het uitstel en de redenen voor het uitstel gedaan aan de aanvragers; en  
 
-c. het aantal ingediende aanvragen uit een bepaald land of uit een bepaalde regio zo groot is, dat Onze Minister redelijkerwijs niet in staat is daarop tijdig een beschikking te geven.   
+c. binnen een redelijke termijn mededeling van het uitstel gedaan aan de Europese Commissie.   
 
 ###Artikel 43a 
 
@@ -1106,9 +1177,9 @@ c. het aantal ingediende aanvragen uit een bepaald land of uit een bepaalde regi
 
 ### Artikel  44a  
 
-1.  Indien een aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28, wordt afgewezen op grond van artikel 30, eerste lid, onderdeel a, geldt de beschikking waarbij deze aanvraag wordt afgewezen als overdrachtsbesluit, en heeft zij van rechtswege tot gevolg dat: 
+1.  Indien een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28, niet in behandeling wordt genomen op grond van artikel 30, eerste lid, geldt dit besluit als overdrachtsbesluit, en heeft het van rechtswege tot gevolg dat: 
 
-a. de vreemdeling rechtmatig verblijf heeft op grond van artikel 8, eerste lid, onder m;  
+a. de vreemdeling rechtmatig verblijf heeft op grond van artikel 8, onder m;  
 
 b. de ambtenaren belast met het toezicht op vreemdelingen bevoegd zijn elke plaats te betreden, daaronder begrepen een woning zonder toestemming van de bewoner, teneinde de vreemdeling over te dragen;  
 
@@ -1130,7 +1201,7 @@ d. de ambtenaren belast met het toezicht op vreemdelingen na ommekomst van de te
 e. de ambtenaren belast met het toezicht op vreemdelingen bevoegd zijn na ommekomst van de termijn als bedoeld in onderdeel c een onroerende zaak gedwongen te ontruimen teneinde het onderdak of het verblijf in de woonruimte als verstrekking geboden, bedoeld in onderdeel c, te beëindigen.     
 2.  Het eerste lid is van overeenkomstige toepassing indien: 
 
-a. ingevolge artikel 4:5 van de Algemene wet bestuursrecht is besloten dat de aanvraag niet in behandeling wordt genomen, of  
+a. ingevolge artikel 4:5 van de Algemene wet bestuursrecht is besloten dat de aanvraag tot het verlenen van een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 33 niet in behandeling wordt genomen, of  
 
 b. een verblijfsvergunning is ingetrokken of niet verlengd.     
 3.  De in het eerste lid bedoelde gevolgen van de beschikking treden niet in zolang het beroep van de vreemdeling de werking van de beschikking opschort.   
@@ -1138,7 +1209,8 @@ b. een verblijfsvergunning is ingetrokken of niet verlengd.
 5.  De vreemdeling op wie het besluit als bedoeld in het vierde lid vantoepassing is, wordt geacht rechtmatig verblijf als bedoeld in artikel 8, onder j, te hebben.   
 6. De in het eerste lid bedoelde gevolgen van de beschikking treden niet in zolang de uitzetting van de vreemdeling op grond van de richtlijn tijdelijke bescherming achterwege blijft. De reeds ingetreden gevolgen worden opgeschort, indien Onze Minister heeft vastgesteld dat uitzetting op grond van de richtlijn tijdelijke bescherming achterwege blijft. De opgeschorte gevolgen, bedoeld in het eerste lid, treden opnieuw in na afloop van de tijdelijke bescherming. 
 7. Het verblijf van de vreemdeling, bedoeld in het zesde lid, wordt gelijkgesteld met rechtmatig verblijf in de zin van artikel 8, onder f. 
-8.  De beschikking, bedoeld in het eerste lid, kan tevens een inreisverbod inhouden. 
+8.  De beschikking, bedoeld in het eerste lid, kan tevens een inreisverbod inhouden.  
+9.  Indien de beschikking inhoudt dat de aanvraag van de vreemdeling tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 niet-ontvankelijk is verklaard op grond van artikel 30a, eerste lid, onderdeel a, geldt de beschikking, in afwijking van het eerste lid, aanhef, niet als terugkeerbesluit en is de vreemdeling, in afwijking van het eerste lid, onderdeel b, gehouden Nederland onmiddellijk te verlaten en zich naar het grondgebied te begeven van de lidstaat die een geldige verblijfsvergunning of andere toestemming tot verblijf heeft gegeven. 
 
 ### Afdeling  5  
 
@@ -1431,7 +1503,7 @@ b. rechtmatig verblijf heeft op grond van artikel 8, met uitzondering van de ond
 ### Artikel  58  
 
 1.  Indien zulks voor de uitzetting noodzakelijk is, kan Onze Minister in het geval, bedoeld in artikel 57, eerste lid, de vreemdeling een ruimte of plaats aanwijzen, die is beveiligd tegen ongeoorloofd vertrek.   
-2.  De artikelen 6, derde lid, 57, tweede tot en met vijfde lid en 59, derde lid, zijn van overeenkomstige toepassing.  
+2.  De artikelen 6, vierde lid, 57, tweede tot en met vijfde lid en 59, derde lid, zijn van overeenkomstige toepassing.  
 
 ### Artikel  59  
 
@@ -1439,7 +1511,7 @@ b. rechtmatig verblijf heeft op grond van artikel 8, met uitzondering van de ond
 
 a. geen rechtmatig verblijf heeft;  
 
-b. die rechtmatig verblijf heeft op grond van artikel 8, onder f, g en h.     
+b. die rechtmatig verblijf heeft op grond van artikel 8, onder f, g en h, niet zijnde een vreemdeling als bedoeld in artikel 59a of 59b.     
 2.  Indien de voor de terugkeer van de vreemdeling noodzakelijke bescheiden voorhanden zijn, dan wel binnen korte termijn voorhanden zullen zijn, wordt het belang van de openbare orde geacht de bewaring van de vreemdeling te vorderen, tenzij de vreemdeling rechtmatig verblijf heeft gehad op grond van artikel 8, onder a tot en met e, en l.   
 3.  Bewaring van een vreemdeling blijft achterwege indien en wordt beëindigd zodra hij te kennen geeft Nederland te willen verlaten en hiertoe voor hem ook gelegenheid bestaat.   
 4.  Bewaring krachtens het eerste lid, onder b, of het tweede lid duurt in geen geval langer dan vier weken. Indien voorafgaande aan de beslissing op de aanvraag toepassing is gegeven aan artikel 39, duurt de bewaring krachtens het eerste lid, onder b, in geen geval langer dan zes weken.   
@@ -1452,6 +1524,37 @@ b. die rechtmatig verblijf heeft op grond van artikel 8, onder f, g en h.
 
 1.  Onze Minister kan vreemdelingen op wie de Dublinverordening van toepassing is, met het oog op de overdracht aan een verantwoordelijke lidstaat in bewaring stellen met inachtneming van artikel 28 van de Dublinverordening.   
 2.  Artikel 59, derde lid, is van overeenkomstige toepassing.  
+
+### Artikel  59b  
+
+1.  De vreemdeling die rechtmatig verblijf heeft op grond van artikel 8, onder f, g of h, voor zover dit betrekking heeft op een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 28, kan door Onze Minister in bewaring worden gesteld, indien: 
+
+a. bewaring noodzakelijk is met het oog op vaststelling van de identiteit of nationaliteit van de vreemdeling;  
+
+b. bewaring noodzakelijk is met het oog op het verkrijgen van gegevens die noodzakelijk zijn voor beoordeling van een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28, met name indien er sprake is van een risico op onttrekking;  
+
+c. de vreemdeling: 
+
+1°. in bewaring werd gehouden in het kader van een terugkeerprocedure uit hoofde van de Terugkeerrichtlijn;  
+
+2°. reeds de mogelijkheid van toegang tot de asielprocedure heeft gehad; en  
+
+3°. op redelijke gronden aangenomen kan worden dat hij de aanvraag louter heeft ingediend om de uitvoering van het terugkeerbesluit uit te stellen of te verijdelen; of    
+
+d. de vreemdeling een gevaar vormt voor de nationale veiligheid of openbare orde als bedoeld in artikel 8, derde lid, onderdeel e, van de Opvangrichtlijn.     
+2.  De bewaring krachtens het eerste lid, onderdeel a, b of c, duurt niet langer dan vier weken, tenzij toepassing is gegeven aan artikel 39. In dat geval duurt de bewaring niet langer dan zes weken.   
+3.  De bewaring krachtens het eerste lid, onderdeel a, b of c, kan worden verlengd met ten hoogste drie maanden indien de vreemdeling rechtmatig verblijf heeft op grond van artikel 8, onder h.   
+4.  De bewaring krachtens het eerste lid, onderdeel d, duurt niet langer dan zes maanden.   
+5.  Onze Minister kan de bewaring krachtens het eerste lid, onderdeel d, met ten hoogste negen maanden verlengen, indien er sprake is van: 
+
+a. complexe feitelijke en juridische omstandigheden die betrekking hebben op de behandeling van de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28; en  
+
+b. een zwaarwegend belang van openbare orde of nationale veiligheid.    
+
+### Artikel  59c  
+
+1.  Onze Minister stelt een vreemdeling slechts in bewaring op grond van artikel 59, 59a of 59b, voor zover geen minder dwingende maatregelen doeltreffend kunnen worden toegepast.   
+2.  Bewaring van een vreemdeling blijft achterwege of wordt beëindigd, indien deze niet langer noodzakelijk is met het oog op het doel van de bewaring.  
 
 ### Artikel  60  
 
@@ -1616,7 +1719,17 @@ e. in het belang van de internationale betrekkingen van Nederland.
 ### Artikel  69  
 
 1.  In afwijking van artikel 6:7 van de Algemene wet bestuursrecht bedraagt de termijn voor het indienen van een bezwaar- of beroepschrift vier weken.   
-2.  In afwijking van het eerste lid bedraagt de beroepstermijn één week, indien de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 is afgewezen binnen een bij algemene maatregel van bestuur te bepalen aantal dagen, dat niet de dagen van de rust- en voorbereidingstermijn omvat.   
+2.  In afwijking van het eerste lid bedraagt de beroepstermijn één week, indien de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28:
+
+a. is afgewezen binnen een bij algemene maatregel van bestuur te bepalen aantal dagen, dat niet de dagen van de rust- en voorbereidingstermijn omvat;  
+
+b. niet in behandeling is genomen op grond van artikel 30;  
+
+c. niet-ontvankelijk is verklaard op grond van artikel 30a;  
+
+d. is afgewezen als kennelijk ongegrond op grond van artikel 30b; of  
+
+e. buiten behandeling is gesteld op grond van artikel 30c.     
 3.  In afwijking van artikel 6:7 van de Algemene wet bestuursrecht is het instellen van beroep als bedoeld in de artikelen 94 en 96 tegen een besluit als bedoeld in artikel 93 niet aan enige termijn gebonden. De termijn voor het instellen van het hoger beroep, bedoeld in artikel 95, bedraagt één week.  
 4.  In afwijking van het eerste lid bedraagt de beroepstermijn één week, indien een overdrachtsbesluit is genomen op grond van artikel 62b. 
 
@@ -1668,7 +1781,7 @@ d.  22, eerste lid, onder c of d;
 
 e. 45b, tweede lid, onder d of e.    
 3.  Het eerste lid is voorts niet van toepassing indien het besluit inhoudt de afwijzing van een herhaalde aanvraag of indien het bezwaarschrift of het administratief beroepschrift niet tijdig is ingediend.   
-4.  Het eerste lid is evenmin van toepassing indien de vreemdeling rechtens zijn vrijheid is of wordt ontnomen op grond van artikel 59 of 59a.   
+4.  Het eerste lid is evenmin van toepassing indien de vreemdeling rechtens zijn vrijheid is of wordt ontnomen op grond van artikel 59, 59a of 59b.   
 5.  Het eerste lid is, voor zover het betreft de opschortende werking gedurende de termijn voor het maken van bezwaar of het instellen van administratief beroep zolang geen bezwaar is gemaakt of administratief beroep is ingesteld, niet van toepassing op de verplichting, bedoeld in artikel 62, eerste lid of artikel 62c, eerste lid. 
 
 ### Paragraaf  2  
@@ -1730,21 +1843,23 @@ In afwijking van de artikelen 8:41, eerste lid, en 8:82, eerste lid, van de Alge
 ### Artikel  82  
 
 1.  De werking van het besluit omtrent een verblijfsvergunning wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.   
-2.  Het eerste lid is niet van toepassing indien het besluit inhoudt: 
+2.  Het eerste lid is niet van toepassing, indien: 
 
-a. de afwijzing van de aanvraag binnen een bij algemene maatregel van bestuur te bepalen aantal dagen, dat niet de dagen van de rust- en voorbereidingstermijn omvat;  
+a. de aanvraag niet in behandeling is genomen op grond van artikel 30;  
 
-b. de afwijzing van de herhaalde aanvraag;  
+b. de aanvraag niet-ontvankelijk is verklaard op grond van artikel 30a, met uitzondering van artikel 30a, eerste lid, onderdeel c;  
 
-c. de afwijzing van de aanvraag op grond van artikel 30, eerste lid, onder a en d;  
+c. de aanvraag is afwezen als kennelijk ongegrond op grond van artikel 30b, met uitzondering van artikel 30b, eerste lid, onderdeel h;  
 
-d. een besluit als bedoeld in de artikelen 43 en 45, vierde lid; of  
+d. de aanvraag buiten behandeling is gesteld op grond van artikel 30c;  
 
-e. een besluit als bedoeld in artikel 62b.    
+e. de aanvraag is afgewezen met toepassing van artikel 4:6 van de Awb, onder verwijzing naar een besluit waarin met toepassing van de Dublinverordening is vastgesteld dat een andere lidstaat verantwoordelijk is voor de behandeling van de aanvraag; of  
+
+f. het een besluit als bedoeld in artikel 43 of 45, vierde lid, betreft.     
 3.  Het eerste lid is niet van toepassing indien het beroepschrift niet tijdig is ingediend.   
-4.  Het eerste lid is voorts niet van toepassing indien de vreemdeling rechtens zijn vrijheid is of wordt ontnomen op grond van artikel 6 of 59.   
-5.  Het eerste lid is, voor zover het betreft de opschortende werking gedurende de beroepstermijn zolang geen beroep is ingesteld, niet van toepassing op de verplichting, bedoeld in artikel 62, eerste lid. 
-6. Het tweede lid, onder a en b, en het derde en vierde lid zijn niet van toepassing, indien de vreemdeling tijdelijke bescherming heeft.
+4.  Het eerste lid is, voor zover het betreft de opschortende werking gedurende de beroepstermijn zolang geen beroep is ingesteld, niet van toepassing op de verplichting, bedoeld in artikel 62, eerste lid. 
+5. Het tweede lid, onder a en b, en het derde lid zijn niet van toepassing, indien de vreemdeling tijdelijke bescherming heeft. 
+6.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent het recht om al dan niet in afwachting van de uitspraak op een verzoek om een voorlopige voorziening in Nederland te mogen verblijven. 
 
 ### Artikel  83  
 
@@ -1774,11 +1889,36 @@ b. deze gegevens niet relevant kunnen zijn voor de beschikking omtrent de verbli
 
 c. de goede procesorde zich daartegen verzet of de afdoening van de zaak daardoor ontoelaatbaar wordt vertraagd.    
 
+### Artikel  83.0a  
+
+Indien beroep is ingesteld tegen een besluit dat een gelijke strekking heeft als een besluit dat eerder ten aanzien van de indiener van het beroepschrift is genomen, zal dit besluit, ook bij het ontbreken van nieuw gebleken feiten of veranderde omstandigheden of een relevante wijziging van het recht, worden beoordeeld als ware het een eerste afwijzing indien hier wegens bijzondere, op de individuele zaak betrekking hebbende, feiten en omstandigheden, de noodzaak toe bestaat. 
+
+### Artikel  83a  
+
+De toetsing van de rechtbank omvat een volledig en ex nunc onderzoek naar zowel de feitelijke als de juridische gronden, met inbegrip van, indien van toepassing, een onderzoek naar de behoefte aan internationale bescherming. 
+
+### Artikel  83b  
+
+1.  Indien de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 is afgewezen binnen een bij algemene maatregel van bestuur te bepalen aantal dagen, dat niet de dagen van de rust- en voorbereidingstermijn omvat, doet de rechtbank binnen vier weken na het instellen van het beroep uitspraak.   
+2.  Indien de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 is afgewezen in andere dan de in het eerste lid bedoelde gevallen, doet de rechtbank binnen drieëntwintig weken na het instellen van het beroep uitspraak.   
+3.  In afwijking van het tweede lid doet de rechtbank binnen vier weken na het instellen van het beroep uitspraak, indien de aanvraag: 
+
+a. niet in behandeling is genomen op grond van artikel 30;  
+
+b. niet-ontvankelijk is verklaard op grond van artikel 30a;  
+
+c. is afgewezen als kennelijk ongegrond op grond van artikel 30b;  
+
+d. is afgewezen met toepassing van artikel 4:6 van de Awb, onder verwijzing naar een besluit waarin met toepassing van de Dublinverordening is vastgesteld dat een andere lidstaat verantwoordelijk is voor de behandeling van de aanvraag; of  
+
+e. buiten behandeling is gesteld op grond van artikel 30c.     
+4.  In de gevallen, bedoeld in het eerste en derde lid, is artikel 8:52, tweede en derde lid, van de Algemene wet bestuursrecht van overeenkomstige toepassing.  
+
 ### Afdeling  4  
 
 ####Hoger beroep
 
-### Artikel  83a  
+### Artikel  83c  
 
 1.  Op het hoger beroep zijn de titels 8.1 tot en met 8.3 van de Algemene wet bestuursrecht van overeenkomstige toepassing, met uitzondering van de artikelen 8:1 tot en met 8:5, 8:6, eerste lid, 8:7 tot en met 8:9, 8:10a, eerste tot en met derde lid, 8:13, 8:41, tweede lid, 8:54, tweede lid, 8:55, en 8:74, voor zover in deze wet niet anders is bepaald.   
 2.  Artikel 8:108, eerste en derde lid, van de Algemene wet bestuursrecht is niet van toepassing.   
@@ -1841,20 +1981,22 @@ Deze afdeling is van overeenkomstige toepassing op het hoger beroep tegen een ui
 
 ### Artikel  93  
 
-1.  Een aanwijzing op grond van artikel 6, eerste en tweede lid, artikel 6a, of op grond van artikel 55, eerste lid, de ophouding en de verlenging van de ophouding bedoeld in artikel 50, tweede, derde en vierde lid, en een ingevolge hoofdstuk 5 van deze wet genomen maatregel strekkende tot vrijheidsbeperking of vrijheidsontneming worden voor de toepassing van artikel 8:1 van de Algemene wet bestuursrecht gelijkgesteld met een besluit.   
+1.  Een aanwijzing op grond van artikel 6, eerste, tweede of derde lid, artikel 6a, of op grond van artikel 55, eerste lid, de ophouding en de verlenging van de ophouding bedoeld in artikel 50, tweede, derde en vierde lid, en een ingevolge hoofdstuk 5 van deze wet genomen maatregel strekkende tot vrijheidsbeperking of vrijheidsontneming worden voor de toepassing van artikel 8:1 van de Algemene wet bestuursrecht gelijkgesteld met een besluit.   
 2.  In afwijking van artikel 8:41 van de Algemene wet bestuursrecht wordt door de griffier geen griffierecht geheven.  
 
 ### Artikel  94  
 
-1.  Uiterlijk op de achtentwintigste dag na de bekendmaking van een besluit tot oplegging van een vrijheidsontnemende maatregel als bedoeld in de artikelen 6, 6a, 58, 59 en 59a, stelt Onze Minister de rechtbank hiervan in kennis, tenzij de vreemdeling voordien zelf beroep heeft ingesteld. Zodra de rechtbank de kennisgeving heeft ontvangen wordt de vreemdeling geacht beroep te hebben ingesteld tegen het besluit tot oplegging van een vrijheidsontnemende maatregel. Het beroep strekt tevens tot een verzoek om toekenning van schadevergoeding.   
-2.  De rechtbank bepaalt onmiddellijk het tijdstip van het onderzoek ter zitting. De zitting vindt uiterlijk op de veertiende dag na ontvangst van het beroepschrift dan wel de kennisgeving plaats. De rechtbank roept de vreemdeling op om in persoon dan wel in persoon of bij raadsman en Onze Minister om bij gemachtigde te verschijnen teneinde te worden gehoord. In afwijking van artikel 8:42, tweede lid, van de Algemene wet bestuursrecht kan de in dat artikel bedoelde termijn niet worden verlengd.   
-3.  De rechtbank doet mondeling of schriftelijk uitspraak. De schriftelijke uitspraak wordt binnen zeven dagen na de sluiting van het onderzoek gedaan. In afwijking van artikel 8:66, tweede lid, van de Algemene wet bestuursrecht kan de in dat artikel bedoelde termijn niet worden verlengd.   
-4.  Indien de rechtbank bij het beroep van oordeel is dat de toepassing of tenuitvoerlegging van de maatregel in strijd is met deze wet dan wel bij afweging van alle daarbij betrokken belangen in redelijkheid niet gerechtvaardigd is, verklaart zij het beroep gegrond. In dat geval beveelt de rechtbank de opheffing van de maatregel of een wijziging van de wijze van tenuitvoerlegging daarvan.   
-5.  Het eerste, derde en vierde lid zijn van overeenkomstige toepassing op een besluit tot verlenging van een vrijheidsontnemende maatregel als bedoeld in artikel 59, zesde lid. In afwijking van artikel 8:57 van de Algemene wet bestuursrecht kan de rechtbank ook zonder toestemming van partijen bepalen dat het onderzoek ter zitting achterwege blijft. 
+1.  Uiterlijk op de achtentwintigste dag na de bekendmaking van een besluit tot oplegging van een vrijheidsontnemende maatregel als bedoeld in de artikelen 6, 6a, 58, 59, 59a en 59b, stelt Onze Minister de rechtbank hiervan in kennis, tenzij de vreemdeling voordien zelf beroep heeft ingesteld. Zodra de rechtbank de kennisgeving heeft ontvangen wordt de vreemdeling geacht beroep te hebben ingesteld tegen het besluit tot oplegging van een vrijheidsontnemende maatregel. Het beroep strekt tevens tot een verzoek om toekenning van schadevergoeding.   
+2.  Indien aan de vreemdeling, bedoeld in het eerste lid, een besluit is uitgereikt, als bedoeld in artikel 3, eerste of zesde lid, wordt het beroep, bedoeld in het eerste lid, geacht mede een beroep tegen dit besluit te omvatten.   
+3.  Het tweede lid is niet van toepassing indien tussen het besluit, bedoeld in artikel 3, eerste of zesde lid, en het opleggen van de vrijheidsontnemende maatregel meer dan achtentwintig dagen zijn verstreken.  
+4.  De rechtbank bepaalt onmiddellijk het tijdstip van het onderzoek ter zitting. De zitting vindt uiterlijk op de veertiende dag na ontvangst van het beroepschrift dan wel de kennisgeving plaats. De rechtbank roept de vreemdeling op om in persoon dan wel in persoon of bij raadsman en Onze Minister om bij gemachtigde te verschijnen teneinde te worden gehoord. In afwijking van artikel 8:42, tweede lid, van de Algemene wet bestuursrecht kan de in dat artikel bedoelde termijn niet worden verlengd.   
+5.  De rechtbank doet mondeling of schriftelijk uitspraak. De schriftelijke uitspraak wordt binnen zeven dagen na de sluiting van het onderzoek gedaan. In afwijking van artikel 8:66, tweede lid, van de Algemene wet bestuursrecht kan de in dat artikel bedoelde termijn niet worden verlengd.   
+6.  Indien de rechtbank bij het beroep van oordeel is dat de toepassing of tenuitvoerlegging van de maatregel in strijd is met deze wet dan wel bij afweging van alle daarbij betrokken belangen niet gerechtvaardigd is, verklaart zij het beroep gegrond. In dat geval beveelt de rechtbank de opheffing van de maatregel of een wijziging van de wijze van tenuitvoerlegging daarvan.   
+7.  Het eerste, vijfde en zesde lid zijn van overeenkomstige toepassing op een besluit tot verlenging van een vrijheidsontnemende maatregel als bedoeld in artikel 59, zesde lid. In afwijking van artikel 8:57 van de Algemene wet bestuursrecht kan de rechtbank ook zonder toestemming van partijen bepalen dat het onderzoek ter zitting achterwege blijft. 
 
 ### Artikel  95  
 
-1.  In afwijking van artikel 84, onder a, staat tegen de uitspraak van de rechtbank, bedoeld in artikel 94, derde lid, hoger beroep open op de Afdeling bestuursrechtspraak van de Raad van State.   
+1.  In afwijking van artikel 84, onder a, staat tegen de uitspraak van de rechtbank, bedoeld in artikel 94, vijfde lid, hoger beroep open op de Afdeling bestuursrechtspraak van de Raad van State.   
 2.  Afdeling 4 is van toepassing. In afwijking van artikel 84, onder d, strekt het hoger beroep zich ook uit over de toekenning van schadevergoeding, bedoeld in artikel 106.   
 3.  In afwijking van de artikelen 8:41, eerste lid, en 8:82 van de Algemene wet bestuursrecht wordt door de secretaris geen griffierecht geheven.  
 
@@ -2020,7 +2162,7 @@ d. op welke wijze wordt gewaarborgd dat de verwerkte persoonsgegevens slechts wo
 
 ### Artikel  108  
 
-1. Met hechtenis van ten hoogste zes maanden of geldboete van de tweede categorie wordt gestraft overtreding van bij ministeriële regeling aan te wijzen voorschriften vastgesteld bij of krachtens de Schengengrenscode, overtreding van een voorschrift, vastgesteld bij of krachtens de artikelen 2t, tweede en derde lid, 5, eerste en tweede lid, 24a, tweede en derde lid, 46, tweede lid, aanhef, en onder b, alsmede handelen in strijd met artikel 56, eerste lid, dan wel handelen in strijd met een verplichting opgelegd bij of krachtens de artikelen 2a, tweede lid onder b, 6, eerste lid, 6a, eerste lid, 54, 55, 57, eerste lid, 58, eerste lid, of 65, derde lid.  
+1. Met hechtenis van ten hoogste zes maanden of geldboete van de tweede categorie wordt gestraft overtreding van bij ministeriële regeling aan te wijzen voorschriften vastgesteld bij of krachtens de Schengengrenscode, overtreding van een voorschrift, vastgesteld bij of krachtens de artikelen 2t, tweede en derde lid, 5, eerste en tweede lid, 24a, tweede en derde lid, 46, tweede lid, aanhef, en onder b, alsmede handelen in strijd met artikel 56, eerste lid, dan wel handelen in strijd met een verplichting opgelegd bij of krachtens de artikelen 2a, tweede lid onder b, 6, eerste of derde lid, 6a, eerste lid, 54, 55, 57, eerste lid, 58, eerste lid, of 65, derde lid.  
 2.  Overtreding van een voorschrift, vastgesteld bij of krachtens artikel 4, eerste tot en met derde lid, wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.  
 3.  De in het eerste en tweede lid strafbaar gestelde feiten worden beschouwd als overtredingen.   
 4.  Met de opsporing van de in het eerste en tweede lid strafbaar gestelde feiten zijn, onverminderd artikel 141 van het Wetboek van Strafvordering, belast de ambtenaren belast met de grensbewaking en ambtenaren belast met het vreemdelingentoezicht. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht, voor zover deze feiten betrekking hebben op een aanwijzing, vordering of handeling, gedaan of ondernomen door henzelf.  

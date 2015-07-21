@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Het recht, genoemd in artikel 2, eerste lid, van de Wet rechten burgerlijke stand bedraagt voor de onder a, b, d en e genoemde stukken € 12,50 en voor de onder c genoemde stukken € 22,30.   
+1.  Het recht, genoemd in artikel 2, eerste lid, van de Wet rechten burgerlijke stand bedraagt voor de onder a, b, d en e genoemde stukken € 12,70 en voor de onder c genoemde stukken € 22,60.   
 2.  De in het eerste lid genoemde bedragen worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd voor zover de consumentenprijsindex, geldend voor de maand april van het voorafgaande jaar, daartoe aanleiding geeft. De bedragen, naar boven afgerond op 10 eurocent, worden vóór 1 september van het voorafgaande jaar bekend gemaakt.   
 3.  Onder de consumentenprijsindex wordt verstaan de consumentenprijsindex reeks: Alle huishoudens, totaal, op meest recente tijdsbasis, zoals dat wordt berekend door het Centraal Bureau voor de Statistiek en gepubliceerd in het Statistisch bulletin van het Centraal Bureau voor de Statistiek.   
 

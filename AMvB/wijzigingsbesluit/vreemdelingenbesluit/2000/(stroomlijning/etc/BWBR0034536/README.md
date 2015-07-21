@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 17 juli 2013, nr. 408326;
 
-Gelet op de [artikelen 14, tweede lid](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [16, tweede lid](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [24, eerste lid](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [31, derde lid](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [32, tweede lid](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [37](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [39, derde lid](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), en [66 van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);
+Gelet op de artikelen 14, tweede lid, 16, tweede lid, 24, eerste lid, 31, derde lid, 32, tweede lid, 37, 39, derde lid, en 66 van de Vreemdelingenwet 2000;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 13 september 2013, no. W03.13.0238/II);
 
@@ -19,8 +19,8 @@ Wijzigt het Vreemdelingenbesluit 2000.
 
 ### Artikel  II  
 
-1.  [Artikel 3.103 van het Vreemdelingenbesluit 2000](../../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) is van overeenkomstige toepassing op aanvragen voor een verblijfsvergunning als bedoeld in [artikel 28 van de Wet](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), die zijn ontvangen voor de inwerkingtreding van dit besluit.   
-2.  Bij regeling van Onze Minister van Veiligheid en Justitie kunnen nadere regels worden gesteld inzake de toepassing van [artikel 3.103 van het Vreemdelingenbesluit 2000](../../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) op aanvragen die zijn ontvangen voor de inwerkingtreding van dit besluit.   
+1.  Artikel 3.103 van het Vreemdelingenbesluit 2000 is van overeenkomstige toepassing op aanvragen voor een verblijfsvergunning als bedoeld in artikel 28 van de Wet, die zijn ontvangen voor de inwerkingtreding van dit besluit.   
+2.  Bij regeling van Onze Minister van Veiligheid en Justitie kunnen nadere regels worden gesteld inzake de toepassing van artikel 3.103 van het Vreemdelingenbesluit 2000 op aanvragen die zijn ontvangen voor de inwerkingtreding van dit besluit.   
 3.  Bij regeling van Onze Minister van Veiligheid en Justitie kunnen nadere regels worden gesteld met betrekking tot de invoering van dit besluit.  
 
 ### Artikel  III  

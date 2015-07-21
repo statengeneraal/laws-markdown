@@ -407,7 +407,7 @@ Any Party may denounce the present Convention by written notification to the Dep
 
 1.  The original of the present Convention, in the Chinese, English, French, Russian and Spanish languages, each version being equally authentic, shall be deposited with the Depositary Government, which shall transmit certified copies thereof to all States that have signed it or deposited instruments of accession to it.   
 2.  The Depositary Government shall inform all signatory and acceding States and the Secretariat of signatures, deposit of instruments of ratification, acceptance, approval or accession, entry into force of the present Convention, amendments thereto, entry and withdrawal of reservations and notifications of denunciation.   
-3.  As soon as the present Convention enters into force, a certified copy thereof shall be transmitted by the Depositary Government to the Secretariat of the United Nations for registration and publication in accordance with [Article 102 of the Charter of the United Nations](../../../../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).  
+3.  As soon as the present Convention enters into force, a certified copy thereof shall be transmitted by the Depositary Government to the Secretariat of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations.  
 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized to that effect, have signed the present Convention. DONE at Washington this third day of March, One Thousand Nine Hundred and Seventy-three.  
 
@@ -2323,7 +2323,7 @@ Deze Overeenkomst moet worden bekrachtigd, aanvaard of goedgekeurd. De akten van
 
 Deze Overeenkomst staat voor onbepaalde tijd open voor toetreding. De akten van toetreding worden nedergelegd bij de depot-Regering. 
 
-1.Deze Overeenkomst staat open voor toetreding door organisaties voor regionale economische integratie, opgericht door soevereine Staten, die bevoegd zijn met betrekking tot het onderhandelen overen het sluiten en het ten uitvoer leggen van internationale overeenkomsten betreffende aangelegenheden aan hen overgedragen door hun Lid-Staten en vallend onder deze Overeenkomst.
+1.Deze Overeenkomst staat open voor toetreding door organisaties voor regionale economische integratie, opgericht door soevereine Staten, die bevoegd zijn met betrekking tot het onderhandelen over en het sluiten en het ten uitvoer leggen van internationale overeenkomsten betreffende aangelegenheden aan hen overgedragen door hun Lid-Staten en vallend onder deze Overeenkomst.
 
 2.In hun akten van toetreding geven deze organisaties de reikwijdte aan van hun bevoegdheid met betrekking tot de door de Overeenkomst geregelde aangelegenheden. Deze organisaties stellen ook de depot-Regering in kennis van alle belangrijke wijzigingen in de reikwijdte van hun bevoegdheid. Kennisgevingen van organisaties voor regionale economische integratie betreffende hun bevoegdheid met betrekking tot aangelegenheden, geregeld door deze Overeenkomst, en wijzigingen in deze bevoegdheid, worden door de depot-Regering toegezonden aan de Partijen.
 
@@ -2364,7 +2364,7 @@ Elke Partij kan deze Overeenkomst opzeggen door middel van een aan de depot-Rege
 
 1.  Het oorspronkelijke exemplaar van deze Overeenkomst, waarvan de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de depot-Regering die daarvan voor eensluidend gewaarmerkte afschriften doet toekomen aan alle Staten die haar hebben ondertekend of die akten van toetreding tot deze Overeenkomst hebben nedergelegd.   
 2.  De depot-Regering stelt de ondertekenende en tot deze Overeenkomst toetredende Staten en het Secretariaat in kennis van de ondertekeningen, de nederlegging van akten van bekrachtiging, aanvaarding, goedkeuring of toetreding, de inwerkingtreding van deze Overeenkomst, wijzigingen daarvan, de indiening en intrekking van voorbehouden en kennisgevingen van opzegging.    
-3.  Zodra deze Overeenkomst in werking is getreden, doet de depot-Regering een voor eensluidend gewaarmerkt afschrift van deze Overeenkomst toekomen aan het Secretariaat der Verenigde Naties ter registratie en publikatie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](../../../../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).  
+3.  Zodra deze Overeenkomst in werking is getreden, doet de depot-Regering een voor eensluidend gewaarmerkt afschrift van deze Overeenkomst toekomen aan het Secretariaat der Verenigde Naties ter registratie en publikatie overeenkomstig artikel 102 van het Handvest der Verenigde Naties.  
 
 TEN BLIJKE WAARVAN de ondergetekende Gevolmachtigden, hiertoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend. GEDAAN te Washington drie maart, negentienhonderd drieënzeventig.  
 
