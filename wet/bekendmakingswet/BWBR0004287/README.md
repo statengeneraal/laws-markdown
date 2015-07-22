@@ -19,7 +19,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  2  
 
-1.  De zorg voor de uitgifte van het *Staatsblad* berust bij Onze Minister van Justitie.   
+1.  De zorg voor de uitgifte van het *Staatsblad* berust bij Onze Minister van Veiligheid en Justitie.   
 2.   De zorg voor de uitgifte van de *Staatscourant* berust bij Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.  
 
 ### Artikel  3  
@@ -55,21 +55,23 @@ Wetten, algemene maatregelen van bestuur en vanwege het Rijk anders dan bij wet 
 
 ### Artikel  7a  
 
-1.  Indien bij of krachtens de wet is bepaald dat na de bekendmaking van een algemene maatregel van bestuur of een vanwege het Rijk anders dan bij wet of algemene maatregel van bestuur vastgesteld algemeen verbindend voorschrift een bepaalde periode dient te verstrijken alvorens de regeling in werking kan treden, kan in afwijking daarvan een eerder tijdstip van inwerkingtreding worden vastgesteld, indien de regeling uitsluitend strekt tot uitvoering van een bindend besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen.   
+1.  Indien bij of krachtens de wet is bepaald dat na de bekendmaking van een algemene maatregel van bestuur of een vanwege het Rijk anders dan bij wet of algemene maatregel van bestuur vastgesteld algemeen verbindend voorschrift een bepaalde periode dient te verstrijken alvorens de regeling in werking kan treden, kan in afwijking daarvan een eerder tijdstip van inwerkingtreding worden vastgesteld, indien de regeling uitsluitend strekt tot uitvoering van een bindend besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Europese Commissie.   
 2.   Artikel 1:8, tweede lid, van de Algemene wet bestuursrecht is van overeenkomstige toepassing.  
 
 ### Artikel  8  
 
-Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de plaatsing van wetten en besluiten in het *Staatsblad* en de *Staatscourant*, met betrekking tot de verdere inhoud van de *Staatscourant* en met betrekking tot de bewaring van oorspronkelijke exemplaren van wetten, koninklijke besluiten en daarbij behorende stukken. 
+1.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de plaatsing van wetten en besluiten in het Staatsblad en de Staatscourant en met betrekking tot de bewaring van oorspronkelijke exemplaren van wetten, koninklijke besluiten en daarbij behorende stukken.   
+2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de verdere inhoud van de Staatscourant.   
+3.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan regels stellen met betrekking tot het in rekening brengen van kosten voor plaatsing in de Staatscourant.  
 
 ### Artikel  9  
 
-Indien elektronische uitgifte van het Staatsblad onderscheidenlijk van de Staatscourant op de in artikel 1 voorziene wijze geheel of gedeeltelijk onmogelijk is, voorziet Onze Minister van Justitie onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in een vervangende uitgave volgens bij ministeriële regeling te stellen regels. 
+Indien elektronische uitgifte van het Staatsblad onderscheidenlijk van de Staatscourant op de in artikel 1 voorziene wijze geheel of gedeeltelijk onmogelijk is, voorziet Onze Minister van Veiligheid en Justitie onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in een vervangende uitgave volgens bij ministeriële regeling te stellen regels. 
 
 ### Artikel  10  
 
 1.  Aan een ieder wordt op verzoek een papieren afschrift van het Staatsblad onderscheidenlijk de Staatscourant verstrekt tegen ten hoogste de kosten van het maken van een zodanig afschrift.   
-2.  Onze Minister van Justitie onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties wijst een uitgiftepunt aan waar het in het eerste lid bedoelde afschrift van het Staatsblad onderscheidenlijk de Staatscourant verkregen kan worden.  
+2.  Onze Minister van Veiligheid en Justitie onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties wijst een uitgiftepunt aan waar het in het eerste lid bedoelde afschrift van het Staatsblad onderscheidenlijk de Staatscourant verkregen kan worden.  
 
 ### Artikel  10a  
 

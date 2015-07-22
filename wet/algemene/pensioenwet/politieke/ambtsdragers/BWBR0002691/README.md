@@ -2501,6 +2501,16 @@ c. voldoet aan de in artikel 132, tweede lid, bedoelde eisen ten aanzien van de 
 4.  Uitkeringen ter zake van een ontslag of aftreden vóór het tijdstip van inwerkingtreding van de Wet aanpassing pensioenleeftijd Appa worden verstrekt overeenkomstig de regels zoals die golden op de dag voorafgaand aan dat tijdstip.   
 5.  De uitkering van een betrokkene ter zake van een ontslag of aftreden vóór het tijdstip van inwerkingtreding van de Wet aanpassing pensioenleeftijd Appa wordt voortgezet tot zijn pensioengerechtigde leeftijd indien zij is toegekend op grond van artikel 132, tweede lid.  
 
+### Artikel  163cb  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Een belanghebbende die op de datum van inwerkingtreding van de Wet verkorting duur voortgezette uitkering Appa, lid van gedeputeerde staten, wethouder of lid van het dagelijks bestuur van een waterschap is en in dit ambt wordt herbenoemd na de eerstvolgende verkiezingen voor provinciale staten, de raad of het algemeen bestuur van het waterschap na die datum, wordt bij aftreden een uitkering verstrekt overeenkomstig de regels zoals die golden op de dag voor die datum, indien hij tevens op de datum van zijn herbenoeming: 
+
+a. negen jaar en zeven maanden of minder verwijderd is van de pensioengerechtigde leeftijd die is vastgesteld voor het kalenderjaar vijf jaren na het ontslag of aftreden, en  
+
+b. in het tijdvak van twaalf jaren dat aan de datum van herbenoeming voorafgaat ten minste tien jaren een functie heeft bekleed als genoemd in artikel 2, tweede lid.     
+2.  Het eerste lid is van overeenkomstige toepassing bij een herbenoeming van een commissaris van de Koning, een burgemeester en een voorzitter van een waterschap.  
+
 ### Artikel  163d  
 
 Ten aanzien van leden van het dagelijks bestuur van een waterschap die na de waterschapsverkiezingen in 2008 op 8 januari 2009 zijn herbenoemd, wordt voor de opbouw van het pensioen over de pensioengeldige tijd tot en met 7 januari 2009 gerekend met de pensioengrondslag gebaseerd op de wedde die het lid van het dagelijks bestuur genoot op 7 januari 2009. 

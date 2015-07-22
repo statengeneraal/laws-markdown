@@ -890,26 +890,22 @@ c. redenen van openbare orde (waaronder begrepen de openbare rust) of nationale 
 
 d. de uitzetting daardoor wordt belemmerd; of  
 
-e. sprake is van misbruik van recht.    *Ad a.*  De IND merkt een verzoek om een voorlopige voorziening aan als een eerste verzoek als niet eerder in dezelfde zaak om een voorlopige voorziening is verzocht. Een tweede of herhaald verzoek om een voorlopige voorziening mag niet worden afgewacht. Van een tweede verzoek om een voorlopige voorziening als hiervoor bedoeld is geen sprake als in dezelfde procedure eerder een verzoek om een voorlopige voorziening door de voorzieningenrechter is toegewezen.  *Ad d.*  De IND merkt de volgende situaties in ieder geval aan als situaties die de uitzetting belemmeren: 
+e. sprake is van misbruik van recht.   De hierboven gegeven regel over de mogelijkheid om de uitspraak op een verzoek om een voorlopige voorziening in Nederland af te wachten geldt niet wanneer het besluit betrekking heeft op een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd. In dat geval wordt verwezen naar paragraaf C2/11 Vc onder *voorlopige voorziening*. 
+###Ad a.
+
+De IND merkt een verzoek om een voorlopige voorziening aan als een eerste verzoek als niet eerder in dezelfde zaak om een voorlopige voorziening is verzocht. Een tweede of herhaald verzoek om een voorlopige voorziening mag niet worden afgewacht. Van een tweede verzoek om een voorlopige voorziening als hiervoor bedoeld is geen sprake als in dezelfde procedure eerder een verzoek om een voorlopige voorziening door de voorzieningenrechter is toegewezen. 
+###Ad d.
+
+De IND merkt de volgende situaties in ieder geval aan als situaties die de uitzetting belemmeren: 
 
 * het paspoort van de vreemdeling, de daarin voorkomende visa of de vervangende reisdocumenten, zijn nog slechts voor korte tijd geldig;  
 
 * de vreemdeling kan worden overgedragen op grond van terug- en overnameovereenkomsten en de terugname of overname op grond van de bepalingen van de overeenkomst zou niet meer haalbaar zijn; of  
 
-* de vreemdeling kan met een door de DT&V georganiseerde overheidsvlucht uitgezet worden, terwijl uitzetting door het afwachten van de behandeling van het verzoek om voorlopige voorziening voor langere tijd niet meer haalbaar is.    *Ad e.*  Van misbruik van recht is uitsluitend sprake als het verzoek om een voorlopige voorziening geen enkel redelijk belang heeft en sprake is van indiening van het verzoek te kwader trouw.
-###Het verzoek om een voorlopige voorziening bij Dublinclaimanten
+* de vreemdeling kan met een door de DT&V georganiseerde overheidsvlucht uitgezet worden, terwijl uitzetting door het afwachten van de behandeling van het verzoek om voorlopige voorziening voor langere tijd niet meer haalbaar is.   
+###Ad e.
 
-De IND staat de vreemdeling toe een verzoek om een voorlopige voorziening, dat connex is aan een rechtsmiddel dat is gericht tegen een overdrachtsbesluit in de zin van Verordening (EU) nr. 604/2013, in Nederland af te wachten, tenzij: 
-
-a. het verzoek niet binnen 24 uur na bekendmaking van het overdrachtsbesluit is ingediend; of  
-
-b. er sprake is geweest van een eerder overdrachtsbesluit en 
-
-* daartegen geen rechtsmiddelen zijn ingediend; of  
-
-* in de beroepsprocedure tegen het overdrachtsbesluit niet binnen 24 uur een verzoek om een voorlopige voorziening is ingediend; of  
-
-* in die procedure het verzoek om een voorlopige voorziening door de voorzieningenrechter is afgewezen,     en zich nadien geen nieuwe feiten of omstandigheden hebben voorgedaan.   
+Van misbruik van recht is uitsluitend sprake als het verzoek om een voorlopige voorziening geen enkel redelijk belang heeft en sprake is van indiening van het verzoek te kwader trouw.   
 ### 8  
 
 ####Bewijsmiddelen
@@ -3071,7 +3067,7 @@ Voor zover indicaties van mensenhandel zich voordoen bij een vreemdeling die via
 2. de verblijfsvergunning voor slachtoffers van mensenhandel; en  
 
 3. de verblijfsvergunning voor getuige-aangevers van mensenhandel.   
-### *Ad 1. De bedenktijd* 
+###Ad 1. De bedenktijd
 
 Aan vermoedelijke slachtoffers van mensenhandel wordt op grond van artikel 8, onder k Vw een bedenktijd van maximaal drie maanden gegund, waarbinnen zij een beslissing moeten nemen of zij aangifte willen doen van mensenhandel of op andere wijze medewerking willen verlenen aan een strafrechtelijk opsporings- of vervolgingsonderzoek naar of berechting in feitelijke aanleg van een verdachte van mensenhandel, of dat zij hiervan afzien. Reeds bij de geringste aanwijzing dat sprake is van mensenhandel, biedt de politie aan het vermoedelijke slachtoffer de bedenktijd aan. Gedurende de bedenktijd schort de IND het vertrek van het vermoedelijke slachtoffer van mensenhandel uit Nederland op. De periode van de bedenktijd is eenmalig en wordt niet verlengd. De bedenktijd staat uitsluitend open voor vreemdelingen die niet rechtmatig in Nederland verblijven en: 
 
@@ -3088,25 +3084,23 @@ Aan vermoedelijke slachtoffers van mensenhandel wordt op grond van artikel 8, on
 * het vermoedelijke slachtoffer aangifte van mensenhandel heeft gedaan en het proces-verbaal heeft ondertekend, of op andere wijze medewerking heeft verleend aan een strafrechtelijk opsporings- of vervolgingsonderzoek naar of berechting in feitelijke aanleg van de verdachte; of  
 
 * het vermoedelijke slachtoffer een aanvraag voor een verblijfsvergunning (anders dan op grond van deze paragraaf) indient.   Als de bedenktijd eindigt, heft de IND de opschorting van het vertrek op. 
-### *Ad 2. en 3. De verblijfsvergunning voor slachtoffers en getuige-aangevers van mensenhandel* 
+###Ad 2. en 3. De verblijfsvergunning voor slachtoffers en getuige-aangevers van mensenhandel
 
 De IND merkt de kennisgeving van aangifte of het verlenen van medewerking aan het strafproces mensenhandel (Model M55) ambtshalve aan als een aanvraag tot het verlenen van een verblijfsvergunning, zodra deze door de politie is doorgestuurd naar de IND. In aanvulling op artikel 3.48, derde lid, Vb wijst de IND de aanvraag tot het verlenen van de verblijfsvergunning niet af als de vreemdeling: 
 
 * een gevaar vormt voor de openbare orde, waarbij sprake is van een inbreuk op de openbare orde die rechtstreeks verband houdt met het feit waarvan aangifte is gedaan of anderszins medewerking is verleend; of  
 
 * niet beschikt over een geldig document voor grensoverschrijding.   De IND beslist op een aanvraag van een vermoedelijk slachtoffer van mensenhandel binnen een streeftermijn van 24 uur nadat de aanvraag door de politie aan de IND is verzonden. 
-### *Ambtshalve verlening in de asielprocedure* 
+###Ambtshalve verlening in de asielprocedure
 
-In afwijking van het bovenstaande merkt de IND de kennisgeving van aangifte of het verlenen van medewerking aan het strafproces mensenhandel gedurende de asielprocedure (Model M55) niet ambtshalve aan als aanvraag als de vreemdeling er voor kiest de inhoudelijke beoordeling van de aanvraag voor het verlenen van een verblijfsvergunning asiel voor bepaalde tijd af te wachten. De IND verleent de verblijfsvergunning regulier voor bepaalde tijd uitsluitend ambtshalve: 
+De IND toetst bij de ambtshalve beoordeling of de vreemdeling in aanmerking komt voor een verblijfsvergunning voor slachtoffers en getuige-aangevers van mensenhandel is ex nunc. De IND laat de ambtshalve beoordeling of de vreemdeling in aanmerking komt voor een verblijfsvergunning voor slachtoffers en getuige-aangevers van mensenhandel achterwege als: 
 
-* nadat is geconstateerd dat de aanvraag tot verlening van een verblijfsvergunning asiel voor bepaalde of onbepaalde tijd wordt afgewezen; of  
+* de vreemdeling al in het bezit is van een verblijfsvergunning voor slachtoffers en getuige-aangevers van mensenhandel; of  
 
-* nadat is besloten dat een verblijfsvergunning asiel voor bepaalde of onbepaalde tijd wordt ingetrokken.   De IND toetst bij de ambtshalve beoordeling ex nunc. De IND verleent de verblijfsvergunning niet ambtshalve als; 
+* de vreemdeling in het bezit is geweest van een verblijfsvergunning voor slachtoffers en getuige-aangevers die is ingetrokken.   De IND beoordeelt ambtshalve of de vreemdeling in aanmerking komt voor een verblijfsvergunning voor slachtoffers en getuige-aangevers van mensenhandel en wijst af als: 
 
-* de vreemdeling die stelt slachtoffer van mensenhandel te zijn (nog) geen aangifte heeft gedaan noch op andere wijze medewerking heeft verleend aan het strafrechtelijk opsporings- of vervolgingsonderzoek;  
-
-* geen sprake meer is van een strafrechtelijk opsporings- of vervolgingsonderzoek naar of berechting in feitelijke aanleg van de verdachte van het strafbare feit waarvan de vreemdeling aangifte heeft gedaan of waaraan de vreemdeling op andere wijze medewerking heeft verleend.   
-### *Slachtoffers die niet kunnen of willen meewerken* 
+* de vreemdeling die stelt slachtoffer van mensenhandel te zijn (nog) geen aangifte heeft gedaan noch op andere wijze medewerking heeft verleend aan het strafrechtelijk opsporings- of vervolgingsonderzoek.   
+###Slachtoffers die niet kunnen of willen meewerken
 
 De IND kan aan een slachtoffer van mensenhandel op grond van artikel 3.48, eerste lid, onder d, Vb een verblijfsvergunning verlenen, als het slachtoffer aantoont dat hij geen aangifte kan of wil doen of anderszins medewerking kan of wil verlenen aan de strafrechtelijke opsporing en vervolging van de mensenhandelaar in verband met: 
 

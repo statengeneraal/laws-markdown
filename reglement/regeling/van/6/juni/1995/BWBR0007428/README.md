@@ -493,10 +493,6 @@ Het maken van beeld- en geluidopnamen is verboden behoudens tevoren verkregen to
 
 Indien dit naar zijn oordeel noodzakelijk is, is de Voorzitter ten aanzien van alle aanwezigen in het Kamergebouw bevoegd maatregelen te nemen teneinde hen het gebouw te doen verlaten. 
 
-### Artikel  81  
-
-De Kamer kan indien zij overeenkomstig het tweede en derde lid van artikel 66 van de Grondwet met gesloten deuren vergadert, op voorstel van de Voorzitter of één der leden besluiten omtrent het daar behandelde de geheimhouding op te heffen. 
-
 ####Ingekomen stukken
 
 ### Artikel  82  
@@ -953,41 +949,27 @@ Wanneer de Kamer bij toepassing van artikel 139 aan een lid gelegenheid heeft ge
 
 ####Integriteit
 
-Treedt in werking per 09-06-2015 
-
 ####Belangenconflicten
 
-Treedt in werking per 09-06-2015 
-
 ###Artikel 156a 
-Treedt in werking per 09-06-2015 
 
 Ieder lid geeft zich rekenschap van de belangen die hij anders dan als lid van de Kamer heeft en waakt ervoor dat deze belangen niet leiden tot het op oneigenlijke wijze uitoefenen van zijn functie.
 
 ####Geschenken
 
-Treedt in werking per 09-06-2015 
-
 ###Artikel 156b 
-Treedt in werking per 09-06-2015 
 
 Ter griffie wordt een register bijgehouden waarin de leden de door hen in hun hoedanigheid als lid van de Kamer ontvangen geschenken met een hogere waarde dan 50 euro vermelden, uiterlijk één week na ontvangst van het geschenk. Dit register ligt voor een ieder ter inzage.
 
 ####Buitenlandse reizen
 
-Treedt in werking per 09-06-2015 
-
 ###Artikel 156c 
-Treedt in werking per 09-06-2015 
 
 Ter griffie wordt een register bijgehouden waarin de leden hun in hun hoedanigheid als lid van de Kamer gemaakte buitenlandse reizen op uitnodiging en voor rekening van derden vermelden, uiterlijk één week na terugkeer in Nederland. Dit register ligt voor een ieder ter inzage. Vermelding van een buitenlandse reis kan achterwege blijven indien dit gelet op het belang van de veiligheid van het betrokken lid is aangewezen.
 
 ####Functies naast het lidmaatschap van de Kamer
 
-Treedt in werking per 09-06-2015 
-
 ###Artikel 156d 
-Treedt in werking per 09-06-2015 
 
 1. Ieder lid maakt conform de Wet vergoedingen leden Eerste Kamer zijn nevenfuncties openbaar door terinzagelegging van een opgave van deze functies bij de griffie. Deze opgave bevat tevens een korte beschrijving van de werkzaamheden die het lid verricht en van de organisatie waarvoor het lid werkzaam is.
 2. De beschrijving genoemd in het vorige lid kan achterwege blijven indien de aard van de werkzaamheden en de aard van de organisatie reeds voldoende duidelijk zijn na het vermelden van de functie. 
@@ -995,10 +977,7 @@ Treedt in werking per 09-06-2015
 
 ####Geheimhouding in een plenaire vergadering met gesloten deuren
 
-Treedt in werking per 09-06-2015 
-
 ###Artikel 156e 
-Treedt in werking per 09-06-2015 
 
 1. Ten aanzien van de gedachtewisseling in een plenaire vergadering met gesloten deuren wordt geheimhouding in acht genomen.
 2. De geheimhouding wordt door hen die bij de behandeling aanwezig waren en allen die van het behandelde of de stukken kennis dragen, in acht genomen totdat de Kamer haar opheft. 
@@ -1006,10 +985,7 @@ Treedt in werking per 09-06-2015
 
 ####Geheimhouding besloten commissievergadering
 
-Treedt in werking per 09-06-2015 
-
 ###Artikel 156f 
-Treedt in werking per 09-06-2015 
 
 1. Ten aanzien van de gedachtewisseling in een besloten commissievergadering wordt geheimhouding in acht genomen, met uitzondering van hetgeen de commissie in haar verslag vermeldt.
 2. De geheimhouding wordt door hen die bij de behandeling aanwezig waren en allen die van het behandelde of de stukken kennis dragen, in acht genomen totdat de commissie haar opheft.
@@ -1017,20 +993,14 @@ Treedt in werking per 09-06-2015
 
 ####Vertrouwelijke stukken
 
-Treedt in werking per 09-06-2015 
-
 ###Artikel 156g 
-Treedt in werking per 09-06-2015 
 
 1. De vertrouwelijkheid ten aanzien van de inhoud van een stuk ten aanzien waarvan de Kamer heeft bepaald, of waarvan uit zijn aard volgt, dat het vertrouwelijk is, wordt door een ieder in acht genomen. 
 2.  Ter griffie wordt een register bijgehouden van bij de Kamer dan wel bij de commissies ingekomen vertrouwelijke stukken.
 
 ####Schending van de geheimhouding
 
-Treedt in werking per 09-06-2015 
-
 ###Artikel 156h 
-Treedt in werking per 09-06-2015 
 
 1. De huishoudelijke commissie kan de Kamer voorstellen om een lid, dat de geheimhouding of de vertrouwelijkheid, bedoeld in de artikelen 156e, 156f en 156g, niet in acht neemt, voor ten hoogste één maand uit te sluiten van alle vergaderingen van één of meer commissies.
 2.  De huishoudelijke commissie kan de Kamer eveneens voorstellen om een lid, als bedoeld in het eerste lid, voor ten hoogste de verdere duur van de zitting uit te sluiten van de kennisneming van vertrouwelijke stukken.

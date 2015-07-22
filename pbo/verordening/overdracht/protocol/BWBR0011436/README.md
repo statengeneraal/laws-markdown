@@ -5,7 +5,7 @@
 De ledenraad van de Koninklijke Notariële Beroepsorganisatie KNB;
 Overwegende dat het gewenst is beroeps- en gedragsregels vast te stellen;
 
-Gelet op [artikel 61 lid 2 van de Wet op het notarisambt](../../../../../wet/notariswet/BWBR0010388/README.md);
+Gelet op artikel 61 lid 2 van de Wet op het notarisambt;
 
 Gezien het ontwerp van het bestuur met bijbehorende toelichting;
 
@@ -18,11 +18,11 @@ stelt de navolgende verordening vast:
 
 In deze verordening wordt verstaan onder
 
-a.protocolhouder de notaris dan wel na defungeren de gedefungeerde notaris, of diens rechtverkrijgenden of rechtsvertegenwoordiger(s), dan wel de waarnemer benoemd in de gevallen van [artikel 28 onderdelen c, d en e Wet op het notarisambt](../../../../../wet/notariswet/BWBR0010388/README.md) waarbij een overdracht heeft plaatsgevonden;
+a.protocolhouder de notaris dan wel na defungeren de gedefungeerde notaris, of diens rechtverkrijgenden of rechtsvertegenwoordiger(s), dan wel de waarnemer benoemd in de gevallen van artikel 28 onderdelen c, d en e Wet op het notarisambt waarbij een overdracht heeft plaatsgevonden;
 
-b.protocolontvanger: de notaris die op grond van [artikel 15 lid 1 Wet op het notarisambt](../../../../../wet/notariswet/BWBR0010388/README.md) is aangewezen het protocol en de overige notariële bescheiden over te nemen indien een notaris overlijdt, defungeert of zich vestigt buiten net arrondissement waarin zijn plaats van vestiging is gelegen, de notaris voor wie is waargenomen na beëindiging van de waarneming als bedoeld in [artikel 28 onderdeel c](../../../../../wet/notariswet/BWBR0010388/README.md) indien daarbij een overdracht heeft plaatsgevonden, dan wel de waarnemer benoemd in de gevallen van [artikel 28 onderdelen c. d en e Wet op het notarisambt](../../../../../wet/notariswet/BWBR0010388/README.md) aan wie een overdracht moet plaatsvinden;
+b.protocolontvanger: de notaris die op grond van artikel 15 lid 1 Wet op het notarisambt is aangewezen het protocol en de overige notariële bescheiden over te nemen indien een notaris overlijdt, defungeert of zich vestigt buiten net arrondissement waarin zijn plaats van vestiging is gelegen, de notaris voor wie is waargenomen na beëindiging van de waarneming als bedoeld in artikel 28 onderdeel c indien daarbij een overdracht heeft plaatsgevonden, dan wel de waarnemer benoemd in de gevallen van artikel 28 onderdelen c. d en e Wet op het notarisambt aan wie een overdracht moet plaatsvinden;
 
-c.overdracht: de overdracht en de overname van het protocol en van de overige notariële bescheiden in de zin van [artikel 15 lid 1](../../../../../wet/notariswet/BWBR0010388/README.md) en [artikel 29 lid 10 Wet op het notarisambt](../../../../../wet/notariswet/BWBR0010388/README.md).
+c.overdracht: de overdracht en de overname van het protocol en van de overige notariële bescheiden in de zin van artikel 15 lid 1 en artikel 29 lid 10 Wet op het notarisambt.
 
 ###Artikel 2 
 
@@ -63,11 +63,11 @@ De protocolontvanger is verplicht de protocolhouder inzage te verlenen in door l
 
 ###Artikel 11 
 
-De artikelen 2 tot en met 10 zijn van toepassing indien een notaris is aangewezen om een protocol over te nemen als bedoeld in [artikel 15 lid 1 Wet op het notarisambt](../../../../../wet/notariswet/BWBR0010388/README.md), indien een waarnemer is benoemd in de in [artikel 28 onderdelen c, d en e Wet op het notarisambt](../../../../../wet/notariswet/BWBR0010388/README.md) bedoelde gevallen alsmede indien de schorsing van een notaris wordt opgeheven.Een waarnemer benoemd in een in [artikel 28 onderdeel c Wet op het notarisambt](../../../../../wet/notariswet/BWBR0010388/README.md) bedoeld geval, alsmede een waarnemer benoemd ter vervanging van een waarnemer in de in [artikel 28 onderdelen c, d en e Wet op het notarisambt](../../../../../wet/notariswet/BWBR0010388/README.md) bedoelde gevallen kunnen van een of meer van de verplichtingen als vermeld in de artikelen 2 tot en met 4 worden ontheven in het besluit tot benoeming van de voorzitter van de kamer van toezicht.
+De artikelen 2 tot en met 10 zijn van toepassing indien een notaris is aangewezen om een protocol over te nemen als bedoeld in artikel 15 lid 1 Wet op het notarisambt, indien een waarnemer is benoemd in de in artikel 28 onderdelen c, d en e Wet op het notarisambt bedoelde gevallen alsmede indien de schorsing van een notaris wordt opgeheven.Een waarnemer benoemd in een in artikel 28 onderdeel c Wet op het notarisambt bedoeld geval, alsmede een waarnemer benoemd ter vervanging van een waarnemer in de in artikel 28 onderdelen c, d en e Wet op het notarisambt bedoelde gevallen kunnen van een of meer van de verplichtingen als vermeld in de artikelen 2 tot en met 4 worden ontheven in het besluit tot benoeming van de voorzitter van de kamer van toezicht.
 
 ###Artikel 12 
 
-1. Een waarnemer benoemd in een van de gevallen als in [artikel 28 onderdelen a en b Wet op het notarisambt](../../../../../wet/notariswet/BWBR0010388/README.md) aangegeven, is vrijgesteld vin de in deze verordening aan andere waarnemers opgelegde verplichtingen. De protocolhouder dient er in deze gevallen voor te zorgen dat de waarnemer in staat wordt gesteld de waarneming naar behoren te vervullen.
+1. Een waarnemer benoemd in een van de gevallen als in artikel 28 onderdelen a en b Wet op het notarisambt aangegeven, is vrijgesteld vin de in deze verordening aan andere waarnemers opgelegde verplichtingen. De protocolhouder dient er in deze gevallen voor te zorgen dat de waarnemer in staat wordt gesteld de waarneming naar behoren te vervullen.
 
 ###Artikel 13 
 
@@ -79,7 +79,7 @@ Deze verordening wordt aangehaald als Verordening overdracht protocol.
 
 ###Artikel 15 
 
-Deze verordening treedt in werking met ingang van 1 oktober 2000 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 91 lid 2 Wet op het notarisambt](../../../../../wet/notariswet/BWBR0010388/README.md) is verstreken.
+Deze verordening treedt in werking met ingang van 1 oktober 2000 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in artikel 91 lid 2 Wet op het notarisambt is verstreken.
 
 Utrecht
 21 juni 2000Goedgekeurd door de Staatssecretaris van Justitie bij brief d.d. 15 september 2000, nr. 5052258/00/06.

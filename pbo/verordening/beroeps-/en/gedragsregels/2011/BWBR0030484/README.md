@@ -5,7 +5,7 @@
 De ledenraad van de Koninklijke Notariële Beroepsorganisatie KNB,  
 Overwegende dat het gewenst is beroeps-en gedragsregels vast te stellen;
 
-Gelet op [artikel 61 lid 2 van de Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md);
+Gelet op artikel 61 lid 2 van de Wet op het notarisambt;
 
 Gezien het ontwerp van het bestuur met bijbehorende toelichting;
 
@@ -18,17 +18,17 @@ Stelt de navolgende verordening vast:
 
 In deze verordening wordt verstaan onder: 
 
-a.  *bestuur:* het bestuur van de KNB, genoemd in [artikel 64, eerste lid, Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md);  
+a.  *bestuur:* het bestuur van de KNB, genoemd in artikel 64, eerste lid, Wet op het notarisambt;  
 
-b.  *notaris:* de notaris, genoemd in [artikel 1, onder a, Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md), alsmede de kandidaat-notaris, genoemd in artikel 1, onder b, Wet op het notarisambt, tenzij uit de aard van de bepaling anders voortvloeit.  
+b.  *notaris:* de notaris, genoemd in artikel 1, onder a, Wet op het notarisambt, alsmede de kandidaat-notaris, genoemd in artikel 1, onder b, Wet op het notarisambt, tenzij uit de aard van de bepaling anders voortvloeit.  
 
-c.  *Protocol:* het protocol, genoemd in [artikel 1, eerste lid, sub e Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md), van de notaris en zijn voorgangers;  
+c.  *Protocol:* het protocol, genoemd in artikel 1, eerste lid, sub e Wet op het notarisambt, van de notaris en zijn voorgangers;  
 
 d.  *Rechtsvorm:* de al dan niet rechtspersoonlijkheid bezittende juridische vorm waarin de notarispraktijk is uitgeoefend;  
 
-e.  *Protocolopvolger:* de notaris die een protocol heeft overgenomen in de zin van de [Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md);  
+e.  *Protocolopvolger:* de notaris die een protocol heeft overgenomen in de zin van de Wet op het notarisambt;  
 
-f.  *Protocolvoorganger:* de oud-notaris als voorganger van de protocolopvolger waaronder begrepen zijn waarnemer(s) in de zin van de [Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md) en de rechtsvorm waarin de praktijk is uitgeoefend;  
+f.  *Protocolvoorganger:* de oud-notaris als voorganger van de protocolopvolger waaronder begrepen zijn waarnemer(s) in de zin van de Wet op het notarisambt en de rechtsvorm waarin de praktijk is uitgeoefend;  
 
 g.  *Werknemers:* personen die, al dan niet in loondienst, onder verantwoordelijkheid van de hiervoor onder d., e. en f genoemde personen of rechtsvormen werkzaamheden hebben verricht, of hebben doen verrichten;  
 
@@ -52,7 +52,7 @@ De notaris gedraagt zich in de uitoefening van zijn beroep en daarbuiten zodanig
 ####Geen ontslag geheimhoudingsplicht: doorbreking
 
 1. De notaris kan zich niet door de opdrachtgever of door andere bij de rechtshandeling betrokkenen van zijn geheimhoudingsplicht laten ontslaan. 
-2. Een notaris is bevoegd om na verzoek van een andere notaris een afschrift van een tot zijn protocol behorende akte af te geven aan die andere notaris, mits die andere notaris op zijn beurt een verzoek om dat afschrift heeft gekregen van een persoon die op grond van de [Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md) gerechtigd is tot inzage in die akte. De controle op deze gerechtigdheid en de verantwoordelijkheid en aansprakelijkheid voor de inzage ligt na gedaan verzoek en bedoelde afgifte bij die andere notaris.
+2. Een notaris is bevoegd om na verzoek van een andere notaris een afschrift van een tot zijn protocol behorende akte af te geven aan die andere notaris, mits die andere notaris op zijn beurt een verzoek om dat afschrift heeft gekregen van een persoon die op grond van de Wet op het notarisambt gerechtigd is tot inzage in die akte. De controle op deze gerechtigdheid en de verantwoordelijkheid en aansprakelijkheid voor de inzage ligt na gedaan verzoek en bedoelde afgifte bij die andere notaris.
 
 ### Artikel  5  
 
@@ -200,4 +200,4 @@ Deze verordening wordt aangehaald als Verordening beroeps- en gedragsregels 2011
 
 ####Inwerking treden
 
-Deze verordening treedt in werking met ingang van 1 augustus 2011 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 91 lid 2 Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md) is verstreken. 
+Deze verordening treedt in werking met ingang van 1 augustus 2011 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in artikel 91 lid 2 Wet op het notarisambt is verstreken. 

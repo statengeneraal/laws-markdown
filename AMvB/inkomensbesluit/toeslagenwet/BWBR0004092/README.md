@@ -27,7 +27,7 @@ Voor de toepassing van artikel 8a, eerste lid, van de Toeslagenwet wordt met de 
 
 1. Voor de toepassing van artikel 8a, eerste lid, van de Toeslagenwet wordt met de loondervingsuitkering gelijkgesteld al het inkomen uit arbeid of overig inkomen van de persoon die aanspraak maakt op toeslag, indien die persoon:
 
-a.niet volledig werkloos is en zijn dagloon niet verlaagd is naar evenredigheid van de verloren arbeidsuren;
+a. recht heeft op een uitkering op grond van de Werkloosheidswet; 
 
 b.recht heeft op een uitkering op grond van de Ziektewet met toepassing van artikel 30 of 31 van die wet; of
 
@@ -37,6 +37,10 @@ c.recht heeft op een uitkering in verband met arbeidsongeschiktheid gebaseerd op
 ### Artikel 4 
 
 Voor de toepassing van artikel 8a, eerste lid, van de Toeslagenwet wordt voor de persoon die loon of bezoldiging ontvangt op grond van artikel 629, eerste lid, van Boek 7 van het Burgerlijk Wetboek of artikel 76a, eerste lid, van de Ziektewet, dat loon of die bezoldiging gelijkgesteld met de op het dagloon of de grondslag in mindering te brengen loondervingsuitkering
+
+### Artikel  4a  
+
+Artikel 3, zoals dat luidde voor de inwerkingtreding van het besluit van 18 juni 2015, houdende wijziging van enige algemene maatregelen van bestuur in verband met de Wet werk en zekerheid, het invoeren van een ontheffing in verband met de zorg voor een pasgeboren kind bij overlijden van de moeder, een wijziging van het Remigratiebesluit in verband met de berekenwijze van de jaarlijkse indexatie van de remigratie-uitkeringen, het vrijlaten van de afkoopsom klein pensioen voor verschillende uitkeringen in het Algemeen inkomensbesluit socialezekerheidswetten alsmede enige technische wijzigingen in enkele besluiten (Stb. 242), blijft van toepassing als de loondervingsuitkering een uitkering op grond van de Werkloosheidswet betreft en het recht op die uitkering is ontstaan voor 1 juli 2015. 
 
 ### Artikel  5  
 

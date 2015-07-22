@@ -36,7 +36,9 @@ g. prioriteitgenietend aanbod: aanbod van de zijde van Nederlanders en vreemdeli
 
 h. gecombineerde vergunning: verblijfsvergunning regulier voor bepaalde tijd als bedoeld in artikel 14 van de Vreemdelingenwet 2000, verleend door Onze Minister van Veiligheid en Justitie onder de beperking «arbeid in loondienst» of «lerend werken», tevens zijnde vergunning voor het verrichten van werkzaamheden bij een specifieke werkgever, met het aanvullend document;  
 
-i. aanvullend document: document waarin de aanvullende informatie is opgenomen, bedoeld in artikel 6, eerste lid, tweede alinea, van de Richtlijn 2011/98/EU van het Europees Parlement en de Raad van 13 december 2011 betreffende één enkele aanvraagprocedure voor een gecombineerde vergunning voor onderdanen van derde landen om te verblijven en te werken op het grondgebied van een lidstaat, alsmede inzake een gemeenschappelijk pakket rechten voor werknemers uit derde landen die legaal in een lidstaat verblijven (PbEU 2011, L343).  
+i. aanvullend document: document waarin de aanvullende informatie is opgenomen, bedoeld in artikel 6, eerste lid, tweede alinea, van de Richtlijn 2011/98/EU van het Europees Parlement en de Raad van 13 december 2011 betreffende één enkele aanvraagprocedure voor een gecombineerde vergunning voor onderdanen van derde landen om te verblijven en te werken op het grondgebied van een lidstaat, alsmede inzake een gemeenschappelijk pakket rechten voor werknemers uit derde landen die legaal in een lidstaat verblijven (PbEU 2011, L343); 
+
+j.  toezichthouder: de toezichthouder, bedoeld in de Algemene wet bestuursrecht, en als zodanig aangewezen op grond van artikel 14, eerste lid.  
 
 ### §  II  
 
@@ -269,15 +271,14 @@ b. het niet naleven van een aan de tewerkstellingsvergunning verbonden voorschri
 5.  De vreemdeling verstrekt een op hem betrekking hebbend document als bedoeld in artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht aan de werkgever, die het afschrift van het document, bedoeld in het eerste lid, ontvangt, en stelt die werkgever in de gelegenheid een afschrift van dit document te maken.  
 
 ### Artikel  15a  
-Treedt in werking per 01-07-2015 
 
 De werkgever is verplicht om binnen 48 uren na een daartoe strekkende vordering van de toezichthouder de identiteit vast te stellen van een persoon van wie op grond van feiten en omstandigheden het vermoeden bestaat dat hij arbeid voor hem verricht of heeft verricht, aan de hand van een document als bedoeld in artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht en de toezichthouder te informeren door een afschrift van dit document te verstrekken. 
 
 ### Artikel  16  
 
-1.  De door Onze Minister aangewezen ambtenaren, bedoeld in artikel 14, zijn bevoegd bij het verwerken van persoonsgegevens gebruik te maken van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer.   
-2.  Bestuursorganen zijn bevoegd uit eigen beweging en verplicht desgevraagd aan de door Onze Minister aangewezen ambtenaren, bedoeld in artikel 14, kosteloos alle gegevens en inlichtingen te verstrekken die noodzakelijk zijn voor het toezicht op de naleving van het bepaalde bij of krachtens deze wet. Bestuursorganen kunnen daarbij gebruik maken van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer, voor zover zij daartoe gerechtigd zijn.   
-3.  De door Onze Minister aangewezen ambtenaren, bedoeld in artikel 14, verstrekken andere bestuursorganen kosteloos gegevens welke zij behoeven ter uitvoering van hun taak. De laatste volzin van het tweede lid is van overeenkomstige toepassing.   
+1.  De toezichthouder is bevoegd bij het verwerken van persoonsgegevens gebruik te maken van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer.   
+2.  Bestuursorganen zijn bevoegd uit eigen beweging en verplicht desgevraagd aan de toezichthouder kosteloos alle gegevens en inlichtingen te verstrekken die noodzakelijk zijn voor het toezicht op de naleving van het bepaalde bij of krachtens deze wet. Bestuursorganen kunnen daarbij gebruik maken van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer, voor zover zij daartoe gerechtigd zijn.   
+3.  De toezichthouder verstrekt andere bestuursorganen kosteloos gegevens welke zij behoeven ter uitvoering van hun taak. De laatste volzin van het tweede lid is van overeenkomstige toepassing.   
 4.  De in het tweede en derde lid bedoelde gegevensverstrekking vindt niet plaats indien de persoonlijke levenssfeer van de betrokkene daardoor onevenredig wordt geschaad.   
 5.  Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de gevallen waarin en de wijze waarop in ieder geval gegevens dienen te worden verstrekt.   
 6.  Voor de toepassing van dit artikel worden met bestuursorganen gelijkgesteld instellingsbesturen van uit de openbare kas bekostigde instellingen en bevoegde gezagsorganen van uit de openbare kas bekostigde scholen en instellingen.  
@@ -308,10 +309,9 @@ Een beschikking op grond van deze wet van een ambtenaar als bedoeld in artikel 
 
 ####Bestuursrechtelijke handhaving
 
-###Artikel 18 
+### Artikel  18  
 
-1. Als overtreding wordt aangemerkt het niet naleven van de artikelen 2, eerste lid, en 15 en het bepaalde bij of krachtens artikel 2a.
-2. Als overtreding wordt tevens aangemerkt het door de werkgever niet naleven van artikel 5:20 van de Algemene wet bestuursrecht voor zover het betreft het door de toezichthouder uitoefenen van bevoegdheden ter vaststelling van de identiteit van degene die voor de werkgever arbeid verricht of heeft verricht.
+Als overtreding wordt aangemerkt het niet naleven van de artikelen 2, eerste lid, 15, 15a en het bepaalde bij of krachtens artikel 2a.
 
 ### Artikel  18b  
 
@@ -340,6 +340,17 @@ b. het officiële nummer waaronder het betreffende vervoermiddel is geregistreer
 ### Artikel  19f  
 
 Indien een bestuurlijke boete ten onrechte is opgelegd, wordt deze binnen zes weken nadat is vastgesteld dat de bestuurlijke boete ten onrechte is opgelegd, aan de rechthebbende terugbetaald.
+
+### Artikel  19g  
+
+1.  De toezichthouder of de door Onze Minister aangewezen ambtenaren, bedoeld in artikel 19a, eerste lid, maken het feit dat een bestuurlijke boete is opgelegd wegens overtreding van deze wet als bedoeld in artikel 18, dat een besluit is genomen als bedoeld in artikel 17b, tweede lid, of dat na een afgerond onderzoek geen overtreding is geconstateerd openbaar teneinde de naleving van deze wet te bevorderen en inzicht te geven in het uitvoeren van toezicht op grond van deze wet.   
+2.  Bij de openbaarmaking, bedoeld in het eerste lid, is artikel 10, eerste lid, onderdelen c en d, van de Wet openbaarheid van bestuur van overeenkomstige toepassing.   
+3.  Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de openbaar te maken gegevens, waaronder de mogelijke reactie van een belanghebbende in verband met de openbaarmaking van zijn gegevens, de termijn waarop deze gegevens beschikbaar worden gesteld en de wijze waarop de openbaarmaking plaatsvindt.   
+4.  Indien geen overtreding is geconstateerd als bedoeld in het eerste lid, is op dat besluit tot openbaarmaking artikel 4:8 van de Algemene wet bestuursrecht niet van toepassing.   
+5.  De openbaarmaking, bedoeld in het eerste lid, geschiedt niet eerder dan nadat tien werkdagen zijn verstreken na de dag waarop het besluit aan belanghebbende bekend is gemaakt.   
+6.  Bij de openbaarmaking wordt vermeld of tegen een besluit tot oplegging van een bestuurlijke boete of een besluit als bedoeld in artikel 17b, tweede lid, een rechtsmiddel is ingesteld dan wel of daartoe de mogelijkheid bestaat.   
+7.  Indien wordt verzocht om een voorlopige voorziening als bedoeld in artikel 8:81 van de Algemene wet bestuursrecht, wordt de openbaarmaking opgeschort totdat de voorzieningenrechter een uitspraak heeft gedaan.   
+8.  Indien de openbaarmaking, bedoeld in het eerste lid, in strijd is of zou kunnen komen met het doel van het toezicht op de naleving van deze wet dat door de toezichthouders wordt uitgeoefend, blijft openbaarmaking achterwege.  
 
 ###§ V 
 

@@ -147,7 +147,7 @@ Bijvoegingen en doorhalingen bij het opmaken van akten of latere vermeldingen wo
 
 ### Artikel  20  
 
-1.  De verschijnende partijen en de ambtenaar van de burgerlijke stand ondertekenen achtereenvolgens de akte in elkanders bijzijn.    
+1.  Met uitzondering van de akte van geboorte en de akte van overlijden ondertekenen de verschijnende partijen en de ambtenaar van de burgerlijke stand achtereenvolgens de akte in elkaars bijzijn.   
 2.   Indien een verschijnende partij verklaart niet te kunnen of te willen tekenen, wordt die verklaring in de akte vermeld.    
 3.  Het in het eerste en tweede lid van dit artikel met betrekking tot de verschijnende partijen bepaalde geldt ook met betrekking tot de getuigen.   
 
@@ -391,7 +391,7 @@ a. de naam en de voorletters van de ambtenaar van de burgerlijke stand die de ak
 
 b. de plaats en de dag waarop de akte is opgemaakt;   
 
-c. de handtekeningen van de ambtenaar van de burgerlijke stand en van de partijen bij de akte, alsmede van de getuigen, dan wel de verklaring, bedoeld in artikel 20, tweede lid, van dit besluit.      
+c. de handtekeningen van de ambtenaar van de burgerlijke stand en, voor zover van toepassing, van de partijen bij de akte, alsmede van de getuigen, dan wel de verklaring, bedoeld in artikel 20, tweede lid, van dit besluit.      
 2.   In het vierde gedeelte van elke akte van inschrijving worden de in het eerste lid, onder a en b genoemde gegevens vermeld, alsmede de handtekening van de ambtenaar van de burgerlijke stand.   
 
 ### Artikel  41  
@@ -784,10 +784,7 @@ Het uittreksel van de akte van overlijden vermeldt de in artikel 61, eerste lid,
 
 ####De elektronische kennisgeving van een huwelijk en geregistreerd partnerschap en de elektronische aangifte van overlijden
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  67a  
-Treedt in werking per 01-07-2015 
 
 1.  Dit lid is nog niet in werking getreden.   
 2.  Indien de aangifte van overlijden langs elektronische weg wordt gedaan, verstrekt de persoon die de aangifte doet aan de ambtenaar van de burgerlijke stand tevens het burgerservicenummer van de overledene alsmede een verklaring van de arts die het overlijden heeft vastgesteld.  

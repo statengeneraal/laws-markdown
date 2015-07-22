@@ -4,20 +4,20 @@
 
 ####Convention on choice of court agreements
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 The States Parties to the present Convention, Desiring to promote international trade and investment through enhanced judicial co-operation, Believing that such co-operation can be enhanced by uniform rules on jurisdiction and on recognition and enforcement of foreign judgments in civil or commercial matters, Believing that such enhanced co-operation requires in particular an international legal regime that provides certainty and ensures the effectiveness of exclusive choice of court agreements between parties to commercial transactions and that governs the recognition and enforcement of judgments resulting from proceedings based on such agreements,   Have resolved to conclude this Convention and have agreed upon the following provisions –     
 ### CHAPTER  I  
 
 ####SCOPE AND DEFINITIONS
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Article  1  
 
 ####Scope
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  This Convention shall apply in international cases to exclusive choice of court agreements concluded in civil or commercial matters.   
 2.  For the purposes of Chapter II, a case is international unless the parties are resident in the same Contracting State and the relationship of the parties and all other elements relevant to the dispute, regardless of the location of the chosen court, are connected only with that State.   
@@ -27,7 +27,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Exclusions from scope
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  This Convention shall not apply to exclusive choice of court agreements – 
 
@@ -76,7 +76,7 @@ p) the validity of entries in public registers.
 
 ####Exclusive choice of court agreements
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 For the purposes of this Convention – 
 
@@ -96,7 +96,7 @@ d) an exclusive choice of court agreement that forms part of a contract shall be
 
 ####Other definitions
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  In this Convention, “judgment” means any decision on the merits given by a court, whatever it may be called, including a decree or order, and a determination of costs or expenses by the court (including an officer of the court), provided that the determination relates to a decision on the merits which may be recognised or enforced under this Convention. An interim measure of protection is not a judgment.   
 2.  For the purposes of this Convention, an entity or person other than a natural person shall be considered to be resident in the State – 
@@ -113,13 +113,13 @@ d) where it has its principal place of business.
 
 ####JURISDICTION
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Article  5  
 
 ####Jurisdiction of the chosen court
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  The court or courts of a Contracting State designated in an exclusive choice of court agreement shall have jurisdiction to decide a dispute to which the agreement applies, unless the agreement is null and void under the law of that State.   
 2.  A court that has jurisdiction under paragraph 1 shall not decline to exercise jurisdiction on the ground that the dispute should be decided in a court of another State.   
@@ -133,7 +133,7 @@ b) on the internal allocation of jurisdiction among the courts of a Contracting 
 
 ####Obligations of a court not chosen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 A court of a Contracting State other than that of the chosen court shall suspend or dismiss proceedings to which an exclusive choice of court agreement applies unless – 
 
@@ -151,7 +151,7 @@ e) the chosen court has decided not to hear the case.
 
 ####Interim measures of protection
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Interim measures of protection are not governed by this Convention. This Convention neither requires nor precludes the grant, refusal or termination of interim measures of protection by a court of a Contracting State and does not affect whether or not a party may request or a court should grant, refuse or terminate such measures. 
 
@@ -159,13 +159,13 @@ Interim measures of protection are not governed by this Convention. This Convent
 
 ####RECOGNITION AND ENFORCEMENT
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Article  8  
 
 ####Recognition and enforcement
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  A judgment given by a court of a Contracting State designated in an exclusive choice of court agreement shall be recognised and enforced in other Contracting States in accordance with this Chapter. Recognition or enforcement may be refused only on the grounds specified in this Convention.   
 2.  Without prejudice to such review as is necessary for the application of the provisions of this Chapter, there shall be no review of the merits of the judgment given by the court of origin. The court addressed shall be bound by the findings of fact on which the court of origin based its jurisdiction, unless the judgment was given by default.   
@@ -177,7 +177,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Refusal of recognition or enforcement
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Recognition or enforcement may be refused if – 
 
@@ -203,7 +203,7 @@ g) the judgment is inconsistent with an earlier judgment given in another State 
 
 ####Preliminary questions
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Where a matter excluded under Article 2, paragraph 2, or under Article 21, arose as a preliminary question, the ruling on that question shall not be recognised or enforced under this Convention.   
 2.  Recognition or enforcement of a judgment may be refused if, and to the extent that, the judgment was based on a ruling on a matter excluded under Article 2, paragraph 2.   
@@ -218,7 +218,7 @@ b) proceedings concerning the validity of the intellectual property right are pe
 
 ####Damages
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Recognition or enforcement of a judgment may be refused if, and to the extent that, the judgment awards damages, including exemplary or punitive damages, that do not compensate a party for actual loss or harm suffered.   
 2.  The court addressed shall take into account whether and to what extent the damages awarded by the court of origin serve to cover costs and expenses relating to the proceedings.  
@@ -227,7 +227,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Judicial settlements (transactions judiciaires)
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Judicial settlements (transactions judiciaires) which a court of a Contracting State designated in an exclusive choice of court agreement has approved, or which have been concluded before that court in the course of proceedings, and which are enforceable in the same manner as a judgment in the State of origin, shall be enforced under this Convention in the same manner as a judgment. 
 
@@ -235,7 +235,7 @@ Judicial settlements (transactions judiciaires) which a court of a Contracting S
 
 ####Documents to be produced
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  The party seeking recognition or applying for enforcement shall produce – 
 
@@ -256,7 +256,7 @@ e) in the case referred to in Article 12, a certificate of a court of the State 
 
 ####Procedure
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 The procedure for recognition, declaration of enforceability or registration for enforcement, and the enforcement of the judgment, are governed by the law of the requested State unless this Convention provides otherwise. The court addressed shall act expeditiously. 
 
@@ -264,7 +264,7 @@ The procedure for recognition, declaration of enforceability or registration for
 
 ####Severability
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Recognition or enforcement of a severable part of a judgment shall be granted where recognition or enforcement of that part is applied for, or only part of the judgment is capable of being recognised or enforced under this Convention. 
 
@@ -272,13 +272,13 @@ Recognition or enforcement of a severable part of a judgment shall be granted wh
 
 ####GENERAL CLAUSES 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Article  16  
 
 ####Transitional provisions
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  This Convention shall apply to exclusive choice of court agreements concluded after its entry into force for the State of the chosen court.   
 2.  This Convention shall not apply to proceedings instituted before its entry into force for the State of the court seised.  
@@ -287,7 +287,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Contracts of insurance and reinsurance
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Proceedings under a contract of insurance or reinsurance are not excluded from the scope of this Convention on the ground that the contract of insurance or reinsurance relates to a matter to which this Convention does not apply.   
 2.  Recognition and enforcement of a judgment in respect of liability under the terms of a contract of insurance or reinsurance may not be limited or refused on the ground that the liability under that contract includes liability to indemnify the insured or reinsured in respect of – 
@@ -300,7 +300,7 @@ b) an award of damages to which Article 11 might apply.
 
 ####No legalisation
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 All documents forwarded or delivered under this Convention shall be exempt from legalisation or any analogous formality, including an Apostille. 
 
@@ -308,7 +308,7 @@ All documents forwarded or delivered under this Convention shall be exempt from 
 
 ####Declarations limiting jurisdiction
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 A State may declare that its courts may refuse to determine disputes to which an exclusive choice of court agreement applies if, except for the location of the chosen court, there is no connection between that State and the parties or the dispute. 
 
@@ -316,7 +316,7 @@ A State may declare that its courts may refuse to determine disputes to which an
 
 ####Declarations limiting recognition and enforcement
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 A State may declare that its courts may refuse to recognise or enforce a judgment given by a court of another Contracting State if the parties were resident in the requested State, and the relationship of the parties and all other elements relevant to the dispute, other than the location of the chosen court, were connected only with the requested State. 
 
@@ -324,7 +324,7 @@ A State may declare that its courts may refuse to recognise or enforce a judgmen
 
 ####Declarations with respect to specific matters
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Where a State has a strong interest in not applying this Convention to a specific matter, that State may declare that it will not apply the Convention to that matter. The State making such a declaration shall ensure that the declaration is no broader than necessary and that the specific matter excluded is clearly and precisely defined.   
 2.  With regard to that matter, the Convention shall not apply – 
@@ -337,7 +337,7 @@ b) in other Contracting States, where an exclusive choice of court agreement des
 
 ####Reciprocal declarations on non-exclusive choice of court agreements
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  A Contracting State may declare that its courts will recognise and enforce judgments given by courts of other Contracting States designated in a choice of court agreement concluded by two or more parties that meets the requirements of Article 3, paragraph c), and designates, for the purpose of deciding disputes which have arisen or may arise in connection with a particular legal relationship, a court or courts of one or more Contracting States (a non-exclusive choice of court agreement).    
 2.  Where recognition or enforcement of a judgment given in a Contracting State that has made such a declaration is sought in another Contracting State that has made such a declaration, the judgment shall be recognised and enforced under this Convention, if – 
@@ -352,7 +352,7 @@ c) the court of origin was the court first seised.
 
 ####Uniform interpretation
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 In the interpretation of this Convention, regard shall be had to its international character and to the need to promote uniformity in its application. 
 
@@ -360,7 +360,7 @@ In the interpretation of this Convention, regard shall be had to its internation
 
 ####Review of operation of the Convention
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 The Secretary General of the Hague Conference on Private International Law shall at regular intervals make arrangements for –  
 
@@ -372,7 +372,7 @@ b) consideration of whether any amendments to this Convention are desirable.
 
 ####Non-unified legal systems
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  In relation to a Contracting State in which two or more systems of law apply in different territorial units with regard to any matter dealt with in this Convention – 
 
@@ -391,7 +391,7 @@ d) any reference to a connection with a State shall be construed as referring, w
 
 ####Relationship with other international instruments
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  This Convention shall be interpreted so far as possible to be compatible with other treaties in force for Contracting States, whether concluded before or after this Convention.   
 2.  This Convention shall not affect the application by a Contracting State of a treaty, whether concluded before or after this Convention, in cases where none of the parties is resident in a Contracting State that is not a Party to the treaty.   
@@ -408,13 +408,13 @@ b) as concerns the recognition or enforcement of judgments as between Member Sta
 
 ####FINAL CLAUSES
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Article  27  
 
 ####Signature, ratification, acceptance, approval or accession
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  This Convention is open for signature by all States.   
 2.  This Convention is subject to ratification, acceptance or approval by the signatory States.   
@@ -425,7 +425,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Declarations with respect to non-unified legal systems
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  If a State has two or more territorial units in which different systems of law apply in relation to matters dealt with in this Convention, it may at the time of signature, ratification, acceptance, approval or accession declare that the Convention shall extend to all its territorial units or only to one or more of them and may modify this declaration by submitting another declaration at any time.   
 2.  A declaration shall be notified to the depositary and shall state expressly the territorial units to which the Convention applies.   
@@ -436,7 +436,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Regional Economic Integration Organisations
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  A Regional Economic Integration Organisation which is constituted solely by sovereign States and has competence over some or all of the matters governed by this Convention may similarly sign, accept, approve or accede to this Convention. The Regional Economic Integration Organisation shall in that case have the rights and obligations of a Contracting State, to the extent that the Organisation has competence over matters governed by this Convention.   
 2.  The Regional Economic Integration Organisation shall, at the time of signature, acceptance, approval or accession, notify the depositary in writing of the matters governed by this Convention in respect of which competence has been transferred to that Organisation by its Member States. The Organisation shall promptly notify the depositary in writing of any changes to its competence as specified in the most recent notice given under this paragraph.   
@@ -447,7 +447,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Accession by a Regional Economic Integration Organisation without its Member States
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  At the time of signature, acceptance, approval or accession, a Regional Economic Integration Organisation may declare that it exercises competence over all the matters governed by this Convention and that its Member States will not be Parties to this Convention but shall be bound by virtue of the signature, acceptance, approval or accession of the Organisation.   
 2.  In the event that a declaration is made by a Regional Economic Integration Organisation in accordance with paragraph 1, any reference to a “Contracting State” or “State” in this Convention shall apply equally, where appropriate, to the Member States of the Organisation.  
@@ -456,7 +456,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Entry into force
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  This Convention shall enter into force on the first day of the month following the expiration of three months after the deposit of the second instrument of ratification, acceptance, approval or accession referred to in Article 27.   
 2.  Thereafter this Convention shall enter into force – 
@@ -469,7 +469,7 @@ b) for a territorial unit to which this Convention has been extended in accordan
 
 ####Declarations
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Declarations referred to in Articles 19, 20, 21, 22 and 26 may be made upon signature, ratification, acceptance, approval or accession or at any time thereafter, and may be modified or withdrawn at any time.   
 2.  Declarations, modifications and withdrawals shall be notified to the depositary.   
@@ -481,7 +481,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Denunciation
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  This Convention may be denounced by notification in writing to the depositary. The denunciation may be limited to certain territorial units of a non-unified legal system to which this Convention applies.   
 2.  The denunciation shall take effect on the first day of the month following the expiration of twelve months after the date on which the notification is received by the depositary. Where a longer period for the denunciation to take effect is specified in the notification, the denunciation shall take effect upon the expiration of such longer period after the date on which the notification is received by the depositary.  
@@ -490,7 +490,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Notifications by the depositary
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 The depositary shall notify the Members of the Hague Conference on Private International Law, and other States and Regional Economic Integration Organisations which have signed, ratified, accepted, approved or acceded in accordance with Articles 27, 29 and 30 of the following – 
 
@@ -506,20 +506,20 @@ IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed t
 
 ####Verdrag inzake bedingen van forumkeuze
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 De Staten die Partij zijn bij dit Verdrag, Geleid door de wens de internationale handel en investeringen te bevorderen door de samenwerking tussen gerechtelijke instanties te versterken, Ervan overtuigd dat de samenwerking kan worden versterkt door uniforme regels inzake rechterlijke bevoegdheid en inzake de erkenning en de tenuitvoerlegging van buitenlandse beslissingen in burgerlijke of handelszaken, Ervan overtuigd dat voor een versterkte samenwerking in het bijzonder een internationaal regelstelsel vereist is dat zekerheid biedt en de effectiviteit waarborgt van exclusieve forumkeuzebedingen tussen partijen bij handelstransacties en dat de erkenning en tenuitvoerlegging beheerst van beslissingen, gegeven in op basis van deze bedingen gevoerde procedures,   Hebben besloten dit Verdrag te sluiten en zijn de volgende bepalingen overeengekomen:     
 ### HOOFDSTUK  I  
 
 ####TOEPASSINGSGEBIED EN BEGRIPSOMSCHRIJVINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  1  
 
 ####Toepassingsgebied
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Dit Verdrag is in internationale situaties van toepassing op exclusieve forumkeuzebedingen die zijn gemaakt in burgerlijke of handelszaken.   
 2.  Voor de toepassing van Hoofdstuk II is een situatie internationaal tenzij de partijen in dezelfde Verdragsluitende Staat hun verblijfplaats hebben en de betrekkingen tussen de partijen en alle andere voor het geschil terzake doende elementen, ongeacht de plaats van het aangewezen gerecht, uitsluitend met die Staat verbonden zijn.   
@@ -529,7 +529,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Uitsluitingen van het toepassingsgebied
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Dit Verdrag is niet van toepassing op exclusieve forumkeuzebedingen: 
 
@@ -578,7 +578,7 @@ p. de geldigheid van inschrijvingen in openbare registers.
 
 ####Exclusieve forumkeuzebedingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Voor de toepassing van dit Verdrag: 
 
@@ -598,7 +598,7 @@ d. wordt een exclusief forumkeuzebeding dat deel uitmaakt van een overeenkomst, 
 
 ####Overige begripsomschrijvingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  In dit Verdrag wordt onder „beslissing” verstaan een beslissing ten gronde van een gerecht, ongeacht de daaraan gegeven benaming, met inbegrip van een beschikking of een bevel, en een vaststelling van de gerechtskosten door het gerecht (met inbegrip van de griffier van het gerecht), mits de vaststelling betrekking heeft op een beslissing ten gronde die ingevolge dit Verdrag kan worden erkend of ten uitvoer kan worden gelegd. Een voorlopige of bewarende maatregel is geen beslissing.   
 2.  Ten behoeve van dit Verdrag wordt een entiteit of persoon niet zijnde een natuurlijke persoon geacht zijn verblijfplaats te hebben in de Staat: 
@@ -615,13 +615,13 @@ d. waar zijn hoofdvestiging zich bevindt.
 
 ####RECHTERLIJKE BEVOEGDHEID
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  5  
 
 ####Bevoegdheid van het aangewezen gerecht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Het gerecht of de gerechten van een Verdragsluitende Staat die in een exclusief forumkeuzebeding zijn aangewezen, zijn bevoegd kennis te nemen van een geschil waarop het beding van toepassing is, tenzij het beding volgens het recht van die Staat nietig is.   
 2.  Een gerecht dat ingevolge het eerste lid bevoegd is, mag de uitoefening van die bevoegdheid niet afwijzen op grond van het feit dat een gerecht van een andere Staat van het geschil kennis zou moeten nemen.    
@@ -635,7 +635,7 @@ b. inzake de interne verdeling van bevoegdheid tussen de gerechten van een Verdr
 
 ####Verplichtingen van een niet aangewezen gerecht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Elk gerecht van een andere Verdragsluitende Staat dan die van het aangewezen gerecht schorst een procedure of verklaart de vordering niet-ontvankelijk wanneer bij hem een geschil waarop een exclusief forumkeuzebeding van toepassing is, aanhangig wordt gemaakt, tenzij:  
 
@@ -653,7 +653,7 @@ e. het aangewezen gerecht heeft beslist geen kennis te nemen van de zaak.
 
 ####Voorlopige en bewarende maatregelen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Dit Verdrag is niet van toepassing op voorlopige en bewarende maatregelen. Dit Verdrag verlangt niet de toekenning, de afwijzing of de opheffing van voorlopige en bewarende maatregelen door een gerecht van een Verdragsluitende Staat, noch sluit het deze uit. Het laat onverlet de mogelijkheid voor een partij om om zodanige maatregelen te verzoeken en de vrijheid van een gerecht om deze toe te staan, af te wijzen of op te heffen . 
 
@@ -661,13 +661,13 @@ Dit Verdrag is niet van toepassing op voorlopige en bewarende maatregelen. Dit V
 
 ####ERKENNING EN TENUITVOERLEGGING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  8  
 
 ####Erkenning en tenuitvoerlegging
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Een beslissing van een gerecht van een Verdragsluitende Staat dat in een exclusief forumkeuzebeding is aangewezen, wordt in overeenstemming met dit Hoofdstuk in andere Verdragsluitende Staten erkend en ten uitvoer gelegd. De erkenning of de tenuitvoerlegging kan uitsluitend worden geweigerd op de in dit Verdrag vermelde gronden.   
 2.  Onverminderd het onderzoek dat nodig is voor de toepassing van de bepalingen van dit Hoofdstuk, wordt de juistheid van de beslissing van het gerecht van herkomst niet onderzocht. Het aangezochte gerecht is gebonden aan de feitelijke bevindingen op grond waarvan het gerecht van herkomst zijn bevoegdheid heeft aangenomen, tenzij de beslissing bij verstek is gegeven.   
@@ -679,7 +679,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Weigering van erkenning of tenuitvoerlegging
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Erkenning of tenuitvoerlegging kan worden geweigerd indien: 
 
@@ -705,7 +705,7 @@ g. de beslissing onverenigbaar is met een eerdere beslissing die in een andere S
 
 ####Voorvragen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Wanneer een aangelegenheid die ingevolge artikel 2, tweede lid, of ingevolge artikel 21 uitgesloten is, als voorvraag aan de orde is gesteld, wordt de uitspraak met betrekking tot die aangelegenheid niet op grond van dit Verdrag erkend of ten uitvoer gelegd.   
 2.  De erkenning of de tenuitvoerlegging van een beslissing kan worden geweigerd indien en voor zover die beslissing is gebaseerd op een beslissing over een aangelegenheid die ingevolge artikel 2, tweede lid, is uitgesloten.   
@@ -720,7 +720,7 @@ b. in die Staat een procedure inzake de geldigheid van het intellectuele-eigendo
 
 ####Schadevergoeding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  De erkenning of de tenuitvoerlegging van een beslissing kan worden geweigerd indien en voor zover in de beslissing schadevergoeding wordt toegekend, met inbegrip van schadevergoeding bij wijze van voorbeeld of bij wijze van sanctie, waarbij een partij niet schadeloos wordt gesteld voor het feitelijk geleden verlies of de feitelijk geleden schade.   
 2.  Het aangezochte gerecht houdt rekening met de vraag of en in welke mate de door het gerecht van herkomst toegekende schadevergoeding dient ter dekking van de proceskosten.  
@@ -729,7 +729,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Gerechtelijke schikkingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Gerechtelijke schikkingen die door een in een exclusief forumkeuzebeding aangewezen gerecht zijn goedgekeurd of die ten overstaan van dat gerecht in de loop van een procedure tot stand zijn gekomen, en die in de Staat waarin de gerechtelijke schikking is goedgekeurd, op dezelfde wijze ten uitvoer kunnen worden gelegd als een beslissing, worden op grond van dit Verdrag op dezelfde wijze ten uitvoer gelegd als een beslissing. 
 
@@ -737,7 +737,7 @@ Gerechtelijke schikkingen die door een in een exclusief forumkeuzebeding aangewe
 
 ####Over te leggen stukken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  De partij die om erkenning of tenuitvoerlegging verzoekt, dient de volgende stukken over te leggen: 
 
@@ -758,7 +758,7 @@ e. in het in artikel 12 bedoelde geval, een schriftelijke verklaring van een ger
 
 ####Procedure
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 De procedure voor de erkenning, de uitvoerbaarheid of de registratie voor tenuitvoerlegging, en de tenuitvoerlegging van de beslissing worden beheerst door het recht van de aangezochte Staat behoudens voor zover in dit Verdrag anders is bepaald. Het aangezochte gerecht treedt voortvarend op. 
 
@@ -766,7 +766,7 @@ De procedure voor de erkenning, de uitvoerbaarheid of de registratie voor tenuit
 
 ####Deelbaarheid
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Erkenning of tenuitvoerlegging van een scheidbaar deel van een beslissing wordt toegestaan wanneer om erkenning of tenuitvoerlegging van dat deel wordt verzocht of wanneer slechts een deel van de beslissing op grond van dit Verdrag kan worden erkend of ten uitvoer gelegd. 
 
@@ -774,13 +774,13 @@ Erkenning of tenuitvoerlegging van een scheidbaar deel van een beslissing wordt 
 
 ####ALGEMENE BEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  16  
 
 ####Overgangsbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Dit Verdrag is van toepassing op exclusieve forumkeuzebedingen die zijn gemaakt nadat het Verdrag voor de Staat waarvan het gerecht is aangewezen in werking is getreden.   
 2.  Dit Verdrag is niet van toepassing op procedures die aanhangig zijn gemaakt voordat het Verdrag ten aanzien van de Staat waarvan het gerecht waarbij de zaak aanhangig is gemaakt in werking is getreden.  
@@ -789,7 +789,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Verzekerings- en herverzekeringsovereenkomsten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Procedures uit hoofde van een verzekerings- of herverzekeringsovereenkomst zijn niet van het toepassingsgebied van dit Verdrag uitgesloten op grond van het feit dat de verzekerings- of herverzekeringsovereenkomst betrekking heeft op een aangelegenheid waarop dit Verdrag niet van toepassing is.   
 2.  De erkenning en de tenuitvoerlegging van een beslissing met betrekking tot aansprakelijkheid uit hoofde van een verzekerings- of herverzekeringsovereenkomst kan niet worden beperkt of geweigerd op grond van het feit dat de aansprakelijkheid uit hoofde van die overeenkomst mede omvat de schadeloosstelling van de verzekerde of herverzekerde ter zake van: 
@@ -802,7 +802,7 @@ b. een toekenning van schadevergoeding waarop artikel 11 van toepassing zou kunn
 
 ####Geen legalisatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Alle ingevolge dit Verdrag verzonden of overgelegde stukken zijn vrijgesteld van legalisatie of enige andere soortgelijke formaliteit, met inbegrip van een Apostille. 
 
@@ -810,7 +810,7 @@ Alle ingevolge dit Verdrag verzonden of overgelegde stukken zijn vrijgesteld van
 
 ####Verklaringen ter beperking van de rechterlijke bevoegdheid
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Een Staat kan verklaren dat zijn gerechten kunnen weigeren van geschillen kennis te nemen waarop een exclusief forumkeuzebeding van toepassing is indien er, behoudens de plaats van het aangewezen gerecht, geen band is tussen die Staat en de partijen of het geschil. 
 
@@ -818,7 +818,7 @@ Een Staat kan verklaren dat zijn gerechten kunnen weigeren van geschillen kennis
 
 ####Verklaringen ter beperking van de erkenning en de tenuitvoerlegging
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Een Staat kan verklaren dat zijn gerechten kunnen weigeren een door een gerecht van een andere Verdragsluitende Staat gegeven beslissing te erkennen of ten uitvoer te leggen indien de partijen in de aangezochte Staat hun verblijfplaats hadden en de betrekkingen tussen de partijen en alle andere voor het geschil ter zake doende elementen, behoudens de plaats van het aangewezen gerecht, uitsluitend met de aangezochte Staat verbonden waren. 
 
@@ -826,7 +826,7 @@ Een Staat kan verklaren dat zijn gerechten kunnen weigeren een door een gerecht 
 
 ####Verklaringen ten aanzien van specifieke aangelegenheden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Wanneer een Staat er groot belang bij heeft dit Verdrag niet op een bijzondere aangelegenheid toe te passen, kan die Staat verklaren het Verdrag niet op die aangelegenheid toe te zullen passen. De Staat die een dergelijke verklaring aflegt, ziet erop toe dat deze verklaring niet ruimer is dan nodig en dat de bijzondere aangelegenheid die wordt uitgesloten duidelijk en nauwkeurig wordt omschreven.   
 2.  Ten aanzien van die aangelegenheid is het Verdrag niet van toepassing: 
@@ -839,7 +839,7 @@ b. in andere Verdragsluitende Staten, wanneer in een exclusief forumkeuzebeding 
 
 ####Wederzijdse verklaringen inzake niet-exclusieve forumkeuzebedingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Een Verdragsluitende Staat kan verklaren dat zijn gerechten beslissingen zullen erkennen en ten uitvoer zullen leggen die zijn gegeven door gerechten van andere Verdragsluitende Staten die zijn aangewezen in een door twee of meer partijen gemaakt exclusief forumkeuzebeding dat voldoet aan de vereisten van artikel 3, onderdeel c, en waarin, met het oog op de kennisneming van geschillen die in verband met een bepaalde rechtsbetrekking zijn gerezen of zouden kunnen rijzen, een of meer gerechten van een of meer Verdragsluitende Staten zijn aangewezen (een niet-exclusief forumkeuzebeding).   
 2.  Wanneer om erkenning of tenuitvoerlegging van een in een Verdragsluitende Staat die een dergelijke verklaring heeft afgelegd, gegeven beslissing wordt verzocht in een andere Verdragsluitende Staat die een dergelijke verklaring heeft afgelegd, wordt de beslissing op grond van dit Verdrag erkend en ten uitvoer gelegd, indien: 
@@ -854,7 +854,7 @@ c. de zaak het eerst bij het gerecht van herkomst aanhangig is gemaakt.
 
 ####Uniforme uitlegging
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Bij de uitlegging van dit Verdrag dient rekening te worden gehouden met het internationale karakter ervan alsmede met de noodzaak de uniforme toepassing ervan te bevorderen. 
 
@@ -862,7 +862,7 @@ Bij de uitlegging van dit Verdrag dient rekening te worden gehouden met het inte
 
 ####Toetsing van de werking van het Verdrag
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrecht neemt periodiek maatregelen om: 
 
@@ -874,7 +874,7 @@ b. te bezien of wijziging van dit Verdrag wenselijk is.
 
 ####Niet-geünificeerde rechtsstelsels
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Ten aanzien van een Verdragsluitende Staat die op het gebied van enige bij dit Verdrag geregelde aangelegenheid twee of meer rechtsstelsels heeft die binnen verschillende territoriale eenheden van toepassing zijn: 
 
@@ -893,7 +893,7 @@ d. wordt een verwijzing naar een band met een Staat in voorkomend geval uitgeleg
 
 ####Verhouding tot andere internationale instrumenten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Dit Verdrag dient op zodanige wijze te worden uitgelegd dat het voor zover mogelijk verenigbaar is met andere voor de Verdragsluitende Staten van kracht zijnde verdragen, ongeacht of deze voor of na dit Verdrag zijn gesloten.   
 2.  Dit Verdrag laat onverlet de toepassing door een Verdragsluitende Staat van een verdrag, ongeacht of het voor of na dit Verdrag is gesloten, in gevallen waarin geen van de partijen verblijfplaats heeft in een Verdragsluitende Staat die geen partij bij dat verdrag is.   
@@ -910,13 +910,13 @@ b. voor zover het betreft de erkenning of de tenuitvoerlegging van beslissingen 
 
 ####SLOTBEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  27  
 
 ####Ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Dit Verdrag staat open voor ondertekening door alle Staten.   
 2.  Dit Verdrag dient door de ondertekenende Staten te worden bekrachtigd, aanvaard of goedgekeurd.   
@@ -927,7 +927,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Verklaringen ten aanzien van niet-geünificeerde rechtsstelsels
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Indien een Staat twee of meer territoriale eenheden heeft waarin verschillende rechtsstelsels van toepassing zijn betreffende in dit Verdrag geregelde aangelegenheden, kan hij op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat dit Verdrag op al deze territoriale eenheden of slechts op een of meer daarvan van toepassing is en kan hij deze verklaring te allen tijde wijzigen door een nieuwe verklaring af te leggen.   
 2.  Elke verklaring wordt ter kennis gebracht van de depositaris en daarin worden uitdrukkelijk de territoriale eenheden vermeld waarop het Verdrag van toepassing is.   
@@ -938,7 +938,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Regionale Organisaties voor Economische Integratie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Een Regionale Organisatie voor Economische Integratie die uitsluitend is samengesteld uit soevereine Staten en die bevoegd is ter zake van sommige of alle aangelegenheden die in dit Verdrag worden geregeld, kan dit Verdrag eveneens ondertekenen, aanvaarden, goedkeuren of hiertoe toetreden. De Regionale Organisatie voor Economische Integratie heeft in dat geval de rechten en verplichtingen van een Verdragsluitende Staat voor zover de organisatie bevoegd is ter zake van de aangelegenheden waarop dit Verdrag van toepassing is.   
 2.  De Regionale Organisatie voor Economische Integratie doet, op het tijdstip van ondertekening, aanvaarding, goedkeuring of toetreding, de depositaris schriftelijk mededeling van de in dit Verdrag geregelde aangelegenheden ter zake waarvan de bevoegdheid door haar lidstaten aan die organisatie is overgedragen. De organisatie doet de depositaris onverwijld mededeling van wijzigingen van haar bevoegdheid als vermeld in de meeste recente kennisgeving ingevolge dit lid.   
@@ -949,7 +949,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Toetreding door een Regionale Organisatie voor Economische Integratie zonder de lidstaten ervan
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Op het tijdstip van ondertekening, aanvaarding of goedkeuring van dit Verdrag of van toetreding ertoe kan een Regionale Organisatie voor Economische Integratie verklaren dat zij de bevoegdheid uitoefent ter zake van alle aangelegenheden waarop dit Verdrag van toepassing is en dat haar lidstaten geen Partij bij dit Verdrag zullen zijn, maar gebonden zullen zijn door ondertekening, aanvaarding, goedkeuring of toetreding door de organisatie.   
 2.  In het geval dat een Regionale Organisatie voor Economische Integratie een verklaring in overeenstemming met het eerste lid heeft afgelegd, zijn alle verwijzingen naar een „Verdragsluitende Staat” of „Staat” in dit Verdrag in voorkomend geval eveneens van toepassing op de lidstaten van de organisatie.  
@@ -958,7 +958,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Dit Verdrag treedt in werking op de eerste dag van de maand volgend op het verstrijken van een termijn van drie maanden na de nederlegging van de tweede akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, bedoeld in artikel 27.   
 2.  Vervolgens treedt dit Verdrag in werking: 
@@ -971,7 +971,7 @@ b. voor een territoriale eenheid waartoe dit Verdrag overeenkomstig artikel 28, 
 
 ####Verklaringen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  De in de artikelen 19, 20, 21, 22 en 26 bedoelde verklaringen kunnen worden afgelegd bij de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding of op enig tijdstip daarna, en kunnen te allen tijde worden gewijzigd of ingetrokken.   
 2.  Van verklaringen, wijzigingen en intrekkingen wordt aan de depositaris mededeling gedaan.   
@@ -983,7 +983,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Opzegging
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Dit Verdrag kan worden opgezegd door middel van een schriftelijke kennisgeving aan de depositaris. De opzegging kan worden beperkt tot bepaalde territoriale eenheden van een niet-geünificeerd rechtsstelsel waarop dit Verdrag van toepassing is.   
 2.  De opzegging wordt van kracht op de eerste dag van de maand volgend op het verstrijken van een termijn van twaalf maanden na de datum waarop de kennisgeving door de depositaris is ontvangen. Wanneer in de kennisgeving een langere opzegtermijn is aangegeven, wordt de opzegging van kracht na het verstrijken van deze langere termijn, na de datum waarop de kennisgeving door de depositaris is ontvangen.  
@@ -992,7 +992,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Kennisgevingen door de depositaris
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 De depositaris geeft de Leden van de Haagse Conferentie voor Internationaal Privaatrecht en andere Staten en Regionale Organisaties voor Economische Integratie die in overeenstemming met de artikelen 27, 29 en 30 zijn overgegaan tot ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding, kennis van het volgende: 
 

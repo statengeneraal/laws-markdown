@@ -1365,7 +1365,7 @@ E. M. H. Hirsch Ballin
 
 ####Dijkringen en primaire waterkeringen als bedoeld in artikel 1.3, eerste lid 
 
-![255083](http://wetten.overheid.nl/Illustration/255083)
+![255831](http://wetten.overheid.nl/Illustration/255831)
 
 ### Bijlage  IA  
 
