@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om, mede in verband met [artikel 1 van de Grondwet](../../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) en alsmede op grond van de Richtlijn nr. 2000/78/EG van de Raad van de Europese Unie van 27 november 2000, tot instelling van een algemeen kader voor gelijke behandeling in arbeid en beroep (PbEG, 2000, L303), ter bevordering van de deelneming op gelijke voet aan het maatschappelijke leven bescherming te bieden tegen discriminatie op grond van handicap of chronische ziekte en dat het daarom wenselijk is behoudens de door de wet genoemde uitzonderingen onderscheid op deze grond te verbieden;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om, mede in verband met artikel 1 van de Grondwet en alsmede op grond van de Richtlijn nr. 2000/78/EG van de Raad van de Europese Unie van 27 november 2000, tot instelling van een algemeen kader voor gelijke behandeling in arbeid en beroep (PbEG, 2000, L303), ter bevordering van de deelneming op gelijke voet aan het maatschappelijke leven bescherming te bieden tegen discriminatie op grond van handicap of chronische ziekte en dat het daarom wenselijk is behoudens de door de wet genoemde uitzonderingen onderscheid op deze grond te verbieden;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### §  1  
 
@@ -81,7 +81,7 @@ Onderscheid is verboden bij het lidmaatschap van of de betrokkenheid bij een wer
 
 ### Artikel  5b  
 
-Onderscheid is verboden bij het verlenen van toegang tot, het aanbieden van, het afnemen van toetsen tijdens en het afsluiten van onderwijs als bedoeld in de [Wet op het primair onderwijs](../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) en de [Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), voor zover niet begrepen onder artikel 6, onder b.
+Onderscheid is verboden bij het verlenen van toegang tot, het aanbieden van, het afnemen van toetsen tijdens en het afsluiten van onderwijs als bedoeld in de Wet op het primair onderwijs en de Wet op het voortgezet onderwijs, voor zover niet begrepen onder artikel 6, onder b.
 
 ### §  3  
 
@@ -121,7 +121,7 @@ b. het sluiten, uitvoeren, wijzigen of beëindigen van een overeenkomst betreffe
 
 c. het bemiddelen bij een overeenkomst als bedoeld onder b;  
 
-d. het opmaken, uitvoeren of wijzigen van een reglement als bedoeld in [artikel 111, onder d, van Boek 5 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md);  
+d. het opmaken, uitvoeren of wijzigen van een reglement als bedoeld in artikel 111, onder d, van Boek 5 van het Burgerlijk Wetboek;  
 
 e. het inschrijven als woningzoekende.  
 
@@ -158,10 +158,7 @@ c. het sluiten, uitvoeren of beëindigen van overeenkomsten met betrekking tot o
 
 ### Artikel  9  
 
-1.  Beëindiging van de arbeidsverhouding door de werkgever in strijd met artikel 4, wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op artikel 4 of terzake bijstand heeft verleend, is vernietigbaar.   
-2.  Onverminderd [hoofdstuk 8 van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), vervalt twee maanden na de beëindiging van de arbeidsverhouding de bevoegdheid van de werknemer een beroep te doen op de vernietigingsgrond, bedoeld in het eerste lid. [Artikel 55 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is niet van toepassing.   
-3.  Een rechtsvordering in verband met de vernietiging verjaart door verloop van zes maanden na de dag waarop de arbeidsverhouding is geëindigd.   
-4.  De beëindiging, bedoeld in het eerste lid, maakt de werkgever niet schadeplichtig.  
+In geval van een beëindiging van de arbeidsverhouding door de werkgever in strijd met artikel 4, of wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op artikel 4 of ter zake bijstand heeft verleend, is artikel 681 van Boek 7 van het Burgerlijk Wetboek van overeenkomstige toepassing.
 
 ###Artikel 9a 
 
@@ -171,7 +168,7 @@ Onverminderd artikel 9 is het verboden personen te benadelen wegens het feit dat
 
 1. Indien degene die meent dat te zijnen nadeel een onderscheid is of wordt gemaakt als bedoeld in deze wet, in rechte feiten aanvoert die dat onderscheid kunnen doen vermoeden, dient de wederpartij te bewijzen dat niet in strijd met deze wet is gehandeld.
 2. Indien degene die meent dat te zijnen nadeel is gehandeld in strijd met artikel 2 in rechte feiten aanvoert die kunnen doen vermoeden dat is nagelaten doeltreffende aanpassingen te treffen, dient de wederpartij te bewijzen dat niet in strijd met deze bepaling is gehandeld.
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing op vorderingen als bedoeld in [artikel 305a van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en op beroepen ingesteld door belanghebbenden in de zin van [artikel 1:2, derde lid, van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing op vorderingen als bedoeld in artikel 305a van Boek 3 van het Burgerlijk Wetboek en op beroepen ingesteld door belanghebbenden in de zin van artikel 1:2, derde lid, van de Algemene wet bestuursrecht.
 
 ### Artikel  11  
 
@@ -179,7 +176,7 @@ Bedingen in strijd met deze wet zijn nietig.
 
 ### Artikel  12  
 
-Het College, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in deze wet en of gehandeld is in strijd met artikel 2 van deze wet. De [artikelen 10](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [11](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [12](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [13](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [22](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md) en [23 van de Wet College voor de rechten van de mens](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md) zijn van overeenkomstige toepassing. 
+Het College, genoemd in artikel 1 van de Wet College voor de rechten van de mens, kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in deze wet en of gehandeld is in strijd met artikel 2 van deze wet. De artikelen 10, 11, 12, 13, 22 en 23 van de Wet College voor de rechten van de mens zijn van overeenkomstige toepassing. 
 
 ### Artikel  13  
 

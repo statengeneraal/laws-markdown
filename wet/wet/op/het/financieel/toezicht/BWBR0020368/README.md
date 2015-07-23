@@ -3511,6 +3511,61 @@ c. artikel 3:17, eerste en tweede lid, met betrekking tot de inrichting van de 
 3.  Indien de Nederlandsche Bank een kennisgeving als bedoeld in het eerste lid heeft ontvangen, deelt zij de betrokken wisselinstelling onverwijld deze ontvangst mede.   
 4.  De Nederlandsche Bank kan binnen twee maanden na ontvangst van de kennisgeving de toezichthoudende instantie van de aangewezen staat mededelen welke voorwaarden om redenen van algemeen belang door de wisselinstelling in acht moeten worden genomen bij het uitoefenen van haar bedrijf vanuit het in Nederland gelegen bijkantoor. De Nederlandsche Bank zendt hiervan een afschrift aan de wisselinstelling.  
 
+###Afdeling 2.2.4d 
+
+####Uitoefenen van bedrijf van kredietunie
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+###§ 2.2.4d.1 
+
+####Vergunningplicht en -eisen voor kredietunies met zetel in Nederland
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  2:54o  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Het is een ieder met zetel in Nederland verboden zonder een daartoe door de Nederlandsche Bank verleende vergunning het bedrijf uit te oefenen van kredietunie. 
+
+### Artikel  2:54p  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De Nederlandsche Bank verleent op aanvraag een vergunning als bedoeld in artikel 2:54o, indien de aanvrager aantoont dat zal worden voldaan aan het bepaalde ingevolge: 
+
+a. artikel 3:8 met betrekking tot de geschiktheid van de in dat artikel bedoelde personen;  
+
+b. artikel 3:9 met betrekking tot de betrouwbaarheid van de in dat artikel genoemde personen;  
+
+c. artikel 3:10, eerste en tweede lid, met betrekking tot het beleid met betrekking tot de integere bedrijfsuitoefening;  
+
+d. artikel 3:15, eerste en tweede lid, met betrekking tot het minimum aantal personen dat het dagelijks beleid bepaalt en de plaats van waaruit zij hun werkzaamheden verrichten;  
+
+e. artikel 3:16, eerste en tweede lid, met betrekking tot de zeggenschapsstructuur;  
+
+f. artikel 3:17, eerste en tweede lid, met betrekking tot de inrichting van de bedrijfsvoering;  
+
+g. artikel 3:38c met betrekking tot de maximale hoeveelheid aangetrokken opvorderbare gelden en een maximaal aantal leden.  
+
+h. artikel 3:53, eerste en derde lid, met betrekking tot het minimum eigen vermogen;  
+
+i. artikel 3:57, eerste en tweede lid, met betrekking tot de solvabiliteit; en  
+
+j. artikel 3:63, eerste en tweede lid, met betrekking tot de liquiditeit.     
+2.  De aanvraag van de vergunning geschiedt onder opgave van bij of krachtens algemene maatregel van bestuur te bepalen gegevens.   
+3.  De Nederlandsche Bank kan op aanvraag geheel of gedeeltelijk ontheffing verlenen van het eerste lid, aanhef en onderdeel c, d, f, g, h, i, of j, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die de in het eerste lid genoemde artikelen beogen te bereiken anderszins worden bereikt.  
+
+### §  2.2.4d.2  
+
+####Vrijstelling
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  2:54q  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Bij ministeriële regeling kan geheel of gedeeltelijk vrijstelling worden geregeld van artikel 2:54o. Aan deze gehele of gedeeltelijke vrijstelling kunnen voorschriften worden verbonden. 
+
 ### Afdeling  2.2.5  
 
 ####Aanbieden van beleggingsobjecten
@@ -5172,6 +5227,11 @@ Een premiepensioeninstelling met zetel in Nederland heeft de rechtsvorm van naam
 
 Een verzekeraar met zetel in Nederland heeft de rechtsvorm van naamloze vennootschap, onderlinge waarborgmaatschappij of Europese vennootschap. 
 
+### Artikel  3:20.0a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+In afwijking van artikel 38, eerste en derde lid, van Boek 2 van het Burgerlijk Wetboek kan in de statuten van een kredietunie aan een persoon niet meer dan tien procent van het totaal aantal stemmen worden toegekend. 
+
 ### §  3.3.3.1a  
 
 ####Financiële ondernemingen met zetel in een andere lidstaat
@@ -5388,6 +5448,11 @@ Het is een entiteit voor risico-acceptatie met zetel in Nederland die een vergun
 ### Artikel  3:38b  
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot voorwaarden die in door entiteiten voor risico-acceptatie gesloten overeenkomsten worden opgenomen. 
+
+### Artikel  3:38c  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Een kredietunie met zetel in Nederland heeft een bij ministeriële regeling te bepalen maximale hoeveelheid aangetrokken opvorderbare gelden en een maximaal aantal leden. 
 
 ### §   3.3.4.2  
 

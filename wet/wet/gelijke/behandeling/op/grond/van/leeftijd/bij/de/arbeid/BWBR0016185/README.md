@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om ter uitvoering van de Richtlijn 2000/78/EG, tot instelling van een algemeen kader voor gelijke behandeling in arbeid en beroep (PbEG, 2000, L303) alsmede in verband met [artikel 1 van de Grondwet](../../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md), het maken van onderscheid op grond van leeftijd bij arbeid, beroep en beroepsonderwijs te verbieden;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om ter uitvoering van de Richtlijn 2000/78/EG, tot instelling van een algemeen kader voor gelijke behandeling in arbeid en beroep (PbEG, 2000, L303) alsmede in verband met artikel 1 van de Grondwet, het maken van onderscheid op grond van leeftijd bij arbeid, beroep en beroepsonderwijs te verbieden;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### §  1  
 
@@ -91,7 +91,7 @@ Onderscheid is verboden bij het lidmaatschap van of de betrokkenheid bij een wer
 
 a. gebaseerd is op werkgelegenheids- of arbeidsmarktbeleid ter bevordering van arbeidsparticipatie van bepaalde leeftijdscategorieën, voor zover dit beleid is vastgesteld bij of krachtens wet;  
 
-b. betrekking heeft op het beëindigen van een arbeidsverhouding of van het dienstverband van een ambtenaar in verband met het bereiken van de leeftijd waarop op grond van de [Algemene Ouderdomswet](../../../../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) recht op ouderdomspensioen ontstaat, of van een bij of krachtens wet vastgestelde of tussen partijen overeengekomen hogere leeftijd;  
+b. betrekking heeft op het beëindigen van een arbeidsverhouding of van het dienstverband van een ambtenaar in verband met het bereiken van de leeftijd waarop op grond van de Algemene Ouderdomswet recht op ouderdomspensioen ontstaat, of van een bij of krachtens wet vastgestelde of tussen partijen overeengekomen hogere leeftijd;  
 
 c. anderszins objectief gerechtvaardigd is door een legitiem doel en de middelen voor het bereiken van dat doel passend en noodzakelijk zijn.     
 2.  Het eerste lid is niet van toepassing in geval van intimidatie als bedoeld in artikel 2.  
@@ -126,18 +126,14 @@ Het is verboden om personen te benadelen wegens het feit dat zij in of buiten re
 
 ### Artikel  11  
 
-1.  Beëindiging van de arbeidsverhouding door de werkgever in strijd met artikel 3, is vernietigbaar.   
-2.  Beëindiging van de arbeidsverhouding door de werkgever vanwege het feit dat in of buiten rechte een beroep is gedaan op deze wet of terzake bijstand is verleend, is vernietigbaar.   
-3.  Onverminderd [hoofdstuk 8 van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), vervalt twee maanden na de beëindiging van de arbeidsverhouding de bevoegdheid van de werknemer een beroep te doen op de vernietigingsgrond, bedoeld in het eerste en het tweede lid. [Artikel 55 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is niet van toepassing.   
-4.  Een rechtsvordering in verband met de vernietiging verjaart door verloop van zes maanden na de dag waarop de arbeidsverhouding is geëindigd.   
-5.  De beëindiging, bedoeld in het eerste en tweede lid, maakt de werkgever niet schadeplichtig.  
+In geval van een beëindiging van de arbeidsverhouding door de werkgever in strijd met artikel 3, of wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op deze wet of ter zake bijstand heeft verleend, is artikel 681 van Boek 7 van het Burgerlijk Wetboek van overeenkomstige toepassing.
 
 ####Bewijslast
 
 ###Artikel 12 
 
 1. Indien degene die meent dat te zijnen nadeel een onderscheid is of wordt gemaakt als bedoeld in deze wet, in rechte feiten aanvoert die dat onderscheid kunnen doen vermoeden, dient de wederpartij te bewijzen dat niet in strijd met deze wet is gehandeld.
-2. Het eerste lid is van overeenkomstige toepassing op vorderingen als bedoeld in [artikel 305a van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en op beroepen ingesteld door belanghebbenden in de zin van [artikel 1:2, derde lid, van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).
+2. Het eerste lid is van overeenkomstige toepassing op vorderingen als bedoeld in artikel 305a van Boek 3 van het Burgerlijk Wetboek en op beroepen ingesteld door belanghebbenden in de zin van artikel 1:2, derde lid, van de Algemene wet bestuursrecht.
 
 ####Nietigheid
 
@@ -149,7 +145,7 @@ Bedingen in strijd met deze wet zijn nietig.
 
 ### Artikel  14  
 
-Het College, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in deze wet. De [artikelen 10](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [11](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [12](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [13](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [22](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md) en [23 van de Wet College voor de rechten van de mens](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md) zijn van overeenkomstige toepassing. 
+Het College, genoemd in artikel 1 van de Wet College voor de rechten van de mens, kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in deze wet. De artikelen 10, 11, 12, 13, 22 en 23 van de Wet College voor de rechten van de mens zijn van overeenkomstige toepassing. 
 
 ### §  6  
 
@@ -171,7 +167,7 @@ Het in deze wet neergelegde verbod van onderscheid is tot 2 december 2006 niet v
 
 ### Artikel  17  
 
-Het in deze wet neergelegde verbod van onderscheid is niet van toepassing ten aanzien van militaire ambtenaren als bedoeld in [artikel 1 van de Militaire Ambtenarenwet 1931](../../../../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) tot 1 januari 2008, of tot een eerdere datum waarop in de [Militaire ambtenarenwet 1931](../../../../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) een regeling is getroffen ten aanzien van het gebruik van leeftijdsgrenzen binnen de krijgsmacht betreffende aanstelling, functietoewijzing, aanwijzing voor een opleiding en ontslag. 
+Het in deze wet neergelegde verbod van onderscheid is niet van toepassing ten aanzien van militaire ambtenaren als bedoeld in artikel 1 van de Militaire Ambtenarenwet 1931 tot 1 januari 2008, of tot een eerdere datum waarop in de Militaire ambtenarenwet 1931 een regeling is getroffen ten aanzien van het gebruik van leeftijdsgrenzen binnen de krijgsmacht betreffende aanstelling, functietoewijzing, aanwijzing voor een opleiding en ontslag. 
 
 ####Wijzigingen in andere regelgeving
 

@@ -5,16 +5,16 @@
 De Minister van Onderwijs, Cultuur en Wetenschap,  
 Handelende in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie;
 
-Gelet op [artikel 7.4.4 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
+Gelet op artikel 7.4.4 van de Wet educatie en beroepsonderwijs;
 Besluit:    
 
 ### Artikel  1  
 
-De landelijke standaarden, bedoeld in [artikel 7.4.4 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), worden vastgesteld overeenkomstig de bijlage behorend bij deze regeling. 
+De landelijke standaarden, bedoeld in artikel 7.4.4 van de Wet educatie en beroepsonderwijs, worden vastgesteld overeenkomstig de bijlage behorend bij deze regeling. 
 
 ### Artikel  2  
 
-De [Regeling standaarden examenkwaliteit mbo](../../../../../../../ministeriele-regeling/regeling/standaarden/examenkwaliteit/mbo/BWBR0025348/README.md) wordt ingetrokken. 
+De Regeling standaarden examenkwaliteit mbo wordt ingetrokken. 
 
 ### Artikel  3  
 
@@ -31,7 +31,7 @@ J.M. Bijsterveldt-Vliegenthart
 
 ### Bijlage 
 
-####behorende bij artikel 1  van de regeling standaarden examenkwaliteit mbo 2011
+####behorende bij artikel 1 
 
 ####Inleiding
 
@@ -61,15 +61,19 @@ Standaard 3: De diplomering is deugdelijk
 
 ####De normering
 
-De normering vindt in eerste instantie op het niveau van de standaarden en de indicatoren plaats. Op basis daarvan wordt een oordeel gegeven over de examenkwaliteit van een opleiding. Per standaard en per indicator wordt een oordeel uitgesproken op een tweepuntschaal (onvoldoende – voldoende). Per indicator is een beschrijving gegeven van het oordeel ‘voldoende’. Die beschrijving is opgenomen in de zogenaamde portretten. De portretten vormen het referentiekader voor de beoordeling. De aangetroffen situatie voldoet in voldoende mate aan de betreffende indicator als de situatie over het geheel genomen overeenkomt met de inhoud van de portretten. Voor de examenkwaliteit van een opleiding wordt een oordeel uitgesproken op een vierpuntschaal (goed – voldoende – onvoldoende – slecht).  
+Een oordeel over de examenkwaliteit van een opleiding komt als volgt tot stand. De normering bestaat uit twee stappen: 
 
-| --- | --- |
-|:---|:---|
-| --- | --- |
-| Goed  | • Aan alle standaarden is voldaan;  • De elementen in het portret worden op uitstekende wijze uitgevoerd.  |
-| Voldoende  | • Aan alle standaarden is voldaan;  • Er wordt voor het grootste deel aan de omschrijving van de portretten voldaan, waaronder de essentiële onderdelen.  |
-| Onvoldoende  | • Aan één standaard is niet voldaan.  |
-| Slecht  | • Aan twee of drie standaarden is niet voldaan.  |
+1. een normering per standaard;  
 
-De examenkwaliteit van een opleiding is voldoende of goed wanneer alle drie standaarden voldoende zijn en per standaard aan alle indicatoren is voldaan. De examenkwaliteit is goed als de elementen in het portret op uitstekende wijze worden uitgevoerd. De examenkwaliteit is voldoende als voor het grootste deel aan de omschrijving van de portretten wordt voldaan, waaronder de essentiële onderdelen. Een voorbeeld van een essentieel onderdeel is het examineren van de wettelijke beroepsvereisten (bij indicator 1.2). De examenkwaliteit van een opleiding is onvoldoende wanneer aan één standaard niet is voldaan. Indien aan één indicator van een standaard niet is voldaan, wordt niet voldaan aan de betreffende standaard. De examenkwaliteit van een opleiding is slecht wanneer aan twee of drie standaarden niet is voldaan. Indien aan één indicator van een standaard niet is voldaan, wordt niet voldaan aan de betreffende standaard. Voor eindtermgerichte opleidingen dient elke onderzochte deelkwalificatie aan de standaarden en bijbehorende indicatoren te voldoen. De examenkwaliteit van een opleiding voldoet kortom aan de standaarden als per standaard aan alle indicatoren is voldaan. 
+2. een normering voor de examenkwaliteit van de opleiding.   De focus van een onderzoek van de Inspectie van het onderwijs naar de kwaliteit van de examinering en diplomering richt zich op de standaarden. Per standaard wordt een oordeel uitgesproken op een tweepuntschaal (onvoldoende – voldoende). Indicatoren en portretten zijn daarvoor indicerend en richtinggevend. Voor de examenkwaliteit van een opleiding wordt een oordeel uitgesproken op een vierpuntschaal (goed – voldoende – onvoldoende – slecht). Goed 
+
+–Aan alle standaarden is voldaan;  Voldoende De elementen in het portret worden op een uitstekende wijze uitgevoerd.
+
+–Aan alle standaarden is voldaan;
+
+– Er wordt voor het grootste deel aan de omschrijving van de portretten voldaan, waaronder de essentiële onderdelen.   Onvoldoende 
+
+–Aan één of twee standaarden is niet voldaan.Slecht 
+
+–Aan geen van de drie standaarden is voldaan.Zoals hierboven is weergegeven is de examenkwaliteit van een opleiding voldoende wanneer aan alle drie de standaarden is voldaan en voor het grootste deel aan de omschrijving van de portretten wordt voldaan, waaronder aan de *essentiële onderdelen*. Een voorbeeld van een essentieel onderdeel is het examineren van de wettelijke beroepsvereisten (bij indicator 1.2). Voor eindtermgerichte opleidingen dient elke onderzochte deelkwalificatie aan de standaarden te voldoen. 
 

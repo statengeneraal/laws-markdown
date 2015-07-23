@@ -730,7 +730,7 @@ b) For normal conditions of use, all the internal parts of the control must be p
 
 1. Distance travelled indicator (distance recorder)
 
-a) The value of the smallest grading on the control device showing distance travelled must be 0.1 kilometres. Figures showing hectometres must be clearly distinguishable form those showing whole kilometres.
+a) The value of the smallest grading on the control device showing distance travelled must be 0.1 kilometres. Figures showing hectometres must be clearly distinguishable from those showing whole kilometres.
 
 b) The figures on the distance recorder must be clearly legible and must have an apparent height of at least 4 mm.
 
@@ -811,7 +811,7 @@ the measurement range of the speedometer in the form ‘Vmin ... km/h, Vmax ... 
 
 2. The descriptive plaque must be built into the equipment and must show the following markings, which must be visible on the control device when installed.
 
-name and adress of the manufacturer of the equipment,
+name and address of the manufacturer of the equipment,
 
 manufacturer’s number and year of construction,
 
@@ -892,7 +892,7 @@ at the start of the first journey recorded on the sheet,
 
 at the end of the last journey recorded on the sheet,
 
-in the event of a change of vehicle during a working dag (reading on the vehicle to which he was assigned and reading on the vehicle to which he is to be assigned);
+in the event of a change of vehicle during a working day (reading on the vehicle to which he was assigned and reading on the vehicle to which he is to be assigned);
 
 e) the time of any change of vehicle.Under normal conditions of storage, the recordings must remain clearly legible for at least one year.
 
@@ -920,7 +920,7 @@ name and address or tradename of the manufacturer,
 
 approval mark for the model of the sheet,
 
-approval mrk for the type or types of control devices in which the sheet may be used,
+approval mark for the type or types of control devices in which the sheet may be used,
 
 upper limit of the speed measurement range, printed in kilometres per hour.By way of minimal additional requirements, each sheet must bear, in printed form a time-scale graduated in such a way that the time may be read directly at intervals of 15 minutes while each 5-minute interval may be termined without difficulty.
 ###D. FREE SPACE FOR HAND-WRITTEN INSERTIONS
@@ -946,7 +946,7 @@ the time at which any change of vehicle takes place.
 
 3. After the control device has been checked on installation, an installation plaque shall be affixed to the vehicle beside the device or in the device itself and in such a way as to be. clearly visible. After every inspection by an approved fitter or workshop requiring a change in the setting of the installation itself, a new plaque must be affixed in place of the previous one.The plaque must show at least the following details:
 
-name, adress or trade name of the approved fitter or workshop,
+name, address or trade name of the approved fitter or workshop,
 
 characteristic coefficient of the vehicle, in the form ‘w = ... rev/km’ or ‘w = ... imp/km’,
 
@@ -1577,7 +1577,7 @@ Deze Overeenkomst zal ophouden van kracht te zijn indien na haar inwerkingtredin
 
 ### Artikel  17  
 
-1.  Elke Staat kan, bij de ondertekening van deze Overeenkostm bij de nederlegging van zijn akte van bekrachtiging of toetreding of te eniger tijd daarna, door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving verklaren, dat de toepasselijkheid van deze Overeenkomst wordt uitgebreid tot alle of enkele van de gebieden voor welker internationale betrekkingen hij verantwoordelijk is. Deze Overeenkomst is ten aanzien van het gebied of de gebieden in de kennisgeving vermeld van toepassing met ingang van de honderdtachtigste dag na ontvangst van die kennisgeving door de Secretaris-Generaal of wel, indien deze Overeenkomst op die dag nog niet in werking is getreden, met ingang van de datum van haar inwerkingtreding.   
+1.  Elke Staat kan, bij de ondertekening van deze Overeenkomst bij de nederlegging van zijn akte van bekrachtiging of toetreding of te eniger tijd daarna, door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving verklaren, dat de toepasselijkheid van deze Overeenkomst wordt uitgebreid tot alle of enkele van de gebieden voor welker internationale betrekkingen hij verantwoordelijk is. Deze Overeenkomst is ten aanzien van het gebied of de gebieden in de kennisgeving vermeld van toepassing met ingang van de honderdtachtigste dag na ontvangst van die kennisgeving door de Secretaris-Generaal of wel, indien deze Overeenkomst op die dag nog niet in werking is getreden, met ingang van de datum van haar inwerkingtreding.   
 2.  Elke Staat die overeenkomstig het voorgaande lid een verklaring heeft afgelegd waardoor deze Overeenkomst van toepassing wordt op een gebied voor welker internationale betrekkingen hij verantwoordelijk is, kan deze Overeenkomst met betrekking tot dit gebied afzonderlijk opzeggen overeenkomstig de bepalingen van artikel 15.  
 
 ### Artikel  18  
@@ -1625,7 +1625,7 @@ b) wanneer een der Overeenkomstsluitende Partijen een mededeling heeft gedaan kr
 ###Artikel 22 
 
 1. De aanhangsels 1 en 2 bij de bijlage bij deze Overeenkomst kunnen worden gewijzigd overeenkomstig de in dit artikel bepaalde procedure.
-2. Op verzoek van een Overeenkomstsluitende Partij wordt elke door deze Partij voorgestelde wijziging van de aanhangels 1 en 2 bij de bijlage bij deze Overeenkomst bestudeerd door de hoofdwerkgroep wegvervoer van de Economische Commissie voor Europa.
+2. Op verzoek van een Overeenkomstsluitende Partij wordt elke door deze Partij voorgestelde wijziging van de aanhangsels 1 en 2 bij de bijlage bij deze Overeenkomst bestudeerd door de hoofdwerkgroep wegvervoer van de Economische Commissie voor Europa.
 3. Indien zij wordt aangenomen door de meerderheid van de aanwezige leden die hun stem uitbrengen en indien deze meerderheid de meerderheid omvat van de aanwezige Overeenkomstsluitende Partijen die hun stem uitbrengen, wordt de wijziging door de Secretaris-Generaal ter kennis gebracht van de bevoegde administraties van alle Overeenkomstsluitende Partijen ter aanvaarding.
 4. De wijziging is aanvaard indien, binnen zes maanden volgend op de datum van deze kennisgeving, minder dan een derde van de bevoegde administraties van de Overeenkomstsluitende Partijen de Secretaris-Generaal in kennis stelt van hun bezwaar tegen de wijziging.
 4 bis. Indien een land tussen het tijdstip van kennisgeving van een ontwerpwijziging en het tijdstip waarop deze geacht wordt te zijn aanvaard, Partij wordt bij deze Overeenkomst, stelt het secretariaat van de Subcommissie voor het wegvervoer van de Economische Commissie van Europa de nieuwe Staat die Partij is geworden zo spoedig mogelijk in kennis van de ontwerpwijziging. De laatste kan de Secretaris-Generaal voor het verstrijken van de termijn van zes maanden vanaf de datum van verzending van de oorspronkelijke wijziging aan alle Overeenkomstsluitende Partijen in kennis stellen van enig bezwaar.
@@ -2317,7 +2317,7 @@ Goedkeuringsmerk en -certificaten
 -een rechthoek waarbinnen de letter „e” is aangebracht, gevolgd door een onderscheidingsnummer van het land waar de goedkeuring werd afgegeven, in overeenstemming met de volgende gebruikelijke tekens: 
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 |Duitsland |-1 |
 |Frankrijk |-2 |
 |Italië |-3 |
@@ -2360,7 +2360,7 @@ i.Aan landen die partij zijn bij de Overeenkomst van 1958 betreffende het aannem
 
 ii.Aan landen die geen partij zijn bij de Overeenkomst van 1958, nummers in de chronologische volgorde waarin zij deze Overeenkomst bekrachtigen of daartoe toetreden,en
 
--een goedkeuringsnummer, overeenkomend met het nummer op het goedkeuringscertificaat dat is opgesteld voor het model van het controleapparaat of van het blad, en aangebracht op een willekeurige plaats in de nabijheid van de rechthoek.Noot: Om in de toekomst de gelijkvormigheid te waarborgen tussen de gebruikeijke tekens van de Overeenkomst van 1958 en die van de AETR-Overeenkomst, dienen aan nieuwe Overeenkomstsluitende Partijen in beide Overeenkomsten dezelfde nummers te worden toegekend.
+-een goedkeuringsnummer, overeenkomend met het nummer op het goedkeuringscertificaat dat is opgesteld voor het model van het controleapparaat of van het blad, en aangebracht op een willekeurige plaats in de nabijheid van de rechthoek.Noot: Om in de toekomst de gelijkvormigheid te waarborgen tussen de gebruikelijke tekens van de Overeenkomst van 1958 en die van de AETR-Overeenkomst, dienen aan nieuwe Overeenkomstsluitende Partijen in beide Overeenkomsten dezelfde nummers te worden toegekend.
 
 2. Het goedkeuringsmerk wordt op de opschriftenplaat van elk controle-apparaat en op elk registratieblad aangebracht. Het moet onuitwisbaar zijn en steeds goed leesbaar blijven.  
 
