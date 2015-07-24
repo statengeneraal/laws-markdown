@@ -911,6 +911,119 @@ Teneinde te voldoen aan het vereiste, bedoeld in artikel 6:14, kan de beleggings
 
 ### Hoofdstuk  8  
 
+####Regels betreffende de verplichting van levensverzekeraars als bedoeld in artikel 81b van het besluit
+
+### §  8.1  
+
+####Regels met betrekking tot activeren van cliënten
+
+### Artikel  8:1  
+
+De levensverzekeraar draagt zorg voor een adequate informatieverstrekking aan cliënten. Hieronder wordt in deze regeling verstaan dat: 
+
+a. de cliënt op duidelijke wijze wordt geïnformeerd over het verschil tussen de verwachte waarde van de beleggingsverzekering op de einddatum zoals deze bij aanvang van de beleggingsverzekering aan de cliënt is voorgerekend en de waarde op de einddatum zoals die naar de huidige verwachting zal bedragen. De levensverzekeraar maakt daarbij concreet hoe laatstgenoemde waarde zich verhoudt tot het oorspronkelijke doel van cliënt;  
+
+b. de cliënt zo wordt geïnformeerd dat deze in staat zal zijn de generieke financiële gevolgen te overzien indien hij zijn beleggingsverzekering: 
+
+1°. ongewijzigd voorzet;  
+
+2°. wijzigt; of  
+
+3°. afkoopt.   
+
+c. de cliënt wordt gewezen op de urgentie om een weloverwogen keuze te maken met betrekking tot zijn beleggingsverzekering.   
+
+### Artikel  8:2  
+
+Om te voldoen aan zijn inspanningsverplichting als bedoeld in artikel 81b van het besluit vergewist de levensverzekeraar zich ervan dat de cliënt daadwerkelijk de consequenties van zijn keuze overziet. 
+
+### Artikel  8:3  
+
+Een levensverzekeraar wordt geacht eveneens te hebben voldaan aan zijn inspanningsverplichting als bedoeld in artikel 81b van het besluit ingeval de adviseur of bemiddelaar deze inspanningen heeft verricht en de levensverzekeraar in zijn cliëntdossier heeft vastgelegd: 
+
+a. de gegevens van de adviseur of bemiddelaar bij wie het volledige cliëntdossier is opgeslagen;  
+
+b. de gemaakte keuze van de cliënt;  
+
+c. welk contact hieraan ten grondslag heeft gelegen; en  
+
+d. wat de onderbouwing is van de cliënt voor de gemaakte keuze.   
+
+### §  8.2  
+
+####Voldoende inspanning met betrekking tot activeren van cliënten
+
+### Artikel  8:4  
+
+1.  Wanneer de cliënt niet kan worden bereikt of de cliënt geen weloverwogen keuze aan de levensverzekeraar kenbaar heeft gemaakt, heeft de levensverzekeraar desondanks voldaan aan zijn inspanningsverplichting als bedoeld in artikel 81b van het besluit, indien hij kan aantonen dat door hem of door de adviseur of bemiddelaar voldoende inspanningen zijn geleverd om de cliënt een weloverwogen keuze te kunnen laten maken. Daartoe toont de levensverzekeraar in ieder geval aan: 
+
+a. dat de cliënt een of meerdere brieven heeft ontvangen met de informatie zoals bedoeld in artikel 8:1;  
+
+b. dat de cliënt binnen een redelijke termijn na het verzenden van de onder a genoemde brieven, en over een langere periode, verschillende malen telefonisch is benaderd;  
+
+c. welke handelingen zijn verricht, wanneer andere handelingen zijn verricht door de levensverzekeraar of adviseur of bemiddelaar om de cliënt een bewuste keuze te kunnen laten maken;  
+
+d. dat een slotbrief aan de cliënt is gestuurd, waarin de verrichte inspanningen zijn weergegeven, de urgentie en de mogelijke consequenties van het niet maken van een keuze worden benadrukt en waarin de cliënt alsnog, blijvend, de mogelijkheid wordt geboden om een weloverwogen keuze te maken.     
+2.  Behoudens cliënten die in het bezit zijn van een niet opbouwende beleggingsverzekering, zoals bedoeld in artikel 8:5, tweede lid, mag de levensverzekeraar de cliënt als bedoeld in het eerste lid meetellen voor het in Bijlage 13 vastgestelde vereiste resultaat.  
+
+### §  8.3  
+
+####Niet opbouwende beleggingsverzekering
+
+### Artikel  8:5  
+
+1.  Voor cliënten met een niet opbouwende beleggingsverzekering geldt dat aan hen een passende oplossing moet worden geboden alvorens de beleggingsverzekering meetelt voor het in Bijlage 13 vastgestelde vereiste resultaat.   
+2.  Voor de toepassing van dit artikel en van artikel 8:4, tweede lid, wordt onder een niet opbouwende beleggingsverzekering verstaan een voor 1 januari 2013, de peildatum, afgesloten beleggingsverzekering waarvoor premie wordt betaald op hiervoor vermelde datum, waarbij de verwachte aangroei in vermogen tussen de peildatum en einddatum, berekend op 4% per jaar als in Modellen De Ruiter, op 1 januari 2013, lager is dan de door de cliënt naar verwachting nog in te leggen premies tussen de peildatum en de einddatum.   
+3.  Met passende oplossing zoals vermeld in het eerste lid wordt bedoeld dat, indien de cliënt met een beleggingsverzekering als bedoeld in het tweede lid niet kan worden bereikt of de cliënt geen weloverwogen keuze kenbaar heeft gemaakt, de levensverzekeraar ervoor zorg draagt dat het niet opbouwende karakter van de beleggingsverzekering wordt weggenomen.  
+
+### Artikel  8:6  
+
+1.  De levensverzekeraar monitort zijn portefeuille eenmaal per jaar op een door hem gekozen meetmoment op cliënten die voor 1 januari 2013 een beleggingsverzekering hebben afgesloten waarvoor premie wordt betaald op de hiervoor vermelde datum, en waarbij eerst op dit jaarlijkse meetmoment naar voren komt dat de verwachte aangroei in vermogen tussen het meetmoment en einddatum, berekend op 4% per jaar overeenkomstig de Modellen De Ruiter, lager is dan door de cliënt naar verwachting nog in te leggen premies tussen het meetmoment en de einddatum.   
+2.  De cliënt als bedoeld in het eerste lid wordt een passende oplossing geboden als bedoeld in artikel 8:5, derde lid, voor zover niet eerder een oplossing is geboden als bedoeld in artikel 8:5, derde lid.   
+3.  De oplossing als bedoeld in het tweede lid wordt geboden binnen zes maanden nadat is vastgesteld dat de cliënt met deze beleggingsverzekering behoort tot de categorie als bedoeld in het eerste lid.  
+
+### §  8.4  
+
+####Vereist resultaat voor te activeren cliënten
+
+### Artikel  8:7  
+
+Ter uitvoering van het bepaalde in artikel 81b, derde lid van het besluit, stelt de AFM een vereist resultaat vast voor verschillende categorieën beleggingsverzekeringen. Het vereiste resultaat en de daarbij behorende einddata zijn opgenomen in de in Bijlage 13 weergeven tabel. Ten aanzien van het activeren van cliënten met een beleggingsverzekering wordt in het vereiste resultaat een onderscheid gemaakt in: 
+
+a. cliënten met beleggingsverzekeringen zoals bedoeld in artikel 8:5, tweede lid (rij 1 van de tabel in Bijlage 13);  
+
+b. cliënten met hypotheekgebonden beleggingsverzekeringen die zijn gesloten voor 1 januari 2013 en premiebetalend zijn, dan wel zijn gesloten op basis van een koopsom (rij 2 van de tabel in Bijlage 13);  
+
+c. cliënten met pensioengebonden beleggingsverzekeringen, niet zijnde een collectieve verzekering, die zijn gesloten voor 1 januari 2013 en die: 
+
+1° premiebetalend zijn, gesloten zijn op basis van een koopsom of premievrij zijn en op 1 januari 2013 een verwachte eindwaarde hadden van € 40.000 of hoger, ongeacht de jaarlijkse inleg, of waarvan de totale inleg in 2013 € 3.500 of meer was (rij 3 van de tabel in bijlage 13);  
+
+2° niet in de categorie beleggingsverzekeringen vallen als bedoeld in sub c, onder 1, premiebetalend zijn dan wel zijn gesloten op basis van een koopsom en op 1 januari 2013 een verwachte eindwaarde hadden van € 25.000 of hoger, ongeacht de hoogte van de jaarlijkse inleg, of waarvan de totale inleg in 2013 € 1.000- of meer was (rij 4 van de tabel in Bijlage 13);  
+
+3° niet in de categorie beleggingsverzekeringen vallen als bedoeld in sub c, onder 1 en 2, premiebetalend zijn, dan wel zijn gesloten op basis van een koopsom en op 1 januari 2013 een verwachte eindwaarde hebben van minder dan € 25.000 of waarvan de totale inleg in 2013 minder dan € 1.000 was (rij 5 van de tabel in Bijlage 13).    
+
+### Artikel  8:8  
+
+Een levensverzekeraar heeft voldaan aan zijn inspanningsverplichting als bedoeld in artikel 81b van het besluit voor cliënten die in het bezit zijn van een beleggingsverzekering als bedoeld in artikel 8:7, sub c, onder 3, wanneer de levensverzekeraar kan aantonen dat hij deze cliënten de informatie als bedoeld in artikel 8:1 heeft verstrekt. 
+
+### §  8.5  
+
+####Regels met betrekking tot de vastlegging
+
+### Artikel  8:9  
+
+1.  Een levensverzekeraar houdt voldoende gegevens bij over het in artikel 81b van het besluit genoemde proces om de toezichthouder in staat te stellen na te gaan of de in artikel 81b van het besluit opgenomen verplichtingen door de levensverzekeraar worden nageleefd.   
+2.  De gegevens als bedoeld in het eerste lid omvatten in elk geval: 
+
+a. de door de levensverzekeraar aan de individuele cliënt verstrekte informatie;  
+
+b. de door de levensverzekeraar verrichte inspanningen om cliënt te bereiken en van informatie te voorzien;  
+
+c. de van de individuele cliënt ontvangen informatie waaronder in ieder geval wordt verstaan vastlegging van de keuze van de cliënt en de door de cliënt gegeven onderbouwing van deze gemaakte keuze.     
+3.  De levensverzekeraar bewaart de gegevens, bedoeld in het eerste lid en bedoeld in artikel 8:3 en artikel 8:8, gedurende ten minste vijf jaar na het verstrijken van de einddatum van het vereiste resultaat van de categorie waar de desbetreffende beleggingsverzekering toe behoort, of, indien er geen vereist resultaat gekoppeld is aan de categorie waar de beleggingsverzekering toe behoort, ten minste vijf jaar na het in werking treden van artikel 81b van het besluit.  
+
+### Hoofdstuk  9  
+
 ####Slotbepalingen
 
 ### Artikel  7:1  
@@ -2242,4 +2355,14 @@ Vervallen.
 #### *10.6.* 
 
 Vervallen. 
+
+### Bijlage  13  
+
+|--- | Categorie beleggingsverzekeringen  | Vereist resultaat en termijn   | Vereist resultaat en termijn resterend percentage  |
+|:---|:---|:---|:---|
+| 1.  | Niet opbouwende beleggingsverzekeringen, artikel 8:7, sub a   | 100% oplossing per 21 augustus 2015  | n.v.t.  |
+| 2.  | Hypotheekgebonden beleggingsverzekeringen, artikel 8:7, sub b   | 80% per  21 augustus 2015  | 100% per einde Q4 2016  |
+| 3.  | Pensioengebonden beleggingsverzekeringen, artikel 8:7, sub c, onder 1   | 100% per einde Q4 2016  | n.v.t.  |
+| 4.  | Pensioengebonden beleggingsverzekeringen, artikel 8:7, sub c, onder 2   | 100% per einde Q4 2016  | n.v.t.  |
+| 5.  | Pensioengebonden beleggingsverzekeringen, artikel 8:7, sub c, onder 3   | 100% geïnformeerd per einde Q4 2016  | n.v.t.  |
 
