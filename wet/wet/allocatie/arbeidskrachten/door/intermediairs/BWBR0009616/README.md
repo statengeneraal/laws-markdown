@@ -184,7 +184,7 @@ b. artikel 2, eerste lid, of 15 van de Wet arbeid vreemdelingen;
 
 c. artikel 5:20 van de Algemene wet bestuursrecht; of  
 
-d. artikel 7, 15 of 18b, tweede lid, van de Wet minimumloon en minimumvakantiebijslag.     
+d. artikel 7, 7a, 13, 15 of 18b, tweede lid, van de Wet minimumloon en minimumvakantiebijslag.     
 2.  De rijksbelastingdienst meldt kosteloos aan een erkende certificerende instelling:
 
 a.de omstandigheid dat niet tijdig aangifte is gedaan door een onderneming of rechtspersoon als bedoeld in artikel 7a, eerste lid, voor de omzetbelasting, de loonbelasting, de premie voor de volksverzekeringen, de premies voor de werknemersverzekeringen of de inkomensafhankelijke bijdrage voor de Zorgverzekeringswet;
@@ -223,8 +223,6 @@ De door Onze Minister aangewezen ambtenaren, bedoeld in artikel 13, eerste lid,
 ### Artikel  15b  
 
 ####Openbaarmaking van door toezicht op de naleving verkregen gegevens
-
-Treedt in werking per 01-07-2015 
 
 1.  De door Onze Minister aangewezen ambtenaren, bedoeld in artikel 13, eerste lid, of 18, eerste lid, maken het feit dat een bestuurlijke boete is opgelegd wegens overtreding van deze wet als bedoeld in artikel 16, dat een besluit is genomen als bedoeld in artikel 22, tweede lid, of dat na een afgerond onderzoek geen overtreding is geconstateerd openbaar teneinde de naleving van deze wet te bevorderen en inzicht te geven in het uitvoeren van toezicht op grond van deze wet.   
 2.  Bij de openbaarmaking, bedoeld in het eerste lid, is artikel 10, eerste lid, onderdelen c en d, van de Wet openbaarheid van bestuur van overeenkomstige toepassing.   
@@ -300,7 +298,7 @@ Indien een bestuurlijke boete ten onrechte is opgelegd, wordt deze binnen zes we
 
 ####Mandaat
 
-Een beschikking op grond van deze wet van een ambtenaar als bedoeld in de artikelen 18, eerste lid, en 22, eerste lid, wordt genomen namens Onze Minister. 
+Een beschikking op grond van deze wet van een ambtenaar als bedoeld in de artikelen 15b, 18, eerste lid, en 22, eerste lid, wordt genomen namens Onze Minister. 
 
 ### Hoofdstuk  6  
 

@@ -13,9 +13,9 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a.  *de directeur-generaal:* directeur-generaal Rijksdienst voor Ondernemend Nederland;  
+a.  *de algemeen directeur:* algemeen directeur Rijksdienst voor Ondernemend Nederland;  
 
-b.  *de plaatsvervangend directeur-generaal:* de plaatsvervangend directeur-generaal Rijksdienst voor Ondernemend Nederland;  
+b.  *de plaatsvervangend algemeen directeur:* de plaatsvervangend algemeen directeur Rijksdienst voor Ondernemend Nederland;  
 
 c.  *de directeur:* de directeur Kernprocessen EU en Klantcontact & Gegevens, de directeur Kernprocessen NL en Juridische Zaken, de directeur Internationale Programma’s, de directeur Nationale Programma’s, en de directeur Financiën, Informatiemanagement en Facilitaire Zaken;  
 
@@ -96,7 +96,7 @@ j. het verlenen van PAS verlof;
 
 k. het accorderen van tijdschrijfregistraties;  
 
-l. het aangaan van verplichtingen met betrekking tot het, anders dan door middel van een tijdelijke aanstelling, aantrekken van tijdelijk personeel overeenkomstig een voorafgaand besluit van de directeur-generaal of een directeur daartoe;  
+l. het aangaan van verplichtingen met betrekking tot het, anders dan door middel van een tijdelijke aanstelling, aantrekken van tijdelijk personeel overeenkomstig een voorafgaand besluit van de algemeen directeur of een directeur daartoe;  
 
 m. het afhandelen van verzoeken om betaling, voortvloeiend uit verplichtingen die zijn aangegaan met betrekking tot het, anders dan door middel van een tijdelijke aanstelling, aantrekken van tijdelijk personeel;  
 
@@ -154,9 +154,10 @@ k. het accorderen van een vergoeding voor verhuiskosten.
 
 ### Artikel  7  
 
-1.  Aan de afdelingsmanager, de teammanagers en de senior juristen van de afdeling Juridische Zaken wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften, waaronder het nemen van beslissingen op bezwaarschriften, met dien verstande dat het aangaan van financiële verplichtingen ten laste van het beleidsbudget een bedrag van € 1.500.000 per verplichting niet te boven gaat.   
+1.  Aan de afdelingsmanager en de teammanagers van de afdeling Juridische Zaken wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften, waaronder het nemen van beslissingen op bezwaarschriften, met dien verstande dat het aangaan van financiële verplichtingen die ten laste komen van het beleidsbudget, een bedrag van € 1.500.000 per verplichting niet te boven gaat.   
 2.  Aan de afdelingsmanager en de teammanagers van de afdeling Juridische Zaken wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor het instellen van (hoger) beroep.   
-3.  Aan de afdelingsmanager, de teammanagers, de senior juristen van de afdeling Juridische Zaken en de juristen van het Kennisteam Beroepen van die afdeling, wordt, ieder voor zich, machtiging verleend tot vertegenwoordiging bij geschillen. Tevens zijn zij bevoegd om voor de behandeling van een geschil één of meer personen als medegemachtigde te introduceren.  
+3.  Aan de afdelingsmanager, de teammanagers, de senior juristen van de afdeling Juridische Zaken en de juristen van het Kennisteam Beroepen van die afdeling, wordt, ieder voor zich, machtiging verleend tot vertegenwoordiging bij geschillen. Tevens zijn zij bevoegd om voor de behandeling van een geschil één of meer personen als medegemachtigde te introduceren.   
+4.  Aan de senior juristen van de afdeling Juridische Zaken wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften, waaronder het nemen van beslissingen op bezwaarschriften, met dien verstande dat het aangaan van financiële verplichtingen die ten laste komen van het beleidsbudget, een bedrag van € 1.500.000 per verplichting niet te boven gaat of het aangaan van financiële verplichtingen die ten laste komen van de directe uitvoeringskosten, een bedrag van € 1.000 per verplichting niet te boven gaat. 
 
 ### Artikel  8  
 
@@ -225,7 +226,7 @@ De afdelingsmanager van de afdeling Juridische Zaken draagt zorg voor een actuee
 
 ### Artikel  13  
 
-Op mandaat, volmacht en machtiging dat door andere bestuursorganen dan door de Minister van Economische Zaken is verleend aan de directeur-generaal of aan een andere functionaris binnen de Rijksdienst voor Ondernemend Nederland is dit besluit van overeenkomstige toepassing, tenzij betreffend mandaat, volmacht en machtiging zelf in het onderwerp van dit besluit voorziet. 
+Op mandaat, volmacht en machtiging dat door andere bestuursorganen dan door de Minister van Economische Zaken is verleend aan de algemeen directeur of aan een andere functionaris binnen de Rijksdienst voor Ondernemend Nederland is dit besluit van overeenkomstige toepassing, tenzij betreffend mandaat, volmacht en machtiging zelf in het onderwerp van dit besluit voorziet. 
 
 ### Artikel  14  
 

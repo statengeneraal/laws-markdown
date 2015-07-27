@@ -1705,3 +1705,9 @@ Tunesië verzoekt dat met de Tunesische belangen rekening wordt gehouden wanneer
 1. Producten van oorsprong uit de Republiek San Marino worden door Tunesië behandeld als producten van oorsprong uit de Gemeenschap in de zin van deze overeenkomst.  
 
 2. Protocol nr. 4 is van overeenkomstige toepassing voor het bepalen van de oorsprong van de vorengenoemde producten.     
+
+####Protocol
+
+Wordt voorlopig toegepast per 17-03-2015 
+
+Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken en is gepubliceerd in PbEU 2015, L 96, blz. 3-6.  

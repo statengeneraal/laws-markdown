@@ -154,7 +154,9 @@ m. het vertegenwoordigen van de Minister namens de Staat in gerechtelijke proced
 
 n. het vaststellen van beleidsregels en circulaires met betrekking tot de aangelegenheden, bedoeld in dit artikel;  
 
-o. het beslissen op bezwaarschriften tegen de door de directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst genomen besluiten met betrekking tot aanvragen als bedoeld in hoofdstuk 4 van de Wet op de inlichtingen- en veiligheidsdiensten 2002.   
+o. het beslissen op bezwaarschriften tegen de door de directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst genomen besluiten met betrekking tot aanvragen als bedoeld in hoofdstuk 4 van de Wet op de inlichtingen- en veiligheidsdiensten 2002;  
+
+p. het wijzigen van bijlage 1 van dit besluit.  
 
 ### Paragraaf  2  
 
@@ -163,7 +165,8 @@ o. het beslissen op bezwaarschriften tegen de door de directeur-generaal van de 
 ### Artikel  3.3  
 
 1.  Het mandaat van de Secretaris-generaal is niet van toepassing op het nemen van besluiten en het afdoen en ondertekenen van stukken met betrekking tot beslissingen ten aanzien van de directeur-generaal voor de Algemene Bestuursdienst, voor zover deze samenhangen met de taken, genoemd in het Organisatiebesluit Bureau Algemene Bestuursdienst.   
-2.  Het mandaat van de Secretaris-generaal is evenmin van toepassing op de bevoegdheden die zijn toegedeeld aan het bestuur en de voorzitter van de huurcommissie.  
+2.  Het mandaat van de Secretaris-generaal is evenmin van toepassing op de bevoegdheden die zijn toegedeeld aan het bestuur en de voorzitter van de huurcommissie.   
+3.  Voor het aangaan van (meerjarige) verplichtingen op het terrein van ICT boven de 10 miljoen euro inclusief BTW per (meerjarige) verplichting heeft de Secretaris-generaal volmacht samen met het betreffende diensthoofd 
 
 ### Paragraaf  3  
 
@@ -288,9 +291,11 @@ Het mandaat van de directeur-generaal Bestuur en Koninkrijksrelaties is niet van
 
 ### Artikel  4.11  
 
-1.  Het mandaat van het diensthoofd met betrekking tot het aangaan van financiële verplichtingen en het doen van uitgaven is beperkt tot het budget dat aan het diensthoofd ter beschikking is gesteld op basis van een door de Secretaris-generaal en de directeur Financieel-economische Zaken goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor het diensthoofd verantwoordelijk is.   
+1.  Het mandaat van het diensthoofd met betrekking tot het aangaan van financiële verplichtingen en het doen van uitgaven is beperkt tot het budget dat aan het diensthoofd ter beschikking is gesteld op basis van een door de Secretaris-generaal en de directeur Financieel-economische Zaken goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor het diensthoofd verantwoordelijk is, met een maximumbedrag per (meerjarige) verplichting als vermeld in de bijlage 1 van dit besluit.   
 2.  Het diensthoofd is bevoegd om in afwijking van het eerste lid financiële verplichtingen aan te gaan en uitgaven te doen, voor zover aan hem daartoe uitdrukkelijk en schriftelijk mandaat is verleend door de Minister of de Secretaris-generaal, met instemming van de directeur Financieel-economische Zaken.   
-3.   In afwijking van het eerste en het tweede lid geldt voor het diensthoofd van een baten-lastendienst dat hij verantwoordelijk is voor een kostendekkende exploitatie binnen de afspraken die hij met de eigenaar en de opdrachtgevers heeft gemaakt.  
+3.   In afwijking van het eerste en het tweede lid geldt voor het diensthoofd van een baten-lastendienst dat hij verantwoordelijk is voor een kostendekkende exploitatie binnen de afspraken die hij met de eigenaar en de opdrachtgevers heeft gemaakt.   
+4.  Voor het aangaan van (meerjarige) verplichtingen boven de 25 miljoen euro inclusief BTW voor DBFMO-trajecten, reguliere projecten, integrale beheercontracten en huurcontracten heeft de directeur-generaal Rijksvastgoedbedrijf volmacht samen met de Secretaris-generaal.   
+5.  Het diensthoofd legt over het door hem gevoerde financiële beheer verantwoording af aan de Secretaris-generaal. 
 
 ### Paragraaf  4  
 
@@ -301,7 +306,8 @@ Het mandaat van de directeur-generaal Bestuur en Koninkrijksrelaties is niet van
 1.  Het diensthoofd is, voor zover niet anders is bepaald, bevoegd tot het verlenen van ondermandaat aan onder hem ressorterende functionarissen ten aanzien van aangelegenheden op het werkterrein van deze functionarissen, respectievelijk tot het beperken of het intrekken daarvan.   
 2.  Het diensthoofd kan bij toepassing van de bevoegdheid tot het verlenen van ondermandaat, bedoeld in het eerste lid, afwijken van hetgeen in dit besluit is bepaald over het mandaat van de algemeen directeur of de directeur, met uitzondering van het bepaalde in artikel 6.7.   
 3.   Het diensthoofd is bevoegd om in bijzondere gevallen, naast of in plaats van het bepaalde in het eerste en tweede lid, mondeling of schriftelijk ondermandaat te verlenen aan een onder hem ressorterende functionaris voor een bepaald geval, met inachtneming van artikel 1, derde lid, van het Besluit privaatrechtelijke rechtshandelingen 1996.   
-4.  Het diensthoofd kan, voor zover niet anders is bepaald, bij het verlenen van ondermandaat tevens de bevoegdheid toekennen tot het verlenen van ondermandaat aan een rechtstreeks onder de gemandateerde ressorterende functionaris of in bijzondere gevallen aan een andere functionaris, ten aanzien van aangelegenheden op het werkterrein van de functionaris.  
+4.  Het diensthoofd kan, voor zover niet anders is bepaald, bij het verlenen van ondermandaat tevens de bevoegdheid toekennen tot het verlenen van ondermandaat aan een rechtstreeks onder de gemandateerde ressorterende functionaris of in bijzondere gevallen aan een andere functionaris, ten aanzien van aangelegenheden op het werkterrein van de functionaris.   
+5.  Het verlenen van ondermandaat door het diensthoofd, niet zijnde een diensthoofd die leiding geeft aan een baten-lasten dienst of een agentschap, voor het aangaan van financiële verplichtingen en het doen van uitgaven is enkel mogelijk aan in bijlage 1 van dit besluit genoemde onder hem ressorterende functionarissen met inachtneming van het aldaar genoemde maximumgrensbedrag per (meerjarige) verplichting. 
 
 ### Artikel  4.13  
 
@@ -311,7 +317,7 @@ Het diensthoofd verleent ondermandaat bij schriftelijk besluit, in overeenstemmi
 
 1.  Bij tijdelijke afwezigheid of verhindering van het diensthoofd worden diens taken volledig uitgeoefend door het plaatsvervangend diensthoofd.   
 2.  De aanwijzing van een plaatsvervangend diensthoofd geschiedt door het diensthoofd met inachtneming van het Organisatiebesluit BZK 2012 en in overeenstemming met de Secretaris-generaal.   
-3.  Bij gelijktijdige tijdelijke afwezigheid of verhindering van het diensthoofd en het plaatsvervangend diensthoofd worden de taken van het diensthoofd bij wijze van plaatsvervanging volledig uitgeoefend door de functionaris die daartoe door het diensthoofd in overeenstemming met de Secretaris-generaal is aangewezen.  
+3.  Bij gelijktijdige tijdelijke afwezigheid of verhindering van het diensthoofd, niet zijnde een diensthoofd die leiding geeft aan een baten-lasten dienst of een agentschap en het plaatsvervangend diensthoofd worden de taken van het diensthoofd bij wijze van plaatsvervanging uitgeoefend door de Secretaris-generaal.  
 
 ### Hoofdstuk  5  
 
@@ -401,6 +407,10 @@ f. tot het geven van vakinhoudelijke instructies aan de P&O-afdelingen van alle 
 
 De directeur Communicatie is met inachtneming van dit besluit bevoegd om stukken af te doen en te ondertekenen met betrekking tot het aangaan van raamovereenkomsten inzake de inzet van media ten behoeve van departementale voorlichting en communicatie. 
 
+### Artikel  6.5a*  
+
+De directeur Bestuur, Democratie en Financiën is met inachtneming van dit besluit bevoegd tot het afdoen en ondertekenen van stukken in verband met de uitvoering van de Wet raadgevend referendum. 
+
 ### Artikel  6.5a  
 
 De directeur Organisatie Personeelsbeleid Rijk is met inachtneming van dit besluit bevoegd om stukken af te doen en te ondertekenen die voortvloeien uit: 
@@ -444,9 +454,10 @@ l. de onderwerpen genoemd in artikel 4.10.
 
 ### Artikel  6.7  
 
-1.  Het mandaat van de directeur met betrekking tot het aangaan van financiële verplichtingen en het doen van uitgaven is beperkt tot het budget dat aan de directeur ter beschikking is gesteld op basis van een door het diensthoofd en de DG-Controller goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor de directeur verantwoordelijk is.   
+1.  Het mandaat van de directeur met betrekking tot het aangaan van financiële verplichtingen en het doen van uitgaven is beperkt tot het budget dat aan de directeur ter beschikking is gesteld op basis van een door het diensthoofd en de DG-controller goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor de directeur verantwoordelijk is met een maximum bedrag per (meerjarige) verplichting als vermeld in bijlage 1 van dit besluit.   
 2.  De directeur is bevoegd om in afwijking van het eerste lid financiële verplichtingen aan te gaan en uitgaven te doen, voor zover aan hem daartoe uitdrukkelijk en schriftelijk mandaat is verleend door de Minister, de Secretaris-generaal of het diensthoofd, met instemming van de DG-Controller en binnen het vastgestelde budget dat aan het diensthoofd ter beschikking is gesteld.   
-3.  In afwijking van het eerste en het tweede lid geldt voor de directeur van een baten-lastendienst of agentschap dat hij verantwoordelijk is voor een kostendekkende exploitatie binnen de afspraken die hij met opdrachtgevers en de eigenaar heeft gemaakt.  
+3.  In afwijking van het eerste en het tweede lid geldt voor de directeur van een baten-lastendienst of agentschap dat hij verantwoordelijk is voor een kostendekkende exploitatie binnen de afspraken die hij met opdrachtgevers en de eigenaar heeft gemaakt.   
+4.  De directeur legt over het door hem gevoerde financiële beheer verantwoording af aan het diensthoofd. 
 
 ### Paragraaf  4  
 
@@ -457,7 +468,8 @@ l. de onderwerpen genoemd in artikel 4.10.
 1.  De directeur is, voor zover niet anders is bepaald, bevoegd tot het verlenen van ondermandaat aan onder hem ressorterende functionarissen ten aanzien van aangelegenheden op het werkterrein van deze functionarissen, respectievelijk tot het beperken of het intrekken daarvan.   
 2.  De directeur kan, voor zover niet anders is bepaald, bij het verlenen van ondermandaat tevens de bevoegdheid toekennen tot het verlenen van ondermandaat aan een rechtstreeks onder de gemandateerde ressorterende functionaris ten aanzien van aangelegenheden op het werkterrein van de functionaris.   
 3.  De directeur is bevoegd om in bijzondere gevallen, naast het bepaalde in het eerste en tweede lid, mondeling of schriftelijk ondermandaat te verlenen aan een onder hem ressorterende functionaris voor een bepaald geval, met inachtneming van artikel 1, derde lid, van het Besluit privaatrechtelijke rechtshandelingen 1996.   
-4.  De directeur is bevoegd tot het verlenen van ondermandaat aan de rechtstreeks onder de directeur ressorterende leidinggevenden ten aanzien van het vaststellen van beoordelingen, indien en voor zover deze leidinggevenden zelf leidinggevenden aansturen. 
+4.  De directeur is bevoegd tot het verlenen van ondermandaat aan de rechtstreeks onder de directeur ressorterende leidinggevenden ten aanzien van het vaststellen van beoordelingen, indien en voor zover deze leidinggevenden zelf leidinggevenden aansturen.  
+5.  Het verlenen van ondermandaat door de directeur, niet zijnde een directeur die leiding geeft aan een baten-lasten dienst of een agentschap, voor het aangaan van financiële verplichtingen en het doen van uitgaven is enkel mogelijk aan in bijlage 1 van dit besluit genoemde onder hem ressorterende functionarissen met inachtneming van het aldaar genoemde maximumgrensbedrag per (meerjarige) verplichting. 
 
 ### Artikel  6.9  
 
@@ -482,7 +494,8 @@ e. het voeren respectievelijk de verslaglegging van het gesprek, bedoeld in arti
 
 1.  Bij tijdelijke afwezigheid of verhindering van de directeur worden diens taken volledig uitgeoefend door de plaatsvervangend directeur.   
 2.  De aanwijzing van een plaatsvervangend directeur geschiedt door de directeur met inachtneming van het Organisatiebesluit BZK 2012 en in overeenstemming met het diensthoofd of de algemeen directeur.   
-3.  Bij gelijktijdige tijdelijke afwezigheid of verhindering van de directeur en de plaatsvervangend directeur worden de taken van de directeur bij wijze van plaatsvervanging volledig uitgeoefend door de functionaris die daartoe door de directeur in overeenstemming met het diensthoofd is aangewezen.  
+3.  Bij gelijktijdige tijdelijke afwezigheid of verhindering van de directeur en de plaatsvervangend directeur worden de taken van de directeur bij wijze van plaatsvervanging uitgeoefend door het diensthoofd.   
+4.  In afwijking van het vorige lid kan de plaatsvervanging van de directeur die leiding geeft aan een baten-lastendienst of agentschap volledig worden uitgeoefend door de functionaris die daartoe door de directeur in overeenstemming met het diensthoofd is aangewezen. 
 
 ### Hoofdstuk  7  
 
@@ -575,4 +588,19 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-J.W.E. Spies     
+J.W.E. Spies    
+
+###Bijlage 1 
+
+Maximumbedragen voor het aangaan van financiële verplichtingen en het doen van uitgaven, als bedoeld in de artikelen 4.11, eerste lid, 6.7, eerste lid, en 6.8, vijfde lid, van het Mandaatbesluit BZK 2012. Bedragen zijn per (meerjarige) verplichting, in euro’s en inclusief BTW. Deze bijlage is niet van toepassing op agentschappen/baten-lasten diensten.  
+
+| --- | --- |
+|:---|:---|
+| Diensthoofd  | tot € 10.000.000  |
+| --- | --- |
+| Directeur  | tot € 2.000.000  |
+| --- | --- |
+| Middenmanager/programmamanager afdelingshoofd/bureauhoofd  | tot € 30.000  |
+| --- | --- |
+| Managementondersteuner/ (directie)secretaresse/medewerker DIV  | tot € 1.500  |
+

@@ -28,7 +28,7 @@ b. woongelegenheid:
 
 c. wooncomplex: een verzameling van ten minste 25 in elkaars nabijheid gelegen woongelegenheden welke financieel, administratief, qua bouwwijze of anderszins een eenheid vormen;   
 
-d. verhuurder: een toegelaten instelling als bedoeld in artikel 70, eerste lid, van de Woningwet, dan wel een eigenaar van ten minste 25 voor verhuur bestemde woongelegenheden in Nederland, of degene die door die eigenaar gevolmachtigd is namens hem op te treden;  
+d. verhuurder: een toegelaten instelling als bedoeld in artikel 19, eerste lid, van de Woningwet, dan wel een eigenaar van ten minste 25 voor verhuur bestemde woongelegenheden in Nederland, of degene die door die eigenaar gevolmachtigd is namens hem op te treden;  
 
 e. huurder: huurder van een woongelegenheid van een verhuurder als bedoeld onder d, welke huurder daarin zijn hoofdverblijf heeft;   
 
@@ -130,14 +130,12 @@ De verhuurder voert een voornemen tot wijziging in het door hem gevoerde beleid 
 De verhuurder verstrekt ten behoeve van de oprichting, organisatie, of vertegenwoordiging van een huurdersorganisatie op verzoek van een groep van ten minste drie huurders of de betrokken huurdersorganisatie zo spoedig mogelijk een lijst met de adressen van zijn in Nederland verhuurde woongelegenheden. 
 
 ### Artikel  5d  
-Treedt in werking per 01-07-2015 
 
 1.  De huurdersorganisatie kan een of meer deskundigen uitnodigen tot het bijwonen van een overleg, met het oog op de behandeling van een bepaald onderwerp.   
 2.  De huurdersorganisatie kan in een overleg aan de in het eerste lid bedoelde deskundigen inlichtingen en adviezen vragen.   
 3.  Een deskundige kan door de huurdersorganisatie eveneens worden uitgenodigd een schriftelijk advies uit te brengen.  
 
 ### Artikel  5e  
-Treedt in werking per 01-07-2015 
 
 1.  De verhuurder biedt de leden van het bestuur van de huurdersorganisatie gedurende een door de verhuurder en de huurdersorganisatie gezamenlijk vast te stellen aantal dagen per jaar de gelegenheid om de scholing en vorming te ontvangen welke zij in verband met de vervulling van hun taak nodig oordelen.   
 2.  De verhuurder en de huurdersorganisatie stellen het aantal dagen, bedoeld in het eerste lid, vast op een zodanig aantal als de betrokken leden van het bestuur van de huurdersorganisatie voor de vervulling van hun taak redelijkerwijs nodig hebben, met dien verstande dat het aantal dagen niet lager vastgesteld kan worden dan drie per jaar.  
@@ -148,9 +146,8 @@ Bij schriftelijke overeenkomst tussen de verhuurder en de huurdersorganisatie of
 
 ### Artikel  7  
 
-1.  De verhuurder vergoedt aan de huurdersorganisatie de kosten die rechtstreeks samenhangen met en redelijkerwijs noodzakelijk zijn voor de vervulling van de taken, genoemd in de artikelen 3, 4, 5 en 5b. Onder deze kosten worden mede de kosten van scholingsactiviteiten begrepen.   
-2.  Vergoeding van de in het eerste lid bedoelde kosten geschiedt binnen vier weken na het tijdstip waarop de verhuurder van de huurdersorganisatie een voldoende gespecificeerde rekening heeft ontvangen. De verhuurder is slechts verplicht tot betaling, voorzover de kosten betrekking hebben op een tijdvak van ten hoogste 15 maanden, voorafgaande aan het tijdstip van indiening van de rekening.   
-3.  De verhuurder en de huurdersorganisatie kunnen overeenkomen dat de in een kalenderjaar gemaakte kosten, bedoeld in het eerste lid, worden vastgesteld op een bepaald bedrag, dat de huurdersorganisatie naar eigen inzicht kan besteden. De huurdersorganisatie legt binnen twee maanden na afloop van het jaar, bedoeld in de eerste volzin, aan de verhuurder verantwoording af over de besteding van de ter beschikking gestelde gelden. Kosten waardoor het hier bedoelde bedrag zal worden overschreden, komen slechts ten laste van de verhuurder, voorzover hij in het dragen daarvan toestemt. 
+1.  De verhuurder vergoedt aan de huurdersorganisatie de kosten die rechtstreeks samenhangen met en redelijkerwijs noodzakelijk zijn voor de vervulling van de taken, genoemd in de artikelen 3, 4, 5 en 5b. Onder deze kosten worden in ieder geval begrepen de kosten van het uitnodigen van deskundigen en het vragen van inlichtingen en adviezen als bedoeld in artikel 5d, en de kosten van scholings- en vormingsactiviteiten als bedoeld in artikel 5e.   
+2.  De verhuurder en de huurdersorganisatie komen overeen dat de in een kalenderjaar gemaakte kosten, bedoeld in het eerste lid, worden vastgesteld op een bepaald bedrag, dat de huurdersorganisatie naar eigen inzicht kan besteden. De huurdersorganisatie legt binnen twee maanden na afloop van het jaar, bedoeld in de eerste volzin, aan de verhuurder verantwoording af over de besteding van de ter beschikking gestelde gelden. Kosten waardoor het hier bedoelde bedrag zal worden overschreden, komen slechts ten laste van de verhuurder, voorzover hij in het dragen daarvan toestemt. 
 
 ### Hoofdstuk  3  
 

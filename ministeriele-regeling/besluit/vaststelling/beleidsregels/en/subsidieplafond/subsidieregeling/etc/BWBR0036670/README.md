@@ -271,13 +271,26 @@ Het afleggen van verantwoording over de besteding van de verkregen middelen vind
 
 ####Drempelcriteria
 
-D.1: De aanvrager/penvoerder en eventuele mede-indiener(s) is (zijn) (een) organisatie(s) zonder winstoogmerk en bezit(ten) rechtspersoonlijkheid.  
+D.1: De aanvrager/penvoerder en eventuele mede-indiener(s) is (zijn) (een) Nederlandse of internationale non-gouvernementele organisatie zonder winstoogmerk en bezit(ten) rechtspersoonlijkheid. Onder Nederlandse organisatie wordt verstaan een organisatie die in Nederland is opgericht, volgens Nederlands recht en die statutair in Nederland is gevestigd. Onder internationale organisatie wordt verstaan een organisatie die elders dan in Nederland is opgericht, volgens het in het land van oprichting toepasselijke recht, die statutair elders dan in Nederland is gevestigd en grensoverschrijdend werkt.  
 
-D.2: De aanvrager/penvoerder en eventuele mede-indieners zet(ten) zich in voor structurele vermindering van sociale ongelijkheid in één of meer lage- en lage middeninkomens landen, of volgens de classificaties van de OESO/DAC en/of in China, Maleisië, Thailand, Jordanië, Algerije, Iran, Jordanië, Libanon, Libië en Tunesië <sup> 41 Volgens OESO/DAC classificatie http://www.oecd.org/dac/stats/documentupload/DAC%20List%20of%20ODA%20Recipient zie ook Annex 2 bij dit beleidskader voor de complete lijst van verkiesbare landen. </sup>, al dan niet door samenwerking met relevante organisaties en instellingen, met als doel gelijke rechten en kansen voor vrouwen en meisjes in ontwikkelingslanden te bevorderen.  
+D.2: De aanvrager/penvoerder en eventuele mede-indieners zet(ten) zich in voor structurele vermindering van sociale ongelijkheid in ten minste twee landen van de lage-inkomenslanden, lage-middeninkomenslanden en/of China, Maleisië, Thailand, Jordanië, Algerije, Iran, Jordanië, Libanon, Libië en Tunesië <sup> 41 Volgens OESO/DAC classificatie http://www.oecd.org/dac/stats/documentupload/DAC%20List%20of%20ODA%20Recipient zie ook Annex 2 bij dit beleidskader voor de complete lijst van verkiesbare landen. </sup>, al dan niet door samenwerking met relevante organisaties en instellingen, met als doel gelijke rechten en kansen voor vrouwen en meisjes in ontwikkelingslanden te bevorderen.  
 
 D.3: De aanvrager/penvoerder maakt aannemelijk dat vanaf 1 januari 2016 ten minste 40% van de jaarlijkse inkomsten afkomstig is uit bronnen anders dan BZ-bijdragen. FLOW 2016–2020-subsidies zullen nooit meer bedragen dan 60% van de jaarlijkse inkomsten van de organisatie. Indien de aanvrager/penvoerder is namens een alliantie geldt dit criterium voor de hele alliantie. Dat wil zeggen dat indien één van de deelnemende organisaties minder dan 40% van de jaarlijkse inkomsten uit andere dan BZ bijdragen verwerft, dit kan worden gecompenseerd door een andere partij.  
 
-D.4: De maximale bezoldiging van de individuele leden van management en bestuur van de aanvrager/penvoerder en eventuele mede-indieners buiten de EU staat niet later dan met ingang van het tijdvak waarvoor subsidie wordt verleend in redelijke verhouding tot het niveau van de functie, de geografische ligging en de omvang en complexiteit van de organisatie.  
+D.4: 
+
+a. De maximale bezoldiging van de individuele leden van management en bestuur van de aanvrager/penvoerder en eventuele mede-indieners binnen de EU bedraagt per kalenderjaar ten hoogste EUR 163.000 op grond van een 36-urige werkweek. Genoemd bedrag bestaat naast de beloning (de som van de periodiek betaalde beloningen en winstdelingen en bonusbetalingen) ook uit de belastbare vaste en variabele onkostenvergoedingen en beloningen betaalbaar op termijn, zoals vakantiegeld, 13<sup>e</sup> maand, werkgeversdeel pensioenbijdrage, e.a.  
+
+b. Gelet op de koopkrachtgegevens gepubliceerd door EUROSTAT (GDP PPS)<sup> 2  http://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tec00114&plugin=1  </sup> geldt voor de volgende landen in verband met het binnenlandse prijsniveau een aangepaste norm, eveneens op grond van een 36-urige werkweek, op grond van het algemene inkomensniveau in de betreffende landen:  
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+| Noorwegen:  | EUR 292.000  | =  | NOK 2.600.000  |
+| Zwitserland:  | EUR 262.000  | =  | CHF 273.000  |
+| VS/Canada:  | EUR 246.000  | =  | USD 275.000  |
+| Japan:  | EUR 165.000  | =  | JPY 22.610.000  |
+
+c. De maximale bezoldiging van de individuele leden van management en bestuur van de aanvrager/penvoerder en eventuele mede-indieners buiten de EU en Noorwegen, Zwitserland, Japan en/of VS/Canada staat niet later dan met ingang van het tijdvak waarvoor subsidie wordt verleend in redelijke verhouding tot het niveau van de functie, de geografische ligging en de omvang en complexiteit van de organisatie.    
 
 D.5: De aanvrager/penvoerder is in staat tot een adequaat financieel beheer. De aanvrager/penvoerder kan door ervaringsdeskundigheid met betrekking tot de activiteiten als waarvoor subsidie wordt gevraagd een doelgerichte en doelmatige uitvoering van de activiteiten waarborgen. Dit blijkt uit een geldige (minder dan vier jaar oude) en positief beoordeelde organisatietoets dan wel COCA (Checklist Organisational Capacity Assessment) die namens de minister is uitgevoerd in het kader van een subsidieaanvraag danwel een PARTOS ISO-9001 certificering. Indien de aanvrager geen positief beoordeelde organisatietoets dan wel COCA heeft, noch PARTOS ISO-9001 gecertificeerd is, vult de aanvrager de organisatietoets in aan de hand van het bijgevoegde COCA format (annex 3).  
 
@@ -285,13 +298,13 @@ D.6: De programma’s hebben een looptijd die gelijk is aan de looptijd van FLOW
 
 D.7: Het programma betreft geen initiatieven die proselitisme (mede) beogen.  
 
-D.8: Het programma heeft substantiële activiteiten in minimaal één lage- en één lage-middeninkomensland.  
+D.8: Het programma heeft substantiële activiteiten in minimaal twee landen, waarvan ten minste één lage-inkomensland en één land uit de categorie lage-middeninkomenslanden of de landen China, Maleisië, Thailand, Jordanië, Algerije, Iran, Jordanië, Libanon, Libië en Tunesië.  
 
 D.9: Het programma betreft geen commerciële dienstverlening, investeringen of commerciële activiteiten.  
 
 D.10: Het programma betreft activiteiten die toe te rekenen zijn aan de ODA-middelen volgens de OESO/DAC-criteria.<sup> 42 http://www.oecd.org/dac/stats/49483614.pdf </sup>   
 
-D.11: De activiteiten waarvoor subsidie wordt gevraagd worden uitgevoerd in lage- of lage-middeninkomenslanden of in China, Maleisië, Thailand, Jordanië, Algerije, Iran, Jordanië, Libanon, Libië en Tunesië <sup> 43 Volgens OESO/DAC classificatie http://www.oecd.org/dac/stats/documentupload/DAC%20List%20of%20ODA%20Recipient zie ook Annex 2 bij dit beleidskader voor de lijst van verkiesbare landen. </sup>.  
+D.11: De activiteiten waarvoor subsidie wordt gevraagd worden niet uitgevoerd in landen anders dan lage-inkomenslanden, lage-middeninkomenslanden en China, Maleisië, Thailand, Jordanië, Algerije, Iran, Jordanië, Libanon, Libië en Tunesië.  
 
 D.12: Het programma richt zich op ten minste één van de volgende drie categorieën van activiteiten, of behelst een integraal programma waarin meer categorieën voorkomen: 
 
@@ -333,7 +346,7 @@ De kwaliteit van het programma wordt beoordeeld aan de hand van de volgende crit
 
 P.10 De mate waarin het programma beleidsmatig relevant is. Dit wordt beoordeeld aan de hand van de volgende factoren:  
 
-P.10.a. Relevantie voor het doel van dit subsidiebeleidskader: de mate waarin de activiteiten bijdragen aan het vergroten van het *enabling environment *voor gelijke rechten en kansen voor vrouwen en meisjes in lage- en lage-middeninkomenslanden voornamelijk op de thema’s van veiligheid (bestrijding van geweld tegen vrouwen), economische participatie en participatie van vrouwen in politiek en bestuur.  
+P.10.a. Relevantie voor het doel van dit subsidiebeleidskader: de mate waarin de activiteiten bijdragen aan het vergroten van het *enabling environment *voor gelijke rechten en kansen voor vrouwen en meisjes in lage- en lage-middeninkomenslanden, China, Maleisië, Thailand, Algerije, Iran, Jordanië, Libanon, Libië en Tunesië voornamelijk op de thema’s van veiligheid (bestrijding van geweld tegen vrouwen), economische participatie en participatie van vrouwen in politiek en bestuur.  
 
 P.10.b. De mate waarin de activiteiten aansluiten bij het internationale Nederlandse genderbeleid zoals omschreven in de Kamerbrief Internationaal Genderbeleid van november 2011<sup> 44 http://www.rijksoverheid.nl/documenten-en-publicaties/kamerstukken/2011/11/15/kamerbrief-internationaal-genderbeleid.html </sup> en de meer recente kamerbrieven ‘Wat de wereld verdient’<sup> 45 http://www.rijksoverheid.nl/documenten-en-publicaties/notas/2013/04/05/wat-de-wereld-verdient-een-nieuwe-agenda-voor-hulp-handel-en-investeringen.html </sup> en ‘Respect en Recht voor ieder Mens van 14 juni 2013’<sup> 46 http://www.rijksoverheid.nl/documenten-en-publicaties/notas/2013/06/14/beleidsbrief-respect-en-recht-voor-ieder-mens.html </sup> alsmede de internationale consensus zoals verwoord in de betreffende aandachtsgebieden uit het Beijing Actieplan en het voorziene Post 2015 SDG 5 voor Gendergelijkheid.  
 

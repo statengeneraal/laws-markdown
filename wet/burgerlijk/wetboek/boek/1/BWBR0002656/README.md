@@ -189,11 +189,27 @@ Bij algemene maatregel van bestuur wordt geregeld alles wat verder betreft de in
 
 ### Artikel  18b  
 
-1.  Blijft een partij bij een akte van de burgerlijke stand of een belanghebbende partij in gebreke de in artikel 18, tweede lid, bedoelde bescheiden over te leggen, of acht de ambtenaar van de burgerlijke stand de overgelegde bescheiden ongenoegzaam, dan weigert deze tot het opmaken van de akte over te gaan.    
-2.   De ambtenaar van de burgerlijke stand weigert eveneens tot het opmaken van de akte over te gaan, indien hij van oordeel is dat de Nederlandse openbare orde zich hiertegen verzet.    
-3.   Van een weigering als bedoeld in het eerste of het tweede lid doet de ambtenaar van de burgerlijke stand een schriftelijke, met redenen omklede mededeling aan de partijen bij de akte en de belanghebbende partijen toekomen, onder vermelding van de tegen die weigering openstaande voorziening van afdeling 12 van deze titel. Een afschrift van deze mededeling doet hij aan de korpschef toekomen.   
+1.  Voor de betrouwbaarheid en vertrouwelijkheid van de elektronische aangifte alsmede het opmaken en de opslag van een akte in elektronische vorm wordt een systeem van gegevensverwerking gebruikt dat: 
+
+a. de ambtenaar van de burgerlijke stand in staat stelt de juistheid van de identiteit van de aangever vast te stellen;  
+
+b. de vertrouwelijkheid van de door de aangever verstrekte gegevens waarborgt;  
+
+c. waarborgt dat elektronische akten als bedoeld in artikel 18, vierde lid, zodanig blijven opgeslagen dat de inhoud toegankelijk is voor toekomstig gebruik en een ongewijzigde reproductie van de inhoud van de akten gewaarborgd is;  
+
+d. waarborgt dat een bericht, elektronisch afschrift of uittreksel volledig is en niet onbevoegdelijk is of kan worden gewijzigd.     
+2.  Bij algemene maatregel van bestuur kunnen over het in het eerste lid bepaalde nadere regels worden gesteld.  
 
 ### Artikel  18c  
+
+1.  Van alle in registers opgenomen akten van de burgerlijke stand wordt een dubbel of een afschrift gehouden, volgens regels, bij algemene maatregel van bestuur te stellen.    
+2.   Bij algemene maatregel van bestuur wordt geregeld alles wat betreft de bewaring van de dubbelen of de afschriften alsmede van de daarop betrekking hebbende latere vermeldingen.    
+3.  Wanneer akten van de burgerlijke stand verloren zijn gegaan of verminkt zijn, wordt ter vervanging van deze akten van de dubbelen van de akten een afschrift gemaakt door een of meer door Onze Minister van Justitie aan te wijzen Centrale Bewaarplaatsen waar de dubbelen bewaard worden. De afschriften treden in de plaats van de verloren gegane of verminkte akten.   
+4.  Er wordt een lijst opgesteld van de akten die vervangen worden, die in de Staatscourant wordt gepubliceerd.   
+5.  De kosten voor de vervanging van akten van de burgerlijke stand komen ten laste van de Staat, tenzij het de vervanging van akten betreft die bewaard worden door een gemeente. In het laatstgenoemde geval komen de kosten van vervanging voor rekening van de gemeente.   
+6.  Onze Minister van Justitie kan nadere regels stellen omtrent de wijze waarop de vervanging van de akten dient te worden uitgevoerd.  
+
+### Artikel  18d  
 
 1.  Van alle in registers opgenomen akten van de burgerlijke stand wordt een dubbel of een afschrift gehouden, volgens regels, bij algemene maatregel van bestuur te stellen.    
 2.   Bij algemene maatregel van bestuur wordt geregeld alles wat betreft de bewaring van de dubbelen of de afschriften alsmede van de daarop betrekking hebbende latere vermeldingen.    
@@ -260,9 +276,21 @@ b. de bewoner van het huis waar de geboorte heeft plaats gehad, of indien zulks 
 ### Artikel  19h  
 
 1.  Tot de aangifte van een overlijden is bevoegd wie daarvan uit eigen wetenschap kennis draagt.    
-2.   Binnen de in de Wet op de lijkbezorging (*Stb.* 1991, 130) gestelde termijn voor de begraving of crematie, kan de persoon die in de lijkbezorging voorziet, door een in het eerste lid bedoelde persoon worden gemachtigd tot het doen van de aangifte.    
-3.   Wanneer tot de aangifte bevoegde personen ontbreken of nalaten binnen de in de Wet op de lijkbezorging gestelde termijn voor de begraving of crematie de aangifte te doen, geschiedt deze door of vanwege de burgemeester van de gemeente alwaar de akte van overlijden moet worden opgemaakt.    
-4.   In de gevallen bedoeld in artikel 19*f*, tweede en derde lid, geschiedt de aangifte schriftelijk door de hulpofficier van justitie.   
+2.  Binnen de in artikel 16 van de Wet op de lijkbezorging gestelde termijn voor de begraving of crematie, kan de persoon die in de lijkbezorging voorziet, door een in het eerste lid bedoelde persoon worden gemachtigd tot het doen van de aangifte. In dit geval kan de aangifte door de gemachtigde ook elektronisch worden gedaan, als deze weg is geopend.   
+3.  De identiteit van de aangever wordt vastgesteld aan de hand van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht, dan wel op bij algemene maatregel van bestuur te bepalen andere wijze.   
+4.  De aangever verstrekt ten minste de volgende gegevens van de overledene: 
+
+a. geslachtsnaam, voornamen en geslacht van de overledene;  
+
+b. voor zover bekend, plaats en dag van geboorte;  
+
+c. plaats, dag en, zo mogelijk, het tijdstip van overlijden en  
+
+d. diens burgerlijke staat en  
+
+e. diens laatst bekende woonadres of woonplaats.    
+5.   Wanneer tot de aangifte bevoegde personen ontbreken of nalaten binnen de in de Wet op de lijkbezorging gestelde termijn voor de begraving of crematie de aangifte te doen, geschiedt deze door of vanwege de burgemeester van de gemeente alwaar de akte van overlijden moet worden opgemaakt.    
+6.   In de gevallen bedoeld in artikel 19*f*, tweede en derde lid, geschiedt de aangifte door de hulpofficier van justitie.   
 
 ### Artikel  19i  
 

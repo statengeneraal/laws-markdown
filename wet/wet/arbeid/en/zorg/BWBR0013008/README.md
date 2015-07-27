@@ -243,11 +243,17 @@ b. de datum waarop het zwangerschapsverlof ingaat dan wel de datum waarop de gel
 ### Artikel  3:13  
 
 1.  De uitkering, bedoeld in deze paragraaf, bedraagt per dag het dagloon.   
-2.  Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, en de betrokkene, bedoeld in artikel 3:10, eerste en tweede lid, vastgesteld en herzien overeenkomstig de vaststelling en herziening op grond van de artikelen 15 en 16 van de Ziektewet en de daarop berustende bepalingen waarbij de periode van één jaar, bedoeld in artikel 15 van die wet, voor de toepassing van deze wet eindigt op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin de uitkering op grond deze wet ingaat.   
-3.  Voor de gelijkgestelde, bedoeld in artikel 3:6 eerste lid, onderdeel b, onder 1°, die op grond van artikel 8, onder a, van de Ziektewet voorafgaand aan een uitkering op grond van deze wet ziekengeld ontving, is het dagloon gelijk aan het reeds ten behoeve daarvan vastgestelde en herziene dagloon.   
-4.  Indien voor de gelijkgestelde, bedoeld in het derde lid, artikel 31 van de Ziektewet werd toegepast vanwege ander inkomen dan uit de dienstbetrekking, op grond waarvan het recht op ziekengeld is ontstaan, wordt het dagloon voor de toepassing van deze wet, in afwijking van het tweede lid, vastgesteld op 100/A van het ziekengeld per dag over de vier kalenderweken voorafgaande aan de uitkering op grond van deze wet, waarbij A staat voor het uitkeringspercentage van uitkering op grond van de Ziektewet.   
-5.  Voor de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, onderdeel b, onder 2°, is het dagloon, in afwijking van het tweede lid, gelijk aan het op grond van artikel 13 van de Wet werk en inkomen naar arbeidsvermogen en de daarop berustende bepalingen reeds vastgestelde en herziene dagloon. Indien voor de gelijkgestelde, bedoeld in de eerste zin, bij het vaststellen van de hoogte van de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten op grond van artikel 61 van de Wet werk en inkomen naar arbeidsvermogen rekening werd gehouden met inkomen, wordt het dagloon voor de toepassing van deze wet, in afwijking van het tweede lid, vastgesteld op 100/70 van het bedrag van die uitkering per dag over de vier kalenderweken voorafgaande aan de uitkering op grond van deze wet.  
-6.  Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, tweede lid, vastgesteld overeenkomstig artikel 68 van de Ziektewet en de regels op grond van artikel 71, onderdeel c, van die wet. 
+2.  Voor de berekening van de uitkering waarop op grond van deze paragraaf recht bestaat, wordt als dagloon beschouwd 1/261 deel van het loon, bedoeld in hoofdstuk 3 van de Wet financiering sociale verzekeringen, dat de werknemer of de gelijkgestelde, bedoeld in artikel 3:6, dan wel de betrokkene, bedoeld in artikel 3:10, in de periode van één jaar, die eindigt op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin het recht op uitkering op grond van deze paragraaf is ontstaan, verdiende in de dienstbetrekking waaruit dat recht is ontstaan, doch ten hoogste het bedrag, bedoeld in artikel 17, eerste lid, van de Wet financiering sociale verzekeringen, met betrekking tot een loontijdvak van een dag.   
+3.  In afwijking van het tweede lid, wordt, indien de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, direct voorafgaand aan het recht op uitkering op grond van deze wet of de betrokkene, bedoeld in artikel 3:10, voorafgaand aan het recht op uitkering op grond van deze wet, een recht op uitkering heeft gehad op grond van de Ziektewet, de Werkloosheidswet, met uitzondering van artikel 18 en hoofdstuk IV, of de Wet werk en inkomen naar arbeidsvermogen, voor de hoogte van het dagloon uitgegaan van het dagloon zoals dat op grond van de Ziektewet, Werkloosheidswet, of Wet werk en inkomen naar arbeidsvermogen is vastgesteld en herzien.   
+4.  Bij algemene maatregel van bestuur worden ten aanzien van de vaststelling en de herziening van het dagloon, bedoeld in het tweede en derde lid, nadere en zo nodig afwijkende regels gesteld, onder meer over de vaststelling en herziening van het dagloon wanneer de dienstbetrekking in het tweede lid, korter heeft geduurd dan het jaar, bedoeld in dat lid en over de vaststelling van het dagloon voor de vrijwillig verzekerde, bedoeld in artikel 3:6, tweede lid, van deze wet.   
+5.  Op een op grond van dit artikel vastgesteld dagloon, is artikel 16 van de Ziektewet van overeenkomstige toepassing.   
+6.  Indien het recht op uitkering op grond van de Werkloosheidswet van: 
+
+a. de gelijkgestelde die als gelijkgestelde wordt aangemerkt op grond van de artikelen 3:6, eerste lid, van deze wet en 7, onderdeel a, van de Ziektewet; of  
+
+b. de betrokkene, bedoeld in artikel 3:10, die voorafgaand aan de uitkering op grond van deze wet een uitkering op grond van de Werkloosheidswet heeft gehad,   is gebaseerd op de Werkloosheidswet zoals deze luidde voor inwerkingtreding van artikel XXVI, onderdeel S, van de Wet werk en zekerheid, dan blijft artikel 3:13, zoals dat luidde voor de inwerkingtreding van artikel XIV, onderdeel B, van de Verzamelwet SZW 2015 van toepassing en wordt in het tweede lid «op grond van de artikelen 15 en 16 van de Ziektewet en de daarop berustende bepalingen» gelezen als: op grond van de artikelen 15 en 16 van de Ziektewet en de daarop berustende bepalingen zoals deze luidden op de dag voor de inwerkingtreding van de artikelen XXVI, onderdeel S en XXVIII, onderdeel A, van de Wet werk en zekerheid.   
+7.  Indien het recht op uitkering op grond van de Werkloosheidswet van de gelijkgestelde, die als gelijkgestelde wordt aangemerkt op grond van de artikelen 3:6, eerste lid, of 3:10 van deze wet en 8, onderdeel a, van de Ziektewet, en die persoon direct voorafgaand aan de uitkering op grond van de Ziektewet een recht op uitkering had op grond van de Werkloosheidswet, is gebaseerd op de Werkloosheidswet zoals deze luidde voor inwerkingtreding van de artikelen XXVI, onderdeel S en XXVIII, onderdeel A, van de Wet werk en zekerheid, dan blijft artikel 3:13 van deze wet, zoals deze luidde voor de inwerkingtreding van artikel XIV, onderdeel B, van de Verzamelwet SZW 2015 en van artikel XXVIII, onderdeel A, van de Wet werk en zekerheid van toepassing.   
+8.  Het zesde tot en met achtste lid vervallen met ingang van een bij koninklijk besluit te bepalen tijdstip. 
 
 ####De uitbetaling van de uitkering
 
@@ -626,13 +632,17 @@ Van artikel 4:1, voor wat betreft de loonbetaling, en de artikelen 4:2 tot en me
 
 a. de echtgenoot, de geregistreerde partner of de persoon met wie de werknemer ongehuwd samenwoont;  
 
-b. een inwonend kind tot wie de werknemer als ouder in een familierechtelijke betrekking staat;  
+b. een kind tot wie de werknemer als ouder in een familierechtelijke betrekking staat;  
 
-c. een inwonend kind van de echtgenoot, de geregistreerde partner of de persoon met wie de werknemer ongehuwd samenwoont;  
+c. een kind van de echtgenoot, de geregistreerde partner of de persoon met wie de werknemer ongehuwd samenwoont;  
 
 d. een pleegkind dat blijkens de basisregistratie personen op hetzelfde adres woont als de werknemer en dat hij als pleegouder als bedoeld in artikel 1.1 van de Jeugdwet verzorgt;  
 
-e. een bloedverwant in de eerste graad, niet zijnde een kind.     
+e. een bloedverwant in de eerste of tweede graad;  
+
+f. degene die, zonder dat er sprake is van een arbeidsrelatie, deel uitmaakt van de huishouding van de werknemer; of  
+
+g. degene met wie de werknemer anderszins een sociale relatie heeft, voor zover de te verlenen verzorging rechtstreeks voortvloeit uit die relatie en redelijkerwijs door de werknemer moet worden verleend.   
 
 ####Duur verlof
 
@@ -704,13 +714,11 @@ Indien zowel de in artikel 4:1 als de in artikel 5:1 gestelde voorwaarden worden
 
 ###Artikel 5:9 
 
-De werknemer heeft recht op verlof zonder behoud van loon voor de verzorging van een persoon, die levensbedreigend ziek is, indien het betreft:
+De werknemer heeft recht op verlof zonder behoud van loon voor: 
 
-a.de echtgenoot, de geregistreerde partner of de persoon met wie de werknemer ongehuwd samenwoont;
+a. de verzorging van een persoon als bedoeld in artikel 5:1, tweede lid, die levensbedreigend ziek is; of  
 
-b.een kind tot wie de werknemer of de persoon bedoeld in onderdeel a als ouder in een familierechtelijke betrekking staat, dan wel een pleegkind van de werknemer als bedoeld in artikel 5:1, eerste lid, onderdeel d;
-
-c.een bloedverwant in de eerste graad van de werknemer.
+b. de noodzakelijke verzorging van een persoon als bedoeld in artikel 5:1, tweede lid, die ziek of hulpbehoevend is.  
 
 ####Omvang verlof
 
@@ -744,8 +752,8 @@ Het verlof bedraagt in elke periode van twaalf achtereenvolgende maanden ten hoo
 
 ###Artikel 5:13 
 
-1. Het verlof eindigt met het verstrijken van de duur waarvoor het verlof is verleend.
-2. Indien voor het verstrijken van de in het eerste lid bedoelde verlofduur de persoon ten behoeve van wiens verzorging het verlof is verleend overlijdt, dan wel niet langer levensbedreigend ziek is, eindigt het verlof met ingang van de dag na die waarop deze omstandigheid zich heeft voorgedaan.
+1. Het verlof eindigt met het verstrijken van de duur waarvoor het verlof is verleend. 
+2. Indien voor het verstrijken van de in het eerste lid bedoelde verlofduur de persoon ten behoeve van wiens verzorging het verlof is verleend overlijdt, dan wel niet langer niet langer in een omstandigheid verkeert als bedoeld in artikel 5:9, eindigt het verlof met ingang van de dag na die waarop deze omstandigheid zich heeft voorgedaan.
 
 ###§ 3 
 

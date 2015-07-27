@@ -11,8 +11,6 @@ Besluit:
 
 ### Artikel  1.1  
 
-####(begrippen)
-
 In deze regeling wordt verstaan onder: 
 
 *algemene risicoanalyse:* analyse die erop is gericht te bepalen op welke gegevens de materiële controle en het fraudeonderzoek zich zal richten   
@@ -20,8 +18,6 @@ In deze regeling wordt verstaan onder:
 *Besluit:* Besluit langdurige zorg;  
 
 *bewerker:* bewerker als bedoeld in artikel 1, onderdeel e, van de Wet bescherming persoonsgegevens;  
-
-*budgetplan:* schriftelijk overzicht van de door de verzekerde voorgenomen besteding van het te verlenen persoonsgebonden budget;  
 
 *gewaarborgde hulp:* door de verzekerde ingeschakelde hulp van een derde die in staat voor de nakoming van de aan het persoonsgebonden budget verbonden verplichtingen;  
 
@@ -77,7 +73,7 @@ a. de verzekerde krachtens zijn indicatiebesluit is aangewezen op zorgprofiel:
 
 – ZGvis Wonen met zeer intensieve begeleiding en zeer intensieve verzorging,    
 
-b. de verzekerde op 31 december 2014 recht had op zorgzwaartepakket 5 VG, 7 VG, 8 VG, 4 LVG, 5 LVG, 1 SGLVG, 5 LG, 7 LG, 3 ZGaudf of 5 ZGvis, of  
+b. de verzekerde op 31 december 2014 recht had op zorgzwaartepakket 5 VG, 7 VG, 8 VG, 4 LVG, 5 LVG, 1 SGLVG, 5 LG, 7 LG, 3 ZGaud of 5 ZGvis, of  
 
 c. de behoefte aan zorg tevens bestaat uit gespecialiseerde epilepsiezorg, chronische invasieve beademing, non-invasieve beademing, klinische intensieve behandeling of niet-strafrechtelijke forensische psychiatrie.     
 2.  Een verzekerde als bedoeld in het eerste lid, onder a of b, kan slechts recht op de in dat lid bedoelde zorg krijgen indien zijn behoefte aan zorg minimaal 25% hoger is dan de zorg die is opgenomen in het zorgzwaartepakket dat voor de bekostiging van het zorgprofiel wordt gebruikt dan wel van het zorgprofiel.  
@@ -99,7 +95,7 @@ c. Dit onderdeel is nog niet in werking getreden.
 
 ### Artikel  2.4  
 
-1.  De verzekerde heeft slechts aanspraak op tandheelkundige zorg als bedoeld in artikel 3.1.1, eerste lid, onderdeel d, onder 5°, van de wet, voor zover die nodig is met het oog op een ernstige aangeboren of verworven tandheelkundige aandoening of een lichamelijke of geestelijke aandoening, en indien de Wlz-uitvoerder vooraf toestemming heeft verleend.   
+1.  De verzekerde heeft slechts aanspraak op tandheelkundige zorg als bedoeld in artikel 2.7, eerste tot en met derde lid, van het Besluit zorgverzekering indien de Wlz-uitvoerder vooraf toestemming heeft verleend.   
 2.  Indien het verblijf van de verzekerde in een instelling wordt beëindigd in verband met verblijf als bedoeld in artikel 2.12 van het Besluit zorgverzekering, bestaat nog gedurende een periode van ten hoogste acht dagen aanspraak op tandheelkundige zorg.   
 3.  Tot negen weken na beëindiging van het verblijf in een instelling bestaat aanspraak op de levering en het aanbrengen van een nieuwe of overgezette tandheelkundige prothese, zijnde een plaat-, overkappings-, opbouw- of frameprothese, alsmede van kronen of bruggen, indien deze tandheelkundige hulp voor het beëindigen van het verblijf was aangevangen. De Wlz-uitvoerder kan, gehoord de adviserend tandarts, een langere termijn van ten hoogste tweeënvijftig weken vaststellen.  
 
@@ -160,7 +156,7 @@ c. een jaar, indien het medebehandeling betreft.
 a. de beperkingen van de verzekerde en de veranderingen die zich daarin kunnen voordoen;  
 
 b. het bereiken van een leeftijd van de verzekerde die van invloed kan zijn op de aanspraak.     
-4.  Verzekerden met een somatische aandoening, met een psychogeriatrische aandoening, met een lichamelijke beperking of, indien het meerderjarige verzekerden betreft, met een verstandelijke beperking, die op 31 december 2014 beschikken over een indicatiebesluit voor extramurale behandeling op grond van artikel 8 van het Besluit zorgaanspraken AWBZ en het medisch noodzakelijk vervoer op grond van artikel 10 van het Besluit zorgaanspraken AWBZ welke besluiten naar het recht van 31 december 2014 op 1 januari 2015 nog geldig zouden zijn, worden aangemerkt als verzekerden met besluiten, bedoeld in artikel 5.1.1, van het besluit.  
+4.  Verzekerden met een somatische aandoening, met een psychogeriatrische aandoening, met een lichamelijke beperking of, indien het meerderjarige verzekerden betreft, met een verstandelijke beperking, die op 31 december 2014 beschikken over een indicatiebesluit voor extramurale behandeling op grond van artikel 8 van het Besluit zorgaanspraken AWBZ en het medisch noodzakelijk vervoer op grond van artikel 10 van het Besluit zorgaanspraken AWBZ welke besluiten naar het recht van 31 december 2014 op 1 januari 2015 nog geldig zouden zijn, worden aangemerkt als verzekerden met besluiten, bedoeld in artikel 5.2.1. van het besluit.  
 
 ### Artikel  3.4  
 
@@ -266,11 +262,9 @@ c. behandeling als bedoeld in artikel 3.1.1, eerste lid, onderdeel c, van de wet
 
 a. op een verzekerde die de leeftijd van 23 jaar nog niet heeft bereikt, met het oog op diens mogelijkheid om thuis op te groeien;  
 
-b. op de verzekerde die een of meer kinderen heeft die de leeftijd van 18 jaar nog niet heeft bereikt, met het oog op de mogelijkheid van de verzekerde om deel uit te maken van het thuis opgroeien van dat kind;  
+b. op de verzekerde die een of meer kinderen heeft die de leeftijd van 18 jaar nog niet heeft bereikt, met het oog op de mogelijkheid van de verzekerde om deel uit te maken van het thuis opgroeien van dat kind, of  
 
-c. op verzekerden die op zorg zijn aangewezen vanwege een somatische aandoening of beperking of een lichamelijke of zintuiglijke handicap, zonder dat sprake is van een verstandelijke handicap of een psychiatrische aandoening of psychogeriatrisch beperking, met het oog op de mogelijkheid van de verzekerde om vanuit huis inkomen uit werk te verkrijgen of om een studie of opleiding te volgen met het oog op het verwerven van inkomen uit werk, of  
-
-d. indien het leven van de verzekerde voortdurend acuut door een aandoening, beperking, handicap of stoornis wordt bedreigd, met het oog op het verhogen van de door de verzekerde ervaren kwaliteit van leven door zorg thuis te ontvangen.     
+c. op verzekerden die op zorg zijn aangewezen vanwege een somatische aandoening of beperking of een lichamelijke of zintuiglijke handicap, zonder dat sprake is van een verstandelijke handicap of een psychiatrische aandoening of psychogeriatrisch beperking, met het oog op de mogelijkheid van de verzekerde om vanuit huis inkomen uit werk te verkrijgen of om een studie of opleiding te volgen met het oog op het verwerven van inkomen uit werk.     
 4.  De Wlz-uitvoerder kan de voor het modulair pakket thuis ten hoogste toelaatbare kosten verhogen in geval van een verzekerde die krachtens zijn indicatiebesluit is aangewezen op zorgprofiel VV Beschermd verblijf met intensieve palliatief-terminale zorg, voor zover die verhoging nodig is met het oog op de mogelijkheid van de verzekerde om palliatief terminale zorg thuis te ontvangen.   
 5.  Het zorgkantoor kan het persoonsgebonden budget verhogen in geval van een verzekerde die krachtens zijn indicatiebesluit is aangewezen op zorgprofiel VV Beschermd verblijf met intensieve palliatief-terminale zorg, voor zover die verhoging nodig is met het oog op diens mogelijkheid om palliatief terminale zorg thuis te ontvangen. 
 
@@ -292,9 +286,9 @@ Het zorgkantoor verleent slechts een persoonsgebonden budget voor verzekerden di
 
 – LVG Wonen met zeer intensieve behandeling en begeleiding,  
 
-– LVG Besloten wonen met zeer intensieve behandeling en begeleiding,  
+– LVG Besloten wonen met zeer intensieve behandeling en begeleiding, of  
 
-– LVG Behandeling in een SGLVG behandelcentrum,     
+– LVG Behandeling in een SGLVG behandelcentrum.     
 2.  Het eerste lid is niet van toepassing op de verzekerde die onmiddellijk voorafgaand aan de intrekking van de Algemene Wet Bijzondere Ziektekosten was aangewezen op een zorgzwaartepakket 3 LVG en aanspraak had op een persoonsgebonden budget.  
 
 ### Artikel  5.6  
@@ -318,7 +312,7 @@ Het zorgkantoor verleent slechts een persoonsgebonden budget voor verzekerden di
 – VG Besloten wonen met zeer intensieve begeleiding, verzorging en gedragsregulering, of  
 
 – VG Wonen met begeleiding en volledige verzorging en verpleging.     
-2.  Het eerste lid, is tot 1 april 2015 niet van toepassing op verzekerden die onmiddellijk voorafgaand aan de intrekking van de Algemene Wet Bijzondere Ziektekosten waren aangewezen op een zorgzwaartepakket dat volgens de in bijlage A bij deze regeling opgenomen conversietabel overeenkomt met een in het eerste genoemd zorgprofiel, en aanspraak had op een persoonsgebonden budget.  
+2.  Het eerste lid is tot 1 april 2015 niet van toepassing op verzekerden die onmiddellijk voorafgaand aan de intrekking van de Algemene Wet Bijzondere Ziektekosten waren aangewezen op een zorgzwaartepakket dat volgens de in bijlage A bij deze regeling opgenomen conversietabel overeenkomt met een in het eerste lid genoemd zorgprofiel, en aanspraak had op een persoonsgebonden budget.  
 
 ### Artikel  5.7  
 
@@ -351,7 +345,7 @@ c. het zorgkantoor, op advies van een instelling voor maatschappelijk werk of de
 
 d. de verzekerde, of, indien de verzekerde de leeftijd van 18 jaar nog niet heeft bereikt, één van diens ouders of voogden, surseance van betaling heeft aangevraagd of failliet is verklaard;  
 
-e. ten aanzien van de verzekerde of, indien de verzekerde de leeftijd van 18 jaar nog niet heeft bereikt, één van diens ouders of voogden, de schulsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend;  
+e. ten aanzien van de verzekerde of, indien de verzekerde de leeftijd van 18 jaar nog niet heeft bereikt, één van diens ouders of voogden, de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend;  
 
 f. de verzekerde of diens vertegenwoordiger het zorgkantoor geen toestemming geeft om de persoonsgegevens van de verzekerde door te geven aan het CAK ten behoeve van de vaststelling van de te betalen eigen bijdrage en aan de Sociale verzekeringsbank ten behoeve van de uitvoering van diens bij of krachtens de opgedragen taken omtrent het persoonsgebonden budget.   
 
@@ -366,18 +360,19 @@ Het zorgkantoor gaat bij de toepassing van artikel 4:25 van de Algemene bestuurs
 a. de naam en het adres van de derde;  
 
 b. een aanduiding van de hulp die zal worden geboden en de hoedanigheid waarin dit door de derde zal plaatsvinden.     
-2.  De verlening van een persoonsgebonden budget kan worden geweigerd, indien een gegronde reden bestaat om aan te nemen dat de door de verzekerde voor die hulp ingeschakelde derde: 
+2.  De verlening van een persoonsgebonden budget kan worden geweigerd indien een gegronde reden bestaat om aan te nemen dat de door de verzekerde overeenkomstige het eerste lid ingeschakelde hulp: 
 
-1°. bij eerdere verstrekking van persoonsgebonden budgetten waarbij de derde als hulppersoon of vertegenwoordiger optrad niet heeft ingestaan voor nakoming van de daaraan verbonden verplichtingen,  
+1°. bij een eerdere verstrekking van persoonsgebonden budgetten waarbij deze derde als hulppersoon of vertegenwoordiger optrad niet heeft ingestaan voor nakoming van de daaraan verbonden verplichtingen,  
 
 2°. blijkens de basisregistratie personen niet beschikt over een woonadres,  
 
 3°. zijn vrijheid is ontnomen,  
 
-4°. ten aanzien van de derde de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend of de derde surséance van betaling heeft aangevraagd of failliet is verklaard, of  
+4°. onder de schuldsaneringsregeling natuurlijke personen valt, dan wel een verzoek tot van toepassing verklaring van die regeling bij de rechtbank is ingediend of deze derde surseance van betaling heeft aangevraagd of failliet is verklaard, of  
 
 5°. anderszins onvoldoende waarborg zal bieden voor het nakomen van de voor de verzekerde aan het persoonsgebonden budget verbonden verplichtingen.     
-3.  Het eerste lid is tot 1 april 2015 niet van toepassing op de verzekerde die onmiddellijk voorafgaand aan de intrekking van de Algemene Bijzondere Ziektekosten een aanspraak had op een persoonsgebonden budget. Op verzoek van de verzekerde die de leeftijd van 21 jaar nog niet heeft bereikt of van diens telijk vertegenwoordiger, wordt een persoonsgebonden budget verleend aan de organisatie die belast is met de ondertoezichtstelling van de verzekerde of die een reclasseringsmaatregel uitoefent krachtens een uitspraak van de rechter of het Openbaar Ministerie op grond van artikel 14d, artikel 15b, tweede lid, of Bok I, Titel VIII A Bijzondere bepalingen voor jeugdige personen van het boek van Strafrecht.  
+3.  Het eerste lid is tot 1 april 2015 niet van toepassing op de verzekerde die onmiddellijk voorafgaand aan de intrekking van de Algemene Wet Bijzondere Ziektekosten een aanspraak had op een persoonsgebonden budget.   
+4.  Op verzoek van de verzekerde die de leeftijd van 21 jaar nog niet heeft bereikt of van diens vertegenwoordiger, wordt een persoonsgebonden budget verleend aan de organisatie die belast is met de ondertoezichtstelling van de verzekerde of die een reclasseringsmaatregel uitoefent krachtens een uitspraak van de rechter of het Openbaar Ministerie op grond van artikel 14d, artikel 15b, tweede lid, of Boek I, Titel VIII A Bijzondere bepalingen voor jeugdige personen van het Wetboek van Strafrecht. 
 
 ### Artikel  5.12  
 
@@ -404,12 +399,12 @@ c. begeleiding individueel: 1e klasse 1: € 1.987 2e klasse 2: € 5.959 3e k
 d. begeleiding groep: 1e klasse 1: € 2.450 2e klasse 2: € 4.901 3e klasse 3: € 7.351 4e klasse 4: € 9.803 5e klasse 5: € 12.253 6e klasse 6: € 14.703 7e klasse 7: € 17.154 8e klasse 8: € 19.604 9e klasse 9: € 22.055  
 
 e. begeleiding groep, inclusief vervoer: 1e klasse 1: € 2.744 2e klasse 2: € 5.487 3e klasse 3: € 8.232 4e klasse 4: € 10.974 5e klasse 5: € 13.721 6e klasse 6: € 16.170 7e klasse 7: € 18.622 8e klasse 8: € 21.072 9e klasse 9: € 23.523     
-2.  Het persoonsgebonden budget wordt berekend door het in het indicatiebesluit opgenomen zorgprofiel of een zorgzwaartepakket, indien het een verzekerde betreft die krachtens overgangsrecht beschikt over een zorgzwaartepakket krachtens de Algemene Bijzondere Ziektekosten, met toepassing van de in bijlage C bij deze regeling om te rekenen naar een of meer klassen, bedoeld in het eerste lid.   
+2.  Het persoonsgebonden budget wordt berekend door het in het indicatiebesluit opgenomen zorgprofiel of een zorgzwaartepakket, indien het een verzekerde betreft die krachtens overgangsrecht beschikt over een zorgzwaartepakket krachtens de Algemene Bijzondere Ziektekosten, met toepassing van bijlage C bij deze regeling om te rekenen naar een of meer klassen, bedoeld in het eerste lid.   
 3.  Indien de verzekerde niet in een instelling verblijft hoogt het zorgkantoor het persoonsgebonden budget op met € 3.357.   
 4.  Het zorgkantoor verhoogt het persoonsgebonden budget met € 4.030 voor een verzekerde die woont in een kleinschalig wooninitiatief.   
 5.  Dit artikel is niet van toepassing op een verzekerde met een indicatiebesluit als bedoeld in artikel 11.1.1, zesde lid, van de wet, of artikel 9.3a of 9.3b van deze regeling. Het bedrag van een persoonsgebonden budget dat voor deze verzekerden wordt vastgesteld krachtens artikel 11.1.2, zevende lid, van de wet, zo nodig in verbinding met de artikelen 9.3a, tweede lid, of 9.3b, eerste lid, van deze regeling, wordt in 2015 verhoogd met 0,74% alsmede met: 
 
-a. het bedrag, bedoeld in het derde lid, indien de verzekerde over 2014 jegens het college van burgemeester en wethouders van de gemeente waarin hij woonde recht had op een persoonsgebonden budget voor huishoudelijke verzorging van niet meer dan € 4.857, of  
+a. het bedrag, bedoeld in het derde lid, indien de verzekerde over 2014 jegens het college van burgemeester en wethouders van de gemeente waarin hij woonde recht had op een persoonsgebonden budget voor huishoudelijke verzorging van niet meer dan € 4.857 en de verzekerde achttien jaar of ouder is, of  
 
 b. het bedrag van het persoonsgebonden budget voor huishoudelijke verzorging waarop de verzekerde over 2014 jegens het college van burgemeester en wethouders van de gemeente waarin hij woonde recht had, indien dat meer bedroeg dan € 4.857 en de verzekerde achttien jaar of ouder is.     
 6.  Indien een verzekerde slechts gedurende een gedeelte van 2014 een persoonsgebonden budget als bedoeld in het vijfde lid, onderdeel a of b, ontving of in 2014 wegens verhuizing achtereenvolgens meerdere persoonsgebonden budgetten als bedoeld in het vijfde lid, onderdeel a of b, ontving, wordt voor de beantwoording van de vraag of de verzekerde recht heeft op de in het vijfde lid, onderdeel a dan wel onderdeel b bedoelde toeslag, het budget waarop over 2014 recht bestond bepaald door het in dat jaar laatst toegekende budget te delen door het aantal dagen in 2014 waarover dat budget was toegekend en het resultaat van dit quotiënt te vermenigvuldigen met 365.  
@@ -417,7 +412,7 @@ b. het bedrag van het persoonsgebonden budget voor huishoudelijke verzorging waa
 ### Artikel  5.14  
 
 1.  Een persoonsgebonden budget dat voor meerdere vormen van zorg wordt verleend, bedraagt ten hoogste de som van de met behulp van de in de artikel 5.13 bepaalde bedragen.   
-2.  Het zorgkantoor kan onder daarbij te stellen voorwaarden in het voordeel van de verzekerde afwijken van het eerste lid indien de verzekerde naar het oordeel van het zorgkantoor aanspraak heeft op meer zorg als bedoeld in artikel 2.2 van deze regeling of op een verhoging als bedoeld in artikel 5.3, tweede en vijfde lid.   
+2.  Het zorgkantoor kan onder daarbij te stellen voorwaarden in het voordeel van de verzekerde afwijken van het eerste lid indien de verzekerde naar het oordeel van het zorgkantoor aanspraak heeft op meer zorg als bedoeld in artikel 2.2 van deze regeling of op een verhoging als bedoeld in artikel 5.3, tweede of vijfde lid.   
 3.  Indien een subsidieperiode met ingang van een andere dag dan 1 januari van een kalenderjaar aanvangt of op een andere dag dan 31 december eindigt, wordt het maximum persoonsgebonden budget vermenigvuldigd met een breuk waarvan de teller bestaat uit het aantal dagen van de subsidieperiode in het desbetreffende kalenderjaar en de noemer uit het aantal dagen in dat kalenderjaar.  
 
 ### Artikel  5.15  
@@ -427,18 +422,17 @@ b. het bedrag van het persoonsgebonden budget voor huishoudelijke verzorging waa
 a. het persoonsgebonden budget bij de eerste verlening op basis van een indicatiebesluit waaruit bleek dat de verzekerde was aangewezen op een zorgzwaartepakket, op grond van een beleidsregel van het College zorgverzekeringen of op grond van artikel 2.6.15 van de Regeling subsidies AWBZ, zoals dat artikel luidde voor 1 januari 2013, was opgehoogd tot een garantiebedrag of  
 
 b. aan de verzekerde in 2012 een persoonsgebonden budget is verleend op basis van een indicatiebesluit krachtens de Algemene Bijzondere Ziektekosten waaruit bleek dat de verzekerde aangewezen was op verblijf en de verzekerde vanaf 30 december 2012 ononderbroken woonachtig was in een kleinschalig wooninitiatief.     
-2.  Een verzekerde die inwoont bij een ouder, pleegouder of pleegoudervoogd, als bedoeld in artikel 1.1 van de Jeugdwet, wordt niet aangemerkt als bewoner van een kleinschalig wooninitiatief.   
-3.  Het zorgkantoor hoogt het persoonsgebonden budget op tot een garantiebedrag ter hoogte van 90,67% van het persoonsgebonden budget dat was verleend voor de subsidieperiode die eindigde op 31 december 2014, indien: 
+2.  Het zorgkantoor hoogt het persoonsgebonden budget op tot een garantiebedrag ter hoogte van 90,67% van het persoonsgebonden budget dat was verleend voor de subsidieperiode die eindigde op 31 december 2014, indien: 
 
 a. dat persoonsgebonden budget was verleend op grond van een indicatiebesluit op basis van de Algemene Bijzondere Ziektekosten waaruit bleek dat de verzekerde aangewezen was op verblijf;  
 
 b. de verzekerde volgens het geldende indicatiebesluit is aangewezen op verblijf, en  
 
 c. het eerste lid niet op de verzekerde van toepassing is.     
-4.  Indien de aanvraag betrekking heeft op minder of andere vormen van zorg, dan het persoonsgebonden budget dat in 2014 is verleend, wordt een garantiebedrag als bedoeld in het eerste of derde lid verminderd met het verschil tussen de budgetten waartoe die vormen van zorg leiden.   
-5.  Indien de aanvraag voor een persoonsgebonden budget is gebaseerd op een ander indicatiebesluit dan de verlening van het persoonsgebonden budget in 2014 en de verzekerde volgens het indicatiebesluit is aangewezen op een zorgprofiel dat leidt tot een lager persoonsgebonden budget dan in 2014 is verleend, wordt een garantiebedrag als bedoeld in het eerste of derde lid verminderd met het verschil tussen de persoonsgebonden budgetten waartoe die zorgprofielen leiden.   
-6.  Het eerste lid, onder a, is alleen van toepassing indien aan de verzekerde, vanaf de eerste verlening van een persoonsgebonden budget op basis van een indicatiebesluit waaruit bleek dat hij was aangewezen op een zorgzwaartepakket, in ieder opvolgende subsidieperiode een persoonsgebonden budget is verleend, al dan niet na een onderbreking als bedoeld in het zevende lid, onder a of b.   
-7.  Het eerste lid, onder b, en derde lid zijn alleen van toepassing indien de subsidieperiode waarvoor een persoonsgebonden budget wordt aangevraagd: 
+3.  Indien de aanvraag betrekking heeft op minder of andere vormen van zorg, dan het persoonsgebonden budget dat in 2014 is verleend, wordt een garantiebedrag als bedoeld in het eerste of tweede lid verminderd met het verschil tussen de budgetten waartoe die vormen van zorg leiden.   
+4.  Indien de aanvraag voor een persoonsgebonden budget is gebaseerd op een ander indicatiebesluit dan de verlening van het persoonsgebonden budget in 2014 en de verzekerde volgens het indicatiebesluit is aangewezen op een zorgprofiel dat leidt tot een lager persoonsgebonden budget dan in 2014 is verleend, wordt een garantiebedrag als bedoeld in het eerste of tweede lid verminderd met het verschil tussen de persoonsgebonden budgetten waartoe die zorgprofielen leiden.   
+5.  Het eerste lid, onder a, is alleen van toepassing indien aan de verzekerde, vanaf de eerste verlening van een persoonsgebonden budget op basis van een indicatiebesluit waaruit bleek dat hij was aangewezen op een zorgzwaartepakket, in ieder opvolgende subsidieperiode een persoonsgebonden budget is verleend, al dan niet na een onderbreking als bedoeld in het zesde lid, onder a of b.   
+6.  Het eerste lid, onder b, en tweede lid zijn alleen van toepassing indien de subsidieperiode waarvoor een persoonsgebonden budget wordt aangevraagd: 
 
 a. met een onderbreking van niet meer dan zeven kalenderdagen, aansluit op een eerdere subsidieperiode, of  
 
@@ -477,7 +471,9 @@ a. de overeenkomst ten minste de volgende elementen bevat:
 
 4°. de verplichting dat een declaratie van een zorgverlenende instantie het nummer bevat waarmee die instantie staat ingeschreven bij de Kamer van Koophandel, een overzicht van de dagen waarop is gewerkt, het tarief, het aantal te betalen uren, dagdelen of etmalen, en de naam en het adres van de zorgverlenende instantie, en dat het namens de zorgverlenende instantie wordt ondertekend, en    
 
-b. uit de omschrijving van de wijze waarop de zorgverlener voorziet in de behoefte aan zorg van de verzekerde, blijkt dat de overeenkomst strekt tot de inkoop van persoonlijke verzorging, verpleging, begeleiding, huishoudelijke hulp en vervoer naar een plaats waar de verzekerde gedurende een dagdeel begeleiding of behandeling ontvangt, of tot inkoop van logeeropvang of kortdurend verblijf.    
+b. uit de omschrijving van de wijze waarop de zorgverlener voorziet in de behoefte aan zorg van de verzekerde, blijkt dat de overeenkomst strekt tot de inkoop van persoonlijke verzorging, verpleging, begeleiding, huishoudelijke hulp en vervoer naar een plaats waar de verzekerde gedurende een dagdeel begeleiding of behandeling ontvangt, of tot inkoop van logeeropvang of kortdurend verblijf, en  
+
+c. de overeenkomst betrekking heeft op bemiddelingskosten of de kosten van zorginfrastructuur zoals bedoeld in artikel 5.17, eerste lid, onderdeel b en c.   
 
 ### Artikel  5.17  
 
@@ -512,7 +508,7 @@ e. de verzekerde laat de betalingen aan de zorgverlener uitsluitend verrichten d
 
 f. de verzekerde laat door de Sociale verzekeringsbank uitsluitend bemiddelingkosten uitbetalen indien aan de verzekerde een persoonsgebonden budget is verleend voor een AWBZ-subsidieperiode die eindigde op 31 december 2011 en de organisatie waaraan de verzekerde bemiddelingskosten betaalt beschikt over een door het Keurmerkinstituut vastgesteld keurmerk voor bemiddelingsbureaus;  
 
-g. de verzekerde die met het persoonsgebonden budget bij naasten wil inkopen dat niet besteed aan een huisgenoot, partner of ouder die feitelijk gebruikelijke zorg op zich dient te nemen, maar daartoe niet in staat is wegens overbelasting of dreigende overbelasting;  
+g. de verzekerde koopt geen zorg in bij een mantelzorger indien deze wegens overbelasting of dreigende overbelasting niet in staat is een bijdrage aan die zorg te leveren die partners, ouders, volwassen kinderen of andere volwassen huisgenoten elkaar naar algemeen aanvaardbare maatstaven plegen te bieden;  
 
 h. de verzekerde besteedt het persoonsgebonden budget niet aan logeeropvang buiten de Europese Unie.  
 
@@ -528,7 +524,7 @@ b. het verleende persoonsgebonden budget en de wijze waarop dit budget is bereke
 
 c. de verplichtingen van de verzekerde;  
 
-d. De maximale hoogte van het bedrag waarover een budgethouder zich niet hoeft te verantwoorden, en de wijze waarop dat bedrag is berekend.   
+d. de hoogte van het bedrag waarover een budgethouder zich niet hoeft te verantwoorden, en de wijze waarop dat bedrag is berekend.   
 
 ### Artikel  5.20  
 
@@ -543,7 +539,7 @@ c. met ingang van de dag vanaf welke de verzekerde schriftelijk heeft aangegeven
 d. met ingang van de dag waarop het zorgkantoor, op advies van een instelling voor maatschappelijk werk of de Raad voor de kinderbescherming, van oordeel is dat een ten behoeve van een minderjarige verzekerde aangevraagd persoonsgebonden budget in zodanige mate niet voor de inkoop van zorg ten behoeve van die verzekerde zal worden gebruikt, dat dit mishandeling, verwaarlozing of ernstige schade voor de opvoeding of ontwikkeling van die verzekerde tot gevolg zal hebben;  
 
 e. met ingang van de dag waarop het indicatiebesluit ten nadele van de verzekerde wordt herzien als gevolg van bezwaar en beroep.     
-2.  De verleningsbeschikking kan worden ingetrokken of gewijzigd met ingang van de dag waarop de verzekerde, of de derde die aan verzekerde gewaarborgde hulp biedt, de opgelegde verplichtingen niet nakomt of niet langer voldoet aan de voorwaarden of verleningsgronden van het persoonsgebonden budget of aan de eisen voor gewaarborgde hulp.  
+2.  De verleningsbeschikking kan worden ingetrokken of gewijzigd met ingang van de dag waarop de verzekerde niet beschikt over een woonadres als bedoeld in artikel 1.1 van de Wet basisregistratie personen, met ingang van de dag waarop de verzekerde, of de derde die aan verzekerde gewaarborgde hulp biedt, de opgelegde verplichtingen niet nakomt of niet langer voldoet aan de voorwaarden of verleningsgronden van het persoonsgebonden budget of aan de eisen voor gewaarborgde hulp.  
 
 ### Artikel  5.21  
 
@@ -560,16 +556,16 @@ e. met ingang van de dag waarop het indicatiebesluit ten nadele van de verzekerd
 ### Artikel  5.22  
 
 1.  De uit het persoonsgebonden budget te vergoeden kosten van een zorgaanbieder zijn ten hoogste: € 63 per uur of € 58 per dagdeel of een door de zorgautoriteit op grond van de Wet marktordening gezondheidszorg voor de desbetreffende zorg vastgesteld hoger tarief.   
-2.  In afwijking van het eerste lid wordt een tarief van ten hoogste € 20 per uur, of € 20 per dagdeel gehanteerd tenzij het een budgethouder betreft die onmiddellijk voor intrekking van de Algemene Wet Bijzondere Ziektekosten een persoonsgebonden budget beschikte of de verzekerde aan wie met ingang van 1 januari 2014 een persoonsgebonden budget is verleend en kan aantonen dat de zorg is verleend door: 
+2.  In afwijking van het eerste lid wordt een tarief van ten hoogste € 20 per uur of per dagdeel gehanteerd indien een verzekerde op of na 1 januari 2014 voor het eerst een persoonsgebonden budget als bedoeld in de Algemene Wet Bijzondere Ziektekosten dan wel de wet is verleend, tenzij de budgethouder kan aantonen dat de zorg is verleend door: 
 
 a. een onderneming als bedoeld in artikel 5, onderdelen a, c, d of e, van de Handelsregisterwet 2007 waarvan de activiteiten blijkens de inschrijving in het handelsregister, bedoeld in artikel 2 van die wet, geheel of gedeeltelijk bestaan uit het verlenen van zorg als bedoeld in artikel 3.3.3 van de wet;  
 
-b. een onderneming als bedoeld in artikel 5, onderdeel b, van de Handelsregisterwet 2007 waarvan de activiteiten blijkens de inschrijving in het handelsregister, bedoeld in artikel 2 van die wet, geheel of gedeeltelijk bestaan uit het verlenen van zorg als bedoeld in artikel 1.1.1, onderdeel j of k, en die toebehoort aan een zelfstandige zonder personeel waaraan een geldige beschikking als bedoeld in artikel 3.156 van de Wet inkomstenbelasting 2001 is afgegeven;  
+b. een onderneming als bedoeld in artikel 5, onderdeel b, van de Handelsregisterwet 2007 waarvan de activiteiten blijkens de inschrijving in het handelsregister, bedoeld in artikel 2 van die wet, geheel of gedeeltelijk bestaan uit het verlenen van zorg als bedoeld in artikel 3.3.3 van de wet, en die toebehoort aan een zelfstandige zonder personeel waaraan een geldige beschikking als bedoeld in artikel 3.156 van de Wet inkomstenbelasting 2001 is afgegeven;  
 
-c. een persoon die is ingeschreven in het register, bedoeld in artikel 3 van Wet de op de beroepen in de individuele gezondheidszorg, voor het uitoefenen van een beroep voor het verlenen van zorg als bedoeld in artikel 1.1.1, onderdeel j of k.     
-3.  Het tweede lid, onderdeel b, subonderdeel 2° en 3°, is niet van toepassing indien de zorgverlener een bloed- of aanverwante in de eerste of tweede graad is van de verzekerde.   
-4.  het aantal door de zorgverlener voor de verzekerde gewerkte en betaalde uren mag niet afwijken van het Arbeidstijdenbesluit dan wel artikel 5.11, eerste lid, onderdeel d.   
-5.  het bedrag dat aan bemiddelingskosten, zoals bedoeld in eerste lid, onderdeel f, betaald mag worden bedraagt maximaal € 250 per jaar indien het verleende persoonsgebonden budget op jaarbasis € 25.000 of minder bedraagt en € 500 per jaar indien het verleende persoonsgebonden budget op jaarbasis meer dan € 25.000 bedraagt.  
+c. een persoon die is ingeschreven in het register, bedoeld in artikel 3 van Wet de op de beroepen in de individuele gezondheidszorg, voor het uitoefenen van een beroep voor het verlenen van zorg als bedoeld in artikel 3.3.3 van de wet.     
+3.  Het tweede lid, onder b en c, is niet van toepassing indien de zorgverlener een bloed- of aanverwante in de eerste of tweede graad is van de verzekerde.   
+4.  het aantal door de zorgverlener voor de verzekerde gewerkte en betaalde uren mag niet afwijken van het Arbeidstijdenbesluit dan wel en mag indien het Arbeidstijdenbesluit niet van toepassing is, niet meer bedragen dan veertig uur per week.   
+5.  het bedrag dat aan bemiddelingskosten, zoals bedoeld in artikel 5.18, eerste lid, onderdeel f, betaald mag worden bedraagt maximaal € 250 per jaar indien het verleende persoonsgebonden budget op jaarbasis € 25.000 of minder bedraagt en € 500 per jaar indien het verleende persoonsgebonden budget op jaarbasis meer dan € 25.000 bedraagt.  
 
 ### Artikel  5.23  
 
@@ -720,76 +716,76 @@ De Wlz-uitvoerder verwerkt de persoonsgegevens, bedoeld in artikel 6.1.1 van de 
 
 ### Artikel  8.1  
 
-1.  Het bedrag, bedoeld in artikel 49e, eerste lid, van de Wet marktordening gezondheidsheidszorg bedraagt voor het jaar 2015: € 17.785 miljoen.   
-2.  Van het bedrag, bedoeld in het eerste lid, is € 16.505 miljoen bestemd voor zorg in natura en € 1.280 miljoen bestemd voor persoonsgebonden budgetten.  
+1.  Het bedrag, bedoeld in artikel 49e, eerste lid, van de Wet marktordening gezondheidszorg bedraagt voor het jaar 2015: € 17.865 miljoen.   
+2.  Van het bedrag, bedoeld in het eerste lid, is € 16.505 miljoen bestemd voor zorg in natura en € 1.360 miljoen bestemd voor persoonsgebonden budgetten.  
 
 ### Artikel  8.2  
 
-De bedragen die in 2015 beschikbaar zijn voor de verstrekking van persoonsgebonden budgetten zijn voor de hiernavolgende regio's achter die regio's opgenomen: 
+De bedragen die in 2015 beschikbaar zijn voor de verstrekking van persoonsgebonden budgetten zijn voor de hiernavolgende regio’s achter die regio’s opgenomen bedragen: 
 
-– Groningen: € 69.311.239  
+– Groningen: € 72.301.711  
 
-– Friesland: € 83.684.474  
+– Friesland: € 86.031.845  
 
-– Drenthe: € 58.407.506  
+– Drenthe: € 63.818.728  
 
-– Zwolle: € 49.254.500  
+– Zwolle: € 54.781.405  
 
-– Twente: € 59.657.527  
+– Twente: € 62.907.816  
 
-– Apeldoorn, Zutphen, en omstreken: € 28.585.637  
+– Stedendriehoek: € 31.282.701  
 
-– Arnhem: € 87.772.629  
+– Midden Ijssel: € 10.500.022  
 
-– Nijmegen: € 40.203.850  
+– Arnhem: € 91.147.738  
 
-– Utrecht: € 79.207.401  
+– Nijmegen: € 43.667.654  
 
-– Flevoland: € 17.006.338  
+– Utrecht: € 85.453.078  
 
-– ’t Gooi: € 32.214.275  
+– Flevoland: € 18.575.468  
 
-– Noord-Holland Noord: € 39.274.102  
+– ´t Gooi: € 34.665.977  
 
-– Kennemerland: € 24.800.894  
+– Noord-Holland-Noord: € 42.917.765  
 
-– Zaanstreek/Waterland: € 17.037.675  
+– Kennemerland: € 26.143.490  
 
-– Amsterdam: € 38.326.056  
+– Zaanstreek/Waterland: € 18.675.976  
 
-– Amstelland en de Meerlanden: € 9.649.988  
+– Amsterdam: € 41.109.620  
 
-– Zuid-Holland Noord: € 26.090.967  
+– Amstelland/Meerlanden: € 10.201.725  
 
-– Haaglanden: € 48.896.352  
+– Zuid-Holland-Noord: € 27.200.213  
 
-– Delft Westland Oostland: € 16.309.234  
+– Haaglanden: € 51.388.900  
 
-– Midden-Holland: € 16.531.981  
+– Delft/Westland/Oostland: € 17.339.213  
 
-– Rotterdam: € 37.468.392  
+– Midden-Holland: € 18.256.636  
 
-– Nieuwe Waterweg Noord: € 10.890.145  
+– Rotterdam: € 41.043.860  
 
-– Zuid-Hollandse Eilanden: € 30.824.465  
+– Nieuwe Waterweg Noord: € 11.586.718  
 
-– Waardenland: € 26.602.121  
+– Zuid-Hollandse Eilanden: € 32.160.088  
 
-– Zeeland: € 26.819.230  
+– Waardenland: € 28.418.232  
 
-– West-Brabant: € 53.223.667  
+– Zeeland: € 27.271.835  
 
-– Midden-Brabant: € 44.097.152  
+– West-Brabant: € 54.845.191  
 
-– Noordoost Brabant: € 51.765.053  
+– Midden-Brabant: € 46.378.447  
 
-– Zuidoost Brabant: € 55.069.693  
+– Noordoost Brabant: € 55.701.987  
 
-– Noord- en Midden-Limburg: € 39.086.566  
+– Zuid Oost-Brabant: € 57.786.119  
 
-– Zuid-Limburg: € 51.430.868  
+– Noord-Limburg: € 42.616.715  
 
-– Midden IJssel: € 10.500.022.   
+– Zuid-Limburg: € 53.823.127   
 
 ### Hoofdstuk  9  
 
@@ -806,9 +802,15 @@ Artikel 11.1.1, vierde lid, van de wet geldt slechts voor verzekerden die op de 
 
 ### Artikel  9.3  
 
-1.  Verzekerden als bedoeld in artikel 11.1.1, zesde lid, van de wet die voor 1 januari 2015 hebben laten en voor zorg als bedoeld in de wet in aanmerking te willen komen en die deze zorg in natura wensen te ontvangen, hebben gedurende het jaar 2015 recht op de zorg die zij op de dag voorafgaande aan de inwerkingtreding van de wet in natura ontvingen.   
-2.  Indien verzekerden als bedoeld in het eerste lid of in artikel 11.1.2, zevende lid, van de wet vanaf 1 januari voor al hun zorg of een deel van hun zorg voor andere leveringsvormen kiezen dan de leveringsvormen die zij op de dag voorafgaande aan de inwerkingtreding van de wet ontvingen, dan wel een andere verhouding tussen leveringsvormen wensen, spannen de Wlz-uitvoerder of het zorgkantoor zich ervoor in dat de hoeveelheid zorg die betrokkenen in 2015 in natura ontvangen of zelf kunnen inkopen, gelijk is aan de hoeveelheid zorg waarop zij op de dag voorafgaande aan de inwerkingtreding van de wet aanspraak hadden.   
-3.  Het eerste lid geldt niet indien de gezondheidssituatie van de verzekerde dan wel toepasselijkheid van artikel 3.2.4, aanhef en onderdeel a, van de wet noodzaakt tot een gedurende het jaar 2015 ingaande herindicatie.  
+1.  Verzekerden als bedoeld in artikel 11.1.1, zesde lid, van de wet die voor 1 januari 2015 hebben laten weten voor zorg als bedoeld in de wet in aanmerking te willen komen en die deze zorg in natura wensen te ontvangen, hebben gedurende de jaren 2015 en 2016 recht op de zorg die zij op de dag voorafgaande aan de inwerkingtreding van de wet in natura ontvingen.   
+2.  Indien verzekerden als bedoeld in het eerste lid of in artikel 11.1.2, zevende lid, van de wet vanaf 1 januari voor al hun zorg of een deel van hun zorg voor andere leveringsvormen kiezen dan de leveringsvormen die zij op de dag voorafgaande aan de inwerkingtreding van de wet ontvingen, dan wel een andere verhouding tussen leveringsvormen wensen, spannen de Wlz-uitvoerder of het zorgkantoor zich ervoor in dat de hoeveelheid zorg die betrokkenen in de jaren 2015 of 2016 in natura ontvangen of zelf kunnen inkopen, jaarlijks gelijk is aan de hoeveelheid zorg waarop zij op de dag voorafgaande aan de inwerkingtreding van de wet aanspraak hadden.   
+3.  Het eerste lid geldt niet indien de gezondheidssituatie van de verzekerde dan wel toepasselijkheid van artikel 3.2.4, aanhef en onderdeel a, van de wet noodzaakt tot een gedurende de jaren 2015 of 2016 ingaande herindicatie.   
+4.  In afwijking van het eerste lid wordt ten aanzien van verzekerden met een indicatiebesluit met een verstandelijke handicap als belangrijkste grondslag en een somatische aandoening of beperking of een lichamelijke handicap als aanvullende grondslag, die geboren zijn op en na 01-09-1995 en voor 01-09-2011 en waarvan het CIZ heeft vastgesteld dat zij op 1 september 2015 naar school gaan, de geïndiceerde zorgomvang met ingang van 1 september 2015 aangepast volgens onderstaand schema:  
+
+| Grondslagen  | PV  | VP  |
+|:---|:---|:---|
+| VG + som  | +1 klasse  | –  |
+| VG + LG  | +1 klasse  | +1 klasse  |
 
 ### Artikel  9.3a  
 
@@ -825,12 +827,14 @@ b. verpleging in verband met een behoefte aan thuisbeademing, behouden desgewens
 ### Artikel  9.3b  
 
 1.  Verzekerden die onmiddellijk voorafgaande aan de intrekking van de Algemene Wet Bijzondere Ziektekosten op grond van een indicatie voor extramurale zorg een persoonsgebonden budget ontvingen of zorg in natura genoten, die voor 1 januari 2015 via de cliëntenorganisaties Ieder(in) of Per Saldo een indicatie als bedoeld in artikel 3.2.3 van de wet hebben aangevraagd en aan wie het CIZ op basis van een advies van een van deze of van beide cliëntenorganisaties deze indicatie heeft verschaft, behouden gedurende de geldigheidsduur van deze indicatie hun recht op zorg als zouden zij verzekerden als bedoeld in artikel 11.1.1, zesde lid, van de wet zijn.   
-2.  Tenzij de gezondheidssituatie van de verzekerde dan wel toepasselijkheid van artikel 3.2.4, aanhef, en onderdeel a, van de wet, noodzaakt tot een gedurende 2015 ingaande herindicatie, geldt een indicatiebesluit dat volgens de in het eerste lid bedoelde procedure tot stand is gekomen tot 1 januari 2016.  
+2.  Tenzij de gezondheidssituatie van de verzekerde dan wel toepasselijkheid van artikel 3.2.4, aanhef, en onderdeel a, van de wet, noodzaakt tot een gedurende de jaren 2015 dan wel 2016 ingaande herindicatie, geldt een indicatiebesluit dat volgens de in het eerste lid bedoelde procedure tot stand is gekomen tot 1 januari 2017.   
+3.  Artikel 9.3, vierde lid, is van overeenkomstige toepassing. 
 
 ### Artikel  9.3c  
 
 1.  Indien een verzekerde als bedoeld in artikel 11.1.1, zesde lid, van de wet of in artikel 9.3a of 9.3b tijdens de periode van zijn overgangrecht een herindicatie aanvraagt, indiceert het CIZ hem op basis van de bij en krachtens de Algemene Wet Bijzondere Ziektekosten gestelde regels zoals deze op 31 december 2014 luidden.   
-2.  Het CIZ geeft een besluit tot herindicatie als bedoeld in het derde lid een geldigheidsduur die de duur van het voor de verzekerde geldende overgangsrecht niet overschrijdt.  
+2.  Het CIZ geeft een besluit tot herindicatie als bedoeld in het eerste lid een geldigheidsduur die de duur van het voor de verzekerde geldende overgangsrecht niet overschrijdt.   
+3.   ndien een verzekerde als bedoeld in artikel 11.1.1, zesde lid, van de wet of artikel 9.3b tijdens de periode van zijn overgangsrecht een herindicatie aanvraagt zijn de artikelen 9.3, vierde lid, en 9.3b, derde lid, van overeenkomstige toepassing. 
 
 ### Artikel  9.4  
 
@@ -852,6 +856,38 @@ Indien een op 31 december 2014 geldig indicatiebesluit als bedoeld in artikel 4
 a. de Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van sociale zekerheidsstelsels (PbEU 2004, L 166), of  
 
 b. een Verdrag waarbij Nederland partij is.   
+
+### Artikel  9.8  
+
+1.  Het in het indicatiebesluit opgenomen zorgzwaartepakket van de verzekerde, bedoeld in artikel 11.1.1, eerste lid, van de wet wordt met ingang van de datum waarop de Algemene Wet Bijzondere Ziektekosten is ingetrokken, met toepassing van bijlage A bij deze regeling ambtshalve omgezet in een bij de verzekerde best passende zorgprofiel als bedoeld in artikel 3.1.1, eerste lid, van het Besluit.   
+2.  Het in het indicatiebesluit opgenomen zorgzwaartepakket van de verzekerde, bedoeld in artikel 11.1.1, tweede lid, van de wet wordt met ingang van de datum waarop de Algemene Wet Bijzondere Ziektekosten is ingetrokken, met toepassing van bijlage F bij deze regeling ambtshalve omgezet in een bij de verzekerde best passend zorgprofiel.   
+3.  Het in het indicatiebesluit opgenomen zorgzwaartepakket van de verzekerde, bedoeld in artikel 11.1.1, derde lid, van de wet wordt eerst met ingang van de datum waarop hij in een instelling is gaan verblijven overeenkomstig het tweede lid ambtshalve omgezet in een bij de verzekerde best passend zorgprofiel.   
+4.  Artikel 3.2.5 van het Besluit en artikel 3.2 zijn van overeenkomstige toepassing op de verzekerden, bedoeld in het eerste lid.   
+5.  Artikel 3.2.5 van het Besluit is van overeenkomstige toepassing op de verzekerden, bedoeld in het tweede en derde lid.   
+6.  Met betrekking de omzetting, bedoeld in het derde lid, is artikel 9.1.2 van de wet van overeenkomstige toepassing.  
+
+### Artikel  9.9  
+
+1.  Indien een verzekerde als bedoeld in artikel 11.1.1, eerste lid, van de wet anders dan met de bedoeling om buiten een instelling te gaan verblijven een herindicatie aanvraagt en het CIZ constateert dat hij niet voldoet aan artikel 3.2.1, eerste lid, van de wet indiceert het CIZ voor hem één van de zorgprofielen, bedoeld in bijlage F.   
+2.  De artikelen 11.1.1, eerste lid, 11.1.2, derde lid, en 11.1.4 van de wet zijn van overeenkomstige toepassing op een verzekerde voor wie na toepassing van het eerste lid een zorgprofiel als bedoeld in bijlage F is geïndiceerd.   
+3.  Met betrekking tot de herindicatie, bedoeld in het eerste lid, is artikel 9.1.2 van de wet van overeenkomstige toepassing.  
+
+### Artikel  9.10  
+
+1.  Indien een verzekerde als bedoeld in artikel 11.1.1, tweede of derde lid, van de wet tijdens de periode van zijn overgangrecht, een herindicatie aanvraagt, en het CIZ constateert dat hij geen behoefte heeft aan permanent toezicht of vierentwintig uur per dag zorg in de nabijheid als bedoeld in artikel 3.2.1, eerste lid, van de wet, indiceert het CIZ hem met toepassing van bijlage F bij deze regeling in een bij de verzekerde best passend zorgprofiel.   
+2.  Het CIZ geeft een besluit tot herindicatie van een verzekerde als bedoeld in artikel 11.1.1, derde lid, van de wet een geldigheidsduur die de duur van het voor de verzekerde geldende overgangsrecht niet overschrijdt.   
+3.  Met betrekking tot de herindicatie, bedoeld in het eerste lid, is artikel 9.1.2 van de wet van overeenkomstige toepassing.  
+
+### Artikel  9.11  
+
+1.  Een verzekerde die onmiddellijk voorafgaand aan de intrekking van de Algemene Wet Bijzondere Ziektekosten op grond van een indicatiebesluit is aangewezen op een zorgzwaartepakket als bedoeld in artikel 11.1.1, eerste lid, van de wet waarbij de datum van ingang van dat zorgzwaartepakket ligt na de datum van intrekking van de Algemene Wet Bijzondere Ziektekosten, wordt met ingang van de datum van ingang van dat zorgzwaartepakket voor de toepassing van deze wet gelijkgesteld met een verzekerde als bedoeld in artikel 11.1.1, eerste lid, van de wet ten aanzien van wie het CIZ heeft vastgesteld dat hij voldoet aan artikel 3.2.1, eerste of derde lid, van de wet. Artikel 9.8, eerste en vierde lid, is van overeenkomstige toepassing.   
+2.  Een verzekerde die onmiddellijk voorafgaand aan de intrekking van de Algemene Wet Bijzondere Ziektekosten op grond van een indicatiebesluit is aangewezen op een zorgzwaartepakket als bedoeld in artikel 11.1.1, tweede lid, van de wet waarbij de datum van ingang van dat zorgzwaartepakket ligt na de datum van intrekking van de Algemene Wet Bijzondere Ziektekosten, wordt met ingang van de datum van ingang van dat zorgzwaartepakket voor de toepassing van deze wet gelijkgesteld met een verzekerde als bedoeld in artikel 11.1.1, tweede lid, van de wet ten aanzien van wie het CIZ heeft vastgesteld dat hij voldoet aan artikel 3.2.1, eerste lid, van de wet. Artikel 9.8, tweede en vijfde lid, is van overeenkomstige toepassing.  
+
+### Artikel  9.12  
+
+1.  Een verzekerde als bedoeld in artikel 11.1.1, zesde lid, van de wet ontvangt in aanvulling op dat artikel van het CIZ een op 1 januari 2015 ingaand indicatiebesluit als bedoeld in artikel 3.2.3 van de wet, met een geldigheidsduur tot 1 januari 2017.   
+2.  Voor een verzekerde als bedoeld in artikel 11.1.2, zevende lid, van de wet is de hoogte van het persoonsgebonden budget in aanvulling op dat artikel tot 1 januari 2017 gelijk aan de hoogte van het budget dat hij onder de Algemene Wet Bijzondere Ziektekosten ontving.   
+3.  Het tweede lid geldt niet indien de gezondheidssituatie van de verzekerde dan wel toepasselijkheid van artikel 3.2.4, aanhef en onderdeel a, van de wet, noodzaakt tot een gedurende de jaren 2015 of 2016 ingaande herindicatie.  
 
 ### Hoofdstuk  10  
 
@@ -904,20 +940,16 @@ Zorgprofielen integraal pakket als bedoeld in artikel 3.1.1, eerste lid, van het
 | LVG Besloten wonen met zeer intensieve behandeling en begeleiding  | 5 LVG*  |
 | LVG Behandeling in een SGLVG behandelcentrum  | 1 SGLVG*  |
 |  *Sector Lichamelijk Gehandicapt (LG)*   | --- |
-| LG Wonen met enige begeleiding en enige verzorging (2015)  | 1 LG  |
 | LG Wonen met begeleiding en enige verzorging  | 2 LG  |
-| LG Wonen met enige begeleiding en verzorging (2015)  | 3 LG  |
 | LG Wonen met begeleiding en verzorging  | 4 LG  |
 | LG Wonen met begeleiding en intensieve verzorging  | 5 LG*  |
 | LG Wonen met intensieve begeleiding en intensieve verzorging  | 6 LG  |
 | LG Wonen met zeer intensieve begeleiding en zeer intensieve verzorging  | 7 LG*  |
 |  *Sector Zintuiglijk Gehandicapt, auditief en communicatief (ZGaud)*   | --- |
-| ZGaud Wonen met begeleiding en enige verzorging (2015)  | 1 ZGaud  |
 | ZGaud Wonen met intensieve begeleiding en verzorging  | 2 ZGaud  |
 | ZGaud Wonen met intensieve begeleiding en intensieve verzorging  | 3 ZGaud*  |
 | ZGaud Wonen met intensieve begeleiding en enige verzorging  | 4 ZGaud  |
 |  *Sector Zintuiglijk Gehandicapt, visueel (ZGvis)*   | --- |
-| ZGvis Wonen met enige begeleiding en enige verzorging (2015)  | 1 ZGvis  |
 | ZGvis Wonen met begeleiding en enige verzorging  | 2 ZGvis  |
 | ZGvis Wonen met intensieve begeleiding en verzorging  | 3 ZGvis  |
 | ZGvis Wonen met intensieve begeleiding en intensieve verzorging  | 4 ZGvis  |
@@ -1443,3 +1475,109 @@ Het aanvaardbaarheidspercentage voor een land dat in bovenstaande lijst ontbreek
 4. Indien een verzekerde krachtens zijn indicatiebesluit is aangewezen op ‘persoonlijke verzorging’ en daartoe klasse 8 vermeerderd met extra geïndiceerde uren geïndiceerd heeft gekregen, wordt het aantal uren ‘persoonlijke verzorging’, bedoeld in artikel 9.3.a, eerste lid, onderdeel a, bepaald door het aantal van 25 te vermeerderen met het aantal extra geïndiceerde uren.  
 
 5. Indien een verzekerde krachtens zijn indicatiebesluit is aangewezen op ‘verpleging’ en daartoe klasse 7 vermeerderd met extra geïndiceerde uren geïndiceerd heeft gekregen, wordt het aantal uren ‘verpleging’, bedoeld in artikel 9.3.a, eerste lid, onderdeel a, bepaald door het aantal van 20 te vermeerderen met het aantal extra geïndiceerde uren.  
+
+###Bijlage F 
+
+####bij de artikelen 9.8, tweede en derde lid , alsmede 9.9, eerste lid , van de Regeling langdurige zorg
+
+####Zorgprofielen als bedoeld in de artikelen 9.8, tweede en derde lid , alsmede 9.9, eerste lid , van de Regeling langdurige zorg (met conversietabel zzp's Algemene Wet Bijzondere Ziektekosten)
+
+| VV  | Beschut wonen met enige begeleiding  | Zorgprofiel  |
+|:---|:---|:---|
+| Deze cliëntgroep heeft enige begeleiding nodig, in een beschutte woonomgeving, omdat ze niet meer helemaal zelfstandig kan wonen.  De cliënten hebben ten aanzien van hun *sociale redzaamheid *vooral behoefte aan enige begeleiding op het gebied van het nemen van besluiten, het komen tot oplossingen, deelname aan het maatschappelijk leven, het uitvoeren van complexere taken en het huishoudelijk leven. De begeleiding bestaat uit toezicht of stimulatie. Betreffende het uitvoeren van complexere taken kan ook overname van zorg nodig zijn.  De cliënten hebben in het algemeen weinig ondersteuning nodig ten aanzien van de *psychosociale/cognitieve functies.* Vanwege bijvoorbeeld eenzaamheid of lusteloosheid kan bij deze cliënten af en toe behoefte bestaan aan hulp, toezicht of sturing ten aanzien van motivatie, geheugen en denken en het psychosociaal welbevinden.  Ten aanzien van *ADL *zijn de cliënten meestal zelfstandig. Zij kunnen wel behoefte hebben aan toezicht en stimulatie betreffende kleine verzorgingstaken en wassen en kleden, zodat de cliënt zich goed blijft verzorgen.  Ten aanzien van *mobiliteit* zijn de cliënten in het algemeen redelijk zelfstandig. Betreffende het verplaatsen buitenshuis, het lopen van korte afstanden, kunnen cliënten wel behoefte hebben aan toezicht en stimulatie (bijvoorbeeld door aan te geven hoe ergens te komen).  Bij deze cliënten is geen sprake van *verpleging*.  Bij deze cliënten is meestal geen sprake van *gedragsproblematiek*.  Bij deze cliënten is meestal geen sprake van *psychiatrische problematiek*.  De *aard van het begeleidingsdoel *is bij de cliënten vaak stabilisatie.  Het *beperkingenbeeld* van deze cliënten verandert meestal langzaam.  De *dominante grondslag* voor dit cliëntprofiel is meestal een somatische ziekte/aandoening of een (beginnende) psychogeriatrische ziekte/aandoening.  |  *Gemiddelde scores beperkingen*   |
+| --- |
+|  *Aard van de psychiatrische problematiek*   |
+| --- |
+|  *Aard van het begeleidingsdoel*   |
+| --- |
+
+| VV  | Beschut wonen met begeleiding en verzorging  | Zorgprofiel  |
+|:---|:---|:---|
+| Deze cliëntgroep kan niet meer zelfstandig wonen en heeft vanwege vooral somatische problematiek dagelijks behoefte aan begeleiding en verzorging in een beschutte woonomgeving.  De cliënten hebben ten aanzien van hun *sociale redzaamheid *in het algemeen weinig ondersteuning nodig. Met name kan behoefte bestaan aan toezicht of stimulatie betreffende deelname aan het maatschappelijk leven en besluitnemings- en oplossingsvaardigheden. Bij het uitvoeren van complexere taken en het huishoudelijk leven kan ook behoefte bestaan aan het overnemen van zorg. Er kan sprake zijn van een beginnend verlies van regie over het dagelijks leven.  De cliënten kunnen ten aanzien van alle *psychosociale/cognitieve functies* af en toe behoefte hebben aan hulp, toezicht en sturing, met name vanwege beperkingen met betrekking tot geheugen en denken, concentratie en motivatie.  Ten aanzien van *ADL* hebben de cliënten betreffende de kleine verzorgingstaken, het wassen en het aan- en uitkleden dagelijks behoefte aan hulp. Betreffende eten en drinken en de toiletgang bestaat bij de cliënten soms behoefte aan toezicht en stimulatie.  Ten aanzien van *mobiliteit* hebben de cliënten betreffende het verplaatsen binnenshuis soms hulp nodig (voor veel cliënten is bijvoorbeeld een rollator voldoende). Voor het verplaatsen buitenshuis hebben cliënten (naast eventueel de hulp van een rollator) behoefte aan toezicht en stimulatie.  In een beperkt aantal gevallen is sprake van *verpleegkundige* aandacht.  Bij deze cliënten is meestal geen sprake van *gedragsproblematiek *en ook geen sprake van *psychiatrische problematiek*.  De *aard van het begeleidingsdoel *is bij deze cliënten vaak stabilisatie of begeleiding bij achteruitgang. De zorgbehoefte kan in de tijd wisselend van aard zijn en er is behoefte aan zorg op meerdere momenten per dag.  Het *beperkingenbeeld *van deze cliënten verandert langzaam.  De *dominante grondslag *voor dit cliëntprofiel is meestal een somatische ziekte/aandoening of een (beginnende) psychogeriatrische ziekte/aandoening.  |  *Gemiddelde scores beperkingen*   |
+| --- |
+|  *Aard van de psychiatrische problematiek*   |
+| --- |
+|  *Aard van het begeleidingsdoel*   |
+| --- |
+
+| VV  | Beschut wonen met begeleiding en intensieve verzorging  | Zorgprofiel  |
+|:---|:---|:---|
+| Deze cliëntgroep heeft vanwege omvangrijke somatische problematiek behoefte aan begeleiding en vooral ook intensieve verzorging, in een beschutte woonomgeving.  De cliënten hebben ten aanzien van *sociale redzaamheid* hulp nodig betreffende deelname aan het maatschappelijk leven, besluitnemings-/oplossingsvaardigheden, uitvoeren van eenvoudige taken en dagelijkse routine. Betreffende de communicatie is veelal toezicht of stimulatie nodig. Betreffende het uitvoeren van complexere taken en het huishoudelijke leven moet vaak overname van zorg plaatsvinden. Er is vaak sprake van een beginnend verlies van regie over het dagelijks leven.  De cliënten hebben vanwege het verlies aan geestelijke spankracht ten aanzien van verschillende *psychosociale/cognitieve functies* vaak hulp, toezicht of sturing nodig; het betreft concentratie, geheugen en denken, motivatie en psychosociaal welbevinden.  Ten aanzien van *ADL *hebben de cliënten op verschillende terreinen hulp nodig, het betreft de kleine verzorgingstaken, de zorg voor tanden, haren, nagels en huid, het wassen en kleden en de toiletgang. Bij het eten en drinken is vaak toezicht en stimulatie nodig.  Ten aanzien van *mobiliteit *binnenshuis en het bewegen/maken van transfers (opstaan/zitten, in/uit bed) hebben cliënten regelmatig behoefte aan hulp. Betreffende de mobiliteit buitenshuis is vaak hulp of overname van zorg nodig.  Cliënten kunnen een kwetsbare gezondheid hebben vanwege een chronische ziekte die voortdurende *verpleegkundige aandacht* vereist.  Bij deze cliënten is meestal geen sprake van *gedragsproblematiek*.  Bij deze cliënten is meestal geen sprake van *psychiatrische problematiek*.  De *aard van het begeleidingsdoel *is bij deze cliënten gericht op begeleiding bij achteruitgang of op stabilisatie.  Het *beperkingenbeeld* van deze cliënten verandert langzaam tot snel.  De *dominante grondslag *voor dit cliëntprofiel is meestal een somatische ziekte/aandoening.  |  *Gemiddelde scores beperkingen*   |
+| --- |
+|  *Aard van de psychiatrische problematiek*   |
+| --- |
+|  *Aard van het begeleidingsdoel*   |
+| --- |
+
+| VG  | Wonen met enige begeleiding  | Zorgprofiel voor verzekerden van achttien tot en met tweeëntwintig jaar  |
+|:---|:---|:---|
+| Deze cliëntgroep functioneert sociaal redelijk zelfstandig. De cliënten zijn zich bewust van de verstandelijke handicap en van de gevolgen daarvan voor het sociaal functioneren. Cliënten kunnen ondersteuning soms moeilijk accepteren.  De cliënten hebben ten aanzien van hun *sociale redzaamheid* beperkte begeleiding nodig. Dit betreft met name toezicht en stimulatie bij het aangaan van sociale relaties en contacten en deelname aan het maatschappelijk leven. Met betrekking tot besluitnemings- en oplossingsvaardigheden en (schriftelijke) communicatie is naast toezicht en stimulatie soms hulp nodig. Bij het uitvoeren van complexere taken hebben cliënten veelal hulp nodig.  De cliënten hebben ten aanzien van de *psychosociale/cognitieve functies* af en toe hulp, toezicht of sturing nodig. Dit betreft met name het geheugen en denken, concentratie en het psychosociaal welbevinden.  Cliënten hebben in het algemeen geen hulp nodig bij *ADL.* Ten aanzien van kleine verzorgingstaken en het wassen kan toezicht of stimulatie nodig zijn.  Ten aanzien van *mobiliteit* is doorgaans geen hulp nodig.  Bij deze cliënten is meestal geen sprake van *verpleging*.  Bij deze cliënten is meestal geen sprake van *gedragsproblematiek*.  Bij deze cliënten is meestal geen sprake van *psychiatrische problematiek*.  De *aard van het begeleidingsdoel* is gericht op stabilisatie of ontwikkeling. Dit richt zich met name op vermaatschappelijking.  De *dominante grondslag* voor dit cliëntprofiel is meestal een verstandelijke handicap (functiestoornis).  |  *Gemiddelde scores beperkingen*   |
+| --- |
+|  *Aard van de psychiatrische problematiek*   |
+| --- |
+|  *Aard van het begeleidingsdoel*   |
+| --- |
+
+| VG  | Wonen met begeleiding  | Zorgprofiel voor verzekerden van achttien jaar tot en met tweeëntwintig jaar  |
+|:---|:---|:---|
+| Deze cliëntgroep functioneert sociaal beperkt zelfstandig. Cliënten zijn zich onvoldoende bewust van de verstandelijke handicap waardoor er op sociaal-emotioneel gebied problemen kunnen ontstaan. In de vaste vertrouwde omgeving kan de cliënt zich oriënteren. Een belangrijk doel van de begeleiding is het bieden van een veilige en vertrouwde leef- en werkwoonomgeving en/of het trainen naar wonen met enige begeleiding.  Ten aanzien van de *sociale redzaamheid* van cliënten is zowel toezicht of stimulatie nodig als concrete hulp. Hulp is met name nodig met betrekking tot lezen, schrijven en rekenen, de regievoering over het dagelijks leven (dagelijkse routine), het nemen van besluiten, het zoeken van oplossingen en het communiceren met anderen. Daarnaast hebben cliënten vaak moeite met het zelfstandig contacten maken met anderen, deelnemen aan clubs en vrijetijdsbesteding buitenshuis en het naar algemene voorzieningen gaan. Op dit gebied hebben cliënten hulp nodig.  Met betrekking tot de *psychosociale/cognitieve functies *hebben cliënten af en toe hulp, toezicht en sturing nodig. Met name waar het gaat om geheugen en denken en het psychosociaal welbevinden.  Ten aanzien van *ADL* hebben de cliënten in het algemeen geen hulp nodig. Alleen met betrekking tot het verrichten van de kleine verzorgingstaken, de persoonlijke zorg voor tanden, haren, nagels, huid en bij het wassen kan sprake zijn van toezicht of stimulatie.  Ten aanzien van *mobiliteit *hebben de cliënten doorgaans geen hulp nodig.  Bij deze cliënten is doorgaans geen sprake van *verpleging*.  Bij deze cliënten is niet of in geringe mate sprake van *gedragsproblematiek* en *psychiatrische problematiek.*   De *aard van het begeleidingsdoel* is gericht op stabilisatie of ontwikkeling.  Dit uit zich bijvoorbeeld (waar mogelijk) in vermaatschappelijking.  De *dominante grondslag* voor dit cliëntprofiel is meestal een verstandelijke handicap (functiestoornis).  |  *Gemiddelde scores beperkingen*   |
+| --- |
+|  *Aard van de psychiatrische problematiek*   |
+| --- |
+|  *Aard van het begeleidingsdoel*   |
+| --- |
+
+| LG  | Wonen met enige begeleiding en enige verzorging.  | Zorgprofiel  |
+|:---|:---|:---|
+| Cliënten zijn licht lichamelijk gehandicapt, functioneren sociaal grotendeels zelfstandig binnen een bepaalde structuur en hebben een goed besef van tijd, plaats en persoon.  De cliënten kunnen grotendeels zelf de regie voeren over hun eigen leven, zij hebben daarbij ten aanzien van de *sociale redzaamheid* toezicht of stimulatie nodig. Dit kan met name het geval zijn bij besluitnemings- en oplossingsvaardigheden en bij het uitvoeren van complexe taken.  De cliënten hebben ten aanzien van de *psychosociale/cognitieve functies *af en toe hulp, toezicht of sturing nodig. Dit kan met name het geval zijn ten aanzien van concentratie, geheugen en denken, prikkelgevoeligheid en het psychosociaal welbevinden van de cliënten.  De cliënten kunnen *ADL *zelf uitvoeren, er is hooguit af en toe toezicht of stimulatie nodig, bijvoorbeeld bij het wassen en aan- en uitkleden.  Ten aanzien van de *mobiliteit* zijn de cliënten vrijwel volledig zelfstandig, er kan af en toe toezicht of stimulatie nodig zijn.  Er is doorgaans geen of in geringe mate sprake van *verpleging.*   Er is meestal geen sprake van *gedrags- of psychiatrische problematiek*.  De *aard van het begeleidingsdoel* is veelal gericht op stabilisatie of ontwikkeling.  De* dominante grondslag* voor dit cliëntprofiel is meestal een lichamelijke handicap (functiestoornis).  |  *Gemiddelde scores beperkingen*   |
+| --- |
+|  *Aard van de psychiatrische problematiek*   |
+| --- |
+|  *Aard van het begeleidingsdoel*   |
+| --- |
+
+|--- | LG Wonen met enige begeleiding en verzorging.  | Zorgprofiel  |
+|:---|:---|:---|
+| Cliënten zijn ernstig lichamelijk gehandicapt en functioneren sociaal grotendeels zelfstandig binnen een bepaalde structuur.  Cliënten kunnen voor een groot deel zelf de regie voeren over hun eigen leven. Zij hebben hierbij ten aanzien van de *sociale redzaamheid* toezicht of stimulatie nodig. Echter bij de uitvoering van complexe taken en met betrekking tot het huishoudelijk leven kan behoefte bestaan aan hulp.  De cliënten hebben ten aanzien van de *psychosociale/cognitieve functies *af en toe hulp, toezicht of sturing nodig. Dit kan met name het geval zijn bij informatieverwerking, perceptie van zichzelf en psychosociaal welbevinden van de cliënten. Cliënten hebben een goed besef van tijd, plaats en persoon.  De cliënten kunnen een aantal aspecten van *ADL *niet of met veel moeite zelf uitvoeren, er is veelal sprake van behoefte aan hulp bij het wassen, kleden en de toiletgang. Bij andere ADL-taken is meer sprake van toezicht of stimulatie.  Ten aanzien van de* mobiliteit* hebben cliënten behoefte aan toezicht of stimulatie. Er kan wel vaak hulp, toezicht  of stimulatie nodig zijn bij transfers en het voortbewegen binnenshuis. Het kan voorkomen dat hierbij hulpmiddelen nodig zijn. Met betrekking tot de motoriek kan af en toe behoefte zijn aan hulp, toezicht of sturing.  Af en toe kan *verpleegkundige aandacht* nodig zijn.  Er is meestal geen sprake van *gedrags- of psychiatrische problematiek*.  De *aard van het begeleidingsdoel* is veelal gericht op stabilisatie, soms op ontwikkeling of begeleiding bij achteruitgang. De cliënten hebben een structurele zorgbehoefte, op zowel geplande als op niet geplande tijden.  De *dominante grondslag* voor dit cliëntprofiel is meestal een lichamelijke handicap (functiestoornis).  |  *Gemiddelde scores beperkingen*   |
+| --- |
+|  *Aard van de psychiatrische problematiek*   |
+| --- |
+|  *Aard van het begeleidingsdoel*   |
+| --- |
+
+| ZG  | (visueel) Wonen met enige begeleiding en enige verzorging.  | Zorgprofiel  |
+|:---|:---|:---|
+| De cliënten zijn enkelvoudig visueel gehandicapt en hebben een beperkte andere problematiek.  De cliënten hebben ten aanzien van de *sociale redzaamheid* toezicht en stimulatie nodig. Dit kan met name het geval zijn bij communicatie, besluitnemings- en oplossingsvaardigheden en bij het uitvoeren van complexe taken.  De cliënten hebben ten aanzien van de *psychosociale/cognitieve functies *af en toe hulp, toezicht of sturing nodig. Dit kan met name het geval zijn bij geheugen en denken, concentratie, perceptie van de omgeving en zichzelf en bij het psychosociaal welbevinden van de cliënten.  De cliënten kunnen de *ADL* grotendeels zelf uitvoeren, er kan bij het eten en drinken toezicht of stimulatie nodig zijn.  De cliënten zijn zelfstandig met betrekking tot *mobiliteit*, er kan af en toe sprake zijn van behoefte aan toezicht of stimulatie bij het verplaatsen buitenshuis.  Er is doorgaans geen sprake van *verpleging*.   *Gedragsproblematiek* en *psychiatrische problematiek* zijn doorgaans niet aan de orde.   *De aard van het begeleidingsdoel* is meestal gericht op ontwikkeling of soms stabilisatie. De cliënten hebben een structurele zorgbehoefte, op zowel geplande als op niet geplande tijden.  De* dominante grondslag* voor dit cliëntprofiel is meestal een zintuiglijke handicap (functiestoornis).  |  *Gemiddelde scores beperkingen*   |
+| --- |
+|  *Aard van de psychiatrische problematiek*   |
+| --- |
+|  *Aard van het begeleidingsdoel*   |
+| --- |
+
+| ZG  | (auditief en communicatief) Wonen met begeleiding en enige verzorging.  | Zorgprofiel  |
+|:---|:---|:---|
+| De cliënten zijn auditief en/of communicatief gehandicapt, met eventueel andere problematiek.  De cliënten hebben ten aanzien van de *sociale redzaamheid* regelmatig hulp, toezicht of sturing nodig. Dit kan met name het geval zijn bij communicatie, besluitnemings- en oplossingsvaardigheden, het uitvoeren van eenvoudige taken en bij het uitvoeren van complexe taken.  De cliënten hebben ten aanzien van de *psychosociale/cognitieve functies *af en toe hulp, toezicht of sturing nodig. Met name ten aanzien van informatieverwerking, prikkelgevoeligheid en bij het psychosociaal welbevinden van de cliënten is vaker hulp, toezicht of sturing nodig.  De cliënten kunnen *ADL *grotendeels zelf uitvoeren, er is af en toe toezicht of stimulatie nodig. Dit kan met name het geval zijn bij het eten en drinken.  De cliënten zijn zeer zelfstandig met betrekking tot *mobiliteit*.  Er is doorgaans geen behoefte aan *verpleging.*   Er kan sprake zijn van *gedragsproblematiek*.  Er kan soms sprake zijn van *psychiatrische problematiek*, welke actief dan wel passief van aard kan zijn.   *De aard van het begeleidingsdoel* is veelal gericht op ontwikkeling, soms ook op stabilisatie.  De* dominante grondslag* voor dit cliëntprofiel is meestal een zintuiglijke handicap (functiestoornis).  |  *Gemiddelde scores beperkingen*   |
+| --- |
+|  *Aard van de psychiatrische problematiek*   |
+| --- |
+|  *Aard van het begeleidingsdoel*   |
+| --- |
+
+| GGZ-B  | Voortgezet verblijf met begeleiding  | Cliëntprofiel voor verzekerden jonger dan drieëntwintig jaar  |
+|:---|:---|:---|
+| Deze cliëntgroep heeft vanwege een psychiatrische aandoening een vorm van behandeling (geneeskundige zorg) nodig die het verblijf in een instelling noodzakelijk maakt. Daarnaast is begeleiding en vooral bescherming en stabiliteit nodig, in een veilige en weinig eisende verblijfsomgeving. De behandelaar is integraal verantwoordelijk voor het behandelplan en verblijf.  De cliënten hebben ten aanzien van hun *sociale redzaamheid* in het algemeen dagelijks begeleiding nodig, die naar intensiteit beperkt kan zijn. Er is sprake van enig verlies van zelfregie en mogelijk van een verstoord dag- en nachtritme. Cliënten hebben in beperkte mate problemen met het onderhouden van sociale relaties, het deelnemen aan het maatschappelijk leven en het invullen van de dag.  De cliënten hebben in het algemeen ondersteuning nodig ten aanzien van de *cognitieve/psychische functies*. Dit speelt met name bij concentratie, geheugen en denken, motivatie en het psychosociaal welbevinden.  De *aard van het behandel-/begeleidingsdoel *kan ontwikkelingsgericht zijn, zodanig dat terugkeer naar huis dan wel plaatsing in een beschermende woonomgeving mogelijk wordt. De behandeling is daarbij met name gericht op het herstel van het persoonlijk functioneren. Er is echter ook een groep cliënten die als chronisch is te beschouwen. Voor deze groep is stabilisatie en continuering van de situatie het uitgangspunt. Deze groep zal permanent behandeling nodig blijven hebben om verdere/nieuwe terugval te voorkomen.  Ten aanzien van *ADL* hebben de cliënten in het algemeen enige behoefte aan toezicht of stimulatie met betrekking tot de persoonlijke verzorging, de intensiteit daarvan is beperkt.  Ten aanzien van *mobiliteit* hebben de cliënten in het algemeen geen hulp nodig.  Bij deze cliënten is in het algemeen geen sprake van *gedragsproblematiek*.  De *psychiatrische problematiek *is bij deze cliënten in het algemeen zodanig ontwikkeld dat de psychiatrische symptomen onder controle zijn en dat deze in het dagelijks leven geen overheersende rol meer spelen. Er is sprake van een goede reactie op (depot)medicatie.  De *zorgverlening* is volgens afspraak en direct oproepbaar te leveren.  |  *Gemiddelde scores beperkingen*   |
+| --- |
+|  *Aard van de psychiatrische problematiek*   |
+| --- |
+|  *Behandel-/begeleidingsdoel*   |
+| --- |
+
+| GGZ-B   | Voortgezet verblijf met structuur en uitgebreide begeleiding   | Cliëntprofiel voor verzekerden jonger dan drieëntwintig jaar  |
+|:---|:---|:---|
+| Deze cliëntgroep heeft vanwege een psychiatrische aandoening een vorm van behandeling (geneeskundige zorg) nodig die het verblijf in een instelling noodzakelijk maakt. Daarnaast is er continu begeleiding nodig. De cliënten hebben een structuur, stabiliteit, bescherming en veiligheid biedende verblijfsomgeving nodig waarin toezicht wordt gehouden en die weinig eisen stelt. De behandelaar is integraal verantwoordelijk voor het behandelplan en verblijf.  De cliënten hebben ten aanzien van hun *sociale redzaamheid* dagelijkse uitgebreide begeleiding nodig. Er is sprake van verlies van zelfregie en van een verstoord dag- en nachtritme. Cliënten hebben problemen met het onderhouden van sociale relaties, het deelnemen aan het maatschappelijk leven en het invullen van de dag. Daarnaast zijn er beperkingen in de besluitnemings- en oplossingsvaardigheden en bij het initiëren en uitvoeren van complexere taken.  De cliënten hebben in het algemeen uitgebreide ondersteuning nodig ten aanzien van alle *cognitieve/psychische functies*.  De *aard van het behandel-/begeleidingsdoel *kan ontwikkelingsgericht zijn, zodanig dat terugkeer naar huis dan wel plaatsing in een beschermende woonomgeving mogelijk wordt. De behandeling is daarbij met name gericht op het herstel van het persoonlijk functioneren. Er is echter ook een groep cliënten die als chronisch is te beschouwen. Voor deze groep is stabilisatie en continuering van de situatie het uitgangspunt. Tevens kan sprake zijn van begeleiding bij achteruitgang. Deze groep zal permanent behandeling nodig blijven hebben om verdere/nieuwe terugval te voorkomen.  Ten aanzien van *ADL* hebben de cliënten in het algemeen enige behoefte aan toezicht of stimulatie met betrekking tot de persoonlijke verzorging, de intensiteit daarvan is beperkt.  Ten aanzien van *mobiliteit* hebben de cliënten in het algemeen geen hulp nodig.  Bij deze cliënten kan terugkerend sprake zijn van enige *gedragsproblematiek*, maar die is hanteerbaar in de context van voortdurende begeleiding. Dit speelt met name bij manipulatief gedrag en reactief gedrag met betrekking tot interactie.  De *psychiatrische problematiek *is bij deze cliënten in het algemeen zodanig ontwikkeld dat de psychiatrische symptomen onder controle zijn en dat deze in het dagelijks leven geen overheersende rol meer spelen. Er is sprake van een goede reactie op (depot)medicatie.  De* zorgverlening* is voortdurend in de nabijheid te leveren.  |  *Gemiddelde scores beperkingen*   |
+| --- |
+|  *Aard van de psychiatrische problematiek*   |
+| --- |
+|  *Behandel-/begeleidingsdoel*   |
+| --- |
+
