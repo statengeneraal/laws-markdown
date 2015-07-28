@@ -211,6 +211,17 @@ Bij ministeriële regeling kunnen regels worden gesteld inzake de vergoeding doo
 1.  Een aangewezen instantie zendt jaarlijks voor 1 juni een verslag van de werkzaamheden in het afgelopen kalenderjaar aan Onze Minister.   
 2.  Bij ministeriële regeling kunnen nadere eisen worden gesteld aan het verslag.  
 
+### Paragraaf  3a  
+
+####Interne instantie
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  21a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Bij of krachtens algemene maatregel van bestuur worden eisen vastgesteld waaraan een interne instantie die werkzaamheden uitvoert in het kader van een conformiteitsbeoordeling moet voldoen en waaraan de fabrikant waar de interne instantie onderdeel van uitmaakt moet voldoen inzake het verstrekken van inlichtingen aan Onze Minister over deze instantie. 
+
 ### Hoofdstuk  5  
 
 ####Verboden

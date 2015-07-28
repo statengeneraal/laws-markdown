@@ -3,17 +3,17 @@
 ##Besluit van de Staatssecretaris van Veiligheid en Justitie van 10 september 2013, nr. BOACAT2013/046, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de dienst Beveiliging, Bewaking en Vervoer van de rechtbank Amsterdam
 
 De Staatssecretaris van Veiligheid en Justitie,  
-Gelezen het verzoek van de Rechtbank Amsterdam van 12 juli 2013 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Amsterdam en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);
+Gelezen het verzoek van de Rechtbank Amsterdam van 12 juli 2013 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Amsterdam en de korpschef als bedoeld in artikel 27 van de Politiewet 2012;
 
 Gelet op:
 
-– [artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
+– artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering;  
 
-– [artikel 7 van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
+– artikel 7 van de Politiewet 2012;  
 
-– [artikel 36, eerste lid](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md);  
+– artikel 36, eerste lid, en artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar;  
 
-– [artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).     Besluit:    
+– artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten.     Besluit:    
 
 ### Artikel  1  
 
@@ -27,15 +27,15 @@ b.  *de dienst BB&V:* de dienst Beveiliging, Bewaking en Vervoer van de rechtban
 
 De personen in dienst van de dienst BB&V in functie belast met: 
 
-a. de uitvoering van de dienst bij de gerechten als bedoeld in [artikel 124, vijfde lid, van het Wetboek van Strafvordering](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
+a. de uitvoering van de dienst bij de gerechten als bedoeld in artikel 124, vijfde lid, van het Wetboek van Strafvordering;  
 
-b. de werkzaamheden als bedoeld in [artikelen 373](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [391](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [541, tweede lid](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [556, eerste lid](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [587, tweede lid van het Wetboek van Strafvordering](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
+b. de werkzaamheden als bedoeld in artikelen 373, 391, 541, tweede lid, 556, eerste lid, en 587, tweede lid van het Wetboek van Strafvordering;  
 
-c. het vervoer van rechtens van hun vrijheid beroofde personen als bedoeld in [artikel 9, zesde lid, van de Politiewet 1993](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md),   zijn aangewezen als buitengewoon opsporingsambtenaar. 
+c. het vervoer van rechtens van hun vrijheid beroofde personen als bedoeld in artikel 9, zesde lid, van de Politiewet 1993,   zijn aangewezen als buitengewoon opsporingsambtenaar. 
 
 ### Artikel  3  
 
-1.  De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, van [bijlage A-I van de Circulaire Buitengewoon opsporingsambtenaar](../../../../../../../../circulaire/circulaire/buitengewoon/opsporingsambtenaar/BWBR0029447/README.md).   
+1.  De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, van bijlage A-I van de Circulaire Buitengewoon opsporingsambtenaar.   
 2.  De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.   
 3.  De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.  
 
@@ -45,12 +45,12 @@ Op grond van dit besluit kunnen maximaal 150 personen als buitengewoon opsporing
 
 ### Artikel  5  
 
-1.  Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de hoofdofficier van justitie bij het arrondissementsparket Amsterdam.   
-2.  Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
+1.  Als toezichthouder als bedoeld in artikel 36 van het Besluit buitengewoon opsporingsambtenaar is aangewezen de hoofdofficier van justitie bij het arrondissementsparket Amsterdam.   
+2.  Als direct toezichthouder als bedoeld in artikel 36 van het Besluit buitengewoon opsporingsambtenaar is aangewezen de korpschef als bedoeld in artikel 27 van de Politiewet 2012.  
 
 ### Artikel  6  
 
-De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien, korte wapenstok, pepperspray en vuurwapen. 
+De buitengewoon opsporingsambtenaar kan de in artikel 7, eerste en derde lid, van de Politiewet 2012 omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien, korte wapenstok, pepperspray en vuurwapen. 
 
 ### Artikel  7  
 
@@ -65,11 +65,11 @@ c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opspo
 
 ### Artikel  8  
 
-Het [Besluit buitengewoon opsporingsambtenaar](../../../../../../../../ministeriele-regeling/besluit/buitengewoon/opsporingsambtenaar/dienst/beveiliging/bewaking/en/etc/BWBR0024437/README.md), nr. 5561670/Justis/08, van 26 augustus 2008, zal vervallen op 1 oktober 2013. 
+Het Besluit buitengewoon opsporingsambtenaar, nr. 5561670/Justis/08, van 26 augustus 2008, zal vervallen op 1 oktober 2013. 
 
 ### Artikel  9  
 
-De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het [in artikel 8 genoemde besluit](../../../../../../../../ministeriele-regeling/besluit/buitengewoon/opsporingsambtenaar/dienst/beveiliging/bewaking/en/etc/BWBR0024437/README.md), worden geacht mede te zijn afgegeven op basis van dit besluit. 
+De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in artikel 8 genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit. 
 
 ### Artikel  10  
 
