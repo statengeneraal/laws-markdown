@@ -3,7 +3,7 @@
 ##Regeling van de Nederlandsche Bank N.V. van 11 december 2006, nr. Juza/2006/02412/IH, houdende regels met betrekking tot aanvullend prudentieel toezicht op kredietinstellingen, levensverzekeraars, schadeverzekeraars en beleggingsondernemingen die tot een financiële groep behoren (Regeling prudentieel toezicht financiële groepen Wft)
 
 De Nederlandsche Bank N.V.,  
-Gelet op de [artikelen 4, tweede en derde lid](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md), [5, tweede en derde lid](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md), [6, vijfde lid](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md), [24, tweede lid](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md), [26, vierde lid](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md), en [27, vierde lid, van het Besluit prudentieel toezicht financiële groepen Wft](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md);
+Gelet op de artikelen 4, tweede en derde lid, 5, tweede en derde lid, 6, vijfde lid, 24, tweede lid, 26, vierde lid, en 27, vierde lid, van het Besluit prudentieel toezicht financiële groepen Wft;
 
 Na raadpleging van de betrokken representatieve organisaties;
 Besluit:     
@@ -15,7 +15,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. Besluit: [Besluit prudentieel toezicht financiële groepen Wft](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md);  
+a. Besluit: Besluit prudentieel toezicht financiële groepen Wft;  
 
 b. DNB: De Nederlandsche Bank N.V.;  
 
@@ -25,19 +25,19 @@ d.retrocessie: overeenkomst waarbij een verzekeraar een gedeelte van het door he
 
 e. totale positie: totale positie van overeenkomsten tussen een kredietinstelling, beleggingsonderneming, levensverzekeraar, schadeverzekeraar of herverzekeraar, die deel uit maakt van een groep, met een andere onderneming van de groep of het financieel conglomeraat;  
 
-f. wet: [Wet op het financieel toezicht](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+f. wet: Wet op het financieel toezicht.   
 
 ### §  2  
 
 ####Intragroepovereenkomsten en posities kredietinstellingen met een gemengde holding
 
-####Bepalingen ter uitvoering van [artikel 4, tweede en derde lid, van het Besluit](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md)
+####Bepalingen ter uitvoering van artikel 4, tweede en derde lid, van het Besluit
 
 ### Artikel  2  
 
-1.  Een kredietinstelling als bedoeld in [artikel 3:280, eerste lid, van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) rapporteert alle significante intragroepovereenkomsten en -posities met de gemengde holding en haar dochterondernemingen met gebruikmaking van blad 1 van het rapportageformulier opgenomen in de bijlage behorende bij deze regeling. De rapportage wordt uiterlijk twee maanden na afloop van het boekjaar bij DNB ingediend.   
+1.  Een kredietinstelling als bedoeld in artikel 3:280, eerste lid, van de wet rapporteert alle significante intragroepovereenkomsten en -posities met de gemengde holding en haar dochterondernemingen met gebruikmaking van blad 1 van het rapportageformulier opgenomen in de bijlage behorende bij deze regeling. De rapportage wordt uiterlijk twee maanden na afloop van het boekjaar bij DNB ingediend.   
 2.  Van een significante individuele intragroepovereenkomst is sprake wanneer het bedrag van de hieruit voortvloeiende positie meer bedraagt dan twintig procent van de kapitaaltoereikendheidsvereiste van de kredietinstelling, die de overeenkomst is aangegaan. Van een significante totale positie is sprake indien deze positie meer bedraagt dan twintig procent van de kapitaaltoereikendheidsvereiste van de kredietinstelling.   
-3.  Een kredietinstelling, die tevens is onderworpen aan het toezicht als bedoeld in [artikel 3:298 van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), kan in plaats van de in het eerste lid bedoelde rapportage volstaan met de rapportage als bedoeld in paragraaf 7 van deze regeling.   
+3.  Een kredietinstelling, die tevens is onderworpen aan het toezicht als bedoeld in artikel 3:298 van de wet, kan in plaats van de in het eerste lid bedoelde rapportage volstaan met de rapportage als bedoeld in paragraaf 7 van deze regeling.   
 4.  Op verzoek van de kredietinstelling en na overleg met relevante toezichthoudende instanties kan DNB afwijken van het eerste en tweede lid.  
 
 ### Artikel  3  
@@ -58,13 +58,13 @@ b. met welke onderneming van de groep de intragroepovereenkomsten zijn aangegaan
 
 ####Intragroepovereenkomsten en posities verzekeraars in een verzekeringsgroep
 
-####Bepalingen ter uitvoering van [artikel 5, tweede en derde lid, van het Besluit](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md)
+####Bepalingen ter uitvoering van artikel 5, tweede en derde lid, van het Besluit
 
 ### Artikel  4  
 
-1.  Een verzekeraar als bedoeld in [artikel 3:284, tweede lid, aanhef, van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) rapporteert alle significante intragroepovereenkomsten en -posities met ondernemingen, bedoeld in [artikel 3:284, eerste lid, onderdelen a tot en met d, van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met gebruikmaking van blad 2 van het rapportageformulier opgenomen in de bijlage behorende bij deze regeling. De rapportage wordt uiterlijk vier maanden na afloop van het boekjaar bij DNB ingediend.   
+1.  Een verzekeraar als bedoeld in artikel 3:284, tweede lid, aanhef, van de wet rapporteert alle significante intragroepovereenkomsten en -posities met ondernemingen, bedoeld in artikel 3:284, eerste lid, onderdelen a tot en met d, van de wet met gebruikmaking van blad 2 van het rapportageformulier opgenomen in de bijlage behorende bij deze regeling. De rapportage wordt uiterlijk vier maanden na afloop van het boekjaar bij DNB ingediend.   
 2.  Van een significante individuele intragroepovereenkomst is sprake wanneer het bedrag van de hieruit voortvloeiende positie meer bedraagt dan twintig procent van de vereiste solvabiliteitsmarge van de verzekeraar. Van een significante totale positie is sprake indien deze positie meer bedraagt dan twintig procent van de vereiste solvabiliteitsmarge van de verzekeraar.   
-3.  Een verzekeraar, die tevens is onderworpen aan het toezicht als bedoeld in [artikel 3:298 van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), kan in plaats van de in het eerste lid bedoelde rapportage volstaan met de rapportage, bedoeld in paragraaf 7 van deze regeling, aangevuld met een rapportage over significantie intragroepposities met betrekking tot de in artikel 5, derde lid, onder e tot en met g, van deze regeling bedoelde categorieën van intragroepovereenkomsten en -posities, zoals opgenomen in blad 2 van het rapportageformulier.   
+3.  Een verzekeraar, die tevens is onderworpen aan het toezicht als bedoeld in artikel 3:298 van de wet, kan in plaats van de in het eerste lid bedoelde rapportage volstaan met de rapportage, bedoeld in paragraaf 7 van deze regeling, aangevuld met een rapportage over significantie intragroepposities met betrekking tot de in artikel 5, derde lid, onder e tot en met g, van deze regeling bedoelde categorieën van intragroepovereenkomsten en -posities, zoals opgenomen in blad 2 van het rapportageformulier.   
 4.  Op verzoek van de verzekeraar en na overleg met relevante toezichthoudende instanties kan DNB afwijken van het eerste en tweede lid.  
 
 ### Artikel  5  
@@ -99,41 +99,41 @@ g. overeenkomsten met betrekking tot kostentoedeling.   De gerapporteerde overig
 
 ####Aangepaste solvabiliteit verzekeraars in een verzekeringsgroep
 
-####Bepalingen ter uitvoering van [artikel 6, vijfde lid](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md), en [artikel 21, tweede lid, van het Besluit](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md)
+####Bepalingen ter uitvoering van artikel 6, vijfde lid, en artikel 21, tweede lid, van het Besluit
 
 ### Artikel  6  
 
-1.  Een verzekeraar als bedoeld in de [artikelen 3:285, eerste lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [3:286, eerste lid, van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), rapporteert de aangepaste solvabiliteit, bedoeld in de [artikelen 6](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md) en [21, van het Besluit](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md): 
+1.  Een verzekeraar als bedoeld in de artikelen 3:285, eerste lid, en 3:286, eerste lid, van de wet, rapporteert de aangepaste solvabiliteit, bedoeld in de artikelen 6 en 21, van het Besluit: 
 
-a. met gebruikmaking van blad 3 van het rapportageformulier, zoals opgenomen in de bijlage behorende bij deze regeling, indien de verzekeraar de aangepaste solvabiliteit rapporteert op basis van [methode 1 van bijlage A bij het Besluit](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md);  
+a. met gebruikmaking van blad 3 van het rapportageformulier, zoals opgenomen in de bijlage behorende bij deze regeling, indien de verzekeraar de aangepaste solvabiliteit rapporteert op basis van methode 1 van bijlage A bij het Besluit;  
 
-b. met gebruikmaking van blad 4 van het rapportageformulier, zoals opgenomen in de bijlage behorende bij deze regeling, indien de verzekeraar de aangepaste solvabiliteit rapporteert op basis van [methode 2 van bijlage A bij het Besluit](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md);  
+b. met gebruikmaking van blad 4 van het rapportageformulier, zoals opgenomen in de bijlage behorende bij deze regeling, indien de verzekeraar de aangepaste solvabiliteit rapporteert op basis van methode 2 van bijlage A bij het Besluit;  
 
-c. met gebruikmaking van blad 5 van het rapportageformulier, zoals opgenomen in de bijlage behorende bij deze regeling, indien de verzekeraar de aangepaste solvabiliteit rapporteert op basis van [methode 3 van bijlage A bij het Besluit](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md).     
+c. met gebruikmaking van blad 5 van het rapportageformulier, zoals opgenomen in de bijlage behorende bij deze regeling, indien de verzekeraar de aangepaste solvabiliteit rapporteert op basis van methode 3 van bijlage A bij het Besluit.     
 2.  De rapportage, bedoeld in het eerste lid, wordt uiterlijk vier maanden na afloop van het boekjaar bij DNB ingediend.  
 
 ### §  5  
 
 ####Aanvullende kapitaaltoereikendheid kredietinstellingen, levensverzekeraars, schadeverzekeraars, herverzekeraars en beleggingsondernemingen in een financieel conglomeraat
 
-####Bepalingen ter uitvoering van [artikel 24, tweede lid, van het Besluit](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md)
+####Bepalingen ter uitvoering van artikel 24, tweede lid, van het Besluit
 
 ### Artikel  7  
 
-1.  Een onderneming als bedoeld in [artikel 3:296, eerste lid, van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) dient de berekening, bedoeld in [artikel 24, eerste lid, van het Besluit](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md) uiterlijk vier maanden na afloop van het boekjaar bij DNB in.   
-2.  Indien de onderneming rapporteert volgens de in [Bijlage B van het Besluit](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md) opgenomen methode 1, rapporteert zij de berekening met gebruikmaking van blad 6 van het rapportageformulier opgenomen in de bijlage bij deze regeling.   
-3.  Indien de onderneming geen gebruik maakt van de in [Bijlage B van het Besluit](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md) opgenomen methode 1 stelt zij DNB daarvan direct na afloop van het boekjaar op de hoogte. Tenzij DNB anderszins heeft besloten op basis van [artikel 23, vierde lid, van het Besluit](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md), zal DNB het rapportageformulier vaststellen met inachtneming van [artikel 24, tweede lid, van het Besluit](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md).  
+1.  Een onderneming als bedoeld in artikel 3:296, eerste lid, van de wet dient de berekening, bedoeld in artikel 24, eerste lid, van het Besluit uiterlijk vier maanden na afloop van het boekjaar bij DNB in.   
+2.  Indien de onderneming rapporteert volgens de in Bijlage B van het Besluit opgenomen methode 1, rapporteert zij de berekening met gebruikmaking van blad 6 van het rapportageformulier opgenomen in de bijlage bij deze regeling.   
+3.  Indien de onderneming geen gebruik maakt van de in Bijlage B van het Besluit opgenomen methode 1 stelt zij DNB daarvan direct na afloop van het boekjaar op de hoogte. Tenzij DNB anderszins heeft besloten op basis van artikel 23, vierde lid, van het Besluit, zal DNB het rapportageformulier vaststellen met inachtneming van artikel 24, tweede lid, van het Besluit.  
 
 ### §  6  
 
 ####Risicoconcentraties kredietinstellingen, levensverzekeraars, schadeverzekeraars, herverzekeraars en beleggingsondernemingen in een financieel conglomeraat
 
-####Bepalingen ter uitvoering van [artikel 26, tweede, derde en vierde lid, van het Besluit](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md)
+####Bepalingen ter uitvoering van artikel 26, tweede, derde en vierde lid, van het Besluit
 
 ### Artikel  8  
 
-1.  Een onderneming als bedoeld in [artikel 3:297, eerste lid, van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), rapporteert alle significante risicoconcentraties op het niveau van het financiële conglomeraat, met uitzondering van risico’s uit hoofde van verzekeringsovereenkomsten en van uitzettingen bij of gegarandeerd door de Nederlandse Staat of Nederlandse lagere overheden, betreffende één individu of instelling dan wel een groep van onderling verbonden individuen of instellingen.   
-2.  De rapportage, bedoeld in [artikel 26, eerste lid, eerste zin, van het Besluit](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md) geschiedt met gebruikmaking van blad 7 van het rapportageformulier opgenomen in de bijlage behorende bij deze regeling. De rapportage wordt uiterlijk vier maanden na afloop van het boekjaar bij DNB ingediend.   
+1.  Een onderneming als bedoeld in artikel 3:297, eerste lid, van de wet, rapporteert alle significante risicoconcentraties op het niveau van het financiële conglomeraat, met uitzondering van risico’s uit hoofde van verzekeringsovereenkomsten en van uitzettingen bij of gegarandeerd door de Nederlandse Staat of Nederlandse lagere overheden, betreffende één individu of instelling dan wel een groep van onderling verbonden individuen of instellingen.   
+2.  De rapportage, bedoeld in artikel 26, eerste lid, eerste zin, van het Besluit geschiedt met gebruikmaking van blad 7 van het rapportageformulier opgenomen in de bijlage behorende bij deze regeling. De rapportage wordt uiterlijk vier maanden na afloop van het boekjaar bij DNB ingediend.   
 3.  Van een significante risicoconcentratie is sprake indien de betreffende risicoconcentratie méér bedraagt dan twintig procent van het toetsingsvermogen van het conglomeraat.   
 4.  Op verzoek van de onderneming en na overleg met relevante toezichthoudende instanties kan DNB afwijken van het eerste en tweede lid.  
 
@@ -156,12 +156,12 @@ b. een uitsplitsing van het bedrag van de risicoconcentratie in de volgende cate
 
 ####Intragroepovereenkomsten en -posities kredietinstellingen, levensverzekeraars, schadeverzekeraars, herverzekeraars en beleggingsondernemingen in een financieel conglomeraat
 
-####Bepalingen ter uitvoering van [artikel 27, tweede, derde en vierde lid, van het Besluit](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md)
+####Bepalingen ter uitvoering van artikel 27, tweede, derde en vierde lid, van het Besluit
 
 ### Artikel  10  
 
-1.  Een onderneming als bedoeld in [artikel 3:298, eerste lid van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) rapporteert alle significante intragroepovereenkomsten en -posities van gereglementeerde entiteiten van het financieel conglomeraat. Hieronder vallen zowel de significante individuele intragroepovereenkomsten met één onderneming van de groep als de significante totale positie ten opzichte van één onderneming van het financieel conglomeraat.   
-2.  De rapportage als bedoeld in [artikel 27, eerste lid, eerste zin, van het Besluit](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md) geschiedt met gebruikmaking van blad 1 van het rapportageformulier opgenomen in de bijlage behorende bij deze regeling. De rapportage wordt uiterlijk vier maanden na afloop van het boekjaar bij DNB ingediend.   
+1.  Een onderneming als bedoeld in artikel 3:298, eerste lid van de wet rapporteert alle significante intragroepovereenkomsten en -posities van gereglementeerde entiteiten van het financieel conglomeraat. Hieronder vallen zowel de significante individuele intragroepovereenkomsten met één onderneming van de groep als de significante totale positie ten opzichte van één onderneming van het financieel conglomeraat.   
+2.  De rapportage als bedoeld in artikel 27, eerste lid, eerste zin, van het Besluit geschiedt met gebruikmaking van blad 1 van het rapportageformulier opgenomen in de bijlage behorende bij deze regeling. De rapportage wordt uiterlijk vier maanden na afloop van het boekjaar bij DNB ingediend.   
 3.  Van een significante individuele intragroepovereenkomst is sprake wanneer het bedrag van de hieruit voortvloeiende positie meer bedraagt dan twintig procent van de kapitaaltoereikendheidsvereisten van de gereglementeerde entiteit die de overeenkomst is aangegaan. Van een significante totale positie is sprake indien deze positie meer bedraagt dan twintig procent van de kapitaaltoereikendheidsvereisten van de gereglementeerde entiteit die de positie is aangegaan.   
 4.  Op verzoek van de onderneming en na overleg met relevante toezichthoudende instanties kan DNB afwijken van het eerste tot en met het derde lid.  
 
@@ -194,7 +194,7 @@ d. overige vorderingen.   De gerapporteerde overige vorderingen, bedoeld in onde
 
 ### Artikel  12  
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit](../../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop het Besluit in werking treedt. 
 
 ### Artikel  13  
 

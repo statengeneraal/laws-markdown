@@ -15,52 +15,52 @@ Wijzigt de Wet op het financieel toezicht.
 
 ### Artikel  II  
 
-In de artikelen III tot en met XVIII wordt verstaan onder «de wet»: de [Wet op het financieel toezicht](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). 
+In de artikelen III tot en met XVIII wordt verstaan onder «de wet»: de Wet op het financieel toezicht. 
 
 ### Artikel  III  
 
-1.  Een herverzekeraar met zetel in Nederland die zijn bedrijf uitoefende onmiddellijk voorafgaand aan 10 december 2005, verkrijgt op het tijdstip van inwerkingtreding van deze wet van rechtswege een vergunning als bedoeld in [artikel 2:26a, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voor de uitoefening van het bedrijf van herverzekeraar in de activiteit waarin hij zijn bedrijf op het tijdstip van inwerkingtreding van deze wet uitoefent.   
+1.  Een herverzekeraar met zetel in Nederland die zijn bedrijf uitoefende onmiddellijk voorafgaand aan 10 december 2005, verkrijgt op het tijdstip van inwerkingtreding van deze wet van rechtswege een vergunning als bedoeld in artikel 2:26a, eerste lid, van de wet voor de uitoefening van het bedrijf van herverzekeraar in de activiteit waarin hij zijn bedrijf op het tijdstip van inwerkingtreding van deze wet uitoefent.   
 2.  De herverzekeraar legt binnen drie maanden na inwerkingtreding van deze wet gegevens aan de Nederlandsche Bank over waaruit blijkt dat uiterlijk op 10 december 2008 zal zijn voldaan aan: 
 
-a. [artikel 3:8 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de deskundigheid van de in dat artikel bedoelde personen;  
+a. artikel 3:8 van de wet met betrekking tot de deskundigheid van de in dat artikel bedoelde personen;  
 
-b. [artikel 3:9 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de betrouwbaarheid van de in dat artikel genoemde personen;  
+b. artikel 3:9 van de wet met betrekking tot de betrouwbaarheid van de in dat artikel genoemde personen;  
 
-c. [artikel 3:10, eerste en tweede lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot het beleid met betrekking tot de integere bedrijfsuitoefening;  
+c. artikel 3:10, eerste en tweede lid, van de wet met betrekking tot het beleid met betrekking tot de integere bedrijfsuitoefening;  
 
-d. [artikel 3:15, eerste en tweede lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot het minimum aantal personen dat het dagelijks beleid bepaalt en de plaats van waaruit zij hun werkzaamheden verrichten;  
+d. artikel 3:15, eerste en tweede lid, van de wet met betrekking tot het minimum aantal personen dat het dagelijks beleid bepaalt en de plaats van waaruit zij hun werkzaamheden verrichten;  
 
-e. [artikel 3:16, eerste en tweede lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de zeggenschapsstructuur;  
+e. artikel 3:16, eerste en tweede lid, van de wet met betrekking tot de zeggenschapsstructuur;  
 
-f. [artikel 3:17, eerste en tweede lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de inrichting van de bedrijfsvoering;  
+f. artikel 3:17, eerste en tweede lid, van de wet met betrekking tot de inrichting van de bedrijfsvoering;  
 
-g. [artikel 3:20 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de rechtsvorm;  
+g. artikel 3:20 van de wet met betrekking tot de rechtsvorm;  
 
-h. [artikel 3:36 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot het uitoefenen van een ander bedrijf dan het bedrijf van herverzekeraar;  
+h. artikel 3:36 van de wet met betrekking tot het uitoefenen van een ander bedrijf dan het bedrijf van herverzekeraar;  
 
-i. [artikel 3:53, eerste tot en met vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot het minimum eigen vermogen;  
+i. artikel 3:53, eerste tot en met vierde lid, van de wet met betrekking tot het minimum eigen vermogen;  
 
-j. [artikel 3:57, eerste tot en met vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de solvabiliteit; en  
+j. artikel 3:57, eerste tot en met vierde lid, van de wet met betrekking tot de solvabiliteit; en  
 
-k. [artikel 3:70 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot het boekjaar.     
+k. artikel 3:70 van de wet met betrekking tot het boekjaar.     
 3.  De Nederlandsche Bank kan alle in de wet voorziene maatregelen treffen jegens de herverzekeraar, tot 10 december 2008 met uitzondering van: 
 
-a. het intrekken van de vergunning uitsluitend vanwege het feit dat de herverzekeraar niet voldoet aan [artikel 3:53, eerste, tweede en vierde lid](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 3:57, eerste, derde en vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+a. het intrekken van de vergunning uitsluitend vanwege het feit dat de herverzekeraar niet voldoet aan artikel 3:53, eerste, tweede en vierde lid, of artikel 3:57, eerste, derde en vierde lid, van de wet;  
 
-b. het geven van een aanwijzing als bedoeld in [artikel 1:75 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tot overdracht van de gehele portefeuille uitsluitend vanwege het feit dat de herverzekeraar niet voldoet aan [artikel 3:53, eerste, tweede en vierde lid](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 3:57, eerste, derde en vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).     
-4.  De herverzekeraar die overeenkomstig het eerste lid een vergunning heeft, wordt als aanvrager ingeschreven in het register, bedoeld in [artikel 1:107 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). De Nederlandsche Bank haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.  
+b. het geven van een aanwijzing als bedoeld in artikel 1:75 van de wet tot overdracht van de gehele portefeuille uitsluitend vanwege het feit dat de herverzekeraar niet voldoet aan artikel 3:53, eerste, tweede en vierde lid, of artikel 3:57, eerste, derde en vierde lid, van de wet.     
+4.  De herverzekeraar die overeenkomstig het eerste lid een vergunning heeft, wordt als aanvrager ingeschreven in het register, bedoeld in artikel 1:107 van de wet. De Nederlandsche Bank haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.  
 
 ### Artikel  IV  
 
-1.  Degene die op het tijdstip van inwerkingtreding van deze wet een gekwalificeerde deelneming houdt in een herverzekeraar als bedoeld in artikel III, beschikt vanaf dat tijdstip van rechtswege over een verklaring van geen bezwaar als bedoeld in [artikel 3:95, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voor die deelneming.   
+1.  Degene die op het tijdstip van inwerkingtreding van deze wet een gekwalificeerde deelneming houdt in een herverzekeraar als bedoeld in artikel III, beschikt vanaf dat tijdstip van rechtswege over een verklaring van geen bezwaar als bedoeld in artikel 3:95, eerste lid, van de wet voor die deelneming.   
 2.  De houder van de gekwalificeerde deelneming legt binnen drie maanden na inwerkingtreding van deze wet aan de Nederlandsche Bank over: 
 
-a. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in [artikel 3:95 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+a. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in artikel 3:95 van de wet;  
 
-b. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:99 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de betrouwbaarheid van de houder van de verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en  
+b. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge artikel 3:99 van de wet is bepaald met betrekking tot de betrouwbaarheid van de houder van de verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en  
 
 c. bescheiden waaruit zijn financiële positie en zijn juridische groepsstructuur blijken.     
-3.  Indien het een gekwalificeerde deelneming betreft als bedoeld in [artikel 3:97, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zendt de Nederlandsche Bank de gegevens en bescheiden, vergezeld van haar advies, door aan Onze Minister.   
+3.  Indien het een gekwalificeerde deelneming betreft als bedoeld in artikel 3:97, eerste lid, van de wet zendt de Nederlandsche Bank de gegevens en bescheiden, vergezeld van haar advies, door aan Onze Minister.   
 4.  Tot 10 december 2008 kan de Nederlandsche Bank de ingevolge het eerste lid verkregen verklaring van geen bezwaar niet intrekken.  
 
 ### Artikel  V  
@@ -79,23 +79,23 @@ e. een gewaarmerkt afschrift van de statuten;
 
 f. een programma van werkzaamheden die de herverzekeraar voornemens is te verrichten;  
 
-g. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:8 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid bepalen;  
+g. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge artikel 3:8 van de wet is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid bepalen;  
 
-h. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:9 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de betrouwbaarheid van de personen die het beleid bepalen of mede bepalen of onderdeel zijn van een orgaan dat belast is met toezicht op het beleid en de algemene gang van zaken;  
+h. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge artikel 3:9 van de wet is bepaald met betrekking tot de betrouwbaarheid van de personen die het beleid bepalen of mede bepalen of onderdeel zijn van een orgaan dat belast is met toezicht op het beleid en de algemene gang van zaken;  
 
-i. een beschrijving van het voorgenomen beleid met betrekking tot de integere bedrijfsuitoefening, bedoeld in [artikel 3:10, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+i. een beschrijving van het voorgenomen beleid met betrekking tot de integere bedrijfsuitoefening, bedoeld in artikel 3:10, eerste lid, van de wet;  
 
-j. een beschrijving van de zeggenschapsstructuur aan de hand waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan [artikel 3:16 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+j. een beschrijving van de zeggenschapsstructuur aan de hand waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan artikel 3:16 van de wet;  
 
-k. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in [artikel 3:17, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+k. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in artikel 3:17, eerste lid, van de wet;  
 
-l. bescheiden waaruit het eigen vermogen, bedoeld in [artikel 3:53, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en de te verwachten solvabiliteit, bedoeld in [artikel 3:57, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) blijken; en  
+l. bescheiden waaruit het eigen vermogen, bedoeld in artikel 3:53, van de wet, en de te verwachten solvabiliteit, bedoeld in artikel 3:57, eerste lid, van de wet blijken; en  
 
 m. indien van toepassing: 
 
-1°. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in [artikel 3:95 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+1°. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in artikel 3:95 van de wet;  
 
-2°. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of wordt voldaan aan hetgeen ingevolge [artikel 3:99 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de betrouwbaarheid van de houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en  
+2°. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of wordt voldaan aan hetgeen ingevolge artikel 3:99 van de wet is bepaald met betrekking tot de betrouwbaarheid van de houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en  
 
 3°. bescheiden waaruit de financiële positie en de juridische groepsstructuur van de houder van een verklaring van geen bezwaar blijken.       
 2.  De gegevens, bedoeld in het eerste lid, onderdeel g, zijn: 
@@ -115,10 +115,10 @@ a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, h
 
 b. een kopie van een geldig identiteitsbewijs;  
 
-c. gegevens met betrekking tot de antecedenten, bedoeld in de [bijlage bij het Besluit Markttoegang financiële ondernemingen Wft](../../../../../../../../../../../../AMvB/besluit/markttoegang/financiële/ondernemingen/wft/BWBR0020413/README.md); en  
+c. gegevens met betrekking tot de antecedenten, bedoeld in de bijlage bij het Besluit Markttoegang financiële ondernemingen Wft; en  
 
 d. een opgave van referenten.     
-4.  Het eerste lid, aanhef en onderdelen h en m, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) door een toezichthouder reeds is vastgesteld.  
+4.  Het eerste lid, aanhef en onderdelen h en m, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de wet door een toezichthouder reeds is vastgesteld.  
 
 ### Artikel  VI  
 
@@ -138,36 +138,36 @@ f. een raming voor de eerste drie boekjaren van de premies en van de schaden;
 
 g. een raming voor de eerste drie boekjaren van de liquiditeitspositie; en  
 
-h. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+h. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in artikel 3:57, derde lid, van de wet.   
 
 ### Artikel  VII  
 
-1.  Een herverzekeraar met zetel in een niet-aangewezen staat die zijn bedrijf vanuit een in Nederland gelegen bijkantoor uitoefende onmiddellijk voorafgaand aan 10 december 2005 overeenkomstig het recht van de staat van de zetel, verkrijgt op het tijdstip van inwerkingtreding van deze wet van rechtswege een vergunning als bedoeld in [artikel 2:54a, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voor de uitoefening van het bedrijf van herverzekeraar in de activiteit waarin hij zijn bedrijf op het tijdstip van inwerkingtreding van deze wet uitoefent.   
+1.  Een herverzekeraar met zetel in een niet-aangewezen staat die zijn bedrijf vanuit een in Nederland gelegen bijkantoor uitoefende onmiddellijk voorafgaand aan 10 december 2005 overeenkomstig het recht van de staat van de zetel, verkrijgt op het tijdstip van inwerkingtreding van deze wet van rechtswege een vergunning als bedoeld in artikel 2:54a, eerste lid, van de wet voor de uitoefening van het bedrijf van herverzekeraar in de activiteit waarin hij zijn bedrijf op het tijdstip van inwerkingtreding van deze wet uitoefent.   
 2.  De herverzekeraar legt binnen drie maanden na inwerkingtreding van deze wet gegevens aan de Nederlandsche Bank over waaruit blijkt dat uiterlijk op 10 december 2008 zal zijn voldaan aan: 
 
-a. [artikel 3:8 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de deskundigheid van de in dat artikel bedoelde personen;  
+a. artikel 3:8 van de wet met betrekking tot de deskundigheid van de in dat artikel bedoelde personen;  
 
-b. [artikel 3:9 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de betrouwbaarheid van de in dat artikel genoemde personen;  
+b. artikel 3:9 van de wet met betrekking tot de betrouwbaarheid van de in dat artikel genoemde personen;  
 
-c. [artikel 3:10, eerste en tweede lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot het beleid met betrekking tot de integere bedrijfsuitoefening;  
+c. artikel 3:10, eerste en tweede lid, van de wet met betrekking tot het beleid met betrekking tot de integere bedrijfsuitoefening;  
 
-d. [artikel 3:16, eerste en tweede lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de zeggenschapsstructuur;  
+d. artikel 3:16, eerste en tweede lid, van de wet met betrekking tot de zeggenschapsstructuur;  
 
-e. [artikel 3:17, eerste en tweede lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de inrichting van de bedrijfsvoering;  
+e. artikel 3:17, eerste en tweede lid, van de wet met betrekking tot de inrichting van de bedrijfsvoering;  
 
-f. [artikel 3:20 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de rechtsvorm;  
+f. artikel 3:20 van de wet met betrekking tot de rechtsvorm;  
 
-g. [artikel 3:53, eerste tot en met vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot het minimum eigen vermogen;  
+g. artikel 3:53, eerste tot en met vierde lid, van de wet met betrekking tot het minimum eigen vermogen;  
 
-h. [artikel 3:57, eerste tot en met vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de solvabiliteit; en  
+h. artikel 3:57, eerste tot en met vierde lid, van de wet met betrekking tot de solvabiliteit; en  
 
-i. [artikel 3:70 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot het boekjaar.     
+i. artikel 3:70 van de wet met betrekking tot het boekjaar.     
 3.  De Nederlandsche Bank kan alle in de wet voorziene maatregelen treffen jegens de herverzekeraar, tot 10 december 2008 met uitzondering van: 
 
-a. het intrekken van de vergunning uitsluitend vanwege het feit dat de herverzekeraar niet voldoet aan [artikel 3:53, eerste, tweede en vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); en  
+a. het intrekken van de vergunning uitsluitend vanwege het feit dat de herverzekeraar niet voldoet aan artikel 3:53, eerste, tweede en vierde lid, van de wet; en  
 
-b. het geven van een aanwijzing als bedoeld in [artikel 1:75 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tot overdracht van de gehele portefeuille uitsluitend vanwege het feit dat de herverzekeraar niet voldoet aan [artikel 3:53, eerste, tweede en vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).     
-4.  De herverzekeraar die overeenkomstig het eerste lid een vergunning heeft, wordt als aanvrager ingeschreven in het register, bedoeld in [artikel 1:107 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). De Nederlandsche Bank haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.  
+b. het geven van een aanwijzing als bedoeld in artikel 1:75 van de wet tot overdracht van de gehele portefeuille uitsluitend vanwege het feit dat de herverzekeraar niet voldoet aan artikel 3:53, eerste, tweede en vierde lid, van de wet.     
+4.  De herverzekeraar die overeenkomstig het eerste lid een vergunning heeft, wordt als aanvrager ingeschreven in het register, bedoeld in artikel 1:107 van de wet. De Nederlandsche Bank haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.  
 
 ### Artikel  VIII  
 
@@ -185,23 +185,23 @@ e. een gewaarmerkt afschrift van de statuten;
 
 f. een programma van werkzaamheden die de herverzekeraar voornemens is te verrichten;  
 
-g. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:8 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid bepalen;  
+g. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge artikel 3:8 van de wet is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid bepalen;  
 
-h. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:9 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de betrouwbaarheid van de personen die het beleid bepalen of mede bepalen of onderdeel zijn van een orgaan dat belast is met toezicht op het beleid en de algemene gang van zaken;  
+h. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge artikel 3:9 van de wet is bepaald met betrekking tot de betrouwbaarheid van de personen die het beleid bepalen of mede bepalen of onderdeel zijn van een orgaan dat belast is met toezicht op het beleid en de algemene gang van zaken;  
 
-i. een beschrijving van het voorgenomen beleid met betrekking tot de integere bedrijfsuitoefening, bedoeld in [artikel 3:10, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+i. een beschrijving van het voorgenomen beleid met betrekking tot de integere bedrijfsuitoefening, bedoeld in artikel 3:10, eerste lid, van de wet;  
 
-j. een beschrijving van de zeggenschapsstructuur aan de hand waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan [artikel 3:16 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+j. een beschrijving van de zeggenschapsstructuur aan de hand waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan artikel 3:16 van de wet;  
 
-k. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in [artikel 3:17, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+k. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in artikel 3:17, eerste lid, van de wet;  
 
-l. bescheiden waaruit het eigen vermogen, bedoeld in [artikel 3:53, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en de te verwachten solvabiliteit, bedoeld in [artikel 3:57, eerste lid van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) blijken; en  
+l. bescheiden waaruit het eigen vermogen, bedoeld in artikel 3:53, van de wet, en de te verwachten solvabiliteit, bedoeld in artikel 3:57, eerste lid van de wet blijken; en  
 
 m. indien van toepassing: 
 
-1°. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in [artikel 3:95 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+1°. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in artikel 3:95 van de wet;  
 
-2°. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of wordt voldaan aan hetgeen ingevolge [artikel 3:99 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de betrouwbaarheid van de houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en  
+2°. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of wordt voldaan aan hetgeen ingevolge artikel 3:99 van de wet is bepaald met betrekking tot de betrouwbaarheid van de houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en  
 
 3°. bescheiden waaruit de financiële positie en de juridische groepsstructuur van de aanvrager of houder van een verklaring van geen bezwaar blijken.       
 2.  De gegevens, bedoeld in het eerste lid, aanhef en onderdeel g, zijn: 
@@ -221,10 +221,10 @@ a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, h
 
 b. een kopie van een geldig identiteitsbewijs;  
 
-c. gegevens met betrekking tot de antecedenten, bedoeld in de [bijlage bij het Besluit Markttoegang financiële ondernemingen Wft](../../../../../../../../../../../../AMvB/besluit/markttoegang/financiële/ondernemingen/wft/BWBR0020413/README.md); en  
+c. gegevens met betrekking tot de antecedenten, bedoeld in de bijlage bij het Besluit Markttoegang financiële ondernemingen Wft; en  
 
 d. een opgave van referenten.     
-4.  Het eerste lid, aanhef en onderdelen h en m, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) door een toezichthouder reeds is vastgesteld.  
+4.  Het eerste lid, aanhef en onderdelen h en m, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de wet door een toezichthouder reeds is vastgesteld.  
 
 ### Artikel  IX  
 
@@ -244,50 +244,50 @@ f. een raming voor de eerste drie boekjaren van de premies en van de schaden;
 
 g. een raming voor de eerste drie boekjaren van de liquiditeitspositie; en  
 
-h. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+h. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in artikel 3:57, derde lid, van de wet.   
 
 ### Artikel  X  
 
-1.  Een entiteit voor risico-acceptatie met zetel in Nederland die zijn bedrijf uitoefende onmiddellijk voorafgaand aan 10 december 2005, verkrijgt op het tijdstip van inwerkingtreding van deze wet van rechtswege een vergunning als bedoeld in [artikel 2:54a, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voor de uitoefening van het bedrijf van entiteit voor risico-acceptatie in de activiteit waarin zij haar bedrijf op het tijdstip van inwerkingtreding van deze wet uitoefent.   
+1.  Een entiteit voor risico-acceptatie met zetel in Nederland die zijn bedrijf uitoefende onmiddellijk voorafgaand aan 10 december 2005, verkrijgt op het tijdstip van inwerkingtreding van deze wet van rechtswege een vergunning als bedoeld in artikel 2:54a, eerste lid, van de wet voor de uitoefening van het bedrijf van entiteit voor risico-acceptatie in de activiteit waarin zij haar bedrijf op het tijdstip van inwerkingtreding van deze wet uitoefent.   
 2.  De entiteit voor risico-acceptatie legt binnen drie maanden na inwerkingtreding van deze wet gegevens aan de Nederlandsche Bank over waaruit blijkt dat uiterlijk op 10 december 2008 zal zijn voldaan aan: 
 
-a. [artikel 3:8 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de deskundigheid van de in dat artikel bedoelde personen;  
+a. artikel 3:8 van de wet met betrekking tot de deskundigheid van de in dat artikel bedoelde personen;  
 
-b. [artikel 3:9 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de betrouwbaarheid van de in dat artikel genoemde personen;  
+b. artikel 3:9 van de wet met betrekking tot de betrouwbaarheid van de in dat artikel genoemde personen;  
 
-c. [artikel 3:10, eerste en tweede lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot het beleid met betrekking tot de integere bedrijfsuitoefening;  
+c. artikel 3:10, eerste en tweede lid, van de wet met betrekking tot het beleid met betrekking tot de integere bedrijfsuitoefening;  
 
-d. [artikel 3:15, eerste en tweede lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot het minimum aantal personen dat het dagelijks beleid bepaalt en de plaats van waaruit zij hun werkzaamheden verrichten;  
+d. artikel 3:15, eerste en tweede lid, van de wet met betrekking tot het minimum aantal personen dat het dagelijks beleid bepaalt en de plaats van waaruit zij hun werkzaamheden verrichten;  
 
-e. [artikel 3:16, eerste en tweede lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de zeggenschapsstructuur;  
+e. artikel 3:16, eerste en tweede lid, van de wet met betrekking tot de zeggenschapsstructuur;  
 
-f. [artikel 3:17, eerste en tweede lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de inrichting van de bedrijfsvoering;  
+f. artikel 3:17, eerste en tweede lid, van de wet met betrekking tot de inrichting van de bedrijfsvoering;  
 
-g. [artikel 3:20 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de rechtsvorm;  
+g. artikel 3:20 van de wet met betrekking tot de rechtsvorm;  
 
-h. [artikel 3:53, eerste tot en met vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot het minimum eigen vermogen;  
+h. artikel 3:53, eerste tot en met vierde lid, van de wet met betrekking tot het minimum eigen vermogen;  
 
-i. [artikel 3:57, eerste tot en met vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de solvabiliteit; en  
+i. artikel 3:57, eerste tot en met vierde lid, van de wet met betrekking tot de solvabiliteit; en  
 
-j. [artikel 3:70 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot het boekjaar.     
+j. artikel 3:70 van de wet met betrekking tot het boekjaar.     
 3.  De Nederlandsche Bank kan alle in de wet voorziene maatregelen treffen jegens de entiteit voor risico-acceptatie, tot 10 december 2008 met uitzondering van: 
 
-a. het intrekken van de vergunning uitsluitend vanwege het feit dat de entiteit voor risico-acceptatie niet voldoet aan [artikel 3:53, eerste, tweede en vierde lid](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 3:57, eerste, derde en vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+a. het intrekken van de vergunning uitsluitend vanwege het feit dat de entiteit voor risico-acceptatie niet voldoet aan artikel 3:53, eerste, tweede en vierde lid, of artikel 3:57, eerste, derde en vierde lid, van de wet;  
 
-b. het geven van een aanwijzing als bedoeld in [artikel 1:75 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tot overdracht van de gehele portefeuille uitsluitend vanwege het feit dat de entiteit voor risico-acceptatie niet voldoet aan [artikel 3:53, eerste, tweede en vierde lid](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 3:57, eerste, derde en vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).     
-4.  De entiteit voor risico-acceptatie die overeenkomstig het eerste lid een vergunning heeft, wordt als aanvrager ingeschreven in het register, bedoeld in [artikel 1:107 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). De Nederlandsche Bank haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.  
+b. het geven van een aanwijzing als bedoeld in artikel 1:75 van de wet tot overdracht van de gehele portefeuille uitsluitend vanwege het feit dat de entiteit voor risico-acceptatie niet voldoet aan artikel 3:53, eerste, tweede en vierde lid, of artikel 3:57, eerste, derde en vierde lid, van de wet.     
+4.  De entiteit voor risico-acceptatie die overeenkomstig het eerste lid een vergunning heeft, wordt als aanvrager ingeschreven in het register, bedoeld in artikel 1:107 van de wet. De Nederlandsche Bank haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.  
 
 ### Artikel  XI  
 
-1.  Degene die op het tijdstip van inwerkingtreding van deze wet een gekwalificeerde deelneming houdt in een entiteit voor risico-acceptatie als bedoeld in artikel X, beschikt vanaf dat tijdstip van rechtswege over een verklaring van geen bezwaar als bedoeld in [artikel 3:95, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voor die deelneming.   
+1.  Degene die op het tijdstip van inwerkingtreding van deze wet een gekwalificeerde deelneming houdt in een entiteit voor risico-acceptatie als bedoeld in artikel X, beschikt vanaf dat tijdstip van rechtswege over een verklaring van geen bezwaar als bedoeld in artikel 3:95, eerste lid, van de wet voor die deelneming.   
 2.  De houder van de gekwalificeerde deelneming legt binnen drie maanden na inwerkingtreding van deze aan de Nederlandsche Bank over: 
 
-a. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in [artikel 3:95 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+a. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in artikel 3:95 van de wet;  
 
-b. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:99 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de betrouwbaarheid van de houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en  
+b. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge artikel 3:99 van de wet is bepaald met betrekking tot de betrouwbaarheid van de houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en  
 
 c. bescheiden waaruit zijn financiële positie en zijn juridische groepsstructuur blijken.     
-3.  Indien het een gekwalificeerde deelneming betreft als bedoeld in [artikel 3:97, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zendt de Nederlandsche Bank de gegevens en bescheiden, vergezeld van haar advies, door aan Onze Minister.   
+3.  Indien het een gekwalificeerde deelneming betreft als bedoeld in artikel 3:97, eerste lid, van de wet zendt de Nederlandsche Bank de gegevens en bescheiden, vergezeld van haar advies, door aan Onze Minister.   
 4.  Tot 10 december 2008 kan de Nederlandsche Bank de ingevolge het eerste lid verkregen verklaring van geen bezwaar niet intrekken.  
 
 ### Artikel  XII  
@@ -306,23 +306,23 @@ e. een gewaarmerkt afschrift van de statuten;
 
 f. een programma van werkzaamheden die de entiteit voor risico-acceptatie voornemens is te verrichten;  
 
-g. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:8 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid bepalen;  
+g. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge artikel 3:8 van de wet is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid bepalen;  
 
-h. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:9 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de betrouwbaarheid van de personen die het beleid bepalen of mede bepalen of onderdeel zijn van een orgaan dat belast is met toezicht op het beleid en de algemene gang van zaken;  
+h. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge artikel 3:9 van de wet is bepaald met betrekking tot de betrouwbaarheid van de personen die het beleid bepalen of mede bepalen of onderdeel zijn van een orgaan dat belast is met toezicht op het beleid en de algemene gang van zaken;  
 
-i. een beschrijving van het voorgenomen beleid met betrekking tot de integere bedrijfsuitoefening, bedoeld in [artikel 3:10, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+i. een beschrijving van het voorgenomen beleid met betrekking tot de integere bedrijfsuitoefening, bedoeld in artikel 3:10, eerste lid, van de wet;  
 
-j. een beschrijving van de zeggenschapsstructuur aan de hand waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan [artikel 3:16 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+j. een beschrijving van de zeggenschapsstructuur aan de hand waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan artikel 3:16 van de wet;  
 
-k. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in [artikel 3:17, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+k. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in artikel 3:17, eerste lid, van de wet;  
 
-l. bescheiden waaruit het eigen vermogen, bedoeld in [artikel 3:53 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en de te verwachten solvabiliteit, bedoeld in [artikel 3:57, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) blijken; en  
+l. bescheiden waaruit het eigen vermogen, bedoeld in artikel 3:53 van de wet, en de te verwachten solvabiliteit, bedoeld in artikel 3:57, eerste lid, van de wet blijken; en  
 
 m. indien van toepassing: 
 
-1°. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in [artikel 3:95 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+1°. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in artikel 3:95 van de wet;  
 
-2°. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of wordt voldaan aan hetgeen ingevolge [artikel 3:99 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de betrouwbaarheid van de houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en  
+2°. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of wordt voldaan aan hetgeen ingevolge artikel 3:99 van de wet is bepaald met betrekking tot de betrouwbaarheid van de houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en  
 
 3°. bescheiden waaruit zijn financiële positie en zijn juridische groepsstructuur van de aanvrager van een verklaring van geen bezwaar blijken.       
 2.  De gegevens, bedoeld in het eerste lid, onderdeel g, zijn: 
@@ -342,10 +342,10 @@ a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, h
 
 b. een kopie van een geldig identiteitsbewijs;  
 
-c. gegevens met betrekking tot de antecedenten, bedoeld in de [bijlage bij het Besluit Markttoegang financiële ondernemingen Wft](../../../../../../../../../../../../AMvB/besluit/markttoegang/financiële/ondernemingen/wft/BWBR0020413/README.md); en  
+c. gegevens met betrekking tot de antecedenten, bedoeld in de bijlage bij het Besluit Markttoegang financiële ondernemingen Wft; en  
 
 d. een opgave van referenten.     
-4.  Het eerste lid, aanhef en onderdelen h en m, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) door een toezichthouder reeds is vastgesteld.  
+4.  Het eerste lid, aanhef en onderdelen h en m, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de wet door een toezichthouder reeds is vastgesteld.  
 
 ### Artikel  XIII  
 
@@ -365,34 +365,34 @@ f. een raming voor de eerste drie boekjaren van de premies en van de schaden;
 
 g. een raming voor de eerste drie boekjaren van de liquiditeitspositie; en  
 
-h. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+h. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in artikel 3:57, derde lid, van de wet.   
 
 ### Artikel  XIV  
 
-1.  Een entiteit voor risico-acceptatie met zetel in een niet-aangewezen staat die zijn bedrijf vanuit een in Nederland gelegen bijkantoor uitoefende onmiddellijk voorafgaand aan 10 december 2005 overeenkomstig het recht van de staat van de zetel, verkrijgt op het tijdstip van inwerkingtreding van deze wet van rechtswege een vergunning als bedoeld in [artikel 2:54a, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voor de uitoefening van het bedrijf van entiteit voor risico-acceptatie in de activiteit waarin zij haar bedrijf op het tijdstip van inwerkingtreding van de [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) uitoefent.   
+1.  Een entiteit voor risico-acceptatie met zetel in een niet-aangewezen staat die zijn bedrijf vanuit een in Nederland gelegen bijkantoor uitoefende onmiddellijk voorafgaand aan 10 december 2005 overeenkomstig het recht van de staat van de zetel, verkrijgt op het tijdstip van inwerkingtreding van deze wet van rechtswege een vergunning als bedoeld in artikel 2:54a, eerste lid, van de wet voor de uitoefening van het bedrijf van entiteit voor risico-acceptatie in de activiteit waarin zij haar bedrijf op het tijdstip van inwerkingtreding van de wet uitoefent.   
 2.  De entiteit voor risico-acceptatie legt binnen drie maanden na inwerkingtreding van deze wet gegevens aan de Nederlandsche Bank over waaruit blijkt dat uiterlijk 10 december 2008 zal zijn voldaan aan: 
 
-a. [artikel 3:8 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de deskundigheid van de in dat artikel bedoelde personen;  
+a. artikel 3:8 van de wet met betrekking tot de deskundigheid van de in dat artikel bedoelde personen;  
 
-b. [artikel 3:9 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de betrouwbaarheid van de in dat artikel genoemde personen;  
+b. artikel 3:9 van de wet met betrekking tot de betrouwbaarheid van de in dat artikel genoemde personen;  
 
-c. [artikel 3:10, eerste en tweede lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot het beleid met betrekking tot de integere bedrijfsuitoefening;  
+c. artikel 3:10, eerste en tweede lid, van de wet met betrekking tot het beleid met betrekking tot de integere bedrijfsuitoefening;  
 
-d. [artikel 3:16, eerste en tweede lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de zeggenschapsstructuur;  
+d. artikel 3:16, eerste en tweede lid, van de wet met betrekking tot de zeggenschapsstructuur;  
 
-e. [artikel 3:17, eerste en tweede lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de inrichting van de bedrijfsvoering;  
+e. artikel 3:17, eerste en tweede lid, van de wet met betrekking tot de inrichting van de bedrijfsvoering;  
 
-f. [artikel 3:53, eerste tot en met vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot het minimum eigen vermogen;  
+f. artikel 3:53, eerste tot en met vierde lid, van de wet met betrekking tot het minimum eigen vermogen;  
 
-g. [artikel 3:57, eerste tot en met vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot de solvabiliteit; en  
+g. artikel 3:57, eerste tot en met vierde lid, van de wet met betrekking tot de solvabiliteit; en  
 
-h. [artikel 3:70](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot het boekjaar.     
+h. artikel 3:70 met betrekking tot het boekjaar.     
 3.  De Nederlandsche Bank kan alle in de wet voorziene maatregelen treffen jegens de entiteit voor risico-acceptatie, tot 10 december 2008 met uitzondering van: 
 
-a. het intrekken van de vergunning uitsluitend vanwege het feit dat de entiteit voor risico-acceptatie niet voldoet aan [artikel 3:53, eerste, tweede en vierde lid](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 3:57, eerste, derde en vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); en  
+a. het intrekken van de vergunning uitsluitend vanwege het feit dat de entiteit voor risico-acceptatie niet voldoet aan artikel 3:53, eerste, tweede en vierde lid, of artikel 3:57, eerste, derde en vierde lid, van de wet; en  
 
-b. het geven van een aanwijzing als bedoeld in [artikel 1:75 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tot overdracht van de gehele portefeuille uitsluitend vanwege het feit dat de entiteit voor risico-acceptatie niet voldoet aan [artikel 3:53, eerste, tweede en vierde lid](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 3:57, eerste, derde en vierde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).     
-4.  De entiteit voor risico-acceptatie die overeenkomstig het eerste lid een vergunning heeft, wordt als aanvrager ingeschreven in het register, bedoeld in [artikel 1:107 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). De Nederlandsche Bank haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.  
+b. het geven van een aanwijzing als bedoeld in artikel 1:75 van de wet tot overdracht van de gehele portefeuille uitsluitend vanwege het feit dat de entiteit voor risico-acceptatie niet voldoet aan artikel 3:53, eerste, tweede en vierde lid, of artikel 3:57, eerste, derde en vierde lid, van de wet.     
+4.  De entiteit voor risico-acceptatie die overeenkomstig het eerste lid een vergunning heeft, wordt als aanvrager ingeschreven in het register, bedoeld in artikel 1:107 van de wet. De Nederlandsche Bank haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.  
 
 ### Artikel  XV  
 
@@ -410,23 +410,23 @@ e. een gewaarmerkt afschrift van de statuten;
 
 f. een programma van werkzaamheden die de entiteit voor risico-acceptatie voornemens is te verrichten;  
 
-g. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:8 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid bepalen;  
+g. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge artikel 3:8 van de wet is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid bepalen;  
 
-h. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:9 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de betrouwbaarheid van de personen die het beleid bepalen of mede bepalen of onderdeel zijn van een orgaan dat belast is met toezicht op het beleid en de algemene gang van zaken;  
+h. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge artikel 3:9 van de wet is bepaald met betrekking tot de betrouwbaarheid van de personen die het beleid bepalen of mede bepalen of onderdeel zijn van een orgaan dat belast is met toezicht op het beleid en de algemene gang van zaken;  
 
-i. een beschrijving van het voorgenomen beleid met betrekking tot de integere bedrijfsuitoefening, bedoeld in [artikel 3:10, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+i. een beschrijving van het voorgenomen beleid met betrekking tot de integere bedrijfsuitoefening, bedoeld in artikel 3:10, eerste lid, van de wet;  
 
-j. een beschrijving van de zeggenschapsstructuur aan de hand waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan [artikel 3:16 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+j. een beschrijving van de zeggenschapsstructuur aan de hand waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan artikel 3:16 van de wet;  
 
-k. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in [artikel 3:17, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+k. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in artikel 3:17, eerste lid, van de wet;  
 
-l. bescheiden waaruit het eigen vermogen, bedoeld in [artikel 3:53 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en de te verwachten solvabiliteit, bedoeld in [artikel 3:57, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) blijken; en  
+l. bescheiden waaruit het eigen vermogen, bedoeld in artikel 3:53 van de wet, en de te verwachten solvabiliteit, bedoeld in artikel 3:57, eerste lid, van de wet blijken; en  
 
 m. indien van toepassing: 
 
-1°. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in [artikel 3:95 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+1°. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in artikel 3:95 van de wet;  
 
-2°. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of wordt voldaan aan hetgeen ingevolge [artikel 3:99 van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de betrouwbaarheid van de houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en  
+2°. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of wordt voldaan aan hetgeen ingevolge artikel 3:99 van de wet is bepaald met betrekking tot de betrouwbaarheid van de houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en  
 
 3°. bescheiden waaruit zijn financiële positie en zijn juridische groepsstructuur blijken.       
 2.  De gegevens, bedoeld in het eerste lid, aanhef en onderdeel g, zijn: 
@@ -446,10 +446,10 @@ a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, h
 
 b. een kopie van een geldig identiteitsbewijs;  
 
-c. gegevens met betrekking tot de antecedenten, bedoeld in de [bijlage bij het Besluit Markttoegang financiële ondernemingen Wft](../../../../../../../../../../../../AMvB/besluit/markttoegang/financiële/ondernemingen/wft/BWBR0020413/README.md); en  
+c. gegevens met betrekking tot de antecedenten, bedoeld in de bijlage bij het Besluit Markttoegang financiële ondernemingen Wft; en  
 
 d. een opgave van referenten.     
-4.  Het eerste lid, aanhef en onderdelen h en m, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) door een toezichthouder reeds is vastgesteld.  
+4.  Het eerste lid, aanhef en onderdelen h en m, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de wet door een toezichthouder reeds is vastgesteld.  
 
 ### Artikel  XVI  
 
@@ -467,15 +467,15 @@ e. een raming voor de eerste drie boekjaren van de premies en van de schaden;
 
 f. een raming voor de eerste drie boekjaren van de liquiditeitspositie; en  
 
-g. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid, van de wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+g. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in artikel 3:57, derde lid, van de wet.   
 
 ### Artikel  XVII  
 
-Wanneer op grond van deze wet de betrouwbaarheid van een persoon is vastgesteld, wordt die vaststelling voor de toepassing van de [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschouwd als een vaststelling van de betrouwbaarheid ingevolge de [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). 
+Wanneer op grond van deze wet de betrouwbaarheid van een persoon is vastgesteld, wordt die vaststelling voor de toepassing van de wet beschouwd als een vaststelling van de betrouwbaarheid ingevolge de wet. 
 
 ### Artikel  XVIII  
 
-De [wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met uitzondering van het [Algemeen Deel](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), de [hoofdstukken 5.1](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [5.3](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5.5](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [afdeling 5.4.2](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is niet van toepassing op herverzekeraars met zetel in Nederland of herverzekeraars met zetel in een niet-aangewezen staat die op het tijdstip van inwerkingtreding van deze wet niet langer herverzekeringen sluiten en uitsluitend hun bestaande portefeuille beheren met het oog op de beëindiging van de uitoefening van het bedrijf van herverzekeraar. 
+De wet, met uitzondering van het Algemeen Deel, de hoofdstukken 5.1, 5.3 en 5.5 en afdeling 5.4.2, is niet van toepassing op herverzekeraars met zetel in Nederland of herverzekeraars met zetel in een niet-aangewezen staat die op het tijdstip van inwerkingtreding van deze wet niet langer herverzekeringen sluiten en uitsluitend hun bestaande portefeuille beheren met het oog op de beëindiging van de uitoefening van het bedrijf van herverzekeraar. 
 
 ### Artikel  XVIIIa  
 

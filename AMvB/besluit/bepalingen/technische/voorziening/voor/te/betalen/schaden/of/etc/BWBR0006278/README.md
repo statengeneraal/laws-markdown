@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Dit besluit is van toepassing op verzekeringsmaatschappijen als bedoeld in artikel 7, eerste lid, onder *a*, van de [Wet toezicht verzekeringsbedrijf](../../../../../../../../../../../../wet/wet/toezicht/verzekeringsbedrijf/1993/BWBR0006509/README.md). 
+Dit besluit is van toepassing op verzekeringsmaatschappijen als bedoeld in artikel 7, eerste lid, onder *a*, van de Wet toezicht verzekeringsbedrijf. 
 
 ### Artikel  2  
 

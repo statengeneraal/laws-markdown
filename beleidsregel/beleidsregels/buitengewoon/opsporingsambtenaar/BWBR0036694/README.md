@@ -6,31 +6,21 @@
 
 ####Inleiding
 
-Treedt in werking per 01-07-2015 
-
 In de strafrechtelijke handhaving van de lokale veiligheid, leefbaarheid en de naleving van (specialistische) regels is een belangrijke rol weggelegd voor buitengewoon opsporingsambtenaren (hierna: boa’s). Het doel van het boa-beleid is om de kwaliteit van de strafrechtelijke handhaving door de boa’s te borgen en te verbeteren zodat boa’s deze belangrijke rol op een kwalitatief goede wijze kunnen invullen. Het boa-bestel vormt het kader waarbinnen deze professionalisering van de boa plaatsvindt. Deze Beleidsregels Buitengewoon Opsporingsambtenaar maken onderdeel uit van dit boa-bestel en treden in werking per 1 juli 2015. Op deze datum vervallen de Circulaire Buitengewoon Opsporingsambtenaar (Stcrt. 2011, 929, laatstelijk gewijzigd bij Stcrt. 2014, 36844) en de Circulaire Bekwaamheid Buitengewoon Opsporingsambtenaar (Stcrt. 2012, 26957, laatstelijk gewijzigd bij Stcrt. 2013, 35671). Deze Beleidsregels Buitengewoon Opsporingsambtenaar vormen een samenvoeging van voornoemde Circulaires, wat de hanteerbaarheid en leesbaarheid ten goede komt. Tevens is van de gelegenheid gebruikt gemaakt om de inhoud van voornoemde Circulaires waar mogelijk te actualiseren.    
 ### 2  
 
 ####De buitengewoon opsporingsambtenaar
-
-Treedt in werking per 01-07-2015 
 
 De uitvoering en de handhaving van met name bijzondere wetgeving en verordeningen van provincies, gemeenten en waterschappen, is opgedragen aan een scala aan publiekrechtelijke en aan een beperkt aantal privaatrechtelijke organisaties. Indien de noodzaak zich voordoet dat zo'n organisatie dient te beschikken over werknemers<sup> 1 Onder de term ‘werknemers’ vallen ook de personen die onder de uitzonderingen genoemd in hoofdstuk 3.1 vallen en dus strikt genomen geen werknemer zijn. </sup> die bevoegd zijn tot het opsporen van strafbare feiten, kan de Minister van Veiligheid en Justitie aan werknemers van deze organisaties opsporingsbevoegdheid toekennen. Artikel 142 van het Wetboek van Strafvordering vormt de wettelijke grondslag om functionarissen aan wie niet op grond van artikel 141 van dat Wetboek de opsporing van strafbare feiten is opgedragen, als boa te belasten met het opsporen van strafbare feiten. De Minister van Veiligheid en Justitie verleent een titel van opsporingsbevoegdheid als bedoeld in hoofdstuk 2 van het Besluit buitengewoon opsporingsambtenaar (hierna: BBO) indien de noodzaak voor (extra) opsporingsbevoegdheid is aangetoond en de betreffende persoon heeft voldaan aan de betrouwbaarheidseis en bekwaamheidseis. Deze toekenning geschiedt formeel tijdens de beëdiging van een persoon als boa door of namens de Minister van Veiligheid en Justitie. Een titel van opsporingsbevoegdheid kan ook afgeleid worden ex artikel 142, eerste lid, onderdeel c, van het Wetboek van Strafvordering. Deze persoon is dan een opsporingsambtenaar ex artikel 142 van het Wetboek van Strafvordering aan wie – indien er sprake is van een titel van opsporingsbevoegdheid en de betreffende persoon heeft voldaan aan de betrouwbaarheids- en bekwaamheidseisen – de Minister van Veiligheid en Justitie politiebevoegdheden en geweldsmiddelen kan toekennen. Indien politiebevoegdheden of geweldsmiddelen zijn toegekend beschikt de boa daarmee over dezelfde bevoegdheden en verplichtingen als de ambtenaar van politie voor wat betreft het aanwenden van deze bevoegdheden. Met het scala aan organisaties belast met de uitvoering en handhaving van een grote variëteit aan wettelijke regelingen is de diversiteit van boa's een gegeven. Niet alleen het werkveld van boa's is divers. Aangezien bevoegdheden op maat worden toegekend, variëren deze evenzeer. De boa heeft in de regel beperkte opsporingsbevoegdheid die is gerelateerd aan zijn functie en taakomschrijving. De boa wordt ingezet daar waar opsporing door de politie niet gewenst, vanwege prioritering, of niet mogelijk is vanwege onvoldoende deskundigheid of capaciteit bij de politie. Een boa is dus in beginsel geen integrale handhaver met algemene opsporingsbevoegdheid die concurreert met de politie. Immers, de boa zou dan een vierjarige politieopleiding moeten hebben gevolgd om te beschikken over dezelfde bekwaamheid. De boa heeft een specifieke, afgebakende taak waarvoor hij gericht opgeleid kan worden. Aangezien de complexiteit van de functie van de boa sterk kan verschillen, varieert het opleidingsniveau van de boa van relatief laag tot hoog. Het bovenstaande in aanmerking genomen is een boa *een functionaris die uit hoofde van zijn taak, in ondergeschiktheid aan het bevoegde gezag, in overeenstemming met de geldende rechtsregels en met behulp van de hem daartoe beschikbaar gestelde bevoegdheden en middelen, zorgdraagt voor de opsporing van strafbare feiten alsmede met de voorbereiding van de eventuele vervolging van deze feiten.*     
 ### 3  
 
 ####Eisen aan boa's
 
-Treedt in werking per 01-07-2015 
-
 ### 3.1  
 
 ####In bezoldigde overheidsdienst
 
-Treedt in werking per 01-07-2015 
-
 ####In overheidsdienst
-
-Treedt in werking per 01-07-2015 
 
 Gelet op de grote impact die het gebruik van opsporingsbevoegdheid en geweldsmiddelen op burgers en ondernemingen kan hebben blijven deze bevoegdheden een privilege dat voorbehouden is aan de overheid. Dit betekent dat boa’s in beginsel in bezoldigde dienst moeten zijn van een publiekrechtelijk rechtspersoon of een privaatrechtelijk rechtspersoon die voldoet aan de navolgende voorwaarden: 
 
@@ -46,13 +36,9 @@ Gelet op de grote impact die het gebruik van opsporingsbevoegdheid en geweldsmid
 
 ####Bezoldiging
 
-Treedt in werking per 01-07-2015 
-
 De bezoldiging is het salaris of loon dat de boa krijgt van de overheidswerkgever in het kader van een publiekrechtelijke aanstelling (of een privaatrechtelijke arbeidsovereenkomst) en dat voortvloeit uit de inschaling van de boa. Een enkele onkostenvergoeding of andere financiële tegemoetkomingen worden dus niet opgevat als bezoldiging.    
 
 ####Uitzonderingen
-
-Treedt in werking per 01-07-2015 
 
 Op het hiervoor beschreven algemene uitgangspunt dat boa’s in (a) bezoldigde dienst moeten zijn van (b) een overheidsorgaan zijn drie uitzonderingen mogelijk. 
 
@@ -65,17 +51,11 @@ Op het hiervoor beschreven algemene uitgangspunt dat boa’s in (a) bezoldigde d
 
 ####Criteria toekenning bevoegdheden
 
-Treedt in werking per 01-07-2015 
-
 ####Criteria toekenning opsporingsbevoegdheid: noodzaakcriterium
-
-Treedt in werking per 01-07-2015 
 
 Conform het BBO wordt een titel van opsporingsbevoegdheid verleend dan wel verlengd indien daartoe noodzaak bestaat en de boa betrouwbaar en bekwaam is.<sup> 3 De bevoegdheid tot het opsporen van de in de akte van beëdiging vermelde strafbare feiten is gebonden aan een geldigheidsduur van maximaal vijf jaren en kan steeds met vijf jaren worden verlengd. In het laatste geval zal door het Ministerie van Veiligheid en Justitie opnieuw worden getoetst op noodzakelijkheid, betrouwbaarheid en bekwaamheid voor het uitoefenen van opsporingsbevoegdheden. </sup>Er is voldaan aan het noodzaakcriterium wanneer naar het oordeel van de Minister van Veiligheid en Justitie, de opsporingsbevoegdheid noodzakelijk is voor de uitoefening van de functie van de betreffende persoon of de dienst waarbij deze werkzaam is, en een beroep op de politie voor het uitoefenen van opsporingsbevoegdheden bezwaarlijk, niet mogelijk of niet wenselijk is.<sup> 4 Artikel 4, lid 1 BBO. </sup> Over de noodzaak voor toekenning van (extra) opsporingsbevoegdheid wordt door de boa-werkgever advies gevraagd aan de direct toezichthouder en toezichthouder als bedoeld in artikel 1, vierde lid, BBO. Zie ook paragraaf 3.5 Toezicht op boa’s. In Domein I Openbare Ruimte geldt een afwijkende procedure voor zover het gaat om een aanvraag van gemeenten tot uitbreiding van het aantal boa’s. Hier vindt de toetsing op noodzaak plaats in de lokale driehoek.<sup> 5 Kamerstukken II, 2012/13, 28 684 nr. 387, p. 7. Dit ziet alleen op boa’s in dienst van de gemeente, niet op boa’s in Domein I die in dienst van andere werkgevers zijn. </sup>  Het noodzaakcriterium wordt ook gehanteerd voor de toekenning van politiebevoegdheden en geweldsmiddelen. Onder politiebevoegdheden worden verstaan de bevoegdheid om gepast geweld en vrijheidsbeperkende middelen te gebruiken alsmede de bevoegdheid om een veiligheidsfouillering uit te voeren (neergelegd in artikel 7, eerste en derde lid, Politiewet 2012). Onder geweldsmiddelen worden in deze beleidsregels verstaan de handboeien, de wapenstok, de pepperspray, het vuurwapen en de surveillancehond (gecertificeerde diensthond).    
 
 ####Criteria toekenning politiebevoegdheden
-
-Treedt in werking per 01-07-2015 
 
 Voor de toekenning van de geweldsbevoegdheid van artikel 7, eerste en derde lid, van de Politiewet 2012, gelden de volgende criteria: 
 
@@ -88,8 +68,6 @@ c) de bevoegdheid tot het gebruik van geweld staat in verhouding tot de toe te k
 d) de geweldsbevoegdheid en de veiligheidsfouillering mogen pas worden uitgeoefend indien de boa heeft voldaan aan de bekwaamheidseisen als gesteld in de Regeling Toetsing Geweldsbeheersing Buitengewoon opsporingsambtenaar en ambtenaren van bijzondere opsporingsdiensten (RTGB). De wijze waarop van de veiligheidsfouillering gebruik dient te worden gemaakt, is nader geregeld in de Ambtsinstructie voor de politie, de Koninklijke Marechaussee en andere opsporingsambtenaren.      
 
 ####Criteria toekenning geweldsmiddelen
-
-Treedt in werking per 01-07-2015 
 
 Het toepassen van geweld met gebruik van een geweldsmiddel is een bevoegdheid die in beginsel alleen toekomt aan de gewapende macht van de overheid (de krijgsmacht) en de politie. Derhalve worden slechts in uitzonderlijke gevallen geweldsmiddelen aan anderen toegekend. Mede vanuit de doelstelling van de Wet wapens en munitie (WWM) wordt een restrictief beleid gehanteerd, verwoord in het 'neen, tenzij ...' principe. Het toekennen van geweldsmiddelen aan een boa geschiedt slechts indien de noodzaak hiertoe door de aanvrager aangetoond is en indien zijn bekwaamheid in de omgang met het betreffende wapen is aangetoond (zie ook artikel 5, eerste lid, Regeling wapens en munitie, hierna: Rwm). Het toekennen van geweldsmiddelen wordt tevens afhankelijk gesteld van de in redelijkheid te verwachten kans dat de boa bij de vervulling van zijn functie met geweld of dreiging met geweld wordt geconfronteerd. Elke aanvraag tot het toekennen van geweldsmiddelen wordt afzonderlijk beoordeeld aan de hand van de volgende criteria: 
 
@@ -104,32 +82,22 @@ d. In welke frequentie en mate hebben zich in het verleden situaties voorgedaan 
 
 ####Betrouwbaarheid
 
-Treedt in werking per 01-07-2015 
-
 Voordat iemand kan worden benoemd tot boa, wordt zijn betrouwbaarheid getoetst. Artikel 17 van het BBO bepaalt dat een persoon als betrouwbaar kan worden aangemerkt indien hij van onbesproken gedrag is. De betrouwbaarheid wordt periodiek getoetst. Dit is in elk geval iedere vijf jaar bij een aanvraag voor verlenging van de titel van opsporingsbevoegdheid. Het is mogelijk om frequenter te toetsen, of om in incidentele gevallen gericht informatie op te vragen. Het oordeel over de betrouwbaarheid wordt zowel bij de initiële aanvraag als bij de verlengingsaanvraag in beginsel gebaseerd op de overgelegde Verklaring Omtrent het Gedrag (hierna: VOG). Bij het beoordelen van de betrouwbaarheid op basis van de VOG wordt justitiële en politiële informatie meegenomen. Het Centraal Orgaan Verklaring Omtrent het Gedrag (hierna: COVOG) is belast met de afgifte van de VOG. COVOG beschikt over een specifiek screeningsprofiel voor (buitengewoon) opsporingsambtenaren aan de hand waarvan de screening plaatsvindt.<sup> 6 De screeningsprofielen voor het beoordelen van aanvragen ter verkrijging van een Verklaring Omtrent het Gedrag van natuurlijke personen en rechtspersonen zijn te vinden op www.rijksoverheid.nl/VOG. </sup>Ter aanvulling op de VOG kan advies worden gevraagd aan de toezichthouder en/of de direct toezichthouder. Het uiteindelijke oordeel over de betrouwbaarheid van de boa baseert de Minister van Veiligheid en Justitie op de overgelegde VOG en, indien van toepassing, op eventuele aanvullende politiële informatie. Daarnaast is het altijd mogelijk om de betrouwbaarheid tussentijds te toetsen. Mocht bij deze tussentijdse toetsing twijfels bestaan omtrent de betrouwbaarheid of blijken dat de boa niet meer betrouwbaar is, dan kan de bevoegdheid worden opgeschort of ingetrokken. Of de boa nog betrouwbaar is wordt vastgesteld aan de hand van de justitiële documentatie of politiële informatie afkomstig van de toezichthouder en/of de direct toezichthouder. Bij verstrekking van deze informatie kan advies worden gevraagd aan de toezichthouder en/of de direct toezichthouder. Ook feiten die (nog) niet tot strafrechtelijke vervolging hebben geleid worden meegenomen bij het bepalen of de boa nog betrouwbaar kan worden geacht. Indien wordt vastgesteld dat bij de (beoogde) boa de betrouwbaarheid voor de uitvoering van opsporingsbevoegdheden niet (meer) aanwezig is, worden de betrokkene, zijn werkgever, de toezichthouder en de direct toezichthouder hiervan op de hoogte gesteld. Aan betrokkene wordt geen akte van beëdiging en titel van opsporingsbevoegdheid verleend. In het geval deze al aan hem waren verleend, vervalt de opsporingsbevoegdheid met ingang van de dag na de datum waarop is vastgesteld dat de betrouwbaarheid voor de uitvoering van opsporingsbevoegdheden niet meer aanwezig is. Wordt er overgegaan tot schorsing of intrekking van de opsporingsbevoegdheid, dan dienen de akte en legitimatiebewijzen door de werkgever te worden ingenomen en in bewaring worden gegeven bij de direct toezichthouder. Eventuele geweldsmiddelen dienen zonder tussenkomst van anderen bij de direct toezichthouder in bewaring te worden gegeven.    
 ### 3.4  
 
 ####De bekwaamheid van de Buitengewoon Opsporingsambtenaar
 
-Treedt in werking per 01-07-2015 
-
 Artikel 2 van het BBO geeft aan dat een boa slechts bevoegd kan zijn als hij bekwaam is. Artikel 16, eerste lid, van het BBO stelt dat iemand beschikt over bekwaamheid als hij de daarvoor vastgestelde basiskennis en vaardigheden bezit. Het tweede lid stelt dat ten aanzien van categorieën boa’s aanvullende bekwaamheidseisen kunnen worden gesteld in de vorm van een verzwaard examen of een opleidingsprogramma.   
 
 ####Basisbekwaamheid
-
-Treedt in werking per 01-07-2015 
 
 De examinering van het basisexamen vindt onder auspiciën van de Stichting ExTH plaats. Sinds 1 oktober 2012 is de regie op de uitvoering van de examinering van de basisbekwaamheden en van de permanente her- en bijscholing in domein I en III neergelegd bij de Stichting Exameninstelling Toezicht en Handhaving (ExTH), middels een intentieverklaring en een aanvullend samenwerkingsconvenant.<sup> 7 Stcrt 2015, 15343. </sup>  Indien men slaagt voor het algemene basisexamen buitengewoon opsporingsambtenaar ontvangt men een ‘getuigschrift boa’, ondertekend door de voorzitter van de Examencommissie buitengewoon opsporingsambtenaar namens de Minister van Veiligheid en Justitie. De (beoogd) boa wordt op een aantal elementen getoetst om te bezien of hij over de basiskennis en basisvaardigheden beschikt. Het basisexamen moet in beginsel elke vijf jaar met goed gevolg worden afgelegd. Het examen wordt afgenomen onder verantwoordelijkheid van de door de Stichting ExTH ingestelde Examencommissie buitengewoon opsporingsambtenaar op basis van het door de Stichting ExTH opgestelde examenreglement. Dit reglement is gepubliceerd op www.exth.nl. Het getuigschrift boa is vijf jaar geldig. Indien men binnen één jaar na het behalen van het getuigschrift een titel van opsporingsbevoegdheid aanvraagt, dan geldt de benoemingsperiode van vijf jaar vanaf de datum die op de akte van beëdiging staat vermeld. Vraagt men later dan één jaar na het behalen van het getuigschrift als boa een titel van opsporingsbevoegdheid aan, dan geldt echter een maximale benoemingsperiode tot vijf jaar na de datum die op het getuigschrift staat vermeld. Bij overgang van de boa naar een nieuwe werkgever blijft het getuigschrift zijn geldigheid behouden, tot maximaal vijf jaar na de datum die op het getuigschrift staat vermeld. Daarna moet de boa, voor de verlenging van de akte van beëdiging, opnieuw het getuigschrift behaald hebben (of, indien er in het domein sprake is van permanente her- en bijscholing, het bijbehorende certificaat) dan wel voldoen aan de ontheffingsgronden. Indien een boa bij een overgang van werkgever ook overgaat naar een nieuw domein, dan dient de boa te voldoen aan de specifieke opleidingseisen van dit domein. Dit kan betekenen dat in aanvulling op of ter vervanging van de basisbekwaamheidseis, de boa aan eventuele aanvullende bekwaamheidseisen voor dat betreffende domein moet voldoen.    
 
 ####Basisbekwaamheidseisen gerelateerd aan de opsporingsbevoegdheid
 
-Treedt in werking per 01-07-2015 
-
 De boa dient de hem toegekende bevoegdheden binnen het opsporingsonderzoek juist toe te passen. Kennis van zijn strafvorderlijke bevoegdheden, de grondrechten waarop deze een inbreuk maken en de algemene bepalingen uit het Wetboek van Strafrecht is daartoe noodzakelijk. Enkele begrippen uit het privaatrecht zijn binnen het kader van het toepassen van opsporingsbevoegdheden eveneens van betekenis. Hetzelfde geldt voor een aantal wettelijke regels die de boa dan wel zijn handelen beschermen. Van de boa wordt verlangd dat hij opgespoorde strafbare feiten kan afhandelen middels het opmaken van een proces-verbaal dat kan leiden tot vervolging en behandeling ter terechtzitting. Kennis van de wettelijke eisen die aan het proces-verbaal worden gesteld, is onontbeerlijk. In dit verband dient een boa een verdachte adequaat te kunnen informeren over de mogelijke gevolgen van een proces-verbaal. Dit vergt voldoende vaardigheid in gespreks- en benaderingstechnieken en vereist enige kennis van de taken en de organisatie van de rechterlijke macht. De boa dient te functioneren binnen de voor zijn opsporingstaak vastgestelde wettelijke kaders. Dit vereist deskundigheid betreffende de organisatie van het opsporingsapparaat en meer in het bijzonder betreffende de eigen positie daarbinnen. De boa moet handelen overeenkomstig de door hem afgelegde eed of belofte, en dient zich bewust te zijn van zijn publieke taak, onder meer door het proces-verbaal volledig en naar waarheid in te vullen. De wettelijk voorgeschreven samenwerking met de politie verlangt enige kennis van de taken en de organisatie van de politie. De boa dient zich bewust te zijn van het type rechtsregels bij de uitvoering en handhaving waarmee hij belast is. Kennis van een aantal begrippen uit het staatsrecht is daartoe vereist. Voor veel boa’s zal verdieping en verbreding van het hierboven geformuleerde basispakket noodzakelijk zijn om binnen het eigen werkverband adequaat te kunnen functioneren. De Minister van Veiligheid en Justitie kan op grond van artikel 16, tweede lid, BBO aanvullende bekwaamheidseisen stellen aan boa’s. De boa-werkgever kan tevens aanvullende eisen van vakbekwaamheid stellen aan de eigen boa’s en hen daarop (doen) examineren. Dit is uitgewerkt in het overzicht van hoofdtaken en bijbehorende kenniselementen voor de basisbekwaamheid in bijlage C (Examenplan Basisbekwaamheid). De uitwerking van deze kenniselementen is te vinden op de website van Stichting ExTH, www.exth.nl.    
 
 ####Aanvullende bekwaamheidseisen gerelateerd aan de opsporingsbevoegdheid
-
-Treedt in werking per 01-07-2015 
 
 Alle boa’s dienen te voldoen aan de basisbekwaamheidseis zoals in de vorige paragraaf omschreven. Het kan evenwel wenselijk zijn dat bepaalde categorieën van boa’s voldoen aan aanvullende bekwaamheidseisen in verband met de complexiteit van de opsporing. Hierbij kan worden gedacht aan boa’s die werk uitvoeren dat specialistische kennis vereist of plaatsvindt in een relatief ingewikkelde handhavingsomgeving. Daarbij wordt de rol van de boa in de strafrechtelijke handhaving steeds groter en daarmee ook de wens om te komen tot een uniforme kwaliteit van de handhaving door de boa’s. Aanvullende bekwaamheidseisen die gesteld kunnen worden aan boa’s zijn onder andere de eis dat een verzwaard boa-examen dient te worden afgelegd, dan wel de eis dat een opleidingsprogramma moet worden doorlopen. Bij het opleidingsprogramma is het mogelijk dat na het behalen van de basis-bekwaamheidseis een boa beëdigd wordt, zodat de boa gedurende het aanvullend opleidingsprogramma reeds gebruik kan maken van opsporingsbevoegdheden. Op die manier wordt duaal leren mogelijk. Indien niet (tijdig) wordt voldaan aan de aanvullende opleidingseisen, is er niet voldaan aan de bekwaamheidseis en zal de opsporingsbevoegdheid worden ingetrokken. De Minister van Veiligheid en Justitie bepaalt in welke gevallen een verzwaard examen dan wel een aanvullend opleidingsprogramma nodig is voor het verkrijgen van opsporingsbevoegdheden. Per domein is aangegeven of, en zo ja, welke aanvullende opleidingseisen gesteld zijn. De keuze om te komen tot aanvullende opleidingseisen en de invulling hiervan komt tot stand in nauw overleg met betrokken boa-werkgevers, direct toezichthouders en toezichthouders. Of wordt voldaan aan de aanvullende bekwaamheidseisen wordt bepaald door de examencommissie. Een opleidingscommissie waarin toezichthouders, direct toezichthouders en werkgevers zijn afgevaardigd kan in het leven worden geroepen om namens de toezichthouder toe te zien op de inhoud en kwaliteit van een aanvullende opleiding. Samengevat dient bij een aanvraag voor een titel van opsporingsbevoegdheid, dan wel een verlenging of wijziging hiervan, afhankelijk van welke bekwaamheidseisen gelden voor het betreffende domein, altijd te worden overgelegd: 
 
@@ -139,31 +107,21 @@ Alle boa’s dienen te voldoen aan de basisbekwaamheidseis zoals in de vorige pa
 
 ####Ontheffing van de bekwaamheidseis
 
-Treedt in werking per 01-07-2015 
-
 Uitgangspunt is dat zowel bij een eerste aanvraag als bij een aanvraag tot verlenging van benoeming als boa aan de bekwaamheidseis moet worden voldaan. Ingevolge artikel 16, derde lid, van het BBO kan van de bekwaamheidseis ontheffing worden verleend, indien de bekwaamheid voor het uitoefenen van de opsporingsbevoegdheid op andere wijze blijkt. Voor alle ontheffingen geldt, dat boa’s hier niet automatisch ‘recht’ op hebben. De werkgever dient de ontheffing te allen tijde te ondersteunen en aan te vragen. De ontheffingsgronden staan beschreven in bijlage H van deze beleidsregels. Eventuele specifieke ontheffingsgronden voor aanvullende opleidingen staan beschreven in de betreffende domeinen.    
 
 ####Bekwaamheidseisen politiebevoegdheden en geweldsmiddelen
-
-Treedt in werking per 01-07-2015 
 
 Tijdens het uitoefenen van zijn opsporingsbevoegdheden is de boa gehouden aan de regels van het Wetboek van Strafvordering en het BBO. Indien hem politiebevoegdheden dan wel geweldsmiddelen zijn toegekend, dient hij zich tevens te gedragen overeenkomstig de regels van de Politiewet 2012, de Wet wapens en munitie alsmede de Ambtsinstructie voor de politie, de Koninklijke Marechaussee en andere opsporingsambtenaren. In artikel 4, sub b, van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren wordt bepaald dat het gebruik van een geweldsmiddel slechts is toegestaan door een ambtenaar die in het gebruik van dat geweldsmiddel is geoefend. Voorts wordt in artikel 5 van de Regeling wapens en munitie bepaald dat de boa slechts met een wapen kan worden uitgerust indien de noodzaak van het dragen van dat wapen aannemelijk wordt gemaakt en de bekwaamheid van de boa met het wapen is aangetoond. Daarbij moet de boa die één of meer politiebevoegdheden heeft ofwel politiebevoegdheden en één of meer geweldsmiddelen, voldoen aan de eisen zoals gesteld in de Regeling toetsing geweldsbeheersing buitengewoon opsporingsambtenaar en ambtenaren van bijzondere opsporingsdiensten (RTGB). In de RTGB worden regels gesteld inzake de toetsing van boa’s met betrekking tot geweldsbeheersing, aanhoudings- en zelfverdedigingsvaardigheden en de schietvaardigheid.<sup> 8 Voor inhoudelijke uitleg van de RTGB en het toetsingsschema wordt verwezen naar de toelichting op deze regeling. </sup>     
 
 ####Verlenging titel van opsporingsbevoegdheid
 
-Treedt in werking per 01-07-2015 
-
 Bij de verlenging van de titel van opsporingsbevoegdheid als bedoeld in artikel 6 van het BBO wordt getoetst of de betreffende boa tijdig heeft voldaan aan alle tot aan het moment van aanvraag van de verlenging verplichte bekwaamheidseisen.    
 
 ####Inwerkingtredingstermijn wijzigingen eindtermen
 
-Treedt in werking per 01-07-2015 
-
 De eisen voor de bekwaamheid zijn vastgelegd in de vorm van eindtermen, competentieprofielen of opleidingseisen. Wijzigingen ten aanzien van de regelgeving, de eindtermen, competentieprofielen of opleidingseisen kunnen worden opgenomen in de examens vanaf 6 maanden na de inwerkingtreding van de betreffende bepalingen of, indien bekendmaking voor inwerkingtreding plaatsvindt, minimaal 6 maanden na bekendmaking van de betreffende bepalingen. De eindtermen behoeven daarvoor niet te worden gewijzigd.    
 
 ####Stage
-
-Treedt in werking per 01-07-2015 
 
 Omdat het onder andere mogelijk is om een volledig MBO-diploma te behalen met de opleiding Handhaver Toezicht en Veiligheid aan verschillende Regionale Opleidingscentra (ROC’s), is er de mogelijkheid om stage te lopen als boa. Immers voor het behalen van het diploma is het met goed gevolg afleggen van één of meerdere stages een verplicht onderdeel. De mogelijkheid om als boa stage te lopen geldt voor alle domeinen en kan ook in het kader van een re-integratie traject. Het lopen van een stage met de status van Buitengewoon Opsporingsambtenaar is aan onderstaande randvoorwaarden gebonden: 
 
@@ -190,8 +148,6 @@ Omdat het onder andere mogelijk is om een volledig MBO-diploma te behalen met de
 
 ####Toezicht op boa's
 
-Treedt in werking per 01-07-2015 
-
 De kwaliteit van de strafrechtelijke handhaving door de boa's dient te worden gemonitord door de toezichthouder en de direct toezichthouder. Dit om twee redenen: 
 
 a) om de kwaliteit van de opsporing door de boa's te kunnen monitoren en te waarborgen;  
@@ -200,53 +156,37 @@ b) om mede daardoor optimaal gebruik te kunnen maken van het grote opsporingspot
 
 ####De toezichthouder
 
-Treedt in werking per 01-07-2015 
-
 Het OM is toezichthouder op de boa's, dat wil zeggen de hoofdofficieren van Justitie van de arrondissementsparketten, het Functioneel Parket (FP), Centrale Verwerking Openbaar Ministerie (CVOM) en het Landelijke Parket (LP). Artikel 38 van het BBO stelt dat de toezichthouder er op toe ziet dat de boa zijn taak bij de opsporing naar behoren vervult en de opsporingsbevoegdheden alsmede de politiebevoegdheden op juiste wijze uitoefent. De toezichthouder ziet eveneens toe op een goede invulling van haar adviestaak en de samenwerking met de politie. Bij een lokale, regionale boa-werkgever, zonder landelijk werkterrein, is de hoofdofficier van Justitie van het parket waarbinnen de boa-werkgever is gevestigd de toezichthouder. Bij een boa-werkgever met een bovenregionaal, of landelijk werkterrein kan in overleg met de direct toezichthouder, toezichthouder en eventueel andere betrokken partijen worden besloten dat de hoofdofficier van een aangewezen parket, bijvoorbeeld het landelijk parket, als toezichthouder wordt aangewezen.    
 
 ####De direct toezichthouder
-
-Treedt in werking per 01-07-2015 
 
 De korpschef van de politie en sommige hoofden van Rijksdiensten met boa's zijn belast met het direct toezicht op boa's. Het gaat hierbij om taken die losstaan van de ondersteunende en bijstandsverlenende rol van de politie die berust op de Politiewet 2012. De direct toezichthouder voor boa's draagt zorg voor een goede uitvoering van zijn adviestaak en de afspraken ter borging en verbetering van de kwaliteit van de opsporing door de boa's. Het BBO geeft taken en bevoegdheden aan de direct toezichthouder. Deze staan beschreven in bijlage B (Taken direct toezichthouder).      
 ### 4  
 
 ####Overig
 
-Treedt in werking per 01-07-2015 
-
 ### 4.1  
 
 ####Veilige publieke taak
-
-Treedt in werking per 01-07-2015 
 
 Geweld en agressie tegen boa’s wordt niet getolereerd. In de praktijk betekent dit dat boa’s effectief moeten kunnen optreden als zij worden geconfronteerd met agressie en geweld tijdens de uitoefening van hun publieke taak. Elke boa beschikt daarom optioneel over extra (politie)bevoegdheden en geweldsmiddelen. Bij verdenking van een misdrijf als bedoeld in de artikelen 177, 179, 180, 181, 182, 284, 285, 300 juncto artikel 304 onder ten tweede, Wetboek van Strafrecht, kunnen boa’s een ambtsedig proces-verbaal van bevindingen opmaken van het hun overkomen geweld op grond waarvan verdachten van dit geweld kunnen worden veroordeeld.<sup> 9 De bewijskracht van een dergelijk proces-verbaal is sterker dan een proces-verbaal opgemaakt met betrekking tot feiten waarvoor de boa geen opsporingsbevoegdheid heeft, gelet op artikel 344 eerste lid, aanhef en onder 2 van het Wetboek van Strafvordering. </sup> Het is – in verband met de onafhankelijkheid van het onderzoek – uitdrukkelijk niet de bedoeling dat een boa het onderzoek in de onderhavige zaak gaat doen. Dit blijft een verantwoordelijkheid van de politie. De rol van slachtoffer en die van onderzoeker moeten gescheiden blijven. Het proces-verbaal van bevindingen zal in de praktijk altijd gepaard moeten gaan met het doen van aangifte bij de politie van het geweld. Volledig proces-verbaal mogen boa’s opmaken voor onderzoeken in het kader van artikelen 184, 184a, 185, 266/267, 435, onder ten vierde en artikel 447e van het Wetboek van Strafrecht.    
 ### 4.2  
 
 ####Landelijke opsporingsbevoegdheid
 
-Treedt in werking per 01-07-2015 
-
 Boa’s zijn landelijk opsporingsbevoegd, hierdoor kunnen afspraken worden gemaakt over de inzet van boa's op regionaal niveau. Aan de mogelijkheid om landelijk te werken worden voorwaarden gesteld. De boa onthoudt zich – zoals een politiefunctionaris – in principe van optreden buiten zijn gebied van aanstelling.<sup> 10 Zie artikel 6, tweede lid, van de Politiewet 2012. </sup>Hij mag alleen dan optreden buiten zijn eigen gebied, indien dat gebeurt in overleg met het bevoegde gezag (de lokale driehoek) en – indien van toepassing – in overleg met het bevoegd gezag van een eventueel ander gebied dan het gebied van aanstelling. Het is de taak van de toezichthouder en direct toezichthouder om het bevoegd gezag van de betreffende gebieden te informeren. Deze afstemming dient te worden vastgelegd in een samenwerkingsovereenkomst. Hierin moet staan welke partijen met elkaar gaan samenwerken, hoe wordt omgegaan met het gebruik van politiebevoegdheden en geweldsmiddelen, wie de direct toezichthouder en toezichthouder zijn en of het bevoegd gezag is geïnformeerd. Het is aan de betreffende partijen welke afspraken zij nog meer willen vaststellen in de overeenkomst (bijvoorbeeld aantal boa's). Bijlage I bevat een voorbeeld van een samenwerkingsovereenkomst welke ten grondslag kan liggen aan een samenwerkingsverband.    
 ### 4.3  
 
 ####Aanvraagprocedure
-
-Treedt in werking per 01-07-2015 
 
 De boa-werkgever dient voor het doen van een aanvraag bij de dienst Justis eerst contact te zoeken met de direct toezichthouder en de toezichthouder om de noodzaak en de voorgenomen aanvraag te bespreken. De boa-werkgever stuurt de aanvraag samen met de adviezen van beide toezichthouders toe aan de dienst Justis.<sup> 11 Het adres van de dienst Justis is: Ministerie van Veiligheid en Justitie, Dienst JUSTIS, Turfmarkt 147, Postbus 20300, 2500 EH 's-Gravenhage. </sup>  Dit geldt ook voor aanvragen voor toekenning van politiebevoegdheden en geweldsmiddelen. Aan de toekenning van geweldsmiddelen aan boa's kunnen nadere voorwaarden worden verbonden. Zo kan ervoor gekozen worden om, bij wijze van proef, voor een kortere periode bepaalde geweldsmiddelen toe te kennen. In bijlage J wordt de aanvraagprocedure uiteengezet.     
 ### 5  
 
 ####De domeinen
 
-Treedt in werking per 01-07-2015 
-
 De domeinlijst bevat vijf inhoudelijke domeinen en een 'restdomein'. De domeinen *Openbare ruimte, Milieu, welzijn en infrastructuur, Onderwijs, Openbaar vervoer, Werk, inkomen en zorg en Generieke opsporing* bieden een breed optioneel pakket aan opsporingsbevoegdheden, politiebevoegdheden en geweldsmiddelen. De domeinen bevatten maximale opsporingspakketten. De boa in bezoldigde dienst kan formeel beschikken over alle opsporingsbevoegdheden binnen het betreffende domein. Met het oog op nut en noodzaak wordt er echter van uitgegaan dat de boa-werkgever het pakket aan opsporingsbevoegdheden koppelt aan de taakomschrijving van zijn boa's. Het gebruik van opsporingsbevoegdheden dient immers altijd gekoppeld te zijn aan de vervulling van de aan de functie gerelateerde taken. Daarom dient de boa-werkgever middels het aanvraagformulier de taakomschrijving te beschrijven en daarbij de gewenste opsporingsbevoegdheden binnen een domein aan te kruisen. Het is uitdrukkelijk niet de bedoeling dat de boa bevoegdheden aanwendt die buiten zijn taakomschrijving vallen. De enige uitzondering hierbij vormen de toegevoegde strafrechtartikelen waarvoor de boa een proces-verbaal van bevindingen kan opmaken indien hij wordt geconfronteerd met agressie en geweld tijdens de uitvoering van zijn taken (zie ook hiervoor onder 4.1). Indien een boa gaat handhaven op feiten welke buiten zijn taakomschrijving vallen, dient in eerste instantie de boa-werkgever de boa hier op aan te spreken. In overleg met de direct toezichthouder en eventueel de toezichthouder kan worden bepaald hoe een en ander verder wordt afgehandeld. Met behulp van de domeinbenadering is het mogelijk landelijk op uniforme wijze te werken aan professionalisering van de boa. In alle domeinen moeten de boa’s voldoen aan de basisbekwaamheid. In de eerste drie domeinen (Domein I Openbare Ruimte, Domein II Milieu, welzijn en infrastructuur, Domein III Onderwijs) is er sprake van permanente her- en bijscholing. In domein IV Openbaar Vervoer geldt er weer een ander regime. Op deze wijze kan per domein worden geïnvesteerd in opsporingsvaardigheden en -competenties gericht op de specifieke behoeften binnen een domein.   
 
 #### *Overgangsbeleid uitsluitend voor boa’s die voor 1 juli 2015 feitelijk in 2 domeinen werkzaam waren* 
-
-Treedt in werking per 01-07-2015 
 
 Een boa kan in beginsel maar binnen één domein werkzaam zijn, onder andere vanwege de vereiste specifieke bekwaamheid voor een domein en met het oog op de inkadering van de buitengewone opsporingbevoegdheid (het betreft geen algemene opsporingsbevoegdheid). Daarbij maakt het niet uit of het een ingehuurde boa betreft. Voor nieuwe aanvragen van aktes ingediend vanaf 1 juli 2015 en de verlengingen van die aktes geldt het uitgangspunt dat een boa maar in 1 domein werkzaam kan zijn. Uitzondering hierop zijn boa’s die in een tweede domein als vrijwilliger werkzaam zijn voor een private organisatie die een functie uitoefenen met specifieke en beperkte taken waarmee een zwaarwegend maatschappelijk belang is gemoeid. Het gaat hier om dezelfde groep die onder de uitzondering valt op de hoofdregel dat een boa in bezoldigde overheidsdienst dient te zijn. Het was boa’s die bij de invoering van het domeinstelsel in 2010 feitelijk in twee domeinen werkzaam waren toegestaan deze werkzaamheden voort te zetten. Voor deze groep is het hebben van maximaal twee opsporingsakten toegestaan. Als voorwaarden worden hierbij gesteld dat: 
 
@@ -257,13 +197,9 @@ b) de boa voldoet aan de bekwaamheidseisen van beide domeinen.   Zo bleef het bi
 
 ####Domein I Openbare ruimte
 
-Treedt in werking per 01-07-2015 
-
 ### 6.1  
 
 ####Algemeen
-
-Treedt in werking per 01-07-2015 
 
 De boa openbare ruimte heeft een breed pakket aan bevoegdheden waardoor het lokale veiligheidsbeleid gericht op de aanpak van overlast en kleine ergernissen en andere feiten die de leefbaarheid aantasten binnen de openbare ruimte kan worden gehandhaafd. Toekomstige uitbreidingen van de domeinlijst (paragraaf 6.4) dient te voldoen aan de cumulatieve criteria van het leefbaarheidscriterium die zijn benoemd in de brief van 1 april 2014 ‘Voortgang samenhang toezicht en handhaving in de openbare ruimte’.<sup> 12 Kamerstukken II 2013-14, 28 684, nr. 402 </sup>  
 
@@ -288,8 +224,6 @@ B.  *Criteria met betrekking tot de uitvoerbaarheid door een boa met het special
 
 ####Inhuur
 
-Treedt in werking per 01-07-2015 
-
 Met inhuur wordt bedoeld het in onbezoldigde dienst nemen van niet-ambtenaren. Alvorens gemeenten kunnen overgaan tot inhuur moet worden voldaan aan de volgende voorwaarden. 
 
 ○ Instemming van de gemeenteraad en de lokale driehoek. Hierbij is van belang dat het toezicht op de boa geborgd kan worden (net als bij de ‘reguliere’ boa).  
@@ -311,30 +245,20 @@ Met inhuur wordt bedoeld het in onbezoldigde dienst nemen van niet-ambtenaren. A
 
 ####Bekwaamheidseis domein I openbare ruimte
 
-Treedt in werking per 01-07-2015 
-
 ####Bekwaamheidseis
-
-Treedt in werking per 01-07-2015 
 
 De bekwaamheidseis bestaat uit het boa basisexamen (het boa-getuigschrift), een aanvullend opleidingsprogramma en – indien de boa Openbare ruimte beschikt over politiebevoegdheden en geweldsmiddelen – de bekwaamheidseisen uit de RTGB. In 2010 werden initiatieven ontwikkeld voor een verdergaande professionalisering van de boa Openbare ruimte. In overleg met boa-werkgevers, de direct toezichthouders, de toezichthouders en andere betrokken partners zijn aanvullende bekwaamheidseisen ontwikkeld die per 1 oktober 2012 verplicht worden gesteld en geëxamineerd onder de auspiciën van Stichting ExTH. Sinds 1 oktober 2012 dienen boa’s Openbare ruimte nog één maal het basisexamen te behalen voor de verlenging van hun akte. Na de eerstkomende verlenging dient een modulair opgebouwd traject van permanente her- en bijscholing te worden doorlopen om de boa-bevoegdheid te kunnen behouden. De boa’s Openbare ruimte dienen vier modules in de looptijd van hun akte met een voldoende resultaat te hebben doorlopen om na vijf jaar hun titel van opsporingsbevoegdheid te mogen verlengen. Hierbij gelden bovendien de voorwaarden dat één module binnen twee jaar moet zijn behaald. Binnen drie jaar dienen minimaal twee modules behaald te zijn en binnen vier jaar drie modules. Indien niet wordt voldaan aan deze voorwaarden dan is niet voldaan aan de bekwaamheidseis. De titel van opsporingsbevoegdheid komt dan te vervallen.    
 
 ####Examencommissie
 
-Treedt in werking per 01-07-2015 
-
 De door de Stichting ExTH ingestelde examencommissie bewaakt de kwaliteit van de examens (zie examenplan).    
 
 ####Examenplan
-
-Treedt in werking per 01-07-2015 
 
 In Bijlage D is een overzicht opgenomen van de examenonderdelen en bijbehorende onderwerpen. In de laatste kolom is aangeven of het betreffende examenonderdeel met een theorietoets (T) of een praktijktoets (P) geëxamineerd wordt. Voor verdere uitwerking van de examenonderdelen: zie www.exth.nl/examens/phb-domein-i/     
 ### 6.4  
 
 ####Domeinlijst I. Openbare ruimte
-
-Treedt in werking per 01-07-2015 
 
 De boa Openbare ruimte is bevoegd om te handhaven op de volgende artikelen en wetten voor zover noodzakelijk voor een goede uitoefening van de functie en de daaraan gekoppelde taakomschrijving, tenzij de wet zich daartegen verzet. 
 
@@ -368,7 +292,7 @@ De boa Openbare ruimte is bevoegd om te handhaven op de volgende artikelen en we
 
 15. Artikel 6.2 lid 1 Waterwet, juncto artikel 1a Wet op de economische delicten voor zover het overtredingen betreft die een nadelige invloed hebben of kunnen hebben op de leefbaarheid in de publieke ruimte;  
 
-16. Artikel 5 Wegenverkeerswet 1994 en het Reglement verkeersregels en verkeerstekens 1990 voor zover het stilstaand verkeer betreft. De artikelen 4, 5, 6, 10, 82 en 62 juncto bijlage I hoofdstuk C (geslotenverklaring) van het Reglement verkeersregels en verkeerstekens 1990 voor zover van toepassing voor zowel rijdend als stilstaand verkeer. Op 12 april 2011 is door het College van procureurs-generaal (brief met kenmerk Pag/B&S/15674) nadere invulling gegeven in het kader van gemeentelijke handhaving van de WVW<sup> 14 Zie http://www.handhaveninbrabant.nl/default/onderwerpen/buitengewoonopsporingsambtenaar/boas/id_27273 </sup>. Handhaving op negatie van C borden (RVV 1990) is in relatie tot de openbare orde toegestaan. In bijlage L is het toepasselijke kader voor de gemeente opgenomen indien zij digitaal wil handhaven op categorie C borden.  
+16. Artikel 5 Wegenverkeerswet 1994 en het Reglement verkeersregels en verkeerstekens 1990 voor zover het stilstaand verkeer betreft. De artikelen 4, 5, 6, 10, 60, 82 en 62 juncto bijlage I hoofdstuk C (geslotenverklaring) van het Reglement verkeersregels en verkeerstekens 1990 voor zover van toepassing voor zowel rijdend als stilstaand verkeer. Op 12 april 2011 is door het College van procureurs-generaal (brief met kenmerk Pag/B&S/15674) nadere invulling gegeven in het kader van gemeentelijke handhaving van de WVW<sup> 14 Zie http://www.handhaveninbrabant.nl/default/onderwerpen/buitengewoonopsporingsambtenaar/boas/id_27273 </sup>. Handhaving op negatie van C borden (RVV 1990) is in relatie tot de openbare orde toegestaan. In bijlage L is het toepasselijke kader voor de gemeente opgenomen indien zij digitaal wil handhaven op categorie C borden;  
 
 17. Artikel 2 van de Wet aansprakelijkheidsverzekering motorrijtuigen;  
 
@@ -416,20 +340,14 @@ De boa Openbare ruimte is bevoegd om te handhaven op de volgende artikelen en we
 
 ####Politiebevoegdheden en Geweldsmiddelen
 
-Treedt in werking per 01-07-2015 
-
 De boa Openbare ruimte in bezoldigde dienst kan optioneel beschikken over de politiebevoegdheden bedoeld in artikel 7 eerste en derde lid van de Politiewet 2012 en kan tevens optioneel beschikken over handboeien, wapenstok en/of pepperspray. De boa Openbare ruimte in onbezoldigde dienst kan optioneel beschikken over de politiebevoegdheden bedoeld in artikel 7 eerste en derde lid van de Politiewet 2012 en optioneel over handboeien.      
 ### 7  
 
 ####Domein II Milieu, welzijn en infrastructuur
 
-Treedt in werking per 01-07-2015 
-
 ### 7.1  
 
 ####Algemeen
-
-Treedt in werking per 01-07-2015 
 
 Het domein voor de boa's die zich bezighouden met natuur en milieu, arbeidsinspectie, voedsel & waren controles, dierenwelzijn, openbare gezondheid en fysieke leefomgeving en infrastructuur (waaronder deelaspecten bouwen, wonen, monumenten, ruimte). Milieuboa's in de zin van deze beleidsregels zijn: 
 
@@ -444,8 +362,6 @@ Het domein voor de boa's die zich bezighouden met natuur en milieu, arbeidsinspe
 
 ####Toezicht
 
-Treedt in werking per 01-07-2015 
-
 I. Het toezicht op de boa's die zich bezig houden met de milieuhandhaving is belegd bij het Functioneel Parket in plaats van een hoofdofficier van Justitie van een arrondissementsparket. Het Functioneel parket is belast met de bestrijding van milieucriminaliteit. Het is dan ook voor de hand liggend om het toezicht op de boa's die zich bezig houden met milieuhandhaving, neer te leggen bij het Functioneel Parket. Het toezicht op de overige boa's in dit domein kan bij uitzondering bij andere toezichthouders worden belegd.  
 
 II. Het direct toezicht op de milieuboa's in dienst van of werkzaam voor een landelijke werkgever kan worden belegd bij het hoofd van een landelijke dienst.<sup> 16 Zoals bij de volgende diensten: NVWA, Rijkswaterstaat, Inspectie SZW, Inspectie Leefomgeving en Transport, Staatstoezicht op de Mijnen. </sup> Bij een lokale, regionale boa-werkgever (geen landelijk werkterrein) blijft de Korpschef van de nationale politie de direct toezichthouder.      
@@ -453,59 +369,39 @@ II. Het direct toezicht op de milieuboa's in dienst van of werkzaam voor een lan
 
 ####Bekwaamheidseis Domein II Milieu, welzijn en infrastructuur
 
-Treedt in werking per 01-07-2015 
-
 ####Evaluatie opleidingsprogramma milieuboa’s
-
-Treedt in werking per 01-07-2015 
 
 *Het hierna uiteengezette opleidingsprogramma voor milieuboa’s is in 2014 geëvalueerd door het Verwey Jonker instituut in opdracht van het WODC. Dit heeft geresulteerd in het bij brief van 17 april 2015 aan de Tweede Kamer aangeboden rapport ‘Professionalisering milieuboa's; evaluatie van het opleidingsprogramma voor buitengewoon opsporingsambtenaren milieu, werkzaam in domein 2’.<sup> 17 Kamerstukken II, 2014–2015, 28 684, nr. 439. </sup> In voornoemde brief heeft de minister aangegeven dat een Examencommissie wordt ingericht en het in overleg met het Openbaar Ministerie mogelijk zal worden gemaakt dat naast de huidige opleidingsinstituten ook andere opleidingsinstituten zich kunnen kwalificeren om het opleidingsprogramma te verzorgen. Gelet hierop zullen het komende jaar op het gebied van permanente her- en bijscholing in dit domein ontwikkelingen gaan plaatsvinden. Wanneer deze ontwikkelingen gereed zijn om in de Beleidsregels op te nemen, dan zullen deze verder worden aangepast. Het onderstaande vormt tot die tijd het uitgangspunt.*     
 
 ####Opleidingsprogramma
 
-Treedt in werking per 01-07-2015 
-
 De bekwaamheidseis bestaat uit het boa basisexamen (het boa-getuigschrift), een aanvullend opleidingsprogramma en – indien de boa Milieu, welzijn en infrastructuur beschikt over politiebevoegdheden en geweldsmiddelen – de bekwaamheidseisen uit de RTGB. De taken en competenties van milieuboa’s zijn opgesomd in bijlage E. Deze taken en competenties geven een compleet beeld van de bekwaamheidseisen waaraan de milieuboa moet voldoen. De eindtermen van de basisbekwaamheidseis zijn hierin geïncorporeerd. Voor zover de vereiste competenties hierboven uitgaan, is sprake van aanvullende bekwaamheidseisen. Vanwege het specifieke werkterrein van bepaalde groepen boa’s (bijvoorbeeld boa’s in de functiegroep van flora-en faunabeheerder), zijn opleidingen (deels) op maat ontwikkeld, dan wel te ontwikkelen in het licht van die competenties die noodzakelijk worden geacht voor het specifieke werkterrein. De opleidingen op maat zullen worden getoetst aan de hand van de hierboven beschreven competenties en in het licht van de te onderscheiden werkvelden van verschillende typen boa’s. Een boa heeft voldaan aan de bekwaamheidseis voor het domein Milieu, welzijn en infrastructuur, wanneer hij de hierna te beschrijven opleidingen heeft gevolgd en de bijbehorende toetsen met succes heeft afgelegd.    
 
 ####Basisbekwaamheid
-
-Treedt in werking per 01-07-2015 
 
 Een ieder die in aanmerking wil komen voor aanwijzing tot milieuboa moet het basisexamen voor boa’s behalen op grond waarvan de titel van opsporingsbevoegdheid wordt verleend. Hierbij wordt de betrokkene aangesteld als milieuboa. Binnen 12 maanden na het verkrijgen van de akte van beëdiging dient de vervolgopleiding te worden gevolgd en met succes te worden afgerond. Dit stelt de betrokkene in staat om tijdens de vervolgopleiding als milieuboa werkzaam te zijn en het geleerde in de praktijk te brengen (duaal leren).    
 
 ####Aanvullende bekwaamheid
 
-Treedt in werking per 01-07-2015 
-
 De basisbekwaamheid is, gelet op de opsporingstaken van de milieuboa’s en de omstandigheden waaronder zij moeten worden uitgeoefend, in de praktijk onvoldoende gebleken. Daarom is in het visiedocument ervoor gekozen om voor degenen die voor het eerst als milieuboa zijn aangesteld, het volgen van een aanvullende vakopleiding verplicht te stellen: de vervolgopleiding. Nieuwe milieuboa’s dienen binnen een jaar na het verkrijgen van de titel van opsporingsbevoegdheid gestart te zijn met de vervolgopleiding. De vervolgopleiding is gericht op het systematisch ontwikkelen van de (complexe) kennis, vaardigheden en stijl die nodig zijn om de milieuboa-functie goed uit te oefenen. Om zo goed mogelijk aan te sluiten bij de beroepspraktijk wordt de vervolgopleiding gecombineerd met het werken in de praktijk. Iedere cursist krijgt een praktijkcoach. Het curriculum voor de opleiding wordt niet bepaald door de klassieke (school)vakken met hun leerstofindeling en -volgorde, maar door het functieprofiel en de hiervan afgeleide kernopgave voor de diverse typen milieuboa’s. Een kernopgave bestaat uit een beschrijving van de kenmerken van de praktijksituaties, dilemma’s, werkpatronen en -methoden. Met andere woorden: het curriculum is op maat toegesneden en voor een boa die hoofdzakelijk werkzaam is zogenaamde grijze kleurspoor (milieu wet- en regelgeving), op bepaalde punten anders ingekleurd dan dat voor een boa die hoofdzakelijk werkzaam is op het groene (natuur) of blauwe (waterkwaliteit) kleurspoor. Globaal gesproken is het opleidingsprogramma voor 80% generiek en 20% specifiek. Bij de uitvoering kan worden voldaan aan specifieke wensen van werkgevers.    
 
 ####Permanente her- en bijscholing
-
-Treedt in werking per 01-07-2015 
 
 Permanent leren wordt beschouwd als een veel effectievere wijze om het niveau van de milieuboa op peil te houden dan een vijfjaarlijks examen. Bovendien kan hiermee goed worden ingespeeld op actuele ontwikkelingen. Daarom krijgt permanente her- en bijscholing een plaats in het opleidingsstelsel voor de milieuboa’s. Van iedere milieuboa wordt verlangd dat hij gedurende de 5 jaar dat zijn boa-akte geldig is, een viertal verplichte modules volgt, die elk worden afgesloten met een toets. Dit komt neer op één module per jaar, waarbij in het jaar van verlenging geen nieuwe module wordt gevolgd. Dat jaar kan worden gebruikt om niet behaalde modules te herkansen. Ook hier geldt dat een groot deel van het onderwijs voor alle functiegroepen gelijk is. Sommige modulen zullen echter specifiek op een bepaalde functiegroep zijn toegeschreven. De studiebelasting per module bedraagt ongeveer 5 contactdagen. Iedere module wordt met een toets afgesloten. Nadat alle vier modulen met een voldoende zijn afgesloten, kan de akte van de betreffende milieuboa met wederom 5 jaar worden verlengd. De verplichting tot permanente her- en bijscholing, ter vervanging van het vijfjaarlijkse examen, gaat gelden voor alle milieuboa’s, met inbegrip van personen aan wie een ontheffing is verleend van de bekwaamheidseis op grond van het zogenaamde seniorenbeleid. Die ontheffing brengt mee dat zij wel de modules volledig moeten volgen, maar dat er geen consequenties zullen worden verbonden aan het niet halen van een toets. Voor nieuwe milieuboa’s betekent dit dat zij met de permanente her- en bijscholing beginnen in het jaar volgend op het succesvol afronden van de vervolgopleiding.    
 
 ####Verzorging van de opleidingen
 
-Treedt in werking per 01-07-2015 
-
 Op dit moment staat het een ieder vrij om de basisopleiding voor milieuboa’s te verzorgen. Voor de andere onderdelen van het opleidingsstelsel is in het visiedocument ervoor gekozen om de ontwikkeling en uitvoering ervan vooralsnog te laten verzorgen door een samenwerkingsverband, thans bestaande uit opleidingsinstituten van de NVWA en de ILT, de Stichting Bestuursacademie Nederland, de Stichting Wateropleidingen en de Politieacademie. Dit is gebeurd om de kwaliteit van de opleidingen met hun sterke wisselwerking met de beroepspraktijk (duaal leren) en regelmatige toetsmomenten van de ontwikkeling van de verschillende competenties te kunnen meten. De verschillende opleidingstrajecten worden, binnen het gemeenschappelijke kader – eindtermen, leerdoelen (kernopgaven), lesprogramma’s, docentenhandleiding – en voor een gezamenlijk vastgestelde prijs per cursist verzorgd door deze instituten, met gebruikmaking van hun respectievelijke kennis en expertise op de verschillende deelterreinen, voor zover relevant voor de milieuopsporing. De cursuskosten komen voor rekening van de werkgever.    
 
 ####Opleidingscommissie
-
-Treedt in werking per 01-07-2015 
 
 In het stelsel zoals dit is neergelegd in het BBO, zijn de toezichthouders belast met het toezicht op de kwaliteit van de boa’s en, in het verlengde hiervan, de kwaliteit van de opleidingen. Dit brengt mee dat de hoofdofficier van justitie van het Functioneel Parket, die zal worden aangewezen als de toezichthouder voor alle milieuboa’s, die taak krijgt ten aanzien van de opleidingen voor de milieuboa’s. Om aan deze verantwoordelijkheid een goede invulling te kunnen geven en, in het bijzonder, te kunnen garanderen dat het voltooien van het samenstel van opleidingen uitzicht biedt op het voldoen aan de basis- en aanvullende eisen van bekwaamheid voor milieuboa’s, wordt door de toezichthouder een opleidingscommissie ingesteld. Deze commissie gaat namens de toezichthouder de inhoud en kwaliteit van de diverse opleidingstrajecten en bijbehorende lesprogramma’s in al hun facetten bewaken. De opleidingscommissie gaat tevens toezien op de deelname van de boa’s aan de voor hen verplichte opleidingstrajecten. In het kader van haar taak toetst de opleidingscommissie aan de hand van de in bijlage E beschreven taken en competenties of de aangeboden opleidingen voldoen, mede in het licht van de te onderscheiden werkvelden van de verschillende typen milieuboa’s. Zo hebben de milieuboa’s die thans behoren tot de functiegroep flora- en faunabeheerder in de praktijk met een ander soort milieudelicten en verdachten te maken dan bijvoorbeeld de milieuboa’s van het Staatstoezicht op de Mijnen. De opleidingsprogramma’s en de uitvoering daarvan zullen met enige regelmaat worden geëvalueerd om te bezien of hierin verandering moet worden aangebracht, bijvoorbeeld door het vervangen van één of meer opleidingsinstituten door andere. Het initiatief hiervoor komt te liggen bij de opleidingscommissie.    
 
 ####Examencommissie
 
-Treedt in werking per 01-07-2015 
-
 De door de Minister van Veiligheid en Justitie ingestelde examencommissie bewaakt de kwaliteit van de examens of toetsen aan de hand van de in deze beleidsregels beschreven competenties (bijlage E).    
 
 ####Vervallen van opsporingsbevoegdheid
-
-Treedt in werking per 01-07-2015 
 
 In de volgende gevallen kan de Minister van Veiligheid en Justitie vaststellen dat niet langer wordt voldaan aan de bekwaamheidseis, zoals bedoeld in artikel 35, eerste lid, onder b, en artikel 32, derde lid, BBO, met verval van de titel van opsporingsbevoegdheid tot gevolg: 
 
@@ -515,8 +411,6 @@ In de volgende gevallen kan de Minister van Veiligheid en Justitie vaststellen d
 ### 7.4  
 
 ####Domeinlijst II. Milieu, welzijn en infrastructuur
-
-Treedt in werking per 01-07-2015 
 
 De boa Milieu, welzijn en infrastructuur is bevoegd om te handhaven op de volgende artikelen en wetten voor zover noodzakelijk voor een goede uitoefening van de functie en de daaraan gekoppelde taakomschrijving, tenzij de wet zich daartegen verzet. 
 
@@ -574,56 +468,38 @@ De boa Milieu, welzijn en infrastructuur is bevoegd om te handhaven op de volgen
 
 ####Landelijke inspectiediensten
 
-Treedt in werking per 01-07-2015 
-
 Gelet op de specifieke taak van inspectiediensten in de milieuhandhaving kunnen boa’s Milieu, welzijn en infrastructuur van een landelijke inspectiedienst voor zover noodzakelijk voor een goede uitoefening van de taak bij samenwerking met partners in de strafrechtelijke handhaving, beschikken over domeinoverschrijdende opsporingsbevoegdheden, tenzij de wet zich daartegen verzet.    
 
 ####Politiebevoegdheden en Geweldsmiddelen
-
-Treedt in werking per 01-07-2015 
 
 De boa Milieu, welzijn en infrastructuur kan optioneel beschikken over de politiebevoegdheden bedoeld in artikel eerste en derde lid van de Politiewet 2012 en optioneel beschikken over handboeien, wapenstok, pepperspray, surveillancehond en/of vuurwapen.      
 ### 8  
 
 ####Domein III Onderwijs
 
-Treedt in werking per 01-07-2015 
-
 ### 8.1  
 
 ####Algemeen
-
-Treedt in werking per 01-07-2015 
 
 Onder het domein onderwijs vallen de leerplichtambtenaren. Zij zijn primair belast met het handhaven van de leerplichtwet en alle andere daar aan gerelateerd relevante wet- en regelgeving. Gelet op het specialistische karakter van deze functie en het feit dat er voor de uitoefening van deze functie door de werkgever veelal een hogere opleiding wordt verlangd, rechtvaardigt deze functie een apart domein.    
 ### 8.2  
 
 ####Bekwaamheidseis Domein III Onderwijs
 
-Treedt in werking per 01-07-2015 
-
 ####Bekwaamheidseis
-
-Treedt in werking per 01-07-2015 
 
 Onder het domein onderwijs vallen de huidige leerplichtambtenaren. Zij zijn primair belast met het handhaven van de leerplichtwet en alle andere daar aan gerelateerd relevante wet- en regelgeving. Gelet op het specialistische karakter van deze functie en het feit dat er voor de uitoefening van deze functie door de werkgever veelal andere kennis en vaardigheden worden verlangd, is besloten deze functie als aparte functie te handhaven. De bekwaamheidseis bestaat uit het boa basisexamen (het boa-getuigschrift), een aanvullend opleidingsprogramma en – indien de boa onderwijs beschikt over politiebevoegdheden en geweldsmiddelen – de bekwaamheidseisen uit de RTGB. Op initiatief van de brancheorganisatie Ingrado is samen met boa-werkgevers en de (direct) toezichthouders in 2012 een systematiek met aanvullende bekwaamheidseisen ontwikkeld. Deze aanvullende bekwaamheidseisen zijn per januari 2013 ingevoerd. Nieuwe leerplichtambtenaren behalen eenmaal het basisexamen, waarna zij een modulair opgebouwd traject van permanente her- en bijscholing zullen doorlopen om de boa-bevoegdheid te kunnen behouden. Voor de huidige boa’s met een akte die op of na 1 januari 2014 afloopt, geldt dat zij voor de eerstkomende verlenging van hun akte versneld het traject van permanente her- en bijscholing moeten doorlopen. De boa’s domein Onderwijs dienen vier modules in de looptijd van hun akte met een voldoende resultaat te hebben doorlopen om na vijf jaar hun titel van opsporingsbevoegdheid te mogen verlengen. Als deze vier modules niet worden behaald binnen deze periode wordt de titel van opsporingsbevoegdheid niet verlengd. Hierbij gelden bovendien de voorwaarden dat één module binnen twee jaar moet zijn behaald. Binnen drie jaar dienen minimaal twee modules behaald te zijn en binnen vier jaar drie modules. Indien niet wordt voldaan aan deze voorwaarden dan is niet voldaan aan de bekwaamheidseis. De titel van opsporingsbevoegdheid komt dan te vervallen.    
 
 ####Examencommissie
 
-Treedt in werking per 01-07-2015 
-
 De door de Stichting ExTH ingestelde examencommissie Onderwijs bewaakt de kwaliteit van de examens (zie examenplan).    
 
 ####Examenplan
-
-Treedt in werking per 01-07-2015 
 
 In bijlage F is een overzicht van de examenonderdelen en bijbehorende onderwerpen. In de laatste kolom is aangeven of het betreffende examenonderdeel met een theorietoets (T) of een praktijktoets (P) geëxamineerd wordt. Voor verdere uitwerking van de examenonderdelen: zie www.exth.nl/examens/phb-domein-iii/     
 ### 8.3  
 
 ####Domeinlijst III. Onderwijs
-
-Treedt in werking per 01-07-2015 
 
 De boa onderwijs is bevoegd om te handhaven op de volgende artikelen en wetten voor zover noodzakelijk voor een goede uitoefening van de functie en de daaraan gekoppelde taakomschrijving, tenzij de wet zich daartegen verzet. 
 
@@ -637,34 +513,24 @@ De boa onderwijs is bevoegd om te handhaven op de volgende artikelen en wetten v
 
 ####Politiebevoegdheden en Geweldsmiddelen
 
-Treedt in werking per 01-07-2015 
-
 De boa onderwijs kan optioneel beschikken over de politiebevoegdheden bedoeld in artikel 7 eerste en derde lid van de Politiewet 2012 en kan optioneel beschikken over handboeien.      
 ### 9  
 
 ####Domein IV Openbaar Vervoer
 
-Treedt in werking per 01-07-2015 
-
 ### 9.1  
 
 ####Algemeen
-
-Treedt in werking per 01-07-2015 
 
 De boa openbaar vervoer is in bezoldigde dienst van een openbaar vervoersbedrijf, dan wel een (ander) publiekrechtelijk rechtspersoon en is belast met de opsporing van strafbare feiten binnen het domein openbaar vervoer.    
 ### 9.2  
 
 ####Bekwaamheidseis Domein IV Openbaar Vervoer
 
-Treedt in werking per 01-07-2015 
-
 De bekwaamheidseis bestaat uit een verzwaard examen, het boa-Openbaar Vervoer examen (getuigschrift BOA OV), en – indien de boa openbaar vervoer beschikt over politiebevoegdheden en geweldsmiddelen – de bekwaamheidseisen uit de RTGB. De BOA OV opleiding vormt een ‘boa-plus opleiding’ in vergelijking met de basis bekwaamheidseis (boa-getuigschrift) en is een op maat gesneden opleiding gericht op het openbaar vervoer. De BOA-OV opleiding kent een module voor nieuw op te leiden personeel dat nog niet over een BOA-bevoegdheid beschikt. In bijlage F staan de eindtermen alsmede de gedragsspecifieke leerdoelen beschreven waaraan de boa openbaar vervoer moet voldoen. De bekwaamheid wordt verkregen of behouden door het afleggen van het boa Openbaar Vervoer examen dan wel het met voldoende resultaat doorlopen van vier modules. Als deze vier modules of het examen niet worden behaald binnen deze periode wordt de titel van opsporingsbevoegdheid niet verlengd. De eindtermen van het algemene boa examen maken onverkort deel uit van het examen en de modules. De door de minister ingestelde examencommissie BOA OV stelt de eindtermen op en toetsing vast.    
 ### 9.3  
 
 ####Domeinlijst IV. Openbaar vervoer
-
-Treedt in werking per 01-07-2015 
 
 De boa openbaar vervoer is bevoegd om te handhaven op de volgende artikelen en wetten voor zover noodzakelijk voor een goede uitoefening van de functie en de daaraan gekoppelde taakomschrijving, tenzij de wet zich daartegen verzet. 
 
@@ -688,34 +554,24 @@ De boa openbaar vervoer is bevoegd om te handhaven op de volgende artikelen en w
 
 ####Politiebevoegdheden en Geweldsmiddelen
 
-Treedt in werking per 01-07-2015 
-
 De boa openbaar vervoer kan optioneel beschikken over de politiebevoegdheden bedoeld in artikel 7 eerste en derde lid van de Politiewet 2012 en kan optioneel beschikken over handboeien en/of wapenstok.      
 ### 10  
 
 ####Domein V Werk, inkomen en zorg
 
-Treedt in werking per 01-07-2015 
-
 ### 10.1  
 
 ####Algemeen
-
-Treedt in werking per 01-07-2015 
 
 De boa voor de strafrechtelijke handhaving op het gebied van werk, inkomen, belastingen en sociale zaken. Hieronder vallen onder andere alle regelingen die de gemeenten uitvoeren op het gebied van de sociale zekerheid zoals de Participatiewet, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, Wet inkomensvoorziening oudere en gedeeltelijke arbeidsongeschikte gewezen zelfstandigen, Wet sociale werkvoorziening, Besluit bijstandsverlening zelfstandigen 2004, Wet maatschappelijke ondersteuning 2015, Wet inburgering, Wet basisregistratie personen.    
 ### 10.2  
 
 ####Bekwaamheidseis Domein V Werk, inkomen en zorg
 
-Treedt in werking per 01-07-2015 
-
 De bekwaamheidseis bestaat uit het boa basisexamen (het boa-getuigschrift) en – indien de boa werk, inkomen en zorg beschikt over politiebevoegdheden en geweldsmiddelen – de bekwaamheidseisen uit de RTGB. In overleg met boa-werkgevers, de direct toezichthouders, de toezichthouders en eventueel andere betrokken partners wordt nader bekeken in hoeverre aanvullende bekwaamheidseisen verplicht dienen te worden gesteld en wat die aanvullende bekwaamheidseisen precies moeten zijn. Tot die tijd is het de verantwoordelijkheid van de boa-werkgever om zijn boa’s werk, inkomen en zorg aanvullend op te leiden voor hun specifieke taak. Indien de boa-werkgever kan voorzien in een opleiding voor de boa die voldoet aan de eisen welke worden gesteld aan de semi-permanente ontheffing (bijlage H) kan de boa ontheffing krijgen voor de basisbekwaamheid.    
 ### 10.3  
 
 ####Domeinlijst V. Werk, Inkomen en Zorg
-
-Treedt in werking per 01-07-2015 
 
 *De boa werk, inkomen en zorg is bevoegd om te handhaven op de volgende artikelen en wetten voor zover noodzakelijk voor een goede uitoefening van de functie en de daaraan gekoppelde taakomschrijving, tenzij de wet zich daartegen verzet.*  
 
@@ -735,27 +591,19 @@ Treedt in werking per 01-07-2015
 
 ####Politiebevoegdheden en Geweldsmiddelen
 
-Treedt in werking per 01-07-2015 
-
 De boa werk, inkomen en zorg kan optioneel beschikken over de politiebevoegdheden bedoeld in artikel 7 eerste en derde lid van de Politiewet 2012 en kan optioneel beschikken over handboeien.      
 ### 11  
 
 ####Generieke opsporing
 
-Treedt in werking per 01-07-2015 
-
 ### 11.1  
 
 ####Algemeen
-
-Treedt in werking per 01-07-2015 
 
 Het domein generieke opsporing is de vreemde eend in de bijt. Dit is niet een domein ontstaan vanuit de inhoud, maar een soort van restcategorie bestaande uit boa's welke veelal algemene opsporingsbevoegdheid hadden. Plaatsing in het domein generieke opsporing vindt alleen dan plaats indien de overige vijf domeinen qua bevoegdheid niet toereikend zijn voor een adequate taakuitoefening door de boa. De Minister van Veiligheid en Justitie bepaalt door middel van deze beleidsregels welke boa's onder dit domein worden gebracht. De boa generieke opsporing is de boa werkzaam bij of voor een landelijke overheidsinstantie en heeft als werkgever de korpschef van de nationale politie, de hoofdofficier van Justitie van een parket, de commandant van de Koninklijke Marechaussee; de directeur van de rijksrecherche, de directeur van het CJIB of – indien deze niet onder een ander domein te plaatsen is – de directeur van een landelijke (inspectie)dienst. De opsporingsbevoegdheid dient zich te beperken tot hetgeen noodzakelijk is voor een goede uitoefening van de betreffende functie en het daaraan gekoppelde takenpakket. Deze functie inclusief taakomschrijving dient vooraf door de boa werkgever – in gevallen tevens de direct toezichthouder – te zijn afgestemd met de toezichthouder. De toezichthouder waakt er voor dat de betreffende functie past binnen het boa beleid; functies voor ondersteunende, administratieve, technische, of zeer specialistische taken. De boa-werkgever kan middels het aanvraagformulier aangeven welke opsporingsbevoegdheden zijn gewenst voor de taakuitvoering van zijn boa's.    
 ### 11.2  
 
 ####Politieboa's
-
-Treedt in werking per 01-07-2015 
 
 Conform toezegging van de minister van V&J in een brief aan de Tweede Kamer d.d. 19 december 2011<sup> 19 Kamerstukken II, 2011–2012, 29 628, nr. 285 </sup> wordt toegewerkt naar de introductie van een functiegebonden opsporingsbevoegdheid in plaats van de boa-bevoegdheid voor politieambtenaren. Tot het moment waarop de functiegebonden opsporingsbevoegdheid is uitgewerkt in wet- en regelgeving blijft het mogelijk om politiemedewerkers als ambtenaar van politie aan te stellen en met het oog op het uitoefenen van opsporingsbevoegdheden aan te wijzen als boa. Voor de boa's in dienst bij de politie blijft uitdrukkelijk gelden dat deze in beginsel ondersteunende, administratief-technische taken uitvoeren. De functie van politieboa kan worden toegekend indien het (een combinatie van) de volgende functies betreft: 
 
@@ -796,14 +644,10 @@ Conform toezegging van de minister van V&J in een brief aan de Tweede Kamer d.d.
 
 ####Bekwaamheidseis domein VI Generieke opsporing
 
-Treedt in werking per 01-07-2015 
-
 De bekwaamheidseis bestaat uit het boa basisexamen (het boa-getuigschrift) en – indien de boa generieke opsporing beschikt over politiebevoegdheden en geweldsmiddelen – de bekwaamheidseisen uit de RTGB. Het merendeel van de diensten wiens boa’s vallen binnen het domein generieke opsporing beschikt over een eigen opleiding ten behoeve van hun overige werknemers die zich (op grond van artikel 141 Wetboek van Strafvordering) bezig houden met de strafrechtelijke handhaving. Het is de verantwoordelijkheid van de boa-werkgever om zijn boa’s generieke opsporing aanvullend op te leiden voor hun specifieke taak. Net als voor alle andere boa’s geldt dat de politieboa’s slechts bevoegd zijn voor die feiten die vallen binnen hun taakomschrijving mits wetgeving in formele zin zich hier niet tegen verzet (zoals bijvoorbeeld de Opiumwet) en de boa voldoende bekwaam is om voor die feiten op te treden.    
 ### 11.4  
 
 ####Domeinlijst VI. Generieke Opsporing
-
-Treedt in werking per 01-07-2015 
 
 De boa generieke opsporing is bevoegd om te handhaven op de volgende artikelen en wetten voor zover noodzakelijk voor een goede uitoefening van de functie en de daaraan gekoppelde taakomschrijving, tenzij de wet zich daartegen verzet. 
 
@@ -815,8 +659,6 @@ De boa generieke opsporing is bevoegd om te handhaven op de volgende artikelen e
 
 ####Politiebevoegdheden en Geweldsmiddelen
 
-Treedt in werking per 01-07-2015 
-
 De boa generieke opsporing kan optioneel beschikken over de politiebevoegdheden bedoeld in artikel 7 eerste en derde lid van de Politiewet 2012 en kan optioneel beschikken over handboeien, wapenstok, pepperspray, surveillancehond en/of vuurwapen.       
 
 De 
@@ -825,13 +667,10 @@ G.N. Roes,
 Directeur-Generaal Rechtspleging en Rechtshandhaving.   
 
 ### Bijlagen  
-Treedt in werking per 01-07-2015 
 
 ### Bijlage  A  
 
 ####Politiebevoegdheden en geweldsmiddelen
-
-Treedt in werking per 01-07-2015 
 
 ####Politiebevoegdheden
 
@@ -882,8 +721,6 @@ Op het moment dat er wijzigingen plaatsvinden in de uitrustingsstukken of bewape
 ### Bijlage  B  
 
 ####Taken direct toezichthouder
-
-Treedt in werking per 01-07-2015 
 
 De volgende taken van de direct toezichthouder zijn bedoeld als richtlijnen. Deze lijst is niet uitputtend bedoeld. 
 
@@ -971,8 +808,6 @@ De volgende taken van de direct toezichthouder zijn bedoeld als richtlijnen. Dez
 
 ####Examenplan basisbekwaamheid
 
-Treedt in werking per 01-07-2015 
-
 *T= Theorietoets*   *V= Vaardigheidstoets gespreks- en benaderingstechnieken*   
 
 | Hoofdtaken  | Kennis- of vaardigheidselementen (basisbekwaamheid)  | Toetsvorm  |
@@ -1035,8 +870,6 @@ Treedt in werking per 01-07-2015
 
 ####Examenplan openbare ruimte
 
-Treedt in werking per 01-07-2015 
-
 | Examenonderdeel  | Onderwerpen  | Toetsvorm  |
 |:---|:---|:---|
 | 12. Wettelijke Kaders Publieke Veiligheid 1 (WKPV 1): Strafrecht  | T  |
@@ -1067,8 +900,6 @@ Treedt in werking per 01-07-2015
 ### Bijlage  E  
 
 ####Taken en competenties boa’s milieu
-
-Treedt in werking per 01-07-2015 
 
 ####Taken van de milieuboa
 
@@ -1160,8 +991,6 @@ IV.  *Terugkoppeling uitvoerbaarheid/handhaafbaarheid van normen en beleid*  De 
 
 ####Examenplan onderwijs
 
-Treedt in werking per 01-07-2015 
-
 | Examenonderdeel  | Onderwerpen  | Toetsvorm  |
 |:---|:---|:---|
 | 16. Wettelijke Kaders Onderwijs generiek (WKOg)  | T  |
@@ -1196,8 +1025,6 @@ Treedt in werking per 01-07-2015
 
 ####Eindtermen boa openbaar vervoer
 
-Treedt in werking per 01-07-2015 
-
 Gedragsspecifieke leerdoelen:  
 
 | kennis  | vaardigheden  | elementen  |
@@ -1230,8 +1057,6 @@ Gedragsspecifieke leerdoelen:
 ### Bijlage  H  
 
 ####Ontheffing bekwaamheidseis
-
-Treedt in werking per 01-07-2015 
 
 Boa werkgevers kunnen beroep doen op de volgende ontheffingsmogelijkheden (bij basisbekwaamheidseis of verzwaard boa-examen). 
 
@@ -1311,8 +1136,6 @@ Aanvragen om ontheffing van de bekwaamheidseis dienen door de werkgever bij de M
 
 ####Voorbeeld inhoud samenwerkingsconvenant
 
-Treedt in werking per 01-07-2015 
-
 Partij I: gegevens werkgever en welke boa's het betreffen (personalia, functie, boa akten). Partij II: gegevens werkgever en welke boa's het betreffen (personalia, functie, boa akten). Partijen komen overeen de taken, zoals deze zijn opgenomen in het Besluit Buitengewoon Opsporingsambtenaar, onder eindverantwoordelijkheid te brengen van partij I. Het betreft de volgende artikelen: Art. 9 lid 1 BBO: werkgever dient een aanvraag tot het verlenen van de akte in etc. Art. 41 lid 1 BBO: werkgever verschaft de toezichthouder(s) en de direct toezichthouder(s) alle door hen gewenste informatie met betrekking tot de in dienst zijnde werkzame buitengewoon opsporingsambtenaar. Art. 42 BBO: werkgever zendt terstond een afschrift van een klacht over het optreden van een buitengewoon opsporingsambtenaar betreffende de uitoefening van diens bevoegdheden als buitengewoon opsporingsambtenaar aan de toezichthouder en de direct toezichthouder. Bij de afhandeling van de klacht neemt de werkgever het oordeel van de toezichthouder over de rechtmatigheid en behoorlijkheid van de uitoefening van die bevoegdheden in acht. Partijen komen verder overeen (ruimte voor andere afspraken). De betreffende boa's zijn hierbij bevoegd om te handhaven binnen het volgende gebied (geografisch): ... Het bevoegd gezag van de regio ... en (indien van toepassing) de regio (...) is d.d. akkoord gegaan met deze overeenkomst. De overeenkomst wordt aangegaan voor onbepaalde tijd en kan door de 2 betrokken partijen op elk moment opgezegd worden. Dit opzeggen gebeurt schriftelijk bij de regionaal coördinator BOA van de desbetreffende eenheid van de politie .... (betreffende politie-eenheid). Plaats en datum  
 
 | --- | --- |
@@ -1327,8 +1150,6 @@ Gezien en akkoord: de betrokken toezichthouders en direct toezichthouders
 ### Bijlage  J  
 
 ####Aanvraagprocedure opsporingsbevoegdheid
-
-Treedt in werking per 01-07-2015 
 
 Conform artikel 6, eerste lid, van het BBO dient een aanvraag tot verlenging of wijziging van de titel van opsporingsbevoegdheid uiterlijk drie maanden voor het verlopen van de geldigheidsduur te worden ingediend 
 
@@ -1420,8 +1241,6 @@ In Domein 1 (Openbare Ruimte) geldt een afwijkende procedure voor zover het gaat
 
 ####Klachtafhandeling
 
-Treedt in werking per 01-07-2015 
-
 ####Inleiding
 
 Artikel 42 van het BBO schrijft voor dat de werkgever van een boa terstond een afschrift van een klacht over het optreden van een boa betreffende de uitoefening van zijn bevoegdheden als boa aan de toezichthouder en direct toezichthouder sturen. Het oordeel van de toezichthouder over de rechtmatigheid en behoorlijkheid van de uitoefening van de bevoegdheden wordt in acht genomen door de werkgever bij de afhandeling van de klacht. 
@@ -1451,7 +1270,6 @@ Op grond van artikel 9:12a van de Awb moeten schriftelijke klachten worden gereg
 De hiervoor omschreven klachtenprocedure is primair gericht op het functioneren van het bestuursorgaan. Indien wordt geoordeeld dat een klacht gegrond is, dan kan dat gevolgen hebben voor de betrokken boa. De disciplinaire c.q. tuchtrechtelijke weg die kan worden gevolgd valt buiten de reguliere klachtenprocedure en wordt in deze beleidsregels buiten beschouwing gelaten. 
 
 ### Bijlage  L  
-Treedt in werking per 01-07-2015 
 
 *Op 12 april 2011 is door het College van procureurs-generaal (brief met kenmerk Pag/B&S/15674) nadere invulling gegeven aan de in de Circulaire BOA van 10 januari 2011 (kenmerk 5679441/10) genoemde bevoegdheden neergelegd in de Wegenverkeerswet 1994 (WVW). In het kader van gemeentelijke handhaving van de WVW is handhaving op negatie van C borden (RVV 1990) in relatie tot de openbare orde toegestaan. Hieronder volgen een aantal uitgangspunten waaraan voldaan moet worden door de gemeente indien zij digitaal wil handhaven op categorie C borden.*  
 

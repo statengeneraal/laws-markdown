@@ -22,7 +22,7 @@ Wijzigt de Wet op het financieel toezicht.
 Wijzigt de Wet op het financieel toezicht.
 
 ### Artikel  IV  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 Wijzigt de Wet op het financieel toezicht.
 

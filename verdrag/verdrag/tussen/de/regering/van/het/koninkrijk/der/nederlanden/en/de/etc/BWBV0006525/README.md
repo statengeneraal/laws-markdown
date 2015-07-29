@@ -115,3 +115,117 @@ Tout litige survenant à la suite de l’application ou de la mise en œuvre du 
 
 FAIT à Ouagadougou, le 9 juin 2015, en deux (02) exemplaires originaux, en langue française.  *Pour le Gouvernement du Royaume des Pays-Bas,*  COLONEL E.A. DE LANDMETER  *Pour le Gouvernement du Burkina Faso,*  ICLM LÉONARD S. GAMBO  
 
+####Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Burkina Faso inzake de status van civiel en militair personeel van het Ministerie van Defensie van het Koninkrijk der Nederlanden op het grondgebied van Burkina Faso
+
+Burkina Faso, enerzijds, en het Koninkrijk der Nederlanden, anderzijds, Hierna te noemen “de partijen”, Gelet op de vriendschapsbanden die het Koninkrijk der Nederlanden en Burkina Faso met elkaar verbinden; De hartelijke betrekkingen tussen de partijen bevestigend die gebaseerd zijn op de beginselen van wederzijdse eerbiediging van de soevereiniteit, de onafhankelijkheid en de integriteit van beide staten; Geleid door de wens trainings- en opleidingsactiviteiten te ontwikkelen op Burkinees grondgebied,   Zijn het volgende overeengekomen:    
+
+### Artikel  I  
+
+####Begripsomschrijvingen
+
+Voor de toepassing van dit Verdrag wordt verstaan onder: 
+
+1. „personeel”: het civiel en militair personeel van de Ministeries van de ene of van de andere partij;  
+
+2. „militair personeel”: het militair personeel van het Ministerie van Defensie van de zendstaat, met inbegrip van buitenlands militair personeel dat een integrerend onderdeel uitmaakt van militaire eenheden van de zendstaat op basis van een uitwisselingsprogramma;  
+
+3. „zendstaat”: het Koninkrijk der Nederlanden;  
+
+4. „ontvangende staat”: Burkina Faso.   
+
+### Artikel  II  
+
+####Vereisten in verband met binnenkomst en vertrek
+
+1.  Het personeel van de zendstaat heeft het recht het grondgebied van de ontvangende staat binnen te komen, er te verblijven en het te verlaten. Het personeel van de zendstaat geniet dezelfde bewegingsvrijheid als het personeel van de ontvangende staat.   
+2.  Het is het personeel van de zendstaat toegestaan het grondgebied van de ontvangende staat zonder visum binnen te komen op voorwaarde dat het in het bezit is van een geldige identiteitskaart en een individuele of collectieve dienstopdracht.   
+3.  De ontvangende staat stelt een contactpersoon ter beschikking die om advies gevraagd kan worden.  
+
+### Artikel  III  
+
+####Tucht en rechtsmacht
+
+1.  De disciplinaire rechtsmacht over het personeel van de zendstaat blijft voorbehouden aan de bevoegde autoriteiten van de zendstaat.   
+2.  Het personeel van de zendstaat dient de wetten van de ontvangende staat te eerbiedigen en zich te onthouden van elke activiteit die indruist tegen de geest van dit Verdrag en in het bijzonder van elke politieke activiteit in de ontvangende staat. De officier die verantwoordelijk is voor het personeel van de zendstaat dient de daartoe benodigde maatregelen te nemen.   
+3.  Het personeel van de zendstaat geniet immuniteit van rechtsmacht en van tenuitvoerlegging gedurende zijn gehele verblijf in de ontvangende staat in overeenstemming met dit Verdrag en valt derhalve onder de exclusieve rechtsmacht van de zendstaat. Het personeel van de zendstaat wordt bovendien gevrijwaard tegen gerechtelijke procedures van welke aard dan ook, met inbegrip van uitlevering en overbrenging, waarom door een derde staat wordt verzocht vanwege strafbare feiten begaan voorafgaand aan zijn binnenkomst in de ontvangende staat.   
+4.  De regering van de ontvangende staat kan de regering van de zendstaat verzoeken de immuniteit op te heffen van een lid van het personeel van de zendstaat in gevallen die van bijzonder belang zijn voor de ontvangende staat. In dergelijke gevallen treden de partijen met elkaar in overleg teneinde elkaars legitieme belangen te beschermen.   
+5.  
+
+a. Indien de autoriteiten van de ontvangende staat een lid van het personeel van de zendstaat arresteren, dienen zij hem onmiddellijk over te dragen aan de officier die verantwoordelijk is voor het personeel van de zendstaat en deze officier onverwijld een rapport over de zaak te doen toekomen.  
+
+b. De bevoegde autoriteiten van de zendstaat dienen de bevoegde autoriteiten van de ontvangende staat in kennis te stellen van hun besluit een procedure tegen het lid van het personeel van de zendstaat in te stellen alsmede van de uitkomsten van procedures die in de zendstaat zijn ingesteld.    
+
+### Artikel  IV  
+
+####Invoer en uitvoer
+
+1.  Uitrusting, materialen, voorraden en overige goederen die de zendstaat in verband met de tenuitvoerlegging van dit Verdrag in de ontvangende staat invoert of daaruit uitvoert zijn vrijgesteld van alle douanerechten en -heffingen. Deze vrijstelling geldt tevens voor onderdelen die nodig zijn voor het onderhoud van uitrusting en materialen.   
+2.  Bagage, persoonlijke eigendommen, producten en overige goederen die uitsluitend worden ingevoerd of uitgevoerd voor persoonlijk gebruik van het personeel van de zendstaat zijn vrijgesteld van alle rechten en heffingen.   
+3.  Vervreemding op Burkinees grondgebied, hetzij om niet hetzij tegen betaling, van goederen die met vrijstelling van rechten en heffingen zijn verworven of ingevoerd, dient vooraf door de douanediensten te worden goedgekeurd.   
+4.  Onder „rechten en heffingen” worden douanerechten begrepen alsmede alle andere rechten en heffingen die, naargelang van het geval, betrekking hebben op de invoer of uitvoer, met uitzondering van rechten en heffingen die een terugbetaling vormen van kosten voor verleende diensten.  
+
+### Artikel  V  
+
+####Wapens en uniformen
+
+1.  Het militair personeel van de zendstaat mag wapens bezitten en dragen in overeenstemming met de regelgeving die van kracht is in de ontvangende staat.   
+2.  Het militair personeel mag wapens en munitie uitsluitend ten behoeve van training gebruiken op locaties die daarvoor specifiek door de ontvangende staat zijn bestemd. Deze locaties worden door de ontvangende staat aangewezen.   
+3.  De wapens en munitie worden opgeslagen en bewaakt in overeenstemming met de wet- en regelgeving van de ontvangende staat.   
+4.  Het militair personeel mag tijdens het vervullen van officiële taken zijn nationale militaire uniform dragen.  
+
+### Artikel  VI  
+
+####Rijbewijzen
+
+De ontvangende staat aanvaardt als geldig, zonder een voorafgaand rijexamen of betaling van rechten, het geldige burgerrijbewijs of militaire rijbewijs van het personeel van de zendstaat voor de categorie motorvoertuigen die gelijk is aan de categorie waarvoor het rijbewijs door de zendstaat is afgegeven. 
+
+### Artikel  VII  
+
+####Vorderingen tot schadevergoeding
+
+1.  De partijen zien af van het instellen van vorderingen tot schadevergoeding tegen elkaar wegens schade aan of verlies van overheidseigendommen die door hun strijdkrachten worden gebruikt en wegens letsel (met inbegrip van letsel de dood tot gevolg hebbende) geleden door hun personeel bij het vervullen van zijn officiële taken.   
+2.  De bepalingen in het eerste lid van dit artikel zijn niet van toepassing indien de schade aan of het verlies van overheidseigendommen of het in dat lid genoemde letsel opgelopen door het personeel, het gevolg zijn van grove nalatigheid of opzettelijk handelen. De partijen stellen in onderling overleg het bestaan van grove schuld of opzet, alsmede het bedrag van de schadeloosstelling vast.   
+3.  Vorderingen tot schadevergoeding van derden (behoudens vorderingen uit overeenkomst) wegens verliezen, schade of letsel veroorzaakt door het personeel van de zendstaat worden door de ontvangende staat voor rekening van de zendstaat afgewikkeld in overeenstemming met de wet- en regelgeving van de ontvangende staat. Kosten die verband houden met de afwikkeling van dergelijke vorderingen worden door de zendstaat terugbetaald.   
+4.  Vorderingen tot schadevergoeding van derden wegens verliezen, schade of letsel veroorzaakt door het personeel van beide partijen bij de uitoefening van zijn officiële taken worden door de ontvangende staat, mede namens de zendstaat, afgewikkeld in overeenstemming met de wet- en regelgeving van de ontvangende staat. Kosten die verband houden met de afwikkeling van dergelijke vorderingen worden door de partijen in gelijke delen gedragen.   
+5.  De ontvangende staat raadpleegt de zendstaat alvorens tot de afwikkeling van vorderingen van derden over te gaan.  
+
+### Artikel  VIII  
+
+####Geneeskundige zorg en overlijden van een lid van het personeel
+
+###a. Geneeskundige en tandheelkundige zorg
+
+1.Het personeel van de zendstaat dient voorafgaand aan het volgen van de opleiding en training in de ontvangende staat in geneeskundig en tandheelkundig opzicht gezond te zijn verklaard.
+
+2.Het personeel van de zendstaat ontvangt tijdens de gehele duur van zijn verblijf in de ontvangende staat in het kader van dit Verdrag kosteloos spoedeisende geneeskundige en tandheelkundige hulp in de militaire medische instellingen.
+
+3.De overige geneeskundige en tandheelkundige zorg, met inbegrip van opname in een ziekenhuis, wordt verleend onder dezelfde voorwaarden die gelden voor personeel van de ontvangende staat. 
+###b. Overlijden
+
+1.De autoriteiten van de zendstaat die aanwezig zijn in de ontvangende staat zijn bevoegd zorg te dragen voor de repatriëring van het stoffelijk overschot van een overleden lid van het personeel van de zendstaat, alsmede van zijn persoonlijke bezittingen, en mogen daartoe passende maatregelen nemen.
+
+2.Autopsie op het stoffelijk overschot van een overleden lid van het personeel van de zendstaat mag uitsluitend worden uitgevoerd na toestemming van de autoriteiten van de zendstaat en in aanwezigheid van een vertegenwoordiger daarvan.
+
+3.De ontvangende staat en de zendstaat werken zo veel mogelijk samen om de repatriëring van het stoffelijk overschot van een overleden lid van het personeel van de zendstaat op zo kort mogelijke termijn te waarborgen.
+
+### Artikel  IX  
+
+####Nadere regelingen
+
+Tussen de Ministers van Defensie van beide partijen kunnen nadere regelingen worden getroffen voor de uitvoering van de training. 
+
+### Artikel  X  
+
+####Beslechting van geschillen
+
+Elk geschil dat voortvloeit uit de toepassing of uitvoering van dit Verdrag wordt in der minne en in onderlinge overeenstemming beslecht. 
+
+### Artikel  XI  
+
+####Inwerkingtreding, duur en beëindiging
+
+1.  Dit verdrag wordt gesloten voor de duur van één jaar, wordt stilzwijgend verlengd en treedt in werking op de datum van ondertekening ervan.   
+2.  Het verdrag kan door elk van de partijen worden opgezegd. Deze opzegging wordt van kracht drie (3) maanden na de kennisgeving ervan aan de andere partij.  
+
+GEDAAN te Ouagadougou, op 9 juni 2015, in twee (2) originele exemplaren, in de Franse taal.  *Voor de Regering van het Koninkrijk der Nederlanden,* KOLONEL E.A. DE LANDMETER  *Voor de Regering van Burkina Faso,* ICLM LEONARD S. GAMBO  
+

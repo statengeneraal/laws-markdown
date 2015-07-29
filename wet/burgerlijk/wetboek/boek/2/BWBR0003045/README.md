@@ -5150,7 +5150,7 @@ c.het bedrag van de aanwezige solvabiliteit.
 2. Ten behoeve van financiële ondernemingen met zetel in Nederland die herverzekeraar zijn als bedoeld in artikel 1:1 van de Wet op het financieel toezicht en geen vergunning hebben voor het uitoefenen van het bedrijf van verzekeraar als bedoeld in artikel 1:1 van die wet, worden bij algemene maatregel van bestuur regels gesteld omtrent de waardering van de technische voorziening voor te betalen schade. 
 
 ### Artikel  444a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 1.  De door een verzekeringsmaatschappij aan te houden voorziening voor niet-verdiende premies en lopende risico’s, waaronder de catastrofevoorziening indien deze is getroffen, omvat onder meer: 
 
@@ -5160,13 +5160,13 @@ b. De schaden en kosten uit lopende verzekeringen die na afloop van het boekjaar
 2.  De voorziening voor niet-verdiende premies wordt voor elke schadeverzekering afzonderlijk en op voorzichtige wijze bepaald. Het gebruik van statistische of wiskundige methoden is toegestaan indien de aard van de verzekering dat toelaat en indien deze methoden naar verwachting dezelfde resultaten opleveren als de afzonderlijke berekeningen.  
 
 ### Artikel  444b  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 1.  De door een verzekeringsmaatschappij aan te houden voorziening voor levensverzekeringen wordt berekend op basis van een voldoende voorzichtige prospectieve actuariële methode, rekening houdend met de in de toekomst te ontvangen premies en met alle toekomstige verplichtingen volgens de voor iedere lopende levensverzekering gestelde voorwaarden.   
 2.  In afwijking van het eerste lid kan een retrospectieve methode worden toegepast indien de op grond van die methode berekende technische voorzieningen niet lager zijn dan de voorzieningen bij toepassing van een prospectieve methode of indien het gebruik van een prospectieve methode vanwege de aard van het betrokken type levensverzekering niet mogelijk is.  
 
 ### Artikel  444c  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 1.  De door een verzekeringsmaatschappij aan te houden voorziening voor te betalen schaden of voor te betalen uitkeringen omvat het bedrag van de te verwachten schaden, in aanmerking nemende: 
 
@@ -5180,7 +5180,7 @@ c. de in verband met schaden of uitkeringen te verwachten baten uit subrogatie e
 4.  Met betrekking tot een communautaire co-assurantie zijn de voorzieningen voor te betalen schaden of voor te betalen uitkeringen verhoudingsgewijs ten minste gelijk aan die welke de co-assuradeur die als eerste verzekeraar optreedt, aanhoudt volgens de regels of gebruiken die gelden in de lidstaat van waaruit de eerste verzekeringsmaatschappij zijn verplichtingen uit hoofde van de communautaire co-assurantie is aangegaan.  
 
 ### Artikel  444d  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 De voorziening voor winstdeling en kortingen van een verzekeringsmaatschappij omvat de bedragen die in de vorm van winstdeling bestemd zijn voor de verzekeringnemers, verzekerden of gerechtigden op uitkeringen, voor zover deze niet hebben geleid tot verhoging van de voorziening voor levensverzekering, alsmede de bedragen die een gedeeltelijke terugbetaling van premies op grond van het resultaat van de verzekeringen vertegenwoordigen, voor zover deze niet tot verhoging van de ledenrekening hebben geleid. 
 

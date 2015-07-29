@@ -20,13 +20,15 @@ a. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;
 
 b. zorg: 
 
-1°. zorg of dienst als omschreven bij of krachtens de Zorgverzekeringswet en de Algemene Wet Bijzondere Ziektekosten;  
+1°. zorg of dienst als omschreven bij of krachtens de Zorgverzekeringswet en de Wet langdurige zorg;  
 
-2°. vorm van hulp voor de kosten waarvan een subsidie wordt verstrekt op grond van artikel 44 van de Algemene Wet Bijzondere Ziektekosten of artikel 68 van de Zorgverzekeringswet;  
+2°. vorm van hulp voor de kosten waarvan een subsidie wordt verstrekt op grond van artikel 3.3.3 van de Wet langdurige zorg of artikel 68 van de Zorgverzekeringswet;  
 
 3°. jeugdgezondheidszorg als omschreven bij of krachtens de Wet publieke gezondheid;  
 
-4°. handelingen op het gebied van de individuele gezondheidszorg als bedoeld in artikel 1 van de Wet op de beroepen in de individuele gezondheidszorg; één en ander met inbegrip van de financiële afwikkeling;    
+4°. handelingen op het gebied van de individuele gezondheidszorg als bedoeld in artikel 1 van de Wet op de beroepen in de individuele gezondheidszorg;  
+
+5°. zorg als bedoeld in artikel 4a van de Wet publieke gezondheid;  één en ander met inbegrip van de financiële afwikkeling; 
 
 c. zorgaanbieder: 
 
@@ -34,19 +36,15 @@ c. zorgaanbieder:
 
 2°. degene die in een register als bedoeld in artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg staat ingeschreven of die een beroep uitoefent waarvan de opleiding krachtens artikel 34, eerste lid, van die wet is geregeld of aangewezen, en die zijn beroep uitoefent anders dan in het kader van een instelling als bedoeld in artikel 1 van de Kwaliteitswet zorginstellingen;    
 
-d. indicatieorgaan: 
-
-1°. indicatieorgaan als bedoeld in artikel 9a, eerste lid, van de Algemene Wet Bijzondere Ziektekosten;  
-
-2°. stichting als bedoeld in artikel 9b, vierde lid, van de Algemene Wet Bijzondere Ziektekosten;    
+d.  *indicatieorgaan:* het CIZ, genoemd in artikel 7.1.1, eerste lid, van de Wet langdurige zorg;  
 
 e. zorgverzekeraar: 
 
-1°. zorgverzekeraar als bedoeld in artikel 1, eerste lid, onder b, van de Algemene Wet Bijzondere Ziektekosten;  
+1°. Wlz-uitvoerder als bedoeld in artikel 1.1.1 van de Wet langdurige zorg;  
 
 2°. zorgverzekeraar als bedoeld in artikel 1, onder b, van de Zorgverzekeringswet;  
 
-3°. verzekeringsonderneming als bedoeld in de eerste richtlijn schadeverzekering voor zover deze verzekeringen aanbiedt of uitvoert krachtens welke het verzekerde risico de behoefte aan zorg is waarop bij of krachtens de Algemene Wet Bijzondere Ziektekosten geen aanspraak bestaat en waarbij de verzekerde prestaties het bij of krachtens de Zorgverzekeringswet geregelde te boven gaat;    
+3°. verzekeringsonderneming als bedoeld in de eerste richtlijn schadeverzekering voor zover deze verzekeringen aanbiedt of uitvoert krachtens welke het verzekerde risico de behoefte aan zorg is waarop bij of krachtens de Wet langdurige zorg geen aanspraak bestaat en waarbij de verzekerde prestaties het bij of krachtens de Zorgverzekeringswet geregelde te boven gaat;    
 
 f. cliënt: degene aan wie zorg wordt verleend, voor wie zorg wordt geïndiceerd of voor wie zorg wordt verzekerd;  
 
@@ -154,12 +152,12 @@ b. de wijze waarop de zorgaanbieder, het indicatieorgaan en de zorgverzekeraar d
 
 c. de verwerking van persoonsnummers van de cliënten, bedoeld onder a, waarover de zorgaanbieder, het indicatieorgaan en de zorgverzekeraar op het tijdstip van inwerkingtreding van deze wet beschikken.     
 2.  Bij de algemene maatregel van bestuur, bedoeld in het eerste lid, kan onderscheid worden gemaakt tussen verschillende categorieën cliënten, zorgaanbieders, indicatieorganen en zorgverzekeraars.   
-3.  Bij de algemene maatregel van bestuur, bedoeld in het eerste lid, kan worden afgeweken van de bepalingen in deze wet, de Wet algemene bepalingen burgerservicenummer, de Algemene Wet Bijzondere Ziektekosten en de Zorgverzekeringswet omtrent het gebruik van het burgerservicenummer alsmede omtrent het vaststellen van de identiteit en het burgerservicenummer van cliënten.  
+3.  Bij de algemene maatregel van bestuur, bedoeld in het eerste lid, kan worden afgeweken van de bepalingen in deze wet, de Wet algemene bepalingen burgerservicenummer, de Wet langdurige zorg en de Zorgverzekeringswet omtrent het gebruik van het burgerservicenummer alsmede omtrent het vaststellen van de identiteit en het burgerservicenummer van cliënten.  
 
 ### Artikel  17a  
 
 1.  Vooruitlopend op de inwerkingtreding van een wettelijke verplichting tot gebruik van het burgerservicenummer kan bij algemene maatregel van bestuur worden bepaald dat daarbij aan te wijzen categorieën zorgaanbieders, indicatieorganen of zorgverzekeraars voor daarbij aan te wijzen vormen van zorg gedurende een daarbij aan te wijzen periode het burgerservicenummer van een cliënt mogen gebruiken.   
-2.  Op het gebruik van het burgerservicenummer op grond van de algemene maatregel van bestuur, bedoeld in het eerste lid, is het gestelde bij of krachtens deze wet, de Wet algemene bepalingen burgerservicenummer, de Algemene Wet Bijzondere Ziektekosten en de Zorgverzekeringswet omtrent het gebruik van het burgerservicenummer, met inbegrip van de beveiliging, de geheimhouding, het toezicht en de handhaving, alsmede omtrent het vaststellen van de identiteit en het burgerservicenummer van cliënten van toepassing met dien verstande dat: 
+2.  Op het gebruik van het burgerservicenummer op grond van de algemene maatregel van bestuur, bedoeld in het eerste lid, is het gestelde bij of krachtens deze wet, de Wet algemene bepalingen burgerservicenummer, de Wet langdurige zorg en de Zorgverzekeringswet omtrent het gebruik van het burgerservicenummer, met inbegrip van de beveiliging, de geheimhouding, het toezicht en de handhaving, alsmede omtrent het vaststellen van de identiteit en het burgerservicenummer van cliënten van toepassing met dien verstande dat: 
 
 a. ingevolge die toepassing een bevoegdheid in plaats van een verplichting ontstaat tot het gebruik van het burgerservicenummer;  
 
