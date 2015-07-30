@@ -320,11 +320,7 @@
 
 ####Lijst Richtlijnen, Verordeningen en Verdragen
 
-![251912](http://wetten.overheid.nl/Illustration/251912)
-![251913](http://wetten.overheid.nl/Illustration/251913)
-![251914](http://wetten.overheid.nl/Illustration/251914)
-![251915](http://wetten.overheid.nl/Illustration/251915)
-![251916](http://wetten.overheid.nl/Illustration/251916)
+Vervallen per 01-07-2015 
 
 ### A1  
 

@@ -15,7 +15,7 @@ For the international carriage of perishable foodstuffs, equipment shall not be 
 
 ### Article  2  
 
-The Contracting Parties shall take the measures necessary to ensure that the equipment referred to in article 1 of this Agreement is inspected and tested for compliance with the said standards in conformity with the provisions of annex 1, appendices 1, 2, 3 and 4, to this Agreement. Each Contracting Party shall recognize the validity of certificates of compliance issued in conformity with annex 1, appendix 1, paragraph 3 to this Agreement by the competent authority of another Contracting Party. Each Contracting Party may recognize the validity of certificates of compliance issued in conformity with the requirements of annex 1, appendices 1 and 2, to this Agreement by the competent authority of a country not a Contracting Party. 
+The Contracting Parties shall take the measures necessary to ensure that the equipment referred to in article 1 of this Agreement is inspected and tested for compliance with the said standards in conformity with the provisions of annex 1, appendices 1, 2, 3 and 4, to this Agreement. Each Contracting Party shall recognize the validity of certificates of compliance issued in conformity with annex 1, appendix 1, paragraph 3 to this Agreement by the competent authority of another Contracting Party. Each Contracting Party may recognize the validity of certificates of compliance issued in conformity with the requirements of annex 1, appendices 1 and 2, to this Agreement by the competent authority of a State not a Contracting Party. 
 
 ###Chapter II 
 
@@ -61,11 +61,11 @@ The provisions of this Agreement shall not apply to carriage in containers class
 
 ### Article  7  
 
-The Contracting Parties reserve the right to enter into bilateral or multilateral agreements to the effect that provisions applicable to special equipment and provisions applicable to the temperatures at which certain foodstuffs are required to be maintained during carriage may, more particularly by reason of special climatic conditions, be more stringent than those prescribed in this Agreement. Such provisions shall apply only to international carriage between Contracting States which have concluded bilateral or multilateral agreements as referred to in this article. Such agreements shall be transmitted to the Secretary-General of the United Nations who shall communicate them to Contracting Parties to this Agreement which are not signatories of the said agreements. 
+The Contracting Parties reserve the right to enter into bilateral or multilateral agreements to the effect that provisions applicable to special equipment and provisions applicable to the temperatures at which certain foodstuffs are required to be maintained during carriage may, more particularly by reason of special climatic conditions, be more stringent than those prescribed in this Agreement. Such provisions shall apply only to international carriage between Contracting Parties which have concluded bilateral or multilateral agreements as referred to in this article. Such agreements shall be transmitted to the Secretary-General of the United Nations who shall communicate them to Contracting Parties to this Agreement which are not signatories of the said agreements. 
 
 ### Article  8  
 
-Failure to observe the provisions of this Agreement shall not affect either the existence of the validity of contracts entered into for the performance of carriage. 
+Failure to observe the provisions of this Agreement shall not affect either the existence or the validity of contracts entered into for the performance of carriage. 
 
 ### Chapter  IV  
 
@@ -86,7 +86,7 @@ Failure to observe the provisions of this Agreement shall not affect either the 
 
 ### Article  10  
 
-1.  Any State may at the time of signing this Agreement without reservation as to ratification or of depositing its instrument of ratification or accession or at any time thereafter declare by notification addressed to the Secretary-General of the United Nations that the Agreement does not apply to carriage performed in any or in a particular one of its territories situated outside Europe. If notification as aforesaid is made after the entry into force of the Agreement in respect of the notifying State the Agreement shall, ninety days after the date on which the Secretary-General has received the notification, cease to apply to carriage in the territory or territories named in that notification. New Contracting Parties acceding to ATP as from ...<sup>1)Date on which this amendment will come into force.</sup> and applying paragraph 1 of this article shall not be entitled to enter any objection to draft amendments in accordance with the procedure provided for in article 18, paragraph 2.   
+1.  Any State may at the time of signing this Agreement without reservation as to ratification or of depositing its instrument of ratification or accession or at any time thereafter declare by notification addressed to the Secretary-General of the United Nations that the Agreement does not apply to carriage performed in any or in a particular one of its territories situated outside Europe. If notification as aforesaid is made after the entry into force of the Agreement in respect of the notifying State the Agreement shall, ninety days after the date on which the Secretary-General has received the notification, cease to apply to carriage in the territory or territories named in that notification. New Contracting Parties acceding to ATP as from 30 April 1999 and applying paragraph 1 of this article shall not be entitled to enter any objection to draft amendments in accordance with the procedure provided for in article 18, paragraph 2.   
 2.  Any State which has made a declaration under paragraph 1 of this article may at any time thereafter declare by notification addressed to the Secretary-General of the United Nations that the Agreement will be applicable to carriage performed in a territory named in the notification made under paragraph 1 of this article and the Agreement shall become applicable to carriage in that territory one hundred and eighty days after the date on which the Secretary-General has received that notification.  
 
 ### Article  11  
@@ -106,11 +106,11 @@ This Agreement shall cease to have effect if the number of Contracting Parties i
 ### Article  14  
 
 1.  Any State may at the time of signing this Agreement without reservation as to ratification or of depositing its instrument of ratification or accession or at any time thereafter declare by notification addressed to the Secretary-General of the United Nations that this Agreement will be applicable to all or any of the territories for the international relations of which that State is responsible. This Agreement shall be applicable to the territory or territories named in the notification as from the ninetieth day after receipt of the notice by the Secretary-General or, if on that day the Agreement has not yet entered into force, as from its entry into force.   
-2.  Any State which has made a declaration under paragraph 1 of this article making this Agreement applicable to a territory for whose international relations it is responsible may denounce the Agreement separately in respect of that territory in conformity with article 12 thereof.  
+2.  Any State which has made a declaration under paragraph 1 of this article making this Agreement applicable to a territory for whose international relations it is responsible may denounce the Agreement separately in respect of that territory in conformity with article 12 hereof.  
 
 ### Article  15  
 
-1.  Any dispute between two or more Contracting Parties concerning the interpretation of application of this Agreement shall so far as possible be settled by negotiation between them.   
+1.  Any dispute between two or more Contracting Parties concerning the interpretation or application of this Agreement shall so far as possible be settled by negotiation between them.   
 2.  Any dispute which is not settled by negotiation shall be submitted to arbitration if any one of the Contracting Parties concerned in the dispute so requests and shall be referred accordingly to one or more arbitrators selected by agreement between those Parties. If within three months from the date of the request for arbitration, the Parties concerned in the dispute are unable to agree on the selection of an arbitrator or arbitrators, any of those Parties may request the Secretary-General of the United Nations to designate a single arbitrator to whom the dispute shall be referred for decision.   
 3.  The decision of the arbitrator or arbitrators designated under the preceding paragraph shall be binding on the Contracting Parties concerned in the dispute.  
 
@@ -1007,7 +1007,7 @@ top or bottom corners of the front surface of the consignment (ie closest to the
 
 (ii)<sup>*)The procedure will be defined.</sup> the system must have an accuracy of ± 0.5°C within the measurement range – 20°C to + 30°C;
 
-(iii)<sup>*)The procedure will be defined.</sup> the measuring accuracy must not change by more than 0.3°C during operation in the ambient temperature range – 20°C + 30°C;
+(iii)<sup>*)The procedure will be defined.</sup> the measuring accuracy must not change by more than 0.3°C during operation in the ambient temperature range – 20°C to + 30°C;
 
 (iv)the display resolution of the instrument should be 0.1°C;
 
@@ -1135,7 +1135,7 @@ Het niet nakomen van de bepalingen van deze Overeenkomst tast niet het bestaan o
 
 ### Artikel  10  
 
-1. Elke Staat kan op het tijdstip dat hij deze Overeenkomst zonder voorbehoud van bekrachtiging ondertekent of zijn akte van bekrachtiging of toetreding nederlegt, alsmede op elk later tijdstip door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving verklaren, dat deze Overeenkomst niet van toepassing is op vervoer binnen al zijn buiten Europa gelegen grondgebieden of één daarvan. Nieuwe Overeenkomstsluitende Partijen die vanaf...<sup>1)Datum waarop deze wijziging van kracht wordt.</sup> toetreden tot de A.T.P.-Overeenkomst en het eerste lid van dit artikel toepassen, zijn niet gerechtigd om in overeenstemming met de in het tweede lid van artikel 18 bepaalde procedure bezwaar te maken tegen ontwerp-wijzigingen.Indien deze kennisgeving is gedaan na de inwerkingtreding van de Overeenkomst voor de Staat die deze kennisgeving doet, is de Overeenkomst na verloop van negentig dagen na de datum waarop de Secretaris-Generaal deze kennisgeving heeft ontvangen niet langer van toepassing op vervoer binnen het (de) in deze kennisgeving aangegeven grondgebied(en).
+1. Elke Staat kan op het tijdstip dat hij deze Overeenkomst zonder voorbehoud van bekrachtiging ondertekent of zijn akte van bekrachtiging of toetreding nederlegt, alsmede op elk later tijdstip door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving verklaren, dat deze Overeenkomst niet van toepassing is op vervoer binnen al zijn buiten Europa gelegen grondgebieden of één daarvan. Nieuwe Overeenkomstsluitende Partijen die vanaf 30 april 1999 toetreden tot de A.T.P.-Overeenkomst en het eerste lid van dit artikel toepassen, zijn niet gerechtigd om in overeenstemming met de in het tweede lid van artikel 18 bepaalde procedure bezwaar te maken tegen ontwerp-wijzigingen.Indien deze kennisgeving is gedaan na de inwerkingtreding van de Overeenkomst voor de Staat die deze kennisgeving doet, is de Overeenkomst na verloop van negentig dagen na de datum waarop de Secretaris-Generaal deze kennisgeving heeft ontvangen niet langer van toepassing op vervoer binnen het (de) in deze kennisgeving aangegeven grondgebied(en).
 2. Een Staat die een verklaring als bedoeld in het eerste lid van dit artikel heeft afgelegd mag op elk later tijdstip door middel van een aan de Secretaris-Generaal gerichte kennisgeving verklaren, dat de Overeenkomst van toepassing is op vervoer binnen een overeenkomstig het eerste lid van dit artikel aangewezen grondgebied en dat de Overeenkomst honderd en tachtig dagen na de datum van ontvangst van deze kennisgeving door de Secretaris-Generaal van toepassing wordt op vervoer binnen genoemd grondgebied.
 
 ### Artikel  11  

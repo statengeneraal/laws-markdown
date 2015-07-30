@@ -25,7 +25,7 @@ f. de algemeen directeur van de baten-lastendienst Centraal Justitieel Incassobu
 g. de algemeen directeur van de raad voor de kinderbescherming;  
 
 h. het hoofd van het bureau van de Erkenningscommissie Gedragsinterventies Justitie.     
-2.  Van het ingevolge artikel 1 van de Mandaatregeling hoofden clusters Ministerie van Veiligheid en Justitie 2012 aan de directeur-generaal Straffen en Beschermen verleende ondermandaat wordt ten aanzien van de aangelegenheden bedoeld in artikel 2:2, tweede lid, onderdeel a, van het Organisatiebesluit Ministerie van Veiligheid en Justitie 2015, ondermandaat verleend aan de directeur Wetgeving en Juridische Zaken.  
+2.  Van het ingevolge artikel 1 van de Mandaatregeling hoofden clusters Ministerie van Veiligheid en Justitie 2012 aan de directeur-generaal Straffen en Beschermen verleende ondermandaat wordt ten aanzien van de aangelegenheden bedoeld in artikel 5, tweede lid, onderdeel a, van het Organisatiebesluit Ministerie van Veiligheid en Justitie 2015, ondermandaat verleend aan de directeur Wetgeving en Juridische Zaken.  
 
 ### Artikel   2  
 

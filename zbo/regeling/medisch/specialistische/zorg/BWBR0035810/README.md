@@ -4,11 +4,7 @@
 
 ####Inleiding
 
-Treedt in werking per 01-01-2015 
-
 ####Grondslag
-
-Treedt in werking per 01-01-2015 
 
 Op grond van de artikelen 35, 36, 37 en 38 van de Wet marktordening gezondheidszorg (Wmg), alsmede de beleidsregel ‘Prestaties en tarieven medisch specialistische zorg’, stelt de Nederlandse Zorgautoriteit (NZa) de volgende regeling vast.   
 
@@ -16,15 +12,11 @@ Op grond van de artikelen 35, 36, 37 en 38 van de Wet marktordening gezondheidsz
 
 ####Reikwijdte
 
-Treedt in werking per 01-01-2015 
-
 Deze regeling is van toepassing op instellingen voor medisch specialistische zorg<sup> 1 In het kader van deze regeling worden hieronder verstaan: (algemene en categorale) ziekenhuizen, universitaire medische centra, zelfstandige behandelcentra, epilepsie-inrichtingen, instellingen voor revalidatie, radiotherapeutische centra, longrevalidatie-instellingen, dialysecentra en (huisartsen)laboratoria voor zover deze werkzaamheden verrichten ten behoeve van de in dit artikel genoemde instellingen. </sup> (met uitzondering van sanatoria), audiologische centra, trombosediensten, instellingen voor erfelijkheidsadvisering en instellingen die geriatrische revalidatiezorg leveren. Deze regeling is voorts van toepassing op solisten als bedoeld in artikel 6.30 van deze regeling en op zorgaanbieders die mondzorg leveren zoals kaakchirurgen die bieden.<sup> 2 Het kan hier gaan om een kaakchirurg-solist, alsmede een instelling die kaakchirurgie levert. De Minister van VWS heeft in de aanwijzing van 21 mei 2014, kenmerk 371987-120847-MC, aangegeven dat instellingen die kaakchirurgie leveren, vallen onder de reikwijdte van artikel 1.2, aanhef en onder nummer 1, van het Uitvoeringsbesluit WTZi en aldus worden beschouwd als instellingen voor medisch specialistische zorg. </sup>  Deze regeling is niet van toepassing op abortuszorg geleverd door abortusklinieken en aanbieders van gespecialiseerde geestelijke gezondheidszorg (GGZ) en generalistische basis GGZ, als bedoeld in de beleidsregels ‘Prestaties en tarieven gespecialiseerde geestelijke gezondheidszorg’ en ‘Generalistische basis GGZ’, met uitzondering van de relevante GGZ-prestaties die zijn opgenomen in bijlage 4 (overige zorgproducten) behorend bij de beleidsregel ‘Prestaties en tarieven medisch specialistische zorg’. 
 
 ### Artikel  2  
 
 ####Doel
-
-Treedt in werking per 01-01-2015 
 
 In deze regeling legt de NZa regels vast die zorgaanbieders die op grond van artikel 1 onder de reikwijdte van deze regeling vallen in acht moeten nemen bij het leveren van prestaties en tarieven van medisch specialistische zorg, audiologische zorg, trombosezorg, zorg in het kader van erfelijkheidsadvisering, geriatrische revalidatiezorg en mondzorg zoals kaakchirurgen die bieden. 
 
@@ -32,15 +24,11 @@ In deze regeling legt de NZa regels vast die zorgaanbieders die op grond van art
 
 ####Intrekking oude regeling(en)
 
-Treedt in werking per 01-01-2015 
-
 De regelingen ‘Medisch specialistische zorg’, met kenmerk NR/CU-257 en kenmerk NR/CU-249, worden ingetrokken. 
 
 ### Artikel  4  
 
 ####Inwerkingtreding en citeertitel
-
-Treedt in werking per 01-01-2015 
 
 Deze regeling treedt in werking op 1 januari 2015. Ingevolge artikel 20, tweede lid, onderdeel a, van de Wmg, zal deze regeling ten minste twee dagen vóór de datum van inwerkingtreding in de Staatscourant worden gepubliceerd. Deze regeling kan worden aangehaald als: ‘Regeling Medisch specialistische zorg’. 
 
@@ -48,15 +36,11 @@ Deze regeling treedt in werking op 1 januari 2015. Ingevolge artikel 20, tweede
 
 ####Overgangsbepaling
 
-Treedt in werking per 01-01-2015 
-
 De regeling ‘Medisch specialistische zorg’, met kenmerk NR/CU-257, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die regeling en die betrekking hebben op de periode waarvoor die regeling gold. Dit betekent dat voor overlopende DBC-zorgproducten (DBC’s gestart in jaar t-1 en doorlopend in jaar t) de op het moment van opening van het DBC-zorgproduct geldende regeling van toepassing is. 
 
 ### Artikel  6  
 
 ####Begrippen en afkortingen
-
-Treedt in werking per 01-01-2015 
 
 In deze regeling wordt verstaan onder: 
 
@@ -160,13 +144,9 @@ Bron: NZa
 
 ####Registreren
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  7  
 
 ####Algemene registratiebepalingen
-
-Treedt in werking per 01-01-2015 
 
 7.1.  De registratie van het zorgtraject start op de datum dat de eerste zorgactiviteit plaatsvindt in het kader van een nieuwe zorgvraag van een patiënt.   
 7.2.  Wanneer er bij de behandeling van de patiënt in verband met verschillende zorgvragen meerdere specialismen zijn betrokken als hoofdbehandelaar, opent elk specialisme<sup> 8 Hiermee worden alle poortspecialismen bedoeld en de volgende beroepsbeoefenaren als deze de poortfunctie uitvoeren: interventie-radioloog, anesthesist als pijnbestrijder, klinisch geneticus, klinisch fysicus audioloog en de specialist ouderengeneeskunde. </sup> een eigen zorgtraject als sprake is van een eigen zorgvraag, diagnosestelling én behandeling.<sup> 9 Op de voorwaarde diagnosestelling én behandeling geldt een uitzondering indien de patiënt na diagnosestelling definitief wordt doorverwezen naar een andere hoofdbehandelaar van een ander specialisme, zonder dat de patiënt behandeld is door de eerste hoofdbehandelaar. In dit geval kunnen beide specialismen een zorgtraject openen. </sup>    
@@ -184,8 +164,6 @@ Treedt in werking per 01-01-2015
 ### Artikel  8  
 
 ####Het openen van een zorgtraject
-
-Treedt in werking per 01-01-2015 
 
 De regels voor het openen van een zorgtraject zijn afhankelijk van het zorgtype (ZT) van het subtraject. 
 
@@ -278,8 +256,6 @@ c. Bij parallelliteit (binnen één specialisme) tijdens een klinische periode m
 
 ####Het openen van een subtraject
 
-Treedt in werking per 01-01-2015 
-
 Een subtraject wordt geopend: 
 
 – Bij het openen van een zorgtraject (zie artikel 8) of;  
@@ -297,8 +273,6 @@ Een subtraject wordt geopend:
 ### Artikel  10  
 
 ####Het sluiten van een subtraject
-
-Treedt in werking per 01-01-2015 
 
 10.1.  Een subtraject met een ZT11 of 21 (initiële of vervolgbehandeling) wordt gesloten: 
 
@@ -506,8 +480,6 @@ Bij behandeling middels plasmafiltratie en LDL aferese wordt per drie behandelin
 
 ####Het sluiten van een zorgtraject
 
-Treedt in werking per 01-01-2015 
-
 De regels voor het sluiten van een zorgtraject zijn afhankelijk van het zorgtype (ZT) van het subtraject. Een zorgtraject wordt gesloten in onderstaande situaties: 
 
 11.1 Een zorgtraject met één of meer subtrajecten met ZT11 of 21 wordt afgesloten: 
@@ -528,13 +500,9 @@ c. Voor het poortspecialisme cardiologie gelden specifieke afsluitregels voor zo
 
 ####Afleiden
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  12  
 
 ####Regels afleiden
-
-Treedt in werking per 01-01-2015 
 
 12.1.  De zorgverlener gebruikt voor de afleiding uitsluitend een grouper waarvan is gegarandeerd dat deze een 100% betrouwbare, juiste en verifieerbare afleiding verzorgt. De afleiding moet op basis van de beslisbomen, -tabellen, en -afsluitregels die gelden op het moment van opening van het subtraject.   
 12.2.  Een grouper als bedoeld in het vorige lid, voldoet aantoonbaar aan de volgende voorwaarden en specificaties: 
@@ -557,13 +525,9 @@ g. Er bestaat een formele gestandaardiseerde procedure voor de communicatie en u
 
 ####Declareren en betalen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  13  
 
 ####Algemene declaratiebepalingen
-
-Treedt in werking per 01-01-2015 
 
 13.1.  Het in rekening brengen (declareren) van een integraal tarief voor een geleverd DBC-zorgproduct en/of een overig zorgproduct aan een zorgverzekeraar of patiënt is exclusief voorbehouden aan ‘eigen zorgverleners’.<sup> 32 In het kader van artikel 13.1 worden hier ook de factureringsbedrijven onder verstaan die namens een zorgverlener declareren. </sup>    
 13.2.  Voor instellingen geldt, in aanvulling op artikel 13.1, dat zij in het bezit dienen te zijn van een toelating als bedoeld in artikel 5 van de Wet toelating zorginstellingen (WTZi).<sup> 33 Instellingen die kaakchirurgie leveren vallen onder volgens de aanwijzing integrale tarieven onder instellingen voor medisch specialistische zorg. </sup>    
@@ -592,8 +556,6 @@ Treedt in werking per 01-01-2015
 
 ####Declaratiebepalingen voor DBC-zorgproducten
 
-Treedt in werking per 01-01-2015 
-
 14.1.  Het DBC-zorgproduct wordt gedeclareerd bij de patiënt of bij de zorgverzekeraar waar de patiënt op de startdatum van het DBC-zorgproduct is verzekerd.   
 14.2.  Een zorgverlener mag een DBC-zorgproduct alleen declareren indien de prestatie is vastgelegd volgens de in deze regeling vastgestelde registratiebepalingen en voldaan is aan de omschrijvingen en definities van zorgactiviteiten uit de beleidsregel ‘Prestaties en tarieven medisch specialistische zorg’.   
 14.3.  Bij declaratie van een DBC-zorgproduct vermeldt de zorgverlener het subtrajectnummer.   
@@ -609,8 +571,6 @@ Treedt in werking per 01-01-2015
 ### Artikel  15  
 
 ####Declaratiebepalingen voor overige zorgproducten
-
-Treedt in werking per 01-01-2015 
 
 15.1.  Een overig zorgproduct wordt gedeclareerd bij de patiënt of bij de zorgverzekeraar waar de patiënt op het moment van de uitvoerdatum van het overige zorgproduct is verzekerd.   
 15.2.  Een zorgverlener mag een overig zorgproduct alleen declareren indien de prestatie is vastgelegd volgens de in deze regeling vastgestelde registratiebepalingen en voldaan is aan de omschrijvingen en definities van zorgactiviteiten/overige zorproducten uit de beleidsregel ‘Prestaties en tarieven medisch specialistische zorg’.   
@@ -712,8 +672,6 @@ Techniekkosten kunnen en mogen additioneel in rekening worden gebracht, tenzij d
 
 ####Terugvaloptie
 
-Treedt in werking per 01-01-2015 
-
 16.1.  Een zorgverlener mag een DBC-zorgproduct vóór de algemene sluitingsregels uit artikel 10.1 declareren indien is voldaan aan onderstaande voorwaarden: 
 
 a. De zorgverlener heeft geen overeenkomst<sup> 37 Onder overeenkomst wordt verstaan: een overeenkomst voor de levering van (bepaalde) zorg. </sup> met een zorgverzekeraar, en  
@@ -727,13 +685,9 @@ d. Er is geen sprake van uitzonderingen op de afsluitregels, zoals genoemd in ar
 
 ####Informeren
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  17  
 
 ####Informatieverplichting bij declaratie
-
-Treedt in werking per 01-01-2015 
 
 17.1.  Informatieverplichting bij declaratie van DBC-zorgproducten Een declaratie vermeldt minimaal de volgende gegevens: 
 
@@ -849,8 +803,6 @@ j.  *Gedeclareerd bedrag*: Op de declaratie dient het gedeclareerde bedrag van h
 
 ####Standaard prijslijst
 
-Treedt in werking per 01-01-2015 
-
 Zorgverleners zoals genoemd in artikel 1 van deze regeling maken een standaard prijslijst bekend voor prestaties in het vrije en gereguleerde segment. 
 
 18.1 De standaard prijslijst bevat de volgende onderdelen, zoals vastgesteld in het sjabloon ‘standaard prijslijst’ (bijlage 5): 
@@ -887,8 +839,6 @@ b. De zorgverlener informeert een consument op verzoek over de prijzen op de sta
 
 ####Informatieverplichting solisten
 
-Treedt in werking per 01-01-2015 
-
 19.1.  Solisten die declareren op basis van een individuele beschikking (zie artikel 13.3) zijn verplicht om wijzigingen in de bedrijfsvoering (NAW-gegevens, KvK-inschrijving, etc.) of wijzigingen in de organisatiestructuur (samengaan/fusie met andere solist of instelling, beëindiging van de bedrijfsactiviteiten, faillissement, etc.) aan de NZa te melden.  
 
 Nederlandse Zorgautoriteit, 
@@ -899,15 +849,11 @@ voorzitter Raad van Bestuur a.i.
 
 ####: Diagnose-combinatietabel
 
-Treedt in werking per 01-01-2015 
-
 Deze bijlage is als losse bijlage (Excel) te downloaden via de website www.nza.nl. 
 
 ### Bijlage  2  
 
 ####: Registratieaddendum
-
-Treedt in werking per 01-01-2015 
 
 Deze bijlage is als losse bijlage (Excel) te downloaden via de website www.nza.nl. 
 
@@ -915,15 +861,11 @@ Deze bijlage is als losse bijlage (Excel) te downloaden via de website www.nza.n
 
 ####: Overzicht zorgactiviteiten op nota
 
-Treedt in werking per 01-01-2015 
-
 Deze bijlage is als losse bijlage (Excel) te downloaden via de website www.nza.nl. 
 
 ### Bijlage  3b  
 
 ####: Privacyverklaring zorgactiviteiten
-
-Treedt in werking per 01-01-2015 
 
 Deze bijlage is als losse bijlage (Pdf) te downloaden via de website www.nza.nl. 
 
@@ -931,14 +873,10 @@ Deze bijlage is als losse bijlage (Pdf) te downloaden via de website www.nza.nl.
 
 ####: Overzicht dbc-zorgproducten op nota
 
-Treedt in werking per 01-01-2015 
-
 Deze bijlage is als losse bijlage (Pdf) te downloaden via de website www.nza.nl. 
 
 ### Bijlage  5  
 
 ####: Sjabloon standaard prijslijst
-
-Treedt in werking per 01-01-2015 
 
 Deze bijlage is als losse bijlage (Excel) te downloaden via de website www.nza.nl. 

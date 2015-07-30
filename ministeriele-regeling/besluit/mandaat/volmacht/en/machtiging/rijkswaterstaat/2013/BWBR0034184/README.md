@@ -47,9 +47,9 @@ b. de afdelingshoofden en districtshoofden, en
 
 c. de projectdirecteuren, projectmanagers en projectleiders van projecten met een waarde groter dan € 50.000.000.     
 3.  De in het tweede lid, onder c, genoemde functionarissen worden geen bevoegdheden verleend in HRM-aangelegenheden.   
-4.  De hoofdingenieur-directeur van de organisatieonderdelen RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud kunnen met inachtneming van artikel 12 binnen hun organisatieonderdeel hun bevoegdheden ook mandateren aan portfoliodirecteuren, portfoliomanagers, projectdirecteuren, projectmanagers en projectleiders. De projectdirecteuren, projectmanagers en projectleiders worden geen bevoegdheden verleend in HRM-aangelegenheden.   
+4.  De hoofingenieur-directeuren van de organisatieonderdelen RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud kunnen met inachtneming van artikel 12 hun bevoegdheden ook mandateren aan project- of programmadirecteuren – Portfoliomanagement, project- of programmamanagers – Portfoliomanagement, project- of programmadirecteuren – Projectmanagement, project- of programmamanagers en projectleiders. De project- of programmadirecteuren – Projectmanagement, project- of programmamanagers en projectleiders worden geen bevoegdheden verleend in HRM-aangelegenheden.   
 5.  De hoofdingenieur-directeur van het organisatieonderdeel RWS Centrale Informatievoorziening kan met inachtneming van artikel 12 binnen zijn organisatieonderdeel zijn bevoegdheden ook mandateren aan de plaatsvervangend hoofdingenieur-directeur, de plaatsvervangend directeuren en programmadirecteuren.   
-6.  De aan de directeur-generaal Rijkswaterstaat verleende bevoegdheden worden, met inachtneming van de artikelen 3 en 12, eveneens gemandateerd aan het Hoofd secretariaat Vlaams Nederlands Schelde Commissie (VNSC) bij het organisatieonderdeel RWS Zee en Delta.  
+6.  De aan de directeur-generaal Rijkswaterstaat verleende bevoegdheden worden, met inachtneming van de artikelen 3 en 12, eveneens gemandateerd aan de hoofdingenieur-directeur in bijzondere dienst Kustwachtvisie en het Hoofd secretariaat Vlaams Nederlands Schelde Commissie (VNSC) bij het organisatieonderdeel RWS Zee en Delta.  
 
 ### Artikel  6  
 
@@ -85,21 +85,27 @@ d. de realisatiemanagers en de projectmanagers.
 
 ### Artikel  8  
 
-####: Mandatering landelijke projecten en productspecifieke eenheden
+####: Mandatering Algemene Corporate Taken
 
 De aan de directeur-generaal Rijkswaterstaat verleende bevoegdheden worden, met inachtneming van de artikelen 3 en 12, eveneens gemandateerd aan de volgende functionarissen: 
 
-a. de directeur Algemene Corporate Taken;  
+a. de algemeen directeur Algemene Corporate Taken;  
 
-b. de programmadirecteuren, de projectdirecteuren, projectmanagers en projectleiders van landelijke projecten, en  
+b. de directeuren Nationale Databank Wegverkeersgegevens en Nationale Bewegwijzeringsdienst;  
 
-c. de directeuren en afdelingshoofden van de productspecifieke eenheden.   
+c. de project- of programmadirecteuren, project- of programmamanagers en projectleiders van Impulsprogramma’s;  
+
+d. de project- of programmadirecteuren en project- of programmamanagers van de Product Specifieke Eenheden;  
+
+e. het afdelingshoofd Departementaal Coördinatiecentrum Crisisbeheersing (DCC);  
+
+f. de manager dienstverlening Nationale Bewegwijzeringsdienst.   
 
 ### Artikel  9  
 
 ####: Verlening volmacht en machtiging
 
-1.  De aan de directeur-generaal Rijkswaterstaat verleende volmacht en machtiging worden, met inachtneming van de artikelen 3 en 12, eveneens verleend aan de functionarissen genoemd in de artikelen 2, 4 en 5 tot en met 8, steeds eerste lid.   
+1.  De aan de directeur-generaal Rijkswaterstaat verleende volmacht en machtiging worden, met inachtneming van de artikelen 3 en 12, eveneens verleend aan de functionarissen genoemd in de artikelen 2, 4, 5, eerste en zesde lid, 6, eerste lid, 7, eerste lid en 8.   
 2.  De in de artikelen 5 tot en met 7, steeds eerste lid, genoemde functionarissen kunnen met inachtneming van artikel 12 de verleende volmacht en machtiging binnen hun organisatieonderdeel, projectdirectie of programmadirectie doorgeven aan de functionarissen genoemd in de artikelen 5 tot en met 7, steeds tweede lid, en genoemd in artikel 5, vierde en vijfde lid.   
 3.  Directeuren van de directies bedrijfsvoering binnen de regionale organisatieonderdelen en de afdelingshoofden van de afdelingen Bestuurlijk Juridische zaken en Vastgoed binnen de RWS Corporate Dienst kunnen de aan hen verleende machtiging met betrekking tot vertegenwoordiging bij geschillen eveneens doorgeven aan adviseurs voor zover het hun werkterrein juridische zaken betreft.  
 
@@ -123,17 +129,19 @@ c. de directeuren en afdelingshoofden van de productspecifieke eenheden.
 | De algemeen directeur RWS Corporate Dienst:  | 25.000.000  |
 | De hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of een programmadirectie in uitvoeringsfase:  | 25.000.000  |
 |Directeur Nationale Databank Wegverkeersgegevens: |10.000.000 |
-| De directeur Algemene Corporate Taken:  | 5.000.000  |
+| De algemeen directeur Algemene Corporate Taken:  |25.000.000 |
+|Hoofdingenieur-directeur in Bijzondere Dienst Kustwachtvisie: |5.000.000 |
 |Programmadirecteur Implementatie Omgevingswet: | 5.000.000  |
 |De hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of een programmadirectie in verkenningsfase of planstudiefase: |2.000.000 |
 |Programmadirecteur Connecting Mobility: | 1.000.000  |
-| Programmadirecteur Nationale Bewegwijzeringsdienst: | 1.000.000 |
+| Directeur Nationale Bewegwijzeringsdienst: |5.000.000 |
 |Programmadirecteur Impuls Dynamisch Verkeersmanagement Vaarwegen: |1.000.000 |
 | Het hoofd secretariaat Vlaams Nederlands Schelde Commissie (VNSC):  | 500.000  |
-| Het afdelingshoofd productspecifieke eenheid Departementaal Coördinatiecentrum Crisisbeheersing (DCC):  | 100.000  |
+| Het afdelingshoofd Departementaal Coördinatiecentrum Crisisbeheersing (DCC):  | 100.000  |
+|Manager dienstverlening Nationale Bewegwijzeringsdienst: |100.000 |
 | De directeur RWS Bestuursstaf:  | 50.000  |
-| Project- of programmadirecteur, project- of programmamanager en projectleider van een landelijk project:  | 50.000  |
-| Programmadirecteur en programmamanager van een productspecifieke eenheid:  | 50.000  |
+| Project- of programmadirecteur, project- of programmamanager en projectleider van Impulsprogramma’s:  | 50.000  |
+| Project- of programmadirecteur en project- of programmamanager van een Product Specifieke Eenheid:  | 50.000  |
 
 2.  Het mandaat, de volmacht en de machtiging, welke door de in de artikelen 5 tot en met 7, steeds eerste lid, genoemde functionarissen kunnen worden verleend zijn voor verplichtingen welke financiële gevolgen hebben of kunnen hebben beperkt tot de volgende grensbedragen exclusief btw:  
 
@@ -225,7 +233,7 @@ In aanvulling op artikel 3 wordt, conform deze bijlage, het uitoefenen van de be
 
 1a. Aan de directeur-generaal zijn voorbehouden de volgende HRM-bevoegdheden, welke alleen mogen worden uitgeoefend nadat instemming van de secretaris-generaal is verkregen: 
 
-– Afhandelen van formatieaangelegenheden met betrekking tot functies die rechtstreeks onder de hoofdingenieur-directeur van een regionaal of landelijk organisatieonderdeel, onder de algemeen directeur van de RWS Corporate Dienst of onder de hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of een programmadirectie vallen, als bedoeld in het Statuut Decentralisatie Formatievaststelling en Formatiebeheer bij het ministerie van Infrastructuur en Milieu;  
+– Afhandelen van formatieaangelegenheden met betrekking tot functies die rechtstreeks onder de hoofdingenieur-directeur van een regionaal of landelijk organisatieonderdeel, onder de algemeen directeur van de RWS Corporate Dienst of Algemene Corporate Taken of onder de hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of een programmadirectie vallen, als bedoeld in het Statuut Decentralisatie Formatievaststelling en Formatiebeheer bij het ministerie van Infrastructuur en Milieu;  
 
 – Afwijken van de hoofdlijnen van het departementale personeelsbeleid, formatiebeleid en management ontwikkelingsbeleid.    
 
@@ -251,7 +259,7 @@ In aanvulling op artikel 3 wordt, conform deze bijlage, het uitoefenen van de be
 
 – Besluiten over toekenning van immateriële schadevergoedingen.    
 
-3. Aan de directeur-generaal, de plaatsvervangend directeur-generaal en de chief financial officer, de hoofdingenieur-directeur, de algemeen directeur van de RWS Corporate Dienst en de hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of een programmadirectie zijn voorbehouden de volgende HRM-bevoegdheden, welke alleen mogen worden uitgeoefend nadat via de RWS Bestuursstaf instemming van de secretaris-generaal is verkregen: 
+3. Aan de directeur-generaal, de plaatsvervangend directeur-generaal en de chief financial officer, de hoofdingenieur-directeur, de algemeen directeur van de RWS Corporate Dienst of Algemene Corporate Taken en de hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of een programmadirectie zijn voorbehouden de volgende HRM-bevoegdheden, welke alleen mogen worden uitgeoefend nadat via de RWS Bestuursstaf instemming van de secretaris-generaal is verkregen: 
 
 – Verlenen van disciplinair ontslag, als bedoeld in artikel 81, eerste lid, onderdeel L van het ARAR;  
 
@@ -273,13 +281,13 @@ In aanvulling op artikel 3 wordt, conform deze bijlage, het uitoefenen van de be
 
 a. de directeur-generaal, de plaatsvervangend directeur-generaal en de chief financial officer, en  
 
-b. de hoofdingenieur-directeur, de algemeen directeur van de RWS Corporate Dienst en de hoofdingenieur- directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of een programmadirectie die deze bevoegdheid alleen mogen uitoefenen nadat zij via de RWS Bestuursstaf instemming van de directeur-generaal, de plaatsvervangend directeur-generaal of de chief financial officer hebben verkregen: 
+b. de hoofdingenieur-directeur, de algemeen directeur van de RWS Corporate Dienst of Algemene Corporate Taken en de hoofdingenieur- directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of een programmadirectie die deze bevoegdheid alleen mogen uitoefenen nadat zij via de RWS Bestuursstaf instemming van de directeur-generaal, de plaatsvervangend directeur-generaal of de chief financial officer hebben verkregen: 
 
 o Toekennen van een vergoeding voor materiële schade als bedoeld in artikel 69 van het ARAR, indien deze vergoeding meer bedraagt dan netto € 15.000;  
 
 o Opleggen van een disciplinaire straf anders dan die van ontslag.      
 
-5. Het benoemen van de direct onder de directeuren ressorterende leidinggevende functionarissen is voorbehouden aan de hoofdingenieur-directeur, de hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of van een programmadirectie en de algemeen directeur van de RWS Corporate Dienst.  
+5. Het benoemen van de direct onder de directeuren ressorterende leidinggevende functionarissen is voorbehouden aan de hoofdingenieur-directeur, de hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of van een programmadirectie en de algemeen directeur van de RWS Corporate Dienst of Algemene Corporate Taken.  
 
 6. Aan de algemeen directeur RWS Corporate Dienst, diens directeur Communicatie, Personeel en Recht van de RWS Corporate Dienst en aan de gemandateerde afdelingshoofden en senior adviseurs werkzaam bij de Directie Communicatie, Personeel en Recht van de RWS Corporate Dienst zijn voorbehouden de volgende bestuurlijk-juridische en vastgoedbevoegdheden: 
 

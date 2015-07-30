@@ -30,6 +30,12 @@ b. ledige massa: massa van het voertuig, in bedrijfsvaardige staat, met inbegrip
 
 c. toegestane maximum massa: ledige massa, vermeerderd met het maximum toegestane gewicht aan lading;   
 
+ca. massa in rijklare toestand voor voertuigen van de voertuigcategorie T: hetgeen hieronder wordt verstaan in artikel 1.1, tweede lid, van de Regeling voertuigen;  
+
+cb. technisch toegestane maximum massa: maximum massa waarvoor het motorrijtuig is goedgekeurd en op grond van het certificaat van overeenstemming geschikt is, dan wel maximum massa waarvoor de aanhangwagen op grond van de constructieplaat geschikt is;  
+
+cd. verwisselbaar uitrustingsstuk: hetgeen hieronder wordt verstaan in artikel 1.1, tweede lid, van de Regeling voertuigen; 
+
 d. oplegger: aanhangwagen waarvan een aanzienlijk deel van de massa, bij gelijkmatig verdeelde lading, door het trekkend voertuig wordt gedragen;   
 
 e. verklaring van rijvaardigheid: verklaring waaruit blijkt van een onderzoek met goed gevolg naar de rijvaardigheid van de aanvrager tot het besturen van motorrijtuigen van de in de verklaring vermelde rijbewijscategorie;   
@@ -76,7 +82,13 @@ y.  persoonssleutel: unieke code toegekend aan natuurlijke personen zonder burge
 
 z.  motorrijtuig met handschakeling: motorrijtuig, met een koppeling, die door de bestuurder moet worden bediend om weg te rijden, te stoppen en te schakelen; 
 
-aa.  motorrijtuig met automatische schakeling: motorrijtuig, niet zijnde een motorrijtuig met handschakeling, al dan niet voorzien van een schakelaar of een hendel, waarmee de bestuurder invloed kan uitoefenen op de gangwissel van het motorrijtuig.  
+aa.  motorrijtuig met automatische schakeling: motorrijtuig, niet zijnde een motorrijtuig met handschakeling, al dan niet voorzien van een schakelaar of een hendel, waarmee de bestuurder invloed kan uitoefenen op de gangwissel van het motorrijtuig;  
+
+ab.vervallen door verlettering;
+
+ac. landbouw- of bosbouwtrekker: hetgeen hieronder wordt verstaan in artikel 1.1, tweede lid, van de Regeling voertuigen;  
+
+ad. motorrijtuig met beperkte snelheid: hetgeen hieronder wordt verstaan in artikel 1.1, tweede lid, van de Regeling voertuigen.  
 
 ### §  2  
 
@@ -178,7 +190,7 @@ b. tijdens het praktijk-examen.
 
 ### Artikel  3  
 
-Voor het besturen van motorrijtuigen van de rijbewijscategorieën C1, C, D1, D en E is geen rijbewijs vereist bij het uitvoeren van de van het praktijk-examen deel uitmakende bijzondere verrichtingen voor zover het motorrijtuig daarbij niet onder toezicht wordt bestuurd:  
+Voor het besturen van motorrijtuigen van de rijbewijscategorieën C1, C, D1, D, E en T is geen rijbewijs vereist bij het uitvoeren van de van het praktijk-examen deel uitmakende bijzondere verrichtingen voor zover het motorrijtuig daarbij niet onder toezicht wordt bestuurd:  
 
 a. gedurende de tijd dat aan de bestuurder rijonderricht in de zin van de Wet rijonderricht motorrijtuigen 1993 wordt gegeven in het kader van de opleiding voor het praktijk-examen voor een van die rijbewijscategorieën, en   
 
@@ -186,7 +198,7 @@ b. tijdens het praktijk-examen.
 
 ### Artikel  4  
 
-Voor het besturen van motorrijtuigen is geen rijbewijs vereist tijdens het afleggen van de in de artikelen 101, eerste lid, aanhef, en 103, derde lid, bedoelde rijproef, mits de bestuurder in het bezit is van een oproep voor die rijproef. 
+Voor het besturen van motorrijtuigen is geen rijbewijs vereist tijdens het afleggen van de in de artikelen 101, eerste lid, aanhef, en 103, negende lid, bedoelde rijproef, mits de bestuurder in het bezit is van een oproep voor die rijproef. 
 
 ### §  3  
 
@@ -226,14 +238,13 @@ m. voor de rijbewijscategorieën D en E bij D, indien betrokkene tevens in het b
 a. bestuurders van gehandicaptenvoertuigen die zijn uitgerust met een elektromotor en die niet sneller kunnen rijden dan 10 km per uur;  
 
 b. bestuurders van bromfietsen als bedoeld in artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet, die beschikken over een gehandicaptenparkeerkaart of een kaart ten behoeve van het vervoer van gehandicapten als bedoeld in artikel 5, zesde lid, van het RVV 1990.     
-3.  Voor bestuurders van stoom- en motorwalsen geldt de minimumleeftijd van 18 jaren.   
-4.  Voor bestuurders van landbouw- en bosbouwtrekkers, gehandicaptenvoertuigen, anders dan die bedoeld in het tweede lid, onderdeel a, en motorrijtuigen met beperkte snelheid, niet zijnde stoom- en motorwalsen, geldt de minimumleeftijd van 16 jaren.   
-5.  Van de in het vierde lid vastgestelde minimumleeftijd kan ontheffing worden verleend voor zover het betreft gehandicaptenvoertuigen als bedoeld in dat lid.   
-6.  In afwijking van het eerste lid, onderdeel b, geldt voor bestuurders van een motorrijtuig van de categorie A1 de minimumleeftijd van 16 jaren, indien zij beschikken over een geldig rijbewijs voor de categorie A1, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie, een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, dan wel over een door het daartoe bevoegde gezag in Nederland afgegeven rijbewijs voor die categorie dat is verkregen door omwisseling overeenkomstig artikel 45.   
-7.  In afwijking van het eerste lid, onderdeel c, geldt voor bestuurders van een motorrijtuig van de categorie A2 de minimumleeftijd van 18 jaren indien zij beschikken over een geldig rijbewijs voor de categorie A2, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie, een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, dan wel over een door het daartoe bevoegde gezag in Nederland afgegeven rijbewijs voor die categorie dat is verkregen door omwisseling overeenkomstig artikel 45.   
-8.  In afwijking van het eerste lid, onderdeel d, geldt voor bestuurders van een motorrijtuig van de categorie A, niet zijnde een driewielig motorrijtuig van die categorie, de minimumleeftijd van 20 jaren, indien zij beschikken over een geldig rijbewijs voor de categorie A, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie, een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, dan wel over een door het daartoe bevoegde gezag in Nederland afgegeven rijbewijs voor die categorie dat is verkregen door omwisseling overeenkomstig artikel 45.   
-9.  In afwijking van het eerste lid, onderdeel d, geldt voor bestuurders van een driewielig motorrijtuig van de categorie A de minimumleeftijd van 21 jaren, indien zij beschikken over een geldig rijbewijs voor de categorie A, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, dan wel over een door het daartoe bevoegde gezag in Nederland afgegeven rijbewijs voor die categorie dat is verkregen door omwisseling overeenkomstig artikel 45.  
-10.  In afwijking van het eerste lid, onderdeel h, geldt voor het Nederlandse grondgebied de leeftijd van 18 jaar, indien: 
+3.  Voor bestuurders van landbouw- en bosbouwtrekkers, gehandicaptenvoertuigen, anders dan die bedoeld in het tweede lid, onderdeel a, en motorrijtuigen met beperkte snelheid geldt de minimumleeftijd van 16 jaren.   
+4.  Van de in het derde lid vastgestelde minimumleeftijd kan ontheffing worden verleend voor zover het betreft gehandicaptenvoertuigen als bedoeld in dat lid.   
+5.  In afwijking van het eerste lid, onderdeel b, geldt voor bestuurders van een motorrijtuig van de categorie A1 de minimumleeftijd van 16 jaren, indien zij beschikken over een geldig rijbewijs voor de categorie A1, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie, een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, dan wel over een door het daartoe bevoegde gezag in Nederland afgegeven rijbewijs voor die categorie dat is verkregen door omwisseling overeenkomstig artikel 45.   
+6.  In afwijking van het eerste lid, onderdeel c, geldt voor bestuurders van een motorrijtuig van de categorie A2 de minimumleeftijd van 18 jaren indien zij beschikken over een geldig rijbewijs voor de categorie A2, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie, een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, dan wel over een door het daartoe bevoegde gezag in Nederland afgegeven rijbewijs voor die categorie dat is verkregen door omwisseling overeenkomstig artikel 45.   
+7.  In afwijking van het eerste lid, onderdeel d, geldt voor bestuurders van een motorrijtuig van de categorie A, niet zijnde een driewielig motorrijtuig van die categorie, de minimumleeftijd van 20 jaren, indien zij beschikken over een geldig rijbewijs voor de categorie A, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie, een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, dan wel over een door het daartoe bevoegde gezag in Nederland afgegeven rijbewijs voor die categorie dat is verkregen door omwisseling overeenkomstig artikel 45.   
+8.  In afwijking van het eerste lid, onderdeel d, geldt voor bestuurders van een driewielig motorrijtuig van de categorie A de minimumleeftijd van 21 jaren, indien zij beschikken over een geldig rijbewijs voor de categorie A, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, dan wel over een door het daartoe bevoegde gezag in Nederland afgegeven rijbewijs voor die categorie dat is verkregen door omwisseling overeenkomstig artikel 45.  
+9.  In afwijking van het eerste lid, onderdeel h, geldt voor het Nederlandse grondgebied de leeftijd van 18 jaar, indien: 
 
 a. de bestuurder een door het bevoegd gezag van een op het beroep van chauffeur goederenvervoer gerichte beroepsopleiding als bedoeld in de Wet educatie en beroepsonderwijs of een bij ministeriële regeling daaraan gelijkwaardig verklaarde opleiding afgegeven gewaarmerkte verklaring kan overleggen waaruit blijkt sinds welke datum hij de opleiding volgt, en  
 
@@ -378,6 +389,17 @@ e. degene aan wie rijonderricht wordt gegeven in het kader van de opleiding voor
 4. Voor de toepassing van het eerste lid, onderdeel e, wordt met een rijbewijs dat geldig is voor het besturen van het trekkende motorrijtuig gelijkgesteld een door het daartoe bevoegde gezag in een andere lidstaat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland afgegeven rijbewijs dat geldig is voor het besturen van het trekkende motorrijtuig.  
 5.  Degene die rijonderricht ontvangt met het oog op een aanvraag als bedoeld in artikel 42b, eerste lid, dient in het bezit te zijn van een verklaring als bedoeld in artikel 42b, tweede lid, onderdeel b. 
 
+### Artikel  9a  
+
+1.  Bij het geven van rijonderricht in de zin van de Wet motorrijtuigen 1993 in het kader van de opleiding voor het praktijkexamen voor rijbewijs T dient te worden voldaan aan de volgende eisen: 
+
+a. het motorrijtuig waarmee rijonderricht wordt gegeven dient te zijn voorzien van inrichtingen die zo zijn aangebracht dat degene die rijonderricht geeft daarmee de bedrijfsrem en, indien het een motorrijtuig met handschakeling betreft, de koppeling vanaf zijn zitplaats doeltreffend kan bedienen;  
+
+b. het motorrijtuig waarmee rijonderricht wordt gegeven dient te zijn voorzien van twee of meer buitenspiegels waarmee degene die rijonderricht geeft het rechts en links naast en achter hem gelegen weggedeelte kan overzien;  
+
+c. het motorrijtuig waarmee rijonderricht wordt gegeven dient te zijn voorzien van een bij ministeriële regeling vastgestelde aanduiding, aangebracht op een wijze als bij die regeling is voorgeschreven.     
+2.  Artikel 9, vijfde lid, is van overeenkomstige toepassing.  
+
 ###Artikel 10 
 
 Artikel 9, eerste lid, onderdelen a tot en met c, is van overeenkomstige toepassing bij het geven van rijonderricht in de zin van de Wet rijonderricht motorrijtuigen 1993 in het kader van het behalen van de basiskwalificatie.
@@ -414,7 +436,35 @@ h. motorrijtuigen die zijn ontworpen en gebouwd voor het vervoer van ten hoogste
 
 i. motorrijtuigen die zijn ontworpen en gebouwd voor het vervoer van meer dan acht personen, de bestuurder niet meegerekend, alsmede daardoor voortbewogen aanhangwagens waarvan de toegestane maximum massa niet meer bedraagt dan 750 kg (rijbewijs D);  
 
-j. motorrijtuigen van een van de rijbewijscategorieën B, C1, C, D1 of D voor het besturen waarvan de bestuurder in het bezit is van een rijbewijs, met een andere aanhangwagen of oplegger dan op grond van dat rijbewijs mag worden voortbewogen (rijbewijs E), mits: 
+j. landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid, alsmede een of meer door die motorrijtuigen voortbewogen aanhangwagens of verwisselbare getrokken machines (rijbewijs T), niet zijnde motorrijtuigen van een van de in de onderdelen a tot en met i bedoelde rijbewijscategorieën, tenzij: 
+
+1°. het motorrijtuig, gemeten overeenkomstig artikel 5.1a.1 van de Regeling voertuigen niet breder is dan 1,3 m,  
+
+2°. het motorrijtuig is voorzien van: 
+
+I. een door de motor aangedreven maai-installatie, niet zijnde een of meer verwisselbare uitrustingsstukken bestemd voor het maaien van oppervlakten,  
+
+II. een door de motor aangedreven veeginstallatie, niet zijnde een of meer verwisselbare uitrustingsstukken bestemd voor het vegen van wegen,  
+
+III. een door de motor aangedreven installatie om automatisch uitwerpselen op te zuigen, niet zijnde een of meer verwisselbare uitrustingsstukken bestemd voor het opzuigen van uitwerpselen,  
+
+IV. een uitrustingsstuk aan de voorzijde ter verwijdering van sneeuw op het wegdek, met een minimale breedte gelijk aan de grootste breedte van het voertuig, niet zijnde een of meer verwisselbare uitrustingsstukken bestemd ter verwijdering van sneeuw op het wegdek,  
+
+V. een installatie voor het strooien op wegen ter voorkoming of bestrijding van gladheid, niet zijnde een of meer verwisselbaar uitrustingsstukken bestemd voor het strooien op wegen, of  
+
+VI. een installatie met een tankinhoud van ten minste 100 liter om onkruid te besproeien, niet zijnde een of meer verwisselbare uitrustingsstukken bestemd voor het sproeien van onkruid,  
+
+VII. een hefinrichting aan de voorzijde van het voertuig, niet zijnde een verwisselbaar uitrustingsstuk, dat zelfstandig voor laad- en losactiviteiten kan worden ingezet, en    
+
+3°. het motorrijtuig aan de achterzijde niet is voorzien van: 
+
+I. een inrichting tot het koppelen van een aanhangwagen,  
+
+II. een inrichting tot het koppelen van een verwisselbare getrokken machine, of  
+
+III. een driepuntshefinrichting;     
+
+k. motorrijtuigen van een van de rijbewijscategorieën B, C1, C, D1 of D voor het besturen waarvan de bestuurder in het bezit is van een rijbewijs, met een andere aanhangwagen of oplegger dan op grond van dat rijbewijs mag worden voortbewogen (rijbewijs E), mits: 
 
 I. in het geval van een motorrijtuig van de rijbewijscategorie B 
 
@@ -426,17 +476,18 @@ a. de toegestane maximumlast onder de koppeling van de oplegger of middenasaanha
 
 b. de toegestane maximum aslast respectievelijk de som van de toegestane maximum aslasten van de oplegger of middenasaanhangwagen niet meer bedraagt dan 3500 kg;      
 
-II. in het geval van een motorrijtuig van de rijbewijscategorie C1 de toegestane maximum massa van het samenstel van trekkend motorrijtuig en aanhangwagen of oplegger niet meer bedraagt dan 12.000 kg,     een en ander afhankelijk van de gegevens die op het kentekenbewijs of in het kentekenregister ten aanzien van het in dit onderdeel bedoelde trekkende motorrijtuig zijn vermeld.  
-2. Voor de bepaling van het aantal wielen worden twee op dezelfde as gemonteerde wielen als een wiel beschouwd, indien de afstand tussen de middens van de contactvlakken van deze wielen met de grond kleiner is dan 460 mm.  
-3.  In afwijking van het eerste lid worden motorrijtuigen, ingericht voor het vervoer van ten hoogste 8 personen, de bestuurder daaronder niet begrepen, waarvan de toegestane maximum massa als gevolg van een aan het voertuig aangebrachte bepantsering meer dan 3500 kg bedraagt, begrepen onder de rijbewijscategorie B.    
-4.  In afwijking van het eerste lid worden begrepen onder de rijbewijscategorie B: 
+II. in het geval van een motorrijtuig van de rijbewijscategorie C1 de toegestane maximum massa van het samenstel van trekkend motorrijtuig en aanhangwagen of oplegger niet meer bedraagt dan 12.000 kg,     een en ander afhankelijk van de gegevens die op het kentekenbewijs of in het kentekenregister ten aanzien van het in dit onderdeel bedoelde trekkende motorrijtuig zijn vermeld.   
+2.  Het eerste lid, aanhef en onder 3°, onder I, is niet van toepassing op de landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid, bedoeld in het eerste lid, onderdeel j, aanhef en onder 2°, onder VII, mits aan dat voertuig geen aanhangwagen of verwisselbare getrokken machine is gekoppeld. 
+3. Voor de bepaling van het aantal wielen worden twee op dezelfde as gemonteerde wielen als een wiel beschouwd, indien de afstand tussen de middens van de contactvlakken van deze wielen met de grond kleiner is dan 460 mm.  
+4.  In afwijking van het eerste lid worden motorrijtuigen, ingericht voor het vervoer van ten hoogste 8 personen, de bestuurder daaronder niet begrepen, waarvan de toegestane maximum massa als gevolg van een aan het voertuig aangebrachte bepantsering meer dan 3500 kg bedraagt, begrepen onder de rijbewijscategorie B.    
+5.  In afwijking van het eerste lid worden begrepen onder de rijbewijscategorie B: 
 
 a. motorrijtuigen, bestemd voor het vervoer van goederen, met een toegestane maximummassa van meer dan 3500 kg, maar minder dan 7500 kg, die worden aangedreven door een elektromotor waarvoor de elektrische energie uitsluitend geleverd wordt door een batterij en waarvan de batterij wordt opgeladen door middel van een elektrisch oplaadpunt buiten het voertuig;  
 
 b. hybride elektrische motorrijtuigen, bestemd voor het vervoer van goederen, met een toegestane maximummassa van meer dan 3500 kg, maar minder dan 7500 kg, waarvan de batterij kan worden opgeladen door middel van een elektrisch oplaadpunt buiten het voertuig;  
 
 c. het samenstel van een motorrijtuig van die categorie en een door dat motorrijtuig voortbewogen aanhangwagen of oplegger waarvan de toegestane maximum massa meer bedraagt dan 750 kg, waarbij de toegestane maximum massa van het samenstel van trekkend motorrijtuig en aanhangwagen of oplegger meer bedraagt dan 3500 kg, maar niet meer bedraagt dan 4250 kg en het rijbewijs van de bestuurder is voorzien van een bij ministeriële regeling vastgestelde codering waaruit blijkt dat de houder is geslaagd voor het examen dat de bevoegdheid geeft tot het besturen van zo'n samenstel.   
-5.  In afwijking van het eerste lid, onderdeel j, onder II, wordt onder de rijbewijscategorie E bij C1 mede begrepen een motorrijtuig van de rijbewijscategorie B met een aanhangwagen of oplegger waarvan de toegestane maximum massa meer bedraagt dan 3500 kg, mits de toegestane maximum massa van het samenstel niet meer bedraagt dan 12.000 kg. 
+6.  In afwijking van het eerste lid, onderdeel k, onder II, wordt onder de rijbewijscategorie E bij C1 mede begrepen een motorrijtuig van de rijbewijscategorie B met een aanhangwagen of oplegger waarvan de toegestane maximum massa meer bedraagt dan 3500 kg, mits de toegestane maximum massa van het samenstel niet meer bedraagt dan 12.000 kg. 
 
 ### Artikel  15a  
 
@@ -449,7 +500,8 @@ Aan de aanvrager van een rijbewijs, die blijkens de ten behoeve van hem in het r
 ### Artikel  17  
 
 1.  Aan de aanvrager van een rijbewijs, die blijkens de ten behoeve van hem in het rijbewijzenregister geregistreerde verklaring van rijvaardigheid het praktijkexamen heeft afgelegd in een motorrijtuig met automatische schakeling, dan wel blijkens de ten behoeve van hem in het rijbewijzenregister geregistreerde verklaring van geschiktheid slechts een motorrijtuig mag besturen met automatische schakeling, wordt een rijbewijs afgegeven dat slechts geldig is voor het besturen van motorrijtuigen van de in de verklaring van rijvaardigheid of de verklaring van geschiktheid genoemde rijbewijscategorie met automatische schakeling. In het rijbewijs is deze beperking aangeduid met een bij ministeriële regeling vastgestelde codering.   
-2.  Het eerste lid is niet van toepassing op aanvragen voor de rijbewijscategorie AM. 
+2.  Het eerste lid is niet van toepassing op aanvragen voor de rijbewijscategorie AM.  
+3.  Het eerste lid is niet van toepassing op de aanvrager van een rijbewijs voor de categorie T, voor zover het de vermelding op het rijbewijs betreft van de beperkende codering die aanduidt dat het praktijkexamen voor de rijbewijscategorie T is afgelegd in een motorrijtuig met automatische schakeling. 
 
 ### Artikel  18  
 
@@ -489,7 +541,7 @@ Aan de aanvrager van een rijbewijs, die blijkens de ten behoeve van hem in het r
 
 ### Artikel  19b  
 
-Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs voor een andere categorie dan AM, geeft degene die belast is met de afgifte van rijbewijzen tevens een rijbewijs af dat geldig is voor het besturen van motorrijtuigen waarvoor een rijbewijs AM is vereist.
+Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs voor de categorie A1, A2, A, B, BE, C1, C1E, C, CE, D1, D1E, D of DE geeft degene die belast is met de afgifte van rijbewijzen tevens een rijbewijs af dat geldig is voor het besturen van motorrijtuigen waarvoor een rijbewijs AM is vereist.
 
 ### Artikel  19c  
 
@@ -507,7 +559,7 @@ Aan de aanvrager van een rijbewijs, die blijkens de ten behoeve van hem in het r
 
 ###Artikel 21a 
 
-Aan de aanvrager van een rijbewijs, die blijkens de ten behoeve van hem in het rijbewijzenregister geregistreerde verklaring van rijvaardigheid het praktijkexamen voor de rijbewijscategorie C heeft afgelegd met een motorrijtuig voor het besturen waarvan een rijbewijs C is vereist, wordt een rijbewijs C en C1 afgegeven.
+Aan de aanvrager van een rijbewijs, die blijkens de ten behoeve van hem in het rijbewijzenregister geregistreerde verklaring van rijvaardigheid het praktijkexamen voor de rijbewijscategorie C heeft afgelegd met een motorrijtuig voor het besturen waarvan een rijbewijs C is vereist, wordt een rijbewijs C en C1, alsmede een rijbewijs T afgegeven.
 
 ### Artikel 21b 
 
@@ -534,7 +586,8 @@ Aan de aanvrager van een rijbewijs, die blijkens de ten behoeve van hem in het r
 
 ### Artikel  25  
 
-Aan de aanvrager van een rijbewijs, die blijkens de ten behoeve van hem in het rijbewijzenregister geregistreerde verklaring van geschiktheid de voor het besturen van motorrijtuigen vereiste geschiktheid slechts bezit voor een termijn die korter is dan de in artikel 25a, eerste of tweede lid, voorziene geldigheidsduur van het rijbewijs, wordt een rijbewijs afgegeven dat slechts geldig is gedurende die kortere termijn.  
+1. Aan de aanvrager van een rijbewijs, die blijkens de ten behoeve van hem in het rijbewijzenregister geregistreerde verklaring van geschiktheid de voor het besturen van motorrijtuigen vereiste geschiktheid slechts bezit voor een termijn die korter is dan de krachtens artikel 25a, eerste of tweede lid, voorziene geldigheidsduur van het rijbewijs, wordt een rijbewijs afgegeven dat slechts geldig is gedurende die kortere termijn.   
+2.  Indien het de afgifte betreft van een rijbewijs T op grond van artikel 21a wordt een rijbewijs afgegeven dat voor de categorie T dezelfde geldigheidsduur heeft als voor de categorie B. Indien er sprake is van beperkende coderingen die zijn geregistreerd ten aanzien van houders van een rijbewijs B, worden deze bij de categorie T vermeld, met uitzondering van de in artikel 17, derde lid, bedoelde codering die aanduidt dat het praktijkexamen is afgelegd in een motorrijtuig met automatische schakeling. 
 
 ### §  7  
 
@@ -542,7 +595,7 @@ Aan de aanvrager van een rijbewijs, die blijkens de ten behoeve van hem in het r
 
 ### Artikel  25a  
 
-1.  Behoudens de artikelen 123, 123a en 123b van de wet is een rijbewijs voor de categorieën AM, A1, A2, A, B of E bij B, afgegeven aan een aanvrager die de leeftijd van 
+1.  Behoudens de artikelen 123, 123a en 123b van de wet is een rijbewijs voor de categorieën AM, A1, A2, A, B, E bij B, of T, afgegeven aan een aanvrager die de leeftijd van 
 
 a. 65 jaren nog niet heeft bereikt, geldig voor de duur van tien achtereenvolgende jaren, gerekend vanaf de in het rijbewijs vermelde datum van afgifte;  
 
@@ -894,7 +947,9 @@ l. A2;
 
 m. A1;  
 
-n. AM.    
+n. AM;  
+
+o. T.   
 
 ### Artikel  42b  
 
@@ -942,7 +997,8 @@ Indien het rijbewijs, bedoeld in artikel 42a, eerste lid, een rijbewijs betreft 
 
 ### Artikel  42d  
 
-Indien de aanvraag voor een rijbewijs, bedoeld in artikel 42a, eerste lid, niet op alle categorieën als bedoeld in artikel 42b, tweede lid, betrekking had en ten aanzien van de aanvrager op basis van de procedure van artikel 42b een verklaring van rijvaardigheid is geregistreerd, is artikel 36 van toepassing op elke aanvraag die betrekking heeft op de afgifte van een rijbewijs dat geldig is voor meer categorieën dan vermeld op de verklaring van rijvaardigheid op grond van artikel 42b, eerste lid, dan wel waarvoor het inmiddels afgegeven rijbewijs geldig is. 
+1. Indien de aanvraag voor een rijbewijs, bedoeld in artikel 42a, eerste lid, niet op alle categorieën als bedoeld in artikel 42b, tweede lid, betrekking had en ten aanzien van de aanvrager op basis van de procedure van artikel 42b een verklaring van rijvaardigheid is geregistreerd, is artikel 36 van toepassing op elke aanvraag die betrekking heeft op de afgifte van een rijbewijs dat geldig is voor meer categorieën dan vermeld op de verklaring van rijvaardigheid op grond van artikel 42b, eerste lid, dan wel waarvoor het inmiddels afgegeven rijbewijs geldig is.  
+2.  In afwijking van het eerste lid kan de procedure van artikel 42b een tweede keer worden gevolgd, indien de eerste aanvraag op basis van artikel 42a uitsluitend betrekking had op een rijbewijs voor de categorie T. 
 
 ### Artikel  42e  
 
@@ -968,7 +1024,7 @@ IV.blijkens een aantekening in het rijbewijzenregister naar het oordeel van het 
 
 ### Artikel  44  
 
-1. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs tegen overlegging van een rijbewijs, aan de aanvrager afgegeven door het daartoe bevoegde gezag in Aruba, Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba, dient bij de aanvraag aan de volgende vereisten te worden voldaan:
+1. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs voor een andere categorie dan de categorie T tegen overlegging van een rijbewijs, aan de aanvrager afgegeven door het daartoe bevoegde gezag in Aruba, Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba, dient bij de aanvraag aan de volgende vereisten te worden voldaan:
 
 a.behoudens de in artikel 33 genoemde bescheiden wordt tevens het eerder aan de aanvrager afgegeven rijbewijs overgelegd;
 
@@ -1020,12 +1076,14 @@ III.het overgelegde rijbewijs beperkende aantekeningen bevat die niet zijn aange
 
 IV.de aanvrager op het moment van indiening van de aanvraag de leeftijd van 75 jaren heeft bereikt;
 
-V. de aanvrager op het moment van indiening de leeftijd van 70 jaren heeft bereikt en in het bezit is van een rijbewijs waarvan de geldigheidsduur verstrijkt op of na de dag waarop hij de leeftijd van 75 jaren bereikt.   
+V. de aanvrager op het moment van indiening de leeftijd van 70 jaren heeft bereikt en in het bezit is van een rijbewijs waarvan de geldigheidsduur verstrijkt op of na de dag waarop hij de leeftijd van 75 jaren bereikt; 
+
+c. indien de aanvraag uitsluitend of mede betrekking heeft op de rijbewijscategorie T kan het rijbewijs voor die categorie alleen worden omgewisseld indien het om te wisselen rijbewijs voor de categorie T is aangewezen bij ministeriële regeling.   
 2. Het over te leggen rijbewijs dient op het moment van de aanvraag hetzij nog geldig te zijn hetzij, indien het zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur, vergezeld te gaan van een door het gezag dat het rijbewijs heeft afgegeven gewaarmerkte verklaring waaruit blijkt dat door dat gezag tegen de aanvrager geen maatregelen van bestuursrechtelijke of strafrechtelijke aard betreffende de beperking, schorsing, intrekking of nietigverklaring van de rijbevoegdheid zijn getroffen en dat bij dat gezag ook overigens geen bezwaar tegen afgifte van een rijbewijs bestaat.  
 3.  Indien het over te leggen rijbewijs op het moment van de aanvraag zijn geldigheid heeft verloren doordat in een andere lidstaat van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland een maatregel met betrekking tot het rijbewijs is opgelegd in verband met ontbrekende geschiktheid, respectievelijk rijvaardigheid, is artikel 42, eerste, respectievelijk tweede lid, van overeenkomstige toepassing, met dien verstande dat, als op het tijdstip van de aanvraag dan wel uiterlijk op het tijdstip van uitreiking van dat rijbewijs aan de aanvrager blijkt dat er in een andere lidstaat van de Europese Unie, in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruime of in Zwitserland door het daartoe bevoegde gezag aan de aanvrager een verbod is opgelegd om gedurende een bepaalde periode een rijbewijs te verkrijgen, geen afgifte plaatsvindt gedurende die termijn.  
 4. Indien het rijbewijs wegens vermissing of diefstal niet kan worden overgelegd worden in plaats daarvan de volgende documenten overgelegd:
 
-a.een proces-verbaal ter zake van vermissing of diefstal, in Nederland op ambtseed opgemaakt door een ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak, waarin de omstandigheden waaronder het rijbewijs verloren is geraakt of teniet is gegaan, worden omschreven;
+a.een proces-verbaal ter zake van vermissing of diefstal, in Nederland op ambtseed opgemaakt door een daartoe bevoegd algemeen of buitengewoon opsporingsambtenaar, waarin de omstandigheden waaronder het rijbewijs verloren is geraakt of teniet is gegaan, worden omschreven;
 
 b.een door het gezag dat het rijbewijs heeft afgegeven, gewaarmerkte verklaring waaruit van de afgifte en de geldigheid blijkt en waaruit tevens blijkt dat door dat gezag tegen de aanvrager geen maatregelen van bestuursrechtelijke of strafrechtelijke aard betreffende de beperking, schorsing, intrekking of nietigverklaring van de rijbevoegdheid zijn getroffen en dat bij dat gezag ook overigens geen bezwaar tegen afgifte van een rijbewijs bestaat.  
 5. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs dat geldig is voor meer categorieën dan het door de aanvrager overgelegde rijbewijs, dient, behoudens aan de in het eerste lid genoemde vereisten, bij de aanvraag aan de volgende vereisten te worden voldaan:
@@ -1043,12 +1101,12 @@ b.het door de aanvrager over te leggen rijbewijs is door de bevoegde autoriteit 
 c.de aanvrager overlegt een geldig buitenlands omwisselingscertificaat, dan wel
 
 d.ten behoeve van de aanvrager is in het rijbewijzenregister een verklaring van vakbekwaamheid of een verklaring van nascholing geregistreerd, waarbij de datum van registratie niet langer dan vijf jaren vóór de aanvraag mag liggen. 
-8. Indien de in het voorgaande lid, onder a of c, genoemde documenten wegens vermissing of diefstal niet kunnen worden overgelegd, is artikel 44, zesde lid, van overeenkomstige toepassing.
+8. Indien de in het voorgaande lid, onder a of c, genoemde documenten wegens vermissing of diefstal niet kunnen worden overgelegd, is artikel 44, zevende lid, van overeenkomstige toepassing.
 9. Indien het in het zevende lid, onder b, genoemde document wegens vermissing of diefstal niet kan worden overgelegd, blijkt uit de gewaarmerkte verklaring, bedoeld in het vierde lid, onder b, de vermelding van de communautaire code en blijkt tevens dat geen maatregelen van bestuursrechtelijke of strafrechtelijke aard betreffende de beperking, schorsing, intrekking of nietigverklaring van die code zijn getroffen en dat bij dat gezag ook overigens geen bezwaar tegen afgifte van een getuigschrift van vakbekwaamheid dan wel een getuigschrift van nascholing bestaat.
 
 ### Artikel  46  
 
-1. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs tegen overlegging van een rijbewijs, aan de aanvrager afgegeven door het daartoe bevoegde gezag buiten Nederland, anders dan in Aruba, Curaçao, Sint Maarten, de openbare lichamen Bonaire, Sint Eustatius en Saba, in een andere lidstaat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, dient bij de aanvraag aan de volgende vereisten te worden voldaan:
+1. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs voor een andere categorie dan de categorie T tegen overlegging van een rijbewijs, aan de aanvrager afgegeven door het daartoe bevoegde gezag buiten Nederland, anders dan in Aruba, Curaçao, Sint Maarten, de openbare lichamen Bonaire, Sint Eustatius en Saba, in een andere lidstaat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, dient bij de aanvraag aan de volgende vereisten te worden voldaan:
 
 a.behoudens de in artikel 33 genoemde bescheiden wordt tevens het door dat gezag afgegeven rijbewijs overgelegd;
 
@@ -1066,7 +1124,7 @@ b. de aanvraag betrekking heeft op dezelfde rijbewijscategorie of rijbewijscateg
 
 c. het over te leggen rijbewijs zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur.    
 4.  Het tweede lid, onderdeel b, geldt niet indien het over te leggen rijbewijs is afgegeven door omwisseling tegen een eerder aan de aanvrager afgegeven rijbewijs en de aanvraag betrekking heeft op dezelfde rijbewijscategorie of rijbewijscategorieën waarvoor dat eerder aan de aanvrager afgegeven rijbewijs geldig was.   
-5.  Het over te leggen rijbewijs en de wijze van verkrijging daarvan dienen bij ministeriële regeling te zijn aangewezen als zijnde ten minste gelijkwaardig aan rijbewijzen en de verkrijging daarvan zoals voorzien in richtlijn nr. 91/439/EEG van de Raad van de Europese Gemeenschappen van 29 juli 1991 betreffende het rijbewijs (*PbEG* L 237), dan wel dient het over te leggen rijbewijs bij ministeriële regeling te zijn aangewezen als een rijbewijs dat om redenen van algemeen belang voor omwisseling in aanmerking komt.  
+5.  Het over te leggen rijbewijs en de wijze van verkrijging daarvan dienen bij ministeriële regeling te zijn aangewezen als zijnde ten minste gelijkwaardig aan rijbewijzen en de verkrijging daarvan zoals voorzien in richtlijn nr. 2006/126/EG, van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende het rijbewijs (PbEU L 403), dan wel dient het over te leggen rijbewijs bij ministeriële regeling te zijn aangewezen als een rijbewijs dat om redenen van algemeen belang voor omwisseling in aanmerking komt.  
 6. Het vijfde lid geldt niet indien het over te leggen rijbewijs is afgegeven door omwisseling tegen een eerder aan de aanvrager afgegeven rijbewijs en de aanvraag betrekking heeft op dezelfde rijbewijscategorie of rijbewijscategorieën waarvoor dat eerder aan de aanvrager afgegeven rijbewijs geldig was. 
 7. Indien de aanvraag betrekking heeft op een rijbewijs waarop een getuigschrift van vakbekwaamheid of een getuigschrift van nascholing wordt vermeld, dient, behoudens aan de in het eerste en tweede lid genoemde vereisten, bij de aanvraag aan de volgende vereisten te worden voldaan:
 
@@ -1075,11 +1133,11 @@ a.de aanvrager overlegt een door de bevoegde autoriteit van een lidstaat van de 
 b.de aanvrager overlegt een geldig buitenlands omwisselingscertificaat, dan wel
 
 c.ten behoeve van de aanvrager is in het rijbewijzenregister een verklaring van vakbekwaamheid of een verklaring van nascholing geregistreerd, waarbij de datum van registratie niet langer dan vijf jaren vóór de aanvraag mag liggen. 
-8. Indien de in het voorgaande lid, onder a of b, genoemde documenten wegens vermissing of diefstal niet kunnen worden overgelegd, is artikel 44, zesde lid, van overeenkomstige toepassing.
+8. Indien de in het voorgaande lid, onder a of b, genoemde documenten wegens vermissing of diefstal niet kunnen worden overgelegd, is artikel 44, zevende lid, van overeenkomstige toepassing.
 
 ### Artikel  47  
 
-1. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs tegen overlegging van een rijbewijs, door het daartoe bevoegde gezag buiten Nederland afgegeven aan een aanvrager die vreemdeling in de zin van de Vreemdelingenwet 2000 is en aan wie op grond van diens hoedanigheid van of betrekking tot diplomatiek of consulair personeel dan wel op grond van diens hoedanigheid van of betrekking tot personeel in dienst van een in Nederland gevestigde internationale organisatie door Onze Minister van Buitenlandse Zaken een identiteitsbewijs voor geprivilegieerden is verstrekt, dient bij de aanvraag aan de volgende vereisten te worden voldaan:
+1. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs voor een andere categorie dan de categorie T tegen overlegging van een rijbewijs, door het daartoe bevoegde gezag buiten Nederland afgegeven aan een aanvrager die vreemdeling in de zin van de Vreemdelingenwet 2000 is en aan wie op grond van diens hoedanigheid van of betrekking tot diplomatiek of consulair personeel dan wel op grond van diens hoedanigheid van of betrekking tot personeel in dienst van een in Nederland gevestigde internationale organisatie door Onze Minister van Buitenlandse Zaken een identiteitsbewijs voor geprivilegieerden is verstrekt, dient bij de aanvraag aan de volgende vereisten te worden voldaan:
 
 a.behoudens de in artikel 33 genoemde bescheiden wordt tevens het door dat gezag afgegeven rijbewijs overgelegd;
 
@@ -1102,12 +1160,12 @@ b.het door de aanvrager over te leggen rijbewijs is door de bevoegde autoriteit 
 c.de aanvrager overlegt een geldig buitenlands omwisselingscertificaat, dan wel
 
 d.ten behoeve van de aanvrager is in het rijbewijzenregister een verklaring van vakbekwaamheid of een verklaring van nascholing geregistreerd, waarbij de datum van registratie niet langer dan vijf jaren vóór de aanvraag mag liggen. 
-4. Indien de in het voorgaande lid, onder a of c, genoemde documenten wegens vermissing of diefstal niet kunnen worden overgelegd, is artikel 44, zesde lid, van overeenkomstige toepassing.
+4. Indien de in het voorgaande lid, onder a of c, genoemde documenten wegens vermissing of diefstal niet kunnen worden overgelegd, is artikel 44, zevende lid, van overeenkomstige toepassing.
 5. Indien het in het derde lid, onder b, genoemde document wegens vermissing of diefstal niet kan worden overgelegd, is artikel 45, vierde en negende lid, van overeenkomstige toepassing.
 
 ### Artikel  48  
 
-1. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs tegen overlegging van een rijbewijs, door het daartoe bevoegde gezag buiten Nederland afgegeven aan een in het kader van het op 19 juni 1951 te Londen gesloten Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten, in Nederland gelegerd lid van een krijgsmacht, een lid van de tot die krijgsmacht behorende civiele dienst of een persoon die behoort tot het gezin van een lid van een krijgsmacht als hiervoor bedoeld of tot het gezin van een tot de civiele dienst van zodanige krijgsmacht behorende persoon, dient bij de aanvraag aan de volgende vereisten te worden voldaan:
+1. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs voor een andere categorie dan de categorie T tegen overlegging van een rijbewijs, door het daartoe bevoegde gezag buiten Nederland afgegeven aan een in het kader van het op 19 juni 1951 te Londen gesloten Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten, in Nederland gelegerd lid van een krijgsmacht, een lid van de tot die krijgsmacht behorende civiele dienst of een persoon die behoort tot het gezin van een lid van een krijgsmacht als hiervoor bedoeld of tot het gezin van een tot de civiele dienst van zodanige krijgsmacht behorende persoon, dient bij de aanvraag aan de volgende vereisten te worden voldaan:
 
 a.behoudens de in artikel 33 genoemde bescheiden wordt tevens het door dat gezag afgegeven rijbewijs overgelegd;
 
@@ -1252,7 +1310,8 @@ a. een geldig rijbewijs voor dezelfde categorie als waarop de aanvraag betrekkin
 
 b. een geldig rijbewijs voor dezelfde categorie als waarop de aanvraag betrekking heeft, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, dat slechts geldig is voor het besturen van motorrijtuigen van deze categorie met automatische schakeling.    
 11.  De aanvrager die heeft aangetoond te beschikken over een aan hem afgegeven rijbewijs voor de categorie C1, met uitzondering van een rijbewijs voor de categorie C1 dat blijkens de daarop aangegeven codering niet de bevoegdheid geeft tot het besturen van een motorrijtuig van de categorie C1 dat onder Verordening (EEG) nr. 3821/85 valt, respectievelijk D1, dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur, verwerft het theorie-examen voor de rijbewijscategorie C of D door in aanvulling op dat rijbewijs met goed gevolg de bij ministeriële regeling vastgestelde additionele onderdelen van het theorie-examen voor de desbetreffende categorie af te leggen.   
-12.  Voor de toepassing van het elfde lid wordt met een rijbewijs voor de categorie C1 respectievelijk D1 gelijkgesteld een geldig rijbewijs C1 respectievelijk een geldig rijbewijs D1, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland.  
+12.  Voor de toepassing van het elfde lid wordt met een rijbewijs voor de categorie C1 respectievelijk D1 gelijkgesteld een geldig rijbewijs C1 respectievelijk een geldig rijbewijs D1, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland.   
+13.  Het onderzoek naar de rijvaardigheid voor de rijbewijscategorie T bestaat uit een theorie-examen en een praktijkexamen. 
 
 ### Artikel  53a  
 
@@ -1269,7 +1328,8 @@ b. een geldig rijbewijs voor dezelfde categorie als waarop de aanvraag betrekkin
 11.  Indien het een aanvraag betreft als bedoeld in artikel 42a, eerste lid, en de zwaarste categorie waarop de aanvraag betrekking heeft categorie A is, dan bestaat het onderzoek naar de rijvaardigheid uit een theorie-examen en een praktijkexamen voor de categorie A.   
 12.  Indien het een aanvraag betreft als bedoeld in artikel 42a, eerste lid, en de zwaarste categorie waarop de aanvraag betrekking heeft categorie A2 is, dan bestaat het onderzoek naar de rijvaardigheid uit een theorie-examen ten behoeve van de categorie A en een praktijkexamen voor de categorie A2.   
 13.  Indien het een aanvraag betreft als bedoeld in artikel 42a, eerste lid, en de zwaarste categorie waarop de aanvraag betrekking heeft categorie A1 is, dan bestaat het onderzoek naar de rijvaardigheid uit een theorie-examen ten behoeve van de categorie A en een praktijkexamen voor de categorie A1.  
-14.  Indien het een aanvraag betreft als bedoeld in artikel 42a, eerste lid, en de zwaarste categorie waarop de aanvraag betrekking heeft categorie AM is, dan bestaat het onderzoek naar de rijvaardigheid uit een theorie-examen en een praktijkexamen voor de categorie AM.  
+14.  Indien het een aanvraag betreft als bedoeld in artikel 42a, eerste lid, en de zwaarste categorie waarop de aanvraag betrekking heeft categorie AM is, dan bestaat het onderzoek naar de rijvaardigheid uit een theorie-examen en een praktijkexamen voor de categorie AM.   
+15.  Indien het een aanvraag betreft als bedoeld in artikel 42a, eerste lid, en de aanvraag uitsluitend de categorie T betreft, dan bestaat het onderzoek naar de rijvaardigheid uit een theorie-examen en een praktijkexamen voor de categorie T. Indien de aanvraag mede een of meer van de categorieën E bij D, D, E bij D1, D1, E bij B, B, A1, A2, A of AM betreft, dan bestaat in aanvulling op de eerste volzin het onderzoek naar de rijvaardigheid mede uit een theorie-examen en een praktijkexamen voor de zwaarste categorie overeenkomstig het derde tot en met het veertiende lid. 
 
 ### §  2  
 
@@ -1304,7 +1364,7 @@ d.indien de aanvraag wordt gedaan met het oog op de aanvraag van een rijbewijs, 
 
 ### Artikel  56  
 
-1. Het theorie-examen voor de rijbewijscategorie AM kan slechts worden afgelegd door personen die de leeftijd van vijftien jaren en zes maanden hebben bereikt. 
+1. Het theorie-examen voor de rijbewijscategorieën AM en T kan slechts worden afgelegd door personen die de leeftijd van vijftien jaren en zes maanden hebben bereikt. 
 2.  Het theorie-examen voor de rijbewijscategorie A kan slechts worden afgelegd door personen die de leeftijd van 17 jaren hebben bereikt.  
 3.  Het theorie-examen voor de rijbewijscategorie B kan slechts worden afgelegd door personen die de leeftijd van achttien jaren hebben bereikt.   
 4.  Het onderdeel rijbewijs/vakbekwaamheid 1 en het onderdeel rijbewijs 2 van het theorie-examen voor de rijbewijscategorie C1 kunnen slechts worden afgelegd door personen die de leeftijd van 17 jaren hebben bereikt.   
@@ -1479,7 +1539,6 @@ j. kennis van en inzicht in de werking en defecten van de belangrijkste voertuig
 3.  De aanvrager die aantoont te beschikken over een rijbewijs voor de categorie D1 dat nog geldig is of dat ongeldig is geworden door het verstrijken van de geldigheidsduur of een geldig rijbewijs D1, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, verwerft het theorie-examen voor de categorie D door in aanvulling op dat rijbewijs met goed gevolg de bij ministeriële regeling vastgestelde onderdelen van dat theorie-examen af te leggen. 
 
 ### Artikel  64a  
-Treedt in werking per 01-07-2015 
 
 De eisen voor het theorie-examen voor de rijbewijscategorie T betreffen: 
 
@@ -1770,7 +1829,6 @@ b. de aanvrager dient bij de aanvraag een op zijn naam gesteld identiteitsbewijs
 6.  Voor de toepassing van het vijfde lid, onderdeel a, onder 1°, wordt, indien de aanvraag betrekking heeft op de rijbewijscategorie E bij D en de aanvrager een op het beroep van chauffeur goederenvervoer gerichte beroepsopleiding als bedoeld in de Wet educatie en beroepsonderwijs volgt, met een rijbewijs D gelijkgesteld een ten aanzien van de aanvrager in het rijbewijzenregister geregistreerde verklaring van rijvaardigheid voor de rijbewijscategorie D, waarbij de datum van registratie niet langer dan drie jaar voor de dag van het examen mag liggen.  
 
 ### Artikel  67ha  
-Treedt in werking per 01-07-2015 
 
 Voor de toelating tot het praktijkexamen voor de rijbewijscategorie T moet zijn voldaan aan de volgende eisen: 
 
@@ -1780,7 +1838,7 @@ b. de aanvrager dient bij de aanvraag een op zijn naam gesteld identiteitsbewijs
 
 ### Artikel  67i  
 
-In afwijking van de artikelen 67 tot en met 67h moet, indien het de toelating tot het praktijkexamen in verband met een aanvraag van een rijbewijs als bedoeld in de artikelen 41b, eerste lid, 41d, eerste lid, of 42a, eerste lid, betreft, zijn voldaan aan de volgende eisen: 
+In afwijking van de artikelen 67 tot en met 67ha moet, indien het de toelating tot het praktijkexamen in verband met een aanvraag van een rijbewijs als bedoeld in de artikelen 41b, eerste lid, 41d, eerste lid, of 42a, eerste lid, betreft, zijn voldaan aan de volgende eisen: 
 
 a. de aanvrager dient bij de aanvraag een op zijn naam gesteld identiteitsbewijs als bedoeld in artikel 1, eerste lid, onder 1°, 2° of 3°, van de Wet op de identificatieplicht over te leggen;  
 
@@ -1788,7 +1846,7 @@ b. de aanvrager dient de in artikel 42b, tweede lid, onderdeel b, bedoelde verkl
 
 c. de aanvrager dient niet langer dan twee jaar voor de dag van het praktijkexamen te zijn geslaagd voor het theorie-examen voor de zwaarste rijbewijscategorie, bedoeld in artikel 42a, tweede lid, waarop de aanvraag betrekking heeft, indien de aanvraag betrekking heeft op de categorieën E bij C, C, E bij D, D, E bij C1, C1, E bij D1 of D1;  
 
-d. de aanvrager dient niet langer dan een jaar en zes maanden voor de dag van het praktijkexamen te zijn geslaagd voor het theorie-examen voor de zwaarste rijbewijscategorie, bedoeld in artikel 42a, tweede lid, waarop de aanvraag betrekking heeft, indien de aanvraag betrekking heeft op de categorieën E bij B, B, A, A2, A1 of AM.   
+d. de aanvrager dient niet langer dan een jaar en zes maanden voor de dag van het praktijkexamen te zijn geslaagd voor het theorie-examen voor de zwaarste rijbewijscategorie, bedoeld in artikel 42a, tweede lid, waarop de aanvraag betrekking heeft, indien de aanvraag betrekking heeft op de categorieën E bij B, B, A, A2, A1, AM of T.   
 
 ### Artikel  69a  
 
@@ -1816,7 +1874,7 @@ a.bedrevenheid in de bediening van het voertuig;
 b.het op juiste en veilige wijze deelnemen aan het verkeer;
 
 c.het kunnen toepassen van de bij en krachtens de wet vastgestelde voorschriften.   
-3.  De eisen waaraan bij het praktijkexamen voor de de rijbewijscategorieën B, C1, C, D1, D en E dient te worden voldaan, betreffen: 
+3.  De eisen waaraan bij het praktijkexamen voor de de rijbewijscategorieën B, C1, C, D1, D, E en T dient te worden voldaan, betreffen: 
 
 a.bedrevenheid in de bediening van het voertuig;
 
@@ -1889,7 +1947,6 @@ Het praktijkexamen voor het rijbewijs E bij D1 bestaat uit het afleggen van een 
 2.  Indien het een praktijkexamen betreft voor de rijbewijscategorie E bij D met het oog op de aanvraag van een rijbewijs voor die categorie, bedoeld in artikel 18a, eerste lid, is het in het eerste lid bedoelde trekkend motorrijtuig voorzien van een schakelaar of hendel, waarmee de bestuurder invloed kan uitoefenen op de gangwissel van het motorrijtuig. 
 
 ### Artikel  77a  
-Treedt in werking per 01-07-2015 
 
 Het praktijkexamen voor het rijbewijs T bestaat uit het afleggen van een rijproef met een samenstel, waarvan de feitelijke massa niet meer bedraagt dan de technisch toegestane massa van het samenstel, en de lengte ten minste 11 m bedraagt, bestaande uit: 
 
@@ -1939,7 +1996,7 @@ Het motorrijtuig waarmee de rijproef voor het rijbewijs A wordt afgelegd, dient 
 
 Het motorrijtuig waarmee de rijproef voor het rijbewijs B wordt afgelegd, dient te zijn voorzien van:  
 
-a. inrichtingen die zo zijn aangebracht dat de examinator, daarmee de bedrijfsrem en, indien het een motorrijtuig met handschakeling betreft, de koppeling vanaf zijn zitplaats doeltreffend kan bedienen;  
+a. inrichtingen die zo zijn aangebracht dat de examinator daarmee de bedrijfsrem en, indien het een motorrijtuig met handschakeling betreft, de koppeling vanaf zijn zitplaats doeltreffend kan bedienen;  
 
 b. een binnen- en een buitenspiegel waarmee de examinator het achter en rechts naast hem gelegen weggedeelte kan overzien;   
 
@@ -1949,14 +2006,13 @@ c. een bij ministeriële regeling vastgestelde aanduiding, aangebracht op de wij
 
 Het motorrijtuig waarmee de rijproef voor het rijbewijs C1, C, D1, D of E wordt afgelegd, dient te zijn voorzien van:  
 
-a. inrichtingen die zo zijn aangebracht dat de examinator, daarmee de bedrijfsrem en, indien het een motorrijtuig met handschakeling betreft, de koppeling vanaf zijn zitplaats doeltreffend kan bedienen;  
+a. inrichtingen die zo zijn aangebracht dat de examinator daarmee de bedrijfsrem en, indien het een motorrijtuig met handschakeling betreft, de koppeling vanaf zijn zitplaats doeltreffend kan bedienen;  
 
 b. twee of meer buitenspiegels waarmee de examinator het rechts en links naast en achter hem gelegen weggedeelte kan overzien;   
 
 c. een bij ministeriële regeling vastgestelde aanduiding, aangebracht op de wijze als bij die regeling is voorgeschreven.    
 
 ### Artikel  81a  
-Treedt in werking per 01-07-2015 
 
 1.  Het motorrijtuig waarmee de rijproef voor het rijbewijs T wordt afgelegd, dient in ieder geval te zijn voorzien van: 
 
@@ -1980,9 +2036,9 @@ d. een bij ministeriële regeling vastgestelde aanduiding, aangebracht op de wij
 ### Artikel  83  
 
 1.  De duur van het praktijkexamen voor de rijbewijscategorie AM, voor zover het betreft bromfietsen op twee wielen, bedraagt ten minste 25 minuten.   
-2.  De duur van het praktijkexamen verkeersdeelneming voor de rijbewijscategorieën A1 en A en van het praktijkexamen voor de rijbewijscategorieën B en E bij B bedraagt ten minste 35 minuten.   
+2.  De duur van het praktijkexamen verkeersdeelneming voor de rijbewijscategorieën A1, A2 en A en van het praktijkexamen voor de rijbewijscategorieën B en E bij B bedraagt ten minste 35 minuten.   
 3.  De duur van het praktijkexamen voor de rijbewijscategorieën A2 en A bedraagt ten minste 35 minuten.   
-4.  De duur van het praktijkexamen voor de rijbewijscategorieën C1, C, D1, D, E bij C1, E bij C, E bij D1 en E bij D bedraagt ten minste 60 minuten.  
+4.  De duur van het praktijkexamen voor de rijbewijscategorieën C1, C, D1, D, E bij C1, E bij C, E bij D1, E bij D en T bedraagt ten minste 60 minuten.  
 
 ### Artikel  84  
 
@@ -2012,7 +2068,7 @@ Het nader onderzoek bestaat uit het afleggen van een rijproef ten overstaan van 
 
 ### Artikel  88  
 
-De duur van het nader onderzoek bedraagt voor de rijbewijscategorieën AM, A1, A2, A, B en E bij B ten minste 50 minuten en voor de rijbewijscategorieën C1, C, D1, D, E bij C1, E bij C, E bij D1 en E bij D ten minste 80 minuten. 
+De duur van het nader onderzoek bedraagt voor de rijbewijscategorieën AM, A1, A2, A, B en E bij B ten minste 50 minuten en voor de rijbewijscategorieën C1, C, D1, D, E bij C1, E bij C, E bij D1, E bij D en T ten minste 80 minuten. 
 
 ### Artikel  89  
 
@@ -2507,7 +2563,7 @@ b. in de overige gevallen zo spoedig mogelijk doch uiterlijk binnen vier weken n
 1.  Het in artikel 133 van de wet bedoelde onderzoek naar de rijvaardigheid omvat een theorie-gedeelte en een praktijk-gedeelte.    
 2.  Indien het onderzoek betrekking heeft op meerdere rijbewijscategorieën, wordt de kennis van de theorie van alle categorieën gezamenlijk onderzocht.    
 3.  Het praktijk-gedeelte bestaat uit een rijproef voor elk van de categorieën waarop het onderzoek betrekking heeft.    
-4.  Indien het onderzoek betrekking heeft op een of meer van de rijbewijscategorieën AM, A1, A2, A, B, C, C1, D, D1 en E dan wel mede op een of meer van die rijbewijscategorieën, bestaat het praktijk-gedeelte in afwijking van het derde lid uit een of meerdere rijproeven, afgenomen overeenkomstig artikel 135.    
+4.  Indien het onderzoek betrekking heeft op een of meer van AM, A1, A2, A, B, C, C1, D, D1, E en T dan wel mede op een of meer van die rijbewijscategorieën, bestaat het praktijk-gedeelte in afwijking van het derde lid uit een of meerdere rijproeven, afgenomen overeenkomstig artikel 135.    
 5.  Bij ministeriële regeling worden richtlijnen vastgesteld omtrent de wijze van beoordelen van de rijvaardigheid van betrokkene.   
 
 ### Artikel  134a  
@@ -2516,8 +2572,8 @@ Indien het in artikel 133 van de wet bedoelde onderzoek naar de rijvaardigheid e
 
 ### Artikel  135  
 
-1. Indien het onderzoek betrekking heeft op de rijbewijscategorieën B, C, C1, D, D1 en E, wordt eerst een rijproef voor de categorie E bij C afgenomen. Indien betrokkene blijkens die rijproef aan de voor die categorie gestelde eisen voldoet, wordt aangenomen dat hij mede voldoet aan de eisen voor de categorieën C, E bij C1, C1, E bij D, D, E bij D1, D1, E bij B en B. 
-2. Indien betrokkene blijkens de rijproef voor de categorie E bij C niet aan de voor die categorie gestelde eisen voldoet, wordt een rijproef voor de categorie C afgenomen. Indien betrokkene blijkens die rijproef aan de voor die categorie gestelde eisen voldoet, wordt aangenomen dat hij mede voldoet aan de eisen voor de categorieën E bij C1, C1, E bij D, D, E bij B en B. 
+1. Indien het onderzoek betrekking heeft op de rijbewijscategorieën B, C, C1, D, D1, E en T, wordt eerst een rijproef voor de categorie E bij C afgenomen. Indien betrokkene blijkens die rijproef aan de voor die categorie gestelde eisen voldoet, wordt aangenomen dat hij mede voldoet aan de eisen voor de categorieën C, E bij C1, C1, E bij D, D, E bij D1, D1, E bij B, B en T. 
+2. Indien betrokkene blijkens de rijproef voor de categorie E bij C niet aan de voor die categorie gestelde eisen voldoet, wordt een rijproef voor de categorie C afgenomen. Indien betrokkene blijkens die rijproef aan de voor die categorie gestelde eisen voldoet, wordt aangenomen dat hij mede voldoet aan de eisen voor de categorieën E bij C1, C1, E bij D, D, E bij D1, D1, E bij B, B en T. 
 3. Indien betrokkene blijkens de rijproef voor de categorie C niet aan de voor die categorie gestelde eisen voldoet, wordt een rijproef voor de categorie E bij D afgenomen. Indien betrokkene blijkens die rijproef aan de voor die categorie gestelde eisen voldoet, wordt aangenomen dat hij mede voldoet aan de eisen voor de categorieën D, E bij D1, D1, E bij B en B. 
 4. Indien betrokkene blijkens de rijproef voor de categorie E bij D niet aan de voor die categorie gestelde eisen voldoet, wordt een rijproef voor de categorie D afgenomen. Indien betrokkene blijkens die rijproef aan de voor die categorie gestelde eisen voldoet, wordt aangenomen dat hij mede voldoet aan de eisen voor de categorieën E bij D1, D1, E bij B en B. 
 5. Indien betrokkene blijkens de rijproef voor de categorie D niet aan de voor die categorie gestelde eisen voldoet, wordt een rijproef voor de categorie E bij C1 afgenomen. Indien betrokkene blijkens die rijproef aan de voor die categorie gestelde eisen voldoet, wordt aangenomen dat hij mede voldoet aan de eisen voor de categorie E bij D1, D1, E bij B en B. 
@@ -2528,21 +2584,22 @@ Indien het in artikel 133 van de wet bedoelde onderzoek naar de rijvaardigheid e
 10. Indien betrokkene blijkens de rijproef voor de categorie E bij B niet aan de voor die categorie gestelde eisen voldoet, wordt een rijproef voor de categorie B afgenomen.  
 11.  Indien betrokkene blijkens de rijproef voor de categorie A niet aan de voor die categorie gestelde eisen voldoet, wordt een rijproef voor de categorie A2 afgenomen.   
 12.  Indien betrokkene blijkens de rijproef voor de categorie A2 niet aan de voor die categorie gestelde eisen voldoet, wordt een rijproef voor de categorie A1 afgenomen.  
-13.  Indien betrokkene blijkens de rijproef voor de categorie A1 of blijkens een rijproef op grond van een van de voorgaande leden niet aan de voor die categorie gestelde eisen voldoet, wordt een rijproef afgenomen voor de categorie AM. 
+13.  Indien betrokkene blijkens de rijproef voor de categorie A1 of blijkens een rijproef op grond van een van de voorgaande leden niet aan de voor die categorie gestelde eisen voldoet, wordt een rijproef afgenomen voor de categorie AM.  
+14.  Indien het onderzoek betrekking heeft op, dan wel mede betrekking heeft op de rijbewijscategorie T en het eerste of tweede lid niet van toepassing zijn, wordt een rijproef voor de categorie T afgenomen, dan wel wordt mede een rijproef voor de categorie T afgenomen. 
 
 ### Artikel  136  
 
-1. Het in artikel 133 van de wet bedoelde onderzoek naar de rijvaardigheid vindt plaats aan de hand van de bij ministeriële regeling ter uitvoering van de artikelen 60a tot en met 64, 69a en 70 vastgestelde eisen met betrekking tot de rijvaardigheid.   
-2.  In afwijking van het eerste lid vindt het in artikel 134a bedoelde onderzoek plaats aan de hand van de bij ministeriële regeling ter uitvoering van de artikelen 60a tot en met 64, 69a en 70 vastgestelde eisen met betrekking tot het onderdeel rijgedrag. 
+1. Het in artikel 133 van de wet bedoelde onderzoek naar de rijvaardigheid vindt plaats aan de hand van de bij ministeriële regeling ter uitvoering van de artikelen 60a tot en met 64a, 69a en 70 vastgestelde eisen met betrekking tot de rijvaardigheid.   
+2.  In afwijking van het eerste lid vindt het in artikel 134a bedoelde onderzoek plaats aan de hand van de bij ministeriële regeling ter uitvoering van de artikelen 60a tot en met 64a, 69a en 70 vastgestelde eisen met betrekking tot het onderdeel rijgedrag. 
 
 ### Artikel  137  
 
-1.  De rijproef wordt afgelegd met een motorrijtuig dan wel een samenstel van trekkend motorrijtuig en aanhangwagen van de rijbewijscategorie waarop het onderzoek betrekking heeft. De artikelen 69b en 71 tot en met 81 zijn van overeenkomstige toepassing.   
+1.  De rijproef wordt afgelegd met een motorrijtuig dan wel een samenstel van trekkend motorrijtuig en aanhangwagen van de rijbewijscategorie waarop het onderzoek betrekking heeft. De artikelen 69b en 71 tot en met 81a zijn van overeenkomstige toepassing.   
 2.  Het motorrijtuig dan wel het samenstel van trekkend motorrijtuig en aanhangwagen, waarmee de rijproef wordt afgelegd, dient naar het oordeel van het CBR daartoe geschikt te zijn.  
 
 ### Artikel  138  
 
-De duur van de rijproef bedraagt voor de rijbewijscategorieën AM, A1, A2, A, B en E bij B ten minste 35 minuten en voor de rijbewijscategorieën C1, C, D1, D, E bij C1, E bij C, E bij D1 en E bij D ten minste 60 minuten. 
+De duur van de rijproef bedraagt voor de rijbewijscategorieën AM, A1, A2, A, B en E bij B ten minste 35 minuten en voor de rijbewijscategorieën C1, C, D1, D, E bij C1, E bij C, E bij D1, E bij D en T ten minste 60 minuten. 
 
 ### Artikel  139  
 
@@ -2700,7 +2757,7 @@ i. het opleggen van een alcoholslotprogramma krachtens artikel 118, derde lid, v
 
 ### Artikel  149  
 
-De betrokken ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak, verwerkt in het rijbewijzenregister gegevens omtrent: 
+De daartoe bevoegd algemeen of buitengewoon opsporingsambtenaar, verwerkt in het rijbewijzenregister gegevens omtrent: 
 
 a. de vordering tot overgifte van rijbewijzen, bedoeld in de artikelen 130, tweede lid, en 164, eerste lid, van de wet;   
 
@@ -3180,6 +3237,8 @@ Een wijziging van bijlage I van de richtlijn vakbekwaamheid bestuurders gaat voo
 
 ####Bromfietscertificaten 
 
+Vervallen per 01-07-2015 
+
 ### §  1  
 
 ####Algemeen 
@@ -3214,43 +3273,7 @@ Vervallen per 01-10-2006
 
 ####Het register betreffende de afgifte van bromfietscertificaten 
 
-### Artikel  168  
-
-De Dienst Wegverkeer is verantwoordelijke voor de verwerking van persoonsgegevens in het kader van het register betreffende de afgifte van bromfietscertificaten. 
-
-### Artikel  169  
-
-In het register betreffende de afgifte van bromfietscertificaten worden de navolgende gegevens verwerkt:  
-
-a. geslachtsnaam, voorvoegsels, voorletters, plaats en datum en eventueel land van geboorte van degenen aan wie een bromfietscertificaat is afgegeven;   
-
-b. adres van degenen aan wie een bromfietscertificaat is afgegeven, zoals dat bekend was ten tijde van de afgifte;   
-
-c. nummer en datum van afgifte van bromfietscertificaten;   
-
-d. gegevens omtrent de ongeldigverklaring van bromfietscertificaten.    
-
-### Artikel  170  
-
-Het CBR verwerkt in het rijbewijzenregister gegevens omtrent de afgifte van bromfietscertificaten alsmede omtrent de ongeldigverklaring van bromfietscertificaten.
-
-### Artikel  172  
-
-Het in artikel 145 van de wet bedoelde reglement alsmede de wijziging en intrekking daarvan wordt voor een ieder ter inzage gelegd bij de Dienst Wegverkeer te Veendam alsmede bij de vestigingen van het CBR.  
-
-### Artikel  173  
-
-Uit het register betreffende de afgifte van bromfietscertificaten worden door de Dienst Wegverkeer inlichtingen verstrekt aan de volgende belanghebbenden: 
-
-a. degenen omtrent wie gegevens in het register zijn opgenomen;   
-
-b. het CBR;   
-
-c. het Centraal Bureau voor de Statistiek, voor statistische doeleinden, voor zover het betreft niet tot personen herleidbare informatie;   
-
-d. het Verbond van Verzekeraars, ten behoeve van het vaststellen van rechten en plichten in het kader van de uitvoering van verzekeringsovereenkomsten, voor zover het betreft de datum van afgifte van bromfietscertificaten;   
-
-e. overige door Onze Minister aangewezen belanghebbenden ten behoeve van het bij de aanwijzing aangegeven doel.   
+Vervallen per 01-07-2015 
 
 ###Hoofdstuk VIIIa 
 
@@ -3643,7 +3666,6 @@ d. een op basis van de Wegenverkeerswet afgegeven rijbewijs D dat na 30 juni 198
 2.  Onder tijdstip van transitie als bedoeld in het eerste lid wordt verstaan het tijdstip waarop artikel I van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.  
 
 ### Artikel  197a  
-Treedt in werking per 01-07-2015 
 
 1.  De aanvraag tot omwisseling van het certificaat van vakbekwaamheid, bedoeld in artikel 9.36 van het Arbeidsomstandighedenbesluit, zoals dat gold tot het tijdstip van inwerkingtreding van de wet van 3 december 2014 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de invoering van de rijbewijsplicht voor landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid (T-rijbewijs; Stb. 2015, 10), in een rijbewijs voor de categorie T geschiedt op de wijze zoals bepaald in dit artikel.   
 2.  Voor de in het eerste lid bedoelde aanvraag dient ten behoeve van de aanvrager in het rijbewijzenregister te zijn geregistreerd: 
@@ -3671,7 +3693,6 @@ b. indien het een certificaat van vakbekwaamheid betreft, afgegeven voor 1 janu
 10.  Nadat is voldaan aan het tweede lid zijn op de aanvraag van een rijbewijs voor de categorie T, bedoeld in het eerste lid, de artikelen 27, 29, 32, 33, eerste lid, onderdelen a, b, subonderdelen I en III, c en d, en tweede lid, en 34, eerste lid, van overeenkomstige toepassing.  
 
 ### Artikel  197b  
-Treedt in werking per 01-07-2015 
 
 1.  Bij de aanvraag tot afgifte van een rijbewijs voor de categorieën B en T, bedoeld in artikel V, tweede lid, van de wet van 3 december 2014 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de invoering van de rijbewijsplicht voor landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid (T-rijbewijs; Stb. 2015, 10) door een houder van een rijbewijs voor de categorie B dat op het tijdstip van de inwerkingtreding van genoemde wet nog geldig is of waarvan de geldigheid is verlopen door het verstrijken van de geldigheidsduur, wordt door het CBR tevens een verklaring van geschiktheid voor de categorie T geregistreerd, indien een verklaring van geschiktheid is vereist voor de categorie B en die voor die categorie wordt geregistreerd. Op de verklaring van geschiktheid voor de rijbewijscategorie T worden de beperkende coderingen overgenomen die zijn vermeld op de verklaring van geschiktheid voor de rijbewijscategorie B.   
 2.  In de in het eerste lid bedoelde gevallen, alsmede in de gevallen waarin het de afgifte betreft van een rijbewijs van de categorie B en T op basis van een de aanvraag tot afgifte van een rijbewijs voor de categorieën B en T, bedoeld in artikel V, tweede lid, van de in het eerste lid bedoelde wet, zonder dat een verklaring van geschiktheid is vereist voor de categorie B, worden op het af te geven rijbewijs de beperkende coderingen die zijn geregistreerd ten aanzien van houders van een rijbewijs B eveneens vermeld op het rijbewijs ten aanzien de categorie T.   

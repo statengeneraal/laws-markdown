@@ -2180,6 +2180,48 @@ Bepaling ter uitvoering van artikel 3:74a, derde lid, van de wet
 1.  Een bank als bedoeld in artikel 3:74a, eerste lid, van de wet die over een website beschikt, geeft daarop uitleg over de wijze waarop zij voldoet aan de vereisten inzake bestuur, beloning en publicatie van gegevens in artikel 17c, de bij of krachtens artikel 23e, vijfde lid, gestelde regels, het Besluit uitvoering publicatieverplichtingen richtlijn kapitaalvereisten en artikel 3:8, derde en vierde lid, van de wet.   
 2.  Het eerste lid is van overeenkomstige toepassing op een bank met zetel in een staat die geen lidstaat is die haar bedrijf uitoefent vanuit een in Nederland gelegen bijkantoor.  
 
+### §  13.2c  
+
+####Door verzekeraars openbaar te maken informatie
+
+Bepalingen ter uitvoering van artikel 3:73c, tweede lid, van de wet 
+Treedt in werking per 01-01-2016 
+
+### Artikel  134c  
+Treedt in werking per 01-01-2016 
+
+Artikel 51 van de richtlijn solvabiliteit II en titel I, hoofdstuk XII, van de verordening solvabiliteit II inzake door verzekeraars openbaar te maken informatie zijn van overeenkomstige toepassing op de solvabiliteit en financiële positie van de in Nederland gelegen bijkantoren van: 
+
+a. levensverzekeraars en schadeverzekeraars, niet zijnde verzekeraars met beperkte risico-omvang, met zetel in een staat die geen lidstaat is;  
+
+b. herverzekeraars met zetel in een niet-aangewezen staat.   
+
+### Artikel  134d  
+Treedt in werking per 01-01-2016 
+
+Verzekeraars met zetel in Nederland, niet zijnde verzekeraars met beperkte risico-omvang, alsmede verzekeraars als bedoeld in artikel 134c, onderdelen a en b, behoeven tot en met 31 december 2020 de informatie, bedoeld in artikel 51, tweede lid, derde alinea, van de richtlijn solvabiliteit II niet apart openbaar te maken. 
+
+### Artikel  134e  
+Treedt in werking per 01-01-2016 
+
+Een verzekeraar als bedoeld in artikel 3:73c, 3:82a of 3:86a met beperkte risico-omvang maakt jaarlijks binnen een termijn van zes maanden de jaarrekening, het bestuursverslag en de overige gegevens openbaar en vermeldt daarbij in de toelichting op de jaarrekening: 
+
+a. de in overeenstemming met de wet en dit besluit opgestelde balans en de daarbij gehanteerde grondslagen en methoden voor de waardering van activa, technische voorzieningen en andere verplichtingen, met een toelichting op de belangrijkste verschillen met de grondslagen en methoden die in de jaarrekening voor de waardering ervan zijn gehanteerd;  
+
+b. het bedrag en de samenstelling van het aanwezige solvabiliteitskapitaal;  
+
+c. het bedrag van het solvabiliteitskapitaalvereiste en van het minimumkapitaalvereiste;  
+
+d. indien artikel 19, derde lid, op de verzekeraar van toepassing is: het bedrag van de technische voorzieningen indien deze worden berekend op basis van afkoop van alle verzekeringen;  
+
+e. indien van toepassing: informatie over de winstdeling ten gunste van polishouders per productgroep;  
+
+f. indien de verzekeraar niet voldoet aan het minimumkapitaalvereiste of significant niet voldoet aan het solvabiliteitskapitaalvereiste: het bedrag van het tekort alsmede een toelichting op de oorzaak en gevolgen ervan en de genomen corrigerende maatregelen;  
+
+g. indien de verzekeraar ondernemingspecifieke parameters gebruikt voor de berekening van zijn solvabiliteitskapitaalvereiste: de belangrijkste verschillen tussen die parameters en de aannames die ten grondslag liggen aan de standaardformule;  
+
+h. indien aan de verzekeraar door de Nederlandsche Bank specifieke parameters ter berekening van verzekeringstechnische risicomodules zijn opgelegd: het effect daarvan, alsmede de gronden van het daartoe strekkende besluit van de Nederlandsche Bank.   
+
 ### §  13.3  
 
 ####Verstrekking van de opgave van gesloten verzekeringen

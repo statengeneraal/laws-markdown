@@ -48,6 +48,22 @@ f. een opgave van de aard en omvang van de over te dragen beleggingen ter dekkin
 
 g. ingeval van winstdeling, een beschrijving van de winstdefinitie.   
 
+### Hoofdstuk  2a  
+
+####Kapitaalopslag
+
+Treedt in werking per 01-01-2016 
+
+#### Bepalingen ter uitvoering van artikel 3:132, derde lid, van de wet 
+
+Treedt in werking per 01-01-2016 
+
+### Artikel  2a  
+Treedt in werking per 01-01-2016 
+
+1.  De Nederlandsche Bank beoordeelt of sprake is van uitzonderlijke omstandigheden als bedoeld in artikel 3:132, eerste lid, van de wet aan de hand van artikel 37, eerste lid, van de richtlijn solvabiliteit II, met inachtneming van titel I, hoofdstuk X, afdeling 1, van de verordening solvabiliteit II, bedoeld in artikel 1 van het Besluit prudentiële regels Wft, en bepaalt de hoogte van de op te leggen kapitaalopslag aan de hand van artikel 37, tweede lid, van de richtlijn solvabiliteit II, met inachtneming van titel I, hoofdstuk X, afdeling 2, van de verordening solvabiliteit II.   
+2.  Een verzekeraar waaraan de Nederlandsche Bank een kapitaalopslag heeft opgelegd op een van de gronden, bedoeld in artikel 37, eerste lid, onderdelen b en c, van de richtlijn solvabiliteit II, stelt al het nodige in het werk om de tekortkomingen die geleid hebben tot het opleggen van een kapitaalopslag te verhelpen.  
+
 ### Hoofdstuk  3  
 
 ####Herstelplan
@@ -70,6 +86,15 @@ d. een raming van de financiële middelen ter dekking van de verplichtingen en v
 e. het algemene herverzekeringsbeleid.     
 3.  De Nederlandsche Bank kan aanvullende gegevens verlangen, indien dit nodig is voor een goede beoordeling van het herstelplan.  
 
+### Artikel  3a  
+Treedt in werking per 01-01-2016 
+
+Artikel 142, eerste lid, van de richtlijn solvabiliteit II en de door de Europese Commissie op grond van artikel 143, tweede lid, tweede alinea, van de richtlijn solvabiliteit II vastgestelde uitvoeringsmaatregelen met betrekking tot het herstelplan zijn van overeenkomstige toepassing op de volgende verzekeraars, voor zover zij hun bedrijf uitoefenen vanuit een in Nederland gelegen bijkantoor: 
+
+a. levensverzekeraars en schadeverzekeraars met zetel in een staat die geen lidstaat is;  
+
+b. herverzekeraars en verzekeraars met beperkte risico-omvang met zetel in een niet-aangewezen staat.   
+
 ### Hoofdstuk  4  
 
 ####Saneringsplan en financieringsplan
@@ -80,6 +105,15 @@ e. het algemene herverzekeringsbeleid.
 
 1.  Een saneringsplan als bedoeld in artikel 3:136, eerste lid, van de wet vermeldt op welke wijze en binnen welke termijn de solvabiliteitsmarge weer op de vereiste omvang zal worden gebracht. Indien ingevolge artikel 3:132, eerste lid, van de wet een herstelplan is vastgesteld waaraan instemming is verleend, vermeldt het saneringsplan tevens hoe het herstelplan daarin wordt verwerkt.   
 2.  Een financieringsplan als bedoeld in artikel 3:136, tweede lid, van de wet vermeldt op welke wijze en binnen welke termijn de solvabiliteitsmarge weer op de vereiste omvang zal worden gebracht. Indien ingevolge artikel 3:136, eerste lid, van de wet een saneringsplan is vastgesteld waaraan instemming is verleend, vermeldt het financieringsplan tevens hoe het saneringsplan daarin wordt verwerkt.  
+
+### Artikel  4a  
+Treedt in werking per 01-01-2016 
+
+Artikel 142, eerste lid, van de richtlijn solvabiliteit II en de door de Europese Commissie op grond van artikel 143, tweede lid, tweede alinea, van die richtlijn vastgestelde uitvoeringsmaatregelen met betrekking tot het financieel kortetermijnplan zijn van overeenkomstige toepassing op de volgende verzekeraars, voor zover zij hun bedrijf uitoefenen vanuit een in Nederland gelegen bijkantoor: 
+
+a. levensverzekeraars en schadeverzekeraars met zetel in een staat die geen lidstaat is;  
+
+b. herverzekeraars en verzekeraars met beperkte risico-omvang met zetel in een niet-aangewezen staat.   
 
 ### Hoofdstuk  5  
 
