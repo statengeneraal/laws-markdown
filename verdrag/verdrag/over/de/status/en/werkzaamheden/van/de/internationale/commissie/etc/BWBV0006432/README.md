@@ -4,15 +4,11 @@
 
 ####Agreement on the status and functions of the International Commission on Missing Persons
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 The Parties to this Agreement, Concerned that in the world today large numbers of persons go missing every year as a result of armed conflicts, human rights abuses, natural and man-made disasters and other involuntary reasons; Noting that the problem of missing persons does not respect borders and that the issue of the missing is increasingly viewed as a global concern, which warrants a structured and sustainable international response; Understanding that in the last two decades there have been important advancements in addressing the issue, including law-based efforts to locate missing persons and the use of modern forensic methods to accurately account for them; Aware of the cost to societies and families resulting from a failure to locate the missing, including the anguish suffered as a consequence of not knowing a loved-one’s whereabouts or the circumstances of their disappearance; Noting that predominantly men go missing, particularly as a result of armed conflicts and human rights abuses, and that those left behind, women and children, are especially vulnerable; Acknowledging the efforts of governmental and nongovernmental organizations to address the issue of the missing around the world; Affirming that States should take all practicable steps to locate the missing, as part of their commitments under international law, in particular human rights instruments and Articles 32-34 of Additional Protocol I to the Geneva Conventions; Noting the extensive experience on issues of the missing that has been gained through the International Commission on Missing Persons, and expressing their commitment to improve on legal frameworks underpinning efforts to locate the missing; Recalling that the International Commission was established at the initiative of US President Bill Clinton in 1996 at the G-7 Summit in Lyon, France, initially to secure the cooperation of governments to locate persons missing from the conflicts in the former Yugoslavia; Further recalling that since 2004, the International Commission on Missing Persons has been a globally active organisation, assisting public authorities in locating and identifying missing persons, whether as a consequence of armed conflicts, human rights abuses, natural and man-made disasters and other involuntary reasons, and contributing to justice and the advancement of the rule of law, thus redressing omissions in humanitarian law; Welcoming the initiatives taken at the International Conference “The Missing: An Agenda for the Future,” The Hague, 2013, including the establishment of a Global Forum on Missing Persons; Recognising the successful work of, and wishing to establish a clear legal status for, the International Commission on Missing Persons as an international organisation in order to better enable it to carry out its functions internationally;   Have agreed as follows:    
 
 ### Article  I  
 
 ####Establishment and Status
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  The International Commission on Missing Persons is hereby established as an international organisation, hereinafter referred to as “the Commission”.   
 2.  The Commission shall possess full international legal personality and enjoy such capacities as may be necessary for the exercise of its functions and the fulfilment of its purposes.   
@@ -22,15 +18,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Purposes and Functions
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 The Commission endeavours to secure the co-operation of governments and other authorities in locating persons missing as a result of armed conflicts, human rights abuses, natural and man-made disasters and other involuntary reasons and to assist them in doing so. The Commission also supports the work of other organisations in their efforts, encourages public involvement in its activities and contributes to the development of appropriate expressions of commemoration and tribute to the missing. 
 
 ### Article  III  
 
 ####Board of Commissioners and Director General
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  The Commission shall be composed of a Board of Commissioners, a Director General and Staff. The Commissioners shall be appointed from among eminent persons. The current members of the Board of Commissioners are listed in the Annex to this Agreement.   
 2.  The Board of Commissioners shall have the right to adopt Regulations regarding *inter alia* the appointment of Commissioners and their terms, the terms of appointment of the Director General and other staff of the Commission. The Board of Commissioners shall adopt a programme of work that may be amended from time to time. The programme of work shall normally not exceed five years and shall include the Commission’s requirements for completing such work.   
@@ -41,8 +33,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Article  IV  
 
 ####Conference of States Parties
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  The Conference shall represent the States Parties to this Agreement.   
 2.  The Government of each State Party shall appoint a representative to act as a member of the Conference.   
@@ -67,8 +57,6 @@ d. adopt the Conference’s rules of procedure.
 
 ####Financial Committee
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  The Committee shall represent States Parties that have supported the Commission financially during a reporting period.   
 2.  The Government of each State Party referred to in paragraph 1 of this Article shall appoint a representative to act as a member of the Committee.   
 3.  The Committee shall elect a Chairperson and a Vice Chairperson.   
@@ -90,8 +78,6 @@ d. adopt the Committee’s rules of procedure.
 
 ####Powers
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 In furtherance of the foregoing purposes and activities, the Commission shall have the following powers: 
 
 a. to acquire and dispose of real and personal property;  
@@ -108,8 +94,6 @@ e. to take other lawful action necessary to accomplish the purposes of the Commi
 
 ####Headquarters and International Agreements
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  The Commission shall establish a Headquarters in The Hague, the Netherlands. It shall conclude with the Host State a Headquarters Agreement according the Commissioners, staff, premises, archives and property the privileges and immunities that are necessary for the effective exercise of its functions and the fulfilment of its purposes.   
 2.  The Commission shall seek agreements with the governments of States where its activities are to take place. These agreements should include provisions that accord its Commissioners, staff, premises, archives and property the privileges and immunities that are necessary for the effective exercise of its functions and the fulfilment of its purposes.   
 3.  The Headquarters Agreement referred to in paragraph 1 of this Article shall constitute the point of reference for the Commission for the conclusion of the international agreements referred to in paragraph 2 of this Article.  
@@ -118,15 +102,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Financing
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 The financial requirements of the Commission, including its programme of work, shall be met through voluntary contributions, grants, donations and similar forms of income. No State Party to this Agreement or any other State or international organisation shall be required under this Agreement to make assessed or other contributions to finance the work of the Commission. 
 
 ### Article  IX  
 
 ####Concluding Provisions
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  This Agreement shall be open for signature by all States at Brussels on 15 December 2014 and at The Hague from 16 December 2014 to 16 December 2015. A State which has signed this Agreement may declare that it shall apply this Agreement provisionally pending its entry into force.   
 2.  This Agreement is subject to ratification, acceptance or approval by signatory States. Instruments of ratification, acceptance or approval shall be deposited with the Government of the Netherlands.   
@@ -148,15 +128,11 @@ IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed t
 
 ####Verdrag over de status en werkzaamheden van de Internationale Commissie voor Vermiste Personen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De partijen bij dit Verdrag, Bezorgd over het feit dat er in de wereld momenteel jaarlijks grote aantallen personen vermist raken als gevolg van gewapende conflicten, mensenrechtenschendingen, natuurrampen en door de mens veroorzaakte rampen en andere oorzaken: Vaststellend dat het probleem van vermiste personen landsgrenzen overschrijdt en dat de kwestie van vermiste personen in toenemende mate als een mondiaal probleem wordt gezien dat een structureel en duurzaam internationaal antwoord rechtvaardigt; In het besef dat er in de afgelopen twee decennia belangrijke vorderingen zijn geboekt bij het aanpakken van de kwestie, waaronder wettelijk onderbouwde inspanningen om vermiste personen op te sporen en het gebruik van moderne forensische methoden om nauwkeurig vast te stellen wat hen overkomen is; Zich bewust van de gevolgen voor samenlevingen en families wanneer de vermisten niet worden opgespoord, waaronder het leed dat wordt veroorzaakt wanneer onbekend is waar geliefden zich bevinden of onder welke omstandigheden zij verdwenen zijn; Vaststellend dat voornamelijk mannen vermist raken, met name als gevolg van gewapende conflicten en mensenrechtenschendingen, en dat degenen die achterblijven, vrouwen en kinderen, bijzonder kwetsbaar zijn; Erkennend de inspanningen van gouvernementele en niet-gouvernementele organisaties om de kwestie van vermiste personen wereldwijd aan te pakken; Bevestigend dat staten alle praktische stappen dienen te ondernemen om vermiste personen op te sporen, in het kader van hun verplichtingen uit hoofde van het internationale recht, in het bijzonder mensenrechteninstrumenten en de artikelen 32-34 van het Aanvullend Protocol I bij de Verdragen van Genève; Gelet op de uitgebreide ervaring met kwesties rond vermiste personen die dankzij de Internationale Commissie voor Vermiste Personen is opgedaan en onder de toezegging de wettelijke kaders die het fundament vormen van de inspanningen om vermiste personen op te sporen te verbeteren; Eraan herinnerend dat de Internationale Commissie op initiatief van de Amerikaanse president Clinton is opgericht tijdens de G7-top in 1996 in het Franse Lyon, aanvankelijk om de samenwerking tussen regeringen te waarborgen bij het opsporen van personen die tijdens het conflict in voormalig Joegoslavië vermist waren geraakt; Voorts eraan herinnerend dat de Internationale Commissie voor Vermiste Personen sinds 2004 een mondiaal actieve organisatie is die de publieke autoriteiten bijstaat bij het opsporen en identificeren van vermiste personen, hetzij als gevolg van gewapende conflicten, mensenrechtenschendingen, natuurrampen en door de mens veroorzaakte rampen en andere oorzaken, en bijdraagt aan gerechtigheid en het bevorderen van de rechtsstaat, en op deze wijze omissies in het humanitaire recht herstelt; De initiatieven verwelkomend die genomen werden tijdens de Internationale conferentie „The Missing: An Agenda for the Future,” Den Haag, 2013, met inbegrip van de instelling van een Mondiaal Forum voor vermiste personen; Erkennend het succesvolle werk van de Internationale Commissie voor Vermiste Personen, en de wens uitsprekend de Commissie een duidelijke juridische status als internationale organisatie te verlenen, teneinde haar in staat te stellen haar werkzaamheden op internationaal niveau uit te voeren;   Zijn het volgende overeengekomen:    
 
 ### Artikel  I  
 
 ####Oprichting en status
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De Internationale Commissie voor Vermiste Personen wordt hierbij opgericht als een internationale organisatie, hierna te noemen „de Commissie”.   
 2.  De Commissie bezit volledige internationale rechtspersoonlijkheid en beschikt over de bevoegdheden die nodig zijn voor het uitoefenen van haar werkzaamheden en het verwezenlijken van haar doelstellingen.   
@@ -166,15 +142,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Doelstellingen en werkzaamheden
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De Commissie streeft ernaar de samenwerking te waarborgen tussen regeringen en andere autoriteiten bij het opsporen van personen die vermist zijn geraakt als gevolg van gewapende conflicten, mensenrechtenschendingen, natuurrampen en door de mens veroorzaakte rampen en andere oorzaken en hen daarbij bij te staan. De Commissie ondersteunt ook het werk van andere organisaties bij hun inspanningen, moedigt het betrekken van het publiek aan bij haar activiteiten en draagt bij aan het ontwikkelen van passende wijzen van herdenking van en eerbetoon aan de vermisten. 
 
 ### Artikel  III  
 
 ####Raad van Commissarissen en directeur-generaal
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De Commissie bestaat uit een Raad van Commissarissen, een directeur-generaal en personeel. De commissarissen worden benoemd uit eminente personen. De huidige leden van de Raad van Commissarissen staan vermeld in de Bijlage bij dit Verdrag.   
 2.  De Raad van Commissarissen heeft het recht voorschriften aan te nemen die onder meer betrekking hebben op de benoeming van commissarissen en hun zittingstermijn, de voorwaarden voor de benoeming van de directeur-generaal en overig personeel van de Commissie. De Raad van Commissarissen neemt een werkprogramma aan dat van tijd tot tijd gewijzigd kan worden. Het werkprogramma beslaat normaliter ten hoogste vijf jaar en omvat de vereisten van de Commissie voor het afronden van dit werk.   
@@ -185,8 +157,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  IV  
 
 ####Conferentie van de staten die partij zijn
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De Conferentie vertegenwoordigt de staten die partij zijn bij dit Verdrag.   
 2.  De regering van elke staat die partij is benoemt een vertegenwoordiger die als lid van de Conferentie optreedt.   
@@ -211,8 +181,6 @@ d. neemt het reglement van orde van de Conferentie aan.
 
 ####Financieel comité
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Het Comité vertegenwoordigt de staten die partij zijn die het Comité gedurende een verslagperiode financieel hebben ondersteund.   
 2.  De regering van elke in het eerste lid van dit artikel bedoelde staat die partij is, benoemt een vertegenwoordiger die als lid van het Comité optreedt.   
 3.  Het Comité kiest een voorzitter en een vicevoorzitter.   
@@ -234,8 +202,6 @@ d. neemt het reglement van orde van het Comité aan.
 
 ####Bevoegdheden
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Ter bevordering van de bovenstaande doeleinden en activiteiten beschikt de Commissie over de volgende bevoegdheden: 
 
 a. het verwerven en vervreemden van onroerende en roerende zaken;  
@@ -252,8 +218,6 @@ e. het ondernemen van andere rechtmatige stappen om de doelstellingen van de Com
 
 ####Zetel en internationale verdragen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De Commissie vestigt haar zetel in ’s-Gravenhage, Nederland. Zij sluit met het gastland een zetelverdrag waarin de commissarissen, het personeel, het terrein, de archieven en eigendommen de voorrechten en immuniteiten worden toegekend die nodig zijn voor de effectieve uitoefening van haar werkzaamheden en het verwezenlijken van haar doelstellingen.   
 2.  De Commissie streeft ernaar verdragen te sluiten met de regeringen van staten waar zij haar werk wil uitvoeren. Deze verdragen dienen bepalingen te bevatten waarin haar commissarissen, personeel, terrein, archieven en eigendommen de voorrechten en immuniteiten worden toegekend die nodig zijn voor de effectieve uitoefening van haar werkzaamheden en het verwezenlijken van haar doelstellingen.   
 3.  Het in het eerste lid van dit artikel bedoelde zetelverdrag vormt voor de Commissie het referentiepunt voor het sluiten van de internationale verdragen bedoeld in het tweede lid van dit artikel.  
@@ -262,15 +226,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Financiering
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 In de financiële behoeften van de Commissie, met inbegrip van haar werkprogramma, wordt voorzien door vrijwillige bijdragen, subsidies, donaties en soortgelijke vormen van inkomsten. Van de staten die partij zijn of andere staten of organisaties wordt niet verlangd dat zij ingevolge dit Verdrag vastgestelde of andere bijdragen leveren ter financiering van het werk van de Commissie. 
 
 ### Artikel  IX  
 
 ####Slotbepalingen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Dit Verdrag staat op 15 december 2014 in Brussel open voor ondertekening door alle staten en daarna van 16 december 2014 tot en met 16 december 2015 in Den Haag. Een staat die dit Verdrag heeft ondertekend kan verklaren dit Verdrag voorlopig toe te passen in afwachting van de inwerkingtreding ervan.   
 2.  Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door de ondertekenende staten. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de regering van Nederland.   

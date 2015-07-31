@@ -22,7 +22,7 @@ De Commandant en controleurs van het Korps militaire controleurs gevaarlijke sto
 
 ### Artikel  4  
 
-Het [besluit van de Minister van Defensie van 18 augustus 2006, nr. DMO/DB/2006023514 (Stcrt. 2006, 174) en het daarmee vastgestelde ‘Voorschrift opslag en behandeling gevaarlijke stoffen Defensie’](../../../../../../../../../../../ministeriele-regeling/besluit/voorschrift/opslag/en/behandeling/gevaarlijke/stoffen/defensie/en/etc/BWBR0020198/README.md) wordt ingetrokken. 
+Het besluit van de Minister van Defensie van 18 augustus 2006, nr. DMO/DB/2006023514 (Stcrt. 2006, 174) en het daarmee vastgestelde ‘Voorschrift opslag en behandeling gevaarlijke stoffen Defensie’ wordt ingetrokken. 
 
 ### Artikel  5  
 
