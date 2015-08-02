@@ -1151,7 +1151,7 @@ b. na instemming van de toezichthoudende instantie van de andere lidstaat zelf b
 5.  Het derde lid is van overeenkomstige toepassing ten aanzien beheerders van beleggingsinstellingen en beleggingsinstellingen. 
 
 ### Artikel  1:55a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 De Nederlandsche Bank kan de inlichtingen, bedoeld in artikel 1:74, eerste lid, zelf dan wel door middel van de personen, bedoeld in artikel 1:72, eerste lid, ter plaatse verifiëren bij: 
 
@@ -1266,10 +1266,10 @@ c. in het geval de toezichthoudende instantie, bedoeld in onderdeel a, geen maat
 2.  Artikel 1:58, tweede en vierde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  1:58e  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
-1.  Indien de Nederlandsche Bank groepstoezichthouder is, kan zij jegens een verzekeringsholding met zetel in Nederland die deel uitmaakt van een verzekeringsrichtlijngroep artikel 1:75 toepassen indien die holding of een van de verzekeraars die deel uitmaken van die groep in strijd handelt met het bepaalde in hoofdstuk 3.6. Artikel 1:75 is eveneens van toepassing indien aan bedoelde bepalingen weliswaar wordt voldaan maar de solvabiliteit toch in gevaar zou kunnen worden gebracht dan wel de intragroepsovereenkomsten en -posities of de risicoconcentraties de financiële positie van de verzekeraars in die groep bedreigen.   
-2.  Indien de Nederlandsche Bank geen groepstoezichthouder is, kan zij op verzoek van de groepstoezichthouder jegens een verzekeringsholding met zetel in Nederland die deel uitmaakt van een verzekeringsrichtlijngroep de artikelen 1:75, 1:79 tot en met 1:81, 1:85 en het bepaalde in hoofdstuk 3.6. overeenkomstig toepassen indien een van de verzekeraars die deel uitmaken van die groep in strijd handelt met voorschriften van andere lidstaten die strekken tot uitvoering van het bepaalde in hoofdstuk II van de richtlijn solvabiliteit II. Artikel 1:75 is eveneens van overeenkomstige toepassing indien aan bedoelde bepalingen weliswaar wordt voldaan maar de solvabiliteit toch in gevaar zou kunnen worden gebracht dan wel de intragroepsovereenkomsten en -posities of de risicoconcentraties de financiële positie van de verzekeraars in die groep bedreigen.  
+1.  Indien de Nederlandsche Bank groepstoezichthouder is, kan zij jegens een gemengde financiële holding of verzekeringsholding met zetel in Nederland die deel uitmaakt van een verzekeringsrichtlijngroep artikel 1:75 toepassen indien die holding of een van de verzekeraars die deel uitmaken van die groep in strijd handelt met het bepaalde in hoofdstuk 3.6. Artikel 1:75 is eveneens van toepassing indien aan bedoelde bepalingen weliswaar wordt voldaan maar de solvabiliteit toch in gevaar zou kunnen worden gebracht dan wel de intragroepsovereenkomsten en -posities of de risicoconcentraties de financiële positie van de verzekeraars in die groep bedreigen.   
+2.  Indien de Nederlandsche Bank geen groepstoezichthouder is, kan zij op verzoek van de groepstoezichthouder jegens een gemengde financiële holding of verzekeringsholding met zetel in Nederland die deel uitmaakt van een verzekeringsrichtlijngroep de artikelen 1:75, 1:79 tot en met 1:81, 1:85 en het bepaalde in hoofdstuk 3.6. overeenkomstig toepassen indien een van de verzekeraars die deel uitmaken van die groep in strijd handelt met voorschriften van andere lidstaten die strekken tot uitvoering van het bepaalde in hoofdstuk II van de richtlijn solvabiliteit II. Artikel 1:75 is eveneens van overeenkomstige toepassing indien aan bedoelde bepalingen weliswaar wordt voldaan maar de solvabiliteit toch in gevaar zou kunnen worden gebracht dan wel de intragroepsovereenkomsten en -posities of de risicoconcentraties de financiële positie van de verzekeraars in die groep bedreigen.  
 
 ### Artikel  1:59  
 
@@ -5623,7 +5623,7 @@ Artikel 3:53, tweede lid, is van overeenkomstige toepassing op natura-uitvaartve
 7.  De Nederlandsche Bank kan op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, aan een afwikkelonderneming, clearinginstelling of premiepensioeninstelling als bedoeld in het eerste lid ontheffing verlenen van ingevolge het eerste, tweede of zesde lid bepaalde, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die dit artikel beoogt te bereiken anderszins worden bereikt. 
 
 ### Artikel  3:57a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 Indien een verzekeraar met zetel in Nederland constateert dat zijn financiële positie verslechtert, geeft hij hiervan onverwijld kennis aan de Nederlandsche Bank. 
 
@@ -5829,7 +5829,7 @@ b. de lokalisatie van de waarden, bedoeld in het eerste en derde lid, en de munt
 ####Financiële ondernemingen met zetel in Nederland
 
 ### Artikel  3:69a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 1.  Een verzekeraar, niet zijnde een verzekeraar met beperkte risico-omvang, met zetel in Nederland waardeert, tenzij anders vermeld, activa en passiva als volgt: 
 
@@ -5945,7 +5945,7 @@ Artikel 3:75 is van overeenkomstige toepassing op banken, levensverzekeraars en 
 2.  De artikelen 3:72, derde lid en vijfde tot en met negende lid, en 3:73 zijn van overeenkomstige toepassing op bijkantoren in Nederland van levensverzekeraars of schadeverzekeraars met zetel in een staat die geen lidstaat is, met dien verstande dat de staten zijn voorzien van een verklaring omtrent de getrouwheid, dan wel een met de verklaring omtrent de getrouwheid overeenkomende verklaring, afgegeven door een accountant, dan wel door een deskundige die ingevolge het recht van de staat waar de levensverzekeraar of schadeverzekeraar zijn zetel heeft, bevoegd is de staten te onderzoeken. Artikel 3:72, vierde lid, is van overeenkomstige toepassing op in Nederland gelegen bijkantoren van levensverzekeraars met zetel in een staat die geen lidstaat is.  
 
 ### Artikel  3:82a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 Artikel 3:73c is van overeenkomstige toepassing op in Nederland gelegen bijkantoren van levensverzekeraars en schadeverzekeraars, niet zijnde verzekeraars met beperkte risico-omvang, met zetel in een staat die geen lidstaat is. 
 
@@ -5978,7 +5978,7 @@ De artikelen 3:75 en 3:81 zijn van overeenkomstige toepassing op clearinginstell
 2.  De artikelen 3:72, derde tot en met negende lid, en 3:73, zijn van overeenkomstige toepassing op in Nederland gelegen bijkantoren van herverzekeraars en natura-uitvaartverzekeraars met zetel in een niet-aangewezen staat, met dien verstande dat de staten zijn voorzien van een verklaring omtrent de getrouwheid, dan wel een met de verklaring omtrent de getrouwheid overeenkomende verklaring, afgegeven door een accountant, dan wel door een deskundige die ingevolge het recht van de staat waar de natura-uitvaartverzekeraar zijn zetel heeft, bevoegd is de staten te onderzoeken.  
 
 ### Artikel  3:86a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 Artikel 3:73c is van overeenkomstige toepassing op in Nederland gelegen bijkantoren van herverzekeraars en verzekeraars met beperkte risico-omvang met zetel in een niet-aangewezen staat. 
 
@@ -8173,10 +8173,10 @@ Jegens de bank of verzekeraar of een tot dezelfde groep behorende onderneming ka
 
 ####Beleggingsbeleid van entiteiten voor risico-acceptatie en verzekeraars
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 ### Artikel  3:267h  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 1.  Een entiteit voor risico-acceptatie of verzekeraar voert een beleggingsbeleid dat in overeenstemming is met de prudent-person regel.   
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het in het eerste lid bepaalde.  
