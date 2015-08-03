@@ -97,14 +97,14 @@ a. indien het betreft een scheepvaartweg in beheer bij
 4°. een openbaar lichaam als bedoeld in artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen: het dagelijks bestuur.     
 
 b. indien het betreft een scheepvaartweg die niet in beheer is bij enig openbaar lichaam: burgemeester en wethouders van de gemeente waarin de scheepvaartweg is gelegen.      
-2.   In afwijking van het eerste lid, onderdeel *a*, 1°, zijn burgemeester en wethouders van een gemeente het bevoegd gezag met betrekking tot het gedeelte van de Nederlandse territoriale zee dat binnen het gebied van de gemeente is gelegen. Het in de vorige volzin bepaalde lijdt uitzondering indien dit gedeelte van de Nederlandse territoriale zee of een deel daarvan  
+2.   In afwijking van het eerste lid, onderdeel a, 1°, zijn burgemeester en wethouders van een gemeente het bevoegd gezag met betrekking tot het gedeelte van de Nederlandse territoriale zee dat binnen het gebied van de gemeente is gelegen. Het in de vorige volzin bepaalde lijdt uitzondering indien dit gedeelte van de Nederlandse territoriale zee of een deel daarvan  
 
 a. van belang is voor het doorgaande scheepvaartverkeer dan wel het scheepvaartverkeer van of naar een Nederlandse haven of ander Nederlands binnenwater en als zodanig door Onze Minister is aangewezen bij een in de Staatscourant bekend te maken besluit, of   
 
 b. door Onze Minister van Defensie als militair oefengebied is aangewezen bij een in de Staatscourant bekend te maken besluit.      
 3.   Ten aanzien van een scheepvaartweg in beheer bij een waterschap bepalen provinciale staten wie het bevoegd gezag is. Zij wijzen als zodanig aan het dagelijks bestuur van het waterschap voor zover dit verenigbaar is met de in het reglement aan het waterschap ter behartiging opgedragen taken, en in andere gevallen burgemeester en wethouders van de gemeente waarin de scheepvaartweg is gelegen of gedeputeerde staten.    
-4.   In afwijking van het eerste lid, onderdeel *a*, 3°, en onderdeel *b*, en van het derde lid kunnen provinciale staten ten aanzien van een scheepvaartweg als bedoeld in die bepalingen in het belang van de eenheid van de ordening van het doorgaande scheepvaartverkeer op die scheepvaartweg gedeputeerde staten als bevoegd gezag aanwijzen.    
-5.   Onze Minister kan voor een scheepvaartweg in beheer bij het Rijk een van de in het eerste lid, onderdeel *a*, genoemde organen van een openbaar lichaam als bevoegd gezag aanwijzen. Aan een dergelijke aanwijzing kunnen voorschriften worden verbonden.   
+4.   In afwijking van het eerste lid, onderdeel a, 3°, en onderdeel b, en van het derde lid kunnen provinciale staten ten aanzien van een scheepvaartweg als bedoeld in die bepalingen in het belang van de eenheid van de ordening van het doorgaande scheepvaartverkeer op die scheepvaartweg gedeputeerde staten als bevoegd gezag aanwijzen.    
+5.   Onze Minister kan voor een scheepvaartweg in beheer bij het Rijk een van de in het eerste lid, onderdeel a, genoemde organen van een openbaar lichaam als bevoegd gezag aanwijzen. Aan een dergelijke aanwijzing kunnen voorschriften worden verbonden.   
 
 ### Hoofdstuk  2  
 

@@ -17,8 +17,6 @@ Hebben goedgevonden en verstaan:
 
 ####(begripsbepalingen)
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 In dit besluit wordt verstaan onder: 
 
 *ammoniakemissie:* emissie van ammoniak, uitgedrukt in kg NH<sub>3</sub> per jaar;  
@@ -61,8 +59,6 @@ In dit besluit wordt verstaan onder:
 
 ####(reikwijdte)
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Dit besluit is van toepassing op huisvestingssystemen voor landbouwhuisdieren die behoren tot een diercategorie die is vermeld in bijlage 1 of bijlage 2, en worden gehouden voor de productie van vlees, melk of eieren.   
 2.  Dit besluit is niet van toepassing op: 
 
@@ -87,8 +83,6 @@ d. huisvestingssystemen voor landbouwhuisdieren van de hoofdcategorie varkens, w
 
 ####(ammoniak diercategorie melk- en kalfkoeien)
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Degene die een inrichting drijft waarin landbouwhuisdieren worden gehouden, past in een dierenverblijf voor de diercategorie melk- en kalfkoeien ouder dan 2 jaar geen huisvestingssystemen toe met een emissiefactor voor ammoniak die hoger is dan de maximale emissiewaarde voor ammoniak die is vermeld in bijlage 1, waarbij de maximale emissiewaarde in: 
 
 a. kolom A geldt voor een dierenverblijf dat is opgericht op uiterlijk 30 juni 2015, met uitzondering van een huisvestingssysteem dat deel uitmaakt van: 
@@ -111,15 +105,11 @@ c. kolom C geldt voor een dierenverblijf dat is opgericht op of na 1 januari 20
 
 ####(ammoniak diercategorie vleeskalveren)
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Degene die een inrichting drijft waarin landbouwhuisdieren worden gehouden, past in een dierenverblijf voor de diercategorie vleeskalveren tot de leeftijd van circa 8 maanden dat wordt opgericht op of na 1 januari 2020 geen huisvestingssystemen toe met een emissiefactor voor ammoniak die hoger is dan de maximale emissiewaarde voor ammoniak die is vermeld in bijlage 1, kolom C. 
 
 ### Artikel  5  
 
 ####(ammoniak hoofdcategorie varkens, kippen en kalkoenen)
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Degene die een inrichting drijft waarin landbouwhuisdieren worden gehouden, past in een dierenverblijf voor de hoofdcategorie varkens, de hoofdcategorie kippen en de hoofdcategorie kalkoenen geen huisvestingssystemen toe met een emissiefactor voor ammoniak die hoger is dan de maximale emissiewaarde voor ammoniak die voor een tot die hoofdcategorieën behorende diercategorie is vermeld in bijlage 1, waarbij de maximale emissiewaarde in: 
 
@@ -136,16 +126,12 @@ c. kolom C geldt voor een dierenverblijf dat is opgericht op of na 1 januari 20
 
 ####(ammoniak algemeen)
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Bij de toepassing van de artikelen 3, 4 en 5 worden de emissiefactoren voor ammoniak gehanteerd, zoals bedoeld in artikel 2, eerste lid, van de Regeling ammoniak en veehouderij.   
 2.  Indien naar het oordeel van het bevoegd gezag in redelijkheid niet aan de maximale emissiewaarde kan worden voldaan, kan dat gezag in afwijking van de artikelen 3 en 5 bepalen dat bij het uitbreiden van een emissiearm dierenverblijf in plaats van de maximale emissiewaarde uit kolom B of kolom C de maximale emissiewaarde uit kolom A respectievelijk kolom B van toepassing is. Dit kan uitsluitend indien bij die uitbreiding hetzelfde huisvestingssysteem wordt toegepast en de uitbreiding niet meer dan 50% van het bebouwde oppervlak bedraagt.  
 
 ### Artikel  7  
 
 ####(zwevende deeltjes)
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Degene die een inrichting drijft waarin landbouwhuisdieren worden gehouden, past in een dierenverblijf dat is opgericht op of na 1 juli 2015 geen huisvestingssystemen toe met een emissiefactor voor zwevende deeltjes (PM<sub>10</sub>) die hoger is dan de maximale emissiewaarde voor zwevende deeltjes (PM<sub>10</sub>) die voor de desbetreffende diercategorie is vermeld in bijlage 2.   
 2.  Het eerste lid is niet van toepassing voor een dierenverblijf dat is opgericht op of na 1 juli 2015, waarvoor op uiterlijk 30 juni 2015 een omgevingsvergunning als bedoeld in artikel 2.1, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht onherroepelijk is en dat is opgericht voor 1 oktober 2016.   
@@ -156,8 +142,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####(uitgestelde werking)
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Tot 1 januari 2020 geldt voor een huisvestingssysteem dat deel uitmaakt van een dierenverblijf dat op 1 juli 2015 aanwezig was en voldeed aan artikel 2, eerste lid, van het Besluit ammoniakemissie huisvesting veehouderij zoals dat gold op 30 juni 2015, waarvan de emissiefactor hoger is dan de maximale emissiewaarde voor ammoniak, bedoeld in artikel 5, eerste lid, die emissiefactor als maximale emissiewaarde voor ammoniak.   
 2.  Tot 1 januari 2020 geldt voor huisvestingssystemen die deel uitmaken van op 30 juni 2015 binnen de inrichting aanwezige dierenverblijven die niet voldoen aan artikel 5, tweede lid, en wel voldeden aan artikel 2, tweede lid, van het Besluit ammoniakemissie huisvesting veehouderij zoals dat gold op 30 juni 2015, artikel 2, tweede lid, van voornoemd besluit, voor zover er geen oprichting van een dierenverblijf plaatsvindt.   
 3.  Tot 1 januari 2020 geldt voor een op 30 juni 2015 aanwezig Groen-Labelstalsysteem, waarvan de emissiefactor voor ammoniak hoger is dan de maximale emissiewaarde voor ammoniak, bedoeld in artikel 5, eerste lid, die hogere emissiefactor als maximale emissiewaarde voor ammoniak, voor zover voor dat huisvestingssysteem voor 8 mei 2002 een milieuvergunning op grond van artikel 8.1 van de Wet milieubeheer of, indien geen milieuvergunning vereist was, een bouwvergunning op grond van artikel 40, eerste lid, van de Woningwet is verleend.   
@@ -167,23 +151,17 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####(intrekking)
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Het Besluit ammoniakemissie huisvesting veehouderij wordt ingetrokken. 
 
 ### Artikel  10  
 
 ####(inwerkingtreding)
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  11  
 
 ####(citeertitel)
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Dit besluit wordt aangehaald als: Besluit emissiearme huisvesting. 
 
@@ -204,8 +182,6 @@ G.A. van der Steur
 ### Bijlage 1 
 
 ####behorende bij artikel 3, eerste lid , artikel 4  en artikel 5, eerste lid  van het Besluit emissiearme huisvestingssystemen landbouwhuisdieren
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 | Diercategorie  | Maximale emissiewaarde voor ammoniak als bedoeld in artikel 3, eerste lid , artikel 4  en artikel 5, eerst lid  in kg NH<sub>3</sub> per dierplaats per jaar  | Aantal dieren als bedoeld in artikel 2, derde lid   | A  | B  | C  |
 |:---|:---|:---|:---|:---|:---|
@@ -234,8 +210,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Bijlage 2 
 
 ####behorende bij artikel 7, eerste lid  van het Besluit emissiearme huisvestingssystemen landbouwhuisdieren
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 | Diercategorie  | Maximale emissiewaarde voor zwevende deeltjes als bedoeld in artikel 7 , in gram PM<sub>10</sub> per dierplaats per jaar  | Aantal dieren, bedoeld in artikel 2, derde lid   |
 |:---|:---|:---|

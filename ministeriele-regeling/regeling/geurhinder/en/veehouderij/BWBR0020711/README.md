@@ -53,175 +53,236 @@ P.L.B.A. van Geel
 
 ### Bijlage 1 
 
-####, als bedoeld in artikel 2, zesde lid  (geuremissiefactoren)
+####, bedoeld in artikel 2, zesde lid  (geuremissiefactoren) van de Regeling geurhinder en veehouderij
 
-| Rav-nr.  | Diercategorie/soort huisvesting  | Geuremissiefactor  |
+| Rav-code  | Huisvestingssysteem per categorie  | geuremissiefactor  |
 |:---|:---|:---|
-|  *Rundvee*   |
-| A 1  | Melk- en kalfkoeien ouder dan 2 jaar  | niet vastgesteld  |
-| A 2  | Zoogkoeien ouder dan 2 jaar  | niet vastgesteld  |
-| A 3  | Vrouwelijk jongvee tot 2 jaar  | niet vastgesteld  |
-| A 4  | Vleeskalveren tot circa 8 maanden  | 35,6  |
-| --- | – chemische luchtwasser (30% reductie)  | 24,9  |
-| --- | – biologische luchtwasser (45% reductie)  | 19,6  |
-| --- | – gecombineerd luchtwassysteem BWL 2006.14.V3 (70% reductie)  | 10,7  |
-| --- | – gecombineerd luchtwassysteem BWL 2007.01.V4; BWL 2007.02.V2; BWL 2010.02.V2; BWL 2011.07.V1; BWL 2011.08.V1 (75% reductie)  | 8,9  |
-| --- | – gecombineerd luchtwassysteem BWL 2006.15.V4 (80% reductie)  | 7,1  |
-| --- | – gecombineerd luchtwassysteem BWL 2009.12.V1 (85% reductie)  | 5,3  |
-| A 5  | Vervallen  | --- |
-| A 6  | Vleesstieren en overig vleesvee van circa 8 tot 24 maanden (roodvleesproductie)  | 35,6  |
-| A 7  | Fokstieren en overig rundvee ouder dan 2 jaar  | niet vastgesteld  |
-|  *Schapen*   |
-| B 1  | Schapen ouder dan één jaar, inclusief lammeren tot 45 kilo<sup>1, 2</sup>   | 7,8  |
-|  *Geiten*   |
-| C 1  | Geiten ouder dan één jaar  | 18,8  |
-| C 2  | Opfokgeiten van 61 dagen tot en met één jaar  | 11,3  |
-| C 3  | Opfokgeiten en afmestlammeren tot en met 60 dagen  | 5,7  |
-|  *Varkens<sup>3</sup> *   |
-| D 1  | Fokzeugen, inclusief biggen tot 25 kilo  | --- |
-| D 1.1  | Biggenopfok (gespeende biggen)  | --- |
-| --- | emissiearme huisvesting (a.e. ≤ 0,3 kg per dierplaats per jaar)<sup>4</sup>   | 5,4  |
-| --- | – chemische luchtwasser (30% reductie)  | 3,8  |
-| --- | – biologische luchtwasser (45% reductie)  | 3,0  |
-| --- | – gecombineerd luchtwassysteem BWL 2006.14.V3 (70% reductie)  | 1,6  |
-| --- | – gecombineerd luchtwassysteem BWL 2007.01.V4; BWL 2007.02.V2; BWL 2010.02.V2; BWL 2011.07.V1; BWL 2011.08.V1 (75% reductie)  | 1,4  |
-| --- | – gecombineerd luchtwassysteem BWL 2006.15.V4 (80% reductie)  | 1,1  |
-| --- | – gecombineerd luchtwassysteem BWL 2009.12.V1 (85% reductie)  | 0,8  |
-| --- | overige huisvesting  | 7,8  |
-| --- | – chemische luchtwasser (30% reductie)  | 5,5  |
-| --- | – biologische luchtwasser (45% reductie)  | 4,3  |
-| --- | – gecombineerd luchtwassysteem BWL 2006.14.V3 (70% reductie)  | 2,3  |
-| --- | – gecombineerd luchtwassysteem BWL 2007.01.V4; BWL 2007.02.V2; BWL 2010.02.V2; BWL 2011.07.V1; BWL 2011.08.V1 (75% reductie)  | 2,0  |
-| --- | – gecombineerd luchtwassysteem BWL 2006.15.V4 (80% reductie)  | 1,6  |
-| --- | – gecombineerd luchtwassysteem BWL 2009.12.V1 (85% reductie)  | 1,2  |
-| D 1.2  | Kraamzeugen (inclusief biggen tot spenen)  | --- |
-| --- | emissiearme en overige huisvesting  | 27,9  |
-| --- | – chemische luchtwasser (30% reductie)  | 19,5  |
-| --- | – biologische luchtwasser (45% reductie)  | 15,3  |
-| --- | – gecombineerd luchtwassysteem BWL 2006.14.V3 (70% reductie)  | 8,4  |
-| --- | – gecombineerd luchtwassysteem BWL 2007.01.V4; BWL 2007.02.V2; BWL 2010.02.V2; BWL 2011.07.V1; BWL 2011.08.V1 (75% reductie)  | 7,0  |
-| --- | – gecombineerd luchtwassysteem BWL 2006.15.V4 (80% reductie)  | 5,6  |
-| --- | – gecombineerd luchtwassysteem BWL 2009.12.V1 (85% reductie)  | 4,2  |
-| D 1.3  | Guste en dragende zeugen  | --- |
-| --- | emissiearme en overige huisvesting  | 18,7  |
-| --- | – chemische luchtwasser (30% reductie)  | 13,1  |
-| --- | – biologische luchtwasser (45% reductie)  | 10,3  |
-| --- | – gecombineerd luchtwassysteem BWL 2006.14.V3 (70% reductie)  | 5,6  |
-| --- | – gecombineerd luchtwassysteem BWL 2007.01.V4; BWL 2007.02.V2; BWL 2010.02.V2; BWL 2011.07.V1; BWL 2011.08.V1 (75% reductie)  | 4,7  |
-| --- | – gecombineerd luchtwassysteem BWL 2006.15.V4 (80% reductie)  | 3,7  |
-| --- | – gecombineerd luchtwassysteem BWL 2009.12.V1 (85% reductie)  | 2,8  |
-| D 2  | Dekberen, 7 maanden en ouder  | --- |
-| --- | emissiearme en overige huisvesting  | 18,7  |
-| --- | – chemische luchtwasser (30% reductie)  | 16,1  |
-| --- | – biologische luchtwasser (45% reductie)  | 12,7  |
-| --- | – gecombineerd luchtwassysteem BWL 2006.14.V3 (70% reductie)  | 5,6  |
-| --- | – gecombineerd luchtwassysteem BWL 2007.01.V4; BWL 2007.02.V2; BWL 2010.02.V2; BWL 2011.07.V1; BWL 2011.08.V1 (75% reductie)  | 4,7  |
-| --- | – gecombineerd luchtwassysteem BWL 2006.15.V4 (80% reductie)  | 3,7  |
-| --- | – gecombineerd luchtwassysteem BWL 2009.12.V1 (85% reductie)  | 2,8  |
-| D 3  | Vleesvarkens, opfokberen van 25 kilo tot 7 maanden, opfokzeugen van 25 kilo tot eerste dekking<sup>5</sup>   | --- |
-| --- | emissiearme huisvesting (a.e. ≤ 1,5 kg per dierplaats per jaar)  | 17,9  |
-| --- | – chemische luchtwasser (30% reductie)  | 12,5  |
-| --- | – biologische luchtwasser (45% reductie)  | 9,8  |
-| --- | – gecombineerd luchtwassysteem BWL 2006.14.V3 (70% reductie)  | 5,4  |
-| --- | – gecombineerd luchtwassysteem BWL 2007.01.V4; BWL 2007.02.V2; BWL 2010.02.V2; BWL 2011.07.V1; BWL 2011.08.V1 (75% reductie)  | 4,5  |
-| --- | – gecombineerd luchtwassysteem BWL 2006.15.V4 (80% reductie)  | 3,6  |
-| --- | – gecombineerd luchtwassysteem BWL 2009.12.V1 (85% reductie)  | 2,7  |
-| --- | overige huisvesting  | 23,0  |
-| --- | – chemische luchtwasser (30% reductie)  | 16,1  |
-| --- | – biologische luchtwasser (45% reductie)  | 12,7  |
-| --- | – gecombineerd luchtwassysteem BWL 2006.14.V3 (70% reductie)  | 6,9  |
-| --- | – gecombineerd luchtwassysteem BWL 2007.01.V4; BWL 2007.02.V2; BWL 2010.02.V2; BWL 2011.07.V1; BWL 2011.08.V1 (75% reductie)  | 5,8  |
-| --- | – gecombineerd luchtwassysteem BWL 2006.15.V4 (80% reductie)  | 4,6  |
-| --- | – gecombineerd luchtwassysteem BWL 2009.12.V1 (85% reductie)  | 3,5  |
-|  *Kippen*   |
-| E 1  | Opfokhennen en hanen van legrassen; jonger dan 18 weken  | --- |
-| --- | Batterijhuisvesting  | --- |
-| --- | emissiearme en overige huisvesting  | 0,18  |
-| --- | – chemische luchtwasser (30% reductie)  | 0,13  |
-| --- | – chemische luchtwasser BWL 2007.05.V4 (40% reductie)  | 0,11  |
-| --- | – biologische luchtwasser (45% reductie)  | 0,10  |
-| --- | – biofilter (45% reductie)  | 0,10  |
-| --- | Niet-batterijhuisvesting  | --- |
-| --- | emissiearme en overige huisvesting  | 0,18  |
-| --- | – chemische luchtwasser (30% reductie)  | 0,13  |
-| --- | – chemische luchtwasser BWL 2007.05.V4 (40% reductie)  | 0,11  |
-| --- | – biologische luchtwasser (45% reductie)  | 0,10  |
-| --- | – biofilter (45% reductie)  | 0,10  |
-| E 2  | Legkippen en (groot-)ouderdieren van legrassen  | --- |
-| --- | Batterijhuisvesting  | --- |
-| --- | mestopslag onder de batterij  | 0,69  |
-| --- | emissiearme en overige huisvesting  | 0,35  |
-| --- | – chemische luchtwasser (30% reductie)  | 0,25  |
-| --- | – chemische luchtwasser BWL 2007.05.V4 (40% reductie)  | 0,21  |
-| --- | – biologische luchtwasser (45% reductie)  | 0,19  |
-| --- | – biofilter (45% reductie)  | 0,19  |
-| --- | Niet-batterijhuisvesting  | --- |
-| --- | emissiearme en overige huisvesting  | 0,34  |
-| --- | – chemische luchtwasser (30% reductie)  | 0,24  |
-| --- | – chemische luchtwasser BWL 2007.05.V4 (40% reductie)  | 0,20  |
-| --- | – biologische luchtwasser (45% reductie)  | 0,19  |
-| --- | – biofilter (45% reductie)  | 0,19  |
-| E 3  | (Groot-)ouderdieren van vleeskuikens in opfok, jonger dan 19 weken  | --- |
-| --- | emissiearme en overige huisvesting  | 0,18  |
-| --- | – chemische luchtwasser (30% reductie)  | 0,13  |
-| --- | – chemische luchtwasser BWL 2007.05.V4 (40% reductie)  | 0,11  |
-| --- | – biologische luchtwasser (45% reductie)  | 0,10  |
-| --- | – biofilter (45% reductie)  | 0,10  |
-| E 4  | (Groot-)ouderdieren van vleeskuikens  | --- |
-| --- | emissiearme en overige huisvesting  | 0,93  |
-| --- | – chemische luchtwasser (30% reductie)  | 0,65  |
-| --- | – chemische luchtwasser BWL 2007.05.V4 (40% reductie)  | 0,56  |
-| --- | – biologische luchtwasser (45% reductie)  | 0,51  |
-| --- | – biofilter (45% reductie)  | 0,51  |
-| E 5  | Vleeskuikens  | --- |
-| --- | emissiearme en overige huisvesting  | 0,24  |
-| --- | – uitbroeden en opfokken tot 13 dagen en vervolghuisvesting  | 0,22  |
-| --- | – uitbroeden en opfokken tot 19 dagen en vervolghuisvesting  | 0,19  |
-| --- | – chemische luchtwasser (30% reductie)  | 0,17  |
-| --- | – chemische luchtwasser BWL 2007.05.V4 (40% reductie)  | 0,14  |
-| --- | – biologische luchtwasser (45% reductie)  | 0,13  |
-| --- | – biofilter (45% reductie)  | 0,13  |
-|  *Kalkoenen*   |
-| F 1  | Ouderdieren van vleeskalkoenen in opfok tot 6 weken  | 0,29  |
-| --- | – chemische luchtwasser (30% reductie)  | 0,20  |
-| --- | – chemische luchtwasser BWL 2007.05.V4 (40% reductie)  | 0,17  |
-| --- | – biologische luchtwasser (45% reductie)  | 0,16  |
-| --- | – biofilter (45% reductie)  | 0,16  |
-| F 2, F 3  | Ouderdieren van vleeskalkoenen vanaf 6 weken  | 1,55  |
-| --- | – chemische luchtwasser (30% reductie)  | 1,09  |
-| --- | – chemische luchtwasser BWL 2007.05.V4 (40% reductie)  | 0,93  |
-| --- | – biologische luchtwasser (45% reductie)  | 0,85  |
-| --- | – biofilter (45% reductie)  | 0,85  |
-| F 4  | Vleeskalkoenen  | 1,55  |
-| --- | – chemische luchtwasser (30% reductie)  | 1,09  |
-| --- | – chemische luchtwasser BWL 2007.05.V4 (40% reductie)  | 0,93  |
-| --- | – biologische luchtwasser (45% reductie)  | 0,85  |
-| --- | – biofilter (45% reductie)  | 0,85  |
-|  *Eenden*   |
-| G 1  | Ouderdieren van vleeseenden  | 0,49  |
-| --- | – chemische luchtwasser (30% reductie)  | 0,34  |
-| --- | – chemische luchtwasser BWL 2007.05.V4 (40% reductie)  | 0,29  |
-| --- | – biologische luchtwasser (45% reductie)  | 0,27  |
-| --- | – biofilter (45% reductie)  | 0,27  |
-| G 2  | Vleeseenden  | 0,49  |
-| --- | – chemische luchtwasser (30% reductie)  | 0,34  |
-| --- | – chemische luchtwasser BWL 2007.05.V4 (40% reductie)  | 0,29  |
-| --- | – biologische luchtwasser (45% reductie)  | 0,27  |
-| --- | – biofilter (45% reductie)  | 0,27  |
-|  *Parelhoenders*   |
-| J 1  | Parelhoenders voor de vleesproductie  | 0,24  |
-| --- | – chemische luchtwasser (30% reductie)  | 0,17  |
-| --- | – chemische luchtwasser BWL 2007.05.V4 (40% reductie)  | 0,14  |
-| --- | – biologische luchtwasser (45% reductie)  | 0,13  |
-| --- | – biofilter (45% reductie)  | 0,13  |
-|  *Overig*   |
-| M 1  | Landbouwhuisdieren die in veehouderijen worden gehouden  | niet vastgesteld  |
+|  *HOOFDCATEGORIE A: RUNDVEE*   | --- |
+| --- | --- | --- |
+|  *A 1*   |  *diercategorie melk- en kalfkoeien ouder dan 2 jaar*   | niet vastgesteld  |
+| --- | --- | --- |
+|  *A 2*   |  *diercategorie zoogkoeien ouder dan 2 jaar*   | niet vastgesteld  |
+| --- | --- | --- |
+|  *A 3*   |  *diercategorie vrouwelijk jongvee tot 2 jaar*   | niet vastgesteld  |
+| --- | --- | --- |
+|  *A 4*   |  *diercategorie vleeskalveren tot circa 8 maanden*   | --- |
+| –  |  *emissiearme en overige huisvesting*   | 35,6  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 24,9  |
+| –  | biologisch luchtwassysteem 45% geurreductie   *(BWL 2004.01.V4; BWL 2006.02.V3; BWL 2007.03.V5; BWL 2008.01.V3; BWL 2008.02.V3; BWL 2008.03.V3; BWL 2008.04.V3; BWL 2008.05.V3; BWL 2008.12.V3; BWL 2009.13.V3; BWL 2009.20.V2; BWL 2009.21.V2; BWL 2010.27.V3; BWL 2010.28.V3; BWL 2011.11.V2; BWL 2011.12.V2; BWL 2013.02.V1; BWL 2015.04.V1)*   | 19,6  |
+| –  | biologisch luchtwassysteem 70% geurreductie *(BWL 2012.07.V2)*   | 10,7  |
+| –  | gecombineerd luchtwassysteem 70% geurreductie *(BWL 2006.14.V4)*   | 10,7  |
+| –  | gecombineerd luchtwassysteem 70% geurreductie *(BWL 2006.14.V4)*   | 10,7  |
+| –  | gecombineerd luchtwassysteem 75% geurreductie *(BWL 2007.01.V5; BWL 2007.02.V4; BWL 2010.02.V3; BWL 2011.07.V2; BWL 2011.08.V2)*   | 8,9  |
+| –  | gecombineerd luchtwassysteem 80% geurreductie *(BWL 2006.15.V5)*   | 7,1  |
+| –  | gecombineerd luchtwassysteem 85% geurreductie *(BWL 2009.12.V2)*   | 5,3  |
+| --- | --- | --- |
+|  *A 5*   |  *Vervallen*   | --- |
+| --- | --- | --- |
+|  *A 6*   |  *diercategorie vleesstieren en overig vleesvee van circa 8 tot 24 maanden (roodvleesproductie)*   | 35,6  |
+| --- | --- | --- |
+|  *A 7*   |  *diercategorie fokstieren en overig rundvee ouder dan 2 jaar *   | niet vastgesteld  |
+| --- | --- | --- |
+|  *HOOFDCATEGORIE B: SCHAPEN*   | --- |
+| --- | --- | --- |
+|  *B 1*   |  *diercategorie schapen ouder dan 1 jaar, inclusief lammeren tot 45 kg * <sup>1, 2</sup>   | 7,8  |
+| --- | --- | --- |
+|  *HOOFDCATEGORIE C: GEITEN*   | --- |
+| --- | --- | --- |
+|  *C 1*   |  *diercategorie geiten ouder dan 1 jaar*   | 18,8  |
+| --- | --- | --- |
+|  *C 2*   |  *diercategorie opfokgeiten van 61 dagen tot en met één jaar*   | 11,3  |
+| --- | --- | --- |
+|  *C 3*   |  *diercategorie opfokgeiten en afmestlammeren tot en met 60 dagen*   | 5,7  |
+| --- | --- | --- |
+|  *HOOFDCATEGORIE D: VARKENS * <sup>3</sup>   | --- |
+| --- | --- | --- |
+|  *D 1*   |  *fokzeugen, inclusief biggen tot 25 kg *   | --- |
+|  *D 1.1*   |  *diercategorie biggenopfok (gespeende biggen)*   | --- |
+| –  |  *emissiearme huisvesting (a.e. < 0,3 kg per dierplaats per jaar) <sup>4</sup> *   | 5,4  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 3,8  |
+| –  | biologisch luchtwassysteem 45% geurreductie   *(BWL 2004.01.V4; BWL 2006.02.V3; BWL 2007.03.V5; BWL 2008.01.V3; BWL 2008.02.V3; BWL 2008.03.V3; BWL 2008.04.V3; BWL 2008.05.V3; BWL 2008.12.V3; BWL 2009.13. V3; BWL 2009.20.V2; BWL 2009.21.V2; BWL 2010.27.V3; BWL 2010.28.V3; BWL 2011.11.V2; BWL 2011.12.V2; BWL 2013.02.V1; BWL 2015.04.V1)*   | 3,0  |
+| –  | biologisch luchtwassysteem 70% geurreductie *(BWL 2012.07.V2)*   | 1,6  |
+| –  | gecombineerd luchtwassysteem 70% geurreductie *(BWL 2006.14.V4)*   | 1,6  |
+| –  | gecombineerd luchtwassysteem 75% geurreductie *(BWL 2007.01.V5; BWL 2007.02.V4; BWL 2010.02.V3; BWL 2011.07.V2; BWL 2011.08.V2)*   | 1,4  |
+| –  | gecombineerd luchtwassysteem 80% geurreductie *(BWL 2006.15.V5)*   | 1,1  |
+| –  | gecombineerd luchtwassysteem 85% geurreductie *(BWL 2009.12.V2)*   | 0,8  |
+| --- | --- | --- |
+| –  |  *overige huisvesting*   | 7,8  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 5,5  |
+| –  | biologisch luchtwassysteem 45% geurreductie   *(BWL 2004.01.V4; BWL 2006.02.V3; BWL 2007.03.V5; BWL 2008.01.V3; BWL 2008.02.V3; BWL 2008.03.V3; BWL 2008.04.V3; BWL 2008.05.V3; BWL 2008.12.V3; BWL 2009.13.V3; BWL 2009.20.V2; BWL 2009.21.V2; BWL 2010.27.V3; BWL 2010.28.V3; BWL 2011.11.V2; BWL 2011.12.V2; BWL 2013.02.V1; BWL 2015.04.V1)*   | 4,3  |
+| –  | biologisch luchtwassysteem 70% geurreductie *(BWL 2012.07.V2)*   | 2,3  |
+| –  | gecombineerd luchtwassysteem 70% geurreductie *(BWL 2006.14.V4)*   | 2,3  |
+| –  | gecombineerd luchtwassysteem 75% geurreductie *(BWL 2007.01.V5; BWL 2007.02.V4; BWL 2010.02.V3; BWL 2011.07.V2; BWL 2011.08.V2)*   | 2,0  |
+| –  | gecombineerd luchtwassysteem 80% geurreductie *(BWL 2006.15.V5)*   | 1,6  |
+| –  | gecombineerd luchtwassysteem 85% geurreductie *(BWL 2009.12.V2)*   | 1,2  |
+| --- | --- | --- |
+|  *D 1.2*   |  *diercategorie kraamzeugen (incl. biggen tot spenen)*   | --- |
+| –  |  *emissiearme en overige huisvesting*   | 27,9  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 19,5  |
+| –  | biologisch luchtwassysteem 45% geurreductie   *(BWL 2004.01.V4; BWL 2006.02.V3; BWL 2007.03.V5; BWL 2008.01.V3; BWL 2008.02.V3; BWL 2008.03.V3; BWL 2008.04.V3; BWL 2008.05.V3; BWL 2008.12.V3; BWL 2009.13.V3; BWL 2009.20.V2; BWL 2009.21.V2; BWL 2010.27.V3; BWL 2010.28.V3; BWL 2011.11.V2; BWL 2011.12.V2; BWL 2013.02.V1; BWL 2015.04.V1)*   | 15,3  |
+| –  | biologisch luchtwassysteem 70% geurreductie *(BWL 2012.07.V2)*   | 8,4  |
+| –  | gecombineerd luchtwassysteem 70% geurreductie *(BWL 2006.14.V4)*   | 8,4  |
+| –  | gecombineerd luchtwassysteem 75% geurreductie *(BWL 2007.01.V5; BWL 2007.02.V4; BWL 2010.02.V3; BWL 2011.07.V2; BWL 2011.08.V2)*   | 7,0  |
+| –  | gecombineerd luchtwassysteem 80% geurreductie *(BWL 2006.15.V5)*   | 5,6  |
+| –  | gecombineerd luchtwassysteem 85% geurreductie *(BWL 2009.12.V2)*   | 4,2  |
+| --- | --- | --- |
+|  *D 1.3*   |  *diercategorie guste en dragende zeugen*   | --- |
+| –  |  *emissiearme en overige huisvesting*   | 18,7  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 13,1  |
+| –  | biologisch luchtwassysteem 45% geurreductie   *(BWL 2004.01.V4; BWL 2006.02.V3; BWL 2007.03.V5; BWL 2008.01.V3; BWL 2008.02.V3; BWL 2008.03.V3; BWL 2008.04.V3; BWL 2008.05.V3; BWL 2008.12.V3; BWL 2009.13.V3; BWL 2009.20.V2; BWL 2009.21.V2; BWL 2010.27.V3; BWL 2010.28.V3; BWL 2011.11.V2; BWL 2011.12.V2; BWL 2013.02.V1; BWL 2015.04.V1)*   | 10,3  |
+| –  | biologisch luchtwassysteem 70% geurreductie *(BWL 2012.07.V2)*   | 5,6  |
+| –  | gecombineerd luchtwassysteem 70% geurreductie *(BWL 2006.14.V4)*   | 5,6  |
+| –  | gecombineerd luchtwassysteem 75% geurreductie *(BWL 2007.01.V5; BWL 2007.02.V4; BWL 2010.02.V3; BWL 2011.07.V2; BWL 2011.08.V2)*   | 4,7  |
+| –  | gecombineerd luchtwassysteem 80% geurreductie *(BWL 2006.15.V5)*   | 3,7  |
+| –  | gecombineerd luchtwassysteem 85% geurreductie *(BWL 2009.12.V2)*   | 2,8  |
+| --- | --- | --- |
+|  *D 2 *   |  *diercategorie dekberen, 7 maanden en ouder*   | --- |
+| –  |  *emissiearme en overige huisvesting*   | 18,7  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 13,1  |
+| –  | biologisch luchtwassysteem 45% geurreductie   *(BWL 2004.01.V4; BWL 2006.02.V3; BWL 2007.03.V5; BWL 2008.01.V3; BWL 2008.02.V3; BWL 2008.03.V3; BWL 2008.04.V3; BWL 2008.05.V3; BWL 2008.12.V3; BWL 2009.13.V3; BWL 2009.20.V2; BWL 2009.21.V2; BWL 2010.27.V3; BWL 2010.28.V3; BWL 2011.11.V2; BWL 2011.12.V2; BWL 2013.02.V1; BWL 2015.04.V1)*   | 10,3  |
+| –  | biologisch luchtwassysteem 70% geurreductie *(BWL 2012.07.V2)*   | 5,6  |
+| –  | gecombineerd luchtwassysteem 70% geurreductie *(BWL 2006.14.V4)*   | 5,6  |
+| –  | gecombineerd luchtwassysteem 75% geurreductie *(BWL 2007.01.V5; BWL 2007.02.V4; BWL 2010.02.V3; BWL 2011.07.V2; BWL 2011.08.V2)*   | 4,7  |
+| –  | gecombineerd luchtwassysteem 80% geurreductie *(BWL 2006.15.V5)*   | 3,7  |
+| –  | gecombineerd luchtwassysteem 80% geurreductie *(BWL 2006.15.V5)*   | 2,8  |
+| --- | --- | --- |
+|  *D 3*   |  *diercategorie vleesvarkens, opfokberen van circa 25 kg tot 7 maanden, opfokzeugen van circa 25 kg tot eerste dekking * <sup>5</sup>   | --- |
+| –  |  *emissiearme en overige huisvesting (a.e. < 1,5 kg per dierplaats per jaar) * <sup>4</sup>   | 17,9  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 12,5  |
+| –  | biologisch luchtwassysteem 45% geurreductie   *(BWL 2004.01.V4; BWL 2006.02.V3; BWL 2007.03.V5; BWL 2008.01.V3; BWL 2008.02.V3; BWL 2008.03.V3; BWL 2008.04.V3; BWL 2008.05.V3; BWL 2008.12.V3; BWL 2009.13.V3; BWL 2009.20.V2; BWL 2009.21.V2; BWL 2010.27.V3; BWL 2010.28.V3; BWL 2011.11.V2; BWL 2011.12.V2; BWL 2013.02.V1; BWL 2015.04.V1)*   | 9,8  |
+| –  | biologisch luchtwassysteem 70% geurreductie *(BWL 2012.07.V2)*   | 5,4  |
+| –  | gecombineerd luchtwassysteem 70% geurreductie *(BWL 2006.14.V4)*   | 5,4  |
+| –  | gecombineerd luchtwassysteem 75% geurreductie *(BWL 2007.01.V5; BWL 2007.02.V4; BWL 2010.02.V3; BWL 2011.07.V2; BWL 2011.08.V2)*   | 4,5  |
+| –  | gecombineerd luchtwassysteem 80% geurreductie *(BWL 2006.15.V5)*   | 3,6  |
+| –  | gecombineerd luchtwassysteem 85% geurreductie *(BWL 2009.12.V2)*   | 2,7  |
+| --- | --- | --- |
+| –  |  *overige huisvesting*   | 23,0  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 16,1  |
+| –  | biologisch luchtwassysteem 45% geurreductie   *(BWL 2004.01.V4; BWL 2006.02.V3; BWL 2007.03.V5; BWL 2008.01.V3; BWL 2008.02.V3; BWL 2008.03.V3; BWL 2008.04.V3; BWL 2008.05.V3; BWL 2008.12.V3; BWL 2009.13.V3; BWL 2009.20.V2; BWL 2009.21.V2; BWL 2010.27.V3; BWL 2010.28.V3; BWL 2011.11.V2; BWL 2011.12.V2; BWL 2013.02.V1; BWL 2015.04.V1)*   | 12,7  |
+| –  | biologisch luchtwassysteem 70% geurreductie *(BWL 2012.07.V2)*   | 6,9  |
+| –  | gecombineerd luchtwassysteem 70% geurreductie *(BWL 2006.14.V4)*   | 6,9  |
+| –  | gecombineerd luchtwassysteem 75% geurreductie *(BWL 2007.01.V5; BWL 2007.02.V4; BWL 2010.02.V3; BWL 2011.07.V2; BWL 2011.08.V2)*   | 5,8  |
+| –  | gecombineerd luchtwassysteem 80% geurreductie *(BWL 2006.15.V5)*   | 4,6  |
+| –  | gecombineerd luchtwassysteem 85% geurreductie *(BWL 2009.12.V2)*   | 3,5  |
+| --- | --- | --- |
+|  *HOOFDCATEGORIE E: KIPPEN*   | --- |
+| --- | --- | --- |
+|  *E 1*   |  *diercategorie opfokhennen en hanen van legrassen; jonger dan 18 weken*   | --- |
+| –  |  *batterijhuisvesting *   | --- |
+| –  |  *emissiearme en overige huisvesting*   | 0,18  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 0,13  |
+| –  | chemisch luchtwassysteem 40% geurreductie *(BWL 2007.05.V5)*   | 0,11  |
+| –  | biologisch luchtwassysteem 45% geurreductie  | 0,10  |
+| –  | biofilter 45% geurreductie  | 0,10  |
+| –  |  *niet-batterijhuisvesting *   | --- |
+| –  |  *emissiearme en overige huisvesting*   | 0,18  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 0,13  |
+| –  | chemisch luchtwassysteem 40% geurreductie *(BWL 2007.05.V5)*   | 0,11  |
+| –  | biologisch luchtwassysteem 45% geurreductie  | 0,10  |
+| –  | biofilter 45% geurreductie  | 0,10  |
+| --- | --- | --- |
+|  *E 2*   |  *diercategorie legkippen en (groot-)ouderdieren van legrassen*   | --- |
+| –  |  *batterijhuisvesting*   | --- |
+| –  |  *mestopslag onder batterij*   | 0,69  |
+| –  |  *emissiearme en overige huisvesting*   | 0,35  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 0,25  |
+| –  | chemisch luchtwassysteem 40% geurreductie *(BWL 2007.05.V5)*   | 0,21  |
+| –  | biologisch luchtwassysteem 45% geurreductie  | 0,19  |
+| –  | biofilter 45% geurreductie  | 0,19  |
+| –  |  *niet-batterijhuisvesting*   | --- |
+| –  |  *emissiearme en overige huisvesting*   | 0,34  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 0,24  |
+| –  | chemisch luchtwassysteem 40% geurreductie *(BWL 2007.05.V5)*   | 0,20  |
+| –  | biologisch luchtwassysteem 45% geurreductie  | 0,19  |
+| –  | biofilter 45% geurreductie  | 0,19  |
+| --- | --- | --- |
+|  *E 3*   |  *diercategorie (groot-)ouderdieren van vleeskuikens in opfok; jonger dan 19 weken*   | --- |
+| –  |  *emissiearme en overige huisvesting*   | 0,18  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 0,13  |
+| –  | chemisch luchtwassysteem 40% geurreductie *(BWL 2007.05.V5)*   | 0,11  |
+| –  | biologisch luchtwassysteem 45% geurreductie  | 0,10  |
+| –  | biofilter 45% geurreductie  | 0,10  |
+| --- | --- | --- |
+|  *E 4*   |  *diercategorie (groot-)ouderdieren van vleeskuikens *   | --- |
+| –  |  *emissiearme en overige huisvesting*   | 0,93  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 0,65  |
+| –  | chemisch luchtwassysteem 40% geurreductie *(BWL 2007.05.V5)*   | 0,56  |
+| –  | biologisch luchtwassysteem 45% geurreductie  | 0,51  |
+| –  | biofilter 45% geurreductie  | 0,51  |
+| --- | --- | --- |
+|  *E 5*   |  *diercategorie vleeskuikens*   | --- |
+| --- |  *emissiearme en overige huisvesting*   | 0,24  |
+| –  | uitbroeden en opfokken tot 13 dagen en vervolghuisvesting  | 0,22  |
+| –  | uitbroeden en opfokken tot 13 dagen en vervolghuisvesting  | 0,19  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 0,17  |
+| –  | chemisch luchtwassysteem 40% geurreductie *(BWL 2007.05.V5)*   | 0,14  |
+| –  | biologisch luchtwassysteem 45% geurreductie  | 0,13  |
+| –  | biofilter 45% geurreductie  | 0,13  |
+| --- | --- | --- |
+|  *HOOFDCATEGORIE F: KALKOENEN*   | --- |
+| --- | --- | --- |
+|  *F 1*   |  *diercategorie ouderdieren van vleeskalkoenen in opfok; tot 6 weken*   | --- |
+| –  |  *emissiearme en overige huisvesting*   | 0,29  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 0,20  |
+| –  | chemisch luchtwassysteem 40% geurreductie *(BWL 2007.05.V5)*   | 0,17  |
+| –  | biologisch luchtwassysteem 45% geurreductie  | 0,16  |
+| –  | biofilter 45% geurreductie  | 0,16  |
+| --- | --- | --- |
+|  *F 2*   |  *diercategorie ouderdieren van vleeskalkoenen in opfok; van 6 tot 30 weken*   | --- |
+| –  |  *emissiearme en overige huisvesting*   | 1,55  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 1,09  |
+| –  | chemisch luchtwassysteem 40% geurreductie *(BWL 2007.05.V5)*   | 0,93  |
+| –  | biologisch luchtwassysteem 45% geurreductie  | 0,85  |
+| –  | biofilter 45% geurreductie  | 0,85  |
+| --- | --- | --- |
+|  *F 3*   |  *diercategorie ouderdieren van vleeskalkoenen van 30 weken en ouder*   | --- |
+| –  |  *emissiearme en overige huisvesting*   | 1,55  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 1,09  |
+| –  | chemisch luchtwassysteem 40% geurreductie *(BWL 2007.05.V5)*   | 0,93  |
+| –  | biologisch luchtwassysteem 45% geurreductie  | 0,85  |
+| –  | biofilter 45% geurreductie  | 0,85  |
+| --- | --- | --- |
+|  *F 4*   |  *diercategorie vleeskalkoenen*   | --- |
+| –  |  *emissiearme en overige huisvesting*   | 1,55  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 1,09  |
+| –  | chemisch luchtwassysteem 40% geurreductie *(BWL 2007.05.V5)*   | 0,93  |
+| –  | biologisch luchtwassysteem 45% geurreductie  | 0,85  |
+| –  | biofilter 45% geurreductie  | 0,85  |
+| --- | --- | --- |
+|  *HOOFDCATEGORIE G: EENDEN*   | --- |
+| --- | --- | --- |
+|  *G 1*   |  *diercategorie ouderdieren van vleeseenden tot 24 maanden*   | --- |
+| –  |  *emissiearme en overige huisvesting*   | 0,49  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 0,34  |
+| –  | chemisch luchtwassysteem 40% geurreductie *(BWL 2007.05.V5)*   | 0,29  |
+| –  | biologisch luchtwassysteem 45% geurreductie  | 0,27  |
+| –  | biofilter 45% geurreductie  | 0,27  |
+| --- | --- | --- |
+|  *G 2*   |  *diercategorie vleeseenden*   | --- |
+| –  |  *emissiearme en overige huisvesting*   | 0,49  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 0,34  |
+| –  | chemisch luchtwassysteem 40% geurreductie *(BWL 2007.05.V5)*   | 0,29  |
+| –  | biologisch luchtwassysteem 45% geurreductie  | 0,27  |
+| –  | biofilter 45% geurreductie  | 0,27  |
+| --- | --- | --- |
+|  *HOOFDCATEGORIE J: PARELHOENDERS*   | --- |
+| --- | --- | --- |
+|  *J 1 *   |  *diercategorie parelhoenders voor de vleesproductie*   | --- |
+| –  |  *emissiearme en overige huisvesting*   | 0,24  |
+| –  | chemisch luchtwassysteem 30% geurreductie  | 0,17  |
+| –  | chemisch luchtwassysteem 40% geurreductie *(BWL 2007.05.V5)*   | 0,14  |
+| –  | biologisch luchtwassysteem 45% geurreductie  | 0,13  |
+| –  | biofilter 45% geurreductie  | 0,13  |
+| --- | --- | --- |
+|  *HOOFDCATEGORIE M: OVERIG *   | --- |
+| --- | --- | --- |
+|  *M 1*   |  *Landbouwhuisdieren die in veehouderijen worden gehouden*   | niet vastgesteld  |
 
-*Eindnoten:*1 De geuremissie heeft betrekking op een stalperiode van maximaal drie maanden in de winter. 2 De geuremissiefactor geldt inclusief opfok, zodat die opfok niet meetelt voor de berekening van de geuremissie. 3 Een stalsysteem met spoelgoten wordt niet gewaardeerd als emissiearme huisvesting maar als overige huisvesting. 4 a.e. is de afkorting van ammoniakemissie. 5 Voor opfokzeugen na de eerste dekking wordt de geuremissiefactor voor fokzeugen gehanteerd.
+Eindnoten: 1 De geuremissie heeft betrekking op een stalperiode van maximaal drie maanden in de winter. 2 De geuremissiefactor geldt inclusief opfok, zodat die opfok niet meetelt voor de berekening van de geuremissie. 3 Een stalsysteem met spoelgoten wordt niet gewaardeerd als emissiearme huisvesting maar als overige huisvesting. 4 a.e. is de afkorting van ammoniakemissie. 5 Voor opfokzeugen na de eerste dekking wordt de geuremissiefactor voor fokzeugen gehanteerd.
 
 ### Bijlage 2 
 
-####, als bedoeld in artikel 3  (afstanden pelsdieren)
+####, bedoeld in artikel 3  (afstanden pelsdieren) van de Regeling geurhinder en veehouderij
 
 De afstanden, uitgedrukt in meters, voor nertsen worden als volgt bepaald.  Pelsdieren 
 

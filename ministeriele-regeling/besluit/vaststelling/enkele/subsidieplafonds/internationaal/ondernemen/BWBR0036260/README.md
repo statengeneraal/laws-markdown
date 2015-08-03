@@ -8,11 +8,11 @@ Besluit:
 
 ### Artikel  1  
 
-Voor subsidieverlening in het kader van de Subsidieregeling internationaal ondernemen 2014 is in het tijdvak vanaf inwerkingtreding van dit besluit tot en met 31 december 2015 een subsidieplafond beschikbaar van € 1.44 miljoen. 
+Voor subsidieverlening in het kader van de Subsidieregeling internationaal ondernemen 2014 is in het tijdvak vanaf inwerkingtreding van dit besluit tot en met 31 december 2015 een subsidieplafond beschikbaar van € 2.4 miljoen. 
 
 ### Artikel  2  
 
-Voor toepassing van de Subsidieregeling missievouchers 2014 geldt in het tijdvak vanaf inwerkingtreding van dit besluit tot en met 31 december 2015 een plafond van 600 vouchers. 
+Voor toepassing van de Subsidieregeling missievouchers 2014 geldt in het tijdvak vanaf inwerkingtreding van dit besluit tot en met 31 december 2015 een plafond van 800 vouchers. 
 
 ### Artikel  3  
 
