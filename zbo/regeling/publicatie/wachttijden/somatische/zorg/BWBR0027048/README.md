@@ -3,14 +3,14 @@
 ##Regeling verplichte publicatie wachttijden somatische zorg
 
 De Nederlandse Zorgautoriteit (NZa),  
-Gelet op [artikel 38 lid 4 juncto 7 van de Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg);
+Gelet op artikel 38 lid 4 juncto 7 van de Wet marktordening gezondheidszorg (Wmg);
 Stelt de volgende regeling vast;    
 
 ### Artikel  1  
 
 ####Algemeen
 
-Deze regeling is van toepassing op zorg of dienst als omschreven bij of krachtens de [Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) welke wordt geleverd door instellingen voor medisch specialistische zorg<sup> 1 Voorheen: ziekenhuizen, academische ziekenhuizen, zelfstandig behandelcentrum. </sup> . Uitgezonderd van deze regeling zijn: Zorgaanbieders die geneeskundige zorg leveren zoals medisch specialisten die bieden te onderscheiden naar categorieën van specialismen overeenkomstig het onderscheid zoals dat wordt gemaakt in het specialistenregister van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst, zoals dat register luidt op het tijdstip van vaststellen van een tarief/prestatiebeschrijving door de Nederlandse Zorgautoriteit voor het desbetreffende specialisme en zorgaanbieders die geneeskundige zorg aanbieders zoals psychiaters of psychotherapeuten die bieden. 
+Deze regeling is van toepassing op zorg of dienst als omschreven bij of krachtens de Zorgverzekeringswet welke wordt geleverd door instellingen voor medisch specialistische zorg<sup> 1 Voorheen: ziekenhuizen, academische ziekenhuizen, zelfstandig behandelcentrum. </sup> . Uitgezonderd van deze regeling zijn: Zorgaanbieders die geneeskundige zorg leveren zoals medisch specialisten die bieden te onderscheiden naar categorieën van specialismen overeenkomstig het onderscheid zoals dat wordt gemaakt in het specialistenregister van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst, zoals dat register luidt op het tijdstip van vaststellen van een tarief/prestatiebeschrijving door de Nederlandse Zorgautoriteit voor het desbetreffende specialisme en zorgaanbieders die geneeskundige zorg aanbieders zoals psychiaters of psychotherapeuten die bieden. 
 
 ### Artikel  2  
 
@@ -64,7 +64,7 @@ b. Wanneer de zorgaanbieder geen website heeft, wordt de wachttijdinformatie zoa
 
 ####Slotbepaling
 
-De regeling kan worden aangehaald als 'Regeling publicatie wachttijden somatische zorg'. Deze regeling treedt in werking met ingang van 1 januari 2010. Indien de Staatscourant waarin de mededeling als bedoeld in [artikel 20, tweede lid, sub b, van de Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg) wordt Nederlandse Zorgautoriteit geplaatst, wordt uitgegeven na 31 december 2009, treedt de regeling in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin de mededeling wordt geplaatst en werkt terug tot en met 1 januari 2010. De [regeling verplichte publicatie wachttijden somatische zorg](../../../../../../../zbo/regeling/publicatie/wachttijden/somatische/zorg/BWBR0025114/README.md) CI/NR-100.084 wordt per 1 januari 2010 ingetrokken. 
+De regeling kan worden aangehaald als 'Regeling publicatie wachttijden somatische zorg'. Deze regeling treedt in werking met ingang van 1 januari 2010. Indien de Staatscourant waarin de mededeling als bedoeld in artikel 20, tweede lid, sub b, van de Wet marktordening gezondheidszorg (Wmg) wordt Nederlandse Zorgautoriteit geplaatst, wordt uitgegeven na 31 december 2009, treedt de regeling in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin de mededeling wordt geplaatst en werkt terug tot en met 1 januari 2010. De regeling verplichte publicatie wachttijden somatische zorg CI/NR-100.084 wordt per 1 januari 2010 ingetrokken. 
 
 De Raad van Bestuur van de Nederlandse Zorgautoriteit, 
 C.C. van Beek MCM,  
