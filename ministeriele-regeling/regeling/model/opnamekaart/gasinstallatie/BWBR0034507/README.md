@@ -30,5 +30,5 @@ J.G. Hakkenberg
 
 ### Bijlage  1  
 
-![253041](http://wetten.overheid.nl/Illustration/253041)
+![254403](http://wetten.overheid.nl/Illustration/254403)
 

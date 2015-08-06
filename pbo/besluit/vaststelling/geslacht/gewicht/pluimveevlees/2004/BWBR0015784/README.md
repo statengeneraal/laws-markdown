@@ -3,13 +3,13 @@
 ##Besluit van het bestuur van het Productschap Pluimvee en Eieren van 23 oktober 2003 tot vaststelling van het geslacht gewicht ter uitvoering van de Verordening heffingen pluimveevlees (PPE) 2004 (Besluit vaststelling geslacht gewicht pluimveevlees 2004)
 
 Het bestuur van het Productschap Pluimvee en Eieren;
-Gelet op [artikel 8 van de Verordening heffingen pluimveevlees (PPE) 2004](../../../../../../../../pbo/verordening/heffingen/pluimveevlees/(ppe)/2004/BWBR0015782/README.md);
+Gelet op artikel 8 van de Verordening heffingen pluimveevlees (PPE) 2004;
 Besluit:
 
 ###Artikel 1 
 Materieel uitgewerkt per 01-01-2005 
 
-Dit besluit neemt de begripsbepalingen over van de [Verordening heffingen pluimveevlees 2004](../../../../../../../../pbo/verordening/heffingen/pluimveevlees/(ppe)/2004/BWBR0015782/README.md).
+Dit besluit neemt de begripsbepalingen over van de Verordening heffingen pluimveevlees 2004.
 
 ###Artikel 2 
 Materieel uitgewerkt per 01-01-2005 
@@ -31,7 +31,7 @@ bedraagt.
 ###Artikel 3 
 Materieel uitgewerkt per 01-01-2005 
 
-1. Dit besluit treedt in werking op het tijdstip waarop de [Verordening heffingen pluimveevlees 2004](../../../../../../../../pbo/verordening/heffingen/pluimveevlees/(ppe)/2004/BWBR0015782/README.md) in werking treedt.
+1. Dit besluit treedt in werking op het tijdstip waarop de Verordening heffingen pluimveevlees 2004 in werking treedt.
 2. Dit besluit wordt geplaatst in het Verordeningenblad Bedrijfsorganisatie en wordt aangehaald als: Besluit vaststelling geslacht gewicht pluimveevlees 2004.
 
 Zoetermeer

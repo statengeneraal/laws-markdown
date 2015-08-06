@@ -5,13 +5,13 @@
 De Raad voor Rechtsbijstand (verder genoemd: de Raad),  
 Gelet op:
 
-– [hoofdstuk 10, Titel 10.1, Afdeling 10.1.1.van de Algemene Wet bestuursrecht](../../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en  
+– hoofdstuk 10, Titel 10.1, Afdeling 10.1.1.van de Algemene Wet bestuursrecht en  
 
-– [artikel 2 van de Regeling erkenning EG-beroepskwalificaties beëdigde tolken en vertalers](../../../../../../../../../../../../../ministeriele-regeling/regeling/erkenning/eg-beroepskwalificaties/beëdigde/tolken/en/vertalers/BWBR0024932/README.md) (Stc. 2008, 2211)     Besluit:    
+– artikel 2 van de Regeling erkenning EG-beroepskwalificaties beëdigde tolken en vertalers (Stc. 2008, 2211)     Besluit:    
 
 ### Artikel  1  
 
-De Raad verleent medewerkers in de functie van stafmedewerker Wsnp en Wbtv, medewerker Wsnp en Wbtv en administratief medewerkers Wsnp en Wbtv ondermandaat ten aanzien van handelingen en bevoegdheden met betrekking tot de erkenning van EG-beroepskwalificaties en tijdelijke en incidentele werkzaamheden van migrerende of grensoverschrijdende beoefenaren van de Nederlandse gereglementeerde beroepen tolk en vertaler, zoals vermeld in [artikel 2 van de regeling erkenning EG-beroepskwalificaties beëdigde tolken en vertalers](../../../../../../../../../../../../../ministeriele-regeling/regeling/erkenning/eg-beroepskwalificaties/beëdigde/tolken/en/vertalers/BWBR0024932/README.md). 
+De Raad verleent medewerkers in de functie van stafmedewerker Wsnp en Wbtv, medewerker Wsnp en Wbtv en administratief medewerkers Wsnp en Wbtv ondermandaat ten aanzien van handelingen en bevoegdheden met betrekking tot de erkenning van EG-beroepskwalificaties en tijdelijke en incidentele werkzaamheden van migrerende of grensoverschrijdende beoefenaren van de Nederlandse gereglementeerde beroepen tolk en vertaler, zoals vermeld in artikel 2 van de regeling erkenning EG-beroepskwalificaties beëdigde tolken en vertalers. 
 
 ### Artikel  2  
 

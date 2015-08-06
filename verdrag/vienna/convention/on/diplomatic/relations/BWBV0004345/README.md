@@ -4,7 +4,7 @@
 
 ####Vienna Convention on Diplomatic Relations
 
-The States Parties to the present Convention, Recalling that peoples of all nations from ancient times have recognized the status of diplomatic agents, Having in mind the purposes and principles of the [Charter of the United Nations](../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) concerning the sovereign equality of States, the maintenance of international peace and security, and the promotion of friendly relations among nations, Believing that an international convention on diplomatic intercourse, privileges and immunities would contribute to the development of friendly relations among nations, irrespective of their differing constitutional and social systems, Realizing that the purpose of such privileges and immunities is not to benefit individuals but to ensure the efficient performance of the functions of diplomatic missions as representing States, Affirming that the rules of customary international law should continue to govern questions not expressly regulated by the provisions of the present Convention,  Have agreed as follows:  
+The States Parties to the present Convention, Recalling that peoples of all nations from ancient times have recognized the status of diplomatic agents, Having in mind the purposes and principles of the Charter of the United Nations concerning the sovereign equality of States, the maintenance of international peace and security, and the promotion of friendly relations among nations, Believing that an international convention on diplomatic intercourse, privileges and immunities would contribute to the development of friendly relations among nations, irrespective of their differing constitutional and social systems, Realizing that the purpose of such privileges and immunities is not to benefit individuals but to ensure the efficient performance of the functions of diplomatic missions as representing States, Affirming that the rules of customary international law should continue to govern questions not expressly regulated by the provisions of the present Convention,  Have agreed as follows:  
 
 ### Article  1  
 
@@ -327,7 +327,7 @@ A sending State may with the prior consent of a receiving State, and at the requ
 
 ### Article  48  
 
-The present Convention shall be open for signature by all States Members of the United Nations or of any of the specialised agencies or Parties to the [Statute of the International Court of Justice](../../../../../../../verdrag/statuut/van/het/internationaal/gerechtshof/BWBV0005509/README.md), and by any other State invited by the General Assembly of the United Nations to become a Party to the Convention, as follows: until 31 October 1961 at the Federal Ministry for Foreign Affairs of Austria and subsequently, until 31 March 1962, at the United Nations Headquarters in New York. 
+The present Convention shall be open for signature by all States Members of the United Nations or of any of the specialised agencies or Parties to the Statute of the International Court of Justice, and by any other State invited by the General Assembly of the United Nations to become a Party to the Convention, as follows: until 31 October 1961 at the Federal Ministry for Foreign Affairs of Austria and subsequently, until 31 March 1962, at the United Nations Headquarters in New York. 
 
 ### Article  49  
 
@@ -444,7 +444,7 @@ Mr. N. Ponce Miranda (Ecuador).
 
 13.On the basis of the deliberations, as recorded in the records and report of the Committee of the Whole and in the records of the plenary meetings, the Conference prepared the following Convention and Protocols: 
 
-Vienna Convention on Diplomatic Relations;[Optional Protocol concerning Acquisition of Nationality](../../../../../../../verdrag/optional/protocol/concerning/acquisition/of/nationality/BWBV0004538/README.md);[Optional Protocol concerning the Compulsory Settlement of Disputes](../../../../../../../verdrag/optional/protocol/concerning/the/compulsory/settlement/of/disputes/BWBV0004534/README.md). The foregoing Convention and Protocols, which are subject to ratification, were adopted by the Conference on 14 April 1961, and opened for signature on 18 April 1961, in accordance with their provisions, until 31 October 1961 at the Federal Ministry for Foreign Affairs of Austria and subsequently, until 31 March 1962, at the United Nations Headquarters in New York. The same instruments were also opened for accession, in accordance with their provisions, and will be deposited with the Secretary-General of the United Nations.
+Vienna Convention on Diplomatic Relations;Optional Protocol concerning Acquisition of Nationality;Optional Protocol concerning the Compulsory Settlement of Disputes. The foregoing Convention and Protocols, which are subject to ratification, were adopted by the Conference on 14 April 1961, and opened for signature on 18 April 1961, in accordance with their provisions, until 31 October 1961 at the Federal Ministry for Foreign Affairs of Austria and subsequently, until 31 March 1962, at the United Nations Headquarters in New York. The same instruments were also opened for accession, in accordance with their provisions, and will be deposited with the Secretary-General of the United Nations.
 
 14.In addition the Conference adopted the following resolutions which are annexed to this Final Act: 
 
@@ -477,7 +477,7 @@ Resolution adopted at the 12th plenary meeting on April 14, 1961*The United Nati
 
 ####Verdrag van Wenen inzake diplomatiek verkeer
 
-De Staten die Partij zijn bij dit Verdrag,In herinnering brengend dat de volkeren van alle landen sedert vele eeuwen de rechtspositie van diplomatieke vertegenwoordigers erkennen,Indachtig de doelstellingen en beginselen van het [Handvest der Verenigde Naties](../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) betreffende de soevereine gelijkheid der staten, de handhaving van internationale vrede en veiligheid, alsmede de bevordering van vriendschappelijke betrekkingen tussen de volkeren,In de overtuiging dat een internationaal verdrag inzake diplomatiek verkeer en diplomatieke voorrechten en immuniteiten een bijdrage zou betekenen tot de ontwikkeling van vriendschappelijke betrekkingen tussen de volkeren, ongeacht de verschillen in hun grondwettelijke en maatschappelijke stelsels,Beseffend dat het doel van deze voorrechten en immuniteiten niet is personen te bevoorrechten, doch te verzekeren dat diplomatieke zendingen als vertegenwoordigers der staten doelmatig functioneren,Bevestigend dat de regels van het internationale gewoonterecht van toepassing dienen te blijven op aangelegenheden die door de bepalingen van dit Verdrag niet uitdrukkelijk worden geregeld,Zijn overeengekomen als volgt:
+De Staten die Partij zijn bij dit Verdrag,In herinnering brengend dat de volkeren van alle landen sedert vele eeuwen de rechtspositie van diplomatieke vertegenwoordigers erkennen,Indachtig de doelstellingen en beginselen van het Handvest der Verenigde Naties betreffende de soevereine gelijkheid der staten, de handhaving van internationale vrede en veiligheid, alsmede de bevordering van vriendschappelijke betrekkingen tussen de volkeren,In de overtuiging dat een internationaal verdrag inzake diplomatiek verkeer en diplomatieke voorrechten en immuniteiten een bijdrage zou betekenen tot de ontwikkeling van vriendschappelijke betrekkingen tussen de volkeren, ongeacht de verschillen in hun grondwettelijke en maatschappelijke stelsels,Beseffend dat het doel van deze voorrechten en immuniteiten niet is personen te bevoorrechten, doch te verzekeren dat diplomatieke zendingen als vertegenwoordigers der staten doelmatig functioneren,Bevestigend dat de regels van het internationale gewoonterecht van toepassing dienen te blijven op aangelegenheden die door de bepalingen van dit Verdrag niet uitdrukkelijk worden geregeld,Zijn overeengekomen als volgt:
 
 ### Artikel  1  
 
@@ -681,7 +681,7 @@ De persoon van de diplomatieke ambtenaar is onschendbaar. Hij is gevrijwaard teg
 
 ### Artikel  32  
 
-1. Van de immuniteit van rechtsmacht van diplomatieke ambtenaaren en van personen die immuniteit genieten krachtens artikel 37 kan door de zendstaat afstand worden gedaan.
+1. Van de immuniteit van rechtsmacht van diplomatieke ambtenaren en van personen die immuniteit genieten krachtens artikel 37 kan door de zendstaat afstand worden gedaan.
 2. Het afstand doen van immuniteit dient altijd uitdrukkelijk kenbaar te worden gemaakt.
 3. Indien een diplomatieke ambtenaar of een persoon die krachtens artikel 37 immuniteit van rechtsmacht geniet een rechtsgeding aanvangt kan hij zich ten aanzien van een eis in reconventie die rechtstreeks verband houdt met de eis in conventie niet beroepen op immuniteit van rechtsmacht.
 4. Het afstand doen van immuniteit van rechtsmacht ten aanzien van burger- of administratiefrechtelijke procedures wordt niet geacht in te houden het afstand doen van immuniteit ten aanzien van de tenuitvoerlegging van het vonnis; hiervoor is een afzonderlijk afstand doen van immuniteit noodzakelijk.
@@ -800,7 +800,7 @@ Een zendstaat mag met de voorafgaande toestemming van een ontvangende staat en o
 
 ### Artikel  48  
 
-Dit Verdrag staat open ter ondertekening door alle staten die lid zijn van de Verenigde Naties of van een der gespecialiseerde organisaties, dan wel partij zijn bij het [Statuut van het Internationale Gerechtshof](../../../../../../../verdrag/statuut/van/het/internationaal/gerechtshof/BWBV0005509/README.md), alsmede door elke andere staat die door de Algemene Vergadering van de Verenigde Naties wordt uitgenodigd partij bij dit Verdrag te worden Tot 31 oktober 1961 staat dit Verdrag ter ondertekening open bij het Bondsministerie van Buitenlandse Zaken van Oostenrijk en na die datum, tot 31 maart 1962, bij de Verenigde Naties te New York.
+Dit Verdrag staat open ter ondertekening door alle staten die lid zijn van de Verenigde Naties of van een der gespecialiseerde organisaties, dan wel partij zijn bij het Statuut van het Internationale Gerechtshof, alsmede door elke andere staat die door de Algemene Vergadering van de Verenigde Naties wordt uitgenodigd partij bij dit Verdrag te worden Tot 31 oktober 1961 staat dit Verdrag ter ondertekening open bij het Bondsministerie van Buitenlandse Zaken van Oostenrijk en na die datum, tot 31 maart 1962, bij de Verenigde Naties te New York.
 
 ### Artikel  49  
 

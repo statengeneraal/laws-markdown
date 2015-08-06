@@ -21,7 +21,7 @@ In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon
 
 ### Artikel  2  
 
-De personen, werkzaam in de functie van medewerker Dienst Vastgoed Defensie en/of terreinopzichter in dienst van de afdeling Vastgoedbeheer van de Dienst Vastgoed Defensie, zijn aangewezen als buitengewoon opsporingsambtenaar. 
+De personen, werkzaam in de functie van medewerker Rijksvastgoedbedrijf en/of terreinopzichter in dienst van de Directie Vastgoedbeheer van het Rijksvastgoedbedrijf, zijn aangewezen als buitengewoon opsporingsambtenaar. 
 
 ### Artikel  3  
 
@@ -44,14 +44,13 @@ De buitengewoon opsporingsambtenaar kan de in artikel 7, eerste en derde lid, va
 
 ### Artikel  7  
 
-1.  De Adjunct-directeur Vastgoedbeheer van de Dienst Vastgoed Defensie brengt jaarlijks, voor 1 april, verslag uit over: 
+De Directeur Vastgoedbeheer van het Rijksvastgoedbedrijf brengt jaarlijks, voor 1 april, verslag uit over: 
 
 a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in artikel 2 genoemde functie;  
 
 b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;  
 
-c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Staatssecretaris van Veiligheid en Justitie goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.     
-2.  Dit verslag wordt toegezonden aan in artikel 5 bedoelde toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling BTR, postbus 20300, 2500 EH Den Haag.  
+c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Staatssecretaris van Veiligheid en Justitie goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.  
 
 ### Artikel  8  
 
@@ -59,7 +58,7 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Milieu en Welzijn Dienst Vastgoed Defensie 2011. 
+Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Milieu en Welzijn Directie Vastgoedbeheer van het Rijksvastgoedbedrijf 2011. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 

@@ -3,7 +3,7 @@
 ##Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten
 
 De ledenvergadering van de Nederlandse beroepsorganisatie van accountants;  
-Gelet op [artikel 19, tweede lid, aanhef en onderdeel a, van de Wet op het accountantsberoep](../../../../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);
+Gelet op artikel 19, tweede lid, aanhef en onderdeel a, van de Wet op het accountantsberoep;
 
 Overwegende dat het maatschappelijk verkeer en met name de gebruikers van assurance-opdrachten het onafhankelijk uitvoeren van een assurance-opdracht essentieel vinden;
 
@@ -21,17 +21,17 @@ Stelt de volgende verordening vast:
 
 In deze verordening en daarop berustende bepalingen wordt, voor zover niet anders is bepaald, verstaan onder: 
 
-–  *accountantsafdeling:* accountantsafdeling als bedoeld in [artikel 1 van de Verordening op de ledengroepen](../../../../../../../../../../pbo/verordening/op/de/ledengroepen/BWBR0033813/README.md);  
+–  *accountantsafdeling:* accountantsafdeling als bedoeld in artikel 1 van de Verordening op de ledengroepen;  
 
 –  *accountantseenheid:* accountantsafdeling of accountantspraktijk;  
 
-–  *accountantsorganisatie:* accountantsorganisatie als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wta](../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md);  
+–  *accountantsorganisatie:* accountantsorganisatie als bedoeld in artikel 1, eerste lid, onderdeel a, van de Wta;  
 
-–  *accountantspraktijk:* accountantspraktijk als bedoeld in [artikel 1 van de Verordening op de ledengroepen](../../../../../../../../../../pbo/verordening/op/de/ledengroepen/BWBR0033813/README.md);  
+–  *accountantspraktijk:* accountantspraktijk als bedoeld in artikel 1 van de Verordening op de ledengroepen;  
 
 –  *assurance-object:* object van onderzoek en de informatie omtrent het object van onderzoek;  
 
-–  *assurance-opdracht:* professionele dienst als bedoeld in [artikel 1 van de Verordening gedrags- en beroepsregels accountants](../../../../../../../../../../pbo/verordening/gedrags-/en/beroepsregels/accountants/BWBR0034635/README.md) waarbij een accountant een conclusie formuleert die beoogt het vertrouwen van de gebruiker niet zijnde de verantwoordelijke partij in de uitkomst van de evaluatie of de toetsing van het object van onderzoek ten opzichte van de van toepassing zijnde criteria te versterken;  
+–  *assurance-opdracht:* professionele dienst als bedoeld in artikel 1 van de Verordening gedrags- en beroepsregels accountants waarbij een accountant een conclusie formuleert die beoogt het vertrouwen van de gebruiker niet zijnde de verantwoordelijke partij in de uitkomst van de evaluatie of de toetsing van het object van onderzoek ten opzichte van de van toepassing zijnde criteria te versterken;  
 
 –   *assurance-team:*
 
@@ -67,7 +67,7 @@ b. financieel belang waarvan het economisch eigendom gehouden wordt via een coll
 
 –  *indirect financieel belang:* financieel belang waarbij het economisch eigendom gehouden wordt via een collectief investeringsvehikel, trust, of andere tussenpersoon en waarover het individu of de entiteit geen beschikkingsmacht heeft of niet de mogelijkheid heeft om investeringsbeslissingen te beïnvloeden;  
 
-–  *intern accountant:* accountant als bedoeld in [artikel 1 van de Verordening op de ledengroepen](../../../../../../../../../../pbo/verordening/op/de/ledengroepen/BWBR0033813/README.md);  
+–  *intern accountant:* accountant als bedoeld in artikel 1 van de Verordening op de ledengroepen;  
 
 –  *key assurance-partner:* eindverantwoordelijke accountant, persoon die de opdrachtgerichte kwaliteitsbeoordeling van de nog niet afgeronde assurance-opdracht uitvoert of een accountant die binnen een assurance-team mede verantwoordelijk is voor het rapporteren over belangrijke aangelegenheden;  
 
@@ -101,9 +101,9 @@ b. samenwerkingsverband van accountantsafdelingen;
 
 –  *opdrachtteam:* alle partners en andere personen die de assurance-opdracht uitvoeren, alsmede alle personen die door een accountantseenheid of een ander onderdeel van het netwerk zijn ingezet en assurance-werkzaamheden gericht op de assurance-opdracht uitvoeren. Hieronder wordt niet verstaan een externe deskundige die is ingeschakeld door de eindverantwoordelijke accountant en is ingehuurd door de accountantseenheid of een ander onderdeel van het netwerk;  
 
-–  *organisatie van openbaar belang (OOB):* entiteit als bedoeld in [artikel 1, eerste lid, onderdeel l, van de Wta](../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md);  
+–  *organisatie van openbaar belang (OOB):* entiteit als bedoeld in artikel 1, eerste lid, onderdeel l, van de Wta;  
 
-–  *overheidsaccountant:* accountant als bedoeld in [artikel 1 van de Verordening op de ledengroepen](../../../../../../../../../../pbo/verordening/op/de/ledengroepen/BWBR0033813/README.md);  
+–  *overheidsaccountant:* accountant als bedoeld in artikel 1 van de Verordening op de ledengroepen;  
 
 –  *partner:* iedere persoon met bevoegdheid om namens de accountantseenheid of het netwerk verbintenissen aan te gaan betreffende de uitvoering van een opdracht op het gebied van professionele dienstverlening;  
 
@@ -119,9 +119,9 @@ b. samenwerkingsverband van accountantsafdelingen;
 
 –  *verbonden derde:* natuurlijk of rechtspersoon die feitelijk beleidsbepalend is in de verantwoordelijke entiteit, dan wel invloed van betekenis kan uitoefenen op het zakelijke en financiële beleid van die verantwoordelijke entiteit, alsmede de huishouding waarin de verantwoordelijke entiteit feitelijk beleidsbepalend is, dan wel invloed van betekenis kan uitoefenen op het zakelijke en financiële beleid;  
 
-–  *wettelijke controle:* controle als bedoeld in [artikel 1, onderdeel p, van de Wta](../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md);  
+–  *wettelijke controle:* controle als bedoeld in artikel 1, onderdeel p, van de Wta;  
 
-–  *Wta:* [Wet toezicht accountantsorganisaties](../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md).   
+–  *Wta:* Wet toezicht accountantsorganisaties.   
 
 ### Hoofdstuk  2  
 
@@ -327,7 +327,7 @@ c. de overeengekomen maatregel wordt genomen.
 
 ### Artikel  16  
 
-1.  Het is verboden een wettelijke controle uit te voeren bij een organisatie van openbaar belang, als de accountantsorganisatie of een ander onderdeel van het netwerk andere diensten dan controlediensten als bedoeld in [artikel 24b Wta](../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) verleent aan die organisatie of een daaraan gelieerde entiteit.   
+1.  Het is verboden een wettelijke controle uit te voeren bij een organisatie van openbaar belang, als de accountantsorganisatie of een ander onderdeel van het netwerk andere diensten dan controlediensten als bedoeld in artikel 24b Wta verleent aan die organisatie of een daaraan gelieerde entiteit.   
 2.  Onder gelieerde entiteit wordt voor de toepassing van het eerste lid verstaan: 
 
 a. de rechtspersoon of vennootschap die, alleen of samen met een andere groepsmaatschappij, aan het hoofd staat van de groep waarvan de organisatie waarbij de wettelijke controle wordt uitgevoerd deel uitmaakt;  
@@ -513,7 +513,7 @@ c. deze vastlegging en de schriftelijke goedkeuring in het assurance-dossier op 
 2.  Als maatregel is de key assurance-partner gedurende twee jaren geen lid van enig assurance-team bij deze verantwoordelijke partij.   
 3.  Het eerste en tweede lid zijn van overeenkomstige toepassing als een verantwoordelijke entiteit pas na aanvang van een assurance-opdracht als organisatie van openbaar belang kwalificeert.   
 4.  In afwijking van het eerste lid mag een key assurance-partner de assurance-opdracht met betrekking tot het jaar waarin de verantwoordelijke partij voor het eerst als organisatie van openbaar belang kwalificeert afronden, ook als hij daarmee in totaal meer dan zeven aaneengesloten jaren bij die assurance-opdracht betrokken is.   
-5.  Dit artikel is niet van toepassing op de rotatieverplichting van de externe accountant, bedoeld in [artikel 24 Wta](../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md).  
+5.  Dit artikel is niet van toepassing op de rotatieverplichting van de externe accountant, bedoeld in artikel 24 Wta.  
 
 ### Hoofdstuk  8  
 
@@ -801,9 +801,9 @@ b. de accountantseenheid of een ander onderdeel van het netwerk, voor zover deze
 
 ### Artikel  47  
 
-1.  De Nadere voorschriften onafhankelijkheid intern accountant – assurance-opdrachten, vastgesteld door het bestuur van de Nederlandse Orde van Accountants-Administratieconsulenten en de [Nadere voorschriften onafhankelijkheid intern accountant – assurance-opdrachten](../../../../../../../../../../ministeriele-regeling/regeling/openstelling/wet/stimulering/zeescheepvaart/1995/BWBR0007299/README.md), vastgesteld door het bestuur van het Nederlands Instituut van Registeraccountants worden ingetrokken.   
+1.  De Nadere voorschriften onafhankelijkheid intern accountant – assurance-opdrachten, vastgesteld door het bestuur van de Nederlandse Orde van Accountants-Administratieconsulenten en de Nadere voorschriften onafhankelijkheid intern accountant – assurance-opdrachten, vastgesteld door het bestuur van het Nederlands Instituut van Registeraccountants worden ingetrokken.   
 2.  De Nadere voorschriften onafhankelijkheid openbaar accountant, vastgesteld door het bestuur van de Nederlandse Orde van Accountants-Administratieconsulenten en de Nadere voorschriften onafhankelijkheid openbaar accountant, vastgesteld door het bestuur van het Nederlands instituut van Registeraccountants worden ingetrokken.   
-3.  De Nadere voorschriften onafhankelijkheid overheidsaccountant – assurance-opdrachten, vastgesteld door het bestuur van de Nederlandse Orde van Accountants-Administratieconsulenten en de [Nadere voorschriften onafhankelijkheid overheidsaccountant – assurance-opdrachten](../../../../../../../../../../pbo/nadere/voorschriften/onafhankelijkheid/overheidsaccountant/–/etc/BWBR0026988/README.md), vastgesteld door het bestuur van het Nederlands Instituut van Registeraccountants worden ingetrokken.  
+3.  De Nadere voorschriften onafhankelijkheid overheidsaccountant – assurance-opdrachten, vastgesteld door het bestuur van de Nederlandse Orde van Accountants-Administratieconsulenten en de Nadere voorschriften onafhankelijkheid overheidsaccountant – assurance-opdrachten, vastgesteld door het bestuur van het Nederlands Instituut van Registeraccountants worden ingetrokken.  
 
 ### Hoofdstuk  15  
 
@@ -843,12 +843,12 @@ b. assurance-opdrachten die worden afgerond voor 1 januari 2016.
 a. een arbeidsrelatie als bedoeld in hoofdstuk 10 die is overeengekomen voor 17 december 2013;  
 
 b. een juridische procedure als bedoeld in artikel 45 die is aangespannen voor 17 december 2013.     
-9.  [Artikel 86a van de Wta](../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) is van overeenkomstige toepassing op de samenloop van dienstverlening als bedoeld in artikel 16.   
+9.  Artikel 86a van de Wta is van overeenkomstige toepassing op de samenloop van dienstverlening als bedoeld in artikel 16.   
 10.  In dit artikel wordt verstaan onder NVO: 
 
 a. de Nadere voorschriften onafhankelijkheid openbaar accountant (AA’s);  
 
-b. de [Nadere voorschriften onafhankelijkheid openbaar accountant](../../../../../../../../../../pbo/nadere/voorschriften/onafhankelijkheid/intern/accountant/-/etc/BWBR0026989/README.md) (RA’s);  
+b. de Nadere voorschriften onafhankelijkheid openbaar accountant (RA’s);  
 
 c. de Nadere voorschriften onafhankelijkheid intern accountant – assurance-opdrachten (AA’s);  
 
@@ -856,7 +856,7 @@ d. de Nadere voorschriften onafhankelijkheid intern accountant – assurance-opd
 
 e. de Nadere voorschriften onafhankelijkheid overheidsaccountant – assurance-opdrachten (AA’s); of  
 
-f. de [Nadere voorschriften onafhankelijkheid overheidsaccountant – assurance-opdrachten](../../../../../../../../../../pbo/nadere/voorschriften/onafhankelijkheid/overheidsaccountant/–/etc/BWBR0026988/README.md) (RA’s),   zoals deze luidden tot de inwerkingtreding van deze verordening.  
+f. de Nadere voorschriften onafhankelijkheid overheidsaccountant – assurance-opdrachten (RA’s),   zoals deze luidden tot de inwerkingtreding van deze verordening.  
 
 ### Artikel  49  
 

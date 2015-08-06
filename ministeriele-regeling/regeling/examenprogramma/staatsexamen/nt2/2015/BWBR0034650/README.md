@@ -3,7 +3,7 @@
 ##Regeling van het College voor examens van 1 oktober 2013, nummer CvE-13.02440, houdende vaststelling van het examenprogramma Staatsexamen Nederlands als tweede taal 2015 (Regeling examenprogramma Staatsexamen NT2 2015)
 
 Het College voor examens,  
-Gelet op [artikel 2, vijfde lid, aanhef en onderdeel a, van de Wet College voor examens](../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md); en het [Staatsexamenbesluit Nederlands als tweede taal artikel 10, eerste lid](../../../../../../../AMvB/staatsexamenbesluit/nederlands/als/tweede/taal/BWBR0006192/README.md).
+Gelet op artikel 2, vijfde lid, aanhef en onderdeel a, van de Wet College voor examens; en het Staatsexamenbesluit Nederlands als tweede taal artikel 10, eerste lid.
 
 Gezien de goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap, gegeven op 13 december 2013, nummer 579370;
 Besluit:    
@@ -12,23 +12,17 @@ Besluit:
 
 ####Examenprogramma Staatsexamen Nederlands als tweede taal 2015
 
-Treedt in werking per 01-01-2015 
-
 Het examenprogramma staatsexamen Nederlands als tweede taal 2015 wordt vastgesteld zoals aangegeven in de bijlage 1 bij deze regeling. 
 
 ### Artikel  2  
 
 ####Inwerkingtreding
 
-Treedt in werking per 01-01-2015 
-
 Deze regeling treedt in werking op 1 januari 2015 ten behoeve van de Staatsexamens NT2 in 2015 en vervalt per 31 december 2015. 
 
 ### Artikel  3  
 
 ####Citeertitel en bekendmaking
-
-Treedt in werking per 01-01-2015 
 
 Deze regeling wordt aangehaald als: Regeling examenprogramma Staatsexamen NT2 2015. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
@@ -40,8 +34,6 @@ H.W. Laan
 ### Bijlage 
 
 #### behorende bij artikel 1  van de Regeling examenprogramma Staatsexamen NT2 2015, van 1 oktober 2013, nummer CvE-13.002440
-
-Treedt in werking per 01-01-2015 
 
 ####Examenprogramma Staatsexamen Nederlands als tweede taal
 
@@ -57,7 +49,7 @@ b. de luistervaardigheid;
 
 c. de schrijfvaardigheid;  
 
-d. de spreekvaardigheid.   Het examenprogramma is ontleend aan de examenstof zoals omschreven in het Eindrapport van de Adviescommissie Invoering Certificaten Nederlands als Tweede Taal<sup>1</sup>. De inhoud van de opdrachten is, conform dit advies, gerelateerd aan Nederlandse opleiding- en werksituaties en aan situaties in het openbare dagelijkse leven in Nederland. Het examen doet daarmee tevens een beroep op kennis van de Nederlandse samenleving. Het Staatsexamen Nederlands als tweede taal kent, conform [artikel 2 van het Staatsexamenbesluit Nederlands als tweede taal](../../../../../../../AMvB/staatsexamenbesluit/nederlands/als/tweede/taal/BWBR0006192/README.md), twee programma’s: programma I en programma II. Programma I toetst kennis, inzicht en vaardigheden die noodzakelijk geacht worden om te kunnen functioneren in opleidingen op MBO 3 en 4-niveau en, in op dat niveau van geschoolde arbeid gelegen, functies op de arbeidsmarkt. Programma II toetst kennis, inzicht en vaardigheden die noodzakelijk geacht worden om te kunnen functioneren in het hoger onderwijs, en in middenkader en hogere functies op de arbeidsmarkt. 
+d. de spreekvaardigheid.   Het examenprogramma is ontleend aan de examenstof zoals omschreven in het Eindrapport van de Adviescommissie Invoering Certificaten Nederlands als Tweede Taal<sup>1</sup>. De inhoud van de opdrachten is, conform dit advies, gerelateerd aan Nederlandse opleiding- en werksituaties en aan situaties in het openbare dagelijkse leven in Nederland. Het examen doet daarmee tevens een beroep op kennis van de Nederlandse samenleving. Het Staatsexamen Nederlands als tweede taal kent, conform artikel 2 van het Staatsexamenbesluit Nederlands als tweede taal, twee programma’s: programma I en programma II. Programma I toetst kennis, inzicht en vaardigheden die noodzakelijk geacht worden om te kunnen functioneren in opleidingen op MBO 3 en 4-niveau en, in op dat niveau van geschoolde arbeid gelegen, functies op de arbeidsmarkt. Programma II toetst kennis, inzicht en vaardigheden die noodzakelijk geacht worden om te kunnen functioneren in het hoger onderwijs, en in middenkader en hogere functies op de arbeidsmarkt. 
 
 ### 2  
 

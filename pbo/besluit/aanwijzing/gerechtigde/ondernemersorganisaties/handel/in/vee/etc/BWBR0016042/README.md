@@ -3,13 +3,13 @@
 ##Besluit van het bestuur van het Productschap Vee en Vlees van 10 december 2003 tot aanwijzing van ondernemersorganisaties in de handel in vee die in aanmerking komen voor de Schilthuisaftrek (Besluit aanwijzing gerechtigde ondernemersorganisaties handel in vee Schilthuisaftrek (PVV) 2004)
 
 Het bestuur van het Productschap Vee en Vlees;
-Gelet op [artikel 4 van de Verordening heffing handel in vee (PVV) 2004](../../../../../../../../../../pbo/verordening/heffing/handel/in/vee/(pvv)/2004/BWBR0016039/README.md);
+Gelet op artikel 4 van de Verordening heffing handel in vee (PVV) 2004;
 Besluit:
 
 ###Artikel 1 
 Materieel uitgewerkt per 01-01-2005 
 
-Als ondernemersorganisatie als bedoeld in [artikel 4 van de Verordening heffing handel in vee (PVV) 2004](../../../../../../../../../../pbo/verordening/heffing/handel/in/vee/(pvv)/2004/BWBR0016039/README.md) worden aangewezen:
+Als ondernemersorganisatie als bedoeld in artikel 4 van de Verordening heffing handel in vee (PVV) 2004 worden aangewezen:
 
 Afdelingen Groningen, Friesland, Drenthe, Overijssel, Gelderland, Utrecht, Noord-Holland, Zuid-Holland, Zeeland, Noord-Brabant en Limburg van de Nederlandse Bond van Handelaren in Vee;
 
