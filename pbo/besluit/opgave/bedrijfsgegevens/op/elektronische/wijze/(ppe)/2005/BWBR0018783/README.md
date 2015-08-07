@@ -3,14 +3,14 @@
 ##Besluit van het bestuur van het Productschap Pluimvee en Eieren van 15 september 2005, houdende vaststelling van bepalingen omtrent opgave van bedrijfsgegevens op elektronische wijze en vaststelling van het daartoe bestemd aanmeldingsformulier (Besluit opgave bedrijfsgegevens op elektronische wijze (PPE) 2005)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op [artikel 4, vierde lid, van de Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md);
+Gelet op artikel 4, vierde lid, van de Verordening algemene bepalingen heffingen (PPE) 2005;
 
-Gezien [Afdeling 2.3 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gezien Afdeling 2.3 van de Algemene wet bestuursrecht;
 Besluit:    
 
 ### Artikel  1  
 
-Het verzoek, als bedoeld in [artikel 4, vierde lid, van de Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md), wordt ingediend met een aanmeldingsformulier volgens het in Bijlage I opgenomen model dat, volledig en naar waarheid, wordt ingevuld, ondertekend en gedagtekend. 
+Het verzoek, als bedoeld in artikel 4, vierde lid, van de Verordening algemene bepalingen heffingen (PPE) 2005, wordt ingediend met een aanmeldingsformulier volgens het in Bijlage I opgenomen model dat, volledig en naar waarheid, wordt ingevuld, ondertekend en gedagtekend. 
 
 ### Artikel  2  
 
@@ -19,7 +19,7 @@ Het verzoek, als bedoeld in [artikel 4, vierde lid, van de Verordening algemene 
 
 ### Artikel  3  
 
-1.  De ondernemer doet de opgave, als bedoeld in [artikel 4 van de Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md), op het door het productschap aangegeven elektronische adres met gebruikmaking van het aan hem verstrekte gebruikersaccount en wachtwoord.   
+1.  De ondernemer doet de opgave, als bedoeld in artikel 4 van de Verordening algemene bepalingen heffingen (PPE) 2005, op het door het productschap aangegeven elektronische adres met gebruikmaking van het aan hem verstrekte gebruikersaccount en wachtwoord.   
 2.  Het productschap bevestigt de ontvangst van het op elektronische wijze ingediende opgaveformulier.  
 
 ### Artikel  4  
@@ -69,7 +69,7 @@ U kunt het aanmeldformulier naar het productschap sturen met behulp van de inges
 
 ####Voorwaarden
 
-1. De ondernemer is bekend met de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md) en het Besluit opgave bedrijfsgegevens op elektronische wijze (PPE) 2005.  
+1. De ondernemer is bekend met de Verordening algemene bepalingen heffingen (PPE) 2005 en het Besluit opgave bedrijfsgegevens op elektronische wijze (PPE) 2005.  
 
 2. Op verzoek van de ondernemerkan het productschap het wachtwoord wijzigen of intrekken. Wijzigingen worden via e-mail bevestigd.  
 

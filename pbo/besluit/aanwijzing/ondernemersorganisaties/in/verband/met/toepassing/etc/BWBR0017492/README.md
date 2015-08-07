@@ -3,25 +3,25 @@
 ##Besluit van het bestuur van het Productschap Vee en Vlees van 10 november 2004 tot aanwijzing van ondernemersorganisaties in de veehandel, de vleeswarenindustrie en de vleesindustrie in verband met de toepassing van de Schilthuisaftrek (Besluit aanwijzing ondernemersorganisaties in verband met toepassing Schilthuisaftrek (PVV) 2005)
 
 Het bestuur van het Productschap Vee en Vlees;
-Gelet op de [artikelen 5](../../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/(pvv)/2005/BWBR0017491/README.md), [8](../../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/(pvv)/2005/BWBR0017491/README.md) en [10 van de Verordening huishoudelijke heffingen (PVV) 2005](../../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/(pvv)/2005/BWBR0017491/README.md);
+Gelet op de artikelen 5, 8 en 10 van de Verordening huishoudelijke heffingen (PVV) 2005;
 Besluit:
 
 ### Artikel  1  
 Materieel uitgewerkt per 01-01-2006 
 
-1.  Als ondernemersorganisatie in de veehandel als bedoeld in [artikel 5 van de Verordening huishoudelijke heffingen (PVV)](../../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/(pvv)/2005/BWBR0017491/README.md) worden aangewezen: 
+1.  Als ondernemersorganisatie in de veehandel als bedoeld in artikel 5 van de Verordening huishoudelijke heffingen (PVV) worden aangewezen: 
 
 Afdelingen Groningen, Friesland, Drenthe, Overijssel, Gelderland, Utrecht, Noord-Holland, Zuid-Holland, Zeeland, Noord-Brabant en Limburg van de Nederlandse Bond van Handelaren in Vee;  
 
 Centrale Bond van Paardenhandelaren in Nederland;  
 
 Centrale Vereniging voor Coöperatieve Handel.     
-2.  Als ondernemersorganisatie in de vleeswarenindustrie als bedoeld in [artikel 8 van de Verordening huishoudelijke heffingen (PVV)](../../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/(pvv)/2005/BWBR0017491/README.md) worden aangewezen: 
+2.  Als ondernemersorganisatie in de vleeswarenindustrie als bedoeld in artikel 8 van de Verordening huishoudelijke heffingen (PVV) worden aangewezen: 
 
 Vereniging voor de Nederlandse Vleeswarenindustrie;  
 
 Vereniging van Nederlandse Baconfabricanten.     
-3.  Als ondernemersorganisatie in de vleesindustrie als bedoeld in [artikel 10 van de Verordening huishoudelijke heffingen (PVV)](../../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/(pvv)/2005/BWBR0017491/README.md) worden aangewezen: 
+3.  Als ondernemersorganisatie in de vleesindustrie als bedoeld in artikel 10 van de Verordening huishoudelijke heffingen (PVV) worden aangewezen: 
 
 Centrale organisatie voor de Vleessector;  
 

@@ -147,6 +147,131 @@ Het basisbedrag, bedoeld in artikel 5.1, en de toeslagen, bedoeld in artikel 5.2
 
 De beveiliging van de gegevensverwerking, bedoeld in de artikelen 7.2.1 en 7.2.4 van de wet, voldoet aan NEN-ISO-IEC 27001 en NEN-ISO-IEC 27002 of aan daaraan gelijkwaardige normen. 
 
+### §  6a  
+
+####Verwerking persoonsgegevens ten behoeve van bekostiging
+
+### Artikel  6a.1  
+
+1.  Een jeugdhulpaanbieder, een aanbieder van preventie of een gecertificeerde instelling die voor een in de wet bedoelde dienst bij een gemeente een bedrag in rekening brengt, vermeldt daarbij de volgende gegevens: 
+
+a. gegevens ter identificatie van de aanbieder of gecertificeerde instelling, te weten van die aanbieder of instelling: 
+
+1°. naam en adres,  
+
+2°. instellingscode,  
+
+3°. praktijkcode, of  
+
+4°. zorgverlenerscode;    
+
+b. het in rekening gebrachte bedrag alsmede de wijze waarop en de termijn waarbinnen de rekening dient te worden voldaan;  
+
+c. gegevens ter identificatie van de jeugdige ten behoeve van wie de dienst is of zal worden verleend, te weten van die jeugdige: 
+
+1°. burgerservicenummer, of  
+
+2°. naam, adres en geboortedatum;    
+
+d. de datum waarop de dienstverlening is aangevangen of naar verwachting zal aanvangen;  
+
+e. de datum waarop de dienstverlening is beëindigd of naar verwachting zal eindigen;  
+
+f. het voor het gedeclareerde bedrag relevante aantal eenheden of tijdseenheden gedurende welke de diensten zijn of zullen worden verricht;  
+
+g. indien een indicatie voor of verwijzing naar de dienst voor 1 januari 2015 is afgegeven: 
+
+1°. de datum waarop de dienst is aangevangen of de dienst volgens de verwijzing of indicatie zou kunnen aanvangen,  
+
+2°. indien aangegeven: de periode waarvoor de verwijzing of de indicatie geldt;    
+
+h. indien verwijzing door een huisarts, medisch specialist of jeugdarts heeft plaatsgevonden, van de desbetreffende arts: 
+
+1°. naam en adres, of  
+
+2°. zorgverlenerscode;    
+
+i. indien in een beschikking van het college is neergelegd dat de jeugdige op de verleende dienst is aangewezen of indien een opdrachtnummer is toegekend: het nummer van de beschikking of het opdrachtnummer.     
+2.  Een gekwalificeerde gedragswetenschapper die voor een in artikel 6.1.2, zesde lid, 6.1.3, derde lid, of 6.1.4, vierde lid, van de wet bedoelde dienst een bedrag in rekening brengt, vermeldt daarbij de gegevens, bedoeld in het eerste lid, onderdelen a, b en c, alsmede om welke dienst het is gegaan, de datum waarop hij zijn dienst heeft verleend en de naam en het adres van degene in wiens opdracht hij de dienst heeft verricht.  
+
+### Artikel  6a.2  
+
+1.  Een jeugdhulpaanbieder die een jeugdige geestelijke gezondheidszorg heeft verleend of zal verlenen, vermeldt bij de declaratie naast de in artikel 6a.1, eerste lid, bedoelde gegevens de persoonsgegevens die hij ingevolge door of namens het college gemaakte afspraken dan wel gegeven instructies dient te vermelden, met dien verstande dat: 
+
+a. de persoonsgegevens die bij de declaratie worden vermeld niet meer of gedetailleerder zijn dan de persoonsgegevens, bedoeld in de Externe Integratiestandaard nummer JW 321 van Vektis,  
+
+b. voor jeugdigen die generalistische basis geestelijke gezondheidszorg hebben ontvangen geen diagnosegegevens worden vermeld,  
+
+c. voor jeugdigen die een behandeling gespecialiseerde geestelijke gezondheidszorg uit de productgroepen 'crisis', 'diagnostiek' of 'behandeling kort' hebben ontvangen geen diagnosegegevens worden vermeld, en  
+
+d. voor jeugdigen die een behandeling voor gespecialiseerde geestelijke gezondheidszorg uit een andere productgroep dan de in onderdeel c bedoelde productgroepen hebben ontvangen, de gegevens die betrekking hebben op de aan de zorg ten grondslag liggende diagnose zich beperken tot de vermelding van de in DSM-IV opgenomen diagnosehoofdgroep waartoe de diagnose behoort.     
+2.  In afwijking van het eerste lid, onderdeel d, worden geen tot de diagnose herleidbare gegevens bij de declaratie gevoegd indien de jeugdige of degene die het gezag over de jeugdige uitoefent enerzijds en de jeugdhulpaanbieder anderzijds gezamenlijk een verklaring hebben ondertekend als bedoeld in bijlage 1a, en deze verklaring uiterlijk op het moment van declaratie in het bezit van het college is gesteld.  
+
+### Artikel  6a.3  
+
+Een jeugdhulpaanbieder die andere jeugdhulp dan geestelijke gezondheidszorg of een aanbieder die preventie heeft verleend of zal verlenen, vermeldt bij de declaratie naast de in in artikel 6a.1, eerste lid, bedoelde gegevens de persoonsgegevens die hij ingevolge door of namens het college gemaakte afspraken dan wel gegeven instructies dient te vermelden, met dien verstande dat niet meer soorten persoonsgegevens worden vermeld dan de persoonsgegevens, bedoeld in de Externe Integratiestandaard nummer JW 303 van Vektis. 
+
+### Artikel  6a.4  
+
+Een gecertificeerde instelling die een kinderbeschermingsmaatregel uitvoert, vermeldt bij de declaratie naast de in artikel 6a.1, eerste lid, bedoelde gegevens of sprake is van: 
+
+a. eerste jaar ondertoezichtstelling,  
+
+b. vervolgjaren ondertoezichtstelling, of  
+
+c. voogdij.   
+
+### Artikel  6a.5  
+
+Een gecertificeerde instelling die jeugdreclassering uitvoert vermeldt bij de declaratie naast de in artikel 6a.1, eerste lid, bedoelde gegevens of sprake is van: 
+
+a. toezicht en begeleiding,  
+
+b. individuele trajectbegeleiding Harde Kern,  
+
+c. individuele trajectbegeleiding Criem,  
+
+d. scholings- en trainingsprogramma,  
+
+e. gedragsbeïnvloedende maatregel,  
+
+f. voorbereiding gedragsbeïnvloedende maatregel, of  
+
+g. samenloop met ondertoezichtstelling of voogdij, als bedoeld in artikel 6a.4.   
+
+### Artikel  6a.6  
+
+1.  Het college of een door het college aangewezen persoon verwerkt persoonsgegevens als bedoeld in de artikelen 6a.1 tot en met 6a.5, slechts voor zover zij noodzakelijk zijn ten behoeve van: 
+
+a. het verrichten van formele controle;  
+
+b. het betalen van het gedeclareerde bedrag, behalve voor zover de formele controle tot de conclusie leidt dat de betaling niet rechtmatig zou zijn;  
+
+c. het zonodig bij de declarant opvragen van nadere persoonsgegevens als bedoeld in de artikelen 6a.1 tot en met 6a.5 indien de formele controle uitwees dat betaling van de declaratie niet rechtmatig zou zijn omdat noodzakelijke gegevens ontbreken;  
+
+d. het verrichten van fraude-onderzoek.     
+2.  In het dit artikel wordt verstaan onder: 
+
+a.  *formele controle:* een onderzoek waarbij het college of een door het college aangewezen persoon nagaat of het gedeclareerde bedrag: 
+
+1°. een prestatie betreft die is geleverd ten behoeve van een jeugdige die zijn woonplaats heeft binnen de gemeente van het college;  
+
+2°. een prestatie betreft voor een in de wet bedoelde dienst;  
+
+3°. een prestatie betreft, tot levering waarvan degene die de declaratie indient jegens de gemeente bevoegd is, en  
+
+4°. overeenkomt met daartoe door of namens het college gemaakte afspraken dan wel in hoogte aansluit bij hetgeen in de Nederlandse marktkomstandigheden in redelijkheid passend is te achten.    
+
+b.  *fraude-onderzoek:* een onderzoek waarbij de college of een door het college aangewezen persoon nagaat of degene die bij de gemeente een bedrag als bedoeld in artikel 6a.1 in rekening brengt, valsheid in geschrifte, bedrog, benadeling van rechthebbenden of verduistering pleegt of tracht te plegen ten nadele van de gemeente, met het doel een betaling of ander voordeel te verkrijgen waarop hij geen recht heeft of kan hebben.     
+3.  Een jeugdhulpaanbieder, een aanbieder van preventie of een gecertificeerde instelling verstrekt het college of een door het college aangewezen persoon gegevens uit het dossier van de jeugdige voor zover dat noodzakelijk is in het kader van een door hem ingesteld fraude-onderzoek, mits die jeugdige of degene die het gezag over de jeugdige uitoefent het college schriftelijk toestemming heeft gegeven om de desbetreffende gegevens ten behoeve van dat onderzoek op te vragen.   
+4.  Het college of een door het college aangewezen persoon is bevoegd om bij de declaratie vermelde persoonsgegevens verder te verwerken voor zover dat noodzakelijk is voor de vaststelling van de ouderbijdrage, bedoeld in paragraaf 8.2 van de wet.  
+
+### Artikel  6a.7  
+
+1.  Het college bewaart in zijn administratie een afschrift van de in artikel 6a.2, tweede lid, bedoelde verklaring.   
+2.  Indien het college voor het moment van declaratie een verklaring als bedoeld in artikel 6a.2, tweede lid, heeft ontvangen en uit de declaratie van het op de desbetreffende zorg betrekking hebbende bedrag de diagnose van de jeugdige zou kunnen worden afgeleid, is het college op verzoek van de jeugdhulpaanbieder verplicht te overleggen over een afwijkende wijze van declareren, zodanig, dat de diagnose niet uit het te declareren bedrag afgeleid kan worden.   
+3.  Het college betaalt declaraties als bedoeld in artikel 6a.2, tweede lid, indien deze voor het overige aan de daarover met de jeugdhulpaanbieder gemaakte afspraken voldoen.  
+
 ### §  7  
 
 ####Beleidsinformatie
@@ -241,6 +366,39 @@ f.  *Toeslag, bedoeld in artikel 5.2, eerste lid*  De in artikel 5.2, eerste lid
 g.  *Toeslag, bedoeld in artikel 5.2, tweede lid*  De in artikel 5.2, tweede lid, bedoelde toeslag bedraagt ten hoogste € 3,51 per dag.  
 
 h.  *Indexering, bedoeld in artikel 5.4*  Bij de aanvang van ieder kalenderjaar worden het basisbedrag en de in artikel 5.2 bedoelde toeslagen geïndexeerd met het procentuele verschil tussen de door het Centraal bureau voor statistiek bekendgemaakte consumentenprijsindex ‘alle huishoudens’, over de julimaanden van twee direct aan het betreffende jaar voorafgaande jaren.   
+
+### Bijlage 1a 
+
+####behorende bij artikel 6a.2  van de Regeling Jeugdwet
+
+###PRIVACYVERKLARING gespecialiseerde jeugd-ggz
+
+Ondergetekenden:  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+|  *[patiënt: Naam]*   | .....................................  |
+|  *[patiënt: Geboortedatum]*   | .....................................  |
+|  *[patiënt: BSN]*   | .....................................  |
+|  *[patiënt: Naam ouder, andere gezagsdrager, curator of mentor indien patiënt jonger is dan 12 jaar of niet in staat kan worden geacht tot een redelijke waardering van zijn belangen]*   | .....................................  |
+| --- | --- |
+| en  | --- |
+| --- | --- |
+|  *[jeugdhulpaanbieder: Naam praktijk/instelling]*   | ...................................  |
+|  *[jeugdhulpaanbieder: Naam uitvoerder]*   | ...................................  |
+|  *[jeugdhulpaanbieder: Adres]*   | ...................................  |
+|  *[jeugdhulpaanbieder: AGB-code praktijk/instelling]*   | ...................................  |
+|  *[jeugdhulpaanbieder: AGB-code uitvoerder]*   | ...................................  |
+
+verklaren: 
+
+1. dat tussen partijen een behandelrelatie is aangegaan, waarvoor de jeugdhulpaanbieder overeenkomstig de met of namens het college van burgemeester en wethouders gemaakte afspraken een bedrag in rekening wenst te brengen;   
+### *vermelding diagnose-informatie bij de declaratie* 
+
+2. dat de patiënt of degene die het gezag over hem uitoefent er uit het oogpunt van bescherming van de persoonlijke levenssfeer van de patiënt bezwaar tegen heeft, dat gegevens die te herleiden zijn tot een door de jeugdhulpaanbieder met betrekking tot de patiënt gestelde diagnose, bij de declaratie worden vermeld;  
+
+3. dat de jeugdhulpaanbieder, in overeenstemming met artikel 6a.2, tweede lid, van de Regeling Jeugdwet vermelding van de onder 2 vermelde gegevens achterwege zal laten.   PLAATS: ......................... DATUM: ......................... Handtekening patiënt Handtekening gezagsdrager Handtekening zorgaanbieder
 
 ### Bijlage 2 
 

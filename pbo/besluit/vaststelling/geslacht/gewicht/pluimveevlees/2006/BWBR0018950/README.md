@@ -3,13 +3,13 @@
 ##Besluit van het bestuur van het Productschap Pluimvee en Eieren van 27 oktober 2005 tot vaststelling van het geslacht gewicht ter uitvoering van de Verordening bestemmingsheffingen pluimveevleessector (PPE) 2006 (Besluit vaststelling geslacht gewicht pluimveevlees 2006)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op [artikel 5, derde lid, van de Verordening huishoudelijke heffingen pluimveesector (PPE) 2006](../../../../../../../../pbo/verordening/huishoudelijke/heffingen/pluimveesector/(ppe)/2006/BWBR0018959/README.md) en [artikel 10, derde lid, van de Verordening bestemmingsheffingen pluimveevleessector (PPE) 2006](../../../../../../../../pbo/verordening/bestemmingsheffingen/pluimveevleessector/(ppe)/2006/BWBR0018948/README.md);
+Gelet op artikel 5, derde lid, van de Verordening huishoudelijke heffingen pluimveesector (PPE) 2006 en artikel 10, derde lid, van de Verordening bestemmingsheffingen pluimveevleessector (PPE) 2006;
 Besluit:    
 
 ### Artikel  1  
 Materieel uitgewerkt per 29-04-2007 
 
-Dit besluit neemt de begripsbepalingen over van de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md). 
+Dit besluit neemt de begripsbepalingen over van de Verordening algemene bepalingen heffingen (PPE) 2005. 
 
 ### Artikel  2  
 Materieel uitgewerkt per 29-04-2007 

@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw, d.d. 28 september 2004 houdende de vaststelling van het tarief van de heffing voor zaadkwekers (Besluit 2005/3 PT bloemkwekerijproducten: zaadkwekers 2005)
 
 HET BESTUUR VAN HET PRODUCTSCHAPTUINBOUW,
-gelet op [artikel 5 van de Verordening PT vakheffing bloemkwekerijproducten 2005](../../../../../../../../pbo/verordening/pt/vakheffing/bloemkwekerijproducten/2005/BWBR0016957/README.md);
+gelet op artikel 5 van de Verordening PT vakheffing bloemkwekerijproducten 2005;
 
 gehoord de Commissie voor bloemkwekerijproducten, d.d. 13 september 2004;
 BESLUIT:

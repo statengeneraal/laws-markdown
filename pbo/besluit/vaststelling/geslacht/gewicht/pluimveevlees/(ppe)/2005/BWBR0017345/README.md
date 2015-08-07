@@ -3,18 +3,18 @@
 ##Besluit van het bestuur van het Productschap Pluimvee en Eieren van 21 oktober 2004 tot vaststelling van het geslacht gewicht ter uitvoering van de Verordening huishoudelijke heffingen pluimveesector (PPE) 2005 en de Verordening bestemmingsheffingen pluimveevleessector (PPE) 2005 (Besluit vaststelling geslacht gewicht pluimveevlees (PPE) 2005)
 
 Het bestuur van het Productschap Pluimvee en Eieren;
-Gelet op [artikel 5, derde lid, van de Verordening huishoudelijke heffingen pluimveesector (PPE) 2005](../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/pluimveesector/(ppe)/2005/BWBR0017349/README.md) en [artikel 10, derde lid, van de Verordening bestemmingsheffingen pluimveevleessector (PPE) 2005](../../../../../../../../../pbo/verordening/bestemmingsheffingen/pluimveevleessector/(ppe)/2005/BWBR0017344/README.md);
+Gelet op artikel 5, derde lid, van de Verordening huishoudelijke heffingen pluimveesector (PPE) 2005 en artikel 10, derde lid, van de Verordening bestemmingsheffingen pluimveevleessector (PPE) 2005;
 Besluit:
 
 ###Artikel 1 
 Materieel uitgewerkt per 19-03-2006 
 
-Dit besluit neemt de begripsbepalingen over van de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md).
+Dit besluit neemt de begripsbepalingen over van de Verordening algemene bepalingen heffingen (PPE) 2005.
 
 ###Artikel 2 
 Materieel uitgewerkt per 19-03-2006 
 
-1. Het geslacht gewicht als bedoeld in [artikel 5, eerst lid, van de Verordening huishoudelijke heffingen pluimveesector (PPE) 2005](../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/pluimveesector/(ppe)/2005/BWBR0017349/README.md) en [artikel 10, eerste lid, van de Verordening bestemmingsheffingen pluimveevleessector (PPE) 2005](../../../../../../../../../pbo/verordening/bestemmingsheffingen/pluimveevleessector/(ppe)/2005/BWBR0017344/README.md) is ten minste gelijk aan een percentage van het levend gewicht, welk percentage voor
+1. Het geslacht gewicht als bedoeld in artikel 5, eerst lid, van de Verordening huishoudelijke heffingen pluimveesector (PPE) 2005 en artikel 10, eerste lid, van de Verordening bestemmingsheffingen pluimveevleessector (PPE) 2005 is ten minste gelijk aan een percentage van het levend gewicht, welk percentage voor
 
 | --- | --- |
 |:---|:---|

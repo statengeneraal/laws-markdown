@@ -3,12 +3,12 @@
 ##Besluit van bestuur van het Productschap Pluimvee en Eieren van 7 november 2013 tot vaststelling van het geslacht gewicht ter uitvoering van de Verordening bestemmingsheffingen pluimveevleessector (PPE) 2014 (Besluit vaststelling geslacht gewicht pluimveevlees (PPE) 2014)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op de [artikel 8, derde lid, van de Verordening huishoudelijke heffingen pluimveesector (PPE) 2014](../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/pluimveesector/(ppe)/2014/BWBR0034616/README.md) en [artikel 10, derde lid, van de Verordening bestemmingsheffingen pluimveevleessector (PPE) 2014](../../../../../../../../../pbo/verordening/bestemmingsheffingen/pluimveevleessector/(ppe)/2014/BWBR0034653/README.md);
+Gelet op de artikel 8, derde lid, van de Verordening huishoudelijke heffingen pluimveesector (PPE) 2014 en artikel 10, derde lid, van de Verordening bestemmingsheffingen pluimveevleessector (PPE) 2014;
 Besluit:    
 
 ###Artikel 1 
 
-Dit besluit neemt de begripsbepalingen over van de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md). 
+Dit besluit neemt de begripsbepalingen over van de Verordening algemene bepalingen heffingen (PPE) 2005. 
 
 ###Artikel 2 
 
