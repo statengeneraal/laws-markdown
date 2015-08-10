@@ -217,7 +217,7 @@ The Convention shall apply to seafarers serving on board sea-going ships entitle
 ####Deposit and Registration
 
 (1). The Convention shall be deposited with the Secretary-General who shall transmit certified true copies thereof to all States that have signed the Convention or acceded to it.
-(2). As soon as the Convention enters into force, the Secretary-General shall transmit the text to the Secretary-General of the United Nations for registration and publication, in accordance with [Article 102 of the Charter of the United Nations](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).
+(2). As soon as the Convention enters into force, the Secretary-General shall transmit the text to the Secretary-General of the United Nations for registration and publication, in accordance with Article 102 of the Charter of the United Nations.
 
 ### Article  XVII  
 
@@ -269,7 +269,7 @@ IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Go
 
 .15  *Propulsion power* means the total maximum continuous rated output power, in kilowatts, of all the ship’s main propulsion machinery which appears on the ship’s certificate of registry or other official document;  
 
-.16  *Radio duties* include, as appropriate, watchkeeping and technical maintenance and repairs conducted in accordance with the Radio Regulations, the [International Convention for the Safety of Life at Sea, 1974 (SOLAS)](../../../../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), as amended and, at the discretion of each Administration, the relevant recommendations of the Organization;  
+.16  *Radio duties* include, as appropriate, watchkeeping and technical maintenance and repairs conducted in accordance with the Radio Regulations, the International Convention for the Safety of Life at Sea, 1974 (SOLAS), as amended and, at the discretion of each Administration, the relevant recommendations of the Organization;  
 
 .17  *Oil tanker* means a ship constructed and used for the carriage of petroleum and petroleum products in bulk;  
 
@@ -277,9 +277,9 @@ IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Go
 
 .19  *Liquefied gas tanker* means a ship constructed or adapted and used for the carriage in bulk of any liquefied gas or other product listed in chapter 19 of the International Gas Carrier Code;  
 
-.20  *Passenger ship* means a ship as defined in the [International Convention for the Safety of Life at Sea, 1974](../../../../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), as amended;  
+.20  *Passenger ship* means a ship as defined in the International Convention for the Safety of Life at Sea, 1974, as amended;  
 
-.21  *Ro-ro passenger ship* means a passenger ship with ro-ro spaces or special category spaces as defined in the [International Convention for the Safety of Life at Sea, 1974 (SOLAS)](../../../../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), as amended;  
+.21  *Ro-ro passenger ship* means a passenger ship with ro-ro spaces or special category spaces as defined in the International Convention for the Safety of Life at Sea, 1974 (SOLAS), as amended;  
 
 .22  *Month* means a calendar month or 30 days made up of periods of less than one month;  
 
@@ -291,11 +291,11 @@ IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Go
 
 .26  *Seagoing service* means service on board a ship relevant to the issue or revalidation of a certificate or other qualification;  
 
-.27  *ISPS Code* means the International Ship and Port Facility Security (ISPS) Code adopted on 12 December 2002, by resolution 2 of the Conference of Contracting Governments to the [International Convention for the Safety of Life at Sea (SOLAS), 1974](../../../../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), as may be amended by the Organization;  
+.27  *ISPS Code* means the International Ship and Port Facility Security (ISPS) Code adopted on 12 December 2002, by resolution 2 of the Conference of Contracting Governments to the International Convention for the Safety of Life at Sea (SOLAS), 1974, as may be amended by the Organization;  
 
 .28  *Ship security officer* means the person on board the ship, accountable to the master, designated by the Company as responsible for the security of the ship including implementation and maintenance of the ship security plan and liaison with the company security officer and port facility security officers;  
 
-.29  *Security duties* include all security tasks and duties on board ships as defined by [chapter XI-2 of the International Convention for the Safety of Life at Sea](../../../../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md) (SOLAS 1974, as amended) and the International Ship and Port Facility Security (ISPS) Code;  
+.29  *Security duties* include all security tasks and duties on board ships as defined by chapter XI-2 of the International Convention for the Safety of Life at Sea (SOLAS 1974, as amended) and the International Ship and Port Facility Security (ISPS) Code;  
 
 .30  *Certificate of competency* means a certificate issued and endorsed for masters, officers and GMDSS radio operators in accordance with the provisions of chapters II, III, IV or VII of this annex and entitling the lawful holder thereof to serve in the capacity and perform the functions involved at the level of responsibility specified therein;  
 
@@ -575,7 +575,7 @@ Each Party shall ensure that:
 
 .6 the ship’s complement can effectively coordinate their activities in an emergency situation and in performing functions vital to safety, security and to the prevention or mitigation of pollution; and  
 
-.7 at all times on board its ships there shall be effective oral communication in accordance with [chapter V, regulation 14, paragraphs 3 and 4 of the International Convention for the Safety of Life at Sea, 1974 (SOLAS)](../../../../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), as amended.    
+.7 at all times on board its ships there shall be effective oral communication in accordance with chapter V, regulation 14, paragraphs 3 and 4 of the International Convention for the Safety of Life at Sea, 1974 (SOLAS), as amended.    
 
 ### Regulation  I/15  
 
@@ -715,8 +715,8 @@ Each Party shall ensure that:
 
 .4 meet the standard of competence specified in section A-II/5 of the STCW Code.     
 3.   Every Party shall compare the standards of competence which it required of Able Seamen for certificates issued before 1 January 2012 with those specified for the certificate in section A-II/5 of the STCW Code, and shall determine the need, if any, for requiring these personnel to update their qualifications.   
-4.   Until 1 January 2012, a Party which is also a Party to the International Labour Organization Certification of [Able Seamen Convention](../../../../../../../../../../../verdrag/international/labour/conference/BWBV0005436/README.md), 1946 (No. 74) may continue to issue, recognize and endorse certificates in accordance with the provisions of the aforesaid convention.   
-5.   Until 1 January 2017, a Party which is also a Party to the International Labour Organization Certification of [Able Seamen Convention](../../../../../../../../../../../verdrag/international/labour/conference/BWBV0005436/README.md), 1946 (No. 74) may continue to renew and revalidate certificates and endorsements in accordance with the provisions of the aforesaid convention.   
+4.   Until 1 January 2012, a Party which is also a Party to the International Labour Organization Certification of Able Seamen Convention, 1946 (No. 74) may continue to issue, recognize and endorse certificates in accordance with the provisions of the aforesaid convention.   
+5.   Until 1 January 2017, a Party which is also a Party to the International Labour Organization Certification of Able Seamen Convention, 1946 (No. 74) may continue to renew and revalidate certificates and endorsements in accordance with the provisions of the aforesaid convention.   
 6.   Seafarers may be considered by the Party to have met the requirements of this regulation if they have served in a relevant capacity in the deck department for a period of not less than 12 months within the last 60 months preceding the entry into force of this regulation for that Party. 
 
 ### CHAPTER  III  
@@ -855,21 +855,21 @@ Each Party shall ensure that:
 
 ####RADIOCOMMUNICATION AND RADIO OPERATORS
 
-*Explanatory note*  Mandatory provisions relating to radio watchkeeping are set forth in the Radio Regulations and in the [International Convention for the Safety of Life at Sea, 1974](../../../../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), as amended. Provisions for radio maintenance are set forth in the International Convention for the Safety of Life at Sea, 1974 (SOLAS), as amended, and the guidelines adopted by the Organization.
+*Explanatory note*  Mandatory provisions relating to radio watchkeeping are set forth in the Radio Regulations and in the International Convention for the Safety of Life at Sea, 1974, as amended. Provisions for radio maintenance are set forth in the International Convention for the Safety of Life at Sea, 1974 (SOLAS), as amended, and the guidelines adopted by the Organization.
 
 ### Regulation IV/1 
 
 ####Application
 
-1.   Except as provided in paragraph 2, the provisions of this chapter apply to radio operators on ships operating in the global maritime distress and safety system (GMDSS) as prescribed by the [International Convention for the Safety of Life at Sea, 1974](../../../../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), as amended.   
-2.   Radio operators on ships not required to comply with the provisions of the GMDSS in [chapter IV of the SOLAS Convention](../../../../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md) are not required to meet the provisions of this chapter. Radio operators on these ships are, nevertheless, required to comply with the Radio Regulations. The Administration shall ensure that the appropriate certificates as prescribed by the Radio Regulations are issued to or recognized in respect of such radio operators.  
+1.   Except as provided in paragraph 2, the provisions of this chapter apply to radio operators on ships operating in the global maritime distress and safety system (GMDSS) as prescribed by the International Convention for the Safety of Life at Sea, 1974, as amended.   
+2.   Radio operators on ships not required to comply with the provisions of the GMDSS in chapter IV of the SOLAS Convention are not required to meet the provisions of this chapter. Radio operators on these ships are, nevertheless, required to comply with the Radio Regulations. The Administration shall ensure that the appropriate certificates as prescribed by the Radio Regulations are issued to or recognized in respect of such radio operators.  
 
 ### Regulation  IV/2  
 
 ####Mandatory minimum requirements for certification of GMDSS radio operators
 
 1.   Every person in charge of or performing radio duties on a ship required to participate in the GMDSS shall hold an appropriate certificate related to the GMDSS, issued or recognized by the Administration under the provisions of the Radio Regulations*. *    
-2.   In addition, every candidate for certification of competency under this regulation for service on a ship, which is required by the [International Convention for the Safety of Life at Sea, 1974](../../../../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), as amended, to have a radio installation, shall: 
+2.   In addition, every candidate for certification of competency under this regulation for service on a ship, which is required by the International Convention for the Safety of Life at Sea, 1974, as amended, to have a radio installation, shall: 
 
 .1 be not less than 18 years of age; and  
 
@@ -1322,7 +1322,7 @@ Het Verdrag is van toepassing op zeevarenden, dienst doende aan boord van zeesch
 ####Nederlegging en registratie
 
 1. Het Verdrag wordt nedergelegd bij de Secretaris-Generaal die voor eensluidend gewaarmerkte afschriften daarvan toezendt aan alle Staten die het hebben ondertekend of ertoe zijn toegetreden.
-2. Zodra dit Verdrag in werking treedt, zendt de Secretaris-Generaal de tekst aan de Secretaris-Generaal van de Verenigde Naties voor registratie en publikatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).
+2. Zodra dit Verdrag in werking treedt, zendt de Secretaris-Generaal de tekst aan de Secretaris-Generaal van de Verenigde Naties voor registratie en publikatie overeenkomstig artikel 102 van het Handvest van de Verenigde Naties.
 
 ### Artikel  XVII  
 
@@ -1374,7 +1374,7 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd door hun on
 
 .15 *Voortstuwingsvermogen*: het maximum nominale totaalvermogen in kilowatts van alle hoofdvoortstuwingsinstallaties van het schip, vermeld in de zeebrief van het schip of in een ander officieel document;  
 
-.16 *Radiowerkzaamheden*: naar gelang van het geval, de luisterwacht alsmede het technisch onderhoud en de technische reparatiewerkzaamheden overeenkomstig de bepalingen van het Radioreglement, het [Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974 ](../../../../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md)(SOLAS), zoals gewijzigd en, ter beoordeling van de onderscheiden Administraties, de desbetreffende aanbevelingen van de Organisatie;  
+.16 *Radiowerkzaamheden*: naar gelang van het geval, de luisterwacht alsmede het technisch onderhoud en de technische reparatiewerkzaamheden overeenkomstig de bepalingen van het Radioreglement, het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974 (SOLAS), zoals gewijzigd en, ter beoordeling van de onderscheiden Administraties, de desbetreffende aanbevelingen van de Organisatie;  
 
 .17 *Olietankschip*: een schip gebouwd en gebruikt voor het vervoer van aardolie en aardolieproducten in bulk;  
 
@@ -1382,9 +1382,9 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd door hun on
 
 .19 *Vloeibaar-gas-tankschip*: een schip gebouwd of verbouwd en gebruikt voor het vervoer in bulk van vloeibare gassen of andere producten opgenomen in hoofdstuk 19 van de Internationale Code inzake het vervoer van vloeibaar gas (International Gas Carrier Code);  
 
-.20 *Passagiersschip*: een schip zoals omschreven in het [Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974](../../../../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), (SOLAS), zoals gewijzigd;  
+.20 *Passagiersschip*: een schip zoals omschreven in het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, (SOLAS), zoals gewijzigd;  
 
-.21 *Ro-ro-passagiersschip*: een passagiersschip met ro-ro ruimten of ruimten van bijzondere aard zoals omschreven in het [Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974](../../../../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md) (SOLAS), zoals gewijzigd;  
+.21 *Ro-ro-passagiersschip*: een passagiersschip met ro-ro ruimten of ruimten van bijzondere aard zoals omschreven in het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974 (SOLAS), zoals gewijzigd;  
 
 .22 *Maand*: een kalendermaand of een periode van 30 dagen samengesteld uit perioden van minder dan een maand;  
 
@@ -1400,7 +1400,7 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd door hun on
 
 .28 *Scheepbeveiligingsfunctionaris*: de functionaris die aan de kapitein verantwoording aflegt en die door de scheepsbeheerder is aangesteld als verantwoordelijke voor de beveiliging van het schip, waaronder begrepen de uitvoering en het onderhoud van het scheepsbeveiligingsplan en voor de contacten met de beveiligingsfunctionaris van de zeescheepvaartonderneming en de beveiligingsfunctionarissen van de havenfaciliteiten;  
 
-.29 *Beveiligingstaken*: alle beveiligingstaken en plichten aan boord van schepen zoals omschreven in [hoofdstuk XI-2 van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974](../../../../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md) (SOLAS, zoals gewijzigd) en de Internationale Code voor de beveiliging van schepen en havenfaciliteiten (ISPS);  
+.29 *Beveiligingstaken*: alle beveiligingstaken en plichten aan boord van schepen zoals omschreven in hoofdstuk XI-2 van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974 (SOLAS, zoals gewijzigd) en de Internationale Code voor de beveiliging van schepen en havenfaciliteiten (ISPS);  
 
 .30 *Vaarbevoegdheidsbewijs*: een bewijs afgegeven en voorzien van een officiële verklaring voor kapiteins, officieren en GMDSS-radio-operators in overeenstemming met de bepalingen van de hoofdstukken II, III, IV of VII van deze Bijlage en op grond waarvan de rechtmatige houder ervan het recht heeft dienst te doen in de daarin omschreven hoedanigheid en de bijbehorende functies te vervullen op het daarin omschreven verantwoordelijkheidsniveau;  
 
@@ -1680,7 +1680,7 @@ Elke Partij waarborgt dat:
 
 .6 de voltallige bemanning van het schip in een noodsituatie en bij het vervullen van functies die van vitaal belang zijn voor de veiligheid, beveiliging of voor het voorkomen of verminderen van verontreiniging, haar werkzaamheden doeltreffend kan coördineren; en  
 
-.7 er aan boord van haar schepen te allen tijde doeltreffende mondelinge communicatie mogelijk is in overeenstemming met [hoofdstuk V, voorschrift 14, leden 3 en 4, van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974](../../../../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md) (SOLAS), zoals gewijzigd.    
+.7 er aan boord van haar schepen te allen tijde doeltreffende mondelinge communicatie mogelijk is in overeenstemming met hoofdstuk V, voorschrift 14, leden 3 en 4, van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974 (SOLAS), zoals gewijzigd.    
 
 ### Voorschrift  I/15  
 
@@ -1818,8 +1818,8 @@ Elke Partij waarborgt dat:
 
 .4 voldoen aan de normen van vaarbevoegdheid omschreven in sectie A-II/5 van de STCW-Code.     
 3.  Elke Partij vergelijkt de eisen van bekwaamheid die zij stelde aan gekwalificeerde gezellen voor bewijzen afgegeven vóór 1 januari 2012 met de eisen voorgeschreven voor het desbetreffende bewijs in sectie A-II/5 van de STCW-Code en onderzoekt of het noodzakelijk is van deze gezellen te verlangen dat zij zich laten bijscholen.   
-4.  Tot 1 januari 2012 kan een Partij die tevens Partij is bij het [Verdrag van de Internationale Arbeidsorganisatie betreffende bewijzen van bekwaamheid als volmatroos](../../../../../../../../../../../verdrag/international/labour/conference/BWBV0005436/README.md), 1946 (No. 74), bewijzen blijven afgeven, erkennen en voorzien van een officiële verklaring in overeenstemming met de bepalingen van voornoemd verdrag.   
-5.  Tot 1 januari 2017 kan een Partij die tevens Partij is bij het [Verdrag van de Internationale Arbeidsorganisatie betreffende bewijzen van bekwaamheid als volmatroos](../../../../../../../../../../../verdrag/international/labour/conference/BWBV0005436/README.md), 1946 (No. 74) de geldigheid van bewijzen en officiële verklaringen blijven verlengen in overeenstemming met de bepalingen van voornoemd verdrag.   
+4.  Tot 1 januari 2012 kan een Partij die tevens Partij is bij het Verdrag van de Internationale Arbeidsorganisatie betreffende bewijzen van bekwaamheid als volmatroos, 1946 (No. 74), bewijzen blijven afgeven, erkennen en voorzien van een officiële verklaring in overeenstemming met de bepalingen van voornoemd verdrag.   
+5.  Tot 1 januari 2017 kan een Partij die tevens Partij is bij het Verdrag van de Internationale Arbeidsorganisatie betreffende bewijzen van bekwaamheid als volmatroos, 1946 (No. 74) de geldigheid van bewijzen en officiële verklaringen blijven verlengen in overeenstemming met de bepalingen van voornoemd verdrag.   
 6.  Zeevarenden kunnen door de Partij geacht worden aan de eisen van dit voorschrift te voldoen, indien zij in een desbetreffende hoedanigheid dekdienst hebben gedaan gedurende een periode van ten minste 12 maanden in de laatste 60 maanden voorafgaande aan de inwerkingtreding van dit voorschrift voor die Partij.  
 
 ### HOOFDSTUK  III  
@@ -1957,21 +1957,21 @@ Elke Partij waarborgt dat:
 
 ####RADIOCOMMUNICATIE EN RADIO-OPERATORS
 
-*Verklarende noot: *Dwingende bepalingen inzake de radioluisterwacht zijn opgenomen in het Radioreglement en in het [Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974](../../../../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), zoals gewijzigd. Bepalingen inzake het onderhoud van radioapparatuur zijn opgenomen in het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974 (SOLAS), zoals gewijzigd, en in de door de Organisatie aangenomen richtlijnen.
+*Verklarende noot: *Dwingende bepalingen inzake de radioluisterwacht zijn opgenomen in het Radioreglement en in het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, zoals gewijzigd. Bepalingen inzake het onderhoud van radioapparatuur zijn opgenomen in het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974 (SOLAS), zoals gewijzigd, en in de door de Organisatie aangenomen richtlijnen.
 
 ### Voorschrift  IV/1 
 
 ####Toepassing
 
-1.  Uitgezonderd de bepalingen van lid 2, zijn de bepalingen van dit hoofdstuk van toepassing op radio-operators aan boord van schepen die deelnemen in het Wereldomvattend Maritieme Systeem voor Noodgevallen en Veiligheid (GMDSS), zoals voorgeschreven door het [Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974](../../../../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), zoals gewijzigd.   
-2.  Radio-operators op schepen van wie niet verlangd wordt dat zij voldoen aan de bepalingen van het GMDSS in [hoofdstuk IV van het SOLAS-Verdrag](../../../../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), behoeven niet aan de bepalingen van dit hoofdstuk te voldoen. Van radio-operators op deze schepen wordt niettemin verlangd dat zij voldoen aan de bepalingen van het Radioreglement. De Administratie waarborgt dat aan deze radio-operators belast met het radioverkeer de desbetreffende bewijzen zoals voorgeschreven in het Radioreglement worden afgegeven of erkend.  
+1.  Uitgezonderd de bepalingen van lid 2, zijn de bepalingen van dit hoofdstuk van toepassing op radio-operators aan boord van schepen die deelnemen in het Wereldomvattend Maritieme Systeem voor Noodgevallen en Veiligheid (GMDSS), zoals voorgeschreven door het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, zoals gewijzigd.   
+2.  Radio-operators op schepen van wie niet verlangd wordt dat zij voldoen aan de bepalingen van het GMDSS in hoofdstuk IV van het SOLAS-Verdrag, behoeven niet aan de bepalingen van dit hoofdstuk te voldoen. Van radio-operators op deze schepen wordt niettemin verlangd dat zij voldoen aan de bepalingen van het Radioreglement. De Administratie waarborgt dat aan deze radio-operators belast met het radioverkeer de desbetreffende bewijzen zoals voorgeschreven in het Radioreglement worden afgegeven of erkend.  
 
 ### Voorschrift  IV/2  
 
 ####Verplichte minimumeisen inzake vaarbevoegdheidsverlening als GMDSS-radio-operator
 
 1.  Iedere persoon die belast is met radiotaken op een schip dat verplicht is aan het GMDSS deel te nemen, dient in het bezit te zijn van een passend bewijs dat betrekking heeft op het GMDSS en dat is afgegeven of erkend door de Administratie krachtens de bepalingen van het Radioreglement.   
-2.  Kandidaten voor een vaarbevoegdheidsbewijs krachtens dit voorschrift om dienst te kunnen doen aan boord van een schip dat volgens het [Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974](../../../../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), zoals gewijzigd, dient te zijn uitgerust met een radio-installatie: 
+2.  Kandidaten voor een vaarbevoegdheidsbewijs krachtens dit voorschrift om dienst te kunnen doen aan boord van een schip dat volgens het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, zoals gewijzigd, dient te zijn uitgerust met een radio-installatie: 
 
 .1 zijn niet jonger dan 18 jaar; en  
 

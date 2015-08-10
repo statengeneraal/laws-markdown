@@ -448,15 +448,17 @@ b. de inspectie voor zover deze gegevens noodzakelijk zijn voor het uitoefenen v
 
 ####Gebruik persoonsgebonden nummer door openbaar lichaam
 
-Treedt in werking per 01-08-2015 
+Treedt in werking op een nader te bepalen tijdstip 
 
-Onverminderd het overigens bij of krachtens de wet bepaalde omtrent het gebruik van het persoonsgebonden nummer BES door het openbaar lichaam, gebruikt het openbaar lichaam het persoonsgebonden nummer BES van een leerplichtige en kwalificatieplichtige deelnemer of een persoon als bedoeld in artikel 8.1.8, eerste lid, uitsluitend ten behoeve van: 
+Onverminderd het overigens bij of krachtens de wet bepaalde omtrent het gebruik van het persoonsgebonden nummer BES door het openbaar lichaam, gebruikt het openbaar lichaam het persoonsgebonden nummer BES van een deelnemer aan een beroepsopleiding of een voortijdige schoolverlater als bedoeld in artikel 8.3.1 uitsluitend ten behoeve van: 
 
-a. het toezicht op de naleving van de Leerplichtwet BES;  
+a. een registratie van leerplichtige jongeren in het belang van het toezicht op de naleving van de Leerplichtwet BES,  
 
-b. de uitvoering van de Wet sociale kanstrajecten jongeren BES;  
+b. de registratie van gegevens van voortijdige schoolverlaters, bedoeld in artikel 8.3.2, tweede lid, eerste volzin,  
 
-c. de verwerking van de gegevens, bedoeld in 24f, derde en vierde lid, van de Wet op het onderwijstoezicht.  
+c. het systeem van doorverwijzing van voortijdige schoolverlaters naar onderwijs of arbeidsmarkt, bedoeld in artikel 8.3.2, tweede lid, tweede en derde volzin, en  
+
+d. de verwerking van de gegevens, bedoeld in 24f, derde en vierde lid, van de Wet op het onderwijstoezicht, bij de registraties, bedoeld in onderdeel a, en het systeem van doorverwijzing, bedoeld in onderdeel b.   
 
 ### Artikel  2.3.8  
 
@@ -466,7 +468,7 @@ Onze Minister kan naast het deskundigenonderzoek, bedoeld in artikel 2.3.1, vier
 
 ### Artikel  2.3.10  
 
-####Controleprotocol
+####Accountantsprotocol
 
 Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven omtrent de controle van de boekhouding, de jaarrekening en de administratie van de instellingen. 
 
@@ -579,7 +581,7 @@ a. het expertisecentrum onderwijszorg, en
 
 b. een ander bevoegd gezag van een instelling of school als bedoeld in de Wet primair onderwijs BES of de Wet voortgezet onderwijs BES.     
 5.  Per openbaar lichaam is er één expertisecentrum onderwijszorg.   
-6.  Het expertisecentrum onderwijszorg treft een regeling voor de behandeling van klachten over gedragingen en beslissingen van het bestuur van dit centrum of het personeel, waaronder discriminatie, dan wel het nalaten van gedragingen en het niet nemen van beslissingen door het bestuur of het personeel voor zover het betreft zijn onderscheidenlijk hun werkzaamheden in het kader van het onderwijsproces of de deskundige ondersteuning, bedoeld in het eerste lid.   
+6.  Het expertisecentrum onderwijszorg treft een regeling voor de behandeling van klachten over gedragingen en beslissingen van het bestuur van dit centrum of het personeel, waaronder discriminatie, dan wel het nalaten van gedragingen en het niet nemen van beslissingen door het bestuur of het personeel voor zover het betreft zijn onderscheidenlijk hun werkzaamheden in het kader van het onderwijsproces of de deskundige ondersteuning, bedoeld in het eerste lid. Artikel 52 van de Wet voortgezet onderwijs BES is op deze regeling van overeenkomstige toepassing.   
 7.  Bij ministeriële regeling kunnen voorschriften worden gegeven over de taken van het expertisecentrum onderwijszorg.  
 
 ### Artikel  3.5  
@@ -784,7 +786,7 @@ Tot lid van het personeel, anders dan bedoeld in de artikelen 4.2.1 en 4.2.2, ka
 
 1.  Het bevoegd gezag stelt een representatief te achten vertegenwoordiging van ouders, leerlingen en personeel ten minste twee maal per jaar in de gelegenheid de algemene gang van zaken in de instelling met hem te bespreken.   
 2.  Het bevoegd gezag en de vertegenwoordigers van ouders, leerlingen en personeel komen bijeen indien daarom onder opgave van redenen door het bevoegd gezag, de vertegenwoordigers van ouders of de vertegenwoordigers van personeel wordt verzocht. De besprekingen kunnen namens het bevoegd gezag worden gevoerd.   
-3.  Indien een beroepsopleiding wordt verzorgd aan een scholengemeenschap als bedoeld in artikel 123 van de Wet voortgezet onderwijs BES, is artikel 18 van die wet van toepassing.  
+3.  Indien een beroepsopleiding wordt verzorgd aan een scholengemeenschap als bedoeld in artikel 123 van de Wet voortgezet onderwijs BES, is artikel 57 van die wet van toepassing.  
 
 ### Hoofdstuk  6  
 
@@ -852,8 +854,6 @@ b. niet of niet meer wordt voldaan aan de voorwaarden, bedoeld in artikel 1.4.2,
 ### Artikel  6.2.2a  
 
 ####Ontneming recht op examinering educatie; waarschuwing
-
-Treedt in werking per 01-08-2015 
 
 1.  Onze Minister kan aan een instelling het recht op examinering van een opleiding educatie als bedoeld in artikel 7.3.1, eerste lid, onderdeel a, ontnemen, indien 
 
@@ -1295,7 +1295,7 @@ De leden van de examencommissie en de examinatoren verstrekken aan de commissie 
 
 ### Hoofdstuk  8  
 
-####Inschrijving, vooropleidingseisen en voortijdig schoolverlaten
+####Inschrijving, vooropleidingseisen en melding voortijdig schoolverlaten
 
 ### Titel  1  
 
@@ -1441,7 +1441,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 1.  Het bevoegd gezag doet onverwijld opgave aan het bestuurscollege van het openbaar lichaam waar de betrokkene woon- of verblijfplaats heeft van de gegevens van degene: 
 
-a. op wie de Leerplichtwet BES niet meer van toepassing is en die de leeftijd van 23 jaren nog niet heeft bereikt,  
+a. op wie de Leerplichtwet BES niet meer van toepassing is en die de leeftijd van 25 jaren nog niet heeft bereikt,  
 
 b. die niet in het bezit is van een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen b tot en met e, dan wel een diploma voorbereidend wetenschappelijk onderwijs of hoger algemeen voortgezet onderwijs als bedoeld in artikel 13 onderscheidenlijk 14 van de Wet voortgezet onderwijs BES, en  
 
@@ -1501,37 +1501,7 @@ e. een ander bij ministeriële regeling aangewezen diploma of bewijsstuk.   Indi
 
 ####Bestrijding voortijdig schoolverlaten niet-leerplichtigen
 
-### Artikel  8.3.1  
-
-####Voortijdige schoolverlater
-
-1.  Onder een voortijdige schoolverlater in de zin van deze titel wordt verstaan degene op wie artikel 8.1.8, eerste lid onder a en b, van toepassing is en 
-
-a. die het onderwijs aan de instelling waaraan hij is ingeschreven gedurende een aaneengesloten periode van ten minste een maand of een door het bevoegd gezag te bepalen kortere periode zonder geldige reden niet meer volgt, of  
-
-b. die niet meer aan een instelling is ingeschreven en evenmin is ingeschreven aan een school als bedoeld in de Wet voortgezet onderwijs BES.     
-2.  Voor zover nodig in afwijking van het eerste lid wordt onder een voortijdig schoolverlater niet verstaan degene die in het bezit is van een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid onderdeel a, dan wel een getuigschrift van het praktijkonderwijs als bedoeld in artikel 31 van de Wet voortgezet onderwijs BES en werkzaam is op grond van een aanstelling of arbeidsovereenkomst.  
-
-### Artikel  8.3.2  
-
-####Bestrijding voortijdig schoolverlaten door openbaar lichaam
-
-1.  Het bevoegd gezag meldt onverwijld voortijdige schoolverlaters aan het bestuurscollege, voor zover het bevoegd gezag dat niet op grond van artikel 8.1.8 heeft gedaan.   
-2.  Het bestuurscollege draagt ten behoeve van doorverwijzing naar onderwijs of arbeidsmarkt zorg voor registratie van de gegevens die het bevoegd gezag ingevolge het eerste lid of artikel 8.1.8 heeft gemeld, of waarover het bestuurscollege op grond van artikel 24f, derde en vierde lid, van de Wet op het onderwijstoezicht beschikt. Het systeem heeft mede betrekking op de gegevens waarover het openbaar lichaam beschikt in het kader van de uitvoering van de Leerplichtwet BES.   
-3.  Het bestuurscollege maakt afspraken met instellingen, scholen als bedoeld in de Wet voortgezet onderwijs BES en organisaties die zijn betrokken bij het voorkomen en bestrijden van voortijdig schoolverlaten.   
-4.  Ter tegemoetkoming in de kosten van uitvoering van het tweede en derde lid kent Onze Minister binnen het raam van de door de begrotingswetgever beschikbaar gestelde middelen jaarlijks uiterlijk in september ten behoeve van de activiteiten het bestuurscollege een bijzondere uitkering als bedoeld in artikel 91 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba toe. Deze uitkering heeft betrekking op het daarop volgende kalenderjaar. Bij ministeriële regeling worden regels gegeven voor de berekening en betaling van de uitkering.   
-5.  Het bevoegd gezag geeft aan de door het bestuurscollege aangewezen personen alle gevraagde bescheiden ter inzage en verstrekt de gevraagde inlichtingen die van belang zijn voor het voorkomen en bestrijden van voortijdig schoolverlaten.   
-6.  De eilandsraad stelt streefcijfers vast voor de te behalen resultaten. Het bestuurscollege stelt jaarlijks een effectrapportage vast waarin zowel de streefcijfers als de bereikte resultaten zijn aangegeven en waarin afwijkingen worden toegelicht.   
-7.  Indien het bestuurscollege het bepaalde bij of krachtens het eerste tot en met zesde lid niet nakomt, kan Onze Minister de uitkering geheel of gedeeltelijk inhouden of opschorten. Onze Minister gaat niet over tot gehele of gedeeltelijke inhouding dan na overleg met het bestuurscollege. Onze Minister kan de uitkering wederom toekennen indien de reden voor inhouding of opschorting is vervallen.   
-8.  Onze Minister kan de in het vierde lid bedoelde uitkering geheel of gedeeltelijk terugvorderen indien niet uit de informatie, verstrekt krachtens artikel 214 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba, blijkt dat de uitkering is besteed in overeenstemming met dit artikel.  
-
-### Artikel  8.3.3  
-
-####Informatie over voortijdig schoolverlaten
-
-1.  Het bestuurscollege zendt de in artikel 8.3.2, zesde lid, bedoelde effectrapportage aan Onze Minister.   
-2.  Het bestuurscollege is gehouden aan de door Onze Minister aangewezen personen alle gevraagde bescheiden ter inzage te geven en de gevraagde inlichtingen te verstrekken die van belang zijn voor het door Onze Minister te voeren beleid met betrekking tot het voortijdig schoolverlaten door niet-leerplichtigen.   
-3.  Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent het tijdstip van indiening en de inrichting van de effectrapportage en inzake de wijze van beschikbaarstelling van de gegevens, bedoeld in het tweede lid.  
+Vervallen per 01-08-2015 
 
 ### Titel  4  
 
@@ -1707,12 +1677,6 @@ Onverminderd artikel 4.2.1, eerste lid, onderdelen a en d, kunnen in afwijking v
 Treedt in werking op een nader te bepalen tijdstip 
 
 Een beslissing als bedoeld in artikel 7.6.1, derde lid, van een bevoegd gezag van een openbare school geldt als een beschikking als bedoeld in artikel 3 van de Wet administratieve rechtspraak BES. 
-
-### Artikel  11.6  
-
-####Bestrijding voortijdig schoolverlaten
-
-Wijzigt deze wet. 
 
 ### Artikel  11.6a  
 

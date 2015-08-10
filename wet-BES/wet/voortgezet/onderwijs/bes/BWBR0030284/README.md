@@ -163,16 +163,20 @@ Onderwijs in lichamelijke opvoeding, bestaande uit praktische bewegingsactivitei
 
 ####Onderwijstijd
 
-1.  Een in schooltijd verzorgd samenhangend onderwijsprogramma als bedoeld in de artikelen 16, tweede lid, 18, tweede lid, 29, tweede lid, 35, eerste lid, en 38, vijfde lid, tweede volzin, omvat voor iedere leerling in elk leerjaar ten minste 1000 uren, met dien verstande dat het programma in de eerste twee leerjaren per leerjaar ten minste 1040 uren omvat en in het laatste leerjaar ten minste 700 uren omvat. Tot de uren, bedoeld in de eerste volzin, worden tevens gerekend ten hoogste 60 uren, die alleen voor een specifieke groep leerlingen verplicht zijn en worden ingevuld met onderwijsactiviteiten gericht op excellentie, achterstand of ander maatwerk.   
-2.  Het bevoegd gezag beschikt over geordende gegevens met betrekking tot de toepassing van het eerste lid.   
-3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven over de gegevens omtrent de invulling van de uren en de in een onderwijsprogramma verzorgde activiteiten.   
-4.  Ten behoeve van het verrichten van andere taken dan het verzorgen van onderwijs stelt het bevoegd gezag jaarlijks de data vast van ten hoogste negen werkdagen waarop geen onderwijs behoeft te worden verzorgd, waarvan ten hoogste zes werkdagen onmiddellijk aansluitend en ten hoogste vijf werkdagen niet onmiddellijk aansluitend voor of na de voor de school op grond van artikel 45, tweede lid, vastgestelde grote vakantie.  
+1.  Voorbereidend wetenschappelijk onderwijs aan scholen als bedoeld in artikel 13, omvat ten minste 5.700 klokuren.   
+2.  Hoger algemeen voortgezet onderwijs: 
+
+a. aan scholen als bedoeld in artikel 14, onderdeel a, omvat ten minste 4.700 klokuren;  
+
+b. aan afdelingen als bedoeld in artikel 14, onderdeel b, omvat ten minste 1.700 klokuren.     
+3.  Middelbaar algemeen voortgezet onderwijs aan scholen als bedoeld in artikel 15, omvat ten minste 3.700 klokuren.   
+4.  Voorbereidend beroepsonderwijs aan scholen als bedoeld in artikel 17, omvat ten minste 3.700 klokuren.   
+5.  Het bevoegd gezag vult de uren in met activiteiten die worden verzorgd in een onderwijsprogramma als bedoeld in de artikelen 16, tweede lid, 18, tweede lid, 29, tweede lid, 35, eerste lid en 38, vijfde lid, tweede volzin.   
+6.  Het bevoegd gezag beschikt over geordende gegevens over die invulling en over de spreiding van de uren over de verschillende leerjaren.  
 
 ### Artikel  12b  
 
 ####Onderwijsdagen
-
-Treedt in werking per 01-08-2015 
 
 1.  In elk schooljaar wordt op ten minste 189 dagen onderwijs verzorgd.   
 2.  In afwijking van het in het eerste lid genoemde aantal dagen behoeft in het laatste leerjaar geen onderwijs te worden verzorgd vanaf de aanvang van het eerste tijdvak waarin het centraal eindexamen wordt afgenomen.   
@@ -565,8 +569,8 @@ a. overwegend een orthopedagogische en orthodidactische benadering is geboden, e
 
 b. het volgen van het onderwijs in een van de leerwegen, genoemd in de artikelen 16, 18 en 29, al dan niet in combinatie met het volgen van leerwegondersteunend onderwijs, bedoeld in artikel 30, niet leidt tot het behalen van een diploma of een getuigschrift voorbereidend middelbaar beroepsonderwijs als bedoeld in artikel 72.     
 3.  Praktijkonderwijs bestaat uit een gedeelte waarin aangepast theoretisch onderwijs, persoonlijkheidsvorming en het aanleren van sociale vaardigheden worden verzorgd, en een gedeelte waarin de leerling wordt voorbereid op het uitoefenen van functies op de arbeidsmarkt. Praktijkonderwijs wordt zo veel mogelijk op basis van de kerndoelen verzorgd en is er op gericht dat leerlingen zo veel mogelijk de referentieniveaus Nederlandse taal en rekenen bereiken die voor het praktijkonderwijs zijn vastgesteld op grond van artikel 47a. Praktijkonderwijs bereidt de leerling voor op functies binnen de regionale arbeidsmarkt op een niveau dat ligt onder het niveau van de assistentopleiding, bedoeld in artikel 7.2.2, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs BES.   
-4.  In afwijking van artikel 12a, eerste lid, wordt het praktijkonderwijs zodanig ingericht dat de leerlingen per leerjaar ten minste 1 000 klokuren praktijkonderwijs ontvangen. De leerlingen ontvangen per dag ten hoogste 5,5 uren praktijkonderwijs, voor zover het betreft aangepast theoretisch onderwijs, persoonlijkheidsvorming en het aanleren van sociale vaardigheden.   
-5.  Het bevoegd gezag van een school voor praktijkonderwijs kan, met inachtneming van de tweede volzin van het derde lid en van het vierde lid, indien dat ten behoeve van de leerling noodzakelijk is, bij het aanbieden van dat onderwijs afwijken van de voorschriften, gegeven bij of krachtens de artikelen 33 tot en met 35, 46 en 72.   
+4.  Het praktijkonderwijs wordt zodanig ingericht dat de leerlingen per leerjaar ten minste 1 000 klokuren praktijkonderwijs ontvangen. De leerlingen ontvangen per dag ten hoogste 5,5 uren praktijkonderwijs, voor zover het betreft aangepast theoretisch onderwijs, persoonlijkheidsvorming en het aanleren van sociale vaardigheden.   
+5.  Het bevoegd gezag van een school voor praktijkonderwijs kan, met inachtneming van de tweede volzin van het derde lid en van het vierde lid, indien dat ten behoeve van de leerling noodzakelijk is, bij het aanbieden van dat onderwijs afwijken van de voorschriften, gegeven bij of krachtens de artikelen 12a, 33 tot en met 35, 46 en 72.   
 6.  Bij algemene maatregel van bestuur worden voorschriften vastgesteld met betrekking tot de vakken die het praktijkonderwijs omvat, alsmede met betrekking tot het aantal uren dat het onderricht in de praktijk van de uitoefening van een vak of beroep gedurende een schoolweek ten hoogste omvat.  
 
 ### Artikel  32  
@@ -872,8 +876,7 @@ c. in voorkomend geval welk onderwijs de school verzorgt met toepassing van arti
 ####Overige voorschriften inrichting onderwijs
 
 1.  Bij of krachtens algemene maatregel van bestuur worden voor de scholen voor voorbereidend wetenschappelijk onderwijs, algemeen voortgezet onderwijs en voorbereidend beroepsonderwijs voorschriften vastgesteld omtrent de inrichting van het onderwijs. Deze voorschriften kunnen per schoolsoort verschillen. Voor de scholen, bedoeld in de artikelen 13, 14, 15 en 17, kunnen afzonderlijke voorschriften worden gegeven. De bij deze algemene maatregel van bestuur gegeven voorschriften zijn niet van toepassing op scholen en afdelingen voor voorbereidend beroepsonderwijs waarvoor artikel 50, vijfde lid, wordt toegepast.   
-2.  Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden vastgesteld omtrent vakanties en andere dagen waarop geen onderwijs behoeft te worden verzorgd. Bij ministeriële regeling kunnen begin en eind van vakanties worden vastgesteld die niet voor alle scholen gelijk behoeven te zijn.   
-3.  De algemene maatregel van bestuur, bedoeld in het eerste lid, kan, naast het bepaalde in het tweede lid, slechts voorschriften inhouden omtrent het in uren uitgedrukte aantal lessen dat gedurende de cursus in lichamelijke opvoeding ten minste moet worden verzorgd.  
+2.  De algemene maatregel van bestuur, bedoeld in het eerste lid, kan slechts voorschriften inhouden omtrent het in uren uitgedrukte aantal lessen dat gedurende de cursus in lichamelijke opvoeding ten minste moet worden verzorgd.  
 
 ### Artikel  46  
 
@@ -1275,6 +1278,8 @@ b. een ander bevoegd gezag van een school of instelling als bedoeld in artikel 6
 ####Eindexamens en diploma
 
 1.  Aan de leerlingen van de scholen voor voorbereidend wetenschappelijk onderwijs, voor hoger algemeen voortgezet onderwijs, voor middelbaar algemeen voortgezet onderwijs en voor voorbereidend beroepsonderwijs wordt gelegenheid gegeven aan deze scholen een eindexamen af te leggen, tenzij in de plaats daarvan de gelegenheid bestaat tot het afleggen van een eindexamen, dat niet vanwege de school wordt afgenomen en het bevoegd gezag in verband hiermede een eindexamen aan de school niet nodig oordeelt. Het eindexamen kan voor elk vak, intrasectoraal of intersectoraal programma of ander programma- onderdeel bestaan uit een schoolexamen, uit een centraal examen dan wel beide.   
+1a.  Indien ten aanzien van een schoolsoort of leerweg het gemiddelde verschil tussen de cijfers van het centraal examen en het schoolexamen over een periode van drie jaren meer dan een half punt bedraagt, kan Onze Minister in afwijking van het eerste lid besluiten dat het bevoegd gezag voor een periode van twee jaren leerlingen niet in de gelegenheid stelt een eindexamen af te leggen in de desbetreffende schoolsoort of leerweg.   
+1b.  Onze Minister besluit of toepassing wordt gegeven aan lid 1a nadat het bevoegd gezag van de school gedurende een periode van ten minste drie jaar de gelegenheid heeft gehad, het gemiddelde verschil, bedoeld in lid 1a, ongedaan te maken, voor zover dat verschil meer dan een half punt bedraagt.  
 2.  Het eindexamen wordt afgenomen door de rector, de directeur, de conrector, de adjunct-directeur of een of meer leraren van de school. Het eindexamen staat onder toezicht van een of meer gecommitteerden behoudens voor bij of krachtens algemene maatregel van bestuur aan te wijzen examens en examenonderdelen. Bij of krachtens algemene maatregel van bestuur wordt bepaald door wie en op welke wijze de gecommitteerden worden aangewezen. Het eindexamen kan mede worden afgenomen door deskundigen. Het bevoegd gezag wijst de deskundigen aan.   
 3.  Zij die het eindexamen met goed gevolg hebben afgelegd, ontvangen een diploma. Leerlingen van een school voor voorbereidend beroepsonderwijs voor zover het betreft de basisberoepsgerichte leerweg, die met goed gevolg een gedeelte van het examenprogramma hebben afgelegd, ontvangen een getuigschrift voorbereidend middelbaar beroepsonderwijs en leerlingen die een leer-werktraject met goed gevolg afsluiten, ontvangen een diploma basisberoepsgerichte leerweg/leer-werktraject. Onze Minister stelt de modellen van diploma's en getuigschriften vast.   
 4.  Bij of krachtens algemene maatregel van bestuur worden voorschriften vastgesteld omtrent de in dit artikel bedoelde eindexamens, alsmede omtrent programmaonderdelen, die niet voor alle leerlingen van een school dezelfde vakken en andere programmaonderdelen behoeven te omvatten. Bij deze algemene maatregel van bestuur worden tevens de eindexamenprogramma's vastgesteld. Bij de vaststelling van de eindexamenprogramma’s Nederlandse taal respectievelijk Nederlandse taal en literatuur worden de referentieniveaus Nederlandse taal in acht genomen die voor de desbetreffende vormen van onderwijs of voor dan wel binnen leerwegen zijn vastgesteld op grond van artikel 47a.   
@@ -1797,6 +1802,7 @@ Het bestuur van een bijzondere school voor voortgezet onderwijs geeft binnen vie
 ####Aanwijzingsbevoegdheid
 
 1.  Onze Minister kan de school, die ten aanzien van de duur van de cursus, het schoolplan en de bevoegdheden van de leraren overeenkomt met een school voor voorbereidend wetenschappelijk onderwijs, voor hoger algemeen voortgezet onderwijs, voor middelbaar algemeen voortgezet onderwijs of voor voorbereidend beroepsonderwijs, als bedoeld in artikel 72, eerste lid, aanwijzen als bevoegd om aan de leerlingen op grond van het met gunstig gevolg afleggen van een eindexamen aan de school het diploma uit te reiken, bedoeld in het derde lid van dat artikel.   
+1a.  Artikel 72, leden 1a en 1b, zijn van overeenkomstige toepassing op de bevoegdheid het eindexamen af te nemen, bedoeld in het eerste lid.  
 2.   Artikel 72, tweede, vierde en vijfde lid, is op dit eindexamen van toepassing.   
 3.  Onze Minister besluit binnen zes maanden na ontvangst van een aanvraag. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze Minister de aanvrager daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.  
 
@@ -1816,7 +1822,7 @@ c. de statuten en het reglement van de rechtspersoon met volledige rechtsbevoegd
 
 ####Voorschriften aanwijzing
 
-1.  Het schoolplan van een ingevolge artikel 112 aangewezen school voldoet ten minste aan de voorschriften, gegeven bij of krachtens de artikelen 12a, 16, 18, 29, 34 tot en met 41, 45 en 50.   
+1.  Het schoolplan van een ingevolge artikel 112 aangewezen school voldoet ten minste aan de voorschriften, gegeven bij of krachtens de artikelen 12a, 12b, 16, 18, 29, 34 tot en met 41, 45 en 50.   
 2.  Bij wijziging van het schoolplan doet het schoolbestuur daarvan onmiddellijk mededeling aan de inspectie.   
 3.  Onze Minister kan ten behoeve van de bijzondere inrichting van het onderwijs aan de school toestaan, dat wordt afgeweken van het eerste lid. Onze Minister besluit binnen zes maanden na ontvangst van een aanvraag. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze Minister de aanvrager daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
 4.  De naam van de school duidt aan, met welke van de uit de openbare kas bekostigde scholen zij overeenkomt.   
@@ -1859,7 +1865,7 @@ Onze Minister kan de aanwijzing intrekken, indien niet langer wordt voldaan aan 
 2.  Bij algemene maatregel van bestuur wordt bepaald, welke andere diploma's kunnen worden verkregen door het met gunstig gevolg afleggen van een staatsexamen voor het College voor examens.   
 3.  Zij, die zijn afgewezen bij het eindexamen van een school, worden niet toegelaten tot het in hetzelfde jaar te houden overeenkomstige staatsexamen.   
 4.  De staatsexamens zijn openbaar, behoudens het schriftelijke gedeelte.   
-5.  Bij algemene maatregel van bestuur worden voorschriften vastgesteld omtrent de in dit artikel bedoelde examens, die niet voor alle kandidaten dezelfde vakken en andere programmaonderdelen behoeven te omvatten. Daarbij kan worden bepaald het bedrag, dat voor de toelating tot deze examens verschuldigd is.   
+5.  Bij algemene maatregel van bestuur worden voorschriften vastgesteld omtrent de in dit artikel bedoelde examens, die niet voor alle kandidaten dezelfde vakken en andere programmaonderdelen behoeven te omvatten. Daarbij kan worden bepaald het bedrag, dat voor de toelating tot deze examens verschuldigd is. Tevens kan daarbij worden bepaald dat dit bedrag is verschuldigd door het bevoegd gezag van een school ten aanzien waarvan toepassing is gegeven aan artikel 72, lid 1a, of door het bevoegd gezag van een instelling ten aanzien waarvan toepassing is gegeven aan artikel 6.2.2a, eerste lid, van de Wet educatie en beroepsonderwijs BES.   
 6.  De staatsexamens omvatten een rekentoets. Bij de vaststelling van de opgaven van de rekentoets worden de referentieniveaus rekenen in acht genomen die voor de desbetreffende vormen van onderwijs zijn vastgesteld op grond van artikel 47a. Bij of krachtens algemene maatregel van bestuur worden nadere voorschriften omtrent deze toets vastgesteld.  
 7.   Artikel 75 is van overeenkomstige toepassing.  
 
@@ -2248,7 +2254,7 @@ c. het onderwijsondersteunend personeel.   De formatie is redelijkerwijs voldoen
 
 ### Artikel  153  
 
-####Grondslag bekostiging kosten voor personeel wegens voorschriften die zijn gegeven bij of krachtens de Wet materieel ambtenarenrecht BES 
+####Grondslag bekostiging kosten voor personeel wegens voorschriften die zijn gegeven bij of krachtens de Ambtenarenwet BES 
 
 1.  Aan scholen wordt in verband met de kosten voor personeel wegens voorschriften die zijn gegeven bij of krachtens de Ambtenarenwet BES bekostiging verstrekt.   
 2.  De in het eerste lid bedoelde bekostiging is verwerkt in de bedragen en in de vermenigvuldigingsbedragen van de verhoging, bedoeld in de artikelen 154 en 155.  
@@ -2540,7 +2546,7 @@ b. de wijze en het tijdstip waarop de desbetreffende onderdelen beschikbaar word
 c. de elektronische verzending van het cijfermatige deel uit de jaarrekening, en  
 
 d. de grondslagen voor de jaarrekening.     
-4.  De beschikbaarstelling van de gegevens, bedoeld in het derde lid, onderdeel b, gaat vergezeld van een verklaring omtrent de getrouwheid en rechtmatigheid, afgegeven door een door de toezichthouder of het toezichthoudend orgaan aangewezen deskundige als bedoeld in artikel 121, zesde lid, van Boek 2 van het Burgerlijk Wetboek BES. Bij de aanwijzing van de deskundige bedingt de toezichthouder of het toezichthoudend orgaan dat de controle overeenkomstig een door Onze Minister vast te stellen controleprotocol plaatsvindt en dat aan Onze Minister op diens verzoek inzicht wordt geboden in de controlerapporten van de deskundige.   
+4.  De beschikbaarstelling van de gegevens, bedoeld in het derde lid, onderdeel b, gaat vergezeld van een verklaring omtrent de getrouwheid en rechtmatigheid, afgegeven door een door de toezichthouder of het toezichthoudend orgaan aangewezen deskundige als bedoeld in artikel 121, zesde lid, van Boek 2 van het Burgerlijk Wetboek BES. Bij de aanwijzing van de deskundige bedingt de toezichthouder of het toezichthoudend orgaan dat de controle overeenkomstig een door Onze Minister vast te stellen accountantsprotocol plaatsvindt en dat aan Onze Minister op diens verzoek inzicht wordt geboden in de controlerapporten van de deskundige.   
 5.  Dit lid is nog niet in werking getreden.   
 6.  Bij algemene maatregel van bestuur kan een branchecode voor goed bestuur worden aangewezen.  
 
@@ -2632,15 +2638,17 @@ b. de inspectie voor zover deze gegevens noodzakelijk zijn voor het uitoefenen v
 
 ####Gebruik persoonsgebonden nummer BES door openbaar lichaam
 
-Treedt in werking per 01-08-2015 
+Treedt in werking op een nader te bepalen tijdstip 
 
-Onverminderd het overigens bij of krachtens de wet bepaalde omtrent het gebruik van het burgerservicenummer door het openbaar lichaam, gebruikt het openbaar lichaam het persoonsgebonden nummer BES van een leerplichtige of kwalificatieplichtige leerling of een persoon als bedoeld in artikel 66, eerste lid, uitsluitend ten behoeve van: 
+Onverminderd het overigens bij of krachtens de wet bepaalde omtrent het gebruik van het burgerservicenummer door het openbaar lichaam, gebruikt het openbaar lichaam het persoonsgebonden nummer BES van een leerling of een voortijdige schoolverlater als bedoeld in artikel 193 uitsluitend ten behoeve van: 
 
-a. het toezicht op de naleving van de Leerplichtwet BES;  
+a. een registratie van leerplichtige jongeren in het belang van het toezicht op de naleving van de Leerplichtwet BES;  
 
-b. de uitvoering van de Wet sociale kanstrajecten;  
+b. de registratie van gegevens van voortijdige schoolverlaters, bedoeld in artikel 194, eerste lid, en tweede lid, eerste volzin;  
 
-c. de verwerking van de gegevens, bedoeld in 24f, derde en vierde lid, van de Wet op het onderwijstoezicht.  
+c. het systeem van doorverwijzing van voortijdige schoolverlaters naar onderwijs of arbeidsmarkt, bedoeld in artikel 194, tweede lid;  
+
+d. verwerking van de gegevens, bedoeld in 24f, derde en vierde lid, van de Wet op het onderwijstoezicht en in artikel 62, eerste lid, bij de registraties, bedoeld in de onderdelen a en b, en het systeem van doorverwijzing, bedoeld in onderdeel c.   
 
 ### Artikel  183  
 
@@ -2760,37 +2768,7 @@ Bij algemene maatregel van bestuur worden voorschriften gegeven omtrent de uitvo
 
 ####Bestrijding voortijdig schoolverlaten niet-leerplichtigen
 
-### Artikel  193  
-
-####Voortijdige schoolverlater
-
-1.  Onder een voortijdige schoolverlater in de zin van deze titel wordt verstaan degene op wie artikel 66, eerste lid onder a en b, van toepassing is en 
-
-a. die het onderwijs aan de school waaraan hij is ingeschreven gedurende een aaneengesloten periode van ten minste een maand of een door het bevoegd gezag te bepalen kortere periode zonder geldige reden niet meer volgt, of  
-
-b. die niet meer aan een school is ingeschreven en evenmin is ingeschreven aan een instelling als bedoeld in de Wet educatie en beroepsonderwijs BES.     
-2.  Voor zover nodig in afwijking van het eerste lid wordt onder een voortijdige schoolverlater niet verstaan degene die in het bezit is van een getuigschrift van het praktijkonderwijs als bedoeld in artikel 31 dan wel een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid onderdeel a, van de Wet educatie en beroepsonderwijs BES en werkzaam is op grond van een aanstelling of arbeidsovereenkomst.  
-
-### Artikel  194  
-
-####Bestrijding voortijdig schoolverlaten door openbaar lichaam
-
-1.  Het bevoegd gezag meldt onverwijld voortijdige schoolverlaters aan het bestuurscollege, voor zover het bevoegd gezag dat niet op grond van artikel 66 heeft gedaan.   
-2.  Het bestuurscollege draagt ten behoeve van doorverwijzing naar onderwijs of arbeidsmarkt zorg voor registratie van de gegevens die het bevoegd gezag ingevolge het eerste lid of artikel 66 heeft gemeld, of waarover het bestuurscollege op grond van artikel 24f, derde en vierde lid, van de Wet op het onderwijstoezicht beschikt. Het systeem heeft mede betrekking op de gegevens waarover het openbaar lichaam beschikt in het kader van de uitvoering van de Leerplichtwet BES.   
-3.  Het bestuurscollege maakt afspraken met scholen, instellingen als bedoeld in de Wet educatie en beroepsonderwijs BES en organisaties die zijn betrokken bij het voorkomen en bestrijden van voortijdig schoolverlaten.   
-4.  Ter tegemoetkoming in de kosten van uitvoering van het tweede en derde lid kent Onze Minister binnen het raam van de door de begrotingswetgever beschikbaar gestelde middelen jaarlijks uiterlijk in september ten behoeve van de activiteiten het bestuurscollege een bijzondere uitkering als bedoeld in artikel 91 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba toe. Deze uitkering heeft betrekking op het daarop volgende kalenderjaar. Bij ministeriële regeling worden regels gegeven voor de berekening en betaling van de uitkering.   
-5.  Het bevoegd gezag geeft aan de door het bestuurscollege aangewezen personen alle gevraagde bescheiden ter inzage en verstrekt de gevraagde inlichtingen die van belang zijn voor het voorkomen en bestrijden van voortijdig schoolverlaten.   
-6.  De eilandsraad stelt streefcijfers vast voor de te behalen resultaten. Het bestuurscollege stelt jaarlijks een effectrapportage vast waarin zowel de streefcijfers als de bereikte resultaten zijn aangegeven en waarin afwijkingen worden toegelicht.   
-7.  Indien het bestuurscollege het bepaalde bij of krachtens het eerste tot en met zesde lid niet nakomt, kan Onze Minister de uitkering geheel of gedeeltelijk inhouden of opschorten. Onze Minister gaat niet over tot gehele of gedeeltelijke inhouding dan na overleg met het bestuurscollege. Onze Minister kan de uitkering wederom toekennen indien de reden voor inhouding of opschorting is vervallen.   
-8.  Onze Minister kan de in het vierde lid bedoelde uitkering geheel of gedeeltelijk terugvorderen indien niet uit de informatie, verstrekt krachtens artikel 214 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba, blijkt dat de uitkering is besteed in overeenstemming met dit artikel.  
-
-### Artikel  195  
-
-####Informatie over voortijdig schoolverlaten
-
-1.  Het bestuurscollege zendt de in artikel 194, zesde lid, bedoelde effectrapportage aan Onze Minister.   
-2.  Het bestuurscollege is gehouden aan de door Onze Minister aangewezen personen alle gevraagde bescheiden ter inzage te geven en de gevraagde inlichtingen te verstrekken die van belang zijn voor het door Onze Minister te voeren beleid met betrekking tot het voortijdig schoolverlaten door niet-leerplichtigen.   
-3.  Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent het tijdstip van indiening en de inrichting van de effectrapportage en inzake de wijze van beschikbaarstelling van de gegevens, bedoeld in het tweede lid.  
+Vervallen per 01-08-2015 
 
 ### Titel  V  
 
@@ -3032,12 +3010,6 @@ Onverminderd artikel 80, eerste lid, onderdelen a en c, mogen in afwijking van a
 ####Benoembaarheid leidinggevend personeel
 
 Onverminderd artikel 83, eerste lid, onderdelen a en f, en artikel 83, tweede en derde lid, kan in afwijking van artikel 83, eerste lid, onderdeel b, tot rector, directeur, conrector of adjunct-directeur worden benoemd dan wel tewerkgesteld zonder benoeming degene die op de dag voorafgaand aan het tijdstip van de inwerkingtreding van dit artikel, bevoegd was tot het geven van onderwijs op grond van de Landsverordening voortgezet onderwijs. 
-
-### Artikel  214  
-
-####Bestrijding voortijdig schoolverlaten
-
-Wijzigt deze wet.  
 
 ### Artikel  214a  
 

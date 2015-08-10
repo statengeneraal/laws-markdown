@@ -3,20 +3,20 @@
 ##Besluit van het bestuur van het Productschap Vee en Vlees van 27 oktober 2010 tot aanwijzing van ondernemersorganisaties in de veehandel, de vleeswarenindustrie en de vleesindustrie in verband met de toepassing van de Schilthuisaftrek
 
 Het bestuur van het Productschap Vee en Vlees; 
-Gelet op de [artikelen 5](../../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/(pvv)/2011/BWBR0029465/README.md), [8](../../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/(pvv)/2011/BWBR0029465/README.md) en [10 van de Verordening huishoudelijke heffingen (PVV) 2011](../../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/(pvv)/2011/BWBR0029465/README.md), [artikel 3 van de Verordening bestemmingsheffingen vleesindustrie (PVV) 2011](../../../../../../../../../../pbo/verordening/bestemmingsheffingen/vleesindustrie/(pvv)/2011/BWBR0031319/README.md) en [artikel 4 van de Verordening bestemmingsheffingen vleeswarenindustrie (PVV) 2011](../../../../../../../../../../pbo/verordening/bestemmingsheffingen/vleeswarenindustrie/(pvv)/2011/BWBR0031326/README.md);
+Gelet op de artikelen 5, 8 en 10 van de Verordening huishoudelijke heffingen (PVV) 2011, artikel 3 van de Verordening bestemmingsheffingen vleesindustrie (PVV) 2011 en artikel 4 van de Verordening bestemmingsheffingen vleeswarenindustrie (PVV) 2011;
 Besluit: 
 
 ###Artikel  1 
 Materieel uitgewerkt per 19-02-2012 
 
-1.  Als ondernemersorganisatie in de veehandel als bedoeld in [artikel 5 van de Verordening huishoudelijke heffingen (PVV) 2011](../../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/(pvv)/2011/BWBR0029465/README.md) worden aangewezen: 
+1.  Als ondernemersorganisatie in de veehandel als bedoeld in artikel 5 van de Verordening huishoudelijke heffingen (PVV) 2011 worden aangewezen: 
 
 - Alle afdelingen van de Nederlandse Bond van Handelaren in Vee; 
 
 - Centrale Bond van Paardenhandelaren in Nederland; 
 
 - Centrale Vereniging voor Coöperatieve Handel. 
-2.  Als ondernemersorganisatie als bedoeld in de [artikelen 8](../../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/(pvv)/2011/BWBR0029465/README.md) en [10 van de Verordening huishoudelijke heffingen (PVV) 2011](../../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/(pvv)/2011/BWBR0029465/README.md), [artikel 4 van de Verordening bestemmingsheffingen vleeswarenindustrie (PVV) 2011](../../../../../../../../../../pbo/verordening/bestemmingsheffingen/vleeswarenindustrie/(pvv)/2011/BWBR0031326/README.md) en [artikel 3 van de Verordening bestemmingsheffingen vleesindustrie (PVV) 2011](../../../../../../../../../../pbo/verordening/bestemmingsheffingen/vleesindustrie/(pvv)/2011/BWBR0031319/README.md), worden aangewezen: 
+2.  Als ondernemersorganisatie als bedoeld in de artikelen 8 en 10 van de Verordening huishoudelijke heffingen (PVV) 2011, artikel 4 van de Verordening bestemmingsheffingen vleeswarenindustrie (PVV) 2011 en artikel 3 van de Verordening bestemmingsheffingen vleesindustrie (PVV) 2011, worden aangewezen: 
 
 - Vereniging voor de Nederlandse Vleeswarenindustrie; 
 

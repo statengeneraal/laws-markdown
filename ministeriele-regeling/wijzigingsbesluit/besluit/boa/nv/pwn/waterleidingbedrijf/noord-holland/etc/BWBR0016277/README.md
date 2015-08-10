@@ -9,13 +9,13 @@ Gelezen het verzoek van de NV PWN Waterleidingbedrijf Noord-Holland van 29 oktob
 
 Gelet op:
 
-– [artikel 17, eerste lid, aanhef en onder ten tweede, van de Wet op de economische delicten](../../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md);
+– artikel 17, eerste lid, aanhef en onder ten tweede, van de Wet op de economische delicten;
 
-– [artikel 8, zevende lid, van de Politiewet 1993](../../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md);
+– artikel 8, zevende lid, van de Politiewet 1993;
 
-– [artikel 142, eerste lid, onder b en c, en het derde lid, van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);
+– artikel 142, eerste lid, onder b en c, en het derde lid, van het Wetboek van Strafvordering;
 
-– het [Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md);
+– het Besluit buitengewoon opsporingsambtenaar;
 Besluit:   
 
 ###Artikel I 
