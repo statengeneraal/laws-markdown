@@ -3,7 +3,7 @@
 ##Besluit van de Minister van Economische Zaken, van 2 januari 2014, nr. 2013 DB / 13133673 tot digitale vervanging van archiefbescheiden
 
 De Minister van Economische Zaken,  
-Gelet op [artikel 7 van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) en op basis van de Archiefregeling artikel 26b;
+Gelet op artikel 7 van de Archiefwet 1995 en op basis van de Archiefregeling artikel 26b;
 Besluit:    
 
 ### Artikel  1  
@@ -13,7 +13,7 @@ Besluit:
 a. archiefbescheiden die zijn opgenomen in het informatiesysteem Domus en die zijn ontvangen of opgemaakt voorafgaand aan de inwerkingtreding van dit besluit, en zaken betreffen die nog niet zijn afgedaan of  
 
 b. archiefbescheiden die zullen worden vervangen of opgemaakt gedurende de periode van één jaar na de inwerkingtreding van dit besluit.     
-2.  Het vervangen geschiedt overeenkomstig de eisen van artikel 26b van de Archiefregeling en met inachtneming van de waarde, belangen van het ministerie van EZ en het historisch belang, bedoeld in [artikel 2, eerste lid, onderdeel a onderscheidenlijk b, c en d van het Archiefbesluit 1995](../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md).  
+2.  Het vervangen geschiedt overeenkomstig de eisen van artikel 26b van de Archiefregeling en met inachtneming van de waarde, belangen van het ministerie van EZ en het historisch belang, bedoeld in artikel 2, eerste lid, onderdeel a onderscheidenlijk b, c en d van het Archiefbesluit 1995.  
 
 ### Artikel  2  
 

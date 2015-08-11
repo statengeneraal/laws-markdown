@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, en van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 november 2002, CW02/U92850;
 
-Gelet op [artikel 64 van de Grondwet](../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) en [artikel F 2 van de Kieswet](../../../../../../../../../../../wet/kieswet/BWBR0004627/README.md);
+Gelet op artikel 64 van de Grondwet en artikel F 2 van de Kieswet;
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  

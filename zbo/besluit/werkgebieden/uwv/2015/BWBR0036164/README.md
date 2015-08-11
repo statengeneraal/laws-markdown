@@ -18,7 +18,7 @@ b.  *UWV:*  het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdst
 
 c.  *UWV-vestiging:*  een vestiging van UWV waarin de taken, bedoeld in de artikelen 30a, 30b, 30c, en 31 Wet Suwi worden uitgevoerd  
 
-d.  *Ontslagaanvraag:*  een verzoek om toestemming voor opzegging van de arbeidsverhouding op grond van artikel 6, eerste lid van het Buitengewoon Besluit Arbeidsverhoudingen 1945;  
+d.  *Ontslagaanvraag:*  een verzoek om toestemming voor opzegging van de arbeidsovereenkomst op grond van artikel 671a, eerste lid, jo artikel 669, derde lid, onderdeel a of b, van Boek 7 van het Burgerlijk Wetboek;  
 
 e.  *AJD-vestiging:*  een vestiging van de afdeling Arbeidsjuridische dienstverlening van UWV.   
 
@@ -33,17 +33,22 @@ e.  *AJD-vestiging:*  een vestiging van de afdeling Arbeidsjuridische dienstverl
 
 ####Indiening ontslagaanvraag
 
-1.  Een ontslagaanvraag wordt ingediend bij de afdeling Arbeidsjuridische dienstverlening van UWV. Bijlage 2 bevat een overzicht van de AJD-vestigingen en geeft per AJD-vestiging aan welke gemeenten of provincie(s) tot haar werkgebied behoren.   
-2.  De ontslagaanvraag wordt ingediend bij de AJD-vestiging in het werkgebied waarbinnen de betrokken werknemer zijn arbeid verricht of heeft verricht.   
-3.  Als de werkzaamheden van de betrokken werknemer zich uitstrekken over een werkgebied van twee of meer AJD-vestigingen, wordt de ontslagaanvraag ingediend bij de AJD-vestiging in het werkgebied waarbinnen de standplaats van de werknemer is gelegen. Ontbreekt deze standplaats, dan wordt de aanvraag ingediend bij de AJD-vestiging in het werkgebied waarbinnen de vestiging van de werkgever is gelegen van waaruit de aanvraag is ingediend. Geeft dit geen uitsluitsel, dan wordt de ontslagaanvraag ingediend bij de AJD-vestiging in het werkgebied waarbinnen de woonplaats van de werknemer is gelegen.   
+1.  Een ontslagaanvraag wordt ingediend bij de afdeling Arbeidsjuridische dienstverlening van UWV. Bijlage 2 bevat een overzicht van de AJD-vestigingen en geeft per AJD-vestiging aan welke gemeenten of provincie(s) tot haar werkgebied behoren. Bijlage 2 omvat een onderdeel a voor ontslagaanvragen om bedrijfseconomische redenen en een onderdeel b voor ontslagaanvragen vanwege langdurige arbeidsongeschiktheid.   
+2.  De ontslagaanvraag om bedrijfseconomische redenen wordt ingediend bij de AJD-vestiging in het werkgebied waarbinnen de betrokken werknemer zijn arbeid verricht of heeft verricht.   
+3.  Als de werkzaamheden van de betrokken werknemer zich uitstrekken over een werkgebied van twee of meer AJD-vestigingen, wordt de ontslagaanvraag om bedrijfseconomische redenen ingediend bij de AJD-vestiging in het werkgebied waarbinnen de standplaats van de werknemer is gelegen. Ontbreekt deze standplaats, dan wordt de aanvraag ingediend bij de AJD-vestiging in het werkgebied waarbinnen de vestiging van de werkgever is gelegen van waaruit de aanvraag is ingediend. Geeft dit geen uitsluitsel, dan wordt de ontslagaanvraag om bedrijfseconomische redenen ingediend bij de AJD-vestiging in het werkgebied waarbinnen de woonplaats van de werknemer is gelegen.   
 4.  Indien een werkgever om bedrijfseconomische redenen voor meerdere werknemers een ontslagaanvraag indient en op basis van het tweede en derde lid meerdere AJD-vestigingen in aanmerking komen, dient werkgever de ontslagaanvragen in bij de AJD-vestiging in het werkgebied waarbinnen de meeste van de werknemers de arbeid verrichten of hebben verricht. Ambtshalve of op verzoek van werkgever kan UWV beslissen dat de ontslagaanvragen bij een andere AJD-vestiging worden ingediend.   
-5.  UWV bepaalt waar de ontslagaanvraag wordt behandeld en kan deze behandeling zo nodig aan een andere AJD-vestiging overdragen.  
+5.  UWV bepaalt waar de ontslagaanvraag om bedrijfseconomische redenen wordt behandeld en kan deze behandeling zo nodig aan een andere AJD-vestiging overdragen.   
+6.  Een ontslagaanvraag vanwege langdurige arbeidsongeschiktheid wordt ingediend: 
+
+a. bij de AJD-vestiging in het werkgebied waarbinnen de betrokken werknemer in Nederland woont.  
+
+b. bij de AJD-vestiging Eindhoven indien de werknemer in Duitsland woonachtig is, bij de AJD-vestiging Rotterdam indien de werknemer in België woonachtig is en bij de AJD-vestiging Haarlem indien de werknemer elders in het buitenland woonachtig is.   
 
 ### Artikel  4  
 
-####Afgifte, verlenging of intrekking van tewerkstellingsvergunning
+####Indiening aanvraag tewerkstellingsvergunning
 
-Aanvragen voor tewerkstellingsvergunningen op grond van het Delegatie- en uitvoeringsbesluit Wet arbeid vreemdelingen worden ingediend bij de AJD-vestiging te Den Haag. 
+Aanvragen voor tewerkstellingsvergunningen op grond van de Regeling uitvoering Wet arbeid vreemdelingen 2014 worden ingediend bij de AJD-vestiging te Den Haag. 
 
 ### Artikel  5  
 
@@ -120,35 +125,71 @@ Voorzitter Raad van Bestuur
 
 ### Bijlage  2  
 
-####De werkgebieden van de afdeling arbeidsjuridische dienstverlening van UWV<sup> 1  Het is mogelijk dat in de loop van 2015 wijzigingen optreden in de werkgebieden door sluiting/verhuizing van enkele AJD-vestigingen. De meest recente indeling van de werkgebieden vindt u op www.werk.nl/ontslag.  </sup> 
+####De werkgebieden van de afdeling Arbeidsjuridische dienstverlening van UWV
+
+### Deel  2a  
+
+####Indienen ontslagaanvragen om bedrijfseconomische redenen
 
 ####AJD-vestiging Amersfoort
 
-Werkgebied: de gemeenten Almere, Amersfoort, Baarn, Blaricum, Bunnik, Bunschoten, Bussum, De Bilt, De Ronde Venen, Dronten, Eemnes, Hilversum, Houten, Huizen, Laren, Lelystad, Leusden, Lopik, Montfoort, Muiden, Naarden, Nieuwegein, Noordoostpolder, Oudewater, Renswoude, Rhenen, Soest, Stichtse Vecht, Urk, Utrecht, Utrechtse Heuvelrug, Veenendaal, Vianen, Weesp, Woerden, Woudenberg, Wijdemeren, Wijk bij Duurstede, IJsselstein, Zeist en Zeewolde 
+Werkgebied: de gemeenten Almere, Amersfoort, Baarn, Blaricum, Bunnik, Bunschoten, Bussum, De Bilt, De Ronde Venen, Dronten, Eemnes, Hilversum, Houten, Huizen, Laren, Lelystad, Leusden, Lopik, Montfoort, Muiden, Naarden, Nieuwegein, Noordoostpolder, Oudewater, Renswoude, Rhenen, Soest, Stichtse Vecht, Urk, Utrecht, Utrechtse Heuvelrug, Veenendaal, Vianen, Weesp, Woerden, Woudenberg, Wijdemeren, Wijk bij Duurstede, IJsselstein, Zeist en Zeewolde. 
 
 ####AJD-vestiging Arnhem
 
-Werkgebied: de gemeenten Aalten, Apeldoorn, Arnhem, Barneveld, Berkelland, Beuningen, Bronckhorst, Brummen, Buren, Culemborg, Deventer, Doesburg, Doetinchem, Druten, Duiven, Ede, Elburg, Epe, Ermelo, Geldermalsen, Groesbeek, Harderwijk, Heerde, Heumen, Lingewaal, Lingewaard, Maasdriel, Montferland, Neder-Betuwe, Neerijnen, Nijkerk, Nijmegen, Nunspeet, Olst-Wijhe, Oost Gelre, Oude IJsselstreek, Overbetuwe, Putten, Renkum, Rheden, Rozendaal, Rijnwaarden, Scherpenzeel, Tiel, Voorst, Wageningen, Westervoort, West-Maas en Waal, Wijchen, Winterswijk, Zaltbommel, Zevenaar en Zutphen 
+Werkgebied: de gemeenten Aalten, Apeldoorn, Arnhem, Barneveld, Berkelland, Beuningen, Bronckhorst, Brummen, Buren, Culemborg, Deventer, Doesburg, Doetinchem, Druten, Duiven, Ede, Elburg, Epe, Ermelo, Geldermalsen, Groesbeek, Harderwijk, Heerde, Heumen, Lingewaal, Lingewaard, Lochem, Maasdriel, Montferland, Neder-Betuwe, Neerijnen, Nijkerk, Nijmegen, Nunspeet, Olst-Wijhe, Oost Gelre, Oude IJsselstreek, Overbetuwe, Putten, Renkum, Rheden, Rozendaal, Rijnwaarden, Scherpenzeel, Tiel, Voorst, Wageningen, Westervoort, West-Maas en Waal, Wijchen, Winterswijk, Zaltbommel, Zevenaar en Zutphen. 
 
 ####AJD-vestiging Eindhoven
 
-Werkgebied: de provincie Limburg, de gemeenten Alphen-Chaam, Asten, Baarle-Nassau, Beesel, Bergeijk, Bernheze, Best, Bladel, Boekel, Boxmeer, Boxtel, Cranendonck, Cuijk, Deurne, Dongen, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Gennep, Gilze en Rijen, Goirle, Grave, Haaren, Heeze-Leende, Helmond, ’s-Hertogenbosch, Heusden, Hilvarenbeek, Laarbeek, Landerd, Loon op Zand, Mill en Sint Hubert, Nuenen-Gerwen-Nederwetten, Oirschot, Oisterwijk, Oss, Reusel-De Mierden, Schijndel, Sint Anthonis, Sint-Michielsgestel, Sint-Oedenrode, Someren, Son en Breugel, Tilburg, Uden, Valkenswaard, Veghel, Veldhoven, Vught, Waalre en Waalwijk 
+Werkgebied: de provincie Limburg, de gemeenten Alphen-Chaam, Asten, Baarle-Nassau, Beesel, Bergeijk, Bernheze, Best, Bladel, Boekel, Boxmeer, Boxtel, Cranendonck, Cuijk, Deurne, Dongen, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Gennep, Gilze en Rijen, Goirle, Grave, Haaren, Heeze-Leende, Helmond, ’s-Hertogenbosch, Heusden, Hilvarenbeek, Laarbeek, Landerd, Loon op Zand, Mill en Sint Hubert, Nuenen-Gerwen-Nederwetten, Oirschot, Oisterwijk, Oss, Reusel-De Mierden, Schijndel, Sint Anthonis, Sint-Michielsgestel, Sint-Oedenrode, Someren, Son en Breugel, Tilburg, Uden, Valkenswaard, Veghel, Veldhoven, Vught, Waalre en Waalwijk. 
 
 ####AJD-vestiging Groningen
 
-Werkgebied: de provincies Friesland, Groningen en Drenthe 
+Werkgebied: de provincies Friesland, Groningen en Drenthe. 
 
 ####AJD-vestiging Haarlem
 
-Werkgebied: de gemeenten Aalsmeer, Alkmaar, Amstelveen, Amsterdam, Beemster, Bergen, Beverwijk, Bloemendaal, Castricum, Den Helder, Diemen, Drechterland, Edam-Volendam, Enkhuizen, Haarlem, Haarlemmerliede en Spaarnwoude, Haarlemmermeer, Heemskerk, Heemstede, Heerhugowaard, Heiloo, Hollands Kroon, Hoorn, Koggenland, Landsmeer, Langedijk, Medemblik, Opmeer, Oostzaan, Ouder-Amstel, Purmerend, Schagen, Stede Broec, Texel, Uitgeest, Uithoorn, Velsen, Waterland, Wormerland, Zaanstad, Zandvoort en Zeevang 
+Werkgebied: de gemeenten Aalsmeer, Alkmaar, Amstelveen, Amsterdam, Beemster, Bergen, Beverwijk, Bloemendaal, Castricum, Den Helder, Diemen, Drechterland, Edam-Volendam, Enkhuizen, Haarlem, Haarlemmerliede en Spaarnwoude, Haarlemmermeer, Heemskerk, Heemstede, Heerhugowaard, Heiloo, Hollands Kroon, Hoorn, Koggenland, Landsmeer, Langedijk, Medemblik, Opmeer, Oostzaan, Ouder-Amstel, Purmerend, Schagen, Stede Broec, Texel, Uitgeest, Uithoorn, Velsen, Waterland, Wormerland, Zaanstad, Zandvoort en Zeevang. 
 
 ####AJD-vestiging Hengelo
 
-Werkgebied: de gemeenten Almelo, Borne, Dalfsen, Dinkelland, Enschede, Haaksbergen, Hardenberg, Hattem, Hellendoorn, Hengelo, Hof van Twente, Kampen, Losser, Oldebroek, Oldenzaal, Ommen, Raalte, Rijssen-Holten, Staphorst, Steenwijkerland, Tubbergen, Twenterand, Wierden, Zwolle en Zwartewaterland 
+Werkgebied: de gemeenten Almelo, Borne, Dalfsen, Dinkelland, Enschede, Haaksbergen, Hardenberg, Hattem, Hellendoorn, Hengelo, Hof van Twente, Kampen, Losser, Oldebroek, Oldenzaal, Ommen, Raalte, Rijssen-Holten, Staphorst, Steenwijkerland, Tubbergen, Twenterand, Wierden, Zwolle en Zwartewaterland. 
 
 ####AJD-vestiging Rotterdam
 
-Werkgebied: de provincie Zuid-Holland, de provincie Zeeland en gemeenten Aalburg, Bergen op Zoom, Breda, Drimmelen, Etten-Leur, Geertruidenberg, Halderberge, Moerdijk, Nissewaard, Oosterhout, Roosendaal, Rucphen, Steenbergen, Werkendam, Woensdrecht, Woudrichem en Zundert 
+Werkgebied: de provincie Zuid-Holland, de provincie Zeeland en gemeenten Aalburg, Bergen op Zoom, Breda, Drimmelen, Etten-Leur, Geertruidenberg, Halderberge, Moerdijk, Nissewaard, Oosterhout, Roosendaal, Rucphen, Steenbergen, Werkendam, Woensdrecht, Woudrichem en Zundert. 
+
+### Deel  2b  
+
+####Indienen ontslagaanvragen vanwege langdurige arbeidsongeschiktheid (woonplaats werknemer gelegen in werkgebied)
+
+####AJD-vestiging Amersfoort
+
+Werkgebied: de gemeenten Almere, Amersfoort, Baarn, Blaricum, Bunnik, Bunschoten, Bussum, De Bilt, Dronten, Eemnes, Hilversum, Houten, Huizen, Laren, Lelystad, Leusden, Lopik, Montfoort, Muiden, Naarden, Nieuwegein, Nijkerk, Noordoostpolder, Oudewater, Soest, Stichtse Vecht, Urk, Utrecht, Utrechtse Heuvelrug, Vianen, Weesp, Woerden, Woudenberg, Wijdemeren, Wijk bij Duurstede, IJsselstein en Zeist. 
+
+####AJD-vestiging Arnhem
+
+Werkgebied: de gemeenten Aalten, Apeldoorn, Arnhem, Barneveld, Berkelland, Beuningen, Bronckhorst, Brummen, Buren, Culemborg, Deventer, Doesburg, Doetinchem, Druten, Duiven, Ede, Elburg, Epe, Ermelo, Geldermalsen, Groesbeek, Harderwijk, Heumen, Lingewaard, Lochem, Maasdriel, Montferland, Mook en Middelaar, Neder-Betuwe, Neerijnen, Nijmegen, Nunspeet, Olst-Wijhe, Oost Gelre, Oude IJsselstreek, Overbetuwe, Putten, Renkum, Rheden, Renswoude, Rhenen, Rozendaal, Rijnwaarden, Scherpenzeel, Tiel, Veenendaal, Voorst, Wageningen, Westervoort, West-Maas en Waal, Wijchen, Winterswijk, Zaltbommel, Zeewolde, Zevenaar en Zutphen. 
+
+####AJD-vestiging Eindhoven
+
+Werkgebied: de provincie Limburg met uitzondering van de gemeente Mook en Middelaar, de gemeenten Alphen-Chaam, Asten, Baarle-Nassau, Beesel, Bergeijk, Bernheze, Best, Bladel, Boekel, Boxmeer, Boxtel, Cranendonck, Cuijk, Deurne, Dongen, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Gennep, Gilze en Rijen, Goirle, Grave, Haaren, Heeze-Leende, Helmond, ’s-Hertogenbosch, Heusden, Hilvarenbeek, Laarbeek, Landerd, Loon op Zand, Mill en Sint Hubert, Nuenen-Gerwen-Nederwetten, Oirschot, Oisterwijk, Oss, Reusel-De Mierden, Schijndel, Sint Anthonis, Sint-Michielsgestel, Sint-Oedenrode, Someren, Son en Breugel, Tilburg, Uden, Valkenswaard, Veghel, Veldhoven, Vught, Waalre en Waalwijk. Duitsland. 
+
+####AJD-vestiging Groningen
+
+Werkgebied: de provincies Friesland, Groningen en Drenthe met uitzondering van de gemeenten Meppel en Westerveld. 
+
+####AJD-vestiging Haarlem
+
+Werkgebied: de gemeenten Aalsmeer, Alkmaar, Amstelveen, Amsterdam, Beemster, Bergen, Beverwijk, Bloemendaal, Castricum, De Ronde Venen, Den Helder, Diemen, Drechterland, Edam-Volendam, Enkhuizen, Haarlem, Haarlemmerliede en Spaarnwoude, Haarlemmermeer, Heemskerk, Heemstede, Heerhugowaard, Heiloo, Hollands Kroon, Hoorn, Koggenland, Landsmeer, Langedijk, Medemblik, Opmeer, Oostzaan, Ouder-Amstel, Purmerend, Schagen, Stede Broec, Texel, Uitgeest, Uithoorn, Velsen, Waterland, Wormerland, Zaanstad, Zandvoort, Zeevang en Buitenland, exclusief België en Duitsland. 
+
+####AJD-vestiging Hengelo
+
+Werkgebied: de gemeenten Almelo, Borne, Dalfsen, Dinkelland, Enschede, Haaksbergen, Hardenberg, Hattem, Heerde, Hellendoorn, Hengelo, Hof van Twente, Kampen, Meppel, Losser, Oldebroek, Oldenzaal, Ommen, Raalte, Rijssen-Holten, Staphorst, Steenwijkerland, Tubbergen, Twenterand, Westerveld, Wierden, Zwolle en Zwartewaterland. 
+
+####AJD-vestiging Rotterdam
+
+Werkgebied: de provincie Zuid-Holland, de provincie Zeeland, de gemeenten Aalburg, Bergen op Zoom, Breda, Drimmelen, Etten-Leur, Geertruidenberg, Halderberge, Lingewaal, Moerdijk, Nissewaard, Oosterhout, Roosendaal, Rucphen, Steenbergen, Werkendam, Woensdrecht, Woudrichem, Zundert en België. 
 
 ### Bijlage  3  
 

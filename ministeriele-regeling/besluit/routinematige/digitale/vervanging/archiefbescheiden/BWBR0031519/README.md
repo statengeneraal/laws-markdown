@@ -3,7 +3,7 @@
 ##Besluit routinematige digitale vervanging archiefbescheiden
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op [artikel 7 van de Archiefwet 1995](../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md),
+Gelet op artikel 7 van de Archiefwet 1995,
 
 Na machtiging van de Minister van Onderwijs, Cultuur en Wetenschappen, 22 augustus 2011, Kenmerk NA/1L/8325,
 Besluit:    
@@ -22,7 +22,7 @@ B. Volgens die specificaties, vastgelegd in de bijlagen (zoals beschreven in het
 
 C. Overeenkomstig de eisen, opgenomen in de bijlage van de Beleidsregel digitale vervanging archiefbescheiden (Stcrt. 2008, 21); en  
 
-O. Met inachtneming van de waarde en het belang, bedoeld in [artikel 2, eerste lid, onderdeel c, onderscheidenlijk d, van het Archiefbesluit 1995](../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md), alsmede wat daarover is, bepaald in [artikel 4, tweede en derde lid, van de Beleidsregel digitale vervanging archiefbescheiden](../../../../../../../beleidsregel/beleidsregel/digitale/vervanging/archiefbescheiden/BWBR0023395/README.md) (Stcrt. 2008, 21).   
+O. Met inachtneming van de waarde en het belang, bedoeld in artikel 2, eerste lid, onderdeel c, onderscheidenlijk d, van het Archiefbesluit 1995, alsmede wat daarover is, bepaald in artikel 4, tweede en derde lid, van de Beleidsregel digitale vervanging archiefbescheiden (Stcrt. 2008, 21).   
 
 De 
 Minister van Infrastructuur en Milieu, namens deze: 

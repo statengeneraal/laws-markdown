@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken, daartoe gemachtigd door de Raad van Ministers, van 10 maart 1994, Stafafdeling Constitutionele Zaken en Wetgeving:
 
-Gelet op de [artikelen 64](../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) en [137, derde lid, van de Grondwet](../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) en [artikel F 2 van de Kieswet](../../../../../../../../../../../wet/kieswet/BWBR0004627/README.md);
+Gelet op de artikelen 64 en 137, derde lid, van de Grondwet en artikel F 2 van de Kieswet;
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  

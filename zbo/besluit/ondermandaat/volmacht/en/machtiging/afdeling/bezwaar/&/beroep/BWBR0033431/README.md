@@ -3,9 +3,9 @@
 ##Besluit ondermandaat, volmacht en machtiging afdeling Bezwaar & Beroep
 
 De manager van de afdeling Bezwaar & Beroep,  
-Gezien [artikel 7 van het Besluit mandaat, volmacht en machtiging CAK](../../../../../../../../../../../zbo/besluit/mandaat/volmacht/en/machtiging/cak/BWBR0033429/README.md) van 15 juni 2010<sup>  1 Gepubliceerd in Staatscourant 2010, nr. 12567, 11 augustus 2010. </sup>, waarbij aan hem/haar mandaat, volmacht en machtiging is verleend voor bevoegdheden in het kader van de afwikkeling van bezwaar- en beroepschriften;
+Gezien artikel 7 van het Besluit mandaat, volmacht en machtiging CAK van 15 juni 2010<sup>  1 Gepubliceerd in Staatscourant 2010, nr. 12567, 11 augustus 2010. </sup>, waarbij aan hem/haar mandaat, volmacht en machtiging is verleend voor bevoegdheden in het kader van de afwikkeling van bezwaar- en beroepschriften;
 
-Gelezen de in [artikel 9 van het Besluit mandaat, volmacht en machtiging CAK](../../../../../../../../../../../zbo/besluit/mandaat/volmacht/en/machtiging/cak/BWBR0033429/README.md) neergelegde toestemming van de algemeen directeur van het CAK aan de manager van de afdeling Bezwaar & Beroep om voor de bevoegdheden in verband met de bezwaarbehandeling ondermandaat te verlenen;
+Gelezen de in artikel 9 van het Besluit mandaat, volmacht en machtiging CAK neergelegde toestemming van de algemeen directeur van het CAK aan de manager van de afdeling Bezwaar & Beroep om voor de bevoegdheden in verband met de bezwaarbehandeling ondermandaat te verlenen;
 Besluit:    
 
 ### Artikel  1  
@@ -14,7 +14,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a.*het Besluit:* het [Besluit mandaat, volmacht en machtiging CAK](../../../../../../../../../../../zbo/besluit/mandaat/volmacht/en/machtiging/cak/BWBR0033429/README.md) van 15 juni 2010.
+a.*het Besluit:* het Besluit mandaat, volmacht en machtiging CAK van 15 juni 2010.
 
 b.*manager:* de manager van de afdeling Bezwaar & Beroep van het CAK.
 
@@ -28,7 +28,7 @@ d.*functionarissen:* de functionarissen Bezwaar & Beroep van de afdeling Bezwaar
 
 De manager verleent ondermandaat, volmacht en machtiging 
 
-– voor het ondertekenen van extern gerichte brieven en andere stukken op het werkterrein van de in [artikel 7 van het Besluit](../../../../../../../../../../../zbo/besluit/mandaat/volmacht/en/machtiging/cak/BWBR0033429/README.md) bedoelde bezwaarbehandeling;  
+– voor het ondertekenen van extern gerichte brieven en andere stukken op het werkterrein van de in artikel 7 van het Besluit bedoelde bezwaarbehandeling;  
 
 – voor het extern mondeling, schriftelijk en elektronisch uitdragen van standpunten en het verstrekken van informatie met betrekking tot de eigen werkzaamheden;  
 
@@ -40,7 +40,7 @@ De manager verleent ondermandaat, volmacht en machtiging
 
 De manager verleent ondermandaat, volmacht en machtiging 
 
-– voor het voorbereiden, nemen en bekendmaken van alle beslissingen op bezwaar (inzake de in [artikel 2 van het Besluit](../../../../../../../../../../../zbo/besluit/mandaat/volmacht/en/machtiging/cak/BWBR0033429/README.md) genoemde eigen bijdragen, de in de [artikelen 3](../../../../../../../../../../../zbo/besluit/mandaat/volmacht/en/machtiging/cak/BWBR0033429/README.md) en [4 van het Besluit](../../../../../../../../../../../zbo/besluit/mandaat/volmacht/en/machtiging/cak/BWBR0033429/README.md) genoemde compensatie/tegemoetkomingen en de in [artikel 5 van het Besluit](../../../../../../../../../../../zbo/besluit/mandaat/volmacht/en/machtiging/cak/BWBR0033429/README.md) genoemde schadebesluiten en Wob-besluiten);   aan de senior functionarissen, alsmede aan de functionarissen. 
+– voor het voorbereiden, nemen en bekendmaken van alle beslissingen op bezwaar (inzake de in artikel 2 van het Besluit genoemde eigen bijdragen, de in de artikelen 3 en 4 van het Besluit genoemde compensatie/tegemoetkomingen en de in artikel 5 van het Besluit genoemde schadebesluiten en Wob-besluiten);   aan de senior functionarissen, alsmede aan de functionarissen. 
 
 ### Artikel  4  
 

@@ -22,7 +22,7 @@ For the purposes of this Convention:"Biological diversity" means the variability
 
 ####Principle
 
-States have, in accordance with the [Charter of the United Nations](../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) and the principles of international law, the sovereign right to exploit their own resources pursuant to their own environmental policies, and the responsibility to ensure that activities within their jurisdiction or control do not cause damage to the environment of other States or of areas beyond the limits of national jurisdiction. 
+States have, in accordance with the Charter of the United Nations and the principles of international law, the sovereign right to exploit their own resources pursuant to their own environmental policies, and the responsibility to ensure that activities within their jurisdiction or control do not cause damage to the environment of other States or of areas beyond the limits of national jurisdiction. 
 
 ### Article  4  
 
@@ -192,7 +192,7 @@ e) Promote national arrangements for emergency responses to activities or events
 1.  Each Contracting Party, recognizing that technology includes biotechnology, and that both access to and transfer of technology among Contracting Parties are essential elements for the attainment of the objectives of this Convention, undertakes subject to the provisions of this Article to provide and/or facilitate access for and transfer to other Contracting Parties of technologies that are relevant to the conservation and sustainable use of biological diversity or make use of genetic resources and do not cause significant damage to the environment.   
 2.  Access to and transfer of technology referred to in paragraph 1 above to developing countries shall be provided and/or facilitated under fair and most favourable terms, including on concessional and preferential terms where mutually agreed, and, where necessary, in accordance with the financial mechanism established by Article 20 and 21. In the case of technology subject to patents and other intellectual property rights, such access and transfer shall be provided on terms which recognize and are consistent with the adequate and effective protection of intellectual property rights. The application of this paragraph shall be consistent with paragraphs 3, 4 and 5 below.   
 3.  Each Contracting Party shall take legislative, administrative or policy measures, as appropriate, with the aim that Contracting Parties, in particular those that are developing countries, which provide genetic resources are provided access to and transfer of technology which makes use of those resources, on mutually agreed terms, including technology protected by patents and other intellectual property rights, where necessary, through the provisions of Articles 20 and 21 and in accordance with international law and consistent with paragraphs 4 and 5 below.   
-4.  Each Contracting Party shall take legislative, administrative or policy measures, as appropriate, with the aim that the private sector facilitates access to, joint development and transfer of technology referred to in paragaph 1 above for the benefit of both governmental institutions and the private sector of developing countries and in this regard shall abide by the obligations included in paragraphs 1, 2 and 3 above.   
+4.  Each Contracting Party shall take legislative, administrative or policy measures, as appropriate, with the aim that the private sector facilitates access to, joint development and transfer of technology referred to in paragraph 1 above for the benefit of both governmental institutions and the private sector of developing countries and in this regard shall abide by the obligations included in paragraphs 1, 2 and 3 above.   
 5.  The Contracting Parties, recognizing that patents and other intellectual property rights may have an influence on the implementation of this Convention, shall cooperate in this regard subject to national legislation and international law in order to ensure that such rights are supportive of and do not run counter to its objectives.  
 
 ### Article  17  
@@ -219,7 +219,7 @@ e) Promote national arrangements for emergency responses to activities or events
 1.  Each Contracting Party shall take legislative, administrative or policy measures, as appropriate, to provide for the effective participation in biotechnological research activities by those Contracting Parties, especially developing countries, which provide the genetic resources for such research, and where feasible in such Contracting Parties.   
 2.  Each Contracting Party shall take all practicable measures to promote and advance priority access on a fair and equitable basis by Contracting Parties, especially developing countries, to the results and benefits arising from biotechnologies based upon genetic resources provided by those Contracting Parties. Such access shall be on mutually agreed terms.   
 3.  The Parties shall consider the need for and modalities of a protocol setting out appropriate procedures, including, in particular, advance informed agreement, in the field of the safe transfer, handling and use of any living modified organism resulting from biotechnology that may have adverse effect on the conservation and sustainable use of biological diversity.   
-4.  Each Contracting Party shall, directly or by requiring any natural or legal person under its jurisdiction providing the organisms referred to in paragraph 3 above, provide any available information about the use and safety regulations required by that Contracting Party in handling such organisms, als well as any available information on the potential adverse impact of the specific organisms concerned to the Contracting Party into which those organisms are to be introduced.  
+4.  Each Contracting Party shall, directly or by requiring any natural or legal person under its jurisdiction providing the organisms referred to in paragraph 3 above, provide any available information about the use and safety regulations required by that Contracting Party in handling such organisms, as well as any available information on the potential adverse impact of the specific organisms concerned to the Contracting Party into which those organisms are to be introduced.  
 
 ### Article  20  
 
@@ -309,8 +309,8 @@ c) Identify innovative, efficient and state-of-the-art technologies and know-how
 
 d) Provide advice on scientific programmes and international cooperation in research and development related to conservation and sustainable use of biological diversity; and  
 
-e) Respond to scientific, technical, technological and methodological questions that the Confernce of the Parties and its subsidiary bodies may put to the body.     
-3.  The funtions, terms of reference, organization and operation of this body may be further elaborated by the Conference of the Parties.  
+e) Respond to scientific, technical, technological and methodological questions that the Conference of the Parties and its subsidiary bodies may put to the body.     
+3.  The functions, terms of reference, organization and operation of this body may be further elaborated by the Conference of the Parties.  
 
 ### Article  26  
 
@@ -363,7 +363,7 @@ b) Any Party that is unable to approve an additional annex to this Convention or
 
 c) On the expiry of one year from the date of the communication of the adoption by the Depositary, the annex shall enter into force for all Parties to this Convention or to any protocol concerned which have not submitted a notification in accordance with the provisions of subparagraph b) above.     
 3.  The proposal, adoption and entry into force of amendments to annexes to this Convention or to any protocol shall be subject to the same procedure as for the proposal, adoption and entry into force of annexes to the Convention or annexes to any protocol.   
-4.  If an additonal annex or an amendment to an annex is related to an amendment to this Convention or to any protocol, the additional annex or amendment shall not enter into force until such time as the amendment to the Convention or to the protocol concerned enters into force.  
+4.  If an additional annex or an amendment to an annex is related to an amendment to this Convention or to any protocol, the additional annex or amendment shall not enter into force until such time as the amendment to the Convention or to the protocol concerned enters into force.  
 
 ### Article  31  
 
@@ -409,7 +409,7 @@ This Convention shall be open for signature at Rio de Janeiro by all States and 
 2.  Any protocol shall enter into force on the ninetieth day after the date of deposit of the number of instruments of ratification, acceptance, approval or accession, specified in that protocol.   
 3.  For each Contracting Party which ratifies, accepts or approves this Convention or accedes thereto after the deposit of the thirtieth instrument of ratification, acceptance, approval or accession, it shall enter into force on the ninetieth day after the date of deposit by such Contracting Party of its instrument of ratification, acceptance, approval or accession.   
 4.  Any protocol, except as otherwise provided in such protocol, shall enter into force for a Contracting Party that ratifies, accepts or approves that protocol or accedes thereto after its entry into force pursuant to paragraph 2 above, on the ninetieth day after the date on which that Contracting Party deposits its instrument of ratification, acceptance, approval or accession, or on the date on which this Convention enters into force for that Contracting Party, whichever shall be the later.   
-5.  For the purposes of paragaphs 1 and 2 above, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by member States of such organization.  
+5.  For the purposes of paragraphs 1 and 2 above, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by member States of such organization.  
 
 ### Article  37  
 
@@ -475,7 +475,7 @@ Described genomes and genes of social, scientific or economic importance.
 
 ### Article  1  
 
-The claimant party shall notify the secretariat that the parties are referring a dispute to arbitration purusant to Article 27. The notification shall state the subject-matter of arbitration and include, in particular, the articles of the Convention or the protocol, the interpretation or application of which are at issue. If the parties do not agree on the subject matter of the dispute before the President of the tribunal is designated, the arbitral tribunal shall determine the subject matter. The secretariat shall forward the information thus received to all Contracting Parties to this Convention or to the protocol concerned. 
+The claimant party shall notify the secretariat that the parties are referring a dispute to arbitration pursuant to Article 27. The notification shall state the subject-matter of arbitration and include, in particular, the articles of the Convention or the protocol, the interpretation or application of which are at issue. If the parties do not agree on the subject matter of the dispute before the President of the tribunal is designated, the arbitral tribunal shall determine the subject matter. The secretariat shall forward the information thus received to all Contracting Parties to this Convention or to the protocol concerned. 
 
 ### Article  2  
 
@@ -554,7 +554,7 @@ Any controversy which may arise between the parties to the dispute as regards th
 
 ###Article 1 
 
-A conciliation commision shall be created upon the request of one of the parties to the dispute. The commission shall, unless the parties otherwise agree, be composed of five members, two appointed by each Party concerned and a President chosen jointly by those members.
+A conciliation commission shall be created upon the request of one of the parties to the dispute. The commission shall, unless the parties otherwise agree, be composed of five members, two appointed by each Party concerned and a President chosen jointly by those members.
 
 ### Article  2  
 
@@ -596,7 +596,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:„Biologische diversite
 
 ####Beginsel
 
-Staten hebben, in overeenstemming met het [Handvest van de Verenigde Naties](../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) en de beginselen van internationaal recht, het soevereine recht hun eigen hulpbronnen te exploiteren overeenkomstig hun eigen milieubeleid, alsook de verantwoordelijkheid te verzekeren dat activiteiten die binnen hun rechtsmacht of onder hun toezicht vallen, geen schade aanrichten aan het milieu van andere Staten of van gebieden die onder geen enkele nationale rechtsmacht vallen.
+Staten hebben, in overeenstemming met het Handvest van de Verenigde Naties en de beginselen van internationaal recht, het soevereine recht hun eigen hulpbronnen te exploiteren overeenkomstig hun eigen milieubeleid, alsook de verantwoordelijkheid te verzekeren dat activiteiten die binnen hun rechtsmacht of onder hun toezicht vallen, geen schade aanrichten aan het milieu van andere Staten of van gebieden die onder geen enkele nationale rechtsmacht vallen.
 
 ### Artikel  4  
 

@@ -24,7 +24,7 @@ d. *standplaats:* de plaats van vestiging van een vertegenwoordiging van het Kon
 
 e. *oudedagsvoorziening:* een voorziening die uitsluitend aanspraak geeft op een eenmalige of periodieke uitkering: 
 
-1°. aan de partner op of na de dag waarop de partner de leeftijd van 65 jaar heeft bereikt; en eventueel  
+1°. aan de partner op of na de dag waarop de partner de leeftijd van 60 jaar heeft bereikt; en eventueel  
 
 2°. aan derden op of na de dag waarop de partner is overleden;    
 

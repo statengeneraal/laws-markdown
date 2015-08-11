@@ -3,19 +3,19 @@
 ##Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Gezondheid en Welzijn van Dieren vanaf 1945 (Minister van Landbouw, Natuur en Voedselkwaliteit)
 
 De Minister van Onderwijs, Cultuur en Wetenschap, en de Minister van Landbouw, Natuur en Voedselkwaliteit,  
-Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
+Gelet op artikel 5, tweede lid, onder b, van de Archiefwet 1995;
 
 De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 23 april 2007, arc-2007.03707/6);
 Besluiten:    
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuur en Voedselkwaliteit en de onder hem ressorterende actoren op het beleidsterrein Gezondheid en Welzijn van Dieren over de periode vanaf 1945](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022012/README.md)’ en de daarbij behorende toelichting worden vastgesteld. 
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuur en Voedselkwaliteit en de onder hem ressorterende actoren op het beleidsterrein Gezondheid en Welzijn van Dieren over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
-De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende [selectielijst](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022012/README.md) en toelichting in de Staatscourant zal worden geplaatst. 
+De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst. 
 
 Den Haag 
 8 mei 2007   

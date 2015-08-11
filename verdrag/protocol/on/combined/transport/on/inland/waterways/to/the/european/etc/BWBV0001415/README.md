@@ -653,7 +653,7 @@ c. „bijbehorende voorzieningen": terminals in belangrijke havens voor internat
 
 ####Technische en operationele minimumeisen
 
-Ten einde de dienstverlening in het gecombineerd vervoer op het internationale net van binnenwateren voor gecombineerd vervoer te vergemakkelijken, nemen de Overeenkomstsluitende Partijen passende maatregelen, ten einde aan de in Bijlage II bij dit Protocol vermelde technische en operationele minimumeisen te voldoen. 
+Ten einde de dienstverlening in het gecombineerd vervoer op het internationale net van binnenwateren voor gecombineerd vervoer te vergemakkelijken, nemen de Overeenkomstsluitende Partijen passende maatregelen, ten einde aan de in Bijlage III bij dit Protocol vermelde technische en operationele minimumeisen te voldoen. 
 
 ### Artikel  4  
 
