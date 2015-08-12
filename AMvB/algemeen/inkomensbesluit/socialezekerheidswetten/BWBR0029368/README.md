@@ -28,6 +28,8 @@ Hebben goedgevonden en verstaan:
 
 *loondoorbetaling:* doorbetaling van loon als bedoeld in artikel 629 van Boek 7 van het Burgerlijk Wetboek, doorbetaling van bezoldiging op grond van artikel 76a van de Ziektewet of loondoorbetaling of bezoldiging die naar aard en strekking daarmee overeenkomt; 
 
+*reguliere WW-uitkering:* een uitkering op grond van de Werkloosheidswet, niet zijnde een uitkering op grond van artikel 18 of hoofdstuk IV van de Werkloosheidswet; 
+
 *stamrecht:* recht op periodieke uitkeringen ter vervanging van gederfd of te derven loon;  
 
 *SVB:* Sociale verzekeringsbank, genoemd in hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
@@ -40,7 +42,8 @@ Hebben goedgevonden en verstaan:
 
 *werknemersverzekering:* werknemersverzekering, bedoeld in artikel 2, onderdeel c, van de Wet financiering sociale verzekeringen.     
 2.  In geval van toepassing van dit besluit voor het bepalen van het inkomen, bedoeld in artikel 12 van de Algemene Ouderdomswet, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Toeslagenwet en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, wordt onder uitkeringsgerechtigde mede verstaan de echtgenoot van de uitkeringsgerechtigde, bedoeld in het eerste lid.   
-3.  In geval van toepassing van dit besluit voor het bepalen van het inkomen, bedoeld in de artikelen 8, eerste lid, 10, eerste en tweede lid, en 11 van de Algemene Ouderdomswet, wordt, in afwijking van het eerste lid, onder uitkeringsgerechtigde verstaan de echtgenoot van de pensioengerechtigde.  
+3.  In geval van toepassing van dit besluit voor het bepalen van het inkomen, bedoeld in de artikelen 8, eerste lid, 10, eerste en tweede lid, en 11 van de Algemene Ouderdomswet, wordt, in afwijking van het eerste lid, onder uitkeringsgerechtigde verstaan de echtgenoot van de pensioengerechtigde.   
+4.  Indien een uitkeringsgerechtigde recht heeft op een uitkering op grond van artikel 29, tweede lid, onderdeel d, van de Ziektewet wordt die uitkering steeds aangemerkt als een reguliere WW-uitkering. 
 
 ### Hoofdstuk  2  
 
@@ -224,7 +227,7 @@ d. In afwijking van artikel 2:2, eerste lid, onderdeel a, een bijdrage ingevolge
 
 a. een uitkering als bedoeld in artikel 2:4, eerste lid, onderdeel l, en een uitkering die naar aard en strekking overeenkomt met een uitkering als bedoeld in artikel 2:4, eerste lid, onderdeel l;  
 
-b. een eenmalige premie die door burgemeester en wethouders kan worden toegekend in het kader van een voorziening gericht op arbeidsinschakeling van ten hoogste € 2.339,00 per kalenderjaar; en  
+b. een eenmalige premie die door burgemeester en wethouders kan worden toegekend in het kader van een voorziening gericht op arbeidsinschakeling van ten hoogste € 2.340,00 per kalenderjaar; en  
 
 c. een kostenvergoeding voor het verrichten van vrijwilligerswerk van ten hoogste € 95,– per maand met een maximum van € 764,– per jaar, dan wel een kostenvergoeding voor het verrichten van vrijwilligerswerk in het kader van een voorziening gericht op arbeidsinschakeling als bedoeld in artikel 7, eerste lid, onderdeel a, van de Participatiewet van ten hoogste € 150,– per maand met een maximum van € 1.500,– per jaar.     
 2.  De bedragen, genoemd in het eerste lid, onderdelen b en c, worden gewijzigd indien de ontwikkeling van de in artikel 31, tweede lid, onderdelen j en k, van de Participatiewet, genoemde bedragen daartoe aanleiding geeft. De gewijzigde bedragen en de dag waarop deze wijziging ingaat, worden door of namens Onze Minister bekendgemaakt in de Staatscourant.  
@@ -315,44 +318,96 @@ d. de belastbare winst uit onderneming, bedoeld in paragraaf 3.2.1 van de Wet in
 
 e. een uitkering op grond van de Wet arbeid en zorg aan de zelfstandige of de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in artikel 3:17, eerste lid, onder a en b, van die wet.     
 2.  Indien het inkomen, bedoeld in het eerste lid, onderdelen c of d, een negatief bedrag is, dan wordt dat inkomen op nihil gesteld.   
-3.  Voor zover de uitkeringsgerechtigde op de dag voorafgaand aan: 
+3.  In afwijking van het eerste lid, wordt niet tot het inkomen gerekend: inkomen dat is verdiend in uren die reeds via de Werkloosheidswet met de uitkering op grond van die wet zijn verrekend.  
+4.  Voor zover de uitkeringsgerechtigde op de dag voorafgaand aan: 
 
-a. de dag waarop het recht op een uitkering op grond van de Werkloosheidswet is ontstaan; of  
+a. de dag waarop het recht op een uitkering op grond van artikel 18 of hoofdstuk IV van de Werkloosheidswet is ontstaan; of  
 
-b. de eerste dag van de ongeschiktheid tot werken, bedoeld in artikel 29, derde lid, van de Ziektewet, ingeval de uitkeringsgerechtigde recht heeft op een uitkering op grond van artikel 29, tweede lid, van de Ziektewet;   inkomen als bedoeld in het eerste lid, onderdelen a tot en met d, ontvangt uit andere werkzaamheden dan de werkzaamheden waaruit het recht op de uitkering op grond van de Werkloosheidswet of artikel 29, tweede lid, van de Ziektewet is ontstaan, wordt dat inkomen niet in aanmerking genomen voor de uitkering op grond van de Werkloosheidswet respectievelijk Ziektewet.   
-4.  Voor zover de uitkeringsgerechtigde die recht heeft op een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen op de dag voorafgaand aan de eerste dag van de wachttijd, bedoeld in artikel 23 van de Wet werk en inkomen naar arbeidsvermogen, inkomen ontvangt als bedoeld in eerste lid, onderdelen b tot en met d, uit andere werkzaamheden dan de werkzaamheden waaruit het recht op uitkering is ontstaan, wordt dat inkomen niet in aanmerking genomen voor de uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen.   
-5.  Voor zover een uitkeringsgerechtigde die recht heeft op een uitkering op grond van artikel 29, tweede lid, van de Ziektewet: 
+b. de eerste dag van de ongeschiktheid tot werken, bedoeld in artikel 29, derde lid, van de Ziektewet, in geval de uitkeringsgerechtigde recht heeft op een uitkering op grond van artikel 29, tweede lid, van de Ziektewet,   inkomen als bedoeld in het eerste lid, ontvangt uit andere werkzaamheden dan de werkzaamheden waaruit het recht op de uitkering op grond van artikel 18 of hoofdstuk IV van de Werkloosheidswet of artikel 29, tweede lid, van de Ziektewet is ontstaan, wordt dat inkomen niet in aanmerking genomen voor die uitkering op grond van de Werkloosheidswet respectievelijk de Ziektewet.   
+5.  Voor zover de uitkeringsgerechtigde die recht heeft op een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen op de dag voorafgaand aan de eerste dag van de wachttijd, bedoeld in artikel 23 van de Wet werk en inkomen naar arbeidsvermogen, inkomen ontvangt als bedoeld in eerste lid, onderdelen b tot en met d, uit andere werkzaamheden dan de werkzaamheden waaruit het recht op uitkering is ontstaan, wordt dat inkomen niet in aanmerking genomen voor de uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen.   
+6.  Voor zover een uitkeringsgerechtigde die recht heeft op een uitkering op grond van artikel 29, tweede lid, van de Ziektewet: 
 
 a. op de dag voorafgaand aan de eerste dag van de ongeschiktheid tot werken, bedoeld in artikel 29, derde lid, van de Ziektewet, recht had op een uitkering op grond van de artikelen 3:7, 3:8, 3:9 of 3:10 van de Wet arbeid en zorg; en  
 
 b. op de dag voorafgaand aan de dag waarop dat recht op een uitkering op grond van de Wet arbeid en zorg is ontstaan inkomen als bedoeld in het eerste lid, onderdeel a, ontvangt uit een andere dienstbetrekking dan de dienstbetrekking waaruit het recht op hiervoor genoemde uitkering op grond van de Ziektewet is ontstaan;   wordt dat inkomen niet in aanmerking genomen.   
-6.  Voor zover een uitkeringsgerechtigde die recht heeft op een uitkering op grond van de Werkloosheidswet: 
+7.  Voor zover een uitkeringsgerechtigde die recht heeft op een uitkering op grond van artikel 18 of hoofdstuk IV van de Werkloosheidswet: 
 
-a. op de dag voorafgaand aan de dag waarop het recht op een uitkering op grond van de Werkloosheidswet is ontstaan recht had op een uitkering op grond van de artikelen 3:7, 3:8, 3:9 of 3:10 van de Wet arbeid en zorg; en  
+a. op de dag voorafgaand aan de dag waarop het recht op een uitkering op grond van artikel 18 of hoofdstuk IV van de Werkloosheidswet is ontstaan recht had op een uitkering op grond van de artikelen 3:7, 3:8, 3:9 of 3:10 van de Wet arbeid en zorg; en  
 
 b. op de dag voorafgaand aan de dag waarop dat recht op een uitkering op grond van de Wet arbeid en zorg is ontstaan inkomen als bedoeld in het eerste lid, onderdeel a, ontvangt uit een andere dienstbetrekking dan de dienstbetrekking waaruit het recht op hiervoor genoemde uitkering op grond van de Werkloosheidswet is ontstaan;   wordt dat inkomen niet in aanmerking genomen.   
-7.  Indien een uitkeringsgerechtigde inkomen als bedoeld in het eerste lid ontvangt uit dezelfde werkzaamheden als de werkzaamheden waaruit een recht op uitkering op grond van de Werkloosheidswet, artikel 29, tweede lid, van de Ziektewet of Wet werk en inkomen naar arbeidsvermogen of recht op loondoorbetaling bestaat, wordt dat inkomen uitsluitend in aanmerking genomen voor die uitkering of loondoorbetaling.   
-8.  Indien een uitkeringsgerechtigde recht heeft op: 
+8.  Indien een uitkeringsgerechtigde inkomen als bedoeld in het eerste lid ontvangt uit dezelfde werkzaamheden als de werkzaamheden waaruit een recht op uitkering op grond van de Werkloosheidswet, artikel 29, tweede lid, van de Ziektewet of Wet werk en inkomen naar arbeidsvermogen of recht op loondoorbetaling bestaat, wordt dat inkomen uitsluitend in aanmerking genomen voor die uitkering of loondoorbetaling.   
+9.  Indien de uitkeringsgerechtigde: 
 
-a. twee uitkeringen op grond van artikel 29, tweede lid, van de Ziektewet of een uitkering op grond van artikel 29, tweede lid, van de Ziektewet en loondoorbetaling;  
+a. een recht op uitkering heeft op grond van de Werkloosheidswet, artikel 29, tweede lid, van de Ziektewet of de Wet werk en inkomen naar arbeidsvermogen dan wel recht bestaat op loondoorbetaling;  
 
-b. recht heeft op een uitkering op grond van de Werkloosheidswet en de Wet werk en inkomen naar arbeidsvermogen; of  
+b. daarnaast een recht op uitkering heeft op grond van de Werkloosheidswet, artikel 29, tweede lid, van de Ziektewet of de Wet werk en inkomen naar arbeidsvermogen dan wel recht bestaat op loondoorbetaling; en  
 
-c. recht heeft op een uitkering op grond van de Werkloosheidswet of de Wet werk en inkomen naar arbeidsvermogen en een uitkering op grond van artikel 29, tweede lid, van de Ziektewet of loondoorbetaling;   en daarnaast inkomen als bedoeld in het eerste lid ontvangt uit werkzaamheden die zijn aangevangen nadat het eerste recht op uitkering of loondoorbetaling is ontstaan, uit andere werkzaamheden dan de werkzaamheden waaruit de rechten op uitkering of loondoorbetaling zijn ontstaan en voordat het tweede recht op uitkering of loondoorbetaling is ontstaan, wordt dat inkomen in aanmerking genomen voor de uitkering of loondoorbetaling waarvan het recht als eerste is ontstaan.   
-9.  Indien de uitkeringsgerechtigde recht heeft op: 
+c. inkomen als bedoeld in het eerste lid ontvangt uit werkzaamheden die zijn aangevangen nadat het eerste recht op uitkering of loondoorbetaling is ontstaan, uit andere werkzaamheden dan de werkzaamheden waaruit de rechten op uitkering of loondoorbetaling zijn ontstaan en voordat het tweede recht op uitkering of loondoorbetaling is ontstaan,   wordt dat inkomen in aanmerking genomen voor de uitkering of loondoorbetaling waarvan het recht als eerste is ontstaan.   
+10.  Indien de uitkeringsgerechtigde: 
 
-a. twee uitkeringen op grond van artikel 29, tweede lid, van de Ziektewet of een uitkering op grond van artikel 29, tweede lid, van de Ziektewet en loondoorbetaling; of  
+a. een recht op uitkering heeft op grond van de Werkloosheidswet, artikel 29, tweede lid, van de Ziektewet of de Wet werk en inkomen naar arbeidsvermogen dan wel recht bestaat op loondoorbetaling;  
 
-b. een uitkering op grond van artikel 29, tweede lid, van de Ziektewet of loondoorbetaling en een uitkering op grond van de Werkloosheidswet;   en daarna inkomen als bedoeld in het eerste lid ontvangt uit andere werkzaamheden dan de werkzaamheden waaruit de rechten op uitkering of loondoorbetaling zijn ontstaan, dan wordt dat inkomen pro rato in aanmerking genomen voor de twee uitkeringen of loondoorbetalingen.   
-10.  Indien de uitkeringsgerechtigde recht heeft op een uitkering op grond van artikel 29, tweede lid, van de Ziektewet of de Werkloosheidswet of loondoorbetaling en een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen en daarna inkomen als bedoeld in het eerste lid ontvangt uit andere werkzaamheden dan de werkzaamheden waaruit de rechten op uitkering of loondoorbetaling zijn ontstaan, wordt dat inkomen in aanmerking genomen voor de uitkering of loondoorbetaling waarvan het recht als tweede is ontstaan.   
-11.  Voor de toepassing van het zevende, het achtste lid en het tiende lid geldt dat, indien het inkomen, bedoeld in het eerste lid, meer bedraagt dan het dagloon op grond waarvan de uitkering waarvoor dat inkomen in aanmerking is genomen, wordt berekend, wordt dat meerdere in aanmerking genomen voor de andere uitkering.   
-12.  Indien de uitkeringsgerechtigde waarop het zevende, achtste, negende, of tiende lid van toepassing is met verlof gaat of recht ontstaat op een uitkering die voorafgaat aan een uitkering bij wijze van oudedagsvoorziening of het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, wordt voor de toepassing van het zevende, achtste, negende, tiende of elfde lid het inkomen dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin het verlof aanving respectievelijk het recht op die uitkering ontstond aangemerkt als inkomen als bedoeld in het eerste lid.  
+b. daarnaast een recht op uitkering heeft op grond van de Werkloosheidswet, artikel 29, tweede lid, van de Ziektewet of de Wet werk en inkomen naar arbeidsvermogen dan wel recht bestaat op loondoorbetaling; en  
+
+c. daarna inkomen als bedoeld in het eerste lid ontvangt uit andere werkzaamheden dan de werkzaamheden waaruit de rechten op uitkering of loondoorbetaling zijn ontstaan,   dan wordt dat inkomen in aanmerking genomen voor de uitkering of loondoorbetaling waarvan het recht als tweede is ontstaan.   
+11.  In afwijking van het tiende lid, wordt, indien de uitkeringsgerechtigde: 
+
+a. een recht op uitkering heeft op grond van artikel 29, tweede lid, van de Ziektewet dan wel recht heeft op loondoorbetaling;  
+
+b. een recht op uitkering heeft op grond van artikel 29, tweede lid, van de Ziektewet dan wel recht heeft op loondoorbetaling; en  
+
+c. daarna inkomen als bedoeld in het eerste lid ontvangt uit andere werkzaamheden dan de werkzaamheden waaruit de rechten op uitkering of loondoorbetaling zijn ontstaan,   dat inkomen pro rata in aanmerking genomen voor de twee uitkeringen of rechten op loondoorbetaling.   
+12.  In afwijking van het achtste en negende lid wordt, indien de uitkeringsgerechtigde recht heeft op twee reguliere WW-uitkeringen en daarnaast inkomen als bedoeld in het eerste lid ontvangt, dat inkomen in aanmerking genomen voor de uitkering waarvan het recht als tweede is ontstaan.   
+13.  In afwijking van het negende en tiende lid wordt, indien de uitkeringsgerechtigde recht heeft op: 
+
+a. een reguliere WW-uitkering;  
+
+b. een uitkering op grond van artikel 18 of hoofdstuk IV van de Werkloosheidswet; en  
+
+c. tevens inkomen als bedoeld in het eerste lid ontvangt,   het inkomen in aanmerking genomen voor de reguliere WW-uitkering.   
+14.  In afwijking van het achtste, negende en tiende lid wordt, indien de uitkeringsgerechtigde recht heeft op: 
+
+a. een reguliere WW-uitkering;  
+
+b. een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen; en  
+
+c. tevens inkomen als bedoeld in het eerste lid ontvangt,   het inkomen in aanmerking genomen voor de reguliere WW-uitkering.   
+15.  In afwijking van het negende en tiende lid wordt, indien de uitkeringsgerechtigde recht heeft op: 
+
+a. een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen;  
+
+b. een uitkering op grond van artikel 18 of hoofdstuk IV van de Werkloosheidswet; en  
+
+c. tevens inkomen als bedoeld in het eerste lid ontvangt,   het inkomen in aanmerking genomen voor de uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen.   
+16.  In afwijking van het tiende lid wordt, indien de uitkeringsgerechtigde recht heeft op: 
+
+a. een uitkering op grond van artikel 29, tweede lid, van de Ziektewet;  
+
+b. een uitkering op grond van artikel 18 of hoofdstuk IV van de Werkloosheidswet; en  
+
+c. tevens inkomen als bedoeld in het eerste lid ontvangt,   het inkomen in aanmerking genomen voor de uitkering op grond van artikel 29, tweede lid, van de Ziektewet.   
+17.  In afwijking van het tiende lid wordt, indien de uitkeringsgerechtigde recht heeft op: 
+
+a. een uitkering op grond van artikel 18 van de Werkloosheidswet;  
+
+b. een uitkering op grond van hoofdstuk IV van de Werkloosheidswet; en  
+
+c. tevens inkomen als bedoeld in het eerste lid, onderdeel a, ontvangt,   het inkomen in aanmerking genomen voor de op grond van hoofdstuk IV van de Werkloosheidswet ontstane uitkering.   
+18.  In afwijking van het negende en veertiende lid wordt, indien een uitkeringsgerechtigde recht heeft op: 
+
+a. een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen;  
+
+b. een reguliere WW-uitkering; en  
+
+c. na aanvang van de wachttijd, bedoeld in artikel 23 van de Wet werk en inkomen naar arbeidsvermogen, tevens inkomen ontvangt als bedoeld in het eerste lid, onderdeel b, c, d of e ontvangt,   het inkomen in aanmerking genomen voor de uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen.   
+19.  Voor de toepassing van het achtste, negende, tiende, veertiende tot en met zestiende lid geldt dat, indien het inkomen, bedoeld in het eerste lid, meer bedraagt dan het dag- of maandloon op grond waarvan de uitkering waarvoor dat inkomen in aanmerking is genomen, wordt berekend, wordt dat meerdere in aanmerking genomen voor de andere uitkering.   
+20.  Indien de uitkeringsgerechtigde voor wie een van de leden acht tot en met achttien van toepassing is met verlof gaat of recht ontstaat op een uitkering die voorafgaat aan een uitkering bij wijze van oudedagsvoorziening of het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, wordt voor de toepassing van het achtste, tot en met negentiende lid het inkomen dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin het verlof aanving respectievelijk het recht op die uitkering ontstond aangemerkt als inkomen als bedoeld in het eerste lid. 
 
 ### Artikel  3:3  
 
 ####Uitbreiding inkomen
 
-1.  Ingeval van een uitkeringsgerechtigde voor wie naast recht op een uitkering op grond van de Werkloosheidswet of artikel 29, tweede lid, van de Ziektewet recht ontstaat op: 
+1.  Ingeval van een uitkeringsgerechtigde voor wie naast recht op een uitkering op grond van artikel 18 of hoofdstuk IV van de Werkloosheidswet of artikel 29, tweede lid, van de Ziektewet recht ontstaat op: 
 
 a. loondoorbetaling;  
 
@@ -360,8 +415,8 @@ b. een uitkering als bedoeld in hoofdstuk IV van de Werkloosheidswet of een op b
 
 c. een uit een dienstbetrekking voortvloeiende periodieke uitkering bij wijze van oudedagsvoorziening, dan wel een uitkering die voorafgaat aan die uitkering of het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, of een op basis van een wettelijke regeling verstrekte uitkering die naar aard en strekking daarmee overeenkomt;  
 
-d. een op basis van een wettelijke regeling verstrekte uitkering die naar aard en strekking overeenkomt met een uitkering als bedoeld in het vierde lid,   wordt tevens onder inkomen verstaan het inkomen, bedoeld in artikel 3:2, eerste lid, dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin recht ontstond op die loon, bezoldiging respectievelijk uitkering.   
-2.  Ingeval van een uitkeringsgerechtigde voor wie naast recht op een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen recht bestaat op: 
+d. een op basis van een wettelijke regeling verstrekte uitkering die naar aard en strekking overeenkomt met een uitkering als bedoeld in het vierde lid,   wordt tevens onder inkomen verstaan het inkomen, bedoeld in artikel 3:2, eerste lid, dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin recht ontstond op loon, bezoldiging respectievelijk uitkering. Dit lid is uitsluitend van toepassing indien het recht op uitkering, bezoldiging of loon is ontstaan uit hoofde van werkzaamheden die zijn gestart nadat het recht op uitkering op grond van artikel 18 of hoofdstuk IV van de Werkloosheidswet of artikel 29, tweede lid, van de Ziektewet is ontstaan.   
+2.  Ingeval van een uitkeringsgerechtigde voor wie naast recht op een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen of recht op een reguliere WW-uitkering recht bestaat op: 
 
 a. loondoorbetaling;  
 
@@ -373,24 +428,30 @@ d. een op basis van een wettelijke regeling verstrekte uitkering die naar aard e
 
 1°  uitkering als bedoeld in het vijfde lid, onderdeel a; of  
 
-2° uitkering als bedoeld in het vijfde lid, onderdeel b,     wordt tevens onder inkomen verstaan het inkomen, bedoeld in artikel 3:2, eerste lid, dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin recht ontstond op die loon, bezoldiging respectievelijk uitkering.   
-3.  Indien de uitkeringsgerechtigde die recht heeft op een uitkering op grond van de Werkloosheidswet of artikel 29, tweede lid, van de Ziektewet met verlof gaat of indien de uitkeringsgerechtigde die recht heeft op een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen met verlof is, wordt tevens onder inkomen verstaan het inkomen als bedoeld in artikel 3:2, eerste lid, dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin het verlof aanving.   
-4.  Ingeval van een uitkeringsgerechtigde voor wie naast recht op een uitkering op grond van de Werkloosheidswet of artikel 29, tweede lid, van de Ziektewet, recht ontstaat op: 
+2° uitkering als bedoeld in het vijfde lid, onderdeel b,     wordt tevens onder inkomen verstaan het inkomen, bedoeld in artikel 3:2, eerste lid, dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin recht ontstond op loon, bezoldiging respectievelijk uitkering.   
+3.  Indien de uitkeringsgerechtigde die recht heeft op een uitkering op grond van artikel 18 of hoofdstuk IV van de Werkloosheidswet of artikel 29, tweede lid, van de Ziektewet met verlof gaat, wordt tevens onder inkomen verstaan het inkomen als bedoeld in artikel 3:2, eerste lid, dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin het verlof aanving, mits het recht op verlof is ontstaan uit werkzaamheden die zijn gestart nadat een eerder recht op uitkering op grond van artikel 18 of hoofdstuk IV van de Werkloosheidswet of artikel 29, tweede lid, van de Ziektewet is ontstaan.   
+4.  Indien voor de uitkeringsgerechtigde voor wie naast recht op een uitkering op grond van artikel 18 of hoofdstuk IV van de Werkloosheidswet of artikel 29, tweede lid, van de Ziektewet, recht ontstaat op: 
 
 a. een uitkering op grond van artikel 29, tweede lid, van de Ziektewet; of  
 
-b. een uitkering op grond van hoofdstuk II of III van de Werkloosheidswet; wordt tevens onder inkomen verstaan het dagloon op grond waarvan de uitkering, bedoeld in onderdeel a of b, wordt berekend.     
-5.  Indien voor de uitkeringsgerechtigde naast recht op een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen recht bestaat op: 
+b. een uitkering op grond van artikel 18 van de Werkloosheidswet,   wordt tevens onder inkomen verstaan het dag- of maandloon op grond waarvan de uitkering, bedoeld in onderdeel a of b, wordt berekend, mits dat recht op uitkering is ontstaan uit hoofde van werkzaamheden die zijn gestart nadat het recht op uitkering op grond van artikel 18 of hoofdstuk IV van de Werkloosheidswet of artikel 29, tweede lid, van de Ziektewet is ontstaan.   
+5.  Indien voor de uitkeringsgerechtigde naast een recht op uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen recht bestaat op: 
 
 a. een uitkering op grond artikel 29, tweede lid, van de Ziektewet; of  
 
-b. een uitkering op grond van hoofdstuk II of III van de Werkloosheidswet;   wordt tevens onder inkomen verstaan het dagloon op grond waarvan de uitkering, bedoeld in onderdeel a of b, wordt berekend.   
-6.  Artikel 3:3, eerste, derde en vierde lid, is uitsluitend van toepassing indien het recht op de daargenoemde uitkering, bezoldiging of loon is ontstaan uit hoofde van werkzaamheden die zijn gestart nadat een eerder recht op uitkering op grond van de Werkloosheidswet of artikel 29, tweede lid, van de Ziektewet is ontstaan.   
-7.  Voor zover de uitkeringsgerechtigde die recht heeft op een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen op de dag voorafgaand aan de eerste dag van de wachttijd, bedoeld in artikel 23 van de Wet werk en inkomen naar arbeidsvermogen, recht heeft op een uitkering als bedoeld in het tweede lid, onderdeel c, wordt die uitkering niet aangemerkt als inkomen.   
-8.  Indien geen recht op loondoorbetaling bestaat door toepassing van artikel 629, derde of negende lid, van Boek 7 van het Burgerlijk Wetboek of een algemeen verbindend voorschrift als bedoeld in artikel 76b, eerste tot en met het derde lid, van de Ziektewet, of op gronden die naar aard en strekking daarmee overeenkomen, wordt voor de toepassing van dit artikel het loon of bezoldiging in aanmerking genomen als ware er wel recht op doorbetaling.   
-9.  Indien de uitkering op grond van de Werkloosheidswet is geëindigd omdat de uitkeringsgerechtigde niet beschikbaar is voor arbeid, wordt die uitkering in aanmerking genomen alsof die eindiging niet heeft plaatsgevonden.   
-10.  Na het bepalen van het inkomen op grond van het vierde en vijfde lid wordt voor de toepassing van die leden het dagloon niet herzien als bedoeld in de artikelen 16 van de Ziektewet of 46 van de Werkloosheidswet.   
-11.  Voor de toepassing van het eerste, tweede of derde lid wordt bij een per aangiftetijdvak wisselend inkomen in afwijking van het eerste, tweede of derde lid als inkomen aangemerkt het gemiddelde van het inkomen in de drie aangiftetijdvakken voor het aangiftetijdvak waarin het recht ontstond op de doorbetaling van loon, bezoldiging of uitkering, bedoeld in het eerste respectievelijk het tweede lid, of het verlof, bedoeld in het derde lid, aanving.  
+b. een reguliere WW-uitkering of een uitkering op grond van artikel 18 van de Werkloosheidswet,   wordt tevens onder inkomen verstaan het dag- of maandloon op grond waarvan de uitkering, bedoeld in onderdeel a of b, wordt berekend.   
+6.  In geval van een uitkeringsgerechtigde voor wie naast een reguliere WW-uitkering, recht bestaat op: 
+
+a. een uitkering op grond van artikel 29, tweede lid, van de Ziektewet; of  
+
+b. een uitkering op grond van artikel 18 van de Werkloosheidswet;   wordt tevens onder inkomen verstaan het dag- of maandloon op grond waarvan de uitkering, bedoeld in onderdeel a of b, wordt berekend.   
+7.  In geval van een uitkeringsgerechtigde voor wie naast een reguliere WW-uitkering nog een recht ontstaat op een reguliere WW-uitkering, wordt het maandloon van de laatst ontstane uitkering aangemerkt als inkomen voor het eerst ontstane recht.   
+8.  Indien de uitkeringsgerechtigde, die recht heeft op een reguliere WW-uitkering of op een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen met verlof is, wordt tevens onder inkomen verstaan het inkomen als bedoeld in artikel 3:2, eerste lid, dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin het verlof aanving.  
+9.  Voor zover de uitkeringsgerechtigde die recht heeft op een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen op de dag voorafgaand aan de eerste dag van de wachttijd, bedoeld in artikel 23 van de Wet werk en inkomen naar arbeidsvermogen, recht heeft op een uitkering als bedoeld in het tweede lid, onderdeel c, wordt die uitkering niet aangemerkt als inkomen.   
+10.  Indien geen recht op loondoorbetaling bestaat door toepassing van artikel 629, derde of negende lid, van Boek 7 van het Burgerlijk Wetboek of een algemeen verbindend voorschrift als bedoeld in artikel 76b, eerste tot en met het derde lid, van de Ziektewet, of op gronden die naar aard en strekking daarmee overeenkomen, wordt voor de toepassing van dit artikel het loon of bezoldiging in aanmerking genomen als ware er wel recht op doorbetaling.   
+11.  Indien de uitkering op grond van de Werkloosheidswet is geëindigd omdat de uitkeringsgerechtigde niet beschikbaar is voor arbeid, wordt die uitkering in aanmerking genomen alsof die eindiging niet heeft plaatsgevonden.   
+12.  Na het bepalen van het inkomen op grond van het vierde tot en met zesde lid wordt voor de toepassing van die leden het dagloon niet herzien als bedoeld in de artikelen 16 van de Ziektewet of 1b, zevende lid van de Werkloosheidswet.   
+13.  Indien er sprake is van een per aangiftetijdvak wisselend inkomen, wordt, in afwijking van het eerste, tweede, derde of achtste lid of artikel 3:2, twintigste lid als inkomen aangemerkt het gemiddelde van het inkomen in de drie aangiftetijdvakken voor het aangiftetijdvak waarin het recht ontstond op de doorbetaling van loon, bezoldiging of uitkering, bedoeld in het eerste of tweede lid, of artikel 3:2, twintigste lid, of het verlof, bedoeld in het derde of achtste lid, aanving.  
 
 ### Paragraaf  2  
 
@@ -400,74 +461,76 @@ b. een uitkering op grond van hoofdstuk II of III van de Werkloosheidswet;   wor
 
 ####Uitzonderingen voor de Wet werk en inkomen naar arbeidsvermogen
 
-1.  Voor het bepalen van het inkomen, bedoeld in artikel 52, vierde lid, van de Wet werk en inkomen naar arbeidsvermogen, geldt dat het loon dat door de werkgever wordt betaald niet als inkomen wordt aangemerkt, indien sprake is van een verkorte wachttijd als bedoeld in artikel 23, zesde lid, van die wet.   
+1.  Voor het bepalen van het inkomen, bedoeld in artikel 52, vierde lid, van de Wet werk en inkomen naar arbeidsvermogen, geldt dat het loon dat door de werkgever wordt betaald, voordat het recht op loondoorbetaling, bedoeld in artikel 629, eerste lid, van Boek 7 van het Burgerlijk Wetboek voor het eerst is geëindigd, niet als inkomen wordt aangemerkt, indien: 
+
+a. sprake is van een verkorte wachttijd als bedoeld in artikel 23, zesde lid, van de Wet werk en inkomen naar arbeidsvermogen;  
+
+b. de uitkeringsgerechtigde geen recht had op een WGA-uitkering omdat hij minder dan 35% arbeidsongeschikt was na afloop van de wachttijd, bedoeld in artikel 23, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen en de volledige en duurzame arbeidsongeschiktheid intreedt binnen vijf jaar daarna en voortkomt uit dezelfde oorzaak als op grond waarvan hij gedurende die wachttijd ongeschikt was tot het verrichten van arbeid; of  
+
+c. de uitkeringsgerechtigde op de dag voorafgaand aan het intreden van de volledige en duurzame arbeidsongeschiktheid recht had op een WGA-uitkering.     
 2.  Voor het bepalen van het inkomen, bedoeld in artikel 60, eerste lid, aanhef en onder a, van de Wet werk en inkomen naar arbeidsvermogen, geldt dat: 
 
-a. indien de uitkeringsgerechtigde recht heeft op een uitkering op grond van artikel 29, tweede lid, van de Ziektewet, artikel 3:2, zevende, achtste of tiende lid, uitsluitend van toepassing is indien de dienstbetrekking voortduurt op grond waarvan het recht op uitkering ontstond;  
+a. indien de uitkeringsgerechtigde recht heeft op een uitkering op grond van artikel 29, tweede lid, van de Ziektewet, artikel 3:2, achtste, negende of tiende lid, uitsluitend van toepassing is indien de dienstbetrekking voortduurt op grond waarvan het recht op uitkering ontstond;  
 
-b. indien de uitkeringsgerechtigde recht heeft op een uitkering op grond van de Werkloosheidswet, artikel 3:2, zevende, achtste of tiende lid, uitsluitend van toepassing is indien het een uitkering op grond van artikel 18 van de Werkloosheidswet betreft of een uitkering wegens werkloosheid die uitsluitend het gevolg is van verkorting van de werktijd, waarvoor op grond van artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945 ontheffing is verleend;  
+b. artikel 3:3, tweede lid, onderdeel d, onder 1°, uitsluitend van toepassing is indien de dienstbetrekking voortduurt op grond waarvan het recht op uitkering ontstond;  
 
-c. artikel 3:3, tweede lid, onderdeel d, onder 1°, uitsluitend van toepassing is indien de dienstbetrekking voortduurt op grond waarvan het recht op uitkering ontstond;  
-
-d. artikel 3:3, tweede lid, onderdeel d, onder 2°, uitsluitend van toepassing is indien het een uitkering op grond van artikel 18 van de Werkloosheidswet betreft;  
-
-e. artikel 3:3, derde lid, uitsluitend van toepassing is, indien: 
+c. artikel 3:3, achtste lid, uitsluitend van toepassing is, indien: 
 
 1°. het verlof als bedoeld in de Wet arbeid en zorg betreft; of  
 
 2°. de uitkeringsgerechtigde tijdens het verlof een uitkering op grond van een levensloopregeling als bedoeld in artikel 19g van de Wet op de loonbelasting 1964 ontvangt;    
 
-f. artikel 3:3, vijfde lid, onderdeel a, uitsluitend van toepassing is, indien de dienstbetrekking voortduurt op grond waarvan het recht op uitkering ontstond;  
+d. artikel 3:3, vijfde lid, onderdeel a, uitsluitend van toepassing is, indien de dienstbetrekking voortduurt op grond waarvan het recht op uitkering ontstond;  
 
-g. artikel 3:3, vijfde lid, onderdeel b, uitsluitend van toepassing is indien het een uitkering op grond van artikel 18 van de Werkloosheidswet betreft of een uitkering wegens werkloosheid die uitsluitend het gevolg is van verkorting van de werktijd, waarvoor op grond van artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945 ontheffing is verleend.    
+e. indien de uitkeringsgerechtigde recht heeft op een uitkering op grond van de Werkloosheidswet zijn artikelen 3:2 en 3:3 niet van toepassing met dien verstande dat onder inkomen wordt verstaan: 
+
+1°. indien het een reguliere WW-uitkering of een uitkering op grond van hoofdstuk III van de Werkloosheidswet betreft, het inkomen, bedoeld in artikel 3:2, eerste lid;  
+
+2°. indien het een WW-uitkering op grond van hoofdstuk IV van de Werkloosheidswet of een naar aard en strekking overeenkomstige regeling betreft, het inkomen, bedoeld in artikel 3:2, eerste lid, dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin recht ontstond op die uitkering en het inkomen, bedoeld in artikel 3:2, eerste lid, tenzij dat inkomen wordt ontvangen uit de dienstbetrekking waaruit de uitkeringsgerechtigde werkloos is geworden;  
+
+3°. indien het een uitkering op grond van artikel 18 van de Werkloosheidswet betreft, het dagloon op grond waarvan die uitkering wordt berekend en het inkomen, bedoeld in artikel 3:2, eerste lid, tenzij dat inkomen wordt ontvangen uit de dienstbetrekking waaruit de uitkeringsgerechtigde werkloos is geworden.     
 
 ### Artikel  3:5  
 
 ####Uitzonderingen voor de Werkloosheidswet
 
-1.  Voor het bepalen van het inkomen, bedoeld in artikel 34 van de Werkloosheidswet, zijn de artikelen 3:2 en 3:3 niet van toepassing en wordt tot het inkomen gerekend: 
+1.  Artikel 3:2, eerste lid, onderdeel b, c, d en e is niet van toepassing bij de vaststelling van het inkomen voor de Werkloosheidswet, tenzij het betrekking heeft op bezoldiging in verband met het uitoefenen van werkzaamheden als lid van de Eerste Kamer der Staten-Generaal, van een vertegenwoordigend orgaan van een publiekrechtelijk lichaam, dat bij rechtstreekse verkiezing wordt samengesteld, of van een algemeen bestuur van een waterschap.   
+2.  Artikel 3:3, eerste lid, onderdeel c en tweede lid, onderdeel c zijn niet van toepassing bij de vaststelling van inkomen voor de Werkloosheidswet.   
+3.  Voor zover de uitkeringsgerechtigde op de dag voorafgaand aan de eerste dag van werkloosheid, bedoeld in artikel 16a van de Werkloosheidswet, inkomen ontvangt als bedoeld in het eerste lid, wordt dat inkomen niet in aanmerking genomen voor de uitkering op grond van de Werkloosheidswet.   
+4.  Voor de Werkloosheidswet wordt als inkomen in verband met arbeid beschouwd: 
 
-a. een uit een dienstbetrekking voortvloeiende periodieke uitkering bij wijze van oudedagsvoorziening, danwel een uitkering die voorafgaat aan die uitkering of het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet;  
+a. een uit een dienstbetrekking voortvloeiende periodieke uitkering bij wijze van oudedagsvoorziening, dan wel een uitkering die voorafgaat aan die uitkering of het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet;  
 
-b. een uitkering op grond van het bepaalde bij of krachtens dan wel op de voet van de Algemene pensioenwet politieke ambtsdragers;  
+b. een uitkering op grond van het bepaalde bij of krachtens dan wel op de voet van de Algemene pensioenwet politieke ambtsdragers; en  
 
-c. loon uit dienstbetrekking dat de uitkeringsgerechtigde geniet zonder hiervoor te werken; en  
+c. een wettelijke buitenlandse uitkering wegens arbeidsongeschiktheid.     
+5.  In afwijking van het vierde lid, onderdeel a, wordt niet tot het inkomen in verband met arbeid gerekend de uitkering, bedoeld in het vierde lid, onderdeel a, indien die uitkering door de uitkeringsgerechtigde voor het intreden van de werkloosheid werd ontvangen en die samenhangt met een eerder verlies van arbeidsuren.   
+6.  In afwijking van het vierde lid, onderdeel b, wordt de uitkering op grond van het bepaalde bij of krachtens dan wel op de voet van de Algemene pensioenwet politieke ambtsdragers, voor een uitkering op grond van de Werkloosheidswet niet tot inkomen in verband met arbeid gerekend, indien die uitkering: 
 
-d. een wettelijke buitenlandse uitkering wegens arbeidsongeschiktheid.     
-2.  In afwijking van het eerste lid, onderdeel a, wordt niet tot het inkomen gerekend een uitkering die door de uitkeringsgerechtigde wordt ontvangen en die betrekking heeft op een andere dienstbetrekking dan de dienstbetrekking, waaruit de werkloosheid is ontstaan en die dienstbetrekkingen op enig moment naast elkaar werden vervuld.   
-3.  In afwijking van het eerste lid, onderdeel a, wordt niet tot het inkomen gerekend de uitkering, bedoeld in het eerste lid, onderdeel a, voor zover die uitkering door de uitkeringsgerechtigde voor het intreden van de werkloosheid werd ontvangen en die betrekking heeft op een eerder verlies van arbeidsuren.   
-4.  De uitkering of het loon bedoeld in het eerste lid, onderdeel b of c, wordt niet tot het inkomen gerekend indien zij: 
+a. door de uitkeringsgerechtigde reeds voor het intreden van de werkloosheid werd ontvangen naast de dienstbetrekking waaruit hij werkloos is geworden; of  
 
-a. door de uitkeringsgerechtigde reeds voor het intreden van de werkloosheid werd ontvangen naast de inkomsten uit de dienstbetrekking waaruit hij werkloos is geworden; of  
-
-b. door de uitkeringsgerechtigde na het intreden van de werkloosheid wordt ontvangen en zij betrekking heeft op een andere dienstbetrekking dan de dienstbetrekking, waaruit de werkloosheid is ontstaan en die dienstbetrekkingen voor het intreden van de werkloosheid naast elkaar werden vervuld.     
-5.  Voor het bepalen van het inkomen, bedoeld in artikel 34 van de Werkloosheidswet, geldt ingeval van een werknemer die wegens eindiging van een dienstbetrekking ouderdomspensioen ontvangt, dat de uitkering per dag niet hoger wordt gesteld dan op het verschil tussen de uitkering zoals die is of zou zijn vastgesteld op de eerste werkdag na die eindiging en het bedrag van het pensioen per dag dat op die dag is ontvangen.   
-6.  Voor de toepassing van het vijfde lid wordt het dagloon, zoals dat is of zou zijn vastgesteld op de eerste dag waarop ouderdomspensioen wordt ontvangen, voor zoveel nodig herzien overeenkomstig artikel 46 van de Werkloosheidswet.   
-7.  Voor het bepalen van het inkomen als bedoeld in artikel 35aa, eerste lid, van de Werkloosheidswet geldt in afwijking van artikel 3:3, eerste lid, onderdelen c en d, en vierde lid, onderdeel b, dat: 
-
-a. artikel 3:3, eerste lid, onderdeel c, niet van toepassing is;  
-
-b. artikel 3:3, vierde lid, onderdeel b, uitsluitend van toepassing is voor zover het een uitkering op grond van artikel 18 van de Werkloosheidswet of een uitkering wegens werkloosheid die uitsluitend het gevolg is van verkorting van de werktijd, waarvoor op grond van artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945 ontheffing is verleend, betreft; en  
-
-d. artikel 3:3, eerste lid, onderdeel d, onder 2°, uitsluitend van toepassing is voor zover het een uitkering op grond van artikel 18 van de Werkloosheidswet of een uitkering wegens werkloosheid die uitsluitend het gevolg is van verkorting van de werktijd, waarvoor op grond van artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945 ontheffing is verleend, betreft.    
+b. door de uitkeringsgerechtigde na het intreden van de werkloosheid wordt ontvangen uit werkzaamheden die voor het intreden van de werkloosheid reeds werden verricht naast de dienstbetrekking waaruit de werkloosheid is ontstaan of een dienstbetrekking waarvoor de dienstbetrekking waaruit de werkloosheid is ontstaan in de plaats is getreden.     
+7.  In afwijking van het vierde lid, onderdeel a, wordt niet tot inkomen in verband met arbeid gerekend een uitkering die door de uitkeringsgerechtigde reeds werd ontvangen voorafgaand aan het ontstaan van de dienstbetrekking waaruit het recht op uitkering op grond van de Werkloosheidswet is ontstaan.   
+8.  In afwijking van het vierde lid, onderdeel a, wordt niet tot inkomen in verband met arbeid gerekend het inkomen dat op grond van de Werkloosheidswet reeds in aanmerking genomen is voor een uitkering op grond van de Werkloosheidswet. 
 
 ### Artikel  3:6  
 
 ####Uitzonderingen voor de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten
 
-Voor het bepalen van het inkomen als bedoeld in hoofdstuk 2 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten geldt dat: 
+1.  Bij het bepalen van het inkomen, bedoeld in hoofdstuk 2 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, zijn de artikelen 2:2, derde lid, 2:4, derde lid, 2:5 en 3:3, achtste en negende lid, van overeenkomstige toepassing.   
+2.  Bij het bepalen van het inkomen, bedoeld in het eerste lid wordt, in afwijking van artikel 3:2, eerste lid, onderdeel a, onder 1° en 2°, onder inkomen verstaan hetgeen onder loon wordt verstaan op grond van artikel 16 van de Wet financiering sociale verzekeringen voor de werknemer, bedoeld in artikel 1, onderdeel o, van die wet.   
+3.  Bij het bepalen van het inkomen, bedoeld in het eerste lid, wordt tevens onder inkomen verstaan: 
 
-a. de artikelen 2:2, derde lid, 2:4, derde lid, 2:5 en 3:3, achtste en negende lid, van overeenkomstige toepassing zijn;  
+a. hetgeen wordt genoten op grond van een wettelijke regeling die naar aard en strekking overeenkomt met een uitkering op grond van een werknemersverzekering;  
 
-b. in afwijking van artikel 3:2, eerste lid, onder inkomen wordt verstaan: 
+b. hetgeen wordt genoten op grond van een wettelijke regeling die naar aard en strekking overeenkomt met artikel 629 van Boek 7 BW of daarmee overeenkomende regeling die geldt voor een werknemer met een publiekrechtelijke dienstbetrekking; en  
 
-1°. een uitkering op grond van een werknemersverzekering;  
+c. een uit een dienstbetrekking voortvloeiende periodieke uitkering bij wijze van oudedagsvoorziening, dan wel een uitkering die voorafgaat aan die uitkering of het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet.     
+4.  Bij het bepalen van het inkomen, bedoeld in het eerste lid, wordt in afwijking van het derde lid niet tot het inkomen gerekend: 
 
-2°. hetgeen wordt genoten op grond van artikel 629 van Boek 7 van het Burgerlijk Wetboek, alsmede hetgeen door de werknemer met een publiekrechtelijke dienstbetrekking wordt genoten op grond van naar aard en strekking met artikel 629 van Boek 7 van het Burgerlijk Wetboek overeenkomstige regelingen; of  
+a. een toeslag op grond van de Toeslagenwet; en  
 
-3°. hetgeen wordt genoten op grond van een wettelijke regeling die naar aard en strekking overeenkomt met de uitkering of loon, bedoeld onder 1° en 2°; en    
-
-c. tevens onder inkomen wordt verstaan een uit een dienstbetrekking voortvloeiende periodieke uitkering bij wijze van oudedagsvoorziening, dan wel een uitkering die voorafgaat aan die uitkering of het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet.   
+b. de aanvulling op een uitkering op grond van een werknemersverzekering van degene tot wie de werknemer in dienstbetrekking staat.    
 
 ### Hoofdstuk  4  
 
@@ -481,7 +544,7 @@ c. tevens onder inkomen wordt verstaan een uit een dienstbetrekking voortvloeien
 
 a. de Algemene nabestaandenwet, de Algemene Ouderdomswet, de Wet inkomensvoorziening oudere werklozen, de Werkloosheidswet en de Wet werk en inkomen naar arbeidsvermogen wordt herleid tot een bedrag per kalendermaand;  
 
-b. de Toeslagenwet, de Ziektewet en artikel 2:6 van de Wet arbeidsondersteuning jonggehandicapten wordt herleid tot een bedrag per dag.     
+b. de Toeslagenwet, de Ziektewet en artikel 2:6 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten wordt herleid tot een bedrag per dag.     
 2.  Voor de toepassing van het eerste lid wordt de kalendermaand gesteld op 21,75 dagen. De kalenderweek wordt gesteld op vijf dagen. Het boek- of kalenderjaar wordt gesteld op 261 dagen.   
 3.  Bij de toepassing van het eerste lid wordt het loon door de uitkeringsgerechtigde geacht te zijn genoten in het aangiftetijdvak waarover de werkgever of de inhoudingsplichtige van dat loon opgave heeft gedaan.   
 4.  Bij de toepassing van het eerste lid worden betalingen van het overig inkomen toegerekend aan de perioden waarin hierop recht bestaat.   
@@ -489,7 +552,9 @@ b. de Toeslagenwet, de Ziektewet en artikel 2:6 van de Wet arbeidsondersteuning 
 6.  De SVB of het UWV kunnen op basis van een geschat inkomen een gemiddeld inkomen per kalendermaand bepalen, waarna per periode van ten hoogste twaalf maanden een herberekening plaatsvindt en het gemiddeld inkomen per periode kan worden toegerekend aan maanden in die periode.   
 7.  De SVB of het UWV kan bij de vaststelling van het inkomen het loon dat door de uitkeringsgerechtigde is genoten in een aangiftetijdvak, toerekenen aan de dag waarop dat loon betrekking heeft.   
 8.  De SVB of het UWV kan bij de vaststelling van het inkomen het in het aangiftetijdvak opgebouwde bedrag aan vakantiebijslag en extra periodiek salaris in aanmerking nemen, waarbij het in dat aangiftetijdvak betaalde bedrag aan vakantiebijslag en extra periodiek salaris niet in aanmerking worden genomen.   
-9.  Indien toepassing van dit artikel leidt tot een kennelijk onredelijk resultaat bepaalt de SVB of het UWV het inkomen op een andere wijze.  
+9.  In afwijking van het derde lid, wordt voor de vaststelling van het inkomen voor de Werkloosheidswet het inkomen over een aangiftetijdvak van vier weken geacht te zijn genoten in de kalendermaand waarin het aangiftetijdvak van vier weken eindigt.   
+10.  In afwijking van het achtste lid, wordt voor de vaststelling van het inkomen voor de Werkloosheidswet het in een aangiftetijdvak betaalde bedrag aan vakantiebijslag en de opgebouwde vakantiebijslag niet als inkomen aangemerkt, indien de werknemer werkzaam is in een dienstbetrekking bij een werkgever die de vakantiebijslag reserveert. Indien de vakantiebijslag wordt gereserveerd, wordt het inkomen in die dienstbetrekking vermenigvuldigd met 108/100.  
+11.  Indien toepassing van dit artikel leidt tot een kennelijk onredelijk resultaat bepaalt de SVB of het UWV het inkomen op een andere wijze.  
 
 ### Artikel  4:2  
 
@@ -506,33 +571,6 @@ c. indien aannemelijk is dat een inkomensbestanddeel geen juiste maatstaf biedt 
 d. indien winst als bedoeld in artikel 2:2, eerste lid, onderdeel d, wordt genoten, het daaruit voortvloeiende inkomensbestanddeel per maand vastgesteld wordt op 1/12 van de winst, genoten over het kalenderjaar of het niet met het kalenderjaar samenvallend boekjaar, voorafgaand aan de maand waarover aanspraak op uitkering wordt gemaakt; en  
 
 e. indien de toepassing van de onderdelen a tot en met d gelet op het tijdstip van verwerving van een inkomensbestanddeel, tot een kennelijk onredelijk resultaat leidt, het college bepaalt op welke periode dat inkomensbestanddeel geacht moet worden betrekking te hebben en hoe dit geacht moet worden over deze periode te zijn verdeeld.   
-
-### Artikel  4:2a  
-
-####Uitzonderingen voor de Werkloosheidswet
-
-1.  Voor de toepassing van artikel 35aa, eerste lid, onderdeel a, wordt, in afwijking van artikel 4:1, het inkomen: 
-
-a. berekend op basis van de volgende formule: I = I1 + ((I2 x W) / 52) waarbij: I staat voor het inkomen; I1 staat voor het inkomen over het aanvangsjaar; I2 staat voor het inkomen over het jaar gelegen na het aanvangsjaar; W staat voor het aantal weken gelegen tussen de eerste dag van het aanvangsjaar en de dag waarop de toestemming, bedoeld in artikel 77a, eerste lid, van de Werkloosheidswet is verleend;  
-
-b. per maand vastgesteld op 8,33 % van het inkomen, bedoeld in onderdeel a, indien de uitkering wordt betaald per maand;  
-
-c. per week vastgesteld op 1,92 % van het inkomen, bedoeld in onderdeel a, indien de uitkering wordt betaald per week of een veelvoud daarvan.     
-2.  In dit artikel wordt onder aanvangsjaar verstaan het kalenderjaar, dan wel, indien artikel 3.66 van de Wet inkomstenbelasting 2001 van toepassing is, het boekjaar waarin de werknemer de werkzaamheden, bedoeld in artikel 77a, eerste lid, van de Werkloosheidswet, is gaan verrichten.   
-3.  Voor het bepalen van I1 en I2 als bedoeld in het eerste lid, onderdeel a, is artikel 3:2, tweede lid, niet van toepassing.  
-
-### Artikel  4:2b  
-
-####Uitzonderingen voor de vaststelling van het inkomen
-
-1.  In afwijking van artikel 4:1, eerste en vijfde lid, geldt dat het inkomen herleid wordt tot een bedrag per dag voor toepassing van: 
-
-a. de Toeslagenwet;  
-
-b. de Ziektewet; en  
-
-c. artikel 2:6 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.     
-2.  In afwijking van artikel 4:1, eerste lid, geldt dat het inkomen herleid wordt tot een bedrag per kalenderweek voor toepassing van de Werkloosheidswet, met uitzondering van artikel 35aa, eerste lid, onderdeel a, van de Werkloosheidswet.  
 
 ### Artikel  4:3  
 
@@ -570,8 +608,6 @@ b. het recht op uitkering op grond van de Wet werk en inkomen naar arbeidsvermog
 ### Artikel  5:1a  
 
 ####Overgangsrecht in verband met de Wet werk en zekerheid
-
-Treedt in werking per 01-07-2015 
 
 1.  Indien: 
 
@@ -616,7 +652,7 @@ In afwijking van artikel 5:7 blijft artikel 9b van het Inkomensbesluit IOAW van 
 
 ####Grondslag besluit
 
-Dit besluit berust mede op de artikelen 6, tweede lid, van de Toeslagenwet, 10, zesde lid, van de Wet inkomensvoorziening oudere werklozen, 34, tweede lid, en 35aa, tweede lid, van de Werkloosheidswet, 2:6 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, 52, vierde lid, 60, vijfde lid, en 61, achtste lid, van de Wet werk en inkomen naar arbeidsvermogen en 31, derde lid, van de Ziektewet. 
+Dit besluit berust mede op de artikelen 6, tweede lid, van de Toeslagenwet, 10, zesde lid, van de Wet inkomensvoorziening oudere werklozen, 1b, tiende lid, en 47, tweede lid, van de Werkloosheidswet, 2:6 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, 52, vierde lid, 60, vijfde lid, en 61, achtste lid, van de Wet werk en inkomen naar arbeidsvermogen en 31, derde lid, van de Ziektewet. 
 
 ### Artikel  5:5  
 

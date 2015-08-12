@@ -4,7 +4,7 @@
 
 ####Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België voor de ontwikkeling van de samenwerking en van de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Het Koninkrijk der Nederlanden en Het Koninkrijk België Hierna te noemen „de verdragsluitende partijen”; Wensende een diepgaande samenwerking te ontwikkelen tussen de voor de sociale zekerheid bevoegde autoriteiten en organen, voornamelijk met het oog op een betere toepassing en nadere uitwerking van de communautaire regels, meer in het bijzonder de bepalingen van Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels; Om het vrije verkeer en de rechten van de sociaal verzekerden te waarborgen, en de houdbaarheid van de socialezekerheidsstelsels te verzekeren; Wensende tevens nadere afspraken te maken met het oog op de rechtmatige uitvoering van regelingen voor sociale bijstand en voor de wettelijke niet-contributieve inkomensgebonden uitkeringen die aan behoeftige personen worden toegekend; De wil hebbende de functionele samenwerking te versterken en uit te breiden; Strevend naar een modernisering en een stroomlijning van de uitwisseling van gegevens, gelet op de ontwikkeling van technologieën en databases in het kader van het beheer van de sociale zekerheid; De wens hebbende de risico’s op fraude en onjuistheden te voorkomen en zich ervan te vergewissen dat de juiste personen de uitkeringen waarop ze daadwerkelijk recht hebben, op het gepaste tijdstip ontvangen; Hierbij steunend op een geïntegreerde aanpak gebaseerd op preventie, verificatie, controle, inspectie en een correcte afhandeling; Gebruik makend van de mogelijkheid geboden door de bepalingen van artikel 8, tweede lid, van Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels en van artikel 8, tweede lid, van Verordening (EG) nr. 987/2009 van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van Verordening (EG) nr. 883/2004 betreffende de coördinatie van de socialezekerheidsstelsels, die bepalen dat twee lidstaten van de Europese Unie onderling, voor zover daaraan behoefte bestaat, overeenkomsten kunnen sluiten welke op de beginselen en de geest van deze Verordening berusten; De wens hebbende bovendien de Resolutie 1999/C 125/01 van de Raad van de Europese Unie en de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad van 22 april 1999 bijeen. over een gedragscode ter verbetering van de samenwerking tussen de autoriteiten van de lidstaten bij de bestrijding van grensoverschrijdende uitkerings- en premiefraude in de sociale zekerheid en zwartwerk, en met betrekking tot de grensoverschrijdende terbeschikkingstelling van werknemers, uit te voeren; De wens hebbende om, met het oog op een effectievere invordering en een soepeler werking van de coördinatieregels, de procedures inzake de wederzijdse bijstand tussen de organen bij de invordering van schuldvorderingen op het gebied van de sociale zekerheid te versterken. Effectieve invordering is tevens een middel om misbruik en fraude te voorkomen en aan te pakken en een manier om de houdbaarheid van de socialezekerheidsregelingen te verzekeren; Gelet op Richtlijn 95/46/EG van het Europees Parlement en van de Raad van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens;   Zijn het volgende overeengekomen:    
 
@@ -12,13 +12,13 @@ Het Koninkrijk der Nederlanden en Het Koninkrijk België Hierna te noemen „de 
 
 ####ALGEMENE BEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  1  
 
 ####Definities
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Voor de toepassing van dit Verdrag wordt verstaan onder de volgende termen: 
 
@@ -38,7 +38,7 @@ e. „gegevens”: alle gegevens die noodzakelijk zijn voor de uitvoering van de
 
 ####Personele werkingssfeer
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Dit Verdrag is van toepassing op de personen die deel uitmaken van de personele werkingssfeer van de Verordening, alsook op de personen die een uitkering aanvragen of ontvangen, als bedoeld in artikel 3, tweede lid, van dit Verdrag. 
 
@@ -46,7 +46,7 @@ Dit Verdrag is van toepassing op de personen die deel uitmaken van de personele 
 
 ####Materiële werkingssfeer
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Dit Verdrag is van toepassing op de wetgevingen die deel uitmaken van de materiële werkingssfeer van de Verordening. Voor wat België betreft, is dit Verdrag eveneens van toepassing op de wetgeving betreffende het jaarlijks vakantiegeld.   
 2.  Het is tevens van toepassing op de Nederlandse wetgeving inzake sociale bijstand en op de Belgische wettelijke, niet-contributieve, inkomensgebonden uitkeringen die aan behoeftige personen worden toegekend.   
@@ -56,7 +56,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Territoriale werkingssfeer
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Het territoriale toepassingsgebied van dit Verdrag is: 
 
@@ -68,13 +68,13 @@ Het territoriale toepassingsgebied van dit Verdrag is:
 
 ####ALGEMENE PRINCIPES VAN DE SAMENWERKING 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  5  
 
 ####Informatie over de ontwikkelingen van de wet- en regelgeving
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 De bevoegde autoriteiten informeren elkaar rechtstreeks en regelmatig over de fundamentele wijzigingen aangebracht in de wet- en regelgevingsbepalingen die vallen onder het toepassingsgebied van dit Verdrag. 
 
@@ -82,7 +82,7 @@ De bevoegde autoriteiten informeren elkaar rechtstreeks en regelmatig over de fu
 
 ####Uitwisseling van statistische gegevens
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 De bevoegde organen en de verbindingsorganen wisselen statistische gegevens uit, zoals is overeengekomen in de administratieve schikking bedoeld in artikel 16 van dit Verdrag. 
 
@@ -90,7 +90,7 @@ De bevoegde organen en de verbindingsorganen wisselen statistische gegevens uit,
 
 ####Werking van de wederzijdse administratieve bijstand
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Ieder bevoegd orgaan van één van de Verdragsluitende Partijen kan zich wenden tot een bevoegd orgaan van de andere Verdragsluitende Partij, rechtstreeks of door bemiddeling van een verbindingsorgaan, voor het opvragen van gegevens die nodig zijn voor een juiste uitvoering van haar taak.   
 2.  Onverminderd het bepaalde in het eerste lid van dit artikel brengt het bevoegde orgaan van één van de Verdragsluitende Partijen, zonder voorafgaand verzoek en voor zover mogelijk, het bevoegde orgaan van de andere Verdragsluitende Partij op de hoogte van wijzigingen in de gegevens die van belang zijn voor de behandeling van dossiers van individuele gevallen waarmee laatstgenoemd orgaan belast is.   
@@ -101,7 +101,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Bescherming van gegevens
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Met het oog op de toepassing van dit Verdrag verstrekken de bevoegde organen van beide Verdragsluitende Partijen gegevens, zoals bedoeld in artikel 1, eerste lid, sub e, van dit Verdrag, met inachtneming van de mogelijkheden die in de respectievelijke wetgevingen voorzien zijn. Het betreft de gegevens die nodig zijn voor de terug- en invordering van de aan het bevoegde orgaan van een van de Verdragsluitende Partijen verschuldigde bedragen, voor de vastlegging van het bedrag van de verschuldigde bijdragen of heffingen, en voor de aanspraak op uitkeringen bedoeld in artikel 3 van dit Verdrag.   
 2.  Het bewaren, verwerken of verspreiden van gegevens door het bevoegde orgaan van de Verdragsluitende Partij waaraan deze gegevens worden verstrekt, is geregeld in de wetgeving betreffende de bescherming van de gegevens van deze Verdragsluitende Partij.   
@@ -112,7 +112,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Wijze van overdracht en in verband brengen van bestanden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Voor iedere in het kader van dit artikel uitgevoerde handeling worden de principes op het gebied van noodzakelijkheid, proportionaliteit en de bepalingen van artikel 8 van dit Verdrag nageleefd. De consultatie van de bestanden door het bevoegde orgaan van een Verdragsluitende Partij moet, in voorkomend geval, onderworpen worden aan het systeem van voorafgaande machtiging.   
 2.  Het bevoegde orgaan van een Verdragsluitende Partij kan een bevoegd orgaan van de andere Verdragsluitende Partij, of iedere andere door de laatste aangeduide instelling, verzoeken haar bestanden te consulteren of over te dragen via elektronische weg om ze te doorzoeken, te vergelijken, te gebruiken, te verzamelen en te integreren in een automatisch of halfautomatisch proces.   
@@ -123,13 +123,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####SAMENWERKING BETREFFENDE DE UITKERINGEN 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  10  
 
 ####Verificatie en cumulatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Op verzoek van het bevoegde orgaan van een Verdragsluitende Partij voert een bevoegd orgaan van de andere Verdragsluitende Partij het onderzoek uit dat noodzakelijk is voor het verifiëren van het recht van de persoon die een uitkering aanvraagt of ontvangt.   
 2.  Ieder bevoegd orgaan dat een uitkering uitbetaalt, of dat onderzoekt of een persoon in aanmerking komt voor een uitkering, kan, indien het orgaan dit nodig acht, nagaan of dit leidt tot een onrechtmatige cumulatie met een uitkering toegekend op grond van de wetgeving van de andere Verdragsluitende Partij.   
@@ -142,7 +142,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Geweigerde uitbetalingen, schorsing van uitbetaling of stopzetting
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Op basis van de in dit Verdrag vermelde inlichtingen en controles, kan een bevoegd orgaan van een Verdragsluitende Partij een prestatie weigeren, schorsen of stopzetten. 
 
@@ -151,13 +151,13 @@ Op basis van de in dit Verdrag vermelde inlichtingen en controles, kan een bevoe
 ####INVORDERING VAN BIJDRAGEN EN HEFFINGEN
 
 TERUGVORDERING VAN NIET-VERSCHULDIGDE BEDRAGEN 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  12  
 
 ####Procedure voor invordering en terugvordering
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 De Verdragsluitende Partijen verbinden zich ertoe uitvoering te geven aan de Toepassingsverordening door in de administratieve schikking zoals bedoeld in artikel 16 van dit Verdrag een procedure uit te werken voor de invordering van bijdragen en heffingen en de terugvordering van niet verschuldigde bedragen. 
 
@@ -165,13 +165,13 @@ De Verdragsluitende Partijen verbinden zich ertoe uitvoering te geven aan de Toe
 
 ####SAMENWERKING BETREFFENDE DE CONTROLES 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  13  
 
 ####De samenwerking betreffende de controles
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 De bevoegde organen van een Verdragsluitende Partij zorgen, op verzoek, voor ondersteuning bij de door de bevoegde organen van de andere Verdragsluitende Partij uitgevoerde controleacties. Ze verlenen elkaar bijstand, overeenkomstig de wetgeving die op het grondgebied van elke Verdragsluitende Partij van toepassing is, om de geldigheid van documenten en attesten te bepalen, en met het oog op iedere andere vorm van wederzijdse bijstand en samenwerking. 
 
@@ -179,7 +179,7 @@ De bevoegde organen van een Verdragsluitende Partij zorgen, op verzoek, voor ond
 
 ####Nadere controleregels
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Vertegenwoordigers van bevoegde organen of verbindingsorganen van de ene Verdragsluitende Partij kunnen op verzoek van de andere Verdragsluitende Partij aanwezig zijn bij de controles van deze laatste Verdragsluitende Partij. Voorts kunnen de bevoegde organen en verbindingsorganen vertegenwoordigers uitwisselen voor het verzamelen van de voor de uitoefening van hun controleopdracht nuttige inlichtingen.   
 2.  De vertegenwoordigers van bevoegde organen of verbindingsorganen van één van de Verdragsluitende Partijen nemen enkel als waarnemer deel aan de op het grondgebied van de andere Verdragsluitende Partij uitgevoerde controles en moeten steeds in staat zijn hun hoedanigheid te verantwoorden.   
@@ -189,7 +189,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Controle van de detacheringsvoorwaarden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  De Verdragsluitende Partijen verifiëren of overeenkomstig de Verordening alle detacheringsvoorwaarden worden nageleefd, met inbegrip van alle elementen die voor de vaststelling van de feitelijke arbeidsrelatie bepalend zijn.   
 2.  In geval van geschil geven de Verdragsluitende Partijen uitvoering aan de beslissing nr. A1 van 12 juni 2009 van de Administratieve Commissie voor de coördinatie van de socialezekerheidsstelsels betreffende de instelling van een dialoog- en bemiddelingsprocedure met betrekking tot de geldigheid van documenten, het bepalen van de toepasselijke wetgeving en het verlenen van prestaties uit hoofde van de Verordening of aan eventuele beslissingen die de voornoemde beslissing zouden vervangen.  
@@ -198,13 +198,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####NADERE UITVOERINGSREGELS 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  16  
 
 ####Administratieve schikking
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 De bevoegde autoriteiten sluiten een administratieve schikking om de nadere regels voor de uitvoering van dit Verdrag te bepalen. 
 
@@ -212,7 +212,7 @@ De bevoegde autoriteiten sluiten een administratieve schikking om de nadere rege
 
 ####Samenwerkingsovereenkomsten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 De bevoegde organen van de Verdragsluitende Partijen kunnen, binnen de aan hen door de wet toegekende bevoegdheden, samenwerkingsovereenkomsten sluiten. Deze samenwerkingsovereenkomsten hebben betrekking op de in dit Verdrag bedoelde aangelegenheden, met uitsluiting van de aangelegenheden die geregeld zijn in de administratieve schikking, te sluiten op grond van artikel 16 van dit Verdrag. 
 
@@ -220,7 +220,7 @@ De bevoegde organen van de Verdragsluitende Partijen kunnen, binnen de aan hen d
 
 ####De Gemengde Commissie en geschillenregeling
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Een Gemengde Commissie wordt opgericht voor de opvolging van en de beslechting van geschillen betreffende de toepassing van dit Verdrag. De Gemengde Commissie zal uit de volgende leden zijn samengesteld: 
 
@@ -239,13 +239,13 @@ c. één of meerdere door de Minister van Sociale Zaken en Werkgelegenheid aange
 
 ####OVERGANGS- EN SLOTBEPALINGEN 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  19  
 
 ####Aanpassingsclausule
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 De bepalingen van dit Verdrag blijven van toepassing voor zover ze geen afbreuk doen aan de bepalingen van de Verordening en de Toepassingsverordening. 
 
@@ -253,7 +253,7 @@ De bepalingen van dit Verdrag blijven van toepassing voor zover ze geen afbreuk 
 
 ####Geldigheidsduur van het Verdrag
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Dit Verdrag wordt voor onbepaalde tijd gesloten. Het kan door elk van de Verdragsluitende Partijen bij schriftelijke kennisgeving aan de andere Verdragsluitende Partij worden opgezegd. De opzegging wordt twaalf maanden na ontvangst van de kennisgeving door de andere Verdragsluitende Partij van kracht. 
 
@@ -261,7 +261,7 @@ Dit Verdrag wordt voor onbepaalde tijd gesloten. Het kan door elk van de Verdrag
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Dit Verdrag treedt in werking op de eerste dag van de derde maand, volgend op de datum waarop de Verdragsluitende Partijen elkaar schriftelijk, langs diplomatieke weg, hebben medegedeeld dat aan hun constitutionele vereisten voor de inwerkingtreding van dit Verdrag is voldaan. 
 

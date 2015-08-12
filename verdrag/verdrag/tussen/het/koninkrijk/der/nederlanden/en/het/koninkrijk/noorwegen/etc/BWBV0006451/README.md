@@ -4,20 +4,20 @@
 
 ####Agreement between the Kingdom of the Netherlands and the Kingdom of Norway on the use of a prison in the Netherlands for the purpose of the execution of Norwegian sentences of imprisonment
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 The Kingdom of the Netherlands and the Kingdom of Norway (hereinafter the “Parties”), Whereas there is intensive bilateral cooperation between the Parties in the area of criminal justice in a European context; Whereas the Parties agree that the execution of prison sentences is an essential part of the functioning of the rule of law; Whereas Norway is in a situation where there is a shortage of prison capacity and whereas the rental of prison capacity from another State is seen as a short-term solution to this challenge; Whereas, as a result of the current capacity as regards custodial institutions in the Netherlands, the execution of Norwegian prison sentences can be realised in a prison in the Netherlands; Whereas the Parties recognise and are bound by international human rights standards and norms; Whereas the application of this Agreement is governed by these circumstances;   Have agreed as follows:     
 ### PART  I  
 
 ####GENERAL PROVISIONS
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 ### Article  1  
 
 ####Use of terms
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 For the purpose of this Agreement: 
 
@@ -43,7 +43,7 @@ i. “Norwegian sentence” means: a prison sentence imposed by a final decision
 
 ####Purpose and scope
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 This Agreement serves to regulate matters relating to or arising out of the execution of Norwegian sentences in the prison and contains the necessary conditions for that purpose. 
 
@@ -51,7 +51,7 @@ This Agreement serves to regulate matters relating to or arising out of the exec
 
 ####Mutual obligations
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  The Minister of Security and Justice of the Receiving State shall put the prison, including its personnel and facilities, at the disposal of the Minister of Justice and Public Security of the Sending State for the purpose of the execution of Norwegian sentences.   
 2.  The Minister of Justice and Public Security of the Sending State shall make use of the prison for a remuneration and in conformity with this Agreement and with the prison’s maximum capacity as determined by the Receiving State. Deprivation of liberty in the prison shall be based exclusively on a Norwegian sentence. Deprivation of liberty of other persons than prisoners shall not be allowed.   
@@ -61,7 +61,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Applicable law
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  The law of the Sending State shall be exclusively applicable to the execution of Norwegian sentences in the prison, including the right of prisoners to request a transfer to the Sending State, unless otherwise provided in this Agreement.   
 2.  The cooperation agreement, as referred to in Article 3, Paragraph 3, shall be governed exclusively by the law of the Receiving State.  
@@ -70,7 +70,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Personal data
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 Personal data supplied for the application of this Agreement shall only be used for the purpose of this Agreement, as referred to in Article 2. 
 
@@ -78,7 +78,7 @@ Personal data supplied for the application of this Agreement shall only be used 
 
 ####Competences and responsibilities of the Governor
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  The Governor shall be in charge of the prison.   
 2.  Within the prison the Governor shall be responsible for the proper execution of Norwegian sentences, maintaining order and security and the treatment of prisoners in accordance with the Execution of Sentences Act (*straffegjennomføringsloven*) of the Sending State. To that end, the Governor shall make use of the personnel made available by the designated authority of the Receiving State.   
@@ -89,7 +89,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Staff
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 The Receiving State shall provide the staff necessary to implement the cooperation agreement, as referred to in Article 3, Paragraph 3. Any reduction in staff has to be specifically agreed with the Governor. 
 
@@ -97,13 +97,13 @@ The Receiving State shall provide the staff necessary to implement the cooperati
 
 ####PROVISIONS CONCERNING THE EXECUTION OF SENTENCES
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 ### Article  8  
 
 ####Placement of prisoners
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  The designated authority of the Sending State shall ensure that a prisoner will start serving his sentence in a prison in Norway before he is transferred to the prison.   
 2.  The designated authority of the Sending State shall place a prisoner in the prison for the execution of a Norwegian sentence provided that the prisoner, at the time of the decision on the placement: 
@@ -126,7 +126,7 @@ f. does not need medical care or other care which cannot be provided in the pris
 
 ####Execution of leave and release
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  Any decision taken in the Sending State according to which a prisoner is allowed to leave the prison, temporarily or otherwise, shall not be executed on the territory of the Receiving State. The prisoner shall be transferred to the Sending State with a view to the subsequent execution of this decision.   
 2.  Prisoners shall be transferred back to the Sending State at least two months before their release, unless the designated authorities of the Sending State and the Receiving State have derogated from this in individual cases.  
@@ -135,7 +135,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Complaints and legal actions of prisoners
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  The law of the Sending State shall be applicable to any complaints or legal actions of prisoners concerning the execution of Norwegian sentences.   
 2.  The law of the Receiving State concerning treatment by medical professionals, with the exception of the Penitentiary Principles Act (*Penitentiaire beginselenwet) *and the Penitentiary Regulation (*Penitentiaire maatregel)*, shall remain applicable to complaints or legal actions by prisoners in individual cases.   
@@ -146,7 +146,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Transport of prisoners
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  The transport of prisoners in the territory of the Receiving State to and from the prison shall take place by order of the Governor or the designated authority in the Sending State, and shall be carried out by officers designated by the Minister of Security and Justice of the Receiving State.   
 2.  During the transport of prisoners, measures of direct force, including the use of measures of restraint, may be used by the designated officers for reasons of safety and the undisturbed progress of the transport, in conformity with the instructions on the use of force in prisons of the Receiving State (*Geweldsinstructie penitentiaire inrichtingen*).   
@@ -156,7 +156,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Medical care outside the prison
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  If a prisoner is in need of medical care which cannot be provided in the prison, the prisoner shall be transferred to a medical centre in the Sending State.   
 2.  By way of derogation from Paragraph 1, a prisoner may be transferred to a medical centre in the Receiving State: 
@@ -172,7 +172,7 @@ b. if for medical reasons the transfer to a medical centre in the Sending State 
 
 ####Escape
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 In the event of escape from the prison or evasion of supervision during transport or during a stay in a medical centre in the Receiving State, the Governor will immediately inform the Police of North Drenthe in the municipality of Assen, the designated authority of the Receiving State and the National Criminal Investigation Service of the Sending State (*Kripos*), providing the identity of the person concerned and other relevant information. 
 
@@ -180,7 +180,7 @@ In the event of escape from the prison or evasion of supervision during transpor
 
 ####Death of a prisoner
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  In the event of the death of a prisoner in the prison, the Governor will report this death immediately to the public prosecutor of the North Netherlands District. The Governor will then follow all instructions of the competent authorities of the Receiving State, grant them access to the prison, allow them to carry out any necessary investigation into the cause of death and give them every assistance in that regard. The Governor will allow the deceased to be transported, on the orders of the public prosecutor of the North Netherlands District, from the prison to a place for further examination into the cause of death.   
 2.  The Governor will be notified of the result of the investigation into the cause of the prisoner's death.   
@@ -191,7 +191,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Security of the prison
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 The competent authorities of the Receiving State are responsible for enforcing public order and safety outside the prison. They will take the measures necessary for the undisturbed operation of the prison and, where necessary, measures to prevent the disturbance of public order in the immediate vicinity of the prison. 
 
@@ -199,7 +199,7 @@ The competent authorities of the Receiving State are responsible for enforcing p
 
 ####Evacuation of the prison in case of emergency
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  If the prison has to be evacuated in case of an emergency, the prisoners will be transferred to another location designated by the competent authorities of the Receiving State, with a view to their immediate return to the Sending State.   
 2.  This Agreement is applicable *mutatis mutandis* to the other location, as referred to in Paragraph 1, as far as emergency circumstances allow.  
@@ -208,13 +208,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####PROVISIONS CONCERNING CRIMINAL LAW
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 ### Article  17  
 
 ####Criminal offences committed in the prison
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  Criminal offences committed in the prison are fully governed by the criminal law of the Receiving State.   
 2.  The Governor is obliged to report all criminal offences to the Police of North Drenthe in the municipality of Assen. The Police of North Drenthe will immediately inform the public prosecutor of the North Netherlands District of the report.   
@@ -231,7 +231,7 @@ b. may be arrested exclusively on the orders of the public prosecutor of the Nor
 
 ####Cooperation in criminal matters with a view to involuntary return to detention
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  Should a prisoner be outside the prison in the territory of the Receiving State, other than during transport, as referred to in Article 11, or during the stay in a medical centre, as referred to in Article 12, Paragraph 2, while the execution of the Norwegian sentence has not been concluded, the conventions and regulations regarding international cooperation in criminal matters applicable between the Receiving State and the Sending State shall remain in full force.   
 2.  Any prisoner who is outside the prison in the territory of the Receiving State as a result of situations, as referred to in Articles 13 and 17, Paragraph 5(b), while the execution of the Norwegian sentence has not been concluded, can be arrested by the competent authorities of the Receiving State at the request of the Governor for no longer than six hours not including the hours between midnight and 09:00 pending an alert in the Schengen Information System with a view to his extradition.   
@@ -241,7 +241,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Criminal investigation for other offences
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  In the event that a prisoner in the prison is wanted by the competent authorities of the Receiving State for any criminal offence committed outside the prison, the conventions and regulations regarding international cooperation in criminal matters applicable between the Receiving State and the Sending State shall remain in full force.   
 2.  In the event that a prisoner in the prison is wanted by the competent authorities of the Sending State for any criminal offence committed outside the prison, the prisoner will be transferred to the Sending State for that purpose.   
@@ -251,7 +251,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Legal cooperation at the request of third States
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  In the event that the competent authorities of the Receiving State receive an extradition request, a European arrest warrant or a request for legal assistance from a third State with regard to the prisoner in the prison, this will be passed on to the competent authorities in the Sending State. The same applies to requests from international tribunals.   
 2.  In the event that the competent authorities of the Sending State receive an extradition request, a European arrest warrant or a request for legal assistance from a third State with regard to a prisoner in the prison, this will be dealt with by the Sending State with a view to the handling and execution thereof. The prisoner will be transferred to the Sending State when appropriate. The same applies to requests from international tribunals.  
@@ -260,13 +260,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####PRIVILEGES AND IMMUNITIES
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 ### Article  21  
 
 ####The grounds of the prison
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  The grounds of the prison are inviolable and can only be entered with the permission of the Governor.   
 2.  The permission, as referred to in Paragraph 1, is deemed to have been obtained in the event of fire or accident in the prison or a calamity or major crisis in or with consequences for the prison, where protective measures need to be taken immediately.   
@@ -276,7 +276,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Archives
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 Regardless of where they are located, all files, documents and other data carriers of the Sending State that the Governor or the personnel have in their possession in the exercise of their duties, are inviolable. 
 
@@ -284,7 +284,7 @@ Regardless of where they are located, all files, documents and other data carrie
 
 ####Possessions, funds and other property
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 Regardless of where they are located, the furniture and other items in the prison, the funds, and also the vehicles of the Sending State are exempt from investigation, requisition, attachment or execution measures. 
 
@@ -292,7 +292,7 @@ Regardless of where they are located, the furniture and other items in the priso
 
 ####Exception from the provisions regarding inviolability and immunity
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 The provisions regarding inviolability and immunity in Articles 21, 22 and 23 shall not apply in instances where the criminal law of the Receiving State applies. 
 
@@ -300,7 +300,7 @@ The provisions regarding inviolability and immunity in Articles 21, 22 and 23 sh
 
 ####Immunity of the Governor
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  The Governor enjoys immunity from the jurisdiction of the Receiving State in respect of acts performed in the exercise of his or her duties.   
 2.  The immunity provided for in Paragraph 1 is granted in the interests of the proper implementation of this Agreement and not for the personal benefit of the Governor. The Sending State has the duty to waive the immunity of the Governor in any case where it would impede the course of justice and can be waived without prejudice to the purpose for which it is accorded.   
@@ -310,13 +310,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####COSTS
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 ### Article  26  
 
 ####Costs
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 The costs of executing Norwegian sentences in the prison, as referred to in Articles 27 and 28, will be reimbursed to the Receiving State by the Sending State, with due regard for the provisions of Article 29. Costs of the security of the prison, as referred to in Article 15, will continue to be borne by the Receiving State. 
 
@@ -324,7 +324,7 @@ The costs of executing Norwegian sentences in the prison, as referred to in Arti
 
 ####Fee for the use of the prison
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  Regardless of the actual number of detention places used, the fee will be a fixed annual amount of € 25,500,000 (*twenty-five million five hundred thousand*) insofar as the number of detention places does not exceed 242.   
 2.  For the years 2015 and 2018 respectively the fee will be a fixed amount of € 2,125,000 (*two million one hundred and twenty-five thousand*) for each month in which the prison is put at the disposal of the Sending State.  
@@ -333,7 +333,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Other costs
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 The reimbursement of other costs shall take place in accordance with the arrangements made in the cooperation agreement, as referred to in Article 3, Paragraph 3. 
 
@@ -341,7 +341,7 @@ The reimbursement of other costs shall take place in accordance with the arrange
 
 ####Indexing
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  The fees listed in Article 27 and in the cooperation agreement in accordance with Article 28 are based on the 2015 price level. These fees will be indexed annually on 1 January every year, and for the first time on 1 January 2016.   
 2.  The indexing, as referred to in Paragraph 1, will take place based on the indexing figures (*Prijs overheidsconsumptie & Prijs overheidsconsumptie, netto materieel) *determined annually by the Bureau for Economic Policy Analysis (*Centraal Planbureau*) of the Receiving State. The indexing figures relate to the following elements: wage costs, housing, material costs and exploitation.   
@@ -358,13 +358,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####FINAL PROVISIONS
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 ### Article  30  
 
 ####Term of the use of the prison
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 The Receiving State shall put the prison at the Sending State’s disposal and the Sending State shall use the prison for a period of three years after the entry into force of this Agreement. The Sending State shall see to it that the use of the prison is terminated at the end of this period. 
 
@@ -372,7 +372,7 @@ The Receiving State shall put the prison at the Sending State’s disposal and t
 
 ####Extension
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  The Ministers of Justice of the Sending State and the Receiving State may agree to an extension of the use of the prison for a period of at least one year.   
 2.  The Ministers of Justice of the Sending State and the Receiving State shall decide on the extension of the use of the prison not later than six months before the extension has to come into effect.  
@@ -381,7 +381,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Additional arrangements
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 For the purpose of the practical application of this Agreement, representatives of the Sending State and the Receiving State that are involved in the implementation of this Agreement can make additional arrangements between themselves. 
 
@@ -389,7 +389,7 @@ For the purpose of the practical application of this Agreement, representatives 
 
 ####Consultations and dispute resolution
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  The designated authorities of the Sending State and the Receiving State or their appointed representatives will regularly consult on the implementation of this Agreement. They will also discuss disputes or difficulties regarding the application, implementation or interpretation of this Agreement, in order to reach a resolution.   
 2.  If the discussions, as referred to in Paragraph 1, do not lead to resolutions, they will notify the Ministers of Justice of the Sending State and the Receiving State.  
@@ -398,7 +398,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Amendment
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 This Agreement may be amended by mutual consent of the Parties. 
 
@@ -406,7 +406,7 @@ This Agreement may be amended by mutual consent of the Parties.
 
 ####Application
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 This Agreement shall apply to the part of the Kingdom of the Netherlands in Europe only. 
 
@@ -414,7 +414,7 @@ This Agreement shall apply to the part of the Kingdom of the Netherlands in Euro
 
 ####Entry into force and termination
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  This Agreement will enter into force on the first day of the first month after the Parties have notified each other in writing that the legal requirements for entry into force have been complied with.   
 2.  This Agreement will terminate three years after its entry into force or, in the event of the application of Article 31, when the extension period has expired.  
@@ -423,20 +423,20 @@ IN WITNESS WHEREOF, the undersigned, duly authorized thereto, have signed this A
 
 ####Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Noorwegen inzake het gebruik van een penitentiaire inrichting in Nederland voor de tenuitvoerlegging van bij Noorse vonnissen opgelegde vrijheidsstraffen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 Het Koninkrijk der Nederlanden en het Koninkrijk Noorwegen (hierna „de partijen”), Overwegende dat er intensieve bilaterale samenwerking is tussen de partijen op het gebied van het strafrecht in Europees verband; Overwegende dat de Partijen de tenuitvoerlegging van bij vonnis opgelegde vrijheidsstraffen essentieel achten voor het functioneren van de rechtsstaat; Overwegende dat in Noorwegen een tekort bestaat aan penitentiaire capaciteit en dat het huren van penitentiaire capaciteit in een andere staat gezien wordt als een kortetermijnoplossing voor deze uitdaging; Overwegende dat als gevolg van de huidige penitentiaire capaciteit van Nederland de tenuitvoerlegging van bij Noorse vonnissen opgelegde vrijheidsstraffen in een penitentiaire inrichting in Nederland kan worden bewerkstelligd; Overwegende dat de partijen internationale normen op het gebied van de mensenrechten erkennen en erdoor gebonden zijn; Overwegende dat de toepassing van dit Verdrag wordt beheerst door deze omstandigheden;   Zijn het volgende overeengekomen:     
 ### DEEL  I  
 
 ####ALGEMENE BEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 ### Artikel  1  
 
 ####Begripsomschrijvingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 Voor de toepassing van dit Verdrag wordt verstaan onder: 
 
@@ -462,7 +462,7 @@ i. „Noors vonnis”: een vrijheidsstraf opgelegd bij onherroepelijke uitspraak
 
 ####Doel en reikwijdte
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 Dit Verdrag strekt tot het regelen van aangelegenheden in verband met of voortvloeiend uit de tenuitvoerlegging van Noorse vonnissen in de penitentiaire inrichting en bevat de daarvoor noodzakelijke voorwaarden. 
 
@@ -470,7 +470,7 @@ Dit Verdrag strekt tot het regelen van aangelegenheden in verband met of voortvl
 
 ####Wederzijdse verplichtingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  De Minister van Veiligheid en Justitie van de ontvangststaat stelt aan de Minister van Justitie en Openbare Veiligheid van de zendstaat de penitentiaire inrichting, met inbegrip van personeel en faciliteiten, ter beschikking voor de tenuitvoerlegging van Noorse vonnissen.   
 2.  De Minister van Justitie en Openbare Veiligheid van de zendstaat maakt gebruik van de penitentiaire inrichting, tegen een financiële vergoeding en in overeenstemming met dit Verdrag en de door de ontvangststaat vastgestelde maximumcapaciteit van de penitentiaire inrichting. Vrijheidsbeneming in de penitentiaire inrichting geschiedt uitsluitend op grond van een Noors vonnis. Vrijheidsbeneming van andere personen dan gedetineerden is niet toegestaan.   
@@ -480,7 +480,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Toepasselijk recht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  Op de tenuitvoerlegging van Noorse vonnissen in de penitentiaire inrichting, met inbegrip van het recht van gedetineerden te verzoeken om overplaatsing naar de zendstaat, is uitsluitend het recht van de zendstaat van toepassing, tenzij in dit Verdrag anders wordt bepaald.   
 2.  Op de samenwerkingsovereenkomst, bedoeld in artikel 3, derde lid, is uitsluitend het recht van de ontvangststaat van toepassing.  
@@ -489,7 +489,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Persoonsgegevens
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 Persoonsgegevens die voor de toepassing van dit Verdrag worden verstrekt, mogen slechts worden gebruikt voor het doel van dit Verdrag, bedoeld in artikel 2. 
 
@@ -497,7 +497,7 @@ Persoonsgegevens die voor de toepassing van dit Verdrag worden verstrekt, mogen 
 
 ####Bevoegdheden en verantwoordelijkheden van de directeur
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  De directeur heeft de algemene leiding over de penitentiaire inrichting.   
 2.  De directeur is binnen de penitentiaire inrichting verantwoordelijk voor de juiste wijze van tenuitvoerlegging van de Noorse vonnissen, het handhaven van de orde en de veiligheid en de behandeling van de gedetineerden conform de Wet op de tenuitvoerlegging van vonnissen *(straffegjennomføringsloven*) van de zendstaat. Hij maakt daarvoor gebruik van het hem door de aangewezen autoriteit van de ontvangststaat ter beschikking gestelde personeel.   
@@ -508,7 +508,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Personeel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 De ontvangststaat levert het personeel dat nodig is voor de uitvoering van de samenwerkingsovereenkomst, bedoeld in artikel 3, derde lid. Inkrimping van het personeel dient uitdrukkelijk te worden overeengekomen met de directeur. 
 
@@ -516,13 +516,13 @@ De ontvangststaat levert het personeel dat nodig is voor de uitvoering van de sa
 
 ####BEPALINGEN BETREFFENDE DE TENUITVOERLEGGING VAN VONNISSEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 ### Artikel  8  
 
 ####Plaatsing van gedetineerden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  De aangewezen autoriteit van de zendstaat waarborgt dat een gedetineerde voor het ondergaan van zijn straf eerst in een Noorse penitentiaire inrichting wordt geplaatst alvorens hij naar de penitentiaire inrichting wordt overgebracht.   
 2.  De aangewezen autoriteit van de zendstaat plaatst een gedetineerde in de penitentiaire inrichting voor de tenuitvoerlegging van een Noors vonnis, op voorwaarde dat de gedetineerde, op het tijdstip waarop het besluit tot plaatsing werd genomen: 
@@ -545,7 +545,7 @@ f. geen medische of andere verzorging behoeft waarin de penitentiaire inrichting
 
 ####Tenuitvoerlegging van verlof en vrijlating
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  Elk besluit dat in de zendstaat wordt genomen op grond waarvan een gedetineerde de penitentiaire inrichting tijdelijk of anderszins mag verlaten, wordt niet op het grondgebied van de ontvangststaat ten uitvoer gelegd. De gedetineerde wordt overgebracht naar de zendstaat met het oog op de tenuitvoerlegging van dit besluit.   
 2.  Gedetineerden worden ten minste twee maanden voor hun vrijlating naar de zendstaat teruggebracht, tenzij de aangewezen autoriteiten van de zendstaat en de ontvangststaat in individuele gevallen hiervan afwijken.  
@@ -554,7 +554,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Klachten en rechtsvorderingen van gedetineerden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  Op klachten en rechtsvorderingen van gedetineerden inzake de tenuitvoerlegging van Noorse vonnissen is het recht van de zendstaat van toepassing.   
 2.  Het recht van de ontvangststaat inzake de behandeling door medische beroepsbeoefenaren, uitgezonderd de Penitentiaire beginselenwet en de Penitentiaire maatregel, blijft van toepassing op klachten of rechtsvorderingen van gedetineerden in individuele gevallen.   
@@ -565,7 +565,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Vervoer van gedetineerden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  Het vervoer van gedetineerden op het grondgebied van de ontvangststaat van en naar de penitentiaire inrichting vindt plaats in opdracht van de directeur of de aangewezen autoriteit in de zendstaat en wordt uitgevoerd door ambtenaren die door de Minister van Veiligheid en Justitie van de ontvangststaat zijn aangewezen.   
 2.  Tijdens het vervoer van gedetineerden mogen maatregelen van rechtstreekse dwang, met inbegrip van vrijheidsbeperkende middelen, vanwege de veiligheid en het ongestoorde verloop van het vervoer worden toegepast door de aangewezen ambtenaren, met inachtneming van de regeling Geweldsinstructie penitentiaire inrichtingen van de ontvangststaat.   
@@ -575,7 +575,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Medische verzorging buiten de penitentiaire inrichting
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  Indien de gedetineerde medische zorg behoeft die niet in de penitentiaire inrichting kan worden geboden, wordt hij overgebracht naar een medisch centrum in de zendstaat.   
 2.  In afwijking van het eerste lid kan een gedetineerde worden overgebracht naar een medisch centrum in de ontvangststaat indien: 
@@ -591,7 +591,7 @@ b. om medische redenen de overbrenging naar een medisch centrum in de zendstaat 
 
 ####Ontvluchting
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 In het geval van ontvluchting uit de penitentiaire inrichting of onttrekking aan het toezicht tijdens het vervoer of tijdens een verblijf in een medisch centrum in de ontvangststaat stelt de directeur de politie in Noord-Drenthe in de gemeente Assen, de aangewezen autoriteit van de ontvangststaat en de nationale dienst voor strafrechtelijk onderzoek van de zendstaat (*Kripos*) daarvan onmiddellijk in kennis en verstrekt daarbij de identiteit van de betrokkene en andere relevante gegevens. 
 
@@ -599,7 +599,7 @@ In het geval van ontvluchting uit de penitentiaire inrichting of onttrekking aan
 
 ####Overlijden van een gedetineerde
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  In het geval van het overlijden van een gedetineerde in de penitentiaire inrichting, meldt de directeur dit overlijden onmiddellijk aan de officier van justitie bij het arrondissementsparket Noord-Nederland. De directeur volgt daarna alle aanwijzingen van de bevoegde autoriteiten van de ontvangststaat op, verleent hun toegang tot de penitentiaire inrichting, laat hen het noodzakelijke onderzoek naar de oorzaak van het overlijden uitvoeren en verleent daaraan alle medewerking. De directeur staat toe dat de overledene op last van de officier van justitie bij het arrondissementsparket Noord-Nederland uit de penitentiaire inrichting wordt vervoerd naar een plaats voor nader onderzoek naar de doodsoorzaak.   
 2.  De directeur wordt in kennis gesteld van het resultaat van het onderzoek naar de oorzaak van het overlijden van de gedetineerde.   
@@ -610,7 +610,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Beveiliging van de penitentiaire inrichting
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 De bevoegde autoriteiten van de ontvangststaat zijn verantwoordelijk voor handhaving van de openbare orde en veiligheid buiten de penitentiaire inrichting. Zij treffen de maatregelen die noodzakelijk zijn voor het ongestoord functioneren van de penitentiaire inrichting en, in voorkomend geval, ter voorkoming van verstoring van de openbare orde in de onmiddellijke omgeving van de penitentiaire inrichting. 
 
@@ -618,7 +618,7 @@ De bevoegde autoriteiten van de ontvangststaat zijn verantwoordelijk voor handha
 
 ####Evacuatie van de penitentiaire inrichting in noodsituaties
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  Indien de penitentiaire inrichting in een noodsituatie geëvacueerd dient te worden, worden de gedetineerden overgebracht naar een andere, door de bevoegde autoriteiten van de ontvangststaat aangewezen locatie met het oog op hun onmiddellijke terugkeer naar de zendstaat.   
 2.  Dit Verdrag is van overeenkomstige toepassing op de andere locatie, bedoeld in het eerste lid, voor zover de omstandigheden van de noodsituatie dit toelaten.  
@@ -627,13 +627,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####STRAFRECHTELIJKE BEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 ### Artikel  17  
 
 ####Strafbare feiten gepleegd in de penitentiaire inrichting
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  Op strafbare feiten gepleegd in de penitentiaire inrichting is het strafrecht van de ontvangststaat onverkort van toepassing.   
 2.  De directeur is verplicht van alle strafbare feiten aangifte te doen bij de politie van Noord-Drenthe in de gemeente Assen. De politie van Noord-Drenthe stelt de officier van justitie bij het arrondissementsparket Noord-Nederland onverwijld in kennis van de aangifte.   
@@ -650,7 +650,7 @@ b. mag uitsluitend op bevel van de officier van justitie bij het arrondissements
 
 ####Strafrechtelijke samenwerking met het oog op onvrijwillige terugkeer in detentie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  Indien een gedetineerde zich buiten de penitentiaire inrichting op het grondgebied van de ontvangststaat bevindt terwijl de tenuitvoerlegging van het Noorse vonnis niet is beëindigd, anders dan tijdens vervoer, als bedoeld in artikel 11, of tijdens verblijf in een medisch centrum, als bedoeld in artikel 12, tweede lid, zijn de tussen de ontvangststaat en de zendstaat geldende verdragen en regelingen inzake internationale strafrechtelijke samenwerking onverkort van toepassing.   
 2.  Een gedetineerde die zich buiten de penitentiaire inrichting op het grondgebied van de ontvangststaat bevindt ten gevolge van situaties als bedoeld in de artikelen 13 en 17, vijfde lid, onderdeel b, terwijl de tenuitvoerlegging van het Noorse vonnis niet is beëindigd, kan op verzoek van de directeur door de bevoegde autoriteiten van de ontvangststaat worden aangehouden voor de duur van ten hoogste zes uren − de uren tussen middernacht en negen uur ’s ochtends niet meegerekend − in afwachting van een signalering in het Schengen-informatiesysteem met het oog op zijn uitlevering.   
@@ -660,7 +660,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Strafrechtelijk onderzoek wegens andere feiten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  In het geval dat een gedetineerde die zich in de penitentiaire inrichting bevindt door de bevoegde autoriteiten van de ontvangststaat wordt gezocht wegens een buiten de penitentiaire inrichting gepleegd strafbaar feit, zijn de tussen de ontvangststaat en de zendstaat geldende verdragen en regelingen inzake internationale strafrechtelijke samenwerking onverkort van toepassing.   
 2.  In het geval dat een gedetineerde die zich in de penitentiaire inrichting bevindt door de bevoegde autoriteiten van de zendstaat wordt gezocht wegens een buiten de penitentiaire inrichting gepleegd strafbaar feit wordt de gedetineerde daartoe naar de zendstaat overgebracht.   
@@ -670,7 +670,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Juridische samenwerking op verzoek van derde staten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  In het geval dat de bevoegde autoriteiten van de ontvangststaat een uitleveringsverzoek, een Europees aanhoudingsbevel of een rechtshulpverzoek van een derde staat ontvangen met betrekking tot een gedetineerde in de penitentiaire inrichting, wordt dit doorgeleid naar de bevoegde autoriteiten in de zendstaat. Hetzelfde geldt voor verzoeken van internationale tribunalen.   
 2.  In het geval dat de bevoegde autoriteiten van de zendstaat een uitleveringsverzoek, een Europees aanhoudingsbevel of een rechtshulpverzoek van een derde staat ontvangen met betrekking tot een gedetineerde in de penitentiaire inrichting, wordt dit door de zendstaat in behandeling genomen met het oog op de afdoening en uitvoering daarvan. De gedetineerde wordt indien nodig naar de zendstaat overgebracht. Hetzelfde geldt voor verzoeken van internationale tribunalen.  
@@ -679,13 +679,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####VOORRECHTEN EN IMMUNITEITEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 ### Artikel  21  
 
 ####Het terrein van de penitentiaire inrichting
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  Het terrein van de penitentiaire inrichting is onschendbaar en kan uitsluitend worden betreden met toestemming van de directeur.   
 2.  De in het eerste lid bedoelde toestemming wordt geacht te zijn verkregen bij brand of ongevallen in de penitentiaire inrichting of een calamiteit of grote crisis in of met gevolgen voor de penitentiaire inrichting, waarbij onmiddellijk maatregelen ter bescherming dienen te worden genomen.   
@@ -695,7 +695,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Archieven
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 Ongeacht waar deze zich bevinden zijn alle dossiers, documenten en overige gegevensdragers van de zendstaat die de directeur of het personeel in het kader van de taakuitoefening onder zich heeft, onschendbaar. 
 
@@ -703,7 +703,7 @@ Ongeacht waar deze zich bevinden zijn alle dossiers, documenten en overige gegev
 
 ####Bezittingen, middelen en overige eigendommen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 Ongeacht waar deze zich bevinden zijn het meubilair en andere in de penitentiaire inrichting aanwezige voorwerpen, de fondsen, alsmede de vervoermiddelen van de zendstaat gevrijwaard tegen onderzoek, vordering, beslaglegging of executoriale maatregelen. 
 
@@ -711,7 +711,7 @@ Ongeacht waar deze zich bevinden zijn het meubilair en andere in de penitentiair
 
 ####Uitzondering op de bepalingen inzake onschendbaarheid en immuniteit
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 De bepalingen inzake onschendbaarheid en immuniteit in de artikelen 21, 22 en 23 vinden geen toepassing in gevallen waarin het strafrecht van de ontvangststaat van toepassing is. 
 
@@ -719,7 +719,7 @@ De bepalingen inzake onschendbaarheid en immuniteit in de artikelen 21, 22 en 23
 
 ####Immuniteit van de directeur
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  De directeur geniet immuniteit van de rechtsmacht van de ontvangststaat wat betreft handelingen in de uitoefening van zijn taken.   
 2.  De in het eerste lid bedoelde immuniteit wordt verleend in het belang van de juiste uitvoering van dit Verdrag en niet voor het persoonlijk nut van de directeur. De zendstaat heeft de plicht de immuniteit van de directeur op te heffen in elk geval waarin deze immuniteit de loop van het recht in de weg staat en het mogelijk is van deze immuniteit afstand te doen zonder het doel waarvoor deze is verleend in gevaar te brengen.   
@@ -729,13 +729,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####KOSTEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 ### Artikel  26  
 
 ####Kosten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 De kosten van de tenuitvoerlegging van Noorse vonnissen in de penitentiaire inrichting, bedoeld in de artikelen 27 en 28, worden, met inachtneming van het bepaalde in artikel 29, door de zendstaat vergoed aan de ontvangststaat. Kosten van de beveiliging van de penitentiaire inrichting, bedoeld in artikel 15, worden gedragen door de ontvangststaat. 
 
@@ -743,7 +743,7 @@ De kosten van de tenuitvoerlegging van Noorse vonnissen in de penitentiaire inri
 
 ####Vergoeding voor het gebruik van de penitentiaire inrichting
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  Ongeacht het feitelijk in gebruik genomen aantal detentieplaatsen, bedraagt de vergoeding een vast, jaarlijks bedrag van € 25.500.000 (*vijfentwintig miljoen vijfhonderdduizend*), voor zover het aantal detentieplaatsen niet meer bedraagt dan 242.   
 2.  Voor de jaren 2015 respectievelijk 2018 bedraagt de vergoeding een vast bedrag van € 2.125.000 (*twee miljoen honderdvijfentwintigduizend*) voor elke maand waarin de penitentiaire inrichting ter beschikking van de zendstaat wordt gesteld.  
@@ -752,7 +752,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Overige kosten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 De vergoeding van overige kosten vindt plaats in overeenstemming met de regelingen die in de samenwerkingsovereenkomst, bedoeld in artikel 3, derde lid, zijn vastgelegd. 
 
@@ -760,7 +760,7 @@ De vergoeding van overige kosten vindt plaats in overeenstemming met de regeling
 
 ####Indexering
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  De in artikel 27 en in de samenwerkingsovereenkomst in overeenstemming met artikel 28 vermelde vergoedingen zijn gebaseerd op het prijspeil van 2015. Deze vergoedingen zullen jaarlijks op 1 januari van elk jaar worden geïndexeerd, voor het eerst op 1 januari 2016.   
 2.  De in het eerste lid bedoelde indexering vindt plaats aan de hand van de indexcijfers (*Prijs overheidsconsumptie & Prijs overheidsconsumptie, netto materieel)* die jaarlijks door het Centraal Planbureau van de ontvangststaat worden vastgesteld. Deze indexcijfers hebben betrekking op de elementen loonkosten, huisvesting en exploitatie.   
@@ -777,13 +777,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####SLOTBEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 ### Artikel  30  
 
 ####Termijn voor het gebruik van de penitentiaire inrichting
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 De ontvangststaat stelt de penitentiaire inrichting ter beschikking van de zendstaat en de zendstaat maakt van de penitentiaire inrichting gebruik gedurende een termijn van drie jaar na de inwerkingtreding van dit Verdrag. De zendstaat ziet erop toe dat het gebruik van de penitentiaire inrichting aan het einde van deze termijn wordt beëindigd. 
 
@@ -791,7 +791,7 @@ De ontvangststaat stelt de penitentiaire inrichting ter beschikking van de zends
 
 ####Verlenging
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  De ministers van Justitie van de zendstaat en van de ontvangststaat kunnen overeenkomen het gebruik van de penitentiaire inrichting met ten minste een jaar te verlengen.   
 2.  De ministers van Justitie van de zendstaat en de ontvangststaat beslissen uiterlijk zes maanden voordat de verlenging in werking dient te treden over verlenging van het gebruik van de penitentiaire inrichting.  
@@ -800,7 +800,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Aanvullende regelingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 Ten behoeve van de praktische toepassing van dit Verdrag kunnen tussen vertegenwoordigers van de zendstaat en de ontvangststaat die bij de uitvoering van dit Verdrag zijn betrokken aanvullende regelingen worden getroffen. 
 
@@ -808,7 +808,7 @@ Ten behoeve van de praktische toepassing van dit Verdrag kunnen tussen vertegenw
 
 ####Overleg en geschillenbeslechting
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  De aangewezen autoriteiten van de zendstaat en de ontvangststaat of door hen aangewezen vertegenwoordigers plegen regelmatig overleg over de uitvoering van dit Verdrag. Zij bespreken voorts geschillen of moeilijkheden omtrent de toepassing, de uitvoering of de interpretatie van dit Verdrag teneinde een oplossing te bereiken.   
 2.  Indien de besprekingen, bedoeld in het eerste lid, niet tot oplossingen leiden, brengen zij dit ter kennis van de ministers van Justitie van de zendstaat en de ontvangststaat.  
@@ -817,7 +817,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Wijziging
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 Dit Verdrag kan met wederzijdse instemming van de partijen worden gewijzigd. 
 
@@ -825,7 +825,7 @@ Dit Verdrag kan met wederzijdse instemming van de partijen worden gewijzigd.
 
 ####Toepassing
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 Dit Verdrag is uitsluitend van toepassing op het deel van het Koninkrijk der Nederlanden in Europa. 
 
@@ -833,7 +833,7 @@ Dit Verdrag is uitsluitend van toepassing op het deel van het Koninkrijk der Ned
 
 ####Inwerkingtreding en beëindiging
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  Dit Verdrag treedt in werking op de eerste dag van de eerste maand nadat beide partijen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de wettelijke vereisten voor de inwerkingtreding is voldaan.   
 2.  Dit Verdrag eindigt drie jaar na de inwerkingtreding ervan of, in het geval van de toepassing van artikel 31, wanneer de verlengingstermijn is verstreken.  

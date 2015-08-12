@@ -49,7 +49,7 @@ De associatie wordt geleidelijk ingevoerd; zij wordt volledig tot stand gebracht
 
 ### Artikel  7  
 
-De overeenkomst moet volledig verenigbaar zijn met de relevante WTO-bepalingen, met name artikel XXIV van de GATT 1994 en artikel V van de GATS, en moet dienovereenkomstig worden uitgevoerd. 
+Deze overeenkomst moet volledig verenigbaar zijn met de relevante WTO-bepalingen, met name artikel XXIV van de GATT 1994 en artikel V van de GATS, en moet dienovereenkomstig worden uitgevoerd. 
 
 ### TITEL  II  
 
@@ -230,7 +230,7 @@ c. de douanerechten die van toepassing zijn op de invoer van bepaalde in bijlage
 ####Visserijproducten
 
 1.  Met ingang van de inwerkingtreding van deze overeenkomst schaft de Gemeenschap alle douanerechten op vis en visserijproducten van oorsprong uit Albanië, andere dan die vermeld in bijlage III, af. Op de in bijlage III vermelde producten zijn de daarin opgenomen bepalingen van toepassing.   
-2.  Zodra deze overeenkomst in werking treedt, past Albanië geen douanerechten of heffingen van gelijke werking meer toe op vis en visserijproducten van oorsprong uit de Europese Gemeenschap.   
+2.  Zodra deze overeenkomst in werking treedt, past Albanië geen douanerechten of heffingen van gelijke werking meer toe op vis en visserijproducten van oorsprong uit de Gemeenschap.   
 
 ### Artikel  29  
 
@@ -284,7 +284,7 @@ De bepalingen betreffende de afschaffing van de douanerechten bij invoer zijn ev
 ####Dumping en subsidiëring
 
 1.  De bepalingen in deze overeenkomst beletten de partijen niet handelsbeschermingsmaatregelen overeenkomstig lid 2 en artikel 38 te treffen.   
-2.  Indien een der partijen constateert dat in het handelsverkeer met de andere partij dumping plaatsvindt en/of tot compenserende maatregelen aanleiding gevende subsidies worden gegeven, kan die partij passende maatregelen nemen tegen deze praktijk op grond van de WTO-overeenkomst betreffende de tenuitvoerlegging van artikel VI van de GATT 1994, de WTO-overeenkomst inzake subsidies en compenserende maatregelen, en haar eigen wetgeving terzake.  
+2.  Indien een der partijen constateert dat in het handelsverkeer met de andere partij dumping plaatsvindt en/of tot compenserende maatregelen aanleiding gevende subsidies worden gegeven, kan de eerstgenoemde partij passende maatregelen nemen tegen deze praktijk op grond van de WTO-overeenkomst betreffende de tenuitvoerlegging van artikel VI van de GATT 1994, de WTO-overeenkomst inzake subsidies en compenserende maatregelen, en haar eigen wetgeving terzake.  
 
 ### Artikel  38  
 
@@ -357,7 +357,7 @@ c. Tijdelijke schorsingen op grond van dit artikel mogen alleen dienen ter besch
 
 ### Artikel  44  
 
-Indien de bevoegde autoriteiten zich hebben vergist in het juiste beheer van de preferentiële uitvoerregeling, en met name in de toepassing van de bepalingen in het protocol bij deze overeenkomst betreffende de definitie van het begrip „producten van oorsprong’’ en administratieve samenwerking, mag de partij die te maken krijgt met eventuele consequenties in de vorm van invoerrechten, de Stabilisatie- en associatieraad verzoeken de mogelijkheden van de goedkeuring van passende maatregelen te onderzoeken om de situatie op te lossen. 
+Indien de bevoegde autoriteiten zich hebben vergist in het juiste beheer van de preferentiële uitvoerregeling, en met name in de toepassing van de bepalingen van protocol 4 betreffende de definitie van het begrip „producten van oorsprong’’ en administratieve samenwerking, mag de partij die te maken krijgt met eventuele consequenties in de vorm van invoerrechten, de Stabilisatie- en associatieraad verzoeken de mogelijkheden van de goedkeuring van passende maatregelen te onderzoeken om de situatie op te lossen. 
 
 ### Artikel  45  
 
@@ -365,7 +365,7 @@ De toepassing van deze overeenkomst laat de toepassing van de bepalingen van het
 
 ### TITEL  V  
 
-####VERKEER VAN WERKNEMERS, VESTIGING, VERRICHTEN VAN DIENSTEN EN BETALINGS- EN KAPITAALVERKEER
+####VERKEER VAN WERKNEMERS, VESTIGING, VERLENEN VAN DIENSTEN EN BETALINGS- EN KAPITAALVERKEER
 
 ### HOOFDSTUK 
 
@@ -443,7 +443,7 @@ ii. voor de werkzaamheden van in Albanië gevestigde dochterondernemingen en fil
 i. voor de vestiging van Albanese vennootschappen een niet minder gunstige behandeling dan de behandeling die de lidstaten verlenen aan eigen vennootschappen of de behandeling die zij verlenen aan vennootschappen uit derde landen, indien die behandeling gunstiger is;  
 
 ii. voor de werkzaamheden van op hun grondgebied gevestigde dochterondernemingen en filialen van Albanese vennootschappen een niet minder gunstige behandeling dan de behandeling die de lidstaten verlenen aan hun eigen vennootschappen en filialen, of de behandeling die zij verlenen aan op hun grondgebied gevestigde dochterondernemingen en filialen van vennootschappen uit derde landen, indien die behandeling gunstiger is.     
-4.  Vijf jaar na de inwerkingtreding van deze overeenkomst stelt de Stabilisatie- en associatieraad de voorwaarden vast voor de uitbreiding van bovenstaande bepalingen tot de vestiging van onderdanen van beide partijen bij de overeenkomst die economische activiteiten anders dan in loondienst wensen uit te oefenen.   
+4.  Vijf jaar na de inwerkingtreding van deze overeenkomst stelt de Stabilisatie- en associatieraad de voorwaarden vast voor de uitbreiding van bovenstaande bepalingen tot de vestiging van onderdanen van beide partijen die economische activiteiten anders dan in loondienst wensen uit te oefenen.   
 5.  Onverminderd het bepaalde in dit artikel: 
 
 a. hebben dochterondernemingen en filialen van vennootschappen uit de Gemeenschap vanaf de inwerkingtreding van deze overeenkomst het recht om in Albanië onroerend goed te huren en te gebruiken;  
@@ -452,8 +452,8 @@ b. hebben dochterondernemingen en filialen van vennootschappen uit de Gemeenscha
 
 ### Artikel  51  
 
-1.  Met inachtneming van het bepaalde in artikel 50 en uitgezonderd de in bijlage IV beschreven financiële diensten kan elke partij de vestiging en de werkzaamheden van vennootschappen en onderdanen op haar grondgebied regelen, voor zover deze regelingen niet discriminerend zijn voor vennootschappen en onderdanen van de andere partij in vergelijking met de eigen vennootschappen en onderdanen.    
-2.  Ten aanzien van financiële diensten vormt geen van de bepalingen van deze overeenkomst voor een partij een beletsel om prudentiële maatregelen te treffen, zoals om investeerders, depositohouders, verzekeringsnemers of personen jegens wie een fiduciaire verplichting is aangegaan, te beschermen, of om de integriteit en stabiliteit van het financiële systeem te waarborgen. Dergelijke maatregelen mogen door een partij niet worden aangewend om zich aan de uit de overeenkomst voortvloeiende verplichtingen te onttrekken.   
+1.  Met inachtneming van het bepaalde in artikel 50 en uitgezonderd de in bijlage IV omschreven financiële diensten kan elke partij de vestiging en de werkzaamheden van vennootschappen en onderdanen op haar grondgebied regelen, voor zover deze regelingen niet discriminerend zijn voor vennootschappen en onderdanen van de andere partij in vergelijking met de eigen vennootschappen en onderdanen.    
+2.  Ten aanzien van financiële diensten vormt geen van de bepalingen van deze overeenkomst voor een partij een beletsel om prudentiële maatregelen te treffen, zoals om investeerders, depositohouders, verzekeringsnemers of personen jegens wie een fiduciaire verplichting is aangegaan, te beschermen, of om de integriteit en stabiliteit van het financiële systeem te waarborgen. Dergelijke maatregelen mogen door een partij niet worden aangewend om zich aan de uit deze overeenkomst voortvloeiende verplichtingen te onttrekken.   
 3.  Geen der bepalingen van deze overeenkomst mag op zodanige wijze worden geïnterpreteerd dat zij een partij verplicht tot het verstrekken van informatie betreffende de zaken en de boekhouding van individuele cliënten, dan wel vertrouwelijke of geheime informatie die in het bezit is van overheidsinstanties.  
 
 ### Artikel  52  
@@ -473,18 +473,18 @@ Teneinde de toegang tot en de uitoefening van gereglementeerde activiteiten in h
 ### Artikel  55  
 
 1.  Een op het grondgebied van Albanië respectievelijk de Gemeenschap gevestigde communautaire respectievelijk Albanese vennootschap heeft het recht, met inachtneming van de wetgeving van het gastland van vestiging, op het grondgebied van Albanië respectievelijk de Gemeenschap werknemers die onderdaan zijn van een lidstaat van de Gemeenschap respectievelijk van Albanië in dienst te nemen of deze door een van haar dochterondernemingen of filialen in dienst te laten nemen, mits dergelijke werknemers een sleutelpositie in de zin van lid 2 van dit artikel bekleden en zij uitsluitend een dienstverband hebben met vennootschappen, dochterondernemingen of filialen. De geldigheidsduur van de verblijfs- en werkvergunningen van deze werknemers is beperkt tot de periode waarin zij als zodanig werkzaam zijn.   
-2.  Werknemers met een sleutelpositie die in dienst zijn van bovengenoemde vennootschappen, hierna „organisaties’’ genoemd, zijn „binnen de organisatie overgeplaatste personen’’ als omschreven onder c van dit lid, van de hierna volgende categorieën, met dien verstande dat de organisatie een rechtspersoon moet zijn en de betrokkenen gedurende ten minste het onmiddellijk aan de overplaatsing voorafgaande jaar in dienst waren van deze organisatie of daarin partners (doch geen aandeelhouders met een meerderheidsbelang) waren: 
+2.  Werknemers met een sleutelpositie die in dienst zijn van bovengenoemde vennootschappen, hierna „organisaties” genoemd, zijn „binnen de organisatie overgeplaatste personen” als omschreven onder c, van de hierna volgende categorieën, met dien verstande dat de organisatie een rechtspersoon moet zijn en de betrokkenen gedurende ten minste het onmiddellijk aan de overplaatsing voorafgaande jaar in dienst waren van deze organisatie of daarin partners (doch geen aandeelhouders met een meerderheidsbelang) waren: 
 
 a. personen met een hogere leidinggevende functie binnen een organisatie die in de eerste plaats verantwoordelijk zijn voor het management van de vestiging, onder leiding en algemeen toezicht van met name de raad van bestuur of de aandeelhouders of daarmee gelijkgestelde personen, met inbegrip van personeelsleden die: – leiding geven aan een vestiging of een afdeling of onderafdeling van de vestiging; – toezicht houden op de werkzaamheden van andere toezichthoudende, gespecialiseerde of leidinggevende werknemers en deze controleren; – persoonlijk bevoegd zijn werknemers in dienst te nemen en te ontslaan of de indienstneming of het ontslag van werknemers of andere maatregelen in het kader van het personeelsbeleid aan te bevelen;  
 
 b. binnen een organisatie werkzame personen die beschikken over buitengewone kennis die van wezenlijk belang is voor de dienstverlening van het bedrijf, de onderzoeksuitrusting, de technische werkzaamheden of het management. Afgezien van de specifieke kennis met betrekking tot de betrokken vestiging, kan deze kennis betrekking hebben op de bekwaamheid om bepaalde werkzaamheden uit te voeren of een bepaald beroep uit te oefenen waarvoor specifieke technische vaardigheden en eventueel het lidmaatschap van een erkende beroepsgroep vereist zijn;  
 
-c. een „binnen de organisatie overgeplaatste persoon’’ is een natuurlijke persoon die voor een organisatie op het grondgebied van een partij werkzaam is en die tijdelijk wordt overgeplaatst in het kader van economische activiteiten op het grondgebied van de andere partij; de belangrijkste handelsactiviteit van de betrokken organisatie dient op het grondgebied van een partij plaats te hebben en de overplaatsing dient te geschieden naar een dochteronderneming of filiaal van die organisatie die of dat op het grondgebied van de andere partij daadwerkelijk soortgelijke economische activiteiten verricht.     
+c. een „binnen de organisatie overgeplaatste persoon” is een natuurlijke persoon die voor een organisatie op het grondgebied van een partij werkzaam is en die tijdelijk wordt overgeplaatst in het kader van economische activiteiten op het grondgebied van de andere partij; de belangrijkste handelsactiviteit van de betrokken organisatie dient op het grondgebied van een partij plaats te hebben en de overplaatsing dient te geschieden naar een dochteronderneming of filiaal van die organisatie die of dat op het grondgebied van de andere partij daadwerkelijk soortgelijke economische activiteiten verricht.     
 3.  De toegang tot en het tijdelijk verblijf op het grondgebied van de Gemeenschap respectievelijk Albanië van Albanese onderdanen respectievelijk onderdanen van de Gemeenschap moet worden toegestaan aan vertegenwoordigers van vennootschappen met een hogere leidinggevende functie binnen een vennootschap als gedefinieerd in lid 2, onder a, die belast zijn met het opzetten van een dochteronderneming of filiaal in de Gemeenschap van een Albanese vennootschap, respectievelijk een dochteronderneming of filiaal in Albanië van een vennootschap uit de Gemeenschap, mits: 
 
-–  deze vertegenwoordigers zich niet bezig houden met rechtstreekse verkoop of dienstverlening, en  
+– deze vertegenwoordigers zich niet bezig houden met rechtstreekse verkoop of dienstverlening, en  
 
-–  de vennootschap haar belangrijkste handelsactiviteit buiten de Gemeenschap respectievelijk Albanië heeft, en geen andere vertegenwoordigers, kantoren, filialen of dochterondernemingen in de betrokken lidstaat van de Gemeenschap respectievelijk Albanië heeft.    
+– de vennootschap haar belangrijkste handelsactiviteit buiten de Gemeenschap respectievelijk Albanië heeft, en geen andere vertegenwoordigers, kantoren, filialen of dochterondernemingen in de betrokken lidstaat van de Gemeenschap respectievelijk Albanië heeft.    
 
 ### Artikel  56  
 
@@ -514,8 +514,8 @@ iii. mogen niet leiden tot discriminatie van de activiteiten van vennootschappen
 
 ### Artikel  58  
 
-1.  De partijen treffen geen maatregelen en ondernemen geen acties die de voorwaarden voor het verrichten van diensten door communautaire en Albanese vennootschappen of onderdanen die gevestigd zijn op het grondgebied van een andere partij dan die van de persoon voor wie de diensten worden verricht, aanmerkelijk restrictiever maken ten opzichte van de situatie op de dag voorafgaande aan de inwerkingtreding van de overeenkomst.   
-2.  Indien een partij van mening is dat maatregelen die door de andere partij na de inwerkingtreding van de overeenkomst zijn genomen, tot een situatie leiden die ten aanzien van het verrichten van diensten aanmerkelijk restrictiever is dan op de datum van inwerkingtreding van deze overeenkomst, kan eerstgenoemde partij de andere partij om overleg verzoeken.  
+1.  De partijen treffen geen maatregelen en ondernemen geen acties die de voorwaarden voor het verrichten van diensten door communautaire en Albanese vennootschappen of onderdanen die gevestigd zijn op het grondgebied van een andere partij dan die van de persoon voor wie de diensten worden verricht, aanmerkelijk restrictiever maken ten opzichte van de situatie op de dag voorafgaande aan de inwerkingtreding van deze overeenkomst.   
+2.  Indien een partij van mening is dat maatregelen die door de andere partij na de inwerkingtreding van deze overeenkomst zijn genomen, tot een situatie leiden die ten aanzien van het verrichten van diensten aanmerkelijk restrictiever is dan op de datum van inwerkingtreding van deze overeenkomst, kan eerstgenoemde partij de andere partij om overleg verzoeken.  
 
 ### Artikel  59  
 
@@ -600,7 +600,7 @@ De bepalingen van deze overeenkomst doen geen afbreuk aan de toepassing door elk
 ### Artikel  70  
 
 1.  De partijen erkennen het belang van de aanpassing van de bestaande wetgeving van Albanië aan die van de Gemeenschap en van de doeltreffende toepassing daarvan. Albanië streeft ernaar zijn huidige en toekomstige wetgeving geleidelijk in overeenstemming te brengen met het acquis van de Gemeenschap. Albanië ziet erop toe dat de bestaande en toekomstige wetgeving naar behoren ten uitvoer wordt gelegd en nageleefd.   
-2.  Deze aanpassing begint bij de inwerkingtreding van de overeenkomst en wordt in de loop van de overgangsperiode die is vastgesteld in artikel 6 van deze overeenkomst geleidelijk uitgebreid tot alle in de overeenkomst genoemde onderdelen van het acquis van de Gemeenschap.   
+2.  Deze aanpassing begint bij de inwerkingtreding van de overeenkomst en wordt in de loop van de overgangsperiode die is vastgesteld in artikel 6 geleidelijk uitgebreid tot alle in de overeenkomst genoemde onderdelen van het acquis van de Gemeenschap.   
 3.  Gedurende de in artikel 6 vastgestelde eerste fase richt de aanpassing zich op fundamentele elementen van het acquis betreffende de interne markt, alsmede op andere belangrijke gebieden, zoals concurrentie, intellectuele-, industriële- en commerciële-eigendomsrechten, openbare aanbestedingen, normen en certificering, financiële diensten, land- en zeevervoer – met speciale nadruk op de veiligheid, milieunormen, en sociale aspecten – vennootschapsrecht, boekhouding, consumentenbescherming, gegevensbescherming, gezondheid en veiligheid op het werk en gelijke kansen. Gedurende de tweede fase richt Albanië zich op de resterende delen van het acquis. De aanpassing vindt plaats op basis van een programma waarover de Commissie van de Europese Gemeenschappen en Albanië overeenstemming moeten bereiken.  
 4.  Albanië stelt tevens, in overeenstemming met de Commissie van de Europese Gemeenschappen, de voorwaarden vast voor het toezicht op de tenuitvoerlegging van de aanpassing van de wetgeving en de te treffen rechtshandhavingsmaatregelen.   
 
@@ -608,7 +608,7 @@ De bepalingen van deze overeenkomst doen geen afbreuk aan de toepassing door elk
 
 ####Bepalingen betreffende de concurrentie en andere economische aspecten
 
-1.  Onverenigbaar met de goede werking van de overeenkomst zijn, voorzover de handel tussen de Gemeenschap en Albanië daardoor ongunstig kan worden beïnvloed: 
+1.  Onverenigbaar met de goede werking van deze overeenkomst zijn, voorzover de handel tussen de Gemeenschap en Albanië daardoor ongunstig kan worden beïnvloed: 
 
 i. alle overeenkomsten tussen ondernemingen, alle besluiten van ondernemersverenigingen en alle onderling afgestemde feitelijke gedragingen van ondernemingen welke ertoe strekken of die ten gevolge hebben dat de mededinging wordt verhinderd, beperkt of vervalst;  
 
@@ -620,10 +620,7 @@ iii. alle steunmaatregelen van de staten die de mededinging door begunstiging va
 4.  Binnen vier jaar na de datum van inwerkingtreding van deze overeenkomst stelt Albanië een overheidsinstantie in die onafhankelijk kan optreden en die de bevoegdheden krijgt die noodzakelijk zijn voor de volledige toepassing van lid 1, onder iii). Deze instantie beschikt onder meer over de bevoegdheid toestemming te verlenen voor steunregelingen van de overheid en individuele steunmaatregelen, overeenkomstig lid 2, alsmede de bevoegdheid terugbetaling van onwettig verleende overheidssteun te vorderen.   
 5.  Elke partij draagt zorg voor transparantie ten aanzien van de overheidssteun, met name door de andere partij een jaarverslag of een gelijkwaardig rapport te doen toekomen, waarbij de methodologie en de presentatie worden gevolgd van het overzicht van de overheidssteun dat door de Gemeenschap wordt opgesteld. Op verzoek van een van de partijen verstrekt de andere partij informatie over bepaalde afzonderlijke steunmaatregelen van de overheid.    
 6.  Albanië stelt een volledig overzicht op van de steunregelingen die vóór de oprichting van de instantie bedoeld in lid 4 zijn ingesteld, en past deze steunregelingen binnen vier jaar na de inwerkingtreding van deze overeenkomst aan volgens de criteria bedoeld in lid 2.   
-7. 
-a.Voor de toepassing van het bepaalde in lid 1, onder iii), komen de partijen overeen dat gedurende de eerste tien jaar na de inwerkingtreding van deze overeenkomst alle door Albanië toegekende overheidssteun wordt beoordeeld met inachtneming van het feit dat Albanië wordt beschouwd als een regio overeenkomend met de in artikel 87, lid 3, onder a, van het Verdrag tot oprichting van de Europese Gemeenschap bedoelde streken van de Gemeenschap.
-
-b. Binnen vijf jaar na de inwerkingtreding van de overeenkomst verstrekt Albanië de Commissie van de Europese Gemeenschappen de BBP-cijfers per hoofd van de bevolking, geharmoniseerd op NUTS II-niveau. De in lid 4 bedoelde instantie en de Commissie van de Europese Gemeenschappen zullen dan gezamenlijk evalueren welke regio’s van Albanië voor overheidssteun in aanmerking komen, alsmede hoeveel de maximale steun voor die regio’s mag bedragen, teneinde op basis van de desbetreffende communautaire richtsnoeren het regionale steunoverzicht op te stellen.     
+7.  Voor de toepassing van het bepaalde in lid 1, onder iii), komen de partijen overeen dat gedurende de eerste tien jaar na de inwerkingtreding van deze overeenkomst alle door Albanië toegekende overheidssteun wordt beoordeeld met inachtneming van het feit dat Albanië wordt beschouwd als een regio overeenkomend met de in artikel 87, lid 3, onder a, van het Verdrag tot oprichting van de Europese Gemeenschap bedoelde streken van de Gemeenschap.Binnen vijf jaar na de inwerkingtreding van de overeenkomst verstrekt Albanië de Commissie van de Europese Gemeenschappen de BBP-cijfers per hoofd van de bevolking, geharmoniseerd op NUTS II-niveau. De in lid 4 bedoelde instantie en de Commissie van de Europese Gemeenschappen zullen dan gezamenlijk evalueren welke regio’s van Albanië voor overheidssteun in aanmerking komen, alsmede hoeveel de maximale steun voor die regio’s mag bedragen, teneinde op basis van de desbetreffende communautaire richtsnoeren het regionale steunoverzicht op te stellen.   
 8.  Met betrekking tot de producten vermeld in hoofdstuk II van titel IV: 
 
 –  is het bepaalde in lid 1, onder iii), niet van toepassing;  
@@ -717,7 +714,7 @@ Zodra deze overeenkomst in werking is getreden, past Albanië zijn wetgeving inz
 
 ####Visa, grensbeheer, asiel en migratie
 
-De partijen werken samen op het gebied van visa, grenscontrole, asiel en migratie en zetten een kader op voor deze samenwerking, ook op regionaal niveau, waarbij in voorkomend geval rekening wordt gehouden met en optimaal geprofiteerd wordt van bestaande initiatieven op dit vlak. De samenwerking op de in eerste alinea genoemde gebieden is gebaseerd op wederzijds overleg en nauwe coördinatie van de activiteiten van de partijen en omvat tevens technische en administratieve bijstand bij: 
+De partijen werken samen op het gebied van visa, grenscontrole, asiel en migratie en zetten een kader op voor deze samenwerking, ook op regionaal niveau, waarbij in voorkomend geval rekening wordt gehouden met en optimaal geprofiteerd wordt van bestaande initiatieven op dit vlak. De samenwerking op de in de eerste alinea genoemde gebieden is gebaseerd op wederzijds overleg en nauwe coördinatie van de activiteiten van de partijen en omvat tevens technische en administratieve bijstand bij: 
 
 –  de uitwisseling van informatie over wetgeving en praktijken;  
 
@@ -737,17 +734,21 @@ De partijen werken samen op het gebied van visa, grenscontrole, asiel en migrati
 
 ### Artikel  81  
 
-####Preventie van en controle op illegale immigratie; overname
+####Preventie van en controle op illegale immigratie en overname
 
-De partijen werken samen met oog op de preventie en controle van illegale immigratie. Daartoe spreken de partijen af dat Albanië en de lidstaten op verzoek en zonder verdere formaliteiten de volgende categorieën personen overnemen: 
+1. De partijen werken samen met oog op de preventie en controle van illegale immigratie. Daartoe spreken de partijen af dat Albanië en de lidstaten op verzoek en zonder verdere formaliteiten de volgende categorieën personen overnemen: 
 
 –  hun onderdanen die illegaal op het grondgebied van de andere partij verblijven;  
 
-–  onderdanen van derde landen en staatlozen die illegaal op het grondgebied van de andere partij verblijven en die Albanië zijn binnengekomen via een lidstaat of die een lidstaat zijn binnengekomen via Albanië.   De lidstaten van de Europese Unie en Albanië verstrekken hun onderdanen passende identiteitsdocumenten en verlenen hun toegang tot de administratieve faciliteiten die daartoe vereist zijn. Specifieke procedures in verband met de overname van elkaars onderdanen, onderdanen van derde landen en staatlozen worden vastgesteld in het kader van de Overeenkomst tussen de Europese Gemeenschap en de Republiek Albanië inzake de overname van personen die zonder vergunning op het grondgebied verblijven, die op 14 april 2005 is ondertekend. Albanië belooft overnameovereenkomsten te sluiten met de andere landen van het stabilisatie- en associatieproces en alle noodzakelijke maatregelen te nemen om ervoor te zorgen dat alle in dit artikel genoemde overnameovereenkomsten flexibel en snel worden uitgevoerd. De Stabilisatie- en associatieraad onderzoekt welke andere gezamenlijke inspanningen kunnen worden geleverd met het oog op de preventie en controle van illegale immigratie, met inbegrip van mensenhandel en illegale migratienetwerken.  
+–  onderdanen van derde landen en staatlozen die illegaal op het grondgebied van de andere partij verblijven en die Albanië zijn binnengekomen via een lidstaat of die een lidstaat zijn binnengekomen via Albanië.  
+2. De lidstaten van de Europese Unie en Albanië verstrekken hun onderdanen passende identiteitsdocumenten en verlenen hun toegang tot de administratieve faciliteiten die daartoe vereist zijn.
+3. Specifieke procedures in verband met de overname van elkaars onderdanen, onderdanen van derde landen en staatlozen worden vastgesteld in het kader van de Overeenkomst tussen de Europese Gemeenschap en de Republiek Albanië inzake de overname van personen die zonder vergunning op het grondgebied verblijven, die op 14 april 2005 is ondertekend.
+4. Albanië belooft overnameovereenkomsten te sluiten met de andere landen van het stabilisatie- en associatieproces en alle noodzakelijke maatregelen te nemen om ervoor te zorgen dat alle in dit artikel genoemde overnameovereenkomsten flexibel en snel worden uitgevoerd.
+5. De Stabilisatie- en associatieraad onderzoekt welke andere gezamenlijke inspanningen kunnen worden geleverd met het oog op de preventie en controle van illegale immigratie, met inbegrip van mensenhandel en illegale migratienetwerken. 
 
 ### HOOFDSTUK  III  
 
-####SAMENWERKING INZAKE DE BESTRIJDING VAN HET WITWASSEN VAN GELD EN DE BESTRIJDING VAN DRUGS
+####SAMENWERKING INZAKE DE BESTRIJDING VAN HET WITWASSEN VAN GELD, DE FINANCIERING VAN TERRORISME EN DRUGS EN TERRORISME
 
 ### Artikel  82  
 
@@ -761,7 +762,7 @@ De partijen werken samen met oog op de preventie en controle van illegale immigr
 ####Samenwerking op het gebied van drugs
 
 1.  Binnen het kader van hun respectieve bevoegdheden werken de partijen samen met het oog op een evenwichtige en geïntegreerde aanpak van drugsvraagstukken. Het beleid en de activiteiten ter bestrijding van drugs zijn gericht op het terugdringen van het aanbod van, de handel in en de vraag naar illegale drugs, en een effectievere controle op precursoren.   
-2.  De partijen komen overeen welke samenwerkingsmethoden nodig zijn om deze doelstellingen te bereiken. De activiteiten worden gebaseerd op gezamenlijk overeengekomen principes in overeenstemming met het drugsbeleid van de EU.  
+2.  De partijen komen overeen welke samenwerkingsmethoden nodig zijn om deze doelstellingen te bereiken. De activiteiten worden gebaseerd op gezamenlijk overeengekomen principes in overeenstemming met het drugsbestrijdingsbeleid van de EU.  
 
 ### Artikel  84  
 
@@ -830,7 +831,7 @@ De partijen werken samen aan de voorkoming en bestrijding van al dan niet georga
 
 ####Statistische samenwerking
 
-De samenwerking tussen de partijen is in eerste instantie gericht op prioritaire gebieden die verband houden met het acquis van de Gemeenschap op het gebied van de statistiek. De statistische samenwerking is met name gericht op de ontwikkeling van een efficiënt en duurzaam statistisch stelsel dat in staat is de vergelijkbare, betrouwbare, objectieve en nauwkeurige gegevens te leveren die nodig zijn om het overgangs- en hervormingsproces in Albanië te plannen en te controleren. Ook moet de statistische samenwerking het bureau voor de statistiek van Albanië in staat stellen beter te voldoen aan de behoeften van nationale en internationale afnemers (overheid en particuliere sector). Het statistisch stelsel moet de fundamentele beginselen van de statistiek die door de VN zijn uitgevaardigd, de Europese praktijkcode voor statistieken en de bepalingen van de Europese statistiekwetgeving eerbiedigen en zich ontwikkelen in de richting van het acquis. 
+De samenwerking tussen de partijen is in eerste instantie gericht op prioritaire gebieden die verband houden met het acquis van de Gemeenschap op het gebied van de statistiek. De statistische samenwerking is met name gericht op de ontwikkeling van een efficiënt en duurzaam statistisch stelsel dat in staat is de vergelijkbare, betrouwbare, objectieve en nauwkeurige gegevens te leveren die nodig zijn om het overgangs- en hervormingsproces in Albanië te plannen en te controleren. Ook moet de statistische samenwerking het bureau voor de statistiek van Albanië in staat stellen beter te voldoen aan de behoeften van nationale en internationale afnemers (overheid en particuliere sector). Het statistisch stelsel moet de fundamentele beginselen van de statistiek die door de Verenigde Naties zijn uitgevaardigd, de Europese praktijkcode voor statistieken en de bepalingen van de Europese statistiekwetgeving eerbiedigen en zich ontwikkelen in de richting van het acquis. 
 
 ### Artikel  89  
 
@@ -980,7 +981,8 @@ De samenwerking is gericht op prioritaire gebieden die verband houden met het co
 
 ####Regionale en plaatselijke ontwikkeling
 
-De partijen zetten zich in voor de versterking van de regionale en plaatselijke ontwikkelingssamenwerking, teneinde bij te dragen tot de economische ontwikkeling en de vermindering van regionale verschillen. Specifieke aandacht wordt geschonken aan grensoverschrijdende, transnationale en interregionale samenwerking. In het kader van de samenwerking wordt rekening gehouden met de prioritaire terreinen in verband met het communautair acquis op het gebied van regionale ontwikkeling.  
+1. De partijen zetten zich in voor de versterking van de regionale en plaatselijke ontwikkelingssamenwerking, teneinde bij te dragen tot de economische ontwikkeling en de vermindering van regionale verschillen. Specifieke aandacht wordt geschonken aan grensoverschrijdende, transnationale en interregionale samenwerking.
+2. In het kader van de samenwerking wordt rekening gehouden met de prioritaire terreinen in verband met het communautair acquis op het gebied van regionale ontwikkeling.  
 
 ### Artikel  111  
 
@@ -1015,7 +1017,7 @@ Met het oog op optimale benutting van de beschikbare middelen zien de partijen e
 
 ### Artikel  116  
 
-Er wordt een Stabilisatie- en associatieraad opgericht, die toezicht houdt op de toepassing en de tenuitvoerlegging van de overeenkomst. De Stabilisatie- en associatieraad komt op passend niveau bijeen met regelmatige tussenpozen en wanneer de omstandigheden dat vereisen, en behandelt dan alle belangrijke vraagstukken die zich in het kader van de overeenkomst voordoen, en alle andere, bilaterale of internationale vraagstukken van gemeenschappelijk belang. 
+Er wordt een Stabilisatie- en associatieraad opgericht, die toezicht houdt op de toepassing en de tenuitvoerlegging van deze overeenkomst. De Stabilisatie- en associatieraad komt op passend niveau bijeen met regelmatige tussenpozen en wanneer de omstandigheden dat vereisen, en behandelt dan alle belangrijke vraagstukken die zich in het kader van de overeenkomst voordoen, en alle andere, bilaterale of internationale vraagstukken van gemeenschappelijk belang. 
 
 ### Artikel  117  
 
@@ -1107,7 +1109,7 @@ De secretaris-generaal van de Raad van de Europese Unie is de depositaris van de
 
 ### Artikel  134  
 
-1.  Deze overeenkomst is opgesteld in alle officiële talen van de partijen, zijnde alle teksten gelijkelijk authentiek.   
+Deze overeenkomst is opgesteld in tweevoud in alle officiële talen van de partijen, zijnde alle teksten gelijkelijk authentiek.  
 
 ### Artikel  135  
 
@@ -1127,7 +1129,7 @@ GEDAAN te Luxemburg, de twaalfde juni tweeduizend zes.
 
 ### Protocol 1  
 
-####IJzer- en staalproducten
+####betreffende ijzer- en staalproducten
 
 ### Artikel  1  
 
@@ -1139,8 +1141,8 @@ Douanerechten die bij invoer in de Gemeenschap van toepassing zijn op ijzer- en 
 
 ### Artikel  3  
 
-1.  Bij de inwerkingtreding van deze overeenkomst worden douanerechten die in Albanië van toepassing zijn op ijzer- en staalproducten van oorsprong uit de Gemeenschap waarnaar wordt verwezen in artikel 19 en die zijn opgenomen in bijlage I bij deze overeenkomst geleidelijk verlaagd volgens het in die bijlage vastgestelde tijdschema.   
-2.  Bij de inwerkingtreding van deze overeenkomst worden douanerechten die in Albanië van toepassing zijn op alle andere ijzer- en staalproducten van oorsprong uit de Gemeenschap afgeschaft.   
+1.  Bij de inwerkingtreding van de overeenkomst worden douanerechten die in Albanië van toepassing zijn op ijzer- en staalproducten van oorsprong uit de Gemeenschap waarnaar wordt verwezen in artikel 19 van de overeenkomst en die zijn opgenomen in bijlage I bij deze overeenkomst geleidelijk verlaagd volgens het in die bijlage vastgestelde tijdschema.   
+2.  Bij de inwerkingtreding van de overeenkomst worden douanerechten die in Albanië van toepassing zijn op alle andere ijzer- en staalproducten van oorsprong uit de Gemeenschap afgeschaft.   
 
 ### Artikel  4  
 
@@ -1150,7 +1152,7 @@ Douanerechten die bij invoer in de Gemeenschap van toepassing zijn op ijzer- en 
 ### Artikel  5  
 
 1.  In verband met artikel 71 van de overeenkomst erkennen de partijen dat het noodzakelijk en urgent is dat elke partij terstond maatregelen neemt om eventuele structurele zwakheden van haar ijzer- en staalsector te verhelpen ter waarborging van het algemene concurrentievermogen van haar industrie. Albanië stelt daarom binnen drie jaar een herstructurerings- en omschakelingsprogramma voor haar ijzer- en staalindustrie op om ervoor te zorgen dat deze industrie op normale marktvoorwaarden kan voortbestaan. De Gemeenschap zal Albanië op verzoek technische bijstand verlenen om dit doel te bereiken.   
-2.  In verband met artikel 71 van de overeenkomst worden voorts alle praktijken die strijdig zijn met dit artikel beoordeeld op grond van specifieke criteria die voortvloeien uit de toepassing van de wetgeving van de Gemeenschap inzake overheidssteun, met inbegrip van de afgeleide wetgeving, en van bijzondere voorschriften inzake het toezicht op overheidssteun die na het vervallen van het EGKS-verdrag op de ijzer- en staalsector van toepassing zijn.   
+2.  In verband met artikel 71 van de overeenkomst worden voorts alle praktijken die strijdig zijn met dit artikel beoordeeld op grond van specifieke criteria die voortvloeien uit de toepassing van de wetgeving van de Gemeenschap inzake overheidssteun, met inbegrip van de afgeleide wetgeving, en van bijzondere voorschriften inzake het toezicht op overheidssteun die na het vervallen van het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal op de ijzer- en staalsector van toepassing zijn.   
 3.  Voor de toepassing van lid 1, onder iii), van artikel 71 van de overeenkomst op ijzer- en staalproducten, erkent de Gemeenschap dat Albanië gedurende vijf jaar na de inwerkingtreding van de overeenkomst bij wijze van uitzondering overheidssteun voor herstructureringsdoeleinden mag verlenen, mits: 
 
 –  de steun ertoe leidt dat de begunstigde ondernemingen aan het einde van de herstructureringsperiode op normale marktvoorwaarden kunnen voortbestaan;  
@@ -1158,7 +1160,7 @@ Douanerechten die bij invoer in de Gemeenschap van toepassing zijn op ijzer- en 
 –  het bedrag en de intensiteit van de steun strikt beperkt zijn tot hetgeen voor het herstel van een normaal voortbestaan absoluut noodzakelijk is, en dat deze geleidelijk worden verminderd; en  
 
 –  het herstructureringsprogramma gekoppeld is aan algemene rationaliseringsmaatregelen en compenserende maatregelen om het mededingingsverstorende effect van de door Albanië verleende steun te compenseren.     
-4.  Elke partij ziet toe op volledige transparantie bij de tenuitvoerlegging van het noodzakelijke herstructurerings- en omschakelingsprogramma door de andere partij voortdurend volledig in te lichten, waarbij met name gegevens worden medegedeeld over het herstructureringsplan en de bedragen, de intensiteit en het doel van de overheidssteun die op grond van de leden 2 en 3 van dit artikel wordt verleend.   
+4.  Elke partij ziet toe op volledige transparantie bij de tenuitvoerlegging van het noodzakelijke herstructurerings- en omschakelingsprogramma door de andere partij voortdurend volledig in te lichten, waarbij met name gegevens worden medegedeeld over het herstructureringsplan en de bedragen, de intensiteit en het doel van de overheidssteun die op grond van de leden 2 en 3 wordt verleend.   
 5.  De Stabilisatie- en Associatieraad houdt toezicht op de naleving van de leden 1 tot en met 4.   
 6.  Indien een partij van oordeel is dat een praktijk van de andere partij met dit artikel in strijd is, en indien die praktijk nadelig is of dreigt te zijn voor de belangen van de eerste partij of indien de binnenlandse industrie van die partij aanmerkelijke schade ondervindt of dreigt te ondervinden, kan deze partij de nodige maatregelen nemen na raadpleging van de in artikel 7 genoemde contactgroep of dertig werkdagen nadat om deze raadpleging is verzocht.  
 
@@ -1205,9 +1207,9 @@ De Gemeenschap en Albanië stellen elkaar in kennis van de administratieve regel
 
 Het Protocol omvat de volgende onderdelen: 
 
-1.een overeenkomst betreffende wederzijdse preferentiële handelsconcessies voor bepaalde wijnen (bijlage I bij dit protocol);
+1.een overeenkomst tussen de Europese Gemeenschap en de Republiek Albanië betreffende wederzijdse preferentiële handelsconcessies voor bepaalde wijnen (bijlage I bij dit protocol);
 
-2.een overeenkomst betreffende de wederzijdse erkenning, bescherming en controle van benamingen van wijnen, gedistilleerde dranken en gearomatiseerde wijnen (bijlage II bij dit protocol).
+2.een overeenkomst tussen de Europese Gemeenschap en de Republiek Albanië betreffende de wederzijdse erkenning, bescherming en controle van benamingen van wijnen, gedistilleerde dranken en gearomatiseerde wijnen (bijlage II bij dit protocol).
 
 ### Artikel  2  
 
@@ -1231,553 +1233,42 @@ a. voor de Gemeenschap in Verordening (EEG) nr. 1601/91 van de Raad van 10 juni 
 
 b. voor Albanië in wet nr. 8443 van 21 januari 1999 inzake de wijnbouw, wijn en nevenproducten op basis van druiven.   
 
-### Protocol 4 
+### Protocol nr. 4 
 
-####Inzake de definitie van het begrip „Producten van oorsprong” en regelingen voor administratieve samenwerking voor de toepassing van deze Overeenkomst tussen de Gemeenschap en de Republiek Albanië
-
-###TITEL I 
-
-####ALGEMENE BEPALINGEN
+####betreffende de definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking
 
 ### Artikel  1  
 
-####Definities
+####Toepasselijke regels van oorsprong
 
-Voor de toepassing van dit protocol wordt verstaan onder:  
-
-a. „vervaardiging”: elke soort be- of verwerking, met inbegrip van assemblage en speciale behandelingen;  
-
-b. „materiaal”: alle ingrediënten, grondstoffen, componenten, delen en dergelijke die bij de vervaardiging van het product worden gebruikt;   
-
-c. „product”: het verkregen product, ook indien dit bestemd is om later bij de vervaardiging van een ander product te worden gebruikt;  
-
-d. „goederen”: zowel materialen als producten;  
-
-e. „douanewaarde”: de waarde zoals bepaald volgens de Overeenkomst inzake de toepassing van artikel VII van de Algemene Overeenkomst betreffende tarieven en handel van 1994 (Overeenkomst inzake de douanewaarde van de WTO);  
-
-f. „prijs af fabriek”: de prijs die voor het product af fabriek is betaald aan de fabrikant in de Gemeenschap of in Albanië in wiens bedrijf de laatste be- of verwerking is verricht, mits in die prijs de waarde van alle gebruikte materialen is inbegrepen, verminderd met alle binnenlandse belastingen die worden of kunnen worden terugbetaald wanneer het verkregen product wordt uitgevoerd;  
-
-g. „waarde van de materialen”: de douanewaarde ten tijde van de invoer van de gebruikte materialen die niet van oorsprong zijn, of, indien deze niet bekend is en niet kan worden vastgesteld, de eerste controleerbare prijs die voor de materialen in de Gemeenschap of in Albanië is betaald;  
-
-h. „waarde van de materialen van oorsprong”: de waarde van deze materialen als omschreven onder g), welke omschrijving van dienovereenkomstige toepassing is;  
-
-i. „toegevoegde waarde”: de prijs af fabriek verminderd met de douanewaarde van alle gebruikte materialen van oorsprong uit de andere in de artikelen 3 en 4 genoemde landen of, indien de douanewaarde niet bekend is of niet kan worden vastgesteld, de eerste verifieerbare prijs die in de Gemeenschap of in Albanië voor deze materialen werd betaald;  
-
-j. „hoofdstukken” en „posten”: de hoofdstukken en posten (viercijfer-codes) van de nomenclatuur die het geharmoniseerde systeem inzake de omschrijving en codering van goederen vormt, in dit protocol „geharmoniseerd systeem” of „GS” genoemd;  
-
-k. „ingedeeld”: de indeling van een product of materiaal onder een bepaalde post;  
-
-l. „zending”: producten die gelijktijdig door een exporteur naar dezelfde geadresseerde worden verzonden of die vergezeld gaan van één vervoersdocument dat de verzending van de exporteur naar de geadresseerde dekt, of bij gebreke daarvan, één factuur;  
-
-m) „gebieden”: ook de territoriale wateren.   
-
-###TITEL II 
-
-####DEFINITIE VAN HET BEGRIP „PRODUCTEN VAN OORSPRONG”
+1.  Voor de toepassing van deze overeenkomst zijn aanhangsel I en de relevante bepalingen van aanhangsel II van de Regionale Conventie betreffende de pan-Euro-mediterrane preferentiële oorsprongsregels<sup> 1)  *PbEU* L 54 van 26.2.2013, blz. 4. </sup> („de conventie”), van toepassing.   
+2.  Alle verwijzingen naar de „desbetreffende overeenkomst” in aanhangsel I en in de relevante bepalingen van aanhangsel II van de Regionale Conventie betreffende de pan-Euro-mediterrane preferentiële oorsprongsregels gelden als verwijzingen naar deze overeenkomst.  
 
 ### Artikel  2  
 
-####Algemene voorwaarden
+####Geschillenregeling
 
-1.  Voor de toepassing van de overeenkomst worden de volgende producten beschouwd van oorsprong te zijn uit de Gemeenschap: 
-
-a) geheel en al in de Gemeenschap verkregen producten in de zin van artikel 5;  
-
-b) in de Gemeenschap verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in de Gemeenschap een be- of verwerking hebben ondergaan die toereikend is in de zin van artikel 6.     
-2.  Voor de toepassing van deze overeenkomst worden de volgende producten beschouwd als van oorsprong uit Albanië: 
-
-a) geheel en al in Albanië verkregen producten in de zin van artikel 5;  
-
-b) in Albanië verkregen producten waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in Albanië een be- of verwerking hebben ondergaan die toereikend is in de zin van artikel 6.    
+1.  Indien er een geschil ontstaat in verband met de controleprocedures in artikel 32 van aanhangsel I van de conventie dat niet kan worden opgelost door de douaneautoriteit die de controle heeft aangevraagd en de douaneautoriteit die die controle moet uitvoeren, wordt het aan de Stabilisatie- en Associatieraad voorgelegd.   
+2.  In alle gevallen is de wetgeving van het land van invoer van toepassing op de regeling van geschillen tussen een importeur en de douaneautoriteiten van het land van invoer.  
 
 ### Artikel  3  
 
-####Cumulatie in de Gemeenschap
+####Wijzigingen van het protocol
 
-1.  Onverminderd artikel 2, lid 1, worden producten als van oorsprong uit de Gemeenschap beschouwd indien zij aldaar zijn verkregen door be- of verwerking van materialen van oorsprong uit Albanië, de Gemeenschap of een land of gebied dat deelneemt in het stabilisatie- en associatieproces van de Europese Unie<sup> 2) Zoals bepaald in de conclusies van de Raad Algemene Zaken in april 1997 en in de mededeling van de Commissie van mei 1999 over het stabilisatie- en associatieproces in de landen van Zuidoost-Europa. </sup> of van materialen van oorsprong uit Turkije waarop Besluit nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995<sup> 3) Besluit nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995 geldt voor producten andere dan landbouwproducten zoals omschreven in de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije en andere dan kolen- en staalproducten zoals omschreven in de Overeenkomst tussen de Europese Gemeenschap voor Kolen en Staal en de Republiek Turkije betreffende de handel in producten waarop het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal van toepassing is. </sup> van toepassing is, mits deze materialen in de Gemeenschap bewerkingen hebben ondergaan die ingrijpender zijn dan die bedoeld in artikel 7. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.   
-2.  Indien de in de Gemeenschap verrichte be- of verwerkingen niet ingrijpender zijn dan de in artikel 7 bedoelde be- of verwerkingen, wordt het verkregen product enkel als van oorsprong uit de Gemeenschap beschouwd indien de aldaar toegevoegde waarde groter is dan die van de gebruikte materialen van oorsprong uit een van de andere in lid 1 bedoelde landen en gebieden. Is dit niet het geval, dan wordt het verkregen product beschouwd als van oorsprong uit het land dat de hoogste waarde vertegenwoordigt van de bij de vervaardiging in de Gemeenschap gebruikte materialen van oorsprong.   
-3.  De producten van oorsprong uit een van de in lid 1 genoemde landen en gebieden die in de Gemeenschap geen enkele be- of verwerking ondergaan, behouden hun oorsprong wanneer zij naar een van deze landen en gebieden worden uitgevoerd.   
-4.  De cumulatie waarin dit artikel voorziet, kan slechts worden toegepast indien: 
-
-a) tussen de landen en gebieden die betrokken zijn bij het verwerven van de oorsprong en het land van bestemming een preferentiële handelsovereenkomst overeenkomstig artikel XXIV van de Algemene Overeenkomst inzake tarieven en handel (GATT) van toepassing is;  
-
-b) materialen en producten de oorsprong hebben verkregen door de toepassing van oorsprongsregels die identiek zijn met die in dit protocol; en  
-
-c) in het *Publicatieblad van de Europese Unie *(C-reeks) en in Albanië volgens de eigen procedures van dat land berichten zijn gepubliceerd waarin wordt aangegeven dat aan de eisen voor de toepassing van cumulatie is voldaan. De cumulatie waarin dit artikel voorziet, is van toepassing met ingang van de datum die is aangegeven in de kennisgeving in de C-reeks van het *Publicatieblad van de Europese Unie*.   De Gemeenschap zal Albanië door tussenkomst van de Commissie van de Europese Gemeenschappen nadere bijzonderheden verstrekken over de overeenkomsten en de daarin opgenomen oorsprongsregels die met de andere in lid 1 genoemde landen en gebieden worden toegepast. De cumulatie geldt niet voor de in bijlage V vermelde producten.  
+De Stabilisatie- en Associatieraad kan besluiten bepalingen van dit protocol te wijzigen. 
 
 ### Artikel  4  
 
-####Cumulatie in Albanië
+####Opzegging van de conventie
 
-1.  Onverminderd artikel 2, lid 2, worden producten als van oorsprong uit Albanië beschouwd indien zij aldaar zijn verkregen door be- of verwerking van materialen van oorsprong uit de Gemeenschap, Albanië of een land of gebied dat deelneemt in het stabilisatie- en associatieproces van de Europese Unie<sup> 4) Zoals bepaald in de conclusies van de Raad Algemene Zaken in april 1997 en in de mededeling van de Commissie van mei 1999 over het stabilisatie- en associatieproces in de landen van Zuidoost-Europa. </sup> of van materialen van oorsprong uit Turkije waarop Besluit nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995<sup> 5) Besluit nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995 geldt voor producten andere dan landbouwproducten zoals omschreven in de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije en andere dan kolen- en staalproducten zoals omschreven in de Overeenkomst tussen de Europese Gemeenschap voor Kolen en Staal en de Republiek Turkije betreffende de handel in producten waarop het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal van toepassing is. </sup> van toepassing is, mits deze materialen in de Gemeenschap bewerkingen hebben ondergaan die ingrijpender zijn dan die bedoeld in artikel 7. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.   
-2.  Indien de in Albanië verrichte be- of verwerkingen nit<sup> 6) [Red: hier wordt „niet” bedoeld.] </sup> ingrijpender zijn dan de in artikel 7 bedoelde be- of verwerkingen, wordt het verkregen product enkel als van oorsprong uit Albanië beschouwd indien de aldaar toegevoegde waarde groter is dan die van de gebruikte materialen van oorsprong uit een van de andere in lid 1 bedoelde landen en gebieden. Is dit niet het geval dan wordt het verkregen product beschouwd als van oorsprong uit het land waar de meeste waarde is toegevoegd aan de bij de vervaardiging in Albanië gebruikte materialen van oorsprong.   
-3.  De producten van oorsprong uit een van de in lid 1 genoemde landen en gebieden die in Albanië geen enkele be- of verwerking ondergaan, behouden hun oorsprong wanneer zij naar een van deze landen en gebieden worden uitgevoerd.   
-4.  De cumulatie waarin dit artikel voorziet, kan slechts worden toegepast indien: 
-
-a) tussen de landen en gebieden die betrokken zijn bij het verwerven van de oorsprong en het land van bestemming een preferentiële handelsovereenkomst overeenkomstig artikel XXIV van de Algemene Overeenkomst inzake tarieven en handel (GATT) van toepassing is;  
-
-b) materialen en producten de oorsprong hebben verkregen door de toepassing van oorsprongsregels die identiek zijn met die in dit protocol; en  
-
-c) in het *Publicatieblad van de Europese Unie *(C-reeks) en in Albanië volgens de eigen procedures van dat land berichten zijn gepubliceerd waarin wordt aangegeven dat aan de eisen voor de toepassing van cumulatie is voldaan.   De cumulatie waarin dit artikel voorziet, is van toepassing met ingang van de datum die is aangegeven in de kennisgeving in de C-reeks van het *Publicatieblad van de Europese Unie*. Albanië zal de Gemeenschap door tussenkomst van de Commissie van de Europese Gemeenschappen nadere gegevens verstrekken over de overeenkomsten, met inbegrip van de datums van inwerkingtreding, en de daarin opgenomen oorsprongsregels, die met de andere in lid 1 genoemde landen en gebieden worden toegepast. De cumulatie geldt niet voor de in bijlage V vermelde producten.  
+1.  Indien ofwel de Europese Unie ofwel Albanië de depositaris van de conventie schriftelijk te kennen geeft de conventie op grond van artikel 9 van de conventie, te willen opzeggen, onderhandelen de Europese Unie en Albanië onmiddellijk over oorsprongsregels voor de toepassing van deze overeenkomst.   
+2.  Tot de inwerkingtreding van deze nieuw overeengekomen oorsprongsregels blijven op deze overeenkomst de op het moment van opzegging geldende oorsprongsregels in aanhangsel I en, in voorkomend geval, de relevante bepalingen van aanhangsel II van de conventie van toepassing. Vanaf de opzegging worden de oorsprongsregels in aanhangsel I en, in voorkomend geval, de relevante bepalingen van aanhangsel II van de conventie echter zo uitgelegd dat zij uitsluitend bilaterale cumulatie tussen de Europese Unie en Albanië toestaan.  
 
 ### Artikel  5  
 
-####Geheel en al verkregen producten
+####Overgangsbepalingen – cumulatie
 
-1.  Als geheel en al in de Gemeenschap of Albanië verkregen worden beschouwd: 
-
-a) aldaar uit de bodem of zeebodem gewonnen minerale producten;  
-
-b) aldaar geoogste producten van het plantenrijk;  
-
-c) aldaar geboren en opgefokte levende dieren;  
-
-d) producten afkomstig van aldaar gehouden levende dieren;  
-
-e) voortbrengselen van de aldaar bedreven jacht en visserij;  
-
-f) producten van de zeevisserij en andere buiten de territoriale wateren van de Gemeenschap of Albanië door hun schepen uit de zee gewonnen producten;  
-
-g) producten die, uitsluitend uit de onder f) bedoelde producten, aan boord van hun fabrieksschepen zijn vervaardigd;  
-
-h) aldaar verzamelde gebruikte artikelen die slechts voor de terugwinning van grondstoffen kunnen dienen, met inbegrip van gebruikte banden die uitsluitend geschikt zijn om van een nieuw loopvak te worden voorzien of slechts als afval kunnen worden gebruikt;  
-
-i) afval en schroot afkomstig van aldaar verrichte fabrieksbewerkingen;  
-
-j) producten, gewonnen van of vanonder de zeebodem buiten de territoriale wateren, mits zij alleen het recht hebben op ontginning van deze boden of ondergrond;  
-
-k) goederen die aldaar uitsluitend uit de onder a) tot en met j) bedoelde producten zijn vervaardigd.     
-2.  De termen „hun schepen” en „hun fabrieksschepen” in lid 1, onder f) en g), zijn slechts van toepassing op schepen en fabrieksschepen: 
-
-a) die in een lidstaat van de Gemeenschap of in Albanië zijn ingeschreven of geregistreerd;  
-
-b) die de vlag van een lidstaat van de Gemeenschap of van Albanië voeren.  
-
-c) die voor ten minste 50% toebehoren aan onderdanen van lidstaten van de Gemeenschap of onderdanen van Albanië of aan een vennootschap die haar hoofdkantoor in een van deze staten heeft en waarvan de bedrijfsvoerder(s), de voorzitter van de raad van bestuur of van toezicht en de meerderheid van de leden van deze raden onderdaan zijn van een lidstaat van de Gemeenschap of onderdaan van Albanië en waarvan bovendien, in het geval van personenvennootschappen of vennootschappen met beperkte aansprakelijkheid, ten minste de helft van het kapitaal toebehoort aan deze staten of aan openbare lichamen of onderdanen van deze staten;  
-
-d) waarvan de kapitein en de officieren onderdaan zijn van een lidstaat van de Gemeenschap of onderdaan van Albanië, en  
-
-e) waarvan de bemanning voor ten minste 75% bestaat uit onderdanen van lidstaten of van Albanië.    
-
-### Artikel  6  
-
-####Toereikende be- of verwerking
-
-1.  Voor de toepassing van artikel 2 worden producten die niet geheel en al verkregen zijn, geacht een toereikende bewerking of verwerking te hebben ondergaan indien aan de voorwaarden van de lijst in bijlage II is voldaan. Die voorwaarden geven voor alle onder de overeenkomst vallende producten aan welke be- of verwerkingen niet van oorsprong zijnde materialen moeten ondergaan om het karakter van product van oorsprong te verkrijgen, en zijn slechts op die materialen van toepassing. Dit betekent dat indien een product dat de oorsprong heeft verkregen doordat het aan de voorwaarden in die lijst voor dat product heeft voldaan, als materiaal gebruikt wordt bij de vervaardiging van een ander product, de voorwaarden die van toepassing zijn op het product waarin het wordt verwerkt daarvoor niet gelden. Er wordt dan geen rekening gehouden met niet van oorsprong zijnde materialen die bij de vervaardiging ervan zijn gebruikt.   
-2.  In afwijking van lid 1 kunnen niet van oorsprong zijnde materialen die, volgens de voorwaarden in de lijst, bij de vervaardiging van een product niet mogen worden gebruikt, toch worden gebruikt, indien: 
-
-a) wanneer de totale waarde ervan niet hoger is dan 10 procent van de prijs af fabriek van het product;  
-
-b) de in de lijst vermelde maximumwaarden voor niet van oorsprong zijnde materialen door de toepassing van dit lid niet worden overschreden.   Dit lid is niet van toepassing op de producten die onder de hoofdstukken 50 tot en met 63 van het geharmoniseerde systeem zijn ingedeeld.   
-3. De leden 1 en 2 zijn van toepassing onder voorbehoud van artikel 7.
-
-### Artikel  7  
-
-####Ontoereikende be- of verwerking
-
-1.  Onverminderd lid 2 worden de volgende be- of verwerkingen beschouwd als ontoereikend om de oorsprong te verlenen, ongeacht of aan de voorwaarden van artikel 6 is voldaan: 
-
-a) behandelingen om de producten tijdens vervoer en opslag in goede staat te bewaren;  
-
-b) het splitsen en samenvoegen van colli;  
-
-c) het wassen, schoonmaken; het stofvrij maken, verwijderen van roest, olie, verf of dergelijke;  
-
-d) het strijken of persen van textiel;  
-
-e) het schilderen of polijsten;  
-
-f) het ontvliezen of doppen, het geheel of gedeeltelijk bleken, het polijsten of vlampolijsten van granen of rijstdoppen;  
-
-g) het kleuren van suiker of het vormen van suikerklonten;  
-
-h) het pellen, ontpitten of schillen van noten, vruchten of groenten;  
-
-i) het aanscherpen, vermalen of versnijden;  
-
-j) het zeven, sorteren, classificeren, assorteren; (daaronder begrepen het samenstellen van sets van artikelen);  
-
-k) het bottelen, verpakken in blikken, flesjes, zakken, dozen of andere omhulsels, het bevestigen op kaarten of platen, en alle andere eenvoudige verrichtingen in verband met de opmaak;  
-
-l) het aanbrengen of opdrukken op de producten zelf of hun verpakking van merken, etiketten, beeldmerken of andere soortgelijke merktekens;  
-
-m) het mengen van producten, ook van verschillende soorten; het mengen van suiker met andere stoffen;  
-
-n) het samenvoegen van delen van artikelen tot een volledig artikel dan wel het uit elkaar nemen van artikelen in onderdelen;  
-
-o) twee of meer van de onder a) tot en met n) vermelde behandelingen tezamen;  
-
-p) het slachten van dieren.     
-2.  Om te bepalen of de be- of verwerkingen die een bepaald product heeft ondergaan ontoereikend zijn in de zin van lid 1 worden alle be- of verwerkingen die dit product in de Gemeenschap of in Albanië heeft ondergaan tezamen genomen.  
-
-### Artikel  8  
-
-####Determinerende eenheid
-
-1.  De determinerende eenheid voor de toepassing van de bepalingen van dit protocol is het product dat volgens de nomenclatuur van het geharmoniseerde systeem als de basiseenheid wordt beschouwd. Hieruit volgt: 
-
-a) wanneer een product, bestaande uit een groep of verzameling van artikelen, onder één enkele post van het geharmoniseerde systeem wordt ingedeeld, het geheel de in aanmerking te nemen eenheid vormt;  
-
-b) wanneer een zending bestaat uit een aantal identieke producten die onder dezelfde post van het geharmoniseerde systeem worden ingedeeld, moet elk product voor de toepassing van de bepalingen van dit protocol afzonderlijk worden genomen.     
-2.  Wanneer volgens algemene regel 5 voor de interpretatie van het geharmoniseerde systeem de verpakking meetelt voor het vaststellen van de indeling, telt deze ook mee voor het vaststellen van de oorsprong.  
-
-### Artikel  9  
-
-####Accessoires, vervangingsonderdelen en gereedschappen
-
-Accessoires, vervangingsonderdelen en gereedschappen die samen met materieel, machines, apparaten of voertuigen worden geleverd en deel uitmaken van de normale uitrusting daarvan en in de prijs daarvan zijn inbegrepen of niet afzonderlijk in rekening worden gebracht, worden geacht één geheel te vormen met het materieel en de machines, apparaten of voertuigen in kwestie.  
-
-### Artikel  10  
-
-####Stellen en assortimenten
-
-Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie van het geharmoniseerde systeem, worden als van oorsprong beschouwd indien alle samenstellende delen van oorsprong zijn. Een stel of assortiment bestaande uit producten van oorsprong en producten die niet van oorsprong zijn, wordt als van oorsprong beschouwd indien de waarde van de producten die niet van oorsprong zijn niet meer dan 15 procent van de prijs af fabriek van het stel of assortiment bedraagt.  
-
-### Artikel  11  
-
-####Neutrale elementen
-
-Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsprong na te gaan van bij de vervaardiging gebruikte:  
-
-a) energie en brandstof;  
-
-b) fabrieksuitrusting;  
-
-c) machines en werktuigen;  
-
-d) goederen die in de uiteindelijke samenstelling van het product niet voorkomen en ook niet bedoeld waren daarin voor te komen.   
-
-###TITEL III 
-
-####TERRITORIALE VOORWAARDEN
-
-### Artikel  12  
-
-####Territorialiteitsbeginsel
-
-1.  Aan de in titel II genoemde voorwaarden voor het verkrijgen van de oorsprong moet zonder onderbreking in de Gemeenschap of in Albanië voldaan, behoudens de artikelen 3 en 4, en lid 3 van dit artikel.   
-2.  Behoudens de artikelen 3 en 4 worden producten van oorsprong die uit de Gemeenschap of Albanië een ander land worden uitgevoerd en vervolgens opnieuw worden ingevoerd, als niet van oorsprong beschouwd, tenzij ten genoegen van de douaneautoriteiten wordt aangetoond dat: 
-
-a) de terugkerende goederen dezelfde zijn als de eerder uitgevoerde goederen; en  
-
-b) de goederen tijdens de periode dat zij waren uitgevoerd geen andere be- of verwerkingen hebben ondergaan dan die welke noodzakelijk waren om ze in goede staat te bewaren.     
-3.  Een buiten de Gemeenschap of Albanië verrichte be- of verwerking van uit de Gemeenschap of Albanië uitgevoerde en later wederingevoerde materialen ontneemt niet het karakter van product van oorsprong overeenkomstig het bepaalde in titel II indien: 
-
-a) die materialen geheel en al in de Gemeenschap of Albanië zijn verkregen dan wel, voorafgaand aan de uitvoer, aldaar een meer ingrijpende be- of verwerking dan de in artikel 7 vermelde ontoereikende be- of verwerkingen hebben ondergaan, en  
-
-b) ten genoegen van de douaneautoriteiten kan worden aangetoond dat: 
-
-i) de wederingevoerde goederen het resultaat zijn van de be- of verwerking van de uitgevoerde materialen, en  
-
-ii) de totale buiten de Gemeenschap of Albanië toegevoegde waarde niet meer dan 10% bedraagt van de prijs af fabriek van het als product van oorsprong aangemerkte eindproduct.       
-4.  Voor de toepassing van lid 3 is het bepaalde in titel II betreffende het verlenen van de oorsprong niet van toepassing op buiten de Gemeenschap of Albanië verrichte be- of verwerkingen. Wanneer evenwel, in de lijst van bijlage II, voor de vaststelling van de oorsprong van het eindproduct een regel is opgenomen die een maximumwaarde geeft voor alle gebruikte, niet van oorsprong zijnde materialen, mag de totale waarde van de niet van oorsprong zijnde materialen die in het gebied van de betrokken partij worden verwerkt en de totale buiten de Gemeenschap of Albanië overeenkomstig dit artikel toegevoegde waarde het vermelde percentage niet overschrijden.   
-5.  Voor de toepassing van het bepaalde in de leden 3 en 4 wordt onder „totale toegevoegde waarde” verstaan alle buiten de Gemeenschap of Albanië gemaakte kosten, met inbegrip van de waarde van de aldaar toegevoegde materialen.   
-6.  De leden 3 en 4 zijn niet van toepassing op producten die niet aan de voorwaarden van de lijst in bijlage II voldoen of die slechts kunnen worden aangemerkt als toereikend te zijn be- of verwerkt door toepassing van de algemene tolerantieregel van artikel 6, lid 2.   
-7.  Het bepaalde in de leden 3 en 4 is niet van toepassing op producten van de hoofdstukken 50 tot en met 63 van het geharmoniseerde systeem.   
-8.  De buiten de Gemeenschap of Albanië verrichte be- of verwerkingen als bedoeld in dit artikel vinden plaats in het kader van de regeling passieve veredeling of een soortgelijke regeling.  
-
-### Artikel  13  
-
-####Rechtstreeks vervoer
-
-1.  De bij deze overeenkomst vastgestelde preferentiële regeling is uitsluitend van toepassing op producten die aan de voorwaarden van dit protocol voldoen en die rechtstreeks tussen de Gemeenschap en Albanië over het grondgebied van een in de artikelen 3 en 4 genoemd ander land of gebied zijn vervoerd. Goederen die één enkele zending vormen, kunnen via een ander grondgebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dit grondgebied, voor zover zij in het land van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren. Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat van de Gemeenschap of van Albanië worden vervoerd.   
-2.  Het bewijs dat aan de in lid 1 bedoelde voorwaarden is voldaan, wordt geleverd door overlegging van de volgende stukken aan de douane van het land van invoer: 
-
-a) een enkel vervoerdocument dat het vervoer dekt van het land van uitvoer door het land van doorvoer, of  
-
-b) een door de douaneautoriteiten van het land van doorvoer afgegeven certificaat: 
-
-i) met een nauwkeurige omschrijving van de goederen;  
-
-ii) met de data waarop de producten gelost en opnieuw geladen zijn, in voorkomend geval onder vermelding van de gebruikte schepen of andere vervoermiddelen, en  
-
-iii) met een verklaring over de voorwaarden waarop de goederen in het land van doorvoer verbleven, of    
-
-c) bij ontstentenis hiervan, alle andere bewijsstukken.    
-
-### Artikel  14  
-
-####Tentoonstellingen
-
-1.  De overeenkomst is van toepassing op producten van oorsprong die naar een tentoonstelling in een ander dan de in de artikelen 3 en 4 genoemde landen en gebieden zijn verzonden en die na de tentoonstelling zijn verkocht en in de Gemeenschap of in Albanië worden ingevoerd, mits ten genoegen van de douaneautoriteiten wordt aangetoond dat: 
-
-a) een exporteur deze producten vanuit de Gemeenschap of Albanië naar het land van de tentoonstelling heeft verzonden en ze daar heeft tentoongesteld;  
-
-b) deze exporteur de producten heeft verkocht of op een andere wijze heeft afgestaan aan een geadresseerde in de Gemeenschap of Albanië;  
-
-c) de producten tijdens of onmiddellijk na de tentoonstelling in dezelfde staat als waarin zij naar de tentoonstelling zijn gegaan zijn verzonden, en  
-
-d) de goederen vanaf het moment dat zij naar de tentoonstelling werden verzonden, niet voor andere doeleinden zijn gebruikt dan om op die tentoonstelling te worden vertoond.     
-2.  Een bewijs van de oorsprong wordt overeenkomstig de bepalingen van titel V afgegeven of opgesteld en op de normale wijze bij de douane van het land van invoer ingediend. Op dit bewijs zijn de naam en het adres van de tentoonstelling vermeld. Indien nodig kunnen aanvullende bewijsstukken worden verlangd ten aanzien van de aard van de producten en de voorwaarden waarop zij waren tentoongesteld.   
-3.  Lid 1 is van toepassing op alle tentoonstellingen, beurzen of soortgelijke openbare evenementen met een commercieel, industrieel, agrarisch of ambachtelijk karakter die niet voor particuliere doeleinden in winkels of bedrijfsruimten met het oog op de verkoop van buitenlandse producten worden gehouden, en gedurende welke de producten onder douanetoezicht zijn gebleven.  
-
-###TITEL IV 
-
-####TERUGGAVE EN VRIJSTELLING VAN RECHTEN
-
-### Artikel  15  
-
-####Verbod op de teruggave of vrijstelling van douanerechten
-
-1.  Niet van oorsprong zijnde materialen die gebruikt zijn bij de vervaardiging van producten van oorsprong uit de Gemeenschap, Albanië of een van de andere in de artikelen 3 en 4 genoemde landen of gebieden waarvoor overeenkomstig titel V een bewijs van oorsprong is afgegeven of opgesteld, komen in de Gemeenschap of in Albanië niet in aanmerking voor teruggave of vrijstelling van douanerechten in welke vorm dan ook.   
-2.  Het verbod in lid 1 is van toepassing op elke regeling voor terugbetaling of algehele of gedeeltelijke vrijstelling van douanerechten of heffingen van gelijke werking die in de Gemeenschap of in Albanië van toepassing is op materialen die bij de vervaardiging zijn gebruikt, indien een dergelijke terugbetaling of vrijstelling uitdrukkelijk of feitelijk wordt toegekend indien de producten die uit genoemde materialen zijn verkregen worden uitgevoerd, doch niet van toepassing is indien deze producten voor binnenlands gebruik zijn bestemd.   
-3.  De exporteur van producten die door een bewijs van oorsprong zijn gedekt, dient op verzoek van de douaneautoriteiten steeds bereid te zijn alle stukken over te leggen waaruit blijkt dat geen teruggave of vrijstelling van rechten is verkregen ten aanzien van de bij de vervaardiging van de betrokken producten gebruikte materialen die niet van oorsprong zijn en dat alle douanerechten en heffingen van gelijke werking die op deze materialen van toepassing zijn, inderdaad zijn betaald.   
-4.  De leden 1, 2 en 3 zijn ook van toepassing op de verpakking in de zin van artikel 8, lid 2, op accessoires, vervangingsonderdelen en gereedschappen in de zin van artikel 9 en op artikelen die deel uitmaken van een stel of assortiment in de zin van artikel 10, wanneer dergelijke artikelen niet van oorsprong zijn.   
-5.  De leden 1 tot en met 4 zijn uitsluitend van toepassing op materialen van de soort waarop de overeenkomst van toepassing is. Zij doen geen afbreuk aan het systeem van restituties bij de uitvoer van landbouwproducten overeenkomstig de bepalingen van de overeenkomst.  
-
-###TITEL V 
-
-####BEWIJS VAN OORSPRONG
-
-### Artikel  16  
-
-####Algemene voorwaarden
-
-1.  Deze overeenkomst is van toepassing op producten van oorsprong uit de Gemeenschap die in Albanië worden ingevoerd en op producten van oorsprong uit Albanië die in de Gemeenschap worden ingevoerd, op vertoon van: 
-
-a) een certificaat inzake goederenverkeer EUR.1, waarvan het model in bijlage III is opgenomen, of  
-
-b) in de in artikel 22, lid 1, bedoelde gevallen, een verklaring van de exporteur (hierna „factuurverklaring” genoemd) op een factuur, pakbon of een ander handelsdocument, waarin de producten duidelijk genoeg zijn omschreven om geïdentificeerd te kunnen worden; de tekst van deze factuurverklaring is opgenomen in bijlage IV.     
-2.  In afwijking van lid 1 vallen producten van oorsprong in de zin van dit protocol in de in artikel 27 bedoelde gevallen onder de toepassing van de overeenkomst zonder dat een van de hierboven genoemde documenten behoeft te worden overgelegd.  
-
-### Artikel  17  
-
-####Procedure voor de afgifte van een certificaat inzake goederenverkeer EUR.1
-
-1.  Een certificaat inzake goederenverkeer EUR.1 wordt afgegeven door de douane van het land van uitvoer op schriftelijke aanvraag van de exporteur of, onder diens verantwoordelijkheid, van zijn gemachtigde vertegenwoordiger.   
-2.  Te dien einde vult de exporteur of diens gemachtigde vertegenwoordiger zowel het certificaat inzake goederenverkeer EUR.1 als het aanvraagformulier in. Modellen van beide formulieren zijn in bijlage III opgenomen. Deze formulieren worden ingevuld in een van de talen waarin deze overeenkomst is opgesteld overeenkomstig het nationale recht van het land van uitvoer. Indien de formulieren met de hand worden ingevuld, dient dit met inkt en in blokletters te gebeuren. De producten moeten worden omschreven in het daartoe bestemde vak en er mogen geen regels worden opengelaten. Indien dit vak niet geheel is ingevuld, wordt onder de laatste regel een horizontale lijn getrokken en wordt het niet-ingevulde gedeelte doorgekruist.   
-3.  De exporteur die om de afgifte van een certificaat inzake goederenverkeer EUR.1 verzoekt, dient op verzoek van de douane van het land van uitvoer waar dit certificaat wordt afgegeven, steeds de nodige documenten over te leggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan alle andere voorwaarden van dit protocol is voldaan.   
-4.  Een certificaat inzake goederenverkeer EUR.1 wordt afgegeven door de douaneautoriteiten van een lidstaat van de Gemeenschap of van Albanië en de producten kunnen worden beschouwd als producten van oorsprong uit de Gemeenschap, Albanië en van de andere in de artikelen 3 en 4 genoemde landen of gebieden, en aan de andere voorwaarden van dit protocol is voldaan.   
-5.  De met de afgifte van certificaten inzake goederenverkeer EUR.1 belaste douaneautoriteiten nemen alle nodige maatregelen om te controleren of de producten daadwerkelijk van oorsprong zijn, en gaan na of aan alle andere voorwaarden van dit protocol is voldaan. Met het oog hierop zijn zij gerechtigd bewijsstukken op te vragen, de administratie van de exporteur in te zien en alle andere controles te verrichten die zij dienstig achten. Zij zien er ook op toe dat de in lid 2 bedoelde formulieren correct zijn ingevuld. In het bijzonder gaan zij na of de voor de omschrijving van de goederen bestemde ruimte op zodanige wijze is ingevuld dat frauduleuze toevoegingen onmogelijk zijn.   
-6.  De datum van afgifte van het certificaat inzake goederenverkeer EUR.1 wordt vermeld in vak 11 van het certificaat.   
-7.  Een certificaat inzake goederenverkeer EUR.1 wordt door de douane afgegeven en ter beschikking van de exporteur gesteld zodra de goederen werkelijk worden uitgevoerd of wanneer het zeker is dat zij zullen worden uitgevoerd.  
-
-### Artikel  18  
-
-####Afgifte achteraf van het certificaat inzake goederenverkeer EUR.1
-
-1.  In afwijking van artikel 17, lid 7, kan een certificaat inzake goederenverkeer EUR.1 bij wijze van uitzondering na de uitvoer van de goederen waarop het betrekking heeft worden afgegeven, indien 
-
-a) dit door een vergissing, onopzettelijk verzuim of bijzondere omstandigheden niet bij de uitvoer is gebeurd, of  
-
-b) ten genoegen van de douane is aangetoond dat het certificaat inzake goederenverkeer EUR.1 wel is afgegeven, maar bij invoer om technische redenen niet is aanvaard.     
-2.  Met het oog op de toepassing van lid 1 dient de exporteur in zijn aanvraag de plaats en de datum van uitvoer te vermelden van de producten waarop het certificaat inzake goederenverkeer EUR.1 betrekking heeft, onder opgave van de redenen van zijn aanvraag.   
-3.  Vóór de douane tot afgifte achteraf van een certificaat inzake goederenverkeer EUR.1 overgaat, dient zij te hebben vastgesteld dat de gegevens in de aanvraag van de exporteur overeenstemmen met die in het desbetreffende dossier.   
-4.  Op een achteraf afgegeven certificaat inzake goederenverkeer EUR.1 wordt in de Engelse taal de volgende aantekening aangebracht: „ISSUED RETROSPECTIVELY”.   
-5.  De in lid 4 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen” van het certificaat inzake goederenverkeer EUR.1.  
-
-### Artikel  19  
-
-####Afgifte van een duplicaat van een EUR.1-certificaat
-
-1.  In geval van diefstal, verlies of vernietiging van een certificaat inzake goederenverkeer EUR.1 kan de exporteur de douaneautoriteiten die dit certificaat hadden afgegeven, verzoeken een duplicaat op te maken aan de hand van de uitvoerdocumenten die in hun bezit zijn.   
-2.  Op het aldus afgegeven duplicaat wordt in de Engelse taal de volgende aantekening aangebracht: „DUPLICATE”.   
-3.  De in lid 2 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen” van het duplicaat van het certificaat inzake goederenverkeer EUR.1.   
-4.  Het duplicaat, dat dezelfde datum van afgifte draagt als het oorspronkelijke certificaat inzake goederenverkeer EUR.1, geldt vanaf die datum.  
-
-### Artikel  20  
-
-####Afgifte van een certificaat inzake goederenverkeer EUR.1 aan de hand van een eerder opgesteld of afgegeven bewijs van oorsprong
-
-Voor producten van oorsprong die in de Gemeenschap of in Albanië onder toezicht van een douanekantoor zijn geplaatst, kan het oorspronkelijke bewijs van oorsprong door een of meer EUR.1-certificaten worden vervangen bij verzending van deze producten of een gedeelte daarvan naar een andere plaats in de Gemeenschap of in Albanië. Dit certificaat wordt of deze certificaten worden afgegeven door het douanekantoor dat op de producten toezicht houdt.  
-
-### Artikel  21  
-
-####Gescheiden boekhouding
-
-1.  Wanneer het met aanzienlijke kosten of moeilijkheden gepaard gaat om afzonderlijke voorraden aan te houden van identieke en onderling verwisselbare materialen die van oorsprong en die niet van oorsprong zijn, kunnen de douaneautoriteiten, op schriftelijk verzoek van de betrokkene, toestaan dat voor het beheer van deze voorraden de methode van de gescheiden boekhouding wordt gebruikt.   
-2.  Deze gescheiden boekhouding moet kunnen garanderen dat voor een bepaalde referentieperiode eenzelfde aantal producten „van oorsprong” wordt verkregen als verkregen zou zijn indien de voorraden fysiek waren gescheiden.   
-3.  De douaneautoriteiten kunnen vergunning verlenen voor het gebruik van deze methode op de door hen wenselijk geachte voorwaarden.   
-4.  Deze methode wordt geregistreerd en toegepast op basis van de algemene boekhoudbeginselen die van toepassing zijn in het land waar het product is vervaardigd.   
-5.  Het bedrijf dat deze vergunning heeft verkregen kan bewijzen van de oorsprong afgeven of aanvragen, al naar gelang van het geval, voor de hoeveelheid producten die als van oorsprong kunnen worden beschouwd. De vergunninghouder verstrekt op verzoek van de douaneautoriteiten een verklaring over de wijze waarop de hoeveelheden zijn beheerd.   
-6.  De douaneautoriteiten houden toezicht op het gebruik van de vergunning en kunnen deze steeds intrekken wanneer de vergunninghouder deze niet correct gebruikt of niet aan een van de andere in dit protocol omschreven voorwaarden voldoet.  
-
-### Artikel  22  
-
-####Het opstellen van een factuurverklaring
-
-1.  De in artikel 16, lid 1, onder b), genoemde factuurverklaring kan worden opgesteld door: 
-
-a) toegelaten exporteurs in de zin van artikel 23: of  
-
-b) een willekeurige exporteur, voor zendingen bestaande uit een of meer colli met producten van oorsprong waarvan de totale waarde niet meer dan 6.000 EUR bedraagt.     
-2.  Een factuurverklaring kan worden opgesteld indien de producten kunnen worden beschouwd als van oorsprong uit de Gemeenschap, uit Albanië of uit een van de in de artikelen 3 en 4 genoemde landen of gebieden, en tevens aan de andere voorwaarden van dit protocol voldoen.   
-3.  De exporteur die de factuurverklaring opstelt, moet op verzoek van de douane van het land van uitvoer steeds de nodige documenten kunnen overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan de andere voorwaarden van dit protocol is voldaan.   
-4.  Deze factuurverklaring, waarvan de tekst in bijlage IV is opgenomen, wordt door de exporteur op de factuur, de pakbon of een ander handelsdocument getypt, gestempeld of gedrukt in een van de in die bijlage opgenomen talenversies, overeenkomstig de bepalingen van het nationale recht van het land van uitvoer. De factuurverklaring kan ook met de hand, met inkt en in blokletters, worden opgesteld.   
-5.  De factuurverklaring wordt door de exporteur eigenhandig ondertekend. Een toegelaten exporteur in de zin van artikel 23 behoeft deze verklaring echter niet te ondertekenen, mits hij de douane een schriftelijke verklaring doet toekomen waarin hij de volle verantwoordelijkheid op zich neemt voor alle factuurverklaringen waaruit zijn identiteit blijkt, alsof hij deze eigenhandig had ondertekend.   
-6.  Een factuurverklaring kan door de exporteur worden opgesteld bij de uitvoer van de producten waarop zij betrekking heeft of later, maar moet uiterlijk twee jaar na de invoer van de producten waarop zij betrekking heeft in het land van invoer worden aangeboden.  
-
-### Artikel  23  
-
-####Toegelaten exporteurs
-
-1.  De douane van het land van uitvoer kan exporteurs, hierna „toegelaten exporteurs” genoemd, die veelvuldig producten verzenden waarop deze overeenkomst van toepassing is, vergunning verlenen factuurverklaringen op te stellen, ongeacht de waarde van de betrokken producten. Om voor een dergelijke vergunning in aanmerking te komen, moet de exporteur naar het oordeel van de douane de nodige waarborgen bieden met betrekking tot de controle op de oorsprong van de producten en de naleving van alle andere voorwaarden van dit protocol.   
-2.  De douaneautoriteiten kunnen het verlenen van de status van toegelaten exporteur afhankelijk stellen van door hen noodzakelijk geachte voorwaarden.   
-3.  De douane kent de toegelaten exporteur een nummer toe, dat op de factuurverklaringen moet worden vermeld.   
-4.  De douane houdt toezicht op het gebruik van de vergunning door de toegelaten exporteur.   
-5.  De douaneautoriteiten kunnen de vergunning te allen tijde intrekken. Zij zijn verplicht dit te doen wanneer de toegelaten exporteur niet meer de in lid 1 bedoelde garanties biedt, niet meer aan de in lid 2 bedoelde voorwaarden voldoet, of de vergunning oneigenlijk gebruikt.  
-
-### Artikel  24  
-
-####Geldigheid van bewijzen van oorsprong
-
-1.  Een bewijs van oorsprong is vier maanden geldig vanaf de datum van afgifte in het land van uitvoer. Het moet binnen deze periode worden ingediend bij de douane van het land van invoer.   
-2.  Bewijzen van oorsprong die na het verstrijken van de in lid 1 genoemde termijn bij de douane van het land van invoer worden ingediend, kunnen met het oog op de toepassing van de preferentiële behandeling worden aanvaard wanneer de verlate indiening het gevolg is van overmacht of buitengewone omstandigheden.   
-3.  In andere gevallen van verlate indiening kan de douane van het land van invoer de bewijzen van oorsprong aanvaarden indien de producten vóór het verstrijken van genoemde termijn bij haar zijn aangebracht.  
-
-### Artikel  25  
-
-####Overlegging van bewijzen van oorsprong
-
-Bewijzen van oorsprong worden bij de douane van het land van invoer ingediend overeenkomstig de aldaar geldende procedures. Deze autoriteiten kunnen om een vertaling van dit bewijs vragen. Zij kunnen voorts eisen dat de aangifte ten invoer vergezeld gaat van een verklaring van de importeur dat de producten aan de voorwaarden voor de toepassing van de overeenkomst voldoen. 
-
-### Artikel  26  
-
-####Invoer in deelzendingen
-
-Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het land van invoer vastgestelde voorwaarden, gedemonteerde of niet-gemonteerde producten in de zin van algemene regel 2 a) voor de interpretatie van het geharmoniseerde systeem, vallende onder de afdelingen XVI en XVII of de posten 7308 en 9406 van het geharmoniseerd systeem, in deelzendingen worden ingevoerd, wordt één enkel bewijs van oorsprong bij de douaneautoriteiten ingediend bij de invoer van de eerste deelzending. 
-
-### Artikel  27  
-
-####Vrijstelling van bewijs van oorsprong
-
-1.  Goederen die in kleine zendingen door particulieren aan particulieren worden verzonden of die deel uitmaken van de persoonlijke bagage van reizigers worden als producten van oorsprong toegelaten zonder dat een bewijs van oorsprong behoeft te worden overgelegd, voor zover aan zulke goederen ieder handelskarakter vreemd is en verklaard wordt dat zij aan de voorwaarden voor de toepassing van dit protocol voldoen en er over de juistheid van deze verklaring geen twijfel bestaat. Voor postzendingen kan deze verklaring op het douaneaangifteformulier CN22/CN23 of op een daaraan gehecht blad worden gesteld.   
-2.  Als invoer waaraan ieder handelskarakter vreemd is, wordt beschouwd de invoer van incidentele aard van goederen die uitsluitend bestemd zijn voor persoonlijk gebruik door de geadresseerde, de reiziger of de leden van hun gezin, mits noch de aard, noch de hoeveelheid van de goederen op commerciële doeleinden wijzen.   
-3.  Voorts mag de totale waarde van deze producten niet meer bedragen dan 500 EUR voor kleine zendingen of 1 200 EUR voor producten die deel uitmaken van de persoonlijke bagage van reizigers.  
-
-### Artikel  28  
-
-####Bewijsstukken
-
-De in artikel 17, lid 3, en artikel 22, lid 3, bedoelde documenten aan de hand waarvan wordt aangetoond dat producten die door een certificaat inzake goederenverkeer EUR.1 of een factuurverklaring worden gedekt, producten van oorsprong zijn uit de Gemeenschap, Albanië of een van de andere in de artikelen 3 en 4 genoemde landen of gebieden en aan de andere voorwaarden van dit protocol voldoen, kunnen onder meer de volgende zijn: 
-
-a) een rechtstreeks bewijs, bijvoorbeeld aan de hand van de boekhouding of de interne administratie van de exporteur of leverancier, van de door deze uitgevoerde be- of verwerkingen om de producten te verkrijgen;  
-
-b) in de Gemeenschap of in Albanië afgegeven of opgestelde en volgens het nationale recht gebruikte documenten waaruit de oorsprong van de gebruikte materialen blijkt;  
-
-c) in de Gemeenschap of in Albanië afgegeven of opgestelde, en volgens het nationale recht gebruikte documenten waaruit de be- of verwerking in de Gemeenschap of in Albanië blijkt;  
-
-d) certificaten inzake goederenverkeer EUR.1 of factuurverklaringen waaruit de oorsprong van de gebruikte materialen blijkt, die overeenkomstig dit protocol in de Gemeenschap of in Albanië zijn afgegeven of opgesteld, of die in een van de in de artikelen 3 en 4 genoemde landen of gebieden zijn opgesteld overeenkomstig oorsprongsregels die gelijk zijn aan de oorsprongsregels van dit protocol;  
-
-e) passende bewijsstukken inzake be- of verwerking buiten de Gemeenschap of Albanië overeenkomstig artikel 12, waaruit blijkt dat aan de eisen van dat artikel is voldaan.   
-
-### Artikel  29  
-
-####Bewaring van de bewijzen van oorsprong en de andere bewijsstukken
-
-1.  Exporteurs die om de afgifte van een certificaat inzake goederenverkeer EUR.1 verzoeken, dienen de in artikel 17, lid 3, bedoelde documenten ten minste drie jaar te bewaren.   
-2.  Exporteurs die een factuurverklaring opstellen, bewaren een kopie van deze factuurverklaring en van de in artikel 22, lid 3, bedoelde documenten gedurende een periode van ten minste drie jaar.   
-3.  De douane van het land van uitvoer die een certificaat inzake goederenverkeer EUR.1 afgeeft, bewaart het in artikel 17, lid 2, bedoelde aanvraagformulier ten minste drie jaar.   
-4.  De douane van het land van invoer bewaart de certificaten inzake goederenverkeer EUR. 1 en factuurverklaringen die bij haar werden ingediend gedurende ten minste drie jaar.  
-
-### Artikel  30  
-
-####Verschillen en vormfouten
-
-1.  Geringe verschillen tussen de gegevens op het bewijs van oorsprong en de gegevens op de documenten die voor het vervullen van de invoerformaliteiten bij het douanekantoor worden ingediend, maken het certificaat inzake goederenverkeer EUR.1 of de factuurverklaring niet automatisch ongeldig, indien blijkt dat het document wel degelijk met de aangebrachte goederen overeenstemt.   
-2.  Kennelijke vormfouten, zoals typefouten, op het bewijs van oorsprong leiden niet tot weigering van dit document indien deze fouten niet van dien aard zijn dat zij twijfel doen rijzen over de juistheid van de daarin vermelde gegevens.  
-
-### Artikel  31  
-
-####Bedragen in euro
-
-1.  Voor de toepassing van artikel 22, lid 1, onder b), en artikel 27, lid 3, wordt, wanneer de producten gefactureerd zijn in een andere valuta dan de euro, de tegenwaarde van de in euro uitgedrukte bedragen in de nationale valuta van de lidstaten van de Gemeenschap, van Albanië of van een van de andere landen of gebieden bedoeld in de artikelen 3 en 4, jaarlijks door elk van de betrokken landen vastgesteld.   
-2.  Artikel 22, lid 1, onder b), en artikel 27, lid 3, zijn van toepassing op zendingen op basis van de valuta waarin de factuur is opgesteld overeenkomstig het bedrag dat door het betrokken land is vastgesteld.   
-3.  De in een bepaalde nationale valuta te gebruiken bedragen zijn de tegenwaarde in die valuta van de in euro uitgedrukte bedragen op de eerste werkdag van oktober. De tegenwaarde wordt de Commissie van de Europese Gemeenschappen voor 15 oktober meegedeeld en is van toepassing vanaf 1 januari van het daaropvolgende jaar. De Commissie van de Europese Gemeenschappen stelt alle betrokken landen in kennis van de desbetreffende tegenwaarden.   
-4.  Een land mag het bedrag dat het resultaat is van de omrekening in zijn nationale valuta van een in euro uitgedrukt bedrag naar boven of beneden afronden. Het afgeronde bedrag mag niet meer dan 5 procent afwijken van het door omrekening verkregen bedrag. Een land kan de tegenwaarde in zijn nationale valuta van een in euro uitgedrukt bedrag ongewijzigd handhaven, indien bij de omrekening van dit bedrag, ten tijde van de in lid 3 bedoelde jaarlijkse aanpassing, vóór afronding, een stijging van minder 15 procent van die tegenwaarde wordt verkregen. De tegenwaarde in nationale valuta kan ongewijzigd blijven, indien de omrekening tot een daling van de tegenwaarde leid.   
-5.  De in euro uitgedrukte bedragen worden door het Stabilisatie- en associatiecomité op verzoek van de Gemeenschap of Albanië herzien. Bij deze herziening onderzoek het comité of het wenselijk is de betreffende limieten in reële termen te handhaven. Het kan te dien einde besluiten de in euro uitgedrukte bedragen te wijzigen.  
-
-###TITEL VI 
-
-####ADMINISTRATIEVE SAMENWERKING
-
-### Artikel  32  
-
-####Wederzijdse bijstand
-
-1.  De douaneautoriteiten van de lidstaten van de Gemeenschap en van Albanië doen elkaar via de Commissie afdrukken toekomen van de stempels die in hun douanekantoren worden gebruikt bij de afgifte van EUR.1-certificaten, alsmede de adressen van de douanediensten die belast zijn met de controle van deze certificaten en de factuurverklaringen.   
-2.  Met het oog op de correcte toepassing van dit protocol verlenen de Gemeenschap en Albanië elkaar via de bevoegde douane-instanties bijstand bij de controle op de echtheid van EUR.1-certificaten en factuurverklaringen en de juistheid van de daarop vermelde gegevens.  
-
-### Artikel  33  
-
-####Controle van de bewijzen van oorsprong
-
-1.  Bewijzen van oorsprong worden achteraf steekproefsgewijs gecontroleerd, alsmede wanneer de douaneautoriteiten van het land van invoer redenen hebben om te twijfelen aan de echtheid van deze documenten, de oorsprong van de betrokken producten of de naleving van de andere voorwaarden van dit protocol.   
-2.  Met het oog op de toepassing van lid 1 zenden de douaneautoriteiten van het land van invoer het certificaat inzake goederenverkeer EUR.1 de factuur, indien deze werd voorgelegd, de factuurverklaring of een kopie van deze documenten, terug aan de douaneautoriteiten van het land van uitvoer, in voorkomend geval onder vermelding van de redenen waarom een onderzoek wordt aangevraagd. Zij verstrekken bij deze aanvraag om controle alle documenten en gegevens die het vermoeden hebben doen rijzen dat de gegevens op het bewijs van oorsprong onjuist zijn.   
-3.  De controle wordt verricht door de douane van het land van uitvoer. Met het oog hierop zijn zij gerechtigd bewijsstukken op te vragen, de administratie van de exporteur in te zien en alle andere controles te verrichten die zij dienstig achten.   
-4.  Indien de douane van het land van invoer besluit de preferentiële behandeling niet toe te kennen zolang de uitslag van de controle niet bekend is, doet zij de importeur het voorstel de producten vrij te geven onder voorbehoud van de noodzakelijk geachte conservatoire maatregelen.   
-5.  De resultaten van de controle worden zo spoedig mogelijk medegedeeld aan de douanedienst die de controle heeft aangevraagd. In deze mededeling moet duidelijk worden aangegeven of de documenten al dan niet echt zijn, of de betrokken producten als producten van oorsprong uit de Gemeenschap, Albanië of een van de andere in de artikelen 3 en 4 genoemde landen of gebieden beschouwd kunnen worden en of aan de andere voorwaarden van dit protocol is voldaan.   
-6.  Indien bij gegronde twijfel binnen tien maanden na het verzoek om controle geen antwoord is ontvangen of indien het antwoord niet voldoende gegevens bevat om de echtheid van het betrokken document of de werkelijke oorsprong van de producten vast te stellen, kent de aanvragende douanedienst de preferentiële behandeling niet toe, behoudens buitengewone omstandigheden.  
-
-### Artikel  34  
-
-####Geschillenregeling
-
-Geschillen ten aanzien van de in artikel 33 bedoelde controles die niet onderling geregeld kunnen worden tussen de douaneautoriteiten die de controle hebben aangevraagd en de douaneautoriteiten die deze hebben moeten uitvoeren, en problemen in verband met de interpretatie van dit protocol worden aan het Stabilisatie- en associatiecomité voorgelegd. In alle gevallen is de wetgeving van het land van invoer van toepassing op de beslechting van geschillen tussen een importeur en de douane van het land van invoer. 
-
-### Artikel  35  
-
-####Sancties
-
-Sancties worden getroffen tegen ieder die een document met onjuiste gegevens opstelt of laat opstellen met het doel goederen onder de preferentiële regeling te doen vallen. 
-
-### Artikel  36  
-
-####Vrije zones
-
-1.  De Gemeenschap en Albanië nemen alle nodige maatregelen om te voorkomen dat producten die onder geleide van een bewijs van oorsprong worden verhandeld en die tijdens het vervoer in een vrije zone op hun grondgebied verblijven, door andere goederen worden vervangen of andere behandelingen ondergaan dan die welke gebruikelijk zijn om ze in goede staat te bewaren.   
-2.  In afwijking van het bepaalde in lid 1 geven de bevoegde autoriteiten, wanneer producten van oorsprong uit de Gemeenschap of uit Albanië die onder dekking van een bewijs van oorsprong in een vrije zone zijn ingevoerd, een be- of verwerking ondergaan, op verzoek van de exporteur een nieuw certificaat inzake goederenverkeer EUR. 1 af, mits deze be- of verwerking in overeenstemming is met de bepalingen van dit protocol.  
-
-###TITEL VII 
-
-####CEUTA EN MELILLA
-
-### Artikel  37  
-
-####Toepassing van het protocol
-
-1.  De in artikel 2 gebruikte term „Gemeenschap” heeft geen betrekking op Ceuta en Melilla.   
-2.  Producten van oorsprong uit Albanië die in Ceuta of Melilla worden ingevoerd, vallen in elk opzicht onder dezelfde douaneregeling als de regeling die op grond van Protocol nr. 2 bij de Akte van Toetreding van het Koninkrijk Spanje en de Republiek Portugal tot de Europese Gemeenschappen van toepassing is op producten van oorsprong uit het douanegebied van de Gemeenschap. Albanië past op onder de overeenkomst vallende producten van oorsprong uit Ceuta en Melilla dezelfde regeling toe als op producten van oorsprong uit de Gemeenschap die uit de Gemeenschap worden ingevoerd.   
-3.  Bij toepassing van lid 2 op producten van oorsprong uit Ceuta en Melilla is dit protocol van overeenkomstige toepassing, met inachtneming van de bijzondere voorwaarden van artikel 38.  
-
-### Artikel  38  
-
-####Bijzondere voorwaarden
-
-1.  Mits zij rechtstreeks zijn vervoerd overeenkomstig het bepaalde in artikel 13, worden beschouwd als: 
-
-1. producten van oorsprong uit Ceuta en Melilla: 
-
-a) geheel en al in Ceuta en Melilla verkregen producten;  
-
-b) in Ceuta en Melilla verkregen producten bij de vervaardiging waarvan andere dan de onder a) bedoelde producten zijn gebruikt, voor zover: 
-
-i) die producten be- of verwerkingen hebben ondergaan die toereikend zijn in de zin van artikel 6. of voor  
-
-ii) die producten van oorsprong zijn uit Albanië of uit de Gemeenschap, en be- of verwerkingen hebben ondergaan die meer omvatten dan de in artikel 7 bedoelde be- of verwerkingen;    
-
-2.producten van oorsprong uit Albanië: 
-
-a) geheel en al in Albanië verkregen producten;  
-
-b) in Albanië verkregen producten bij de vervaardiging waarvan andere dan de onder a) bedoelde producten zijn gebruikt, mits: 
-
-i) die producten be- of verwerkingen hebben ondergaan die toereikend zijn in de zin van artikel 6. of voor  
-
-ii) die producten van oorsprong zijn uit Ceuta en Melilla of uit de Gemeenschap, en be-of verwerkingen hebben ondergaan die meer omvatten dan de in artikel 7, lid 1, bedoelde be- of verwerkingen.       
-2.   Ceuta en Melilla worden als één grondgebied beschouwd.  
-3.  De exporteur of zijn gemachtigde vertegenwoordiger vermeldt „Albanië” en „Ceuta en Melilla” in vak 2 van het certificaat inzake goederenverkeer EUR.1 of op de factuurverklaring. Voor producten van oorsprong uit Ceuta en Melilla wordt dit bovendien vermeld in vak 4 van het certificaat inzake goederenverkeer EUR.1 of op de factuurverklaring.   
-4.  De Spaanse douaneautoriteiten zijn belast met de toepassing van dit protocol in Ceuta en Melilla.  
-
-###TITEL VIII 
-
-####SLOTBEPALINGEN
-
-###Artikel 39 
-
-####Wijzigingen van het protocol
-
-De Stabilisatie- en associatieraad kan besluiten bepalingen van dit protocol te wijzigen.
+Niettegenstaande artikel 16, lid 5, en artikel 21, lid 3, van aanhangsel I van de conventie, mag het bewijs van oorsprong een certificaat inzake goederenverkeer EUR.1 of een oorsprongsverklaring zijn indien bij de cumulatie alleen EVA-landen, de Faeröer, de Europese Unie, Turkije en de deelnemers aan het stabilisatie- en associatieproces zijn betrokken. 
 
 ### Protocol 5 
 
@@ -1842,7 +1333,7 @@ De ontwikkeling van een multimodaal regionaal vervoersnetwerk op het grondgebied
 
 ####Financiële aspecten
 
-1.  De Gemeenschap kan, in het kader van artikel [112] van de overeenkomst, financieel bijdragen aan de uitvoering van de noodzakelijke in artikel 5 bedoelde infrastructuurwerken. Zij kan deze bijdrage verstrekken in de vorm van kredieten van de Europese Investeringsbank, en op elke andere wijze waarop zij nog meer middelen kan vrijmaken.   
+1.  De Gemeenschap kan, in het kader van artikel [112] van de overeenkomst, financieel bijdragen aan de uitvoering van de noodzakelijke in artikel 5 van dit Protocol bedoelde infrastructuurwerken. Zij kan deze bijdrage verstrekken in de vorm van kredieten van de Europese Investeringsbank, en op elke andere wijze waarop zij nog meer middelen kan vrijmaken.   
 2.  Om de werkzaamheden te bespoedigen, zal de Commissie zoveel mogelijk trachten het gebruik van andere aanvullende middelen te bevorderen, zoals investeringen van lidstaten van de Gemeenschap op bilaterale basis of met gebruikmaking van openbare of particuliere middelen.   
 
 ### TITEL  II  
@@ -1903,11 +1394,11 @@ In het licht van de verdeling van de bevoegdheden tussen de staat en de spoorweg
 
 ####Algemene bepalingen
 
-1.  Wat de toegang tot elkaars vervoersmarkt betreft, komen de partijen overeen in het beginstadium, onverminderd lid 2, de regeling te handhaven die voortvloeit uit bilaterale overeenkomsten of andere internationale bilaterale verdragen die tussen de lidstaten van de Gemeenschap en Albanië zijn gesloten of, bij het ontbreken van dergelijke overeenkomsten of verdragen, uit de feitelijke situatie in 1991. In afwachting van de sluiting van een overeenkomst tussen de Gemeenschap en Albanië over de toegang tot de wegvervoersmarkt, zoals bedoeld in artikel 12, en over wegenbelasting, zoals bedoeld in artikel 13, lid 2, werkt Albanië echter samen met de lidstaten van de Gemeenschap om deze bilaterale overeenkomsten aan te passen aan dit protocol.   
+1.  Wat de toegang tot elkaars vervoersmarkt betreft, komen de partijen overeen in het beginstadium, onverminderd lid 2, de regeling te handhaven die voortvloeit uit bilaterale overeenkomsten of andere internationale bilaterale verdragen die tussen de lidstaten van de Gemeenschap en Albanië zijn gesloten of, bij het ontbreken van dergelijke overeenkomsten of verdragen, uit de feitelijke situatie in 1991. In afwachting van de sluiting van een overeenkomst tussen de Gemeenschap en Albanië over de toegang tot de wegvervoersmarkt, zoals bedoeld in artikel 12, en over wegenbelasting, zoals bedoeld in artikel 13, lid 2, werkt Albanië echter samen met de lidstaten om deze bilaterale overeenkomsten of verdragen aan te passen aan dit protocol.   
 2.  De partijen komen overeen met ingang van de datum waarop de overeenkomst in werking treedt, het communautaire transitoverkeer onbeperkt toegang te verlenen tot Albanië en het Albanese transitoverkeer onbeperkt toegang te verlenen tot de Gemeenschap.    
 3.  Indien als gevolg van de krachtens lid 2 verleende rechten het door vervoerders uit de Gemeenschap uitgevoerde transitoverkeer over de weg zodanig toeneemt dat daardoor ernstige schade wordt toegebracht of dreigt te worden toegebracht aan de wegeninfrastructuur en/of de doorstroming van het verkeer op de in artikel 5 bedoelde verbindingen, en zich onder deze zelfde omstandigheden problemen voordoen op het grondgebied van de Gemeenschap in de nabijheid van de grenzen met Albanië, wordt de kwestie voorgelegd aan de Stabilisatie- en associatieraad overeenkomstig artikel [118] van de overeenkomst. De partijen kunnen voorstellen doen voor uitzonderlijke tijdelijke, niet-discriminerende maatregelen die noodzakelijk zijn om deze schade te verminderen of te beperken.   
 4.  Indien de Europese Gemeenschap voorschriften vaststelt om de verontreiniging door in de Europese Unie geregistreerde vrachtwagens te verminderen en de verkeersveiligheid te vergroten, is een gelijksoortige regeling van toepassing op in Albanië geregistreerde vrachtwagens die op het grondgebied van de Gemeenschap aan het verkeer wensen deel te nemen. De Stabilisatie- en associatieraad beslist over de noodzakelijke modaliteiten.   
-5.  De partijen onthouden zich van alle eenzijdige maatregelen of handelingen die tot discriminatie tussen vervoerders of voertuigen van de Gemeenschap en vervoerders of voertuigen van Albanië zouden kunnen leiden. Zij nemen alle dienstige maatregelen om het wegvervoer naar of in transito over het grondgebied van de andere overeenkomstsluitende partij te vergemakkelijken.  
+5.  De partijen onthouden zich van alle eenzijdige maatregelen of handelingen die tot discriminatie tussen vervoerders of voertuigen van de Gemeenschap en vervoerders of voertuigen van Albanië zouden kunnen leiden. Zij nemen alle dienstige maatregelen om het wegvervoer naar of in transito over het grondgebied van de andere partij te vergemakkelijken.  
 
 ### Artikel  12  
 
@@ -1924,9 +1415,9 @@ De partijen verbinden zich bij voorrang ertoe samen te werken om, behoudens hun 
 ####Belastingen, tol en andere heffingen
 
 1.  De partijen erkennen dat belastingen, tol en andere heffingen ten laste van de wegvoertuigen van beide partijen vrij moeten zijn van discriminatie.    
-2.  De partijen openen onderhandelingen om zo snel mogelijk tot een overeenkomst te komen inzake wegenbelasting, op basis van de regels die de Gemeenschap op dit gebied heeft vastgesteld. Deze overeenkomst is met name gericht op vrije doorstroming van het grensoverschrijdende verkeer, geleidelijke opheffing van de verschillen tussen de wegenbelastingstelsels van de partijen en het voorkomen van concurrentievervalsing ten gevolge van deze verschillen.   
+2.  De partijen openen onderhandelingen om zo snel mogelijk tot een overeenkomst te komen inzake wegenbelasting, op basis van de regels die de Gemeenschap op dit gebied heeft vastgesteld. De overeenkomst is met name gericht op vrije doorstroming van het grensoverschrijdende verkeer, geleidelijke opheffing van de verschillen tussen de wegenbelastingstelsels van de partijen en het voorkomen van concurrentievervalsing ten gevolge van deze verschillen.   
 3.  In afwachting van de resultaten van de in lid 2 bedoelde onderhandelingen nemen de partijen de discriminatie weg tussen vrachtvervoerders uit de Gemeenschap en uit Albanië bij de toepassing van belastingen en heffingen op het verkeer en/of het bezit van vrachtwagens en van alle speciale belastingen en heffingen op het vervoer over het grondgebied van de partijen. Albanië verbindt zich ertoe de Commissie van de Europese Gemeenschappen desgevraagd het bedrag aan belastingen, tol en andere heffingen die het toepast mede te delen, alsmede de methode die voor de berekening daarvan wordt toegepast.   
-4.  Tot de in lid 2 en artikel 12 bedoelde overeenkomsten zijn gesloten, kunnen na de inwerkingtreding van de overeenkomst voorgestelde wijzigingen van fiscale heffingen, tolheffing en andere heffingen op het communautaire transitoverkeer door Albanië, alsmede van de systemen voor de inning ervan, slechts na overleg worden ingevoerd.  
+4.  Tot de in lid 2 en artikel 12 bedoelde overeenkomsten zijn gesloten, kunnen na de inwerkingtreding van de stabilisatie- en associatieovereenkomst voorgestelde wijzigingen van fiscale heffingen, tolheffing en andere heffingen op het communautaire transitoverkeer door Albanië, alsmede van de systemen voor de inning ervan, slechts na overleg worden ingevoerd.  
 
 ### Artikel  14  
 
@@ -1947,7 +1438,7 @@ De partijen verbinden zich bij voorrang ertoe samen te werken om, behoudens hun 
 
 ####Sociale aspecten
 
-1.  Albanië harmoniseert zijn wetgeving inzake de opleiding van vrachtwagenbestuurders, met name wat het vervoer van gevaarlijke stoffen betreft, met de normen van de Europese Gemeenschap.   
+1.  Albanië harmoniseert zijn wetgeving inzake de opleiding van vrachtwagenbestuurders, met name wat het vervoer van gevaarlijke stoffen betreft, met de normen van de Gemeenschap.   
 2.  Albanië, dat partij is bij de Europese overeenkomst nopens de arbeidsvoorwaarden voor de bemanningen van motorrijtuigen in het internationale vervoer over de weg (AETR), en de Gemeenschap coördineren zo nauw mogelijk hun beleid inzake rijtijden, onderbrekingen en rustperioden van de bestuurders en de samenstelling van de bemanning, in overeenstemming met de toekomstige ontwikkeling van de sociale wetgeving op dit gebied.   
 3.  De partijen werken samen bij de tenuitvoerlegging en handhaving van de sociale wetgeving op het gebied van het wegvervoer.   
 4.  De partijen zien toe op de gelijkwaardigheid van hun respectieve wetgeving met betrekking tot de toegang tot het beroep van wegvervoerder, zulks met het oog op wederzijdse erkenning.  
@@ -2016,22 +1507,22 @@ d. het coördineren van de activiteiten op het gebied van controle, prognoses en
 
 Voor de toepassing van dit protocol wordt verstaan onder: 
 
-a. „douanewetgeving’’: de wettelijke en bestuursrechtelijke bepalingen die in de overeenkomstsluitende partijen van toepassing zijn betreffende de invoer, de uitvoer en de doorvoer van goederen en de plaatsing van goederen onder een andere douaneregeling, met inbegrip van verboden, beperkingen en controlemaatregelen;  
+a. „douanewetgeving”: de wettelijke en bestuursrechtelijke bepalingen die in de partijen van toepassing zijn betreffende de invoer, de uitvoer en de doorvoer van goederen en de plaatsing van goederen onder een andere douaneregeling, met inbegrip van verboden, beperkingen en controlemaatregelen;  
 
-b. „verzoekende autoriteit’’: een door een partij aangewezen instantie die op grond van dit protocol verzoeken om bijstand indient;  
+b. „verzoekende autoriteit”: een door een partij aangewezen instantie die op grond van dit protocol verzoeken om bijstand indient;  
 
-c. „aangezochte autoriteit’’: een door een partij aangewezen instantie die op grond van dit protocol een verzoek om bijstand ontvangt;  
+c. „aangezochte autoriteit”: een door een partij aangewezen instantie die op grond van dit protocol een verzoek om bijstand ontvangt;  
 
-d. „persoonsgegevens’’: alle gegevens betreffende een natuurlijke persoon wiens identiteit bekend is of kan worden vastgesteld;  
+d. „persoonsgegevens”: alle gegevens betreffende een natuurlijke persoon wiens identiteit bekend is of kan worden vastgesteld;  
 
-e. „handeling in strijd met de douanewetgeving’’: elke overtreding of poging tot overtreding van de douanewetgeving;   
+e. „handeling in strijd met de douanewetgeving”: elke overtreding of poging tot overtreding van de douanewetgeving;   
 
 ### Artikel  2  
 
 ####Toepassingsgebied
 
 1.  De partijen verlenen elkaar bijstand, op de onder hun bevoegdheid vallende gebieden, en op de wijze en op de voorwaarden als in dit Protocol vastgesteld, om ervoor te zorgen dat de douanewetgeving correct wordt toegepast, in het bijzonder bij de preventie, de opsporing en het onderzoek van handelingen in strijd met deze wetgeving.   
-2.  De bijstand in douanezaken waarin dit protocol voorziet, geldt voor elke administratieve autoriteit van de overeenkomstsluitende partijen die bevoegd is voor de toepassing van dit protocol. Deze bijstand doet geen afbreuk aan de regels betreffende de wederzijdse bijstand in strafzaken en geldt niet voor informatie die is verkregen krachtens bevoegdheden die op verzoek van een rechterlijke autoriteit worden uitgeoefend, tenzij die autoriteit instemt met de mededeling van die informatie.   
+2.  De bijstand in douanezaken waarin dit protocol voorziet, geldt voor elke administratieve autoriteit van de partijen die bevoegd is voor de toepassing van dit protocol. Deze bijstand doet geen afbreuk aan de regels betreffende de wederzijdse bijstand in strafzaken en geldt niet voor informatie die is verkregen krachtens bevoegdheden die op verzoek van een rechterlijke autoriteit worden uitgeoefend, tenzij die autoriteit instemt met de mededeling van die informatie.   
 3.  Dit protocol heeft geen betrekking op bijstand bij de invordering van rechten, heffingen en boetes.  
 
 ### Artikel  3 
@@ -2041,9 +1532,9 @@ e. „handeling in strijd met de douanewetgeving’’: elke overtreding of pogi
 1.  Op aanvraag van de verzoekende autoriteit verstrekt de aangezochte autoriteit eerstgenoemde alle ter zake dienende informatie die deze nodig heeft om erop toe te zien dat de douanewetgeving correct wordt toegepast, met inbegrip van informatie betreffende voorgenomen of vastgestelde handelingen die met deze wetgeving in strijd zijn of kunnen zijn.   
 2.  Op aanvraag van de verzoekende autoriteit deelt de aangezochte autoriteit haar mede: 
 
-a. of goederen die uit een overeenkomstsluitende partij zijn uitgevoerd op regelmatige wijze in een andere overeenkomstsluitende partij zijn ingevoerd, onder vermelding, in voorkomend geval, van de douaneregeling waaronder deze goederen zijn geplaatst.  
+a. of goederen die uit een partij zijn uitgevoerd op regelmatige wijze in een andere partij zijn ingevoerd, onder vermelding, in voorkomend geval, van de douaneregeling waaronder deze goederen zijn geplaatst.  
 
-b. of goederen die in een overeenkomstsluitende partij zijn ingevoerd op regelmatige wijze uit de andere overeenkomstsluitende partij zijn uitgevoerd, onder vermelding, in voorkomend geval, van de douaneregeling waaronder deze goederen zijn geplaatst.     
+b. of goederen die in een partij zijn ingevoerd op regelmatige wijze uit de andere overeenkomstsluitende partij zijn uitgevoerd, onder vermelding, in voorkomend geval, van de douaneregeling waaronder deze goederen zijn geplaatst.     
 3.  Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, overeenkomstig haar wet- en regelgeving, maatregelen om ervoor te zorgen dat toezicht wordt gehouden op: 
 
 a. natuurlijke personen of rechtspersonen van wie redelijkerwijze kan worden vermoed dat zij handelingen verrichten of hebben verricht die met de douanewetgeving in strijd zijn;  
@@ -2058,9 +1549,9 @@ d. vervoermiddelen die op zodanige wijze worden of kunnen worden gebruikt dat re
 
 ####Ongevraagde bijstand
 
-De overeenkomstsluitende partijen verlenen elkaar, in overeenstemming met hun wet- en regelgeving, ongevraagd bijstand indien zij dit noodzakelijk achten voor de correcte toepassing van de douanewetgeving, in het bijzonder indien zij informatie hebben verkregen over: 
+De partijen verlenen elkaar, in overeenstemming met hun wet- en regelgeving, ongevraagd bijstand indien zij dit noodzakelijk achten voor de correcte toepassing van de douanewetgeving, in het bijzonder indien zij informatie hebben verkregen over: 
 
-–  handelingen die met de douanewetgeving in strijd zijn of lijken te zijn en die van belang kunnen zijn voor een andere overeenkomstsluitende partij;  
+–  handelingen die met de douanewetgeving in strijd zijn of lijken te zijn en die van belang kunnen zijn voor een andere partij;  
 
 –  nieuwe middelen of methoden die worden gebruikt bij handelingen in strijd met de douanewetgeving;  
 
@@ -2105,10 +1596,10 @@ f. een overzicht van de relevante feiten en van het onderzoek dat reeds is uitge
 
 ####Behandeling van verzoeken
 
-1.  De aangezochte autoriteit behandelt verzoeken om bijstand, binnen de grenzen van haar bevoegdheden en met de middelen waarover zij beschikt, alsof zij voor eigen rekening of in opdracht van een andere autoriteit van dezelfde overeenkomstsluitende partij handelt, door reeds beschikbare informatie te verstrekken en het nodige onderzoek te verrichten of te doen verrichten. Deze bepaling is tevens van toepassing op instanties waaraan de aangezochte autoriteit het verzoek doorzendt indien deze autoriteit niet zelfstandig kan handelen.   
-2.  Verzoeken om bijstand worden behandeld overeenkomstig de wet- en regelgeving van de aangezochte overeenkomstsluitende partij.   
-3.  Daartoe gemachtigde ambtenaren van een overeenkomstsluitende partij kunnen met instemming van de andere overeenkomstsluitende partij en op de door deze gestelde voorwaarden, in de kantoren van de aangezochte autoriteit of van een andere betrokken instantie als bedoeld in lid 1, gegevens verzamelen over handelingen die met de douanewetgeving in strijd zijn of kunnen zijn en die de verzoekende autoriteit voor de toepassing van dit protocol nodig heeft.   
-4.  Daartoe gemachtigde ambtenaren van een overeenkomstsluitende partij kunnen, met instemming van de andere betrokken overeenkomstsluitende partij en op de door deze gestelde voorwaarden, aanwezig zijn bij onderzoek dat op het grondgebied van laatstgenoemde wordt verricht.  
+1.  De aangezochte autoriteit behandelt verzoeken om bijstand, binnen de grenzen van haar bevoegdheden en met de middelen waarover zij beschikt, alsof zij voor eigen rekening of in opdracht van een andere autoriteit van dezelfde partij handelt, door reeds beschikbare informatie te verstrekken en het nodige onderzoek te verrichten of te doen verrichten. Deze bepaling is tevens van toepassing op instanties waaraan de aangezochte autoriteit het verzoek doorzendt indien deze autoriteit niet zelfstandig kan handelen.   
+2.  Verzoeken om bijstand worden behandeld overeenkomstig de wet- en regelgeving van de aangezochte partij.   
+3.  Daartoe gemachtigde ambtenaren van een partij kunnen met instemming van de andere partij en op de door deze gestelde voorwaarden, in de kantoren van de aangezochte autoriteit of van een andere betrokken instantie als bedoeld in lid 1, gegevens verzamelen over handelingen die met de douanewetgeving in strijd zijn of kunnen zijn en die de verzoekende autoriteit voor de toepassing van dit protocol nodig heeft.   
+4.  Daartoe gemachtigde ambtenaren van een partij kunnen, met instemming van de andere betrokken partij en op de door deze gestelde voorwaarden, aanwezig zijn bij onderzoek dat op het grondgebied van laatstgenoemde wordt verricht.  
 
 ### Artikel  8 
 
@@ -2137,10 +1628,10 @@ c. de schending inhoudt van een industrieel geheim, een handelsgeheim of een ber
 
 ####Uitwisseling van informatie en geheimhouding
 
-1.  Alle informatie die ter uitvoering van dit protocol in welke vorm dan ook wordt verstrekt, heeft een vertrouwelijk karakter of is slechts voor beperkte verspreiding bestemd, afhankelijk van de regelgeving van elke overeenkomstsluitende partij. De verstrekte gegevens worden als een ambtsgeheim beschouwd en beschermd overeenkomstig de regelgeving van de overeenkomstsluitende partij die ze heeft ontvangen en de desbetreffende bepalingen die op EG-autoriteiten van toepassing zijn.   
-2.  Persoonsgegevens mogen uitsluitend worden doorgegeven indien de overeenkomstsluitende partij die deze ontvangt zich ertoe verbindt deze op een wijze te beschermen die ten minste gelijkwaardig is met de wijze waarop de overeenkomstsluitende partij die deze gegevens heeft verstrekt deze beschermt. Te dien einde stellen de overeenkomstsluitende partijen elkaar in kennis van hun voorschriften ter zake met inbegrip van, in voorkomend geval, de wettelijke bepalingen van de lidstaten van de Gemeenschap.   
-3.  Het gebruik van op grond van dit protocol verkregen informatie in gerechtelijke en administratieve procedures in verband met handelingen die in strijd zijn met de douanewetgeving wordt geacht voor de doeleinden van dit protocol te geschieden. De overeenkomstsluitende partijen kunnen daarom bij de bewijsvoering, in verslagen en getuigenissen en bij procedures die bij rechtbanken aanhangig worden gemaakt, gebruik maken van informatie die op grond van dit protocol is verkregen en documenten waarin op grond van dit protocol inzage is gegeven. De bevoegde autoriteit die de informatie heeft verstrekt of inzage heeft gegeven in de documenten wordt van een dergelijk gebruik in kennis gesteld.    
-4.  De verkregen informatie mag uitsluitend worden gebruikt voor de doeleinden van dit protocol. Indien een overeenkomstsluitende partij dergelijke informatie voor andere doeleinden wenst te gebruiken, dient zij vooraf om de schriftelijke toestemming te verzoeken van de instantie die de informatie heeft verstrekt. Dergelijke informatie mag uitsluitend op de door deze instantie vastgestelde voorwaarden worden gebruikt.  
+1.  Alle informatie die ter uitvoering van dit protocol in welke vorm dan ook wordt verstrekt, heeft een vertrouwelijk karakter of is slechts voor beperkte verspreiding bestemd, afhankelijk van de regelgeving van elke partij. De verstrekte gegevens worden als een ambtsgeheim beschouwd en beschermd overeenkomstig de regelgeving van de partij die ze heeft ontvangen en de desbetreffende bepalingen die op EG-autoriteiten van toepassing zijn.   
+2.  Persoonsgegevens mogen uitsluitend worden doorgegeven indien de partij die deze ontvangt zich ertoe verbindt deze op een wijze te beschermen die ten minste gelijkwaardig is met de wijze waarop de partij die deze gegevens heeft verstrekt deze beschermt. Te dien einde stellen de partijen elkaar in kennis van hun voorschriften ter zake met inbegrip van, in voorkomend geval, de wettelijke bepalingen van de lidstaten van de Gemeenschap.   
+3.  Het gebruik van op grond van dit protocol verkregen informatie in gerechtelijke en administratieve procedures in verband met handelingen die in strijd zijn met de douanewetgeving wordt geacht voor de doeleinden van dit protocol te geschieden. De partijen kunnen daarom bij de bewijsvoering, in verslagen en getuigenissen en bij procedures die bij rechtbanken aanhangig worden gemaakt, gebruik maken van informatie die op grond van dit protocol is verkregen en documenten waarin op grond van dit protocol inzage is gegeven. De bevoegde autoriteit die de informatie heeft verstrekt of inzage heeft gegeven in de documenten wordt van een dergelijk gebruik in kennis gesteld.    
+4.  De verkregen informatie mag uitsluitend worden gebruikt voor de doeleinden van dit protocol. Indien een partij dergelijke informatie voor andere doeleinden wenst te gebruiken, dient zij vooraf om de schriftelijke toestemming te verzoeken van de instantie die de informatie heeft verstrekt. Dergelijke informatie mag uitsluitend op de door deze instantie vastgestelde voorwaarden worden gebruikt.  
 
 ### Artikel  11 
 
@@ -2152,34 +1643,34 @@ Een onder een aangezochte autoriteit ressorterende ambtenaar kan worden gemachti
 
 ####Kosten van de bijstand
 
-De overeenkomstsluitende partijen brengen elkaar geen kosten in rekening voor uitgaven die ter uitvoering van dit protocol zijn gemaakt, met uitzondering, in voorkomend geval, van de uitgaven voor deskundigen, getuigen, tolken en vertalers die niet in overheidsdienst zijn. 
+De partijen brengen elkaar geen kosten in rekening voor uitgaven die ter uitvoering van dit protocol zijn gemaakt, met uitzondering, in voorkomend geval, van de uitgaven voor deskundigen, getuigen, tolken en vertalers die niet in overheidsdienst zijn. 
 
 ### Artikel  13  
 
 ####Tenuitvoerlegging
 
 1.  De douaneautoriteiten van Albanië, enerzijds, en de bevoegde diensten van de Commissie van de Europese Gemeenschappen en, in voorkomend geval, de douaneautoriteiten van de lidstaten, anderzijds, zien toe op de tenuitvoerlegging van dit protocol. Zij stellen alle praktische maatregelen en regelingen voor de toepassing van dit protocol vast, rekening houdend met de voorschriften op het gebied van de gegevensbescherming. Zij kunnen de bevoegde autoriteiten aanbevelingen doen over wijzigingen die naar hun oordeel in dit protocol moeten worden aangebracht.   
-2.  De overeenkomstsluitende partijen plegen overleg over en stellen elkaar in kennis van alle uitvoeringsbepalingen die op grond van dit protocol worden vastgesteld.   
+2.  De partijen plegen overleg over en stellen elkaar in kennis van alle uitvoeringsbepalingen die op grond van dit protocol worden vastgesteld.   
 
 ### Artikel  14  
 
 ####Andere overeenkomsten
 
-1.  Rekening houdend met de respectieve bevoegdheden van de Europese Gemeenschap en van haar lidstaten, geldt voor de bepalingen van dit protocol het volgende: 
+1.  Rekening houdend met de respectieve bevoegdheden van de Gemeenschap en van haar lidstaten, geldt voor de bepalingen van dit protocol het volgende: 
 
-–  zij hebben geen gevolgen voor de verplichtingen van de overeenkomstsluitende partijen op grond van andere internationale overeenkomsten of verdragen;  
+–  zij hebben geen gevolgen voor de verplichtingen van de partijen op grond van andere internationale overeenkomsten of verdragen;  
 
 –  zij worden geacht een aanvulling te vormen op overeenkomsten betreffende wederzijdse bijstand die tussen afzonderlijke lidstaten en Albanië zijn of kunnen worden gesloten; en  
 
 –  zij hebben geen gevolgen voor de bepalingen van de Gemeenschap betreffende de uitwisseling tussen de bevoegde diensten van de Commissie van de Europese Gemeenschappen en de douaneautoriteiten van de lidstaten van gegevens die in het kader van dit protocol zijn verkregen en die van belang kunnen zijn voor de Gemeenschap.     
 2.  In afwijking van lid 1 hebben de bepalingen van dit protocol voorrang op de bepalingen in bilaterale overeenkomsten betreffende wederzijdse bijstand die tussen afzonderlijke lidstaten en Albanië zijn of kunnen worden gesloten, indien de bepalingen van laatstgenoemde overeenkomsten met die van dit protocol strijdig zijn.   
-3.  In geval van problemen in verband met de toepassing van dit protocol plegen de overeenkomstsluitende partijen overleg om deze op te lossen in het bij artikel 120 van de associatieovereenkomst ingestelde Stabilisatie- en Associatiecomité.  
+3.  In geval van problemen in verband met de toepassing van dit protocol plegen de partijen overleg om deze op te lossen in het bij artikel 120 van de associatieovereenkomst ingestelde Stabilisatie- en Associatiecomité.  
 
 ### Slotakte  
 
-De gevolmachtigden van: het Koninkrijk België, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland,  de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-brittannië en Noord-Ierland, Verdragsluitende partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie en het Verdrag betreffende de Europese Unie, hierna „de lidstaten’’ genoemd, en van de Europese Gemeenschap en de Europese Gemeenschap voor Atoomenergie, hierna „de Gemeenschap’’ genoemd, enerzijds, en de gevolmachtigden van de Republiek Albanië, anderzijds, bijeengekomen te Luxemburg, de twaalfde juni tweeduizend zes voor de ondertekening van de Stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Albanië, anderzijds, hierna „de overeenkomst’’ genoemd, hebben de volgende teksten goedgekeurd: de Overeenkomst, de Bijlagen I t/m V daarbij, te weten: 
+De gevolmachtigden van: het Koninkrijk België, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland,  de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-brittannië en Noord-Ierland, Verdragsluitende partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie en het Verdrag betreffende de Europese Unie, hierna „de lidstaten” genoemd, en van de Europese Gemeenschap en de Europese Gemeenschap voor Atoomenergie, hierna „de Gemeenschap” genoemd, enerzijds, en de gevolmachtigden van de Republiek Albanië, anderzijds, bijeengekomen te Luxemburg, de twaalfde juni tweeduizend zes voor de ondertekening van de Stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Albanië, anderzijds, hierna „de overeenkomst” genoemd, hebben de volgende teksten goedgekeurd: de Overeenkomst en de Bijlagen I t/m V daarbij, te weten: 
 
-–  Bijlage I – Tariefconcessies van Albanië voor industrieproducten uit de Gemeenschap   
+–  Bijlage I – Tariefconcessies van Albanië voor industrieproducten van de Gemeenschap   
 
 –  Bijlage IIa – Tariefconcessies van Albanië voor primaire landbouwproducten van oorsprong uit de Gemeenschap (bedoeld in artikel 27, lid 3, onder a)  
 
@@ -2199,7 +1690,7 @@ De gevolmachtigden van: het Koninkrijk België, de Tsjechische Republiek, het Ko
 
 –  Protocol 3 – Wederzijdse preferentiële handelsconcessies voor bepaalde wijnen, de wederzijdse erkening, bescherming en controle van benamingen van wijnen, gedistilleerde dranken en gearomatiseerde wijnen  
 
-–  Protocol 4 – De definitie van het begrip „producten van oorsprong’’ en methoden van administratieve samenwerking  
+–  Protocol 4 – De definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking  
 
 –  Protocol 5 – Vervoer over land  
 
@@ -2227,13 +1718,13 @@ De gevolmachtigden van: het Koninkrijk België, de Tsjechische Republiek, het Ko
 
 –  Gemeenschappelijke verklaring betreffende de Republiek San Marino inzake protocol 4 van de Overeenkomst  
 
-–  Gemeenschappelijke verklaring betreffende protocol 5 van de Overeenkomst   De gevolmachtigden van de Republiek Albanië hebben nota genomen van onderstaande verklaring, die aan deze slotakte is gehecht: 
+–  Gemeenschappelijke verklaring betreffende protocol 5 van de Overeenkomst   De gevolmachtigden van de Republiek Albanië hebben nota genomen van onderstaande verklaring van de Gemeenschap die aan deze slotakte is gehecht: 
 
-–  Verklaring van de Gemeenschap betreffende de uitzonderlijke handelsmaatregelen die de Europese Gemeenschap toekent op grond van Verordening (EG) nr. 2007/2000.   GEDAAN te Luxemburg, de twaalfde juni tweeduizend zes.       
+–  Verklaring van de Gemeenschap betreffende de uitzonderlijke handelsmaatregelen die de Gemeenschap toekent op grond van Verordening (EG) nr. 2007/2000.   GEDAAN te Luxemburg, de twaalfde juni tweeduizend zes.       
 
 ####Gemeenschappelijke verklaring betreffende de artikelen 22 en 29 van de Overeenkomst
 
-De partijen verklaren dat zij bij de tenuitvoerlegging van de artikelen 22 en 29 in de Stabilisatie- en associatieraad de effecten van eventuele door Albanië met derde landen gesloten preferentiële overeenkomsten zullen onderzoeken (dit is niet van toepassing op de landen waarvoor het stabilisatie- en associatieproces van de EU is ingesteld of op andere buurlanden die geen lidstaat van de EU zijn). Dit onderzoek kan leiden tot aanpassing van de concessies die Albanië aan de Europese Gemeenschap verleent, indien Albanië deze landen aanmerkelijk gunstiger concessies aanbiedt.   
+De partijen verklaren dat zij bij de tenuitvoerlegging van de artikelen 22 en 29 in de Stabilisatie- en associatieraad de effecten van eventuele door Albanië met derde landen gesloten preferentiële overeenkomsten zullen onderzoeken (dit is niet van toepassing op de landen waarvoor het stabilisatie- en associatieproces van de Europese Unie is ingesteld of op andere buurlanden die geen lidstaat van de Europese Unie zijn). Dit onderzoek kan leiden tot aanpassing van de concessies die Albanië aan de Gemeenschap verleent, indien Albanië deze landen aanmerkelijk gunstiger concessies aanbiedt.   
 
 ####Gemeenschappelijke verklaring betreffende artikel 41 van de Overeenkomst 
 
@@ -2301,10 +1792,10 @@ a) Voor motoren met een slagvolume van minder dan 0,75 dm3 per cilinder en een
 
 2. De Gemeenschap en Albanië zullen in de toekomst streven naar terugdringing van de uitstoot van motorvoertuigen door gebruikmaking van geavanceerde emissiebeperkingstechnologie, in combinatie met verbetering van de kwaliteit van de motorbrandstof.     
 
-####Verklaring van de Gemeenschap 
+####Verklaring van de Gemeenschap betreffende de uitzonderlijke handelsmaatregelen die de Gemeenschap toekent op grond van Verordening (EG) nr. 2007/2000 
 
-Overwegende dat de Europese Gemeenschap uitzonderlijke handelsmaatregelen toekent ten behoeve van de landen die deelnemen aan of verbonden zijn met het stabilisatie- en associatieproces van de Europese Unie, met inbegrip van Albanië, op basis van Verordening (EG) nr. 2007/2000, verklaart de Europese Gemeenschap: 
+Overwegende dat de Gemeenschap uitzonderlijke handelsmaatregelen toekent ten behoeve van de landen die deelnemen aan of verbonden zijn met het stabilisatie- en associatieproces van de Europese Unie, met inbegrip van Albanië, op basis van Verordening (EG) nr. 2007/2000 van de Raad van 18 september 2000 tot vaststelling van uitzonderlijke handelsmaatregelen ten behoeve van de landen en gebieden die deelnemen aan of verbonden zijn met het stabilisatie- en associatieproces van de Europese Unie verklaart de Europese Gemeenschap: 
 
-–   dat bij de toepassing van artikel 30 van deze overeenkomst, de meest gunstige van de eenzijdige autonome handelsmaatregelen van toepassing zijn, in aanvulling op de contractuele handelsconcessies die de Gemeenschap bij deze overeenkomst aanbiedt, zolang Verordening (EG) nr. 2007/2000 van de Raad, zoals gewijzigd, van toepassing is;  
+–   dat bij de toepassing van artikel 30 van de overeenkomst, de meest gunstige van de eenzijdige autonome handelsmaatregelen van toepassing zijn, in aanvulling op de contractuele handelsconcessies die de Gemeenschap bij de overeenkomst aanbiedt, zolang Verordening (EG) nr. 2007/2000 van de Raad, zoals gewijzigd, van toepassing is;  
 
-–  dat in het bijzonder voor de producten die vallen onder hoofdstukken 7 en 8 van de gecombineerde nomenclatuur, waarvoor het gemeenschappelijk douanetarief voorziet in een douanerecht ad valorem en in een specifiek douanerecht, de verlaging ook van toepassing is op het specifieke douanerecht, in afwijking van de desbetreffende bepaling van artikel 27, lid 1.     
+–  dat in het bijzonder voor de producten die vallen onder hoofdstukken 7 en 8 van de gecombineerde nomenclatuur, waarvoor het gemeenschappelijk douanetarief voorziet in een douanerecht ad valorem en in een specifiek douanerecht, de verlaging ook van toepassing is op het specifieke douanerecht, in afwijking van de desbetreffende bepaling van artikel 27, lid 1, van de overeenkomst.     
