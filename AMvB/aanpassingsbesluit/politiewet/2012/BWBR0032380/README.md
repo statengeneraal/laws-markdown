@@ -16,7 +16,10 @@ Hebben goedgevonden en verstaan:
 
 ####Ministerie van Algemene Zaken
 
+Materieel uitgewerkt per 01-01-2015 
+
 ### Artikel  1.1  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit tijdelijke herindeling ministeriële taken in geval van een terroristische dreiging met een urgent karakter. 
 
@@ -24,127 +27,160 @@ Wijzigt het Besluit tijdelijke herindeling ministeriële taken in geval van een 
 
 ####Ministerie van Veiligheid en Justitie
 
+Materieel uitgewerkt per 01-01-2015 
+
 ### Artikel  2.1  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit administratiefrechtelijke handhaving verkeersvoorschriften 1994. 
 
 ### Artikel  2.2  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit alcoholonderzoeken. 
 
 ### Artikel  2.3  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit beveiliging burgerluchtvaart. 
 
 ### Artikel  2.4  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit bewaren en vernietigen niet-gevoegde stukken. 
 
 ### Artikel  2.5  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit buitengewoon opsporingsambtenaar. 
 
 ### Artikel  2.6  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit DNA-onderzoek in strafzaken. 
 
 ### Artikel  2.7  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit elektronische aangifte. 
 
 ### Artikel  2.8  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit getuigenbescherming. 
 
 ### Artikel  2.9  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit identiteitsvaststelling verdachten en veroordeelden. 
 
 ### Artikel  2.10  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit inbeslaggenomen voorwerpen. 
 
 ### Artikel  2.11  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit justitiële en strafvorderlijke gegevens. 
 
 ### Artikel  2.12  
+Materieel uitgewerkt per 01-01-2015 
 
 Het Besluit kwaliteitszorg politie wordt ingetrokken. 
 
 ### Artikel  2.13  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit OM-afdoening. 
 
 ### Artikel  2.14  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit politiegegevens. 
 
 ### Artikel  2.15  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit politiegegevens bijzondere opsporingsdiensten. 
 
 ### Artikel  2.16  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit politieonderwijsraad. 
 
 ### Artikel  2.17  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit reorganisatie openbaar ministerie en instelling landelijk parket. 
 
 ### Artikel  2.18  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit technische hulpmiddelen strafvordering. 
 
 ### Artikel  2.19  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit tenuitvoerlegging geldboeten. 
 
 ### Artikel  2.20  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit tenuitvoerlegging ontnemings- en schadevergoedingsmaatregelen. 
 
 ### Artikel  2.21  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit toepassing maatregelen in het belang van het onderzoek. 
 
 ### Artikel  2.22  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit uitvoering artikel 577, tweede lid (Wetboek van Strafvordering). 
 
 ### Artikel  2.23  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit ex artikel 439, n°. 2, Wetboek van Strafrecht. 
 
 ### Artikel  2.24  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit ex artikel 4 Wet installaties Noordzee. 
 
 ### Artikel  2.25  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit organisatie Veiligheidsdienst van het Koninklijk Huis. 
 
 ### Artikel  2.26  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit aanwijzing verboden plaats Korps landelijke politiediensten. 
 
 ### Artikel  2.27  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit ex artikel 6 Faillissementswet. 
 
 ### Artikel  2.28  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit ex artikel 28 Wet administratiefrechtelijke handhaving verkeersvoorschriften. 
 
 ### Artikel  2.29  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit veiligheidsregio’s. 
 
 ### Artikel  2.30  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Samenwerkingsbesluit bijzondere opsporingsbevoegdheden. 
 
 ### Artikel  2.31  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Transactiebesluit 1994. 
 
@@ -152,43 +188,55 @@ Wijzigt het Transactiebesluit 1994.
 
 ####Ministerie Binnenlandse Zaken en Koninkrijksrelaties
 
+Materieel uitgewerkt per 01-01-2015 
+
 ### Artikel  3.1  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Algemeen Rijksambtenarenreglement. 
 
 ### Artikel  3.2  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Ambtenarenreglement Staten-Generaal. 
 
 ### Artikel  3.3  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt de Ambtsinstructie commissaris van de Koning. 
 
 ### Artikel  3.4  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit beschikbaarstelling ambtenaren aan het Caribisch deel van het Koninkrijk. 
 
 ### Artikel  3.5  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit brede doeluitkering sociaal, integratie en veiligheid. 
 
 ### Artikel  3.6  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit gemeentelijke basisadministratie persoonsgegevens. 
 
 ### Artikel  3.7  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit modern migratiebeleid. 
 
 ### Artikel  3.8  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit vaststelling algemene maatregel van bestuur als bedoeld in artikel 24 wet gemeentelijke herindeling Noordwest-Overijssel. 
 
 ### Artikel  3.9  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Wijzigingsbesluit Vreemdelingenbesluit 2000, enz. (nationale visa en enkele andere onderwerpen)(Stb. 2012/308). 
 
 ### Artikel  3.10  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Vreemdelingenbesluit 2000. 
 
@@ -196,7 +244,10 @@ Wijzigt het Vreemdelingenbesluit 2000.
 
 ####Ministerie van Financiën
 
+Materieel uitgewerkt per 01-01-2015 
+
 ### Artikel  4.1  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie. 
 
@@ -204,19 +255,25 @@ Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.
 
 ####Ministerie van Defensie
 
+Materieel uitgewerkt per 01-01-2015 
+
 ### Artikel  5.1  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Algemeen militair ambtenarenreglement. 
 
 ### Artikel  5.2  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen. 
 
 ### Artikel  5.3  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Burgerlijk ambtenarenreglement defensie. 
 
 ### Artikel  5.4  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie. 
 
@@ -224,47 +281,60 @@ Wijzigt het Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke am
 
 ####Ministerie van Infrastructuur en Milieu
 
+Materieel uitgewerkt per 01-01-2015 
+
 ### Artikel  6.1  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit administratieve bepalingen inzake het wegverkeer (BABW). 
 
 ### Artikel  6.2  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit burgerluchthavens. 
 
 ### Artikel  6.3  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart. 
 
 ### Artikel  6.4  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit ontheffingverlening exceptionele transporten. 
 
 ### Artikel  6.5  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit personenvervoer 2000. 
 
 ### Artikel  6.6  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit verkeersinformatie en verkeersaanwijzingen scheepvaartverkeer. 
 
 ### Artikel  6.7  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit wegslepen van voertuigen. 
 
 ### Artikel  6.8  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Drinkwaterbesluit. 
 
 ### Artikel  6.9  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Metroreglement.
 
 ### Artikel  6.10  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Reglement rijbewijzen. 
 
 ### Artikel  6.11  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Scheepvaartreglement Gemeenschappelijke Maas. 
 
@@ -272,31 +342,40 @@ Wijzigt het Scheepvaartreglement Gemeenschappelijke Maas.
 
 ####Ministerie van Economische Zaken, Landbouw en Innovatie
 
+Materieel uitgewerkt per 01-01-2015 
+
 ### Artikel  7.1  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit beveiliging gegevens telecommunicatie. 
 
 ### Artikel  7.2  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit bijzondere vergaring nummergegevens telecommunicatie. 
 
 ### Artikel  7.3  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit Faunafonds. 
 
 ### Artikel  7.4  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit prepareren van dieren. 
 
 ### Artikel  7.5  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit verstrekking gegevens telecommunicatie. 
 
 ### Artikel  7.6  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Besluit vrijstelling beschermde dier- en plantensoorten. 
 
 ### Artikel  7.7  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Jachtbesluit. 
 
@@ -304,11 +383,15 @@ Wijzigt het Jachtbesluit.
 
 ####Ministerie van Sociale Zaken en Werkgelegenheid
 
+Materieel uitgewerkt per 01-01-2015 
+
 ### Artikel  8.1  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Arbeidsomstandighedenbesluit. 
 
 ### Artikel  8.2  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Arbeidstijdenbesluit. 
 
@@ -316,7 +399,10 @@ Wijzigt het Arbeidstijdenbesluit.
 
 ####Ministerie van Volksgezondheid, Welzijn en Sport
 
+Materieel uitgewerkt per 01-01-2015 
+
 ### Artikel  9.1  
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt het Uitvoeringsbesluit Wet op de jeugdzorg. 
 
@@ -324,11 +410,15 @@ Wijzigt het Uitvoeringsbesluit Wet op de jeugdzorg.
 
 ####Slotbepalingen
 
+Materieel uitgewerkt per 01-01-2015 
+
 ### Artikel  10.1  
+Materieel uitgewerkt per 01-01-2015 
 
 Dit besluit treedt in werking met ingang van 1 januari 2013. 
 
 ### Artikel  10.2  
+Materieel uitgewerkt per 01-01-2015 
 
 Dit besluit wordt aangehaald als: Aanpassingsbesluit Politiewet 2012. 
 

@@ -4,7 +4,7 @@
 
 ####Europees-mediterrane overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Libanon, anderzijds
 
-het Koninkrijk België, Het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, hierna „lidstaten" genoemd, en de Europese Gemeenschap hierna „Gemeenschap" genoemd, enerzijds, en de Republiek Libanon, hierna „Libanon" genoemd, anderzijds, Gelet op de nabijheid en de onderlinge afhankelijkheid van de Gemeenschap, haar lidstaten en Libanon, gebaseerd op de historische banden en hun gemeenschappelijke waarden; Overwegende dat de Gemeenschap, de lidstaten en Libanon deze banden wensen te versterken en duurzame betrekkingen tot stand wensen te brengen, gebaseerd op wederkerigheid, solidariteit, partnerschap en gezamenlijke ontwikkeling; Gelet op het belang dat de partijen hechten aan de beginselen van het Handvest van de Verenigde Naties, en in het bijzonder aan de eerbiediging van de mensenrechten, de democratische beginselen en de economische vrijheden, waarop de Associatie is gegrondvest; Gelet op de recente politieke en economische ontwikkelingen, zowel op het Europese vasteland als in het Midden-Oosten, en de daaruit voortvloeiende gemeenschappelijke verantwoordelijkheid voor de stabiliteit, veiligheid en welvaart van de Europees-mediterrane regio; Gelet op het belang voor de Gemeenschap en Libanon van vrijhandel, als bedoeld bij de Algemene Overeenkomst inzake Tarieven en Handel (GATT) 1994 en andere multilaterale overeenkomsten die opgenomen zijn in de bijlagen bij de Overeenkomst tot oprichting van de Wereldhandelsorganisatie (WTO); Gelet op de verschillen tussen Libanon en de Gemeenschap wat betreft economische en sociale ontwikkeling, en de noodzaak het proces van economische en sociale ontwikkeling in Libanon te versterken; Bevestigende dat de bepalingen van deze overeenkomst die vallen onder het toepassingsbereik van deel III, titel IV van het Verdrag tot oprichting van de Europese Gemeenschap, het Verenigd Koninkrijk en Ierland binden als afzonderlijke overeenkomstsluitende partijen, en niet als een deel van de Europese Gemeenschap, totdat het Verenigd Koninkrijk of Ierland (al naar gelang het geval) Libanon ervan in kennis stelt dat het gebonden is als deel van de Europese Gemeenschap, overeenkomstig het Protocol betreffende de positie van het Verenigd Koninkrijk en Ierland dat is gehecht aan het Verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap. Hetzelfde geldt voor Denemarken, overeenkomstig het aan die verdragen gehechte Protocol betreffende de positie van Denemarken; Verlangende de doelstellingen van deze associatie geheel te verwezenlijken door middel van de implementatie van de desbetreffende bepalingen van deze overeenkomst, teneinde de niveaus van economische en sociale ontwikkeling van de Gemeenschap en Libanon dichter bij elkaar te brengen; Zich bewust van het belang van deze overeenkomst, die gebaseerd is op reciprociteit van belangen, wederzijdse concessies, samenwerking en dialoog; Verlangende een regelmatige politieke dialoog te ontwikkelen over bilaterale en internationale vraagstukken van wederzijds belang; Rekening houdende met de bereidheid van de Gemeenschap Libanon steun te verlenen in zijn streven naar economische wederopbouw, hervorming en aanpassing en sociale ontwikkeling; Verlangende te komen tot de instelling, handhaving en intensivering van samenwerking, steunende op een regelmatige dialoog op economisch, wetenschappelijk, technologisch, sociaal, cultureel en audiovisueel gebied, met het oog op een beter wederzijds begrip; Overtuigd dat deze overeenkomst een gunstig klimaat zal scheppen voor de groei van hun economische betrekkingen, met name wat betreft handel en investeringen, die van doorslaggevend belang zijn voor het welslagen van het programma voor economische wederopbouw en herstructurering, alsmede voor de technologische modernisering, Hebben overeenstemming bereikt omtrent de volgende bepalingen<sup> [Red: De oorspronkelijke Bijlagen en de Protocollen 1, 2 en 3 bij de Overeenkomst en de Protocollen liggen ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken en zijn gepubliceerd in PbEU 2006, L 143.]</sup>:   
+het Koninkrijk België, Het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, hierna „lidstaten” genoemd, en de Europese Gemeenschap hierna „Gemeenschap” genoemd, enerzijds, en de Republiek Libanon, hierna „Libanon” genoemd, anderzijds, Gelet op de nabijheid en de onderlinge afhankelijkheid van de Gemeenschap, haar lidstaten en Libanon, gebaseerd op de historische banden en hun gemeenschappelijke waarden; Overwegende dat de Gemeenschap, haar lidstaten en Libanon deze banden wensen te versterken en duurzame betrekkingen tot stand wensen te brengen, gebaseerd op wederkerigheid, solidariteit, partnerschap en gezamenlijke ontwikkeling; Gelet op het belang dat de partijen hechten aan de beginselen van het Handvest van de Verenigde Naties, en in het bijzonder aan de eerbiediging van de mensenrechten, de democratische beginselen en de economische vrijheden, waarop de Associatie is gegrondvest; Gelet op de recente politieke en economische ontwikkelingen, zowel op het Europese vasteland als in het Midden-Oosten, en de daaruit voortvloeiende gemeenschappelijke verantwoordelijkheid voor de stabiliteit, veiligheid en welvaart van de Europees-mediterrane regio; Gelet op het belang voor de Gemeenschap en Libanon van vrijhandel, als bedoeld bij de Algemene Overeenkomst inzake Tarieven en Handel (GATT) 1994 en andere multilaterale overeenkomsten die opgenomen zijn in de bijlagen bij de Overeenkomst tot oprichting van de Wereldhandelsorganisatie (WTO); Gelet op de verschillen tussen Libanon en de Gemeenschap wat betreft economische en sociale ontwikkeling, en de noodzaak het proces van economische en sociale ontwikkeling in Libanon te versterken; Bevestigende dat de bepalingen van deze overeenkomst die vallen onder het toepassingsbereik van deel III, titel IV van het Verdrag tot oprichting van de Europese Gemeenschap, het Verenigd Koninkrijk en Ierland binden als afzonderlijke overeenkomstsluitende partijen, en niet als een deel van de Gemeenschap, totdat het Verenigd Koninkrijk of Ierland (al naar gelang het geval) Libanon ervan in kennis stelt dat het gebonden is als deel van de Gemeenschap, overeenkomstig het Protocol betreffende de positie van het Verenigd Koninkrijk en Ierland dat is gehecht aan het Verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap. Hetzelfde geldt voor Denemarken, overeenkomstig het aan die verdragen gehechte Protocol betreffende de positie van Denemarken; Verlangende de doelstellingen van deze associatie geheel te verwezenlijken door middel van de implementatie van de desbetreffende bepalingen van deze overeenkomst, teneinde de niveaus van economische en sociale ontwikkeling van de Gemeenschap en Libanon dichter bij elkaar te brengen; Zich bewust van het belang van deze overeenkomst, die gebaseerd is op reciprociteit van belangen, wederzijdse concessies, samenwerking en dialoog; Verlangende een regelmatige politieke dialoog te ontwikkelen over bilaterale en internationale vraagstukken van wederzijds belang; Rekening houdende met de bereidheid van de Gemeenschap Libanon steun te verlenen in zijn streven naar economische wederopbouw, hervorming en aanpassing en sociale ontwikkeling; Verlangende te komen tot de instelling, handhaving en intensivering van samenwerking, steunende op een regelmatige dialoog op economisch, wetenschappelijk, technologisch, sociaal, cultureel en audiovisueel gebied, met het oog op een beter wederzijds begrip; Overtuigd dat deze overeenkomst een gunstig klimaat zal scheppen voor de groei van hun economische betrekkingen, met name wat betreft handel en investeringen, die van doorslaggevend belang zijn voor het welslagen van het programma voor economische wederopbouw en herstructurering, alsmede voor de technologische modernisering, Hebben overeenstemming bereikt omtrent de volgende bepalingen<sup> [Red: De oorspronkelijke Bijlagen en de Protocollen 1, 2 en 3 bij de Overeenkomst en de Protocollen liggen ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken en zijn gepubliceerd in PbEU 2006, L 143.]</sup>:   
 
 ### Artikel  1  
 
@@ -240,7 +240,7 @@ c. „dochteronderneming": een rechtspersoon die daadwerkelijk door een andere r
 
 d. „natuurlijke persoon": een persoon die onderdaan is van een lidstaat van de Gemeenschap respectievelijk van Libanon volgens de respectieve nationale wetgeving.    
 
-### HOOFDSTUK  IV 
+### TITEL  IV 
 
 ####BETALINGEN, KAPITAAL, CONCURRENTIE EN ANDERE ECONOMISCHE BEPALINGEN
 
@@ -290,7 +290,7 @@ Met betrekking tot overheidsondernemingen en ondernemingen waaraan speciale of e
 ### Artikel  38  
 
 1.   Overeenkomstig het bepaalde in dit artikel en in bijlage 2 zien de partijen toe op adequate en effectieve bescherming van intellectuele-, industriële- en commerciële-eigendomsrechten, overeenkomstig de hoogste internationale normen, met inbegrip van effectieve middelen om deze rechten te doen gelden.   
-2.   De tenuitvoerlegging van dit artikel en van bijlage 2 wordt regelmatig door de partijen geëvalueerd. Bij problemen op het gebied van intellectuele-eigendomsrechten die afbreuk doen aan het handelsverkeer, wordt op verzoek van een partij spoedoverleg overleg gevoerd om tot een voor beide partijen bevredigende oplossing te komen.  
+2.   De tenuitvoerlegging van dit artikel en van bijlage 2 wordt regelmatig door de partijen geëvalueerd. Bij problemen op het gebied van intellectuele-eigendomsrechten die afbreuk doen aan het handelsverkeer, wordt op verzoek van een partij spoedoverleg gevoerd om tot een voor beide partijen bevredigende oplossing te komen.  
 
 ### Artikel  39  
 
@@ -427,7 +427,7 @@ f. het stimuleren van de ontwikkeling van het MKB, met name door:
 
 ####Bevordering en bescherming van investeringen
 
-De samenwerking is gericht op versterking van de instroom van kapitaal, knowhow en technologie naar Libanon door onder meer: 
+1. De samenwerking is gericht op versterking van de instroom van kapitaal, knowhow en technologie naar Libanon door onder meer: 
 
 a. op gepaste wijze investeringsmogelijkheden en bronnen van informatie over investeringsregels te identificeren;  
 
@@ -437,7 +437,8 @@ c. de mogelijkheden voor de oprichting van joint ventures te onderzoeken (met na
 
 d. mechanismen in te stellen voor de stimulering en bevordering van investeringen;  
 
-e. het instellen van een juridisch kader ter bevordering van investeringen, met name door de sluiting tussen Libanon en de lidstaten van overeenkomsten ter bescherming van investeringen, voor zover nodig, en overeenkomsten ter vermijding van dubbele belastingheffing.   De samenwerking kan zich uitstrekken tot planning en uitvoering van projecten waarmee ter plaatse de doeltreffende verwerving en aanwending van basistechnologieën, het gebruik van normen, de ontwikkeling van het menselijk potentieel en het creëren van werkgelegenheid kan worden gedemonstreerd.  
+e. het instellen van een juridisch kader ter bevordering van investeringen, met name door de sluiting tussen Libanon en de lidstaten van overeenkomsten ter bescherming van investeringen, voor zover nodig, en overeenkomsten ter vermijding van dubbele belastingheffing.   
+2. De samenwerking kan zich uitstrekken tot planning en uitvoering van projecten waarmee ter plaatse de doeltreffende verwerving en aanwending van basistechnologieën, het gebruik van normen, de ontwikkeling van het menselijk potentieel en het creëren van werkgelegenheid kan worden gedemonstreerd.  
 
 ### Artikel  48  
 
@@ -604,7 +605,7 @@ De samenwerking is gericht op de harmonisatie van de door de partijen gebruikte 
 
 ####Bescherming van de consument
 
-De samenwerking op dit gebied is gericht op de harmonisatie van de regelingen voor de bescherming van de consument in de Europese Gemeenschap en Libanon en is voor zover mogelijk gericht op:  
+De samenwerking op dit gebied is gericht op de harmonisatie van de regelingen voor de bescherming van de consument in de Gemeenschap en Libanon en is voor zover mogelijk gericht op:  
 
 a.  de versterking van de onderlinge compatibiliteit van de consumentenwetgeving, teneinde handelsbelemmeringen te voorkomen;  
 
@@ -624,7 +625,7 @@ De partijen wijzen nogmaals op het belang dat zij hechten aan de rechtsstaat en 
 
 ####Witwassen van geld
 
-1.   De partijen zijn het erover eens dat met gebieden moet worden samengewerkt om te voorkomen dat hun financiële stelsels worden gebruikt voor het witwassen van opbrengsten uit criminele activiteiten in het algemeen en drugsmisdrijven in het bijzonder.   
+1.   De partijen zijn het erover eens dat moet worden samengewerkt om te voorkomen dat hun financiële stelsels worden gebruikt voor het witwassen van opbrengsten uit criminele activiteiten in het algemeen en drugsmisdrijven in het bijzonder.   
 2.   De samenwerking op dit gebied omvat administratieve en technische bijstand met het oog op de totstandkoming van doeltreffende normen en efficiënte implementatie daarvan op het gebied van de bestrijding van het witwassen van geld, in overeenstemming met de internationale normen.  
 
 ### Artikel  61  
@@ -725,7 +726,7 @@ b.  Libanon verbindt zich ertoe eigen onderdanen die illegaal op het grondgebied
 
 ### Artikel  69  
 
-1. Na de inwerkingtreding van de overeenkomst openen de partijen op verzoek van een van hen onderhandelingen over de sluiting van onderlinge bilaterale overeenkomsten waarin hun specifieke verplichtingen betreffende de overname van hun onderdanen worden geregeld. Indien een partij zulks noodzakelijk acht, bevatten dergelijke overeenkomsten tevens regelingen voor de overname van onderdanen van derde landen. In die regelingen wordt bepaald welke categorieën personen onder de regelingen vallen, alsmede op welke wijze de overname dient te geschieden. 
+1. Na de inwerkingtreding van deze overeenkomst openen de partijen op verzoek van een van hen onderhandelingen over de sluiting van onderlinge bilaterale overeenkomsten waarin hun specifieke verplichtingen betreffende de overname van hun onderdanen worden geregeld. Indien een partij zulks noodzakelijk acht, bevatten dergelijke overeenkomsten tevens regelingen voor de overname van onderdanen van derde landen. In die regelingen wordt bepaald welke categorieën van personen onder de regelingen vallen, alsmede op welke wijze de overname dient te geschieden. 
 2. Libanon wordt passende financiële en technische steun verleend voor de implementatie van deze regelingen. 
 
 ### Artikel  70  
@@ -739,18 +740,18 @@ De Associatieraad onderzoekt welke andere gezamenlijke inspanningen kunnen worde
 ### Artikel  71  
 
 1. Teneinde zoveel mogelijk bij te dragen aan de verwezenlijking van de doelstellingen van deze overeenkomst wordt een financiële samenwerking ten gunste van Libanon in overweging genomen volgens de passende financiële procedures en met de passende financiële middelen. 
-2. Deze procedures worden in overleg tussen de partijen vastgesteld met behulp van de meest geschikte instrumenten en met ingang van de inwerkingtreding van de overeenkomst. 
+2. Deze procedures worden in overleg tussen de partijen vastgesteld met behulp van de meest geschikte instrumenten en met ingang van de inwerkingtreding van deze overeenkomst. 
 3. Naast de in de titels V en VI van deze overeenkomst genoemde terreinen kan de samenwerking ook betrekking hebben op:
 
-a.  de vergemakkelijking van hervormingen die gericht zijn op de modernisering van de economie;  
+a. de vergemakkelijking van hervormingen die gericht zijn op de modernisering van de economie;  
 
-b.  de wederopbouw en het op peil brengen van de economische infrastructuur;  
+b. de wederopbouw en het op peil brengen van de economische infrastructuur;  
 
-c.  de bevordering van particuliere investeringen en activiteiten die werkgelegenheid scheppen;  
+c. de bevordering van particuliere investeringen en activiteiten die werkgelegenheid scheppen;  
 
-d.  de bestudering van de gevolgen van de geleidelijke instelling van een vrijhandelszone voor de Libanese economie, met name vanuit het oogpunt van het op peil brengen en herstructureren van de betrokken economische sectoren, zoals de industriesector;  
+d. de bestudering van de gevolgen van de geleidelijke instelling van een vrijhandelszone voor de Libanese economie, met name vanuit het oogpunt van het op peil brengen en herstructureren van de betrokken economische sectoren, zoals de industriesector;  
 
-e.  de totstandkoming van flankerende maatregelen voor beleid in de sociale sectoren, met name met het oog op de hervorming van de sociale zekerheid.   
+e. de totstandkoming van flankerende maatregelen voor beleid in de sociale sectoren, met name met het oog op de hervorming van de sociale zekerheid.   
 
 ### Artikel  72  
 
@@ -771,7 +772,7 @@ Met het oog op een gecoördineerde benadering van de bijzondere macro-economisch
 
 ### Artikel  75  
 
-1.   De Associatieraad bestaat uit leden van de Raad van de Europese Unie en leden van de Commissie van de Europese Gemeenschap enerzijds en leden van de regering van Libanon anderzijds.   
+1.   De Associatieraad bestaat uit leden van de Raad van de Europese Unie en leden van de Commissie van de Europese Gemeenschappen enerzijds en leden van de regering van Libanon anderzijds.   
 2.   De leden van de Associatieraad mogen regelingen treffen om zich te doen vertegenwoordigen, overeenkomstig de daartoe in het reglement van orde vast te stellen voorwaarden.   
 3.   De Associatieraad stelt zijn eigen reglement van orde vast.   
 4.   De Associatieraad wordt beurtelings voorgezeten door een lid van de Raad van de Europese Unie en een lid van de regering van Libanon, overeenkomstig de bepalingen in het reglement van orde.  
@@ -784,7 +785,7 @@ Met het oog op een gecoördineerde benadering van de bijzondere macro-economisch
 
 ### Artikel  77  
 
-1.   Hierbij wordt een Associatiecomité opgericht, dat toezicht houdt op de implementatie van de overeenkomst, onder voorbehoud van de aan de Raad toegekende bevoegdheden.    
+1.   Hierbij wordt een Associatiecomité opgericht, dat toezicht houdt op de implementatie van deze overeenkomst, onder voorbehoud van de aan de Associatieraad toegekende bevoegdheden.    
 2.   De Associatieraad kan alle of een deel van zijn bevoegdheden aan het Associatiecomité delegeren.  
 
 ### Artikel  78  
@@ -796,7 +797,7 @@ Met het oog op een gecoördineerde benadering van de bijzondere macro-economisch
 ### Artikel  79  
 
 1.   Het Associatiecomité heeft beslissingsbevoegdheid inzake het beheer van de overeenkomst en op de terreinen waarop de Associatieraad bevoegdheden aan het Associatiecomité heeft gedelegeerd.   
-2.   Besluiten worden vastgesteld in onderlinge overeenstemming tussen de partijen. Deze besluiten zijn bindend voor de partijen, die de nodige maatregelen treffen voor de uitvoering ervan.  
+2.   Besluiten van het Associatiecomité worden vastgesteld in onderlinge overeenstemming tussen de partijen. Deze besluiten zijn bindend voor de partijen, die de nodige maatregelen treffen voor de uitvoering ervan.  
 
 ### Artikel  80  
 
@@ -833,7 +834,7 @@ c. die zij van vitaal belang voor haar eigen veiligheid acht, in geval van ernst
 
 ### Artikel  85  
 
-Ten aanzien van directe belastingen heeft geen der bepalingen van de overeenkomst tot gevolg dat: 
+Ten aanzien van directe belastingen heeft geen der bepalingen van deze overeenkomst tot gevolg dat: 
 
 –  de door een partij toegekende voordelen op fiscaal gebied in enige internationale overeenkomst of regeling waardoor deze partij gebonden is, worden uitgebreid;  
 
@@ -843,13 +844,13 @@ Ten aanzien van directe belastingen heeft geen der bepalingen van de overeenkoms
 
 ### Artikel  86  
 
-1.   De partijen treffen alle algemene en bijzondere maatregelen die vereist zijn om aan hun verplichtingen krachtens deze overeenkomst te voldoen. Zij zien erop toe dat de in de overeenkomst aangegeven doelstellingen worden bereikt.   
-2.   Indien een van de partijen van mening is dat de andere partij een verplichting van de overeenkomst niet is nagekomen, kan zij passende maatregelen treffen. Alvorens dit te doen, behalve in bijzonder dringende gevallen, verstrekt zij de Associatieraad alle terzake doende informatie die nodig is voor een grondig onderzoek van de situatie, om een voor beide partijen aanvaardbare oplossing te vinden.   
+1.   De partijen treffen alle algemene en bijzondere maatregelen die vereist zijn om aan hun verplichtingen krachtens deze overeenkomst te voldoen. Zij zien erop toe dat de in deze overeenkomst aangegeven doelstellingen worden bereikt.   
+2.   Indien een van de partijen van mening is dat de andere partij een verplichting van deze overeenkomst niet is nagekomen, kan zij passende maatregelen treffen. Alvorens dit te doen, behalve in bijzonder dringende gevallen, verstrekt zij de Associatieraad alle terzake doende informatie die nodig is voor een grondig onderzoek van de situatie, om een voor beide partijen aanvaardbare oplossing te vinden.   
 3.   Bij de keuze van maatregelen als bedoeld in lid 2 wordt voorrang gegeven aan maatregelen die de werking van deze overeenkomst het minst verstoren. De partijen komen voorts overeen dat deze maatregelen in overeenstemming dienen te zijn met het internationale recht en in verhouding dienen te staan tot de schending. Deze maatregelen worden onmiddellijk ter kennis van de Associatieraad gebracht; op verzoek van de andere partij wordt daaromtrent in de Associatieraad overleg gepleegd.  
 
 ### Artikel  87  
 
-De bijlagen 1 en 2 en de protocollen 1 tot en met 5 vormen een integrerend onderdeel van de overeenkomst. 
+De bijlagen 1 en 2 en de protocollen 1 tot en met 5 vormen een integrerend onderdeel van deze overeenkomst. 
 
 ### Artikel  88  
 
@@ -878,64 +879,64 @@ Deze overeenkomst is opgesteld in tweevoud in de Deense, de Duitse, de Engelse, 
 
 ####Interimovereenkomst
 
-De partijen komen overeen dat indien, in afwachting van de voltooiing van de procedures die nodig zijn voor de inwerkingtreding van deze overeenkomst, de bepalingen van bepaalde gedeelten van deze overeenkomst, met name die met betrekking tot het vrije verkeer van goederen, door middel van een interimovereenkomst tussen de Gemeenschap en Libanon tot uitvoering worden gebracht, in dergelijke omstandigheden voor de toepassing van de titels II en IV van deze overeenkomst, van de bijlagen 1 en 2 en van de protocollen 1 tot en met 5 daarbij, onder „datum van inwerkingtreding van deze overeenkomst" wordt verstaan: de datum van inwerkingtreding van de interim-overeenkomst voor wat betreft de verplichtingen die in deze artikelen, bijlagen en protocollen zijn opgenomen.
+De partijen komen overeen dat indien, in afwachting van de voltooiing van de procedures die nodig zijn voor de inwerkingtreding van deze overeenkomst, de bepalingen van bepaalde gedeelten van deze overeenkomst, met name die met betrekking tot het vrije verkeer van goederen, door middel van een interimovereenkomst tussen de Gemeenschap en Libanon tot uitvoering worden gebracht, in dergelijke omstandigheden voor de toepassing van de titels II en IV van deze overeenkomst, van de bijlagen 1 en 2 en van de protocollen 1 tot en met 5 daarbij, onder „datum van inwerkingtreding van deze overeenkomst” wordt verstaan: de datum van inwerkingtreding van de interimovereenkomst voor wat betreft de verplichtingen die in deze artikelen, bijlagen en protocollen zijn opgenomen.
 
 GEDAAN te Brussel op 17 juni 2002.
 
 ####GEMEENSCHAPPELIJKE VERKLARINGEN
 
-###Gemeenschappelijke verklaring betreffende de preambule
+###Gemeenschappelijke verklaring betreffende de preambule van de overeenkomst
 
 De partijen verklaren zich ervan bewust te zijn dat liberalisering van het handelsverkeer tussen beide partijen impliceert dat maatregelen dienen te worden genomen voor de aanpassing en herstructurering van de Libanese economie, hetgeen gevolgen kan hebben voor de begrotingsmiddelen en het tempo van de wederopbouw van Libanon.
-###Gemeenschappelijke verklaring betreffende artikel 3 
+###Gemeenschappelijke verklaring betreffende artikel 3  van de overeenkomst 
 
 De partijen herhalen hun voornemen inspanningen te ondersteunen voor het bereiken van een rechtvaardige, alomvattende en duurzame vredesregeling in het Midden-Oosten.
-###Gemeenschappelijke verklaring betreffende artikel 14 
+###Gemeenschappelijke verklaring betreffende artikel 14  van de overeenkomst 
 
 Beide partijen komen overeen te onderhandelen met het oog op de wederzijdse verlening van concessies in de handel in vis en visserijproducten, op basis van reciprociteit en wederzijds belang, met het doel uiterlijk twee jaar na de ondertekening van deze overeenkomst tot overeenstemming te komen over de details.
-###Gemeenschappelijke verklaring betreffende artikel 27
+###Gemeenschappelijke verklaring betreffende artikel 27  van de overeenkomst
 
 De partijen bevestigen hun voornemen de export van giftige afvalstoffen te verbieden en de Europese Gemeenschap bevestigt haar voornemen Libanon bijstand te verlenen bij het zoeken naar oplossingen voor de door giftige afvalstoffen veroorzaakte problemen.
-###Gemeenschappelijke verklaring betreffende artikel 28
+###Gemeenschappelijke verklaring betreffende artikel 28  van de overeenkomst
 
 Gezien het tijdsbestek dat nodig is voor de totstandkoming van vrijhandelszones tussen Libanon en de andere mediterrane landen, zal de Gemeenschap alle bij haar ingediende verzoeken om vroegtijdige toepassing van diagonale cumulatie met deze landen, in welwillende overweging nemen.
-###Gemeenschappelijke verklaring betreffende artikel 35 
+###Gemeenschappelijke verklaring betreffende artikel 35  van de overeenkomst 
 
 De implementatie van de in artikel 35, lid 2, genoemde samenwerking is afhankelijk van de inwerkingtreding van een Libanese mededingingswet en het aantreden van de autoriteit die verantwoordelijk is voor de toepassing van die wet. 
-###Gemeenschappelijke verklaring betreffende artikel 38 
+###Gemeenschappelijke verklaring betreffende artikel 38  van de overeenkomst 
 
 De partijen komen overeen dat voor de toepassing van de overeenkomst intellectuele, industriële en commerciële eigendom inzonderheid het volgende omvat: auteursrechten, met inbegrip van de auteursrechten op computerprogramma's, en naburige rechten, de rechten voor databanken, de rechten inzake octrooien, industriële ontwerpen, geografische aanduidingen, met inbegrip van benamingen van oorsprong, handelsmerken en dienstmerken, topografieën van geïntegreerde schakelingen, alsmede bescherming tegen oneerlijke mededinging als bedoeld in artikel 10 bis van het Verdrag van Parijs tot bescherming van de industriële eigendom, en bescherming van niet-openbaargemaakte informatie over knowhow. De bepalingen van artikel 38 mogen niet worden uitgelegd op een wijze die een der partijen ertoe verplicht toe te treden tot andere internationale verdragen dan die genoemd in bijlage 2. De Gemeenschap verleent de Republiek Libanon technische bijstand bij haar streven te voldoen aan haar verplichtingen in het kader van artikel 38.
-###Gemeenschappelijke verklaring betreffende artikel 47
+###Gemeenschappelijke verklaring betreffende artikel 47  van de overeenkomst
 
 De partijen erkennen de noodzaak van modernisering van de Libanese productiesector om deze beter aan te passen aan de realiteit van de internationale en Europese economie. De Gemeenschap zal Libanon steunen bij de uitvoering van een steunprogramma voor de industriesectoren die zullen worden geherstructureerd en gemoderniseerd om het hoofd te bieden aan problemen die kunnen voortvloeien uit de liberalisering van het handelsverkeer en met name de afschaffing van tarieven.
-###Gemeenschappelijke verklaring betreffende artikel 60 
+###Gemeenschappelijke verklaring betreffende artikel 60  van de overeenkomst 
 
 De partijen zijn het erover eens dat de normen die zijn opgesteld door de Financiële Actie Task Force (FATF) deel uitmaken van de in lid 2 bedoelde internationale normen.
-###Gemeenschappelijke verklaring betreffende werknemers (artikel 65) 
+###Gemeenschappelijke verklaring betreffende werknemers (artikel 65  van de overeenkomst) 
 
 De partijen bevestigen opnieuw het belang dat zij hechten aan de eerlijke behandeling van buitenlandse werknemers die legaal op hun grondgebied tewerkgesteld zijn. De lidstaten komen overeen dat zij, op verzoek van Libanon, bereid zijn onderhandelingen te openen over bilaterale overeenkomsten met betrekking tot arbeidsomstandigheden, betaling, ontslag en rechten inzake sociale zekerheid van Libanese werknemers die legaal op hun grondgebied tewerkgesteld zijn. 
-###Gemeenschappelijke verklaring betreffende artikel 67 
+###Gemeenschappelijke verklaring betreffende artikel 67  van de overeenkomst 
 
 De partijen verklaren bijzondere aandacht te besteden aan de bescherming, conservering en restauratie van locaties en monumenten.Zij komen overeen samen te werken bij het streven naar de terugkeer van die onderdelen van het Libanese culturele erfgoed die het land illegaal hebben verlaten in de periode sinds 1974.
-###Gemeenschappelijke verklaring betreffende artikel 86 
+###Gemeenschappelijke verklaring betreffende artikel 86  van de overeenkomst 
 
-a. De partijen komen, met het oog op de juiste interpretatie en praktische toepassing van deze overeenkomst, overeen dat onder de in artikel 86 bedoelde „bijzonder dringende gevallen" worden verstaan: gevallen van wezenlijke inbreuk op de overeenkomst door één van de partijen. Wezenlijke inbreuk op de overeenkomst houdt in: 
+a. De partijen komen, met het oog op de juiste interpretatie en praktische toepassing van deze overeenkomst, overeen dat onder de in artikel 86 bedoelde „bijzonder dringende gevallen” worden verstaan: gevallen van wezenlijke inbreuk op de overeenkomst door één van de partijen. Wezenlijke inbreuk op de overeenkomst houdt in: 
 
 -afwijzing van de overeenkomst die niet in overeenstemming is met de algemene regels van het internationaal recht;
 
 - schending van het essentiële onderdeel van de overeenkomst, namelijk artikel 2. 
 
-b.De partijen komen overeen dat onder de in artikel 86 genoemde „passende maatregelen" worden verstaan: maatregelen die in overeenstemming zijn met het internationaal recht. Indien een partij in bijzonder dringende gevallen als bedoeld in artikel 86 een maatregel neemt, kan de andere partij een beroep doen op de procedure voor de beslechting van geschillen.
+b.De partijen komen overeen dat onder de in artikel 86 genoemde „passende maatregelen” worden verstaan: maatregelen die in overeenstemming zijn met het internationaal recht. Indien een partij in bijzonder dringende gevallen als bedoeld in artikel 86 een maatregel neemt, kan de andere partij een beroep doen op de procedure voor de beslechting van geschillen.
 ###Gemeenschappelijke verklaring betreffende visa
 
-De partijen komen overeen te onderzoeken of de procedures voor de afgifte van visa vereenvoudigd en versneld kunnen worden, met name voor te goeder trouw zijnde personen die betrokken zijn bij de uitvoering van deze overeenkomst, zoals onder andere zakenlieden, investeerders, academici, personen in opleiding en overheidsfunctionarissen. Partners en minderjarige kinderen van personen die legaal op het grondgebied van de andere partij verblijven, komen eveneens in aanmerking.
+De partijen komen overeen te onderzoeken of de procedures voor de afgifte van visa vereenvoudigd en versneld kunnen worden, met name voor te goeder trouw zijnde personen die betrokken zijn bij de uitvoering van de overeenkomst, zoals onder andere zakenlieden, investeerders, academici, personen in opleiding en overheidsfunctionarissen. Partners en minderjarige kinderen van personen die legaal op het grondgebied van de andere partij verblijven, komen eveneens in aanmerking.
 
 ####VERKLARINGEN VAN DE EUROPESE GEMEENSCHAP
 
 ###Verklaring van de Europese Gemeenschap betreffende Turkije
 
 De Gemeenschap herinnert eraan dat, overeenkomstig de douane-unie die van kracht is tussen de Gemeenschap en Turkije, dit land verplicht is, in de betrekkingen met landen die geen lid zijn van de Gemeenschap, het gemeenschappelijk douanetarief toe te passen, alsmede, geleidelijk, de preferentiële douaneregeling van de Gemeenschap, hetgeen inhoudt dat maatregelen dienen te worden genomen en onderhandelingen dienen te worden geopend over overeenkomsten met de betrokken landen op een voor beide partijen voordelige basis. Bijgevolg nodigt de Gemeenschap Libanon uit zo spoedig mogelijk onderhandelingen te openen met Turkije.
-###Verklaring van de Europese Gemeenschap betreffende artikel 35 
+###Verklaring van de Europese Gemeenschap betreffende artikel 35  van de overeenkomst 
 
 De Europese Gemeenschap verklaart dat zij, in het kader van de interpretatie van artikel 35, lid 1, alle handelwijzen die in strijd zijn met dat artikel zal beoordelen aan de hand van de criteria die voortvloeien uit de regels die vervat zijn in de artikelen 81 en 82 van het Verdrag tot oprichting van de Europese Gemeenschap, met inbegrip van het afgeleide recht.
 
@@ -1176,13 +1177,13 @@ d. de producten, vanaf het moment dat zij naar de tentoonstelling werden verzond
 2.   Een bewijs van de oorsprong wordt overeenkomstig de bepalingen van titel V afgegeven of opgesteld en op de normale wijze bij de douaneautoriteiten van het land van invoer ingediend. Op dit bewijs zijn de naam en het adres van de tentoonstelling vermeld. Zo nodig kunnen aanvullende bewijsstukken worden gevraagd ten aanzien van de aard van de producten en de voorwaarden waarop zij werden tentoongesteld.   
 3.   Lid 1 is van toepassing op alle tentoonstellingen, beurzen of soortgelijke openbare evenementen met een commercieel, industrieel, agrarisch of ambachtelijk karakter die niet voor particuliere doeleinden in winkels of bedrijfsruimten met het oog op de verkoop van buitenlandse producten worden gehouden, en gedurende welke de producten onder douanetoezicht zijn gebleven.  
 
-### HOOFDSTUK IV 
+### TITEL IV 
 
 ####TERUGGAVE OF VRIJSTELLING
 
 ### Artikel  15  
 
-####Verbod op teruggave en vrijstelling van douanerechten
+####Verbod op teruggave of vrijstelling van douanerechten
 
 1.  Niet van oorsprong zijnde materialen die gebruikt zijn bij de vervaardiging van producten van oorsprong uit de Gemeenschap, Libanon of een van de andere in artikel 4 genoemde landen in de zin van dit protocol waarvoor overeenkomstig de bepalingen van titel V een bewijs van oorsprong is afgegeven of opgesteld, komen in de Gemeenschap of in Libanon niet in aanmerking voor de teruggave of vrijstelling van douanerechten in welke vorm dan ook.
 2.  Het verbod in lid 1 is van toepassing op elke regeling voor algehele of gedeeltelijke terugbetaling of vrijstelling van douanerechten of heffingen van gelijke werking die in de Gemeenschap of in Libanon van toepassing is op materialen die bij de vervaardiging worden gebruikt, indien een dergelijke terugbetaling of vrijstelling uitdrukkelijk of feitelijk wordt toegekend indien de producten die uit genoemde materialen zijn verkregen worden uitgevoerd, doch niet van toepassing is indien deze producten voor binnenlands gebruik zijn bestemd.
@@ -1227,6 +1228,8 @@ b. in de in artikel 21, lid 1, bedoelde gevallen, een verklaring van de exporteu
 
 ####Afgifte achteraf van een EUR.1-certificaat
 
+Wordt voorlopig toegepast per 01-01-2007 
+
 1.   In afwijking van artikel 17, lid 7, kan een EUR.1-certificaat bij wijze van uitzondering worden afgegeven na de uitvoer van de goederen waarop het betrekking heeft, indien: 
 
 a. dit door een vergissing, onopzettelijk verzuim of bijzondere omstandigheden niet bij de uitvoer is gebeurd; of  
@@ -1234,16 +1237,74 @@ a. dit door een vergissing, onopzettelijk verzuim of bijzondere omstandigheden n
 b. ten genoegen van de douaneautoriteiten wordt aangetoond dat het certificaat inzake goederenverkeer EUR.1 wel is afgegeven, maar bij invoer om technische redenen niet is aanvaard.     
 2.   Met het oog op de toepassing van lid 1 dient de exporteur in zijn aanvraag de plaats en de datum van uitvoer te vermelden van de producten waarop het certificaat inzake goederenverkeer EUR.1 betrekking heeft, onder opgave van de redenen van zijn aanvraag.   
 3.   Vóór de douaneautoriteiten tot afgifte achteraf van een certificaat inzake goederenverkeer EUR.1 overgaan, dienen zij te hebben vastgesteld dat de gegevens in de aanvraag van de exporteur overeenstemmen met die in het desbetreffende dossier.   
-4.   Op een achteraf afgegeven EUR.1-certificaat wordt een van de volgende aantekeningen aangebracht: „NACHTRÄGLICH AUSGESTELLT", „DELIVRE A POSTERIO- RI", „RILASCIATO A POSTERIORI", „AFGEGEVEN A POSTERIO- RI", „ISSUED RETROSPECTIVELY", „UDSTEDT EFTERFØLGEN- DE", „EMITIDO A POSTERIORI", „ANNETTU JÄLKIKÄTEEN", „UTFÄRDAT I EFTERHAND", „......... ".  
-5.   De in lid 4 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen" van het certificaat inzake goederenverkeer EUR.1.   
+4.  Op achteraf afgegeven certificaten inzake goederenverkeer EUR.1 moet een van de volgende vermeldingen worden aangebracht:  
+
+| --- | --- |
+|:---|:---|
+| BG  | „ИЗДАДЕН ВПОСЛЕДСТВИЕ”  |
+| ES  | „EXPEDIDO A POSTERIORI”  |
+| CS  | „VYSTAVENO DODATEČNĚ”  |
+| DA  | „UDSTEDT EFTERFØLGENDE”  |
+| DE  | „NACHTRÄGLICH AUSGESTELLT”  |
+| ET  | „VÄLJA ANTUD TAGASIULATUVALT”  |
+| EL  | „ΕΚΔΟΘΕΝ ΕΚ ΤΩΝ ΥΣΤΕΡΩΝ”  |
+| EN  | „ISSUED RETROSPECTIVELY”  |
+| FR  | „DÉLIVRÉ A POSTERIORI”  |
+| IT  | „RILASCIATO A POSTERIORI”  |
+| LV  | „IZSNIEGTS RETROSPEKTĪVI”  |
+| LT  | „RETROSPEKTYVUSIS IŠDAVIMAS”  |
+| HU  | „KIADVA VISSZAMENŐLEGES HATÁLLYAL”  |
+| MT  | „MAĦRUĠ RETROSPETTIVAMENT”  |
+| NL  | „AFGEGEVEN A POSTERIORI”  |
+| PL  | „WYSTAWIONE RETROSPEKTYWNIE”  |
+| PT  | „EMITIDO A POSTERIORI”  |
+| RO  | „EMIS A POSTERIORI”  |
+| SL  | „IZDANO NAKNADNO”  |
+| SK  | „VYDANÉ DODATOČNE”  |
+| FI  | „ANNETTU JÄLKIKÄTEEN”  |
+| SV  | „UTFÄRDAT I EFTERHAND”  |
+| AR  | „  ![10000056854](http://wetten.overheid.nl/Illustration/10000056854)
+”  |
+
+5.   De in lid 4 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen” van het certificaat inzake goederenverkeer EUR.1.   
 
 ### Artikel  19  
 
 ####Afgifte van een duplicaat van een certificaat inzake goederenverkeer EUR.1
 
+Wordt voorlopig toegepast per 01-01-2007 
+
 1.   In geval van diefstal, verlies of vernietiging van een certificaat inzake goederenverkeer EUR.1 kan de exporteur de douaneautoriteiten die het certificaat hebben afgegeven, verzoeken een duplicaat op te maken aan de hand van de uitvoerdocumenten die in hun bezit zijn.   
-2.   Op het aldus afgegeven certificaat wordt een van de volgende aantekeningen aangebracht:"DUPLIKAT", "DUPLICATA", "DUPLICATO", "DUPLICAAT", "DUPLICATE", "ANTIGRAFO", "DUPLICADO", "SEGUNDA VIA", "KAKSOISKAPPALE", ".....".   
-3.   De in lid 2 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen" van het duplicaat van het certificaat inzake goederenverkeer EUR.1.   
+2.  Op het aldus afgegeven certificaat wordt een van de volgende vermeldingen aangebracht:  
+
+| --- | --- |
+|:---|:---|
+| BG  | „ДУБЛИКАТ”  |
+| ES  | „DUPLICADO”  |
+| CS  | „DUPLIKÁT”  |
+| DA  | „DUPLIKAT”  |
+| DE  | „DUPLIKAT”  |
+| ET  | „DUPLIKAAT”  |
+| EL  | „ΑΝΤΙΓΡΑΦΟ”  |
+| EN  | „DUPLICATE”  |
+| FR  | „DUPLICATA”  |
+| IT  | „DUPLICATO”  |
+| LV  | „DUBLIKĀTS”  |
+| LT  | „DUBLIKATAS”  |
+| HU  | „MÁSODLAT”  |
+| MT  | „DUPLIKAT”  |
+| NL  | „DUPLICAAT”  |
+| PL  | „DUPLIKAT”  |
+| PT  | „SEGUNDA VIA”  |
+| RO  | „DUPLICAT”  |
+| SL  | „DVOJNIK”  |
+| SK  | „DUPLIKÁT”  |
+| FI  | „KAKSOISKAPPALE”  |
+| SV  | „DUPLIKAT”  |
+| AR  | „  ![10000056855](http://wetten.overheid.nl/Illustration/10000056855)
+”  |
+
+3.   De in lid 2 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen” van het duplicaat van het certificaat inzake goederenverkeer EUR.1.   
 4.   Het duplicaat, dat dezelfde datum van afgifte draagt als het oorspronkelijke EUR.1-certificaat, geldt vanaf die datum.  
 
 ### Artikel  20  
@@ -1445,7 +1506,7 @@ De Gemeenschap en Libanon nemen, ieder voor zich, de maatregelen die nodig zijn 
 
 ####Goederen in doorvoer of in opslag
 
-De Overeenkomst kan worden toegepast op goederen die aan de bepalingen van dit Protocol voldoen en die op de datum van inwerkingtreding van de Overeenkomst onderweg zijn of die in de Gemeenschap of in Libanon tijdelijk zijn opgeslagen of zich daar in een douane-entrepot of vrije zone bevinden, mits binnen vier maanden na die datum een EUR.1-certificaat bij de douaneautoriteiten van de Staat van invoer wordt ingediend dat achteraf door de bevoegde instanties van de Staat van uitvoer is afgegeven, te zamen met de documenten waaruit blijkt dat de goederen rechtstreeks zijn vervoerd. 
+De Overeenkomst kan worden toegepast op goederen die aan de bepalingen van dit Protocol voldoen en die op de datum van inwerkingtreding van de Overeenkomst onderweg zijn of die in de Gemeenschap of in Libanon tijdelijk zijn opgeslagen in een douane-entrepot of vrije zone, mits binnen vier maanden na die datum een EUR.1-certificaat bij de douaneautoriteiten van de Staat van invoer wordt ingediend dat achteraf door de bevoegde instanties van de Staat van uitvoer is afgegeven, te zamen met de documenten waaruit blijkt dat de goederen rechtstreeks zijn vervoerd. 
 
 ### Protocol 5 
 
@@ -1561,7 +1622,7 @@ f. een overzicht van de relevante feiten en van het onderzoek dat reeds is uitge
 
 ### Artikel  9  
 
-####Gevallen waarin geen bijstand behoeft te worden verleend
+####Gevallen waarin geen bijstand hoeft te worden verleend
 
 1.   Bijstand kan worden geweigerd of van voorwaarden of eisen afhankelijk worden gesteld wanneer een partij van oordeel is dat bijstand op grond van dit protocol: 
 
@@ -1616,3 +1677,8 @@ De overeenkomstsluitende partijen brengen elkaar geen kosten in rekening voor ui
 2.   Onverminderd het bepaalde in lid 1 hebben de bepalingen van dit protocol voorrang op de bepalingen van bilaterale overeenkomsten betreffende wederzijdse bijstand die tussen afzonderlijke lidstaten en Libanon zijn of kunnen worden gesloten, indien de bepalingen van laatstgenoemde overeenkomsten met die van dit protocol strijdig zijn.   
 3.   Ten aanzien van vraagstukken in verband met de toepassing van dit protocol plegen de overeenkomstsluitende partijen onderling overleg om deze op te lossen in het kader van het door de Associatieraad, overeenkomstig artikel 12 van de Associatieovereenkomst ingestelde (ad hoc-comité).  
 
+####Protocol
+
+Wordt voorlopig toegepast per 09-02-2015 
+
+Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken en is gepubliceerd in PbEU 2015, L 47.
