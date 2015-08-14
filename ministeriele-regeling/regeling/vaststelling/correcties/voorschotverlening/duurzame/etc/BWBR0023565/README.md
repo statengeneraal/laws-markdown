@@ -9,10 +9,7 @@ Besluit:
 
 ####Begripsbepalingen
 
-Materieel uitgewerkt per 01-04-2010 
-
 ### Artikel  1  
-Materieel uitgewerkt per 01-04-2010 
 
 In deze regeling wordt verstaan onder: 
 
@@ -26,10 +23,7 @@ c. basisbedrag: het basisbedrag, bedoeld in artikel 11 van het besluit.
 
 ####Correctiebedragen voorschotverlening productie van hernieuwbare elektriciteit
 
-Materieel uitgewerkt per 01-04-2010 
-
 ### Artikel  2  
-Materieel uitgewerkt per 01-04-2010 
 
 De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 3, eerste lid, van de regeling worden voor 2008 als volgt vastgesteld: 
 
@@ -38,7 +32,6 @@ a.  € 0,065 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artik
 b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.   
 
 ### Artikel  3  
-Materieel uitgewerkt per 01-04-2010 
 
 De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 9, eerste lid, van de regeling worden voor 2008 als volgt vastgesteld: 
 
@@ -47,7 +40,6 @@ a. € 0,234 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artike
 b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.   
 
 ### Artikel  4  
-Materieel uitgewerkt per 01-04-2010 
 
 De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 15, eerste lid, van de regeling worden voor 2008 als volgt vastgesteld: 
 
@@ -56,7 +48,6 @@ a. € 0,121 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artike
 b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.   
 
 ### Artikel  5  
-Materieel uitgewerkt per 01-04-2010 
 
 De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 22, eerste lid, van de regeling worden voor 2008 als volgt vastgesteld: 
 
@@ -65,7 +56,6 @@ a. € 0,058 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artike
 b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.   
 
 ### Artikel  6  
-Materieel uitgewerkt per 01-04-2010 
 
 De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 29, eerste lid, van de regeling worden voor 2008 als volgt vastgesteld: 
 
@@ -77,10 +67,7 @@ b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, ond
 
 ####Correctiebedragen voorschotverlening productie van hernieuwbaar gas
 
-Materieel uitgewerkt per 01-04-2010 
-
 ### Artikel  7  
-Materieel uitgewerkt per 01-04-2010 
 
 De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in in de artikelen 36, eerste lid, en artikel 42a, eerste lid, van de regeling worden voor 2008 als volgt vastgesteld: 
 
@@ -92,15 +79,11 @@ b. € 0 voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, ond
 
 ####Slotbepalingen
 
-Materieel uitgewerkt per 01-04-2010 
-
 ### Artikel  8  
-Materieel uitgewerkt per 01-04-2010 
 
 Deze regeling treedt in werking op het tijdstip waarop het Besluit stimulering duurzame energieproductie in werking treedt. 
 
 ### Artikel  9  
-Materieel uitgewerkt per 01-04-2010 
 
 Deze regeling wordt aangehaald als: Regeling vaststelling correcties voorschotverlening duurzame energieproductie 2008. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   

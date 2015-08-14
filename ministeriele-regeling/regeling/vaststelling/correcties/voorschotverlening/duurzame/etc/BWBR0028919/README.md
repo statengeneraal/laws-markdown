@@ -9,10 +9,7 @@ Besluit:
 
 ####Begripsbepalingen
 
-Materieel uitgewerkt per 01-01-2013 
-
 ### Artikel  1  
-Materieel uitgewerkt per 01-01-2013 
 
 In deze regeling wordt verstaan onder: 
 
@@ -32,10 +29,7 @@ f.  *tenderbedrag:* het tenderbedrag, bedoeld in artikel 19, eerste lid, van he
 
 ####Voorlopige correctiebedragen voorschotverlening Regeling aanwijzing categorieën duurzame energieproductie 2008
 
-Materieel uitgewerkt per 01-01-2013 
-
 ### Artikel  2  
-Materieel uitgewerkt per 01-01-2013 
 
 1.  De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 3, eerste lid, van de regeling 2008 worden voor 2011 als volgt vastgesteld: 
 
@@ -64,7 +58,6 @@ a. de basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit zoals vas
 b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.    
 
 ### Artikel  3  
-Materieel uitgewerkt per 01-01-2013 
 
 1.  De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 36, eerste lid, van de regeling 2008 worden voor 2011 als volgt vastgesteld: 
 
@@ -81,10 +74,7 @@ b. € 0 voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, on
 
 ####Voorlopige correctiebedragen voorschotverlening Regeling aanwijzing categorieën duurzame energieproductie 2009
 
-Materieel uitgewerkt per 01-01-2013 
-
 ### Artikel  4  
-Materieel uitgewerkt per 01-01-2013 
 
 1.  De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 2, eerste lid, van de regeling 2009 worden voor 2011 als volgt vastgesteld: 
 
@@ -128,7 +118,6 @@ a. de basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit zoals vas
 b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.    
 
 ### Artikel  5  
-Materieel uitgewerkt per 01-01-2013 
 
 1.  De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 44, eerste lid, van de regeling 2009 worden voor 2011 als volgt vastgesteld: 
 
@@ -145,10 +134,7 @@ b. € 0 voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, on
 
 ####Voorlopige correctiebedragen voorschotverlening Regeling windenergie op zee 2009
 
-Materieel uitgewerkt per 01-01-2013 
-
 ### Artikel  6  
-Materieel uitgewerkt per 01-01-2013 
 
 De correcties op het tenderbedrag voor de subsidie als bedoeld in artikel 2, eerste lid, van de Regeling windenergie op zee 2009 worden voor 2011 als volgt vastgesteld: 
 
@@ -160,10 +146,7 @@ b. € 0 voor wat betreft de correcties, bedoeld in artikel 22, eerste lid, on
 
 ####Voorlopige correctiebedragen voorschotverlening Regeling aanwijzing categorieën duurzame energieproductie 2010
 
-Materieel uitgewerkt per 01-01-2013 
-
 ### Artikel  7  
-Materieel uitgewerkt per 01-01-2013 
 
 1.  De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 2, eerste lid, onder a, van de regeling 2010 worden voor 2011 als volgt vastgesteld: 
 
@@ -207,7 +190,6 @@ a. de basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit zoals vas
 b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.    
 
 ### Artikel 8  
-Materieel uitgewerkt per 01-01-2013 
 
 1.  De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 47, eerste lid, van de regeling 2010 worden voor 2011 als volgt vastgesteld: 
 
@@ -224,15 +206,11 @@ b. € 0 voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, ond
 
 ####Slotbepalingen
 
-Materieel uitgewerkt per 01-01-2013 
-
 ### Artikel  9  
-Materieel uitgewerkt per 01-01-2013 
 
 Deze regeling treedt in werking met ingang van 1 januari 2011. 
 
 ### Artikel  10  
-Materieel uitgewerkt per 01-01-2013 
 
 Deze regeling wordt aangehaald als: Regeling vaststelling correcties voorschotverlening duurzame energieproductie 2011. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   

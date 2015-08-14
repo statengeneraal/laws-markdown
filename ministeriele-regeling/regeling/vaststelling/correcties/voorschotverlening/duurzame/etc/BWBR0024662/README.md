@@ -9,10 +9,7 @@ Besluit:
 
 ####Begripsbepalingen
 
-Materieel uitgewerkt per 01-01-2011 
-
 ### Artikel  1  
-Materieel uitgewerkt per 01-01-2011 
 
 In deze regeling wordt verstaan onder: 
 
@@ -26,10 +23,7 @@ c.  *basisbedrag:* het basisbedrag, bedoeld in artikel 11, eerste lid, en 28, ee
 
 ####Voorlopige correctiebedragen voorschotverlening productie van hernieuwbare elektriciteit
 
-Materieel uitgewerkt per 01-01-2011 
-
 ### Artikel  2  
-Materieel uitgewerkt per 01-01-2011 
 
 De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 3, eerste lid, van de regeling worden voor 2009 als volgt vastgesteld: 
 
@@ -38,7 +32,6 @@ a. € 0,078 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artike
 b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.   
 
 ### Artikel  3  
-Materieel uitgewerkt per 01-01-2011 
 
 De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 9, eerste lid, van de regeling worden voor 2009 als volgt vastgesteld: 
 
@@ -47,7 +40,6 @@ a. € 0,273 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artike
 b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.   
 
 ### Artikel  4  
-Materieel uitgewerkt per 01-01-2011 
 
 De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 15, eerste lid, van de regeling worden voor 2009 als volgt vastgesteld: 
 
@@ -56,7 +48,6 @@ a. € 0,146 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artike
 b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.   
 
 ### Artikel  5  
-Materieel uitgewerkt per 01-01-2011 
 
 De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 22, eerste lid, van de regeling worden voor 2009 als volgt vastgesteld: 
 
@@ -65,7 +56,6 @@ a. € 0,07 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artikel
 b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.   
 
 ### Artikel  6  
-Materieel uitgewerkt per 01-01-2011 
 
 De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 29, eerste lid, van de regeling worden voor 2009 als volgt vastgesteld: 
 
@@ -77,10 +67,7 @@ b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, ond
 
 ####Correctiebedragen voorschotverlening productie van hernieuwbaar gas
 
-Materieel uitgewerkt per 01-01-2011 
-
 ### Artikel  7  
-Materieel uitgewerkt per 01-01-2011 
 
 De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 36, eerste lid, van de regeling worden voor 2009 als volgt vastgesteld: 
 
@@ -89,7 +76,6 @@ a. € 0,221 per Nm<sup>3</sup> voor wat betreft de gasprijs, bedoeld in artike
 b. € 0 voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, onderdeel b, van het besluit.   
 
 ### Artikel  7a  
-Materieel uitgewerkt per 01-01-2011 
 
 De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 42a, eerste lid, van de regeling worden voor 2009 als volgt vastgesteld: 
 
@@ -101,15 +87,11 @@ b. € 0 voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, ond
 
 ####Slotbepalingen
 
-Materieel uitgewerkt per 01-01-2011 
-
 ### Artikel  8  
-Materieel uitgewerkt per 01-01-2011 
 
 Deze regeling treedt in werking op 1 januari 2009. 
 
 ### Artikel  9  
-Materieel uitgewerkt per 01-01-2011 
 
 Deze regeling wordt aangehaald als: Regeling vaststelling correcties voorschotverlening duurzame energieproductie 2009. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   

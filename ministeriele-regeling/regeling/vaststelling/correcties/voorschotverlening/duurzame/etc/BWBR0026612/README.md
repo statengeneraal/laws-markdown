@@ -9,10 +9,7 @@ Besluit:
 
 ####Begripsbepalingen
 
-Materieel uitgewerkt per 01-01-2012 
-
 ### Artikel  1  
-Materieel uitgewerkt per 01-01-2012 
 
 In deze regeling wordt verstaan onder: 
 
@@ -28,10 +25,7 @@ d.  *basisbedrag:* het basisbedrag, bedoeld in artikel 11, eerste lid, en 28, ee
 
 ####Voorlopige correctiebedragen voorschotverlening Regeling aanwijzing categorieën duurzame energieproductie 2008
 
-Materieel uitgewerkt per 01-01-2012 
-
 ### Artikel  2  
-Materieel uitgewerkt per 01-01-2012 
 
 1.  De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 3, eerste lid, van de regeling 2008 worden voor 2010 als volgt vastgesteld: 
 
@@ -60,7 +54,6 @@ a. € 0,047 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artikel
 b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.    
 
 ### Artikel  3  
-Materieel uitgewerkt per 01-01-2012 
 
 1.  De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 36, eerste lid, van de regeling 2008 worden voor 2010 als volgt vastgesteld: 
 
@@ -77,10 +70,7 @@ b. € 0 voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, onde
 
 ####Voorlopige correctiebedragen voorschotverlening Regeling aanwijzing categorieën duurzame energieproductie 2009
 
-Materieel uitgewerkt per 01-01-2012 
-
 ### Artikel  4  
-Materieel uitgewerkt per 01-01-2012 
 
 1.  De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 2, eerste lid, van de regeling 2009 worden voor 2010 als volgt vastgesteld: 
 
@@ -119,7 +109,6 @@ a. € 0,047 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artikel
 b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.    
 
 ### Artikel  5  
-Materieel uitgewerkt per 01-01-2012 
 
 1.  De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 44, eerste lid, van de regeling 2009 worden voor 2010 als volgt vastgesteld: 
 
@@ -136,15 +125,11 @@ b. € 0 voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, onde
 
 ####Slotbepalingen
 
-Materieel uitgewerkt per 01-01-2012 
-
 ### Artikel  6  
-Materieel uitgewerkt per 01-01-2012 
 
 Deze regeling treedt in werking op 1 januari 2010. 
 
 ### Artikel  7  
-Materieel uitgewerkt per 01-01-2012 
 
 Deze regeling wordt aangehaald als: Regeling vaststelling correcties voorschotverlening duurzame energieproductie 2010. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   

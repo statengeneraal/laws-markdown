@@ -9,10 +9,7 @@ Besluit:
 
 ####Begripsbepalingen
 
-Materieel uitgewerkt per 01-01-2015 
-
 ### Artikel  1  
-Materieel uitgewerkt per 01-01-2015 
 
 In deze regeling wordt verstaan onder: 
 
@@ -36,10 +33,7 @@ In deze regeling wordt verstaan onder:
 
 ####Correctiebedragen hernieuwbare elektriciteit
 
-Materieel uitgewerkt per 01-01-2015 
-
 ### Artikel  2  
-Materieel uitgewerkt per 01-01-2015 
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2013 vastgesteld voor wat betreft de elektriciteitsprijs, bedoeld in artikel 14, eerste lid, onderdeel a, van het besluit, het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.  
 
@@ -102,7 +96,6 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 | Artikel 36, eerste lid  | Vrije stroming  | € 0,048 per kWh  | € 0 per kWh  |
 
 ### Artikel  3  
-Materieel uitgewerkt per 01-01-2015 
 
 De correcties op het tenderbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2013 vastgesteld voor wat betreft de elektriciteitsprijs, bedoeld in artikel 22, eerste lid, onderdeel a, van het besluit, het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 22, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.  
 
@@ -114,10 +107,7 @@ De correcties op het tenderbedrag voor subsidie voor een productie-installatie a
 
 ####Correctiebedragen hernieuwbaar gas
 
-Materieel uitgewerkt per 01-01-2015 
-
 ### Artikel  4  
-Materieel uitgewerkt per 01-01-2015 
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2013 vastgesteld voor wat betreft de gasprijs, bedoeld in artikel 31, eerste lid, onderdeel a, van het besluit, het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, onderdeel b, van het besluit, het in de vierde kolom genoemde bedrag.  
 
@@ -153,10 +143,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 
 ####Correctiebedragen hernieuwbare warmte en gecombineerde opwekking van hernieuwbare elektriciteit en hernieuwbare warmte
 
-Materieel uitgewerkt per 01-01-2015 
-
 ### Artikel  5  
-Materieel uitgewerkt per 01-01-2015 
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2013 vastgesteld voor wat betreft de energieprijs, bedoeld in artikel 47, eerste lid, onderdeel a, van het besluit het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 47, eerste lid, onderdelen b en c, het in de vierde kolom genoemde bedrag.  
 
@@ -181,15 +168,11 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 
 ####Slotbepalingen
 
-Materieel uitgewerkt per 01-01-2015 
-
 ### Artikel  6  
-Materieel uitgewerkt per 01-01-2015 
 
 Deze regeling treedt in werking met ingang van 1 januari 2013. 
 
 ### Artikel  7  
-Materieel uitgewerkt per 01-01-2015 
 
 Deze regeling wordt aangehaald als: Regeling vaststelling correcties voorschotverlening duurzame energieproductie 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   

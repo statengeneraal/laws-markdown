@@ -211,7 +211,7 @@ Aanbestedende diensten die voornemens zijn een schriftelijke overeenkomst onder 
 
 ### Afdeling  1.2.2  
 
-####Beginselen bij europese aanbestedingen
+####Beginselen bij Europese aanbestedingen
 
 ### Artikel  1.7  
 
@@ -369,7 +369,7 @@ De bepalingen in deze afdeling gelden voor aanbestedende diensten en speciale-se
 
 ### Hoofdstuk  1.5  
 
-####Voorwaarden in verband met in het kader van de wereldhandelsorganisatie gesloten overeenkomsten
+####Voorwaarden in verband met in het kader van de Wereldhandelsorganisatie gesloten overeenkomsten
 
 ### Artikel  1.23  
 
@@ -1208,7 +1208,7 @@ b. deze melding of verwijzing vergezeld gaat van de woorden «of gelijkwaardig»
 
 ### Artikel  2.77  
 
-1.  Een aanbestedende dienst die verwijst naar de specificaties, bedoeld in artikel 2.76 eerste lid, onderdeel a, , wijst een inschrijving niet af omdat de aangeboden producten en diensten niet voldoen aan de specificaties waarnaar hij heeft verwezen, indien de inschrijver in zijn inschrijving tot voldoening van de aanbestedende dienst aantoont dat de door hem voorgestelde oplossingen op gelijkwaardige wijze voldoen aan de eisen in die technische specificaties.   
+1.  Een aanbestedende dienst die verwijst naar de specificaties, bedoeld in artikel 2.76, eerste lid, onderdeel a, wijst een inschrijving niet af omdat de aangeboden producten en diensten niet voldoen aan de specificaties waarnaar hij heeft verwezen, indien de inschrijver in zijn inschrijving tot voldoening van de aanbestedende dienst aantoont dat de door hem voorgestelde oplossingen op gelijkwaardige wijze voldoen aan de eisen in die technische specificaties.   
 2.  Een aanbestedende dienst die prestatie-eisen of functionele eisen stelt als bedoeld in artikel 2.76, eerste lid, onderdelen b en c, wijst een inschrijving voor werken, producten of diensten niet af indien die inschrijving voldoet: 
 
 a. aan een nationale norm waarin een Europese norm is omgezet,  
@@ -1312,7 +1312,7 @@ b. omkoping in de zin van artikel 3 van het besluit van de Raad van 26 mei 1997
 c. fraude in de zin van artikel 1 van de overeenkomst aangaande de bescherming van de financiële belangen van de Gemeenschap (PbEG 1995, C 316);  
 
 d. witwassen van geld in de zin van artikel 1 van richtlijn nr. 91/308/EEG van de Raad van 10 juni 1991 tot voorkoming van het gebruik van het financiële stelsel voor het witwassen van geld (PbEG L 1991, L 166) zoals gewijzigd bij richtlijn nr. 2001/97/EG van het Europees Parlement en de Raad (PbEG L 2001, 344).     
-3.  Als veroordelingen als bedoeld in het tweede lid worden in ieder geval aangemerkt veroordelingen op grond van artikel 140, 177, 177a, 178, 225, 226, 227, 227a, 227b of 323a, 328ter, tweede lid, 420bis, 420ter of 420quater van het Wetboek van Strafrecht.   
+3.  Als veroordelingen als bedoeld in het tweede lid worden in ieder geval aangemerkt veroordelingen op grond van artikel 140, 177, 178, 225, 226, 227, 227a, 227b of 323a, 328ter, tweede lid, 420bis, 420ter of 420quater van het Wetboek van Strafrecht.   
 4.  De aanbestedende dienst betrekt bij de toepassing van het eerste lid uitsluitend rechterlijke uitspraken die in de vier jaar voorafgaand aan het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving onherroepelijk zijn geworden.  
 
 ### Artikel  2.87  
