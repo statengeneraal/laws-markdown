@@ -727,14 +727,14 @@ c. indien voor de inschrijving betekening aan de veroordeelde vereist is, een do
 5. Ter inschrijving van het verval aan de Staat van registergoederen of hetgeen daarvoor in de plaats is gekomen krachtens artikel 226, vierde lid, van Boek 4 van het Burgerlijk Wetboek wordt aangeboden een verklaring van Onze Minister van Financiën, inhoudende dat tijdens het in dat artikel genoemde tijdvak van twintig jaren die goederen niet zijn opgeëist.
 
 ### Artikel  27a  
-Treedt in werking per 17-08-2015 
 
 1.  Onverminderd artikel 27 kan ter inschrijving van erfopvolgingen die registergoederen betreffen, een gewaarmerkt afschrift van een Europese erfrechtverklaring als bedoeld in artikel 62, eerste lid, van de verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PbEU 2012, L 201), worden aangeboden, waaruit van de erfopvolging blijkt.   
 2.  Het in het eerste lid bedoelde gewaarmerkte afschrift van een Europese erfrechtverklaring wordt ook aangeboden ter inschrijving van een legaat, executele of de benoeming van een beheerder van de nalatenschap als bedoeld in artikel 63 van de in het eerste lid bedoelde verordening.  
 
 ### Artikel  28  
 
-Ter inschrijving van de aanvaarding van een nalatenschap onder het voorrecht van boedelbeschrijving of de verwerping van een nalatenschap wordt een door de griffier getekend uittreksel uit het boedelregister aangeboden, inhoudende de verklaring betreffende de aanvaarding of de verwerping die krachtens artikel 191 van Boek 4 van het Burgerlijk Wetboek in het boedelregister is ingeschreven. 
+1. Ter inschrijving van de aanvaarding van een nalatenschap onder het voorrecht van boedelbeschrijving of de verwerping van een nalatenschap wordt een door de griffier getekend uittreksel uit het boedelregister aangeboden, inhoudende de verklaring betreffende de aanvaarding of de verwerping die krachtens artikel 191 van Boek 4 van het Burgerlijk Wetboek in het boedelregister is ingeschreven.  
+2.  Het eerste lid is van overeenkomstige toepassing op de inschrijving van de verklaring betreffende aanvaarding of verwerping van een legaat bedoeld in artikel 2, derde lid, van de Uitvoeringswet Verordening erfrecht. 
 
 ### Artikel  29  
 

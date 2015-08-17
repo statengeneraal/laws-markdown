@@ -116,6 +116,7 @@ c. niet krachtens rechterlijke uitspraak van het geven van onderwijs is uitgeslo
 a. beschikt over een in dat onderdeel b. 1° bedoeld getuigschrift waaruit blijkt dat wordt voldaan aan de bekwaamheidseisen die zijn vastgesteld krachtens artikel 32a, eerste lid, en  
 
 b. in het bezit is van een bij ministeriële regeling aangewezen getuigschrift dat specifiek is gericht op de bekwaamheid tot het geven van dat onderwijs, of onderwijs volgt ter verkrijging van een dergelijk getuigschrift, in welk laatste geval betrokkene het onderwijs in deze onderwijsactiviteiten mag geven gedurende ten hoogste twee aaneengesloten schooljaren, gerekend vanaf het moment waarop betrokkene het onderwijs ter verkrijging van dit getuigschrift voor de eerste maal volgt.     
+2a.  Het onderwijs in de onderwijsactiviteiten zintuigelijke oefening en lichamelijke oefening in groepen bestemd voor leerlingen in het voortgezet speciaal onderwijs wordt, in afwijking van het eerste lid, onderdeel b, onder 1, uitsluitend gegeven door degene die in het bezit is van een getuigschrift, afgegeven krachtens de Wet op het hoger onderwijs en wetenschappelijk onderzoek, waaruit blijkt dat ten aanzien van dat onderwijs is voldaan aan de bekwaamheidseisen die zijn vastgesteld krachtens artikel 36, eerste lid, van de Wet op het voortgezet onderwijs.  
 3.  Onze minister kan aan personen die in het bezit zijn van een buiten Nederland behaald bewijsstuk waarmee de bekwaamheid wordt aangetoond, de bevoegdheid tot het geven van speciaal onderwijs en voortgezet speciaal onderwijs verlenen. Hij kan daarbij voorwaarden en beperkingen stellen.    
 4.  Onze minister kan met betrekking tot een vak waarvoor geen lerarenopleiding bestaat en ook anderszins niet aan de hand van enig bewijsstuk kan worden aangetoond dat betrokkene voldoet aan de bekwaamheidseisen, verklaren dat een leraar wordt geacht te voldoen aan de bekwaamheidseisen tot het geven van voortgezet speciaal onderwijs in dat vak.    
 5.  Bij tijdelijke afwezigheid van een leraar kan ten aanzien van degene die hem vervangt voor ten hoogste twaalf maanden worden afgeweken van de eisen, gesteld in het eerste lid, onderdeel b, met dien verstande dat de periode van twaalf maanden is verstreken vanaf de dag dat perioden van vervanging als bedoeld in dit lid elkaar met tussenpozen van niet meer dan drie maanden hebben opgevolgd en een periode van twaalf maanden, deze tussenpozen inbegrepen, is overschreden. Indien in een vacature niet terstond kan worden voorzien door de benoeming of tewerkstelling zonder benoeming van een leraar die aan de genoemde eisen voldoet, is het bepaalde in de vorige volzin van overeenkomstige toepassing. Deze termijn van een jaar kan met ten hoogste twee jaren worden verlengd indien het bevoegd gezag en de betrokkene schriftelijk verklaren dat betrokkene verplicht is zich in te spannen binnen twee jaren alsnog te voldoen aan de eisen gesteld in het eerste lid, onderdeel b. Het bevoegd gezag kan onder de voorwaarden, genoemd in de vorige volzin, een verlenging van nog eens twee jaren geven indien het dat noodzakelijk oordeelt vanwege de kwaliteit en de voortgang van het onderwijs op de school. Het bevoegd gezag beschikt over geordende gegevens met betrekking tot de toepassing van dit lid.   
@@ -151,8 +152,8 @@ e.niet krachtens rechterlijke uitspraak is uitgesloten van het verrichten van de
 4.  De regeling voorziet erin dat het vervoer kan plaatsvinden op een wijze die voor de leerling passend is. De regeling bepaalt op welke wijze burgemeester en wethouders terzake advies van deskundigen inwinnen.    
 5.  De regeling bepaalt dat de kosten worden vergoed van vervoer over de afstand tussen de woning van de leerling en de dichtstbijzijnde voor de leerling toegankelijke school, met inachtneming van de keuze van de ouders, dan wel, indien de leerling meerderjarig en handelingsbekwaam is, van de leerling, en gemeten langs de kortste voor de leerling voldoende begaanbare en veilige weg, tenzij vervoer met betrekking tot een verder weg gelegen school voor de gemeente minder kosten met zich zou brengen en de ouders onderscheidenlijk de leerling met het vervoer naar die school instemmen.   
 6.  De regeling bepaalt in welke gevallen en onder welke voorwaarden burgemeester en wethouders aan in de gemeente wonende ouders van leerlingen die met het oog op het volgen van voor hen passend speciaal onderwijs of voortgezet speciaal onderwijs in een internaat of pleeggezin verblijven, op aanvraag bekostiging verstrekken ten behoeve van de kosten verbonden aan het weekeinde- en vakantievervoer.    
-7.  De regeling kan per schoolsoort, als bedoeld in artikel 2, tweede lid, en onverminderd het bepaalde in het vierde lid voor leerlingen die wegens hun lichamelijke, verstandelijke of zintuiglijke handicap op ander vervoer dan openbaar vervoer zijn aangewezen, bepalen dat geen aanspraak op bekostiging bestaat op grond van de afstand tussen de voor de leerling toegankelijke school en de woning van de leerling, gemeten langs de kortste voor de leerling voldoende begaanbare en veilige weg.    
-8.  De regeling kan per schoolsoort, als bedoeld in artikel 2, tweede lid, bepalen dat voor een leerling die ouder is dan een bepaalde leeftijd, de aanspraak op bekostiging wordt beperkt tot de kosten van openbaar vervoer, dan wel, indien zulks in redelijkheid kan worden verlangd, een goedkopere wijze van vervoer. In dat geval dient de regeling erin te voorzien, dat uitvoering wordt gegeven aan het bepaalde in het vierde lid voor die leerlingen voor wie openbaar vervoer ontbreekt en de in de vorige volzin bedoelde goedkopere wijze van vervoer in redelijkheid niet kan worden verlangd en voor die leerlingen die wegens hun lichamelijke, verstandelijke of zintuiglijke handicap op ander vervoer dan openbaar vervoer zijn aangewezen.    
+7.  De regeling kan per schoolsoort, als bedoeld in artikel 2, tweede lid, en onverminderd het bepaalde in het vierde lid voor leerlingen die wegens hun lichamelijke, verstandelijke, zintuiglijke of psychische handicap op ander vervoer dan openbaar vervoer zijn aangewezen, bepalen dat geen aanspraak op bekostiging bestaat op grond van de afstand tussen de voor de leerling toegankelijke school en de woning van de leerling, gemeten langs de kortste voor de leerling voldoende begaanbare en veilige weg.    
+8.  De regeling kan per schoolsoort, als bedoeld in artikel 2, tweede lid, bepalen dat voor een leerling die ouder is dan een bepaalde leeftijd, de aanspraak op bekostiging wordt beperkt tot de kosten van openbaar vervoer, dan wel, indien zulks in redelijkheid kan worden verlangd, een goedkopere wijze van vervoer. In dat geval dient de regeling erin te voorzien, dat uitvoering wordt gegeven aan het bepaalde in het vierde lid voor die leerlingen voor wie openbaar vervoer ontbreekt en de in de vorige volzin bedoelde goedkopere wijze van vervoer in redelijkheid niet kan worden verlangd en voor die leerlingen die wegens hun lichamelijke, verstandelijke, zintuiglijke of psychische handicap op ander vervoer dan openbaar vervoer zijn aangewezen.    
 9.  De regeling kan bepalen dat de gemeente, in plaats van bekostiging in geld te geven, het vervoer verzorgt of doet verzorgen.   
 10.  De regeling kan bepalen dat burgemeester en wethouders in bijzondere gevallen de bevoegdheid hebben ten gunste van de ouders, dan wel, indien de leerling meerderjarig en handelingsbekwaam is, ten gunste van de leerling van de inhoud van de regeling af te wijken.   
 
@@ -173,6 +174,23 @@ e.niet krachtens rechterlijke uitspraak is uitgesloten van het verrichten van de
 3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1.1 van de Jeugdwet.   
 4.  Het bevoegd gezag bevordert de kennis en het gebruik van de meldcode.   
 5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.  
+
+### Artikel  5a  
+
+####Zorgplicht veiligheid op school
+
+1.  Het bevoegd gezag draagt zorg voor de veiligheid op school, waarbij het bevoegd gezag in ieder geval: 
+
+a. beleid met betrekking tot de veiligheid voert,  
+
+b. de veiligheid van leerlingen op school monitort met een instrument dat een representatief en actueel beeld geeft, en  
+
+c. er zorg voor draagt dat bij een persoon ten minste de volgende taken zijn belegd: 
+
+1°. het coördineren van het beleid in het kader van het tegengaan van pesten, en  
+
+2°. het fungeren als aanspreekpunt in het kader van pesten.       
+2.  Onder veiligheid, bedoeld in het eerste lid, wordt verstaan de sociale, psychische en fysieke veiligheid van leerlingen.  
 
 ### Artikel  6  
 
@@ -228,25 +246,30 @@ c. het verrichten van algemene ondersteuningsactiviteiten ten behoeve van de bev
 
 ####Uitgangspunten en doelstelling onderwijs
 
-1.  Het onderwijs wordt afgestemd op de ontwikkelingsmogelijkheden van de leerling. Zo nodig treedt het bevoegd gezag daarbij in overleg met:
+1.  Het onderwijs wordt afgestemd op de ontwikkelingsmogelijkheden van de leerling. Zo nodig treedt het bevoegd gezag daarbij in overleg met: 
 
 a. het college van burgemeester en wethouders van de gemeente waar de leerling zijn woonplaats heeft als bedoeld in artikel 1.1. van de Jeugdwet,  
 
-b. een instantie die jeugdgezondheidszorg uitvoert als bedoeld in artikel 5 van de Wet publieke gezondheid,  
+b. een instantie die jeugdgezondheidszorg uitvoert als bedoeld in artikel 5 van de Wet publieke gezondheid.  
 
-c. een instantie die maatschappelijke ondersteuning biedt als bedoeld in artikel 1, eerste lid, onder g, 2°, van de Wet maatschappelijke ondersteuning,  
+c. een instantie die maatschappelijke ondersteuning biedt als bedoeld in artikel 1, eerste lid, onder g, 2°, van de Wet maatschappelijke ondersteuning,  
 
-d. een zorgaanbieder als bedoeld in artikel 1, eerste lid, onder j, van de Algemene Wet Bijzondere Ziektekosten of  
+d. een zorgaanbieder als bedoeld in artikel 1, eerste lid, onder j, van de Algemene Wet Bijzondere Ziektekosten of  
 
-e. een zorgaanbieder die geneeskundige geestelijke gezondheidszorg levert welke behoort tot de prestaties omschreven bij of krachtens de Zorgverzekeringswet.  Het onderwijs wordt zodanig ingericht dat de leerling een ononderbroken ontwikkelingsproces kan doorlopen. Zo mogelijk brengt het kinderen tot het volgen van gewoon onderwijs in basisscholen of scholen voor voortgezet onderwijs.    
-2.  Het bevoegd gezag stelt ten minste eenmaal in de 4 jaar een schoolondersteuningsprofiel vast.  
+e. een zorgaanbieder die geneeskundige geestelijke gezondheidszorg levert welke behoort tot de prestaties omschreven bij of krachtens de Zorgverzekeringswet.   Het onderwijs wordt zodanig ingericht dat de leerling een ononderbroken ontwikkelingsproces kan doorlopen. Zo mogelijk brengt het kinderen tot het volgen van gewoon onderwijs in basisscholen of scholen voor voortgezet onderwijs.   
+2.  Het bevoegd gezag stelt ten minste eenmaal in de 4 jaar een schoolondersteuningsprofiel vast.   
 3.  Het onderwijs richt zich in elk geval op de emotionele en de verstandelijke ontwikkeling, op het ontwikkelen van creativiteit, het verwerven van kennis en van sociale, culturele en lichamelijke vaardigheden. Het onderwijs wordt bovendien zodanig ingericht dat daarbij op structurele en herkenbare wijze aandacht wordt besteed aan het bestrijden van achterstanden in het bijzonder in de beheersing van de Nederlandse taal.   
-4.  Vervallen.   
-5.  Het onderwijs wordt zodanig ingericht dat de leerlingen in de leeftijd van 4 tot en met 12 jaar in een tijdvak van 8 schooljaren ten minste 7520 uren onderwijs ontvangen, met dien verstande dat de leerlingen in de eerste 4 schooljaren ten minste 3520 uren onderwijs en in de laatste 4 schooljaren ten minste 3760 uren onderwijs ontvangen. Het onderwijs aan leerlingen jonger dan 4 jaar omvat ten minste 880 uren per schooljaar en aan leerlingen ouder dan 12 jaar ten minste 1000 uren per schooljaar. Aan de leerlingen in de laatste 6 schooljaren wordt ten hoogste 7 weken van het schooljaar 4 dagen per week onderwijs gegeven, die evenwichtig zijn verdeeld over het schooljaar, bij een schoolweek van in beginsel niet minder dan 5 dagen onderwijs.   
-6.  De onderwijsactiviteiten worden evenwichtig over de dag verdeeld.   
-7.  De scholen gebruiken een leerling- en onderwijsvolgsysteem waaruit de vorderingen in de kennis en vaardigheden blijken op het niveau van de leerling, de groep en de school. Het leerling- en onderwijsvolgsysteem bevat toetsen die kennis en vaardigheden van de leerling meten op de terreinen, genoemd in het tweede lid.   
-8.  De toetsen, bedoeld in het zevende lid, voldoen aan het kwaliteitsoordeel van een door Onze minister aangewezen onafhankelijke commissie betreffende inhoudelijke validiteit, betrouwbaarheid en deugdelijke normering. Bij of krachtens algemene maatregel van bestuur kunnen voorschriften omtrent het leerling- en onderwijsvolgsysteem en de daaraan verbonden toetsen worden vastgesteld.  
-7.  Het onderwijs wordt zodanig ingericht dat leerlingen die in verband met ziekte thuis verblijven dan wel zijn opgenomen in een ziekenhuis, op adequate wijze voldoende onderwijs kunnen genieten.   
+4.  Het onderwijs: 
+
+a. gaat er mede van uit dat leerlingen opgroeien in een pluriforme samenleving,  
+
+b. is mede gericht op het bevorderen van actief burgerschap en sociale integratie, en  
+
+c. is er mede op gericht dat leerlingen kennis hebben van en kennismaken met verschillende achtergronden en culturen van leeftijdgenoten.     
+5.  De onderwijsactiviteiten worden evenwichtig over de dag verdeeld.   
+6.  Het onderwijs wordt zodanig ingericht dat leerlingen die in verband met ziekte thuis verblijven dan wel zijn opgenomen in een ziekenhuis, op adequate wijze voldoende onderwijs kunnen genieten.   
+7.  De scholen gebruiken een leerling- en onderwijsvolgsysteem waaruit de vorderingen in de kennis en vaardigheden blijken op het niveau van de leerling, de groep en de school. Het leerling- en onderwijsvolgsysteem bevat toetsen die kennis en vaardigheden van de leerling meten op de terreinen, genoemd in het derde lid.   
+8.  De toetsen, bedoeld in het zevende lid, voldoen aan het kwaliteitsoordeel van een door Onze Minister aangewezen onafhankelijke commissie betreffende inhoudelijke validiteit, betrouwbaarheid en deugdelijke normering. Bij of krachtens algemene maatregel van bestuur kunnen voorschriften omtrent het leerling- en onderwijsvolgsysteem en de daaraan verbonden toetsen worden vastgesteld.  
 
 ### Artikel  12  
 
@@ -351,7 +374,7 @@ c. het uitstroomprofiel dagbesteding.
 a. het onderwijs in één of meer van de schoolsoorten, bedoeld in artikel 5, onderdelen a tot en met c, van de Wet op het voortgezet onderwijs;  
 
 b. het onderwijs volgens de voorschriften die voortvloeien uit het toepassing geven aan artikel 59a van de Wet op het voortgezet onderwijs.     
-2.  Op het onderwijs, bedoeld in het eerste lid, onderdeel a, zijn de voorschriften, gegeven bij of krachtens de artikelen 6f, 6g, 10, 10b, 10b1 tot en met 10b8, 10b9, eerste en tweede lid, 10d, 11a tot en met 11f, 12 tot en met 15, 22, 24 en 28b van de Wet op het voortgezet onderwijs van overeenkomstige toepassing en bij dat onderwijs worden de eindexamenprogramma’s vastgesteld op grond van artikel 29, vierde lid, van de Wet op het voortgezet onderwijs in acht genomen, met dien verstande dat: 
+2.  Op het onderwijs, bedoeld in het eerste lid, onderdeel a, zijn de voorschriften, gegeven bij of krachtens de artikelen 6f, 6g, 6g1, 10, 10b, 10b1 tot en met 10b8, 10b9, eerste en tweede lid, 10d, 11a tot en met 11f, 12 tot en met 15, 22, 24 en 28b van de Wet op het voortgezet onderwijs van overeenkomstige toepassing en bij dat onderwijs worden de eindexamenprogramma’s vastgesteld op grond van artikel 29, vierde lid, van de Wet op het voortgezet onderwijs in acht genomen, met dien verstande dat: 
 
 a. bij algemene maatregel van bestuur onderscheidenlijk bij ministeriële regeling regels kunnen worden vastgesteld in afwijking van de regels die bij algemene maatregel van bestuur respectievelijk bij ministeriële regeling zijn vastgesteld op grond van genoemde bepalingen van de Wet op het voortgezet onderwijs, met dien verstande dat bij algemene maatregel van bestuur tevens kerndoelen kunnen worden vastgesteld in aanvulling op de kerndoelen die zijn vastgesteld op grond van artikel 11b van de Wet op het voortgezet onderwijs, waarbij tevens kan worden bepaald dat het onderwijs na de eerste twee leerjaren wordt verzorgd mede op basis van de kerndoelen die zijn vastgesteld op grond van dit onderdeel;  
 
@@ -359,9 +382,11 @@ b. voor zover het betreft het voorbereidend beroepsonderwijs, het onderwijs word
 
 c. voor zover het betreft het middelbaar algemeen voortgezet onderwijs, het onderwijs wordt gegeven in een of meer sectoren als bedoeld in artikel 10, derde lid, van de Wet op het voortgezet onderwijs;  
 
-d. voor zover het betreft het hoger algemeen voortgezet onderwijs en het voorbereidend wetenschappelijk onderwijs, de school een of meer profielen als bedoeld in artikel 12, derde lid, van de Wet op het voortgezet onderwijs verzorgt, en  
+d. voor zover het betreft het hoger algemeen voortgezet onderwijs en het voorbereidend wetenschappelijk onderwijs, de school een of meer profielen als bedoeld in artikel 12, derde lid, van de Wet op het voortgezet onderwijs verzorgt;  
 
-e.provinciale staten van Fryslân bij verordening kerndoelen Friese taal en cultuur kunnen vaststellen in afwijking van de kerndoelen Friese taal en cultuur die zijn vastgesteld op grond van artikel 11e van de Wet op het voortgezet onderwijs, met dien verstande dat op die verordening artikel 11e van de Wet op het voortgezet onderwijs van overeenkomstige toepassing is.  
+e.provinciale staten van Fryslân bij verordening kerndoelen Friese taal en cultuur kunnen vaststellen in afwijking van de kerndoelen Friese taal en cultuur die zijn vastgesteld op grond van artikel 11e van de Wet op het voortgezet onderwijs, met dien verstande dat op die verordening artikel 11e van de Wet op het voortgezet onderwijs van overeenkomstige toepassing is; en
+
+f. de inspecteur op verzoek van het bevoegd gezag ermee kan instemmen dat wordt afgeweken van de urennorm, bedoeld in artikel 6g, eerste lid, van de Wet op het voortgezet onderwijs.   
 
 ### Artikel  14b  
 
@@ -586,7 +611,7 @@ c.
 
 1°. de wijze waarop, indien speciaal onderwijs wordt verzorgd, de verplichte onderwijstijd voor dat onderwijs wordt benut,  
 
-2°. indien voortgezet speciaal onderwijs wordt verzorgd, met betrekking tot dat onderwijs, het totaal aantal uren en het soort activiteiten dat als onderwijstijd als bedoeld in artikel 25, eerste lid, dan wel artikel 6g, eerste lid, van de Wet op het voortgezet onderwijs wordt geprogrammeerd, de vakanties en andere dagen waarop geen onderwijs wordt verzorgd, alsmede wat het beleid is ten aanzien van lesuitval,  
+2°. indien voortgezet speciaal onderwijs wordt verzorgd, met betrekking tot dat onderwijs, het totaal aantal uren en het soort activiteiten dat als onderwijstijd als bedoeld in artikel 25, eerste lid, dan wel artikel 6g, eerste tot en met vijfde lid, van de Wet op het voortgezet onderwijs wordt geprogrammeerd, de vakanties en andere dagen waarop geen onderwijs wordt verzorgd, alsmede wat het beleid is ten aanzien van lesuitval,  
 
 3°. indien het uitstroomprofiel vervolgonderwijs wordt verzorgd, de invulling van de maatschappelijke stage, bedoeld in artikel 6f van de Wet op het voortgezet onderwijs,    
 
@@ -598,11 +623,13 @@ f. de wijze waarop het bevoegd gezag omgaat met de in artikel 21, eerste lid, om
 
 g. het samenwerkingsverband en in voorkomend geval de samenwerkingsverbanden als bedoeld in artikel 1 van de Wet op het primair onderwijs of artikel 1 van de Wet op het voortgezet onderwijs waarbij het bevoegd gezag van de school is aangesloten,  
 
-h. het beleid met betrekking tot de veiligheid, en  
+h. het beleid met betrekking tot de veiligheid,  
 
-i. het verzuimbeleid;  
+i. het verzuimbeleid,  
 
-i. de wijze waarop invulling wordt gegeven aan het openbare karakter onderscheidenlijk de identiteit voor zover het betreft een samenwerkingsschool.     
+j. de wijze waarop invulling wordt gegeven aan het openbare karakter onderscheidenlijk de identiteit voor zover het betreft een samenwerkingsschool, en  
+
+k. de persoon, bij wie de taken, bedoeld in artikel 5a, eerste lid, onderdeel c, zijn belegd.    
 2.  Indien voortgezet speciaal onderwijs wordt verzorgd, vermeldt de schoolgids onverminderd het eerste lid welk uitstroomprofiel of welke uitstroomprofielen als bedoeld in artikel 14, eerste lid, worden verzorgd, en, indien het uitstroomprofiel vervolgonderwijs wordt verzorgd, welk onderwijs als bedoeld in artikel 14a, eerste lid, en welke schoolsoort als bedoeld in de Wet op het voortgezet onderwijs.   
 3.  Indien voortgezet speciaal onderwijs als bedoeld in artikel 14a, eerste lid, onderdeel b, wordt verzorgd bevat de schoolgids onverminderd de vorige leden met betrekking tot dat onderwijs: 
 
@@ -670,9 +697,10 @@ b. zich bij de behandeling van de klacht te laten bijstaan.
 ####Onderwijstijd uitstroomprofielen arbeidsmarktgericht en dagbesteding
 
 1.  Een in schooltijd verzorgd samenhangend onderwijsprogramma als bedoeld in de artikelen 14c, negende lid, en 14f, achtste lid, omvat voor iedere leerling in elk leerjaar ten minste 1 000 uren.   
-2.  Het bevoegd gezag beschikt over geordende gegevens met betrekking tot de toepassing van het eerste lid.   
-3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven over de gegevens omtrent de invulling van die uren en de in die onderwijsprogramma’s verzorgde activiteiten.   
-4.  Ten behoeve van het verrichten van andere taken dan het verzorgen van onderwijs stelt het bevoegd gezag jaarlijks de data vast van ten hoogste negen werkdagen waarop geen onderwijs behoeft te worden verzorgd, waarvan ten hoogste zes werkdagen onmiddellijk aansluitend en ten hoogste vijf werkdagen niet onmiddellijk aansluitend voor of na de voor de uitstroomprofielen, bedoeld in de artikelen 14c en 14f, ingevolge artikel 26, derde lid, geldende zomervakantie.  
+2.  Het bevoegd gezag beschikt over geordende gegevens met betrekking tot de toepassing van het eerste lid.  
+3. Vervallen.
+4. Vervallen. 
+5.  De inspecteur kan op verzoek van het bevoegd gezag ermee instemmen dat wordt afgeweken van de urennorm, bedoeld het eerste lid.  
 
 ### Artikel  26  
 
@@ -680,7 +708,7 @@ b. zich bij de behandeling van de klacht te laten bijstaan.
 
 1.  Indien een leerling gedurende een deel van de week onderwijs ontvangt op een andere school, een basisschool, een speciale school voor basisonderwijs, een school voor voortgezet onderwijs of een instelling voor educatie en beroepsonderwijs, telt de tijd gedurende welke de leerling dit onderwijs ontvangt, mee voor het aantal uren onderwijs dat de leerling ten minste moet ontvangen.    
 2.  Bij ministeriële regeling kunnen ten aanzien van het speciaal onderwijs voorschriften worden vastgesteld omtrent vakanties. Daarbij kunnen begin en eind van vakanties worden vastgesteld die niet voor alle scholen gelijk behoeven te zijn. Bij die ministeriële regeling kan tevens worden bepaald dat zij op bepaalde scholen niet van toepassing is.   
-3.  Ten aanzien van de uitstroomprofielen, bedoeld in de artikelen 14c en 14f, zijn de voorschriften gegeven bij of krachtens artikel 22 van de Wet op het voortgezet onderwijs van overeenkomstige toepassing, voor zover het betreft de onderwerpen, bedoeld in het tweede lid van laatstgenoemd artikel. Bij algemene maatregel van bestuur onderscheidenlijk bij ministeriële regeling kunnen regels worden vastgesteld in afwijking van de regels die bij algemene maatregel van bestuur respectievelijk bij ministeriële regeling zijn vastgesteld op grond van die bepaling van de Wet op het voortgezet onderwijs. 
+3.  Ten aanzien van de uitstroomprofielen, bedoeld in de artikelen 14c en 14f, zijn de voorschriften gegeven bij of krachtens artikel 6g1 van de Wet op het voortgezet onderwijs van overeenkomstige toepassing. Bij algemene maatregel van bestuur onderscheidenlijk bij ministeriële regeling kunnen regels worden vastgesteld in afwijking van de regels die bij algemene maatregel van bestuur respectievelijk bij ministeriële regeling zijn vastgesteld op grond van die bepaling van de Wet op het voortgezet onderwijs. 
 
 ### Artikel  27  
 
@@ -1126,14 +1154,14 @@ e. het ten minste één keer per jaar evalueren van het ontwikkelingsperspectief
 
 Het bevoegd gezag van de school waar de leerling voortgezet speciaal onderwijs heeft gevolgd, adviseert tot twee jaar nadat de leerling die school heeft verlaten, de ouders, dan wel, indien de leerling meerderjarig en handelingsbekwaam is, de leerling, op hun onderscheidenlijk op diens verzoek over het volgen van aansluitend vervolgonderwijs, het uitoefenen van een functie op de arbeidsmarkt of het functioneren in een vorm van dagbesteding. 
 
-### Artikel  44*  
+### Artikel  45  
 
 ####Tijdelijke geschillencommissie toelating en verwijdering
 
 1.  Er is tot een bij koninklijk besluit te bepalen tijdstip een landelijke commissie voor geschillen waarbij elke school, school als bedoeld in de Wet op het primair onderwijs en school als bedoeld in de Wet op het voortgezet onderwijs is aangesloten.   
-2.  De commissie neemt kennis van geschillen tussen ouders en bevoegd gezag van een school die ontstaan bij de toepassing van: 
+2.  De commissie neemt kennis van geschillen tussen ouders en bevoegd gezag van een school of instelling die ontstaan bij de toepassing van: 
 
-a. artikel 40, vierde, vijfde, zesde en achttiende lid, en  
+a. de artikelen 40, vierde, vijfde, zesde en achttiende lid, 41, tweede lid, onderdeel a, en  
 
 b. artikel 41a, eerste en vierde lid.     
 3.  De commissie brengt op verzoek van de ouders binnen 10 weken een oordeel uit aan het bevoegd gezag, rekening houdend met het schoolondersteuningsprofiel en het ondersteuningsplan.   
@@ -1204,7 +1232,8 @@ Het bevoegd gezag stelt de ouders van de leerlingen in de gelegenheid ondersteun
 ####Informeren ouders bij zeer zwakke school
 
 1. Indien de inspectie op basis van een onderzoek als bedoeld in artikel 11 of artikel 15 van de Wet op het onderwijstoezicht, in het inspectierapport, bedoeld in artikel 20 van genoemde wet, tot het oordeel is gekomen dat sprake is van een zeer zwakke school, informeert het bevoegd gezag de ouders van de leerlingen van de school hierover door middel van in ieder geval de toezending van de door de inspectie opgestelde samenvatting van het inspectierapport welke samenvatting gelijktijdig met het inspectierapport ter beschikking is gesteld van het bevoegd gezag. De toezending, bedoeld in de eerste volzin, geschiedt binnen vier weken na de vaststelling van het inspectierapport.  
-2.  Indien het bevoegd gezag niet of niet tijdig voldoet aan de verplichting, bedoeld in het eerste lid, zendt Onze minister de samenvatting van het inspectierapport, bedoeld in het eerste lid, in de vijfde week na vaststelling van het inspectie rapport aan de ouders van de leerlingen. 
+2.  Indien het bevoegd gezag niet of niet tijdig voldoet aan de verplichting, bedoeld in het eerste lid, zendt Onze minister de samenvatting van het inspectierapport, bedoeld in het eerste lid, in de vijfde week na vaststelling van het inspectie rapport aan de ouders van de leerlingen.  
+3.  Indien de inspectie op basis van een onderzoek als bedoeld in artikel 11 of artikel 15 van de Wet op het onderwijstoezicht in het inspectierapport, bedoeld in artikel 20 van genoemde wet, tot het oordeel is gekomen dat sprake is van een zeer zwakke school, betrekt het bevoegd gezag de ouders van de leerlingen van de school en de meerderjarige leerlingen bij de door het bevoegd gezag voorgenomen maatregelen ten behoeve van kwaliteitsverbetering. 
 
 ### Afdeling  2  
 
@@ -1501,7 +1530,7 @@ j. een advies van burgemeester en wethouders van de betrokken gemeenten over de 
 ####Toets
 
 1.  Onze minister kan goedkeuring onthouden indien als gevolg van de fusie de daadwerkelijke variatie van het onderwijsaanbod, in het bijzonder ten aanzien van de evenwichtige spreiding van de onderwijsvoorzieningen binnen het voedingsgebied, op significante wijze wordt belemmerd.   
-2.  Onze minister verleent slechts goedkeuring aan een bestuurlijke fusie als bedoeld in artikel 17, indien daardoor de continuïteit van het openbaar of het bijzonder onderwijs gehandhaafd kan blijven en met de bestuurlijke fusie wordt voorkomen dat een of meer daarbij betrokken scholen door toepassing van de artikelen 147 en 148 wordt opgeheven of niet meer voor bekostiging in aanmerking komt. Het bevoegd gezag van de betreffende school toont dat aan op basis van een prognose van de ontwikkeling van het aantal leerlingen waaruit blijkt dat die school binnen een termijn van zes jaar dreigt te worden opgeheven of niet meer te worden bekostigd.  
+2.  Onze minister verleent slechts goedkeuring aan een bestuurlijke fusie als bedoeld in artikel 28, indien daardoor de continuïteit van het openbaar of het bijzonder onderwijs gehandhaafd kan blijven en met de bestuurlijke fusie wordt voorkomen dat een of meer daarbij betrokken scholen door toepassing van de artikelen 147 en 148 wordt opgeheven of niet meer voor bekostiging in aanmerking komt. Het bevoegd gezag van de betreffende school toont dat aan op basis van een prognose van de ontwikkeling van het aantal leerlingen waaruit blijkt dat die school binnen een termijn van zes jaar dreigt te worden opgeheven of niet meer te worden bekostigd.  
 3.  Onze minister laat zich ten aanzien van de goedkeuring, bedoeld in het eerste en tweede lid, adviseren door een onafhankelijke adviescommissie, tenzij de noodzaak daartoe ontbreekt. Bij ministeriële regeling wordt bepaald wanneer er geen sprake is van de noodzaak bedoeld in de eerste volzin.   
 4.  Onze minister stelt beleidsregels vast omtrent de uitoefening van de bevoegdheid, bedoeld in het eerste lid.  
 
@@ -1582,22 +1611,13 @@ b. een financiële regeling tussen het Rijk en de bevoegde gezagsorganen die per
 
 Onze minister kan onder nader te stellen voorwaarden aanvullende middelen ter beschikking stellen die niet strekken tot bekostiging van het onderwijs, bedoeld in deze wet, en de schoolbegeleiding ten behoeve daarvan, maar die direct of indirect dienstig zijn voor de uitvoering van het onderwijs of voor verhoging van de mogelijkheid tot deelname aan het onderwijs. Voor zover toepassing van de eerste volzin het verstrekken van subsidie betreft, zijn de artikelen 4 tot en met 19 van de Wet overige OCW-subsidies van toepassing. 
 
-### Artikel  71b  
-
-####Scholengemeenschap
-
-1.  In een scholengemeenschap zijn tot één school verenigd scholen van de soort die tot hetzelfde cluster of dezelfde clusters, bedoeld in artikel 2, vierde lid onder b, c en d, behoren.   
-2.  De bij of krachtens deze wet gegeven voorschriften die gelden voor de onderwijssoort waartoe een deel van de scholengemeenschap behoort, zijn van overeenkomstige toepassing op dat deel van de scholengemeenschap.   
-3.  De artikelen 28j, tweede lid, en 75 tot en met 88 zijn niet van toepassing indien twee of meer scholen worden verenigd tot een scholengemeenschap.  
-4.  De directeur, onderscheidenlijk de adjunct-directeur of adjunct-directeuren, kan slechts een van de directeuren onderscheidenlijk kunnen slechts een of meer van de adjunct-directeuren van de scholen zijn die tot de scholengemeenschap worden verenigd, tenzij geen van de betrokkenen de desbetreffende functie wenst te aanvaarden.  
-
 ### Artikel  71c  
 
-####Bekostiging leerlingen residentiële instellingen
+####Bekostiging leerlingen gesloten instellingen en residentiële instellingen
 
-1. Het bevoegd gezag dat op zijn school niet zijnde een instelling, onderwijs verzorgt aan leerlingen van een residentiële instelling wordt in aanmerking gebracht voor bekostiging op grond van artikel 112 en artikel 117, zevende lid, indien het bevoegd gezag met die residentiële instelling een samenwerkingsovereenkomst heeft gesloten.
-2. Onder een residentiële instelling als bedoeld in het eerste lid, wordt verstaan een instelling voor gehandicaptenzorg, jeugdhulpverlening of jeugdgezondheidszorg dan wel een justitiële jeugdinrichting, waarbij behandeling of opvang en onderwijs vanuit één plan noodzakelijk is vanwege de aard of de duur van de behandeling of opvang.
-3. Het bevoegd gezag doet Onze minister binnen een maand na de totstandkoming van de overeenkomst dan wel beëindiging ervan een afschrift toekomen van de overeenkomst dan wel deelt de datum waarop de overeenkomst is beëindigd mee.
+1.  Het bevoegd gezag dat op zijn school, niet zijnde een instelling, onderwijs verzorgt aan leerlingen die zijn opgenomen in inrichtingen als bedoeld in artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen en gesloten accommodaties als bedoeld in artikel 6.2.2 van de Jeugdwet, wordt in aanmerking gebracht voor bekostiging op grond van artikel 112 en artikel 117, zesde lid, indien het bevoegd gezag met die inrichting of accommodatie een samenwerkingsovereenkomst heeft gesloten.   
+2.  Het bevoegd gezag dat op zijn school niet zijnde een instelling, onderwijs verzorgt aan leerlingen van een residentiële instelling wordt per vestiging in aanmerking gebracht voor bekostiging op grond van artikel 112 en artikel 117, zevende lid, indien het bevoegd gezag met die residentiële instelling een samenwerkingsovereenkomst heeft gesloten. Onder een residentiële instelling als bedoeld in de eerste volzin wordt verstaan een instelling voor gehandicaptenzorg, jeugdhulpverlening of jeugdgezondheidszorg niet zijnde een inrichting of accommodatie, bedoeld in het eerste lid, waarbij behandeling of opvang en onderwijs vanuit één plan noodzakelijk is vanwege de aard of de duur van de behandeling of opvang.   
+3.  Het bevoegd gezag doet Onze minister binnen een maand na de totstandkoming van de overeenkomst dan wel de beëindiging ervan een afschrift toekomen van de overeenkomst dan wel deelt de datum waarop de overeenkomst is beëindigd mee.  
 
 ###Artikel  71d 
 
@@ -2123,24 +2143,9 @@ e. administratie, beheer en bestuur.
 
 ### Artikel  114  
 
-####Vaststelling totaalbedrag voor instelling
+####Extra bekostiging instellingen
 
-1.  Eenmaal in de vijf jaar voor 1 oktober stelt Onze minister voor elke instelling een totaalbedrag vast voor de materiële voorzieningen ten behoeve van de instandhouding voor het jaar volgend op dat van de vaststelling.    
-2.  In de beschikking, bedoeld in het eerste lid, kan worden aangegeven, welk deel van het totaalbedrag bedoeld in dat lid strekt voor:  
-
-a. administratie, beheer en bestuur en   
-
-b. de materiële instandhouding van watergewenning en bewegingstherapie.      
-3.  In de beschikking, bedoeld in het eerste lid, wordt aangegeven, welk deel van het totaalbedrag bedoeld in dat lid strekt voor:  
-
-a. de programma's van eisen, bedoeld in artikel 112, eerste lid onder a, b en c, van een schoolgebouw waarvan de gemeente eigenaar is, en   
-
-b. een schoolbad waarvan de gemeente eigenaar is.      
-4.  Het totaalbedrag voor de materiële voorzieningen ten behoeve van de instandhouding voor het tweede tot en met het vijfde jaar volgend op het jaar van de vaststelling, bedoeld in het eerste lid, wordt bepaald door het totaalbedrag dat gold voor het aan het desbetreffende jaar voorafgaande jaar, aan te passen aan de prijsmutatie van de netto materiële consumptie, zoals opgenomen in de Macro Economische Verkenning, die naar verwachting zal optreden tussen het prijsniveau in laatstgenoemd jaar en het prijsniveau in het jaar waarvoor het totaalbedrag geldt.    
-5.  Indien de miljoenennota, bedoeld in artikel 13 van de Comptabiliteitswet 2001, niet of slechts gedeeltelijk voorziet in prijsbijstelling in de onderscheiden hoofdstukken van de rijksbegroting voor enig jaar, als gevolg waarvan in het voorstel van wet houdende vaststelling van de begroting van de uitgaven en ontvangsten van hoofdstuk VIII (Ministerie van Onderwijs, Cultuur en Wetenschap) van de rijksbegroting voor dat jaar geen of geen volledige prijsbijstelling kan plaatsvinden in de desbetreffende bedragen van de bekostiging, worden de totaalbedragen, bedoeld in het eerste en vierde lid, in overeenstemming daarmee en in afwijking van die leden aangepast.    
-6.  Indien de vastgestelde rijksbegroting van de uitgaven en de ontvangsten van hoofdstuk VIII (Ministerie van Onderwijs, Cultuur en Wetenschap) voor een begrotingsjaar ten aanzien waarvan het vijfde lid toepassing heeft gevonden, afwijkt van het desbetreffende voorstel van wet op het onderdeel van de prijsbijstelling in de in het vijfde lid bedoelde bedragen van de bekostiging, wordt het totaalbedrag, voor dat jaar vastgesteld in overeenstemming met de vastgestelde rijksbegroting.    
-7.  Het vierde tot en met het zesde lid zijn van overeenkomstige toepassing op de in het tweede en derde lid bedoelde bedragen.    
-8.  Indien van de overige onderwijssoorten van het speciaal onderwijs of het voortgezet speciaal onderwijs de rijksbekostiging voor de materiële voorzieningen ten behoeve van de instandhouding wordt verminderd, worden de in het eerste tot en met vierde lid vastgestelde bedragen dienovereenkomstig verminderd.   
+De instellingen ontvangen in aanvulling op de bekostiging, bedoeld in artikel 111, jaarlijks een bij ministeriële regeling vast te stellen bekostiging in verband met de visuele handicap van de leerlingen van de instellingen, bedoeld in artikel 8, eerste lid, tweede volzin, respectievelijk in verband met de auditieve en communicatieve handicap, bedoeld in artikel 8, eerste lid, derde volzin, en de vervulling van de taken, bedoeld in artikel 9, onderdelen b en c. 
 
 ### Artikel  115  
 
@@ -2184,43 +2189,42 @@ b. de bekostiging voor de vaste kosten van de materiële instandhouding van een 
 
 ####Grondslag bekostiging personeel
 
-1. Voor de bekostiging van personeel wordt per onderwijssoort een bedrag per school, niet zijnde een instelling, en een bedrag per leerling toegekend, welke bedragen worden verhoogd met een bedrag dat wordt vermenigvuldigd met de gewogen gemiddelde leeftijd van de leraren van de school op 1 oktober van het voorafgaande schooljaar. Voor het schooljaar waarin een nieuwe school wordt geopend, wordt vermenigvuldigd met de geraamde landelijk gewogen gemiddelde leeftijd op 1 oktober van het voorafgaande schooljaar van de leraren in het speciaal onderwijs en het voortgezet speciaal onderwijs. 
-2. De bedragen, bedoeld in het eerste lid, kunnen in elk geval verschillend worden vastgesteld voor leerlingen
+1.  Voor de bekostiging van personeel wordt een bedrag per school en een bedrag per leerling toegekend, welke bedragen worden verhoogd met een bedrag dat wordt vermenigvuldigd met de gewogen gemiddelde leeftijd van de leraren van de school op 1 oktober van het voorafgaande schooljaar.   
+2.  De bedragen, bedoeld in het eerste en derde lid, kunnen in elk geval verschillend worden vastgesteld voor leerlingen 
 
-a.van de verschillende onderwijssoorten, bedoeld in artikel 2;
+a. in het speciaal onderwijs en het voortgezet speciaal onderwijs;  
 
-b.in het speciaal onderwijs en het voortgezet speciaal onderwijs;
+b. jonger dan 8 jaar; en  
 
-c.jonger dan 8 jaar; en
-
-d.8 jaar en ouder.  
-3. Bij algemene maatregel van bestuur wordt bepaald in welke gevallen en onder welke voorwaarden aanvullende bekostiging voor personeelskosten kan worden toegekend. In ieder geval wordt aan scholen, niet zijnde instellingen, aanvullende bekostiging toegekend voor schoolleiding, bestrijding van onderwijsachterstanden en groei van het aantal leerlingen gedurende het schooljaar. 
-4. De instellingen ontvangen in aanvulling op de bekostiging, bedoeld in het eerste lid, jaarlijks een bij ministeriële regeling vast te stellen bekostiging in verband met de visuele handicap van de leerlingen van de instelling en de vervulling van de taken, bedoeld in artikel 9, onderdelen b en c. De bekostigingsbedragen, bedoeld in het eerste lid, en de eerste volzin zijn tezamen redelijkerwijs voldoende voor het leiden en beheren van de instelling, voor de taken, bedoeld in artikel 9, en voor de overige werkzaamheden die verband houden met het onderwijs aan de instelling. Het veertiende lid is van overeenkomstige toepassing. 
-5. De scholen van de onderwijssoorten in de clusters, bedoeld in artikel 2, vierde lid, onderdelen b, c en d, ontvangen in aanvulling op de bekostiging, bedoeld in het eerste en derde lid, bekostiging in verband met het onderwijs aan leerlingen van wie de toelating is gericht op een verblijf op de school van korter dan een schooljaar en bekostiging ten behoeve van leerlingen als bedoeld in artikel 28c, derde lid. 
-6. Bij algemene maatregel van bestuur worden de grondslagen van de bekostiging, bedoeld in het vijfde lid, voor de onderwijssoorten in de clusters, bedoeld in artikel 2, vierde lid, onderdelen b en c, per onderwijssoort en voor de onderwijssoorten in het cluster, bedoeld in artikel 2, vierde lid, onderdeel d, per cluster vastgesteld. 
-7. Voor scholen, niet zijnde instellingen, waaraan onderwijs wordt gegeven aan leerlingen die zijn opgenomen in residentiële instellingen wordt tevens een bekostiging vastgesteld die is gebaseerd op het aantal leerlingen aan wie onderwijs wordt verzorgd op basis van een samenwerkingsovereenkomst als bedoeld in artikel 71c, eerste lid. 
-8. Bij algemene maatregel van bestuur worden de grondslagen voor de berekening van de bekostiging ten behoeve van de werkzaamheden en de onderwijssoorten, bedoeld in artikel 8a, derde lid, onderdeel a, vastgesteld. 
-9. Bij algemene maatregel van bestuur wordt voor de werkzaamheden en de onderwijssoorten, bedoeld in artikel 8a, derde lid, onderdeel b, de bekostiging vastgesteld. 
-10. Bij ministeriële regeling worden het bedrag per school en per leerling, bedoeld in het eerste lid, de vermenigvuldigingsbedragen van de verhoging, bedoeld in het eerste lid, en de bekostigingsbedragen, bedoeld in het derde, vijfde, zevende, achtste en negende lid, vastgesteld. 
-11. Het bedrag per leerling, bedoeld in het tiende lid, is de som van:
-
-a.de uitkomst van een bij algemene maatregel van bestuur vast te stellen hoeveelheid formatie leraren per leerling, vermenigvuldigd met een bedrag, en
-
-b.de uitkomst van een bij algemene maatregel van bestuur vast te stellen hoeveelheid formatie onderwijsondersteunend personeel per leerling, vermenigvuldigd met een bedrag.  
-12. De verhoging, bedoeld in het tiende lid, is voor wat betreft het bedrag per leerling de uitkomst van de in het elfde lid, onder a, bedoelde hoeveelheid formatie leraren per leerling, vermenigvuldigd met een bedrag.
-13. Het bedrag per school, het vermenigvuldigingsbedrag van de verhoging voor wat betreft het bedrag per school, en de bekostigingsbedragen, bedoeld in het tiende lid, zijn de uitkomst van een bij de algemene maatregel van bestuur vast te stellen hoeveelheid formatie vermenigvuldigd met een bedrag.
-14. Bij de vaststelling van de bedragen, bedoeld in het tiende lid, wordt in ieder geval rekening gehouden met de ontwikkeling van de geraamde landelijk gewogen gemiddelde leeftijd en de genormeerde gemiddelde personeelslast van het personeel van scholen en worden nadere regels vastgesteld met betrekking tot de wijze waarop de gewogen gemiddelde leeftijd en de geraamde gewogen gemiddelde leeftijd worden vastgesteld. Indien aanvullende bekostiging wordt toegekend voor een bepaalde categorie personeel kan in afwijking van de eerste volzin rekening worden gehouden met de genormeerde gemiddelde personeelslasten van die categorie personeel.
-15. De bekostiging, bedoeld in het eerste en het derde lid, voor wat betreft schoolleiding en groei van het aantal leerlingen tijdens het schooljaar, is redelijkerwijs voldoende voor het leiden en beheren van de school, voor het geven van onderwijs aan de school en voor de overige werkzaamheden die verband houden met het onderwijs aan de school.
-16. De algemene maatregel van bestuur, bedoeld in dit artikel, wordt aan de Tweede Kamer der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat 4 weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens de Kamer de wens wordt te kennen gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsontwerp zo spoedig mogelijk ingediend. Het bepaalde in de vorige 3 volzinnen is niet van toepassing indien het ontwerp van de algemene maatregel van bestuur voordien aan de Kamer is overgelegd en door of namens de Kamer te kennen is gegeven dat van de procedure, bedoeld in de vorige 3 volzinnen, kan worden afgeweken.
+c. 8 jaar en ouder.     
+3.  Bij algemene maatregel van bestuur wordt bepaald in welke gevallen en onder welke voorwaarden aanvullende bekostiging voor personeelskosten kan worden toegekend. In ieder geval wordt aan scholen, niet zijnde instellingen, aanvullende bekostiging toegekend voor schoolleiding en bestrijding van onderwijsachterstanden.   
+4.  Naast de bekostiging, bedoeld in het eerste lid, ontvangt de school, niet zijnde een instelling, per leerling een bedrag dat afhankelijk is van de in de toelaatbaarheidsverklaring, bedoeld in artikel 40, tiende of twaalfde lid, opgenomen ondersteuningsbehoefte van de leerling en overeenkomt met één van de normbedragen die bij ministeriële regeling zijn vastgesteld en waarvan de berekeningswijze bij algemene maatregel van bestuur is bepaald.  
+5.  De instellingen ontvangen in aanvulling op de bekostiging, bedoeld in het eerste lid, jaarlijks een bij ministeriële regeling vast te stellen bekostiging in verband met de visuele handicap van de leerlingen van de instellingen, bedoeld in artikel 8, eerste lid, tweede volzin, respectievelijk in verband met de auditieve en communicatieve handicap, bedoeld in artikel 8, eerste lid, derde volzin, en de vervulling van de taken, bedoeld in artikel 9, onderdelen b en c. De bekostigingsbedragen, bedoeld in het eerste lid, en de eerste volzin zijn tezamen redelijkerwijs voldoende voor het leiden en beheren van de instelling, voor de taken, bedoeld in artikel 9, en voor de overige werkzaamheden die verband houden met het onderwijs aan de instelling. Het twaalfde lid is van overeenkomstige toepassing.   
+6.  Voor scholen, niet zijnde instellingen, waaraan onderwijs wordt gegeven aan leerlingen die zijn opgenomen in inrichtingen als bedoeld in artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen en gesloten accommodaties als bedoeld in artikel 6.2.2 van de Jeugdwet, wordt tevens bekostiging vastgesteld die is gebaseerd op het aantal plaatsen in die inrichtingen en accommodaties.   
+7.  Voor scholen, niet zijnde instellingen, waaraan onderwijs wordt gegeven aan leerlingen die zijn opgenomen in residentiële instellingen wordt bekostiging vastgesteld die is gebaseerd op het aantal leerlingen aan wie op de teldatum onderwijs wordt gegeven op basis van een samenwerkingsovereenkomst als bedoeld in artikel 71c, tweede lid. Voor elke leerling, bedoeld in de eerste volzin, ontvangt de school het voor die onderwijssoort vastgestelde normbedrag dat bij ministeriële regeling is vastgesteld.   
+8.  Bij ministeriële regeling worden het bedrag per school en per leerling, bedoeld in het eerste lid, de vermenigvuldigingsbedragen van de verhoging, bedoeld in het eerste lid, en de bekostigingsbedragen, bedoeld in het zesde en zevende lid, vastgesteld.   
+9.  Het bedrag per leerling, bedoeld in het achtste lid, is het product van een bij algemene maatregel van bestuur vast te stellen hoeveelheid formatie leraren per leerling vermenigvuldigd met een bedrag.   
+10.  De verhoging, bedoeld in het achtste lid, is voor wat betreft het bedrag per leerling de uitkomst van de in het negende lid, onder a, bedoelde hoeveelheid formatie leraren per leerling, vermenigvuldigd met een bedrag.   
+11.  Het bedrag per school, het vermenigvuldigingsbedrag van de verhoging voor wat betreft het bedrag per school, en de bekostigingsbedragen, bedoeld in het achtste lid, zijn de uitkomst van een bij de algemene maatregel van bestuur vast te stellen hoeveelheid formatie vermenigvuldigd met een bedrag.   
+12.  Bij de vaststelling van de bedragen, bedoeld in het achtste lid, wordt in ieder geval rekening gehouden met de ontwikkeling van de geraamde landelijk gewogen gemiddelde leeftijd en de genormeerde gemiddelde personeelslast van het personeel van scholen en worden nadere regels vastgesteld met betrekking tot de wijze waarop de gewogen gemiddelde leeftijd en de geraamde gewogen gemiddelde leeftijd worden vastgesteld. Indien aanvullende bekostiging wordt toegekend voor een bepaalde categorie personeel kan in afwijking van de eerste volzin rekening worden gehouden met de genormeerde gemiddelde personeelslasten van die categorie personeel.   
+13.  De bekostiging, bedoeld in het eerste, derde en vierde lid, voor wat betreft schoolleiding, is redelijkerwijs voldoende voor het leiden en beheren van de school, voor het geven van onderwijs aan de school en voor de overige werkzaamheden die verband houden met het onderwijs aan de school.   
+14.  De algemene maatregel van bestuur, bedoeld in dit artikel, wordt aan de Tweede Kamer der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat 4 weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens de Kamer de wens wordt te kennen gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsontwerp zo spoedig mogelijk ingediend. Het bepaalde in de vorige 3 volzinnen is niet van toepassing indien het ontwerp van de algemene maatregel van bestuur voordien aan de Kamer is overgelegd en door of namens de Kamer te kennen is gegeven dat van de procedure, bedoeld in de vorige 3 volzinnen, kan worden afgeweken. 
 
 ### Artikel  118  
 
 ####Berekening aantal leerlingen
 
 1.  Grondslag voor de berekening van het aantal leerlingen, bedoeld in artikel 117, is het aantal leerlingen op 1 oktober van het voorafgaande schooljaar, dat door een samenwerkingsverband toelaatbaar is verklaard tot het speciaal dan wel voortgezet speciaal onderwijs.    
-2.  Voor het schooljaar waarin een nieuwe school wordt geopend en voor het daaropvolgende schooljaar wordt als grondslag genomen het aantal leerlingen op 1 oktober, volgende op de opening, dat door een samenwerkingsverband toelaatbaar is verklaard tot het speciaal dan wel voortgezet speciaal onderwijs. Indien een nieuwe school ontstaat als gevolg van beëindiging van het speciaal onderwijs of het voortgezet speciaal onderwijs van een school voor speciaal en voortgezet speciaal onderwijs, is de eerste volzin van overeenkomstige toepassing.    
+2.  Voor het schooljaar waarin een nieuwe school wordt geopend en voor het daaropvolgende schooljaar wordt als grondslag genomen het aantal leerlingen op 1 oktober, volgende op de opening, dat door een samenwerkingsverband toelaatbaar is verklaard tot het speciaal dan wel voortgezet speciaal onderwijs. Indien een nieuwe school ontstaat als gevolg van beëindiging van het speciaal onderwijs of het voortgezet speciaal onderwijs van een school voor speciaal en voortgezet speciaal onderwijs, is voor de berekening van het aantal leerlingen, bedoeld in artikel 117, eerste lid, is de eerste volzin van overeenkomstige toepassing.    
 3.  Vervallen.  
 4. Voor de toepassing van artikel 117 geldt in geval van samenvoeging van scholen, het aantal leerlingen van alle bij de samenvoeging betrokken scholen vastgesteld volgens het eerste lid, en de gewogen gemiddelde leeftijd van de leraren van alle bij de samenvoeging betrokken scholen op 1 oktober van het voorafgaande schooljaar.
+
+### Artikel  119  
+
+####Vermindering bekostiging personeelskosten bij uitputting bekostiging personeelsbekostiging samenwerkingsverband
+
+1.  Indien het totaal van de bedragen, bedoeld in artikel 132, vierde lid, eerste volzin, en vijfde lid, van de Wet op het primair onderwijs de personeelsbekostiging van het samenwerkingsverband, bedoeld in artikel 132, tweede lid, van de Wet op het primair onderwijs, overschrijdt, wordt het bedrag waarmee die bekostiging wordt overschreden door Onze minister in mindering gebracht op de personele bekostiging van alle scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, voor zover het betreft het daaraan verzorgde speciaal onderwijs, en scholen als bedoeld in de Wet op het primair onderwijs, waarvan één of meer vestigingen zijn gelegen in het gebied van het samenwerkingsverband. Het bedrag dat in mindering wordt gebracht, wordt per school voor speciaal onderwijs en speciaal of voortgezet speciaal onderwijs behorend tot cluster 3 en 4 dan wel school als bedoeld in de Wet op het primair onderwijs, bepaald op basis van het leerlingenaantal van de desbetreffende vestiging of vestigingen in het samenwerkingsverband.   
+2.  Indien het totaal van de bedragen, bedoeld in artikel 85b, derde lid, eerste volzin, en vierde lid, van de Wet op het voortgezet onderwijs de personeelsbekostiging van het samenwerkingsverband, bedoeld in artikel 85b, eerste lid, van de Wet op het voortgezet onderwijs overschrijdt, wordt het bedrag waarmee die bekostiging wordt overschreden door Onze minister in mindering gebracht op de personele bekostiging van alle scholen voor voortgezet speciaal onderwijs en speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4 voor zover het betreft het daaraan verzorgde voortgezet speciaal onderwijs, en scholen als bedoeld in de Wet op het voortgezet onderwijs waarvan één of meer vestigingen zijn gelegen in het gebied van het samenwerkingsverband. Het bedrag dat in mindering wordt gebracht, wordt per school voor voortgezet speciaal onderwijs of speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4 dan wel school als bedoeld in de Wet op het voortgezet onderwijs, bepaald op basis van het leerlingenaantal van de desbetreffende vestiging of vestigingen in het samenwerkingsverband.  
 
 ### Artikel  120  
 
@@ -2497,6 +2501,12 @@ b. een centrale dienst, een samenwerkingsverband of een school als bedoeld in de
 4. De op grond van artikel 134 of artikel 135 verstrekte vergoeding wordt besteed aan het doel waarvoor zij is verstrekt.
 5. Het bevoegd gezag kan met het bevoegd gezag van een school of instelling die op grond van artikel 24 een deel van het schoolplan uitvoert, overeenkomen om vanwege die uitvoering een deel van de bekostiging over te dragen aan dat andere bevoegd gezag. De eerste volzin is van overeenkomstige toepassing indien op grond van artikel 24 een deel van het schoolplan wordt uitgevoerd door een andere school of instelling van het bevoegd gezag.
 
+### Artikel  143a  
+
+####Beleggen en belenen
+
+Bij ministeriële regeling kunnen regels worden gesteld over het door het bevoegd gezag uitzetten van gelden, het aangaan van geldleningen en het aangaan van verbintenissen voor financiële producten. 
+
 ###§ 7 
 
 ####Betaling van de bekostiging
@@ -2662,7 +2672,7 @@ b.de wijze en het tijdstip waarop de desbetreffende onderdelen beschikbaar geste
 c.de elektronische verzending van het cijfermatige deel uit de jaarrekening, en
 
 d.de grondslagen voor de jaarrekening.   
-4.  De beschikbaarstelling van de gegevens, bedoeld in het derde lid, onder b, gaat vergezeld van een verklaring omtrent de getrouwheid en rechtmatigheid, afgegeven door een door de toezichthouder of het toezichthoudend orgaan aangewezen accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek. Bij de aanwijzing van de accountant bedingt de toezichthouder of het toezichthoudend orgaan dat de controle overeenkomstig een door Onze minister vast te stellen controleprotocol plaatsvindt en dat aan Onze minister op diens verzoek inzicht wordt geboden in de controlerapporten van de accountant.   
+4.  De beschikbaarstelling van de gegevens, bedoeld in het derde lid, onder b, gaat vergezeld van een verklaring omtrent de getrouwheid en rechtmatigheid, afgegeven door een door de toezichthouder of het toezichthoudend orgaan aangewezen accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek. Bij de aanwijzing van de accountant bedingt de toezichthouder of het toezichthoudend orgaan dat de controle overeenkomstig een door Onze minister vast te stellen accountantsprotocol plaatsvindt en dat aan Onze minister op diens verzoek inzicht wordt geboden in de controlerapporten van de accountant.   
 5.  De code voor goed bestuur, bedoeld in het eerste lid, onderdeel a, bevat ten minste bepalingen over de wijze waarop invulling wordt gegeven aan 
 
 a. een beleid dat de eigen deskundigheid en verantwoordelijkheid van het personeel voor de kwaliteit van het onderwijs tot haar recht komt,  
@@ -2898,6 +2908,20 @@ k. indien van toepassing de leerweg, sector, afdeling of profiel van het onderwi
 l. het behaalde diploma ingevolge artikel 14a, eerste lid, onderdeel b, of artikel 14b; en  
 
 m. de vakken waarin examen is afgelegd, de cijfers van het schoolexamen en het centraal examen, de eindcijfers, de uitslag van het eindexamen of deeleindexamen ingevolge artikel 14a, eerste lid, onderdeel b, of artikel 14b, en de datum waarop deze uitslag is bepaald.    
+2a.  Het bevoegd gezag van een instelling verstrekt tot een bij koninklijk besluit te bepalen tijdstip en indien van toepassing aan Onze Minister het persoonsgebonden nummer van een leerling van een school als bedoeld in de Wet op het primair onderwijs, een leerling van een school als bedoeld in de Wet op de expertisecentra, een leerling van een school als bedoeld in de Wet op het voortgezet onderwijs of een deelnemer van een instelling als bedoeld in de Wet educatie en beroepsonderwijs, die conform de taakomschrijving, bedoeld in artikel 9, eerste lid, aanhef en onderdeel b, wordt begeleid door een aan de instelling verbonden leraar, tezamen met de volgende gegevens: 
+
+a. geslacht, geboortedatum en postcode van de woonplaats van de leerling of deelnemer;  
+
+b. het registratienummer van de school of instelling waar de leerling respectievelijk de deelnemer is ingeschreven of, indien sprake is van een nevenvestiging, het registratienummer daarvan; en  
+
+c. de begin- en de einddatum van de periode waarvoor de leerling of deelnemer wordt begeleid.     
+2b.  Het bevoegd gezag van de scholen, genoemd in artikel XXIVA van de Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs (Stb. 2012, 533) verstrekt tot een bij koninklijk besluit te bepalen tijdstip en indien van toepassing aan Onze Minister het persoonsgebonden nummer van de leerling van een school als bedoeld in de Wet op het primair onderwijs, de leerling van een school als bedoeld in de Wet op de expertisecentra, de leerling van een school als bedoeld in de Wet op het voortgezet onderwijs of de deelnemer van een instelling als bedoeld in de Wet educatie en beroepsonderwijs, die wordt begeleid door een leraar verbonden aan een school die genoemd wordt in artikel XXIVA van de Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs (Stb. 2012, 533) tezamen met de volgende gegevens: 
+
+a. geslacht, geboortedatum, en postcode van de woonplaats van de leerling of deelnemer;  
+
+b. het registratienummer van de school of instelling waar de leerling respectievelijk de deelnemer is ingeschreven of, indien sprake is van een nevenvestiging, het registratienummer daarvan; en  
+
+c. de begin- en de einddatum van de periode waarvoor de leerling of deelnemer wordt begeleid.    
 3.  Bij ministeriële regeling kan een nadere specificatie worden gegeven van de gegevens, bedoeld in het tweede en achtste lid, en kan worden bepaald welke van de gegevens, bedoeld in het tweede en achtste lid, niet langer behoeven te worden verstrekt. Bij ministeriële regeling kunnen voorts regels worden gesteld omtrent de tijdstippen en de wijze van verstrekking van de gegevens, bedoeld in het tweede en achtste lid.   
 4.  Het bevoegd gezag kan het persoonsgebonden nummer van een leerling, al dan niet tezamen met een of meer van de gegevens, bedoeld in het tweede en achtste lid, gebruiken in het verkeer met Onze minister ten behoeve van de vaststelling van de bekostiging van de school. De vorige volzin is van overeenkomstige toepassing op het persoonsgebonden nummer van een leerling als bedoeld in artikel 8a, eerste lid, die is ingeschreven bij een school als bedoeld in de Wet op het primair onderwijs, de Wet op het voortgezet onderwijs of de Wet educatie en beroepsonderwijs.   
 5.  Het bevoegd gezag en het hoofd, bedoeld in artikel 1, onder d, van de Leerplichtwet 1969, gebruiken het persoonsgebonden nummer van een leerling in contacten met een gemeente in het kader van de Leerplichtwet 1969, tezamen met de gegevens die noodzakelijk zijn voor het toezicht op de naleving van die wet door de gemeente.   
@@ -2985,8 +3009,8 @@ Het bevoegd gezag van een bijzondere school is verplicht de uit de overheidskass
 ####Verplichte aansluiting bij rechtspersoon i.v.m. kosten vervanging
 
 1.  Het bevoegd gezag van een school is aangesloten bij een door Onze minister aan te wijzen rechtspersoon met volledige rechtsbevoegdheid die zich ten doel stelt waarborgen te bieden voor de kosten voor vervanging bij afwezigheid van personeel.  
-2.  Het bevoegd gezag van een school onderscheidenlijk het regionaal expertisecentrum is voorts verplicht jaarlijks een door het bestuur van de in het eerste lid bedoelde rechtspersoon te bepalen bijdrage te voldoen aan die rechtspersoon in verband met de kosten voor vervanging.    
-3.  Van de in het eerste juncto tweede lid bedoelde verplichting kan Onze minister op verzoek van het bevoegd gezag onderscheidenlijk het regionaal expertisecentrum ontheffing verlenen op grond van bezwaren van godsdienstige of levensbeschouwelijke aard. Onze minister verleent de ontheffing slechts indien het bevoegd gezag onderscheidenlijk het regionaal expertisecentrum aantoont dat een afdoende andere voorziening is getroffen met betrekking tot de gevolgen van vervanging bij afwezigheid van personeel. Onze Minister besluit binnen zes maanden na ontvangst van een verzoek als bedoeld in de eerste volzin. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze minister het bevoegd gezag onderscheidenlijk het regionaal expertisecentrum daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.    
+2.  Het bevoegd gezag van een school is voorts verplicht jaarlijks een door het bestuur van de in het eerste lid bedoelde rechtspersoon te bepalen bijdrage te voldoen aan die rechtspersoon in verband met de kosten voor vervanging.    
+3.  Van de in het eerste juncto tweede lid bedoelde verplichting kan Onze minister op verzoek van het bevoegd gezag ontheffing verlenen op grond van bezwaren van godsdienstige of levensbeschouwelijke aard. Onze minister verleent de ontheffing slechts indien het bevoegd gezag aantoont dat een afdoende andere voorziening is getroffen met betrekking tot de gevolgen van vervanging bij afwezigheid van personeel. Onze Minister besluit binnen zes maanden na ontvangst van een verzoek als bedoeld in de eerste volzin. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze minister het bevoegd gezag daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.    
 4.  Het bestuur van de rechtspersoon kan regels vaststellen ter uitvoering van het eerste lid.    
 5.  Uit 's Rijks kas wordt jaarlijks een door Onze minister te bepalen bedrag betaald aan de rechtspersoon, bedoeld in het eerste lid, in verband met de kosten, bedoeld in dat lid onder b.    
 6.  Op de rechtspersoon, bedoeld in het eerste lid, is de Kaderwet zelfstandige bestuursorganen van toepassing. 
@@ -3112,6 +3136,12 @@ Door vernummering vervallen.
 Treedt in werking op een nader te bepalen tijdstip 
 
 Onze minister zendt binnen vier jaar na de inwerkingtreding van artikel II van de Wet van 11 december 2013 tot wijziging van onder meer de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet College voor examens in verband met de invoering van een centrale eindtoets, de invoering van een leerling- en onderwijsvolgsysteem en invoering van bekostigingsvoorschriften voor minimumleerresultaten voor speciale scholen voor basisonderwijs en scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs (centrale eindtoets en leerling- en onderwijsvolgsysteem primair onderwijs) (Stb. 2014, 13) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van artikel 11, zevende lid, en artikel 18b van de wet in de praktijk. 
+
+### Artikel  173c  
+
+####Evaluatie zorgplicht veiligheid op school
+
+Onze Minister zendt binnen vijf jaar na de inwerkingtreding van artikel II van de Wet van 4 juni 2015 tot wijziging van enige onderwijswetten in verband met het invoeren van de verplichting voor scholen om zorg te dragen voor de veiligheid op school (Stb. 238) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van de artikelen 5a en 22, eerste lid, onderdeel k, in de praktijk. 
 
 ###Artikel  174  
 

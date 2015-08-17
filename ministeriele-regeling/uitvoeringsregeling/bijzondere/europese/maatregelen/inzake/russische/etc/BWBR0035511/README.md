@@ -34,9 +34,11 @@ In deze regeling wordt verstaan onder:
 
 a. de uitgaven voor verrichtingen van producentenorganisaties en producenten in de periode van 18 augustus 2014 tot en met 3 september 2014 voor het uit de markt nemen, groen oogsten of niet oogsten van de producten, bedoeld in artikel 1, tweede lid, van verordening 932/2014,  
 
-b. de uitgaven voor verrichtingen van producentenorganisaties en producenten vanaf 30 september 2014 tot en met 31 december 2014 voor het uit de markt nemen, groen oogsten of niet oogsten van de producten, bedoeld in artikel 1, tweede lid, van verordening 1031/2014, en  
+b. de uitgaven voor verrichtingen van producentenorganisaties en producenten vanaf 30 september 2014 tot en met 31 december 2014 voor het uit de markt nemen, groen oogsten of niet oogsten van de producten, bedoeld in artikel 1, tweede lid, van verordening 1031/2014;  
 
-c. de uitgaven voor verrichtingen van producentenorganisaties en producenten vanaf 1 januari 2015 tot en met 30 juni 2015 voor het uit de markt nemen, groen oogsten of niet oogsten van de producten, bedoeld in artikel 1, tweede lid, van verordening 1031/2014.    
+c. de uitgaven voor verrichtingen van producentenorganisaties en producenten vanaf 1 januari 2015 tot en met 30 juni 2015 voor het uit de markt nemen, groen oogsten of niet oogsten van de producten, bedoeld in artikel 1, tweede lid, van verordening 1031/2014, en 
+
+d. de uitgaven voor verrichtingen van producentenorganisaties en producenten vanaf 8 augustus 2015 tot en met 30 juni 2016 voor het uit de markt nemen, groen oogsten of niet oogsten van de producten, bedoeld in artikel 1, tweede lid, van verordening 1031/2014.    
 2.  Meldingen voor verrichtingen als bedoeld in het eerste lid worden afgedaan op volgorde van binnenkomst.  
 
 ### Artikel  3  
@@ -59,8 +61,9 @@ b. het groen oogsten en het niet oogsten de artikelen 230i, 230j en 230k, alsmed
 
 ### Artikel  4a  
 
-1.  Het vrij in te zetten productvolume van 3.000 ton, bedoeld in artikel 2, eerste lid, van verordening 1031/2014 wordt aangewend ten behoeve van meldingen voor producten als bedoeld in artikel 1, tweede lid, onderdelen c, e, h en k, van verordening 1031/2014.   
-2.  Voor zover het vrij in te zetten productvolume, bedoeld in artikel 2, eerste lid, van verordening 1031/2014, niet volledig wordt benut ten behoeve van meldingen als bedoeld in het eerste lid, wordt het ingezet ten behoeve van meldingen voor de producten waarvoor aan Nederland een maximum hoeveelheid is toegewezen in tabel I van verordening 1031/2014.  
+1.  Het vrij in te zetten productvolume van 3.000 ton, bedoeld in artikel 2, eerste lid, van verordening 1031/2014 wordt voor aanvragen als bedoeld in artikel 2, eerste lid, onderdeel b, van verordening 1031/2014 aangewend ten behoeve van meldingen voor producten als bedoeld in artikel 1, tweede lid, onderdelen c, e, h en k, van verordening 1031/2014.   
+2.  Het vrij in te zetten productvolume van 3.000 ton, bedoeld in artikel 2, eerste lid, van verordening 1031/2014 wordt voor aanvragen als bedoeld in artikel 2, eerste lid, onderdeel d, van verordening 1031/2014 aangewend ten behoeve van meldingen voor producten als bedoeld in artikel 1, tweede lid, onderdelen c, e, h, k en l, van verordening 1031/2014.  
+3.  Voor zover het vrij in te zetten productvolume, bedoeld in artikel 2, eerste lid, van verordening 1031/2014, niet volledig wordt benut ten behoeve van meldingen als bedoeld in het eerste en tweede lid, wordt het ingezet ten behoeve van meldingen voor de producten waarvoor aan Nederland een maximum hoeveelheid is toegewezen in tabel I van verordening 1031/2014.  
 
 ### Artikel  4b  
 
@@ -69,8 +72,17 @@ b. het groen oogsten en het niet oogsten de artikelen 230i, 230j en 230k, alsmed
 a. tomaten, paprika’s, komkommers en augurken: 12.325 ton, en  
 
 b. wortelen: 12.325 ton.     
-2.  Indien gedurende de periode, bedoeld in artikel 1, derde lid, onderdeel b, van verordening 1031/2014, blijkt dat de in het eerste lid, onderdeel a, respectievelijk onderdeel b, bedoelde maximum producthoeveelheid niet volledig dreigt te worden benut, terwijl de in het eerste lid, onderdeel b, respectievelijk onderdeel a, bedoelde maximumhoeveelheid wordt overschreden dan wel dreigt te worden overschreden, kan de minister besluiten de onderverdeling, bedoeld in het eerste lid, aan te passen.   
-3.  Artikel 7a is van overeenkomstige toepassing indien de maximumhoeveelheid, bedoeld in het eerste lid, onderdeel a, respectievelijk onderdeel b, wordt bereikt, tenzij de minister op grond van het tweede lid besluit tot een aanpassing van de in het eerste lid bedoelde onderverdeling.  
+2.  De voor Nederland in bijlage I ter van verordening 1031/2014 vastgestelde maximum producthoeveelheid voor de groep producten tomaten, wortelen, paprika’s, komkommers en augurken wordt als volgt onderverdeeld: 
+
+a. tomaten, paprika’s, komkommers en augurken: 11.400 ton, en  
+
+b. wortelen: 11.400 ton.    
+3.  De minister kan besluiten de onderverdeling: 
+
+a. bedoeld in het eerste lid aan te passen indien gedurende de periode, bedoeld in artikel 1, derde lid, onderdeel b, van verordening 1031/2014, blijkt dat de in het eerste lid, onderdeel a, respectievelijk onderdeel b, bedoelde maximum producthoeveelheid niet volledig dreigt te worden benut, terwijl de in het eerste lid, onderdeel b, respectievelijk onderdeel a, bedoelde maximumhoeveelheid wordt overschreden dan wel dreigt te worden overschreden, of  
+
+b. bedoeld in het tweede lid aan te passen indien gedurende de periode, bedoeld in artikel 1, derde lid, onderdeel c, van verordening 1031/2014, blijkt dat de in het tweede lid, onderdeel a, respectievelijk onderdeel b, bedoelde maximum producthoeveelheid niet volledig dreigt te worden benut, terwijl de in het tweede lid, onderdeel b, respectievelijk onderdeel a, bedoelde maximumhoeveelheid wordt overschreden dan wel dreigt te worden overschreden.     
+4.  Artikel 7a is van overeenkomstige toepassing indien de maximumhoeveelheid, bedoeld in het eerste lid, onderdeel a, respectievelijk onderdeel b, of het tweede lid, onderdeel a, respectievelijk, onderdeel b, wordt bereikt, tenzij de minister op grond van het derde lid besluit tot een aanpassing van de in het eerste lid bedoelde onderverdeling.  
 
 ### Artikel  5  
 
@@ -90,20 +102,26 @@ De minister stelt de voor groen oogsten en niet oogsten te betalen bijstand per 
 
 ### Artikel  7a  
 
-1.  Wanneer het plafond genoemd in artikel 2, eerste lid, onderdeel a, respectievelijk onderdeel b, van verordening 1031/2014 bereikt is, beëindigt de minister de mogelijkheid om voorafgaande meldingen, als bedoeld in artikelen 78, eerste lid, en 85, tweede lid, van verordening 543/2011, voor verrichtingen, bedoeld in artikel 2, eerste lid, onderdeel b, respectievelijk onderdeel c, in te dienen met ingang van het moment waarop het plafond is bereikt.   
-2.  Na de beëindiging, bedoeld in het eerste lid, gedane meldingen komen niet meer in aanmerking voor de verstrekking van de bijstand, bedoeld in artikel 2, eerste lid, onderdeel b, respectievelijk onderdeel c.  
+1.  Wanneer het plafond genoemd in artikel 2, eerste lid, onderdeel a, respectievelijk onderdeel b, respectievelijk onderdeel c, van verordening 1031/2014 bereikt is, beëindigt de minister de mogelijkheid om voorafgaande meldingen als bedoeld in de artikelen 78, eerste lid, en 85, tweede lid, van verordening 543/2011, voor verrichtingen als bedoeld in artikel 2, eerste lid, onderdeel b, respectievelijk onderdeel c, respectievelijk onderdeel d, in te dienen met ingang van het moment waarop het plafond is bereikt.   
+2.  Na de beëindiging, bedoeld in het eerste lid, gedane meldingen komen niet meer in aanmerking voor de verstrekking van de bijstand, bedoeld in artikel 2, eerste lid, onderdeel b, respectievelijk onderdeel c respectievelijk onderdeel d.  
 
 ### Artikel  7b  
 
-1.  Aanvragen tot uitbetaling van de bijstand, bedoeld in artikel 2, eerste lid, onderdeel a, worden ingediend van 6 oktober 2014 tot en met 15 oktober 2014 met gebruikmaking van een door de minister beschikbaar gesteld middel.   
-2.  Aanvragen tot uitbetaling van de bijstand, bedoeld in artikel 2, eerste lid, onderdeel b, worden ingediend van 7 november 2014 tot en met 31 januari 2015 met gebruikmaking van een door de minister beschikbaar gesteld middel.   
-3.  Aanvragen tot uitbetaling van de bijstand, bedoeld in artikel 2, eerste lid, onderdeel c, worden ingediend van 1 maart 2015 tot en met 31 juli 2015 met gebruikmaking van een door de minister beschikbaar gesteld middel.  
-4.  Voor iedere afzonderlijke melding voor het uit de markt nemen, groen oogsten of niet oogsten op grond van deze regeling wordt een afzonderlijke aanvraag als bedoeld in het eerste of tweede lid ingediend.  
+1.  Aanvragen tot uitbetaling van de bijstand, bedoeld in: 
+
+a. artikel 2, eerste lid, onderdeel a, worden ingediend van 6 oktober 2014 tot en met 15 oktober 2014 met gebruikmaking van een door de minister beschikbaar gesteld middel;  
+
+b. artikel 2, eerste lid, onderdeel b, worden ingediend van 7 november 2014 tot en met 31 januari 2015 met gebruikmaking van een door de minister beschikbaar gesteld middel;  
+
+c. artikel 2, eerste lid, onderdeel c, worden ingediend van 1 maart 2015 tot en met 31 juli 2015 met gebruikmaking van een door de minister beschikbaar gesteld middel, en  
+
+d. artikel 2, eerste lid, onderdeel d, worden ingediend van 1 oktober 2015 tot en met 31 juli 2016 met gebruikmaking van een door de minister beschikbaar gesteld middel.     
+2.  Voor iedere afzonderlijke melding voor het uit de markt nemen, groen oogsten of niet oogsten op grond van deze regeling wordt een afzonderlijke aanvraag als bedoeld in het eerste lid ingediend.  
 
 ### Artikel  7c  
 
-1.  Als bewijsstukken bij de aanvraag, bedoeld in artikel 7b, eerste tot en met derde lid, worden de vrachtbrief en de weegbonnen overgelegd aan minister.   
-2.  In afwijking van het eerste lid wordt wanneer bij het indienen van een aanvraag als bedoeld in artikel 7b, eerste lid, de verrichting nog niet is afgerond een incomplete vrachtbrief overgelegd.   
+1.  Als bewijsstukken bij de aanvraag, bedoeld in artikel 7b, eerste lid, worden de vrachtbrief en de weegbonnen overgelegd aan minister.   
+2.  In afwijking van het eerste lid wordt wanneer bij het indienen van een aanvraag als bedoeld in artikel 7b, eerste lid, onderdeel a, de verrichting nog niet is afgerond een incomplete vrachtbrief overgelegd.   
 3.  In de gevallen, bedoeld in het tweede lid, worden de complete vrachtbieven uiterlijk op 15 december 2014 overgelegd aan de minister.  
 
 ### Artikel  8  

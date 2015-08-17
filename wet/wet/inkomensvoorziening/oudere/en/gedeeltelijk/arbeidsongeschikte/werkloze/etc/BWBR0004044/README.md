@@ -28,9 +28,7 @@ e. het Inlichtingenbureau: het Inlichtingenbureau, bedoeld in artikel 63 van de 
 
 f. netto minimumloon: het netto minimumloon, bedoeld in artikel 37, eerste lid, van de Participatiewet;  
 
-g. netto minimumjeugdloon: het netto minimumloon, bedoeld in artikel 37, eerste lid, van de Participatiewet, waarbij onder het minimumloon per maand wordt verstaan het voor de betreffende leeftijd geldende minimumloon, bedoeld in artikel 8, derde lid, van de Wet minimumloon en minimumvakantiebijslag, met dien verstande, dat voor de berekening, bedoeld in artikel 37, tweede lid, van de Participatiewet, rekening wordt gehouden met uitsluitend de algemene heffingskorting;  
-
-h. vrijheidsstraf of vrijheidsbenemende maatregel: een bij onherroepelijk geworden vonnis opgelegde vrijheidsstraf of vrijheidsbenemende maatregel als bedoeld in het Wetboek van Strafrecht. 
+g. vrijheidsstraf of vrijheidsbenemende maatregel: een bij onherroepelijk geworden vonnis opgelegde vrijheidsstraf of vrijheidsbenemende maatregel als bedoeld in het Wetboek van Strafrecht. 
 
 ### Artikel  2  
 
@@ -89,12 +87,10 @@ In hoofdstuk IV van deze wet en de daarop berustende bepalingen wordt onder gege
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:  
 
-a. thuisinwonende werkloze werknemer: de niet gehuwde dan wel duurzaam gescheiden levende werkloze werknemer van 18 tot en met 20 jaar, die behoort tot het huishouden van zijn ouder(s) of pleegouder(s) en die niet een gezamenlijke huishouding voert als bedoeld in artikel 3, derde lid;   
+a. alleenstaande werkloze werknemer: de niet gehuwde dan wel duurzaam gescheiden levende werkloze werknemer, die niet een gezamenlijke huishouding voert als bedoeld in artikel 3, derde lid, tenzij het betreft een bloedverwant in de eerste graad of een bloedverwant in de tweede graad indien er bij één van de bloedverwanten in de tweede graad sprake is van zorgbehoefte;   
 
-b. alleenstaande werkloze werknemer: de niet gehuwde dan wel duurzaam gescheiden levende werkloze werknemer, die niet een gezamenlijke huishouding voert als bedoeld in artikel 3, derde lid, tenzij het betreft een bloedverwant in de eerste graad of een bloedverwant in de tweede graad indien er bij één van de bloedverwanten in de tweede graad sprake is van zorgbehoefte, en die niet is een thuisinwonende werkloze werknemer;   
-
-c. kind: het kind jonger dan 18 jaar, dat niet als eigen kind, aangehuwd kind of pleegkind tot het huishouden van een ander dan de werkloze werknemer behoort en voor wie aan de werkloze werknemer op grond van artikel 18 van de Algemene Kinderbijslagwet kinderbijslag wordt betaald, zal worden betaald of zou worden betaald indien artikel 7, tweede lid, van die wet niet van toepassing zou zijn.     
-2.  Onder bloedverwant in de eerste graad als bedoeld in het eerste lid, onder b, wordt mede verstaan een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind van de gewezen zelfstandige. 
+b. kind: het kind jonger dan 18 jaar, dat niet als eigen kind, aangehuwd kind of pleegkind tot het huishouden van een ander dan de werkloze werknemer behoort en voor wie aan de werkloze werknemer op grond van artikel 18 van de Algemene Kinderbijslagwet kinderbijslag wordt betaald, zal worden betaald of zou worden betaald indien artikel 7, tweede lid, van die wet niet van toepassing zou zijn.     
+2.  Onder bloedverwant in de eerste graad als bedoeld in het eerste lid, onder a, wordt mede verstaan een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind van de gewezen zelfstandige. 
 
 ### Artikel  4a  
 
@@ -131,35 +127,31 @@ b. op schriftelijke aanvraag van een persoon die een uitkering op grond van deze
 
 a. de werkloze werknemer en de echtgenoot;  
 
-b. de alleenstaande werkloze werknemer en de thuisinwonende werkloze werknemer.     
+b. de alleenstaande werkloze werknemer die niet met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft;  
+
+c. de alleenstaande werkloze werknemer die met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft.    
 2.   Het recht op uitkering komt de werkloze werknemer en de echtgenoot gezamenlijk toe. De uitkering wordt aan de werkloze werknemer en de echtgenoot ieder voor de helft uitbetaald, dan wel op hun gezamenlijk verzoek aan een van hen voor het geheel.   
-3.   De grondslag, bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat:  
+3.   De grondslag, bedoeld in het eerste lid, wordt zodanig vastgesteld dat:  
 
-a. voor de werkloze werknemer en de echtgenoot die beiden 21 jaar of ouder zijn, de helft van de grondslag netto gelijk is aan € 661,77 per 1 januari 2015: € 686,31;  
+a. voor de werkloze werknemer en de echtgenoot die beiden 21 jaar of ouder zijn, de helft van de grondslag netto gelijk is aan € 687,59;  
 
-b. deze voor de werkloze werknemer en de echtgenoot, waarvan een of elk van beiden jonger dan 21 jaar is, de som bedraagt van de grondslagen die voor elk van hen als een alleenstaande werknemer of een thuisinwonende werkloze werknemer zou gelden doch ten hoogste de grondslag als bedoeld in onderdeel *a*.     
-4.   De grondslag, bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat deze:  
+b. voor de alleenstaande werkloze werknemer, bedoeld in het eerste lid, onderdeel c, die met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft, de grondslag netto gelijk is aan € 660,98 per 1 juli 2015: € 687,59.     
+4.  De grondslag, bedoeld in het eerste lid, wordt zodanig vastgesteld dat deze voor de alleenstaande werkloze werknemer van 23 jaar of ouder netto gelijk is aan € 926,47 per 1 juli 2015: € 962,63.   
+5.  Indien de grondslag, bedoeld in het eerste lid, lager is dan de grondslag, vastgesteld op grond van het derde en vierde lid, bedraagt de eerstgenoemde grondslag het maandloon, bedoeld in artikel 1b, tweede lid, van de Werkloosheidswet, dan wel het maandloon, bedoeld in artikel 13, vierde lid, onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen. Deze grondslag wordt gewijzigd op de wijze, bedoeld in artikel 14, van de Wet minimumloon en minimumvakantiebijslag.   
+6.  Het vijfde lid is niet van toepassing, voor zover de uitkomst van de berekening op grond van dat lid minder bedroeg dan de van toepassing zijnde grondslag op grond van het derde en vierde lid, als gevolg van een gedeeltelijke eindiging van een recht op uitkering op grond van de Werkloosheidswet door het verrichten van werkzaamheden als lid van de Eerste Kamer der Staten-Generaal, van een vertegenwoordigend orgaan van een publiekrechtelijk lichaam dat bij rechtstreekse verkiezing wordt samengesteld, of van een algemeen bestuur van een waterschap.   
+7.  De in het derde lid, onderdelen a en b en het vierde lid, genoemde bedragen worden gewijzigd met ingang van de dag waarop het netto minimumloon wordt gewijzigd met het percentage van deze wijziging.   
+8.  Tot de personen, bedoeld in het eerste lid, onderdeel c, worden niet gerekend: 
 
-a. voor de alleenstaande werkloze werknemer van 23 jaar of ouder netto gelijk is aan € 926,47 per 1 januari 2015: € 960,83;  
+a. de persoon die de leeftijd van 21 jaar nog niet heeft bereikt,  
 
-b. voor de alleenstaande werkloze werknemer van 22 jaar netto gelijk is aan € 766,74 per 1 januari 2015: € 794,76;  
+b. de persoon, niet zijnde een bloed- of aanverwant in de eerste of tweede graad van de alleenstaande werkloze werknemer, die op basis van een schriftelijke overeenkomst met de alleenstaande werkloze werknemer, waarbij een commerciële prijs is overeengekomen, als verhuurder, huurder, onderverhuurder, onderhuurder, kostgever of kostganger in dezelfde woning als de alleenstaande werkloze werknemer zijn hoofdverblijf heeft,  
 
-c. voor de alleenstaande werkloze werknemer van 21 jaar netto gelijk is aan € 672,03 per 1 januari 2015: € 698,12.     
-5.   De grondslag, bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat deze:  
+c. de persoon die op basis van een schriftelijke overeenkomst met een derde, waarbij een commerciële prijs is overeengekomen, als huurder, onderhuurder of kostganger in dezelfde woning als de alleenstaande werkloze werknemer zijn hoofdverblijf heeft, mits hij de overeenkomst heeft met dezelfde persoon als met wie de werkloze werknemer een schriftelijke overeenkomst heeft, waarbij een commerciële prijs is overeengekomen, als huurder, onderhuurder of kostganger, en  
 
-a. voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar netto gelijk is aan € 637,75 per 1 januari 2015: € 662,28;  
-
-b. voor de thuisinwonende werkloze werknemer netto gelijk is aan € 350,38 per 1 januari 2015: € 363,79.     
-6.  Indien dat lager is dan de grondslag, vastgesteld op grond van het derde tot en met vijfde lid, bedraagt de grondslag, bedoeld in het eerste lid, 10/7 x A + B, waarbij: A staat voor de uitkeringen ontvangen door de werkloze werknemer op grond van de Werkloosheidswet, de Ziektewet, de Wet op de arbeidsongeschiktheidsverzekering en de Wet werk en inkomen naar arbeidsvermogen in de kalendermaand voorafgaande aan de dag waarop de geldende uitkeringsduur op grond van de Werkloosheidswet of de geldende uitkeringsduur van de loongerelateerde werkhervattingsuitkering gedeeltelijk arbeidsgeschikten als bedoeld in hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen is verstreken; B staat voor het loon uit dienstbetrekking dat de werkloze werknemer in die kalendermaand verdiende, waarbij A wordt herzien op de wijze als bedoeld in artikel 14 van de Wet minimumloon en minimumvakantiebijslag.   
-7.  Voor de toepassing van het zesde lid wordt onder uitkering op grond van de Werkloosheidswet tevens verstaan inkomen dat op grond van artikel 34 van de Werkloosheidswet geheel in mindering is gebracht op de uitkering op grond van de Werkloosheidswet.   
-8.  Voor de toepassing van het zesde lid worden de uitkeringen op grond van de Werkloosheidswet en de Ziektewet vermenigvuldigd met 21,75 en vervolgens gedeeld door het aantal werkdagen in die betreffende kalendermaand.   
-9.  Het zesde lid is niet van toepassing, voor zover de uitkomst van de berekening op grond van dat lid minder bedroeg dan de van toepassing zijnde grondslag op grond van het derde tot en met vijfde lid, als gevolg van een gedeeltelijke eindiging van een recht op uitkering op grond van de Werkloosheidswet door het verrichten van werkzaamheden als lid van de Eerste Kamer der Staten-Generaal, van een vertegenwoordigend orgaan van een publiekrechtelijk lichaam dat bij rechtstreekse verkiezing wordt samengesteld, of van een algemeen bestuur van een waterschap.   
-10.  De in het derde lid, onderdeel a, vierde lid, onderdeel a, en vijfde lid, genoemde bedragen worden herzien met ingang van de dag waarop het netto minimumloon wordt herzien met het percentage van deze herziening.   
-11.  De in het vierde lid, onderdelen b en c, genoemde bedragen worden herzien met ingang van de dag waarop het netto minimumjeugdloon wordt herzien met het percentage van deze herziening.   
-12.  Voor zover het recht op uitkering op grond van de Werkloosheidswet gedeeltelijk is geëindigd door het verrichten van werkzaamheden als bedoeld in artikel 8, tweede lid, van die wet, wordt bij de toepassing van het zesde lid voor de vaststelling van factor A uitgegaan van het bedrag aan loondervingsuitkering dat zou zijn genoten indien die werkzaamheden niet zouden zijn verricht.   
-13.  Het twaalfde lid is van overeenkomstige toepassing indien de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten, bedoeld in hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen, is verlaagd als gevolg van het verrichten van werkzaamheden uit hoofde waarvan de werkloze werknemer geen werknemer is als bedoeld in de artikelen 8 en 9 van die wet.  
-14.  Bij de bepaling van het inkomen, bedoeld in het eerste lid, wordt een koopkrachttegemoetkoming op grond van artikel 36a van de Participatiewet niet in aanmerking genomen.  
-15.  Van de herziene bedragen en van de dag waarop de herziening plaats vindt wordt door Onze Minister mededeling gedaan in de Staatscourant. 
+d. de persoon die onderwijs volgt waarvoor aanspraak op studiefinanciering kan bestaan op grond van de Wet studiefinanciering 2000 en op enig moment tijdens dat onderwijs gelet op zijn leeftijd in aanmerking kan komen voor die studiefinanciering, de persoon die onderwijs volgt waarvoor aanspraak kan bestaan op een tegemoetkoming op grond van hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten, en de persoon die een beroepsopleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen a tot en met e, van de Wet educatie en beroepsonderwijs in de beroepsbegeleidende leerweg volgt.     
+9.  Op verzoek van het college legt de alleenstaande werkloze werknemer de schriftelijke overeenkomst, bedoeld in het twaalfde lid, onderdeel b of onderdeel c, over en toont hij de betaling van de commerciële prijs aan door het overleggen van de bewijzen van betaling.  
+10.  Bij de bepaling van het inkomen, bedoeld in het eerste lid, wordt een koopkrachttegemoetkoming op grond van artikel 36a van de Participatiewet niet in aanmerking genomen.  
+11.  De gewijzigde bedragen en de dag waarop de wijzigingen ingaan, worden door of namens Onze Minister bekend gemaakt in de Staatscourant. 
 
 ### Artikel  6  
 
@@ -194,11 +186,11 @@ Indien het recht op uitkering als gevolg van werkaanvaarding van de werkloze wer
 
 a. voor de werkloze werknemer en de echtgenoot: de som van het inkomen uit arbeid of overig inkomen van hemzelf en zijn echtgenoot;  
 
-b. voor de alleenstaande en de thuiswonende werkloze werknemer: zijn inkomen uit arbeid of overig inkomen.     
-2.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 291,04 per 1 januari 2015: € 309,36 per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
+b. voor de alleenstaande werkloze werknemer: zijn inkomen uit arbeid of overig inkomen.     
+2.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 306,12 per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
 3.  Bij algemene maatregel van bestuur wordt bepaald wat wordt verstaan onder inkomen uit arbeid of overig inkomen als bedoeld in het eerste lid. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.   
 4.  Het bedrag, genoemd in het tweede lid, wordt gewijzigd met ingang van de dag waarop het in artikel 31, tweede lid, onderdeel n, van de Participatiewet genoemde bedrag wordt gewijzigd. Het gewijzigde bedrag, wordt, samen met de dag waarop de wijzigingen ingaan, door of namens Onze Minister bekend gemaakt in de Staatscourant.  
-5.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een alleenstaande ouder tot 12,5 procent van dit inkomen, met een maximum van € 187,28 per 1 januari 2015: € 199,81 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij een uitkering ontvangt, ingeval: 
+5.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een alleenstaande ouder tot 12,5 procent van dit inkomen, met een maximum van € 200,03 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij een uitkering ontvangt, ingeval: 
 
 a. hij de volledige zorg heeft voor zijn kind tot 12 jaar,  
 
@@ -206,7 +198,7 @@ b. de periode van zes aaneengesloten maanden, bedoeld in het tweede lid, is vers
 
 c. dit volgens het college bijdraagt aan zijn arbeidsinschakeling.     
 6.  Het bedrag, genoemd in het vijfde lid, wordt gewijzigd met ingang van de dag waarop het in artikel 31, tweede lid, onderdeel r, van de Participatiewet genoemde bedrag wordt gewijzigd. Het gewijzigde bedrag, wordt, samen met de dag waarop de wijzigingen ingaan, door of namens Onze Minister bekend gemaakt in de Staatscourant.  
-7.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een persoon die medisch urenbeperkt is tot 15 procent van dit inkomen uit arbeid, met een maximum van € 124,00 per maand, voor zover hij een uitkering op grond van deze wet ontvangt, tenzij het tweede of vijfde lid van toepassing is.   
+7.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een persoon die medisch urenbeperkt is tot 15 procent van dit inkomen uit arbeid, met een maximum van € 124,05 per maand, voor zover hij een uitkering op grond van deze wet ontvangt, tenzij het tweede of vijfde lid van toepassing is.   
 8.  Het bedrag, genoemd in het zevende lid, wordt gewijzigd met ingang van de dag waarop het in artikel 31, tweede lid, onderdeel z, van de Participatiewet genoemde bedrag wordt gewijzigd. Het gewijzigde bedrag, wordt, samen met de dag waarop de wijzigingen ingaan, door of namens Onze Minister bekend gemaakt in de Staatscourant. 
 
 ### §  2  
@@ -539,7 +531,8 @@ Het college draagt zorg voor de realisatie en vormgeving van cliëntenparticipat
 ### Artikel  44  
 
 1.  Ieder is verplicht desgevraagd en bevoegd uit eigen beweging aan het college kosteloos opgaven en inlichtingen te verstrekken omtrent feiten en omstandigheden die noodzakelijk zijn voor de uitvoering van deze wet ten opzichte van een persoon te wiens behoeve een uitkering is gevraagd of wordt verleend en die in zijn dienst dan wel voor hem arbeid verricht, heeft verricht of zou kunnen gaan verrichten. De verplichting strekt zich mede uit tot de inkomsten van een persoon van wie uitkeringen ingevolge hoofdstuk II, paragraaf 5, worden of kunnen worden teruggevorderd.    
-2.   De opgaven en inlichtingen moeten desgevraagd schriftelijk, of in een andere vorm die redelijkerwijs kan worden verlangd, binnen een door het college schriftelijk te stellen termijn worden verstrekt.   
+2.   De opgaven en inlichtingen moeten desgevraagd schriftelijk, of in een andere vorm die redelijkerwijs kan worden verlangd, binnen een door het college schriftelijk te stellen termijn worden verstrekt.    
+3.  Op verzoek van het college legt de meerderjarige persoon die in dezelfde woning als de werkloze werknemer zijn hoofdverblijf heeft, als bedoeld in artikel 5, eerste en derde lid, desgevraagd alle gegevens en inlichtingen over die voor de beoordeling van de aanspraak op uitkering van belang kunnen zijn. 
 
 ### Artikel  45  
 
@@ -745,6 +738,23 @@ c. personen die voor 1 december 2009 voldoen aan artikel 2 maar die voor die da
 ### Artikel  63d  
 
 De artikelen 3, zevende en achtste lid, en 4, tweede lid, zijn niet van toepassing, indien voor de inwerkingtreding van deze artikelleden, op grond van artikel 5 recht bestaat op een uitkering voor de werkloze werknemer en de echtgenoot, omdat de ongehuwde uitkeringsgerechtigde wegens een gezamenlijke huishouding met een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind is aangemerkt als echtgenoot, voor zolang dit recht op uitkering bestaat, tenzij toepassing van de genoemde artikelleden leidt tot een hogere uitkering. 
+
+### Artikel  63e  
+
+1.  In afwijking van artikel 5, derde lid, onderdeel b, wordt de grondslag voor de alleenstaande werkloze werknemer zodanig vastgesteld dat de netto grondslag per maand gelijk is aan: 
+
+a. van 1 juli 2015 tot en met 31 december 2015 € 900,00 per 1 juli 2015: € 935,12;  
+
+b. in 2016 € 860,29 per 1 juli 2015: € 893,87;  
+
+c. in 2017 € 794,12 per 1 juli 2015: € 825,11 en  
+
+d. in 2018 € 727,94 per 1 juli 2015: € 756,35.     
+2.  Artikel 5, negende lid, is van overeenkomstige toepassing op de bedragen, genoemd in het eerste lid.   
+3.  Het eerste lid, onderdeel a, vervalt met ingang van 1 januari 2016.   
+4.  Het eerste lid, onderdeel b, vervalt met ingang van 1 januari 2017.   
+5.  Het eerste lid, onderdeel c, vervalt met ingang van 1 januari 2018.   
+6.  Dit artikel vervalt met ingang van 1 januari 2019.  
 
 ### Artikel  63g  
 

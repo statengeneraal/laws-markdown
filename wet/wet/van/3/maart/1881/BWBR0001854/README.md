@@ -2735,9 +2735,9 @@ Hij die opzettelijk enig werk dienende voor het openbaar verkeer of het luchtver
 
 Hij die opzettelijk op een luchthaven een luchtvaartuig buiten bedrijf of enige voorziening vernielt, onbruikbaar maakt of beschadigt, dan wel de diensten op een luchthaven verstoort, wordt gestraft:  
 
-1°. met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie, indien daarvan gevaar voor de veiligheid van de luchtvaart te duchten valt;  
+1°. met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie, indien daarvan gevaar voor de veiligheid van de luchtvaart of gemeen gevaar voor goederen, gebouwen of diensten op de luchthaven te duchten valt;  
 
-2°. met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien daarvan gevaar voor de veiligheid van de luchtvaart te duchten valt en het feit iemands dood ten gevolge heeft.   
+2°. met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien daarvan gevaar voor de veiligheid van de luchtvaart of gemeen gevaar voor goederen, gebouwen of diensten op de luchthaven te duchten valt en het feit iemands dood ten gevolge heeft.   
 
 ### Artikel  163  
 
@@ -4509,7 +4509,7 @@ Hij die een Nederlands vaartuig opzettelijk in de macht van zeerovers brengt, wo
 
 ### Artikel  385b  
 
-1.  Hij die opzettelijk een daad van geweld begaat tegen iemand die zich aan boord van een luchtvaartuig in vlucht bevindt, wordt gestraft:  
+1.  Hij die opzettelijk een ontplofbare of anderszins gemeengevaarlijke stof, of enig ander gemeengevaarlijk voorwerp aan boord van een luchtvaartuig brengt of een daad van geweld begaat tegen iemand die zich aan boord van een luchtvaartuig in vlucht bevindt, wordt gestraft:  
 
 1°. met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie, indien daarvan gevaar voor de veiligheid van het luchtvaartuig te duchten is;  
 
@@ -4524,13 +4524,13 @@ Hij die opzettelijk gegevens doorgeeft waarvan hij weet of ernstige reden heeft 
 
 ### Artikel  385d  
 
-Hij die opzettelijk met gebruikmaking van een vuurwapen, een ontplofbare of anderszins gemeengevaarlijke stof of enig ander gemeengevaarlijk voorwerp, een daad van geweld begaat tegen iemand die zich in of in de onmiddellijke nabijheid van de vertrek- of aankomstruimten van een luchthaven bevindt, wordt gestraft:  
+Hij die opzettelijk een daad van geweld begaat tegen iemand die zich op een luchthaven bevindt, wordt gestraft: 
 
-1°. met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie, indien daardoor levensgevaar voor andere gebruikers van de luchthaven te duchten valt;  
+1°. met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie, indien daardoor levensgevaar of gevaar voor zwaar lichamelijk letsel voor anderen op de luchthaven te duchten valt;  
 
-2°. met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien daardoor levensgevaar voor andere gebruikers van de luchthaven te duchten valt en het feit zwaar lichamelijk letsel voor een ander ten gevolge heeft;  
+2°. met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien daardoor levensgevaar of gevaar voor zwaar lichamelijk letsel voor anderen op de luchthaven te duchten valt en het feit zwaar lichamelijk letsel voor een ander ten gevolge heeft;  
 
-3°. met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien daardoor levensgevaar voor andere gebruikers van de luchthaven te duchten valt en het feit iemands dood ten gevolge heeft.   
+3°. met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien daardoor levensgevaar voor anderen op de luchthaven te duchten valt en het feit iemands dood ten gevolge heeft.   
 
 ### Artikel  386  
 

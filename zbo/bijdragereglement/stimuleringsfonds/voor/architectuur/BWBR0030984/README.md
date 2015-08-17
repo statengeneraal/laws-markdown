@@ -3,13 +3,13 @@
 ##Bijdragereglement Stimuleringsfonds voor Architectuur
 
 Het bestuur van de stichting Stimuleringsfonds voor Architectuur,  
-De [Regeling projectsubsidies Architectuur](../../../../../../zbo/regeling/projectsubsidies/architectuur/BWBR0012135/README.md) van het Stimuleringsfonds voor Architectuur (SfA) is vervangen door het [Bijdragereglement Stimuleringsfonds voor Architectuur](../../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md).
+De Regeling projectsubsidies Architectuur van het Stimuleringsfonds voor Architectuur (SfA) is vervangen door het Bijdragereglement Stimuleringsfonds voor Architectuur.
 
 Het Bijdragereglement is van toepassing op het aanvragen, beoordelen, verlenen en vaststellen van een financiële bijdrage voor een project. Aanvullend op het Bijdragereglement kunnen deelregelingen worden opgesteld.
 
 In overeenstemming met de minister van Onderwijs, Cultuur en Wetenschappen,
 
-Gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);
+Gelet op artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid;
 Besluit:    
 
 ### Artikel  1  
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 ####Toepasselijkheid Bijdragereglement
 
-1.  De bepalingen in dit reglement zijn van toepassing op het aanvragen, beoordelen, verlenen en vaststellen van een bijdrage voor een project. Dit reglement geldt naast de statuten, het huishoudelijk reglement en de [Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). In deelregelingen kan het SfA nadere formele, financiële, kwalitatieve of kwantitatieve vereisten stellen.   
+1.  De bepalingen in dit reglement zijn van toepassing op het aanvragen, beoordelen, verlenen en vaststellen van een bijdrage voor een project. Dit reglement geldt naast de statuten, het huishoudelijk reglement en de Algemene wet bestuursrecht. In deelregelingen kan het SfA nadere formele, financiële, kwalitatieve of kwantitatieve vereisten stellen.   
 2.  Een bijdrage wordt altijd verleend onder de voorwaarde dat voldoende gelden aan het SfA ter beschikking worden gesteld.   
 3.  Het SfA kan, ten aanzien van de volgorde van de beoordeling en de verlening van een bijdrage, voorrang verlenen aan een bepaalde aanvraag in verband met: 
 
@@ -285,13 +285,13 @@ f. wat het totale bedrag van de gerealiseerde eigen bijdrage is.
 
 ####Verantwoording bij subsidies van € 125.000 of meer
 
-Indien de subsidie € 125.000 of meer bedraagt, legt de subsidieontvanger, onverminderd artikel 13b, rekening en verantwoording af aan de hand van een financieel verslag. [Artikel 4:76 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. 
+Indien de subsidie € 125.000 of meer bedraagt, legt de subsidieontvanger, onverminderd artikel 13b, rekening en verantwoording af aan de hand van een financieel verslag. Artikel 4:76 van de Algemene wet bestuursrecht is van overeenkomstige toepassing. 
 
 ### Artikel  13e  
 
 ####Accountantsverklaring bij subsidies van € 125.000 of meer
 
-1.  Het financieel verslag, bedoeld in artikel 13d, gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+1.  Het financieel verslag, bedoeld in artikel 13d, gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.   
 2.  De subsidieontvanger bedingt bij de accountant dat deze zijn onderzoek inricht overeenkomstig een controleprotocol indien dat door het bestuur is vastgesteld.   
 3.  In de verklaring, bedoeld in het eerste lid, geeft de accountant tevens een oordeel over de naleving door de subsidieontvanger van de in het controleprotocol genoemde voorschriften.  
 
@@ -342,7 +342,7 @@ d. aan het bezwaar volledig tegemoet wordt gekomen en andere belanghebbenden daa
 
 ####Bescherming persoonsgegevens
 
-Het SfA verstrekt geen vertrouwelijke informatie over een aanvraag aan derden. Het gaat hier om bedrijfs- en fabricagegegevens die door een aanvrager vertrouwelijk aan het SfA zijn medegedeeld of om persoonsgegevens als bedoeld in [hoofdstuk 2, paragraaf 2 van de Wet Bescherming Persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), tenzij de verstrekking kennelijk geen inbreuk op de persoonlijke levenssfeer maakt. 
+Het SfA verstrekt geen vertrouwelijke informatie over een aanvraag aan derden. Het gaat hier om bedrijfs- en fabricagegegevens die door een aanvrager vertrouwelijk aan het SfA zijn medegedeeld of om persoonsgegevens als bedoeld in hoofdstuk 2, paragraaf 2 van de Wet Bescherming Persoonsgegevens, tenzij de verstrekking kennelijk geen inbreuk op de persoonlijke levenssfeer maakt. 
 
 ### Artikel  17  
 

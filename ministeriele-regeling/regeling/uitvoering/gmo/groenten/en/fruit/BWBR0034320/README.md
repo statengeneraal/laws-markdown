@@ -756,11 +756,11 @@ a. kosten voor personeel in dienst van:
 
 2° een dochteronderneming die voor minimaal 90% eigendom is van de producentenorganisatie;  
 
-3° een kleindochteronderneming die voor minimaal 90% eigendom is van de producentenorganisatie;  
+3° een kleindochteronderneming die voor minimaal 90% eigendom is van de producentenorganisatie, en    
 
-4° leden, en    
+b. kosten voor gedetacheerd personeel en uitzendkrachten ingehuurd door de in onderdeel a genoemde ondernemingen,  
 
-b. kosten voor gedetacheerd personeel en uitzendkrachten.   
+c. kosten van een lid, natuurlijk persoon, of eigenaar of directeur van een lid, rechtspersoon.  
 
 ### Artikel  48  
 
@@ -781,16 +781,9 @@ b. de verhouding tussen de bestede uren en de omvang van de betreffende activite
 
 ### Artikel  49  
 
-1.  Voor de kosten van de inzet van leden of personeel van leden geldt een forfaitair uurtarief van: 
+a. Voor de kosten als bedoeld in artikel 47, onderdeel c geldt een forfaitair uurtarief van € 40.  
 
-a. € 40 voor aangesloten leden, en  
-
-b. € 25 voor personeel van aangesloten leden.     
-2.  Wanneer een lid als bedoeld in het eerste lid meerdere eigenaren en of directeuren heeft: 
-
-a. vraagt de producentenorganisatie slechts voor één eigenaar of directeur het tarief, bedoeld in het tweede lid, onderdeel a, aan, en  
-
-b. geeft de producentenorganisatie bij de indiening van het operationeel programma aan welke eigenaar of directeur de activiteiten zal uitvoeren.    
+b. Wanneer een producentenorganisatie meerdere eigenaren of directeuren heeft geeft de producentenorganisatie bij de indiening van het operationeel programma aan welke eigenaar of directeur de activiteiten zal uitvoeren en zijn de personeelskosten voorzover die door de betreffende directeur of eigenaar worden veroorzaakt subsidiabel.   
 
 ### Artikel  50  
 
@@ -1411,9 +1404,14 @@ c. fustopslag.
 
 ### Artikel  100  
 
-1.  Uitgaven van de producentenorganisatie voor koeling van producten zijn subsidiabel, indien het gaat om uitgaven voor het huren van koelcellen.   
-2.  De in het eerste lid bedoelde uitgaven zijn subsidiabel in het jaar waarin zij aan de producentenorganisatie gefactureerd zijn.   
-3.  Ter uitvoering van artikel 60, eerste lid, van verordening 543/2011 overlegt de producentenorganisatie jaarlijks bij het indienen van de steunaanvraag aan de minister de registratie van de in- en uitslag van de uitgaven, bedoeld in het eerste lid.  
+1.  Uitgaven van de producentenorganisatie voor koeling van producten zijn subsidiabel, indien het gaat om uitgaven voor het huren van koelcellen. 
+2.  De uitgaven, bedoeld in het eerste lid, omvatten geen algemene productiekosten zoals in- en uitslagkosten of energiekosten.  
+3.  De in het eerste lid bedoelde uitgaven zijn subsidiabel in het jaar waarin zij aan de producentenorganisatie gefactureerd zijn.   
+4.  Ter uitvoering van artikel 60, eerste lid, van verordening 543/2011 overlegt de producentenorganisatie jaarlijks bij het indienen van de steunaanvraag aan de minister een bewijs van de uitgaven, bedoeld in het eerste lid, bestaande uit: 
+
+a. een huurcontract; en  
+
+b. een registratie van de in- en uitslag.   
 
 ### Artikel  101  
 
@@ -2341,7 +2339,7 @@ g. kookdemonstraties;
 
 h. bedrijfsrondleidingen bij een producentenorganisatie of lid van de producentenorganisatie, open dag, opening, jubileum, of  
 
-i. deelname aan beurzen, indien deze beurzen gericht zijn op afnemers van de producentenorganisatie.     
+i. deelname aan beurzen, indien deze beurzen gericht zijn op afnemers van de producentenorganisatie, met uitzondering van verstrekte consumpties.     
 2.  Ter onderbouwing van de uitgaven, bedoeld in het eerste lid, onderdeel h, overlegt de producentenorganisatie aan de minister bij de indiening van de steunaanvraag een uitnodigingslijst.   
 3.  Promotieacties of promotieartikelen waarvan de kosten mede worden gedragen door een afnemer zijn niet subsidiabel.  
 
@@ -2356,17 +2354,6 @@ b. het bouwen van nieuwe websites, of
 
 c. het uitbreiden van bestaande websites met aantoonbare nieuwe elementen.     
 3.  Kosten voor abonnementen bij providers, hosting van serverruimte, communicatie met het web, het updaten van bestaande websites en berichtgeving in het kader van social media zijn niet subsidiabel.  
-
-### Artikel  174  
-
-1.  Uitgaven van de producentenorganisatie voor sponsoring in het kader van promotie zijn subsidiabel voor zover de sponsoring een onderdeel is van het marketingplan van de producentenorganisatie.   
-2.  Bij de indiening van de steunaanvraag verstrekt de producentenorganisatie aan de minister een sponsorovereenkomst met daarin vermeld: 
-
-a. het sponsorbedrag;  
-
-b. de uitgaven voor ondersteunende middelen, en  
-
-c. de tegenprestatie van de gesponsorde partij gericht op het realiseren van de marketingdoelstellingen van de producentenorganisatie.    
 
 ### Artikel  175  
 
@@ -2387,7 +2374,7 @@ Uitgaven van de producentenorganisatie voor het ontwikkelen van een communicatie
 1.  Uitgaven van de producentenorganisatie voor sectorpromotie en verbetering van het imago van de voedingstuinbouw zijn subsidiabel.   
 2.  De uitgaven, bedoeld in het eerste lid, kunnen onder meer omvatten: 
 
-a. consumentenbeurzen en publieksevenementen, of  
+a. consumentenbeurzen en publieksevenementen, met uitzondering van verstrekte consumpties, of  
 
 b. promotionele activiteiten in het kader van duurzaam telen.    
 
@@ -3086,7 +3073,11 @@ De minister stelt de door de lidstaten vast te stellen maximale steunbedragen be
 a. personen die op grond van artikel 11, eerste lid, van de Wet werk en bijstand recht hebben op een overheidsuitkering, en  
 
 b. andere personen die ten genoegen van de voedselbanken kunnen aantonen niet over voldoende middelen te beschikken om in hun onderhoud te voorzien.     
-3.  Het overnamecertificaat bedoeld in artikel 83, eerste lid, onderdeel d, van verordening 543/2011 wordt getekend door de voedselbank die de uit de markt genomen producten daadwerkelijk uitreikt aan de eindontvangers.   
+3.  Het overnamecertificaat, bedoeld in artikel 83, eerste lid, onderdeel d, van verordening 543/2011 wordt getekend door: 
+
+a. het regionale distributiecentrum, in het geval de uit de markt genomen producten geleverd worden aan een regionale distributiecentrum voor voedselbanken, en  
+
+b. de voedselbank, in het geval de uit de markt genomen producten geleverd worden aan de voedselbank die de uit de markt genomen producten daadwerkelijk uitreikt aan de eindontvangers.     
 4.  Indien een voedselbank van haar aanvragers een symbolische bijdrage vraagt voor de voedselpakketten vraagt de voedselbank hiervoor vooraf toestemming aan onze minister en houdt zij hiervoor een financiële boekhouding bij.   
 5.  Indien een voedselbank de op grond van deze regeling ontvangen producten verwerkt of laat verwerken toont de voedselbank aan dat de verwerkte producten volledig ten goede komen aan de personen bedoeld in het tweede lid.  
 
@@ -4140,8 +4131,7 @@ Archiefbescheiden van Productschap Tuinbouw betreffende zaken die op basis van d
 
 ### Artikel  313  
 
-1. Deze regeling treedt in werking met ingang van 1 januari 2014.  
-2.  De paragrafen 2a en 2b van afdeling 6 van titel 3 van hoofdstuk 4 vervallen met ingang van 1 januari 2015. 
+Deze regeling treedt in werking met ingang van 1 januari 2014. 
 
 ### Artikel  314  
 

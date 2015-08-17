@@ -23,21 +23,23 @@ d. asielzoeker: een vreemdeling wiens vrijheid niet rechtens is ontnomen, door w
 
 e. alleenstaande minderjarige vreemdeling: een asielzoeker die de leeftijd van 18 jaar nog niet heeft bereikt en die zonder begeleiding of verzorging van een ouder of voogd in Nederland verblijft;  
 
-f. gezin: 
+f. gezinsleden: de volgende leden van het gezin van de asielzoeker die in verband met de asielaanvraag in Nederland aanwezig zijn, voor zover het gezin reeds bestond in het land van herkomst:
 
-1°. de gehuwden of partners tezamen;  
+1°. echtgenoten of aan gehuwden gelijkgestelde partners;  
 
-2°. de gehuwden of partners met het tot hun last komende kind of stiefkind jonger dan 18 jaar;  
+2°. hun minderjarige kinderen, mits zij ongehuwd en van hun afhankelijk zijn;  
 
-3°. de alleenstaande ouder met het tot zijn last komende kind of stiefkind jonger dan 18 jaar;    
+3°. de vader, moeder, of een andere volwassene die volgens het recht of de praktijk in Nederland verantwoordelijk is voor de minderjarige en ongehuwde asielzoeker;    
 
-g. alleenstaande ouder: de alleenstaande die de volledige zorg heeft voor een of meer tot zijn last komende (stief)kinderen en geen gezamenlijke huishouding voert met een ander, tenzij het betreft een bloedverwant in de eerste graad of een bloedverwant in de tweede graad;  
+g. minderjarig: de leeftijd van 18 jaar nog niet bereikt hebbende;  
 
 h. opvangvoorziening: een accommodatie waarin door of onder verantwoordelijkheid van het COA opvang wordt geboden aan asielzoekers;  
 
 i. uitgenodigde vluchtelingen: vreemdelingen die, na een verzoek daartoe van de Hoge Commissaris van de Verenigde Naties voor vluchtelingen (UNHCR) op uitnodiging van de Nederlandse regering in Nederland verblijven;  
 
-j. rust- en voorbereidingstermijn: de termijn van tenminste zes dagen waarin de vreemdeling rechtmatig verblijf heeft na indiening van de asielaanvraag en het onderzoek als bedoeld in artikel 3.110 van het Vreemdelingenbesluit 2000 nog niet is aangevangen.  
+j. rust- en voorbereidingstermijn: de termijn van tenminste zes dagen waarin de vreemdeling rechtmatig verblijf heeft na indiening van de asielaanvraag en het onderzoek als bedoeld in artikel 3.110 van het Vreemdelingenbesluit 2000 nog niet is aangevangen; 
+
+k. Opvangrichtlijn: Richtlijn 2013/33/EU van het Europees Parlement en de Raad van 26 juni 2013 tot vaststelling van normen voor de opvang van verzoekers om internationale bescherming (Pb EU 2013, L 180).  
 
 ###Hoofdstuk II 
 
@@ -47,14 +49,14 @@ j. rust- en voorbereidingstermijn: de termijn van tenminste zes dagen waarin de 
 
 1.  Deze regeling heeft uitsluitend betrekking op een asielzoeker en de daarmee gelijkgestelde categorieën, als bedoeld in artikel 3 derde en vierde lid van deze regeling, die niet beschikt over voldoende middelen om in de noodzakelijke kosten van het bestaan te voorzien, als bedoeld in de Participatiewet.   
 2.  Het COA kan deze regeling tevens van toepassing verklaren op een asielzoeker die beschikt over voldoende middelen om in de noodzakelijke kosten van het bestaan te voorzien, indien dringende redenen daartoe noodzaken.   
-3.  Het COA verstrekt aan de asielzoeker, als bedoeld in artikel 3 van deze regeling, binnen een termijn van ten hoogste 10 dagen na plaatsing in een opvangvoorziening: 
+3.  Het COA verstrekt aan de asielzoeker, bedoeld in artikel 3, binnen een redelijke termijn van ten hoogste vijftien dagen na de indiening van de asielaanvraag informatie over: 
 
-a. informatie met betrekking tot de voor de asielzoeker aan de opvang van het COA verbonden rechten en plichten;  
+a. de geldende voordelen en de verplichtingen die hij moet nakomen in verband met de opvangvoorzieningen;  
 
-b. informatie met betrekking tot rechtsbijstand en met betrekking tot zijn opvangvoorzieningen.     
-4.  Het COA zorgt ervoor dat de in het vorige lid bedoelde informatie schriftelijk in een voor de asielzoeker begrijpelijke taal wordt verstrekt.   
-5.  Er ontstaat geen recht op opvang indien een asielzoeker niet binnen 24 uur na doorverwijzing door het COA naar de opvang in een opvangvoorziening arriveert.   
-6.  Er ontstaat geen recht op opvang indien de asielaanvraag is ingediend door een onderdaan van een lidstaat van de Europese Unie, de Economische Ruimte of Zwitserland.  
+b. organisaties of groepen van personen die specifieke rechtsbijstand verlenen;  
+
+c. de opvangvoorzieningen, waaronder medische zorg.     
+4.  Het COA zorgt ervoor dat de in het derde lid bedoelde informatie schriftelijk wordt verstrekt in een taal die de asielzoeker verstaat of waarvan redelijkerwijs kan worden aangenomen dat hij deze verstaat. In voorkomend geval kan deze informatie tevens mondeling verstrekt worden.  
 
 ### Artikel  3  
 
@@ -103,9 +105,21 @@ q. de vreemdeling die in het bezit is gesteld van een machtiging tot voorlopig v
 
 ### Artikel  4  
 
-1.  Onze Minister is bevoegd om, indien het COA aangeeft dat er sprake is van een capacitaire noodsituatie of enige andere bijzondere omstandigheid, het COA de bevoegdheid toe te kennen bepaalde categorieën asielzoekers uit te sluiten van opvang.   
-2.  Er bestaat geen recht op opvang indien de asielzoeker tot ongewenst vreemdeling als bedoeld in artikel 67 van de Vreemdelingenwet 2000 is verklaard, of indien jegens de asielzoeker een inreisverbod als bedoeld in artikel 66a van die wet geldt en de vreemdeling uit dien hoofde geen rechtmatig verblijf heeft.   
-3.  Het enkele beroep op artikel 64 van de Vreemdelingenwet 2000 danwel het beroep op de daarmee gelijk te stellen feitelijke situatie, als bedoeld in artikel 3, derde lid, aanhef en onder g van deze regeling, genereert geen recht op opvang.  
+1.  In naar behoren gemotiveerde gevallen kan de Minister aan het COA de bevoegdheid verlenen om bepaalde categorieën asielzoekers uit te sluiten van opvang indien: 
+
+a. de gewoonlijk beschikbare huisvestingscapaciteit tijdelijk uitgeput is;  
+
+b. een beoordeling van de specifieke situatie en bijzondere opvangbehoeften van een kwetsbare asielzoeker vereist is.     
+2.  Aan een asielzoeker die overeenkomstig het eerste lid is uitgesloten van opvang, worden vervangende verstrekkingen verleend, die in elk geval de basisbehoeften dekken.   
+3.  Er bestaat geen recht op opvang: 
+
+a. indien de asielzoeker niet binnen 24 uur na doorverwijzing door het COA naar de opvang in de opvangvoorziening arriveert;  
+
+b. indien de asielzoeker een onderdaan is van een lidstaat van de Europese Unie, de Europese Economische Ruimte of Zwitserland;  
+
+c. indien de asielzoeker tot ongewenst vreemdeling als bedoeld in artikel 67 van de Vreemdelingenwet 2000 is verklaard, of tegen de asielzoeker een inreisverbod als bedoeld in artikel 66a van die wet is uitgevaardigd en hij uit dien hoofde geen rechtmatig verblijf heeft;  
+
+d. door het enkele beroep van de asielzoeker op artikel 64 van de Vreemdelingenwet 2000 of op de daarmee gelijkgestelde feitelijk situatie, bedoeld in artikel 3, derde lid, aanhef en onder g.    
 
 ###Hoofdstuk III 
 
@@ -170,7 +184,7 @@ m. indien het een uitgeprocedeerde asielzoeker betreft aan wie met toepassing va
 
 1.  Behoudens de uitzondering genoemd in lid 9, omvat de opvang in een opvangvoorziening in elk geval de volgende verstrekkingen: 
 
-a. onderdak;  
+a. onderdak in opvangvoorzieningen die een toereikend huisvestingsniveau bieden of in particuliere huizen, appartementen, hotels of andere voor de huisvesting van asielzoekers aangepaste ruimten;  
 
 b. een wekelijkse financiële toelage ten behoeve van voedsel, kleding en andere persoonlijke uitgaven;  
 
@@ -184,13 +198,19 @@ f. een verzekering tegen de financiële gevolgen van wettelijke aansprakelijkhei
 
 g. betaling van buitengewone kosten.     
 2.  Zo spoedig mogelijk nadat een asielzoeker voor de eerste keer in een opvangvoorziening is opgevangen, vindt een eerste onderzoek naar zijn gezondheidstoestand plaats.   
-3.  Tijdens het verblijf in de opvangvoorziening wordt de asielzoeker een programma voor educatie en ontwikkeling geboden.   
-4.  Voor bijzonder kwetsbare personen omvat de opvang naast de in het eerste lid bedoelde verstrekkingen tevens specifieke begeleiding.   
-5.  Het aanbieden van recreatieve en educatieve activiteiten en het in bruikleen geven van gebruiksvoorwerpen kan afhankelijk gesteld worden van de betaling door de asielzoeker van een waarborgsom.   
-6.  Tijdens het verblijf in de opvangvoorziening bestaat voor de asielzoeker de mogelijkheid om te communiceren met familieleden, raadslieden en vertegenwoordigers van de Hoge Commissaris van de Verenigde Naties voor vluchtelingen (UNHCR) en door Onze Minister erkende niet-gouvernementele organisaties (NGO’s).   
-7.  Juridisch adviseurs of raadslieden van asielzoekers en vertegenwoordigers van de UNHCR of van de door het Bureau van de Hoge Commissaris gemachtigde en door Onze Minister erkende NGO’s hebben toegang tot de opvangvoorziening, zodat zij de asielzoekers kunnen bijstaan.   
-8.  De in het vorige lid bedoelde toegang kan worden beperkt om redenen die verband houden met de veiligheid van de opvangvoorziening of de veiligheid van de asielzoeker.   
-9.  Het eerste lid, onderdeel b en d, en het derde lid zijn niet van toepassing op de asielzoeker wiens asielaanvraag in het Aanmeldcentrum wordt behandeld dan wel de vreemdeling die in zijn rust- en voorbereidingstermijn voor verstrekkingen in aanmerking komt, tenzij het een alleenstaande minderjarige vreemdeling betreft. 
+3.  Het COA zorgt ervoor dat tijdens het verblijf in de opvangvoorziening: 
+
+a. de asielzoeker bescherming van zijn gezinsleven geniet;  
+
+b. de asielzoeker de mogelijkheid heeft om te communiceren met familieleden, juridisch adviseurs of raadslieden en vertegenwoordigers van de Hoge Commissaris der Verenigde Naties voor Vluchtelingen (UNHCR) en andere relevante, internationale en niet-gouvernementele organisaties en instanties;  
+
+c. familieleden, juridisch adviseurs of raadslieden, vertegenwoordigers van de UNHCR en relevante door de Minister erkende niet-gouvernementele organisaties toegang hebben tot de opvangvoorziening zodat zij de asielzoeker kunnen bijstaan;  
+
+d. de asielzoeker een programma voor educatie en ontwikkeling wordt geboden.     
+4.  De toegang, bedoeld in het derde lid, onder c, kan slechts worden beperkt om redenen die verband houden met de veiligheid van de opvangvoorziening en van de asielzoekers.   
+5.  Het eerste lid, onder b en d, en het derde lid, onder d, zijn niet van toepassing op de asielzoeker wiens asielaanvraag in het Aanmeldcentrum wordt behandeld dan wel de vreemdeling die in zijn rust- en voorbereidingstermijn voor verstrekkingen in aanmerking komt, tenzij het een alleenstaande minderjarige vreemdeling betreft.   
+6.  Elke opvangvoorziening heeft een door het COA opgesteld huishoudelijk reglement waarin tenminste passende maatregelen zijn opgenomen om geweldpleging en gendergerelateerd geweld, met inbegrip van aanranding en seksuele intimidatie, te voorkomen.   
+7.  Het aanbieden van recreatieve en educatieve activiteiten en het in bruikleen geven van gebruiksvoorwerpen kan afhankelijk worden gesteld van de betaling door de asielzoeker van een waarborgsom.  
 
 ### Artikel  9a  
 
@@ -203,39 +223,46 @@ g. betaling van buitengewone kosten.
 
 ### Artikel  10  
 
-De in artikel 9, eerste lid, bedoelde verstrekkingen kunnen geheel of gedeeltelijk aan een asielzoeker worden onthouden indien de asielzoeker: 
+1.  Het COA kan de in artikel 9, eerste lid, bedoelde verstrekkingen beperken of, in uitzonderlijke gevallen intrekken indien de asielzoeker: 
 
-a. niet desgevraagd mededeling doet van op hem betrekking hebbende gegevens die nodig zijn voor het realiseren van de opvang, waaronder in elk geval zijn naam, geboortedatum, nationaliteit, land van herkomst, gezinssamenstelling, vermogenspositie en de datum waarop door of ten behoeve van hem een asielaanvraag is ingediend;  
+a. de door het COA vastgestelde opvangvoorziening heeft verlaten zonder het COA op de hoogte stellen of, indien toestemming vereist is, zonder toestemming;  
 
-b. een hem overeenkomstig het bepaalde in artikel 20 tweede lid van deze regeling in rekening gebrachte tegemoetkoming in de kosten van opvang niet betaalt;  
+b. gedurende twee weken niet heeft voldaan aan de verplichting, bedoeld in artikel 19, eerste lid, onder e;  
 
-c. het bepaalde in artikel 19 van deze regeling niet naleeft;  
+c. gedurende twee weken niet heeft voldaan aan verzoeken van het COA om informatie te verstrekken, met inbegrip van gegevens die nodig zijn voor het realiseren van de opvang, waaronder in elk geval zijn naam geboortedatum, nationaliteit, land van herkomst, gezinssamenstelling, vermogenspositie en de datum waarop door of ten behoeve van hem een asielaanvraag is ingediend;  
 
-d. overlast bezorgt aan asielzoekers die in een opvangvoorziening verblijven, aan personen die werkzaam zijn in de voorziening of aan anderen, of;  
+d. twee opeenvolgende malen niet is verschenen voor een gehoor betreffende de asielprocedure;  
 
-e. weigert deel te nemen aan programma’s gericht op het voorlichten, stimuleren en bewustmaken van terugkeer.   
+e. een opvolgende asielaanvraag, als bedoeld in artikel 1 van de Vreemdelingenwet 2000, heeft ingediend nadat een definitieve beslissing, met inbegrip van een expliciete of impliciete intrekking, over een vorige asielaanvraag is genomen;  
+
+f. financiële middelen verborgen heeft gehouden en daardoor ten onrechte van de opvangvoorzieningen gebruik heeft gemaakt;  
+
+g. een hem overeenkomstig het bepaalde in artikel 20, tweede lid, in rekening gebrachte tegemoetkoming in de kosten van opvang niet betaalt;  
+
+h. ernstig inbreuk maakt op de verplichtingen, bedoeld in artikel 19, eerste lid;  
+
+i. een ernstige vorm van geweld pleegt jegens asielzoekers die in een opvangvoorziening verblijven, aan personen die werkzaam zijn in de voorziening of aan anderen.     
+2.  Het COA kan de in artikel 9, eerste lid, bedoelde verstrekkingen beperken indien het kan aantonen dat de asielzoeker zonder gerechtvaardigde reden na zijn binnenkomst in Nederland niet zo spoedig als redelijkerwijze mogelijk is een asielaanvraag heeft ingediend.   
+3.  In de gevallen, bedoeld in het eerste lid, onder a tot en met d, wordt, wanneer de asielzoeker zich bij het COA meldt, een gemotiveerde, op de redenen voor de verdwijning gebaseerde beslissing genomen inzake het opnieuw verstrekken van sommige of alle beperkte of ingetrokken verstrekkingen, bedoeld in artikel 9, eerste lid, mits de asielzoeker recht heeft op opvang als bedoeld in artikel 3.   
+4.  Het eerste lid, onder b, is niet van toepassing op de asielzoeker wiens asielaanvraag in het Aanmeldcentrum wordt behandeld dan wel de vreemdeling die in de rust- en voorbereidingstermijn voor verstrekkingen in aanmerking komt.   
+5.  De beslissing, bedoeld in het eerste en tweede lid, wordt gemotiveerd en genomen op grond van de specifieke situatie van de asielzoeker.   
+6.  De verstrekkingen bedoeld in artikel 9, eerste lid, worden niet beperkt of ingetrokken voordat de beslissing, bedoeld in het eerste en tweede lid is genomen.  
 
 ### Artikel  11  
 
-1.  Het COA bepaalt in welke opvangvoorziening een asielzoeker wordt geplaatst en is bevoegd een asielzoeker naar een andere voorziening over te plaatsen.   
-2.  Na overplaatsing van een asielzoeker naar een andere opvangvoorziening worden de in artikel 9 eerste lid van deze regeling bedoelde verstrekkingen in deze andere voorziening aangeboden.   
-3.  Bij haar bevoegdheid op grond van het eerste lid van dit artikel handhaaft het COA, voor zover mogelijk en met instemming van de asielzoeker, de eenheid van het gezin en neemt zij de bescherming van het gezinsleven tot uitgangspunt.   
-4.  Bij haar bevoegdheid op grond van het eerste lid van dit artikel ziet het COA, op voorwaarde dat dit in het belang van het kind is, erop toe dat het minderjarig kind van een asielzoeker, danwel de minderjarigevreemdeling wordt gehuisvest bij zijn ouder, dan wel een volwassen familielid.   
-5.  Het COA zal, voor zover mogelijk, minderjarige broers en zussen gezamenlijk huisvesten.  
+1.  Het COA bepaalt in welke opvangvoorziening een asielzoeker wordt geplaatst en is bevoegd een asielzoeker naar een andere voorziening over te plaatsen wanneer dit noodzakelijk is.   
+2.  Overplaatsing is in ieder geval noodzakelijk indien: 
+
+a. de opvangvoorziening waarin de asielzoeker verblijft, wordt gesloten;  
+
+b. een doelmatige en doeltreffende uitvoering van de asielprocedure daarmee is gediend.     
+3.  Na overplaatsing van een asielzoeker naar een andere opvangvoorziening worden de in artikel 9, eerste lid, bedoelde verstrekkingen in deze andere opvangvoorziening aangeboden. Artikel 9, vijfde lid, is van toepassing.   
+4.  Bij de uitoefening van de bevoegdheid, bedoeld in het eerste lid, zorgt het COA er voor dat de eenheid van het gezin in de mate van het mogelijke en met instemming van de asielzoekers bewaard wordt.  
 
 ### Artikel  12  
 
 1.  De asielzoeker aan wie een verblijfsvergunning is verleend en die in afwachting is van het betrekken van woonruimte in een gemeente krijgt de verstrekkingen, bedoeld in artikel 9 eerste lid van deze regeling, aangeboden indien het COA hiermee heeft ingestemd.   
 2.  De asielzoeker, bedoeld in het eerste lid, zal zich iedere twee weken bij het COA moeten melden en de instemming bedoeld in het eerste lid moeten hebben verkregen.  
-
-### Artikel  13  
-
-1.  Het COA kan beslissen de verstrekkingen, bedoeld in artikel 9, eerste lid, te beëindigen of te beperken indien de asielzoeker: 
-
-a. de geboden onderdakvoorziening feitelijk heeft verlaten zonder het COA daarvan op de hoogte te stellen; of  
-
-b. niet heeft voldaan aan de verplichting in artikel 19, eerste lid, onder e.     
-2.  Het COA houdt bij de beslissing, bedoeld in het eerste lid, rekening met de specifieke situatie van de asielzoeker.  
 
 ### Artikel  14  
 
@@ -282,8 +309,13 @@ b. de leges ter zake van de afdoening van een aanvraag om wijziging van de verbl
 c. de leges ter zake van de afdoening van de aanvraag om verlening van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking verband houdend met verblijf als familie- of gezinslid, in de gevallen waarin de statushouder de ouder is van de aanvrager en deze op het moment van de aanvraag niet minimaal evenveel verdient als de normbedragen uit de Participatiewet;  
 
 d. de leges ter zake van de afdoening van een aanvraag om verlening van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking verband houdend met verblijf als familie- of gezinslid ingediend door of namens een in Nederland geboren kind dat op grond van artikel 3, derde lid, onder d, opvang wordt geboden.     
-7.  Onder buitengewone kosten als bedoeld in artikel 9, eerste lid onder g, wordt niet verstaan de kosten voor een contra-expertise indien het een asielzoeker betreft wiens asielaanvraag in het Aanmeldcentrum wordt behandeld of is afgewezen dan wel indien het een vreemdeling betreft die in zijn rust- en voorbereidingstermijn voor verstrekkingen in aanmerking komt.  
-8.  Onder buitengewone kosten als bedoeld in artikel 9, eerste lid onder g, wordt niet verstaan de kosten voor de huur van een woning dan wel de aan de huur van een woning gerelateerde kosten. 
+7.  Onder buitengewone kosten als bedoeld in artikel 9, eerste lid, onder g, worden niet verstaan de kosten voor: 
+
+a. een contra-expertise indien het een asielzoeker betreft wiens asielaanvraag in het Aanmeldcentrum wordt behandeld of is afgewezen dan wel indien het een vreemdeling betreft die in zijn rust- en voorbereidingstermijn voor verstrekkingen in aanmerking komt;  
+
+b. de huur van een woning dan wel de aan de huur van een woning gerelateerde kosten;  
+
+c. een onderzoek, als bedoeld in artikel 3.109e, vierde lid, van het Vreemdelingenbesluit 2000.   
 
 ### Artikel  18  
 
@@ -295,17 +327,13 @@ d. de leges ter zake van de afdoening van een aanvraag om verlening van een verb
 
 ####Kwetsbare personen
 
-Treedt in werking per 20-07-2015 
-
 ### Artikel  18a  
-Treedt in werking per 20-07-2015 
 
 1.  Het COA zorgt ervoor dat tijdens het verblijf in de opvangvoorziening rekening wordt gehouden met de specifieke situatie van kwetsbare personen als bedoeld in artikel 21 van de Opvangrichtlijn.   
 2.  Ter uitvoering van het eerste lid beoordeelt het COA of de asielzoeker bijzondere opvangbehoeften heeft.   
 3.  Indien de asielzoeker overeenkomstig het tweede lid bijzondere opvangbehoeften heeft, wordt naast de verstrekkingen, bedoeld in artikel 9, eerste lid, specifieke steun en begeleiding geboden.  
 
 ### Artikel  18b  
-Treedt in werking per 20-07-2015 
 
 Bij de uitoefening van de bevoegdheid, bedoeld in artikel 11, eerste lid, zorgt het COA ervoor dat: 
 
@@ -314,7 +342,6 @@ a. minderjarige kinderen van asielzoekers of minderjarige asielzoekers worden ge
 b. afhankelijke volwassen asielzoekers met bijzondere opvangbehoeften in de regel worden ondergebracht bij volwassen nauwe verwanten die zich reeds in Nederland bevinden en die volgens het recht of de praktijk voor hen verantwoordelijk zijn.   
 
 ### Artikel  18c  
-Treedt in werking per 20-07-2015 
 
 Het COA zorgt er tijdens het verblijf in de opvangvoorziening voor dat: 
 
@@ -340,7 +367,9 @@ c. schoonmaakwerkzaamheden te verrichten in en rond de woonruimte;
 
 d. toegang te verlenen aan het personeel van de opvangvoorziening tot zijn woonruimte indien er een redelijk vermoeden bestaat dat de asielzoeker de huisregels overtreedt of indien dit voor het beheer van de opvangvoorziening redelijkerwijs noodzakelijk is;  
 
-e. te voldoen aan de COA inhuisregistratie door zich wekelijks te melden bij het COA teneinde te kunnen vaststellen of hij nog in de opvangvoorziening verblijft en aanspraak maakt op opvangvoorzieningen.    
+e. te voldoen aan de COA inhuisregistratie door zich wekelijks te melden bij het COA teneinde te kunnen vaststellen of hij nog in de opvangvoorziening verblijft en aanspraak maakt op opvangvoorzieningen;  
+
+f. deel te nemen aan programma’s gericht op het voorlichten over en het stimuleren en bewustmaken van terugkeer.   
 2.  Het eerste lid, onder e, is niet van toepassing op de asielzoeker wiens asielaanvraag in het Aanmeldcentrum wordt behandeld dan wel de vreemdeling die in zijn rust- en voorbereidingstermijn voor verstrekkingen in aanmerking komt. 
 
 ### Artikel  20  

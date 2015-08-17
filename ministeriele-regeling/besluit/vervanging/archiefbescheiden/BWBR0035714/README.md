@@ -57,14 +57,10 @@ R.J.T. van Lint,
 
 ####Handboek vervanging door digitalisering (Centraal Scanproces)
 
-Treedt in werking per 01-01-2015 
-
 Opvraagbaar bij de IND.  
 
 ###Bijlage 2 
 
 ####Handboek Decentraal Scanproces
-
-Treedt in werking per 01-01-2015 
 
 Opvraagbaar bij de IND.

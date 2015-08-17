@@ -20,11 +20,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####Begripsbepalingen
 
-1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder:  *beroepsonderwijs*: beroepsopleiding als bedoeld in artikel 7.2.7, derde lid, van de Wet educatie en beroepsonderwijs,  *bovenbouw*: 
+1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder:  *bovenbouw*: 
 
 a.voor havo: het vierde en vijfde leerjaar, of
 
-b.voor vwo: het vierde, vijfde en zesde leerjaar,  *deelnemer*: degene die beroepsonderwijs volgt,  *deelnemer vavo*: degene die vavo volgt als bedoeld in de artikelen 2.6, tweede lid, en 2.10,   *havo*: hoger algemeen voortgezet onderwijs als bedoeld in artikel 8 van de WVO,  *leerling*: scholier, deelnemer of deelnemer vavo,  *lening*: rentedragende lening die niet kan worden omgezet in een gift, *onderbouw:*
+b.voor vwo: het vierde, vijfde en zesde leerjaar,  *deelnemer vavo*: degene die vavo volgt als bedoeld in artikel 2.10,   *havo*: hoger algemeen voortgezet onderwijs als bedoeld in artikel 8 van de WVO,  *leerling*: scholier of deelnemer vavo,  *lening*: rentedragende lening die niet kan worden omgezet in een gift, *onderbouw:*
 
 a.het voorbereidend middelbaar beroepsonderwijs, bedoeld in artikel 21, eerste lid, van de WVO, alle leerjaren,
 
@@ -48,15 +48,9 @@ b.  Experimentenwet onderwijs,
 
 c.  Wet op de expertisecentra, hierna aangeduid als WEC,  
 
-d.  Wet op de erkende onderwijsinstellingen,  
+d.  Wet op de erkende onderwijsinstellingen, of  
 
-e.  Wet educatie en beroepsonderwijs, hierna aangeduid als WEB, of  
-
-f.  Wet op het hoger onderwijs en wetenschappelijk onderzoek, hierna aangeduid als WHW,    *schooljaar*: tijdvak dat aanvangt op 1 augustus van enig kalenderjaar en eindigt op 31 juli daaropvolgend,   *student*: degene die hoger onderwijs volgt als bedoeld in de artikelen 2.11 en 2.12,  *studiejaar*: tijdvak dat aanvangt op 1 september van enig kalenderjaar en eindigt op 31 augustus daaropvolgend,  *tegemoetkoming*: door Onze Minister verstrekte toekenning in verband met het volgen van een opleiding in het onderwijs waarop uitsluitend op grond van deze wet aanspraak bestaat,  *thuiswonende leerling*: scholier of deelnemer vavo die woont op het adres van de TOS-ouder of partner van de TOS-ouder, *toetsingsinkomen*: inkomen als bedoeld in artikel 8, eerste en tweede lid, van de Algemene wet inkomensafhankelijke regelingen, met dien verstande dat voor «berekeningsjaar» gelezen wordt: peiljaar, *TOS-ouder*: 
-
-a. ouder die als wettelijke vertegenwoordiger laatstelijk voordat de leerling meerderjarig werd, voor hem een tegemoetkoming op grond van hoofdstuk 3 ontving, of  
-
-b. indien geen wettelijke vertegenwoordiger de in onderdeel a bedoelde tegemoetkoming ontving: wettelijke vertegenwoordiger in het laatste kwartaal waarin de leerling nog 17 jaar was,    *uitwonende leerling*: scholier of deelnemer vavo die niet een thuiswonende leerling is,  *vavo*: opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onderdeel a, van de WEB,  *voortgezet onderwijs*: onderwijs in de zin van de WVO, en, tenzij anders is bepaald, speciaal onderwijs en voortgezet speciaal onderwijs als bedoeld in de WEC, *vreemdeling*: hetgeen daaronder wordt verstaan in de Vreemdelingenwet 2000, *vwo*: voorbereidend wetenschappelijk onderwijs als bedoeld in artikel 7 van de WVO.   
+e.  Wet op het hoger onderwijs en wetenschappelijk onderzoek, hierna aangeduid als WHW,    *schooljaar*: tijdvak dat aanvangt op 1 augustus van enig kalenderjaar en eindigt op 31 juli daaropvolgend,   *student*: degene die hoger onderwijs volgt als bedoeld in de artikelen 2.11 en 2.12,  *studiejaar*: tijdvak dat aanvangt op 1 september van enig kalenderjaar en eindigt op 31 augustus daaropvolgend,  *tegemoetkoming*: door Onze Minister verstrekte toekenning in verband met het volgen van een opleiding in het onderwijs waarop uitsluitend op grond van deze wet aanspraak bestaat,  *thuiswonende leerling*: scholier of deelnemer vavo die woont op het adres van de TOS-ouder of partner van de TOS-ouder, *toetsingsinkomen*: inkomen als bedoeld in artikel 8, eerste en tweede lid, van de Algemene wet inkomensafhankelijke regelingen, met dien verstande dat voor «berekeningsjaar» gelezen wordt: peiljaar, *TOS-ouder:* wettelijke vertegenwoordiger in het laatste kwartaal waarin de leerling nog 17 jaar was,  *uitwonende leerling*: scholier of deelnemer vavo die niet een thuiswonende leerling is,  *vavo*: opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs,  *voortgezet onderwijs*: onderwijs in de zin van de WVO, en, tenzij anders is bepaald, speciaal onderwijs en voortgezet speciaal onderwijs als bedoeld in de WEC, *vreemdeling*: hetgeen daaronder wordt verstaan in de Vreemdelingenwet 2000, *vwo*: voorbereidend wetenschappelijk onderwijs als bedoeld in artikel 7 van de WVO.   
 2.  In onderdeel b van de begripsbepaling «TOS-ouder» wordt, indien 2 natuurlijke personen voldoen aan het begrip wettelijke vertegenwoordiger, daaronder verstaan: 
 
 a. wettelijke vertegenwoordiger die over het tweede kwartaal van het jaar waarin het schooljaar aanvangt, ten behoeve van de leerling kinderbijslag als bedoeld in de Algemene Kinderbijslagwet heeft ontvangen,  
@@ -75,19 +69,8 @@ Voor de toepassing van het bepaalde bij of krachtens deze wet is bepalend de toe
 
 ####Aanvraag
 
-1.  Een aanvraag kan worden gedaan: 
-
-a. in de zin van hoofdstuk 3 door een: 
-
-1°. natuurlijke persoon die de wettelijke vertegenwoordiger is van de minderjarige leerling,  
-
-2°. minderjarige leerling zonder wettelijke vertegenwoordiger, of  
-
-3°. gehuwde leerling die de leeftijd van 18 jaren nog niet heeft bereikt, en    
-
-b. in de zin van de overige hoofdstukken door een leerling of student.     
-2.  Artikel 1.1, tweede lid, is van overeenkomstige toepassing.   
-3.  Aan welke voorwaarden een aanvraag moet voldoen, kan bij ministeriële regeling worden bepaald. In ieder geval wordt daarbij bepaald dat de aanvrager in de zin van de hoofdstukken 3 en 5 en zijn partner alsmede de TOS-ouder en zijn partner hun burgerservicenummer of onderwijsnummer verstrekken.  
+1.  Een aanvraag kan worden gedaan door een leerling of student.   
+2.  Bij ministeriële regeling kan worden bepaald aan welke voorwaarden een aanvraag moet voldoen. In ieder geval wordt daarbij bepaald dat de aanvrager in de zin van hoofdstuk 5 en zijn partner alsmede de TOS-ouder en zijn partner hun burgerservicenummer of onderwijsnummer verstrekken. 
 
 ### Artikel  1.5  
 
@@ -120,9 +103,9 @@ a. artikel 6,
 
 b. artikel 7, eerste lid, met dien verstande dat voor de toepassing van hoofdstuk 4 voor «belanghebbende» gelezen wordt: TOS-ouder,
 
-c. artikel 9, eerste en tweede lid, met dien verstande dat het tweede lid niet van toepassing is op hoofdstuk 3 van deze wet, en 
+c. artikel 9, eerste en tweede lid, en 
 
-d. artikel 10, eerste lid, met dien verstande dat deze bepaling niet van toepassing is op hoofdstuk 3 van deze wet.  
+d. artikel 10, eerste lid.  
 
 ### Hoofdstuk  2  
 
@@ -142,7 +125,7 @@ a. nationaliteit als bedoeld in artikel 2.2,
 
 b. leeftijd als bedoeld in artikel 2.3,  
 
-c. onderwijssoort als bedoeld in de paragrafen 2.2 tot en met 2.4, en  
+c. onderwijssoort als bedoeld in de paragrafen 2.3 en 2.4, en  
 
 d. inkomen als bedoeld in paragraaf 2.7.   
 
@@ -165,37 +148,15 @@ c. niet de Nederlandse nationaliteit bezit maar wel behoort tot een bij algemene
 
 ####Leeftijd
 
-1.  Op tegemoetkoming ingevolge hoofdstuk 3 kan aanspraak bestaan tot de maand volgend op het kwartaal waarin de leerling de leeftijd van 18 jaren heeft bereikt.   
-2.  Op tegemoetkoming ingevolge hoofdstuk 4 kan aanspraak bestaan met ingang van de eerste dag van het kwartaal volgend op het kwartaal waarin de leerling de leeftijd van 18 jaren heeft bereikt tot en met de maand waarin hij de leeftijd van 30 jaren heeft bereikt.   
-3.  Op tegemoetkoming ingevolge afdeling 5.1 bestaat aanspraak ongeacht de leeftijd.   
-4.  Op tegemoetkoming ingevolge afdeling 5.2 kan aanspraak bestaan met ingang van de eerste dag van het kwartaal volgend op het kwartaal waarin de leerling de leeftijd van 18 jaren heeft bereikt.   
+1.  Op tegemoetkoming ingevolge hoofdstuk 4 kan aanspraak bestaan met ingang van de eerste dag van het kwartaal volgend op het kwartaal waarin de leerling de leeftijd van 18 jaren heeft bereikt tot en met de maand waarin hij de leeftijd van 30 jaren heeft bereikt.   
+2.  Op tegemoetkoming ingevolge afdeling 5.1 bestaat aanspraak ongeacht de leeftijd.   
+3.  Op tegemoetkoming ingevolge afdeling 5.2 kan aanspraak bestaan met ingang van de eerste dag van het kwartaal volgend op het kwartaal waarin de leerling de leeftijd van 18 jaren heeft bereikt.   
 
 ### Paragraaf  2.2  
 
 ####Onderwijssoorten in de zin van hoofdstuk 3
 
-### Artikel  2.5  
-
-####Aangewezen voortgezet onderwijs
-
-Voor tegemoetkoming ingevolge hoofdstuk 3 kan een aanvrager in aanmerking komen indien de scholier is ingeschreven aan een op grond van artikel 56 van de WVO aangewezen school. 
-
-### Artikel  2.6  
-
-####Erkende cursus voortgezet onderwijs en vavo
-
-1.  Voor tegemoetkoming ingevolge hoofdstuk 3 kan een aanvrager in aanmerking komen indien de scholier is ingeschreven aan een school die is erkend op grond van de Wet op de erkende onderwijsinstellingen voorzover de gevolgde cursus onder de reikwijdte van die wet valt.   
-2.  Voor tegemoetkoming ingevolge hoofdstuk 3 kan een aanvrager in aanmerking komen indien de deelnemer vavo is ingeschreven aan een school als bedoeld in artikel 1.1.1, onderdeel b, en artikel 1.4a.1 van de WEB, voorzover het betreft een opleiding vavo.  
-
-### Artikel  2.7  
-
-####Beroepsonderwijs
-
-Voor tegemoetkoming ingevolge hoofdstuk 3 kan een aanvrager in aanmerking komen indien de deelnemer is ingeschreven aan: 
-
-a. een school als bedoeld in artikel 1.1.1, onderdeel b, van de WEB, voorzover het uit ’s Rijks kas bekostigd beroepsonderwijs betreft, of  
-
-b. een school die ten aanzien van het beroepsonderwijs het in artikel 1.4.1 van de WEB bedoelde recht heeft verkregen.   
+Vervallen per 01-08-2015 
 
 ### Paragraaf  2.3  
 
@@ -209,9 +170,9 @@ Voor tegemoetkoming ingevolge hoofdstuk 4 kan een scholier in aanmerking komen d
 
 a. aan een school die op grond van de WVO, de WEC of de Experimentenwet onderwijs volledig en rechtstreeks uit de openbare kas wordt bekostigd, waaronder het volgen van onderwijs in de vorm van contractactiviteiten niet is mede begrepen;  
 
-b. aan een school als bedoeld in artikel 2.5;  
+b. aan een op grond van artikel 56 van de WVO aangewezen school;  
 
-c. aan een school als bedoeld in artikel 2.6, eerste lid; of  
+c. aan een school die is erkend op grond van de Wet op de erkende onderwijsinstellingen voor zover de gevolgde cursus onder de reikwijdte van die wet valt; of  
 
 d. voor een cursus die wordt bekostigd op grond van artikel 73 van de WVO.   
 
@@ -250,13 +211,19 @@ Voor tegemoetkoming ingevolge afdeling 5.1 kan een student in aanmerking komen i
 
 ####Voortgezet onderwijs en vavo
 
-Voor tegemoetkoming ingevolge afdeling 5.2 kan een leerling in aanmerking komen indien hij is ingeschreven voor een opleiding of een gedeelte daarvan aan een school als bedoeld in de artikelen 2.5, 2.6 en 2.9, onderdeel a, of voor een cursus als bedoeld in artikel 2.9, onderdeel d, die leiden tot het diploma: 
+Voor tegemoetkoming ingevolge afdeling 5.2 kan een leerling in aanmerking komen indien hij is ingeschreven voor: 
 
-a. voorbereidend wetenschappelijk onderwijs,  
+a. een opleiding of een gedeelte daarvan aan een school als bedoeld in artikel 1.1.1, onderdeel b, en artikel 1.4a.1 van de WEB, voor zover het betreft een opleiding vavo,  
 
-b. hoger algemeen voortgezet onderwijs, of  
+b. een opleiding of een gedeelte daarvan aan een school als bedoeld in artikel 2.9, onderdelen a tot en met c, of  
 
-c. voortgezet middelbaar beroepsonderwijs voor zover het betreft de theoretische leerweg.   
+c. een cursus als bedoeld in artikel 2.9, onderdeel d, met dien verstande dat deze opleidingen of een gedeelte daarvan of die cursus die leiden tot het diploma: 
+
+1°. voorbereidend wetenschappelijk onderwijs,  
+
+2°. hoger algemeen voortgezet onderwijs, of  
+
+3°. voortgezet middelbaar beroepsonderwijs voor zover het betreft de theoretische leerweg.    
 
 ### Paragraaf  2.5  
 
@@ -283,9 +250,9 @@ De aanspraak op tegemoetkoming van een leerling die gedurende een aaneengesloten
 
 ### Artikel  2.17  
 
-####Aanspraak tegemoetkoming hoofdstukken 3  en 4 
+####Aanspraak tegemoetkoming hoofdstuk 4 
 
-Een leerling die onderwijs volgt als bedoeld in de artikelen 2.5, 2.6, 2.9, onderdelen b en c, en 2.10 heeft slechts aanspraak op tegemoetkoming indien de opleiding een studielast heeft van ten minste 850 klokuren per schooljaar die worden besteed aan het volgen van lessen of stages. 
+Een leerling die onderwijs volgt als bedoeld in de artikelen 2.9, onderdelen b en c, of 2.10 heeft slechts aanspraak op tegemoetkoming indien de opleiding een studielast heeft van ten minste 850 klokuren per schooljaar die worden besteed aan het volgen van lessen of stages. 
 
 ### Artikel  2.19  
 
@@ -293,7 +260,7 @@ Een leerling die onderwijs volgt als bedoeld in de artikelen 2.5, 2.6, 2.9, onde
 
 1.  De aanspraak op tegemoetkoming ingevolge hoofdstuk 4 vervalt met ingang van de maand die volgt op de dag waarop de leerling het laatste schooljaar met goed gevolg heeft afgesloten.   
 2.  Indien de leerling aansluitend aan het schooljaar dat als laatste schooljaar was aangemerkt, opnieuw dat laatste schooljaar aanvangt, ontstaat aanspraak op tegemoetkoming voor het resterende gedeelte van het kalenderjaar.   
-3.  Indien de leerling na zijn uitschrijving voor een opleiding binnen 4 maanden opnieuw een opleiding in de zin van deze wet of van de Wet studiefinanciering 2000 aanvangt, blijft, in afwijking van het eerste lid, op zijn aanvraag de aanspraak op tegemoetkoming in de tussen beide opleidingen liggende periode voor ten hoogste 4 maanden bestaan. Indien dit de maanden augustus, september, oktober of november betreft, heeft de leerling die op grond van hoofdstuk 4 nog geen tegemoetkoming in de onderwijsbijdrage is toegekend en een opleiding als bedoeld in de artikelen 2.5, 2.6, eerste lid, 2.9, onderdeel d, of 2.10, of een opleiding waarvoor aanspraak op studiefinanciering bestaat, gaat volgen, over die maanden naast een tegemoetkoming in de zin van hoofdstuk 4 ook aanspraak op een bedrag aan tegemoetkoming in de onderwijsbijdrage, ter grootte van eentwaalfde van het bedrag, bedoeld in artikel 5, tweede lid, van de Les- en cursusgeldwet, per maand. Voor de vaststelling van de hoogte van de tegemoetkoming in die maanden wordt uitgegaan van de draagkracht, zoals die gold op 31 juli van het voorafgaande schooljaar. In afwijking van artikel 4.10, tweede lid, wordt die aanvraag ingediend voor het einde van de periode van 4 maanden.   
+3.  Indien de leerling na zijn uitschrijving voor een opleiding binnen 4 maanden opnieuw een opleiding in de zin van deze wet of van de Wet studiefinanciering 2000 aanvangt, blijft, in afwijking van het eerste lid, op zijn aanvraag de aanspraak op tegemoetkoming in de tussen beide opleidingen liggende periode voor ten hoogste 4 maanden bestaan. Indien dit de maanden augustus, september, oktober of november betreft, heeft de leerling die op grond van hoofdstuk 4 nog geen tegemoetkoming in de onderwijsbijdrage is toegekend en een opleiding als bedoeld in artikel 2.9, onderdelen b tot en met d, of 2.10, of een opleiding waarvoor aanspraak op studiefinanciering bestaat, gaat volgen, over die maanden naast een tegemoetkoming in de zin van hoofdstuk 4 ook aanspraak op een bedrag aan tegemoetkoming in de onderwijsbijdrage, ter grootte van eentwaalfde van het bedrag, bedoeld in artikel 5, tweede lid, van de Les- en cursusgeldwet, per maand. Voor de vaststelling van de hoogte van de tegemoetkoming in die maanden wordt uitgegaan van de draagkracht, zoals die gold op 31 juli van het voorafgaande schooljaar. In afwijking van artikel 4.10, tweede lid, wordt die aanvraag ingediend voor het einde van de periode van 4 maanden.   
 
 ### Paragraaf  2.6  
 
@@ -301,12 +268,10 @@ Een leerling die onderwijs volgt als bedoeld in de artikelen 2.5, 2.6, 2.9, onde
 
 ### Artikel  2.21  
 
-####Geen dubbele aanspraak en geen aanspraak bij aanspraak WSF 2000 
+####Geen aanspraak bij aanspraak WSF 2000 
 
-1.  De scholier of deelnemer vavo, bedoeld in hoofdstuk 3, die tevens deelnemer is in het beroepsonderwijs, bedoeld in dat hoofdstuk, heeft slechts aanspraak op tegemoetkoming voor het volgen van dat beroepsonderwijs.   
-2.  De scholier, bedoeld in hoofdstuk 4, die tevens aanspraak heeft op studiefinanciering in de zin van de Wet studiefinanciering 2000, heeft geen aanspraak op tegemoetkoming.   
-3.  De deelnemer die tevens aanspraak heeft op studiefinanciering in de zin van de Wet studiefinanciering 2000, heeft geen aanspraak op tegemoetkoming.   
-4. De deelnemer vavo, bedoeld in hoofdstuk 4, voor wie onderwijsbijdrage is verschuldigd en die tevens aanspraak heeft op studiefinanciering in de zin van de Wet studiefinanciering 2000, heeft geen aanspraak op tegemoetkoming.
+1.  De scholier, bedoeld in hoofdstuk 4, die tevens aanspraak heeft op studiefinanciering in de zin van de Wet studiefinanciering 2000, heeft geen aanspraak op tegemoetkoming.   
+2. De deelnemer vavo, bedoeld in hoofdstuk 4, voor wie onderwijsbijdrage is verschuldigd en die tevens aanspraak heeft op studiefinanciering in de zin van de Wet studiefinanciering 2000, heeft geen aanspraak op tegemoetkoming.
 
 ###Artikel 2.22 
 
@@ -331,7 +296,7 @@ De leerling heeft geen aanspraak op tegemoetkoming in de zin van hoofdstuk 4, in
 ####Grensbedrag draagkracht
 
 1.  De tegemoetkoming in de onderwijsbijdrage en in de schoolkosten is afhankelijk van de hoogte van de op grond van artikel 7, eerste lid, van de Algemene wet inkomensafhankelijke regelingen berekende draagkracht.   
-2.  Volledige tegemoetkoming ingevolge de hoofdstukken 3, 4 en 5 bestaat tot en met het grensbedrag van de draagkracht. Naar de maatstaf van het schooljaar of studiejaar 2012–2013 bedraagt het grensbedrag € 32 142,16met ingang van het schooljaar 2015-2016: € 33.329,43.   
+2.  Volledige tegemoetkoming ingevolge de hoofdstukken 4 en 5 bestaat tot en met het grensbedrag van de draagkracht. Naar de maatstaf van het schooljaar of studiejaar 2012–2013 bedraagt het grensbedrag € 32 142,16met ingang van het schooljaar 2015-2016: € 33.329,43.   
 3.  Indien het toe te kennen bedrag per aanvrager minder bedraagt dan € 10,–, wordt de tegemoetkoming op nihil gesteld.  
 
 ###Artikel 2.25 
@@ -354,28 +319,18 @@ De leerling heeft geen aanspraak op tegemoetkoming in de zin van hoofdstuk 4, in
 
 ####Verdeling kortingsbedrag wegens telkinderen
 
-1.  Het kortingsbedrag, bedoeld in artikel 2.25, derde lid, wordt verdeeld over het aantal telkinderen. Onder telkind wordt verstaan iedere leerling voor wie, met inachtneming van het tweede en derde lid, voor het desbetreffende schooljaar aanspraak op tegemoetkoming bestaat ingevolge de hoofdstukken 3 of 4.   
-2.  Voor een aanvrager in de zin van hoofdstuk 3 is sprake van een telkind, indien de leerling het kind is van de aanvrager of van diens partner, voor wie de aanvrager of diens partner: 
+Het kortingsbedrag, bedoeld in artikel 2.25, derde lid, wordt verdeeld over het aantal telkinderen. Onder telkind wordt verstaan: iedere aanvrager die een TOS-ouder heeft waarbij die TOS-ouder of diens partner tevens de TOS-ouder is van een andere leerling die voor het desbetreffende schooljaar aanspraak heeft op tegemoetkoming in de zin van hoofdstuk 4.
 
-a. in de zin van hoofdstuk 3 de wettelijke vertegenwoordiger is, of  
-
-b. TOS-ouder is voor het telkind dat aanspraak heeft op tegemoetkoming in de zin van hoofdstuk 4.     
-3.  Voor een aanvrager in de zin van hoofdstuk 4 is sprake van een telkind, indien deze aanvrager een TOS-ouder heeft waarbij die TOS-ouder of diens partner: 
-
-a. tevens de TOS-ouder is van een andere leerling die aanspraak heeft op tegemoetkoming in de zin van hoofdstuk 4, of  
-
-b. aanvrager is in de zin van hoofdstuk 3.    
-
-###Artikel 2.28 
+### Artikel  2.28  
 
 ####Peiljaarverlegging bij terugval in inkomen
 
-1. Op aanvraag van de aanvrager of diens partner of TOS-ouder of diens partner wordt bij toepassing van artikel 1.8, onderdeel b, indien sprake is van een terugval in inkomen over het eerste of het tweede jaar na het peiljaar,uitgegaan van dat jaar. Deze aanvraag wordt gelijktijdig gedaan met de aanvraag ingevolge de artikelen 3.8, 5.5 of 5.11.
-2. Voor de toepassing van het eerste lid wordt onder een terugval in inkomen verstaan een vermindering van de draagkracht met ten minste 15% ten opzichte van het peiljaar, met dien verstande dat:
+1.  Op aanvraag van de aanvrager of diens partner of TOS-ouder of diens partner wordt bij toepassing van artikel 1.8, onderdeel b, indien sprake is van een terugval in inkomen over het eerste of het tweede jaar na het peiljaar,uitgegaan van dat jaar. Deze aanvraag wordt gelijktijdig gedaan met de aanvraag ingevolge de artikelen 5.5 of 5.11.   
+2.  Voor de toepassing van het eerste lid wordt onder een terugval in inkomen verstaan een vermindering van de draagkracht met ten minste 15% ten opzichte van het peiljaar, met dien verstande dat: 
 
-a.de vermindering niet kan worden gerekend tot inkomensschommelingen die in het algemeen normaal kunnen worden geacht bij de gekozen wijze van inkomensverwerving, en
+a. de vermindering niet kan worden gerekend tot inkomensschommelingen die in het algemeen normaal kunnen worden geacht bij de gekozen wijze van inkomensverwerving, en  
 
-b.aannemelijk wordt gemaakt dat gedurende ten minste 3 kalenderjaren zal worden voldaan aan de vereisten genoemd in de aanhef alsmede in onderdeel a.
+b. aannemelijk wordt gemaakt dat gedurende ten minste 3 kalenderjaren zal worden voldaan aan de vereisten genoemd in de aanhef alsmede in onderdeel a.    
 
 ### Artikel  2.29  
 
@@ -385,125 +340,25 @@ Voor de toepassing van artikel 1.8, onderdeel b, en artikel 2.25 wordt zolang he
 
 ####Leerlingen tot 18 jaar in niet bekostigd voortgezet onderwijs en beroepsonderwijs
 
+Vervallen per 01-08-2015 
+
 ### Paragraaf  3.1  
 
 ####Reikwijdte
 
-### Artikel  3.1  
-
-####Reikwijdte
-
-Dit hoofdstuk is van toepassing op scholieren, deelnemers en deelnemers vavo die jonger zijn dan 18 jaren en die zijn ingeschreven aan een school als bedoeld in paragraaf 2.2. 
+Vervallen per 01-08-2015 
 
 ### Paragraaf  3.2  
 
 ####Tegemoetkoming
 
-### Artikel  3.2  
-
-####Samenstelling tegemoetkoming
-
-1. De tegemoetkoming in de zin van dit hoofdstuk bestaat uit een tegemoetkoming in de schoolkosten.  
-2.  De tegemoetkoming kan tevens bestaan uit een overbruggingstegemoetkoming.   
-3. Voor leerlingen als bedoeld in de artikelen 2.5, 2.6, eerste lid, 2.6, tweede lid, wat betreft de inschrijving aan een school als bedoeld in artikel 1.4a.1 van de WEB, en 2.7, onderdeel b, die voor de aanvang van het schooljaar de leeftijd van 16 jaren hebben bereikt, bestaat de tegemoetkoming eveneens uit een tegemoetkoming in de onderwijsbijdrage. 
-4. Voor deelnemers, die na 1 juli en voor 2 augustus van een kalenderjaar de leeftijd van 18 jaren bereiken, bestaat de tegemoetkoming eveneens uit een tegemoetkoming in de onderwijsbijdrage voor het schooljaar dat op 1 augustus van dat kalenderjaar aanvangt.
-
-### Artikel  3.3  
-
-####Tegemoetkoming onderwijsbijdrage niet bekostigd onderwijs en deelnemers die na 1 juli en voor 2 augustus 18 jaar worden
-
-1. De tegemoetkoming in de onderwijsbijdrage voor een schooljaar is voor een leerling als bedoeld in artikel 3.2, derde lid, het bedrag, bedoeld in artikel 5, tweede lid, van de Les- en cursusgeldwet. 
-2. De tegemoetkoming in de onderwijsbijdrage voor een schooljaar is voor een deelnemer als bedoeld in artikel 3.2, vierde lid, het bedrag, bedoeld in artikel 5, tweede lid, van de Les- en cursusgeldwet. 
-
-### Artikel  3.4  
-
-####Tegemoetkoming schoolkosten
-
-1.  De hoogte van de tegemoetkoming in de schoolkosten voor een schooljaar is afhankelijk van: 
-
-a. soort onderwijs, en  
-
-b. bovenbouw of onderbouw.     
-2.  De bedragen van de onderscheiden tegemoetkomingen zijn opgenomen in artikel 3.5.  
-
-### Artikel  3.5  
-
-####Overzicht hoogte tegemoetkoming schoolkosten
-
-De bedragen in onderstaand overzicht luiden per schooljaar en zijn uitgedrukt in euro’s naar de maatstaf van 1 augustus 2008.  Overzicht. Bedragen tegemoetkoming schoolkosten 
-
-| --- | --- |
-|:---|:---|
-| a. beroepsonderwijs  | € 632,79  |
-| b. onderbouw + bovenbouw niet volledig en rechtstreeks bekostigd vo  | € 311,54  |
-| c. vavo  | € 311,54  |
-
-voor het schooljaar 2014–2015: Overzicht bedragen tegemoetkoming schoolkosten per schooljaar 2014–2015 
-
-| --- | --- |
-|:---|:---|
-| a. beroepsonderwijs  | € 690,93  |
-| b. onderbouw + bovenbouw niet volledig en rechtstreeks bekostigd vo  | € 340,16  |
-| c. voortgezet algemeen volwassenen onderwijs (vavo)  | € 340,16  |
-
-### Artikel  3.6  
-
-####Aanspraak overbruggingstegemoetkoming
-
-In afwijking van paragraaf 2.2 en artikel 3.4 heeft de aanvrager aanspraak op een overbruggingstegemoetkoming voor de maanden augustus en september ten behoeve van een leerling: 
-
-a. die op 1 juli van dat kalenderjaar jonger is dan 18 jaren,  
-
-b. die op 1 oktober van dat kalenderjaar als studerende in de zin van de Wet studiefinanciering 2000 is ingeschreven voor het volgen van hoger onderwijs waarop die wet van toepassing is, en  
-
-c. voor wie aan de aanvrager over het schooljaar dat aan de overbruggingsperiode vooraf ging, een tegemoetkoming als bedoeld in artikel 3.4 is toegekend.   
-
-### Artikel  3.7  
-
-####Hoogte overbruggingstegemoetkoming
-
-1. De overbruggingstegemoetkoming is voor een leerling tweetwaalfde deel van het bedrag van de tegemoetkoming voor een geheel schooljaar waarvoor op 31 juli daaraan voorafgaand aanspraak bestond.  
-2. Voor leerlingen, anders dan bedoeld in artikel 3.2, derde lid, wordt de overbruggingstegemoetkoming vermeerderd met tweetwaalfde van het bedrag, bedoeld in artikel 5, tweede lid, van de Les- en cursusgeldwet, zoals dat bedrag gold op 31 juli voorafgaand aan de maanden waarover aanspraak op overbruggingstegemoetkoming bestaat.
-3. Voor leerlingen die vallen onder de categorie bovenbouw volledig op grond van de WVO bekostigd onderwijs, genoemd in de tabel van artikel 3.5, wordt de overbruggingstegemoetkoming vermeerderd met tweetwaalfde van het verschil tussen het bedrag dat voor de categorie bovenbouw volledig op grond van de WVO bekostigd onderwijs en het bedrag dat voor de categorie bovenbouw overig onderwijs in de tabel van artikel 3.5 is opgenomen.
+Vervallen per 01-08-2015 
 
 ### Paragraaf  3.3  
 
 ####Toekenning
 
-### Artikel  3.8  
-
-####Toekenning tegemoetkoming
-
-1.  Onze Minister kent een tegemoetkoming toe aan de aanvrager indien de aanvrager en de leerling voldoen aan de voorschriften gegeven bij of krachtens deze wet.   
-2.  Een aanvraag om tegemoetkoming wordt jaarlijks voor het einde van het desbetreffende schooljaar gedaan. Toekenning voor een leerling vindt slechts eenmaal per schooljaar plaats.   
-3.  Onze Minister besluit op een aanvraag om tegemoetkoming indien de aanvraag is ingediend: 
-
-a. voor de aanvang van het desbetreffende schooljaar: binnen 8 weken na de aanvang van dat schooljaar, en   
-
-b. gedurende het desbetreffende schooljaar: binnen 8 weken na de indiening van de aanvraag.    
-
-### Artikel  3.9  
-
-####Toekenning bij wisselen van onderwijssoort
-
-1.  Ingeval de leerling op 1 oktober niet langer het soort onderwijs volgt waarvoor hij bij de aanvang van het schooljaar was ingeschreven, en een andere onderwijssoort genoemd in paragraaf 2.2 volgt, omvat de toekenning van de tegemoetkoming het bedrag voor de onderwijssoort die op die datum wordt gevolgd. De vorige volzin is van overeenkomstige toepassing bij overgang van onderbouw naar bovenbouw of omgekeerd.   
-2.  Ingeval de tegemoetkoming voor een onderwijssoort nihil is en een scholier tijdens het schooljaar een andere onderwijssoort gaat volgen, omvat de toekenning van de tegemoetkoming, in afwijking van het eerste lid, vanaf het tijdstip dat hij die andere onderwijssoort gaat volgen, het bedrag daarvoor.  
-3. Ingeval een leerling voor wie nog geen tegemoetkoming in de onderwijsbijdrage is toegekend, tijdens het schooljaar een andere onderwijssoort, genoemd in artikel 3.2, derde lid, gaat volgen, omvat de toekenning vanaf het tijdstip dat hij die andere onderwijssoort gaat volgen, eveneens de met betrekking tot die andere onderwijssoort bepaalde tegemoetkoming in de onderwijsbijdrage.
-
-### Artikel  3.10  
-
-####Toekenningsperiode
-
-1.  Tegemoetkoming wordt toegekend per schooljaar.   
-2.  In afwijking van het eerste lid omvat de toekenning voor een leerling die: 
-
-a. in de loop van het schooljaar 18 jaren wordt: wat betreft de tegemoetkoming in de schoolkosten het aantal maanden van dat schooljaar tot de eerste maand van het kwartaal volgend op de maand waarin de leerling de leeftijd van 18 jaren heeft bereikt en wat betreft de tegemoetkoming in de onderwijsbijdrage, voor zover daar op grond van artikel 3.2, derde of vierde lid, aanspraak op bestaat, het gehele schooljaar,  
-
-b.is ingeschreven op een school als bedoeld in de artikelen 2.6 of 2.7, en die geen onderwijs meer volgt op 1 oktober, in afwijking van artikel 3.5: voor het gehele jaar niets,
-
-c.op enig ogenblik tussen 1 oktober en een bij ministeriële regeling te bepalen datum geen onderwijs meer volgt, anders dan in geval van ernstige ziekte van de leerling: de helft van de tegemoetkoming, bedoeld in artikel 3.2, eerste lid, alsmede, voor zover aanspraak bestaat op de tegemoetkoming bedoeld in artikel 3.2, derde of vierde lid, vijftwaalfde deel van die tegemoetkoming, en 
-
-d.in de loop van het schooljaar na 31 december wordt ingeschreven: de helft van de tegemoetkoming, bedoeld in artikel 3.2, eerste lid, alsmede, voor zover aanspraak bestaat op de tegemoetkoming bedoeld in artikel 3.2, derde of vierde lid, zeventwaalfde deel van die tegemoetkoming.  
+Vervallen per 01-08-2015 
 
 ### Hoofdstuk  4  
 
@@ -742,7 +597,7 @@ b. gedurende het desbetreffende studiejaar: binnen 8 weken na de indiening van d
 
 ####Reikwijdte
 
-Deze afdeling is van toepassing op leerlingen die zijn ingeschreven aan een opleiding als bedoeld in artikel 2.13 en die geen aanspraak hebben op tegemoetkoming ingevolge de hoofdstukken 3, 4 of 10 of op studiefinanciering ingevolge de Wet studiefinanciering 2000. 
+Deze afdeling is van toepassing op leerlingen die zijn ingeschreven aan een opleiding als bedoeld in artikel 2.13 en die geen aanspraak hebben op tegemoetkoming ingevolge de hoofdstukken 4 of 10 of op studiefinanciering ingevolge de Wet studiefinanciering 2000. 
 
 ### Paragraaf  5.2.2  
 
@@ -876,7 +731,7 @@ b. de hoogte van het toetsingsinkomen van de aanvrager of diens partner of van d
 
 a. een beschikking genomen is waarvan de aanvrager of de TOS-ouder wist of redelijkerwijs had kunnen weten dat deze onjuist was,  
 
-b. de situatie, bedoeld in de artikelen 3.9, 3.10, tweede lid, onderdeel c, 5.9, 5.10 en 10.9, tweede tot en met vierde en zesde tot en met achtste lid, zich voordoet,  
+b. de situatie, bedoeld in de artikelen 5.9, 5.10 en 10.9, tweede tot en met vierde en zesde tot en met achtste lid, zich voordoet,  
 
 c. te veel of te weinig tegemoetkoming is toegekend op basis van onjuiste of onjuist verwerkte gegevens,  
 
@@ -966,7 +821,7 @@ Een studentendecaan aan een op grond van de WHW uit 's Rijks kas bekostigde ins
 
 ####Verstrekken van inlichtingen door scholen
 
-1.  De natuurlijke persoon van wie of het bestuur van de rechtspersoon waarvan een school als bedoeld in de paragrafen 2.2, 2.3 en 2.4 uitgaat, is verplicht op een bij ministeriële regeling aan te geven wijze kosteloos inlichtingen te verstrekken, benodigd voor de uitvoering van deze wet.    
+1.  De natuurlijke persoon van wie of het bestuur van de rechtspersoon waarvan een school als bedoeld in de paragrafen 2.3 en 2.4 uitgaat, is verplicht op een bij ministeriële regeling aan te geven wijze kosteloos inlichtingen te verstrekken, benodigd voor de uitvoering van deze wet.    
 2.  De natuurlijke persoon van wie of het bestuur van de rechtspersoon waarvan een school als bedoeld in de artikelen 2.9, onderdelen a tot en met d, en 2.10 uitgaat, is verplicht voor 1 mei aan Onze Minister te melden indien onderwijs dat in dat schooljaar voldeed aan de voorwaarden, genoemd in artikel 2.18, in het daaropvolgende schooljaar niet aan deze voorwaarde zal voldoen.  
 
 ### Artikel  9.5  
@@ -1148,8 +1003,8 @@ b. gedurende het desbetreffende schooljaar of studiejaar: binnen 8 weken na de i
 
 ####Aanpassing van bedragen
 
-1.  Per 1 januari van ieder kalenderjaar past Onze Minister de bedragen, genoemd in de artikelen 2.23, tweede lid, 3.5, 4.3, 4.6, 5.4, 5.10, 10.5, tweede lid, en 10.7, derde lid, aan op een bij of krachtens algemene maatregel van bestuur aan te geven wijze aan de hand van de loon- of prijsontwikkelingen in het tweede daaraan voorafgaande kalenderjaar. De aangepaste bedragen treden in de plaats van de in de eerste volzin bedoelde bedragen.   
-2.  Bij algemene maatregel van bestuur kunnen de maatstaven, genoemd in de artikelen 3.5, 4.3, 4.6 en 5.10, alsmede de bedragen, genoemd in die artikelen, worden gewijzigd.   
+1.  Per 1 januari van ieder kalenderjaar past Onze Minister de bedragen, genoemd in de artikelen 2.23, tweede lid, 4.3, 4.6, 5.4, 5.10, 10.5, tweede lid, en 10.7, derde lid, aan op een bij of krachtens algemene maatregel van bestuur aan te geven wijze aan de hand van de loon- of prijsontwikkelingen in het tweede daaraan voorafgaande kalenderjaar. De aangepaste bedragen treden in de plaats van de in de eerste volzin bedoelde bedragen.   
+2.  Bij algemene maatregel van bestuur kunnen de maatstaven, genoemd in de artikelen 4.3, 4.6 en 5.10, alsmede de bedragen, genoemd in die artikelen, worden gewijzigd.   
 3.  De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 
 ### Artikel  11.2  

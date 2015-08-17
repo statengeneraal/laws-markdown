@@ -127,7 +127,7 @@ d. een andere speciale school voor basisonderwijs in het onder c bedoelde samenw
 10.  De regeling kan bepalen dat de gemeente, in plaats van bekostiging in geld te geven, het vervoer verzorgt of doet verzorgen.    
 11.  De regeling kan voor leerlingen voor wie de afstand bedoeld in het vijfde lid, meer bedraagt dan 20 kilometer, bepalen dat de hoogte van de bekostiging afhankelijk is van de financiële draagkracht van de ouders, of dat het vervoer dat de gemeente verzorgt of doet verzorgen geschiedt tegen een van de financiële draagkracht van de ouders afhankelijke bijdrage tot ten hoogste het bedrag van de kosten van het vervoer van de desbetreffende leerling. In dat geval bevat de regeling tevens voorschriften omtrent de bepaling van de financiële draagkracht van de ouders. De eerste volzin is niet van toepassing voor een leerling van een speciale school voor basisonderwijs voor wie geldt dat de afstand tot de dichtstbijzijnde openbare of bijzondere speciale school voor basisonderwijs meer dan 20 kilometer bedraagt.    
 12.  De regeling kan bepalen dat burgemeester en wethouders in bijzondere gevallen de bevoegdheid hebben ten gunste van de ouders van de inhoud van de regeling af te wijken.    
-13.  Het zevende tot en met negende lid en het elfde lid zijn niet van toepassing op leerlingen die wegens hun lichamelijke, verstandelijke of zintuiglijke handicap op ander vervoer dan openbaar vervoer zijn aangewezen, dan wel vanwege een zodanige handicap niet zelfstandig van openbaar vervoer gebruik kunnen maken.  
+13.  Het zevende tot en met negende lid en het elfde lid zijn niet van toepassing op leerlingen die wegens hun lichamelijke, verstandelijke, zintuiglijke of psychische handicap op ander vervoer dan openbaar vervoer zijn aangewezen, dan wel vanwege een zodanige handicap niet zelfstandig van openbaar vervoer gebruik kunnen maken.  
 
 ###Artikel 4a 
 
@@ -150,8 +150,6 @@ d. een andere speciale school voor basisonderwijs in het onder c bedoelde samenw
 ### Artikel  4c  
 
 ####Zorgplicht veiligheid op school
-
-Treedt in werking per 01-08-2015 
 
 1.  Het bevoegd gezag draagt zorg voor de veiligheid op school, waarbij het bevoegd gezag in ieder geval: 
 
@@ -233,7 +231,7 @@ b. de leerlingen in 8 schooljaren ten minste 7520 uren onderwijs ontvangen, met 
 
 c. de onderwijsactiviteiten evenwichtig over de dag worden verdeeld, tenzij afwijking van deze verdeling van belang is in verband met activiteiten in het kader van het voorkomen en bestrijden van onderwijsachterstanden.     
 10.  Het onderwijs wordt zodanig ingericht dat leerlingen die in verband met ziekte thuis verblijven dan wel zijn opgenomen in een ziekenhuis, op adequate wijze voldoende onderwijs kunnen genieten.    
-10. Het onderwijs wordt zodanig ingericht dat daarbij op structurele en herkenbare wijze aandacht wordt besteed aan het bestrijden van achterstanden in het bijzonder in de beheersing van de Nederlandse taal, waarin ook door middel van vroegschoolse educatie kan worden voorzien.
+11. Het onderwijs wordt zodanig ingericht dat daarbij op structurele en herkenbare wijze aandacht wordt besteed aan het bestrijden van achterstanden in het bijzonder in de beheersing van de Nederlandse taal, waarin ook door middel van vroegschoolse educatie kan worden voorzien.
 
 ### Artikel  9  
 
@@ -349,7 +347,7 @@ a. op de school de leerresultaten op het gebied van de Nederlandse taal en op he
 
 b. geen leerresultaten door de school kunnen worden aangetoond.     
 3.  De leerresultaten van de school worden jaarlijks beoordeeld op basis van de resultaten van de afgelegde centrale eindtoetsen, bedoeld in artikel 9b, op het gebied van Nederlandse taal en rekenen en wiskunde. Voor de toepassing van de eerste volzin blijven centrale eindtoetsen die zijn afgelegd door zeer moeilijk lerende leerlingen, meervoudig gehandicapte leerlingen voor wie het zeer moeilijk lerend zijn een van de handicaps is, en leerlingen die vier jaar of korter in Nederland zijn en om die reden de Nederlandse taal onvoldoende beheersen, buiten beschouwing. De eerste en tweede volzin zijn van overeenkomstige toepassing op de andere eindtoetsen, bedoeld in artikel 9b, achtste lid.   
-4.  Er is sprake van ernstig of langdurig tekortschieten van de kwaliteit van het onderwijs als bedoeld in het eerste lid indien de inspectie op grond van artikel 14 van de Wet op het onderwijstoezicht Onze minister meedeelt dat uit het onderzoek naar de kwaliteitsverbeteringen, bedoeld in artikel 11, derde lid, van de Wet op het onderwijstoezicht blijkt dat sprake is van onvoldoende verbeteringen dan wel dat het bevoegd gezag niet bereid is afspraken te maken over kwaliteitsverbeteringen naar aanleiding van het onderzoek, bedoeld in artikel 11, tweede lid, van de Wet op het onderwijstoezicht.   
+4.  Er is sprake van ernstig of langdurig tekortschieten van de kwaliteit van het onderwijs als bedoeld in het eerste lid indien de inspectie op grond van artikel 14 van de Wet op het onderwijstoezicht Onze minister meedeelt dat uit het onderzoek naar de kwaliteitsverbeteringen, bedoeld in artikel 11, vierde lid, van de Wet op het onderwijstoezicht blijkt dat sprake is van onvoldoende verbeteringen dan wel dat het bevoegd gezag niet bereid is afspraken te maken over kwaliteitsverbeteringen naar aanleiding van het onderzoek, bedoeld in artikel 11, derde lid, van de Wet op het onderwijstoezicht.   
 5.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop leerresultaten worden gemeten, genormeerd en beoordeeld. Voorts wordt de normering, bedoeld in het derde lid, bepaald en wordt bepaald bij welk aantal leerlingen in het achtste schooljaar van een bepaalde school voor die school voor de periode van 3 schooljaren, bedoeld in het tweede lid, onderdeel a, wordt gelezen 5 schooljaren.   
 6.  De voordracht voor een krachtens het vijfde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
 
@@ -404,9 +402,11 @@ j.de wijze waarop de voorzieningen, bedoeld in artikel 45, worden georganiseerd,
 
 k.het verzuimbeleid,
 
-k. de wijze waarop invulling wordt gegeven aan het openbare karakter onderscheidenlijk de identiteit voor zover het betreft een samenwerkingsschool, en 
+l. de wijze waarop invulling wordt gegeven aan het openbare karakter onderscheidenlijk de identiteit voor zover het betreft een samenwerkingsschool, 
 
-l. het samenwerkingsverband en in voorkomend geval de samenwerkingsverbanden waarbij het bevoegd gezag van de school is aangesloten.    
+m. het samenwerkingsverband en in voorkomend geval de samenwerkingsverbanden waarbij het bevoegd gezag van de school is aangesloten, en 
+
+n. de persoon bij wie de taken, bedoeld in artikel 4c, eerste lid, onderdeel c, zijn belegd.    
 2.  Het bevoegd gezag reikt de schoolgids uit aan de ouders dan wel de verzorgers bij de inschrijving en jaarlijks na de vaststelling van de schoolgids.    
 3.  De algemene maatregel van bestuur, bedoeld in het eerste lid, onder a, wordt aan de beide kamers der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat 4 weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens een der kamers de wens te kennen wordt gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.   
 
@@ -591,11 +591,11 @@ e. de beoogde en bereikte kwalitatieve en kwantitatieve resultaten van het onder
 
 f. de wijze waarop aan de ouders informatie wordt verstrekt over de ondersteuningsvoorzieningen en over de onafhankelijke ondersteuningsmogelijkheden voor ouders,  
 
-g. de wijze waarop wordt bepaald of de situaties, bedoeld in de artikelen 118, vierde lid, en 124, zich voordoen, waaronder de vaststelling van de in artikel 124, eerste en tweede lid, bedoelde peildatum, die is gelegen in de periode van 2 oktober tot en met 31 juli daaropvolgend,  
+g. de wijze waarop wordt bepaald of de situaties, bedoeld in de artikelen 118, vierde lid, en 124, zich voordoen,  
 
 h. de wijze waarop wordt vastgesteld wat het aandeel van de onderscheiden scholen is in de overdracht van de bekostiging voor materiële instandhouding in een situatie als bedoeld in artikel 124, zevende lid, of artikel 125, zesde lid,  
 
-i. de wijze waarop wordt bepaald of de situaties, bedoeld in artikel 125b zich voordoen, waaronder de vaststelling van de in artikel 125b, eerste lid, bedoelde peildatum, die is gelegen in de periode van 2 oktober tot en met 31 juli daaropvolgend, en  
+i. de wijze waarop wordt bepaald of de situaties, bedoeld in artikel 125b zich voordoen, en  
 
 j. de wijze waarop wordt vastgesteld wat het aandeel van de onderscheiden scholen, bedoeld in het tweede lid, is in de overdracht van de bekostiging personeelskosten in een situatie als bedoeld in artikel 125b, derde lid.     
 9.  Het ondersteuningsplan wordt niet vastgesteld voordat over een concept van het plan op overeenstemming gericht overleg heeft plaatsgevonden met burgemeester en wethouders van de desbetreffende gemeente of gemeenten en overleg heeft plaatsgevonden met het samenwerkingsverband, bedoeld in artikel 17a, tweede lid, van de Wet op het voortgezet onderwijs, waarvan het gebied geheel of gedeeltelijk samenvalt met het gebied van het samenwerkingsverband. Het overleg met burgemeester en wethouders vindt plaats overeenkomstig een procedure, vastgesteld door het samenwerkingsverband en burgemeester en wethouders van die gemeente of gemeenten. De procedure bevat een voorziening voor het beslechten van geschillen.   
@@ -816,11 +816,15 @@ c. uitsluitend de Nederlandse nationaliteit bezit en waarvan blijkens een schrif
 
 ####Ontwikkelingsperspectief
 
-1.  Voor een leerling die extra ondersteuning behoeft, stelt het bevoegd gezag nadat op overeenstemming gericht overleg is gevoerd met de ouders een ontwikkelingsperspectief vast.   
+1.  Het bevoegd gezag stelt nadat op overeenstemming gericht overleg is gevoerd met de ouders een ontwikkelingsperspectief vast: 
+
+a. voor leerlingen van een basisschool, die extra ondersteuning behoeven;  
+
+b. voor leerlingen van een speciale school voor basisonderwijs.     
 2.  Het ontwikkelingsperspectief wordt zo spoedig mogelijk, doch uiterlijk binnen zes weken na de inschrijving van de leerling vastgesteld. Indien het betreft een inschrijving op grond van artikel 40, zevende lid, wordt het ontwikkelingsperspectief uiterlijk binnen zes weken na de definitieve plaatsing van de leerling vastgesteld.   
 3.  Het ontwikkelingsperspectief wordt ten minste één keer per schooljaar met de ouders geëvalueerd.   
 4.  Nadat op overeenstemming gericht overleg is gevoerd met de ouders kan het bevoegd gezag het ontwikkelingsperspectief bijstellen.   
-5.  Het ontwikkelingsperspectief bevat een omschrijving van de begeleiding, bedoeld in artikel 8, vierde lid. Indien bij de inrichting van het onderwijs wordt afgeweken van één of meer onderdelen van het onderwijsprogramma, wordt dat in het ontwikkelingsperspectief vermeld. Bij algemene maatregel van bestuur worden nadere voorschriften over de inhoud van het ontwikkelingsperspectief vastgesteld. 
+5.  Het ontwikkelingsperspectief bevat een omschrijving van de begeleiding, bedoeld in artikel 8, vierde lid. Indien voor leerlingen als bedoeld in het eerste lid, onder a, bij de inrichting van het onderwijs wordt afgeweken van één of meer onderdelen van het onderwijsprogramma, wordt dat in het ontwikkelingsperspectief vermeld. Bij algemene maatregel van bestuur worden nadere voorschriften over de inhoud van het ontwikkelingsperspectief vastgesteld. 
 
 ###Artikel 40b 
 
@@ -906,7 +910,8 @@ b. het bevoegd gezag van zijn oordeel mededeling heeft gedaan aan de ouders.    
 ####Informeren ouders bij zeer zwakke school
 
 1. Indien de inspectie op basis van een onderzoek als bedoeld in artikel 11 of artikel 15 van de Wet op het onderwijstoezicht, in het inspectierapport, bedoeld in artikel 20 van genoemde wet, tot het oordeel is gekomen dat sprake is van een zeer zwakke school, informeert het bevoegd gezag de ouders van de leerlingen van de school hierover door middel van in ieder geval de toezending van de door de inspectie opgestelde samenvatting van het inspectierapport welke samenvatting gelijktijdig met het inspectierapport ter beschikking is gesteld van het bevoegd gezag. De toezending, bedoeld in de eerste volzin, geschiedt binnen vier weken na de vaststelling van het inspectierapport.  
-2.  Indien het bevoegd gezag niet of niet tijdig voldoet aan de verplichting, bedoeld in het eerste lid, zendt Onze minister de samenvatting van het inspectierapport, bedoeld in het eerste lid, in de vijfde week na vaststelling van het inspectie rapport aan de ouders van de leerlingen. 
+2.  Indien het bevoegd gezag niet of niet tijdig voldoet aan de verplichting, bedoeld in het eerste lid, zendt Onze minister de samenvatting van het inspectierapport, bedoeld in het eerste lid, in de vijfde week na vaststelling van het inspectie rapport aan de ouders van de leerlingen.  
+3.  Indien de inspectie op basis van een onderzoek als bedoeld in artikel 11 of artikel 15 van de Wet op het onderwijstoezicht in het inspectierapport, bedoeld in artikel 20 van genoemde wet, tot het oordeel is gekomen dat sprake is van een zeer zwakke school, betrekt het bevoegd gezag de ouders van de leerlingen van de school bij de door het bevoegd gezag voorgenomen maatregelen ten behoeve van kwaliteitsverbetering. 
 
 ### Afdeling  2  
 
@@ -1966,7 +1971,8 @@ b. de bekostiging voor de vaste kosten van de materiële instandhouding van een 
 
 a. het samenwerkingsverband waartoe de school of school voor speciaal onderwijs of speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra, waar de leerling onmiddellijk voorafgaand aan de opname in de residentiële instelling was ingeschreven, behoort, of  
 
-b. het samenwerkingsverband in het gebied waarvan de leerling woonachtig is, indien de leerling onmiddellijk voorafgaand aan de opname in de residentiële instelling niet was ingeschreven op een school of school voor speciaal onderwijs of speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra.    
+b. het samenwerkingsverband in het gebied waarvan de leerling woonachtig is, indien de leerling onmiddellijk voorafgaand aan de opname in de residentiële instelling niet was ingeschreven op een school of school voor speciaal onderwijs of speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra.     
+12.  Artikel 116 is van overeenkomstige toepassing op het samenwerkingsverband. 
 
 ### Artikel  118a  
 
@@ -2041,8 +2047,8 @@ c.van speciale scholen voor basisonderwijs.
 
 ####Overdracht van bekostiging personeelskosten aan speciale scholen voor basisonderwijs
 
-1.  Indien op de overeenkomstig artikel 18a, achtste lid, onderdeel g, vastgestelde peildatum het aantal leerlingen van de speciale scholen voor basisonderwijs in een samenwerkingsverband meer bedraagt dan het aantal leerlingen van die scholen op 1 oktober daaraan voorafgaand, draagt het samenwerkingsverband voor het verschil per leerling een bij ministeriële regeling vast te stellen bedrag over aan de speciale scholen voor basisonderwijs, welk bedrag wordt verhoogd met een bedrag dat wordt vermenigvuldigd met de geraamde landelijk gewogen gemiddelde leeftijd van leraren van speciale scholen voor basisonderwijs.    
-2.  Indien op de overeenkomstig artikel 18a, achtste lid, onderdeel g, vastgestelde peildatum het aantal leerlingen van de speciale scholen voor basisonderwijs in een samenwerkingsverband meer bedraagt dan 2% van het aantal leerlingen op de vestigingen van de scholen in het samenwerkingsverband op 1 oktober daaraan voorafgaand, draagt het samenwerkingsverband voor elke leerling van een speciale school voor basisonderwijs boven voornoemde 2% per leerling een bij ministeriële regeling vast te stellen bedrag over aan de speciale scholen voor basisonderwijs, welk bedrag wordt verhoogd met een bedrag dat afhankelijk is van de geraamde landelijk gewogen gemiddelde leeftijd van leraren van speciale scholen voor basisonderwijs.    
+1.  Indien op 1 februari het aantal leerlingen van de speciale scholen voor basisonderwijs in een samenwerkingsverband meer bedraagt dan het aantal leerlingen van die scholen op 1 oktober daaraan voorafgaand, draagt het samenwerkingsverband voor het verschil per leerling een bij ministeriële regeling vast te stellen bedrag over aan de speciale scholen voor basisonderwijs, welk bedrag wordt verhoogd met een bedrag dat wordt vermenigvuldigd met de geraamde landelijk gewogen gemiddelde leeftijd van leraren van speciale scholen voor basisonderwijs.    
+2.  Indien op 1 februari het aantal leerlingen van de speciale scholen voor basisonderwijs in een samenwerkingsverband meer bedraagt dan 2% van het aantal leerlingen op de vestigingen van de scholen in het samenwerkingsverband op 1 oktober daaraan voorafgaand, draagt het samenwerkingsverband voor elke leerling van een speciale school voor basisonderwijs boven voornoemde 2% per leerling een bij ministeriële regeling vast te stellen bedrag over aan de speciale scholen voor basisonderwijs, welk bedrag wordt verhoogd met een bedrag dat afhankelijk is van de geraamde landelijk gewogen gemiddelde leeftijd van leraren van speciale scholen voor basisonderwijs.    
 3.  Bij de vaststelling ingevolge het eerste en tweede lid van het aantal leerlingen van de speciale scholen voor basisonderwijs in een samenwerkingsverband op de overeenkomstig artikel 18a, achtste lid, onderdeel g, vastgestelde peildatum, worden leerlingen voor wie op grond van artikel 125 al een overdracht plaatsvindt vanuit een ander samenwerkingsverband buiten beschouwing gelaten. De uitkomst van de berekening van 2% van het aantal leerlingen van het samenwerkingsverband op grond van het tweede lid wordt rekenkundig afgerond op een geheel getal.    
 4.  Vervallen.   
 5.  De overdracht op grond van het eerste en tweede lid heeft betrekking op het schooljaar dat volgt op de in het eerste onderscheidenlijk tweede lid bedoelde peildatum.    
@@ -2072,15 +2078,13 @@ c. het samenwerkingsverband heeft bepaald dat de leerling op het onderwijs van e
 
 ####Vermindering bekostiging personeelskosten bij uitputting personeelsbekostiging samenwerkingsverband
 
-Treedt in werking per 01-08-2015 
-
 Indien het totaal van de bedragen, bedoeld in artikel 132, vierde lid, eerste volzin, en vijfde lid, de personeelsbekostiging van het samenwerkingsverband, bedoeld in artikel 132, tweede lid, overschrijdt, wordt het bedrag waarmee die bekostiging wordt overschreden door Onze minister in mindering gebracht op de personele bekostiging van alle scholen en scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra, waarvan één of meer vestigingen zijn gelegen in het gebied van het samenwerkingsverband. Het bedrag dat in mindering wordt gebracht wordt per school dan wel school voor speciaal onderwijs of speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra, voor zover het betreft het daaraan verzorgde speciaal onderwijs, bepaald op basis van het leerlingenaantal van de desbetreffende vestiging of vestigingen in het samenwerkingsverband. 
 
 ### Artikel  125b  
 
 ####Overdracht van bekostiging personeelskosten aan scholen voor speciaal onderwijs en scholen voor speciaal en voortgezet speciaal onderwijs
 
-1.  Indien op de overeenkomstig artikel 18a, achtste lid, onderdeel i, vastgestelde peildatum het aantal leerlingen dat door het samenwerkingsverband toelaatbaar is verklaard tot het speciaal onderwijs en is ingeschreven op scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra meer bedraagt dan op 1 oktober daaraan voorafgaand, draagt het samenwerkingsverband voor het verschil per leerling een bedrag over aan de school waar de leerling is ingeschreven. Het in de eerste volzin bedoelde bedrag is afhankelijk van de in de toelaatbaarheidsverklaring opgenomen ondersteuningsbehoefte van de leerling en komt overeen met één van de normbedragen die bij ministeriële regeling worden vastgesteld.   
+1.  Indien op 1 februari het aantal leerlingen dat door het samenwerkingsverband toelaatbaar is verklaard tot het speciaal onderwijs en is ingeschreven op scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra meer bedraagt dan op 1 oktober daaraan voorafgaand, draagt het samenwerkingsverband voor het verschil per leerling een bedrag over aan de school waar de leerling is ingeschreven. Het in de eerste volzin bedoelde bedrag is afhankelijk van de in de toelaatbaarheidsverklaring opgenomen ondersteuningsbehoefte van de leerling en komt overeen met één van de normbedragen die bij ministeriële regeling worden vastgesteld.   
 2.  De overdracht op grond van het eerste lid heeft betrekking op het schooljaar dat volgt op de in het eerste lid bedoelde peildatum.   
 3.  Indien de in artikel 132, tweede lid, bedoelde bekostiging niet voldoende is om daaruit de verplichtingen, bedoeld in dit artikel na te komen, dragen alle scholen en scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra, waarvan één of meer vestigingen zijn gelegen in het gebied van het samenwerkingsverband, de de ontbrekende bekostiging over aan het samenwerkingsverband. Het aandeel van de onderscheiden scholen en scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs, bedoeld in de eerste volzin, wordt bepaald overeenkomstig de regeling die daarvoor op grond van artikel 18a, achtste lid, onderdeel j, in het ondersteuningsplan van het samenwerkingsverband is opgenomen.  
 
@@ -2110,9 +2114,17 @@ Indien het totaal van de bedragen, bedoeld in artikel 132, vierde lid, eerste vo
 
 ####Grondslag bekostiging personeel samenwerkingsverband
 
-1.  Aan het samenwerkingsverband wordt personeelsbekostiging toegekend voor ondersteuningsvoorzieningen. De grondslag voor de berekening van de personeelsbekostiging voor ondersteuningsvoorzieningen is een bij ministeriële regeling vast te stellen bedrag per leerling van de vestigingen van basisscholen in het samenwerkingsverband.   
+1.  Aan het samenwerkingsverband wordt personeelsbekostiging toegekend voor ondersteuningsvoorzieningen. De grondslag voor de berekening van de personeelsbekostiging voor ondersteuningsvoorzieningen is een bij ministeriële regeling vast te stellen bedrag per leerling voor het aantal leerlingen op vestigingen van basisscholen in het samenwerkingsverband op 1 oktober van het jaar voorafgaand aan het jaar waarover de bekostiging plaatsvindt.   
 2.  Aan het samenwerkingsverband wordt personeelsbekostiging toegekend in aanvulling op de in het eerste lid bedoelde bekostiging.   
-3.  De in het tweede lid bedoelde bekostiging bestaat uit een bij ministeriële regeling vast te stellen bedrag per leerling voor het aantal leerlingen op vestigingen van scholen in het samenwerkingsverband op 1 oktober van het jaar voorafgaand aan het jaar waarover de bekostiging plaatsvindt.  
+3.  De in het tweede lid bedoelde bekostiging bestaat uit een bij ministeriële regeling vast te stellen bedrag per leerling voor het aantal leerlingen op vestigingen van scholen in het samenwerkingsverband op 1 oktober van het jaar voorafgaand aan het jaar waarover de bekostiging plaatsvindt.   
+4.  Voor elke leerling die op 1 oktober van het jaar voorafgaand aan het jaar waarover de bekostiging plaatsvindt was ingeschreven op een school voor speciaal onderwijs of speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra, wordt een bedrag in mindering gebracht op de in het tweede lid bedoelde bekostiging van het samenwerkingsverband dat de leerling op grond van artikel 40, tiende lid, van de Wet op de expertisecentra toelaatbaar heeft verklaard tot het speciaal onderwijs. Het in de eerste volzin bedoelde bedrag is afhankelijk van de in de toelaatbaarheidsverklaring opgenomen ondersteuningsbehoefte van de leerling en komt overeen met één van de normbedragen die bij ministeriële regeling worden vastgesteld.   
+5.  Het vierde lid is van overeenkomstige toepassing op leerlingen opgenomen in residentiële instellingen aan wie op 1 oktober van het jaar voorafgaand aan het jaar waarover de bekostiging plaatsvindt onderwijs werd gegeven op basis van een samenwerkingsovereenkomst als bedoeld in artikel 71c, tweede lid, van de Wet op de expertisecentra, met dien verstande dat het normbedrag, bedoeld in artikel 117, zevende lid, van die wet in mindering wordt gebracht op de bekostiging van: 
+
+a. het samenwerkingsverband waartoe de school of school voor speciaal onderwijs of speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra, waar de leerling onmiddellijk voorafgaand aan de opname in de residentiële instelling was ingeschreven, behoort, of  
+
+b. het samenwerkingsverband in het gebied waarvan de leerling woonachtig is, indien de leerling onmiddellijk voorafgaand aan de opname in de residentiële instelling niet was ingeschreven op een school of school voor speciaal onderwijs of speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra.     
+6.  De bedragen, bedoeld in het eerste en derde lid, zijn de uitkomst van een bij algemene maatregel van bestuur vast te stellen hoeveelheid formatie per leerling, vermenigvuldigd met een bedrag. Bij de vaststelling van de bedragen, bedoeld in het eerste lid, wordt in ieder geval rekening gehouden met de ontwikkeling van de genormeerde gemiddelde personeelslast van de leraren van speciale scholen voor basisonderwijs. Bij de bedragen, bedoeld in het derde lid, wordt in ieder geval rekening gehouden met de ontwikkeling van de genormeerde gemiddelde personeelslast van de leraren van de scholen voor speciaal onderwijs, de scholen voor voortgezet speciaal onderwijs en de scholen voor speciaal en voortgezet speciaal onderwijs.  
+7.  Artikel 123 is van overeenkomstige toepassing op het samenwerkingsverband. 
 
 ### Afdeling  8  
 
@@ -2359,6 +2371,12 @@ b.een centrale dienst of een school voor speciaal onderwijs, voor voortgezet spe
 4. De op grond van artikel 140 of artikel 141 verstrekte vergoeding wordt besteed aan het doel waarvoor zij is verstrekt. 
 5.  Het samenwerkingsverband wendt het totaal van de in de artikelen 118 en 132 bedoelde bedragen voor de kosten voor de materiële instandhouding en de personeelskosten uitsluitend aan voor kosten voor materiële instandhouding en personeelskosten van het samenwerkingsverband voor ondersteuningsvoorzieningen. 
 
+### Artikel  148a  
+
+####Beleggen en belenen
+
+Bij ministeriële regeling kunnen regels worden gesteld over het door het bevoegd gezag uitzetten van gelden, het aangaan van geldleningen en het aangaan van verbintenissen voor financiële producten. 
+
 ###§ 7 
 
 ####Betaling van de bekostiging
@@ -2447,8 +2465,8 @@ c. in de overeenkomst is in elk geval opgenomen de verplichting voor elk bevoegd
 1°. werkzaam is met gebruikmaking van bekostiging, die is toegekend op grond van artikel 123, tweede lid, wegens samenvoeging van scholen, dan wel  
 
 2°. voor zover zich geen geval voordoet als bedoeld onder 1° in het genot is van wachtgeld of van een andere ontslaguitkering en direct aan die ontslaguitkering voorafgaand langer dan een jaar onafgebroken in dienst is geweest van het bevoegd gezag.        
-4.  De samenwerkingsovereenkomst, bedoeld in het derde lid, kan bepalen dat geen verplichting als bedoeld in het derde lid onder c 3° bestaat in gevallen, genoemd in de ministeriële regeling bedoeld in artikel 138, zesde lid, en in gevallen waarin Onze minister op grond van artikel 138, zevende lid, heeft besloten dat de vermindering van de bekostiging, bedoeld in artikel 138, eerste lid en tweede lid onder a, niet zal plaatsvinden.   
-5.  De samenwerkingsovereenkomst, bedoeld in het derde lid, kan bepalen dat geen verplichting als bedoeld in het derde lid, onderdeel c, subonderdeel 2, bestaat in gevallen, genoemd in de ministeriële regeling bedoeld in artikel 138, vijfde lid, en in gevallen waarin Onze Minister op grond van artikel 138, zesde lid, heeft besloten dat de vermindering van de bekostiging, bedoeld in artikel 138, eerste lid, niet zal plaatsvinden.  
+4.  De samenwerkingsovereenkomst, bedoeld in het derde lid, kan bepalen dat geen verplichting als bedoeld in het derde lid, onderdeel c, onder 2°, bestaat in gevallen, genoemd in de ministeriële regeling bedoeld in artikel 138, vijfde lid, en in gevallen waarin Onze Minister op grond van artikel 138, zesde lid, heeft besloten dat de vermindering van de bekostiging, bedoeld in artikel 138, eerste lid, niet zal plaatsvinden.   
+5.  Indien de samenwerkingsovereenkomst, bedoeld in het derde lid, voor afloop van de termijn bedoeld in het derde lid, onder b, door een bevoegd gezag wordt beëindigd, wordt de bekostiging van een bijzondere school die op grond van de samenwerkingsovereenkomst in afwijking van artikel 153, eerste tot en met derde lid, werd bekostigd, beëindigd, dan wel een openbare school die op grond van de samenwerkingsovereenkomst in afwijking van artikel 153, eerste tot en met derde lid, in stand werd gehouden, opgeheven overeenkomstig artikel 153 met dien verstande dat de bekostiging niet wordt beëindigd onderscheidenlijk de school niet wordt opgeheven voor 1 augustus volgend op de beëindiging van de samenwerkingsovereenkomst. Bij een beëindiging van de samenwerkingsovereenkomst voor afloop van de termijn, bedoeld in het derde lid, onder b, wordt op de bekostiging van het Rijk voor de school of scholen van elk bevoegd gezag dat aan de samenwerkingsovereenkomst deelnam een bedrag ingehouden, waarvan de hoogte door middel van een bij algemene maatregel van bestuur vast te stellen regeling wordt bepaald.  
 6.  Een bevoegd gezag kan slechts deelnemen aan 1 samenwerkingsovereenkomst als bedoeld in het derde lid. Bij deelname aan meer dan 1 samenwerkingsovereenkomst als bedoeld in het derde lid, is voor de toepassing van dit artikel uitsluitend de eerst gesloten samenwerkingsovereenkomst van belang.   
 
 ### Artikel  157a  
@@ -2707,7 +2725,7 @@ b.de wijze en het tijdstip waarop de desbetreffende onderdelen beschikbaar geste
 c.de elektronische verzending van het cijfermatige deel uit de jaarrekening, en
 
 d.de grondslagen voor de jaarrekening.   
-4.  De beschikbaarstelling van de gegevens, bedoeld in het derde lid, onder b, gaat vergezeld van een verklaring omtrent de getrouwheid en rechtmatigheid, afgegeven door een door de toezichthouder of het toezichthoudend orgaan aangewezen accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek. Bij de aanwijzing van de accountant bedingt de toezichthouder of het toezichthoudend orgaan dat de controle overeenkomstig een door Onze minister vast te stellen controleprotocol plaatsvindt en dat aan Onze minister op diens verzoek inzicht wordt geboden in de controlerapporten van de accountant.   
+4.  De beschikbaarstelling van de gegevens, bedoeld in het derde lid, onder b, gaat vergezeld van een verklaring omtrent de getrouwheid en rechtmatigheid, afgegeven door een door de toezichthouder of het toezichthoudend orgaan aangewezen accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek. Bij de aanwijzing van de accountant bedingt de toezichthouder of het toezichthoudend orgaan dat de controle overeenkomstig een door Onze minister vast te stellen accountantsprotocol plaatsvindt en dat aan Onze minister op diens verzoek inzicht wordt geboden in de controlerapporten van de accountant.   
 5.  De code voor goed bestuur, bedoeld in het eerste lid, onderdeel a, bevat ten minste bepalingen over de wijze waarop invulling wordt gegeven aan 
 
 a. een beleid dat de eigen deskundigheid en verantwoordelijkheid van het personeel voor de kwaliteit van het onderwijs tot haar recht komt,  
@@ -2909,11 +2927,11 @@ h. het schooladvies, bedoeld in artikel 42, tweede lid;
 
 i. het registratienummer van de school of, indien sprake is van een nevenvestiging, het registratienummer daarvan;  
 
-j.vervallen;
+j.bekostigingsindicatie; en
 
-k.indien van toepassing de aanduiding visueel gehandicapte leerling en de instelling die deze leerling begeleidt;
+k.tot een bij koninklijk besluit te bepalen tijdstip en indien van toepassing de begin- en de einddatum van de periode waarvoor er voor de leerling van een basisschool een ontwikkelingsperspectief als bedoeld in artikel 40a, is vastgesteld;
 
-l.bekostigingsindicatie; en
+l.vervallen door verlettering;
 
 m. indien van toepassing de aanduiding dat het betreft een leerling van een afdeling als bedoeld in artikel 85a.    
 3.  Bij ministeriële regeling kan een nadere specificatie worden gegeven van de gegevens, bedoeld in het tweede en zevende lid, en kan worden bepaald welke van de gegevens, bedoeld in het tweede en zevende lid, niet langer behoeven te worden verstrekt. Bij ministeriële regeling kunnen voorts regels worden gesteld omtrent de tijdstippen en de wijze van verstrekking van de gegevens, bedoeld in het tweede en zevende lid.   
@@ -3109,8 +3127,6 @@ Onze minister zendt binnen vier jaar na de inwerkingtreding van artikel I van de
 ### Artikel  188c  
 
 ####Evaluatie zorgplicht veiligheid op school
-
-Treedt in werking per 01-08-2015 
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van artikel I van de Wet van 4 juni 2015 tot wijziging van enige onderwijswetten in verband met het invoeren van de verplichting voor scholen om zorg te dragen voor de veiligheid op school (Stb. 238) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van de artikelen 4c en 13, eerste lid, onderdeel n, in de praktijk. 
 
