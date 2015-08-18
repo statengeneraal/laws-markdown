@@ -2,7 +2,7 @@
 
 ##Tariefbeschikking kaakchirurgische hulp
 
-De Nederlandse Zorgautoriteit, heeft krachtens de [paragrafen 2](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [4 van hoofdstuk 4 van de Wet marktordening gezondheidszorg](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg)  *op basis van de beleidsregel:*  Kaakchirurgie (BR/CU-7075)  *en gelet op:*  [artikel 35](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), [artikel 50 lid 1, onderdelen c en d](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) jo. [artikel 51 tot met 53 Wmg](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md)  *besloten:*  dat rechtsgeldig:  *door:*  zorgaanbieders, die als tandartsspecialist in de mondziekten en kaakchirurgie in het BIG-register (als bedoeld in [artikel 3 Wet BIG](../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md)) staan ingeschreven en zorgaanbieders als bedoeld in [artikel 1, onder c, sub 2, van de Wmg](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (factormaatschappijen);  *de prestatiebeschrijvingen en bijbehorende maximum honorariumtarieven (in euro’s):*  
+De Nederlandse Zorgautoriteit, heeft krachtens de paragrafen 2 en 4 van hoofdstuk 4 van de Wet marktordening gezondheidszorg (Wmg)  *op basis van de beleidsregel:*  Kaakchirurgie (BR/CU-7075)  *en gelet op:*  artikel 35, artikel 50 lid 1, onderdelen c en d jo. artikel 51 tot met 53 Wmg  *besloten:*  dat rechtsgeldig:  *door:*  zorgaanbieders, die als tandartsspecialist in de mondziekten en kaakchirurgie in het BIG-register (als bedoeld in artikel 3 Wet BIG) staan ingeschreven en zorgaanbieders als bedoeld in artikel 1, onder c, sub 2, van de Wmg (factormaatschappijen);  *de prestatiebeschrijvingen en bijbehorende maximum honorariumtarieven (in euro’s):*  
 
 – zoals omschreven in de bij deze tariefbeschikking gevoegde tarieflijst (bijlage 1), in rekening kunnen worden gebracht, mits voldaan is aan de bij de betreffende prestaties beschreven voorwaarden. Deze vastgestelde maximumtarieven zijn inclusief BTW-kosten, maar exclusief de BTW-heffing en afdracht door een zorgaanbieder. Bij contante betaling mag het eindbedrag worden afgerond op het dichtstbijzijnde veelvoud van 5 eurocent.  
 
@@ -10,7 +10,7 @@ De Nederlandse Zorgautoriteit, heeft krachtens de [paragrafen 2](../../../../../
 
 – de instelling voor medisch specialistische zorg van waaruit de zorgaanbieder de te declareren prestatie heeft geleverd en van waaruit de totale declaratie inclusief het aan de prestatie gekoppelde kostendeel ziekenhuis en honorariumdeel voor ondersteunende specialismen, aan de patiënt of diens verzekeraar in rekening wordt gebracht. (*)  
 
-– Indien de zorgaanbieder de zorg niet levert vanuit een instelling voor medisch specialistische zorg, kunnen de honorariumbedragen vermeld achter de prestaties zoals omschreven in de bij deze tariefbeschikking gevoegde tarieflijst (bijlage 1) en de techniekkosten, zoals omschreven in bijlage 2 bij deze tariefbeschikking (tenzij in de desbetreffende tarieflijst is aangegeven dat deze kosten reeds in de desbetreffende tarieven zijn begrepen) rechtstreeks aan de patiënt of diens verzekeraar in rekening worden gebracht.   Van toepassing zijn de Inleidende en Algemene Bepalingen in bijlage 3. De tarieven en techniekkosten kunnen uitsluitend als zodanig herkenbaar en gespecificeerd in rekening worden gebracht. Met de inwerkingtreding van deze beschikking wordt de geldigheidsduur van de eerder afgegeven tariefbeschikking TB/CU-7036-03 van 27 juni 2012 beperkt tot en met 31 december 2012. De eerder afgegeven [tariefbeschikking](../../../../../zbo/tariefbeschikking/kaakchirurgische/hulp/BWBR0032778/README.md) TB/CU-7059-01 wordt hiermee ingetrokken.    
+– Indien de zorgaanbieder de zorg niet levert vanuit een instelling voor medisch specialistische zorg, kunnen de honorariumbedragen vermeld achter de prestaties zoals omschreven in de bij deze tariefbeschikking gevoegde tarieflijst (bijlage 1) en de techniekkosten, zoals omschreven in bijlage 2 bij deze tariefbeschikking (tenzij in de desbetreffende tarieflijst is aangegeven dat deze kosten reeds in de desbetreffende tarieven zijn begrepen) rechtstreeks aan de patiënt of diens verzekeraar in rekening worden gebracht.   Van toepassing zijn de Inleidende en Algemene Bepalingen in bijlage 3. De tarieven en techniekkosten kunnen uitsluitend als zodanig herkenbaar en gespecificeerd in rekening worden gebracht. Met de inwerkingtreding van deze beschikking wordt de geldigheidsduur van de eerder afgegeven tariefbeschikking TB/CU-7036-03 van 27 juni 2012 beperkt tot en met 31 december 2012. De eerder afgegeven tariefbeschikking TB/CU-7059-01 wordt hiermee ingetrokken.    
 
 Hoogachtend, 
 
@@ -21,6 +21,8 @@ unitmanager Eerstelijns Zorg en Ketens
 ### Bijlage 1 
 
 ####bij Tariefbeschikking
+
+Materieel uitgewerkt per 01-01-2014 
 
 *TB/CU-7059-02 van 23 januari 2013*   *De maximumtarieven die door zorgaanbieders die mondzorg leveren zoals tandartsspecialisten voor mondziekten en kaakchirurgen die bieden in rekening kunnen worden gebracht voor prestaties met ingang van 1 januari 2013*   
 
@@ -162,11 +164,15 @@ unitmanager Eerstelijns Zorg en Ketens
 
 ####bij Tariefbeschikking
 
+Materieel uitgewerkt per 01-01-2014 
+
 *TB/CU-7059-02 van 23 januari 2013*  Onder techniekkosten worden te dezen verstaan de door de zorgaanbieders die mondzorg leveren zoals tandartsspecialisten voor mondziekten en kaakchirurgie die bieden, betaalde of verschuldigde techniekkosten, respectievelijk de hiermee vergelijkbare door de zorgaanbieder gemaakte kosten. De eventueel door de zorgaanbieder gemaakte techniekkosten mogen in ieder geval niet hoger zijn dan de maximumtarieven voor de tandtechniek in eigen beheer, zoals deze zijn vastgesteld door de NZa. 
 
 ### Bijlage 3 
 
 ####bij Tariefbeschikking
+
+Materieel uitgewerkt per 01-01-2014 
 
 *TB/CU-7059-02 van 23 januari 2013*   *Inleidende en Algemene Bepalingen bij de maximumtarieven voor zorgaanbieders die mondzorg leveren zoals tandartsspecialisten voor mondziekten en kaakchirurgen die bieden met ingang van 1 januari 2013*   *01.* Deze tarieven gelden als maximumtarieven voor zorgaanbieders die mondzorg leveren zoals tandartsspecialisten voor mondziekten en kaakchirurgen die bieden (hierna te noemen: zorgaanbieder) met betrekking tot kaakchirurgische hulp.  *02.* De zorgaanbieder is in principe gehouden persoonlijk en op eigen naam zijn declaraties in te dienen.  *03.* Voor consulten buiten de werkgemeente geldt een maximum vacatiegeld per dag van € 435,50, inclusief reis- en verblijfkosten, maar exclusief het tarief voor consult of verrichting(en).  *04.* Het tarief voor een (vervolg)consult en/of verrichting(en) mag worden verhoogd met: 
 
