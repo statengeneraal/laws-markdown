@@ -45,7 +45,7 @@ Het doel van deze regeling is het jaarlijks verstrekken van een aanvullende verg
 
 ####Subsidieplafond en verdelingswijze
 
-1.  Voor de kalenderjaren 2013 tot en met 2015 is jaarlijks maximaal € 40.600.000,– beschikbaar.   
+1.  Voor de kalenderjaren 2013 tot en met 2016 is jaarlijks maximaal € 40.600.000,– beschikbaar.   
 2.  De aanvullende vergoeding op de bekostiging, als bedoeld in het eerste lid, wordt beschikbaar gesteld ten behoeve van de bijzondere beleidsdoelstelling voortijdig schoolverlaten.  
 
 ### Paragraaf  2  
@@ -71,7 +71,7 @@ d.  *deelnemer:* de deelnemer die voor bekostiging wordt meegeteld op grond van 
 
 ####Doel
 
-De aanvullende vergoeding op de bekostiging wordt verstrekt ten behoeve van de beleidsdoelstelling voortijdig schoolverlaten welke ten doel heeft het realiseren van een landelijke vermindering van het aantal nieuwe voortijdig schoolverlaters tot maximaal 25.000 in het kalenderjaar 2016. 
+De aanvullende vergoeding op de bekostiging wordt verstrekt ten behoeve van de beleidsdoelstelling voortijdig schoolverlaten welke ten doel heeft het realiseren van een landelijke vermindering van het aantal nieuwe voortijdig schoolverlaters tot maximaal 25.000 in het kalenderjaar 2017. 
 
 ### Artikel  6  
 
@@ -83,7 +83,7 @@ Bij de berekening van het aantal nieuwe voortijdig schoolverlaters maakt de mini
 
 ####Berekeningswijze aantal nieuwe voortijdig schoolverlaters
 
-De wijze waarop voor elk van de studiejaren 2012–2013 tot en met 2014–2015 per onderwijsinstelling het aantal nieuwe voortijdig schoolverlaters wordt berekend is opgenomen in bijlage A bij deze regeling. 
+De wijze waarop voor elk van de studiejaren 2012–2013 tot en met 2015–2016 per onderwijsinstelling het aantal nieuwe voortijdig schoolverlaters wordt berekend is opgenomen in bijlage A bij deze regeling. 
 
 ### Artikel  8  
 
@@ -91,13 +91,14 @@ De wijze waarop voor elk van de studiejaren 2012–2013 tot en met 2014–2015 p
 
 1.  De minister verstrekt voor de kalenderjaren 2013 tot en met 2015 ambtshalve een aanvullende vergoeding op de bekostiging aan het bevoegd gezag van een onderwijsinstelling dat voor die onderwijsinstelling ten minste één convenant heeft ondertekend.   
 2.  De aanvullende vergoeding op de bekostiging, bedoeld in artikel 11, eerste lid, onderdeel a, wordt telkens voor één jaar verstrekt in de maand oktober voorafgaand aan het desbetreffende kalenderjaar.   
-3.  De aanvullende vergoeding op de bekostiging, bedoeld in artikel 11, eerste lid, onderdeel b, wordt telkens voor één jaar verstrekt in de maand oktober volgend op het desbetreffende kalenderjaar.  
+3.  De aanvullende vergoeding op de bekostiging, bedoeld in artikel 11, eerste lid, onderdeel b, wordt telkens voor één jaar verstrekt in de maand november volgend op het desbetreffende kalenderjaar.   
+4.  De minister verstrekt voor het kalenderjaar 2016 ambtshalve een aanvullende vergoeding op de bekostiging aan het bevoegd gezag van een onderwijsinstelling dat voor de kalenderjaren 2013 tot en met 2015 in aanmerking is gekomen voor een aanvullende vergoeding op de bekostiging op grond van het eerste lid. 
 
 ### Artikel  9  
 
 ####Subsidieplafond
 
-1.  Het subsidieplafond voor subsidieverstrekking op grond van deze paragraaf bedraagt voor de kalenderjaren 2013 tot en met 2015 jaarlijks maximaal € 40.600.000,–.   
+1.  Het subsidieplafond voor subsidieverstrekking op grond van deze paragraaf bedraagt voor de kalenderjaren 2013 tot en met 2016 jaarlijks maximaal € 40.600.000,–.   
 2.  Van het subsidieplafond, bedoeld in het eerste lid, is jaarlijks € 4.100.000,– bedoeld voor subsidieverstrekking van het vast bedrag, bedoeld in artikel 12.   
 3.  Van het subsidieplafond, bedoeld in het eerste lid, is jaarlijks € 36.500.000,– bedoeld voor subsidieverstrekking van het variabel bedrag, bedoeld in artikel 13.   
 4.  Indien het deel van het subsidieplafond dat is bestemd voor het vast bedrag respectievelijk het variabel bedrag, bedoeld in het tweede en derde lid, wordt overschreden, wordt de hoogte van de aanvullende vergoeding op de bekostiging naar evenredigheid per onderwijsinstelling verlaagd.  
@@ -121,16 +122,20 @@ b. een variabel bedrag dat per studiejaar en per categorie beroepsopleiding kan 
 
 a. voor kalenderjaar 2013: op 1 oktober 2011;  
 
-b. voor kalenderjaar 2014: op 1 oktober 2012; en  
+b. voor kalenderjaar 2014: op 1 oktober 2012;  
 
-c. voor kalenderjaar 2015: op 1 oktober 2013.     
+c. voor kalenderjaar 2015: op 1 oktober 2013; en  
+
+d. voor het kalenderjaar 2016: op 1 oktober 2014.    
 3.  Bij de berekening van het variabel bedrag, bedoeld in artikel 13, wordt het aantal deelnemers tot 22 jaar jaarlijks bepaald op grond van de volgende peilmomenten: 
 
 a. voor kalenderjaar 2013: op 1 oktober 2012;  
 
-b. voor kalenderjaar 2014: op 1 oktober 2013; en  
+b. voor kalenderjaar 2014: op 1 oktober 2013;  
 
-c. voor kalenderjaar 2015: op 1 oktober 2014.    
+c. voor kalenderjaar 2015: op 1 oktober 2014; en  
+
+d. voor het kalenderjaar 2016: op 1 oktober 2015.   
 
 ### Artikel  12  
 
@@ -161,15 +166,18 @@ c. voor kalenderjaar 2015: op 1 oktober 2014.
 7.  Bij de berekening van het percentage, bedoeld in het eerste lid, en de hoogte van het variabel bedrag, bedoeld in het vijfde lid, wordt het aantal nieuwe voortijdig schoolverlaters en de deelnemers tot 22 jaar voor de vakopleiding, middenkaderopleiding en de specialistenopleiding bij elkaar opgeteld.   
 8.  In afwijking van de bovenstaande leden, kan een onderwijsinstelling die niet voldoet aan één van de procentuele normen bedoeld in tabel 2, alsnog in aanmerking komen voor het variabel bedrag, indien er sprake is van een substantiële daling van het aantal nieuwe voortijdig schoolverlaters, zijnde: 
 
-a. een daling van het percentage, bedoeld in het derde lid, met twee procentpunt of meer ten opzichte van het behaalde percentage in het daaraan voorafgaand kalenderjaar, met betrekking tot de entreeopleiding; en  
+a. een daling van het percentage, bedoeld in het derde lid, met twee procentpunt of meer ten opzichte van het behaalde percentage in het daaraan voorafgaand kalenderjaar, met betrekking tot de entreeopleiding;  
 
-b. een daling van het percentage, bedoeld in het derde lid, met één procentpunt of meer ten opzichte van het behaalde percentage in het daaraan voorafgaand kalenderjaar, met betrekking tot de basisberoepsopleiding, vakopleiding, middenkaderopleiding of de specialistenopleiding.  Tabel 2. Procentuele norm nieuwe voortijdig schoolverlaters per categorie beroepsopleiding 
+b. een daling van het percentage, bedoeld in het derde lid, met één procentpunt of meer ten opzichte van het behaalde percentage in het daaraan voorafgaand kalenderjaar, met betrekking tot de basisberoepsopleiding, vakopleiding, middenkaderopleiding of de specialistenopleiding;  
 
-|--- | Entreeopleiding  | Basisberoepsopleiding  | Vakopleiding, middenkaderopleiding en specialistenopleiding  |
+c. voor het kalenderjaar 2016 een daling van het percentage, bedoeld in het vierde lid, met één procentpunt of meer ten opzichte van het behaalde percentage in het daaraan voorafgaande kalenderjaar met betrekking tot de basisberoepsopleiding en een daling van 0,7 procentpunt of meer ten opzichte van het behaalde percentage in het daaraan voorafgaande kalenderjaar met betrekking tot de vakopleiding, middenkaderopleiding of specialistenopleiding.    Tabel 2. Procentuele norm nieuwe voortijdig schoolverlaters per categorie beroepsopleiding 
+
+|--- | entreeopleiding  | basisberoepsopleiding  | vakopleiding, middenkaderopleiding en specialistenopleiding  |
 |:---|:---|:---|:---|
 | 2012–2013  | 32,5%  | 13,5%  | 4,25%  |
 | 2013–2014  | 27,5%  | 11,5%  | 3,5%  |
 | 2014–2015  | 22,5%  | 10%  | 2,75%  |
+| 2015–2016  | 22,5%  | 10%  | 2,75%  |
 
 ### *Tabel 3. Maximumbedragen beschikbaar per categorie beroepsopleiding per onderwijsinstelling* 
 
@@ -213,21 +221,6 @@ Vakopleiding, middenkaderopleiding en specialistenopleiding
 | 8001–10000  | € 600.000,–  |
 | Meer dan 10000  | € 700.000,–  |
 
-### Artikel  14  
-
-####Geen aanvullende bekostiging
-
-1.  In afwijking van artikel 13, vierde lid, komt een onderwijsinstelling niet in aanmerking voor een aanvullende vergoeding op de bekostiging, bedoeld in artikel 11, eerste lid, onderdeel b, voor kalenderjaar 2014, indien: 
-
-a. in de kalenderjaren 2013 en 2014, het percentage, bedoeld in artikel 13, derde lid, zoals vastgesteld ten behoeve van de onderwijsinstelling, gelijk is aan of lager is dan de procentuele norm per categorie beroepsopleiding genoemd in tabel 2; en  
-
-b. het percentage, bedoeld in artikel 13, derde lid, zoals vastgesteld ten behoeve van de onderwijsinstelling, in het kalenderjaar 2014 met ten minste 0,3 procentpunt gemiddeld is gestegen ten opzichte van de onderhavige percentages in de kalenderjaren 2012 en 2013.     
-2.  In afwijking van artikel 13, vierde lid, komt een onderwijsinstelling niet in aanmerking voor een aanvullende vergoeding op de bekostiging, bedoeld in artikel 11, eerste lid, onderdeel b, voor kalenderjaar 2015, indien: 
-
-a. in de kalenderjaren 2014 en 2015, het percentage, bedoeld in artikel 13, derde lid, zoals vastgesteld ten behoeve van de onderwijsinstelling per categorie beroepsopleiding, gelijk is aan of lager is dan de procentuele norm per categorie beroepsopleiding genoemd in tabel 2; en  
-
-b. het percentage, bedoeld in artikel 13, derde lid, zoals vastgesteld ten behoeve van de onderwijsinstelling, in kalenderjaar 2015 met ten minste 0,3 procentpunt gemiddeld is gestegen ten opzichte van de onderhavige percentages in de kalenderjaren 2013 en 2014.    
-
 ### Artikel  15  
 
 ####Hardheidsclausule
@@ -239,7 +232,7 @@ b. het percentage, bedoeld in artikel 13, derde lid, zoals vastgesteld ten behoe
 
 ####Overgangsrecht
 
-Bij de berekening, bedoeld in de artikelen 13, zevende lid en 14, eerste lid, onderdeel b, wordt bij de vergelijking van het kalenderjaar 2013 met het kalenderjaar 2012, de berekeningswijze van het aantal nieuwe voortijdig schoolverlaters gehanteerd, zoals bedoeld in artikel 8, van de Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten zoals luidend op 31 juli 2012. 
+Bij de berekening, bedoeld in artikel 13, zevende lid, wordt bij de vergelijking van het kalenderjaar 2013 met het kalenderjaar 2012, de berekeningswijze van het aantal nieuwe voortijdig schoolverlaters gehanteerd, zoals bedoeld in artikel 8, van de Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten zoals luidend op 31 juli 2012. 
 
 ### Paragraaf  3  
 
@@ -258,6 +251,14 @@ Bij de berekening, bedoeld in de artikelen 13, zevende lid en 14, eerste lid, on
 
 Deze regeling treedt in werking met ingang van 1 augustus 2012. 
 
+### Artikel  18a  
+
+####Vervaldatum
+
+1.  Deze regeling vervalt met ingang van 1 januari 2017.   
+2.  Voor zover er ter zake, na het vervallen van deze regeling, nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig deze regeling plaats.   
+3.  Bestaande aanspraken en verplichtingen bij, op grond of in het kader van deze regeling blijven in stand.  
+
 ### Artikel  19  
 
 ####Citeertitel
@@ -275,7 +276,7 @@ J.M. van Bijsterveldt-Vliegenthart
 
 ####deel 1
 
-####Berekeningswijze aantal nieuwe voortijdig schoolverlaters per mbo-instelling inzake het terugdringen van het aantal voortijdige schoolverlaters in de studiejaren 2012–2013 tot en met 2014–2015
+####Berekeningswijze aantal nieuwe voortijdig schoolverlaters per mbo-instelling inzake het terugdringen van het aantal voortijdige schoolverlaters in de studiejaren 2012–2013 tot en met 2015–2016
 
 ####Begripsbepalingen
 
@@ -311,7 +312,7 @@ n.  *schooljaar, studiejaar of collegejaar:* het jaar waarin de student staat in
 
 ####Berekeningswijze voor het middelbaar beroepsonderwijs
 
-Voor het middelbaar beroepsonderwijs wordt het aantal nieuwe voortijdig schoolverlaters in drie categorieën ingedeeld: mbo-niveau 1, mbo-niveau 2 en mbo-niveaus 3 en 4. Het aantal nieuwe voortijdig schoolverlaters (tot 23 jaar) uit het vavo-onderwijs, niet zijnde de Rutte-leerlingen, wordt wel geteld per mbo-instelling, maar dit aantal wordt niet beoordeeld in het kader van de prestatiesubsidies. Het aantal nieuwe voortijdig schoolverlaters uit het vavo telt wel mee in het landelijk gepresenteerde cijfer. Het aantal nieuwe voortijdig schoolverlaters per onderwijsinstelling per categorie per studiejaar in het middelbaar beroepsonderwijs wordt door de minister berekend op basis van de volgende formule:  *X = A – B – (C1+C2+C3+C4+C5+C6+C7+C8+C9+C10) – (D1+D2+D3+D4+D5)*  Waarbij:  *X* = Het aantal nieuwe voortijdig schoolverlaters per onderwijsinstelling per categorie per studiejaar (t) in het middelbaar beroepsonderwijs;  *A* = (ook wel startpopulatie genoemd) het aantal jongeren in de leeftijd tot 22 jaar dat op de teldatum van het studiejaar (t) door de onderwijsinstelling als deelnemer is ingeschreven per categorie in het middelbaar beroepsonderwijs en voor bekostiging wordt meegeteld;  *B* = het aantal jongeren onder B is de som van B1, B2 en B3:B1: het aantal jongeren onder A dat op teldatum t of voor of op teldatum t + 1 is overleden of geëmigreerd naar het buitenland. Deze gegevens worden ontleend aan de basisregistratie personen; B2: het aantal jongeren onder A dat woonachtig is in het buitenland of zonder vaste woon- of verblijfplaats is op teldatum t of teldatum t + 1; B3: het aantal jongeren onder A dat op teldatum t + 1 onder de vrijstellingen van de artikelen 5 en 15 van de Leerplichtwet 1969 valt en als zodanig is bevestigd door de leerplichtambtenaar in het Register vrijstellingen LPW;  *C*Het aantal jongeren onder A dat op de teldatum van het daaropvolgende studiejaar (t + 1) nog een opleiding volgt. Het kan dezelfde of een andere (beroeps)opleiding betreffen aan dezelfde of een andere bekostigde instelling dan wel vervolgonderwijs betreffen. C is de som van: 
+Voor het middelbaar beroepsonderwijs wordt het aantal nieuwe voortijdig schoolverlaters in drie categorieën ingedeeld: mbo-niveau 1, mbo-niveau 2 en mbo-niveaus 3 en 4. Het aantal nieuwe voortijdig schoolverlaters (tot 23 jaar) uit het vavo-onderwijs, niet zijnde de Rutte-leerlingen, wordt wel geteld per mbo-instelling, maar dit aantal wordt niet beoordeeld in het kader van de prestatiesubsidies. Het aantal nieuwe voortijdig schoolverlaters uit het vavo telt wel mee in het landelijk gepresenteerde cijfer. Het aantal nieuwe voortijdig schoolverlaters per onderwijsinstelling per categorie per studiejaar in het middelbaar beroepsonderwijs wordt door de minister berekend op basis van de volgende formule:  *X= A – B – (C1+C2+C3+C4+C5+C6+C7+C8+C9+C10+C11) – (D1+D2+D3+D4+D5)* Waarbij:  *X* = Het aantal nieuwe voortijdig schoolverlaters per onderwijsinstelling per categorie per studiejaar (t) in het middelbaar beroepsonderwijs;  *A* = (ook wel startpopulatie genoemd) het aantal jongeren in de leeftijd tot 22 jaar dat op de teldatum van het studiejaar (t) door de onderwijsinstelling als deelnemer is ingeschreven per categorie in het middelbaar beroepsonderwijs en voor bekostiging wordt meegeteld;  *B* = het aantal jongeren onder B is de som van B1, B2 en B3:B1: het aantal jongeren onder A dat op teldatum t of voor of op teldatum t + 1 is overleden of geëmigreerd naar het buitenland. Deze gegevens worden ontleend aan de basisregistratie personen; B2: het aantal jongeren onder A dat woonachtig is in het buitenland of zonder vaste woon- of verblijfplaats is op teldatum t of teldatum t + 1; B3: het aantal jongeren onder A dat op teldatum t + 1 onder de vrijstellingen van de artikelen 5 en 15 van de Leerplichtwet 1969 valt en als zodanig is bevestigd door de leerplichtambtenaar in het Register vrijstellingen LPW;  *C*Het aantal jongeren onder A dat op de teldatum van het daaropvolgende studiejaar (t + 1) nog een opleiding volgt. Het kan dezelfde of een andere (beroeps)opleiding betreffen aan dezelfde of een andere bekostigde instelling dan wel vervolgonderwijs betreffen. C is de som van: 
 
 * C1: Het aantal jongeren onder A dat op de teldatum van het daaropvolgende studiejaar t + 1 is ingeschreven als deelnemer in het middelbaar beroepsonderwijs en voor bekostiging wordt meegeteld. Dit op basis van gegevens zoals geregistreerd in het basisregister;  
 
@@ -329,7 +330,9 @@ Voor het middelbaar beroepsonderwijs wordt het aantal nieuwe voortijdig schoolve
 
 * C8: Het aantal jongeren onder A dat op teldatum van studiejaar t + 1 als deelnemer aan de politieschool of defensieopleidingen is ingeschreven op basis van registers van politie en defensie;  
 
-* C9: Het aantal jongeren onder A dat op teldatum van studiejaar t + 1 als leerling in het (voortgezet) speciaal onderwijs of praktijkonderwijs is ingeschreven zoals geregistreerd het basisregister;    *D* = Het aantal jongeren onder A dat een startkwalificatie heeft behaald. D is de som van: 
+* C9: Het aantal jongeren onder A dat op teldatum van studiejaar t + 1 als leerling in het (voortgezet) speciaal onderwijs of praktijkonderwijs is ingeschreven zoals geregistreerd het basisregister;  
+
+* C11: Het aantal jongeren onder A dat op de teldatum van studiejaar t + 1 als deelnemer is ingeschreven binnen een traject zijnde onderdeel van een met de Onderwijsinspectie afgesproken maatschappelijke prestatie;   *D* = Het aantal jongeren onder A dat een startkwalificatie heeft behaald. D is de som van: 
 
 * D1: het aantal jongeren onder A dat gedurende studiejaar (t) een startkwalificatie heeft behaald zoals geregistreerd in het basisregister;  
 
@@ -343,7 +346,7 @@ Voor het middelbaar beroepsonderwijs wordt het aantal nieuwe voortijdig schoolve
 
 ####deel 2
 
-####Berekeningswijze aantal nieuwe voortijdig schoolverlaters per vo-school inzake het terugdringen van het aantal voortijdige schoolverlaters in de studiejaren 2012/2013 tot en met 2014/2015
+####Berekeningswijze aantal nieuwe voortijdig schoolverlaters per vo-school inzake het terugdringen van het aantal voortijdige schoolverlaters in de studiejaren 2012–2013 tot en met 2015–2016
 
 ####Begripsbepalingen
 
@@ -375,7 +378,7 @@ l.  *schooljaar, studiejaar of collegejaar:* het jaar waarin de student staat in
 
 ####Berekeningswijze voor het voortgezet onderwijs
 
-Voor het voortgezet onderwijs wordt het aantal nieuwe voortijdig schoolverlaters in drie categorieën ingedeeld: onderbouw (inclusief brug 3), bovenbouw vmbo (inclusief vm2) en bovenbouw havo/vwo. De Rutte-leerlingen die uitbesteed zijn aan het vavo blijven ingeschreven staan bij de vo-school en tellen als zodanig mee bij de vo-school als leerling en mogelijk als nieuwe voortijdig schoolverlater. Het aantal nieuwe voortijdig schoolverlaters per vo-school per categorie per schooljaar (t) wordt door de minister berekend op basis van de volgende formule:  *X = A – B – (C1+C2+C3+C4+C5+C6+C7+C8+C9+C10) – (D1+D2)*  Waarbij:  *X* = Het aantal nieuwe voortijdig schoolverlaters per vo-school per categorie per schooljaar (t) in het voortgezet onderwijs  *A* = (ook wel startpopulatie genoemd) het aantal jongeren per categorie in de leeftijd tot 22 jaar dat op de teldatum bij aanvang van het schooljaar (t) door de onderwijsinstelling: 
+Voor het voortgezet onderwijs wordt het aantal nieuwe voortijdig schoolverlaters in drie categorieën ingedeeld: onderbouw (inclusief brug 3), bovenbouw vmbo (inclusief vm2) en bovenbouw havo/vwo. De Rutte-leerlingen die uitbesteed zijn aan het vavo blijven ingeschreven staan bij de vo-school en tellen als zodanig mee bij de vo-school als leerling en mogelijk als nieuwe voortijdig schoolverlater. Het aantal nieuwe voortijdig schoolverlaters per vo-school per categorie per schooljaar (t) wordt door de minister berekend op basis van de volgende formule:  *X= A – B – (C1+C2+C3+C4+C5+C6+C7+C8+C9+C10+C11) – (D1+D2+D3+D4+D5)* Waarbij:  *X* = Het aantal nieuwe voortijdig schoolverlaters per vo-school per categorie per schooljaar (t) in het voortgezet onderwijs  *A* = (ook wel startpopulatie genoemd) het aantal jongeren per categorie in de leeftijd tot 22 jaar dat op de teldatum bij aanvang van het schooljaar (t) door de onderwijsinstelling: 
 
 * als leerling is ingeschreven en voor bekostiging in het voortgezet onderwijs wordt meegeteld;  
 
@@ -401,7 +404,9 @@ C7: het aantal jongeren onder A dat op teldatum van schooljaar t + 1 als deelnem
 
 C8: het aantal jongeren onder A dat op teldatum van schooljaar t + 1 geregistreerd staat bij de Dienst Justitiële inrichtingen in het basisregister;  
 
-C9: het aantal jongeren onder A dat op teldatum van schooljaar t +1 als leerling aan de politieschool of defensieopleidingen is ingeschreven en als zodanig in het register politie en defensie staat.    *D* = Het aantal jongeren onder A dat gedurende schooljaar (t) is uitgeschreven met een startkwalificatie. D is de som van: 
+C9: het aantal jongeren onder A dat op teldatum van schooljaar t +1 als leerling aan de politieschool of defensieopleidingen is ingeschreven en als zodanig in het register politie en defensie staat.  
+
+C11: het aantal jongeren onder A dat op de teldatum van schooljaar t + 1 als leerling is ingeschreven binnen een traject zijnde onderdeel van een met de Onderwijsinspectie afgesproken maatschappelijke prestatie;   *D* = Het aantal jongeren onder A dat gedurende schooljaar (t) is uitgeschreven met een startkwalificatie. D is de som van: 
 
 D1: het aantal jongeren onder A dat gedurende schooljaar (t) een startkwalificatie heeft behaald zoals geregistreerd in het basisregister;  
 

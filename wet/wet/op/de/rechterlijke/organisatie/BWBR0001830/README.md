@@ -805,8 +805,9 @@ e. bestuursrechters, tenzij een andere bestuursrechter daartoe bevoegd is.
 2.  Het eerste lid is niet van toepassing op de handelingen en uitspraken van de rechtbanken in zaken waarvan zij als bestuursrechter kennis nemen.   
 3.  Het eerste lid is voorts niet van toepassing ten aanzien van de handelingen en beslissingen van de rechtbanken en van het gerechtshof Arnhem-Leeuwarden in zaken met betrekking tot de Wet administratiefrechtelijke handhaving verkeersvoorschriften en in zaken betreffende bestuurlijke boeten opgelegd op grond van artikel 154b van de Gemeentewet, met dien verstande dat de Hoge Raad wel kennis neemt van de eis tot «cassatie in het belang der wet» door de procureur-generaal.   
 4.  De Hoge Raad neemt kennis van het beroep in cassatie tegen uitspraken van de bestuursrechter voorzover dit bij wet is bepaald.   
-5.  Een partij kan geen beroep in cassatie instellen indien voor haar een ander gewoon rechtsmiddel openstaat of heeft opengestaan.   
-6.  Cassatie «in het belang der wet» kan niet worden ingesteld indien voor partijen een gewoon rechtsmiddel openstaat en brengt geen nadeel toe aan de rechten door partijen verkregen  
+5.  De Hoge Raad neemt kennis van het beroep in cassatie ingesteld «in het belang der wet» tegen uitspraken van de Raad voor strafrechtstoepassing en jeugdbescherming, bedoeld in artikel 32 van de Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming.  
+6.  Een partij kan geen beroep in cassatie instellen indien voor haar een ander gewoon rechtsmiddel openstaat of heeft opengestaan.   
+7.  Cassatie «in het belang der wet» kan niet worden ingesteld indien voor partijen een gewoon rechtsmiddel openstaat en brengt geen nadeel toe aan de rechten door partijen verkregen  
 
 ### Artikel  79  
 

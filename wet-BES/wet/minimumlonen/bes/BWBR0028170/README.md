@@ -73,11 +73,11 @@ g. bijzondere vergoedingen voor kostwinners en gezinshoofden.
 
 1.  Het bruto minimumuurloon bedraagt voor werknemers van 21 jaar en ouder in het openbaar lichaam: 
 
-a. Bonaire: USD 4,03 per 1 januari 2013: USD 4,55;  
+a. Bonaire: USD 4,03 per 1 januari 2015: USD 4,70;  
 
-b. Sint Eustatius: USD 3,32 per 1 januari 2013: USD 4,89;  
+b. Sint Eustatius: USD 3,32 per 1 januari 2015: USD 5,14;  
 
-c. Saba: USD 3,50 per 1 januari 2013: USD 4,61.     
+c. Saba: USD 3,50 per 1 januari 2015: USD 5,09.     
 2.  [vervallen]   
 3.  [vervallen]   
 4.  [vervallen]   

@@ -166,30 +166,34 @@ Het Koninkrijk der Nederlanden en de Republiek der Filipijnen, Wensend de rechtm
 
 ####Begripsomschrijvingen
 
+Wordt voorlopig toegepast per 01-07-2015 
+
 1.   Voor de toepassing van dit Verdrag wordt verstaan onder: 
 
-a. „verdragsluitende partijen", het Koninkrijk der Nederlanden en de Republiek der Filipijnen;  
+a. „verdragsluitende partijen”, het Koninkrijk der Nederlanden en de Republiek der Filipijnen;  
 
-b. „grondgebied", met betrekking tot het Koninkrijk der Nederlanden: het grondgebied van het Koninkrijk in Europa, en met betrekking tot de Republiek der Filipijnen: het grondgebied zoals omschreven in de Grondwet van 1987;   
+b. „grondgebied”, met betrekking tot het Koninkrijk der Nederlanden: het grondgebied van het Koninkrijk in Europa, en met betrekking tot de Republiek der Filipijnen: het grondgebied zoals omschreven in de Grondwet van 1987;   
 
-c. „wetgeving", de wetten, voorschriften en bestuursrechtelijke regelingen die betrekking hebben op de in artikel 2 genoemde stelsels van sociale zekerheid;  
+c. „wetgeving”, de wetten, voorschriften en bestuursrechtelijke regelingen die betrekking hebben op de in artikel 2 genoemde stelsels van sociale zekerheid;  
 
-d. „bevoegde autoriteit", met betrekking tot het Koninkrijk der Nederlanden: de minister van Sociale Zaken en Werkgelegenheid van Nederland, en met betrekking tot de Republiek der Filipijnen: de President-Directeur van het socialeverzekeringsstelsel;  
+d. „bevoegde autoriteit”, met betrekking tot het Koninkrijk der Nederlanden: de minister van Sociale Zaken en Werkgelegenheid van Nederland, en met betrekking tot de Republiek der Filipijnen: de President-Directeur van het socialeverzekeringsstelsel;  
 
-e. „bevoegd orgaan", met betrekking tot het Koninkrijk der Nederlanden betreffende de wetgeving bedoeld in artikel 2, eerste lid, onder a, b en c: het Landelijk Instituut Sociale Verzekeringen, p/a GAK Nederland BV of zijn rechtsopvolger, en betreffende de wetgeving bedoeld in artikel 2, eerste lid, onder d, e en f: de Sociale Verzekeringsbank; met betrekking tot de Republiek der Filipijnen: het sociaalzekerheidsstelsel voor de werknemers in de private sector en het verzekeringsstelsel voor de overheidsdienst voor werknemers in de publieke sector;  
+e. „bevoegd orgaan”, met betrekking tot het Koninkrijk der Nederlanden betreffende de wetgeving bedoeld in artikel 2, eerste lid, onderdeel A, onder i, ii en iii: het Landelijk Instituut Sociale Verzekeringen, p/a Gak Nederland BV of zijn rechtsopvolger, en betreffende de wetgeving bedoeld in artikel 2, eerste lid, onderdeel A, onder iv en v: de Sociale Verzekeringsbank; met betrekking tot de Republiek der Filipijnen: het socialezekerheidsstelsel voor de werknemers in de private sector en het verzekeringsstelsel voor de overheidsdienst voor werknemers in de publieke sector;  
 
-f. „instantie", elke organisatie die betrokken is bij de uitvoering van dit Verdrag, met inbegrip van het bevolkingsregister, de belastingautoriteiten, het huwelijksregister, arbeidsbureaus, scholen en andere onderwijsinstellingen, handelsautoriteiten, de politie, het gevangeniswezen en immigratiediensten;  
+f. „instantie”, elke organisatie die betrokken is bij de uitvoering van dit Verdrag, met inbegrip van het bevolkingsregister, de belastingautoriteiten, het huwelijksregister, arbeidsbureaus, scholen en andere onderwijsinstellingen, handelsautoriteiten, de politie, het gevangeniswezen en immigratiediensten;  
 
-g. „uitkering", elke uitkering of elk pensioen krachtens de in artikel 2 bedoelde wetgeving;  
+g. „uitkering”, elke uitkering of elk pensioen krachtens de in artikel 2 bedoelde wetgeving;  
 
-h. „uitkeringsgerechtigde", elke persoon die een uitkering aanvraagt of recht heeft op een uitkering;  
+h. „uitkeringsgerechtigde”, elke persoon die een uitkering aanvraagt of recht heeft op een uitkering;  
 
-i. „gezinslid", een persoon die als zodanig wordt omschreven of aangemerkt in de door de Nederlandse bevoegde organen toegepaste wetgeving.     
+i. „gezinslid”, een persoon die als zodanig wordt omschreven of aangemerkt in de door de Nederlandse bevoegde organen toegepaste wetgeving.     
 2.   Andere in dit Verdrag gebruikte termen hebben de betekenis die daaraan in de toegepaste wetgeving wordt gegeven.  
 
 ### Artikel  2  
 
 ####Materiële werkingssfeer
+
+Wordt voorlopig toegepast per 01-07-2015 
 
 1.   Dit Verdrag is van toepassing: 
 
@@ -201,11 +205,9 @@ ii. arbeidsongeschiktheidsverzekering voor werknemers;
 
 iii. arbeidsongeschiktheidsverzekering voor zelfstandigen;  
 
-iv. ouderdomsverzekering;  
+iv. ouderdomsverzekering; en  
 
-v. nabestaandenverzekering; en  
-
-vi. kinderbijslagen.   
+v. nabestaandenverzekering.   
 
 b. ten aanzien van de Republiek der Filipijnen, op de Filipijnse wetgeving inzake: 
 

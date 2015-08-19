@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 27 april 2009, nr. DL/B/119493, houdende een tegemoetkoming in de kosten voor een beperkt aantal opleidingsscholen (Regeling tegemoetkoming kosten opleidingsscholen)
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
-Gelet op de [artikelen 2](../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) en [4 van de Wet overige OCW-subsidies](../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md);
+Gelet op de artikelen 2 en 4 van de Wet overige OCW-subsidies;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -17,29 +17,29 @@ In deze regeling wordt verstaan onder:
 
 a.  *Minister:* Minister van Onderwijs, Cultuur en Wetenschap,  
 
-b.  *school:* uit ’s Rijks kas bekostigde school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), dan wel een instelling als bedoeld in [artikel 1.1.1, onderdeel b van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
+b.  *school:* uit ’s Rijks kas bekostigde school als bedoeld in artikel 1 van de Wet op het primair onderwijs, artikel 1 van de Wet op het voortgezet onderwijs, dan wel een instelling als bedoeld in artikel 1.1.1, onderdeel b van de Wet educatie en beroepsonderwijs,  
 
-c.  *po:* het primair onderwijs, zoals bedoeld in de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) en de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md),  
+c.  *po:* het primair onderwijs, zoals bedoeld in de Wet op het primair onderwijs en de Wet op de expertisecentra,  
 
-d.  *vo:* het voortgezet onderwijs, zoals bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+d.  *vo:* het voortgezet onderwijs, zoals bedoeld in de Wet op het voortgezet onderwijs;  
 
-e.  *bve:* het beroepsonderwijs en de volwasseneneducatie, zoals bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
+e.  *bve:* het beroepsonderwijs en de volwasseneneducatie, zoals bedoeld in de Wet educatie en beroepsonderwijs,  
 
-f.  *hoger onderwijs:* hoger beroepsonderwijs en wetenschappelijk onderwijs, zoals bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) (WHW),  
+f.  *hoger onderwijs:* hoger beroepsonderwijs en wetenschappelijk onderwijs, zoals bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek (WHW),  
 
-g.  *lerarenopleiding:* op basis van de [WHW](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) bekostigde bachelor- of masteropleiding tot leraar po, leraar vo/bve, of leraar vho,  
+g.  *lerarenopleiding:* op basis van de WHW bekostigde bachelor- of masteropleiding tot leraar po, leraar vo/bve, of leraar vho,  
 
 h.  *opleidingsschool:* partnerschap tussen één of meer scholen voor po, vo of bve en één of meer lerarenopleidingen die in gezamenlijkheid toekomstige leraren voor een groot gedeelte van hun tijd op de werkplek opleiden,  
 
-i.  *academische opleidingsschool:* opleidingsschool die het opleiden van leraren verbindt met het in het kader van die opleiding verrichten (voor een belangrijk deel door de leraar in opleiding) van praktijkgericht onderzoek en het bevorderen van schoolontwikkeling en innovatie en die bovendien op 1 maart 2009 deelnemer is aan het ‘overbruggingsjaar opleiden in de school 2008–2009’ als vervolg op de [subsidieregeling ‘Dieptepilot voor de opleidingsschool en de academische school 2005–2008’](../../../../../../ministeriele-regeling/subsidieregeling/dieptepilot/voor/de/opleidingsschool/en/academische/etc/BWBR0018786/README.md),  
+i.  *academische opleidingsschool:* opleidingsschool die het opleiden van leraren verbindt met het in het kader van die opleiding verrichten (voor een belangrijk deel door de leraar in opleiding) van praktijkgericht onderzoek en het bevorderen van schoolontwikkeling en innovatie en die bovendien op 1 maart 2009 deelnemer is aan het ‘overbruggingsjaar opleiden in de school 2008–2009’ als vervolg op de subsidieregeling ‘Dieptepilot voor de opleidingsschool en de academische school 2005–2008’,  
 
 j.  *student:* degene die hoger onderwijs volgt, niet zijnde extraneus, waarvan de opleiding voldoet aan het gestelde in artikel 2, tweede lid ,  
 
-k.  *NVAO:* Nederlands-Vlaamse Accreditatieorganisatie, het accreditatieorgaan hoger onderwijs, bedoeld in [artikel 5a.2 van de WHW](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md),  
+k.  *NVAO:* Nederlands-Vlaamse Accreditatieorganisatie, het accreditatieorgaan hoger onderwijs, bedoeld in artikel 5a.2 van de WHW,  
 
 l.  *schooljaar:* tijdvak dat aanvangt op 1 augustus van enig kalenderjaar en eindigt op 31 juli daaropvolgend,  
 
-m.  *studiepunt:* studiepunt in de zin van [artikel 7.4, eerste lid, van de WHW](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+m.  *studiepunt:* studiepunt in de zin van artikel 7.4, eerste lid, van de WHW.   
 
 ### Artikel  2  
 
@@ -50,7 +50,7 @@ m.  *studiepunt:* studiepunt in de zin van [artikel 7.4, eerste lid, van de WHW]
 
 a. studenten van een lerarenopleiding in het hoger beroepsonderwijs (bachelor- of masteropleiding), die minimaal 40% van het curriculum in de praktijk volgen,  
 
-b. studenten van een eenjarig programma van een hbo-lerarenopleiding op grond van [artikel 5.6, vijfde lid, onderdeel b, van de Wet studiefinanciering 2000](../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) (kopopleiding) die minimaal 50% (= 30 studiepunten) van het curriculum in de praktijk volgen,  
+b. studenten van een eenjarig programma van een hbo-lerarenopleiding op grond van artikel 5.6, vijfde lid, onderdeel b, van de Wet studiefinanciering 2000 (kopopleiding) die minimaal 50% (= 30 studiepunten) van het curriculum in de praktijk volgen,  
 
 c. studenten van een universitaire lerarenopleiding (masteropleiding) van 60 studiepunten, die 20% van het curriculum in de praktijk volgen,  
 
@@ -61,6 +61,17 @@ e. studenten van een universitaire bacheloropleiding die een educatieve minor vo
 f. studenten die op basis van een geschiktheidsverklaring als leraar zijn benoemd of aangesteld (zij-instromers), of  
 
 g. studenten die zijn benoemd of aangesteld als leraar en tegelijkertijd een lerarenopleiding volgen met als doel om een hogere of andere bevoegdheid te behalen.    
+
+### Artikel  2a  
+
+####Aspirant-opleidingsschool
+
+Treedt in werking per 01-09-2015 
+
+1.  Een aspirant-opleidingsschool is een opleidingsschool die niet eerder subsidie heeft ontvangen in het kader van deze regeling.   
+2.  Bij de aanvraag voor een aspirant-opleidingsschool dient de aanvrager een samenwerkingsovereenkomst en een ontwikkelplan in.   
+3.  In afwijking van artikel 13, eerste lid wordt de subsidie voor een aspirant-opleidingsschool niet geweigerd op grond van onderdelen a en b van dat lid.   
+4.  Een aspirant-opleidingsschool is een opleidingsschool in het po, vo of mbo als minimaal 75% van de opleidingsplaatsen binnen de opleidingsschool zich op scholen in de betreffende onderwijssector bevindt.  
 
 ### Artikel  3  
 
@@ -100,6 +111,21 @@ Subsidie wordt op aanvraag van de penvoerder, bedoeld in artikel 3, tweede lid, 
 
 De aanvraag bedoeld in artikel 11, vierde lid, wordt ingediend met behulp van het formulier Verlenging bekostiging opleidingsscholen dat door de Dienst Uitvoering Onderwijs aan de opleidingsscholen ter beschikking wordt gesteld. 
 
+### Artikel  7a  
+
+####Samenwerkingsovereenkomst en ontwikkelplan aspirant-opleidingsscholen
+
+Treedt in werking per 01-09-2015 
+
+1.  De samenwerkingsovereenkomst, bedoeld in artikel 2a, tweede lid, bevat de afspraken tussen de deelnemende partijen in de aspirant-opleidingsschool en bevat in ieder geval: 
+
+a. een beschrijving van de gezamenlijke visie op het opleiden van studenten;  
+
+b. de inzet van middelen die beide partijen hierbij inbrengen; en  
+
+c. de partner die zal optreden als penvoerder, bedoeld in artikel 3, tweede lid.     
+2.  Het ontwikkelplan, bedoeld in artikel 2a, tweede lid, is opgesteld aan de hand van de criteria in bijlage 3 bij deze regeling en bevat een beschrijving van de mate waarin de aspirant-opleidingsschool reeds voldoet aan de kaders gesteld in onderdeel 1 van bijlage 1 bij deze regeling en welke activiteiten worden uitgevoerd om een jaar voor het einde van de subsidieperiode volledig aan deze kaders te voldoen.  
+
 ### Artikel  8  
 
 ####Termijn indiening aanvraag
@@ -137,13 +163,13 @@ De Minister verdeelt het beschikbare bedrag bij overschrijding van het subsidiep
 
 ####Begrotingsvoorwaarde
 
-In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden de met inachtneming van artikel 4 verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen. 
+In geval van het niet vervullen van de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht, worden de met inachtneming van artikel 4 verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen. 
 
 ### Artikel  13  
 
 ####Weigeringsgronden
 
-1.  Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de subsidieverlening worden geweigerd of beëindigd indien: 
+1.  Onverminderd artikel 4:35 van de Algemene wet bestuursrecht kan de subsidieverlening worden geweigerd of beëindigd indien: 
 
 a. de opleidingsschool niet of niet langer minimaal aan de vereiste basiskwaliteit voldoet aan de hand van het oordeel van de NVAO,  
 
@@ -156,7 +182,7 @@ d. niet of niet langer alle deelnemende lerarenopleidingen in de opleidingsschoo
 e. het subsidieplafond wordt overschreden, of  
 
 f. niet voldaan is aan de verplichting, bedoeld in artikel 14, tweede lid.    
-2.  De Minister kan van het gestelde onder het eerste lid, onderdeel b, afwijken indien sprake is van een academische opleidingsschool aan wie tevens subsidie op grond van de [Regeling verdiepingsslag academische opleidingsschool 2009–2011](../../../../../../ministeriele-regeling/regeling/verdiepingsslag/academische/opleidingsschool/2009–2011/BWBR0025827/README.md) is of wordt verleend.   
+2.  De Minister kan van het gestelde onder het eerste lid, onderdeel b, afwijken indien sprake is van een academische opleidingsschool aan wie tevens subsidie op grond van de Regeling verdiepingsslag academische opleidingsschool 2009–2011 is of wordt verleend.   
 3.  De Minister kan voor bepaalde gevallen van het eerste lid afwijken voor zover deze toepassing, gelet op het belang dat deze regeling beoogt te beschermen, zal leiden tot onbillijkheid van overwegende aard.  
 
 ### Hoofdstuk  4  
@@ -169,7 +195,7 @@ f. niet voldaan is aan de verplichting, bedoeld in artikel 14, tweede lid.
 
 1.  De subsidieontvanger werkt mee aan door of namens de Minister ingestelde onderzoeken die erop gericht zijn de Minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het door of namens de Minister te voeren beleid.   
 2.  Jaarlijks uiterlijk op 1 oktober verstrekt de subsidieontvanger de gegevens over het verstreken schooljaar die nodig zijn voor het verlenen van de subsidie voor het lopende schooljaar. Tot deze gegevens behoren in ieder geval een verantwoording van het aantal studenten bedoeld in artikel 2, tweede lid.   
-3.  De subsidieontvanger geeft aan door of namens de minster aangewezen ambtenaren op verzoek inzage in de in [artikel 17 van de Wet overige OCW-subsidies](../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) bedoelde administratie en verstrekt alle inlichtingen die redelijkerwijs noodzakelijk zijn om een juist inzicht te verkrijgen in de besteding van de subsidie.   
+3.  De subsidieontvanger geeft aan door of namens de minster aangewezen ambtenaren op verzoek inzage in de in artikel 17 van de Wet overige OCW-subsidies bedoelde administratie en verstrekt alle inlichtingen die redelijkerwijs noodzakelijk zijn om een juist inzicht te verkrijgen in de besteding van de subsidie.   
 4.  De subsidieontvanger doet zo spoedig mogelijk schriftelijk mededeling aan de Minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie. Daarbij worden de relevante stukken overgelegd.  
 
 ### Artikel  15  
@@ -184,8 +210,8 @@ f. niet voldaan is aan de verplichting, bedoeld in artikel 14, tweede lid.
 
 ####Verantwoording en controle
 
-1.  De verantwoording van de subsidie geschiedt in de jaarverslaggeving, bedoeld in de [Regeling jaarverslaggeving onderwijs](../../../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md). De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van de subsidie en de rechtmatigheid van de gegevens, bedoeld in artikel 14, tweede lid.   
-2.  Indien de subsidieontvanger een regulier bekostigde instelling op grond van de [WHW](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) betreft, dan vindt de verantwoording van de subsidie in de jaarverslaggeving tevens plaats in de FSR-bijlage bij het jaarverslag, bedoeld in [artikel 3, onderdeel g, van de Regeling jaarverslaggeving onderwijs](../../../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md).  
+1.  De verantwoording van de subsidie geschiedt in de jaarverslaggeving, bedoeld in de Regeling jaarverslaggeving onderwijs. De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van de subsidie en de rechtmatigheid van de gegevens, bedoeld in artikel 14, tweede lid.   
+2.  Indien de subsidieontvanger een regulier bekostigde instelling op grond van de WHW betreft, dan vindt de verantwoording van de subsidie in de jaarverslaggeving tevens plaats in de FSR-bijlage bij het jaarverslag, bedoeld in artikel 3, onderdeel g, van de Regeling jaarverslaggeving onderwijs.  
 
 ### Hoofdstuk  5  
 

@@ -4137,9 +4137,9 @@ Onder rechter in deze afdeling worden mede scheidsmannen begrepen.
 
 ####Van het vereffenen van schadevergoeding 
 
-###Artikel 612 
+### Artikel  612  
 
-De rechter die een veroordeling tot schadevergoeding uitspreekt, begroot, voor zover hem dit mogelijk is, de schade in het vonnis. Indien begroting in het vonnis hem niet mogelijk is, spreekt hij een veroordeling uit tot schadevergoeding op te maken bij staat. 
+De rechter die een veroordeling tot schadevergoeding uitspreekt, begroot, voor zover hem dit mogelijk is, de schade in het vonnis. Indien begroting in het vonnis hem niet mogelijk is, spreekt hij een veroordeling uit tot schadevergoeding op te maken bij staat.  
 
 ### Artikel  613  
 

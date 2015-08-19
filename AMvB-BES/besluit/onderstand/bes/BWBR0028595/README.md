@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 13 juli 2010, nr. IVV/I/2010/13018, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
 
-Gelet op [artikel 18.3, eerste, vierde en vijfde lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md);
+Gelet op artikel 18.3, eerste, vierde en vijfde lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba;
 
 De Raad van State gehoord (advies van 12 augustus 2010, nr. W12.10.0343/III);
 
@@ -196,11 +196,11 @@ Het basisbedrag van de algemene onderstand bedraagt per twee weken:
 | --- | --- |
 |:---|:---|
 | a. indien de belanghebbende woonachtig is in het openbaar lichaam Bonaire:  | USD 79 
-per 1 januari 2013: USD 87;  |
+per 1 januari 2015: USD 90;  |
 | b. indien de belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius:  | USD 79 
-per 1 januari 2013: USD 94;  |
+per 1 januari 2015: USD 98;  |
 | c. indien de belanghebbende woonachtig is in het openbaar lichaam Saba:  | USD 79 
-per 1 januari 2013: USD 88.  |
+per 1 januari 2015: USD 97.  |
 
 ### §  3.2  
 
@@ -215,11 +215,11 @@ Het basisbedrag van de algemene onderstand, genoemd in artikel 13, wordt voor ee
 | --- | --- |
 |:---|:---|
 | a. indien de belanghebbende woonachtig is in het openbaar lichaam Bonaire:  | USD 19 
-per 1 januari 2013: USD 21;  |
+per 1 januari 2015: USD 22;  |
 | b. indien de belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius:  | USD 19 
-per 1 januari 2013: USD 23;  |
+per 1 januari 2015: USD 24;  |
 | c. indien de belanghebbende woonachtig is in het openbaar lichaam Saba:  | USD 19 
-per 1 januari 2013: USD 21.  |
+per 1 januari 2015: USD 23.  |
 
 ### Artikel  15  
 
@@ -230,11 +230,11 @@ Het basisbedrag van de algemene onderstand, genoemd in artikel 13, wordt voor pe
 | --- | --- |
 |:---|:---|
 | a. indien de belanghebbende woonachtig is in het openbaar lichaam Bonaire:  | USD 47 
-per 1 januari 2013: USD 52:  |
+per 1 januari 2015: USD 54:  |
 | b. indien de belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius:  | USD 47 
-per 1 januari 2013: USD 56;  |
+per 1 januari 2015: USD 59;  |
 | c. indien de belanghebbende woonachtig is in het openbaar lichaam Saba:  | USD 47 
-per 1 januari 2013: USD 53.  |
+per 1 januari 2015: USD 58.  |
 
 ### Artikel  16  
 
@@ -245,11 +245,11 @@ per 1 januari 2013: USD 53.  |
 | --- | --- |
 |:---|:---|
 | a. indien het gezin woonachtig is in het openbaar lichaam Bonaire:  | USD 23 
-per 1 januari 2013: USD 25;  |
+per 1 januari 2015: USD 26;  |
 | b. indien het gezin woonachtig is in het openbaar lichaam Sint Eustatius:  | USD 23 
-per 1 januari 2013: USD 27;  |
+per 1 januari 2015: USD 29;  |
 | c. indien het gezin woonachtig is in het openbaar lichaam Saba:  | USD 23 
-per 1 januari 2013: USD 26   |
+per 1 januari 2015: USD 28   |
 | voor het eerste kind.  | --- |
 
 2.  Het basisbedrag van de algemene onderstand, genoemd in artikel 13, wordt voor een gezin met twee of meer ten laste komende kinderen verhoogd met een toeslag per twee weken van:  
@@ -257,11 +257,11 @@ per 1 januari 2013: USD 26   |
 | --- | --- |
 |:---|:---|
 | a. indien het gezin woonachtig is in het openbaar lichaam Bonaire:  | USD 12 
-per 1 januari 2013: USD 13;  |
+per 1 januari 2015: USD 14;  |
 | b. indien het gezin woonachtig is in het openbaar lichaam Sint Eustatius:  | USD 12 
-per 1 januari 2013: USD 14;  |
+per 1 januari 2015: USD 15;  |
 | c. indien het gezin woonachtig is in het openbaar lichaam Saba:  | USD 12 
-per 1 januari 2013: USD 13   |
+per 1 januari 2015: USD 15   |
 | per kind voor het tweede en derde kind.  | --- |
 
 3.  Het gezin heeft voor ten hoogste drie kinderen recht op toeslag.  
@@ -275,14 +275,14 @@ per 1 januari 2013: USD 13   |
 | --- | --- |
 |:---|:---|
 | a. indien de belanghebbende woonachtig is in het openbaar lichaam Bonaire:  | USD 93 
-per 1 januari 2013: USD 153;  |
+per 1 januari 2015: USD 159;  |
 | b. indien de belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius:  | USD 93 
-per 1 januari 2013: USD 164;  |
+per 1 januari 2015: USD 173;  |
 | c. indien de belanghebbende woonachtig is in het openbaar lichaam Saba:  | USD 93 
-per 1 januari 2013: USD 156.  |
+per 1 januari 2015: USD 172.  |
 
 2.  Voor de toepassing van het eerste lid is volledig en duurzaam arbeidsongeschikt, de persoon die als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte of gebrek volledig en duurzaam niet in staat is om algemeen geaccepteerde arbeid te verrichten.   
-3.  Het bedrag van de toeslag, genoemd in het eerste lid, wordt voor de belanghebbende die op het moment van inwerkingtreding van dit besluit woonachtig is in het openbaar lichaam Saba en op dat moment in verband met zijn volledige en duurzame arbeidsongeschiktheid reeds verhoogde onderstand ontvangt, verhoogd met een bedrag van USD 30 per 1 januari 2013: USD 34 per twee weken.  
+3.  Het bedrag van de toeslag, genoemd in het eerste lid, wordt voor de belanghebbende die op het moment van inwerkingtreding van dit besluit woonachtig is in het openbaar lichaam Saba en op dat moment in verband met zijn volledige en duurzame arbeidsongeschiktheid reeds verhoogde onderstand ontvangt, verhoogd met een bedrag van USD 30 per 1 januari 2015: USD 37 per twee weken.  
 
 ### §  3.3  
 
@@ -536,7 +536,7 @@ Bij regeling van Onze Minister worden instanties en personen aangewezen aan wie 
 
 1.  Met het toezicht op de naleving van het bij of krachtens dit besluit bepaalde zijn belast de daartoe bij besluit van Onze Minister aangewezen ambtenaren.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
-3.  [Titel 5.2 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing, met uitzondering van de [artikelen 5.18](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5.19](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+3.  Titel 5.2 van de Algemene wet bestuursrecht is van toepassing, met uitzondering van de artikelen 5.18 en 5.19.  
 
 ### Hoofdstuk  8  
 
@@ -546,7 +546,7 @@ Bij regeling van Onze Minister worden instanties en personen aangewezen aan wie 
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](../../../../../rijkswet/rijkswet/wijziging/statuut/in/verband/met/de/opheffing/van/de/nederlandse/etc/BWBR0028249/README.md) in werking treedt. 
+Dit besluit treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt. 
 
 ### Artikel  43  
 
