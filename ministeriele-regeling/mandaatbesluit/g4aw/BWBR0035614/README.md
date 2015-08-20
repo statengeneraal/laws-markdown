@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 29 september 2014, nr. MinBuZa 2014.581279, tot verlening van mandaat, volmacht en machtiging inzake uitvoering van de Geodata for Agriculture and Water Facility 2013–2014 (Mandaatbesluit G4AW)
+##Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 29 september 2014, nr. MinBuZa 2014.581279, tot verlening van mandaat, volmacht en machtiging inzake uitvoering van de Geodata for Agriculture and Water Facility 2014–2015 (Mandaatbesluit G4AW)
 
 De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,  
 Gelet op afdeling 10.1.1 van de Algemene wet bestuursrecht;

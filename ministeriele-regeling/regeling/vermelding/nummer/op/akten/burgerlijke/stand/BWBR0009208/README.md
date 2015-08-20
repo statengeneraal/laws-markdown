@@ -3,7 +3,7 @@
 ##Regeling vermelding nummer op akten burgerlijke stand
 
 De Staatssecretaris van Justitie,  
-Gelet op de [artikelen 38](../../../../../../../../../AMvB/besluit/burgerlijke/stand/1994/BWBR0006493/README.md) en [39, derde lid van het Besluit burgerlijke stand 1994](../../../../../../../../../AMvB/besluit/burgerlijke/stand/1994/BWBR0006493/README.md);
+Gelet op de artikelen 38 en 39, derde lid van het Besluit burgerlijke stand 1994;
 Besluit:     
 
 ### Artikel  1  
@@ -20,11 +20,11 @@ De eerste positie van het in artikel 1 bedoelde nummer is bestemd voor de aandui
 
 3 =  register van huwelijken  
 
-4 =  register van echtscheidingen, bedoeld in [artikel 6 van Titel 4 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md)  
+4 =  register van echtscheidingen, bedoeld in artikel 6 van Titel 4 van Boek 1 van het Burgerlijk Wetboek  
 
 5 =  register van geregistreerde partnerschappen  
 
-6 =  register van beëindiging van geregistreerde partnerschappen, bedoeld in [artikel 6 van Titel 4 van Boek I van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md)    
+6 =  register van beëindiging van geregistreerde partnerschappen, bedoeld in artikel 6 van Titel 4 van Boek I van het Burgerlijk Wetboek    
 
 ### Artikel  3  
 

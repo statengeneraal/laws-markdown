@@ -65,7 +65,7 @@ d. indien nodig met alle andere middelen die kunnen bijdragen tot de intensiveri
 
 ### Artikel  6  
 
-De Gemeenschap en Libanon brengen stapsgewijs een vrijhandelszone tot stand in de loop van een overgangsperiode van ten hoogste twaalf jaar, te beginnen bij de inwerkingtreding van deze overeenkomst, overeenkomstig de bepalingen van deze titel en in overeenstemming met de bepalingen van de Algemene Overeenkomst inzake Tarieven en Handel (GATT) 1994 en andere multilaterale overeenkomsten inzake de handel in goederen die opgenomen zijn in de bijlagen bij de Overeenkomst tot oprichting van de Wereldhandelsorganisatie (WTO), hierna „GATT" genoemd. 
+De Gemeenschap en Libanon brengen stapsgewijs een vrijhandelszone tot stand in de loop van een overgangsperiode van ten hoogste twaalf jaar, te beginnen bij de inwerkingtreding van deze overeenkomst, overeenkomstig de bepalingen van deze titel en in overeenstemming met de bepalingen van de Algemene Overeenkomst inzake Tarieven en Handel (GATT) 1994 en andere multilaterale overeenkomsten inzake de handel in goederen die opgenomen zijn in de bijlagen bij de Overeenkomst tot oprichting van de Wereldhandelsorganisatie (WTO), hierna „GATT” genoemd. 
 
 ### HOOFDSTUK  1  
 
@@ -83,21 +83,21 @@ Producten van oorsprong uit Libanon worden bij invoer in de Gemeenschap toegelat
 
 1.   Douanerechten en heffingen van gelijke werking die bij invoer in Libanon van toepassing zijn op producten van oorsprong uit de Gemeenschap, worden geleidelijk afgeschaft overeenkomstig het hiernavolgende tijdschema: 
 
-–  vijf jaar na de inwerkingtreding van deze overeenkomst worden alle rechten en heffingen verlaagd tot 88% van het basisrecht;  
+– vijf jaar na de inwerkingtreding van deze overeenkomst worden alle rechten en heffingen verlaagd tot 88% van het basisrecht;  
 
-–  zes jaar na de inwerkingtreding van deze overeenkomst worden alle rechten en heffingen verlaagd tot 76% van het basisrecht;  
+– zes jaar na de inwerkingtreding van deze overeenkomst worden alle rechten en heffingen verlaagd tot 76% van het basisrecht;  
 
-–  zeven jaar na de inwerkingtreding van deze overeenkomst worden alle rechten en heffingen verlaagd tot 64% van het basisrecht;  
+– zeven jaar na de inwerkingtreding van deze overeenkomst worden alle rechten en heffingen verlaagd tot 64% van het basisrecht;  
 
-–  acht jaar na de inwerkingtreding van deze overeenkomst worden alle rechten en heffingen verlaagd tot 52% van het basisrecht;  
+– acht jaar na de inwerkingtreding van deze overeenkomst worden alle rechten en heffingen verlaagd tot 52% van het basisrecht;  
 
-–  negen jaar na de inwerkingtreding van deze overeenkomst worden alle rechten en heffingen verlaagd tot 40% van het basisrecht;  
+– negen jaar na de inwerkingtreding van deze overeenkomst worden alle rechten en heffingen verlaagd tot 40% van het basisrecht;  
 
-–  tien jaar na de inwerkingtreding van deze overeenkomst worden alle rechten en heffingen verlaagd tot 28% van het basisrecht;  
+– tien jaar na de inwerkingtreding van deze overeenkomst worden alle rechten en heffingen verlaagd tot 28% van het basisrecht;  
 
-–  elf jaar na de inwerkingtreding van deze overeenkomst worden alle rechten en heffingen verlaagd tot 16% van het basisrecht;  
+– elf jaar na de inwerkingtreding van deze overeenkomst worden alle rechten en heffingen verlaagd tot 16% van het basisrecht;  
 
-–  twaalf jaar na de inwerkingtreding van deze overeenkomst worden alle resterende rechten en heffingen afgeschaft.     
+– twaalf jaar na de inwerkingtreding van deze overeenkomst worden alle resterende rechten en heffingen afgeschaft.     
 2.   Indien zich met betrekking tot een bepaald product ernstige problemen voordoen, kan het overeenkomstig lid 1 van toepassing zijnde tijdschema in onderling overleg worden herzien door het Associatiecomité, met dien verstande dat het tijdschema waarvoor herziening wordt aangevraagd voor het betrokken product niet verder verlengd kan worden dan de maximale overgangsperiode van twaalf jaar. Indien het Associatiecomité niet binnen dertig dagen na de kennisgeving van het verzoek van Libanon om herziening van het tijdschema een besluit heeft genomen, kan Libanon het tijdschema voorlopig opschorten voor een periode van ten hoogste één jaar.   
 3.   Het basisrecht waarop de verlagingen van lid 1 worden toegepast, is voor elk betrokken product het recht bedoeld in artikel 19.  
 
@@ -213,7 +213,7 @@ Deze overeenkomst vormt geen beletsel voor verbodsbepalingen of beperkingen ten 
 
 ### Artikel  28  
 
-Het begrip „producten van oorsprong" voor de toepassing van de bepalingen van deze titel en de regelingen voor administratieve samenwerking op dit gebied zijn gedefinieerd in protocol 4. 
+Het begrip „producten van oorsprong” voor de toepassing van de bepalingen van deze titel en de regelingen voor administratieve samenwerking op dit gebied zijn gedefinieerd in protocol 4. 
 
 ### Artikel  29  
 
@@ -232,13 +232,13 @@ Bij invoer in de Gemeenschap worden de goederen ingedeeld overeenkomstig de geco
 5.   De partijen mogen vanaf de datum van inwerkingtreding van deze overeenkomst tot de toetreding van Libanon tot de WTO geen maatregelen of acties nemen waardoor de voorwaarden voor de verlening van diensten door dienstverleners uit de Gemeenschap of Libanon meer discriminerend worden dan de voorwaarden op de datum van inwerkingtreding van deze overeenkomst.   
 6.   In deze titel wordt verstaan onder: 
 
-a. „dienstverlener" van een partij: een natuurlijke persoon of een rechtspersoon die diensten verleent of deze beoogt te verlenen;  
+a. „dienstverlener” van een partij: een natuurlijke persoon of een rechtspersoon die diensten verleent of deze beoogt te verlenen;  
 
-b. „rechtspersoon": een vennootschap of een dochteronderneming die overeenkomstig de wetgeving van een lidstaat van de Gemeenschap of Libanon is opgericht en waarvan de statutaire zetel, de centrale administratie of de hoofdvestiging gelegen is op het grondgebied van de Gemeenschap of Libanon. Indien de rechtspersoon slechts haar statutaire zetel of centrale administratie heeft op het grondgebied van de Gemeenschap of Libanon, wordt zij beschouwd als rechtspersoon uit de Gemeenschap of Libanon wanneer uit haar transacties een werkelijke en permanente band met de economie van de Gemeenschap of Libanon naar voren treedt;  
+b. „rechtspersoon”: een vennootschap of een dochteronderneming die overeenkomstig de wetgeving van een lidstaat van de Gemeenschap of Libanon is opgericht en waarvan de statutaire zetel, de centrale administratie of de hoofdvestiging gelegen is op het grondgebied van de Gemeenschap of Libanon. Indien de rechtspersoon slechts haar statutaire zetel of centrale administratie heeft op het grondgebied van de Gemeenschap of Libanon, wordt zij beschouwd als rechtspersoon uit de Gemeenschap of Libanon wanneer uit haar transacties een werkelijke en permanente band met de economie van de Gemeenschap of Libanon naar voren treedt;  
 
-c. „dochteronderneming": een rechtspersoon die daadwerkelijk door een andere rechtspersoon wordt bestuurd;  
+c. „dochteronderneming”: een rechtspersoon die daadwerkelijk door een andere rechtspersoon wordt bestuurd;  
 
-d. „natuurlijke persoon": een persoon die onderdaan is van een lidstaat van de Gemeenschap respectievelijk van Libanon volgens de respectieve nationale wetgeving.    
+d. „natuurlijke persoon”: een persoon die onderdaan is van een lidstaat van de Gemeenschap respectievelijk van Libanon volgens de respectieve nationale wetgeving.    
 
 ### TITEL  IV 
 
@@ -375,27 +375,27 @@ d. te onderzoeken op welke manieren Libanon kan deelnemen aan Europese kaderprog
 1.   De partijen bevorderen samenwerking gericht op de voorkoming van de afbraak van het milieu, beheersing van verontreiniging en waarborgen van een rationeel gebruik van natuurlijke hulpbronnen om duurzame ontwikkeling tot stand te brengen.   
 2.   De samenwerking is met name gericht op: 
 
-a.  de waterkwaliteit van de Middellandse Zee en de bestrijding en voorkoming van verontreiniging van de zee;  
+a) de waterkwaliteit van de Middellandse Zee en de bestrijding en voorkoming van verontreiniging van de zee;  
 
-b.  afvalbeheer, voornamelijk van giftige afvalstoffen;  
+b) afvalbeheer, voornamelijk van giftige afvalstoffen;  
 
-c.  verzilting;  
+c) verzilting;  
 
-d.  beheer van het milieu van gevoelige kustgebieden;  
+d) beheer van het milieu van gevoelige kustgebieden;  
 
-e.  milieueducatie en -voorlichting;  
+e) milieueducatie en -voorlichting;  
 
-f.  het gebruik van geavanceerde instrumenten voor milieubeheer en -monitoring, met name het gebruik van een milieuinformatiesysteem en milieueffectrapportages;  
+f) het gebruik van geavanceerde instrumenten voor milieubeheer en -monitoring, met name het gebruik van een milieuinformatiesysteem en milieueffectrapportages;  
 
-g.  de effecten van industriële ontwikkeling op het milieu in het algemeen en op de veiligheid van industriële installaties in het bijzonder;  
+g) de effecten van industriële ontwikkeling op het milieu in het algemeen en op de veiligheid van industriële installaties in het bijzonder;  
 
-h.  de gevolgen van de landbouw voor de bodem- en waterkwaliteit;  
+h) de gevolgen van de landbouw voor de bodem- en waterkwaliteit;  
 
-i.  bodembeheer en -conservering;  
+i) bodembeheer en -conservering;  
 
-j.  rationeel beheer van de watervoorraden;  
+j) rationeel beheer van de watervoorraden;  
 
-k.  gezamenlijke onderzoeks- en monitoringactiviteiten, alsmede programma's en projecten.    
+k) gezamenlijke onderzoeks- en monitoringactiviteiten, alsmede programma's en projecten.    
 
 ### Artikel  46  
 
@@ -524,22 +524,22 @@ e. de reorganisatie en herstructurering van de sector voor grootschalig vervoer,
 
 ####Informatiemaatschappij en telecommunicatie
 
-1.   De partijen erkennen dat informatie- en communicatietechnologieën een cruciaal element zijn van een moderne samenleving, een vitale factor voor de economische en sociale ontwikkeling en een hoeksteen van de opkomende informatiemaatschappij.    
+1.   De partijen erkennen dat informatie- en communicatietechnologieën een cruciaal element zijn van een moderne samenleving, een vitale factor voor de economische en sociale ontwikkeling en een hoeksteen van de opkomende informatiemaatschappij.   
 2.   De samenwerking op dit gebied is gericht op: 
 
-a.  een dialoog over de verschillende aspecten van de informatiemaatschappij, zoals het telecommunicatiebeleid;  
+a) een dialoog over de verschillende aspecten van de informatiemaatschappij, zoals het telecommunicatiebeleid;  
 
-b.  de uitwisseling van informatie en technische bijstand op het gebied van regelgeving, normalisatie, conformiteitsbeoordeling en certificering in verband met informatietechnologieën en telecommunicatie;  
+b) de uitwisseling van informatie en technische bijstand op het gebied van regelgeving, normalisatie, conformiteitsbeoordeling en certificering in verband met informatietechnologieën en telecommunicatie;  
 
-c.  de verspreiding van nieuwe informatie- en communicatietechnologieën en geactualiseerde faciliteiten voor geavanceerde communicatie, informatiediensten en technologie;  
+c) de verspreiding van nieuwe informatie- en communicatietechnologieën en geactualiseerde faciliteiten voor geavanceerde communicatie, informatiediensten en technologie;  
 
-d.  de bevordering en implementatie van gezamenlijke projecten voor onderzoek, technische ontwikkeling en industriële toepassingen in informatietechnologieën, communicatie, telematica en de informatiemaatschappij;  
+d) de bevordering en implementatie van gezamenlijke projecten voor onderzoek, technische ontwikkeling en industriële toepassingen in informatietechnologieën, communicatie, telematica en de informatiemaatschappij;  
 
-e.  de deelname van Libanese organisaties aan proefprojecten en Europese programma's, zulks binnen de gevestigde kaders;  
+e) de deelname van Libanese organisaties aan proefprojecten en Europese programma's, zulks binnen de gevestigde kaders;  
 
-f.  de interconnectie en interoperabiliteit van telematicanetwerken en -diensten in de Gemeenschap en Libanon;  
+f) de interconnectie en interoperabiliteit van telematicanetwerken en -diensten in de Gemeenschap en Libanon;  
 
-g.  een dialoog over regelgevende samenwerking op het gebied van internationale diensten, met inbegrip van aspecten met betrekking tot de bescherming van gegevens en privacy.    
+g) een dialoog over regelgevende samenwerking op het gebied van internationale diensten, met inbegrip van aspecten met betrekking tot de bescherming van gegevens en privacy.    
 
 ### Artikel  54  
 
@@ -561,23 +561,23 @@ d. de ondersteuning van de modernisering en ontwikkeling van energienetwerken en
 
 De samenwerking is gericht op: 
 
-a.  de stimulering van investeringen in toerisme;  
+a) de stimulering van investeringen in toerisme;  
 
-b.  de verbetering van de kennis van de toeristenindustrie en het zorgen voor meer samenhang van beleid dat van invloed is op het toerisme;  
+b) de verbetering van de kennis van de toeristenindustrie en het zorgen voor meer samenhang van beleid dat van invloed is op het toerisme;  
 
-c.  de bevordering van een betere seizoenspreiding van toerisme;  
+c) de bevordering van een betere seizoenspreiding van toerisme;  
 
-d.  de benadrukking van het belang van het culturele erfgoed voor het toerisme;  
+d) de benadrukking van het belang van het culturele erfgoed voor het toerisme;  
 
-e.  het zorgen voor een passende wisselwerking tussen toerisme en milieu;   
+e) het zorgen voor een passende wisselwerking tussen toerisme en milieu;   
 
-f.  de versterking van het concurrentievermogen van het toerisme door steun voor hogere normen en professionalisme;  
+f) de versterking van het concurrentievermogen van het toerisme door steun voor hogere normen en professionalisme;  
 
-g.  de verbetering van de informatiestromen;  
+g) de verbetering van de informatiestromen;  
 
-h.  de intensivering van de opleidingsactiviteiten op het gebied van hotelmanagement en hoteladministratie, en opleiding inzake andere beroepen in het hotelwezen;  
+h) de intensivering van de opleidingsactiviteiten op het gebied van hotelmanagement en hoteladministratie, en opleiding inzake andere beroepen in het hotelwezen;  
 
-i.  de uitwisseling van ervaring met het oog op een evenwichtige, duurzame ontwikkeling van het toerisme, in het bijzonder door de uitwisseling van informatie, tentoonstellingen, conferenties en publicaties over toerisme.   
+i) de uitwisseling van ervaring met het oog op een evenwichtige, duurzame ontwikkeling van het toerisme, in het bijzonder door de uitwisseling van informatie, tentoonstellingen, conferenties en publicaties over toerisme.   
 
 ### Artikel  56  
 
@@ -607,13 +607,13 @@ De samenwerking is gericht op de harmonisatie van de door de partijen gebruikte 
 
 De samenwerking op dit gebied is gericht op de harmonisatie van de regelingen voor de bescherming van de consument in de Gemeenschap en Libanon en is voor zover mogelijk gericht op:  
 
-a.  de versterking van de onderlinge compatibiliteit van de consumentenwetgeving, teneinde handelsbelemmeringen te voorkomen;  
+a) de versterking van de onderlinge compatibiliteit van de consumentenwetgeving, teneinde handelsbelemmeringen te voorkomen;  
 
-b.  de totstandkoming, ontwikkeling en onderlinge koppeling van systemen voor wederzijdse verstrekking van informatie over gevaarlijke voedingsmiddelen en industrieproducten (systemen voor vroegtijdige waarschuwing);  
+b) de totstandkoming, ontwikkeling en onderlinge koppeling van systemen voor wederzijdse verstrekking van informatie over gevaarlijke voedingsmiddelen en industrieproducten (systemen voor vroegtijdige waarschuwing);  
 
-c.  de uitwisseling van informatie en deskundigen;  
+c) de uitwisseling van informatie en deskundigen;  
 
-d.  de organisatie van opleidingsregelingen en verlening van technische bijstand.   
+d) de organisatie van opleidingsregelingen en verlening van technische bijstand.   
 
 ### Artikel  59  
 
@@ -718,9 +718,9 @@ De samenwerkingsactiviteiten kunnen worden geïmplementeerd in overleg met de li
 
 1.   De partijen komen overeen samen te werken bij de voorkoming en beheersing van illegale immigratie. Daartoe wordt het volgende overeengekomen: 
 
-a.  iedere lidstaat van de Europese Gemeenschap verbindt zich ertoe eigen onderdanen die illegaal op het grondgebied van Libanon verblijven op verzoek van Libanon zonder verdere formaliteiten over te nemen, zodra de betrokken personen uitdrukkelijk als zodanig zijn geïdentificeerd;  
+a) iedere lidstaat van de Europese Gemeenschap verbindt zich ertoe eigen onderdanen die illegaal op het grondgebied van Libanon verblijven op verzoek van Libanon zonder verdere formaliteiten over te nemen, zodra de betrokken personen uitdrukkelijk als zodanig zijn geïdentificeerd;  
 
-b.  Libanon verbindt zich ertoe eigen onderdanen die illegaal op het grondgebied van een lidstaat van de Europese Gemeenschap verblijven op verzoek van die lidstaat zonder verdere formaliteiten over te nemen, zodra de betrokken personen uitdrukkelijk als zodanig zijn geïdentificeerd.   Voor dergelijke doeleinden verstrekken de lidstaten en Libanon hun onderdanen passende identiteitsdocumenten. 
+b) Libanon verbindt zich ertoe eigen onderdanen die illegaal op het grondgebied van een lidstaat van de Europese Gemeenschap verblijven op verzoek van die lidstaat zonder verdere formaliteiten over te nemen, zodra de betrokken personen uitdrukkelijk als zodanig zijn geïdentificeerd.   Voor dergelijke doeleinden verstrekken de lidstaten en Libanon hun onderdanen passende identiteitsdocumenten. 
 2. Wat de lidstaten van de Europese Unie betreft zijn de verplichtingen van dit artikel uitsluitend van toepassing op personen die voor de toepassing van het Gemeenschapsrecht geacht worden hun onderdanen te zijn overeenkomstig het Verdrag tot oprichting van de Europese Unie.
 3. Wat Libanon betreft zijn de verplichtingen van dit artikel uitsluitend van toepassing op personen die overeenkomstig het Libanese rechtsstelsel en alle relevante wetgeving betreffende het staatsburgerschap geacht worden onderdanen van Libanon te zijn.
 
@@ -854,7 +854,7 @@ De bijlagen 1 en 2 en de protocollen 1 tot en met 5 vormen een integrerend onder
 
 ### Artikel  88  
 
-Voor de toepassing van deze overeenkomst wordt onder „partijen" verstaan: enerzijds de Gemeenschap, of de lidstaten, of de Gemeenschap en haar lidstaten, overeenkomstig hun respectieve bevoegdheden en anderzijds Libanon. 
+Voor de toepassing van deze overeenkomst wordt onder „partijen” verstaan: enerzijds de Gemeenschap, of de lidstaten, of de Gemeenschap en haar lidstaten, overeenkomstig hun respectieve bevoegdheden en anderzijds Libanon. 
 
 ### Artikel  89  
 
@@ -954,31 +954,31 @@ De Europese Gemeenschap verklaart dat zij, in het kader van de interpretatie van
 
 Voor de toepassing van dit Protocol wordt verstaan onder: 
 
-a. „vervaardiging": elk type be- of verwerking, met inbegrip van assemblage of speciale behandelingen;  
+a. „vervaardiging”: elk type be- of verwerking, met inbegrip van assemblage of speciale behandelingen;  
 
-b. „materiaal": alle ingrediënten, grondstoffen, componenten, delen enz., die bij de vervaardiging van het product worden gebruikt;  
+b. „materiaal”: alle ingrediënten, grondstoffen, componenten, delen enz., die bij de vervaardiging van het product worden gebruikt;  
 
-c. „product": het verkregen product, zelfs indien het bestemd is om later bij de vervaardiging van een ander product te worden gebruikt;  
+c. „product”: het verkregen product, zelfs indien het bestemd is om later bij de vervaardiging van een ander product te worden gebruikt;  
 
-d. „goederen": zowel materialen als producten;  
+d. „goederen”: zowel materialen als producten;  
 
-e. „douanewaarde": de waarde zoals bepaald bij de Overeenkomst inzake de toepassing van artikel VII van de Algemene Overeenkomst betreffende tarieven en handel van 1994 (Overeenkomst inzake de douanewaarde van de WTO);  
+e. „douanewaarde”: de waarde zoals bepaald bij de Overeenkomst inzake de toepassing van artikel VII van de Algemene Overeenkomst betreffende tarieven en handel van 1994 (Overeenkomst inzake de douanewaarde van de WTO);  
 
-f. „prijs af fabriek": de prijs die voor het product af fabriek is betaald aan de fabrikant in de Gemeenschap of in Libanon in wiens bedrijf de laatste be- of verwerking is verricht, voorzover in die prijs de waarde is begrepen van alle gebruikte materialen, verminderd met alle binnenlandse belastingen die worden of kunnen worden terugbetaald wanneer het verkregen product wordt uitgevoerd;  
+f. „prijs af fabriek”: de prijs die voor het product af fabriek is betaald aan de fabrikant in de Gemeenschap of in Libanon in wiens bedrijf de laatste be- of verwerking is verricht, voorzover in die prijs de waarde is begrepen van alle gebruikte materialen, verminderd met alle binnenlandse belastingen die worden of kunnen worden terugbetaald wanneer het verkregen product wordt uitgevoerd;  
 
-g. „waarde van de materialen": de douanewaarde ten tijde van de invoer van de gebruikte materialen die niet van oorsprong zijn, of, indien deze niet bekend is en niet kan worden vastgesteld, de eerste controleerbare prijs die voor de materialen in de Gemeenschap of Libanon is betaald;  
+g. „waarde van de materialen”: de douanewaarde ten tijde van de invoer van de gebruikte materialen die niet van oorsprong zijn, of, indien deze niet bekend is en niet kan worden vastgesteld, de eerste controleerbare prijs die voor de materialen in de Gemeenschap of Libanon is betaald;  
 
-h. „waarde van de materialen van oorsprong": de waarde van deze materialen als omschreven onder (g), welke omschrijving van dienovereenkomstige toepassing is;  
+h. „waarde van de materialen van oorsprong”: de waarde van deze materialen als omschreven onder (g), welke omschrijving van dienovereenkomstige toepassing is;  
 
-i. „toegevoegde waarde": de prijs af fabriek verminderd met de douanewaarde van alle gebruikte producten van oorsprong uit andere landen dan die waarin die producten zijn verkregen;  
+i. „toegevoegde waarde”: de prijs af fabriek verminderd met de douanewaarde van alle gebruikte producten van oorsprong uit andere landen dan die waarin die producten zijn verkregen;  
 
-j. „hoofdstukken" en „posten": de hoofdstukken en posten (viercijfercodes) van de nomenclatuur die het geharmoniseerde systeem inzake de omschrijving en codering van goederen vormt, in dit protocol „geharmoniseerd systeem" of „GS" genoemd;  
+j. „hoofdstukken” en „posten”: de hoofdstukken en posten (viercijfercodes) van de nomenclatuur die het geharmoniseerde systeem inzake de omschrijving en codering van goederen vormt, in dit protocol „geharmoniseerd systeem” of „GS” genoemd;  
 
-k. „ingedeeld": de indeling van een product of een materiaal onder een bepaalde post;  
+k. „ingedeeld”: de indeling van een product of een materiaal onder een bepaalde post;  
 
-l. „zending": producten die gelijktijdig van één exporteur naar één geadresseerde worden verzonden of vergezeld gaan van één vervoersdocument dat de verzending van de exporteur naar de geadresseerde dekt, of bij gebreke daarvan, één factuur;   
+l. „zending”: producten die gelijktijdig van één exporteur naar één geadresseerde worden verzonden of vergezeld gaan van één vervoersdocument dat de verzending van de exporteur naar de geadresseerde dekt, of bij gebreke daarvan, één factuur;   
 
-m. „gebieden": ook de territoriale wateren.   
+m. „gebieden”: ook de territoriale wateren.   
 
 ### TITEL  II 
 
@@ -1010,7 +1010,7 @@ b. in Libanon verkregen producten, waarin materialen zijn verwerkt die daar niet
 
 ####Diagonale cumulatie van de oorsprong
 
-1.   Onder voorbehoud van de leden 2 en 3 worden materialen van oorsprong uit landen die een Europees-mediterrane associatieovereenkomst hebben gesloten in de zin van de overeenkomsten tussen de Gemeenschap en Libanon en deze landen beschouwd als materialen van oorsprong uit de Gemeenschap en Libanon, indien ze in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen in dit land zogenaamde „toereikende be- of verwerkingen" hebben ondergaan. Dit lid is niet van toepassing op materialen van oorsprong uit Turkije die zijn opgenomen in de lijst in bijlage III bij dit Protocol.  
+1.   Onder voorbehoud van de leden 2 en 3 worden materialen van oorsprong uit landen die een Europees-mediterrane associatieovereenkomst hebben gesloten in de zin van de overeenkomsten tussen de Gemeenschap en Libanon en deze landen beschouwd als materialen van oorsprong uit de Gemeenschap en Libanon, indien ze in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen in dit land zogenaamde „toereikende be- of verwerkingen” hebben ondergaan. Dit lid is niet van toepassing op materialen van oorsprong uit Turkije die zijn opgenomen in de lijst in bijlage III bij dit Protocol.  
 2.   Producten die ingevolge lid 1 het karakter van product van oorsprong hebben verkregen, behouden het karakter van product van oorsprong uit de Gemeenschap of Libanon uitsluitend indien de aldaar toegevoegde waarde hoger is dan de waarde van de gebruikte materialen van oorsprong uit een van de andere in lid 1 genoemde landen. Is dit niet het geval, dan wordt het verkregen product beschouwd als van oorsprong uit het in lid 1 genoemde land waar de meeste waarde is toegevoegd aan de gebruikte materialen van oorsprong. Bij de toekenning van de oorsprong wordt geen rekening gehouden met materialen die van oorsprong zijn uit de andere in lid 1 genoemde landen die in de Gemeenschap of Libanon een toereikende be- of verwerking hebben ondergaan.   
 3.   Cumulatie op grond van dit artikel kan slechts worden toegepast indien de gebruikte materialen het karakter van product van oorsprong hebben verkregen door de toepassing van oorsprongsregels die gelijk zijn aan de in dit Protocol opgenomen oorsprongsregels. De Gemeenschap en Libanon delen elkaar, via de Europese Commissie, de gegevens mede over de overeenkomsten die zij met de andere in lid 1 genoemde landen hebben gesloten en over de daarin opgenomen oorsprongsregels.   
 4.   Zodra aan de eisen van lid 3 is voldaan en een datum voor de inwerkingtreding van deze bepalingen is vastgesteld, leeft iedere partij de op haar rustende kennisgevingsverplichtingen na.  
@@ -1042,7 +1042,7 @@ i. afval afkomstig van aldaar verrichte fabrieksbewerkingen;
 j. producten, gewonnen van of vanonder de zeebodem buiten de territoriale wateren, mits zij alleen het recht hebben op ontginning van deze bodem of ondergrond;  
 
 k. goederen die aldaar uitsluitend uit de onder a tot en met j bedoelde producten zijn vervaardigd.     
-2.   De termen „hun schepen" en „hun fabrieksschepen" in lid 1, onder f en (g), zijn slechts van toepassing op schepen en fabrieksschepen: 
+2.   De termen „hun schepen” en „hun fabrieksschepen” in lid 1, onder f en (g), zijn slechts van toepassing op schepen en fabrieksschepen: 
 
 a. die in een lidstaat van de Gemeenschap of in Libanon zijn ingeschreven of geregistreerd;  
 
@@ -1173,7 +1173,7 @@ b. deze exporteur de producten heeft verkocht of op andere wijze afgestaan aan e
 
 c. de producten tijdens of onmiddellijk na de tentoonstelling in dezelfde staat als waarin zij naar de tentoonstelling zijn gegaan, zijn verzonden; en  
 
-d. de producten, vanaf het moment dat zij naar de tentoonstelling werden verzonden, niet voor andere doeleinden zijn gebruikt dan om op die tentoonstelling te worden vertoond.      
+d. de producten, vanaf het moment dat zij naar de tentoonstelling werden verzonden, niet voor andere doeleinden zijn gebruikt dan om op die tentoonstelling te worden vertoond.     
 2.   Een bewijs van de oorsprong wordt overeenkomstig de bepalingen van titel V afgegeven of opgesteld en op de normale wijze bij de douaneautoriteiten van het land van invoer ingediend. Op dit bewijs zijn de naam en het adres van de tentoonstelling vermeld. Zo nodig kunnen aanvullende bewijsstukken worden gevraagd ten aanzien van de aard van de producten en de voorwaarden waarop zij werden tentoongesteld.   
 3.   Lid 1 is van toepassing op alle tentoonstellingen, beurzen of soortgelijke openbare evenementen met een commercieel, industrieel, agrarisch of ambachtelijk karakter die niet voor particuliere doeleinden in winkels of bedrijfsruimten met het oog op de verkoop van buitenlandse producten worden gehouden, en gedurende welke de producten onder douanetoezicht zijn gebleven.  
 
@@ -1209,14 +1209,14 @@ b. een douanerecht van 10%, of een lager recht indien dit in Libanon van toepass
 
 a. een certificaat inzake goederenverkeer EUR.1, waarvan het model in bijlage IV is opgenomen; of  
 
-b. in de in artikel 21, lid 1, bedoelde gevallen, een verklaring van de exporteur, waarvan de tekst in bijlage V is opgenomen, op een factuur, pakbon of een ander handelsdocument en waarin de producten duidelijk genoeg zijn omschreven om geïdentificeerd te kunnen worden (hierna „factuurverklaring" genoemd).      
+b. in de in artikel 21, lid 1, bedoelde gevallen, een verklaring van de exporteur, waarvan de tekst in bijlage V is opgenomen, op een factuur, pakbon of een ander handelsdocument en waarin de producten duidelijk genoeg zijn omschreven om geïdentificeerd te kunnen worden (hierna „factuurverklaring” genoemd).      
 2.   In afwijking van lid 1 vallen producten van oorsprong in de zin van dit Protocol in de in artikel 26 bedoelde gevallen onder de toepassing van de Overeenkomst zonder dat een van de hierboven genoemde documenten behoeft te worden overgelegd.  
 
 ### Artikel  17  
 
 ####Procedure voor de afgifte van certificaten inzake goederenverkeer EUR.1
 
-1.   Een certificaat inzake goederenverkeer EUR.1 (hierna „EUR.1-certificaat" genoemd) wordt afgegeven door de douaneautoriteiten van het land van uitvoer op schriftelijke aanvraag van de exporteur of, onder diens verantwoordelijkheid, van zijn gemachtigde vertegenwoordiger.   
+1.   Een certificaat inzake goederenverkeer EUR.1 (hierna „EUR.1-certificaat” genoemd) wordt afgegeven door de douaneautoriteiten van het land van uitvoer op schriftelijke aanvraag van de exporteur of, onder diens verantwoordelijkheid, van zijn gemachtigde vertegenwoordiger.   
 2.   Te dien einde vult de exporteur of diens gemachtigde vertegenwoordiger zowel het EUR.1-certificaat als het aanvraagformulier in. Modellen van beide formulieren zijn in bijlage IV opgenomen. Deze formulieren worden ingevuld in een van de talen waarin de overeenkomst is opgesteld, overeenkomstig de bepalingen van het nationale recht van het land van uitvoer. Indien de formulieren met de hand worden ingevuld, dient dit met inkt en in blokletters te gebeuren. De producten moeten worden omschreven in het daartoe bestemde vak en er mogen geen regels worden opengelaten. Indien dit vak niet volledig is ingevuld, wordt onder de laatste regel een horizontale lijn getrokken en het niet-ingevulde gedeelte doorgekruist.   
 3.   De exporteur die om de afgifte van een EUR.1-certificaat verzoekt, dient op verzoek van de douaneautoriteiten van het land van uitvoer waar dit certificaat wordt afgegeven, steeds bereid te zijn de nodige documenten te overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan alle andere voorwaarden van dit Protocol is voldaan.   
 4.   Het EUR.1-certificaat wordt afgegeven door de douaneautoriteiten van een lidstaat van de Gemeenschap of van Libanon indien de uit te voeren goederen kunnen worden beschouwd als producten van oorsprong uit de Gemeenschap, uit Libanon of uit een van de andere in artikel 4 genoemde landen en indien aan de andere voorwaarden van dit protocol is voldaan.   
@@ -1454,7 +1454,7 @@ Tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen 
 
 ####Toepassing van het protocol
 
-1.   De in artikel 2 gebruikte term „Gemeenschap" heeft geen betrekking op Ceuta en Melilla.   
+1.   De in artikel 2 gebruikte term „Gemeenschap” heeft geen betrekking op Ceuta en Melilla.   
 2.   Producten van oorsprong uit Libanon die in Ceuta of Melilla worden ingevoerd, vallen in elk opzicht onder dezelfde douaneregeling als de regeling die op grond van Protocol nr. 2 bij de Akte van Toetreding van het Koninkrijk Spanje en de Republiek Portugal tot de Europese Gemeenschappen van toepassing is op producten van oorsprong uit het douanegebied van de Gemeenschap. Libanon zal op onder de overeenkomst vallende producten van oorsprong uit Ceuta en Melilla dezelfde regeling toepassen als op producten van oorsprong uit de Gemeenschap die uit de Gemeenschap worden ingevoerd.   
 3.   Bij toepassing van lid 2 op producten van oorsprong uit Ceuta en Melilla is dit protocol van overeenkomstige toepassing, met inachtneming van de bijzondere voorwaarden van artikel 37.  
 
@@ -1483,7 +1483,7 @@ i. deze producten een be- of verwerking hebben ondergaan die toereikend is in de
 
 ii. deze producten van oorsprong zijn uit Ceuta en Melilla of de Gemeenschap in de zin van dit Protocol, en be- of verwerkingen hebben ondergaan die meer omvatten dan de in artikel 7, lid 1, bedoelde ontoereikende be- of verwerkingen.      
 2.   Ceuta en Melilla worden als één enkel grondgebied beschouwd.   
-3.   De exporteur of zijn gemachtigde vertegenwoordiger vermeldt „Libanon" en „Ceuta en Melilla" in vak 2 van het certificaat inzake goederenverkeer EUR.1 of op de factuurverklaring. Voor producten van oorsprong uit Ceuta en Melilla wordt het karakter van oorsprong bovendien vermeld in vak 4 van het EUR.1-certificaat of op de factuurverklaring.   
+3.   De exporteur of zijn gemachtigde vertegenwoordiger vermeldt „Libanon” en „Ceuta en Melilla” in vak 2 van het certificaat inzake goederenverkeer EUR.1 of op de factuurverklaring. Voor producten van oorsprong uit Ceuta en Melilla wordt het karakter van oorsprong bovendien vermeld in vak 4 van het EUR.1-certificaat of op de factuurverklaring.   
 4.   De Spaanse douaneautoriteiten zijn belast met de toepassing van dit Protocol in Ceuta en Melilla.  
 
 ### TITEL  VIII 
@@ -1518,15 +1518,15 @@ De Overeenkomst kan worden toegepast op goederen die aan de bepalingen van dit P
 
 Voor de toepassing van dit Protocol wordt verstaan onder: 
 
-a. „douanewetgeving": de wettelijke en bestuursrechtelijke bepalingen die op het grondgebied van de Gemeenschap en Libanon van toepassing zijn op de invoer, de uitvoer en de doorvoer van goederen en de plaatsing daarvan onder andere douaneregelingen of -procedures, met inbegrip van verbods-, beperkings- en controlemaatregelen;  
+a. „douanewetgeving”: de wettelijke en bestuursrechtelijke bepalingen die op het grondgebied van de Gemeenschap en Libanon van toepassing zijn op de invoer, de uitvoer en de doorvoer van goederen en de plaatsing daarvan onder andere douaneregelingen of -procedures, met inbegrip van verbods-, beperkings- en controlemaatregelen;  
 
-b. „verzoekende autoriteit": een bevoegde administratieve autoriteit die hiertoe door een overeenkomstsluitende partij is aangewezen en die op grond van dit protocol een verzoek om bijstand indient;  
+b. „verzoekende autoriteit”: een bevoegde administratieve autoriteit die hiertoe door een overeenkomstsluitende partij is aangewezen en die op grond van dit protocol een verzoek om bijstand indient;  
 
-c. „aangezochte autoriteit": een bevoegde administratieve autoriteit die hiertoe door een overeenkomstsluitende partij is aangewezen en die op grond van dit protocol een verzoek om bijstand ontvangt;  
+c. „aangezochte autoriteit”: een bevoegde administratieve autoriteit die hiertoe door een overeenkomstsluitende partij is aangewezen en die op grond van dit protocol een verzoek om bijstand ontvangt;  
 
-d. „persoonsgegevens": alle informatie betreffende een natuurlijke persoon wiens identiteit bekend is of kan worden vastgesteld;  
+d. „persoonsgegevens”: alle informatie betreffende een natuurlijke persoon wiens identiteit bekend is of kan worden vastgesteld;  
 
-e. „met de douanewetgeving strijdige handeling": elke overtreding of poging tot overtreding van de douanewetgeving.   
+e. „met de douanewetgeving strijdige handeling”: elke overtreding of poging tot overtreding van de douanewetgeving.   
 
 ### Artikel  2  
 
@@ -1669,11 +1669,11 @@ De overeenkomstsluitende partijen brengen elkaar geen kosten in rekening voor ui
 
 1.   Rekening houdend met de respectieve bevoegdheden van de Europese Gemeenschap en van haar lidstaten, geldt voor de bepalingen van dit protocol het volgende: 
 
-–  zij hebben geen gevolgen voor de verplichtingen van de overeenkomstsluitende partijen op grond van andere internationale overeenkomsten of verdragen;  
+– zij hebben geen gevolgen voor de verplichtingen van de overeenkomstsluitende partijen op grond van andere internationale overeenkomsten of verdragen;  
 
-–  zij worden geacht een aanvulling te vormen op overeenkomsten betreffende wederzijdse bijstand die zijn gesloten of kunnen worden gesloten tussen afzonderlijke lidstaten en Libanon; en  
+– zij worden geacht een aanvulling te vormen op overeenkomsten betreffende wederzijdse bijstand die zijn gesloten of kunnen worden gesloten tussen afzonderlijke lidstaten en Libanon; en  
 
-–  zij hebben geen gevolgen voor de communautaire bepalingen betreffende de uitwisseling tussen de bevoegde diensten van de Commissie van de Europese Gemeenschappen en de douaneautoriteiten van de lidstaten van gegevens die op grond van dit protocol zijn verkregen en die van belang kunnen zijn voor de Gemeenschap.     
+– zij hebben geen gevolgen voor de communautaire bepalingen betreffende de uitwisseling tussen de bevoegde diensten van de Commissie van de Europese Gemeenschappen en de douaneautoriteiten van de lidstaten van gegevens die op grond van dit protocol zijn verkregen en die van belang kunnen zijn voor de Gemeenschap.     
 2.   Onverminderd het bepaalde in lid 1 hebben de bepalingen van dit protocol voorrang op de bepalingen van bilaterale overeenkomsten betreffende wederzijdse bijstand die tussen afzonderlijke lidstaten en Libanon zijn of kunnen worden gesloten, indien de bepalingen van laatstgenoemde overeenkomsten met die van dit protocol strijdig zijn.   
 3.   Ten aanzien van vraagstukken in verband met de toepassing van dit protocol plegen de overeenkomstsluitende partijen onderling overleg om deze op te lossen in het kader van het door de Associatieraad, overeenkomstig artikel 12 van de Associatieovereenkomst ingestelde (ad hoc-comité).  
 

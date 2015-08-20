@@ -17,7 +17,7 @@ De volgende besluiten zijn ingetrokken met ingang van de inwerkingtreding van di
 | Nummer  | Datum  | Verkorte titel  | Reden van intrekking  |
 |:---|:---|:---|:---|
 | VB 93/22  | 18 januari 1993  | Heffing van omzetbelasting ten aanzien van de diensten van schade-expertisebureaus  | Belang verloren.  |
-| CPP 2002/602M  | 28 februari 2002  | [Wijzigingen in de omzetbelastingwetgeving per 1 januari 2002](../../../../../../beleidsregel/wijzigingen/in/de/omzetbelastingwetgeving/per/1/januari/2002/BWBR0013465/README.md)  | Belang verloren.  |
+| CPP 2002/602M  | 28 februari 2002  | Wijzigingen in de omzetbelastingwetgeving per 1 januari 2002  | Belang verloren.  |
 | CPP2001/3086M  | 10 december 2001  | Toepassing artikel 3, eerste lid, onderdeel g, van de Wet op de omzetbelasting 1968  | Beschrijvend/casuïstisch.  |
 | VB92/2487  | 20 november 1992  | Transport- en hypotheekakten voor buiten EG wonende particulieren  | Beschrijvend/casuïstisch  |
 | VB93/585  | 22 maart 1993  | Plaats van dienst van het verlijden van transport- en hypotheekakten met betrekking tot onroerende zaken in Nederland  | Beschrijvend/casuïstisch  |

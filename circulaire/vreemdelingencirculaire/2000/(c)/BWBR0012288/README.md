@@ -3155,34 +3155,27 @@ Geen bijzonderheden.
 
 ### 14.3.1  
 
-####Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+####Groepsvervolging in de zin van paragraaf C2/3.2  Vc
 
-Geen bijzonderheden.   
+De IND beschouwt de volgende groepen als groepen die systematisch worden blootgesteld aan vervolging in de zin van artikel 1A Vluchtelingenverdrag: 
+
+a. christenen die actief zijn voor ‘nieuwe kerken’ of evangeliseren;  
+
+b. leden van huiskerken;  
+
+c. tot het christendom bekeerde moslims die hun geloof openlijk belijden, bijvoorbeeld door het bijwonen van kerkdiensten.     
 ### 14.3.2  
 
-####Risicogroepen in de zin van paragraaf C2/3.2 Vc
+####Risicogroepen in de zin van paragraaf C2/3.2  Vc
 
-Geen bijzonderheden.   
+De IND merkt de volgende groepen aan tot risicogroepen: 
+
+a. christenen  
+
+b. bahai’s  
+
+c. soefi’s   Voor wat betreft sub a ziet dit op christenen die niet reeds vallen onder de in paragraaf 14.3.1. genoemde groepen.   
 ### 14.3.3  
-
-####Christenen, bahai’s en soefi’s
-
-De IND beoordeelt welke handelingen voor de vreemdeling persoonlijk een bijzonder belangrijk onderdeel vormen van zijn geloofsbeleving en waarvan daardoor in redelijkheid kan worden aangenomen dat hij die bij terugkeer in Iran zal verrichten. Daarbij betrekt de IND in ieder geval de volgende aspecten: 
-
-* de persoonlijke situatie van de vreemdeling;  
-
-* de wijze waarop de vreemdeling in het verleden in Iran uiting heeft gegeven aan zijn religie;  
-
-* hoe de vreemdeling hieraan in de toekomst in Iran uiting wil geven; en  
-
-* hoe de vreemdeling dit heeft gedaan nadat hij Iran heeft verlaten.   De IND toetst vervolgens mede aan de hand van de informatie uit het ambtsbericht en hetgeen de vreemdeling in Iran eventueel al aan problemen heeft ondervonden als gevolg van zijn geloofsovertuiging, of hij bij het verrichten van die specifieke handelingen een gegronde reden heeft om te vrezen voor vervolging. 
-### *Personen die in Iran problemen hebben ondervonden als gevolg van de geloofsovertuiging* 
-
-De IND merkt christenen, bahai’s en soefi’s aan als groepen van bijzondere aandacht. Dit betekent dat de IND in het geval van christenen, bahai’s en soefi’s minder eisen stelt aan de aannemelijkheid van het individuele asielrelaas. Dit wil zeggen dat de vreemdeling het gestelde causale verband tussen de ondervonden problemen en zijn geloofsovertuiging met geringe indicaties aannemelijk kan maken. Dit betekent dat als de individuele problemen aannemelijk zijn gemaakt, snel zal worden geconcludeerd dat deze problemen voldoende zwaarwegend zijn om, behoudens contra-indicaties, in aanmerking te komen voor een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder a, Vw. 
-### *Personen die in Iran geen problemen hebben ondervonden als gevolg van de geloofsovertuiging* 
-
-Belangrijk bij de beoordeling is dat uit het algemeen ambtsbericht blijkt dat in het bijzonder personen die zich hebben bekeerd tot het christendom en openlijk hun geloof (willen) belijden, als ook personen die (willen) evangeliseren, een aanzienlijk risico lopen op vervolging. De IND verleent, behoudens contra-indicaties, op grond van artikel 29, eerste lid, onder a, Vw een verblijfsvergunning asiel voor bepaalde tijd aan de vreemdeling die aannemelijk maakt dat zijn persoonlijke godsdienstuitoefening zal leiden tot vervolging (zie ook C2/3.2 Vc).   
-### 14.3.4  
 
 ####LHBT’s
 
@@ -3193,17 +3186,17 @@ De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van ar
 
 ### 14.4.1  
 
-####Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+####Uitzonderlijke situatie in de zin van paragraaf C2/3.3  Vc
 
 Geen bijzonderheden.   
 ### 14.4.2  
 
-####Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+####Systematische blootstelling in de zin van paragraaf C2/3.3  Vc
 
 Geen bijzonderheden.   
 ### 14.4.3  
 
-####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3  Vc
 
 Geen bijzonderheden.    
 ### 14.5  
@@ -3212,12 +3205,12 @@ Geen bijzonderheden.
 
 ### 14.5.1  
 
-####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4  Vc
+####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6  Vc
 
 Geen bijzonderheden.   
 ### 14.5.2  
 
-####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4  Vc
+####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6  Vc
 
 Geen bijzonderheden.    
 ### 14.6  

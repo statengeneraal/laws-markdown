@@ -6,12 +6,12 @@
 
 ####Inleiding
 
-In verband met wijziging van het [Formatiebesluit WPO](../../../../../../AMvB/formatiebesluit/wpo/BWBR0005441/README.md) per 1 augustus 2000 is er met ingang van het schooljaar 2000-2001 een nieuw telformulier beschikbaar voor het melden van groeiformatie bij toename van het aantal leerlingen. Groeiformatie wordt toegekend als het aantal leerlingen van een school fors gegroeid is ten opzichte van het leerlingenaantal op de teldatum.Om voor groeiformatie in aanmerking te komen moet de school een leerlingentelling laten plaatsvinden. Deze publicatie geeft informatie over de te houden telling, alsmede de overige voorwaarden om voor groeiformatie in aanmerking te komen.
+In verband met wijziging van het Formatiebesluit WPO per 1 augustus 2000 is er met ingang van het schooljaar 2000-2001 een nieuw telformulier beschikbaar voor het melden van groeiformatie bij toename van het aantal leerlingen. Groeiformatie wordt toegekend als het aantal leerlingen van een school fors gegroeid is ten opzichte van het leerlingenaantal op de teldatum.Om voor groeiformatie in aanmerking te komen moet de school een leerlingentelling laten plaatsvinden. Deze publicatie geeft informatie over de te houden telling, alsmede de overige voorwaarden om voor groeiformatie in aanmerking te komen.
 ###2 
 
 ####Doelgroep
 
-Deze publicatie is bedoeld voor basisscholen die op basis van [artikelen 15c](../../../../../../AMvB/formatiebesluit/wpo/BWBR0005441/README.md) en [15c2 van het Formatiebesluit WPO](../../../../../../AMvB/formatiebesluit/wpo/BWBR0005441/README.md), zoals dat is gepubliceerd in het Staatsblad 2000 nr. 179, aanspraak willen maken op (bijzondere) groeiformatie. Om dit te bereiken moet voor de school een zogeheten ’telformulier voor groeiformatie van basisscholen bij toename van het aantal leerlingen’ worden ingediend.
+Deze publicatie is bedoeld voor basisscholen die op basis van artikelen 15c en 15c2 van het Formatiebesluit WPO, zoals dat is gepubliceerd in het Staatsblad 2000 nr. 179, aanspraak willen maken op (bijzondere) groeiformatie. Om dit te bereiken moet voor de school een zogeheten ’telformulier voor groeiformatie van basisscholen bij toename van het aantal leerlingen’ worden ingediend.
 ###3 
 
 ####Procedure

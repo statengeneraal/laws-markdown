@@ -67,7 +67,7 @@ c. niet is toegelaten tot een instelling voor hoger onderwijs.
 
 Het doel van deze regeling is: 
 
-a. het verstrekken van subsidie welke ten doel heeft het realiseren van een landelijke vermindering van het aantal nieuwe voortijdig schoolverlaters tot maximaal 25.000 in het kalenderjaar 2016, zoals bedoeld in hoofdstuk 2;  
+a. het verstrekken van subsidie welke ten doel heeft het realiseren van een landelijke vermindering van het aantal nieuwe voortijdig schoolverlaters tot maximaal 25.000 in het kalenderjaar 2017, zoals bedoeld in hoofdstuk 2;  
 
 b. het verstrekken van aanvullende middelen voor het voortgezet onderwijs voor het realiseren van de in onderdeel a genoemde beleidsdoelstelling, zoals bedoeld in hoofdstuk 3; en  
 
@@ -92,11 +92,12 @@ De Regeling OCW-subsidies is van toepassing op de hoofdstukken 2, 2A en 3 van de
 ####Regionaal programma voortijdig schoolverlaten
 
 1.  Het regionaal programma dat in een RMC-regio wordt uitgevoerd met als doel het voorkomen van voortijdig schoolverlaten, bevat maatregelen die, blijkens een regionale analyse door de contactschool over de RMC-regio, zijn gericht op structurele borging van het voorkomen van voortijdig schoolverlaten in het onderwijsproces van de onderwijsinstellingen en het bevorderen van de samenwerking tussen de onderwijsinstellingen onderling en gemeenten in de RMC-regio.   
-2.  Van het regionaal programma maakt in ieder geval deel uit een maatregel gericht op het voorkomen van uitval van deelnemers die één van de beroepsopleidingen, bedoeld in artikel 7.2.2, eerste lid, onderdelen c tot en met e, van de wet, volgen.   
+2.  Van het regionaal programma maakt voor de kalenderjaren 2013 tot en met 2015 in ieder geval deel uit een maatregel gericht op het voorkomen van uitval van deelnemers die één van de beroepsopleidingen, bedoeld in artikel 7.2.2, eerste lid, onderdelen c tot en met e, van de wet, volgen. Deze verplichting geldt niet voor het kalenderjaar 2016.   
 3.  Het regionaal programma, bedoeld in het eerste lid, omvat ten minste één plusvoorziening, bedoeld in artikel 19, onderdeel a.   
 4.  Het bedrag per maatregel van het regionaal programma dient in redelijke verhouding te staan tot het aantal deelnemers en de doelgroep waarvoor de maatregel is bedoeld.   
 5.  Het bevoegd gezag van de contactschool motiveert de keuze van de maatregelen in het regionaal programma op het formulier in bijlage A van deze regeling, als bedoeld in artikel 10.   
-6.  Indien de contactgemeenten van de RMC-regio’s Utrecht, Agglomeratie Amsterdam, Haaglanden/Westland en Rijnmond een bijdrage ontvangen op grond van de Decentralisatie-uitkering VSV, kan het regionaal programma van deze RMC-regio’s tevens de afspraken over de maatregelen die met deze decentralisatie-uitkering worden verzorgd, omvatten.  
+6.  Indien de contactgemeenten van de RMC-regio’s Utrecht, Agglomeratie Amsterdam, Haaglanden/Westland en Rijnmond een bijdrage ontvangen op grond van de Decentralisatie-uitkering VSV, kan het regionaal programma van deze RMC-regio’s tevens de afspraken over de maatregelen die met deze decentralisatie-uitkering worden verzorgd, omvatten.   
+7.  Voor het kalenderjaar 2016 kan het regionaal programma voortijdig schoolverlaten bijzondere maatregelen bevatten ten aanzien van de aansluiting van leerlingen in het praktijkonderwijs en voortgezet speciaal onderwijs op het voortgezet onderwijs en middelbaar beroepsonderwijs. 
 
 ### Artikel  7  
 
@@ -112,7 +113,8 @@ b. de onderwijsinstelling die optreedt als contactschool;
 
 c. welk deel van de subsidie is bestemd voor de beheers- en coördinatiekosten van de contactschool; en  
 
-d. de afspraken over het besteden van de subsidie die wordt verstrekt op grond van dit hoofdstuk.    
+d. de afspraken over het besteden van de subsidie die wordt verstrekt op grond van dit hoofdstuk.     
+4.  Onderwijsinstellingen die het in het eerste lid bedoelde convenant hebben ondertekend, komen voor het kalenderjaar 2016 voor subsidie in aanmerking indien zij voor dit kalenderjaar opnieuw een samenwerkingsovereenkomst afsluiten. Het derde lid is van overeenkomstige toepassing. 
 
 ### Artikel  8  
 
@@ -121,7 +123,7 @@ d. de afspraken over het besteden van de subsidie die wordt verstrekt op grond v
 1.  De onderwijsinstellingen, bedoeld in artikel 7, eerste lid, wijzen uit hun midden een onderwijsinstelling aan die optreedt als contactschool in de betreffende RMC-regio.   
 2.  Het bevoegd gezag van de contactschool, bedoeld in het eerste lid, heeft in ieder geval tot taak: 
 
-a. het informeren van de RMC-contactgemeente en de onderwijsinstellingen waarvan het bevoegd gezag het convenant voor die onderwijsinstellingen voor de desbetreffende RMC-regio heeft ondertekend over deelname aan het regionaal programma dat in die RMC-regio wordt uitgevoerd;  
+a. het informeren van de RMC-contactgemeente en de onderwijsinstellingen waarvan het bevoegd gezag het convenant voor die onderwijsinstellingen voor de desbetreffende RMC-regio heeft ondertekend over deelname aan het regionaal programma dat in die RMC-regio wordt uitgevoerd, en voor het kalenderjaar 2016 het informeren van de RMC-contactgemeente en de onderwijsinstellingen waarvan het bevoegd gezag voor de kalenderjaren 2013 tot en met 2015 dit convenant had ondertekend;  
 
 b. het mede namens de overige onderwijsinstellingen, bedoeld in het eerste lid, optreden als aanvrager en ontvanger van de subsidie die wordt verstrekt op grond van hoofdstuk 2; en  
 
@@ -139,7 +141,8 @@ Het deel van de subsidie dat bestemd is voor beheers- en coördinatiekosten van 
 
 1.  Een aanvraag voor subsidie wordt ingediend door inzending van een volledig ingevuld formulier, bedoeld in artikel 6, vijfde lid, dat als bijlage A bij deze regeling is opgenomen.   
 2.  De aanvraag voor subsidie, bedoeld in het eerste lid, omvat, onverminderd artikel 15, het regionaal programma, bedoeld in hoofdstuk 2, paragraaf 2, en de plusvoorzieningen, bedoeld in hoofdstuk 2, paragraaf 3.   
-3.  Het formulier, bedoeld in het eerste lid, wordt mede ondertekend door de RMC-contactgemeente.  
+3.  Het formulier, bedoeld in het eerste lid, wordt mede ondertekend door de RMC-contactgemeente.   
+4.  Een aanvraag voor subsidie voor het kalenderjaar 2016 wordt ingediend door inzending van een volledig ingevuld formulier, dat als bijlage E bij deze regeling is opgenomen. Het tweede en derde lid zijn van overeenkomstige toepassing. 
 
 ### Artikel  11  
 
@@ -150,6 +153,15 @@ Het deel van de subsidie dat bestemd is voor beheers- en coördinatiekosten van 
 3.  De betaling van de subsidie, bedoeld in hoofdstuk 2, paragraaf 2, vindt plaats in de maand januari van het betreffende kalenderjaar.   
 4.  De betaling van de subsidie, bedoeld in hoofdstuk 2, paragraaf 3, vindt plaats in de maand oktober voor het daaropvolgende kalenderjaar.  
 
+### Artikel  11a  
+
+####Tijdstippen indiening aanvraag, beslissing en betaling kalenderjaar 2016
+
+1.  Voor het kalenderjaar 2016 dient het bevoegd gezag van de contactschool de subsidieaanvraag uiterlijk op 15 september 2015 in bij de minister. Aanvragen die na deze datum worden ingediend, worden afgewezen.   
+2.  De minister beslist uiterlijk in december 2015 op de aanvraag, bedoeld in het eerste lid.   
+3.  De betaling van de subsidie, bedoeld in hoofdstuk 2, paragraaf 2, vindt voor het kalenderjaar 2016 plaats in de maand januari van het jaar 2016.   
+4.  De betaling van de subsidie, bedoeld in hoofdstuk 3, paragraaf 3, vindt voor het kalenderjaar 2016 plaats in de maand december van het jaar 2015.  
+
 ### Artikel  12  
 
 ####Besteding van de subsidie
@@ -158,7 +170,7 @@ Het deel van de subsidie dat bestemd is voor beheers- en coördinatiekosten van 
 2.  In afwijking van het eerste lid kan subsidie die niet wordt aangewend voor de maatregelen als bedoeld in artikel 6, tweede en derde lid, worden besteed aan andere maatregelen van het regionaal programma, bedoeld in artikel 6, eerste lid. Voorts kan subsidie die niet wordt aangewend voor de maatregel als bedoeld in artikel 6, eerste lid, worden besteed aan andere maatregelen van het regionaal programma als bedoeld in artikel 6, derde lid.   
 3.  In afwijking van het eerste lid wordt subsidie voor de RMC-regio’s Utrecht, Agglomeratie Amsterdam, Haaglanden/Westland en Rijnmond die niet wordt aangewend voor de plusvoorzieningen bedoeld in artikel 6, derde lid, besteed aan de maatregel bedoeld in artikel 6, tweede lid. Het niet aangewende deel van de subsidie voor de maatregelen bedoeld in artikel 6, derde en tweede lid wordt besteed aan andere maatregelen van het regionaal programma, bedoeld in artikel 6, eerste lid.   
 4.  De contactschool motiveert de keuze van de maatregelen, bedoeld in het tweede en derde lid, in het formulier, bedoeld in artikel 6, vijfde lid.   
-5.  De subsidie wordt uiterlijk in 2015 besteed.  
+5.  De subsidie wordt uiterlijk in 2016 besteed.  
 
 ### Artikel  13  
 
@@ -182,7 +194,8 @@ In deze paragraaf wordt onder RMC-regio niet begrepen de RMC-regio’s Utrecht, 
 
 ####Subsidieverstrekking
 
-De minister verstrekt op aanvraag van een contactschool een driejaarlijkse subsidie voor de kalenderjaren 2013 tot en met 2015, op grond van deze paragraaf, aan het bevoegd gezag van een contactschool ten behoeve van het ontwikkelen en uitvoeren van het regionaal programma, voor de activiteiten bedoeld in artikel 6, eerste en tweede lid, door de onderwijsinstellingen in de RMC-regio waarvoor door het bevoegd gezag van die onderwijsinstellingen het convenant voor die RMC-regio is ondertekend. 
+1. De minister verstrekt op aanvraag van een contactschool een driejaarlijkse subsidie voor de kalenderjaren 2013 tot en met 2015, op grond van deze paragraaf, aan het bevoegd gezag van een contactschool ten behoeve van het ontwikkelen en uitvoeren van het regionaal programma, voor de activiteiten bedoeld in artikel 6, eerste en tweede lid, door de onderwijsinstellingen in de RMC-regio waarvoor door het bevoegd gezag van die onderwijsinstellingen het convenant voor die RMC-regio is ondertekend.  
+2.  De minister verstrekt op aanvraag van een contactschool een subsidie voor het kalenderjaar 2016, op grond van deze paragraaf, aan het bevoegd gezag van een contactschool ten behoeve van het ontwikkelen en uitvoeren van het regionaal programma, voor de activiteiten, bedoeld in artikel 6, eerste, tweede en zevende lid, door de onderwijsinstellingen in de RMC-regio. 
 
 ### Artikel  16  
 
@@ -194,7 +207,9 @@ a. voor het kalenderjaar 2013 € 19.700.000,–.
 
 b. voor het kalenderjaar 2014 € 19.450.000,–.  
 
-c. voor het kalenderjaar 2015 € 19.150.000,–.   
+c. voor het kalenderjaar 2015 € 19.150.000,–.  
+
+d. voor het kalenderjaar 2016 € 19.150.000,–.  
 
 ### Artikel  17  
 
@@ -262,7 +277,8 @@ d.  *apc-leerling:* de leerling die woonachtig is in een postcodegebied dat valt
 
 ####Te subsidiëren activiteiten
 
-De minister verstrekt op aanvraag van een contactschool een driejaarlijkse subsidie voor de kalenderjaren 2013 tot en met 2015, op grond van deze paragraaf, aan het bevoegd gezag van een contactschool voor het in stand houden en ontwikkelen van één of meer plusvoorzieningen in de RMC-regio. 
+1. De minister verstrekt op aanvraag van een contactschool een driejaarlijkse subsidie voor de kalenderjaren 2013 tot en met 2015, op grond van deze paragraaf, aan het bevoegd gezag van een contactschool voor het in stand houden en ontwikkelen van één of meer plusvoorzieningen in de RMC-regio.  
+2.  De minister verstrekt op aanvraag van een contactschool, aan wie op grond van het eerste lid subsidie voor de kalenderjaren 2013 tot en met 2015 is verstrekt, aan het bevoegd gezag van de contactschool een subsidie voor het kalenderjaar 2016 voor het in stand houden en ontwikkelen van één of meer plusvoorzieningen in de RMC-regio. 
 
 ### Artikel  21  
 
@@ -296,7 +312,7 @@ Het subsidieplafond op grond van deze paragraaf bedraagt € 30.400.000,– per
 ####Inrichtingswijze
 
 1.  De plusvoorziening wordt zodanig ingericht dat de leerlingen voor wie de plusvoorziening is bedoeld, hiervan optimaal kunnen profiteren.   
-2.  De inrichting van de plusvoorziening is gericht op continuïteit en structurele borging van de voorziening na afloop van het studiejaar 2014–2015.  
+2.  De inrichting van de plusvoorziening is gericht op continuïteit en structurele borging van de voorziening na afloop van het studiejaar 2015–2016.  
 
 ### Hoofdstuk  2a  
 
@@ -403,13 +419,14 @@ k.  *bovenbouw havo/vwo:* het vierde en vijfde leerjaar van het havo en het vier
 
 1.  De minister verstrekt voor de kalenderjaren 2013 tot en met 2015 ambtshalve aanvullende middelen aan het bevoegd gezag van een school dat voor die school ten minste één convenant heeft ondertekend.   
 2.  De aanvullende middelen, bedoeld in artikel 28, eerste lid, onderdeel a, worden telkens voor één jaar verstrekt in de maand oktober voorafgaand aan het desbetreffende kalenderjaar.   
-3.  De aanvullende middelen, bedoeld in artikel 28, eerste lid, onderdeel b, worden telkens voor één jaar verstrekt in de maand oktober volgend op het desbetreffende kalenderjaar.  
+3.  De aanvullende middelen, bedoeld in artikel 28, eerste lid, onderdeel b, worden telkens voor één jaar verstrekt in de maand november volgend op het desbetreffende kalenderjaar.   
+4.  De minister verstrekt voor het kalenderjaar 2016 ambtshalve aanvullende middelen aan het bevoegd gezag van een onderwijsinstelling dat voor de kalenderjaren 2013 tot en met 2015 in aanmerking is gekomen voor aanvullende middelen op grond van het eerste lid. 
 
 ### Artikel  26  
 
 ####Subsidieplafond
 
-1.  Het subsidieplafond voor subsidieverstrekking op grond van deze paragraaf bedraagt voor de kalenderjaren 2013 tot en met 2015 jaarlijks maximaal € 17.100.000,–.   
+1.  Het subsidieplafond voor subsidieverstrekking op grond van deze paragraaf bedraagt voor de kalenderjaren 2013 tot en met 2016 jaarlijks maximaal € 17.100.000,–.   
 2.  Van het subsidieplafond, bedoeld in het eerste lid, is jaarlijks € 12.100.000,– bedoeld voor subsidieverstrekking van het vast bedrag, als bedoeld in artikel 28, eerste lid, onderdeel a.   
 3.  Van het subsidieplafond, bedoeld in het eerste lid, is jaarlijks € 5.000.000,– bedoeld voor subsidieverstrekking van het variabel bedrag, als bedoeld in artikel 28, eerste lid, onderdeel b.   
 4.  Indien het deel van het subsidieplafond dat is bestemd voor het vast bedrag respectievelijk het variabel bedrag, bedoeld in het tweede en derde lid, wordt overschreden, wordt de hoogte van de aanvullende middelen naar evenredigheid per school verlaagd.  
@@ -433,16 +450,20 @@ b. een variabel bedrag dat per schooljaar, per schoolsoort en leerjaren kan vers
 
 a. voor kalenderjaar 2013: op 1 oktober 2011;  
 
-b. voor kalenderjaar 2014: op 1 oktober 2012; en  
+b. voor kalenderjaar 2014: op 1 oktober 2012;  
 
-c. voor kalenderjaar 2015: op 1 oktober 2013.     
+c. voor kalenderjaar 2015: op 1 oktober 2013; en  
+
+d. voor het kalenderjaar 2016: op 1 oktober 2014.    
 3.  Bij de berekening van het variabel bedrag, bedoeld in de artikelen 30 tot en met 32, wordt het aantal leerlingen tot 22 jaar per schoolsoort en leerjaren die als daadwerkelijk schoolgaand zijn ingeschreven bij een school en voor de bekostiging worden meegeteld, jaarlijks bepaald op grond van de volgende peilmomenten: 
 
 a. voor kalenderjaar 2013: op 1 oktober 2012;  
 
-b. voor kalenderjaar 2014: op 1 oktober 2013; en  
+b. voor kalenderjaar 2014: op 1 oktober 2013;  
 
-c. voor kalenderjaar 2015: op 1 oktober 2014.    
+c. voor kalenderjaar 2015: op 1 oktober 2014; en  
+
+d. voor het kalenderjaar 2016: op 1 oktober 2015.   
 
 ### Artikel  29  
 
@@ -469,11 +490,12 @@ c. voor kalenderjaar 2015: op 1 oktober 2014.
 4.  Indien het percentage, bedoeld in het derde lid, gelijk is aan of lager is dan de procentuele norm zoals genoemd in tabel 4, dan komt de school in aanmerking voor het variabel bedrag.   
 5.  De hoogte van het variabel bedrag wordt bepaald aan de hand van het aantal leerlingen in de onderbouw tot 22 jaar, genoemd in tabel 5.  Tabel 4. Procentuele norm nieuwe voortijdig schoolverlaters 
 
-|--- | Onderbouw  | Bovenbouw vmbo  | Bovenbouw havo/vwo  |
+|--- | onderbouw  | bovenbouw vmbo  | bovenbouw havo/vwo  |
 |:---|:---|:---|:---|
 | 2012–2013  | 1,0%  | 4,0%  | 0,5%  |
 | 2013–2014  | 1,0%  | 4,0%  | 0,5%  |
 | 2014–2015  | 1,0%  | 4,0%  | 0,5%  |
+| 2015–2016  | 1,0%  | 4,0%  | 0,5%  |
 
 Tabel 5. Maximumbedragen per school beschikbaar voor de onderbouw 
 
@@ -1680,4 +1702,148 @@ h. gesprekken te organiseren tussen het Centraal Planbureau, personeel en deelne
 | Handtekening  | --- |
 
 Dit aanvraagformulier kunt u digitaal invullen via www.duo.nl/zakelijk en vervolgens printen ter ondertekening. U dient dit aanvraagformulier uiterlijk 1 november 2012 zowel schriftelijk (in enkelvoud) als digitaal in te dienen op het volgende adres: DUO Afdeling MUO Postbus 606 2700 ML Zoetermeer De digitale versie kunt u mailen naar: muo@duo.nl. 
+
+### Bijlage E 
+
+####behorende bij artikel 10, vierde lid , van de Regeling regionale aanpak vsv en prestatiesubsidie voor het voortgezet onderwijs
+
+####Aanvraagformulier Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs
+
+### 1  
+
+####Contactgegevens
+
+| 1a Gegevens van de RMC-regio  |
+|:---|
+| Nummer RMC-regio  | --- |
+| Naam RMC-regio  | --- |
+| Naam VSV-accountmanager (van OCW)  | --- |
+| Gevraagde subsidie voor de RMC-regio  | --- |
+
+| 1b Contactgemeente van de RMC-regio  |
+|:---|
+| Contactgemeente  | --- |
+| Naam verantwoordelijke wethouder contactgemeente  | --- |
+| Postadres  | --- |
+| Telefoonnummer  | --- |
+| E-mailadres  | --- |
+
+| 1c Contactschool van de RMC-regio  |
+|:---|
+| Naam contactschool  | --- |
+| BRIN-nummer  | --- |
+| Voorzitter College van Bestuur  | --- |
+| Postadres  | --- |
+| Telefoonnummer  | --- |
+| E-mailadres  | --- |
+
+| 1d Contactpersoon RMC-contactgemeente  |
+|:---|
+| Naam  | --- |
+| Functie  | --- |
+| Postadres  | --- |
+| Telefoonnummer  | --- |
+| E-mailadres  | --- |
+
+| 1e Contactpersoon contactschool  |
+|:---|
+| Naam  | --- |
+| Functie  | --- |
+| Postadres  | --- |
+| Telefoonnummer  | --- |
+| E-mailadres  | --- |
+
+### 2  
+
+####Maatregelen
+
+Per maatregel beantwoordt u de vragen A t/m D 
+
+### *A. Gevraagd subsidiebedrag* 
+
+Wat is het totaalbedrag voor het schooljaar 2015–2016? Een specificatie van de verwachte uitgaven dient u bij vraag 3 (Begroting) te geven, 
+### *B. Doelstelling kwalitatief (maximaal 200 woorden)* 
+
+1. Op welke doelgroep is deze maatregel gericht? Een doelgroep kan één van de zes onderwijssoorten en onderwijsniveaus zijn, overeenkomstig de prestatiesubsidies voor scholen.  
+
+2. Wat gaat deze maatregel verbeteren?  
+
+3. Wat is de activiteit?   
+### *C. Doelstelling kwantitatief (maximaal 50 woorden)* 
+
+1. Op hoeveel verschillende deelnemers wordt deze maatregel maximaal ingezet gedurende de gehele looptijd van de subsidieregeling?  
+
+2. Welk bedrag zet u in per deelnemer? (Deel het bedrag bij A door het aantal bij C1.)   
+### *D. Duur* 
+
+Wat is de duur van de maatregel? 
+
+###3 
+
+####Begroting
+
+| --- | --- | --- |
+|:---|:---|:---|
+|  *Beheerskosten*   | Kostenposten  | Kosten  |
+| --- | --- | €  |
+| --- | €  |
+| --- | €  |
+| --- | €  |
+| --- | €  |
+| --- |  *Subtotaal beheerskosten*   | €  |
+| --- |
+|  *Maatregel 1*    *‘titel maatregel’*   | Kostenposten  | Kosten  |
+| --- | --- | €  |
+| --- | €  |
+| --- | €  |
+| --- | €  |
+| --- | €  |
+| --- |  *Subtotaal maatregel 1*    *‘titel maatregel’*   | €  |
+|  *Maatregel 2*    *‘Plusvoorziening, subtitel’*   | Kostenposten  | Kosten  |
+| --- | --- | €  |
+| --- | €  |
+| --- | €  |
+| --- | €  |
+| --- | €  |
+| --- |  *Subtotaal maatregel 2*    *‘Plusvoorziening, subtitel’*   | €  |
+|  *Enzovoorts*   |
+| --- |
+|  *Totaal van de maatregelen ‘Plusvoorziening, subtitel’*   | €  |
+|  *Totaal van de beheerskosten en alle maatregelen*   | €  |
+
+| --- |
+|:---|
+|  *Indien van toepassing*   |
+| RMC-regio ... besteedt minder dan 75% van het indicatieve bedrag voor de plusvoorzieningen aan plusvoorzieningen, omdat ... *(maximaal 200 woorden)*   |
+
+### 4  
+
+####Ondertekening
+
+| --- | --- |
+|:---|:---|
+| Naam bevoegd persoon van de contactschool  | --- |
+| Plaats  | --- |
+| Datum  | --- |
+| Handtekening  | --- |
+
+| --- | --- |
+|:---|:---|
+| Naam verantwoordelijke wethouder van de RMC-contactgemeente van de RMC-regio  | --- |
+| Plaats  | --- |
+| Datum  | --- |
+| Handtekening  | --- |
+
+####Toelichting op het aanvraagformulier
+
+Onderwijsinstellingen en RMC-contactgemeenten werken in het verlengingsjaar 2015–2016 samen op basis van een samenwerkingsovereenkomst. Dit is een voorwaarde om de subsidie voor de uitvoering van het regionaal programma en de plusvoorzieningen te ontvangen. Een afschrift van de samenwerkingsovereenkomst dient samen met het regionaal programma aan de Dienst Uitvoering Onderwijs van het ministerie van Onderwijs, Cultuur en Wetenschap te worden verzonden.
+### *Aansluiting op regionale analyse 2012–2015* 
+
+Zonder een scherp beeld van de situatie in de regio is het niet mogelijk effectieve maatregelen te nemen voor resultaat in 2016. Succesvol vsv-beleid is en blijft een kwestie van ‘sturen op cijfers’. Daarom heeft u eerder, al dan niet in afstemming met de convenantpartners, een regionale analyse voor de jaren 2012–2015 opgesteld en met uw vsv-accountmanager besproken. Voor het verlengingsjaar 2015–2016 hoeft u geen nieuwe regionale analyse op te stellen. U baseert uw voorstellen voor maatregelen vanzelfsprekend wel op de eerdere analyse van de vsv-problematiek en de meest recente kwantitatieve en kwalitatieve gegevens van uw regio. Uw vsv-accountmanager kan u hierbij ondersteunen. U heeft het schriftelijk verslag van uw regionale analyse naar het onderzoeksbureau opgestuurd. Het onderzoeksbureau heeft dit verslag gebruikt voor de evaluatie van de subsidieregeling. Meer informatie over het onderzoek zal beschikbaar komen op de website www.aanvalopschooluitval.nl. Het verlengingsjaar 2015–2016 maakt geen onderdeel uit van deze evaluatie. Het onderzoeksbureau evalueert dus ook niet de maatregelen die uw regio in het schooljaar 2015–2016 neemt. Momenteel wordt bekeken hoe, met het oog op de toekomst, lering uit de regionale maatregelen kan worden getrokken. 
+### *Maatregelen* 
+
+Bij de beantwoording van deze vraag dient u in te gaan op de maatregelen die in uw RMC-regio worden genomen. U bent vrij in het aantal maatregelen dat u opvoert. Daarbij geven we u in overweging dat het weinig effectief is om veel ‘kleine’ maatregelen zonder samenhang op te voeren of om uiteenlopende maatregelen te bundelen tot één ‘grote’ maatregel. Bepaal in overleg met uw vsv-accountmanager over hoeveel projecten u hier het totale subsidiebedrag verdeelt. Het aantal maatregelen hangt normaliter samen met het totaalbedrag van de beschikbare subsidie: grotere RMC-regio’s voeren naar verwachting meer maatregelen op dan kleinere RMC-regio’s. U geeft per maatregel het totaalbedrag aan voor het schooljaar 2015–2016. De toegekende middelen worden uitgekeerd in december 2015. U bent zelf verantwoordelijk voor eventuele verschillen in de financiering en het uitgavenpatroon. Voor elke maatregel die uw RMC-regio wil nemen dient u de vragen A tot en met D te beantwoorden.  *Let op:* Minstens één van de maatregelen dient een plusvoorziening te omvatten, bestemd voor overbelaste jongeren. Deze maatregel moet als titel krijgen ‘Plusvoorziening, subtitel’, bijvoorbeeld ‘Plusvoorziening, Rebound mbo’. Het indicatieve bedrag voor de plusvoorziening in uw RMC-regio volgt uit de subsidieregeling in combinatie met informatie die u krijgt van uw vsv-accountmanager. Mocht uit uw analyse blijken dat er minder dan het indicatieve bedrag besteed moet worden aan de plusvoorziening om het vsv-resultaat te halen, dan mag het resterende budget ook voor andere maatregelen worden ingezet. 
+### *Begroting* 
+
+Ten eerste specificeert u de kosten die u begroot voor de beheers- en coördinatiekosten. Hierin zijn opgenomen de overkoepelende beheers- en coördinatiekosten en de beheers- en coördinatiekosten van specifieke maatregelen. Uit artikel 9 van de subsidieregeling blijkt dat het deel van de subsidie dat bestemd is voor beheers- en coördinatiekosten van de contactschool niet hoger dan tien procent van de toegekende subsidie mag zijn met een maximum van € 150.000 per jaar. Vervolgens specificeert u de verwachte kosten voor de maatregel(en) met de titel(s) ‘Plusvoorziening, subtitel’. Tot slot specificeert u de begrote kosten voor de overige maatregelen. U geeft aan wat voor kosten u verwacht te maken. Dit kunnen personele of materiële kosten zijn. Bij inzet van minder dan 75 procent van het budget dat indicatief beschikbaar is voor de plusvoorziening aan plusvoorzieningen dient u dit te motiveren in het tekstvak (maximaal 200 woorden).
 

@@ -11,7 +11,7 @@ namens deze,
 ir. A.J. Degens 
 hoofddirecteur centrale financiën instellingen 
 
-####Register 'Niet bekostigde educatie' van instellingen met diploma-erkenning ([artikel 1. 4a.1 WEB](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md))
+####Register 'Niet bekostigde educatie' van instellingen met diploma-erkenning (artikel 1. 4a.1 WEB)
 
 |Brinnr. |Naam instelling |Plaats en Correspondentieadres |Code Opleiding |Naam Opleiding |
 |:---|:---|:---|:---|:---|

@@ -8,7 +8,7 @@
 
 In dit reglement wordt verstaan onder: 
 
-*Kenniscentrum*  Het bestuur van de stichting Kenniscentrum Beroepsonderwijs Bedrijfsleven BeVAM zoals bedoeld in [artikel 1.5.1 van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) (WEB  
+*Kenniscentrum*  Het bestuur van de stichting Kenniscentrum Beroepsonderwijs Bedrijfsleven BeVAM zoals bedoeld in artikel 1.5.1 van de Wet educatie en beroepsonderwijs (WEB  
 
 *Bedrijf of organisatie*  Een ‘echt’ bedrijf dat of ‘echte’ organisatie die onderdeel is van het regulier, economisch en/of maatschappelijk stelsel.  
 
@@ -18,7 +18,7 @@ In dit reglement wordt verstaan onder:
 
 *Beroepspraktijkvorming (BPV)*  Verwerving in de beroepspraktijk van de kennis, de houding en de vaardigheden die eigen zijn aan de gekwalificeerde uitoefening van een beroep.  
 
-*Praktijkopleider / leermeester*  Een door het leerbedrijf aangewezen persoon, die belast is met de in [artikel 7.2.8 derde lid WEB](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), bedoelde begeleiding van deelnemers mbo binnen het bedrijf of de organisatie.  
+*Praktijkopleider / leermeester*  Een door het leerbedrijf aangewezen persoon, die belast is met de in artikel 7.2.8 derde lid WEB, bedoelde begeleiding van deelnemers mbo binnen het bedrijf of de organisatie.  
 
 *Competenties*  Ontwikkelbare en leerbare vermogens die nodig zijn om in beroepssituaties op een juiste en professionele wijze te kunnen handelen.  
 
@@ -56,7 +56,7 @@ Uitsluitend bedrijven en organisaties die voldoen aan de bepalingen in dit regle
 
 Het bedrijf of de organisatie wordt geacht: 
 
-1. Een goede en (sociaal) veilige leerplaats conform de [Arbo-wet](../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) te zijn en werkzaamheden, die behoren tot de werkprocessen van het beroep waarvoor de onderwijsdeelnemer wordt opgeleid, in een reële arbeidssituatie aan te bieden.  
+1. Een goede en (sociaal) veilige leerplaats conform de Arbo-wet te zijn en werkzaamheden, die behoren tot de werkprocessen van het beroep waarvoor de onderwijsdeelnemer wordt opgeleid, in een reële arbeidssituatie aan te bieden.  
 
 2. Aantoonbaar voldoende en deskundige begeleiding te bieden gericht op de deelnemer door een gecertificeerde praktijkopleider. Het competentieprofiel voor praktijkopleider wordt hierbij als maatstaf genomen en is opgenomen in bijlage 2.  
 
@@ -116,7 +116,7 @@ Niet langer wordt voldaan aan de voorwaarden zoals genoemd in artikel 5, die aan
 
 ####Bezwaar
 
-1. Indien de erkenning geweigerd, ingetrokken of niet verlengd wordt, voor een of meerdere (deel)kwalificaties, kan het bedrijf of de organisatie tegen de beslissing als bedoeld in de artikelen 6 lid 1, 7 lid 2 en 8 lid 1 binnen 6 weken na dagtekening van de beslissing bezwaar maken bij het kenniscentrum. Op de bezwaarprocedure is de [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing ([hoofdstuk 6](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)).  
+1. Indien de erkenning geweigerd, ingetrokken of niet verlengd wordt, voor een of meerdere (deel)kwalificaties, kan het bedrijf of de organisatie tegen de beslissing als bedoeld in de artikelen 6 lid 1, 7 lid 2 en 8 lid 1 binnen 6 weken na dagtekening van de beslissing bezwaar maken bij het kenniscentrum. Op de bezwaarprocedure is de Algemene wet bestuursrecht van toepassing (hoofdstuk 6).  
 
 2. Het bezwaarschrift bevat in elk geval de voorwaarden die in bijlage 4 genoemd zijn.  
 

@@ -11,7 +11,7 @@ Om voor groeiformatie in aanmerking te komen moet de school een leerlingentellin
 
 ####Doelgroep
 
-Deze publicatie is bedoeld voor basisscholen die op basis van [artikelen 15c](../../../../../../AMvB/formatiebesluit/wpo/BWBR0005441/README.md) en [15c2 van het Formatiebesluit WPO](../../../../../../AMvB/formatiebesluit/wpo/BWBR0005441/README.md), zoals gepubliceerd in het Staatsblad 2000 nr. 179, aanspraak willen maken op (bijzondere) groeiformatie. Om dit te bereiken moet voor de school een zogeheten ”telformulier voor groeiformatie voor basisscholen” worden ingediend.
+Deze publicatie is bedoeld voor basisscholen die op basis van artikelen 15c en 15c2 van het Formatiebesluit WPO, zoals gepubliceerd in het Staatsblad 2000 nr. 179, aanspraak willen maken op (bijzondere) groeiformatie. Om dit te bereiken moet voor de school een zogeheten ”telformulier voor groeiformatie voor basisscholen” worden ingediend.
 ###3 
 
 ####Hoogte groeidrempel en omvang groeiformatie
