@@ -1344,7 +1344,7 @@ d. vereffenaar is, in de vervulling van zijn verplichtingen als zodanig in ernst
 
 1.  Hij die is afgegaan op de in een verklaring van erfrecht vermelde feiten, geldt te dezen aanzien als te goeder trouw.   
 2.  Een schuldenaar die, afgaande op de in een verklaring van erfrecht vermelde feiten, heeft betaald aan iemand die niet bevoegd was de betaling te ontvangen, kan aan degene aan wie betaald moest worden, tegenwerpen dat hij bevrijdend heeft betaald.   
-3.  Het in de vorige leden bepaalde lijdt uitzondering, indien van degene die op de verklaring is afgegaan, op grond van bijzondere omstandigheden een nader onderzoek kon worden gevergd, dat hem de onjuistheid van de verklaring zou hebben doen blijken.  
+3.  Het in de vorige leden bepaalde lijdt uitzondering, indien degene die op de verklaring is afgegaan, wist of door grove nalatigheid niet wist, dat de inhoud van de verklaring niet met de werkelijkheid overeenstemt.  
 
 ### Artikel  188  
 
@@ -1362,7 +1362,6 @@ e. dat een of meer in de verklaring genoemde personen executeur, bewindvoerder o
 2.  Bij algemene maatregel van bestuur kunnen nadere voorschriften omtrent de inhoud en de opstelling van deze verklaringen worden vastgesteld.  
 
 ### Artikel  188a  
-Treedt in werking per 17-08-2015 
 
 De notaris geeft op verzoek een Europese erfrechtverklaring af als bedoeld in artikel 62 van de verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PbEU 2012, L 201). De aanvraag kan worden gedaan met behulp van het formulier als bedoeld in artikel 65 lid 2 van de verordening in de Nederlandse taal of in een andere officiële taal van de EU, mits de notaris die taal begrijpt. 
 

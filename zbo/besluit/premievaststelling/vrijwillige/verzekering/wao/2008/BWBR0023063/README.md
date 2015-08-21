@@ -3,13 +3,13 @@
 ##Besluit premievaststelling vrijwillige verzekering WAO 2008
 
 Het Uitvoeringsinstituut werknemersverzekeringen,  
-Gelet op [artikel 75, tweede lid, van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);
+Gelet op artikel 75, tweede lid, van de Wet financiering sociale verzekeringen;
 Besluit:    
 
 ### Artikel  1  
 Materieel uitgewerkt per 01-01-2010 
 
-De premie voor de vrijwillige verzekering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), wordt voor het kalenderjaar 2008 vastgesteld op 5,80%. 
+De premie voor de vrijwillige verzekering op grond van de Wet op de arbeidsongeschiktheidsverzekering, wordt voor het kalenderjaar 2008 vastgesteld op 5,80%. 
 
 ### Artikel  2  
 Materieel uitgewerkt per 01-01-2010 

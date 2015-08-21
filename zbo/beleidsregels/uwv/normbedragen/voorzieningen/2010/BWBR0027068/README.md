@@ -9,17 +9,17 @@ Materieel uitgewerkt per 19-01-2012
 
 De normbedragen voor voorzieningen, als bedoeld in: 
 
-– [artikelen 34](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [35 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md),  
+– artikelen 34 en 35 van de Wet werk en inkomen naar arbeidsvermogen,  
 
-– [artikel 52d van de Ziektewet](../../../../../../../wet/ziektewet/BWBR0001888/README.md),  
+– artikel 52d van de Ziektewet,  
 
-– [artikel 65e van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md),  
+– artikel 65e van de Wet op de arbeidsongeschiktheidsverzekering,  
 
-– de [artikelen 2:22](../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [2:23](../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en [3:64 van de Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md),  
+– de artikelen 2:22, 2:23 en 3:64 van de Wet werk en arbeidsondersteuning jonggehandicapten,  
 
-– [artikel 67c van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), en  
+– artikel 67c van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, en  
 
-– [artikel 19a van de Wet overige OCW-subsidies](../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md),   worden vastgesteld op de bedragen, genoemd in de bijlage bij dit besluit. 
+– artikel 19a van de Wet overige OCW-subsidies,   worden vastgesteld op de bedragen, genoemd in de bijlage bij dit besluit. 
 
 ### Artikel  2  
 Materieel uitgewerkt per 19-01-2012 

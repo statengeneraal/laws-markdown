@@ -3,7 +3,7 @@
 ##Vaststelling selectielijst Archiefbescheiden Centraal Fonds voor de Volkshuisvesting over de periode vanaf 1988
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
-Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
+Gelet op artikel 5, tweede lid, onder b, van de Archiefwet 1995;
 
 De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 12 november 2003, nr. arc-2003.6257/2);
 Besluit:    

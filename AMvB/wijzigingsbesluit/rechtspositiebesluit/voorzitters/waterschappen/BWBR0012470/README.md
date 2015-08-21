@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 21 december 2000, nr. CDJZ/WVW/2000–1549, Centrale Directie Juridische Zaken;
 
-Gelet op de [artikelen 44](../../../../../../wet/waterschapswet/BWBR0005108/README.md) en [49 van de Waterschapswet](../../../../../../wet/waterschapswet/BWBR0005108/README.md);
+Gelet op de artikelen 44 en 49 van de Waterschapswet;
 
 De Raad van State gehoord (advies van 20 februari 2001, nr. W09.01.0011/V);
 

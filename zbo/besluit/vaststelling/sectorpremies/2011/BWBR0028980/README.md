@@ -3,13 +3,13 @@
 ##Besluit vaststelling sectorpremies 2011
 
 Het Uitvoeringsinstituut werknemersverzekeringen,  
-Gelet op [artikel 28, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);
+Gelet op artikel 28, eerste lid, van de Wet financiering sociale verzekeringen;
 Besluit:    
 
 ### Artikel  1  
 Materieel uitgewerkt per 01-01-2013 
 
-De premies die ten gunste komen van de sectorfondsen, bedoeld in [artikel 28, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), worden voor het jaar 2011 vastgesteld op de percentages, bedoeld in bijlage 1 en 2 bij dit besluit. 
+De premies die ten gunste komen van de sectorfondsen, bedoeld in artikel 28, eerste lid, van de Wet financiering sociale verzekeringen, worden voor het jaar 2011 vastgesteld op de percentages, bedoeld in bijlage 1 en 2 bij dit besluit. 
 
 ### Artikel  2  
 Materieel uitgewerkt per 01-01-2013 

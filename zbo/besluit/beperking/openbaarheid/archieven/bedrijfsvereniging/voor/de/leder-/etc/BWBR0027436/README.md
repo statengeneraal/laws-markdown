@@ -3,7 +3,7 @@
 ##Besluit beperking van de openbaarheid van de archieven van de Bedrijfsvereniging voor de Leder- en Lederverwerkende Industrie en van de Bedrijfsvereniging voor de Horeca, Pension- en Aanverwante Bedrijven
 
 Het Uitvoeringsinstituut werknemersverzekeringen,  
-Gelet op [artikel 15, eerste lid onder a, van de Archiefwet 1995](../../../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) en [artikel 10 van het Archiefbesluit 1995](../../../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md);
+Gelet op artikel 15, eerste lid onder a, van de Archiefwet 1995 en artikel 10 van het Archiefbesluit 1995;
 Besluit:    
 
 ### Artikel  1  

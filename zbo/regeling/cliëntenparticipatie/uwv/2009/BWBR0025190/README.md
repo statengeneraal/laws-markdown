@@ -3,16 +3,16 @@
 ##Regeling cliëntenparticipatie UWV 2009
 
 Het Uitvoeringsinstituut werknemersverzekeringen,  
-Gelet op [artikel 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);
+Gelet op artikel 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen;
 Besluit:    
 
 ### Artikel  1  
 
 ####Definities
 
-a.  *Wet SUWI:* [Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+a.  *Wet SUWI:* Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
-b.  *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, als bedoeld in [artikel 2, tweede lid, Wet SUWI](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+b.  *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, als bedoeld in artikel 2, tweede lid, Wet SUWI;  
 
 c.  *Onderdeel Cliëntenparticipatie:* het organisatieonderdeel binnen UWV dat zich bezig houdt met de uitvoering van de cliëntenparticipatie;  
 
@@ -66,7 +66,7 @@ c. De leden van de cliëntenraad zullen geheimhouding betrachten ten aanzien van
 
 a. klachtenprocedures;  
 
-b. de [regeling cliëntenparticipatie UWV](../../../../../../zbo/regeling/cliëntenparticipatie/uwv/BWBR0014291/README.md);  
+b. de regeling cliëntenparticipatie UWV;  
 
 c. privacyreglement;  
 
@@ -166,7 +166,7 @@ f. indien het lid de status van cliënt verliest.
 
 ####Voordracht landelijke cliëntenraad
 
-1.  De centrale cliëntenraad benoemt uit zijn midden 3 leden die namens de centrale cliëntenraad voor een periode van 3 jaar zitting nemen in de Landelijke Cliëntenraad als bedoeld in [artikel 8 Wet SUWI](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).   
+1.  De centrale cliëntenraad benoemt uit zijn midden 3 leden die namens de centrale cliëntenraad voor een periode van 3 jaar zitting nemen in de Landelijke Cliëntenraad als bedoeld in artikel 8 Wet SUWI.   
 2.  Indien het lid niet langer lid is van de centrale cliëntenraad, eindigt ook zijn lidmaatschap van de Landelijke Cliëntenraad.  
 
 ### Artikel  11  
@@ -220,7 +220,7 @@ Geschillen voortkomend uit de interpretatie van deze regeling worden aan de cent
 
 ####Overgangs- en slotbepalingen
 
-1.  Het [Besluit regeling cliëntenparticipatie UWV](../../../../../../zbo/regeling/cliëntenparticipatie/uwv/BWBR0014291/README.md) van 15 november 2002 wordt ingetrokken.   
+1.  Het Besluit regeling cliëntenparticipatie UWV van 15 november 2002 wordt ingetrokken.   
 2.  De op grond van de in het vorige lid bedoelde regeling ingestelde cliëntenraden worden opgeheven en vervangen door cliëntenraden waarvan de leden worden benoemd overeenkomstig artikel 8, met dien verstande dat: 
 
 a. de leden van de centrale cliëntenraad per 1 januari 2009 door de gezamenlijke belangenorganisaties in onderling overleg zoveel mogelijk worden geworven en geselecteerd uit de voormalige leden van de Centrale Cliëntenraad UWV, de Centrale Cliëntenraad CWI, de Landelijke Cliëntenraad AG en de Landelijke Cliëntenraad WW;  

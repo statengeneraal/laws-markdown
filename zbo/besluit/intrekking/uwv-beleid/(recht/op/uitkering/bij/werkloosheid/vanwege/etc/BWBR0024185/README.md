@@ -6,7 +6,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen,  Besluit:
 
 ### Artikel  1  
 
-Het beleid van de bedrijfsverenigingen inzake de toepassing van [art. 18, eerste lid, van de Werkloosheidswet](../../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) voor de sectoren 5, 6, 7, 8, 10, 11, 12, 18, 22, 23, 32, 52 en BV 27, zoals vermeld in bijlage 1 van het Besluit Richtlijnen Lisv bij uitvoering beleid, wordt met ingang van 1 april 2009 ingetrokken. 
+Het beleid van de bedrijfsverenigingen inzake de toepassing van art. 18, eerste lid, van de Werkloosheidswet voor de sectoren 5, 6, 7, 8, 10, 11, 12, 18, 22, 23, 32, 52 en BV 27, zoals vermeld in bijlage 1 van het Besluit Richtlijnen Lisv bij uitvoering beleid, wordt met ingang van 1 april 2009 ingetrokken. 
 
 ### Artikel  2  
 

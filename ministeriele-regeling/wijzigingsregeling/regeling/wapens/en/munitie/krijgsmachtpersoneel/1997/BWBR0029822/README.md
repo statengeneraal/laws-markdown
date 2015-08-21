@@ -11,7 +11,7 @@ Wijzigt de Regeling wapens en munitie krijgsmachtpersoneel 1997.
 
 ### Artikel  II  
 
-Wapenvergunningen afgegeven op basis van [artikel 3, tweede lid, van de Regeling wapens en munitie krijgsmachtpersoneel 1997](../../../../../../../../../ministeriele-regeling/regeling/wapens/en/munitie/krijgsmachtpersoneel/1997/BWBR0008473/README.md), zoals deze bepaling luidde voorafgaand aan inwerkingtreding van deze wijzigingsregeling, blijven voor de duur van hun geldigheid van kracht. 
+Wapenvergunningen afgegeven op basis van artikel 3, tweede lid, van de Regeling wapens en munitie krijgsmachtpersoneel 1997, zoals deze bepaling luidde voorafgaand aan inwerkingtreding van deze wijzigingsregeling, blijven voor de duur van hun geldigheid van kracht. 
 
 ### Artikel  III  
 

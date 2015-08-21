@@ -3,11 +3,11 @@
 ##Mandaatbesluit Rijksgebouwendienst 2013
 
 De algemeen directeur van de Rijksgebouwendienst;  
-gelet op het [Organisatiebesluit BZK 2012](../../../../../ministeriele-regeling/organisatiebesluit/bzk/2012/BWBR0031833/README.md) en het [Mandaatbesluit BZK 2012](../../../../../ministeriele-regeling/mandaatbesluit/bzk/2012/BWBR0031837/README.md);
+gelet op het Organisatiebesluit BZK 2012 en het Mandaatbesluit BZK 2012;
 
-mede gelet op de [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+mede gelet op de Algemene wet bestuursrecht;
 
-mede gelet op de [Comptabiliteitswet 2011](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) en het [Besluit privaatrechtelijke rechtshandelingen 1996](../../../../../AMvB/besluit/privaatrechtelijke/rechtshandelingen/1996/BWBR0007804/README.md);
+mede gelet op de Comptabiliteitswet 2011 en het Besluit privaatrechtelijke rechtshandelingen 1996;
 Besluit vast te stellen het navolgende Mandaatbesluit Rijksgebouwendienst 2013:    
 
 ### Artikel  1  
@@ -57,13 +57,13 @@ i. het inhuren van externen op het terrein van interim-management, organisatie- 
 
 ####– Mandaat directeuren
 
-Aan een directeur wordt op grond van [artikel 5.5 van het Mandaatbesluit BZK 2012](../../../../../ministeriele-regeling/mandaatbesluit/bzk/2012/BWBR0031837/README.md) mandaat verleend ten aanzien van aangelegenheden die behoren tot het werkterrein van de directeur en die redelijkerwijs niet behoren te worden voorgelegd aan een hoger bevoegd gezag. [Hoofdstuk 6 van het Mandaatbesluit BZK](../../../../../ministeriele-regeling/mandaatbesluit/bzk/2012/BWBR0031837/README.md) is van toepassing. 
+Aan een directeur wordt op grond van artikel 5.5 van het Mandaatbesluit BZK 2012 mandaat verleend ten aanzien van aangelegenheden die behoren tot het werkterrein van de directeur en die redelijkerwijs niet behoren te worden voorgelegd aan een hoger bevoegd gezag. Hoofdstuk 6 van het Mandaatbesluit BZK is van toepassing. 
 
 ### Artikel  4  
 
 ####– Mandaat afdelingshoofden
 
-In afwijking van [artikel 6.10 van het Mandaatbesluit BZK 2012](../../../../../ministeriele-regeling/mandaatbesluit/bzk/2012/BWBR0031837/README.md) wordt aan de rechtstreeks onder de directeur ressorterende leidinggevenden mandaat verleend ten aanzien van aangelegenheden die behoren tot het werkterrein van de bedoelde functionaris en die redelijkerwijs niet behoren te worden voorgelegd aan een hoger bevoegd gezag. 
+In afwijking van artikel 6.10 van het Mandaatbesluit BZK 2012 wordt aan de rechtstreeks onder de directeur ressorterende leidinggevenden mandaat verleend ten aanzien van aangelegenheden die behoren tot het werkterrein van de bedoelde functionaris en die redelijkerwijs niet behoren te worden voorgelegd aan een hoger bevoegd gezag. 
 
 ### Artikel  5  
 
@@ -125,13 +125,13 @@ Het Mandaatbesluit Rijksgebouwendienst 2013 is tevens van toepassing op function
 1.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 26 juli 2012.   
 2.  Ingetrokken worden: 
 
-* het [Besluit mandaat, volmacht en machtiging Rijksgebouwendienst 2009](../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/rijksgebouwendienst/2009/BWBR0025950/README.md);  
+* het Besluit mandaat, volmacht en machtiging Rijksgebouwendienst 2009;  
 
 * het Besluit doorverlenen mandaat, volmacht en machtiging in geval van afwezigheid van de directeur-generaal Rijksgebouwendienst van 14 juli 2010;  
 
 * het Besluit mandaat, volmacht en machtiging voormalige FO-taken van 2 november 2011;  
 
-* het [Besluit doorverlenen mandaat, volmacht en machtiging in geval van afwezigheid van de algemeen directeur Rijksgebouwendienst](../../../../../ministeriele-regeling/besluit/doorverlenen/mandaat/volmacht/en/machtiging/in/geval/van/etc/BWBR0031457/README.md) van 10 april 2012;  
+* het Besluit doorverlenen mandaat, volmacht en machtiging in geval van afwezigheid van de algemeen directeur Rijksgebouwendienst van 10 april 2012;  
 
 * alle individuele besluiten ter verlening van mandaat, volmacht en machtiging die door de directeur-generaal Rijksgebouwendienst zijn genomen naar aanleiding van de reorganisatie van de Rijksgebouwendienst in 2011.    
 
@@ -262,7 +262,7 @@ Naast bovenstaande specifieke werkterreinen heeft elke directie een eigen taak o
 
 ####Besluit benoeming tot clusterhoofd
 
-De directeur ............ van de Rijksgebouwendienst, gelet op het [Mandaatbesluit BZK 2012](../../../../../ministeriele-regeling/mandaatbesluit/bzk/2012/BWBR0031837/README.md); gelet op het Mandaatbesluit Rijksgebouwendienst 2013; besluit te benoemen tot: clusterhoofd de heer/mevrouw*: ........... werkzaam in de functie van: ........... werkzaam bij de directie: ........... Doorverlening mandaat: is niet toegestaan Aanwijzingen/voorwaarden: 
+De directeur ............ van de Rijksgebouwendienst, gelet op het Mandaatbesluit BZK 2012; gelet op het Mandaatbesluit Rijksgebouwendienst 2013; besluit te benoemen tot: clusterhoofd de heer/mevrouw*: ........... werkzaam in de functie van: ........... werkzaam bij de directie: ........... Doorverlening mandaat: is niet toegestaan Aanwijzingen/voorwaarden: 
 
 * het clusterhoofd neemt de beperkingen en begrenzingen in acht als opgenomen in het Mandaatbesluit Rijksgebouwendienst 2013, waaronder de begrenzing als opgenomen in bijlage 1, onderdeel ‘Clusterhoofd’.  
 
@@ -274,7 +274,7 @@ De directeur ............ van de Rijksgebouwendienst, gelet op het [Mandaatbeslu
 
 ####Besluit benoeming tot projectbevoegde A/B*
 
-De directeur ............ van de Rijksgebouwendienst, gelet op het [Mandaatbesluit BZK 2012](../../../../../ministeriele-regeling/mandaatbesluit/bzk/2012/BWBR0031837/README.md); gelet op het Mandaatbesluit Rijksgebouwendienst 2013; besluit te benoemen tot: projectbevoegde A/B* de heer/mevrouw*: ........... werkzaam in de functie van: ........... werkzaam bij de directie: ........... Doorverlening mandaat: is niet toegestaan Aanwijzingen/voorwaarden: 
+De directeur ............ van de Rijksgebouwendienst, gelet op het Mandaatbesluit BZK 2012; gelet op het Mandaatbesluit Rijksgebouwendienst 2013; besluit te benoemen tot: projectbevoegde A/B* de heer/mevrouw*: ........... werkzaam in de functie van: ........... werkzaam bij de directie: ........... Doorverlening mandaat: is niet toegestaan Aanwijzingen/voorwaarden: 
 
 * het mandaat betreft uitsluitend het project / de projecten* als omschreven op de meest recente door het bevoegd gezag vastgestelde lijst aanwijzing projecten Rijksgebouwendienst onder de naam van de heer / mevrouw* ........... voornoemd<sup> 1 ingeval geen lijst aanwijzing projecten Rijksgebouwendienst door het bevoegd gezag is vastgesteld dient hier omschreven te worden welk(e) project(en) het mandaat betreft. </sup>;  
 
@@ -290,7 +290,7 @@ De directeur ............ van de Rijksgebouwendienst, gelet op het [Mandaatbeslu
 
 ####Besluit benoeming tot projectbevoegde C/D*
 
-De directeur ............ van de Rijksgebouwendienst, gelet op het [Mandaatbesluit BZK 2012](../../../../../ministeriele-regeling/mandaatbesluit/bzk/2012/BWBR0031837/README.md); gelet op het Mandaatbesluit Rijksgebouwendienst 2013; besluit te benoemen tot: projectbevoegde C/D* de heer/mevrouw*: ........... werkzaam in de functie van: ........... werkzaam bij de directie: ........... Doorverlening mandaat: is niet toegestaan Aanwijzingen/voorwaarden: 
+De directeur ............ van de Rijksgebouwendienst, gelet op het Mandaatbesluit BZK 2012; gelet op het Mandaatbesluit Rijksgebouwendienst 2013; besluit te benoemen tot: projectbevoegde C/D* de heer/mevrouw*: ........... werkzaam in de functie van: ........... werkzaam bij de directie: ........... Doorverlening mandaat: is niet toegestaan Aanwijzingen/voorwaarden: 
 
 * de projectbevoegde neemt de beperkingen en begrenzingen in acht als opgenomen in het Mandaatbesluit Rijksgebouwendienst 2013, waaronder de begrenzing als opgenomen in bijlage 1, onderdeel ‘Projectbevoegde C/D*’.  
 
@@ -302,7 +302,7 @@ De directeur ............ van de Rijksgebouwendienst, gelet op het [Mandaatbeslu
 
 ####Besluit benoeming tot projectbevoegde met bijzondere bevoegdheden
 
-De algemeen directeur van de Rijksgebouwendienst, gelet op het [Mandaatbesluit BZK 2012](../../../../../ministeriele-regeling/mandaatbesluit/bzk/2012/BWBR0031837/README.md); gelet op het Mandaatbesluit Rijksgebouwendienst 2013; besluit te benoemen tot: projectbevoegde met bijzondere bevoegdheden de heer/mevrouw*: ........... werkzaam in de functie van: ........... werkzaam bij de directie: ........... Doorverlening mandaat: is niet toegestaan Aanwijzingen/voorwaarden: 
+De algemeen directeur van de Rijksgebouwendienst, gelet op het Mandaatbesluit BZK 2012; gelet op het Mandaatbesluit Rijksgebouwendienst 2013; besluit te benoemen tot: projectbevoegde met bijzondere bevoegdheden de heer/mevrouw*: ........... werkzaam in de functie van: ........... werkzaam bij de directie: ........... Doorverlening mandaat: is niet toegestaan Aanwijzingen/voorwaarden: 
 
 * het mandaat betreft uitsluitend het project / de projecten* genoemd in de bijlage bij dit besluit.  
 
@@ -318,7 +318,7 @@ De algemeen directeur van de Rijksgebouwendienst, gelet op het [Mandaatbesluit B
 
 ####Besluit aanwijzing plaatsvervanger
 
-De directeur ........... van de Rijksgebouwendienst, gelet op het [Mandaatbesluit BZK 2012](../../../../../ministeriele-regeling/mandaatbesluit/bzk/2012/BWBR0031837/README.md); gelet op het Mandaatbesluit Rijksgebouwendienst 2013; besluit tot het aanwijzen van: ........... *(functie of naam + functie)*  werkzaam bij de directie: ........... als plaatsvervanger van de/het: ........... *(te vervangen functie* <sup> 1 uitsluitend van directeuren en afdelingshoofden kunnen plaatsvervangers worden aangewezen. </sup>) directie: ........... teneinde bij tijdelijke afwezigheid of verhindering van de/het ........... *(te vervangen functie)*  diens mandaat volledig uit te oefenen. Aanwijzingen/voorwaarden: 
+De directeur ........... van de Rijksgebouwendienst, gelet op het Mandaatbesluit BZK 2012; gelet op het Mandaatbesluit Rijksgebouwendienst 2013; besluit tot het aanwijzen van: ........... *(functie of naam + functie)*  werkzaam bij de directie: ........... als plaatsvervanger van de/het: ........... *(te vervangen functie* <sup> 1 uitsluitend van directeuren en afdelingshoofden kunnen plaatsvervangers worden aangewezen. </sup>) directie: ........... teneinde bij tijdelijke afwezigheid of verhindering van de/het ........... *(te vervangen functie)*  diens mandaat volledig uit te oefenen. Aanwijzingen/voorwaarden: 
 
 * de plaatsvervanger neemt de beperkingen en begrenzingen in acht als opgenomen in het Mandaatbesluit Rijksgebouwendienst 2013.  
 
@@ -336,7 +336,7 @@ De plaatsvervanger: handtekening .................................. paraaf .....
 
 ####Besluit vertegenwoordiging in juridische procedure
 
-De algemeen directeur van de Rijksgebouwendienst, gelet op het [Mandaatbesluit BZK 2012](../../../../../ministeriele-regeling/mandaatbesluit/bzk/2012/BWBR0031837/README.md); gelet op het Mandaatbesluit Rijksgebouwendienst 2013; besluit ten behoeve van de behandeling op: ........... van het verzoek/beroep* van: ........... tegen de Staat der Nederlanden (ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Rijksgebouwendienst) met betrekking tot: ........... te machtigen de heer/mevrouw*: ........... werkzaam in de functie van: ........... werkzaam bij de directie: ........... als gemachtigde van de Staat der Nederlanden (ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Rijksgebouwendienst) op te treden bij de behandeling door: ........... *(rechterlijke instantie)*  van bovenvermeld verzoek/beroep. Doorverlening mandaat: is niet toegestaan Aanwijzingen/voorwaarden: 's-Gravenhage, .................................. *(datum)*  De minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze, .................................. *(handtekening)*  .................................. *(naam)*   *algemeen directeur*  * verwijderen of doorstrepen wat niet van toepassing is. De gemachtigde: handtekening .................................. paraaf .................................. naam .................................. Afschrift te zenden aan belanghebbenden en afdeling Concerncontrol (ten behoeve van het competentieregister). Binnen zes weken na de verzenddatum van dit besluit kunt u daartegen per brief bezwaar maken bij de algemeen directeur van de Rijksgebouwendienst, Postbus 20952, 2500 EA Den Haag. Het bezwaarschrift moet zijn ondertekend, voorzien zijn van een datum alsmede de naam en het adres van de indiener en dient vergezeld te gaan van de gronden waarop het bezwaar berust en, zo mogelijk, een afschrift van het besluit waartegen het bezwaar is gericht. 
+De algemeen directeur van de Rijksgebouwendienst, gelet op het Mandaatbesluit BZK 2012; gelet op het Mandaatbesluit Rijksgebouwendienst 2013; besluit ten behoeve van de behandeling op: ........... van het verzoek/beroep* van: ........... tegen de Staat der Nederlanden (ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Rijksgebouwendienst) met betrekking tot: ........... te machtigen de heer/mevrouw*: ........... werkzaam in de functie van: ........... werkzaam bij de directie: ........... als gemachtigde van de Staat der Nederlanden (ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Rijksgebouwendienst) op te treden bij de behandeling door: ........... *(rechterlijke instantie)*  van bovenvermeld verzoek/beroep. Doorverlening mandaat: is niet toegestaan Aanwijzingen/voorwaarden: 's-Gravenhage, .................................. *(datum)*  De minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze, .................................. *(handtekening)*  .................................. *(naam)*   *algemeen directeur*  * verwijderen of doorstrepen wat niet van toepassing is. De gemachtigde: handtekening .................................. paraaf .................................. naam .................................. Afschrift te zenden aan belanghebbenden en afdeling Concerncontrol (ten behoeve van het competentieregister). Binnen zes weken na de verzenddatum van dit besluit kunt u daartegen per brief bezwaar maken bij de algemeen directeur van de Rijksgebouwendienst, Postbus 20952, 2500 EA Den Haag. Het bezwaarschrift moet zijn ondertekend, voorzien zijn van een datum alsmede de naam en het adres van de indiener en dient vergezeld te gaan van de gronden waarop het bezwaar berust en, zo mogelijk, een afschrift van het besluit waartegen het bezwaar is gericht. 
 
 ### Bijlage 9 
 
@@ -344,5 +344,5 @@ De algemeen directeur van de Rijksgebouwendienst, gelet op het [Mandaatbesluit B
 
 ####Besluit intrekking benoeming/intrekking aanwijzing plaatsvervanger*
 
-De algemeen directeur/directeur ............ van de Rijksgebouwendienst, gelet op het [Mandaatbesluit BZK 2012](../../../../../ministeriele-regeling/mandaatbesluit/bzk/2012/BWBR0031837/README.md); gelet op het Mandaatbesluit Rijksgebouwendienst 2013; besluit in te trekken de benoeming van: clusterhoofd/projectbevoegde A/B/C/D/met bijzondere bevoegdheden* de heer/mevrouw*: ........... werkzaam in de functie van: ........... werkzaam bij de directie: ...........  *of:*  in te trekken de aanwijzing van: ........... *(functie of naam + functie)*  werkzaam bij de directie: ........... als plaatsvervanger van de/het: ........... *(te vervangen functie)*  directie: ........... Het besluit treedt in werking na ondertekening (alternatieve aanvulling: en werkt terug tot en met .............. *(datum)*). 's-Gravenhage, .................................. *(datum)*  De minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze, .................................. *(handtekening)*  .................................. *(naam)*   *algemeen directeur/directeur*........... * verwijderen of doorstrepen wat niet van toepassing is. Het clusterhoofd/de projectbevoegde/de plaatsvervanger*: handtekening .................................. paraaf .................................. naam .................................. Afschrift te zenden aan belanghebbenden en afdeling Concerncontrol (ten behoeve van het competentieregister). Binnen zes weken na de verzenddatum van dit besluit kunt u daartegen per brief bezwaar maken bij de algemeen directeur van de Rijksgebouwendienst, Postbus 20952, 2500 EA Den Haag. Het bezwaarschrift moet zijn ondertekend, voorzien zijn van een datum alsmede de naam en het adres van de indiener en dient vergezeld te gaan van de gronden waarop het bezwaar berust en, zo mogelijk, een afschrift van het besluit waartegen het bezwaar is gericht. 
+De algemeen directeur/directeur ............ van de Rijksgebouwendienst, gelet op het Mandaatbesluit BZK 2012; gelet op het Mandaatbesluit Rijksgebouwendienst 2013; besluit in te trekken de benoeming van: clusterhoofd/projectbevoegde A/B/C/D/met bijzondere bevoegdheden* de heer/mevrouw*: ........... werkzaam in de functie van: ........... werkzaam bij de directie: ...........  *of:*  in te trekken de aanwijzing van: ........... *(functie of naam + functie)*  werkzaam bij de directie: ........... als plaatsvervanger van de/het: ........... *(te vervangen functie)*  directie: ........... Het besluit treedt in werking na ondertekening (alternatieve aanvulling: en werkt terug tot en met .............. *(datum)*). 's-Gravenhage, .................................. *(datum)*  De minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze, .................................. *(handtekening)*  .................................. *(naam)*   *algemeen directeur/directeur*........... * verwijderen of doorstrepen wat niet van toepassing is. Het clusterhoofd/de projectbevoegde/de plaatsvervanger*: handtekening .................................. paraaf .................................. naam .................................. Afschrift te zenden aan belanghebbenden en afdeling Concerncontrol (ten behoeve van het competentieregister). Binnen zes weken na de verzenddatum van dit besluit kunt u daartegen per brief bezwaar maken bij de algemeen directeur van de Rijksgebouwendienst, Postbus 20952, 2500 EA Den Haag. Het bezwaarschrift moet zijn ondertekend, voorzien zijn van een datum alsmede de naam en het adres van de indiener en dient vergezeld te gaan van de gronden waarop het bezwaar berust en, zo mogelijk, een afschrift van het besluit waartegen het bezwaar is gericht. 
 
