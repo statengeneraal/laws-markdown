@@ -7,17 +7,14 @@ Gelet op artikel 5, tweede lid, onder b, van de Archiefwet 1995;
 Besluit:    
 
 ### Artikel  1  
-Treedt in werking per 23-08-2015 
 
 De bij dit besluit gevoegde selectielijst voor het geheel van de bescheiden die de administratieve neerslag vormen van het handelen van het Centraal Fonds Volkshuisvesting (CFV), vanaf 1988 en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
-Treedt in werking per 23-08-2015 
 
 Het Basisselectiedocument (BSD) *Archiefbescheiden Centraal Fonds voor de Volkshuisvesting over de periode vanaf 1988* (gepubliceerd in de Staatscourant nr. 18, d.d. 28 januari 2004) wordt ingetrokken. 
 
 ### Artikel  3  
-Treedt in werking per 23-08-2015 
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat in de Staatscourant zal worden geplaatst.   
@@ -31,6 +28,5 @@ De algemene rijksarchivaris,
 M.L. Engelhard    
 
 ### Selectielijst  
-Treedt in werking per 23-08-2015 
 
 Gepubliceerd op www.nationaalarchief.nl.  

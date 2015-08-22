@@ -921,8 +921,7 @@ Zonodig vindt bij bestemmingsplannen de perceelsvorming zodanig plaats dat het m
 
 1. Aan elkaar grenzende percelen waarop inschrijvingen inzake hypotheken betrekking hebben die niet gelijk zijn voor elk der percelen, worden in het algemeen niet samengevoegd.
 2. Indien aan elkaar grenzende delen van een perceel blijkens verschillende ingeschreven stukken in één hand zijn gekomen vóór het tijdstip waarop de meting wordt verricht en die delen in één nieuw perceel zullen worden opgenomen, zo wordt zo mogelijk de grens tussen bedoelde delen onderling, hoewel deze niet op de kadastrale kaart wordt vermeld, op grond van aanwijzing van de belanghebbenden in het relaas van bevindingen vermeld, met het oog op een gespecificeerde vermelding van de inschrijvingen in de metingstaat.
-3. Een perceel of gedeelte daarvan waarop blijkens de kadastrale registratie een publiekrechtelijke beperking als bedoeld in artikel 1, onder a, sub 1º, van de Wkpb rust, wordt niet samengevoegd met een perceel waarop dezelfde beperking niet rust, tenzij zulks tot ondoelmatige perceelsvorming zou leiden.
-4. Ter zake van de toepassing van een toedeling ingevolge de Landinrichtingswet vindt geen samenvoeging plaats tussen toegedeelde kavels en buiten het blok gelegen percelen.
+3. Ter zake van de toepassing van een toedeling ingevolge de Landinrichtingswet vindt geen samenvoeging plaats tussen toegedeelde kavels en buiten het blok gelegen percelen.
 
 ### Artikel  72  
 
