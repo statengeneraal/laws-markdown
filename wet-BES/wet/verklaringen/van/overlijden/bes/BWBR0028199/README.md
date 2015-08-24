@@ -6,7 +6,7 @@
 
 1.  De geneeskundigen geven bij het vaststellen hunnerzijds van het overlijden van een persoon en van de geboorte van een dood kind ten behoeve van de ambtenaar van de burgerlijke stand een verklaring van overlijden respectievelijk van levenloze geboorte af.   
 2.  Zij geven de in het vorige lid bedoelde verklaringen niet dan na zich door persoonlijke schouwing overtuigd te hebben van het overlijden respectievelijk van de levenloze geboorte.  
-3. Indien het overlijden het gevolg was van de toepassing van levensbeëindiging op verzoek of hulp bij zelfdoding als bedoeld in [artikel 306, tweede lid](../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), onderscheidenlijk [artikel 307, tweede lid, van het Wetboek van Strafrecht BES](../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) geeft de behandelend geneeskundige geen verklaring van overlijden af en doet hij van de oorzaak van het overlijden onverwijld door invulling van een formulier mededeling aan de op grond van artikel 4 door het bestuurscollege aangewezen geneeskundige. Bij de mededeling voegt de geneeskundige een beredeneerd verslag inzake de inachtneming van de zorgvuldigheidseisen, bedoeld in [artikel 2 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](../../../../../../../wet/wet/toetsing/levensbeëindiging/op/verzoek/en/hulp/bij/zelfdoding/BWBR0012410/README.md).
+3. Indien het overlijden het gevolg was van de toepassing van levensbeëindiging op verzoek of hulp bij zelfdoding als bedoeld in artikel 306, tweede lid, onderscheidenlijk artikel 307, tweede lid, van het Wetboek van Strafrecht BES geeft de behandelend geneeskundige geen verklaring van overlijden af en doet hij van de oorzaak van het overlijden onverwijld door invulling van een formulier mededeling aan de op grond van artikel 4 door het bestuurscollege aangewezen geneeskundige. Bij de mededeling voegt de geneeskundige een beredeneerd verslag inzake de inachtneming van de zorgvuldigheidseisen, bedoeld in artikel 2 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding.
 
 ### Artikel  2  
 
@@ -31,7 +31,7 @@ Indien sprake is van een mededeling als bedoeld in artikel 1, derde lid brengt d
 
 –de ambtenaar van de Burgerlijke Stand;
 
-–de regionale toetsingscommissie, bedoeld in [artikel 19c van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](../../../../../../../wet/wet/toetsing/levensbeëindiging/op/verzoek/en/hulp/bij/zelfdoding/BWBR0012410/README.md).De op grond van artikel 4 aangewezen ambtenaar zendt het beredeneerd verslag als bedoeld in artikel 1, derde lid mee. 
+–de regionale toetsingscommissie, bedoeld in artikel 19c van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding.De op grond van artikel 4 aangewezen ambtenaar zendt het beredeneerd verslag als bedoeld in artikel 1, derde lid mee. 
 
 ### Artikel  6  
 

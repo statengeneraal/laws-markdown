@@ -679,18 +679,18 @@ b. er geen in aanmerking te nemen vermogen is.
 
 1.  Voor belanghebbenden jonger dan 21 jaar zonder ten laste komende kinderen is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande van 18, 19 of 20 jaar: € 234,88 per 1 januari 2015: € 237,16;  
+a. een alleenstaande van 18, 19 of 20 jaar: € 237,61;  
 
-b. gehuwden waarvan beide echtgenoten 18, 19 of 20 jaar zijn: € 469,76 per 1 januari 2015: € 474,32;  
+b. gehuwden waarvan beide echtgenoten 18, 19 of 20 jaar zijn: € 475,22;  
 
-c. gehuwden die niet met een of meer andere meerderjarige personen dan de echtgenoot in dezelfde woning hun hoofdverblijf hebben, en waarvan een echtgenoot 18, 19 of 20 jaar is en de andere echtgenoot 21 jaar of ouder: € 914,63 per 1 januari 2015: € 923,47.     
+c. gehuwden die niet met een of meer andere meerderjarige personen dan de echtgenoot in dezelfde woning hun hoofdverblijf hebben, en waarvan een echtgenoot 18, 19 of 20 jaar is en de andere echtgenoot 21 jaar of ouder: € 925,20.     
 2.  Voor belanghebbenden jonger dan 21 jaar met een of meer ten laste komende kinderen is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande ouder van 18, 19 of 20 jaar: € 234,88 per 1 januari 2015: € 237,16;  
+a. een alleenstaande ouder van 18, 19 of 20 jaar: € 237,61;  
 
-b. gehuwden waarvan beide echtgenoten 18, 19 of 20 jaar zijn: € 741,66 per 1 januari 2015: € 748,84;  
+b. gehuwden waarvan beide echtgenoten 18, 19 of 20 jaar zijn: € 750,26;  
 
-c. gehuwden die niet met een of meer andere meerderjarige personen dan de echtgenoot in dezelfde woning hun hoofdverblijf hebben, en waarvan een echtgenoot 18, 19 of 20 jaar is en de andere echtgenoot 21 jaar of ouder: € 1 186,53 per 1 januari 2015: € 1.197,99.     
+c. gehuwden die niet met een of meer andere meerderjarige personen dan de echtgenoot in dezelfde woning hun hoofdverblijf hebben, en waarvan een echtgenoot 18, 19 of 20 jaar is en de andere echtgenoot 21 jaar of ouder: € 1.200,24.     
 3.  Voor gehuwden die naast de echtgenoot nog met een of meer andere meerderjarige personen in dezelfde woning hun hoofdverblijf hebben, en waarvan een echtgenoot 18, 19 of 20 jaar is en de andere echtgenoot 21 jaar of ouder, is de norm per kalendermaand de in het eerste lid, onderdeel a, genoemde norm vermeerderd met de op de echtgenoot van 21 jaar en ouder op grond van artikel 22a van toepassing zijnde norm. 
 
 ### Artikel  21  
@@ -699,9 +699,9 @@ c. gehuwden die niet met een of meer andere meerderjarige personen dan de echtge
 
 Voor belanghebbenden van 21 jaar of ouder doch jonger dan de pensioengerechtigde leeftijd is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande of een alleenstaande ouder die niet met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft: € 926,47 per 1 januari 2015: € 960,83;  
+a. een alleenstaande of een alleenstaande ouder die niet met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft: € 962,63;  
 
-b. gehuwden die niet met een andere meerderjarige persoon dan de echtgenoot in dezelfde woning hun hoofdverblijf hebben, en waarvan beide echtgenoten jonger zijn dan de pensioengerechtigde leeftijd: € 1.372,62.  
+b. gehuwden die niet met een andere meerderjarige persoon dan de echtgenoot in dezelfde woning hun hoofdverblijf hebben, en waarvan beide echtgenoten jonger zijn dan de pensioengerechtigde leeftijd: € 1.375,18.  
 
 ### Artikel  22  
 
@@ -709,11 +709,11 @@ b. gehuwden die niet met een andere meerderjarige persoon dan de echtgenoot in d
 
 Voor belanghebbenden die de pensioengerechtigde leeftijd hebben bereikt is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande of een alleenstaande ouder die niet met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft: € 1.077,63;  
+a. een alleenstaande of een alleenstaande ouder die niet met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft: € 1.079,78;  
 
-b. gehuwden die niet met een andere meerderjarige persoon dan de echtgenoot in dezelfde woning hun hoofdverblijf hebben, en waarvan beide echtgenoten de pensioengerechtigde leeftijd hebben bereikt: € 1.471,68;  
+b. gehuwden die niet met een andere meerderjarige persoon dan de echtgenoot in dezelfde woning hun hoofdverblijf hebben, en waarvan beide echtgenoten de pensioengerechtigde leeftijd hebben bereikt: € 1.476,40;  
 
-c. gehuwden die niet met een andere meerderjarige persoon dan de echtgenoot in dezelfde woning hun hoofdverblijf hebben, en waarvan een echtgenoot de pensioengerechtigde leeftijd heeft bereikt en de andere echtgenoot 21 jaar of ouder, doch de pensioengerechtigde leeftijd nog niet heeft bereikt: € 1.471,68.  
+c. gehuwden die niet met een andere meerderjarige persoon dan de echtgenoot in dezelfde woning hun hoofdverblijf hebben, en waarvan een echtgenoot de pensioengerechtigde leeftijd heeft bereikt en de andere echtgenoot 21 jaar of ouder, doch de pensioengerechtigde leeftijd nog niet heeft bereikt: € 1.476,40.  
 
 ### Artikel  22a  
 
@@ -755,9 +755,9 @@ d. de persoon die onderwijs volgt waarvoor aanspraak op studiefinanciering kan b
 
 1.  Bij een verblijf in een inrichting is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande of een alleenstaande ouder: € 304,18;  
+a. een alleenstaande of een alleenstaande ouder: € 304,76;  
 
-b. gehuwden: € 473,13.     
+b. gehuwden: € 474,03.     
 2.  Het bedrag van de norm, bedoeld in het eerste lid, wordt verhoogd met: 
 
 a. voor een alleenstaande of een alleenstaande ouder € 39,00;  
@@ -816,7 +816,7 @@ h. inkomsten uit arbeid van de tot zijn last komende kinderen, alsmede door hen 
 
 i. rente ontvangen over op grond van artikel 34, tweede lid, onderdelen b en c, niet in aanmerking genomen vermogen en spaargelden;  
 
-j.een een- of tweemalige premie van ten hoogste € 2.339,00 per kalenderjaar, voor zover dit naar het oordeel van het college bijdraagt aan zijn arbeidsinschakeling; 
+j.een een- of tweemalige premie van ten hoogste € 2.340,00 per kalenderjaar, voor zover dit naar het oordeel van het college bijdraagt aan zijn arbeidsinschakeling; 
 
 k.een kostenvergoeding voor het verrichten van vrijwilligerswerk van ten hoogste een bij ministeriële regeling vast te stellen bedrag; 
 
@@ -824,7 +824,7 @@ l. bij ministeriële regeling aan te wijzen uitkeringen en vergoedingen voor mat
 
 m. giften en andere dan de in onderdeel l bedoelde vergoedingen voor materiële en immateriële schade voorzover deze naar het oordeel van het college uit een oogpunt van bijstandsverlening verantwoord zijn;  
 
-n. inkomsten uit arbeid tot 25 procent van deze inkomsten, met een maximum van € 196,00 per maand, voor zover hij algemene bijstand ontvangt, waarbij voor een persoon die de pensioengerechtigde leeftijd nog niet heeft bereikt geldt dat die inkomsten gedurende ten hoogste zes aaneengesloten maanden niet tot de middelen worden gerekend en dat dit naar het oordeel van het college moet bijdragen aan zijn arbeidsinschakeling;  
+n. inkomsten uit arbeid tot 25 procent van deze inkomsten, met een maximum van € 196,00 per maand, voor zover hij algemene bijstand ontvangt, waarbij voor een persoon die de pensioengerechtigde leeftijd nog niet heeft bereikt geldt dat die inkomsten gedurende ten hoogste zes aaneengesloten maanden niet tot de middelen worden gerekend en dat dit naar het oordeel van het college moet bijdragen aan zijn arbeidsinschakeling;  
 
 o. de ten behoeve van een levensloopregeling als bedoeld in artikel 39d van de Wet op de loonbelasting 1964 bij een uitvoerder als bedoeld in artikel 19g, derde lid, van die wet, zoals dit artikellid op 31 december 2011 luidde opgebouwde voorziening; 
 
@@ -832,7 +832,7 @@ p. een tegemoetkoming als bedoeld in artikel 29a van de Algemene nabestaandenwet
 
 q.een uitkering als bedoeld in artikel 118a, eerste lid, van de Zorgverzekeringswet of een tegemoetkoming als bedoeld in artikel 2:52 of 3:10 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;
 
-r. inkomsten uit arbeid van een alleenstaande ouder tot 12,5 procent van deze inkomsten, met een maximum van € 122,26 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij algemene bijstand ontvangt, ingeval: 
+r. inkomsten uit arbeid van een alleenstaande ouder tot 12,5 procent van deze inkomsten, met een maximum van € 122,31 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij algemene bijstand ontvangt, ingeval: 
 
 1°. hij de volledige zorg heeft voor een tot zijn last komend kind tot 12 jaar,  
 
@@ -854,7 +854,7 @@ x. het vrijgelaten deel van de toeslag, uitkering, kinderbijslag of ouderdomspen
 
 y.een inkomensondersteuning als bedoeld in artikel 33a van de Algemene Ouderdomswet;
 
-z. inkomsten uit arbeid van een persoon die medisch urenbeperkt is tot 15 procent van deze inkomsten uit arbeid, met een maximum van € 124,00 per maand, voor zover hij algemene bijstand ontvangt, tenzij onderdeel n of r van toepassing is.    
+z. inkomsten uit arbeid van een persoon die medisch urenbeperkt is tot 15 procent van deze inkomsten uit arbeid, met een maximum van € 124,05 per maand, voor zover hij algemene bijstand ontvangt, tenzij onderdeel n of r van toepassing is.    
 3.  De middelen worden in aanmerking genomen tot het bedrag dat resteert na aftrek van: 
 
 a. de daarover door de belanghebbende verschuldigde loonbelasting of inkomstenbelasting;  
@@ -1002,7 +1002,7 @@ d. een persoon is van wie is vastgesteld dat hij niet in staat is tot het verdie
 ####Netto minimumloon en consumentenprijsindex
 
 1. In deze paragraaf wordt onder netto minimumloon verstaan het minimumloon per maand, genoemd in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag, verhoogd met de aanspraak op vakantiebijslag waarop een werknemer op grond van artikel 15 van die wet over dat minimumloon ten minste aanspraak kan maken, na aftrek van de daarvan in te houden loonbelasting en premies volksverzekeringen.  
-2.  De in het eerste lid bedoelde loonbelasting en premies volksverzekeringen worden berekend voor een werknemer die de pensioengerechtigde leeftijd nog niet heeft bereikt rekening houdend met uitsluitend 186,25% van de algemene heffingskorting, bedoeld in artikel 22 van de Wet op de loonbelasting 1964, over het minimumloon en de aanspraak op vakantiebijslag daarover.   
+2.  De in het eerste lid bedoelde loonbelasting en premies volksverzekeringen worden berekend voor een werknemer die de pensioengerechtigde leeftijd nog niet heeft bereikt rekening houdend met uitsluitend 185% van de algemene heffingskorting, bedoeld in artikel 22 van de Wet op de loonbelasting 1964, over het minimumloon en de aanspraak op vakantiebijslag daarover.   
 3.  Onder consumentenprijsindex, wordt in deze afdeling verstaan hetgeen daaronder in artikel 13, zesde lid, van de Algemene Kinderbijslagwet wordt verstaan.   
 4.  Met ingang van 1 juli 2012 tot 1 januari 2014 en met ingang van 1 januari 2018 wordt het in het tweede lid genoemde percentage twee keer per kalenderjaar, op 1 januari en 1 juli, verlaagd met 2,5 procentpunt. Met ingang van 1 januari 2014 tot 1 januari 2018 wordt het in het tweede lid genoemde percentage twee keer per kalenderjaar, op 1 januari en 1 juli, verlaagd met 1,25 procentpunt. Het gewijzigde percentage wordt door of namens Onze Minister bekend gemaakt in de Staatscourant. Dit lid vervalt op het moment dat het percentage van 100 is bereikt. 
 
