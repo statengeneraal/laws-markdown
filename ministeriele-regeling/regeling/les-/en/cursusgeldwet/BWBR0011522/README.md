@@ -3,7 +3,7 @@
 ##Regeling Les- en cursusgeldwet
 
 De staatssecretaris van onderwijs, cultuur en wetenschappen, mede namens de minister van landbouw, cultuur en visserij; 
-Gelet op de [artikelen 2, vierde lid](../../../../../../AMvB/uitvoeringsbesluit/les-/en/cursusgeldwet/2000/BWBR0011400/README.md), [3, tweede lid](../../../../../../AMvB/uitvoeringsbesluit/les-/en/cursusgeldwet/2000/BWBR0011400/README.md), [4, vierde lid](../../../../../../AMvB/uitvoeringsbesluit/les-/en/cursusgeldwet/2000/BWBR0011400/README.md), [6, tweede lid, onderdeel c, en vierde lid](../../../../../../AMvB/uitvoeringsbesluit/les-/en/cursusgeldwet/2000/BWBR0011400/README.md), [7, derde lid](../../../../../../AMvB/uitvoeringsbesluit/les-/en/cursusgeldwet/2000/BWBR0011400/README.md), [8](../../../../../../AMvB/uitvoeringsbesluit/les-/en/cursusgeldwet/2000/BWBR0011400/README.md), [9, tweede lid](../../../../../../AMvB/uitvoeringsbesluit/les-/en/cursusgeldwet/2000/BWBR0011400/README.md), [10](../../../../../../AMvB/uitvoeringsbesluit/les-/en/cursusgeldwet/2000/BWBR0011400/README.md) en [14, tweede lid, onderdeel d, van het Uitvoeringsbesluit Les- en cursusgeldwet 2000](../../../../../../AMvB/uitvoeringsbesluit/les-/en/cursusgeldwet/2000/BWBR0011400/README.md) ( Stb. 250);
+Gelet op de artikelen 2, vierde lid, 3, tweede lid, 4, vierde lid, 6, tweede lid, onderdeel c, en vierde lid, 7, derde lid, 8, 9, tweede lid, 10 en 14, tweede lid, onderdeel d, van het Uitvoeringsbesluit Les- en cursusgeldwet 2000 ( Stb. 250);
 Besluit:    
 
 ### Artikel  1  

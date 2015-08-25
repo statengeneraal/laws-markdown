@@ -10,11 +10,11 @@ Hierbij bericht de Minister van Onderwijs, Cultuur en Wetenschap te hebben beslo
 
 In deze beleidsregel wordt verstaan onder: 
 
-a.  *WSF 2000:* [Wet studiefinanciering 2000](../../../../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md),  
+a.  *WSF 2000:* Wet studiefinanciering 2000,  
 
 b.  *thuiswonende studerende:* studerende die niet een uitwonende studerende is,  
 
-c.  *uitwonende studerende:* uitwonende studerende als bedoeld in [artikel 1.1, eerste lid, van de WSF 2000](../../../../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md),  
+c.  *uitwonende studerende:* uitwonende studerende als bedoeld in artikel 1.1, eerste lid, van de WSF 2000,  
 
 d.  *adres van de onderwijsinstelling:* het adres waar de studerende daadwerkelijk aan het onderwijs deelneemt,  
 
@@ -28,8 +28,8 @@ f.  *woonadres:* adres waaronder de studerende in de gemeentelijke basisadminist
 
 1.  Op verzoek van een thuiswonende studerende, die kan aantonen dat hij voor het verkeer tussen het woonadres en het adres van de onderwijsinstelling waarbij hij is ingeschreven of het stageadres voor het vervoer als voetganger op een pontveer per maand meer dan € 30,– moet besteden, kan de Dienst Uitvoering Onderwijs het meerdere vergoeden.   
 2.  Op verzoek van een uitwonende studerende, die kan aantonen dat hij voor het verkeer tussen het woonadres en het stageadres voor het vervoer als voetganger op een pontveer per maand meer dan € 30,– moet besteden, kan de Dienst Uitvoering Onderwijs het meerdere vergoeden.   
-3.  Op verzoek van een thuiswonende studerende, die kan aantonen dat hij de onderwijsinstelling, waarbij hij is ingeschreven, of het stageadres, met gebruikmaking van het openbaar vervoer niet of niet tijdig kan bereiken of met gebruikmaking van het openbaar vervoer niet meer thuis kan komen, kan de Dienst Uitvoering Onderwijs een tegemoetkoming toekennen gelijk aan het bedrag, bedoeld in [artikel 5.3, tweede lid, van de WSF 2000](../../../../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md).   
-4.  Op verzoek van een uitwonende studerende, die kan aantonen dat hij het stageadres met gebruikmaking van het openbaar vervoer niet of niet tijdig kan bereiken of met gebruikmaking van het openbaar vervoer niet meer thuis kan komen, kan de Dienst Uitvoering Onderwijs een tegemoetkoming toekennen gelijk aan het bedrag, bedoeld in [artikel 5.3, tweede lid, van de WSF 2000](../../../../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md).   
+3.  Op verzoek van een thuiswonende studerende, die kan aantonen dat hij de onderwijsinstelling, waarbij hij is ingeschreven, of het stageadres, met gebruikmaking van het openbaar vervoer niet of niet tijdig kan bereiken of met gebruikmaking van het openbaar vervoer niet meer thuis kan komen, kan de Dienst Uitvoering Onderwijs een tegemoetkoming toekennen gelijk aan het bedrag, bedoeld in artikel 5.3, tweede lid, van de WSF 2000.   
+4.  Op verzoek van een uitwonende studerende, die kan aantonen dat hij het stageadres met gebruikmaking van het openbaar vervoer niet of niet tijdig kan bereiken of met gebruikmaking van het openbaar vervoer niet meer thuis kan komen, kan de Dienst Uitvoering Onderwijs een tegemoetkoming toekennen gelijk aan het bedrag, bedoeld in artikel 5.3, tweede lid, van de WSF 2000.   
 5.  Het derde en vierde lid zijn niet van toepassing indien de afstand tussen het adres van de onderwijsinstelling of het stageadres en het woonadres van de studerende minder dan 10 kilometer bedraagt.  
 
 ### Artikel  3  

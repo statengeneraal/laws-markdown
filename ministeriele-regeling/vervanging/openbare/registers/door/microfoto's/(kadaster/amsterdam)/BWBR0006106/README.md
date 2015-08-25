@@ -3,7 +3,7 @@
 ##Vervanging openbare registers door microfoto's (Kadaster Amsterdam)
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op [artikel 9 van de Kadasterwet](../../../../../../../../../wet/kadasterwet/BWBR0004541/README.md) (Stb. 1991, 570),
+Gelet op artikel 9 van de Kadasterwet (Stb. 1991, 570),
 Besluit:    
 
 ### Artikel  1  

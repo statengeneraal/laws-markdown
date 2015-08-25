@@ -2,25 +2,25 @@
 
 ##Prestatiebeschrijvingsbeschikking
 
-De Nederlandse Zorgautoriteit, heeft krachtens de [paragrafen 2](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), [4](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [5 van hoofdstuk 4 van de Wmg](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md)  *op basis van de beleidsregel:*  Prestatiebekostiging multidisciplinaire zorgverlening chronische aandoeningen (DM type 2<sup> 1 Diabetes Mellitus type 2 voor personen ≥ 18 jaar. </sup>, CVR<sup> 2 Cardiovasculair risicomanagement. </sup>, COPD<sup> 3  *Chronic Obstructive Pulmonary Disease.*  </sup>)  *en gelet op:*  [Wmg-artikel 35](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [art. 56 lid 4](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [53 lid 6](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md)  *besloten:*     dat rechtsgeldig  *door:*  zorgaanbieders die de hieronder omschreven prestatie(s) contracteren en leveren; en zorgaanbieders als bedoeld in [artikel 1 onder c sub2 van de Wmg](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (hierna te noemen: Hoofdcontractant)  *aan:*  alle ziektekostenverzekeraars met welke een rechtsgeldige schriftelijke overeenkomst als genoemd in de beleidsregel ‘Prestatiebekostiging multidisciplinaire zorgverlening chronische aandoeningen (DM type 2, CVR, COPD)’ is afgesloten en alle verzekerden van ziektekostenverzekeraars met welke een rechtsgeldige overeenkomst is afgesloten  *prestatiebeschrijving:*  de prestatie, 
+De Nederlandse Zorgautoriteit, heeft krachtens de paragrafen 2, 4 en 5 van hoofdstuk 4 van de Wmg  *op basis van de beleidsregel:*  Prestatiebekostiging multidisciplinaire zorgverlening chronische aandoeningen (DM type 2<sup> 1 Diabetes Mellitus type 2 voor personen ≥ 18 jaar. </sup>, CVR<sup> 2 Cardiovasculair risicomanagement. </sup>, COPD<sup> 3  *Chronic Obstructive Pulmonary Disease.*  </sup>)  *en gelet op:*  Wmg-artikel 35 en art. 56 lid 4 en 53 lid 6  *besloten:*     dat rechtsgeldig  *door:*  zorgaanbieders die de hieronder omschreven prestatie(s) contracteren en leveren; en zorgaanbieders als bedoeld in artikel 1 onder c sub2 van de Wmg (hierna te noemen: Hoofdcontractant)  *aan:*  alle ziektekostenverzekeraars met welke een rechtsgeldige schriftelijke overeenkomst als genoemd in de beleidsregel ‘Prestatiebekostiging multidisciplinaire zorgverlening chronische aandoeningen (DM type 2, CVR, COPD)’ is afgesloten en alle verzekerden van ziektekostenverzekeraars met welke een rechtsgeldige overeenkomst is afgesloten  *prestatiebeschrijving:*  de prestatie, 
 
 1. Multidisciplinaire zorgverlening voor Diabetes Mellitus type 2 voor personen ≥ 18 jaar (DM type 2) 
 
-* Met code 40001 voor zorgonderdelen die vallen onder de te verzekeren prestaties op grond van de [Zorgverzekeringswet](../../../wet/zorgverzekeringswet/BWBR0018450/README.md)  
+* Met code 40001 voor zorgonderdelen die vallen onder de te verzekeren prestaties op grond van de Zorgverzekeringswet  
 
-* Met code 40002 voor zorgonderdelen die vallen buiten de te verzekeren prestaties op grond van de [Zorgverzekeringswet](../../../wet/zorgverzekeringswet/BWBR0018450/README.md)    
+* Met code 40002 voor zorgonderdelen die vallen buiten de te verzekeren prestaties op grond van de Zorgverzekeringswet    
 
 2. Multidisciplinaire zorgverlening voor Cardiovasculair Risicomanagement (CVR) 
 
-* Met code 40011 voor zorgonderdelen die vallen onder de te verzekeren prestaties op grond van de [Zorgverzekeringswet](../../../wet/zorgverzekeringswet/BWBR0018450/README.md)  
+* Met code 40011 voor zorgonderdelen die vallen onder de te verzekeren prestaties op grond van de Zorgverzekeringswet  
 
-* Met code 40012 voor zorgonderdelen die vallen buiten de te verzekeren prestaties op grond van de [Zorgverzekeringswet](../../../wet/zorgverzekeringswet/BWBR0018450/README.md)    
+* Met code 40012 voor zorgonderdelen die vallen buiten de te verzekeren prestaties op grond van de Zorgverzekeringswet    
 
 3. Multidisciplinaire zorgverlening voor Chronic Obstructive Pulmonary Disease (COPD) 
 
-* Met code 40021voor zorgonderdelen die vallen onder de te verzekeren prestaties op grond van de [Zorgverzekeringswet](../../../wet/zorgverzekeringswet/BWBR0018450/README.md)  
+* Met code 40021voor zorgonderdelen die vallen onder de te verzekeren prestaties op grond van de Zorgverzekeringswet  
 
-* Met code 40022 voor zorgonderdelen die vallen buiten de te verzekeren prestaties op grond van de [Zorgverzekeringswet](../../../wet/zorgverzekeringswet/BWBR0018450/README.md)     zoals beschreven in de beleidsregel Prestatiebekostiging multidisciplinaire zorgverlening chronische aandoeningen (DM type 2, CVR, COPD): in rekening kan worden gebracht als is voldaan aan de voorwaarden zoals omschreven in: 
+* Met code 40022 voor zorgonderdelen die vallen buiten de te verzekeren prestaties op grond van de Zorgverzekeringswet     zoals beschreven in de beleidsregel Prestatiebekostiging multidisciplinaire zorgverlening chronische aandoeningen (DM type 2, CVR, COPD): in rekening kan worden gebracht als is voldaan aan de voorwaarden zoals omschreven in: 
 
 * beleidsregel Prestatiebekostiging multidisciplinaire zorgverlening chronische aandoeningen (DM type 2, CVR, COPD)  
 

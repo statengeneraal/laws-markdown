@@ -32,7 +32,8 @@ In deze regeling wordt verstaan onder: afdeling: een afdeling als bedoeld in art
 
 ####Splitsing van scholen en scholengemeenschappen
 
-De methodiek voor het opstellen van de leerlingprognose die voor splitsing van een school of scholengemeenschap vereist is op grond van artikel 65, eerste en tweede lid, van de wet, wordt vastgesteld overeenkomstig bijlage 3. 
+1. De methodiek voor het opstellen van de leerlingprognose die voor splitsing van een school of scholengemeenschap vereist is op grond van artikel 65, eerste en tweede lid, van de wet, wordt vastgesteld overeenkomstig bijlage 3.  
+2.   Het bevoegd gezag maakt bij de aanvraag voor splitsing gebruik van het aanvraagformulier dat is opgenomen in bijlage 2. 
 
 ### Artikel  4  
 
@@ -72,8 +73,6 @@ Het bevoegd gezag meldt voor 1 april van enig kalenderjaar schriftelijk aan de D
 ### Artikel  7a  
 
 ####Omzetting bijzondere school in een openbare school
-
-Treedt in werking per 01-10-2014 
 
 Het bevoegd gezag meldt voor 1 april van enig kalenderjaar schriftelijk aan de Minister het voornemen van de omzetting van een bijzondere school in een openbare school per 1 augustus van dat kalenderjaar. Bij de melding toont het bevoegd gezag aan dat het overleg heeft gevoerd met burgemeester en wethouders van de betreffende gemeente. 
 
@@ -240,7 +239,13 @@ In de praktijk blijkt dat de belangstelling – anders gezegd het deelnamepercen
 
 ####bij de Regeling voorzieningenplanning VO
 
-Niet opgenomen.
+![254169](http://wetten.overheid.nl/Illustration/254169)
+![254170](http://wetten.overheid.nl/Illustration/254170)
+![254171](http://wetten.overheid.nl/Illustration/254171)
+![254172](http://wetten.overheid.nl/Illustration/254172)
+![254173](http://wetten.overheid.nl/Illustration/254173)
+![254174](http://wetten.overheid.nl/Illustration/254174)
+![254175](http://wetten.overheid.nl/Illustration/254175)
 
 ### Bijlage 3 
 
@@ -313,7 +318,7 @@ Nieuwe school
 | 5  | 3456  | 10%  | Gemeente y: 190  | 19  |
 |  *TOTAAL*   |  *72*   |
 
-Prognoses voor beide scholen over 10 jaar: Zie boven maar dan met basisgeneraties voor t+10. Totalen vermenigvuldigen met de gemiddelde verblijfsduur<sup>1</sup> is het leerlingpotentieel. Voor goedkeuring van splitsing dient het leerlingpotentieel voor zowel het 6e als 10e jaar groter te zijn dan de stichtingsnorm. 
+Prognoses voor beide scholen over 10 jaar: Zie boven maar dan met basisgeneraties voor t+10. De splitsing wordt goedgekeurd als de totale uitkomsten van de prognoses voor zowel het zesde als het tiende jaar gelijk zijn aan of groter zijn dan de stichtingsnorm. 
 
 ### Bijlage 4 
 
@@ -335,39 +340,112 @@ Voor verbreding hoeft geen minimum aantal leerlingen te worden aangetoond. Voor 
 
 ####bij de Regeling voorzieningenplanning VO
 
-Niet opgenomen.
+![254176](http://wetten.overheid.nl/Illustration/254176)
+![254177](http://wetten.overheid.nl/Illustration/254177)
+![254178](http://wetten.overheid.nl/Illustration/254178)
 
 ### Bijlage 6 
 
 ####bij de Regeling voorzieningenplanning VO
 
-Niet opgenomen.
+![254179](http://wetten.overheid.nl/Illustration/254179)
+![254180](http://wetten.overheid.nl/Illustration/254180)
+![254181](http://wetten.overheid.nl/Illustration/254181)
+![254182](http://wetten.overheid.nl/Illustration/254182)
 
 ### Bijlage 7 
 
 ####bij de Regeling voorzieningenplanning VO
 
-#### *Berekening leerlingverlies*
+####Inleiding
 
-Bij een aanvraag op grond van artikel 72, derde of vierde lid, van de wet, wordt het leerlingverlies bij een vestiging van een school of scholengemeenschap van een bevoegd gezag dat niet deelneemt aan de regionale samenwerking, door dat bevoegd gezag als volgt berekend. In het volgende wordt onder een school tevens een scholengemeenschap verstaan. 
+De vorming van een nieuwe nevenvestiging leidt tot wijziging van de leerlingstromen. Dat geldt ook voor de uitbreiding van het onderwijsaanbod op een bestaande vestiging (als gevolg van een aanvraag ex artikel 72, derde of vierde lid WVO) met dezelfde schoolsoort(en) als op een in de nabijheid gelegen andere school. De reden daarvoor is dat de afstand tussen het woonadres van een leerling en de (vestiging van een) school een van de belangrijkste motieven vormt bij de schoolkeuze. Met andere woorden: leerlingen van een bestaande school kiezen wellicht voor een nieuwe (vestiging van een) school – met de zelfde schoolsoort(en) – als die laatste school dichter bij hun woonadres gelegen is. Voor de bestaande school levert de nieuwe vestiging of uitbreiding van het onderwijsaanbod mogelijk leerlingverlies op. Een nieuwe nevenvestiging of uitbreiding van het onderwijsaanbod komen tot stand in een regionaal plan onderwijsvoorzieningen (RPO). De mogelijk benadeelde school kan zijn bedenkingen tegen de voorgenomen nieuwe onderwijsvoorziening kenbaar maken (zie artikel 72, zesde lid van de WVO). Het bestuur van de bestaande school dat niet deelneemt aan het RPO, moet het leerlingverlies aantonen. Bedraagt het leerlingverlies meer dan 10%, dan wordt de aanvraag voor de nieuwe voorziening in het RPO door de Minister afgewezen, tenzij het bewuste bestuur heeft verklaard met het leerlingverlies in te stemmen. De Minister zal de geuite bedenkingen pas meewegen in zijn besluit als het adres van de nieuwe nevenvestiging vaststaat. Zo lang dat niet het geval is, kan een exacte verliesberekening immers niet plaats vinden. 
 
-#### *a. Algemeen* 
+####Berekening leerlingverlies
 
-Op basis van het jaar voorafgaand aan het jaar van de aanvraag wordt het leerlingverlies voor een vestiging van een omliggende school berekend door – op basis van de kortste afstand, hemelsbreed gemeten – de leerlingen per schoolsoort toe te rekenen aan de vestiging van de school van de aanvrager of aan de vestiging van de omliggende school. 
+###*a. Algemeen*
 
-#### *b. Nadere uitwerking berekeningsmethode bij verplaatsing, uitbreiding met afsluitend onderwijs, gemengde leerweg of een vbo-afdeling* 
+Begripsbepalingen. Hieronder wordt verstaan onder: Onderbouw: voor vbo en mavo de eerste twee leerjaren en voor havo en vwo de eerste drie leerjaren; Bovenbouw: de overige leerjaren van vbo, mavo, havo en vwo. Het leerlingverlies voor de bestaande school wordt berekend op basis van de leerlingtelling in het kalenderjaar voorafgaand aan het jaar van de aanvraag van de nieuwe voorziening. Dit gebeurt door de leerlingen van de bestaande school per schoolsoort en per postcodegebied toe te rekenen aan de bestaande school of aan de nieuwe school op basis van de hemelsbreed gemeten, kortste afstand.
+###*Toelichting*
 
-Het leerlingverliespercentage wordt bij een voorziening als bedoeld in artikel 72, derde lid, onderdelen a, d, e en f, van de wet gelijkgesteld aan het leerlingverliespercentage van de betreffende vestiging, berekend op basis van de leerjaren drie en hoger. Dit houdt in, dat het leerlingverliespercentage in de leerjaren één en twee gelijkgesteld wordt aan dat voor de leerjaren drie en hoger. Bij een categoriale school wordt het leerlingverlies berekend op basis van alle leerjaren. 
+Op basis van hemelsbreed de kortste afstand rekent men de leerlingen van de betreffende schoolsoort(en) per groep uit hetzelfde postcodegebied (dus niet individueel) toe aan de bestaande of de nieuwe school. Voor de bepaling van de afstand gaat men uit van het middelpunt van het postcodegebied. Het bestuur van de bestaande school kan informatie inwinnen over aantallen leerlingen per schoolsoort per postcodegebied alsook over de hemelsbreed gemeten afstand vanuit een postcodegebied tot bepaalde adressen, bij: DUO, Onderwijsdiensten, Postbus 606, 2700 ML in Zoetermeer.
+###*b. Nadere uitwerking berekeningsmethode bij verplaatsing, uitbreiding met afsluitend onderwijs, gemengde leerweg of een vbo-afdeling (tevens voor een nieuwe nevenvestiging waaraan bij de totstandkoming ook afsluitend onderwijs wordt toegestaan)*
 
-#### *c. Nadere uitwerking berekeningsmethode bij een nieuwe nevenvestiging* 
+Bij een voorziening als bedoeld in artikel 72, derde lid, onderdelen a, d, e, en f van de WVO geldt voor de berekening van het leerlingverlies stapsgewijs de volgende methode. 
 
-Het leerlingverlies van een vestiging van de betreffende school of scholengemeenschap wordt bij een voorziening als bedoeld in artikel 72, derde lid onderdeel b, van de wet berekend op basis van de eerste twee leerjaren voor wat betreft vbo en mavo en voor de eerste drie leerjaren voor wat betreft havo en vwo; daarbij wordt het aandeel van de schoolsoorten voor alle leerjaren in de onderbouw gelijkgesteld aan het aandeel van die schoolsoorten in leerjaar drie. Voor het voedingsgebied van de vestiging van de school van de aanvrager (dus van de nieuwe nevenvestiging) geldt de definitie als in bijlage 1. Bij het toerekenen van de leerlingen per schoolsoort aan de vestiging van de school van de aanvrager – op basis van de kortste afstand, hemelsbreed gemeten – worden de viercijferige postcodegebieden gehanteerd die geheel of gedeeltelijk op de kortste afstand van de nieuwe vestiging zijn gelegen. 
+1. Het leerlingverlies eerst in absolute aantallen per schoolsoort voor de bovenbouw berekenen (volgens de kortste afstand, zie hierboven);  
 
-#### *d. Vermindering leerlingverlies bij als de aanvraag uitgaat van een andere richting dan de bestaande school* 
+2. De absolute aantallen per schoolsoort uitdrukken in een percentage van het totaal aantal leerlingen van de betreffende schoolsoort(en) in de bovenbouw;  
 
-Van het leerlingverlies zoals berekend op grond van de berekeningsmethode onder a en b, of a en c, wordt 25% afgetrokken als de omliggende school waarvoor dat verlies is berekend van een andere richting is dan de school die zijn voorzieningen wil uitbreiden. 
+3. Het leerlingverliespercentage van de bovenbouw gelijkstellen aan dat van de onderbouw. 
 
-#### *Rekenvoorbeeld* 
+− In geval van een of meer gemeenschappelijke leerjaren met een of meer schoolsoorten waarvoor het leerlingverlies wordt berekend:    
 
-Stel school A wil op vestiging 01 (A01) een uitbreiding met havo afsluitend onderwijs. Op korte afstand ligt vestiging 02 van school B (B02). Gelet op de kortste afstand kan het leerlingverlies voor de vestiging B02 voor havo, leerjaren drie tot en met vijf berekend worden op 60 leerlingen (20%). Vervolgens wordt aangenomen, dat ook voor de leerjaren één en twee van het havo op vestiging B02 een leerlingverlies van 20% geldt. Daarmee komt het totale leerlingverlies voor het havo bijvoorbeeld op 80 leerlingen. Vestiging B02 omvat naast havo ook een andere schoolsoort namelijk vwo. Het aantal leerlingen van B02 is 660. Het leerlingverliespercentage voor de vestiging met havo en vwo is 80 gedeeld door 660 is 12%. Daarvan wordt, als de bestaande vestiging B02 van een andere richting is dan het aangevraagde havo afsluitend onderwijs, 25% afgetrokken (zie onder d). Het leerlingverliespercentage is dan 9% (kleiner dan 10%). Een eventueel bezwaar van het bevoegd gezag van school B tegen de uitbreiding wordt dan niet gehonoreerd. Zou B02 van dezelfde richting zijn als het aangevraagde havo afsluitend onderwijs dan wordt het bezwaar gehonoreerd (verliespercentage is 12% en dus hoger dan de grens van 10%). Verplaatsing over een afstand van minder dan drie kilometer hemelsbreed is toegestaan op basis van artikel 71, eerste lid, van de Wet op het Voorgezet Onderwijs. Daarvoor is dus geen leerlingverliesberekening nodig. 
+4. Het leerlingverliespercentage voor de onderbouw uitdrukken in een absoluut aantal leerlingen, in twee stappen, te weten: 
+
+a. Het aantal leerlingen van een schoolsoort in de onderbouw berekenen volgens de verhouding van het aantal leerlingen van die schoolsoort in de bovenbouw ten opzichte van de aantallen leerlingen van de andere schoolsoorten in de bovenbouw.  
+
+b. Het volgens a berekende aantal leerlingen van een schoolsoort vermenigvuldigen met het verliespercentage conform de bovenbouw.   
+
+− In geval van zelfstandige leerjaren in de onderbouw:    
+
+4. De leerlingen van de betreffende schoolsoort(en) in de onderbouw vermenigvuldigen met het percentage leerlingverlies in de bovenbouw (uitkomst stap 2);  
+
+5. Het absolute leerlingverlies per schoolsoort voor de onderbouw en de bovenbouw optellen.  
+
+6. Het totaal aantal leerlingen van onder- en bovenbouw dat het verlies vormt, tot slot uitdrukken in een percentage ten opzichte van het totaal aantal leerlingen van de bestaande (vestiging van de) school.   Uitbreiding met afsluitend onderwijs, gemengde leerweg of een vbo-afdeling heeft formeel slechts gevolgen voor de leerjaren in de bovenbouw. De veronderstelling is echter dat een dergelijke uitbreiding ook aanzuigende werking heeft op de leerjaren in de onderbouw. Vandaar dat ook leerlingverlies in de onderbouw mag worden meegerekend. Bij een categorale school wordt het leerlingverlies berekend op basis van alle leerjaren. Dit wil zeggen dat alle leerlingen van die bepaalde schoolsoort die (vanwege de kortere afstand) voor de nieuwe school zouden opteren, bij elkaar worden opgeteld. Dat totale leerlingverlies wordt afgezet tegen het totaal aantal leerlingen van de (betreffende vestiging van de) categorale school en in het leerlingverliespercentage uitgedrukt.
+###*Rekenvoorbeeld*
+
+Stel school A wil op vestiging 01 (A01) een uitbreiding met havo afsluitend onderwijs. Op korte afstand ligt vestiging 02 van school B (B02) waar – naast vwo – ook havo wordt aangeboden. Vestiging B02 kent de volgende samenstelling van leerlingen:  
+
+| Onderbouw  | Bovenbouw  | Totaal  |
+|:---|:---|:---|
+| Havo/vwo:  | 360  | havo:  | 200  | 660  |
+| --- | --- | vwo:  | 100  | --- |
+
+Gelet op de kortste afstand kan het leerlingverlies voor de vestiging B02 voor havo, leerjaren vier en vijf, berekend worden op 34 van de in totaal 200 havo-leerlingen in de bovenbouw van B02, zijnde 17% (stappen 1 en 2 onder *b)*. Vervolgens wordt aangenomen, dat ook voor de leerjaren één en tot en met drie van het havo op vestiging B02 een leerlingverlies van 17% geldt (stap 3 onder *b*). Het aantal leerlingen havo in de onderbouw bedraagt in de verhouding havo-vwo in de bovenbouw: 2/3 x 360 = 240 leerlingen. Het leerlingverlies havo voor de onderbouw is dan 17% van 240 = 41 leerlingen (stappen 4a en b onder *b)*. Daarmee komt het totale leerlingverlies voor het havo op 75 leerlingen (stap 5 onder *b)*. Vestiging B02 omvat in totaal 660 leerlingen. Het leerlingverliespercentage voor de vestiging met havo en vwo is 11% (75 gedeeld op 660). Het leerlingverlies wordt namelijk berekend over het totaal aantal leerlingen van alle goedgekeurde schoolsoorten op vestiging B02 (stap 6 onder *b)*. Daarvan wordt, als de bestaande vestiging B02 van een andere richting is dan het aangevraagde havo afsluitend onderwijs, 25% afgetrokken (zie *d*). Het leerlingverliespercentage is dan 8%. Eventuele bedenkingen van het bevoegd gezag van school B tegen de uitbreiding wordt dan niet meegewogen in het besluit, omdat het leerlingverlies immers kleiner is dan 10%. Zou B02 van dezelfde richting zijn als het aangevraagde havo afsluitend onderwijs dan wordt de aanvraag afgewezen (verliespercentage is 11% en dus hoger dan de grens van 10%). 
+###*c. Nadere uitwerking berekeningsmethode bij een nieuwe nevenvestiging met alleen onderbouw*
+
+Bij de vorming van een nieuwe nevenvestiging, als bedoeld in artikel 72, derde lid onderdeel b van de WVO, wordt het leerlingverlies van een bestaande vestiging van een school of scholengemeenschap berekend op basis van de onderbouw. Hier gelden de volgende methoden: 
+
+A. In geval van een of meer gemeenschappelijke leerjaren met een of meer schoolsoorten waarvoor het leerlingverlies wordt berekend: 
+
+1. Stappen 1 tot en met 4 conform *b;*   
+
+2. Het absolute leerlingverlies in de gemeenschappelijke leerjaren en in de zelfstandige leerjaren van de onderbouw optellen.  
+
+3. Het totaal aantal leerlingen van de onderbouw dat het verlies vormt, tot slot uitdrukken in een percentage ten opzichte van het totaal aantal leerlingen van de bestaande (vestiging van de) school.    
+
+B. In geval van zelfstandige leerjaren in de onderbouw waarvoor het leerlingverlies wordt berekend of in geval van een categorale bestaande school: 
+
+1. Het leerlingverlies per schoolsoort voor de onderbouw berekenen (volgens de kortste afstand, zie hierboven);  
+
+2. Het aantal leerlingen van stap 1 uitdrukken in een percentage ten opzichte van het totaal aantal leerlingen van de bestaande (vestiging van de) school.    
+###*Rekenvoorbeeld*
+
+Stel school A wil een nieuwe nevenvestiging met alleen onderbouw mavo en vbo starten. Op korte afstand ligt de hoofdvestiging van school B (B00) waar, naast vwo en havo, ook mavo en vbo worden aangeboden. Vestiging B00 kent de volgende samenstelling van leerlingen:
+
+| Onderbouw  | Bovenbouw  | Totaal  |
+|:---|:---|:---|
+| Vwo/havo/mavo:  | 200<sup>*</sup>  | mavo:  | 200  | 1 260  |
+| mavo/vbo:  | 300<sup>*</sup>  | vbo:  | 200  | --- |
+| havo lj. 3:  | 60  | havo:  | 150  | --- |
+| vwo lj. 3:  | 50  | vwo:  | 100  | --- |
+
+<sup>*</sup>: leerjaren een en twee gemeenschappelijkGelet op de kortste afstand kan het leerlingverlies voor de vestiging B00 voor mavo en vbo, leerjaren drie en vier, berekend worden op 80 van de in totaal 400 mavo/vbo-leerlingen in de bovenbouw van B00, zijnde 20% (stappen 1 en 2 cf onder *b)*. Vervolgens wordt aangenomen, dat ook voor de leerjaren één en twee van het vbo en mavo op vestiging B02 een leerlingverlies van 20% geldt (stap 3 cf onder *b*). Het aantal leerlingen mavo in de gemeenschappelijke leerjaren vwo/havo/mavo bedraagt in de verhouding vwo/havo/mavo in de bovenbouw: 200/450 x 200 = 89 leerlingen. Het leerlingverlies mavo voor de gemeenschappelijke leerjaren is dan 20% van 89 = 18 leerlingen (stappen 4a en b cf onder *b).* Het leerlingverlies voor de onderbouw mavo/vbo bedraagt 20% van 300= 60 leerlingen (stap 4 sec onder *b)*. Daarmee komt het totale leerlingverlies voor vbo en mavo op 78 leerlingen (stap A 2 onder *c)*. Vestiging B00 omvat in totaal 1 260 leerlingen. Het leerlingverliespercentage gerekend over de gehele vestiging B00 is 6% (78 gedeeld op 1 260). Het leerlingverlies wordt namelijk berekend over het totaal aantal leerlingen van alle goedgekeurde schoolsoorten op vestiging B02 (stap A 3 onder *c)*. Eventuele bedenkingen van het bevoegd gezag van school B00 tegen de uitbreiding worden niet meegewogen in het besluit, omdat het leerlingverlies immers kleiner is dan 10%. Als de school A van een andere richting is dan school B00 is de vermindering van het leerlingverlies als bedoeld onder *d* ook op deze berekening van toepassing.
+###*d. Vermindering leerlingverlies bij een aanvraag die uitgaat van een andere richting dan de bestaande school*
+
+Van het leerlingverlies, zoals berekend op grond van a en b of op grond van a en c, wordt 25 procent afgetrokken als de bestaande school waarvoor dat verlies is berekend, van een andere richting is dan de school die zijn voorzieningen wil uitbreiden. Dit vanuit de aanname dat een deel van de leerlingen dat weliswaar dichter bij de nieuwe voorziening woont, tóch blijft kiezen voor de bestaande voorziening vanwege de keuze voor de richting.
+###*e. Afsplitsing (artikel 72, derde lid, onderdeel c)*
+
+Bij een afsplitsing die niet gepaard gaat met een verplaatsing is leerlingverlies niet aannemelijk. Als de afsplitsing gepaard gaat met een verplaatsing over een afstand van meer dan drie kilometer hemelsbreed gemeten is het gestelde onder *b * van toepassing.
+
+###Bijlage 8 
+
+####bij de Regeling voorzieningenplanning VO
+
+Treedt in werking per 01-01-2016 
+
+![255987](http://wetten.overheid.nl/Illustration/255987)
+![255988](http://wetten.overheid.nl/Illustration/255988)
 

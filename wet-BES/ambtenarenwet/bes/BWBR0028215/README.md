@@ -8,7 +8,7 @@
 
 ### Artikel  1  
 
-1.  Ambtenaar in de zin van deze wet en de daarop berustende bepalingen is degene die door het bevoegde gezag is aan gesteld om in openbare dienst op Bonaire, Sint Eustatius of Saba werkzaam te zijn en niet is aangesteld op grond van de [Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md).   
+1.  Ambtenaar in de zin van deze wet en de daarop berustende bepalingen is degene die door het bevoegde gezag is aan gesteld om in openbare dienst op Bonaire, Sint Eustatius of Saba werkzaam te zijn en niet is aangesteld op grond van de Ambtenarenwet.   
 2.  Tot de openbare dienst behoren alle diensten en bedrijven door de staat en de openbare lichamen Bonaire, Sint Eustatius en Saba beheerd, met inbegrip van het van overheidswege gegeven openbare onderwijs.   
 3.  Zij met wie een arbeidsovereenkomst is gesloten naar burgerlijk recht zijn geen ambtenaren in de zin van deze wet en de daarop berustende bepalingen.   
 4.  In deze wet en de daarop berustende bepalingen wordt onder openbaar lichaam verstaan: openbaar lichaam Bonaire, Sint Eustatius of Saba.  
@@ -19,7 +19,7 @@ In deze wet en de daarop berustende bepalingen wordt, tenzij anders is bepaald, 
 
 a. de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
-b. krachtens de [Grondwet](../../../../wet/grondwet/BWBR0001840/README.md) of de wet voor het leven benoemde ambtenaren;  
+b. krachtens de Grondwet of de wet voor het leven benoemde ambtenaren;  
 
 c. de gezaghebber en de gedeputeerden;  
 
@@ -58,7 +58,7 @@ d. de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius e
 ### Artikel  6A  
 
 1.  Voor de vervulling van een vertrouwensfunctie komt slechts in aanmerking degene die Nederlander is. Degene die geen Nederlander is, kan niettemin voor de vervulling van een vertrouwensfunctie in aanmerking komen wanneer het dienstbelang dat bepaaldelijk vordert.   
-2.  Aan een ambtenaar kan eervol ontslag worden verleend, indien hij op grond van [artikel 5, derde lid](../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md), of [artikel 10, tweede lid, van de Wet veiligheidsonderzoeken](../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) uit een vertrouwensfunctie moet worden ontheven.   
+2.  Aan een ambtenaar kan eervol ontslag worden verleend, indien hij op grond van artikel 5, derde lid, of artikel 10, tweede lid, van de Wet veiligheidsonderzoeken uit een vertrouwensfunctie moet worden ontheven.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ter zake van het bepaalde in dit artikel.  
 
 ### Artikel  13  
@@ -114,7 +114,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld bet
 1.  De ambtenaar dient zich te onthouden van het openbaren van gedachten of gevoelens of van de uitoefening van het recht tot vereniging, tot vergadering en tot betoging, indien door de uitoefening van deze rechten de goede vervulling van zijn functie of de goede functionering van de openbare dienst, voor zover deze in verband staat met zijn functievervulling, niet in redelijkheid zou zijn verzekerd.   
 2.  Het eerste lid is, voor wat betreft het recht van vereniging, niet van toepassing op het lidmaatschap van: 
 
-a. een politieke groepering, waarvan de aanduiding is ingeschreven overeenkomstig de [Kieswet](../../../../wet/kieswet/BWBR0004627/README.md) of  
+a. een politieke groepering, waarvan de aanduiding is ingeschreven overeenkomstig de Kieswet of  
 
 b. een vakvereniging.    
 
@@ -284,7 +284,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld bet
 
 ### Artikel  124b  
 
-Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot voor het tijdstip van inwerkingtreding van [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](../../../../rijkswet/rijkswet/wijziging/statuut/in/verband/met/de/opheffing/van/de/nederlandse/etc/BWBR0028249/README.md) door ambtenaren in hun hoedanigheid van ambtenaar in de zin van de Landsverordening Materieel Ambtenarenrecht opgebouwde of verworven rechten en aanspraken. 
+Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot voor het tijdstip van inwerkingtreding van artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen door ambtenaren in hun hoedanigheid van ambtenaar in de zin van de Landsverordening Materieel Ambtenarenrecht opgebouwde of verworven rechten en aanspraken. 
 
 ### Artikel  125 t/m 129  
 

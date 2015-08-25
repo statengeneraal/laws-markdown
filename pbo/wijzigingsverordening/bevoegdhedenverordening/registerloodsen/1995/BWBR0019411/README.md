@@ -3,7 +3,7 @@
 ##Wijzigingsverordening Bevoegdhedenverordening registerloodsen 1995
 
 De ledenvergadering van de Nederlandse Loodsencorporatie,  
-Gelet op de [artikelen 4, eerste lid](../../../../../../wet/loodsenwet/BWBR0004365/README.md), en [15 van de Loodsenwet](../../../../../../wet/loodsenwet/BWBR0004365/README.md) (Stb. 1988, 353);
+Gelet op de artikelen 4, eerste lid, en 15 van de Loodsenwet (Stb. 1988, 353);
 Besluit:    
 
 ### Artikel  I  
@@ -12,11 +12,11 @@ Wijzigt de Bevoegdhedenverordening registerloodsen 1995.
 
 ### Artikel  II  
 
-Het bestuur van de regionale loodsencorporatie Rotterdam-Rijnmond plaatst de tot die regionale loodsencorporatie behorende registerloodsen, met ingang van de datum waarop deze verordening van kracht is, in de [artikel 9](../../../../../../pbo/bevoegdhedenverordening/registerloodsen/1995/BWBR0007399/README.md) genoemde bevoegdheden, zodanig dat de krachtens [artikel 9](../../../../../../pbo/bevoegdhedenverordening/registerloodsen/1995/BWBR0007399/README.md) toegekende bevoegdheid zoveel mogelijk overeen komt met de bevoegdheid van de registerloods op de dag voorafgaande aan de inwerkingtredingsdatum van deze verordening. 
+Het bestuur van de regionale loodsencorporatie Rotterdam-Rijnmond plaatst de tot die regionale loodsencorporatie behorende registerloodsen, met ingang van de datum waarop deze verordening van kracht is, in de artikel 9 genoemde bevoegdheden, zodanig dat de krachtens artikel 9 toegekende bevoegdheid zoveel mogelijk overeen komt met de bevoegdheid van de registerloods op de dag voorafgaande aan de inwerkingtredingsdatum van deze verordening. 
 
 ### Artikel  III  
 
-Het bestuur van de regionale loodsencorporatie Amsterdam-IJmond plaatst de tot die regionale loodsencorporatie behorende registerloodsen, met ingang van de datum waarop deze verordening van kracht is, in de [artikel 7](../../../../../../pbo/bevoegdhedenverordening/registerloodsen/1995/BWBR0007399/README.md) genoemde bevoegdheden, zodanig dat de krachtens [artikel 7](../../../../../../pbo/bevoegdhedenverordening/registerloodsen/1995/BWBR0007399/README.md) toegekende bevoegdheid zoveel mogelijk overeenkomt met de bevoegdheid van de registerloods op de dag voorafgaande aan de inwerkingtredingsdatum van deze verordening. 
+Het bestuur van de regionale loodsencorporatie Amsterdam-IJmond plaatst de tot die regionale loodsencorporatie behorende registerloodsen, met ingang van de datum waarop deze verordening van kracht is, in de artikel 7 genoemde bevoegdheden, zodanig dat de krachtens artikel 7 toegekende bevoegdheid zoveel mogelijk overeenkomt met de bevoegdheid van de registerloods op de dag voorafgaande aan de inwerkingtredingsdatum van deze verordening. 
 
 ### Artikel  IV  
 

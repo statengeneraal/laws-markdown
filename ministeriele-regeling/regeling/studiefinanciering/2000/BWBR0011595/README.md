@@ -189,6 +189,42 @@ Aanpassing van het bedrag genoemd in artikel 6.1, derde lid, geschiedt met de pr
 1.  De bacheloropleidingen, bedoeld in artikel 5.6, vijfde lid, onderdeel a, van de wet zijn de opleidingen in de kolommen ‘HBO-bachelor’ en ‘WO-bachelor’ van de bijlage bij deze regeling.   
 2.  De hbo-lerarenopleidingen, bedoeld in artikel 5.6, vijfde lid, onderdeel b, van de wet zijn opleidingen tot leraar genoemd in de kolom ‘Bevoegdheid’ van de bijlage bij deze regeling. Een hbo-lerarenopleiding is verwant met een opleiding als bedoeld in het eerste lid van dit artikel als deze twee opleidingen in dezelfde rij van de bijlage zijn opgenomen.  
 
+### Hoofdstuk  6b  
+
+####Cohortgarantie studievoorschot hoger onderwijs
+
+Treedt in werking per 01-09-2015 
+
+### Artikel  6b.1  
+
+####Aanspraken op grond van voormalig artikel 5.6 WSF 2000
+
+Treedt in werking per 01-09-2015 
+
+Voor de toepassing van artikel 12.14, eerste lid, van de wet wordt ten aanzien van de student, bedoeld in artikel 5.6, vijfde tot en met achtste en tiende lid, van de wet, zoals dat luidde op 31 augustus 2015, onder ‘nominale duur van die opleiding’ verstaan de nominale duur die voor de betreffende student van toepassing is, inclusief de verlenging met een jaar op grond van artikel 5.6 van de wet, zoals dat luidde op 31 augustus 2015. 
+
+### Artikel  6b.2  
+
+####Omzettingsmoment studieschuld van lening beroepsonderwijs naar lening hoger onderwijs
+
+Treedt in werking per 01-09-2015 
+
+De lening van een debiteur die op grond van artikel 10a.2, eerste lid, onderdeel b, of artikel 12.14, vijfde lid, van de wet een aanvraag heeft gedaan om die lening aan te merken als een lening hoger onderwijs, wordt met ingang van de datum waarop de aflosfase begint aangemerkt als een lening hoger onderwijs. 
+
+### Artikel  6b.3  
+
+####Toepassing nieuwe terugbetalingsregels op studieschuld waarop reeds is afgelost
+
+Treedt in werking per 01-09-2015 
+
+Voor de debiteur, bedoeld in artikel 10a.2, eerste lid, onderdeel b, of 12.14, vierde lid, van de wet, voor wie reeds een aflosfase is aangevangen voordat artikel 12.14, vijfde lid, van de wet op hem van toepassing wordt, geldt het verzoek om de lening aan te merken als een lening hoger onderwijs voor beide leningen, met dien verstande dat: 
+
+a. de aanvraag wordt ingediend vóór aanvang van de aflosfase van de lening waarop artikel 12.14, vijfde lid, van de wet van toepassing is, maar na 31 december 2016;  
+
+b. beide leningen worden aangemerkt als een lening hoger onderwijs met ingang van de datum waarop de aflosfase van de lening waarop artikel 12.14, vijfde lid, van de wet van toepassing is begint; en  
+
+c. de totale duur van de aflosfase voor de lening waarvoor reeds een aflosfase was aangevangen, wordt verminderd met het aantal maanden dat die aflosfase reeds had geduurd.   
+
 ### Hoofdstuk 7  
 
 ####Overgangsbepalingen

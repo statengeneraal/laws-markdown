@@ -3,7 +3,7 @@
 ##Verordening tot wijziging van de Bevoegdhedenverordening registerloodsen 1995
 
 De ledenvergadering van de Nederlandse Loodsencorporatie,  
-Gelet op de [artikelen 4, eerste lid](../../../../../../wet/loodsenwet/BWBR0004365/README.md), [15](../../../../../../wet/loodsenwet/BWBR0004365/README.md) en [16 van de Loodsenwet](../../../../../../wet/loodsenwet/BWBR0004365/README.md);
+Gelet op de artikelen 4, eerste lid, 15 en 16 van de Loodsenwet;
 Besluit:    
 
 ### Artikel  I  
@@ -12,7 +12,7 @@ Wijzigt de Bevoegdhedenverordening registerloodsen 1995.
 
 ### Artikel  II  
 
-Het bestuur van de regionale loodsencorporatie Rotterdam-Rijnmond plaatst de tot die regionale loodsencorporatie behorende registerloodsen, met ingang van de datum waarop deze verordening van kracht is, in de [artikel 9, vijfde lid](../../../../../../pbo/bevoegdhedenverordening/registerloodsen/1995/BWBR0007399/README.md), genoemde bevoegdheden, zodanig dat de krachtens artikel 9, vijfde lid, toegekende bevoegdheid zoveel mogelijk overeenkomt met de bevoegdheid van de registerloods op de dag voorafgaande aan de inwerkingtredingsdatum van deze verordening. 
+Het bestuur van de regionale loodsencorporatie Rotterdam-Rijnmond plaatst de tot die regionale loodsencorporatie behorende registerloodsen, met ingang van de datum waarop deze verordening van kracht is, in de artikel 9, vijfde lid, genoemde bevoegdheden, zodanig dat de krachtens artikel 9, vijfde lid, toegekende bevoegdheid zoveel mogelijk overeenkomt met de bevoegdheid van de registerloods op de dag voorafgaande aan de inwerkingtredingsdatum van deze verordening. 
 
 ### Artikel  III  
 

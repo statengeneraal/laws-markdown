@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de staatssecretaris van Onderwijs, Cultuur en Wetenschap van 23 april 2012, nr. 391421, van de directie Hoger Onderwijs en Studiefinanciering, in overeenstemming met Onze Minister van Financiën;
 
-Gelet op [artikel 7.65, vijfde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);
+Gelet op artikel 7.65, vijfde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  

@@ -92,6 +92,45 @@ Overzicht 2. Financieringsbronnen
 
 Van 1 januari 2015 tot 1 januari 2016 wordt het bedrag, genoemd in de artikelen 4.7, vierde lid, 4.18, tweede lid, 5.2, derde lid, en 10.3, derde lid, van de WSF 2000, vastgesteld op € 916,96. 
 
+### Artikel  8a  
+
+####Normbedrag kwijtschelding studieschuld
+
+Treedt in werking per 01-09-2015 
+
+Naar de maatstaf van 1 januari 2015 bedraagt het bedrag, genoemd in artikel 6.2a, tweede lid, van de WSF 2000, € 1.230,12. 
+
+### Artikel  8b  
+
+####Normbedragen cohortgarantie
+
+Treedt in werking per 01-09-2015 
+
+Naar de maatstaf van 1 januari 2015 bedragen de bedragen, genoemd in artikel 12.14, tweede lid, van de WSF 2000:  
+
+|--- | thuiswonende  | uitwonende  |
+|:---|:---|:---|
+| a. maandbedrag als bedoeld in overzicht 1 van artikel 3.18  | € 649,34  | € 854,13  |
+| b. basisbeurs als bedoeld in overzicht 2 van artikel 3.18  | € 102,77  | € 286,15  |
+| c. maximale aanvullende beurs of lening als bedoeld in overzicht 2 van artikel 3.18  | € 245,30  | € 266,71  |
+| d. basislening als bedoeld in overzicht 2 van artikel 3.18  | € 301,27  | € 301,27  |
+
+### Artikel  8c  
+
+####Normbedrag verhoogde aanvullende beurs
+
+Treedt in werking per 01-09-2015 
+
+Naar de maatstaf van 1 januari 2015 bedragen de bedragen, genoemd in artikel 12.16, eerste en tweede lid, van de WSF 2000, € 266,71 onderscheidenlijk € 109,67. 
+
+### Artikel  8d  
+
+####Normbedrag partnertoeslag
+
+Treedt in werking per 01-09-2015 
+
+Naar de maatstaf van 1 januari 2015 bedraagt het bedrag, genoemd in artikel 12.17, vierde lid, van de WSF 2000, € 598,95. 
+
 ### Hoofdstuk  3  
 
 ####Normen WTOS

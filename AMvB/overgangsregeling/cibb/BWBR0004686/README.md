@@ -23,10 +23,10 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepalingen
 
-1.  In deze regeling zijn de begripsbepalingen van het [Rechtspositiebesluit onderwijspersoneel](../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md) (*Stb.* 1985, 110) van overeenkomstige toepassing, behoudens het bepaalde in het tweede lid.   
+1.  In deze regeling zijn de begripsbepalingen van het Rechtspositiebesluit onderwijspersoneel (*Stb.* 1985, 110) van overeenkomstige toepassing, behoudens het bepaalde in het tweede lid.   
 2.   In deze regeling wordt verstaan onder:  
 
-a. "Rechtspositiebesluit": het [Rechtspositiebesluit onderwijspersoneel](../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md);  
+a. "Rechtspositiebesluit": het Rechtspositiebesluit onderwijspersoneel;  
 
 b. "instelling": de landelijke instelling voor de ondersteuning van de volwasseneneducatie het "Centrum voor de Innovatie voor Beroepsonderwijs Bedrijfsleven";  
 

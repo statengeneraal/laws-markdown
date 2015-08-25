@@ -12,7 +12,7 @@ een beoordelingskader, bestaande uit onderwerpen, facetten en criteria
 
 beslisregels
 
-een beschrijving van de werkwijze bij de toetsing van nieuwe opleidingen, met daarbij de criteria voor beoordeling van de toetsing en van het toetsingsrapport door de NAO.De beslissing over accreditatie van een nieuwe opleiding wordt gebaseerd op een toets aan de hand van zes *onderwerpen.*<sup>1In de [WHW art. 5.8,lid 2](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) wordt hiervoor het begrip 'aspect van kwaliteit' gehanteerd.</sup>Deze onderwerpen zijn:
+een beschrijving van de werkwijze bij de toetsing van nieuwe opleidingen, met daarbij de criteria voor beoordeling van de toetsing en van het toetsingsrapport door de NAO.De beslissing over accreditatie van een nieuwe opleiding wordt gebaseerd op een toets aan de hand van zes *onderwerpen.*<sup>1In de WHW art. 5.8,lid 2 wordt hiervoor het begrip 'aspect van kwaliteit' gehanteerd.</sup>Deze onderwerpen zijn:
 
 doelstellingen opleiding
 
@@ -49,7 +49,7 @@ condities voor continuïteitDe genoemde onderwerpen worden beoordeeld aan de han
 | Relatie tussen doelstellingen en programma  |Het beoogde programma, het didactisch concept, de werkvormen en de wijze van toetsing weerspiegelen de te bereiken eindkwalificaties van de opleiding  De te bereiken eindkwalificaties zijn aantoonbaar vertaald in leerdoelen van (onderdelen van) het beoogde programma   |
 |Samenhang programma |Het beoogde programma is inhoudelijk samenhangend |
 |Studielast |Het beoogde programma is studeerbaar doordat factoren die betrekking hebben op dat programma en die de studievoortgang belemmeren zoveel mogelijk worden weggenomen. |
-|Instroom |Het beoogde programma sluit qua vorm en inhoud aan bij de kwalificaties<sup>3 Voor de Open universiteit zijn deze instroomeisen niet van toepassing </sup> van de instromende studenten: HBO-bachelor: VWO, HAVO, middenkaderopleiding of specialistenopleiding ([WEB](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md)) of daarmee vergelijkbare kwalificaties, blijkend uit toelatingsonderzoek  WO-bachelor: VWO, HBO-propedeuse, HBO of daarmee vergelijkbare kwalificaties, blijkend uit toelatingsonderzoek  HBO- en WO-master: bachelor en eventueel (inhoudelijke) selectie   |
+|Instroom |Het beoogde programma sluit qua vorm en inhoud aan bij de kwalificaties<sup>3 Voor de Open universiteit zijn deze instroomeisen niet van toepassing </sup> van de instromende studenten: HBO-bachelor: VWO, HAVO, middenkaderopleiding of specialistenopleiding (WEB) of daarmee vergelijkbare kwalificaties, blijkend uit toelatingsonderzoek  WO-bachelor: VWO, HBO-propedeuse, HBO of daarmee vergelijkbare kwalificaties, blijkend uit toelatingsonderzoek  HBO- en WO-master: bachelor en eventueel (inhoudelijke) selectie   |
 |Duur |De opleiding voldoet aan formele eisen m.b.t. de omvang van het curriculum: |
 
 ###2.3 

@@ -3,7 +3,7 @@
 ##Vaststelling tarief beveiligingsheffing
 
 De Minister van Justitie,  
-Gelet op [artikel 37j, eerste en vierde lid, van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md):
+Gelet op artikel 37j, eerste en vierde lid, van de Luchtvaartwet:
 Besluit:     
 
 ### Artikel  1  

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet op de Ruimtelijke Ordening](../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md) aan te passen aan de uitkomsten van de evaluatie en voorts op enige andere punten te repareren;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de Wet op de Ruimtelijke Ordening aan te passen aan de uitkomsten van de evaluatie en voorts op enige andere punten te repareren;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -33,16 +33,16 @@ Wijzigt de Algemene wet bestuursrecht.
 
 1.  Ten aanzien van het nemen van besluiten op een aanvraag om: 
 
-a. vrijstelling ingevolge [artikel 19 van de Wet op de Ruimtelijke Ordening](../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md),  
+a. vrijstelling ingevolge artikel 19 van de Wet op de Ruimtelijke Ordening,  
 
 b. aanlegvergunning,  
 
 c. bouwvergunning of  
 
-d. een verklaring van geen bezwaar als bedoeld in [artikel 77, eerste lid, onder 2°, van de onteigeningswet](../../../../../../../../wet/onteigeningswet/BWBR0001842/README.md),   die is ingediend voor de datum van inwerkingtreding van de desbetreffende bepalingen van deze wet, blijft het recht zoals dat gold voor dat tijdstip van toepassing tot het tijdstip waarop het betrokken besluit onherroepelijk is geworden.   
-2.  Ten aanzien van ambtshalve te nemen besluiten krachtens de [Wet op de Ruimtelijke Ordening](../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md) waarvan het ontwerp ter inzage is gelegd voor de datum van inwerkingtreding van de desbetreffende bepalingen van deze wet, blijft het recht zoals dat gold voor dat tijdstip van toepassing.   
-3.  Ten aanzien van de mogelijkheid om bezwaar te maken of beroep in te stellen ingevolge [artikel 2a, tiende lid](../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md), [4a, zevende lid](../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md), [9, tweede lid](../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md), of [36e, vierde lid, van de Wet op de Ruimtelijke Ordening](../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md), zoals die bepalingen luidden voor de inwerkingtreding van deze wet, tegen een besluit dat voor die datum is bekendgemaakt, blijft het recht zoals dat gold voor dat tijdstip van toepassing.  
-4. Voor de toepassing van [artikel 24 van de Wet op de Ruimtelijke Ordening](../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md) gelden de onderdelen van een planologische kernbeslissing, een streekplan of een structuurplan, die zijn aan te merken als een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), als een concrete beleidsbeslissing, wanneer het ontwerp van een dergelijk plan voor 3 april 2000 ter inzage is gelegd.
+d. een verklaring van geen bezwaar als bedoeld in artikel 77, eerste lid, onder 2°, van de onteigeningswet,   die is ingediend voor de datum van inwerkingtreding van de desbetreffende bepalingen van deze wet, blijft het recht zoals dat gold voor dat tijdstip van toepassing tot het tijdstip waarop het betrokken besluit onherroepelijk is geworden.   
+2.  Ten aanzien van ambtshalve te nemen besluiten krachtens de Wet op de Ruimtelijke Ordening waarvan het ontwerp ter inzage is gelegd voor de datum van inwerkingtreding van de desbetreffende bepalingen van deze wet, blijft het recht zoals dat gold voor dat tijdstip van toepassing.   
+3.  Ten aanzien van de mogelijkheid om bezwaar te maken of beroep in te stellen ingevolge artikel 2a, tiende lid, 4a, zevende lid, 9, tweede lid, of 36e, vierde lid, van de Wet op de Ruimtelijke Ordening, zoals die bepalingen luidden voor de inwerkingtreding van deze wet, tegen een besluit dat voor die datum is bekendgemaakt, blijft het recht zoals dat gold voor dat tijdstip van toepassing.  
+4. Voor de toepassing van artikel 24 van de Wet op de Ruimtelijke Ordening gelden de onderdelen van een planologische kernbeslissing, een streekplan of een structuurplan, die zijn aan te merken als een besluit in de zin van artikel 1:3 van de Algemene wet bestuursrecht, als een concrete beleidsbeslissing, wanneer het ontwerp van een dergelijk plan voor 3 april 2000 ter inzage is gelegd.
 
 ### Artikel  VII  
 
@@ -50,7 +50,7 @@ Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer zendt b
 
 ### Artikel  VIII  
 
-De tekst van de [Wet op de Ruimtelijke Ordening](../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md) wordt in het Staatsblad geplaatst. Voor de plaatsing past Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer de aanduiding van de provinciale bestuursorganen aan aan die van de [Provinciewet](../../../../../../../../wet/provinciewet/BWBR0005645/README.md). 
+De tekst van de Wet op de Ruimtelijke Ordening wordt in het Staatsblad geplaatst. Voor de plaatsing past Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer de aanduiding van de provinciale bestuursorganen aan aan die van de Provinciewet. 
 
 ### Artikel  IX  
 

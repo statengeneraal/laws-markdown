@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 25 juni 2010, Directie Arbeidsverhoudingen, nr. AV/SDA/2010/11893, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
 
-Gelet op de [artikelen 3, aanhef en onderdeel e](../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md), [5, derde en achtste lid](../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md), [6, derde lid](../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md), [8, eerste lid, aanhef en onderdelen c en f, en derde lid](../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md), en [9, aanhef en onderdeel e, van de Wet arbeid vreemdelingen BES](../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md);
+Gelet op de artikelen 3, aanhef en onderdeel e, 5, derde en achtste lid, 6, derde lid, 8, eerste lid, aanhef en onderdelen c en f, en derde lid, en 9, aanhef en onderdeel e, van de Wet arbeid vreemdelingen BES;
 
 De Raad van State gehoord (advies van 14 juli 2010, nr. W12.10.0261/III);
 
@@ -63,7 +63,7 @@ d. een kopie van de directie- en vestigingsvergunning van de werkgever alsmede e
 
 e. kopieën van diploma's, gewaarmerkt door de bevoegde instanties in het land waar de diploma’s zijn gehaald, indien deze zijn vereist conform de opgave, bedoeld in artikel 3, onderdeel e, en referenties omtrent de door de vreemdeling opgedane relevante werkervaring;  
 
-f. een kopie van het voorblad van het arbeidsregister, bedoeld in [artikel 9, eerste lid, aanhef en onderdeel a, van de Wet tot inschrijving van arbeidskrachten 1945 BES](../../../../../../../../wet-BES/wet/tot/inschrijving/van/arbeidskrachten/1945/bes/BWBR0028724/README.md);  
+f. een kopie van het voorblad van het arbeidsregister, bedoeld in artikel 9, eerste lid, aanhef en onderdeel a, van de Wet tot inschrijving van arbeidskrachten 1945 BES;  
 
 g. verklaring van het openbaar lichaam waaruit blijkt dat de beschikbaarheid van de te vervullen arbeidsplaats ten minste vijf weken voor het indienen van de aanvraag is gemeld aan het bestuurscollege van het openbaar lichaam waar de arbeid uitsluitend of in hoofdzaak wordt of zal worden verricht;  
 
@@ -109,7 +109,7 @@ Het verbod, bedoeld in artikel 2, eerste lid, van de wet is niet van toepassing 
 
 a. een Nederlander die is geboren in een van de openbare lichamen;  
 
-b. een Nederlander die op grond van [artikel 3 van de Wet toelating en uitzetting BES](../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) van rechtswege toelating tot verblijf heeft in de openbare lichamen Bonaire, Sint Eustatius en Saba;  
+b. een Nederlander die op grond van artikel 3 van de Wet toelating en uitzetting BES van rechtswege toelating tot verblijf heeft in de openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
 c. een persoon die tijdens verblijf in een openbaar lichaam de Nederlandse nationaliteit heeft verkregen door optie of naturalisatie.   
 
@@ -131,14 +131,14 @@ a. die zijn hoofdverblijf heeft buiten de openbare lichamen en gedurende maximaa
 
 b. die zijn hoofdverblijf heeft buiten de openbare lichamen, werkzaam is voor een buiten de openbare lichamen gevestigde werkgever en uitsluitend werkzaamheden verricht op vervoermiddelen in het internationale verkeer;  
 
-c. die zijn hoofdverblijf heeft buiten de openbare lichamen en als lid van de bemanning schepelingendienst verricht aan boord van een zeeschip in de zin van [artikel 1, tweede lid, onderdeel c, van de Scheepvaartverkeerswet](../../../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), niet zijnde een sleepboot;  
+c. die zijn hoofdverblijf heeft buiten de openbare lichamen en als lid van de bemanning schepelingendienst verricht aan boord van een zeeschip in de zin van artikel 1, tweede lid, onderdeel c, van de Scheepvaartverkeerswet, niet zijnde een sleepboot;  
 
-d. aan wie op grond van de [Wet vestiging bedrijven BES](../../../../../../../../wet-BES/wet/vestiging/bedrijven/bes/BWBR0028164/README.md) een directievergunning is verleend;  
+d. aan wie op grond van de Wet vestiging bedrijven BES een directievergunning is verleend;  
 
 e. die beschikt over een door Onze Minister van Justitie afgegeven verblijfsvergunning die voorzien is van een aantekening waaruit blijkt dat aan die vergunning geen beperkingen zijn verbonden voor het verrichten van arbeid;  
 
 f. zijn hoofdverblijf heeft buiten de openbare lichamen en als vrijwilliger deelneemt aan arbeid die gebruikelijk onbetaald wordt verricht, geen winstoogmerk heeft en een algemeen maatschappelijk doel dient, met een maximale duur van 12 weken in een periode van 52 weken.     
-2.  Een aantekening als bedoeld in het eerste lid, onderdeel e, wordt afgegeven aan een vreemdeling die beschikt over een verblijfsvergunning op grond van [artikel 12a van de Wet toelating en uitzetting BES](../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md).  
+2.  Een aantekening als bedoeld in het eerste lid, onderdeel e, wordt afgegeven aan een vreemdeling die beschikt over een verblijfsvergunning op grond van artikel 12a van de Wet toelating en uitzetting BES.  
 
 ### §  4  
 
@@ -196,11 +196,11 @@ Een tewerkstellingsvergunning wordt geweigerd voor werkzaamheden geheel of ten d
 
 ### Artikel  14  
 
-Een tewerkstellingsvergunning voor een vreemdeling die een geestelijke, godsdienstige of levensbeschouwelijke functie uitoefent, waarvoor een specifieke opleiding, of specifieke kennis of ervaring vereist is en die van wezenlijk belang is voor de eredienst of het functioneren van een kerkgenootschap of een ander genootschap op geestelijke of levensbeschouwelijke grondslag, kan zonder toepassing van [artikel 5, vijfde lid, aanhef en onderdeel c](../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md), en [artikel 8, eerste lid, aanhef en onderdeel a, van de wet](../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md) worden verleend. 
+Een tewerkstellingsvergunning voor een vreemdeling die een geestelijke, godsdienstige of levensbeschouwelijke functie uitoefent, waarvoor een specifieke opleiding, of specifieke kennis of ervaring vereist is en die van wezenlijk belang is voor de eredienst of het functioneren van een kerkgenootschap of een ander genootschap op geestelijke of levensbeschouwelijke grondslag, kan zonder toepassing van artikel 5, vijfde lid, aanhef en onderdeel c, en artikel 8, eerste lid, aanhef en onderdeel a, van de wet worden verleend. 
 
 ### Artikel  15  
 
-1.  Een tewerkstellingsvergunning voor de vreemdeling die arbeid verricht die noodzakelijk is ter voltooiing van zijn opleiding, kan voor maximaal een jaar worden verleend, zonder toepassing van [artikel 5, vijfde lid, aanhef en onderdeel c](../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md), en [artikel 8, eerste lid, aanhef en onderdeel a, van de wet](../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md).   
+1.  Een tewerkstellingsvergunning voor de vreemdeling die arbeid verricht die noodzakelijk is ter voltooiing van zijn opleiding, kan voor maximaal een jaar worden verleend, zonder toepassing van artikel 5, vijfde lid, aanhef en onderdeel c, en artikel 8, eerste lid, aanhef en onderdeel a, van de wet.   
 2.  Bij de toepassing van het eerste lid legt de werkgever, in afwijking van artikel 4, aanhef en onderdeel a, de volgende bewijsstukken over: 
 
 a. een stageovereenkomst, waarin in ieder geval wordt geregeld: 
@@ -215,7 +215,7 @@ b. een verklaring van de onderwijsinstelling, waaruit blijkt dat de stage noodza
 a. indien het personeelsbestand bestaat uit minder dan 10 personen: niet meer dan één persoon;  
 
 b. indien het personeelsbestand bestaat uit tien of meer personen: maximaal 10% van het totale personeelsbestand, waarbij voor deze berekening het personeelsbestand naar beneden wordt afgerond op het dichtstbijzijnde hele tiental personeelsleden.     
-4.  In afwijking van artikel 10, aanhef en onderdeel c, dient de werkgever aan de vreemdeling een stagevergoeding te betalen van minimaal 50% van het bruto minimumloon, genoemd in [artikel 9 van de Wet minimumlonen BES](../../../../../../../../wet-BES/wet/minimumlonen/bes/BWBR0028170/README.md), na aftrek van de daarop in te houden loonheffing.  
+4.  In afwijking van artikel 10, aanhef en onderdeel c, dient de werkgever aan de vreemdeling een stagevergoeding te betalen van minimaal 50% van het bruto minimumloon, genoemd in artikel 9 van de Wet minimumlonen BES, na aftrek van de daarop in te houden loonheffing.  
 
 ### Artikel  16  
 
@@ -235,14 +235,14 @@ b. indien het personeelsbestand bestaat uit tien of meer personen: maximaal 10% 
 
 ### Artikel  17  
 
-1.  Een tewerkstellingsvergunning voor het verrichten van arbeid van bijkomende aard voor een vreemdeling die op grond van de [Wet toelating en uitzetting BES](../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) beschikt over een verblijfsvergunning voor bepaalde tijd voor studie kan voor maximaal een jaar worden verleend, zonder toepassing van artikel 5, vijfde lid, aanhef en onderdeel c, en artikel 8, eerste lid, aanhef en onderdeel a, van de wet.   
+1.  Een tewerkstellingsvergunning voor het verrichten van arbeid van bijkomende aard voor een vreemdeling die op grond van de Wet toelating en uitzetting BES beschikt over een verblijfsvergunning voor bepaalde tijd voor studie kan voor maximaal een jaar worden verleend, zonder toepassing van artikel 5, vijfde lid, aanhef en onderdeel c, en artikel 8, eerste lid, aanhef en onderdeel a, van de wet.   
 2.  Onder arbeid van bijkomende aard als bedoeld in het eerste lid wordt verstaan: arbeid met een duur van maximaal 10 uur per week of arbeid die uitsluitend in de maanden juni, juli en augustus plaatsvindt.   
 3.  In aanvulling op artikel 4 legt de werkgever een verklaring van de onderwijsinstelling over, waaruit blijkt dat de vreemdeling als student is ingeschreven.   
 4.  Een tewerkstellingsvergunning als bedoeld in het eerste lid wordt niet verlengd.  
 
 ### Artikel  18  
 
-Ten aanzien van de vreemdeling die gedurende de looptijd van een voor hem verstrekte tewerkstellingsvergunning onvrijwillig werkloos wordt en die van rechtswege of bij vergunning is toegelaten op grond van de [Wet toelating en uitzetting BES](../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), kan worden afgeweken van artikel 5, vijfde lid, aanhef en onderdeel c, indien hij als werkzoekende staat ingeschreven bij de arbeidsbemiddelingsorganisatie van het openbaar lichaam, voor zover de werkgever de aanvraag voor een nieuwe tewerkstellingsvergunning heeft ingediend binnen 6 weken nadat de vreemdeling onvrijwillig werkloos is geworden en voor zover de duur van de nieuw aangevraagde tewerkstellingsvergunning niet langer is dan de resterende termijn gedurende welke de vreemdeling van rechtswege of bij vergunning verleend, is toegelaten op grond van de Wet toelating en uitzetting BES. 
+Ten aanzien van de vreemdeling die gedurende de looptijd van een voor hem verstrekte tewerkstellingsvergunning onvrijwillig werkloos wordt en die van rechtswege of bij vergunning is toegelaten op grond van de Wet toelating en uitzetting BES, kan worden afgeweken van artikel 5, vijfde lid, aanhef en onderdeel c, indien hij als werkzoekende staat ingeschreven bij de arbeidsbemiddelingsorganisatie van het openbaar lichaam, voor zover de werkgever de aanvraag voor een nieuwe tewerkstellingsvergunning heeft ingediend binnen 6 weken nadat de vreemdeling onvrijwillig werkloos is geworden en voor zover de duur van de nieuw aangevraagde tewerkstellingsvergunning niet langer is dan de resterende termijn gedurende welke de vreemdeling van rechtswege of bij vergunning verleend, is toegelaten op grond van de Wet toelating en uitzetting BES. 
 
 ### Artikel  19  
 
@@ -259,7 +259,7 @@ b. een document waaruit blijkt dat de vreemdeling de beslissing op zijn aanvraag
 
 ### Artikel  20  
 
-Dit besluit treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](../../../../../../../../rijkswet/rijkswet/wijziging/statuut/in/verband/met/de/opheffing/van/de/nederlandse/etc/BWBR0028249/README.md) in werking treedt. 
+Dit besluit treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt. 
 
 ### Artikel  21  
 
