@@ -715,7 +715,7 @@ b. het geld dan wel toonder- of orderpapier betreft.
 
 ### Artikel  86a  
 
-1.   Artikel 86 kan niet worden tegengeworpen aan een lid-staat van de Europese Unie of aan een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte die een roerende zaak opeist, die krachtens de nationale wetgeving van die staat een cultuurgoed is in de zin van artikel 1, onder 1, van richtlijn nr. 93/7/EEG van de Raad van de Europese Gemeenschappen van 15 maart 1993 betreffende de teruggave van cultuurgoederen die op onrechtmatige wijze buiten het grondgebied van een lid-staat zijn gebracht (*PbEG* L 74), mits die zaak in de zin van die richtlijn op onrechtmatige wijze buiten het grondgebied van die staat is gebracht.    
+1.   Artikel 86 kan niet worden tegengeworpen aan een lid-staat van de Europese Unie of aan een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte die een roerende zaak opeist, die krachtens de nationale wetgeving van die staat een cultuurgoed is in de zin van artikel 2, onder 1, van Richtlijn 2014/60/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de teruggave van cultuurgoederen die op onrechtmatige wijze buiten het grondgebied van een lidstaat zijn gebracht en houdende wijziging van Verordening (EU) nr. 1024/2012 (PbEU 2014, L 159), mits die zaak in de zin van die richtlijn op onrechtmatige wijze buiten het grondgebied van die staat is gebracht.    
 2.   Artikel 86 kan evenmin worden tegengeworpen aan degene die als eigenaar een roerende zaak opeist, die op het tijdstip waarop hij het bezit daarvan verloor, krachtens de Wet tot behoud van cultuurbezit als beschermd voorwerp was aangewezen of waarvan het buiten Nederland brengen op grond van artikel 14*a* van die wet verboden is. Degene die toen op de lijst waarop het beschermde voorwerp was geplaatst of op een inventarislijst, bedoeld in artikel 14*a*, tweede lid, van die wet, als eigenaar werd vermeld, wordt vermoed toen eigenaar van de zaak geweest te zijn.    
 3.   De rechter die een vordering als bedoeld in lid 1 toewijst, kent aan de bezitter een naar gelang van de omstandigheden vast te stellen billijke vergoeding toe, indien deze bij de verkrijging van de zaak de nodige zorgvuldigheid heeft betracht. Hetzelfde geldt indien de rechter een vordering als bedoeld in lid 2 toewijst, tenzij opeising zonder vergoeding bij toepasselijkheid van artikel 86 lid 3 mogelijk zou zijn geweest.    
 4.   De vergoeding omvat in elk geval hetgeen aan de bezitter verschuldigd is krachtens de artikelen 120 en 121. Zij wordt bij afgifte van de zaak uitgekeerd.  
@@ -733,15 +733,19 @@ b. het geld dan wel toonder- of orderpapier betreft.
 
 ### Artikel  87a  
 
-1.  Om vast te stellen of de bezitter bij de verkrijging van een cultuurgoed als bedoeld in artikel 1 onder d van de Uitvoeringswet UNESCO-verdrag 1970 inzake onrechtmatige invoer, uitvoer of eigendomsoverdracht van cultuurgoederen, de nodige zorgvuldigheid heeft betracht, wordt rekening gehouden met alle omstandigheden van de verwerving, met name 
+1.  Om vast te stellen of de bezitter bij de verkrijging van een cultuurgoed als bedoeld in artikel 86a lid 1 of in artikel 1 onder d van de Uitvoeringswet UNESCO-verdrag 1970 inzake onrechtmatige invoer, uitvoer of eigendomsoverdracht van cultuurgoederen de nodige zorgvuldigheid heeft betracht, wordt rekening gehouden met alle omstandigheden van de verwerving, in het bijzonder 
 
-a. de hoedanigheid van de partijen;  
+a. de documentatie over de herkomst van het goed;  
 
-b. de betaalde prijs;  
+b. de volgens het recht van de verzoekende lidstaat dan wel het recht van de verdragsstaat waaruit het goed afkomstig is, vereiste vergunningen om het goed buiten het grondgebied van die lidstaat of die verdragsstaat te brengen;  
 
-c. het feit of de bezitter elk redelijkerwijs toegankelijk register met betrekking tot gestolen cultuurgoederen en elke andere relevante informatie en documentatie die hij redelijkerwijs zou kunnen hebben verkregen, heeft geraadpleegd, en het feit of de bezitter toegankelijke instanties heeft geraadpleegd;  
+c. de hoedanigheid van de partijen;  
 
-d. het feit of de bezitter alle andere stappen heeft genomen die een redelijk handelende persoon in die omstandigheden zou hebben genomen.     
+d. de betaalde prijs;  
+
+e. het feit of de bezitter elk redelijkerwijs toegankelijk register met betrekking tot gestolen cultuurgoederen en elke andere relevante informatie en documentatie die hij redelijkerwijs zou kunnen hebben verkregen, heeft geraadpleegd, en het feit of de bezitter toegankelijke instanties heeft geraadpleegd;  
+
+f. het feit of de bezitter alle andere stappen heeft genomen die een redelijk handelende persoon in die omstandigheden zou hebben genomen.     
 2.  Een handelaar als bedoeld in artikel 437 van het Wetboek van Strafrecht heeft niet de volgens artikel 86b lid 2 bij de verkrijging van een cultuurgoed nodige zorgvuldigheid betracht, indien hij heeft nagelaten 
 
 a. zich te vergewissen van de identiteit van de verkoper  
@@ -1830,8 +1834,8 @@ Een rechtsvordering uit onverschuldigde betaling verjaart door verloop van vijf 
 
 ### Artikel  310a  
 
-1.  Een rechtsvordering tot opeising van een roerende zaak die krachtens de nationale wetgeving van een lid-staat van de Europese Unie of van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte een cultuurgoed is in de zin van artikel 1, onder 1, van de richtlijn, bedoeld in artikel 86a, en waarvan die staat teruggave vordert op de grond dat zij op onrechtmatige wijze buiten zijn grondgebied is gebracht, verjaart door verloop van één jaar na de aanvang van de dag, volgende op die waarop de plaats waar de zaak zich bevindt en de identiteit van de bezitter of de houder aan die staat zijn bekend geworden, en in elk geval door verloop van dertig jaren na de aanvang van de dag volgende op die waarop de zaak buiten het grondgebied van die staat is gebracht.    
-2.   De laatste termijn bedraagt vijfenzeventig jaren in het geval van zaken die deel uitmaken van openbare collecties in de zin van artikel 1, onder 1, van de richtlijn, bedoeld in artikel 86a, en van kerkelijke goederen als bedoeld in de richtlijn in de lid-staten van de Europese Unie of in de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, waar deze zijn onderworpen aan speciale beschermende maatregelen krachtens nationaal recht.   
+1.  Een rechtsvordering tot opeising van een roerende zaak die krachtens de nationale wetgeving van een lid-staat van de Europese Unie of van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte een cultuurgoed is in de zin van artikel 2, onder 1, van de richtlijn, bedoeld in artikel 86a, en waarvan die staat teruggave vordert op de grond dat zij op onrechtmatige wijze buiten zijn grondgebied is gebracht, verjaart door verloop van drie jaren na de aanvang van de dag, volgende op die waarop de plaats waar de zaak zich bevindt en de identiteit van de bezitter of de houder aan de centrale autoriteit van die staat als bedoeld in artikel 4 van de richtlijn zijn bekend geworden, en in elk geval door verloop van dertig jaren na de aanvang van de dag volgende op die waarop de zaak buiten het grondgebied van die staat is gebracht.    
+2.   De laatste termijn bedraagt vijfenzeventig jaren in het geval van zaken die deel uitmaken van openbare collecties in de zin van artikel 2, onder 8, van de richtlijn en van kerkelijke goederen als bedoeld in de richtlijn in de lid-staten van de Europese Unie of in de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, waar deze zijn onderworpen aan speciale beschermende maatregelen krachtens nationaal recht.   
 
 ### Artikel  310b  
 

@@ -4186,7 +4186,7 @@ b. artikel 126, tweede lid, betreffende de toepassing van hoofdstuk XVIII van de
 
 a. artikel 38, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten  
 
-b. artikel 38, betreffende de toepassing van hoofdstuk XVII van de Gemeentewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen    Burgerlijk Wetboek, voor zover de aanvraag is toegewezen: 
+b. artikel 38, betreffende de toepassing van hoofdstuk XVII van de Gemeentewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen    Burgerlijk Wetboek: 
 
 a. Boek 1: 
 

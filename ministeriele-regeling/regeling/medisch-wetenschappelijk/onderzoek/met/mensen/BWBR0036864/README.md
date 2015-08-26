@@ -9,10 +9,10 @@ Besluit:
 
 ####: Algemene bepaling
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 In deze regeling wordt verstaan onder: 
 
@@ -24,10 +24,10 @@ b.  *besluit:* het Besluit wetenschappelijk onderzoek met geneesmiddelen.
 
 ####: Regels voor wetenschappelijk onderzoek met geneesmiddelen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Bij een aanvraag als bedoeld in artikel 13h van de wet en bij een kennisgeving als bedoeld in artikel 13i, tweede lid, van de wet worden de volgende gegevens verstrekt: 
 
@@ -54,7 +54,7 @@ Bij een aanvraag als bedoeld in artikel 13h van de wet en bij een kennisgeving a
 – overige voor de beoordeling van het wetenschappelijk onderzoek met geneesmiddelen relevante documenten.   
 
 ### Artikel  3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Een melding van een substantiële wijziging van het onderzoeksprotocol als bedoeld in artikel 13k, tweede lid, van de wet aan de ingevolge artikel 2, tweede lid, van de wet bevoegde commissie bevat de volgende gegevens: 
 
@@ -78,7 +78,7 @@ Treedt in werking op een nader te bepalen tijdstip
 – een omschrijving van de wijziging van het wetenschappelijk onderzoek met geneesmiddelen en de reden daarvan.    
 
 ### Artikel  4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Een melding dat het wetenschappelijk onderzoek met geneesmiddelen is beëindigd als bedoeld in artikel 13l van de wet bevat de volgende gegevens: 
 
@@ -88,7 +88,7 @@ Treedt in werking op een nader te bepalen tijdstip
 2.  Degene die het wetenschappelijk onderzoek met geneesmiddelen verricht, draagt er zorg voor dat binnen één jaar na beëindiging van het onderzoek een samenvatting van de resultaten van het onderzoek wordt ingediend bij de centrale commissie of de Minister van Volksgezondheid, Welzijn en Sport, ingeval het vijfde lid van artikel 13i van de wet van toepassing is, en de ingevolge artikel 2, tweede lid, van de wet bevoegde commissie.  
 
 ### Artikel  5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Een melding van een vermoeden van een onverwachte ernstige bijwerking als bedoeld in artikel 13p van de wet bevat de volgende gegevens: 
 
@@ -115,18 +115,18 @@ Treedt in werking op een nader te bepalen tijdstip
 3.  Degene die het wetenschappelijk onderzoek verricht, draagt er zorg voor dat eens per half jaar een overzichtslijst van alle vermoedens van onverwachte ernstige bijwerkingen van een geneesmiddel voor onderzoek waarvan hij kennis heeft genomen, wordt ingediend bij de ingevolge artikel 2, tweede lid, van de wet bevoegde commissies, die wetenschappelijk onderzoek van dezelfde verrichter en met hetzelfde geneesmiddel als waarover het bedoelde vermoeden is gerezen, hebben beoordeeld. De overzichtslijst van alle vermoedens van onverwachte ernstige bijwerkingen van een geneesmiddel voor onderzoek bevat een korte toelichting waarin de belangrijkste conclusies worden vermeld.  
 
 ### Artikel  6  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Bij de lijst van alle vermoedens van ernstige bijwerkingen, bedoeld in artikel 13q van de wet, wordt een geaggregeerde samenvattende tabel gevoegd van alle gerapporteerde ernstige bijwerkingen geordend naar orgaansysteem per onderzoek.   
 2.  Een rapport betreffende de veiligheid van de proefpersonen als bedoeld in artikel 13q van de wet bestaat uit een volledige veiligheidsanalyse en een evaluatie van de balans tussen de werkzaamheid en de schadelijkheid van het geneesmiddel voor onderzoek.  
 
 ### Artikel  7  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Bij de toepassing van de beginselen van goede klinische praktijken en bij de documentatie en de archivering van wetenschappelijk onderzoek met geneesmiddelen wordt rekening gehouden met de gedetailleerde richtsnoeren die de Commissie van de Europese Gemeenschappen heeft gepubliceerd in ‘The rules governing medicinal products in the European Union’. 
 
 ### Artikel  8  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Een wijziging in een door de Europese Commissie vastgesteld formulier treedt voor de toepassing van de artikelen 2, 3 en 4 in werking met ingang van de datum waarop deze wijziging in werking treedt.   
 2.  Een wijziging van een in ‘The rules governing medicinal products in the European Union’ opgenomen gedetailleerde richtsnoer treedt voor de toepassing van artikel 7 in werking met ingang van de datum waarop deze wijziging in werking treedt.  
@@ -135,10 +135,10 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####: Melding van ernstige ongewenste voorvallen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  9  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Een melding van een ernstig ongewenst voorval als bedoeld in artikel 10, eerste lid, van de wet bevat de volgende gegevens: 
 
@@ -156,7 +156,7 @@ Treedt in werking op een nader te bepalen tijdstip
 – een beoordeling door degene die het wetenschappelijk onderzoek verricht van de gevolgen van de melding voor de uitvoering van het wetenschappelijk onderzoek.    
 
 ### Artikel  10  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Degene die het wetenschappelijk onderzoek verricht, maakt voor de rapportage, bedoeld in artikel 10, tweede lid, van de wet, uitsluitend gebruik van het daarvoor bestemde internetportaal van de centrale commissie. 
 
@@ -164,10 +164,10 @@ Degene die het wetenschappelijk onderzoek verricht, maakt voor de rapportage, be
 
 ####: Toezicht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  11  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 De hoofdinspecteurs, de inspecteurs en de onder hun verantwoordelijkheid werkzame ambtenaren van de Inspectie voor de Gezondheidszorg zijn belast met het toezicht, bedoeld in artikel 28 van de wet. 
 
@@ -175,25 +175,20 @@ De hoofdinspecteurs, de inspecteurs en de onder hun verantwoordelijkheid werkzam
 
 ####: Overige bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  12  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt de Regeling wetenschappelijk onderzoek met geneesmiddelen. 
 
 ### Artikel  13  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 De Regeling wetenschappelijk onderzoek met geneesmiddelen en de Regeling toezicht WMO worden ingetrokken. 
 
 ### Artikel  14  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Deze regeling wordt aangehaald als: Regeling medisch-wetenschappelijk onderzoek met mensen. 
 
 ### Artikel  15  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Deze regeling treedt in werking op het tijdstip waarop de wet van 4 juni 2015 houdende wijziging van de Wet medisch-wetenschappelijk onderzoek met mensen in verband met een uitbreiding van de meldingsplicht van ernstige ongewenste voorvallen (*Stb*. 2015, 240) in werking treedt, met uitzondering van artikel 12.   
 2.  Artikel 12 treedt in werking op het tijdstip waarop artikel I, onderdeel K, van de wet van 4 juni 2015 houdende wijziging van de Wet medisch-wetenschappelijk onderzoek met mensen in verband met een uitbreiding van de meldingsplicht van ernstige ongewenste voorvallen (*Stb*. 2015, 240) in werking treedt en werkt terug tot en met 1 juli 2012.  

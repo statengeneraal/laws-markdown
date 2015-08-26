@@ -343,6 +343,10 @@ b.de bevoegde instanties van de andere lidstaten op het grondgebied waarvan het 
 
 c.de ingevolge artikel 2, tweede lid, bevoegde commissie.
 
+### Artikel  13r  
+
+Bij ministeriële regeling kunnen eisen worden gesteld aan de rapportage, bedoeld in de artikelen 13o, 13p en 13q. 
+
 ### Paragraaf  6  
 
 ####De commissies 

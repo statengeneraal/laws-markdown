@@ -34,7 +34,7 @@ b. instelling:
 
 3º. een agrarisch opleidingscentrum als bedoeld in artikel 1.3.3;  tenzij anders blijkt; 
 
-b1.kenniscentrum beroepsonderwijs bedrijfsleven: kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in artikel 1.5.1; 
+b1. Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven: de rechtspersoon, bedoeld in 1.5.1, eerste lid;  
 
 c. openbare instelling: een instelling in stand gehouden door een gemeente dan wel door een openbaar lichaam, ingesteld bij een gemeenschappelijke regeling als bedoeld in de Wet gemeenschappelijke regelingen, waarin deelnemen een of meer gemeenten, al dan niet te zamen met een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid;  
 
@@ -82,7 +82,7 @@ t2. opleidingsdomein: een samenhangend geheel van kwalificatiedossiers die zijn 
 
 u. Centraal register: het Centraal register beroepsonderwijs, bedoeld in artikel 6.4.1, eerste lid;  
 
-v. paritaire commissie beroepsonderwijs bedrijfsleven: de commissie, bedoeld in artikel 9.2.1, derde lid;  
+v. vervallen;  
 
 v1. college van bestuur van een bijzondere instelling: het orgaan van de instelling dat als zodanig in de statuten is aangewezen; 
 
@@ -102,9 +102,9 @@ y. persoonsgebonden nummer: het burgerservicenummer, bedoeld in artikel 1, onder
 
 z.personeel:
 
-1. de benoemde docenten, en overig personeel dat is benoemd aan de instelling of het kenniscentrum beroepsonderwijs bedrijfsleven; 
+1. de benoemde docenten, en overig personeel dat is benoemd aan de instelling; 
 
-2. het onder a bedoelde personeel dat zonder benoeming is tewerkgesteld aan de instelling of het kenniscentrum beroepsonderwijs bedrijfsleven, tenzij het betreft de toepassing van de artikelen 3.1.2, 3.2.1, 3.3.1, 4.1.1, 4.1.2, 4.1.3, 4.3.1 en 4.3.2, en de toepassing van daarmee verband houdende wettelijke bepalingen; 
+2. het onder a bedoelde personeel dat zonder benoeming is tewerkgesteld aan de instelling, tenzij het betreft de toepassing van de artikelen 3.1.2, 3.2.1, 3.3.1, 4.1.1, 4.1.2, 4.1.3, en de toepassing van daarmee verband houdende wettelijke bepalingen; 
 
 aa. vervallen; 
 
@@ -120,8 +120,8 @@ ee. ondernemingsraad: een ondernemingsraad als bedoeld in de Wet op de ondernemi
 
 ####Aard bepalingen
 
-1.  De bepalingen vastgesteld bij of krachtens de artikelen 1.3.6, 1.3.7, 1.3.8, 1.3.9, 1.7.1, 2.8.1 tot en met 2.8.3, 3.2.1, 4.1.1 tot en met 4.1.4, 4.2.1 tot en met 4.2.5, 6.4.1 tot en met 6.4.4, hoofdstuk 7, met uitzondering van artikel 7.4.7 en met uitzondering van titel 6, de artikelen 8.1.1 tot en met 8.1.1d, 8.1.2, tweede lid, 8.1.3, eerste tot en met derde lid, 8.1.4 tot en met 8.2.1, 8.4.1, 8.4.2, 8.5.1, 8.5.2 en 9.1.2, alsmede de bepalingen vastgesteld in hoofdstuk 8a voor zover zij de instellingen betreffen, zijn regels voor openbare instellingen voor educatie en beroepsonderwijs.   
-2.   De bepalingen vastgesteld bij of krachtens de artikelen 1.3.6, 1.3.8, 1.3.9, 1.7.1, 2.1.9, 2.8.1 tot en met 2.8.3, 3.2.1, 4.1.1, 4.1.2, 4.1.4, 4.2.1 tot en met 4.2.5, 6.4.1 tot en met 6.4.4, hoofdstuk 7, met uitzondering van artikel 7.4.7 en met uitzondering van titel 6, de artikelen 8.1.1 tot en met 8.1.1d, 8.1.2, eerste lid, 8.1.3 tot en met 8.2.1, 8.4.1, 8.4.2, 8.5.1, 8.5.2, 9.1.1, 9.1.3, eerste lid, 9.1.4, 9.1.7 en 9.1.8, alsmede de bepalingen vastgesteld in hoofdstuk 8a voor zover zij de instellingen betreffen, zijn voorwaarden voor bekostiging voor bijzondere instellingen voor educatie en beroepsonderwijs.  
+1.  De bepalingen vastgesteld bij of krachtens de artikelen 1.3.6, 1.3.7, 1.3.8, 1.3.9, 1.7.1, 2.8.1 tot en met 2.8.3, 3.2.1, 4.1.1 tot en met 4.1.4, 4.2.1 tot en met 4.2.5, 6.1.2 tot en met 6.1.3a, 6.4.1 tot en met 6.4.4, hoofdstuk 7, met uitzondering van artikel 7.4.7 en met uitzondering van titel 6, de artikelen 8.1.1 tot en met 8.1.1d, 8.1.2, tweede lid, 8.1.3, eerste tot en met derde lid, 8.1.4 tot en met 8.2.1, 8.4.1, 8.4.2, 8.5.1, 8.5.2 en 9.1.2, alsmede de bepalingen vastgesteld in hoofdstuk 8a voor zover zij de instellingen betreffen, zijn regels voor openbare instellingen voor educatie en beroepsonderwijs.   
+2.   De bepalingen vastgesteld bij of krachtens de artikelen 1.3.6, 1.3.8, 1.3.9, 1.7.1, 2.1.9, 2.8.1 tot en met 2.8.3, 3.2.1, 4.1.1, 4.1.2, 4.1.4, 4.2.1 tot en met 4.2.5, 6.1.2 tot en met 6.1.3a, 6.4.1 tot en met 6.4.4, hoofdstuk 7, met uitzondering van artikel 7.4.7 en met uitzondering van titel 6, de artikelen 8.1.1 tot en met 8.1.1d, 8.1.2, eerste lid, 8.1.3 tot en met 8.2.1, 8.4.1, 8.4.2, 8.5.1, 8.5.2, 9.1.1, 9.1.3, eerste lid, 9.1.4, 9.1.7 en 9.1.8, alsmede de bepalingen vastgesteld in hoofdstuk 8a voor zover zij de instellingen betreffen, zijn voorwaarden voor bekostiging voor bijzondere instellingen voor educatie en beroepsonderwijs.  
 
 ### Titel  2  
 
@@ -197,7 +197,7 @@ c. het bieden van mogelijkheden voor loopbaanoriëntatie en -begeleiding.
 
 ####Kwaliteitszorg
 
-1.  Het bevoegd gezag richt een stelsel van kwaliteitszorg voor de instelling in en draagt er in dat verband zorg voor dat, zo veel mogelijk in samenwerking met andere instellingen, wordt voorzien in een regelmatige beoordeling van de kwaliteit van het onderwijs, waaronder maatregelen en instrumenten om te waarborgen dat het personeel zijn bekwaamheid onderhoudt. Het bevoegd gezag draagt er zorg voor dat de in de eerste volzin bedoelde beoordeling geschiedt met betrokkenheid van onafhankelijke deskundigen en belanghebbenden. De uitkomsten van de beoordeling zijn openbaar.  
+1.  Het bevoegd gezag richt een stelsel van kwaliteitszorg voor de instelling in en draagt er in dat verband zorg voor dat, zo veel mogelijk in samenwerking met andere instellingen, wordt voorzien in een regelmatige beoordeling van de kwaliteit van het onderwijs, waaronder maatregelen en instrumenten om te waarborgen dat het personeel zijn bekwaamheid onderhoudt. De beoordeling bij de instellingen geschiedt mede aan de hand van het oordeel van deelnemers over de kwaliteit van het onderwijs aan de instelling. Het bevoegd gezag draagt er zorg voor dat de in de eerste volzin bedoelde beoordeling geschiedt met betrokkenheid van onafhankelijke deskundigen en belanghebbenden. De uitkomsten van de beoordeling zijn openbaar.  
 2. Het bevoegd gezag maakt regelmatig, en voor zover het de examens betreft jaarlijks, een verslag openbaar omtrent:
 
 a.de beoordeling, bedoeld in het eerste lid, 
@@ -252,6 +252,8 @@ Het bevoegd gezag draagt zorg voor het personeelsbeleid, voor zover het betreft 
 1.  Onze Minister besluit op aanvraag van het bevoegd gezag van een andere dan een in artikel 1.1.1, onder b, bedoelde instelling of van een instelling dat aan de met goed gevolg afgelegde examens of onderdelen van examens van een beroepsopleiding in de beroepsopleidende leerweg of van een beroepsopleiding in de beroepsbegeleidende leerweg, verzorgd door die instelling, een diploma of certificaat als bedoeld in artikel 7.4.6 is verbonden, indien de desbetreffende instelling voor die opleiding in acht neemt hetgeen bij of krachtens deze wet is bepaald ten aanzien van:  
 
 a. de kwaliteitszorg, bedoeld in artikel 1.3.6,  
+
+a1. de informatie aan aspirant-deelnemers, bedoeld in artikel 6.1.3a, 
 
 b. het onderwijs, met uitzondering van de artikelen 7.1.1 en 7.2.4a, derde lid, mits het aantal begeleide onderwijsuren en het aantal uren beroepspraktijkvorming op grond van de studieduur, naar evenredigheid ten minste gelijk is aan het aantal uren, bedoeld in artikel 7.2.7, tweede tot en met vierde lid, en de examens,  
 
@@ -373,10 +375,10 @@ c.de rechtsbescherming van de deelnemers, bedoeld in hoofdstuk 7, titel 5.
 
 ####Contractactiviteiten
 
-1.  Aan een instelling en een kenniscentrum beroepsonderwijs bedrijfsleven kunnen contractactiviteiten worden verricht, bestaande uit werkzaamheden voor eigen rekening ten behoeve van derden. Deze activiteiten kunnen worden verricht indien zij verband houden met werkzaamheden waarvoor de instelling of het kenniscentrum uit de openbare kas bekostigd wordt of, wat kenniscentra beroepsonderwijs bedrijfsleven betreft, met werkzaamheden verricht in het kader van dienstverlening jegens de instellingen en voor zover de uitvoering van die werkzaamheden hierdoor niet wordt geschaad.   
-2.   Het bevoegd gezag van een instelling en het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven dragen er zorg voor dat artikel 2 van de Wet privatisering ABP van toepassing blijft op het personeel.   
+1.  Aan een instelling kunnen contractactiviteiten worden verricht, bestaande uit werkzaamheden voor eigen rekening ten behoeve van derden. Deze activiteiten kunnen worden verricht indien zij verband houden met werkzaamheden waarvoor de instelling uit de openbare kas bekostigd wordt en voor zover de uitvoering van die werkzaamheden hierdoor niet wordt geschaad.   
+2.   Het bevoegd gezag van een instelling draagt er zorg voor dat artikel 2 van de Wet privatisering ABP van toepassing blijft op het personeel.   
 3.   De vereisten voor benoembaarheid, bedoeld in artikel 4.2.1, eerste lid, zijn niet van toepassing op een docent voor zover deze is belast met het verrichten van contractactiviteiten.   
-4.   Het bevoegd gezag voorziet in een regeling voor het verrichten van contractactiviteiten door het personeel van de instelling en het kenniscentrum beroepsonderwijs bedrijfsleven met het oog op het voorkomen van vermenging van belangen.  
+4.   Het bevoegd gezag voorziet in een regeling voor het verrichten van contractactiviteiten door het personeel van de instelling met het oog op het voorkomen van vermenging van belangen.  
 
 ### Hoofdstuk  2  
 
@@ -422,28 +424,6 @@ b. instellingen die zijn voortgekomen
 3.   Indien aan een agrarisch opleidingscentrum gedurende twee achtereenvolgende jaren minder dan 1200 deelnemers zijn ingeschreven voor beroepsopleidingen of voor het voorbereidend beroepsonderwijs, bedoeld in artikel 1.3.3, kan Onze Minister besluiten dat aan die instelling de rechten, genoemd in artikel 1.3.1, ontnomen worden, onverminderd het overigens met betrekking tot ontneming van rechten in deze wet bepaalde.   
 4.   Onze Minister besluit binnen 26 weken na ontvangst van een aanvraag op grond van het tweede lid, onder b. Op het besluit bedoeld in het eerste lid is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht van toepassing. Bij ministeriële regeling kunnen nadere regels worden vastgesteld met betrekking tot het tweede lid, onder b.   
 5.   Bij een beschikking op grond van het derde lid bepaalt Onze Minister het tijdstip waarop aan die instelling de rechten, genoemd in artikel 1.3.1, ontnomen worden zodanig dat de ingeschreven deelnemers de opleiding waarvoor zij zijn ingeschreven, aan dezelfde instelling of aan een andere instelling binnen een redelijke tijd kunnen voltooien.  
-
-### Artikel  2.1.4  
-
-####Werkgebieden kenniscentra beroepsonderwijs bedrijfsleven
-
-1.  Een kenniscentrum beroepsonderwijs bedrijfsleven is werkzaam ten behoeve van beroepsopleidingen die naar hun aard en samenhang tot eenzelfde bedrijfstak of groep van bedrijfstakken behoren. Onze Minister kan de indeling in werkgebieden van de kenniscentra beroepsonderwijs bedrijfsleven vaststellen.   
-2.   De kenniscentra beroepsonderwijs bedrijfsleven dragen zorg voor een doelmatige en inzichtelijke onderlinge afstemming van werkzaamheden, met inachtneming van de indeling in werkgebieden.  
-
-### Artikel  2.1.5  
-
-####Vestiging bekostigingsaanspraak kenniscentra beroepsonderwijs bedrijfsleven
-
-1.  Onze Minister besluit op aanvraag van het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven over de aanvang van bekostiging van het kenniscentrum. Een aanvraag om te besluiten tot aanvang van de bekostiging wordt voor 1 februari van het jaar, voorafgaand aan het jaar waarin de bekostiging moet aanvangen, bij Onze Minister ingediend. De aanvraag omvat een aanduiding van het werkgebied van het kenniscentrum.   
-2.   Onze Minister betrekt bij de beoordeling van de aanvraag in elk geval de samenhang van de beroepsopleidingen in relatie tot een bepaalde bedrijfstak of groep van bedrijfstakken, alsmede de omvang van het werkgebied van het kenniscentrum beroepsonderwijs bedrijfsleven.   
-3.   Onze Minister besluit binnen zes maanden na ontvangst van een aanvraag als bedoeld in het eerste lid. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze Minister de aanvrager daarvan in kennis en noemt hij daarbij een redelijke termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
-4.   Artikel 4:32 van de Algemene wet bestuursrecht is niet van toepassing op de bekostiging van kenniscentra beroepsonderwijs bedrijfsleven.  
-
-### Artikel  2.1.6  
-
-####Beëindiging bekostigingsaanspraak kenniscentra beroepsonderwijs bedrijfsleven
-
-Onze Minister kan besluiten dat een kenniscentrum beroepsonderwijs bedrijfsleven van zijn taken ontheven is indien niet langer behoefte bestaat aan het kenniscentrum of gebleken is dat het zijn taken niet of niet naar behoren vervult. Een beschikking als bedoeld in de eerste volzin brengt mee dat de aanspraak op bekostiging, bedoeld in artikel 1.5.1, vervalt. 
 
 ### Titel  Ib  
 
@@ -610,8 +590,6 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten
 ### Artikel  2.2.4b  
 
 ####Beleggen en belenen
-
-Treedt in werking per 01-08-2015 
 
 Bij ministeriële regeling kunnen regels worden gesteld over het door het bevoegd gezag uitzetten van gelden, het aangaan van geldleningen en het aangaan van verbintenissen voor financiële producten. 
 
@@ -818,42 +796,50 @@ c. verwerking van de gegevens, bedoeld in 24f, derde en vierde lid, van de Wet o
 
 ### Titel  4  
 
-####Bekostiging van kenniscentra beroepsonderwijs bedrijfsleven
-
-### §  1  
-
-####Bekostiging
+####Subsidie Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
 
 ### Artikel  2.4.1  
 
-####Berekeningswijze
+####Subsidieverlening per boekjaar
 
-1.  De rijksbijdrage voor de kenniscentra beroepsonderwijs bedrijfsleven waarop de in artikel 1.5.1 bedoelde aanspraak betrekking heeft wordt, binnen het raam van de door begrotingswetgever beschikbaar gestelde middelen, per kenniscentrum berekend aan de hand van maatstaven, neergelegd in een berekeningswijze, vastgesteld bij of krachtens algemene maatregel van bestuur. De maatstaven hebben in elk geval betrekking op de aard en de omvang van de werkzaamheden, bedoeld in artikel 1.5.2, voor zover niet verricht in het kader van dienstverlening. Wat huisvestingskosten betreft wordt de rijksbijdrage berekend hetzij op grond van die berekeningswijze hetzij op grond van een andere bij of krachtens algemene maatregel van bestuur te bepalen wijze.    
-2.   Een in het eerste lid bedoelde algemene maatregel van bestuur wordt aan de beide Kamers der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en niet door of namens een van beide Kamers de wens wordt te kennen gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.  
+De subsidie voor de uitvoering van de taken, bedoeld in artikel 1.5.1, eerste lid, onder a tot en met f, wordt per boekjaar verstrekt. 
 
 ### Artikel  2.4.2  
 
-####Bekendmaking, verstrekking en betaling rijksbijdrage
+####Nadere regels
 
-1.  Onze Minister maakt aan elk kenniscentrum beroepsonderwijs bedrijfsleven jaarlijks in september bekend, welke rijksbijdrage voor het daarop volgende jaar wordt verstrekt. Hij deelt daarbij mee op welke wijze de rijksbijdrage is berekend.   
-2.   De rijksbijdrage wordt betaald volgens een door Onze Minister te bepalen kasritme.   
-3.   Zolang de rijksbijdrage niet is vastgesteld of nader vastgesteld, wordt daarop door Onze Minister een voorschot betaald. Het tweede lid is van overeenkomstige toepassing.   
-4.   Bij of krachtens algemene maatregel van bestuur worden nadere voorschriften gegeven met betrekking tot de uitvoering van deze paragraaf.  
+1.  Bij ministeriële regeling worden regels gesteld met betrekking tot: 
+
+a. de aanvraag van een subsidie en de besluitvorming daarover,  
+
+b. het bedrag van de subsidie dan wel de wijze waarop dit bedrag wordt bepaald,  
+
+c. de activiteiten waarvoor subsidie wordt verstrekt,  
+
+d. de voorwaarden waaronder subsidie wordt verleend,  
+
+e. de verplichtingen van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven,  
+
+f. de vaststelling van de subsidie,  
+
+g. intrekking en wijziging van de subsidieverlening of subsidievaststelling,  
+
+h. de betaling van de subsidie en het verlenen van voorschotten,  
+
+i. het verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk, bedoeld in artikel 4:24 van de Algemene wet bestuursrecht, of  
+
+j. andere criteria voor de verstrekking van subsidie.     
+2.  Bij de regels, bedoeld in het eerste lid, wordt voor zover nodig onderscheid gemaakt tussen subsidie voor: 
+
+a. de taken, bedoeld in artikel 1.5.1, eerste lid, onder a tot en met f,  
+
+b. de taken, bedoeld in artikel 1.5.1, eerste lid, onder g.    
 
 ### Artikel  2.4.3  
 
-####Aanvullende middelen
+####Subsidieplafond
 
-Indien bijzondere ontwikkelingen in het beroepsonderwijs daartoe aanleiding geven, kan volgens bij ministeriële regeling te stellen voorwaarden aan de kenniscentra beroepsonderwijs bedrijfsleven voor een bij die regeling te bepalen periode een aanvullende rijksbijdrage worden toegekend. 
-
-### Artikel  2.4.3a  
-
-####Rijksbijdrage en private activiteiten
-
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van de besteding van de rijksbijdrage aan private activiteiten ten behoeve van de taken van de kenniscentra beroepsonderwijs bedrijfsleven.
-
-### §  2  
-Vervallen per 01-07-1997 
+Onze Minister kan jaarlijks het bedrag vaststellen dat ten hoogste beschikbaar is voor de activiteiten, genoemd in artikel 1.5.1, eerste lid, onder g. 
 
 ### Titel  5  
 
@@ -986,7 +972,7 @@ Onze Minister kan naast het accountantsonderzoek, bedoeld in artikel 2.5.3, vier
 
 ### Artikel  2.5.7a  
 
-####Controleprotocol
+####Accountantsprotocol
 
 Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven omtrent de controle van de boekhouding, de jaarrekening en de administratie van de instellingen. 
 
@@ -1004,7 +990,7 @@ Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven omt
 
 ### Artikel  2.5.9a  
 
-####Verslaglegging, onderzoek minister, controleprotocol en correctie rijksbijdrage
+####Verslaglegging, onderzoek minister, accountantsprotocol en correctie rijksbijdrage
 
 De artikelen 2.5.3, 2.5.4, 2.5.6, 2.5.7a en 2.5.9 zijn van overeenkomstige toepassing op de rijksbijdrage voor het voortgezet algemeen volwassenenonderwijs. 
 
@@ -1012,11 +998,7 @@ De artikelen 2.5.3, 2.5.4, 2.5.6, 2.5.7a en 2.5.9 zijn van overeenkomstige toepa
 
 ####Kenniscentra beroepsonderwijs bedrijfsleven
 
-### Artikel  2.5.10  
-
-####Van overeenkomstige toepassing paragraaf 1
-
-De artikelen 2.5.2 tot en met 2.5.9 zijn van overeenkomstige toepassing op de kenniscentra beroepsonderwijs bedrijfsleven. 
+Vervallen per 01-08-2015 
 
 ### TITEL  6  
 
@@ -1298,19 +1280,19 @@ Tot lid van het personeel, anders dan bedoeld in de artikelen 4.2.1 en 4.2.2, ka
 
 ### Titel  3  
 
-####Personeel van kenniscentra beroepsonderwijs bedrijfsleven
+####Personeel van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
 
 ### Artikel  4.3.1  
 
 ####Formatie
 
-Het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven stelt jaarlijks het beleid vast met betrekking tot de formatie van het kenniscentrum beroepsonderwijs bedrijfsleven. Zoveel mogelijk tegelijk met deze vaststelling bepaalt het bestuur functies en taken van het personeel van het kenniscentrum beroepsonderwijs bedrijfsleven. 
+Het bestuur van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven stelt jaarlijks het beleid vast met betrekking tot de formatie van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven. Zoveel mogelijk tegelijk met deze vaststelling bepaalt het bestuur functies en taken van het personeel van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven. 
 
 ### Artikel  4.3.2  
 
-####Rechtspositie personeel kenniscentra beroepsonderwijs bedrijfsleven
+####Rechtspositie personeel Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
 
-Artikel 4.1.2 is van overeenkomstige toepassing op de rechtspositie van het personeel van kenniscentra beroepsonderwijs bedrijfsleven, met dien verstande dat het gaat om kenniscentra beroepsonderwijs bedrijfsleven en de besturen daarvan in plaats van om instellingen en de bevoegde gezagsorganen daarvan. 
+Artikel 4.1.2, met uitzondering van het vijfde lid, is van overeenkomstige toepassing op de rechtspositie van het personeel van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, met dien verstande dat het gaat om de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven en het bestuur daarvan in plaats van om instellingen en de bevoegde gezagsorganen daarvan. 
 
 ### Titel  4  
 
@@ -1334,12 +1316,43 @@ Vervallen per 01-09-2002
 
 Het bevoegd gezag bepaalt welke beroepsopleidingen de instelling verzorgt. Ten aanzien van die opleidingen geldt de aanspraak op bekostiging uitsluitend indien de opleidingen krachtens artikel 2.1.1 voor bekostiging in aanmerking komen. 
 
+### Artikel  6.1.2  
+
+####Melding voornemen starten of beëindigen beroepsopleidingen
+
+1.  Het bevoegd gezag van een instelling meldt aan Onze Minister het voornemen tot het starten of beëindigen van een beroepsopleiding op enige locatie voor 1 februari van het kalenderjaar voorafgaand aan het studiejaar waarin wordt beoogd de beroepsopleiding te starten of te beëindigen.   
+2.  Bij ministeriële regeling worden voorschriften gegeven omtrent de wijze waarop de melding wordt gedaan.   
+3.  Onze Minister maakt de melding openbaar.  
+
 ### Artikel  6.1.3  
 
-####Zorgplicht arbeidsmarktperspectief en belang beroepsopleidingen
+####Zorgplicht arbeidsmarktperspectief, belang beroepsopleidingen en doelmatigheid
 
-1. Het bevoegd gezag zorgt ervoor dat een beroepsopleiding alleen door de instelling wordt aangeboden als er na beëindiging van de opleiding voldoende arbeidsmarktperspectief is voor de deelnemers.
-2. Onverminderd het eerste lid zorgt het bevoegd gezag van een instelling als bedoeld in de artikelen 1.3.2a of 1.3.3 ervoor dat een beroepsopleiding die niet behoort tot het werkgebied van een kenniscentrum beroepsonderwijs bedrijfsleven dat werkzaam is voor de specifieke bedrijfstak of groep van bedrijfstakken waarvoor de instelling opleidingen verzorgt, alleen wordt aangeboden als die beroepsopleiding aantoonbaar gericht is op en van belang is voor de specifieke bedrijfstak of groep van bedrijfstakken waarvoor de instelling opleidingen verzorgt. 
+1. Het bevoegd gezag zorgt ervoor dat een beroepsopleiding alleen door de instelling wordt aangeboden als er na beëindiging van de opleiding voldoende arbeidsmarktperspectief is voor de deelnemers. Onder arbeidsmarktperspectief wordt in ieder geval verstaan het perspectief voor gediplomeerde schoolverlaters op het binnen een redelijke termijn vinden van werk op het niveau van de gevolgde opleiding. 
+2.  Onverminderd het eerste lid kan het bevoegd gezag van een instelling als bedoeld in artikel 1.3.2a of 1.3.3 een beroepsopleiding aanbieden als de soort instelling in de regeling, bedoeld in artikel 7.2.4, is vermeld bij de kwalificatie waarop de opleiding is gericht of als de opleiding aantoonbaar gericht is op en van belang is voor de specifieke bedrijfstak of groep van bedrijfstakken waarvoor de instelling opleidingen verzorgt.   
+3.  Het bevoegd gezag zorgt ervoor dat een beroepsopleiding alleen door de instelling wordt aangeboden als de verzorging van die opleiding, gelet op het geheel van de voorzieningen op het gebied van het beroepsonderwijs, doelmatig is.   
+4.  Het bevoegd gezag legt over wijzigingen van het opleidingenaanbod van een instelling met betrekking tot het arbeidsmarktperspectief en de doelmatige verzorging van een opleiding verantwoording af in het jaarverslag, bedoeld in artikel 2.5.4. 
+
+### Artikel  6.1.3a  
+
+####Informatie beroepsopleidingen aan aspirant-deelnemers
+
+1.  Het bevoegd gezag verstrekt zodanige informatie aan aspirant-deelnemers van beroepsopleidingen over: 
+
+a. de instelling,  
+
+b. het aanbod van beroepsopleidingen,  
+
+c. het arbeidsmarktperspectief na beëindiging van de desbetreffende beroepsopleiding,  
+
+d. de inhoud en de inrichting van het te volgen onderwijs,  
+
+e. de examinering,  
+
+f. de vooropleidingseisen voor de verschillende beroepsopleidingen, en  
+
+g. de kwaliteit van de verschillende beroepsopleidingen waaronder het oordeel van de inspectie ter zake,   dat de aspirant-deelnemers in staat zijn de opleidingsmogelijkheden te vergelijken en een passende opleiding te kiezen, alsmede zich een goed oordeel te vormen over de inhoud en de inrichting van het te volgen onderwijs en de examens en zich goed voor te bereiden op de gestelde eisen.   
+2.  Bij ministeriële regeling kunnen nadere specificaties worden gegeven over de vorm en inhoud van de informatie die nodig is voor het vergelijken van opleidingen en het kiezen van een passende opleiding.  
 
 ### Artikel  6.1.4  
 
@@ -1351,7 +1364,7 @@ a. gebleken is dat de kwaliteit van die opleiding langer dan één jaar onvoldoe
 
 b. niet of niet meer wordt voldaan aan hetgeen bij of krachtens deze wet is bepaald ten aanzien van de kwaliteitszorg, het onderwijs of de examens, dan wel  
 
-c. niet of niet meer wordt voldaan aan de zorgplicht, bedoeld in artikel 6.1.3.     
+c. niet of niet meer wordt voldaan aan een of meer zorgplichten, bedoeld in artikel 6.1.3.     
 2.   Een beschikking op grond van het eerste lid houdt in dat ten aanzien van het desbetreffende onderwijs:  
 
 a. de aanspraak op bekostiging, bedoeld in artikel 1.3.1, voor zover van toepassing, vervalt,  
@@ -1367,8 +1380,6 @@ c. in het Centraal register wordt geregistreerd dat de rechten, genoemd in artik
 
 ####Beleidsregels en adviescommissie
 
-Treedt in werking per 01-08-2015 
-
 1.  Onze Minister stelt beleidsregels vast omtrent de uitoefening van de bevoegdheid, bedoeld in artikel 6.1.4, eerste lid, onder c.   
 2.  Onze Minister kan zich bij de toepassing van de beleidsregels laten adviseren door een onafhankelijke adviescommissie.  
 
@@ -1381,7 +1392,8 @@ Treedt in werking per 01-08-2015
 a. na de waarschuwing ten minste een jaar verstreken is, en  
 
 b. Onze Minister aan de hand van een nader onderzoek tot het oordeel is gekomen dat niet of niet in voldoende mate gevolg is gegeven aan de waarschuwing.     
-2.   Voordat Onze Minister een beschikking neemt op grond van artikel 6.1.4, eerste lid, onder b, geeft hij aan het bevoegd gezag een waarschuwing, onder bepaling van een termijn waarbinnen aan die waarschuwing gevolg moet zijn gegeven en desgewenst overleg met hem dienaangaande plaats kan vinden. De termijn waarbinnen aan de waarschuwing gevolg moet zijn gegeven bedraagt ten minste drie maanden.  
+2.   Voordat Onze Minister een beschikking neemt op grond van artikel 6.1.4, eerste lid, onder b, geeft hij aan het bevoegd gezag een waarschuwing, onder bepaling van een termijn waarbinnen aan die waarschuwing gevolg moet zijn gegeven en desgewenst overleg met hem dienaangaande plaats kan vinden. De termijn waarbinnen aan de waarschuwing gevolg moet zijn gegeven bedraagt ten minste drie maanden.   
+2a.  Voordat Onze Minister een beschikking neemt op grond van artikel 6.1.4, eerste lid, onder c, geeft hij aan het bevoegd gezag een waarschuwing op grond van zijn bevindingen ten aanzien van de naleving van een of meer zorgplichten, bedoeld in artikel 6.1.3, waarbij wordt bepaald aan welke maatregelen het bevoegd gezag gevolg dient te geven. Aan de waarschuwing kan een termijn van ten minste drie maanden worden verbonden waarbinnen aan de maatregelen gevolg moet worden gegeven. 
 3. Onze Minister maakt de waarschuwingen, bedoeld in dit artikel, openbaar.
 
 ###Artikel 6.1.5a 
@@ -1700,7 +1712,7 @@ e. de specialistenopleiding.
 ####Landelijke kwalificatiestructuur beroepsonderwijs
 
 1.  Met het oog op het functioneren van een landelijke kwalificatiestructuur, gericht op de aansluiting tussen het aanbod van het beroepsonderwijs en de maatschappelijke behoeften daaraan, mede in het licht van de arbeidsmarktperspectieven voor afgestudeerden, draagt Onze Minister zorg voor het vaststellen en onderhouden van een samenhangend en gedifferentieerd geheel van opleidingsdomeinen, kwalificatiedossiers en bijbehorende kwalificaties die voor de desbetreffende bedrijfstakken of beroepencategorieën van belang zijn.   
-2.  Daartoe worden op voorstel van de desbetreffende kenniscentra beroepsonderwijs bedrijfsleven bij ministeriële regeling vastgesteld: 
+2.  Daartoe worden op voorstel van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, behoudens het achtste lid, bij ministeriële regeling vastgesteld: 
 
 a. de kwalificatiedossiers,  
 
@@ -1708,11 +1720,9 @@ b. van elk kwalificatiedossier:
 
 1° het opleidingsdomein waartoe het kwalificatiedossier behoort, tenzij het een kwalificatiedossier betreft dat uitsluitend is gericht op de kwalificatie voor de entree op de arbeidsmarkt,  
 
-2° de kwalificatie of kwalificaties die het kwalificatiedossier bevat,  
+2° de kwalificatie of kwalificaties die het kwalificatiedossier bevat, en  
 
-3° de kwalificatie of kwalificaties op grond waarvan een beroepsopleiding kan worden ingericht die voor bekostiging in aanmerking komt, en  
-
-4° indien het een kwalificatiedossier betreft dat door twee of meer kenniscentra beroepsonderwijs bedrijfsleven gezamenlijk is ingediend, op welke bedrijfstak of groep van bedrijfstakken de kwalificatie of de kwalificaties gericht zijn,    
+3° de kwalificatie of kwalificaties op grond waarvan een beroepsopleiding kan worden ingericht die voor bekostiging in aanmerking komt,    
 
 c. van elke kwalificatie: 
 
@@ -1720,14 +1730,17 @@ c. van elke kwalificatie:
 
 2°. de leerweg of leerwegen, bedoeld in artikel 7.2.2, tweede lid, waarin die beroepsopleiding kan worden verzorgd,  
 
-3° het niveau, bedoeld in artikel 7.2.2, derde lid, van die beroepsopleiding, en  
+3° het niveau, bedoeld in artikel 7.2.2, derde lid, van die beroepsopleiding,  
 
-4° of toepassing is gegeven aan artikel 7.2.6, eerste lid.       
-3.  Het kenniscentrum neemt bij het voorstel voor een kwalificatiedossier het bepaalde in het tweede en vierde lid in acht. Uit het voorstel blijkt dat het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven voldoende acht heeft geslagen op de aansluiting tussen de opleidingen voorbereidend beroepsonderwijs, de opleidingen middelbaar algemeen voortgezet onderwijs, de beroepsopleidingen en de opleidingen hoger beroepsonderwijs, in elk geval door raadpleging van vertegenwoordigers van die onderwijsvelden. Indien ook andere instanties nauw bij het voorstel voor het kwalificatiedossier zijn betrokken, maakt het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven in zijn voorstel melding van de wijze waarop het oordeel van die instanties is betrokken in het voorstel.   
+4° of toepassing is gegeven aan artikel 7.2.6, eerste lid en  
+
+5° in voorkomend geval, door welke soorten instellingen als bedoeld in de artikelen 1.3.2a en 1.3.3, een beroepsopleiding mag worden verzorgd die is gericht op de kwalificatie.      
+3.  De Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven neemt bij het voorstel voor een kwalificatiedossier het bepaalde in het tweede, vierde, vijfde en zesde lid in acht. Uit het voorstel blijkt dat voldoende acht is geslagen op de aansluiting tussen de opleidingen voorbereidend beroepsonderwijs, de opleidingen middelbaar algemeen voortgezet onderwijs, de beroepsopleidingen en de opleidingen hoger beroepsonderwijs, in elk geval door raadpleging van vertegenwoordigers van die onderwijsvelden. Indien ook andere instanties nauw bij het voorstel voor het kwalificatiedossier zijn betrokken, maakt de Samenwerkingsorganisatie in haar voorstel melding van de wijze waarop het oordeel van die instanties is betrokken in het voorstel.   
 4.  Bij de vaststelling van een kwalificatiedossier worden de referentieniveaus Nederlandse taal en de referentieniveaus rekenen in acht genomen die op grond van artikel 2, tweede lid, aanhef en onderdeel d, van de Wet referentieniveaus Nederlandse taal en rekenen zijn vastgesteld voor de soorten opleiding als bedoeld in artikel 7.2.2, eerste lid, onder a tot en met e.   
 5.  Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven voor de inhoud van een kwalificatiedossier.   
 6.  Bij ministeriële regeling worden voorschriften gegeven voor de termijnen bij de totstandkoming, vaststelling en geldigheidsduur van kwalificatiedossiers. Tevens worden bij ministeriële regeling een model en een toetsingskader voor kwalificatiedossiers vastgesteld.   
-7.  Deelnemers worden behoudens de tweede volzin opgeleid overeenkomstig het kwalificatiedossier dat voor de desbetreffende beroepsopleiding is vastgesteld voor de aanvang van het studiejaar waarin zij met het eerste jaar van die opleiding starten. Nadat de geldigheidsduur van een kwalificatiedossier is verstreken, kan een diploma op basis van dat kwalificatiedossier nog worden uitgereikt gedurende een periode die overeenkomt met de studieduur van de desbetreffende beroepsopleiding, vermeerderd met 2 jaren.  
+7.  Deelnemers worden behoudens de tweede volzin opgeleid overeenkomstig het kwalificatiedossier dat voor de desbetreffende beroepsopleiding is vastgesteld voor de aanvang van het studiejaar waarin zij met het eerste jaar van die opleiding starten. Nadat de geldigheidsduur van een kwalificatiedossier is verstreken, kan een diploma op basis van dat kwalificatiedossier nog worden uitgereikt gedurende een periode die overeenkomt met de studieduur van de desbetreffende beroepsopleiding, vermeerderd met 2 jaren.   
+8.  Onze Minister kan in bijzondere gevallen een kwalificatiedossier vaststellen zonder voorstel van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven. Onze Minister gaat hiertoe niet over dan nadat de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven in de gelegenheid is gesteld om binnen een door Onze Minister te stellen termijn een voorstel voor een kwalificatiedossier te doen dat aansluit bij de ontwikkelingen op de arbeidsmarkt en is afgestemd met het beroepsonderwijs en het bedrijfsleven. 
 
 ### Artikel  7.2.4a  
 
@@ -1748,17 +1761,11 @@ d. drie volledige studiejaren voor de middenkaderopleiding;
 e. één volledig studiejaar voor de specialistenopleiding.     
 4.  Indien dit in verband met de aard van de opleiding noodzakelijk is, kan Onze Minister bij ministeriële regeling bepalen dat voor de middenkaderopleiding een langere studieduur kan worden vastgesteld. Onze Minister geeft daarbij de betreffende opleiding aan en het aantal volledige studiejaren of gedeelten daarvan die de studieduur van die opleiding ten hoogste mag bedragen.  
 
-### Artikel  7.2.5  
-
-####Advisering over kwalificatiestructuur en kwalificatiedossiers
-
-Bij ministeriële regeling kan een organisatie worden aangewezen die belast is met de advisering over de landelijke kwalificatiestructuur, bedoeld in artikel 7.2.4, eerste lid, en over de voorstellen tot vaststelling van kwalificatiedossiers, bedoeld in artikel 7.2.4, tweede en derde lid. Laatstgenoemde advisering heeft in elk geval betrekking op de vraag of en in hoeverre deze voorstellen bijdragen aan de ontwikkeling van de landelijke kwalificatiestructuur. In de ministeriële regeling worden tevens regels gesteld voor de werkwijze van de organisatie en de subsidiëring van de werkzaamheden, bedoeld in de eerste volzin. 
-
 ### Artikel  7.2.5a  
 
 ####Vaststelling opleidingsdomeinen
 
-Bij ministeriële regeling worden op voorstel van de instellingen in overleg met de kenniscentra beroepsonderwijs bedrijfsleven de opleidingsdomeinen vastgesteld. 
+Bij ministeriële regeling worden op voorstel van de instellingen in overleg met de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven de opleidingsdomeinen vastgesteld. 
 
 ### Artikel  7.2.6  
 
@@ -1766,9 +1773,9 @@ Bij ministeriële regeling worden op voorstel van de instellingen in overleg met
 
 1.  Indien voor een beroep bij of krachtens een wet, verdrag of bindend besluit van een volkenrechtelijke organisatie, vereisten zijn vastgesteld over de kwaliteiten onder meer op het gebied van kennis, inzicht, vaardigheden of beroepshoudingen waarover degenen die een opleiding gericht op dat beroep voltooien, moeten beschikken, of over de examinering bij de desbetreffende beroepsopleiding: 
 
-a. draagt het desbetreffende kenniscentrum beroepsonderwijs bedrijfsleven ervoor zorg dat deze vereisten verwerkt zijn bij het doen van het voorstel, bedoeld in artikel 7.2.4, tweede en derde lid,  
+a. draagt de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven ervoor zorg dat deze vereisten verwerkt zijn bij het doen van het voorstel, bedoeld in artikel 7.2.4, tweede en derde lid,  
 
-b. voegt het desbetreffende kenniscentrum beroepsonderwijs bedrijfsleven een verklaring van Onze Minister die het aangaat dat deze vereisten correct zijn verwerkt in het voorstel, bedoeld in artikel 7.2.4, tweede en derde lid, en  
+b. voegt de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven een verklaring van Onze Minister die het aangaat dat deze vereisten correct zijn verwerkt in het voorstel, bedoeld in artikel 7.2.4, tweede en derde lid, en  
 
 c. neemt Onze Minister deze vereisten in acht bij de vaststelling van de standaarden, bedoeld in artikel 7.4.4.     
 2.  De instelling draagt er bij het aanbieden van een beroepsopleiding zorg voor dat degenen die deze opleiding volgen, ten minste in de gelegenheid zijn aan de in het eerste lid bedoelde vereisten te voldoen en dat bij de examinering, zo nodig in afwijking van titel 4 van dit hoofdstuk, aan die vereisten wordt voldaan. 
@@ -1812,23 +1819,22 @@ d. de gevallen waarin en de wijze waarop de overeenkomst voortijdig kan worden o
 
 ### Artikel  7.2.9  
 
-####Totstandkoming praktijkovereenkomst; vervangende praktijkplaats
+####Beschikbaarheid praktijkplaats en totstandkoming praktijkovereenkomst
 
-1.  Het bevoegd gezag van de instelling draagt zorg voor de totstandkoming van de in artikel 7.2.8 bedoelde overeenkomst. De overeenkomst wordt gesloten door de instelling, de deelnemer en het bedrijf dat of de organisatie die de beroepspraktijkvorming verzorgt. De overeenkomst wordt voor zover het de beroepsbegeleidende leerweg betreft, mede ondertekend door het bestuur van het desbetreffende kenniscentrum beroepsonderwijs bedrijfsleven, dat daarmee verklaart:  
-
-a. dat het een bedrijf of organisatie betreft met een gunstige beoordeling als bedoeld in artikel 7.2.10, en  
-
-b. dat de gronden voor deze gunstige beoordeling nog steeds aanwezig zijn.     
-2.   Indien het bevoegd gezag en het betrokken kenniscentrum beroepsonderwijs bedrijfsleven na het sluiten van de in artikel 7.2.8 bedoelde overeenkomst vaststellen dat de praktijkplaats niet of niet volledig beschikbaar is, de begeleiding tekortschiet of ontbreekt, het bedrijf of de organisatie niet langer beschikt over een gunstige beoordeling als bedoeld in het eerste lid, of sprake is van andere omstandigheden die maken dat de beroepspraktijkvorming niet naar behoren zal kunnen plaatsvinden, bevordert het bevoegd gezag, na overleg met het bestuur van het betrokken kenniscentrum beroepsonderwijs bedrijfsleven, dat een toereikende vervangende voorziening beschikbaar wordt gesteld.  
+1.   Het bevoegd gezag van de instelling draagt zorg voor de beschikbaarheid van de praktijkplaats en de totstandkoming van de in artikel 7.2.8 bedoelde overeenkomst. De overeenkomst wordt gesloten door de instelling, de deelnemer en het bedrijf dat of de organisatie die de beroepspraktijkvorming verzorgt.   
+2.   Indien het bevoegd gezag en de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven na het sluiten van de in artikel 7.2.8 bedoelde overeenkomst vaststellen dat de praktijkplaats niet of niet volledig beschikbaar is, de begeleiding tekortschiet of ontbreekt, het bedrijf of de organisatie niet langer beschikt over een gunstige beoordeling als bedoeld in artikel 7.2.10, of sprake is van andere omstandigheden die maken dat de beroepspraktijkvorming niet naar behoren zal kunnen plaatsvinden, bevordert het bevoegd gezag, na overleg met het bestuur van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, dat een toereikende vervangende voorziening beschikbaar wordt gesteld.  
 
 ### Artikel  7.2.10  
 
-####Kwaliteitszorgsysteem; beoordeling van praktijkplaatsen
+#### *Beoordeling kwaliteit en erkenning leerbedrijven voor de beroepspraktijkvorming* 
 
-1.  Het kenniscentrum beroepsonderwijs bedrijfsleven richt een stelsel van kwaliteitszorg voor de beroepspraktijkvorming in en zorgt ervoor dat bedrijven en organisaties die de beroepspraktijkvorming verzorgen eenmaal per vier jaar worden beoordeeld aan de hand van de in dit stelsel ontwikkelde criteria. Indien daartoe door bijzondere omstandigheden aanleiding bestaat kan controle frequenter plaatsvinden. In geval van een kenniscentrum beroepsonderwijs bedrijfsleven waarvan de samenstelling van het bestuur voldoet aan artikel 9.2.1, tweede lid, onder b, worden deze criteria vastgesteld op voorstel van de commissie onderwijs-bedrijfsleven.   
-2.   Het kenniscentrum beroepsonderwijs bedrijfsleven maakt de in het eerste lid bedoelde criteria bekend. Van deze bekendmaking wordt mededeling gedaan in de *Staatscourant*.   
-3.   De kenniscentra beroepsonderwijs bedrijfsleven dragen gezamenlijk zorg voor openbaarmaking van een overzicht van bedrijven en organisaties met een gunstige beoordeling op grond van het eerste lid.   
-4.   Tot het verzorgen van de beroepspraktijkvorming voor een opleiding of groep van opleidingen zijn uitsluitend bevoegd de bedrijven en organisaties met een gunstige beoordeling op grond van het eerste lid.  
+1.  Het bestuur van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven zorgt ervoor dat bedrijven en organisaties die de beroepspraktijkvorming verzorgen eenmaal in de vier jaar worden beoordeeld aan de hand van door de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven vast te stellen criteria. Indien daartoe door bijzondere omstandigheden aanleiding bestaat kan controle frequenter plaats vinden.   
+2.  Het bestuur van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven erkent een bedrijf of organisatie als leerbedrijf voor de beroepspraktijkvorming of handhaaft de erkenning bij een gunstige beoordeling op grond van het eerste lid. Het bestuur weigert de erkenning of trekt de erkenning in, indien de in de eerste volzin bedoelde beoordeling ongunstig is.   
+3.  Het bestuur vraagt geen vergoeding voor de kosten van de beoordeling, bedoeld in het eerste lid, en de beschikkingen, bedoeld in het tweede lid.   
+4.  De erkenning vervalt van rechtswege als het leerbedrijf gedurende een aaneengesloten periode van vier jaar geen beroepspraktijkvorming heeft verzorgd.   
+5.  De Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven maakt de in het eerste lid bedoelde criteria bekend. Van deze bekendmaking wordt mededeling gedaan in de Staatscourant.   
+6.  De Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven draagt zorg voor openbaarmaking van een overzicht van bedrijven en organisaties met een erkenning op grond van het tweede lid, eerste volzin.   
+7.  Tot het verzorgen van beroepspraktijkvorming voor een opleiding of groep van opleidingen zijn uitsluitend bevoegd de bedrijven en organisaties met een erkenning op grond van het tweede lid, eerste volzin.  
 
 ### Artikel  7.2.11  
 
@@ -2305,7 +2311,7 @@ f. een diploma entreeopleiding, bedoeld in artikel 7.2.2, eerste lid, onderdeel 
 
 ####Nadere vooropleidingseisen 
 
-1.  Op voorstel van organisaties in het voortgezet onderwijs, vertegenwoordigers van de instellingen, de kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in artikel 9.2.1, tweede lid, onderdeel a, en de commissies onderwijs-bedrijfsleven, bedoeld in artikel 9.2.1, derde lid, worden bij ministeriële regeling aangewezen de sectoren, bedoeld in de artikelen 10, 10b en 10d van de Wet op het voortgezet onderwijs, waarop het diploma middelbaar algemeen voortgezet onderwijs, het diploma voorbereidend beroepsonderwijs, het diploma mavo-vbo en de diploma's voorbereidend middelbaar beroepsonderwijs betrekking moeten hebben, alsmede vakken en andere programma-onderdelen die deel moeten hebben uitgemaakt van het examen ter verkrijging van een van deze diploma's, om te kunnen worden toegelaten tot een opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen b tot en met e. De eerste volzin is van overeenkomstige toepassing op de diploma’s van beroepsopleidingen, bedoeld in artikel 7.2.2, eerste lid, onderdelen a tot en met c, ingeval van doorstroom van een lager naar een hoger niveau als bedoeld in artikel 7.2.2, derde lid, met dien verstande dat er geen sprake is van een voorstel van organisaties in het voortgezet onderwijs.   
+1.  Op voorstel van organisaties in het voortgezet onderwijs, vertegenwoordigers van de instellingen de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven worden bij ministeriële regeling aangewezen de sectoren, bedoeld in de artikelen 10, 10b en 10d van de Wet op het voortgezet onderwijs, waarop het diploma middelbaar algemeen voortgezet onderwijs, het diploma voorbereidend beroepsonderwijs, het diploma mavo-vbo en de diploma's voorbereidend middelbaar beroepsonderwijs betrekking moeten hebben, alsmede vakken en andere programma-onderdelen die deel moeten hebben uitgemaakt van het examen ter verkrijging van een van deze diploma's, om te kunnen worden toegelaten tot een opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen b tot en met e. De eerste volzin is van overeenkomstige toepassing op de diploma’s van beroepsopleidingen, bedoeld in artikel 7.2.2, eerste lid, onderdelen a tot en met c, ingeval van doorstroom van een lager naar een hoger niveau als bedoeld in artikel 7.2.2, derde lid, met dien verstande dat er geen sprake is van een voorstel van organisaties in het voortgezet onderwijs.   
 2.  In de ministeriële regeling kan onderscheid worden gemaakt naar groepen van deelnemers, dan wel kan worden bepaald dat de regeling niet van toepassing is op groepen van deelnemers.   
 
 ### Titel  3  
@@ -2509,7 +2515,9 @@ c. werkomstandigheden en voorzieningen voor deelnemers binnen de instelling;
 
 d. het beleid met betrekking tot intake- en assessmentprocedures;  
 
-e. de rol van deelnemers bij de interne kwaliteitszorg en zelfevaluatie.     
+e. de rol van deelnemers bij de interne kwaliteitszorg en zelfevaluatie;  
+
+f. de te verstrekken informatie aan aspirant-deelnemers van beroepsopleidingen, bedoeld in artikel 6.1.3a.    
 5.  In het reglement kunnen andere, nader te omschrijven onderwerpen worden opgenomen ten aanzien waarvan een van de bijzondere bevoegdheden aan de deelnemersraad wordt toegekend.   
 6.  De deelnemersraad heeft adviesbevoegdheid met betrekking tot een voorgenomen besluit van de raad van toezicht ten aanzien van de profielen, bedoeld in artikel 9.1.4, vijfde lid.   
 7.  Alvorens de raad van toezicht tot benoeming of ontslag van een lid van het college van bestuur overgaat, wordt de deelnemersraad vertrouwelijk gehoord over het voorgenomen besluit tot benoeming of ontslag. Het horen geschiedt op een zodanig tijdstip dat het van wezenlijke invloed kan zijn op de besluitvorming. 
@@ -2720,8 +2728,7 @@ c. stelt Onze Minister de raad van toezicht vier weken in de gelegenheid zijn zi
 
 ####Overdracht taken en bevoegdheden
 
-1.  Het bevoegd gezag van een openbare instelling kan hem bij wettelijk voorschrift opgedragen taken en bevoegdheden overdragen aan een alsdan in te stellen college van bestuur. Artikel 9.1.4, eerste, tweede en vijfde lid, en artikel 9.1.7, eerste en tweede lid, zijn in dat geval van overeenkomstige toepassing.   
-2.   Indien dat dienstig is voor een goede uitvoering van deze wet, kan het bevoegd gezag de uitoefening van hem bij wettelijk voorschrift opgedragen taken en bevoegdheden opdragen aan het bestuur van een kenniscentrum beroepsonderwijs bedrijfsleven. Bij ministeriële regeling kan worden bepaald onder welke voorwaarden toepassing kan worden gegeven aan de eerste volzin. Indien daaraan toepassing wordt gegeven, doet het bevoegd gezag hiervan melding aan Onze Minister.  
+Het bevoegd gezag van een openbare instelling kan hem bij wettelijk voorschrift opgedragen taken en bevoegdheden overdragen aan een alsdan in te stellen college van bestuur. Artikel 9.1.4, eerste, tweede en vijfde lid, en artikel 9.1.7, eerste en tweede lid, zijn in dat geval van overeenkomstige toepassing. 
 
 ### Artikel  9.1.7  
 
@@ -2753,27 +2760,17 @@ In afwijking van artikel 9.1.4, eerste lid, kan een functionele scheiding tussen
 
 ### Titel  2  
 
-####De kenniscentra beroepsonderwijs bedrijfsleven
+####De Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
 
 ### Artikel  9.2.1  
 
-####Kenniscentra beroepsonderwijs bedrijfsleven; samenstelling
+#### *Samenstelling en statuten rechtspersoon* 
 
-1.  Een kenniscentrum beroepsonderwijs bedrijfsleven wordt in stand gehouden door een rechtspersoon met volledige rechtsbevoegdheid zonder winstoogmerk niet zijnde een rechtspersoon als bedoeld in artikel 2:1 van het Burgerlijk Wetboek.   
-2.   Het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven bestaat:  
-
-a. ofwel voor een derde deel uit vertegenwoordigers van werkgeversorganisaties, voor een derde deel uit vertegenwoordigers van werknemersorganisaties en voor een derde deel uit vertegenwoordigers van de instellingen en de andere instellingen, bedoeld in artikel 1.4.1;  
-
-b. ofwel voor de helft uit vertegenwoordigers van werkgeversorganisaties en voor de helft uit vertegenwoordigers van werknemersorganisaties.     
-3.  Aan een kenniscentrum beroepsonderwijs bedrijfsleven is een paritaire commissie beroepsonderwijs bedrijfsleven verbonden, die voor de helft bestaat uit vertegenwoordigers van het bedrijfsleven en voor de helft uit vertegenwoordigers van de instellingen en de andere instellingen, bedoeld in artikel 1.4.1, die opleidingen verzorgen op het terrein waarop het kenniscentrum beroepsonderwijs bedrijfsleven werkzaam is. Onder de vertegenwoordigers van de instellingen bevinden zich in elk geval een of meer docenten als bedoeld in artikel 4.2.1. De paritaire commissie heeft tot taak om overeenstemming te bereiken tussen vertegenwoordigers van het bedrijfsleven en vertegenwoordigers van de instellingen over de inhoud van de bij Onze Minister in te dienen voorstellen voor kwalificatiedossiers.  
-4.   Het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven kan indien dat dienstig is voor een goede uitvoering van deze wet, aan het bevoegd gezag van een instelling de uitoefening van hem bij wettelijk voorschrift opgedragen taken en bevoegdheden opdragen, met uitzondering van het doen van voorstellen als bedoeld in artikel 7.2.4, tweede en derde lid. Bij ministeriële regeling kan worden bepaald onder welke voorwaarden toepassing kan worden gegeven aan de eerste volzin. Indien daaraan toepassing wordt gegeven, doet het bevoegd gezag hiervan melding aan Onze Minister.  
-
-### Artikel  9.2.2  
-
-####Bestuursoverdracht kenniscentrum beroepsonderwijs bedrijfsleven
-
-1.  De rechtspersoon die een kenniscentrum beroepsonderwijs bedrijfsleven in stand houdt, kan de instandhouding van dat kenniscentrum overdragen aan een andere rechtspersoon die voldoet aan artikel 9.2.1, eerste lid.   
-2.   Op deze overdracht is artikel 9.1.2, tweede tot en met vierde lid, van toepassing.  
+1.  De Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven is een rechtspersoon met volledige rechtsbevoegdheid zonder winstoogmerk niet zijnde een rechtspersoon als bedoeld in artikel 1, Boek 2 van het Burgerlijk Wetboek.   
+2.  In het bestuur van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven en de organen, ingesteld ter uitwerking van het vierde lid, eerste volzin, participeren vertegenwoordigers van het beroepsonderwijs en het bedrijfsleven.   
+3.  De voorzitter van het bestuur van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven en diens plaatsvervanger worden op voordracht van vertegenwoordigers van het beroepsonderwijs en van het bedrijfsleven benoemd door Onze Minister, voor een periode van ten hoogste vier jaar. Zij kunnen ten hoogste eenmaal worden herbenoemd voor een periode van ten hoogste vier jaar.   
+4.  De statuten van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven bevatten een regeling voor de betrokkenheid van het beroepsonderwijs en het bedrijfsleven bij de totstandkoming van voorstellen voor kwalificatiedossiers en de criteria, bedoeld in artikel 7.2.10, eerste lid, en bij de uitvoering van de overige taken van de organisatie. De regeling kan nader worden uitgewerkt in een bestuursreglement.   
+5.  De statuten en het bestuursreglement alsmede wijzigingen daarvan behoeven de goedkeuring van Onze Minister.  
 
 ### Hoofdstuk  10  
 
@@ -2797,7 +2794,7 @@ Indien de uitspraak op een beroep als bedoeld in artikel 2 van de bij de Algemen
 
 ####Inhouding bekostiging
 
-1.  Indien het bevoegd gezag van een instelling of een kenniscentrum beroepsonderwijs bedrijfsleven in strijd handelt met het bepaalde bij of krachtens deze wet dan wel indien de raad van toezicht een aanwijzing als bedoeld in artikel 9.1.4a niet opvolgt, kan Onze Minister bepalen dat de rijksbijdrage, voorschotten daaronder begrepen, geheel of gedeeltelijk wordt ingehouden dan wel opgeschort.   
+1.  Indien het bevoegd gezag van een instelling in strijd handelt met het bepaalde bij of krachtens deze wet dan wel indien de raad van toezicht een aanwijzing als bedoeld in artikel 9.1.4a niet opvolgt, kan Onze Minister bepalen dat de rijksbijdrage, voorschotten daaronder begrepen, geheel of gedeeltelijk wordt ingehouden dan wel opgeschort.   
 2.   Het eerste lid is van overeenkomstige toepassing, indien het bevoegd gezag of het personeel van een instelling in strijd handelt met artikel 5:20 van de Algemene wet bestuursrecht.  
 3. Onze Minister kan de rijksbijdrage wederom toekennen, indien blijkt dat de reden voor de toepassing van het eerste of tweede lid is vervallen.
 4. Het eerste tot en met derde lid is van overeenkomstige toepassing indien het bevoegd gezag van een agrarisch opleidingscentrum ten aanzien van het voorbereidend beroepsonderwijs dat in de instelling wordt verzorgd, in strijd handelt met het bepaalde bij of krachtens de Wet op het voortgezet onderwijs.
@@ -2889,20 +2886,13 @@ Diploma’s en certificaten ingevolge de Wet op het voortgezet onderwijs, de Wet
 
 ####Handhaving voorschriften personeel
 
-1.  De op 31 december 1995 geldende voorschriften vastgesteld bij of krachtens de artikelen 37a, 38, 39, 40 en 40a van de Wet op het voortgezet onderwijs, de artikelen 2.42, 2.45, 2.46, 2.51, 2.75 en 2.76 van de Wet op het cursorisch beroepsonderwijs en artikel 9 van de Kaderwet Volwasseneneducatie 1991, berusten ten aanzien van het personeel aan instellingen in de zin van deze wet met ingang van 1 januari 1996 op onderscheidenlijk de artikelen 4.1.1, 4.1.2, 3.1.2 en 3.2.1.   
-2.   De op 31 december 1995 geldende voorschriften vastgesteld bij of krachtens de artikelen 2.55 en 2.59 van de Wet op het cursorisch beroepsonderwijs berusten ten aanzien van het personeel van kenniscentra beroepsonderwijs bedrijfsleven met ingang van 1 januari 1996 op onderscheidenlijk de artikelen 4.3.1, 4.3.2 en 3.3.1.  
+De op 31 december 1995 geldende voorschriften vastgesteld bij of krachtens de artikelen 37a, 38, 39, 40 en 40a van de Wet op het voortgezet onderwijs, de artikelen 2.42, 2.45, 2.46, 2.51, 2.75 en 2.76 van de Wet op het cursorisch beroepsonderwijs en artikel 9 van de Kaderwet Volwasseneneducatie 1991, berusten ten aanzien van het personeel aan instellingen in de zin van deze wet met ingang van 1 januari 1996 op onderscheidenlijk de artikelen 4.1.1, 4.1.2, 3.1.2 en 3.2.1. 
 
 ### Artikel  12.2.5  
 
 ####Handhaving inrichtings- en examenvoorschriften v.a.v.o.
 
 De op 31 december 1995 geldende voorschriften met betrekking tot het voortgezet algemeen volwassenenonderwijs die berusten op de artikelen 23b, tweede lid, en 29, vijfde lid, van de Wet op het voortgezet onderwijs, berusten ten aanzien van de opleidingen voortgezet algemeen volwassenenonderwijs, bedoeld in artikel 7.3.4, met ingang van 1 januari 1996 op artikel 7.3.4, tweede lid, onderscheidenlijk artikel 7.4.11, derde en zevende lid. 
-
-### Artikel  12.2.6  
-
-####Aanspraken gewezen personeel
-
-Personeelsleden die op 1 januari 1996 niet in dienst zijn van een instelling in de zin van deze wet of een kenniscentrum beroepsonderwijs bedrijfsleven en die voor die datum ten laste van het Rijk verbonden waren aan een school voor beroepsbegeleidend onderwijs, een school voor middelbaar beroepsonderwijs, een school voor voortgezet algemeen volwassenenonderwijs, een vormingsinstituut voor jeugdigen, een instelling voor basiseducatie, een landbouwpraktijkschool, of een kenniscentrum beroepsonderwijs bedrijfsleven waaruit de instelling of het kenniscentrum beroepsonderwijs bedrijfsleven voortkomt en die op dat tijdstip aan bij of krachtens de Wet op het cursorisch beroepsonderwijs, de Wet op het voortgezet onderwijs of de Kaderwet Volwasseneneducatie 1991 gegeven voorschriften aanspraken, rechten en verplichtingen ontlenen of kunnen ontlenen, ontlenen of kunnen deze met ingang van 1 januari 1996 ontlenen aan artikel 4.1.2 onderscheidenlijk artikel 4.3.2. 
 
 ### Artikel  12.2.7  
 
@@ -2928,13 +2918,6 @@ c. degene die
 
 Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven met betrekking tot de gevolgen voor het personeel van de invoering van deze wet. 
 
-### Artikel  12.2.10  
-
-####Aanhangige beroepsprocedures
-
-1.  Op geschillen tussen personeel en bevoegd gezag van een school voor beroepsbegeleidend onderwijs, een school voor middelbaar beroepsonderwijs dan wel wat deeltijds middelbaar beroepsonderwijs betreft van een andere school, van een vormingsinstituut voor jeugdigen, van een instelling voor basiseducatie, een landbouwpraktijkschool of een kenniscentrum beroepsonderwijs bedrijfsleven die ingevolge de op 31 december 1995 geldende voorschriften aanhangig zijn gemaakt bij een commissie van beroep of bij de burgerlijke rechter, blijven de op die dag geldende regelingen van toepassing.   
-2.   Het eerste lid is van overeenkomstige toepassing met betrekking tot geschillen tussen het bevoegd gezag en een deelnemer met betrekking tot examens.  
-
 ### Titel  3  
 
 ####Invoering van de wet
@@ -2953,12 +2936,6 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gege
 1.  Ten aanzien van de beroepsopleidingen die een voortzetting vormen van de opleidingen voor deeltijds middelbaar beroepsonderwijs in de sector dienstverlening en gezondheidszorg, op 31 december 1995 op grond van artikel 3.11 van de Wet op het cursorisch beroepsonderwijs verbonden aan de Hogeschool Haarlem en aan de Hogeschool Tilburg, behouden deze hogescholen aanspraak op bekostiging uit ’s Rijks kas.   
 2.   Bij ministeriële regeling worden voorschriften gegeven voor de toepassing van deze wet ten aanzien van de in het eerste lid genoemde beroepsopleidingen.  
 
-### Artikel  12.3.44  
-
-####Financiële afwikkeling
-
-De op 31 december 1995 geldende voorschriften vastgesteld bij of krachtens de Wet op het voortgezet onderwijs, de Wet op het cursorisch beroepsonderwijs of de Kaderwet Volwasseneneducatie 1991 blijven van toepassing ten aanzien van bedragen waarop de instellingen en de kenniscentra beroepsonderwijs bedrijfsleven voor 1 januari 1996 ingevolge de bedoelde voorschriften aanspraak hebben, maar die nog niet zijn vastgesteld of uitbetaald. 
-
 ### Artikel  12.3.49  
 
 ####Afschaffing adviesverplichtingen
@@ -2974,7 +2951,7 @@ Bevat wijzigingen in deze regelgeving.
 ####Tijdelijke verstrekking middelen aan instellingen
 
 1.  Onze Minister voegt voor een bij ministeriële regeling te bepalen periode aan de rijksbijdrage voor het beroepsonderwijs, berekend op grond van artikel 2.2.2, al dan niet onder door hem op te leggen verplichtingen, een bedrag toe in verband met de invoering van passend onderwijs.   
-2.  Het bedrag wordt voor een periode van een jaar berekend door het voor leerlinggebonden financiering voor alle instellingen gezamenlijk vastgestelde budget voor het studiejaar dat start op het tijdstip van inwerkingtreding van dit artikel over de instellingen te verdelen naar rato van het gemiddelde bedrag dat een instelling voor de drie studiejaren daaraan voorafgaand ontving voor leerlinggebonden financiering. Voor zover het betreft de leerlinggebonden financiering voor cluster 2, bedoeld in artikel 2, vierde lid, van de Wet op de expertisecentra, wordt op het budget, bedoeld in de eerste volzin, het deel van het leerlinggebonden budget als bedoeld in artikel 2.2.7 zoals luidend voor inwerkingtreding van dit artikel in mindering gebracht. 
+2.  Het bedrag wordt voor een periode van een jaar berekend door het voor leerlinggebonden financiering voor alle instellingen gezamenlijk vastgestelde budget voor het studiejaar dat start op het tijdstip van inwerkingtreding van dit artikel over de instellingen te verdelen naar rato van het gemiddelde bedrag dat een instelling voor de drie studiejaren daaraan voorafgaand ontving voor leerlinggebonden financiering. Voor zover het betreft de leerlinggebonden financiering voor cluster 2, bedoeld in artikel 2, vierde lid, van de Wet op de expertisecentra, wordt op het budget, bedoeld in de eerste volzin, het deel van het leerlinggebonden budget als bedoeld in artikel 2.2.7 zoals luidend voor inwerkingtreding van dit artikel in mindering gebracht. Op het budget, bedoeld in de eerste volzin, wordt tevens in mindering gebracht de bedragen die op grond van artikel 2.7.2, eerste lid, tabel B, van het Uitvoeringsbesluit WEB, zoals dat luidde op 31 juli 2014, zijn toegekend aan het bevoegd gezag van de school voor speciaal en voortgezet speciaal onderwijs «De Waterlelie» te Cruquius en het bevoegd gezag van de school voor speciaal en voortgezet speciaal onderwijs «De Berkenschutse» te Heeze op peildatum 1 oktober 2011. 
 
 ### Titel  4a  
 

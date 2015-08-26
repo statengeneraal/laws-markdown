@@ -872,7 +872,7 @@ Deze titel laat onverlet hetgeen bepaald is bij de Wet op de formeel buitenlands
 ### Artikel  126  
 
 1.  Deze titel laat onverlet het op 1 juli 1985 te ’s-Gravenhage tot stand gekomen Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van trusts (Trb. 1985, 141), alsmede titel 11 van dit Boek. Onverminderd hetgeen voortvloeit uit dat verdrag en die titel, is een rechtshandeling die strekt tot een door Nederlands recht beheerste overdracht aan de trustee van een trust als bedoeld in artikel 142 van dit Boek welke wordt beheerst door buitenlands recht, niet een ongeldige titel op de enkele grond dat die rechtshandeling tot doel heeft dat goed over te dragen tot zekerheid of de strekking mist het goed na de overdracht in het vermogen van de verkrijger te doen vallen.   
-2.  Deze titel laat onverlet de richtlijn nr. 93/7/ EEG van de Raad van de Europese Gemeenschappen van 15 maart 1993 betreffende de teruggave van cultuurgoederen die op onrechtmatige wijze buiten het grondgebied van een lidstaat zijn gebracht (Pb L74) alsmede de Implementatiewet bescherming cultuurgoederen tegen illegale uitvoer.  
+2.  Deze titel laat onverlet Richtlijn 2014/60/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de teruggave van cultuurgoederen die op onrechtmatige wijze buiten het grondgebied van een lidstaat zijn gebracht en houdende wijziging van Verordening (EU) nr. 1024/2012 (PbEU 2014, L 159) alsmede de bepalingen ter implementatie van deze richtlijn in het Burgerlijk Wetboek, Wetboek van Burgerlijke Rechtsvordering en de Wet tot behoud van cultuurbezit.  
 
 ###Afdeling  2  
 
@@ -1025,13 +1025,8 @@ Bepalingen van Nederlands recht inzake eigendomsoverdracht, zekerheidsrecht of d
 
 ### Artikel  145  
 
-1.  Voor de toepassing van deze titel wordt verstaan onder het Haags Erfrechtverdrag 1989: het op 1 augustus 1989 te ’s-Gravenhage tot stand gekomen Verdrag inzake het recht dat van toepassing is op erfopvolging (Trb. 1994, 49)   
-2.  Het recht dat van toepassing is op erfopvolging wordt aangewezen door het Haags Erfrechtverdrag 1989.  
-
-### Artikel  146  
-
-1.  In hoeverre een natuurlijke persoon uiterste wilsbeschikkingen kan maken, wordt bepaald door zijn nationale recht.   
-2.  Indien de betrokken persoon de nationaliteit van meer dan een staat bezit en hij in een van deze staten zijn gewone verblijfplaats heeft, geldt het recht van die staat als zijn nationale recht. Heeft de betrokken persoon zijn gewone verblijfplaats niet in een van deze staten, dan geldt als zijn nationale recht het recht van de staat van zijn nationaliteit waarmee hij, alle omstandigheden in aanmerking genomen, het nauwst is verbonden.  
+1.  Voor de toepassing van deze titel wordt verstaan onder de verordening erfrecht: de verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PbEU 2012, L 201).   
+2.  Voor de toepassing van deze titel wordt verstaan onder het Haags Erfrechtverdrag 1989: het op 1 augustus 1989 te ’s-Gravenhage tot stand gekomen Verdrag inzake het recht dat van toepassing is op erfopvolging (Trb. 1994, 49).  
 
 ### Artikel  147  
 
@@ -1051,19 +1046,20 @@ De herroeping door de erflater van alle eerder door hem gemaakte uiterste wilsbe
 ### Artikel  150  
 
 1.  De taak en de bevoegdheden van een door de erflater aangewezen vereffenaar worden door het Nederlandse recht beheerst indien de erflater zijn laatste gewone verblijfplaats in Nederland had.   
-2.  De rechter kan op verlangen van een belanghebbende voorzieningen treffen om te waarborgen dat met betrekking tot de vererving van de in Nederland gelegen bestanddelen van de nalatenschap het volgens het verdrag toepasselijke recht wordt in acht genomen. Hij kan bevelen dat in verband daarmee zekerheden worden gesteld.  
+2.  De rechter kan op verlangen van een belanghebbende voorzieningen treffen om te waarborgen dat met betrekking tot de vererving van de in Nederland gelegen bestanddelen van de nalatenschap het volgens het Haags Erfrechtverdrag 1989 toepasselijke recht wordt in acht genomen. Hij kan bevelen dat in verband daarmee zekerheden worden gesteld.  
 
 ### Artikel  151  
 
-1.  Het recht dat van toepassing is op de vorm van uiterste wilsbeschikkingen wordt bepaald door het op 5 oktober 1961 te ’s-Gravenhage tot stand gekomen Verdrag inzake de wetsconflicten betreffende de vorm van testamentaire beschikkingen (Trb. 1980, 54).   
+1.  De verordening erfrecht laat onverlet het op 5 oktober 1961 te ’s-Gravenhage tot stand gekomen Verdrag inzake de wetsconflicten betreffende de vorm van testamentaire beschikkingen (Trb. 1980, 50). Het recht dat van toepassing is op de vorm van uiterste wilsbeschikkingen wordt bepaald door dit verdrag.   
 2.  Een mondelinge testamentaire beschikking welke, behoudens in buitengewone omstandigheden, is gemaakt door een Nederlander die niet tevens een andere nationaliteit bezit, wordt in Nederland niet erkend.  
 
 ### Artikel  152  
 
-1.  De artikelen 147 tot en met 150 van dit Boek zijn van toepassing op de erfopvolging van personen wier overlijden na 1 oktober 1996 heeft plaatsgevonden.   
+1.  De artikelen 147 en 148 zijn van toepassing op de erfopvolging van personen wier overlijden na 1 oktober 1996 heeft plaatsgevonden. Op de erfopvolging van personen wier overlijden op of na 17 augustus 2015 heeft plaatsgevonden is artikel 147 alleen van toepassing als het vermogensbestanddeel waarop de verrekening betrekking heeft, ligt in een staat die niet gebonden is door de verordening erfrecht.   
 2.  Indien de erflater voor 1 oktober 1996 het op zijn erfopvolging toepasselijke recht heeft aangewezen, wordt die aanwijzing als geldig beschouwd indien zij voldoet aan de vereisten van artikel 5 van het Haags Erfrechtverdrag 1989.   
 3.  Indien de partijen bij een overeenkomst inzake erfopvolging voor 1 oktober 1996 het op die overeenkomst toepasselijke recht hebben aangewezen, wordt die aanwijzing als geldig beschouwd indien zij voldoet aan de vereisten van artikel 11 van het Haags Erfrechtverdrag 1989.   
-4.  Onverminderd de voorgaande leden kan een aanwijzing door de erflater van het op de vererving van zijn nalatenschap toepasselijke recht of de wijziging van een zodanige aanwijzing, welke is geschied voor 1 oktober 1996, niet als ongeldig worden beschouwd op de enkele grond dat de wet een zodanige aanwijzing toen niet regelde.  
+4.  Onverminderd de voorgaande leden kan een aanwijzing door de erflater van het op de vererving van zijn nalatenschap toepasselijke recht of de wijziging van een zodanige aanwijzing, welke is geschied voor 1 oktober 1996, niet als ongeldig worden beschouwd op de enkele grond dat de wet een zodanige aanwijzing toen niet regelde.   
+5.  De artikelen 149 en 150 zijn uitsluitend van toepassing op de erfopvolging van personen wier overlijden na 1 oktober 1996 en vóór 17 augustus 2015 heeft plaatsgevonden. 
 
 ###Titel  13  
 

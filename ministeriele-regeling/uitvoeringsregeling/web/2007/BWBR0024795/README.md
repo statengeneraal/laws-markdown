@@ -209,27 +209,13 @@ b. het aantal deelnemers aan de opleiding, bedoeld in artikel 7.2.2, eerste lid 
 
 ####Voorschriften bekostiging educatie
 
+Vervallen per 01-01-2015 
+
 ### §  1  
 
 ####Voorschriften educatie
 
-### Artikel  4.1.1  
-
-####Voorwaarde toekennen rijksbijdrage educatie aan gemeente
-
-De rijksbijdrage educatie per gemeente wordt aan de gemeente toegekend onder de voorwaarde dat gedurende de periode van 1 januari tot en met 31 december van het jaar waarvoor de middelen worden toegekend, één of meer overeenkomsten als bedoeld in artikel 2.3.4, eerste lid, van de wet van kracht zijn, op grond waarvan die gemeente zich verplicht tot toekenning en beschikbaarstelling van het totale bedrag van de rijksbijdrage educatie voor deze periode ten behoeve van activiteiten gedurende de looptijd van de overeenkomst of overeenkomsten. 
-
-### Artikel  4.1.2  
-
-####Vermindering door de gemeente van de bedragen educatie aan instellingen
-
-1.  Indien een gemeente beslist tot een vermindering van het bedrag van de verplichting, bedoeld in artikel 4.1.1, ten opzichte van een bepaalde instelling, gedurende of na afloop van het kalenderjaar waarvoor de desbetreffende rijksbijdrage educatie is toegekend, is die vermindering niet eerder van kracht dan nadat: 
-
-a. tussen het gemeentebestuur en het bevoegd gezag van de instelling een redelijke termijn voor de vermindering is overeengekomen, of,  
-
-b. de schade is vergoed die de instelling lijdt doordat zij in vertrouwen op het voortduren van de overeenkomst anders heeft gehandeld dan zij bij vermindering met toepassing van een redelijke termijn zou hebben gedaan.     
-2.  Het eerste lid is van overeenkomstige toepassing op wijzigingen in de overeenkomst, bedoeld in het eerste lid.   
-3.  Het eerste lid is niet van toepassing indien de vermindering het gevolg is van een vermindering van de rijksbijdrage educatie voor de desbetreffende gemeente voor de desbetreffende periode.  
+Vervallen per 01-01-2015 
 
 ### Hoofdstuk  5  
 
