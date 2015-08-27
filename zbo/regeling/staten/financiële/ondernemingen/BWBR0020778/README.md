@@ -93,7 +93,7 @@ c. de termijn dat de uitzonderlijke omstandigheden zich voordoen.
 8.  Een verzekeraar waarop artikel 131, vijfde lid, van het Besluit van toepassing is, verstrekt binnen 8 weken na afloop van de kwartalen die eindigen op 30 juni 2015 onderscheidenlijk op 30 september 2015 de modelkwartaalstaten ter voorbereiding op de richtlijn Solvabiliteit II, zoals opgenomen in bijlage 1, onderdeel Verzekeraars – Overgangsregime 2015. 
 9. Een beheerder op welke het ingevolge de wet bepaalde, met uitzondering van de artikelen 3:74c, 4:37l tot en met 4:37m, 5:19a en 5:25c van de wet, niet van toepassing is op grond van artikel 1:13b van de wet, verstrekt de staten als bedoeld in bijlage 6 die op hem van toepassing zouden zijn indien de beheerder zou beschikken over een vergunning als bedoeld in artikel 2:65 van de wet, met uitzondering van de staten genoemd in onderdeel B van tabel 6.5 van die bijlage. 
 10.  Een bank of beleggingsonderneming in de zin van artikel 4 van de CRR, verstrekt tevens de staten met de frequenties en indieningstermijnen zoals bepaald door de technische uitvoeringsnorm inzake rapportages van de EBA;   
-11.  Een beheerder op welke het ingevolge de wet bepaalde, met uitzondering van de artikelen 3:74c, 4:37l tot en met 4:37m, 5:19a en 5:25c van de wet, niet van toepassing is op grond van artikel 1:13b van de wet, verstrekt de staten als bedoeld in bijlage 6 die op hem van toepassing zouden zijn indien de beheerder zou beschikken over een vergunning als bedoeld in artikel 2:65 van de wet. 
+11.  Vervallen. 
 12. Een afwikkelonderneming als bedoeld in artikel 130, zevende lid, van het Besluit verstrekt de staten zoals opgenomen in bijlage 14 aan DNB met de frequenties en binnen de termijnen, zoals vermeld in de bijlage 6 bij deze regeling.
 
 ### Artikel  2:3  
@@ -258,12 +258,12 @@ Ligt ter inzage bij de Nederlandsche Bank N.V.
 | Staat  | Frequentie  | Indieningstermijn  | Solo  | Geconsolideerd  |
 |:---|:---|:---|:---|:---|
 |  *FINREP*   | --- | --- | --- | --- |
-| BALANCE SHEET STATEMENT  | Per kalenderkwartaal  | Uiterlijk op 12 mei, 11 augustus, 11 november en 11 februari; of indien dit valt op een feestdag, zaterdag of zondag; de eerstvolgende werkdag.  | JA  | NEE  |
-| PROFIT & LOSS ACCOUNT  | Per kalenderkwartaal  | Idem  | JA  | NEE  |
-| BREAKDOWNS OF CERTAIN BALANCE SHEET AND INCOME EXPENSE ITEMS  | Per kalenderkwartaal  | Idem  | JA  | NEE  |
+| BALANCE SHEET STATEMENT  | Per kalender halfjaar (per Q2 en per Q4)  | Uiterlijk op 12 mei, 11 augustus, 11 november en 11 februari; of indien dit valt op een feestdag, zaterdag of zondag; de eerstvolgende werkdag.  | JA  | NEE  |
+| PROFIT & LOSS ACCOUNT  | Per kalender halfjaar (per Q2 en per Q4)  | Idem  | JA  | NEE  |
+| BREAKDOWNS OF CERTAIN BALANCE SHEET AND INCOME EXPENSE ITEMS  | Per kalender halfjaar (per Q2 en per Q4)  | Idem  | JA  | NEE  |
 |  *OTHER TEMPLATES*   | --- | --- | --- | --- |
-| FIXED OVERHEAD REQUIREMENTS  | Per kalenderkwartaal  | Idem  | NEE  | NEE  |
-| STATEMENT  | Per kalenderkwartaal  | Idem  | JA  | NEE  |
+| FIXED OVERHEAD REQUIREMENTS  | Per kalender halfjaar (per Q2 en per Q4)  | Idem  | NEE  | NEE  |
+| STATEMENT  | Per kalender halfjaar (per Q2 en per Q4)  | Idem  | JA  | NEE  |
 
 ### 6.4  
 
@@ -291,9 +291,9 @@ A. Beheerders met zetel in Nederland van een icbe
 
 | Staat  | Frequentie  | Indieningstermijn  |
 |:---|:---|:---|
-| *FINREPBSACT*  | Geconsolideerde balans (activa)  | per kalender halfjaar  | Uiterlijk op de laatste werkdag van de maand die volgt op de verslagperiode  |
-| *FINREPBSPAS*  | Geconsolideerde balans (passiva)  |
-| *FINREPVW*  | Geconsolideerde winst- en verliesrekening  |
+| *FINREPBSACT*  | Solo (enkelvoudige) balans (activa)  | per kalender halfjaar  | Uiterlijk op de laatste werkdag van de maand die volgt op de verslagperiode  |
+| *FINREPBSPAS*  | Solo (enkelvoudige) balans (passiva)  |
+| *FINREPVW*  | Solo (enkelvoudige) winst- en verliesrekening  |
 | *OFF-BS*  | Verplichtingen buiten de balans  |
 | *EV*  | Minimum vereist eigen vermogen  |
 | *SOLVKAPB*  | Minimumomvang toetsingsvermogen  |
@@ -306,9 +306,9 @@ B. Nederlandse beheerder van een beleggingsinstelling die beschikt over een verg
 
 | Staat  | Frequentie  | Indieningstermijn  |
 |:---|:---|:---|
-| *FINREPBSACT*  | Geconsolideerde balans (activa)  | per kalender halfjaar  | Uiterlijk op de laatste werkdag van de maand die volgt op de verslagperiode  |
-| *FINREPBSPAS*  | Geconsolideerde balans (passiva)  |
-| *FINREPVW*  | Geconsolideerde winst- en verliesrekening  |
+| *FINREPBSACT*  | Solo (enkelvoudige) balans (activa)  | per kalender halfjaar  | Uiterlijk op de laatste werkdag van de maand die volgt op de verslagperiode  |
+| *FINREPBSPAS*  | Solo (enkelvoudige) balans (passiva)  |
+| *FINREPVW*  | Solo (enkelvoudige) winst- en verliesrekening  |
 | *OFF-BS*  | Verplichtingen buiten de balans  |
 | *EV*  | Minimum vereist eigen vermogen  |
 | *SOLVKAPB*  | Minimumomvang toetsingsvermogen  |

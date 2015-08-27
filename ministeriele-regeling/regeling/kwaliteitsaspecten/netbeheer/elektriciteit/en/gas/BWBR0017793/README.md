@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 20 december 2004, nr. WJZ 4082582, houdende nadere regels ten aanzien van de kwaliteitsaspecten van het netbeheer op het terrein van elektriciteit en gas (Regeling kwaliteitsaspecten netbeheer elektriciteit en gas)
 
 De Minister van Economische Zaken,
-Gelet op de [artikelen 19a, vijfde lid](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), en [21, derde lid, van de Elektriciteitswet 1998](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en de [artikelen 8, derde lid](../../../../../../../../wet/gaswet/BWBR0011440/README.md), en [35a, vijfde lid, van de Gaswet](../../../../../../../../wet/gaswet/BWBR0011440/README.md);
+Gelet op de artikelen 19a, vijfde lid, en 21, derde lid, van de Elektriciteitswet 1998 en de artikelen 8, derde lid, en 35a, vijfde lid, van de Gaswet;
 Besluit:  
 ###Hoofdstuk 1 
 
@@ -39,14 +39,14 @@ k. het aantal getroffen afnemers: de sommatie, per onderbreking, van
 
 2°. het aantal afnemers die door de onderbreking zijn getroffen en die zijn aangesloten op onderliggende netvlakken van het net waarin de onderbreking is veroorzaakt die door andere netbeheerders worden beheerd;    
 
-l. kwaliteits- en capaciteitsdocument: het document, bedoeld in [artikel 21, tweede lid, van de Elektriciteitswet 1998](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 8, tweede lid, van de Gaswet](../../../../../../../../wet/gaswet/BWBR0011440/README.md);  
+l. kwaliteits- en capaciteitsdocument: het document, bedoeld in artikel 21, tweede lid, van de Elektriciteitswet 1998 of artikel 8, tweede lid, van de Gaswet;  
 
 m. capaciteitsknelpunten: netdelen of onderdelen van het net waarvan de capaciteit op enig moment minder bedraagt of zal bedragen dan de geraamde behoefte aan capaciteit voor het transport van elektriciteit of gas, rekening houdend met de door de netbeheerder gehanteerde marges omtrent nauwkeurigheid en onzekerheid;  
 
 n. aanrijdtijd storing: het aantal minuten vanaf het tijdstip van de melding van een storing tot het tijdstip waarop een vertegenwoordiger van de netbeheerder op de gemelde storingslocatie aankomt.    
-2.  Waar in deze regeling naar de netbeheerder wordt verwezen, wordt daarmee bedoeld de netbeheerder, bedoeld in[ artikel 1, eerste lid, onderdeel k, van de Elektriciteitswet 1998](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en de netbeheerder, bedoeld in [artikel 1, eerste lid, onderdeel e, van de Gaswet](../../../../../../../../wet/gaswet/BWBR0011440/README.md).   
-3.  Waar in deze regeling naar het net wordt verwezen, wordt daarmee bedoeld het net, bedoeld in [artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en het gastransportnet, bedoeld in [artikel 1, eerste lid, onderdeel d, van de Gaswet](../../../../../../../../wet/gaswet/BWBR0011440/README.md).   
-4.  Waar in deze regeling naar de netbeheerder van een landelijk net wordt verwezen, wordt daarmee bedoeld de netbeheerder van het landelijk hoogspanningnet, bedoeld in [artikel 1, eerste lid, onderdeel j, van de Elektriciteitswet 1998](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), en de netbeheerder van het landelijk gastransportnet, bedoeld in [artikel 1, eerste lid, onderdeel n, van de Gaswet](../../../../../../../../wet/gaswet/BWBR0011440/README.md).   
+2.  Waar in deze regeling naar de netbeheerder wordt verwezen, wordt daarmee bedoeld de netbeheerder, bedoeld in artikel 1, eerste lid, onderdeel k, van de Elektriciteitswet 1998 en de netbeheerder, bedoeld in artikel 1, eerste lid, onderdeel e, van de Gaswet.   
+3.  Waar in deze regeling naar het net wordt verwezen, wordt daarmee bedoeld het net, bedoeld in artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998 en het gastransportnet, bedoeld in artikel 1, eerste lid, onderdeel d, van de Gaswet.   
+4.  Waar in deze regeling naar de netbeheerder van een landelijk net wordt verwezen, wordt daarmee bedoeld de netbeheerder van het landelijk hoogspanningnet, bedoeld in artikel 1, eerste lid, onderdeel j, van de Elektriciteitswet 1998, en de netbeheerder van het landelijk gastransportnet, bedoeld in artikel 1, eerste lid, onderdeel n, van de Gaswet.   
 5.  Bij de toepassing van de artikelen 2, eerste lid, 3 tot en met 5, 7, eerste lid en tweede lid, onderdelen a, b, d, e, h, i en k, 8, eerste lid, 10, eerste lid, en 16, eerste lid, onderdeel c, maakt de netbeheerder een onderscheid tussen voorziene en onvoorziene onderbrekingen. 
 
 ###Hoofdstuk 2 
@@ -59,20 +59,20 @@ n. aanrijdtijd storing: het aantal minuten vanaf het tijdstip van de melding van
 
 ### Artikel  2  
 
-1.  In de registratie, bedoeld in [artikel 19a, eerste lid, van de Elektriciteitswet 1998](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), worden de volgende kwaliteitsindicatoren opgenomen: 
+1.  In de registratie, bedoeld in artikel 19a, eerste lid, van de Elektriciteitswet 1998, worden de volgende kwaliteitsindicatoren opgenomen: 
 
 a. de jaarlijkse uitvalduur;  
 
 b. de gemiddelde onderbrekingsduur;  
 
 c. de onderbrekingsfrequentie.     
-2.  In de registratie, bedoeld in [artikel 35a, eerste lid, van de Gaswet](../../../../../../../../wet/gaswet/BWBR0011440/README.md), worden de volgende kwaliteitsindicatoren opgenomen: 
+2.  In de registratie, bedoeld in artikel 35a, eerste lid, van de Gaswet, worden de volgende kwaliteitsindicatoren opgenomen: 
 
 a. de kwaliteitsindicatoren, bedoeld het eerste lid;  
 
-b. het aantal voorvallen dat de dood of letsel van een persoon dan wel schade aan een zaak of het milieu heeft veroorzaakt dat aan de Onderzoeksraad voor veiligheid is gemeld op grond van [artikel 9, eerste lid, onderdeel g, van het Besluit Onderzoeksraad voor veiligheid](../../../../../../../../AMvB/besluit/onderzoeksraad/voor/veiligheid/BWBR0017681/README.md);  
+b. het aantal voorvallen dat de dood of letsel van een persoon dan wel schade aan een zaak of het milieu heeft veroorzaakt dat aan de Onderzoeksraad voor veiligheid is gemeld op grond van artikel 9, eerste lid, onderdeel g, van het Besluit Onderzoeksraad voor veiligheid;  
 
-c. het aantal voorvallen dat gevaar voor de dood of letsel van een persoon dan wel schade aan een zaak of het milieu in het leven heeft geroepen dat aan de Onderzoeksraad voor veiligheid is gemeld op grond van [artikel 9, eerste lid, onderdeel g, van het Besluit Onderzoeksraad voor veiligheid](../../../../../../../../AMvB/besluit/onderzoeksraad/voor/veiligheid/BWBR0017681/README.md);  
+c. het aantal voorvallen dat gevaar voor de dood of letsel van een persoon dan wel schade aan een zaak of het milieu in het leven heeft geroepen dat aan de Onderzoeksraad voor veiligheid is gemeld op grond van artikel 9, eerste lid, onderdeel g, van het Besluit Onderzoeksraad voor veiligheid;  
 
 d. de gemiddelde aanrijdtijd bij een storing;  
 
@@ -80,7 +80,7 @@ e. het aantal door de netbeheerder vastgestelde lekken in het gastransportnet;
 
 f. het aantal door de netbeheerder vastgestelde lekken in de aansluitingen.     
 3.  Bij de registratie van de kwaliteitsindicatoren, bedoeld in het tweede lid, onderdelen e en f, maakt de netbeheerder onderscheid tussen lekken die een onmiddellijk gevaar opleveren voor personen en objecten en overige lekken.   
-4.  In afwijking van het tweede lid, onderdelen a en d, wordt door de netbeheerder van het landelijk gastransportnet, bedoeld in [artikel 1, eerste lid, onderdeel n, van de Gaswet](../../../../../../../../wet/gaswet/BWBR0011440/README.md) als kwaliteitsindicatoren opgenomen: 
+4.  In afwijking van het tweede lid, onderdelen a en d, wordt door de netbeheerder van het landelijk gastransportnet, bedoeld in artikel 1, eerste lid, onderdeel n, van de Gaswet als kwaliteitsindicatoren opgenomen: 
 
 a. het aantal transportonderbrekingen, zijnde het aantal keren dat voor een netgebruiker gedurende bepaalde tijd geen transport van gas kon worden verricht of dat een netgebruiker gedurende bepaald tijd door lage druk geen gebruik kon maken van het verrichte gastransport, met uitzondering van transportonderbrekingen die aan de netgebruiker kunnen worden toegerekend;  
 
@@ -116,7 +116,7 @@ S = het totale aantal storingen;
 
 ###Artikel 7 
 
-1. In de registratie, bedoeld in [artikel 19a, eerste lid, van de Elektriciteitswet 1998](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), worden de volgende gegevens opgenomen, onderscheiden naar spanningsniveau:
+1. In de registratie, bedoeld in artikel 19a, eerste lid, van de Elektriciteitswet 1998, worden de volgende gegevens opgenomen, onderscheiden naar spanningsniveau:
 
 a.het identificatienummer dat de netbeheerder toekent aan de onderbreking;
 
@@ -131,7 +131,7 @@ e.de aard en de oorzaak van de onderbreking;
 f.het totale aantal getroffen afnemers;
 
 g.het spanningsniveau van het deel van het net waarin de onderbreking zich voordoet.
-2. In de registratie, bedoeld in [artikel 35a, eerste lid, van de Gaswet](../../../../../../../../wet/gaswet/BWBR0011440/README.md), worden de volgende gegevens opgenomen, onderscheiden naar drukniveau:
+2. In de registratie, bedoeld in artikel 35a, eerste lid, van de Gaswet, worden de volgende gegevens opgenomen, onderscheiden naar drukniveau:
 
 a.het identificatienummer dat de netbeheerder toekent aan de storing, de onderbreking of het vastgestelde lek;
 
@@ -171,7 +171,7 @@ d.de wijze waarop verlies of wijziging van geregistreerde gegevens wordt voorkom
 
 ###Artikel 9 
 
-In de rapportage, bedoeld in [artikel 19a, tweede lid, van de Elektriciteitswet 1998](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [artikel 35a, tweede lid, van de Gaswet](../../../../../../../../wet/gaswet/BWBR0011440/README.md), neemt de netbeheerder op:
+In de rapportage, bedoeld in artikel 19a, tweede lid, van de Elektriciteitswet 1998 en artikel 35a, tweede lid, van de Gaswet, neemt de netbeheerder op:
 
 a.de kwaliteitsindicatoren, bedoeld in artikel 2, eerste en tweede lid;
 
@@ -187,7 +187,7 @@ b.de oorzaken van de wijzigingen ten opzichte van het voorafgaande jaar.
 
 ### Artikel  10  
 
-1.  In het kwaliteits- en capaciteitsdocument geeft de netbeheerder, met uitzondering van de netbeheerder van het landelijk gastransportnet, bedoeld in [artikel 1, eerste lid, onderdeel n, van de Gaswet](../../../../../../../../wet/gaswet/BWBR0011440/README.md), aan welke waarden hij nastreeft voor: 
+1.  In het kwaliteits- en capaciteitsdocument geeft de netbeheerder, met uitzondering van de netbeheerder van het landelijk gastransportnet, bedoeld in artikel 1, eerste lid, onderdeel n, van de Gaswet, aan welke waarden hij nastreeft voor: 
 
 a. de jaarlijkse uitvalduur;  
 
@@ -195,7 +195,7 @@ b. de gemiddelde onderbrekingsduur;
 
 c. de onderbrekingsfrequentie.     
 2.  De formules, bedoeld in de artikelen 3 tot en met 5, zijn van overeenkomstige toepassing op het bepalen van de door een netbeheerder na te streven waarden voor de kwaliteitsindicatoren, bedoeld in het eerst lid, met dien verstande dat de variabelen in die formules geen betrekking hebben op gerealiseerde maar op na te streven eenheden.  
-3.  De netbeheerder, bedoeld in [artikel 1, eerste lid, onderdeel e, van de Gaswet](../../../../../../../../wet/gaswet/BWBR0011440/README.md) geeft naast de waarden, bedoeld in het eerste lid, in het document aan welke normen, richtlijnen en overige relevante voorschriften hij toepast in het kader van de veiligheid bij de aanleg, het onderhoud en het beheer van zijn gastransportnet en bij het verrichten van transport van gas via het gastransportnet.  
+3.  De netbeheerder, bedoeld in artikel 1, eerste lid, onderdeel e, van de Gaswet geeft naast de waarden, bedoeld in het eerste lid, in het document aan welke normen, richtlijnen en overige relevante voorschriften hij toepast in het kader van de veiligheid bij de aanleg, het onderhoud en het beheer van zijn gastransportnet en bij het verrichten van transport van gas via het gastransportnet.  
 
 ### Artikel  11  
 
@@ -309,7 +309,7 @@ c. de wijzigingen van de toestand van de componenten ten opzichte van het vooraf
 
 ### Artikel  18  
 
-1.  De beschrijving van de leidingen en hulpmiddelen, bedoeld in artikel 17, eerste lid, betreffende een net als bedoeld in [artikel 1, eerste lid, onderdeel d, van de Gaswet](../../../../../../../../wet/gaswet/BWBR0011440/README.md) bevat in ieder geval een beschrijving van: 
+1.  De beschrijving van de leidingen en hulpmiddelen, bedoeld in artikel 17, eerste lid, betreffende een net als bedoeld in artikel 1, eerste lid, onderdeel d, van de Gaswet bevat in ieder geval een beschrijving van: 
 
 a. de materiaalsoort, de functie, de diameter en de lengte van een leiding;  
 
@@ -320,7 +320,7 @@ c. de druk gemeten in bar waaronder een leiding gebruikt wordt;
 d. in geval van een stalen leiding, de bekleding van de leiding en de vermelding of sprake is van kathodische bescherming van de leiding;  
 
 e. de stations en appendages, alsmede de datum van ingebruikneming of, indien die niet bekend is, een gemotiveerde aanduiding van de periode van ingebruikneming.     
-2.  De beschrijving van de verbindingen en hulpmiddelen, bedoeld in artikel 17, eerste lid, betreffende een net als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) bevat in ieder geval een beschrijving van: 
+2.  De beschrijving van de verbindingen en hulpmiddelen, bedoeld in artikel 17, eerste lid, betreffende een net als bedoeld in artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998 bevat in ieder geval een beschrijving van: 
 
 a. het materiaal van de kern, het isolatiemateriaal en de diameter van de verbinding;  
 
@@ -365,7 +365,7 @@ f. interne en externe communicatieafspraken.
 
 ### Artikel  20b  
 
-De netbeheerder verstrekt met betrekking tot een voorval, bedoeld in [artikel 8a, eerste lid, van de Gaswet](../../../../../../../../wet/gaswet/BWBR0011440/README.md), zodra zij bekend zijn, aan de Minister van Economische Zaken, Landbouw en Innovatie de gegevens over: 
+De netbeheerder verstrekt met betrekking tot een voorval, bedoeld in artikel 8a, eerste lid, van de Gaswet, zodra zij bekend zijn, aan de Minister van Economische Zaken, Landbouw en Innovatie de gegevens over: 
 
 a. de oorzaken van het voorval en de omstandigheden waaronder het voorval zich heeft voorgedaan;  
 

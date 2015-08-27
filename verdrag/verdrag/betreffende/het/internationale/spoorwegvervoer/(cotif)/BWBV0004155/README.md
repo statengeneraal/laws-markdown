@@ -567,57 +567,14 @@ b) seulement quelques-uns des Etats membres et les dépenses qui sont supportée
 § 10. L'Etat membre qui a dénoncé la Convention peut devenir à nouveau Etat membre par adhésion, sous réserve qu'il ait payé les sommes dont il est débiteur.
 § 11. L'Organisation perçoit une rémunération pour couvrir les frais particuliers résultant des activités prévues à l'article 21, § 3, lettres j) à l). Dans les cas prévus à l'article 21, § 3, lettres j) et k), cette rémunération est fixée par le Comité administratif, sur proposition du Secrétaire général; dans le cas prévu à l'article 21, § 3, lettre l), l'article 31, § 3 est applicable. 
 
-### Article  27  
+###  Article  27  
 
 ####Vérification des comptes
 
-§ 1. Sauf décision contraire de l'Assemblée générale prise en vertu de l'article 14, § 2, lettre k), la vérification des comptes est effectuée par l'Etat de siège selon les règles du présent article et, sous réserve de toutes directives spéciales du Comité administratif, en conformité avec le règlement concernant les finances et la comptabilité de l'Organisation (article 15, § 5, lettre e)).
-§ 2. Le Vérificateur vérifie les comptes de l'Organisation, y compris tous les fonds fiduciaires et comptes spéciaux, comme il le juge nécessaire pour s'assurer: 
-
-a) que les états financiers sont conformes aux livres et écritures de l'Organisation;  
-
-b) que les opérations financières dont les états rendent compte ont été menées en conformité avec les règles et les règlements, les dispositions budgétaires et les autres directives de l'Organisation;  
-
-c) que les valeurs et le numéraire déposés en banque ou en caisse ont été soit vérifiés grâce à des certificats directement reçus des dépositaires, soit effectivement comptés;  
-
-d) que les contrôles intérieurs, y compris la vérification intérieure des comptes, sont adéquats;  
-
-e) que tous les éléments de l'actif et du passif ainsi que tous les excédents et déficits ont été comptabilisés selon des procédures qu'il juge satisfaisantes.   
-§ 3. Le Vérificateur a librement accès, à tout moment, à tous les livres, écritures, documents comptables et autres informations dont il estime avoir besoin. 
-§ 4. Dans son rapport sur les opérations financières, le Vérificateur mentionne: 
-
-a) la nature et l'étendue de la vérification à laquelle il a procédé;  
-
-b) les éléments qui ont un lien avec le caractère complet ou l'exactitude des comptes, y compris le cas échéant: 
-
-1. les informations nécessaires à l'interprétation et à l'appréciation correctes des comptes;  
-
-2. toute somme qui aurait dû être perçue mais qui n'a pas été passée en compte;  
-
-3. toute somme qui a fait l'objet d'un engagement de dépense régulier ou conditionnel et qui n'a pas été comptabilisée ou dont il n'a pas été tenu compte dans les états financiers;  
-
-4. les dépenses à l'appui desquelles il n'est pas produit de pièces justificatives suffisantes;  
-
-5. la tenue des livres de comptes en bonne et due forme; il y a lieu de relever les cas où la présentation matérielle des états financiers s'écarte des principes comptables généralement reconnus et constamment appliqués;   
-
-c) les autres questions sur lesquelles il y a lieu d'appeler l'attention du Comité administratif, par exemple: 
-
-1. les cas de fraude ou de présomption de fraude;  
-
-2. le gaspillage ou l'utilisation irrégulière de fonds ou d'autres avoirs de l'Organisation (quand bien même les comptes relatifs à l'opération effectuée seraient en règle);  
-
-3. les dépenses risquant d'entraîner ultérieurement des frais considérables pour l'Organisation;  
-
-4. tout vice, général ou particulier, du système de contrôle des recettes et des dépenses ou des fournitures et du matériel;  
-
-5. les dépenses non conformes aux intentions du Comité administratif, compte tenu des virements dûment autorisés à l'intérieur du budget;  
-
-6. les dépassements de crédits, compte tenu des modifications résultant de virements dûment autorisés à l'intérieur du budget;  
-
-7. les dépenses non conformes aux autorisations qui les régissent;  
-
-d) l'exactitude ou l'inexactitude des comptes relatifs aux fournitures et au matériel, établie d'après l'inventaire et l'examen des livres. En outre, le rapport peut faire état d'opérations qui ont été comptabilisées au cours d'une période budgétaire antérieure et au sujet desquelles de nouvelles informations ont été obtenues ou d'opérations qui doivent être faites au cours d'une période budgétaire ultérieure et au sujet desquelles il semble souhaitable d'informer le Comité administratif par avance.
-§ 5. Le Vérificateur communique au Comité administratif et au Secrétaire général les constatations faites lors de la vérification. Il peut, en outre, présenter tout commentaire qu'il juge approprié au sujet du rapport financier du Secrétaire général. 
+§ 1.  Sauf décision contraire de l’Assemblée générale prise en vertu de l’article 14, § 2, lettre k), la vérification des comptes est effectuée par l’Etat de siège selon les règles du présent article et, sous réserve de toutes directives spéciales du Comité administratif, en conformité avec le règlement concernant les finances et la comptabilité de l’Organisation (article 15, § 5, lettre e)).   
+§ 2.  Le Vérificateur a librement accès, à tout moment, à tous les livres, écritures, documents comptables et autres informations dont il estime avoir besoin.   
+§ 3.  Le Vérificateur communique au Comité administratif et au Secrétaire général les constatations faites lors de la vérification. Il peut, en outre, présenter tout commentaire qu’il juge approprié au sujet du rapport financier du Secrétaire général.   
+§ 4.  Le mandat de vérification des comptes est défini dans le règlement concernant les finances et la comptabilité et par le mandat additionnel annexé à ce dernier.   
 
 ### TITRE V 
 
@@ -2414,7 +2371,7 @@ a) «entreprise de transport ferroviaire» désigne toute entreprise à statut p
 
 b) «véhicule» désigne tout véhicule, apte à circuler sur ses propres roues sur des voies ferrées, non pourvu de moyen de traction;  
 
-c) «détenteur» désigne celui qui exploite économiquement, de manière durable, un véhicule en tant que moyen de transport, qu'il en soit propriétaire ou qu'il en ait le droit de disposition;  
+c) « détenteur » désigne la personne ou l’entité propriétaire du véhicule ou disposant d’un droit de disposition sur celui-ci, qui exploite ledit véhicule à titre de moyen de transport; 
 
 d) «gare d'attache» désigne le lieu qui est inscrit sur le véhicule et auquel ce véhicule peut ou doit être renvoyé conformément aux conditions du contrat d'utilisation.   
 
@@ -2579,8 +2536,8 @@ Sauf clause contraire dans les présentes Règles uniformes, est nulle et de nul
 
 ####Droit non affecté
 
-§ 1.  Les dispositions de l’article 5 tout comme celles des articles 6, 7 et 22 n’affectent pas les obligations que les parties au contrat d’utilisation de l’infrastructure sont tenues de remplir conformément aux lois et prescriptions en vigueur dans l’Etat dans lequel se situe l’infrastructure, y compris, le cas échéant, le droit communautaire.   
-§ 2.  Les dispositions des articles 8 et 9 n’affectent pas les obligations que les parties au contrat d’utilisation de l’infrastructure sont tenues de remplir dans un Etat membre de la CE ou dans un Etat où la législation communautaire s’applique par suite d’accords internationaux conclus avec la Communauté européenne.   
+§ 1.  Les dispositions de l’article 5 tout comme celles des articles 6, 7 et 22 n’affectent pas les obligations que les parties au contrat d’utilisation de l’infrastructure sont tenues de remplir conformément aux lois et prescriptions en vigueur dans l’Etat dans lequel se situe l’infrastructure, y compris, le cas échéant, le droit de l’Union européenne.   
+§ 2.  Les dispositions des articles 8 et 9 n’affectent pas les obligations que les parties au contrat d’utilisation de l’infrastructure sont tenues de remplir dans un Etat membre de l’UE ou dans un Etat où la législation de l’Union européenne s’applique par suite d’accords internationaux conclus avec l’Union européenne.   
 § 3.  Les dispositions des §§ 1 et 2 concernent en particulier: 
 
 – les accords à conclure entre les entreprises ferroviaires ou les candidats autorisés et les gestionnaires d’infrastructure,  
@@ -2908,7 +2865,7 @@ Les demandes visées aux articles 5 et 6 doivent être envoyées au Secrétaire 
 
 § 1.  Les PTU adoptées sont publiées sur le site Web de l’Organisation.   
 § 2.  En principe, chaque sous-système est soumis à une PTU. Au besoin, un sous-système pourra être couvert par plusieurs PTU et une PTU couvrir plusieurs sous-systèmes.   
-§ 2a.  Les PTU s’appliquent aux sous-systèmes neufs. Elles s’appliquent également à un sous-système existant lorsque celui-ci a été rénové ou renouvelé et conformément à la stratégie de migration visée au § 4, lettre f).   
+§ 2a.  Les PTU s’appliquent aux sous-systèmes neufs. Elles s’appliquent également à un sous-système existant lorsque celui-ci a été rénové ou renouvelé. Cette application doit être conforme à la stratégie de migration visée au § 4, lettre f).   
 § 3.  Au terme du processus de notification prévu à l’article 35, §§ 3 et 4 de la Convention et au minimum un mois avant l’entrée en vigueur, le Secrétaire général publie sur le site Web de l’Organisation 
 
 a) la PTU adoptée et notifiée;  
@@ -2937,7 +2894,7 @@ g) précisent, pour le personnel concerné, les qualifications professionnelles 
 § 6.  Les PTU doivent préserver, de manière appropriée, la compatibilité du système ferroviaire existant de chaque État partie. Au regard de cet objectif, il peut être prévu, dans chaque PTU, une disposition traitant de « cas spécifiques » applicables à un ou à plusieurs États parties dans les domaines des réseaux et des véhicules; une attention toute particulière doit être portée au gabarit de chargement, à l’écartement de la voie ou à l’espace entre les voies et aux véhicules au départ ou à destination de pays tiers. Pour chaque cas spécifique, les PTU stipulent les règles de mise en oeuvre des éléments indiqués au § 4, lettres c) à g).   
 § 7.  Les aspects techniques correspondant aux exigences essentielles qui ne peuvent pas être explicitement couverts par la PTU, seront clairement identifiés dans cette prescription comme « points ouverts ».   
 § 8.  La Commission d’experts techniques peut adopter des PTU ne faisant pas référence à des sous-systèmes telles que des dispositions générales, des exigences essentielles ou des modules d’évaluation.   
-§ 9.  Les PTU se présentent dans un format en deux colonnes. Quand le texte apparaît sur toute la largeur de la page sans colonnes, il est identique aux textes correspondants des spécifications techniques d’interopérabilité (STI) de la Communauté européenne. Quand le texte est scindé en deux colonnes, il est différent pour les PTU et les STI correspondantes ou autres réglementations de la Communauté européenne. Le texte de la PTU (réglementations de l’OTIF) apparaît dans la colonne de gauche, le texte de la STI (Communauté européenne), dans la colonne de droite. Tout à fait à droite la référence de la STI est indiquée.  
+§ 9.  Les PTU se présentent dans un format en deux colonnes. Quand le texte apparaît sur toute la largeur de la page sans colonnes, il est identique aux textes correspondants des spécifications techniques d’interopérabilité (STI) de l’Union européenne. Quand le texte est scindé en deux colonnes, il est différent pour les PTU et les STI correspondantes ou autres réglementations de l’Union européenne. Le texte de la PTU (réglementations de l’OTIF) apparaît dans la colonne de gauche, le texte de la STI (Union européenne) dans la colonne de droite. Tout à fait à droite, la référence de la STI est indiquée.  
 
 ### Article  8a  
 
@@ -2979,7 +2936,7 @@ b) du Règlement pour l’emploi réciproque des wagons en trafic international 
 
 ####Spécifications techniques nationales
 
-§ 1.  Les États parties veillent à informer le Secrétaire général de leurs spécifications techniques nationales applicables aux véhicules ferroviaires et aux autres matériels ferroviaires. Le Secrétaire général publie ces spécifications dans la banque de données visée à l’article 13 des Règles uniformes ATMF. L’information est communiquée au Secrétaire général dans les trois mois suivant la date d’entrée en vigueur des Règles uniformes révisées. La disposition temporaire ne peut rester en vigueur que jusqu’à sa mise en vigueur ou jusqu’à la mise en vigueur d’une spécification analogue par l’adoption de prescriptions conformément aux articles ci-dessus. L’État partie peut, à tout moment, retirer la disposition temporaire et le notifier au Secrétaire général.   
+§ 1.  Les États parties veillent à informer le Secrétaire général de leurs spécifications techniques nationales applicables aux véhicules ferroviaires. Le Secrétaire général publie ces spécifications dans la banque de données visée à l’article 13 des Règles uniformes ATMF. L’information est communiquée au Secrétaire général dans les trois mois suivant la date d’entrée en vigueur des Règles uniformes révisées. La disposition temporaire ne peut rester en vigueur que jusqu’à sa mise en vigueur ou jusqu’à la mise en vigueur d’une spécification analogue par l’adoption de prescriptions conformément aux articles ci-dessus. L’État partie peut, à tout moment, retirer la disposition temporaire et le notifier au Secrétaire général.   
 § 2.  Lorsqu’une PTU a été adoptée ou amendée, l’État partie veille à ce que le Secrétaire général soit informé (avec les éléments justificatifs à l’appui) des spécifications techniques nationales mentionnées au § 1 auxquelles il faudra continuer à se conformer pour pouvoir garantir la compatibilité technique entre les véhicules et son réseau; ces spécifications englobent les règles nationales applicables aux « points ouverts » des prescriptions techniques et aux cas spécifiques dûment identifiés dans la prescription technique. L’information communiquée comporte l’indication du/des « point(s) ouvert(s) » et/ou du/des « cas spécifique(s) » de la PTU auquel/auxquels se rapporte chaque spécification technique nationale. Les spécifications techniques nationales ne restent valides que si le Secrétaire général reçoit la notification dans les six mois suivant la date d’entrée en vigueur de la prescription technique en question ou de la modification qui lui a été apportée.   
 § 3.  L’information communiquée comporte le texte intégral de la disposition technique nationale dans une langue officielle de l’État partie, ainsi que le titre et un résumé dans l’une des langues officielles de l’OTIF.  
 
@@ -3073,85 +3030,95 @@ c) entre les spécifications techniques nationales d’un ou de plusieurs États
 
 Les présentes Règles uniformes fixent la procédure selon laquelle les véhicules ferroviaires sont admis à circuler et d’autres matériels ferroviaires à être utilisés en trafic international. 
 
-### Article  2  
+###  Article  2  
 
 ####Définitions
 
-Aux fins des présentes Règles uniformes et de leur(s) future(s) Annexe(s), des Règles uniformes APTU et de leur(s) Annexe(s) et des prescriptions techniques uniformes (PTU) APTU, les définitions suivantes s’appliquent: 
+Aux fins des présentes Règles uniformes et de leur(s) future(s) annexe(s), des Règles uniformes APTU et de leur(s) annexe(s) et des prescriptions techniques uniformes (PTU) APTU, les définitions suivantes s’appliquent : 
 
-a) « accident » désigne un événement indésirable ou non intentionnel et imprévu, ou un enchaînement particulier d’évènements de cette nature, ayant des conséquences préjudiciables; les accidents sont ventilés suivants les types ci-après: collisions, déraillements, accidents aux passages à niveau, accidents de personnes causés par le matériel roulant en marche, incendies et autres;  
+a) « accident » désigne un événement indésirable ou non intentionnel et imprévu, ou un enchaînement particulier d’évènements de cette nature, ayant des conséquences préjudiciables ; les accidents sont ventilés suivants les types ci-après : collisions, déraillements, accidents aux passages à niveau, accidents de personnes causés par le matériel roulant en marche, incendies et autres ;  
 
-b) « admission de type de construction » désigne le droit octroyé par lequel l’autorité compétente autorise un type de construction de véhicule ferroviaire comme base d’admission à l’exploitation de véhicules répondant à ce type de construction;  
+ab) « accréditation » désigne une attestation délivrée par un organisme d’accréditation national garantissant qu’un organisme d’évaluation de la conformité remplit les conditions fixées par les normes européennes harmonisées ou les normes internationales applicables et, s’il y a lieu, toute autre exigence, y compris celles énoncées dans les programmes sectoriels pertinents, pour mener une activité spécifique d’évaluation de la conformité ;  
 
-c) « admission à l’exploitation » désigne le droit octroyé par lequel l’autorité compétente autorise chaque véhicule ferroviaire ou d’autres matériels ferroviaires à circuler en trafic international;  
+ac) « organisme d’accréditation » désigne le seul organisme d’un État partie qui procède à des accréditations en vertu d’un pouvoir qui lui est conféré par l’État ;  
 
-d) « Commission d’experts techniques » désigne la Commission prévue à l’article 13, § 1, lettre f) de la Convention;  
+b) « admission de type de construction » désigne le droit octroyé par lequel l’autorité compétente autorise un type de construction de véhicule ferroviaire comme base d’admission à l’exploitation de véhicules répondant à ce type de construction, dont témoigne le certificat de type de conception ;  
 
-da) « entité adjudicatrice » désigne toute entité, publique ou privée, qui commande la conception ou la construction, le renouvellement ou le réaménagement d’un sous-système. Cette entité peut être une entreprise de transport ferroviaire, un gestionnaire d’infrastructure ou un détenteur, ou bien le concessionnaire qui est chargé de la mise en oeuvre d’un du projet;  
+c) « admission à l’exploitation » désigne le droit octroyé par lequel l’autorité compétente autorise un véhicule ferroviaire à circuler en trafic international, dont témoigne le certificat d’exploitation ;  
 
-e) « Etat partie » désigne tout Etat membre de l’Organisation n’ayant fait aucune déclaration concernant les présentes Règles uniformes conformément à l’article 42, § 1, première phrase de la Convention;  
+ca) « certificat d’exploitation » désigne l’attestation délivrée par l’autorité compétente portant sur l’admission à l’exploitation, avec les conditions d’admission ;  
 
-f) « déclaration » désigne la preuve d’une évaluation effectuée en tout ou partie pour confirmer qu’un véhicule, un type de construction ou un élément de construction respecte les dispositions des Règles uniformes APTU et de ses PTU (y compris les cas spécifiques applicables et les spécifications nationales en vigueur conformément à l’article 12 des Règles uniformes APTU);  
+cb) « certificat de vérification » désigne l’attestation délivrée par l’organisme d’évaluation garantissant que la vérification a eu lieu avec succès ;  
 
-g) « élément de construction » ou « constituant » désigne tout composant élémentaire, groupe de composants, complet ou sous-ensemble d’un équipement incorporé ou destiné à être incorporé dans un véhicule ferroviaire, dans d’autres matériels ferroviaires ou dans une infrastructure; le concept d’« élément de construction » couvre à la fois les objets matériels et immatériels tels qu’un logiciel;  
+d) « Commission d’experts techniques » désigne la Commission prévue à l’article 13, § 1, lettre f) de la Convention ;  
 
-h) « entité chargée de la maintenance » (ECM) désigne l’entité chargée de la maintenance d’un véhicule, qui est inscrite en tant que telle dans le registre des véhicules prévu à l’article 13; cette définition s’applique aussi à d’autres matériels ferroviaires;  
+da) « entité adjudicatrice » désigne toute entité, publique ou privée, qui commande la conception ou la construction, le renouvellement ou le réaménagement d’un sous-système. Cette entité peut être une entreprise de transport ferroviaire, un gestionnaire d’infrastructure ou un détenteur, ou bien le concessionnaire qui est chargé de la mise en oeuvre d’un du projet ;  
 
-i) « exigences essentielles » désignent toutes les conditions définies dans les Règles uniformes APTU qui doivent être remplies par le système ferroviaire, les sous-systèmes et les constituants d’interopérabilité, y compris les interfaces;  
+e) « État partie » désigne tout État membre de l’Organisation n’ayant fait aucune déclaration concernant les présentes Règles uniformes conformément à l’article 42, § 1, première phrase de la Convention ;  
 
-j) « incident » désigne tout événement autre qu’un accident ou qu’un accident grave, lié à l’exploitation de trains et affectant la sécurité de l’exploitation;  
+f) « certificat de type de conception » désigne l’attestation délivrée par l’autorité compétente portant sur l’admission d’un type de construction, avec les conditions d’admission ;  
 
-k) « gestionnaire d’infrastructure » désigne toute entreprise ou toute autorité qui gère une infrastructure ferroviaire;  
+g) « élément de construction » ou « constituant d’interopérabilité » désigne tout composant élémentaire, groupe de composants, ensemble complet ou sous-ensemble d’un équipement incorporé ou destiné à être incorporé dans un véhicule ferroviaire ou dans une infrastructure; le concept d’« élément de construction » couvre à la fois les objets matériels et immatériels tels qu’un logiciel ;  
 
-l) « trafic international » désigne la circulation des véhicules ferroviaires sur des lignes ferroviaires empruntant le territoire d’au moins deux Etats parties;  
+h) [réservé]  
 
-m) « enquête » désigne une procédure visant à prévenir les incidents et accidents et consistant à collecter et analyser des informations, à tirer des de conclusions, y compris la détermination des causes (actions, omissions, événements, conditions ou la combinaison de ces causes, ayant entraîné l’incident ou l’accident) et, le cas échéant, à formuler des recommandations en matière de sécurité;  
+i) « exigences essentielles » désignent toutes les conditions définies dans les PTU applicables qui doivent être remplies par le système ferroviaire, les sous-systèmes et les constituants d’interopérabilité, y compris les interfaces ;  
 
-n) « détenteur » désigne la personne ou l’entité qui, ayant la qualité de propriétaire d’un véhicule ou le droit de l’utiliser, exploite le véhicule comme moyen de transport et est inscrite en tant que telle dans le registre des véhicules prévu à l’article 13;  
+j) « incident » désigne tout événement autre qu’un accident ou qu’un accident grave, lié à l’exploitation de trains et affectant la sécurité de l’exploitation ;  
 
-o) « fichier de maintenance » désigne le/les document(s) spécifiant les tâches d’inspection et de maintenance à effectuer sur un (type de) véhicule ou sur d’autres matériels ferroviaires, qui est/sont établi(s) conformément aux règles et spécifications des PTU incluant, conformément à l’article 12 des Règles uniformes APTU, les éventuels cas spécifiques et les spécifications techniques nationales en vigueur;  
+k) « gestionnaire d’infrastructure » désigne toute entreprise ou toute autorité qui gère une infrastructure ferroviaire ;  
 
-p) « fichier de relevé de maintenance » désigne la documentation relative à un véhicule ou à d’autres matériels ferroviaires admis, qui contient le relevé de ses états de service ainsi que les inspections et opérations de maintenance effectuées sur ce véhicule;  
+l) « trafic international » désigne la circulation des véhicules ferroviaires sur des lignes ferroviaires empruntant le territoire d’au moins deux États parties ;  
 
-q) « réseau » désigne les lignes, les gares, les terminaux et tout type d’équipement fixe, nécessaire pour assurer une exploitation sûre et continue du système ferroviaire;  
+m) « enquête » désigne une procédure visant à prévenir les incidents et accidents et consistant à collecter et analyser des informations, à tirer des conclusions, y compris la détermination des causes (actions, omissions, événements, conditions ou la combinaison de ces causes, ayant entraîné l’incident ou l’accident) et, le cas échéant, à formuler des recommandations en matière de sécurité ;  
 
-r) « points ouverts » désignent les aspects techniques relatifs à des exigences essentielles qui n’ont pas été explicitement traités dans une PTU;  
+n) « détenteur » désigne la personne ou l’entité propriétaire du véhicule ou disposant d’un droit de disposition sur celui-ci, qui exploite ledit véhicule à titre de moyen de transport et est inscrite en tant que telle dans le registre des véhicules prévu à l’article 13 ;  
 
-s) « autre matériel ferroviaire » désigne tout matériel ferroviaire destiné à être utilisé en trafic international, qui n’est pas un véhicule ferroviaire;  
+o) « dossier de maintenance » désigne le ou les documents spécifiant les tâches d’inspection et de maintenance à effectuer sur un (type de) véhicule, qui sont établis conformément aux règles et dispositions des PTU incluant, conformément à l’article 12 des Règles uniformes APTU, les éventuels cas spécifiques et les spécifications techniques nationales en vigueur. Le dossier de maintenance inclut le fichier de relevé de maintenance défini à la lettre p) ;  
 
-t) « entreprise de transport ferroviaire » désigne toute entreprise à statut privé ou public 
+p) « fichier de relevé de maintenance » désigne la documentation relative à un véhicule admis, qui contient le relevé de ses états de service ainsi que les inspections et opérations de maintenance effectuées sur ce véhicule ;  
 
-– qui est autorisée à transporter des personnes ou des marchandises par chemin de fer et qui assure la traction ou  
+q) « réseau » désigne les lignes, les gares, les terminaux et tout type d’équipement fixe, nécessaire pour assurer une exploitation sûre et continue du système ferroviaire ;  
 
-– qui assure uniquement la traction;    
+r) « points ouverts » désignent les aspects techniques relatifs à des exigences essentielles qui n’ont pas été traités dans une PTU et y sont explicitement mentionnés comme tels ;  
 
-u) « infrastructure ferroviaire » (ou juste « infrastructure ») désigne l’ensemble des lignes ferroviaires et installations fixes dans la mesure où elles sont nécessaires à la compatibilité avec des véhicules ferroviaires et d’autres matériels ferroviaires admis conformément aux présentes Règles uniformes et à la circulation en toute sécurité de ces véhicules et d’autres matériels ferroviaires;  
+s) [réservé]  
 
-v) « matériel ferroviaire » désigne les véhicules ferroviaires, les autres matériels ferroviaires et les infrastructures ferroviaires;  
+t) « entreprise de transport ferroviaire » ou « entreprise ferroviaire » désigne toute entreprise à statut privé ou public qui est autorisée ou titulaire d’une licence en vertu du droit applicable pour fournir des services pour le transport ferroviaire de marchandises et/ou de voyageurs, la traction devant obligatoirement être assurée par cette entreprise ; ce terme recouvre aussi les entreprises qui assurent uniquement la traction ;  
 
-w) « véhicule ferroviaire » désigne tout véhicule apte à circuler sur ses propres roues sur des voies ferrées avec ou sans traction;  
+u) « infrastructure ferroviaire » (ou juste « infrastructure ») désigne l’ensemble des lignes ferroviaires et installations fixes dans la mesure où elles sont nécessaires à la compatibilité avec des véhicules ferroviaires admis conformément aux présentes Règles uniformes et à la circulation en toute sécurité de ces véhicules et d’autres matériels ferroviaires ;  
 
-x) « organisation régionale » désigne une organisation telle que définie à l’article 38 de la Convention, qui possède la compétence exclusive que lui ont cédée les Etats parties;  
+v) « matériel ferroviaire » désigne les véhicules ferroviaires et les infrastructures ferroviaires ;  
 
-y) « renouvellement » désigne tout travail de substitution majeur effectué sur un sous-système ou une partie de ce sous-système ne modifiant pas ses performances générales;  
+w) « véhicule ferroviaire » désigne tout véhicule apte à circuler sur ses propres roues sur des voies ferrées avec ou sans traction ;  
 
-ya) « RID » désigne l’Appendice C à la Convention;  
+wa) « reconnaissance » désigne : 
 
-z) « accident grave » désigne toute collision de trains ou tout déraillement de train faisant au moins un mort ou au moins cinq personnes grièvement blessées ou d’importants dommages au matériel roulant, à l’infrastructure ou à l’environnement, et tout autre accident similaire ayant des conséquences évidentes sur la règlementation ou la gestion de la sécurité ferroviaire; « importants dommages » désignent des dommages qui peuvent être immédiatement estimés par l’organisme d’enquête à un total d’au moins 1,8 million de DTS;  
+1. la reconnaissance par un organisme national compétent autre que l’organisme d’accréditation que l’entité remplit les conditions applicables, ou  
 
-aa) « cas spécifique » désigne toute partie du système ferroviaire des Etats parties qui nécessite des dispositions particulières dans les PTU, temporaires ou définitives, en raison de contraintes géographiques, topographiques, d’environnement urbain ou de cohérence par rapport au système existant. Cela peut comprendre notamment les lignes et réseaux ferroviaires isolés du reste du réseau, le gabarit, l’écartement ou l’entraxe des voies, ainsi que les véhicules et d’autres matériels ferroviaires exclusivement destinés à un usage local, régional ou historique, et les véhicules et d’autres matériels ferroviaires en provenance ou à destination de pays tiers;  
+2. l’acceptation par une autorité compétente des certificats, des documents de procédure ou des résultats des essais, délivrés par une entité d’un autre États partie ;    
 
-bb) « sous-système » désigne le résultat de la division du système ferroviaire indiqué dans les PTU; ces sous-systèmes, pour lesquels des exigences essentielles doivent être définies, sont de nature structurelle ou fonctionnelle;  
+x) « organisation régionale » désigne une organisation telle que définie à l’article 38 de la Convention, qui possède la compétence exclusive que lui ont cédée les États parties ;  
 
-cc) « admission technique » désigne la procédure conduite par l’autorité compétente pour admettre un véhicule ferroviaire à circuler et d’autres matériels ferroviaires à être utilisés en trafic international ou pour admettre le type de construction;  
+y) « renouvellement » désigne tout travail de substitution majeur effectué sur un sous-système ou une partie de ce sous-système ne modifiant pas ses performances générales ;  
 
-dd) « certificat technique » désigne la preuve officielle du succès d’une admission technique sous la forme d’un certificat de type de conception ou d’un certificat d’exploitation valides;  
+z) « accident grave » désigne toute collision de trains ou tout déraillement de train faisant au moins un mort ou au moins cinq personnes grièvement blessées ou d’importants dommages au matériel roulant, à l’infrastructure ou à l’environnement, et tout autre accident similaire ayant des conséquences évidentes sur la règlementation ou la gestion de la sécurité ferroviaire; « importants dommages » désignent des dommages qui peuvent être immédiatement estimés par l’organisme d’enquête à un total d’au moins 1,8 million de DTS ;  
 
-ee) « fichier technique » désigne la documentation relative au véhicule ou à un autre matériel ferroviaire, contenant toutes ses caractéristiques techniques (caractéristiques du type), y compris un manuel d’utilisation et les caractéristiques nécessaires à l’identification de l’objet/des objets concerné(s).  
+aa) « cas spécifique » désigne toute partie du système ferroviaire des États parties mentionnée comme disposition particulière dans les PTU, de manière temporaire ou définitive, en raison de contraintes géographiques, topographiques, d’environnement urbain ou de cohérence par rapport au système existant. Cela peut comprendre notamment les lignes et réseaux ferroviaires isolés du reste du réseau, le gabarit, l’écartement ou l’entraxe des voies, ainsi que les véhicules exclusivement destinés à un usage local, régional ou historique, et les véhicules en provenance ou à destination de pays tiers ;  
 
-eea) « STI » désignent les spécifications techniques d’interopérabilité adoptées en vertu des directives 96/48/CE, 2001/16/CE et 2008/57/CE, qui couvrent chaque sous-système ou chaque partie de sous-système afin de répondre aux exigences essentielles et de garantir l’interopérabilité du système ferroviaire;  
+bb) « sous-système » désigne le résultat de la division du système ferroviaire indiqué dans les PTU ; ces sous-systèmes, pour lesquels des exigences essentielles doivent être définies, sont de nature structurelle ou fonctionnelle ;  
 
-ff) « type de construction » désigne les caractéristiques de conception de base du véhicule ferroviaire ou d’autres matériels ferroviaires telles que couvertes par un certificat d’examen unique décrit dans le module d’évaluation SB des PTU;  
+cc) « admission technique » désigne la procédure conduite par l’autorité compétente pour admettre un véhicule ferroviaire à circuler en trafic international ou pour admettre un type de construction ;  
+
+dd) [réservé] ;  
+
+ee) « dossier technique » désigne la documentation relative au véhicule, contenant toutes ses caractéristiques techniques, y compris un manuel d’utilisation et les caractéristiques nécessaires à l’identification du ou des objets concernés, comme le décrit la PTU applicable ;  
+
+ee1) « train » désigne une formation avec traction, constituée d’un ou plusieurs véhicules ferroviaires et préparée pour l’exploitation ;  
+
+eea) « STI » désignent les spécifications techniques d’interopérabilité adoptées en vertu des directives 96/48/CE, 2001/16/CE ou 2008/57/CE, qui couvrent chaque sous-système ou chaque partie de sous-système afin de répondre aux exigences essentielles et de garantir l’interopérabilité du système ferroviaire ;  
+
+ff) « type de construction » désigne les caractéristiques de conception de base du véhicule ferroviaire telles que couvertes par un certificat d’examen de type ou un certificat d’examen de la conception, décrits respectivement dans les modules d’évaluation SB et SH1 de la PTU GEN-D ;  
 
 gg) « réaménagement » désigne tout travail de modification majeur effectué sur un sous-système ou une partie de ce sous-système, qui améliore ses performances générales.   
 
@@ -3173,27 +3140,31 @@ c) conditions particulières d’admission selon l’article 7a.
 
 ####Interaction avec d’autres accords internationaux
 
-§ 1.  Les véhicules ferroviaires et d’autres matériels ferroviaires mis en service conformément à la législation de la Communauté européenne (CE) applicable et à la législation nationale correspondante, sont considérés comme admis à l’exploitation par tous les Etats parties conformément aux présentes Règles uniformes 
+§ 1.  Les véhicules ferroviaires mis en service conformément à la législation de l’Union européenne (UE) applicable et à la législation nationale correspondante, sont considérés comme admis à l’exploitation par tous les États parties conformément aux présentes Règles uniformes 
 
-a) en cas d’équivalence pleine et entière entre les dispositions des STI applicables et les PTU correspondantes, et  
+a) en cas d’équivalence pleine et entière entre les dispositions des STI applicables et les PTU correspondantes,  
 
-b) à condition que la panoplie des STI applicables, en vertu desquelles le véhicule ferroviaire ou d’autres matériels ferroviaires ont été autorisés, couvrent l’ensemble des aspects des sous-systèmes concernés qui font partie du véhicule et  
+b) à condition que les STI applicables en vertu desquelles le véhicule ferroviaire a été autorisé, couvrent l’ensemble des aspects des sous-systèmes concernés qui font partie du véhicule,  
 
-c) à condition que ces STI ne contiennent aucun point ouvert relatif à la compatibilité technique avec l’infrastructure et  
+c) à condition que ces STI ne contiennent aucun point ouvert relatif à la compatibilité technique avec l’infrastructure,  
 
-d) à condition que le véhicule ou d’autres matériels ferroviaires ne fassent pas l’objet d’une dérogation.   Si ces conditions ne sont pas remplies, le véhicule ou l’autre matériel ferroviaire est régi par l’article 6, § 4.   
-§ 2.  Les véhicules ferroviaires et d’autres matériels ferroviaires ayant été admis à l’exploitation conformément aux présentes Règles uniformes, sont considérés comme mis en service dans les Etats membres de la Communauté européenne et dans les Etats appliquant la législation communautaire par suite d’accords internationaux conclus avec la Communauté européenne 
+d) à condition que le véhicule ou d’autres matériels ferroviaires ne fassent pas l’objet d’une dérogation,  
 
-a) en cas d’équivalence pleine et entière entre les dispositions des PTU applicables et les STI correspondantes et  
+e) à condition que le véhicule ne fasse pas l’objet de cas spécifiques limitant les conditions d’admission ou l’autorisation de mise en service.   Si les conditions a) à e) ne sont pas remplies, le véhicule ou l’autre matériel ferroviaire est régi par l’article 6, § 4.   
+§ 2.  Les véhicules ferroviaires ayant été admis à l’exploitation conformément aux présentes Règles uniformes, sont considérés comme admis à la mise en service dans les États membres de l’Union européenne et dans les États appliquant la législation communautaire par suite d’accords internationaux conclus avec l’Union européenne 
 
-b) à condition que la panoplie des PTU applicables, en vertu desquelles le véhicule ferroviaire ou d’autres matériels ferroviaires ont été autorisés, couvrent l’ensemble des aspects des sous-systèmes concernés qui font partie du véhicule et  
+a) en cas d’équivalence pleine et entière entre les dispositions des PTU applicables et les STI correspondantes,  
 
-c) à condition que ces PTU ne contiennent aucun point ouvert relatif à la compatibilité technique avec l’infrastructure, et  
+b) à condition que la panoplie des PTU applicables, en vertu desquelles le véhicule ferroviaire ou d’autres matériels ferroviaires ont été autorisés, couvrent l’ensemble des aspects des sous-systèmes concernés qui font partie du véhicule,  
 
-d) à condition que le véhicule ou d’autres matériels ferroviaires ne fassent pas l’objet d’une dérogation.   Si ces conditions ne sont pas remplies, le véhicule ou le matériel ferroviaire sera soumis à autorisation conformément au droit applicable dans les Etats membres de la Communauté européenne et dans les Etats appliquant la législation communautaire par suite d’accords internationaux conclus avec la Communauté européenne.   
-§ 3.  L’admission à l’exploitation, la circulation et la maintenance des véhicules ferroviaires et d’autres matériels ferroviaires utilisés dans les Etats membre de la Communauté européenne, sont régies par les législations communautaire et nationale applicables. Cette disposition est également applicable aux Etats parties appliquant la législation de la Communauté européenne pertinente par suite d’accords internationaux conclus avec celle-ci.   
+c) à condition que ces PTU ne contiennent aucun point ouvert relatif à la compatibilité technique avec l’infrastructure,  
+
+d) à condition que le véhicule ou d’autres matériels ferroviaires ne fassent pas l’objet d’une dérogation,  
+
+e) à condition que le véhicule ne fasse pas l’objet de cas spécifiques limitant les conditions d’admission ou l’autorisation de mise en service.   Si les conditions a) à e) ne sont pas remplies, le véhicule sera soumis à autorisation conformément au droit applicable dans les États membres de l’Union européenne et dans les États appliquant la législation communautaire par suite d’accords internationaux conclus avec l’Union européenne.   
+§ 3.  L’autorisation de mise en service, la circulation et la maintenance des véhicules ferroviaires destinés à être utilisés dans les États membres de l’Union européenne, sont régies par les législations communautaire et nationale applicables. Cette disposition est également applicable aux États parties appliquant la législation de l’Union européenne pertinente par suite d’accords internationaux conclus avec celle-ci. Pour les activités au sein de l’UE des entreprises ferroviaires et des gestionnaires d’infrastructure, la législation de l’Union européenne prime sur les dispositions des présentes Règles uniformes.   
 § 4.  Les §§ 1 à 2 s’appliquent par analogie aux admissions/autorisations des types de véhicules.   
-§ 5.  Une entité chargée de la maintenance (ECM) d’un wagon de marchandises, certifiée conformément à l’article 15, § 2, est réputée certifiée conformément à la législation de la Communauté européenne applicable et à la législation nationale correspondante et inversement, en cas d’équivalence pleine et entière entre le système de certification adopté en vertu de l’article 14a (5) de la directive 2004/49/CE concernant la sécurité des chemins de fer communautaires et les règles adoptées par la Commission d’experts techniques conformément à l’article 15, § 2.  
+§ 5.  Une entité chargée de l’entretien<sup> 1) Les exigences relatives à l’entité en charge de la maintenance sont énoncées à l’article 15. </sup> (ECE) d’un wagon de marchandises, certifiée conformément à l’article 15, § 2, est réputée certifiée conformément à la législation de l’Union européenne applicable et à la législation nationale correspondante et inversement, en cas d’équivalence pleine et entière entre le système de certification adopté en vertu de l’article 14 bis, § 5, de la directive 2004/49/CE concernant la sécurité des chemins de fer communautaires et les règles adoptées par la Commission d’experts techniques conformément à l’article 15, § 2. Ces règles adoptées sont énoncées à l’annexe A des présentes Règles uniformes.  
 
 ### Article  4  
 
@@ -3207,16 +3178,16 @@ b) soit, en deux étapes successives, en octroyant
 
 – l’admission de type de construction à un type de construction donné,  
 
-– puis l’admission à l’exploitation aux véhicules individuels répondant à ce type de construction par une procédure simplifiée de confirmation de l’appartenance à ce type.       
-§ 2.  Les évaluations de la conformité d’un véhicule ou d’un élément de construction aux dispositions des PTU, sur lesquelles l’admission est fondée, peuvent être scindées en modules d’évaluation, chacun attesté par une déclaration. Les modules d’évaluation et le modèle de la déclaration sont définis par la Commission d’experts techniques.   
-§ 3.  Les procédures d’admission technique de l’infrastructure ferroviaire sont régies par les dispositions en vigueur dans l’Etat partie en question.  
+– puis l’admission à l’exploitation aux véhicules individuels répondant à ce type de construction par une procédure de confirmation de l’appartenance à ce type.     Si le véhicule est admis en une seule étape, le type de construction du véhicule est admis en même temps.   
+§ 2.  Tout véhicule ou élément de construction est évalué en vue de sa conformité aux dispositions des PTU et aux spécifications techniques nationales applicables. Les procédures d’évaluation et la teneur des certificats PTU sont énoncés dans les PTU concernées. La Commission d’experts techniques est compétente pour amender et révoquer les procédures d’évaluation et la teneur des certificats PTU. Les évaluations de la conformité d’un véhicule aux dispositions des PTU, sur lesquelles l’admission est fondée, peuvent être scindées en différentes parties ou contrôlées à certaines étapes par l’organisme d’évaluation, chacune attestée par une attestation de contrôle intermédiaire. Les modules d’évaluation et le modèle de la déclaration sont définis par la Commission d’experts techniques.   
+§ 3.  Les procédures d’admission technique de l’infrastructure ferroviaire sont régies par les dispositions en vigueur dans l’État partie en question.  
 
 ### Article  5  
 
 ####Autorité compétente
 
-§ 1.  L’admission technique relève de l’autorité nationale ou internationale compétente en la matière conformément aux lois et prescriptions en vigueur dans chaque Etat partie.   
-§ 2.  Les autorités prévues au § 1 peuvent transférer ou transfèrent, conformément aux dispositions en vigueur dans leur Etat, en tout ou partie à des organismes reconnus aptes ayant leur siège dans leur Etat, la compétence d’effectuer des évaluations, y compris d’établir les déclarations correspondantes. Le transfert de compétence à 
+§ 1.  L’admission technique relève de l’autorité nationale ou internationale compétente en la matière conformément aux lois et prescriptions en vigueur dans chaque État partie, ci-après dénommée « autorité compétente ».   
+§ 2.  Les autorités compétentes peuvent transférer ou transfèrent, conformément aux dispositions en vigueur dans leur État, en tout ou partie à des organismes d’évaluation aptes ayant leur siège dans leur État, la compétence d’effectuer des évaluations, y compris d’établir les certificats de vérification correspondants. Le transfert de compétence à 
 
 a) une entreprise de transport ferroviaire,  
 
@@ -3224,99 +3195,86 @@ b) un gestionnaire d’infrastructure,
 
 c) un détenteur,  
 
-d) une entité chargée de la maintenance (ECM),  
+d) une entité chargée de l’entretien (ECE) en vertu de l’article 15,  
 
 e) un concepteur ou constructeur de matériel ferroviaire participant directement ou indirectement à la construction de matériels ferroviaires,   y compris les filiales des précédentes entités, est prohibé.   
-§ 3.  Pour être reconnus aptes, les organismes mentionnés au § 2 doivent remplir les conditions suivantes: 
+§ 3.  Pour être reconnus ou accrédités comme organismes d’évaluation mentionnés au § 2, les organismes doivent remplir les conditions suivantes : 
 
-a) l’organisme doit être indépendant dans son organisation, sa structure juridique, et sa prise de décision de toute entreprise ferroviaire, gestionnaire d’infrastructure, demandeur ou entité de passation de marchés; son directeur et le personnel responsable de la réalisation des évaluations ou de l’établissement des certificats et déclarations ne doivent pas se retrouver impliqués, que ce soit directement ou en tant que représentants habilités, dans la conception, la fabrication, la construction ou la maintenance des constituants, des véhicules ou des matériels ferroviaires ou dans l’utilisation de ces derniers. Ceci n’exclut pas pour autant la possibilité d’un échange d’informations techniques entre le fabricant ou constructeur et ledit organisme.  
+a) L’organisme d’évaluation doit être indépendant dans son organisation, sa structure juridique et sa prise de décision de toute entreprise ferroviaire, gestionnaire d’infrastructure, demandeur ou entité de passation de marchés.  
 
-b) L’organisme et le personnel responsable des évaluations effectuent les évaluations avec la plus grande intégrité professionnelle et la plus grande compétence technique possible et ne doivent faire l’objet ni de pressions, ni d’incitations, en particulier de nature financière, qui pourraient affecter leur jugement ou les résultats de leur inspection, en particulier de la part de personnes ou de groupes de personnes affectés par les résultats des évaluations.  
+b) En particulier, l’organisme d’évaluation et le personnel responsable des évaluations sont indépendants, sur le plan fonctionnel, des organismes chargés des enquêtes en cas d’accidents.  
 
-c) En particulier, l’organisme et le personnel responsable des évaluations sont indépendants, sur le plan fonctionnel, des organismes chargés des enquêtes en cas d’accidents.  
-
-d) L’organisme emploie le personnel et possède les moyens nécessaires pour pouvoir exécuter de manière appropriée les tâches technico-administratives liées aux évaluations; il doit avoir également accès à l’équipement requis pour des évaluations exceptionnelles.  
-
-e) Le personnel responsable des évaluations possède 
-
-– une formation technique et professionnelle appropriée,  
-
-– une connaissance satisfaisante des exigences relatives aux évaluations qu’il effectue et une pratique suffisante de ces évaluations et  
-
-– l’aptitude à établir les certificats, comptes rendus et rapports constituant le compte-rendu formel des évaluations conduites.    
-
-f) L’indépendance du personnel responsable des évaluations est garantie. Aucun agent ne peut être rémunéré sur la base du nombre d’évaluations effectuées ou des résultats de ces évaluations.  
-
-g) L’organisme souscrit une assurance de responsabilité civile, à moins que ladite responsabilité ne soit couverte par l’Etat en vertu de la législation nationale ou à moins que les évaluations ne soient effectuées directement par l’Etat partie.  
-
-h) Le personnel de l’organisme est lié par le secret professionnel concernant tout ce qui vient à sa connaissance dans l’exercice de ses fonctions (à l’exception des autorités administratives compétentes dans l’Etat dans lequel elles exercent ces activités) conformément aux présentes Règles uniformes ou toute exigence légale et/ou réglementations de l’Etat partie, y compris, au besoin, la législation de la Communauté européenne.     
-§ 4.  Les dispositions du § 3 s’appliquent par analogie aux autorités effectuant l’admission technique.   
-§ 5.  Un Etat partie veille, par notification ou, au besoin, par les moyens prévus dans le droit communautaire ou dans le droit des Etats appliquant le droit communautaire par suite d’accords internationaux conclus avec la Communauté européenne, à ce que le Secrétaire général soit informé des organismes responsables de la réalisation des évaluations, vérifications et homologations, en indiquant le domaine de responsabilité de chacun d’eux. Le Secrétaire général publie et tient à jour une liste des organismes, de leur numéro d’identification et de leurs domaines de responsabilité.   
-§ 6.  Tout Etat partie garantit la surveillance adéquate des organismes mentionnés au § 2 et retire sa compétence à tout organisme ne remplissant plus les critères prévus au § 3, auquel cas il en informe sans délai le Secrétaire général.   
-§ 7.  Un Etat partie qui considère qu’une autorité d’évaluation ou d’homologation d’un autre Etat partie, ou qu’un organisme auquel il a transféré sa compétence, ne remplit pas les critères énoncés au § 3, peut porter l’affaire devant la Commission d’experts techniques qui, dans les quatre mois, informe l’Etat partie en question des changements de toutes natures auxquels il conviendra de procéder pour que l’organisme conserve le statut qui lui a été conféré. En relation avec ce qui précède, la Commission d’experts techniques peut décider d’ordonner à l’Etat partie de suspendre ou de retirer les homologations délivrées sur la base des travaux effectués par l’organisme ou l’autorité en question.  
+c) L’organisme d’évaluation remplit les conditions énoncées dans les PTU applicables.     
+§ 4.  Les dispositions du § 3 s’appliquent par analogie à l’autorité compétente pour les tâches mentionnées au § 2 qui n’ont pas été transférées à un organisme d’évaluation.   
+§ 5.  Un État partie veille, par notification ou, au besoin, par les moyens prévus dans le droit communautaire ou dans le droit des États appliquant le droit communautaire par suite d’accords internationaux conclus avec l’Union européenne, à informer le Secrétaire général de l’autorité compétente, des organismes d’évaluation et, s’il y a lieu, de l’organisme d’accréditation ou de l’organisme national compétent visé à l’article 2, lettre wa (1), en indiquant le domaine de responsabilité de chacun d’eux. Le Secrétaire général publie et tient à jour une liste des autorités compétentes, organismes d’évaluation, organismes d’accréditation et organismes nationaux compétents, de leur numéro d’identification, s’il y a lieu, et de leurs domaines de responsabilité.   
+§ 6.  Tout État partie garantit la surveillance adéquate des organismes d’évaluation mentionnés au § 2 et retire sa compétence à tout organisme d’évaluation ne remplissant plus les critères prévus au § 3, auquel cas il en informe sans délai le Secrétaire général.   
+§ 7.  Un État partie qui considère qu’un organisme d’évaluation ou l’autorité compétente d’un autre État partie ne remplit pas les critères énoncés au § 3, peut porter l’affaire devant la Commission d’experts techniques qui, dans les quatre mois, informe l’État partie en question des changements de toutes natures auxquels il conviendra de procéder pour que l’organisme d’évaluation ou l’autorité conserve le statut qui lui a été conféré. En relation avec ce qui précède, la Commission d’experts techniques peut décider d’ordonner à l’État partie de suspendre ou de retirer les certificats techniques délivrés sur la base des travaux effectués par l’organisme d’évaluation ou l’autorité en question.  
 
 ### Article  6  
 
 ####Validité des certificats techniques
 
-§ 1.  Les certificats techniques délivrés par l’autorité compétente d’un Etat partie conformément aux présentes Règles uniformes sont valides dans tous les autres Etats parties. Toutefois, la circulation et l’utilisation sur le territoire de ces autres Etats sont régies par les conditions spécifiées dans le présent article.   
-§ 2.  Une admission à l’exploitation permet aux entreprises de transport ferroviaire d’exploiter un véhicule uniquement sur les infrastructures compatibles avec ce véhicule conformément à ses spécifications et aux autres conditions d’admission; il incombe à l’entreprise de transport ferroviaire de s’en assurer.   
-§ 3.  Sans préjudice de l’article 3a, une admission à l’exploitation délivrée pour un véhicule conforme à l’ensemble des PTU applicables permet à ce véhicule de circuler librement sur le territoire d’autres Etats parties à condition que 
+§ 1.  Les certificats techniques, au sens de l’article 11, délivrés par l’autorité compétente d’un État partie conformément aux présentes Règles uniformes sont valides dans tous les autres États parties. Toutefois, la circulation et l’utilisation des véhicules couverts par ces certificats sur le territoire de ces autres États sont régies par les conditions spécifiées dans le présent article.   
+§ 2.  Une admission à l’exploitation permet aux entreprises de transport ferroviaire d’exploiter un véhicule uniquement sur les infrastructures compatibles avec ce véhicule conformément à ses spécifications et aux autres conditions d’admission ; il incombe à l’entreprise de transport ferroviaire de s’en assurer.   
+§ 3.  Sans préjudice de l’article 3a, une admission à l’exploitation délivrée pour un véhicule conforme à l’ensemble des PTU applicables est valable sur le territoire d’autres États parties à condition que 
 
 a) toutes les exigences essentielles soient couvertes dans ces PTU et  
 
 b) le véhicule ne soit pas sujet à 
 
-– un cas spécifique ou  
+– un cas spécifique altérant la compatibilité technique avec le réseau de l’État partie concerné, ou  
 
-– des points ouverts relatifs à la compatibilité technique avec l’infrastructure     ou 
+– des points ouverts relatifs à la compatibilité technique avec l’infrastructure ou  
 
-– une dérogation.   Les conditions de libre circulation peuvent être également spécifiées dans les PTU concernées.   
+– une dérogation.     Les conditions de libre circulation peuvent être également spécifiées dans les PTU concernées.   
 § 4.  
 
-a) Si, dans un Etat partie, une admission à l’exploitation a été délivrée pour un véhicule qui 
+a) Si, dans un État partie, une admission à l’exploitation a été délivrée pour un véhicule qui 
 
-– est sujet à un cas spécifique, à un point ouvert relatif à la compatibilité technique avec l’infrastructure ou à une dérogation, ou  
+– est sujet à un cas spécifique altérant la compatibilité technique avec le réseau de l’État partie concerné, à un point ouvert relatif à la compatibilité technique avec l’infrastructure ou à une dérogation, ou  
 
 – n’est pas conforme aux PTU relatives au matériel roulant et à toutes autres dispositions pertinentes, ou    
 
-b) si toutes les exigences essentielles ne sont pas couvertes dans les PTU, les autorités compétentes des autres Etats peuvent demander au demandeur de leur fournir des informations techniques additionnelles telles qu’une analyse de risque ou des tests du véhicule avant de lui octroyer une admission à l’exploitation complémentaire.   Pour la partie du véhicule conforme à une PTU ou à une partie d’une PTU, les autorités compétentes doivent accepter les vérifications effectuées par d’autres autorités compétentes conformément aux PTU. Pour l’autre partie du véhicule, les autorités compétentes doivent prendre pleinement en compte le tableau d’équivalence prévu à l’article 13 des Règles uniformes APTU. Le respect 
+b) si toutes les exigences essentielles ne sont pas couvertes dans les PTU,   les autorités compétentes des autres États peuvent demander au demandeur de leur fournir des informations techniques additionnelles telles qu’une analyse de risque ou des tests du véhicule avant de lui octroyer une admission à l’exploitation complémentaire. Pour la partie du véhicule conforme à une PTU ou à une partie d’une PTU, les autorités compétentes doivent accepter les vérifications effectuées par d’autres autorités compétentes ou organismes d’évaluation conformément aux PTU. Pour l’autre partie du véhicule, les autorités compétentes doivent prendre pleinement en compte le tableau d’équivalence prévu à l’article 13 des Règles uniformes APTU. Le respect 
 
 a) de dispositions identiques et de dispositions déclarées équivalentes,  
 
-b) de dispositions qui ne sont pas liées à un cas spécifique et  
+b) de dispositions qui ne sont pas liées à un cas spécifique altérant la compatibilité technique avec le réseau de l’État partie concerné et  
 
-c) de dispositions qui ne sont pas liées à la compatibilité technique avec l’infrastructure, ne fait pas l’objet d’une nouvelle évaluation.     
+c) de dispositions qui ne sont pas liées à la compatibilité technique avec l’infrastructure,   ne fait pas l’objet d’une nouvelle évaluation.   
 § 5.  Les §§ 2 à 4 s’appliquent par analogie à une admission de type de construction.  
 
 ### Article  6a  
 
 ####Reconnaissance de la documentation procédurale
 
-§ 1.  Les évaluations, déclarations et autre documentation réalisées conformément aux présentes Règles uniformes sont reconnues comme preuves réfutables par les autorités et organismes compétents, les entreprises de transport ferroviaire, les détenteurs et les gestionnaires d’infrastructure dans tous les Etats parties.   
+§ 1.  Les évaluations, déclarations et autre documentation réalisées conformément aux présentes Règles uniformes sont reconnues comme preuves réfutables par les autorités et organismes compétents, les entreprises de transport ferroviaire, les détenteurs et les gestionnaires d’infrastructure dans tous les États parties.   
 § 2.  Si une exigence ou une disposition a été reconnue équivalente conformément à l’article 13 des Règles uniformes APTU, les évaluations et tests associés qui ont été déjà effectués et documentés, ne sont pas répétés.  
 
 ### Article  6b  
 
 ####Reconnaissance des tests techniques et fonctionnels
 
-La Commission d’experts techniques peut adopter des règles destinées à être incluses dans une Annexe aux présentes Règles uniformes et des spécifications destinées à être incluses dans une ou plusieurs PTU concernant les dispositions relatives aux inspections techniques, aux fichiers de relevé de maintenance des véhicules admis et aux tests fonctionnels tels que les essais de freinage de train, et leur reconnaissance mutuelle. 
+La Commission d’experts techniques peut adopter des règles destinées à être incluses dans une Annexe aux présentes Règles uniformes et des spécifications destinées à être incluses dans une ou plusieurs PTU concernant les dispositions relatives aux inspections techniques, aux fichiers de maintenance des véhicules admis et aux tests fonctionnels tels que les essais de freinage de train, et leur reconnaissance mutuelle. 
 
 ### Article  7  
 
 ####Prescriptions applicables aux véhicules
 
-§ 1.  Pour être et rester admis à la circulation en trafic international, un véhicule ferroviaire doit répondre: 
+§ 1.  Pour être admis à la circulation en trafic international, un véhicule ferroviaire doit répondre : 
 
-a) aux PTU et  
+a) aux PTU applicables,  
 
-b) si elles sont applicables, aux dispositions contenues dans le RID.     
-§ 2.  En l’absence de PTU applicables au sous-système, l’admission technique est fondée sur les spécifications techniques nationales applicables qui sont en vigueur, conformément à l’article 12 des Règles uniformes APTU, dans l’Etat dans lequel une demande d’admission technique est faite.   
-§ 3.  Si les PTU ne couvrent pas l’ensemble des exigences essentielles ou dans le cas de cas spécifiques ou de points ouverts, l’admission technique est fondée sur 
+b) si elles sont applicables, aux dispositions contenues dans le RID,  
+
+c) à toute autre spécification pour satisfaire aux exigences essentielles applicables.     
+§ 1a.  Chaque véhicule doit être conforme aux PTU applicables au moment de son admission, renouvellement ou réaménagement, conformément aux présentes Règles uniformes. Cette conformité doit être maintenue tant que le véhicule est utilisé.   
+§ 2.  En l’absence de PTU applicables au sous-système, l’admission technique est fondée sur les spécifications techniques nationales applicables qui sont en vigueur, conformément à l’article 12 des Règles uniformes APTU, dans l’État dans lequel une demande d’admission technique est faite.   
+§ 3.  Si toutes les PTU portant sur les véhicules ne sont pas en vigueur ou dans le cas de cas spécifiques ou de points ouverts, l’admission technique est fondée sur 
 
 a) les dispositions contenues dans les PTU,  
 
-b si elles sont applicables, les dispositions contenues dans le RID et  
+b) si elles sont applicables, les dispositions contenues dans le RID et  
 
 c) les spécifications techniques nationales applicables qui sont en vigueur conformément à l’article 12 des Règles uniformes APTU.    
 
@@ -3324,18 +3282,20 @@ c) les spécifications techniques nationales applicables qui sont en vigueur con
 
 ####Dérogations
 
-La Commission d’experts techniques adopte des directives ou dispositions obligatoires concernant les dérogations aux dispositions de l’article 7 et les méthodes d’évaluation qui peuvent être ou sont utilisées. 
+La Commission d’experts techniques est compétente pour l’adoption des directives ou dispositions obligatoires concernant les dérogations aux PTU structurelles et fonctionnelles. Ces directives et dispositions sont énoncées à l’annexe B des présentes Règles uniformes. 
 
 ### Article  8  
 
 ####Prescriptions applicables à l’infrastructure ferroviaire
 
-§ 1.  Pour garantir qu’un véhicule ferroviaire admis à circuler en trafic international conformément aux présentes Règles uniformes, circulera en toute sécurité sur l’infrastructure ferroviaire et qu’il sera compatible avec elle, l’infrastructure ferroviaire doit répondre 
+§ 1.  L’infrastructure ferroviaire doit répondre 
 
-a) aux dispositions contenues dans les PTU et  
+a) aux dispositions contenues dans les PTU,  
 
-b) si elles sont applicables, aux dispositions contenues dans le RID.     
-§ 2.  L’admission de l’infrastructure et la surveillance de sa maintenance demeurent régies par les dispositions en vigueur dans l’Etat partie dans lequel se situe l’infrastructure.   
+b) si elles sont applicables, aux dispositions contenues dans le RID,  
+
+c) à toute autre spécification pour satisfaire aux exigences essentielles applicables.     
+§ 2.  L’admission de l’infrastructure et la surveillance de sa maintenance demeurent régies par les dispositions en vigueur dans l’État partie dans lequel se situe l’infrastructure.   
 § 3.  Les articles 7 et 7a s’appliquent par analogie à l’infrastructure.  
 
 ### Article  9  
@@ -3350,40 +3310,31 @@ b) si elles sont applicables, aux dispositions contenues dans le RID.
 ####Demande et octroi de certificats techniques, déclarations et conditions afférentes
 
 § 1.  L’octroi d’un certificat technique est attaché au type de construction d’un véhicule ferroviaire ou au véhicule ferroviaire proprement dit.   
-§ 2.  Une demande de certificat technique peut être faite par: 
-
-a) le constructeur,  
-
-b) une entreprise de transport ferroviaire,  
-
-c) le détenteur du véhicule,  
-
-d) le propriétaire du véhicule,  
-
-e) le gestionnaire d’infrastructure.     
-§ 3.  La demande de certificat technique, y compris les déclarations appropriées, peut être faite auprès de toute autorité compétente ou de tout organisme de l’un des Etas parties, dans le cadre des compétences prévues à l’article 5.   
-§ 4.  Si l’article 6, § 4 s’applique au véhicule, le demandeur indique les Etats parties (ou, le cas échéant, les lignes) pour lesquels les certificats techniques sont requis de manière à garantir la libre circulation; dans ce cas, les autorités et les organismes d’évaluation compétents doivent coopérer de façon à faciliter le processus pour le demandeur.   
-§ 5.  L’ensemble des frais occasionnés par le processus d’admission est supporté par le demandeur, sauf disposition contraire des lois et prescriptions en vigueur dans l’Etat dans lequel l’admission est octroyée. L’exécution d’admissions techniques aux fins de profit est prohibée.   
+§ 2.  [réservé]   
+§ 3.  La demande de certificat technique peut être faite auprès de l’autorité compétente de n’importe quel État partie.   
+§ 3a.  La demande d’évaluation et de délivrance des certificats et déclarations PTU correspondants peut être déposée auprès de tout organisme d’évaluation auquel une autorité compétente a transféré tout ou partie de ses compétences pour la réalisation des évaluations en vertu de l’article 5, § 2.   
+§ 4.  Si l’article 6, § 4 s’applique au véhicule, le demandeur indique les États parties (ou, le cas échéant, les lignes) pour lesquels les certificats techniques sont requis de manière à garantir la libre circulation ; dans ce cas, les autorités compétentes et les organismes d’évaluation doivent coopérer de façon à faciliter le processus pour le demandeur.   
+§ 5.  L’ensemble des frais occasionnés par le processus d’admission est supporté par le demandeur, sauf disposition contraire des lois et prescriptions en vigueur dans l’État dans lequel l’admission à l’exploitation est octroyée. L’octroi d’admissions à l’exploitation par l’autorité compétente dans un but lucratif est prohibé.   
 § 5a.  L’ensemble des décisions, évaluations, tests, etc. sont exécutés de manière non discriminatoire.   
-§ 6.  Le demandeur élabore et joint à sa demande un fichier technique et un fichier de maintenance contenant les informations requises dans les PTU. L’organisme d’évaluation vérifie, corrige et ajoute des informations appropriées à ces fichiers afin qu’ils reflètent les propriétés du véhicule.   
-§ 7.  Chaque évaluation effectuée est décrite par l’évaluateur dans un rapport d’évaluation qui justifie les évaluations en l’occurrence effectuées et précise les dispositions par rapport auxquelles l’objet a été évalué et si celui-ci a réussi ou raté l’évaluation.   
-§ 8.  Celui qui demande un certificat d’exploitation par la procédure d’admission technique simplifiée (article 4, § 1, lettre b)) joint à sa demande le certificat de type de conception, établi conformément à l’article 11, § 2, et démontre, de manière appropriée, que les véhicules pour lesquels il demande un certificat d’exploitation correspondent à ce type de construction.   
-§ 9.  Un certificat technique est octroyé en principe pour une durée illimitée; son champ d’application peut être général ou restreint.   
-§ 10.  En cas de modification de dispositions pertinentes des prescriptions mentionnées à l’article 7, sur la base desquelles un type de construction a été admis, et d’absence de dispositions provisoires pertinentes, l’Etat partie dans lequel le certificat de type de conception a été délivré, décide, après consultation des autres Etats dans lesquels le certificat est valide conformément à l’article 6, si le certificat peut conserver sa validité ou s’il doit être renouvelé. Les critères à vérifier en cas de renouvellement d’une admission de type de construction ne peuvent concerner que les dispositions modifiées. Ledit renouvellement n’affecte pas les admissions à l’exploitation déjà octroyées sur la base de types précédemment admis.   
-§ 11.  En cas de renouvellement ou de réaménagement, l’entité adjudicatrice ou le constructeur envoie à l’Etat partie concerné un dossier décrivant le projet. L’Etat partie examine ce dossier et, prenant en compte la stratégie de mise en oeuvre figurant dans les PTU applicables, décide si l’étendue des travaux est telle qu’une nouvelle admission à l’exploitation au sens des présentes Règles uniformes est nécessaire. Une nouvelle admission à l’exploitation est nécessaire dans tous les cas où le niveau de sécurité général du sous-système concerné peut être affecté de manière négative par les travaux envisagés. Si une nouvelle admission est nécessaire, l’Etat partie décide dans quelle mesure les dispositions des PTU afférentes doivent être appliquées au projet. L’Etat partie prend sa décision au plus tard dans les quatre mois suivant la soumission du dossier complet par le demandeur. Lorsqu’une nouvelle admission est nécessaire et si les PTU ne sont pas pleinement appliquées, l’Etat partie notifie au Secrétaire général 
+§ 6.  Le demandeur élabore et joint à sa demande un dossier technique contenant les informations requises dans les PTU applicables. L’organisme d’évaluation établit le dossier technique.   
+§ 7.  Chaque évaluation effectuée est décrite par l’organisme d’évaluation dans un rapport d’évaluation qui justifie les évaluations en l’occurrence effectuées et précise les dispositions par rapport auxquelles l’objet a été évalué et si celui-ci a réussi ou raté l’évaluation.   
+§ 8.  Le demandeur d’un certificat d’exploitation utilisant la procédure d’admission technique énoncée à l’article 4, § 1, lettre b) joint à sa demande le certificat de type de conception, établi conformément à l’article 11, § 2, et démontre, de manière appropriée, que les véhicules pour lesquels il demande un certificat d’exploitation correspondent à ce type de construction. Pour les nouveaux véhicules, un certificat de vérification PTU délivré par un organisme d’évaluation conformément à la PTU applicable constitue un moyen de preuve adéquat.   
+§ 9.  Un certificat technique est octroyé en principe pour une durée illimitée ; son champ d’application peut être général ou restreint.   
+§ 10.  En cas de modification de dispositions pertinentes des prescriptions mentionnées à l’article 7, sur la base desquelles un type de construction a été admis, et d’absence de dispositions provisoires pertinentes, l’État partie dans lequel le certificat de type de conception a été délivré, décide, après consultation des autres États dans lesquels le certificat est valide conformément à l’article 6, si le certificat peut conserver sa validité ou s’il doit être renouvelé pour l’admission de nouveaux véhicules selon ce type. Les critères à vérifier en cas de renouvellement d’une admission de type de construction ne peuvent concerner que les dispositions modifiées. Ledit renouvellement n’affecte pas les admissions à l’exploitation déjà octroyées à des véhicules sur la base de types précédemment admis.   
+§ 11.  En cas de renouvellement ou de réaménagement, l’entité adjudicatrice ou le constructeur envoie à l’État partie concerné un dossier décrivant le projet. L’État partie examine ce dossier et, prenant en compte la stratégie de mise en oeuvre figurant dans les PTU applicables, décide si l’étendue des travaux est telle qu’une nouvelle admission à l’exploitation au sens des présentes Règles uniformes est nécessaire. Une nouvelle admission à l’exploitation est nécessaire dans tous les cas où le niveau de sécurité général du sous-système concerné peut être affecté de manière négative par les travaux envisagés. Si une nouvelle admission est nécessaire, l’État partie décide dans quelle mesure les dispositions des PTU afférentes doivent être appliquées au projet. L’État partie prend sa décision au plus tard dans les quatre mois suivant la soumission du dossier complet par le demandeur. Lorsqu’une nouvelle admission est nécessaire et si les PTU ne sont pas pleinement appliquées, le véhicule est soumis à une nouvelle admission aux conditions de l’article 6, §4, et l’État partie notifie au Secrétaire général 
 
 a) la raison pour laquelle une PTU n’est pas pleinement appliquée,  
 
 b) les caractéristiques techniques applicables en lieu et place des PTU et  
 
-c) les organismes responsables de la fourniture des informations requises sous a) et b).   Le Secrétaire général publie l’information notifiée sur le site Web de l’Organisation.   
+c) les organismes responsables de l’évaluation des caractéristiques techniques visées à la lettre b).   Le Secrétaire général publie l’information notifiée sur le site Web de l’Organisation.   
 § 12.  Le § 11 s’applique par analogie à un certificat de type de conception et à toute déclaration concernant la construction ou les éléments de construction en question.  
 
 ### Article  10a  
 
 ####Règles relatives aux retraits ou suspensions des certificats techniques
 
-§ 1.  Une autorité compétente d’un Etat partie autre que celle ayant octroyé la (première) admission à l’exploitation qui découvre une non-conformité, doit en aviser, avec tous les détails, la (première) autorité ayant octroyé l’admission; si la non-conformité concerne un certificat de type de conception, l’autorité qui l’a délivré est également informée.   
+§ 1.  Une autorité compétente d’un État partie autre que celle ayant octroyé la (première) admission à l’exploitation qui découvre une non-conformité, doit en aviser, avec tous les détails, la (première) autorité ayant octroyé l’admission ; si la non-conformité concerne un certificat de type de conception, l’autorité qui l’a délivré est également informée.   
 § 2.  Un certificat d’exploitation peut être retiré 
 
 a) lorsque le véhicule ferroviaire n’est plus conforme aux 
@@ -3400,148 +3351,166 @@ c) lorsque des prescriptions et conditions, résultant d’une admission restrei
 § 3.  Seule l’autorité qui a octroyé le certificat de type de conception ou le certificat d’exploitation peut le retirer.   
 § 4.  Le certificat d’exploitation est suspendu 
 
-a) lorsque les contrôles techniques, les inspections, la maintenance et l’entretien du véhicule ferroviaire prescrits dans son fichier de maintenance, dans les PTU, dans les conditions particulières d’admission prévues à l’article 7a ou dans les prescriptions de construction et d’équipement contenues dans le RID ne sont pas exécutés (ou si les délais ne sont pas observés);  
+a) lorsque les contrôles techniques, les inspections, la maintenance et l’entretien du véhicule ferroviaire prescrits dans son dossier de maintenance, dans les PTU, dans les conditions particulières d’admission prévues à l’article 7a ou dans les prescriptions de construction et d’équipement contenues dans le RID ne sont pas exécutés (ou si les délais ne sont pas observés) ;  
 
-b) si, en cas d’avarie grave causée à un véhicule ferroviaire, l’ordre de présentation du véhicule émanant de l’autorité compétente n’est pas suivi d’effet;  
+b) si, en cas d’avarie grave causée à un véhicule ferroviaire, l’ordre de présentation du véhicule émanant de l’autorité compétente n’est pas suivi d’effet ;  
 
-c) en cas de non-respect des présentes Règles uniformes et des prescriptions contenues dans les PTU;  
+c) en cas de non-respect des présentes Règles uniformes et des prescriptions contenues dans les PTU ;  
 
-d) si les spécifications nationales applicables qui sont en vigueur conformément à l’article 12 des Règles uniformes APTU ou les dispositions déclarées équivalentes conformément à l’article 13 des Règles uniformes APTU ne sont pas respectées. La validité du certificat est suspendue pour l’Etat partie/les Etats parties concerné(s).     
-§ 5.  Le certificat d’exploitation devient caduc lorsque le véhicule ferroviaire est retiré du service. Le retrait du service est notifié à l’autorité compétente qui a accordé l’admission à l’exploitation.   
+d) si les spécifications nationales applicables qui sont en vigueur conformément à l’article 12 des Règles uniformes APTU ou les dispositions déclarées équivalentes conformément à l’article 13 des Règles uniformes APTU ne sont pas respectées. La validité du certificat est suspendue pour l’État partie/les États parties concerné(s).     
+§ 5.  Le certificat d’exploitation devient caduc lorsque le véhicule ferroviaire est retiré du service. Le retrait du service est notifié conformément à l’article 13, § 4.   
 § 6.  Les §§ 1 à 4 s’appliquent par analogie au certificat de type de conception.  
 
 ### Article  10b  
 
 ####Règles relatives aux évaluations et procédures
 
-§ 1.  La Commission d’experts techniques a la compétence d’adopter d’autres dispositions obligatoires concernant les évaluations et règles procédurales d’admission technique.   
-§ 2.  En outre, et sans contradiction aucune avec les dispositions fixées par la Commission d’experts techniques conformément au § 1, les Etats parties ou les organisations régionales peuvent adopter (ou conserver) des dispositions concernant des procédures obligatoires détaillées et non-discriminatoires relatives aux évaluations et exigences posées en matière de déclarations. Ces dispositions sont notifiées au Secrétaire général, qui en avise la Commission d’experts techniques, et publiées par l’Organisation.  
+§ 1.  La Commission d’experts techniques est compétente pour l’adoption de dispositions obligatoires concernant les évaluations et règles procédurales d’admission technique. Les prescriptions pour les évaluations sont fixées dans la PTU y afférente.   
+§ 2.  En outre, et sans contradiction aucune avec les dispositions fixées par la Commission d’experts techniques conformément au § 1, les États parties ou les organisations régionales peuvent adopter (ou conserver) des dispositions concernant des procédures obligatoires détaillées et non-discriminatoires relatives aux évaluations et exigences posées en matière de déclarations. Ces dispositions sont notifiées au Secrétaire général, qui en avise la Commission d’experts techniques, et publiées par l’Organisation.  
 
 ### Article  11  
 
-####Certificats techniques et déclarations
+####Certificats techniques
 
-§ 1.  L’admission de type de construction et l’admission à l’exploitation sont constatées par des documents distincts dénommés: « Certificat de type de conception » et « Certificat d’exploitation ».   
-§ 2.  Le certificat de type de conception: 
+§ 1.  L’admission de type de construction et l’admission à l’exploitation sont constatées par des documents distincts dénommés : « Certificat de type de conception » et « Certificat d’exploitation ».   
+§ 2.  Le certificat de type de conception : 
 
-a) spécifie le concepteur et le constructeur prévu du type de construction du véhicule ferroviaire;  
+a) spécifie le concepteur et le constructeur prévu du type de construction du véhicule ferroviaire ;  
 
-b) contient le fichier technique et le fichier de maintenance en pièces jointes;  
+b) contient le dossier technique en pièce jointe ;  
 
-c) le cas échéant, spécifie les limites et conditions particulières de circulation pour le type de construction d’un véhicule ferroviaire et pour les véhicules ferroviaires répondant à ce type de construction;  
+c) le cas échéant, spécifie les limites et conditions particulières de circulation pour le type de construction d’un véhicule ferroviaire et pour les véhicules ferroviaires répondant à ce type de construction ;  
 
-d) contient le/les rapport(s) d’évaluation en pièce(s) jointe(s);  
+d) contient le/les rapport(s) d’évaluation en pièce(s) jointe(s) ;  
 
-e) le cas échéant, spécifie toutes les déclarations (de conformité et de vérification) afférentes délivrées;  
+e) le cas échéant, spécifie toutes les déclarations (de conformité et de vérification) afférentes délivrées ;  
 
-f) spécifie l’autorité compétente ayant délivré le certificat et la date de délivrance, et porte la signature de l’autorité;  
+f) spécifie l’autorité compétente ayant délivré le certificat et la date de délivrance, et porte la signature de l’autorité ;  
 
-g) contient, le cas échéant, sa période de validité.     
+g) contient, le cas échéant, sa période de validité ;  
+
+h) comporte en pièces jointes, pour les véhicules soumis à l’article 6, § 4, des copies des admissions nationales supplémentaires s’il y en a.     
 § 3.  Le certificat d’exploitation comprend 
 
 a) toutes les informations indiquées au § 2, et  
 
-b) le(s) code(s) d’identification du/des véhicule(s) couvert(s) par le certificat;  
+b) le ou les codes d’identification du ou des véhicules couverts par le certificat ;  
 
-c) des informations sur le détenteur du/des véhicule(s) ferroviaire(s) couvert(s) par le certificat à la date de sa délivrance;  
+c) des informations sur le détenteur du ou des véhicules ferroviaires couverts par le certificat à la date de sa délivrance ;  
 
 d) le cas échéant, sa période de validité.     
-§ 4.  Le certificat d’exploitation peut couvrir un groupe de véhicules individuels de même type, auquel cas les informations requises conformément au § 3 sont spécifiées de manière identifiable pour chacun des véhicules composant ce groupe, et le fichier technique contient une liste de la documentation identifiable concernant les tests effectués sur chaque véhicule.   
-§ 5.  Le fichier technique et le fichier de maintenance contiennent les informations requises conformément aux dispositions des PTU.   
+§ 4.  Le certificat d’exploitation peut couvrir un groupe de véhicules individuels de même type, auquel cas les informations requises conformément au § 3 sont spécifiées de manière identifiable pour chacun des véhicules composant ce groupe, et le dossier technique contient une liste de la documentation identifiable concernant les tests effectués sur chaque véhicule.   
+§ 5.  Le dossier technique contient les informations requises conformément aux dispositions des PTU.   
 § 6.  Les certificats sont imprimés dans l’une des langues de travail conformément à l’article 1er, § 6 de la Convention.   
-§ 7.  Les certificats et déclarations sont délivrés au demandeur.   
-§ 8.  Le certificat d’exploitation est attaché à l’objet. Une fois le véhicule en service, le détenteur du certificat d’exploitation (y compris le fichier technique et le fichier de maintenance), s’il ne s’agit pas du détenteur actuel, le remet sans délai au détenteur actuel conjointement au fichier de relevé de maintenance, et met à disposition toutes les instructions détaillées (supplémentaires) concernant l’exploitation et la maintenance qui sont toujours en sa possession.   
-§ 9.  Le § 8 s’applique par analogie aux véhicules et matériels ferroviaires admis conformément à l’article 19, la documentation en question étant en l’occurrence la documentation relative à l’homologation et toute autre documentation contenant des informations en tout ou en partie similaires à celles demandées dans les spécifications relatives au fichier technique, au fichier de maintenance et au fichier de relevé de maintenance.  
+§ 7.  Les certificats visés aux §§ 2 et 3 sont délivrés au demandeur par l’autorité compétente.   
+§ 8.  Le certificat d’exploitation est attaché à l’objet. Une fois le véhicule en service, le détenteur du certificat d’exploitation (y compris le dossier technique), s’il ne s’agit pas du détenteur actuel, le remet sans délai au détenteur actuel conjointement au fichier de maintenance, et met à disposition toutes les instructions concernant l’exploitation et la maintenance qui sont toujours en sa possession.   
+§ 9.  Le § 8 s’applique par analogie aux véhicules et matériels ferroviaires admis conformément à l’article 19, la documentation en question étant en l’occurrence la documentation relative à l’homologation et toute autre documentation contenant des informations en tout ou en partie similaires à celles demandées dans les spécifications relatives au dossier technique et au dossier de maintenance.  
 
 ### Article  12  
 
 ####Modèles uniformes
 
-§ 1.  L’Organisation prescrit des modèles uniformes des certificats mentionnés à l’article 11, des déclarations décidées conformément à l’article 4, § 2 et du rapport d’évaluation conformément à l’article 10, § 7.   
-§ 2.  Les modèles sont élaborés et adoptés par la Commission d’experts techniques.   
+§ 1.  L’Organisation prescrit des modèles uniformes des certificats mentionnés à l’article 11 et du rapport d’évaluation conformément à l’article 10, § 7.   
+§ 2.  Les modèles sont élaborés et adoptés par la Commission d’experts techniques et publiés sur le site Web de l’Organisation.   
 § 3.  La Commission d’experts techniques peut décider d’autoriser des certificats et déclarations faits sur un autre modèle spécifié que celui prescrit dans les Règles uniformes, mais qui contient les informations requises conformément à l’article 11, pour qu’ils soient reconnus en tant que substituts équivalents.  
 
 ### Article  13  
 
 ####Registres
 
-§ 1.  Un registre sous forme de banque de données électroniques contenant des informations concernant les véhicules ferroviaires pour lesquels un certificat d’exploitation a été délivré, et les types de constructions pour lesquels un certificat de type de conception a été délivré, est créé et tenu à jour sous la responsabilité de l’Organisation. Le registre comprend les véhicules ferroviaires admis conformément à l’article 19; il peut englober des véhicules ferroviaires admis à la circulation en trafic national uniquement.   
-§ 2.  La banque de données comprend également un registre contenant des informations concernant les autorités compétentes et les organismes auxquels la compétence a été transférée conformément à l’article 5, ainsi que les contrôleurs accrédités/reconnus conformément à l’article 15, § 2.   
-§ 3.  La Commission d’experts techniques peut décider d’inclure dans la banque de données d’autres données qui seront utilisées dans l’exploitation ferroviaire telles que des informations concernant les déclarations, les inspections et la maintenance des véhicules admis (y compris la prochaine inspection prévue) ainsi que des informations concernant les incidents et accidents et les registres précisant le codage des véhicules, les sites, les entreprises de transport ferroviaire, les détenteurs, les gestionnaires d’infrastructure, les ateliers, les constructeurs, les entités chargées de la maintenance (ECM), etc.   
-§ 4.  La Commission d’experts techniques définit l’architecture technico-fonctionnelle de la banque de données ainsi que les données nécessaires, la date et la manière dont les données seront fournies, la nature des droits d’accès et autres aspects d’ordre administratif et organisationnel, y compris le type de structure de la base de données à appliquer. Dans tous les cas, le changement de détenteur, d’ECM, les retraits de service, les immobilisations officielles, les suspensions et retraits de certificats, les déclarations ou autre attestation et les modifications apportées à un véhicule qui dérogeraient du type de construction admis, sont communiqués sans délai au Secrétaire général.   
-§ 5.  Pour l’application du présent article, la Commission d’experts techniques considèrera les registres établis par les Etats parties et les organisations régionales de manière à réduire toute charge excessive pour les parties concernées telles que les organisations régionales, les Etats parties, les autorités compétentes et l’industrie. Afin également de réduire au minimum les coûts pour l’Organisation et d’obtenir des systèmes de registres cohérents, toutes les parties concernées coordonneront avec l’Organisation leurs plans et le développement des registres qui rentrent dans le champ d’application des présentes Règles uniformes.   
-§ 6.  Les données enregistrées dans la banque de données sont considérées comme preuve réfutable de l’admission technique d’un véhicule ferroviaire.   
-§ 7.  La Commission d’experts techniques peut décider que les frais de création et de fonctionnement de la banque de données seront supportés en tout ou partie par les utilisateurs; la fourniture et la modification des données seront gratuites, leur consultation pouvant par contre faire l’objet d’une taxation.  
+§ 1.  Un registre national des véhicules (RNV) est établi conformément aux spécifications adoptées par la Commission d’experts techniques sous forme de banque de données électroniques contenant des informations concernant les véhicules ferroviaires pour lesquels un certificat d’exploitation a été délivré. Le registre comprend également les véhicules ferroviaires admis conformément à l’article 19 ; il peut englober des véhicules ferroviaires admis à la circulation en trafic national uniquement.   
+§ 1a.  L’Organisation crée et tient à jour, ou rend accessible, un registre des certificats des entités chargées de l’entretien (ECE) et des organismes de certification des ECE.   
+§ 1b.  L’Organisation crée et tient à jour, ou rend accessible, un registre des codes marquage du détenteur de véhicule.   
+§ 2.  [réservé]   
+§ 3.  La Commission d’experts techniques peut décider d’inclure dans une banque de données d’autres données qui seront utilisées dans l’exploitation ferroviaire telles que les types de conception, des informations concernant les déclarations, les inspections et la maintenance des véhicules admis (y compris la prochaine inspection prévue), les informations nécessaires pour déterminer s’il y a compatibilité technique entre le véhicule et le réseau, ainsi que des informations concernant les incidents et accidents et les registres précisant le codage des véhicules, les lieux, les entreprises de transport ferroviaire, les détenteurs, les gestionnaires d’infrastructure, les ateliers, les constructeurs, etc.   
+§ 4.  La Commission d’experts techniques est compétente pour décider des modifications, de la fusion ou du retrait des registres et bases de données visées dans le présent article. La Commission d’experts techniques définit l’architecture technico-fonctionnelle des registres spécifiés dans le présent article et peut également précisér les données à inclure, la date et la manière dont les données seront fournies, la nature des droits d’accès et autres aspects d’ordre administratif et organisationnel, y compris le type de structure de la base de données à appliquer. Dans tous les cas, le changement de détenteur, d’ECE, les retraits de service, les immobilisations officielles, les suspensions et retraits de certificats, les déclarations ou autre attestation et les modifications apportées à un véhicule qui dérogeraient du type de construction admis, sont communiqués sans délai par le titulaire de l’enregistrement à l’entité tenant le registre.   
+§ 5.  Pour l’application du présent article, la Commission d’experts techniques considèrera les registres établis par les États parties et les organisations régionales de manière à réduire toute charge excessive pour les parties concernées telles que les organisations régionales, les États parties, les autorités compétentes et l’industrie. Afin également de réduire au minimum les coûts pour l’Organisation et d’obtenir des systèmes de registres cohérents, toutes les parties concernées coordonneront avec l’Organisation leurs plans et le développement des registres qui rentrent dans le champ d’application des présentes Règles uniformes.   
+§ 6.  Les données enregistrées dans la banque de données conformément au § 1 sont considérées comme preuve réfutable de l’admission technique d’un véhicule ferroviaire.   
+§ 7.  La Commission d’experts techniques peut décider que les frais de création et de fonctionnement de la banque de données seront supportés en tout ou partie par les utilisateurs.  
 
 ### Article  14  
 
 ####Inscriptions et signes
 
-§ 1.  Les véhicules ferroviaires admis à la circulation doivent porter: 
-
-a) un signe, qui établit clairement qu’ils ont été admis à la circulation en trafic international conformément aux présentes Règles uniformes, et  
-
-b) les autres inscriptions et signes prescrits dans les PTU, y compris un code d’identification unique (le numéro du véhicule).   L’autorité compétente octroyant l’admission à l’exploitation est tenue de s’assurer qu’un code d’identification alphanumérique a été assigné à chaque véhicule. Ce code, qui inclut le code du pays du premier Etat ayant admis le véhicule, doit être marqué sur chaque véhicule et être entré dans le Registre national des véhicules (NVR) de cet Etat, ainsi que l’exige l’article 13.   
-§ 2.  La Commission d’experts techniques fixe le signe prévu au § 1, lettre a), ainsi que les délais de transition pendant lesquels les véhicules ferroviaires admis à la circulation en trafic international peuvent porter des inscriptions et signes dérogeant à ceux prescrits selon le § 1.  
+§ 1.  Les véhicules ferroviaires admis à la circulation doivent porter les inscriptions et signes prescrits dans les PTU, y compris un numéro unique du véhicule. L’autorité compétente octroyant la (première) admission à l’exploitation est tenue de s’assurer qu’un code d’identification alphanumérique a été assigné à chaque véhicule. Ce code, qui inclut le code du pays du premier État ayant admis le véhicule, doit être marqué sur chaque véhicule et être entré dans le RNV de cet État.   
+§ 2.  La Commission d’experts techniques peut fixer un signe établissant que le véhicule qui le porte a été admis à l’exploitation en trafic international en vertu des présentes Règles uniformes.   
+§ 3.  La Commission d’experts techniques peut fixer les délais de transition pendant lesquels les véhicules ferroviaires admis à la circulation en trafic international peuvent porter des inscriptions et signes dérogeant à ceux prescrits selon les § 1 et 2.  
 
 ### Article  15  
 
-####Maintenance
+####Maintenance des véhicules
 
-§ 1.  Les véhicules ferroviaires et les autres matériels ferroviaires doivent être en bon état d’entretien de façon à se conformer aux dispositions spécifiées dans les PTU et à y satisfaire en permanence, et de façon à ce que leur état ne compromette en aucune manière la sécurité d’exploitation et ne nuise pas à l’infrastructure, à l’environnement et à la santé publique lors de leur circulation ou de leur utilisation en trafic international. A cet effet, les véhicules ferroviaires et les autres matériels ferroviaires doivent être disponibles pour l’entretien, les inspections et la maintenance et être soumis à l’entretien, aux inspections et à la maintenance tels que prescrits dans le fichier de maintenance joint au certificat d’exploitation, dans les PTU, dans les conditions particulières d’admission conformément à l’article 7a et dans les dispositions contenues dans le RID.   
-§ 2.  Une entité chargée de la maintenance (ECM) est assignée à chaque véhicule avant son admission à l’exploitation ou son utilisation sur le réseau, et enregistrée dans la banque de données prévue à l’article 13. Une entreprise ferroviaire, un gestionnaire d’infrastructure ou un détenteur peut être une ECM. L’ECM garantit, au moyen d’un système de maintenance, que les véhicules dont la maintenance lui a été confiée sont aptes à circuler en toute sécurité. L’ECM effectue elle-même la maintenance ou la sous-traite à des ateliers de maintenance. L’ECM pour un wagon de marchandises doit détenir un certificat valide délivré par un contrôleur externe accrédité/reconnu dans l’un des Etats parties. La Commission d’experts techniques adopte des règles détaillées complémentaires concernant la certification et le contrôle des ECM, les contrôleurs accrédités/reconnus, leur accréditation/reconnaissance ainsi que les contrôles et certificats de contrôle. Lesdites règles précisent si elles sont équivalentes aux critères applicables au système de certification des ECM adoptés au sein de la Communauté européenne ou dans les Etats appliquant la législation communautaire par suite d’accords internationaux conclus avec la Communauté européenne. Lesdites règles, qui englobent également des règles relatives au retrait et à la suspension des certificats et accréditations, sont définies dans une Annexe aux présentes Règles uniformes dont elles forment partie intégrante.   
-§ 3.  Un exploitant ferroviaire est responsable de la circulation, en toute sécurité, de ses trains, et doit veiller á ce que les véhicules en circulation soient convenablement entretenus. L’ECM doit par conséquent garantir que des informations fiables concernant les données et processus de maintenance soient mises à la disposition de l’exploitant ferroviaire, et l’exploitant ferroviaire doit fournir à l’ECM, en temps utile, les données et informations concernant l’exploitation de ses véhicules et des autres matériels ferroviaires dont l’ECM est chargée. Dans les deux cas, les données et informations en question sont spécifiées dans l’Annexe mentionnée au § 2.   
-§ 4.  L’ECM d’un véhicule admis établit et tient à jour un fichier de relevé de maintenance relatif au dit véhicule. Le relevé est tenu à la disposition de l’autorité nationale compétente qui peut le contrôler.   
-§ 5.  La Commission d’experts techniques peut adopter des directives ou réglementations sur la certification et le contrôle des ateliers de maintenance et la reconnaissance mutuelle des certificats et contrôles. Les réglementations prévues au présent paragraphe sont définies dans une Annexe aux présentes Règles uniformes dont elles font partie intégrante, et sont publiées sur le site Web de l’Organisation.  
+§ 1.  Les véhicules ferroviaires doivent être en bon état d’entretien de façon à se conformer aux dispositions spécifiées à l’article 7. L’état des véhicules ne doit compromettre en aucune manière la sécurité d’exploitation et ne doit pas nuire à l’infrastructure, à l’environnement et à la santé publique lors de leur circulation ou de leur utilisation en trafic international. À cet effet, les véhicules ferroviaires doivent être mis à disposition pour l’entretien, les inspections et la maintenance prescrits dans le dossier de maintenance et y être soumis. Il incombe au détenteur de designer une ECE à cet effet.   
+§ 2.  Une ECE est assignée à chaque véhicule avant son admission à l’exploitation ou son utilisation sur le réseau, et enregistrée dans la banque de données prévue à l’article 13. L’ECE garantit, au moyen d’un système de maintenance, que les véhicules dont la maintenance lui a été confiée sont aptes à circuler en toute sécurité. L’ECE peut faire appel à des sous-traitants, y compris à des ateliers de maintenance. La Commission d’experts techniques est compétente pour l’adoption et l’amendement des règles de certification et d’audit des ECE et des ateliers de maintenance. Ces règles sont énoncées à l’annexe A des présentes Règles uniformes. L’ECE pour un wagon de marchandises doit être certifiée par un organisme de certification des ECE accrédité ou reconnu dans l’un des États parties conformément à l’annexe A des présentes Règles uniformes.   
+§ 3.  Dans la mesure où cela est nécessaire à la maintenance, le détenteur met à disposition de l’ECE les éléments concernant les consignes de maintenance, de surveillance continue ou périodique, de réglage et d’entretien. L’ECE doit garantir, soit directement, soit par l’intermédiaire du détenteur, que des informations fiables concernant la maintenance et les restrictions relatives à l’exploitation, nécessaires et suffisantes pour assurer la sécurité de l’exploitation, sont mises à la disposition de l’exploitant ferroviaire L’exploitant ferroviaire doit fournir à l’ECE en temps utile, soit directement, soit par l’intermédiaire du détenteur, les informations concernant l’exploitation de ses véhicules (dont le kilométrage, le type et l’étendue des activités, les incidents ou accidents) dont l’ECE est chargée.   
+§ 4.  L’ECE d’un véhicule admis établit et tient à jour le dossier de maintenance et le fichier de relevé de maintenance relatif au dit véhicule. L’ECE informe le détenteur des mises à jour au fichier de relevé de maintenance. Les fichiers sont tenus à la disposition de l’autorité nationale compétente qui peut le contrôler.  
+
+### Article  15a  
+
+####Composition et exploitation des trains
+
+§ 1.  L’entreprise de transport ferroviaire contrôle les risques associés à ses activités, particulièrement ceux liés à l’exploitation des trains. À cet effet, elle s’assure que ces trains satisfont aux exigences essentielles et : 
+
+a) veille à ce que les trains soient composés et préparés de manière correcte et sûre ;  
+
+b) tient compte des informations nécessaires pour l’exploitation en toute sécurité de chaque véhicule, y compris des éventuelles restrictions d’exploitation ;  
+
+c) n’utilise les véhicules que dans leurs limites et conditions d’utilisation ;  
+
+d) respecte les prescriptions relatives à l’exploitation en trafic international, telles que celles prévues dans les PTU applicables ;  
+
+e) s’assure que chaque véhicule s’est vu attribué une ECE et, au besoin, que l’ECE dispose d’un certificat valide.     
+§ 2.  Les règles énoncées au § 1 s’appliquent par analogie aux entités autres que les entreprises de transport ferroviaire, qui exploitent les trains sous leur propre responsabilité.   
+§ 3.  Dans la mesure où cela est nécessaire à l’exploitation, le détenteur met à disposition de toute entreprise de transport ferroviaire exploitant le véhicule les éléments concernant les conditions et limites d’utilisation ainsi que l’entretien et la surveillance continue ou périodique.   
+§ 4.  Dans la mesure où cela est nécessaire à l’exploitation, le gestionnaire d’infrastructure met à disposition de toute entreprise de transport ferroviaire exploitant le véhicule sur son réseau les éléments concernant les caractéristiques de l’infrastructure.  
 
 ### Article  16  
 
 ####Incidents, accidents et avaries graves
 
-§ 1.  En cas d’incident, d’accident ou d’avarie grave de véhicules ferroviaires, l’ensemble des parties impliquées (les gestionnaires de l’infrastructure, les détenteurs, l’ECM, les entreprises ferroviaires concernées et, le cas échéant, d’autres acteurs) sont tenus 
+§ 1.  En cas d’incident, d’accident ou d’avarie grave de véhicules ferroviaires, l’ensemble des parties impliquées (les gestionnaires de l’infrastructure, les détenteurs, l’ECE, les entreprises ferroviaires concernées et, le cas échéant, d’autres acteurs) sont tenus 
 
 a) de prendre, sans délai, toutes les mesures nécessaires pour assurer la sécurité du trafic ferroviaire, le respect de l’environnement et la santé publique, et  
 
 b) d’établir les causes de l’incident, de l’accident ou de l’avarie grave.     
-§ 1a.  Les mesures prévues au § 1 doivent être coordonnées. Une telle coordination est du ressort du gestionnaire d’infrastructure, sauf stipulation contraire des dispositions en vigueur dans l’Etat en question. Outre le devoir d’enquête imposé aux parties impliquées, l’Etat partie peut exiger qu’une enquête indépendante soit menée.   
+§ 1a.  Les mesures prévues au § 1 doivent être coordonnées. Une telle coordination est du ressort du gestionnaire d’infrastructure, sauf stipulation contraire des dispositions en vigueur dans l’État en question. Outre le devoir d’enquête imposé aux parties impliquées, l’État partie peut exiger qu’une enquête indépendante soit menée.   
 § 2.  Est considéré comme gravement avarié un véhicule qui ne peut plus être réparé par une opération de peu d’importance qui lui permettrait d’être intégré dans un train et de circuler sur ses propres roues sans danger pour l’exploitation. Si la réparation peut être effectuée en moins de soixante-douze heures ou si les coûts sont inférieurs à 0,18 million de DTS au total, l’avarie n’est pas réputée grave.   
 § 3.  Les incidents, accidents et avaries graves sont communiqués, sans délai, à l’autorité ou à l’organisme qui a admis le véhicule à la circulation. Cette autorité ou cet organisme peut demander une présentation du véhicule avarié, éventuellement déjà réparé, pour pouvoir examiner la validité de l’admission à l’exploitation octroyée. Le cas échéant, la procédure d’octroi de l’admission à l’exploitation doit être renouvelée.   
-§ 4.  Les Etats parties tiennent des registres, publient des rapports d’enquête englobant leurs conclusions et recommandations, informent l’autorité chargée de la délivrance des certificats d’homologation et l’Organisation des causes des incidents, accidents et avaries graves en trafic international, qui sont survenus sur leur territoire. La Commission d’experts techniques peut examiner les causes d’incidents, d’accidents et d’avaries graves en trafic international dans le but de faire évoluer, si possible, les prescriptions de construction et d’exploitation des véhicule ferroviaires et d’autres matériels ferroviaires contenues dans les PTU, et peut, si nécessaire, dans un délai très court, décider d’ordonner aux Etats parties de suspendre les certificats d’exploitation, les certificats de type de conception ou les déclarations délivrées concernées.   
-§ 5.  La Commission d’experts techniques peut élaborer et adopter des règles contraignantes complémentaires concernant l’enquête d’incidents, d’accidents et d’avaries graves et des spécifications concernant les organismes d’enquête indépendants d’un Etat ainsi que la forme et le fond des rapports. Elle peut aussi modifier les valeurs/nombres prévus au § 2 et à l’article 2, lettre ff).  
+§ 4.  Les États parties tiennent des registres, publient des rapports d’enquête englobant leurs conclusions et recommandations, informent les autorités concernées et l’Organisation des causes des incidents, accidents et avaries graves en trafic international, qui sont survenus sur leur territoire. La Commission d’experts techniques peut examiner les causes d’incidents, d’accidents et d’avaries graves en trafic international dans le but de faire évoluer, si possible, les prescriptions de construction et d’exploitation des véhicule ferroviaires contenues dans les PTU, et peut, si nécessaire, dans un délai très court, décider d’ordonner aux États parties de suspendre les certificats d’exploitation, les certificats de type de conception ou les déclarations délivrées concernées.   
+§ 5.  La Commission d’experts techniques peut élaborer et adopter des règles contraignantes complémentaires concernant l’enquête d’incidents, d’accidents et d’avaries graves et des spécifications concernant les organismes d’enquête indépendants d’un État ainsi que la forme et le fond des rapports. Elle peut aussi modifier les valeurs/nombres prévus au § 2 et à l’article 2, lettre ff).  
 
 ### Article  17  
 
 ####Immobilisation et refus des véhicules
 
-§ 1.  Une autorité compétente, une autre entreprise de transport ferroviaire ou un gestionnaire d’infrastructure ne peut pas refuser ou immobiliser des véhicules ferroviaires en vue d’empêcher leur circulation sur des infrastructures ferroviaires compatibles si les présentes Règles uniformes, les prescriptions contenues dans les PTU, les éventuelles conditions particulières d’admission définies par l’autorité d’admission ainsi que les prescriptions de construction et d’exploitation contenues dans le RID, sont respectées.   
-§ 2.  Le droit d’une autorité compétente d’inspecter et d’immobiliser un véhicule n’est pas affecté en cas de présomption de non-respect du § 1; toutefois, l’examen visant à obtenir la certitude devra être effectué aussi rapidement que possible, et en tous cas, dans un délai de vingt-quatre heures.   
-§ 3.  Néanmoins, si un Etat partie ne suspend, ni ne retire un certificat dans le délai imparti conformément à l’article 5, § 7 ou à l’article 16, § 4, d’autres Etats parties sont habilités à refuser ou à immobiliser le/les véhicule(s) en question.  
+§ 1.  Une autorité compétente, une entreprise de transport ferroviaire ou un gestionnaire d’infrastructure ne peuvent d’empêcher la circulation de véhicules ferroviaires sur des infrastructures ferroviaires compatibles si les présentes Règles uniformes, les prescriptions contenues dans les PTU, les éventuelles conditions particulières d’admission définies par l’autorité d’admission ainsi que les prescriptions de construction et d’exploitation contenues dans le RID sont respectées. Le présent article ne porte en rien atteinte à la responsabilité de l’entreprise de transport ferroviaire, telle que définite à l’article 15a.   
+§ 2.  Le droit d’une autorité compétente d’inspecter et d’immobiliser un véhicule n’est pas affecté en cas de présomption de non-respect du § 1 ; toutefois, l’examen visant à obtenir la certitude devra être effectué aussi rapidement que possible, et en tous cas, dans un délai de vingt-quatre heures.   
+§ 3.  Néanmoins, si un État partie ne suspend, ni ne retire un certificat dans le délai imparti conformément à l’article 5, § 7 ou à l’article 16, § 4, d’autres États parties sont habilités à refuser ou à immobiliser le/les véhicule(s) en question.  
 
 ### Article  18  
 
 ####Non-respect des prescriptions
 
-§ 1.  Sous réserve du § 2 et de l’article 10a, § 3, lettre c), les conséquences juridiques résultant du non-respect des présentes Règles uniformes et des PTU sont réglées par les dispositions en vigueur dans l’Etat partie dont l’autorité compétente a accordé l’admission à l’exploitation, y compris les règles relatives aux conflits de lois.   
-§ 2.  Les conséquences, en droit civil et pénal, du non-respect des présentes Règles uniformes et des PTU sont réglées, en ce qui concerne l’infrastructure, par les dispositions en vigueur dans l’Etat partie dans lequel le gestionnaire de l’infrastructure a son siège, y compris les règles relatives aux conflits de lois.  
+§ 1.  Sous réserve du § 2 et de l’article 10a, § 4, lettre c), les conséquences juridiques résultant du non-respect des présentes Règles uniformes et des PTU sont réglées par les dispositions en vigueur dans l’État partie dont l’autorité compétente a accordé l’admission à l’exploitation, y compris les règles relatives aux conflits de lois.   
+§ 2.  Les conséquences, en droit civil et pénal, du non-respect des présentes Règles uniformes et des PTU sont réglées, en ce qui concerne l’infrastructure, par les dispositions en vigueur dans l’État partie dans lequel le gestionnaire de l’infrastructure a son siège, y compris les règles relatives aux conflits de lois.  
 
 ### Article  19  
 
 ####Dispositions transitoires
 
-§ 1.  L’article 3, § 1 s’applique aux véhicules existants, renouvelés et réaménagés. Des dispositions transitoires sont prescrites dans le présent article pour les véhicules qui ont été homologués pour le trafic international en vertu des RIV, RIC ou autres accords internationaux pertinents, et qui font l’objet d’un marquage correspondant.   
-§ 2.  A la date d’entrée en vigueur des présentes Règles uniformes, les véhicules existants portant le marquage RIV ou RIC comme preuve de leur conformité actuelle aux dispositions techniques de l’accord RIV 2000 (édition révisée du 1er janvier 2004) ou de l’accord RIC respectivement, sont réputés admis à circuler sur les réseaux des Etats parties en fonction de leur compatibilité avec les infrastructures ferroviaires (définie par les marquages sur le wagon) pour lesquelles ils ont été admis par l’un des Etats parties.   
-§ 2a.  Les véhicules existants ne portant pas le marquage RIV ou RIC, mais qui ont été admis et dotés d’un marquage conformément aux accords bilatéraux ou multilatéraux entre Etats parties notifiés à l’Organisation sont également réputés admis à circuler sur les réseaux couverts par l’accord concerné.   
-§ 3.  L’admission transitoire conformément aux §§ 2 et 2a est valide jusqu’à ce que le véhicule nécessite une nouvelle admission conformément à l’article 10, § 11.   
-§ 4.  L’inscription RIV, RIC ou autre marquage sur le véhicule accepté par la Commission d’experts techniques, ainsi que les données stockées dans la base de données prévue à l’article 13, sont considérés comme preuves suffisantes de l’homologation. Toute modification non autorisée de ce marquage est considérée comme une fraude et sera réprimée en vertu de la législation nationale.   
-§ 5.  Indépendamment de cette disposition transitoire, le véhicule et sa documentation doivent être conformes aux dispositions des PTU en vigueur concernant le marquage et la maintenance; la conformité aux dispositions du RID en vigueur, si elles sont applicables, doit être également garantie. La Commission d’experts techniques peut également décider que des dispositions relatives à la sécurité, introduites dans les PTU, doivent être respectées dans un certain délai, indépendamment de toute disposition transitoire.   
-§ 6.  Les véhicules existants ne rentrant pas dans le champ d’application des §§ 2 et 2a peuvent être admis à l’exploitation sur requête d’un demandeur à l’autorité compétente. Cette dernière peut exiger du demandeur des informations techniques complémentaires, c’est-à-dire une analyse de risque et/ou des tests du véhicule, avant d’octroyer une admission d’exploitation complémentaire. Néanmoins, les autorités compétentes doivent prendre pleinement en compte le tableau d’équivalence prévu à l’article 13 des Règles uniformes APTU.   
-§ 7.  La Commission d’experts techniques peut adopter d’autres dispositions transitoires.  
+§ 1.  [réservé]   
+§ 2.  Les présentes Règles uniformes ne s’appliquent pas aux admissions à l’exploitation délivrées avant le 1er janvier 2011 aux véhicules existants au 1er janvier 2011 et portant le marquage RIV ou RIC comme preuve de leur conformité actuelle aux dispositions techniques de l’accord RIV 2000 (édition révisée du 1er janvier 2004) ou de l’accord RIC respectivement et aux véhicules existants ne portant pas le marquage RIV ou RIC, mais qui ont été admis et dotés d’un marquage conformément aux accords bilatéraux ou multilatéraux entre États parties notifiés à l’Organisation.   
+§ 3.  Sans préjudice du § 5, l’admission originale conformément au § 2 est valide jusqu’à ce que le véhicule nécessite une nouvelle admission conformément à l’article 10, § 11.   
+§ 4.  Les inscriptions et signes mentionnés à l’article 14 ainsi que les données stockées dans la base de données prévue à l’article 13, § 1, sont considérés comme preuves suffisantes de l’admission. Toute modification non autorisée de ce marquage est considérée comme une fraude et sera réprimée en vertu de la législation nationale.   
+§ 5.  Indépendamment de cette disposition transitoire, le véhicule et sa documentation doivent être conformes aux dispositions des PTU en vigueur concernant le marquage et la maintenance ; la conformité aux dispositions du RID en vigueur, si elles sont applicables, doit être également garantie. La Commission d’experts techniques peut également décider que, pour des raisons de sécurité ou d’interopérabilité dûment justifiées, des dispositions relatives à la sécurité, introduites dans les PTU, doivent être respectées dans un certain délai.   
+§ 6.  Les véhicules existants ne rentrant pas dans le champ d’application du § 2 peuvent être admis à l’exploitation sur requête d’un demandeur à l’autorité compétente. Cette dernière peut exiger du demandeur des informations techniques complémentaires, c’est-à-dire une analyse de risque et/ou des tests du véhicule, avant d’octroyer une admission d’exploitation complémentaire. Néanmoins, les autorités compétentes doivent prendre pleinement en compte le tableau d’équivalence prévu à l’article 13 des Règles uniformes APTU.   
+§ 7.  La Commission d’experts techniques peut adopter des dispositions transitoires supplémentaires.  
 
 ### Article  20  
 
 ####Différends
 
-Les différends relatifs à l’admission technique de véhicules ferroviaires et d’autres matériels ferroviaires destinés à être utilisés en trafic international, peuvent être portés devant la Commission d’experts techniques s’ils n’ont pas été réglés par voie de négociation directe entre les parties impliquées. De tels différends peuvent également être soumis au tribunal arbitral, conformément à la procédure prévue au Titre V de la Convention. 
+Les différends relatifs à l’admission technique de véhicules ferroviaires destinés à être utilisés en trafic international, peuvent être portés devant la Commission d’experts techniques s’ils n’ont pas été réglés par voie de négociation directe entre les parties impliquées. De tels différends peuvent également être soumis au tribunal arbitral, conformément à la procédure prévue au Titre V de la Convention.  
 
 ####Protocol van 3 juni 1999 houdende wijziging van het Verdrag betreffende het internationale spoorwegvervoer (COTIF) van 9 mei 1980 (Protocol 1999)
 
@@ -4112,53 +4081,10 @@ b. op slechts enkele Lidstaten betrekking hebben en de uitgaven die volgens deze
 
 ####Controle van de boekhouding
 
-§ 1.  Tenzij de Algemene Vergadering overeenkomstig artikel 14, § 2, onder k anders besluit, wordt de controle van de boekhouding uitgevoerd door de Lidstaat waar de zetel is gevestigd volgens de regels van dit artikel en, behoudens alle bijzondere richtlijnen van het Comité van Beheer, in overeenstemming met het reglement betreffende de financiën en de boekhouding van de Organisatie (artikel 15, § 5, onder e).
-§ 2.  De controleur onderzoekt naar eigen inzicht de boekhouding van de Organisatie, met inbegrip van alle beheerde fondsen en speciale rekeningen, om zich ervan te vergewissen dat: 
-
-a. de financiële staten overeenstemmen met de boeken en geschriften van de Organisatie;  
-
-b. de financiële verrichtingen waarop die staten betrekking hebben, zijn uitgevoerd in overeenstemming met de voorschriften en reglementen, de budgettaire bepalingen en de andere richtlijnen van de Organisatie;  
-
-c. de waardepapieren en het contante geld die in een bank of kas zijn gedeponeerd gecontroleerd werden aan de hand van rechtstreeks van de depothouders ontvangen certificaten, of daadwerkelijk geteld werden;  
-
-d. de interne controles, met inbegrip van het interne onderzoek van de boekhouding, doeltreffend zijn;  
-
-e. alle activa en passiva, alsook alle overschotten en tekorten, zijn geboekt volgens procedures die hij bevredigend acht.  
-§ 3.  De controleur heeft te allen tijde onbeperkte inzage in alle boeken, geschriften, boekhoudkundige documenten en andere informatiebronnen die hij nodig meent te hebben.
-§ 4.  De controleur vermeldt in zijn verslag over de financiële verrichtingen: 
-
-a. de aard en de draagwijdte van het door hem uitgevoerde onderzoek;  
-
-b. de elementen die verband houden met de volledigheid of de juistheid van de boekhouding, eventueel met inbegrip van: 
-
-1.de voor de juiste interpretatie en de juiste beoordeling van de boekhouding vereiste gegevens;  
-
-2.elk bedrag dat geïnd had moeten worden, maar niet geboekt is;  
-
-3.elk bedrag dat een regelmatige of voorwaardelijke uitgavenverplichting inhoudt en dat niet geboekt is of waarmee in de financiële staten geen rekening is gehouden;  
-
-4.de uitgaven waarvoor geen toereikende bewijsstukken zijn overgelegd;  
-
-5.het bijhouden van de boeken in de goede en voorgeschreven wijze; gevallen waarin de vorm en inhoud van de financiële staten afwijken van de algemeen erkende en altijd gehanteerde boekhoudkundige beginselen moeten worden gemeld;    
-
-c. andere kwesties waarop de aandacht van het Comité van Beheer moet worden gevestigd, zoals: 
-
-1.gevallen van fraude of vermoedelijke fraude;  
-
-2.verspilling of onregelmatig gebruik van fondsen of andere tegoeden van de Organisatie (ook al zou de boekhouding in orde zijn op het punt van de uitgevoerde verrichting);  
-
-3.uitgaven die op een later tijdstip aanzienlijke kosten voor de Organisatie zouden kunnen meebrengen;  
-
-4.elke tekortkoming, algemeen of bijzonder, in het controlesysteem van de ontvangsten en uitgaven of de leveringen en het materiaal;  
-
-5.uitgaven die niet stroken met de intenties van het Comité van Beheer, rekening houdend met officieel toegestane overboekingen binnen de begroting;  
-
-6.kredietoverschrijdingen, rekening houdend met de wijzigingen voortvloeiend uit officieel toegestane overboekingen binnen de begroting;  
-
-7.uitgaven die niet overeenstemmen met de daarvoor geldende machtigingen;    
-
-d. de juistheid of onjuistheid van de boekhouding inzake de leveringen en het materiaal, vastgesteld op basis van de inventarisatie en de controle van de boeken.  Bovendien kan het verslag handelen over verrichtingen die tijdens een vorige begrotingsperiode werden geboekt en waarover nieuwe gegevens verkregen werden, alsook over verrichtingen die in de loop van een volgende begrotingsperiode moeten plaatsvinden en waarvan het wenselijk lijkt dat het Comité van Beheer er vooraf van op de hoogte wordt gesteld.
-§ 5.  De controleur deelt aan het Comité van Beheer en de Secretaris-Generaal zijn bevindingen mee als gevolg van de controle. Bovendien kan hij elk commentaar leveren dat hij passend acht betreffende het financieel verslag van de Secretaris-Generaal. 
+§ 1.  Tenzij de Algemene Vergadering overeenkomstig artikel 14, § 2, onder k, anders besluit, wordt de controle van de boekhouding uitgevoerd door de Lidstaat waar de zetel is gevestigd volgens de regels van dit artikel en, behoudens alle bijzondere richtlijnen van het Comité van Beheer, in overeenstemming met het reglement betreffende de financiën en de boekhouding van de Organisatie (artikel 15, § 5, onder e).   
+§ 2.  De controleur heeft te allen tijde onbeperkte inzage in alle boeken, geschriften, boekhoudkundige documenten en andere informatiebronnen die hij nodig meent te hebben.   
+§ 3.  De controleur deelt aan het Comité van Beheer en de Secretaris-Generaal zijn bevindingen mee als gevolg van de controle. Bovendien kan hij elk commentaar leveren dat hij passend acht betreffende het financieel verslag van de Secretaris-Generaal.   
+§ 4.  Het mandaat inzake controle van de boekhouding wordt omschreven in het reglement betreffende de financiën en de boekhouding en door het daaraan gehechte aanvullende mandaat.  
 
 ### TITEL  V  
 
@@ -5955,7 +5881,7 @@ a. „spoorwegvervoeronderneming”: elke privaatrechtelijke of publiekrechtelij
 
 b. „voertuig”: elk voertuig dat zich op eigen wielen kan voortbewegen langs spoorstaven en dat niet is voorzien van tractiemiddelen;  
 
-c. „houder”: degene die een voertuig duurzaam economisch exploiteert als vervoermiddel, ongeacht of hij er de eigenaar van is of het recht heeft erover te beschikken;  
+c. „houder”: de persoon of entiteit die eigenaar van een voertuig is of het recht heeft erover te beschikken en dit voertuig als vervoermiddel exploiteert;  
 
 d. „depotstation”: de plaats die op het voertuig is vermeld en waarnaar dit voertuig, overeenkomstig de voorwaarden in de gebruiksovereenkomst, kan of moet worden teruggezonden.   
 
@@ -6120,8 +6046,8 @@ Voorzover deze Uniforme Regelen het niet uitdrukkelijk toelaten, is elk beding d
 
 ####Wetgeving die onverlet blijft
 
-§ 1.  De bepalingen van artikel 5 alsmede die van de artikelen 6, 7 en 22 laten de verplichtingen waaraan de partijen bij de gebruiksovereenkomst van de infrastructuur moeten voldoen uit hoofde van de wetten en voorschriften die van kracht zijn in de Staat waarin de infrastructuur zich bevindt, onverlet; hetzelfde geldt, in voorkomend geval, voor het gemeenschapsrecht.   
-§ 2.  De bepalingen van de artikelen 8 en 9 laten de verplichtingen waaraan de partijen bij de gebruiksovereenkomst van de infrastructuur moeten voldoen in een Lidstaat van de Europese Gemeenschap of in een Staat waar het gemeenschapsrecht van toepassing is uit hoofde van internationale overeenkomsten met de Europese Gemeenschap, onverlet.   
+§ 1.  De bepalingen van artikel 5 alsmede die van de artikelen 6, 7 en 22 laten de verplichtingen waaraan de partijen bij de gebruiksovereenkomst van de infrastructuur moeten voldoen uit hoofde van de wetten en voorschriften die van kracht zijn in de Staat waarin de infrastructuur zich bevindt, onverlet; hetzelfde geldt, in voorkomend geval, voor het recht van de Europese Unie.   
+§ 2.  De bepalingen van de artikelen 8 en 9 laten de verplichtingen waaraan de partijen bij de gebruiksovereenkomst van de infrastructuur moeten voldoen in een Lidstaat van de Europese Unie of in een Staat waar het recht van de Europese Unie van toepassing is uit hoofde van internationale overeenkomsten met de Europese Unie, onverlet.   
 § 3.  De bepalingen van §§ 1 en 2 betreffen in het bijzonder: 
 
 – tussen spoorwegondernemingen of gemachtigde aanvragers en infrastructuurbeheerders te sluiten overeenkomsten,  
@@ -6449,7 +6375,7 @@ De in de artikelen 5 en 6 bedoelde verzoeken worden gezonden aan de Secretaris-G
 
 § 1.  De aangenomen UTP’s worden gepubliceerd op de website van de Organisatie.   
 § 2.  In beginsel is op elk subsysteem één UTP van toepassing. Zo nodig kunnen op een subsysteem diverse UTP’s van toepassing zijn en kan een UTP op meerdere subsystemen van toepassing zijn.   
-§ 2a.  De UTP’s zijn van toepassing op nieuwe subsystemen. Zij zijn ook van toepassing op een bestaand subsysteem dat is vernieuwd of verbeterd en in overeenstemming is met de migratiestrategie bedoeld in § 4, onderdeel f.   
+§ 2a.  De UTP’s zijn van toepassing op nieuwe subsystemen. Zij zijn ook van toepassing op een bestaand subsysteem dat is vernieuwd of verbeterd. De toepassing dient in overeenstemming te zijn met de migratiestrategie bedoeld in § 4, onder f.   
 § 3.  Na de kennisgevingsprocedure bedoeld in artikel 35, §§ 3 en 4, van het Verdrag en ten minste een maand voor de inwerkingtreding, publiceert de Secretaris-Generaal op de website van de Organisatie: 
 
 a. de aangenomen UTP waarvan kennisgeving is gedaan;  
@@ -6478,7 +6404,7 @@ g. voor het betrokken personeel aangeven welke professionele kwalificaties en vo
 § 6.  De UTP’s handhaven op passende wijze de compatibiliteit van het bestaande spoorwegsysteem van elke Verdragsstaat. Daartoe kunnen in elke UTP regelingen worden getroffen voor „specifieke gevallen” die op een of meer Verdragsstaten betrekking hebben ten aanzien van zowel netwerk als voertuigen; bijzondere aandacht moet worden besteed aan het laadprofiel, de spoorbreedte of de spoorafstand en de voertuigen afkomstig uit of bestemd voor derde landen. Voor elk specifiek geval bepalen de UTP’s de uitvoeringsregels van de in § 4, onderdelen c. tot en met g., vermelde elementen.   
 § 7.  Indien technische aspecten die overeenkomen met essentiële eisen niet uitdrukkelijk kunnen worden opgenomen in een UTP, worden ze daarin uitdrukkelijk omschreven als „open punten”.   
 § 8.  De Commissie van technisch deskundigen kan UTP’s aannemen die niet verwijzen naar subsystemen, bijvoorbeeld algemene bepalingen, essentiële eisen of beoordelingsmodules.   
-§ 9.  De UTP’s verschijnen in een formaat bestaande uit twee kolommen. Wanneer de tekst over de volle breedte van de pagina verschijnt zonder kolommen is deze gelijk aan de desbetreffende teksten van de technische specificaties inzake operabiliteit (TSI) van de Europese Gemeenschap. Wanneer de tekst verdeeld is over twee kolommen wijkt deze af voor de UTP’s en voor de desbetreffende TSI’s of andere regelgeving van de Europese Gemeenschap. De linkerkolom bevat de tekst van de UTP (OTIF-voorschriften) en de rechterkolom bevat de TSI-tekst (Europese Gemeenschap). Uiterst rechts staat de verwijzing naar de TSI.  
+§ 9.  De UTP’s verschijnen in een formaat bestaande uit twee kolommen. Wanneer de tekst over de volle breedte van de pagina verschijnt zonder kolommen is deze gelijk aan de desbetreffende teksten van de technische specificaties inzake operabiliteit (TSI) van de Europese Unie. Wanneer de tekst verdeeld is over twee kolommen wijkt deze af voor de UTP’s en voor de desbetreffende TSI’s of andere regelgeving van de Europese Unie. De linkerkolom bevat de tekst van de UTP (OTIF-voorschriften) en de rechterkolom bevat de TSI-tekst (Europese Unie). Uiterst rechts staat de verwijzing naar de TSI.  
 
 ### Artikel  8a  
 
@@ -6520,7 +6446,7 @@ b. van het Reglement voor het wederzijds gebruik van wagens in het internationaa
 
 ####Nationale technische specificaties
 
-§ 1.  De Verdragsstaten waarborgen dat de Secretaris-Generaal in kennis wordt gesteld van hun nationale technische specificaties die van toepassing zijn op spoorvoertuigen en ander spoorwegmaterieel. De Secretaris-Generaal publiceert deze specificaties in de databank genoemd in artikel 13 van de Uniforme Regelen van de ATMF. De informatie wordt meegedeeld aan de Secretaris-Generaal binnen drie maanden na de datum waarop de herziene Uniforme Regelen in werking treden. De tijdelijke bepaling kan slechts van kracht blijven tot aan de inwerkingtreding van deze bepaling of tot aan de inwerkingtreding van een analoge specificatie door aanneming van voorschriften overeenkomstig de voorgaande artikelen. De Verdragsstaat kan de tijdelijke bepaling te allen tijde intrekken en de Secretaris-Generaal daarvan in kennis stellen.   
+§ 1.  De Verdragsstaten waarborgen dat de Secretaris-Generaal in kennis wordt gesteld van hun nationale technische specificaties die van toepassing zijn op spoorvoertuigen. De Secretaris-Generaal publiceert deze specificaties in de databank genoemd in artikel 13 van de Uniforme Regelen van de ATMF. De informatie wordt meegedeeld aan de Secretaris-Generaal binnen drie maanden na de datum waarop de herziene Uniforme Regelen in werking treden. De tijdelijke bepaling kan slechts van kracht blijven tot aan de inwerkingtreding van deze bepaling of tot aan de inwerkingtreding van een analoge specificatie door aanneming van voorschriften overeenkomstig de voorgaande artikelen. De Verdragsstaat kan de tijdelijke bepaling te allen tijde intrekken en de Secretaris-Generaal daarvan in kennis stellen.   
 § 2.  Wanneer een UTP is aangenomen of gewijzigd dient de Verdragsstaat te waarborgen dat de Secretaris-Generaal – met redenen omkleed – in kennis wordt gesteld van de in § 1 genoemde nationale technische specificaties waaraan blijvend moet worden voldaan teneinde de technische compatibiliteit tussen de voertuigen en zijn netwerk te waarborgen; deze specificaties omvatten ook nationale regels die van toepassing zijn op „open punten” in de technische voorschriften en op de naar behoren in de technische voorschriften aangeduide „specifieke gevallen”. De genotificeerde informatie omvat een aanduiding van „open punt(en)” en/of „specifieke gevallen in de UTP waarop elk nationaal technisch vereiste betrekking heeft. De nationale technische specificaties blijven uitsluitend van kracht wanneer de Secretaris-Generaal binnen zes maanden na de datum waarop het desbetreffende technische voorschrift of de wijziging ervan in werking treedt een kennisgeving heeft ontvangen.   
 § 3.  De genotificeerde informatie bevat de volledige tekst van de nationale technische bepaling in een officiële taal van de Verdragsstaat, alsmede de titel en een samenvatting ervan in een van de officiële OTIF-talen.  
 
@@ -6622,81 +6548,91 @@ Deze Uniforme Regelen leggen de procedure vast volgens welke spoorvoertuigen en 
 
 Voor de toepassing van deze Uniforme Regelen en hun toekomstige Bijlage(n), de APTU Uniforme Regelen en hun Bijlage(n) en de APTU Uniforme Technische Voorschriften (UTP) zijn de volgende begripsomschrijvingen van toepassing: 
 
-a.„ongeval”, een ongewenste of onbedoelde plotselinge gebeurtenis of reeks gebeurtenissen van die aard met schadelijke gevolgen; ongevallen worden in de volgende categorieën onderverdeeld: botsingen, ontsporingen, ongevallen op spoorwegovergangen, persoonlijke ongevallen veroorzaakt door rollend materieel in rijdende toestand, branden en andere ongevallen;
+a. „ongeval”, een ongewenste of onbedoelde plotselinge gebeurtenis of specifieke reeks gebeurtenissen van die aard met schadelijke gevolgen; ongevallen worden in de volgende categorieën onderverdeeld: botsingen, ontsporingen, ongevallen op spoorwegovergangen, persoonlijke ongevallen veroorzaakt door rollend materieel in rijdende toestand, branden en andere ongevallen;  
 
-b.„constructietypetoelating”, het verleende recht uit hoofde waarvan de bevoegde autoriteit een constructietype spoorvoertuig toelaat op grond waarvan het gebruik wordt toegestaan van voertuigen die met dat type overeenkomen;
+ab. „accreditatie”, een verklaring door een nationale accreditatie-instantie dat een overeenstemmingsbeoordelingsorgaan voldoet aan de eisen van de Europese geharmoniseerde normen of toepasselijke internationale normen en, wanneer van toepassing, alle aanvullende eisen, waaronder de eisen vermeld in de relevante sectorale regelingen, om een specifieke overeenstemmingsbeoordelingsactiviteit uit te voeren.  
 
-c.„gebruikstoelating”, het verleende recht uit hoofde waarvan de bevoegde autoriteit elk spoorvoertuig of ander spoorwegmaterieel toelaat tot het rijden in het internationaal verkeer;
+ac. „accreditatie-instantie”, de enige instantie in een Verdragsstaat die accreditaties uitvoert krachtens de haar door de staat verleende bevoegdheid.  
 
-d.„Commissie van technisch deskundigen”, de Commissie voorzien in artikel 13, § 1, onderdeel f, van het Verdrag.
+b. „constructietypetoelating”, het verleende recht uit hoofde waarvan de bevoegde autoriteit een constructietype spoorvoertuig toelaat op grond waarvan de exploitatie wordt toegestaan van voertuigen die met dat type overeenkomen, zoals blijkt uit een certificaat van het typeontwerp;  
 
-da.„aanbestedende dienst”, elke openbare of particuliere entiteit die opdracht geeft voor het ontwerp of de constructie of de vernieuwing of verbetering van een subsysteem.Deze entiteit kan een spoorwegonderneming, een infrastructuurbeheerder, een houder of een concessionaris die belast is met de uitvoering van een project zijn;
+c. „gebruikstoelating”, het verleende recht uit hoofde waarvan de bevoegde autoriteit elk spoorvoertuig toelaat tot het rijden in het internationaal verkeer, zoals blijkt uit een gebruikscertificaat;  
 
-e.„Verdragsstaat”, elke Lidstaat van de Organisatie, die geen verklaring met betrekking tot deze Uniforme Regelen heeft afgelegd overeenkomstig artikel 42, § 1, eerste zin, van het Verdrag;
+ca. „gebruikscertificaat”, de door de bevoegde autoriteit afgegeven verklaring inzake toelating tot gebruik, met inbegrip van de voorwaarden van de toelating;  
 
-f.„verklaring”, het bewijs van een beoordeling of onderdeel van beoordelingen verricht teneinde te bevestigen dat een voertuig, constructietype of een element van een constructie voldoet aan de bepalingen van de APTU Uniforme Regelen en de UTP’s (met inbegrip van relevante specifieke gevallen en nationale specificaties die van kracht zijn overeenkomstig artikel 12 van de APTU Uniforme Regelen);
+cb. „verificatiecertificaat”, de door een beoordelingsentiteit afgegeven verklaring dat de verificatie is uitgevoerd met een positief resultaat;  
 
-g.„element van een constructie” of „onderdeel”, een basiscomponent, groep componenten, deel van een samenstel of volledig samenstel van materieel, deel uitmakend of bestemd om deel uit te maken van een spoorvoertuig, ander spoorwegmaterieel of infrastructuur; het begrip „element van een constructie” dekt niet alleen materiële, maar ook immateriële objecten, zoals programmatuur;
+d. „Commissie van technisch deskundigen”, de Commissie voorzien in artikel 13, § 1, onderdeel f, van het Verdrag;  
 
-h.„de met het onderhoud belaste entiteit” (ECM), de entiteit die belast is met het onderhoud van een voertuig en als zodanig geregistreerd is in het voertuigenregister overeenkomstig artikel 13; deze omschrijving is eveneens van toepassing op ander spoorwegmaterieel;
+da. „aanbestedende dienst”, elke openbare of particuliere entiteit die opdracht geeft voor het ontwerp en/of de constructie of de vernieuwing of verbetering van een subsysteem. Deze entiteit kan een spoorwegonderneming, een infrastructuurbeheerder, een houder of een concessionaris belast met de uitvoering van een project zijn;  
 
-i.„essentiële eisen, alle in de APTU Uniforme Regelen omschreven voorwaarden waaraan het spoorwegsysteem, de subsystemen en de interoperabiliteitsonderdelen, met inbegrip van de interfaces, moeten voldoen;
+e. „Verdragsstaat”, elke Lidstaat van de Organisatie die geen verklaring met betrekking tot deze Uniforme Regelen heeft afgelegd overeenkomstig artikel 42, § 1, eerste zin, van het Verdrag;  
 
-j.„incident”, elk ander voorval dan een ongeval of een ernstig ongeval, dat verband houdt met de exploitatie van treinen en dat de veiligheid van de exploitatie aantast;
+f. „certificaat van het typeontwerp”, de door de bevoegde autoriteit afgegeven verklaring inzake toelating van een constructietype, met inbegrip van de voorwaarden van de toelating;  
 
-k.„infrastructuurbeheerder”, elke onderneming of elke autoriteit die een spoorweginfrastructuur beheert;
+g. „element van een constructie”, ook wel „interoperabiliteitsonderdeel” genoemd, een basiscomponent, groep componenten, deel van een samenstel of volledig samenstel van materieel, deel uitmakend of bestemd om deel uit te maken van een spoorwegvoertuig of -infrastructuur; het begrip „element van een constructie” dekt niet alleen materiële, maar ook immateriële objecten, zoals programmatuur;  
 
-l.„internationaal verkeer”, het rijden van spoorvoertuigen over spoorlijnen die gelegen zijn op het grondgebied van ten minste twee Verdragsstaten;
+h. [gereserveerd]  
 
-m.„onderzoek”, een procedure die beoogt ongevallen en incidenten te voorkomen, waaronder de verzameling en analyse van informatie, het trekken van conclusies, daarbij inbegrepen het vaststellen van de oorzaken (handelingen, verzuimen, gebeurtenissen, omstandigheden of een combinatie daarvan die tot het ongeval of incident hebben geleid) en, waar nodig, het doen van veiligheidsaanbevelingen.
+i. „essentiële eisen”, alle in de toepasselijke UTP’s omschreven voorwaarden waaraan het spoorwegsysteem, de subsystemen en de interoperabiliteitsonderdelen, met inbegrip van de interfaces, moeten voldoen;  
 
-n.„houder”, de persoon of entiteit die eigenaar is van een voertuig of het recht heeft het te gebruiken, het voertuig exploiteert als vervoermiddel en als zodanig geregistreerd is in het voertuigenregister bedoeld in artikel 13;
+j. „incident”, elk ander voorval dan een ongeval of een ernstig ongeval, dat verband houdt met de exploitatie van treinen en dat de veiligheid van de exploitatie aantast;  
 
-o.„onderhoudsdossier”, document(en) waarin de inspecties en onderhoudswerkzaamheden worden beschreven die uitgevoerd moeten worden aan een (type) voertuig of ander spoorwegmaterieel en dat/die is/zijn opgezet volgens de regels en specificaties in de UTP’s, met inbegrip van eventuele specifieke gevallen en van kracht zijnde nationale technische specificaties, overeenkomstig artikel 12 van de APTU Uniforme Regelen;
+k. „infrastructuurbeheerder”, elke onderneming of elke autoriteit die een spoorweginfrastructuur beheert;  
 
-p.„dossier omtrent staat van onderhoud”, de documentatie met betrekking tot een toegelaten voertuig of ander spoorwegmaterieel over de gebruiksgeschiedenis, de verrichte inspecties en onderhoudswerkzaamheden;
+l. „internationaal verkeer”, het rijden van spoorvoertuigen over spoorlijnen die gelegen zijn op het grondgebied van ten minste twee Verdragsstaten;  
 
-q.„netwerk”, de lijnen, stations, terminals en alle soorten vaste uitrusting die nodig zijn voor een veilige en continue werking van het spoorwegsysteem;
+m. „onderzoek”, een procedure teneinde ongevallen en incidenten te voorkomen, waaronder het verzamelen en analyseren van informatie, het trekken van conclusies, daarbij inbegrepen het vaststellen van de oorzaken (handelingen, verzuimen, gebeurtenissen, omstandigheden of een combinatie daarvan die tot het ongeval of incident hebben geleid) en, waar nodig, het doen van veiligheidsaanbevelingen;  
 
-r.„open punten”, de technische aspecten die betrekking hebben op essentiële eisen die niet expliciet aan de orde komen in een UTP;
+n. „houder”, de persoon of entiteit die eigenaar is van een voertuig of het recht heeft het te gebruiken, het voertuig exploiteert als vervoermiddel en als zodanig geregistreerd is in het voertuigenregister bedoeld in artikel 13;  
 
-s.„ander spoorwegmaterieel”, elk spoorwegmaterieel dat bestemd is voor gebruik in het internationaal verkeer en dat geen spoorvoertuig is;
+o. „onderhoudsdossier”, document(en) waarin de inspecties en onderhoudswerkzaamheden worden beschreven die uitgevoerd moeten worden aan een voertuig en dat/die is/zijn opgezet volgens de regels en bepalingen in de UTP’s, met inbegrip van eventuele specifieke gevallen en van kracht zijnde nationale technische specificaties, overeenkomstig artikel 12 van de APTU Uniforme Regelen. Het onderhoudsdossier bevat het dossier omtrent de staat van onderhoud zoals omschreven onder p;  
 
-t.„spoorwegvervoeronderneming”, elke privaatrechtelijke of publiekrechtelijke onderneming: 
+p. „dossier omtrent de staat van onderhoud”, de documentatie met betrekking tot een toegelaten voertuig over de gebruiksgeschiedenis, de verrichte inspecties en onderhoudswerkzaamheden;  
 
-– waaraan de bevoegdheid is verleend personen of goederen per spoor te vervoeren en die voor de tractie zorgt of  
+q. „netwerk”, de lijnen, stations, terminals en alle soorten vaste uitrusting die nodig zijn voor een veilige en continue werking van het spoorwegsysteem;  
 
-– die uitsluitend de tractie verzorgt;  
+r. „open punten”, de technische aspecten die betrekking hebben op essentiële eisen die niet aan de orde komen in een UTP en expliciet als zodanig in die UTP worden vermeld;  
 
-u.„spoorweginfrastructuur” (of alleen „infrastructuur”), alle spoorlijnen en vaste installaties, voor zover deze nodig zijn voor de compatibiliteit met spoorvoertuigen en ander spoorwegmaterieel toegelaten overeenkomstig deze Uniforme Regelen en voor het rijden in alle veiligheid van deze voertuigen en ander spoorwegmaterieel;
+s. [gereserveerd]  
 
-v.„spoorwegmaterieel”, spoorvoertuigen, ander spoorwegmaterieel en spoorweginfrastructuren; 
+t. spoorwegvervoeronderneming”, of „spoorwegonderneming”, elke privaatrechtelijke of publiekrechtelijke onderneming waaraan uit hoofde van de van kracht zijnde wetgeving de bevoegdheid of een vergunning is verleend personen of goederen per spoor te vervoeren en die voor de tractie dient te zorgen; hieronder vallen tevens ondernemingen die uitsluitend de tractie verzorgen;  
 
-w.„spoorvoertuig”, elk voertuig dat geschikt is om zich met of zonder tractie op eigen wielen voort te bewegen over spoorlijnen;
+u. spoorweginfrastructuur” (of alleen „infrastructuur”), alle spoorlijnen en vaste installaties, voor zover deze nodig zijn voor de compatibiliteit met spoorvoertuigen toegelaten overeenkomstig deze Uniforme Regelen en voor het veilig rijden van deze voertuigen;  
 
-x.„regionale organisatie”, een organisatie zoals omschreven in artikel 38 van het Verdrag binnen de exclusieve bevoegdheid die haar door de Verdragsstaten werd verleend;
+v. „spoorwegmaterieel”, spoorvoertuigen en spoorweginfrastructuren;  
 
-y.„vernieuwing”, belangrijke vervangingswerkzaamheden uitgevoerd op een subsysteem of deel van een subsysteem en die geen wijziging van de algemene prestaties van het subsysteem tot gevolg hebben;
+w. „spoorvoertuig”, elk voertuig dat geschikt is om zich met of zonder tractie op eigen wielen voort te bewegen over spoorlijnen;  
 
-ya.„RID”, Aanhangsel C bij het Verdrag;
+wa. „erkenning”: 
 
-z.„ernstig ongeval”, elke botsing of ontsporing van treinen, waarbij ten minste één persoon omkomt of vijf of meer personen ernstig gewond raken of grote schade aan het rollend materieel, de infrastructuur of het milieu wordt veroorzaakt, dan wel elk soortgelijk ongeval dat duidelijk consequenties heeft voor de regelgeving op het gebied van de veiligheid op het spoor of het veiligheidsbeheer; onder „grote schade” wordt verstaan schade waarvan de totale kosten onmiddellijk door de onderzoekende instantie op ten minste 1,8 miljoen SDR kunnen worden geraamd;
+1. erkenning door een bevoegd nationaal orgaan, anders dan de accreditatie-instantie, dat een entiteit aan de toepasselijke eisen voldoet, of  
 
-aa.„specifiek geval”, elk deel van het spoorwegsysteem van de Verdragsstaten waarvoor om geografische of topografische redenen of omwille van het stadsmilieu of de coherentie met het bestaande systeem, bijzondere tijdelijke of definitieve bepalingen in de UTP’s moeten worden opgenomen. Dergelijke gevallen zijn bijvoorbeeld spoorlijnen en -netwerken die niet verbonden zijn met de rest van het netwerk, het profiel, de spoorwijdte of de spoorafstand, alsmede voertuigen en ander spoorwegmaterieel die uitsluitend bestemd zijn voor lokaal, regionaal of historisch gebruik en voertuigen en ander spoorwegmaterieel afkomstig uit of bestemd voor derde landen;
+2. de aanvaarding door een bevoegde autoriteit van certificaten, documentatie of testresultaten die door een entiteit van een andere Verdragsstaat worden afgegeven;    
 
-bb.„subsysteem”, het resultaat van de onderverdeling van het spoorwegsysteem, zoals in de UTP’s aangegeven; deze subsystemen waarvoor essentiële eisen moeten worden gedefinieerd, kunnen van structurele of functionele aard zijn;
+x. „regionale organisatie”, een organisatie zoals omschreven in artikel 38 van het Verdrag binnen de exclusieve bevoegdheid die haar door de Verdragsstaten is verleend;  
 
-cc.„technische toelating”, de procedure die door de bevoegde autoriteit wordt gevolgd om een spoorvoertuig of ander spoorwegmaterieel tot het rijden of tot het gebruik in het internationaal verkeer toe te laten of om een constructietype toe te laten;
+y. „vernieuwing”, belangrijke vervangingswerkzaamheden uitgevoerd op een subsysteem of deel van een subsysteem en die geen wijziging van de algemene prestaties van het subsysteem tot gevolg hebben;  
 
-dd.„technisch certificaat”, het officiële bewijs van de technische toelating in de vorm van een geldig certificaat van de typetoelating of een geldig gebruikscertificaat;
+z. „ernstig ongeval”, elke botsing of ontsporing van treinen, waarbij ten minste één persoon omkomt of vijf of meer personen ernstig gewond raken of grote schade aan het rollend materieel, de infrastructuur of het milieu wordt veroorzaakt, dan wel elk soortgelijk ongeval dat duidelijk consequenties heeft voor de regelgeving op het gebied van de veiligheid op het spoor of het veiligheidsbeheer; onder „grote schade” wordt verstaan schade waarvan de totale kosten onmiddellijk door de onderzoekende instantie op ten minste 1,8 miljoen SDR kunnen worden geraamd;  
 
-ee.„technisch dossier”, de documentatie met betrekking tot het voertuig of ander spoorwegmaterieel die alle technische kenmerken van het type bevat (typekenmerken), met inbegrip van een gebruikershandleiding en de nodige kenmerken om het desbetreffende object of de desbetreffende objecten te identificeren;
+aa. „specifiek geval”, elk deel van het spoorwegsysteem van de Verdragsstaten waarvoor om geografische of topografische redenen of omwille van het stadsmilieu of de compatibiliteit met het bestaande systeem, bijzondere tijdelijke of definitieve bepalingen in de UTP’s moeten worden opgenomen. Dergelijke gevallen zijn bijvoorbeeld spoorlijnen en -netwerken die niet verbonden zijn met de rest van het netwerk, het profiel, de spoorwijdte of de spoorafstand, alsmede voertuigen en ander spoorwegmaterieel die uitsluitend bestemd zijn voor lokaal, regionaal of historisch gebruik en voertuigen afkomstig uit of bestemd voor derde landen;  
 
-eea.„TSI”, de technische specificaties inzake interoperabiliteit aangenomen in overeenstemming met Richtlijnen 96/48/EG, 2001/16/EG en 2008/57/EG die op elk subsysteem of deel van een subsysteem van toepassing zijn teneinde te voldoen aan de essentiële eisen en de interoperabiliteit van het spoorwegsysteem te waarborgen;
+bb. „subsystemen”, het resultaat van de onderverdeling van het spoorwegsysteem, zoals in de UTP’s aangegeven; deze subsystemen waarvoor essentiële eisen moeten worden gedefinieerd, kunnen van structurele of functionele aard zijn;  
 
-ff.„constructietype”, de elementaire ontwerpkenmerken van het spoorvoertuig of ander spoorwegmaterieel waarop een afzonderlijk onderzoekscertificaat omschreven in beoordelingsmodule SB van de UTP’s van toepassing is;
+cc. „technische toelating”, de procedure die door de bevoegde autoriteit wordt gevolgd om een spoorvoertuig tot het rijden of tot het gebruik in het internationaal verkeer toe te laten of om een constructietype toe te laten;  
 
-gg.„verbetering”, belangrijke werkzaamheden waarbij een subsysteem of deel van een subsysteem wordt gewijzigd en die een verbetering van de algemene prestaties van het subsysteem tot gevolg hebben. 
+dd. [gereserveerd]  
+
+ee. „technisch dossier”, de documentatie met betrekking tot het voertuig die alle technische kenmerken bevat, met inbegrip van een gebruikershandleiding en de nodige kenmerken om het desbetreffende object of de desbetreffende objecten te identificeren, zoals omschreven in de relevante UTP;  
+
+ee1. „trein”, een formatie die van tractie is voorzien, bestaat uit een of meer spoorvoertuigen en gereed is om te worden geëxploiteerd;  
+
+eea. „TSI”, de technische specificaties inzake interoperabiliteit aangenomen in overeenstemming met Richtlijnen 96/48/EG, 2001/16/EG of 2008/57/EG die op elk subsysteem of deel van een subsysteem van toepassing zijn teneinde te voldoen aan de essentiële eisen en de interoperabiliteit van het spoorwegsysteem te waarborgen;  
+
+ff. „constructietype”, de elementaire ontwerpkenmerken van het spoorvoertuig waarop een afzonderlijk onderzoekscertificaat of ontwerpcertificaat omschreven in respectievelijk beoordelingsmodule SB en SH1 van de UTP GEN-D van toepassing is;  
+
+gg. „verbetering”, belangrijke werkzaamheden waarbij een subsysteem of deel van een subsysteem wordt gewijzigd en die verbetering van de algemene prestaties van het subsysteem tot gevolg hebben.   
 
 ### Artikel  3  
 
@@ -6714,29 +6650,33 @@ c. de bijzondere toelatingsvoorwaarden uit hoofde van artikel 7a.
 
 ### Artikel  3a  
 
-####Relatie met andere internationale overeenkomsten
+####Verhouding tot andere internationale overeenkomsten
 
-§ 1.  Spoorvoertuigen en ander spoorwegmaterieel in dienst gesteld overeenkomstig het van toepassing zijnde recht van de Europese Gemeenschap (EG) en de desbetreffende nationale wetgeving worden geacht door alle Verdragsstaten overeenkomstig deze Uniforme Regelen te zijn toegelaten voor gebruik: 
+§ 1.   Spoorvoertuigen in dienst gesteld overeenkomstig de van toepassing zijnde wetgeving van de Europese Unie (EU) en de desbetreffende nationale wetgeving worden geacht door alle Verdragsstaten overeenkomstig deze Uniforme Regelen te zijn toegelaten voor gebruik: 
 
-a. indien de bepalingen van de van toepassing zijnde TSI’s en de desbetreffende UTP’s volledig met elkaar overeenstemmen, en  
+a. indien de bepalingen van de van toepassing zijnde TSI’s en de desbetreffende UTP’s volledig met elkaar overeenstemmen en  
 
-b. mits de reeks van toepassing zijnde TSI’s op grond waarvan het spoorvoertuig of ander spoorwegmaterieel is toegelaten, betrekking hebben op alle aspecten van de desbetreffende subsystemen die deel uitmaken van het voertuig en  
+b. mits de reeks van toepassing zijnde TSI’s op grond waarvan het spoorvoertuig is toegelaten, betrekking heeft op alle aspecten van de desbetreffende subsystemen die deel uitmaken van het voertuig en  
 
 c. mits deze TSI’s geen open punten ter zake van de technische compatibiliteit met de infrastructuur bevatten en  
 
-d. mits op het voertuig of ander spoorwegmaterieel geen afwijking van toepassing is.   Indien niet aan deze voorwaarden wordt voldaan, is artikel 6, § 4, van toepassing op het voertuig of het overige spoorwegmaterieel.   
-§ 2.  Spoorvoertuigen en ander spoorwegmaterieel die zijn toegelaten voor gebruik overeenkomstig deze Uniforme Regelen worden geacht in de Lidstaten van de Europese Gemeenschap in dienst te zijn gesteld alsmede in de Staten die het gemeenschapsrecht ingevolge internationale overeenkomsten met de Europese Gemeenschap toepassen 
+d. mits op het voertuig geen afwijking van toepassing is en  
 
-a. indien de bepalingen van de van toepassing zijnde UTP’s en de desbetreffende TSI’s volledig met elkaar overeenkomen en  
+e. mits voor het voertuig geen specifieke gevallen gelden die de voorwaarden van toelating of vergunning voor indienststelling beperken.   Indien niet aan de voorwaarden van a tot en met e wordt voldaan, is artikel 6 § 4 van toepassing.   
+§ 2.  Spoorvoertuigen die zijn toegelaten voor gebruik overeenkomstig deze Uniforme Regelen worden geacht in de Lidstaten van de Europese Unie vergunning voor indienststelling te hebben verkregen alsmede in de Staten die het Unierecht ingevolge internationale overeenkomsten met de Europese Unie toepassen 
 
-b. mits de reeks van toepassing zijnde UTP’s op grond waarvan het spoorvoertuig of ander spoorwegmaterieel is toegelaten, betrekking hebben op alle aspecten van de desbetreffende subsystemen die deel uitmaken van het voertuig en  
+a. indien de bepalingen in de van toepassing zijnde UTP’s en de desbetreffende TSI’s volledig met elkaar overeenstemmen en  
+
+b. mits de reeks van toepassing zijnde UTP’s op grond waarvan het spoorvoertuig is toegelaten, betrekking heeft op alle aspecten van de desbetreffende subsystemen die deel uitmaken van het voertuig en  
 
 c. mits deze UTP’s geen open punten ter zake van de technische compatibiliteit met de infrastructuur bevatten en  
 
-d. mits op het voertuig of ander spoorwegmaterieel geen afwijking van toepassing is.   Indien niet aan deze voorwaarden wordt voldaan, moet het voertuig of ander spoorwegmaterieel worden goedgekeurd overeenkomstig de wetgeving die van toepassing is in de Lidstaten van de Europese Gemeenschap en in de Staten die het gemeenschapsrecht ingevolge internationale overeenkomsten met de Europese Gemeenschap toepassen.   
-§ 3.  De gebruikstoelating, het gebruik en het onderhoud van in de Lidstaten van de Europese Gemeenschap gebruikte spoorvoertuigen en ander spoorwegmaterieel worden geregeld in het van toepassing zijnde gemeenschaps- en nationale recht. Deze bepaling is tevens van toepassing op Verdragsstaten die het relevante recht van de Europese Gemeenschap ingevolge met haar gesloten internationale overeenkomsten toepassen.   
+d. mits op het voertuig geen afwijking van toepassing is en  
+
+e. mits voor het voertuig geen specifieke gevallen gelden die de voorwaarden van toelating of vergunning voor indienststelling beperken.   Indien niet aan de voorwaarden van a tot en met e wordt voldaan, moet het voertuig worden goedgekeurd overeenkomstig de wetgeving die van toepassing is in de Lidstaten van de Europese Unie en in de Staten die het Unierecht ingevolge internationale overeenkomsten met de Europese Unie toepassen.   
+§ 3.  De vergunning voor indienststelling, het gebruik en het onderhoud van uitsluitend voor gebruik in de Lidstaten van de Europese Unie beoogde spoorvoertuigen worden geregeld in het van toepassing zijnde Unie- en nationale recht. Deze bepaling is tevens van toepassing op Verdragsstaten die het relevante Unierecht ingevolge internationale overeenkomsten met de Europese Gemeenschap toepassen. Voor spoorwegondernemingen en infrastructuurbeheerders die binnen de EU werkzaam zijn heeft het Unierecht voorrang boven de bepalingen van deze Uniforme Regelen.   
 § 4.  §§ 1 tot en met 2 zijn van overeenkomstige toepassing op toelatingen en goedkeuringen van voertuigtypes.   
-§ 5.  Een met het onderhoud van een goederenwagen belaste entiteit (ECM), die gecertificeerd is overeenkomstig artikel 15, § 2, wordt geacht te zijn gecertificeerd overeenkomstig het van toepassing zijnde recht van de Europese Gemeenschap en de desbetreffende nationale wetgeving en vice versa, ingeval van volledige overeenstemming tussen het certificeringssysteem aangenomen overeenkomstig artikel 14a, vijfde lid, van richtlijn 2004/49/EG inzake de veiligheid op de communautaire spoorwegen en de overeenkomstig artikel 15, § 2, door de Commissie van technisch deskundigen aangenomen regels.  
+§ 5.  Een met het onderhoud<sup> 1) De eisen die betrekking hebben op de met het onderhoud belaste entiteit zijn vervat in artikel 15. </sup> van een goederenwagen belaste entiteit (ECM), die gecertificeerd is overeenkomstig artikel 15, § 2, wordt geacht te zijn gecertificeerd overeenkomstig de van toepassing zijnde wetgeving van de Europese Unie en de desbetreffende nationale wetgeving en vice versa, ingeval van volledige overeenstemming tussen het certificeringssysteem aangenomen overeenkomstig artikel 14a, vijfde lid, van richtlijn 2004/49/EG inzake de veiligheid op de communautaire spoorwegen en de overeenkomstig artikel 15, § 2, door de Commissie van technisch deskundigen aangenomen regels. Deze aangenomen regels zijn vervat in Aanhangsel A bij deze Uniforme Regelen.  
 
 ### Artikel  4  
 
@@ -6748,18 +6688,18 @@ a. hetzij in een enkele fase door het verlenen van de gebruikstoelating voor een
 
 b. hetzij in twee opeenvolgende fasen, door het verlenen van: 
 
-– de typetoelating voor een bepaald type constructie,  
+– de typetoelating voor een bepaald constructietype,  
 
-– en vervolgens de gebruikstoelating voor de afzonderlijke voertuigen die overeenkomen met dit type constructie door een vereenvoudigde procedure die bevestigt dat zij tot dit type behoren.       
-§ 2.  De beoordelingen over de conformiteit van een voertuig of element van de constructie met de bepalingen van de UTP’s waarop de toelating is gebaseerd, kunnen in beoordelingsmodules worden opgesplitst, waarbij voor elke module een afzonderlijke verklaring wordt afgegeven. De beoordelingsmodules en de vorm van de verklaring worden vastgesteld door de Commissie van technisch deskundigen.   
-§ 3.  Op de procedures voor de technische toelating van spoorweginfrastructuur zijn de bepalingen van toepassing die van kracht zijn in de desbetreffende Verdragsstaat.  
+– en vervolgens de gebruikstoelating voor de afzonderlijke voertuigen die overeenkomen met dit constructietype door een procedure die bevestigt dat zij tot dit type behoren.     Indien het voertuig in een enkele fase wordt toegelaten wordt tegelijkertijd ook het constructietype van het voertuig toegelaten.   
+§ 2.  Een voertuig of een element van de constructie wordt beoordeeld op conformiteit met de bepalingen van de UTP’s en de toepasselijke nationale technische eisen. De beoordelingsprocedures en inhoud van UTP-certificaten zijn vervat in de relevante UTP’s. De Commissie van technisch deskundigen is bevoegd de beoordelingsprocedures en de inhoud van UTP-certificaten te wijzigen of in te trekken. De beoordelingen over de conformiteit van een voertuig met de bepalingen van de UTP waarop de toelating is gebaseerd, kunnen door de beoordelende entiteit in bepaalde onderdelen worden opgesplitst of in bepaalde fases worden gecontroleerd, waarbij voor elk van de onderdelen of fases een afzonderlijke tussentijdse verklaring inzake verificatie wordt afgegeven.   
+§ 3.  Op de procedures voor de technische toelating van spoorweginfrastructuur zijn de bepalingen van toepassing die van kracht zijn in de desbetreffende Verdragsstaat. 
 
 ### Artikel  5  
 
 ####Bevoegde autoriteit
 
-§ 1.  De technische toelating behoort tot de taak van de nationale of internationale autoriteit die overeenkomstig de van kracht zijnde wetten en voorschriften in iedere Verdragsstaat bevoegd is.   
-§ 2.  De in § 1 genoemde autoriteiten kunnen of moeten, indien voorgeschreven door de in hun Staat van kracht zijnde bepalingen, de bevoegdheid voor het uitvoeren van beoordelingen, met inbegrip van de afgifte van de bijhorende verklaringen, geheel of gedeeltelijk overdragen aan daartoe erkende organen die in hun Staat gevestigd zijn. De overdracht van bevoegdheden aan: 
+§ 1.  De technische toelating behoort tot de taak van de nationale of internationale autoriteit die overeenkomstig de van kracht zijnde wetten en voorschriften in iedere Verdragsstaat bevoegd is, hierna te noemen de bevoegde autoriteit.   
+§ 2.  De bevoegde autoriteiten kunnen of moeten indien voorgeschreven door de in hun Staat van kracht zijnde bepalingen, de bevoegdheid voor het uitvoeren van beoordelingen, met inbegrip van de afgifte van de bijhorende verklaringen inzake verificatie, geheel of gedeeltelijk overdragen aan beoordelende entiteiten. Het overdragen van bevoegdheden aan: 
 
 a. een spoorwegonderneming,  
 
@@ -6767,50 +6707,34 @@ b. een infrastructuurbeheerder,
 
 c. een houder,  
 
-d. een met het onderhoud belaste entiteit (ECM),  
+d. een met het onderhoud belaste entiteit (ECM), overeenkomstig artikel 15,  
 
-e. een ontwerper of fabrikant van spoorwegmaterieel die al dan niet rechtstreeks betrokken is bij de vervaardiging van spoorwegmaterieel,   met inbegrip van dochterondernemingen van deze entiteiten, is verboden.   
-§ 3.  Om als geschikt te worden aangemerkt moeten de organen genoemd in § 2 voldoen aan de volgende voorwaarden: 
+e. een ontwerper of fabrikant van spoorwegmaterieel die al dan niet rechtstreeks betrokken is bij de vervaardiging van spoorwegmaterieel,   met inbegrip van dochterondernemingen van deze entiteiten is verboden.   
+§ 3.  Om erkend of geaccrediteerd te worden moet een in § 2 genoemde beoordelende entiteit voldoen aan de volgende voorwaarden: 
 
-a. Het orgaan moet qua organisatie, juridische structuur en besluitvorming onafhankelijk zijn van spoorwegondernemingen, infrastructuurbeheerders, aanvragers en entiteiten belast met de inkoop; zijn directeur en het personeel dat belast is met de uitvoering van de beoordelingen of de afgifte van certificaten en verklaringen mogen noch direct noch als bevoegde vertegenwoordigers betrokken zijn bij het ontwerp, de vervaardiging, de constructie of het onderhoud van de onderdelen, voertuigen of spoorwegmaterieel noch bij het gebruik ervan. Dit laat de mogelijkheid van het uitwisselen van technische informatie tussen de fabrikant of bouwer en dat orgaan onverlet.  
+a. De beoordelende entiteit moet qua organisatie, juridische structuur en besluitvorming onafhankelijk zijn van spoorwegondernemingen, infrastructuurbeheerders, aanvragers en entiteiten belast met de inkoop;  
 
-b. Het orgaan en het voor de beoordelingen verantwoordelijke personeel verrichten de beoordelingen met de grootst mogelijke professionele integriteit en de grootst mogelijke technische competentie en blijven daarbij gevrijwaard van enige pressie en prikkel, in het bijzonder van financiële aard, met name van personen of groepen die belang hebben bij de resultaten van de beoordelingen, die hun oordeel of de resultaten van hun inspectie zouden kunnen beïnvloeden.  
+b. Met name de beoordelende entiteit en het voor de beoordelingen verantwoordelijke personeel zijn in functioneel opzicht onafhankelijk van de organen belast met het onderzoek bij ongevallen;  
 
-c. Met name het orgaan en het voor de beoordelingen verantwoordelijke personeel zijn in functioneel opzicht onafhankelijk van de organen belast met het onderzoek bij ongevallen.  
-
-d. Het orgaan heeft personeel in dienst en beschikt over de nodigde middelen voor het adequaat verrichten van de technisch-administratieve taken die verband houden met de beoordelingen; het kan voorts beschikken over de uitrusting die nodig is voor uitzonderlijke beoordelingen.  
-
-e. Het voor de beoordelingen verantwoordelijke personeel moet: 
-
-– technisch en beroepsmatig naar behoren opgeleid zijn,  
-
-– beschikken over voldoende kennis van de eisen met betrekking tot de beoordelingen die het verricht en er voldoende ervaring mee hebben, en  
-
-– in staat zijn de certificaten, dossiers en verslagen op te stellen die het officiële dossier vormen van de verrichte beoordelingen.    
-
-f. De onafhankelijkheid van het voor de beoordelingen verantwoordelijke personeel wordt gewaarborgd. Geen enkele beoordelaar mag worden beloond op grond van het aantal verrichte beoordelingen of de uitkomsten daarvan.  
-
-g. Het orgaan verzekert zich tegen wettelijke aansprakelijkheid tenzij die aansprakelijkheid volgens het nationale recht berust bij de Staat of tenzij de beoordelingen rechtstreeks door de Verdragsstaat worden verricht.  
-
-h. Het personeel van het orgaan heeft een professionele geheimhoudingsplicht ten aanzien van al hetgeen het bij de uitoefening van zijn taken verneemt (met uitzondering van de bevoegde administratieve autoriteiten in de Staat waar het deze werkzaamheden verricht) op grond van deze Uniforme Regelen of een wettelijk vereiste en/of voorschrift van de Verdragsstaat, met inbegrip van, indiennodig, het recht van de Europese Gemeenschap.     
-§ 4.  De bepalingen van § 3 zijn van overeenkomstige toepassing op de autoriteiten belast met de technische toelating.   
-§ 5.  Een Verdragsstaat waarborgt via kennisgeving of indien nodig via de middelen voorzien in het gemeenschapsrecht of het recht van de Staten die het gemeenschapsrecht ingevolge internationale overeenkomsten met de Europese Gemeenschap toepassen, dat de Secretaris-Generaal in kennis wordt gesteld van de organen die verantwoordelijk zijn voor het verrichten van de beoordelingen, verificaties en goedkeuringen, waarbij per orgaan de verantwoordelijkheidsgebieden worden vermeld. De Secretaris-Generaal publiceert een lijst van organen, hun identificatienummers en verantwoordelijkheidsgebieden en houdt de lijst actueel.   
-§ 6.  De Verdragsstaten waarborgen dat een passend toezicht wordt uitgeoefend op de in § 2 bedoelde organen en trekken de bevoegdheden in van organen die niet langer voldoen aan de criteria bedoeld in § 3, in welk geval zij de Secretaris-Generaal onverwijld in kennis stellen.   
-§ 7.  Een Verdragsstaat die meent dat een autoriteit van een andere Verdragsstaat die belast is met de beoordeling of goedkeuring of een orgaan waaraan hij zijn bevoegdheid heeft overgedragen, niet voldoet aan de criteria van § 3, kan de kwestie voorleggen aan de Commissie van technisch deskundigen die de desbetreffende Verdragsstaat binnen vier maanden in kennis stelt van de wijzigingen van enigerlei aard die eventueel nodig zijn opdat het orgaan de aan hem overgedragen bevoegdheden kan behouden. In dit verband kan de Commissie van technisch deskundigen besluiten de Verdragsstaat te gelasten de verleende goedkeuringen gebaseerd op de werkzaamheden verricht door het orgaan of de autoriteit in kwestie op te schorten of in te trekken.  
+c. De beoordelende entiteit voldoet aan de eisen zoals vervat in de relevante UTP’s.     
+§ 4.  De eisen van § 3 zijn van overeenkomstige toepassing op de bevoegde autoriteit wat betreft de in § 2 genoemde taken die niet aan een beoordelende entiteit zijn overgedragen.   
+§ 5.  Een Verdragsstaat waarborgt via kennisgeving of indien nodig via de middelen voorzien in het Unierecht of het recht van de Staten die het Unierecht ingevolge internationale overeenkomsten met de Europese Unie toepassen, dat de Secretaris-Generaal in kennis wordt gesteld van de bevoegde autoriteit, de beoordelende entiteiten en, indien van toepassing de accreditatie-instantie of het in artikel 2, onderdeel wa 1., bedoelde bevoegde nationale orgaan, waarbij per orgaan de verantwoordelijkheidsgebieden worden vermeld. De Secretaris-Generaal publiceert een lijst van bevoegde autoriteiten, beoordelende entiteiten en accreditatie-instanties of bevoegde nationale organen, hun identificatienummers, indien van toepassing, en verantwoordelijkheidsgebieden en houdt de lijst actueel.   
+§ 6.  De Verdragsstaten waarborgen dat passend toezicht wordt uitgeoefend op de in § 2 bedoelde beoordelende entiteiten en trekken de bevoegdheden in van een beoordelende entiteit die niet langer voldoet aan de criteria bedoeld in § 3, in welk geval zij de Secretaris-Generaal onverwijld in kennis stellen.   
+§ 7.  Een Verdragsstaat die meent dat een beoordelende entiteit of bevoegde autoriteit van een andere Verdragsstaat niet voldoet aan de criteria van § 3, kan de kwestie voorleggen aan de Commissie van technisch deskundigen die de desbetreffende Verdragsstaat binnen vier maanden in kennis stelt van de wijzigingen van enigerlei aard die nodig zijn opdat de beoordelende entiteit of autoriteit de aan haar overgedragen bevoegdheden kan behouden. In dit verband kan de Commissie van technisch deskundigen besluiten de Verdragsstaat te gelasten de afgegeven technische certificaten gebaseerd op de werkzaamheden verricht door de beoordelende entiteit of de autoriteit in kwestie op te schorten of in te trekken.  
 
 ### Artikel  6  
 
 ####Geldigheid van technische certificaten
 
-§ 1.  De overeenkomstig deze Uniforme Regelen door de bevoegde autoriteit van een Verdragsstaat afgegeven technische certificaten gelden in alle andere Verdragsstaten. Op het rijden en het gebruik op het grondgebied van deze andere Staten zijn evenwel de in dit artikel omschreven voorwaarden van toepassing.   
+§ 1.  De overeenkomstig deze Uniforme Regelen door de bevoegde autoriteit van een Verdragsstaat afgegeven technische certificaten, zoals omschreven in artikel 11, gelden in alle andere Verdragsstaten. Op het rijden en het gebruik van de voertuigen waarop deze certificaten betrekking hebben op het grondgebied van deze andere Staten zijn evenwel de in dit artikel omschreven voorwaarden van toepassing.   
 § 2.  Met een gebruikstoelating mogen spoorwegondernemingen een voertuig uitsluitend op infrastructuren gebruiken die volgens de specificaties en andere voorwaarden van de toelating met het voertuig compatibel zijn; de spoorwegonderneming is verantwoordelijk voor de waarborging daarvan.   
-§ 3.  Onverminderd artikel 3a houdt een gebruikstoelating die is afgegeven voor een voertuig dat beantwoordt aan alle van toepassing zijnde UTP’s in dat het voertuig is toegelaten om vrij te rijden op het grondgebied van andere Verdragsstaten, mits 
+§ 3.  Onverminderd artikel 3a is een gebruikstoelating die is afgegeven voor een voertuig dat beantwoordt aan alle van toepassing zijnde UTP’s geldig op het grondgebied van andere Verdragsstaten, mits 
 
 a. alle essentiële eisen in deze UTP’s aan de orde komen en  
 
 b. dit voertuig niet 
 
-– behoort tot een specifiek geval of  
+– behoort tot een specifiek geval dat van invloed is op de technische compatibiliteit met het netwerk van de desbetreffende Verdragsstaat of  
 
 – valt onder open punten die verband houden met de technische compatibiliteit met de infrastructuur of  
 
@@ -6819,47 +6743,50 @@ b. dit voertuig niet
 
 a. Indien in een Verdragsstaat een gebruikstoelating is afgegeven voor een voertuig: 
 
-– dat behoort tot een specifiek geval, valt onder een open punt dat verband houdt met de technische compatibiliteit met de infrastructuur of valt onder een afwijking, of  
+– dat behoort tot een specifiek geval dat van invloed is op de technische compatibiliteit met het netwerk van de desbetreffende Verdragsstaat, valt onder een open punt dat verband houdt met de technische compatibiliteit met de infrastructuur of valt onder een afwijking, of  
 
 – dat niet voldoet aan de UTP’s wat betreft rollend materieel en alle overige relevante bepalingen, of    
 
-b. indien niet alle essentiële eisen aan de orde komen in de UTP’s, kunnen de bevoegde autoriteiten van de andere Staten alvorens een aanvullende gebruikstoelating af te geven de aanvrager om aanvullende technische gegevens verzoeken, zoals een risicoanalyse of tests van het voertuig.   Voor het deel van het voertuig dat voldoet aan een UTP of een deel ervan, moeten de bevoegde autoriteiten de verificaties aanvaarden die volgens de UTP’s door andere bevoegde autoriteiten zijn verricht. Voor het overige deel van het voertuig nemen de bevoegde autoriteiten de in artikel 13 van de APTU Uniforme Regelen bedoelde equivalentietabel volledig in aanmerking. Niet opnieuw beoordeeld wordt of voldaan wordt aan: 
+b.  indien niet alle essentiële eisen aan de orde komen in de UTP’s, kunnen de bevoegde autoriteiten van de andere Staten alvorens een aanvullende gebruikstoelating af te geven de aanvrager om aanvullende technische gegevens verzoeken, zoals een risicoanalyse en/of tests van het voertuig. Voor het deel van het voertuig dat voldoet aan een UTP of een deel ervan, moeten de bevoegde autoriteiten de verificaties aanvaarden die volgens de UTP’s door andere bevoegde autoriteiten of beoordelende entiteiten zijn verricht. Voor het overige deel van het voertuig nemen de bevoegde autoriteiten de in artikel 13 van de APTU Uniforme Regelen bedoelde equivalentietabel volledig in aanmerking. Niet opnieuw beoordeeld wordt of voldaan wordt aan: 
 
-a. identieke bepalingen en equivalent verklaarde bepalingen,  
+– identieke bepalingen en equivalent verklaarde bepalingen,  
 
-b. bepalingen die geen verband houden met een specifiek geval en  
+– bepalingen die geen verband houden met een specifiek geval dat van invloed is op de technische compatibiliteit met het netwerk van de desbetreffende Verdragsstaat en  
 
-c. bepalingen die geen verband houden met de technische compatibiliteit met de infrastructuur.     
+– bepalingen die geen verband houden met de technische compatibiliteit met de infrastructuur.       
 § 5.  §§ 2 tot en met 4 zijn van overeenkomstige toepassing op de toelating van een constructietype.  
 
 ### Artikel  6a  
 
 ####Erkenning van documentatie
 
-§ 1.  Beoordelingen, verklaringen en andere overeenkomstig deze Uniforme Regelen opgestelde documentatie worden als zodanig aanvaard door de autoriteiten en bevoegde organen, de spoorwegondernemingen, de houders en de infrastructuurbeheerders in alle Verdragsstaten.   
+§ 1.  Beoordelingen, verklaringen en andere overeenkomstig deze Uniforme Regelen opgestelde documentatie worden als zodanig aanvaard door de autoriteiten en bevoegde organen, de spoorwegvervoerondernemingen, de houders en de infrastructuurbeheerders in alle Verdragsstaten.   
 § 2.  Indien een vereiste of bepaling in overeenstemming met artikel 13 van de APTU Uniforme Regelen equivalent is verklaard, worden de desbetreffende beoordelingen en tests die reeds zijn uitgevoerd en gedocumenteerd niet herhaald.  
 
 ### Artikel  6b  
 
 ####Erkenning van technische en operationele tests
 
-De Commissie van technisch deskundigen kan regels aannemen bestemd om te worden opgenomen in een Bijlage bij deze Uniforme Regelen en specificaties bestemd om te worden opgenomen in een of meer UTP’s inzake de bepalingen met betrekking tot technische inspecties, dossiers omtrent staat van onderhoud van de toegelaten voertuigen en operationele tests zoals remtests voor treinen en hun wederzijdse erkenning. 
+De Commissie van technisch deskundigen kan regels aannemen die worden opgenomen in een Bijlage bij deze Uniforme Regelen en specificaties om te worden opgenomen in een of meer UTP’s inzake de bepalingen met betrekking tot technische inspecties, onderhoudsdossiers van de toegelaten voertuigen en operationele tests zoals remtests voor treinen en hun wederzijdse erkenning. 
 
 ### Artikel  7  
 
 ####Voorschriften voor voertuigen
 
-§ 1.  Teneinde te worden toegelaten tot het rijden in het internationaal verkeer en deze toelating te behouden moet een spoorvoertuig voldoen aan: 
+§ 1.  Teneinde te worden toegelaten tot het rijden in het internationaal verkeer moet een spoorvoertuig voldoen aan: 
 
-a. de UTP’s en  
+a. de van toepassing zijnde UTP’s en  
 
-b. indien van toepassing, de bepalingen vervat in de RID.     
-§ 2.  Indien er geen UTP van toepassing is op het subsysteem wordt de technische toelating gebaseerd op de van toepassing zijnde nationale technische specificaties die overeenkomstig artikel 12 van de APTU Uniforme Regelen van kracht zijn in de Staat waar een verzoek om technische toelating wordt gedaan.   
-§ 3.  Indien de UTP’s niet alle essentiële eisen bevatten of bij specifieke gevallen of open punten, wordt de technische toelating gebaseerd op: 
+b. indien van toepassing, de bepalingen vervat in de RID en  
 
-a. de bepalingen van de UTP’s,  
+c. alle andere specificaties teneinde aan de van toepassing zijnde essentiële eisen te voldoen.     
+§ 1a.  Voertuigen moeten op het tijdstip van toelating, verbetering of vernieuwing voldoen aan de van toepassing zijnde UTP’s, overeenkomstig deze Uniforme Regelen; deze conformiteit moet worden gehandhaafd zolang het voertuig in gebruik is.   
+§ 2.  Indien er geen UTP’s van toepassing zijn op het subsysteem wordt de technische toelating gebaseerd op de van toepassing zijnde nationale technische specificaties die overeenkomstig artikel 12 van de APTU Uniforme Regelen van kracht zijn in de Verdragsstaat waar een verzoek om technische toelating wordt gedaan.   
+§ 3.  Indien niet alle UTP’s die op voertuigen betrekking hebben van kracht zijn of bij specifieke gevallen of open punten wordt de technische toelating gebaseerd op: 
 
-b. indien van toepassing, de bepalingen van de RID en  
+a. de in de UTP’s vervatte bepalingen,  
+
+b. indien van toepassing, de bepalingen vervat in de RID en  
 
 c. van toepassing zijnde nationale technische specificaties die van kracht zijn overeenkomstig artikel 12 van de APTU Uniforme Regelen.    
 
@@ -6867,17 +6794,19 @@ c. van toepassing zijnde nationale technische specificaties die van kracht zijn 
 
 ####Afwijkingen
 
-De Commissie van technisch deskundigen neemt richtlijnen of bindende voorschriften aan voor afwijkingen van de bepalingen van artikel 7 en voor de methoden die voor de beoordelingen worden en mogen worden gebruikt. 
+De Commissie van technisch deskundigen is bevoegd richtlijnen of bindende voorschriften aan te nemen voor afwijkingen van de structurele en functionele UTP’s. Deze richtlijnen en bepalingen zijn vervat in Aanhangsel B bij deze Uniforme Regelen. 
 
 ### Artikel  8  
 
 ####Voorschriften voor spoorweginfrastructuur
 
-§ 1.  Teneinde te waarborgen dat een tot het rijden in het internationaal verkeer toegelaten spoorvoertuig in overeenstemming met deze Uniforme Regelen veilig rijdt op de spoorweginfrastructuur en ermee compatibel is , moet deze voldoen aan 
+§ 1.  Spoorweginfrastructuur moet voldoen aan: 
 
-a. de bepalingen van de UTP’s en  
+a. de in de UTP’s vervatte bepalingen en  
 
-b. indien van toepassing, de bepalingen van de RID.     
+b. indien van toepassing, de bepalingen van de RID,  
+
+c. alle andere specificaties teneinde aan de van toepassing zijnde essentiële eisen te voldoen.     
 § 2.  Op de toelating van de infrastructuur en het toezicht op het onderhoud ervan blijven de bepalingen van toepassing die van kracht zijn in de Verdragsstaat waar de infrastructuur zich bevindt.   
 § 3.  De artikelen 7 en 7a zijn van overeenkomstige toepassing op de infrastructuur.  
 
@@ -6893,55 +6822,46 @@ b. indien van toepassing, de bepalingen van de RID.
 ####Aanvraag en verlening van technische certificaten en verklaringen en daarmee verband houdende voorwaarden
 
 § 1.  De verlening van een technisch certificaat is afhankelijk van het constructietype van een spoorvoertuig of het spoorvoertuig zelf.   
-§ 2.  Een aanvraag van een technisch certificaat kan ingediend worden door: 
-
-a. de fabrikant,  
-
-b. een spoorwegonderneming,  
-
-c. de houder van het voertuig,  
-
-d. de eigenaar van het voertuig,  
-
-e. de infrastructuurbeheerder.     
-§ 3.  De aanvraag van een technisch certificaat met inbegrip van de desbetreffende verklaringen kan worden gericht aan elke bevoegde autoriteit of elk orgaan van een van de Verdragsstaten binnen het kader van bevoegdheden bedoeld in artikel 5.   
-§ 4.  Indien artikel 6, § 4, van toepassing is op het voertuig, vermeldt de aanvrager de Verdragsstaten (of in voorkomend geval, de lijnen) waarvoor technische certificaten vereist zijn om het vrije verkeer te waarborgen; in dit geval moeten de bevoegde autoriteiten en beoordelende organen samenwerken teneinde de procedure voor de aanvrager te vergemakkelijken.   
-§ 5.  Alle kosten die voortvloeien uit de toelatingsprocedure komen ten laste van de aanvrager, tenzij anders is voorzien in de wetten en voorschriften die van kracht zijn in de Staat waar de goedkeuring wordt verleend. Technische toelatingen met winstoogmerk zijn verboden.   
-5a.  Alle beslissingen, beoordelingen, tests, etc. geschieden op niet-discriminatoire wijze.   
-§ 6.  De aanvrager stelt een technisch dossier en een onderhoudsdossier op met de volgens de UTP’s vereiste gegevens en voegt deze bij zijn aanvraag. Het beoordelende orgaan controleert en corrigeert deze dossiers en voegt er relevante gegevens aan toe zodat deze de kenmerken van het voertuig weergeven.   
-§ 7.  Elke uitgevoerde beoordeling wordt door de beoordelaar beschreven in een beoordelingsrapport ter onderbouwing van de uitgevoerde beoordelingen en vermeldt de bepalingen op grond waarvan het object is beoordeeld en of de beoordeling positief of negatief is.   
-§ 8.  Bij de aanvraag van een gebruikscertificaat via de vereenvoudigde procedure voor technische toelating (artikel 4, § 1, onderdeel b.) wordt het certificaat van de typetoelating, opgesteld in overeenstemming met artikel 11, § 2, gevoegd en wordt op adequate wijze aangetoond dat de voertuigen waarvoor een gebruikscertificaat wordt aangevraagd overeenkomen met dat constructietype.   
+§ 2.  [gereserveerd]   
+§ 3.  Een aanvraag van een technisch certificaat kan ingediend worden bij de bevoegde autoriteit van elke Verdragsstaat.   
+§ 3a.  Een aanvraag voor een beoordeling en afgifte van de overeenkomstige UTP-certificaten en -verklaringen kan worden ingediend bij een beoordelende entiteit waaraan een bevoegde autoriteit geheel of gedeeltelijk de bevoegdheid voor het uitvoeren van beoordelingen heeft overgedragen, overeenkomstig artikel 5, § 2.   
+§ 4.  Indien artikel 6, § 4 van toepassing is op het voertuig, vermeldt de aanvrager de Verdragsstaten (of in voorkomend geval, de lijnen) waarvoor technische certificaten vereist zijn om het vrije verkeer te waarborgen; in dit geval moeten de bevoegde autoriteiten en beoordelende entiteiten samenwerken teneinde de procedure voor de aanvrager te vergemakkelijken.   
+§ 5.  Alle kosten die voortvloeien uit de toelatingsprocedure komen ten laste van de aanvrager, tenzij anders is voorzien in de wetten en voorschriften die van kracht zijn in de Staat waar de gebruikstoelating wordt afgegeven. Het afgeven van gebruikstoelatingen door de bevoegde autoriteit met winstoogmerk is verboden.   
+§ 5a.  Alle beslissingen, beoordelingen, tests, etc. geschieden op non-discriminatoire wijze.   
+§ 6.  De aanvrager stelt een technisch dossier op met de volgens de relevante UTP’s vereiste gegevens en voegt deze bij zijn aanvraag. De beoordelende entiteit stelt het technisch dossier samen.   
+§ 7.  Elke uitgevoerde beoordeling wordt door de beoordelende entiteit beschreven in een beoordelingsrapport ter onderbouwing van de uitgevoerde beoordelingen en vermeldt de bepalingen op grond waarvan het object is beoordeeld en of de beoordeling positief of negatief is.   
+§ 8.  Bij de aanvraag van een gebruikscertificaat via de procedure voor technische toelating (artikel 4, § 1, onderdeel b.) wordt het certificaat van het typeontwerp, opgesteld in overeenstemming met artikel 11, § 2, gevoegd en wordt op adequate wijze aangetoond dat de voertuigen waarvoor een gebruikscertificaat wordt aangevraagd overeenkomen met dat constructietype. Voor nieuwe voertuigen kan dit passend worden aangetoond door de afgifte van een UTP-verificatiecertificaat door een beoordelende entiteit overeenkomstig de relevante UTP.   
 § 9.  Een technisch certificaat wordt in principe voor onbepaalde tijd verleend; het kan van algemene of beperkte strekking zijn.   
-§ 10.  Indien de relevante criteria in de voorschriften vermeld in artikel 7 op grond waarvan een constructietype is toegelaten zijn gewijzigd en er geen relevante overgangsbepalingen zijn, beslist de Verdragsstaat waarin het certificaat van de typetoelating is afgegeven na overleg met de andere Staten waarin het certificaat geldig is volgens artikel 6, of het certificaat onverkort geldig kan blijven dan wel moet worden aangepast. De te controleren criteria, ingeval van vernieuwing van een toelating van een constructietype, mogen alleen de gewijzigde bepalingen omvatten. De genoemde aanpassing laat reeds verleende gebruikstoelatingen op grond van eerder toegelaten types onverlet.   
-§ 11.  Bij vernieuwing of herziening zendt de aanbestedende dienst of de fabrikant de desbetreffende Verdragsstaat een dossier waarin het project wordt beschreven. De Verdragsstaat onderzoekt dit dossier en beslist, rekening houdend met de in de van toepassing zijnde UTP’s aangegeven implementatiestrategie, of de omvang van de werkzaamheden inhoudt dat een nieuwe gebruikstoelating in de zin van deze Uniforme Regelen noodzakelijk is. Een nieuwe gebruikstoelating is vereist indien het algehele veiligheidsniveau van het desbetreffende subsysteem geschaad kan worden door de beoogde werkzaamheden. Indien een nieuwe toelating nodig is, beslist de Verdragsstaat in hoeverre de bepalingen van de desbetreffende UTP’s op het project moeten worden toegepast. De Verdragsstaat neemt zijn beslissing uiterlijk vier maanden na de indiening van het volledige dossier door de aanvrager. Indien een nieuwe toelating vereist is en indien de UTP’s niet volledig worden toegepast stelt de Verdragsstaat de Secretaris-Generaal in kennis van: 
+§ 10.  Indien de relevante bepalingen in de voorschriften vermeld in artikel 7 op grond waarvan een constructietype is toegelaten zijn gewijzigd en er geen relevante overgangsbepalingen zijn, beslist de Verdragsstaat waarin het certificaat van het typeontwerp is afgegeven na overleg met de andere Staten waarin het certificaat geldig is volgens artikel 6, of het certificaat onverkort geldig kan blijven dan wel moet worden aangepast voor de toelating van nieuwe voertuigen volgens dat type. De te controleren criteria bij vernieuwing van een toelating van een constructietype mogen alleen de gewijzigde bepalingen omvatten. De genoemde aanpassing laat reeds verleende gebruikstoelatingen op grond van eerder toegelaten types onverlet.   
+§ 11.  Bij vernieuwing of verbetering zendt de aanbestedende dienst of de fabrikant de desbetreffende Verdragsstaat een dossier waarin het project wordt beschreven. De Verdragsstaat onderzoekt dit dossier en beslist, rekening houdend met de in de van toepassing zijnde UTP’s aangegeven implementatiestrategie, of de omvang van de werkzaamheden inhoudt dat een nieuwe gebruikstoelating in de zin van deze Uniforme Regelen noodzakelijk is. Een nieuwe gebruikstoelating is vereist indien het algehele veiligheidsniveau van het desbetreffende subsysteem geschaad kan worden door de beoogde werkzaamheden. Indien een nieuwe toelating nodig is, beslist de Verdragsstaat in hoeverre de bepalingen van de desbetreffende UTP’s op het project moeten worden toegepast. De Verdragsstaat neemt zijn beslissing uiterlijk vier maanden na de indiening van het volledige dossier door de aanvrager. Indien een nieuwe toelating vereist is en indien de UTP’s niet volledig worden toegepast, moet het voertuig aan een nieuwe toelating worden onderworpen waarop de voorwaarden van artikel 6, § 4 van toepassing zijn en stelt de Verdragsstaat de Secretaris-Generaal in kennis van: 
 
 a. de reden waarom een UTP niet volledig wordt toegepast,  
 
 b. de technische criteria die in plaats van de UTP’s van toepassing zijn en  
 
-c. de organen die verantwoordelijk zijn voor het verschaffen van de ingevolge a en b vereiste gegevens.   De Secretaris-Generaal publiceert de informatie waarvan kennisgeving is gedaan op de website van de Organisatie.  
-§ 12.  § 11 is van overeenkomstige toepassing op een certificaat van de typetoelating en op elke verklaring betreffende de constructie of de elementen van de desbetreffende constructie.  
+c. de organen die verantwoordelijk zijn voor het beoordelen van de onder b bedoelde technische gegevens.   De Secretaris-Generaal publiceert de informatie waarvan kennisgeving is gedaan op de website van de Organisatie.   
+§ 12.  § 11 is van overeenkomstige toepassing op een certificaat van het typeontwerp en elke verklaring betreffende de constructie of de onderdelen van de desbetreffende constructie.  
 
 ### Artikel  10a  
 
-####Regels voor de intrekking of schorsing van technische certificaten
+####Regels voor de intrekking of opschorting van technische certificaten
 
-§ 1.  Indien de bevoegde autoriteit van een Verdragsstaat niet zijnde de staat die de (eerste) gebruikstoelating heeft verleend, vaststelt dat niet voldaan wordt aan de eisen, stelt zij, met alle details, de autoriteit die de (eerste) toelating heeft verleend in kennis; indien de niet-naleving betrekking heeft op een certificaat van de typetoelating, wordt tevens de autoriteit die dit certificaat heeft verleend in kennis gesteld.   
+§ 1.  Indien de bevoegde autoriteit van een Verdragsstaat niet zijnde de staat die de (eerste) gebruikstoelating heeft verleend, vaststelt dat niet voldaan wordt aan de eisen, stelt zij de autoriteit die de (eerste) toelating heeft verleend met alle details in kennis; indien de niet-naleving betrekking heeft op een certificaat van het typeontwerp, wordt tevens de autoriteit die dit certificaat heeft afgegeven in kennis gesteld.   
 § 2.  Een gebruikscertificaat kan worden ingetrokken 
 
 a. wanneer het spoorvoertuig niet langer voldoet aan: 
 
 – de voorschriften vervat in de UTP’s en in de van toepassing zijnde nationale voorschriften die van kracht zijn overeenkomstig artikel 12 van de APTU Uniforme Regelen, of  
 
-– de bijzondere toelatingsvoorwaarden uit hoofde van artikel 7a, of  
+– de bijzondere toelatingsvoorwaarden uit hoofde van artikel 7a of  
 
 – de constructie- en uitrustingsvoorschriften in het RID, of    
 
 b. indien de houder niet voldoet aan de eis van de bevoegde autoriteit de gebreken binnen de voorgeschreven termijn te verhelpen of  
 
-c. indien de voorschriften en voorwaarden die voortvloeien uit een beperkte toelating uit hoofde van artikel 10, § 10 niet vervuld of geëerbiedigd worden.     
-§ 3.  Uitsluitend de autoriteit die een certificaat van de typetoelating of gebruikscertificaat heeft verleend kan het intrekken.   
-§ 4.  Een gebruikscertificaat wordt geschorst: 
+c. indien niet voldaan wordt aan de voorschriften en voorwaarden die voortvloeien uit een beperkte toelating uit hoofde van artikel 10, § 10.     
+§ 3.  Uitsluitend de autoriteit die een certificaat van het typeontwerp of gebruikscertificaat heeft verleend kan het intrekken.   
+§ 4.  Een gebruikscertificaat wordt opgeschort: 
 
 a. indien het technisch onderzoek, de inspecties, het onderhoud en de revisies van het spoorvoertuig zoals voorgeschreven in zijn onderhoudsdossier, in de UTP’s, in de bijzondere voorwaarden voor een toelating uit hoofde van artikel 7a of de in de RID vervatte constructie- en uitrustingsvoorschriften niet worden uitgevoerd (of indien de termijnen niet worden nageleefd);  
 
@@ -6949,29 +6869,29 @@ b. indien bij ernstige schade aan een spoorvoertuig geen gevolg gegeven wordt aa
 
 c. indien niet voldaan wordt aan deze Uniforme Regelen en de voorschriften vervat in de UTP’s;  
 
-d. indien niet voldaan wordt aan de ingevolge artikel 12 van de APTU Uniforme Regelen van kracht zijnde toepasselijke nationale bepalingen of de ingevolge artikel 13 van de APTU Uniforme Regelen daaraan equivalent verklaarde bepalingen. De geldigheid van het certificaat wordt opgeschort voor de betrokken Verdragsstaat of Verdragsstaten.     
-§ 5.  Het gebruikscertificaat vervalt wanneer het spoorvoertuig buiten dienst wordt gesteld. De bevoegde autoriteit die de gebruikstoelating heeft verleend wordt in kennis gesteld van de buitendienststelling.   
+d. indien niet voldaan wordt aan de ingevolge artikel 12 van de APTU Uniforme Regelen van kracht zijnde toepasselijke nationale bepalingen of de ingevolge artikel 13 van de APTU Uniforme Regelen daaraan equivalent verklaarde bepalingen. Het certificaat wordt opgeschort voor de betrokken Verdragsstaat of Verdragsstaten.     
+§ 5.  Het gebruikscertificaat vervalt wanneer het spoorvoertuig buiten dienst wordt gesteld. Van de buitendienststelling wordt overeenkomstig artikel 13, § 4 kennis gegeven.   
 § 6.  §§ 1 tot en met 4 zijn van overeenkomstige toepassing op een certificaat van het typeontwerp.  
 
 ### Artikel  10b  
 
 ####Regels voor beoordelingen en procedures
 
-§ 1.  De Commissie van technisch deskundigen is bevoegd andere bindende bepalingen aan te nemen voor beoordelingen en procedureregels voor technische toelating.   
+§ 1.  De Commissie van technisch deskundigen is bevoegd andere bindende bepalingen aan te nemen voor beoordelingen en procedureregels voor technische toelating. Bepalingen voor de beoordelingen zijn vervat in de relevante UTP.   
 § 2.  Aanvullend op, maar niet in strijd met de door de Commissie van technisch deskundigen ingevolge § 1 vastgestelde bepalingen, kunnen Verdragsstaten of regionale organisaties bepalingen aannemen (of handhaven) voor gedetailleerde niet-discriminatoire verplichte procedures voor beoordelingen en de eisen inzake verklaringen. De Secretaris-Generaal wordt in kennis gesteld van deze bepalingen, die de Commissie van technisch deskundigen in kennis stelt, waarna de bepalingen door de Organisatie worden gepubliceerd.  
 
 ### Artikel  11  
 
-####Technische certificaten en verklaringen
+####Technische certificaten
 
 § 1.  De constructietypetoelating en de gebruikstoelating worden vastgelegd in afzonderlijke documenten genoemd: „Certificaat van het typeontwerp” en „Gebruikscertificaat”.   
 § 2.  Het certificaat van het typeontwerp: 
 
 a. vermeldt de ontwerper en de beoogde fabrikant van het constructietype van het spoorvoertuig;  
 
-b. gaat vergezeld van het technisch dossier en het onderhoudsdossier in de bijlagen;  
+b. gaat vergezeld van het technisch dossier in de bijlagen;  
 
-c. omschrijft in voorkomend geval de bijzondere gebruiksbeperkingen en -voorwaarden inzake het verkeer van het constructietype van een spoorvoertuig en daarmee overeenkomende spoorvoertuigen;  
+c. omschrijft in voorkomend geval de bijzondere gebruiksbeperkingen en voorwaarden voor het constructietype van een spoorvoertuig en daarmee overeenkomende spoorvoertuigen;  
 
 d. gaat vergezeld van het beoordelingsrapport/de beoordelingsrapporten in de bijlage(n);  
 
@@ -6979,7 +6899,9 @@ e. omschrijft in voorkomend geval alle relevante verklaringen (inzake conformite
 
 f. vermeldt de bevoegde autoriteit die het certificaat heeft afgegeven, de datum van afgifte en is voorzien van de handtekening van de autoriteit;  
 
-g. vermeldt in voorkomend geval de geldigheidsduur van het certificaat.     
+g. vermeldt in voorkomend geval de geldigheidsduur van het certificaat;  
+
+h. gaat voor voertuigen waarop artikel 6, § 4 van toepassing is vergezeld van afschriften van eventuele aanvullende nationale toelatingen.     
 § 3.  Het gebruikscertificaat bevat: 
 
 a. alle in § 2 bedoelde gegevens, en  
@@ -6989,53 +6911,70 @@ b. de identificatiecode(s) van het voertuig/de voertuigen waarop het certificaat
 c. informatie over de houder van het spoorvoertuig/de spoorvoertuigen waarop het certificaat op de datum van afgifte betrekking heeft;  
 
 d. in voorkomend geval de geldigheidsduur van het certificaat.     
-§ 4.  Het gebruikscertificaat kan betrekking hebben op een groep individuele voertuigen van hetzelfde type, in welk geval de overeenkomstig § 3 vereiste gegevens voor elk van de voertuigen van de groep afzonderlijk worden vermeld; het technisch dossier bevat een lijst met identificeerbare documentatie betreffende de tests die op ieder voertuig zijn uitgevoerd.   
-§ 5.  Het technisch dossier en het onderhoudsdossier bevatten de vereiste informatie overeenkomstig de bepalingen in de UTP’s.   
+§ 4.  Het gebruikscertificaat kan betrekking hebben op een groep individuele voertuigen van hetzelfde type, in welk geval de overeenkomstig § 3 vereiste gegevens voor elk van de voertuigen van de groep afzonderlijk worden vermeld; het technisch dossier bevat een lijst met identificeerbare documentatie betreffende de tests die op elk voertuig zijn uitgevoerd.   
+§ 5.  Het technisch dossier bevat de vereiste informatie overeenkomstig de bepalingen in de UTP’s.   
 § 6.  De certificaten worden afgedrukt in een van de werktalen overeenkomstig artikel 1, § 6, van het Verdrag.   
-§ 7.  De certificaten en verklaringen worden afgegeven aan de aanvrager.   
-§ 8.  Het gebruikscertificaat heeft betrekking op het object. Zodra het voertuig in gebruik is, overhandigt de houder van het gebruikscertificaat (met inbegrip van het technisch dossier en het onderhoudsdossier), indien deze niet de feitelijke houder is, het onverwijld aan de feitelijke houder met inbegrip van het dossier omtrent de staat van onderhoud en stelt alle (aanvullende) gedetailleerde instructies voor onderhoud en gebruik die hij nog in bezit heeft ter beschikking.   
-§ 9.  § 8 is van overeenkomstige toepassing op voertuigen en spoorwegmaterieel dat overeenkomstig artikel 19 is toegelaten, waarbij de desbetreffende documentatie bestaat uit de documentatie met betrekking tot de goedkeuring en andere documentatie die informatie bevat die geheel of gedeeltelijk beantwoordt aan de specificaties voor het technisch dossier, het onderhoudsdossier en het dossier omtrent de staat van onderhoud.  
+§ 7.  De in §§ 2 en 3 genoemde certificaten worden door de bevoegde autoriteit aan de aanvrager afgegeven.   
+§ 8.  Het gebruikscertificaat heeft betrekking op het object. Zodra het voertuig in gebruik is, overhandigt de houder van het gebruikscertificaat (met inbegrip van het technisch dossier), indien deze niet de feitelijke houder is, het onverwijld aan de feitelijke houder met inbegrip van het onderhoudsdossier en stelt alle instructies voor onderhoud en gebruik die hij nog in bezit heeft ter beschikking.   
+§ 9.  § 8 is van overeenkomstige toepassing op voertuigen en spoorwegmaterieel dat overeenkomstig artikel 19 is toegelaten, waarbij de desbetreffende documentatie bestaat uit de documentatie met betrekking tot de goedkeuring en andere documentatie die informatie bevat die geheel of gedeeltelijk beantwoordt aan de specificaties voor het technisch dossier en onderhoudsdossier.  
 
 ### Artikel  12  
 
 ####Standaardmodellen
 
-§ 1.  De Organisatie schrijft uniforme modellen voor van de certificaten bedoeld in artikel 11, van de verklaringen waartoe ingevolge artikel 4, § 2, besloten is en van het beoordelingsrapport ingevolge artikel 10, § 7.   
-§ 2.  De modellen worden uitgewerkt en aangenomen door de Commissie van technisch deskundigen.   
-§ 3.  De Commissie van technisch deskundigen kan besluiten dat certificaten en verklaringen volgens een ander omschreven model dan hetgeen in de Uniforme Regelen wordt voorgeschreven, maar die wel de ingevolge artikel 11 vereiste gegevens bevatten, als gelijkwaardig substituut mogen worden aangemerkt.  
+§ 1.  De Organisatie schrijft uniforme modellen voor van de certificaten bedoeld in artikel 11 en van het beoordelingsrapport ingevolge artikel 10, § 7.   
+§ 2.  De modellen worden uitgewerkt en aangenomen door de Commissie van technisch deskundigen en worden gepubliceerd op de website van de organisatie.   
+§ 3.  De Commissie van technisch deskundigen kan besluiten dat certificaten volgens een ander omschreven model dan hetgeen in de Uniforme Regelen wordt voorgeschreven, mits die de ingevolge artikel 11 vereiste gegevens bevatten, als gelijkwaardig substituut mogen worden aangemerkt.  
 
 ### Artikel  13  
 
 ####Registers
 
-§ 1.  Er wordt een register in de vorm van een elektronische databank opgericht die informatie over spoorvoertuigen bevat ter zake waarvan een gebruikscertificaat is afgegeven en de constructietypes ter zake waarvan een certificaat van het typeontwerp is afgegeven en het wordt onder de verantwoordelijkheid van de Organisatie bijgehouden. Het register omvat spoorvoertuigen die zijn toegelaten overeenkomstig artikel 19; het kan tevens spoorvoertuigen bevatten die uitsluitend voor het rijden in nationaal verkeer zijn toegelaten.   
-§ 2.  De databank bevat voorts een register met informatie betreffende de bevoegde autoriteiten en organen waaraan overeenkomstig artikel 5 de bevoegdheid werd overgedragen alsmede de overeenkomstig artikel 15, § 2 geaccrediteerde/erkende inspecteurs.   
-§ 3.  De Commissie van technisch deskundigen kan besluiten andere gegevens ten behoeve van de exploitatie van de spoorwegen in de databank op te nemen, zoals informatie inzake verklaringen, inspecties en onderhoud van de toegelaten voertuigen (waaronder de datum van de volgende voorziene inspectie), informatie over ongevallen en incidenten en registers met de codering van voertuigen, locaties, spoorwegondernemingen, houders, infrastructuurbeheerders, werkplaatsen, fabrikanten, met het onderhoud belaste entiteiten (ECM), etc.   
-§ 4.  De Commissie van technisch deskundigen stelt de technisch-functionele architectuur van de databank vast alsmede welke gegevens vereist zijn, hoe en wanneer de gegevens moeten worden aangeleverd, welke toegangsrechten er zullen zijn alsmede andere administratieve en organisatorische bepalingen, zoals de toe te passen databasestructuur. In alle gevallen dient de Secretaris-Generaal onverwijld in kennis te worden gesteld van een verandering van de houder, van de ECM, van een buiten dienst stelling, van een officieel stilzetten, van schorsingen en intrekkingen van certificaten, van verklaringen of andere documenten en van veranderingen aan een voertuig die afwijken van de toegelaten typeconstructie.   
+§ 1.  Er wordt een nationaal voertuigregister (NVR) in de vorm van een elektronische databank opgericht die informatie over spoorvoertuigen bevat ter zake waarvan een gebruikscertificaat is afgegeven. Het register omvat tevens spoorvoertuigen die zijn toegelaten overeenkomstig artikel 19; het kan tevens spoorvoertuigen bevatten die uitsluitend voor het rijden in nationaal verkeer zijn toegelaten.   
+§ 1a.  De Organisatie richt een register op van certificaten van met het onderhoud belaste entiteiten (ECM) en certificatie-instanties van deze entiteiten en houdt dit actueel, of maakt dit register toegankelijk.   
+§ 1b.  De Organisatie richt een register op van markeringscodes van houders van voertuigen en houdt dit actueel, of maakt dit register toegankelijk   
+§ 2.  [gereserveerd]   
+§ 3.  De Commissie van technisch deskundigen kan besluiten andere gegevens ten behoeve van de exploitatie van de spoorwegen in een databank op te nemen, zoals typeontwerpen, informatie inzake verklaringen, inspecties en onderhoud van de toegelaten voertuigen (waaronder de datum van de volgende voorziene inspectie), informatie die nodig is om te kunnen vaststellen of er technische compabiliteit is tussen voertuig en netwerk, informatie over ongevallen en incidenten en registers met de codering van voertuigen, locaties, spoorwegvervoerondernemingen, houders, infrastructuurbeheerders, werkplaatsen, fabrikanten, etc.   
+§ 4.  De Commissie van technisch deskundigen is bevoegd te besluiten de in dit artikel genoemde registers en databases te wijzigen, samen te voegen of in te trekken. De Commissie van technisch deskundigen stelt de technisch-functionele architectuur van de in dit artikel genoemde registers vast en kan ook specificeren welke gegevens deze moeten bevatten, hoe en wanneer de gegevens moeten worden aangeleverd, welke toegangsrechten er zullen zijn alsmede andere administratieve en organisatorische bepalingen, zoals de toe te passen databasestructuur. In alle gevallen dient de registratiehouder de entiteit die het register bijhoudt onverwijld in kennis te stellen bij wijziging van de houder, van de ECM, van een buitendienststelling, van een officieel stilzetten, van opschortingen en intrekkingen van certificaten, van verklaringen of andere bewijsstukken en van veranderingen aan een voertuig die afwijken van het toegelaten constructietype.   
 § 5.  Voor de toepassing van dit artikel neemt de Commissie van technisch deskundigen door Verdragsstaten en regionale organisaties opgezette registers in acht teneinde onnodige belasting voor de betrokken partijen zoals regionale organisaties, Verdragsstaten, bevoegde autoriteiten en de industrie te voorkomen. Teneinde ook de kosten voor de Organisatie tot een minimum te beperken en een coherent registersysteem te bewerkstelligen, stemmen alle betrokken partijen hun plannen en de ontwikkeling van registers die onder deze Uniforme Regelen vallen af met de Organisatie.   
-§ 6.  De in de databank geregistreerde gegevens worden aangemerkt als weerlegbaar bewijs van de technische toelating van een spoorvoertuig.   
-§ 7.  De Commissie van technisch deskundigen kan besluiten dat de kosten van oprichting en beheer van de databank geheel of gedeeltelijk worden gedragen door de gebruikers; het aanleveren en wijzigen van gegevens dient kosteloos te geschieden, maar het raadplegen van de gegevens kan onderworpen worden aan vergoeding.  
+§ 6.  De volgens § 1 in de databank geregistreerde gegevens worden aangemerkt als voldoende bewijs van de technische toelating van een spoorvoertuig.   
+§ 7.  De Commissie van technisch deskundigen kan besluiten dat de kosten van oprichting en beheer van de databank geheel of gedeeltelijk worden gedragen door de gebruikers.  
 
 ### Artikel  14  
 
 ####Opschriften en tekens
 
-§ 1.  De spoorvoertuigen die toegelaten zijn in het verkeer moeten zijn voorzien van: 
-
-a. een teken dat duidelijk aangeeft dat zij overeenkomstig deze Uniforme Regelen zijn toegelaten tot het rijden in het internationaal verkeer, en  
-
-b. de andere opschriften en tekens voorgeschreven in de UTP’s, met inbegrip van een unieke identificatiecode (het nummer van het voertuig).   De bevoegde autoriteit die de gebruikstoelating verleent, moet waarborgen dat aan elk voertuig een alfanumerieke identificatiecode wordt toegekend. Deze code die de landcode van de eerste Staat van toelating omvat, moet op elk voertuig worden aangebracht en overeenkomstig artikel 13 worden opgenomen in het nationaal voertuigenregister (NVR) van die Staat.   
-§ 2.  De Commissie van technisch deskundigen legt het in § 1, onderdeel a, voorziene teken vast alsmede de overgangsperiodes gedurende welke de tot het rijden in het internationaal verkeer toegelaten spoorvoertuigen voorzien mogen zijn van opschriften en tekens die afwijken van hetgeen wordt voorgeschreven in § 1.  
+§ 1.  De spoorvoertuigen die toegelaten zijn tot het verkeer moeten zijn voorzien van de in de UTP’s voorgeschreven opschriften en tekens, met inbegrip van een uniek voertuignummer. De bevoegde autoriteit die de (eerste) gebruikstoelating verleent moet waarborgen dat aan elk voertuig een alfanumerieke identificatiecode wordt toegekend. Deze code die de landcode van de eerste Staat van (eerste) toelating omvat, moet op elk voertuig worden aangebracht en worden opgenomen in het NVR van die Staat.   
+§ 2.  De Commissie van technisch deskundigen kan een teken vastleggen waarmee wordt aangetoond dat het voertuig waarop het teken is aangebracht tot het internationale verkeer is toegelaten overeenkomstig deze Uniforme Regelen.   
+§ 3.  De Commissie van technisch deskundigen kan de overgangsperiodes vaststellen gedurende welke de tot het rijden in het internationaal verkeer toegelaten spoorvoertuigen voorzien mogen zijn van opschriften en tekens die afwijken van hetgeen wordt voorgeschreven in §§ 1 en 2.  
 
 ### Artikel  15  
 
-####Onderhoud
+####Onderhoud van voertuigen
 
-§ 1.  De spoorvoertuigen en het andere spoorwegmaterieel moeten in een zodanig goede staat gehouden worden dat zij voortdurend voldoen aan de in de UTP’s omschreven bepalingen en dat hun staat bij het rijden of bij het gebruik in het internationaal verkeer op geen enkele wijze schadelijk is voor de operationele veiligheid of de infrastructuur, het milieu en de volksgezondheid. De spoorvoertuigen en het andere spoorwegmaterieel moeten daartoe beschikbaar gesteld worden voor en onderworpen worden aan de revisies, inspecties en het onderhoud zoals voorgeschreven in het aan het gebruikscertificaat gehechte onderhoudsdossier, de UTP’s, de bijzondere voorwaarden bij toelating uit hoofde van artikel 7a en in de bepalingen vervat in het RID.   
-§ 2.  Alvorens te worden toegelaten tot de exploitatie of het gebruik op het netwerk moet voor elk spoorvoertuig een met het onderhoud belaste entiteit (ECM) worden toegewezen, die wordt geregistreerd in de databank bedoeld in artikel 13. Een spoorwegonderneming, een infrastructuurbeheerder of houder kan een ECM zijn. De ECM draagt er door middel van een onderhoudssysteem zorg voor dat de voertuigen met het onderhoud waarvan zij belast is, in staat zijn veilig te rijden. De ECM doet het onderhoud zelf of geeft het in onderaanneming van een onderhoudsbedrijf. De ECM voor goederenwagens moet beschikken over een geldig certificaat, afgegeven door een externe door een van de Verdragsstaten geaccrediteerde/erkende inspecteur. De Commissie van technisch deskundigen neemt nadere gedetailleerde regels aan voor de certificering en inspectie van ECM’s, voor geaccrediteerde/erkende inspecteurs, hun accreditatie/erkenning, de controles en de controlecertificaten. Deze regels geven aan of ze equivalent zijn aan de criteria voor het certificeringssysteem voor ECM’s die zijn aangenomen in de Europese Gemeenschap of in de Staten die het gemeenschapsrecht ingevolge internationale overeenkomsten met de Europese Gemeenschap toepassen. Deze regels, die tevens regels omvatten voor de intrekking en schorsing van certificaten en accreditaties, worden omschreven in een Bijlage bij deze Uniforme Regelen en vormen een integrerend onderdeel daarvan.   
-§ 3.  Een spoorwegexploitant is verantwoordelijk voor het veilig rijden van haar treinen en waakt erover dat de ingezette voertuigen naar behoren worden onderhouden. De ECM moet daarom waarborgen dat betrouwbare informatie over en gegevens van het onderhoudsproces beschikbaar zijn voor de spoorwegexploitant en dat de spoorwegexploitant de ECM tijdig voorziet van informatie en gegevens over de exploitatie van de voertuigen en ander spoorwegmaterieel waarvoor de ECM verantwoordelijk is. In beide gevallen worden de desbetreffende informatie en gegevens gespecifieerd in de in § 2 bedoelde Bijlage.   
-§ 4.  De ECM van een toegelaten voertuig legt van dat voertuig een dossier omtrent de staat van onderhoud aan en houdt dit actueel. Het dossier moet beschikbaar zijn voor inspecties door de bevoegde nationale autoriteit.   
-§ 5.  De Commissie van technisch deskundigen kan richtlijnen of voorschriften aannemen voor de certificering en controle van onderhoudsbedrijven en de wederzijdse erkenning van de certificaten en controles. Voorschriften overeenkomstig deze paragraaf worden omschreven in een Bijlage bij deze Uniforme Regelen, vormen er een integrerend onderdeel van en worden gepubliceerd op de website van de Organisatie.  
+§ 1.  De spoorvoertuigen moeten in een zodanig goede staat van onderhoud gehouden worden dat zij voldoen aan de in artikel 7 omschreven bepalingen. Hun staat bij het rijden of bij het gebruik in het internationaal verkeer mag op geen enkele wijze schadelijk zijn voor de operationele veiligheid, de infrastructuur, het milieu of de volksgezondheid. De spoorvoertuigen moeten daartoe beschikbaar gesteld worden voor en onderworpen worden aan de revisies, inspecties en het onderhoud zoals voorgeschreven in het onderhoudsdossier. Het is de verantwoordelijkheid van de houder hiertoe een ECM aan te wijzen.   
+§ 2.  Alvorens te worden toegelaten tot het verkeer of het gebruik op het netwerk moet voor elk spoorvoertuig een ECM worden aangewezen en deze entiteit wordt geregistreerd in de databank bedoeld in artikel 13. De ECM draagt er door middel van een onderhoudssysteem zorg voor dat de voertuigen met het onderhoud waarvan zij belast is, in staat zijn veilig te rijden. De ECM kan gebruikmaken van onderaannemers, met inbegrip van onderhoudswerkplaatsen. De Commissie van technisch deskundigen is bevoegd de regels voor certificering en inspectie van ECM’s en onderhoudswerkplaatsen aan te nemen en te wijzigen. Deze regels staan vervat in Aanhangsel A bij deze Uniforme Regelen. De ECM voor een goederenwagen wordt gecertificeerd door een ECM-certificatie-instantie die in een van de Verdragsstaten is geaccrediteerd of erkend overeenkomstig Aanhangsel A bij deze Uniforme Regelen.   
+§ 3.  Voor zover nodig voor het onderhoud stelt de houder aan de ECM de elementen ter beschikking die betrekking hebben op instructies inzake revisies, voortdurende of periodieke monitoring, bijstelling en onderhoud. De ECM moet, hetzij rechtstreeks hetzij via de houder, waarborgen dat betrouwbare informatie over onderhoud en beperkingen die van invloed zijn op de exploitatie, noodzakelijk en voldoende om een veilige exploitatie te verzekeren, beschikbaar zijn voor de spoorwegexploitant. De spoorwegexploitant moet, hetzij rechtstreeks hetzij via de houder, de ECM te zijner tijd voorzien van informatie over de exploitatie van de voertuigen (met inbegrip van afgelegde kilometers, type en omvang van de activiteiten, ongevallen of incidenten) waarvoor de ECM verantwoordelijk is.   
+§ 4.  De ECM van een toegelaten voertuig legt van dat voertuig een onderhoudsdossier en dossier omtrent de staat van onderhoud aan en houdt deze actueel. De ECM stelt de houder in kennis van updates van het dossier omtrent de staat van onderhoud. De dossiers moeten beschikbaar zijn voor inspectie door de bevoegde nationale autoriteit.  
+
+### Artikel  15a  
+
+####Samenstelling en exploitatie van treinen
+
+§ 1.  De spoorwegvervoeronderneming beheerst de risico’s die met haar activiteiten samenhangen, met name de risico’s die verband houden met de exploitatie van treinen. Daartoe waarborgt zij dat deze treinen voldoen aan de essentiële eisen en zal met name: 
+
+a. de juiste en veilige samenstelling en voorbereiding van treinen waarborgen, met inbegrip van controles vóór vertrek,  
+
+b. met informatie in acht nemen die nodig is voor de veilige exploitatie van elk voertuig, met inbegrip van mogelijke beperkingen voor de exploitatie,  
+
+c. voertuigen uitsluitend gebruiken met inachtneming van de gebruiksvoorwaarden en -beperkingen ervan,  
+
+d. verplicht zijn te voldoen aan de exploitatievoorschriften voor voertuigen in internationaal verkeer, zoals die omschreven in de relevante UTP’s,  
+
+e. waarborgen dat aan elk voertuig een ECM is toegewezen en dat deze ECM, wanneer nodig, over een geldig certificaat beschikt.     
+§ 2.  De in § 1 vervatte regels zijn van overeenkomstige toepassing op entiteiten anders dan spoorwegondernemingen die treinen onder hun eigen verantwoordelijkheid exploiteren.   
+§ 3.  Voor zover nodig voor de exploitatie stelt de houder elke spoorwegonderneming die het voertuig exploiteert de elementen ter beschikking die betrekking hebben op de gebruiksvoorwaarden en -beperkingen en inzake revisies en voortdurende of periodieke monitoring.   
+§ 4.  Voor zover nodig voor de exploitatie stelt de infrastructuurmanager elke spoorwegonderneming die het voertuig op zijn netwerk exploiteert de elementen ter beschikking die betrekking hebben op de kenmerken van de infrastructuur.  
 
 ### Artikel  16  
 
@@ -7046,43 +6985,42 @@ b. de andere opschriften en tekens voorgeschreven in de UTP’s, met inbegrip va
 a. onverwijld alle nodige maatregelen te nemen teneinde de veiligheid van het spoorwegverkeer te waarborgen en het milieu en de volksgezondheid te beschermen en  
 
 b. de oorzaken van het ongeval, het incident of de ernstige schade vast te stellen.     
-§ 1a.  De maatregelen overeenkomstig § 1 moeten op elkaar worden afgestemd. Tenzij anders bepaald in de van kracht zijnde bepalingen in de desbetreffende Staat is de beheerder van de infrastructuur belast met de afstemming. Aanvullend op de onderzoeksplicht van de betrokken partijen, kan de Verdragsstaat een onafhankelijk onderzoek gelasten.   
-§ 2.  Een voertuig wordt geacht ernstig te zijn beschadigd wanneer het niet eenvoudig hersteld kan worden, zodat het in een trein kan worden opgenomen en op eigen wielen kan rijden zonder dat de bedrijfsvoering in gevaar wordt gebracht. Indien de reparatie binnen tweeënzeventig uur kan worden uitgevoerd of de kosten in totaal minder dan 0,18 miljoen SDR bedragen, wordt de schade niet als ernstig aangemerkt.   
+§ 1a.  De maatregelen overeenkomstig § 1 moeten op elkaar worden afgestemd. Tenzij anders bepaald in de van kracht zijnde bepalingen in de desbetreffende Staat is de beheerder van de infrastructuur belast met de afstemming. Aanvullend op de onderzoeksplicht van de betrokken partijen kan de Verdragsstaat een onafhankelijk onderzoek gelasten.   
+§ 2.  Een voertuig wordt geacht ernstig te zijn beschadigd wanneer het niet eenvoudig zodanig hersteld kan worden dat het in een trein kan worden opgenomen en op eigen wielen kan rijden zonder dat de exploitatie in gevaar wordt gebracht. Indien de reparatie binnen tweeënzeventig uur kan worden uitgevoerd of de kosten in totaal minder dan 0,18 miljoen SDR bedragen, wordt de schade niet als ernstig aangemerkt.   
 § 3.  Van ongevallen, incidenten en ernstige schade wordt onverwijld kennisgeving gedaan aan de autoriteit die of het orgaan dat het voertuig heeft toegelaten tot het verkeer. Die autoriteit of dat orgaan kan verlangen dat het al dan niet herstelde voertuig wordt getoond teneinde te onderzoeken of de verleende gebruikstoelating nog geldig is. In voorkomend geval moet de procedure voor de gebruikstoelating worden overgedaan.   
-§ 4.  De Verdragsstaten houden registers bij, publiceren onderzoeksrapporten met inbegrip van hun bevindingen en aanbevelingen en stellen de autoriteit die goedkeuringscertificaten afgeeft en de Organisatie in kennis van de oorzaken van ongevallen, incidenten en ernstige schade in het internationaal verkeer die zich hebben voorgedaan op hun grondgebied. De Commissie van technisch deskundigen kan de oorzaken van ongevallen, incidenten en ernstige schade in het internationaal verkeer onderzoeken teneinde eventueel voorschriften voor de constructie en exploitatie van spoorvoertuigen en ander spoorwegmaterieel in de UTP’s op te stellen en kan, zo nodig binnen zeer korte termijn beslissen om Verdragsstaten op te leggen de desbetreffende afgegeven gebruikscertificaten, certificaten van typegoedkeuringen of verklaringen te schorsen.   
-§ 5.  De Commissie van technisch deskundigen kan nadere bindende regels opstellen en aannemen voor het onderzoek naar ongevallen, incidenten en ernstige schade, alsmede eisen stellen aan onafhankelijke onderzoeksorganen van een staat alsmede de vorm en inhoud van rapporten. Ook kan zij de waarden/getallen in § 2 en in artikel 2, onderdeel ff., wijzigen.  
+§ 4.  De Verdragsstaten houden registers bij, publiceren onderzoeksrapporten met inbegrip van hun bevindingen en aanbevelingen en stellen de betrokken autoriteit en de Organisatie in kennis van de oorzaken van ongevallen, incidenten en ernstige schade in het internationaal verkeer die zich hebben voorgedaan op hun grondgebied. De Commissie van technisch deskundigen kan de oorzaken van ernstige ongevallen, incidenten en ernstige schade in het internationaal verkeer onderzoeken teneinde eventueel voorschriften voor de constructie en exploitatie van spoorvoertuigen in de UTP’s op te stellen en kan, zo nodig binnen korte termijn beslissen Verdragsstaten op te dragen de desbetreffende afgegeven gebruikscertificaten, certificaten van het typeontwerp of verklaringen op te schorten.   
+§ 5.  De Commissie van technisch deskundigen kan nadere bindende regels opstellen en aannemen voor het onderzoek naar ernstige ongevallen, incidenten en ernstige schade, alsmede eisen stellen aan onafhankelijke onderzoeksorganen van een staat alsmede de vorm en inhoud van rapporten. Ook kan zij de waarden/getallen in § 2 en in artikel 2, onderdeel ff., wijzigen.  
 
 ### Artikel  17  
 
 ####Stilzetten en weigeren van voertuigen
 
-§ 1.  Een bevoegde autoriteit, een andere spoorwegonderneming of een infrastructuurbeheerder mag spoorvoertuigen niet weigeren of stilzetten teneinde te beletten dat ze rijden op compatibele spoorweginfrastructuren, wanneer ze voldoen aan deze Uniforme Regelen, de in de UTP’s vervatte voorschriften, de eventueel door de toelatende autoriteit gestelde bijzondere voorwaarden voor de toelating alsmede aan de in het RID vervatte voorschriften voor constructie en exploitatie.   
-§ 2.  Het recht van een bevoegde autoriteit een voertuig te inspecteren en stil te zetten blijft onverlet ingeval van vermoeden van het niet in acht nemen van § 1; onderzoek teneinde zekerheid te verkrijgen moet evenwel zo spoedig mogelijk en in elk geval binnen een termijn van 24 uur plaatsvinden.   
-§ 3.  Indien een Verdragsstaat een certificaat evenwel niet binnen de in artikel 5, § 7, of artikel 16, § 4, bedoelde termijn schorst of intrekt, zijn andere Verdragsstaten bevoegd het voertuig of de voertuigen in kwestie te weigeren of stil te zetten.  
+§ 1.  Een bevoegde autoriteit, een spoorwegonderneming of een infrastructuurbeheerder mag spoorvoertuigen niet beletten te rijden op compatibele spoorweginfrastructuren, wanneer ze voldoen aan deze Uniforme Regelen, de in de UTP’s vervatte voorschriften, de eventueel door de toelatende autoriteit gestelde bijzondere voorwaarden voor de toelating alsmede aan de in het RID vervatte voorschriften voor constructie en exploitatie. Dit artikel laat de verantwoordelijkheid van de spoorwegonderneming zoals omschreven in artikel 15a onverlet.   
+§ 2.  Het recht van een bevoegde autoriteit een voertuig te inspecteren en stil te zetten indien vermoed wordt dat § 1 niet in acht is genomen blijft onverlet; onderzoek teneinde zekerheid te verkrijgen moet evenwel zo spoedig mogelijk en in elk geval binnen 24 uur plaatsvinden.   
+§ 3.  Indien een Verdragsstaat een certificaat evenwel niet binnen de in artikel 5, § 7, of artikel 16, § 4, bedoelde termijn opschort of intrekt, zijn andere Verdragsstaten bevoegd het voertuig of de voertuigen in kwestie te weigeren of stil te zetten.  
 
 ### Artikel  18  
 
 ####Niet in acht nemen van de voorschriften
 
-§ 1.  Met inachtneming van § 2 en artikel 10a, § 3, onderdeel c, worden de rechtsgevolgen van het niet in acht nemen van deze Uniforme Regelen en de UTP’s geregeld door de bepalingen die van kracht zijn in de Verdragsstaat waarvan de bevoegde autoriteit de gebruikstoelating heeft verleend, met inbegrip van de regels inzake wetsconflicten.   
-§ 2.  De civielrechtelijke en strafrechtelijke gevolgen van het niet in acht nemen van deze Uniforme Regelen en de UTP’s worden voor zover het de infrastructuur betreft geregeld door de bepalingen die van kracht zijn in de Verdragsstaat waarin de infrastructuurbeheerder zijn zetel heeft, met inbegrip van de regels inzake wetsconflicten.  
+§ 1.  Met inachtneming van § 2 en artikel 10a, § 4, onderdeel c, worden de rechtsgevolgen van het niet in acht nemen van deze Uniforme Regelen en de UTP’s geregeld door de bepalingen die van kracht zijn in de Verdragsstaat waarvan de bevoegde autoriteit de gebruikstoelating heeft verleend, met inbegrip van de regels inzake wetsconflicten.   
+§ 2.  De civielrechtelijke en strafrechtelijke gevolgen van het niet in acht nemen van deze Uniforme Regelen en de UTP’s worden voor zover het de infrastructuur betreft geregeld door de voorschriften die van kracht zijn in de Verdragsstaat waarin de infrastructuurbeheerder zijn zetel heeft, met inbegrip van de regels inzake wetsconflicten.  
 
 ### Artikel  19  
 
 ####Overgangsbepalingen
 
-§ 1.  Artikel 3, § 1, is van toepassing op bestaande, vernieuwde en verbeterde voertuigen. Overgangsbepalingen voor voertuigen die uit hoofde van RIV, RIC of andere relevante internationale overeenkomsten zijn toegelaten tot het internationaal verkeer en dienovereenkomstig zijn gemarkeerd zijn vastgelegd in dit artikel.   
-§ 2.  Bij de inwerkingtreding van deze Uniforme Regelen worden bestaande voertuigen die met RIV respectievelijk RIC gemarkeerd zijn tot bewijs van het feit dat ze op dat moment voldoen aan de technische bepalingen van de RIV overeenkomst 2000 (herziene versie van 1 januari 2004) respectievelijk RIC overeenkomst, geacht voor gebruik te zijn toegelaten om te rijden op de netwerken van de Verdragsstaten overeenkomstig hun compatibiliteit met de spoorweginfrastructuren (aangeduid door de markeringen op de wagen) waarvoor zij zijn toegelaten door een van de Verdragsstaten.   
-§ 2a.  Bestaande voertuigen die niet met RIV of RIC zijn gemarkeerd, maar volgens bilaterale of multilaterale overeenkomsten tussen Verdragsstaten waarvan kennisgeving is gedaan aan de Organisatie wel zijn toegelaten en gemarkeerd, worden eveneens geacht te zijn toegelaten om te rijden op de netwerken waarop het betreffende verdrag van toepassing is.   
-§ 3.  De tijdelijke toelating overeenkomstig §§ 2 en 2a geldt totdat voor het voertuig een nieuwe toelating nodig is overeenkomstig artikel 10, § 11.   
-§ 4.  Het opschrift RIV, RIC of een andere door de Commissie van technisch deskundigen aanvaarde markering op het voertuig alsmede de in de database opgeslagen gegevens bedoeld in artikel 13, worden aangemerkt als voldoende bewijs van de goedkeuring. Elke niet toegelaten wijziging van deze markering wordt als fraude beschouwd en vervolgd volgens het nationale recht.   
-§ 5.  Onverminderd deze overgangsbepaling moeten het voertuig en zijn documentatie voldoen aan de van kracht zijnde bepalingen van de UTP’s inzake markering en onderhoud; tevens moet worden gewaarborgd dat voldaan wordt aan de bepalingen van het van kracht zijnde RID, indien van toepassing. De Commissie van technisch deskundigen kan tevens besluiten dat ongeacht eventuele overgangsbepalingen binnen een bepaalde termijn moet worden voldaan aan in de UTP’s opgenomen veiligheidsbepalingen.   
-§ 6.  Bestaande voertuigen die niet vallen onder het toepassingsgebied van §§ 2 en 2a kunnen op verzoek van een aanvrager aan een bevoegde autoriteit worden toegelaten voor gebruik. Deze bevoegde autoriteit kan de aanvrager verzoeken om aanvullende technische informatie, dat wil zeggen een risicoanalyse en/of tests van het voertuig, alvorens het aanvullend voor gebruik toe te laten. De bevoegde autoriteiten geven zich evenwel ten volle rekenschap van de equivalentietabel bedoeld in artikel 13 van de APTU Uniforme Regelen.   
-§ 7.  De Commissie van technisch deskundigen kan andere overgangsbepalingen aannemen.  
+§ 1.  [gereserveerd]   
+§ 2.  Deze Uniforme Regelen zijn niet van toepassing op gebruikstoelatingen die vóór 1 januari 2011 werden verleend voor op 1 januari 2011 bestaande voertuigen die met RIV respectievelijk RIC gemarkeerd zijn ten bewijze van het feit dat ze op dat moment voldoen aan de technische bepalingen van de RIV-overeenkomst 2000 (herziene versie van 1 januari 2004) respectievelijk de RIC-overeenkomst, en voor bestaande voertuigen die niet met RIV of RIC zijn gemarkeerd, maar volgens bilaterale of multilaterale overeenkomsten tussen Verdragsstaten waarvan kennisgeving is gedaan aan de Organisatie wel zijn toegelaten en gemarkeerd.   
+§ 3.  Onverminderd § 5 is de oorspronkelijke toelating overeenkomstig § 2 geldig totdat voor het voertuig een nieuwe toelating nodig is overeenkomstig artikel 10, § 11.   
+§ 4.  De in artikel 14 bedoelde opschriften en tekens, alsmede de in de database opgeslagen gegevens bedoeld in artikel 13, § 1, worden aangemerkt als voldoende bewijs van de goedkeuring. Elke niet toegelaten wijziging van deze markering wordt als fraude beschouwd en vervolgd krachtens het nationale recht.   
+§ 5.  Onverminderd deze overgangsbepaling moeten het voertuig en zijn documentatie voldoen aan de van kracht zijnde bepalingen van de UTP’s inzake markering en onderhoud; tevens moet worden gewaarborgd dat voldaan wordt aan de bepalingen van het van kracht zijnde RID, indien van toepassing. De Commissie van technisch deskundigen kan tevens een met redenen omkleed besluit nemen dat omwille van de veiligheid en interoperabiliteit aan de in de UTP ingevoerde voorschriften vóór een bepaalde termijn moet worden voldaan.   
+§ 6.  Bestaande voertuigen die niet vallen onder het toepassingsgebied van § 2 kunnen op verzoek van een aanvrager aan een bevoegde autoriteit worden toegestaan voor gebruik. Deze bevoegde autoriteit kan de aanvrager verzoeken om aanvullende technische informatie, dat wil zeggen een risicoanalyse en/of tests van het voertuig, alvorens het aanvullend voor gebruik toe te laten. Desalniettemin nemen de bevoegde autoriteiten de equivalentietabel bedoeld in artikel 13 van de APTU Uniforme Regelen volledig in acht.   
+§ 7.  De Commissie van technisch deskundigen kan aanvullende overgangsbepalingen aannemen.  
 
 ### Artikel  20  
 
 ####Geschillen
 
-Geschillen omtrent de technische toelating van spoorvoertuigen en ander spoorwegmaterieel beoogd voor gebruik in het internationaal verkeer kunnen worden behandeld door de Commissie van technisch deskundigen indien ze niet beslecht zijn via rechtstreekse onderhandelingen tussen de betrokken partijen. Dergelijke geschillen kunnen in overeenstemming met de procedure omschreven in Titel V van het Verdrag ook aan het scheidsgerecht worden voorgelegd. 
+Geschillen omtrent de technische toelating van spoorvoertuigen beoogd voor gebruik in het internationaal verkeer kunnen worden behandeld door de Commissie van technisch deskundigen indien ze niet beslecht zijn via rechtstreekse onderhandelingen tussen de betrokken partijen. Dergelijke geschillen kunnen in overeenstemming met de procedure omschreven in Titel V van het Verdrag ook aan het scheidsgerecht worden voorgelegd. 
 

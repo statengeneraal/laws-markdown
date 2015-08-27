@@ -98,20 +98,20 @@ Een melding van een ernstig ongewenst voorval als bedoeld in artikel 13o van de 
 
 – het geneesmiddel voor onderzoek dat het vermoeden van de onverwachte ernstige bijwerking heeft veroorzaakt;  
 
-– codenummer, leeftijd en geslacht van de proefpersoon, bij wie de onverwachte, ernstige bijwerking zich heeft voorgedaan;  
+– codenummer, leeftijd en geslacht van de proefpersoon, bij wie de onverwachte ernstige bijwerking zich heeft voorgedaan;  
 
-– een samenvatting van het verloop van de onverwachte, ernstige bijwerking en van de behandeling daarvan;  
+– een samenvatting van het verloop van de onverwachte ernstige bijwerking en van de behandeling daarvan;  
 
 – een beoordeling door de verrichter van de gevolgen van de gemelde onverwachte ernstige bijwerking voor de uitvoering van het wetenschappelijk onderzoek;  
 
 – overige voor de beoordeling van de melding van een vermoeden van een onverwachte ernstige bijwerking relevante gegevens.     
-2.  Indien de in artikel 13p van de wet bedoelde vermoedens van onverwachte ernstige bijwerkingen directe consequenties kunnen hebben voor de veiligheid van proefpersonen, die betrokken zijn bij ander wetenschappelijk onderzoek van dezelfde verrichter met hetzelfde geneesmiddel, worden deze vermoedens overeenkomstig artikel 13p van de wet gemeld aan de ingevolge artikel 2, tweede lid, van de wet bevoegde commissies, die dat wetenschappelijk onderzoek hebben beoordeeld.   
-3.  Degene die het wetenschappelijk onderzoek verricht, draagt er zorg voor dat eens per half jaar een overzichtslijst van alle vermoedens van onverwachte ernstige bijwerkingen van een geneesmiddel voor onderzoek waarvan hij kennis heeft genomen, wordt ingediend bij de ingevolge artikel 2, tweede lid, van de wet bevoegde commissies, die wetenschappelijk onderzoek van dezelfde verrichter en met hetzelfde geneesmiddel als waarover het bedoelde vermoeden is gerezen, hebben beoordeeld. De overzichtslijst van alle vermoedens van onverwachte ernstige bijwerkingen van een geneesmiddel voor onderzoek bevat een korte toelichting waarin de belangrijkste conclusies worden vermeld.  
+2.  Indien de in artikel 13p van de wet bedoelde vermoedens van onverwachte ernstige bijwerkingen directe consequenties kunnen hebben voor de veiligheid van proefpersonen die betrokken zijn bij ander wetenschappelijk van dezelfde verrichter met hetzelfde geneesmiddel, worden deze vermoedens overeenkomstig artikel 13p van de wet gemeld aan de ingevolge artikel 2, tweede lid, van de wet, bevoegde commissies, die dat wetenschappelijk onderzoek hebben beoordeeld.   
+3.  Degene die het wetenschappelijk onderzoek verricht, draagt er zorg voor dat eens per half jaar een overzichtslijst van alle vermoedens van onverwachte ernstige bijwerkingen van een geneesmiddel voor onderzoek waarvan hij kennis heeft genomen, wordt ingediend bij de ingevolge artikel 2, tweede lid, van de wet, bevoegde commissies die het wetenschappelijk onderzoek van dezelfde verrichter en met hetzelfde geneesmiddel als waarover het bedoelde vermoeden is gerezen, hebben beoordeeld. De overzichtslijst van alle vermoedens van onverwachte ernstige bijwerkingen van een geneesmiddel voor onderzoek bevat een korte toelichting waarin de belangrijkste conclusies worden vermeld.  
 
 ### Artikel  7  
 
-1.  Bij de lijst van alle vermoedens van ernstige bijwerkingen als bedoeld in artikel 13q, eerste lid, van de wet wordt een geaggregeerde samenvattende tabel gevoegd van alle gerapporteerde ernstige bijwerkingen geordend naar orgaansysteem per onderzoek.   
-2.  Een rapport betreffende de veiligheid van de proefpersonen als bedoeld in artikel 13q, eerste lid, van de wet bestaat uit een volledige veiligheidsanalyse en een evaluatie van de balans tussen de werkzaamheid en de schadelijkheid van het geneesmiddel voor onderzoek.  
+1.  Bij de lijst van alle vermoedens van ernstige bijwerkingen als bedoeld in artikel 13q van de wet wordt een geaggregeerde samenvattende tabel gevoegd van alle gerapporteerde ernstige bijwerkingen geordend naar orgaansysteem per onderzoek.   
+2.  Een rapport betreffende de veiligheid van de proefpersonen als bedoeld in artikel 13q van de wet bestaat uit een volledige veiligheidsanalyse en een evaluatie van de balans tussen de werkzaamheid en de schadelijkheid van het geneesmiddel voor onderzoek.  
 
 ### Artikel  8  
 
