@@ -435,7 +435,7 @@ De ambtenaar heeft geen aanspraak op vakantie voor de tijd gedurende welke hij:
 
 a.zonder deugdelijke grond weigert mee te werken aan door het bevoegd gezag of een door het bevoegd gezag aangewezen deskundige gegeven redelijke voorschriften of getroffen maatregelen die erop zijn gericht om hem in staat te stellen passende arbeid te verrichten; of
 
-b.zonder deugdelijke grond weigert mee te werken aan het opstellen, evalueren en bijstellen van een plan van aanpak als bedoeld in artikel 71a, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering.
+b.zonder deugdelijke grond weigert mee te werken aan het opstellen, evalueren en bijstellen van een plan van aanpak als bedoeld in artikel 25, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen.
 
 ### Artikel  22  
 
@@ -748,7 +748,7 @@ De ambtenaar is in geval van ongeschiktheid tot het verrichten van zijn arbeid w
 ###Artikel 49b 
 
 1. Het bevoegd gezag is verplicht tijdig de maatregelen te treffen en voorschriften te geven die redelijkerwijs nodig zijn om de ambtenaar die wegens ziekte ongeschikt is zijn arbeid te verrichten in staat te stellen de eigen of andere passende arbeid te verrichten. In het kader van het vaststellen van passende arbeid is de eigen of een andere functie uit het LFNP, of een deel van één of meerdere functies uit het LFNP bepalend. 
-2. Uit hoofde van de verplichting, bedoeld in het eerste lid, stelt het bevoegd gezag in overeenstemming met de ambtenaar een plan van aanpak op als bedoeld in artikel 71a, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering. Het plan van aanpak wordt met medewerking van de ambtenaar regelmatig geëvalueerd en zo nodig bijgesteld. 
+2. Uit hoofde van de verplichting, bedoeld in het eerste lid, stelt het bevoegd gezag in overeenstemming met de ambtenaar een plan van aanpak op als bedoeld in artikel 25, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen. Het plan van aanpak wordt met medewerking van de ambtenaar regelmatig geëvalueerd en zo nodig bijgesteld. 
 3. Indien vaststaat dat de ambtenaar wegens ziekte ongeschikt is zijn arbeid te verrichten en binnen het gezagsbereik van het bevoegd gezag geen andere passende arbeid voorhanden is, bevordert dat gezag de inschakeling van de ambtenaar in voor hem passende arbeid in een of meer functies bij een andere werkgever. 
 4. De ambtenaar mag de eigen of andere passende arbeid eerst verrichten nadat de deskundige persoon of de arbodienst een op de desbetreffende ambtenaar betrekking hebbend medisch advies heeft gegeven.
 
@@ -780,7 +780,7 @@ f. om te beoordelen of de ambtenaar die de functie heeft van vlieger bij een lan
 
 g. als, gelet op artikel 88c, de deskundige persoon of de arbodienst van oordeel is dat dit noodzakelijk is;  
 
-h. om te beoordelen of sprake is van een situatie als bedoeld in artikel 94, derde lid;  
+h. om te beoordelen of sprake is van een situatie als bedoeld in artikel 94, derde of vierde lid;  
 
 i. om te beoordelen of de ambtenaar die wegens ziekte volledig ongeschikt is geweest zijn arbeid te verrichten, zijn arbeid mag hervatten;  
 
@@ -1587,16 +1587,17 @@ a.er sprake is van ongeschiktheid tot het verrichten van zijn arbeid wegens ziek
 b.herstel van zijn ziekte niet binnen een periode van zes maanden na de in onderdeel a genoemde termijn van twee jaar te verwachten is, en
 
 c.de betrokkene in dienst treedt van de andere werkgever.  
-5.  Voor de berekening van het tijdvak van twee jaar, bedoeld in het derde lid, onderdeel a, en het vierde lid, onderdeel a, worden perioden van ongeschiktheid tot het verrichten van haar arbeid wegens ziekte tengevolge van zwangerschap voorafgaand aan het zwangerschapsverlof en perioden van ongeschiktheid tijdens het zwangerschaps- of bevallingsverlof, bedoeld in artikel 55, niet in aanmerking genomen.   
-6.  Perioden van ongeschiktheid tot het verrichten van zijn arbeid, anders dan bedoeld in het vijfde lid, worden samengeteld indien zij elkaar met een onderbreking van minder dan vier weken opvolgen, of indien zij direct voorafgaan aan en aansluiten op een periode waarin zwangerschaps- of bevallingsverlof wordt genoten overeenkomstig artikel 55, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak.   
-7.  Om te beoordelen of er sprake is van een situatie als bedoeld in het derde lid, onderdelen a en b, en het vierde lid, onderdelen a en b, vraagt het bevoegd gezag het oordeel van een daartoe door de uitvoeringsinstelling, die de Wet op de arbeidsongeschiktheidsverzekering uitvoert ten aanzien van de ambtenaar, aangewezen arts.   
-8.  De in het zevende lid bedoelde arts betrekt bij zijn beoordeling een door het bevoegd gezag aangewezen arts en, indien de ambtenaar dit wenst, een door de ambtenaar aangewezen arts.   
-9.  Het bevoegd gezag stelt de ambtenaar er schriftelijk van in kennis dat de procedure, bedoeld in het zevende lid, wordt ingesteld. Daarbij wijst het bevoegd gezag de ambtenaar op de mogelijkheid om een arts van zijn keuze te laten deelnemen aan de procedure.   
-10.  De kennisgeving, bedoeld in het negende lid, geschiedt niet eerder dan nadat de ambtenaar gedurende een onafgebroken periode van 18 maanden ongeschikt is geweest tot het verrichten van zijn arbeid wegens ziekte. Het vijfde lid is hierbij van overeenkomstige toepassing.   
-11.  De in het zevende lid bedoelde arts stelt naar aanleiding van zijn bevindingen een rapport op. Hij zendt dit rapport aan het bevoegd gezag. Tevens zendt hij een afschrift van dit rapport aan de ambtenaar.   
-12.  Indien herplaatsing als bedoeld in het derde lid, onder c, plaatsvindt in een betrekking voor minder uren dan het aantal waarvoor de ambtenaar was aangesteld, heeft het ontslag uitsluitend betrekking op het meerdere aantal uren.  
-13. Indien sprake is van een situatie als bedoeld in het eerste lid, onderdeel f, en de ambtenaar bij de andere werkgever voor minder uren arbeid verricht dan het aantal waarvoor hij was aangesteld, heeft het ontslag uitsluitend betrekking op het aantal uren dat hij passend werk verricht bij de andere werkgever.
-14. Alvorens op grond van het eerste lid, onderdeel j, ontslag te verlenen, vraagt het bevoegd gezag advies aan het Uitvoeringsinstituut werknemersverzekeringen.
+5.  De ambtenaar die door het Uitvoeringsinstituut werknemersverzekeringen voor minder dan 35% arbeidsongeschikt is verklaard, blijft in dienst, tenzij een zwaarwegend dienstbelang zich hiertegen verzet. Indien het voor de ambtenaar niet mogelijk is zijn bestaande samenstel van werkzaamheden te blijven verrichten, wordt hij gere-integreerd in aangepast werk.   
+6.  De in het derde lid, onderdeel a, bedoelde periode van twee jaar wordt met één jaar verlengd indien de ambtenaar niet binnen twee jaar zodanig is herplaatst dat de resterende verdiencapaciteit volledig wordt benut.  
+7.  Voor de berekening van het tijdvak van twee jaar, bedoeld in het derde lid, onderdeel a, en het vierde lid, onderdeel a, worden perioden van ongeschiktheid tot het verrichten van haar arbeid wegens ziekte tengevolge van zwangerschap voorafgaand aan het zwangerschapsverlof en perioden van ongeschiktheid tijdens het zwangerschaps- of bevallingsverlof, bedoeld in artikel 55, niet in aanmerking genomen.   
+8.  Perioden van ongeschiktheid tot het verrichten van zijn arbeid, anders dan bedoeld in het zevende lid, worden samengeteld indien zij elkaar met een onderbreking van minder dan vier weken opvolgen, of indien zij direct voorafgaan aan en aansluiten op een periode waarin zwangerschaps- of bevallingsverlof wordt genoten overeenkomstig artikel 55, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak.   
+9.  Bij de beoordeling of er sprake is van een situatie als bedoeld in het derde lid, onderdelen a en b, of het vierde lid, onderdelen a en b, betrekt het bevoegd gezag de beschikking op de aanvraag, bedoeld in artikel 64, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen.   
+10.  Indien de beschikking op de aanvraag, bedoeld in artikel 64, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen ouder is dan zes maanden, of in die beschikking geen oordeel is gegeven over mogelijk herstel binnen zes maanden, of het bevoegd gezag niet beschikt over deze beschikking omdat de ambtenaar de aanvraag niet heeft ingediend bij het Uitvoeringsinstituut werknemersverzekeringen, vraagt het bevoegd gezag een een oordeel als bedoeld in artikel 32, eerste, tweede, derde of vierde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen aan en betrekt dit oordeel bij de beoordeling of er sprake is van een situatie als bedoeld in het derde of vierde lid.   
+11.  Indien herplaatsing als bedoeld in het derde lid, onder c, plaatsvindt in een betrekking voor minder uren dan het aantal waarvoor de ambtenaar was aangesteld, heeft het ontslag uitsluitend betrekking op het meerdere aantal uren.  
+12. Indien sprake is van een situatie als bedoeld in het eerste lid, onderdeel f, en de ambtenaar bij de andere werkgever voor minder uren arbeid verricht dan het aantal waarvoor hij was aangesteld, heeft het ontslag uitsluitend betrekking op het aantal uren dat hij passend werk verricht bij de andere werkgever.
+13. Alvorens op grond van het eerste lid, onderdeel j, ontslag te verlenen, verzoekt het bevoegd gezag om een oordeel als bedoeld in artikel 32, eerste, tweede, derde of vierde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen. 
+14.  Het bevoegd gezag stelt de ambtenaar schriftelijk in kennis dat een oordeel als bedoeld in artikel 32, eerste, tweede, derde of vierde lid, wordt aangevraagd.   
+15.  De ambtenaar wiens arbeidsongeschiktheid is veroorzaakt door een dienstongeval of beroepsziekte, blijft in dienst en wordt, behoudens zwaarwegend dienstbelang als bedoeld in het vijfde lid, door het bevoegd gezag zodanig herplaatst dat in beginsel 100% doch minimaal 50% van zijn verdiencapaciteit wordt benut. 
 
 ### Artikel  95  
 
@@ -1628,6 +1629,10 @@ Aan de ambtenaar die als gevolg van een ontslag op grond van de artikelen 89, ee
 
 1.  Een ambtenaar die op grond van afdeling 1, hoofdstuk 2, artikel 1, van de Invoeringswet Politiewet 1993 naar een politieregio dan wel het Korps landelijke politiediensten is overgegaan en die op de dag voorafgaande aan de datum van inwerkingtreding van de Politiewet 1993 aanspraken had op grond van het Ambtenarenreglement voor de rijkspolitie 1975, het Ambtenarenreglement voor de gemeentepolitie 1958, de Rechtstoestandsregeling opleiding ter verkrijging van het diploma van inspecteur van gemeentepolitie of van officier der rijkspolitie, of artikel VII van het Besluit van 24 juni 1992, houdende wijziging van het Ambtenarenreglement voor de rijkspolitie 1975, het Ambtenarenreglement voor de gemeentepolitie 1958, het Bezoldigingsreglement politie 1958, het Besluit geneeskundige verzorging politie 1984 en het Besluit overleg en medezeggenschap politie in verband met het tot stand brengen van een eenvormige rechtspositie voor alle politieambtenaren, behoudt deze aanspraken.    
 2.  Een ambtenaar, werkzaam bij het LSOP, die op de dag voorafgaande aan de datum van inwerkingtreding van de LSOP-wet aanspraken op grond van het Ambtenarenreglement LSOP had, behoudt deze aanspraken.   
+
+###Artikel 99a 
+
+Op de ambtenaar die op grond van de Wet op de arbeidsongeschiktheidsverzekeringen recht heeft op een arbeidsongeschiktheidsuitkering blijven de bepalingen uit het Besluit algemene rechtspositie politie waarin sprake is van de Wet op de arbeidsongeschiktheidsverzekering van toepassing, zoals deze luidden op 28 december 2005.
 
 ### Artikel  99c  
 

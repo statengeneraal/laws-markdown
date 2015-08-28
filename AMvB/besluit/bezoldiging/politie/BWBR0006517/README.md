@@ -72,7 +72,7 @@ u. uitkeringen: alle uitkeringen waarop ingevolge dit besluit aanspraak bestaat;
 
 v. bezoldiging: de som van het salaris, de toelagen, met uitzondering van de toelagen, bedoeld in de artikelen 12b, 12c, 12d en 16, eerste lid, alsmede de uitkering, bedoeld in artikel 25a, indien Onze Minister zulks bepaalt;  
 
-w. arbeidsongeschiktheid: arbeidsongeschiktheid als bedoeld in artikel 18, eerste lid van de Wet op de arbeidsongeschiktheidsverzekering;  
+w. arbeidsongeschiktheid: volledige en duurzame arbeidsongeschiktheid als bedoeld in artikel 4, eerste lid, van de WIA of gedeeltelijke arbeidsongeschiktheid als bedoeld in artikel 5 van de WIA;  
 
 x. arbodienst: een arbodienst als bedoeld in de Arbeidsomstandighedenwet;  
 
@@ -82,13 +82,13 @@ z. beroepsziekte: een ziekte, welke in overwegende mate haar oorzaak vindt in de
 
 aa. dienstongeval: een ongeval, welke in overwegende mate zijn oorzaak vindt in de aard van de aan de ambtenaar opgedragen werkzaamheden of in de bijzondere omstandigheden, waaronder deze moesten worden verricht, en dat niet aan zijn schuld of onvoorzichtigheid is te wijten, of een ongeval als bedoeld in artikel 16, eerste lid, van de Regeling vredesmissies politie;  
 
-bb.beroepsincident: een dienstongeval of een beroepsziekte voortvloeiend uit een gevaarzettende situatie die rechtstreeks verband houdt met de uitvoering van zijn taak waaraan de ambtenaar zich vanwege zijn specifieke functie niet kan onttrekken;
+bb.Vervallen.
 
 cc. herplaatsen: het op grond van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte opdragen van een andere functie of de eigen functie onder andere voorwaarden;  
 
-dd. herplaatsingstoelage: een herplaatsingstoelage als bedoeld in hoofdstuk 9 van het Pensioenreglement;  
+dd. herplaatsingtoelage: een herplaatsingtoelage als bedoeld in hoofdstuk 12 van het Pensioenreglement;  
 
-ee. invaliditeitspensioen: een invaliditeitspensioen als bedoeld in hoofdstuk 8 van het Pensioenreglement;  
+ee. arbeidsongeschiktheidspensioen: een ABP arbeidsongeschiktheidspensioen als bedoeld in hoofdstuk 11 van het Pensioenreglement;  
 
 ff. medisch advies: een advies van de deskundige persoon of de arbodienst dat ten aanzien van de ambtenaar is uitgebracht na een arbeidsgezondheidskundig onderzoek als bedoeld in artikel 18, van de Arbeidsomstandighedenwet en artikel 50 van het Besluit algemene rechtspositie politie;  
 
@@ -106,9 +106,9 @@ ll.  pensioengevend inkomen: het pensioengevend inkomen bedoeld in hoofdstuk 3 v
 
 mm. vervallen;  
 
-nn. WAO: de Wet op de arbeidsongeschiktheidsverzekering;  
+nn. WIA: Wet werk en inkomen naar arbeidsvermogen;  
 
-oo. WAO-uitkering: een uitkering op grond van de WAO;  
+oo. WIA-uitkering: een uitkering op grond van de WIA;  
 
 pp. ZW: de Ziektewet;  
 
@@ -126,7 +126,9 @@ vv.  LFNP: Landelijk Functiegebouw Nederlandse Politie: het door Onze Minister v
 
 ww. OVW punten: Onvermijdelijk Verzwarende Werkomstandigheden punten, zoals die met toepassing van het functiewaarderingssysteem zoals bedoeld in artikel 6, tweede lid, worden vastgesteld; 
 
-xx. OVW periodieken: Onvermijdelijk Verzwarende Werkomstandigheden periodieken, welke kunnen worden toegewezen op grond van artikel 9a.    
+xx. OVW periodieken: Onvermijdelijk Verzwarende Werkomstandigheden periodieken, welke kunnen worden toegewezen op grond van artikel 9a; 
+
+yy. AOW-gerechtigde leeftijd: de leeftijd, bedoeld in artikel 7a van de Algemene Ouderdomswet, waarop recht op ouderdomspensioen ontstaat.    
 2.  Voor de toepassing van dit besluit wordt onder echtgenote of echtgenoot mede verstaan de geregistreerde partner alsmede de niet-gehuwde ambtenaar die met een levenspartner samenwoont en – met het oogmerk duurzaam samen te leven – een gemeenschappelijke huishouding voert op basis van een notarieel verleden samenlevingscontract bevattende de wederzijdse rechten en verplichtingen ter zake van die samenwoning en gemeenschappelijke huishouding. Onder weduwe of weduwnaar wordt mede begrepen de achtergebleven geregistreerde partner alsmede de achtergebleven levenspartner. Tegelijkertijd kan slechts een persoon als echtgenoot of echtgenote dan wel weduwe of weduwnaar worden aangemerkt. Het bevoegd gezag kan verlangen dat een schriftelijke verklaring van een notaris wordt overgelegd waaruit blijkt dat een samenlevingscontract als bedoeld in de eerste volzin is gesloten.   
 
 ### Artikel  2  
@@ -418,7 +420,7 @@ a. over de uren in het tijdvak van maandag tot en met donderdag van 21.00 tot 07
 
 b. over de uren in het tijdvak van 22.00 tot 07.00 uur in de weekendnachtdiensten, daaronder begrepen de diensten in de nacht voor en de nacht na een weekend of een feestdag, genoemd in het derde lid, € 5,73.   
 3.  Hetgeen in het tweede lid ten aanzien van het verrichten van dienst op zaterdag en zondag is bepaald, geldt mede voor het verrichten van dienst op de Nieuwjaarsdag, de tweede Paasdag, de Hemelvaartsdag, de tweede Pinksterdag, de beide Kerstdagen en de dag waarop de verjaardag van de Koning wordt gevierd.   
-4.  De operationele toelage wordt in gevallen van zwangerschap en ziekte van de ambtenaar gesteld op het bedrag dat de ambtenaar in de drie perioden van vier weken, onmiddellijk voorafgaande aan de periode van vier weken waarin de ziekte is aangevangen, gemiddeld aan toelage op grond van dit artikel heeft genoten.   
+4.  De operationele toelage wordt in gevallen van zwangerschap, zwangerschaps- en bevallingsverlof of ziekte van de ambtenaar gesteld op het bedrag dat de ambtenaar in de drie perioden van vier weken, onmiddellijk voorafgaande aan de periode van vier weken waarin de zwangerschap, zwangerschap- en bevallingsverlof of ziekte is aangevangen, gemiddeld aan toelage op grond van dit artikel heeft genoten.   
 5.  Het eerste tot en met vierde lid zijn niet van toepassing op de ambtenaar wiens salarisschaal 15 of hoger bedraagt. 
 
 ### Artikel  15  
@@ -489,7 +491,7 @@ b. het leveren van eenmalige onvoorziene uitzonderlijke prestaties.
 6.   Van de in het vijfde lid gestelde termijn kan worden afgeweken indien het dienstbelang dat vereist of, indien het dienstbelang zich daartegen niet verzet, op verzoek van de ambtenaar. Voor de hier bedoelde gevallen wordt een nieuwe uiterste termijn vastgesteld.    
 7.  Indien een ambtenaar aan wie consignatie is opgelegd, binnen het tijdvak van consignatie werkzaamheden moet verrichten, is voor de duur van die werkzaamheden sprake van het verrichten van arbeid.    
 8.   Voor de toepassing van dit artikel worden gedeelten van uren, voorzover daarmee het half uur, bedoeld in het derde lid, wordt overschreden, berekend over een periode van vier weken, opgeteld en naar boven afgerond op halve uren.    
-9.  De toelage voor consignatie wordt in geval van ziekte van de ambtenaar gesteld op het bedrag dat de ambtenaar in de drie perioden van vier weken, onmiddellijk voorafgaande aan de periode van vier weken waarin de ziekte is aangevangen, gemiddeld aan toelage op grond van dit artikel heeft genoten.   
+9.  De toelage voor consignatie wordt in geval van aangepaste werkzaamheden in verband met zwangerschap, zwangerschap- en bevallingsverlof of ziekte van de ambtenaar gesteld op het bedrag dat de ambtenaar in de drie perioden van vier weken, onmiddellijk voorafgaande aan de periode van vier weken waarin de aangepaste werkzaamheden in verband met zwangerschap, zwangerschap- en bevallingsverlof of ziekte is aangevangen, gemiddeld aan toelage op grond van dit artikel heeft genoten.   
 10.   Voor de toepassing van dit artikel berust het oordeel omtrent het dienstbelang bij het bevoegd gezag dan wel bij de door deze aangewezen ambtenaar.    
 11.  Het eerste lid is niet van toepassing op de ambtenaar wiens salarisschaal 15 of hoger bedraagt. 
 
@@ -588,7 +590,7 @@ Artikel 23 is mede van toepassing op de gewezen ambtenaar die ingevolge artikel 
 
 ### Artikel  25b  
 
-1.  De ambtenaar heeft recht op een eindejaarsuitkering ten bedrage van 8% van het door hem in dat jaar genoten salaris.   
+1.  De ambtenaar heeft recht op een eindejaarsuitkering ten bedrage van 8% van het door hem in dat jaar genoten salaris en de compensatie, bedoeld in artikel 38, tiende lid, dan wel in artikel 38b, zesde lid.   
 2.  De eindejaarsuitkering bedraagt tenminste € 144,25 per maand met dien verstande dat dit bedrag naar evenredigheid wordt verminderd indien: 
 
 a. het salaris van de ambtenaar niet op de eerste dag van een maand is aangevangen, dan wel indien de ambtenaar een deel van een maand geen salaris heeft genoten;  
@@ -600,7 +602,11 @@ b. de ambtenaar in de loop van een maand slechts een gedeelte van zijn salaris h
 a. in het jaar 2001 recht op een eindejaarsuitkering ter grootte van 2,50% van het door hem in dat jaar genoten salaris;  
 
 b. in het jaar 2002 recht op een eindejaarsuitkering ter grootte van 5,25% van het door hem in dat jaar genoten salaris, doch ten minste € 81,40 per maand gedurende de eerste helft van dat jaar en ten minste € 82,21 per maand gedurende de tweede helft van dat jaar, met dien verstande dat dit bedrag overeenkomstig het tweede en derde lid naar evenredigheid wordt verminderd.     
-5.  Indien de ambtenaar recht heeft op een uitkering op grond van de Ziektewet, de Wet arbeid en zorg of de Wet op de arbeidsongeschiktheidsverzekering, wordt voor de toepassing van dit artikel het salaris in acht genomen zoals dit zou zijn genoten indien geen sprake zou zijn geweest van recht op een uitkering op grond van de Ziektewet, de Wet arbeid en zorg of de Wet op de arbeidsongeschiktheidsverzekering.   
+5.  Indien de ambtenaar recht heeft op een uitkering op grond van: 
+
+a. de WIA, voor zover de ambtenaar nog niet is herplaatst op grond van artikel 49b van het Besluit algemene rechtspositie politie; of  
+
+b. de Ziektewet of de Wet arbeid en zorg,   wordt voor de toepassing van dit artikel het salaris in acht genomen zoals dit zou zijn genoten indien geen sprake zou zijn geweest van recht op een uitkering op grond van de WIA, de Ziektewet of de Wet arbeid en zorg.   
 6.  Indien de ambtenaar vanwege een inhouding op grond van de Regeling levensloop politie niet zijn volledige salaris geniet, wordt voor de toepassing van dit artikel het salaris in aanmerking genomen zoals dit zou zijn genoten indien geen sprake zou zijn geweest van een inhouding op het salaris vanwege die regeling.    
 7.  Indien voor de ambtenaar het feitelijke genot van de bezoldiging is teruggebracht tot het bedrag van het op de ambtenaar te verhalen gedeelte van de pensioenbijdrage, wordt hij voor de toepassing van dit artikel geacht geen salaris te genieten.   
 8.  De eindejaarsuitkering wordt eenmaal per kalenderjaar in de maand december betaald.   
@@ -785,16 +791,18 @@ c. de ambtenaar die op grond van een andere bijzondere verbintenis in werkelijke
 3°de derde 26 weken 80% van de bezoldiging;
 
 4°vervolgens 70% van de bezoldiging. 
-2. In afwijking van het eerste lid, behoudt de ambtenaar, indien de ziekte uit hoofde waarvan hij ongeschikt is zijn arbeid te verrichten, is veroorzaakt door een beroepsincident, zijn aanspraak op doorbetaling van 100% van zijn bezoldiging. 
+2. In afwijking van het eerste lid, behoudt de ambtenaar, indien de ziekte uit hoofde waarvan hij ongeschikt is zijn arbeid te verrichten, is veroorzaakt door een dienstongeval of beroepsziekte, zijn aanspraak op doorbetaling van 100% van zijn bezoldiging. 
 3. Voor de toepassing van het eerste lid worden perioden van ongeschiktheid samengeteld indien zij elkaar met een onderbreking van minder dan vier weken opvolgen of indien zij direct voorafgaan aan en aansluiten op een periode waarin zwangerschaps- of bevallingsverlof wordt genoten overeenkomstig artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak. 
 4. Het tijdvak van 104 weken, bedoeld in het eerste lid, wordt verlengd:
 
 a.met de duur van de vertraging, indien het bevoegd gezag de aangifte, bedoeld in artikel 38, eerste lid, van de ZW, later doet dan op grond van dat artikel is voorgeschreven;
 
-b.met de duur van de vertraging van de wachttijd, bedoeld in artikel 19, eerste lid, van de WAO, zoals dat artikel luidde op 31 december 2003, indien de wachttijd met toepassing van het zevende lid van dat artikel wordt verlengd;
+b. met de duur van de vertraging van de wachttijd, bedoeld in artikel 23, eerste en tweede lid, van de WIA, indien de wachttijd met toepassing van artikel 24 van de WIA wordt verlengd; 
 
-c.met de duur van het tijdvak dat het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 71a, negende lid, van de WAO heeft vastgesteld. 
-5. Ingeval van verlenging op grond van het vierde lid, kan het tijdvak, bedoeld in het eerste lid, niet méér dan 156 weken belopen. 
+c.met de duur van het tijdvak dat het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 25, negende lid, van de WIA heeft vastgesteld;
+
+d. met de duur van de periode dat het bevoegd gezag de ambtenaar, bedoeld in het eerste lid, noch heeft ontslagen op grond van artikel 94, eerst lid, onderdeel e of f, van het Besluit algemene rechtspositie politie, noch op grond van artikel 49b, derde lid, van het Besluit algemene rechtspositie politie heeft herplaatst teneinde passende arbeid te kunnen verrichten.  
+5. Ingeval van verlenging op grond van het vierde lid, onderdeel a, b of c, kan het tijdvak, bedoeld in het eerste lid, niet méér dan 156 weken belopen. 
 6. De ambtenaar die langer dan 26 weken ongeschikt is tot het verrichten van zijn arbeid wegens ziekte en die loonvormende arbeid of reintegratieactiviteiten verricht, ontvangt over deze uren een beloning naast de bezoldiging bij ziekte als bedoeld in het eerste lid. 
 7. De beloning, bedoeld in het zesde lid, tezamen met de doorbetaling van de bezoldiging bij ziekte bedraagt:
 
@@ -809,50 +817,48 @@ a.met ingang van de dag waarop de ambtenaar op grond van artikel 49b, derde lid,
 
 b.met ingang van de dag waarop de ambtenaar ontslag is verleend;
 
-c.met ingang van de dag waarop de ambtenaar de leeftijd van 65 jaar heeft bereikt; of
+c.met ingang van de dag waarop de ambtenaar de AOW-gerechtigde leeftijd heeft bereikt; of
 
 d.met ingang van de dag volgende op die waarop de ambtenaar is overleden. 
 9. De ambtenaar die op grond van artikel 49b, derde lid, van het Besluit algemene rechtspositie politie passende arbeid verricht en daartoe is herplaatst, voordat de termijn van twee jaar, bedoeld in artikel 94, derde lid, van het Besluit algemene rechtspositie politie is verstreken, heeft tot het eind van genoemde termijn aanspraak op een aanvullende uitkering, indien zijn bezoldiging als gevolg van zijn herplaatsing vermindering ondergaat, ter grootte van het verschil tussen:
 
 a.het bedrag waarop de ambtenaar op grond van dit artikel recht zou hebben gehad indien hem geen andere betrekking zou zijn opgedragen, maar in plaats daarvan voor dezelfde arbeidstijd zijn eigen betrekking; en
 
-b.de som van zijn bezoldiging na herplaatsing, een uit zijn arbeidsongeschiktheid voortvloeiend recht op een WAO-uitkering, een invaliditeitspensioen en een herplaatsingstoelage. 
-10. De ambtenaar die op grond van artikel 49b, derde lid, van het Besluit algemene rechtspositie politie passende arbeid verricht en daartoe is herplaatst, heeft tevens aanspraak op een aanvullende uitkering nadat de termijn van 104 weken is verstreken, indien de ziekte, uit hoofde waarvan de ambtenaar ongeschikt is zijn arbeid te verrichten wordt veroorzaakt door een dienstongeval of een door het verrichten van zijn arbeid opgelopen beroepsziekte, ter grootte van het verschil tussen:
-
-a.een percentage van zijn bezoldiging vermeerderd met de vakantie-uitkering en de eindejaarsuitkering, zoals die zou zijn op de dag voor zijn herplaatsing indien de ambtenaar op die dag niet ongeschikt zou zijn geweest tot werken; en
-
-b.zijn bezoldiging na herplaatsing, in voorkomend geval vermeerderd met een uit de oorspronkelijke betrekking voortvloeiend recht op een WAO-uitkering, invaliditieitspensioen en een herplaatsingstoelage. 
-11. Het percentage, bedoeld in het tiende lid, onderdeel a, is afhankelijk van de mate van arbeidsongeschiktheid en bedraagt bij een arbeidsongeschiktheid van: 
-
-|80% of meer: |90,02%; |
-|:---|:---|
-|65 tot 80%: |65,26%; |
-|55 tot 65%: |54,01%; |
-|45 tot 55%: |45,01%; |
-|35 tot 45%: |36,01%; |
-|25 tot 35%: |27,01%; |
-|15 tot 25%: |18,00%. |
-
-12. De aanvullende uitkering, bedoeld in het negende en tiende lid, eindigt in ieder geval:
-
-a.met ingang van de dag waarop de ambtenaar niet meer voldoet aan de in bedoelde artikelleden genoemde voorwaarden;
-
-b.met ingang van de dag waarop de ambtenaar ontslag is verleend;
-
-c.met ingang van de dag waarop de ambtenaar de leeftijd van 65 jaar bereikt; of
-
-d.met ingang van de dag volgende op die waarop de ambtenaar is overleden. 
+b.de som van zijn bezoldiging na herplaatsing, een uit zijn arbeidsongeschiktheid voortvloeiend recht op een WIA-uitkering, en een arbeidsongeschiktheidspensioen. 
+10.  De ambtenaar waarvan de mate van arbeidsongeschiktheid is vastgesteld op minder dan 35% en die als gevolg van de arbeidsongeschiktheid inkomensverlies heeft, maakt aanspraak op een compensatie van dit inkomensverlies. Onder inkomensverlies wordt verstaan het verschil tussen de oorspronkelijke bezoldiging van de ambtenaar, waarbij ten aanzien van de onregelmatigheidstoeslag en consignatie wordt uitgegaan van hetgeen gemiddeld genoten is in de twaalf maanden voor de ziekte, en de bezoldiging nadat de arbeidsongeschiktheid is vastgesteld op minder dan 35%, waarbij verhogingen van de bezoldiging wegens algemene salarismaatregelen of een verhoging van het salaris als bedoeld in artikel 9 buiten beschouwing worden gelaten.   
+11.  De compensatie, bedoeld in het tiende lid, is een toelage ter hoogte van 70% van het inkomensverlies voor de duur van vijf jaar, gerekend vanaf de dag waarop de mate van arbeidsongeschiktheid van de ambtenaar is vastgesteld op minder dan 35%, maar niet voordat 104 weken na de eerste ziektedag zijn verstreken. Bij samenloop van de compensatie, bedoeld in het tiende lid, met een uitkering krachtens de Werkloosheidswet of het Besluit bovenwettelijke werkloosheidsuitkering politie, wordt de compensatie verminderd met het bedrag van de uitkering krachtens de Werkloosheidswet of het Besluit bovenwettelijke werkloosheidsuitkering politie.  
 
 ### Artikel  38a  
 
 1.  De ambtenaar met recht op een ZW-uitkering heeft aanspraak op een aanvulling van die uitkering tot het niveau van de bezoldiging.   
 2.  Voor de toepassing van dit artikel wordt de ZW-uitkering waarop de ambtenaar recht heeft steeds aangemerkt als een uitkering die door deze onverminderd is genoten.  
 
-###Artikel 38b 
+### Artikel  38b  
 
-1. De ambtenaar die ongeschikt is zijn arbeid te verrichten wegens een dienstongeval of een beroepsziekte doch niet door een beroepsincident, wordt op zijn aanvraag voor de toepassing van dit hoofdstuk gelijkgesteld met de ambtenaar die ongeschikt is zijn arbeid te verrichten wegens een beroepsincident. 
-2. De gewezen ambtenaar van wie de arbeidsongeschiktheid is veroorzaakt door een dienstongeval of een beroepsziekte doch niet door een beroepsincident, wordt op zijn aanvraag voor de toepassing van dit hoofdstuk gelijkgesteld met de gewezen ambtenaar van wie de arbeidsongeschiktheid is veroorzaakt door een beroepsincident. 
-3. De ambtenaar en de gewezen ambtenaar worden geacht een aanvraag te hebben ingediend als bedoeld in het eerste en tweede lid indien de eerste dag van ongeschiktheid tot het verrichten van zijn arbeid wegens een dienstongeval of een beroepsziekte is gelegen in de periode van 1 januari 2004 tot en met 31 mei 2006.
+1.  De ambtenaar die wegens ziekte ongeschikt is zijn arbeid te verrichten, heeft, indien de ziekte is veroorzaakt door een dienstongeval of indien het een beroepsziekte betreft, recht op een aanvullende uitkering nadat het tijdvak van 104 weken, bedoeld in artikel 38, eerste lid, is verstreken.   
+2.  De uitkering voor de ambtenaar, bedoeld in het eerste lid, die volledig en duurzaam arbeidsongeschikt is als bedoeld in artikel 4, eerste lid, van de WIA, wordt aangevuld tot 95% van zijn laatstelijk genoten bezoldiging vermeerderd met de vakantie-uitkering en de eindejaarsuitkering, waarop aanspraak zou bestaan op de dag voor zijn herplaatsing indien de ambtenaar op die dag niet ongeschikt zou zijn geweest tot werken.   
+3.  De uitkering voor de ambtenaar, bedoeld in het eerste lid, die gedeeltelijk arbeidsgeschikt is als bedoeld in artikel 5 van de WIA en slechts in staat is met arbeid ten hoogste 20% te verdienen van het maatmaninkomen, bedoeld in artikel 1 van de WIA, per uur, wordt aangevuld tot 90,02% van zijn laatstelijk genoten bezoldiging vermeerderd met de vakantie-uitkering en de eindejaarsuitkering, waarop aanspraak zou bestaan op de dag voor zijn herplaatsing indien de ambtenaar op die dag niet ongeschikt zou zijn geweest tot werken.   
+4.  De in het eerste lid bedoelde aanvullende uitkering voor de ambtenaar die 35 tot 80% arbeidsongeschikt is, bedraagt: 
+
+a. gedurende de looptijd van de loongerelateerde uitkering, in geval de verdiencapaciteit volledig wordt benut, 90% van het verschil tussen het oude en het nieuwe inkomen;  
+
+b. gedurende de looptijd van de loongerelateerde uitkering, in geval de verdiencapaciteit niet volledig wordt benut, 80% van het verschil tussen het oude en het nieuwe inkomen;  
+
+c. gedurende de looptijd van de loonaanvulling, waarbij de verdiencapaciteit voor 50% of meer wordt benut, 90% van het verschil tussen het oude en het nieuwe inkomen dat de ambtenaar bij volledige benutting van zijn restverdiencapaciteit zou verdienen;  
+
+d. gedurende de looptijd van de vervolguitkering, waarbij de verdiencapaciteit voor minder dan voor 50% wordt benut, gedurende maximaal tien jaar, 75% van het oude inkomen maal het arbeidsongeschiktheidspercentage.     
+5.  Onder het oude inkomen, bedoeld in het vierde lid, wordt verstaan de som van de laatstgenoten bezoldiging, vakantie-uitkering en eindejaarsuitkering voor de herplaatsing. Onder het nieuwe inkomen, bedoeld in het vierde lid, wordt verstaan de som van de bezoldiging, de vakantie-uitkering, de eindejaarsuitkering, de WIA-uitkering en het arbeidsongeschiktheidspensioen na de herplaatsing.   
+6.  De in het eerste lid bedoelde aanvullende uitkering voor de ambtenaar die minder dan 35% arbeidsongeschikt is, bedraagt 70% van het inkomensverlies, bedoeld in artikel 38, tiende lid.   
+7.  De aanvullende uitkering eindigt in ieder geval: 
+
+a. met ingang van de dag waarop de ambtenaar niet meer voldoet aan de in het eerste tot en met het vierde, dan wel het zesde lid genoemde voorwaarden;  
+
+b. met ingang van de dag waarop de ambtenaar ontslag is verleend;  
+
+c. met ingang van de dag waarop de ambtenaar de AOW-gerechtigde leeftijd heeft bereikt; of  
+
+d. met ingang van de dag volgend op die waarop de ambtenaar is overleden.     
+8.  Het bedrag van de laatstelijk genoten bezoldiging, bedoeld in het tweede en het derde lid, wordt herberekend overeenkomstig een algemene salarismaatregel in de sector politie. 
 
 ### Artikel  39  
 
@@ -871,26 +877,15 @@ b.de tweede 26 weken 90% van de bezoldiging.
 3. Voor het bepalen van het einde van het tijdvak van 78 weken, bedoeld in het eerste lid, en het tijdvak van 52 weken, bedoeld in het tweede lid, worden perioden van ongeschiktheid samengeteld indien zij elkaar met een onderbreking van minder dan vier weken opvolgen of indien zij direct voorafgaan aan en aansluiten op een periode waarin zwangerschaps- of bevallingsverlof wordt genoten overeenkomstig artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak. 
 4. De doorbetaling van de bezoldiging bedoeld in het eerste en tweede lid, eindigt na ommekomst van de uitkeringsduur, maar in ieder geval:
 
-a.met ingang van de dag waarop de gewezen ambtenaar de leeftijd van 65 jaar bereikt; of
+a.met ingang van de dag waarop de gewezen ambtenaar de AOW-gerechtigde leeftijd bereikt; of
 
 b.met ingang van de dag volgende op die waarop de gewezen ambtenaar is overleden. 
-5.  De gewezen ambtenaar die aanspraak heeft op een WAO-uitkering ter zake van de dienstbetrekking die hij voor zijn ontslag vervulde, heeft aanspraak op een aanvullende uitkering indien de arbeidsongeschiktheid is veroorzaakt door beroepsincident.   
-6.  De in het vijfde lid bedoelde aanvullende uitkering is gelijk aan het verschil tussen: 
-
-a) een percentage van de laatstelijk genoten bezoldiging vermeerderd met de vakantie-uitkering en de eindejaarsuitkering, in het jaar voorafgaande aan zijn ontslag; en  
-
-b) de som van de ambtenaar toegekende WAO-uitkering, een hem toegekend invaliditeitspensioen, een hem toegekende herplaatsingstoelage dan wel in voorkomend geval een hem toegekende suppletie op grond van het Besluit suppletieregeling gedeeltelijk arbeidsongeschikten sector politie.     
-7.  Het percentage, bedoeld in het zesde lid, onderdeel a, is afhankelijk van de mate van arbeidsongeschiktheid en bedraagt bij een arbeidsongeschiktheid van: 80% of meer: 90,02%; 65 tot 80%: 65,26%; 55 tot 65%: 54,01%; 45 tot 55%: 45,01%; 35 tot 45%: 36,01%; 25 tot 35%: 27,01%; 15 tot 25%: 18,00%.   
-8. De aanvullende uitkering, bedoeld in het vijfde lid, eindigt:
-
-a.met ingang van de dag waarop de gewezen ambtenaar niet meer voldoet aan de in bedoeld artikellid genoemde voorwaarden;
-
-b.met ingang van de dag waarop de gewezen ambtenaar de leeftijd van 65 jaar heeft bereikt; of
-
-c.met ingang van de dag volgende op die waarop de gewezen ambtenaar is overleden. 
-9.  De gewezen ambtenaar aan wie eervol ontslag is verleend op grond van artikel 87a van het Besluit algemene rechtspositie politie met het oog op een uitkering op grond van een vut-overeenkomst als bedoeld in artikel 1, onderdeel e, van de Wet kaderregeling vut overheidspersoneel, heeft slechts aanspraak op de doorbetaling van zijn laatstelijk genoten bezoldiging voor zover deze tezamen met de aanvullende uitkering in artikel 8.4 van het Pensioenreglement de laatstelijk genoten bezoldiging niet overschrijdt.   
-10.  De gewezen ambtenaar aan wie eervol ontslag is verleend op grond van artikel 88d van het Besluit algemene rechtspositie politie met het oog op pensioen als bedoeld in artikel 7.3 van het pensioenreglement, voor zover dat is ingegaan voor de AOW-gerechtigde leeftijd, heeft tot uiterlijk de AOW-gerechtigde leeftijd slechts aanspraak op de doorbetaling van zijn laatstelijk genoten bezoldiging voor zover deze tezamen met zijn pensioen op grond van artikel 7.3 van het Pensioenreglement de laatstelijk genoten bezoldiging niet overschrijdt.  
-11.  Het bedrag van de laatstelijk genoten bezoldiging, bedoeld in de voorgaande leden, wordt in voorkomende gevallen gewijzigd overeenkomstig een algemene salarismaatregel in de sector politie.  
+5.  De gewezen ambtenaar waarvan de mate van arbeidsongeschiktheid, waarvan de oorzaak is gelegen voor het tijdstip van ingang van zijn ontslag, is vastgesteld op minder dan 35% en die als gevolg van de arbeidsongeschiktheid inkomensverlies heeft, maakt aanspraak op een compensatie van dit inkomensverlies. Onder inkomensverlies wordt verstaan het verschil tussen de laatstgenoten bezoldiging, vakantie-uitkering en eindejaarsuitkering van de ambtenaar op het moment van vaststelling van de mate van arbeidsongeschiktheid op minder dan 35% en de nieuwe structurele bruto inkomsten uit arbeid, waarbij verhogingen van de inkomsten wegens algemene salarismaatregelen of een periodieke verhoging van het inkomen buiten beschouwing worden gelaten.   
+6.  De compensatie, bedoeld in het vijfde lid, is een toelage ter hoogte van 70% van het inkomensverlies voor de duur van vijf jaar, gerekend vanaf de dag waarop de mate van arbeidsongeschiktheid van de gewezen ambtenaar is vastgesteld op minder dan 35%, maar niet voordat 104 weken na de eerste ziektedag zijn verstreken. Bij samenloop van de compensatie, bedoeld in het vijfde lid, met een uitkering krachtens de Werkloosheidswet of het Besluit bovenwettelijke werkloosheidsuitkering politie, wordt de compensatie verminderd met het bedrag van de uitkering krachtens de Werkloosheidswet.   
+7.  De gewezen ambtenaar aan wie eervol ontslag is verleend op grond van artikel 87a van het Besluit algemene rechtspositie politie met het oog op een uitkering op grond van een vut-overeenkomst als bedoeld in artikel 1, onderdeel e, van de Wet kaderregeling vut overheidspersoneel, heeft slechts aanspraak op de doorbetaling van zijn laatstelijk genoten bezoldiging voor zover deze tezamen met de aanvullende uitkering in artikel 8.4 van het Pensioenreglement de laatstelijk genoten bezoldiging niet overschrijdt.   
+8.  De gewezen ambtenaar aan wie eervol ontslag is verleend op grond van artikel 88d van het Besluit algemene rechtspositie politie met het oog op pensioen als bedoeld in artikel 7.3 van het pensioenreglement, voor zover dat is ingegaan voor de AOW-gerechtigde leeftijd, heeft tot uiterlijk de AOW-gerechtigde leeftijd slechts aanspraak op de doorbetaling van zijn laatstelijk genoten bezoldiging voor zover deze tezamen met zijn pensioen op grond van artikel 7.3 van het Pensioenreglement de laatstelijk genoten bezoldiging niet overschrijdt.  
+9.  Het bedrag van de laatstelijk genoten bezoldiging, bedoeld in de voorgaande leden, wordt in voorkomende gevallen gewijzigd overeenkomstig een algemene salarismaatregel in de sector politie.   
+10.  De in het eerste lid, onderdelen b en c, bedoelde vermindering van het percentage van de bezoldiging is niet van toepassing indien de ziekte is veroorzaakt door een dienstongeval of een beroepsziekte. 
 
 ### Artikel  39a  
 
@@ -900,8 +895,32 @@ c.met ingang van de dag volgende op die waarop de gewezen ambtenaar is overleden
 4. Voor zolang de gewezen ambtenaar na beëindiging van de haar ingevolge het eerste of derde lid toekomende uitkering nog wegens ziekte ongeschikt is tot werken of binnen een maand na deze beëindiging ongeschikt wordt tot werken, heeft zij gedurende een tijdvak van 52 weken recht op de doorbetaling van de bezoldiging overeenkomstig artikel 39. De termijn van 52 weken loopt vanaf de eerste dag na de bevalling. 
 5. Ongeschikt tot werken, in de zin van het vierde lid is de gewezen ambtenaar die als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte of gebreken geheel of gedeeltelijk niet in staat is om een naar aard en omvang soortgelijke betrekking als zij vervulde, te vervullen. 
 6. Artikel 55, vijfde en zesde lid, van het Besluit algemene rechtspositie politie en artikel 41, tweede lid, van dit besluit zijn van overeenkomstige toepassing. 
-7. Dit artikel is niet van toepassing als het Besluit suppletie gedeeltelijk arbeidsongeschikten sector politie, van toepassing is. Het recht op grond van dit artikel leidt in dat geval niet tot uitkering en evenmin tot wijziging van de berekening van de perioden daarvan. 
-8. Het bedrag van de laatstelijk genoten bezoldiging, bedoeld in de voorgaande leden, wordt in voorkomende gevallen gewijzigd overeenkomstig een algemene salarismaatregel in de sector politie. 
+7. Het bedrag van de laatstelijk genoten bezoldiging, bedoeld in de voorgaande leden, wordt in voorkomende gevallen gewijzigd overeenkomstig een algemene salarismaatregel in de sector politie. 
+
+### Artikel  39b  
+
+1.  De gewezen ambtenaar die wegens ziekte, veroorzaakt door een dienstongeval of een beroepsziekte, ongeschikt is zijn arbeid te verrichten, heeft recht op een aanvullende uitkering nadat het tijdvak van 104 weken, bedoeld in artikel 38, eerste lid, is verstreken.   
+2.  De uitkering voor de gewezen ambtenaar, bedoeld in het eerste lid, die volledig en duurzaam ongeschikt is als bedoeld in artikel 4, eerste lid, van de WIA, wordt aangevuld tot 95% van zijn laatstelijk genoten bezoldiging vermeerderd met de vakantie-uitkering en de eindejaarsuitkering, waarop aanspraak zou bestaan op de dag voor zijn ontslag indien de ambtenaar op die dag niet ongeschikt zou zijn geweest tot het verrichten van arbeid.   
+3.  De uitkering voor de gewezen ambtenaar, bedoeld in het eerste lid, die gedeeltelijk arbeidsgeschikt is als bedoeld in artikel 5 van de WIA en slechts in staat is met arbeid ten hoogste 20% te verdienen van het maatmaninkomen, bedoeld in artikel 1 van de WIA, per uur, wordt aangevuld tot 90,02% van zijn laatstelijk genoten bezoldiging, vermeerderd met de vakantie-uitkering en de eindejaarsuitkering waarop aanspraak zou bestaan op de dag voor zijn ontslag indien de ambtenaar op die dag niet ongeschikt zou zijn geweest tot het verrichten van arbeid. Indien de gewezen ambtenaar op grond van artikel 49b, derde lid, van het Besluit algemene rechtspositie politie voor zijn ontslag passende arbeid heeft verricht en daartoe is herplaatst, gelden voor de toepassing van de vorige volzin de bezoldiging, vermeerderd met de vakantie-uitkering en de eindejaarsuitkering waarop aanspraak zou bestaan op de dag voor zijn herplaatsing indien de ambtenaar op die dag niet ongeschikt zou zijn geweest tot het verrichten van arbeid.   
+4.  De aanvullende uitkering voor de gewezen ambtenaar, bedoeld in het eerste lid, die 35 tot 80% arbeidsongeschikt is bedraagt: 
+
+a. gedurende de looptijd van de loongerelateerde uitkering, in geval de verdiencapaciteit volledig wordt benut, 90% van het verschil tussen het oude en het nieuwe inkomen;  
+
+b. gedurende de looptijd van de loongerelateerde uitkering, in geval de verdiencapaciteit niet volledig wordt benut, 80% van het verschil tussen het oude en het nieuwe inkomen;  
+
+c. gedurende de looptijd van de loonaanvulling, waarbij de verdiencapaciteit voor 50% of meer wordt benut, 90% van het verschil tussen het oude en het nieuwe inkomen dat de ambtenaar bij volledige benutting van zijn restverdiencapaciteit zou verdienen;  
+
+d. gedurende de looptijd van de vervolguitkering, waarbij de verdiencapaciteit voor minder dan voor 50% wordt benut, gedurende maximaal tien jaar, 75% van het oude inkomen maal het arbeidsongeschiktheidspercentage.     
+5.  Onder het oude inkomen, bedoeld in het vierde lid, wordt verstaan de laatstgenoten bezoldiging, de vakantie-uitkering en de eindejaarsuitkering. Onder het nieuwe inkomen, bedoeld in het vierde lid, wordt verstaan de nieuwe structurele bruto inkomsten uit arbeid, de WIA-uitkering en het arbeidsongeschiktheidspensioen.   
+6.  De aanvullende uitkering voor de gewezen ambtenaar, bedoeld in het eerste lid, die minder dan 35% arbeidsongeschikt is, bedraagt 70% van het inkomensverlies, bedoeld in artikel 39, vijfde lid, tweede volzin.   
+7.  De aanvullende uitkering eindigt in ieder geval: 
+
+a. met ingang van de dag waarop de gewezen ambtenaar niet meer voldoet aan de in het eerste lid genoemde voorwaarden;  
+
+b. met ingang van de dag waarop de gewezen ambtenaar de AOW-gerechtigde leeftijd heeft bereikt; of  
+
+d. met ingang van de dag volgende op die waarop de gewezen ambtenaar is overleden.     
+8.  Het bedrag van de laatstelijk genoten bezoldiging, bedoeld in het tweede en het derde lid, wordt herberekend overeenkomstig een algemene salarismaatregel in de sector Politie.  
 
 ### Artikel  41  
 
@@ -929,7 +948,7 @@ d)het werken wegens ziekte geheel of gedeeltelijk zou zijn gestaakt.
 
 ### Artikel  44  
 
-1.  De aanspraken van de ambtenaar en de gewezen ambtenaar op grond van dit hoofdstuk gedurende de eerste 104 weken van ongeschiktheid tot werken, vervallen indien de ambtenaar of de gewezen ambtenaar: 
+1.  De aanspraken van de ambtenaar en de gewezen ambtenaar op grond van dit hoofdstuk vervallen indien de ambtenaar of de gewezen ambtenaar: 
 
 a) niet binnen redelijke termijn gezondheidskundige hulp inroept;  
 
@@ -941,51 +960,41 @@ d) zich schuldig maakt aan gedragingen waardoor zijn genezing wordt belemmerd;
 
 e) verzuimt de deskundige persoon of de arbodienst op eerste aanvraag mee te delen om welke reden hij ongeschikt is tot werken;  
 
-f) zonder deugdelijke grond nalaat gevolg te geven aan een verzoek van de deskundige persoon of de arbodienst om te verschijnen;   
+f) zonder deugdelijke grond nalaat gevolg te geven aan een verzoek van de deskundige persoon of de arbodienst om te verschijnen;  
 
 g) er de oorzaak van is dat het arbeidsgezondheidskundig onderzoek door een door de deskundige persoon of de arbodienst aangewezen arts niet kan plaatshebben;  
 
 h) niet binnen twee dagen na de aanvang van de ongeschiktheid tot werken wegens ziekte dit heeft gemeld bij zijn werkgever;  
 
-i) weigert aangeboden passende arbeid, waartoe de deskundige persoon of de arbodienst hem in staat acht, te verkrijgen of te aanvaarden;  
+i) weigert aangeboden passende arbeid, waartoe de deskundige persoon of de arbodienst hem in staat acht, te verrichten;  
 
 j) zich niet houdt aan de ten aanzien van hem geldende regels met betrekking tot de wijze waarop invulling wordt gegeven aan de verzuimbegeleiding en de arbeidsgezondheidskundige begeleiding en de daarbij in acht te nemen procedure;  
 
 k) zijn ongeschiktheid tot werken opzettelijk heeft veroorzaakt;  
 
-l) weigert inzage te geven in een op hem betrekking hebbend document als bedoeld in artikel 1 van de Wet op de identificatieplicht of een geldig rijbewijs als bedoeld in artikel 107 van de Wegenverkeerswet 1994, voor zover dit redelijkerwijs nodig is voor de uitvoering van wetten;  
+l) weigert inzage te geven in een op hem betrekking hebbend document als bedoeld in artikel 1 van de Wet op de identificatieplicht of een geldig rijbewijs als bedoeld in artikel 107, eerste lid, van de Wegenverkeerswet, voor zover dit redelijkerwijs nodig is voor de uitvoering van wetten;  
 
 m) tijdens de ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte arbeid voor zichzelf of voor derden verricht, tenzij dit door de deskundige persoon of de arbodienst in het belang van zijn genezing wenselijk wordt geacht;  
 
-n) vóór de betaling van de bezoldiging of de bovenwettelijke arbeidsongeschiktheidsuitkering, weigert mededeling te doen van inkomsten uit arbeid die hij heeft in verband met het verrichten van door de deskundige persoon of de arbodienst in het belang van zijn genezing wenselijk geachte arbeid voor zichzelf of voor derden;  
+n) vóór de betaling van de bezoldiging weigert mededeling te doen van inkomsten uit arbeid die hij heeft in verband met het verrichten van door de deskundige persoon of de arbodienst in het belang van zijn genezing wenselijk geachte arbeid voor zichzelf of voor derden;  
 
 o) niet onverwijld op verzoek of uit eigen beweging alle feiten en omstandigheden meedeelt, waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht of op de hoogte van een aan hem toegekende arbeidsongeschiktheidsuitkering;  
 
 p) zijn arbeid verzuimt te hervatten op het door de deskundige persoon of de arbodienst bepaalde tijdstip en in de door deze persoon of dienst bepaalde mate, indien zulks hem is opgedragen, tenzij hij daarvoor een door de deskundige persoon of de arbodienst als geldig erkende reden heeft opgegeven;  
 
-q)zonder deugdelijke grond weigert mee te werken aan door het bevoegd gezag of een door het bevoegd gezag aangewezen deskundige gegeven redelijke voorschriften of getroffen maatregelen die erop zijn gericht om de betrokkene in staat te stellen passende arbeid te verrichten;
+q) zonder deugdelijke grond weigert mee te werken aan door het bevoegd gezag of een door het bevoegd gezag aangewezen deskundige gegeven redelijke voorschriften of mee te werken aan getroffen maatregelen die erop gericht zijn om de betrokkene in staat te stellen passende arbeid te verrichten;  
 
-r)zonder deugdelijke grond weigert mee te werken aan het opstellen, evalueren en bijstellen van een plan van aanpak als bedoeld in artikel 71a, tweede lid, van de WAO;
+r) zonder deugdelijke grond weigert mee te werken aan het opstellen, evalueren of bijstellen van een plan van aanpak als bedoeld in artikel 25, tweede lid, van de WIA;  
 
-s) zijn medewerking weigert bij de doelmatige uitvoering van de bepalingen van dit hoofdstuk.     
-2.  De aanspraak op de doorbetaling van bezoldiging of de bovenwettelijke ziekte-uitkering, kan geheel of gedeeltelijk vervallen worden verklaard in het geval de ambtenaar of de gewezen ambtenaar de regels heeft overtreden die ter zake van afwezigheid wegens ziekte zijn vastgesteld.   
+s) geen aanspraak heeft op een WIA-uitkering omdat geen aanvraag is ingediend of in verband met de toepassing van artikel 88 van de WIA;  
+
+t) zijn medewerking weigert bij de doelmatige uitvoering van de bepalingen van dit hoofdstuk.     
+2.  De aanspraak op de doorbetaling van bezoldiging kan geheel of gedeeltelijk vervallen worden verklaard in het geval de ambtenaar of de gewezen ambtenaar de regels heeft overtreden die ter zake van afwezigheid wegens ziekte zijn vastgesteld.   
 3.  De ingevolge het eerste lid vervallen aanspraken herleven met ingang van het tijdstip waarop de ambtenaar of de gewezen ambtenaar alsnog gevolg geeft aan de betreffende verplichting op grond van dat lid.   
-4.  Het bevoegd gezag kan op grond van bijzondere omstandigheden bepalen, dat de aanspraak op de doorbetaling van bezoldiging of de bovenwettelijke ziekte-uitkering niet vervalt maar geheel of ten dele aan anderen dan aan de ambtenaar of de gewezen ambtenaar zal worden uitbetaald.   
-5.  Voor zover het bevoegd gezag van de bevoegdheid, bedoeld in het vierde lid, geen gebruik heeft gemaakt, worden de niet uitbetaalde bezoldiging of de bovenwettelijke ziekte-uitkering alsnog aan de ambtenaar uitbetaald, indien de in artikel 51, derde lid, van het Besluit algemene rechtspositie politie bedoelde commissie van artsen ten gunste van de ambtenaar heeft geoordeeld.  
-
-### Artikel  45  
-
-1.  De aanspraken van de ambtenaar op grond van dit hoofdstuk na de eerste 104 weken van ongeschiktheid tot werken, vervallen indien de ambtenaar:  
-
-a) weigert aangeboden passende arbeid, waartoe de deskundige persoon of de arbodienst hem in staat acht, te verkrijgen of te aanvaarden;  
-
-b) zich niet houdt aan de ten aanzien van hem geldende regels met betrekking de wijze waarop invulling wordt gegeven aan de verzuimbegeleiding en de arbeidsgezondheidskundige begeleiding en de daarbij in acht te nemen procedure;  
-
-c) geen aanspraak heeft op een WAO-uitkering in verband met de toepassing van artikel 25 of 28, onder a of b, van de WAO.     
-2.  De ingevolge het eerste lid vervallen aanspraken herleven met ingang van het tijdstip waarop de ambtenaar alsnog gevolg geeft aan de betreffende verplichting op grond van dat lid.   
-3.  Na het tijdvak van 104 weken, bedoeld in de artikelen 38 en 39, is op de aanspraak die de ambtenaar heeft op doorbetaling van de bezoldiging, het verplichtingen- en sanctieregime van de WAO van overeenkomstige toepassing.   
-4. Indien als gevolg van handelingen of het nalaten van handelingen door de ambtenaar, de WAO-uitkering vermindering ondergaat, dan wel de aanspraak daarop geheel of gedeeltelijk wordt geweigerd, wordt de WAO-uitkering voor het vaststellen van zijn aanspraak op doorbetaling van de bezoldiging zoals bedoeld in artikel 38, eerste lid, steeds geacht onverminderd te zijn genoten. 
-5. Indien ten aanzien van de WAO-uitkering die de ambtenaar genieten een verplichting wordt opgelegd of een sanctie wordt toegepast, wordt door het bevoegd gezag zoveel mogelijk dezelfde verplichting opgelegd dan wel een overeenkomende sanctie toegepast, op doorbetaling van de bezoldiging zoals bedoeld in artikel 38, eerste lid waarop de ambtenaar aanspraak hebben. 
+4.  Het bevoegd gezag kan op grond van bijzondere omstandigheden bepalen, dat de aanspraak op de doorbetaling van bezoldiging niet vervalt maar geheel of ten dele aan anderen dan aan de ambtenaar of de gewezen ambtenaar zal worden uitbetaald.   
+5.  Voor zover het bevoegd gezag van de bevoegdheid, bedoeld in het vierde lid, geen gebruik heeft gemaakt, wordt de niet uitbetaalde bezoldiging alsnog aan de ambtenaar of de gewezen ambtenaar uitbetaald, indien het in artikel 32, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen bedoelde oordeel ten gunste van de ambtenaar of de gewezen ambtenaar uitvalt.   
+6.  Indien de ambtenaar of de gewezen ambtenaar recht heeft op een WIA-uitkering, is het verplichtingen- en sanctieregime van de WIA van overeenkomstige toepassing op zijn recht krachtens dit hoofdstuk op grond van dezelfde dienstbetrekking.   
+7.  Indien als gevolg van handelingen of het nalaten van handelingen door de ambtenaar of de gewezen ambtenaar de WIA-uitkering vermindering ondergaat, dan wel de aanspraak daarop geheel of gedeeltelijk wordt geweigerd, wordt de WIA-uitkering voor het vaststellen van zijn aanspraak op doorbetaling van de bezoldiging zoals bedoeld in artikel 38, eerste lid, steeds geacht onverminderd te zijn genoten.  
 
 ### Artikel  45a  
 
@@ -995,7 +1004,7 @@ a) een tegemoetkoming of een vergoeding die vergelijkbaar is met de tegemoetkomi
 
 b) een ZW-uitkering ingeval van meer dan een betrekking. In dat geval wordt de ZW-uitkering naar rato van de bezoldiging toegerekend aan de dienstbetrekking ter zake waarvan zijn bezoldiging wordt doorbetaald krachtens dit hoofdstuk en de andere betrekking of betrekkingen.  
 
-c) een WAO-uitkering ingeval van meer dan één betrekking. In dat geval wordt de WAO-uitkering naar rato van de bezoldiging toegerekend aan de betrekking ter zake waarvan zijn bezoldiging wordt doorbetaald krachtens dit hoofdstuk en de andere betrekking of betrekkingen.     
+c) een WIA-uitkering ingeval van meer dan één betrekking. In dat geval wordt de WIA-uitkering naar rato van de bezoldiging toegerekend aan de betrekking ter zake waarvan zijn bezoldiging wordt doorbetaald krachtens dit hoofdstuk en de andere betrekking of betrekkingen.     
 2.  Inkomsten uit of in verband met arbeid of bedrijf worden op het bedrag, waarop de gewezen ambtenaar ingevolge dit hoofdstuk recht heeft, in mindering gebracht, tenzij: 
 
 a) de gewezen ambtenaar deze inkomsten reeds voor het intreden van de ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte genoot; en  
@@ -1004,8 +1013,8 @@ b) de omvang van die arbeid niet is toegenomen.
 
 ### Artikel  45c  
 
-1.  De aanspraak van de ambtenaar en de gewezen ambtenaar op de bovenwettelijke ziekte-uitkering of de doorbetaling van de bezoldiging na afloop van de termijn als bedoeld in artikel 38, eerste lid, wordt zoveel mogelijk op gelijke wijze gewijzigd als een aan hem toegekende ZW-uitkering of een WAO-uitkering.   
-2.  Het eerste lid vindt geen toepassing indien de ambtenaar en de gewezen ambtenaar aanspraak op een ZW-uitkering of een WAO-uitkering hebben wegens ongeschiktheid tot werken voor een betrekking die de ambtenaar of de gewezen ambtenaar heeft vervuld naast zijn betrekking ter zake waarvan de ambtenaar of de gewezen ambtenaar op een uitkering krachtens dit hoofdstuk aanspraak heeft, voor zover de ZW-uitkering of de WAO-uitkering naar de inkomsten uit die andere betrekking wordt berekend of geacht kan worden te zijn berekend.  
+1.  De aanspraak van de ambtenaar en de gewezen ambtenaar op de bovenwettelijke ziekte-uitkering of de doorbetaling van de bezoldiging na afloop van de termijn als bedoeld in artikel 38, eerste lid, wordt zoveel mogelijk op gelijke wijze gewijzigd als een aan hem toegekende ZW-uitkering of een WIA-uitkering.   
+2.  Het eerste lid vindt geen toepassing indien de ambtenaar en de gewezen ambtenaar aanspraak op een ZW-uitkering of een WIA-uitkering hebben wegens ongeschiktheid tot werken voor een betrekking die de ambtenaar of de gewezen ambtenaar heeft vervuld naast zijn betrekking ter zake waarvan de ambtenaar of de gewezen ambtenaar op een uitkering krachtens dit hoofdstuk aanspraak heeft, voor zover de ZW-uitkering of de WIA-uitkering naar de inkomsten uit die andere betrekking wordt berekend of geacht kan worden te zijn berekend.  
 
 ###Artikel 45d 
 
@@ -1019,16 +1028,16 @@ b) de omvang van die arbeid niet is toegenomen.
 ### Artikel  46  
 
 1.  De bezoldiging van de ambtenaar wordt niet langer uitbetaald dan tot en met de dag van het overlijden. Artikel 26, eerste lid, van het Besluit algemene rechtspositie politie, is van overeenkomstige toepassing   
-2.   Met inachtneming van het vijfde lid wordt zo spoedig mogelijk na het overlijden aan de weduwe of weduwnaar van wie de overleden ambtenaar niet duurzaam gescheiden leefde, een bedrag uitgekeerd gelijk aan de bezoldiging over een tijdvak van drie maanden. Als maatstaf bij de berekening van het in de eerste volzin bedoelde bedrag geldt, behoudens het hierna bepaalde, de bezoldiging welke de ambtenaar op de dag van het overlijden genoot of, indien hij op die dag aanspraak maakt op een ZW-uitkering of een WAO-uitkering en een bovenwettelijke ziekte-uitkering of een bovenwettelijke arbeidsongeschiktheidsuitkering, bedoeld in hoofdstuk 10, zou hebben genoten indien hij op die dag arbeidsgeschikt zou zijn geweest. De uitkering wordt vermeerderd met een bedrag gelijk aan driemaal dat van de vakantieuitkering over een maand, berekend op de voet van hoofdstuk 6, naar de bezoldiging die de ambtenaar in de maand van het overlijden zou hebben genoten. Indien de ambtenaar in het genot was van de operationele toelage, bedoeld in artikel 14, of van de aflopende toelage, bedoeld in artikel 15 of van een toelage op grond van artikel IV van het koninklijk besluit van 4 september 1968 tot wijziging van het Bezoldigingsreglement politie 1958 (*Stb.* 477) wordt het gedeelte van de in de eerste volzin bedoelde uitkering dat betrekking heeft op deze toelagen, gesteld op het bedrag dat de overleden ambtenaar in de drie kalendermaanden voorafgaand aan de dag van het overlijden aan zodanige toelagen is toegekend.    
+2.   Met inachtneming van het vijfde lid wordt zo spoedig mogelijk na het overlijden aan de weduwe of weduwnaar van wie de overleden ambtenaar niet duurzaam gescheiden leefde, een bedrag uitgekeerd gelijk aan de bezoldiging over een tijdvak van drie maanden. Als maatstaf bij de berekening van het in de eerste volzin bedoelde bedrag geldt, behoudens het hierna bepaalde, de bezoldiging welke de ambtenaar op de dag van het overlijden genoot of, indien hij op die dag aanspraak maakt op een ZW-uitkering of een WIA-uitkering en een bovenwettelijke ziekte-uitkering of een bovenwettelijke arbeidsongeschiktheidsuitkering, bedoeld in hoofdstuk 10, zou hebben genoten indien hij op die dag arbeidsgeschikt zou zijn geweest. De uitkering wordt vermeerderd met een bedrag gelijk aan driemaal dat van de vakantieuitkering over een maand, berekend op de voet van hoofdstuk 6, naar de bezoldiging die de ambtenaar in de maand van het overlijden zou hebben genoten. Indien de ambtenaar in het genot was van de operationele toelage, bedoeld in artikel 14, of van de aflopende toelage, bedoeld in artikel 15 of van een toelage op grond van artikel IV van het koninklijk besluit van 4 september 1968 tot wijziging van het Bezoldigingsreglement politie 1958 (*Stb.* 477) wordt het gedeelte van de in de eerste volzin bedoelde uitkering dat betrekking heeft op deze toelagen, gesteld op het bedrag dat de overleden ambtenaar in de drie kalendermaanden voorafgaand aan de dag van het overlijden aan zodanige toelagen is toegekend.    
 3.   Bij ontstentenis van een weduwe of weduwnaar van wie de overledene niet duurzaam gescheiden leefde, geschiedt de uitkering, bedoeld in het tweede lid, ten behoeve van de minderjarige kinderen. Onder kinderen in de zin van dit artikel worden mede verstaan natuurlijke kinderen en kinderen waarover de overledene de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor.    
 4.   Ontbreken ook kinderen als bedoeld in het derde lid, dan geschiedt de uitkering, bedoeld in het tweede lid, aan degenen die geheel of grotendeels afhankelijk waren van de bezoldiging van de ambtenaar.    
 5.   Indien de overledene geen betrekkingen als bedoeld in het tweede tot en met het vierde lid nalaat, kan het daartoe bedoelde bedrag door het bevoegd gezag geheel of ten dele worden uitgekeerd voor de betaling van de kosten van de laatste ziekte en van de lijkbezorging, indien de nalatenschap van de overledene voor de betaling van die kosten ontoereikend is.    
 6.   Op de uitkering, bedoeld in het tweede lid, wordt reeds vóór zijn overlijden aan de ambtenaar uitbetaalde bezoldiging over een na zijn overlijden gelegen tijdvak in mindering gebracht. Indien de ambtenaar voor zijn overlijden te veel vakantie heeft genoten, is artikel 26, tweede lid, van het Besluit algemene rechtspositie politie, van overeenkomstige toepassing. Het aldus verschuldigde bedrag wordt eveneens in mindering gebracht op de uitkering, bedoeld in het tweede lid.   
-7.  Op het bedrag, bedoeld in het tweede tot en met vierde lid, wordt in mindering gebracht een uitkering op grond van artikel 35 van de Ziektewet of op grond van artikel 53 van de Wet op de arbeidsongeschiktheidsverzekering en naar aard en strekking daarmee overeenkomende uitkeringen.  
+7.  Op het bedrag, bedoeld in het tweede tot en met vierde lid, wordt in mindering gebracht een uitkering op grond van artikel 35 van de ZW of op grond van artikel 74 van de WIA en naar aard en strekking daarmee overeenkomende uitkeringen.  
 
-###Artikel 46a 
+### Artikel  46a  
 
-Na het overlijden van de gewezen ambtenaar, die op de dag van zijn overlijden op grond van artikel 39 in het genot was van doorbetaling van zijn laatstelijk genoten bezoldiging, wordt aan de in artikel 46 bedoelde personen en met overeenkomstige toepassing van dat artikel een bedrag uitgekeerd, gelijk aan de bezoldiging welke de gewezen ambtenaar op de dag van zijn overlijden genoot, berekend over een tijdvak van drie maanden. Op deze uitkering worden in mindering gebracht het bedrag van de uitkering op grond van artikel 35 van de Ziektewet of op grond van artikel 53 van de Wet op de arbeidsongeschiktheidsverzekering en naar aard en strekking daarmee overeenkomende uitkeringen.
+Na het overlijden van de gewezen ambtenaar, die op de dag van zijn overlijden op grond van artikel 39 in het genot was van doorbetaling van zijn laatstelijk genoten bezoldiging, wordt aan de in artikel 46 bedoelde personen en met overeenkomstige toepassing van dat artikel een bedrag uitgekeerd, gelijk aan de bezoldiging welke de gewezen ambtenaar op de dag van zijn overlijden genoot, berekend over een tijdvak van drie maanden. Op deze uitkering worden in mindering gebracht het bedrag van de uitkering op grond van artikel 35 van de ZW of op grond van artikel 74 van de WIA en naar aard en strekking daarmee overeenkomende uitkeringen. 
 
 ###Artikel 46b 
 
@@ -1083,6 +1092,11 @@ De regels gesteld op grond van artikel 6, tweede lid, tweede volzin, zoals die l
 1.  Een ambtenaar die op grond van afdeling 1, hoofdstuk 2, artikel 1, van de Invoeringswet Politiewet 1993 naar een politieregio dan wel het Korps landelijke politiediensten is overgegaan en die op de dag voorafgaande aan de datum van inwerkingtreding van de Politiewet 1993 aanspraken had op grond van het Bezoldigingsreglement politie 1958 en op grond van artikel VII van het Besluit van 24 juni 1992, houdende wijziging van het Ambtenarenreglement voor de rijkspolitie 1975, het Ambtenarenreglement voor de gemeentepolitie 1958, het Bezoldigingsreglement politie 1958, het Besluit geneeskundige verzorging politie 1984 en het Besluit overleg en medezeggenschap politie in verband met het tot stand brengen van een eenvormige rechtspositie voor alle politieambtenaren behoudt deze aanspraken.    
 2.   Een ambtenaar, werkzaam bij het LSOP, die op de dag voorafgaande aan de datum van inwerkingtreding van de LSOP-wet aanspraken had op grond van het Bezoldigingsbesluit LSOP, behoudt deze aanspraken.    
 3.   Indien aan een ambtenaar, werkzaam bij het LSOP, op de dag voorafgaande aan de datum van inwerkingtreding van de LSOP-wet een salaris was toegekend dat voorkwam in één van de salarisschalen opgenomen in een van de bijlagen van het Bezoldigingsbesluit LSOP, vindt inschaling plaats in een salarisschaal van bijlage 1 van dit besluit waarvan het maximumsalaris gelijk is aan dan wel gelegen is onmiddellijk onder het maximumsalaris van de salarisschaal volgens welke de ambtenaar werd bezoldigd voor de inwerkingtreding van de LSOP-wet.  Het salaris dat aan de ambtenaar wordt toegekend is gelijk aan dan wel gelegen onmiddellijk onder het salaris dat hem was toegekend voor de inwerkingtreding van de LSOP-wet. Indien aan de ambtenaar een salaris wordt toegekend dat is gelegen onmiddellijk onder het salaris dat hij ontving voor de inwerkingtreding van de LSOP-wet, heeft hij tot het moment dat hij in een hogere salarisschaal wordt geplaatst, aanspraak op het verschil tussen bedoelde salarissen.   
+
+###Artikel 49a 
+
+1.  Op de ambtenaar die recht heeft op een arbeidsongeschiktheidsuitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering, blijven de bepalingen uit het Besluit bezoldiging politie waarin sprake is van de Wet op de arbeidsongeschiktheidsverzekering van toepassing, zoals deze luidden op 28 december 2005.   
+2.  Op de ambtenaar die op 31 december 2006 recht had op een herplaatsingstoelage of een invaliditeitspensioen, blijven de bepalingen uit het Besluit bezoldiging politie waarin sprake is van de herplaatsingstoelage of het invaliditeitspensioen van toepassing, zoals deze luidden op 31 december 2006. 
 
 ### Artikel  49b  
 

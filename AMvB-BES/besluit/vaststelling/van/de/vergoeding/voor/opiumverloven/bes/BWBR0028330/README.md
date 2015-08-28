@@ -4,7 +4,7 @@
 
 ### Artikel  1  
 
-Terzake van de vergoedingen, bedoeld in de [artikelen 6 lid 2](../../../../../../../../../../wet-BES/opiumwet/1960/bes/BWBR0028519/README.md) en [7 lid 1 tweede alinea van de Opiumwet 1960 Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/opiumwet/1960/bes/BWBR0028519/README.md) worden de navolgende regelen vastgesteld: 
+Terzake van de vergoedingen, bedoeld in de artikelen 6 lid 2 en 7 lid 1 tweede alinea van de Opiumwet 1960 Bonaire, Sint Eustatius en Saba worden de navolgende regelen vastgesteld: 
 
 I. De verschuldigde vergoeding voor een verlof voor het vervaardigen van verdovende middelen waaronder begrepen de handelingen, bedoeld onder II en III, bedraagt voor elk kalenderjaar of gedeelte daarvan USD 56,–.  
 

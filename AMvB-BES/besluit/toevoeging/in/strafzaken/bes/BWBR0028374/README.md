@@ -12,7 +12,7 @@
 
 *de Commissie:* de Commissie, bedoeld in artikel 2, eerste lid;  
 
-*on- of minvermogende:* degene wiens inkomen gelijk is aan of minder bedraagt dan het voor de sectoren, bedoeld in [artikel 9, eerste lid, van de Wet minimumlonen BES](../../../../../../../wet-BES/wet/minimumlonen/bes/BWBR0028170/README.md) vastgestelde minimumloon;  
+*on- of minvermogende:* degene wiens inkomen gelijk is aan of minder bedraagt dan het voor de sectoren, bedoeld in artikel 9, eerste lid, van de Wet minimumlonen BES vastgestelde minimumloon;  
 
 *het wetboek:* het Wetboek van Strafvordering BES;  
 
@@ -125,7 +125,7 @@ d. in geval van aantekening van hoger beroep, door de griffier van het Gerecht i
 
 e. in geval van een vordering tot of verzoek om herziening van een vonnis, door de griffier van het Gemeenschappelijke Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.     
 2.  De Commissie voegt op verzoek van de verdachte een advocaat toe aan de on- of minvermogende tegen wie een vervolging wegens een misdrijf is aangevangen, zonder dat een bevel tot inverzekeringstelling is verleend.   
-3.  Het verzoek om een toevoeging, bedoeld in het tweede lid, moet worden gericht tot de Commissie en dient vergezeld te gaan van een kaart als bedoeld in [artikel 2 van de Wet kosteloze rechtskundige bijstand BES](../../../../../../../wet-BES/wet/kosteloze/rechtskundige/bijstand/bes/BWBR0028200/README.md), die is verstrekt uiterlijk drie maanden voor de indiening van het verzoek.  
+3.  Het verzoek om een toevoeging, bedoeld in het tweede lid, moet worden gericht tot de Commissie en dient vergezeld te gaan van een kaart als bedoeld in artikel 2 van de Wet kosteloze rechtskundige bijstand BES, die is verstrekt uiterlijk drie maanden voor de indiening van het verzoek.  
 
 ### Artikel  14  
 
@@ -133,7 +133,7 @@ De artikelen 8, derde lid, en 11, eerste lid, zijn op de toevoeging krachtens ar
 
 ### Artikel  15  
 
-1.  De toevoeging, met uitzondering van de toevoeging ingevolge artikel 62 van het wetboek, wordt beëindigd, indien de kaart, bedoeld in [artikel 2, eerste lid, van de Wet kosteloze rechtskundige bijstand BES](../../../../../../../wet-BES/wet/kosteloze/rechtskundige/bijstand/bes/BWBR0028200/README.md), wordt ingetrokken.   
+1.  De toevoeging, met uitzondering van de toevoeging ingevolge artikel 62 van het wetboek, wordt beëindigd, indien de kaart, bedoeld in artikel 2, eerste lid, van de Wet kosteloze rechtskundige bijstand BES, wordt ingetrokken.   
 2.  De beëindiging geschiedt door schriftelijke mededeling daarvan aan de betrokkene onder opgave van redenen. Gelijke mededeling geschiedt aan de advocaat.  
 
 ### Artikel  16  

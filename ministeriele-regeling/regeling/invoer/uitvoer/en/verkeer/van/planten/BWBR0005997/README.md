@@ -49,9 +49,7 @@ b. voor zover genoemd in bijlage II, deel A, bij richtlijn 2000/29/EG vrij zijn 
 
 c. vrij zijn van schadelijke organismen, voor zover deze een acuut gevaar voor planten of plantaardige produkten opleveren;  
 
-d. voldoen aan de bijzondere eisen, genoemd in bijlage IV, deel A, rubriek II, bij richtlijn 2000/29/EG, die daarbij in dat deel van die bijlage worden genoemd.  
-
-e.voorzover het planten van het geslacht Brugmansia Pers. spp. en de soort Solanum jasminoides Paxton, bestemd voor opplant, met inbegrip van zaad, met uitzondering van kleine hoeveelheden planten voor gebruik door de eigenaar of ontvanger voor niet-commerciële doeleinden mits er geen risico van verspreiding van het schadelijk organisme bestaat, betreft, voldoen aan de bijzondere eisen, bedoeld in punt 2 van de bijlage bij beschikking nr. 2007/410/EG van de Commissie van 12 juni 2007 tot vaststelling van maatregelen om het binnenbrengen en de verspreiding in de Gemeenschap van potato spindle tuber viroid te voorkomen (PbEG L 155). Artikel 6 is van overeenkomstige toepassing.   
+d. voldoen aan de bijzondere eisen, genoemd in bijlage IV, deel A, rubriek II, bij richtlijn 2000/29/EG, die daarbij in dat deel van die bijlage worden genoemd.     
 2.  Op planten, plantaardige producten of andere materialen, genoemd in bijlage V, deel A, bij richtlijn nr. 2000/29/EG, en zaad, genoemd in bijlage IV bij richtlijn nr. 2000/29/EG dan wel op de verpakkingen waarin of de vervoermiddelen waarmee zij worden vervoerd, die beroepshalve in het verkeer worden gebracht, het plaatselijk verkeer uitgezonderd, is een plantenpaspoort aangebracht.   
 3.  Onder plaatselijk verkeer als bedoeld in het tweede lid wordt verstaan het verkeer door degene, die niet uit hoofde van zijn beroep of bedrijf bij de produktie van planten is betrokken, van hout van Castanea Mill en hout, ook wanneer het hout zijn natuurlijke ronde oppervlak niet heeft behouden, van Platanus L naar de eindverbruiker, die uit hoofde van zijn beroep of bedrijf evenmin bij de produktie van planten is betrokken.  
 
@@ -208,17 +206,6 @@ b. bij binnenkomst in de Europese Unie overeenkomstig artikel 13, eerste lid, on
 10.  Gevoelige schors van oorsprong uit de Verenigde Staten van Amerika wordt niet op het grondgebied van de Unie toegelaten.   
 11.   Voor opplant bestemde planten van Viburnum spp., Camellia spp. en Rhododendron spp., andere dan Rhododendron simsii Planch, met uitzondering van zaden, van oorsprong uit de Unie, worden niet in het verkeer gebracht, tenzij zij voldoen aan de voorwaarden van punt 3 van bijlage I bij beschikking nr. 2002/757/EG. De producenten van deze planten worden geregistreerd overeenkomstig § 4.  
 
-###Artikel 12h 
-
-1. Onverminderd artikel 1 wordt voor de toepassing van dit artikel verstaan onder: 
-
-a. schadelijk organisme: Potato spindle tuber viroid;  
-
-b. gevoelige planten: planten van het geslacht Brugmansia Pers. spp. en de soort Solanum jasminoides Paxton, bestemd voor opplant, met inbegrip van zaad, en  
-
-c. beschikking nr. 2007/410/EG: beschikking nr. 2007/410/EG van de Commissie van de Europese Gemeenschappen van 12 juni 2007 tot vaststelling van maatregelen om het binnenbrengen en de verspreiding in de Gemeenschap van potato spindle tuber viroid te voorkomen (PbEG L 155).   
-2. Gevoelige planten worden slechts op het grondgebied van de Gemeenschap binnengebracht indien zij voldoen aan punt 1 van de bijlage bij beschikking nr. 2007/410/EG, en indien zij bij binnenkomst in de Gemeenschap overeenkomstig artikel 12 zijn onderzocht op het schadelijke organisme en daarvan vrij worden bevonden. 
-
 ### Artikel  12i  
 
 1.  Onverminderd artikel 1 wordt onder toepassing van dit artikel verstaan onder: 
@@ -241,6 +228,36 @@ a. zij voldoen aan de specifieke invoervoorschriften van bijlage I, onderdeel 1,
 b. zij, onverminderd artikel 12, bij binnenkomst in de Gemeenschap overeenkomstig bijlage I, onderdeel 1, onder B, sub 2 bij uitvoeringsbesluit nr. 2012/138/EU worden geïnspecteerd op de aanwezigheid van het schadelijke organisme en geen tekenen van aanwezigheid van dat schadelijke organisme zijn gevonden, en  
 
 c. zij voldoen aan artikel 3, eerste lid, onderdeel c, van uitvoeringsbesluit nr. 2012/138/EU.   
+
+### Artikel  12j  
+
+1.  Onverminderd artikel 1 wordt voor de toepassing van dit artikel verstaan onder: 
+
+a. het schadelijke organisme: Anoplophora glabripennis (Motschulsky);  
+
+b. gevoelige planten: voor opplant bestemde planten met een stamdiameter van tenminste 1 centimeter op het dikste punt, met uitzondering van zaden, van Acer spp., Aesculus spp., Alnus spp., Betula spp., Carpinus spp., Cercidiphyllum spp., Corylus spp., Fagus spp., Fraxinus spp., Koelreuteria spp., Platanus spp., Populus spp., Salix spp. Tilia spp. en Ulmus spp.;  
+
+c. uitvoeringsbesluit nr. 2015/893/EU: uitvoeringsbesluit nr. 2015/893/EU van de Commissie van 9 juni 2015 betreffende maatregelen om het binnenbrengen en de verspreiding in de Unie van Anoplophora glabripennis (Motschulsky) te voorkomen (PbEU 2015, L 146);  
+
+d. houten verpakkingsmateriaal: verpakkingsmateriaal, geheel of deels verkregen van de gevoelige planten;  
+
+e. hout: hout, geheel of deels verkregen van de gevoelige planten, dat voldoet aan artikel 1, onder b, van uitvoeringsbesluit nr. 2015/893/EU.     
+2.  Gevoelige planten afkomstig uit derde landen waarvan bekend is dat het schadelijke organisme er voorkomt, mogen slechts in de Europese Unie worden binnengebracht als: 
+
+a. zij voldoen aan de specifieke invoervoorschriften van bijlage II, rubriek 1, punt A, onder 1, bij uitvoeringsbesluit nr. 2015/893/EU, en  
+
+b. zij, onverminderd artikel 12, bij binnenkomst in de Europese Unie overeenkomstig bijlage II, rubriek 1, punt A, onder 2, bij uitvoeringsbesluit nr. 2015/893/EU worden geïnspecteerd op de aanwezigheid van het schadelijke organisme en geen tekenen van aanwezigheid van dat schadelijke organisme zijn gevonden.     
+3.  Hout afkomstig uit derde landen waarvan bekend is dat het schadelijke organisme er voorkomt, mag slechts in de Europese Unie worden binnengebracht als: 
+
+a. zij voldoet aan de specifieke invoervoorschriften van bijlage II, rubriek 1, punt B, onder 1 en 2, bij uitvoeringsbesluit nr. 2015/893/EU; en  
+
+b. zij, onverminderd artikel 12, bij binnenkomst in de Europese Unie overeenkomstig bijlage II, rubriek 1, punt B, onder 3, bij uitvoeringsbesluit nr. 2015/893/EU wordt geïnspecteerd op de aanwezigheid van het schadelijke organisme en geen tekenen van aanwezigheid van dat schadelijke organisme zijn gevonden.     
+4.  Gevoelige planten, van oorsprong afkomstig uit een overeenkomstig artikel 7 van uitvoeringsbesluit nr. 2015/893/EU afgebakend gebied, mogen slechts worden vervoerd als zij voldoen aan de voorwaarden van bijlage II, rubriek 2, punt A, onder 1, bij uitvoeringsbesluit nr. 2015/893/EU.   
+5.  Gevoelige planten die in een overeenkomstig artikel 7 van uitvoeringsbesluit nr. 2015/893/EU afgebakend gebied zijn binnengebracht, mogen slechts worden vervoerd als zij voldoen aan de voorwaarden van bijlage II, rubriek 2, punt A, onder 2, bij uitvoeringsbesluit nr. 2015/893/EU.   
+6.  Gevoelige planten afkomstig uit derde landen waarvan bekend is dat het schadelijke organisme er voorkomt, mogen slechts binnen de Europese Unie worden vervoerd als zij voldoen aan de voorwaarden van bijlage II, rubriek 2, punt A, onder 3, bij uitvoeringsbesluit nr. 2015/893/EU.   
+7.  Hout, van oorsprong afkomstig uit een overeenkomstig artikel 7 van uitvoeringsbesluit nr. 2015/893/EU afgebakend gebied, mag slechts worden vervoerd als het voldoet aan de voorwaarden van bijlage II, rubriek 2, punt B, onder 1 tot en met 3, bij uitvoeringsbesluit nr. 2015/893/EU.   
+8.  Hout dat zijn natuurlijke ronde oppervlak geheel of gedeeltelijk heeft behouden en dat in een overeenkomstig artikel 7 van uitvoeringsbesluit nr. 2015/893/EU afgebakend gebied is binnengebracht, mag slechts worden vervoerd als zij voldoet aan de voorwaarden van bijlage II, rubriek 2, punt B, onder 1 en 3, bij uitvoeringsbesluit nr. 2015/893/EU.   
+9.  Houten verpakkingsmateriaal, van oorsprong afkomstig uit een overeenkomstig artikel 7 van uitvoeringsbesluit nr. 2015/893/EU afgebakend gebied, mag slechts worden vervoerd als het voldoet aan de voorwaarden van bijlage II, rubriek 2, punt C, bij uitvoeringsbesluit nr. 2015/893/EU.  
 
 ### Artikel  12k  
 

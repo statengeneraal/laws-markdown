@@ -428,6 +428,170 @@ Aan de subsidieontvanger wordt de volgende verplichtingen opgelegd:
 
 De artikelen 15 tot en met 18 van zijn van overeenkomstige toepassing. 
 
+### Hoofdstuk  2b  
+
+####Subsidie voor het aantrekken van studenten in het lerarenberoep
+
+Treedt in werking per 01-09-2015 
+
+### Artikel  19n  
+
+####Begripsbepalingen
+
+Treedt in werking per 01-09-2015 
+
+Aanvullend op de begripsbepalingen van artikel 1 wordt in dit hoofdstuk verstaan onder: 
+
+a. student: degene die is ingeschreven voor een opleiding in het hoger onderwijs als bedoeld in artikel 1.1 onderdeel 1 van de Wet studiefinanciering 2000;  
+
+b. voltijdse opleiding: opleiding in de zin van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, met uitzondering van deeltijds onderwijs, als bedoeld in artikel 1.1 onderdeel 1 van de Wet Studiefinanciering 2000;  
+
+c. master: masteropleiding als bedoeld in artikel 7.4a, derde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
+
+d. academische pabo: een combinatie van een opleiding leraar basisonderwijs en een opleiding pedagogische wetenschappen, dan wel onderwijskunde, resulterend in een hbo-bachelordiploma met mogelijk aanvullend een wo-bachelordiploma;   
+
+### Artikel  19o  
+
+####Reikwijdte
+
+Treedt in werking per 01-09-2015 
+
+Dit hoofdstuk is uitsluitend van toepassing op: 
+
+1. studenten die ingeschreven staan aan één van de volgende masteropleidingen: 
+
+a. special educational needs;  
+
+b. leren en innoveren;  
+
+c. pedagogiek (hbo), of pedagogische wetenschappen (wo);  
+
+d. onderwijskunde;    
+
+2. studenten die een één of tweejarige educatieve master aan een universitaire lerarenopleiding volgen in een tekortvak, te weten: 
+
+e. Nederlands;  
+
+f. Frans;  
+
+g. Duits;  
+
+h. Engels;  
+
+i. Grieks;  
+
+j. Latijn;  
+
+k. Natuurkunde;  
+
+l. Wiskunde; of  
+
+m. Scheikunde.     
+
+### Artikel  19p  
+
+####Te subsidiëren activiteiten
+
+Treedt in werking per 01-09-2015 
+
+De subsidie kan eenmalig worden verstrekt aan een student die staat ingeschreven aan een voltijd masteropleiding als bedoeld in artikel 19o, onderdelen a en c tot en met m, en de masteropleiding als bedoeld in artikel 19o, lid 1 onderdeel b die in deeltijd te volgen is. 
+
+### Artikel  19q  
+
+####Eisen aan de student
+
+Treedt in werking per 01-09-2015 
+
+1.  De subsidie wordt uitsluitend verstrekt aan de student die: 
+
+a. is ingeschreven aan een masteropleiding als bedoeld in artikel 19o, onderdelen a, b, c en d, en niet eerder dan ten hoogste twee jaar voor aanvang van het studiejaar het examen van een (academische) pabo met goed gevolg heeft afgelegd.  
+
+b. is ingeschreven aan een masteropleiding als bedoeld in artikel 19o, onderdelen e, f, g, h, i, j, k, l en m, en niet eerder dan ten hoogste twee jaar voor aanvang van het studiejaar het examen van een masteropleiding aan een universiteit met goed gevolg heeft afgelegd.  
+
+c. is ingeschreven aan een masteropleiding als bedoeld in artikel 19o, en niet eerder dan ten hoogste twee jaar voor aanvang van het studiejaar een deficiëntieopleiding voorbereidend op een van de in artikel 19o genoemde masteropleidingen met goed gevolg heeft afgelegd.     
+2.  Een student die is ingeschreven aan een masteropleiding als bedoeld in artikel 19o, onderdelen a, b, c of d, levert bij aanvang van het studiejaar waarvoor de subsidie bestemd is een stage- dan wel onderzoekovereenkomst met een school (of schoolbestuur) voor primair of voortgezet onderwijs aan ter aanvulling van de aanvraag.  
+
+### Artikel  19r  
+
+####Subsidieplafond
+
+Treedt in werking per 01-09-2015 
+
+Voor subsidieverlening op grond van dit hoofdstuk is voor de jaren 2015, 2016 en 2017 een bedrag van € 1 miljoen per jaar voor studenten die een masteropleiding doen als bedoeld in artikel 19o, onderdelen a, b, c of d en in dat kader een stage- of onderzoeksopdracht uitvoeren op een po of vo school (bestuur). Voor de jaren 2015-2018 een bedrag van € 3 miljoen per jaar voor studenten die een masteropleiding volgen als bedoeld in artikel 19o, onderdelen e, f, g, h, i, j, k, l of m en in dat kader een stage- of onderzoeksopdracht hebben op een vo-school. 
+
+### Artikel  19s  
+
+####Subsidiebedrag
+
+Treedt in werking per 01-09-2015 
+
+De subsidie bedraagt: 
+
+a. € 3000 voor studenten ingeschreven aan een masteropleiding als bedoeld in artikel 19o, onderdelen a, b, c of d;  
+
+b. € 3000 voor studenten ingeschreven aan een masteropleiding als bedoeld in artikel 19o, onderdelen e, f, g, h, i of j;  
+
+c. € 5000 voor studenten ingeschreven aan een masteropleiding als bedoeld in artikel 19o, onderdelen k, l of m.   
+
+### Artikel  19t  
+
+####Vereisten subsidieaanvraag
+
+Treedt in werking per 01-09-2015 
+
+De aanvraag voor de subsidie geschiedt overeenkomstig het aanvraagformulier dat via de website van DUO beschikbaar wordt gesteld. 
+
+### Artikel  19u  
+
+####Termijn indiening aanvraag
+
+Treedt in werking per 01-09-2015 
+
+1.  Subsidie kan voor studiejaar 2015–2016 aangevraagd worden tot en met 31 oktober 2015.   
+2.  Subsidie kan voor de studiejaren 2016–2017, 2017-2018 en 2018–2019 aangevraagd worden van 1 april tot en met 31 oktober van het jaar waarin het studiejaar aanvangt.   
+3.  In afwijking van het eerste en tweede lid, kan subsidie voor de opleidingen bedoeld in artikel 19o, onderdelen e tot en met m, tevens aangevraagd worden in de periode december tot en met februari van het lopende studiejaar met uitzondering van studiejaar 2018–2019.   
+4.  In afwijking van het tweede lid, kan subsidie voor de opleidingen bedoeld in artikel 19o, onderdelen a tot en met b, niet aangevraagd worden voor studiejaar 2018–2019.  
+
+### Artikel  19v  
+
+####Weigeringsgronden
+
+Treedt in werking per 01-09-2015 
+
+In afwijking van artikel 11 kan de subsidieverlening aan de student niet worden geweigerd indien de subsidieaanvrager uit andere hoofde van de minister een tegemoetkoming in de studiekosten heeft ontvangen voor het volgen van de opleiding. Een uitzondering hierop zijn de regelingen Vierslagleren, Eerst de Klas en de Onderwijstraineeships. Voor studenten die daar nog voor in aanmerking komen blijft de Wet studiefinanciering 2000 wel van toepassing op de subsidieontvanger. 
+
+### Artikel  19w  
+
+####Termijn beslissing
+
+Treedt in werking per 01-09-2015 
+
+De minister besluit binnen 8 weken na ontvangst van de volledig ingevulde aanvraag, bedoeld in artikel 19u. 
+
+### Artikel  19x  
+
+####Wijze van verdeling beschikbare middelen
+
+Treedt in werking per 01-09-2015 
+
+De minister verdeelt het beschikbare bedrag in de volgorde van ontvangst van de aanvragen, met dien verstande dat wanneer de aanvrager krachtens artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld, met betrekking tot de verdeling, als datum van ontvangst geldt. 
+
+### Artikel  19y  
+
+####Subsidieverplichting student
+
+Treedt in werking per 01-09-2015 
+
+De subsidieontvanger behaalt binnen ten hoogste een half jaar na het studiejaar als bedoeld in artikel 1, onderdeel q, voor de betreffende masteropleiding, het diploma van die opleiding. 
+
+### Artikel  19z  
+
+####Toepassing artikelen hoofdstuk 2 
+
+Treedt in werking per 01-09-2015 
+
+De artikelen 15 tot en met 18 zijn van overeenkomstige toepassing op de student, bedoeld in dit hoofdstuk, met dien verstande dat in artikel 17 voor ‘22 weken na afloop van het studiejaar’ wordt gelezen: ‘22 weken na afloop van het studiejaar met inbegrepen uitloop van maximaal 0,5 jaar, dus in totaal 1,5 jaar.’ wordt bedoeld. 
+
 ### Hoofdstuk  3  
 
 ####Zij-instroom

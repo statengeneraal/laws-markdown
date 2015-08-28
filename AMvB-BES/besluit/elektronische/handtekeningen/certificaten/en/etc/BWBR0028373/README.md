@@ -106,7 +106,7 @@ n. zij maken gebruik van betrouwbare systemen voor de opslag van certificaten in
 
 ### Artikel  5a  
 
-Dit besluit berust op [artikel 7, derde lid, Wet overeenkomsten langs elektronische weg BES](../../../../../../../../wet-BES/wet/overeenkomsten/langs/elektronische/weg/bes/BWBR0028237/README.md). 
+Dit besluit berust op artikel 7, derde lid, Wet overeenkomsten langs elektronische weg BES. 
 
 ### §  3  
 

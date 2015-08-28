@@ -3,12 +3,12 @@
 ##Besluit vaststelling wachtgeldpremies 2003
 
 Het Uitvoeringsinstituut Werknemersverzekeringen, UWV,
-Gelet op [artikel 85, eerste lid, van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);
+Gelet op artikel 85, eerste lid, van de Werkloosheidswet;
 Besluit: 
 
 ###Artikel 1 
 
-De premies die ten gunste komen van de wachtgeldfondsen, bedoeld in [artikel 85, eerste lid, van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), worden voor het jaar 2003 vastgesteld op de percentages, bedoeld in bijlage 1 bij dit besluit. 
+De premies die ten gunste komen van de wachtgeldfondsen, bedoeld in artikel 85, eerste lid, van de Werkloosheidswet, worden voor het jaar 2003 vastgesteld op de percentages, bedoeld in bijlage 1 bij dit besluit. 
 
 ###Artikel 2 
 

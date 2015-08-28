@@ -152,7 +152,7 @@ Ten aanzien van inbeslaggenomen levende dieren overlegt de bewaarder zo spoedig 
 
 ### Artikel  18  
 
-De voorwerpen die voor het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md), in bewaring zijn gegeven bij de vervanger van de bewaarder op de eilanden Bonaire, Sint Eustatius en Saba, worden op het moment van transitie geacht in bewaring te zijn gegeven bij de griffier van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba. 
+De voorwerpen die voor het tijdstip van transitie, bedoeld in artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba, in bewaring zijn gegeven bij de vervanger van de bewaarder op de eilanden Bonaire, Sint Eustatius en Saba, worden op het moment van transitie geacht in bewaring te zijn gegeven bij de griffier van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  19  
 
