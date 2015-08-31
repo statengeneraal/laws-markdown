@@ -6,13 +6,13 @@ De Nederlandsche Bank N.V.,
 
 Na overleg met de representatieve organisaties;
 
-Gelet op de [Wet op het financieel toezicht](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en het [Besluit prudentiële regels Wft](../../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md);
+Gelet op de Wet op het financieel toezicht en het Besluit prudentiële regels Wft;
 
 Gelet op Richtlijn nr. 2013/36/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende toegang tot het bedrijf van kredietinstellingen en het prudentieel toezicht op kredietinstellingen en beleggingsondernemingen, tot wijziging van richtlijn nr. 2002/87/EG en tot intrekking van de richtlijnen nr. 2006/48/EG en nr. 2006/49/EG (CRD IV; PbEU L 176), in het bijzonder de artikelen 128 en 141;
 
 Gelet op Verordening (EU) nr. 575/2013 van het Europees Parlement en de Raad van 26 juni 2013 betreffende prudentiële vereisten voor kredietinstellingen en beleggingsondernemingen en tot wijziging van Verordening (EU) nr. 648/2012 (CRR; PbEU L 176), in het bijzonder de artikelen 26, 52, 63, 89, 115, 116, 148, 311, 400, 465, 467, 468, 473, 478, 479, 480, 481, 486 en 496;
 
-Gelet op [artikel 2 van het Besluit uitvoering EU-verordeningen financiële markten](../../../../../../../../../AMvB/besluit/uitvoering/eu-verordeningen/financiële/markten/BWBR0032230/README.md);
+Gelet op artikel 2 van het Besluit uitvoering EU-verordeningen financiële markten;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -24,9 +24,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a.  *Wft:* [Wet op het financieel toezicht](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+a.  *Wft:* Wet op het financieel toezicht;  
 
-b.  *Besluit:* [Besluit prudentiële regels Wft](../../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md);  
+b.  *Besluit:* Besluit prudentiële regels Wft;  
 
 c.  *DNB:* de Nederlandsche Bank N.V.;  
 
@@ -46,7 +46,7 @@ j.  *EBA:* de Europese Bankenautoriteit (European Banking Authority);
 
 k.  *technische reguleringsnormen of technische uitvoeringsnormen van de EBA:* door de EBA ontwikkelde ontwerpen van technische reguleringsnormen (draft regulatory technical standards) of ontwerpen van technische uitvoeringsnormen (draft implementing technical standards), die door de Europese Commissie zijn bevestigd;  
 
-l.  *kredietinstelling:* een kredietinstelling als bedoeld in artikel 4 van de CRR, dat wil zeggen een bank als bedoeld in [artikel 1:1 van de Wft](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).;  
+l.  *kredietinstelling:* een kredietinstelling als bedoeld in artikel 4 van de CRR, dat wil zeggen een bank als bedoeld in artikel 1:1 van de Wft.;  
 
 m.  *instelling:* een instelling of een onderneming waarop deze regeling op grond van artikel 1:3 van toepassing is.   
 
@@ -71,38 +71,6 @@ c. beleggingsondernemingen met zetel in Nederland; en
 d. beleggingsondernemingen met zetel in een staat die geen lidstaat is en die in Nederland beleggingsdiensten verlenen of beleggingsactiviteiten verrichten.     
 2.  Deze regeling is van overeenkomstige toepassing op clearinginstellingen met zetel in Nederland en op clearinginstellingen met zetel in een niet-aangewezen staat die hun bedrijf uitoefenen vanuit in Nederland gelegen bijkantoren, tenzij de aard van een bepaling of de systematiek van deze regeling deze overeenkomstige toepassing uitsluit.  
 
-### Artikel  1:4  
-
-####– toetsing AT1 en T2 instrumenten door DNB
-
-1.  Ter voldoening van de eigenvermogensvereisten als bedoeld in artikel 92, eerste lid, van de CRR kunnen aanvullend-tier 1-instrumenten (AT1 instrumenten) als bedoeld in artikel 52 van de CRR en tier-2 instrumenten (T2 instrumenten) als bedoeld in artikel 63 van de CRR, uitsluitend in aanmerking worden genomen als AT1 kapitaal onderscheidenlijk als T2 kapitaal, indien de voorgenomen emissie van deze instrumenten vooraf en tijdig aan DNB ter toetsing wordt voorgelegd, onder overlegging van alle benodigde informatie, bedoeld in het vierde lid, uit welke informatie blijkt dat is voldaan aan alle vereisten van artikel 52 van de CRR onderscheidenlijk artikel 63 van de CRR, alsmede dat is voldaan aan de relevante technische reguleringsnormen van de EBA.   
-2.  Het in aanmerking nemen van de AT1 instrumenten als bedoeld in artikel 52 van de CRR en van T2 instrumenten als bedoeld in artikel 63 van de CRR is uitsluitend mogelijk vanaf het moment dat DNB schriftelijk heeft bevestigd dat aan alle vereisten zoals opgenomen in de CRR en de relevante technische reguleringsnormen van de EBA is voldaan.   
-3.  DNB beslist op een aanvraag tot het in aanmerking nemen van AT1 instrumenten als bedoeld in artikel 52 van de CRR of van T2 instrumenten als bedoeld in artikel 63 van de CRR uiterlijk acht weken nadat de instelling alle informatie als bedoeld in het vierde lid aan DNB heeft verstrekt.   
-4.  De instelling die AT1 instrumenten of T2 instrumenten ter toetsing voorlegt aan DNB, verstrekt in ieder geval de volgende documentatie: 
-
-a. een onderbouwde en ondertekende aanvraag voor de toetsing van het instrument;  
-
-b. een prospectus en term-sheet welke een beschrijving van de karakteristieken van het instrument bevatten;  
-
-c. een analyse waaruit blijkt dat het instrument voldoet aan de vereisten zoals opgenomen in deel 2 van de CRR en de relevante technische reguleringsnormen van de EBA, waarbij per clausule in het prospectus en de term-sheet dan wel de leningovereenkomst wordt geduid op welk criterium uit de CRR deze bepaling betrekking heeft en hoe hiermee voldaan wordt aan het relevante criterium uit de CRR;  
-
-d. een beschrijving waaruit blijkt dat het instrument past in de planning van het kapitaalmanagement van de instelling;  
-
-e. indien de emissie samenhangt met een terugkoop of vervanging van een instrument, ten minste: een term-sheet van het oorspronkelijke instrument en de tekst met voorwaarden van het te vervangen of terug te kopen instrument, inclusief een beschrijving van doel en beoogde wijze waarop de terugkoop of vervanging van het instrument zal geschieden;  
-
-f. indien de initiële rente of couponrente te betalen op het instrument periodiek aangepast wordt of kan worden of de basis van de rentevoet op een vooraf bepaald tijdstip in de toekomst van vast naar variabel verandert, ten minste: een beschrijving, waar mogelijk aangevuld met berekeningen, waaruit blijkt dat geen aflossingsprikkel ontstaat bij de aanpassing van de rentevoet;  
-
-g. een beschrijving van de behandeling van het instrument in de financiële verslaggeving van de instelling welke het instrument uit geeft en de wijze waarop de in financiële verslaggeving van de instelling de informatie over het instrument openbaar gemaakt zal worden; en  
-
-h. indien in het prospectus of het term-sheet, bedoeld onder b, wordt aangegeven dat gebruik wordt gemaakt van een special purpose entity, als omschreven in artikel 83 van de CRR, ten minste: 
-
-– een beschrijving van de juridische structuur van de special purpose entity;  
-
-– het intragroepsinstrument; en  
-
-– een met redenen omklede beschrijving van de verschillen tussen het intragroepsinstrument en het externe instrument.       
-5.  Waar dat nodig is voor een adequate beoordeling van een aanvraag als bedoeld in het eerste lid, kan DNB in aanvulling op het vierde lid aanvullende informatie opvragen bij de instelling.  
-
 ### Artikel  1:5  
 
 ####– toetsing CET1 instrumenten door DNB
@@ -114,13 +82,13 @@ a. een onderbouwde en ondertekende aanvraag tot goedkeuring van het desbetreffen
 b. voor zover van toepassing: het prospectus; en  
 
 c. overige gegevens of bescheiden die relevant zijn voor de in de aanhef bedoelde beoordeling door DNB.     
-2.  Onverminderd het eerste lid, kan DNB de instelling verzoeken nadere gegevens of bescheiden te verstrekken die DNB met het oog op de in het eerste lid bedoelde toetsing nodig acht. Artikel 1:4, derde en vijfde lid, is van overeenkomstige toepassing.  
+2.  Onverminderd het eerste lid, kan DNB de instelling verzoeken nadere gegevens of bescheiden te verstrekken die DNB met het oog op de in het eerste lid bedoelde toetsing nodig acht.  
 
 ### Artikel  1:6  
 
 ####– melding van gebruik opties en discreties door instellingen
 
-1.  Telkens waar de CRR de toestemming van de bevoegde autoriteit voorschrijft voor het uitoefenen van een optie of discretie door de instelling, vraagt de instelling deze toestemming aan DNB.   
+1.  Telkens waar de CRR de toestemming van de bevoegde autoriteit voorschrijft voor het uitoefenen van een optie of discretie door de instelling, dient de instelling een aanvraag tot instemming in bij DNB.   
 2.  Instellingen melden hun keuze voor een optie of discretie uit de CRR waarvoor geen toestemming van DNB is vereist aan DNB. Indien van toepassing geven instellingen bij deze melding aan dat is voldaan aan de toepasselijke voorwaarden van de CRR voor het toepassen van de betreffende optie of discretie, alsmede aan de relevante technische reguleringsnormen of technische uitvoeringsnormen van de EBA. Deze melding vindt in ieder geval plaats indien het een optie of discretie betreft uit de volgende artikelen van de CRR: artikel 33 derde lid, artikel 42 onderdeel a, artikel 45 onderdeel a, artikel 57 onderdeel a, artikel 67 onderdeel c, artikel 69 onderdeel a, artikel 90, artikel 94 eerste lid, artikel 102 vierde lid, artikel 111 tweede en derde lid, artikel 125 derde lid, artikel 126 derde lid, artikel 132 derde lid, artikel 137 eerste lid, artikel 138, artikel 152 vierde lid, artikel 155 eerste lid, artikel 160 vierde lid, artikel 166 achtste lid onderdeel e, artikel 180 tweede lid onderdeel c, artikel 193 derde lid, artikel 194 derde en vierde lid, artikel 197 vierde en vijfde lid, artikel 199 tweede, derde en vierde lid, artikel 202, artikel 214 eerste lid, artikel 221 vijfde lid, artikel 222 zesde lid, artikel 223 zesde lid, artikel 227 eerste en tweede lid, artikel 230 derde lid, artikel 243 eerste lid, artikel 244 eerste lid, artikel 246 tweede lid, artikel 254, artikel 255 eerste lid, artikel 258, artikel 266 eerste en derde lid, artikel 271 tweede lid, artikel 301 tweede lid, artikel 303 vierde lid, artikel 305 tweede en vierde lid, artikel 314 tweede lid, artikel 331 tweede lid, artikel 340 eerste lid, artikel 345 eerste lid, artikel 350 tweede en derde lid, artikel 356 eerste lid, artikel 361, artikel 402 derde lid en artikel 421 vijfde lid.   
 3.  DNB plaatst een formulier op haar website waarmee de toestemmingen, bedoeld in het eerste lid, kunnen worden aangevraagd respectievelijk de meldingen, bedoeld in het tweede lid, kunnen worden gedaan.  
 
@@ -128,18 +96,23 @@ c. overige gegevens of bescheiden die relevant zijn voor de in de aanhef bedoeld
 
 ####– aanwijzing regionale en lokale overheden en publiekrechtelijke lichamen
 
-1.  Onder *regionale en lokale overheden* als bedoeld in artikel 115 van de CRR worden verstaan: 
+1.  Onder* regionale en lokale overheden* als bedoeld in artikel 115 van de CRR worden verstaan: 
 
-a. in Nederland: provincies, gemeenten, waterschappen en gemeenschappelijke regelingen met een bestuurlijk karakter;  
+a.  In Nederland: provincies, gemeenten en waterschappen, alsmede gemeenschappelijke regelingen als bedoeld in de Wet gemeenschappelijke regelingen waarvoor een openbaar lichaam is ingesteld;   
 
-b. in de overige lidstaten van de Europese Unie: regionale en lokale overheden die door de toezichthouder op financiële ondernemingen in het betrokken land op de lijst zijn geplaatst van regionale en lokale overheden waarvoor hetzelfde risicogewicht geldt als voor hun centrale overheid;  
+b. in de overige lidstaten van de Europese Unie: regionale en lokale overheden die door de toezichthouder op financiële ondernemingen in het betrokken land op de lijst zijn geplaatst van regionale en lokale overheden waarvoor hetzelfde risicogewicht geldt als voor hun centrale overheid.     
+2.  Onder* publiekrechtelijk lichaam* als bedoeld in artikel 116, eerste lid, van de CRR wordt verstaan: 
 
-c. in de Verenigde Staten, Canada, Japan, Republiek Korea, Hong Kong, Singapore, Australië, Nieuw-Zeeland en Zwitserland: regionale en lokale overheden die door de toezichthouder op financiële ondernemingen op de lijst zijn geplaatst van regionale en lokale overheden waarvoor hetzelfde risicogewicht geldt als voor hun centrale overheid, indien: 
+a. in Nederland: 
 
-– geen verschil in risico bestaat vanwege de specifieke bevoegdheden van de regionale en lokale overheden om inkomsten te verkrijgen; en  
+1°. gemeenschappelijke regelingen, als bedoeld in de Wet gemeenschappelijke regelingen, voor zover zij niet vallen onder het eerste lid, onderdeel a;  
 
-– het bestaan van specifieke institutionele regels waardoor de kans dat genoemde overheden in gebreke blijven, wordt verminderd. Posities ten aanzien van deze regionale en lokale overheden worden door DNB behandeld als posities ten aanzien van de centrale overheid.       
-2.  Onder *publiekrechtelijke lichamen* als bedoeld in artikel 116 van de CRR worden verstaan: de rijksuniversiteiten, de gemeentelijke universiteit te Amsterdam, de bijzondere universiteiten te Amsterdam, Nijmegen en Tilburg, alsmede de aan deze universiteiten verbonden academische ziekenhuizen, dan wel kerkgenootschappen en andere godsdienstige gemeenschappen met publiekrechtelijke grondslag.  
+2°. kerkgenootschappen en andere godsdienstige gemeenschappen met een publiekrechtelijke grondslag;  
+
+3°. universiteiten, hogescholen of academische ziekenhuizen, als genoemd in de Bijlage behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek;    
+
+b. in andere lidstaten van de Europese Economische Ruimte: publiekrechtelijk lichamen die door de toezichthouder op financiële ondernemingen in het betrokken land worden aangemerkt als een publiekrechtelijk lichamen en voldoen aan de definitie van publiekrechtelijk lichaam in artikel 4, eerste lid, onderdeel 8, van de CRR.     
+3.   Voor de toepassing van dit artikel worden onder derde landen die toezicht- en reguleringsvereisten toepassen die ten minste gelijkwaardig zijn aan die welke in de Unie worden toegepast, uitsluitend verstaan de derde landen en grondgebieden die zijn opgenomen in het Uitvoeringsbesluit van de Commissie van 12 december 2014 betreffende de gelijkwaardigheid van de toezicht- en reguleringsvereisten van bepaalde derde landen en grondgebieden ten behoeve van de behandeling van blootstellingen overeenkomstig Verordening (EU) nr. 575/2013 van het Europees Parlement en de Raad (2014/908/EU; PbEU L 359). 
 
 ### Hoofdstuk  2  
 
@@ -147,7 +120,27 @@ c. in de Verenigde Staten, Canada, Japan, Republiek Korea, Hong Kong, Singapore,
 
 ### Paragraaf  2.1  
 
-[gereserveerd]    
+####– Onderdelen van de kapitaalbuffer
+
+### Artikel  2:1:1  
+
+####– systeemrisicobuffer
+
+1.  Een bank met zetel in Nederland als bedoeld in artikel 3:62a, eerste lid, van de wet, die naar het oordeel van de Nederlandsche Bank een dominante positie heeft in het financiële stelsel van Nederland of anderszins is blootgesteld aan systeemrisico's, bedoeld in artikel 133 van de richtlijn kapitaalvereisten, beschikt over een systeemrisicobuffer, bedoeld in artikel 105, eerste lid, onderdeel d, van het Besluit.   
+2.  Voor een bank als bedoeld in het eerste lid bedraagt de systeemrisicobuffer drie procent van het overeenkomstig artikel 92, derde lid, van de CRR berekende totaal van risicoposten.   
+3.  Een bank als bedoeld in het eerste lid voldoet aan de verplichting van het tweede lid op basis van de geconsolideerde positie, overeenkomstig afdeling 2 van deel een van de CRR. De systeemrisicobuffer wordt aangehouden op het hoogste geconsolideerde niveau in Nederland.   
+4.  De vereiste omvang van de systeemrisicobuffer wordt gedurende de hierna genoemde perioden vermenigvuldigd met de daarbij vermelde percentages: 
+
+a. tot en met 31 december 2015: 0%;  
+
+b. voor de duur van het kalenderjaar 2016: 25%;  
+
+c. voor de duur van het kalenderjaar 2017: 50%;  
+
+d. voor de duur van het kalenderjaar 2018: 75%;  
+
+e. vanaf 1 januari 2019: 100%.    
+
 ### Paragraaf  2.2  
 
 ####– Maximaal uitkeerbare bedrag (Maximum Distributable Amount – MDA)
@@ -189,7 +182,7 @@ e. indien de omvang van het CET1 kapitaal groter is dan de vereiste kapitaalbuff
 
 ### Hoofdstuk  4  
 
-####– Opties en descreties
+####– Opties en discreties
 
 ### Artikel  4:1  
 
@@ -233,7 +226,7 @@ Gelet op artikel 148, tweede lid, van de CRR hanteren de moederonderneming en do
 
 ### Hoofdstuk  5  
 
-####– Overgamgsbepalingen en transitie volgend uit de CRR
+####– Overgangsbepalingen en transitie volgend uit de CRR
 
 ### Artikel  5:1  
 
@@ -305,7 +298,7 @@ d. voor de periode van 1 januari 2017 tot en met 31 december 2017, 80%;
 
 e. voor de periode vanaf 1 januari 2018, 100%.     
 3.  Gelet op artikel 478, derde lid, onderdeel a, van de CRR worden de percentages voor onderdelen a, f, g en h van artikel 36, eerste lid, van de CRR als volgt vastgesteld: voor de periode vanaf 1 januari 2014, 100%.   
-4.  Gelet op artikel 478, derde lid, onderdeel b, van de CRR worden de percentages voor onderdeel c van artikel 36, eerste lid, van de CRR voor zover de uitgestelde belastingvorderingen die op toekomstige winstgevendheid berusten en voortvloeien uit tijdelijke verschillen, en voor onderdeel i van artikel 36, eerste lid, van de CRR als volgt vastgesteld: 
+4.   Gelet op artikel 478, derde lid, onderdeel b, van de CRR worden de percentages voor onderdeel c van artikel 36, eerste lid, van de CRR, voor zover de uitgestelde belastingvorderingen die op toekomstige winstgevendheid berusten en voortvloeien uit tijdelijke verschillen, als volgt vastgesteld: 
 
 a. voor de periode van 1 januari 2014 tot en met 31 december 2014, 0%;  
 
@@ -328,8 +321,19 @@ i. voor de periode van 1 januari 2022 tot en met 31 december 2022, 80%;
 j. voor de periode van 1 januari 2023 tot en met 31 december 2023, 90%;  
 
 k. voor de periode vanaf 1 januari 2024, 100%.     
-5.  Gelet op artikel 478, derde lid, onderdeel c, van de CRR worden de percentages voor onderdelen b tot en met d van artikel 56, eerste lid, van de CRR als volgt vastgesteld: voor de periode vanaf 1 januari 2014, 100%.   
-6.  Gelet op artikel 478, derde lid, onderdeel d, van de CRR worden de percentages voor onderdelen b tot en met d van artikel 66, eerste lid, van de CRR als volgt vastgesteld: voor de periode vanaf 1 januari 2014, 100%.  
+5.  Gelet op artikel 478, derde lid, onderdeel b, van de CRR worden de percentages voor onderdeel i van artikel 36, eerste lid, van de CRR, als volgt vastgesteld: 
+
+a. voor de periode van 1 januari 2014 tot en met 31 december 2014: 20%;  
+
+b. voor de periode van 1 januari 2015 tot en met 31 december 2015: 40%;  
+
+c. voor de periode van 1 januari 2016 tot en met 31 december 2016: 60%;  
+
+d. voor de periode van 1 januari 2017 tot en met 31 december 2017: 80%;  
+
+e. voor de periode vanaf 1 januari 2018: 100%.    
+6.  Gelet op artikel 478, derde lid, onderdeel c, van de CRR worden de percentages voor onderdelen b tot en met d van artikel 56 van de CRR als volgt vastgesteld: voor de periode vanaf 1 januari 2014, 100%.   
+7.  Gelet op artikel 478, derde lid, onderdeel d, van de CRR worden de percentages voor onderdelen b tot en met d van artikel 66 van de CRR als volgt vastgesteld: voor de periode vanaf 1 januari 2014, 100%.  
 
 ### Artikel  5:6  
 
@@ -349,7 +353,7 @@ e. voor de periode vanaf 1 januari 2018, 0%.
 
 ### Artikel  5:7  
 
-####– vaststelling factor artikel 480 CRR met betrekking tot minderheidsbelangen
+####– vaststelling factor artikel 480 CRR met betrekking tot minderheidsbelangen en in aanmerking komend aanvullend-tier 1 en tier 2-kapitaal
 
 Gelet op artikel 480, derde lid, van de CRR wordt de factor als volgt vastgesteld: voor de periode vanaf 1 januari 2014, 1. 
 
@@ -391,7 +395,7 @@ De in artikel 129, eerste lid, onderdelen d en e, van de CRR vermelde limiet van
 
 ### Hoofdstuk  6  
 
-####Slotbepalingen
+####– Slotbepalingen
 
 ### Artikel  6:1  
 
@@ -399,17 +403,17 @@ De in artikel 129, eerste lid, onderdelen d en e, van de CRR vermelde limiet van
 
 De volgende regelingen van DNB worden ingetrokken: 
 
-a. [Regeling solvabiliteitseisen kredietrisico en grote posities Wft 2010](../../../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/kredietrisico/BWBR0020764/README.md);  
+a. Regeling solvabiliteitseisen kredietrisico en grote posities Wft 2010;  
 
-b. [Regeling solvabiliteitseisen marktrisico Wft 2011](../../../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md);  
+b. Regeling solvabiliteitseisen marktrisico Wft 2011;  
 
-c. [Regeling solvabiliteitseisen operationeel risico Wft 2010](../../../../../../../../../zbo/regeling/solvabiliteitseisen/operationeel/risico/wft/2010/BWBR0020726/README.md);  
+c. Regeling solvabiliteitseisen operationeel risico Wft 2010;  
 
-d. [Regeling hybride instrumenten banken en andere financiële ondernemingen (exclusief verzekeraars) Wft 2010](../../../../../../../../../zbo/regeling/hybride/instrumenten/banken/en/andere/financiële/ondernemingen/etc/BWBR0028905/README.md);  
+d. Regeling hybride instrumenten banken en andere financiële ondernemingen (exclusief verzekeraars) Wft 2010;  
 
-e. [Regeling securitisaties Wft 2010](../../../../../../../../../zbo/regeling/securitisaties/wft/2010/BWBR0028907/README.md);  
+e. Regeling securitisaties Wft 2010;  
 
-f. [Regeling uitsluiting solvabiliteitsaftrek immateriële activa](../../../../../../../../../zbo/regeling/uitsluiting/solvabiliteitsaftrek/immateriële/activa/BWBR0023090/README.md).   
+f. Regeling uitsluiting solvabiliteitsaftrek immateriële activa.   
 
 ### Artikel  6:2  
 

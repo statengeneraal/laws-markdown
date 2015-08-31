@@ -640,7 +640,7 @@ g. de frequentie waarmee de gegevens worden verstrekt; deze bedraagt minimaal é
 1.  Het boetebedrag voor overtreding van een voorschrift op grond van de artikelen 1a, 7e, 16a, eerste tot en met vierde lid, 16b, eerste tot en met derde lid, 16c, 16f, eerste en tweede lid, 21a, eerste lid en 26b, eerste lid, van de wet en op grond van de artikelen 26, 33 en 37 bedraagt 50.000 USD.   
 2.  Het boetebedrag voor overtreding van een voorschrift op grond van de artikelen 5a, eerste, tweede en vijfde tot en met achtste lid, 5b, 13b, 13e, 14, eerste lid, 14a, eerste lid, 14b en 16e van de wet en op grond van de artikelen 23, 24 en 25 bedraagt 25.000 USD.   
 3.  Voor overtreding van artikel 21a, eerste lid, van de wet kan per dag dat men in overtreding is een boete worden opgelegd van USD 1.250 met een maximum van USD 25.000.   
-4.  Voor overtreding van [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zoals van toepassing verklaard in artikel 19a van de wet kan per dag dat men in overtreding is een boete worden opgelegd van USD 1.250 met een maximum van USD 25.000.  
+4.  Voor overtreding van artikel 5:20 van de Algemene wet bestuursrecht zoals van toepassing verklaard in artikel 19a van de wet kan per dag dat men in overtreding is een boete worden opgelegd van USD 1.250 met een maximum van USD 25.000.  
 
 ### Artikel  39  
 
@@ -721,7 +721,7 @@ g. de wijze waarop de overeenkomst wordt beëindigd, en de wijze waarop wordt ge
 
 ####Inwerkingtreding en werkingsduur
 
-1.  Dit besluit treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](../../../../../rijkswet/rijkswet/wijziging/statuut/in/verband/met/de/opheffing/van/de/nederlandse/etc/BWBR0028249/README.md) in werking treedt, met uitzondering van: 
+1.  Dit besluit treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt, met uitzondering van: 
 
 a. de artikelen 13 tot en met 16 voor zover zij dienen ter uitvoering van artikel 16a van de wet;  
 

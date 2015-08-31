@@ -3,7 +3,7 @@
 ##Besluit van de Minister van Economische Zaken van 7 november 2012, nr. WJZ / 12354190, houdende vaststelling van de taken van de Staatssecretaris van Economische Zaken
 
 De Minister van Economische Zaken,  
-Gelet op [artikel 46, tweede lid, van de Grondwet](../../../../../../../../../wet/grondwet/BWBR0001840/README.md) en [artikel 3 van de Wet van 25 januari 1951 (Stb. 24), houdende nadere voorzieningen in verband met de uitvoering van de ambten van minister zonder portefeuille en van staatssecretaris](../../../../../../../../../wet/wet/voorzieningen/in/verband/met/ambten/van/minister/zonder/portefeuille/etc/BWBR0002069/README.md);
+Gelet op artikel 46, tweede lid, van de Grondwet en artikel 3 van de Wet van 25 januari 1951 (Stb. 24), houdende nadere voorzieningen in verband met de uitvoering van de ambten van minister zonder portefeuille en van staatssecretaris;
 Besluit:    
 
 ### Artikel  1  

@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en het Koninkrijk Marokko, anderzijds
+##Euro-mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en het Koninkrijk Marokko, anderzijds
 
 ####Euro-mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en het Koninkrijk Marokko, anderzijds
 
@@ -643,7 +643,7 @@ De dialoog op sociaal gebied wordt gehouden op dezelfde niveaus en volgens dezel
 
 1.   Teneinde de samenwerking op sociaal gebied tussen de partijen te consolideren worden activiteiten en programma's op elk gebied dat voor hen van belang is uitgevoerd. Hierbij hebben de volgende onderwerpen prioriteit: 
 
-a. vermindering van de migratiedruk, met name door het scheppen van werkgelegenheid en de ontwikkeling van het onderwijs in de emigratiegebieden;  
+a. vermindering van de migratiedruk, met name door de verbetering van de levensomstandigheden en het scheppen van werkgelegenheid en de ontwikkeling van het onderwijs in de emigratiegebieden;  
 
 b. reïntegratie van personen die gerepatrieerd zijn wegens het illegale karakter van hun situatie op grond van de wetgeving van de betrokken Lid-Staat;  
 
