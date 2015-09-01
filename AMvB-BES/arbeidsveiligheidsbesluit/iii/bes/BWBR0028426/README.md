@@ -10,7 +10,7 @@ In dit besluit wordt verstaan onder:
 
 a.  *de minister:* de minister van Sociale Zaken en Werkgelegenheid.  
 
-b.  *de ambtenaar:* de ambtenaar bedoeld in [artikel 2 lid 2 van de Arbeidsveiligheidswet BES](../../../../../wet-BES/arbeidsveiligheidswet/bes/BWBR0028228/README.md)  
+b.  *de ambtenaar:* de ambtenaar bedoeld in artikel 2 lid 2 van de Arbeidsveiligheidswet BES  
 
 c.  *een reservoir:* een stationair reservoir, dat is een drukhouder met een waterinhoud van meer dan 150 l, die gebruikt wordt voor het opslaan van propaan of butaan.  
 
@@ -151,7 +151,7 @@ c. zich na de verlening zodanige feiten of omstandigheden voordoen dat, indien d
 
 ### Artikel  8a  
 
-Dit besluit berust op [artikel 2, eerste lid, van de Arbeidsveiligheidswet BES](../../../../../wet-BES/arbeidsveiligheidswet/bes/BWBR0028228/README.md) 
+Dit besluit berust op artikel 2, eerste lid, van de Arbeidsveiligheidswet BES 
 
 ### Artikel  9  
 

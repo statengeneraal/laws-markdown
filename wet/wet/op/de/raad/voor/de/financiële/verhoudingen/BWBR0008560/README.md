@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een adviescollege in te stellen op het terrein van de financiële verhoudingen, in het bijzonder die van het Rijk met de gemeenten en de provincies, en dat het in verband met [artikel 79 van de Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) noodzakelijk is daartoe wettelijke bepalingen vast te stellen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is een adviescollege in te stellen op het terrein van de financiële verhoudingen, in het bijzonder die van het Rijk met de gemeenten en de provincies, en dat het in verband met artikel 79 van de Grondwet noodzakelijk is daartoe wettelijke bepalingen vast te stellen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  

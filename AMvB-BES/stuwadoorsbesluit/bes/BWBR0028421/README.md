@@ -182,8 +182,8 @@ r. er mag gedurende het laden en lossen geen herstellingsarbeid aan het schip ve
 
 ### Artikel  15  
 
-1.  Zoo nodig moeten ten aanzien van kettingwerk, dat ter plaatse, waar stuwadoorsarbeid wordt verricht, gebezigd wordt, de herkomst, het jaar van aanmaak, de veilig toelaatbare belasting, zoomede de tijdstippen van beproeving en van uitgloeiing genoteerd worden in een door of namens het hoofd of den bestuurder der onderneming bij te houden register. De in het register vermelde, veilig toelaatbare, belasting en een mede in het register aangegeven merkteeken moeten op het kettingwerk zijn ingeslagen. Dit register wordt de ambtenaar, bedoeld in [artikel 2, vijfde lid, van de Stuwadoorswet 1946 BES](../../../../wet-BES/stuwadoorswet/1946/bes/BWBR0028169/README.md), op eerste aanvrage ter inzage gegeven.   
-2.  Het kettingwerk en het overige los- en laadgerei dat ter plaatse, waar stuwadoorsarbeid wordt verricht, gebezigd wordt, moet voor zoover de aard van die hulpmiddelen beproeving noodig en mogelijk maakt, aan eene beproeving of eene periodieke beproeving door een door Onze Minister erkende deskundige worden onderworpen. Van deze beproeving wordt de ambtenaar, bedoeld in [artikel 2, vijfde lid, van de Stuwadoorswet 1946 BES](../../../../wet-BES/stuwadoorswet/1946/bes/BWBR0028169/README.md), op eerste aanvrage een door de deskundige opgesteld bewijs overgelegd. Voldoende bewijs moet kunnen worden geleverd, dat het behoorlijk en tijdig met gunstigen uitslag is beproefd.  
+1.  Zoo nodig moeten ten aanzien van kettingwerk, dat ter plaatse, waar stuwadoorsarbeid wordt verricht, gebezigd wordt, de herkomst, het jaar van aanmaak, de veilig toelaatbare belasting, zoomede de tijdstippen van beproeving en van uitgloeiing genoteerd worden in een door of namens het hoofd of den bestuurder der onderneming bij te houden register. De in het register vermelde, veilig toelaatbare, belasting en een mede in het register aangegeven merkteeken moeten op het kettingwerk zijn ingeslagen. Dit register wordt de ambtenaar, bedoeld in artikel 2, vijfde lid, van de Stuwadoorswet 1946 BES, op eerste aanvrage ter inzage gegeven.   
+2.  Het kettingwerk en het overige los- en laadgerei dat ter plaatse, waar stuwadoorsarbeid wordt verricht, gebezigd wordt, moet voor zoover de aard van die hulpmiddelen beproeving noodig en mogelijk maakt, aan eene beproeving of eene periodieke beproeving door een door Onze Minister erkende deskundige worden onderworpen. Van deze beproeving wordt de ambtenaar, bedoeld in artikel 2, vijfde lid, van de Stuwadoorswet 1946 BES, op eerste aanvrage een door de deskundige opgesteld bewijs overgelegd. Voldoende bewijs moet kunnen worden geleverd, dat het behoorlijk en tijdig met gunstigen uitslag is beproefd.  
 
 ### Artikel  16  
 
@@ -237,7 +237,7 @@ Ter plaatse, waar stuwadoorsarbeid wordt verricht, moet aan de havenarbeiders go
 ### Artikel  21  
 
 1.  Indien havenarbeiders bij het verrichten van stuwadoorsarbeid aan groote warmte, stof of vuil zijn blootgesteld, moet ingeval de arbeid plaats vindt op een terrein, behoorende tot of in gebruik zijnde bij eene stuwadoorsonderneming, of op een schip, dat aan zulk een terrein gemeerd ligt, op dit terrein een doelmatig ingerichte en gelegen binnenshuis opgestelde bad- en waschgelegenheid aanwezig zijn, die op doelmatige tijden in verband met de schafttijden en het eind van dien arbeid voor de arbeiders toegankelijk moeten wezen.   
-2.  Indien de aanvoer ter plaatse van bruikbaar water in voldoende hoeveelheid bijzondere bezwaren oplevert, kan de ambtenaar, bedoeld in [artikel 2, vijfde lid, van de Stuwadoorswet BES](../../../../wet-BES/stuwadoorswet/1946/bes/BWBR0028169/README.md), van deze bepaling voorwaardelijke of onvoorwaardelijke ontheffing verleenen.  
+2.  Indien de aanvoer ter plaatse van bruikbaar water in voldoende hoeveelheid bijzondere bezwaren oplevert, kan de ambtenaar, bedoeld in artikel 2, vijfde lid, van de Stuwadoorswet BES, van deze bepaling voorwaardelijke of onvoorwaardelijke ontheffing verleenen.  
 
 ### Artikel  22  
 
@@ -292,7 +292,7 @@ c. zich na de verlening zodanige feiten of omstandigheden voordoen dat, indien d
 
 ### Artikel  25b  
 
-Dit besluit berust op [artikel 2, eerste lid, van de Stuwadoorswet 1946 BES](../../../../wet-BES/stuwadoorswet/1946/bes/BWBR0028169/README.md). 
+Dit besluit berust op artikel 2, eerste lid, van de Stuwadoorswet 1946 BES. 
 
 ### Artikel  26  
 

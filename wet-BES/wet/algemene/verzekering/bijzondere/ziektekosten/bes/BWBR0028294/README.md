@@ -262,7 +262,7 @@ Elke bepaling in de in artikel 13, eerste lid, bedoelde overeenkomsten, die in s
 
 ### Artikel  17  
 
-1.  Onze Minister houdt toezicht op het Uitvoeringsorgaan. Zij adviseert, op verzoek of uit eigen beweging, Onze Minister, de Minister van Financiën en het Uitvoeringsorgaan met betrekking tot aangelegenheden het Uitvoeringsorgaan betreffende, overeenkomstig de bij of krachtens de [Wet financiële markten BES](../../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) met betrekking tot de uitoefening van het verzekeringsbedrijf gestelde regels.   
+1.  Onze Minister houdt toezicht op het Uitvoeringsorgaan. Zij adviseert, op verzoek of uit eigen beweging, Onze Minister, de Minister van Financiën en het Uitvoeringsorgaan met betrekking tot aangelegenheden het Uitvoeringsorgaan betreffende, overeenkomstig de bij of krachtens de Wet financiële markten BES met betrekking tot de uitoefening van het verzekeringsbedrijf gestelde regels.   
 2.  [vervallen]   
 3.  [vervallen].   
 4.  De artikelen 42 tot en met 45 zijn van overeenkomstige toepassing op het door de Bank ingevolge het eerste lid te houden toezicht.  
@@ -294,7 +294,7 @@ Onze Minister geeft jaarlijks, gehoord het Uitvoeringsorgaan, een aanwijzing voo
 ### Artikel  20  
 
 1.  De premie, bedoeld in artikel 18, tweede lid, onderdeel a, wordt, met inachtneming van het bepaalde in de navolgende leden, geheven naar de maatstaf van het door de verzekerde in een kalenderjaar genoten inkomen en bedraagt een percentage van dat inkomen. Ten aanzien van degene, die slechts een gedeelte van een kalenderjaar verzekerd is geweest, treedt dit gedeelte voor het kalenderjaar in de plaats.   
-2.  Onder inkomen wordt verstaan het zuiver inkomen in de zin van de Wet op de inkomstenbelasting BES met dien verstande dat dit inkomen wordt vermeerderd met de krachtens de Wet op de inkomstenbelasting BES als persoonlijke last in aftrek toegelaten premies algemene ouderdomsverzekering ingevolge de [Wet algemene ouderdomsverzekering BES](../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md), algemene weduwen weduwnaars- en wezenverzekering ingevolge de [Wet algemene weduwen- en wezenverzekering BES](../../../../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md).   
+2.  Onder inkomen wordt verstaan het zuiver inkomen in de zin van de Wet op de inkomstenbelasting BES met dien verstande dat dit inkomen wordt vermeerderd met de krachtens de Wet op de inkomstenbelasting BES als persoonlijke last in aftrek toegelaten premies algemene ouderdomsverzekering ingevolge de Wet algemene ouderdomsverzekering BES, algemene weduwen weduwnaars- en wezenverzekering ingevolge de Wet algemene weduwen- en wezenverzekering BES.   
 3.  Premie is verschuldigd vanaf de eerste dag van de maand volgende op het bereiken van de vijftienjarige leeftijd.   
 4.  Bij algemene maatregel van bestuur, kunnen met betrekking tot het bepaalde in het eerste en tweede lid nadere regelen worden gesteld.  
 

@@ -210,7 +210,7 @@ d. de bescherming van de betrokkene of van de rechten en vrijheden van anderen.
 ### Artikel  14e  
 
 1.  Degene aan wie overeenkomstig artikel 14b kennis is gegeven van hem betreffende inlichtingen, kan Onze Minister van Justitie schriftelijk verzoeken om deze te verbeteren, aan te vullen, te verwijderen of af te schermen, indien deze feitelijk onjuist zijn, voor het doel van de verwerking onvolledig of niet ter zake dienend zijn dan wel in strijd met een wettelijk voorschrift zijn verwerkt. Het verzoek bevat de aan te brengen wijzigingen.   
-2.  Onze Minister van Justitie bericht de verzoeker binnen vier weken na ontvangst van het verzoek schriftelijk of, dan wel in hoeverre, hij daaraan voldoet. [Artikel 29, eerste lid, van de Wet bescherming persoonsgegevens BES](../../../../../../../../../../../../../../../wet-BES/wet/bescherming/persoonsgegevens/bes/BWBR0028067/README.md) is van overeenkomstige toepassing.   
+2.  Onze Minister van Justitie bericht de verzoeker binnen vier weken na ontvangst van het verzoek schriftelijk of, dan wel in hoeverre, hij daaraan voldoet. Artikel 29, eerste lid, van de Wet bescherming persoonsgegevens BES is van overeenkomstige toepassing.   
 3.  Onze Minister van Justitie draagt zorg dat een beslissing tot verbetering, aanvulling, verwijdering of afscherming zo spoedig mogelijk wordt uitgevoerd.  
 
 ### Artikel  14f  

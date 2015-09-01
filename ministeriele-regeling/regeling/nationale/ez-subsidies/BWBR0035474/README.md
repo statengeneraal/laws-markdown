@@ -3720,13 +3720,9 @@ Deze titel en de bijlagen 3.16.1, 3.16.2 en 3.16.3 vervallen met ingang van 1 j
 
 ####Toekomstfondskrediet onderzoeksfaciliteiten
 
-Treedt in werking per 01-09-2015 
-
 ### Artikel  3.17.1  
 
 ####Begripsomschrijvingen
-
-Treedt in werking per 01-09-2015 
 
 In deze titel wordt verstaan onder: 
 
@@ -3737,8 +3733,6 @@ In deze titel wordt verstaan onder:
 ### Artikel  3.17.2  
 
 ####Subsidieaanvraag
-
-Treedt in werking per 01-09-2015 
 
 1.  De minister verstrekt op aanvraag subsidie voor de financiering van de bouw van nieuwe onderzoeksinfrastructuur of het verbeteren van bestaande onderzoeksinfrastructuur aan: 
 
@@ -3753,8 +3747,6 @@ c. een door of mede door een onderzoeksorganisatie dan wel hogeschool of onderzo
 
 ####Hoogte subsidie
 
-Treedt in werking per 01-09-2015 
-
 1.  In afwijking van artikel 1.3 bedraagt de subsidie maximaal 50 procent van de subsidiabele kosten.   
 2.  De subsidie bedraagt minimaal € 1.000.000 en maximaal € 15.000.000.  
 
@@ -3762,15 +3754,11 @@ Treedt in werking per 01-09-2015
 
 ####Subsidiabele kosten
 
-Treedt in werking per 01-09-2015 
-
 Voor subsidie komen uitsluitend de kosten, bedoeld in artikel 26, vijfde lid, van de algemene groepsvrijstellingsverordening, in aanmerking. 
 
 ### Artikel  3.17.5  
 
 ####Verdeling subsidieplafond
-
-Treedt in werking per 01-09-2015 
 
 De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aanvragen. 
 
@@ -3778,15 +3766,11 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ####Realisatietermijn
 
-Treedt in werking per 01-09-2015 
-
 De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is vijf jaar. 
 
 ### Artikel  3.17.7  
 
 ####Afwijzingsgronden
-
-Treedt in werking per 01-09-2015 
 
 De minister beslist afwijzend op een aanvraag indien: 
 
@@ -3797,8 +3781,6 @@ b. de subsidiabele kosten minder dan € 2.000.000 bedragen.
 ### Artikel  3.17.8  
 
 ####Rangschikkingscriteria
-
-Treedt in werking per 01-09-2015 
 
 De minister rangschikt de aanvragen waarop niet afwijzend is beslist, hoger naarmate: 
 
@@ -3813,8 +3795,6 @@ d. de terugbetaling van de lening aannemelijker is, gelet op het verwachte gebru
 ### Artikel  3.17.9  
 
 ####Subsidieverplichtingen
-
-Treedt in werking per 01-09-2015 
 
 1.  De subsidieontvanger zorgt ervoor dat: 
 
@@ -3838,8 +3818,6 @@ b. deze voorwaarden publiek beschikbaar worden gesteld.
 
 ####Aflossing van de lening
 
-Treedt in werking per 01-09-2015 
-
 1.  De subsidieontvanger betaalt de subsidie volgens een in de beschikking tot subsidieverlening vastgelegd schema binnen vijftien jaar na de datum van de beschikking tot vaststelling van de subsidie terug aan de minister.   
 2.  De minister kan de ontheffing, bedoeld in artikel 42, derde lid, van het besluit, slechts verlenen voor zover hierdoor de steunintensiteit, voor zover de subsidie betrekking heeft op economische activiteiten die met de onderzoeksinfrastructuur verricht gaan worden, 50% van de subsidiabele kosten niet zal overschrijden.   
 3.  De minister kan besluiten dat de verstrekte lening versneld of in een keer terugbetaald wordt, indien de onderzoeksinfrastructuur geheel of gedeeltelijk wordt vervreemd.   
@@ -3849,16 +3827,12 @@ Treedt in werking per 01-09-2015
 
 ####Evaluatieverplichting
 
-Treedt in werking per 01-09-2015 
-
 1.  De subsidieontvanger verleent medewerking aan een evaluatie van de effecten van de door hem uitgevoerde activiteiten, bedoeld in artikel 3.17.2, eerste lid, voor zover deze medewerking redelijkerwijs van hem verlangd kan worden.   
 2.  De verplichting, bedoeld in het eerste lid, geldt gedurende vijf jaar na de datum van de beschikking tot subsidievaststelling.  
 
 ### Artikel  3.17.12  
 
 ####Informatieverplichtingen
-
-Treedt in werking per 01-09-2015 
 
 1.  Een aanvraag voor subsidie als bedoeld in artikel 3.17.2, eerste lid, bevat ten minste de gegevens, bedoeld in artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.   
 2.  Onverminderd het eerste lid bevat een aanvraag voor subsidie als bedoeld in artikel 3.17.2, eerste lid, ten minste: 
@@ -3877,16 +3851,12 @@ e. een berekening van de marktrente voor de aangevraagde lening door een erkende
 
 ####Staatssteun
 
-Treedt in werking per 01-09-2015 
-
 1.  Voor zover de subsidie, bedoeld in artikel 3.17.2, eerste lid, betrekking heeft op economische activiteiten die met de onderzoeksinfrastructuur verricht gaan worden, bevat de subsidie staatssteun die wordt gerechtvaardigd door artikel 26 van de algemene groepsvrijstellingsverordening.   
 2.  Voor zover de subsidie, bedoeld in artikel 3.17.2, eerste lid, betrekking heeft op niet-economische activiteiten die met de onderzoeksinfrastructuur verricht gaan worden, bevat de subsidie geen staatssteun.  
 
 ### Artikel  3.17.14  
 
 ####Vervaltermijn
-
-Treedt in werking per 01-09-2015 
 
 Deze titel vervalt met ingang van 1 juli 2020, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend. 
 
@@ -5501,6 +5471,169 @@ Vervallen per 01-04-2015
 ####Wind op zee-haalbaarheidsstudies
 
 Vervallen per 01-04-2015 
+
+### Titel  4.7  
+
+####Energiebesparing en duurzame energie sportaccommodaties
+
+Treedt in werking per 01-01-2016 
+
+### Artikel  4.7.1  
+
+####Begripsomschrijvingen
+
+Treedt in werking per 01-01-2016 
+
+In deze titel wordt verstaan onder: 
+
+*energieadvies:* verkenning van de mogelijkheden om de energie-efficiency van een bestaande sportaccommodatie te verbeteren, vastgelegd in een adviesrapport;  
+
+*landelijke koepelorganisatie:* NOC*NSF, alsmede de in NOC*NSF vertegenwoordigde Nederlandse Christelijke sport Unie, de Nederlandse Katholieke Sportfederatie en de Nederlandse Culturele Sportbond;  
+
+*maatregel:* maatregel als bedoeld in artikel 4.7.2;  
+
+*NOC*NSF:* Vereniging Nederlands Olympisch Comité* Nederlandse Sport Federatie te Arnhem;  
+
+*sportaccommodatie:* accommodatie, bestemd en in gebruik voor activiteiten van een sportvereniging;  
+
+*sportstichting:* stichting die ten minste een gedeelte van een sportaccommodatie in eigendom heeft;  
+
+*sportvereniging:* vereniging met volledige rechtsbevoegdheid die lid is van een landelijke koepelorganisatie of een in NOC*NSF vertegenwoordigde landelijke sportorganisatie en waarbinnen een door NOC*NSF erkende tak van sport wordt beoefend.   
+
+### Artikel  4.7.2  
+
+####Subsidieaanvraag
+
+Treedt in werking per 01-01-2016 
+
+De minister verstrekt op aanvraag een subsidie aan een sportvereniging of een sportstichting voor het uitvoeren van een maatregel die is opgenomen in bijlage 4.7.1 ten behoeve van energiebesparing of het opwekken van duurzame energie voor sportaccommodaties. 
+
+### Artikel  4.7.3  
+
+####Subsidiabele kosten
+
+Treedt in werking per 01-01-2016 
+
+In afwijking van de artikelen 10, eerste lid, en 11 van het besluit komen uitsluitend voor subsidie in aanmerking de kosten voor het uitvoeren van een maatregel bestaande uit de aanschaf van een installatie of apparatuur. 
+
+### Artikel  4.7.4  
+
+####Steunintensiteit
+
+Treedt in werking per 01-01-2016 
+
+1.  De subsidie aan een sportvereniging bedraagt 30% van de subsidiabele kosten.   
+2.  De subsidie aan een sportstichting bedraagt 15% van de subsidiabele kosten.   
+3.  De subsidie wordt verhoogd met 500 euro, indien een maatregel waarvoor subsidie wordt aangevraagd gebaseerd is op een van een datum voorzien energieadvies dat uiterlijk zes jaar voor de eerste dag van de openstellingsperiode is uitgebracht en waarin zijn opgenomen: 
+
+a. een beschrijving van de sportaccommodatie;  
+
+b. een overzicht van de totale energiehuishouding van de bestaande totale sportaccommodatie;  
+
+c. een energiebalans van de relevante onderdelen van de bestaande totale sportaccommodatie;  
+
+d. een overzicht van de mogelijkheden en kwantificering tot energiebesparing;  
+
+e. een overzicht van de noodzakelijke organisatorische en administratieve aanpassingen;  
+
+f. een raming van de te verwachten investeringskosten en de te verwachten baten.     
+4.  De verhoging, bedoeld in het derde lid, wordt eenmaal toegekend per uitgebracht energieadvies.   
+5.  De subsidie bedraagt maximaal € 125.000 per jaar.  
+
+### Artikel  4.7.5  
+
+####Verdeling van het subsidieplafond
+
+Treedt in werking per 01-01-2016 
+
+De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanvragen. 
+
+### Artikel  4.7.6  
+
+####Realisatietermijn
+
+Treedt in werking per 01-01-2016 
+
+De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is een jaar na subsidieverlening. 
+
+### Artikel  4.7.7  
+
+####Afwijzingsgronden
+
+Treedt in werking per 01-01-2016 
+
+De minister beslist afwijzend op een aanvraag indien: 
+
+a. de energierekening van de sportaccommodatie waar de maatregel wordt gerealiseerd niet wordt afgeschreven van een bankrekening die op naam staat van de aanvrager;  
+
+b. de kosten van de investering niet worden afgeschreven van een bankrekening die op naam staat van de aanvrager;  
+
+c. aan de aanvrager voor de desbetreffende maatregel gedurende het desbetreffende kalenderjaar op grond van deze titel reeds subsidie is verleend;  
+
+d. de subsidiabele kosten minder dan € 3.000 bedragen;  
+
+e. de aanvrager geen toestemming heeft van de eigenaar van de sportaccommodatie om de maatregel uit te voeren;  
+
+f. de sportvereniging of sportstichting voor de maatregel geen overeenkomst heeft gesloten met de bouwer of leverancier, waarin is aangegeven welke apparatuur of installatie als bedoeld in de maatregelenlijst in bijlage 4.7.1, zal worden aangeschaft;  
+
+g. de overeenkomst, bedoeld in onderdeel f, betrekking heeft op de aanschaf van gebruikte apparatuur of installaties;  
+
+h. de overeenkomst, bedoeld in onderdeel f, voor 1 september 2015 is aangegaan;  
+
+i. de overeenkomst, bedoeld in onderdeel f, op het moment van ontvangst van de aanvraag meer dan negen maanden daarvoor is gesloten;  
+
+j. de sportvereniging of sportstichting werkzaam is in een van de sectoren die ingevolge artikel 1 van de de-minimis verordening is uitgesloten van de toepassing van die verordening.   
+
+### Artikel  4.7.8  
+
+####Instandhoudingsverplichting
+
+Treedt in werking per 01-01-2016 
+
+De subsidieontvanger vervreemdt de installatie of apparatuur waarvoor subsidie is verstrekt niet binnen een jaar na de datum van de subsidievaststelling. 
+
+### Artikel  4.7.9  
+
+####Informatieverplichtingen
+
+Treedt in werking per 01-01-2016 
+
+1.  Een aanvraag voor subsidie als bedoeld in deze titel bevat ten minste: 
+
+a. gegevens over de aanvrager, waaronder de naam van de aanvrager, het KvK-nummer, het post- en bezoekadres en het bankrekeningnummer en lidmaatschap van de sportvereniging van een landelijke koepelorganisatie of een in NOC*NSF vertegenwoordigde landelijke sportorganisatie en waarbinnen een door NOC*NSF erkende tak van sport wordt beoefend;  
+
+b. gegevens over de contactpersoon bij de aanvrager waaronder de naam, het telefoonnummer en het e-mailadres;  
+
+c. gegevens over de maatregel of maatregelen waarvoor subsidie wordt aangevraagd;  
+
+d. gegevens over de sportaccommodatie, waaronder het post- en bezoekadres;  
+
+e. een verklaring de-minimissteun.     
+2.  De aanvraag tot subsidieverlening gaat vergezeld van een kopie van het energieadvies, indien artikel 4.7.4, derde lid, van toepassing is en van de overeenkomst, bedoeld in artikel 4.7.7, onderdeel f.  
+
+### Artikel  4.7.10  
+
+####Staatssteun
+
+Treedt in werking per 01-01-2016 
+
+De subsidie, bedoeld in artikel 4.7.2, bevat mogelijk staatssteun en wordt gerechtvaardigd door Verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013, betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU 2013, L 352). 
+
+### Artikel  4.7.11  
+
+####Evaluatiebepaling
+
+Treedt in werking per 01-01-2016 
+
+Onze Minister van Economische Zaken zendt binnen 5 jaar na de inwerkingtreding van deze titel aan de Tweede Kamer een verslag over de doeltreffendheid en de effecten van deze titel in de praktijk. 
+
+### Artikel  4.7.12  
+
+####Vervaltermijn
+
+Treedt in werking per 01-01-2016 
+
+Deze titel en bijlage 4.7.1 vervallen met ingang van 1 juli 2020, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend. 
 
 ### Hoofdstuk  5  
 
@@ -11741,3 +11874,40 @@ Bij bijlage 1 van Besluit 2011/278/EU is vastgesteld dat bij bepaalde productiep
 * de relevante indirecte emissies en  
 
 * de som van de totale directe emissies en de relevante indirecte emissies     Overeenkomstig artikel 14 van Besluit 2011/278/EU.
+
+###Bijlage 4.7.1 
+
+####, behorende bij artikel 4.7.2 
+
+Treedt in werking per 01-01-2016 
+
+####Maatregellijst
+
+De maatregelen in de maatregellijst bestaan in afwijking van artikel 10 en 11 van het besluit uit de aanschaf van: 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| 1  | Verlichting  | --- |
+| 1.1  | Sportveldverlichting  |  *Bestemd voor*: sportveldverlichting,   *en bestaande uit*:  LED armaturen, met een specifieke lichtstroom van ten minste 90 lm/W, gemeten conform LM-79-08, met een voorziening voor dynamische lichtschakeling (per armatuur of mast te schakelen, en een regelbare lichtopbrengst), (eventueel) mast en (eventueel) schakelmateriaal.  |
+| 1.2  | Buitenverlichting  |  *Bestemd voor*: buitenverlichting, niet zijnde reclameverlichting of sportveldverlichting,   *en bestaande uit*:  a. T5-armaturen voorzien van een optiek, (eventueel) mast en (eventueel) schakelmateriaal, of;  b. LED-armaturen, met een specifieke lichtstroom van ten minste 90 lm/W, gemeten conform LM-79-08, (eventueel) mast en (eventueel) schakelmateriaal.  |
+| 1.3  | Binnenverlichting  |  *Bestemd voor*: vervangen van bestaande binnenverlichting,   *en bestaande uit*:  a. T5-armaturen voorzien van een optiek, of;  b. LED-armaturen, met een specifieke lichtstroom van ten minste 90 lm/W, gemeten conform LM-79-08.  |
+| --- | --- | --- |
+| 2  | Ventilatie en verwarming  | --- |
+| 2.1  | Warmteterugwinning  |  *Bestemd voor*: het koelen of verwarmen van bestaande sportaccommodaties door het benutten van koude of warmte in de afzuiglucht,   *en bestaande uit*: warmtewisselaar, (eventueel) luchtbehandelingskast en (eventueel) kanalen.  |
+| 2.2  | Warmtepomp  |  *Bestemd voor*: het verwarmen van bestaande sportaccommodaties,   *en bestaande uit*: een warmtepomp, (eventueel) bronsysteem.   *Toelichting:*    *Als de installatie altijd geregeld wordt op basis van koelvraag is het geen warmtepomp en komt de installatie niet in aanmerking.*   |
+| --- | --- | --- |
+| 3  | Tapwater  | --- |
+| 3.1  | Direct gasgestookte condenserende boiler  |  *Bestemd voor*: de productie van warm tapwater,   *en bestaande uit*: condenserende warm tapwaterboiler, die gemeten is conform NEN-EN 89:1999/A3:2006 en waarbij het rendement ten minste 100% op onderwaarde bedraagt.  |
+| 3.2  | Direct gasgestookt condenserend warmwaterdoorstroomtoestel  |  *Bestemd voor*: de productie van warm tapwater,   *en bestaande uit*: condenserend warmwaterdoorstroomtoestel, dat gemeten is conform NEN-EN 26:1998/A3:2006 en waarbij het rendement ten minste 100% op onderwaarde bedraagt.  |
+| 3.3  | Warmtepompboiler  |  *Bestemd voor*: het nuttig aanwenden van warmte voor de verwarming van tapwater,   *en bestaande uit*: een elektrisch gedreven warmtepompboiler.  |
+| 3.4  | Warmteterugwinning uit douchewater  |  *Bestemd voor*: het terugwinnen van warmte uit (douche)water,   *en bestaande uit*: warmtewisselaar die is aangesloten op de douchewaterafvoer of douchebak met geïntegreerde douchewaterwarmtewisselaar.  |
+| --- | --- | --- |
+| 4  | Bouwkundig  | --- |
+| 4.1  | Vervangen glas (incl. aanpassen kozijn)  |  *Bestemd voor*: vervanging van beglazing in buitengevel- of dakconstructies van bestaande sportaccommodaties,   *en bestaande uit*: meervoudig glas met een warmtewerende coating en/of gasgevulde spouw met een warmtedoorlatingscoëfficiënt van maximaal 1,1 W/m<sup>2</sup>.K gemeten conform NEN-EN 673:2011, (eventueel) kozijn.  |
+| 4.2  | Isolatie wand, vloer en/of dak  |  *Bestemd voor*: de verbetering van de isolatie van bestaande vloeren, daken, plafonds of wanden van ruimten,   *en bestaande uit*: isolatiemateriaal waarbij de warmteweerstand R = Σ(Rm) = Σ(d/λ) ten minste 2,5 m<sup>2</sup>.K/W bedraagt.  |
+| --- | --- | --- |
+| 5  | Duurzame energie-opwekking  | --- |
+| 5.1  | Zonnecollectorsysteem  |  *Bestemd voor*: het verwarmen van water of lucht,   *en bestaande uit*: een zonnecollector, (eventueel) restwarmteopslagvat.  |
+| 5.2  | Zonnepanelen voor elektriciteitsopwekking  |  *Bestemd voor*: het opwekken van elektrische energie uit zonlicht met behulp van zonnecellen,   *en bestaande uit*: panelen met fotovoltaïsche zonnecellen, (eventueel) stroom/spanningsomvormer, (eventueel) aansluiting het elektriciteitsnet.  |
+| 5.3  | Biomassaketel  |  *Bestemd voor*: het verwarmen van sportaccommodaties en/of de productie van warm tapwater door verbranding van biomassa,   *en bestaande uit*: een ketel of kachel met een warmterendement dat ten minste 80% bedraagt, (eventueel) restwarmteopslagvat.  |
+

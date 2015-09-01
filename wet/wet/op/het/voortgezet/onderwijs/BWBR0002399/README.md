@@ -3672,12 +3672,12 @@ c. uiterlijk op 31 augustus 2016 met goed gevolg de aanvullende opleiding «Lee
 
 ####Vaststelling eerste ondersteuningsplan samenwerkingsverband met aanwijzing leerwegondersteunend onderwijs en toelaatbaarheid praktijkonderwijs
 
-1.  Het samenwerkingsverband stelt voor de voorschriften in artikel 17a, achtste lid, onderdelen a, b, c, e en f, en artikel 17a1, eerste en tweede lid, voor zover deze betrekking hebben op het beoordelen of een leerling is aangewezen op het leerwegondersteunend onderwijs en het toelaatbaar verklaren van leerlingen tot het praktijkonderwijs, een eerste ondersteuningsplan op, in aanvulling op het ondersteuningsplan bedoeld in artikel 17a, achtste lid. 
-2. Dit lid is nog niet in werking getreden. 
-3. Dit lid is nog niet in werking getreden.
-4. Dit lid is nog niet in werking getreden.
-5. Dit lid is nog niet in werking getreden.
-6. Dit lid is nog niet in werking getreden.
+1.  Het samenwerkingsverband stelt voor de voorschriften in artikel 17a, achtste lid, onderdelen a, b, c, e en f, en artikel 17a1, eerste en tweede lid, voor zover deze betrekking hebben op het beoordelen of een leerling is aangewezen op het leerwegondersteunend onderwijs en het toelaatbaar verklaren van leerlingen tot het praktijkonderwijs, een eerste ondersteuningsplan op, in aanvulling op het ondersteuningsplan bedoeld in artikel 17a, achtste lid.   
+2.  Het eerste ondersteuningsplan, bedoeld in het eerste lid, wordt op de datum van inwerkingtreding van dit artikel, aan de ondersteuningsplanraad voorgelegd. De ondersteuningsplanraad spreekt zich binnen vier weken nadat het voorstel is voorgelegd, uit over dit voorstel.   
+3.  Indien aan het te nemen besluit van het samenwerkingsverband op het ondersteuningsplan, bedoeld in het eerste lid, de instemming door de ondersteuningsplanraad is onthouden, wordt het voorstel door het samenwerkingsverband binnen twee weken voorgelegd aan de commissie voor geschillen, bedoeld in de Wet medezeggenschap op scholen.   
+4.  De commissie voor geschillen, bedoeld in artikel 30 van de Wet medezeggenschap op scholen, doet binnen vier weken uitspraak in geschillen over het voorstel van het ondersteuningsplan, bedoeld in het eerste lid. Van de uitspraak, bedoeld in de eerste volzin, staat, in afwijking van artikel 36 van de Wet medezeggenschap op scholen, geen beroep open bij de Ondernemingskamer van het gerechtshof te Amsterdam.   
+5.  In afwijking van artikel 17a, tiende lid, stuurt het samenwerkingsverband uiterlijk 16 weken volgend op de periode genoemd in het tweede lid, eerste volzin, het ondersteuningsplan aan de inspectie.   
+6.  Op het eerste ondersteuningsplan, bedoeld in het eerste lid, is artikel 17a, negende lid, niet van toepassing.  
 
 ### Artikel  118w  
 

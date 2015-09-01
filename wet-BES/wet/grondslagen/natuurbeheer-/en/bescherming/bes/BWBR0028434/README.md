@@ -272,7 +272,7 @@ f. woningen of tot woning bestemde gedeelten van vaartuigen zonder de uitdrukkel
 
 ### Artikel  18a  
 
-1.  De ambtenaren of personen, bedoeld in artikel 18, eerste lid, hebben de beschikking over de bevoegdheden, bedoeld in de [artikelen 53](../../../../../../../../wet-BES/wet/maritiem/beheer/bes/BWBR0028550/README.md) en [55 tot en met 61 van de Wet maritiem beheer BES](../../../../../../../../wet-BES/wet/maritiem/beheer/bes/BWBR0028550/README.md).   
+1.  De ambtenaren of personen, bedoeld in artikel 18, eerste lid, hebben de beschikking over de bevoegdheden, bedoeld in de artikelen 53 en 55 tot en met 61 van de Wet maritiem beheer BES.   
 2.  Het eerste lid is alleen van toepassing waar het betreft de opsporing van overtredingen van beperkingen of verboden opgelegd aan de vaart overeenkomstig artikel 8D, eerste en derde lid.  
 
 ### Artikel  19  
@@ -310,7 +310,7 @@ Onze Minister en het bestuurscollege, voor zover het betreft overtreding van voo
 ### Artikel  23  
 
 1.  Onze Minister of het bestuurscollege, voor zover het betreft overtreding van voorschriften van de openbare lichamen, kan van de overtreder bij dwangbevel de verschuldigde kosten, verhoogd met de op de invordering vallende kosten invorderen.   
-2.  Het dwangbevel wordt op kosten van de overtreder bij deurwaardersexploot betekend en levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md).   
+2.  Het dwangbevel wordt op kosten van de overtreder bij deurwaardersexploot betekend en levert een executoriale titel op in de zin van het Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering BES.   
 3.  Gedurende zes weken na de dag van betekening staat verzet tegen het dwangbevel open door dagvaarding van Staat der Nederlanden of het desbetreffende openbare lichaam.   
 4.  Het verzet schorst de tenuitvoerlegging. Op verzoek van de Staat der Nederlanden of het desbetreffende openbare lichaam kan de rechter in eerste aanleg de schorsing van de tenuitvoerlegging opheffen.  
 
@@ -371,9 +371,9 @@ Onze Minister of het bestuurscollege, voor zover het betreft overtreding van voo
 
 ### Artikel  33  
 
-1.  Handelen in strijd met de voorschriften gegeven bij of krachtens de artikelen 7A, 7B, 8A, 8B, 8C en 8D, eerste en tweede lid, of krachtens artikel 15, en overtreding van de verboden gegeven bij of krachtens de artikelen 7A, 7B, 8A, 8B, 8C en 8D, eerste en tweede lid, of krachtens artikel 15, wordt, voor zover opzettelijk begaan, gestraft met hetzij gevangenisstraf van ten hoogste vier jaren, hetzij geldboete van ten hoogste de zesde categorie van het [Wetboek van Strafrecht BES](../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), hetzij beide straffen.   
-2.  Handelen in strijd met de voorschriften gegeven bij of krachtens de artikelen 7A, 7B, 8A, 8B, 8C en 8D, eerste en tweede lid, of krachtens artikel 15, en overtreding van de verboden gegeven bij of krachtens de artikelen 7A, 7B, 8A, 8B, 8C en 8D, eerste en tweede lid, of krachtens artikel 15, wordt, voor zover niet opzettelijk begaan, gestraft met hetzij hechtenis van ten hoogste een jaar, hetzij geldboete van ten hoogste de vijfde categorie van het [Wetboek van Strafrecht BES](../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), hetzij beide straffen.   
-3.  Handelen in strijd met de bij de artikelen 17, eerste lid, en 19 gegeven voorschriften wordt gestraft met hetzij hechtenis van ten hoogste zes maanden, hetzij een geldboete van de vierde categorie van het [Wetboek van Strafrecht BES](../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), hetzij beide straffen.  
+1.  Handelen in strijd met de voorschriften gegeven bij of krachtens de artikelen 7A, 7B, 8A, 8B, 8C en 8D, eerste en tweede lid, of krachtens artikel 15, en overtreding van de verboden gegeven bij of krachtens de artikelen 7A, 7B, 8A, 8B, 8C en 8D, eerste en tweede lid, of krachtens artikel 15, wordt, voor zover opzettelijk begaan, gestraft met hetzij gevangenisstraf van ten hoogste vier jaren, hetzij geldboete van ten hoogste de zesde categorie van het Wetboek van Strafrecht BES, hetzij beide straffen.   
+2.  Handelen in strijd met de voorschriften gegeven bij of krachtens de artikelen 7A, 7B, 8A, 8B, 8C en 8D, eerste en tweede lid, of krachtens artikel 15, en overtreding van de verboden gegeven bij of krachtens de artikelen 7A, 7B, 8A, 8B, 8C en 8D, eerste en tweede lid, of krachtens artikel 15, wordt, voor zover niet opzettelijk begaan, gestraft met hetzij hechtenis van ten hoogste een jaar, hetzij geldboete van ten hoogste de vijfde categorie van het Wetboek van Strafrecht BES, hetzij beide straffen.   
+3.  Handelen in strijd met de bij de artikelen 17, eerste lid, en 19 gegeven voorschriften wordt gestraft met hetzij hechtenis van ten hoogste zes maanden, hetzij een geldboete van de vierde categorie van het Wetboek van Strafrecht BES, hetzij beide straffen.  
 
 ### Artikel  34  
 
@@ -381,7 +381,7 @@ De in artikel 33, eerste lid, strafbaar gestelde feiten zijn misdrijven; de over
 
 ### Artikel  35  
 
-1.  Onverminderd het bepaalde in de [artikelen 35](../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [36](../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) en [38b tot en met 38d van het Wetboek van Strafrecht BES](../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) worden alle, onverschillig waar, ongeoorloofd aanwezig bevonden specimens, verbeurd verklaard of aan het verkeer onttrokken.   
+1.  Onverminderd het bepaalde in de artikelen 35, 36 en 38b tot en met 38d van het Wetboek van Strafrecht BES worden alle, onverschillig waar, ongeoorloofd aanwezig bevonden specimens, verbeurd verklaard of aan het verkeer onttrokken.   
 2.  Verbeurd verklaarde of aan het verkeer onttrokken specimens worden, met inachtneming van de door Onze Minister gestelde regels, in beheer gegeven aan een daarbij aan te wijzen persoon of instelling.   
 3.  Verbeurd verklaarde of aan het verkeer onttrokken levende specimens als bedoeld in het eerste lid worden met inachtneming van door Onze Minister te stellen regels teruggezet in de natuur.   
 4.  Verbeurd verklaarde of aan het verkeer onttrokken levende specimens die afkomstig zijn uit een lidstaat, worden op kosten van de eigenaar, de vervoerder, de importeur of diens gemachtigde hetzij teruggezonden naar die lidstaat, hetzij verzonden naar een andere lidstaat indien naar het oordeel van Onze Minister aldaar een passender omgeving voor het specimen is gewaarborgd.   

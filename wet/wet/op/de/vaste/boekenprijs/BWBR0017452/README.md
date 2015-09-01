@@ -48,7 +48,7 @@ g. importeur: degene die boeken of muziekuitgaven die in andere landen dan Neder
 
 h. verkoper: degene die door de uitgever of de importeur in het handelsverkeer gebrachte boeken of muziekuitgaven verkoopt aan eindafnemers;  
 
-i. openbare bibliotheek: een bibliotheek als bedoeld in artikel 1, eerste lid, onderdeel d, van de Wet op het specifiek cultuurbeleid;  
+i. lokale bibliotheek: lokale bibliotheek als bedoeld in artikel 1 van de Wet stelsel openbare bibliotheekvoorzieningen;  
 
 j. eindafnemer: degene aan wie de verkoper boeken of muziekuitgaven verkoopt voor eigen gebruik;  
 

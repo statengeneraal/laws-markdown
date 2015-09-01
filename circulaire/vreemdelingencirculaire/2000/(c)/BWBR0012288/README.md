@@ -2549,7 +2549,7 @@ Geen bijzonderheden.
 
 ####Besluitmoratorium
 
-Geen bijzonderheden.   
+Ten aanzien van Oeigoeren afkomstig uit China geldt een besluit in de zin van artikel 43, eerste lid, Vw.   
 ### 8.2  
 
 ####Artikel 1F Vluchtelingenverdrag
@@ -2561,12 +2561,12 @@ Geen bijzonderheden.
 
 ### 8.3.1  
 
-####Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+####Groepsvervolging in de zin van paragraaf C2/3.2 Vc 
 
 Geen bijzonderheden.   
 ### 8.3.2  
 
-####Risicogroepen in de zin van paragraaf C2/3.2 Vc
+####Risicogroepen in de zin van paragraaf C2/3.2 Vc 
 
 Geen bijzonderheden.   
 ### 8.3.3  
@@ -2590,17 +2590,17 @@ e. om andere redenen de negatieve aandacht van de Chinese autoriteiten hebben ge
 
 ### 8.4.1  
 
-####Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+####Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc 
 
 Geen bijzonderheden.   
 ### 8.4.2  
 
-####Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+####Systematische blootstelling in de zin van paragraaf C2/3.3 Vc 
 
 Geen bijzonderheden.   
 ### 8.4.3  
 
-####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc 
 
 Geen bijzonderheden.   
 ### 8.4.4  
@@ -2614,12 +2614,12 @@ De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van ar
 
 ### 8.5.1  
 
-####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4  Vc
+####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc 
 
 Geen bijzonderheden.   
 ### 8.5.2  
 
-####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4  Vc
+####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc 
 
 Geen bijzonderheden.    
 ### 8.6  
@@ -2631,7 +2631,7 @@ In China is adequate opvang in de zin van paragraaf B8/6 Vc.
 
 ####Vertrekmoratorium
 
-Geen bijzonderheden.   
+Ten aanzien van Oeigoeren afkomstig uit China geldt een besluit in de zin van artikel 45, vierde lid, Vw.   
 ### 8.8  
 
 ####Bijzonderheden
