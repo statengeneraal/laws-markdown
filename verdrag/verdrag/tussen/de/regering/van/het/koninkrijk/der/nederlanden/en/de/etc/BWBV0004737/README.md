@@ -4,7 +4,7 @@
 
 ####Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek inzake eilandbrede samenwerking op politiegebied op Sint Maarten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek hierna te noemen „de partijen”, Teneinde: de samenwerking te versterken die in de afgelopen jaren in het grensgebied tussen de met politietaken belaste diensten is ingezet; de samenwerking tussen beide partijen te bevorderen door de mogelijkheden voor grensoverschrijdend optreden ter handhaving van de openbare orde en binnenlandse veiligheid te verruimen;   Zijn het volgende overeengekomen:    
 
@@ -12,13 +12,13 @@ De Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Repu
 
 ####BEGRIPSOMSCHRIJVINGEN EN DOELEN VAN DE SAMENWERKING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  1  
 
 ####Begripsomschrijvingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 In dit Verdrag wordt verstaan onder: 
 
@@ -30,7 +30,7 @@ b) „gerechtelijk onderzoek”: onderzoek ten aanzien van een feit waarvoor str
 
 ####Bevoegde diensten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 De bevoegde diensten ten behoeve van dit Verdrag zijn, voor zover het hem betreft: 
 
@@ -48,7 +48,7 @@ Voor de Nederlandse partij:
 
 ####Gebied van de eilandbrede samenwerking
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Voor de toepassing van dit Verdrag bestaat het bevoegdheidsgebied van Sint Maarten uit: 
 
@@ -60,7 +60,7 @@ Voor de Nederlandse partij: het grondgebied van Sint Maarten, met inbegrip van d
 
 ####Doelen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  De partijen gaan, onder eerbiediging van hun respectieve soevereiniteit en van de taak van de territoriaal bevoegde bestuurlijke en rechterlijke autoriteiten, over tot eilandbrede samenwerking tussen de met politietaken belaste diensten, zulks door middel van de formulering van nieuwe vormen van samenwerking en door middel van een rechtstreekse samenwerking tussen overeenkomstige diensten.   
 2.  Deze samenwerking krijgt haar beslag in het kader van de bestaande structuren en bevoegdheden en onder eerbiediging van de algemene bepalingen die op de internationale politiesamenwerking van toepassing zijn.  
@@ -69,13 +69,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####BIJZONDERE BEPALINGEN VOOR DE POLITIESAMENWERKING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  5  
 
 ####Bijstand op verzoek
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  De partijen komen overeen dat hun diensten elkaar bijstand verlenen, onder eerbiediging van hun nationale wetgeving en binnen de grenzen van hun bevoegdheden, teneinde strafbare feiten te voorkomen en op te sporen, voor zover het nationale recht het verzoek niet voorbehoudt aan de rechterlijke autoriteiten en het verzoek en de uitvoering ervan geen toepassing van dwangmaatregelen door de aangezochte partij met zich meebrengen. Indien de aangezochte diensten niet bevoegd zijn om een verzoek uit te voeren, zenden zij het verzoek door naar de bevoegde autoriteiten en brengen zij de verzoekende autoriteiten hiervan op de hoogte.   
 2.  Zonder afbreuk te doen aan de algemene bevoegdheden van de nationale centrale autoriteiten kunnen de in artikel 2 bedoelde diensten elkaar, in het kader van hun respectieve bevoegdheden, in het bijzonder verzoeken om bijstand toezenden betreffende het handhaven van de openbare orde, de bestrijding van illegale immigratie en van alle andere vormen van criminaliteit, in het bijzonder op de volgende gebieden: 
@@ -109,7 +109,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Bijstand op eigen initiatief
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 De bevoegde diensten van de partijen kunnen, onder eerbiediging van hun nationale wetgeving en zonder hierom te worden verzocht, aan de andere partij inlichtingen doen toekomen die deze partij zouden kunnen helpen concrete bedreigingen van de veiligheid en openbare orde te voorkomen of strafbare feiten te bestrijden. De overbrenging van de inlichtingen vindt plaats overeenkomstig het eerste en derde lid van artikel 5. 
 
@@ -117,7 +117,7 @@ De bevoegde diensten van de partijen kunnen, onder eerbiediging van hun national
 
 ####Detachering van verbindingsfunctionarissen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  De partijen kunnen bijzondere regelingen treffen voor de detachering, voor bepaalde of onbepaalde duur, van verbindingsfunctionarissen bij de diensten van de andere partij.   
 2.  De detachering van verbindingsfunctionarissen heeft ten doel de samenwerking tussen de partijen te bevorderen en te versnellen, in het bijzonder door bijstand te verlenen: 
@@ -131,13 +131,13 @@ b) bij de uitvoering van verzoeken om samenwerking tussen de bevoegde diensten.
 
 ####RECHTSTREEKSE SAMENWERKING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  8  
 
 ####Samenwerking tussen operationele eenheden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  De bevoegde diensten van de partijen: 
 
@@ -156,7 +156,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Tussentijdse balans van de samenwerking
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 De bevoegde diensten van beide partijen komen bijeen wanneer de operationele inzet dat vereist. Daarbij: 
 
@@ -182,13 +182,13 @@ De bevoegde diensten van beide partijen komen bijeen wanneer de operationele inz
 
 ####WEDERZIJDSE BIJSTAND
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  10  
 
 ####Bijstand in relatie tot de openbare orde
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 De bevoegde diensten van beide partijen verlenen elkaar, binnen de grenzen van hun nationale recht, wederzijdse bijstand bij grootschalige evenementen of belangrijke gebeurtenissen, in geval van rampen alsmede ernstige ongevallen of feiten die het leven of de fysieke integriteit van personen kunnen bedreigen: 
 
@@ -202,7 +202,7 @@ c) door, voor zover mogelijk, bijstand te leveren in de vorm van interventiedeta
 
 ####Instructie, opleiding en technische bijstand
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Op verzoek kan de ene partij aan de andere partij bepaalde infrastructuur of bijzondere middelen ter beschikking stellen ten behoeve van opleidingsdoeleinden of ter ondersteuning van operationele maatregelen. Op dezelfde wijze kunnen gezamenlijke opleidingen op het gebied van interventie of opleidingen waarvoor specialistische kennis vereist is worden opgezet, teneinde de operationele capaciteit van het personeel van beide partijen te verbeteren. Ten behoeve van de toepassing van dit artikel worden de voorwaarden voor de terbeschikkingstelling van middelen en uitwisselingen vastgelegd in technische regelingen. 
 
@@ -210,10 +210,10 @@ Op verzoek kan de ene partij aan de andere partij bepaalde infrastructuur of bij
 
 ####GRENSOVERSCHRIJDENDE OBSERVATIE
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  12  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  De functionarissen van een van de partijen die, in het kader van een gerechtelijk onderzoek, een persoon observeren die vermoedelijk heeft deelgenomen aan een feit waarop, volgens het recht van de aangezochte partij, een gevangenisstraf van ten minste een jaar staat, of wanneer er gegronde redenen bestaan om aan te nemen dat de geobserveerde persoon, ten behoeve van een gerechtelijk onderzoek, kan meewerken aan de identificatie of het aanduiden van de verblijfplaats van een dergelijke persoon, zijn bevoegd de grensoverschrijdende observatie voort te zetten op basis van een vooraf ingediend verzoek om wederzijdse rechtshulp. Op verzoek wordt de observatie opgedragen aan de functionarissen van de partij op het grondgebied waarvan de observatie plaatsvindt.   
 2.  Indien op grond van bijzonder spoedeisende redenen niet vooraf om de toestemming van de partij kan worden verzocht, zijn de observerende functionarissen bevoegd de observatie over de grens voort te zetten, mits aan de volgende voorwaarden wordt voldaan: 
@@ -262,10 +262,10 @@ i) de voor de observatie benodigde technische middelen worden gebruikt overeenko
 
 ####GRENSOVERSCHRIJDENDE ACHTERVOLGING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  13  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  De functionarissen van de partijen zijn bevoegd de achtervolging zonder voorafgaande toestemming voort te zetten op het grondgebied van de andere partij wanneer het, vanwege het bijzonder spoedeisende karakter, niet mogelijk was de bevoegde autoriteiten van deze laatste partij voorafgaand aan de binnenkomst op hun grondgebied via een van de door beide partijen overeengekomen communicatiemiddelen te waarschuwen of wanneer deze autoriteiten niet tijdig ter plaatse hebben kunnen zijn om de achtervolging in hun land over te nemen; deze toestemming wordt verleend voor de achtervolging van personen op wie een van de volgende situaties van toepassing is: 
 
@@ -302,10 +302,10 @@ d) het zesde lid van artikel 12, met uitzondering van onderdeel c, is van overee
 
 ####GEMENGDE PATROUILLES BINNEN HET GEBIED VAN DE EILANDBREDE SAMENWERKING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  14  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  De functionarissen van de bevoegde diensten in de zin van artikel 2 van dit Verdrag kunnen deelnemen aan gemengde patrouilles binnen het in artikel 3 omschreven gebied van eilandbrede samenwerking.   
 2.  De taken van de gemengde patrouilles bestaan uit rechtstreekse grensoverschrijdende samenwerking ter voorkoming van bedreigingen van de openbare orde, ter bestrijding van illegale handel en illegale immigratie en elke vorm van criminaliteit alsmede ter waarborging van de grensbewaking.   
@@ -317,10 +317,10 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####UITVOEREN VAN OVERHEIDSTAKEN DOOR DE FUNCTIONARISSEN VAN EEN VAN DE PARTIJEN OP HET GRONDGEBIED VAN DE ANDERE PARTIJ
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  15  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 Indien spoedeisende maatregelen dienen te worden getroffen om bedreigingen van de veiligheid en de openbare orde af te wenden of strafbare feiten te bestrijden, mogen de functionarissen van een partij die uit hoofde van de bepalingen van dit Verdrag op het grondgebied van de andere partij optreden, overheidstaken uitvoeren onder toezicht en operationele begeleiding van de bevoegde dienst van de partij op het grondgebied waarvan de taak wordt uitgevoerd. 
 
@@ -328,13 +328,13 @@ Indien spoedeisende maatregelen dienen te worden getroffen om bedreigingen van d
 
 ####ALGEMENE BEPALINGEN 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 ### Artikel  16  
 
 ####Rechtspositie van de functionarissen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  De functionarissen die op het grondgebied van de andere partij hun taken uit hoofde van de bepalingen van dit Verdrag uitvoeren, blijven vallen onder hun oorspronkelijke hiërarchie, maar eerbiedigen het interne reglement van de eenheid waarbij zij zijn gedetacheerd.   
 2.  Elke partij biedt de functionarissen van de andere partij die bij haar eenheden zijn gedetacheerd of taken op haar grondgebied uitvoeren, dezelfde bescherming en bijstand die haar eigen functionarissen worden geboden.   
@@ -346,7 +346,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Bescherming van persoonsgegevens
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Op de in dit Verdrag bedoelde samenwerkingsgebieden worden persoonsgegevens verzameld, behandeld, medegedeeld en ter inzage gegeven onder eerbiediging van de nationale en internationale bepalingen die op gegevensbescherming van toepassing zijn. Deze gegevens dienen in het bijzonder: 
 
@@ -369,7 +369,7 @@ f) toegankelijk te zijn voor iedere persoon die zich kan legitimeren, voor zover
 
 ####Financiële bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 De bepalingen van dit Verdrag dienen te worden verstaan in het kader en binnen de grenzen van de budgettaire middelen van elk van de partijen. 
 
@@ -377,7 +377,7 @@ De bepalingen van dit Verdrag dienen te worden verstaan in het kader en binnen d
 
 ####Ontheffing van de formaliteiten met betrekking tot vreemdelingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 De functionarissen die hun taken op het grondgebied van de andere partij uitoefenen, zijn niet onderworpen aan de bepalingen inzake immigratiebeperking, vreemdelingenregistratie en formaliteiten die verband houden met het vervoer van het materieel en de bewapening die voor de uitvoering van hun taken nodig zijn. 
 
@@ -385,7 +385,7 @@ De functionarissen die hun taken op het grondgebied van de andere partij uitoefe
 
 ####Geschillenregeling
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Geschillen die verband houden met de toepassing of de uitlegging van dit Verdrag worden in overleg tussen de autoriteiten van beide partijen geregeld.   
 2.  Elke partij kan een bijeenkomst van deskundigen van de partijen verlangen voor het oplossen van vraagstukken die verband houden met de toepassing van dit Verdrag en voor het indienen van voorstellen voor de ontwikkeling van de samenwerking.  
@@ -394,7 +394,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Inwerkingtreding, duur en opzegging
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 1.  Elk van de partijen stelt de andere partij in kennis van de voltooiing van haar grondwettelijke vereisten voor de inwerkingtreding van dit Verdrag. Het Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de datum van ontvangst van de tweede kennisgeving.   
 2.  Wat betreft de Nederlandse partij is dit Verdrag uitsluitend van toepassing op het eilandgebied Sint Maarten van de Nederlandse Antillen.   
@@ -406,7 +406,7 @@ TEN BLIJKE WAARVAN de vertegenwoordigers van beide Regeringen, daartoe naar beho
 
 ####Categorieën strafbare feiten waarvoor spoedeisende grensoverschrijdende observatie wordt toegestaan
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 – moord en doodslag, zware mishandeling,  
 
@@ -472,7 +472,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Categorieën strafbare feiten waarvoor grensoverschrijdende achtervolging wordt toegestaan
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-10-2015 
 
 – moord en doodslag, zware mishandeling,  
 

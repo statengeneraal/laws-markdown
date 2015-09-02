@@ -434,7 +434,7 @@ c. de verzekerde van wie de dienstbetrekking, bedoeld in artikel 3, binnen het i
 
 d. de verzekerde die:
 
-1°.op grond van artikel 7, onderdeel a, als werknemer wordt beschouwd, vanaf de eerste dag van de veertiende week van de ongeschiktheid tot werken of zo veel eerder als de uitkering, bedoeld in dat onderdeel, eindigt op grond van artikel 20, eerste lid, onderdeel a, b, d of e, van de Werkloosheidswet;
+1°.op grond van artikel 7, onderdeel a, als werknemer wordt beschouwd, vanaf de eerste dag van de veertiende week van de ongeschiktheid tot werken of zo veel eerder als de uitkering, bedoeld in dat onderdeel, eindigt op grond van artikel 20, eerste lid, onderdeel a of b, van de Werkloosheidswet;
 
 2°.op grond van artikel 7, onderdeel b, als werknemer wordt beschouwd, vanaf de eerste dag van de ongeschiktheid tot werken;  
 
@@ -447,7 +447,7 @@ g. de werknemer, bedoeld in de artikelen 29b en 29d.
 4.   Geen ziekengeld wordt uitgekeerd op en na de dag waarop de verzekerde de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, bereikt alsmede over de periode waarover de verzekerde een uitkering op grond van artikel 3:7, tweede lid, 3:9 of 3:10, tweede en derde lid van de Wet arbeid en zorg ontvangt.    
 5.   Geen ziekengeld wordt uitgekeerd nadat een tijdvak van 104 weken van ongeschiktheid tot werken is verstreken, te rekenen vanaf de eerste dag van de ongeschiktheid tot werken. Voor het bepalen van dit tijdvak worden tijdvakken van ongeschiktheid tot werken samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen of indien zij direct voorafgaan aan en aansluiten op een periode waarin uitkering in verband met zwangerschap of bevalling op grond van artikel 3:7, eerste lid, 3:8 of 3:10, eerste lid, van de Wet arbeid en zorg wordt genoten, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak. In de gevallen waarin de tweede volzin toepassing vindt, worden gedurende de desbetreffende periode van 104 weken de eerste twee dagen van de ongeschiktheid tot werken, waarover op grond van het tweede lid, onderdelen a, b en c, geen ziekengeld wordt uitgekeerd, slechts eenmaal in aanmerking genomen.  
 6. Geen ziekengeld wordt uitgekeerd voor zover de verzekerde, bedoeld in het tweede lid, onderdeel e, artikel 29a, artikel 29b of artikel 29d, door toepassing van artikel 629, derde lid, van Boek 7 van het Burgerlijk Wetboek geen recht heeft op loon dan wel op grond van artikel 76b, tweede lid, geen recht heeft op bezoldiging.  
-7.   Het ziekengeld, bedoeld in het tweede lid, onderdelen a tot en met d, bedraagt 70% van het dagloon van de verzekerde.    
+7.  Het ziekengeld, bedoeld in het tweede lid, onderdelen a tot en met c, en onderdeel d, onder 2°, bedraagt 70% van het dagloon van verzekerde. Het ziekengeld, bedoeld in het tweede lid, onderdeel d, onder 1°, wordt vastgesteld overeenkomstig artikel 47, eerste lid, onderdeel b, van de Werkloosheidswet, hierbij zijn de bepalingen met betrekking tot dagloon, maandloon en inkomen van artikel 1b van de Werkloosheidswet en de daarop berustende bepalingen van overeenkomstige toepassing. Bij deze vaststelling blijft artikel 31, tweede lid, buiten toepassing met dien verstande dat het loon, bedoeld in artikel 30, tweede lid, aangemerkt wordt als inkomen als bedoeld in artikel 47 van de Werkloosheidswet.   
 8.   Het ziekengeld, bedoeld in het tweede lid, onderdeel e, wordt gesteld op het dagloon.    
 9.   Het Uitvoeringsinstituut werknemersverzekeringen kan nadere regels stellen met betrekking tot het tweede lid, onderdeel e.   
 10.  Het tijdvak van 104 weken, bedoeld in het vijfde lid, wordt verlengd met de duur van het tijdvak dat het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 26, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen of artikel 71b, derde lid, van de Wet op de arbeidsongeschiktheidsverzekering heeft vastgesteld.  
@@ -603,9 +603,8 @@ b. in voldoende mate te trachten passende arbeid te verkrijgen; en
 c. geen eisen te stellen in verband met door hem te verrichten arbeid die het aanvaarden of verkrijgen van passende arbeid belemmeren.     
 2.  Weigert de werknemer die aanspraak maakt op ziekengeld zonder deugdelijke grond de arbeid, bedoeld in het eerste lid, te verrichten, dan wordt het loon dat hij zou hebben ontvangen indien hij deze arbeid wel verricht had, beschouwd als inkomen als bedoeld in artikel 31, eerste lid.   
 3.  Het Uitvoeringsinstituut werknemersverzekeringen kan de in het eerste lid bedoelde werknemer verplichten zich als werkzoekende te laten registreren en die registratie tijdig te doen verlengen, indien hem daartoe het recht toekomt op grond van artikel 30b van de Wet structuur uitvoeringsorganisatie werk en inkomen.  
-4. Het Uitvoeringsinstituut werknemersverzekeringen en de door hem daartoe aangewezen deskundige kunnen degene aan wie ziekengeld is toegekend voorschriften geven in het belang van een behandeling of van genezing dan wel voorzover dit voortvloeit uit de taak, bedoeld in artikel 30 van de Wet structuur uitvoeringsorganisatie werk en inkomen, tot behoud, herstel en bevordering van de mogelijkheid tot het verrichten van arbeid.
-5. Als passende arbeid als bedoeld in het eerste lid wordt beschouwd alle arbeid die voor de krachten en bekwaamheden van de werknemer is berekend, tenzij aanvaarding om redenen van lichamelijke, geestelijke of sociale aard niet van hem kan worden gevergd. Niet als passende arbeid wordt beschouwd arbeid op grond van een arbeidsovereenkomst als bedoeld in hoofdstuk 2 van de Wet sociale werkvoorziening.
-6. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent het begrip passende arbeid, bedoeld in het eerste en vijfde lid.
+4. Het Uitvoeringsinstituut werknemersverzekeringen en de door hem daartoe aangewezen deskundige kunnen degene aan wie ziekengeld is toegekend voorschriften geven in het belang van een behandeling of van genezing dan wel voorzover dit voortvloeit uit de taak, bedoeld in artikel 30 van de Wet structuur uitvoeringsorganisatie werk en inkomen, tot behoud, herstel en bevordering van de mogelijkheid tot het verrichten van arbeid. 
+5.  Onder passende arbeid als bedoeld in het eerste lid wordt, gedurende de eerste periode van zes maanden waarin recht bestaat op ziekengeld, verstaan arbeid die aansluit bij de arbeid waaruit de werknemer ziek is geworden. Na deze periode van zes maanden is alle arbeid die voor de krachten en bekwaamheden van de werknemer is berekend, passend, tenzij aanvaarding om redenen van lichamelijke, geestelijke of sociale aard niet van hem kan worden gevergd. Niet als passend wordt beschouwd arbeid op grond van een dienstbetrekking als bedoeld in hoofdstuk 2 van de Wet sociale werkvoorziening of arbeid op grond waarvan men niet als werknemer in de zin van de Werkloosheidswet wordt aangemerkt. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent het begrip passende arbeid, waarbij tevens wordt bepaald op welke wijze wordt vastgesteld of arbeid aansluit bij de arbeid waaruit de werknemer ziek is geworden, alsmede in welke gevallen een periode waarin een recht op uitkering op grond van de Werkloosheidswet bestaat, wordt meegeteld bij de vaststelling van de periode, bedoeld in de eerste zin. 
 
 ### Artikel  30aa  
 
@@ -864,7 +863,7 @@ b. een maatregel op grond van artikel 27, vierde lid, van de Werkloosheidswet wo
 c. een bestuurlijke boete als bedoeld in artikel 27a van de Werkloosheidswet wordt opgelegd.     
 6.  Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste en het tweede lid.   
 7. Onder benadeling als bedoeld in het eerste lid, onderdeel j, wordt mede verstaan de situatie dat de verzekerde zonder deugdelijke grond heeft nagelaten verweer te voeren tegen of heeft ingestemd met een beëindiging van de dienstbetrekking in de periode, bedoeld in artikel 29, eerste lid. 
-8. Indien aan de persoon, bedoeld in artikel 29, tweede lid, onderdeel d, aanhef en onder 1°, in de eerste dertien weken van zijn ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte een maatregel op grond van artikel 27, vierde lid, van de Werkloosheidswet is opgelegd, wordt de beschikking waarbij die maatregel is opgelegd vanaf de eerste dag van de veertiende week van zijn ongeschiktheid of zoveel eerder als de uitkering op grond van de Werkloosheidswet eindigt op grond van het bepaalde in artikel 20, eerste lid, onderdelen a, b, d of e, van de Werkloosheidswet, geacht gebaseerd te zijn op het eerste lid.
+8. Indien aan de persoon, bedoeld in artikel 29, tweede lid, onderdeel d, aanhef en onder 1°, in de eerste dertien weken van zijn ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte een maatregel op grond van artikel 27, vierde lid, van de Werkloosheidswet is opgelegd, wordt de beschikking waarbij die maatregel is opgelegd vanaf de eerste dag van de veertiende week van zijn ongeschiktheid of zoveel eerder als de uitkering op grond van de Werkloosheidswet eindigt op grond van het bepaalde in artikel 20, eerste lid, onderdelen a en b, van de Werkloosheidswet, geacht gebaseerd te zijn op het eerste lid.
 
 ### Artikel  45a  
 
@@ -1571,6 +1570,16 @@ Artikel 19aa is niet van toepassing op de verzekerde die:
 a. verzekerd is op grond van artikel 16 van de Wet op de arbeidsongeschiktheidsverzekering; of  
 
 b. recht heeft op toekenning of heropening van een arbeidsongeschiktheidsuitkering op grond van de artikelen 19a, 20, 43a onderscheidenlijk 47, 47a of 47b van die wet.   
+
+### Artikel  102  
+
+1.  Artikel 29, zevende lid, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel XXVIII, onderdeel A, van de Wet werk en zekerheid, blijft van toepassing met betrekking tot de werknemer wiens eerste dag van werkloosheid op grond van de Werkloosheidswet is gelegen voor die inwerkingtreding mits het recht op uitkering van ziekengeld, bedoeld in artikel 29, tweede lid, is ontstaan voor de omzetting, bedoeld in artikel 130z, tweede lid of 130aa, eerste lid, van de Werkloosheidswet.   
+2.  Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.  
+
+### Artikel  103  
+
+1.  Artikel 30, vijfde en zesde lid, en de daarop berustende bepalingen zoals deze luidden op de dag voor de datum waarop artikel XXVIII, onderdeel B, van de Wet werk en zekerheid inwerking is getreden, blijven van toepassing op een recht op uitkering waarvan de eerste ziektedag is gelegen voor de dag van inwerkingtreding.   
+2.  Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.  
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    
 
