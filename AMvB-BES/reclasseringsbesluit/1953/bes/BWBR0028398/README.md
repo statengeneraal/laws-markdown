@@ -14,14 +14,14 @@
 
 *Onze Minister:* Onze Minister van Justitie;  
 
-*Raad:* de Raad voor de rechtshandhaving bedoeld in [artikel 2 van de Rijkswet Raad voor de rechtshandhaving](../../../../../rijkswet/rijkswet/raad/voor/de/rechtshandhaving/BWBR0028075/README.md);  
+*Raad:* de Raad voor de rechtshandhaving bedoeld in artikel 2 van de Rijkswet Raad voor de rechtshandhaving;  
 
 *gestichtshoofd:* het hoofd van de betreffende strafgevangenis of het betreffende huis van bewaring;  
 
 *voorwaardelijke veroordeling:* de veroordeling waarbij de straf, tenzij de rechter later anders beveelt, geheel of gedeeltelijk niet zal worden ten uitvoer gelegd;  
 
 *voorwaardelijk veroordeelde:* de veroordeelde bij zodanige veroordeling.     
-2.  Dit besluit berust op de artikelen 17d en 20 van het Wetboek van Strafrecht BES en [artikel 15 van de Gratiewet](../../../../../wet/gratiewet/BWBR0004257/README.md).  
+2.  Dit besluit berust op de artikelen 17d en 20 van het Wetboek van Strafrecht BES en artikel 15 van de Gratiewet.  
 
 ### Artikel  2  
 

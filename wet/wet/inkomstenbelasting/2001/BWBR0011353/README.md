@@ -2084,9 +2084,9 @@ b. uitkeringen op grond van de Algemene Kinderbijslagwet en het kindgebonden bud
 
 c. uitkeringen ingevolge artikel 4.3 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten;  
 
-d. uitkeringen in de vorm van een gift of een voorwaardelijke gift ingevolge de Wet studiefinanciering 2000;  
+d. uitkeringen in de vorm van een gift ingevolge de Wet studiefinanciering 2000;  
 
-e. uitkeringen als bedoeld in de artikelen 7.51 tot en met 7.51f, 7.51h, 7.51j, 7.51k, eerste en tweede lid, en 17.10 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;   
+e. uitkeringen als bedoeld in de artikelen 7.51 tot en met 7.51f, 7.51h, 7.51j en 7.51k, eerste en tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;   
 
 f. uitkeringen en verstrekkingen op grond van de Participatiewet die zijn bedoeld ter dekking van bepaalde noodzakelijke kosten, waaronder begrepen uitkeringen als bedoeld in artikel 36 van die wet;  
 
@@ -2292,7 +2292,7 @@ c. ter betaling van de kosten ter verkrijging van de schulden, bedoeld in de ond
 
 a. het positieve bedrag van de eigenwoningreserve, bedoeld in artikel 3.119aa, direct voorafgaand aan het moment waarop de woning ten aanzien van de belastingplichtige als een eigen woning wordt aangemerkt, onderscheidenlijk direct voorafgaand aan de verbetering, het onderhoud of de afkoop;  
 
-b. hetgeen met toepassing van de artikel 33, onderdelen 5° en 6°, van de Successiewet 1956 en artikel 33a, eerste lid, van de Successiewet 1956, zoals dat op 31 december 2014 luidde, ter zake van die verwerving, verbetering, dat onderhoud of die afkoop aan vrijstelling is genoten.     
+b. hetgeen met toepassing van artikel 33, onderdelen 5° en 6°, van de Successiewet 1956 en artikel 33a, eerste lid, van de Successiewet 1956, zoals dat op 31 december 2014 luidde, ter zake van die verwerving, verbetering, dat onderhoud of die afkoop aan vrijstelling is genoten.     
 4.  Indien de belastingplichtige een eigen woning verwerft die bestemd is om hem en zijn partner anders dan tijdelijk als hoofdverblijf ter beschikking te staan, wordt, indien hun voordien reeds tezamen een woning anders dan tijdelijk als hoofdverblijf ter beschikking heeft gestaan en de partner ten aanzien van die eerdere woning een vervreemdingssaldo eigen woning heeft behaald, de op grond van het eerste lid berekende eigenwoningschuld van de belastingplichtige verlaagd, doch niet verder dan tot nihil, met de eigenwoningreserve, bedoeld in artikel 3.119aa, van de partner waarbij, indien de partner de woning mede heeft verworven, wordt uitgegaan van de eigenwoningreserve na toepassing van artikel 3.119aa met betrekking tot de partner. De in de eerste volzin bedoelde verlaging van de eigenwoningschuld wordt toegepast tot het moment waarop de woning hun niet meer gezamenlijk anders dan tijdelijk als hoofdverblijf ter beschikking staat.   
 5.  Op een schuld aan een aannemer of projectontwikkelaar die is ontstaan door het sluiten van een koop- of aannemingsovereenkomst, zijn de voorwaarden van het eerste lid, onderdelen b, c en d, niet van toepassing tot het moment van aflossen van die schuld dan wel, indien dat eerder is, het moment van levering van de onroerende zaak. Artikel 3.119c, derde lid, vindt geen toepassing voor zover de in dat lid bedoelde schuld die laatstelijk heeft bestaan een schuld als bedoeld in de eerste volzin betrof.  
 6.  Tot de eigenwoningschuld behoren niet: 
@@ -4402,10 +4402,12 @@ c.  *promotiekosten:* de kosten van publicatie van het proefschrift alsmede de k
 
 ####Beperkingen
 
-1.  Scholingsuitgaven komen niet voor aftrek in aanmerking voor zover voor een opleiding of studie aan de belastingplichtige vrijgestelde uitkeringen en verstrekkingen als bedoeld in artikel 3.104, onderdelen d, e, h, onder 3°, m en q, worden verstrekt.   
-2.  Scholingsuitgaven komen niet voor aftrek in aanmerking voor zover voor de desbetreffende opleiding of studie aan de belastingplichtige een prestatiebeurs als bedoeld in de artikelen 4.7, eerste en tweede lid, of 5.2, eerste lid, van de Wet studiefinanciering 2000 is toegekend.   
-3.  Indien de prestatiebeurs, bedoeld in het tweede lid, op grond van de bepalingen in hoofdstuk 4, onderscheidenlijk hoofdstuk 5, van de Wet studiefinanciering 2000 definitief niet wordt omgezet in een gift, komen de scholingsuitgaven die op grond van het tweede lid niet voor aftrek in aanmerking zijn gekomen, alsnog voor aftrek in aanmerking in het jaar waarin die prestatiebeurs definitief niet wordt omgezet in een gift.   
-4.  De ingevolge het derde lid in aanmerking te nemen scholingsuitgaven worden gesteld op een bedrag van € 2.443 per studiejaar voor het hoger onderwijs en op een bedrag van € 1.693 per studiejaar voor het beroepsonderwijs waarop de prestatiebeurs, bedoeld in het tweede lid, die definitief niet wordt omgezet in een gift betrekking heeft dan wel, indien dit lager is, op het bedrag van die prestatiebeurs. Indien de omzetting van de prestatiebeurs niet het gehele studiejaar betreft worden de in de eerste volzin opgenomen bedragen naar tijdsgelang herrekend. 
+1.  Scholingsuitgaven komen niet voor aftrek in aanmerking indien: 
+
+a. de belastingplichtige voor de desbetreffende opleiding of studie aanspraak heeft op studiefinanciering als bedoeld in artikel 3.1, eerste of tweede lid, van de Wet studiefinanciering 2000 of indien deze op grond van enige overgangsbepaling opgenomen in die wet een overeenkomstige aanspraak op studiefinanciering heeft, of  
+
+b. aan de belastingplichtige uitkeringen en verstrekkingen als bedoeld in artikel 3.104, onderdelen e, m of q, worden verstrekt.     
+2.  Scholingsuitgaven komen niet voor aftrek in aanmerking voor zover voor een opleiding of studie aan de belastingplichtige uitkeringen en verstrekkingen als bedoeld in artikel 3.104, onderdeel h, onder 3°, worden verstrekt. 
 
 ### Artikel  6.30  
 
@@ -5000,7 +5002,7 @@ b. indien de belastingplichtige een niet in Nederland wonende artiest of beroeps
 
 ####Inflatiecorrectie
 
-1. Bij het begin van het kalenderjaar worden de in de artikelen 2.10, 2.10a, 3.15, eerste lid, 3.41, 3.42, 3.47, 3.77, 3.87, 3.125, 3.126a, 3.127, tweede lid, 3.129, 3.133, 5.3, 5.5, 5.6, 5.10, 5.13, 6.17, derde lid, 6.20, 6.28, 8.10, 8.11, tweede lid, eerste volzin, onderdeel a, 8.14a, 8.16a, 8.17, 8.18, 9.4 en 10.7 vermelde bedragen, het in artikel 3.127, derde lid, laatst vermelde bedrag en het in artikel 8.11, tweede lid, eerste volzin, onderdeel b, als tweede vermelde bedrag bij ministeriële regeling vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de tabelcorrectiefactor en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.  
+1. Bij het begin van het kalenderjaar worden de in de artikelen 2.10, 2.10a, 3.15, eerste lid, 3.41, 3.42, 3.47, 3.77, 3.87, 3.125, 3.126a, 3.127, tweede lid, 3.129, 3.133, 5.3, 5.5, 5.6, 5.10, 5.13, 6.17, derde lid, 6.20, 8.10, 8.11, tweede lid, eerste volzin, onderdeel a, 8.14a, 8.16a, 8.17, 8.18, 9.4 en 10.7 vermelde bedragen, het in artikel 3.127, derde lid, laatst vermelde bedrag en het in artikel 8.11, tweede lid, eerste volzin, onderdeel b, als tweede vermelde bedrag bij ministeriële regeling vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de tabelcorrectiefactor en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.  
 2.  In afwijking in zoverre van het eerste lid, tweede volzin, wordt het bedrag dat is vermeld in de tweede regel van de tweede kolom en in de derde regel van de eerste kolom van de tabel in artikel 2.10, eerste lid, berekend door het te vervangen bedrag te vermenigvuldigen met de uitkomst van de formule: 1 + (75% x (tabelcorrectiefactor – 1)). 
 
 ###Artikel 10.2 
@@ -5511,8 +5513,6 @@ Indien het aantal kalenderjaren tussen 1 januari 2015 en het moment waarop arti
 ### Artikel  10a.16  
 
 ####Overgangsbepaling scholingsuitgaven studiejaren tot en met het studiejaar 2014/2015
-
-Treedt in werking per 01-07-2015 
 
 Artikel 6.28, zoals dat luidde op 30 juni 2015, blijft van toepassing op scholingsuitgaven die betrekking hebben op studiejaren tot en met het studiejaar 2014/2015. 
 

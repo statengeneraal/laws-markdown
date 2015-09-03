@@ -200,7 +200,7 @@ Vervallen per 01-10-2010
 
 ### Afdeling  3.5  
 
-####Inpassingsplannen van provincie en rijk
+####Inpassingsplannen van provincie en Rijk
 
 ### §  3.5.1  
 
@@ -420,7 +420,7 @@ b. bouwwerken te slopen.
 
 ### Afdeling  4.2  
 
-####Algemene regels en aanwijzingen van het rijk
+####Algemene regels en aanwijzingen van het Rijk
 
 ### Artikel  4.3  
 
@@ -565,37 +565,7 @@ Artikel 6.8 is van overeenkomstige toepassing indien ten behoeve van belangen, u
 
 ####Subsidies
 
-### Artikel  6.10  
-
-1.  Onze Minister of Onze Minister wie het aangaat, in overeenstemming met Onze Minister, kan ter uitvoering van het nationaal ruimtelijk beleid subsidies verstrekken ten behoeve van: 
-
-a. de ontwikkeling of vaststelling van ruimtelijke visies en plannen van provincies of gemeenten;  
-
-b. de voorbereiding van projecten of activiteiten die voor de uitvoering van het nationaal ruimtelijk beleid van strategisch belang zijn;  
-
-c. de verwezenlijking van projecten of activiteiten die voor de uitvoering van het nationaal ruimtelijk beleid van strategisch belang zijn.     
-2.  Onze Minister kan tevens subsidies verstrekken ten behoeve van bij een algemene maatregel van bestuur als bedoeld in artikel 4.3 aangewezen activiteiten ter uitvoering van bij of krachtens die maatregel gestelde regels.  
-
-### Artikel  6.11  
-
-1.  Bij of krachtens algemene maatregel van bestuur worden regels gegeven met betrekking tot de wijze van verdeling van de subsidiegelden.   
-2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gegeven met betrekking tot: 
-
-a. de vaststelling van een subsidieplafond, het tijdvak waarvoor het subsidieplafond is vastgesteld, alsmede de wijze waarop dit bekend wordt gemaakt;  
-
-b. de subsidieverlening;  
-
-c. de gevallen waarin subsidie wordt geweigerd;  
-
-d. de verplichtingen van de subsidie-ontvanger;  
-
-e. de subsidievaststelling;  
-
-f. het intrekken of het ten nadele van de subsidie-ontvanger wijzigen van de subsidie zolang deze niet is vastgesteld;  
-
-g. de betaling van de subsidie;  
-
-h. het verlenen van voorschotten en de betaling daarvan.    
+Vervallen per 01-07-2015 
 
 ### Afdeling  6.4  
 

@@ -5,7 +5,7 @@
 De Minister van Economische Zaken, Landbouw en Innovatie,  
 Handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, de Minister en Staatssecretaris van Financiën, de Minister van Infrastructuur en Milieu en de Minister van Volksgezondheid, Welzijn en Sport;
 
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](../../../../../../../../wet/wet/vergoedingen/adviescolleges/en/commissies/BWBR0024775/README.md);
+Gelet op artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies;
 Besluit:    
 
 ### Artikel  1  
@@ -27,8 +27,7 @@ b.  *commissie:* een topteam als genoemd in artikel 2, eerste tot en met tiende 
 7.  Er is een Topteam Logistiek.   
 8.  Er is een Topteam Tuinbouw en Uitgangsmaterialen.   
 9.  Er is een Topteam Water.   
-10.  Er is een Topteam Hoofdkantoren.   
-11.  Een topteam als genoemd in het eerste tot en met tiende lid, heeft tot taak om: 
+10.  Een topteam als genoemd in het eerste tot en met negende lid, heeft tot taak om: 
 
 a. de topsectoragenda conform het advies van het desbetreffende topteam van 17 juni 2011 uit te werken en te implementeren in lijn met de kabinetsreactie daarop, zoals verwoord in de Bedrijvenbrief van 13 september 2011;  
 
@@ -43,8 +42,8 @@ Ter uitvoering van de taak als genoemd in artikel 2, elfde lid, bieden de toptea
 ### Artikel  4  
 
 1.  De commissie bestaat uit een voorzitter en andere leden.   
-2.  De voorzitter en de andere leden worden door de minister, in overeenstemming met de minister die het mede aangaat, benoemd. De voorzitter en de andere leden kunnen door de minister worden geschorst en ontslagen. Schorsing en ontslag van de leden, bedoeld in artikel 7, eerste lid, onderdeel d, tweede lid, onderdeel n, derde lid, onderdeel e, vierde tot en met zesde lid, onderdeel d, zevende lid, onderdeel n, achtste lid, onderdeel d, en tiende lid, onderdelen d en e, geschiedt in overeenstemming met de minister die het mede aangaat.   
-3.  De leden, bedoeld in artikel 7, eerste lid, onderdelen a, b en c, tweede lid, onderdelen a tot en met m en o tot en met t, derde lid, onderdelen a, tot en met d, vierde tot en met zesde lid, onderdelen a, b en c, zevende lid, onderdelen a tot en met m, achtste lid, onderdelen a, b en c, negende lid, en tiende lid, onderdelen a, b en c, brengen op persoonlijke titel hun kennis en ervaring in en treden niet op als vertegenwoordiger van een specifieke belangengroep.  
+2.  De voorzitter en de andere leden worden door de Minister, in overeenstemming met de Minister die het mede aangaat, benoemd. De voorzitter en de andere leden kunnen door de Minister worden geschorst en ontslagen. Schorsing en ontslag van de leden, bedoeld in artikel 7, eerste lid, onderdeel i, tweede lid, onderdeel d, derde lid, onderdeel e, vierde en vijfde lid, onderdeel d, zesde lid, onderdeel e, zevende lid, onderdeel l, achtste lid, onderdeel d, en negende lid, onderdelen g en h, geschiedt in overeenstemming met de Minister die het mede aangaat.   
+3.  De leden, bedoeld in artikel 7, eerste lid, onderdelen a tot en met h, tweede lid, onderdelen a, b en c, derde lid, onderdelen a, tot en met d, vierde en vijfde lid, onderdelen a, b en c, zesde lid, onderdelen a tot en met d, zevende lid, onderdelen a tot en met k, achtste lid, onderdelen a, b en c, en negende lid, onderdelen a tot en met f, brengen op persoonlijke titel hun kennis en ervaring in en treden niet op als vertegenwoordiger van een specifieke belangengroep.  
 
 ### Artikel  5  
 
@@ -56,154 +55,137 @@ Ter uitvoering van de taak als genoemd in artikel 2, elfde lid, bieden de toptea
 
 ### Artikel  6  
 
-1.  Aan de voorzitter van de commissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de arbeidsduurfactor op 0,222.   
-2.  Aan de leden van de commissie benoemd als vertegenwoordiger vanuit het MKB wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 16 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de arbeidsduurfactor op 0,222.  
+1.  Aan de voorzitter van de commissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 18 van bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984 en de arbeidsduurfactor op 0,3.   
+2.  Aan de leden van de commissie benoemd als vertegenwoordiger vanuit het MKB wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 16 van bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984 en de arbeidsduurfactor op 0,222.  
 3.  Indien er in een commissie twee of meer leden zijn benoemd als vertegenwoordiger vanuit het MKB, wordt de vergoeding bedoeld in het tweede lid evenredig over de betrokken leden verdeeld. De in het tweede lid bedoelde arbeidsduurfactor geldt als maximum voor de totale vergoeding. 
 
 ### Artikel  7  
 
-1.  Ter gelegenheid van de instelling van het Topteam Agro-Food worden voor de periode van 13 september 2011 tot en met 31 augustus 2015 tot lid van het Topteam Agro-Food benoemd: 
+1.  Met ingang van 1 september 2015 worden tot en met 31 december 2019 tot lid van het Topteam Agro-Food benoemd: 
 
-a. dhr. drs. C.C. ’t Hart, te Wassenaar, tevens voorzitter;  
+a. dhr. dr. ir. A.A. Dijkhuizen, te Wijk bij Duurstede, tevens voorzitter;  
 
-b. dhr. prof.dr. M.J. Kropf, te Wageningen;  
+b. dhr. ir. J.C.M. van Rijsingen, te Helmond, tevens vertegenwoordiger vanuit het MKB;  
 
-c. dhr. ir. J.C.M. van Rijsingen, te Helmond;  
+c. dhr. J.A.E. Baecke, te Nieuw-Namen;  
 
-d. dhr. mr. dr. J.P. Hoogeveen, te Wassenaar.     
-2.  Ter gelegenheid van de instelling van het Topteam Chemie worden voor de periode van 13 september 2011 tot en met 31 augustus 2015 tot lid van het Topteam Chemie benoemd: 
+d. dhr. prof. dr. R.J. Bino, te Wageningen;  
 
-a. dhr. ir. R. Willems, te Den Haag, tevens voorzitter;  
+e. dhr. P. Boer, te Biddinghuizen;  
 
-b. dhr. dr. P.M. Bruinenberg, te Hoogezand;  
+f. mw. M.W.E. van Egmond, te Bloemendaal;  
 
-c. dhr. prof. dr. B.L. Feringa, te Paterswolde;  
+g. dhr. prof. dr. ir. R.B.M. Huirne, te Wageningen;  
 
-d. dhr. ir. P.J.F. Gommers MBA, te Oegstgeest;  
+h. dhr. drs. R.P. Smith, te Terheijden;  
 
-e. dhr. dr. T. Graafland, te Aerdenhout;  
+i. dhr. mr. dr. J.P. Hoogeveen, te Wassenaar.     
+2.  Met ingang van 1 september 2015 worden tot en met 31 december 2019 tot lid van het Topteam Chemie benoemd: 
 
-f. dhr. ir. G.A.F. van Harten, te Sluiskil;  
+a. dhr. ir. G.A.F. van Harten, te Sluiskil, tevens voorzitter;  
 
-g. dhr. drs. M.J. Hartvelt, te Castricum;  
+b. dr. ir. B.J. Lommerts, te Heerhugowaard, tevens vertegenwoordiger vanuit het MKB;  
 
-h. dhr. dr. ir. J.G.H. Joosten, te Maastricht;  
-
-i. dhr. prof. dr. G. van Koten, te Dordrecht;  
-
-j. dhr. prof. dr. K. Lammertsma, te Soest;  
-
-k. dhr. dr. ir. B.J. Lommerts, te Heerhugowaard;  
-
-l. dhr. prof. K.C.A.M. Luyben, te Delft;  
-
-m. dhr. ir. J. Noordegraaf, te Wijchen;  
-
-n. dhr. drs. A. van Ravestein, te Den Haag;  
-
-o. dhr. prof. dr. F.P.J.T. Rutjes, te Wijchen;  
-
-p. mw. ir. J.T. Stevels-van Randtwijk, te Apeldoorn;  
-
-q. dhr. drs. C.W. van Verseveld, te Molenhoek;  
-
-r. dhr. dr. H.M.H. van Wechem, te Haarlem;  
-
-s. dhr. prof. dr. ir. B.M. Weckhuysen, te Houten;  
-
-t. drs. J.A. van der Willik, te Oude Wetering.     
-3.  Ter gelegenheid van de instelling van het Topteam Creatieve Industrie worden voor de periode van 13 september 2011 tot en met 31 augustus 2015 tot lid van het Topteam Creatieve Industrie benoemd: 
-
-a. dhr. mr. V. van der Chijs, te Joure, tevens voorzitter;  
-
-b. mw. A.M. Eggenkamp, te Amsterdam;  
-
-c. mw. prof. dr. V.A Frissen, te Haarlem;  
-
-d. dhr. Y.A.A. van Geest Msc., te Rotterdam;  
-
-e. mw. drs. J.A. van Kranendonk, te Amsterdam.     
-4.  Ter gelegenheid van de instelling van het Topteam Energie worden voor de periode van 13 september 2011 tot en met 31 augustus 2015 tot lid van het Topteam Energie benoemd: 
-
-a. dhr. dr. ir. M.A.M. Boersma, te Oosterbeek, tevens voorzitter;  
-
-b. dhr. prof. dr. ir. T.H.J.J. van der Hagen, te Delft;  
-
-c. dhr. F. Pentinga, te Arnhem;  
-
-d. dhr. drs. M.E.P. Dierikx, te Leidschendam.     
-5.  Ter gelegenheid van de instelling van het Topteam High Tech Systemen en Materialen worden voor de periode van 13 september 2011 tot en met 31 augustus 2015 tot lid van het Topteam High Tech Systemen en Materialen benoemd: 
-
-a. dhr. ing. A.H. Lundqvist, te Gilze, tevens voorzitter;  
-
-b. dhr. prof. dr. ing. D.H.A. Blank, te Enschede;  
-
-c. dhr. ir. M.H. Hendrikse, te Nuenen;  
+c. dhr. prof. dr. ir. B.M. Weckhuysen, te Houten;  
 
 d. dhr. drs. J.K. Wesseling, te Den Haag.     
-6.  Ter gelegenheid van de instelling van het Topteam Life Sciences & Health worden voor de periode van 13 september 2011 tot en met 31 augustus 2015 tot lid van het Topteam Life Sciences & Health benoemd: 
+3.  Met ingang van 1 september 2015 worden tot en met 31 december 2019 tot lid van het Topteam Creatieve Industrie benoemd: 
 
-a. dhr. dr. R. van Leen, te Urmond, tevens voorzitter;  
+a. mw. B. Wolfensberg, te Ouderkerk a/d Amstel, tevens voorzitter;  
 
-b. dhr. prof. dr. E. Klasen, te Leiden;  
+b. dhr. J. van Erp, te Halfweg, tevens vertegenwoordiger vanuit het MKB;  
 
-c. dhr. dr. R.G. Lageveen, te Groningen;  
+c. dhr. prof. dr. P.P.M. Hekkert, te Amsterdam;  
 
-d. dhr. drs. P.H.A.M. Huijts, te Zoetermeer.     
-7.  Ter gelegenheid van de instelling van het Topteam Logistiek worden voor de periode van 13 september 2011 tot en met 31 augustus 2015 tot lid van het Topteam Logistiek benoemd: 
+d. mw. D.T.M. Majoor, te Utrecht;  
 
-a. dhr. drs. L.M. van Wijk, te Aerdenhout, tevens voorzitter;  
+e. mw. drs. M.J. Hammersma, te Utrecht.     
+4.  Met ingang van 1 september 2015 worden tot en met 31 december 2019 tot lid van het Topteam Energie benoemd: 
 
-b. dhr. drs. A.B. Sakkers, te Baarn;  
+a. mw. M.M.A.A. Janssen MM, te Brussel, tevens voorzitter;  
+
+b. dhr. R.G.J. Verbree, te Houten, tevens vertegenwoordiger vanuit het MKB;  
+
+c. mw. prof. P.M. Herder, te Delfgauw;  
+
+d. dhr. drs. M.E.P. Dierikx, te Leidschendam.     
+5.  Met ingang van 1 september 2015 worden tot en met 31 december 2019 tot lid van het Topteam High Tech Systemen en Materialen benoemd: 
+
+a. dhr. ir. A.H. Lundqvist, te Gilze, tevens voorzitter;  
+
+b. dhr. ir. M.H. Hendrikse, te Nuenen, tevens vertegenwoordiger vanuit het MKB;  
+
+c. dhr. prof. dr. ir. D.H.A. Blank, te Enschede;  
+
+d. dhr. drs. J.K. Wesseling, te Den Haag.     
+6.  Met ingang van 1 september 2015 worden tot en met 31 december 2019 tot lid van het Topteam Life Sciences & Health benoemd: 
+
+a. dhr. J.A.M. Raaijmakers PhD, te Vianen, tevens voorzitter;  
+
+b. dhr. L. de Jong, te Den Haag, tevens vertegenwoordiger vanuit het MKB;  
+
+c. dhr. drs. J.G.C.P. Schikan, te Leiden, tevens vertegenwoordiger vanuit het MKB;  
+
+d. dhr. prof. dr. H.A.P. Pols, te Rotterdam;  
+
+e. mw. drs. A. Berg, te Den Haag.     
+7.  Met ingang van 1 september 2015 worden tot en met 31 december 2019 tot lid van het Topteam Logistiek benoemd: 
+
+a. dhr. dr. ir. A.W. Veenman, te Laren, tevens voorzitter;  
+
+b. dhr. R.J. Vat, te Hendrik Ido Ambacht, tevens vertegenwoordiger vanuit het MKB;  
 
 c. dhr. W.P.G.H. Boevé, te Oostvoorne;  
 
-d. dhr. prof. dr. ir. J.C. Fransoo, te Den Bosch;  
+d. dhr. A.S. Castelein, te Hattem;  
 
-e. dhr. drs. T.H. Huges, te Blaricum;  
+e. mw. ir A.J.M. Buijssen – van Dongen, te Zeist;  
 
-f. dhr. drs. ir. P.J.M. van Laarhoven, te Achterveld;  
+f. dhr. mr. A. Th. H. van Dijk, te Badhoevedorp;  
 
-g. mw. E. Liskamp, te Oirschot;  
+g. dhr. prof. dr. ir. Fransoo, te Den Bosch;  
 
-h. dhr. R.P.M. van Slobbe, te Amsterdam;  
+h. mw. prof. dr. E. Hagdorn-van der Meijden, te Rotterdam;  
 
-i. dhr. ir. drs. H.N.J. Smits, te Den Haag;  
+i. dhr. dr. ir. P.J.M. van Laarhoven, te Achterveld;  
 
-j. dhr. dr. ir. A.W. Veenman, te Laren;  
+j. dhr. P.J. van der Meij, te Uden;  
 
-k. dhr. W. Versteijnen, te Tilburg;  
+k. dhr. R.P.M van Slobbe, te Amsterdam;  
 
-l. mw. prof. dr. E. Hagdorn, te Rotterdam;  
+l. dhr. drs. M.M. Frequin, te Den Haag.     
+8.  Met ingang van 1 september 2015 worden tot en met 31 december 2019 tot lid van het Topteam Tuinbouw en Uitgangsmaterialen benoemd: 
 
-m. dhr. P.J. van der Meij, te Uden;  
+a. dhr. drs. L.M.L.H.A. Hermans, te Beetsterzwaag, tevens voorzitter;  
 
-n. mw. drs. L.M.C. Ongering.     
-8.  Ter gelegenheid van de instelling van het Topteam Tuinbouw en Uitgangsmaterialen worden voor de periode van 13 september 2011 tot en met 31 augustus 2015 tot lid van het Topteam Tuinbouw en Uitgangsmaterialen benoemd: 
+b. dhr. ir. J.W. Breukink, te Venhuizen, tevens vertegenwoordiger vanuit het MKB;  
 
-a. dhr. drs. L.M.L.H.A. Hermans, te Den Haag, tevens voorzitter;  
-
-b. dhr. dr. ir. J.E. van den Ende, te Haarlem;  
-
-c. dhr. ing. J.W. Breukink, te Venhuizen;  
+c. dhr. dr. ir. J.E. van den Enden, te Haarlem;  
 
 d. dhr. mr. dr. J.P. Hoogeveen, te Wassenaar.     
-9.  Ter gelegenheid van de instelling van het Topteam Water wordt voor de periode van 13 september 2011 tot en met 31 augustus 2015 tot lid van het Topteam Water benoemd: dhr. drs. ing. J. Bout, te Teylingen, tevens voorzitter.   
-10.  Ter gelegenheid van de instelling van het Topteam Hoofdkantoren worden voor de periode van 13 september 2011 tot en met 31 augustus 2015 tot lid van het Topteam Hoofdkantoren benoemd: 
+9.  Met ingang van 1 september 2015 worden tot en met 31 december 2019 tot lid van het Topteam Water benoemd: 
 
-a. dhr. drs. S. van Keulen, te Laren, tevens voorzitter;  
+a. dhr. ir. J.C. Huis in ’t Veld, te Den Haag, tevens voorzitter;  
 
-b. dhr. H.W. Volberda, te Zeist;  
+b. dhr. ir. W. Buijs, te Rotterdam, tevens vertegenwoordiger vanuit het MKB;  
 
-c. dhr. R.A.J. Swaak, te Halsteren;  
+c. dhr. R.H. Berkvens, te Rotterdam;  
 
-d. dhr. drs. S.J.H. Smits, te Den Haag;  
+d. dhr. dr. ir. J.T. Fokkema, te Schiedam;  
 
-e. dhr. mr. E.A. Visser, te Angerlo.    
+d. dhr. ir. P. van der Linde, te Papendrecht;  
+
+e. dhr. prof. ir. K.C.A.M. Luyben, te Delft;  
+
+f. mw. ir. C.M. Sluis, te Diepenveen;  
+
+g. dhr. mr. ir. J.H. Dronkers, te Arnhem;  
+
+h. dhr. drs. P.R. Heij, te Voorburg.    
 
 ### Artikel  8  
 
-Het [Instellingsbesluit topteams](../../../../../../../../ministeriele-regeling/instellingsbesluit/topteams/BWBR0029937/README.md) wordt ingetrokken. 
+Het Instellingsbesluit topteams wordt ingetrokken. 
 
 ### Artikel  9  
 
