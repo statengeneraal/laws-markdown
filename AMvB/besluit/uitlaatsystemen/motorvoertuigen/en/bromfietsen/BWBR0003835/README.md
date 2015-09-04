@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 25 januari 1985, MJZ 2515017, gedaan in overeenstemming met de Staatssecretaris van Verkeer en Waterstaat en Onze Minister van Economische Zaken;
 
-Gelet op de [artikelen 10](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) en [147*a* van de Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) (*Stb*. 1979, 99);
+Gelet op de artikelen 10 en 147*a* van de Wet geluidhinder (*Stb*. 1979, 99);
 
 Overwegende dat het, mede ter uitvoering van de Richtlijn van de Commissie van de Europese Gemeenschappen van 13 april 1981, nr. 81/334/EEG (*PbEG* L 131), houdende aanpassing aan de stand van de techniek van Richtlijn 70/157/EEG van de Raad inzake de onderlinge aanpassing van de wetgevingen van de Lid-Staten betreffende het toegestane geluidsniveau en de uitlaatinrichting van motorvoertuigen, wenselijk is regelen te stellen met betrekking tot de uitlaatsystemen van motorvoertuigen en bromfietsen;
 
@@ -24,7 +24,7 @@ Hebben goedgevonden en verstaan:
 
 1.  Voor de toepassing van dit besluit wordt verstaan onder Onze Ministers: Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van Verkeer en Waterstaat en van Economische Zaken te zamen.   
 2.   Onder een uitlaatsysteem wordt verstaan een uitlaatinrichting in de zin van de wegenverkeerswetgeving, of een onderdeel van zodanige uitlaatinrichting, bestemd voor een motorvoertuig of voor een bromfiets.  
-3. Onder bromfiets wordt verstaan: een bromfiets als bedoeld in [artikel 1, onderdeel e, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).
+3. Onder bromfiets wordt verstaan: een bromfiets als bedoeld in artikel 1, onderdeel e, van de Wegenverkeerswet 1994.
 
 ### Hoofdstuk  II  
 

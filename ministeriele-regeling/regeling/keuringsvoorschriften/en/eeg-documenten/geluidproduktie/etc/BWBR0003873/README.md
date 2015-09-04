@@ -3,7 +3,7 @@
 ##Regeling keuringsvoorschriften en EEG-documenten geluidproduktie motorvoertuigen
 
 De minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de staatssecretaris van Verkeer en Waterstaat;  
-Gelet op de [artikelen 2, eerste lid, onder b en onder c](../../../../../../../../AMvB/besluit/geluidproduktie/motorvoertuigen/BWBR0003464/README.md), [3, eerste lid, onder b, 7 en 14 van het Besluit geluidproduktie motorvoertuigen](../../../../../../../../AMvB/besluit/geluidproduktie/motorvoertuigen/BWBR0003464/README.md) (Stb. 1981, 741);
+Gelet op de artikelen 2, eerste lid, onder b en onder c, 3, eerste lid, onder b, 7 en 14 van het Besluit geluidproduktie motorvoertuigen (Stb. 1981, 741);
 Besluiten:     
 ### Hoofdstuk  I  
 
@@ -30,7 +30,7 @@ c.  als bedoeld in artikel 5, eerste lid, van Richtlijn 2002/24 en voldoet aan d
 
 ### Artikel  2  
 
-1.  De keuring, bedoeld in [artikel 2, onder a, van het Besluit geluidproduktie motorvoertuigen](../../../../../../../../AMvB/besluit/geluidproduktie/motorvoertuigen/BWBR0003464/README.md) wordt met ingang van 1 april 2000 verricht aan de hand van de voorschriften van Richtlijn 70/157.   
+1.  De keuring, bedoeld in artikel 2, onder a, van het Besluit geluidproduktie motorvoertuigen wordt met ingang van 1 april 2000 verricht aan de hand van de voorschriften van Richtlijn 70/157.   
 2.  De keuring, bedoeld in het eerste lid, van banden of van de montage daarvan wordt, voor wat betreft de rolgeluidemissie, met ingang van 4 februari 2003 tot 4 augustus 2003 op verzoek van de aanvrager verricht aan de hand van de voorschriften van Richtlijn 2001/43/EG. Met ingang van 4 augustus 2003 wordt de keuring verricht aan de hand van de voorschriften van Richtlijn 2001/43/EG.  
 
 ### Artikel  3  
@@ -49,16 +49,16 @@ c.  met ingang van 1 oktober 2000 indien aan die goedkeuring de voorschriften va
 
 ### Artikel  5  
 
-De keuring, bedoeld in [artikel 3, onder a, van het Besluit geluidproduktie motorvoertuigen](../../../../../../../../AMvB/besluit/geluidproduktie/motorvoertuigen/BWBR0003464/README.md) wordt verricht aan de hand van de voorschriften, vervat in Richtlijn 97/24, op basis van de in bijlage I van hoofdstuk 9 in die richtlijn genoemde grenswaarden. 
+De keuring, bedoeld in artikel 3, onder a, van het Besluit geluidproduktie motorvoertuigen wordt verricht aan de hand van de voorschriften, vervat in Richtlijn 97/24, op basis van de in bijlage I van hoofdstuk 9 in die richtlijn genoemde grenswaarden. 
 
 ### Artikel  5a  
 
-1.  Ten aanzien van het vervaardigen houdt een goedkeuring als bedoeld in [artikel 3, eerste lid, onder a of onder c, van het Besluit geluidproduktie motorvoertuigen](../../../../../../../../AMvB/besluit/geluidproduktie/motorvoertuigen/BWBR0003464/README.md), waaraan de voorschriften van een van de hierna genoemde richtlijnen ten grondslag hebben gelegen, met ingang van de daarna vermelde datum op te gelden: 
+1.  Ten aanzien van het vervaardigen houdt een goedkeuring als bedoeld in artikel 3, eerste lid, onder a of onder c, van het Besluit geluidproduktie motorvoertuigen, waaraan de voorschriften van een van de hierna genoemde richtlijnen ten grondslag hebben gelegen, met ingang van de daarna vermelde datum op te gelden: 
 
 a. Richtlijn 78/1015: 1 oktober 1990: 
 
 b. Richtlijn 87/56, op basis van de in bijlage I bij die richtlijn genoemde grenswaarden voor de eerste etappe: 1 oktober 1995.    
-2.  Ten aanzien van het invoeren houdt een goedkeuring als bedoeld in [artikel 3, eerste lid, onder a of onder c, van het Besluit geluidproduktie motorvoertuigen](../../../../../../../../AMvB/besluit/geluidproduktie/motorvoertuigen/BWBR0003464/README.md), waaraan de voorschriften van een van de hierna genoemde richtlijnen ten grondslag hebben gelegen, met ingang van de daarna vermelde datum op te gelden ten aanzien van op of na die datum vervaardigde motorvoertuigen: 
+2.  Ten aanzien van het invoeren houdt een goedkeuring als bedoeld in artikel 3, eerste lid, onder a of onder c, van het Besluit geluidproduktie motorvoertuigen, waaraan de voorschriften van een van de hierna genoemde richtlijnen ten grondslag hebben gelegen, met ingang van de daarna vermelde datum op te gelden ten aanzien van op of na die datum vervaardigde motorvoertuigen: 
 
 a. Richtlijn 78/1015: 1 oktober 1990: 
 
@@ -86,7 +86,7 @@ b. voor de toepassing van artikel 5a, eerste lid, onder b, en tweede lid, onder 
 
 ### Artikel  8  
 
-1.  Als document als bedoeld in [artikel 3, eerste lid, onder b, van het Besluit geluidproduktie motorvoertuigen](../../../../../../../../AMvB/besluit/geluidproduktie/motorvoertuigen/BWBR0003464/README.md) wordt aangewezen een EEG-document, waaruit blijkt dat het desbetreffende type motorvoertuig beantwoordt aan de voorschriften van Richtlijn 87/56, op basis van de in bijlage I bij die richtlijn genoemde grenswaarden voor de tweede etappe.   
+1.  Als document als bedoeld in artikel 3, eerste lid, onder b, van het Besluit geluidproduktie motorvoertuigen wordt aangewezen een EEG-document, waaruit blijkt dat het desbetreffende type motorvoertuig beantwoordt aan de voorschriften van Richtlijn 87/56, op basis van de in bijlage I bij die richtlijn genoemde grenswaarden voor de tweede etappe.   
 2.  Ten aanzien van het vervaardigen wordt tot de hierna vermelde data tevens aangewezen een EEG-document waaruit blijkt dat het desbetreffende type motorvoertuig beantwoordt aan de voorschriften van: 
 
 a. Richtlijn 78/1015: tot 1 oktober 1990; 
@@ -105,11 +105,11 @@ Indien het motorvoertuigen betreft die behoren tot categorie 2, zoals deze categ
 
 ### Artikel 8b  
 
-De keuring, bedoeld in artikel 3, onder a, en het certificaat, bedoeld in [artikel 3, onder b, van het Besluit geluidproduktie motorvoertuigen](../../../../../../../../AMvB/besluit/geluidproduktie/motorvoertuigen/BWBR0003464/README.md), mogen tot 17 juni 1999 worden verricht en afgegeven aan de hand van de voorschriften, vervat in Richtlijn 87/56. 
+De keuring, bedoeld in artikel 3, onder a, en het certificaat, bedoeld in artikel 3, onder b, van het Besluit geluidproduktie motorvoertuigen, mogen tot 17 juni 1999 worden verricht en afgegeven aan de hand van de voorschriften, vervat in Richtlijn 87/56. 
 
 ### Artikel 8c  
 
-Ten aanzien van het vervaardigen, invoeren, in voorraad hebben, te koop aanbieden, afleveren of vervoeren houden een goedkeuring als bedoeld in artikel 3, onder a, en een certificaat als bedoeld in [artikel 3, onder b, van het Besluit geluidproduktie motorvoertuigen](../../../../../../../../AMvB/besluit/geluidproduktie/motorvoertuigen/BWBR0003464/README.md), waaraan de voorschriften van Richtlijn 87/56 ten grondslag hebben gelegen, met ingang van 18 december 2000 op te gelden. 
+Ten aanzien van het vervaardigen, invoeren, in voorraad hebben, te koop aanbieden, afleveren of vervoeren houden een goedkeuring als bedoeld in artikel 3, onder a, en een certificaat als bedoeld in artikel 3, onder b, van het Besluit geluidproduktie motorvoertuigen, waaraan de voorschriften van Richtlijn 87/56 ten grondslag hebben gelegen, met ingang van 18 december 2000 op te gelden. 
 
 ### Hoofdstuk  IV  
 
@@ -118,7 +118,7 @@ Ten aanzien van het vervaardigen, invoeren, in voorraad hebben, te koop aanbiede
 ### Artikel  9  
 
 1.  Het Besluit keuringsvoorschriften geluidproduktie motorvoertuigen (Stcrt. 1982, 19) wordt ingetrokken.   
-2.  Het besluit van 10 augustus 1984, nr. 1944046 (Stcrt. 1984, 160), houdende uitvoering van [artikel 2, onder c, van het Besluit geluidproduktie motorvoertuigen](../../../../../../../../AMvB/besluit/geluidproduktie/motorvoertuigen/BWBR0003464/README.md) wordt ingetrokken.  
+2.  Het besluit van 10 augustus 1984, nr. 1944046 (Stcrt. 1984, 160), houdende uitvoering van artikel 2, onder c, van het Besluit geluidproduktie motorvoertuigen wordt ingetrokken.  
 
 ### Artikel  10  
 

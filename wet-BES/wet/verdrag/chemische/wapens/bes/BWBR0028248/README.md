@@ -162,7 +162,7 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 ### Artikel  17  
 
-Het [Wetboek van Strafrecht BES](../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) is van toepassing op de ingezetene die zich buiten Bonaire, Sint Eustatius of Saba schuldig maakt aan overtreding van het in de artikelen 2, eerste en tweede lid, en 3, eerste lid, gestelde verbod. 
+Het Wetboek van Strafrecht BES is van toepassing op de ingezetene die zich buiten Bonaire, Sint Eustatius of Saba schuldig maakt aan overtreding van het in de artikelen 2, eerste en tweede lid, en 3, eerste lid, gestelde verbod. 
 
 ### Hoofdstuk  6  
 

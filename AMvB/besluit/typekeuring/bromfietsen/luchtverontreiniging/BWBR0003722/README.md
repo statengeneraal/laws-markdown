@@ -8,7 +8,7 @@ Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en
 
 Overwegende dat het wenselijk is om naast de regelen die zijn gesteld ter voorkoming of beperking van luchtverontreiniging door motorrijtuigen op ten minste vier wielen, ter uitvoering van Reglement 47, behorende bij de Overeenkomst van 20 maart 1958 betreffende het aannemen van eenvormige goedkeuringvoorwaarden en de wederzijdse erkenning van goedkeuring van uitrustingsstukken en onderdelen van motorrijtuigen (*Trb.* 1959, 83) thans met hetzelfde oogmerk regelen te stellen inzake de typekeuring van bromfietsen; 
 
-Gelet op de [artikelen 13](../../../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md), [15](../../../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md), [17](../../../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md) en [88, eerste, derde en vierde lid, van de Wet inzake de luchtverontreiniging](../../../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md) (*Stb.* 1981, 411); 
+Gelet op de artikelen 13, 15, 17 en 88, eerste, derde en vierde lid, van de Wet inzake de luchtverontreiniging (*Stb.* 1981, 411); 
 
 Gehoord de Centrale raad voor de milieuhygiëne, advies van 17 oktober 1983, nr. 737; 
 
@@ -22,7 +22,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan onder:  bromfiets: bromfiets als bedoeld in [artikel 1.1 van de Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  Onze Ministers: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en Onze Minister van Verkeer en Waterstaat tezamen.    
+1.  Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan onder:  bromfiets: bromfiets als bedoeld in artikel 1.1 van de Regeling voertuigen;  Onze Ministers: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en Onze Minister van Verkeer en Waterstaat tezamen.    
 2.   Voor de toepassing van het bij of krachtens dit besluit bepaalde worden bromfietsen geacht tot éénzelfde type te behoren indien zij - afgezien van veranderingen, opgetreden door normaal gebruik - onderling geen wezenlijke verschillen vertonen wat betreft de eigenschappen of onderdelen die bepalend zijn voor door bromfietsen veroorzaakte luchtverontreiniging.   
 
 ### Hoofdstuk  II  
@@ -56,7 +56,7 @@ c. waarvoor door of vanwege Onze Minister ontheffing is verleend. Aan een onthef
 ### Artikel  4  
 
 1.  Onze Ministers stellen de voorschriften vast, aan de hand waarvan de in artikel 2, eerste lid, bedoelde keuringen worden verricht. De voorschriften met betrekking tot de meetapparatuur worden vastgesteld in overeenstemming met Onze Minister van Economische Zaken.    
-2.   [Artikel 22, eerste en derde lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is van overeenkomstige toepassing.   
+2.   Artikel 22, eerste en derde lid, van de Wegenverkeerswet 1994 is van overeenkomstige toepassing.   
 
 ### Hoofdstuk  IV  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 25 januari 1985, MJZ 2515019, gedaan in overeenstemming met de Staatssecretaris van Verkeer en Waterstaat en Onze Minister van Economische Zaken; 
 
-Gelet op de [artikelen 2](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), [4](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), [6](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) en [147*a* van de Wet geluidhinder](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) (*Stb.* 1979, 99); 
+Gelet op de artikelen 2, 4, 6 en 147*a* van de Wet geluidhinder (*Stb.* 1979, 99); 
 
 Gehoord de Centrale Raad voor de Milieuhygiëne (advies van 7 juni 1982, no. 451); 
 
@@ -22,7 +22,7 @@ Hebben goedgevonden en verstaan:
 
 Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-a.bromfiets: bromfiets als bedoeld in [artikel 1, onderdeel e, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
+a.bromfiets: bromfiets als bedoeld in artikel 1, onderdeel e, van de Wegenverkeerswet 1994;
 
 b.Onze Ministers: Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van Verkeer en Waterstaat en van Economische Zaken tezamen. 
 
@@ -47,7 +47,7 @@ a. die zich in het kader van bedrijfsmatige vervaardiging nog bevinden in het st
 
 b. die dienen als monster bij een ingevolge dit besluit te verrichten keuring;   
 
-c. waarmee blijkens een voor de bromfiets ingevolge [hoofdstuk 9 van de Regeling voertuigen](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) afgegeven ontheffing uitsluitend op de weg mag worden gereden om te worden tentoongesteld of om aan overeenkomstige manifestaties te kunnen deelnemen;   
+c. waarmee blijkens een voor de bromfiets ingevolge hoofdstuk 9 van de Regeling voertuigen afgegeven ontheffing uitsluitend op de weg mag worden gereden om te worden tentoongesteld of om aan overeenkomstige manifestaties te kunnen deelnemen;   
 
 d. die hebben behoord tot een type als bedoeld in artikel 2 en als bromfiets in gebruik zijn geweest, maar die door reparaties of door vervanging van onderdelen niet langer tot dat type behoren, mits de verschillen met het oorspronkelijke type niet tot een hogere geluidproduktie leiden dan die welke bij de typegoedkeuring werd vastgesteld;   
 
@@ -60,7 +60,7 @@ e. waarvoor door of vanwege Onze Ministers ontheffing is verleend. Aan een onthe
 ### Artikel  4  
 
 1.  Onze Ministers stellen de voorschriften vast, aan de hand waarvan de in artikel 2, onder *a,* bedoelde keuring wordt verricht.  Deze voorschriften hebben betrekking op de eigenschappen of onderdelen van bromfietsen die bepalend zijn voor de geluidproduktie van deze bromfietsen, alsmede op het keuringsproces.    
-2.   [Artikel 22, eerste en derde lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is van overeenkomstige toepassing.   
+2.   Artikel 22, eerste en derde lid, van de Wegenverkeerswet 1994 is van overeenkomstige toepassing.   
 
 ### Hoofdstuk  IV  
 
