@@ -247,7 +247,7 @@ Het is verboden vlees te vervoeren in strijd met de voorschriften vastgesteld kr
 
 ### Artikel  31  
 
-Onverminderd het bepaalde in hoofdstuk II van de Douane- en Accijnswet BES en in het [Besluit invoer kleine dieren BES](../../../../../../../AMvB-BES/besluit/invoer/kleine/dieren/bes/BWBR0028443/README.md), en onverminderd het bepaalde in artikelen 29 en 30, 1ste lid kan bij of krachtens ministeriële regeling tot wering van enige besmettelijke veeziekte de in- en doorvoer in het openbaar lichaam Bonaire worden verboden of niet dan onder bepaalde voorwaarden worden toegelaten van: 
+Onverminderd het bepaalde in hoofdstuk II van de Douane- en Accijnswet BES en in het Besluit invoer kleine dieren BES, en onverminderd het bepaalde in artikelen 29 en 30, 1ste lid kan bij of krachtens ministeriële regeling tot wering van enige besmettelijke veeziekte de in- en doorvoer in het openbaar lichaam Bonaire worden verboden of niet dan onder bepaalde voorwaarden worden toegelaten van: 
 
 a. vee, vlees, eieren, melk en melkprodukten, huiden en aanhangsels van huiden en andere van vee afkomstige produkten, nest en veevoeder;  
 
@@ -275,7 +275,7 @@ b. andere voorwerpen of dieren welke dragers van smetstof kunnen zijn.
 
 ### Artikel  35  
 
-Dit besluit berust op de [artikelen 18.2.1](../../../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md), [18.2.2](../../../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md) en [18.2.4 van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md). 
+Dit besluit berust op de artikelen 18.2.1, 18.2.2 en 18.2.4 van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  36  
 
