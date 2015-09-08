@@ -1034,21 +1034,6 @@ g. het aanbrengen van een product op beglazingskit in gebouwen voor zover deze o
 5. Producten die worden gebruikt bij de werkzaamheden, bedoeld in het tweede lid, onder b, voor zover het betreft het aanbrengen van muurverf, bevatten ten hoogste 60 gram vluchtige organische stoffen per liter gebruiksklaar product. 
 6. Producten die worden gebruikt bij de werkzaamheden, bedoeld in het tweede lid, onder b, voor zover het andere werkzaamheden betreft dan het aanbrengen van muurverf, bevatten ten hoogste 100 gram vluchtige organische stoffen per liter gebruiksklaar product. Indien het bij de producten, bedoeld in de eerste zin, gaat om producten op epoxybasis, wordt benzylalcohol uitgezonderd bij het bepalen van het gewicht van de vluchtige organische stoffen. 
 
-### Artikel  4.32aa  
-
-####Tijdelijke regeling sportvloercoatings
-
-1.  In afwijking van artikel 4.32a, zesde lid, eerste zin, geldt voor niet-gepigmenteerde coatings voor sportvloeren en belijningsverf voor sportvloeren, dat deze ten hoogste 400 gram vluchtige organische stoffen per liter gebruiksklaar product mag bevatten.   
-2.  Artikel 4.32a, zesde lid, tweede zin, is van overeenkomstige toepassing.   
-3.  Dit artikel vervalt met ingang van 1 augustus 2015.  
-
-### Artikel  4.32ab  
-
-####Tijdelijke regeling vloercoatings op basis van MMA
-
-1.  In aanvulling op artikel 4.32a, derde lid, is artikel 4.32a, tweede lid, onder b, niet van toepassing op het gebruik van vloercoatings op basis van methylmethacrylaat, voor zover het betreft het repareren en onderhouden van een bestaande vloer in een woning of een gebouw, mits de ingebruikname en volledige chemische en mechanische bestendigheid van die vloer noodzakelijk zijn binnen 7 dagen na het aanbrengen van de vloercoating en dit, onder de gegeven omstandigheden, niet mogelijk is met producten als bedoeld in artikel 4.32a, zesde lid.   
-2.  Dit artikel vervalt met ingang van 1 augustus 2015.  
-
 ###Artikel 4.32b 
 
 ####Offsetdrukken
@@ -1367,11 +1352,11 @@ h. indien het betreft een certificaat voor de bediening van een funderingsmachin
 
 ####Veiligheids- en Gezondheidssignalering
 
-###Artikel 8.1 
+### Artikel  8.1  
 
 ####Vereisten
 
-Veiligheids- of gezondheidssignalering als bedoeld in artikel 8.2 van het besluit voldoet aan de artikelen 8.2 tot en met 8.29.
+Veiligheids- of gezondheidssignalering als bedoeld in artikel 8.4 van het besluit voldoet aan de artikelen 8.2 tot en met 8.29. 
 
 ###Artikel 8.2 
 
@@ -1911,14 +1896,6 @@ c. van de Arbeidsomstandighedenregeling:
 ###Artikel 9.2a 
 
 De afgifte van een certificaat van vakbekwaamheid arbeidshygiëne door de Stichting voor de Certificatie van Vakbekwaamheid SKO in de periode van 1 november 1999 tot 3 november 2006 wordt aangemerkt als de afgifte van een certificaat van vakbekwaamheid arbeidshygiëne als bedoeld in artikel 2.15.
-
-### Artikel  9.2b  
-
-####Tijdelijke regeling certificering arbodiensten
-
-1.  Het werkveld dienstverlening door arbodiensten wordt aangewezen als werkveld als bedoeld in artikel 1.5b, vijfde lid, van het besluit, met dien verstande dat bij de aanvraag tot aanwijzing, bedoeld in artikel 1.5b van het besluit, de instelling een beoordeling voegt van de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO te Delft, waaruit blijkt dat de instelling voldoet aan de criteria, genoemd in artikel 1.5a van het besluit.   
-2.  Indien de geldigheid van een certificaat arbodienst als bedoeld in artikel 2.14, eerste of tweede lid, van het besluit, eindigt in de periode vanaf 1 april 2015 tot en met 30 juni 2015, wordt de geldigheid van dit certificaat, in afwijking van paragraaf 4.4 van bijlage IIb, verlengd tot 1 juli 2015.   
-3.  Dit artikel vervalt met ingang van 1 juli 2015.  
 
 ### Artikel  9.5  
 

@@ -3,7 +3,7 @@
 ##Besluit van de Minister van Veiligheid en Justitie van 10 september 2013, nr. 425571, houdende instelling van het Audit Committee Ministerie van Veiligheid en Justitie (Instellingsbesluit Audit Committee Ministerie van Veiligheid en Justitie)
 
 De Minister van Veiligheid en Justitie,  
-Gelet op de [Regeling Audit Committees 2012](../../../../../../../../../../ministeriele-regeling/regeling/audit/committees/2012/BWBR0031524/README.md);
+Gelet op de Regeling Audit Committees 2012;
 Besluit:    
 
 ### Artikel  1  
@@ -31,7 +31,7 @@ Het Audit Committee bestaat uit de volgende leden:
 
 a. de secretaris-generaal, tevens voorzitter;  
 
-b. de plaatsvervangend secretaris-generaal;  
+b.de plaatsvervangend secretaris-generaal, de directeuren-generaal en de Nationaal Coördinator Terrorismebestrijding en Veiligheid; 
 
 c. ten minste twee door de Minister benoemde onafhankelijke externe leden;  
 
@@ -39,7 +39,7 @@ d. de Algemene Rekenkamer is agendalid.
 
 ### Artikel  4  
 
-De externe leden, bedoeld in artikel 3, onder c, ontvangen een vergoeding per vergadering van 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). 
+De externe leden, bedoeld in artikel 3, onder c, ontvangen een vergoeding per vergadering van 3% van het maximum van salarisschaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. 
 
 ### Artikel  5  
 

@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder: 
+1. In dit besluit wordt verstaan onder: 
 
 a.  *Raad:* de Raad voor strafrechtstoepassing en jeugdbescherming;  
 
-b.  *wet:* de Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming;  
+b.  *wet:* de Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015;  
 
 c.  *sectievoorzitter:* de voorzitter van een sectie, als bedoeld in artikel 11 van de wet;  
 
@@ -29,7 +29,8 @@ e.  *preadviescommissie:* commissie belast met de voorbereiding van de adviezen 
 
 f.  *beroepscommissie:* commissie aan wie de rechtsprekende taak van de Raad is opgedragen;  
 
-g.  *vergadering:* plenaire vergadering van de Raad, vergadering van het bestuur, vergadering van een sectie, de vergadering van een preadviescommissie, de vergadering van de rechtspraakkamer en de vergadering van een beroepscommissie.   
+g.  *vergadering:* plenaire vergadering van de Raad, vergadering van het bestuur, vergadering van een sectie, de vergadering van een preadviescommissie, de vergadering van de rechtspraakkamer en de vergadering van een beroepscommissie.    
+2.  Dit besluit berust op artikel 8 van de Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015. 
 
 ### Artikel  2  
 

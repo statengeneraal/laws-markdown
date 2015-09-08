@@ -762,7 +762,9 @@ E. M. H. Hirsch Ballin
 
 7.4. aanleg of wijziging van zuiveringstechnische werken als bedoeld in artikel 1.1 van de Waterwet.  
 
-7.5. projecten ter uitvoering van de PKB Ruimte voor de Rivier.  
+7.5. projecten ter uitvoering van de PKB Ruimte voor de Rivier. 
+
+7.6.flexibel peilbeheer IJsselmeer 
 
 ### 8  
 
@@ -903,6 +905,7 @@ Aa. Overige ruimtelijke projecten
 |  *C WATERSTAATSWERKEN*   | nr.  | Omschrijving waterstaatswerk  | Aard van het project  |
 |:---|:---|:---|:---|
 | 1  | Kustlijn en kustfundament Noordzee  | Zandsuppleties en werken ter voorkoming of tegengaan van een landwaartse verplaatsing van de kustlijn  |
+| 2  | Dijkversterking  Eemshaven Delfzijl en meekoppelkansen  | Het versterken en aardbevingbestendig maken van de primaire waterkering tussen de Eemshaven en Delfzijl, dijkvak 49 tot en met 57, dijkring 6, in combinatie met gebiedsgerichte initiatieven op het terrein van natuur, toerisme en recreatie en duurzame energie  |
 
 |  *D LUCHTHAVENS*   | nr.  | Omschrijving luchthaven  | Omschrijving project  |
 |:---|:---|:---|:---|

@@ -84,7 +84,19 @@ u. Haarlemmermeer Masterplan Badhoevedorp-Centrum zoals aangegeven op de kaart i
 
 v. Haven- en industriegebied Oosterhorn Delfzijl en Haven- en industriegebied Eemshaven Eemsmond, zoals aangegeven op de kaarten in bijlage 36<sup>A en B</sup>; 
 
-w. Transformatiegebied Noordelijke Stadsentree Meppel, zoals aangegeven op de kaart in bijlage 49.    
+w. Transformatiegebied Noordelijke Stadsentree Meppel, zoals aangegeven op de kaart in bijlage 49; 
+
+x. Zuidas Flanken Amsterdam, zoals aangegeven op de kaart in bijlage 53;  
+
+y. Havengebied Moerdijk, zoals aangegeven op de kaart in bijlage 54;  
+
+z. Rijnhaven-Costerweg Wageningen, zoals aangegeven op de kaart in bijlage 55;  
+
+aa. Kanaalzone Terneuzen, zoals aangegeven op de kaart in bijlage 56;  
+
+bb. Sloegebied Borsele-Vlissingen, zoals aangegeven op de kaart in bijlage 57;  
+
+cc. Havenstraatterrein Amsterdam, zoals aangegeven op de kaart in bijlage 58.    
 2.  Als categorieën van gevallen als bedoeld in artikel 2.3, negende lid, van de wet worden aangegeven alle gevallen waarin een ander bestuursorgaan dan burgemeester en wethouders bevoegd zou zijn te beslissen als bedoeld in artikel 2.3, negende lid, van de wet.   
 3.  Een ander bestuursorgaan als bedoeld in het tweede lid kan categorieën van gevallen aangeven waarin een verklaring van geen bedenkingen niet is vereist.  
 
@@ -273,15 +285,13 @@ b. van de voorgenomen herziening kennis is gegeven aan de eigenaren in het gebie
 
 a. het voormalige bedrijventerrein Cruquiusgebied in de gemeente Amsterdam zoals aangegeven op de kaart in bijlage 28;  
 
-b. het gebied Laan 1945 in de gemeente Beuningen zoals aangegeven op de kaart in bijlage 29;  
+b. Nieuw Den Helder in de gemeente Den Helder zoals aangegeven op de kaart in bijlage 30;  
 
-c. Nieuw Den Helder in de gemeente Den Helder zoals aangegeven op de kaart in bijlage 30;  
+c. het voormalige NAVO-terrein in de gemeente Maastricht zoals aangegeven op de kaart in bijlage 31;  
 
-d. het voormalige NAVO-terrein in de gemeente Maastricht zoals aangegeven op de kaart in bijlage 31;  
+d. de kernen Zetten en Hemmen in de gemeente Overbetuwe zoals aangegeven op de kaart in bijlage 32;  
 
-e. de kernen Zetten en Hemmen in de gemeente Overbetuwe zoals aangegeven op de kaart in bijlage 32;  
-
-f. «De Bronnen» in de gemeente Tynaarloo zoals aangegeven op de kaart in bijlage 33.    
+e. «De Bronnen» in de gemeente Tynaarloo zoals aangegeven op de kaart in bijlage 33.    
 
 ### Artikel  7b  
 
@@ -355,11 +365,29 @@ h. Hembrugterrein in de gemeente Zaandstad, zoals aangegeven op de kaart in bijl
 
 i. Havenkwartier, gemeente Assen, zoals aangegeven op de kaart in bijlage 47; 
 
-j. Spoorzone, gemeente Delft, zoals aangegeven op de kaart in bijlage 51.   
+j. Spoorzone, gemeente Delft, zoals aangegeven op de kaart in bijlage 51; 
+
+k. De Scheg, gemeente Amstelveen, zoals aangegeven op de kaart in bijlage 59;  
+
+l. Bedrijventerrein Rijnhaven-Oost, gemeente Alphen aan den Rijn, zoals aangegeven op de kaart in bijlage 60;  
+
+m. het gebied Laan 1945, gemeente Beuningen, zoals aangegeven op de kaart in bijlage 29;  
+
+n. Binnensingelgebied, gemeente Enschede, zoals aangegeven op de kaart in bijlage 61;  
+
+o. Brainport Park, gemeente Eindhoven, zoals aangegeven op de kaart in bijlage 62;  
+
+p. Automotive Campus, gemeente Helmond, zoals aangegeven op de kaart in bijlage 63;  
+
+q. Buitengebied Leudal, gemeente Leudal, zoals aangegeven op de kaart in bijlage 64;  
+
+r. CHV-terrein, gemeente Veghel, zoals aangegeven op de kaart in bijlage 19;  
+
+s. Bergwijkpark, gemeente Diemen, zoals aangegeven op de kaart in bijlage 65.   
 
 ### Artikel  7d  
 
-Bij het vaststellen van de bestemmingsplannen voor Binckhorst respectievelijk voor het Hembrugterrein, genoemd in artikel 7c, twaalfde lid, onderdeel e, respectievelijk onderdeel h, kan de raad van de gemeente Den Haag respectievelijk van de gemeente Zaanstad besluiten tot afwijking gedurende een periode van maximaal tien jaar van: 
+1. Bij het vaststellen van een bestemmingsplan kan de raad besluiten tot afwijking gedurende een periode van maximaal tien jaar van: 
 
 a. artikel 45, eerste lid, van de Wet geluidhinder, met dien verstande dat de ter plaatse ten hoogste toelaatbare geluidbelasting, bedoeld in artikel 44 van die wet, voor woningen in stedelijk gebied niet hoger mag worden vastgesteld dan 65 dB(A);  
 
@@ -373,7 +401,14 @@ c. artikel 3.2, eerste lid, onder b, van het Besluit geluidhinder, met dien vers
 
 1°. niet afgeweken kan worden van de ter plaatse ten hoogste toelaatbare geluidbelasting voor andere geluidgevoelige objecten in zones langs wegen waarvoor geluidproductieplafonds als bedoeld in artikel 11.19 van de Wet milieubeheer gelden en  
 
-2°. de ten hoogste toelaatbare geluidbelasting niet hoger mag worden vastgesteld dan 68 dB.     
+2°. de ten hoogste toelaatbare geluidbelasting niet hoger mag worden vastgesteld dan 68 dB.      
+2.  Dit artikel is van toepassing op de volgende plangebieden: 
+
+a. Binckhorst in de gemeente Den Haag, zoals aangegeven op de kaart in bijlage 41;  
+
+b. Hembrugterrein in de gemeente Zaanstad, zoals aangegeven op de kaart in bijlage 44;  
+
+c. Bergwijkpark in de gemeente Diemen, zoals aangegeven op de kaart in bijlage 65.   
 
 ### Artikel  7e  
 
@@ -470,6 +505,15 @@ a. in afwijking van de artikelen 2 en 6 van de Wet geurhinder en veehouderij voo
 b. in afwijking van artikel 5.6, eerste lid, van de Wet milieubeheer voor veehouderijen een grenswaarde voor zwevende deeltjes (PM<sub>10</sub>) wordt gesteld die strenger is dan de grenswaarden voor zwevende deeltjes (PM<sub>10</sub>) gesteld in paragraaf 4 van bijlage 2 bij de Wet milieubeheer.     
 3.  Onverminderd het Besluit ammoniakemissie huisvesting veehouderij en paragraaf 3.5.8 en artikel 6.24s van het Activiteitenbesluit milieubeheer kan het college van burgemeester en wethouders bij een beschikking maatregelen voorschrijven die de emissie van geur of van zwevende deeltjes (PM<sub>10</sub>) vanuit dierenverblijven, waarin landbouwhuisdieren worden gehouden, verminderen, als blijkt dat de nadelige gevolgen van deze emissie voor het milieu, gezien de ontwikkeling van de technische mogelijkheden tot bescherming van het milieu of gezien de ontwikkeling van de kwaliteit van het milieu, verder kunnen onderscheidenlijk moeten worden beperkt.   
 4.  Het vorige lid is alleen van toepassing op door burgemeester en wethouders aangewezen urgentiegebieden, waarvoor door de raad een verbeterplan is vastgesteld. Een aangewezen urgentiegebied geldt voor een termijn van tien jaar.  
+
+### Artikel  7m  
+
+Voor het project stedelijke ontwikkelingen Cadzand-Bad in de gemeente Sluis wordt in aanvulling op artikel 2.3.1, eerste lid, van het Besluit algemene regels ruimtelijke ordening onder «stedelijk gebied» mede verstaan de in de Ontwikkelingsvisie Cadzand-Bad 2006 en de Schilvisie Cadzand-Bad 2011 aangewezen ruimte voor stedenbouwkundige ontwikkelingen. 
+
+### Artikel  7n  
+
+1.  Bij het ten behoeve van het experiment Solarpark Eerbeek wijzigen van de omgevingsvergunning voor de stortplaats Doonweg te Eerbeek kan het bevoegd gezag in afwijking van artikel 4, vierde lid, van het Stortbesluit bodembescherming de einddatum van de termijn, waarop de in dat artikel bedoelde bovenafdichting moet worden aangebracht of de in dat artikel bedoeld maatregelen moeten worden getroffen, vaststellen op 31 december 2040.   
+2.  Het bevoegd gezag brengt uiterlijk vijf jaar na inwerkingtreding van dit besluit het betreffende vergunningsvoorschrift weer in overeenstemming met artikel 4, vierde lid, van het Stortbesluit bodembescherming als uit een onderzoek naar de doeltreffendheid en effecten van dit experiment blijkt dat de grondwaterkwaliteit verslechtert doordat de bovenafdichting met zonnefolie onvoldoende tegengaat dat water in de gestorte afvalstoffen infiltreert.  
 
 ### Paragraaf  4  
 
@@ -959,3 +1003,93 @@ Kaart Delft, Spoorzone  ![255079](http://wetten.overheid.nl/Illustration/255079)
 
 Kaart Noord-Brabant, Logistiek Park Moerdijk  ![255080](http://wetten.overheid.nl/Illustration/255080)
 
+###Bijlage 53 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+![256043](http://wetten.overheid.nl/Illustration/256043)
+Kaart Amsterdam, Zuidas Flanken
+
+###Bijlage 54 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+![256044](http://wetten.overheid.nl/Illustration/256044)
+Kaart Moerdijk, Havengebied
+
+###Bijlage 55 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+![256045](http://wetten.overheid.nl/Illustration/256045)
+Kaart Wageningen, Rijnhaven-Costerweg
+
+###Bijlage 56 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+![256046](http://wetten.overheid.nl/Illustration/256046)
+Kaart Terneuzen, Kanaalzone
+
+###Bijlage 57 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+![256047](http://wetten.overheid.nl/Illustration/256047)
+Kaart Borsele – Vlissingen, Sloegebied
+
+###Bijlage 58 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+![256048](http://wetten.overheid.nl/Illustration/256048)
+Kaart Amsterdam, Havenstraatterrein
+
+###Bijlage 59 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+![256049](http://wetten.overheid.nl/Illustration/256049)
+Kaart Amstelveen, de Scheg
+
+###Bijlage 60 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+![256050](http://wetten.overheid.nl/Illustration/256050)
+Kaart Alphen aan den Rijn, Rijnhaven Oost
+
+###Bijlage 61 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+![256051](http://wetten.overheid.nl/Illustration/256051)
+Kaart Enschede, Binnensingelgebied
+
+###Bijlage 62 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+![256052](http://wetten.overheid.nl/Illustration/256052)
+Kaart Eindhoven, Brainport Park
+
+###Bijlage 63 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+![256053](http://wetten.overheid.nl/Illustration/256053)
+Kaart Helmond, Automotive Campus
+
+###Bijlage 64 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+![256054](http://wetten.overheid.nl/Illustration/256054)
+Kaart Leudal, Buitengebied
+
+###Bijlage 65 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+![256055](http://wetten.overheid.nl/Illustration/256055)
+Kaart Diemen, Bergwijkpark

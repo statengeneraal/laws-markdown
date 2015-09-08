@@ -185,7 +185,7 @@ i. recht heeft op een arbeidsongeschiktheidsuitkering op grond van de Wet op de 
 
 3°.werkzaamheden op een proefplaats verricht als bedoeld in artikel 65g van de Wet op de arbeidsongeschiktheidsverzekering, artikel 2:24 of 3:69 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, artikel 67e van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, artikel 37 van de Wet werk en inkomen naar arbeidsvermogen of artikel 52e van de Ziektewet,  
 
-j. is ingeschreven bij een school of instelling als bedoeld in paragraaf 2.2 of 2.4 van de Wet tegemoetkoming onderwijsbijdragen en schoolkosten dan wel als bedoeld in de artikelen 2.8 tot en met 2.11 van de Wet studiefinanciering 2000.  
+j. is ingeschreven bij een school of instelling als bedoeld in paragraaf 2.4 van de Wet tegemoetkoming onderwijsbijdragen en schoolkosten dan wel als bedoeld in de artikelen 2.8 tot en met 2.11 van de Wet studiefinanciering 2000;  
 
 k.dit onderdeel is nog niet in werking getreden;
 

@@ -323,6 +323,15 @@ Het verbod, bedoeld in artikel 15, tweede lid, van de wet, geldt niet ten aanzie
 
 De verboden op het onder zich hebben en vervoeren, bedoeld in artikel 13, eerste lid, van de wet, gelden niet ten aanzien van de afvoer van planten en producten van planten, behorende tot een beschermde inheemse plantensoort, in verband met werkzaamheden als bedoeld in artikel 16b, eerste lid, die verricht worden in overeenstemming met artikel 16b en de nadere regels die op grond van artikel 16d zijn gesteld.
 
+### Artikel  16ga  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Het verbod, bedoeld in artikel 9 van de wet, geldt niet ten aanzien van het niet-opzettelijk doden, verwonden, vangen of bemachtigen van dieren, behorende tot beschermde inheemse diersoorten als bedoeld in artikel 4 van de wet, indien die handelingen verband houden met de aanleg of exploitatie van: 
+
+a. voorzieningen waarmee elektriciteit met behulp van wind wordt geproduceerd of  
+
+b. hoogspanningsverbindingen.   
+
 ###Hoofdstuk 4: 
 
 ####Vrijstellingen voor het uitzetten van dieren

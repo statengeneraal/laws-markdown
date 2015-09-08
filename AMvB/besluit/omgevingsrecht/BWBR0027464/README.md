@@ -235,7 +235,7 @@ Gedeputeerde staten van de provincie waar het project in hoofdzaak zal worden of
 
 a. artikel 2.1, eerste lid, onder a, b, c of g, van de wet in gevallen waarin toepassing is gegeven aan artikel 3.26, vierde lid, van de Wet ruimtelijke ordening;  
 
-b. artikel 2.1, eerste lid, onder c, van de wet en waarbij ten behoeve van de verwezenlijking van een project van provinciaal ruimtelijk belang, met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de wet, van het bestemmingsplan of de beheersverordening wordt afgeweken.   
+b. artikel 2.1, eerste lid, onder c, van de wet en waarbij ten behoeve van de verwezenlijking van een project van provinciaal belang, met toepassing van artikel 2.12, eerste lid, onder a, onder 2°, voor zover het betreft de opvang van asielzoekers of andere categorieën vreemdelingen, en onder 3°, van de wet, van het bestemmingsplan of de beheersverordening wordt afgeweken.   
 
 ### Artikel  3.2  
 
@@ -245,7 +245,7 @@ Onze Minister of Onze Minister wie het aangaat in overeenstemming met Onze Minis
 
 a. artikel 2.1, eerste lid, onder a, b, c of g, van de wet in gevallen waarin toepassing is gegeven aan artikel 3.28, vierde lid, van de Wet ruimtelijke ordening;  
 
-b. artikel 2.1, eerste lid, onder c, en waarbij ten behoeve van de verwezenlijking van een project van nationaal ruimtelijk belang, met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de wet, van het bestemmingsplan of de beheersverordening wordt afgeweken.   
+b. artikel 2.1, eerste lid, onder c, en waarbij ten behoeve van de verwezenlijking van een project van nationaal belang, met toepassing van artikel 2.12, eerste lid, onder a, onder 2°, voor zover het betreft de opvang van asielzoekers of andere categorieën vreemdelingen, en onder 3°, van de wet, van het bestemmingsplan of de beheersverordening wordt afgeweken.   
 
 ### Artikel  3.3  
 
@@ -2774,7 +2774,7 @@ a. niet hoger dan 10 m, en
 
 b. de oppervlakte niet meer dan 50 m²;    
 
-4. een dakkapel, dakopbouw of gelijksoortige uitbreiding van een gebouw dan wel de uitbreiding van een bouwwerk met een bouwdeel van ondergeschikte aard;  
+4. een dakterras, balkon of andere niet op de grond gelegen buitenruimte aan of op een gebouw, een dakkapel, dakopbouw of gelijksoortige uitbreiding van een gebouw, de uitbreiding van een bouwwerk met een bouwdeel van ondergeschikte aard dan wel voorzieningen gericht op het isoleren van een gebouw;  
 
 5. een antenne-installatie, mits niet hoger dan 40 m;  
 
@@ -2784,7 +2784,7 @@ b. de oppervlakte niet meer dan 50 m²;
 
 8. het gebruiken van gronden voor een niet-ingrijpende herinrichting van openbaar gebied;  
 
-9. het gebruiken van bouwwerken, eventueel in samenhang met bouwactiviteiten die de bebouwde oppervlakte of het bouwvolume niet vergroten, en van bij die bouwwerken aansluitend terrein, mits, voor zover gelegen buiten de bebouwde kom, het uitsluitend betreft een logiesfunctie voor werknemers;  
+9. het gebruiken van bouwwerken, eventueel in samenhang met bouwactiviteiten die de bebouwde oppervlakte of het bouwvolume niet vergroten, en van bij die bouwwerken aansluitend terrein, mits, voor zover gelegen buiten de bebouwde kom, het uitsluitend betreft een logiesfunctie voor werknemers of de opvang van asielzoekers of andere categorieën vreemdelingen;  
 
 10. het gebruiken van een recreatiewoning voor bewoning, mits wordt voldaan aan de volgende eisen: 
 
@@ -2840,7 +2840,7 @@ c. artikel 4, onderdelen 9 en 11.
 
 2. De artikelen 2 en 3 zijn niet van toepassing op een activiteit die plaatsvindt in, aan, op of bij een bouwwerk dat in strijd met artikel 2.1 van de wet is gebouwd of wordt gebruikt.  
 
-3. Artikel 2, onderdeel 3, is evenmin van toepassing op een activiteit die plaatsvindt in: 
+3. Artikel 2, onderdelen 3 en 22, is evenmin van toepassing op een activiteit die plaatsvindt in: 
 
 a. een in het bestemmingsplan of de beheersverordening opgenomen veiligheidszone, getypeerd als A-zone of B-zone, rondom een munitieopslag of een inrichting voor activiteiten met ontplofbare stoffen;  
 
