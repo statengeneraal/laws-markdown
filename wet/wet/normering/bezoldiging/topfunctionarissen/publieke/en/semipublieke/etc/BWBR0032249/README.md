@@ -543,7 +543,7 @@ I. W. Opstelten
 
 ### Ministerie van Binnenlandse Zaken en Koninkrijksrelaties 
 
-1. De krachtens artikel 70, eerste lid, van de Woningwet toegelaten rechtpersonen.  
+1. De krachtens artikel 19, eerste lid, van de Woningwet toegelaten rechtspersonen.  
 
 2. De Stichting Centrum voor Arbeidsverhoudingen Overheidspersoneel te Den Haag.  
 
@@ -672,7 +672,7 @@ I. W. Opstelten
 
 2. De rechtspersoon die is aangewezen krachtens artikel 7, eerste lid, van de Wet Justitie-subsidies.  
 
-3. De rechtspersoon, bedoeld in artikel 48n, eerste lid, van de Wet Justitie-subsidies.  
+3. Het Halt-bureau, bedoeld in artikel 48f, onderdeel c, van de Wet Justitie-subsidies.  
 
 4. De reclasseringsinstellingen die zijn aangewezen krachtens de in artikel 14d, tweede lid, van het Wetboek van Strafrecht bedoelde algemene maatregel van bestuur, behoudens behoudens de instellingen die tevens zijn toegelaten op grond van artikel 5 van de Wet toelating zorginstellingen.  
 
