@@ -39,17 +39,7 @@ De strafwet van de openbare lichamen Bonaire, Sint Eustatius en Saba is toepasse
 
 4bis°. aan het misdrijf omschreven in artikel 213a;  
 
-5°. 
-
-a. aan het misdrijf omschreven in artikel 174, begaan tegen een luchtvaartuig in bedrijf, indien dit een Nederlands luchtvaartuig is, of wanneer de verdachte zich binnen de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt;  
-
-b. aan het misdrijf omschreven in artikel 399a, begaan aan boord van een luchtvaartuig in vlucht, wanneer de verdachte zich binnen de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt;  
-
-c. aan het misdrijf omschreven in artikel 399b, indien het daar bedoelde luchtvaartuig een Nederlands luchtvaartuig is of wanneer de verdachte zich binnen de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt;  
-
-d. aan het misdrijf omschreven in artikel 399c, wanneer het is begaan hetzij tegen een Nederlands luchtvaartuig, hetzij aan boord van een luchtvaartuig dat vervolgens op de openbare lichamen Bonaire, Sint Eustatius en Saba landt met de verdachte aan boord;  
-
-e. aan een der misdrijven, omschreven in de artikelen 168, 168a, 172 en 399d, wanneer de verdachte zich in de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt.    
+5° aan een der misdrijven omschreven in de artikelen 140a, 146, 146a, 168, 168a, 170, 172, 174, 179a, 195, 197, 298, 300, 301, 301a, 302, 313, 314, 314a, 314b, 315, 316, 366, 370, 395 of 399a tot en met 399d, in artikel 9, eerste lid, van de Wet Verdrag Chemische Wapens BES, voor zover het feit valt onder de omschrijving van artikel 1 van het op 10 september 2010 te Beijing tot stand gekomen Verdrag tot bestrijding van wederrechtelijke gedragingen betreffende de burgerluchtvaart (Trb. 2013, 134) of van artikel II van het op 10 september 2010 te Beijing tot stand gekomen Aanvullend Protocol bij het Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen (Trb. 2013, 133) en hetzij de verdachte zich op het grondgebied van de openbare lichamen Bonaire, Sint Eustatius of Saba bevindt, hetzij het feit is gepleegd tegen een Nederlander.  
 
 6°. 
 
@@ -1712,9 +1702,9 @@ Hij die opzettelijk eenig werk dienende voor het openbaar verkeer of het luchtve
 
 Hij die opzettelijk op een luchthaven een luchtvaartuig buiten bedrijf of enige voorziening vernielt, onbruikbaar maakt of beschadigt, dan wel de diensten op een luchthaven verstoort, wordt gestraft: 
 
-1°. met gevangenisstraf van ten hoogste negen jaren, indien daarvan gevaar voor de veiligheid van de luchtvaart te duchten valt;  
+1°. met gevangenisstraf van ten hoogste negen jaren, indien daarvan gevaar voor de veiligheid van de luchtvaart of gemeen gevaar voor goederen, gebouwen of diensten op de luchthaven te duchten valt;  
 
-2°. met gevangenisstraf van ten hoogste vijftien jaren, indien daarvan gevaar voor de veiligheid van de luchtvaart te duchten valt en het feit iemands dood ten gevolge heeft.   
+2°. met gevangenisstraf van ten hoogste vijftien jaren, indien daarvan gevaar voor de veiligheid van de luchtvaart of gemeen gevaar voor goederen, gebouwen of diensten op de luchthaven te duchten valt en het feit iemands dood ten gevolge heeft.   
 
 ### Artikel  169  
 
@@ -3445,7 +3435,7 @@ Hij die een Nederlandsch vaartuig opzettelijk in de macht van zeeroovers brengt,
 
 ### Artikel  399b  
 
-1.  Hij die opzettelijk een daad van geweld begaat tegen iemand die zich aan boord van een luchtvaartuig tijdens de vlucht bevindt, wordt gestraft: 
+1.  Hij die opzettelijk een ontplofbare of anderszins gemeengevaarlijke stof, of enig ander gemeengevaarlijk voorwerp aan boord van een luchtvaartuig plaatst of een daad van geweld begaat tegen iemand die zich aan boord van een luchtvaartuig tijdens de vlucht bevindt, wordt gestraft: 
 
 1°. met gevangenisstraf van ten hoogste negen jaren, indien daarvan gevaar voor de veiligheid van het luchtvaartuig te duchten is;  
 
@@ -3460,13 +3450,13 @@ Hij die opzettelijk gegevens doorgeeft waarvan hij weet of ernstige reden heeft 
 
 ### Artikel  399d  
 
-Hij die opzettelijk met gebruikmaking van een vuurwapen, een ontplofbare of anderszins gemeengevaarlijke stof of enig ander gemeengevaarlijk voorwerp, een daad van geweld begaat tegen iemand die zich in of in de onmiddellijke nabijheid van de vertrek- of aankomstruimten van een luchthaven bevindt, wordt gestraft: 
+Hij die opzettelijk een daad van geweld begaat tegen iemand die zich op een luchthaven bevindt, wordt gestraft: 
 
-1°. met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie, indien daardoor levensgevaar voor andere gebruikers van de luchthaven te duchten valt;  
+1°. met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie, indien daardoor levensgevaar of gevaar voor zwaar lichamelijk letsel voor anderen op de luchthaven te duchten valt;  
 
-2°. met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien daardoor levensgevaar voor andere gebruikers van de luchthaven te duchten valt en het feit zwaar lichamelijk letsel voor een ander ten gevolge heeft;  
+2°. met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien daardoor levensgevaar of gevaar voor zwaar lichamelijk letsel voor anderen op de luchthaven te duchten valt en het feit zwaar lichamelijk letsel voor een ander ten gevolge heeft;  
 
-3°. met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien daardoor levensgevaar voor andere gebruikers van de luchthaven te duchten valt en het feit iemands dood ten gevolge heeft.   
+3°. met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien daardoor levensgevaar voor anderen op de luchthaven te duchten valt en het feit iemands dood ten gevolge heeft.   
 
 ### Artikel  400  
 

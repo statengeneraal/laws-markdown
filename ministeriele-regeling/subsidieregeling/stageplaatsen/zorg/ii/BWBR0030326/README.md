@@ -10,7 +10,7 @@ Besluit:
 
 ### Artikel  1  
 
-1. In deze regeling wordt verstaan onder: 
+In deze regeling wordt verstaan onder: 
 
 a.  *minister:* minister van Volksgezondheid, Welzijn en Sport;  
 
@@ -36,7 +36,7 @@ c. *zorgopleiding:*
 
 d. *stageplaats:*
 
-1°. de praktijkuren van de deelnemer in het kader van de beroepspraktijkvorming, bedoeld in artikel 7.2.8 van de Wet educatie en beroepsonderwijs, bij een leerbedrijf als bedoeld in artikel 4.1.2, onderdeel b, van het Uitvoeringsbesluit WEB voor een zorgopleiding als bedoeld in onderdeel c, onder 1° of 2°;  
+1°.de praktijkuren van de deelnemer in het kader van de beroepspraktijkvorming, bedoeld in artikel 7.2.8 van de Wet Educatie en beroepsonderwijs, voor een zorgopleiding als bedoeld in onderdeel c, onder 1° en 2°, bij een voor de opleiding van de deelnemer bevoegd leerbedrijf, als bedoeld in artikel 4.1.2, onderdeel b, van het Uitvoeringsbesluit WEB; 
 
 2°. de tijdsduur gedurende welke een deelnemer als onderdeel van een zorgopleiding als bedoeld onderdeel c, onder 3° of 4°, ingevolge artikel 7.6, derde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek een bepaald vak onder leiding in praktijk brengt op grondslag van een overeenkomst, gesloten door de deelnemer, de stageaanbieder en de onderwijsinstelling, waarin ten minste is opgenomen de aanvangsdatum en einddatum van de periode en het aantal te volgen praktijkuren;    
 
@@ -56,17 +56,18 @@ g. *stageaanbieder:*
 
 – zorg als omschreven bij of krachtens de Zorgverzekeringswet of de Wet langdurige zorg verleent;    
 
-3°. jeugdhulpaanbieder als bedoeld in artikel 1.1. van de Jeugdwet.    
+3°. jeugdhulpaanbieder als bedoeld in artikel 1.1. van de Jeugdwet;  
 
-h.  *gerealiseerde stageplaats:* het aantal uren tijdens de periode van de stageplaats volgens de overeenkomst, bedoeld in artikel 7.2.8 van de Wet educatie en beroepsonderwijs of onderdeel d, onder 2°, tot ten hoogste 1280 uren per studiejaar en 40 weken per studiejaar indien het een zorgopleiding betreft als bedoeld in onderdeel c, onder 2° of 4°, dan wel 1440 uren per studiejaar en 40 weken per studiejaar indien het een zorgopleiding betreft als bedoeld in onderdeel c, onder 1° of 3°, gedeeld door 1280 indien het een zorgopleiding betreft als bedoeld in onderdeel c, onder 2° of 4°, dan wel door 1440 indien het een zorgopleiding betreft als bedoeld in onderdeel c, onder 1° of 3°, en vermenigvuldigd met de periode van de stageplaats tijdens het studiejaar waarvoor de subsidie wordt verstrekt gedeeld door de volledige periode van de stageplaats, met dien verstande dat uitsluitend acht wordt geslagen op de uren en de periode van de stageplaats die binnen de looptijd van de overeenkomst vallen.    
-2.  Indien de Wet op de jeugdzorg, de Wet maatschappelijke ondersteuning of de Wet langdurige zorg wordt ingetrokken, wordt een zorgaanbieder of zorgverlener voor het verstrekken van de subsidie ten behoeve van het studiejaar 2014–2015 als stageaanbieder aangemerkt volgens de regels zoals deze luidden tot het moment van intrekking van die wet. 
+4°. aanbieder als bedoeld in artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015.   
+
+h.  *gerealiseerde stageplaats:* het aantal uren tijdens de periode van de stageplaats volgens de overeenkomst, bedoeld in artikel 7.2.8 van de Wet educatie en beroepsonderwijs of onderdeel d, onder 2°, tot ten hoogste 1280 uren per studiejaar en 40 weken per studiejaar indien het een zorgopleiding betreft als bedoeld in onderdeel c, onder 2° of 4°, dan wel 1440 uren per studiejaar en 40 weken per studiejaar indien het een zorgopleiding betreft als bedoeld in onderdeel c, onder 1° of 3°, gedeeld door 1280 indien het een zorgopleiding betreft als bedoeld in onderdeel c, onder 2° of 4°, dan wel door 1440 indien het een zorgopleiding betreft als bedoeld in onderdeel c, onder 1° of 3°, en vermenigvuldigd met de periode van de stageplaats tijdens het studiejaar waarvoor de subsidie wordt verstrekt gedeeld door de volledige periode van de stageplaats, met dien verstande dat uitsluitend acht wordt geslagen op de uren en de periode van de stageplaats die binnen de looptijd van de overeenkomst vallen.  
 
 ### Artikel  2  
 
 1.  De minister kan aan een stageaanbieder jaarlijks op aanvraag een subsidie verstrekken voor het realiseren van stageplaatsen. De subsidie voor een zorgopleiding als bedoeld in artikel 1, onderdeel c, onder 1° en 3°, bestaat uit een tegemoetkoming in de begeleidingskosten en voor een zorgopleiding als bedoeld in artikel 1, onderdeel c, onder 2° en 4°, uit een tegemoetkoming in de loonkosten.   
 2.  De subsidie wordt per studiejaar verstrekt.   
 3.  De subsidie wordt voor het eerst verstrekt voor het studiejaar dat begint in 2011.   
-4.  Het subsidieplafond voor het verstrekken van subsidies bedraagt voor het studiejaar 2012–2013 € 106.000.000 en voor elk studiejaar daarna € 110.000.000 waarvan: 
+4.  Het subsidieplafond voor het verstrekken van subsidies bedraagt per studiejaar € 112.000.000, waarvan: 
 
 a. 40% gelijkelijk wordt verdeeld over het aantal gerealiseerde stageplaatsen voor zorgopleidingen die blijkens de bijlagen 1 tot en met 4 behoren tot categorie A, tot ten hoogste € 2.700 per gerealiseerde stageplaats;  
 
@@ -75,7 +76,7 @@ b. 33% gelijkelijk wordt verdeeld over het aantal gerealiseerde stageplaatsen vo
 c. 26% gelijkelijk wordt verdeeld over het aantal gerealiseerde stageplaatsen voor zorgopleidingen die blijkens de bijlagen 1 tot en met 4 behoren tot categorie C, tot ten hoogste € 3.000 per gerealiseerde stageplaats.  
 
 d. 1% gelijkelijk wordt verdeeld over het aantal gerealiseerde stageplaatsen voor zorgopleidingen die blijkens de bijlagen 1 tot en met 4 behoren tot categorie D, tot ten hoogste € 1.400 per gerealiseerde stageplaats.     
-5.  Tenzij de stageaanbieder bij de aanvraag een ander aantal gerealiseerde stageplaatsen opgeeft, ontleent de minister, door tussenkomst van Stichting Calibris, het aantal gerealiseerde stageplaatsen, bedoeld in het vorige lid: 
+5.  Tenzij de stageaanbieder bij de aanvraag een ander aantal gerealiseerde stageplaatsen opgeeft, ontleent de minister, door tussenkomst van Stichting Beroepsonderwijs en Bedrijfsleven, het aantal gerealiseerde stageplaatsen, bedoeld in het vorige lid: 
 
 a. voor een zorgopleiding bij een onderwijsinstelling als bedoeld in artikel 1, onderdeel b, onder 1°, aan het basisregister onderwijs, bedoeld in artikel 24b van de Wet op het onderwijstoezicht;  
 
@@ -138,54 +139,56 @@ E.I. Schippers
 | Code  | Naam  | Categorie  |
 |:---|:---|:---|
 | 10426  | Verpleegkundige niveau 4  | A  |
-| 92600  | Verpleegkundige niveau 4  | A  |
-| 92601  | Verpleegkundige niveau 4  | A  |
-| 92602  | Verpleegkundige niveau 4  | A  |
-| 92603  | Verpleegkundige niveau 4  | A  |
-| 92604  | Verpleegkundige niveau 4  | A  |
 | 93510  | Verpleegkundige niveau 4  | A  |
 | 95520  | Verpleegkundige niveau 4  | A  |
 | 10427  | Verzorgende niveau 3  | A  |
-| 92610  | Verzorgende niveau 3  | A  |
-| 92611  | Verzorgende niveau 3  | A  |
-| 92612  | Verzorgende niveau 3  | A  |
-| 92613  | Verzorgende niveau 3  | A  |
-| 92614  | Verzorgende niveau 3  | A  |
 | 93260  | Verzorgende niveau 3  | A  |
 | 94830  | Verzorgende niveau 3  | A  |
-| 94831  | Verzorgende niveau 3  | A  |
-| 94832  | Verzorgende niveau 3  | A  |
-| 94833  | Verzorgende niveau 3  | A  |
-| 94834  | Verzorgende niveau 3  | A  |
 | 95530  | Verzorgende niveau 3  | A  |
 | 10428  | Helpende Zorg niveau 2  | A  |
-| 91340  | Helpende Zorg niveau 2  | A  |
-| 91350  | Helpende Zorg niveau 2  | A  |
-| 91351  | Helpende Zorg niveau 2  | A  |
-| 10795  | Zorghulp niveau 1  | A  |
+| 25498  | Helpende zorg en welzijn 2  | A  |
 | 91420  | Zorghulp niveau 1  | A  |
 | 92660  | Maatschappelijke zorg niveau 4  | A  |
 | 92661  | Maatschappelijke zorg niveau 4  | A  |
 | 92650  | Maatschappelijke zorg niveau 3  | A  |
 | 92640  | Helpende Zorg en Welzijn niveau 2  | A  |
-| 10743  | Pedagogisch medewerker niveau 4  | A  |
 | 92630  | Pedagogisch medewerker niveau 4  | A  |
 | 92631  | Pedagogisch medewerker niveau 4  | A  |
-| 10742  | Pedagogisch medewerker niveau 3  | A  |
-| 10745  | Helpende welzijn niveau 2  | A  |
-| 91352  | Helpende welzijn niveau 2  | A  |
-|92662  |Maatschappelijke zorg niveau 4 |A  |
-|22191 |Verpleegkundige niveau 4 |A |
-|22190 |Verzorgende niveau 3 |A |
-|22189 |Helpende Zorg niveau 2 |A |
-|22188 |Zorghulp niveau 1 |A |
-|22195 |Maatschappelijke Zorg niveau 4 |A |
-|91430 |Maatschappelijke Zorg niveau 4 |A |
-|22197 |Pedagogisch medewerker niveau 4 |A |
-|22093  |Doktersassistenten niveau 4 |A |
-|91310  |Doktersassistenten niveau 4 |A |
-|10776  |Doktersassistenten niveau 4 |A |
-|95769  |Assistent Dienstverlening en Zorg niveau 1  |A |
+| 92662  | Maatschappelijke zorg niveau 4  | A  |
+| 22191  | Verpleegkundige niveau 4  | A  |
+| 22190  | Verzorgende niveau 3  | A  |
+| 22189  | Helpende Zorg niveau 2  | A  |
+| 22188  | Zorghulp niveau 1  | A  |
+| 22195  | Maatschappelijke Zorg niveau 4  | A  |
+| 22197  | Pedagogisch medewerker niveau 4  | A  |
+| 22193  | Doktersassistenten niveau 4  | A  |
+| 91310  | Doktersassistenten niveau 4  | A  |
+| 10776  | Doktersassistenten niveau 4  | A  |
+| 95769  | Assistent Dienstverlening en Zorg niveau 1  | A  |
+| 23186  | Tandartsassistent niveau 4  | A  |
+| 25490  | Tandartsassistent niveau 4  | A  |
+| 91410  | Tandartsassistent niveau 4  | A  |
+| 22194  | Tandartsassistent niveau 4  | A  |
+| 23178  | Apothekersassistent niveau 4  | A  |
+| 25471  | Apothekersassistent niveau 4  | A  |
+| 91300  | Apothekersassistent niveau 4  | A  |
+| 22192  | Apothekersassistent niveau 4  | A  |
+| 23180  | Doktersassistent niveau 4  | A  |
+| 25473  | Doktersassistent niveau 4  | A  |
+| 25498  | Helpende zorg en welzijn niveau 2  | A  |
+| 23181  | Maatschappelijke zorg niveau 3  | A  |
+| 23181  | Maatschappelijke zorg niveau 4  | A  |
+| 25474  | Agogisch medewerker GGZ niveau 4  | A  |
+| 25477  | Persoonlijk begeleider gehandicaptenzorg niveau 4  | A  |
+| 25478  | Persoonlijk begeleider specifieke doelgroepen niveau 4  | A  |
+| 25479  | Thuisbegeleider niveau 4  | A  |
+| 25475  | Begeleider gehandicaptenzorg niveau 3  | A  |
+| 25476  | Begeleider specifieke doelgroepen niveau 3  | A  |
+| 23182  | Mbo-Verpleegkundige niveau 4  | A  |
+| 25480  | Mbo-Verpleegkundige niveau 4  | A  |
+| 25484  | Gespecialiseerd pedagogisch medewerker niveau 4  | A  |
+| 23187  | Verzorgende IG niveau 3  | A  |
+| 25491  | Verzorgende IG niveau 3  | A  |
 
 ### Bijlage  2  
 
@@ -194,54 +197,56 @@ E.I. Schippers
 | Code  | Naam  | Categorie  |
 |:---|:---|:---|
 | 10426  | Verpleegkundige niveau 4  | B  |
-| 92600  | Verpleegkundige niveau 4  | B  |
-| 92601  | Verpleegkundige niveau 4  | B  |
-| 92602  | Verpleegkundige niveau 4  | B  |
-| 92603  | Verpleegkundige niveau 4  | B  |
-| 92604  | Verpleegkundige niveau 4  | B  |
 | 93510  | Verpleegkundige niveau 4  | B  |
 | 95520  | Verpleegkundige niveau 4  | B  |
 | 10427  | Verzorgende niveau 3  | C  |
-| 92610  | Verzorgende niveau 3  | C  |
-| 92611  | Verzorgende niveau 3  | C  |
-| 92612  | Verzorgende niveau 3  | C  |
-| 92613  | Verzorgende niveau 3  | C  |
-| 92614  | Verzorgende niveau 3  | C  |
 | 93260  | Verzorgende niveau 3  | C  |
 | 94830  | Verzorgende niveau 3  | C  |
-| 94831  | Verzorgende niveau 3  | C  |
-| 94832  | Verzorgende niveau 3  | C  |
-| 94833  | Verzorgende niveau 3  | C  |
-| 94834  | Verzorgende niveau 3  | C  |
 | 95530  | Verzorgende niveau 3  | C  |
 | 10428  | Helpende Zorg niveau 2  | B  |
-| 91340  | Helpende Zorg niveau 2  | B  |
-| 91350  | Helpende Zorg niveau 2  | B  |
-| 91351  | Helpende Zorg niveau 2  | B  |
-| 10795  | Zorghulp niveau 1  | B  |
+| 25498  | Helpende zorg en welzijn 2  | B  |
 | 91420  | Zorghulp niveau 1  | B  |
 | 92660  | Maatschappelijke zorg niveau 4  | B  |
 | 92661  | Maatschappelijke zorg niveau 4  | B  |
 | 92650  | Maatschappelijke zorg niveau 3  | C  |
 | 92640  | Helpende Zorg en Welzijn niveau 2  | B  |
-| 10743  | Pedagogisch medewerker niveau 4  | B  |
 | 92630  | Pedagogisch medewerker niveau 4  | B  |
 | 92631  | Pedagogisch medewerker niveau 4  | B  |
-| 10742  | Pedagogisch medewerker niveau 3  | C  |
-| 10745  | Helpende welzijn niveau 2  | B  |
-| 91352  | Helpende welzijn niveau 2  | B  |
-|92662  |Maatschappelijke zorg niveau 4 |B  |
-|22191 |Verpleegkundige niveau 4 |B |
-|22190 |Verzorgende niveau 3 |C |
-|22189 |Helpende Zorg niveau 2 |B |
-|22188 |Zorghulp niveau 1 |B |
-|22195 |Maatschappelijke Zorg niveau 4 |B |
-|91430 |Maatschappelijke Zorg niveau 4 |B |
-|22197 |Pedagogisch medewerker niveau 4 |B |
-|22093  |Doktersassistenten niveau 4  |B |
-|91310  |Doktersassistenten niveau 4  |B |
-|10776  |Doktersassistenten niveau 4  |B |
-|95769  |Assistent Dienstverlening en Zorg niveau 1  |B |
+| 92662  | Maatschappelijke zorg niveau 4  | B  |
+| 22191  | Verpleegkundige niveau 4  | B  |
+| 22190  | Verzorgende niveau 3  | C  |
+| 22189  | Helpende Zorg niveau 2  | B  |
+| 22188  | Zorghulp niveau 1  | B  |
+| 22195  | Maatschappelijke Zorg niveau 4  | B  |
+| 22197  | Pedagogisch medewerker niveau 4  | B  |
+| 22193  | Doktersassistenten niveau 4  | B  |
+| 91310  | Doktersassistenten niveau 4  | B  |
+| 10776  | Doktersassistenten niveau 4  | B  |
+| 95769  | Assistent Dienstverlening en Zorg niveau 1  | B  |
+| 23186  | Tandartsassistent niveau 4  | B  |
+| 25490  | Tandartsassistent niveau 4  | B  |
+| 91410  | Tandartsassistent niveau 4  | B  |
+| 22194  | Tandartsassistent niveau 4  | B  |
+| 23178  | Apothekersassistent niveau 4  | B  |
+| 25471  | Apothekersassistent niveau 4  | B  |
+| 91300  | Apothekersassistent niveau 4  | B  |
+| 22192  | Apothekersassistent niveau 4  | B  |
+| 23180  | Doktersassistent niveau 4  | B  |
+| 25473  | Doktersassistent niveau 4  | B  |
+| 25498  | Helpende zorg en welzijn niveau 2  | B  |
+| 23181  | Maatschappelijke zorg niveau 3  | C  |
+| 23181  | Maatschappelijke zorg niveau 4  | B  |
+| 25474  | Agogisch medewerker GGZ niveau 4  | B  |
+| 25477  | Persoonlijk begeleider gehandicaptenzorg niveau 4  | B  |
+| 25478  | Persoonlijk begeleider specifieke doelgroepen niveau 4  | B  |
+| 25479  | Thuisbegeleider niveau 4  | B  |
+| 25475  | Begeleider gehandicaptenzorg niveau 3  | C  |
+| 25476  | Begeleider specifieke doelgroepen niveau 3  | C  |
+| 23182  | Mbo-Verpleegkundige niveau 4  | B  |
+| 25480  | Mbo-Verpleegkundige niveau 4  | B  |
+| 25484  | Gespecialiseerd pedagogisch medewerker niveau 4  | B  |
+| 23187  | Verzorgende IG niveau 3  | C  |
+| 25491  | Verzorgende IG niveau 3  | C  |
 
 ### Bijlage  3  
 

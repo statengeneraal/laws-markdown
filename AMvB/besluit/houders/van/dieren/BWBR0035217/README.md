@@ -1971,8 +1971,6 @@ b. bewijs van inenting van honden en katten.
 
 ####Vakbekwaamheid
 
-Treedt in werking per 01-07-2015 
-
 1.  In de inrichting is een beheerder werkzaam die in het bezit is van een door Onze Minister erkend bewijs van vakbekwaamheid voor de diergroep waarmee activiteiten in de inrichting worden verricht.   
 2.  Een kopie van het in het eerste lid bedoelde bewijs van vakbekwaamheid wordt bij een inspectie ter naleving van dit besluit aan de daartoe aangewezen ambtenaar ter beschikking gesteld.   
 3.  Bij langdurige ziekte, ontslag of overlijden van de beheerder kan, voor de duur van een periode van ten hoogste 12 aaneengesloten maanden, worden afgeweken van het eerste lid met dien verstande dat de persoon die dagelijks leiding in de inrichting geeft over de in artikel 3.6 bedoelde handelingen over voldoende relevante werkervaring beschikt en dit kan aantonen.   
@@ -3101,4 +3099,33 @@ Categorieën
 | 9. Vierde lid, onderdeel a, subonderdeel 1 respectievelijk subonderdeel 2  | 20  |
 | 10. Vierde lid, onderdeel b, voor zover dat onderdeel betrekking heeft op een kooi zonder plateau  | 10  |
 | 11. Zesde lid, onderdelen a en b, voor zover die onderdelen betrekking hebben op een kooi als bedoeld in de aanhef van het vierde lid  |  5  |
+
+### Bijlage  IV  
+
+####als bedoeld in artikel 4.14  van het besluit
+
+Treedt in werking per 15-09-2015 
+
+Aangewezen soorten van zoogdieren waarmee deelname aan en vervoer ten behoeve van een circus of een ander optreden is toegestaan.  
+
+|  *Soorten*   |--- |
+|:---|:---|
+| Equus asinus  | (Ezel)  |
+| Equus caballus  | (Paard)  |
+| Canis lupus familiaris  | (Hond)  |
+| Felis catus  | (Kat)  |
+| Bos taurus  | (Rund)  |
+| Ovis aries  | (Schaap)  |
+| Capra hircus  | (Geit)  |
+| Sus scrofa  | (Varken)  |
+| Lama glama (Guanaco familiaris)  | (Lama)  |
+| Vicugna pacos  | (Alpaca)  |
+| Camelus bactrianus  | (Kameel)  |
+| Camelus dromedarius  | (Dromedaris)  |
+| Oryctolagus cuniculus  | (Konijn)  |
+| Rattus norvegicus  | (Bruine rat)  |
+| Mus musculus  | (Tamme muis/huismuis)  |
+| Cavia porcellus  | (Cavia)  |
+| Mesocricetus auratus  | (Goudhamster)  |
+| Meriones unguiculatus  | (Gerbil)  |
 
