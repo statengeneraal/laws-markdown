@@ -14,7 +14,7 @@ Gezien het nader rapport van de Staatssecretaris van Justitie van 22 februari 19
 Hebben goedgevonden en verstaan:      
 ### Hoofdstuk  1  
 
-####De ambtenaar van de burgerlijke stand, de registers van de burgerlijke stand, de akten en de dubbelen, de latere vermeldingen, de afschriften en uittreksels en de in verband met het opmaken van bepaalde akten over te leggen bescheiden 
+####De ambtenaar van de burgerlijke stand, de registers van de burgerlijke stand, de akten en de dubbelen, de latere vermeldingen, de afschriften en uittreksels en de in verband met het opmaken van bepaalde akten te verstrekken gegevens en over te leggen bescheiden 
 
 ### Eerste  afdeling  
 
@@ -83,7 +83,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ### Artikel  11  
 
-De ambtenaar van de burgerlijke stand stelt jaarlijks per registersoort klappers samen van de akten die gedurende het afgelopen jaar zijn ingeschreven in de registers van geboorten, van huwelijken, geregistreerde partnerschappen en van overlijden, alsmede van het register, bedoeld in artikel 17, tweede lid, van Boek 1 van het Burgerlijk Wetboek.  
+De ambtenaar van de burgerlijke stand stelt jaarlijks per registersoort klappers samen van de akten die gedurende het afgelopen jaar zijn ingeschreven in de losbladige registers van geboorten, van huwelijken, geregistreerde partnerschappen en van overlijden, alsmede van het register, bedoeld in artikel 17, tweede lid, van Boek 1 van het Burgerlijk Wetboek.  
 
 ### Artikel  12  
 
@@ -128,9 +128,8 @@ Onze Minister kan nadere voorschriften geven omtrent de inrichting van de klappe
 ### Artikel  17  
 
 1.  De ambtenaar van de burgerlijke stand zorgt ervoor dat de akten duidelijk leesbaar zijn en in de Nederlandse taal gesteld, met inachtneming van het bepaalde in artikel 8, derde lid, van de Wet gebruik Friese taal in het rechtsverkeer.    
-2.   Hij haalt gedeelten van een voorgedrukte tekst, die niet van toepassing zijn, door, en waarmerkt de doorhalingen.    
-3.   In staatakten geeft hij vermeldingen die niet van toepassing zijn, aan door een liggend streepje.    
-4.   Hij ondertekent iedere akte en iedere latere vermelding.   
+2.   In staatakten geeft hij vermeldingen die niet van toepassing zijn, aan door een liggend streepje.    
+3.   Hij ondertekent iedere akte en iedere latere vermelding.   
 
 ### Artikel  18  
 
@@ -166,7 +165,7 @@ Een ambtenaar van de burgerlijke stand die een akte heeft opgemaakt, waarvan ing
 1.  De ambtenaar van de burgerlijke stand geeft buiten Nederland opgemaakte stukken, die ten behoeve van het opmaken van een akte van de burgerlijke stand of van een latere vermelding dienen te worden overgelegd, terug nadat hij zich daarvan een afschrift heeft doen overleggen.    
 2.   De in het eerste lid bedoelde afschriften en de overige stukken die ten behoeve van het opmaken van een akte van de burgerlijke stand of van een latere vermelding in een lopend register zijn overgelegd, worden vernietigd nadat achttien maanden zijn verstreken sedert de datum waarop het register waarvan deze stukken de bijlagen zijn, is afgesloten.    
 3.   De in het eerste lid bedoelde afschriften en de overige stukken die ten behoeve van het opmaken van een latere vermelding in een afgesloten register dienen te worden overgelegd, worden vernietigd nadat achttien maanden zijn verstreken sedert de datum waarop deze latere vermelding is opgemaakt.    
-4.   De akten van huwelijksaangifte en van huwelijkstoestemming alsmede de akten van aangifte van een registratie van een partnerschap en van toestemming tot registratie van een partnerschap worden vernietigd nadat achttien maanden zijn verstreken sedert de datum waarop zij zijn opgemaakt.    
+4.  De verklaring als bedoeld in artikel 44, respectievelijk artikel 80a, derde lid, van Boek 1 van het Burgerlijk Wetboek wordt vernietigd nadat achttien maanden zijn verstreken sinds het opmaken van de huwelijksakte respectievelijk de akte van geregistreerd partnerschap.   
 5.  De akte van erkenning en de akte van ontkenning van het vaderschap of moederschap door de moeder uit wie het kind is geboren worden vernietigd:  
 
 a. nadat achttien maanden zijn verstreken sedert de ontvangst van het afschrift, bedoeld in artikel 20f, tweede lid, van Boek 1 van het Burgerlijk Wetboek, of   
@@ -191,8 +190,8 @@ Van akten van huwelijk of van overlijden welke vóór de inwerkingtreding van di
 ### Artikel  26  
 
 1.  Een afschrift van een akte van de burgerlijke stand bevat mede de latere vermeldingen die krachtens wettelijk voorschrift aan de akte zijn toegevoegd.    
-2.   Een uittreksel als bedoeld in artikel 23 *b*, eerste lid, van Boek 1 van het Burgerlijk Wetboek bevat de gegevens ter zake van de toestand op het tijdstip van afgifte.    
-3.   De in het eerste en tweede lid bedoelde afschriften of uittreksels worden door de bewaarder van het register voorzien van de verklaring dat de daarin vermelde gegevens overeenstemmen met, dan wel zijn ontleend aan het origineel. Zij worden door hem gedagtekend en ondertekend en voorzien van zijn dienststempel.   
+2.   Een uittreksel als bedoeld in artikel 23b, eerste lid, van Boek 1 van het Burgerlijk Wetboek bevat de gegevens ter zake van de toestand op het tijdstip van afgifte.    
+3.   De in het eerste en tweede lid bedoelde afschriften of uittreksels worden door de bewaarder van het register voorzien van de verklaring dat de daarin vermelde gegevens overeenstemmen met, dan wel zijn ontleend aan het origineel. Zij worden door hem gedagtekend en ondertekend.   
 
 ### Zesde  Afdeling  
 
@@ -232,89 +231,32 @@ m. de plaats, het adres en het telefoonnummer van de praktijk van de onder k bed
 
 ### Zevende  Afdeling  
 
-####De voor het huwelijk en de registratie van een partnerschap vereiste bescheiden en de stuiting van het huwelijk en van de registratie van een partnerschap
+####De in verband met de kennisgeving van het huwelijk en de registratie van een partnerschap af te leggen verklaring en de stuiting van het huwelijk en van de registratie van een partnerschap
 
 ### Artikel  28  
 
-1.  De akte die aan de ambtenaar van de burgerlijke stand op grond van artikel 44, eerste lid, onder a, respectievelijk artikel 80a, zesde lid van Boek 1 van het Burgerlijk Wetboek ter hand moet worden gesteld, is een afschrift van de geboorteakte als bedoeld in artikel 26 van dit besluit. Is dit in geval van geboorte buiten Nederland niet mogelijk, dan kan met een uittreksel worden volstaan.   
-2.  Het gewaarmerkt afschrift van gegevens uit de basisregistratie personen, bedoeld in artikel 44, eerste lid, onder a, in verband met artikel 80a, zesde lid van Boek 1 van het Burgerlijk Wetboek, wordt overgelegd ten behoeve van de verklaring bedoeld in het derde lid van dit artikel en bevat: 
+1.  De verklaring als bedoeld in artikel 44, eerste lid, onder j, respectievelijk artikel 80a, derde lid, van Boek 1 van het Burgerlijk Wetboek, vermeldt voor zover van toepassing, de volgende gegevens betreffende de persoon op wie de verklaring betrekking heeft: 
 
-a. de geslachtsnaam;  
+1°. zijn nationaliteit;  
 
-b. de voornamen;  
+2°. een omschrijving van zijn identiteitsbewijs, met vermelding van het nummer, de plaats en de datum van afgifte;  
 
-c. de geboortedatum;  
+3°. een omschrijving van het bewijsstuk van permanent verblijf in het buitenland;  
 
-d. de geboorteplaats;  
+4°. de volgende gegevens over de kinderen tot wie hij in familierechtelijke betrekking staat: geslachtsnaam, voornamen, datum, plaats en land van geboorte, nationaliteit, woon- of verblijfplaats, alsmede de geslachtsnaam en voornamen van de andere ouder, die tot de kinderen in familierechtelijke betrekking staat;  
 
-e. de gemeente waar de betrokkene zijn adres heeft; 
+5°. de volgende gegevens over zijn eerdere echtgenoot of echtgenoten of eerdere geregistreerde partner of geregistreerde partners, zijn echtgenoot of geregistreerde partner: geslachtsnaam, voornamen, datum, plaats en land van geboorte, nationaliteit, plaats, land en datum van de voltrekking van het huwelijk of van de huwelijken of van registratie van het partnerschap of van de partnerschappen, plaats, land, datum en grond van de ontbinding van het eerdere huwelijk of van de eerdere huwelijken en van de beëindiging van het eerdere partnerschap of van de eerdere partnerschappen;  
 
-f. de burgerlijke staat, met vermelding van namen en voornamen van eerdere echtgenoten dan wel eerdere geregistreerde partners alsmede de datum en de grond van ontbinding van eerdere huwelijken dan wel beëindiging van eerdere geregistreerde partnerschappen;  
+6°. de gegevens over de duur van zijn verblijf in Nederland;  
 
-g. de nationaliteit.     
-3.  Een verklaring van de korpschef als bedoeld in artikel 44, eerste lid, onder k, van Boek 1 van het Burgerlijk Wetboek, bevat: 
+7°. andere relevante gegevens;  
 
-a. In een deel A, voorzover van toepassing, de volgende gegevens betreffende de persoon op wie de verklaring betrekking heeft: 
-
-1°. zijn geslachtsnaam, voornamen, datum, plaats en land van geboorte en zijn nationaliteit;  
-
-2°. zijn woonadres, met vermelding van straat, huisnummer, postcode, woonplaats en land, alsmede van de telefoonnummers waar hij bereikbaar is;  
-
-3°. een omschrijving van zijn identiteitsbewijs, met vermelding van het nummer, de plaats en de datum van afgifte;  
-
-4°. een omschrijving van het overgelegde bewijsstuk van permanent verblijf in het buitenland;  
-
-5°. de volgende gegevens over de kinderen tot wie hij in familierechtelijke betrekking staat: geslachtsnaam, voornamen, datum, plaats en land van geboorte, nationaliteit, woon- of verblijfplaats, alsmede de geslachtsnaam en voornamen van de andere ouder, die tot de kinderen in familierechtelijke betrekking staat;  
-
-6°. de volgende gegevens over zijn eerdere echtgenoot of echtgenoten of eerdere geregistreerde partner of geregistreerde partners, zijn echtgenoot of geregistreerde partner: geslachtsnaam, voornamen, datum, plaats en land van geboorte, nationaliteit, plaats, land en datum van de voltrekking van het huwelijk of van de huwelijken of van registratie van het partnerschap of van de partnerschappen, plaats, land, datum en grond van de ontbinding van het eerdere huwelijk of van de eerdere huwelijken en van de beeïndiging van het eerdere partnerschap of van de eerdere partnerschappen;  
-
-7°. de gegevens over de duur van zijn verblijf in Nederland;  
-
-8°. andere relevante gegevens;  
-
-9°. de ondertekende verklaring dat de aanvrager de gegevens onder 1° tot en met 8° naar waarheid heeft verstrekt, met vermelding van plaats en datum;  
-
-10°. de onder 1° tot en met 9° vermelde gegevens betreffende de echtgenoot of aanstaande echtgenoot, of de geregistreerde partner of aanstaande geregistreerde partner van de aanvrager van de verklaring.    
-
-b. In een deel B, voorzover van toepassing, de volgende door de korpschef te verstrekken gegevens met betrekking tot de vreemdeling of vreemdelingen op wie de verklaring betrekking heeft: 
-
-1°. het nummer waaronder betrokkene geregistreerd is in de vreemdelingenadministratie, zijn geslachtsnaam, voornamen, nationaliteit en geboortedatum;  
-
-2°. de vermelding dat betrokkene permanent buiten Nederland verblijft en geen aanvraag tot het verlenen van een verblijfsvergunning in Nederland heeft ingediend noch voornemens is een dergelijke aanvraag in te dienen;  
-
-3°. de gegevens over zijn verblijfsrechtelijke positie, waaronder de gegevens over de aanvraag tot toegang tot Nederland onder vermelding van de datum van de aanvraag en het doel van het verblijf, de gegevens inzake de beslissing op de aanvraag onder vermelding van de datum van de beslissing en de beperking waaronder de verblijfsvergunning is verleend, de datum waarop de verleende verblijfsvergunning zijn geldigheid heeft verkregen en de duur van de geldigheid;  
-
-4°. de gegevens omtrent eerdere aanvragen tot toegang tot Nederland, onder vermelding van het beoogde doel, datum van het verzoek en de beslissing daarop;  
-
-5°. de gegevens over eerder aangevraagde verklaringen als bedoeld in artikel 44, eerste lid, onder k, van Boek 1 van het Burgerlijk Wetboek, onder vermelding van de datum van de aanvraag, de grond, het advies van de korpschef, de beslissing van de ambtenaar van de burgerlijke stand of van de ambtenaar van de basisregistratie personen, de beslissing van de gerechtelijke instantie en gegevens omtrent de uitzetting van de betrokkene uit Nederland;  
-
-6°. de onder 1° tot en met 5° vermelde gegevens betreffende de echtgenoot of aanstaande echtgenoot, of de geregistreerde partner of aanstaande geregistreerde partner van de persoon op wie de verklaring betrekking heeft;  
-
-7°. het gemotiveerd advies van de korpschef inzake de verklaring;  
-
-8°. de datum van de afgifte van de verklaring onder vermelding van de geslachtsnaam en voornaam dan wel voorletter of voorletters van de behandelende ambtenaar en diens handtekening en  
-
-9°. de gegevens inzake de waarnemingen die de grondslag vormen voor een negatief advies van de korpschef.       
-4.  Bij een verklaring als bedoeld in artikel 44, eerste lid, onder k, van Boek 1 van het Burgerlijk Wetboek behoren een deel C en een deel D. 
-
-a. Deel C bevat de volgende door de ambtenaar van de burgerlijke stand respectievelijk de ambtenaar van de basisregistratie personen aan de korpschef te verstrekken gegevens, onder vermelding van het nummer waaronder de desbetreffende vreemdeling of vreemdelingen in de vreemdelingenadministratie geregistreerd is of zijn: 
-
-1°. het door de korpschef uitgebrachte advies;  
-
-2°. de beslissing inzake de voltrekking van het huwelijk dan wel de registratie van het partnerschap;  
-
-3°. de beslissing inzake de opname van het huwelijk dan wel het geregistreerde partnerschap in de basisregistratie personen, of  
-
-4°. de beslissing inzake de inschrijving van het huwelijk dan wel het geregistreerde partnerschap in de registers van de burgerlijke stand te 's-Gravenhage;  
-
-5°. de plaats, datum, naam, functie en handtekening van de ambtenaar van de burgerlijke stand dan wel ambtenaar van de basisregistratie personen die de gegevens heeft verstrekt;    
-
-b. Deel D bevat, onder vermelding van het nummer waaronder de desbetreffende vreemdeling of vreemdelingen in de vreemdelingenadministratie geregistreerd is of zijn, de door de ambtenaar van de burgerlijke stand respectievelijk de ambtenaar van de basisregistratie personen aan de korpschef te verstrekken gegevens inzake de beslissing van de gerechtelijke instantie indien door de belanghebbende of belanghebbenden beroep is ingesteld tegen een van de beslissingen genoemd in onderdeel a van dit lid, met vermelding van de plaats, datum, naam, functie en handtekening van de ambtenaar van de burgerlijke stand dan wel van de ambtenaar van de basisregistratie personen die de gegevens heeft verstrekt.    
+8°. de ondertekende verklaring dat de gegevens onder 1° tot en met 7° naar waarheid zijn verstrekt, met vermelding van plaats en datum;     
+2.  De ambtenaar van de burgerlijke stand bewaart de in het eerste lid bedoelde verklaring gedurende twaalf jaar ten behoeve van verificatie door de Immigratie- en Naturalisatiedienst. 
 
 ### Artikel  29  
 
-1.  Indien een verklaring is afgelegd overeenkomstig artikel 55, onder b, van Boek 1 van het Burgerlijk Wetboek, maakt de ambtenaar van de burgerlijke stand hiervan een akte op, welke door hem en degene die de verklaring heeft afgelegd wordt ondertekend, en geeft hij van deze verklaring kennis aan de ambtenaar van de burgerlijke stand van de andere gemeenten waar het huwelijk zou kunnen worden voltrokken, dan wel het geregistreerd partnerschap zou kunnen worden aangegaan.    
-2.   De in het eerste lid genoemde akte wordt gevoegd bij de akte van huwelijksaangifte, dan wel de akte van aangifte van een registratie van een partnerschap nadat aan die akte de in artikel 20a, vierde lid, van Boek 1 van het Burgerlijk Wetboek voorgeschreven latere vermelding is toegevoegd.   
+Indien een verklaring is afgelegd overeenkomstig artikel 55, onder b, van Boek 1 van het Burgerlijk Wetboek, maakt de ambtenaar van de burgerlijke stand waar het huwelijk zou worden voltrokken, dan wel het geregistreerd partnerschap zou worden aangegaan hiervan een akte op, welke door hem en degene die de verklaring heeft afgelegd wordt ondertekend. 
 
 ### Achtste  Afdeling  
 
@@ -485,7 +427,7 @@ d. indien vereist, de toestemming van de moeder uit wie het kind is geboren en v
 
 e. de geslachtsnaam van het kind na de erkenning, indien van toepassing met vermelding dat de geslachtsnaam gekozen is;  
 
-f.het recht dat ingevolge artikel 4, eerste of tweede lid, van de Wet conflictenrecht afstamming op de erkenning is toegepast.   
+f.het recht dat ingevolge artikel 95, eerste of tweede lid, van Boek 10 van het Burgerlijk Wetboek op de erkenning is toegepast.   
 2.   De akte van ontkenning van het vaderschap of moederschap door de moeder uit wie het kind is geboren vermeldt:  
 
 a. de geslachtsnaam, de voornamen, het geslacht, alsmede de plaats en de dag van geboorte van het kind;   
@@ -572,45 +514,13 @@ De latere vermelding van een buiten Nederland gedane rechterlijke uitspraak, waa
 
 ####De akte van huwelijksaangifte en de akte van aangifte van registratie van een partnerschap
 
-### Artikel  55  
-
-De akte van huwelijksaangifte vermeldt:  
-
-a. de geslachtsnaam, de voornamen alsmede de plaats en de dag van geboorte en de woonplaats der aanstaande echtgenoten;   
-
-b. indien men eerder gehuwd of geregistreerd partner is geweest, de geslachtsnaam en de voornamen van de vroegere echtgeno(o)t(en) en de geregistreerde partner(s);  
-
-c. de gemeente waarin overeenkomstig artikel 43, tweede lid, van Boek 1 van het Burgerlijk Wetboek de huwelijksvoltrekking zal plaatsvinden.    
-
-### Artikel  55a  
-
-De akte van aangifte van registratie van een partnerschap vermeldt:  
-
-a. de geslachtsnaam, de voornamen alsmede de plaats en de dag van geboorte en de woonplaats van de aanstaande geregistreerde partners;   
-
-b. indien men eerder gehuwd of eerder geregistreerd partner is geweest, de geslachtsnaam en de voornamen van de vroegere echtgeno(o)t(en) of geregistreerde partner(s);   
-
-c. de gemeente waarin op grond van artikel 80a van Boek 1 van het Burgerlijk Wetboek het geregistreerd partnerschap zal worden aangegaan.    
+Vervallen per 01-09-2015 
 
 ### Zevende  afdeling  
 
 ####De akte van toestemming tot het huwelijk en tot registratie van een partnerschap
 
-### Artikel  56  
-
-De door de ambtenaar van de burgerlijke stand opgemaakte akte van toestemming tot het huwelijk vermeldt:  
-
-a. de geslachtsnaam, de voornamen en, voor zover bekend, de plaats en de dag van geboorte van de aanstaande echtgenoten;   
-
-b. de geslachtsnaam, de voornamen en, voor zover bekend, de plaats en de dag van geboorte van partijen alsmede de hoedanigheid waarin zij hun toestemming geven.    
-
-###Artikel 56a 
-
-De door de ambtenaar van de burgerlijke stand opgemaakte akte van toestemming tot registratie van een partnerschap vermeldt:
-
-a.de geslachtsnaam, de voornamen en, voor zover bekend, de plaats en de dag van geboorte van de aanstaande geregistreerde partners; 
-
-b.de geslachtsnaam, de voornamen en, voor zover bekend, de plaats en de dag van geboorte van partijen alsmede de hoedanigheid waarin zij hun toestemming geven.
+Vervallen per 01-09-2015 
 
 ### Achtste  afdeling  
 
@@ -656,7 +566,7 @@ a. de geslachtsnaam en de voornamen van de getuigen;
 b. de bij de akte van registratie van een partnerschap gegeven toestemming;   
 
 c. voor zover toepasselijk, de nationaliteit die een niet Nederlandse geregistreerde partner vermoedelijk heeft.      
-4.  De ambtenaar van de burgerlijke stand, bedoeld in artikel 40, eerste lid, onder a, van dit besluit is de ambtenaar ten overstaan van wie de registratie bedoeld in artikel 80a, vijfde lid, van Boek 1 van het Burgerlijk Wetboek is aangegaan.   
+4.  De ambtenaar van de burgerlijke stand, bedoeld in artikel 40, eerste lid, onder a, van dit besluit is de ambtenaar ten overstaan van wie de registratie bedoeld in artikel 80a, derde lid, van Boek 1 van het Burgerlijk Wetboek is aangegaan.   
 
 ### Artikel  57c  
 
@@ -733,7 +643,7 @@ g. de geslachtsnaam en de voornamen van de persoon met wie de overledene ten tij
 2.   De akte vermeldt in het tweede gedeelte de geslachtsnaam en de voornamen van de ouders van de overledene, voor zover deze bekend zijn.    
 3.  De akte vermeldt in het derde gedeelte achtereenvolgens:  
 
-a. voor zover bekend, de geslachtsnaam en de voornamen van de persoon of van de personen, met wie de overledene eerder gehuwd of als partner geregistreerd was was;   
+a. voor zover bekend, de geslachtsnaam en de voornamen van de persoon of van de personen, met wie de overledene eerder gehuwd of als partner geregistreerd was;  
 
 b. de geslachtsnaam en de voornamen alsmede de plaats en de dag van geboorte van de aangever.     
 
@@ -755,7 +665,7 @@ f. voor zover bekend, de geslachtsnaam en de voornamen van de persoon met wie de
 2.   De akte vermeldt in het tweede gedeelte de geslachtsnaam en de voornamen van de ouders van de overledene, voor zover deze bekend zijn.    
 3.   De akte vermeldt in het derde gedeelte:  
 
-a. voor zover bekend, de geslachtsnaam en de voornamen van de persoon of van de personen, met wie de overledene eerder gehuwd of als partner geregistreerd was was;   
+a. voor zover bekend, de geslachtsnaam en de voornamen van de persoon of van de personen, met wie de overledene eerder gehuwd of als partner geregistreerd was;  
 
 b. de schriftelijke aangifte van de hulpofficier van justitie.      
 4.   De plaats waar het lijk is gevonden, wordt zo nauwkeurig mogelijk aangeduid.   

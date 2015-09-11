@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een wet tot stand te brengen waarin regels worden gesteld inzake de beëdiging van tolken en vertalers en de kwaliteit en integriteit van beëdigde tolken en vertalers, waarin de [wet van 6 mei 1878](../../../../../../../wet/wet/beëedigde/vertalers/BWBR0001849/README.md), houdende bepalingen omtrent de beëedigde vertalers opgaat;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is een wet tot stand te brengen waarin regels worden gesteld inzake de beëdiging van tolken en vertalers en de kwaliteit en integriteit van beëdigde tolken en vertalers, waarin de wet van 6 mei 1878, houdende bepalingen omtrent de beëedigde vertalers opgaat;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -77,7 +77,7 @@ Om voor inschrijving in het register in aanmerking te komen dient de tolk dan we
 ### Artikel  4  
 
 1.  Een aanvraag tot inschrijving geschiedt bij Onze Minister.   
-2.  Bij de aanvraag tot inschrijving, bedoeld in het eerste lid, legt de tolk of vertaler een verklaring omtrent het gedrag over, als bedoeld in de [Wet justitiële en strafvorderlijke gegevens](../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md).   
+2.  Bij de aanvraag tot inschrijving, bedoeld in het eerste lid, legt de tolk of vertaler een verklaring omtrent het gedrag over, als bedoeld in de Wet justitiële en strafvorderlijke gegevens.   
 3.  De tolk of vertaler die minder dan vijf jaar in Nederland woonachtig is, legt naast de verklaring omtrent het gedrag tevens een integriteitsverklaring over die is afgegeven door een daartoe bevoegde instantie in het land van herkomst. Onze Minister weigert inschrijving van betrokkene in het register indien hij niet overtuigd is dat de overgelegde integriteitsverklaring voldoende waarborg biedt inzake de integriteit.   
 4.  In afwijking van het tweede lid legt een tolk of vertaler die niet in Nederland woonachtig is een integriteitsverklaring over die is afgegeven door een daartoe bevoegde instantie in het land van herkomst. Onze Minister weigert inschrijving van betrokkene in het register indien hij niet overtuigd is dat de overgelegde integriteitsverklaring voldoende waarborg biedt inzake de integriteit.   
 5.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld inzake: 
@@ -88,7 +88,7 @@ b. de wijze van indiening van de aanvraag;
 
 c. het bedrag dat bij behandeling van de aanvraag verschuldigd is.     
 6.  Onze Minister neemt binnen zes weken een beslissing op de aanvraag tot inschrijving.   
-7.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een verzoek tot inschrijving als bedoeld in het eerste lid. 
+7.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op een verzoek tot inschrijving als bedoeld in het eerste lid. 
 
 ### Artikel  5  
 
@@ -96,7 +96,7 @@ De aanvraag tot inschrijving wordt afgewezen indien:
 
 a. de aanvrager niet voldoet aan de in artikel 3 bedoelde eisen;  
 
-b. de aanvrager vreemdeling is en geen rechtmatig verblijf heeft in Nederland in de zin van [artikel 8, aanhef en onder a tot en met e, dan wel l, van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of niet gerechtigd is in Nederland arbeid te verrichten;  
+b. de aanvrager vreemdeling is en geen rechtmatig verblijf heeft in Nederland in de zin van artikel 8, aanhef en onder a tot en met e, dan wel l, van de Vreemdelingenwet 2000, of niet gerechtigd is in Nederland arbeid te verrichten;  
 
 c. de aanvrager ingevolge een in kracht van gewijsde gegane rechterlijke uitspraak onder curatele is gesteld wegens zijn lichamelijke of geestelijke toestand; of  
 
@@ -106,7 +106,7 @@ d. een op grond van deze wet jegens de aanvrager genomen maatregel van doorhalin
 
 In afwijking van artikel 5, onderdeel a, wordt de aanvraag van een tolk of vertaler die niet voldoet aan de daar bedoelde eisen, niet afgewezen indien: 
 
-a. aan hem ten aanzien van het betrokken beroep een erkenning van beroepskwalificaties is verleend als bedoeld in de [Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
+a. aan hem ten aanzien van het betrokken beroep een erkenning van beroepskwalificaties is verleend als bedoeld in de Algemene wet erkenning EG-beroepskwalificaties;  
 
 b. hij in het buitenland een door Onze Minister aangewezen getuigschrift heeft verkregen dat geldt als bewijs van een verworven vakbekwaamheid die geacht kan worden gelijkwaardig te zijn aan de vakbekwaamheid welke uit het voldoen aan de in artikel 3 bedoelde eisen mag worden afgeleid, of  
 
@@ -124,7 +124,7 @@ c. Onze Minister, gelet op een door de betrokkene in het buitenland verkregen ge
 3.  Op de aanvraag tot verlenging van de inschrijving is artikel 5, onderdelen b tot en met d, van overeenkomstige toepassing.   
 4.  De aanvraag tot verlenging van de inschrijving wordt afgewezen indien de aanvrager, naar regelen te stellen bij of krachtens algemene maatregel van bestuur, niet kan aantonen dat hij de noodzakelijke kennis heeft bijgehouden en in de afgelopen periode voldoende werkervaring als beëdigde tolk of vertaler heeft opgedaan.   
 5.  De beslissing op de aanvraag tot verlenging van de inschrijving wordt binnen vier weken genomen.   
-6.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een verzoek tot verlenging van de inschrijving als bedoeld in het eerste lid. 
+6.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op een verzoek tot verlenging van de inschrijving als bedoeld in het eerste lid. 
 
 ### §  3  
 
@@ -330,13 +330,13 @@ Ingeval een beëdigde vertaler werkzaamheden verricht bij een dienst of een inst
 
 De artikelen 3 en 5, onderdeel a, zijn gedurende een periode van twee jaar na inwerkingtreding van deze wet niet van toepassing op de inschrijving in het register van degenen die op het moment van inwerkingtreding van deze wet: 
 
-a. werkzaam zijn als beëdigde vertaler in de zin van de [wet van 6 mei 1878, houdende bepalingen omtrent de beëdigde vertalers](../../../../../../../wet/wet/beëedigde/vertalers/BWBR0001849/README.md); of  
+a. werkzaam zijn als beëdigde vertaler in de zin van de wet van 6 mei 1878, houdende bepalingen omtrent de beëdigde vertalers; of  
 
-b. definitief zijn ingeschreven in het landelijk kwaliteitsregister tolken en vertalers, bedoeld in de [Tijdelijke regeling van 13 mei 2003 houdende machtiging van de Raad voor rechtsbijstand te ’s-Hertogenbosch tot het beheer van het landelijk kwaliteitsregister tolken en vertalers](../../../../../../../ministeriele-regeling/machtiging/raad/voor/rechtsbijstand/tot/beheer/kwaliteitsregister/tolken/etc/BWBR0015070/README.md) (Stcrt. 2003, 94).   
+b. definitief zijn ingeschreven in het landelijk kwaliteitsregister tolken en vertalers, bedoeld in de Tijdelijke regeling van 13 mei 2003 houdende machtiging van de Raad voor rechtsbijstand te ’s-Hertogenbosch tot het beheer van het landelijk kwaliteitsregister tolken en vertalers (Stcrt. 2003, 94).   
 
 ### Artikel  38  
 
-De [wet van 6 mei 1878, houdende bepalingen omtrent de beëedigde vertalers](../../../../../../../wet/wet/beëedigde/vertalers/BWBR0001849/README.md) wordt ingetrokken. 
+De wet van 6 mei 1878, houdende bepalingen omtrent de beëedigde vertalers wordt ingetrokken. 
 
 ### Artikel  39  
 

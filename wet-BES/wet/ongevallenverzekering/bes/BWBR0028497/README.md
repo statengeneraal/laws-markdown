@@ -12,7 +12,7 @@ a.  *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;
 
 b.  *werkgever:* iedere natuurlijke of rechtspersoon, die binnen de openbare lichamen Bonaire, Sint Eustatius of Saba één of meer werknemers arbeid doet verrichten, alsmede de natuurlijke of rechtspersoon die, gevestigd binnen de openbare lichamen Bonaire, Sint Eustatius of Saba, één of meer werknemers, die eveneens binnen de openbare lichamen Bonaire, Sint Eustatius en Saba gevestigd zijn, arbeid doet verrichten in het buitenland;  
 
-c.  *werknemer:* een natuurlijk persoon, die met overeenkomstige toepassing van [artikel 2 van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) als werknemer wordt beschouwd omdat hij tot een inhoudingsplichtige in dienstbetrekking staat, met uitzondering van: 
+c.  *werknemer:* een natuurlijk persoon, die met overeenkomstige toepassing van artikel 2 van de Wet loonbelasting BES als werknemer wordt beschouwd omdat hij tot een inhoudingsplichtige in dienstbetrekking staat, met uitzondering van: 
 
 1°. thuiswerkers, met uitzondering van degenen die werken met bij algemene maatregel van bestuur als gevaarlijk aangewezen stoffen,  
 
@@ -20,7 +20,7 @@ c.  *werknemer:* een natuurlijk persoon, die met overeenkomstige toepassing van 
 
 3°. degene, die in dienst is van een publiekrechtelijk lichaam en aan de voor hem geldende rechtspositieregelingen recht op uitkering bij ongeval kan ontlenen, en  
 
-4°. de bestuurder of commissaris, bedoeld in [artikel 3, tweede lid, onderdeel a, van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md);   
+4°. de bestuurder of commissaris, bedoeld in artikel 3, tweede lid, onderdeel a, van de Wet loonbelasting BES;   
 
 d.  *behandelende geneeskundige:* de geneeskundige die op aanwijzing of met goedvinden van Onze Minister de werknemer onderzoekt of behandelt;  
 
@@ -30,7 +30,7 @@ f.  *ongeval:* een ongeval dat de werknemer in verband met zijn dienstbetrekking
 
 g.  *arbeidsongeschiktheid:* de toestand waarin de werknemer verkeert, die als gevolg van een ongeval gedurende een etmaal of langer niet in staat is om zijn normale arbeid te verrichten of deze arbeid zo lang niet mag verrichten hetzij om een medisch noodzakelijk onderzoek mogelijk te maken hetzij om te voorkomen dat zijn genezing wordt belemmerd;  
 
-h.  *loon:* het loon, bedoeld in de [artikelen 6](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [9a van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md);  
+h.  *loon:* het loon, bedoeld in de artikelen 6 en 9a van de Wet loonbelasting BES;  
 
 i.*loon per dag van de werknemer voor wie een zesdaagse werkweek geldt:*
 
@@ -77,7 +77,7 @@ m.  *ontvanger:* de bij regeling van Onze Minister van Financiën als zodanig aa
 
 ### Artikel  2  
 
-1.  Indien het loon geheel of gedeeltelijk bestaat uit huisvesting, verstrekkingen in natura, onderricht of geldelijke uitkeringen waarvan de grootte niet bij voorbaat vaststaat zoals provisie, commissie, tantième, fooien, vergoeding voor aangenomen werk, bepalen werkgever en werknemer ter vaststelling van het loon per dag de gemiddelde waarde in het economisch verkeer daarvan met overeenkomstige toepassing van [artikel 6C van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md).   
+1.  Indien het loon geheel of gedeeltelijk bestaat uit huisvesting, verstrekkingen in natura, onderricht of geldelijke uitkeringen waarvan de grootte niet bij voorbaat vaststaat zoals provisie, commissie, tantième, fooien, vergoeding voor aangenomen werk, bepalen werkgever en werknemer ter vaststelling van het loon per dag de gemiddelde waarde in het economisch verkeer daarvan met overeenkomstige toepassing van artikel 6C van de Wet loonbelasting BES.   
 2.  Indien sprake is van een uurloon en het aantal werkuren per week niet bij voorbaat vaststaat wordt het loon per dag vastgesteld aan de hand van het gemiddelde aantal werkuren per week in de periode van dertien weken voorafgaand aan het moment waarop de werknemer een ongeval is overkomen.  
 
 ####Uitkeringen
@@ -122,7 +122,7 @@ c. Indien de werknemer, die als gevolg van het hem overkomen ongeval is overlede
 12.  Tijdens het dienstverband is de werkgever in geval van arbeidsongeschiktheid van de werknemer verplicht een uitkering gelijk aan het ongevallengeld waarop de werknemer over de desbetreffende loontermijn tegenover Onze Minister recht heeft, aan de werknemer uit te betalen op de dag waarop het loon moet worden uitbetaald of zou moeten worden uitbetaald indien de werknemer niet arbeidsongeschikt zou zijn. De werkgever die een uitkering volgens het bepaalde in de voorgaande volzin heeft uitbetaald heeft, in plaats van de werknemer, tegenover Onze Minister recht op het desbetreffende ongevallengeld en op uitbetaling daarvan uiterlijk zeven dagen na schriftelijke aanvraag bij Onze Minister, in te dienen na afloop van de maand waarin de uitkering werd uitbetaald. Indien de werkgever de uitkering niet tijdig uitbetaalt, keert Onze Minister het ongevallengeld aan de werknemer uit.   
 13.  Per 1 januari van elk kalenderjaar, kan bij ministeriële regeling met inachtneming van het bepaalde in het volgende lid, een toeslag worden verleend op de in het tweede, vierde, respectievelijk het zevende lid, onderdeel a, bedoelde ongevallengelden en uitkeringen indien deze zijn of worden toegekend terzake van een ongeval welke vóór de datum waarop de toeslag wordt verleend, heeft plaats gevonden.   
 14.  De toeslag wordt bij ministeriële regeling vastgesteld met ingang van de eerste dag van enig kalenderjaar op basis van de stijging die het consumentenprijsindexcijfer van het derde kwartaal daaraan voorafgaande aangeeft ten opzichte van het consumentenprijsindexcijfer van het derde kwartaal van het voorafgaande jaar. Onze Minister bepaalt welke consumentenprijsindexcijfers, zoals vastgesteld door het Centraal Bureau voor de Statistiek, voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.   
-15.  Ingeval het ongevallengeld, bedoeld in het tweede lid, aan de werknemer persoonlijk door Onze Minister wordt uitbetaald, wordt de premie, bedoeld in [artikel 8, tweede lid, van de Wet Ziekteverzekering BES](../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md) door Onze Minister op het ongevallengeld ingehouden.   
+15.  Ingeval het ongevallengeld, bedoeld in het tweede lid, aan de werknemer persoonlijk door Onze Minister wordt uitbetaald, wordt de premie, bedoeld in artikel 8, tweede lid, van de Wet Ziekteverzekering BES door Onze Minister op het ongevallengeld ingehouden.   
 16.  Onze Minister is bevoegd om op grond van verdragen, convenanten en andersoortige overeenkomsten met uitvoerders van instellingen van sociale voorzieningen, het ongevallengeld van een werknemer, hetzij periodiek, hetzij middels een uitkering ineens verstrekt, te verminderen ter ontneming van een ten onrechte verkregen voordeel van de werknemer op het gebied van sociale voorzieningen.   
 17.  Onze Minister is eveneens bevoegd om het ongevallengeld van een werknemer, hetzij periodiek, hetzij middels een uitkering ineens verstrekt, te verminderen ter ontneming van een ten onrechte verkregen voordeel van de werknemer op het gebied van de door Onze Minister uitbetaalde socialeverzekeringsuitkeringen.   
 18.  De in het zestiende en zeventiende lid bedoelde vermindering kan ineens geschieden indien het ten onrechte genoten voordeel niet groter is dan een derde deel van het door Onze Minister verstrekte ongevallengeld. In alle andere gevallen kan de vermindering niet meer bedragen dan een derde deel van het ongevallengeld.   
@@ -154,7 +154,7 @@ f. indien hij de aanwijzingen van de controlerende geneeskundige ook wanneer dez
 g. indien hij zonder toestemming van Onze Minister het eiland verlaat, waar hem de uitkering wordt verstrekt.     
 2.  De nagelaten betrekkingen van de werknemer, die als gevolg van een hem overkomen ongeval is overleden, hebben geen recht op uitkering indien er sprake is van een van de gevallen als bedoeld in het eerste lid, onderdeel a en c, evenmin als diegene van de nagelaten betrekkingen, die het de werknemer overkomen ongeval opzettelijk, door zijn grove schuld of onder de invloed van alcoholhoudende drank of bedwelmende middelen heeft veroorzaakt.   
 3.  Indien de werknemer of diens nagelaten betrekkingen tevens rechten ontlenen aan een buitenlandse soortgelijke wettelijke regeling worden de rechten, waarop op grond van deze wet aanspraak bestaat dienovereenkomstig verminderd.   
-4.  Indien de werknemer of diens nagelaten betrekkingen tevens recht hebben op pensioen op grond van de [Wet algemene ouderdomsverzekering BES](../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) of op grond van de [Wet algemene weduwen- en wezenverzekering BES](../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md) worden de uitkeringen, waarop op grond van deze wet aanspraak bestaat, dienovereenkomstig verminderd met ingang van het tijdstip waarop twee jaren zijn verlopen na de dag van de melding van het ongeval bij Onze Minister, onderscheidenlijk in geval de aanspraak op ongevallengeld bestaat op grond van dezelfde gebeurtenis als die op grond waarvan het weduwen-, weduwnaars- of wezenpensioen werd toegekend of verhoogd. In het laatste geval komt slechts het bedrag waarmede het weduwen- of weduwnaarspensioen werd verhoogd voor vermindering in aanmerking.  
+4.  Indien de werknemer of diens nagelaten betrekkingen tevens recht hebben op pensioen op grond van de Wet algemene ouderdomsverzekering BES of op grond van de Wet algemene weduwen- en wezenverzekering BES worden de uitkeringen, waarop op grond van deze wet aanspraak bestaat, dienovereenkomstig verminderd met ingang van het tijdstip waarop twee jaren zijn verlopen na de dag van de melding van het ongeval bij Onze Minister, onderscheidenlijk in geval de aanspraak op ongevallengeld bestaat op grond van dezelfde gebeurtenis als die op grond waarvan het weduwen-, weduwnaars- of wezenpensioen werd toegekend of verhoogd. In het laatste geval komt slechts het bedrag waarmede het weduwen- of weduwnaarspensioen werd verhoogd voor vermindering in aanmerking.  
 
 ####Premie
 
@@ -165,13 +165,13 @@ g. indien hij zonder toestemming van Onze Minister het eiland verlaat, waar hem 
 3.  Het premiepercentage, bedoeld in het tweede lid, wordt met ingang van elk kalenderjaar voor de periode van één jaar vastgesteld bij ministeriële regeling in overeenstemming met Onze Minister van Financiën.   
 4.  Indien het loon met terugwerkende kracht is verhoogd, wordt voor de berekening van de premie met deze verhoging rekening gehouden vanaf het tijdstip dat de verhoging van het loon door de werkgever aan de werknemer is uitbetaald.   
 5.  De verschuldigde premie op grond van deze wet wordt door de inspecteur geheven van de werkgever door middel van afdracht op aangifte.   
-6.  De premie, bedoeld in het eerste lid, wordt geheven met overeenkomstige toepassing van [hoofdstuk III van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md), met dien verstande dat in plaats van «inhoudingsplichtige» telkens gelezen wordt «werkgever».   
+6.  De premie, bedoeld in het eerste lid, wordt geheven met overeenkomstige toepassing van hoofdstuk III van de Wet loonbelasting BES, met dien verstande dat in plaats van «inhoudingsplichtige» telkens gelezen wordt «werkgever».   
 7.  De premie komt ten gunste van het Rijk.   
 8.  Ten laste van het Rijk, komen de door Onze Minister verstrekte uitkeringen op grond van deze wet en alle kosten verbonden aan de uitvoering van deze wet.  
 
 ### Artikel  8a  
 
-Voor zover op grond van deze wet niet anders is bepaald is ten aanzien van de premieheffing op grond van artikel 8 en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) van overeenkomstige toepassing. 
+Voor zover op grond van deze wet niet anders is bepaald is ten aanzien van de premieheffing op grond van artikel 8 en de invordering daarvan hoofdstuk VIII van de Belastingwet BES van overeenkomstige toepassing. 
 
 ### Artikel  8h  
 
@@ -228,7 +228,7 @@ d. alle plaatsen, met uitzondering van woningen zonder de uitdrukkelijke toestem
 
 e. woningen of tot woning bestemde gedeelten van vaartuigen zonder de uitdrukkelijke toestemming van de bewoner binnen te treden.     
 3.  Zo nodig, wordt de toegang tot een plaats als bedoeld in het tweede lid, onderdeel d, verschaft met behulp van de sterke arm.   
-4.  Op het binnentreden in woningen of in tot woning bestemde gedeelten van vaartuigen als bedoeld in het tweede lid, onderdeel e, is [Titel X van het Derde Boek van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) van overeenkomstige toepassing, met uitzondering van de [artikelen 155, vierde lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [156, tweede lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [157, tweede en derde lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [158, eerste lid, laatste zinsnede](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), en [160, eerste lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), en met dien verstande dat de machtiging wordt verleend door de procureur-generaal.   
+4.  Op het binnentreden in woningen of in tot woning bestemde gedeelten van vaartuigen als bedoeld in het tweede lid, onderdeel e, is Titel X van het Derde Boek van het Wetboek van Strafvordering BES van overeenkomstige toepassing, met uitzondering van de artikelen 155, vierde lid, 156, tweede lid, 157, tweede en derde lid, 158, eerste lid, laatste zinsnede, en 160, eerste lid, en met dien verstande dat de machtiging wordt verleend door de procureur-generaal.   
 5.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze van taakuitoefening van de functionarissen, aangewezen op grond van het eerste lid.   
 6.  Een ieder is verplicht aan de op grond van het eerste lid aangewezen functionarissen alle medewerking te verlenen die in het kader van de toezichtsuitoefening op grond van het tweede en derde lid wordt gevorderd.  
 
@@ -264,7 +264,7 @@ Een administratieve boete vervalt, indien degene aan wie de administratieve boet
 
 ### Artikel  15b  
 
-1.  Met de opsporing van bij deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) bedoelde functionarissen, belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister, aangewezen ambtenaren.   
+1.  Met de opsporing van bij deze wet strafbaar gestelde feiten zijn, naast de in artikel 184 van het Wetboek van Strafvordering BES bedoelde functionarissen, belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister, aangewezen ambtenaren.   
 2.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de vereisten waaraan de op grond van het eerste lid aangewezen functionarissen dienen te voldoen.  
 
 ####Overgangs- en slotbepalingen

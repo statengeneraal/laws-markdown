@@ -206,19 +206,16 @@ c. het niet of niet behoorlijk nakomen van de verplichting bedoeld in artikel 12
 
 ####Hoogte van de uitkering
 
-1.  De uitkering bedraagt per kalendermaand: 0,7 x (A – B), waarbij: A niet hoger is dan het minimumloon en staat voor de som van: 
+1.  De uitkering bedraagt per kalendermaand: 0,7 x (A – B). Hierbij staat A voor: 
 
-a. 10/7 vermenigvuldigd met het totale bedrag aan uitkeringen exclusief vakantiebijslag dat de uitkeringsgerechtigde ontving op grond van de Werkloosheidswet, de Ziektewet, de Wet op de arbeidsongeschiktheidsverzekering en de Wet werk en inkomen naar arbeidsvermogen in de kalendermaand voorafgaande aan de dag waarop de geldende uitkeringsduur van de uitkering op grond van de Werkloosheidswet of van de WGA-uitkering is verstreken, en  
+a. het maandloon, bedoeld in artikel 1b, tweede lid, onderdeel a, van de Werkloosheidswet; of  
 
-b. het loon uit dienstbetrekking dat de uitkeringsgerechtigde in die maand verdiende, waarbij A wordt herzien op de wijze als bedoeld in artikel 14 van de Wet minimumloon en minimumvakantiebijslag;  enB staat voor het inkomen per kalendermaand.   
-2.  Voor de toepassing van het eerste lid wordt onder uitkering op grond van de Werkloosheidswet tevens verstaan inkomen dat op grond van artikel 34 van de Werkloosheidswet geheel in mindering is gebracht op de uitkering op grond van de Werkloosheidswet.   
-3.  Voor de toepassing van het eerste lid worden de uitkeringen op grond van de Werkloosheidswet en de Ziektewet, bedoeld in eerste lid, onderdeel a, vermenigvuldigd met 21,75 en vervolgens gedeeld door het aantal werkdagen in die betreffende kalendermaand.  
-4.  Onder inkomen als bedoeld in het eerste lid wordt verstaan inkomen uit arbeid.   
-5.  Op de uitkering wordt overig inkomen geheel in mindering gebracht.   
-6.  Bij algemene maatregel van bestuur wordt bepaald wat wordt verstaan onder inkomen uit arbeid als bedoeld in het vierde lid en overig inkomen als bedoeld in het vijfde lid. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.   
-7.  Voor zover het recht op uitkering op grond van de Werkloosheidswet gedeeltelijk is geëindigd door het verrichten van werkzaamheden als lid van de Eerste Kamer der Staten-Generaal, van een vertegenwoordigend orgaan van een publiekrechtelijk lichaam dat bij rechtstreekse verkiezing wordt samengesteld, of een algemeen bestuur van een waterschap, staat bij de toepassing van het eerste lid A, in afwijking in zoverre van het eerste lid, voor het minimumloon.   
-8.  Voor zover het recht op uitkering op grond van de Werkloosheidswet gedeeltelijk is geëindigd door het verrichten van werkzaamheden als bedoeld in artikel 8, eerste lid, van die wet, wordt bij de toepassing van het eerste lid voor de vaststelling van onderdeel a van factor A uitgegaan van het bedrag aan loondervingsuitkering dat zou zijn genoten indien die werkzaamheden niet zouden zijn verricht.   
-9.  Het achtste lid is van overeenkomstige toepassing indien de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten, bedoeld in hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen, is verlaagd als gevolg van het verrichten van werkzaamheden uit hoofde waarvan de aanvrager geen werknemer is als bedoeld in de artikelen 8 en 9 van die wet. 
+b. het maandloon, bedoeld in artikel 13, vierde lid, onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen, met dien verstande dat A niet meer bedraagt dan 10/7 maal het bedrag, genoemd in artikel 2, tweede lid, onderdeel b, onder 1°, van de Toeslagenwet vermenigvuldigd met 21,75; en B staat voor het inkomen per kalendermaand.     
+2.  Het bedrag, bedoeld in het eerste lid, wordt herzien op de wijze als bedoeld in artikel 14 van de Wet minimumloon en minimumvakantiebijslag.  
+3.  Onder inkomen als bedoeld in het eerste lid wordt verstaan inkomen uit arbeid.   
+4.  Op de uitkering wordt overig inkomen geheel in mindering gebracht.   
+5.  Bij algemene maatregel van bestuur wordt bepaald wat wordt verstaan onder inkomen uit arbeid als bedoeld in het derde lid en overig inkomen als bedoeld in het vierde lid. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.   
+6.  Voor zover het recht op uitkering op grond van de Werkloosheidswet gedeeltelijk is geëindigd door het verrichten van werkzaamheden als lid van de Eerste Kamer der Staten-Generaal, van een vertegenwoordigend orgaan van een publiekrechtelijk lichaam dat bij rechtstreekse verkiezing wordt samengesteld, of een algemeen bestuur van een waterschap, staat bij de toepassing van het eerste lid A, in afwijking in zoverre van het eerste lid, voor het minimumloon.  
 
 ### Hoofdstuk  3  
 
@@ -671,15 +668,11 @@ d. de Vakantieregeling WW: artikel 6, zesde lid.
 
 ####Overgangsbepaling in verband met wijzigingen in de Werkloosheidswet
 
-Treedt in werking per 01-07-2015 
-
 Ten aanzien van de persoon wiens eerste werkloosheidsdag is gelegen voor de dag van inwerkingtreding van artikel XXXII, onderdeel C, van de Wet werk en zekerheid blijft artikel 10 van toepassing zoals dat luidde op de dag voor die inwerkingtreding. 
 
 ### Artikel  48d  
 
 ####Overgangsbepaling in verband met wijzigingen in de Wet Werk en inkomen naar arbeidsvermogen
-
-Treedt in werking per 01-07-2015 
 
 Ten aanzien van de persoon wiens recht op uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen is ontstaan voor de dag van inwerkingtreding van artikel XXXII, onderdeel C, van de Wet werk en zekerheid blijft artikel 10 van toepassing zoals dat luidde op de dag voor die inwerkingtreding. 
 

@@ -121,30 +121,44 @@ b. op schriftelijke aanvraag van een persoon die een uitkering op grond van deze
 
 ### Artikel  5  
 
-1.  Recht op uitkering hebben, indien het inkomen per maand na het beëindigen van het bedrijf of beroep minder bedraagt dan de overeenkomstig het vijfde lid vastgestelde grondslag en indien aan de in het tweede of derde lid genoemde voorwaarden wordt voldaan:  
+1.  Recht op uitkering hebben, indien het inkomen per maand na het beëindigen van het bedrijf of beroep minder bedraagt dan de overeenkomstig het vierde lid vastgestelde grondslag en indien aan de in het tweede of derde lid genoemde voorwaarden wordt voldaan:  
 
 a. de gewezen zelfstandige en de echtgenoot;   
 
-b. de alleenstaande gewezen zelfstandige.      
+b. de alleenstaande gewezen zelfstandige die niet met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft;   
+
+c. de alleenstaande gewezen zelfstandige die met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft.    
 2.   De in het eerste lid bedoelde voorwaarden zijn voor de gewezen zelfstandige, bedoeld in artikel 2:  
 
 1°. de gewezen zelfstandige heeft gedurende drie jaar, onmiddellijk voorafgaand aan de aanvraag, onafgebroken rechtmatig een bedrijf of beroep in Nederland uitgeoefend en gedurende de zeven jaar daarvoor eveneens rechtmatig een bedrijf of beroep in Nederland uitgeoefend dan wel arbeid in dienstbetrekking verricht;   
 
 2°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige bedroeg de laatste drie boekjaren gemiddeld minder dan ƒ 36 800 per 1 januari 2015: € 22.511,00 per jaar;  
 
-3°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige zou bij voortzetting van het bedrijf of beroep naar verwachting duurzaam minder dan ƒ 36 800 per 1 januari 2015: € 23.087,00 per jaar bedragen; en  
+3°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige zou bij voortzetting van het bedrijf of beroep naar verwachting duurzaam minder dan € 23.204,00 per jaar bedragen; en  
 
 4°. de aanvraag is ingediend voor het beëindigen van het bedrijf of beroep en de beëindiging heeft plaatsgevonden binnen een periode van anderhalf jaar, volgend op het tijdstip van aanvraag.      
 3.   Het recht op uitkering komt de gewezen zelfstandige en de echtgenoot gezamenlijk toe. De uitkering wordt aan de gewezen zelfstandige en de echtgenoot ieder voor de helft uitbetaald, dan wel op hun gezamenlijk verzoek aan een van hen voor het geheel.    
-4.   De grondslag bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat voor:  
+4.   De grondslag bedoeld in het eerste lid, wordt zodanig vastgesteld dat voor:  
 
-a. de gewezen zelfstandige en de echtgenoot de helft van de grondslag netto gelijk is aan € 661,77 per 1 januari 2015: € 686,31;  
+a. de gewezen zelfstandige en de echtgenoot de helft van de grondslag netto gelijk is aan € 687,59;  
 
-b. voor de alleenstaande gewezen zelfstandige netto gelijk is aan € 926,47 per 1 januari 2015: € 960,83.      
-5.   Onze Minister herziet de bedragen, genoemd in het tweede lid, 2° en 3°, met ingang van een door hem te bepalen dag zodanig, dat deze netto gelijk zijn aan het netto minimumloon.    
-6.  De in het vierde lid genoemde bedragen worden herzien met ingang van de dag waarop het netto minimumloon wordt herzien met het percentage van deze herziening.   
+b. voor de alleenstaande gewezen zelfstandige netto gelijk is aan € 962,63;  
+
+c. voor de alleenstaande gewezen zelfstandige, bedoeld in het eerste lid, onderdeel c, die met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft, de grondslag netto gelijk is aan € 660,98 per 1 juli 2015: € 687,59.    
+5.  De in het tweede lid, onderdelen 2 en 3, genoemde bedragen worden gewijzigd met ingang van de dag waarop het netto minimumloon wordt gewijzigd met het percentage van deze wijziging, zodanig dat deze netto gelijk zijn aan het netto minimumloon.   
+6.  De in het vierde lid genoemde bedragen worden gewijzigd met ingang van de dag waarop het netto minimumloon wordt gewijzigd met het percentage van deze wijziging.   
 7.  Bij de bepaling van het inkomen, bedoeld in het eerste lid, wordt een koopkrachttegemoetkoming op grond van artikel 36a van de Participatiewet niet in aanmerking genomen.  
-8.  Van de herziene bedragen en van de dag waarop de herziening plaats vindt wordt door Onze Minister mededeling gedaan in de Staatscourant. 
+8.  Tot de personen, bedoeld in het eerste lid, onderdeel c, worden niet gerekend: 
+
+a. de persoon die de leeftijd van 21 jaar nog niet heeft bereikt,  
+
+b. de persoon, niet zijnde een bloed- of aanverwant in de eerste of tweede graad van de alleenstaande gewezen zelfstandige, die op basis van een schriftelijke overeenkomst met de alleenstaande gewezen zelfstandige, waarbij een commerciële prijs is overeengekomen, als verhuurder, huurder, onderverhuurder, onderhuurder, kostgever of kostganger in dezelfde woning als de alleenstaande gewezen zelfstandige zijn hoofdverblijf heeft;  
+
+c. de persoon die op basis van een schriftelijke overeenkomst met een derde, waarbij een commerciële prijs is overeengekomen, als huurder, onderhuurder of kostganger in dezelfde woning als de alleenstaande gewezen zelfstandige zijn hoofdverblijf heeft, mits hij de overeenkomst heeft met dezelfde persoon als met wie de gewezen zelfstandige een schriftelijke overeenkomst heeft, waarbij een commerciële prijs is overeengekomen, als huurder, onderhuurder of kostganger; en  
+
+d. de persoon die onderwijs volgt waarvoor aanspraak op studiefinanciering kan bestaan op grond van de Wet studiefinanciering 2000 en op enig moment tijdens dat onderwijs gelet op zijn leeftijd in aanmerking kan komen voor die studiefinanciering, de persoon die onderwijs volgt waarvoor aanspraak kan bestaan op een tegemoetkoming op grond van hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten, en de persoon die een beroepsopleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen a tot en met e, van de Wet educatie en beroepsonderwijs in de beroepsbegeleidende leerweg volgt.     
+9.  Op verzoek van het college legt de alleenstaande gewezen zelfstandige de schriftelijke overeenkomst, bedoeld in het achtste lid, onderdeel b of onderdeel c, over en toont hij de betaling van de commerciële prijs aan door het overleggen van de bewijzen van betaling.  
+10.  De gewijzigde bedragen en de dag waarop de wijzigingen ingaan worden door of namens Onze Minister bekend gemaakt in de Staatscourant. 
 
 ### Artikel  5a  
 
@@ -188,13 +202,13 @@ a. voor de gewezen zelfstandige en de echtgenoot: de som van het inkomen uit arb
 
 b. voor de alleenstaande gewezen zelfstandige: zijn inkomen uit arbeid of overig inkomen.     
 2.   Als inkomen wordt voorts aangemerkt het inkomen uit het vermogen waarover de gewezen zelfstandige en zijn echtgenoot na de beëindiging van het bedrijf of beroep beschikken, met dien verstande dat daarbij een vermogen van € 129.511,00 buiten beschouwing blijft. Het inkomen uit vermogen wordt bepaald op 5% per 1 januari 2015: 3% per jaar van het vermogen.    
-3.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 309,36 per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
+3.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 306,12 per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
 4.  Bij algemene maatregel van bestuur wordt bepaald wat wordt verstaan onder inkomen uit arbeid of overig inkomen als bedoeld in het eerste lid en in artikel 5, tweede lid. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.   
 5.  Het bedrag, genoemd in het tweede lid, wordt gewijzigd met ingang van 1 januari van elk kalenderjaar, met het percentage waarmee het prijsindexcijfer van de gezinsconsumptie over de maand oktober daaraan voorafgaand afwijkt van het prijsindexcijfer waarop de laatste vaststelling van het bedrag is gebaseerd.   
 6.   Onze Minister herziet het percentage, bedoeld in het tweede lid, zodra de rente-ontwikkeling daartoe aanleiding geeft.    
 7.   Onze Minister stelt regels met betrekking tot de waardering van het vermogen, bedoeld in het tweede lid.    
 8.  Het bedrag, genoemd in het derde lid, wordt gewijzigd met ingang van de dag waarop het in artikel 31, tweede lid, onderdeel n, van de Participatiewet genoemde bedrag wordt gewijzigd.  
-9.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een alleenstaande ouder tot 12,5 procent van dit inkomen, met een maximum van € 199,81 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij een uitkering ontvangt, ingeval: 
+9.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een alleenstaande ouder tot 12,5 procent van dit inkomen, met een maximum van € 200,03 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij een uitkering ontvangt, ingeval: 
 
 a. hij de volledige zorg heeft voor zijn kind tot 12 jaar,  
 
@@ -202,7 +216,7 @@ b. de periode van zes aaneengesloten maanden, bedoeld in het derde lid, is verst
 
 c. dit volgens het college bijdraagt aan zijn arbeidsinschakeling.     
 10.  Het bedrag, genoemd in het negende lid, wordt gewijzigd met ingang van de dag waarop het in artikel 31, tweede lid, onderdeel r, van de Participatiewet genoemde bedrag wordt gewijzigd.  
-11.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een persoon die medisch urenbeperkt is tot 15 procent van dit inkomen uit arbeid, met een maximum van € 124,00 per maand, voor zover hij een uitkering op grond van deze wet ontvangt, tenzij het derde of negende lid van toepassing is.   
+11.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een persoon die medisch urenbeperkt is tot 15 procent van dit inkomen uit arbeid, met een maximum van € 124,05 per maand, voor zover hij een uitkering op grond van deze wet ontvangt, tenzij het derde of negende lid van toepassing is.   
 12.  Het bedrag, genoemd in het elfde lid, wordt gewijzigd met ingang van de dag waarop het in artikel 21, tweede lid, onderdeel z, van de Participatiewet genoemde bedrag wordt gewijzigd.  
 13.  De gewijzigde bedragen en de dag waarop de wijzigingen ingaan, worden door of namens Onze Minister bekend gemaakt in de Staatscourant. 
 
@@ -530,7 +544,8 @@ Het college draagt zorg voor de realisatie en vormgeving van cliëntenparticipat
 ### Artikel  44  
 
 1.  Ieder is verplicht desgevraagd en bevoegd uit eigen beweging aan het college kosteloos opgaven en inlichtingen te verstrekken omtrent feiten en omstandigheden die noodzakelijk zijn voor de uitvoering van deze wet ten opzichte van een persoon te wiens behoeve een uitkering is gevraagd of wordt verleend en die in zijn dienst dan wel voor hem arbeid verricht, heeft verricht of zou kunnen gaan verrichten. De verplichting strekt zich mede uit tot de inkomsten van een persoon van wie uitkeringen ingevolge hoofdstuk II, paragraaf 5, worden of kunnen worden teruggevorderd.    
-2.   De opgaven en inlichtingen moeten desgevraagd schriftelijk, of in een andere vorm die redelijkerwijs kan worden verlangd, binnen een door het college schriftelijk te stellen termijn worden verstrekt.   
+2.   De opgaven en inlichtingen moeten desgevraagd schriftelijk, of in een andere vorm die redelijkerwijs kan worden verlangd, binnen een door het college schriftelijk te stellen termijn worden verstrekt.    
+3.  Op verzoek van het college legt de meerderjarige persoon die in dezelfde woning als de gewezen zelfstandige zijn hoofdverblijf heeft, als bedoeld in artikel 5, eerste en vierde lid, desgevraagd alle gegevens en inlichtingen over die voor de beoordeling van de aanspraak op uitkering van belang kunnen zijn. 
 
 ### Artikel  45  
 
@@ -727,6 +742,23 @@ Het recht tot strafvordering vervalt indien het college aan de belanghebbende te
 ### Artikel  63a  
 
 De artikelen 3, zevende en achtste lid, en 4, tweede lid, zijn niet van toepassing, indien voor de inwerkingtreding van deze artikelleden, op grond van artikel 5 recht bestaat op een uitkering voor de zelfstandige en de echtgenoot, omdat de ongehuwde uitkeringsgerechtigde wegens een gezamenlijke huishouding met een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind is aangemerkt als echtgenoot, voor zolang dit recht op uitkering bestaat, tenzij toepassing van de genoemde artikelleden leidt tot een hogere uitkering. 
+
+### Artikel  63b  
+
+1.  In afwijking van artikel 5, vierde lid, onderdeel c, wordt de grondslag voor de alleenstaande gewezen zelfstandige zodanig vastgesteld dat de netto grondslag per maand gelijk is aan: 
+
+a. van 1 juli 2015 tot en met 31 december 2015 € 900,00 per 1 juli 2015: € 935,12;  
+
+b. in 2016 € 860,29 per 1 juli 2015: € 893,87;  
+
+c. in 2017 € 794,12 per 1 juli 2015: € 825,11 en  
+
+d. in 2018 € 727,94 per 1 juli 2015: € 756,35.     
+2.  Artikel 5, zesde lid, is van overeenkomstige toepassing op de bedragen, genoemd in het eerste lid.   
+3.  Het eerste lid, onderdeel a, vervalt met ingang van 1 januari 2016.   
+4.  Het eerste lid, onderdeel b, vervalt met ingang van 1 januari 2017.   
+5.  Het eerste lid, onderdeel c, vervalt met ingang van 1 januari 2018.   
+6.  Dit artikel vervalt met ingang van 1 januari 2019.  
 
 ### Artikel  63d  
 

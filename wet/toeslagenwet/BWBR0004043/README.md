@@ -78,24 +78,24 @@ d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huish
 
 a. recht heeft op loondervingsuitkering, en   
 
-b. per dag een inkomen heeft dat lager is dan € 69,05.     
+b. per dag een inkomen heeft dat lager is dan € 69,32.     
 2.   Behoudens het derde lid heeft voorts recht op toeslag een ongehuwde, die:  
 
 a. recht heeft op loondervingsuitkering, en   
 
 b. per dag een inkomen heeft dat lager is dan:
 
-1°.indien hij 23 jaar of ouder is: € 52,05;
+1°.indien hij 23 jaar of ouder is: € 52,20;
 
-2°.indien hij 22 jaar is: € 40,90;
+2°.indien hij 22 jaar is: € 41,10;
 
-3°.indien hij 21 jaar is: € 34,44;
+3°.indien hij 21 jaar is: € 34,62;
 
-4°.indien hij 20 jaar is: € 28,81;
+4°.indien hij 20 jaar is: € 28,88;
 
-5°.indien hij 19 jaar is: € 24,09;
+5°.indien hij 19 jaar is: € 24,20;
 
-6°.indien hij 18 jaar is: € 20,88.     
+6°.indien hij 18 jaar is: € 20,92.     
 3.   Geen recht op toeslag heeft de in het tweede lid bedoelde ongehuwde, die de leeftijd van 21 jaar nog niet heeft bereikt en behoort tot het huishouden van zijn ouders of pleegouders.    
 4.  Zolang een gehuwde of ongehuwde geen recht heeft op een loondervingsuitkering omdat hem rechtens zijn vrijheid is ontnomen of omdat hij zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, heeft hij geen recht op toeslag.  
 5. Zolang een gehuwde of ongehuwde de leeftijd van 18 jaar nog niet heeft bereikt, heeft hij geen recht op toeslag.
@@ -123,7 +123,7 @@ Geen recht op toeslag heeft de persoon die inkomensondersteuning als bedoeld in 
 2.   Geen recht op toeslag bestaat, indien de loondervingsuitkering, het loon, de bezoldiging of hetgeen daarmee overeenkomt, bedoeld in het eerste lid, niet tot uitbetaling komt op grond van enig handelen of nalaten van betrokkene dat hem redelijkerwijs kan worden verweten.  
 3. Indien bij samenloop van loondervingsuitkeringen op grond van enig handelen of nalaten van betrokkene dat hem redelijkerwijs kan worden verweten een of meer van de loondervingsuitkeringen gedeeltelijk worden geweigerd of niet tot uitbetaling komen, wordt voor de toepassing van deze wet en de daarop berustende bepalingen het inkomen in aanmerking genomen alsof die weigering niet heeft plaatsgevonden respectievelijk alsof die uitbetaling heeft plaatsgevonden.
 4. Indien de uitkering op grond van de Werkloosheidswet gedeeltelijk is geëindigd omdat de betrokkene minder beschikbaar is voor arbeid dan het aantal arbeidsuren dat hij heeft verloren wordt voor de toepassing van deze wet en de daarop berustende bepalingen die uitkering in aanmerking genomen alsof die eindiging niet heeft plaatsgevonden. 
-5.  Indien de uitkering op grond van artikel 35ab van de Werkloosheidswet is verminderd, wordt voor de toepassing van deze wet en de daarop berustende bepalingen de uitkering in aanmerking genomen alsof die vermindering niet heeft plaatsgevonden. 
+5.  Indien de uitkering op grond van artikel 47b van de Werkloosheidswet is verminderd, wordt voor de toepassing van deze wet en de daarop berustende bepalingen de uitkering in aanmerking genomen alsof die vermindering niet heeft plaatsgevonden. 
 
 ### Artikel  6  
 
@@ -151,7 +151,7 @@ b. indien en voor zover het inkomen uit arbeid meer bedraagt dan het in onderdee
 
 ### Artikel  8  
 
-1. Voor de persoon, bedoeld in artikel 2, eerste lid, is de toeslag gelijk aan het verschil tussen € 69,05 en het inkomen per dag.
+1. Voor de persoon, bedoeld in artikel 2, eerste lid, is de toeslag gelijk aan het verschil tussen € 69,32 en het inkomen per dag.
 2. Voor de persoon, bedoeld in artikel 2, tweede lid, is de toeslag gelijk aan het verschil tussen het in artikel 2, tweede lid, onderdeel b, bij de leeftijd van die persoon genoemd bedrag en het inkomen per dag.
 
 ###Artikel 8a 

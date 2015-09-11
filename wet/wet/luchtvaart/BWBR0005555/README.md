@@ -1658,12 +1658,7 @@ a. de aanwijzing op grond van de Luchtvaartwet van die luchthaven als militaire 
 
 b. het luchthavenbesluit dat op deze luchthaven betrekking heeft,   en op die plaats een burgerluchthaven wordt gevestigd, dan is deze luchthaven van nationale betekenis.   
 5.  In afwijking van het vierde lid kan bij algemene maatregel van bestuur worden vastgesteld dat een luchthaven als bedoeld in dat lid van regionale betekenis is.   
-6.  De voordracht voor een krachtens het vijfde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
-7.  Indien het militaire gebruik van de militaire luchthaven Twenthe wordt beëindigd door intrekking van: 
-
-a. de aanwijzing op grond van de Luchtvaartwet van die luchthaven als militaire luchthaven, of  
-
-b. het luchthavenbesluit dat op deze luchthaven betrekking heeft,   en op die plaats een burgerluchthaven wordt gevestigd, dan is deze luchthaven van nationale betekenis. 
+6.  De voordracht voor een krachtens het vijfde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
 
 ### Artikel  8.1a  
 

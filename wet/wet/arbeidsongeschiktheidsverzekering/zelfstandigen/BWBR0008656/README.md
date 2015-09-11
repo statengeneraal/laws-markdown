@@ -752,11 +752,13 @@ c. de verzekerde of zijn wettelijke vertegenwoordiger een verplichting als bedoe
 a. niet betaald, indien het inkomen zodanig is, dat als die arbeid wel arbeid als bedoeld in artikel 2, vierde lid, zou zijn, niet langer sprake zou zijn van arbeidsongeschiktheid van ten minste 25%; of  
 
 b. indien onderdeel a niet van toepassing is, betaald tot een bedrag ter grootte van de arbeidsongeschiktheidsuitkering, zoals deze zou zijn vastgesteld, indien die arbeid wel arbeid als bedoeld in artikel 2, vierde lid, zou zijn.   Na afloop van het in de aanhef genoemde tijdvak wordt de arbeid aangemerkt als arbeid als bedoeld in artikel 2, vierde lid.   
-2.  Het in het eerste lid genoemde tijdvak van vijf jaar vangt aan op de eerste dag waarop arbeid wordt verricht, waarbij een nieuw tijdvak als bedoeld in het eerste lid aanvangt indien diegene andere arbeid gaat verrichten.   
-3.  Indien op de laatste dag van het in het eerste lid genoemde tijdvak van vijf jaar inkomen wordt genoten, maar geen arbeid wordt verricht, wordt dit tijdvak verlengd tot en met de laatste dag waarop dat inkomen wordt genoten.   
-4.  Indien degene, die recht heeft op een arbeidsongeschiktheidsuitkering, inkomen geniet, dat bestaat uit loon ingevolge een arbeidsovereenkomst als bedoeld in de hoofdstukken 2 en 3 van de Wet sociale werkvoorziening, is het eerste lid voor onbeperkte duur van toepassing.   
-5.  Onze Minister kan bepalen dat het eerste lid voor onbeperkte duur toepassing vindt ten aanzien van bepaalde groepen personen.   
-6.  Bij ministeriële regeling wordt bepaald wat onder inkomen als bedoeld in dit artikel wordt verstaan. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten. 
+2.  Indien degene die recht heeft op een arbeidsongeschiktheidsuitkering in dienstbetrekking arbeid als bedoeld in het eerste lid verricht of heeft verricht, wordt het loon geacht te zijn genoten in het aangiftetijdvak waarover de werkgever of de inhoudingsplichtige van dat loon opgave heeft gedaan.  
+3.  Het in het eerste lid, aanhef, genoemde tijdvak van vijf jaar vangt aan op de eerste dag waarop het eerste lid, onderdeel a of b, is toegepast. Indien diegene die recht heeft op een arbeidsongeschiktheidsuitkering en ten aanzien van wie het eerste lid, onderdeel a of b, is toegepast andere arbeid gaat verrichten, dan vangt een nieuw tijdvak als bedoeld in het eerste lid aan op de eerste dag dat de arbeidsongeschiktheidsuitkering vanwege het verrichten van die andere arbeid wordt vastgesteld door toepassing van het eerste lid, onderdeel a of b.   
+4.  Indien op de laatste dag van het in het eerste lid genoemde tijdvak van vijf jaar inkomen wordt genoten, maar geen arbeid wordt verricht, wordt dit tijdvak verlengd tot en met de laatste dag waarop dat inkomen wordt genoten.   
+5.  Indien degene, die recht heeft op een arbeidsongeschiktheidsuitkering, inkomen geniet, dat bestaat uit loon ingevolge een arbeidsovereenkomst als bedoeld in de hoofdstukken 2 en 3 van de Wet sociale werkvoorziening, is het eerste lid voor onbeperkte duur van toepassing.   
+6.  Onze Minister kan bepalen dat het eerste lid voor onbeperkte duur toepassing vindt ten aanzien van bepaalde groepen personen.   
+7.  Bij ministeriële regeling wordt bepaald wat onder inkomen als bedoeld in dit artikel wordt verstaan. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.  
+8.  Bij de bepaling van de mate van arbeidsongeschiktheid, bedoeld in het eerste lid, kan loon niet meer dan eenmaal in aanmerking worden genomen. 
 
 ###Artikel 59 
 
@@ -989,7 +991,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen kan de persoon, die recht heeft
 ####Tegemoetkoming arbeidsongeschikten
 
 1.  De persoon die op 1 juli van het kalenderjaar recht heeft op een arbeidsongeschiktheidsuitkering bij een arbeidsongeschiktheid van 35% of meer, heeft recht op een tegemoetkoming.   
-2.  De persoon, bedoeld in het eerste lid, ontvangt per kalenderjaar een tegemoetkoming van € 255,00.   
+2.  De persoon, bedoeld in het eerste lid, ontvangt per kalenderjaar een tegemoetkoming van € 211,00.   
 3.  Het bedrag, genoemd in het tweede lid, wordt jaarlijks per 1 januari gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet inkomstenbelasting 2001. Het gewijzigde bedrag wordt door of namens Onze Minister bekend gemaakt in de Staatscourant.   
 4.  In afwijking van het derde lid kan het bedrag, genoemd in het tweede lid, bij algemene maatregel van bestuur met ingang van een bij die maatregel aan te geven datum worden vervangen door een ander bedrag.   
 5.  Het Uitvoeringsinstituut werknemersverzekeringen verstrekt de tegemoetkoming ambtshalve in het derde kwartaal van het kalenderjaar.   

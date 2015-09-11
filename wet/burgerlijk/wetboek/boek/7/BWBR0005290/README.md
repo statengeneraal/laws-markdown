@@ -3650,7 +3650,7 @@ De werkgever kan slechts een beroep doen op een schriftelijk beding dat hem de b
 
 ### Artikel  614  
 
-De termijn, bedoeld in artikel 52 lid 1 onder *d* van Boek 3, begint met betrekking tot uit deze titel voortvloeiende vernietigingsgronden met de aanvang van de dag volgende op die waarop een beroep op het beding is gedaan. 
+De termijn, bedoeld in artikel 52 lid 1 onder d van Boek 3, begint met betrekking tot uit deze titel voortvloeiende vernietigingsgronden met de aanvang van de dag volgende op die waarop een beroep op het beding is gedaan. 
 
 ### Artikel  615  
 
@@ -3735,7 +3735,7 @@ c. het gebruik van een woning, alsmede verlichting en verwarming daarvan;
 d. diensten, voorzieningen en werkzaamheden door of voor rekening van de werkgever te verrichten, onderricht, kost en inwoning daaronder begrepen;   
 
 e. effecten, vorderingen, andere aanspraken en bewijsstukken daarvan en bonnen.     
-2.  Aan de in lid 1 onder *b*, *c* en *d* bedoelde zaken, diensten en voorzieningen mag geen hogere waarde worden toegekend dan die welke met de werkelijke waarde daarvan overeenkomt.  
+2.  Aan de in lid 1 onder b, c en d bedoelde zaken, diensten en voorzieningen mag geen hogere waarde worden toegekend dan die welke met de werkelijke waarde daarvan overeenkomt.  
 
 ### Artikel  618  
 
@@ -3895,7 +3895,7 @@ c. de voorschotten op het loon, door de werkgever in geld aan de werknemer verst
 d. het bedrag van hetgeen op het loon te veel is betaald;  
 
 e. de huurprijs van een woning of een andere ruimte, een stuk grond of van werktuigen, machines en gereedschappen, door de werknemer in eigen bedrijf gebruikt, en die bij schriftelijke overeenkomst door de werkgever aan de werknemer zijn verhuurd.     
-2.  Verrekening heeft geen plaats op het deel van het loon waarop beslag onder de werkgever niet geldig kan zijn. Ter zake van hetgeen de werkgever krachtens lid 1, onderdeel *b*, zou kunnen vorderen, mag door hem bij elke voldoening van het loon niet meer worden verrekend dan een tiende gedeelte van het in geld vastgestelde loon dat alsdan zou moeten worden voldaan.   
+2.  Verrekening heeft geen plaats op het deel van het loon waarop beslag onder de werkgever niet geldig kan zijn. Ter zake van hetgeen de werkgever krachtens lid 1, onderdeel b, zou kunnen vorderen, mag door hem bij elke voldoening van het loon niet meer worden verrekend dan een tiende gedeelte van het in geld vastgestelde loon dat alsdan zou moeten worden voldaan.   
 3.  Hetgeen de werkgever uit hoofde van een op het loon gelegd beslag inhoudt, komt in mindering op het voor verrekening toegelaten maximum.   
 4.  Een beding waardoor de werkgever een ruimere bevoegdheid tot verrekening zou krijgen, is vernietigbaar, met dien verstande dat de werknemer bevoegd is tot vernietiging ter zake van elke afzonderlijke verrekeningsverklaring van de werkgever die van de geldigheid van het beding uitgaat.  
 
@@ -4136,7 +4136,7 @@ k. indien de werknemer voor een langere termijn dan een maand werkzaam zal zijn 
 l. de toepasselijke collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan;  
 
 m. of de arbeidsovereenkomst een uitzendovereenkomst is als bedoeld in artikel 690.      
-2.  Voor zover de gegevens, bedoeld in lid 1, onderdelen *a* tot en met *j*, zijn vermeld in een schriftelijk aangegane arbeidsovereenkomst of in de opgave, bedoeld in artikel 626, kan vermelding achterwege blijven. Voor zover de gegevens, bedoeld in het eerste lid, onderdelen *f* tot en met *i*, zijn vermeld in een toepasselijke collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan, kan worden volstaan met een verwijzing naar deze overeenkomst of regeling.   
+2.  Voor zover de gegevens, bedoeld in lid 1, onderdelen a tot en met j, zijn vermeld in een schriftelijk aangegane arbeidsovereenkomst of in de opgave, bedoeld in artikel 626, kan vermelding achterwege blijven. Voor zover de gegevens, bedoeld in het eerste lid, onderdelen f tot en met i, zijn vermeld in een toepasselijke collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan, kan worden volstaan met een verwijzing naar deze overeenkomst of regeling.   
 3.  De werkgever verstrekt de opgave binnen een maand na de aanvang van de werkzaamheden of zo veel eerder als de overeenkomst eindigt. De gegevens, bedoeld in lid 1, onderdeel k, worden verstrekt voor het vertrek. De opgave wordt door de werkgever ondertekend. Indien de opgave elektronisch wordt verstrekt, is deze voorzien van een elektronische handtekening die voldoet aan de eisen, bedoeld in artikel 15a lid 2 van Boek 3. Wijziging in de gegevens wordt binnen een maand nadat de wijziging van kracht is geworden, aan de werknemer schriftelijk of elektronisch medegedeeld, tenzij deze voortvloeit uit wijziging van een wettelijk voorschrift, collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan.   
 4.  Indien de overeenkomst betreft het doorgaans op minder dan vier dagen per week uitsluitend of nagenoeg uitsluitend verrichten van huishoudelijke of persoonlijke diensten ten behoeve van een natuurlijk persoon, behoeft de werkgever slechts op verlangen van de werknemer de gegevens te verstrekken.    
 5.  De werkgever die weigert de opgave te verstrekken of daarin onjuiste mededelingen opneemt, is jegens de werknemer aansprakelijk voor de daardoor veroorzaakte schade.   
@@ -4160,7 +4160,7 @@ c. een opgave van de wijze waarop de werknemer aan zijn verplichtingen heeft vol
 d. een opgave van de wijze waarop de arbeidsovereenkomst is geëindigd;   
 
 e. indien de werkgever de arbeidsovereenkomst heeft opgezegd, de reden daartoe.     
-3.  De in lid 2, onderdelen *c*, *d* en *e*, genoemde gegevens worden slechts op verzoek van de werknemer in het getuigschrift vermeld.   
+3.  De in lid 2, onderdelen c, d en e, genoemde gegevens worden slechts op verzoek van de werknemer in het getuigschrift vermeld.   
 4.  Indien de werknemer de arbeidsovereenkomst heeft opgezegd en hij in verband daarmee een vergoeding aan de werkgever verschuldigd is, is de werkgever gerechtigd dit in het getuigschrift te vermelden.   
 5.  De werkgever die weigert het gevraagde getuigschrift af te geven, nalaat aan een verzoek als bedoeld in lid 3 te voldoen, in het getuigschrift door opzet of schuld onjuiste mededelingen opneemt of het getuigschrift van een kenmerk voorziet of op een bepaalde wijze inricht om daarmee aangaande de werknemer enige mededeling te doen die niet in de bewoordingen van het getuigschrift is vervat, is zowel jegens de werknemer als jegens derden aansprakelijk voor de daardoor veroorzaakte schade.   
 6.  Van dit artikel kan niet ten nadele van de werknemer worden afgeweken.   

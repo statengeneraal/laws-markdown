@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-1.   Deze regeling geeft uitvoering aan de artikelen 7a, 18, 19, 22bis, 25, 25a, 26, 31, 35, 42c, 44a, 44b, 53, 70b en 70ba van de Invorderingswet 1990 alsmede aan artikel 232e van de Provinciewet, artikel 255 van de Gemeentewet, artikel 144 van de Waterschapswet, artikel 8a.40 van de Wet luchtvaart en artikel 93a van de Gezondheids- en welzijnswet voor dieren in samenhang met artikel 26 van de Invorderingswet 1990.   
+1.  Deze regeling geeft uitvoering aan de artikelen 7a, 18, 19, 22bis, 25, 25a, 26, 31, 35, 42c, 44a, 44b, 53, 70b en 70ba van de Invorderingswet 1990 alsmede aan artikel 232e van de Provinciewet, artikel 255 van de Gemeentewet, artikel 144 van de Waterschapswet, artikel 8a.40 van de Wet luchtvaart en artikel 93a van de Gezondheids- en welzijnswet voor dieren in samenhang met artikel 26 van de Invorderingswet 1990.   
 2.  Deze regeling verstaat hierna onder wet: de Invorderingswet 1990.  
 
 ###Artikel 1a 

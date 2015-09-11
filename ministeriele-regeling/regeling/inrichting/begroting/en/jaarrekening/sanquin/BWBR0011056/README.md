@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling inrichting begroting en jaarrekening Sanquin
+##Regeling begroting, beleidsplan en jaarrekening Bloedvoorzieningsorganisatie
 
 De Minister van Volksgezondheid, Welzijn en Sport;  
 Gelet op de artikelen 7, tweede lid, en 8, eerste lid, van de Wet inzake bloedvoorziening,
@@ -8,7 +8,8 @@ Besluit:
 
 ### Artikel 1  
 
-De begroting en de jaarrekening van Stichting Sanquin worden ingericht met inachtneming van de bijlage behorend bij deze regeling.  
+1.  De begroting en de jaarrekening van de Bloedvoorzieningsorganisatie worden ingericht met inachtneming van de bijlage behorend bij deze regeling.   
+2.  De begroting en het beleidsplan van de Bloedvoorzieningsorganisatie worden jaarlijks vóór 15 oktober bij de Minister van Volksgezondheid, Welzijn en Sport ingediend. 
 
 ### Artikel 2  
 
@@ -16,7 +17,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel 3  
 
-Deze regeling wordt aangehaald als: Regeling inrichting begroting en jaarrekening Sanquin. 
+Deze regeling wordt aangehaald als: Regeling begroting, beleidsplan en jaarrekening Bloedvoorzieningsorganisatie.
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
@@ -25,7 +26,7 @@ E. Borst-Eilers
 
 ###Bijlage 
 
-####bij de Regeling inrichting begroting en jaarrekening Sanquin
+####bij de Regeling begroting, beleidsplan en jaarrekening Bloedvoorzieningsorganisatie
 
 ### Hoofdstuk 1 
 
@@ -187,5 +188,5 @@ Voornemens tot het aangaan of beëindigen van samenwerkingsverbanden zoals deeln
 
 ####Indiening van een jaarplan
 
-Uiterlijk op 1 januari van het jaar t verstrekt Sanquin een meerjarenraming met toelichting van de baten, lasten en afzetgegevens van de divisie Sanquin Bloedbank voor de jaren t tot en met t+5. Daarbij dient de Minister geïnformeerd te worden over de te verwachten omvangrijke kostenveranderingen voor de divisie Sanquin Bloedbank in het jaar t+1 ten opzichte van het jaar t. 
+Uiterlijk op 15 maart van het jaar t verstrekt Sanquin een meerjarenraming met toelichting van de baten, lasten en afzetgegevens van de divisie Sanquin Bloedbank voor de jaren t tot en met t+5. Daarbij dient de Minister geïnformeerd te worden over de te verwachten omvangrijke kostenveranderingen voor de divisie Sanquin Bloedbank in het jaar t+1 ten opzichte van het jaar t. 
 

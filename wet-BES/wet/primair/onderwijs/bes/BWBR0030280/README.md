@@ -1770,7 +1770,7 @@ b. de wijze en het tijdstip waarop de desbetreffende onderdelen beschikbaar gest
 c. de elektronische verzending van het cijfermatige deel uit de jaarrekening, en  
 
 d. de grondslagen voor de jaarrekening.     
-4.  De beschikbaarstelling van de gegevens, bedoeld in het derde lid, onder b, gaat vergezeld van een verklaring omtrent de getrouwheid en rechtmatigheid, afgegeven door een door de toezichthouder of het toezichthoudend orgaan aangewezen deskundige als bedoeld in artikel 121, zesde lid, van Boek 2 van het Burgerlijk Wetboek BES. Bij de aanwijzing van de deskundige bedingt de toezichthouder of het toezichthoudend orgaan dat de controle overeenkomstig een door Onze Minister vast te stellen controleprotocol plaatsvindt.   
+4.  De beschikbaarstelling van de gegevens, bedoeld in het derde lid, onder b, gaat vergezeld van een verklaring omtrent de getrouwheid en rechtmatigheid, afgegeven door een door de toezichthouder of het toezichthoudend orgaan aangewezen deskundige als bedoeld in artikel 121, zesde lid, van Boek 2 van het Burgerlijk Wetboek BES. Bij de aanwijzing van de deskundige bedingt de toezichthouder of het toezichthoudend orgaan dat de controle overeenkomstig een door Onze Minister vast te stellen accountantsprotocol plaatsvindt.   
 5.  Dit lid is nog niet in werking getreden.   
 6.  Bij algemene maatregel van bestuur kan een branchecode voor goed bestuur worden aangewezen.  
 

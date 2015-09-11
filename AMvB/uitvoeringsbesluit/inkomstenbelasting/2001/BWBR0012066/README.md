@@ -104,7 +104,7 @@ Voor de overeenkomstige toepassing, bedoeld in artikel 3.18, vijfde lid, onderde
 
 ####Belastbare winst uit onderneming; privégebruik auto
 
-1.  Het afgeven van de verklaring uitsluitend zakelijk gebruik bestelauto, bedoeld in artikel 3.20, elfde lid, van de wet, geschiedt door het duidelijk, stellig en zonder voorbehoud invullen van het daartoe langs elektronische weg ter beschikking gestelde modelformulier en het toezenden van het ingevulde modelformulier aan de inspecteur.   
+1.  Het afgeven van de verklaring uitsluitend zakelijk gebruik bestelauto, bedoeld in artikel 3.20, tiende lid, van de wet, geschiedt door het duidelijk, stellig en zonder voorbehoud invullen van het daartoe langs elektronische weg ter beschikking gestelde modelformulier en het toezenden van het ingevulde modelformulier aan de inspecteur.   
 2.  De belastingplichtige is gehouden voordat met de bestelauto waarop de verklaring, bedoeld in het eerste lid, betrekking heeft voor privédoeleinden wordt gereden, mede te delen dat hij de verklaring intrekt.   
 3.  De mededeling, bedoeld in het tweede lid, geschiedt door het toezenden van het daartoe langs elektronische weg ter beschikking gestelde modelformulier aan de inspecteur.   
 4.  Het niet of niet tijdig doen van de mededeling, bedoeld in het tweede lid, en het niet doen van die mededeling op de in het derde lid voorgeschreven wijze worden aangemerkt als een overtreding.   
@@ -492,7 +492,7 @@ c. aannemelijk maakt dat hij wegens de geringe hoogte van zijn inkomen in het wo
 
 ####Als voorheffing aangewezen bronbelasting
 
-Als voorheffing worden aangewezen door Andorra, British Virgin Islands, Curaçao, Guernsey, Isle of Man, Jersey, Liechtenstein, Monaco, San Marino, Turks and Caicos Islands, Sint Maarten en Zwitserland geheven bronbelasting over een uit die mogendheid als uiteindelijk gerechtigde als bedoeld in artikel 2 van de Richtlijn 2003/48/EG van de Raad van 3 juni 2003 betreffende belastingheffing op inkomsten uit spaargelden in de vorm van rentebetaling (PbEU 2003, L 157), genoten rentebetaling, mits de bronbelasting vergelijkbaar is met die in artikel 11 van die richtlijn en de rentebetaling valt onder de begripsomschrijving van artikel 6 van die richtlijn.
+Als voorheffing worden aangewezen door Andorra, Curaçao, Liechtenstein, Monaco, San Marino, Sint Maarten en Zwitserland geheven bronbelasting over een uit die mogendheid als uiteindelijk gerechtigde als bedoeld in artikel 2 van de Richtlijn 2003/48/EG van de Raad van 3 juni 2003 betreffende belastingheffing op inkomsten uit spaargelden in de vorm van rentebetaling (PbEU 2003, L 157), genoten rentebetaling, mits de bronbelasting vergelijkbaar is met die in artikel 11 van die richtlijn en de rentebetaling valt onder de begripsomschrijving van artikel 6 van die richtlijn.
 
 ### Hoofdstuk  8  
 

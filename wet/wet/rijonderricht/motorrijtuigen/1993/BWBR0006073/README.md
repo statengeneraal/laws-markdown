@@ -16,31 +16,31 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a.  *Onze Minister:* Onze Minister van Verkeer en Waterstaat;  
+*bromfiets:* hetgeen daaronder wordt verstaan in de Wegenverkeerswet 1994, niet zijnde een brommobiel;  
 
-b.  *rijonderricht:* onderricht, gericht op het bijbrengen, behouden of verbeteren van de rijvaardigheid en geschiktheid om aan het verkeer deel te nemen als bestuurder van een motorrijtuig, waarvoor een rijbewijs wordt gevorderd;  
+*brommobiel:* bromfiets op meer dan twee wielen, die is voorzien van een carrosserie;  
 
-c.  *stage:* na het examen te volgen rijonderricht gericht op het verkrijgen van een certificaat als bedoeld in artikel 13, onderdeel a;  
+*bijscholing:* rijonderricht na de eerste afgifte van een certificaat als bedoeld in artikel 13, onderdeel b, gericht op het hernieuwd verkrijgen van een certificaat als in dat onderdeel bedoeld;  
 
-d.  *bijscholing:* rijonderricht na de eerste afgifte van een certificaat als bedoeld in artikel 13, onderdeel b, gericht op het hernieuwd verkrijgen van een certificaat als in dat onderdeel bedoeld;  
+*instituut:* instituut, bedoeld in artikel 2;  
 
-e.  *motorrijtuigen:* hetgeen daaronder wordt verstaan in de Wegenverkeerswet 1994;  
+*motorrijtuigen:* hetgeen daaronder wordt verstaan in de Wegenverkeerswet 1994;  
 
-f.  *rijbewijs:* hetgeen daaronder wordt verstaan in de Wegenverkeerswet 1994;  
+*Onze Minister:* Onze Minister van Infrastructuur en Milieu;  
 
-g.  *scholing educatieve maatregel:* onderricht, gericht op de bevordering van de rijvaardigheid of geschiktheid van rijbewijshouders in het kader van een door het CBR krachtens de Wegenverkeerswet 1994 aan betrokkenen opgelegde verplichting zich te onderwerpen aan educatieve maatregelen;  
+*richtlijn rijbewijzen:* de bij ministeriële regeling aangewezen richtlijn;  
 
-h.  *instituut:* instituut, bedoeld in artikel 2;  
+*rijbewijs:* hetgeen daaronder wordt verstaan in de Wegenverkeerswet 1994;  
 
-i.  *toets:* proef ter beoordeling van de vakbekwaamheid van rijinstructeurs;  
+*rijonderricht:* onderricht, gericht op het bijbrengen, behouden of verbeteren van de rijvaardigheid of geschiktheid om aan het verkeer deel te nemen als bestuurder van een motorrijtuig, waarvoor een rijbewijs is vereist;  
 
-j.  *bromfiets:* hetgeen daaronder wordt verstaan in de Wegenverkeerswet 1994, niet zijnde een brommobiel;  
+*scholing alcoholslotprogramma:* individueel of groepsgewijs onderricht gericht op de bevordering van de geschiktheid in het kader van het alcoholslotprogramma, bedoeld in artikel 132b, van de Wegenverkeerswet 1994;  
 
-k.  *brommobiel:* bromfiets op meer dan twee wielen, die is voorzien van een carrosserie;  
+*scholing educatieve maatregel:* onderricht gericht op de bevordering van de rijvaardigheid of geschiktheid in het kader van een door het CBR krachtens de Wegenverkeerswet 1994 aan betrokkenen opgelegde verplichting zich te onderwerpen aan educatieve maatregelen;  
 
-l.  *richtlijn rijbewijzen:* de bij ministeriële regeling aangewezen richtlijn;  
+*stage:* na het examen te volgen rijonderricht gericht op het verkrijgen van een certificaat als bedoeld in artikel 13, onderdeel a;  
 
-m.  *scholing alcoholslotprogramma:* individueel of groepsgewijs onderricht gericht op de bevordering van de geschiktheid in het kader van het alcoholslotprogramma, bedoeld in artikel 132b van de Wegenverkeerswet 1994.  
+*toets:* proef ter beoordeling van de vakbekwaamheid van rijinstructeurs.   
 
 ### Hoofdstuk  II  
 
@@ -128,7 +128,8 @@ b. te voldoen aan de bij regeling van Onze Minister vastgestelde eisen inzake in
 
 c. behoorlijk leesbaar te zijn.     
 4.  In afwijking van het eerste lid, tweede volzin, is degene die rijonderricht geeft voor het besturen van een bromfiets in het bezit van een door het instituut afgegeven certificaat voor de motorrijtuigcategorieën A1, A2 en A als bedoeld in de richtlijn rijbewijzen en is degene die rijonderricht geeft voor het besturen van een brommobiel in het bezit van een door het instituut afgegeven certificaat voor de motorrijtuigcategorie B als bedoeld in de richtlijn rijbewijzen.   
-5.  In afwijking van het derde lid, onderdeel a, is een certificaat als bedoeld in artikel 13, onderdeel a, alleen geldig voor het rijonderricht dat wordt gegeven onder directe begeleiding van de stagebegeleider.  
+5.  In afwijking van het eerste lid is degene die bedrijfsmatig dan wel beroepsmatig rijonderricht geeft in het besturen van bij algemene maatregel van bestuur aangewezen landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid in het bezit van een door het instituut afgegeven certificaat voor de rijbewijscategorie T.  
+6.  In afwijking van het derde lid, onderdeel a, is een certificaat als bedoeld in artikel 13, onderdeel a, alleen geldig voor het rijonderricht dat wordt gegeven onder directe begeleiding van de stagebegeleider.  
 
 ### Artikel  8  
 
@@ -178,13 +179,11 @@ a. de inrichting en de inhoud van de geschiktheidtest;
 b. de beoordeling van de competenties van de betrokkene en de wijze waarop die beoordeling plaatsvindt.    
 
 ### Artikel  9a  
-Treedt in werking per 01-07-2015 
 
 1.  In afwijking van artikel 9 voldoet de aanvrager die beschikt over een geldig certificaat als bedoeld in artikel 7, eerste lid, eerste volzin, voor alleen de categorie B, ten behoeve van het verkrijgen van het certificaat voor de categorie T, bedoeld in artikel 13, onderdeel a, subonderdeel 3, aan bij of krachtens algemene maatregel van bestuur vastgestelde eisen.   
 2.  In afwijking van artikel 9 voldoet de aanvrager die beschikt over een geldig certificaat als bedoeld in artikel 7, eerste lid, eerste volzin, voor alleen de categorie B, ten behoeve van het verkrijgen van het certificaat, bedoeld in artikel 13, onderdeel b, voor de categorie T, aan bij of krachtens algemene maatregel van bestuur vastgestelde eisen.  
 
 ### Artikel  9b  
-Treedt in werking per 01-07-2015 
 
 In afwijking van artikel 9 voldoet de aanvrager die mede beschikt over een geldig certificaat voor de categorie E bij C als bedoeld in artikel 7, eerste lid, tweede volzin, ten behoeve van het verkrijgen van het certificaat, bedoeld in artikel 13, onderdeel b, voor de categorie T, aan bij of krachtens algemene maatregel van bestuur vastgestelde eisen. 
 
@@ -227,7 +226,7 @@ c. de aanwijzing van stagebegeleiders.
 
 ### Artikel  12b  
 
-1.  Degene die rijonderricht geeft en in het bezit is van een certificaat als bedoeld in artikel 13, onderdeel b, of een instructeursbewijs als bedoeld in artikel 27, eerste lid, van de Wet rijonderricht motorrijtuigen 1993, zoals dat artikel gold op 1 januari 2008 volgt theoretische en praktische bijscholing voor het rijonderricht in de motorrijtuigcategorie waarvoor hij het certificaat of het instructeursbewijs heeft. Indien een rijinstructeur in het bezit is van een certificaat of een instructeursbewijs voor verschillende motorrijtuigcategorieën als bedoeld in de richtlijn rijbewijzen, volgt hij voor één van die categorieën theoretische en praktische bijscholing.   
+1.  Degene die rijonderricht geeft en in het bezit is van een certificaat als bedoeld in artikel 13, onderdeel b, of een instructeursbewijs als bedoeld in artikel 27, eerste lid, van de Wet rijonderricht motorrijtuigen 1993, zoals dat artikel gold op 1 januari 2008 volgt theoretische en praktische bijscholing voor het rijonderricht in de motorrijtuigcategorie waarvoor hij het certificaat of het instructeursbewijs heeft. Indien een rijinstructeur in het bezit is van een certificaat of een instructeursbewijs voor verschillende motorrijtuigcategorieën als bedoeld in de richtlijn rijbewijzen, al dan niet in combinatie met het certificaat voor de categorie T, volgt hij voor één van die categorieën theoretische en praktische bijscholing.   
 2.  Het instituut stelt de leerdoelen, de inhoud en de voorgeschreven werkwijze van de theoretische bijscholing vast, en kan de cursussen certificeren die aan de leerdoelen, de inhoud en de voorgeschreven werkwijze voldoen.   
 3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot: 
 
@@ -263,7 +262,9 @@ a.
 
 1. indien het wordt afgegeven aansluitend op het behalen van het examen voor de categorie B als bedoeld in de richtlijn rijbewijzen, voor de duur van twaalf achtereenvolgende maanden;  
 
-2. indien het wordt afgegeven aansluitend op het behalen van het examen voor de categorie A1, A2, A, C1, C, D1 of D als bedoeld in de richtlijn rijbewijzen, voor de duur van zes achtereenvolgende maanden.   In bijzondere bij of krachtens algemene maatregel van bestuur aan te geven gevallen, kan de geldigheidsduur door het instituut eenmalig met ten hoogste vier achtereenvolgende maanden worden verlengd,  
+2. indien het wordt afgegeven aansluitend op het behalen van het examen voor de categorie A1, A2, A, C1, C, D1 of D als bedoeld in de richtlijn rijbewijzen, voor de duur van zes achtereenvolgende maanden;  
+
+3.indien het wordt afgegeven aansluitend op het behalen van het examen voor de rijbewijscategorie T, voor de duur van twaalf achtereenvolgende maanden. In bijzondere bij of krachtens algemene maatregel van bestuur aan te geven gevallen, kan de geldigheidsduur door het instituut eenmalig met ten hoogste vier achtereenvolgende maanden worden verlengd,  
 
 b. in de overige gevallen: voor de duur van vijf achtereenvolgende jaren. In bijzondere bij of krachtens algemene maatregel van bestuur aan te geven gevallen, kan de geldigheidsduur door het instituut eenmalig met ten hoogste twaalf achtereenvolgende maanden worden verlengd.   
 
@@ -371,8 +372,8 @@ Een certificaat voor het geven van scholing educatieve maatregel alsmede een cer
 
 ### Artikel  24  
 
-1.  Degene die rijonderricht dan wel scholing educatieve maatregel geeft is verplicht het hem afgegeven certificaat op eerste vordering van de in artikel 141 van het Wetboek van Strafvordering bedoelde ambtenaren aan die ambtenaren behoorlijk ter inzage af te geven.    
-2.   Indien rijonderricht dan wel scholing educatieve maatregel wordt gegeven in een motorrijtuig is de rijinstructeur onderscheidenlijk de docent educatieve maatregel verplicht dit motorrijtuig op eerste vordering van de in artikel 141 van het Wetboek van Strafvordering bedoelde ambtenaren te doen stilhouden en het hem afgegeven certificaat aan die ambtenaren behoorlijk ter inzage af te geven.   
+1.  Degene die rijonderricht dan wel scholing educatieve maatregel of scholing alcoholslotprogramma geeft is verplicht het hem afgegeven certificaat op eerste vordering van de in artikel 141 van het Wetboek van Strafvordering bedoelde ambtenaren aan die ambtenaren behoorlijk ter inzage af te geven.    
+2.   Indien rijonderricht dan wel scholing educatieve maatregel of scholing alcoholslotprogramma wordt gegeven in een motorrijtuig is de rijinstructeur onderscheidenlijk de docent educatieve maatregel verplicht dit motorrijtuig op eerste vordering van de in artikel 141 van het Wetboek van Strafvordering bedoelde ambtenaren te doen stilhouden en het hem afgegeven certificaat aan die ambtenaren behoorlijk ter inzage af te geven.   
 
 ### Hoofdstuk  VIA  
 

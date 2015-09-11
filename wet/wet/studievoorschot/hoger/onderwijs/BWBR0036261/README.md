@@ -43,15 +43,11 @@ Wijzigt de Participatiewet.
 
 ####Wijziging Wet inkomstenbelasting 2001
 
-Treedt in werking per 01-07-2015 
-
 Wijzigt de Wet inkomstenbelasting 2001. 
 
 ### Artikel  VI  
 
 ####Wijziging Wet maatregelen woningmarkt 2014 II
-
-Treedt in werking per 01-07-2015 
 
 Wijzigt de Wet maatregelen woningmarkt 2014 II. 
 
@@ -65,15 +61,11 @@ Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 ####Wijziging Wet tegemoetkoming onderwijsbijdrage en schoolkosten
 
-Treedt in werking per 01-09-2015 
-
 Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten. 
 
 ### Artikel  IX  
 
 ####Intrekking uitgewerkte Wijzigingswet
-
-Treedt in werking per 01-09-2015 
 
 De Wet van 16 mei 2007 tot wijziging van onder meer de Wet studiefinanciering 2000 in verband met aanpassing van de berekeningssystematiek veronderstelde ouderlijke bijdrage en de verlenging van experimenten met vooropleidingseisen, selectie en collegegeldheffing (Stb. 2007, 198) wordt ingetrokken. 
 

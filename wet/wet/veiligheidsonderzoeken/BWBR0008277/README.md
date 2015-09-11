@@ -52,7 +52,8 @@ Indien een vertrouwensfunctie wordt uitgeoefend bij het Ministerie van Defensie,
 
 ### Artikel  6  
 
-In de gevallen als bedoeld in artikel 4 en 5 beslist Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zo spoedig mogelijk, doch uiterlijk binnen acht weken, omtrent het afgeven van een verklaring. 
+1. In de gevallen als bedoeld in artikel 4 en 5 beslist Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zo spoedig mogelijk, doch uiterlijk binnen acht weken, omtrent het afgeven van een verklaring.  
+2.  De termijn voor het geven van een beschikking wordt opgeschort met ingang van de dag waarop Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties de betrokkene uitnodigt nadere gegevens te verstrekken, tot de dag waarop die gegevens zijn ontvangen of de voor verstrekking gestelde termijn ongebruikt is verstreken. 
 
 ### Artikel  7  
 
@@ -69,8 +70,7 @@ d.gegevens betreffende overige persoonlijke gedragingen en omstandigheden, naar 
 
 ### Artikel  8  
 
-1.  Weigering van een verklaring geschiedt door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister dan wel het bevoegd gezag van een Hoog College van Staat.   
-2.  Een verklaring kan slechts worden geweigerd, indien onvoldoende waarborgen aanwezig zijn dat de betrokkene onder alle omstandigheden de uit de vertrouwensfunctie voortvloeiende plichten getrouwelijk zal volbrengen of indien het veiligheidsonderzoek onvoldoende gegevens heeft kunnen opleveren om daarover een oordeel te geven.  
+Een verklaring kan slechts worden geweigerd, indien onvoldoende waarborgen aanwezig zijn dat de betrokkene onder alle omstandigheden de uit de vertrouwensfunctie voortvloeiende plichten getrouwelijk zal volbrengen of indien het veiligheidsonderzoek onvoldoende gegevens heeft kunnen opleveren om daarover een oordeel te geven. 
 
 ### Artikel  9  
 
@@ -78,14 +78,13 @@ d.gegevens betreffende overige persoonlijke gedragingen en omstandigheden, naar 
 2. Onder feiten en omstandigheden als bedoeld in het eerste lid kunnen worden gerekend gegevens die de Algemene Inlichtingen- en Veiligheidsdienst heeft verkregen door het verzamelen van justitiële en strafvorderlijke gegevens als bedoeld in de Wet justitiële en strafvorderlijke gegevens en van gegevens als bedoeld in de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES alsmede van gegevens als bedoeld in de Wet politiegegevens en van gegevens verwerkt in het kader van de uitvoering van de politietaak op Bonaire, Sint Eustatius en Saba.
 
 ### Artikel  9a  
-Treedt in werking per 01-09-2015 
 
 1.  De kosten die samenhangen met het verrichten van een veiligheidsonderzoek als bedoeld in de artikelen 7 en 9 komen ten laste van de werkgever.   
 2.  De bedragen ter vergoeding van de kosten worden bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgesteld.  
 
 ### Artikel  10  
 
-1.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is, in overeenstemming met Onze Minister dan wel het bevoegd gezag van een Hoog College van Staat, bevoegd tot het intrekken van de verklaring, indien hem blijkt dat onvoldoende waarborgen aanwezig zijn dat de betrokkene onder alle omstandigheden de uit de vertrouwensfunctie voortvloeiende plichten getrouwelijk zal volbrengen.   
+1.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is bevoegd tot het intrekken van de verklaring, indien hem blijkt dat onvoldoende waarborgen aanwezig zijn dat de betrokkene onder alle omstandigheden de uit de vertrouwensfunctie voortvloeiende plichten getrouwelijk zal volbrengen of indien een nieuw veiligheidsonderzoek onvoldoende gegevens heeft kunnen opleveren om vast te stellen dat voldoende waarborgen aanwezig zijn.   
 2.  Indien een verklaring is ingetrokken, ontheft de werkgever de betrokken persoon zo spoedig mogelijk, doch uiterlijk binnen acht weken na de intrekking van de verklaring, uit de vertrouwensfunctie.  
 
 ### Artikel  11  
@@ -116,7 +115,7 @@ d.gegevens betreffende overige persoonlijke gedragingen en omstandigheden die in
 
 ### Artikel  14  
 
-1.  Hij die niet of niet tijdig voldoet aan een verplichting als bedoeld in een van de artikelen 3, tweede en derde lid, 4, eerste en derde lid, 5, eerste en derde lid, en 10, tweede lid, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de derde categorie.   
+1.  Hij die niet of niet tijdig voldoet aan een in de artikelen 3, tweede en derde lid, 4, eerste en derde lid, 5, eerste en derde lid, en 10, tweede lid, opgenomen verplichting, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de vierde categorie.   
 2.  De in het eerste lid strafbaar gestelde feiten zijn overtredingen.  
 
 ### Artikel  15  

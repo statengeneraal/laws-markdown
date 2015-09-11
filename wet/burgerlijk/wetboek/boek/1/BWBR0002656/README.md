@@ -133,7 +133,7 @@ Een persoon kan een andere woonplaats dan zijn werkelijke slechts kiezen, wannee
 ### Artikel  16a  
 
 1.  De ambtenaar van de burgerlijke stand is belast met het opnemen in de onder hem berustende registers van de burgerlijke stand van akten en de daaraan toe te voegen latere vermeldingen, alsmede al datgene wat de instandhouding van de registers en de zorg voor de toegankelijkheid van de daarin neergelegde gegevens betreft.    
-2.   De buitengewoon ambtenaar van de burgerlijke stand kan uitsluitend worden belast met de taken omschreven in de artikelen 45, 45a, 63, 64, 65, 67, 80a, derde lid, en 80g.   
+2.   De buitengewoon ambtenaar van de burgerlijke stand kan uitsluitend worden belast met de taken omschreven in de artikelen 45, 45a, 58, 63, 64, 65, 67, 80a, derde lid, en 80g.   
 
 ### Artikel  16b  
 
@@ -176,8 +176,10 @@ Bij algemene maatregel van bestuur wordt geregeld alles wat verder betreft de in
 ### Artikel  18  
 
 1.  De ambtenaar van de burgerlijke stand mag in de akten alleen opnemen hetgeen ingevolge het bij of krachtens de wet bepaalde moet worden verklaard of opgenomen.    
-2.   De ambtenaar van de burgerlijke stand is bevoegd alvorens tot het opmaken van een akte over te gaan zich de door de wet vereiste bescheiden te doen vertonen. Hij doet zich ook andere bescheiden vertonen, welke hij voor het opmaken van de akte of voor de vaststelling van de in de akte op te nemen gegevens noodzakelijk acht. Hij kan zich te dien einde, zonder hiervoor leges verschuldigd te zijn, inlichtingen verschaffen uit de registers van de burgerlijke stand en uit andere openbare registers.    
-3.   Bij algemene maatregel van bestuur wordt geregeld al hetgeen het opmaken van de akten betreft.   
+2.  Alvorens tot het opmaken van een akte over te gaan, verifieert de ambtenaar van de burgerlijke stand de door partijen bij de akte verstrekte gegevens door raadpleging van de basisregistratie personen en, zonodig, andere daartoe bestemde registers of bevoegde autoriteiten, zonder daarvoor leges verschuldigd te zijn.   
+3.  De ambtenaar van de burgerlijke stand is voorts bevoegd zich, al dan niet in persoon, alle bescheiden te doen vertonen die hij voor het opmaken van de akte of voor de vaststelling van de in de akte op te nemen gegevens noodzakelijk acht.   
+4.  Dit lid is nog niet in werking getreden.  
+5.   Bij algemene maatregel van bestuur wordt geregeld al hetgeen het opmaken van de akten betreft.   
 
 ### Artikel  18a  
 
@@ -202,9 +204,9 @@ d. waarborgt dat een bericht, elektronisch afschrift of uittreksel volledig is e
 
 ### Artikel  18c  
 
-1.  Blijft een partij bij een akte van de burgerlijke stand of een belanghebbende partij in gebreke de in artikel 18, tweede lid, bedoelde bescheiden over te leggen, of acht de ambtenaar van de burgerlijke stand de overgelegde bescheiden ongenoegzaam, dan weigert deze tot het opmaken van de akte over te gaan.    
+1.  Blijft een partij bij een akte van de burgerlijke stand of een belanghebbende partij in gebreke de in artikel 18, derde lid, bedoelde bescheiden over te leggen, of acht de ambtenaar van de burgerlijke stand de overgelegde bescheiden ongenoegzaam, dan weigert deze tot het opmaken van de akte over te gaan.    
 2.   De ambtenaar van de burgerlijke stand weigert eveneens tot het opmaken van de akte over te gaan, indien hij van oordeel is dat de Nederlandse openbare orde zich hiertegen verzet.    
-3.   Van een weigering als bedoeld in het eerste of het tweede lid doet de ambtenaar van de burgerlijke stand een schriftelijke, met redenen omklede mededeling aan de partijen bij de akte en de belanghebbende partijen toekomen, onder vermelding van de tegen die weigering openstaande voorziening van afdeling 12 van deze titel. Een afschrift van deze mededeling doet hij aan de korpschef toekomen.   
+3.   Van een weigering als bedoeld in het eerste of het tweede lid doet de ambtenaar van de burgerlijke stand een schriftelijke, met redenen omklede mededeling aan de partijen bij de akte en de belanghebbende partijen toekomen, onder vermelding van de tegen die weigering openstaande voorziening van afdeling 12 van deze titel. Een afschrift van deze mededeling doet hij aan de Immigratie- en Naturalisatiedienst toekomen.   
 
 ### Artikel  18d  
 
@@ -338,8 +340,7 @@ b. de nietigverklaring van een huwelijk of van een geregistreerd partnerschap of
 
 1.  De in artikel 20 bedoelde latere vermeldingen, met uitzondering van de vermeldingen bedoeld in het eerste lid, onder b, alsmede van de vermeldingen houdende beëindiging van een geregistreerd partnerschap en van de vermeldingen van een omzetting van een geregistreerd partnerschap, worden toegevoegd aan de geboorteakte van de betrokken persoon. Van een wijziging of vaststelling van de geslachtsnaam wordt tevens een latere vermelding toegevoegd aan de geboorteakten van de kinderen van de betrokken persoon, voor zover de wijziging of vaststelling zich tot hen uitstrekt.    
 2.  De in artikel 20, eerste lid, onder b, en tweede lid, bedoelde latere vermeldingen alsmede de in de aanhef van artikel 20, eerste lid, bedoelde beëindiging van een geregistreerd partnerschap en de daar bedoelde omzetting, worden toegevoegd aan de huwelijksakte dan wel aan de akte van registratie van een partnerschap van de betrokken persoon.   
-3.   Wanneer als gevolg van het huwelijk of van de echtscheiding een verandering intreedt in de geslachtsnaam van een persoon, wordt hiervan, voorzover zij niet in de huwelijksakte is vermeld, aan deze akte een latere vermelding toegevoegd. Tevens wordt daarvan een latere vermelding toegevoegd aan de geboorteakte van de betrokkene en de geboortenakten van diens kinderen, voor zover hun naam eveneens verandert.    
-4.  Van een aan de ambtenaar van de burgerlijke stand betekende akte van stuiting van een huwelijk of van een registratie van een partnerschap wordt, evenals van beschikkingen of akten waarbij de stuiting wordt opgeheven, aan de akte van aangifte een latere vermelding toegevoegd.  
+3.   Wanneer als gevolg van het huwelijk of van de echtscheiding een verandering intreedt in de geslachtsnaam van een persoon, wordt hiervan, voorzover zij niet in de huwelijksakte is vermeld, aan deze akte een latere vermelding toegevoegd. Tevens wordt daarvan een latere vermelding toegevoegd aan de geboorteakte van de betrokkene en de geboortenakten van diens kinderen, voor zover hun naam eveneens verandert.   
 
 ### Artikel  20b  
 
@@ -348,7 +349,7 @@ b. de nietigverklaring van een huwelijk of van een geregistreerd partnerschap of
 
 ### Artikel  20c  
 
-De artikelen 18 en 18b zijn van overeenkomstige toepassing.  
+De artikelen 18 en 18c zijn van overeenkomstige toepassing.  
 
 ### Artikel  20d  
 
@@ -428,8 +429,7 @@ De dubbelen van de akten van de burgerlijke stand zijn openbaar zolang zij onder
 
 ### Artikel  24a  
 
-1.  Kennelijke misslagen kunnen worden verbeterd met toestemming van de officier van justitie binnen wiens rechtsgebied de akte in de registers van de burgerlijke stand is opgenomen. De toestemming van de officier van justitie kan eveneens betrekking hebben op dezelfde verbetering ten aanzien van een akte betreffende dezelfde persoon of zijn afstammelingen, die in een ander arrondissement in de registers van de burgerlijke stand is opgenomen.    
-2.   Kennelijke schrijf- of spelfouten kunnen ambtshalve door de ambtenaar van de burgerlijke stand worden verbeterd.   
+Kennelijke schrijf- of spelfouten en kennelijke misslagen kunnen ambtshalve door de ambtenaar van de burgerlijke stand worden verbeterd. Indien in een andere gemeente een akte betreffende dezelfde persoon of diens afstammelingen wordt gehouden, die eveneens verbetering behoeft, stelt de ambtenaar van de burgerlijke stand die de verbetering in de akte heeft aangebracht de ambtenaar van de burgerlijke stand in de andere gemeente daarvan op de hoogte.
 
 ### Artikel  24b  
 
@@ -449,15 +449,11 @@ a. de akte een persoon betreft die op het ogenblik van het verzoek Nederlander i
 b. de akte een persoon betreft die rechtmatig verblijft op grond van artikel 8, onder c en d, van de Vreemdelingenwet 2000.     
 2.   Buiten Nederland overeenkomstig de plaatselijke voorschriften door een bevoegde instantie opgemaakte akten van geboorte worden op bevel van het openbaar ministerie of op verzoek van een belanghebbende ingeschreven in het register van geboorten van de gemeente 's-Gravenhage, indien de akte een persoon van vreemde nationaliteit betreft en op grond van enige bepaling van dit boek een latere vermelding aan de akte van geboorte moet worden toegevoegd.    
 3.   De ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage kan ook ambtshalve de in de vorige leden bedoelde akten inschrijven.    
-4.  Alvorens op grond van het eerste of derde lid tot de inschrijving van een huwelijksakte of van een akte van registratie van een partnerschap over te gaan, doet de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage zich een door de korpschef in de zin van de Vreemdelingenwet 2000 afgegeven verklaring als bedoeld in artikel 44, eerste lid, onder k, overleggen. Deze verklaring wordt opgesteld op verzoek van de echtgenoot of de geregistreerde partner op wie zij betrekking heeft. Bij het verzoek wordt een gewaarmerkt afschrift als bedoeld in artikel 44, eerste lid, onder a, overgelegd. Heeft deze geen woonplaats in Nederland, dan wordt zij opgesteld op verzoek van de andere echtgenoot of de andere geregistreerde partner. De verklaring is niet vereist indien: 
+4.  Indien de inschrijving van een huwelijksakte of van een akte van registratie van een partnerschap op grond van het eerste lid wordt verzocht door een belanghebbende en betrekking heeft op een huwelijk of een geregistreerd partnerschap tussen personen van wie er een niet de Nederlandse nationaliteit bezit of rechtmatig in Nederland verblijft als bedoeld in artikel 8, onder b, d of e, van de Vreemdelingenwet 2000, dienen de echtgenoten of geregistreerde partners ten behoeve van de ambtenaar van de burgerlijke stand van de gemeente ’s-Gravenhage een verklaring af te leggen inzake het verblijfsrecht van de echtgenoot of geregistreerde partner die niet de Nederlandse nationaliteit bezit alsmede inhoudende dat hun huwelijk of geregistreerd partnerschap niet is aangegaan met het oogmerk om verblijfsrecht in Nederland te verkrijgen. De verklaring is niet vereist indien: 
 
-a. de echtgenoten of geregistreerde partners aannemelijk kunnen maken dat zij beiden buiten Nederland woonplaats hebben;  
+a. sinds de voltrekking van het huwelijk of de registratie van het partnerschap ten minste tien jaren zijn verstreken, of  
 
-b. de betrokken echtgenoot of geregistreerde partner die niet de Nederlandse nationaliteit bezit, in Nederland rechtmatig verblijft op grond van artikel 8, onder b, d of e, van de Vreemdelingenwet 2000;  
-
-c. het huwelijk of het geregistreerd partnerschap ten minste tien jaren vóór de inschrijving is voltrokken, of  
-
-d. het huwelijk of het geregistreerd partnerschap is geëindigd.     
+b. het huwelijk of geregistreerd partnerschap inmiddels is geëindigd.    
 5.   In geval van adoptie gelast de rechtbank, die de adoptie uitspreekt, ambtshalve afzonderlijk de inschrijving van de in het eerste en het tweede lid bedoelde akte van geboorte.    
 6.   De akte van inschrijving vermeldt de bij algemene maatregel van bestuur vast te stellen gegevens.    
 7.   Kennelijke misslagen of schrijf- of spelfouten, die de ambtenaar van de burgerlijke stand in de in te schrijven akte vaststelt op grond van een hier te lande in de registers van de burgerlijke stand opgenomen akte of op grond van een rechterlijke uitspraak, kunnen ambtshalve door hem worden verbeterd. De verbeteringen worden afzonderlijk in de akte vermeld.    
@@ -465,7 +461,7 @@ d. het huwelijk of het geregistreerd partnerschap is geëindigd.
 
 ### Artikel  25a  
 
-1.  Indien na de inschrijving kennelijke misslagen in de buiten Nederland opgemaakte akte overeenkomstig de plaatselijke voorschriften door een bevoegde instantie zijn verbeterd, wordt de verbetering in de akte van inschrijving aangebracht doordat de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage, aan wie een afschrift van de beslissing tot verbetering en een afschrift van de verbeterde akte zijn overgelegd, een latere vermelding van de verbetering aan de akte van inschrijving toevoegt, nadat hij daartoe toestemming van de officier van justitie heeft verkregen.    
+1.  Indien na de inschrijving kennelijke misslagen in de buiten Nederland opgemaakte akte overeenkomstig de plaatselijke voorschriften door een bevoegde instantie zijn verbeterd, wordt de verbetering in de akte van inschrijving aangebracht doordat de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage, aan wie een afschrift van de beslissing tot verbetering en een afschrift van de verbeterde akte zijn overgelegd, een latere vermelding van de verbetering aan de akte van inschrijving toevoegt.    
 2.   Kennelijke schrijf- en spelfouten, die in de buiten Nederland opgemaakte akte overeenkomstig de plaatselijke voorschriften door een bevoegde instantie zijn verbeterd, kunnen ook zonder toestemming van de officier van justitie, ambtshalve door de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage aan de hand van een afschrift van de verbeterde akte worden verbeterd op de in het eerste lid aangegeven wijze.   
 
 ### Artikel  25b  
@@ -530,7 +526,7 @@ De griffier van het college, waarbij de zaak laatstelijk aanhangig was, zendt ee
 
 ### Artikel  27  
 
-Naar aanleiding van een besluit van een ambtenaar van de burgerlijke stand om op grond van artikel 18b of 20*c* te weigeren een akte van de burgerlijke stand op te maken, een latere vermelding aan een akte toe te voegen of, buiten het geval van stuiting van het huwelijk of het geregistreerd partnerschap en dat van afgifte van een afschrift of een uittreksel, aan een verrichting mee te werken, hebben belanghebbende partijen de bevoegdheid zich binnen zes weken na de verzending van dat besluit bij verzoekschrift te wenden tot de rechtbank binnen welker rechtsgebied de standplaats van de ambtenaar van de burgerlijke stand is gelegen.  
+Naar aanleiding van een besluit van een ambtenaar van de burgerlijke stand om op grond van artikel 18c of 20c te weigeren een akte van de burgerlijke stand op te maken, een latere vermelding aan een akte toe te voegen of, buiten het geval van stuiting van het huwelijk of het geregistreerd partnerschap en dat van afgifte van een afschrift of een uittreksel, aan een verrichting mee te werken, hebben belanghebbende partijen de bevoegdheid zich binnen zes weken na de verzending van dat besluit bij verzoekschrift te wenden tot de rechtbank binnen welker rechtsgebied de standplaats van de ambtenaar van de burgerlijke stand is gelegen.  
 
 ### Artikel  27a  
 
@@ -669,54 +665,45 @@ Zij die met elkander een huwelijk willen aangaan, mogen niet tegelijkertijd een 
 
 ####Formaliteiten die aan de voltrekking van het huwelijk moeten voorafgaan 
 
-### Artikel  43  
-
-1.  Zij die met elkaar een huwelijk willen aangaan, moeten daarvan onder overlegging van de in artikel 44 van dit boek genoemde bescheiden, aangifte doen bij de ambtenaar van de burgerlijke stand van de woonplaats van één der partijen. Wanneer de aanstaande echtgenoten, van wie ten minste één de Nederlandse nationaliteit bezit, buiten Nederland woonplaats hebben en in een Nederlandse gemeente een huwelijk met elkaar willen aangaan, geschiedt de aangifte bij de ambtenaar van de burgerlijke stand te 's-Gravenhage.    
-2.   Bij de aangifte kunnen de aanstaande echtgenoten verklaren dat het huwelijk zal worden voltrokken in een andere gemeente dan die waarin een van hen op het tijdstip van de huwelijksaangifte woonplaats heeft, dan wel indien de tweede zin van het eerste lid van toepassing is, in een andere gemeente dan 's-Gravenhage.    
-3.   De aangifte geschiedt in persoon of bij zodanige geschriften waaruit van het voornemen der aanstaande echtgenoten met genoegzame zekerheid kan blijken.    
-4.   De ambtenaar van de burgerlijke stand maakt van de aangifte een akte op.   
-
 ### Artikel  44  
 
-1.  Voor de aangifte van het huwelijk worden de volgende bescheiden aan de ambtenaar van de burgerlijke stand overgelegd:  
+1.  Ten behoeve van het kenbaar maken van hun voornemen om in het huwelijk te treden verstrekken de aanstaande echtgenoten aan de ambtenaar van de burgerlijke stand: 
 
-a. de geboorteakte van ieder der aanstaande echtgenoten en van elk van hen een gewaarmerkt afschrift van gegevens uit de basisregistratie personen, tenzij zij niet als ingezetenen zijn ingeschreven in de basisregistratie personen;  
+a. hun geslachtsnaam, voornamen, woonplaats en geboortegegevens;  
 
-b. een akte van huwelijkstoestemming, gegeven door hen, wier toestemming tot het huwelijk noodzakelijk is. De akte van huwelijkstoestemming wordt door een ambtenaar van de burgerlijke stand of door een notaris opgemaakt. De toestemming kan ook bij de huwelijksakte worden gegeven. Is de toestemming door de rechter verleend, dan wordt diens beschikking overgelegd;   
+b. indien toestemming tot het aangaan van een huwelijk is vereist, de gegevens van degenen wier toestemming noodzakelijk is, dan wel het bewijs dat deze hun toestemming hebben verleend. De toestemming kan ook ter gelegenheid van de huwelijksvoltrekking worden gegeven. Is de toestemming door de rechter verleend, dan verifieert de ambtenaar het bestaan daarvan bij de betrokken griffie;  
 
-c. een akte van overlijden van allen, wier toestemming voor het huwelijk was vereist, als zij in leven waren geweest;   
+c. de overlijdensgegevens van allen wier toestemming voor het huwelijk was vereist, als zij in leven waren geweest;  
 
-d. ingeval van tweede of verder huwelijk dan wel huwelijk na registratie, bewijsstukken aantonende dat het vorige huwelijk dan wel het eerdere geregistreerd partnerschap geen beletsel voor een nieuw huwelijk oplevert;  
+d. de gegevens inzake ontbinding van eventuele eerdere huwelijken of geregistreerde partnerschappen;  
 
-e. de akte van huwelijksaangifte;   
+e. in geval van stuiting, de gegevens inzake de opheffing daarvan;  
 
-f. indien stuiting heeft plaatsgevonden, het bewijs dat de stuiting is opgeheven;   
+f. de ontheffing of de vergunning van Onze Minister van Justitie, ingeval deze is vereist;  
 
-g. het bewijs van de ontheffing of de vergunning van Onze Minister van Justitie, ingeval deze is vereist;   
+g. een vrijstelling krachtens artikel 62, indien deze is verkregen;  
 
-h. indien een beschikking als bedoeld in afdeling 12 van Titel 4 van dit boek of een vrijstelling krachtens artikel 62 van dit boek is verkregen, ook deze;   
+h. de verklaring, bedoeld in artikel 31, tweede lid, ingeval deze vereist is;  
 
-i. de verklaring, bedoeld in artikel 31, tweede lid, van dit boek, ingeval deze vereist is;   
+i. de namen en adressen van de personen die als getuigen bij de voltrekking van het huwelijk aanwezig zullen zijn;  
 
-j. een schriftelijke opgave van de namen en de adressen van de personen die zijn uitgenodigd om als getuigen bij de voltrekking van het huwelijk aanwezig te zijn;   
+j. ingeval een aanstaande echtgenoot niet de Nederlandse nationaliteit bezit of rechtmatig in Nederland verblijft als bedoeld in artikel 8, onder b, d of e, van de Vreemdelingenwet 2000, een verklaring dat het voornemen om in het huwelijk te treden niet wordt aangegaan met het oogmerk om verblijfsrecht in Nederland te verkrijgen, alsmede een verklaring omtrent het verblijfsrecht van de aanstaande echtgenoot die niet de Nederlandse nationaliteit bezit;  
 
-k. een door de korpschef in de zin van de Vreemdelingenwet 2000 aan de ambtenaar van de burgerlijke stand afgegeven verklaring waaruit blijkt dat de aanstaande echtgenoot die niet de Nederlandse nationaliteit bezit, rechtmatig in Nederland verblijft als bedoeld in artikel 8 van de Vreemdelingenwet 2000, dan wel voornemens is niet in Nederland te verblijven. De verklaring wordt opgesteld op verzoek van de aanstaande echtgenoot op wie zij betrekking heeft. Bij het verzoek wordt een gewaarmerkt afschrift als bedoeld onder a, overgelegd. Heeft deze geen woonplaats in Nederland, dan wordt zij opgesteld op verzoek van de andere aanstaande echtgenoot.      
-2.  De verklaring, bedoeld in het eerste lid, onderdeel k, is niet vereist indien de aanstaande echtgenoten aannemelijk kunnen maken dat zij beiden buiten Nederland woonplaats hebben. De verklaring is evenmin vereist indien de aanstaande echtgenoot die niet de Nederlandse nationaliteit bezit, in Nederland rechtmatig verblijft op grond van artikel 8, onder b, d of e, van de Vreemdelingenwet 2000.   
-3.   Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de inhoud van het in het eerste lid onder *a* bedoelde gewaarmerkt afschrift van gegevens uit de basisregistratie personen, alsmede de in hetzelfde lid onder *k* bedoelde verklaring.   
+k. de naam van de gemeente in Nederland waar het huwelijk zal worden voltrokken.     
+2.  Wanneer de aanstaande echtgenoten, van wie ten minste één de Nederlandse nationaliteit bezit, buiten Nederland hun woonplaats hebben, kunnen zij zich ten behoeve van hun voornemen om in het huwelijk te treden uitsluitend tot de ambtenaar van de burgerlijke stand van de gemeente ’s-Gravenhage wenden.  
 
 ### Artikel  45  
 
-1.  Een aanstaande echtgenoot die in de onmogelijkheid is, zijn door het vorige artikel vereiste geboorteakte te vertonen, kan dit verhelpen door een akte van bekendheid, afgegeven door de kantonrechter van zijn geboorteplaats of woonplaats, op verklaring van vier meerderjarige getuigen.    
-2.   Deze verklaring houdt de vermelding in van de plaats en, zo na mogelijk, van het tijdstip der geboorte, benevens de oorzaken, die beletten een akte daarvan over te leggen.    
-3.   Het ontbreken van een geboorteakte kan ook worden verholpen, hetzij door een dergelijke, maar beëdigde verklaring, afgelegd door de getuigen, die bij de voltrekking van het huwelijk tegenwoordig zijn, of wel door een bij de ambtenaar van de burgerlijke stand afgelegde beëdigde verklaring van de aanstaande echtgenoot, inhoudende dat hij zich geen geboorteakte of akte van bekendheid kan verschaffen. In de huwelijksakte wordt van de afgelegde verklaring melding gemaakt.   
+1.  Indien de geboortegegevens van een aanstaande echtgenoot niet kunnen worden geverifieerd en deze niet in staat is om een geboorteakte over te leggen, kan de betrokkene jegens de ambtenaar van de burgerlijke stand ten overstaan van wie het huwelijk zal worden voltrokken een beëdigde verklaring afleggen inhoudende: het geslacht, de plaats, het land en, zo nauwkeurig mogelijk, de datum van geboorte alsmede de persoonsgegevens van de ouders.   
+2.  In de huwelijksakte wordt van de afgelegde verklaring melding gemaakt.  
 
 ### Artikel  45a  
 
-Indien partijen niet in staat zijn de akten van overlijden, bij artikel 44, eerste lid, onder c van dit boek bedoeld, over te leggen, kan dat gebrek op dezelfde wijze als in het geval van het vorige artikel worden verholpen.  
+Indien de gegevens betreffende overlijden als bedoeld in artikel 44, eerste lid, onder c, niet kunnen worden geverifieerd en de aanstaande echtgenoten niet in staat zijn om de akte of akten van overlijden over te leggen, kunnen zij terzake een beëdigde verklaring afleggen jegens de ambtenaar van de burgerlijke stand ten overstaan van wie het huwelijk zal worden voltrokken. Deze maakt daarvan melding in de huwelijksakte. 
 
 ### Artikel  46  
 
-Wanneer het huwelijk binnen een jaar, te rekenen van de datum van de akte van huwelijksaangifte, niet is voltrokken, mag het niet worden voltrokken dan nadat een nieuwe aangifte is gedaan.  
+Wanneer het huwelijk binnen een jaar, te rekenen vanaf de datum waarop het voornemen daartoe is kenbaar gemaakt, niet is voltrokken, mag het niet worden voltrokken dan nadat het voornemen daartoe opnieuw kenbaar is gemaakt. 
 
 ### Artikel  47  
 
@@ -725,12 +712,12 @@ Wanneer het huwelijk binnen een jaar, te rekenen van de datum van de akte van hu
 
 ### Artikel  48  
 
-Indien hij die wil hertrouwen het gezag heeft over kinderen uit een vorig huwelijk, geeft de ambtenaar van de burgerlijke stand van de gedane aangifte onverwijld kennis aan de rechtbank van de woonplaats van de bedoelde ouder.  
+Indien hij die wil hertrouwen het gezag heeft over kinderen uit een vorig huwelijk, geeft de ambtenaar van de burgerlijke stand van dit voornemen onverwijld kennis aan de rechtbank van de woonplaats van de bedoelde ouder.  
 
 ### Artikel  49  
 
 1.  Trouwbeloften geven geen rechtsvordering tot het aangaan van een huwelijk, noch tot schadevergoeding wegens de niet-vervulling van de beloften; alle afwijkende bedingen zijn nietig.    
-2.   Indien echter een akte van huwelijksaangifte is opgemaakt, kan dit grond opleveren tot een vordering tot vergoeding der werkelijke vermogensverliezen, zonder dat daarbij enige winstderving in aanmerking komt. De vordering vervalt door verloop van achttien maanden, te rekenen van de datum van de akte van huwelijksaangifte.   
+2.  Indien het voornemen tot het aangaan van een huwelijk aan een ambtenaar van de burgerlijke stand kenbaar is gemaakt, kan dit grond opleveren tot een vordering tot vergoeding der werkelijke vermogensverliezen, zonder dat daarbij enige winstderving in aanmerking komt. De vordering vervalt door verloop van achttien maanden, te rekenen vanaf de datum waarop het voornemen kenbaar is gemaakt.  
 
 ### Artikel  49a  
 
@@ -742,7 +729,7 @@ a. aan degene die binnen Nederland woonplaats heeft, door de ambtenaar van de bu
 b. aan degene die binnen Nederland geen woonplaats heeft, maar wel heeft gehad, door de ambtenaar van de burgerlijke stand van de laatste woonplaats aldaar;   
 
 c. aan degene die binnen Nederland geen woonplaats heeft of heeft gehad, door het hoofd van de diplomatieke of consulaire vertegenwoordiging van het Koninkrijk der Nederlanden in het ressort waar het huwelijk wordt voltrokken.      
-3.   De verklaring wordt door de bevoegde autoriteit niet afgegeven alvorens deze, door kennisneming van de bescheiden, vermeld in artikel 44, eerste lid, onder a, b, c, d en g, en zo nodig van die, vermeld in de artikelen 45 en 45a, alsmede in artikel 27b, zich ervan heeft overtuigd dat naar Nederlands recht geen beletselen tegen het huwelijk bestaan.    
+3.   De verklaring wordt door de bevoegde autoriteit niet afgegeven alvorens deze, door verificatie van de gegevens, vermeld in artikel 44, eerste lid, onder a, b, c, d en f, en zo nodig van die, vermeld in de artikelen 45 en 45a, alsmede in artikel 27b, zich ervan heeft overtuigd dat naar Nederlands recht geen beletselen tegen het huwelijk bestaan.    
 4.   De verklaring van huwelijksbevoegdheid is, te rekenen van het tijdstip van afgifte, gedurende zes maanden geldig.   
 
 ### Afdeling  3  
@@ -770,10 +757,9 @@ Hij die met een der partijen door huwelijk verbonden is dan wel met een der part
 
 ### Artikel  54  
 
-1.  De stuiting geschiedt door betekening van een akte aan de ambtenaar van de burgerlijke stand van één der gemeenten waar het huwelijk kan worden voltrokken.    
+1.  De stuiting geschiedt door betekening van een akte aan de ambtenaar van de burgerlijke stand van de gemeente waar het huwelijk zal worden voltrokken.    
 2.   De akte houdt de keus van een woonplaats in die gemeente en de gronden van de stuiting in en vermeldt de hoedanigheid die aan de opposant de bevoegdheid geeft om het huwelijk te stuiten; alles op straffe van nietigheid.    
-3.   De ambtenaar, aan wie de akte is betekend, zal van de gedane stuiting onverwijld kennis geven aan de ambtenaar van de burgerlijke stand der andere gemeenten, waar het huwelijk kan worden voltrokken.    
-4.   De opposant zal afschrift der akte van stuiting onverwijld doen betekenen aan de partij, tegen welke de stuiting is gericht.   
+3.   De opposant zal afschrift der akte van stuiting onverwijld doen betekenen aan de partij, tegen welke de stuiting is gericht.   
 
 ### Artikel  55  
 
@@ -781,7 +767,7 @@ Een stuiting kan worden opgeheven:
 
 a. op dezelfde wijze als waarop zij is geschied;   
 
-b. door een verklaring, in persoon afgelegd ten overstaan van een der ambtenaren van de burgerlijke stand, genoemd in het vorige artikel;   
+b. door een verklaring, in persoon afgelegd ten overstaan van de ambtenaar van de burgerlijke stand, genoemd in het vorige artikel;   
 
 c. door een verklaring, afgelegd ten overstaan van een notaris;   
 
@@ -793,7 +779,7 @@ Het huwelijk mag niet worden voltrokken, voordat de stuiting is opgeheven. Mocht
 
 ### Artikel  57  
 
-Een ambtenaar van de burgerlijke stand aan wie het bestaan van een der in de artikelen 31 tot en met 33, 41 en 42 omschreven huwelijksbeletselen bekend is, mag niet tot een huwelijksaangifte of een huwelijksvoltrekking meewerken, ook al zou geen stuiting hebben plaatsgehad. 
+Een ambtenaar van de burgerlijke stand aan wie het bestaan van een der in de artikelen 31 tot en met 33, 41 en 42 omschreven huwelijksbeletselen bekend is, mag geen medewerking verlenen aan een huwelijksvoltrekking of aan de vervulling van daaraan voorafgaande formaliteiten, ook al zou geen stuiting hebben plaatsgehad. 
 
 ### Afdeling  4  
 
@@ -801,24 +787,18 @@ Een ambtenaar van de burgerlijke stand aan wie het bestaan van een der in de art
 
 ### Artikel  58  
 
-1.  Komt vast te staan dat op het tijdstip waarop de voltrekking van het huwelijk zal plaatsvinden meer dan zes maanden zullen zijn verstreken sinds de afgifte van een verklaring als bedoeld in artikel 44, eerste lid, onder k, dan doet de ambtenaar van de burgerlijke stand zich, alvorens tot de voltrekking van het huwelijk wordt overgegaan, wederom een zodanige verklaring overleggen, tenzij zulks op grond van het derde lid niet vereist is.    
-2.   Indien de overlegging van een verklaring als bedoeld in artikel 44, eerste lid, onder k, op het tijdstip van de aangifte van het huwelijk niet werd vereist, doet de ambtenaar van de burgerlijke stand zich, alvorens tot voltrekking van het huwelijk wordt overgegaan, alsnog een zodanige verklaring overleggen, tenzij zulks op grond van het derde lid niet vereist is.    
-3.  De verklaring wordt opgesteld op verzoek van de aanstaande echtgenoot op wie zij betrekking heeft. Heeft deze geen woonplaats in Nederland, dan wordt zij opgesteld op verzoek van de andere aanstaande echtgenoot. De verklaring is niet vereist indien de aanstaande echtgenoten aannemelijk kunnen maken dat zij beiden buiten Nederland woonplaats hebben. De verklaring is evenmin vereist indien de aanstaande echtgenoot die niet de Nederlandse nationaliteit bezit, in Nederland rechtmatig verblijft op grond van artikel 8, onder b, d of e, van de Vreemdelingenwet 2000.  
+1.  De ambtenaar van de burgerlijke stand verifieert, alvorens tot de voltrekking van het huwelijk over te gaan, opnieuw de rechtmatigheid van het verblijf in Nederland van de aanstaande echtgenoot die niet de Nederlandse nationaliteit bezit.   
+2.  Is de ambtenaar van de burgerlijke stand, in het geval geen rechtmatig verblijf bestaat op grond van artikel 8, onder b, d of e van de Vreemdelingenwet 2000, van oordeel dat het oogmerk van de aanstaande echtgenoten, of één hunner, niet is gericht op de vervulling van de door de wet aan de huwelijkse staat verbonden plichten, maar op het verkrijgen van toelating tot Nederland, dan weigert hij de huwelijksakte op te maken overeenkomstig artikel 18c, tweede lid.  
 
 ### Artikel  62  
 
-1.  Het huwelijk mag niet worden voltrokken vóór de veertiende dag na de datum van de akte van huwelijksaangifte.    
-2.   Het openbaar ministerie bij de rechtbank, binnen wier rechtsgebied de huwelijksaangifte is geschied, is bevoegd uit hoofde van gewichtige redenen vrijstelling te verlenen van de voorgeschreven wachttijd.   
+1.  Het huwelijk mag niet worden voltrokken vóór de veertiende dag na de datum waarop het voornemen om in het huwelijk te treden aan de ambtenaar van de burgerlijke stand kenbaar is gemaakt.    
+2.   Het openbaar ministerie bij de rechtbank, binnen wier rechtsgebied de het voornemen om in het huwelijk te treden kenbaar is gemaakt, is bevoegd uit hoofde van gewichtige redenen vrijstelling te verlenen van de voorgeschreven wachttijd.   
 
 ### Artikel  63  
 
-Een huwelijk wordt in tegenwoordigheid van ten minste twee en ten hoogste vier meerderjarige getuigen in het openbaar in het gemeentehuis voltrokken ten overstaan van de ambtenaar van de burgerlijke stand van:  
-
-a. de woonplaats van één der partijen ten tijde van de datum van de akte van huwelijksaangifte, of   
-
-b. 's-Gravenhage, in het geval bedoeld in artikel 43, eerste lid, tweede zin, van dit boek, of   
-
-c. de bij de huwelijksaangifte aangewezen gemeente.    
+1.  Een huwelijk wordt in het openbaar in het gemeentehuis voltrokken ten overstaan van de ambtenaar van de burgerlijke stand van de door de aanstaande echtgenoten aangewezen gemeente in tegenwoordigheid van ten minste twee en ten hoogste vier meerderjarige getuigen.   
+2.  Dit lid is nog niet in werking getreden. 
 
 ### Artikel  64  
 
@@ -936,11 +916,10 @@ Wordt in een geding betwist dat een kind, dat uiterlijk bezit van staat heeft, u
 1.  Een persoon kan tegelijkertijd slechts met één andere persoon van hetzelfde of andere geslacht een geregistreerd partnerschap aangaan.   
 2.  Zij die een geregistreerd partnerschap aangaan, mogen niet tegelijkertijd gehuwd zijn.   
 3.  Registratie van partnerschap geschiedt bij een akte van registratie van partnerschap opgemaakt door een ambtenaar van de burgerlijke stand.   
-4.  Zij die een geregistreerd partnerschap willen aangaan, moeten daarvan onder overlegging van gegevens omtrent hun burgerlijke staat, en indien zij eerder een partnerschap hadden laten registreren of gehuwd zijn geweest, met vermelding van de namen van de vroegere partner dan wel van de namen van de vroegere echtgenoot, aangifte doen bij de ambtenaar van de burgerlijke stand van de woonplaats van één der partijen. Wanneer de aanstaande geregistreerde partners, van wie ten minste één de Nederlandse nationaliteit bezit, buiten Nederland woonplaats hebben en in een Nederlandse gemeente een geregistreerd partnerschap met elkaar willen aangaan, geschiedt de aangifte bij de ambtenaar van de burgerlijke stand te 's-Gravenhage. De artikelen 43, tweede tot en met vierde lid, en 46 zijn van overeenkomstige toepassing.   
-5.  Een partnerschapsregistratie kan worden gestuit, indien partijen niet de vereisten in zich verenigen om de registratie aan te gaan, dan wel wanneer het oogmerk van de aanstaande geregistreerde partners, of één hunner, niet is gericht op de vervulling van de door de wet aan de partnerschapsregistratie verbonden plichten, doch op het verkrijgen van toelating tot Nederland. Op een stuiting zijn de artikelen 51, 52, 53, tweede en derde lid, en 54 tot en met 56 van overeenkomstige toepassing. Het openbaar ministerie is verplicht een partnerschapsregistratie te stuiten, indien het met een van de in de artikelen 31, 32, 41 en in het eerste en tweede lid van dit artikel omschreven beletselen bekend is. Indien aan de ambtenaar van de burgerlijke stand een van de in de vorige zin genoemde beletselen bekend is, mag hij niet tot een aangifte of registratie meewerken, ook al zou geen stuiting hebben plaatsgehad.   
-6.  Ter zake van de partnerschapsregistratie zijn de artikelen 31, 32, 35 tot en met 39, 41, 44 tot en met 49, 58, en 62 tot en met 66 van overeenkomstige toepassing.   
-7.  Op de nietigverklaring van een partnerschapsregistratie zijn van overeenkomstige toepassing de artikelen 69 tot en met 73, 74, 75 tot en met 77, eerste lid en tweede lid.   
-8.  Op het bewijs van het bestaan van de partnerschapsregistratie zijn de artikelen 78, 79 en 80 van overeenkomstige toepassing.  
+4.  Een partnerschapsregistratie kan worden gestuit, indien partijen niet de vereisten in zich verenigen om de registratie aan te gaan, dan wel wanneer het oogmerk van de aanstaande geregistreerde partners, of één hunner, niet is gericht op de vervulling van de door de wet aan de partnerschapsregistratie verbonden plichten, doch op het verkrijgen van toelating tot Nederland. Op een stuiting zijn de artikelen 51, 52, 53, tweede en derde lid, en 54 tot en met 56 van overeenkomstige toepassing. Het openbaar ministerie is verplicht een partnerschapsregistratie te stuiten, indien het met een van de in de artikelen 31, 32, 41 en in het eerste en tweede lid van dit artikel omschreven beletselen bekend is. Indien aan de ambtenaar van de burgerlijke stand een van de in de vorige zin genoemde beletselen bekend is, mag hij niet meewerken aan een registratie of daaraan voorafgaande formaliteiten verrichten, ook al zou geen stuiting hebben plaatsgehad.   
+5.  Ter zake van de partnerschapsregistratie zijn de artikelen 31, 32, 35 tot en met 39, 41, 44 tot en met 49, 58, en 62 tot en met 66 van overeenkomstige toepassing.   
+6.  Op de nietigverklaring van een partnerschapsregistratie zijn van overeenkomstige toepassing de artikelen 69 tot en met 73, 74, 75 tot en met 77, eerste lid en tweede lid.   
+7.  Op het bewijs van het bestaan van de partnerschapsregistratie zijn de artikelen 78, 79 en 80 van overeenkomstige toepassing.  
 
 ### Artikel  80b  
 
@@ -991,7 +970,7 @@ Indien de partijen wier geregistreerd partnerschap is beëindigd, opnieuw een ge
 
 ### Artikel  80g  
 
-1.  Indien twee personen aan de ambtenaar van de burgerlijke stand kenbaar maken dat zij het geregistreerd partnerschap dat zij zijn aangegaan, omgezet wensen te zien in een huwelijk, kan de ambtenaar van de burgerlijke stand van de woonplaats van één der partijen ter zake een akte van omzetting opmaken. Indien de geregistreerde partners van wie ten minste één de Nederlandse nationaliteit bezit, buiten Nederland woonplaats hebben en in Nederland hun geregistreerd partnerschap in een huwelijk willen omzetten, geschiedt de omzetting bij de ambtenaar van de burgerlijke stand te 's-Gravenhage.   
+1.  Indien twee personen aan de ambtenaar van de burgerlijke stand kenbaar maken dat zij het geregistreerd partnerschap dat zij zijn aangegaan, omgezet wensen te zien in een huwelijk, kan de ambtenaar van de burgerlijke stand ter zake een akte van omzetting opmaken. Indien de geregistreerde partners van wie ten minste één de Nederlandse nationaliteit bezit, buiten Nederland woonplaats hebben en in Nederland hun geregistreerd partnerschap in een huwelijk willen omzetten, geschiedt de omzetting bij de ambtenaar van de burgerlijke stand te 's-Gravenhage.   
 2.  De artikelen 65 en 66 zijn van overeenkomstige toepassing.   
 3.  Een omzetting doet het geregistreerd partnerschap eindigen en het huwelijk aanvangen op het tijdstip dat de akte van omzetting in het register van huwelijken is opgemaakt. De omzetting brengt geen wijziging in de al dan niet bestaande familierechtelijke betrekkingen met kinderen die voor de omzetting zijn geboren.  
 

@@ -131,8 +131,9 @@ De studerende die beschikking heeft over een reisproduct heeft uitsluitend voor 
 a. het onderdeel dat buiten Nederland wordt gevolgd, meetelt voor het Nederlandse diploma, en  
 
 b. de studerende ingeschreven blijft aan de Nederlandse onderwijsinstelling.     
-3.  De voorziening in geld, bedoeld in het eerste lid, is gelijk aan het bedrag, bedoeld in artikel 5.3, tweede lid, van de wet.   
+3.  De voorziening in geld, bedoeld in het eerste lid, is gelijk aan het bedrag, bedoeld in artikel 5.3, eerste lid, van de wet.   
 4.  Toekenning van de reisvoorziening in geld vindt plaats per kalendermaand voor de periode waarin de studerende voor de betreffende opleiding in het buitenland studeert. Na deze periode wordt dezelfde soort reisrecht toegekend zonder dat dat opnieuw behoeft te worden aangevraagd. Indien de studerende eerder dan aangegeven terugkeert in Nederland, kan opnieuw een reisrecht worden aangevraagd met inachtneming van de aanvraagtermijn in artikel 2.4. 
+5. Dit artikel berust op artikel 3.7, vierde lid, van de wet.
 
 ### Hoofdstuk 5  
 
@@ -186,20 +187,16 @@ Aanpassing van het bedrag genoemd in artikel 6.1, derde lid, geschiedt met de pr
 
 ####Bacheloropleidingen en verwante kopopleidingen
 
-1.  De bacheloropleidingen, bedoeld in artikel 5.6, vijfde lid, onderdeel a, van de wet zijn de opleidingen in de kolommen ‘HBO-bachelor’ en ‘WO-bachelor’ van de bijlage bij deze regeling.   
-2.  De hbo-lerarenopleidingen, bedoeld in artikel 5.6, vijfde lid, onderdeel b, van de wet zijn opleidingen tot leraar genoemd in de kolom ‘Bevoegdheid’ van de bijlage bij deze regeling. Een hbo-lerarenopleiding is verwant met een opleiding als bedoeld in het eerste lid van dit artikel als deze twee opleidingen in dezelfde rij van de bijlage zijn opgenomen.  
+1.  De bacheloropleidingen, bedoeld in artikel 5.2a, onderdeel a, van de wet zijn de opleidingen in de kolommen ‘HBO-bachelor’ en ‘WO-bachelor’ van de bijlage bij deze regeling.   
+2.  De hbo-lerarenopleidingen, bedoeld in artikel 5.2a, onderdeel b, van de wet zijn opleidingen tot leraar genoemd in de kolom ‘Bevoegdheid’ van de bijlage bij deze regeling. Een hbo-lerarenopleiding is verwant met een opleiding als bedoeld in het eerste lid van dit artikel als deze twee opleidingen in dezelfde rij van de bijlage zijn opgenomen.  
 
 ### Hoofdstuk  6b  
 
 ####Cohortgarantie studievoorschot hoger onderwijs
 
-Treedt in werking per 01-09-2015 
-
 ### Artikel  6b.1  
 
 ####Aanspraken op grond van voormalig artikel 5.6 WSF 2000
-
-Treedt in werking per 01-09-2015 
 
 Voor de toepassing van artikel 12.14, eerste lid, van de wet wordt ten aanzien van de student, bedoeld in artikel 5.6, vijfde tot en met achtste en tiende lid, van de wet, zoals dat luidde op 31 augustus 2015, onder ‘nominale duur van die opleiding’ verstaan de nominale duur die voor de betreffende student van toepassing is, inclusief de verlenging met een jaar op grond van artikel 5.6 van de wet, zoals dat luidde op 31 augustus 2015. 
 
@@ -207,15 +204,11 @@ Voor de toepassing van artikel 12.14, eerste lid, van de wet wordt ten aanzien v
 
 ####Omzettingsmoment studieschuld van lening beroepsonderwijs naar lening hoger onderwijs
 
-Treedt in werking per 01-09-2015 
-
 De lening van een debiteur die op grond van artikel 10a.2, eerste lid, onderdeel b, of artikel 12.14, vijfde lid, van de wet een aanvraag heeft gedaan om die lening aan te merken als een lening hoger onderwijs, wordt met ingang van de datum waarop de aflosfase begint aangemerkt als een lening hoger onderwijs. 
 
 ### Artikel  6b.3  
 
 ####Toepassing nieuwe terugbetalingsregels op studieschuld waarop reeds is afgelost
-
-Treedt in werking per 01-09-2015 
 
 Voor de debiteur, bedoeld in artikel 10a.2, eerste lid, onderdeel b, of 12.14, vierde lid, van de wet, voor wie reeds een aflosfase is aangevangen voordat artikel 12.14, vijfde lid, van de wet op hem van toepassing wordt, geldt het verzoek om de lening aan te merken als een lening hoger onderwijs voor beide leningen, met dien verstande dat: 
 
@@ -294,13 +287,14 @@ L.M.L.H.A. Hermans
 
 | HBO-bachelor  | Croho-nummer  | WO-bachelor  | Croho-nummer  | Bevoegdheid (leraar vo 2<sup>e</sup> graads)  | Isatcode  |
 |:---|:---|:---|:---|:---|:---|
-| Bedrijfseconomie  | 34401  | Bedrijfseconomie  | 50750  | Leraar bedrijfseconomie<sup>2</sup>   Leraar economie<sup>2</sup>   Leraar algemene economie<sup>2</sup>    <sup>2</sup> Afhankelijk van vakkenpakket  | 35203  |
+| Bedrijfseconomie  | 34401  | Bedrijfseconomie  | 50750  | Leraar bedrijfseconomie<sup>2</sup>   Leraar economie<sup>2</sup>   Leraar algemene economie<sup>2</sup>   | 35203  |
 | Accountancy  | 34406  | Algemene economie  | 50644  | 35207  |
 | Fiscale economie  | 34409  | Economie  | 56401  | 35202  |
 | Fiscaal Recht en Economie  | 34140  | Bedrijfskunde  | 50645  | --- |
-| Commerciële economie  | 34402  | Economie en bedrijfskunde  | 50950  | --- |
-| Commercieel management<sup>1</sup>    <sup>1</sup> Alleen met uitstroomprofiel Commerciële Economie  | 34126  | --- | --- | --- |
+| Commerciële economie  | 34402  | Economie en Bedrijfseconomie  | 50950  | --- |
+| Commercieel management<sup>1</sup>   | 34126  | --- | --- | --- |
 | Management, economie, recht  | 34435  | --- | --- | --- |
+| Bedrijfskunde MER  | 34139  | --- | --- | --- |
 | --- | --- | Nederlandse taal en cultuur  | 56804/  06804  | Leraar Nederlands  | 35198  |
 | --- | --- | Engelse taal en cultuur  | 56806/  06806  | Leraar Engels  | 35195  |
 | --- | --- | Duitse taal en cultuur  | 56805/  06805  | Leraar Duits  | 35193  |
@@ -329,8 +323,9 @@ L.M.L.H.A. Hermans
 | Chemische technologie  | 34275  | Scheikundige technologie  | 56960  | --- |
 | --- | --- | Molecular science technology  | 59308  | --- |
 | --- | --- | Biomedische technologie  | 56226  | --- |
-| --- | --- | Farmaceutische wetenschappen  | 59989  | --- |
+| --- | --- | Farmaceutische wetenschappen  | 56989  | --- |
 | --- | --- | Moleculaire levenswetenschappen  | 59304  | --- |
+| --- | --- | Biomedische wetenschappen  (alleen met uitstroomprofiel Moleculaire levenswetenschappen)  | 56990  | --- |
 | --- | --- | Biologie  | 56860  | Leraar biologie  | 35301  |
 | Werktuigbouwkunde  | 34280  | Werktuigbouwkunde  | 56966/  06966  | Leraar werktuigbouw I en II  | 35387  |
 | Werktuigbouwkunde  | 34280  | Werktuigbouwkunde  | 56966/  06966  | Leraar Technisch Beroepsonderwijs  | 35210  |
@@ -343,7 +338,7 @@ L.M.L.H.A. Hermans
 | Automotive  | 30018  | --- | --- | Leraar motorvoertuigentechniek I en II  | 35386  |
 | Autotechniek  | 34262  | --- | --- | --- |
 | Bouwkunde  | 34263  | Bouwkunde  | 56951  | Leraar bouwkunde I en II  | 35382  |
-| Bouwkunde  | 34263  | --- | --- | Leraar Mens en technologie<sup>3</sup>    <sup>3</sup>alleen voor het uitstroomprofiel bouwkunde  | --- |
+| Bouwkunde  | 34263  | --- | --- | Leraar Mens en technologie<sup>3</sup>   | 35208  |
 | Technische informatica  | 34475  | --- | --- | Leraar ICT/leraar informatica  | 39116  |
 | Hbo ICT  | 30020  | --- | --- | --- |
 | Theologie of Godsdienst Pastoraal werk (GPW)  | 35146  | Theologie  | 56109  | Leraar godsdienst/levensbeschouwing  | 35441  |
@@ -354,7 +349,8 @@ L.M.L.H.A. Hermans
 | --- | --- | Wereldgodsdiensten  | 50202  | --- |
 | --- | --- | Religie en levensbeschouwing  | 56114  | --- |
 | --- | --- | Religiestudies  | 50902  | --- |
-| --- | --- | Islamitische theologie  | 56120  | --- |
+| --- | --- | Islamstudies  | 56120  | --- |
+| --- | --- | Godsdienstwetenschap  | 66104  | --- | --- |
 | --- | --- | Politicologie  | 56606  | Leraar maatschappijleer  | 35411  |
 | --- | --- | Sociologie  | 56601  | --- |
 | --- | --- | Algemene sociale wetenschappen  | 56631  | --- |
@@ -362,22 +358,22 @@ L.M.L.H.A. Hermans
 | Pedagogiek  | 35158  | Pedagogische wetenschappen  | 56607  | Leraar pedagogiek  | 35204  |
 | Sociaal pedagogische hulpverlening  | 34617  | --- | --- | --- |
 | Sociaal pedagogische hulpverlening  | 34617  | Pedagogische wetenschappen  | 56607  | Leraar omgangskunde  | 35421  |
+| Social Work  | 34116  | --- | --- | --- | --- |
 | Maatschappelijk werk en dienstverlening  | 34616  | Psychologie  | 56604  | --- | --- |
 | Cultureel maatschappelijke vorming  | 34610  | --- | --- | --- |
 | Creatieve therapie  | 34644  | --- | --- | --- |
 | Pedagogiek  | 35158  | --- | --- | --- |
 | Toegepaste psychologie  | 34507/  81006  | --- | --- | --- |
-| Personeel en arbeid  | 34609  | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- |
-| Hbo-bachelor (alleen van het Hoger Agrarische Onderwijs)  | --- | Wo-bachelor (alleen van de Wageningen Universiteit)  | --- | --- | --- |
+| Human Resource Management  | 34609  | --- | --- | --- |
+|  *Hbo-bachelor (alleen van het Hoger Agrarische Onderwijs)*   | --- |  *Wo-bachelor (alleen van de Wageningen Universiteit)*   | --- | --- | --- |
 | Plattelandsvernieuwing  | 34859  | Dierwetenschappen  | 56849  | Leraar educatie en kennismanagement voor de groene sector  | 34899  |
 | Tuinbouw en akkerbouw  | 34868  | Levensmiddelentechnologie  | 56973  | --- |
 | Dier- en veehouderij  | 34869  | Voeding en gezondheid  | 56868  | --- |
 | Diermanagement  | 34333  | Landschapsarchitectuur en ruimtelijke planning  | 56848  | --- |
 | Voedingsmiddelentechnologie  | 34856  | Bos- en natuurbeheer  | 56219  | --- |
 | Fooddesign en innovatie  | 34122  | Agrotechnologie  | 56831  | --- |
-| Tuin- en landschapsinrichting  | 34220  | Milieukunde  | 56283  | --- |
-| Tropische landbouw  | 34203  | Plantenwetenschappen  | 56835  | --- |
+| Tuin- en landschapsinrichting  | 34220  | Milieuwetenschappen  | 56283  | --- |
+| International Development Management  | 34203  | Plantenwetenschappen  | 56835  | --- |
 | Bedrijfskunde en agribusiness  | 34866  | Plant/Biotechnologie  | 56841  | --- |
 | Bos- en natuurbeheer  | 34221  | Biotechnologie  | 56841  | --- |
 | Milieukunde  | 34284  | Biologie  | 56860  | --- |
@@ -385,7 +381,8 @@ L.M.L.H.A. Hermans
 | Land- en Watermanagement  | 34226  | --- | --- | --- |
 | Kust- en Zeemanagement  | 39204  | --- | --- | --- |
 | Toegepaste Biologie  | 30009  | --- | --- | --- |
-| Food Commerce & Technology  | 30022  | --- | --- | --- |
-| Greenport Business and Retail  | 30024  | --- | --- | --- |
-| Landscape and Environment Management  | 30028  | --- | --- | --- |
+| Food Commerce & Technology  | 30022  | --- | --- | --- | --- |
+| Greenport Business and Retail  | 30024  | --- | --- | --- | --- |
+| Landscape and Environment Management  | 30028  | --- | --- | --- | --- |
 
+*1) Alleen met uitstroomprofiel Commerciële Economie*   *2) Afhankelijk van vakkenpakket*   *3) Alleen voor het uitstroomprofiel bouwkunde*  

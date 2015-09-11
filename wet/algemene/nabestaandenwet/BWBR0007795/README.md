@@ -58,7 +58,7 @@ p.  pensioengerechtigde leeftijd: de pensioengerechtigde leeftijd, bedoeld in ar
 
 a. bruto-minimumloon: het in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag bedoelde bedrag;   
 
-b. netto-minimumloon: het bruto-minimumloon, na aftrek van premies volksverzekeringen en loonbelasting. De loonbelasting en premie voor de volksverzekeringen, bedoeld in artikel 1 van de Wet financiering sociale verzekeringen, worden berekend voor een werknemer die de pensioengerechtigde leeftijd nog niet heeft bereikt, rekening houdend met uitsluitend 186,25% van de algemene heffingskorting, bedoeld in artikel 22 van de Wet op de loonbelasting 1964, over het bruto-minimumloon;  
+b. netto-minimumloon: het bruto-minimumloon, na aftrek van premies volksverzekeringen en loonbelasting. De loonbelasting en premie voor de volksverzekeringen, bedoeld in artikel 1 van de Wet financiering sociale verzekeringen, worden berekend voor een werknemer die de pensioengerechtigde leeftijd nog niet heeft bereikt, rekening houdend met uitsluitend 185% van de algemene heffingskorting, bedoeld in artikel 22 van de Wet op de loonbelasting 1964, over het bruto-minimumloon;  
 
 c. bruto-minimumvakantiebijslag: het bedrag waarop degene die aanspraak heeft op het bruto-minimumloon ingevolge artikel 15 van de Wet minimumloon en minimumvakantiebijslag aanspraak heeft;   
 
@@ -245,7 +245,19 @@ c. de nabestaande de pensioengerechtigde leeftijd bereikt.
 1.  De bruto-nabestaandenuitkering wordt op een zodanig bedrag vastgesteld, dat nadat de over dat bedrag in te houden loonbelasting en premie voor de volksverzekeringen voor een persoon die de pensioengerechtigde leeftijd nog niet heeft bereikt, rekening houdend met uitsluitend de algemene heffingskorting, bedoeld in artikel 22 van de Wet op de loonbelasting 1964, is afgetrokken, de netto-nabestaandenuitkering gelijk is aan 70% van het netto-minimumloon.  
 2.  In afwijking van het eerste lid wordt de bruto-nabestaandenuitkering van de nabestaande, zolang hij een gezamenlijke huishouding ten behoeve van de verzorging van een hulpbehoevende voert, op een zodanig bedrag vastgesteld, dat nadat de over dat bedrag in te houden loonbelasting en premie voor de volksverzekeringen voor een persoon die de pensioengerechtigde leeftijd nog niet heeft bereikt, rekening houdend met uitsluitend de algemene heffingskorting, bedoeld in artikel 22 van de Wet op de loonbelasting 1964, is afgetrokken, de netto-nabestaandenuitkering gelijk is aan 50% van het netto-minimumloon.   
 3.  De bruto-nabestaandenuitkering bedraagt voor een nabestaande die woont buiten Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland, een bij ministeriële regeling vastgesteld percentage van het op grond van het eerste of tweede lid vastgestelde bedrag. Het percentage wordt zo bepaald dat het een weergave is van de verhouding tussen het kostenniveau van het land waar de nabestaande woonachtig is en dat van Nederland. Het percentage bedraagt maximaal 100.  
-4.   De bruto-nabestaandenuitkering van de nabestaande bedoeld in artikel 4 is niet hoger dan de door de overleden verzekerde aan de nabestaande verschuldigde uitkering tot levensonderhoud van de nabestaande.   
+4.   De bruto-nabestaandenuitkering van de nabestaande bedoeld in artikel 4 is niet hoger dan de door de overleden verzekerde aan de nabestaande verschuldigde uitkering tot levensonderhoud van de nabestaande.    
+5.  In afwijking van het eerste lid wordt de bruto-nabestaandenuitkering van de nabestaande die met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft, op een zodanig bedrag vastgesteld, dat nadat de over dat bedrag in te houden loonbelasting en premie voor de volksverzekeringen voor een persoon die de pensioengerechtigde leeftijd nog niet heeft bereikt, rekening houdend met uitsluitend de algemene heffingskorting, bedoeld in artikel 22 van de Wet op de loonbelasting 1964, is afgetrokken, de netto-nabestaandenuitkering gelijk is aan 50% van het netto-minimumloon.   
+6.  Het vijfde lid is niet van toepassing op nabestaanden die de leeftijd van 21 jaar nog niet hebben bereikt.  
+7.  Tot de personen, bedoeld in het vijfde lid, worden niet gerekend: 
+
+a. de persoon die de leeftijd van 21 jaar nog niet heeft bereikt,  
+
+b. de persoon, niet zijnde een bloed- of aanverwant in de eerste of tweede graad van de nabestaande, die op basis van een schriftelijke overeenkomst met de nabestaande, waarbij een commerciële prijs is overeengekomen, als verhuurder, huurder, onderverhuurder, onderhuurder, kostgever of kostganger in dezelfde woning als de nabestaande zijn hoofdverblijf heeft,  
+
+c. de persoon die op basis van een schriftelijke overeenkomst met een derde, waarbij een commerciële prijs is overeengekomen, als huurder, onderhuurder of kostganger in dezelfde woning als de nabestaande zijn hoofdverblijf heeft, mits hij de overeenkomst heeft met dezelfde persoon als met wie de nabestaande een schriftelijke overeenkomst heeft, waarbij een commerciële prijs is overeengekomen, als huurder, onderhuurder of kostganger, en  
+
+d. de persoon die onderwijs volgt waarvoor hij op enig moment tijdens dat onderwijs in aanmerking kan komen voor studiefinanciering op grond van de Wet studiefinanciering 2000, de persoon die onderwijs volgt waarvoor hij in aanmerking kan komen voor een tegemoetkoming op grond van hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten, en de persoon die een beroepsopleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen a tot en met e, van de Wet educatie en beroepsonderwijs in de beroepsbegeleidende leerweg volgt.     
+8.  Op verzoek van de Sociale verzekeringsbank legt de nabestaande de schriftelijke overeenkomst, bedoeld in het zevende lid, onderdeel b of onderdeel c, over en toont hij de betaling van de commerciële prijs aan door het overleggen van de bewijzen van betaling.  
 
 ### Artikel  18  
 
@@ -388,7 +400,7 @@ Recht op vakantie-uitkering over een maand heeft degene die over die maand recht
 
 ### Artikel  32  
 
-1.  Indien de nabestaandenuitkering met toepassing van artikel 17, tweede, derde of vierde lid, 18 of 67 wordt verminderd dan wel anderszins op een lager bedrag wordt vastgesteld dan het bedrag, bedoeld in artikel 17, eerste lid, wordt op de vakantie-uitkering een evenredige vermindering toegepast dan wel de vakantie-uitkering evenredig verlaagd.   
+1.  Indien de nabestaandenuitkering met toepassing van artikel 17, tweede, derde, vierde of vijfde lid, 18, 67 of 70, eerste lid, wordt verminderd dan wel anderszins op een lager bedrag wordt vastgesteld dan het bedrag, bedoeld in artikel 17, eerste lid, wordt op de vakantie-uitkering een evenredige vermindering toegepast dan wel de vakantie-uitkering evenredig verlaagd.   
 2.   Bij ministeriële regeling kunnen nadere regels worden gesteld voor de berekening van de vakantie-uitkering van degene, wiens uitkering met toepassing van artikel 20 is verminderd en die naast de uitkering ingevolge de wetgeving van een andere mogendheid geen recht heeft op een vakantie-uitkering ingevolge die wetgeving.    
 3.  Indien de wezenuitkering met toepassing van artikel 29, derde lid, op een lager bedrag wordt vastgesteld dan het bedrag, bedoeld in artikel 29, eerste en tweede lid, wordt de vakantie-uitkering evenredig verlaagd. 
 
@@ -493,7 +505,8 @@ c. indien het niet of niet behoorlijk nakomen van een verplichting op grond van 
 
 ### Artikel  35  
 
-De nabestaande, het ouderloos kind en zijn wettelijke vertegenwoordiger alsmede de instelling aan welke ingevolge artikel 49 of 57 de uitkering wordt uitbetaald, zijn verplicht aan de Sociale verzekeringsbank op haar verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen, waarvan hun redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op uitkering, de hoogte van de uitkering, het geldend maken van het recht op uitkering of op het bedrag van de uitkering, dat wordt uitbetaald. De verplichting geldt niet indien die feiten en omstandigheden door de Sociale verzekeringsbank kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kunnen worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling wordt bepaald voor welke gegevens de tweede zin van toepassing is.  
+1. De nabestaande, het ouderloos kind en zijn wettelijke vertegenwoordiger alsmede de instelling aan welke ingevolge artikel 49 of 57 de uitkering wordt uitbetaald, zijn verplicht aan de Sociale verzekeringsbank op haar verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen, waarvan hun redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op uitkering, de hoogte van de uitkering, het geldend maken van het recht op uitkering of op het bedrag van de uitkering, dat wordt uitbetaald. De verplichting geldt niet indien die feiten en omstandigheden door de Sociale verzekeringsbank kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kunnen worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling wordt bepaald voor welke gegevens de tweede zin van toepassing is.   
+2.  Op verzoek van de Sociale verzekeringsbank legt de meerderjarige persoon die in dezelfde woning als de nabestaande zijn hoofdverblijf heeft, als bedoeld in artikel 17, vijfde lid, desgevraagd alle gegevens en inlichtingen over die voor de beoordeling van de aanspraak op uitkering van belang kunnen zijn. 
 
 ### Artikel  35a  
 
@@ -894,6 +907,19 @@ b)op 19 december 2005 dit recht op nabestaandenuitkering dan wel wezenuitkering
 
 1.  Hoofdstuk 3, afdeling I, paragraaf 9, is niet van toepassing op de persoon op wie die paragraaf als gevolg van de opzegging van een verdrag, beëindiging van de voorlopige toepassing van een verdrag dan wel de beëindiging van een daarmee gelijk te stellen situatie van toepassing zou worden, zolang deze persoon blijft wonen in hetzelfde land als het land waar hij op de dag voor buitenwerkingtreding als gevolg van die opzegging respectievelijk op de dag voor de beëindiging woonde en blijft voldoen aan de overige voorwaarden voor het recht op nabestaandenuitkering dan wel wezenuitkering.   
 2.  Onze Minister deelt mede ten aanzien van welk land, met inbegrip van de dag waarop, een verdrag als bedoeld in het eerste lid buitenwerking is getreden dan wel de voorlopige toepassing van een verdrag of een daarmee gelijk te stellen situatie als bedoeld in het eerste lid is beëindigd.  
+
+### Artikel  70  
+
+1.  In afwijking van artikel 17, vijfde lid, wordt de bruto-nabestaandenuitkering op een zodanig bedrag vastgesteld, dat nadat de over dat bedrag in te houden loonbelasting en premie voor de volksverzekeringen voor een persoon die de pensioengerechtigde leeftijd nog niet heeft bereikt, rekening houdend met uitsluitend de algemene heffingskorting, bedoeld in artikel 22 van de Wet op de loonbelasting 1964, is afgetrokken, de netto-nabestaandenuitkering gelijk is aan: 
+
+a. van 1 juli 2015 tot en met 31 december 2015 68%;  
+
+b. in 2016 65%;  
+
+c. in 2017 60%;  
+
+d. in 2018 55%;   van het netto-minimumloon per maand.   
+2.  Dit artikel vervalt met ingang van 1 januari 2019.  
 
 ### Artikel  71  
 

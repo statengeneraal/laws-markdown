@@ -500,7 +500,7 @@ De commissie van toezicht brengt elk jaar aan Onze Minister en aan het bestuur v
 
 ### Artikel  38  
 
-1.  De notaris is verplicht de voor hem verleden akten in zijn protocol op te nemen.   
+1.  De notaris is verplicht de voor hem verleden akten in zijn protocol op te nemen. Deze verplichting geldt ook voor door hem afgegeven Europese erfrechtverklaringen als bedoeld in artikel 188a van Boek 4 van het Burgerlijk Wetboek.   
 2.  Van deze verplichting is uitgezonderd de akte van volmachtverlening waarin uitdrukkelijk is vermeld dat zij aan de volmachtgever zal worden uitgegeven. In dat geval neemt de notaris een afschrift van de akte in zijn protocol op.   
 3.  In een akte van volmacht waarin uitdrukkelijk is vermeld dat zij aan de volmachtgever zal worden uitgegeven mogen de persoonlijke gegevens van de gevolmachtigde oningevuld worden gelaten. Hiervoor mogen niet meer dan vier regels worden opengelaten.   
 4.  De notaris is verplicht binnen een maand na afloop van het kalenderjaar aan het bestuur van de KNB opgave te doen van het aantal in dat jaar gepasseerde akten. 
@@ -547,12 +547,14 @@ b. zij moet zoveel mogelijk ononderbroken doorlopen;
 c. ruimten die zijn opengebleven en onbeschreven vakken moeten vóór de ondertekening voor beschrijving onbruikbaar worden gemaakt;  
 
 d. getallen ter bepaling van het aantal of de grootte van zaken, alsmede tijdsaanduidingen moeten in schrijfletters worden uitgedrukt; zij kunnen tevens in cijfers worden herhaald of voorafgesteld.     
-2.  De inhoud van de akte wordt duurzaam op deugdelijk materiaal gesteld. Bij verordening kunnen regels worden gesteld omtrent dit materiaal en omtrent de wijze waarop de tekst van de akte daarop wordt gesteld, onverminderd het te dien aanzien op grond van artikel 21, eerste lid, van de Archiefwet 1995 bepaalde.  
+2.  De inhoud van de akte wordt duurzaam op deugdelijk materiaal gesteld. Bij verordening kunnen regels worden gesteld omtrent dit materiaal en omtrent de wijze waarop de tekst van de akte daarop wordt gesteld, onverminderd het te dien aanzien op grond van artikel 21, eerste lid, van de Archiefwet 1995 bepaalde.   
+3.  Het voorgaande lid is van overeenkomstige toepassing op de Europese erfrechtverklaring bedoeld in artikel 188a van Boek 4 van het Burgerlijk Wetboek. 
 
 ### Artikel  42  
 
 1.  De akte wordt verleden in de Nederlandse taal. Indien partijen zulks verlangen, wordt de akte verleden in een vreemde of de Friese taal, mits de notaris die taal voldoende verstaat, tenzij de wet anders bepaalt. Indien een verschijnende partij de taal van de akte niet voldoende verstaat, verschijnt mede een tolk, die zo mogelijk ook beëdigd vertaler is, die de zakelijke inhoud van de akte vertaalt. De akte wordt dan mede door hem ondertekend. Van zijn bijstand wordt in het slot van de akte melding gemaakt.   
-2.  De akte kan in meer dan één taal worden verleden. In dat geval wordt de tekst in de ene taal gevolgd door de tekst in een andere taal. Deze bepaling is ook van toepassing indien de akte wordt verleden in de Nederlandse en de Friese taal, of de Friese taal één van de talen is waarin de akte is verleden.  
+2.  De akte kan in meer dan één taal worden verleden. In dat geval wordt de tekst in de ene taal gevolgd door de tekst in een andere taal. Deze bepaling is ook van toepassing indien de akte wordt verleden in de Nederlandse en de Friese taal, of de Friese taal één van de talen is waarin de akte is verleden.   
+3.  De voorgaande leden zijn van overeenkomstige toepassing op de afgifte van een Europese erfrechtverklaring als bedoeld in artikel 188a van Boek 4 van het Burgerlijk Wetboek. 
 
 ### Artikel  43  
 
@@ -629,7 +631,6 @@ De erflater kan bij uiterste wilsbeschikking bepalen dat de in artikel 49, eerst
 2.   Artikel 49a is van overeenkomstige toepassing.  
 
 ### Artikel  49c  
-Treedt in werking per 17-08-2015 
 
 1.  De notaris geeft desverlangd van de tot zijn protocol behorende Europese erfrechtverklaringen, bedoeld in artikel 188a van Boek 4 Burgerlijk Wetboek, gewaarmerkte afschriften af.   
 2.  Artikel 49a is van overeenkomstige toepassing.  
@@ -644,11 +645,11 @@ a. akten van verdeling van gemeenschappen;
 b. processen-verbaal van openbare verkopingen, verhuringen, verpachtingen en aanbestedingen;  
 
 c. testamenten.     
-3.  Geen grossen mogen worden uitgegeven van een verklaring van erfrecht als bedoeld in artikel 188 van Boek 4 van het Burgerlijk Wetboek of een notariële verklaring als bedoeld in de artikelen 26, 27, derde lid, 30, 31, onder b, juncto 26, eerste lid, 34, 35 en 36 van de Kadasterwet.  
+3.  Geen grossen mogen worden uitgegeven van een verklaring van erfrecht of een Europese erfrechtverklaring als bedoeld in respectievelijk artikel 188 en 188a van Boek 4 van het Burgerlijk Wetboek of een notariële verklaring als bedoeld in de artikelen 26, 27, derde lid, 30, 31, onder b, juncto 26, eerste lid, 34, 35 en 36 van de Kadasterwet.  
 
 ### Artikel  51  
 
-1.  Het zegel van de notaris bevat het koninklijk wapen en in het randschrift de hoedanigheid van notaris, de eerste letters van zijn voornamen, zijn naam en zijn plaats van vestiging. Het zegel wordt aangebracht op alle door hem uit te geven akten en af te geven grossen, afschriften en uittreksels, verklaringen van erfrecht als bedoeld in artikel 188 van Boek 4 van het Burgerlijk Wetboek, legalisaties en andere verklaringen die door de notaris als zodanig worden afgegeven. Het zegel wordt tevens gebezigd bij de handeling, bedoeld in artikel 658 van het Wetboek van Burgerlijke Rechtsvordering, en andere verzegelingen die de notaris als zodanig verricht.   
+1.  Het zegel van de notaris bevat het koninklijk wapen en in het randschrift de hoedanigheid van notaris, de eerste letters van zijn voornamen, zijn naam en zijn plaats van vestiging. Het zegel wordt aangebracht op alle door hem uit te geven akten en af te geven grossen, afschriften en uittreksels, verklaringen van erfrecht of Europese erfrechtverklaringen als bedoeld in respectievelijk artikel 188 en 188a van Boek 4 van het Burgerlijk Wetboek, legalisaties en andere verklaringen die door de notaris als zodanig worden afgegeven. Het zegel wordt tevens gebezigd bij de handeling, bedoeld in artikel 658 van het Wetboek van Burgerlijke Rechtsvordering, en andere verzegelingen die de notaris als zodanig verricht.   
 2.  De notaris moet ervoor zorgen dat van het zegel geen misbruik kan worden gemaakt.  
 
 ### Artikel  52  
