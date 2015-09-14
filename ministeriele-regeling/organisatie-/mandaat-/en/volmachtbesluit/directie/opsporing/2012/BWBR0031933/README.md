@@ -19,9 +19,11 @@ a. *de directie:* de directie Opsporing van de inspectie;
 
 b. *de directeur:* de directeur van de directie Opsporing;  
 
-c. *de teamleider CIE:* de functionaris die rechtstreeks ressorteert onder het hoofd van de afdeling Opsporingsinformatie en leiding geeft aan het team Criminele Inlichtingen Eenheid SZW van die afdeling.  
+c.*het team criminele inlichtingen Inspectie SZW-DO:*het team criminele inlichtingen van de directie Opsporing;
 
-d. *criminele inlichtingen:* gegevens, die in aanmerking komen voor verwerking op grond van artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens.   
+d. *de teamleider tci:* de functionaris die rechtstreeks ressorteert onder het hoofd van de afdeling Opsporingsinformatie en die leiding geeft aan het team criminele inlichtingen Inspectie SZW-DO, dat deel uitmaakt van die afdeling;  
+
+e. *criminele inlichtingen:* gegevens, die in aanmerking komen voor verwerking op grond van artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens.   
 
 ### §  2  
 
@@ -39,8 +41,8 @@ b. de afdeling Recherche A;
 
 c. de afdeling Recherche B.     
 2.  Aan het hoofd van iedere afdeling staat een afdelingshoofd.   
-3.  De afdelingshoofden worden beiden bijgestaan door onder hen ressorterende teamleiders.   
-4.  Van de afdeling Opsporingsinformatie maakt onderdeel uit de Criminele Inlichtingen Eenheid SZW; deze criminele inlichtingen eenheid is de criminele inlichtingen eenheid, genoemd in artikel 2, eerste lid, van het Besluit instelling criminele inlichtingen eenheid SIOD.  
+3.  De afdelingshoofden worden beiden bijgestaan door onder hen ressorterende teamleiders.  
+4. Van de afdeling Opsporingsinformatie maakt onderdeel uit het team criminele inlichtingen Inspectie SZW-DO; dit team is het team criminele inlichtingen, genoemd in artikel 2, eerste lid, van de Regeling team criminele inlichtingen Inspectie SZW-DO. 
 
 ### §  3  
 
@@ -68,7 +70,7 @@ De afdeling Opsporingsinformatie is verantwoordelijk voor:
 
 a. het beleidsmatig, vaktechnisch en juridisch ondersteunen van de directie;  
 
-b. het functioneren van de Criminele Inlichtingen Eenheid SZW;  
+b.het functioneren van het team criminele inlichtingen Inspectie SZW-DO; 
 
 c. het ondersteunen van het kwaliteits- en procesmanagement van de directie;  
 
@@ -114,11 +116,7 @@ b. het nemen van besluiten over en het ondertekenen van stukken die betrekking h
 
 c. het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de uitvoering van opsporingsactiviteiten van de eigen afdeling;  
 
-d. het verzamelen van criminele inlichtingen, overeenkomstig het bij of krachtens de Wet politiegegevens bepaalde;  
-
-e. het verlenen van autorisatie aan de op grond van artikel 6, tweede lid, van de Regeling criminele inlichtingen eenheden bekend gemaakte ambtenaren van elke criminele inlichtingen eenheid alsmede aan de daarvoor aangewezen ambtenaren van de criminele inlichtingen eenheden bij de bijzondere opsporingsdiensten overeenkomstig het bij of krachtens de Wet politiegegevens bepaalde;  
-
-f. het bepalen van de termijn, bedoeld in artikel 7, tweede lid, van het Besluit instelling criminele inlichtingen eenheid SIOD.   
+d. het verzamelen van criminele inlichtingen, overeenkomstig het bij of krachtens de Wet politiegegevens bepaalde.   
 
 ### Artikel  7  
 
@@ -169,9 +167,9 @@ De teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde 
 
 ### Artikel  11  
 
-####Volmachten teamleider CIE
+####Volmachten teamleider tci
 
-De teamleider CIE is gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 5.000,– per overeenkomst betreffende informatievergaring met behulp van informanten. 
+De teamleider tci is gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 5.000,– per overeenkomst betreffende informatievergaring met behulp van informanten. 
 
 ### Artikel  12  
 

@@ -1347,9 +1347,11 @@ Deze overeenkomst is in twee exemplaren opgesteld in de Bulgaarse, de Deense, de
 
 Deze Overeenkomst treedt in werking op de eerste dag van de maand volgende op die waarin de overeenkomstsluitende partijen elkaar in kennis hebben gesteld van de voltooiing van de noodzakelijke procedures. 
 
-GEDAAN te Pretoria op elf oktober negentienhonderd negenennegentig.  
+GEDAAN te Pretoria de elfde oktober negentienhonderd negenennegentig.  
 
-###Protocol nr. 1 
+###Protocol 1 
+
+####betreffende de definitie van het begrip „product van oorsprong” en administratieve samenwerking
 
 ### TITEL  I  
 
@@ -1624,25 +1626,81 @@ b. in de in artikel 19, lid 1, bedoelde gevallen, een verklaring van de exporteu
 
 ####Afgifte achteraf van een EUR.1-certificaat
 
+Wordt voorlopig toegepast per 01-07-2013 
+
 1.   In afwijking van artikel 15, lid 7, kan een EUR.1-certificaat bij wijze van uitzondering worden afgegeven na de uitvoer van de goederen waarop het betrekking heeft, indien 
 
 a. dit door een vergissing, onopzettelijk verzuim of bijzondere omstandigheden niet bij de uitvoer is gebeurd;  
 
 b. ten genoegen van de douaneautoriteiten wordt aangetoond dat het EUR.1-certificaat wel was afgegeven, maar bij invoer om technische redenen niet is aanvaard.     
 2.   Met het oog op de toepassing van lid 1 dient de exporteur in zijn aanvraag de plaats en de datum van uitvoer te vermelden van de producten waarop het EUR.1-certificaat betrekking heeft, onder opgave van de redenen van zijn aanvraag.    
-3.   De douaneautoriteiten kunnen eerst tot afgifte achteraf van een EUR.1-certificaat overgaan na te hebben vastgesteld dat de gegevens in de aanvraag van de exporteur overeenstemmen met die in het desbetreffende dossier.  
-4. Op achteraf afgegeven certificaten inzake goederenverkeer EUR.1 moet een van de volgende vermeldingen worden aangebracht:  ![10000051465](http://wetten.overheid.nl/Illustration/10000051465)
-ES „EXPEDIDO A POSTERIORI” CS „VYSTAVENO DODATEČNĚ” DA „UDSTEDT EFTERFØLGENDE” DE „NACHTRÄGLICH AUSGESTELLT” ET „TAGANTJÄRELE VÄLJA ANTUD” EL „ΕΚ∆ΟΘΕΝ ΕΚ ΤΩΝ ΥΣΤΕΡΩΝ” EN „ISSUED RETROSPECTIVELY” FR „DÉLIVRÉ A POSTERIORI” IT „RILASCIATO A POSTERIORI” LV „IZSNIEGTS RETROSPEKTĪVI” LT „RETROSPEKTYVUSIS IŠDAVIMAS” HU „KIADVA VISSZAMENŐLEGES HATÁLLYAL” MT „MAĦRUĠ RETROSPETTIVAMENT” NL „AFGEGEVEN A POSTERIORI” PL „WYSTAWIONE RETROSPEKTYWNIE” PT „EMITIDO A POSTERIORI” RO „EMIS A POSTERIORI” SL „IZDANO NAKNADNO” SK „VYDANÉ DODATOČNE” FI „ANNETTU JÄLKIKÄTEEN” SV „UTFÄRDAT I EFTERHAND”;” 
-5.   De in lid 4 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen" van het EUR.1-certificaat.  
+3.   De douaneautoriteiten kunnen eerst tot afgifte achteraf van een EUR.1-certificaat overgaan na te hebben vastgesteld dat de gegevens in de aanvraag van de exporteur overeenstemmen met die in het desbetreffende dossier.   
+4.  Op achteraf afgegeven certificaten inzake goederenverkeer EUR.1 moet een van de volgende vermeldingen worden aangebracht:  
+
+| --- | --- |
+|:---|:---|
+| BG  | „ИЗДАДЕН ВПОСЛЕДСТВИЕ”  |
+| ES  | „EXPEDIDO A POSTERIORI”  |
+| CS  | „VYSTAVENO DODATEČNĚ”  |
+| DA  | „UDSTEDT EFTERFØLGENDE”  |
+| DE  | „NACHTRÄGLICH AUSGESTELLT”  |
+| ET  | „TAGANTJÄRELE VÄLJA ANTUD”  |
+| EL  | „ΕΚΔΟΘΕΝ ΕΚ ΤΩΝ ΥΣΤΕΡΩΝ”  |
+| EN  | „ISSUED RETROSPECTIVELY”  |
+| FR  | „DÉLIVRÉ A POSTERIORI”  |
+| HR  | „IZDANO NAKNADNO”  |
+| IT  | „RILASCIATO A POSTERIORI”  |
+| LV  | „IZSNIEGTS RETROSPEKTĪVI”  |
+| LT  | „RETROSPEKTYVUSIS IŠDAVIMAS”  |
+| HU  | „KIADVA VISSZAMENŐLEGES HATÁLLYAL”  |
+| MT  | „MAĦRUĠ RETROSPETTIVAMENT”  |
+| NL  | „AFGEGEVEN A POSTERIORI”  |
+| PL  | „WYSTAWIONE RETROSPEKTYWNIE”  |
+| PT  | „EMITIDO A POSTERIORI”  |
+| RO  | „EMIS A POSTERIORI”  |
+| SL  | „IZDANO NAKNADNO”  |
+| SK  | „VYDANÉ DODATOČNE”  |
+| FI  | „ANNETTU JÄLKIKÄTEEN”  |
+| SV  | „UTFÄRDAT I EFTERHAND”.  |
+
+5.   De in lid 4 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen” van het EUR.1-certificaat.  
 
 ### Artikel  17  
 
 ####Afgifte van een duplicaat van een EUR.1-certificaat
 
+Wordt voorlopig toegepast per 01-07-2013 
+
 1.   In geval van diefstal, verlies of vernietiging van een EUR.1-certificaat, kan de exporteur de douaneautoriteiten die dit certificaat hadden afgegeven, verzoeken een duplicaat op te maken aan de hand van de uitvoerdocumenten die in hun bezit zijn.   
-2.  Op het aldus afgegeven certificaat wordt een van de volgende vermeldingen aangebracht:  ![10000051466](http://wetten.overheid.nl/Illustration/10000051466)
-ES „DUPLICADO” CS „DUPLIKÁT” DA „DUPLIKAT” DE „DUPLIKAT” ET „DUPLIKAAT” EL „ΑΝΤΙΓΡΑΦΟ” EN „DUPLICATE” FR „DUPLICATA” IT „DUPLICATO” LV „DUBLIKĀTS” LT „DUBLIKATAS” HU „MÁSODLAT” MT „DUPLIKAT” NL „DUPLICAAT” PL „DUPLIKAT” PT „SEGUNDA VIA” RO „DUPLICAT” SL „DVOJNIK” SK „DUPLIKÁT” FI „KAKSOISKAPPALE” SV „DUPLIKAT”;”   
-3.   De in lid 2 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen" van het duplicaat van het EUR.1-certificaat.   
+2.  Op het aldus afgegeven duplicaat wordt een van de volgende aantekeningen aangebracht: 
+
+| --- | --- |
+|:---|:---|
+| BG  | „ДУБЛИКАТ”  |
+| ES  | „DUPLICADO”  |
+| CS  | „DUPLIKÁT”  |
+| DA  | „DUPLIKAT”  |
+| DE  | „DUPLIKAT”  |
+| ET  | „DUPLIKAAT”  |
+| EL  | „ΑΝΤΙΓΡΑΦΟ”  |
+| EN  | „DUPLICATE”  |
+| FR  | „DUPLICATA”  |
+| HR  | „DUPLIKAT”  |
+| IT  | „DUPLICATO”  |
+| LV  | „DUBLIKĀTS”  |
+| LT  | „DUBLIKATAS”  |
+| HU  | „MÁSODLAT”  |
+| MT  | „DUPLIKAT”  |
+| NL  | „DUPLICAAT”  |
+| PL  | „DUPLIKAT”  |
+| PT  | „SEGUNDA VIA”  |
+| RO  | „DUPLICAT”  |
+| SL  | „DVOJNIK”  |
+| SK  | „DUPLIKÁT”  |
+| FI  | „KAKSOISKAPPALE”  |
+| SV  | „DUPLIKAT”.  |
+
+3.   De in lid 2 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen” van het duplicaat van het EUR.1-certificaat.   
 4.   Het duplicaat, dat dezelfde datum van afgifte draagt als het oorspronkelijke EUR.1-certificaat geldt vanaf die datum.  
 
 ### Artikel  18  
@@ -2058,7 +2116,7 @@ De Overeenkomstsluitende Partijen eisen van elkaar geen terugbetaling voor uitga
 
 ###Slotakte
 
-De gevolmachtigden van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland,  de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, hierna „lidstaten" te noemen, en de Europese Gemeenschap, hierna „Gemeenschap" te noemen, enerzijds, en de gevolmachtigde van de Republiek Zuid-Afrika, hierna „Zuid-Afrika" te noemen, anderzijds, bijeengekomen te Pretoria op de elfde oktober negentienhonderdnegenennegentig voor de ondertekening van de Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds, hebben de volgende teksten aangenomen: de Overeenkomst, alsmede de daarbij behorende bijlagen en de volgende protocollen: Protocol 1 betreffende de definitie van het begrip „producten van oorsprong" en methoden van administratieve samenwerking, Protocol 2 betreffende wederzijdse administratieve bijstand in douanezaken. De gevolmachtigden van de Gemeenschap en haar lidstaten en de gevolmachtigde van Zuid-Afrika hebben de teksten van de volgende gemeenschappelijke verklaringen aangenomen die aan deze slotakte zijn gehecht: Gemeenschappelijke verklaring betreffende niet-uitvoering Gemeenschappelijke verklaring betreffende uitvoerrestituties Gemeenschappelijke verklaring betreffende versnelde afschaffing van de douanerechten door Zuid-Afrika Gemeenschappelijke verklaring betreffende landbouwquota Gemeenschappelijke verklaring betreffende overheidssteun  Gemeenschappelijke verklaring betreffende visserij Gemeenschappelijke verklaring betreffende bilaterale overeenkomsten Gemeenschappelijke verklaring betreffende illegale immigratie De gevolmachtigde van Zuid-Afrika heeft kennis genomen van de volgende verklaringen die aan deze slotakte zijn gehecht: Verklaring van de Gemeenschap betreffende het essentiële onderdeel Verklaring van de Gemeenschap betreffende de financiële aspecten van de samenwerking Verklaring van de Europese Investeringsbank betreffende de financiële aspecten van de samenwerking De gevolmachtigden van de Gemeenschap en haar lidstaten hebben kennis genomen van de volgende verklaringen die aan deze slotakte zijn gehecht: Verklaring van Zuid-Afrika betreffende het essentiële onderdeel Verklaring van Zuid-Afrika betreffende sanitaire en fytosanitaire maatregelen Verklaring van Zuid-Afrika betreffende de financiële aspecten van de samenwerking. Voorts hebben de gevolmachtigden van de lidstaten en de gevolmachtigde van Zuid-Afrika hun instemming betuigd met het aan deze Slotakte gehecht Proces-Verbaal van Overeenkomst van de onderhandelingen. GEDAAN te Pretoria op elf oktober negentienhonderd negenennegentig.   
+De gevolmachtigden van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland,  de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, hierna „lidstaten” te noemen, en de Europese Gemeenschap, hierna „Gemeenschap” te noemen, enerzijds, en de gevolmachtigde van de Republiek Zuid-Afrika, hierna „Zuid-Afrika” te noemen, anderzijds, bijeengekomen te Pretoria op de elfde oktober negentienhonderdnegenennegentig voor de ondertekening van de Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds, hebben de volgende teksten aangenomen: de Overeenkomst, alsmede de daarbij behorende bijlagen en de volgende protocollen: Protocol 1 betreffende de definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking, Protocol 2 betreffende wederzijdse administratieve bijstand in douanezaken. De gevolmachtigden van de Gemeenschap en haar lidstaten en de gevolmachtigde van Zuid-Afrika hebben de teksten van de volgende gemeenschappelijke verklaringen aangenomen die aan deze slotakte zijn gehecht: Gemeenschappelijke verklaring betreffende niet-uitvoering Gemeenschappelijke verklaring betreffende uitvoerrestituties Gemeenschappelijke verklaring betreffende versnelde afschaffing van de douanerechten door Zuid-Afrika Gemeenschappelijke verklaring betreffende landbouwquota Gemeenschappelijke verklaring betreffende overheidssteun  Gemeenschappelijke verklaring betreffende visserij Gemeenschappelijke verklaring betreffende bilaterale overeenkomsten Gemeenschappelijke verklaring betreffende illegale immigratie De gevolmachtigde van Zuid-Afrika heeft kennis genomen van de volgende verklaringen die aan deze slotakte zijn gehecht: Verklaring van de Gemeenschap betreffende het essentiële onderdeel Verklaring van de Gemeenschap betreffende de financiële aspecten van de samenwerking Verklaring van de Europese Investeringsbank betreffende de financiële aspecten van de samenwerking De gevolmachtigden van de Gemeenschap en haar lidstaten hebben kennis genomen van de volgende verklaringen die aan deze slotakte zijn gehecht: Verklaring van Zuid-Afrika betreffende het essentiële onderdeel Verklaring van Zuid-Afrika betreffende sanitaire en fytosanitaire maatregelen Verklaring van Zuid-Afrika betreffende de financiële aspecten van de samenwerking. Voorts hebben de gevolmachtigden van de lidstaten en de gevolmachtigde van Zuid-Afrika hun instemming betuigd met het aan deze Slotakte gehecht Proces-Verbaal van Overeenkomst van de onderhandelingen. GEDAAN te Pretoria de elfde oktober negentienhonderd negenennegentig.   
 
 ####Gemeenschappelijke Verklaring betreffende niet-uitvoering
 

@@ -744,7 +744,7 @@ b. Artikel 9, lid 1, van genoemd Verdrag.
 Artikel 4, lid 2, van het Verdrag betreffende de sociale zekerheid van 3 juni 1967 zoals gewijzigd bij de Aanvullende Overeenkomst van 26 maart 1976.
 ###Nederland-Zwitserland 
 
-[Artikel 4, tweede zin, van het Verdrag betreffende de sociale zekerheid](../../../../../../../../../../../../../verdrag/convention/de/sécurité/sociale/entre/le/royaume/des/pays-bas/et/la/etc/BWBV0004473/README.md) van 27 mei 1970. 
+Artikel 4, tweede zin, van het Verdrag betreffende de sociale zekerheid van 27 mei 1970. 
 ###Portugal-Zwitserland
 
 Artikel 3, tweede zin, van het Verdrag betreffende de sociale zekerheid van 11 september 1975 zoals gewijzigd bij het aanhangsel van 11 mei 1994, met betrekking tot de betaling van uitkeringen aan personen die in een derde staat woonachtig zijn.

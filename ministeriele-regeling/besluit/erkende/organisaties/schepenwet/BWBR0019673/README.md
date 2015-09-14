@@ -5,14 +5,14 @@
 De Minister van Verkeer en Waterstaat,  
 Handelende in overeenstemming met de Minister van Verkeer en Vervoer van de Nederlandse Antillen en de Minister van Toerisme en Transport van Aruba;
 
-Gelet op [artikel 6, tweede lid, van de Schepenwet](../../../../../../rijkswet/schepenwet/BWBR0001876/README.md) en [artikel 6 van het Schepenbesluit 1965](../../../../../../rijksKB/schepenbesluit/1965/BWBR0002501/README.md), alsmede de [artikelen 23, eerste lid](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), [36](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), [48, tweede lid](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) en [59, eerste lid, van het Schepenbesluit 2004](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md);
+Gelet op artikel 6, tweede lid, van de Schepenwet en artikel 6 van het Schepenbesluit 1965, alsmede de artikelen 23, eerste lid, 36, 48, tweede lid en 59, eerste lid, van het Schepenbesluit 2004;
 Besluit:    
 
 ### Artikel  1  
 
 ####Erkende organisaties
 
-1.  Als rechtspersonen waarvan de regels kunnen gelden als eisen als bedoeld in [artikel 3a van de Schepenwet](../../../../../../rijkswet/schepenwet/BWBR0001876/README.md), worden aangewezen: 
+1.  Als rechtspersonen waarvan de regels kunnen gelden als eisen als bedoeld in artikel 3a van de Schepenwet, worden aangewezen: 
 
 a. American Bureau of Shipping (ABS) Europe Ltd te Londen, Verenigd Koninkrijk;  
 
@@ -20,12 +20,12 @@ b. Bureau Veritas (BV) te Parijs, Frankrijk;
 
 c. DNV GL AS te Høvik, Noorwegen;  
 
-d. Lloyd’s Register of Shipping (LR) te Londen, Verenigd Koninkrijk;  
+d. Lloyd's Register Group LTD (LR) te Londen, Verenigd Koninkrijk;  
 
-e. Nippon Kaiji Kyokai (NKK) te Tokio, Japan;  
+e. Nippon Kaiji Kyokai General Incorporated Foundation (ClassNK) te Tokio, Japan;  
 
-f. Registro Italiano Navale (RINA) te Genua, Italië.     
-2.  De in het eerste lid genoemde rechtspersonen zijn tevens bevoegd tot het verrichten van de bij of krachtens de [artikelen 8 van het Schepenbesluit 1965](../../../../../../rijksKB/schepenbesluit/1965/BWBR0002501/README.md) en [13 tot en met 18 van het Schepenbesluit 2004](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) voorgeschreven onderzoeken.  
+f. RINA Services S.p.A. te Genua, Italië.     
+2.  De in het eerste lid genoemde rechtspersonen zijn tevens bevoegd tot het verrichten van de bij of krachtens de artikelen 8 van het Schepenbesluit 1965 en 13 tot en met 18 van het Schepenbesluit 2004 voorgeschreven onderzoeken.  
 
 ### Artikel  2  
 
@@ -73,7 +73,7 @@ e. SAM Electronics Nederland B.V., te Rotterdam;
 
 f. Collecte Localisation Satellites, te Ramonville Saint-Agne, Frankrijk.    
 4.  Als keuringsinstantie voor de zeegaande zeilende beroepsvaart, bevoegd tot het verrichten van onderzoeken gericht op de certificering van zeilschepen van minder dan 500 GT, gebruikt voor het vervoer van ten hoogste 36 passagiers, die op grond van Nederlandse rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren, wordt aangewezen: Register Holland B.V. te Steenwijk.  
-5.  Als keuringsinstantie in verband met de afgifte van het nationaal veiligheidscertificaat, bevoegd tot het verrichten van bij of krachtens [artikel 15, vierde lid, van het Schepenbesluit 2004](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) voorgeschreven onderzoeken, wordt aangewezen: Register Holland B.V. te Steenwijk.   
+5.  Als keuringsinstantie in verband met de afgifte van het nationaal veiligheidscertificaat, bevoegd tot het verrichten van bij of krachtens artikel 15, vierde lid, van het Schepenbesluit 2004 voorgeschreven onderzoeken, wordt aangewezen: Register Holland B.V. te Steenwijk.   
 6.  Als keuringsinstantie voor reddingmiddelen, bevoegd tot het verrichten van onderzoeken gericht op het onderhoud van reddingmiddelen als bedoeld in circulaire MSC.1/Circ.1206/Rev.1 van de Maritieme Veiligheidscommissie, wordt in het Koninkrijk aangewezen: 
 
 a. Willem Pot B.V. te Rotterdam;  
@@ -116,7 +116,7 @@ e. NavCom Inspection & Consultancy B.V. te IJmuiden.
 
 ####Erkende beveiligingsorganisaties
 
-Als erkende beveiligingsorganisaties, bevoegd tot het verrichten van onderzoeken als bedoeld in [artikel 19 van het Schepenbesluit 2004](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), worden aangewezen de in artikel 1, eerste lid, genoemde rechtspersonen. 
+Als erkende beveiligingsorganisaties, bevoegd tot het verrichten van onderzoeken als bedoeld in artikel 19 van het Schepenbesluit 2004, worden aangewezen de in artikel 1, eerste lid, genoemde rechtspersonen. 
 
 ### Artikel  5  
 
@@ -124,7 +124,7 @@ Dit besluit wordt aangehaald als: Besluit erkende organisaties Schepenwet.
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt ten aanzien van de artikelen 1 tot en met 3 en, voor zover betrekking hebbende op de aanwijzing van Registro Italiano Navale (RINA) als erkende beveiligingsorganisatie, bevoegd tot het verrichten van onderzoeken als bedoeld in [artikel 19 van het Schepenbesluit 2004](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), artikel 4, terug tot en met 1 januari 2005. 
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt ten aanzien van de artikelen 1 tot en met 3 en, voor zover betrekking hebbende op de aanwijzing van Registro Italiano Navale (RINA) als erkende beveiligingsorganisatie, bevoegd tot het verrichten van onderzoeken als bedoeld in artikel 19 van het Schepenbesluit 2004, artikel 4, terug tot en met 1 januari 2005. 
 Dit besluit zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.  
 
 De 

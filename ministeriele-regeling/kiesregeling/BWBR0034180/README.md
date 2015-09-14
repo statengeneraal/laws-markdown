@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Als de modellen, bedoeld in de Kieswet en het Kiesbesluit, worden de modellen vastgesteld die in de bijlage bij artikel 1 van deze regeling bij deze regeling zijn opgenomen.   
+1.  Als de modellen, bedoeld in de Kieswet, de Wet raadgevend referendum, het Kiesbesluit en het Besluit raadgevend referendum, worden de modellen vastgesteld die in de bijlage bij artikel 1 van deze regeling bij deze regeling zijn opgenomen.   
 2.  De tekst van de modellen in de bijlage bij artikel 1 van deze regeling bij deze regeling kan redactioneel worden aangepast voor een specifieke doelgroep of voor de digitale toepassing, indien dat de leesbaarheid of doelmatigheid van het model ten goede komt.  
 
 ### Artikel  2  
@@ -20,7 +20,6 @@ De Modellenregeling Kieswet en Kiesbesluit 2010 wordt ingetrokken.
 De programmatuur, bedoeld in artikel P 1, eerste lid, van het Kiesbesluit, ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de in de bijlage bij artikel 2a van deze regeling opgenomen eisen. 
 
 ### Artikel  2b  
-Treedt in werking per 01-07-2015 
 
 De programmatuur, bedoeld in artikel 16 van het Besluit raadgevend referendum, ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de in de bijlage bij artikel 2b van deze regeling opgenomen eisen. 
 
@@ -30,7 +29,7 @@ Deze regeling treedt in werking met ingang van 1 december 2013.
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Kiesregeling. 
+Deze regeling wordt aangehaald als: Kies- en referendumregeling. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
@@ -39,40 +38,24 @@ R.H.A. Plasterk
 
 ### Bijlage  
 
-####bij artikel 1  van de Kiesregeling
+####bij artikel 1  van de Kies- en referendumregeling
 
 ### Model  D 3-1  
 
-####Registratieformulier voor kiezers buiten Nederland voor de verkiezing van de Tweede Kamer
+####(Wrr 21) Registratieformulier voor kiezers buiten Nederland
 
-![252442](http://wetten.overheid.nl/Illustration/252442)
-![252443](http://wetten.overheid.nl/Illustration/252443)
-![252444](http://wetten.overheid.nl/Illustration/252444)
+![255327](http://wetten.overheid.nl/Illustration/255327)
+![255328](http://wetten.overheid.nl/Illustration/255328)
+![255329](http://wetten.overheid.nl/Illustration/255329)
 
 ### Model  D 3-2  
 
-####Registratieformulier voor kiezers in Aruba, Curaçao en Sint Maarten voor de verkiezing van de Tweede Kamer
+####(Wrr 21a) Registratieformulier voor kiezers in Aruba, Curaçao en Sint Maarten
 
-![252445](http://wetten.overheid.nl/Illustration/252445)
-![252446](http://wetten.overheid.nl/Illustration/252446)
-![252447](http://wetten.overheid.nl/Illustration/252447)
-![252448](http://wetten.overheid.nl/Illustration/252448)
-
-### Model  D 3-3  
-
-####Registratieformulier voor kiezers buiten Nederland voor de verkiezing van het Europees Parlement
-
-![252449](http://wetten.overheid.nl/Illustration/252449)
-![252450](http://wetten.overheid.nl/Illustration/252450)
-![252451](http://wetten.overheid.nl/Illustration/252451)
-
-### Model  D 3-4  
-
-####Registreren voor de verkiezing van de leden van het Europees Parlement in Aruba, Curaçao en Sint Maarten
-
-![252452](http://wetten.overheid.nl/Illustration/252452)
-![252453](http://wetten.overheid.nl/Illustration/252453)
-![252454](http://wetten.overheid.nl/Illustration/252454)
+![255330](http://wetten.overheid.nl/Illustration/255330)
+![255331](http://wetten.overheid.nl/Illustration/255331)
+![255332](http://wetten.overheid.nl/Illustration/255332)
+![255333](http://wetten.overheid.nl/Illustration/255333)
 
 ### Model  G 1-1  
 
@@ -199,20 +182,12 @@ R.H.A. Plasterk
 
 ![254259](http://wetten.overheid.nl/Illustration/254259)
 
-### Model  J 7  
+### Model J 7 
 
-1.De stempas voor de verkiezing van de leden van de provinciale staten op 18 maart 2015 luidt als volgt:![254405](http://wetten.overheid.nl/Illustration/254405)
-![254406](http://wetten.overheid.nl/Illustration/254406)
+####Stempas
 
-2.De stempas voor de verkiezing van de leden van het algemeen bestuur op 18 maart 2015 waarmee in elk willekeurig stemlokaal in de gemeente kan worden gestemd, luidt als volgt: ![254407](http://wetten.overheid.nl/Illustration/254407)
-![254408](http://wetten.overheid.nl/Illustration/254408)
-
-3.De stempas voor de verkiezing van het algemeen bestuur op 18 maart 2015 waarmee niet in elk willekeurig stemlokaal in de gemeente kan worden gestemd, luidt als volgt:<sup>1De rand van de voorzijde van de stempas heeft zwarte blokjes teneinde bij het sorteren van de stempassen snel te kunnen herkennen bij welk waterschap de stempas hoort.</sup> ![254409](http://wetten.overheid.nl/Illustration/254409)
-![254410](http://wetten.overheid.nl/Illustration/254410)
-
-4.De stempas voor de verkiezing van de leden van de eilandsraden op 18 maart 2015 luidt als volgt: ![254411](http://wetten.overheid.nl/Illustration/254411)
-![254412](http://wetten.overheid.nl/Illustration/254412)
-De stempas voor de verkiezing van de leden van de provinciale staten op 18 maart 2015 luidt als volgt:
+De stempas voor de herindelingsverkiezingen van de leden van de gemeenteraden van de gemeenten Edam-Volendam en Gooise Meren op woensdag 18 november 2015 luidt als volgt:![256061](http://wetten.overheid.nl/Illustration/256061)
+![256062](http://wetten.overheid.nl/Illustration/256062)
 
 ### Model  J 7-1  
 
@@ -245,49 +220,37 @@ enz.<sup>6De lijsten dienen om en om in te springen. Tussen de lijsten dient rui
 
 ### Model  K 6  
 
-####Verzoek om een kiezerspas
+####(Wrr 60) Verzoek om een kiezerspas
 
-![254261](http://wetten.overheid.nl/Illustration/254261)
-![254262](http://wetten.overheid.nl/Illustration/254262)
+![255334](http://wetten.overheid.nl/Illustration/255334)
+![255335](http://wetten.overheid.nl/Illustration/255335)
 
 ### Model  L 8  
 
-####Verzoek om bij volmacht te stemmen
+####(Wrr 61) Verzoek om bij volmacht te stemmen
 
-![254263](http://wetten.overheid.nl/Illustration/254263)
-![254264](http://wetten.overheid.nl/Illustration/254264)
+![255336](http://wetten.overheid.nl/Illustration/255336)
+![255337](http://wetten.overheid.nl/Illustration/255337)
+![255338](http://wetten.overheid.nl/Illustration/255338)
 
-### Model  L 11  
+### Model L 11 
 
-1.Het schriftelijk volmachtbewijs voor de verkiezing van de leden van provinciale staten op 18 maart 2015 luidt als volgt: ![254418](http://wetten.overheid.nl/Illustration/254418)
-![254419](http://wetten.overheid.nl/Illustration/254419)
+####Schriftelijk volmachtbewijs
 
-2.Het schriftelijk volmachtbewijs voor de verkiezing van de leden van het algemeen bestuur op 18 maart 2015 luidt als volgt: ![254420](http://wetten.overheid.nl/Illustration/254420)
-![254421](http://wetten.overheid.nl/Illustration/254421)
-
-3.Het schriftelijk volmachtbewijs voor de verkiezing van de leden van de eilandsraad op 18 maart 2015 luidt als volgt: ![254422](http://wetten.overheid.nl/Illustration/254422)
-![254423](http://wetten.overheid.nl/Illustration/254423)
+Het schriftelijk volmachtbewijs voor de herindelingsverkiezingen van de leden van de gemeenteraden van de gemeenten Edam-Volendam en Gooise Meren op woensdag 18 november 2015 luidt als volgt:![256063](http://wetten.overheid.nl/Illustration/256063)
+![256064](http://wetten.overheid.nl/Illustration/256064)
 
 ### Model  M 3  
 
-####Verzoek om per brief te stemmen
+####(Wrr 62) Verzoek om per brief te stemmen
 
-![252603](http://wetten.overheid.nl/Illustration/252603)
+![255339](http://wetten.overheid.nl/Illustration/255339)
 
 ### Model  M 6-1  
 
-####(kleur oranje, internationaal postformat EN-C5). Retourenveloppe voor het stemmen per brief
+####(Wrr 62) (kleur oranje, internationaal postformat EN-C5). Retourenveloppe voor het stemmen per brief
 
-| --- | --- | --- | --- |
-|:---|:---|:---|:---|
-|  *stembiljet*   | --- | --- |  *Frankeren als (luchtpost)brief*   |
-| nummer:  | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | Aan:  | De burgemeester van 's-Gravenhage  [*postadresgegevens*]  [*postadresgegevens*]  THE NETHERLANDS ¹  |
-| --- | --- | --- | --- |
-
-¹ Indien de retourenveloppe bestemd is voor een kiezer die woont op Aruba, Curaçao of Sint Maarten, dan wel verblijft in een land waar een briefstembureau is gevestigd, wordt de enveloppe geadresseerd aan de Nederlandse Vertegenwoordiging, dan wel de voorzitter van het desbetreffende briefstembureau.
+![255340](http://wetten.overheid.nl/Illustration/255340)
 
 ### Model  M 6-2  
 
@@ -299,64 +262,73 @@ enz.<sup>6De lijsten dienen om en om in te springen. Tussen de lijsten dient rui
 
 ### Model  M 6-3  
 
-####Enveloppe voor het stembiljet
+####(Wrr 62) Enveloppe voor het stembiljet
 
-Stembiljet (kleur wit) 
-
-### Model  N 10-1  
-
-####Proces-verbaal van een stembureau
-
-![254266](http://wetten.overheid.nl/Illustration/254266)
-![254267](http://wetten.overheid.nl/Illustration/254267)
-![254268](http://wetten.overheid.nl/Illustration/254268)
-![254269](http://wetten.overheid.nl/Illustration/254269)
-![254270](http://wetten.overheid.nl/Illustration/254270)
+![255341](http://wetten.overheid.nl/Illustration/255341)
 
 ### Model  N 10-1  
 
-####Bijlage: aantal stemmen per lijst en kandidaat
+####(Wrr 66) Proces-verbaal van een stembureau
 
-![254271](http://wetten.overheid.nl/Illustration/254271)
+![255342](http://wetten.overheid.nl/Illustration/255342)
+![255343](http://wetten.overheid.nl/Illustration/255343)
+![255344](http://wetten.overheid.nl/Illustration/255344)
+![255345](http://wetten.overheid.nl/Illustration/255345)
+![255346](http://wetten.overheid.nl/Illustration/255346)
+![255347](http://wetten.overheid.nl/Illustration/255347)
+
+### Model  N 10-1  
+
+####(Wrr 66) Bijlage: aantal stemmen per lijst en kandidaat (bij verkiezingen)
+
+![255348](http://wetten.overheid.nl/Illustration/255348)
 
 ### Model  N 10-2a  
 
-####Proces-verbaal van de vooropening bij een briefstembureau
+####(Wrr 66) Proces-verbaal van de vooropening bij een briefstembureau
 
-![252509](http://wetten.overheid.nl/Illustration/252509)
-![252612](http://wetten.overheid.nl/Illustration/252612)
-![252511](http://wetten.overheid.nl/Illustration/252511)
-
-### Model  N 10-2b  
-
-####Proces-verbaal van de telling bij een briefstembureau
-
-![252512](http://wetten.overheid.nl/Illustration/252512)
-![253638](http://wetten.overheid.nl/Illustration/253638)
-![252514](http://wetten.overheid.nl/Illustration/252514)
-![252515](http://wetten.overheid.nl/Illustration/252515)
+![255349](http://wetten.overheid.nl/Illustration/255349)
+![255350](http://wetten.overheid.nl/Illustration/255350)
+![255351](http://wetten.overheid.nl/Illustration/255351)
 
 ### Model  N 10-2b  
 
-####Bijlage: aantal stemmen per lijst en kandidaat
+####(Wrr 66) Proces-verbaal van de telling bij een briefstembureau
 
-![252517](http://wetten.overheid.nl/Illustration/252517)
+![255352](http://wetten.overheid.nl/Illustration/255352)
+![255353](http://wetten.overheid.nl/Illustration/255353)
+![255354](http://wetten.overheid.nl/Illustration/255354)
+![255355](http://wetten.overheid.nl/Illustration/255355)
+![255356](http://wetten.overheid.nl/Illustration/255356)
+
+### Model  N 10-2b  
+
+####(Wrr 66) Bijlage: aantal stemmen per lijst en kandidaat (bij verkiezingen)
+
+![255357](http://wetten.overheid.nl/Illustration/255357)
 
 ### Model  N 11  
 
-####Vaststelling aantal stemmen in gemeente/openbaar lichaam
+####(Wrr 67) Vaststelling aantal stemmen in gemeente/openbaar lichaam
 
-![254272](http://wetten.overheid.nl/Illustration/254272)
-![254273](http://wetten.overheid.nl/Illustration/254273)
-![254274](http://wetten.overheid.nl/Illustration/254274)
+![255358](http://wetten.overheid.nl/Illustration/255358)
+![255359](http://wetten.overheid.nl/Illustration/255359)
+![255360](http://wetten.overheid.nl/Illustration/255360)
+![255361](http://wetten.overheid.nl/Illustration/255361)
 
 ### Model  O 3  
 
-####Proces-verbaal van het hoofdstembureau voor de verkiezing van de Tweede Kamer / het Europees Parlement/de provinciale staten van een provincie met meer dan één kieskring
+####(Wrr 73) Proces-verbaal van het hoofdstembureau voor de verkiezing van de Tweede Kamer / het Europees Parlement / de provinciale staten van een provincie met meer dan één kieskring / het referendum
 
-![252522](http://wetten.overheid.nl/Illustration/252522)
-![252523](http://wetten.overheid.nl/Illustration/252523)
-![252524](http://wetten.overheid.nl/Illustration/252524)
+![255362](http://wetten.overheid.nl/Illustration/255362)
+![255363](http://wetten.overheid.nl/Illustration/255363)
+![255364](http://wetten.overheid.nl/Illustration/255364)
+
+###Model  O 3  
+
+####(Wrr 73) Bijlage: bezwaren
+
+![255365](http://wetten.overheid.nl/Illustration/255365)
 
 ### Model  P 22-1  
 
@@ -368,7 +340,7 @@ Stembiljet (kleur wit)
 ![254278](http://wetten.overheid.nl/Illustration/254278)
 ![254279](http://wetten.overheid.nl/Illustration/254279)
 ![254280](http://wetten.overheid.nl/Illustration/254280)
-![254281](http://wetten.overheid.nl/Illustration/254281)
+![255380](http://wetten.overheid.nl/Illustration/255380)
 ![254282](http://wetten.overheid.nl/Illustration/254282)
 ![254283](http://wetten.overheid.nl/Illustration/254283)
 
@@ -381,7 +353,7 @@ Stembiljet (kleur wit)
 ![254286](http://wetten.overheid.nl/Illustration/254286)
 ![254287](http://wetten.overheid.nl/Illustration/254287)
 ![254289](http://wetten.overheid.nl/Illustration/254289)
-![254290](http://wetten.overheid.nl/Illustration/254290)
+![255381](http://wetten.overheid.nl/Illustration/255381)
 ![254291](http://wetten.overheid.nl/Illustration/254291)
 ![254292](http://wetten.overheid.nl/Illustration/254292)
 
@@ -487,9 +459,78 @@ Stembiljet (kleur wit)
 ![252569](http://wetten.overheid.nl/Illustration/252569)
 ![252571](http://wetten.overheid.nl/Illustration/252571)
 
+###Model Wrr 29-1 
+
+####Inleidend verzoek
+
+![255366](http://wetten.overheid.nl/Illustration/255366)
+
+###Model Wrr 29-2 
+
+####Inleidend verzoek
+
+![255367](http://wetten.overheid.nl/Illustration/255367)
+
+###Model Wrr 37 
+
+####Proces-verbaal van de beoordeling van het inleidend verzoek
+
+![255368](http://wetten.overheid.nl/Illustration/255368)
+
+###Model Wrr 41-1 
+
+####Definitief verzoek
+
+![255369](http://wetten.overheid.nl/Illustration/255369)
+
+###Model Wrr 41-2 
+
+####Definitief verzoek
+
+![255370](http://wetten.overheid.nl/Illustration/255370)
+
+###Model Wrr 52 
+
+####Proces-verbaal van de beoordeling van het definitief verzoek
+
+![255371](http://wetten.overheid.nl/Illustration/255371)
+
+###Model Wrr 52 
+
+####Bijlage
+
+![255372](http://wetten.overheid.nl/Illustration/255372)
+
+###Model Wrr 83 
+
+####Proces-verbaal van de uitslag van het referendum
+
+![255373](http://wetten.overheid.nl/Illustration/255373)
+![255374](http://wetten.overheid.nl/Illustration/255374)
+![255375](http://wetten.overheid.nl/Illustration/255375)
+![255376](http://wetten.overheid.nl/Illustration/255376)
+
+###Model Wrr 83 
+
+####Bijlage: bezwaren en geschillen
+
+![255377](http://wetten.overheid.nl/Illustration/255377)
+
+###Model Wrr 116 
+
+####Vaststelling van het aantal in een openbaar lichaam ingediende verzoeken tot het houden van een referendum (inleidend verzoek)
+
+![255378](http://wetten.overheid.nl/Illustration/255378)
+
+###Model Wrr 118 
+
+####Vaststelling van het aantal in een openbaar lichaam ingediende ondersteuningsverklaringen (definitief verzoek)
+
+![255379](http://wetten.overheid.nl/Illustration/255379)
+
 ### Bijlage 2 
 
-####bij artikel 2a  van de Kiesregeling
+####bij artikel 2a  van de Kies- en referendumregeling
 
 ####Eisen aan de programmatuur die door de centrale stembureaus wordt gebruikt ten behoeve van de vaststelling van de uitslag van verkiezingen of de berekening van de zetelverdeling
 
@@ -524,8 +565,6 @@ m. bij het inlezen van verkiezingsgegevens in de programmatuur wordt de authenti
 ###Bijlage 3 
 
 ####bij artikel 2b  van de Kies- en referendumregeling
-
-Treedt in werking per 01-07-2015 
 
 ####Eisen aan de programmatuur die door het centraal stembureau wordt gebruikt ten behoeve van de berekening van de uitslag van het referendum
 

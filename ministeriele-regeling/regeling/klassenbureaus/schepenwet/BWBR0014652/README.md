@@ -5,7 +5,7 @@
 De Minister van Verkeer en Waterstaat,  
 Handelende in overeenstemming met de Minister van Verkeer en Vervoer van de Nederlandse Antillen en de Minister van Vervoer en Communicatie van Aruba;
 
-Gelet op het op 1 november 1974 te Londen totstandgekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157), op richtlijn nr. 94/57/EG van de Raad van de Europese Unie van 22 november 1994 inzake gemeenschappelijke voorschriften en normen voor de met inspectie en controle van schepen belaste organisaties en voor de desbetreffende werkzaamheden van maritieme instanties (PbEG L 319) en op [artikel 6, derde en vierde lid, van de Schepenwet](../../../../../rijkswet/schepenwet/BWBR0001876/README.md);
+Gelet op het op 1 november 1974 te Londen totstandgekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157), op richtlijn nr. 94/57/EG van de Raad van de Europese Unie van 22 november 1994 inzake gemeenschappelijke voorschriften en normen voor de met inspectie en controle van schepen belaste organisaties en voor de desbetreffende werkzaamheden van maritieme instanties (PbEG L 319) en op artikel 6, derde en vierde lid, van de Schepenwet;
 Besluit:     
 
 ### Artikel  1  
@@ -14,9 +14,9 @@ In deze regeling wordt verstaan onder:
 
 *Algemene Vergadering:* de gelijknamige vergadering van de Internationale Maritieme Organisatie van de Verenigde Naties; 
 
-*erkende beveiligingsorganisatie:* rechtspersoon, bevoegd tot het verrichten van bij of krachtens [artikel 19 van het Schepenbesluit 2004](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) voorgeschreven onderzoeken;  
+*erkende beveiligingsorganisatie:* rechtspersoon, bevoegd tot het verrichten van bij of krachtens artikel 19 van het Schepenbesluit 2004 voorgeschreven onderzoeken;  
 
-*keuringsinstantie in verband met de afgifte van het nationaal veiligheidscertificaat:* rechtspersoon, bevoegd tot het verrichten van bij of krachtens [artikel 15, vierde lid, van het Schepenbesluit 2004](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) voorgeschreven onderzoeken; 
+*keuringsinstantie in verband met de afgifte van het nationaal veiligheidscertificaat:* rechtspersoon, bevoegd tot het verrichten van bij of krachtens artikel 15, vierde lid, van het Schepenbesluit 2004 voorgeschreven onderzoeken; 
 
 *keuringsinstantie voor de zeegaande zeilende beroepsvaart:* rechtspersoon, bevoegd tot het verrichten van onderzoeken gericht op de certificering van zeilschepen van minder dan 500 GT, gebruikt voor het vervoer van ten hoogste 36 passagiers, die op grond van Nederlandse rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren; 
 
@@ -28,11 +28,11 @@ In deze regeling wordt verstaan onder:
 
 *keuringsinstantie voor tuigage:* rechtspersoon, bevoegd tot het verrichten van onderzoeken aan de tuigage van zeilschepen; 
 
-*klassenbureau:* rechtspersoon, bevoegd tot het verrichten van bij of krachtens de [artikelen 8 van het Schepenbesluit 1965](../../../../../rijksKB/schepenbesluit/1965/BWBR0002501/README.md) en [13 tot en met 18 van het Schepenbesluit 2004](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), voorgeschreven onderzoeken;  
+*klassenbureau:* rechtspersoon, bevoegd tot het verrichten van bij of krachtens de artikelen 8 van het Schepenbesluit 1965 en 13 tot en met 18 van het Schepenbesluit 2004, voorgeschreven onderzoeken;  
 
 *Maritieme Veiligheidscommissie:* de gelijknamige commissie van de Internationale Maritieme Organisatie van de Verenigde Naties; 
 
-*NEN-EN-ISO/IEC 17020 (2011):* de met de desbetreffende aanduiding overeenkomende norm, uitgegeven door het Nederlands Normalisatie-instituut te Delft; 
+*NEN-EN-ISO/IEC 17020:* NEN-EN-ISO/IEC 17020:2012 en: Europese norm voor Conformiteitsbeoordeling – Algemene criteria voor het functioneren van verschillende soorten instellingen die keuringen uitvoeren, maart 2012; 
 
 *richtlijn:* richtlijn nr. 2009/15/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 inzake gemeenschappelijke voorschriften en normen voor met de inspectie en controle van schepen belaste organisaties en voor de desbetreffende werkzaamheden van maritieme instanties (PbEG L 131);  
 
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 1.  Als klassenbureaus kunnen slechts worden aangewezen de organisaties die zijn erkend overeenkomstig de verordening.   
 2.  Indien de erkenning, bedoeld in artikel 4 van de verordening, is beperkt naar type schip, grootte van het schip, activiteit of een combinatie ervan, wordt de aanwijzing als klassenbureau op dezelfde wijze beperkt.   
-3.  Erkenning als bedoeld in artikel 4 of 15 van de verordening, geldt als erkenning als bedoeld in [artikel 6, vierde lid, van de Schepenwet](../../../../../rijkswet/schepenwet/BWBR0001876/README.md).  
+3.  Erkenning als bedoeld in artikel 4 of 15 van de verordening, geldt als erkenning als bedoeld in artikel 6, vierde lid, van de Schepenwet.  
 
 ### Artikel  3  
 
@@ -68,7 +68,7 @@ Indien de erkenning van een organisatie op grond van de verordening wordt ingetr
 
 ### Artikel  5b  
 
-1.  Als keuringsinstantie voor opblaasbare reddingmiddelen kunnen worden aangewezen rechtspersonen die voldoen aan de erkenningscriteria, opgenomen in Resolutie A.761(18) (Recommendation on conditions for the approval of servicing stations for inflatable liferafts) van de Algemene Vergadering.   
+1.  Als keuringsinstantie voor opblaasbare reddingmiddelen kunnen worden aangewezen rechtspersonen die voldoen aan de erkenningscriteria, opgenomen in Resolutie A.761(18) (Recommendation on conditions for the approval of servicing stations for inflatable liferafts), zoals gewijzigd op 17 november 2014 door resolutie MSC.388(94) van de Algemene Vergadering.   
 2.  In afwijking van het eerste lid voldoen rechtspersonen, die kunnen worden aangewezen door de bevoegde autoriteiten buiten het Koninkrijk, aan de ter plaatse gestelde erkenningcriteria.   
 3.  De uitvoering van de onderzoeken geschiedt met inachtneming van de dienaangaande in de resolutie genoemd in het eerste lid, opgenomen voorschriften.  
 
@@ -94,7 +94,7 @@ b. de rechtspersoon heeft aantoonbare ervaring met het onderzoeken van schepen b
 c. de rechtspersoon is in staat de werkzaamheden waar dan ook ter wereld te verrichten;  
 
 d. de rechtspersoon heeft een verzekering afgesloten voor wettelijke aansprakelijkheid met een dekking van minimaal € 4.000.000.     
-2.  De uitvoering van de onderzoeken geschiedt met inachtneming van NEN-EN-ISO/IEC 17020 (2011) of een daarmee vergelijkbaar kwaliteitsborgingssysteem.  
+2.  De uitvoering van de onderzoeken geschiedt met inachtneming van NEN-EN-ISO/IEC 17020 of een daarmee vergelijkbaar kwaliteitsborgingssysteem.  
 
 ### Artikel  5e  
 
@@ -107,7 +107,7 @@ b. de rechtspersoon heeft aantoonbare ervaring met het bedoelde onderzoek;
 c. de rechtspersoon is in staat de werkzaamheden waar dan ook ter wereld te verrichten;  
 
 d. de rechtspersoon heeft een verzekering afgesloten voor wettelijke aansprakelijkheid met een dekking van minimaal € 4.000.000.     
-2.  De uitvoering van de onderzoeken geschiedt met inachtneming van NEN-EN-ISO/IEC 17020 (2011) of een daarmee vergelijkbaar kwaliteitsborgingssysteem.  
+2.  De uitvoering van de onderzoeken geschiedt met inachtneming van NEN-EN-ISO/IEC 17020 of een daarmee vergelijkbaar kwaliteitsborgingssysteem.  
 
 ### Artikel  5f  
 
@@ -143,7 +143,7 @@ d. de rechtspersoon heeft aantoonbaar voor hun taak geschikt personeel dat besch
 e. de rechtspersoon hanteert een strikte scheiding tussen het personeel dat belast is met het onderzoeken en het personeel dat belast is met het inbouwen en repareren van radio-installaties en hulpmiddelen bij de navigatie;  
 
 f. de rechtspersoon is voor het doen van de onderzoeken door tenminste twee klassenbureaus aangewezen als onderaannemer.     
-2.  De uitvoering van de onderzoeken geschiedt met inachtneming van NEN-EN-ISO/IEC 17020 (2011) of een daarmee vergelijkbaar kwaliteitsborgingssysteem.   
+2.  De uitvoering van de onderzoeken geschiedt met inachtneming van NEN-EN-ISO/IEC 17020 of een daarmee vergelijkbaar kwaliteitsborgingssysteem.   
 3.  De aanwijzing tot keuringsinstantie voor radio-uitrusting heeft een geldigheidsduur van ten hoogste 5 jaar.  
 
 ### Artikel  6  
