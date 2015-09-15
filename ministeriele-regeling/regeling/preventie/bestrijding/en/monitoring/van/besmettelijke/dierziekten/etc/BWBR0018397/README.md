@@ -864,6 +864,24 @@ De minister wijst op aanvraag een locatie waar varkens worden gehouden aan als e
 
 Een varkenshouderijbedrijf of een locatie waar minder dan 5 varkens worden gehouden waarvoor geen aanvraag voor een status bij de minister is ingediend, heeft de status D-bedrijf. 
 
+### Artikel  29ha 
+
+####Clusters
+
+Treedt in werking per 01-10-2015 
+
+1.  Indien sprake is van een cluster wordt dit bij de aanvraag, bedoeld in artikel 29b, eerste lid, of artikel 29e, gemeld met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld, waarbij wordt opgegeven de samenstelling van het cluster en de verdeling van het aantal afvoeradressen onder de C-bedrijven.   
+2.  De samenstelling van een cluster en de verdeling van het aantal afvoeradressen kunnen in een periode van twaalf maanden eenmaal worden gewijzigd. Een wijziging van de samenstelling van het cluster en de verdeling van het aantal afvoeradressen wordt voorafgaand aan de toepassing van de wijziging aan de minister gemeld met gebruikmaking van een middel, dat daartoe door de minister beschikbaar is gesteld.  
+
+### Artikel  29hb 
+
+####Vaste relaties
+
+Treedt in werking per 01-10-2015 
+
+1.  Indien sprake is van een vaste relatie tussen een A-bedrijf en een E-bedrijf of tussen een B-bedrijf en een F-bedrijf, wordt dit aan de minister gemeld met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.   
+2.  Een vaste relatie als bedoeld in het eerste lid kan eenmaal per twaalf maanden wijzigen. Een wijziging wordt voorafgaand aan de toepassing van de wijziging aan de minister gemeld met gebruikmaking van een middel, dat daartoe door de minister beschikbaar is gesteld.  
+
 ### Artikel  29i  
 
 ####Schorsen van een aanwijzing varkenshouderijbedrijf
@@ -2325,7 +2343,7 @@ Als modellen van waarschuwingsborden als bedoeld in artikel 22, eerste lid, onde
 1. De kentekenen of waarschuwingsborden worden aan de ingang van de besmette of van besmetting verdachte gebouwen en terreinen, aan de bijenwoning of rondom het krachtens artikel 30 van de wet aangewezen gebied aangebracht, gehecht of geplaatst en wel zodanig dat zij duidelijk van de openbare weg af zichtbaar zijn.
 2. Waarschuwingsborden kunnen langs de openbare weg vooraangekondigd worden.
 
-###§ 2 
+### §  2  
 
 ####Het onschadelijk maken van of vernietigen van gedode of gestorven, zieke en verdachte dieren en van producten en voorwerpen die besmet zijn of ervan worden verdacht gevaar op te leveren voor verspreiding van smetstof
 
@@ -2340,6 +2358,11 @@ b. indien verordening (EG) nr. 1069/2009 niet van toepassing is:
 1°. door verbranden, onderploegen, broeien, vermenging met een ontsmettingsmiddel als bedoeld in artikel 108 of bij mest door verwerken in een mestverwerkingsinrichting, onverminderd de bepalingen van het Besluit gebruik dierlijke meststoffen op grond waarvan de mest tijdelijk wordt opgeslagen;  
 
 2°. door droge sterilisatie.     
+
+### Artikel  105a  
+Treedt in werking per 01-10-2015 
+
+Op een tegemoetkoming in de schade voor dieren, producten of voorwerpen die zijn gedood of onschadelijk gemaakt als bedoeld in artikel 86, eerste lid, van de wet wordt de eventuele opbrengst van die dieren, producten of voorwerpen in mindering gebracht. 
 
 ###§ 3 
 

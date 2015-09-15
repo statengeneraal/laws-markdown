@@ -4,7 +4,7 @@
 
 ####Stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Montenegro, anderzijds
 
-Het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie en het Verdrag betreffende de Europese Unie, hierna „lidstaten” genoemd, en de Europese Gemeenschap en de Europese Gemeenschap voor Atoomenergie, hierna „de Gemeenschap” genoemd, enerzijds, en de Republiek Montenegro, hierna „Montenegro” genoemd, anderzijds,tezamen „de partijen” genoemd, Gelet op de sterke banden tussen de partijen en de waarden die zij gemeen hebben, hun verlangen deze banden nog te versterken en op wederkerigheid en wederzijds belang gebaseerde nauwe en langdurige betrekkingen tot stand te brengen die Montenegro in staat moeten stellen de betrekkingen met de Gemeenschap en haar lidstaten te versterken en uit te breiden; Gelet op het belang van deze overeenkomst voor het stabilisatie- en associatieproces (SAP) met de landen van Zuidoost-Europa voor de totstandbrenging en handhaving van een op samenwerking gebaseerde stabiele orde in Europa, waarvan de Europese Unie een steunpilaar is, en voor het stabiliteitspact; Gezien de bereidheid van de Europese Unie om Montenegro zo volledig mogelijk te integreren in de politieke en economische hoofdstroom van Europa, en gezien de status van het land als een potentiële kandidaat voor het EU-lidmaatschap op basis van het Verdrag betreffende de Europese Unie (hierna „het EU Verdrag genoemd”) en het voldoen aan de door de Europese Raad in juni 1993 gedefinieerde criteria en de voorwaarden in het kader van het SAP, onder voorbehoud van de succesvolle tenuitvoerlegging van deze overeenkomst, met name wat betreft regionale samenwerking; Gelet op het Europees Partnerschap, waarin de prioriteiten zijn vastgesteld voor acties ter ondersteuning van de inspanningen die het land doet voor een nauwere aansluiting bij de Europese Unie; Gelet op de verbintenis van de partijen dat zij met alle mogelijke middelen zullen bijdragen tot politieke, economische en institutionele stabilisatie, in Montenegro en in de gehele regio, door de ontwikkeling van het maatschappelijk middenveld en door democratisering, institutionele opbouw en hervorming van het openbaar bestuur, regionale handelsintegratie en meer economische samenwerking, alsmede door samenwerking op veel uiteenlopende gebieden, met name op het gebied van justitie, vrijheid en veiligheid, en versterking van de nationale en regionale veiligheid; Gelet op de verbintenis van de partijen om de politieke en economische vrijheden te stimuleren als grondslag van deze overeenkomst, de mensenrechten te eerbiedigen en de rechtsstaat te handhaven, inclusief de rechten van leden van nationale minderheden, alsmede de democratische beginselen, op basis van een meerpartijenstelsel met vrije en eerlijke verkiezingen; Gelet op de verbintenis van de partijen om volledig uitvoering te geven aan alle beginselen en bepalingen van het Handvest van de Verenigde Naties, de OVSE, met name die van de Conferentie voor veiligheid en samenwerking in Europa (hierna „de Slotakte van Helsinki” genoemd), de slotdocumenten van de conferenties van Madrid en Wenen, het Handvest van Parijs voor een Nieuw Europa, en het Stabiliteitspact voor Zuidoost-Europa, teneinde bij te dragen tot regionale stabiliteit en samenwerking tussen de landen van de regio; Opnieuw bevestigend dat alle vluchtelingen en binnenlandse ontheemden recht hebben op terugkeer en op de bescherming van hun eigendom en andere hiermee verband houdende mensenrechten; Gelet op de gehechtheid van de partijen aan de beginselen van de vrijemarkteconomie duurzame ontwikkeling en de bereidheid van de Gemeenschap om aan de economische hervormingen in Montenegro bij te dragen; Gelet op het belang dat de partijen hechten aan vrijhandel, overeenkomstig de rechten en verplichtingen die voortvloeien uit het lidmaatschap van de WTO; Gelet op de wens van de partijen om de regelmatige politieke dialoog over bilaterale en internationale vraagstukken van wederzijds belang verder te ontwikkelen, met inbegrip van regionale aspecten, rekening houdend met het gemeenschappelijk buitenlands en veiligheidsbeleid (GBVB) van de Europese Unie; Gelet op de verbintenis van de partijen om de georganiseerde misdaad te bestrijden en beter samen te werken in de strijd tegen terrorisme, op basis van de verklaring van de Europese Conferentie van 20 oktober 2001; Overtuigd dat de stabilisatie- en associatieovereenkomst (hierna: „deze overeenkomst” genoemd) een nieuw klimaat zal scheppen voor hun onderlinge economische betrekkingen, in het bijzonder voor de ontwikkeling van handel en investeringen, factoren van cruciaal belang voor de economische herstructurering en modernisering; Gelet op de toezegging van Montenegro om zijn wetgeving op de relevante terreinen aan te passen aan die van de Gemeenschap en om die daadwerkelijk ten uitvoer te leggen; Rekening houdend met de bereidheid van de Gemeenschap om doorslaggevende steun te verlenen voor de tenuitvoerlegging van hervormingen en daartoe gebruik te maken van alle beschikbare instrumenten voor samenwerking en technische, financiële en economische bijstand, op een brede, indicatieve meerjarige basis; Bevestigend dat de bepalingen van deze overeenkomst die binnen de toepassingssfeer van deel III, titel IV, van het Verdrag tot oprichting van de Europese Gemeenschap (hierna „het EG-Verdrag genoemd”) vallen, het Verenigd Koninkrijk en Ierland binden als afzonderlijke verdragsluitende partijen, en niet als deel van de Europese Gemeenschap, totdat het Verenigd Koninkrijk of Ierland (al naargelang van het geval) Montenegro ervan in kennis stelt dat het Verenigd Koninkrijk of Ierland is gebonden als deel van de Europese Gemeenschap overeenkomstig het Protocol betreffende de positie van het Verenigd Koninkrijk en Ierland dat aan het EU-Verdrag en het EG-Verdrag is gehecht. Hetzelfde geldt voor Denemarken, overeenkomstig het Protocol betreffende de positie van Denemarken dat aan die verdragen is gehecht; Wijzend op de top van Zagreb, waarop werd opgeroepen tot verdere consolidatie van de betrekkingen tussen de landen die deel uitmaken van het stabilisatie- en associatieproces en de Europese Unie, alsmede tot intensievere samenwerking in de regio; Eraan herinnerend dat de top van Thessaloniki het stabilisatie- en associatieproces heeft bevestigd als het beleidskader voor de betrekkingen van de Europese Unie met de landen op de Westelijke Balkan en dat die landen naargelang van hun individuele voortgang en prestaties met betrekking tot de hervormingen uitzicht hebben op toetreding tot de Europese Unie; Wijzend op de Midden-Europese Vrijhandelsovereenkomst, die op 19 december 2006 in Boekarest werd ondertekend, als middel om de regio beter in staat te stellen investeringen aan te trekken en haar integratie in de wereldeconomie te bevorderen; Gezien de wens om de culturele samenwerking te intensiveren en de uitwisseling van informatie te bevorderen;   Zijn het volgende overeengekomen:<sup>1)[Red: De Bijlagen bij de Overeenkomst en bij de Protocollen liggen ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken en zijn te vinden op http://eur-lex/europa.eu/nl/index.htm.]</sup>    
+Het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie en het Verdrag betreffende de Europese Unie, hierna „lidstaten” genoemd, en de Europese Gemeenschap en de Europese Gemeenschap voor Atoomenergie, hierna „de Gemeenschap” genoemd, enerzijds, en de Republiek Montenegro, hierna „Montenegro” genoemd, anderzijds,tezamen „de partijen” genoemd, Gelet op de sterke banden tussen de partijen en de waarden die zij gemeen hebben, hun verlangen deze banden nog te versterken en op wederkerigheid en wederzijds belang gebaseerde nauwe en langdurige betrekkingen tot stand te brengen die Montenegro in staat moeten stellen de betrekkingen met de Gemeenschap en haar lidstaten te versterken en uit te breiden; Gelet op het belang van deze overeenkomst voor het stabilisatie- en associatieproces (SAP) met de landen van Zuidoost-Europa voor de totstandbrenging en handhaving van een op samenwerking gebaseerde stabiele orde in Europa, waarvan de Europese Unie een steunpilaar is, en voor het stabiliteitspact; Gezien de bereidheid van de Europese Unie om Montenegro zo volledig mogelijk te integreren in de politieke en economische hoofdstroom van Europa, en gezien de status van het land als een potentiële kandidaat voor het EU-lidmaatschap op basis van het Verdrag betreffende de Europese Unie (hierna „het EU Verdrag genoemd”) en het voldoen aan de door de Europese Raad in juni 1993 gedefinieerde criteria en de voorwaarden in het kader van het SAP, onder voorbehoud van de succesvolle tenuitvoerlegging van deze overeenkomst, met name wat betreft regionale samenwerking; Gelet op het Europees Partnerschap, waarin de prioriteiten zijn vastgesteld voor acties ter ondersteuning van de inspanningen die het land doet voor een nauwere aansluiting bij de Europese Unie; Gelet op de verbintenis van de partijen dat zij met alle mogelijke middelen zullen bijdragen tot politieke, economische en institutionele stabilisatie, in Montenegro en in de gehele regio, door de ontwikkeling van het maatschappelijk middenveld en door democratisering, institutionele opbouw en hervorming van het openbaar bestuur, regionale handelsintegratie en meer economische samenwerking, alsmede door samenwerking op veel uiteenlopende gebieden, met name op het gebied van justitie, vrijheid en veiligheid, en versterking van de nationale en regionale veiligheid; Gelet op de verbintenis van de partijen om de politieke en economische vrijheden te stimuleren als grondslag van deze overeenkomst, de mensenrechten te eerbiedigen en de rechtsstaat te handhaven, inclusief de rechten van leden van nationale minderheden, alsmede de democratische beginselen, op basis van een meerpartijenstelsel met vrije en eerlijke verkiezingen; Gelet op de verbintenis van de partijen om volledig uitvoering te geven aan alle beginselen en bepalingen van het Handvest van de Verenigde Naties, de OVSE, met name die van de Slotakte van de Conferentie voor veiligheid en samenwerking in Europa (hierna „de Slotakte van Helsinki” genoemd), de slotdocumenten van de conferenties van Madrid en Wenen, het Handvest van Parijs voor een Nieuw Europa, en het Stabiliteitspact voor Zuidoost-Europa, teneinde bij te dragen tot regionale stabiliteit en samenwerking tussen de landen van de regio; Opnieuw bevestigend dat alle vluchtelingen en binnenlandse ontheemden recht hebben op terugkeer en op de bescherming van hun eigendom en andere hiermee verband houdende mensenrechten; Gelet op de gehechtheid van de partijen aan de beginselen van de vrijemarkteconomie duurzame ontwikkeling en de bereidheid van de Gemeenschap om aan de economische hervormingen in Montenegro bij te dragen; Gelet op het belang dat de partijen hechten aan vrijhandel, overeenkomstig de rechten en verplichtingen die voortvloeien uit het lidmaatschap van de WTO; Gelet op de wens van de partijen om de regelmatige politieke dialoog over bilaterale en internationale vraagstukken van wederzijds belang verder te ontwikkelen, met inbegrip van regionale aspecten, rekening houdend met het gemeenschappelijk buitenlands en veiligheidsbeleid (GBVB) van de Europese Unie; Gelet op de verbintenis van de partijen om de georganiseerde misdaad te bestrijden en beter samen te werken in de strijd tegen terrorisme, op basis van de verklaring van de Europese Conferentie van 20 oktober 2001; Overtuigd dat de stabilisatie- en associatieovereenkomst (hierna: „deze overeenkomst” genoemd) een nieuw klimaat zal scheppen voor hun onderlinge economische betrekkingen, in het bijzonder voor de ontwikkeling van handel en investeringen, factoren van cruciaal belang voor de economische herstructurering en modernisering; Gelet op de toezegging van Montenegro om zijn wetgeving op de relevante terreinen aan te passen aan die van de Gemeenschap en om die daadwerkelijk ten uitvoer te leggen; Rekening houdend met de bereidheid van de Gemeenschap om doorslaggevende steun te verlenen voor de tenuitvoerlegging van hervormingen en daartoe gebruik te maken van alle beschikbare instrumenten voor samenwerking en technische, financiële en economische bijstand, op een brede, indicatieve meerjarige basis; Bevestigend dat de bepalingen van deze overeenkomst die binnen de toepassingssfeer van deel III, titel IV, van het Verdrag tot oprichting van de Europese Gemeenschap (hierna „het EG-Verdrag genoemd”) vallen, het Verenigd Koninkrijk en Ierland binden als afzonderlijke verdragsluitende partijen, en niet als deel van de Europese Gemeenschap, totdat het Verenigd Koninkrijk of Ierland (al naargelang van het geval) Montenegro ervan in kennis stelt dat het Verenigd Koninkrijk of Ierland is gebonden als deel van de Europese Gemeenschap overeenkomstig het Protocol betreffende de positie van het Verenigd Koninkrijk en Ierland dat aan het EU-Verdrag en het EG-Verdrag is gehecht. Hetzelfde geldt voor Denemarken, overeenkomstig het Protocol betreffende de positie van Denemarken dat aan die verdragen is gehecht; Wijzend op de top van Zagreb, waarop werd opgeroepen tot verdere consolidatie van de betrekkingen tussen de landen die deel uitmaken van het stabilisatie- en associatieproces en de Europese Unie, alsmede tot intensievere samenwerking in de regio; Eraan herinnerend dat de top van Thessaloniki het stabilisatie- en associatieproces heeft bevestigd als het beleidskader voor de betrekkingen van de Europese Unie met de landen op de Westelijke Balkan en dat die landen naargelang van hun individuele voortgang en prestaties met betrekking tot de hervormingen uitzicht hebben op toetreding tot de Europese Unie; Wijzend op de Midden-Europese Vrijhandelsovereenkomst, die op 19 december 2006 in Boekarest werd ondertekend, als middel om de regio beter in staat te stellen investeringen aan te trekken en haar integratie in de wereldeconomie te bevorderen; Gezien de wens om de culturele samenwerking te intensiveren en de uitwisseling van informatie te bevorderen;   Zijn het volgende overeengekomen:<sup>1)[Red: De Bijlagen bij de Overeenkomst en bij de Protocollen liggen ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken en zijn te vinden op http://eur-lex/europa.eu/nl/index.htm.]</sup>    
 
 ### Artikel  1  
 
@@ -604,7 +604,7 @@ De partijen verbinden zich ertoe, overeenkomstig artikel VIII van de Statuten va
 
 ### Artikel  63  
 
-1.  Met betrekking tot de verrichtingen op de kapitaalrekening en de financiële rekening van de betalingsbalans garanderen de partijen vanaf de inwerkingtreding van de overeenkomst het vrije verkeer van kapitaal dat verband houdt met directe investeringen in ondernemingen die in overeenstemming met de wetten van het gastland zijn opgericht, en met investeringen in overeenstemming met hoofdstuk II van titel V, alsook de liquidatie of de repatriëring van die investeringen en van alle opbrengsten daarvan.   
+1.  Met betrekking tot de verrichtingen op de kapitaalrekening en de financiële rekening van de betalingsbalans garanderen de partijen vanaf de inwerkingtreding van deze overeenkomst het vrije verkeer van kapitaal dat verband houdt met directe investeringen in ondernemingen die in overeenstemming met de wetten van het gastland zijn opgericht, en met investeringen in overeenstemming met hoofdstuk II van titel V, alsook de liquidatie of de repatriëring van die investeringen en van alle opbrengsten daarvan.   
 2.  Met betrekking tot verrichtingen op de kapitaalrekening van de betalingsbalans waarborgen de partijen vanaf de inwerkingtreding van de overeenkomst het vrije verkeer van kapitaal met betrekking tot kredieten die verband houden met handelstransacties of het verrichten van diensten waarbij een ingezetene van een der partijen betrokken is, alsmede met financiële leningen en kredieten met een looptijd van meer dan een jaar.   
 3.  Montenegro kent vanaf de inwerkingtreding van de overeenkomst nationale behandeling toe aan onderdanen van de EU die onroerend goed verwerven op het grondgebied van Montenegro.   
 4.  De Gemeenschap en Montenegro waarborgen voorts vanaf de inwerkingtreding van deze overeenkomst het vrije verkeer van kapitaal in verband met beleggingen en financiële leningen en kredieten met een looptijd van minder dan een jaar.   
@@ -1252,551 +1252,39 @@ b. van oorsprong uit Montenegro en geproduceerd overeenkomstig de Montenegrijnse
 
 ### Protocol  3  
 
-####Betreffende de definitie van het begrip „Producten van oorsprong” en regelingen voor administratieve samenwerking in verband met de toepassing van de Overeenkomst tussen de Gemeenschap en Montenegro
-
-### TITEL  I  
-
-####ALGEMENE BEPALINGEN
+####betreffende de definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking
 
 ### Artikel  1  
 
-####Definities
+####Toepasselijke regels van oorsprong
 
-Voor de toepassing van dit protocol wordt verstaan onder: 
-
-a. „vervaardiging”: elk type be- of verwerking, met inbegrip van assemblage of speciale behandelingen;  
-
-b. „materiaal”: alle ingrediënten, grondstoffen, componenten, delen en dergelijke die bij de vervaardiging van het product worden gebruikt;  
-
-c. „product”: het verkregen product, zelfs indien het bestemd is om later bij de vervaardiging van een ander product te worden gebruikt;  
-
-d. „goederen”: zowel materialen als producten;  
-
-e. „douanewaarde”: de waarde zoals bepaald bij de Overeenkomst inzake de toepassing van artikel VII van de Algemene Overeenkomst betreffende tarieven en handel van 1994 (Overeenkomst inzake de douanewaarde van de WTO);  
-
-f. „prijs af fabriek”: de prijs die voor het product af fabriek is betaald aan de fabrikant in de Gemeenschap of in Montenegro in wiens bedrijf de laatste be- of verwerking is verricht, mits in die prijs de waarde van alle gebruikte materialen is inbegrepen, verminderd met alle binnenlandse belastingen die worden of kunnen worden terugbetaald wanneer het verkregen product wordt uitgevoerd;  
-
-g. „waarde van de materialen”: de douanewaarde ten tijde van de invoer van de gebruikte materialen die niet van oorsprong zijn, of, indien deze niet bekend is en niet kan worden vastgesteld, de eerste controleerbare prijs die voor de materialen in de Gemeenschap of in Montenegro is betaald;  
-
-h. „waarde van de materialen van oorsprong”: de waarde van deze materialen als omschreven onder g), welke omschrijving van dienovereenkomstige toepassing is;  
-
-i. „toegevoegde waarde”: de prijs af fabriek verminderd met de douanewaarde van alle gebruikte materialen van oorsprong uit de andere in de artikelen 3 en 4 genoemde landen of, indien de douanewaarde niet bekend is of niet kan worden vastgesteld, de eerste verifieerbare prijs die in de Gemeenschap of in Montenegro voor deze materialen werd betaald;  
-
-j. „hoofdstukken” en „posten”: de hoofdstukken en posten (viercijfercodes) van de nomenclatuur die het geharmoniseerde systeem inzake de omschrijving en codering van goederen vormt, in dit protocol „het geharmoniseerde systeem” of „GS” genoemd;  
-
-k. „ingedeeld”: de indeling van een product of materiaal onder een bepaalde post;  
-
-l. „zending”: producten die gelijktijdig van één exporteur naar één geadresseerde worden verzonden of vergezeld gaan van één vervoersdocument dat de verzending van de exporteur naar de geadresseerde dekt, of bij gebreke daarvan, één factuur;  
-
-m. „gebieden”: ook de territoriale wateren.   
-
-### TITEL  II  
-
-####DEFINITIE VAN HET BEGRIP „PRODUCTEN VAN OORSPRONG”
+Voor de toepassing van deze overeenkomst zijn aanhangsel I en de relevante bepalingen van aanhangsel II van de Regionale Conventie betreffende de pan-Euro-mediterrane preferentiële oorsprongsregels<sup> 1)  *PbEU* L 54 van 26.2.2013, blz. 4. </sup> („de conventie”), van toepassing. Alle verwijzingen naar de „desbetreffende overeenkomst” in aanhangsel I en in de desbetreffende bepalingen van aanhangsel II van de Conventie gelden als verwijzingen naar deze overeenkomst. 
 
 ### Artikel  2  
 
-####Algemene eisen
+####Geschillenregeling
 
-1.  Voor de toepassing van deze overeenkomst worden de volgende producten beschouwd van oorsprong te zijn uit de Gemeenschap: 
-
-a. geheel en al in de Gemeenschap verkregen producten in de zin van artikel 5;  
-
-b. in de Gemeenschap verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in de Gemeenschap een be- of verwerking hebben ondergaan die toereikend is in de zin van artikel 6.     
-2.  Voor de toepassing van deze overeenkomst worden de volgende producten beschouwd als van oorsprong uit Montenegro: 
-
-a. geheel en al in Montenegro verkregen producten in de zin van artikel 5;  
-
-b. in Montenegro verkregen producten waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in Montenegro een be- of verwerking hebben ondergaan die toereikend is in de zin van artikel 6.    
+Indien er een geschil ontstaat in verband met de controleprocedures in artikel 32 van aanhangsel I van de conventie dat niet kan worden opgelost door de douaneautoriteit die de controle heeft aangevraagd en de douaneautoriteit die de controle moet uitvoeren, wordt het aan de Stabilisatie- en associatieraad voorgelegd. In alle gevallen is de wetgeving van het land van invoer van toepassing op de regeling van geschillen tussen een importeur en de douaneautoriteiten van het land van invoer.
 
 ### Artikel  3  
 
-####Cumulatie in de Gemeenschap
+####Wijzigingen van het protocol
 
-1.  Onverminderd het bepaalde in artikel 2, lid 1, worden producten als van oorsprong uit de Gemeenschap beschouwd indien zij aldaar zijn verkregen door be- of verwerking van materialen van oorsprong uit Montenegro, de Gemeenschap of een ander land of grondgebied dat deelneemt aan het stabilisatie- en associatieproces van de Europese Unie<sup> 2) Zoals vastgesteld in de conclusies van de Raad Algemene Zaken van april 1997 en de mededeling van de Commissie van mei 1999 over het stabilisatie- en associatieproces met de Westelijke Balkan. </sup> , of door be- of verwerking van materialen van oorsprong uit Turkije waarop Beschikking nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995<sup>1)Besluit nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995 is van toepassing op producten niet zijnde landbouwproducten als omschreven in de Overeenkomst tot oprichting van een associatie tussen de Europese Economische Gemeenschap en Turkije en producten niet zijnde kool- en staalproducten als omschreven in de overeenkomst tussen de Europese Gemeenschap voor Kolen en Staal en de Republiek Turkije betreffende handel in producten die vallen onder het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal.</sup> van toepassing is, mits deze materialen in de Gemeenschap bewerkingen hebben ondergaan die ingrijpender zijn dan die bedoeld in artikel 7. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.   
-2.  Indien de in de Gemeenschap verrichte be- of verwerkingen niet ingrijpender zijn dan de in artikel 7 bedoelde be- of verwerkingen, wordt het verkregen product alleen als van oorsprong uit de Gemeenschap beschouwd indien de aldaar toegevoegde waarde groter is dan die van de gebruikte materialen van oorsprong uit een van de andere in lid 1 bedoelde landen. Is dit niet het geval, dan wordt het verkregen product beschouwd als van oorsprong uit het land dat de hoogste waarde vertegenwoordigt van de bij de vervaardiging in de Gemeenschap gebruikte materialen van oorsprong.   
-3.  Producten van oorsprong uit een van de in de lid 1 genoemde landen en grondgebieden die in de Gemeenschap geen enkele be- of verwerking ondergaan, behouden hun oorsprong wanneer zij naar een van deze landen worden uitgevoerd.   
-4.  De cumulatie waarin dit artikel voorziet, kan slechts worden toegepast indien: 
-
-a. tussen de landen of grondgebieden die betrokken zijn bij het verwerven van de oorsprong en het land van bestemming een preferentiële handelsovereenkomst overeenkomstig artikel XXIV van de Algemene Overeenkomst inzake tarieven en handel (GATT 1994) van toepassing is;  
-
-b. materialen en producten de oorsprong hebben verkregen door de toepassing van oorsprongsregels die identiek zijn met die in dit protocol; en  
-
-c. in het Publicatieblad van de Europese Unie (C-reeks) en in Montenegro volgens de eigen procedures van dat land berichten zijn gepubliceerd waarin wordt aangegeven dat aan de eisen voor de toepassing van cumulatie is voldaan.   De cumulatie waarin dit artikel voorziet, is van toepassing met ingang van de datum die is aangegeven in de kennisgeving in de C-reeks van het Publicatieblad van de Europese Unie. De Gemeenschap zal Montenegro door tussenkomst van de Europese Commissie nadere gegevens verstrekken over de overeenkomsten en de daarin opgenomen oorsprongsregels, die met de andere in lid 1 genoemde landen worden toegepast. De cumulatie geldt niet voor de in bijlage V vermelde producten.  
+De Stabilisatie- en associatieraad kan besluiten bepalingen van dit protocol te wijzigen. 
 
 ### Artikel  4  
 
-####Cumulatie in Montenegro
+####Opzegging van de conventie
 
-1.  Onverminderd het bepaalde in artikel 2, lid 2, worden producten als van oorsprong uit Montenegro beschouwd indien zij aldaar zijn verkregen door be- of verwerking van materialen van oorsprong uit de Gemeenschap, Montenegro of een ander land of grondgebied dat deelneemt aan het stabilisatie- en associatieproces van de Europese Unie<sup> 3) Zoals vastgesteld in de conclusies van de Raad Algemene Zaken van april 1997 en de mededeling van de Commissie van mei 1999 over het stabilisatie- en associatieproces met de Westelijke Balkan. </sup> , of door be- of verwerking van materialen van oorsprong uit Turkije waarop Beschikking nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995 <sup>1) Besluit nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995 is van toepassing op producten niet zijnde landbouwproducten als omschreven in de Overeenkomst tot oprichting van een associatie tussen de Europese Economische Gemeenschap en Turkije en producten niet zijnde kool- en staalproducten als omschreven in de overeenkomst tussen de Europese Gemeenschap voor Kolen en Staal en de Republiek Turkije betreffende handel in producten die vallen onder het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal.</sup> van toepassing is, mits deze materialen in de Gemeenschap bewerkingen hebben ondergaan die ingrijpender zijn dan die bedoeld in artikel 7. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.   
-2.  Indien de in Montenegro verrichte be- of verwerkingen niet ingrijpender zijn dan de in artikel 7 bedoelde be- of verwerkingen, wordt het verkregen product alleen als van oorsprong uit Montenegro beschouwd indien de aldaar toegevoegde waarde groter is dan die van de gebruikte materialen van oorsprong uit een van de andere in lid 1 bedoelde landen en gebieden. Is dit niet het geval, dan wordt het verkregen product beschouwd als van oorsprong uit het land dat de meeste waarde heeft toegevoegd aan de materialen van oorsprong die bij de vervaardiging in Montenegro gebruikt zijn.   
-3.  Producten van oorsprong uit een van de in de lid 1 genoemde landen en grondgebieden die in Montenegro geen enkele be- of verwerking ondergaan, behouden hun oorsprong wanneer zij naar een van deze landen worden uitgevoerd.   
-4.  De cumulatie waarin dit artikel voorziet, kan slechts worden toegepast indien: 
-
-a. tussen de landen of grondgebieden die betrokken zijn bij het verwerven van de oorsprong en het land van bestemming een preferentiële handelsovereenkomst overeenkomstig artikel XXIV van de Algemene Overeenkomst inzake tarieven en handel (GATT 1994) van toepassing is;  
-
-b. materialen en producten de oorsprong hebben verkregen door de toepassing van oorsprongsregels die identiek zijn met die in dit protocol; en  
-
-c. in het Publicatieblad van de Europese Unie (C-reeks) en in Montenegro volgens de eigen procedures van dat land berichten zijn gepubliceerd waarin wordt aangegeven dat aan de eisen voor de toepassing van cumulatie is voldaan.   De cumulatie waarin dit artikel voorziet, is van toepassing met ingang van de datum die is aangegeven in de kennisgeving in de C-reeks van het Publicatieblad van de Europese Unie. Montenegro verstrekt de Gemeenschap door tussenkomst van de Europese Commissie nadere bijzonderheden over de overeenkomsten, zoals de datum van inwerkingtreding en de erin opgenomen oorsprongsregels, die met de andere in lid 1 genoemde landen worden toegepast. De cumulatie geldt niet voor de in bijlage V vermelde producten.  
+1.  Indien ofwel de Europese Unie ofwel Montenegro de depositaris van de conventie schriftelijk te kennen geeft de conventie op grond van artikel 9 te willen opzeggen, onderhandelen de Europese Unie en Montenegro onmiddellijk over oorsprongsregels voor de toepassing van deze overeenkomst.   
+2.  Tot de inwerkingtreding van deze nieuw overeengekomen oorsprongsregels, blijven op deze overeenkomst de op het moment van opzegging geldende oorsprongsregels in aanhangsel I en, in voorkomend geval, de relevante bepalingen van aanhangsel II van de conventie van toepassing. Vanaf de opzegging worden de oorsprongsregels in aanhangsel I en, in voorkomend geval, de relevante bepalingen van aanhangsel II van de conventie echter zo uitgelegd dat zij uitsluitend bilaterale cumulatie tussen de Europese Unie en Montenegro toestaan.  
 
 ### Artikel  5  
 
-####Geheel en al verkregen producten
+####Overgangsbepalingen – cumulatie
 
-1.  Als geheel en al in de Gemeenschap of in Montenegro verkregen worden beschouwd: 
-
-a. aldaar uit de bodem of zeebodem gewonnen producten;  
-
-b. aldaar geoogste producten van het plantenrijk;  
-
-c. aldaar geboren en opgefokte levende dieren;  
-
-d. producten afkomstig van aldaar gehouden levende dieren;  
-
-e. voortbrengselen van de aldaar bedreven jacht en visserij;  
-
-f. producten van de zeevisserij en andere buiten de territoriale wateren van de Gemeenschap of Montenegro door hun schepen uit de zee gewonnen producten;  
-
-g. producten die, uitsluitend uit de onder f) bedoelde producten, aan boord van hun fabrieksschepen zijn vervaardigd;  
-
-h. aldaar verzamelde gebruikte artikelen die slechts voor de terugwinning van grondstoffen kunnen dienen, met inbegrip van gebruikte banden die uitsluitend geschikt zijn om van een nieuw loopvak te worden voorzien of slechts als afval kunnen worden gebruikt;  
-
-i. afval en schroot afkomstig van aldaar verrichte fabrieksbewerkingen;  
-
-j. producten, gewonnen van of vanonder de zeebodem buiten de territoriale wateren, mits zij alleen het recht hebben op ontginning van deze boden of ondergrond;  
-
-k. goederen die aldaar uitsluitend uit de onder a) tot en met j) bedoelde producten zijn vervaardigd.     
-2.  De termen „hun schepen” en „hun fabrieksschepen” in lid 1, onder f) en g), zijn slechts van toepassing op schepen en fabrieksschepen: 
-
-a. die in een lidstaat van de Gemeenschap of in Montenegro zijn ingeschreven of geregistreerd;  
-
-b. die de vlag van een lidstaat van de Gemeenschap of van Montenegro voeren;  
-
-c. die voor ten minste 50% toebehoren aan onderdanen van lidstaten van de Gemeenschap of onderdanen van Montenegro of aan een vennootschap die haar hoofdkantoor in een van deze staten heeft en waarvan de bedrijfsvoerders), de voorzitter van de raad van bestuur of van toezicht en de meerderheid van de leden van deze raden onderdaan zijn van een lidstaat van de Gemeenschap of onderdaan van Montenegro en waarvan bovendien, in het geval van personenvennootschappen of vennootschappen met beperkte aansprakelijkheid, ten minste de helft van het kapitaal toebehoort aan deze staten of aan openbare lichamen of onderdanen van deze staten;  
-
-d. waarvan de kapitein en de officieren onderdaan zijn van een lidstaat van de Gemeenschap of onderdaan van Montenegro; en  
-
-e. waarvan de bemanning voor ten minste 75% bestaat uit onderdanen van lidstaten of van Montenegro.    
-
-### Artikel  6  
-
-####Toereikende bewerking of verwerking
-
-1.  Voor de toepassing van artikel 2 worden producten die niet geheel en al verkregen zijn, geacht een toereikende bewerking of verwerking te hebben ondergaan indien aan de voorwaarden van de lijst in bijlage II is voldaan. Die voorwaarden geven voor alle onder deze overeenkomst vallende producten aan welke be- of verwerkingen niet van oorsprong zijnde materialen moeten ondergaan om het karakter van product van oorsprong te verkrijgen, en zijn slechts op die materialen van toepassing. Dit betekent dat indien een product dat de oorsprong heeft verkregen doordat het aan de voorwaarden in die lijst voor dat product heeft voldaan, als materiaal gebruikt wordt bij de vervaardiging van een ander product, de voorwaarden die van toepassing zijn op het product waarin het wordt verwerkt daarvoor niet gelden. Er wordt dan geen rekening gehouden met niet van oorsprong zijnde materialen die bij de vervaardiging ervan zijn gebruikt.   
-2.  In afwijking van lid 1 kunnen niet van oorsprong zijnde materialen die, volgens de voorwaarden in de lijst, bij de vervaardiging van een product niet mogen worden gebruikt, toch worden gebruikt, indien: 
-
-a. wanneer de totale waarde ervan niet hoger is dan 10 procent van de prijs af fabriek van het product;  
-
-b. wanneer in de lijst een of meer percentages zijn gegeven voor de maximumwaarde van de materialen die niet van oorsprong zijn, en deze percentages door de toepassing van dit lid niet worden overschreden.   Dit lid is niet van toepassing op de producten die onder de hoofdstukken 50 tot en met 63 van het geharmoniseerde systeem zijn ingedeeld.   
-3.  De leden 1 en 2 zijn van toepassing onder voorbehoud van het bepaalde in artikel 7.  
-
-### Artikel  7  
-
-####Ontoereikende bewerking of verwerking
-
-1.  Behoudens het bepaalde in lid 2 worden de volgende be- of verwerkingen als ontoereikend beschouwd om de oorsprong te verlenen, ongeacht of aan de voorwaarden van artikel 6 is voldaan: 
-
-a. behandelingen om de producten tijdens vervoer en opslag in goede staat te bewaren;  
-
-b. het splitsen en samenvoegen van colli;  
-
-c. het wassen, schoonmaken; het stofvrij maken, verwijderen van roest, olie, verf of dergelijke;  
-
-d. het strijken of persen van textiel;  
-
-e. het schilderen of polijsten;  
-
-f. het ontvliezen of doppen, het geheel of gedeeltelijk bleken, het polijsten of vlampolijsten van granen of rijstdoppen;  
-
-g. het kleuren van suiker of het vormen van suikerklonten;  
-
-h. het pellen, ontpitten of schillen van noten, vruchten of groenten;  
-
-i. het aanscherpen, vermalen of versnijden;  
-
-j. het zeven, sorteren, classificeren, assorteren; (daaronder begrepen het samenstellen van sets van artikelen);  
-
-k. het bottelen, verpakken in blikken, flesjes, zakken, dozen of andere omhulsels, het bevestigen op kaarten of platen, en alle andere eenvoudige verrichtingen in verband met de opmaak;  
-
-l. het aanbrengen of opdrukken op de producten zelf of hun verpakking van merken, etiketten, beeldmerken of andere soortgelijke merktekens;  
-
-m. het mengen van producten, ook van verschillende soorten; het mengen van suiker met andere stoffen;  
-
-n. het samenvoegen van delen van artikelen tot een volledig artikel dan wel het uit elkaar nemen van artikelen in onderdelen;  
-
-o. twee of meer van de onder a) tot en met n) vermelde behandelingen tezamen;  
-
-p. het slachten van dieren.     
-2.  Om te bepalen of de be- of verwerkingen die een bepaald product heeft ondergaan ontoereikend zijn in de zin van lid 1 worden alle be- of verwerkingen die dit product in de Gemeenschap of in Montenegro heeft ondergaan tezamen genomen.  
-
-### Artikel  8  
-
-####Determinerende eenheid
-
-1.  De determinerende eenheid voor de toepassing van de bepalingen van dit protocol is het product dat volgens de nomenclatuur van het geharmoniseerde systeem als de basiseenheid wordt beschouwd. Hieruit volgt: 
-
-a. wanneer een product, bestaande uit een groep of verzameling van artikelen, onder één enkele post van het geharmoniseerde systeem wordt ingedeeld, het geheel de in aanmerking te nemen eenheid vormt;  
-
-b. wanneer een zending bestaat uit een aantal eendere producten die onder dezelfde post van het geharmoniseerde systeem worden ingedeeld, elk product voor de toepassing van de bepalingen van dit protocol afzonderlijk moet worden genomen.     
-2.  Wanneer volgens algemene regel 5 voor de interpretatie van het geharmoniseerde systeem de verpakking meetelt voor het vaststellen van de indeling, telt deze ook mee voor het vaststellen van de oorsprong.  
-
-### Artikel  9  
-
-####Accessoires, vervangingsonderdelen en gereedschap
-
-Accessoires, vervangingsonderdelen en gereedschappen die samen met materieel, machines, apparaten of voertuigen worden geleverd en deel uitmaken van de normale uitrusting daarvan en in de prijs daarvan zijn inbegrepen of niet afzonderlijk in rekening worden gebracht, worden geacht één geheel te vormen met het materieel en de machines, apparaten of voertuigen in kwestie. 
-
-### Artikel  10  
-
-####Stellen en assortimenten
-
-Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie van het geharmoniseerde systeem, worden als van oorsprong beschouwd indien alle samenstellende delen van oorsprong zijn. Een stel of assortiment bestaande uit producten van oorsprong en producten die niet van oorsprong zijn, wordt als van oorsprong beschouwd indien de waarde van de producten die niet van oorsprong zijn niet meer dan 15 procent van de prijs af fabriek van het stel of assortiment bedraagt. 
-
-### Artikel  11  
-
-####Neutrale elementen
-
-Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsprong na te gaan van bij de vervaardiging gebruikte: 
-
-a. energie en brandstof;  
-
-b. fabrieksuitrusting;  
-
-c. machines en werktuigen;  
-
-d. goederen die in de uiteindelijke samenstelling van het product niet voorkomen en ook niet bedoeld waren daarin voor te komen.   
-
-### TITEL  III  
-
-####TERRITORIALE VOORWAARDEN
-
-### Artikel  12  
-
-####Territorialiteitsbeginsel
-
-1.  Aan de in titel II genoemde voorwaarden voor het verkrijgen van de oorsprong moet zonder onderbreking in de Gemeenschap of in Montenegro zijn voldaan, behoudens het bepaalde in de artikelen 3 en 4, en in lid 3 van dit artikel.   
-2.  Behoudens het bepaalde in de artikelen 3 en 4 worden producten van oorsprong die uit de Gemeenschap of Montenegro naar een ander land worden uitgevoerd en vervolgens opnieuw worden ingevoerd, als niet van oorsprong beschouwd, tenzij ten genoegen van de douaneautoriteiten wordt aangetoond dat: 
-
-a. de terugkerende goederen dezelfde zijn als de eerder uitgevoerde goederen; en tevens  
-
-b. de goederen tijdens de periode dat zij waren uitgevoerd geen andere be- of verwerkingen hebben ondergaan dan die welke noodzakelijk waren om ze in goede staat te bewaren.     
-3.  Een buiten de Gemeenschap of Montenegro verrichte be- of verwerking van de uit de Gemeenschap of Montenegro uitgevoerde en later wederingevoerde materialen ontneemt niet het karakter van product van oorsprong overeenkomstig het bepaalde in titel II indien: 
-
-a. de genoemde materialen geheel en al in de Gemeenschap of Montenegro zijn verkregen dan wel, voorafgaand aan de uitvoer, aldaar een meer ingrijpende be- of verwerking dan de in artikel 7 vermelde hebben ondergaan; en tevens  
-
-b. ten genoegen van de douaneautoriteiten kan worden aangetoond dat: 
-
-i. de wederingevoerde goederen het resultaat zijn van de be- of verwerking van de uitgevoerde materialen; en tevens  
-
-ii. de totale buiten de Gemeenschap of Montenegro toegevoegde waarde niet meer dan 10% bedraagt van de prijs af fabriek van het als product van oorsprong aangemerkte eindproduct.       
-4.  Voor de toepassing van lid 3 is het bepaalde in titel II betreffende het verlenen van de oorsprong niet van toepassing op buiten de Gemeenschap of Montenegro verrichte be- of verwerkingen. Wanneer evenwel, in de lijst van bijlage II, voor de vaststelling van de oorsprong van het betrokken eindproduct een regel is opgenomen die de maximumwaarde van alle gebruikte niet van oorsprong zijnde materialen vaststelt, mogen de totale waarde van de niet van oorsprong zijnde materialen die in het gebied van de betrokken partij worden verwerkt en de totale buiten de Gemeenschap of Montenegro overeenkomstig dit artikel toegevoegde waarde het vermelde percentage niet overschrijden.   
-5.  Voor de toepassing van het bepaalde in de leden 3 en 4 wordt onder „totale toegevoegde waarde” verstaan alle buiten de Gemeenschap of Montenegro gemaakte kosten, met inbegrip van de waarde van de toegevoegde materialen.   
-6.  De leden 3 en 4 zijn niet van toepassing op producten die niet aan de voorwaarden van de lijst in bijlage II voldoen of die slechts kunnen worden aangemerkt als toereikend te zijn be- of verwerkt door toepassing van de algemene tolerantieregel van artikel 6, lid 2.   
-7.  De leden 3 en 4 zijn niet van toepassing op producten van de hoofdstukken 50 tot en met 63 van het geharmoniseerd systeem.   
-8.  Buiten de Gemeenschap of Montenegro verrichte be- of verwerkingen als bedoeld in dit artikel vinden plaats in het kader van de regeling passieve veredeling of een soortgelijke regeling.  
-
-### Artikel  13  
-
-####Rechtstreeks vervoer
-
-1.  De bij deze overeenkomst vastgestelde preferentiële regeling is uitsluitend van toepassing op producten die aan de voorwaarden van dit protocol voldoen en die rechtstreeks tussen de Gemeenschap en Montenegro of over het grondgebied van een in de artikelen 3 en 4 genoemd ander land of gebied zijn vervoerd. Goederen die één enkele zending vormen, kunnen via een ander grondgebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dit grondgebied, voor zover zij in het land van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren. Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat van de Gemeenschap of van Montenegro worden vervoerd.   
-2.  Het bewijs dat aan de in lid 1 bedoelde voorwaarden is voldaan, wordt geleverd door overlegging van de volgende stukken aan de douane van het land van invoer: 
-
-a. een enkel vervoerdocument dat het vervoer dekt van het land van uitvoer door het land van doorvoer; of  
-
-b. een door de douaneautoriteiten van het land van doorvoer afgegeven certificaat: 
-
-i. met een nauwkeurige omschrijving van de goederen;  
-
-ii. met de data waarop de producten gelost en opnieuw geladen zijn, in voorkomend geval onder vermelding van de gebruikte schepen of andere vervoermiddelen; en tevens  
-
-iii. met een verklaring over de voorwaarden waarop de goederen in het land van doorvoer verbleven; of    
-
-c. hetzij, bij gebreke van bovengenoemde stukken, enig ander bewijsstuk.    
-
-### Artikel  14  
-
-####Tentoonstellingen
-
-1.  Deze overeenkomst is van toepassing op producten van oorsprong die naar een tentoonstelling in een ander of grondgebied dan de in de artikelen 3 en 4 genoemde landen zijn verzonden en die na de tentoonstelling zijn verkocht en in de Gemeenschap of in Montenegro worden ingevoerd, mits ten genoegen van de douaneautoriteiten wordt aangetoond dat: 
-
-a. een exporteur deze producten vanuit de Gemeenschap of Montenegro naar het land van de tentoonstelling heeft verzonden en daar heeft tentoongesteld;  
-
-b. deze exporteur de producten heeft verkocht of op een andere wijze heeft afgestaan aan een geadresseerde in de Gemeenschap of Montenegro;  
-
-c. de producten tijdens of onmiddellijk na de tentoonstelling in dezelfde staat als waarin zij naar de tentoonstelling zijn gegaan zijn verzonden; en tevens  
-
-d. de goederen vanaf het moment dat zij naar de tentoonstelling werden verzonden, niet voor andere doeleinden zijn gebruikt dan om op die tentoonstelling te worden vertoond.     
-2.  Een bewijs van de oorsprong wordt overeenkomstig de bepalingen van titel V afgegeven of opgesteld en op de normale wijze bij de douane van het land van invoer ingediend. Op dit bewijs zijn de naam en het adres van de tentoonstelling vermeld. Indien nodig kunnen aanvullende bewijsstukken worden verlangd ten aanzien van de aard van de producten en de voorwaarden waarop zij waren tentoongesteld.   
-3.  Lid 1 is van toepassing op alle tentoonstellingen, beurzen of soortgelijke openbare evenementen met een commercieel, industrieel, agrarisch of ambachtelijk karakter die niet voor particuliere doeleinden in winkels of bedrijfsruimten met het oog op de verkoop van buitenlandse producten worden gehouden, en gedurende welke de producten onder douanetoezicht zijn gebleven.  
-
-### TITEL  IV  
-
-####TERUGGAVE EN VRIJSTELLING VAN RECHTEN
-
-### Artikel  15  
-
-####Verbod op de teruggave of vrijstelling van douanerechten
-
-1.  Niet van oorsprong zijnde materialen die gebruikt zijn bij de vervaardiging van producten van oorsprong uit de Gemeenschap, Montenegro of een van de andere in de artikelen 3 en 4 genoemde landen of gebieden waarvoor overeenkomstig titel V een bewijs van oorsprong is afgegeven of opgesteld, komen in de Gemeenschap of in Montenegro niet in aanmerking voor teruggave of vrijstelling van douanerechten in welke vorm dan ook.   
-2.  Het verbod in lid 1 is van toepassing op elke regeling voor terugbetaling of algehele of gedeeltelijke vrijstelling van douanerechten of heffingen van gelijke werking die in de Gemeenschap of in Montenegro van toepassing is op materialen die bij de vervaardiging zijn gebruikt, indien een dergelijke terugbetaling of vrijstelling uitdrukkelijk of feitelijk wordt toegekend indien de producten die uit genoemde materialen zijn verkregen worden uitgevoerd, doch niet van toepassing is indien deze producten voor binnenlands gebruik zijn bestemd.   
-3.  De exporteur van producten die door een bewijs van oorsprong zijn gedekt, dient steeds bereid te zijn op verzoek van de douaneautoriteiten alle stukken over te leggen waaruit blijkt dat geen teruggave of vrijstelling van rechten is verkregen ten aanzien van de bij de vervaardiging van de betrokken producten gebruikte materialen die niet van oorsprong zijn en dat alle douanerechten en heffingen van gelijke werking die op deze materialen van toepassing zijn, daadwerkelijk zijn betaald.   
-4.  De leden 1, 2 en 3 zijn ook van toepassing op de verpakking in de zin van artikel 8, lid 2, op accessoires, vervangingsonderdelen en gereedschappen in de zin van artikel 9 en op artikelen die deel uitmaken van een stel of assortiment in de zin van artikel 10, wanneer dergelijke producten niet van oorsprong zijn.   
-5.  De leden 1 tot en met 4 zijn uitsluitend van toepassing op materialen van de soort waarop deze overeenkomst van toepassing is. Zij doen geen afbreuk aan het systeem van restituties bij de uitvoer van landbouwproducten overeenkomstig de bepalingen van de overeenkomst.  
-
-### TITEL  V  
-
-####BEWIJS VAN OORSPRONG
-
-### Artikel  16  
-
-####Algemene voorwaarden
-
-1.  Deze overeenkomst is van toepassing op producten van oorsprong uit de Gemeenschap die in Montenegro worden ingevoerd en op producten van oorsprong uit Montenegro die in de Gemeenschap worden ingevoerd, op vertoon van: 
-
-a. een certificaat inzake goederenverkeer EUR.1, waarvan het model in bijlage III is opgenomen; of  
-
-b. in de in artikel 22, lid 1, bedoelde gevallen, een verklaring van de exporteur (hierna „factuurverklaring” genoemd) op een factuur, pakbon of een ander handelsdocument, waarin de producten duidelijk genoeg zijn omschreven om geïdentificeerd te kunnen worden; de tekst van deze factuurverklaring is opgenomen in bijlage IV.     
-2.  In afwijking van lid 1 vallen producten van oorsprong in de zin van dit protocol in de in artikel 27 bedoelde gevallen onder de toepassing van deze overeenkomst zonder dat een van de hierboven genoemde documenten behoeft te worden overgelegd.  
-
-### Artikel  17  
-
-####Procedure voor de afgifte van een certificaat inzake goederenverkeer EUR.1
-
-1.  Een certificaat inzake goederenverkeer EUR.1 wordt afgegeven door de douane van het land van uitvoer op schriftelijke aanvraag van de exporteur of, onder diens verantwoordelijkheid, van zijn gemachtigde vertegenwoordiger.   
-2.  Te dien einde vult de exporteur of diens gemachtigde vertegenwoordiger zowel het certificaat inzake goederenverkeer EUR.1 als het aanvraagformulier in. Modellen van beide formulieren zijn in bijlage III opgenomen. Deze formulieren worden ingevuld in een van de talen waarin deze overeenkomst is opgesteld overeenkomstig het nationale recht van het land van uitvoer. Indien de formulieren met de hand worden ingevuld, dient dit met inkt en in blokletters te gebeuren. De producten moeten worden omschreven in het daartoe bestemde vak en er mogen geen regels worden opengelaten. Indien dit vak niet volledig is ingevuld, wordt onder de laatste regel een horizontale lijn getrokken en het niet-ingevulde gedeelte doorgekruist.   
-3.  De exporteur die om de afgifte van een certificaat inzake goederenverkeer EUR.1 verzoekt, dient op verzoek van de douane van het land van uitvoer waar dit certificaat wordt afgegeven, steeds de nodige documenten over te leggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan alle andere voorwaarden van dit protocol is voldaan.   
-4.  Een certificaat inzake goederenverkeer EUR.1 wordt afgegeven door de douaneautoriteiten van een lidstaat van de Gemeenschap of van Montenegro indien de producten kunnen worden beschouwd als producten van oorsprong uit de Gemeenschap, Montenegro of een van de andere in de artikelen 3 en 4 genoemde landen of gebieden, en aan de andere voorwaarden van dit protocol is voldaan.   
-5.  De met de afgifte van certificaten inzake goederenverkeer EUR.1 belaste douaneautoriteiten nemen alle nodige maatregelen om te controleren of de producten daadwerkelijk van oorsprong zijn, en gaan na of aan alle andere voorwaarden van dit protocol is voldaan. Met het oog hierop zijn zij gerechtigd bewijsstukken op te vragen, de administratie van de exporteur in te zien en alle andere controles te verrichten die zij dienstig achten. Zij zien er ook op toe dat de in lid 2 bedoelde formulieren correct zijn ingevuld. Met name wordt nagegaan of het voor de omschrijving van de goederen bestemde vak zodanig is ingevuld dat frauduleuze toevoegingen niet mogelijk zijn.   
-6.  De datum van afgifte van het certificaat inzake goederenverkeer EUR.1 wordt vermeld in vak 11 van het certificaat.   
-7.  Een certificaat inzake goederenverkeer EUR.1 wordt door de douane afgegeven en ter beschikking van de exporteur gesteld zodra de goederen werkelijk worden uitgevoerd of wanneer het zeker is dat zij zullen worden uitgevoerd.  
-
-### Artikel  18  
-
-####Afgifte achteraf van een certificaat inzake goederenverkeer EUR.1
-
-1.  In afwijking van artikel 17, lid 7, kan een certificaat inzake goederenverkeer EUR.1 bij wijze van uitzondering na de uitvoer van de goederen waarop het betrekking heeft worden afgegeven, indien 
-
-a. dit door een vergissing, onopzettelijk verzuim of bijzondere omstandigheden niet bij de uitvoer is gebeurd; of  
-
-b. ten genoegen van de douane is aangetoond dat het certificaat inzake goederenverkeer EUR.1 wel is afgegeven, maar bij invoer om technische redenen niet is aanvaard.     
-2.  Met het oog op de toepassing van lid 1 dient de exporteur in zijn aanvraag de plaats en de datum van uitvoer te vermelden van de producten waarop het certificaat inzake goederenverkeer EUR.1 betrekking heeft, onder opgave van de redenen van zijn aanvraag.   
-3.  Vóór de douane tot afgifte achteraf van een certificaat inzake goederenverkeer EUR.1 overgaat, dient zij te hebben vastgesteld dat de gegevens in de aanvraag van de exporteur overeenstemmen met die in het desbetreffende dossier.   
-4.  Op een achteraf afgegeven certificaat inzake goederenverkeer EUR.1 wordt in de Engelse taal de volgende aantekening aangebracht: „ISSUED RETROSPECTIVELY”.   
-5.  De in lid 4 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen” van het certificaat inzake goederenverkeer EUR.1.  
-
-### Artikel  19  
-
-####Afgifte van een duplicaat van een certificaat inzake goederenverkeer EUR.1
-
-1.  In geval van diefstal, verlies of vernietiging van een certificaat inzake goederenverkeer EUR.1, kan de exporteur de douaneautoriteiten die dit certificaat hadden afgegeven, verzoeken een duplicaat op te maken aan de hand van de uitvoerdocumenten die in hun bezit zijn.   
-2.  Op het aldus afgegeven duplicaat wordt in de Engelse taal de volgende aantekening aangebracht: „DUPLICATE”.   
-3.  De in lid 2 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen” van het duplicaat van het certificaat inzake goederenverkeer EUR.1.   
-4.  Het duplicaat, dat dezelfde datum van afgifte draagt als het oorspronkelijke certificaat inzake goederenverkeer EUR.1, geldt vanaf die datum.  
-
-### Artikel  20  
-
-####Afgifte van een certificaat inzake goederenverkeer EUR.1 aan de hand van een eerder opgesteld of afgegeven bewijs van oorsprong
-
-Voor producten van oorsprong die in de Gemeenschap of in Montenegro onder toezicht van een douanekantoor zijn geplaatst, kan het oorspronkelijke bewijs van oorsprong door een of meer certificaten inzake goederenverkeer EUR.1 worden vervangen bij verzending van deze producten of een gedeelte daarvan naar een andere plaats in de Gemeenschap of in Montenegro. Dit certificaat wordt of deze certificaten worden afgegeven door het douanekantoor dat op de producten toezicht houdt. 
-
-### Artikel  21  
-
-####Gescheiden boekhouding
-
-1.  Wanneer het met aanzienlijke kosten of moeilijkheden gepaard gaat om afzonderlijke voorraden aan te houden van identieke en onderling verwisselbare materialen die van oorsprong en die niet van oorsprong zijn, kunnen de douaneautoriteiten, op schriftelijk verzoek van de betrokkene, toestaan dat voor het beheer van deze voorraden de methode van de gescheiden boekhouding wordt gebruikt.   
-2.  Met behulp van deze gescheiden boekhouding moet het mogelijk zijn dat in een bepaalde referentieperiode eenzelfde aantal producten „van oorsprong” wordt verkregen als verkregen zou zijn indien de voorraden fysiek waren gescheiden.   
-3.  De douaneautoriteiten kunnen vergunning verlenen voor het gebruik van deze methode op de door hen wenselijk geachte voorwaarden.   
-4.  Deze methode wordt geregistreerd en toegepast op basis van de algemene boekhoudbeginselen die van toepassing zijn in het land waar het product is vervaardigd.   
-5.  Het bedrijf dat deze vergunning heeft verkregen kan bewijzen van de oorsprong afgeven of aanvragen, al naar gelang van het geval, voor de hoeveelheid producten die als van oorsprong kunnen worden beschouwd. De vergunninghouder verstrekt op verzoek van de douaneautoriteiten een verklaring over de wijze waarop de hoeveelheden zijn beheerd.   
-6.  De douaneautoriteiten houden toezicht op het gebruik van de vergunning en kunnen deze steeds intrekken wanneer de vergunninghouder deze niet correct gebruikt of niet aan een van de andere in dit protocol omschreven voorwaarden voldoet.  
-
-### Artikel  22  
-
-####Het opstellen van een factuurverklaring
-
-1.  De in artikel 16, lid 1, onder b), genoemde factuurverklaring kan worden opgesteld door: 
-
-a. toegelaten exporteurs in de zin van artikel 23; of  
-
-b. een willekeurige exporteur, voor zendingen bestaande uit een of meer colli met producten van oorsprong waarvan de totale waarde niet meer dan 6.000 euro bedraagt.     
-2.  Een factuurverklaring kan worden opgesteld indien de producten kunnen worden beschouwd als van oorsprong uit de Gemeenschap, uit Montenegro of uit een van de in de artikelen 3 en 4 genoemde landen of gebieden, en tevens aan de andere voorwaarden van dit protocol voldoen.   
-3.  De exporteur die de factuurverklaring opstelt, moet op verzoek van de douane van het land van uitvoer steeds de nodige documenten kunnen overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan de andere voorwaarden van dit protocol is voldaan.   
-4.  Deze factuurverklaring, waarvan de tekst in bijlage IV is opgenomen, wordt door de exporteur op de factuur, de pakbon of een ander handelsdocument getypt, gestempeld of gedrukt in een van de in die bijlage opgenomen talenversies, overeenkomstig de bepalingen van het nationale recht van het land van uitvoer. De factuurverklaring kan ook met de hand, met inkt en in blokletters, worden opgesteld.   
-5.  De factuurverklaring wordt door de exporteur eigenhandig ondertekend. Een toegelaten exporteur in de zin van artikel 23 behoeft deze verklaring echter niet te ondertekenen, mits hij de douane een schriftelijke verklaring doet toekomen waarin hij de volle verantwoordelijkheid op zich neemt voor alle factuurverklaringen waaruit zijn identiteit blijkt, alsof hij deze eigenhandig had ondertekend.   
-6.  Een factuurverklaring kan door de exporteur worden opgesteld bij de uitvoer van de producten waarop zij betrekking heeft of later, maar moet uiterlijk twee jaar na de invoer van de producten waarop zij betrekking heeft in het land van invoer worden aangeboden.  
-
-### Artikel  23  
-
-####Toegelaten exporteurs
-
-1.  De douane van het land van uitvoer kan exporteurs, hierna „toegelaten exporteurs” genoemd, die veelvuldig producten verzenden waarop deze overeenkomst van toepassing is, vergunning verlenen factuurverklaringen op te stellen, ongeacht de waarde van de betrokken producten. Om voor een dergelijke vergunning in aanmerking te komen, moet de exporteur naar het oordeel van de douane de nodige waarborgen bieden met betrekking tot de controle op de oorsprong van de producten en de naleving van alle andere voorwaarden van dit protocol.   
-2.  De douaneautoriteiten kunnen het verlenen van de status van toegelaten exporteur afhankelijk stellen van door hen noodzakelijk geachte voorwaarden.   
-3.  De douane kent de toegelaten exporteur een nummer toe, dat op de factuurverklaringen moet worden vermeld.   
-4.  De douane houdt toezicht op het gebruik van de vergunning door de toegelaten exporteur.   
-5.  De douaneautoriteiten kunnen de vergunning te allen tijde intrekken. Zij zijn verplicht dit te doen wanneer de toegelaten exporteur niet meer de in lid 1 bedoelde garanties biedt, niet meer aan de in lid 2 bedoelde voorwaarden voldoet, of de vergunning oneigenlijk gebruikt.  
-
-### Artikel  24  
-
-####Geldigheid van bewijzen van oorsprong
-
-1.  Een bewijs van oorsprong is vier maanden geldig vanaf de datum van afgifte in het land van uitvoer. Het moet binnen deze periode worden ingediend bij de douane van het land van invoer.   
-2.  Bewijzen van oorsprong die na het verstrijken van de in lid 1 genoemde termijn bij de douane van het land van invoer worden ingediend, kunnen met het oog op de toepassing van de preferentiële behandeling worden aanvaard wanneer de verlate indiening het gevolg is van overmacht of buitengewone omstandigheden.   
-3.  In andere gevallen van verlate indiening kan de douane van het land van invoer de bewijzen van oorsprong aanvaarden indien de producten vóór het verstrijken van genoemde termijn bij haar zijn aangebracht.  
-
-### Artikel  25  
-
-####Overlegging van bewijzen van oorsprong
-
-Bewijzen van oorsprong worden bij de douane van het land van invoer ingediend overeenkomstig de aldaar geldende procedures. Deze autoriteiten kunnen om een vertaling van dit bewijs vragen. Zij kunnen voorts eisen dat de aangifte ten invoer vergezeld gaat van een verklaring van de importeur dat de producten aan de voorwaarden voor de toepassing van deze overeenkomst voldoen. 
-
-### Artikel  26  
-
-####Invoer in deelzendingen
-
-Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het land van invoer vastgestelde voorwaarden, gedemonteerde of niet-gemonteerde producten in de zin van algemene regel 2 a) voor de interpretatie van het geharmoniseerd systeem, vallende onder de afdelingen XVI en XVII of de posten 7308 en 9406 van het geharmoniseerd systeem, in deelzendingen worden ingevoerd, wordt één enkel bewijs van oorsprong bij de douaneautoriteiten ingediend bij de invoer van de eerste deelzending. 
-
-### Artikel  27  
-
-####Vrijstelling van bewijs van oorsprong
-
-1.  Goederen die in kleine zendingen door particulieren aan particulieren worden verzonden of die deel uitmaken van de persoonlijke bagage van reizigers worden als producten van oorsprong toegelaten zonder dat een bewijs van oorsprong behoeft te worden overgelegd, voor zover aan zulke goederen ieder handelskarakter vreemd is en verklaard wordt dat zij aan de voorwaarden voor de toepassing van dit protocol voldoen en er over de juistheid van deze verklaring geen twijfel bestaat. Voor postzendingen kan deze verklaring op het douaneaangifteformulier CN22/CN23 of op een daaraan gehecht blad worden gesteld.   
-2.  Als invoer waaraan ieder handelskarakter vreemd is, wordt beschouwd de invoer van incidentele aard van goederen die uitsluitend bestemd zijn voor persoonlijk gebruik door de geadresseerde, de reiziger of de leden van hun gezin, mits noch de aard, noch de hoeveelheid van de goederen op commerciële doeleinden wijzen.   
-3.  Voorts mag de totale waarde van deze producten niet meer bedragen dan 500 euro voor kleine zendingen of 1.200 euro voor producten die deel uitmaken van de persoonlijke bagage van reizigers.  
-
-### Artikel  28  
-
-####Bewijsstukken
-
-De in artikel 17, lid 3, en artikel 22, lid 3, bedoelde documenten aan de hand waarvan wordt aangetoond dat producten die door een certificaat inzake goederenverkeer EUR.1 of een factuurverklaring worden gedekt, producten van oorsprong zijn uit de Gemeenschap, Montenegro of een van de andere in de artikelen 3 en 4 genoemde landen of gebieden en aan de andere voorwaarden van dit protocol voldoen, kunnen onder meer de volgende zijn: 
-
-a. een rechtstreeks bewijs, bijvoorbeeld aan de hand van de boekhouding of de interne administratie van de exporteur of leverancier, van de door deze uitgevoerde be- of verwerkingen om de producten te verkrijgen;  
-
-b. in de Gemeenschap of in Montenegro afgegeven of opgestelde en volgens het nationale recht gebruikte documenten waaruit de oorsprong van de gebruikte materialen blijkt;  
-
-c. in de Gemeenschap of in Montenegro afgegeven of opgestelde en volgens het nationale recht gebruikte documenten waaruit be- of verwerking in de Gemeenschap of in Montenegro blijkt;  
-
-d. certificaten inzake goederenverkeer EUR.1 of factuurverklaringen waaruit de oorsprong van de gebruikte materialen blijkt, die overeenkomstig dit protocol in de Gemeenschap of in Montenegro zijn afgegeven of opgesteld, of die in een van de in de artikelen 3 en 4 genoemde landen of gebieden zijn opgesteld overeenkomstig oorsprongsregels die gelijk zijn aan de oorsprongsregels van dit protocol;  
-
-e. passende bewijsstukken inzake be- of verwerking buiten de Gemeenschap of Montenegro overeenkomstig artikel 12, waaruit blijkt dat aan de eisen van dat artikel is voldaan.   
-
-### Artikel  29  
-
-####Bewaring van de bewijzen van oorsprong en de andere bewijsstukken
-
-1.  Exporteurs die om de afgifte van een certificaat inzake goederenverkeer EUR.1 verzoeken, dienen de in artikel 17, lid 3, bedoelde documenten ten minste drie jaar te bewaren.   
-2.  De exporteur die een factuurverklaring heeft opgesteld, bewaart een kopie van deze factuurverklaring en van de in artikel 22, lid 3, bedoelde documenten gedurende ten minste drie jaar.   
-3.  De douane van het land van uitvoer die een certificaat inzake goederenverkeer EUR.1 afgeeft, bewaart het in artikel 17, lid 2, bedoelde aanvraagformulier ten minste drie jaar.   
-4.  De douane van het land van invoer bewaart de certificaten inzake goederenverkeer EUR.1 en factuurverklaringen die bij haar werden ingediend gedurende ten minste drie jaar.  
-
-### Artikel  30  
-
-####Verschillen en vormfouten
-
-1.  Geringe verschillen tussen de gegevens op het bewijs van oorsprong en de gegevens op de documenten die voor het vervullen van de invoerformaliteiten bij het douanekantoor worden ingediend, maken het certificaat inzake goederenverkeer EUR.1 of de factuurverklaring niet automatisch ongeldig, indien blijkt dat het document wel degelijk met de aangebrachte goederen overeenstemt.   
-2.  Kennelijke vormfouten, zoals typefouten, op het bewijs van oorsprong leiden niet tot weigering van dit document indien deze fouten niet van dien aard zijn dat zij twijfel doen rijzen over de juistheid van de daarin vermelde gegevens.  
-
-### Artikel  31  
-
-####Bedragen in euro
-
-1.  Voor de toepassing van artikel 22, lid 1, onder b), en artikel 27, lid 3, wordt, wanneer de producten gefactureerd zijn in een andere valuta dan de euro, de tegenwaarde van de in euro uitgedrukte bedragen in de nationale valuta van de lidstaten van de Gemeenschap, van Montenegro of van een van de andere landen of gebieden bedoeld in de artikelen 3 en 4, jaarlijks door elk van de betrokken landen vastgesteld.   
-2.  Artikel 22, lid 1, onder b), en artikel 27, lid 3, zijn van toepassing op zendingen op basis van de valuta waarin de factuur is opgesteld, overeenkomstig het bedrag dat door het betrokken land is vastgesteld.   
-3.  De in een bepaalde nationale valuta te gebruiken bedragen zijn de tegenwaarde in die valuta van de in euro uitgedrukte bedragen op de eerste werkdag van oktober. De tegenwaarde wordt de Europese Commissie voor 15 oktober medegedeeld en is van toepassing vanaf 1 januari van het daaropvolgende jaar. De Europese Commissie stelt alle betrokken landen in kennis van de desbetreffende tegenwaarden.   
-4.  Een land mag het bedrag dat het resultaat is van de omrekening in zijn nationale valuta van een in euro uitgedrukt bedrag naar boven of beneden afronden. Het afgeronde bedrag mag niet meer dan 5 procent afwijken van het door omrekening verkregen bedrag. Een land kan de tegenwaarde in zijn nationale valuta van een in euro uitgedrukt bedrag ongewijzigd handhaven, indien bij de omrekening van dit bedrag, ten tijde van de in lid 3 bedoelde jaarlijkse aanpassing, vóór afronding, een stijging van minder 15 procent van die tegenwaarde wordt verkregen. De tegenwaarde in nationale valuta kan ongewijzigd blijven, indien de omrekening tot een daling van de tegenwaarde leidt.   
-5.  De in euro uitgedrukte bedragen worden door het Stabilisatie- en associatiecomité op verzoek van de Gemeenschap of Montenegro herzien. Bij deze herziening onderzoekt het comité of het wenselijk is de betreffende limieten in reële termen te handhaven. Het kan te dien einde besluiten de in euro uitgedrukte bedragen te wijzigen.  
-
-### TITEL  VI  
-
-####ADMINISTRATIEVE SAMENWERKING
-
-### Artikel  32  
-
-####Wederzijdse bijstand
-
-1.  De douaneautoriteiten van de lidstaten van de Gemeenschap en van Montenegro doen elkaar via de Europese Commissie afdrukken toekomen van de stempels die in hun douanekantoren worden gebruikt bij de afgifte van certificaten inzake goederenverkeer EUR.1, alsmede de adressen van de douanediensten die belast zijn met de controle van deze certificaten en de factuurverklaringen.   
-2.  Met het oog op de correcte toepassing van dit protocol verlenen de Gemeenschap en Montenegro elkaar via de bevoegde douane-instanties bijstand bij de controle op de echtheid van certificaten inzake goederenverkeer EUR.1 en factuurverklaringen en de juistheid van de daarop vermelde gegevens.  
-
-### Artikel  33  
-
-####Controle van de bewijzen van oorsprong
-
-1.  Bewijzen van oorsprong worden achteraf steekproefsgewijs gecontroleerd, alsmede wanneer de douaneautoriteiten van het land van invoer redenen hebben om te twijfelen aan de echtheid van deze documenten, de oorsprong van de betrokken producten of de naleving van de andere voorwaarden van dit protocol.   
-2.  Met het oog op de toepassing van lid 1 zenden de douaneautoriteiten van het land van invoer het certificaat inzake goederenverkeer EUR.1, de factuur, indien deze werd voorgelegd, de factuurverklaring of een kopie van deze documenten, terug aan de douaneautoriteiten van het land van uitvoer, in voorkomend geval onder vermelding van de redenen waarom een onderzoek wordt aangevraagd. Zij verstrekken bij deze aanvraag om controle alle documenten en gegevens die het vermoeden hebben doen rijzen dat de gegevens op het bewijs van oorsprong onjuist zijn.   
-3.  De controle wordt verricht door de douane van het land van uitvoer. Met het oog hierop zijn zij gerechtigd bewijsstukken op te vragen, de administratie van de exporteur in te zien en alle andere controles te verrichten die zij dienstig achten.   
-4.  Indien de douane van het land van invoer besluit de preferentiële behandeling niet toe te kennen zolang de uitslag van de controle niet bekend is, doet zij de importeur het voorstel de producten vrij te geven onder voorbehoud van de noodzakelijk geachte conservatoire maatregelen.   
-5.  De resultaten van de controle worden zo spoedig mogelijk medegedeeld aan de douanedienst die de controle heeft aangevraagd. In deze mededeling moet duidelijk worden aangegeven of de documenten al dan niet echt zijn, of de betrokken producten als producten van oorsprong uit de Gemeenschap, Montenegro of een van de andere in de artikelen 3 en 4 genoemde landen of gebieden beschouwd kunnen worden en of aan de andere voorwaarden van dit protocol is voldaan.   
-6.  Indien bij gegronde twijfel binnen tien maanden na het verzoek om controle geen antwoord is ontvangen of indien het antwoord niet voldoende gegevens bevat om de echtheid van het betrokken document of de werkelijke oorsprong van de producten vast te stellen, kent de aanvragende douanedienst de preferentiële behandeling niet toe, behoudens buitengewone omstandigheden.  
-
-### Artikel  34  
-
-####Beslechting van geschillen
-
-Geschillen ten aanzien van de in artikel 33 bedoelde controles die niet onderling geregeld kunnen worden tussen de douaneautoriteiten die de controle hebben aangevraagd en de douaneautoriteiten die deze hebben moeten uitvoeren, en problemen in verband met de interpretatie van dit protocol worden aan het Stabilisatie- en associatiecomité voorgelegd. In alle gevallen is de wetgeving van het land van invoer van toepassing op de beslechting van geschillen tussen een importeur en de douane van het land van invoer. 
-
-### Artikel  35  
-
-####Sancties
-
-Sancties worden getroffen tegen ieder die een document met onjuiste gegevens opstelt of laat opstellen met het doel goederen onder de preferentiële regeling te doen vallen. 
-
-### Artikel  36  
-
-####Vrije zones
-
-1.  De Gemeenschap en Montenegro nemen alle nodige maatregelen om te voorkomen dat producten die onder geleide van een bewijs van oorsprong worden verhandeld en die tijdens het vervoer in een op hun grondgebied gelegen vrije zone verblijven, door andere goederen worden vervangen of andere behandelingen ondergaan dan die welke gebruikelijk zijn om ze in goede staat te bewaren.   
-2.  In afwijking van het bepaalde in lid 1 geven de bevoegde autoriteiten, wanneer producten van oorsprong uit de Gemeenschap of uit Montenegro die onder dekking van een bewijs van oorsprong in een vrije zone zijn ingevoerd, een be- of verwerking ondergaan, op verzoek van de exporteur een nieuw certificaat inzake goederenverkeer EUR.1 af, mits deze be- of verwerking in overeenstemming is met de bepalingen van dit protocol.  
-
-### TITEL  VII  
-
-####CEUTA EN MELILLA
-
-### Artikel  37  
-
-####Toepassing van dit protocol
-
-1.  De in artikel 2 gebruikte term „Gemeenschap” heeft geen betrekking op Ceuta of Melilla.   
-2.  Producten van oorsprong uit Montenegro die in Ceuta of Melilla worden ingevoerd, vallen in elk opzicht onder dezelfde douaneregeling als de regeling die op grond van Protocol 2 bij de Akte van Toetreding van het Koninkrijk Spanje en de Republiek Portugal tot de Europese Gemeenschappen van toepassing is op producten van oorsprong uit het douanegebied van de Gemeenschap. Montenegro past op onder deze overeenkomst vallende producten van oorsprong uit Ceuta en Melilla dezelfde regeling toe als op producten van oorsprong uit de Gemeenschap die uit de Gemeenschap worden ingevoerd.   
-3.  Bij toepassing van lid 2 op producten van oorsprong uit Ceuta en Melilla is dit protocol van overeenkomstige toepassing, met inachtneming van de bijzondere voorwaarden van artikel 38.  
-
-### Artikel  38  
-
-####Bijzondere voorwaarden
-
-1.  Mits zij rechtstreeks zijn vervoerd overeenkomstig het bepaalde in artikel 13, worden beschouwd als: 
-
-1. producten van oorsprong uit Ceuta en Melilla: 
-
-a. geheel en al in Ceuta en Melilla verkregen producten;  
-
-b. in Ceuta en Melilla verkregen producten bij de vervaardiging waarvan andere dan de onder (a) bedoelde producten zijn gebruikt, mits: 
-
-i. die producten be- of verwerkingen hebben ondergaan die toereikend zijn in de zin van artikel 6; of voor zover  
-
-ii. die producten van oorsprong zijn uit Montenegro of uit de Gemeenschap, en be- of verwerkingen hebben ondergaan die meer omvatten dan de in artikel 7, lid 1, bedoelde be- of verwerkingen;      
-
-2. producten van oorsprong uit Montenegro: 
-
-a. geheel en al in Montenegro verkregen producten;  
-
-b. in Montenegro verkregen producten, bij de vervaardiging waarvan andere dan de onder (a) bedoelde producten zijn gebruikt, voor zover: 
-
-i. die producten be- of verwerkingen hebben ondergaan die toereikend zijn in de zin van artikel 6; of voor  
-
-ii. die producten van oorsprong zijn uit Ceuta en Melilla of uit de Gemeenschap, en be- of verwerkingen hebben ondergaan die meer omvatten dan de in artikel 7, lid 1, bedoelde be- of verwerkingen.         
-2.  Ceuta en Melilla worden als één grondgebied beschouwd.   
-3.  De exporteur of zijn gemachtigde vertegenwoordiger vermeldt „Montenegro” en „Ceuta en Melilla” in vak 2 van het certificaat inzake goederenverkeer EUR.1 of op de factuurverklaring. Voor producten van oorsprong uit Ceuta en Melilla wordt dit bovendien vermeld in vak 4 van het certificaat inzake goederenverkeer EUR.1 of op de factuurverklaring.   
-4.  De Spaanse douaneautoriteiten zijn belast met de toepassing van dit protocol in Ceuta en Melilla.  
-
-### TITEL  VIII  
-
-####SLOTBEPALINGEN
-
-### Artikel  39  
-
-####Wijzigingen van dit protocol
-
-De Stabilisatie- en associatieraad kan besluiten bepalingen van dit protocol te wijzigen. 
+1.  Niettegenstaande artikel 3 van aanhangsel I van de conventie blijven de in de artikelen 3 en 4 van protocol nr. 3 bij deze overeenkomst vastgestelde regels betreffende cumulatie, zoals goedgekeurd door de Europese Unie en Montenegro bij het sluiten van de overeenkomst<sup> 2)  *PbEU* L 108 van 29.4.2010, blz. 3. </sup>, van toepassing tussen de partijen bij deze overeenkomst tot de conventie voor alle in die artikelen genoemde overeenkomstsluitende partijen bij de conventie van toepassing is geworden.   
+2.  Niettegenstaande artikel 16, lid 5, en artikel 21, lid 3, van aanhangsel I van de conventie mag het bewijs van oorsprong een certificaat inzake goederenverkeer EUR.1 of een oorsprongsverklaring zijn indien bij de cumulatie alleen EVA-landen, de Faeröer, de Europese Unie, Turkije en de deelnemers aan het stabilisatie- en associatieproces zijn betrokken.  
 
 ### Protocol  4  
 
@@ -2035,7 +1523,7 @@ d. het coördineren van de activiteiten op het gebied van controle, prognoses en
 
 4. Montenegro dient een nationaal herstructureringsprogramma en individuele bedrijfsplannen voor elk van de bedrijven die herstructureringssteun krijgen, ter evaluatie bij de Europese Commissie in; daaruit moet blijken dat aan de genoemde voorwaarden is voldaan. De individuele bedrijfsplannen worden geëvalueerd en goedgekeurd door de autoriteit in Montenegro die toezicht uitoefent op de staatssteun in het licht van de vereisten van punt 3 van dit protocol. De Europese Commissie bevestigt dat het nationale herstructureringsprogramma conform de vereisten van punt 3 is.  
 
-5. De Commissie houdt toezicht op de uitvoering van de plannen in nauwe samenwerking met de bevoegde nationale autoriteiten, met name de autoriteit in Montenegro die toezicht uitoefent op de staatssteun.  
+5. De Europese Commissie houdt toezicht op de uitvoering van de plannen in nauwe samenwerking met de bevoegde nationale autoriteiten, met name de autoriteit in Montenegro die toezicht uitoefent op de staatssteun.  
 
 6. Indien uit het toezicht blijkt dat steun aan begunstigden die niet is goedgekeurd door het nationale herstructureringsprogramma, of enige andere herstructureringssteun aan staalbedrijven die niet in het nationale herstructureringsprogramma is geïdentificeerd, na de datum van de ondertekening van deze overeenkomst werd toegekend, zorgt de autoriteit in Montenegro die toezicht uitoefent op de staatssteun ervoor dat deze wordt teruggestort.  
 
@@ -2432,7 +1920,7 @@ De specifieke voorwaarden voor de deelname van Montenegro aan elk afzonderlijk p
 
 ### Artikel  6  
 
-Overeenkomstig het financieel reglement van de Gemeenschap wordt in het memorandum van overeenstemming bepaald dat door of op gezag van de Europese Commissie, OLAF en de Rekenkamer van de Europese Gemeenschappen financiële controles of audits worden verricht. Er worden gedetailleerde bepalingen vastgesteld inzake financiële controle en audits, administratieve maatregelen, sancties en invordering, waarbij aan de Europese Commissie, het Europees Bureau voor fraudebestrijding (OLAF) en de Rekenkamer bevoegdheden worden toegekend die gelijkwaardig zijn met hun bevoegdheden ten aanzien van begunstigden of contractanten die in de Gemeenschap zijn gevestigd. 
+Overeenkomstig het financieel reglement van de Gemeenschap wordt in het memorandum van overeenstemming bepaald dat door of op gezag van de Europese Commissie, het Europees Bureau voor fraudebestrijding (OLAF) en de Rekenkamer van de Europese Gemeenschappen financiële controles of audits worden verricht. Er worden gedetailleerde bepalingen vastgesteld inzake financiële controle en audits, administratieve maatregelen, sancties en invordering, waarbij aan de Europese Commissie, OLAF en de Rekenkamer bevoegdheden worden toegekend die gelijkwaardig zijn met hun bevoegdheden ten aanzien van begunstigden of contractanten die in de Gemeenschap zijn gevestigd. 
 
 ### Artikel  7  
 
@@ -2449,7 +1937,7 @@ De partijen komen overeen dat voor de toepassing van deze overeenkomst intellect
 
 ####Verklaring van de Gemeenschap en haar lidstaten
 
-Overwegende dat de Europese Gemeenschap uitzonderlijke handelsmaatregelen toekent ten behoeve van de landen die deelnemen aan of verbonden zijn met het stabilisatie- en associatieproces van de Europese Unie, met inbegrip van Montenegro, op basis van Verordening (EG) nr. 2007/2000 van de Raad van 18 september 2000 tot vaststelling van uitzonderlijke handelsmaatregelen ten behoeve van de landen en gebieden die deelnemen aan of verbonden zijn met het stabilisatie- en associatieproces van de EU <sup>1)PB. L 240 van 23.9.2---, blz. 1.</sup>, verklaren de Gemeenschap en haar lidstaten: 
+Overwegende dat de Gemeenschap uitzonderlijke handelsmaatregelen toekent ten behoeve van de landen die deelnemen aan of verbonden zijn met het stabilisatie- en associatieproces van de Europese Unie, met inbegrip van Montenegro, op basis van Verordening (EG) nr. 2007/2000 van de Raad van 18 september 2000 tot vaststelling van uitzonderlijke handelsmaatregelen ten behoeve van de landen en gebieden die deelnemen aan of verbonden zijn met het stabilisatie- en associatieproces van de EU <sup>1)PB. L 240 van 23.9.2---, blz. 1.</sup>, verklaren de Gemeenschap en haar lidstaten: 
 
 – dat bij de toepassing van artikel 35 van deze overeenkomst, de meest gunstige van de eenzijdige autonome handelsmaatregelen van toepassing zijn, in aanvulling op de contractuele handelsconcessies die de Gemeenschap bij deze overeenkomst aanbiedt, zolang Verordening (EG) nr. 2007/2000 van de Raad van toepassing is;  
 

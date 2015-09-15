@@ -562,7 +562,7 @@ c. ten behoeve van gebruikers van het door hem beheerde gastransportnet:
 
 1°. indien noodzakelijk gelet op het verschil tussen de kwaliteit van het op het gastransportnet ingevoede gas en het aan het gastransportnet onttrokken gas, gas met een hogere energie-inhoud naar een lagere energie-inhoud administratief of fysiek om te zetten;  
 
-2°. indien noodzakelijk gelet op het verschil tussen de kwaliteit van het op het gastransportnet ingevoede gas en het aan het gastransportnet onttrokken gas, gas met een lagere energie-inhoud naar een hogere energie-inhoud administratief om te zetten, voor zover er gas met een hogere energie-inhoud voor omzetting beschikbaar is;   
+2°. indien noodzakelijk gelet op het verschil tussen de kwaliteit van het op het gastransportnet ingevoede gas en het aan het gastransportnet onttrokken gas, gas met een lagere energie-inhoud naar een hogere energie-inhoud administratief om te zetten, voor zover er gas met een hogere energie-inhoud voor omzetting beschikbaar is;   tenzij deze taken redelijkerwijs niet van de netbeheerder van het landelijk gastransportnet kunnen worden gevergd;
 
 d. in aanvulling op artikel 10, zesde lid, het in werking hebben en onderhouden van aansluitingen op het landelijk gastransportnet die voor 1 april 2011 in gebruik zijn genomen; 
 
@@ -1358,13 +1358,19 @@ De netbeheerder die de aansluiting verzorgt bij afnemers heeft in het kader van 
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld over: 
 
-a. de inrichting van facturen inzake het verbruik van gas,  
+a. de inrichting van energiekostenramingen en facturen inzake het verbruik van gas,  
 
 b. de frequentie van facturen inzake het verbruik van gas,  
 
-c. het verstrekken van gegevens over het verbruik van gas en  
+c. het verstrekken van gegevens over het verbruik van gas,  
 
-d. degenen die de informatie, bedoeld in de onderdelen a, b en c, verstrekken, welke regels kunnen verschillen per categorie van ontvangers van de informatie, bedoeld in de onderdelen a, b en c.   
+d. degenen die de informatie, bedoeld in de onderdelen a, b en c, verstrekken, welke regels kunnen verschillen per categorie van ontvangers van de informatie, bedoeld in de onderdelen a, b en c,  
+
+e. het op verzoek van een afnemer toesturen van facturen, factureringsinformatie en energiekostenramingen, eventueel langs elektronische weg,  
+
+f. de kosten van toegang tot meetgegevens en van facturatie en  
+
+g. degenen die om de informatie, bedoeld in onderdeel e, kunnen verzoeken.  
 
 ### Artikel  42c  
 

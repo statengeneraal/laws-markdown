@@ -7,7 +7,7 @@ De Staatssecretaris van Financiën heeft het volgende besloten.  *Dit besluit ve
 
 ####Inleiding
 
-In dit besluit zijn de beleidsstandpunten opgenomen over de lijfrenteverzekering, lijfrentespaarrekening, het lijfrentebeleggingsrecht, de aftrek van premies voor lijfrenten en de aftrek van de inleg voor lijfrentespaarrekeningen en lijfrentebeleggingsrechten als uitgaven voor inkomensvoorzieningen onder de Wet IB 2001. Het beleidsstandpunt uit het besluit van 19 augustus 2011, nr. BLKB 2011/1576M over toerekening van lijfrentetermijnen aan de echtgenoot, is in dit besluit opgenomen. Ook zijn de beleidsstandpunten opgenomen over vóór 2001 gesloten lijfrenten en andere rechten op periodieke uitkeringen voor de toepassing van de Invoeringswet Wet IB 2001. Dit besluit voorziet ook in een tijdelijke goedkeurende regeling in verband met herstel van een te hoge overboeking naar een lijfrentespaarrekening of een lijfrentebeleggingsrecht of een te veel betaalde premie op een lijfrenteverzekering.De goedkeuringen uit het besluit van 3 februari 2014, BLKB 2014/195M (Vertraagde automatische premie-incasso’s eind 2013 als gevolg van de invoering van de SEPA) zijn in dit besluit opgenomen. Met deze goedkeuringen worden ongewenste fiscale gevolgen voorkomen voor te late betalingen van premies voor lijfrenten en arbeidsongeschiktheidsverzekeringen als gevolg van de invoering van de SEPA. In dit besluit is nieuw opgenomen dat deze goedkeuringen ook gelden voor de vertraagde invoering van de automatische premie-incasso’s in de tweede helft van december 2014.Waar hierna in dit besluit gesproken wordt over een lijfrentespaarrekening wordt ook bedoeld een lijfrentebeleggingsrecht. Naast de aanpassingen van het besluit aan de gewijzigde wetgeving zijn in dit besluit nieuwe standpunten opgenomen over, dan wel toegevoegd aan de volgende onderwerpen: 
+In dit besluit zijn de beleidsstandpunten opgenomen over de lijfrenteverzekering, lijfrentespaarrekening, het lijfrentebeleggingsrecht, de aftrek van premies voor lijfrenten en de aftrek van de inleg voor lijfrentespaarrekeningen en lijfrentebeleggingsrechten als uitgaven voor inkomensvoorzieningen onder de Wet IB 2001. Het beleidsstandpunt uit het besluit van 19 augustus 2011, nr. BLKB 2011/1576M over toerekening van lijfrentetermijnen aan de echtgenoot, is in dit besluit opgenomen. Ook zijn de beleidsstandpunten opgenomen over vóór 2001 gesloten lijfrenten en andere rechten op periodieke uitkeringen voor de toepassing van de Invoeringswet Wet IB 2001. Dit besluit voorziet ook in een tijdelijke goedkeurende regeling in verband met herstel van een te hoge overboeking naar een lijfrentespaarrekening of een lijfrentebeleggingsrecht of een te veel betaalde premie op een lijfrenteverzekering.Dit besluit voorziet ook in een goedkeurende regeling vooruitlopend op wetgeving in de situatie dat een lijfrentevoorziening wordt afgekocht.De goedkeuringen uit het besluit van 3 februari 2014, BLKB 2014/195M (Vertraagde automatische premie-incasso’s eind 2013 als gevolg van de invoering van de SEPA) zijn in dit besluit opgenomen. Met deze goedkeuringen worden ongewenste fiscale gevolgen voorkomen voor te late betalingen van premies voor lijfrenten en arbeidsongeschiktheidsverzekeringen als gevolg van de invoering van de SEPA. In dit besluit is nieuw opgenomen dat deze goedkeuringen ook gelden voor de vertraagde invoering van de automatische premie-incasso’s in de tweede helft van december 2014.Waar hierna in dit besluit gesproken wordt over een lijfrentespaarrekening wordt ook bedoeld een lijfrentebeleggingsrecht. Naast de aanpassingen van het besluit aan de gewijzigde wetgeving zijn in dit besluit nieuwe standpunten opgenomen over, dan wel toegevoegd aan de volgende onderwerpen: 
 
 – Restsaldo lijfrentespaarrekening na de laatste uitkering (2.2.5);  
 
@@ -51,13 +51,15 @@ In dit besluit zijn de beleidsstandpunten opgenomen over de lijfrenteverzekering
 
 – Schuldig gebleven premie (7.1.3);  
 
+– Geen toepassing van de minimumwaarderingsregel bij afkoop van de aanspraak op lijfrente of periodieke uitkeringen (9.1.2); 
+
 – Geen schending van voorwaarden bij ‘afkoop’ kleine lijfrente (9.1.1);  
 
-– Toepassing regeling voor afkoop kleine lijfrenten bij nabestaandenlijfrenten (9.1.4);  
+– Toepassing regeling voor afkoop kleine lijfrenten bij nabestaandenlijfrenten (9.1.5);  
 
-– Toedeling nabestaandenlijfrenten (9.1.5);  
+– Toedeling nabestaandenlijfrenten (9.1.6);  
 
-– Toedeling bloot eigendom aan vruchtgebruiker (9.1.6).   In dit besluit staan geen beleidsstandpunten die specifiek betrekking hebben op lijfrenten en stamrechten in de winstsfeer. Deze standpunten zijn opgenomen in een apart besluit (besluit van 28 december 2004, nr. CPP2004/633M).   
+– Toedeling bloot eigendom aan vruchtgebruiker (9.1.7).   In dit besluit staan geen beleidsstandpunten die specifiek betrekking hebben op lijfrenten en stamrechten in de winstsfeer. Deze standpunten zijn opgenomen in een apart besluit (besluit van 28 december 2004, nr. CPP2004/633M).   
 ### 1.1  
 
 ####Gebruikte begrippen en afkortingen
@@ -818,28 +820,39 @@ Aftrek van lijfrentepremie of inleg op een lijfrentespaarrekening als uitgave vo
 
 – Als de waarde in het economische verkeer van dat recht of tegoed minder bedraagt dan het bedrag genoemd in artikel 3.126a, vijfde lid, en artikel 3.133, tweede lid, onderdeel d van de Wet IB 2001 (zogenoemde afkoopregeling kleine lijfrenten). In die situatie is volgens de wet sprake van één reguliere termijn.  
 
-– Voor zover de opgebouwde rechten onder de eerbiedigende werking van artikel 75 van de Wet IB 1964 vallen.   Als nog geen lijfrenteuitkering is vervallen, wordt de waarde in het economische verkeer van de lijfrente ten minste gesteld op de betaalde premie of inleg (minimumwaarderingsregel; artikel 3.137, eerste lid, laatste volzin, van de Wet IB 2001). Daarnaast is de belastingplichtige revisierente verschuldigd over de waarde in het economische verkeer van het recht of tegoed (artikel 30i van de AWR). Hierna neem ik een aantal standpunten in die van toepassing zijn bij schending van de voorwaarden die gelden voor de aftrek van lijfrentepremie of de inleg op een lijfrentespaarrekening.    
+– Voor zover de opgebouwde rechten onder de eerbiedigende werking van artikel 75 van de Wet IB 1964 vallen.   Voor lijfrentevoorzieningen die nog niet in de uitkeringsfase zijn, wordt de waarde in het economische verkeer van de lijfrente gesteld op de betaalde premie of inleg. Dit is de zogenoemde minimumwaarderingsregel (artikel 3.137, eerste lid, tweede volzin, van de Wet IB 2001). Bij afkoop van de aanspraak kan hierbij onder bepaalde voorwaarden nog rekening worden gehouden met niet-afgetrokken premie of inleg. Daarnaast is de belastingplichtige revisierente verschuldigd over de waarde in het economische verkeer van het recht of tegoed (artikel 30i van de AWR).   
 ### 9.1.2  
+
+####Geen toepassing van de minimumwaarderingsregel bij afkoop van de aanspraak op lijfrente of periodieke uitkeringen
+
+Door de recente economische ontwikkelingen zijn belastingplichtigen eerder genoodzaakt om lijfrenteovereenkomsten af te kopen. De toepassing van de minimumwaarderingsregel bij (geheel of gedeeltelijke) afkoop van een aanspraak op lijfrente kan er toe leiden dat een belastingplichtige meer belasting is verschuldigd dan het bedrag van de afkoopsom van de lijfrente. Dit doet zich met name voor bij lijfrenteovereenkomsten waarbij de waarde van de aanspraak op lijfrente door beleggingsverliezen aanzienlijk lager ligt dan de betaalde en afgetrokken premies of inleg. In dit kader acht ik het geschetste fiscale gevolg ongewenst dat de toepassing van de minimumwaarderingsregel krijgt bij afkoop van een aanspraak op lijfrente of periodieke uitkeringen. De minimumwaarderingsregel is mede in de wet opgenomen om oneigenlijk gebruik (boxarbitrage) tegen te gaan. Boxarbitrage kan zich echter niet voordoen in situaties van afkoop. Daarom keur ik vooruitlopend op wetgeving het volgende goed. 
+### *Goedkeuring* 
+
+Ik keur goed dat de minimumwaarderingsregel (artikel 3.137, eerste lid, tweede volzin, van de Wet IB 2001) niet van toepassing is bij afkoop van een aanspraak op lijfrente of periodieke uitkeringen. Als de definitieve aanslag over het jaar waarin de afkoop heeft plaatsgevonden onherroepelijk vaststaat, gelden de bijzondere regels voor ambtshalve vermindering zoals opgenomen in artikel 9.6 van de Wet IB 2001 met dien verstande dat artikel 45aa, onderdeel c, van de Uitv. Reg. IB 2001 geen toepassing vindt. 
+### 9.1.3  
 
 ####Premievakantie bij gemengde lijfrente; gevolgen
 
-Bij een bepaalde vorm van gemengde verzekering wordt de uitkering bij leven uitgekeerd in de vorm van een (oudedags-)lijfrente en de uitkering bij overlijden in de vorm van een kapitaalsuitkering. Het komt regelmatig voor dat voor een gemengde verzekering gedurende een of meer jaren tijdens de looptijd geen premie wordt betaald (een zogenoemde premievakantie). De premie voor de uitkering bij overlijden wordt dan in het jaar van de premievakantie of in de toekomst geheel of gedeeltelijk onttrokken aan de reserve voor de lijfrenteuitkering bij leven. In zoverre vindt op het tijdstip van de onttrekking gedeeltelijke afkoop plaats van de lijfrente. Dit betekent dat voor het afgekochte deel negatieve uitgaven voor inkomensvoorzieningen in aanmerking worden genomen (artikel 3.133, tweede lid, onderdeel d, van de Wet IB 2001) en revisierente verschuldigd wordt.    
-### 9.1.3  
+Door de recente economische ontwikkelingen zijn belastingplichtigen eerder genoodzaakt om lijfrenteovereenkomsten af te kopen. De toepassing van de minimumwaarderingsregel bij (geheel of gedeeltelijke) afkoop van een aanspraak op lijfrente kan er toe leiden dat een belastingplichtige meer belasting is verschuldigd dan het bedrag van de afkoopsom van de lijfrente. Dit doet zich met name voor bij lijfrenteovereenkomsten waarbij de waarde van de aanspraak op lijfrente door beleggingsverliezen aanzienlijk lager ligt dan de betaalde en afgetrokken premies of inleg. In dit kader acht ik het geschetste fiscale gevolg ongewenst dat de toepassing van de minimumwaarderingsregel krijgt bij afkoop van een aanspraak op lijfrente of periodieke uitkeringen. De minimumwaarderingsregel is mede in de wet opgenomen om oneigenlijk gebruik (boxarbitrage) tegen te gaan. Boxarbitrage kan zich echter niet voordoen in situaties van afkoop. Daarom keur ik vooruitlopend op wetgeving het volgende goed. 
+### *Goedkeuring* 
+
+Ik keur goed dat de minimumwaarderingsregel (artikel 3.137, eerste lid, tweede volzin, van de Wet IB 2001) niet van toepassing is bij afkoop van een aanspraak op lijfrente of periodieke uitkeringen. Als de definitieve aanslag over het jaar waarin de afkoop heeft plaatsgevonden onherroepelijk vaststaat, gelden de bijzondere regels voor ambtshalve vermindering zoals opgenomen in artikel 9.6 van de Wet IB 2001 met dien verstande dat artikel 45aa, onderdeel c, van de Uitv. Reg. IB 2001 geen toepassing vindt.   
+### 9.1.4  
 
 ####Afkoop nabestaandenlijfrente; hoogte negatieve uitgaven
 
 Als bij een nabestaandenlijfrente, al dan niet in combinatie met een oudedagslijfrente, de verzekerde persoon overlijdt, expireert de in de polis genoemde rekengrootheid voor de uitkering van de nabestaandenlijfrente. De begunstigde kan kiezen voor een uitkering ineens in plaats van een nabestaandenlijfrente. Dit wordt aangemerkt als een afkoop. De waarde in het economische verkeer van de nabestaandenlijfrente wordt als negatieve uitgave voor inkomensvoorzieningen in aanmerking genomen (artikel 3.137 van de Wet IB 2001).Omdat de afkoop plaatsvindt op het tijdstip waarop formeel gesproken nog geen lijfrenteuitkeringen zijn vervallen, zou deze waarde ten minste gesteld moeten worden op het totaalbedrag van de premiedelen die voor de nabestaandenlijfrente zijn betaald. De toepassing van de minimumwaarderingsregel in deze specifieke situatie is echter niet in overeenstemming met de bedoeling van de wetgever. In deze situatie is het verzekerd risico ingetreden en dus geen sprake van oneigenlijk gebruik dat de wetgever heeft willen tegengaan met de minimumwaarderingsregel. Negatieve uitgaven voor inkomensvoorzieningen worden in een dergelijk geval in aanmerking genomen tot de waarde in het economische verkeer van de nabestaandenlijfrente, ook als deze lager is dan de betaalde premie. Over deze waarde is revisierente verschuldigd. Deze wijze van heffing geldt ook voor opname van het tegoed van een lijfrentespaarrekening.    
-### 9.1.4  
+### 9.1.5  
 
 ####Toepassing regeling voor afkoop kleine lijfrenten bij nabestaandenlijfrenten
 
 Na het overlijden van de verzekerde persoon van wiens leven het ingaan van een nabestaandenlijfrente afhankelijk is, komt het lijfrentekapitaal bij een verzekering toe aan degenen die in de polis zijn genoemd als de begunstigden bij overlijden. Als sprake is van een lijfrentespaarrekening komt bij overlijden het tegoed toe aan de erfgenamen van de overledene. Als gevolg van deze civielrechtelijke gerechtigdheid komt het vaak voor dat het lijfrentekapitaal toekomt aan meer dan één begunstigde respectievelijk erfgenaam. Van het lijfrentekapitaal moeten dan even zovele nabestaandenlijfrenten worden afgesloten. In de praktijk is onduidelijk op welke wijze de grens die geldt voor zogenoemde kleine afkopen (artikel 3.126a, vijfde lid, en artikel 3.133, tweede lid, onderdeel d, van de Wet IB 2001) in dergelijke situaties moet worden toegepast als één of meer gerechtigden de nabestaandenlijfrente onmiddellijk willen afkopen. In dergelijke situaties is deze grens per nabestaandenlijfrente van iedere begunstigde of erfgenaam van toepassing.    
-### 9.1.5  
+### 9.1.6  
 
 ####Toedeling nabestaandenlijfrenten
 
 In de praktijk komt het voor dat er een relatief klein bedrag aan lijfrentekapitaal of tegoed op een lijfrentespaarrekening toekomt aan meerdere begunstigden of erfgenamen. Desgewenst mag het kapitaal of tegoed aan één of meer begunstigde(n) of erfgena(a)m(en) worden toegerekend als alle gerechtigden daarmee instemmen. Voorwaarde hierbij is dat de betreffende begunstigde of erfgenaam in Nederland woonachtig is. Onder een ‘klein bedrag’ kan in dit verband worden verstaan de situatie als beschreven in paragraaf 9.1.4 waarin per gerechtigde de regeling voor afkoop van een kleine lijfrente van toepassing kan zijn.    
-### 9.1.6  
+### 9.1.7  
 
 ####Toedeling bloot eigendom aan vruchtgebruiker
 

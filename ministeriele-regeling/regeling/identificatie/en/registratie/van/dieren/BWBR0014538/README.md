@@ -51,7 +51,7 @@ q.  schaap: dier dat behoort tot de familie der Bovidae en het geslacht Ovis;
 
 r.  geit: dier dat behoort tot de familie der Bovidae en het geslacht Capra;  
 
-s.  dieren: runderen, varkens, slachtvarkens, schapen, geiten en gevogelte;  
+s.  dieren: runderen, varkens, slachtvarkens, paardachtigen, schapen, geiten en gevogelte;  
 
 t.  vervallen;  
 
@@ -687,6 +687,13 @@ f. het kenteken van het transportmiddel.
 3.  De melding geschiedt met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.   
 4.  In afwijking van het eerste lid, kan het melden van de afvoer van dode varkens naar een categorie 1-verwerkingsbedrijf of een categorie 2-verwerkingsbedrijf geschieden door tussenkomst van het desbetreffende bedrijf, indien de houder het desbetreffende bedrijf hiertoe schriftelijk in papieren versie heeft gemachtigd.  
 
+### Artikel  32a  
+Treedt in werking per 01-10-2015 
+
+1.  De houder kan een melding, bedoeld in artikel 32, eerste lid, herstellen of intrekken.   
+2.  Het verzoek tot herstel of intrekking van een melding geschiedt in een databank als bedoeld in artikel 32, derde lid, of, indien de minister geen databank heeft aangewezen, bij de minister met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.   
+3.  De minister kan nadere voorwaarden stellen waaronder het herstel of de intrekking, bedoeld in het eerste lid, wordt geaccepteerd.  
+
 ### Artikel  33  
 
 1.  Indien het bedrijf een slachthuis is, controleert de houder, overeenkomstig een door de minister goedgekeurd protocol, terstond na aanvoer of de varkens ingevolge artikel 13, eerste lid, onderdeel b, zijn geïdentificeerd en geregistreerd.   
@@ -1003,9 +1010,9 @@ d. de naam van de instantie, bedoeld in artikel 38v, derde of vierde lid, dat he
 
 ### Artikel  38bb  
 
-1.  Indien paarden worden aangevoerd op een slachthuis, controleert de houder, overeenkomstig een door de minister goedgekeurd protocol, terstond na aanvoer of de paarden overeenkomstig artikel 13, eerste lid, onderdeel d, zijn geïdentificeerd en geregistreerd.   
-2.  Indien bij de in het eerste lid bedoelde controle blijkt dat paarden niet volledig zijn geïdentificeerd en geregistreerd of op grond van de identificatie en registratie niet geslacht mogen worden voor menselijke consumptie, doet de houder hiervan terstond melding aan de NVWA.   
-3.  De paarden, bedoeld in het tweede lid, worden terstond afgezonderd van de overige paarden in het slachthuis. De ambtenaar van de NVWA kan ter zake aanwijzingen geven.  
+1.  Indien paardachtigen worden aangevoerd op een slachthuis, controleert de houder, overeenkomstig een door de minister goedgekeurd protocol, terstond na aanvoer of de paardachtigen overeenkomstig artikel 13, eerste lid, onderdeel d, zijn geïdentificeerd en geregistreerd.   
+2.  Indien bij de in het eerste lid bedoelde controle blijkt dat paardachtigen niet volledig zijn geïdentificeerd en geregistreerd of op grond van de identificatie en registratie niet geslacht mogen worden voor menselijke consumptie, doet de houder hiervan terstond melding aan de NVWA.   
+3.  De paardachtigen, bedoeld in het tweede lid, worden terstond afgezonderd van de overige paardachtigen in het slachthuis. De ambtenaar van de NVWA kan ter zake aanwijzingen geven.  
 
 ### §  7c  
 
@@ -1263,6 +1270,12 @@ b. € 99,00 indien het door de houder op het desbetreffende UBN aantal gehoude
 6.  Voor het op aanvraag verlenen van een goedkeuring als bedoeld in artikel 12k, onderdeel a, in samenhang met artikel 12l, eerste lid, aan een model van een merk of slachtmerk voor varkens, alsmede de wijzigingen daarvan, is de leverancier van het oormerk een vergoeding verschuldigd aan de minister van € 483,75.   
 7.  Voor de registratie van een leverancier als bedoeld in artikel 12k, onderdeel b, in samenhang met artikel 12l, eerste lid, is de leverancier van het oormerk een vergoeding verschuldigd aan de minister van € 220,00. 
 
+### Artikel  43ha  
+Treedt in werking per 01-10-2015 
+
+1.  Voor het op aanvraag verlenen van een goedkeuring als bedoeld in artikel 12k, onderdeel a, in samenhang met artikel 12l, eerste lid, aan een model van een merk of slachtmerk voor varkens, alsmede de wijzigingen daarvan, is de leverancier van het oormerk een vergoeding verschuldigd aan de minister van € 483,75.   
+2.  Voor de registratie van een leverancier als bedoeld in artikel 12k, onderdeel b, in samenhang met artikel 12l, eerste lid, is de leverancier van het oormerk een vergoeding verschuldigd aan de minister van € 220,00.  
+
 ### §  8a.3  
 
 ####Schapen en geiten
@@ -1506,6 +1519,7 @@ B.J.Odink
 | Duingebied Dunea  | Meijendelseweg 34  2243 GN Wassenaar  |
 | Duingebied Dunea  | Haagweg 80  2681 PD Monster  |
 | De Rug  | Maaseikerweg 42  6116 AG Roosteren  |
+| Wimmenummerduinen  | Herenweg 67  1861 PM Bergen  |
 
 ### Bijlage  V 
 
