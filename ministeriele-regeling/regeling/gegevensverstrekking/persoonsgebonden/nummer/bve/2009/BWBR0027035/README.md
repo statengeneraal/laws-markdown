@@ -5,7 +5,7 @@
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit,
 
-Gelet op [artikel 2.3.6a, derde lid](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [artikel 2.5.5a, derde lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),
+Gelet op artikel 2.3.6a, derde lid, en artikel 2.5.5a, derde lid, van de Wet educatie en beroepsonderwijs,
 Besluit:    
 
 ### Artikel  1  
@@ -14,11 +14,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a.  *wet:* [Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+a.  *wet:* Wet educatie en beroepsonderwijs;  
 
-b.  *inschrijvingsgegevens:* de gegevens van een bij de instelling ingeschreven deelnemer, als genoemd in [artikel 2.3.6a, tweede lid](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en in [artikel 2.5.5a, tweede lid, van de wet](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b.  *inschrijvingsgegevens:* de gegevens van een bij de instelling ingeschreven deelnemer, als genoemd in artikel 2.3.6a, tweede lid, en in artikel 2.5.5a, tweede lid, van de wet;  
 
-c.  *instelling:* een instelling als bedoeld in [artikel 1.1.1, onderdeel b](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), een instituut als bedoeld in [artikel 12.3.8](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), een hogeschool als bedoeld in [artikel 12.3.9](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), een instelling als bedoeld in [artikel 1.4.1](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en een instelling als bedoeld in [artikel 1.4a.1 van de wet](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+c.  *instelling:* een instelling als bedoeld in artikel 1.1.1, onderdeel b, een instituut als bedoeld in artikel 12.3.8, een hogeschool als bedoeld in artikel 12.3.9, een instelling als bedoeld in artikel 1.4.1 en een instelling als bedoeld in artikel 1.4a.1 van de wet;  
 
 d.  *eerste teldatum:* de datum van 1 oktober van enig jaar;  
 
@@ -30,7 +30,7 @@ f.*Minister:* Minister van Onderwijs, Cultuur en Wetenschap, en, voor zover het 
 
 ####Reikwijdte
 
-Deze regeling berust op de [artikelen 1.4.1, zevende lid](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [1.4a.1, negende lid](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.3.6a, derde lid](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [2.5.5a, tweede lid, onderdeel h, en derde lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).
+Deze regeling berust op de artikelen 1.4.1, zevende lid, 1.4a.1, negende lid, 2.3.6a, derde lid, en 2.5.5a, tweede lid, onderdeel h, en derde lid, van de Wet educatie en beroepsonderwijs.
 
 ### Artikel  2  
 
@@ -55,7 +55,7 @@ Het bevoegd gezag verstrekt nieuwe inschrijvingsgegevens en mutaties in de besta
 
 ####Terugmelding inschrijvingsgegevens
 
-De Minister meldt binnen twee weken na verstrekking van de inschrijvingsgegevens door het bevoegd gezag, inschrijvingsgegevens, getoetst op juistheid en volledigheid als bedoeld in de [artikelen 2.3.6b](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [2.5.5b van de wet](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), aan het bevoegd gezag terug. 
+De Minister meldt binnen twee weken na verstrekking van de inschrijvingsgegevens door het bevoegd gezag, inschrijvingsgegevens, getoetst op juistheid en volledigheid als bedoeld in de artikelen 2.3.6b en 2.5.5b van de wet, aan het bevoegd gezag terug. 
 
 ### Artikel  6  
 
@@ -68,7 +68,7 @@ De Minister meldt binnen twee weken na verstrekking van de inschrijvingsgegevens
 
 ####Mutatiestop
 
-1.  Vanaf 1 juni volgend op de tweede teldatum kunnen geen wijzigingen in de gegevens, bedoeld in [artikel 2.2.7, van het Uitvoeringsbesluit WEB](../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), worden aangeleverd, anders dan voorzien van een verklaring van een accountant omtrent de juistheid van die gegevens.   
+1.  Vanaf 1 juni volgend op de tweede teldatum kunnen geen wijzigingen in de gegevens, bedoeld in artikel 2.2.7, van het Uitvoeringsbesluit WEB, worden aangeleverd, anders dan voorzien van een verklaring van een accountant omtrent de juistheid van die gegevens.   
 2.  Het bevoegd gezag van een instelling kan ervoor kiezen tussen 1 maart en 1 juni geen wijzigingen van gegevens aan te leveren die betrekking hebben op die teldatum, anders dan voorzien van een verklaring van een accountant omtrent de juistheid van die gegevens. 
 
 ### Artikel  8  
@@ -89,7 +89,7 @@ c. de naam en het versienummer van het gebruikte administratiepakket.
 
 ####Intrekking regeling
 
-De [Regeling gegevensverstrekking met persoonsgebonden nummer BVE](../../../../../../../../ministeriele-regeling/regeling/gegevensverstrekking/met/persoonsgebonden/nummer/bve/BWBR0020670/README.md) wordt ingetrokken. 
+De Regeling gegevensverstrekking met persoonsgebonden nummer BVE wordt ingetrokken. 
 
 ### Artikel  10  
 
@@ -113,19 +113,19 @@ J.M. van Bijsterveldt-Vliegenthart
 
 ####behorende bij artikel
 
-####Nadere specificaties van de gegevens, bedoeld in de [artikelen 2.3.6a, tweede lid](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [2.5.5a, tweede lid, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md)
+####Nadere specificaties van de gegevens, bedoeld in de artikelen 2.3.6a, tweede lid, en 2.5.5a, tweede lid, van de WEB
 
 De bijlage bestaat uit de volgende onderdelen: 
 
-A. De specificatie van de instellingsgegevens (de gegevens bedoeld in [artikel 2.3.6a, tweede lid, onder h](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [artikel 2.5.5a, tweede lid, onder j, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md)). Deze specificatie geldt zowel voor deelnemers aan beroepsopleidingen als deelnemers educatie.  
+A. De specificatie van de instellingsgegevens (de gegevens bedoeld in artikel 2.3.6a, tweede lid, onder h, en artikel 2.5.5a, tweede lid, onder j, van de WEB). Deze specificatie geldt zowel voor deelnemers aan beroepsopleidingen als deelnemers educatie.  
 
-B. De specificatie van de persoonsgegevens (de gegevens bedoeld in [artikel 2.3.6a, tweede lid, onder a](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [2.5.5a, tweede lid, onder a, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md)). Deze specificatie geldt eveneens zowel voor deelnemers beroepsonderwijs als deelnemers educatie.  
+B. De specificatie van de persoonsgegevens (de gegevens bedoeld in artikel 2.3.6a, tweede lid, onder a, en 2.5.5a, tweede lid, onder a, van de WEB). Deze specificatie geldt eveneens zowel voor deelnemers beroepsonderwijs als deelnemers educatie.  
 
-C. De specificatie van de inschrijvings- en examengegevens van deelnemers aan opleidingen beroepsonderwijs (de gegevens bedoeld in [artikel 2.5.5a, tweede lid, onder b tot en met i en l tot en met o, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md)).  
+C. De specificatie van de inschrijvings- en examengegevens van deelnemers aan opleidingen beroepsonderwijs (de gegevens bedoeld in artikel 2.5.5a, tweede lid, onder b tot en met i en l tot en met o, van de WEB).  
 
-D. De specificatie van de inschrijvings- en resultaatgegevens van deelnemers aan opleidingen educatie, niet zijnde voortgezet algemeen volwassenenonderwijs (de gegevens bedoeld in [artikel 2.3.6a, tweede lid, onder b tot en met g en i tot en met l, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md)).  
+D. De specificatie van de inschrijvings- en resultaatgegevens van deelnemers aan opleidingen educatie, niet zijnde voortgezet algemeen volwassenenonderwijs (de gegevens bedoeld in artikel 2.3.6a, tweede lid, onder b tot en met g en i tot en met l, van de WEB).  
 
-E. De specificatie van de inschrijvings- en examengegevens van deelnemers aan opleidingen voortgezet algemeen volwassenenonderwijs beroepsonderwijs (de gegevens bedoeld in [artikel 2.3.6a, tweede lid, onder b tot en met g en i tot en met l, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md))   In de bijlage met gegevens worden onder andere de volgende Formaten gehanteerd: 
+E. De specificatie van de inschrijvings- en examengegevens van deelnemers aan opleidingen voortgezet algemeen volwassenenonderwijs beroepsonderwijs (de gegevens bedoeld in artikel 2.3.6a, tweede lid, onder b tot en met g en i tot en met l, van de WEB)   In de bijlage met gegevens worden onder andere de volgende Formaten gehanteerd: 
 
 * In geval van een boolean (dat is een gegeven dat slechts twee waarden aan kan nemen) kunnen uitsluitend de waarden ‘J’ (ja) en ‘N’ (nee) (hoofdletters) worden gehanteerd.  
 
@@ -186,13 +186,13 @@ In deze bijlage wordt tevens in de kolom *Mutatiestop* aangegeven welke gegevens
 | Werkelijke datum uitschrijving  | De laatste datum waarop de inschrijving daadwerkelijk actief was.  | Datum  | 8  | M  |
 | Hoogste vooropleiding  | De code van de hoogst genoten vooropleiding door de deelnemer bij aanvang van de inschrijving.  | Alfanumeriek  | 2  | --- |
 | Niveau  | Het niveau van de gevolgde opleiding bij een inschrijving voor een opleidingsdomein of kwalificatiedossier.  | Alfanumeriek  | 1  | --- |
-| Indicatie gehandicapt  | De indicatie die aangeeft of de deelnemer extra ondersteuning nodig heeft verband houdende met zijn functiebeperking, blijkens een aanwezige verklaring van een deskundige.  | Boolean  | 1  | --- |
+| Indicatie gehandicapt  | De aanduiding dat de deelnemer met een handicap of chronische ziekte extra ondersteuning krijgt bij het volgen van zijn opleiding, zoals opgenomen in de onderwijsovereenkomst, bedoeld in artikel 8.1.3 van de wet.  | Boolean  | 1  | --- |
 | BPV-volgnummer  | Een door het aanleverpunt aan de praktijkovereenkomst toegekend volgnummer, ten behoeve van registratie in BRON.  | Numeriek  | 2  | --- |
 | Afsluitdatum beroepspraktijkvorming (BPV)  | De datum waarop de praktijkovereenkomst is afgesloten.  | Datum  | 8  | M  |
 | Datum begin BPV  | De datum waarop de beroepspraktijkvorming aanvangt.  | Datum  | 8  | M  |
 | Geplande datum einde BPV  | De datum waarop de beroepspraktijkvorming zal worden beëindigd of beoogd was te eindigen.  | Datum  | 8  | --- |
 | Werkelijke datum einde BPV  | De datum waarop de beroepspraktijkvorming daadwerkelijk werd beëindigd.  | Datum  | 8  | --- |
-| Leerbedrijf  | De code van het leerbedrijf, waar de deelnemer de beroepspraktijkvorming zal volgen, volgt of heeft gevolgd. De aanduiding bestaat uit BRIN + postcode + huisnummer + volgnummer.  | Alfanumeriek  | 17  | --- |
+| Leerbedrijf  | De code van het leerbedrijf, waar de deelnemer de beroepspraktijkvorming zal volgen, volgt of heeft gevolgd.  | Alfanumeriek  | 17  | --- |
 | Omvang BPV  | Het totaal aantal uren van de beroepspraktijkvorming.  | Numeriek  | 4  | --- |
 | Behaalde kwalificatie  | De Crebo-code van de kwalificatie waarvan de deelnemer het examen met goed gevolg heeft afgesloten.  | Alfanumeriek  | 5  | M  |
 | Behaalde deelkwalificatie AOC  | De Crebo-code van de deelkwalificatie die de deelnemer heeft behaald binnen een AOC.  | Alfanumeriek  | 5  | --- |
@@ -318,13 +318,17 @@ In geval van inschrijving voor een opleidingsdomein zijn mogelijke waarden en de
 | 3  | mbo niveau 3 (vakopleiding)  |
 | 4  | mbo niveau 4 (middenkaderopleiding, specialistenopleiding)  |
 
+####Indicatie gehandicapt
+
+Dit betreft alle deelnemers met een handicap of chronische ziekte aan wie de instelling extra ondersteuning biedt voor het volgen van hun opleiding, zoals opgenomen in de onderwijsovereenkomst. Het gaat om de aanduiding dat een deelnemer gehandicapt is of een chronische ziekte heeft, niet om het al dan niet hebben van een indicatie vanwege die handicap/chronische ziekte.
+
 ####Afsluitdatum beroepspraktijkvorming (BPV)
 
 De aangegeven mutatiestop bij dit gegeven van de BPV geldt alléén voor BBL- en CBL-deelnemers. 
 
 ####Leerbedrijf
 
-De code van het leerbedrijf is aangegeven in het register code leerbedrijven mbo dat is te raadplegen op de site www.stagemarkt.nl. Uitsluitend leerbedrijven met een gunstige beoordeling van het desbetreffende kenniscentrum beroepsonderwijs bedrijfsleven zijn bevoegd tot het verzorgen van de beroepspraktijkvorming. Op het moment dat een leerbedrijf gunstig wordt beoordeeld, oftewel wordt erkend als leerbedrijf in de zin van de [Wet educatie beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), wordt eenmalig de zogenoemde code leerbedrijf toegekend aan het leerbedrijf. Vervolgens verandert deze code niet, dus ook niet bij verhuizing. Ingeval van een ‘binnenlands’ leerbedrijf bestaat de code leerbedrijf uit 17 karakters: het BRIN-nummer van het kenniscentrum beroepsonderwijs bedrijfsleven (vier karakters) + postcode (zes karakters) + huisnummer + volgnummer (tezamen zeven karakters, waarvan het huisnummer niet nul mag zijn en minimaal twee karakters dient te beslaan). Ingeval van een ‘buitenlands’ leerbedrijf bestaat de code leerbedrijf uit maximaal 17 karakters: het BRIN-nummer van het kenniscentrum beroepsonderwijs bedrijfsleven (vier karakters) + de hoofdletter B (een karakter, betreft indicatie dat het een buitenlands leerbedrijf is) + een volgnummer (maximaal 12 cijfers, en in geen geval mag het nul zijn oftewel de laagste waarde is 1). 
+De code van het leerbedrijf is aangegeven in het register code leerbedrijven mbo dat is te raadplegen op de site www.stagemarkt.nl. Uitsluitend leerbedrijven met een gunstige beoordeling van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven zijn bevoegd tot het verzorgen van de beroepspraktijkvorming. Op het moment dat een leerbedrijf wordt erkend als leerbedrijf in de zin van de Wet educatie beroepsonderwijs, wordt eenmalig de zogenoemde code leerbedrijf toegekend aan het leerbedrijf. Vervolgens verandert deze code niet, dus ook niet bij verhuizing. 
 
 ####Behaalde kwalificatie
 

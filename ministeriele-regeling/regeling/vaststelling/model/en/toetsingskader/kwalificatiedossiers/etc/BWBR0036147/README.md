@@ -1081,43 +1081,7 @@ c. In de verantwoordingsinformatie bij het kwalificatiedossier is een onderhouds
 
 ### 3  
 
-####Het proces van toetsing
+####Onafhankelijke toetsing
 
-De Toetsingskamer toetst de kwaliteit van de kwalificatiedossiers, de keuzedelen en de kwalificatiestructuur als geheel aan de hand van de toetsingscriteria uit het Toetsingskader en brengt daarover een onafhankelijk advies uit aan het Bestuur SBB. Het toetsproces van de Toetsingskamer kent twee formele toetsmomenten: de Ingangstoets en de Eindtoets. Deze twee toetsmomenten zijn van toepassing op de afzonderlijke kwalificatiedossiers, de keuzedelen en de kwalificatiestructuur. 
-### *De Ingangstoets* 
-
-De Ingangstoets is van toepassing in de volgende gevallen: 
-
-* Indiening door een kenniscentrum van een nieuwe kwalificatie of kwalificatiedossier  
-
-* Indiening van een nieuw of vernieuwd beroepscompetentieprofiel (bcp) bij een kwalificatiedossier  
-
-* Ingrijpende aanpassing van een bestaand kwalificatiedossier  
-
-* Indiening van een nieuw keuzedeel  
-
-* Aanpassing van een bestaand keuzedeel   De Ingangstoets heeft een tweeledig doel: 
-
-* Getoetst wordt wat de toegevoegde waarde is van het kwalificatiedossier, de kwalificatie(s), het keuzedeel en/of het beroepscompetentieprofiel voor de kwalificatiestructuur: 
-
-○ Is er voldoende arbeidsmarktrelevantie?  
-
-○ Is er geen sprake van ondoelmatige overlap met andere kwalificaties/keuzedelen?    
-
-* Getoetst wordt of er draagvlak is bij de betrokken partijen (paritaire commissie, onderwijsveld en bedrijfsleven) om de kwalificatie(s) of het keuzedeel te ontwikkelen danwel te implementeren bij opleidingen.   
-### *De Eindtoets* 
-
-De Eindtoets dient als formele eindbeoordeling van kwalificatiedossier en/of keuzedeel. De Toetsingskamer toetst bij de Eindtoets of het kwalificatiedossier en de daarbij behorende verantwoordingsinformatie en het keuzedeel en/of keuzedelen voldoen aan de in het Toetsingskader aangegeven kwaliteitseisen. 
-### *Tussentijds toetsen en tussentijdse advisering van kenniscentra* 
-
-Naast deze twee formele toetsen hanteert de Toetsingskamer voor het kwalificatiedossier tussentijdse toetsmomenten. De toetsen A en B moeten borgen dat de kwalificatiedossiers binnen de gestelde ontwikkeltijd voldoen aan de eisen. Deze toetsen hebben het karakter van een advies aan het kenniscentrum over de kwaliteit van (de conceptversie van) het dossier. 
-### *Beroep* 
-
-Het bestuur van een kenniscentrum dat in zijn belang geschaad is door een beslissing van de Toetsingskamer kan in beroep gaan bij het bestuur SBB. 
-### *Advies aan het bestuur SBB* 
-
-Als kwalificatiedossiers en keuzedelen voldoen aan de in het Toetsingskader aangegeven kwaliteitseisen adviseert de Toetsingskamer het algemeen bestuur SBB om deze kwalificatiedossiers en keuzedelen aan te bieden aan de minister van OCW en EZ (voor wat betreft de dossiers en keuzedelen voor de groene sector) ter formele vaststelling. Het bestuur SBB draagt dit advies over aan de minister van OCW of EZ, maar kan desgewenst gemotiveerd afwijken van het advies van de Toetsingskamer om een kwalificatiedossier of keuzedeel al dan niet aan te bieden aan de minister ter formele vaststelling. 
-### *Review* 
-
-Jaarlijks rapporteert de Toetsingskamer in een review over trends en ontwikkelingen in de kwalificatiestructuur en doet daarin voorstellen tot (onderzoek naar) kwaliteitsverbetering van de kwalificatiestructuur. 
+De Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven draagt zorg voor de onafhankelijke toetsing van de kwaliteit van de kwalificatiedossiers, de keuzedelen en de kwalificatiestructuur als geheel aan de hand van de toetsingscriteria uit het Toetsingskader. Het resultaat van deze onafhankelijke toetsing wordt toegevoegd aan de ter vaststelling aan de Minister aangeboden kwalificatiedossiers.
 

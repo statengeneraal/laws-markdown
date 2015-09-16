@@ -264,7 +264,7 @@ b. voor de sector, bedoeld in artikel 2.3, eerste lid, onderdeel a, van het Besl
 
 a. scholieren en studenten die blijkens een schriftelijke overeenkomst ten hoogste acht aaneengesloten weken per kalenderjaar in dienstbetrekking zullen staan tot dezelfde werkgever;  
 
-b. de werknemer die de beroepspraktijkvorming volgt van de beroepsbegeleidende leerweg van een beroepsopleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen a tot en met e, van de Wet educatie en beroepsonderwijs, op de grondslag van een overeenkomst als bedoeld in artikel 7.2.8, gesloten door de partijen, genoemd in artikel 7.2.9 van die wet en mede ondertekend door het bestuur van het desbetreffende kenniscentrum beroepsonderwijs bedrijfsleven.     
+b. de werknemer die de beroepspraktijkvorming volgt van de beroepsbegeleidende leerweg van een beroepsopleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen a tot en met e, van de Wet educatie en beroepsonderwijs, op de grondslag van een overeenkomst als bedoeld in artikel 7.2.8, gesloten door de partijen, genoemd in artikel 7.2.9 van die wet.     
 2.  Voor de toepassing van het eerste lid, onderdeel a wordt onder scholieren en studenten verstaan: 
 
 a. de werknemer die bij het begin van het kalenderkwartaal recht heeft op een gift, een voorwaardelijke gift of een prestatiebeurs op grond van de Wet studiefinanciering 2000 of de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  

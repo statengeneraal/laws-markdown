@@ -828,6 +828,12 @@ Indien de situaties, bedoeld in de artikelen 4.11 en 4.12, zich voordoen, wordt 
 
 Een certificaat van vakbekwaamheid gasdeskundige als bedoeld in artikel 3.5h, vierde lid, van het besluit wordt door de minister of, indien de minister een certificerende instelling heeft aangewezen, de certificerende instelling, afgegeven indien de aanvrager voldoet aan de eisen, bedoeld in versie 1 van de Regeling SGT nr. REG/SGT/20/001 van de Stichting Hobéon SKO Certificatie, vastgesteld per 15 mei 2009. 
 
+### Paragraaf  4.1a  
+
+####Werkpleketikettering
+
+Treedt in werking per 01-06-2017 
+
 ### Paragraaf  4.2  
 
 ####Veilig werken met explosieven
@@ -1356,17 +1362,18 @@ h. indien het betreft een certificaat voor de bediening van een funderingsmachin
 
 ####Vereisten
 
-Veiligheids- of gezondheidssignalering als bedoeld in artikel 8.4 van het besluit voldoet aan de artikelen 8.2 tot en met 8.29. 
+1.  Veiligheids- of gezondheidssignalering als bedoeld in artikel 8.4 van het besluit voldoet aan het tweede lid en de artikelen 8.2 tot en met 8.29.   
+2.  Veiligheids- of gezondheidssignalering wordt, al naar gelang het geval, geregeld schoongemaakt, onderhouden, geverifieerd en gerepareerd of zo nodig vervangen, met het oog op het behoud van hun intrinsieke of functionele kwaliteiten.  
 
-###Artikel 8.2 
+### Artikel  8.2  
 
 ####Permanente signalering
 
-1. De signalering met betrekking tot een verbod, een waarschuwing en een gebod, alsmede de signalering met betrekking tot de lokalisatie en de identificatie van reddings- of hulpmiddelen geschiedt permanent door middel van borden.
-2. De signalering voor de lokalisatie en identificatie van brandbestrijdingsmateriaal geschiedt permanent door middel van borden of een veiligheidskleur.
-3. De signalering op recipiënten en leidingen geschiedt overeenkomstig de artikelen 8.12 tot en met 8.15.
-4. De signalering van gevaren van stoten tegen obstakels en van vallen van personen geschiedt permanent door middel van een veiligheidskleur of borden.
-5. De markering van verkeerswegen geschiedt permanent door middel van een veiligheidskleur.
+1.  De signalering met betrekking tot een verbod, een waarschuwing en een gebod, alsmede de signalering met betrekking tot de lokalisatie en de identificatie van reddings- of hulpmiddelen geschiedt permanent door middel van borden.   
+2.  De signalering voor de lokalisatie en identificatie van brandbestrijdingsmateriaal geschiedt permanent door middel van borden of een veiligheidskleur.   
+3.  De signalering op reservoirs en leidingen geschiedt overeenkomstig de artikelen 8.4, derde lid, 8.9 en 8.11 tot en met 8.15.   
+4.  De signalering van gevaren van stoten tegen obstakels en van vallen van personen geschiedt permanent door middel van een veiligheidskleur of borden.   
+5.  De markering van verkeerswegen geschiedt permanent door middel van een veiligheidskleur.  
 
 ### Artikel  8.3  
 
@@ -1469,41 +1476,37 @@ Indien de betrokken werknemers een beperkt gehoor- of gezichtsvermogen hebben, o
 
 ### Artikel  8.12  
 
-####Reservoirs gevaarlijke stoffen
+####Reservoirs en leidingen met gevaarlijke stoffen
 
-1.  Reservoirs die gebruikt worden bij werkzaamheden met dan wel de opslag van: 
-
-a. gevaarlijke enkelvoudige stoffen als omschreven in de richtlijn nr. 67/548/EEG van de Raad van de Europese Gemeenschappen van 27 juni 1967 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (PbEG L 196), of  
-
-b. gevaarlijke meervoudige stoffen als omschreven in de richtlijn nr. 1999/45/EG van het Europees Parlement en de Raad van de Europese Unie van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (PbEG L 200), alsmede zichtbare leidingen die de onder a dan wel b, bedoelde stoffen bevatten of waardoor deze stoffen worden getransporteerd, zijn voorzien van de in de onder a dan wel b, bedoelde richtlijnen voorgeschreven gevaarssymbolen.     
+1.  Reservoirs die worden gebruikt bij werkzaamheden met dan wel de opslag van chemische stoffen of mengsels die overeenkomstig EG-verordening indeling, etikettering en verpakking van stoffen en mengsels als gevaarlijk worden ingedeeld op grond van de criteria voor enige fysische gevarenklasse of gezondheidsgevarenklasse, alsmede leidingen die dergelijke stoffen en mengsels bevatten of waardoor deze stoffen en mengsels worden getransporteerd, worden overeenkomstig die verordening voorzien van de relevante gevarenpictogrammen.   
 2.  Het vorige lid is niet van toepassing op reservoirs die worden gebruikt bij werkzaamheden van korte duur of die vaak wisselen van inhoud mits er toereikende alternatieve maatregelen worden genomen, met name op het gebied van voorlichting of opleiding, die hetzelfde beschermingsniveau garanderen.   
-3.  De in het eerste lid bedoelde gevaarssymbolen kunnen: 
+3.  De in het eerste lid bedoelde gevarenpictogrammen kunnen: 
 
-a. worden vervangen door waarschuwingsborden als weergegeven in artikel 8.10 met hetzelfde pictogram of symbool;  
+a. worden vervangen door waarschuwingsborden als weergegeven in artikel 8.10 met hetzelfde pictogram of symbool met dien verstande dat indien artikel 8.10 geen gelijkwaardig waarschuwingsbord bevat, het relevante gevarenpictogram als weergegeven in bijlage V van EG-verordening indeling, etikettering en verpakking van stoffen en mengsels wordt gebruikt;  
 
-b. worden aangevuld met extra informatie zoals de naam of de formule van de gevaarlijke stof en met bijzonderheden over de gevaren;  
+b. worden aangevuld met extra informatie zoals de naam of de formule van de gevaarlijke stof en een gedetailleerde beschrijving van het gevaar;  
 
-c. voor het transport van reservoirs op de arbeidsplaats worden aangevuld met of vervangen door borden die krachtens de titel 9.2 van de Wet milieubeheer dan wel de Wet vervoer gevaarlijke stoffen van toepassing zijn voor het transport van gevaarlijke stoffen.    
+c. voor het transport van reservoirs op de arbeidsplaats worden aangevuld met of vervangen door borden die krachtens de Wet vervoer gevaarlijke stoffen of de Wet luchtvaart van toepassing zijn voor het transport van gevaarlijke stoffen.    
 
-###Artikel 8.13 
+### Artikel  8.13  
 
-####Aanbrengen van signalering op reservoirs
+####Aanbrengen van signalering op reservoirs en leidingen
 
-De signalering bedoeld in artikel 8.12 wordt aangebracht op de zichtbare zijden in de vorm van hard materiaal, zelfklevend materiaal of verf.
+De signalering bedoeld in artikel 8.12 wordt aangebracht op de zichtbare zijden in de vorm van hard materiaal, zelfklevend materiaal of verf. 
 
-###Artikel 8.14 
+### Artikel  8.14  
 
-####Plaatsing op reservoirs
+####Plaatsing op leidingen
 
-1. Indien gevaarssymbolen of gevaarsbenamingen als omschreven in de in artikel 8.12 onder a of b bedoelde richtlijnen op reservoirs en leidingen aangebracht worden, voldoen deze aanduidingen aan de artikelen 8.9, tweede lid, en 8.11.
-2. De op leidingen gebruikte gevaarssymbolen en gevaarsbenamingen worden zichtbaar en voldoende herhaald aangebracht in de nabijheid van de meest gevaarlijke plaatsen, zoals kleppen en aansluitingspunten.
+De op leidingen gebruikte gevarenpictogrammen of signaalwoorden worden zichtbaar en voldoende herhaald aangebracht in de nabijheid van de meest gevaarlijke plaatsen, zoals kleppen en aansluitingspunten. 
 
-###Artikel 8.15 
+### Artikel  8.15  
 
 ####Signalering bij opslag gevaarlijke stoffen
 
-1. De signalering van plaatsen, lokalen of afgesloten ruimten die worden gebruikt voor de opslag van aanzienlijke hoeveelheden gevaarlijke stoffen geschiedt door een passend waarschuwingsbord als bedoeld in artikel 8.10 of door gevaarssymbolen en gevaarsbenamingen als bedoeld 8.12 tenzij, rekening houdend met artikel 8.9, derde lid, wat de afmeting betreft, de gevaarssymbolen en gevaarsbenamingen van de afzonderlijke verpakkingen of op de reservoirs ter zake volstaan.
-2. De in het eerste lid bedoelde borden of gevaarssymbolen en gevaarsbenamingen worden bij de opslagruimte of op de toegangsdeur tot de opslagruimte geplaatst.
+1.  De signalering van plaatsen, lokalen of afgesloten ruimten die worden gebruikt voor de opslag van aanzienlijke hoeveelheden gevaarlijke stoffen geschiedt door een passend waarschuwingsbord als bedoeld in artikel 8.10 of door gevarenpictogrammen en signaalwoorden als bedoeld in artikel 8.12 tenzij, rekening houdend met artikel 8.9, derde lid, wat de afmeting betreft, de gevarenpictogrammen en signaalwoorden van de afzonderlijke verpakkingen of op de reservoirs ter zake volstaan.   
+2.  De in het eerste lid bedoelde borden of gevarenpictogrammen en signaalwoorden worden bij de opslagruimte of op de toegangsdeur tot de opslagruimte geplaatst.  
+3.  Indien artikel 8.10 geen gelijkwaardig waarschuwingsbord bevat, wordt het relevante gevarenpictogram als weergegeven in bijlage V van EG-verordening indeling, etikettering en verpakking van stoffen en mengsels gebruikt. 
 
 ### Artikel  8.16  
 
@@ -1640,7 +1643,7 @@ De afmetingen van de signalering houden rekening met de afmeting van het gesigna
 
 ####Overtredingen
 
-Als overtreding ter zake waarvan een bestuurlijke boete kan worden opgelegd, wordt aangemerkt het handelen of het nalaten in strijd met de voorschriften welke zijn opgenomen in de artikelen 3.4, 3.5, 3.11, 3.12, 3.13, 3.14, 4.3 tot en met 4.7, 4.9, 4.11 tot en met 4.13, 4.18, 4.19, tweede lid, 4.20, tweede lid, 4.20a, 4.20b, eerste, derde, vierde en vijfde lid, 4.22 tot en met 4.26, 5.1 tot en met 5.3, 8.2, 8.3, 8.4, derde lid, 8.5 tot en met 8.11, 8.12, eerste en tweede lid, en 8.13 tot en met 8.29. 
+Als overtreding ter zake waarvan een bestuurlijke boete kan worden opgelegd, wordt aangemerkt het handelen of het nalaten in strijd met de voorschriften welke zijn opgenomen in de artikelen 3.4, 3.5, 3.11, 3.12, 3.13, 3.14, 4.3 tot en met 4.7, 4.9, 4.11 tot en met 4.13, 4.15, 4.18, 4.19, tweede lid, 4.20, tweede lid, 4.20a, 4.20b, eerste, derde, vierde en vijfde lid, 4.22 tot en met 4.26, 5.1 tot en met 5.3, 8.1, tweede lid, 8.2, 8.3, 8.4, derde lid, 8.5 tot en met 8.11, 8.12, eerste en tweede lid, en 8.13 tot en met 8.29. 
 
 ### Artikel  8.29b 
 
@@ -1660,199 +1663,211 @@ b. van het Arbeidsomstandighedenbesluit:
 
 2°. artikel 1.42, eerste tot en met vierde lid;  
 
-3°. artikel 1.46, achtste en negende lid;  
+3°. artikel 1.46, derde lid, onderdelen a tot en met d;  
 
-4°. artikel 2.42h, tweede tot en met vierde lid;  
+4°. artikel 1.46, vierde lid, onderdelen a en b;  
 
-5°. artikel 3.2, eerste tot en met derde lid;  
+5°. artikel 1.46, zesde lid en zevende lid; 
 
-6°. artikel 3.3, eerste en tweede lid;  
+6°. artikel 1.46, negende en tiende lid;  
 
-7°. artikel 3.4, eerste en tweede lid;  
+7°. artikel 2.42h, tweede tot en met vierde lid;  
 
-8°. artikel 3.5, derde, vierde en zevende lid;  
+8°. artikel 3.2, eerste tot en met derde lid;  
 
-9°. artikel 3.5c, eerste tot en met derde lid;  
+9°. artikel 3.3, eerste en tweede lid;  
 
-10°. artikel 3.5d, eerste tot en met derde lid;  
+10°. artikel 3.4, eerste en tweede lid;  
 
-11°. artikel 3.5g, eerste en tweede lid;  
+11°. artikel 3.5, derde, vierde en zevende lid;  
 
-12°. de artikelen 3.6, 3.7, eerste en tweede lid;  
+12°. artikel 3.5c, eerste tot en met derde lid;  
 
-13°. artikel 3.7, derde tot en met zesde lid;  
+13°. artikel 3.5d, eerste tot en met derde lid;  
 
-14°. artikel 3.13, eerste tot en met vierde lid en achtste tot en met tiende lid;  
+14°. artikel 3.5g, eerste en tweede lid;  
 
-15°. artikel 3.13, vijfde tot en met zevende lid;  
+15°. de artikelen 3.6, 3.7, eerste en tweede lid;  
 
-16°. artikel 3.16, eerste en vijfde lid;  
+16°. artikel 3.7, derde tot en met zesde lid;  
 
-17°. artikel 3.29, eerste en vierde lid;  
+17°. artikel 3.13, eerste tot en met vierde lid en achtste tot en met tiende lid;  
 
-18°. artikel 3.37, eerste en tweede lid;  
+18°. artikel 3.13, vijfde tot en met zevende lid;  
 
-19°. de artikelen 3.37k, eerste en tweede lid, 3.37n, eerste lid, 3.37r eerste tot en met vierde lid, 3.37t, eerste, tweede en vierde lid, en 3.37u;  
+19°. artikel 3.16, eerste en vijfde lid;  
 
-20°. de artikelen 3.37m, 3.37p, eerste en tweede lid, 3.37s, tweede en derde lid, 3.37v, eerste tot en met derde lid, en 3.37w, tweede lid, onderdeel a;  
+20°. artikel 3.29, eerste en vierde lid;  
 
-21°. de artikelen 3.37n, tweede lid, en 3.37w, eerste, derde en vierde lid;  
+21°. artikel 3.37, eerste en tweede lid;  
 
-22°. de artikelen 3.37q, eerste en derde lid, 3.37s, vierde lid, en 3.37w, tweede lid, onderdelen b tot en met e;  
+22°. de artikelen 3.37k, eerste en tweede lid, 3.37n, eerste lid, 3.37r eerste tot en met vierde lid, 3.37t, eerste, tweede en vierde lid, en 3.37u;  
 
-23°. artikel 3.37s, eerste, vijfde en zesde lid;  
+23°. de artikelen 3.37m, 3.37p, eerste en tweede lid, 3.37s, tweede en derde lid, 3.37v, eerste tot en met derde lid, en 3.37w, tweede lid, onderdeel a;  
 
-24°. artikel 4.1c, eerste lid, onderdelen d en e;  
+24°. de artikelen 3.37n, tweede lid, en 3.37w, eerste, derde en vierde lid;  
 
-25°. artikel 4.2, tweede tot en met zevende lid;  
+25°. de artikelen 3.37q, eerste en derde lid, 3.37s, vierde lid, en 3.37w, tweede lid, onderdelen b tot en met e;  
 
-26°. artikel 4.3, derde en vierde lid;  
+26°. artikel 3.37s, eerste, vijfde en zesde lid;  
 
-27°. artikel 4.7, tweede en derde lid, onderdeel a;  
+27°. artikel 4.1c, eerste lid, onderdelen d en e;  
 
-28°. artikel 4.8, eerste tot en met derde lid;  
+28°. artikel 4.1c, eerste lid, onderdelen f en g;  
 
-29°. de artikelen 4.8, vierde lid, 4.9, derde lid, en 4.10, derde lid;  
+29°. artikel 4.1d, eerste lid, onderdelen a en b;  
 
-30°. de artikelen 4.10a, eerste en tweede lid, en 4.10b, eerste lid;  
+30°. artikel 4.1d, derde lid, onderdelen a tot en met d; 
 
-31°. artikel 4.16 derde en vierde lid;  
+31°. artikel 4.2, tweede tot en met zevende lid;  
 
-32°. artikel 4.19, onderdelen d en e;  
+32°. artikel 4.3, derde en vierde lid;  
 
-33°. de artikelen 4.45a en 4.45b, eerste en tweede lid;  
+33°. artikel 4.7, tweede en derde lid, onderdeel a;  
 
-34°. artikel 4.47, vijfde en zesde lid;  
+34°. artikel 4.8, eerste tot en met derde lid;  
 
-35°. de artikelen 4.47, eerste lid, en 4.47a, achtste lid;  
+35°. de artikelen 4.8, vierde lid, 4.9, derde lid, en 4.10, derde lid;  
 
-36°. artikel 4.47c, eerste en tweede lid;  
+36°. de artikelen 4.10a, eerste en tweede lid, en 4.10b, eerste lid;  
 
-37°. artikel 4.50, eerste tot en met vierde lid;  
+37°. artikel 4.16 derde en vierde lid;  
 
-38°. artikel 4.51a, eerste en derde lid;  
+38°. artikel 4.19, onderdelen d en e;  
 
-39°. artikel 4.51a, tweede en vierde lid;  
+39°. de artikelen 4.45a en 4.45b, eerste en tweede lid;  
 
-40°. de artikelen 4.54a, vijfde en zesde lid, en 4.54d, derde en negende lid;  
+40°. artikel 4.47, vijfde en zesde lid;  
 
-41°. artikel 4.54d, eerste, vijfde en zevende lid;  
+41°. de artikelen 4.47, eerste lid, en 4.47a, achtste lid;  
 
-42°. artikel 4.58, eerste en tweede lid;  
+42°. artikel 4.47c, eerste en tweede lid;  
 
-43°. artikel 4.59, eerste en tweede lid;  
+43°. artikel 4.50, eerste tot en met vierde lid;  
 
-44°. artikel 4.60, eerste en derde lid;  
+44°. artikel 4.51a, eerste en derde lid;  
 
-45°. artikel 4.61a, eerste en derde lid;  
+45°. artikel 4.51a, tweede en vierde lid;  
 
-46°. artikel 4.85, eerste en tweede lid;  
+46°. de artikelen 4.54a, vijfde en zesde lid, en 4.54d, derde en negende lid;  
 
-47°. artikel 4.87a, tweede en derde lid;  
+47°. artikel 4.54d, eerste, vijfde en zevende lid;  
 
-48°. artikel 4.89, zesde en zevende lid;  
+48°. artikel 4.58, eerste en tweede lid;  
 
-49°. artikel 4.90, derde en vierde lid;  
+49°. artikel 4.59, eerste en tweede lid;  
 
-50°. artikel 4.91, eerste tot en met derde en tiende lid;  
+50°. artikel 4.60, eerste en derde lid;  
 
-51°. artikel 4.94, eerste, derde en vijfde lid;  
+51°. artikel 4.61a, eerste en derde lid;  
 
-52°. artikel 4.99, eerste en tweede lid;  
+52°. artikel 4.85, eerste en tweede lid;  
 
-53°. artikel 4.105, eerste tot en met derde lid;  
+53°. artikel 4.87a, tweede en derde lid;  
 
-54°. de artikelen 4.108, eerste en tweede lid, en artikel 4.109;  
+54°. artikel 4.89, zesde en zevende lid;  
 
-55°. de artikelen 5.2 en 5.3, onderdeel a;  
+55°. artikel 4.90, derde en vierde lid;  
 
-56°. artikel 5.5, eerste en tweede lid;  
+56°. artikel 4.91, eerste tot en met derde en tiende lid;  
 
-57°. artikel 5.11, eerste tot en met derde lid;  
+57°. artikel 4.94, eerste, derde en vijfde lid;  
 
-58°. artikel 6.1, eerste en tweede lid;  
+58°. artikel 4.99, eerste en tweede lid;  
 
-59°. artikel 6.7, eerste en vierde lid;  
+59°. artikel 4.105, eerste tot en met derde lid;  
 
-60°. artikel 6.8, eerste, derde en elfde lid;  
+60°. de artikelen 4.108, eerste en tweede lid, en artikel 4.109;  
 
-61°. artikel 6.10, eerste tot en met derde lid;  
+61°. de artikelen 5.2 en 5.3, onderdeel a;  
 
-62°. artikel 6.11b, eerste, tweede en zesde lid;  
+62°. artikel 5.5, eerste en tweede lid;  
 
-63°. artikel 6.11c, tweede en derde lid;  
+63°. artikel 5.11, eerste tot en met derde lid;  
 
-64°. artikel 6.11e, eerste, tweede en vierde lid;  
+64°. artikel 6.1, eerste en tweede lid;  
 
-65°. artikel 6.12f, eerste en tweede lid;  
+65°. artikel 6.7, eerste en vierde lid;  
 
-66°. artikel 6.14a, eerste en tweede lid;  
+66°. artikel 6.8, eerste, derde en elfde lid;  
 
-67°. artikel 6.15, eerste lid, onderdeel c, en tweede lid;  
+67°. artikel 6.10, eerste tot en met derde lid;  
 
-68°. de artikelen 6.15a, tweede lid, en 6.16, achtste lid;  
+68°. artikel 6.11b, eerste, tweede en zesde lid;  
 
-69°. artikel 6.16, derde, zesde en zevende lid;  
+69°. artikel 6.11c, tweede en derde lid;  
 
-70°. artikel 6.17, eerste en tweede lid;  
+70°. artikel 6.11e, eerste, tweede en vierde lid;  
 
-71°. artikel 6.18, eerste tot en met derde lid;  
+71°. artikel 6.12f, eerste en tweede lid;  
 
-72°. artikel 6.20, eerste tot en met derde lid;  
+72°. artikel 6.14a, eerste en tweede lid;  
 
-73°. artikel 6.20b, eerste en tweede lid;  
+73°. artikel 6.15, eerste lid, onderdeel c, en tweede lid;  
 
-74°. artikel 7.4a, eerste tot en met vierde lid;  
+74°. de artikelen 6.15a, tweede lid, en 6.16, achtste lid;  
 
-75°. artikel 7.5, tweede en derde lid;  
+75°. artikel 6.16, derde, zesde en zevende lid;  
 
-76°. artikel 7.6, eerste en tweede lid;  
+76°. artikel 6.17, eerste en tweede lid;  
 
-77°. artikel 7.7, tweede tot en met zevende lid;  
+77°. artikel 6.18, eerste tot en met derde lid;  
 
-78°. artikel 7.13, eerste en tweede lid;  
+78°. artikel 6.20, eerste tot en met derde lid;  
 
-79°. artikel 7.13, vijfde en zesde lid;  
+79°. artikel 6.20b, eerste en tweede lid;  
 
-80°. artikel 7.14, eerste lid, en 7.15, eerste lid;  
+80°. artikel 7.4a, eerste tot en met vierde lid;  
 
-81°. artikel 7.17a, eerste, tweede, vierde en vijfde lid;  
+81°. artikel 7.5, tweede en derde lid;  
 
-82°. artikel 7.17c, vierde tot en met zesde lid;  
+82°. artikel 7.6, eerste en tweede lid;  
 
-83°. artikel 7.18, zesde tot en met achtste lid;  
+83°. artikel 7.7, tweede tot en met zevende lid;  
 
-84°. artikel 7.18a, derde en dertiende lid;  
+84°. artikel 7.13, eerste en tweede lid;  
 
-85°. artikel 7.18b, eerste tot en met derde lid;  
+85°. artikel 7.13, vijfde en zesde lid;  
 
-86°. artikel 7.21, eerste en tweede lid;  
+86°. artikel 7.14, eerste lid, en 7.15, eerste lid;  
 
-87°. artikel 7.23, derde tot en met vijfde lid;  
+87°. artikel 7.17a, eerste, tweede, vierde en vijfde lid;  
 
-88°. artikel 7.23, achtste tot en met tiende lid;  
+88°. artikel 7.17c, vierde tot en met zesde lid;  
 
-89°. artikel 7.23a, eerste tot en met derde lid;  
+89°. artikel 7.18, zesde tot en met achtste lid;  
 
-90°. artikel 7.23b, derde en vijfde lid;  
+90°. artikel 7.18a, derde en dertiende lid;  
 
-91°. artikel 7.23b, zesde en zevende lid;  
+91°. artikel 7.18b, eerste tot en met derde lid;  
 
-92°. artikel 7.23c, eerste lid, onderdelen a tot en met e, en tweede lid;  
+92°. artikel 7.21, eerste en tweede lid;  
 
-93°. artikel 7.26, eerste en tweede lid;  
+93°. artikel 7.23, derde tot en met vijfde lid;  
 
-94°. artikel 7.29, tweede tot en met vierde lid;  
+94°. artikel 7.23, achtste tot en met tiende lid;  
 
-95°. artikel 7.29, vijfde en zesde lid;  
+95°. artikel 7.23a, eerste tot en met derde lid;  
 
-96°. artikel 7.29, zevende en achtste lid;  
+96°. artikel 7.23b, derde en vijfde lid;  
 
-97°. artikel 8.1, tweede tot en met vierde en zevende lid;  
+97°. artikel 7.23b, zesde en zevende lid;  
 
-98°. artikel 8.3, eerste en tweede lid; en  
+98°. artikel 7.23c, eerste lid, onderdelen a tot en met e, en tweede lid;  
 
-99°. artikel 8.3, derde en vierde lid;    
+99°. artikel 7.26, eerste en tweede lid;  
+
+100°. artikel 7.29, tweede tot en met vierde lid;  
+
+101°. artikel 7.29, vijfde en zesde lid;  
+
+102°. artikel 7.29, zevende en achtste lid;  
+
+103°. artikel 8.1, tweede tot en met vierde en zevende lid;  
+
+104°. artikel 8.3, eerste en tweede lid; en  
+
+105°. artikel 8.3, derde en vierde lid;    
 
 c. van de Arbeidsomstandighedenregeling: 
 
@@ -1870,9 +1885,11 @@ c. van de Arbeidsomstandighedenregeling:
 
 7°. artikel 4.9, eerste en tweede lid;  
 
-8°. de artikelen 4.19, tweede lid, en 4.20, tweede lid; en  
+8°. artikel 4.15, eerste lid, onderdelen a tot en met d, tweede en derde lid; 
 
-9°. artikel 8.2, eerste en tweede lid.     
+9°. de artikelen 4.19, tweede lid, en 4.20, tweede lid; en  
+
+10°. artikel 8.2, eerste en tweede lid.     
 
 ### Hoofdstuk 9 
 
@@ -36663,7 +36680,7 @@ Radioactieve stoffen of ioniserende straling  ![52032](http://wetten.overheid.nl
 Hangende lasten  ![52033](http://wetten.overheid.nl/Illustration/52033)
 Transportvoertuigen  ![52034](http://wetten.overheid.nl/Illustration/52034)
 Gevaar voor elektrische spanning  ![52035](http://wetten.overheid.nl/Illustration/52035)
-Gevaar  ![52036](http://wetten.overheid.nl/Illustration/52036)
+Gevaar<sup>*Dit waarschuwingsbord wordt niet gebruikt om te waarschuwen voor gevaarlijke stoffen, behalve in het geval waarin het waarschuwingsbord wordt gebruikt op grond van artikel 8.15 om de opslag van gevaarlijke stoffen aan te geven.</sup>  ![52036](http://wetten.overheid.nl/Illustration/52036)
 Laserstraal  ![52037](http://wetten.overheid.nl/Illustration/52037)
 Oxiderende stoffen  ![52038](http://wetten.overheid.nl/Illustration/52038)
 Niet-ioniserende straling  ![52039](http://wetten.overheid.nl/Illustration/52039)
@@ -36671,8 +36688,7 @@ Belangrijk magnetisch veld  ![52040](http://wetten.overheid.nl/Illustration/5204
 Struikelen  ![52041](http://wetten.overheid.nl/Illustration/52041)
 Vallen door hoogteverschil  ![52042](http://wetten.overheid.nl/Illustration/52042)
 Biologisch risico  ![52043](http://wetten.overheid.nl/Illustration/52043)
-Lage temperatuur  ![52044](http://wetten.overheid.nl/Illustration/52044)
-Schadelijke of irriterende stoffen <sup> (1) Bij wijze van uitzondering mag de achtergrond van dit bord oranje zijn, als de kleur gerechtvaardigd is omdat er een soortgelijk bord bestaat voor het wegverkeer. </sup>  ![52045](http://wetten.overheid.nl/Illustration/52045)
+Lage temperatuur  ![52045](http://wetten.overheid.nl/Illustration/52045)
 Explosieve atmosfeer  
 ###*3. Gebodsborden *
 

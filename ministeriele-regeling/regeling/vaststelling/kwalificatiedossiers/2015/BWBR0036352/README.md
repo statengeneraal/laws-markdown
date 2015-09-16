@@ -47,6 +47,10 @@ De kwalificatiedossiers en de daarbij behorende kwalificaties voor zover het bet
 
 Voor de middenkaderopleidingen opgenomen in bijlage 4 bij deze regeling, kan door het bevoegde gezag een studieduur worden vastgesteld van vier studiejaren. 
 
+### Artikel  5a  
+
+1.   Onverminderd het bepaalde in artikel 6.1.3, tweede lid, van de wet mag een instelling als bedoeld in artikel 1.3.2a of artikel 1.3.3 van de wet, de beroepsopleidingen verzorgen die zijn gericht op de kwalificaties die op 31 juli 2015 behoorden tot het werkgebied van het kenniscentrum beroepsonderwijs bedrijfsleven dat op die datum werkzaam was voor de specifieke bedrijfstak of groep van bedrijfstakken waarvoor de instelling opleidingen verzorgt en waarvoor door dat kenniscentrum al dan niet gezamenlijk met een ander kenniscentrum, kwalificatiedossiers zijn ingediend.  
+
 ### Artikel  6  
 
 ####Inwerkingtreding

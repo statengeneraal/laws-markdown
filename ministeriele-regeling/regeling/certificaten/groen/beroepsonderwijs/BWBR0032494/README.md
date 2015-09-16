@@ -22,7 +22,7 @@ d. wettelijke beroepsvereisten gezelschapsdieren HKB, onderdeel van de kwalifica
 
 e. wettelijke beroepsvereisten recreatiedieren HKB, onderdeel van de kwalificaties Recreatiedieren 3 (dierverzorger recreatiedieren) en Ondernemer/manager recreatiedieren, bedoeld in Bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012;  
 
-f. de onderdelen CE Herpeten, CE Honden en katten, CE Overige zoogdieren, CE Vissen en CE Vogels van de wettelijke beroepsvereisten gezelschapsdieren Besluit houden van dieren, Crebocode 97790 en 97791, bedoeld in bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012;  
+f. de onderdelen CE Herpeten, CE Honden en katten, CE Overige zoogdieren, CE Vissen en CE Vogels van de wettelijke beroepsvereisten gezelschapsdieren Besluit houders van dieren, Crebocode 97790 en 97791, bedoeld in bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012;  
 
 g. wettelijke beroepsvereisten dierenartsassistent paraveterinair, Crebocode 97590, bedoeld in bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012; 
 
@@ -46,7 +46,7 @@ e. een beschermlaag die verkleurt bij mechanische of chemische aantasting.
 
 ### Artikel  3  
 
-De resultatenlijst behorend bij een certificaat als bedoeld in artikel 1, onderdelen g en h, vermelden de diergroep, bedoeld in artikel 8.6 van de Regeling houders van dieren, waarvoor het onderwijs is genoten. 
+De certificaten, bedoeld in artikel 1, onderdelen g en h, vermelden de diergroep, bedoeld in artikel 8.6 van de Regeling houders van dieren, waarvoor het onderwijs is genoten. 
 
 ### Artikel  4  
 
@@ -110,5 +110,5 @@ Het waardedocument wordt ondertekend door één of meer leden van de examencommi
 
 ####Extra informatie
 
-Instellingen hebben de mogelijkheid om extra informatie op het certificaat te plaatsen. Hierbij kan worden gedacht aan de vermelding van bijvoorbeeld de naam van het kenniscentrum beroepsonderwijs bedrijfsleven, de leerweg en de naam van het leerbedrijf. Omwille van de herkenbaarheid van certificaten is het van belang terughoudend te zijn bij het opnemen van extra informatie. 
+Instellingen hebben de mogelijkheid om extra informatie op het certificaat te plaatsen. Hierbij kan worden gedacht aan de vermelding van bijvoorbeeld de leerweg en de naam van het leerbedrijf. Omwille van de herkenbaarheid van certificaten is het van belang terughoudend te zijn bij het opnemen van extra informatie. 
 
