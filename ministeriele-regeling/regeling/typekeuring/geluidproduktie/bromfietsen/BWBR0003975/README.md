@@ -3,7 +3,7 @@
 ##Regeling typekeuring geluidproduktie bromfietsen
 
 De minister van Volkshuisvesting Ruimtelijke Ordening en Milieubeheer, de staatssecretaris van Verkeer en Waterstaat en de minister van Economische Zaken;  
-Gelet op de [artikelen 2](../../../../../../AMvB/besluit/geluidproduktie/bromfietsen/BWBR0003834/README.md), [4](../../../../../../AMvB/besluit/geluidproduktie/bromfietsen/BWBR0003834/README.md) en [9 van het Besluit geluidproduktie bromfietsen](../../../../../../AMvB/besluit/geluidproduktie/bromfietsen/BWBR0003834/README.md) (Stb. 1985, 473);
+Gelet op de artikelen 2, 4 en 9 van het Besluit geluidproduktie bromfietsen (Stb. 1985, 473);
 Besluiten:     
 ### Hoofdstuk  I  
 
@@ -19,11 +19,11 @@ Besluiten:
 
 ### Artikel  6  
 
-De keuring, bedoeld in [artikel 2, onder a, van het Besluit geluidproduktie bromfietsen](../../../../../../AMvB/besluit/geluidproduktie/bromfietsen/BWBR0003834/README.md) wordt verricht aan de hand van de voorschriften, vervat in Richtlijn 97/24, op basis van de in bijlage I van hoofdstuk 9 in die richtlijn genoemde grenswaarden. 
+De keuring, bedoeld in artikel 2, onder a, van het Besluit geluidproduktie bromfietsen wordt verricht aan de hand van de voorschriften, vervat in Richtlijn 97/24, op basis van de in bijlage I van hoofdstuk 9 in die richtlijn genoemde grenswaarden. 
 
 ### Artikel 6a  
 
-De keuring, bedoeld in artikel 2, onder a, en de keuring die buiten het onder a bedoelde kader heeft plaatsgehad, bedoeld in [artikel 2, onder b, van het Besluit geluidproduktie bromfietsen](../../../../../../AMvB/besluit/geluidproduktie/bromfietsen/BWBR0003834/README.md), mogen tot 17 juni 1999 worden verricht aan de hand van de voorschriften vervat in richtlijn 87/56. 
+De keuring, bedoeld in artikel 2, onder a, en de keuring die buiten het onder a bedoelde kader heeft plaatsgehad, bedoeld in artikel 2, onder b, van het Besluit geluidproduktie bromfietsen, mogen tot 17 juni 1999 worden verricht aan de hand van de voorschriften vervat in richtlijn 87/56. 
 
 ### Artikel 6b  
 
@@ -35,7 +35,7 @@ Ten aanzien van het vervaardigen, invoeren, in voorraad hebben, te koop aanbiede
 
 ### Artikel  7  
 
-Een verzoek om goedkeuring als bedoeld in [artikel 2, onder b, van het Besluit geluidproduktie bromfietsen](../../../../../../AMvB/besluit/geluidproduktie/bromfietsen/BWBR0003834/README.md), wordt ingediend bij de Dienst Wegverkeer te Zoetermeer. 
+Een verzoek om goedkeuring als bedoeld in artikel 2, onder b, van het Besluit geluidproduktie bromfietsen, wordt ingediend bij de Dienst Wegverkeer te Zoetermeer. 
 
 ### Hoofdstuk   V  
 

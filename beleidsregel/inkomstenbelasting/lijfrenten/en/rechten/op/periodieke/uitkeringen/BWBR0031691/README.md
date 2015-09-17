@@ -49,9 +49,9 @@ In dit besluit zijn de beleidsstandpunten opgenomen over de lijfrenteverzekering
 
 – Inkomensgerelateerde inkomensvoorzieningen; overgangsregeling Wet VPL en pensionering vóór 65 jaar (6.1.13);  
 
-– Schuldig gebleven premie (7.1.3);  
+– Schuldig gebleven premie (7.1.3); 
 
-– Geen toepassing van de minimumwaarderingsregel bij afkoop van de aanspraak op lijfrente of periodieke uitkeringen (9.1.2); 
+– Geen toepassing van de minimumwaarderingsregel bij afkoop van de aanspraak op lijfrente of periodieke uitkeringen (9.1.2);  
 
 – Geen schending van voorwaarden bij ‘afkoop’ kleine lijfrente (9.1.1);  
 
@@ -820,7 +820,7 @@ Aftrek van lijfrentepremie of inleg op een lijfrentespaarrekening als uitgave vo
 
 – Als de waarde in het economische verkeer van dat recht of tegoed minder bedraagt dan het bedrag genoemd in artikel 3.126a, vijfde lid, en artikel 3.133, tweede lid, onderdeel d van de Wet IB 2001 (zogenoemde afkoopregeling kleine lijfrenten). In die situatie is volgens de wet sprake van één reguliere termijn.  
 
-– Voor zover de opgebouwde rechten onder de eerbiedigende werking van artikel 75 van de Wet IB 1964 vallen.   Voor lijfrentevoorzieningen die nog niet in de uitkeringsfase zijn, wordt de waarde in het economische verkeer van de lijfrente gesteld op de betaalde premie of inleg. Dit is de zogenoemde minimumwaarderingsregel (artikel 3.137, eerste lid, tweede volzin, van de Wet IB 2001). Bij afkoop van de aanspraak kan hierbij onder bepaalde voorwaarden nog rekening worden gehouden met niet-afgetrokken premie of inleg. Daarnaast is de belastingplichtige revisierente verschuldigd over de waarde in het economische verkeer van het recht of tegoed (artikel 30i van de AWR).   
+– Voor zover de opgebouwde rechten onder de eerbiedigende werking van artikel 75 van de Wet IB 1964 vallen.   Voor lijfrentevoorzieningen die nog niet in de uitkeringsfase zijn, wordt de waarde in het economische verkeer van de lijfrente gesteld op de betaalde premie of inleg. Dit is de zogenoemde minimumwaarderingsregel (artikel 3.137, eerste lid, tweede volzin, van de Wet IB 2001). Bij afkoop van de aanspraak kan hierbij onder bepaalde voorwaarden nog rekening worden gehouden met niet-afgetrokken premie of inleg. Daarnaast is de belastingplichtige revisierente verschuldigd over de waarde in het economische verkeer van het recht of tegoed (artikel 30i van de AWR).  
 ### 9.1.2  
 
 ####Geen toepassing van de minimumwaarderingsregel bij afkoop van de aanspraak op lijfrente of periodieke uitkeringen
@@ -833,10 +833,6 @@ Ik keur goed dat de minimumwaarderingsregel (artikel 3.137, eerste lid, tweede v
 
 ####Premievakantie bij gemengde lijfrente; gevolgen
 
-Door de recente economische ontwikkelingen zijn belastingplichtigen eerder genoodzaakt om lijfrenteovereenkomsten af te kopen. De toepassing van de minimumwaarderingsregel bij (geheel of gedeeltelijke) afkoop van een aanspraak op lijfrente kan er toe leiden dat een belastingplichtige meer belasting is verschuldigd dan het bedrag van de afkoopsom van de lijfrente. Dit doet zich met name voor bij lijfrenteovereenkomsten waarbij de waarde van de aanspraak op lijfrente door beleggingsverliezen aanzienlijk lager ligt dan de betaalde en afgetrokken premies of inleg. In dit kader acht ik het geschetste fiscale gevolg ongewenst dat de toepassing van de minimumwaarderingsregel krijgt bij afkoop van een aanspraak op lijfrente of periodieke uitkeringen. De minimumwaarderingsregel is mede in de wet opgenomen om oneigenlijk gebruik (boxarbitrage) tegen te gaan. Boxarbitrage kan zich echter niet voordoen in situaties van afkoop. Daarom keur ik vooruitlopend op wetgeving het volgende goed. 
-### *Goedkeuring* 
-
-Ik keur goed dat de minimumwaarderingsregel (artikel 3.137, eerste lid, tweede volzin, van de Wet IB 2001) niet van toepassing is bij afkoop van een aanspraak op lijfrente of periodieke uitkeringen. Als de definitieve aanslag over het jaar waarin de afkoop heeft plaatsgevonden onherroepelijk vaststaat, gelden de bijzondere regels voor ambtshalve vermindering zoals opgenomen in artikel 9.6 van de Wet IB 2001 met dien verstande dat artikel 45aa, onderdeel c, van de Uitv. Reg. IB 2001 geen toepassing vindt.   
 ### 9.1.4  
 
 ####Afkoop nabestaandenlijfrente; hoogte negatieve uitgaven

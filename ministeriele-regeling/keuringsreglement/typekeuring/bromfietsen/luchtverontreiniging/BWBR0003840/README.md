@@ -3,12 +3,12 @@
 ##Keuringsreglement typekeuring bromfietsen luchtverontreiniging
 
 De minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, en de staatssecretaris van Verkeer en Waterstaat,  
-Gelet op [artikel 8 van het Besluit typekeuring bromfietsen luchtverontreiniging](../../../../../../AMvB/besluit/typekeuring/bromfietsen/luchtverontreiniging/BWBR0003722/README.md) (Stb. 1984, 525);
+Gelet op artikel 8 van het Besluit typekeuring bromfietsen luchtverontreiniging (Stb. 1984, 525);
 Besluiten:    
 
 ### Artikel  1  
 
-1.  Bij de aanvraag om een keuring als bedoeld in [artikel 2, eerste lid, van het Besluit typekeuring bromfietsen luchtverontreiniging](../../../../../../AMvB/besluit/typekeuring/bromfietsen/luchtverontreiniging/BWBR0003722/README.md) dienen met betrekking tot het in de aanvraag vermelde type te worden verstrekt: 
+1.  Bij de aanvraag om een keuring als bedoeld in artikel 2, eerste lid, van het Besluit typekeuring bromfietsen luchtverontreiniging dienen met betrekking tot het in de aanvraag vermelde type te worden verstrekt: 
 
 a. een volledig ingevuld formulier overeenkomstig Annex 1 van het Reglement nr. 47 behorende bij de Overeenkomst betreffende het aannemen van eenvormige goedkeuringsvoorwaarden en de wederzijdse erkenning van goedkeuring van uitrustingsstukken en onderdelen van motorrijtuigen (Trb. 1959, 83); 
 

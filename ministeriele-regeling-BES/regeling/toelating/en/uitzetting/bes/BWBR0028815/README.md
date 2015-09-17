@@ -57,78 +57,70 @@ b. zich naar Nederland begeeft voor een tijdsduur of doel als aangegeven bij die
 
 ### Artikel  4.1  
 
-1.  Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, is de vreemdeling die in het bezit is van een mvv, geldig voor het doel waar verblijf voor wordt gevraagd, een bedrag van USD 161 verschuldigd.   
-2.  Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, is de vreemdeling die niet in het bezit is van een mvv geldig voor het doel waar verblijf voor wordt gevraagd, een bedrag van USD 283 verschuldigd, met uitzondering van de vreemdeling die: 
+1.  Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, is de vreemdeling die in het bezit is van een machtiging tot voorlopig verblijf, geldig voor het doel waar verblijf voor wordt gevraagd, geen leges verschuldigd.   
+2.  Ter zake van de afdoening van een aanvraag tot het verlenen of wijzigen onderscheidenlijk verlengen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, is de vreemdeling die niet in het bezit is van een machtiging tot voorlopig verblijf geldig voor het doel waar verblijf voor wordt gevraagd, voor een verblijfsdoel als bedoeld in kolom I, het daarachter vermelde bedrag in kolom II onderscheidenlijk kolom III verschuldigd.  
 
-a. ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel, bedoeld in artikel 5.2, eerste lid, onder c, d, f, h, i, j, l of m van het besluit, een bedrag van USD 372 verschuldigd is;  
-
-b. ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel, bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, een bedrag van USD 712 verschuldigd is;  
-
-c. ter zake van de afdoening van de gelijktijdig met de aanvraag van de hoofdpersoon tot het verlenen van een verblijfsvergunning voor een ander verblijfsdoel dan bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, ingediende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, voor verblijf bij die hoofdpersoon, een bedrag van USD 161 is verschuldigd;  
-
-d. ter zake van de afdoening van de gelijktijdig met de aanvraag van de vreemdeling tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, die daarvoor een bedrag van USD 712 is verschuldigd, ingediende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, een bedrag van USD 161 is verschuldigd;  
-
-e. ter zake van de afdoening van de eerste aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, ten behoeve een in Bonaire, Sint Eustatius of Saba geboren kind uit één ouder die houder is van een verblijfsvergunning als bedoeld in artikel 6 of 12a van de Wet, een bedrag van USD 161 verschuldigd is.    
+| I. Verblijfsdoel  | II. Verlening of wijziging  | III. Verlenging  |
+|:---|:---|:---|
+| a. ‘gezinshereniging of gezinsvorming’  | USD 209  | USD 209  |
+| b. ‘verblijf ter adoptie of als pleegkind’  | USD 49  | USD 49  |
+| c. ‘het verrichten van arbeid in loondienst’  | USD 788  | USD 334  |
+| d. ‘het verrichten van arbeid als zelfstandige’  | USD 1.159  | USD 334  |
+| e. ‘voortgezet verblijf’  | USD 209  | USD 209  |
+| f. ‘verblijf als gepensioneerde of rentenier’  | USD 788  | USD 334  |
+| g. ‘wedertoelating’  | USD 882  | USD 334  |
+| h. ‘het volgen van studie’  | USD 279  | USD 140  |
+| i. ‘verblijf als stagiair’  | USD 696  | niet van toepassing  |
+| j. ‘verblijf als praktikant’  | USD 696  | niet van toepassing  |
+| k. ‘vervolging van mensenhandel’  | USD 0  | USD 0  |
+| l. ‘verblijf als investeerder’  | USD 788  | USD 334  |
+| m. ‘verblijf als vrijwilliger’  | USD 788  | USD 334  |
 
 ### Artikel  4.2  
 
-1.  In afwijking van artikel 4.1 is de vreemdeling geen leges verschuldigd indien hij: 
+1.  In afwijking van artikel 4.1 is de vreemdeling voor een aanvraag om verlening of wijziging van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet geen leges verschuldigd indien hij: 
 
-a. in aanmerking komt voor verlening van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder k, van het besluit;  
+a. als minderjarig kind een aanvraag indient tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, bij een vreemdeling die een aanvraag heeft ingediend tot het verlenen van een verblijfsvergunning voor bepaalde tijd dan wel verblijf geniet als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder k, van het besluit;  
 
-b. als minderjarig kind een aanvraag indient tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, bij een vreemdeling die een aanvraag heeft ingediend tot het verlenen van een verblijfsvergunning voor bepaalde tijd dan wel verblijf geniet als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder k, van het besluit;  
+b. als gezinslid van de houder van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 12a van de Wet, gelijktijdig met de hoofdpersoon is ingereisd dan wel binnen drie maanden nadat aan de hoofdpersoon deze verblijfsvergunning is verleend, is nagereisd, en niet dezelfde nationaliteit heeft als de hoofdpersoon, een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet onder een beperking verband houdend met gezinshereniging indient;  
 
-c. als gezinslid van de houder van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 12a van de Wet, gelijktijdig met de hoofdpersoon is ingereisd dan wel binnen drie maanden nadat aan de hoofdpersoon deze verblijfsvergunning is verleend, is nagereisd, en niet dezelfde nationaliteit heeft als de hoofdpersoon, een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet onder een beperking verband houdend met gezinshereniging indient;  
+c. een aanvraag indient in het geval, bedoeld in artikel 5.49, tweede lid, van het besluit;  
 
-d. een aanvraag indient in het geval, bedoeld in artikel 5.49, tweede lid, van het besluit;  
-
-e. een aanvraag indient tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, om redenen verband houdend met bescherming aan de vreemdeling als bedoeld in artikel 12a van de Wet.     
+d. een aanvraag indient tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, om redenen verband houdend met bescherming aan de vreemdeling als bedoeld in artikel 12a van de Wet.     
 2.  In aanvulling op het eerste lid kan de Minister in overleg met de Minister van Buitenlandse Zaken bepalen dat de vastgestelde leges niet zijn verschuldigd in het belang van de internationale betrekkingen.  
 
 ### Artikel  4.3  
 
-Ter zake van de afdoening van een aanvraag tot het wijzigen van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 6 van de Wet, is de vreemdeling een bedrag van USD 283 verschuldigd, met uitzondering van de vreemdeling indien hij: 
+1.  In afwijking van artikel 4.1 is de vreemdeling voor een aanvraag om verlenging van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet geen leges verschuldigd indien: 
 
-a. een aanvraag indient tot het wijzigen van de verblijfsvergunning, in een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder c, d, f, h, i, j, l of m van het besluit, ter zake van de afdoening waarvan een bedrag van USD 372 is verschuldigd;  
+a. deze aanvraag gelijktijdig is ontvangen met een aanvraag tot het wijzigen van een verblijfsvergunning, tenzij deze aanvragen zijn ontvangen een jaar of langer voordat de geldigheidsduur van de vergunning afloopt;  
 
-b. een aanvraag indient tot het wijzigen van de verblijfsvergunning in een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit ter zake van de afdoening waarvan een bedrag van USD 712 is verschuldigd;  
+b. deze aanvraag gelijktijdig is ontvangen met een aanvraag tot het verlenen van een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 4.6, tenzij deze aanvragen zijn ontvangen een jaar of langer voordat de geldigheidsduur van de vergunning afloopt;  
 
-c. ter zake van de afdoening van een gelijktijdig met de aanvraag van de hoofdpersoon tot het wijzigen van een verblijfsvergunning voor een ander verblijfsdoel dan bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, ingediende aanvraag tot het wijzigen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, voor verblijf bij die hoofdpersoon, een bedrag van USD 161 is verschuldigd;  
+c. het minderjarige kind van de vreemdeling, die verblijf heeft op grond van artikel 5.2, eerste lid, onder k, van het besluit, een aanvraag indient tot het verlengen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit;  
 
-d. ter zake van de afdoening van een gelijktijdig met de aanvraag van een vreemdeling tot het wijzigen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, die daarvoor USD 712 is verschuldigd, ingediende aanvraag tot het wijzigen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, een bedrag van USD 161 is verschuldigd.   
+d. de vreemdeling in aanmerking komt voor verlenging van de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 6 van de Wet, om redenen verband houdend met bescherming van de vreemdeling als bedoeld in artikel 12a van de Wet.    
 
 ### Artikel  4.4  
 
-Ter zake van de afdoening van een aanvraag tot het verlengen van de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 6 van de Wet, is de vreemdeling een bedrag van USD 247 verschuldigd met uitzondering van de vreemdeling die: 
+In afwijking van artikel 4.1 is de vreemdeling geen leges verschuldigd ter zake van: 
 
-a. ter zake van de afdoening van een aanvraag tot het verlengen van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder h, van het besluit, een bedrag van USD 44 verschuldigd is;  
+a. de afdoening van de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, indien hij om vrijstelling van leges verzoekt, daarbij een gerechtvaardigd beroep doet op artikel 8 EVRM en aantoont niet te kunnen beschikken over middelen om aan de legesverplichting te kunnen voldoen.  
 
-b. ter zake van de afdoening van een aanvraag tot het verlengen van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 6 van de Wet, onder de beperking ’(verruimde) gezinshereniging bij ouder(s)’ een bedrag van USD 44 verschuldigd is.   
+b. de afdoening van de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, indien hij ontheven is van de legesverplichting voor de behandeling van de aanvraag om een machtiging tot voorlopig verblijf, voorafgaande aan de ingediende aanvraag.  
+
+c. de afdoening van een aanvraag tot het wijzigen van een verblijfsvergunning, in een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6, van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, indien deze vreemdeling om ontheffing van leges verzoekt, daarbij een gerechtvaardigd beroep doet op artikel 8 EVRM en daarbij aantoont niet te kunnen beschikken over middelen om aan de legesverplichting te kunnen voldoen.  
+
+d. de afdoening van een aanvraag tot het verlengen van de verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, welke is verleend is voor het verblijfsdoel ’uitoefenen van het gezinsleven conform artikel 8 EVRM’, indien deze vreemdeling om ontheffing van leges verzoekt, daarbij een gerechtvaardigd beroep doet op artikel 8 EVRM en daarbij aantoont niet te kunnen beschikken over middelen om aan de legesverplichting te kunnen voldoen.   
 
 ### Artikel  4.5  
 
-In afwijking van artikel 4.4 is de vreemdeling geen leges verschuldigd ter zake van de afdoening van een aanvraag tot het verlengen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, indien: 
-
-a. deze aanvraag gelijktijdig is ontvangen met een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in artikel 4.3, eerste lid, tenzij deze aanvragen zijn ontvangen een jaar of langer voordat de geldigheidsduur van de vergunning afloopt;  
-
-b. deze aanvraag gelijktijdig is ontvangen met een aanvraag tot het verlenen van een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 4.7, tenzij deze aanvragen zijn ontvangen een jaar of langer voordat de geldigheidsduur van de vergunning afloopt;  
-
-c. de vreemdeling in aanmerking komt voor verlenging van de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder k, van het besluit;  
-
-d. het minderjarige kind van de vreemdeling, die verblijf heeft op grond van artikel 5.2, eerste lid, onder k, van het besluit, een aanvraag indient tot het verlengen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit;  
-
-e. de vreemdeling in aanmerking komt voor verlenging van de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 6 van de Wet, om redenen verband houdend met bescherming van de vreemdeling als bedoeld in artikel 12a van de Wet.   
+1.  Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 6 van de Wet, is de vreemdeling een bedrag van USD 140 verschuldigd.   
+2.  Ter zake van de afgifte ter uitvoering van artikel 6.18, tweede lid, van het besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 6 van de Wet blijkt, is de vreemdeling een bedrag van USD 49 verschuldigd.  
 
 ### Artikel  4.6  
 
-1.  In afwijking van artikel 4.1 is de vreemdeling geen leges verschuldigd ter zake van de afdoening van de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, indien hij om vrijstelling van leges verzoekt, daarbij een gerechtvaardigd beroep doet op artikel 8 EVRM en aantoont niet te kunnen beschikken over middelen om aan de legesverplichting te kunnen voldoen.   
-2.  De vreemdeling is evenmin leges verschuldigd ter zake van de afdoening van de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, indien hij ontheven is van de legesverplichting voor de behandeling van de mvv-aanvraag, voorafgaande aan de ingediende aanvraag.   
-3.  In afwijking van artikel 4.3, onder b, is de vreemdeling geen leges verschuldigd ter zake van de afdoening van een aanvraag tot het wijzigen van een verblijfsvergunning, in een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6, van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, indien deze vreemdeling om ontheffing van leges verzoekt, daarbij een gerechtvaardigd beroep doet op artikel 8 EVRM en daarbij aantoont niet te kunnen beschikken over middelen om aan de legesverplichting te kunnen voldoen.   
-4.  In afwijking van artikel 4.4 is de vreemdeling die in het bezit is van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, welke is verleend is voor het verblijfsdoel ’uitoefenen van het gezinsleven conform artikel 8 EVRM’, geen leges verschuldigd voor het afdoen van een aanvraag tot het verlengen van de verblijfsvergunning, indien deze vreemdeling om ontheffing van leges verzoekt, daarbij een gerechtvaardigd beroep doet op artikel 8 EVRM en daarbij aantoont niet te kunnen beschikken over middelen om aan de legesverplichting te kunnen voldoen.  
-
-### Artikel  4.7  
-
-Ter zake van de afdoening van een aanvraag tot het verlenen of het wijzigen van een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 6 van de Wet, is de vreemdeling een bedrag van USD 345 verschuldigd. 
+In afwijking van de tarieftabel in artikel 4.1, rijen a en e, en artikel 4.5, eerste lid, is de minderjarige vreemdeling een bedrag van USD 49 verschuldigd. 
 
 ### Artikel  4.8  
 

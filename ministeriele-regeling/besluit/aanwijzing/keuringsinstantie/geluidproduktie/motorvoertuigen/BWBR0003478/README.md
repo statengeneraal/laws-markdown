@@ -3,7 +3,7 @@
 ##Besluit aanwijzing keuringsinstantie geluidproduktie motorvoertuigen
 
 De Staatssecretaris van Volksgezondheid en Milieuhygiëne, de Staatssecretaris van Verkeer en Waterstaat en de Minister van Economische Zaken;  
-Gelet op de [artikelen 2](../../../../../../../AMvB/besluit/geluidproduktie/motorvoertuigen/BWBR0003464/README.md) en [3 van het Besluit geluidproduktie motorvoertuigen](../../../../../../../AMvB/besluit/geluidproduktie/motorvoertuigen/BWBR0003464/README.md) (Stb. 1981, 741);
+Gelet op de artikelen 2 en 3 van het Besluit geluidproduktie motorvoertuigen (Stb. 1981, 741);
 Besluiten:    
 
 ### Artikel  1  

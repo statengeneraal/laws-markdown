@@ -3,7 +3,7 @@
 ##Regeling typekeuring uitlaatsystemen motorvoertuigen en bromfietsen
 
 De minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de staatssecretaris van Verkeer en Waterstaat en de minister van Economische Zaken;  
-Gelet op de [artikelen 2, onder a en c](../../../../../../../../AMvB/besluit/uitlaatsystemen/motorvoertuigen/en/bromfietsen/BWBR0003835/README.md), [3](../../../../../../../../AMvB/besluit/uitlaatsystemen/motorvoertuigen/en/bromfietsen/BWBR0003835/README.md), [5](../../../../../../../../AMvB/besluit/uitlaatsystemen/motorvoertuigen/en/bromfietsen/BWBR0003835/README.md) en [10 van het Besluit uitlaatsystemen motorvoertuigen en bromfietsen](../../../../../../../../AMvB/besluit/uitlaatsystemen/motorvoertuigen/en/bromfietsen/BWBR0003835/README.md) (Stb. 1985, 474);
+Gelet op de artikelen 2, onder a en c, 3, 5 en 10 van het Besluit uitlaatsystemen motorvoertuigen en bromfietsen (Stb. 1985, 474);
 Besluiten:     
 ### Hoofdstuk  I  
 
@@ -11,7 +11,7 @@ Besluiten:
 
 ### Artikel  1  
 
-De Dienst Wegverkeer te Zoetermeer te 's-Gravenhage wordt aangewezen als instantie, belast met de keuringen van typen uitlaatsystemen, bedoeld in de [artikelen 2, onder a](../../../../../../../../AMvB/besluit/uitlaatsystemen/motorvoertuigen/en/bromfietsen/BWBR0003835/README.md), en [3, onder a, van het Besluit uitlaatsystemen motorvoertuigen en bromfietsen](../../../../../../../../AMvB/besluit/uitlaatsystemen/motorvoertuigen/en/bromfietsen/BWBR0003835/README.md) (Stb. 1985, 474). 
+De Dienst Wegverkeer te Zoetermeer te 's-Gravenhage wordt aangewezen als instantie, belast met de keuringen van typen uitlaatsystemen, bedoeld in de artikelen 2, onder a, en 3, onder a, van het Besluit uitlaatsystemen motorvoertuigen en bromfietsen (Stb. 1985, 474). 
 
 ### Hoofdstuk  II  
 
@@ -62,7 +62,7 @@ c. voor een uitlaatsysteem bestemd voor een motorvoertuig op minder dan vier wie
 
 ### Artikel  6  
 
-Indien het type uitlaatsysteem wordt goedgekeurd, gaat het besluit, bedoeld in [artikel 8 van het Besluit uitlaatsystemen motorvoertuigen en bromfietsen](../../../../../../../../AMvB/besluit/uitlaatsystemen/motorvoertuigen/en/bromfietsen/BWBR0003835/README.md), vergezeld van een door de keuringsinstantie overeenkomstig Bijlage I bij deze regeling opgesteld keuringscertificaat, waarop het goedkeuringsnummer is vermeld. 
+Indien het type uitlaatsysteem wordt goedgekeurd, gaat het besluit, bedoeld in artikel 8 van het Besluit uitlaatsystemen motorvoertuigen en bromfietsen, vergezeld van een door de keuringsinstantie overeenkomstig Bijlage I bij deze regeling opgesteld keuringscertificaat, waarop het goedkeuringsnummer is vermeld. 
 
 ### Hoofdstuk  III  
 
@@ -74,13 +74,13 @@ Indien het type uitlaatsysteem wordt goedgekeurd, gaat het besluit, bedoeld in [
 
 ### Artikel  7  
 
-1. De keuring, bedoeld in [artikel 2, onder a, van het Besluit uitlaatsystemen motorvoertuigen en bromfietsen](../../../../../../../../AMvB/besluit/uitlaatsystemen/motorvoertuigen/en/bromfietsen/BWBR0003835/README.md), van uitlaatsystemen voor motorvoertuigen, bestemd voor personenvervoer, met ten hoogste negen zitplaatsen, die van de bestuurder inbegrepen, of bestemd voor het vervoer van goederen, met een toegestane maximummassa van niet meer dan 3,5 ton, wordt met ingang van 1 april 2000 verricht aan de hand van de voorschriften van Richtlijn 70/157/EEG van de Raad van de Europese Gemeenschappen van 6 februari 1970 inzake de onderlinge aanpassing van de wetgevingen van de lidstaten betreffende het toegestane geluidsniveau en de uitlaatinrichting van motorvoertuigen (PbEG L 42), zoals deze laatstelijk is gewijzigd bij richtlijn 2007/34/EG van de Commissie van de Europese Gemeenschappen van 14 juni 2007 (PbEG L 155).
+1. De keuring, bedoeld in artikel 2, onder a, van het Besluit uitlaatsystemen motorvoertuigen en bromfietsen, van uitlaatsystemen voor motorvoertuigen, bestemd voor personenvervoer, met ten hoogste negen zitplaatsen, die van de bestuurder inbegrepen, of bestemd voor het vervoer van goederen, met een toegestane maximummassa van niet meer dan 3,5 ton, wordt met ingang van 1 april 2000 verricht aan de hand van de voorschriften van Richtlijn 70/157/EEG van de Raad van de Europese Gemeenschappen van 6 februari 1970 inzake de onderlinge aanpassing van de wetgevingen van de lidstaten betreffende het toegestane geluidsniveau en de uitlaatinrichting van motorvoertuigen (PbEG L 42), zoals deze laatstelijk is gewijzigd bij richtlijn 2007/34/EG van de Commissie van de Europese Gemeenschappen van 14 juni 2007 (PbEG L 155).
 2.  In afwijking van het eerste lid wordt de keuring op verzoek van de aanvrager tot 1 oktober 2000 verricht aan de hand van de voorschriften van Richtlijn 70/157/EEG van de Raad van de Europese Gemeenschappen van 6 februari 1970 inzake de onderlinge aanpassing van de wetgevingen van de lidstaten betreffende het toegestane geluidsniveau en de uitlaatinrichting van motorvoertuigen (PbEG L 42), als gewijzigd bij Richtlijn 96/20/EG van de Commissie van de Europese Gemeenschappen van 27 maart 1996 (PbEG L 92).
 3.  In afwijking van het eerste en tweede lid wordt de keuring van uitlaatsystemen, bestemd voor montage in voor 1 april 2000 in gebruik zijnde motorvoertuigen, verricht aan de hand van de voorschriften van richtlijn 70/157/EEG van de Raad van de Europese Gemeenschappen van 6 februari 1970 inzake de onderlinge aanpassing van de wetgevingen van de Lid-Staten betreffende het toegestane geluidsniveau en de uitlaatinrichting van motorvoertuigen (PbEG L 42), die van toepassing waren op het tijdstip waarop die motorvoertuigen voor de eerste maal tot het verkeer zijn toegelaten. 
 
 ###Artikel 7a 
 
-Met uitzondering van de uitlaatsystemen waarop artikel 7, derde lid, van toepassing is, houdt ten aanzien van het vervaardigen of invoeren een goedkeuring als bedoeld in [artikel 2, onder a, van het Besluit uitlaatsystemen motorvoertuigen en bromfietsen](../../../../../../../../AMvB/besluit/uitlaatsystemen/motorvoertuigen/en/bromfietsen/BWBR0003835/README.md), met ingang van 1 oktober 2000 op te gelden indien daaraan niet ten grondslag hebben gelegen de voorschriften van Richtlijn 70/157/EEG van de Raad van de Europese Gemeenschappen van 6 februari 1970 inzake de onderlinge aanpassing van de wetgevingen van de lidstaten betreffende het toegestane geluidsniveau en de uitlaatinrichting van motorvoertuigen (PbEG L 42), zoals deze laatstelijk is gewijzigd bij richtlijn 2007/34/EG van de Commissie van de Europese Gemeenschappen van 14 juni 2007 (PbEG L 155).
+Met uitzondering van de uitlaatsystemen waarop artikel 7, derde lid, van toepassing is, houdt ten aanzien van het vervaardigen of invoeren een goedkeuring als bedoeld in artikel 2, onder a, van het Besluit uitlaatsystemen motorvoertuigen en bromfietsen, met ingang van 1 oktober 2000 op te gelden indien daaraan niet ten grondslag hebben gelegen de voorschriften van Richtlijn 70/157/EEG van de Raad van de Europese Gemeenschappen van 6 februari 1970 inzake de onderlinge aanpassing van de wetgevingen van de lidstaten betreffende het toegestane geluidsniveau en de uitlaatinrichting van motorvoertuigen (PbEG L 42), zoals deze laatstelijk is gewijzigd bij richtlijn 2007/34/EG van de Commissie van de Europese Gemeenschappen van 14 juni 2007 (PbEG L 155).
 
 ###§ 2 
 
@@ -88,15 +88,15 @@ Met uitzondering van de uitlaatsystemen waarop artikel 7, derde lid, van toepass
 
 ### Artikel  8  
 
-De keuring, bedoeld in [artikel 3, onder a, van het Besluit uitlaatsystemen motorvoertuigen en bromfietsen](../../../../../../../../AMvB/besluit/uitlaatsystemen/motorvoertuigen/en/bromfietsen/BWBR0003835/README.md) wordt wat betreft uitlaatsystemen voor motorvoertuigen op minder dan vier wielen of voor bromfietsen verricht aan de hand van de voorschriften, vervat in Richtlijn 97/24, hoofdstuk 9. 
+De keuring, bedoeld in artikel 3, onder a, van het Besluit uitlaatsystemen motorvoertuigen en bromfietsen wordt wat betreft uitlaatsystemen voor motorvoertuigen op minder dan vier wielen of voor bromfietsen verricht aan de hand van de voorschriften, vervat in Richtlijn 97/24, hoofdstuk 9. 
 
 ###Artikel 8a 
 
-De keuring, bedoeld in artikel 3, onder a, en het certificaat, bedoeld in [artikel 3, onder b, van het Besluit uitlaatsystemen motorvoertuigen en bromfietsen](../../../../../../../../AMvB/besluit/uitlaatsystemen/motorvoertuigen/en/bromfietsen/BWBR0003835/README.md) mogen wat betreft uitlaatsystemen voor motorvoertuigen op minder dan vier wielen of voor bromfietsen tot 17 juni 1999 worden verricht en verleend aan de hand van de voorschriften vervat in richtlijn 87/56. 
+De keuring, bedoeld in artikel 3, onder a, en het certificaat, bedoeld in artikel 3, onder b, van het Besluit uitlaatsystemen motorvoertuigen en bromfietsen mogen wat betreft uitlaatsystemen voor motorvoertuigen op minder dan vier wielen of voor bromfietsen tot 17 juni 1999 worden verricht en verleend aan de hand van de voorschriften vervat in richtlijn 87/56. 
 
 ###Artikel 8b 
 
-Ten aanzien van het vervaardigen, invoeren, in voorraad hebben, te koop aanbieden, afleveren of vervoeren houden een goedkeuring als bedoeld in artikel 3, onder a, en een mededeling als bedoeld in [artikel 3, onder b, van het Besluit uitlaatsystemen motorvoertuigen en bromfietsen](../../../../../../../../AMvB/besluit/uitlaatsystemen/motorvoertuigen/en/bromfietsen/BWBR0003835/README.md), waaraan de voorschriften van richtlijn 87/56 ten grondslag hebben gelegen, met ingang van 18 december 2000 op te gelden.
+Ten aanzien van het vervaardigen, invoeren, in voorraad hebben, te koop aanbieden, afleveren of vervoeren houden een goedkeuring als bedoeld in artikel 3, onder a, en een mededeling als bedoeld in artikel 3, onder b, van het Besluit uitlaatsystemen motorvoertuigen en bromfietsen, waaraan de voorschriften van richtlijn 87/56 ten grondslag hebben gelegen, met ingang van 18 december 2000 op te gelden.
 
 ### Hoofdstuk  IV  
 
@@ -104,7 +104,7 @@ Ten aanzien van het vervaardigen, invoeren, in voorraad hebben, te koop aanbiede
 
 ### Artikel  9  
 
-1.  Een verzoek om goedkeuring als bedoeld in [artikel 2, onder c](../../../../../../../../AMvB/besluit/uitlaatsystemen/motorvoertuigen/en/bromfietsen/BWBR0003835/README.md), of [3, onder b, van het Besluit uitlaatsystemen motorvoertuigen en bromfietsen](../../../../../../../../AMvB/besluit/uitlaatsystemen/motorvoertuigen/en/bromfietsen/BWBR0003835/README.md), wordt ingediend bij de Rijksdienst voor het Wegverkeer.   
+1.  Een verzoek om goedkeuring als bedoeld in artikel 2, onder c, of 3, onder b, van het Besluit uitlaatsystemen motorvoertuigen en bromfietsen, wordt ingediend bij de Rijksdienst voor het Wegverkeer.   
 2.  Goedkeuring als bedoeld in het eerste lid, wordt in elk geval verleend aan typen uitlaatsystemen die gekeurd zijn bij een keuring door: 
 
 a. een keuringsinstantie als bedoeld in onderdeel 12 van Reglement 59 van de Economische Commissie voor Europa, en goedgekeurd volgens de voorschriften, opgenomen in onderdeel 6 van dat Reglement; 
@@ -128,7 +128,7 @@ hoofdstuk 6 van Reglement 59 van de Economische Commissie voor Europa.
 
 ### Artikel  11  
 
-Deze regeling kan worden aangehaald als [Regeling typekeuring uitlaatsystemen motorvoertuigen en bromfietsen](../../../../../../../../ministeriele-regeling/regeling/typekeuring/uitlaatsystemen/motorvoertuigen/en/bromfietsen/BWBR0003976/README.md). 
+Deze regeling kan worden aangehaald als Regeling typekeuring uitlaatsystemen motorvoertuigen en bromfietsen. 
 
 Leidschendam 
 2 juni 1986    

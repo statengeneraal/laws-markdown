@@ -12,7 +12,7 @@ Besluit:
 
 ### Artikel  1  
 
-Voor subsidieverlening op grond van Afdeling 4 Strategische partnerschappen pleiten en beïnvloeden van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2020 een subsidieplafond van € 915.750.000. 
+Voor subsidieverlening op grond van Afdeling 4 Strategische partnerschappen pleiten en beïnvloeden van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2020 een subsidieplafond van € 923.134.000. 
 
 ### Artikel  2  
 
