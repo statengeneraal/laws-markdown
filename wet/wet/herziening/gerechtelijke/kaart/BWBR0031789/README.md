@@ -1032,7 +1032,7 @@ Wijzigt de Invoeringswet vereenvoudiging en flexibilisering bv-recht (Stb. 2012/
 ### Artikel  CXXXIV  
 
 1. Wijzigt deze wet. 
-2. Wijzigt de Herzieningswet toegelaten instellingen volkshuisvesting (KST. 32769).
+2. Wijzigt de Herzieningswet toegelaten instellingen volkshuisvesting.
 
 ### Artikel  CXXXV  
 

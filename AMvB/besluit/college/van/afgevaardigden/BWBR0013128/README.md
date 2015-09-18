@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 6 november 2001, nr. 5130704/01/6;
 
-Gelet op [artikel 90, tweede lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md);
+Gelet op artikel 90, tweede lid, van de Wet op de rechterlijke organisatie;
 
 De Raad van State gehoord (advies van 3 december 2001, nr. W03.01.0582/I);
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. College: het College van afgevaardigden, bedoeld in [artikel 90 van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md);  
+a. College: het College van afgevaardigden, bedoeld in artikel 90 van de Wet op de rechterlijke organisatie;  
 
 b. appèlgerechten: de gerechtshoven, de Centrale Raad van Beroep en het College van Beroep voor het bedrijfsleven;  
 
@@ -87,7 +87,7 @@ Bij de uitoefening van zijn werkzaamheden wordt het College administratief bijge
 ### Artikel  8  
 
 1.  De vergaderingen van het College zijn openbaar, tenzij het College op grond van bijzondere omstandigheden besluit dat een vergadering niet openbaar is.   
-2.  De zienswijzen van het College, bedoeld in [artikel 92, tweede lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), zijn openbaar. De overige adviezen van het College zijn eveneens openbaar, tenzij het College op grond van bijzondere omstandigheden besluit dat een advies niet openbaar is.  
+2.  De zienswijzen van het College, bedoeld in artikel 92, tweede lid, van de Wet op de rechterlijke organisatie, zijn openbaar. De overige adviezen van het College zijn eveneens openbaar, tenzij het College op grond van bijzondere omstandigheden besluit dat een advies niet openbaar is.  
 
 ### Artikel  9  
 
@@ -104,7 +104,7 @@ De leden van het College ontvangen een vergoeding voor reis- en verblijfskosten 
 
 ### Artikel  11  
 
-1.  In afwijking van de artikelen 2, tweede lid, en 5, eerste lid, aanhef en onder c, behoudt een lid van het College dat ten gevolge van de inwerkingtreding van [artikel II van de Evaluatiewet modernisering rechterlijke organisatie](../../../../../../wet/evaluatiewet/modernisering/rechterlijke/organisatie/BWBR0030035/README.md) niet meer als rechterlijk ambtenaar of gerechtsambtenaar werkzaam is bij een rechtbank in het ressort waarvoor dat lid is afgevaardigd, het lidmaatschap namens dat ressort totdat de termijn waarvoor dat lid is afgevaardigd, is verstreken.   
+1.  In afwijking van de artikelen 2, tweede lid, en 5, eerste lid, aanhef en onder c, behoudt een lid van het College dat ten gevolge van de inwerkingtreding van artikel II van de Evaluatiewet modernisering rechterlijke organisatie niet meer als rechterlijk ambtenaar of gerechtsambtenaar werkzaam is bij een rechtbank in het ressort waarvoor dat lid is afgevaardigd, het lidmaatschap namens dat ressort totdat de termijn waarvoor dat lid is afgevaardigd, is verstreken.   
 2.  De leden van een commissie als bedoeld in artikel 3 die als rechterlijk ambtenaar of gerechtsambtenaar werkzaam zijn bij een rechtbank die op het tijdstip van inwerkingtreding van artikel II van de Evaluatiewet modernisering rechterlijke organisatie overgaat naar een ander ressort, maken van rechtswege deel uit van de commissie in dat andere ressort. 
 
 ### Artikel  12  

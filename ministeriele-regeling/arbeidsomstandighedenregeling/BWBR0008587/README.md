@@ -828,12 +828,6 @@ Indien de situaties, bedoeld in de artikelen 4.11 en 4.12, zich voordoen, wordt 
 
 Een certificaat van vakbekwaamheid gasdeskundige als bedoeld in artikel 3.5h, vierde lid, van het besluit wordt door de minister of, indien de minister een certificerende instelling heeft aangewezen, de certificerende instelling, afgegeven indien de aanvrager voldoet aan de eisen, bedoeld in versie 1 van de Regeling SGT nr. REG/SGT/20/001 van de Stichting Hobéon SKO Certificatie, vastgesteld per 15 mei 2009. 
 
-### Paragraaf  4.1a  
-
-####Werkpleketikettering
-
-Treedt in werking per 01-06-2017 
-
 ### Paragraaf  4.2  
 
 ####Veilig werken met explosieven

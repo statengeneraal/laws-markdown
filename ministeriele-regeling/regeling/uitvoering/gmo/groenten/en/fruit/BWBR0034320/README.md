@@ -711,6 +711,11 @@ c. het doel genoemd in artikel 33 van verordening 1308/2013.
 3.  Ter realisatie van de doelstelling bedoeld in artikel 33, eerste lid, onderdeel f van verordening 1308/2013 kunnen producentenorganisaties de acties genoemd in artikel 33, tweede lid, onderdelen b tot en met d en h, van verordening 1308/2013 opnemen in hun operationeel programma.   
 4.  De minister kan besluiten dat producentenorganisaties de acties genoemd in artikel 33, tweede lid, onderdelen g en h, van verordening 1308/2013 tijdelijk in hun operationeel programma op kunnen nemen.  
 
+### Artikel  43a  
+Treedt in werking per 01-01-2016 
+
+Een operationeel programma dat wordt ingediend in 2015 heeft, in afwijking van artikel 33, eerste lid, van verordening 1308/2013, een maximale looptijd van 3 jaar. 
+
 ### Artikel  44  
 
 1.  Ter uitvoering van artikel 55, vijfde lid, van verordening 543/2011 betreffen de uitgaven van de uitvoering van het operationeel programma voor de maatregelen genoemd in: 
@@ -741,6 +746,16 @@ b. betreft minimaal 10 procent van de uitgaven voor de uitvoering van het operat
 
 1.  De uitgaven, bedoeld in deze titel, zijn subsidiabel indien zij op grond van titel 3 van dit hoofdstuk subsidiabel worden gesteld.   
 2.  De uitgaven, bedoeld in bijlage I, zijn niet subsidiabel.  
+
+### Artikel  46a  
+Treedt in werking per 01-01-2016 
+
+1.  Uitgaven als bedoeld in deze titel worden opgenomen in de steunaanvraag voor het uitvoeringsjaar waarin de activiteit wordt uitgevoerd en de uitgaven worden betaald, tenzij in titel 2 of 3 van dit hoofdstuk anders wordt bepaald.   
+2.  In afwijking van het eerste lid kunnen uitgaven als bedoeld in deze titel worden opgenomen in de steunaanvraag voor het jaar voorafgaand aan het jaar waarin de uitgaven betaald worden indien: 
+
+a. de activiteit is uitgevoerd in het jaar waarvoor de steunaanvraag wordt ingediend, en  
+
+b. de uitgaven betaald zijn in de periode van 1 januari tot en met 14 februari van het jaar dat volgt op het jaar waarop de steunaanvraag betrekking heeft.    
 
 ### Afdeling  2  
 
@@ -1120,6 +1135,18 @@ a. welke applicaties via de server gebruikt worden, en
 
 b. wat het capaciteitsbeslag en het gebruik van de subsidiabele applicaties is.    
 
+### Artikel  75a  
+Treedt in werking per 01-01-2016 
+
+1.  Uitgaven voor investeringen in uitgangsmateriaal van rassen van meerjarige gewassen en licenties voor het gebruik van zaden en plantgoed van nieuwe rassen van meerjarige gewassen die zijn opgenomen in het operationeel programma van een producentenorganisatie zijn subsidiabel, indien de bedoelde rassen: 
+
+a. toegelaten zijn door de Stichting Nederlandse Algemene Kwaliteitsdienst voor de Tuinbouw;  
+
+b. ingeschreven staan in het Nederlandse rassenregister van de Raad voor de plantenrassen, of  
+
+c. ingeschreven staan bij een keuringsinstantie van een andere lidstaat.     
+2.  Op verzoek van de minister overlegt de producentenorganisatie voor de zaden en het plantgoed, bedoeld in het eerste lid, het plantenpaspoort, bedoeld in richtlijn 2000/29.  
+
 ### Artikel  76  
 
 Producentenorganisaties houden voor alle duurzame productiemiddelen die zijn opgenomen in een lopend operationeel programma, met gebruikmaking van een door de minister vastgesteld model, een actueel register bij.
@@ -1288,6 +1315,18 @@ c. een deugdelijke kilometeradministratie.
 4.  Jaarlijkse licentiekosten en abonnementen voor software als bedoeld in artikel 75, eerste lid, onderdeel b, zijn voor maximaal 50% subsidiabel indien het uitgaven voor subsidiabele applicaties en modules betreft.   
 5.  Onderhoudsabonnementen zijn niet subsidiabel.  
 
+### Artikel  92a  
+Treedt in werking per 01-01-2016 
+
+1.  Uitgaven voor investeringen in uitgangsmateriaal voor rassen van eenjarige gewassen en licenties voor het gebruik van zaden en plantgoed van nieuwe rassen van eenjarige gewassen die zijn opgenomen in het operationeel programma van een producentenorganisatie zijn subsidiabel, indien de bedoelde rassen: 
+
+a. toegelaten zijn door de Stichting Nederlandse Algemene Kwaliteitsdienst voor de Tuinbouw;  
+
+b. ingeschreven staan in het Nederlandse rassenregister van de Raad voor de plantenrassen, of  
+
+c. ingeschreven staan bij een keuringsinstantie van een andere lidstaat.     
+2.  Op verzoek van de minister overlegt de producentenorganisatie voor de zaden en het plantgoed, bedoeld in het eerste lid, het plantenpaspoort, bedoelt in richtlijn 2000/29.  
+
 ### Titel  3  
 
 ####Subsidiabele maatregelen
@@ -1420,6 +1459,11 @@ b. een registratie van de in- en uitslag.
 a. de aansluiting van een extern trafostation van het energiebedrijf, of  
 
 b. de verzwaring van de netkoppeling op de warmte-krachtkoppelingsinstallatie.    
+
+### Artikel  101a  
+Treedt in werking per 01-01-2016 
+
+Investeringen van de producentenorganisatie voor het ontwikkelen en verbeteren van systemen voor aanvoerprognoses en areaalenquêtes zijn subsidiabel. 
 
 ### Paragraaf  2  
 
@@ -3567,6 +3611,11 @@ b. het Skal certificaat van de leverancier.
 
 ####Uitgaven voor overige acties ten behoeve van geïntegreerde productie
 
+### Artikel  259a  
+Treedt in werking per 01-01-2016 
+
+Op grond van artikel 58, vierde lid, van verordening 543/2011 zijn in afwijking van dat artikellid de werkelijke kosten van milieuacties, anders dan de verwerving van vaste activa, subsidiabel indien de producentenorganisatie in haar operationeel programma onderbouwt dat het, gezien de hoogte van de werkelijk uit de milieuactie voortvloeiende kosten, nodig is om rekening te houden met de specifieke omstandigheden van de milieuactie. 
+
 ### Artikel  260  
 
 1.  Uitgaven voor rassen zaad met één of meerdere extra resistenties met als doel vermindering van het gebruik van chemische gewasbeschermingsmiddelen zijn subsidiabel.   
@@ -3694,6 +3743,11 @@ Uitgaven voor materialen, monitoring en begeleiding van biologische grondontsmet
 
 ####Uitgaven voor acties om afvalproductie te verminderen en afvalbeheer te verbeteren
 
+### Artikel  271a  
+Treedt in werking per 01-01-2016 
+
+Op grond van artikel 58, vierde lid, van verordening 543/2011 zijn in afwijking van dat artikellid de werkelijke kosten van milieuacties, anders dan de verwerving van vaste activa, subsidiabel indien de producentenorganisatie in haar operationeel programma onderbouwt dat het, gezien de hoogte van de werkelijk uit de milieuactie voortvloeiende kosten, nodig is om rekening te houden met de specifieke omstandigheden van de milieuactie. 
+
 ### Artikel  272  
 
 Uitgaven voor biologisch afbreekbaar folie bestemd voor onkruidbestrijding zijn subsidiabel. 
@@ -3785,6 +3839,11 @@ c. deze afdeling.
 ### Paragraaf  1  
 
 ####Uitgaven ten behoeve van aankoop van vaste activa in duurzame of strategische investeringen
+
+### Artikel  281a  
+Treedt in werking per 01-01-2016 
+
+Uitgaven voor de juridische kosten en administratiekosten in verband met fusies of overnames van producentenorganisaties, alsmede juridische kosten en administratiekosten in verband met de oprichting van transnationale producentenorganisaties of transnationale unies van producentenorganisaties zijn subsidiabel. 
 
 ### Artikel  281  
 
@@ -4001,6 +4060,11 @@ a. eerste rapportage: 15 mei van het jaar waarop het verzoek om gedeeltelijke b
 b. tweede rapportage: 15 augustus van het jaar waarop het verzoek om gedeeltelijke betaling betrekking heeft, en  
 
 c. derde rapportage: 15 november van het jaar waarop het verzoek om gedeeltelijke betaling betrekking heeft.    
+
+### Artikel  295a  
+Treedt in werking per 01-01-2016 
+
+Indien een producentenorganisatie werkt met een administratie van dertien perioden wordt, voor de toepassing van de artikelen 293, 294 en 295, onder kwartaal verstaan één keer een tijdvak van vier perioden en drie keer een tijdvak van drie perioden. 
 
 ### Artikel  296  
 

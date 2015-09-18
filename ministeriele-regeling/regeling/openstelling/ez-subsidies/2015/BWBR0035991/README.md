@@ -19,6 +19,7 @@ Besluit:
 | Titel 2.2: Uitvoeringsagenda duurzame veehouderij  | 2.2.2, onderdeel a  | --- | --- | 01-07-2015 t/m 10-09-2015  | 485.000  |
 | Titel 2.2: Uitvoeringsagenda duurzame veehouderij  | 2.2.2, onderdeel b  | --- | --- | 01-07-2015 t/m 10-09-2015  | 125.000  |
 | Titel 2.5: Garantstelling landbouw  | 2.5.2  | --- | --- | Tijdstip waarop de regeling van de Staatssecretaris van Economische Zaken van 27 januari 2015 houdende wijziging van de Regeling nationale EZ-subsidies en de Regeling openstelling EZ-subsidies 2015 in verband met aanpassingen van de Garantstelling landbouw aan de nieuwe staatsteunkaders en de openstelling ervan in werking is getreden tot en met 31-12-2015  | 42.500.000  |
+|Titel 2.7: Groen en doen |2.7.2 | --- | --- |01-10-2015 t/m 29-10-2015 |795.000 |
 |Titel 2.6: Garantstelling landbouwondernemingen werkkapitaal |2.6.2 | --- | --- |18-12-2014 t/m 31-12-2015 |75.000.000 |
 | Titel 3.2: TKI-toeslag  | 3.2.2, onderdeel a  | --- | --- | 06-01-2015 t/m 15-09-2015  | --- |
 | Titel 3.2: TKI-toeslag  | 3.2.2, onderdeel b  | --- | --- | 06-01-2015 t/m 15-10-2015  | --- |
@@ -52,6 +53,7 @@ Besluit:
 | Titel 3.16: Vroegefasefinanciering  | 3.16.7  | Innovatieve starter  | --- | 02-07-2015 t/m 31-12-2015  | 4.000.000  |
 | Titel 3.16: Vroegefasefinanciering  | 3.16.12  | Academische innovatieve starter  | --- | 15-01-2015 t/m 02-03-2015  | 1.900.000  |
 | Titel 3.16: Vroegefasefinanciering  | 3.16.12  | Academische innovatieve starter  | --- | 01-08-2015 t/m 28-09-2015  | 2.050.000  |
+|Titel 3.17: Toekomstfondskrediet onderzoeksfaciliteiten | 3.17.2  | --- | --- | 01-09-2015 t/m  30-11-2015  | 40.000.000  |
 | Titel 4.2: Topsector energie-projecten  | 4.2.9  | BBE Innovatieproject  | --- | 01-04-2015 t/m 15-09-2015  | 2.700.000  |
 | 4.2.16  | Hernieuwbare-energieproject  | --- | 01-04-2015 t/m 15-12-2015  | 50.000.000  |
 | 4.2.23  | STEM-project  | --- | 01-04-2015 t/m 21-07-2015  | 1.500.000  |
@@ -100,6 +102,8 @@ d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
 | 1  | 2  | 3  | 4  | 5  | 6  | Instrument  | Artikel  | Groep  | Thema/programma  | Openstelling  | Plafond €  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | Titel 3.2: Jonge vissers  | 3.2.2  | --- | --- | 01-07-2015 t/m 31-12-2015  | 240.000  |
+| Titel 3.3  | 3.3.5  | --- | Selectiviteit  | 15-09-2015 t/m 02-11-2015  | 1.500.000  |
+| Titel 3.3  | 3.3.5  | --- | Overlevingskans  | 15-09-2015 t/m 02-11-2015  | 1.500.000  |
 | Titel 4.1: Brede weersverzekering0  | 4.1.2  | --- | --- | Periode bedoeld in artikel 4.2, derde lid, van de Uitvoeringsregeling rechtstreekse betalingen GLB  | 9.000.000  |
 
 ### Hoofdstuk  2  

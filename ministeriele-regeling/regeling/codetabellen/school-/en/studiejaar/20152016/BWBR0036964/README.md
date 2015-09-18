@@ -34,8 +34,6 @@ Ten behoeve van de instellingen, bedoeld in artikel 1.1.1, onder b, van de Wet e
 
 ####Intrekking
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De Regeling elementcodetabel VO, VSO, opleidingentabel volwasseneneducatie, vakcodetabel VO, VSO en volwasseneneducatie en examenonderdelencodetabel MBO schooljaar 2014–2015 wordt ingetrokken. 
 
 ### Artikel  6  

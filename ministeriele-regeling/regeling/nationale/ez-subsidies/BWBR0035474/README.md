@@ -109,7 +109,7 @@ c. indien de steun wordt toegekend in de vorm van belastingvoordelen, de steuntr
 
 ### Hoofdstuk  2  
 
-####Agro
+####Agro en natuur
 
 ### Titel  2.1  
 
@@ -944,6 +944,91 @@ De subsidie, bedoeld in artikel 2.6.2, bevat geen staatssteun.
 ####Vervaltermijn
 
 Deze titel en bijlage 2.6.1 vervallen met ingang van 1 januari 2016, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend. 
+
+###Titel 2.7 
+
+####Groen en doen
+
+### Artikel  2.7.1  
+
+####Begripsbepalingen
+
+In deze titel wordt verstaan onder: 
+
+–  *jacht:* jagen als bedoeld in artikel 31, eerste lid, van de Flora- en faunawet;  
+
+–  *natuur- en landschapsbeheer:* geheel van activiteiten die zien op het behoud en de ontwikkeling van de natuur of het landschap, de instandhouding van de natuur of het landschap bevorderen, daaronder mede begrepen het ontwikkelen van nieuwe natuur of herstellen van landschapskenmerken, het opdoen van vaardigheden ten behoeve van het opzetten en doen functioneren van een vrijwilligersorganisatie die zich bezig houdt met natuur- en landschapsbeheer en het betrekken van mensen met een beperking bij natuur- en landschapsbeheer;  
+
+–  *vrijwilliger:* natuurlijk persoon die, anders dan bij wijze van beroep, onverplicht arbeid om niet verricht.   
+
+### Artikel  2.7.2  
+
+####Subsidieaanvraag
+
+1.  De Minister kan subsidie verstrekken voor de opleiding van vrijwilligers ter bevordering van natuur- en landschapsbeheer.   
+2.  Geen subsidie wordt verstrekt, indien de activiteiten in het kader van een dergelijke opleiding: 
+
+a. in strijd zijn met overheidsbeleid ten aanzien van natuur of landschap;  
+
+b. verband houden met de jacht.     
+3.  De subsidie wordt verstrekt aan vrijwilligers.   
+4.  Iedere vrijwilliger kan ten hoogste één aanvraag doen.   
+5.  De opleiding wordt afgerond binnen een jaar nadat de subsidie is verstrekt.   
+6.  De subsidieontvanger stemt er mee in dat de Minister de informatie, bedoeld in artikel 2.7.3 openbaar maakt.  
+
+### Artikel  2.7.3  
+
+####Informatieverplichtingen
+
+Bij de aanvraag wordt ten minste de volgende informatie verstrekt: 
+
+a. een beschrijving van de opleiding, waarbij onder meer wordt ingegaan op de aanbieder van de opleiding, het doel van de opleiding, de wijze waarop het volgen van de opleiding leidt tot het betrekken van nieuwe mensen bij natuur- en landschapsbeheer, de activiteiten die zullen worden verricht in het kader van de opleiding en het beoogde resultaat; en  
+
+b. een opgave van de kosten die de opleidingsactiviteiten met zich zullen brengen.   
+
+### Artikel  2.7.4  
+
+####Afwijzingsgronden
+
+Geen subsidie wordt verstrekt in een van de volgende gevallen: 
+
+a. de aanvraag voldoet niet aan het bepaalde in deze titel;  
+
+b. de subsidiabele kosten bedragen minder dan € 1.000,–;  
+
+c. het is aannemelijk dat de door de aanvrager verstrekte gegevens onjuist zijn;  
+
+d. er bestaat onvoldoende vertrouwen in het niveau van de kennis die met de opleiding wordt verkregen.   
+
+### Artikel  2.7.5  
+
+####Subsidiabele kosten
+
+In afwijking van artikel 10, tweede lid, van het Kaderbesluit EZ-subsidies zijn de subsidiabele kosten alle rechtstreeks aan de uitvoering van de opleiding toe te rekenen kosten, met uitzondering van kosten voor eigen arbeid van de subsidieaanvrager. 
+
+### Artikel  2.7.6  
+
+####Verdeling subsidieplafond
+
+De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanvragen. 
+
+### Artikel  2.7.7  
+
+####Hoogte subsidie
+
+De subsidie bedraagt per aanvraag € 1.000,–. 
+
+### Artikel  2.7.8  
+
+####Staatssteun
+
+Deze regeling bevat geen staatssteun. 
+
+### Artikel  2.7.9  
+
+####Vervaltermijn
+
+Deze titel vervalt met ingang van 1 oktober 2020, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend. 
 
 ### Hoofdstuk  3  
 
