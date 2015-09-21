@@ -10,7 +10,7 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is bij het middelbaa
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
-####Wijziging van de [wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) 
+####Wijziging van de wet op het voortgezet onderwijs 
 
 ### Artikel  1  
 
@@ -22,7 +22,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  2  
 
-In dit hoofdstuk en hoofdstuk III wordt verstaan onder: "Onze minister": Onze minister van Onderwijs en Wetenschappen; "nieuwe school": school voor middelbaar dienstverlenings- en gezondheidszorgonderwijs, als bedoeld in artikel 1 onder D, van deze wet; "afdeling": afdeling voor middelbaar dienstverlenings- en gezondheidszorgonderwijs, verbonden aan een nieuwe school; "bestaande school": een op de datum van inwerkingtreding van dit hoofdstuk op grond van de [Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) bekostigde school voor huishoud- en nijverheidsonderwijs, voor zover daaraan middelbaar huishoud- en nijverheidsonderwijs wordt gegeven, of een school voor middelbaar sociaal-pedagogisch onderwijs, dan wel een scholengemeenschap waarvan een of meer van deze scholen deel uitmaken; "bevoegd gezag": voor wat betreft:  
+In dit hoofdstuk en hoofdstuk III wordt verstaan onder: "Onze minister": Onze minister van Onderwijs en Wetenschappen; "nieuwe school": school voor middelbaar dienstverlenings- en gezondheidszorgonderwijs, als bedoeld in artikel 1 onder D, van deze wet; "afdeling": afdeling voor middelbaar dienstverlenings- en gezondheidszorgonderwijs, verbonden aan een nieuwe school; "bestaande school": een op de datum van inwerkingtreding van dit hoofdstuk op grond van de Wet op het voortgezet onderwijs bekostigde school voor huishoud- en nijverheidsonderwijs, voor zover daaraan middelbaar huishoud- en nijverheidsonderwijs wordt gegeven, of een school voor middelbaar sociaal-pedagogisch onderwijs, dan wel een scholengemeenschap waarvan een of meer van deze scholen deel uitmaken; "bevoegd gezag": voor wat betreft:  
 
 a. een rijksschool: Onze minister;  
 
@@ -74,13 +74,13 @@ c. in een plaats van vestiging waar een nieuwe school wordt voorzien, de aanvrag
 ### Artikel  10  
 
 1.  In het aanvullend plan worden in elk geval opgenomen de afdelingen die in het invoeringsplan zijn opgenomen zonder vermelding van het jaar waarin zij voor bekostiging in aanmerking zullen worden gebracht.   
-2.   In het krachtens [artikel 65 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) vast te stellen plan van de scholen die in de jaren 1986-1987-1988 voor bekostiging in aanmerking zullen worden gebracht, worden in elk geval opgenomen de afdelingen uit het aanvullend plan die nog niet voor bekostiging in aanmerking zijn gebracht.   
+2.   In het krachtens artikel 65 van de Wet op het voortgezet onderwijs vast te stellen plan van de scholen die in de jaren 1986-1987-1988 voor bekostiging in aanmerking zullen worden gebracht, worden in elk geval opgenomen de afdelingen uit het aanvullend plan die nog niet voor bekostiging in aanmerking zijn gebracht.   
 3.   De bekostiging vangt in ieder geval aan nadat de afdeling vijf achtereenvolgende jaren in een plan is opgenomen.   
 4.   Op verzoek van de aanvrager dan wel indien zich naar het oordeel van Onze minister omstandigheden hebben voorgedaan die bij de vaststelling van een plan niet bekend waren, kan uit het plan een in een vorig plan opgenomen afdeling vervallen.  
 
 ### Artikel  12  
 
-Voor de toepassing van artikel 10, derde en vierde lid, wordt onder plan verstaan: het invoeringsplan, het aanvullend plan, en het plan van scholen, bedoeld in [artikel 65 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md). 
+Voor de toepassing van artikel 10, derde en vierde lid, wordt onder plan verstaan: het invoeringsplan, het aanvullend plan, en het plan van scholen, bedoeld in artikel 65 van de Wet op het voortgezet onderwijs. 
 
 ### Hoofdstuk  III  
 
@@ -92,25 +92,25 @@ Een bestaande school als bedoeld in Hoofdstuk II wordt met ingang van 1 augustus
 
 ### Artikel  14  
 
-De bij of krachtens de [Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) gegeven voorschriften die betrekking hebben op het middelbaar huishoud- en nijverheidsonderwijs en op het middelbaar sociaal-pedagogisch onderwijs, vervallen voor zover bij deze wet niet anders is bepaald. 
+De bij of krachtens de Wet op het voortgezet onderwijs gegeven voorschriften die betrekking hebben op het middelbaar huishoud- en nijverheidsonderwijs en op het middelbaar sociaal-pedagogisch onderwijs, vervallen voor zover bij deze wet niet anders is bepaald. 
 
 ### Artikel  15  
 
 1.  De op 31 juli 1984 uit 's Rijks kas bekostigde scholen voor middelbaar huishoud- en nijverheidsonderwijs en voor middelbaar sociaal-pedagogisch onderwijs komen voor wat het eerste leerjaar betreft met ingang van 1 augustus 1984 niet meer voor zodanige bekostiging in aanmerking.   
 2.   Met betrekking tot de op 1 augustus 1984 aangevangen hogere leerjaren blijven de op 31 juli 1984 voor het betrokken onderwijs geldende voorschriften van toepassing, voor wat betreft het tweede leerjaar tot 1 augustus 1985, en voor wat betreft het derde leerjaar tot 1 augustus 1986. Wij kunnen deze voorschriften wijzigen voor zover zij bij algemene maatregel van bestuur zijn gegeven.   
-3.   In afwijking van het eerste lid wordt de bekostiging van een op 31 juli 1984 op grond van de [Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) bekostigde afdeling couture, verbonden aan een school voor middelbaar huishoud- en nijverheidsonderwijs, tot uiterlijk 31 juli 1986 voortgezet. Het tweede lid is van overeenkomstige toepassing.   
+3.   In afwijking van het eerste lid wordt de bekostiging van een op 31 juli 1984 op grond van de Wet op het voortgezet onderwijs bekostigde afdeling couture, verbonden aan een school voor middelbaar huishoud- en nijverheidsonderwijs, tot uiterlijk 31 juli 1986 voortgezet. Het tweede lid is van overeenkomstige toepassing.   
 4.   Leerlingen die het eindexamen niet met goed gevolg hebben afgelegd, kunnen het jaar, volgende op dat van het eindexamen, in de gelegenheid worden gesteld alsnog eindexamen af te leggen volgens door Onze minister nader te stellen regelen. Deze regelen worden in de *Nederlandse Staatscourant* openbaar gemaakt.   
 5.   Indien het in het tweede en derde lid bedoelde onderwijs onder hetzelfde bevoegd gezag staat als een school voor middelbaar dienstverlenings- en gezondheidszorgonderwijs, wordt dat onderwijs als een of meer afdelingen verbonden aan laatstbedoelde school.  
 
 ### Artikel  16  
 
-1.  Tot een nader door Onze minister te bepalen datum kan een op grond van de [Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) bekostigde afdeling interim algemene schakelopleiding of afdeling vooropleiding voor hoger beroepsonderwijs van het middelbaar huishoud- en nijverheidsonderwijs dan wel kunnen beide afdelingen, worden verbonden aan een in het in artikel 3 bedoelde invoeringsplan opgenomen school.   
+1.  Tot een nader door Onze minister te bepalen datum kan een op grond van de Wet op het voortgezet onderwijs bekostigde afdeling interim algemene schakelopleiding of afdeling vooropleiding voor hoger beroepsonderwijs van het middelbaar huishoud- en nijverheidsonderwijs dan wel kunnen beide afdelingen, worden verbonden aan een in het in artikel 3 bedoelde invoeringsplan opgenomen school.   
 2.   In afwijking van het bepaalde in artikel 15, eerste lid blijven op de in het eerste lid bedoelde afdelingen de op 31 juli 1984 voor het middelbaar huishoud- en nijverheidsonderwijs geldende voorschriften van toepassing. Wij kunnen deze voorschriften wijzigen voor zover zij bij algemene maatregel van bestuur zijn gegeven.  
 
 ### Artikel  17  
 
-1.  De algemene maatregel van bestuur, bedoeld in [artikel 22, van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), kan voor zover het betreft de scholen en afdelingen voor middelbaar dienstverlenings- en gezondheidszorgonderwijs niet alleen voorschriften inhouden omtrent de onderwerpen, genoemd in het tweede tot en met vierde lid van dat artikel, maar tevens omtrent het schoolwerkplan en de onderwerpen die dit in elk geval moet bevatten, alsmede het activiteitenplan.   
-2.   Met betrekking tot de in het voorgaande lid bedoelde scholen en afdelingen wordt in [artikel 24 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) gelezen:  
+1.  De algemene maatregel van bestuur, bedoeld in artikel 22, van de Wet op het voortgezet onderwijs, kan voor zover het betreft de scholen en afdelingen voor middelbaar dienstverlenings- en gezondheidszorgonderwijs niet alleen voorschriften inhouden omtrent de onderwerpen, genoemd in het tweede tot en met vierde lid van dat artikel, maar tevens omtrent het schoolwerkplan en de onderwerpen die dit in elk geval moet bevatten, alsmede het activiteitenplan.   
+2.   Met betrekking tot de in het voorgaande lid bedoelde scholen en afdelingen wordt in artikel 24 van de Wet op het voortgezet onderwijs gelezen:  
 
 a. in het eerste lid in plaats van "het leerplan en de lesrooster": het schoolwerkplan en het activiteitenplan.  
 

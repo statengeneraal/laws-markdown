@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 10 juli 2006, kenmerk GMT/MVG 2697861;
 
-Gelet op de [artikelen 65](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), [66, eerste lid](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), en [75, eerste lid, van de Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md);
+Gelet op de artikelen 65, 66, eerste lid, en 75, eerste lid, van de Geneesmiddelenwet;
 
 De Raad van State gehoord (advies van 14 september 2006, no. W.13.06.0290/III);
 
@@ -20,15 +20,15 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. de wet: de [Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md);  
+a. de wet: de Geneesmiddelenwet;  
 
-b. register: het register, bedoeld in [artikel 61, vijfde lid, van de wet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md);  
+b. register: het register, bedoeld in artikel 61, vijfde lid, van de wet;  
 
 c. gevestigde apotheker: de apotheker die staat ingeschreven in het register;  
 
-d. apotheekhoudende huisarts: de huisarts die ingevolge de [wet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) bevoegd is om geneesmiddelen ter hand te stellen;  
+d. apotheekhoudende huisarts: de huisarts die ingevolge de wet bevoegd is om geneesmiddelen ter hand te stellen;  
 
-e. voorschrijver: een beroepsbeoefenaar als bedoeld in [artikel 36, veertiende lid, van de Wet op de beroepen in de individuele gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md);  
+e. voorschrijver: een beroepsbeoefenaar als bedoeld in artikel 36, veertiende lid, van de Wet op de beroepen in de individuele gezondheidszorg;  
 
 f. apotheekhoudende: de gevestigde apotheker of de apotheekhoudende huisarts.   
 
@@ -94,7 +94,7 @@ l. een waarschuwing dat het geneesmiddel buiten het bereik en uit het zicht van 
 
 m. de wijze waarop het geneesmiddel dient te worden bewaard.     
 3.  Indien de verpakking van een geneesmiddel als bedoeld in het tweede lid een bijsluiter bevat, kan wat betreft de gegevens, bedoeld in het tweede lid onder f tot en met m, worden volstaan met het vermelden daarvan in de bijsluiter.   
-4.  Indien een in een apotheek bereid geneesmiddel is bestemd voor terhandstelling aan een beroepsbeoefenaar als bedoeld in [artikel 1, eerste lid, onder ll, van de wet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), kan op de verpakking worden volstaan met de naam of de samenstelling van het geneesmiddel, de datum en het jaar van de terhandstelling en de naam van de betrokken apotheekhoudende. Hetzelfde geldt voor de verpakking van een in een apotheek van een zorginstelling in de zin van de [Wet toelating zorginstellingen](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) bereid geneesmiddel dat is bestemd voor gebruik in de instelling.  
+4.  Indien een in een apotheek bereid geneesmiddel is bestemd voor terhandstelling aan een beroepsbeoefenaar als bedoeld in artikel 1, eerste lid, onder ll, van de wet, kan op de verpakking worden volstaan met de naam of de samenstelling van het geneesmiddel, de datum en het jaar van de terhandstelling en de naam van de betrokken apotheekhoudende. Hetzelfde geldt voor de verpakking van een in een apotheek van een zorginstelling in de zin van de Wet toelating zorginstellingen bereid geneesmiddel dat is bestemd voor gebruik in de instelling.  
 
 ### Artikel  8  
 
@@ -107,7 +107,7 @@ De etikettering van geneesmiddelen voor onderzoek geschiedt zodanig dat de proef
 
 ### Artikel  10  
 
-De apotheekhoudende draagt ervoor zorg dat de onder zijn toezicht in zijn apotheek werkende personen die betrokken zijn bij de bereiding of terhandstelling van geneesmiddelen dan wel bij de administratie ter zake, de bij en krachtens de [wet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) vastgestelde voorschriften met betrekking tot zodanige werkzaamheden naleven. 
+De apotheekhoudende draagt ervoor zorg dat de onder zijn toezicht in zijn apotheek werkende personen die betrokken zijn bij de bereiding of terhandstelling van geneesmiddelen dan wel bij de administratie ter zake, de bij en krachtens de wet vastgestelde voorschriften met betrekking tot zodanige werkzaamheden naleven. 
 
 ### Artikel  11  
 
@@ -115,7 +115,7 @@ Het is voorschrijvers en apotheekhoudenden verboden met elkaar rechtstreeks of i
 
 ### Artikel  12  
 
-1.  De geneesmiddelen die zich in een apotheek bevinden op het tijdstip waarop de apotheek wordt opgeheven, worden door de betrokken apotheekhoudende overgedragen aan andere apotheekhoudenden dan wel, naar gelang de aard van de stoffen die in de geneesmiddelen zijn vervat, verwijderd overeenkomstig de bepalingen van [hoofdstuk 10 van de Wet Milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) inzake bedrijfsafvalstoffen of gevaarlijke afvalstoffen.   
+1.  De geneesmiddelen die zich in een apotheek bevinden op het tijdstip waarop de apotheek wordt opgeheven, worden door de betrokken apotheekhoudende overgedragen aan andere apotheekhoudenden dan wel, naar gelang de aard van de stoffen die in de geneesmiddelen zijn vervat, verwijderd overeenkomstig de bepalingen van hoofdstuk 10 van de Wet Milieubeheer inzake bedrijfsafvalstoffen of gevaarlijke afvalstoffen.   
 2.  Indien een apotheek wordt opgeheven in verband met het overlijden van de betrokken apotheekhoudende, dragen diens erfgenamen zorg voor de overdracht van de in de apotheek aanwezige geneesmiddelen aan andere apotheekhoudenden dan wel voor de verwijdering, bedoeld in het eerste lid.  
 
 ### Paragraaf  3  
@@ -126,21 +126,27 @@ Het is voorschrijvers en apotheekhoudenden verboden met elkaar rechtstreeks of i
 
 Ten aanzien van de geneesmiddelenvoorziening binnen de krijgsmacht: 
 
-a.  zijn de [artikelen 18, eerste lid](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), en [40, tweede lid, van de Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) niet van toepassing indien: 
+a.  zijn de artikelen 18, eerste lid, en 40, tweede lid, van de Geneesmiddelenwet niet van toepassing indien: 
 
 1°. het geneesmiddel noodzakelijk is voor operationele inzet van de krijgsmacht, en  
 
 2°. over het gebruik van het geneesmiddel overeenstemming bestaat met het Staatstoezicht op de volksgezondheid;    
 
-b.  zijn de [artikelen 61](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) en [62 van de Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) niet van toepassing in gevallen waarin het ter hand stellen van het geneesmiddel geschiedt tijdens operationele inzet van de krijgsmacht dan wel tijdens de voorbereiding daarop, door een daartoe opgeleide militair.   
+b.  zijn de artikelen 61 en 62 van de Geneesmiddelenwet niet van toepassing in gevallen waarin het ter hand stellen van het geneesmiddel geschiedt tijdens operationele inzet van de krijgsmacht dan wel tijdens de voorbereiding daarop, door een daartoe opgeleide militair.   
 
 ### Paragraaf  4  
 
 ####Slotbepalingen
 
+### Artikel  13a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  In dit artikel wordt verstaan onder transparantieregister: het register, gehouden door de Stichting Transparantieregister Zorg, ter bevordering van de transparantie inzake financiële betrekkingen tussen enerzijds artsen, apothekers, tandartsen, verloskundigen of verpleegkundigen als bedoeld in artikel 36, veertiende lid, onder d, van de Wet op de beroepen in de individuele gezondheidszorg, en anderzijds ondernemers als bedoeld in artikel 82, eerste lid, onderdeel b, van de wet.   
+2.  De ondernemers, bedoeld in artikel 82, eerste lid, onderdeel b, van de wet, zijn gehouden bij de gegevens inzake de in het eerste lid bedoelde financiële betrekkingen die zij ten behoeve van de vermelding in het transparantieregister aan de rechtspersoon verstrekken, het nummer, bedoeld in artikel 3, tweede lid, van de Wet op de beroepen in de individuele gezondheidszorg, te vermelden van degene op wie de gegevens betrekking hebben.  
+
 ### Artikel  14  
 
-Indien het bij koninklijke boodschap van 8 december 2003 ingediende voorstel van Wet, houdende vaststelling van een nieuwe [Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) (Kamerstukken II, 2003/2004, 29 359), nadat het tot wet is verheven, in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking. 
+Indien het bij koninklijke boodschap van 8 december 2003 ingediende voorstel van Wet, houdende vaststelling van een nieuwe Geneesmiddelenwet (Kamerstukken II, 2003/2004, 29 359), nadat het tot wet is verheven, in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking. 
 
 ### Artikel  15  
 

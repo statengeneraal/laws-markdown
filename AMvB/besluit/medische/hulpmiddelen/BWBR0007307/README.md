@@ -346,6 +346,16 @@ De in artikel 15 bedoelde persoon draagt zorg dat de medische hulpmiddelen die h
 
 De toepassing van een rimpelvuller die levenslang in het lichaam aanwezig blijft, is verboden voor andere dan reconstructieve doeleinden. 
 
+####Transparantie inzake financiële relaties
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  16b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  In dit artikel wordt verstaan onder transparantieregister: het register, gehouden door de Stichting Transparantieregister Zorg, ter bevordering van de transparantie inzake financiële betrekkingen tussen enerzijds artsen, apothekers, tandartsen, verloskundigen of verpleegkundigen als bedoeld in artikel 36, veertiende lid, onder d, van de Wet op de beroepen in de individuele gezondheidszorg, en anderzijds fabrikanten en de personen, bedoeld in artikel 4, tweede en derde lid, van dit besluit, en de personen, bedoeld in de artikelen 1, eerste lid, onderdeel i, en 3, tweede lid, van het Besluit in-vitro diagnostica.   
+2.  Fabrikanten en personen als bedoeld in artikel 4, tweede en derde lid, van dit besluit, en de personen, bedoeld in de artikelen 1, eerste lid, onderdeel i, en 3, tweede lid, van het Besluit in-vitro diagnostica, zijn gehouden bij de gegevens inzake de in het eerste lid bedoelde financiële betrekkingen die zij ten behoeve van de vermelding in het transparantieregister aan de rechtspersoon verstrekken, het nummer, bedoeld in artikel 3, tweede lid, van de Wet op de beroepen in de individuele gezondheidszorg, te vermelden van degene op wie de gegevens betrekking hebben.  
+
 ####Intrekking besluiten
 
 ###Artikel 17 

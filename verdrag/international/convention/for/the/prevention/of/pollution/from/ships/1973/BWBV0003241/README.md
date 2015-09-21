@@ -4823,7 +4823,7 @@ Master’s signature: ... Date: ...
 
 ####Regulations for the Prevention of Air Pollution from Ships
 
-### CHAPTER  I  
+### CHAPTER  1  
 
 ####GENERAL
 
@@ -4925,7 +4925,7 @@ CFC-115 Chloropentafluoroethane
 
 25.“Bulk carrier” means a ship which is intended primarily to carry dry cargo in bulk, including such types as ore carriers as defined in SOLAS chapter XII, regulation 1, but excluding combination carriers.
 
-26. “Gas carrier” means a cargo ship constructed or adapted and used for the carriage in bulk of any liquefied gas.
+26.*Gas carrier *in relation to chapter 4 of this Annex means a cargo ship, other than an LNG carrier as defined in paragraph 38 of this regulation, constructed or adapted and used for the carriage in bulk of any liquefied gas.
 
 27.“Tanker” in relation to chapter 4 means an oil tanker as defined in MARPOL Annex I, regulation 1 or a chemical tanker or an NLS tanker as defined in MARPOL Annex II, regulation 1.
 
@@ -4948,6 +4948,24 @@ CFC-115 Chloropentafluoroethane
 36.“Attained EEDI” is the EEDI value achieved by an individual ship in accordance with regulation 20 of chapter 4.
 
 37.“Required EEDI” is the maximum value of attained EEDI that is allowed by regulation 21 of chapter 4 for the specific ship type and size.
+
+38.*LNG carrier* in relation to chapter 4 of this Annex means a cargo ship constructed or adapted and used for the carriage in bulk of liquefied natural gas (LNG).
+
+39.*Cruise passenger ship* in relation to chapter 4 of this Annex means a passenger ship not having a cargo deck, designed exclusively for commercial transportation of passengers in overnight accommodations on a sea voyage.
+
+40.*Conventional propulsion* in relation to chapter 4 of this Annex means a method of propulsion where a main reciprocating internal combustion engine(s) is the prime mover and coupled to a propulsion shaft either directly or through a gear box.
+
+41.*Non-conventional propulsion* in relation to chapter 4 of this Annex means a method of propulsion, other than conventional propulsion, including diesel-electric propulsion, turbine propulsion, and hybrid propulsion systems.
+
+42.*Cargo ship having ice-breaking capability* in relation to chapter 4 of this Annex means a cargo ship which is designed to break level ice independently with a speed of at least 2 knots when the level ice thickness is 1.0 m or more having ice bending strength of at least 500 kPa.
+
+43.A ship *delivered on or after* 1 September 2019 means a ship: 
+
+.1 for which the building contract is placed on or after 1 September 2015; or  
+
+.2 in the absence of a building contract, the keel of which is laid, or which is at a similar stage of construction, on or after 1 March 2016; or  
+
+.3 the delivery of which is on or after 1 September 2019.  
 
 ### Regulation  3  
 
@@ -4993,7 +5011,7 @@ CFC-115 Chloropentafluoroethane
 3.  The Administration of a Party should take into account any relevant guidelines developed by the Organization pertaining to the equivalents provided for in this regulation.   
 4.  The Administration of a Party which allows the use of an equivalent as set forth in paragraph 1 of this regulation shall endeavour not to impair or damage its environment, human health, property, or resources or those of other States.  
 
-### CHAPTER  II  
+### CHAPTER  2  
 
 ####SURVEY, CERTIFICATION AND MEANS OF CONTROL
 
@@ -5026,7 +5044,7 @@ CFC-115 Chloropentafluoroethane
 
 .1. An initial survey before a new ship is put in service and before the International Energy Efficiency Certificate is issued. The survey shall verify that the ship’s attained EEDI is in accordance with the requirements in chapter 4, and that the SEEMP required by regulation 22 is on board;  
 
-.2. A general or partial survey, according to the circumstances, after a major conversion of a ship to which this regulation applies. The survey shall ensure that the attained EEDI is recalculated as necessary and meets the requirement of regulation 21, with the reduction factor applicable to the ship type and size of the converted ship in the phase corresponding to the date of contract or keel laying or delivery determined for the original ship in accordance with regulation 2.23;  
+.2. A general or partial survey, according to the circumstances, after a major conversion of a new ship to which this regulation applies. The survey shall ensure that the attained EEDI is recalculated as necessary and meets the requirement of regulation 21, with the reduction factor applicable to the ship type and size of the converted ship in the phase corresponding to the date of contract or keel laying or delivery determined for the original ship in accordance with regulation 2.23;  
 
 .3. In cases where the major conversion of a new or existing ship is so extensive that the ship is regarded by the Administration as a newly constructed ship, the Administration shall determine the necessity of an initial survey on attained EEDI. Such a survey, if determined necessary, shall ensure that the attained EEDI is calculated and meets the requirement of regulation 21, with the reduction factor applicable corresponding to the ship type and size of the converted ship at the date of the contract of the conversion, or in the absence of a contract, the commencement date of the conversion. The survey shall also verify that the SEEMP required by regulation 22 is on board; and  
 
@@ -5135,7 +5153,7 @@ International Air Pollution Prevention Certificate
 5.  A Party may also inspect a ship to which this Annex applies when it enters the ports or offshore terminals under its jurisdiction, if a request for an investigation is received from any Party together with sufficient evidence that the ship has emitted any of the substances covered by the Annex in any place in violation of this Annex. The report of such investigation shall be sent to the Party requesting it and to the Administration so that the appropriate action may be taken under the present Convention.   
 6.  The international law concerning the prevention, reduction, and control of pollution of the marine environment from ships, including that law relating to enforcement and safeguards, in force at the time of application or interpretation of this Annex, applies, *mutatis mutandis*, to the rules and standards set forth in this Annex.  
 
-### CHAPTER  III  
+### CHAPTER  3  
 
 ####REQUIREMENTS FOR CONTROL OF EMISSIONS FROM SHIPS
 
@@ -5199,8 +5217,8 @@ International Air Pollution Prevention Certificate
 
 .2 any substantial modification, as defined in the revised NO<sub>x</sub> Technical Code 2008, is made to the engine, or  
 
-.3 the maximum continuous rating of the engine is increased by more than10% compared to the maximum continuous rating of the original certification of the engine.     
-2.2.  For a major conversion involving the replacement of a marine diesel engine with a non-identical marine diesel engine or the installation of an additional marine diesel engine, the standards in this regulation in force at the time of the replacement or addition of the engine shall apply. On or after 1 January 2016, in the case of replacement engines only, if it is not possible for such a replacement engine to meet the standards set forth in paragraph 5.1.1 of this regulation (Tier III), then that replacement engine shall meet the standards set forth in paragraph 4 of this regulation (Tier II). Guidelines are to be developed by the Organization to set forth the criteria of when it is not possible for a replacement engine to meet the standards in subparagraph 5.1.1 of this regulation.   
+.3 the maximum continuous rating of the engine is increased by more than10% compared to the maximum continuous rating of the original certification of the engine.    
+2.2. For a major conversion involving the replacement of a marine diesel engine with a non-identical marine diesel engine, or the installation of an additional marine diesel engine, the standards in this regulation at the time of the replacement or addition of the engine shall apply. In the case of replacement engines only, if it is not possible for such a replacement engine to meet the standards set forth in paragraph 5.1.1 of this regulation (Tier III, as applicable), then that replacement engine shall meet the standards set forth in paragraph 4 of this regulation (Tier II), taking into account guidelines developed by the Organization.  
 2.3.  A marine diesel engine referred to in paragraph 2.1.2 or 2.1.3 shall meet the following standards: 
 
 .1. for ships constructed prior to 1 January 2000, the standards set forth in paragraph 3 of this regulation shall apply; and  
@@ -5226,24 +5244,26 @@ International Air Pollution Prevention Certificate
 .3. 7.7 g/kWh when n is 2,000 rpm or more.    
 ###Tier III
 
-5.1.  Subject to regulation 3 of this Annex, the operation of a marine diesel engine which is installed on a ship constructed on or after 1 January 2016: 
+5.1. Subject to regulation 3 of this Annex, in an emission control area designated for Tier III NO<sub>x</sub> control under paragraph 6 of this regulation, the operation of a marine diesel engine that is installed on a ship: 
 
-.1 is prohibited except when the emission of nitrogen oxides (calculated as the total weighted emission of NO<sub>2</sub>) from the engine is within the following limits, where n = rated engine speed (crankshaft revolutions per minute): 
+.1. is prohibited except when the emission of nitrogen oxides (calculated as the total weighted emission of NO<sub>x</sub>) from the engine is within the following limits, where *n* = rated engine speed (crankshaft revolutions per minute): 
 
-.1.1. 3.4 g/kWh when n is less than 130 rpm;  
+.1. 3.4 g/kWh when *n* is less than 130 rpm;  
 
-.1.2. 9 · n<sup>(-0.2) </sup>g/kWh when n is 130 or more but less than 2,000 rpm; and  
+.2. 9 <sup>.</sup> *n*<sup>(–0.2)</sup> g/kWh when *n* is 130 or more but less than 2,000 rpm; 
 
-.1.3. 2.0 g/kWh when n is 2,000 rpm or more;    
+.3. 2.0 g/kWh when *n* is 2,000 rpm or more; when:
 
-.2 is subject to the standards set forth in subparagraph 5.1.1 of this paragraph when the ship is operating in an Emission Control Area designated under paragraph 6 of this regulation; and  
+.2. that ship is constructed on or after 1 January 2016 and is operating in the North American Emission Control Area or the United States Caribbean Sea Emission Control Area; when:
 
-.3 is subject to the standards set forth in paragraph 4 of this regulation when the ship is operating outside of an Emission Control Area designated under paragraph 6 of this regulation.     
-5.2.  Subject to the review set forth in paragraph 10 of this regulation, the standards set forth in paragraph 5.1.1 of this regulation shall not apply to: 
+.3. that ship is operating in an emission control area designated for Tier III NO<sub>x</sub> control under paragraph 6 of this regulation, other than an emission control area described in paragraph 5.1.2 of this regulation, and is constructed on or after the date of adoption of such an emission control area, or a later date as may be specified in the amendment designating the NO<sub>x</sub> Tier III emission control area, whichever is later. 
+5.2. The standards set forth in paragraph 5.1.1 of this regulation shall not apply to: 
 
-.1. a marine diesel engine installed on a ship with a length (L), as defined in regulation 1.19 of Annex I to the present Convention, less than 24 metres when it has been specifically designed, and is used solely, for recreational purposes; or  
+.1. a marine diesel engine installed on a ship with a length (*L*), as defined in regulation 1.19 of Annex I to the present Convention, of less than 24 metres when it has been specifically designed, and is used solely, for recreational purposes; or  
 
-.2. a marine diesel engine installed on a ship with a combined nameplate diesel engine propulsion power of less than 750 kW if it is demonstrated, to the satisfaction of the Administration, that the ship cannot comply with the standards set forth in paragraph 5.1.1 of this regulation because of design or construction limitations of the ship.    
+.2. a marine diesel engine installed on a ship with a combined nameplate diesel engine propulsion power of less than 750 kW if it is demonstrated, to the satisfaction of the Administration, that the ship cannot comply with the standards set forth in paragraph 5.1.1 of this regulation because of design or construction limitations of the ship; or  
+
+.3. a marine diesel engine installed on a ship constructed prior to 1 January 2021 of less than 500 gross tonnage, with a length *(L)*, as defined in regulation 1.19 of Annex I to the present convention, of 24 m or over when it has been specifically designed, and is used solely, for recreational purposes.   
 ###Emission Control Area
 
 6.  For the purpose of this regulation, emission control areas shall be: 
@@ -5278,9 +5298,6 @@ International Air Pollution Prevention Certificate
 
 8.  The revised NO<sub>x</sub> Technical Code 2008 shall be applied in the certification, testing, and measurement procedures for the standards set forth in this regulation.   
 9.  The procedures for determining NO<sub>x</sub> emissions set out in the revised NO<sub>x</sub> Technical Code 2008 are intended to be representative of the normal operation of the engine. Defeat devices and irrational emission control strategies undermine this intention and shall not be allowed. This regulation shall not prevent the use of auxiliary control devices that are used to protect the engine and/or its ancillary equipment against operating conditions that could result in damage or failure or that are used to facilitate the starting of the engine.  
-###Review
-
-10.  Beginning in 2012 and completed no later than 2013, the Organization shall review the status of the technological developments to implement the standards set forth in paragraph 5.1.1 of this regulation and shall, if proven necessary, adjust the time periods set forth in that subparagraph.  
 
 ### Regulation  14  
 
@@ -5477,9 +5494,9 @@ International Air Pollution Prevention Certificate
 .2. ensure that remedial action as appropriate is taken to bring noncompliant fuel oil discovered into compliance.     
 11.  For every ship of 400 gross tonnage and above on scheduled services with frequent and regular port calls, an Administration may decide after application and consultation with affected States that compliance with paragraph 6 of this regulation may be documented in an alternative manner which gives similar certainty of compliance with regulations 14 and 18 of this Annex.  
 
-###CHAPTER  IV  
+###CHAPTER  4  
 
-####REGULATIONS ON ENERGY EFFICIENCY FOR SHIPS
+####REGULATIONS FOR ENERGY EFFICIENCY OF SHIPS
 
 ### Regulation  19  
 
@@ -5488,8 +5505,10 @@ International Air Pollution Prevention Certificate
 1.  This chapter shall apply to all ships of 400 gross tonnage and above.   
 2.  The provisions of this chapter shall not apply to: 
 
-.1. ships solely engaged in voyages within waters subject to the sovereignty or jurisdiction of the State the flag of which the ship is entitled to fly. However, each Party should ensure, by the adoption of appropriate measures, that such ships are constructed and act in a manner consistent with chapter 4, so far as is reasonable and practicable.     
-3.  Regulation 20 and regulation 21 shall not apply to ships which have diesel-electric propulsion, turbine propulsion or hybrid propulsion systems.   
+.1. ships solely engaged in voyages within waters subject to the sovereignty or jurisdiction of the State the flag of which the ship is entitled to fly. However, each Party should ensure, by the adoption of appropriate measures, that such ships are constructed and act in a manner consistent with chapter 4, so far as is reasonable and practicable.  
+
+.2. ships not propelled by mechanical means, and platforms including FPSOs and FSUs and drilling rigs, regardless of their propulsion.    
+3.  Regulations 20 and 21 of this Annex shall not apply to ships which have non-conventional propulsion, except that regulations 20 and 21 shall apply to cruise passenger ships having non-conventional propulsion and LNG carriers having conventional or non-conventional propulsion, delivered on or after 1 September 2019, as defined in paragraph 43 of regulation 2. Regulations 20 and 21 shall not apply to cargo ships having ice-breaking capability.   
 4.  Notwithstanding the provisions of paragraph 1 of this regulation, the Administration may waive the requirement for a ship of 400 gross tonnage and above from complying with regulation 20 and regulation 21.   
 5.  The provision of paragraph 4 of this regulation shall not apply to ships of 400 gross tonnage and above: 
 
@@ -5504,28 +5523,30 @@ International Air Pollution Prevention Certificate
 
 ### Regulation  20  
 
-####Attained Energy Efficiency Design Index (Attained EEDI)
+####Attained Energy Efficiency Design Index (attained EEDI)
 
-1.  The attained EEDI shall be calculated for: 
+1. The attained EEDI shall be calculated for: 
 
 .1. each new ship;  
 
 .2. each new ship which has undergone a major conversion; and  
 
-.3. each new or existing ship which has undergone a major conversion, that is so extensive that the ship is regarded by the Administration as a newly constructed ship   which falls into one or more of the categories in regulations 2.25 to 2.35. The attained EEDI shall be specific to each ship and shall indicate the estimated performance of the ship in terms of energy efficiency, and be accompanied by the EEDI technical file that contains the information necessary for the calculation of the attained EEDI and that shows the process of calculation. The attained EEDI shall be verified, based on the EEDI technical file, either by the Administration or by any organization duly authorized by it.  
+.3. each new or existing ship which has undergone a major conversion, that is so extensive that the ship is regarded by the Administration as a newly-constructed ship, which falls into one or more of the categories in regulations 2.25 to 2.35, 2.38 and 2.39 of this Annex. The attained EEDI shall be specific to each ship and shall indicate the estimated performance of the ship in terms of energy efficiency, and be accompanied by the EEDI technical file that contains the information necessary for the calculation of the attained EEDI and that shows the process of calculation. The attained EEDI shall be verified, based on the EEDI technical file, either by the Administration or by any organization duly authorized by it<sup>Refer to Code for Recognized Organizations (RO Code), adopted by the MEPC by resolution MEPC.237(65), as may be amended.</sup>.    
 2.  The attained EEDI shall be calculated taking into account guidelines developed by the Organization.  
 
 ### Regulation  21  
 
 ####Required EEDI
 
-1.  For each: 
+1. For each: 
 
 .1. new ship;  
 
 .2. new ship which has undergone a major conversion; and  
 
-.3. new or existing ship which has undergone a major conversion that is so extensive that the ship is regarded by the Administration as a newly constructed ship   which falls into one of the categories defined in regulation 2.25 to 2.31 and to which this chapter is applicable, the attained EEDI shall be as follows: Attained EEDI ≤ Required EEDI = (1-X/100) x Reference line value where X is the reduction factor specified in Table 1 for the required EEDI compared to the EEDI Reference line.   
+.3. new or existing ship which has undergone a major conversion that is so extensive that the ship is regarded by the Administration as a newly-constructed ship, which falls into one of the categories in regulations 2.25 to 2.31, 2.33 to 2.35, 2.38 and 2.39 and to which this chapter is applicable, the attained EEDI shall be as follows: 
+
+Attained EEDI ≤ Required EEDI = (1-X/100) x reference line value where X is the reduction factor specified in table 1 for the required EEDI compared to the EEDI reference line.   
 2.  For each new and existing ship that has undergone a major conversion which is so extensive that the ship is regarded by the Administration as a newly constructed ship, the attained EEDI shall be calculated and meet the requirement of paragraph 21.1 with the reduction factor applicable corresponding to the ship type and size of the converted ship at the date of the contract of the conversion, or in the absence of a contract, the commencement date of the conversion.  Table 1. Reduction factors (in percentage) for the EEDI relative to the EEDI Reference line 
 
 |  *Ship Type*   | Size  | Phase 0  1 Jan 2013 – 31 Dec 2014  | Phase 1  1 Jan 2015 – 31 Dec 2019  | Phase 2  1 Jan 2020 – 31 Dec 2024  | Phase 3  1 Jan 2025 and onwards  |
@@ -5544,8 +5565,16 @@ International Air Pollution Prevention Certificate
 | --- | 3,000 – 5,000 DWT  | n/a  | 0-10<sup>1)</sup>   | 0-15<sup>1)</sup>   | 0-30<sup>1)</sup>   |
 | Combination carrier  | 20,000 DWT and above  | 0  | 10  | 20  | 30  |
 | --- | 4,000 – 20,000 DWT  | n/a  | 0-10<sup>1)</sup>   | 0-20<sup>1)</sup>   | 0-30<sup>1)</sup>   |
+| LNG carrier***  | 10,000 DWT and above  | n/a  | 10**  | 20  | 30  |
+| Ro-ro cargo ship (vehicle carrier)***  | 10,000 DWT and above  | n/a  | 5**  | 15  | 30  |
+| Ro-ro cargo ship***  | 2,000 DWT and above  | n/a  | 5**  | 20  | 30  |
+|1,000 – 2,000 DWT |n/a |0-5*** |0-20* |0-30* |
+| Ro-ro passenger ship***  | 1000 DWT and above  | n/a  | 5**  | 20  | 30  |
+| 250 – 1,000 DWT  | n/a  | 0-5***  | 0-20*  | 0-30*  |
+| Cruise passenger ship*** having non-conventional propulsion  | 85,000 GT and above  | n/a  | 5**  | 20  | 30  |
+| 25,000 – 85,000 GT  | n/a  | 0-5***  | 0-20*  | 0-30*  |
 
-<sup>1)</sup> Reduction factor to be linearly interpolated between the two values dependent upon vessel size. The lower value of the reduction factor is to be applied to the smaller ship size.n/a means that no required EEDI applies.  
+<sup>1)</sup> Reduction factor to be linearly interpolated between the two values dependent upon vessel size. The lower value of the reduction factor is to be applied to the smaller ship size.* Reduction factor to be linearly interpolated between the two values dependent upon ship size. The lower value of the reduction factor is to be applied to the smaller ship size. ** Phase 1 commences for those ships on 1 September 2015. *** Reduction factor applies to those ships delivered on or after 1 September 2019, as defined in paragraph 43 of regulation 2.*Note:* n/a means that no required EEDI applies.n/a means that no required EEDI applies.  
 3.  The Reference line values shall be calculated as follows: Reference line value = a ×b <sup>-c</sup>  where a, b and c are the parameters given in Table 2.   Table 2. Parameters for determination of reference values for the different ship types 
 
 |  *Ship type defined in regulation 2*   |  *a*   |  *b*   |  *c*   |
@@ -5557,6 +5586,11 @@ International Air Pollution Prevention Certificate
 | 2.29  | General cargo ship  | 107.48  | DWT of the ship  | 0.216  |
 | 2.30  | Refrigerated cargo carrier  | 227.01  | DWT of the ship  | 0.244  |
 | 2.31  | Combination carrier  | 1219.00  | DWT of the ship  | 0.488  |
+|2.33 | Ro-ro cargo ship (vehicle carrier) | (DWT/GT)<sup>(-0.7)</sup>780.36  where DWT/GT<0.3 1812.63 where DWT/GT≥0.3  | DWT of the ship  | 0.471  |
+|2.34 | Ro-ro cargo ship  | 1405.15  | DWT of the ship  | 0.498  |
+|2.35 | Ro-ro passenger ship  | 752.16  | DWT of the ship  | 0.381  |
+|2.38 | LNG carrier  | 2253.7  | DWT of the ship  | 0.474  |
+|2.39 | Cruise passenger ship having non-conventional propulsion | 170.84  | GT of the ship  | 0.214  |
 
 4.  If the design of a ship allows it to fall into more than one of the above ship type definitions, the required EEDI for the ship shall be the most stringent (the lowest) required EEDI.   
 5.  For each ship to which this regulation applies, the installed propulsion power shall not be less than the propulsion power needed to maintain the manoeuvrability of the ship under adverse conditions as defined in the guidelines to be developed by the Organization.   
@@ -5761,7 +5795,7 @@ RECORD OF CONSTRUCTION AND EQUIPMENT
 
 1.3. Date on which keel was laid or ship was at a similar stage of construction .....  
 
-1.4. Length (L) <sup>#</sup> metres .....    <sup>#</sup> Completed only in respect of ships constructed on or after 1 January 2016, which are specially designed, and used solely, for recreational purposes and to which, in accordance with regulation 13.5.2.1, the NO<sub>x</sub> emission limit as given by regulation 13.5.1.1 will not apply. 
+1.4. Length (L) <sup>#</sup> metres .....   * Completed only in respect of ships constructed on or after 1 January 2016 that are specially designed, and used solely, for recreational purposes and to which, in accordance with regulation 13.5.2.1 and regulation 13.5.2.3, the NO<sub>x</sub> emission limit as given by regulation 13.5.1.1 will not apply. 
 ### *2. Control of emissions from ships* 
 
 2.1.  *Ozone depleting substances* (regulation 12) 
@@ -11793,7 +11827,7 @@ CFK-115 chloorpentafluorethaan
 
 25. wordt onder *bulkcarrier* verstaan een schip dat hoofdzakelijk bedoeld is voor het vervoer van droge lading in bulk, met inbegrip van scheepstypen als ertsschepen zoals omschreven in SOLAS Hoofdstuk XII, voorschrift 1, maar uitgezonderd combinatietankers.  
 
-26. wordt onder *gastanker* verstaan een vrachtschip gebouwd of aangepast en gebruikt voor het vervoer in bulk van een vloeibaar gemaakt gas.  
+26. wordt onder* gastanker* in verband met Hoofdstuk 4 van deze Bijlage verstaan een vrachtschip, niet zijnde een lng-tanker als omschreven in paragraaf 38 van dit voorschrift, gebouwd of aangepast en gebruikt voor het vervoer in bulk van een vloeibaar gemaakt gas.  
 
 27. wordt onder *tankschip *in verband met Hoofdstuk 4 verstaan een olietankschip zoals omschreven in voorschrift 1 van MARPOL Bijlage I of een chemicaliëntankschip of NLS-tankschip zoals omschreven in voorschrift 1 van MARPOL Bijlage II.  
 
@@ -11816,6 +11850,24 @@ CFK-115 chloorpentafluorethaan
 36. wordt onder *bereikte EEDI* verstaan de EEDI-waarde die door een individueel schip wordt behaald in overeenstemming met voorschrift 20 van Hoofdstuk 4.  
 
 37. wordt onder *vereiste EEDI* verstaan de maximumwaarde van de bereikte EEDI die ingevolge voorschrift 21 van Hoofdstuk 4 is toegestaan voor het specifieke scheepstype en de omvang.  
+
+38.wordt onder *lng-tanker* in verband met Hoofdstuk 4 van deze Bijlage verstaan een vrachtschip gebouwd of aangepast en gebruikt voor het vervoer in bulk van vloeibaar gemaakt aardgas (lng).
+
+39.wordt onder *cruiseschip* in verband met Hoofdstuk 4 van deze Bijlage verstaan een passagiersschip zonder ladingdek dat uitsluitend is ontworpen voor het commercieel vervoer van passagiers in overnachtingsaccommodaties tijdens een zeereis.
+
+40.wordt onder *conventionele voortstuwing* in verband met Hoofdstuk 4 van deze Bijlage verstaan een voortstuwingsmethode waarbij de primaire aandrijving wordt gevormd door een of meer hoofdzuigerverbrandingsmotoren die rechtstreeks of via een versnellingsbak gekoppeld zijn aan een aandrijfas.
+
+41.wordt onder *niet-conventionele voortstuwing* in verband met Hoofdstuk 4 van deze Bijlage verstaan een voortstuwingsmethode anders dan conventionele voortstuwing, met inbegrip van diesel-elektrische voortstuwing, voorstuwing met turbines en hybride voortstuwing.
+
+42.wordt onder* vrachtschip dat in staat is ijs te breken* in verband met Hoofdstuk 4 van deze Bijlage verstaan een vrachtschip dat is ontworpen om zelfstandig ijslagen te breken met een snelheid van ten minste 2 knopen waarbij de ijslaag een dikte heeft van 1.0 meter of meer en een buigsterkte van ten minste 500 kPa.
+
+43.wordt onder een schip *opgeleverd op of na* 1 september 2019 verstaan een schip:
+
+.1. waarvoor het bouwcontract is afgesloten op of na 1 september 2015; of  
+
+.2. waarvan, bij ontbreken van een bouwcontract, de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevindt op of na 1 maart 2016; of  
+
+.3. waarvan de oplevering plaatsvindt op of na 1 september 2019.  
 
 ### Voorschrift  3  
 
@@ -11894,7 +11946,7 @@ CFK-115 chloorpentafluorethaan
 
 .1. Een eerste onderzoek voordat een nieuw schip in dienst wordt gesteld en voordat het Internationaal certificaat betreffende energie-efficiëntie wordt afgegeven. Bij dit onderzoek wordt geverifieerd of de bereikte EEDI van het schip in overeenstemming is met de vereisten van Hoofdstuk 4 en dat het ingevolge voorschrift 22 vereiste SEEMP aan boord is;  
 
-.2. Een algeheel of gedeeltelijk onderzoek, al naargelang de omstandigheden, na een belangrijke wijziging van een schip waarop dit voorschrift van toepassing is. Bij het onderzoek dient gewaarborgd te worden dat de bereikte EEDI zo nodig wordt herberekend en voldoet aan het vereiste van voorschrift 21, waarbij de reductiefactor van toepassing is op het scheepstype en de omvang van het gewijzigde schip in de fase die overeenkomt met de datum van het bouwcontract of de kiellegging of oplevering die is vastgesteld voor het oorspronkelijke schip in overeenstemming met voorschrift 2.23;  
+.2. Een algeheel of gedeeltelijk onderzoek, al naargelang de omstandigheden, na een belangrijke wijziging van een nieuw schip waarop dit voorschrift van toepassing is. Bij het onderzoek dient gewaarborgd te worden dat de bereikte EEDI zo nodig wordt herberekend en voldoet aan het vereiste van voorschrift 21, waarbij de reductiefactor van toepassing is op het scheepstype en de omvang van het gewijzigde schip in de fase die overeenkomt met de datum van het bouwcontract of de kiellegging of oplevering die is vastgesteld voor het oorspronkelijke schip in overeenstemming met voorschrift 2.23;  
 
 .3. In gevallen waarin een belangrijke wijziging van een nieuw of bestaand schip zo omvangrijk is dat het schip door de Administratie wordt beschouwd als een nieuw gebouwd schip, bepaalt de Administratie of een eerste onderzoek naar de bereikte EEDI noodzakelijk is. Met een dergelijk onderzoek, indien nodig geacht, wordt gewaarborgd dat de bereikte EEDI wordt berekend en voldoet aan het vereiste van voorschrift 21, waarbij de toepasselijke reductiefactor overeenkomt met het scheepstype en de omvang van het gewijzigde schip op de datum van het contract voor de wijziging, of bij ontbreken van een contract, de datum waarop met de wijziging is begonnen. Bij het onderzoek wordt tevens geverifieerd of het ingevolge voorschrift 22 vereiste SEEMP aan boord is; en  
 
@@ -12068,7 +12120,7 @@ CFK-115 chloorpentafluorethaan
 .2. een aanmerkelijke aanpassing, zoals omschreven in de herziene NO<sub>x</sub> Technische Code 2008, plaatsvindt van de motor, of  
 
 .3. het maximumtoerental van de motor met meer dan 10% verhoogd wordt ten opzichte van het maximumtoerental op het oorspronkelijke certificaat van de motor.     
-2.2.  Voor een belangrijke wijziging waarbij een scheepsdieselmotor vervangen wordt door een niet-identieke scheepsdieselmotor of een aanvullende scheepsdieselmotor geïnstalleerd wordt, zijn de normen van kracht die gelden op het tijdstip van de vervanging of toevoeging van de motor. Indien het op of na 1 januari 2016, uitsluitend in het geval van vervangende motoren, niet mogelijk is te voldoen aan de normen vervat in lid 5.1.1 van dit voorschrift (generatie III), dienen zij te voldoen aan de normen vervat in het vierde lid van dit voorschrift (generatie II). De Organisatie dient richtlijnen op te stellen met de criteria wanneer een vervangende motor niet kan voldoen aan de normen van lid 5.1.1 van dit voorschrift.   
+2.2.  Voor een belangrijke wijziging waarbij een scheepsdieselmotor vervangen wordt door een niet-identieke scheepsdieselmotor of een aanvullende scheepsdieselmotor geïnstalleerd wordt, zijn de normen in dit voorschrift van kracht die gelden op het tijdstip van de vervanging of toevoeging van de motor. Indien het, uitsluitend in het geval van vervangende motoren, niet mogelijk is te voldoen aan de normen vervat in paragraaf 5.1.1 van dit voorschrift (generatie III, naargelang van toepassing), dienen zij te voldoen aan de normen vervat in paragraaf 4 van dit voorschrift (generatie II), rekening houdend met de door de Organisatie opgestelde richtlijnen.   
 2.3.  Een scheepsdieselmotor bedoeld in de leden 2.1.2 of 2.1.3 dient te voldoen aan de volgende normen: 
 
 .1. voor schepen gebouwd vóór 1 januari 2000 gelden de normen vervat in het derde lid van dit voorschrift; en  
@@ -12094,24 +12146,26 @@ CFK-115 chloorpentafluorethaan
 .3. 7,7 g/kWh wanneer n gelijk is aan of hoger dan 2000 opm.    
 ###Generatie III
 
-5.1.  Onverminderd voorschrift 3 van deze Bijlage is het gebruik van een scheepsdieselmotor op een schip gebouwd op of na 1 januari 2016: 
+5.1.  Onverminderd voorschrift 3 van deze Bijlage is in een gebied voor emissiebeheersing dat is aangewezen voor NO<sub>x</sub>-controle voor generatie III krachtens paragraaf 6 van dit voorschrift, het gebruik van een scheepsdieselmotor die in een schip is geïnstalleerd: 
 
-.1. verboden, tenzij de emissie van stikstofoxiden (berekend als de totale gewogen emissie van NO<sub>2</sub>) door de motor binnen de volgende grenzen blijft, waarbij n = nominaal toerental van de motor (krukasomwentelingen per minuut): 
+.1. verboden, tenzij de emissie van stikstofoxiden (berekend als de totale gewogen emissie van NO<sub>x</sub>) door de motor binnen de volgende grenzen blijft, waarbij *n* = nominaal toerental van de motor (krukasomwentelingen per minuut): waarbij geldt 
 
-.1.1. 3,4 g/kWh wanneer n lager is dan 130 opm;  
+.1. 3,4 g/kWh wanneer *n* lager is dan 130 opm;  
 
-.1.2. 9·n<sup>(-0.2)</sup>g/kWh wanneer n gelijk is aan of hoger dan 130 maar lager dan 2000 opm; en  
+.2 9 • *n* <sup>(-0,2)</sup> g/kWh wanneer *n* gelijk is aan of hoger dan 130 maar lager dan 2.000 opm;  
 
-.1.3. 2,0 g/kWh wanneer n gelijk is aan of hoger dan 2000 opm;    
+.3. 2,0 g/kWh wanneer *n* gelijk is aan of hoger dan 2000 opm.;    
 
-.2. zijn de normen vervat in lid 5.1.1 van dit lid van toepassing wanneer het schip vaart in een ingevolge het zesde lid van dit voorschrift aangewezen gebied voor emissiebeheersing; en  
+.2. indien het schip gebouwd is op of na 1 januari 2016 en vaart in het Noord-Amerikaanse gebied voor emissiebeheersing en in het Noord-Amerikaanse Caribische Zeegebied voor emissiebeheersing; indien  
 
-.3. zijn de normen vervat in het vierde lid van dit voorschrift van toepassing wanneer het schip vaart in een ingevolge het zesde lid van dit voorschrift aangewezen gebied voor emissiebeheersing.     
-5.2.  Onverminderd de toetsing vervat in het tiende lid van dit voorschrift zijn de normen vervat in lid 5.1.1 van dit voorschrift niet van toepassing op: 
+.3. het schip vaart in een gebied voor emissiebeheersing dat is aangewezen voor NO<sub>x</sub>-controle voor generatie III krachtens paragraaf 6 van dit voorschrift, anders dan een gebied voor emissiebeheersing beschreven in paragraaf 5.1.2 van dit voorschrift, en dat is gebouwd op of na de datum waarop dit gebied voor emissiebeheersing is aangenomen, of op een latere datum vermeld in de wijziging waarin het gebied voor emissiebeheersing voor NO<sub>x</sub>-controle voor generatie III is aangewezen, naargelang van welke datum de laatste is.     
+5.2.  De normen vervat in paragraaf 5.1.1 van dit voorschrift zijn niet van toepassing op: 
 
-.1. een scheepsdieselmotor geïnstalleerd op een schip met een lengte (L), als omschreven in voorschrift 1.19 van Bijlage I bij dit Verdrag, van minder dan 24 meter wanneer het specifiek is ontworpen en uitsluitend wordt gebruikt voor recreatieve doeleinden; of  
+.1. een scheepsdieselmotor geïnstalleerd op een schip met een lengte *(L)*, als omschreven in voorschrift 1.19 van Bijlage I bij dit Verdrag, van minder dan 24 meter wanneer het specifiek is ontworpen en uitsluitend wordt gebruikt voor recreatieve doeleinden; of  
 
-.2. een scheepsdieselmotor geïnstalleerd op een schip met een volgens het identificatieplaatje van de scheepsdieselmotor totaal voortstuwingsvermogen van minder dan 750 kW indien ten genoegen van de Administratie wordt aangetoond dat het schip vanwege de beperkingen van zijn ontwerp of constructie niet kan voldoen aan de normen vervat in lid 5.1.1 van dit voorschrift.    
+.2. een scheepsdieselmotor geïnstalleerd op een schip met een volgens het identificatieplaatje van de scheepsdieselmotor totaal voortstuwingsvermogen van minder dan 750 kW indien ten genoegen van de Administratie wordt aangetoond dat het schip vanwege de beperkingen van zijn ontwerp of constructie niet kan voldoen aan de normen vervat in paragraaf 5.1.1 van dit voorschrift; of  
+
+.3. een scheepsdieselmotor geïnstalleerd op een schip gebouwd vóór 1 januari 2021 met een brutotonnage van minder dan 500, met een lengte *(L)*, als omschreven in voorschrift 1.19 van Bijlage I bij dit Verdrag, van 24 meter of meer wanneer deze specifiek is ontworpen en uitsluitend wordt gebruikt voor recreatieve doeleinden.    
 ###Gebied voor emissiebeheersing
 
 6.  Voor de toepassing van dit voorschrift omvatten de gebieden voor emissiebeheersing: 
@@ -12146,9 +12200,6 @@ CFK-115 chloorpentafluorethaan
 
 8.  De herziene NO<sub>x</sub> Technische Code 2008 wordt ten behoeve van de normen vervat in dit voorschrift toegepast bij de certificerings-, test- en meetprocedures.   
 9.  De procedures voor het vaststellen van de NO<sub>x</sub>-emissie vervat in de herziene NO<sub>x</sub> Technische Code 2008 dienen representatief te zijn voor het normale functioneren van de motor. Manipulatievoorzieningen en abnormale emissiebeperkende strategieën ondermijnen dat doel en zijn niet toegestaan. Dit voorschrift belet niet het gebruik van beheersingshulpvoorzieningen die worden gebruikt om de motor en/of de hulpapparatuur te beschermen tegen bedrijfsomstandigheden die tot beschadiging of uitval kunnen leiden of om het starten van de motor te vergemakkelijken.  
-###Toetsing
-
-10.  Tussen 2012 en uiterlijk 2013 zal de Organisatie de status van de technologische ontwikkelingen voor de implementatie van de normen vervat in lid 5.1.1 van dit voorschrift toetsen en wanneer dat nodig blijkt, de daarin voorziene termijnen aanpassen.  
 
 ### Voorschrift  14  
 
@@ -12356,8 +12407,10 @@ CFK-115 chloorpentafluorethaan
 1.   Dit Hoofdstuk is van toepassing op alle schepen met een brutotonnage van 400 of meer.   
 2.   De bepalingen van dit Hoofdstuk zijn niet van toepassing op: 
 
-.1. schepen die uitsluitend reizen maken in wateren die vallen onder de soevereiniteit of rechtsmacht van de Staat wiens vlag het schip gerechtigd is te voeren. Elke partij dient evenwel door het aannemen van passende maatregelen te waarborgen dat dergelijke schepen worden gebouwd en geëxploiteerd op een wijze die verenigbaar is met Hoofdstuk 4, voor zover dat redelijk en praktisch uitvoerbaar is.     
-3.   Voorschrift 20 en voorschrift 21 zijn niet van toepassing op schepen met diesel-elektrische voortstuwing, een voorstuwingssysteem met turbines of hybride voortstuwing.   
+.1. schepen die uitsluitend reizen maken in wateren die vallen onder de soevereiniteit of rechtsmacht van de Staat wiens vlag het schip gerechtigd is te voeren. Elke partij dient evenwel door het aannemen van passende maatregelen te waarborgen dat dergelijke schepen worden gebouwd en geëxploiteerd op een wijze die verenigbaar is met Hoofdstuk 4, voor zover dat redelijk en praktisch uitvoerbaar is.  
+
+.2.schepen die niet met mechanische middelen worden voortgestuwd en platforms, met inbegrip van drijvende productie- en overslageenheden (FPSO’s), drijvende opslageenheden (FSU’s) en boorplatforms, ongeacht de wijze van voortstuwing ervan.   
+3.  De voorschriften 20 en 21 van deze Bijlage zijn niet van toepassing op schepen met niet-conventionele voortstuwing, met dien verstande dat de voorschriften 20 en 21 wel van toepassing zijn op cruiseschepen met niet-conventionele voortstuwing en lng-tankers met conventionele of niet-conventionele voortstuwing, opgeleverd op of na 1 september 2019, als omschreven in paragraaf 43 van voorschrift 2. De voorschriften 20 en 21 zijn niet van toepassing op vrachtschepen die in staat zijn ijs te breken.   
 4.   Niettegenstaande de bepalingen van paragraaf 1 van dit voorschrift, kan de Administratie ontheffing verlenen van de vereisten van voorschrift 20 en voorschrift 21 voor een schip met een brutotonnage van 400 of meer.   
 5.   De bepalingen van paragraaf 4 van dit voorschrift zijn niet van toepassing op schepen met een brutotonnage van 400 ton of meer: 
 
@@ -12374,26 +12427,26 @@ CFK-115 chloorpentafluorethaan
 
 ####Bereikte ontwerpindex voor energie-efficiëntie (Bereikte EEDI)
 
-1.   De bereikte EEDI wordt berekend voor: 
+1.  De bereikte EEDI wordt berekend voor: 
 
 .1. elk nieuw schip;  
 
 .2. elk nieuw schip dat een belangrijke wijziging heeft ondergaan; en  
 
-.3. elk nieuw of bestaand schip dat een belangrijke wijziging heeft ondergaan die zo omvangrijk is dat het schip door de Administratie wordt beschouwd als een nieuw gebouwd schip dat onder een of meer van de categorieën van de voorschriften 2.25 tot en met 2.35 valt. De bereikte EEDI dient voor elk afzonderlijk schip te worden berekend en dient te vermelden wat de geschatte prestatie van het schip is in termen van energie-efficiëntie, en dient vergezeld te gaan van het technisch dossier bij de EEDI waarin de informatie staat die nodig is voor het berekenen van de bereikte EEDI alsmede de uitgevoerde berekening zelf. De bereikte EEDI dient te worden geverifieerd, aan de hand van het technisch dossier bij de EEDI, hetzij door de Administratie of hetzij door een door haar naar behoren gemachtigde organisatie.     
+.3. elk nieuw of bestaand schip dat een belangrijke wijziging heeft ondergaan die zo omvangrijk is dat het schip door de Administratie wordt beschouwd als een nieuw gebouwd schip, dat onder een of meer van de categorieën van de voorschriften 2.25 tot en met 2.35, 2.38 en 2.39 van deze Bijlage valt. De bereikte EEDI dient voor elk afzonderlijk schip te worden berekend en dient te vermelden wat de geschatte prestatie van het schip is in termen van energie-efficiëntie, en dient vergezeld te gaan van het technisch dossier bij de EEDI waarin de informatie staat die nodig is voor het berekenen van de bereikte EEDI alsmede de uitgevoerde berekening zelf. De bereikte EEDI dient te worden geverifieerd aan de hand van het technisch dossier bij de EEDI, hetzij door de Administratie hetzij door een door haar naar behoren gemachtigde organisatie<sup>Verwijst naar de Code voor Erkende Organisaties (RO Code), zoals aangenomen door de Organisatie bij resolutie MEPC.237(65), eventueel als gewijzigd.</sup>.     
 2.  De bereikte EEDI wordt berekend met inachtneming van de door de Organisatie ontwikkelde richtsnoeren.  
 
 ### Voorschrift  21  
 
 ####Vereiste EEDI
 
-1.   Voor elk: 
+1.  Voor elk: 
 
 .1. nieuw schip;  
 
 .2. nieuw schip dat een belangrijke wijziging heeft ondergaan; en  
 
-.3. nieuw of bestaand schip dat een belangrijke wijziging heeft ondergaan die zo omvangrijk is dat het schip door de Administratie wordt beschouwd als een nieuw gebouwd schip   dat onder een of meer van de categorieën van de voorschriften 2.25 tot en met 2.35 valt en waarop dit Hoofdstuk van toepassing is, dient de bereikte EEDI als volgt te zijn: Bereikte EEDI ≤ Vereiste EEDI = (1-X/100) × waarde referentielijn waarbij X de in tabel 1 vermelde reductiefactor is voor de vereiste EEDI ten opzichte van de EEDI-referentielijn.   
+.3. nieuw of bestaand schip dat een belangrijke wijziging heeft ondergaan die zo omvangrijk is dat het schip door de Administratie wordt beschouwd als een nieuw gebouwd schip, dat onder een of meer van de categorieën van de voorschriften 2.25 tot en met 2.31, 2.33 tot en met 2.35, 2.38 en 2.39 valt en waarop dit Hoofdstuk van toepassing is, is de bereikte EEDI als volgt: Bereikte EEDI ≤ Vereiste EEDI = (1-X/100) × waarde referentielijn waarbij X de in tabel 1 vermelde reductiefactor is voor de vereiste EEDI ten opzichte van de EEDI-referentielijn.     
 2.   Voor elk nieuw of bestaand schip dat een belangrijke wijziging heeft ondergaan die zo omvangrijk is dat het schip door de Administratie wordt beschouwd als een nieuw gebouwd schip, wordt de bereikte EEDI berekend en dient deze te voldoen aan het vereiste van paragraaf 21.1, waarbij de reductiefactor van toepassing is op het scheepstype en de omvang van het gewijzigde schip op de datum van het contract voor de wijziging of bij ontbreken van een contract, de datum waarop met de wijziging is begonnen.   Tabel 1. Reductiefactoren (percentage) voor de EEDI ten opzichte van de EEDI-referentielijn 
 
 |  *Scheepstype*   | Omvang  | Fase 0  1 jan 2013 – 31 dec 2014  | Fase 1  1 jan 2015 – 31 dec 2019  | Fase 2  1 jan 2020 – 31 dec 2024  | Fase 3  1 jan 2025 en daarna  |
@@ -12412,8 +12465,14 @@ CFK-115 chloorpentafluorethaan
 | 3.000 – 5.000 ton draagvermogen  | n.v.t.  | 0–10<sup>1)</sup>   | 0–15<sup>1)</sup>   | 0–30<sup>1)</sup>   |
 | Combinatietanker  | 20.000 ton draagvermogen en hoger  | 0  | 10  | 20  | 30  |
 | 4.000 – 20.000 ton draagvermogen  | n.v.t.  | 0–10<sup>1)</sup>   | 0–20<sup>1)</sup>   | 0–30<sup>1)</sup>   |
+| Lng-tanker***  | 10.000 ton draagvermogen en hoger  | n.v.t  | 10**  | 20  | 30  |
+| Rorovrachtschip (vrachtschip voor voertuigen)***  | 10.000 ton draagvermogen en hoger  | n.v.t.  | 5**  | 15  | 30  |
+| Rorovrachtschip***  | 2.000 ton draagvermogen en hoger  | n.v.t.  | 5**  | 20  | 30 0-30*  |
+|1.000 – 2.000 ton draagvermogen |n.v.t. |0-5*** |0-20* | --- |
+| Cruiseschip*** met niet-conventionele voortstuwing | Brutotonnage 85.000 en hoger  | n.v.t.  | 5**  | 20  | 30  |
+| Brutotonnage 25.000 – 85.000  | n.v.t.  | 0-5***  | 0-20*  | 0-30*  |
 
-<sup>1)</sup> De reductiefactor dient lineair te worden geïnterpoleerd tussen de twee waarden, afhankelijk van de omvang van het schip. De laagste waarde van de reductiefactor dient te worden toegepast op het schip met de kleinste omvang.n.v.t. betekent dat er geen vereiste EEDI van toepassing is.  
+<sup>1)</sup> De reductiefactor dient lineair te worden geïnterpoleerd tussen de twee waarden, afhankelijk van de omvang van het schip. De laagste waarde van de reductiefactor dient te worden toegepast op het schip met de kleinste omvang.n.v.t. betekent dat er geen vereiste EEDI van toepassing is.* De reductiefactor dient lineair te worden geïnterpoleerd uit de twee waarden, afhankelijk van de omvang van het schip. De laagste waarde van de reductiefactor dient te worden toegepast op het schip met de kleinste omvang. ** Fase 1 begint voor deze schepen op 1 september 2015. *** De reductiefactor is van toepassing op schepen die op of na 1 september 2019 worden opgeleverd, als omschreven in paragraaf 43 van voorschrift 2. *Noot:* n.v.t. betekent dat er geen vereiste EEDI van toepassing is.  
 3.   De waarden van de referentielijn dienen als volgt te worden berekend: Waarde referentielijn = a ×b <sup>-c</sup>  waarbij a, b en c de in tabel 2 gegeven parameters zijn.  Tabel 2. Parameters voor het bepalen van de referentiewaarden voor de verschillende scheepstypen. 
 
 |  *Scheepstype omschreven in voorschrift 2*   |  *a*   |  *b*   |  *c*   |
@@ -12425,6 +12484,10 @@ CFK-115 chloorpentafluorethaan
 | 2.29 Algemeen vrachtschip  | 107,48  | draagvermogen van het schip  | 0,216  |
 | 2.30 Koelschip  | 227,01  | draagvermogen van het schip  | 0,244  |
 | 2.31 Combinatietanker  | 1219,00  | draagvermogen van het schip  | 0,488  |
+| 2.33 Rorovrachtschip (vrachtschip voor voertuigen)  | (draagvermogen/brutotonnage)<sup>-0,7</sup>   780,36 waarbij draagvermogen/ brutotonnage <0.3 1812,63  waarbij  draagvermogen/brutotonnage ≥0.3  | draagvermogen van het schip  | 0,471  |
+| 2.34 Rorovrachtschip  | 1405,15  | draagvermogen van het schip  | 0,498  |
+| 2.35 Roropassagiersschip  | 752,16  | draagvermogen van het schip  | 0,381  |
+| 2.38 Lng-tanker  | 2253,7  | draagvermoge van het schip  | 0,474  |
 
 4.   Indien het ontwerp van het schip zodanig is dat het onder meer dan een van de hierboven omschreven scheepstypen kan vallen, dan is de vereiste EEDI voor het schip de strengste (laagste) vereiste EEDI.   
 5.   Bij elk schip waarop dit voorschrift van toepassing is, mag het geïnstalleerde voortstuwingsvermogen niet minder zijn dan het voortstuwingsvermogen dat nodig is om de manoeuvreerbaarheid van het schip onder slechte omstandigheden, zoals omschreven in de door de Organisatie te ontwikkelen richtsnoeren, te handhaven.   
@@ -12446,7 +12509,7 @@ CFK-115 chloorpentafluorethaan
 
 ###Aanhangsel I 
 
-####Model van een Internationaal certificaat betreffende voorkoming van luchtverontreiniging (IAPP) (Voorschrift 8)
+####Model van een Internationaal certificaat betreffende voorkoming van luchtverontreiniging (IAPP) (voorschrift 8)
 
 ###INTERNATIONAAL CERTIFICAAT BETREFFENDE VOORKOMING VAN LUCHTVERONTREINIGING
 
@@ -12632,7 +12695,7 @@ VERSLAG VAN BOUW EN UITRUSTING
 
 1.3. Datum waarop de kiel werd gelegd of de bouw van het schip zich in een soortgelijk stadium bevond .....  
 
-1.4. Lengte (L) <sup>#</sup> meters .....    <sup>#</sup> Uitsluitend in te vullen voor schepen gebouwd op of na 1 januari 2016 die specifiek zijn gebouwd en uitsluitend worden gebruikt voor recreatiedoeleinden en waarop overeenkomstig voorschrift 13.5.2.1 de NO<sub>x</sub>-emissiegrenswaarde vervat in voorschrift 13.5.1.1 niet van toepassing is. 
+1.4. Lengte (L) <sup>#</sup> meters .....    <sup>#</sup> Uitsluitend in te vullen voor schepen gebouwd op of na 1 januari 2016 die specifiek zijn gebouwd en uitsluitend worden gebruikt voor recreatiedoeleinden en waarop overeenkomstig voorschrift 13.5.2.1 en voorschrift 13.5.2.3 de NO<sub>x</sub>-emissiegrenswaarde vervat in voorschrift 13.5.1.1 niet van toepassing is. 
 ### *2. Beheersing van emissies door schepen* 
 
 2.1. *Ozonafbrekende stoffen* (voorschrift 12) 
@@ -13314,9 +13377,9 @@ De volgende procedure wordt gebruikt om vast te stellen of de aan boord van sche
 | 25  | 18º 22’ 25” Noorderbreedte  | 64º 42’ 58” Westerlengte  |
 | 26  | 18º 22’ 26” Noorderbreedte  | 64º 42’ 28” Westerlengte  |
 | 27  | 18º 22’ 15” Noorderbreedte  | 64º 42’ 3” Westerlengte  |
-| 28  | 18º 22’ 22” Noorderbreedte  | 64°40’60”W.  |
-| 29  | 18º 21’ 57” Noorderbreedte  | 64°40’15”W.  |
-| 30  | 18º 21’ 51” Noorderbreedte  | 64°38’23”W.  |
+| 28  | 18º 22’ 22” Noorderbreedte  | 64°40’60”Westerlengte  |
+| 29  | 18º 21’ 57” Noorderbreedte  | 64°40’15”Westerlengte  |
+| 30  | 18º 21’ 51” Noorderbreedte  | 64°38’23”Westerlengte  |
 | 31  | 18º 21’ 22” Noorderbreedte  | 64º 38’ 16” Westerlengte  |
 | 32  | 18º 20’ 39” Noorderbreedte  | 64º 38’ 33” Westerlengte  |
 | 33  | 18º 19’ 15” Noorderbreedte  | 64º 38’ 14” Westerlengte  |

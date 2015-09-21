@@ -376,7 +376,7 @@ Bij ministeriële regeling kunnen in het belang van de volksgezondheid eisen wor
 a. als gevolg van dat gebruik of de wijze waarop deze materialen en chemicaliën worden toegepast, niet in een hogere concentratie in het drinkwater achterblijven dan voor het gebruik van die materialen of chemicaliën noodzakelijk is,  
 
 b. ook anderszins als gevolg van dat gebruik of die wijze van toepassing geen nadelige gevolgen hebben voor de volksgezondheid. Daaronder wordt mede verstaan het effect dat de gebruikte materialen hebben op de vorming van biofilm in de leidingen.     
-2.  Het eerste lid is niet van toepassing indien bij de distributie van drinkwater te gebruiken materialen deel uitmaken van een gebouw als bedoeld in artikel 1, eerste lid, onder c, van de Woningwet.  
+2.  Het eerste lid is niet van toepassing indien bij de distributie van drinkwater te gebruiken materialen deel uitmaken van een gebouw als bedoeld in artikel 1, eerste lid, van de Woningwet.  
 
 ### Artikel  20  
 
@@ -556,7 +556,7 @@ In afwijking van artikel 31 zijn op een collectieve watervoorziening, die deel u
 
 ####Toepassing NEN 1006
 
-1.  De eigenaar van een collectief leidingnet draagt zorg, op de wijze en in de mate, welke redelijkerwijs van hem kunnen worden gevergd, dat het leidingnet, voor zover dat geen deel uitmaakt van een gebouw als bedoeld in artikel 1, eerste lid, onder c, van de Woningwet, voldoet aan NEN 1006.   
+1.  De eigenaar van een collectief leidingnet draagt zorg, op de wijze en in de mate, welke redelijkerwijs van hem kunnen worden gevergd, dat het leidingnet, voor zover dat geen deel uitmaakt van een gebouw als bedoeld in artikel 1, eerste lid, van de Woningwet, voldoet aan NEN 1006.   
 2.  Het eerste lid is niet van toepassing op de eigenaar van een leidingnet dat deel uitmaakt van een op een binnen het Nederlandse territoir of het Nederlandse deel van het continentale plat gelegen mijnbouwinstallatie als bedoeld in artikel 1, onderdeel o, van de Mijnbouwwet.   
 3.  Bij ministeriële regeling kunnen categorieën van leidingnetten als bedoeld in artikel 29, derde lid, van de wet, worden aangewezen.  
 

@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 29 november 2013, nr. PO/557612, houdende regels met betrekking tot het verlenen van subsidie en het overdragen en opdragen van taken aan de Stichting Nederlands Onderwijs in het Buitenland voor de jaren 2014 tot en met 2018 (Regeling Stichting Nederlands Onderwijs in het Buitenland 2014–2018)
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
-Gelet op de [artikelen 2](../../../../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) en [4 van de Wet overige OCW-subsidies](../../../../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) en [artikel 2, eerste lid, van de Regeling OCW-subsidies](../../../../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md);
+Gelet op de artikelen 2 en 4 van de Wet overige OCW-subsidies en artikel 2, eerste lid, van de Regeling OCW-subsidies;
 Besluit:     
 ### Paragraaf  1  
 
@@ -19,7 +19,7 @@ a.  *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
 b.  *stichting:* Stichting Nederlands Onderwijs in het Buitenland (Stichting NOB), statutair gevestigd te Leidschendam-Voorburg;  
 
-c.  *toezichthouder:* Inspectie van het Onderwijs, door de minister aangewezen op grond van [artikel 10 van de Wet overige OCW-subsidies](../../../../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md);  
+c.  *toezichthouder:* Inspectie van het Onderwijs, door de minister aangewezen op grond van artikel 10 van de Wet overige OCW-subsidies;  
 
 d.  *onderwijsvoorziening:* in het buitenland gevestigde Nederlandse school, Nederlandse afdeling van een school in het buitenland waar volledig basisonderwijs, volledig voortgezet onderwijs, Nederlandse Taal en Cultuur-primair onderwijs of Nederlandse Taal en Cultuur-voortgezet onderwijs wordt gegeven en voorziening voor onderwijs op afstand via schriftelijke, telefonische en elektronische media;  
 
@@ -75,19 +75,26 @@ c. € 620.760 voor de activiteit bedoeld in artikel 6, onder c,
 d. € 641.340 voor de activiteit bedoeld in artikel 6, onder d,  
 
 e. € 372.330 voor de activiteit bedoeld in artikel 6, onder e.     
-2.  De subsidie ten behoeve van de in artikel 2, eerste lid, onder a, bedoelde activiteiten mag in algemene zin besteed worden aan alle activiteiten bedoeld in artikel 6.   
-3.  De subsidie ten behoeve van de in artikel 2, eerste lid, onder b, bedoelde activiteiten bedraagt € 73.000,00 per kalenderjaar.   
+2.  De subsidie ten behoeve van de in artikel 2, eerste lid, onder a, bedoelde activiteiten mag in algemene zin besteed worden aan alle activiteiten bedoeld in artikel 6.  
+3. De subsidie ten behoeve van de in artikel 2, eerste lid, onder b, bedoelde activiteiten bedraagt per kalenderjaar: 
+
+a. in 2014: € 73.000,00  
+
+b. in 2015: € 120.648,00  
+
+c. in 2016–2018: € 93.800,00    
 4.  De subsidie ten behoeve van de in artikel 2, eerste lid, onder c, bedoelde activiteiten bedraagt € 255.000,00 per kalenderjaar en is als volgt opgebouwd: 
 
 a. € 241.740 voor de uitvoering van de in het mandaatbesluit opgenomen activiteiten betreffende de Europese Scholen,  
 
 b. € 13.260 voor de uitvoering van de in het mandaatbesluit opgenomen activiteiten betreffende de onderwijsvoorziening van het Nederlands Astmacentrum in Davos.    
+5. Vanaf het kalenderjaar 2015 worden de in artikel 4 genoemde bedragen bijgesteld met het percentage loonbijstelling dat de Minister van Onderwijs, Cultuur en Wetenschap van de Minister van Financiën in het voorgaande kalenderjaar heeft ontvangen.
 
 ### Artikel  5  
 
 ####Begrotingsvoorbehoud
 
-Subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+Subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht. 
 
 ### Paragraaf  3  
 
@@ -153,7 +160,7 @@ f. toezicht door en toegang van toezichthouder tot de onderwijsvoorziening.
 
 ####Egalisatiereserve
 
-1.  De stichting vormt een egalisatiereserve als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  De stichting vormt een egalisatiereserve als bedoeld in artikel 4:72 van de Algemene wet bestuursrecht.   
 2.  De onttrekkingen uit de egalisatiereserve mogen worden besteed aan de doelen zoals bedoeld in deze regeling en het Mandaatbesluit Stichting Nederlands Onderwijs in het Buitenland.   
 3.  Aan het eind van de subsidieperiode wordt bezien wat er met de egalisatiereserve gebeurt.   
 4.  De minister kan de subsidieverlening afhankelijk stellen van de omvang van de egalisatiereserve.   
@@ -215,7 +222,7 @@ c. de solvabiliteit en liquiditeit.
 
 ####Controleverklaring
 
-1.  Het jaarverslag gaat vergezeld van een verklaring omtrent de getrouwheid en rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+1.  Het jaarverslag gaat vergezeld van een verklaring omtrent de getrouwheid en rechtmatigheid, afgegeven door een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.   
 2.  In de verklaring, bedoeld in het eerste lid, geeft de accountant naast een oordeel over de naleving van de subsidieverplichtingen tevens een oordeel over de naleving van de verplichtingen zoals opgenomen in het Mandaatbesluit Stichting Nederlands Onderwijs in het Buitenland.   
 3.  De stichting bedingt bij de accountant dat deze zijn onderzoek inricht overeenkomstig het algemene controleprotocol niet-onderwijsinstellingen.  
 
@@ -223,7 +230,7 @@ c. de solvabiliteit en liquiditeit.
 
 ####Termijn vaststelling
 
-In afwijking van de [Regeling OCW-subsidies](../../../../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) stelt de minister de subsidie vast uiterlijk 31 december van het kalenderjaar volgend op het kalenderjaar waarvoor de subsidie is verleend. 
+In afwijking van de Regeling OCW-subsidies stelt de minister de subsidie vast uiterlijk 31 december van het kalenderjaar volgend op het kalenderjaar waarvoor de subsidie is verleend. 
 
 ### Paragraaf  6  
 
@@ -240,14 +247,14 @@ In afwijking van de [Regeling OCW-subsidies](../../../../../../../../../../minis
 
 ####Abp-status
 
-1.  Het personeel dat wordt aangesteld in dienst van de stichting is deelnemer in de Stichting Pensioenfonds ABP in de zin van de statuten van de Stichting Pensioenfonds ABP op grond van het bepaalde in de [Wet Privatisering ABP](../../../../../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md).   
+1.  Het personeel dat wordt aangesteld in dienst van de stichting is deelnemer in de Stichting Pensioenfonds ABP in de zin van de statuten van de Stichting Pensioenfonds ABP op grond van het bepaalde in de Wet Privatisering ABP.   
 2.  Jaarlijks overlegt de stichting een verklaring dat alle over het voorafgaande kalenderjaar aan de Stichting Pensioenfonds ABP verschuldigde pensioenbijdragen voor het personeel in dienst van de stichting zijn voldaan.  
 
 ### Artikel  19  
 
 ####Intrekking
 
-De [Regeling Stichting Nederlands Onderwijs in het Buitenland](../../../../../../../../../../ministeriele-regeling/regeling/stichting/nederlands/onderwijs/in/het/buitenland/BWBR0021823/README.md), wordt ingetrokken. 
+De Regeling Stichting Nederlands Onderwijs in het Buitenland, wordt ingetrokken. 
 
 ### Artikel  20  
 

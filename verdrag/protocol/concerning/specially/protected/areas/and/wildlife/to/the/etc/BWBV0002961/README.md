@@ -2,9 +2,9 @@
 
 ##Protocol betreffende speciaal beschermde gebieden en wilde dieren en planten bij het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caribisch gebied
 
-####Protocol concerning Specially Protected Areas and Wildlife to the [Convention for the Protection and Development of the Marine Environment of the Wider Caribbean Region](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md)
+####Protocol concerning Specially Protected Areas and Wildlife to the Convention for the Protection and Development of the Marine Environment of the Wider Caribbean Region
 
-The Contracting Parties to this Protocol,Being Parties to the [Convention for the Protection and Development of the Marine Environment of the Wider Caribbean Region](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md), done at Cartagena de Indias, Colombia on 24 March 1983,Taking into account [Article 10 of the Convention](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md) which requires the establishment of specially protected areas,Having regard to the special hydrographic, biotic and ecological characteristics of the Wider Caribbean Region,Conscious of the grave threat posed by ill-conceived development options to the integrity of the marine and coastal environment of the Wider Caribbean Region,Recognizing that protection and maintenance of the environment of the Wider Caribbean Region are essential to sustainable development within the region,Conscious of the overwhelming ecological, economic, aesthetic, scientific, cultural, nutritional and recreational value of rare or fragile ecosystems and native flora and fauna to the Wider Caribbean Region,Recognizing that the Wider Caribbean Region constitutes an interconnected group of ecosystems in which an environmental threat in one part represents a potential threat in other parts,Stressing the importance of establishing regional co-operation to protect and, as appropriate, to restore and improve the state of ecosystems, as well as threatened and endangered species and their habitats in the Wider Caribbean Region by, among other means, the establishment of protected areas in the marine areas and their associated ecosystems,Recognizing that the establishment and management of such protected areas and the protection of threatened and endangered species will enhance the cultural heritage and values of the countries and territories in the Wider Caribbean Region, and bring increased economic and ecological benefits to them,Have agreed as follows:
+The Contracting Parties to this Protocol,Being Parties to the Convention for the Protection and Development of the Marine Environment of the Wider Caribbean Region, done at Cartagena de Indias, Colombia on 24 March 1983,Taking into account Article 10 of the Convention which requires the establishment of specially protected areas,Having regard to the special hydrographic, biotic and ecological characteristics of the Wider Caribbean Region,Conscious of the grave threat posed by ill-conceived development options to the integrity of the marine and coastal environment of the Wider Caribbean Region,Recognizing that protection and maintenance of the environment of the Wider Caribbean Region are essential to sustainable development within the region,Conscious of the overwhelming ecological, economic, aesthetic, scientific, cultural, nutritional and recreational value of rare or fragile ecosystems and native flora and fauna to the Wider Caribbean Region,Recognizing that the Wider Caribbean Region constitutes an interconnected group of ecosystems in which an environmental threat in one part represents a potential threat in other parts,Stressing the importance of establishing regional co-operation to protect and, as appropriate, to restore and improve the state of ecosystems, as well as threatened and endangered species and their habitats in the Wider Caribbean Region by, among other means, the establishment of protected areas in the marine areas and their associated ecosystems,Recognizing that the establishment and management of such protected areas and the protection of threatened and endangered species will enhance the cultural heritage and values of the countries and territories in the Wider Caribbean Region, and bring increased economic and ecological benefits to them,Have agreed as follows:
 
 ### Article  1  
 
@@ -12,17 +12,17 @@ The Contracting Parties to this Protocol,Being Parties to the [Convention for th
 
 For the purpose of this Protocol:
 
-a)"[Convention](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md)" means the Convention for the Protection and Development of the Marine Environment of the Wider Caribbean Region (Cartagena de Indias, Colombia, March 1983);
+a)"Convention" means the Convention for the Protection and Development of the Marine Environment of the Wider Caribbean Region (Cartagena de Indias, Colombia, March 1983);
 
 b)"Action Plan" means the Action Plan for the Caribbean Environment Programme (Montego Bay, April 1981);
 
-c)"Wider Caribbean Region" has the meaning given to the term "the [Convention](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md) area" in [Article 2(1) of the Convention](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md), and in addition, includes for the purposes of this Protocol:
+c)"Wider Caribbean Region" has the meaning given to the term "the Convention area" in Article 2(1) of the Convention, and in addition, includes for the purposes of this Protocol:
 
 (i)waters on the landward side of the baseline from which the breadth of the territorial sea is measured and extending, in the case of watercourses, up to the fresh water limit; and
 
 (ii)such related terrestrial areas (including watersheds) as may be designated by the Party having sovereignty and jurisdiction over such areas;
 
-d)"Organization" means the body referred to in [Article 2(2) of the Convention](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md);
+d)"Organization" means the body referred to in Article 2(2) of the Convention;
 
 e)"Protected area" means the areas accorded protection pursuant to Article 4 of this Protocol;
 
@@ -49,7 +49,7 @@ l)"Annex III" means the annex to the Protocol containing the agreed list of spec
 ####General Provisions
 
 1. This Protocol shall apply to the Wider Caribbean Region as defined in Article l(c).
-2. The provisions of the [Convention](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md) relating to its Protocol shall apply to this Protocol, including in particular, [paragraphs 2 and 3 of Article 3 of the Convention](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md).
+2. The provisions of the Convention relating to its Protocol shall apply to this Protocol, including in particular, paragraphs 2 and 3 of Article 3 of the Convention.
 3. The present Protocol shall not apply to warships or other ships owned or operated by a State while engaged in government non-commercial service. Nevertheless, each Party shall ensure through the adoption of appropriate measures that do not hinder the operation or operational capacities of vessels they own or operate, that they adhere to the terms of the present Protocol in so far as is reasonable and feasible.
 
 ### Article  3  
@@ -141,7 +141,7 @@ i)the development of qualified managers and technical personnel, as well as appr
 
 ####Co-operation Programme for, and Listing of, Protected Areas
 
-1. The Parties shall establish co-operation programmes within the framework of the [Convention](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md) and the Action Plan and in accordance with their sovereignty, or sovereign rights or jurisdiction to further the objectives of the Protocol.
+1. The Parties shall establish co-operation programmes within the framework of the Convention and the Action Plan and in accordance with their sovereignty, or sovereign rights or jurisdiction to further the objectives of the Protocol.
 2. A co-operation programme will be established to support the listing of protected areas. It will assist with the selection, establishment, planning, management and conservation of protected areas, and shall create a network of protected areas. To this end, the Parties shall establish a list of protected areas. The Parties shall:
 
 a)recognize the particular importance of listed areas to the Wider Caribbean Region;
@@ -170,7 +170,7 @@ Each Party to this Protocol may, as necessary, strengthen the protection of a pr
 1. If a Party intends to establish a protected area or a buffer zone contiguous to the frontier or to the limits of the zone of national jurisdiction of another Party, the two Parties shall consult each other with a view to reaching agreement on the measures to be taken and shall, *inter alia,* examine the possibility of the establishment by the other Party of a corresponding contiguous protected area or buffer zone or the adoption by it of any other appropriate measures including co-operative management programmes.
 2. If a Party intends to establish a protected area or a buffer zone contiguous to the frontier or to the limits of the zone of national jurisdiction of a State that is not a Party to this Protocol, the party shall endeavour to work together with the competent authorities of that State with a view to holding the consultations referred to in paragraph 1.
 3. Whenever it becomes known to a Party that a non-Party intends to establish a protected area or a buffer zone contiguous to the frontier or to the limits of the zone of national jurisdiction of a Party to this Protocol, the latter shall endeavour to work together with that State with a view to holding the consultations referred to in paragraph 1.
-4. If contiguous protected areas and/or buffer zones are established by one Party and by a State that is not a Party to this Protocol, the former should attempt, where possible, to achieve conformity with the provisions of the [Convention](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md) and its Protocols.
+4. If contiguous protected areas and/or buffer zones are established by one Party and by a State that is not a Party to this Protocol, the former should attempt, where possible, to achieve conformity with the provisions of the Convention and its Protocols.
 
 ### Article  10  
 
@@ -233,7 +233,7 @@ d)a Party may, in the exercise of its sovereignty or sovereign rights, enter a r
 e)a listing in the corresponding annex shall become effective 90 days after the vote for all Parties, except those which made a reservation in accordance with paragraph (d) of this Article; and
 
 f)a Party may at any time substitute an acceptance for a previous reservation to a listing by notifying the Depositary, in writing. The acceptance shall thereupon enter into force for that Party.
-5. The Parties shall establish co-operation programmes within the framework of the [Convention](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md) and the Action Plan to assist with the management and conservation of protected species, and shall develop and implement regional recovery programmes for protected species in the Wider Caribbean Region, taking fully into account other existing regional conservation measures relevant to the management of those species. The Organization shall assist in the establisment and implementation of these regional recovery programmes.
+5. The Parties shall establish co-operation programmes within the framework of the Convention and the Action Plan to assist with the management and conservation of protected species, and shall develop and implement regional recovery programmes for protected species in the Wider Caribbean Region, taking fully into account other existing regional conservation measures relevant to the management of those species. The Organization shall assist in the establisment and implementation of these regional recovery programmes.
 
 ### Article  12  
 
@@ -417,7 +417,7 @@ h)carrying out any other function assigned by the Parties to the Organization.
 
 ####Meetings of the Parties
 
-1. The ordinary meetings of the Parties shall be held in conjunction with the ordinary meetings of the Parties to the [Convention](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md) held pursuant to [Article 16 of the Convention](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md). The Parties may also hold extraordinary meetings in conformity with Article 16 of the Convention. The meetings will be governed by the Rules of Procedure adopted pursuant to [Article 20 of the Convention](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md).
+1. The ordinary meetings of the Parties shall be held in conjunction with the ordinary meetings of the Parties to the Convention held pursuant to Article 16 of the Convention. The Parties may also hold extraordinary meetings in conformity with Article 16 of the Convention. The meetings will be governed by the Rules of Procedure adopted pursuant to Article 20 of the Convention.
 2. It shall be the function of the meetings of the Parties to this Protocol:
 
 a)to keep under review and direct the implementation of this Protocol;
@@ -434,7 +434,7 @@ f)to adopt and revise, as needed, the guidelines and criteria provided for in Ar
 
 g)to analyze the advice and recommendations of the Scientific and Technical Advisory Committee pursuant to Article 20;
 
-h)to analyze reports transmitted by the Parties to the Organization under [Article 22 of the Convention](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md) and Article 19 of this Protocol, as well as any other information which the Parties may transmit to the Organization or to the meeting of the Parties; and
+h)to analyze reports transmitted by the Parties to the Organization under Article 22 of the Convention and Article 19 of this Protocol, as well as any other information which the Parties may transmit to the Organization or to the meeting of the Parties; and
 
 i) to conduct such other business as appropriate.
 
@@ -442,32 +442,32 @@ i) to conduct such other business as appropriate.
 
 ####Funding
 
-In addition to the funds provided by the Parties in accordance with [paragraph 2, Article 20 of the Convention](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md), the Parties may direct the Organization to seek additional funds. These may include voluntary contributions for purposes connected with the Protocol from Parties, other governments, government agencies, non-governmental, international, regional and private sector organizations and individuals.
+In addition to the funds provided by the Parties in accordance with paragraph 2, Article 20 of the Convention, the Parties may direct the Organization to seek additional funds. These may include voluntary contributions for purposes connected with the Protocol from Parties, other governments, government agencies, non-governmental, international, regional and private sector organizations and individuals.
 
 ### Article  25  
 
 ####Relationship to other Conventions Dealing with the Special Protection of Wildlife
 
-Nothing in this Protocol shall be interpreted in a way that may affect the rights and obligations of Parties under the [Convention on International Trade in Endangered Species of Wild Fauna or Flora](../../../../../../../../../../../../verdrag/convention/on/international/trade/in/endangered/species/of/wild/fauna/and/etc/BWBV0003833/README.md) (CITES) and the Convention on the Conservation of Migratory Species of Wild Animals (CMS).
+Nothing in this Protocol shall be interpreted in a way that may affect the rights and obligations of Parties under the Convention on International Trade in Endangered Species of Wild Fauna or Flora (CITES) and the Convention on the Conservation of Migratory Species of Wild Animals (CMS).
 
 ### Article  26  
 
 ####Transitional Clause
 
-1. The initial version of the annexes, which constitutes an integral part of the Protocol, shall be adopted by consensus at a Conference of Plenipotentiaries of the Contracting Parties to the [Convention](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md).
+1. The initial version of the annexes, which constitutes an integral part of the Protocol, shall be adopted by consensus at a Conference of Plenipotentiaries of the Contracting Parties to the Convention.
 
 ### Article  27  
 
 ####Entry into Force
 
-1. The Protocol and its annexes, once adopted by the Contracting Parties to the [Convention](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md), will enter into force in conformity with the procedure established in [paragraph 2 of Article 28 of the Convention](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md).
+1. The Protocol and its annexes, once adopted by the Contracting Parties to the Convention, will enter into force in conformity with the procedure established in paragraph 2 of Article 28 of the Convention.
 2. The Protocol shall not enter into force until the initial annexes have been adopted in accordance with Article 26.
 
 ### Article  28  
 
 ####Signature
 
-This Protocol shall be open for signature at Kingston, from 18 January 1990 to 31 January 1990 and at Bogota from 1 February 1990 to 17 January 1991 by any Party to the [Convention](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md).
+This Protocol shall be open for signature at Kingston, from 18 January 1990 to 31 January 1990 and at Bogota from 1 February 1990 to 17 January 1991 by any Party to the Convention.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Governments, have signed this Protocol.DONE at Kingston, on this eighteenth day of January one thousand nine hundred and ninety in a single copy in the English, French and Spanish languages, the three texts being equally authentic.
 
@@ -733,9 +733,9 @@ IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Go
 | Family  | Genus  | Species  |
 | Cebidae  Cebidae  | Alouatta  Cebus  | seniculus  albifrons  |
 
-####Protocol betreffende speciaal beschermde gebieden en wilde dieren en planten bij het [Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caribisch gebied](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md)
+####Protocol betreffende speciaal beschermde gebieden en wilde dieren en planten bij het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caribisch gebied
 
-De Verdragsluitende Partijen bij dit Protocol,Partij zijnde bij het [Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caribisch gebied](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md), ondertekend te Cartagena de Indias op 24 maart 1983,In aanmerking nemend [artikel 10 van het Verdrag](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md) dat de instelling van speciaal beschermde gebieden verlangt,Gelet op de bijzondere hydrografische, biotische en ecologische kenmerken van het Caribisch gebied,Zich bewust van de ernstige bedreiging die slecht opgezette ontwikkelingsplannen vormen voor de natuurlijke staat van het mariene milieu en de kusten van het Caribisch gebied,Erkennende dat bescherming en behoud van het milieu van het Caribisch gebied van wezenlijk belang zijn voor een verantwoorde ontwikkeling in het gebied,Zich bewust van de ontzaglijke ecologische, economische, esthetische, wetenschappelijke, culturele, nutritieve en recreatieve waarde van zeldzame en broze ecosystemen en inheemse dier- en plantesoorten voor het Caribisch gebied,Erkennende dat het Caribisch gebied een groep onderling verbonden ecosystemen is, waarin een bedreiging voor het milieu in één deel een mogelijke bedreiging in andere delen vormt,De nadruk leggend op het belang te komen tot regionale samenwerking met het oog op de bescherming en, indien van toepassing, het herstel en de verbetering van de toestand van ecosystemen, alsmede bedreigde en uitstervende soorten en hun leefmilieu in het Caribisch gebied door middel van, onder andere, de instelling van beschermde gebieden in de mariene gebieden en de daarmee samenhangende ecosystemen,Erkennende dat de instelling en het beheer van zulke beschermde gebieden en de bescherming van bedreigde en uitstervende soorten het cultureel erfgoed en de waarden van de landen en gebieden in het Caribisch gebied zal versterken en hun grotere economische en ecologische voordelen zal brengen,Zijn als volgt overeengekomen:
+De Verdragsluitende Partijen bij dit Protocol,Partij zijnde bij het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caribisch gebied, ondertekend te Cartagena de Indias op 24 maart 1983,In aanmerking nemend artikel 10 van het Verdrag dat de instelling van speciaal beschermde gebieden verlangt,Gelet op de bijzondere hydrografische, biotische en ecologische kenmerken van het Caribisch gebied,Zich bewust van de ernstige bedreiging die slecht opgezette ontwikkelingsplannen vormen voor de natuurlijke staat van het mariene milieu en de kusten van het Caribisch gebied,Erkennende dat bescherming en behoud van het milieu van het Caribisch gebied van wezenlijk belang zijn voor een verantwoorde ontwikkeling in het gebied,Zich bewust van de ontzaglijke ecologische, economische, esthetische, wetenschappelijke, culturele, nutritieve en recreatieve waarde van zeldzame en broze ecosystemen en inheemse dier- en plantesoorten voor het Caribisch gebied,Erkennende dat het Caribisch gebied een groep onderling verbonden ecosystemen is, waarin een bedreiging voor het milieu in één deel een mogelijke bedreiging in andere delen vormt,De nadruk leggend op het belang te komen tot regionale samenwerking met het oog op de bescherming en, indien van toepassing, het herstel en de verbetering van de toestand van ecosystemen, alsmede bedreigde en uitstervende soorten en hun leefmilieu in het Caribisch gebied door middel van, onder andere, de instelling van beschermde gebieden in de mariene gebieden en de daarmee samenhangende ecosystemen,Erkennende dat de instelling en het beheer van zulke beschermde gebieden en de bescherming van bedreigde en uitstervende soorten het cultureel erfgoed en de waarden van de landen en gebieden in het Caribisch gebied zal versterken en hun grotere economische en ecologische voordelen zal brengen,Zijn als volgt overeengekomen:
 
 ### Artikel  1  
 
@@ -743,17 +743,17 @@ De Verdragsluitende Partijen bij dit Protocol,Partij zijnde bij het [Verdrag inz
 
 Voor de toepassing van dit Protocol wordt verstaan onder 
 
-a."het [Verdrag](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md)": het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caribisch gebied (Cartagena de Indias, 24 maart 1983);
+a."het Verdrag": het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caribisch gebied (Cartagena de Indias, 24 maart 1983);
 
 b."het Actieplan": het Actieplan voor het Caribisch Milieuprogramma (Montego Bay, april 1981);
 
-c."het Caribisch gebied": het "Verdragsgebied" bedoeld in [artikel 2, eerste lid, van het Verdrag](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md); dit omvat bovendien voor de toepassing van dit Protocol:
+c."het Caribisch gebied": het "Verdragsgebied" bedoeld in artikel 2, eerste lid, van het Verdrag; dit omvat bovendien voor de toepassing van dit Protocol:
 
 i.wateren gelegen aan de landzijde van de basislijn vanwaar de breedte van de territoriale zee wordt gemeten en zich uitstrekkende, in geval van waterlopen, tot de zoetwatergrens; en
 
 ii.de daarmee verbonden landgebieden (met inbegrip van stroomgebieden) die worden aangewezen door de Partij die soevereine rechten en rechtsmacht over die gebieden heeft;
 
-d."de Organisatie": het in [artikel 2, tweede lid, van het Verdrag](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md) bedoelde lichaam;
+d."de Organisatie": het in artikel 2, tweede lid, van het Verdrag bedoelde lichaam;
 
 e."beschermd gebied": een gebied dat wordt beschermd uit hoofde van artikel 4 van dit Protocol;
 
@@ -780,7 +780,7 @@ l."Bijlage III": de bijlage bij dit Protocol die de overeengekomen lijst van in 
 ####Algemene bepalingen
 
 1. Dit Protocol is van toepassing op het Caribisch gebied zoals omschreven in artikel 1, letter c.
-2. De bepalingen van het [Verdrag](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md) met betrekking tot de protocollen daarbij zijn op dit Protocol van toepassing, met inbegrip van met name de [leden 2 en 3 van artikel 3 van het Verdrag](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md).
+2. De bepalingen van het Verdrag met betrekking tot de protocollen daarbij zijn op dit Protocol van toepassing, met inbegrip van met name de leden 2 en 3 van artikel 3 van het Verdrag.
 3. Dit Protocol is niet van toepassing op oorlogsschepen en andere schepen in eigendom van of geëxploiteerd door een Staat wanneer deze worden gebruikt in dienst van de overheid voor andere dan handelsdoeleinden. Niettemin zien alle Partijen erop toe, door middel van de aanneming van passende maatregelen die de exploitatie of de exploitatiemogelijkheden van schepen die zij in eigendom hebben of exploiteren niet in de weg staan, dat deze schepen zich houden aan de bepalingen van dit Protocol, voor zover zulks redelijk en haalbaar is.
 
 ### Artikel  3  
@@ -872,7 +872,7 @@ i.het vormen van bekwaam leidinggevend en technisch personeel en het ontwikkelen
 
 ####Samenwerkingsprogramma voor en opstelling van een lijst van beschermde gebieden
 
-1. De Partijen brengen samenwerkingsprogramma's tot stand binnen het kader van het [Verdrag](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md) en het Actieplan en in overeenstemming met hun soevereiniteit, soevereine rechten of rechtsmacht, ter bevordering van de doelstellingen van dit Protocol.
+1. De Partijen brengen samenwerkingsprogramma's tot stand binnen het kader van het Verdrag en het Actieplan en in overeenstemming met hun soevereiniteit, soevereine rechten of rechtsmacht, ter bevordering van de doelstellingen van dit Protocol.
 2. Een samenwerkingsprogramma wordt tot stand gebracht ter ondersteuning van de opstelling van een lijst van beschermde gebieden en ten behoeve van de keuze, de instelling, de planning, het beheer en het behoud van beschermde gebieden, en het scheppen van een netwerk van beschermde gebieden.Daartoe stellen de Partijen een lijst van beschermde gebieden op. De Partijen:
 
 a.erkennen het bijzondere belang van in de lijst opgenomen gebieden voor het Caribisch gebied;
@@ -901,7 +901,7 @@ Elke Partij bij dit Protocol kan, indien noodzakelijk, de bescherming van een be
 1. Indien een Partij voornemens is een beschermd gebied of een bufferzone in te stellen langs de landsgrens of de grenzen van het nationale rechtsgebied van een andere Partij, plegen beide Partijen met elkander overleg ten einde overeenstemming te bereiken over de te nemen maatregelen en bestuderen zij, onder andere, de mogelijkheid dat de andere Partij een overeenkomstig aangrenzend beschermd gebied of een bufferzone instelt of andere passende maatregelen aanneemt, waaronder op samenwerking gerichte beheersprogramma's.
 2. Indien een Partij voornemens is een beschermd gebied of een bufferzone in te stellen langs de landsgrens of de grenzen van het nationale rechtsgebied van een Staat die geen Partij bij dit Protocol is, tracht de Partij samen te werken met de bevoegde autoriteiten van die Staat ten einde te komen tot het in het eerste lid bedoelde overleg.
 3. Wanneer een Partij ervan kennis neemt dat een Staat die geen Partij is voornemens is een beschermd gebied of een bufferzone in te stellen langs de landsgrens of de grenzen van het nationale rechtsgebied van een Partij bij dit Protocol, tracht deze Partij samen te werken met die Staat ten einde te komen tot het in het eerste lid bedoelde overleg.
-4. Indien aangrenzende beschermde gebieden en/of bufferzones worden ingesteld door een Partij en een Staat die geen Partij bij dit Protocol is, tracht de Partij, indien mogelijk, overeenstemming te bereiken met de bepalingen van het [Verdrag](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md) en de protocollen daarbij.
+4. Indien aangrenzende beschermde gebieden en/of bufferzones worden ingesteld door een Partij en een Staat die geen Partij bij dit Protocol is, tracht de Partij, indien mogelijk, overeenstemming te bereiken met de bepalingen van het Verdrag en de protocollen daarbij.
 
 ### Artikel  10  
 
@@ -964,7 +964,7 @@ d.een Partij kan in de uitoefening van haar soevereiniteit of soevereine rechten
 e.een opneming in een lijst in de desbetreffende bijlage wordt 90 dagen na de stemming voor alle Partijen van kracht, behalve voor hen die een voorbehoud hebben gemaakt in overeenstemming met de bepaling in letter d van dit artikel; en
 
 f.een Partij kan te allen tijde een eerder voorbehoud ten aanzien van een opneming in een lijst vervangen door een aanvaarding door middel van een schriftelijke kennisgeving aan de Depositaris. De aanvaarding wordt daarna voor die Partij van kracht.
-5. De Partijen stellen samenwerkingsprogramma's op in het kader van het [Verdrag](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md) en het Actieplan ten behoeve van het beheer en het behoud van beschermde soorten en ontwikkelen regionale herstelprogramma's voor beschermde soorten in het Caribisch gebied, en voeren deze uit, ten volle rekening houdend met andere bestaande regionale maatregelen tot behoud die voor het beheer van die soorten van belang zijn. De Organisatie verleent bijstand bij de opstelling en uitvoering van deze regionale herstelprogramma's.
+5. De Partijen stellen samenwerkingsprogramma's op in het kader van het Verdrag en het Actieplan ten behoeve van het beheer en het behoud van beschermde soorten en ontwikkelen regionale herstelprogramma's voor beschermde soorten in het Caribisch gebied, en voeren deze uit, ten volle rekening houdend met andere bestaande regionale maatregelen tot behoud die voor het beheer van die soorten van belang zijn. De Organisatie verleent bijstand bij de opstelling en uitvoering van deze regionale herstelprogramma's.
 
 ### Artikel  12  
 
@@ -1148,7 +1148,7 @@ h.het vervullen van andere door de Partijen aan de Organisatie opgedragen taken.
 
 ####Vergaderingen van de Partijen
 
-1. De gewone vergaderingen van de Partijen worden gehouden te zamen met de gewone vergaderingen van de Partijen bij het [Verdrag](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md), gehouden overeenkomstig [artikel 16 van het Verdrag](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md). De Partijen kunnen ook buitengewone vergaderingen houden in overeenstemming met artikel 16 van het Verdrag. Voor de vergaderingen geldt het reglement van orde aangenomen overeenkomstig [artikel 20 van het Verdrag](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md).
+1. De gewone vergaderingen van de Partijen worden gehouden te zamen met de gewone vergaderingen van de Partijen bij het Verdrag, gehouden overeenkomstig artikel 16 van het Verdrag. De Partijen kunnen ook buitengewone vergaderingen houden in overeenstemming met artikel 16 van het Verdrag. Voor de vergaderingen geldt het reglement van orde aangenomen overeenkomstig artikel 20 van het Verdrag.
 2. De vergaderingen van de Partijen bij dit Protocol hebben tot taak:
 
 a.het volgen van en richting geven aan de toepassing van dit Protocol;
@@ -1165,7 +1165,7 @@ f.het aannemen en herzien, indien nodig, van de richtlijnen en criteria bedoeld 
 
 g.het bestuderen van de adviezen en aanbevelingen van de Wetenschappelijke en Technische Raadgevende Commissie uit hoofde van artikel 20;
 
-h.het bestuderen van de krachtens [artikel 22 van het Verdrag](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md) en artikel 19 van dit Protocol door de Partijen aan de Organisatie toegezonden verslagen, alsmede andere informatie die de Partijen de Organisatie of de vergadering van de Partijen doen toekomen; en
+h.het bestuderen van de krachtens artikel 22 van het Verdrag en artikel 19 van dit Protocol door de Partijen aan de Organisatie toegezonden verslagen, alsmede andere informatie die de Partijen de Organisatie of de vergadering van de Partijen doen toekomen; en
 
 i. in voorkomend geval, het verrichten van andere werkzaamheden.
 
@@ -1173,32 +1173,32 @@ i. in voorkomend geval, het verrichten van andere werkzaamheden.
 
 ####Fondsen
 
-Naast de door de Partijen in overeenstemming met [artikel 20, tweede lid, van het Verdrag](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md) verstrekte fondsen kunnen de Partijen de Organisatie opdracht geven aanvullende fondsen te werven. Deze kunnen vrijwillige bijdragen omvatten voor met het Protocol verband houdende doelstellingen, afkomstig van Partijen, andere regeringen, overheidsinstanties, niet-gouvernementele, internationale, regionale of particuliere organisaties en personen.
+Naast de door de Partijen in overeenstemming met artikel 20, tweede lid, van het Verdrag verstrekte fondsen kunnen de Partijen de Organisatie opdracht geven aanvullende fondsen te werven. Deze kunnen vrijwillige bijdragen omvatten voor met het Protocol verband houdende doelstellingen, afkomstig van Partijen, andere regeringen, overheidsinstanties, niet-gouvernementele, internationale, regionale of particuliere organisaties en personen.
 
 ### Artikel  25  
 
 ####Verhouding tot andere Verdragen inzake de bijzondere bescherming van wilde dieren en planten
 
-Geen enkele bepaling van dit Protocol mag zodanig worden uitgelegd dat afbreuk wordt gedaan aan de rechten en verplichtingen van Partijen uit hoofde van de [Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantesoorten ](../../../../../../../../../../../../verdrag/convention/on/international/trade/in/endangered/species/of/wild/fauna/and/etc/BWBV0003833/README.md)(CITES) en het Verdrag inzake de bescherming van trekkende wilde diersoorten (CMS).
+Geen enkele bepaling van dit Protocol mag zodanig worden uitgelegd dat afbreuk wordt gedaan aan de rechten en verplichtingen van Partijen uit hoofde van de Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantesoorten (CITES) en het Verdrag inzake de bescherming van trekkende wilde diersoorten (CMS).
 
 ### Artikel  26  
 
 ####Overgangsbepaling
 
-De oorspronkelijke versie van de bijlagen, die een integrerend deel van dit Protocol uitmaken, wordt door middel van consensus op een Conferentie van gevolmachtigden van de Verdragsluitende Partijen bij het [Verdrag](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md) aangenomen.
+De oorspronkelijke versie van de bijlagen, die een integrerend deel van dit Protocol uitmaken, wordt door middel van consensus op een Conferentie van gevolmachtigden van de Verdragsluitende Partijen bij het Verdrag aangenomen.
 
 ### Artikel  27  
 
 ####Inwerkingtreding
 
-1. Dit Protocol en de daarbij behorende bijlagen, nadat zij door de Verdragsluitende Partijen bij het [Verdrag](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md) zijn aangenomen, zullen overeenkomstig de in [artikel 28, tweede lid, van het Verdrag](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md) vastgestelde procedure in werking treden.
+1. Dit Protocol en de daarbij behorende bijlagen, nadat zij door de Verdragsluitende Partijen bij het Verdrag zijn aangenomen, zullen overeenkomstig de in artikel 28, tweede lid, van het Verdrag vastgestelde procedure in werking treden.
 2. Het Protocol treedt eerst in werking wanneer de oorspronkelijke bijlagen in overeenstemming met artikel 26 zijn aangenomen.
 
 ### Artikel  28  
 
 ####Ondertekening
 
-Dit Protocol staat open voor ondertekening te Kingston van 18 januari tot en met 31 januari 1990 en te Bogota van 1 februari 1990 tot en met 17 januari 1991 door elke Partij bij het [Verdrag](../../../../../../../../../../../../verdrag/verdrag/inzake/de/bescherming/en/ontwikkeling/van/het/mariene/milieu/in/etc/BWBV0002733/README.md).
+Dit Protocol staat open voor ondertekening te Kingston van 18 januari tot en met 31 januari 1990 en te Bogota van 1 februari 1990 tot en met 17 januari 1991 door elke Partij bij het Verdrag.
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun onderscheiden Regeringen, dit Protocol hebben ondertekend.GEDAAN te Kingston op 18 januari 1990 in één exemplaar in de Engelse, de Franse en de Spaanse taal, zijnde de drie teksten gelijkelijk authentiek.
 
