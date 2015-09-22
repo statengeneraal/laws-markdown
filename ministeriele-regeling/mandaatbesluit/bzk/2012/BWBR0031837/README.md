@@ -407,11 +407,11 @@ f. tot het geven van vakinhoudelijke instructies aan de P&O-afdelingen van alle 
 
 De directeur Communicatie is met inachtneming van dit besluit bevoegd om stukken af te doen en te ondertekenen met betrekking tot het aangaan van raamovereenkomsten inzake de inzet van media ten behoeve van departementale voorlichting en communicatie. 
 
-### Artikel  6.5a*  
+### Artikel  6.5a  
 
 De directeur Bestuur, Democratie en Financiën is met inachtneming van dit besluit bevoegd tot het afdoen en ondertekenen van stukken in verband met de uitvoering van de Wet raadgevend referendum. 
 
-### Artikel  6.5a  
+### Artikel  6.5b  
 
 De directeur Organisatie Personeelsbeleid Rijk is met inachtneming van dit besluit bevoegd om stukken af te doen en te ondertekenen die voortvloeien uit: 
 
@@ -468,7 +468,7 @@ l. de onderwerpen genoemd in artikel 4.10.
 1.  De directeur is, voor zover niet anders is bepaald, bevoegd tot het verlenen van ondermandaat aan onder hem ressorterende functionarissen ten aanzien van aangelegenheden op het werkterrein van deze functionarissen, respectievelijk tot het beperken of het intrekken daarvan.   
 2.  De directeur kan, voor zover niet anders is bepaald, bij het verlenen van ondermandaat tevens de bevoegdheid toekennen tot het verlenen van ondermandaat aan een rechtstreeks onder de gemandateerde ressorterende functionaris ten aanzien van aangelegenheden op het werkterrein van de functionaris.   
 3.  De directeur is bevoegd om in bijzondere gevallen, naast het bepaalde in het eerste en tweede lid, mondeling of schriftelijk ondermandaat te verlenen aan een onder hem ressorterende functionaris voor een bepaald geval, met inachtneming van artikel 1, derde lid, van het Besluit privaatrechtelijke rechtshandelingen 1996.   
-4.  De directeur is bevoegd tot het verlenen van ondermandaat aan de rechtstreeks onder de directeur ressorterende leidinggevenden ten aanzien van het vaststellen van beoordelingen, indien en voor zover deze leidinggevenden zelf leidinggevenden aansturen.  
+4.  De directeur is bevoegd tot het verlenen van ondermandaat aan de rechtstreeks onder de directeur ressorterende afdelingshoofden en aan de rechtstreeks onder de afdelingshoofden ressorterende leidinggevenden ten aanzien van het vaststellen van beoordelingen, indien en voor zover deze functionarissen zelf leidinggevenden aansturen.  
 5.  Het verlenen van ondermandaat door de directeur, niet zijnde een directeur die leiding geeft aan een baten-lasten dienst of een agentschap, voor het aangaan van financiële verplichtingen en het doen van uitgaven is enkel mogelijk aan in bijlage 1 van dit besluit genoemde onder hem ressorterende functionarissen met inachtneming van het aldaar genoemde maximumgrensbedrag per (meerjarige) verplichting. 
 
 ### Artikel  6.9  

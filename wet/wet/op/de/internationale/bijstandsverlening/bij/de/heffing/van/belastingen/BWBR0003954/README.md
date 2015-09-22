@@ -298,7 +298,7 @@ Op het bezwaar, beroep en beroep in cassatie inzake de op de voet van deze afdel
 
 ####Bestuurlijke boete
 
-1.  Indien degene die ingevolge paragraaf 2 verplicht is tot het verstrekken van gegevens, deze niet, niet tijdig, onjuist of onvolledig verstrekt, vormt dit een verzuim ter zake waarvan de bevoegde functionaris hem een boete van ten hoogste € 4 920 kan opleggen.   
+1.  Indien degene die ingevolge paragraaf 2 verplicht is tot het verstrekken van gegevens, deze niet, niet tijdig, onjuist of onvolledig verstrekt, vormt dit een verzuim ter zake waarvan de bevoegde functionaris hem een boete van ten hoogste € 5.278 kan opleggen.   
 2.  De bevoegdheid tot het opleggen van een boete vervalt door het verloop van vijf jaren na het einde van het kalenderjaar, bedoeld in de artikelen 4j en 4k.   
 3.  Bij het opleggen van een boete zijn de artikelen 67g, 67pa en 67pb van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing.   
 4.  De bevoegde functionaris is belast met het invorderen van een boete, waarbij de Invorderingswet 1990 en de Kostenwet invordering rijksbelastingen van overeenkomstige toepassing zijn.  
@@ -345,7 +345,6 @@ Onze Minister kan in overleg met een bevoegde autoriteit gevallen of groepen van
 2.  De bevoegde functionaris verstrekt de in artikel 4k bedoelde inlichtingen zonder voorafgaand verzoek aan de bevoegde autoriteit van de lidstaat waar de uitbetalende instantie woont of is gevestigd.  
 
 ### Artikel  6b  
-Treedt in werking per 01-01-2015 
 
 1.  Onze Minister verstrekt op grond van Richtlijn 2011/16/EU de bevoegde autoriteit van elke lidstaat automatisch de inlichtingen waarover hij ten aanzien van ingezetenen van die andere lidstaat beschikt inzake de volgende specifieke inkomsten- en vermogenscategorieën: 
 

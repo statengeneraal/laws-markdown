@@ -8,7 +8,7 @@ Besluiten:
 
 ### Artikel  1  
 
-Voor subsidieverlening op grond van de artikelen 6.4 en 6.5 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 geldt voor de periode van 1 januari 2015 tot en met 31 december 2015 een gezamenlijk subsidieplafond van € 64.975.000 voor het Netherlands Fellowship Programme II (NFP II) en het Netherlands Initiative for Capacity Development in Higher Education (NICHE II) en een subsidieplafond van € 1.106.697 voor het Middle-East North Africa Scholarship Programme II (MSP II). 
+Voor subsidieverlening op grond van de artikelen 6.4 en 6.5 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 geldt voor de periode van 1 januari 2015 tot en met 31 december 2015 een gezamenlijk subsidieplafond van € 77.015.000 voor het Netherlands Fellowship Programme II (NFP II) en het Netherlands Initiative for Capacity Development in Higher Education (NICHE II) en een subsidieplafond van € 1.106.697 voor het Middle-East North Africa Scholarship Programme II (MSP II). 
 
 ### Artikel  2  
 
