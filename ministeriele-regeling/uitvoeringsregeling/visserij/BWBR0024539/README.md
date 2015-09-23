@@ -75,7 +75,9 @@ bb. vistuig van het type staand want: kieuwnetten en warrelnetten als bedoeld in
 
 cc.  haven: het water dat begrensd wordt door havendammen en de uiteinden van deze dammen met daarop het groene, respectievelijk rode havenlicht. De grens tussen het open water en de haven wordt gevormd door de lijn tussen deze havenlichten; 
 
-dd. effectieve visduur: de periode tussen het in het water brengen van een vistuig en het lichten daarvan.  
+dd. effectieve visduur: de periode tussen het in het water brengen van een vistuig en het lichten daarvan; 
+
+ee.  overlevingsbun: opvangbak, ten minste een meter hoog, bestemd voor het ter verhoging van de overlevingskans van bijvangst in de aal- of schubvisvisserij, opvangen en automatisch sorteren van de bijvangst door middel van waterwervelingen, waarna terugvoer van de bijvangst plaatsvindt middels wateruitstroom door een in het water stekende afvoer.  
 
 ### Artikel  1a  
 
@@ -489,7 +491,8 @@ g. de zegen in de periode van 16 maart tot en met 31 oktober.
 
 ### Artikel  30  
 
-Het is verboden te vissen met de schietfuik binnenvisserij in de gebieden in het IJsselmeer, genoemd in bijlage 8. 
+1. Het is verboden te vissen met de schietfuik binnenvisserij in de gebieden in het IJsselmeer, genoemd in bijlage 8.  
+2.  Het is verboden te vissen met de schietfuik binnenvisserij in het IJsselmeer in andere gebieden dan die genoemd in bijlage 8 zonder hierbij gebruik te maken van een naar behoren werkende overlevingsbun. 
 
 ### Artikel  31  
 

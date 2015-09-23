@@ -67,7 +67,9 @@ Een oordeel over de examenkwaliteit van een opleiding komt als volgt tot stand. 
 
 2. een normering voor de examenkwaliteit van de opleiding.   De focus van een onderzoek van de Inspectie van het onderwijs naar de kwaliteit van de examinering en diplomering richt zich op de standaarden. Per standaard wordt een oordeel uitgesproken op een tweepuntschaal (onvoldoende – voldoende). Indicatoren en portretten zijn daarvoor indicerend en richtinggevend. Voor de examenkwaliteit van een opleiding wordt een oordeel uitgesproken op een vierpuntschaal (goed – voldoende – onvoldoende – slecht). Goed 
 
-–Aan alle standaarden is voldaan;  Voldoende De elementen in het portret worden op een uitstekende wijze uitgevoerd.
+–Aan alle standaarden is voldaan; 
+
+–De elementen in het portret worden op een uitstekende wijze uitgevoerd. Voldoende 
 
 –Aan alle standaarden is voldaan;
 
