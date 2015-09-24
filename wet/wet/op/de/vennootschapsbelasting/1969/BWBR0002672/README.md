@@ -236,7 +236,7 @@ b. € 2 000 000.   De belastingplichtige dient aannemelijk te maken dat dit bed
 
 ### Artikel  8d  
 
-Bij het bepalen van de winst blijven buiten aanmerking de subsidies, bedoeld in artikel 71a, eerste lid, van de Woningwet, ontvangen door verenigingen en stichtingen die op de voet van de Woningwet bij koninklijk besluit zijn toegelaten als instellingen die in het belang van de volkshuisvesting werkzaam zijn. 
+Bij het bepalen van de winst blijven buiten aanmerking de subsidies, bedoeld in artikel 57, eerste lid, van de Woningwet, ontvangen door verenigingen en stichtingen die op de voet van de Woningwet bij koninklijk besluit zijn toegelaten als instellingen die in het belang van de volkshuisvesting werkzaam zijn. 
 
 ### Artikel  8e  
 
@@ -381,7 +381,7 @@ i.kosten en lasten die verband houden met een werkruimte, de inrichting daaronde
 
 j.bij een vennootschap met een geheel of ten dele in aandelen verdeeld kapitaal: uitreiking of toekenning van aandelen in dat kapitaal of in dat van een met die vennootschap verbonden lichaam, van winstbewijzen in de vennootschap of in een met die vennootschap verbonden lichaam, alsmede van rechten om aandelen in dat kapitaal of winstbewijzen in de vennootschap of een daarmee verbonden lichaam te verwerven of van daarmee gelijk te stellen rechten, daaronder begrepen aan werknemers van wie het loon op jaarbasis meer bedraagt dan € 556.000 toegekende rechten waarvan de waarde hoofdzakelijk direct of indirect wordt bepaald door de waardeverandering van die aandelen of winstbewijzen;
 
-k. bij verenigingen en stichtingen die op de voet van de Woningwet bij koninklijk besluit zijn toegelaten als instellingen die in het belang van de volkshuisvesting werkzaam zijn: de verschuldigde bijdragen, bedoeld in artikel 71e, tweede lid, van de Woningwet.   
+k. bij verenigingen en stichtingen die op de voet van de Woningwet bij koninklijk besluit zijn toegelaten als instellingen die in het belang van de volkshuisvesting werkzaam zijn: de verschuldigde bijdragen, bedoeld in artikel 58, tweede lid, van de Woningwet.   
 2. Voor de toepassing van dit artikel wordt onder woning mede verstaan: een duurzaam aan een plaats gebonden schip of woonwagen als bedoeld in artikel 1, onder l, van de Wet op de huurtoeslag, alsmede de aanhorigheden van een woning, schip of woonwagen. 
 3.  Bij ministeriële regeling worden regels gesteld ter bepaling van hetgeen voor de toepassing van het eerste lid, onderdeel j, wordt verstaan onder werknemers en onder het loon op jaarbasis.   
 4.  Bij het begin van het kalenderjaar wordt het in het eerste lid, onderdeel j, genoemde bedrag bij ministeriële regeling vervangen door een ander bedrag. Dit bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet inkomstenbelasting 2001, en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande kalenderjaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag. 

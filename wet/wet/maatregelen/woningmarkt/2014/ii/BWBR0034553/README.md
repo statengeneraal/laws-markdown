@@ -111,7 +111,7 @@ Het belastbare bedrag is de som van de WOZ-waarden van de huurwoningen waarvan d
 
 ### Artikel  1.7  
 
-De verhuurderheffing bedraagt 0,381% van het belastbare bedrag. 
+De verhuurderheffing bedraagt 0,449% van het belastbare bedrag. 
 
 ### Afdeling  5  
 

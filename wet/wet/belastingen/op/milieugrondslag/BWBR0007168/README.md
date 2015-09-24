@@ -239,7 +239,11 @@ i.  *preparaten:* preparaten als bedoeld in de Wet milieubeheer;
 
 j.  *percolaat:* vloeistof die uit gestorte afvalstoffen komt of daarmee in contact is geweest;  
 
-k.  *stortgas:* gas dat uit gestorte afvalstoffen vrijkomt als gevolg van biologische afbraakreacties.     
+k.  *stortgas:* gas dat uit gestorte afvalstoffen vrijkomt als gevolg van biologische afbraakreacties;  
+
+l.  *EVOA:* Verordening (EG) nr. 1013/2006 van het Europees parlement en de Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU 2006, L 190);  
+
+m.  *overbrenging:* overbrenging in de zin van de EVOA.    
 2.  Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen worden niet tot afvalstoffen gerekend die stoffen, preparaten en voorwerpen, die voldoen aan de voorwaarden van bij algemene maatregel van bestuur opgesomde besluiten en regelingen volgens welke deze stoffen, preparaten en voorwerpen buiten inrichtingen met een stortplaats milieuhygiënisch verantwoord zijn toe te passen, dan wel bestemd zijn te worden gebruikt voor bij algemene maatregel van bestuur aan te wijzen toepassingen die hetzij verband houden met de bedrijfsvoering van de inrichting, hetzij deel uitmaken van het bedrijfsproces dat leidt tot de nuttige toepassing of verwijdering van afvalstoffen.  
 
 ### Afdeling  2  
@@ -252,14 +256,25 @@ k.  *stortgas:* gas dat uit gestorte afvalstoffen vrijkomt als gevolg van biolog
 
 a. de afgifte ter verwijdering van afvalstoffen aan een inrichting, met uitzondering van afvalstoffen waarvan uit boeken en bescheiden blijkt dat zij naar Nederland zijn overgebracht in de zin van Verordening (EG) nr. 1013/2006 van het Europees parlement en de Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU 2006, L 190);  
 
-b. de verwijdering van afvalstoffen binnen de inrichting waarin deze zijn ontstaan.     
+b. de verwijdering van afvalstoffen binnen de inrichting waarin deze zijn ontstaan;  
+
+c. het verkrijgen van toestemming tot overbrenging van afvalstoffen uit Nederland om deze buiten Nederland te laten verbranden.    
 2.  De aan een inrichting afgegeven afvalstoffen worden geacht alle te zijn afgegeven ter verwijdering.   
 3.  De in het eerste lid, onderdeel a, bedoelde uitzondering voor afvalstoffen die naar Nederland zijn overgebracht geldt niet voor afvalstoffen die in Nederland zijn ontstaan of zijn vermengd met afvalstoffen die in Nederland zijn ontstaan.   
 4.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel. 
 
+### Artikel  23a  
+
+1.  Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur wordt voor bepaalde afvalstoffen vastgesteld dat geen afvalstoffenbelasting wordt geheven ter zake van het verkrijgen van toestemming tot overbrenging van die afvalstoffen uit Nederland om deze buiten Nederland te laten verbranden.   
+2.  De algemene maatregel van bestuur, bedoeld in het eerste lid, heeft alleen betrekking op afvalstoffen waarvan ter zake van de afgifte ter verwijdering van afvalstoffen aan een inrichting in Nederland geen afvalstoffenbelasting wordt geheven.  
+
 ### Artikel  24  
 
-De belasting wordt geheven van de houder van een inrichting. 
+De belasting wordt geheven: 
+
+a. bij toepassing van artikel 23, eerste lid, onderdelen a en b: van de houder van de inrichting;  
+
+b. bij toepassing van artikel 23, eerste lid, onderdeel c: van degene aan wie ingevolge de EVOA toestemming is verleend de afvalstoffen uit Nederland over te brengen.   
 
 ### Afdeling  3  
 
@@ -276,7 +291,9 @@ De belasting wordt verschuldigd op het tijdstip waarop:
 
 a. de afvalstoffen ter verwijdering worden afgegeven; dan wel  
 
-b. de afvalstoffen binnen de inrichting waarin deze afvalstoffen zijn ontstaan, worden verwijderd.   
+b. de afvalstoffen binnen de inrichting waarin deze afvalstoffen zijn ontstaan, worden verwijderd; dan wel  
+
+c. de geldigheidsduur van de beschikking, houdende toestemming tot overbrenging, is verlopen.  
 
 ### Artikel  27  
 
@@ -311,7 +328,9 @@ a. het storten van afvalstoffen: € 13,00 per 1.000 kilogram;
 
 b. het verbranden van afvalstoffen in andere gevallen dan als bedoeld onder c: € 13,00 per 1.000 kilogram;  
 
-c. het verbranden van afvalstoffen in een installatie waarin op grond van bij of krachtens de Wet milieubeheer of de Wet algemene bepalingen omgevingsrecht gestelde voorschriften, dan wel een op grond van laatstgenoemde wet afgegeven omgevingsvergunning, geen huishoudelijke afvalstoffen, gemengde bedrijfsafvalstoffen en gemengd sorteerresidu mogen worden verbrand: nihil.     
+c. het verbranden van afvalstoffen in een installatie waarin op grond van bij of krachtens de Wet milieubeheer of de Wet algemene bepalingen omgevingsrecht gestelde voorschriften, dan wel een op grond van laatstgenoemde wet afgegeven omgevingsvergunning, geen huishoudelijke afvalstoffen, gemengde bedrijfsafvalstoffen en gemengd sorteerresidu mogen worden verbrand: nihil;  
+
+d. het verkrijgen van toestemming tot overbrenging van afvalstoffen uit Nederland: € 13,00 per 1.000 kilogram.    
 2.  Bij regeling van Onze Minister kan worden bepaald dat het tarief voor het storten van afvalstoffen die ter verwijdering worden afgegeven in partijen die uitsluitend of nagenoeg uitsluitend bestaan uit door bij die regeling vast te stellen categorieën van gevaarlijke afvalstoffen, wordt vastgesteld tot een verlaagd percentage van het tarief, bedoeld in het eerste lid, onderdeel a, dan wel tot nihil.  
 
 ### Afdeling  5*  
@@ -320,7 +339,7 @@ c. het verbranden van afvalstoffen in een installatie waarin op grond van bij of
 
 ### Artikel  29  
 
-1.  Vrijgesteld is de verwijdering van baggerspecie.   
+1.  Vrijgesteld is de afgifte ter verwijdering of het verkrijgen van toestemming tot overbrenging uit Nederland van baggerspecie.   
 2.  Indien baggerspecie ter verwijdering wordt afgegeven aan inrichtingen waar op grond van de voor die inrichting geldende omgevingsvergunning voor een inrichting als bedoeld in de Wet milieubeheer, ook andere afvalstoffen dan baggerspecie mogen worden gestort, wordt door de aanbieder van de baggerspecie aan de houder van de inrichting een verklaring overgelegd waaruit blijkt dat sprake is van baggerspecie.   
 3.  De in het tweede lid bedoelde verklaring wordt verstrekt door Onze Minister van Infrastructuur en Milieu. 
 
@@ -349,7 +368,12 @@ d. de kosten die verband houden met de toepassing van bestuursdwang, hieronder b
 ### Artikel  31  
 
 1.  De belastingplichtige is gehouden een administratie te voeren zodanig dat daaruit te allen tijde duidelijk blijken de aard, de hoeveelheid en de herkomst van de afvalstoffen.   
-2.  De belastingplichtige is gehouden de administratie zodanig in te richten dat daarin op overzichtelijke wijze is opgenomen welke stoffen, preparaten of voorwerpen als bedoeld in artikel 22, tweede lid, in welke hoeveelheden en op welk tijdstip de inrichting zijn binnengebracht dan wel hebben verlaten.  
+2.  De belastingplichtige, bedoeld in artikel 24, onderdeel a, is gehouden de administratie zodanig in te richten dat daarin op overzichtelijke wijze is opgenomen welke stoffen, preparaten of voorwerpen als bedoeld in artikel 22, tweede lid, in welke hoeveelheden en op welk tijdstip de inrichting zijn binnengebracht dan wel hebben verlaten.   
+3.  De belastingplichtige, bedoeld in artikel 24, onderdeel b, is gehouden de administratie zodanig in te richten dat daarin per overbrenging op overzichtelijke wijze is opgenomen: 
+
+a. op basis van welke beschikking, houdende toestemming tot overbrenging, de afvalstoffen zijn overgebracht uit Nederland;  
+
+b. welke stoffen, preparaten en voorwerpen in welke hoeveelheden uit Nederland zijn overgebracht en op welk tijdstip het vervoer van de afvalstoffen in het kader van de overbrenging is aangevangen.   
 
 ### Afdeling  8  
 

@@ -1036,9 +1036,9 @@ c. een beschikking op grond van deze wet;   kan binnen twee maanden na de medede
 
 ### Artikel  2.87  
 
-1.  Tegen de uitspraak op bezwaar van de inspecteur of de ontvanger staat binnen twee maanden na de dagtekening van de uitspraak onderscheidenlijk het verstrijken van de termijn, bedoeld in artikel 2.86, vierde lid, beroep open bij de Raad van Beroep voor belastingzaken, bedoeld in artikel 8.97 van de Belastingwet BES.   
-2.  Bij de instelling van het beroep bij de Raad van Beroep voor belastingzaken zijn de bepalingen van hoofdstuk VIII, titel 8, afdelingen 2 en 3, van de Belastingwet BES van overeenkomstige toepassing.   
-3.  De inspecteur of de ontvanger is belast met de uitvoering van de uitspraak van de Raad van Beroep voor belastingzaken.  
+1.  Tegen de uitspraak op bezwaar van de inspecteur of de ontvanger staat binnen twee maanden na de dagtekening van de uitspraak onderscheidenlijk het verstrijken van de termijn, bedoeld in artikel 2.86, vierde lid, beroep open bij het Gerecht in eerste aanleg.   
+2.  Bij het instellen van beroep bij het Gerecht in eerste aanleg zijn de bepalingen van hoofdstuk VIII, titel 8, afdeling 3, van de Belastingwet BES van overeenkomstige toepassing.   
+3.  De inspecteur of de ontvanger is belast met de uitvoering van de uitspraak van het Gerecht in eerste aanleg.  
 
 ### Titel  6  
 
